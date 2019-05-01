@@ -6,3 +6,4 @@ hosts:
   - theinsight.app
   - theinsight.test
 subnets:
+  - "$hello"
