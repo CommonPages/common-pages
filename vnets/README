@@ -1,0 +1,11 @@
+
+# Example:
+id: claimspace.me
+name: claimspace.me
+hosts:
+  - local.claimspace.me
+  - claimspace.me
+subnets:
+  - $foo
+  - $bar
+    
