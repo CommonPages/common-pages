@@ -1,0 +1,8 @@
+
+# Example:
+id: theinsight.app
+name: theinsight.app
+hosts:
+  - theinsight.app
+  - theinsight.test
+subnets:

@@ -1,0 +1,10 @@
+
+id: "$hello"
+name: "Hello, World!"
+theme:
+  logo: "//static.theinsight.cloud/icons/project.ico"
+links:
+  - text: Home
+    location: "/hello"
+network: "theinsight.app"
+authorize:
