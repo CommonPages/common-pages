@@ -6,4 +6,8 @@ hosts:
   - theinsight.app
   - theinsight.test
 subnets:
-  - "$hello"
+  - "$wp"
+  - "$nci"
+  - "$nccn"
+  - "$go2"
+  - "$os-bio"

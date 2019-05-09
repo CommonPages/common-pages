@@ -1,0 +1,10 @@
+
+id: "$nccn"
+name: "NCCN"
+theme:
+  logo: "//static.theinsight.cloud/icons/project.ico"
+links:
+  - text: Home
+    location: "/nccn"
+network: "theinsight.app"
+authorize:

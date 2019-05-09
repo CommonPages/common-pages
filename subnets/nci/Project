@@ -1,0 +1,10 @@
+
+id: "$nci"
+name: "NCI"
+theme:
+  logo: "//static.theinsight.cloud/icons/project.ico"
+links:
+  - text: Home
+    location: "/nci"
+network: "theinsight.app"
+authorize:

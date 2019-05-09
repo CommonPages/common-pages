@@ -1,0 +1,10 @@
+
+id: "$wp"
+name: "Wikipedia"
+theme:
+  logo: "//static.theinsight.cloud/icons/project.ico"
+links:
+  - text: Home
+    location: "/wp"
+network: "theinsight.app"
+authorize:

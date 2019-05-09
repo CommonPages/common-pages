@@ -1,0 +1,10 @@
+
+id: "$go2"
+name: "GO2"
+theme:
+  logo: "//static.theinsight.cloud/icons/project.ico"
+links:
+  - text: Home
+    location: "/go2"
+network: "theinsight.app"
+authorize:
