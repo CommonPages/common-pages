@@ -1,0 +1,11 @@
+
+id: "$os-ap"
+name: "Anatomy and Physiology"
+lead: "Anatomy is the study of the body’s structures. Physiology describes how these structures work together to support the functions of life."
+theme:
+  logo: "//static.theinsight.cloud/icons/project.ico"
+links:
+  - text: Home
+    location: "/os-ap"
+network: "theinsight.app"
+authorize:

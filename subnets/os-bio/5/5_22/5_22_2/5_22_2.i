@@ -2,7 +2,7 @@
 / Structure of Prokaryotes
 story 5_22_2
   >
-    There are many differences between prokaryotic and eukaryotic cells. However, all cells have four common structures: the plasma membrane, which functions as a barrier for the cell and separates the cell from its environment; the cytoplasm, a jelly-like substance inside the cell; nucleic acids, the genetic material of the cell; and ribosomes, where protein synthesis takes place. Prokaryotes come in various shapes, but many fall into three categories: cocci (spherical), bacilli (rod-shaped), and spirilli (spiral-shaped) ().
+    There are many differences between prokaryotic and eukaryotic cells. However, all cells have four common structures: the plasma membrane, which functions as a barrier for the cell and separates the cell from its environment; the cytoplasm, a jelly-like substance inside the cell; nucleic acids, the genetic material of the cell; and ribosomes, where protein synthesis takes place. Prokaryotes come in various shapes, but many fall into three categories: cocci (spherical), bacilli (rod-shaped), and spirilli (spiral-shaped) ({'Figure_22_2_1abc Figure 22.2.1abc}).
     
     
             

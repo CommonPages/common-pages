@@ -2,7 +2,7 @@
 / Reproductive Development and Structure
 story 6_32_1
   >
-    Sexual reproduction takes place with slight variations in different groups of plants. Plants have two distinct stages in their lifecycle: the gametophyte stage and the sporophyte stage. The haploid  **gametophyte** produces the male and female gametes by mitosis in distinct multicellular structures. Fusion of the male and females gametes forms the diploid zygote, which develops into the  **sporophyte**. After reaching maturity, the diploid sporophyte produces spores by meiosis, which in turn divide by mitosis to produce the haploid gametophyte. The new gametophyte produces gametes, and the cycle continues. This is the alternation of generations, and is typical of plant reproduction ().
+    Sexual reproduction takes place with slight variations in different groups of plants. Plants have two distinct stages in their lifecycle: the gametophyte stage and the sporophyte stage. The haploid  **gametophyte** produces the male and female gametes by mitosis in distinct multicellular structures. Fusion of the male and females gametes forms the diploid zygote, which develops into the  **sporophyte**. After reaching maturity, the diploid sporophyte produces spores by meiosis, which in turn divide by mitosis to produce the haploid gametophyte. The new gametophyte produces gametes, and the cycle continues. This is the alternation of generations, and is typical of plant reproduction ({'Figure_32_1_1 Figure 32.1.1}).
     
     
             

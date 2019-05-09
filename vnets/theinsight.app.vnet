@@ -11,3 +11,4 @@ subnets:
   - "$nccn"
   - "$go2"
   - "$os-bio"
+  - "$os-ap"

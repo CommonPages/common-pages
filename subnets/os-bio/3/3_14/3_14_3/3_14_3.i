@@ -2,14 +2,14 @@
 / Basics of DNA Replication
 story 3_14_3
   >
-    The elucidation of the structure of the double helix provided a hint as to how DNA divides and makes copies of itself. This model suggests that the two strands of the double helix separate during replication, and each strand serves as a template from which the new complementary strand is copied. What was not clear was how the replication took place. There were three models suggested (): conservative, semi-conservative, and dispersive.
+    The elucidation of the structure of the double helix provided a hint as to how DNA divides and makes copies of itself. This model suggests that the two strands of the double helix separate during replication, and each strand serves as a template from which the new complementary strand is copied. What was not clear was how the replication took place. There were three models suggested ({'Figure_14_3_1 Figure 14.3.1}): conservative, semi-conservative, and dispersive.
     
     
             
     
     In conservative replication, the parental DNA remains together, and the newly formed daughter strands are together. The semi-conservative method suggests that each of the two parental DNA strands act as a template for new DNA to be synthesized; after replication, each double-stranded DNA includes one parental or “old” strand and one “new” strand. In the dispersive model, both copies of DNA have double-stranded segments of parental DNA and newly synthesized DNA interspersed.
     
-    Meselson and Stahl were interested in understanding how DNA replicates. They grew  *E. coli* for several generations in a medium containing a “heavy” isotope of nitrogen (<sup>15</sup>N) that gets incorporated into nitrogenous bases, and eventually into the DNA ().
+    Meselson and Stahl were interested in understanding how DNA replicates. They grew  *E. coli* for several generations in a medium containing a “heavy” isotope of nitrogen (<sup>15</sup>N) that gets incorporated into nitrogenous bases, and eventually into the DNA ({'Figure_14_3_2 Figure 14.3.2}).
     
     
             

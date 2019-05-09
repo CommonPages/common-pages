@@ -2,7 +2,7 @@
 / Angiosperms
 story 5_26_3
   >
-    From their humble and still obscure beginning during the early Jurassic period, the angiosperms—or flowering plants—have evolved to dominate most terrestrial ecosystems (). With more than 250,000 species, the angiosperm phylum (Anthophyta) is second only to insects in terms of diversification.
+    From their humble and still obscure beginning during the early Jurassic period, the angiosperms—or flowering plants—have evolved to dominate most terrestrial ecosystems ({'Figure_26_3_1 Figure 26.3.1}). With more than 250,000 species, the angiosperm phylum (Anthophyta) is second only to insects in terms of diversification.
     
     
             

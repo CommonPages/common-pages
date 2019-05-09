@@ -2,7 +2,7 @@
 / Prevention and Treatment of Viral Infections
 story 5_21_3
   >
-    Viruses cause a variety of diseases in animals, including humans, ranging from the common cold to potentially fatal illnesses like meningitis (). These diseases can be treated by antiviral drugs or by vaccines, but some viruses, such as HIV, are capable of both avoiding the immune response and mutating to become resistant to antiviral drugs.
+    Viruses cause a variety of diseases in animals, including humans, ranging from the common cold to potentially fatal illnesses like meningitis ({'Figure_21_3_1 Figure 21.3.1}). These diseases can be treated by antiviral drugs or by vaccines, but some viruses, such as HIV, are capable of both avoiding the immune response and mutating to become resistant to antiviral drugs.
     
     
             

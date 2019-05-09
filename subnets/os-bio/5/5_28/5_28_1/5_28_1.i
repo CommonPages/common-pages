@@ -2,7 +2,7 @@
 / Phylum Porifera
 story 5_28_1
   >
-    The invertebrates, or  **invertebrata**, are animals that do not contain bony structures, such as the cranium and vertebrae. The simplest of all the invertebrates are the Parazoans, which include only the phylum  **Porifera**: the sponges (). Parazoans (“beside animals”) do not display tissue-level organization, although they do have specialized cells that perform specific functions. Sponge larvae are able to swim; however, adults are non-motile and spend their life attached to a substratum. Since water is vital to sponges for excretion, feeding, and gas exchange, their body structure facilitates the movement of water through the sponge. Structures such as canals, chambers, and cavities enable water to move through the sponge to nearly all body cells.
+    The invertebrates, or  **invertebrata**, are animals that do not contain bony structures, such as the cranium and vertebrae. The simplest of all the invertebrates are the Parazoans, which include only the phylum  **Porifera**: the sponges ({'Figure_28_1_1 Figure 28.1.1}). Parazoans (“beside animals”) do not display tissue-level organization, although they do have specialized cells that perform specific functions. Sponge larvae are able to swim; however, adults are non-motile and spend their life attached to a substratum. Since water is vital to sponges for excretion, feeding, and gas exchange, their body structure facilitates the movement of water through the sponge. Structures such as canals, chambers, and cavities enable water to move through the sponge to nearly all body cells.
     
     
             
