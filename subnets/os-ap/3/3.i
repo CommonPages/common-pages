@@ -195,10 +195,6 @@ space 3
     step
       --
         3.3_12.3_12_1.3_12_1_4
-    / References
-    step
-      --
-        3.3_12.3_12_1.3_12_1_5
     / Nervous Tissue - Introduction
     step
       --

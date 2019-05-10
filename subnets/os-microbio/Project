@@ -1,0 +1,11 @@
+
+id: "$os-microbio"
+name: "Microiology"
+lead: "Microbiology is the study of microbes — living organisms that are generally too small to be seen without a microscope."
+theme:
+  logo: "//static.theinsight.cloud/icons/project.ico"
+links:
+  - text: Home
+    location: "/os-microbio"
+network: "theinsight.app"
+authorize:

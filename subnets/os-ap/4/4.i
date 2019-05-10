@@ -317,10 +317,6 @@ space 4
     step
       --
         4.4_18.4_18_6.4_18_6_6
-    / References
-    step
-      --
-        4.4_18.4_18_6.4_18_6_7
     / The Cardiovascular System: The Heart - Introduction
     step
       --
@@ -577,10 +573,6 @@ space 4
     step
       --
         4.4_20.4_20_4.4_20_4_7
-    / References
-    step
-      --
-        4.4_20.4_20_4.4_20_4_8
     / Circulatory Pathways - Introduction
     step
       --
@@ -829,9 +821,5 @@ space 4
     step
       --
         4.4_21.4_21_7.4_21_7_4
-    / References
-    step
-      --
-        4.4_21.4_21_7.4_21_7_5
 
     

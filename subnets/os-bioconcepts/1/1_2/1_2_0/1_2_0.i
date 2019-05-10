@@ -1,0 +1,22 @@
+
+/ Introduction
+story 1_2_0
+  >
+    
+            
+    
+    The elements carbon, hydrogen, nitrogen, oxygen, sulfur, and phosphorus are the key building blocks of the chemicals found in living things. They form the carbohydrates, nucleic acids, proteins, and lipids (all of which will be defined later in this chapter) that are the fundamental molecular components of all organisms. In this chapter, we will discuss these important building blocks and learn how the unique properties of the atoms of different elements affect their interactions with other atoms to form the molecules of life.
+    
+    Food provides an organism with nutrients—the matter it needs to survive. Many of these critical nutrients come in the form of biological macromolecules, or large molecules necessary for life. These macromolecules are built from different combinations of smaller organic molecules. What specific types of biological macromolecules do living things require? How are these molecules formed? What functions do they serve? In this chapter, we will explore these questions.
+
+  apply FullText
+
+  ---
+    1_2_0_0
+
+  path FullText
+    step
+      --
+        1_2_0_0
+
+    

@@ -3,7 +3,6 @@
 url: //static.claimspace.cloud/projects/os/logos/os-bio.svg
 width: 160
 height: 160
-caption: Textbook content produced by OpenStax is licensed under a Creative Commons Attribution License 4.0 license.
 image 'Logo
 
 import Figures._

@@ -1,0 +1,11 @@
+
+id: "$os-stat"
+name: "Statistics"
+lead: "The science of statistics deals with the collection, analysis, interpretation, and presentation of data."
+theme:
+  logo: "//static.theinsight.cloud/icons/project.ico"
+links:
+  - text: Home
+    location: "/os-stat"
+network: "theinsight.app"
+authorize:

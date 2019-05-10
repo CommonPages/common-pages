@@ -304,10 +304,6 @@ space 2
     step
       --
         2.2_5.2_5_3.2_5_3_5
-    / References
-    step
-      --
-        2.2_5.2_5_3.2_5_3_6
     / Diseases, Disorders, and Injuries of the Integumentary System - Introduction
     step
       --
@@ -328,10 +324,6 @@ space 2
     step
       --
         2.2_5.2_5_4.2_5_4_4
-    / References
-    step
-      --
-        2.2_5.2_5_4.2_5_4_5
     / Bone Tissue and the Skeletal System - Introduction
     step
       --
@@ -556,10 +548,6 @@ space 2
     step
       --
         2.2_7.2_7_2.2_7_2_12
-    / References
-    step
-      --
-        2.2_7.2_7_2.2_7_2_13
     / The Vertebral Column - Introduction
     step
       --

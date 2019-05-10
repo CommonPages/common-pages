@@ -461,10 +461,6 @@ space 1
     step
       --
         1.1_3.1_3_2.1_3_2_5
-    / References
-    step
-      --
-        1.1_3.1_3_2.1_3_2_6
     / The Nucleus and DNA Replication - Introduction
     step
       --
@@ -661,10 +657,6 @@ space 1
     step
       --
         1.1_4.1_4_5.1_4_5_2
-    / References
-    step
-      --
-        1.1_4.1_4_5.1_4_5_3
     / Tissue Injury and Aging - Introduction
     step
       --
@@ -685,9 +677,5 @@ space 1
     step
       --
         1.1_4.1_4_6.1_4_6_4
-    / References
-    step
-      --
-        1.1_4.1_4_6.1_4_6_5
 
     

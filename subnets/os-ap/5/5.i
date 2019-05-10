@@ -210,10 +210,6 @@ space 5
     step
       --
         5.5_22.5_22_1.5_22_1_4
-    / References
-    step
-      --
-        5.5_22.5_22_1.5_22_1_5
     / The Lungs - Introduction
     step
       --
@@ -430,10 +426,6 @@ space 5
     step
       --
         5.5_23.5_23_3.5_23_3_9
-    / References
-    step
-      --
-        5.5_23.5_23_3.5_23_3_10
     / The Stomach - Introduction
     step
       --
@@ -486,10 +478,6 @@ space 5
     step
       --
         5.5_23.5_23_5.5_23_5_4
-    / References
-    step
-      --
-        5.5_23.5_23_5.5_23_5_5
     / Accessory Organs in Digestion: The Liver, Pancreas, and Gallbladder - Introduction
     step
       --
@@ -902,10 +890,6 @@ space 5
     step
       --
         5.5_25.5_25_10.5_25_10_7
-    / References
-    step
-      --
-        5.5_25.5_25_10.5_25_10_8
     / Fluid, Electrolyte, and Acid-Base Balance - Introduction
     step
       --

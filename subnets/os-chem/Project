@@ -1,0 +1,11 @@
+
+id: "$os-chem"
+name: "Chemistry"
+lead: "Chemistry deals with the composition, structure, properties and interactions of matter. "
+theme:
+  logo: "//static.theinsight.cloud/icons/project.ico"
+links:
+  - text: Home
+    location: "/os-chem"
+network: "theinsight.app"
+authorize:
