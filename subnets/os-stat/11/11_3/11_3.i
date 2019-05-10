@@ -27,6 +27,7 @@ story 11_3
     11_3_3
     11_3_4
 
+  / Test of Independence - Full Text
   path FullText
     step
       --

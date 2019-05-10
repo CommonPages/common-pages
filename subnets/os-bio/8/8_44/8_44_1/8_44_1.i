@@ -2,7 +2,7 @@
 / The Scope of Ecology
 story 8_44_1
   >
-     **Ecology** is the study of the interactions of living organisms with their environment. One core goal of ecology is to understand the distribution and abundance of living things in the physical environment. Attainment of this goal requires the integration of scientific disciplines inside and outside of biology, such as biochemistry, physiology, evolution, biodiversity, molecular biology, geology, and climatology. Some ecological research also applies aspects of chemistry and physics, and it frequently uses mathematical models.
+     **Ecology** is the study of the interactions of living organisms with their environment. One core goal of ecology is to understand the distribution and abundance of living things in the physical environment. Attainment of this goal requires the integration of scientific disciplines inside and outside of biology, such as mathematics, statistics, biochemistry, molecular biology, physiology, evolution, biodiversity, geology, and climatology.
 
   apply FullText
 
@@ -15,6 +15,7 @@ story 8_44_1
     8_44_1_5
     8_44_1_6
 
+  / The Scope of Ecology - Full Text
   path FullText
     step
       --

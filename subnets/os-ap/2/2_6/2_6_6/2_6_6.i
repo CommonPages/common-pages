@@ -13,6 +13,7 @@ story 2_6_6
     2_6_6_3
     2_6_6_4
 
+  / Exercise, Nutrition, Hormones, and Bone Tissue - Full Text
   path FullText
     step
       --

@@ -4,6 +4,7 @@
 space 20
 
   ^^
+    SkimPath
     FullPath
 
 
@@ -16,6 +17,45 @@ space 20
     20_5
     20_6
     20_7
+
+
+  / Key Concepts
+  // Electric Current, Resistance, and Ohm&#39;s Law - Key Concepts
+  path SkimPath
+    / Introduction to Electric Current, Resistance, and Ohm&#39;s Law
+    step
+      >>>
+        ## Introduction to Electric Current, Resistance, and Ohm&#39;s Law
+      >>
+        20.20_0.20_0_0
+      >>>
+        {step:next Continue}
+
+    / Ohm’s Law: Resistance and Simple Circuits
+    step
+      >>>
+        ## Ohm’s Law: Resistance and Simple Circuits
+      >>
+        20.20_2.20_2_0
+      --- Ohm’s Law: Resistance and Simple Circuits - In Depth
+        20.20_2.20_2_1
+        20.20_2.20_2_2
+        20.20_2.20_2_3
+      >>>
+        {step:next Continue}
+
+    / Electric Hazards and the Human Body
+    step
+      >>>
+        ## Electric Hazards and the Human Body
+      >>
+        20.20_6.20_6_0
+      --- Electric Hazards and the Human Body - In Depth
+        20.20_6.20_6_1
+        20.20_6.20_6_2
+        20.20_6.20_6_3
+      >>>
+        {step:exit}
 
 
   / 20 - Full Text

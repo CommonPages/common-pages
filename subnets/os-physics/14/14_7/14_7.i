@@ -67,6 +67,7 @@ story 14_7
     14_7_0
     14_7_1
 
+  / Radiation - Full Text
   path FullText
     step
       --

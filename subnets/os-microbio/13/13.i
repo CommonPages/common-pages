@@ -4,6 +4,7 @@
 space 13
 
   ^^
+    SkimPath
     FullPath
 
   insert 13.13_0.13_0_0
@@ -13,6 +14,73 @@ space 13
     13_2
     13_3
     13_4
+
+
+  / Key Concepts
+  // Control of Microbial Growth - Key Concepts
+  path SkimPath
+    / Control of Microbial Growth
+    step
+      >>>
+        ## Control of Microbial Growth
+      >>
+        13.13_0.13_0_0
+      >>>
+        {step:next Continue}
+
+    / Controlling Microbial Growth
+    step
+      >>>
+        ## Controlling Microbial Growth
+      >>
+        13.13_1.13_1_1
+      --- Controlling Microbial Growth - In Depth
+        13.13_1.13_1_2
+        13.13_1.13_1_3
+        13.13_1.13_1_4
+        13.13_1.13_1_5
+        13.13_1.13_1_6
+      >>>
+        {step:next Continue}
+
+    / Using Physical Methods to Control Microorganisms
+    step
+      >>>
+        ## Using Physical Methods to Control Microorganisms
+      >>
+        13.13_2.13_2_1
+      --- Using Physical Methods to Control Microorganisms - In Depth
+        13.13_2.13_2_2
+        13.13_2.13_2_3
+        13.13_2.13_2_4
+        13.13_2.13_2_5
+        13.13_2.13_2_6
+        13.13_2.13_2_7
+        13.13_2.13_2_8
+        13.13_2.13_2_9
+      >>>
+        {step:next Continue}
+
+    / Using Chemicals to Control Microorganisms
+    step
+      >>>
+        ## Using Chemicals to Control Microorganisms
+      >>
+        13.13_3.13_3_1
+      --- Using Chemicals to Control Microorganisms - In Depth
+        13.13_3.13_3_2
+        13.13_3.13_3_3
+        13.13_3.13_3_4
+        13.13_3.13_3_5
+        13.13_3.13_3_6
+        13.13_3.13_3_7
+        13.13_3.13_3_8
+        13.13_3.13_3_9
+        13.13_3.13_3_10
+        13.13_3.13_3_11
+        13.13_3.13_3_12
+      >>>
+        {step:exit}
 
 
   / 13 - Full Text
@@ -46,10 +114,6 @@ space 13
     step
       --
         13.13_1.13_1_6
-    / True/False
-    step
-      --
-        13.13_1.13_1_8
     / Using Physical Methods to Control Microorganisms - Introduction
     step
       --
@@ -86,10 +150,6 @@ space 13
     step
       --
         13.13_2.13_2_9
-    / True/False
-    step
-      --
-        13.13_2.13_2_11
     / Using Chemicals to Control Microorganisms - Introduction
     step
       --
@@ -138,10 +198,6 @@ space 13
     step
       --
         13.13_3.13_3_12
-    / True/False
-    step
-      --
-        13.13_3.13_3_14
     / Phenol Coefficient
     step
       --

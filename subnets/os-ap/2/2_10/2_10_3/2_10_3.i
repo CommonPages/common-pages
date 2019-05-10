@@ -26,8 +26,8 @@ story 2_10_3
     2_10_3_4
     2_10_3_5
     2_10_3_6
-    2_10_3_7
 
+  / Muscle Fiber Contraction and Relaxation - Full Text
   path FullText
     step
       --
@@ -50,8 +50,5 @@ story 2_10_3
     step
       --
         2_10_3_6
-    step
-      --
-        2_10_3_7
 
     

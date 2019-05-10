@@ -12,6 +12,7 @@ story 30_2
     30_2_2
     30_2_3
 
+  / Discovery of the Parts of the Atom: Electrons and Nuclei - Full Text
   path FullText
     step
       --

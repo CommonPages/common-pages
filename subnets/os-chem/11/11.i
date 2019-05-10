@@ -4,6 +4,7 @@
 space 11
 
   ^^
+    SkimPath
     FullPath
 
   insert 11.11_0.11_0_0
@@ -14,6 +15,94 @@ space 11
     11_3
     11_4
     11_5
+
+
+  / Key Concepts
+  // Solutions and Colloids - Key Concepts
+  path SkimPath
+    / Solutions and Colloids
+    step
+      >>>
+        ## Solutions and Colloids
+      >>
+        11.11_0.11_0_0
+      >>>
+        {step:next Continue}
+
+    / The Dissolution Process
+    step
+      >>>
+        ## The Dissolution Process
+      >>
+        11.11_1.11_1_0
+      --- The Dissolution Process - In Depth
+        11.11_1.11_1_1
+      >>>
+        {step:next Continue}
+
+    / Electrolytes
+    step
+      >>>
+        ## Electrolytes
+      >>
+        11.11_2.11_2_0
+      --- Electrolytes - In Depth
+        11.11_2.11_2_1
+        11.11_2.11_2_2
+        11.11_2.11_2_3
+      >>>
+        {step:next Continue}
+
+    / Solubility
+    step
+      >>>
+        ## Solubility
+      >>
+        11.11_3.11_3_0
+      --- Solubility - In Depth
+        11.11_3.11_3_1
+        11.11_3.11_3_2
+        11.11_3.11_3_3
+        11.11_3.11_3_4
+        11.11_3.11_3_5
+      >>>
+        {step:next Continue}
+
+    / Colligative Properties
+    step
+      >>>
+        ## Colligative Properties
+      >>
+        11.11_4.11_4_0
+      --- Colligative Properties - In Depth
+        11.11_4.11_4_1
+        11.11_4.11_4_2
+        11.11_4.11_4_3
+        11.11_4.11_4_4
+        11.11_4.11_4_5
+        11.11_4.11_4_6
+        11.11_4.11_4_7
+        11.11_4.11_4_8
+        11.11_4.11_4_9
+        11.11_4.11_4_10
+        11.11_4.11_4_11
+      >>>
+        {step:next Continue}
+
+    / Colloids
+    step
+      >>>
+        ## Colloids
+      >>
+        11.11_5.11_5_0
+      --- Colloids - In Depth
+        11.11_5.11_5_1
+        11.11_5.11_5_2
+        11.11_5.11_5_3
+        11.11_5.11_5_4
+        11.11_5.11_5_5
+      >>>
+        {step:exit}
 
 
   / 11 - Full Text
@@ -83,19 +172,19 @@ space 11
     step
       --
         11.11_4.11_4_2
-    / Elevation of the Boiling Point of a Solvent
-    step
-      --
-        11.11_4.11_4_3
     / Distillation of Solutions
     step
       --
+        11.11_4.11_4_3
+    / Boiling Point Elevation
+    step
+      --
         11.11_4.11_4_4
-    / Depression of the Freezing Point of a Solvent
+    / Freezing Point Depression
     step
       --
         11.11_4.11_4_5
-    / Phase Diagram for an Aqueous Solution of a Nonelectrolyte
+    / Phase Diagram for a Solution
     step
       --
         11.11_4.11_4_6

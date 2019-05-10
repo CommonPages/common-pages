@@ -16,8 +16,8 @@ story 5_26_1
     5_26_1_4
     5_26_1_5
     5_26_1_6
-    5_26_1_7
 
+  / Body Fluids and Fluid Compartments - Full Text
   path FullText
     step
       --
@@ -40,8 +40,5 @@ story 5_26_1
     step
       --
         5_26_1_6
-    step
-      --
-        5_26_1_7
 
     

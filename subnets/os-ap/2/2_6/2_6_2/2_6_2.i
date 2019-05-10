@@ -18,6 +18,7 @@ story 2_6_2
     2_6_2_5
     2_6_2_6
 
+  / Bone Classification - Full Text
   path FullText
     step
       --

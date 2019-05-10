@@ -4,6 +4,7 @@
 space 2
 
   ^^
+    SkimPath
     FullPath
 
   insert 2.2_0.2_0_0
@@ -16,6 +17,118 @@ space 2
     2_5
     2_6
     2_7
+
+
+  / Key Concepts
+  // Descriptive Statistics - Key Concepts
+  path SkimPath
+    / Descriptive Statistics
+    step
+      >>>
+        ## Descriptive Statistics
+      >>
+        2.2_0.2_0_0
+      >>>
+        {step:next Continue}
+
+    / Stem-and-Leaf Graphs (Stemplots), Line Graphs, and Bar Graphs
+    step
+      >>>
+        ## Stem-and-Leaf Graphs (Stemplots), Line Graphs, and Bar Graphs
+      >>
+        2.2_1.2_1_0
+      --- Stem-and-Leaf Graphs (Stemplots), Line Graphs, and Bar Graphs - In Depth
+        2.2_1.2_1_2
+        2.2_1.2_1_3
+      >>>
+        {step:next Continue}
+
+    / Histograms, Frequency Polygons, and Time Series Graphs
+    step
+      >>>
+        ## Histograms, Frequency Polygons, and Time Series Graphs
+      >>
+        2.2_2.2_2_0
+      --- Histograms, Frequency Polygons, and Time Series Graphs - In Depth
+        2.2_2.2_2_1
+        2.2_2.2_2_2
+        2.2_2.2_2_4
+        2.2_2.2_2_5
+      >>>
+        {step:next Continue}
+
+    / Measures of the Location of the Data
+    step
+      >>>
+        ## Measures of the Location of the Data
+      >>
+        2.2_3.2_3_0
+      --- Measures of the Location of the Data - In Depth
+        2.2_3.2_3_1
+        2.2_3.2_3_2
+        2.2_3.2_3_3
+        2.2_3.2_3_5
+        2.2_3.2_3_6
+        2.2_3.2_3_7
+      >>>
+        {step:next Continue}
+
+    / Box Plots
+    step
+      >>>
+        ## Box Plots
+      >>
+        2.2_4.2_4_0
+      --- Box Plots - In Depth
+        2.2_4.2_4_2
+        2.2_4.2_4_3
+      >>>
+        {step:next Continue}
+
+    / Measures of the Center of the Data
+    step
+      >>>
+        ## Measures of the Center of the Data
+      >>
+        2.2_5.2_5_0
+      --- Measures of the Center of the Data - In Depth
+        2.2_5.2_5_1
+        2.2_5.2_5_2
+        2.2_5.2_5_3
+        2.2_5.2_5_5
+        2.2_5.2_5_6
+        2.2_5.2_5_7
+      >>>
+        {step:next Continue}
+
+    / Skewness and the Mean, Median, and Mode
+    step
+      >>>
+        ## Skewness and the Mean, Median, and Mode
+      >>
+        2.2_6.2_6_0
+      --- Skewness and the Mean, Median, and Mode - In Depth
+        2.2_6.2_6_1
+        2.2_6.2_6_2
+      >>>
+        {step:next Continue}
+
+    / Measures of the Spread of the Data
+    step
+      >>>
+        ## Measures of the Spread of the Data
+      >>
+        2.2_7.2_7_0
+      --- Measures of the Spread of the Data - In Depth
+        2.2_7.2_7_1
+        2.2_7.2_7_2
+        2.2_7.2_7_3
+        2.2_7.2_7_4
+        2.2_7.2_7_6
+        2.2_7.2_7_7
+        2.2_7.2_7_8
+      >>>
+        {step:exit}
 
 
   / 2 - Full Text
@@ -97,10 +210,6 @@ space 2
     step
       --
         2.2_4.2_4_3
-    / Bringing It Together
-    step
-      --
-        2.2_4.2_4_4
     / Measures of the Center of the Data - Introduction
     step
       --
@@ -129,10 +238,6 @@ space 2
     step
       --
         2.2_5.2_5_7
-    / Bringing It Together
-    step
-      --
-        2.2_5.2_5_8
     / Skewness and the Mean, Median, and Mode - Introduction
     step
       --
@@ -177,8 +282,4 @@ space 2
     step
       --
         2.2_7.2_7_8
-    / Bringing It Together
-    step
-      --
-        2.2_7.2_7_9
     

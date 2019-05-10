@@ -4,6 +4,7 @@
 space 8
 
   ^^
+    SkimPath
     FullPath
 
   insert 8.8_0.8_0_0
@@ -16,6 +17,117 @@ space 8
     8_5
     8_6
     8_7
+
+
+  / Key Concepts
+  // Microbial Metabolism - Key Concepts
+  path SkimPath
+    / Microbial Metabolism
+    step
+      >>>
+        ## Microbial Metabolism
+      >>
+        8.8_0.8_0_0
+      >>>
+        {step:next Continue}
+
+    / Energy, Matter, and Enzymes
+    step
+      >>>
+        ## Energy, Matter, and Enzymes
+      >>
+        8.8_1.8_1_1
+      --- Energy, Matter, and Enzymes - In Depth
+        8.8_1.8_1_2
+        8.8_1.8_1_3
+        8.8_1.8_1_4
+        8.8_1.8_1_5
+        8.8_1.8_1_6
+        8.8_1.8_1_7
+      >>>
+        {step:next Continue}
+
+    / Catabolism of Carbohydrates
+    step
+      >>>
+        ## Catabolism of Carbohydrates
+      >>
+        8.8_2.8_2_1
+      --- Catabolism of Carbohydrates - In Depth
+        8.8_2.8_2_2
+        8.8_2.8_2_3
+        8.8_2.8_2_4
+        8.8_2.8_2_5
+      >>>
+        {step:next Continue}
+
+    / Cellular Respiration
+    step
+      >>>
+        ## Cellular Respiration
+      >>
+        8.8_3.8_3_1
+      --- Cellular Respiration - In Depth
+        8.8_3.8_3_2
+        8.8_3.8_3_3
+        8.8_3.8_3_4
+      >>>
+        {step:next Continue}
+
+    / Fermentation
+    step
+      >>>
+        ## Fermentation
+      >>
+        8.8_4.8_4_1
+      --- Fermentation - In Depth
+        8.8_4.8_4_2
+        8.8_4.8_4_4
+      >>>
+        {step:next Continue}
+
+    / Catabolism of Lipids and Proteins
+    step
+      >>>
+        ## Catabolism of Lipids and Proteins
+      >>
+        8.8_5.8_5_1
+      --- Catabolism of Lipids and Proteins - In Depth
+        8.8_5.8_5_2
+        8.8_5.8_5_3
+        8.8_5.8_5_4
+      >>>
+        {step:next Continue}
+
+    / Photosynthesis
+    step
+      >>>
+        ## Photosynthesis
+      >>
+        8.8_6.8_6_1
+      --- Photosynthesis - In Depth
+        8.8_6.8_6_2
+        8.8_6.8_6_3
+        8.8_6.8_6_4
+        8.8_6.8_6_5
+      >>>
+        {step:next Continue}
+
+    / Biogeochemical Cycles
+    step
+      >>>
+        ## Biogeochemical Cycles
+      >>
+        8.8_7.8_7_1
+      --- Biogeochemical Cycles - In Depth
+        8.8_7.8_7_2
+        8.8_7.8_7_3
+        8.8_7.8_7_4
+        8.8_7.8_7_5
+        8.8_7.8_7_6
+        8.8_7.8_7_7
+      >>>
+        {step:exit}
 
 
   / 8 - Full Text
@@ -53,10 +165,6 @@ space 8
     step
       --
         8.8_1.8_1_7
-    / True/False
-    step
-      --
-        8.8_1.8_1_9
     / Catabolism of Carbohydrates - Introduction
     step
       --
@@ -77,10 +185,6 @@ space 8
     step
       --
         8.8_2.8_2_5
-    / True/False
-    step
-      --
-        8.8_2.8_2_6
     / Cellular Respiration - Introduction
     step
       --
@@ -97,10 +201,6 @@ space 8
     step
       --
         8.8_3.8_3_4
-    / True/False
-    step
-      --
-        8.8_3.8_3_6
     / Fermentation - Introduction
     step
       --
@@ -149,10 +249,6 @@ space 8
     step
       --
         8.8_6.8_6_5
-    / True/False
-    step
-      --
-        8.8_6.8_6_6
     / Biogeochemical Cycles - Introduction
     step
       --
@@ -181,8 +277,4 @@ space 8
     step
       --
         8.8_7.8_7_7
-    / True/False
-    step
-      --
-        8.8_7.8_7_9
     

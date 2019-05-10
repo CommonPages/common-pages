@@ -24,6 +24,7 @@ story 1_4
     1_4_3
     1_4_4
 
+  / Experimental Design and Ethics - Full Text
   path FullText
     step
       --

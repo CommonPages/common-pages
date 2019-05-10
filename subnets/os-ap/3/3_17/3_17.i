@@ -4,6 +4,7 @@
 space 3_17
 
   ^^
+    SkimPath
     FullPath
 
   insert 3.3_17.3_17_0.3_17_0_0
@@ -20,6 +21,167 @@ space 3_17
     3_17_9
     3_17_10
     3_17_11
+
+
+  / Key Concepts
+  // The Endocrine System - Key Concepts
+  path SkimPath
+    / The Endocrine System
+    step
+      >>>
+        ## The Endocrine System
+      >>
+        3.3_17.3_17_0.3_17_0_0
+      >>>
+        {step:next Continue}
+
+    / An Overview of the Endocrine System
+    step
+      >>>
+        ## An Overview of the Endocrine System
+      >>
+        3.3_17.3_17_1.3_17_1_0
+      --- An Overview of the Endocrine System - In Depth
+        3.3_17.3_17_1.3_17_1_1
+        3.3_17.3_17_1.3_17_1_2
+        3.3_17.3_17_1.3_17_1_3
+        3.3_17.3_17_1.3_17_1_4
+      >>>
+        {step:next Continue}
+
+    / Hormones
+    step
+      >>>
+        ## Hormones
+      >>
+        3.3_17.3_17_2.3_17_2_0
+      --- Hormones - In Depth
+        3.3_17.3_17_2.3_17_2_1
+        3.3_17.3_17_2.3_17_2_2
+        3.3_17.3_17_2.3_17_2_3
+        3.3_17.3_17_2.3_17_2_4
+        3.3_17.3_17_2.3_17_2_5
+      >>>
+        {step:next Continue}
+
+    / The Pituitary Gland and Hypothalamus
+    step
+      >>>
+        ## The Pituitary Gland and Hypothalamus
+      >>
+        3.3_17.3_17_3.3_17_3_0
+      --- The Pituitary Gland and Hypothalamus - In Depth
+        3.3_17.3_17_3.3_17_3_1
+        3.3_17.3_17_3.3_17_3_2
+        3.3_17.3_17_3.3_17_3_3
+        3.3_17.3_17_3.3_17_3_4
+      >>>
+        {step:next Continue}
+
+    / The Thyroid Gland
+    step
+      >>>
+        ## The Thyroid Gland
+      >>
+        3.3_17.3_17_4.3_17_4_0
+      --- The Thyroid Gland - In Depth
+        3.3_17.3_17_4.3_17_4_1
+        3.3_17.3_17_4.3_17_4_2
+        3.3_17.3_17_4.3_17_4_3
+        3.3_17.3_17_4.3_17_4_4
+        3.3_17.3_17_4.3_17_4_5
+      >>>
+        {step:next Continue}
+
+    / The Parathyroid Glands
+    step
+      >>>
+        ## The Parathyroid Glands
+      >>
+        3.3_17.3_17_5.3_17_5_0
+      --- The Parathyroid Glands - In Depth
+        3.3_17.3_17_5.3_17_5_1
+      >>>
+        {step:next Continue}
+
+    / The Adrenal Glands
+    step
+      >>>
+        ## The Adrenal Glands
+      >>
+        3.3_17.3_17_6.3_17_6_0
+      --- The Adrenal Glands - In Depth
+        3.3_17.3_17_6.3_17_6_1
+        3.3_17.3_17_6.3_17_6_2
+        3.3_17.3_17_6.3_17_6_3
+        3.3_17.3_17_6.3_17_6_4
+      >>>
+        {step:next Continue}
+
+    / The Pineal Gland
+    step
+      >>>
+        ## The Pineal Gland
+      >>
+        3.3_17.3_17_7.3_17_7_0
+      --- The Pineal Gland - In Depth
+        3.3_17.3_17_7.3_17_7_1
+      >>>
+        {step:next Continue}
+
+    / Gonadal and Placental Hormones
+    step
+      >>>
+        ## Gonadal and Placental Hormones
+      >>
+        3.3_17.3_17_8.3_17_8_0
+      --- Gonadal and Placental Hormones - In Depth
+        3.3_17.3_17_8.3_17_8_1
+      >>>
+        {step:next Continue}
+
+    / The Endocrine Pancreas
+    step
+      >>>
+        ## The Endocrine Pancreas
+      >>
+        3.3_17.3_17_9.3_17_9_0
+      --- The Endocrine Pancreas - In Depth
+        3.3_17.3_17_9.3_17_9_1
+        3.3_17.3_17_9.3_17_9_2
+        3.3_17.3_17_9.3_17_9_3
+      >>>
+        {step:next Continue}
+
+    / Organs with Secondary Endocrine Functions
+    step
+      >>>
+        ## Organs with Secondary Endocrine Functions
+      >>
+        3.3_17.3_17_10.3_17_10_0
+      --- Organs with Secondary Endocrine Functions - In Depth
+        3.3_17.3_17_10.3_17_10_1
+        3.3_17.3_17_10.3_17_10_2
+        3.3_17.3_17_10.3_17_10_3
+        3.3_17.3_17_10.3_17_10_4
+        3.3_17.3_17_10.3_17_10_5
+        3.3_17.3_17_10.3_17_10_6
+        3.3_17.3_17_10.3_17_10_7
+        3.3_17.3_17_10.3_17_10_8
+        3.3_17.3_17_10.3_17_10_9
+      >>>
+        {step:next Continue}
+
+    / Development and Aging of the Endocrine System
+    step
+      >>>
+        ## Development and Aging of the Endocrine System
+      >>
+        3.3_17.3_17_11.3_17_11_0
+      --- Development and Aging of the Endocrine System - In Depth
+        3.3_17.3_17_11.3_17_11_1
+      >>>
+        {step:exit}
 
 
   / 3.17 - Full Text
@@ -49,10 +211,6 @@ space 3_17
     step
       --
         3.3_17.3_17_1.3_17_1_4
-    / Interactive Link Questions
-    step
-      --
-        3.3_17.3_17_1.3_17_1_5
     / Hormones - Introduction
     step
       --
@@ -97,10 +255,6 @@ space 3_17
     step
       --
         3.3_17.3_17_3.3_17_3_4
-    / Interactive Link Questions
-    step
-      --
-        3.3_17.3_17_3.3_17_3_5
     / The Thyroid Gland - Introduction
     step
       --
@@ -153,10 +307,6 @@ space 3_17
     step
       --
         3.3_17.3_17_6.3_17_6_4
-    / Interactive Link Questions
-    step
-      --
-        3.3_17.3_17_6.3_17_6_5
     / The Pineal Gland - Introduction
     step
       --
@@ -165,10 +315,6 @@ space 3_17
     step
       --
         3.3_17.3_17_7.3_17_7_1
-    / Interactive Link Questions
-    step
-      --
-        3.3_17.3_17_7.3_17_7_2
     / Gonadal and Placental Hormones - Introduction
     step
       --
@@ -193,10 +339,6 @@ space 3_17
     step
       --
         3.3_17.3_17_9.3_17_9_3
-    / Interactive Link Questions
-    step
-      --
-        3.3_17.3_17_9.3_17_9_4
     / Organs with Secondary Endocrine Functions - Introduction
     step
       --

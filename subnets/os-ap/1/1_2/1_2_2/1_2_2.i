@@ -16,8 +16,8 @@ story 1_2_2
     1_2_2_2
     1_2_2_3
     1_2_2_4
-    1_2_2_5
 
+  / Chemical Bonds - Full Text
   path FullText
     step
       --
@@ -34,8 +34,5 @@ story 1_2_2
     step
       --
         1_2_2_4
-    step
-      --
-        1_2_2_5
 
     

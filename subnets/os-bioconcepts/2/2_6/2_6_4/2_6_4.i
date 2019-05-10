@@ -13,6 +13,7 @@ story 2_6_4
     2_6_4_1
     2_6_4_2
 
+  / Prokaryotic Cell Division - Full Text
   path FullText
     step
       --

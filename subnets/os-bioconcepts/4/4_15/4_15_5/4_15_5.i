@@ -15,6 +15,7 @@ story 4_15_5
     4_15_5_5
     4_15_5_6
 
+  / Echinoderms and Chordates - Full Text
   path FullText
     step
       --

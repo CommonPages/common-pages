@@ -24,8 +24,8 @@ story 11_6
     11_6_4
     11_6_5
     11_6_6
-    11_6_8
 
+  / How Asexual Prokaryotes Achieve Genetic Diversity - Full Text
   path FullText
     step
       --
@@ -45,8 +45,5 @@ story 11_6
     step
       --
         11_6_6
-    step
-      --
-        11_6_8
 
     

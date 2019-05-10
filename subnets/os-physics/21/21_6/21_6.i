@@ -14,6 +14,7 @@ story 21_6
     21_6_4
     21_6_5
 
+  / DC Circuits Containing Resistors and Capacitors - Full Text
   path FullText
     step
       --

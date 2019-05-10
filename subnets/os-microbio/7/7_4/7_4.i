@@ -11,8 +11,8 @@ story 7_4
     7_4_2
     7_4_3
     7_4_4
-    7_4_6
 
+  / Proteins - Full Text
   path FullText
     step
       --
@@ -26,8 +26,5 @@ story 7_4
     step
       --
         7_4_4
-    step
-      --
-        7_4_6
 
     

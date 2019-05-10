@@ -13,6 +13,7 @@ story 6_28_6
     6_28_6_3
     6_28_6_4
 
+  / Lactation - Full Text
   path FullText
     step
       --

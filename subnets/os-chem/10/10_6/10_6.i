@@ -17,6 +17,7 @@ story 10_6
     10_6_7
     10_6_8
 
+  / Lattice Structures in Crystalline Solids - Full Text
   path FullText
     step
       --

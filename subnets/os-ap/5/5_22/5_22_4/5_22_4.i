@@ -12,6 +12,7 @@ story 5_22_4
     5_22_4_2
     5_22_4_3
 
+  / Gas Exchange - Full Text
   path FullText
     step
       --

@@ -11,8 +11,8 @@ story 3_1
     3_1_2
     3_1_3
     3_1_4
-    3_1_6
 
+  / Spontaneous Generation - Full Text
   path FullText
     step
       --
@@ -26,8 +26,5 @@ story 3_1
     step
       --
         3_1_4
-    step
-      --
-        3_1_6
 
     

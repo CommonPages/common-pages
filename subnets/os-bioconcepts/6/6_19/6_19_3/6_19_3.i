@@ -25,6 +25,7 @@ story 6_19_3
     6_19_3_3
     6_19_3_4
 
+  / The Human Population - Full Text
   path FullText
     step
       --

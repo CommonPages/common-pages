@@ -11,6 +11,7 @@ story 1_4_3
     1_4_3_2
     1_4_3_3
 
+  / Citric Acid Cycle and Oxidative Phosphorylation - Full Text
   path FullText
     step
       --

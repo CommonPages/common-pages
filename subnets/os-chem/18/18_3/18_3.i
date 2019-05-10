@@ -20,6 +20,7 @@ story 18_3
     18_3_2
     18_3_3
 
+  / Structure and General Properties of the Metalloids - Full Text
   path FullText
     step
       --

@@ -4,6 +4,7 @@
 space 4_18
 
   ^^
+    SkimPath
     FullPath
 
   insert 4.4_18.4_18_0.4_18_0_0
@@ -12,6 +13,63 @@ space 4_18
     4_18_1
     4_18_2
     4_18_3
+
+
+  / Key Concepts
+  // Evolution and the Origin of Species - Key Concepts
+  path SkimPath
+    / Evolution and the Origin of Species
+    step
+      >>>
+        ## Evolution and the Origin of Species
+      >>
+        4.4_18.4_18_0.4_18_0_0
+      >>>
+        {step:next Continue}
+
+    / Understanding Evolution
+    step
+      >>>
+        ## Understanding Evolution
+      >>
+        4.4_18.4_18_1.4_18_1_0
+      --- Understanding Evolution - In Depth
+        4.4_18.4_18_1.4_18_1_1
+        4.4_18.4_18_1.4_18_1_2
+        4.4_18.4_18_1.4_18_1_3
+        4.4_18.4_18_1.4_18_1_4
+        4.4_18.4_18_1.4_18_1_5
+      >>>
+        {step:next Continue}
+
+    / Formation of New Species
+    step
+      >>>
+        ## Formation of New Species
+      >>
+        4.4_18.4_18_2.4_18_2_0
+      --- Formation of New Species - In Depth
+        4.4_18.4_18_2.4_18_2_1
+        4.4_18.4_18_2.4_18_2_2
+        4.4_18.4_18_2.4_18_2_3
+        4.4_18.4_18_2.4_18_2_4
+        4.4_18.4_18_2.4_18_2_5
+        4.4_18.4_18_2.4_18_2_6
+      >>>
+        {step:next Continue}
+
+    / Reconnection and Speciation Rates
+    step
+      >>>
+        ## Reconnection and Speciation Rates
+      >>
+        4.4_18.4_18_3.4_18_3_0
+      --- Reconnection and Speciation Rates - In Depth
+        4.4_18.4_18_3.4_18_3_1
+        4.4_18.4_18_3.4_18_3_2
+        4.4_18.4_18_3.4_18_3_3
+      >>>
+        {step:exit}
 
 
   / 4.18 - Full Text
@@ -73,7 +131,7 @@ space 4_18
     step
       --
         4.4_18.4_18_2.4_18_2_6
-    / Reconnection and Rates of Speciation - Introduction
+    / Reconnection and Speciation Rates - Introduction
     step
       --
         4.4_18.4_18_3.4_18_3_0

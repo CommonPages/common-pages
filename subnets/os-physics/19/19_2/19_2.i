@@ -49,6 +49,7 @@ story 19_2
     19_2_0
     19_2_1
 
+  / Electric Potential in a Uniform Electric Field - Full Text
   path FullText
     step
       --

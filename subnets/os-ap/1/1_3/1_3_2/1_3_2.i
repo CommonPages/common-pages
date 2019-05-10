@@ -15,8 +15,8 @@ story 1_3_2
     1_3_2_2
     1_3_2_3
     1_3_2_4
-    1_3_2_5
 
+  / The Cytoplasm and Cellular Organelles - Full Text
   path FullText
     step
       --
@@ -33,8 +33,5 @@ story 1_3_2
     step
       --
         1_3_2_4
-    step
-      --
-        1_3_2_5
 
     

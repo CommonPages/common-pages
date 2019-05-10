@@ -22,6 +22,7 @@ story 4_6
     4_6_3
     4_6_4
 
+  / Archaea - Full Text
   path FullText
     step
       --

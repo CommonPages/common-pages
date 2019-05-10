@@ -19,8 +19,8 @@ story 1_4_5
   ---
     1_4_5_0
     1_4_5_1
-    1_4_5_2
 
+  / Nervous Tissue Mediates Perception and Response - Full Text
   path FullText
     step
       --
@@ -28,8 +28,5 @@ story 1_4_5
     step
       --
         1_4_5_1
-    step
-      --
-        1_4_5_2
 
     

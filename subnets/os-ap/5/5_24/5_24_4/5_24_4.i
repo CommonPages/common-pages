@@ -20,6 +20,7 @@ story 5_24_4
     5_24_4_1
     5_24_4_2
 
+  / Protein Metabolism - Full Text
   path FullText
     step
       --

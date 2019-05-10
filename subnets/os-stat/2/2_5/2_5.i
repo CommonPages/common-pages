@@ -38,8 +38,8 @@ story 2_5
     2_5_5
     2_5_6
     2_5_7
-    2_5_8
 
+  / Measures of the Center of the Data - Full Text
   path FullText
     step
       --
@@ -62,8 +62,5 @@ story 2_5
     step
       --
         2_5_7
-    step
-      --
-        2_5_8
 
     

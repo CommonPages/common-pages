@@ -14,6 +14,7 @@ story 1_1_2
     1_1_2_1
     1_1_2_2
 
+  / Structural Organization of the Human Body - Full Text
   path FullText
     step
       --

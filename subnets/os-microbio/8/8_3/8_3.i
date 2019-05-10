@@ -11,8 +11,8 @@ story 8_3
     8_3_2
     8_3_3
     8_3_4
-    8_3_6
 
+  / Cellular Respiration - Full Text
   path FullText
     step
       --
@@ -26,8 +26,5 @@ story 8_3
     step
       --
         8_3_4
-    step
-      --
-        8_3_6
 
     

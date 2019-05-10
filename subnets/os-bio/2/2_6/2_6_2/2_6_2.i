@@ -2,7 +2,7 @@
 / Potential, Kinetic, Free, and Activation Energy
 story 2_6_2
   >
-    Energy is defined as the ability to do work. As you’ve learned, energy exists in different forms. For example, electrical energy, light energy, and heat energy are all different types of energy. While these are all familiar types of energy that one can see or feel, there is another type of energy that is much less tangible. This energy is associated with something as simple as an object held above the ground. In order to appreciate the way energy flows into and out of biological systems, it is important to understand more about the different types of energy that exist in the physical world.
+    We define energy as the ability to do work. As you’ve learned, energy exists in different forms. For example, electrical energy, light energy, and heat energy are all different energy types. While these are all familiar energy types that one can see or feel, there is another energy type that is much less tangible. Scientists associate this energy with something as simple as an object above the ground. In order to appreciate the way energy flows into and out of biological systems, it is important to understand more about the different energy types that exist in the physical world.
 
   apply FullText
 
@@ -13,6 +13,7 @@ story 2_6_2
     2_6_2_3
     2_6_2_4
 
+  / Potential, Kinetic, Free, and Activation Energy - Full Text
   path FullText
     step
       --

@@ -55,6 +55,7 @@ story 22_5
     22_5_0
     22_5_1
 
+  / Force on a Moving Charge in a Magnetic Field: Examples and Applications - Full Text
   path FullText
     step
       --

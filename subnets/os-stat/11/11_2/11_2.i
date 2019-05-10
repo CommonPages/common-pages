@@ -28,6 +28,7 @@ story 11_2
     11_2_3
     11_2_4
 
+  / Goodness-of-Fit Test - Full Text
   path FullText
     step
       --

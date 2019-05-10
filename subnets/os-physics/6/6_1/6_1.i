@@ -12,6 +12,7 @@ story 6_1
     6_1_2
     6_1_3
 
+  / Rotation Angle and Angular Velocity - Full Text
   path FullText
     step
       --

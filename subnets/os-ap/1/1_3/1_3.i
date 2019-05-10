@@ -4,6 +4,7 @@
 space 1_3
 
   ^^
+    SkimPath
     FullPath
 
   insert 1.1_3.1_3_0.1_3_0_0
@@ -15,6 +16,99 @@ space 1_3
     1_3_4
     1_3_5
     1_3_6
+
+
+  / Key Concepts
+  // The Cellular Level of Organization - Key Concepts
+  path SkimPath
+    / The Cellular Level of Organization
+    step
+      >>>
+        ## The Cellular Level of Organization
+      >>
+        1.1_3.1_3_0.1_3_0_0
+      >>>
+        {step:next Continue}
+
+    / The Cell Membrane
+    step
+      >>>
+        ## The Cell Membrane
+      >>
+        1.1_3.1_3_1.1_3_1_0
+      --- The Cell Membrane - In Depth
+        1.1_3.1_3_1.1_3_1_1
+        1.1_3.1_3_1.1_3_1_2
+        1.1_3.1_3_1.1_3_1_3
+        1.1_3.1_3_1.1_3_1_4
+      >>>
+        {step:next Continue}
+
+    / The Cytoplasm and Cellular Organelles
+    step
+      >>>
+        ## The Cytoplasm and Cellular Organelles
+      >>
+        1.1_3.1_3_2.1_3_2_0
+      --- The Cytoplasm and Cellular Organelles - In Depth
+        1.1_3.1_3_2.1_3_2_1
+        1.1_3.1_3_2.1_3_2_2
+        1.1_3.1_3_2.1_3_2_3
+        1.1_3.1_3_2.1_3_2_4
+      >>>
+        {step:next Continue}
+
+    / The Nucleus and DNA Replication
+    step
+      >>>
+        ## The Nucleus and DNA Replication
+      >>
+        1.1_3.1_3_3.1_3_3_0
+      --- The Nucleus and DNA Replication - In Depth
+        1.1_3.1_3_3.1_3_3_1
+        1.1_3.1_3_3.1_3_3_2
+        1.1_3.1_3_3.1_3_3_3
+      >>>
+        {step:next Continue}
+
+    / Protein Synthesis
+    step
+      >>>
+        ## Protein Synthesis
+      >>
+        1.1_3.1_3_4.1_3_4_0
+      --- Protein Synthesis - In Depth
+        1.1_3.1_3_4.1_3_4_1
+        1.1_3.1_3_4.1_3_4_2
+        1.1_3.1_3_4.1_3_4_3
+      >>>
+        {step:next Continue}
+
+    / Cell Growth and Division
+    step
+      >>>
+        ## Cell Growth and Division
+      >>
+        1.1_3.1_3_5.1_3_5_0
+      --- Cell Growth and Division - In Depth
+        1.1_3.1_3_5.1_3_5_1
+        1.1_3.1_3_5.1_3_5_2
+        1.1_3.1_3_5.1_3_5_3
+      >>>
+        {step:next Continue}
+
+    / Cellular Differentiation
+    step
+      >>>
+        ## Cellular Differentiation
+      >>
+        1.1_3.1_3_6.1_3_6_0
+      --- Cellular Differentiation - In Depth
+        1.1_3.1_3_6.1_3_6_1
+        1.1_3.1_3_6.1_3_6_2
+        1.1_3.1_3_6.1_3_6_3
+      >>>
+        {step:exit}
 
 
   / 1.3 - Full Text
@@ -44,10 +138,6 @@ space 1_3
     step
       --
         1.1_3.1_3_1.1_3_1_4
-    / Interactive Link Questions
-    step
-      --
-        1.1_3.1_3_1.1_3_1_5
     / The Cytoplasm and Cellular Organelles - Introduction
     step
       --
@@ -68,10 +158,6 @@ space 1_3
     step
       --
         1.1_3.1_3_2.1_3_2_4
-    / Interactive Link Questions
-    step
-      --
-        1.1_3.1_3_2.1_3_2_5
     / The Nucleus and DNA Replication - Introduction
     step
       --
@@ -88,10 +174,6 @@ space 1_3
     step
       --
         1.1_3.1_3_3.1_3_3_3
-    / Interactive Link Questions
-    step
-      --
-        1.1_3.1_3_3.1_3_3_4
     / Protein Synthesis - Introduction
     step
       --
@@ -108,10 +190,6 @@ space 1_3
     step
       --
         1.1_3.1_3_4.1_3_4_3
-    / Interactive Link Questions
-    step
-      --
-        1.1_3.1_3_4.1_3_4_4
     / Cell Growth and Division - Introduction
     step
       --
@@ -128,10 +206,6 @@ space 1_3
     step
       --
         1.1_3.1_3_5.1_3_5_3
-    / Interactive Link Questions
-    step
-      --
-        1.1_3.1_3_5.1_3_5_4
     / Cellular Differentiation - Introduction
     step
       --

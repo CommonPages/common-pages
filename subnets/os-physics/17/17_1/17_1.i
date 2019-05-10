@@ -31,6 +31,7 @@ story 17_1
     17_1_0
     17_1_1
 
+  / Sound - Full Text
   path FullText
     step
       --

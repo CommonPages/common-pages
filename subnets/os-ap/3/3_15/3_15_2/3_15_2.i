@@ -11,8 +11,8 @@ story 3_15_2
     3_15_2_1
     3_15_2_2
     3_15_2_3
-    3_15_2_4
 
+  / Autonomic Reflexes and Homeostasis - Full Text
   path FullText
     step
       --
@@ -26,8 +26,5 @@ story 3_15_2
     step
       --
         3_15_2_3
-    step
-      --
-        3_15_2_4
 
     

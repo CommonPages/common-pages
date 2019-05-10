@@ -18,6 +18,7 @@ story 5_3
     5_3_4
     5_3_6
 
+  / The Exponential Distribution - Full Text
   path FullText
     step
       --

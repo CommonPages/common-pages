@@ -37,6 +37,7 @@ story 26_2
     26_2_0
     26_2_1
 
+  / Vision Correction - Full Text
   path FullText
     step
       --

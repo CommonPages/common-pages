@@ -36,6 +36,7 @@ story 25_5
     25_5_0
     25_5_1
 
+  / Dispersion: The Rainbow and Prisms - Full Text
   path FullText
     step
       --

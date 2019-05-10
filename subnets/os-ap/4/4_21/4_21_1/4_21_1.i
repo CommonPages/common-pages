@@ -15,8 +15,8 @@ story 4_21_1
     4_21_1_5
     4_21_1_6
     4_21_1_7
-    4_21_1_8
 
+  / Anatomy of the Lymphatic and Immune Systems - Full Text
   path FullText
     step
       --
@@ -42,8 +42,5 @@ story 4_21_1
     step
       --
         4_21_1_7
-    step
-      --
-        4_21_1_8
 
     

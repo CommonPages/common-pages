@@ -14,8 +14,8 @@ story 1_2_5
     1_2_5_4
     1_2_5_5
     1_2_5_6
-    1_2_5_7
 
+  / Organic Compounds Essential to Human Functioning - Full Text
   path FullText
     step
       --
@@ -38,8 +38,5 @@ story 1_2_5
     step
       --
         1_2_5_6
-    step
-      --
-        1_2_5_7
 
     

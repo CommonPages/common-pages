@@ -14,6 +14,7 @@ story 2_6_5
     2_6_5_2
     2_6_5_3
 
+  / Fractures: Bone Repair - Full Text
   path FullText
     step
       --

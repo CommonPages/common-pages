@@ -16,6 +16,7 @@ story 6_19_2
     6_19_2_6
     6_19_2_7
 
+  / Population Growth and Regulation - Full Text
   path FullText
     step
       --

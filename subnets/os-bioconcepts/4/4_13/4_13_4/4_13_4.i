@@ -27,6 +27,7 @@ story 4_13_4
     4_13_4_6
     4_13_4_7
 
+  / Fungi - Full Text
   path FullText
     step
       --

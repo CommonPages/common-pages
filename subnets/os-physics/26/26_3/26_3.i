@@ -12,6 +12,7 @@ story 26_3
     26_3_2
     26_3_3
 
+  / Color and Color Vision - Full Text
   path FullText
     step
       --

@@ -31,6 +31,7 @@ story 7_1
     7_1_3
     7_1_4
 
+  / The Central Limit Theorem for Sample Means (Averages) - Full Text
   path FullText
     step
       --

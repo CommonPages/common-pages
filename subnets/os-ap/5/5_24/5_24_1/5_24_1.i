@@ -16,6 +16,7 @@ story 5_24_1
     5_24_1_4
     5_24_1_5
 
+  / Overview of Metabolic Reactions - Full Text
   path FullText
     step
       --

@@ -12,6 +12,7 @@ story 4_18_0
   ---
     4_18_0_0
 
+  / Introduction - Full Text
   path FullText
     step
       --

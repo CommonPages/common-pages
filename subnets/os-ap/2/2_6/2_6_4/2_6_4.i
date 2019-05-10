@@ -16,6 +16,7 @@ story 2_6_4
     2_6_4_6
     2_6_4_7
 
+  / Bone Formation and Development - Full Text
   path FullText
     step
       --

@@ -14,6 +14,7 @@ story 15_1
     15_1_5
     15_1_6
 
+  / Characteristics of Infectious Disease - Full Text
   path FullText
     step
       --

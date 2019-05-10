@@ -16,6 +16,7 @@ story 18_8
     18_8_6
     18_8_7
 
+  / Applications of Electrostatics - Full Text
   path FullText
     step
       --

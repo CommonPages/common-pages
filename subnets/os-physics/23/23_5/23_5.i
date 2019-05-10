@@ -63,6 +63,7 @@ story 23_5
     23_5_0
     23_5_1
 
+  / Electric Generators - Full Text
   path FullText
     step
       --

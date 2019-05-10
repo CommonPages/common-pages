@@ -15,8 +15,8 @@ story 2_9_4
     2_9_4_2
     2_9_4_3
     2_9_4_4
-    2_9_4_5
 
+  / Synovial Joints - Full Text
   path FullText
     step
       --
@@ -33,8 +33,5 @@ story 2_9_4
     step
       --
         2_9_4_4
-    step
-      --
-        2_9_4_5
 
     

@@ -20,6 +20,7 @@ story 20_3
     20_3_5
     20_3_6
 
+  / Radioactive Decay - Full Text
   path FullText
     step
       --

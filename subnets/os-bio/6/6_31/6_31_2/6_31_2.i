@@ -14,7 +14,9 @@ story 6_31_2
     6_31_2_2
     6_31_2_3
     6_31_2_4
+    6_31_2_6
 
+  / The Soil - Full Text
   path FullText
     step
       --
@@ -31,5 +33,8 @@ story 6_31_2
     step
       --
         6_31_2_4
+    step
+      --
+        6_31_2_6
 
     

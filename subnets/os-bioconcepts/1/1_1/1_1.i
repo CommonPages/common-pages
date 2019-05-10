@@ -4,6 +4,7 @@
 space 1_1
 
   ^^
+    SkimPath
     FullPath
 
   insert 1.1_1.1_1_0.1_1_0_0
@@ -11,6 +12,49 @@ space 1_1
   --
     1_1_1
     1_1_2
+
+
+  / Key Concepts
+  // Introduction to Biology - Key Concepts
+  path SkimPath
+    / Introduction to Biology
+    step
+      >>>
+        ## Introduction to Biology
+      >>
+        1.1_1.1_1_0.1_1_0_0
+      >>>
+        {step:next Continue}
+
+    / Themes and Concepts of Biology
+    step
+      >>>
+        ## Themes and Concepts of Biology
+      >>
+        1.1_1.1_1_1.1_1_1_0
+      --- Themes and Concepts of Biology - In Depth
+        1.1_1.1_1_1.1_1_1_1
+        1.1_1.1_1_1.1_1_1_2
+        1.1_1.1_1_1.1_1_1_3
+        1.1_1.1_1_1.1_1_1_4
+        1.1_1.1_1_1.1_1_1_5
+      >>>
+        {step:next Continue}
+
+    / The Process of Science
+    step
+      >>>
+        ## The Process of Science
+      >>
+        1.1_1.1_1_2.1_1_2_0
+      --- The Process of Science - In Depth
+        1.1_1.1_1_2.1_1_2_1
+        1.1_1.1_1_2.1_1_2_2
+        1.1_1.1_1_2.1_1_2_3
+        1.1_1.1_1_2.1_1_2_4
+        1.1_1.1_1_2.1_1_2_5
+      >>>
+        {step:exit}
 
 
   / 1.1 - Full Text

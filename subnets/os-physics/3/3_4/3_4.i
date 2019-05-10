@@ -101,6 +101,7 @@ story 3_4
     3_4_0
     3_4_1
 
+  / Projectile Motion - Full Text
   path FullText
     step
       --

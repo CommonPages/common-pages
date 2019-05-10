@@ -17,6 +17,7 @@ story 20_1
     20_1_3
     20_1_4
 
+  / Nuclear Structure and Stability - Full Text
   path FullText
     step
       --

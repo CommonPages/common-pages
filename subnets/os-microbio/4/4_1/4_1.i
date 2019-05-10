@@ -12,8 +12,8 @@ story 4_1
     4_1_3
     4_1_4
     4_1_5
-    4_1_6
 
+  / Prokaryote Habitats, Relationships, and Microbiomes - Full Text
   path FullText
     step
       --
@@ -30,8 +30,5 @@ story 4_1
     step
       --
         4_1_5
-    step
-      --
-        4_1_6
 
     

@@ -11,8 +11,8 @@ story 1_1_5
     1_1_5_1
     1_1_5_2
     1_1_5_3
-    1_1_5_4
 
+  / Homeostasis - Full Text
   path FullText
     step
       --
@@ -26,8 +26,5 @@ story 1_1_5
     step
       --
         1_1_5_3
-    step
-      --
-        1_1_5_4
 
     

@@ -23,6 +23,7 @@ story 12_6
     12_6_7
     12_6_8
 
+  / Outliers - Full Text
   path FullText
     step
       --

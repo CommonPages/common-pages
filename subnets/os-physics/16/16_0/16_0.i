@@ -16,6 +16,7 @@ story 16_0
   ---
     16_0_0
 
+  / Introduction to Oscillatory Motion and Waves - Full Text
   path FullText
     step
       --

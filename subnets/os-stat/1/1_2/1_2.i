@@ -24,8 +24,8 @@ story 1_2
     1_2_3
     1_2_4
     1_2_6
-    1_2_8
 
+  / Data, Sampling, and Variation in Data and Sampling - Full Text
   path FullText
     step
       --
@@ -45,8 +45,5 @@ story 1_2
     step
       --
         1_2_6
-    step
-      --
-        1_2_8
 
     

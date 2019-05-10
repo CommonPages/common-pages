@@ -8,6 +8,7 @@ story 25_0
   ---
     25_0_0
 
+  / Introduction to Geometric Optics - Full Text
   path FullText
     step
       --

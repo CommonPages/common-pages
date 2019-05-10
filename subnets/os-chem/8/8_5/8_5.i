@@ -24,6 +24,7 @@ story 8_5
     8_5_4
     8_5_5
 
+  / The Kinetic-Molecular Theory - Full Text
   path FullText
     step
       --

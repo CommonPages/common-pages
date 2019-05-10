@@ -61,6 +61,7 @@ story 16_5
     16_5_0
     16_5_1
 
+  / Energy and the Simple Harmonic Oscillator - Full Text
   path FullText
     step
       --

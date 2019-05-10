@@ -13,8 +13,8 @@ story 14_2
     14_2_4
     14_2_5
     14_2_6
-    14_2_8
 
+  / Fundamentals of Antimicrobial Chemotherapy - Full Text
   path FullText
     step
       --
@@ -34,8 +34,5 @@ story 14_2
     step
       --
         14_2_6
-    step
-      --
-        14_2_8
 
     

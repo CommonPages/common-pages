@@ -14,8 +14,8 @@ story 3_14_3
     3_14_3_4
     3_14_3_5
     3_14_3_6
-    3_14_3_7
 
+  / Motor Responses - Full Text
   path FullText
     step
       --
@@ -38,8 +38,5 @@ story 3_14_3
     step
       --
         3_14_3_6
-    step
-      --
-        3_14_3_7
 
     

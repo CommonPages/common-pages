@@ -26,6 +26,7 @@ story 9_1
     9_1_2
     9_1_3
 
+  / Null and Alternative Hypotheses - Full Text
   path FullText
     step
       --

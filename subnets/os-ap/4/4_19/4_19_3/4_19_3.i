@@ -16,6 +16,7 @@ story 4_19_3
     4_19_3_3
     4_19_3_4
 
+  / Cardiac Cycle - Full Text
   path FullText
     step
       --

@@ -13,8 +13,8 @@ story 7_1
     7_1_4
     7_1_5
     7_1_6
-    7_1_7
 
+  / Organic Molecules - Full Text
   path FullText
     step
       --
@@ -34,8 +34,5 @@ story 7_1
     step
       --
         7_1_6
-    step
-      --
-        7_1_7
 
     

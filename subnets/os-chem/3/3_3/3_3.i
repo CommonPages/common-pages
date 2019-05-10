@@ -14,6 +14,7 @@ story 3_3
     3_3_4
     3_3_5
 
+  / Development of Quantum Theory - Full Text
   path FullText
     step
       --

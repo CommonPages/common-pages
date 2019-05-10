@@ -74,6 +74,7 @@ story 18_7
     18_7_0
     18_7_1
 
+  / Occurrence, Preparation, and Properties of Nitrogen - Full Text
   path FullText
     step
       --

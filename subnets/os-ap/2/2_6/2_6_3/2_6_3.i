@@ -15,6 +15,7 @@ story 2_6_3
     2_6_3_5
     2_6_3_6
 
+  / Bone Structure - Full Text
   path FullText
     step
       --

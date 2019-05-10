@@ -18,6 +18,7 @@ story 14_1
     14_1_1
     14_1_2
 
+  / Heat - Full Text
   path FullText
     step
       --

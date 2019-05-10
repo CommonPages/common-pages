@@ -13,6 +13,7 @@ story 7_36_3
     7_36_3_3
     7_36_3_4
 
+  / Taste and Smell - Full Text
   path FullText
     step
       --

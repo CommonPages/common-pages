@@ -24,6 +24,7 @@ story 4_3
     4_3_4
     4_3_5
 
+  / Binomial Distribution - Full Text
   path FullText
     step
       --

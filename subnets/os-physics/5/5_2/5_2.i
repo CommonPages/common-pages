@@ -86,6 +86,7 @@ story 5_2
     5_2_1
     5_2_3
 
+  / Drag Forces - Full Text
   path FullText
     step
       --

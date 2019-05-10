@@ -50,6 +50,7 @@ story 17_3
     17_3_0
     17_3_1
 
+  / Sound Intensity and Sound Level - Full Text
   path FullText
     step
       --

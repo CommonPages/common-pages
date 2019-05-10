@@ -11,8 +11,8 @@ story 14_6
     14_6_2
     14_6_3
     14_6_4
-    14_6_6
 
+  / Testing the Effectiveness of Antimicrobials - Full Text
   path FullText
     step
       --
@@ -26,8 +26,5 @@ story 14_6
     step
       --
         14_6_4
-    step
-      --
-        14_6_6
 
     

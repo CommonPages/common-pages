@@ -15,6 +15,7 @@ story 8_45_6
     8_45_6_5
     8_45_6_6
 
+  / Community Ecology - Full Text
   path FullText
     step
       --

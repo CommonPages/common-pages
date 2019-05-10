@@ -19,6 +19,7 @@ story 5_24_2
     5_24_2_4
     5_24_2_5
 
+  / Carbohydrate Metabolism - Full Text
   path FullText
     step
       --

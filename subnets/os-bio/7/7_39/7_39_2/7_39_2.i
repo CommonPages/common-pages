@@ -14,6 +14,7 @@ story 7_39_2
     7_39_2_4
     7_39_2_5
 
+  / Gas Exchange across Respiratory Surfaces - Full Text
   path FullText
     step
       --

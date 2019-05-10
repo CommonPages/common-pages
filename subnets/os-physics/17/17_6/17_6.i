@@ -55,6 +55,7 @@ story 17_6
     17_6_0
     17_6_1
 
+  / Hearing - Full Text
   path FullText
     step
       --

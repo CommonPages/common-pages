@@ -23,6 +23,7 @@ story 19_3
     19_3_0
     19_3_1
 
+  / Electrical Potential Due to a Point Charge - Full Text
   path FullText
     step
       --

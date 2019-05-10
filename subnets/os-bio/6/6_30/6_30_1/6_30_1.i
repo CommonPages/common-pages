@@ -12,6 +12,7 @@ story 6_30_1
     6_30_1_2
     6_30_1_3
 
+  / The Plant Body - Full Text
   path FullText
     step
       --

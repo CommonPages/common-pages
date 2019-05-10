@@ -10,6 +10,7 @@ story 23_9
     23_9_1
     23_9_2
 
+  / Inductance - Full Text
   path FullText
     step
       --

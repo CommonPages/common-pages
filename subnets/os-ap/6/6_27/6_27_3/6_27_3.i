@@ -11,8 +11,8 @@ story 6_27_3
     6_27_3_1
     6_27_3_2
     6_27_3_3
-    6_27_3_4
 
+  / Development of the Male and Female Reproductive Systems - Full Text
   path FullText
     step
       --
@@ -26,8 +26,5 @@ story 6_27_3
     step
       --
         6_27_3_3
-    step
-      --
-        6_27_3_4
 
     

@@ -10,7 +10,7 @@ story 1_6
     
     <math xmlns:q="http://cnx.rice.edu/qml/1.0" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:bib="http://bibtexml.sf.net/" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/cnxml"><mrow><mfrac><mrow><mtext>100 m</mtext></mrow><mrow><mtext>10 s</mtext></mrow></mfrac><mspace width="0.2em"/><mo>=</mo><mtext>10 m/s</mtext></mrow></math>
     
-    Note that this simple arithmetic involves dividing the numbers of each measured quantity to yield the number of the computed quantity (100/10 = 10)  *and likewise* dividing the units of each measured quantity to yield the unit of the computed quantity (m/s = m/s). Now, consider using this same relation to predict the time required for a person running at this speed to travel a distance of 25 m. The same relation between the three properties is used, but in this case, the two quantities provided are a speed (10 m/s) and a distance (25 m). To yield the sought property, time, the equation must be rearranged appropriately:
+    Note that this simple arithmetic involves dividing the numbers of each measured quantity to yield the number of the computed quantity (100/10 = 10)  *and likewise* dividing the units of each measured quantity to yield the unit of the computed quantity (m/s = m/s). Now, consider using this same relation to predict the time required for a person running at this speed to travel a distance of 25 m. The same relation among the three properties is used, but in this case, the two quantities provided are a speed (10 m/s) and a distance (25 m). To yield the sought property, time, the equation must be rearranged appropriately:
     
     <math xmlns:q="http://cnx.rice.edu/qml/1.0" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:bib="http://bibtexml.sf.net/" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/cnxml"><mrow><mtext>time</mtext><mo>=</mo><mspace width="0.2em"/><mfrac><mrow><mtext>distance</mtext></mrow><mrow><mtext>speed</mtext></mrow></mfrac></mrow></math>
     
@@ -31,6 +31,7 @@ story 1_6
     1_6_3
     1_6_4
 
+  / Mathematical Treatment of Measurement Results - Full Text
   path FullText
     step
       --

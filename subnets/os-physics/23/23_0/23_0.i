@@ -19,6 +19,7 @@ story 23_0
   ---
     23_0_0
 
+  / Introduction to Electromagnetic Induction, AC Circuits and Electrical Technologies - Full Text
   path FullText
     step
       --

@@ -43,6 +43,7 @@ story 18_4
     18_4_4
     18_4_5
 
+  / Structure and General Properties of the Nonmetals - Full Text
   path FullText
     step
       --

@@ -1,6 +1,6 @@
 
 
-/ Unit 5. Biological Diversity
+/ Biological Diversity
 /// Living things fall into three large groups: Archaea, Bacteria, and Eukarya. Within these groups, there is vast biological diversity among organisms: from plants and animals to fungi, protists, viruses, bacteria and archaea.
 space 5
 
@@ -19,208 +19,634 @@ space 5
     5_28
     5_29
 
-  / 5 - Key Concepts
-  // Key Concepts
+  / Key Concepts
+  // Biological Diversity - Key Concepts
   path SkimPath
-    / Introduction
+    / Viruses
     step
-      --
+      >>>
+        ## Viruses
+      >>
         5.5_21.5_21_0.5_21_0_0
+      >>>
+        {step:next Continue}
     / Viral Evolution, Morphology, and Classification
     step
-      --
+      >>>
+        ## Viral Evolution, Morphology, and Classification
+      >>
         5.5_21.5_21_1.5_21_1_0
+      --- Viral Evolution, Morphology, and Classification - In Depth
+        5.5_21.5_21_1.5_21_1_1
+        5.5_21.5_21_1.5_21_1_2
+        5.5_21.5_21_1.5_21_1_3
+        5.5_21.5_21_1.5_21_1_4
+        5.5_21.5_21_1.5_21_1_5
+      >>>
+        {step:next Continue}
     / Virus Infections and Hosts
     step
-      --
+      >>>
+        ## Virus Infections and Hosts
+      >>
         5.5_21.5_21_2.5_21_2_0
+      --- Virus Infections and Hosts - In Depth
+        5.5_21.5_21_2.5_21_2_1
+        5.5_21.5_21_2.5_21_2_2
+        5.5_21.5_21_2.5_21_2_3
+        5.5_21.5_21_2.5_21_2_4
+        5.5_21.5_21_2.5_21_2_5
+        5.5_21.5_21_2.5_21_2_6
+      >>>
+        {step:next Continue}
     / Prevention and Treatment of Viral Infections
     step
-      --
+      >>>
+        ## Prevention and Treatment of Viral Infections
+      >>
         5.5_21.5_21_3.5_21_3_0
+      --- Prevention and Treatment of Viral Infections - In Depth
+        5.5_21.5_21_3.5_21_3_1
+        5.5_21.5_21_3.5_21_3_2
+        5.5_21.5_21_3.5_21_3_3
+      >>>
+        {step:next Continue}
     / Other Acellular Entities: Prions and Viroids
     step
-      --
+      >>>
+        ## Other Acellular Entities: Prions and Viroids
+      >>
         5.5_21.5_21_4.5_21_4_0
-    / Introduction
+      --- Other Acellular Entities: Prions and Viroids - In Depth
+        5.5_21.5_21_4.5_21_4_1
+        5.5_21.5_21_4.5_21_4_2
+        5.5_21.5_21_4.5_21_4_3
+      >>>
+        {step:next Continue}
+    / Prokaryotes: Bacteria and Archaea
     step
-      --
+      >>>
+        ## Prokaryotes: Bacteria and Archaea
+      >>
         5.5_22.5_22_0.5_22_0_0
+      >>>
+        {step:next Continue}
     / Prokaryotic Diversity
     step
-      --
+      >>>
+        ## Prokaryotic Diversity
+      >>
         5.5_22.5_22_1.5_22_1_0
-    / Structure of Prokaryotes
+      --- Prokaryotic Diversity - In Depth
+        5.5_22.5_22_1.5_22_1_1
+        5.5_22.5_22_1.5_22_1_2
+        5.5_22.5_22_1.5_22_1_3
+        5.5_22.5_22_1.5_22_1_4
+      >>>
+        {step:next Continue}
+    / Structure of Prokaryotes: Bacteria and Archaea
     step
-      --
+      >>>
+        ## Structure of Prokaryotes: Bacteria and Archaea
+      >>
         5.5_22.5_22_2.5_22_2_0
+      --- Structure of Prokaryotes: Bacteria and Archaea - In Depth
+        5.5_22.5_22_2.5_22_2_1
+        5.5_22.5_22_2.5_22_2_2
+        5.5_22.5_22_2.5_22_2_3
+      >>>
+        {step:next Continue}
     / Prokaryotic Metabolism
     step
-      --
+      >>>
+        ## Prokaryotic Metabolism
+      >>
         5.5_22.5_22_3.5_22_3_0
+      --- Prokaryotic Metabolism - In Depth
+        5.5_22.5_22_3.5_22_3_1
+        5.5_22.5_22_3.5_22_3_2
+        5.5_22.5_22_3.5_22_3_3
+      >>>
+        {step:next Continue}
     / Bacterial Diseases in Humans
     step
-      --
+      >>>
+        ## Bacterial Diseases in Humans
+      >>
         5.5_22.5_22_4.5_22_4_0
+      --- Bacterial Diseases in Humans - In Depth
+        5.5_22.5_22_4.5_22_4_1
+        5.5_22.5_22_4.5_22_4_2
+        5.5_22.5_22_4.5_22_4_3
+        5.5_22.5_22_4.5_22_4_4
+        5.5_22.5_22_4.5_22_4_5
+      >>>
+        {step:next Continue}
     / Beneficial Prokaryotes
     step
-      --
+      >>>
+        ## Beneficial Prokaryotes
+      >>
         5.5_22.5_22_5.5_22_5_0
-    / Introduction
+      --- Beneficial Prokaryotes - In Depth
+        5.5_22.5_22_5.5_22_5_1
+        5.5_22.5_22_5.5_22_5_2
+        5.5_22.5_22_5.5_22_5_3
+        5.5_22.5_22_5.5_22_5_4
+      >>>
+        {step:next Continue}
+    / Protists
     step
-      --
+      >>>
+        ## Protists
+      >>
         5.5_23.5_23_0.5_23_0_0
+      >>>
+        {step:next Continue}
     / Eukaryotic Origins
     step
-      --
+      >>>
+        ## Eukaryotic Origins
+      >>
         5.5_23.5_23_1.5_23_1_0
+      --- Eukaryotic Origins - In Depth
+        5.5_23.5_23_1.5_23_1_1
+        5.5_23.5_23_1.5_23_1_2
+        5.5_23.5_23_1.5_23_1_3
+      >>>
+        {step:next Continue}
     / Characteristics of Protists
     step
-      --
+      >>>
+        ## Characteristics of Protists
+      >>
         5.5_23.5_23_2.5_23_2_0
+      --- Characteristics of Protists - In Depth
+        5.5_23.5_23_2.5_23_2_1
+        5.5_23.5_23_2.5_23_2_2
+        5.5_23.5_23_2.5_23_2_3
+        5.5_23.5_23_2.5_23_2_4
+        5.5_23.5_23_2.5_23_2_5
+        5.5_23.5_23_2.5_23_2_6
+      >>>
+        {step:next Continue}
     / Groups of Protists
     step
-      --
+      >>>
+        ## Groups of Protists
+      >>
         5.5_23.5_23_3.5_23_3_0
+      --- Groups of Protists - In Depth
+        5.5_23.5_23_3.5_23_3_1
+        5.5_23.5_23_3.5_23_3_2
+        5.5_23.5_23_3.5_23_3_3
+        5.5_23.5_23_3.5_23_3_4
+        5.5_23.5_23_3.5_23_3_5
+        5.5_23.5_23_3.5_23_3_6
+        5.5_23.5_23_3.5_23_3_7
+      >>>
+        {step:next Continue}
     / Ecology of Protists
     step
-      --
+      >>>
+        ## Ecology of Protists
+      >>
         5.5_23.5_23_4.5_23_4_0
-    / Introduction
+      --- Ecology of Protists - In Depth
+        5.5_23.5_23_4.5_23_4_1
+        5.5_23.5_23_4.5_23_4_2
+        5.5_23.5_23_4.5_23_4_3
+        5.5_23.5_23_4.5_23_4_4
+        5.5_23.5_23_4.5_23_4_5
+      >>>
+        {step:next Continue}
+    / Fungi
     step
-      --
+      >>>
+        ## Fungi
+      >>
         5.5_24.5_24_0.5_24_0_0
+      >>>
+        {step:next Continue}
     / Characteristics of Fungi
     step
-      --
+      >>>
+        ## Characteristics of Fungi
+      >>
         5.5_24.5_24_1.5_24_1_0
+      --- Characteristics of Fungi - In Depth
+        5.5_24.5_24_1.5_24_1_1
+        5.5_24.5_24_1.5_24_1_2
+        5.5_24.5_24_1.5_24_1_3
+      >>>
+        {step:next Continue}
     / Classifications of Fungi
     step
-      --
+      >>>
+        ## Classifications of Fungi
+      >>
         5.5_24.5_24_2.5_24_2_0
+      --- Classifications of Fungi - In Depth
+        5.5_24.5_24_2.5_24_2_1
+        5.5_24.5_24_2.5_24_2_2
+        5.5_24.5_24_2.5_24_2_3
+        5.5_24.5_24_2.5_24_2_4
+        5.5_24.5_24_2.5_24_2_5
+        5.5_24.5_24_2.5_24_2_6
+        5.5_24.5_24_2.5_24_2_7
+      >>>
+        {step:next Continue}
     / Ecology of Fungi
     step
-      --
+      >>>
+        ## Ecology of Fungi
+      >>
         5.5_24.5_24_3.5_24_3_0
+      --- Ecology of Fungi - In Depth
+        5.5_24.5_24_3.5_24_3_1
+        5.5_24.5_24_3.5_24_3_2
+        5.5_24.5_24_3.5_24_3_3
+        5.5_24.5_24_3.5_24_3_4
+        5.5_24.5_24_3.5_24_3_5
+      >>>
+        {step:next Continue}
     / Fungal Parasites and Pathogens
     step
-      --
+      >>>
+        ## Fungal Parasites and Pathogens
+      >>
         5.5_24.5_24_4.5_24_4_0
+      --- Fungal Parasites and Pathogens - In Depth
+        5.5_24.5_24_4.5_24_4_1
+        5.5_24.5_24_4.5_24_4_2
+        5.5_24.5_24_4.5_24_4_3
+      >>>
+        {step:next Continue}
     / Importance of Fungi in Human Life
     step
-      --
+      >>>
+        ## Importance of Fungi in Human Life
+      >>
         5.5_24.5_24_5.5_24_5_0
-    / Introduction
+      --- Importance of Fungi in Human Life - In Depth
+        5.5_24.5_24_5.5_24_5_1
+      >>>
+        {step:next Continue}
+    / Seedless Plants
     step
-      --
+      >>>
+        ## Seedless Plants
+      >>
         5.5_25.5_25_0.5_25_0_0
+      >>>
+        {step:next Continue}
     / Early Plant Life
     step
-      --
+      >>>
+        ## Early Plant Life
+      >>
         5.5_25.5_25_1.5_25_1_0
+      --- Early Plant Life - In Depth
+        5.5_25.5_25_1.5_25_1_1
+        5.5_25.5_25_1.5_25_1_2
+        5.5_25.5_25_1.5_25_1_3
+        5.5_25.5_25_1.5_25_1_4
+        5.5_25.5_25_1.5_25_1_5
+      >>>
+        {step:next Continue}
     / Bryophytes
     step
-      --
+      >>>
+        ## Bryophytes
+      >>
         5.5_25.5_25_3.5_25_3_0
+      --- Bryophytes - In Depth
+        5.5_25.5_25_3.5_25_3_1
+        5.5_25.5_25_3.5_25_3_2
+        5.5_25.5_25_3.5_25_3_3
+        5.5_25.5_25_3.5_25_3_4
+      >>>
+        {step:next Continue}
     / Seedless Vascular Plants
     step
-      --
+      >>>
+        ## Seedless Vascular Plants
+      >>
         5.5_25.5_25_4.5_25_4_0
-    / Introduction
+      --- Seedless Vascular Plants - In Depth
+        5.5_25.5_25_4.5_25_4_1
+        5.5_25.5_25_4.5_25_4_2
+        5.5_25.5_25_4.5_25_4_3
+        5.5_25.5_25_4.5_25_4_4
+        5.5_25.5_25_4.5_25_4_5
+        5.5_25.5_25_4.5_25_4_6
+      >>>
+        {step:next Continue}
+    / Seed Plants
     step
-      --
+      >>>
+        ## Seed Plants
+      >>
         5.5_26.5_26_0.5_26_0_0
+      >>>
+        {step:next Continue}
     / Evolution of Seed Plants
     step
-      --
+      >>>
+        ## Evolution of Seed Plants
+      >>
         5.5_26.5_26_1.5_26_1_0
+      --- Evolution of Seed Plants - In Depth
+        5.5_26.5_26_1.5_26_1_1
+        5.5_26.5_26_1.5_26_1_2
+        5.5_26.5_26_1.5_26_1_3
+      >>>
+        {step:next Continue}
     / Gymnosperms
     step
-      --
+      >>>
+        ## Gymnosperms
+      >>
         5.5_26.5_26_2.5_26_2_0
+      --- Gymnosperms - In Depth
+        5.5_26.5_26_2.5_26_2_1
+        5.5_26.5_26_2.5_26_2_2
+        5.5_26.5_26_2.5_26_2_3
+      >>>
+        {step:next Continue}
     / Angiosperms
     step
-      --
+      >>>
+        ## Angiosperms
+      >>
         5.5_26.5_26_3.5_26_3_0
+      --- Angiosperms - In Depth
+        5.5_26.5_26_3.5_26_3_1
+        5.5_26.5_26_3.5_26_3_2
+        5.5_26.5_26_3.5_26_3_3
+        5.5_26.5_26_3.5_26_3_4
+        5.5_26.5_26_3.5_26_3_5
+      >>>
+        {step:next Continue}
     / The Role of Seed Plants
     step
-      --
+      >>>
+        ## The Role of Seed Plants
+      >>
         5.5_26.5_26_4.5_26_4_0
-    / Introduction
+      --- The Role of Seed Plants - In Depth
+        5.5_26.5_26_4.5_26_4_1
+        5.5_26.5_26_4.5_26_4_2
+        5.5_26.5_26_4.5_26_4_3
+        5.5_26.5_26_4.5_26_4_4
+        5.5_26.5_26_4.5_26_4_5
+      >>>
+        {step:next Continue}
+    / Introduction to Animal Diversity
     step
-      --
+      >>>
+        ## Introduction to Animal Diversity
+      >>
         5.5_27.5_27_0.5_27_0_0
+      >>>
+        {step:next Continue}
     / Features of the Animal Kingdom
     step
-      --
+      >>>
+        ## Features of the Animal Kingdom
+      >>
         5.5_27.5_27_1.5_27_1_0
+      --- Features of the Animal Kingdom - In Depth
+        5.5_27.5_27_1.5_27_1_1
+        5.5_27.5_27_1.5_27_1_2
+        5.5_27.5_27_1.5_27_1_3
+      >>>
+        {step:next Continue}
     / Features Used to Classify Animals
     step
-      --
+      >>>
+        ## Features Used to Classify Animals
+      >>
         5.5_27.5_27_2.5_27_2_0
+      --- Features Used to Classify Animals - In Depth
+        5.5_27.5_27_2.5_27_2_1
+        5.5_27.5_27_2.5_27_2_2
+        5.5_27.5_27_2.5_27_2_3
+      >>>
+        {step:next Continue}
     / Animal Phylogeny
     step
-      --
+      >>>
+        ## Animal Phylogeny
+      >>
         5.5_27.5_27_3.5_27_3_0
+      --- Animal Phylogeny - In Depth
+        5.5_27.5_27_3.5_27_3_1
+        5.5_27.5_27_3.5_27_3_2
+        5.5_27.5_27_3.5_27_3_3
+      >>>
+        {step:next Continue}
     / The Evolutionary History of the Animal Kingdom
     step
-      --
+      >>>
+        ## The Evolutionary History of the Animal Kingdom
+      >>
         5.5_27.5_27_4.5_27_4_0
-    / Introduction
+      --- The Evolutionary History of the Animal Kingdom - In Depth
+        5.5_27.5_27_4.5_27_4_1
+        5.5_27.5_27_4.5_27_4_2
+        5.5_27.5_27_4.5_27_4_3
+        5.5_27.5_27_4.5_27_4_4
+      >>>
+        {step:next Continue}
+    / Invertebrates
     step
-      --
+      >>>
+        ## Invertebrates
+      >>
         5.5_28.5_28_0.5_28_0_0
+      >>>
+        {step:next Continue}
     / Phylum Porifera
     step
-      --
+      >>>
+        ## Phylum Porifera
+      >>
         5.5_28.5_28_1.5_28_1_0
+      --- Phylum Porifera - In Depth
+        5.5_28.5_28_1.5_28_1_1
+        5.5_28.5_28_1.5_28_1_2
+        5.5_28.5_28_1.5_28_1_3
+      >>>
+        {step:next Continue}
     / Phylum Cnidaria
     step
-      --
+      >>>
+        ## Phylum Cnidaria
+      >>
         5.5_28.5_28_2.5_28_2_0
-    / Superphylum Lophotrochozoa
+      --- Phylum Cnidaria - In Depth
+        5.5_28.5_28_2.5_28_2_1
+        5.5_28.5_28_2.5_28_2_2
+        5.5_28.5_28_2.5_28_2_3
+        5.5_28.5_28_2.5_28_2_4
+        5.5_28.5_28_2.5_28_2_5
+      >>>
+        {step:next Continue}
+    / Superphylum Lophotrochozoa: Flatworms, Rotifers, and Nemerteans
     step
-      --
+      >>>
+        ## Superphylum Lophotrochozoa: Flatworms, Rotifers, and Nemerteans
+      >>
         5.5_28.5_28_3.5_28_3_0
+      --- Superphylum Lophotrochozoa: Flatworms, Rotifers, and Nemerteans - In Depth
+        5.5_28.5_28_3.5_28_3_1
+        5.5_28.5_28_3.5_28_3_2
+        5.5_28.5_28_3.5_28_3_3
+        5.5_28.5_28_3.5_28_3_4
+      >>>
+        {step:next Continue}
+    / Superphylum Lophotrochozoa: Molluscs and Annelids
+    step
+      >>>
+        ## Superphylum Lophotrochozoa: Molluscs and Annelids
+      >>
+        5.5_28.5_28_4.5_28_4_0
+      --- Superphylum Lophotrochozoa: Molluscs and Annelids - In Depth
+        5.5_28.5_28_4.5_28_4_1
+        5.5_28.5_28_4.5_28_4_2
+        5.5_28.5_28_4.5_28_4_3
+      >>>
+        {step:next Continue}
+    / Superphylum Ecdysozoa: Arthropods
+    step
+      >>>
+        ## Superphylum Ecdysozoa: Arthropods
+      >>
+        5.5_28.5_28_6.5_28_6_0
+      --- Superphylum Ecdysozoa: Arthropods - In Depth
+        5.5_28.5_28_6.5_28_6_1
+        5.5_28.5_28_6.5_28_6_2
+      >>>
+        {step:next Continue}
     / Superphylum Deuterostomia
     step
-      --
-        5.5_28.5_28_5.5_28_5_0
-    / Introduction
+      >>>
+        ## Superphylum Deuterostomia
+      >>
+        5.5_28.5_28_7.5_28_7_0
+      --- Superphylum Deuterostomia - In Depth
+        5.5_28.5_28_7.5_28_7_1
+        5.5_28.5_28_7.5_28_7_2
+        5.5_28.5_28_7.5_28_7_3
+        5.5_28.5_28_7.5_28_7_4
+      >>>
+        {step:next Continue}
+    / Vertebrates
     step
-      --
+      >>>
+        ## Vertebrates
+      >>
         5.5_29.5_29_0.5_29_0_0
+      >>>
+        {step:next Continue}
     / Chordates
     step
-      --
+      >>>
+        ## Chordates
+      >>
         5.5_29.5_29_1.5_29_1_0
+      --- Chordates - In Depth
+        5.5_29.5_29_1.5_29_1_1
+        5.5_29.5_29_1.5_29_1_2
+        5.5_29.5_29_1.5_29_1_3
+        5.5_29.5_29_1.5_29_1_4
+      >>>
+        {step:next Continue}
     / Fishes
     step
-      --
+      >>>
+        ## Fishes
+      >>
         5.5_29.5_29_2.5_29_2_0
+      --- Fishes - In Depth
+        5.5_29.5_29_2.5_29_2_1
+        5.5_29.5_29_2.5_29_2_2
+        5.5_29.5_29_2.5_29_2_3
+      >>>
+        {step:next Continue}
     / Amphibians
     step
-      --
+      >>>
+        ## Amphibians
+      >>
         5.5_29.5_29_3.5_29_3_0
+      --- Amphibians - In Depth
+        5.5_29.5_29_3.5_29_3_1
+        5.5_29.5_29_3.5_29_3_2
+        5.5_29.5_29_3.5_29_3_3
+        5.5_29.5_29_3.5_29_3_4
+      >>>
+        {step:next Continue}
     / Reptiles
     step
-      --
+      >>>
+        ## Reptiles
+      >>
         5.5_29.5_29_4.5_29_4_0
+      --- Reptiles - In Depth
+        5.5_29.5_29_4.5_29_4_1
+        5.5_29.5_29_4.5_29_4_2
+        5.5_29.5_29_4.5_29_4_3
+        5.5_29.5_29_4.5_29_4_4
+        5.5_29.5_29_4.5_29_4_5
+        5.5_29.5_29_4.5_29_4_6
+        5.5_29.5_29_4.5_29_4_7
+        5.5_29.5_29_4.5_29_4_8
+      >>>
+        {step:next Continue}
     / Birds
     step
-      --
+      >>>
+        ## Birds
+      >>
         5.5_29.5_29_5.5_29_5_0
+      --- Birds - In Depth
+        5.5_29.5_29_5.5_29_5_1
+        5.5_29.5_29_5.5_29_5_2
+        5.5_29.5_29_5.5_29_5_3
+        5.5_29.5_29_5.5_29_5_4
+      >>>
+        {step:next Continue}
     / Mammals
     step
-      --
+      >>>
+        ## Mammals
+      >>
         5.5_29.5_29_6.5_29_6_0
+      --- Mammals - In Depth
+        5.5_29.5_29_6.5_29_6_1
+        5.5_29.5_29_6.5_29_6_2
+        5.5_29.5_29_6.5_29_6_3
+        5.5_29.5_29_6.5_29_6_4
+      >>>
+        {step:next Continue}
     / The Evolution of Primates
     step
-      --
+      >>>
+        ## The Evolution of Primates
+      >>
         5.5_29.5_29_7.5_29_7_0
+      --- The Evolution of Primates - In Depth
+        5.5_29.5_29_7.5_29_7_1
+        5.5_29.5_29_7.5_29_7_2
+        5.5_29.5_29_7.5_29_7_3
+        5.5_29.5_29_7.5_29_7_4
+      >>>
+        {step:next Continue}
 
   / 5 - Full Text
-  // Unit 5. Biological Diversity - Full Text
+  // Biological Diversity - Full Text
   path FullPath
     / Viruses - Introduction
     step
@@ -242,7 +668,7 @@ space 5
     step
       --
         5.5_21.5_21_1.5_21_1_3
-    / Virus Classification
+    / The Challenge of Virus Classification
     step
       --
         5.5_21.5_21_1.5_21_1_4
@@ -266,11 +692,11 @@ space 5
     step
       --
         5.5_21.5_21_2.5_21_2_3
-    / Animal Viruses
+    / Plant Viruses
     step
       --
         5.5_21.5_21_2.5_21_2_4
-    / Plant Viruses
+    / Animal Viruses
     step
       --
         5.5_21.5_21_2.5_21_2_5
@@ -286,7 +712,7 @@ space 5
     step
       --
         5.5_21.5_21_3.5_21_3_1
-    /  Vaccines and Anti-viral Drugs for Treatment
+    /  Vaccines and Antiviral Drugs for Treatment
     step
       --
         5.5_21.5_21_3.5_21_3_2
@@ -334,7 +760,7 @@ space 5
     step
       --
         5.5_22.5_22_1.5_22_1_4
-    / Structure of Prokaryotes - Introduction
+    / Structure of Prokaryotes: Bacteria and Archaea - Introduction
     step
       --
         5.5_22.5_22_2.5_22_2_0
@@ -378,22 +804,18 @@ space 5
     step
       --
         5.5_22.5_22_4.5_22_4_2
-    / Biofilms and Disease
-    step
-      --
-        5.5_22.5_22_4.5_22_4_3
-    / Antibiotics: Are We Facing a Crisis?
-    step
-      --
-        5.5_22.5_22_4.5_22_4_4
     / Foodborne Diseases
     step
       --
-        5.5_22.5_22_4.5_22_4_5
-    / Section Summary
+        5.5_22.5_22_4.5_22_4_3
+    / Biofilms and Disease
     step
       --
-        5.5_22.5_22_4.5_22_4_6
+        5.5_22.5_22_4.5_22_4_4
+    / Antibiotics: Are We Facing a Crisis?
+    step
+      --
+        5.5_22.5_22_4.5_22_4_5
     / Beneficial Prokaryotes - Introduction
     step
       --
@@ -466,27 +888,27 @@ space 5
     step
       --
         5.5_23.5_23_3.5_23_3_0
-    / Excavata
-    step
-      --
-        5.5_23.5_23_3.5_23_3_1
-    / Chromalveolata
-    step
-      --
-        5.5_23.5_23_3.5_23_3_2
-    / Rhizaria
-    step
-      --
-        5.5_23.5_23_3.5_23_3_3
     / Archaeplastida
     step
       --
-        5.5_23.5_23_3.5_23_3_4
+        5.5_23.5_23_3.5_23_3_1
     / Amoebozoa
     step
       --
-        5.5_23.5_23_3.5_23_3_5
+        5.5_23.5_23_3.5_23_3_2
     / Opisthokonta
+    step
+      --
+        5.5_23.5_23_3.5_23_3_3
+    / Rhizaria
+    step
+      --
+        5.5_23.5_23_3.5_23_3_4
+    / Chromalveolata
+    step
+      --
+        5.5_23.5_23_3.5_23_3_5
+    / Excavata
     step
       --
         5.5_23.5_23_3.5_23_3_6
@@ -510,7 +932,7 @@ space 5
     step
       --
         5.5_23.5_23_4.5_23_4_3
-    / Agents of Decomposition
+    / Protist Decomposers
     step
       --
         5.5_23.5_23_4.5_23_4_4
@@ -654,7 +1076,7 @@ space 5
     step
       --
         5.5_25.5_25_2.5_25_2_1
-    / Charales
+    / Charophytes
     step
       --
         5.5_25.5_25_2.5_25_2_2
@@ -702,7 +1124,7 @@ space 5
     step
       --
         5.5_25.5_25_4.5_25_4_4
-    / The Importance of Seedless Vascular Plants
+    / The Importance of Seedless Plants
     step
       --
         5.5_25.5_25_4.5_25_4_5
@@ -754,11 +1176,11 @@ space 5
     step
       --
         5.5_26.5_26_3.5_26_3_1
-    / Fruit
+    / The Life Cycle of an Angiosperm
     step
       --
         5.5_26.5_26_3.5_26_3_2
-    / The Life Cycle of an Angiosperm
+    / Fruit
     step
       --
         5.5_26.5_26_3.5_26_3_3
@@ -910,7 +1332,7 @@ space 5
     step
       --
         5.5_28.5_28_2.5_28_2_5
-    / Superphylum Lophotrochozoa - Introduction
+    / Superphylum Lophotrochozoa: Flatworms, Rotifers, and Nemerteans - Introduction
     step
       --
         5.5_28.5_28_3.5_28_3_0
@@ -926,27 +1348,19 @@ space 5
     step
       --
         5.5_28.5_28_3.5_28_3_3
-    / Phylum Mollusca
-    step
-      --
-        5.5_28.5_28_3.5_28_3_4
-    / Phylum Annelida
-    step
-      --
-        5.5_28.5_28_3.5_28_3_5
     / Section Summary
     step
       --
-        5.5_28.5_28_3.5_28_3_6
-    / Superphylum Ecdysozoa
+        5.5_28.5_28_3.5_28_3_4
+    / Superphylum Lophotrochozoa: Molluscs and Annelids - Introduction
     step
       --
         5.5_28.5_28_4.5_28_4_0
-    / Phylum Nematoda
+    / Phylum Mollusca
     step
       --
         5.5_28.5_28_4.5_28_4_1
-    / Phylum Arthropoda
+    / Phylum Annelida
     step
       --
         5.5_28.5_28_4.5_28_4_2
@@ -954,26 +1368,54 @@ space 5
     step
       --
         5.5_28.5_28_4.5_28_4_3
-    / Superphylum Deuterostomia - Introduction
+    / Superphylum Ecdysozoa
     step
       --
         5.5_28.5_28_5.5_28_5_0
-    / Phylum Echinodermata
+    / Phylum Nematoda
     step
       --
         5.5_28.5_28_5.5_28_5_1
-    / Classes of Echinoderms
+    / Phylum Tardigrada
     step
       --
         5.5_28.5_28_5.5_28_5_2
-    /  Phylum Chordata
-    step
-      --
-        5.5_28.5_28_5.5_28_5_3
     / Section Summary
     step
       --
-        5.5_28.5_28_5.5_28_5_4
+        5.5_28.5_28_5.5_28_5_3
+    / Superphylum Ecdysozoa: Arthropods - Introduction
+    step
+      --
+        5.5_28.5_28_6.5_28_6_0
+    / Phylum Arthropoda
+    step
+      --
+        5.5_28.5_28_6.5_28_6_1
+    / Section Summary
+    step
+      --
+        5.5_28.5_28_6.5_28_6_2
+    / Superphylum Deuterostomia - Introduction
+    step
+      --
+        5.5_28.5_28_7.5_28_7_0
+    / Phylum Echinodermata
+    step
+      --
+        5.5_28.5_28_7.5_28_7_1
+    / Classes of Echinoderms
+    step
+      --
+        5.5_28.5_28_7.5_28_7_2
+    / Phylum Chordata
+    step
+      --
+        5.5_28.5_28_7.5_28_7_3
+    / Section Summary
+    step
+      --
+        5.5_28.5_28_7.5_28_7_4
     / Vertebrates - Introduction
     step
       --
@@ -990,7 +1432,7 @@ space 5
     step
       --
         5.5_29.5_29_1.5_29_1_2
-    / Craniata and Vertebrata
+    / Subphylum Vertebrata (Craniata)
     step
       --
         5.5_29.5_29_1.5_29_1_3
@@ -1002,7 +1444,7 @@ space 5
     step
       --
         5.5_29.5_29_2.5_29_2_0
-    / Jawless Fishes
+    / Jawless Fishes: Superclass Agnatha
     step
       --
         5.5_29.5_29_2.5_29_2_1
@@ -1054,14 +1496,22 @@ space 5
     step
       --
         5.5_29.5_29_4.5_29_4_4
-    / Modern Reptiles
+    / Archosaurs: Dinosaurs
     step
       --
         5.5_29.5_29_4.5_29_4_5
-    / Section Summary
+    / Archosaurs: Pterosaurs
     step
       --
         5.5_29.5_29_4.5_29_4_6
+    / Modern Reptiles
+    step
+      --
+        5.5_29.5_29_4.5_29_4_7
+    / Section Summary
+    step
+      --
+        5.5_29.5_29_4.5_29_4_8
     / Birds - Introduction
     step
       --
@@ -1074,10 +1524,14 @@ space 5
     step
       --
         5.5_29.5_29_5.5_29_5_2
-    / Section Summary
+    / The Evolution of Flight in Birds
     step
       --
         5.5_29.5_29_5.5_29_5_3
+    / Section Summary
+    step
+      --
+        5.5_29.5_29_5.5_29_5_4
     / Mammals - Introduction
     step
       --
@@ -1090,7 +1544,7 @@ space 5
     step
       --
         5.5_29.5_29_6.5_29_6_2
-    / Living Mammals&#9;
+    / Living Mammals
     step
       --
         5.5_29.5_29_6.5_29_6_3

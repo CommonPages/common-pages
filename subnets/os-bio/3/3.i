@@ -1,6 +1,6 @@
 
 
-/ Unit 3. Genetics
+/ Genetics
 /// The ability to reproduce is a basic characteristic of all living things. The gene is the physical unit of inheritance. Genes are composed of DNA. They specify sequences of amino acids, which are the building blocks of proteins. In turn, proteins are responsible for orchestrating nearly every function of the cell. Both genes and the proteins they encode are absolutely essential to life as we know it.
 space 3
 
@@ -17,160 +17,448 @@ space 3
     3_16
     3_17
 
-  / 3 - Key Concepts
-  // Key Concepts
+  / Key Concepts
+  // Genetics - Key Concepts
   path SkimPath
-    / Introduction
+    / Meiosis and Sexual Reproduction
     step
-      --
+      >>>
+        ## Meiosis and Sexual Reproduction
+      >>
         3.3_11.3_11_0.3_11_0_0
+      >>>
+        {step:next Continue}
     / The Process of Meiosis
     step
-      --
+      >>>
+        ## The Process of Meiosis
+      >>
         3.3_11.3_11_1.3_11_1_0
+      --- The Process of Meiosis - In Depth
+        3.3_11.3_11_1.3_11_1_1
+        3.3_11.3_11_1.3_11_1_2
+        3.3_11.3_11_1.3_11_1_3
+        3.3_11.3_11_1.3_11_1_4
+      >>>
+        {step:next Continue}
     / Sexual Reproduction
     step
-      --
+      >>>
+        ## Sexual Reproduction
+      >>
         3.3_11.3_11_2.3_11_2_0
-    / Introduction
+      --- Sexual Reproduction - In Depth
+        3.3_11.3_11_2.3_11_2_1
+        3.3_11.3_11_2.3_11_2_2
+      >>>
+        {step:next Continue}
+    / Mendel&#39;s Experiments and Heredity
     step
-      --
+      >>>
+        ## Mendel&#39;s Experiments and Heredity
+      >>
         3.3_12.3_12_0.3_12_0_0
+      >>>
+        {step:next Continue}
     / Mendel’s Experiments and the Laws of Probability
     step
-      --
+      >>>
+        ## Mendel’s Experiments and the Laws of Probability
+      >>
         3.3_12.3_12_1.3_12_1_0
+      --- Mendel’s Experiments and the Laws of Probability - In Depth
+        3.3_12.3_12_1.3_12_1_1
+        3.3_12.3_12_1.3_12_1_2
+        3.3_12.3_12_1.3_12_1_3
+        3.3_12.3_12_1.3_12_1_4
+        3.3_12.3_12_1.3_12_1_5
+      >>>
+        {step:next Continue}
     / Characteristics and Traits
     step
-      --
+      >>>
+        ## Characteristics and Traits
+      >>
         3.3_12.3_12_2.3_12_2_0
+      --- Characteristics and Traits - In Depth
+        3.3_12.3_12_2.3_12_2_1
+        3.3_12.3_12_2.3_12_2_2
+        3.3_12.3_12_2.3_12_2_3
+        3.3_12.3_12_2.3_12_2_4
+      >>>
+        {step:next Continue}
     / Laws of Inheritance
     step
-      --
+      >>>
+        ## Laws of Inheritance
+      >>
         3.3_12.3_12_3.3_12_3_0
-    / Introduction
+      --- Laws of Inheritance - In Depth
+        3.3_12.3_12_3.3_12_3_1
+        3.3_12.3_12_3.3_12_3_2
+        3.3_12.3_12_3.3_12_3_3
+        3.3_12.3_12_3.3_12_3_4
+        3.3_12.3_12_3.3_12_3_5
+        3.3_12.3_12_3.3_12_3_6
+        3.3_12.3_12_3.3_12_3_7
+      >>>
+        {step:next Continue}
+    / Modern Understandings of Inheritance
     step
-      --
+      >>>
+        ## Modern Understandings of Inheritance
+      >>
         3.3_13.3_13_0.3_13_0_0
+      >>>
+        {step:next Continue}
     / Chromosomal Theory and Genetic Linkage
     step
-      --
+      >>>
+        ## Chromosomal Theory and Genetic Linkage
+      >>
         3.3_13.3_13_1.3_13_1_0
+      --- Chromosomal Theory and Genetic Linkage - In Depth
+        3.3_13.3_13_1.3_13_1_1
+        3.3_13.3_13_1.3_13_1_2
+        3.3_13.3_13_1.3_13_1_3
+      >>>
+        {step:next Continue}
     / Chromosomal Basis of Inherited Disorders
     step
-      --
+      >>>
+        ## Chromosomal Basis of Inherited Disorders
+      >>
         3.3_13.3_13_2.3_13_2_0
-    / Introduction
+      --- Chromosomal Basis of Inherited Disorders - In Depth
+        3.3_13.3_13_2.3_13_2_1
+        3.3_13.3_13_2.3_13_2_2
+        3.3_13.3_13_2.3_13_2_3
+        3.3_13.3_13_2.3_13_2_4
+        3.3_13.3_13_2.3_13_2_5
+        3.3_13.3_13_2.3_13_2_6
+        3.3_13.3_13_2.3_13_2_7
+        3.3_13.3_13_2.3_13_2_8
+      >>>
+        {step:next Continue}
+    / DNA Structure and Function
     step
-      --
+      >>>
+        ## DNA Structure and Function
+      >>
         3.3_14.3_14_0.3_14_0_0
+      >>>
+        {step:next Continue}
     / Historical Basis of Modern Understanding
     step
-      --
+      >>>
+        ## Historical Basis of Modern Understanding
+      >>
         3.3_14.3_14_1.3_14_1_0
+      --- Historical Basis of Modern Understanding - In Depth
+        3.3_14.3_14_1.3_14_1_1
+      >>>
+        {step:next Continue}
     / DNA Structure and Sequencing
     step
-      --
+      >>>
+        ## DNA Structure and Sequencing
+      >>
         3.3_14.3_14_2.3_14_2_0
+      --- DNA Structure and Sequencing - In Depth
+        3.3_14.3_14_2.3_14_2_1
+        3.3_14.3_14_2.3_14_2_2
+      >>>
+        {step:next Continue}
     / Basics of DNA Replication
     step
-      --
+      >>>
+        ## Basics of DNA Replication
+      >>
         3.3_14.3_14_3.3_14_3_0
+      --- Basics of DNA Replication - In Depth
+        3.3_14.3_14_3.3_14_3_1
+      >>>
+        {step:next Continue}
     / DNA Replication in Prokaryotes
     step
-      --
+      >>>
+        ## DNA Replication in Prokaryotes
+      >>
         3.3_14.3_14_4.3_14_4_0
+      --- DNA Replication in Prokaryotes - In Depth
+        3.3_14.3_14_4.3_14_4_1
+      >>>
+        {step:next Continue}
     / DNA Replication in Eukaryotes
     step
-      --
+      >>>
+        ## DNA Replication in Eukaryotes
+      >>
         3.3_14.3_14_5.3_14_5_0
+      --- DNA Replication in Eukaryotes - In Depth
+        3.3_14.3_14_5.3_14_5_1
+        3.3_14.3_14_5.3_14_5_2
+      >>>
+        {step:next Continue}
     / DNA Repair
     step
-      --
+      >>>
+        ## DNA Repair
+      >>
         3.3_14.3_14_6.3_14_6_0
-    / Introduction
+      --- DNA Repair - In Depth
+        3.3_14.3_14_6.3_14_6_1
+      >>>
+        {step:next Continue}
+    / Genes and Proteins
     step
-      --
+      >>>
+        ## Genes and Proteins
+      >>
         3.3_15.3_15_0.3_15_0_0
+      >>>
+        {step:next Continue}
     / The Genetic Code
     step
-      --
+      >>>
+        ## The Genetic Code
+      >>
         3.3_15.3_15_1.3_15_1_0
+      --- The Genetic Code - In Depth
+        3.3_15.3_15_1.3_15_1_1
+        3.3_15.3_15_1.3_15_1_2
+      >>>
+        {step:next Continue}
     / Prokaryotic Transcription
     step
-      --
+      >>>
+        ## Prokaryotic Transcription
+      >>
         3.3_15.3_15_2.3_15_2_0
+      --- Prokaryotic Transcription - In Depth
+        3.3_15.3_15_2.3_15_2_1
+        3.3_15.3_15_2.3_15_2_2
+        3.3_15.3_15_2.3_15_2_3
+        3.3_15.3_15_2.3_15_2_4
+      >>>
+        {step:next Continue}
     / Eukaryotic Transcription
     step
-      --
+      >>>
+        ## Eukaryotic Transcription
+      >>
         3.3_15.3_15_3.3_15_3_0
+      --- Eukaryotic Transcription - In Depth
+        3.3_15.3_15_3.3_15_3_1
+        3.3_15.3_15_3.3_15_3_2
+        3.3_15.3_15_3.3_15_3_3
+      >>>
+        {step:next Continue}
     / RNA Processing in Eukaryotes
     step
-      --
+      >>>
+        ## RNA Processing in Eukaryotes
+      >>
         3.3_15.3_15_4.3_15_4_0
+      --- RNA Processing in Eukaryotes - In Depth
+        3.3_15.3_15_4.3_15_4_1
+        3.3_15.3_15_4.3_15_4_2
+        3.3_15.3_15_4.3_15_4_3
+      >>>
+        {step:next Continue}
     / Ribosomes and Protein Synthesis
     step
-      --
+      >>>
+        ## Ribosomes and Protein Synthesis
+      >>
         3.3_15.3_15_5.3_15_5_0
-    / Introduction
+      --- Ribosomes and Protein Synthesis - In Depth
+        3.3_15.3_15_5.3_15_5_1
+        3.3_15.3_15_5.3_15_5_2
+        3.3_15.3_15_5.3_15_5_3
+        3.3_15.3_15_5.3_15_5_4
+      >>>
+        {step:next Continue}
+    / Gene Expression
     step
-      --
+      >>>
+        ## Gene Expression
+      >>
         3.3_16.3_16_0.3_16_0_0
+      >>>
+        {step:next Continue}
     / Regulation of Gene Expression
     step
-      --
+      >>>
+        ## Regulation of Gene Expression
+      >>
         3.3_16.3_16_1.3_16_1_0
+      --- Regulation of Gene Expression - In Depth
+        3.3_16.3_16_1.3_16_1_1
+        3.3_16.3_16_1.3_16_1_2
+      >>>
+        {step:next Continue}
     / Prokaryotic Gene Regulation
     step
-      --
+      >>>
+        ## Prokaryotic Gene Regulation
+      >>
         3.3_16.3_16_2.3_16_2_0
+      --- Prokaryotic Gene Regulation - In Depth
+        3.3_16.3_16_2.3_16_2_1
+        3.3_16.3_16_2.3_16_2_2
+        3.3_16.3_16_2.3_16_2_3
+        3.3_16.3_16_2.3_16_2_4
+      >>>
+        {step:next Continue}
     / Eukaryotic Epigenetic Gene Regulation
     step
-      --
+      >>>
+        ## Eukaryotic Epigenetic Gene Regulation
+      >>
         3.3_16.3_16_3.3_16_3_0
+      --- Eukaryotic Epigenetic Gene Regulation - In Depth
+        3.3_16.3_16_3.3_16_3_1
+        3.3_16.3_16_3.3_16_3_2
+      >>>
+        {step:next Continue}
     / Eukaryotic Transcription Gene Regulation
     step
-      --
+      >>>
+        ## Eukaryotic Transcription Gene Regulation
+      >>
         3.3_16.3_16_4.3_16_4_0
+      --- Eukaryotic Transcription Gene Regulation - In Depth
+        3.3_16.3_16_4.3_16_4_1
+        3.3_16.3_16_4.3_16_4_2
+        3.3_16.3_16_4.3_16_4_3
+        3.3_16.3_16_4.3_16_4_4
+      >>>
+        {step:next Continue}
     / Eukaryotic Post-transcriptional Gene Regulation
     step
-      --
+      >>>
+        ## Eukaryotic Post-transcriptional Gene Regulation
+      >>
         3.3_16.3_16_5.3_16_5_0
+      --- Eukaryotic Post-transcriptional Gene Regulation - In Depth
+        3.3_16.3_16_5.3_16_5_1
+        3.3_16.3_16_5.3_16_5_2
+        3.3_16.3_16_5.3_16_5_3
+      >>>
+        {step:next Continue}
     / Eukaryotic Translational and Post-translational Gene Regulation
     step
-      --
+      >>>
+        ## Eukaryotic Translational and Post-translational Gene Regulation
+      >>
         3.3_16.3_16_6.3_16_6_0
+      --- Eukaryotic Translational and Post-translational Gene Regulation - In Depth
+        3.3_16.3_16_6.3_16_6_1
+        3.3_16.3_16_6.3_16_6_2
+        3.3_16.3_16_6.3_16_6_3
+      >>>
+        {step:next Continue}
     / Cancer and Gene Regulation
     step
-      --
+      >>>
+        ## Cancer and Gene Regulation
+      >>
         3.3_16.3_16_7.3_16_7_0
-    / Introduction
+      --- Cancer and Gene Regulation - In Depth
+        3.3_16.3_16_7.3_16_7_1
+        3.3_16.3_16_7.3_16_7_2
+        3.3_16.3_16_7.3_16_7_3
+        3.3_16.3_16_7.3_16_7_4
+        3.3_16.3_16_7.3_16_7_5
+        3.3_16.3_16_7.3_16_7_6
+        3.3_16.3_16_7.3_16_7_7
+      >>>
+        {step:next Continue}
+    / Biotechnology and Genomics
     step
-      --
+      >>>
+        ## Biotechnology and Genomics
+      >>
         3.3_17.3_17_0.3_17_0_0
+      >>>
+        {step:next Continue}
     / Biotechnology
     step
-      --
+      >>>
+        ## Biotechnology
+      >>
         3.3_17.3_17_1.3_17_1_0
+      --- Biotechnology - In Depth
+        3.3_17.3_17_1.3_17_1_1
+        3.3_17.3_17_1.3_17_1_2
+        3.3_17.3_17_1.3_17_1_3
+        3.3_17.3_17_1.3_17_1_4
+        3.3_17.3_17_1.3_17_1_5
+        3.3_17.3_17_1.3_17_1_6
+        3.3_17.3_17_1.3_17_1_7
+        3.3_17.3_17_1.3_17_1_8
+        3.3_17.3_17_1.3_17_1_9
+        3.3_17.3_17_1.3_17_1_10
+      >>>
+        {step:next Continue}
     / Mapping Genomes
     step
-      --
+      >>>
+        ## Mapping Genomes
+      >>
         3.3_17.3_17_2.3_17_2_0
+      --- Mapping Genomes - In Depth
+        3.3_17.3_17_2.3_17_2_1
+        3.3_17.3_17_2.3_17_2_2
+        3.3_17.3_17_2.3_17_2_3
+        3.3_17.3_17_2.3_17_2_4
+      >>>
+        {step:next Continue}
     / Whole-Genome Sequencing
     step
-      --
+      >>>
+        ## Whole-Genome Sequencing
+      >>
         3.3_17.3_17_3.3_17_3_0
+      --- Whole-Genome Sequencing - In Depth
+        3.3_17.3_17_3.3_17_3_1
+        3.3_17.3_17_3.3_17_3_2
+        3.3_17.3_17_3.3_17_3_3
+        3.3_17.3_17_3.3_17_3_4
+      >>>
+        {step:next Continue}
     / Applying Genomics
     step
-      --
+      >>>
+        ## Applying Genomics
+      >>
         3.3_17.3_17_4.3_17_4_0
+      --- Applying Genomics - In Depth
+        3.3_17.3_17_4.3_17_4_1
+        3.3_17.3_17_4.3_17_4_2
+        3.3_17.3_17_4.3_17_4_3
+        3.3_17.3_17_4.3_17_4_4
+        3.3_17.3_17_4.3_17_4_5
+        3.3_17.3_17_4.3_17_4_6
+        3.3_17.3_17_4.3_17_4_7
+      >>>
+        {step:next Continue}
     / Genomics and Proteomics
     step
-      --
+      >>>
+        ## Genomics and Proteomics
+      >>
         3.3_17.3_17_5.3_17_5_0
+      --- Genomics and Proteomics - In Depth
+        3.3_17.3_17_5.3_17_5_1
+        3.3_17.3_17_5.3_17_5_2
+        3.3_17.3_17_5.3_17_5_3
+      >>>
+        {step:next Continue}
 
   / 3 - Full Text
-  // Unit 3. Genetics - Full Text
+  // Genetics - Full Text
   path FullPath
     / Meiosis and Sexual Reproduction - Introduction
     step
@@ -312,11 +600,11 @@ space 3
     step
       --
         3.3_13.3_13_2.3_13_2_0
-    / Identification of Chromosomes
+    / Chromosome Identification
     step
       --
         3.3_13.3_13_2.3_13_2_1
-    / Disorders in Chromosome Number
+    / Chromosome Number Disorders
     step
       --
         3.3_13.3_13_2.3_13_2_2
@@ -512,15 +800,15 @@ space 3
     step
       --
         3.3_16.3_16_2.3_16_2_0
-    / The trp Operon: A Repressor Operon
+    / The trp Operon: A Repressible Operon
     step
       --
         3.3_16.3_16_2.3_16_2_1
-    / Catabolite Activator Protein (CAP): An Activator Regulator
+    / Catabolite Activator Protein (CAP): A Transcriptional Activator
     step
       --
         3.3_16.3_16_2.3_16_2_2
-    / The lac Operon: An Inducer Operon
+    / The lac Operon: An Inducible Operon
     step
       --
         3.3_16.3_16_2.3_16_2_3
@@ -564,7 +852,7 @@ space 3
     step
       --
         3.3_16.3_16_5.3_16_5_0
-    / RNA splicing, the first stage of post-transcriptional control
+    / RNA Splicing, the First Stage of Post-transcriptional Control
     step
       --
         3.3_16.3_16_5.3_16_5_1
@@ -684,7 +972,7 @@ space 3
     step
       --
         3.3_17.3_17_2.3_17_2_2
-    / Integration of Genetic and Physical Maps
+    / Genetic and Physical Maps Integration
     step
       --
         3.3_17.3_17_2.3_17_2_3
@@ -704,7 +992,7 @@ space 3
     step
       --
         3.3_17.3_17_3.3_17_3_2
-    / Uses of Genome Sequences
+    / Genome Sequence Uses
     step
       --
         3.3_17.3_17_3.3_17_3_3

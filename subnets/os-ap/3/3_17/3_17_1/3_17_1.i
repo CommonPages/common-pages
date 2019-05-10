@@ -12,8 +12,8 @@ story 3_17_1
     3_17_1_2
     3_17_1_3
     3_17_1_4
-    3_17_1_5
 
+  / An Overview of the Endocrine System - Full Text
   path FullText
     step
       --
@@ -30,8 +30,5 @@ story 3_17_1
     step
       --
         3_17_1_4
-    step
-      --
-        3_17_1_5
 
     

@@ -15,6 +15,7 @@ story 4_18_2
     4_18_2_5
     4_18_2_6
 
+  / Formation of New Species - Full Text
   path FullText
     step
       --

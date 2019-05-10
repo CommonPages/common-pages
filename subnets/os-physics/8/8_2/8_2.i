@@ -21,6 +21,7 @@ story 8_2
     8_2_0
     8_2_1
 
+  / Impulse - Full Text
   path FullText
     step
       --

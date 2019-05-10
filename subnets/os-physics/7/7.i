@@ -4,6 +4,7 @@
 space 7
 
   ^^
+    SkimPath
     FullPath
 
 
@@ -18,6 +19,34 @@ space 7
     7_7
     7_8
     7_9
+
+
+  / Key Concepts
+  // Work, Energy, and Energy Resources - Key Concepts
+  path SkimPath
+    / Introduction to Work, Energy, and Energy Resources
+    step
+      >>>
+        ## Introduction to Work, Energy, and Energy Resources
+      >>
+        7.7_0.7_0_0
+      >>>
+        {step:next Continue}
+
+    / World Energy Use
+    step
+      >>>
+        ## World Energy Use
+      >>
+        7.7_9.7_9_0
+      --- World Energy Use - In Depth
+        7.7_9.7_9_1
+        7.7_9.7_9_2
+        7.7_9.7_9_3
+        7.7_9.7_9_4
+        7.7_9.7_9_5
+      >>>
+        {step:exit}
 
 
   / 7 - Full Text

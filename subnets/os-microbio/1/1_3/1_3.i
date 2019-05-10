@@ -26,6 +26,7 @@ story 1_3
     1_3_6
     1_3_7
 
+  / Types of Microorganisms - Full Text
   path FullText
     step
       --

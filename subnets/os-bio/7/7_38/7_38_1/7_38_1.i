@@ -15,6 +15,7 @@ story 7_38_1
     7_38_1_5
     7_38_1_6
 
+  / Types of Skeletal Systems - Full Text
   path FullText
     step
       --

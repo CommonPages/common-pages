@@ -25,11 +25,11 @@ story 11_1
     
     Solutions exhibit these defining traits:
     
-      * They are homogeneous; that is, after a solution is mixed, it has the same composition at all points throughout (its composition is uniform).
+      * They are homogeneous; after a solution is mixed, it has the same composition at all points throughout (its composition is uniform).
       * The physical state of a solution—solid, liquid, or gas—is typically the same as that of the solvent, as demonstrated by the examples in .
-      * The components of a solution are dispersed on a molecular scale; that is, they consist of a mixture of separated molecules, atoms, and/or ions.
+      * The components of a solution are dispersed on a molecular scale; they consist of a mixture of separated solute particles (molecules, atoms, and/or ions) each closely surrounded by solvent species.
       * The dissolved solute in a solution will not settle out or separate from the solvent.
-      * The composition of a solution, or the concentrations of its components, can be varied continuously, within limits.
+      * The composition of a solution, or the concentrations of its components, can be varied continuously (within limits determined by the  *solubility* of the components, discussed in detail later in this chapter).
 
   apply FullText
 
@@ -37,6 +37,7 @@ story 11_1
     11_1_0
     11_1_1
 
+  / The Dissolution Process - Full Text
   path FullText
     step
       --

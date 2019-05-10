@@ -13,6 +13,7 @@ story 7_43_6
     7_43_6_3
     7_43_6_4
 
+  / Fertilization and Early Embryonic Development - Full Text
   path FullText
     step
       --

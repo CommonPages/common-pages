@@ -12,6 +12,7 @@ story 5_2
     5_2_3
     5_2_4
 
+  / Parasitic Helminths - Full Text
   path FullText
     step
       --

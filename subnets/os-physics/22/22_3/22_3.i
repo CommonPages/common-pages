@@ -27,6 +27,7 @@ story 22_3
     22_3_0
     22_3_1
 
+  / Magnetic Fields and Magnetic Field Lines - Full Text
   path FullText
     step
       --

@@ -13,6 +13,7 @@ story 7_40_3
     7_40_3_3
     7_40_3_4
 
+  / Mammalian Heart and Blood Vessels - Full Text
   path FullText
     step
       --

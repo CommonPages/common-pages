@@ -37,6 +37,7 @@ story 29_2
     29_2_0
     29_2_1
 
+  / The Photoelectric Effect - Full Text
   path FullText
     step
       --

@@ -17,6 +17,7 @@ story 23_6
     23_6_0
     23_6_1
 
+  / Back Emf - Full Text
   path FullText
     step
       --

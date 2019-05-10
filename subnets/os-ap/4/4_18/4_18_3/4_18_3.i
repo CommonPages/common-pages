@@ -17,6 +17,7 @@ story 4_18_3
     4_18_3_4
     4_18_3_5
 
+  / Erythrocytes - Full Text
   path FullText
     step
       --

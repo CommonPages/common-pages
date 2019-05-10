@@ -11,8 +11,8 @@ story 1_4_6
     1_4_6_1
     1_4_6_2
     1_4_6_3
-    1_4_6_4
 
+  / Tissue Injury and Aging - Full Text
   path FullText
     step
       --
@@ -26,8 +26,5 @@ story 1_4_6
     step
       --
         1_4_6_3
-    step
-      --
-        1_4_6_4
 
     

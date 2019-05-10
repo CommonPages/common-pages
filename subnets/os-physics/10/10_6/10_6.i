@@ -25,6 +25,7 @@ story 10_6
     10_6_0
     10_6_1
 
+  / Collisions of Extended Bodies in Two Dimensions - Full Text
   path FullText
     step
       --

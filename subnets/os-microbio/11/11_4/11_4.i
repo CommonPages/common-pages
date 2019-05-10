@@ -13,8 +13,8 @@ story 11_4
     11_4_4
     11_4_5
     11_4_6
-    11_4_8
 
+  / Protein Synthesis (Translation) - Full Text
   path FullText
     step
       --
@@ -34,8 +34,5 @@ story 11_4
     step
       --
         11_4_6
-    step
-      --
-        11_4_8
 
     

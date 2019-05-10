@@ -4,6 +4,7 @@
 space 22
 
   ^^
+    SkimPath
     FullPath
 
 
@@ -20,6 +21,123 @@ space 22
     22_9
     22_10
     22_11
+
+
+  / Key Concepts
+  // Magnetism - Key Concepts
+  path SkimPath
+    / Introduction to Magnetism
+    step
+      >>>
+        ## Introduction to Magnetism
+      >>
+        22.22_0.22_0_0
+      >>>
+        {step:next Continue}
+
+    / Magnets
+    step
+      >>>
+        ## Magnets
+      >>
+        22.22_1.22_1_0
+      --- Magnets - In Depth
+        22.22_1.22_1_1
+      >>>
+        {step:next Continue}
+
+    / Magnetic Fields and Magnetic Field Lines
+    step
+      >>>
+        ## Magnetic Fields and Magnetic Field Lines
+      >>
+        22.22_3.22_3_0
+      --- Magnetic Fields and Magnetic Field Lines - In Depth
+        22.22_3.22_3_1
+      >>>
+        {step:next Continue}
+
+    / Magnetic Field Strength: Force on a Moving Charge in a Magnetic Field
+    step
+      >>>
+        ## Magnetic Field Strength: Force on a Moving Charge in a Magnetic Field
+      >>
+        22.22_4.22_4_0
+      --- Magnetic Field Strength: Force on a Moving Charge in a Magnetic Field - In Depth
+        22.22_4.22_4_1
+        22.22_4.22_4_2
+      >>>
+        {step:next Continue}
+
+    / Force on a Moving Charge in a Magnetic Field: Examples and Applications
+    step
+      >>>
+        ## Force on a Moving Charge in a Magnetic Field: Examples and Applications
+      >>
+        22.22_5.22_5_0
+      --- Force on a Moving Charge in a Magnetic Field: Examples and Applications - In Depth
+        22.22_5.22_5_1
+      >>>
+        {step:next Continue}
+
+    / The Hall Effect
+    step
+      >>>
+        ## The Hall Effect
+      >>
+        22.22_6.22_6_0
+      --- The Hall Effect - In Depth
+        22.22_6.22_6_1
+      >>>
+        {step:next Continue}
+
+    / Magnetic Force on a Current-Carrying Conductor
+    step
+      >>>
+        ## Magnetic Force on a Current-Carrying Conductor
+      >>
+        22.22_7.22_7_0
+      --- Magnetic Force on a Current-Carrying Conductor - In Depth
+        22.22_7.22_7_1
+      >>>
+        {step:next Continue}
+
+    / Torque on a Current Loop: Motors and Meters
+    step
+      >>>
+        ## Torque on a Current Loop: Motors and Meters
+      >>
+        22.22_8.22_8_0
+      --- Torque on a Current Loop: Motors and Meters - In Depth
+        22.22_8.22_8_1
+      >>>
+        {step:next Continue}
+
+    / Magnetic Fields Produced by Currents: Ampere’s Law
+    step
+      >>>
+        ## Magnetic Fields Produced by Currents: Ampere’s Law
+      >>
+        22.22_9.22_9_0
+      --- Magnetic Fields Produced by Currents: Ampere’s Law - In Depth
+        22.22_9.22_9_1
+        22.22_9.22_9_2
+        22.22_9.22_9_3
+        22.22_9.22_9_4
+        22.22_9.22_9_5
+      >>>
+        {step:next Continue}
+
+    / Magnetic Force between Two Parallel Conductors
+    step
+      >>>
+        ## Magnetic Force between Two Parallel Conductors
+      >>
+        22.22_10.22_10_0
+      --- Magnetic Force between Two Parallel Conductors - In Depth
+        22.22_10.22_10_1
+      >>>
+        {step:exit}
 
 
   / 22 - Full Text

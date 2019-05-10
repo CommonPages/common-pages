@@ -28,8 +28,8 @@ story 3_3
     3_3_10
     3_3_11
     3_3_12
-    3_3_13
 
+  / Unique Characteristics of Prokaryotic Cells - Full Text
   path FullText
     step
       --
@@ -67,8 +67,5 @@ story 3_3
     step
       --
         3_3_12
-    step
-      --
-        3_3_13
 
     

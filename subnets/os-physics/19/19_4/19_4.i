@@ -42,6 +42,7 @@ story 19_4
     19_4_0
     19_4_1
 
+  / Equipotential Lines - Full Text
   path FullText
     step
       --

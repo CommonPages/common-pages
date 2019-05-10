@@ -14,8 +14,8 @@ story 3_13_2
     3_13_2_4
     3_13_2_5
     3_13_2_6
-    3_13_2_7
 
+  / The Central Nervous System - Full Text
   path FullText
     step
       --
@@ -38,8 +38,5 @@ story 3_13_2
     step
       --
         3_13_2_6
-    step
-      --
-        3_13_2_7
 
     

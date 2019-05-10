@@ -26,8 +26,8 @@ story 4_21_2
     4_21_2_3
     4_21_2_4
     4_21_2_5
-    4_21_2_6
 
+  / Barrier Defenses and the Innate Immune Response - Full Text
   path FullText
     step
       --
@@ -47,8 +47,5 @@ story 4_21_2
     step
       --
         4_21_2_5
-    step
-      --
-        4_21_2_6
 
     

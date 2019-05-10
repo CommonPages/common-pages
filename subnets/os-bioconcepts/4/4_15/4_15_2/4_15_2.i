@@ -14,6 +14,7 @@ story 4_15_2
     4_15_2_2
     4_15_2_3
 
+  / Sponges and Cnidarians - Full Text
   path FullText
     step
       --

@@ -11,6 +11,7 @@ story 1_2
     1_2_2
     1_2_3
 
+  / A Systematic Approach - Full Text
   path FullText
     step
       --

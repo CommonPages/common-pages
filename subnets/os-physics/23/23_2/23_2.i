@@ -10,6 +10,7 @@ story 23_2
     23_2_1
     23_2_2
 
+  / Faraday’s Law of Induction: Lenz’s Law - Full Text
   path FullText
     step
       --

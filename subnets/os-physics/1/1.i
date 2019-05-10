@@ -4,6 +4,7 @@
 space 1
 
   ^^
+    SkimPath
     FullPath
 
 
@@ -13,6 +14,75 @@ space 1
     1_2
     1_3
     1_4
+
+
+  / Key Concepts
+  // Introduction: The Nature of Science and Physics - Key Concepts
+  path SkimPath
+    / Introduction to Science and the Realm of Physics, Physical Quantities, and Units
+    step
+      >>>
+        ## Introduction to Science and the Realm of Physics, Physical Quantities, and Units
+      >>
+        1.1_0.1_0_0
+      >>>
+        {step:next Continue}
+
+    / Physics: An Introduction
+    step
+      >>>
+        ## Physics: An Introduction
+      >>
+        1.1_1.1_1_0
+      --- Physics: An Introduction - In Depth
+        1.1_1.1_1_1
+        1.1_1.1_1_2
+        1.1_1.1_1_3
+        1.1_1.1_1_4
+        1.1_1.1_1_5
+      >>>
+        {step:next Continue}
+
+    / Physical Quantities and Units
+    step
+      >>>
+        ## Physical Quantities and Units
+      >>
+        1.1_2.1_2_0
+      --- Physical Quantities and Units - In Depth
+        1.1_2.1_2_1
+        1.1_2.1_2_2
+        1.1_2.1_2_3
+        1.1_2.1_2_4
+        1.1_2.1_2_5
+        1.1_2.1_2_6
+      >>>
+        {step:next Continue}
+
+    / Accuracy, Precision, and Significant Figures
+    step
+      >>>
+        ## Accuracy, Precision, and Significant Figures
+      >>
+        1.1_3.1_3_0
+      --- Accuracy, Precision, and Significant Figures - In Depth
+        1.1_3.1_3_1
+        1.1_3.1_3_2
+        1.1_3.1_3_3
+        1.1_3.1_3_4
+      >>>
+        {step:next Continue}
+
+    / Approximation
+    step
+      >>>
+        ## Approximation
+      >>
+        1.1_4.1_4_0
+      --- Approximation - In Depth
+        1.1_4.1_4_1
+      >>>
+        {step:exit}
 
 
   / 1 - Full Text

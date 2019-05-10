@@ -21,6 +21,7 @@ story 6_20_3
     6_20_3_8
     6_20_3_9
 
+  / Terrestrial Biomes - Full Text
   path FullText
     step
       --

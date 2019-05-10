@@ -13,6 +13,7 @@ story 1_5_3
     1_5_3_3
     1_5_3_4
 
+  / The Calvin Cycle - Full Text
   path FullText
     step
       --

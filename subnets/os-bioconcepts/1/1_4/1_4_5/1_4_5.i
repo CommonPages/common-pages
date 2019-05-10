@@ -13,6 +13,7 @@ story 1_4_5
     1_4_5_3
     1_4_5_4
 
+  / Connections to Other Metabolic Pathways - Full Text
   path FullText
     step
       --

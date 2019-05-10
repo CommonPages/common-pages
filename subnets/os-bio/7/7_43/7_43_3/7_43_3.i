@@ -11,7 +11,9 @@ story 7_43_3
     7_43_3_1
     7_43_3_2
     7_43_3_3
+    7_43_3_4
 
+  / Human Reproductive Anatomy and Gametogenesis - Full Text
   path FullText
     step
       --
@@ -25,5 +27,8 @@ story 7_43_3
     step
       --
         7_43_3_3
+    step
+      --
+        7_43_3_4
 
     

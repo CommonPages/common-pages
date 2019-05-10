@@ -14,6 +14,7 @@ story 24_4
     24_4_5
     24_4_6
 
+  / Viral Infections of the Gastrointestinal Tract - Full Text
   path FullText
     step
       --

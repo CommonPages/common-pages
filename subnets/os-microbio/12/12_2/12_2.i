@@ -14,9 +14,9 @@ story 12_2
     12_2_3
     12_2_4
     12_2_5
-    12_2_7
     12_2_8
 
+  / Visualizing and Characterizing DNA, RNA, and Protein - Full Text
   path FullText
     step
       --
@@ -33,9 +33,6 @@ story 12_2
     step
       --
         12_2_5
-    step
-      --
-        12_2_7
     step
       --
         12_2_8

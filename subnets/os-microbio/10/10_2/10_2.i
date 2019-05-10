@@ -12,8 +12,8 @@ story 10_2
     10_2_3
     10_2_4
     10_2_5
-    10_2_7
 
+  / Structure and Function of DNA - Full Text
   path FullText
     step
       --
@@ -30,8 +30,5 @@ story 10_2
     step
       --
         10_2_5
-    step
-      --
-        10_2_7
 
     

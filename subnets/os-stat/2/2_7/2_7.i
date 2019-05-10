@@ -15,8 +15,8 @@ story 2_7
     2_7_6
     2_7_7
     2_7_8
-    2_7_9
 
+  / Measures of the Spread of the Data - Full Text
   path FullText
     step
       --
@@ -42,8 +42,5 @@ story 2_7
     step
       --
         2_7_8
-    step
-      --
-        2_7_9
 
     

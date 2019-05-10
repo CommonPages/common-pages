@@ -12,8 +12,8 @@ story 1_2_1
     1_2_1_2
     1_2_1_3
     1_2_1_4
-    1_2_1_5
 
+  / Elements and Atoms: The Building Blocks of Matter - Full Text
   path FullText
     step
       --
@@ -30,8 +30,5 @@ story 1_2_1
     step
       --
         1_2_1_4
-    step
-      --
-        1_2_1_5
 
     

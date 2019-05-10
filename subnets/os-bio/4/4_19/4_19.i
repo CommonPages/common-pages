@@ -4,6 +4,7 @@
 space 4_19
 
   ^^
+    SkimPath
     FullPath
 
   insert 4.4_19.4_19_0.4_19_0_0
@@ -12,6 +13,67 @@ space 4_19
     4_19_1
     4_19_2
     4_19_3
+
+
+  / Key Concepts
+  // The Evolution of Populations - Key Concepts
+  path SkimPath
+    / The Evolution of Populations
+    step
+      >>>
+        ## The Evolution of Populations
+      >>
+        4.4_19.4_19_0.4_19_0_0
+      >>>
+        {step:next Continue}
+
+    / Population Evolution
+    step
+      >>>
+        ## Population Evolution
+      >>
+        4.4_19.4_19_1.4_19_1_0
+      --- Population Evolution - In Depth
+        4.4_19.4_19_1.4_19_1_1
+        4.4_19.4_19_1.4_19_1_2
+        4.4_19.4_19_1.4_19_1_3
+      >>>
+        {step:next Continue}
+
+    / Population Genetics
+    step
+      >>>
+        ## Population Genetics
+      >>
+        4.4_19.4_19_2.4_19_2_0
+      --- Population Genetics - In Depth
+        4.4_19.4_19_2.4_19_2_1
+        4.4_19.4_19_2.4_19_2_2
+        4.4_19.4_19_2.4_19_2_3
+        4.4_19.4_19_2.4_19_2_4
+        4.4_19.4_19_2.4_19_2_5
+        4.4_19.4_19_2.4_19_2_6
+        4.4_19.4_19_2.4_19_2_7
+      >>>
+        {step:next Continue}
+
+    / Adaptive Evolution
+    step
+      >>>
+        ## Adaptive Evolution
+      >>
+        4.4_19.4_19_3.4_19_3_0
+      --- Adaptive Evolution - In Depth
+        4.4_19.4_19_3.4_19_3_1
+        4.4_19.4_19_3.4_19_3_2
+        4.4_19.4_19_3.4_19_3_3
+        4.4_19.4_19_3.4_19_3_4
+        4.4_19.4_19_3.4_19_3_5
+        4.4_19.4_19_3.4_19_3_6
+        4.4_19.4_19_3.4_19_3_7
+        4.4_19.4_19_3.4_19_3_8
+      >>>
+        {step:exit}
 
 
   / 4.19 - Full Text
@@ -85,7 +147,7 @@ space 4_19
     step
       --
         4.4_19.4_19_3.4_19_3_3
-    / Frequency-dependent Selection
+    / Frequency-Dependent Selection
     step
       --
         4.4_19.4_19_3.4_19_3_4
@@ -101,4 +163,8 @@ space 4_19
     step
       --
         4.4_19.4_19_3.4_19_3_7
+    / Visual Connection
+    step
+      --
+        4.4_19.4_19_3.4_19_3_8
     

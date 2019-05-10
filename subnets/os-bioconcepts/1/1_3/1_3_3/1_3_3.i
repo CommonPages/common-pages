@@ -20,6 +20,7 @@ story 1_3_3
     1_3_3_10
     1_3_3_11
 
+  / Eukaryotic Cells - Full Text
   path FullText
     step
       --

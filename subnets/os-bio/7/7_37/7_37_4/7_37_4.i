@@ -13,6 +13,7 @@ story 7_37_4
     7_37_4_3
     7_37_4_4
 
+  / Regulation of Hormone Production - Full Text
   path FullText
     step
       --

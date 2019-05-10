@@ -34,6 +34,7 @@ story 10_3
     10_3_1
     10_3_2
 
+  / Dynamics of Rotational Motion: Rotational Inertia - Full Text
   path FullText
     step
       --

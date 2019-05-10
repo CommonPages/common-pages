@@ -15,6 +15,7 @@ story 6_19_4
     6_19_4_5
     6_19_4_6
 
+  / Community Ecology - Full Text
   path FullText
     step
       --

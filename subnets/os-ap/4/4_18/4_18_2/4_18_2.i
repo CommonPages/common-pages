@@ -13,8 +13,8 @@ story 4_18_2
     4_18_2_3
     4_18_2_4
     4_18_2_5
-    4_18_2_6
 
+  / Production of the Formed Elements - Full Text
   path FullText
     step
       --
@@ -34,8 +34,5 @@ story 4_18_2
     step
       --
         4_18_2_5
-    step
-      --
-        4_18_2_6
 
     

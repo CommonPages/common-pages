@@ -35,6 +35,7 @@ story 12_4
     12_4_5
     12_4_6
 
+  / Testing the Significance of the Correlation Coefficient - Full Text
   path FullText
     step
       --

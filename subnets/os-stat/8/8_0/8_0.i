@@ -47,6 +47,7 @@ story 8_0
   ---
     8_0_0
 
+  / Introduction - Full Text
   path FullText
     step
       --

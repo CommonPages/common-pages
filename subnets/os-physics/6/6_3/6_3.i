@@ -60,6 +60,7 @@ story 6_3
     6_3_1
     6_3_3
 
+  / Centripetal Force - Full Text
   path FullText
     step
       --

@@ -1,6 +1,6 @@
 
 
-/ Unit 4. Evolutionary Processes
+/ Evolutionary Processes
 /// All species of living organisms, from bacteria to baboons to blueberries, evolved at some point from a different species. Evolution by natural selection describes a mechanism for how species change over time. Natural selection acts to promote traits and behaviors that increase an organism’s chances of survival and reproduction, while eliminating those traits and behaviors that are to the organism’s detriment.
 space 4
 
@@ -13,60 +13,162 @@ space 4
     4_19
     4_20
 
-  / 4 - Key Concepts
-  // Key Concepts
+  / Key Concepts
+  // Evolutionary Processes - Key Concepts
   path SkimPath
-    / Introduction
+    / Evolution and the Origin of Species
     step
-      --
+      >>>
+        ## Evolution and the Origin of Species
+      >>
         4.4_18.4_18_0.4_18_0_0
+      >>>
+        {step:next Continue}
     / Understanding Evolution
     step
-      --
+      >>>
+        ## Understanding Evolution
+      >>
         4.4_18.4_18_1.4_18_1_0
+      --- Understanding Evolution - In Depth
+        4.4_18.4_18_1.4_18_1_1
+        4.4_18.4_18_1.4_18_1_2
+        4.4_18.4_18_1.4_18_1_3
+        4.4_18.4_18_1.4_18_1_4
+        4.4_18.4_18_1.4_18_1_5
+      >>>
+        {step:next Continue}
     / Formation of New Species
     step
-      --
+      >>>
+        ## Formation of New Species
+      >>
         4.4_18.4_18_2.4_18_2_0
-    / Reconnection and Rates of Speciation
+      --- Formation of New Species - In Depth
+        4.4_18.4_18_2.4_18_2_1
+        4.4_18.4_18_2.4_18_2_2
+        4.4_18.4_18_2.4_18_2_3
+        4.4_18.4_18_2.4_18_2_4
+        4.4_18.4_18_2.4_18_2_5
+        4.4_18.4_18_2.4_18_2_6
+      >>>
+        {step:next Continue}
+    / Reconnection and Speciation Rates
     step
-      --
+      >>>
+        ## Reconnection and Speciation Rates
+      >>
         4.4_18.4_18_3.4_18_3_0
-    / Introduction
+      --- Reconnection and Speciation Rates - In Depth
+        4.4_18.4_18_3.4_18_3_1
+        4.4_18.4_18_3.4_18_3_2
+        4.4_18.4_18_3.4_18_3_3
+      >>>
+        {step:next Continue}
+    / The Evolution of Populations
     step
-      --
+      >>>
+        ## The Evolution of Populations
+      >>
         4.4_19.4_19_0.4_19_0_0
+      >>>
+        {step:next Continue}
     / Population Evolution
     step
-      --
+      >>>
+        ## Population Evolution
+      >>
         4.4_19.4_19_1.4_19_1_0
+      --- Population Evolution - In Depth
+        4.4_19.4_19_1.4_19_1_1
+        4.4_19.4_19_1.4_19_1_2
+        4.4_19.4_19_1.4_19_1_3
+      >>>
+        {step:next Continue}
     / Population Genetics
     step
-      --
+      >>>
+        ## Population Genetics
+      >>
         4.4_19.4_19_2.4_19_2_0
+      --- Population Genetics - In Depth
+        4.4_19.4_19_2.4_19_2_1
+        4.4_19.4_19_2.4_19_2_2
+        4.4_19.4_19_2.4_19_2_3
+        4.4_19.4_19_2.4_19_2_4
+        4.4_19.4_19_2.4_19_2_5
+        4.4_19.4_19_2.4_19_2_6
+        4.4_19.4_19_2.4_19_2_7
+      >>>
+        {step:next Continue}
     / Adaptive Evolution
     step
-      --
+      >>>
+        ## Adaptive Evolution
+      >>
         4.4_19.4_19_3.4_19_3_0
-    / Introduction
+      --- Adaptive Evolution - In Depth
+        4.4_19.4_19_3.4_19_3_1
+        4.4_19.4_19_3.4_19_3_2
+        4.4_19.4_19_3.4_19_3_3
+        4.4_19.4_19_3.4_19_3_4
+        4.4_19.4_19_3.4_19_3_5
+        4.4_19.4_19_3.4_19_3_6
+        4.4_19.4_19_3.4_19_3_7
+        4.4_19.4_19_3.4_19_3_8
+      >>>
+        {step:next Continue}
+    / Phylogenies and the History of Life
     step
-      --
+      >>>
+        ## Phylogenies and the History of Life
+      >>
         4.4_20.4_20_0.4_20_0_0
+      >>>
+        {step:next Continue}
     / Organizing Life on Earth
     step
-      --
+      >>>
+        ## Organizing Life on Earth
+      >>
         4.4_20.4_20_1.4_20_1_0
+      --- Organizing Life on Earth - In Depth
+        4.4_20.4_20_1.4_20_1_1
+        4.4_20.4_20_1.4_20_1_2
+        4.4_20.4_20_1.4_20_1_3
+        4.4_20.4_20_1.4_20_1_4
+      >>>
+        {step:next Continue}
     / Determining Evolutionary Relationships
     step
-      --
+      >>>
+        ## Determining Evolutionary Relationships
+      >>
         4.4_20.4_20_2.4_20_2_0
+      --- Determining Evolutionary Relationships - In Depth
+        4.4_20.4_20_2.4_20_2_1
+        4.4_20.4_20_2.4_20_2_2
+        4.4_20.4_20_2.4_20_2_3
+      >>>
+        {step:next Continue}
     / Perspectives on the Phylogenetic Tree
     step
-      --
+      >>>
+        ## Perspectives on the Phylogenetic Tree
+      >>
         4.4_20.4_20_3.4_20_3_0
+      --- Perspectives on the Phylogenetic Tree - In Depth
+        4.4_20.4_20_3.4_20_3_1
+        4.4_20.4_20_3.4_20_3_2
+        4.4_20.4_20_3.4_20_3_3
+        4.4_20.4_20_3.4_20_3_4
+        4.4_20.4_20_3.4_20_3_5
+        4.4_20.4_20_3.4_20_3_6
+      >>>
+        {step:next Continue}
 
   / 4 - Full Text
-  // Unit 4. Evolutionary Processes - Full Text
+  // Evolutionary Processes - Full Text
   path FullPath
     / Evolution and the Origin of Species - Introduction
     step
@@ -124,7 +226,7 @@ space 4
     step
       --
         4.4_18.4_18_2.4_18_2_6
-    / Reconnection and Rates of Speciation - Introduction
+    / Reconnection and Speciation Rates - Introduction
     step
       --
         4.4_18.4_18_3.4_18_3_0
@@ -208,7 +310,7 @@ space 4
     step
       --
         4.4_19.4_19_3.4_19_3_3
-    / Frequency-dependent Selection
+    / Frequency-Dependent Selection
     step
       --
         4.4_19.4_19_3.4_19_3_4
@@ -224,6 +326,10 @@ space 4
     step
       --
         4.4_19.4_19_3.4_19_3_7
+    / Visual Connection
+    step
+      --
+        4.4_19.4_19_3.4_19_3_8
     / Phylogenies and the History of Life - Introduction
     step
       --
@@ -240,7 +346,7 @@ space 4
     step
       --
         4.4_20.4_20_1.4_20_1_2
-    / The Levels of Classification
+    / Classification Levels
     step
       --
         4.4_20.4_20_1.4_20_1_3
@@ -276,7 +382,7 @@ space 4
     step
       --
         4.4_20.4_20_3.4_20_3_2
-    / Genome Fusion and the Evolution of Eukaryotes
+    / Genome Fusion and Eukaryote Evolution
     step
       --
         4.4_20.4_20_3.4_20_3_3

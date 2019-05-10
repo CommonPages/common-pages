@@ -11,8 +11,8 @@ story 2_7_5
     2_7_5_1
     2_7_5_2
     2_7_5_3
-    2_7_5_4
 
+  / Embryonic Development of the Axial Skeleton - Full Text
   path FullText
     step
       --
@@ -26,8 +26,5 @@ story 2_7_5
     step
       --
         2_7_5_3
-    step
-      --
-        2_7_5_4
 
     

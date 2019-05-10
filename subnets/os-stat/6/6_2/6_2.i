@@ -49,6 +49,7 @@ story 6_2
     6_2_4
     6_2_5
 
+  / Using the Normal Distribution - Full Text
   path FullText
     step
       --

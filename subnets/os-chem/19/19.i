@@ -4,6 +4,7 @@
 space 19
 
   ^^
+    SkimPath
     FullPath
 
   insert 19.19_0.19_0_0
@@ -12,6 +13,66 @@ space 19
     19_1
     19_2
     19_3
+
+
+  / Key Concepts
+  // Transition Metals and Coordination Chemistry - Key Concepts
+  path SkimPath
+    / Transition Metals and Coordination Chemistry
+    step
+      >>>
+        ## Transition Metals and Coordination Chemistry
+      >>
+        19.19_0.19_0_0
+      >>>
+        {step:next Continue}
+
+    / Occurrence, Preparation, and Properties of Transition Metals and Their Compounds
+    step
+      >>>
+        ## Occurrence, Preparation, and Properties of Transition Metals and Their Compounds
+      >>
+        19.19_1.19_1_0
+      --- Occurrence, Preparation, and Properties of Transition Metals and Their Compounds - In Depth
+        19.19_1.19_1_1
+        19.19_1.19_1_2
+        19.19_1.19_1_3
+        19.19_1.19_1_4
+        19.19_1.19_1_5
+        19.19_1.19_1_6
+        19.19_1.19_1_7
+      >>>
+        {step:next Continue}
+
+    / Coordination Chemistry of Transition Metals
+    step
+      >>>
+        ## Coordination Chemistry of Transition Metals
+      >>
+        19.19_2.19_2_0
+      --- Coordination Chemistry of Transition Metals - In Depth
+        19.19_2.19_2_1
+        19.19_2.19_2_2
+        19.19_2.19_2_3
+        19.19_2.19_2_4
+        19.19_2.19_2_5
+        19.19_2.19_2_6
+      >>>
+        {step:next Continue}
+
+    / Spectroscopic and Magnetic Properties of Coordination Compounds
+    step
+      >>>
+        ## Spectroscopic and Magnetic Properties of Coordination Compounds
+      >>
+        19.19_3.19_3_0
+      --- Spectroscopic and Magnetic Properties of Coordination Compounds - In Depth
+        19.19_3.19_3_1
+        19.19_3.19_3_2
+        19.19_3.19_3_3
+        19.19_3.19_3_4
+      >>>
+        {step:exit}
 
 
   / 19 - Full Text

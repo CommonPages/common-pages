@@ -24,6 +24,7 @@ story 23_5
     23_5_1
     23_5_2
 
+  / Fungal Infections of the Reproductive System - Full Text
   path FullText
     step
       --

@@ -21,6 +21,7 @@ story 16_2
     16_2_0
     16_2_1
 
+  / Period and Frequency in Oscillations - Full Text
   path FullText
     step
       --

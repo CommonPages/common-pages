@@ -4,6 +4,7 @@
 space 7
 
   ^^
+    SkimPath
     FullPath
 
   insert 7.7_0.7_0_0
@@ -14,6 +15,87 @@ space 7
     7_3
     7_4
     7_5
+
+
+  / Key Concepts
+  // Microbial Biochemistry - Key Concepts
+  path SkimPath
+    / Microbial Biochemistry
+    step
+      >>>
+        ## Microbial Biochemistry
+      >>
+        7.7_0.7_0_0
+      >>>
+        {step:next Continue}
+
+    / Organic Molecules
+    step
+      >>>
+        ## Organic Molecules
+      >>
+        7.7_1.7_1_1
+      --- Organic Molecules - In Depth
+        7.7_1.7_1_2
+        7.7_1.7_1_3
+        7.7_1.7_1_4
+        7.7_1.7_1_5
+        7.7_1.7_1_6
+      >>>
+        {step:next Continue}
+
+    / Carbohydrates
+    step
+      >>>
+        ## Carbohydrates
+      >>
+        7.7_2.7_2_1
+      --- Carbohydrates - In Depth
+        7.7_2.7_2_2
+        7.7_2.7_2_3
+        7.7_2.7_2_4
+        7.7_2.7_2_5
+        7.7_2.7_2_6
+      >>>
+        {step:next Continue}
+
+    / Lipids
+    step
+      >>>
+        ## Lipids
+      >>
+        7.7_3.7_3_1
+      --- Lipids - In Depth
+        7.7_3.7_3_2
+        7.7_3.7_3_3
+        7.7_3.7_3_4
+        7.7_3.7_3_5
+      >>>
+        {step:next Continue}
+
+    / Proteins
+    step
+      >>>
+        ## Proteins
+      >>
+        7.7_4.7_4_1
+      --- Proteins - In Depth
+        7.7_4.7_4_2
+        7.7_4.7_4_3
+        7.7_4.7_4_4
+      >>>
+        {step:next Continue}
+
+    / Using Biochemistry to Identify Microorganisms
+    step
+      >>>
+        ## Using Biochemistry to Identify Microorganisms
+      >>
+        7.7_5.7_5_1
+      --- Using Biochemistry to Identify Microorganisms - In Depth
+        7.7_5.7_5_2
+      >>>
+        {step:exit}
 
 
   / 7 - Full Text
@@ -47,10 +129,6 @@ space 7
     step
       --
         7.7_1.7_1_6
-    / True/False
-    step
-      --
-        7.7_1.7_1_7
     / Carbohydrates - Introduction
     step
       --
@@ -95,10 +173,6 @@ space 7
     step
       --
         7.7_3.7_3_5
-    / True/False
-    step
-      --
-        7.7_3.7_3_6
     / Proteins - Introduction
     step
       --
@@ -115,10 +189,6 @@ space 7
     step
       --
         7.7_4.7_4_4
-    / True/False
-    step
-      --
-        7.7_4.7_4_6
     / Using Biochemistry to Identify Microorganisms - Introduction
     step
       --
@@ -127,8 +197,4 @@ space 7
     step
       --
         7.7_5.7_5_2
-    / True/False
-    step
-      --
-        7.7_5.7_5_4
     

@@ -22,8 +22,8 @@ story 10_4
     10_4_1
     10_4_2
     10_4_3
-    10_4_4
 
+  / Matched or Paired Samples - Full Text
   path FullText
     step
       --
@@ -37,8 +37,5 @@ story 10_4
     step
       --
         10_4_3
-    step
-      --
-        10_4_4
 
     

@@ -14,6 +14,7 @@ story 4_5
     4_5_4
     4_5_5
 
+  / Formal Charges and Resonance - Full Text
   path FullText
     step
       --

@@ -16,8 +16,8 @@ story 2_5_1
     2_5_1_3
     2_5_1_4
     2_5_1_5
-    2_5_1_6
 
+  / Layers of the Skin - Full Text
   path FullText
     step
       --
@@ -37,8 +37,5 @@ story 2_5_1
     step
       --
         2_5_1_5
-    step
-      --
-        2_5_1_6
 
     

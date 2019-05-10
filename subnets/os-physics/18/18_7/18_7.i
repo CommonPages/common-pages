@@ -30,6 +30,7 @@ story 18_7
     18_7_3
     18_7_4
 
+  / Conductors and Electric Fields in Static Equilibrium - Full Text
   path FullText
     step
       --

@@ -42,6 +42,7 @@ story 27_2
     27_2_0
     27_2_1
 
+  / Huygens's Principle: Diffraction - Full Text
   path FullText
     step
       --

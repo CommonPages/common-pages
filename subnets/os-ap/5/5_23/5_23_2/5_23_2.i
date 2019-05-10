@@ -15,8 +15,8 @@ story 5_23_2
     5_23_2_1
     5_23_2_2
     5_23_2_3
-    5_23_2_4
 
+  / Digestive System Processes and Regulation - Full Text
   path FullText
     step
       --
@@ -30,8 +30,5 @@ story 5_23_2
     step
       --
         5_23_2_3
-    step
-      --
-        5_23_2_4
 
     

@@ -14,8 +14,8 @@ story 10_4
     10_4_5
     10_4_6
     10_4_7
-    10_4_8
 
+  / Structure and Function of Cellular Genomes - Full Text
   path FullText
     step
       --
@@ -38,8 +38,5 @@ story 10_4
     step
       --
         10_4_7
-    step
-      --
-        10_4_8
 
     

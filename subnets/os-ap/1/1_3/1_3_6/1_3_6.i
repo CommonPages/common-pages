@@ -12,6 +12,7 @@ story 1_3_6
     1_3_6_2
     1_3_6_3
 
+  / Cellular Differentiation - Full Text
   path FullText
     step
       --

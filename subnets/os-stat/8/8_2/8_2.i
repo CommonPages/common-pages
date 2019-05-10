@@ -50,6 +50,7 @@ story 8_2
     8_2_3
     8_2_4
 
+  / A Single Population Mean using the Student t Distribution - Full Text
   path FullText
     step
       --

@@ -19,6 +19,7 @@ story 1_4_1
     1_4_1_6
     1_4_1_7
 
+  / Energy and Metabolism - Full Text
   path FullText
     step
       --

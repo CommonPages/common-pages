@@ -16,6 +16,7 @@ story 2_10_9
     2_10_9_0
     2_10_9_1
 
+  / Development and Regeneration of Muscle Tissue - Full Text
   path FullText
     step
       --

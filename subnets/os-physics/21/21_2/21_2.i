@@ -20,6 +20,7 @@ story 21_2
     21_2_6
     21_2_7
 
+  / Electromotive Force: Terminal Voltage - Full Text
   path FullText
     step
       --

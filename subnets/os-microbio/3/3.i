@@ -4,6 +4,7 @@
 space 3
 
   ^^
+    SkimPath
     FullPath
 
   insert 3.3_0.3_0_0
@@ -13,6 +14,90 @@ space 3
     3_2
     3_3
     3_4
+
+
+  / Key Concepts
+  // The Cell - Key Concepts
+  path SkimPath
+    / The Cell
+    step
+      >>>
+        ## The Cell
+      >>
+        3.3_0.3_0_0
+      >>>
+        {step:next Continue}
+
+    / Spontaneous Generation
+    step
+      >>>
+        ## Spontaneous Generation
+      >>
+        3.3_1.3_1_1
+      --- Spontaneous Generation - In Depth
+        3.3_1.3_1_2
+        3.3_1.3_1_3
+        3.3_1.3_1_4
+      >>>
+        {step:next Continue}
+
+    / Foundations of Modern Cell Theory
+    step
+      >>>
+        ## Foundations of Modern Cell Theory
+      >>
+        3.3_2.3_2_1
+      --- Foundations of Modern Cell Theory - In Depth
+        3.3_2.3_2_2
+        3.3_2.3_2_3
+        3.3_2.3_2_4
+        3.3_2.3_2_5
+      >>>
+        {step:next Continue}
+
+    / Unique Characteristics of Prokaryotic Cells
+    step
+      >>>
+        ## Unique Characteristics of Prokaryotic Cells
+      >>
+        3.3_3.3_3_1
+      --- Unique Characteristics of Prokaryotic Cells - In Depth
+        3.3_3.3_3_2
+        3.3_3.3_3_3
+        3.3_3.3_3_4
+        3.3_3.3_3_5
+        3.3_3.3_3_6
+        3.3_3.3_3_7
+        3.3_3.3_3_8
+        3.3_3.3_3_9
+        3.3_3.3_3_10
+        3.3_3.3_3_11
+        3.3_3.3_3_12
+      >>>
+        {step:next Continue}
+
+    / Unique Characteristics of Eukaryotic Cells
+    step
+      >>>
+        ## Unique Characteristics of Eukaryotic Cells
+      >>
+        3.3_4.3_4_1
+      --- Unique Characteristics of Eukaryotic Cells - In Depth
+        3.3_4.3_4_2
+        3.3_4.3_4_3
+        3.3_4.3_4_4
+        3.3_4.3_4_5
+        3.3_4.3_4_6
+        3.3_4.3_4_7
+        3.3_4.3_4_8
+        3.3_4.3_4_9
+        3.3_4.3_4_10
+        3.3_4.3_4_11
+        3.3_4.3_4_12
+        3.3_4.3_4_13
+        3.3_4.3_4_14
+      >>>
+        {step:exit}
 
 
   / 3 - Full Text
@@ -38,10 +123,6 @@ space 3
     step
       --
         3.3_1.3_1_4
-    / True/False
-    step
-      --
-        3.3_1.3_1_6
     / Foundations of Modern Cell Theory - Introduction
     step
       --
@@ -110,10 +191,6 @@ space 3
     step
       --
         3.3_3.3_3_12
-    / True/False
-    step
-      --
-        3.3_3.3_3_13
     / Unique Characteristics of Eukaryotic Cells - Introduction
     step
       --
@@ -170,8 +247,4 @@ space 3
     step
       --
         3.3_4.3_4_14
-    / True/False
-    step
-      --
-        3.3_4.3_4_15
     

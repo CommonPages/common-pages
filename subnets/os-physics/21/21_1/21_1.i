@@ -18,6 +18,7 @@ story 21_1
     21_1_5
     21_1_6
 
+  / Resistors in Series and Parallel - Full Text
   path FullText
     step
       --

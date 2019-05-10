@@ -47,6 +47,7 @@ story 25_7
     25_7_1
     25_7_2
 
+  / Image Formation by Mirrors - Full Text
   path FullText
     step
       --

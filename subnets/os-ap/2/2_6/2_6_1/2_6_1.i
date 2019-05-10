@@ -18,6 +18,7 @@ story 2_6_1
     2_6_1_2
     2_6_1_3
 
+  / The Functions of the Skeletal System - Full Text
   path FullText
     step
       --

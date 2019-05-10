@@ -15,6 +15,7 @@ story 22_1
     22_1_6
     22_1_7
 
+  / Anatomy and Normal Microbiota of the Respiratory Tract - Full Text
   path FullText
     step
       --

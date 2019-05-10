@@ -18,6 +18,7 @@ story 3_2
     3_2_4
     3_2_5
 
+  / Foundations of Modern Cell Theory - Full Text
   path FullText
     step
       --

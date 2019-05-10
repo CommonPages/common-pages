@@ -18,6 +18,7 @@ story 33_0
     33_0_0
     33_0_1
 
+  / Introduction to Particle Physics - Full Text
   path FullText
     step
       --

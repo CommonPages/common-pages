@@ -19,6 +19,7 @@ story 14_5
     14_5_8
     14_5_9
 
+  / Drug Resistance - Full Text
   path FullText
     step
       --

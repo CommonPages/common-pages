@@ -20,6 +20,7 @@ story 6_21_1
     6_21_1_3
     6_21_1_4
 
+  / Importance of Biodiversity - Full Text
   path FullText
     step
       --

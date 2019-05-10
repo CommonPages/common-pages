@@ -14,6 +14,7 @@ story 1_2_1
     1_2_1_2
     1_2_1_3
 
+  / The Building Blocks of Molecules - Full Text
   path FullText
     step
       --

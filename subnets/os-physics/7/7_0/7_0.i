@@ -18,6 +18,7 @@ story 7_0
   ---
     7_0_0
 
+  / Introduction to Work, Energy, and Energy Resources - Full Text
   path FullText
     step
       --

@@ -20,8 +20,8 @@ story 1_4_2
     1_4_2_4
     1_4_2_5
     1_4_2_6
-    1_4_2_7
 
+  / Epithelial Tissue - Full Text
   path FullText
     step
       --
@@ -44,8 +44,5 @@ story 1_4_2
     step
       --
         1_4_2_6
-    step
-      --
-        1_4_2_7
 
     

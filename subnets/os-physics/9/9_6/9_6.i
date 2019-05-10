@@ -46,6 +46,7 @@ story 9_6
     9_6_0
     9_6_1
 
+  / Forces and Torques in Muscles and Joints - Full Text
   path FullText
     step
       --

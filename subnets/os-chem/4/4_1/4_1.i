@@ -20,6 +20,7 @@ story 4_1
     4_1_3
     4_1_4
 
+  / Ionic Bonding - Full Text
   path FullText
     step
       --

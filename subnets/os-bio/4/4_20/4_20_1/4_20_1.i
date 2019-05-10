@@ -2,7 +2,7 @@
 / Organizing Life on Earth
 story 4_20_1
   >
-    In scientific terms, the evolutionary history and relationship of an organism or group of organisms is called its  **phylogeny**. A phylogeny describes the relationships of an organism, such as from which organisms it is thought to have evolved, to which species it is most closely related, and so forth. Phylogenetic relationships provide information on shared ancestry but not necessarily on how organisms are similar or different.
+    In scientific terms,  **phylogeny** is the evolutionary history and relationship of an organism or group of organisms. A phylogeny describes the organisim's relationships, such as from which organisms it may have evolved, or to which species it is most closely related. Phylogenetic relationships provide information on shared ancestry but not necessarily on how organisms are similar or different.
 
   apply FullText
 
@@ -13,6 +13,7 @@ story 4_20_1
     4_20_1_3
     4_20_1_4
 
+  / Organizing Life on Earth - Full Text
   path FullText
     step
       --

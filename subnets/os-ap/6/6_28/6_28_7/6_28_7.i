@@ -18,6 +18,7 @@ story 6_28_7
     6_28_7_8
     6_28_7_9
 
+  / Patterns of Inheritance - Full Text
   path FullText
     step
       --

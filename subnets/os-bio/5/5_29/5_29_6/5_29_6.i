@@ -2,7 +2,7 @@
 / Mammals
 story 5_29_6
   >
-     **Mammals** are vertebrates that possess hair and mammary glands. Several other characteristics are distinctive to mammals, including certain features of the jaw, skeleton, integument, and internal anatomy. Modern mammals belong to three clades: monotremes, marsupials, and eutherians (or placental mammals).
+     **Mammals**, comprising about 5,200 species, are vertebrates that possess hair and mammary glands. Several other characteristics are distinctive to mammals, including certain features of the jaw, skeleton, integument, and internal anatomy. Modern mammals belong to three clades: monotremes, marsupials, and eutherians (or placental mammals).
 
   apply FullText
 
@@ -13,6 +13,7 @@ story 5_29_6
     5_29_6_3
     5_29_6_4
 
+  / Mammals - Full Text
   path FullText
     step
       --

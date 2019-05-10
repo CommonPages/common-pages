@@ -14,6 +14,7 @@ story 6_21_3
     6_21_3_4
     6_21_3_5
 
+  / Preserving Biodiversity - Full Text
   path FullText
     step
       --

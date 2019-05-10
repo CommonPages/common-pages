@@ -20,6 +20,7 @@ story 1_1_2
     1_1_2_4
     1_1_2_5
 
+  / The Process of Science - Full Text
   path FullText
     step
       --

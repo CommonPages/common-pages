@@ -2,7 +2,7 @@
 / The Light-Dependent Reactions of Photosynthesis
 story 2_8_2
   >
-    How can light be used to make food? When a person turns on a lamp, electrical energy becomes light energy. Like all other forms of kinetic energy, light can travel, change form, and be harnessed to do work. In the case of photosynthesis, light energy is converted into chemical energy, which photoautotrophs use to build carbohydrate molecules ({'Figure_8_2_1 Figure 8.2.1}). However, autotrophs only use a few specific components of sunlight.
+    How can light energy be used to make food? When a person turns on a lamp, electrical energy becomes light energy. Like all other forms of kinetic energy, light can travel, change form, and be harnessed to do work. In the case of photosynthesis, light energy is converted into chemical energy, which photoautotrophs use to build basic carbohydrate molecules ({'Figure_8_2_1 Figure 8.2.1}). However, autotrophs only use a few specific wavelengths of sunlight.
     
     
             
@@ -16,6 +16,7 @@ story 2_8_2
     2_8_2_3
     2_8_2_4
 
+  / The Light-Dependent Reactions of Photosynthesis - Full Text
   path FullText
     step
       --

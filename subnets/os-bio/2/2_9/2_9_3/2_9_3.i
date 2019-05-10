@@ -15,6 +15,7 @@ story 2_9_3
     2_9_3_5
     2_9_3_6
 
+  / Response to the Signal - Full Text
   path FullText
     step
       --

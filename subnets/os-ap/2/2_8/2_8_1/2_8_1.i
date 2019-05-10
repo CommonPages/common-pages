@@ -22,6 +22,7 @@ story 2_8_1
     2_8_1_2
     2_8_1_3
 
+  / The Pectoral Girdle - Full Text
   path FullText
     step
       --

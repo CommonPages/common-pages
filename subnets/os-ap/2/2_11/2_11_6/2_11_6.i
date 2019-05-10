@@ -12,6 +12,7 @@ story 2_11_6
     2_11_6_2
     2_11_6_3
 
+  / Appendicular Muscles of the Pelvic Girdle and Lower Limbs - Full Text
   path FullText
     step
       --

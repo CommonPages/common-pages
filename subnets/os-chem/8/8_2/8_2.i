@@ -20,6 +20,7 @@ story 8_2
     8_2_7
     8_2_8
 
+  / Relating Pressure, Volume, Amount, and Temperature: The Ideal Gas Law - Full Text
   path FullText
     step
       --

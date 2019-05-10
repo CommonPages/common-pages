@@ -16,6 +16,7 @@ story 4_15_1
     4_15_1_3
     4_15_1_4
 
+  / Features of the Animal Kingdom - Full Text
   path FullText
     step
       --

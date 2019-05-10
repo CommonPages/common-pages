@@ -12,6 +12,7 @@ story 20_0
   ---
     20_0_0
 
+  / Introduction to Electric Current, Resistance, and Ohm's Law - Full Text
   path FullText
     step
       --

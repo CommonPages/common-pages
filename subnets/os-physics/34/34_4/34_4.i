@@ -13,6 +13,7 @@ story 34_4
     34_4_3
     34_4_4
 
+  / Dark Matter and Closure - Full Text
   path FullText
     step
       --

@@ -44,6 +44,7 @@ story 18_5
     18_5_0
     18_5_1
 
+  / Electric Field Lines: Multiple Charges - Full Text
   path FullText
     step
       --

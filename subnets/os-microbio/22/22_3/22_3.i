@@ -15,6 +15,7 @@ story 22_3
     22_3_6
     22_3_7
 
+  / Viral Infections of the Respiratory Tract - Full Text
   path FullText
     step
       --

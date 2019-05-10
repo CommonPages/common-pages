@@ -13,6 +13,7 @@ story 6_30_3
     6_30_3_3
     6_30_3_4
 
+  / Roots - Full Text
   path FullText
     step
       --

@@ -38,6 +38,7 @@ story 5_3
     5_3_0
     5_3_1
 
+  / Multiple Bonds - Full Text
   path FullText
     step
       --

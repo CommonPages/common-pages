@@ -17,8 +17,8 @@ story 8_6
     8_6_3
     8_6_4
     8_6_5
-    8_6_6
 
+  / Photosynthesis - Full Text
   path FullText
     step
       --
@@ -35,8 +35,5 @@ story 8_6
     step
       --
         8_6_5
-    step
-      --
-        8_6_6
 
     

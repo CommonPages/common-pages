@@ -14,8 +14,8 @@ story 8_7
     8_7_5
     8_7_6
     8_7_7
-    8_7_9
 
+  / Biogeochemical Cycles - Full Text
   path FullText
     step
       --
@@ -38,8 +38,5 @@ story 8_7
     step
       --
         8_7_7
-    step
-      --
-        8_7_9
 
     

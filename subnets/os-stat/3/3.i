@@ -4,6 +4,7 @@
 space 3
 
   ^^
+    SkimPath
     FullPath
 
   insert 3.3_0.3_0_0
@@ -14,6 +15,88 @@ space 3
     3_3
     3_4
     3_5
+
+
+  / Key Concepts
+  // Probability Topics - Key Concepts
+  path SkimPath
+    / Probability Topics
+    step
+      >>>
+        ## Probability Topics
+      >>
+        3.3_0.3_0_0
+      >>>
+        {step:next Continue}
+
+    / Terminology
+    step
+      >>>
+        ## Terminology
+      >>
+        3.3_1.3_1_0
+      --- Terminology - In Depth
+        3.3_1.3_1_2
+        3.3_1.3_1_3
+        3.3_1.3_1_4
+      >>>
+        {step:next Continue}
+
+    / Independent and Mutually Exclusive Events
+    step
+      >>>
+        ## Independent and Mutually Exclusive Events
+      >>
+        3.3_2.3_2_0
+      --- Independent and Mutually Exclusive Events - In Depth
+        3.3_2.3_2_1
+        3.3_2.3_2_2
+        3.3_2.3_2_4
+        3.3_2.3_2_5
+        3.3_2.3_2_6
+      >>>
+        {step:next Continue}
+
+    / Two Basic Rules of Probability
+    step
+      >>>
+        ## Two Basic Rules of Probability
+      >>
+        3.3_3.3_3_0
+      --- Two Basic Rules of Probability - In Depth
+        3.3_3.3_3_1
+        3.3_3.3_3_2
+        3.3_3.3_3_4
+        3.3_3.3_3_5
+        3.3_3.3_3_6
+      >>>
+        {step:next Continue}
+
+    / Contingency Tables
+    step
+      >>>
+        ## Contingency Tables
+      >>
+        3.3_4.3_4_0
+      --- Contingency Tables - In Depth
+        3.3_4.3_4_2
+        3.3_4.3_4_3
+      >>>
+        {step:next Continue}
+
+    / Tree and Venn Diagrams
+    step
+      >>>
+        ## Tree and Venn Diagrams
+      >>
+        3.3_5.3_5_0
+      --- Tree and Venn Diagrams - In Depth
+        3.3_5.3_5_1
+        3.3_5.3_5_2
+        3.3_5.3_5_4
+        3.3_5.3_5_5
+      >>>
+        {step:exit}
 
 
   / 3 - Full Text
@@ -63,10 +146,6 @@ space 3
     step
       --
         3.3_2.3_2_6
-    / Bringing It Together
-    step
-      --
-        3.3_2.3_2_7
     / Two Basic Rules of Probability - Introduction
     step
       --
@@ -103,10 +182,6 @@ space 3
     step
       --
         3.3_4.3_4_3
-    / Bringing It Together
-    step
-      --
-        3.3_4.3_4_4
     / Tree and Venn Diagrams - Introduction
     step
       --
@@ -127,8 +202,4 @@ space 3
     step
       --
         3.3_5.3_5_5
-    / Bringing It Together
-    step
-      --
-        3.3_5.3_5_6
     

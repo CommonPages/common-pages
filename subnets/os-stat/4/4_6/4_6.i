@@ -18,6 +18,7 @@ story 4_6
     4_6_4
     4_6_5
 
+  / Poisson Distribution - Full Text
   path FullText
     step
       --

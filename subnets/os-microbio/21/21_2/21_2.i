@@ -21,6 +21,7 @@ story 21_2
     21_2_10
     21_2_11
 
+  / Bacterial Infections of the Skin and Eyes - Full Text
   path FullText
     step
       --

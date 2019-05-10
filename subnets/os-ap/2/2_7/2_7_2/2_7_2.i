@@ -24,8 +24,8 @@ story 2_7_2
     2_7_2_9
     2_7_2_10
     2_7_2_11
-    2_7_2_12
 
+  / The Skull - Full Text
   path FullText
     step
       --
@@ -63,8 +63,5 @@ story 2_7_2
     step
       --
         2_7_2_11
-    step
-      --
-        2_7_2_12
 
     

@@ -11,6 +11,7 @@ story 4_6
     4_6_1
     4_6_2
 
+  / Problem-Solving Strategies - Full Text
   path FullText
     step
       --

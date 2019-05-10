@@ -66,6 +66,7 @@ story 18_6
     18_6_0
     18_6_1
 
+  / Occurrence, Preparation, and Properties of Carbonates - Full Text
   path FullText
     step
       --

@@ -15,8 +15,8 @@ story 2_8_2
     2_8_2_5
     2_8_2_6
     2_8_2_7
-    2_8_2_8
 
+  / Bones of the Upper Limb - Full Text
   path FullText
     step
       --
@@ -42,8 +42,5 @@ story 2_8_2
     step
       --
         2_8_2_7
-    step
-      --
-        2_8_2_8
 
     

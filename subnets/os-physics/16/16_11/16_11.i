@@ -25,6 +25,7 @@ story 16_11
     16_11_0
     16_11_1
 
+  / Energy in Waves: Intensity - Full Text
   path FullText
     step
       --

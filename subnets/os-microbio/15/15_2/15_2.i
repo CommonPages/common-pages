@@ -16,6 +16,7 @@ story 15_2
     15_2_7
     15_2_8
 
+  / How Pathogens Cause Disease - Full Text
   path FullText
     step
       --

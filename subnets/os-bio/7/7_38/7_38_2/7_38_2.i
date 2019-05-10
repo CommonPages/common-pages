@@ -40,7 +40,9 @@ story 7_38_2
     7_38_2_5
     7_38_2_6
     7_38_2_7
+    7_38_2_8
 
+  / Bone - Full Text
   path FullText
     step
       --
@@ -66,5 +68,8 @@ story 7_38_2
     step
       --
         7_38_2_7
+    step
+      --
+        7_38_2_8
 
     

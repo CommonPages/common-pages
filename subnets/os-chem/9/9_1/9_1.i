@@ -20,6 +20,7 @@ story 9_1
     9_1_3
     9_1_4
 
+  / Energy Basics - Full Text
   path FullText
     step
       --

@@ -15,6 +15,7 @@ story 17_7
     17_7_2
     17_7_3
 
+  / Ultrasound - Full Text
   path FullText
     step
       --

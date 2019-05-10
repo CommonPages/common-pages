@@ -16,6 +16,7 @@ story 2_8_2
     2_8_2_4
     2_8_2_5
 
+  / Laws of Inheritance - Full Text
   path FullText
     step
       --

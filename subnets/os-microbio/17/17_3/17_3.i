@@ -16,6 +16,7 @@ story 17_3
     17_3_5
     17_3_6
 
+  / Cellular Defenses - Full Text
   path FullText
     step
       --

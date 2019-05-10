@@ -14,6 +14,7 @@ story 2_9_7
     2_9_7_0
     2_9_7_1
 
+  / Development of Joints - Full Text
   path FullText
     step
       --

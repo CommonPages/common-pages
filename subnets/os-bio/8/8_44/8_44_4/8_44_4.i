@@ -12,6 +12,7 @@ story 8_44_4
     8_44_4_3
     8_44_4_4
 
+  / Aquatic Biomes - Full Text
   path FullText
     step
       --

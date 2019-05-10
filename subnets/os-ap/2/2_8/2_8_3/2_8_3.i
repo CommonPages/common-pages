@@ -16,8 +16,8 @@ story 2_8_3
     2_8_3_1
     2_8_3_2
     2_8_3_3
-    2_8_3_4
 
+  / The Pelvic Girdle and Pelvis - Full Text
   path FullText
     step
       --
@@ -31,8 +31,5 @@ story 2_8_3
     step
       --
         2_8_3_3
-    step
-      --
-        2_8_3_4
 
     

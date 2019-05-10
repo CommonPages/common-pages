@@ -22,8 +22,8 @@ story 1_4_4
   ---
     1_4_4_0
     1_4_4_1
-    1_4_4_2
 
+  / Muscle Tissue and Motion - Full Text
   path FullText
     step
       --
@@ -31,8 +31,5 @@ story 1_4_4
     step
       --
         1_4_4_1
-    step
-      --
-        1_4_4_2
 
     

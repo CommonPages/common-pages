@@ -17,9 +17,9 @@ story 12_1
     12_1_3
     12_1_4
     12_1_5
-    12_1_6
     12_1_8
 
+  / Microbes and the Tools of Genetic Engineering - Full Text
   path FullText
     step
       --
@@ -36,9 +36,6 @@ story 12_1
     step
       --
         12_1_5
-    step
-      --
-        12_1_6
     step
       --
         12_1_8

@@ -12,6 +12,7 @@ story 6_31_1
     6_31_1_2
     6_31_1_3
 
+  / Nutritional Requirements of Plants - Full Text
   path FullText
     step
       --

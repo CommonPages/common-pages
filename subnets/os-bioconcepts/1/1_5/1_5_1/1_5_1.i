@@ -17,6 +17,7 @@ story 1_5_1
     1_5_1_3
     1_5_1_4
 
+  / Overview of Photosynthesis - Full Text
   path FullText
     step
       --

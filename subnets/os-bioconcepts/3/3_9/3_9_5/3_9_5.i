@@ -15,6 +15,7 @@ story 3_9_5
     3_9_5_1
     3_9_5_2
 
+  / How Genes Are Regulated - Full Text
   path FullText
     step
       --

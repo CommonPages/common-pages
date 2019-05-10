@@ -12,6 +12,7 @@ story 16_4
     16_4_3
     16_4_4
 
+  / Global Public Health - Full Text
   path FullText
     step
       --

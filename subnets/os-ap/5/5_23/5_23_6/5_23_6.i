@@ -16,8 +16,8 @@ story 5_23_6
     5_23_6_2
     5_23_6_3
     5_23_6_4
-    5_23_6_5
 
+  / Accessory Organs in Digestion: The Liver, Pancreas, and Gallbladder - Full Text
   path FullText
     step
       --
@@ -34,8 +34,5 @@ story 5_23_6
     step
       --
         5_23_6_4
-    step
-      --
-        5_23_6_5
 
     

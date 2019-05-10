@@ -4,6 +4,7 @@
 space 3_17
 
   ^^
+    SkimPath
     FullPath
 
   insert 3.3_17.3_17_0.3_17_0_0
@@ -14,6 +15,97 @@ space 3_17
     3_17_3
     3_17_4
     3_17_5
+
+
+  / Key Concepts
+  // Biotechnology and Genomics - Key Concepts
+  path SkimPath
+    / Biotechnology and Genomics
+    step
+      >>>
+        ## Biotechnology and Genomics
+      >>
+        3.3_17.3_17_0.3_17_0_0
+      >>>
+        {step:next Continue}
+
+    / Biotechnology
+    step
+      >>>
+        ## Biotechnology
+      >>
+        3.3_17.3_17_1.3_17_1_0
+      --- Biotechnology - In Depth
+        3.3_17.3_17_1.3_17_1_1
+        3.3_17.3_17_1.3_17_1_2
+        3.3_17.3_17_1.3_17_1_3
+        3.3_17.3_17_1.3_17_1_4
+        3.3_17.3_17_1.3_17_1_5
+        3.3_17.3_17_1.3_17_1_6
+        3.3_17.3_17_1.3_17_1_7
+        3.3_17.3_17_1.3_17_1_8
+        3.3_17.3_17_1.3_17_1_9
+        3.3_17.3_17_1.3_17_1_10
+      >>>
+        {step:next Continue}
+
+    / Mapping Genomes
+    step
+      >>>
+        ## Mapping Genomes
+      >>
+        3.3_17.3_17_2.3_17_2_0
+      --- Mapping Genomes - In Depth
+        3.3_17.3_17_2.3_17_2_1
+        3.3_17.3_17_2.3_17_2_2
+        3.3_17.3_17_2.3_17_2_3
+        3.3_17.3_17_2.3_17_2_4
+      >>>
+        {step:next Continue}
+
+    / Whole-Genome Sequencing
+    step
+      >>>
+        ## Whole-Genome Sequencing
+      >>
+        3.3_17.3_17_3.3_17_3_0
+      --- Whole-Genome Sequencing - In Depth
+        3.3_17.3_17_3.3_17_3_1
+        3.3_17.3_17_3.3_17_3_2
+        3.3_17.3_17_3.3_17_3_3
+        3.3_17.3_17_3.3_17_3_4
+      >>>
+        {step:next Continue}
+
+    / Applying Genomics
+    step
+      >>>
+        ## Applying Genomics
+      >>
+        3.3_17.3_17_4.3_17_4_0
+      --- Applying Genomics - In Depth
+        3.3_17.3_17_4.3_17_4_1
+        3.3_17.3_17_4.3_17_4_2
+        3.3_17.3_17_4.3_17_4_3
+        3.3_17.3_17_4.3_17_4_4
+        3.3_17.3_17_4.3_17_4_5
+        3.3_17.3_17_4.3_17_4_6
+        3.3_17.3_17_4.3_17_4_7
+      >>>
+        {step:next Continue}
+
+    / Genomics and Proteomics
+    step
+      >>>
+        ## Genomics and Proteomics
+      >>
+        3.3_17.3_17_5.3_17_5_0
+      --- Genomics and Proteomics - In Depth
+        3.3_17.3_17_5.3_17_5_1
+        3.3_17.3_17_5.3_17_5_2
+        3.3_17.3_17_5.3_17_5_3
+      >>>
+        {step:exit}
 
 
   / 3.17 - Full Text
@@ -79,7 +171,7 @@ space 3_17
     step
       --
         3.3_17.3_17_2.3_17_2_2
-    / Integration of Genetic and Physical Maps
+    / Genetic and Physical Maps Integration
     step
       --
         3.3_17.3_17_2.3_17_2_3
@@ -99,7 +191,7 @@ space 3_17
     step
       --
         3.3_17.3_17_3.3_17_3_2
-    / Uses of Genome Sequences
+    / Genome Sequence Uses
     step
       --
         3.3_17.3_17_3.3_17_3_3

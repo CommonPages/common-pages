@@ -4,6 +4,7 @@
 space 6_27
 
   ^^
+    SkimPath
     FullPath
 
   insert 6.6_27.6_27_0.6_27_0_0
@@ -12,6 +13,69 @@ space 6_27
     6_27_1
     6_27_2
     6_27_3
+
+
+  / Key Concepts
+  // The Reproductive System - Key Concepts
+  path SkimPath
+    / The Reproductive System
+    step
+      >>>
+        ## The Reproductive System
+      >>
+        6.6_27.6_27_0.6_27_0_0
+      >>>
+        {step:next Continue}
+
+    / Anatomy and Physiology of the Male Reproductive System
+    step
+      >>>
+        ## Anatomy and Physiology of the Male Reproductive System
+      >>
+        6.6_27.6_27_1.6_27_1_0
+      --- Anatomy and Physiology of the Male Reproductive System - In Depth
+        6.6_27.6_27_1.6_27_1_1
+        6.6_27.6_27_1.6_27_1_2
+        6.6_27.6_27_1.6_27_1_3
+        6.6_27.6_27_1.6_27_1_4
+        6.6_27.6_27_1.6_27_1_5
+        6.6_27.6_27_1.6_27_1_6
+        6.6_27.6_27_1.6_27_1_7
+      >>>
+        {step:next Continue}
+
+    / Anatomy and Physiology of the Female Reproductive System
+    step
+      >>>
+        ## Anatomy and Physiology of the Female Reproductive System
+      >>
+        6.6_27.6_27_2.6_27_2_0
+      --- Anatomy and Physiology of the Female Reproductive System - In Depth
+        6.6_27.6_27_2.6_27_2_1
+        6.6_27.6_27_2.6_27_2_2
+        6.6_27.6_27_2.6_27_2_3
+        6.6_27.6_27_2.6_27_2_4
+        6.6_27.6_27_2.6_27_2_5
+        6.6_27.6_27_2.6_27_2_6
+        6.6_27.6_27_2.6_27_2_7
+        6.6_27.6_27_2.6_27_2_8
+        6.6_27.6_27_2.6_27_2_9
+        6.6_27.6_27_2.6_27_2_10
+      >>>
+        {step:next Continue}
+
+    / Development of the Male and Female Reproductive Systems
+    step
+      >>>
+        ## Development of the Male and Female Reproductive Systems
+      >>
+        6.6_27.6_27_3.6_27_3_0
+      --- Development of the Male and Female Reproductive Systems - In Depth
+        6.6_27.6_27_3.6_27_3_1
+        6.6_27.6_27_3.6_27_3_2
+        6.6_27.6_27_3.6_27_3_3
+      >>>
+        {step:exit}
 
 
   / 6.27 - Full Text
@@ -53,10 +117,6 @@ space 6_27
     step
       --
         6.6_27.6_27_1.6_27_1_7
-    / Interactive Link Questions
-    step
-      --
-        6.6_27.6_27_1.6_27_1_8
     / Anatomy and Physiology of the Female Reproductive System - Introduction
     step
       --
@@ -101,10 +161,6 @@ space 6_27
     step
       --
         6.6_27.6_27_2.6_27_2_10
-    / Interactive Link Questions
-    step
-      --
-        6.6_27.6_27_2.6_27_2_11
     / Development of the Male and Female Reproductive Systems - Introduction
     step
       --
@@ -121,8 +177,4 @@ space 6_27
     step
       --
         6.6_27.6_27_3.6_27_3_3
-    / Interactive Link Questions
-    step
-      --
-        6.6_27.6_27_3.6_27_3_4
     

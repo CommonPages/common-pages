@@ -62,6 +62,7 @@ story 23_7
     23_7_0
     23_7_1
 
+  / Transformers - Full Text
   path FullText
     step
       --

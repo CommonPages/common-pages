@@ -16,6 +16,7 @@ story 2_7_1
     2_7_1_2
     2_7_1_3
 
+  / Divisions of the Skeletal System - Full Text
   path FullText
     step
       --

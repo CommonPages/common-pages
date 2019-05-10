@@ -39,6 +39,7 @@ story 14_5
     14_5_0
     14_5_1
 
+  / Conduction - Full Text
   path FullText
     step
       --

@@ -4,6 +4,7 @@
 space 6_20
 
   ^^
+    SkimPath
     FullPath
 
   insert 6.6_20.6_20_0.6_20_0_0
@@ -13,6 +14,84 @@ space 6_20
     6_20_2
     6_20_3
     6_20_4
+
+
+  / Key Concepts
+  // Ecosystems and the Biosphere - Key Concepts
+  path SkimPath
+    / Ecosystems and the Biosphere
+    step
+      >>>
+        ## Ecosystems and the Biosphere
+      >>
+        6.6_20.6_20_0.6_20_0_0
+      >>>
+        {step:next Continue}
+
+    / Energy Flow through Ecosystems
+    step
+      >>>
+        ## Energy Flow through Ecosystems
+      >>
+        6.6_20.6_20_1.6_20_1_0
+      --- Energy Flow through Ecosystems - In Depth
+        6.6_20.6_20_1.6_20_1_1
+        6.6_20.6_20_1.6_20_1_2
+        6.6_20.6_20_1.6_20_1_3
+        6.6_20.6_20_1.6_20_1_4
+        6.6_20.6_20_1.6_20_1_5
+      >>>
+        {step:next Continue}
+
+    / Biogeochemical Cycles
+    step
+      >>>
+        ## Biogeochemical Cycles
+      >>
+        6.6_20.6_20_2.6_20_2_0
+      --- Biogeochemical Cycles - In Depth
+        6.6_20.6_20_2.6_20_2_1
+        6.6_20.6_20_2.6_20_2_2
+        6.6_20.6_20_2.6_20_2_3
+        6.6_20.6_20_2.6_20_2_4
+        6.6_20.6_20_2.6_20_2_5
+        6.6_20.6_20_2.6_20_2_6
+      >>>
+        {step:next Continue}
+
+    / Terrestrial Biomes
+    step
+      >>>
+        ## Terrestrial Biomes
+      >>
+        6.6_20.6_20_3.6_20_3_0
+      --- Terrestrial Biomes - In Depth
+        6.6_20.6_20_3.6_20_3_1
+        6.6_20.6_20_3.6_20_3_2
+        6.6_20.6_20_3.6_20_3_3
+        6.6_20.6_20_3.6_20_3_4
+        6.6_20.6_20_3.6_20_3_5
+        6.6_20.6_20_3.6_20_3_6
+        6.6_20.6_20_3.6_20_3_7
+        6.6_20.6_20_3.6_20_3_8
+        6.6_20.6_20_3.6_20_3_9
+      >>>
+        {step:next Continue}
+
+    / Aquatic and Marine Biomes
+    step
+      >>>
+        ## Aquatic and Marine Biomes
+      >>
+        6.6_20.6_20_4.6_20_4_0
+      --- Aquatic and Marine Biomes - In Depth
+        6.6_20.6_20_4.6_20_4_1
+        6.6_20.6_20_4.6_20_4_2
+        6.6_20.6_20_4.6_20_4_3
+        6.6_20.6_20_4.6_20_4_4
+        6.6_20.6_20_4.6_20_4_5
+      >>>
+        {step:exit}
 
 
   / 6.20 - Full Text

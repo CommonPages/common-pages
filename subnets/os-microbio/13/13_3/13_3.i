@@ -19,8 +19,8 @@ story 13_3
     13_3_10
     13_3_11
     13_3_12
-    13_3_14
 
+  / Using Chemicals to Control Microorganisms - Full Text
   path FullText
     step
       --
@@ -58,8 +58,5 @@ story 13_3
     step
       --
         13_3_12
-    step
-      --
-        13_3_14
 
     

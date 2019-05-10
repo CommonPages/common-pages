@@ -12,6 +12,7 @@ story 5_22_6
     5_22_6_2
     5_22_6_3
 
+  / Modifications in Respiratory Functions - Full Text
   path FullText
     step
       --

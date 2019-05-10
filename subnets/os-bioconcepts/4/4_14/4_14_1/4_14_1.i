@@ -13,6 +13,7 @@ story 4_14_1
     4_14_1_3
     4_14_1_4
 
+  / The Plant Kingdom - Full Text
   path FullText
     step
       --

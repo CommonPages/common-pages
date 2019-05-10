@@ -18,6 +18,7 @@ story 2_4
     2_4_9
     2_4_10
 
+  / Staining Microscopic Specimens - Full Text
   path FullText
     step
       --

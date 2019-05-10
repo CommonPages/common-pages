@@ -13,6 +13,7 @@ story 2_3
     2_3_4
     2_3_5
 
+  / Instruments of Microscopy - Full Text
   path FullText
     step
       --

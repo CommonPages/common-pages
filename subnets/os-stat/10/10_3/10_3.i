@@ -26,6 +26,7 @@ story 10_3
     10_3_3
     10_3_4
 
+  / Comparing Two Independent Population Proportions - Full Text
   path FullText
     step
       --

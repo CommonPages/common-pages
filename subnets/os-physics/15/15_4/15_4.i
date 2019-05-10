@@ -42,6 +42,7 @@ story 15_4
     15_4_0
     15_4_1
 
+  / Carnot’s Perfect Heat Engine: The Second Law of Thermodynamics Restated - Full Text
   path FullText
     step
       --

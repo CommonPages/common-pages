@@ -27,6 +27,7 @@ story 18_1
     18_1_6
     18_1_7
 
+  / Periodicity - Full Text
   path FullText
     step
       --

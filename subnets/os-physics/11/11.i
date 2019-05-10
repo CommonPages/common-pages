@@ -4,6 +4,7 @@
 space 11
 
   ^^
+    SkimPath
     FullPath
 
 
@@ -18,6 +19,101 @@ space 11
     11_7
     11_8
     11_9
+
+
+  / Key Concepts
+  // Fluid Statics - Key Concepts
+  path SkimPath
+    / Introduction to Fluid Statics
+    step
+      >>>
+        ## Introduction to Fluid Statics
+      >>
+        11.11_0.11_0_0
+      >>>
+        {step:next Continue}
+
+    / What Is a Fluid?
+    step
+      >>>
+        ## What Is a Fluid?
+      >>
+        11.11_1.11_1_0
+      --- What Is a Fluid? - In Depth
+        11.11_1.11_1_1
+      >>>
+        {step:next Continue}
+
+    / Density
+    step
+      >>>
+        ## Density
+      >>
+        11.11_2.11_2_0
+      --- Density - In Depth
+        11.11_2.11_2_1
+      >>>
+        {step:next Continue}
+
+    / Pressure
+    step
+      >>>
+        ## Pressure
+      >>
+        11.11_3.11_3_0
+      --- Pressure - In Depth
+        11.11_3.11_3_1
+      >>>
+        {step:next Continue}
+
+    / Variation of Pressure with Depth in a Fluid
+    step
+      >>>
+        ## Variation of Pressure with Depth in a Fluid
+      >>
+        11.11_4.11_4_0
+      --- Variation of Pressure with Depth in a Fluid - In Depth
+        11.11_4.11_4_1
+      >>>
+        {step:next Continue}
+
+    / Pascal’s Principle
+    step
+      >>>
+        ## Pascal’s Principle
+      >>
+        11.11_5.11_5_0
+      --- Pascal’s Principle - In Depth
+        11.11_5.11_5_1
+        11.11_5.11_5_2
+        11.11_5.11_5_3
+      >>>
+        {step:next Continue}
+
+    / Gauge Pressure, Absolute Pressure, and Pressure Measurement
+    step
+      >>>
+        ## Gauge Pressure, Absolute Pressure, and Pressure Measurement
+      >>
+        11.11_6.11_6_0
+      --- Gauge Pressure, Absolute Pressure, and Pressure Measurement - In Depth
+        11.11_6.11_6_1
+      >>>
+        {step:next Continue}
+
+    / Archimedes’ Principle
+    step
+      >>>
+        ## Archimedes’ Principle
+      >>
+        11.11_7.11_7_0
+      --- Archimedes’ Principle - In Depth
+        11.11_7.11_7_1
+        11.11_7.11_7_2
+        11.11_7.11_7_3
+        11.11_7.11_7_4
+      >>>
+        {step:exit}
 
 
   / 11 - Full Text

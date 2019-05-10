@@ -12,8 +12,8 @@ story 7_3
     7_3_3
     7_3_4
     7_3_5
-    7_3_6
 
+  / Lipids - Full Text
   path FullText
     step
       --
@@ -30,8 +30,5 @@ story 7_3
     step
       --
         7_3_5
-    step
-      --
-        7_3_6
 
     

@@ -32,6 +32,7 @@ story 8_4
     8_4_0
     8_4_1
 
+  / Elastic Collisions in One Dimension - Full Text
   path FullText
     step
       --

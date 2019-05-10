@@ -23,6 +23,7 @@ story 33_1
     33_1_0
     33_1_1
 
+  / The Yukawa Particle and the Heisenberg Uncertainty Principle Revisited - Full Text
   path FullText
     step
       --

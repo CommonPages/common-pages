@@ -16,6 +16,7 @@ story 5_25_10
     5_25_10_6
     5_25_10_7
 
+  / The Urinary System and Homeostasis - Full Text
   path FullText
     step
       --

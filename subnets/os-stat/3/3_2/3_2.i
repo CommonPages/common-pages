@@ -13,8 +13,8 @@ story 3_2
     3_2_4
     3_2_5
     3_2_6
-    3_2_7
 
+  / Independent and Mutually Exclusive Events - Full Text
   path FullText
     step
       --
@@ -34,8 +34,5 @@ story 3_2
     step
       --
         3_2_6
-    step
-      --
-        3_2_7
 
     

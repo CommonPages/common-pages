@@ -17,6 +17,7 @@ story 22_4
     22_4_8
     22_4_9
 
+  / Respiratory Mycoses - Full Text
   path FullText
     step
       --

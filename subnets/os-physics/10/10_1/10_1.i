@@ -78,6 +78,7 @@ story 10_1
     10_1_0
     10_1_1
 
+  / Angular Acceleration - Full Text
   path FullText
     step
       --

@@ -4,6 +4,7 @@
 space 29
 
   ^^
+    SkimPath
     FullPath
 
 
@@ -17,6 +18,53 @@ space 29
     29_6
     29_7
     29_8
+
+
+  / Key Concepts
+  // Introduction to Quantum Physics - Key Concepts
+  path SkimPath
+    / Introduction to Quantum Physics
+    step
+      >>>
+        ## Introduction to Quantum Physics
+      >>
+        29.29_0.29_0_0
+      >>>
+        {step:next Continue}
+
+    / The Photoelectric Effect
+    step
+      >>>
+        ## The Photoelectric Effect
+      >>
+        29.29_2.29_2_0
+      --- The Photoelectric Effect - In Depth
+        29.29_2.29_2_1
+      >>>
+        {step:next Continue}
+
+    / The Particle-Wave Duality
+    step
+      >>>
+        ## The Particle-Wave Duality
+      >>
+        29.29_5.29_5_0
+      --- The Particle-Wave Duality - In Depth
+        29.29_5.29_5_1
+      >>>
+        {step:next Continue}
+
+    / The Particle-Wave Duality Reviewed
+    step
+      >>>
+        ## The Particle-Wave Duality Reviewed
+      >>
+        29.29_8.29_8_0
+      --- The Particle-Wave Duality Reviewed - In Depth
+        29.29_8.29_8_1
+        29.29_8.29_8_2
+      >>>
+        {step:exit}
 
 
   / 29 - Full Text

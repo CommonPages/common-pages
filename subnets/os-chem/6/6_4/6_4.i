@@ -2,7 +2,7 @@
 / Other Units for Solution Concentrations
 story 6_4
   >
-    In the previous section, we introduced molarity, a very useful measurement unit for evaluating the concentration of solutions. However, molarity is only one measure of concentration. In this section, we will introduce some other units of concentration that are commonly used in various applications, either for convenience or by convention.
+    The previous section introduced molarity, a very useful measurement unit for evaluating the concentration of solutions. However, molarity is only one measure of concentration. This section will describe some other units of concentration that are commonly used in various applications, either for convenience or by convention.
 
   apply FullText
 
@@ -16,6 +16,7 @@ story 6_4
     6_4_6
     6_4_7
 
+  / Other Units for Solution Concentrations - Full Text
   path FullText
     step
       --

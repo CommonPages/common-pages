@@ -35,6 +35,7 @@ story 2_3
     2_3_4
     2_3_5
 
+  / Atomic Structure and Symbolism - Full Text
   path FullText
     step
       --

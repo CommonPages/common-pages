@@ -4,6 +4,7 @@
 space 1_3
 
   ^^
+    SkimPath
     FullPath
 
   insert 1.1_3.1_3_0.1_3_0_0
@@ -14,6 +15,89 @@ space 1_3
     1_3_3
     1_3_4
     1_3_5
+
+
+  / Key Concepts
+  // Biological Macromolecules - Key Concepts
+  path SkimPath
+    / Biological Macromolecules
+    step
+      >>>
+        ## Biological Macromolecules
+      >>
+        1.1_3.1_3_0.1_3_0_0
+      >>>
+        {step:next Continue}
+
+    / Synthesis of Biological Macromolecules
+    step
+      >>>
+        ## Synthesis of Biological Macromolecules
+      >>
+        1.1_3.1_3_1.1_3_1_0
+      --- Synthesis of Biological Macromolecules - In Depth
+        1.1_3.1_3_1.1_3_1_1
+        1.1_3.1_3_1.1_3_1_2
+        1.1_3.1_3_1.1_3_1_3
+      >>>
+        {step:next Continue}
+
+    / Carbohydrates
+    step
+      >>>
+        ## Carbohydrates
+      >>
+        1.1_3.1_3_2.1_3_2_0
+      --- Carbohydrates - In Depth
+        1.1_3.1_3_2.1_3_2_1
+        1.1_3.1_3_2.1_3_2_2
+        1.1_3.1_3_2.1_3_2_3
+      >>>
+        {step:next Continue}
+
+    / Lipids
+    step
+      >>>
+        ## Lipids
+      >>
+        1.1_3.1_3_3.1_3_3_0
+      --- Lipids - In Depth
+        1.1_3.1_3_3.1_3_3_1
+        1.1_3.1_3_3.1_3_3_2
+        1.1_3.1_3_3.1_3_3_3
+        1.1_3.1_3_3.1_3_3_4
+        1.1_3.1_3_3.1_3_3_5
+      >>>
+        {step:next Continue}
+
+    / Proteins
+    step
+      >>>
+        ## Proteins
+      >>
+        1.1_3.1_3_4.1_3_4_0
+      --- Proteins - In Depth
+        1.1_3.1_3_4.1_3_4_1
+        1.1_3.1_3_4.1_3_4_2
+        1.1_3.1_3_4.1_3_4_3
+        1.1_3.1_3_4.1_3_4_4
+        1.1_3.1_3_4.1_3_4_5
+      >>>
+        {step:next Continue}
+
+    / Nucleic Acids
+    step
+      >>>
+        ## Nucleic Acids
+      >>
+        1.1_3.1_3_5.1_3_5_0
+      --- Nucleic Acids - In Depth
+        1.1_3.1_3_5.1_3_5_1
+        1.1_3.1_3_5.1_3_5_2
+        1.1_3.1_3_5.1_3_5_3
+        1.1_3.1_3_5.1_3_5_4
+      >>>
+        {step:exit}
 
 
   / 1.3 - Full Text

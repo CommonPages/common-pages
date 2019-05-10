@@ -14,6 +14,7 @@ story 7_39_3
     7_39_3_4
     7_39_3_5
 
+  / Breathing - Full Text
   path FullText
     step
       --

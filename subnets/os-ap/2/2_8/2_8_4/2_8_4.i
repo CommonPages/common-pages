@@ -17,8 +17,8 @@ story 2_8_4
     2_8_4_7
     2_8_4_8
     2_8_4_9
-    2_8_4_10
 
+  / Bones of the Lower Limb - Full Text
   path FullText
     step
       --
@@ -50,8 +50,5 @@ story 2_8_4
     step
       --
         2_8_4_9
-    step
-      --
-        2_8_4_10
 
     

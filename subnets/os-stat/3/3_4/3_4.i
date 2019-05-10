@@ -10,8 +10,8 @@ story 3_4
     3_4_0
     3_4_2
     3_4_3
-    3_4_4
 
+  / Contingency Tables - Full Text
   path FullText
     step
       --
@@ -22,8 +22,5 @@ story 3_4
     step
       --
         3_4_3
-    step
-      --
-        3_4_4
 
     

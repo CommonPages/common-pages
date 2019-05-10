@@ -24,6 +24,7 @@ story 3_9_2
     3_9_2_2
     3_9_2_3
 
+  / DNA Replication - Full Text
   path FullText
     step
       --

@@ -34,6 +34,7 @@ story 33_2
     33_2_0
     33_2_1
 
+  / The Four Basic Forces - Full Text
   path FullText
     step
       --

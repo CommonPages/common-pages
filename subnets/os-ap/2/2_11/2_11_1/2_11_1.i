@@ -13,6 +13,7 @@ story 2_11_1
     2_11_1_3
     2_11_1_4
 
+  / Interactions of Skeletal Muscles, Their Fascicle Arrangement, and Their Lever Systems - Full Text
   path FullText
     step
       --

@@ -15,6 +15,7 @@ story 8_1
     8_1_6
     8_1_7
 
+  / A Single Population Mean using the Normal Distribution - Full Text
   path FullText
     step
       --

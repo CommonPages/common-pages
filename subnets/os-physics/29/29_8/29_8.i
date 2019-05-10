@@ -31,6 +31,7 @@ story 29_8
     29_8_1
     29_8_2
 
+  / The Particle-Wave Duality Reviewed - Full Text
   path FullText
     step
       --

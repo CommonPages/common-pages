@@ -4,13 +4,13 @@ story 20_5
   >
     Radioactive isotopes have the same chemical properties as stable isotopes of the same element, but they emit radiation, which can be detected. If we replace one (or more) atom(s) with radioisotope(s) in a compound, we can track them by monitoring their radioactive emissions. This type of compound is called a  **radioactive tracer** (or  **radioactive label**). Radioisotopes are used to follow the paths of biochemical reactions or to determine how a substance is distributed within an organism. Radioactive tracers are also used in many medical applications, including both diagnosis and treatment. They are used to measure engine wear, analyze the geological formation around oil wells, and much more.
     
-    Radioisotopes have revolutionized medical practice (see <link:>), where they are used extensively. Over 10 million nuclear medicine procedures and more than 100 million nuclear medicine tests are performed annually in the United States. Four typical examples of radioactive tracers used in medicine are technetium-99 
+    Radioisotopes have revolutionized medical practice (see <link:>), where they are used extensively. Over 10 million nuclear medicine procedures and more than 100 million nuclear medicine tests are performed annually in the United States. Four typical examples of radioactive tracers used in medicine are technetium-99
     
-    <math xmlns:q="http://cnx.rice.edu/qml/1.0" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:bib="http://bibtexml.sf.net/" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/cnxml"><mrow><mo stretchy="false">(</mo><msubsup><mrow/><mn>43</mn><mn>99</mn></msubsup><mtext>Tc</mtext><mo stretchy="false">)</mo></mrow></math>, thallium-201 
+    <math xmlns:q="http://cnx.rice.edu/qml/1.0" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:bib="http://bibtexml.sf.net/" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/cnxml"><mrow><mo stretchy="false">(</mo><msubsup><mrow/><mn>43</mn><mn>99</mn></msubsup><mtext>Tc</mtext><mo stretchy="false">)</mo></mrow></math>, thallium-201
     
-    <math xmlns:q="http://cnx.rice.edu/qml/1.0" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:bib="http://bibtexml.sf.net/" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/cnxml"><mrow><mo stretchy="false">(</mo><msubsup><mrow/><mrow><mspace width="0.5em"/><mn>81</mn></mrow><mn>201</mn></msubsup><mtext>Tl</mtext><mo stretchy="false">)</mo></mrow></math>, iodine-131 
+    <math xmlns:q="http://cnx.rice.edu/qml/1.0" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:bib="http://bibtexml.sf.net/" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/cnxml"><mrow><mo stretchy="false">(</mo><msubsup><mrow/><mrow><mspace width="0.5em"/><mn>81</mn></mrow><mn>201</mn></msubsup><mtext>Tl</mtext><mo stretchy="false">)</mo></mrow></math>, iodine-131
     
-    <math xmlns:q="http://cnx.rice.edu/qml/1.0" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:bib="http://bibtexml.sf.net/" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/cnxml"><mrow><mo stretchy="false">(</mo><msubsup><mrow/><mrow><mspace width="0.5em"/><mn>53</mn></mrow><mn>131</mn></msubsup><mtext>I</mtext><mo stretchy="false">)</mo></mrow></math>, and sodium-24 
+    <math xmlns:q="http://cnx.rice.edu/qml/1.0" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:bib="http://bibtexml.sf.net/" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/cnxml"><mrow><mo stretchy="false">(</mo><msubsup><mrow/><mrow><mspace width="0.5em"/><mn>53</mn></mrow><mn>131</mn></msubsup><mtext>I</mtext><mo stretchy="false">)</mo></mrow></math>, and sodium-24
     
     <math xmlns:q="http://cnx.rice.edu/qml/1.0" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:bib="http://bibtexml.sf.net/" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/cnxml"><mrow><mo stretchy="false">(</mo><msubsup><mrow/><mn>11</mn><mn>24</mn></msubsup><mtext>Na</mtext><mo stretchy="false">)</mo></mrow></math>
     
@@ -62,6 +62,7 @@ story 20_5
     20_5_0
     20_5_1
 
+  / Uses of Radioisotopes - Full Text
   path FullText
     step
       --

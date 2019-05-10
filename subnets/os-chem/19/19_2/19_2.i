@@ -43,6 +43,7 @@ story 19_2
     19_2_5
     19_2_6
 
+  / Coordination Chemistry of Transition Metals - Full Text
   path FullText
     step
       --

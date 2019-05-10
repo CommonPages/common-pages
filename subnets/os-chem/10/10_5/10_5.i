@@ -26,6 +26,7 @@ story 10_5
     10_5_6
     10_5_7
 
+  / The Solid State of Matter - Full Text
   path FullText
     step
       --

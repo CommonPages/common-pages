@@ -17,6 +17,7 @@ story 2_8_1
     2_8_1_2
     2_8_1_3
 
+  / Mendel’s Experiments - Full Text
   path FullText
     step
       --

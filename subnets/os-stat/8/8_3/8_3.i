@@ -65,6 +65,7 @@ story 8_3
     8_3_5
     8_3_6
 
+  / A Population Proportion - Full Text
   path FullText
     step
       --

@@ -13,8 +13,8 @@ story 3_16_1
     3_16_1_1
     3_16_1_2
     3_16_1_3
-    3_16_1_4
 
+  / Overview of the Neurological Exam - Full Text
   path FullText
     step
       --
@@ -28,8 +28,5 @@ story 3_16_1
     step
       --
         3_16_1_3
-    step
-      --
-        3_16_1_4
 
     

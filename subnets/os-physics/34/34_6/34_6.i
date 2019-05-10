@@ -27,6 +27,7 @@ story 34_6
     34_6_0
     34_6_1
 
+  / High-temperature Superconductors - Full Text
   path FullText
     step
       --

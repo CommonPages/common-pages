@@ -49,6 +49,7 @@ story 33_6
     33_6_0
     33_6_1
 
+  / GUTs: The Unification of Forces - Full Text
   path FullText
     step
       --

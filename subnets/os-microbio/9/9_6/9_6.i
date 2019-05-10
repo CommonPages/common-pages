@@ -11,6 +11,7 @@ story 9_6
     9_6_2
     9_6_3
 
+  / Media Used for Bacterial Growth - Full Text
   path FullText
     step
       --

@@ -25,6 +25,7 @@ story 7_38_4
     7_38_4_6
     7_38_4_7
 
+  / Muscle Contraction and Locomotion - Full Text
   path FullText
     step
       --

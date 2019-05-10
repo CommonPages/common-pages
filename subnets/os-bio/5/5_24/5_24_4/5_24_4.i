@@ -2,7 +2,7 @@
 / Fungal Parasites and Pathogens
 story 5_24_4
   >
-     **Parasitism** describes a symbiotic relationship in which one member of the association benefits at the expense of the other. Both parasites and pathogens harm the host; however, the pathogen causes a disease, whereas the parasite usually does not.  **Commensalism** occurs when one member benefits without affecting the other.
+     **Parasitism** describes a symbiotic relationship in which one member of the association benefits at the expense of the other. Both parasites and pathogens harm the host; however, pathogens cause disease, damage to host tissues or physiology, whereas parasites usually do not, but can cause serious damage and death by competition for nutrients or other resources.  **Commensalism** occurs when one member benefits without affecting the other.
 
   apply FullText
 
@@ -12,6 +12,7 @@ story 5_24_4
     5_24_4_2
     5_24_4_3
 
+  / Fungal Parasites and Pathogens - Full Text
   path FullText
     step
       --

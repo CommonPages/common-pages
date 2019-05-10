@@ -12,6 +12,7 @@ story 2_7
     2_7_2
     2_7_3
 
+  / Falling Objects - Full Text
   path FullText
     step
       --

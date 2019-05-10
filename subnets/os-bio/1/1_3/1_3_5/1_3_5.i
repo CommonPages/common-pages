@@ -2,7 +2,7 @@
 / Nucleic Acids
 story 1_3_5
   >
-     **Nucleic acids** are the most important macromolecules for the continuity of life. They carry the genetic blueprint of a cell and carry instructions for the functioning of the cell.
+     **Nucleic acids** are the most important macromolecules for the continuity of life. They carry the cell's genetic blueprint and carry instructions for its functioning.
 
   apply FullText
 
@@ -13,6 +13,7 @@ story 1_3_5
     1_3_5_3
     1_3_5_4
 
+  / Nucleic Acids - Full Text
   path FullText
     step
       --

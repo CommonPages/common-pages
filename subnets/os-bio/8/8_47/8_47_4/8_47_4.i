@@ -12,6 +12,7 @@ story 8_47_4
     8_47_4_2
     8_47_4_3
 
+  / Preserving Biodiversity - Full Text
   path FullText
     step
       --

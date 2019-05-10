@@ -13,6 +13,7 @@ story 5_22_2
     5_22_2_3
     5_22_2_4
 
+  / The Lungs - Full Text
   path FullText
     step
       --

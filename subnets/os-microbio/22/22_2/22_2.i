@@ -18,6 +18,7 @@ story 22_2
     22_2_9
     22_2_10
 
+  / Bacterial Infections of the Respiratory Tract - Full Text
   path FullText
     step
       --

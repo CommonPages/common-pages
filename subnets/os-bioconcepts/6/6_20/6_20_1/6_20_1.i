@@ -19,6 +19,7 @@ story 6_20_1
     6_20_1_4
     6_20_1_5
 
+  / Energy Flow through Ecosystems - Full Text
   path FullText
     step
       --

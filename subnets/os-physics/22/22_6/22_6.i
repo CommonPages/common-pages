@@ -43,6 +43,7 @@ story 22_6
     22_6_0
     22_6_1
 
+  / The Hall Effect - Full Text
   path FullText
     step
       --

@@ -46,6 +46,7 @@ story 19_1
     19_1_2
     19_1_3
 
+  / Electric Potential Energy: Potential Difference - Full Text
   path FullText
     step
       --

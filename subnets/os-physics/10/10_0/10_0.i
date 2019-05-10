@@ -17,6 +17,7 @@ story 10_0
   ---
     10_0_0
 
+  / Introduction to Rotational Motion and Angular Momentum - Full Text
   path FullText
     step
       --

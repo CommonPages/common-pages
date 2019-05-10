@@ -13,8 +13,8 @@ story 3_16_2
     3_16_2_1
     3_16_2_2
     3_16_2_3
-    3_16_2_4
 
+  / The Mental Status Exam - Full Text
   path FullText
     step
       --
@@ -28,8 +28,5 @@ story 3_16_2
     step
       --
         3_16_2_3
-    step
-      --
-        3_16_2_4
 
     

@@ -11,8 +11,8 @@ story 4_20_3
     4_20_3_1
     4_20_3_2
     4_20_3_3
-    4_20_3_4
 
+  / Capillary Exchange - Full Text
   path FullText
     step
       --
@@ -26,8 +26,5 @@ story 4_20_3
     step
       --
         4_20_3_3
-    step
-      --
-        4_20_3_4
 
     

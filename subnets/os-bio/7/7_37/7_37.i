@@ -4,6 +4,7 @@
 space 7_37
 
   ^^
+    SkimPath
     FullPath
 
   insert 7.7_37.7_37_0.7_37_0_0
@@ -14,6 +15,96 @@ space 7_37
     7_37_3
     7_37_4
     7_37_5
+
+
+  / Key Concepts
+  // The Endocrine System - Key Concepts
+  path SkimPath
+    / The Endocrine System
+    step
+      >>>
+        ## The Endocrine System
+      >>
+        7.7_37.7_37_0.7_37_0_0
+      >>>
+        {step:next Continue}
+
+    / Types of Hormones
+    step
+      >>>
+        ## Types of Hormones
+      >>
+        7.7_37.7_37_1.7_37_1_0
+      --- Types of Hormones - In Depth
+        7.7_37.7_37_1.7_37_1_1
+        7.7_37.7_37_1.7_37_1_2
+        7.7_37.7_37_1.7_37_1_3
+        7.7_37.7_37_1.7_37_1_4
+      >>>
+        {step:next Continue}
+
+    / How Hormones Work
+    step
+      >>>
+        ## How Hormones Work
+      >>
+        7.7_37.7_37_2.7_37_2_0
+      --- How Hormones Work - In Depth
+        7.7_37.7_37_2.7_37_2_1
+        7.7_37.7_37_2.7_37_2_2
+        7.7_37.7_37_2.7_37_2_3
+      >>>
+        {step:next Continue}
+
+    / Regulation of Body Processes
+    step
+      >>>
+        ## Regulation of Body Processes
+      >>
+        7.7_37.7_37_3.7_37_3_0
+      --- Regulation of Body Processes - In Depth
+        7.7_37.7_37_3.7_37_3_1
+        7.7_37.7_37_3.7_37_3_2
+        7.7_37.7_37_3.7_37_3_3
+        7.7_37.7_37_3.7_37_3_4
+        7.7_37.7_37_3.7_37_3_5
+        7.7_37.7_37_3.7_37_3_6
+        7.7_37.7_37_3.7_37_3_7
+      >>>
+        {step:next Continue}
+
+    / Regulation of Hormone Production
+    step
+      >>>
+        ## Regulation of Hormone Production
+      >>
+        7.7_37.7_37_4.7_37_4_0
+      --- Regulation of Hormone Production - In Depth
+        7.7_37.7_37_4.7_37_4_1
+        7.7_37.7_37_4.7_37_4_2
+        7.7_37.7_37_4.7_37_4_3
+        7.7_37.7_37_4.7_37_4_4
+      >>>
+        {step:next Continue}
+
+    / Endocrine Glands
+    step
+      >>>
+        ## Endocrine Glands
+      >>
+        7.7_37.7_37_5.7_37_5_0
+      --- Endocrine Glands - In Depth
+        7.7_37.7_37_5.7_37_5_1
+        7.7_37.7_37_5.7_37_5_2
+        7.7_37.7_37_5.7_37_5_3
+        7.7_37.7_37_5.7_37_5_4
+        7.7_37.7_37_5.7_37_5_5
+        7.7_37.7_37_5.7_37_5_6
+        7.7_37.7_37_5.7_37_5_7
+        7.7_37.7_37_5.7_37_5_8
+        7.7_37.7_37_5.7_37_5_9
+      >>>
+        {step:exit}
 
 
   / 7.37 - Full Text

@@ -12,6 +12,7 @@ story 7_41_4
     7_41_4_2
     7_41_4_3
 
+  / Nitrogenous Wastes - Full Text
   path FullText
     step
       --

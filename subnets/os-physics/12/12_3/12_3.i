@@ -10,6 +10,7 @@ story 12_3
     12_3_1
     12_3_2
 
+  / The Most General Applications of Bernoulli’s Equation - Full Text
   path FullText
     step
       --

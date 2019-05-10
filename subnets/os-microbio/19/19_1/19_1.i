@@ -22,6 +22,7 @@ story 19_1
     19_1_8
     19_1_9
 
+  / Hypersensitivities - Full Text
   path FullText
     step
       --

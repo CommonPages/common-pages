@@ -14,6 +14,7 @@ story 2_1
     2_1_3
     2_1_4
 
+  / Displacement - Full Text
   path FullText
     step
       --

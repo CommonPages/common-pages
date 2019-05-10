@@ -4,6 +4,7 @@
 space 3_15
 
   ^^
+    SkimPath
     FullPath
 
   insert 3.3_15.3_15_0.3_15_0_0
@@ -13,6 +14,73 @@ space 3_15
     3_15_2
     3_15_3
     3_15_4
+
+
+  / Key Concepts
+  // The Autonomic Nervous System - Key Concepts
+  path SkimPath
+    / The Autonomic Nervous System
+    step
+      >>>
+        ## The Autonomic Nervous System
+      >>
+        3.3_15.3_15_0.3_15_0_0
+      >>>
+        {step:next Continue}
+
+    / Divisions of the Autonomic Nervous System
+    step
+      >>>
+        ## Divisions of the Autonomic Nervous System
+      >>
+        3.3_15.3_15_1.3_15_1_0
+      --- Divisions of the Autonomic Nervous System - In Depth
+        3.3_15.3_15_1.3_15_1_1
+        3.3_15.3_15_1.3_15_1_2
+        3.3_15.3_15_1.3_15_1_3
+        3.3_15.3_15_1.3_15_1_4
+      >>>
+        {step:next Continue}
+
+    / Autonomic Reflexes and Homeostasis
+    step
+      >>>
+        ## Autonomic Reflexes and Homeostasis
+      >>
+        3.3_15.3_15_2.3_15_2_0
+      --- Autonomic Reflexes and Homeostasis - In Depth
+        3.3_15.3_15_2.3_15_2_1
+        3.3_15.3_15_2.3_15_2_2
+        3.3_15.3_15_2.3_15_2_3
+      >>>
+        {step:next Continue}
+
+    / Central Control
+    step
+      >>>
+        ## Central Control
+      >>
+        3.3_15.3_15_3.3_15_3_0
+      --- Central Control - In Depth
+        3.3_15.3_15_3.3_15_3_1
+        3.3_15.3_15_3.3_15_3_2
+        3.3_15.3_15_3.3_15_3_3
+      >>>
+        {step:next Continue}
+
+    / Drugs that Affect the Autonomic System
+    step
+      >>>
+        ## Drugs that Affect the Autonomic System
+      >>
+        3.3_15.3_15_4.3_15_4_0
+      --- Drugs that Affect the Autonomic System - In Depth
+        3.3_15.3_15_4.3_15_4_1
+        3.3_15.3_15_4.3_15_4_2
+        3.3_15.3_15_4.3_15_4_3
+        3.3_15.3_15_4.3_15_4_4
+      >>>
+        {step:exit}
 
 
   / 3.15 - Full Text
@@ -42,10 +110,6 @@ space 3_15
     step
       --
         3.3_15.3_15_1.3_15_1_4
-    / Interactive Link Questions
-    step
-      --
-        3.3_15.3_15_1.3_15_1_5
     / Autonomic Reflexes and Homeostasis - Introduction
     step
       --
@@ -62,10 +126,6 @@ space 3_15
     step
       --
         3.3_15.3_15_2.3_15_2_3
-    / Interactive Link Questions
-    step
-      --
-        3.3_15.3_15_2.3_15_2_4
     / Central Control - Introduction
     step
       --
@@ -82,10 +142,6 @@ space 3_15
     step
       --
         3.3_15.3_15_3.3_15_3_3
-    / Interactive Link Questions
-    step
-      --
-        3.3_15.3_15_3.3_15_3_4
     / Drugs that Affect the Autonomic System - Introduction
     step
       --
@@ -106,8 +162,4 @@ space 3_15
     step
       --
         3.3_15.3_15_4.3_15_4_4
-    / Interactive Link Questions
-    step
-      --
-        3.3_15.3_15_4.3_15_4_5
     

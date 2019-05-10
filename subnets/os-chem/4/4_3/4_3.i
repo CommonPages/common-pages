@@ -11,7 +11,12 @@ story 4_3
     4_3_1
     4_3_2
     4_3_3
+    4_3_4
+    4_3_5
+    4_3_6
+    4_3_7
 
+  / Chemical Nomenclature - Full Text
   path FullText
     step
       --
@@ -25,5 +30,17 @@ story 4_3
     step
       --
         4_3_3
+    step
+      --
+        4_3_4
+    step
+      --
+        4_3_5
+    step
+      --
+        4_3_6
+    step
+      --
+        4_3_7
 
     

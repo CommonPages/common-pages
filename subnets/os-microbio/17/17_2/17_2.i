@@ -16,6 +16,7 @@ story 17_2
     17_2_5
     17_2_6
 
+  / Chemical Defenses - Full Text
   path FullText
     step
       --

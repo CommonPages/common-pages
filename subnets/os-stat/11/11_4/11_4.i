@@ -34,6 +34,7 @@ story 11_4
     11_4_3
     11_4_4
 
+  / Test for Homogeneity - Full Text
   path FullText
     step
       --

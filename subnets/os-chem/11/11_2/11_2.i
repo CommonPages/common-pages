@@ -17,6 +17,7 @@ story 11_2
     11_2_2
     11_2_3
 
+  / Electrolytes - Full Text
   path FullText
     step
       --

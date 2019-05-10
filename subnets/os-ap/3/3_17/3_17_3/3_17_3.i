@@ -21,8 +21,8 @@ story 3_17_3
     3_17_3_2
     3_17_3_3
     3_17_3_4
-    3_17_3_5
 
+  / The Pituitary Gland and Hypothalamus - Full Text
   path FullText
     step
       --
@@ -39,8 +39,5 @@ story 3_17_3
     step
       --
         3_17_3_4
-    step
-      --
-        3_17_3_5
 
     

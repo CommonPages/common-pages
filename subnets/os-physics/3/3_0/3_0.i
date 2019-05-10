@@ -12,6 +12,7 @@ story 3_0
   ---
     3_0_0
 
+  / Introduction to Two-Dimensional Kinematics - Full Text
   path FullText
     step
       --

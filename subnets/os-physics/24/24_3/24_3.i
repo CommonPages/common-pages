@@ -39,6 +39,7 @@ story 24_3
     24_3_15
     24_3_16
 
+  / The Electromagnetic Spectrum - Full Text
   path FullText
     step
       --

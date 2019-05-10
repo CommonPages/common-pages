@@ -18,8 +18,8 @@ story 2_9_6
     2_9_6_6
     2_9_6_7
     2_9_6_8
-    2_9_6_9
 
+  / Anatomy of Selected Synovial Joints - Full Text
   path FullText
     step
       --
@@ -48,8 +48,5 @@ story 2_9_6
     step
       --
         2_9_6_8
-    step
-      --
-        2_9_6_9
 
     

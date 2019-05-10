@@ -37,6 +37,7 @@ story 30_7
     30_7_0
     30_7_1
 
+  / Patterns in Spectra Reveal More Quantization - Full Text
   path FullText
     step
       --

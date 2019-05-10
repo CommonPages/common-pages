@@ -55,6 +55,7 @@ story 8_1
     8_1_1
     8_1_2
 
+  / Gas Pressure - Full Text
   path FullText
     step
       --

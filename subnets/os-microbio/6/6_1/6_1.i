@@ -20,8 +20,8 @@ story 6_1
     6_1_3
     6_1_4
     6_1_5
-    6_1_6
 
+  / Viruses - Full Text
   path FullText
     step
       --
@@ -38,8 +38,5 @@ story 6_1
     step
       --
         6_1_5
-    step
-      --
-        6_1_6
 
     

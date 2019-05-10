@@ -30,6 +30,7 @@ story 11_1
     11_1_3
     11_1_4
 
+  / Facts About the Chi-Square Distribution - Full Text
   path FullText
     step
       --

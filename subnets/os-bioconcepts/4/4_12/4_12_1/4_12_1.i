@@ -24,6 +24,7 @@ story 4_12_1
     4_12_1_3
     4_12_1_4
 
+  / Organizing Life on Earth - Full Text
   path FullText
     step
       --

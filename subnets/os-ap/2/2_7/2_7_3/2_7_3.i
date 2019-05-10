@@ -17,8 +17,8 @@ story 2_7_3
     2_7_3_4
     2_7_3_5
     2_7_3_6
-    2_7_3_7
 
+  / The Vertebral Column - Full Text
   path FullText
     step
       --
@@ -41,8 +41,5 @@ story 2_7_3
     step
       --
         2_7_3_6
-    step
-      --
-        2_7_3_7
 
     

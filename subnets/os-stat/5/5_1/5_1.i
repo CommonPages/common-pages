@@ -12,6 +12,7 @@ story 5_1
     5_1_2
     5_1_3
 
+  / Continuous Probability Functions - Full Text
   path FullText
     step
       --

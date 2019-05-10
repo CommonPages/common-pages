@@ -12,6 +12,7 @@ story 7_43_2
     7_43_2_2
     7_43_2_3
 
+  / Fertilization - Full Text
   path FullText
     step
       --

@@ -40,6 +40,7 @@ story 31_6
     31_6_1
     31_6_2
 
+  / Binding Energy - Full Text
   path FullText
     step
       --

@@ -19,8 +19,8 @@ story 5_26_5
     5_26_5_4
     5_26_5_5
     5_26_5_6
-    5_26_5_7
 
+  / Disorders of Acid-Base Balance - Full Text
   path FullText
     step
       --
@@ -43,8 +43,5 @@ story 5_26_5
     step
       --
         5_26_5_6
-    step
-      --
-        5_26_5_7
 
     

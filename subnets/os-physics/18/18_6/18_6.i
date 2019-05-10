@@ -21,6 +21,7 @@ story 18_6
     18_6_2
     18_6_3
 
+  / Electric Forces in Biology - Full Text
   path FullText
     step
       --

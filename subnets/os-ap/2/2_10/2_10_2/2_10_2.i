@@ -26,8 +26,8 @@ story 2_10_2
     2_10_2_3
     2_10_2_4
     2_10_2_5
-    2_10_2_6
 
+  / Skeletal Muscle - Full Text
   path FullText
     step
       --
@@ -47,8 +47,5 @@ story 2_10_2
     step
       --
         2_10_2_5
-    step
-      --
-        2_10_2_6
 
     

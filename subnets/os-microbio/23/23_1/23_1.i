@@ -15,6 +15,7 @@ story 23_1
     23_1_6
     23_1_7
 
+  / Anatomy and Normal Microbiota of the Urogenital Tract - Full Text
   path FullText
     step
       --

@@ -50,6 +50,7 @@ story 3_1
     3_1_3
     3_1_4
 
+  / Terminology - Full Text
   path FullText
     step
       --

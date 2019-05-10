@@ -9,8 +9,8 @@ story 3_14_2
     3_14_2_0
     3_14_2_1
     3_14_2_2
-    3_14_2_3
 
+  / Central Processing - Full Text
   path FullText
     step
       --
@@ -21,8 +21,5 @@ story 3_14_2
     step
       --
         3_14_2_2
-    step
-      --
-        3_14_2_3
 
     

@@ -43,6 +43,7 @@ story 23_3
     23_3_0
     23_3_1
 
+  / Motional Emf - Full Text
   path FullText
     step
       --

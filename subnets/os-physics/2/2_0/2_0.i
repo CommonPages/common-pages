@@ -14,6 +14,7 @@ story 2_0
   ---
     2_0_0
 
+  / Introduction to One-Dimensional Kinematics - Full Text
   path FullText
     step
       --

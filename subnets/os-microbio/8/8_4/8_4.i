@@ -48,6 +48,7 @@ story 8_4
     8_4_2
     8_4_4
 
+  / Fermentation - Full Text
   path FullText
     step
       --

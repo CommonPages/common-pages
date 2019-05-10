@@ -29,6 +29,7 @@ story 16_9
     16_9_1
     16_9_2
 
+  / Waves - Full Text
   path FullText
     step
       --

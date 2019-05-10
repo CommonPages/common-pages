@@ -14,6 +14,7 @@ story 2_5_2
     2_5_2_4
     2_5_2_5
 
+  / Accessory Structures of the Skin - Full Text
   path FullText
     step
       --

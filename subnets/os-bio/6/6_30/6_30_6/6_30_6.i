@@ -15,6 +15,7 @@ story 6_30_6
     6_30_6_5
     6_30_6_6
 
+  / Plant Sensory Systems and Responses - Full Text
   path FullText
     step
       --

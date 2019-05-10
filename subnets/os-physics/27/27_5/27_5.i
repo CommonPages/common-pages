@@ -29,6 +29,7 @@ story 27_5
     27_5_0
     27_5_1
 
+  / Single Slit Diffraction - Full Text
   path FullText
     step
       --

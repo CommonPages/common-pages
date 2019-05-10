@@ -18,6 +18,7 @@ story 4_19_4
     4_19_4_8
     4_19_4_9
 
+  / Cardiac Physiology - Full Text
   path FullText
     step
       --

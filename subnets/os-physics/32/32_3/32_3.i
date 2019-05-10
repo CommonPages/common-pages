@@ -11,6 +11,7 @@ story 32_3
     32_3_1
     32_3_2
 
+  / Therapeutic Uses of Ionizing Radiation - Full Text
   path FullText
     step
       --

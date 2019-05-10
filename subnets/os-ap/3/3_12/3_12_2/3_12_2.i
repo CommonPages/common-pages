@@ -11,8 +11,8 @@ story 3_12_2
     3_12_2_1
     3_12_2_2
     3_12_2_3
-    3_12_2_4
 
+  / Nervous Tissue - Full Text
   path FullText
     step
       --
@@ -26,8 +26,5 @@ story 3_12_2
     step
       --
         3_12_2_3
-    step
-      --
-        3_12_2_4
 
     

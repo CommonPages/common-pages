@@ -29,6 +29,7 @@ story 16_7
     16_7_0
     16_7_1
 
+  / Damped Harmonic Motion - Full Text
   path FullText
     step
       --

@@ -70,6 +70,7 @@ story 9_2
     9_2_0
     9_2_1
 
+  / The Second Condition for Equilibrium - Full Text
   path FullText
     step
       --

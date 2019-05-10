@@ -55,6 +55,7 @@ story 19_5
     19_5_2
     19_5_3
 
+  / Capacitors and Dielectrics - Full Text
   path FullText
     step
       --

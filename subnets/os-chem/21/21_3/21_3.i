@@ -12,6 +12,7 @@ story 21_3
     21_3_2
     21_3_3
 
+  / Aldehydes, Ketones, Carboxylic Acids, and Esters - Full Text
   path FullText
     step
       --

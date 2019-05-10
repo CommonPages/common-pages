@@ -4,6 +4,7 @@
 space 1
 
   ^^
+    SkimPath
     FullPath
 
   insert 1.1_0.1_0_0
@@ -12,6 +13,62 @@ space 1
     1_1
     1_2
     1_3
+
+
+  / Key Concepts
+  // An Invisible World - Key Concepts
+  path SkimPath
+    / An Invisible World
+    step
+      >>>
+        ## An Invisible World
+      >>
+        1.1_0.1_0_0
+      >>>
+        {step:next Continue}
+
+    / What Our Ancestors Knew
+    step
+      >>>
+        ## What Our Ancestors Knew
+      >>
+        1.1_1.1_1_1
+      --- What Our Ancestors Knew - In Depth
+        1.1_1.1_1_2
+        1.1_1.1_1_3
+        1.1_1.1_1_4
+        1.1_1.1_1_5
+        1.1_1.1_1_6
+      >>>
+        {step:next Continue}
+
+    / A Systematic Approach
+    step
+      >>>
+        ## A Systematic Approach
+      >>
+        1.1_2.1_2_1
+      --- A Systematic Approach - In Depth
+        1.1_2.1_2_2
+        1.1_2.1_2_3
+      >>>
+        {step:next Continue}
+
+    / Types of Microorganisms
+    step
+      >>>
+        ## Types of Microorganisms
+      >>
+        1.1_3.1_3_1
+      --- Types of Microorganisms - In Depth
+        1.1_3.1_3_2
+        1.1_3.1_3_3
+        1.1_3.1_3_4
+        1.1_3.1_3_5
+        1.1_3.1_3_6
+        1.1_3.1_3_7
+      >>>
+        {step:exit}
 
 
   / 1 - Full Text

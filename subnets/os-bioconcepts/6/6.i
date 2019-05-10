@@ -13,65 +13,192 @@ space 6
     6_20
     6_21
 
-  / 6 - Key Concepts
-  // Key Concepts
+  / Key Concepts
+  // Unit 6. Ecology - Key Concepts
   path SkimPath
-    / Introduction
+    / Population and Community Ecology
     step
-      --
+      >>>
+        ## Population and Community Ecology
+      >>
         6.6_19.6_19_0.6_19_0_0
+      >>>
+        {step:next Continue}
     / Population Demographics and Dynamics
     step
-      --
+      >>>
+        ## Population Demographics and Dynamics
+      >>
         6.6_19.6_19_1.6_19_1_0
+      --- Population Demographics and Dynamics - In Depth
+        6.6_19.6_19_1.6_19_1_1
+        6.6_19.6_19_1.6_19_1_2
+        6.6_19.6_19_1.6_19_1_3
+        6.6_19.6_19_1.6_19_1_4
+      >>>
+        {step:next Continue}
     / Population Growth and Regulation
     step
-      --
+      >>>
+        ## Population Growth and Regulation
+      >>
         6.6_19.6_19_2.6_19_2_0
+      --- Population Growth and Regulation - In Depth
+        6.6_19.6_19_2.6_19_2_1
+        6.6_19.6_19_2.6_19_2_2
+        6.6_19.6_19_2.6_19_2_3
+        6.6_19.6_19_2.6_19_2_4
+        6.6_19.6_19_2.6_19_2_5
+        6.6_19.6_19_2.6_19_2_6
+        6.6_19.6_19_2.6_19_2_7
+      >>>
+        {step:next Continue}
     / The Human Population
     step
-      --
+      >>>
+        ## The Human Population
+      >>
         6.6_19.6_19_3.6_19_3_0
+      --- The Human Population - In Depth
+        6.6_19.6_19_3.6_19_3_1
+        6.6_19.6_19_3.6_19_3_2
+        6.6_19.6_19_3.6_19_3_3
+        6.6_19.6_19_3.6_19_3_4
+      >>>
+        {step:next Continue}
     / Community Ecology
     step
-      --
+      >>>
+        ## Community Ecology
+      >>
         6.6_19.6_19_4.6_19_4_0
-    / Introduction
+      --- Community Ecology - In Depth
+        6.6_19.6_19_4.6_19_4_1
+        6.6_19.6_19_4.6_19_4_2
+        6.6_19.6_19_4.6_19_4_3
+        6.6_19.6_19_4.6_19_4_4
+        6.6_19.6_19_4.6_19_4_5
+        6.6_19.6_19_4.6_19_4_6
+      >>>
+        {step:next Continue}
+    / Ecosystems and the Biosphere
     step
-      --
+      >>>
+        ## Ecosystems and the Biosphere
+      >>
         6.6_20.6_20_0.6_20_0_0
+      >>>
+        {step:next Continue}
     / Energy Flow through Ecosystems
     step
-      --
+      >>>
+        ## Energy Flow through Ecosystems
+      >>
         6.6_20.6_20_1.6_20_1_0
+      --- Energy Flow through Ecosystems - In Depth
+        6.6_20.6_20_1.6_20_1_1
+        6.6_20.6_20_1.6_20_1_2
+        6.6_20.6_20_1.6_20_1_3
+        6.6_20.6_20_1.6_20_1_4
+        6.6_20.6_20_1.6_20_1_5
+      >>>
+        {step:next Continue}
     / Biogeochemical Cycles
     step
-      --
+      >>>
+        ## Biogeochemical Cycles
+      >>
         6.6_20.6_20_2.6_20_2_0
+      --- Biogeochemical Cycles - In Depth
+        6.6_20.6_20_2.6_20_2_1
+        6.6_20.6_20_2.6_20_2_2
+        6.6_20.6_20_2.6_20_2_3
+        6.6_20.6_20_2.6_20_2_4
+        6.6_20.6_20_2.6_20_2_5
+        6.6_20.6_20_2.6_20_2_6
+      >>>
+        {step:next Continue}
     / Terrestrial Biomes
     step
-      --
+      >>>
+        ## Terrestrial Biomes
+      >>
         6.6_20.6_20_3.6_20_3_0
+      --- Terrestrial Biomes - In Depth
+        6.6_20.6_20_3.6_20_3_1
+        6.6_20.6_20_3.6_20_3_2
+        6.6_20.6_20_3.6_20_3_3
+        6.6_20.6_20_3.6_20_3_4
+        6.6_20.6_20_3.6_20_3_5
+        6.6_20.6_20_3.6_20_3_6
+        6.6_20.6_20_3.6_20_3_7
+        6.6_20.6_20_3.6_20_3_8
+        6.6_20.6_20_3.6_20_3_9
+      >>>
+        {step:next Continue}
     / Aquatic and Marine Biomes
     step
-      --
+      >>>
+        ## Aquatic and Marine Biomes
+      >>
         6.6_20.6_20_4.6_20_4_0
-    / Introduction
+      --- Aquatic and Marine Biomes - In Depth
+        6.6_20.6_20_4.6_20_4_1
+        6.6_20.6_20_4.6_20_4_2
+        6.6_20.6_20_4.6_20_4_3
+        6.6_20.6_20_4.6_20_4_4
+        6.6_20.6_20_4.6_20_4_5
+      >>>
+        {step:next Continue}
+    / Conservation and Biodiversity
     step
-      --
+      >>>
+        ## Conservation and Biodiversity
+      >>
         6.6_21.6_21_0.6_21_0_0
+      >>>
+        {step:next Continue}
     / Importance of Biodiversity
     step
-      --
+      >>>
+        ## Importance of Biodiversity
+      >>
         6.6_21.6_21_1.6_21_1_0
+      --- Importance of Biodiversity - In Depth
+        6.6_21.6_21_1.6_21_1_1
+        6.6_21.6_21_1.6_21_1_2
+        6.6_21.6_21_1.6_21_1_3
+        6.6_21.6_21_1.6_21_1_4
+      >>>
+        {step:next Continue}
     / Threats to Biodiversity
     step
-      --
+      >>>
+        ## Threats to Biodiversity
+      >>
         6.6_21.6_21_2.6_21_2_0
+      --- Threats to Biodiversity - In Depth
+        6.6_21.6_21_2.6_21_2_1
+        6.6_21.6_21_2.6_21_2_2
+        6.6_21.6_21_2.6_21_2_3
+        6.6_21.6_21_2.6_21_2_4
+        6.6_21.6_21_2.6_21_2_5
+      >>>
+        {step:next Continue}
     / Preserving Biodiversity
     step
-      --
+      >>>
+        ## Preserving Biodiversity
+      >>
         6.6_21.6_21_3.6_21_3_0
+      --- Preserving Biodiversity - In Depth
+        6.6_21.6_21_3.6_21_3_1
+        6.6_21.6_21_3.6_21_3_2
+        6.6_21.6_21_3.6_21_3_3
+        6.6_21.6_21_3.6_21_3_4
+        6.6_21.6_21_3.6_21_3_5
+      >>>
+        {step:next Continue}
 
   / 6 - Full Text
   // Unit 6. Ecology - Full Text

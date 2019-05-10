@@ -38,6 +38,7 @@ story 27_9
     27_9_0
     27_9_1
 
+  / *Extended Topic* Microscopy Enhanced by the Wave Characteristics of Light - Full Text
   path FullText
     step
       --

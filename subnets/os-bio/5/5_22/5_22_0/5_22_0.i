@@ -14,6 +14,7 @@ story 5_22_0
   ---
     5_22_0_0
 
+  / Introduction - Full Text
   path FullText
     step
       --

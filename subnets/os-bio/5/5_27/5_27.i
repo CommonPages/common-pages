@@ -4,6 +4,7 @@
 space 5_27
 
   ^^
+    SkimPath
     FullPath
 
   insert 5.5_27.5_27_0.5_27_0_0
@@ -13,6 +14,72 @@ space 5_27
     5_27_2
     5_27_3
     5_27_4
+
+
+  / Key Concepts
+  // Introduction to Animal Diversity - Key Concepts
+  path SkimPath
+    / Introduction to Animal Diversity
+    step
+      >>>
+        ## Introduction to Animal Diversity
+      >>
+        5.5_27.5_27_0.5_27_0_0
+      >>>
+        {step:next Continue}
+
+    / Features of the Animal Kingdom
+    step
+      >>>
+        ## Features of the Animal Kingdom
+      >>
+        5.5_27.5_27_1.5_27_1_0
+      --- Features of the Animal Kingdom - In Depth
+        5.5_27.5_27_1.5_27_1_1
+        5.5_27.5_27_1.5_27_1_2
+        5.5_27.5_27_1.5_27_1_3
+      >>>
+        {step:next Continue}
+
+    / Features Used to Classify Animals
+    step
+      >>>
+        ## Features Used to Classify Animals
+      >>
+        5.5_27.5_27_2.5_27_2_0
+      --- Features Used to Classify Animals - In Depth
+        5.5_27.5_27_2.5_27_2_1
+        5.5_27.5_27_2.5_27_2_2
+        5.5_27.5_27_2.5_27_2_3
+      >>>
+        {step:next Continue}
+
+    / Animal Phylogeny
+    step
+      >>>
+        ## Animal Phylogeny
+      >>
+        5.5_27.5_27_3.5_27_3_0
+      --- Animal Phylogeny - In Depth
+        5.5_27.5_27_3.5_27_3_1
+        5.5_27.5_27_3.5_27_3_2
+        5.5_27.5_27_3.5_27_3_3
+      >>>
+        {step:next Continue}
+
+    / The Evolutionary History of the Animal Kingdom
+    step
+      >>>
+        ## The Evolutionary History of the Animal Kingdom
+      >>
+        5.5_27.5_27_4.5_27_4_0
+      --- The Evolutionary History of the Animal Kingdom - In Depth
+        5.5_27.5_27_4.5_27_4_1
+        5.5_27.5_27_4.5_27_4_2
+        5.5_27.5_27_4.5_27_4_3
+        5.5_27.5_27_4.5_27_4_4
+      >>>
+        {step:exit}
 
 
   / 5.27 - Full Text

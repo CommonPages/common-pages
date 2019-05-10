@@ -31,6 +31,7 @@ story 30_4
     30_4_2
     30_4_3
 
+  / X Rays: Atomic Origins and Applications - Full Text
   path FullText
     step
       --

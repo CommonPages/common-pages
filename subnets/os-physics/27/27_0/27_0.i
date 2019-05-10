@@ -17,6 +17,7 @@ story 27_0
   ---
     27_0_0
 
+  / Introduction to Wave Optics - Full Text
   path FullText
     step
       --

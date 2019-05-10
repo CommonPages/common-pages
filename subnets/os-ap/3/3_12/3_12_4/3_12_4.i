@@ -11,8 +11,8 @@ story 3_12_4
     3_12_4_1
     3_12_4_2
     3_12_4_3
-    3_12_4_4
 
+  / The Action Potential - Full Text
   path FullText
     step
       --
@@ -26,8 +26,5 @@ story 3_12_4
     step
       --
         3_12_4_3
-    step
-      --
-        3_12_4_4
 
     

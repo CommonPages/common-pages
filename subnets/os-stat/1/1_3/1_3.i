@@ -14,6 +14,7 @@ story 1_3
     1_3_5
     1_3_6
 
+  / Frequency, Frequency Tables, and Levels of Measurement - Full Text
   path FullText
     step
       --

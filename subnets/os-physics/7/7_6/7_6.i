@@ -13,6 +13,7 @@ story 7_6
     7_6_4
     7_6_5
 
+  / Conservation of Energy - Full Text
   path FullText
     step
       --

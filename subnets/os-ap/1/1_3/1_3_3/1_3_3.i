@@ -22,8 +22,8 @@ story 1_3_3
     1_3_3_1
     1_3_3_2
     1_3_3_3
-    1_3_3_4
 
+  / The Nucleus and DNA Replication - Full Text
   path FullText
     step
       --
@@ -37,8 +37,5 @@ story 1_3_3
     step
       --
         1_3_3_3
-    step
-      --
-        1_3_3_4
 
     

@@ -15,6 +15,7 @@ story 28_3
     28_3_2
     28_3_3
 
+  / Length Contraction - Full Text
   path FullText
     step
       --

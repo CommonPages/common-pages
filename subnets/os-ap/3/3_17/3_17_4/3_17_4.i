@@ -17,6 +17,7 @@ story 3_17_4
     3_17_4_4
     3_17_4_5
 
+  / The Thyroid Gland - Full Text
   path FullText
     step
       --

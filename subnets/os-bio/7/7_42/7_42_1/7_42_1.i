@@ -14,6 +14,7 @@ story 7_42_1
     7_42_1_4
     7_42_1_5
 
+  / Innate Immune Response - Full Text
   path FullText
     step
       --

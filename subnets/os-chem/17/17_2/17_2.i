@@ -2,7 +2,7 @@
 / Factors Affecting Reaction Rates
 story 17_2
   >
-    The rates at which reactants are consumed and products are formed during chemical reactions vary greatly. We can identify five factors that affect the rates of chemical reactions: the chemical nature of the reacting substances, the state of subdivision (one large lump versus many small particles) of the reactants, the temperature of the reactants, the concentration of the reactants, and the presence of a catalyst.
+    The rates at which reactants are consumed and products are formed during chemical reactions vary greatly. Five factors typically affecting the rates of chemical reactions will be explored in this section: the chemical nature of the reacting substances, the state of subdivision (one large lump versus many small particles) of the reactants, the temperature of the reactants, the concentration of the reactants, and the presence of a catalyst.
 
   apply FullText
 
@@ -15,6 +15,7 @@ story 17_2
     17_2_5
     17_2_6
 
+  / Factors Affecting Reaction Rates - Full Text
   path FullText
     step
       --

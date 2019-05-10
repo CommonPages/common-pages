@@ -15,8 +15,8 @@ story 6_28_2
     6_28_2_5
     6_28_2_6
     6_28_2_7
-    6_28_2_8
 
+  / Embryonic Development - Full Text
   path FullText
     step
       --
@@ -42,8 +42,5 @@ story 6_28_2
     step
       --
         6_28_2_7
-    step
-      --
-        6_28_2_8
 
     

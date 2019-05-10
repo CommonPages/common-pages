@@ -16,8 +16,8 @@ story 13_2
     13_2_7
     13_2_8
     13_2_9
-    13_2_11
 
+  / Using Physical Methods to Control Microorganisms - Full Text
   path FullText
     step
       --
@@ -46,8 +46,5 @@ story 13_2
     step
       --
         13_2_9
-    step
-      --
-        13_2_11
 
     

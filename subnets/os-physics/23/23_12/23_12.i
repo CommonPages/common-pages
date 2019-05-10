@@ -11,6 +11,7 @@ story 23_12
     23_12_2
     23_12_3
 
+  / RLC Series AC Circuits - Full Text
   path FullText
     step
       --

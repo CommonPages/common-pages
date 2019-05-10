@@ -19,6 +19,7 @@ story 12_5
     12_5_2
     12_5_3
 
+  / Prediction - Full Text
   path FullText
     step
       --

@@ -2,7 +2,7 @@
 / Biotechnology
 story 3_17_1
   >
-     **Biotechnology** is the use of biological agents for technological advancement. Biotechnology was used for breeding livestock and crops long before the scientific basis of these techniques was understood. Since the discovery of the structure of DNA in 1953, the field of biotechnology has grown rapidly through both academic research and private companies. The primary applications of this technology are in medicine (production of vaccines and antibiotics) and agriculture (genetic modification of crops, such as to increase yields). Biotechnology also has many industrial applications, such as fermentation, the treatment of oil spills, and the production of biofuels ({'Figure_B17_1_1ab Figure B17.1.1ab}).
+     **Biotechnology** is the use of biological agents for technological advancement. Biotechnology was used for breeding livestock and crops long before people understood the scientific basis of these techniques. Since the discovery of the structure of DNA in 1953, the biotechnology field has grown rapidly through both academic research and private companies. The primary applications of this technology are in medicine (vaccine and antibiotic production) and agriculture (crop genetic modification in order to increase yields). Biotechnology also has many industrial applications, such as fermentation, treating oil spills, and producing biofuels ({'Figure_B17_1_1ab Figure B17.1.1ab}).
     
     
             
@@ -22,6 +22,7 @@ story 3_17_1
     3_17_1_9
     3_17_1_10
 
+  / Biotechnology - Full Text
   path FullText
     step
       --

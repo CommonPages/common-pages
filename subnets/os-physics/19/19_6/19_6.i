@@ -12,6 +12,7 @@ story 19_6
     19_6_2
     19_6_3
 
+  / Capacitors in Series and Parallel - Full Text
   path FullText
     step
       --

@@ -33,6 +33,7 @@ story 9_4
     9_4_2
     9_4_3
 
+  / Temperature and Microbial Growth - Full Text
   path FullText
     step
       --

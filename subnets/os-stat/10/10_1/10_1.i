@@ -40,6 +40,7 @@ story 10_1
     10_1_3
     10_1_4
 
+  / Two Population Means with Unknown Standard Deviations - Full Text
   path FullText
     step
       --

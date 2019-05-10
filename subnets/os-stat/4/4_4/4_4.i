@@ -19,6 +19,7 @@ story 4_4
     4_4_4
     4_4_5
 
+  / Geometric Distribution - Full Text
   path FullText
     step
       --

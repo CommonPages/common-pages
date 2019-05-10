@@ -16,6 +16,7 @@ story 6_2
     6_2_7
     6_2_8
 
+  / The Viral Life Cycle - Full Text
   path FullText
     step
       --

@@ -27,6 +27,7 @@ story 2_6_7
     2_6_7_0
     2_6_7_1
 
+  / Calcium Homeostasis: Interactions of the Skeletal System and Other Organ Systems - Full Text
   path FullText
     step
       --

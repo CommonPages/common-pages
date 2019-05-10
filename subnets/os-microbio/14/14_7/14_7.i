@@ -11,8 +11,8 @@ story 14_7
   ---
     14_7_1
     14_7_2
-    14_7_3
 
+  / Current Strategies for Antimicrobial Discovery - Full Text
   path FullText
     step
       --
@@ -20,8 +20,5 @@ story 14_7
     step
       --
         14_7_2
-    step
-      --
-        14_7_3
 
     

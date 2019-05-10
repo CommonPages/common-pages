@@ -13,6 +13,7 @@ story 2_8_3
     2_8_3_3
     2_8_3_4
 
+  / Extensions of the Laws of Inheritance - Full Text
   path FullText
     step
       --

@@ -15,6 +15,7 @@ story 23_3
     23_3_6
     23_3_7
 
+  / Bacterial Infections of the Reproductive System - Full Text
   path FullText
     step
       --

@@ -12,6 +12,7 @@ story 11_0
   ---
     11_0_0
 
+  / Introduction to Fluid Statics - Full Text
   path FullText
     step
       --

@@ -12,6 +12,7 @@ story 4_20_2
     4_20_2_2
     4_20_2_3
 
+  / Determining Evolutionary Relationships - Full Text
   path FullText
     step
       --

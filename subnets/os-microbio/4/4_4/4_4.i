@@ -14,6 +14,7 @@ story 4_4
     4_4_3
     4_4_4
 
+  / Gram-Positive Bacteria - Full Text
   path FullText
     step
       --

@@ -61,6 +61,7 @@ story 27_6
     27_6_0
     27_6_1
 
+  / Limits of Resolution: The Rayleigh Criterion - Full Text
   path FullText
     step
       --

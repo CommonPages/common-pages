@@ -13,6 +13,7 @@ story 1_3_2
     1_3_2_3
     1_3_2_4
 
+  / Comparing Prokaryotic and Eukaryotic Cells - Full Text
   path FullText
     step
       --

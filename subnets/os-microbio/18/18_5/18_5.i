@@ -15,6 +15,7 @@ story 18_5
     18_5_6
     18_5_8
 
+  / Vaccines - Full Text
   path FullText
     step
       --

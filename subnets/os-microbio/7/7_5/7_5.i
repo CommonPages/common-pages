@@ -31,8 +31,8 @@ story 7_5
   ---
     7_5_1
     7_5_2
-    7_5_4
 
+  / Using Biochemistry to Identify Microorganisms - Full Text
   path FullText
     step
       --
@@ -40,8 +40,5 @@ story 7_5
     step
       --
         7_5_2
-    step
-      --
-        7_5_4
 
     

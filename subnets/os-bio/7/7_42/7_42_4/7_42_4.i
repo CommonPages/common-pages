@@ -12,6 +12,7 @@ story 7_42_4
     7_42_4_2
     7_42_4_3
 
+  / Disruptions in the Immune System - Full Text
   path FullText
     step
       --

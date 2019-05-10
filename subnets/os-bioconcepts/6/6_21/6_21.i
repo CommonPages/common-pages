@@ -4,6 +4,7 @@
 space 6_21
 
   ^^
+    SkimPath
     FullPath
 
   insert 6.6_21.6_21_0.6_21_0_0
@@ -12,6 +13,63 @@ space 6_21
     6_21_1
     6_21_2
     6_21_3
+
+
+  / Key Concepts
+  // Conservation and Biodiversity - Key Concepts
+  path SkimPath
+    / Conservation and Biodiversity
+    step
+      >>>
+        ## Conservation and Biodiversity
+      >>
+        6.6_21.6_21_0.6_21_0_0
+      >>>
+        {step:next Continue}
+
+    / Importance of Biodiversity
+    step
+      >>>
+        ## Importance of Biodiversity
+      >>
+        6.6_21.6_21_1.6_21_1_0
+      --- Importance of Biodiversity - In Depth
+        6.6_21.6_21_1.6_21_1_1
+        6.6_21.6_21_1.6_21_1_2
+        6.6_21.6_21_1.6_21_1_3
+        6.6_21.6_21_1.6_21_1_4
+      >>>
+        {step:next Continue}
+
+    / Threats to Biodiversity
+    step
+      >>>
+        ## Threats to Biodiversity
+      >>
+        6.6_21.6_21_2.6_21_2_0
+      --- Threats to Biodiversity - In Depth
+        6.6_21.6_21_2.6_21_2_1
+        6.6_21.6_21_2.6_21_2_2
+        6.6_21.6_21_2.6_21_2_3
+        6.6_21.6_21_2.6_21_2_4
+        6.6_21.6_21_2.6_21_2_5
+      >>>
+        {step:next Continue}
+
+    / Preserving Biodiversity
+    step
+      >>>
+        ## Preserving Biodiversity
+      >>
+        6.6_21.6_21_3.6_21_3_0
+      --- Preserving Biodiversity - In Depth
+        6.6_21.6_21_3.6_21_3_1
+        6.6_21.6_21_3.6_21_3_2
+        6.6_21.6_21_3.6_21_3_3
+        6.6_21.6_21_3.6_21_3_4
+        6.6_21.6_21_3.6_21_3_5
+      >>>
+        {step:exit}
 
 
   / 6.21 - Full Text

@@ -4,6 +4,7 @@
 space 23
 
   ^^
+    SkimPath
     FullPath
 
   insert 23.23_0.23_0_0
@@ -15,6 +16,100 @@ space 23
     23_4
     23_5
     23_6
+
+
+  / Key Concepts
+  // Urogenital System Infections - Key Concepts
+  path SkimPath
+    / Urogenital System Infections
+    step
+      >>>
+        ## Urogenital System Infections
+      >>
+        23.23_0.23_0_0
+      >>>
+        {step:next Continue}
+
+    / Anatomy and Normal Microbiota of the Urogenital Tract
+    step
+      >>>
+        ## Anatomy and Normal Microbiota of the Urogenital Tract
+      >>
+        23.23_1.23_1_1
+      --- Anatomy and Normal Microbiota of the Urogenital Tract - In Depth
+        23.23_1.23_1_2
+        23.23_1.23_1_3
+        23.23_1.23_1_4
+        23.23_1.23_1_5
+        23.23_1.23_1_6
+        23.23_1.23_1_7
+      >>>
+        {step:next Continue}
+
+    / Bacterial Infections of the Urinary System
+    step
+      >>>
+        ## Bacterial Infections of the Urinary System
+      >>
+        23.23_2.23_2_1
+      --- Bacterial Infections of the Urinary System - In Depth
+        23.23_2.23_2_2
+        23.23_2.23_2_3
+        23.23_2.23_2_4
+        23.23_2.23_2_5
+      >>>
+        {step:next Continue}
+
+    / Bacterial Infections of the Reproductive System
+    step
+      >>>
+        ## Bacterial Infections of the Reproductive System
+      >>
+        23.23_3.23_3_1
+      --- Bacterial Infections of the Reproductive System - In Depth
+        23.23_3.23_3_2
+        23.23_3.23_3_3
+        23.23_3.23_3_4
+        23.23_3.23_3_5
+        23.23_3.23_3_6
+        23.23_3.23_3_7
+      >>>
+        {step:next Continue}
+
+    / Viral Infections of the Reproductive System
+    step
+      >>>
+        ## Viral Infections of the Reproductive System
+      >>
+        23.23_4.23_4_1
+      --- Viral Infections of the Reproductive System - In Depth
+        23.23_4.23_4_2
+        23.23_4.23_4_3
+        23.23_4.23_4_4
+      >>>
+        {step:next Continue}
+
+    / Fungal Infections of the Reproductive System
+    step
+      >>>
+        ## Fungal Infections of the Reproductive System
+      >>
+        23.23_5.23_5_1
+      --- Fungal Infections of the Reproductive System - In Depth
+        23.23_5.23_5_2
+      >>>
+        {step:next Continue}
+
+    / Protozoan Infections of the Urogenital System
+    step
+      >>>
+        ## Protozoan Infections of the Urogenital System
+      >>
+        23.23_6.23_6_1
+      --- Protozoan Infections of the Urogenital System - In Depth
+        23.23_6.23_6_2
+      >>>
+        {step:exit}
 
 
   / 23 - Full Text

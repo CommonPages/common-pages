@@ -11,6 +11,7 @@ story 22_4
     22_4_1
     22_4_2
 
+  / Magnetic Field Strength: Force on a Moving Charge in a Magnetic Field - Full Text
   path FullText
     step
       --

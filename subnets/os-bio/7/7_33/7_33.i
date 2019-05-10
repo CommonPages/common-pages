@@ -4,6 +4,7 @@
 space 7_33
 
   ^^
+    SkimPath
     FullPath
 
   insert 7.7_33.7_33_0.7_33_0_0
@@ -12,6 +13,67 @@ space 7_33
     7_33_1
     7_33_2
     7_33_3
+
+
+  / Key Concepts
+  // The Animal Body: Basic Form and Function - Key Concepts
+  path SkimPath
+    / The Animal Body: Basic Form and Function
+    step
+      >>>
+        ## The Animal Body: Basic Form and Function
+      >>
+        7.7_33.7_33_0.7_33_0_0
+      >>>
+        {step:next Continue}
+
+    / Animal Form and Function
+    step
+      >>>
+        ## Animal Form and Function
+      >>
+        7.7_33.7_33_1.7_33_1_0
+      --- Animal Form and Function - In Depth
+        7.7_33.7_33_1.7_33_1_1
+        7.7_33.7_33_1.7_33_1_2
+        7.7_33.7_33_1.7_33_1_3
+        7.7_33.7_33_1.7_33_1_4
+        7.7_33.7_33_1.7_33_1_5
+        7.7_33.7_33_1.7_33_1_6
+      >>>
+        {step:next Continue}
+
+    / Animal Primary Tissues
+    step
+      >>>
+        ## Animal Primary Tissues
+      >>
+        7.7_33.7_33_2.7_33_2_0
+      --- Animal Primary Tissues - In Depth
+        7.7_33.7_33_2.7_33_2_1
+        7.7_33.7_33_2.7_33_2_2
+        7.7_33.7_33_2.7_33_2_3
+        7.7_33.7_33_2.7_33_2_4
+        7.7_33.7_33_2.7_33_2_5
+      >>>
+        {step:next Continue}
+
+    / Homeostasis
+    step
+      >>>
+        ## Homeostasis
+      >>
+        7.7_33.7_33_3.7_33_3_0
+      --- Homeostasis - In Depth
+        7.7_33.7_33_3.7_33_3_1
+        7.7_33.7_33_3.7_33_3_2
+        7.7_33.7_33_3.7_33_3_3
+        7.7_33.7_33_3.7_33_3_4
+        7.7_33.7_33_3.7_33_3_5
+        7.7_33.7_33_3.7_33_3_6
+        7.7_33.7_33_3.7_33_3_7
+      >>>
+        {step:exit}
 
 
   / 7.33 - Full Text

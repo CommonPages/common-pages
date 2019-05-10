@@ -11,8 +11,8 @@ story 3_12_1
     3_12_1_1
     3_12_1_2
     3_12_1_3
-    3_12_1_4
 
+  / Basic Structure and Function of the Nervous System - Full Text
   path FullText
     step
       --
@@ -26,8 +26,5 @@ story 3_12_1
     step
       --
         3_12_1_3
-    step
-      --
-        3_12_1_4
 
     

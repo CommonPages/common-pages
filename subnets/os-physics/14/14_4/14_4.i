@@ -19,6 +19,7 @@ story 14_4
     14_4_0
     14_4_1
 
+  / Heat Transfer Methods - Full Text
   path FullText
     step
       --

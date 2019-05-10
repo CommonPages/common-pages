@@ -13,8 +13,8 @@ story 13_1
     13_1_4
     13_1_5
     13_1_6
-    13_1_8
 
+  / Controlling Microbial Growth - Full Text
   path FullText
     step
       --
@@ -34,8 +34,5 @@ story 13_1
     step
       --
         13_1_6
-    step
-      --
-        13_1_8
 
     

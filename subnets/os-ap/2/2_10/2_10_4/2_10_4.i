@@ -24,6 +24,7 @@ story 2_10_4
     2_10_4_5
     2_10_4_6
 
+  / Nervous System Control of Muscle Tension - Full Text
   path FullText
     step
       --

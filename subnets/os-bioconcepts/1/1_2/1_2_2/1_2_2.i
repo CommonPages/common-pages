@@ -15,6 +15,7 @@ story 1_2_2
     1_2_2_5
     1_2_2_6
 
+  / Water - Full Text
   path FullText
     step
       --

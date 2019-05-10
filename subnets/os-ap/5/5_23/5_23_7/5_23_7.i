@@ -15,6 +15,7 @@ story 5_23_7
     5_23_7_2
     5_23_7_3
 
+  / Chemical Digestion and Absorption: A Closer Look - Full Text
   path FullText
     step
       --

@@ -40,6 +40,7 @@ story 22_8
     22_8_0
     22_8_1
 
+  / Torque on a Current Loop: Motors and Meters - Full Text
   path FullText
     step
       --

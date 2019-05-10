@@ -37,6 +37,7 @@ story 22_7
     22_7_0
     22_7_1
 
+  / Magnetic Force on a Current-Carrying Conductor - Full Text
   path FullText
     step
       --

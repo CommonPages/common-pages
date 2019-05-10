@@ -17,6 +17,7 @@ story 5_17_3
     5_17_3_7
     5_17_3_8
 
+  / Adaptive Immunity - Full Text
   path FullText
     step
       --

@@ -15,8 +15,8 @@ story 14_3
     14_3_6
     14_3_7
     14_3_8
-    14_3_10
 
+  / Mechanisms of Antibacterial Drugs - Full Text
   path FullText
     step
       --
@@ -45,8 +45,5 @@ story 14_3
     step
       --
         14_3_8
-    step
-      --
-        14_3_10
 
     

@@ -4,6 +4,7 @@
 space 7_34
 
   ^^
+    SkimPath
     FullPath
 
   insert 7.7_34.7_34_0.7_34_0_0
@@ -13,6 +14,74 @@ space 7_34
     7_34_2
     7_34_3
     7_34_4
+
+
+  / Key Concepts
+  // Animal Nutrition and the Digestive System - Key Concepts
+  path SkimPath
+    / Animal Nutrition and the Digestive System
+    step
+      >>>
+        ## Animal Nutrition and the Digestive System
+      >>
+        7.7_34.7_34_0.7_34_0_0
+      >>>
+        {step:next Continue}
+
+    / Digestive Systems
+    step
+      >>>
+        ## Digestive Systems
+      >>
+        7.7_34.7_34_1.7_34_1_0
+      --- Digestive Systems - In Depth
+        7.7_34.7_34_1.7_34_1_1
+        7.7_34.7_34_1.7_34_1_2
+        7.7_34.7_34_1.7_34_1_3
+        7.7_34.7_34_1.7_34_1_4
+        7.7_34.7_34_1.7_34_1_5
+      >>>
+        {step:next Continue}
+
+    / Nutrition and Energy Production
+    step
+      >>>
+        ## Nutrition and Energy Production
+      >>
+        7.7_34.7_34_2.7_34_2_0
+      --- Nutrition and Energy Production - In Depth
+        7.7_34.7_34_2.7_34_2_1
+        7.7_34.7_34_2.7_34_2_2
+        7.7_34.7_34_2.7_34_2_3
+      >>>
+        {step:next Continue}
+
+    / Digestive System Processes
+    step
+      >>>
+        ## Digestive System Processes
+      >>
+        7.7_34.7_34_3.7_34_3_0
+      --- Digestive System Processes - In Depth
+        7.7_34.7_34_3.7_34_3_1
+        7.7_34.7_34_3.7_34_3_2
+        7.7_34.7_34_3.7_34_3_3
+        7.7_34.7_34_3.7_34_3_4
+      >>>
+        {step:next Continue}
+
+    / Digestive System Regulation
+    step
+      >>>
+        ## Digestive System Regulation
+      >>
+        7.7_34.7_34_4.7_34_4_0
+      --- Digestive System Regulation - In Depth
+        7.7_34.7_34_4.7_34_4_1
+        7.7_34.7_34_4.7_34_4_2
+        7.7_34.7_34_4.7_34_4_3
+      >>>
+        {step:exit}
 
 
   / 7.34 - Full Text

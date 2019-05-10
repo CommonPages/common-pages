@@ -2,9 +2,7 @@
 / Electrolysis
 story 16_7
   >
-    In galvanic cells, chemical energy is converted into electrical energy. The opposite is true for electrolytic cells. In  **electrolytic cells**, electrical energy causes nonspontaneous reactions to occur in a process known as  **electrolysis**. The charging electric car pictured in {'Figure_17_0_EVCharging Figure 17.0.EVCharging} at the beginning of this chapter shows one such process. Electrical energy is converted into the chemical energy in the battery as it is charged. Once charged, the battery can be used to power the automobile.
-    
-    The same principles are involved in electrolytic cells as in galvanic cells. We will look at three electrolytic cells and the quantitative aspects of electrolysis.
+    Electrochemical cells in which spontaneous redox reactions take place ( *galvanic cells*) have been the topic of discussion so far in this chapter. In these cells,  *electrical work is done by a redox system on its surroundings* as electrons produced by the redox reaction are transferred through an external circuit. This final section of the chapter will address an alternative scenario in which  *an external circuit does work on a redox system* by imposing a voltage sufficient to drive an otherwise nonspontaneous reaction, a process known as  **electrolysis**. A familiar example of electrolysis is recharging a battery, which involves use of an external power source to drive the spontaneous (discharge) cell reaction in the reverse direction, restoring to some extent the composition of the half-cells and the voltage of the battery. Perhaps less familiar is the use of electrolysis in the refinement of metallic ores, the manufacture of commodity chemicals, and the  *electroplating* of metallic coatings on various products (e.g., jewelry, utensils, auto parts). To illustrate the essential concepts of electrolysis, a few specific processes will be considered.
 
   apply FullText
 
@@ -17,6 +15,7 @@ story 16_7
     16_7_5
     16_7_6
 
+  / Electrolysis - Full Text
   path FullText
     step
       --

@@ -12,6 +12,7 @@ story 5_5
     5_5_3
     5_5_4
 
+  / Lichens - Full Text
   path FullText
     step
       --

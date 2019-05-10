@@ -59,6 +59,7 @@ story 12_3
     12_3_6
     12_3_7
 
+  / The Regression Equation - Full Text
   path FullText
     step
       --

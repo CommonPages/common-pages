@@ -25,6 +25,7 @@ story 19_1
     19_1_6
     19_1_7
 
+  / Occurrence, Preparation, and Properties of Transition Metals and Their Compounds - Full Text
   path FullText
     step
       --

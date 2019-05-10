@@ -4,6 +4,7 @@
 space 7_41
 
   ^^
+    SkimPath
     FullPath
 
   insert 7.7_41.7_41_0.7_41_0_0
@@ -14,6 +15,91 @@ space 7_41
     7_41_3
     7_41_4
     7_41_5
+
+
+  / Key Concepts
+  // Osmotic Regulation and Excretion - Key Concepts
+  path SkimPath
+    / Osmotic Regulation and Excretion
+    step
+      >>>
+        ## Osmotic Regulation and Excretion
+      >>
+        7.7_41.7_41_0.7_41_0_0
+      >>>
+        {step:next Continue}
+
+    / Osmoregulation and Osmotic Balance
+    step
+      >>>
+        ## Osmoregulation and Osmotic Balance
+      >>
+        7.7_41.7_41_1.7_41_1_0
+      --- Osmoregulation and Osmotic Balance - In Depth
+        7.7_41.7_41_1.7_41_1_1
+        7.7_41.7_41_1.7_41_1_2
+        7.7_41.7_41_1.7_41_1_3
+        7.7_41.7_41_1.7_41_1_4
+        7.7_41.7_41_1.7_41_1_5
+      >>>
+        {step:next Continue}
+
+    / The Kidneys and Osmoregulatory Organs
+    step
+      >>>
+        ## The Kidneys and Osmoregulatory Organs
+      >>
+        7.7_41.7_41_2.7_41_2_0
+      --- The Kidneys and Osmoregulatory Organs - In Depth
+        7.7_41.7_41_2.7_41_2_1
+        7.7_41.7_41_2.7_41_2_2
+        7.7_41.7_41_2.7_41_2_3
+        7.7_41.7_41_2.7_41_2_4
+      >>>
+        {step:next Continue}
+
+    / Excretion Systems
+    step
+      >>>
+        ## Excretion Systems
+      >>
+        7.7_41.7_41_3.7_41_3_0
+      --- Excretion Systems - In Depth
+        7.7_41.7_41_3.7_41_3_1
+        7.7_41.7_41_3.7_41_3_2
+        7.7_41.7_41_3.7_41_3_3
+        7.7_41.7_41_3.7_41_3_4
+      >>>
+        {step:next Continue}
+
+    / Nitrogenous Wastes
+    step
+      >>>
+        ## Nitrogenous Wastes
+      >>
+        7.7_41.7_41_4.7_41_4_0
+      --- Nitrogenous Wastes - In Depth
+        7.7_41.7_41_4.7_41_4_1
+        7.7_41.7_41_4.7_41_4_2
+        7.7_41.7_41_4.7_41_4_3
+      >>>
+        {step:next Continue}
+
+    / Hormonal Control of Osmoregulatory Functions
+    step
+      >>>
+        ## Hormonal Control of Osmoregulatory Functions
+      >>
+        7.7_41.7_41_5.7_41_5_0
+      --- Hormonal Control of Osmoregulatory Functions - In Depth
+        7.7_41.7_41_5.7_41_5_1
+        7.7_41.7_41_5.7_41_5_2
+        7.7_41.7_41_5.7_41_5_3
+        7.7_41.7_41_5.7_41_5_4
+        7.7_41.7_41_5.7_41_5_5
+        7.7_41.7_41_5.7_41_5_6
+      >>>
+        {step:exit}
 
 
   / 7.41 - Full Text

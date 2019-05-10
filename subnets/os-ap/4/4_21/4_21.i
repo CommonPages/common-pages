@@ -4,6 +4,7 @@
 space 4_21
 
   ^^
+    SkimPath
     FullPath
 
   insert 4.4_21.4_21_0.4_21_0_0
@@ -16,6 +17,129 @@ space 4_21
     4_21_5
     4_21_6
     4_21_7
+
+
+  / Key Concepts
+  // The Lymphatic and Immune System - Key Concepts
+  path SkimPath
+    / The Lymphatic and Immune System
+    step
+      >>>
+        ## The Lymphatic and Immune System
+      >>
+        4.4_21.4_21_0.4_21_0_0
+      >>>
+        {step:next Continue}
+
+    / Anatomy of the Lymphatic and Immune Systems
+    step
+      >>>
+        ## Anatomy of the Lymphatic and Immune Systems
+      >>
+        4.4_21.4_21_1.4_21_1_0
+      --- Anatomy of the Lymphatic and Immune Systems - In Depth
+        4.4_21.4_21_1.4_21_1_1
+        4.4_21.4_21_1.4_21_1_2
+        4.4_21.4_21_1.4_21_1_3
+        4.4_21.4_21_1.4_21_1_4
+        4.4_21.4_21_1.4_21_1_5
+        4.4_21.4_21_1.4_21_1_6
+        4.4_21.4_21_1.4_21_1_7
+      >>>
+        {step:next Continue}
+
+    / Barrier Defenses and the Innate Immune Response
+    step
+      >>>
+        ## Barrier Defenses and the Innate Immune Response
+      >>
+        4.4_21.4_21_2.4_21_2_0
+      --- Barrier Defenses and the Innate Immune Response - In Depth
+        4.4_21.4_21_2.4_21_2_1
+        4.4_21.4_21_2.4_21_2_2
+        4.4_21.4_21_2.4_21_2_3
+        4.4_21.4_21_2.4_21_2_4
+        4.4_21.4_21_2.4_21_2_5
+      >>>
+        {step:next Continue}
+
+    / The Adaptive Immune Response: T lymphocytes and Their Functional Types
+    step
+      >>>
+        ## The Adaptive Immune Response: T lymphocytes and Their Functional Types
+      >>
+        4.4_21.4_21_3.4_21_3_0
+      --- The Adaptive Immune Response: T lymphocytes and Their Functional Types - In Depth
+        4.4_21.4_21_3.4_21_3_1
+        4.4_21.4_21_3.4_21_3_2
+        4.4_21.4_21_3.4_21_3_3
+        4.4_21.4_21_3.4_21_3_4
+        4.4_21.4_21_3.4_21_3_5
+        4.4_21.4_21_3.4_21_3_6
+        4.4_21.4_21_3.4_21_3_7
+        4.4_21.4_21_3.4_21_3_8
+        4.4_21.4_21_3.4_21_3_9
+      >>>
+        {step:next Continue}
+
+    / The Adaptive Immune Response: B-lymphocytes and Antibodies
+    step
+      >>>
+        ## The Adaptive Immune Response: B-lymphocytes and Antibodies
+      >>
+        4.4_21.4_21_4.4_21_4_0
+      --- The Adaptive Immune Response: B-lymphocytes and Antibodies - In Depth
+        4.4_21.4_21_4.4_21_4_1
+        4.4_21.4_21_4.4_21_4_2
+        4.4_21.4_21_4.4_21_4_3
+        4.4_21.4_21_4.4_21_4_4
+        4.4_21.4_21_4.4_21_4_5
+      >>>
+        {step:next Continue}
+
+    / The Immune Response against Pathogens
+    step
+      >>>
+        ## The Immune Response against Pathogens
+      >>
+        4.4_21.4_21_5.4_21_5_0
+      --- The Immune Response against Pathogens - In Depth
+        4.4_21.4_21_5.4_21_5_1
+        4.4_21.4_21_5.4_21_5_2
+        4.4_21.4_21_5.4_21_5_3
+        4.4_21.4_21_5.4_21_5_4
+        4.4_21.4_21_5.4_21_5_5
+        4.4_21.4_21_5.4_21_5_6
+      >>>
+        {step:next Continue}
+
+    / Diseases Associated with Depressed or Overactive Immune Responses
+    step
+      >>>
+        ## Diseases Associated with Depressed or Overactive Immune Responses
+      >>
+        4.4_21.4_21_6.4_21_6_0
+      --- Diseases Associated with Depressed or Overactive Immune Responses - In Depth
+        4.4_21.4_21_6.4_21_6_1
+        4.4_21.4_21_6.4_21_6_2
+        4.4_21.4_21_6.4_21_6_3
+        4.4_21.4_21_6.4_21_6_4
+      >>>
+        {step:next Continue}
+
+    / Transplantation and Cancer Immunology
+    step
+      >>>
+        ## Transplantation and Cancer Immunology
+      >>
+        4.4_21.4_21_7.4_21_7_0
+      --- Transplantation and Cancer Immunology - In Depth
+        4.4_21.4_21_7.4_21_7_1
+        4.4_21.4_21_7.4_21_7_2
+        4.4_21.4_21_7.4_21_7_3
+        4.4_21.4_21_7.4_21_7_4
+      >>>
+        {step:exit}
 
 
   / 4.21 - Full Text
@@ -57,10 +181,6 @@ space 4_21
     step
       --
         4.4_21.4_21_1.4_21_1_7
-    / Interactive Link Questions
-    step
-      --
-        4.4_21.4_21_1.4_21_1_8
     / Barrier Defenses and the Innate Immune Response - Introduction
     step
       --
@@ -85,10 +205,6 @@ space 4_21
     step
       --
         4.4_21.4_21_2.4_21_2_5
-    / Interactive Link Questions
-    step
-      --
-        4.4_21.4_21_2.4_21_2_6
     / The Adaptive Immune Response: T lymphocytes and Their Functional Types - Introduction
     step
       --
@@ -153,10 +269,6 @@ space 4_21
     step
       --
         4.4_21.4_21_4.4_21_4_5
-    / Interactive Link Questions
-    step
-      --
-        4.4_21.4_21_4.4_21_4_6
     / The Immune Response against Pathogens - Introduction
     step
       --

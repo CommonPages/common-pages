@@ -12,6 +12,7 @@ story 30_0
   ---
     30_0_0
 
+  / Introduction to Atomic Physics - Full Text
   path FullText
     step
       --

@@ -13,6 +13,7 @@ story 23_2
     23_2_4
     23_2_5
 
+  / Bacterial Infections of the Urinary System - Full Text
   path FullText
     step
       --

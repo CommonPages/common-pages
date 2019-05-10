@@ -11,8 +11,8 @@ story 5_22_5
     5_22_5_1
     5_22_5_2
     5_22_5_3
-    5_22_5_4
 
+  / Transport of Gases - Full Text
   path FullText
     step
       --
@@ -26,8 +26,5 @@ story 5_22_5
     step
       --
         5_22_5_3
-    step
-      --
-        5_22_5_4
 
     

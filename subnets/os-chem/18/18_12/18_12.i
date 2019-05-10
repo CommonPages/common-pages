@@ -36,6 +36,7 @@ story 18_12
     18_12_0
     18_12_1
 
+  / Occurrence, Preparation, and Properties of the Noble Gases - Full Text
   path FullText
     step
       --

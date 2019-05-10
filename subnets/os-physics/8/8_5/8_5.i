@@ -16,6 +16,7 @@ story 8_5
     8_5_0
     8_5_1
 
+  / Inelastic Collisions in One Dimension - Full Text
   path FullText
     step
       --

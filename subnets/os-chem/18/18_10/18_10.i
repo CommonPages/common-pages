@@ -28,6 +28,7 @@ story 18_10
     18_10_0
     18_10_1
 
+  / Occurrence, Preparation, and Properties of Sulfur - Full Text
   path FullText
     step
       --

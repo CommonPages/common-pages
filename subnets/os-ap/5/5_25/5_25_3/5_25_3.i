@@ -13,6 +13,7 @@ story 5_25_3
     5_25_3_3
     5_25_3_4
 
+  / Gross Anatomy of the Kidney - Full Text
   path FullText
     step
       --

@@ -11,6 +11,7 @@ story 2_6_1
     2_6_1_1
     2_6_1_2
 
+  / The Genome - Full Text
   path FullText
     step
       --

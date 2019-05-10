@@ -63,6 +63,7 @@ story 2_3
     2_3_6
     2_3_7
 
+  / Measures of the Location of the Data - Full Text
   path FullText
     step
       --

@@ -14,6 +14,7 @@ story 2_5_3
     2_5_3_4
     2_5_3_5
 
+  / Functions of the Integumentary System - Full Text
   path FullText
     step
       --

@@ -15,6 +15,7 @@ story 2_6
     2_6_2
     2_6_3
 
+  / Problem-Solving Basics for One-Dimensional Kinematics - Full Text
   path FullText
     step
       --

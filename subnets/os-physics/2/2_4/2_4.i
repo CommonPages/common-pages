@@ -24,6 +24,7 @@ story 2_4
     2_4_2
     2_4_3
 
+  / Acceleration - Full Text
   path FullText
     step
       --

@@ -4,6 +4,7 @@
 space 2_7
 
   ^^
+    SkimPath
     FullPath
 
   insert 2.2_7.2_7_0.2_7_0_0
@@ -16,6 +17,113 @@ space 2_7
     2_7_5
     2_7_6
     2_7_7
+
+
+  / Key Concepts
+  // Cellular Respiration - Key Concepts
+  path SkimPath
+    / Cellular Respiration
+    step
+      >>>
+        ## Cellular Respiration
+      >>
+        2.2_7.2_7_0.2_7_0_0
+      >>>
+        {step:next Continue}
+
+    / Energy in Living Systems
+    step
+      >>>
+        ## Energy in Living Systems
+      >>
+        2.2_7.2_7_1.2_7_1_0
+      --- Energy in Living Systems - In Depth
+        2.2_7.2_7_1.2_7_1_1
+        2.2_7.2_7_1.2_7_1_2
+        2.2_7.2_7_1.2_7_1_3
+      >>>
+        {step:next Continue}
+
+    / Glycolysis
+    step
+      >>>
+        ## Glycolysis
+      >>
+        2.2_7.2_7_2.2_7_2_0
+      --- Glycolysis - In Depth
+        2.2_7.2_7_2.2_7_2_1
+        2.2_7.2_7_2.2_7_2_2
+        2.2_7.2_7_2.2_7_2_3
+        2.2_7.2_7_2.2_7_2_4
+      >>>
+        {step:next Continue}
+
+    / Oxidation of Pyruvate and the Citric Acid Cycle
+    step
+      >>>
+        ## Oxidation of Pyruvate and the Citric Acid Cycle
+      >>
+        2.2_7.2_7_3.2_7_3_0
+      --- Oxidation of Pyruvate and the Citric Acid Cycle - In Depth
+        2.2_7.2_7_3.2_7_3_1
+        2.2_7.2_7_3.2_7_3_2
+        2.2_7.2_7_3.2_7_3_3
+        2.2_7.2_7_3.2_7_3_4
+      >>>
+        {step:next Continue}
+
+    / Oxidative Phosphorylation
+    step
+      >>>
+        ## Oxidative Phosphorylation
+      >>
+        2.2_7.2_7_4.2_7_4_0
+      --- Oxidative Phosphorylation - In Depth
+        2.2_7.2_7_4.2_7_4_1
+        2.2_7.2_7_4.2_7_4_2
+        2.2_7.2_7_4.2_7_4_3
+        2.2_7.2_7_4.2_7_4_4
+      >>>
+        {step:next Continue}
+
+    / Metabolism without Oxygen
+    step
+      >>>
+        ## Metabolism without Oxygen
+      >>
+        2.2_7.2_7_5.2_7_5_0
+      --- Metabolism without Oxygen - In Depth
+        2.2_7.2_7_5.2_7_5_1
+        2.2_7.2_7_5.2_7_5_2
+      >>>
+        {step:next Continue}
+
+    / Connections of Carbohydrate, Protein, and Lipid Metabolic Pathways
+    step
+      >>>
+        ## Connections of Carbohydrate, Protein, and Lipid Metabolic Pathways
+      >>
+        2.2_7.2_7_6.2_7_6_0
+      --- Connections of Carbohydrate, Protein, and Lipid Metabolic Pathways - In Depth
+        2.2_7.2_7_6.2_7_6_1
+        2.2_7.2_7_6.2_7_6_2
+        2.2_7.2_7_6.2_7_6_3
+        2.2_7.2_7_6.2_7_6_4
+      >>>
+        {step:next Continue}
+
+    / Regulation of Cellular Respiration
+    step
+      >>>
+        ## Regulation of Cellular Respiration
+      >>
+        2.2_7.2_7_7.2_7_7_0
+      --- Regulation of Cellular Respiration - In Depth
+        2.2_7.2_7_7.2_7_7_1
+        2.2_7.2_7_7.2_7_7_2
+        2.2_7.2_7_7.2_7_7_3
+      >>>
+        {step:exit}
 
 
   / 2.7 - Full Text

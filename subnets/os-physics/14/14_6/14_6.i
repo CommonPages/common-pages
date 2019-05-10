@@ -45,6 +45,7 @@ story 14_6
     14_6_0
     14_6_1
 
+  / Convection - Full Text
   path FullText
     step
       --

@@ -13,6 +13,7 @@ story 6_28_1
     6_28_1_3
     6_28_1_4
 
+  / Fertilization - Full Text
   path FullText
     step
       --

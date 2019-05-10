@@ -18,8 +18,8 @@ story 5_23_4
     5_23_4_4
     5_23_4_5
     5_23_4_6
-    5_23_4_7
 
+  / The Stomach - Full Text
   path FullText
     step
       --
@@ -42,8 +42,5 @@ story 5_23_4
     step
       --
         5_23_4_6
-    step
-      --
-        5_23_4_7
 
     

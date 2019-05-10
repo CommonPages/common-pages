@@ -14,6 +14,7 @@ story 6_0
   ---
     6_0_0
 
+  / Introduction to Uniform Circular Motion and Gravitation - Full Text
   path FullText
     step
       --

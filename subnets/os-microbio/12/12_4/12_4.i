@@ -12,6 +12,7 @@ story 12_4
     12_4_3
     12_4_4
 
+  / Gene Therapy - Full Text
   path FullText
     step
       --

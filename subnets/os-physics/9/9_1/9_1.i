@@ -32,6 +32,7 @@ story 9_1
     9_1_0
     9_1_1
 
+  / The First Condition for Equilibrium - Full Text
   path FullText
     step
       --

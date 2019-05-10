@@ -16,6 +16,7 @@ story 1_3_1
     1_3_1_2
     1_3_1_3
 
+  / How Cells Are Studied - Full Text
   path FullText
     step
       --

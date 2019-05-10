@@ -56,6 +56,7 @@ story 26_5
     26_5_0
     26_5_1
 
+  / Telescopes - Full Text
   path FullText
     step
       --

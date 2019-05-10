@@ -64,6 +64,7 @@ story 26_4
     26_4_0
     26_4_1
 
+  / Microscopes - Full Text
   path FullText
     step
       --

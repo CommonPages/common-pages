@@ -30,10 +30,6 @@ story 8_4
     
     
             
-    
-    Here’s another example, making the point about how determining times differs from determining rates.
-    
-    Finally, here is one more example showing how to calculate molar mass from effusion rate data.
 
   apply FullText
 
@@ -42,6 +38,7 @@ story 8_4
     8_4_1
     8_4_2
 
+  / Effusion and Diffusion of Gases - Full Text
   path FullText
     step
       --

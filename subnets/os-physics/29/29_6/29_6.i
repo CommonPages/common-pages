@@ -10,6 +10,7 @@ story 29_6
     29_6_1
     29_6_2
 
+  / The Wave Nature of Matter - Full Text
   path FullText
     step
       --

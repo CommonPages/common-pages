@@ -14,8 +14,8 @@ story 3_15_3
     3_15_3_1
     3_15_3_2
     3_15_3_3
-    3_15_3_4
 
+  / Central Control - Full Text
   path FullText
     step
       --
@@ -29,8 +29,5 @@ story 3_15_3
     step
       --
         3_15_3_3
-    step
-      --
-        3_15_3_4
 
     

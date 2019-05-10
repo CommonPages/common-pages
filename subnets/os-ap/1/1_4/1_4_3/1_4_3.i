@@ -15,8 +15,8 @@ story 1_4_3
     1_4_3_5
     1_4_3_6
     1_4_3_7
-    1_4_3_8
 
+  / Connective Tissue Supports and Protects - Full Text
   path FullText
     step
       --
@@ -42,8 +42,5 @@ story 1_4_3
     step
       --
         1_4_3_7
-    step
-      --
-        1_4_3_8
 
     

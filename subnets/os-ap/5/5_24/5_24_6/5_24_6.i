@@ -17,6 +17,7 @@ story 5_24_6
     5_24_6_2
     5_24_6_3
 
+  / Energy and Heat Balance - Full Text
   path FullText
     step
       --

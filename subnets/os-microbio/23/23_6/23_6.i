@@ -19,6 +19,7 @@ story 23_6
     23_6_1
     23_6_2
 
+  / Protozoan Infections of the Urogenital System - Full Text
   path FullText
     step
       --

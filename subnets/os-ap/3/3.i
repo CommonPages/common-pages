@@ -16,157 +16,451 @@ space 3
     3_16
     3_17
 
-  / 3 - Key Concepts
-  // Key Concepts
+  / Key Concepts
+  // Unit 3: Regulation, Integration, and Control - Key Concepts
   path SkimPath
-    / Introduction
+    / The Nervous System and Nervous Tissue
     step
-      --
+      >>>
+        ## The Nervous System and Nervous Tissue
+      >>
         3.3_12.3_12_0.3_12_0_0
+      >>>
+        {step:next Continue}
     / Basic Structure and Function of the Nervous System
     step
-      --
+      >>>
+        ## Basic Structure and Function of the Nervous System
+      >>
         3.3_12.3_12_1.3_12_1_0
+      --- Basic Structure and Function of the Nervous System - In Depth
+        3.3_12.3_12_1.3_12_1_1
+        3.3_12.3_12_1.3_12_1_2
+        3.3_12.3_12_1.3_12_1_3
+      >>>
+        {step:next Continue}
     / Nervous Tissue
     step
-      --
+      >>>
+        ## Nervous Tissue
+      >>
         3.3_12.3_12_2.3_12_2_0
+      --- Nervous Tissue - In Depth
+        3.3_12.3_12_2.3_12_2_1
+        3.3_12.3_12_2.3_12_2_2
+        3.3_12.3_12_2.3_12_2_3
+      >>>
+        {step:next Continue}
     / The Function of Nervous Tissue
     step
-      --
+      >>>
+        ## The Function of Nervous Tissue
+      >>
         3.3_12.3_12_3.3_12_3_0
+      --- The Function of Nervous Tissue - In Depth
+        3.3_12.3_12_3.3_12_3_1
+      >>>
+        {step:next Continue}
     / The Action Potential
     step
-      --
+      >>>
+        ## The Action Potential
+      >>
         3.3_12.3_12_4.3_12_4_0
+      --- The Action Potential - In Depth
+        3.3_12.3_12_4.3_12_4_1
+        3.3_12.3_12_4.3_12_4_2
+        3.3_12.3_12_4.3_12_4_3
+      >>>
+        {step:next Continue}
     / Communication Between Neurons
     step
-      --
+      >>>
+        ## Communication Between Neurons
+      >>
         3.3_12.3_12_5.3_12_5_0
-    / Introduction
+      --- Communication Between Neurons - In Depth
+        3.3_12.3_12_5.3_12_5_1
+        3.3_12.3_12_5.3_12_5_2
+        3.3_12.3_12_5.3_12_5_3
+      >>>
+        {step:next Continue}
+    / Anatomy of the Nervous System
     step
-      --
+      >>>
+        ## Anatomy of the Nervous System
+      >>
         3.3_13.3_13_0.3_13_0_0
+      >>>
+        {step:next Continue}
     / The Embryologic Perspective
     step
-      --
+      >>>
+        ## The Embryologic Perspective
+      >>
         3.3_13.3_13_1.3_13_1_0
+      --- The Embryologic Perspective - In Depth
+        3.3_13.3_13_1.3_13_1_1
+        3.3_13.3_13_1.3_13_1_2
+        3.3_13.3_13_1.3_13_1_3
+        3.3_13.3_13_1.3_13_1_4
+        3.3_13.3_13_1.3_13_1_5
+        3.3_13.3_13_1.3_13_1_6
+      >>>
+        {step:next Continue}
     / The Central Nervous System
     step
-      --
+      >>>
+        ## The Central Nervous System
+      >>
         3.3_13.3_13_2.3_13_2_0
+      --- The Central Nervous System - In Depth
+        3.3_13.3_13_2.3_13_2_1
+        3.3_13.3_13_2.3_13_2_2
+        3.3_13.3_13_2.3_13_2_3
+        3.3_13.3_13_2.3_13_2_4
+        3.3_13.3_13_2.3_13_2_5
+        3.3_13.3_13_2.3_13_2_6
+      >>>
+        {step:next Continue}
     / Circulation and the Central Nervous System
     step
-      --
+      >>>
+        ## Circulation and the Central Nervous System
+      >>
         3.3_13.3_13_3.3_13_3_0
+      --- Circulation and the Central Nervous System - In Depth
+        3.3_13.3_13_3.3_13_3_1
+        3.3_13.3_13_3.3_13_3_2
+        3.3_13.3_13_3.3_13_3_3
+        3.3_13.3_13_3.3_13_3_4
+      >>>
+        {step:next Continue}
     / The Peripheral Nervous System
     step
-      --
+      >>>
+        ## The Peripheral Nervous System
+      >>
         3.3_13.3_13_4.3_13_4_0
-    / Introduction
+      --- The Peripheral Nervous System - In Depth
+        3.3_13.3_13_4.3_13_4_1
+        3.3_13.3_13_4.3_13_4_2
+        3.3_13.3_13_4.3_13_4_3
+      >>>
+        {step:next Continue}
+    / The Somatic Nervous System
     step
-      --
+      >>>
+        ## The Somatic Nervous System
+      >>
         3.3_14.3_14_0.3_14_0_0
+      >>>
+        {step:next Continue}
     / Sensory Perception
     step
-      --
+      >>>
+        ## Sensory Perception
+      >>
         3.3_14.3_14_1.3_14_1_0
+      --- Sensory Perception - In Depth
+        3.3_14.3_14_1.3_14_1_1
+        3.3_14.3_14_1.3_14_1_2
+        3.3_14.3_14_1.3_14_1_3
+        3.3_14.3_14_1.3_14_1_4
+      >>>
+        {step:next Continue}
     / Motor Responses
     step
-      --
+      >>>
+        ## Motor Responses
+      >>
         3.3_14.3_14_3.3_14_3_0
-    / Introduction
+      --- Motor Responses - In Depth
+        3.3_14.3_14_3.3_14_3_1
+        3.3_14.3_14_3.3_14_3_2
+        3.3_14.3_14_3.3_14_3_3
+        3.3_14.3_14_3.3_14_3_4
+        3.3_14.3_14_3.3_14_3_5
+        3.3_14.3_14_3.3_14_3_6
+      >>>
+        {step:next Continue}
+    / The Autonomic Nervous System
     step
-      --
+      >>>
+        ## The Autonomic Nervous System
+      >>
         3.3_15.3_15_0.3_15_0_0
+      >>>
+        {step:next Continue}
     / Divisions of the Autonomic Nervous System
     step
-      --
+      >>>
+        ## Divisions of the Autonomic Nervous System
+      >>
         3.3_15.3_15_1.3_15_1_0
+      --- Divisions of the Autonomic Nervous System - In Depth
+        3.3_15.3_15_1.3_15_1_1
+        3.3_15.3_15_1.3_15_1_2
+        3.3_15.3_15_1.3_15_1_3
+        3.3_15.3_15_1.3_15_1_4
+      >>>
+        {step:next Continue}
     / Autonomic Reflexes and Homeostasis
     step
-      --
+      >>>
+        ## Autonomic Reflexes and Homeostasis
+      >>
         3.3_15.3_15_2.3_15_2_0
+      --- Autonomic Reflexes and Homeostasis - In Depth
+        3.3_15.3_15_2.3_15_2_1
+        3.3_15.3_15_2.3_15_2_2
+        3.3_15.3_15_2.3_15_2_3
+      >>>
+        {step:next Continue}
     / Central Control
     step
-      --
+      >>>
+        ## Central Control
+      >>
         3.3_15.3_15_3.3_15_3_0
+      --- Central Control - In Depth
+        3.3_15.3_15_3.3_15_3_1
+        3.3_15.3_15_3.3_15_3_2
+        3.3_15.3_15_3.3_15_3_3
+      >>>
+        {step:next Continue}
     / Drugs that Affect the Autonomic System
     step
-      --
+      >>>
+        ## Drugs that Affect the Autonomic System
+      >>
         3.3_15.3_15_4.3_15_4_0
-    / Introduction
+      --- Drugs that Affect the Autonomic System - In Depth
+        3.3_15.3_15_4.3_15_4_1
+        3.3_15.3_15_4.3_15_4_2
+        3.3_15.3_15_4.3_15_4_3
+        3.3_15.3_15_4.3_15_4_4
+      >>>
+        {step:next Continue}
+    / The Neurological Exam
     step
-      --
+      >>>
+        ## The Neurological Exam
+      >>
         3.3_16.3_16_0.3_16_0_0
+      >>>
+        {step:next Continue}
     / Overview of the Neurological Exam
     step
-      --
+      >>>
+        ## Overview of the Neurological Exam
+      >>
         3.3_16.3_16_1.3_16_1_0
+      --- Overview of the Neurological Exam - In Depth
+        3.3_16.3_16_1.3_16_1_1
+        3.3_16.3_16_1.3_16_1_2
+        3.3_16.3_16_1.3_16_1_3
+      >>>
+        {step:next Continue}
     / The Mental Status Exam
     step
-      --
+      >>>
+        ## The Mental Status Exam
+      >>
         3.3_16.3_16_2.3_16_2_0
+      --- The Mental Status Exam - In Depth
+        3.3_16.3_16_2.3_16_2_1
+        3.3_16.3_16_2.3_16_2_2
+        3.3_16.3_16_2.3_16_2_3
+      >>>
+        {step:next Continue}
     / The Cranial Nerve Exam
     step
-      --
+      >>>
+        ## The Cranial Nerve Exam
+      >>
         3.3_16.3_16_3.3_16_3_0
+      --- The Cranial Nerve Exam - In Depth
+        3.3_16.3_16_3.3_16_3_1
+        3.3_16.3_16_3.3_16_3_2
+        3.3_16.3_16_3.3_16_3_3
+        3.3_16.3_16_3.3_16_3_4
+        3.3_16.3_16_3.3_16_3_5
+      >>>
+        {step:next Continue}
     / The Sensory and Motor Exams
     step
-      --
+      >>>
+        ## The Sensory and Motor Exams
+      >>
         3.3_16.3_16_4.3_16_4_0
+      --- The Sensory and Motor Exams - In Depth
+        3.3_16.3_16_4.3_16_4_1
+        3.3_16.3_16_4.3_16_4_2
+        3.3_16.3_16_4.3_16_4_3
+        3.3_16.3_16_4.3_16_4_4
+        3.3_16.3_16_4.3_16_4_5
+      >>>
+        {step:next Continue}
     / The Coordination and Gait Exams
     step
-      --
+      >>>
+        ## The Coordination and Gait Exams
+      >>
         3.3_16.3_16_5.3_16_5_0
-    / Introduction
+      --- The Coordination and Gait Exams - In Depth
+        3.3_16.3_16_5.3_16_5_1
+        3.3_16.3_16_5.3_16_5_2
+        3.3_16.3_16_5.3_16_5_3
+        3.3_16.3_16_5.3_16_5_4
+        3.3_16.3_16_5.3_16_5_5
+      >>>
+        {step:next Continue}
+    / The Endocrine System
     step
-      --
+      >>>
+        ## The Endocrine System
+      >>
         3.3_17.3_17_0.3_17_0_0
+      >>>
+        {step:next Continue}
     / An Overview of the Endocrine System
     step
-      --
+      >>>
+        ## An Overview of the Endocrine System
+      >>
         3.3_17.3_17_1.3_17_1_0
+      --- An Overview of the Endocrine System - In Depth
+        3.3_17.3_17_1.3_17_1_1
+        3.3_17.3_17_1.3_17_1_2
+        3.3_17.3_17_1.3_17_1_3
+        3.3_17.3_17_1.3_17_1_4
+      >>>
+        {step:next Continue}
     / Hormones
     step
-      --
+      >>>
+        ## Hormones
+      >>
         3.3_17.3_17_2.3_17_2_0
+      --- Hormones - In Depth
+        3.3_17.3_17_2.3_17_2_1
+        3.3_17.3_17_2.3_17_2_2
+        3.3_17.3_17_2.3_17_2_3
+        3.3_17.3_17_2.3_17_2_4
+        3.3_17.3_17_2.3_17_2_5
+      >>>
+        {step:next Continue}
     / The Pituitary Gland and Hypothalamus
     step
-      --
+      >>>
+        ## The Pituitary Gland and Hypothalamus
+      >>
         3.3_17.3_17_3.3_17_3_0
+      --- The Pituitary Gland and Hypothalamus - In Depth
+        3.3_17.3_17_3.3_17_3_1
+        3.3_17.3_17_3.3_17_3_2
+        3.3_17.3_17_3.3_17_3_3
+        3.3_17.3_17_3.3_17_3_4
+      >>>
+        {step:next Continue}
     / The Thyroid Gland
     step
-      --
+      >>>
+        ## The Thyroid Gland
+      >>
         3.3_17.3_17_4.3_17_4_0
+      --- The Thyroid Gland - In Depth
+        3.3_17.3_17_4.3_17_4_1
+        3.3_17.3_17_4.3_17_4_2
+        3.3_17.3_17_4.3_17_4_3
+        3.3_17.3_17_4.3_17_4_4
+        3.3_17.3_17_4.3_17_4_5
+      >>>
+        {step:next Continue}
     / The Parathyroid Glands
     step
-      --
+      >>>
+        ## The Parathyroid Glands
+      >>
         3.3_17.3_17_5.3_17_5_0
+      --- The Parathyroid Glands - In Depth
+        3.3_17.3_17_5.3_17_5_1
+      >>>
+        {step:next Continue}
     / The Adrenal Glands
     step
-      --
+      >>>
+        ## The Adrenal Glands
+      >>
         3.3_17.3_17_6.3_17_6_0
+      --- The Adrenal Glands - In Depth
+        3.3_17.3_17_6.3_17_6_1
+        3.3_17.3_17_6.3_17_6_2
+        3.3_17.3_17_6.3_17_6_3
+        3.3_17.3_17_6.3_17_6_4
+      >>>
+        {step:next Continue}
     / The Pineal Gland
     step
-      --
+      >>>
+        ## The Pineal Gland
+      >>
         3.3_17.3_17_7.3_17_7_0
+      --- The Pineal Gland - In Depth
+        3.3_17.3_17_7.3_17_7_1
+      >>>
+        {step:next Continue}
     / Gonadal and Placental Hormones
     step
-      --
+      >>>
+        ## Gonadal and Placental Hormones
+      >>
         3.3_17.3_17_8.3_17_8_0
+      --- Gonadal and Placental Hormones - In Depth
+        3.3_17.3_17_8.3_17_8_1
+      >>>
+        {step:next Continue}
     / The Endocrine Pancreas
     step
-      --
+      >>>
+        ## The Endocrine Pancreas
+      >>
         3.3_17.3_17_9.3_17_9_0
+      --- The Endocrine Pancreas - In Depth
+        3.3_17.3_17_9.3_17_9_1
+        3.3_17.3_17_9.3_17_9_2
+        3.3_17.3_17_9.3_17_9_3
+      >>>
+        {step:next Continue}
     / Organs with Secondary Endocrine Functions
     step
-      --
+      >>>
+        ## Organs with Secondary Endocrine Functions
+      >>
         3.3_17.3_17_10.3_17_10_0
+      --- Organs with Secondary Endocrine Functions - In Depth
+        3.3_17.3_17_10.3_17_10_1
+        3.3_17.3_17_10.3_17_10_2
+        3.3_17.3_17_10.3_17_10_3
+        3.3_17.3_17_10.3_17_10_4
+        3.3_17.3_17_10.3_17_10_5
+        3.3_17.3_17_10.3_17_10_6
+        3.3_17.3_17_10.3_17_10_7
+        3.3_17.3_17_10.3_17_10_8
+        3.3_17.3_17_10.3_17_10_9
+      >>>
+        {step:next Continue}
     / Development and Aging of the Endocrine System
     step
-      --
+      >>>
+        ## Development and Aging of the Endocrine System
+      >>
         3.3_17.3_17_11.3_17_11_0
+      --- Development and Aging of the Endocrine System - In Depth
+        3.3_17.3_17_11.3_17_11_1
+      >>>
+        {step:next Continue}
 
   / 3 - Full Text
   // Unit 3: Regulation, Integration, and Control - Full Text
@@ -191,10 +485,6 @@ space 3
     step
       --
         3.3_12.3_12_1.3_12_1_3
-    / Interactive Link Questions
-    step
-      --
-        3.3_12.3_12_1.3_12_1_4
     / Nervous Tissue - Introduction
     step
       --
@@ -211,10 +501,6 @@ space 3
     step
       --
         3.3_12.3_12_2.3_12_2_3
-    / Interactive Link Questions
-    step
-      --
-        3.3_12.3_12_2.3_12_2_4
     / The Function of Nervous Tissue - Introduction
     step
       --
@@ -239,10 +525,6 @@ space 3
     step
       --
         3.3_12.3_12_4.3_12_4_3
-    / Interactive Link Questions
-    step
-      --
-        3.3_12.3_12_4.3_12_4_4
     / Communication Between Neurons - Introduction
     step
       --
@@ -259,10 +541,6 @@ space 3
     step
       --
         3.3_12.3_12_5.3_12_5_3
-    / Interactive Link Questions
-    step
-      --
-        3.3_12.3_12_5.3_12_5_4
     / Anatomy of the Nervous System - Introduction
     step
       --
@@ -295,10 +573,6 @@ space 3
     step
       --
         3.3_13.3_13_1.3_13_1_6
-    / Interactive Link Questions
-    step
-      --
-        3.3_13.3_13_1.3_13_1_7
     / The Central Nervous System - Introduction
     step
       --
@@ -327,10 +601,6 @@ space 3
     step
       --
         3.3_13.3_13_2.3_13_2_6
-    / Interactive Link Questions
-    step
-      --
-        3.3_13.3_13_2.3_13_2_7
     / Circulation and the Central Nervous System - Introduction
     step
       --
@@ -351,10 +621,6 @@ space 3
     step
       --
         3.3_13.3_13_3.3_13_3_4
-    / Interactive Link Questions
-    step
-      --
-        3.3_13.3_13_3.3_13_3_5
     / The Peripheral Nervous System - Introduction
     step
       --
@@ -371,10 +637,6 @@ space 3
     step
       --
         3.3_13.3_13_4.3_13_4_3
-    / Interactive Link Questions
-    step
-      --
-        3.3_13.3_13_4.3_13_4_4
     / The Somatic Nervous System - Introduction
     step
       --
@@ -399,10 +661,6 @@ space 3
     step
       --
         3.3_14.3_14_1.3_14_1_4
-    / Interactive Link Questions
-    step
-      --
-        3.3_14.3_14_1.3_14_1_5
     / Sensory Pathways
     step
       --
@@ -415,10 +673,6 @@ space 3
     step
       --
         3.3_14.3_14_2.3_14_2_2
-    / Interactive Link Questions
-    step
-      --
-        3.3_14.3_14_2.3_14_2_3
     / Motor Responses - Introduction
     step
       --
@@ -447,10 +701,6 @@ space 3
     step
       --
         3.3_14.3_14_3.3_14_3_6
-    / Interactive Link Questions
-    step
-      --
-        3.3_14.3_14_3.3_14_3_7
     / The Autonomic Nervous System - Introduction
     step
       --
@@ -475,10 +725,6 @@ space 3
     step
       --
         3.3_15.3_15_1.3_15_1_4
-    / Interactive Link Questions
-    step
-      --
-        3.3_15.3_15_1.3_15_1_5
     / Autonomic Reflexes and Homeostasis - Introduction
     step
       --
@@ -495,10 +741,6 @@ space 3
     step
       --
         3.3_15.3_15_2.3_15_2_3
-    / Interactive Link Questions
-    step
-      --
-        3.3_15.3_15_2.3_15_2_4
     / Central Control - Introduction
     step
       --
@@ -515,10 +757,6 @@ space 3
     step
       --
         3.3_15.3_15_3.3_15_3_3
-    / Interactive Link Questions
-    step
-      --
-        3.3_15.3_15_3.3_15_3_4
     / Drugs that Affect the Autonomic System - Introduction
     step
       --
@@ -539,10 +777,6 @@ space 3
     step
       --
         3.3_15.3_15_4.3_15_4_4
-    / Interactive Link Questions
-    step
-      --
-        3.3_15.3_15_4.3_15_4_5
     / The Neurological Exam - Introduction
     step
       --
@@ -563,10 +797,6 @@ space 3
     step
       --
         3.3_16.3_16_1.3_16_1_3
-    / Interactive Link Questions
-    step
-      --
-        3.3_16.3_16_1.3_16_1_4
     / The Mental Status Exam - Introduction
     step
       --
@@ -583,10 +813,6 @@ space 3
     step
       --
         3.3_16.3_16_2.3_16_2_3
-    / Interactive Link Questions
-    step
-      --
-        3.3_16.3_16_2.3_16_2_4
     / The Cranial Nerve Exam - Introduction
     step
       --
@@ -611,10 +837,6 @@ space 3
     step
       --
         3.3_16.3_16_3.3_16_3_5
-    / Interactive Link Questions
-    step
-      --
-        3.3_16.3_16_3.3_16_3_6
     / The Sensory and Motor Exams - Introduction
     step
       --
@@ -639,10 +861,6 @@ space 3
     step
       --
         3.3_16.3_16_4.3_16_4_5
-    / Interactive Link Questions
-    step
-      --
-        3.3_16.3_16_4.3_16_4_6
     / The Coordination and Gait Exams - Introduction
     step
       --
@@ -667,10 +885,6 @@ space 3
     step
       --
         3.3_16.3_16_5.3_16_5_5
-    / Interactive Link Questions
-    step
-      --
-        3.3_16.3_16_5.3_16_5_6
     / The Endocrine System - Introduction
     step
       --
@@ -695,10 +909,6 @@ space 3
     step
       --
         3.3_17.3_17_1.3_17_1_4
-    / Interactive Link Questions
-    step
-      --
-        3.3_17.3_17_1.3_17_1_5
     / Hormones - Introduction
     step
       --
@@ -743,10 +953,6 @@ space 3
     step
       --
         3.3_17.3_17_3.3_17_3_4
-    / Interactive Link Questions
-    step
-      --
-        3.3_17.3_17_3.3_17_3_5
     / The Thyroid Gland - Introduction
     step
       --
@@ -799,10 +1005,6 @@ space 3
     step
       --
         3.3_17.3_17_6.3_17_6_4
-    / Interactive Link Questions
-    step
-      --
-        3.3_17.3_17_6.3_17_6_5
     / The Pineal Gland - Introduction
     step
       --
@@ -811,10 +1013,6 @@ space 3
     step
       --
         3.3_17.3_17_7.3_17_7_1
-    / Interactive Link Questions
-    step
-      --
-        3.3_17.3_17_7.3_17_7_2
     / Gonadal and Placental Hormones - Introduction
     step
       --
@@ -839,10 +1037,6 @@ space 3
     step
       --
         3.3_17.3_17_9.3_17_9_3
-    / Interactive Link Questions
-    step
-      --
-        3.3_17.3_17_9.3_17_9_4
     / Organs with Secondary Endocrine Functions - Introduction
     step
       --

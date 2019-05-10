@@ -13,6 +13,7 @@ story 3_10_3
     3_10_3_3
     3_10_3_4
 
+  / Genomics and Proteomics - Full Text
   path FullText
     step
       --

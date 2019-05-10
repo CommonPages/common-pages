@@ -24,6 +24,7 @@ story 5_24_3
     5_24_3_4
     5_24_3_5
 
+  / Lipid Metabolism - Full Text
   path FullText
     step
       --

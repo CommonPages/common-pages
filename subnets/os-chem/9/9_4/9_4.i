@@ -19,6 +19,7 @@ story 9_4
     9_4_4
     9_4_5
 
+  / Strengths of Ionic and Covalent Bonds - Full Text
   path FullText
     step
       --

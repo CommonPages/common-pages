@@ -10,6 +10,7 @@ story 20_5
     20_5_1
     20_5_2
 
+  / Alternating Current versus Direct Current - Full Text
   path FullText
     step
       --

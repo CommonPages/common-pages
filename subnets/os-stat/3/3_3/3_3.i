@@ -14,6 +14,7 @@ story 3_3
     3_3_5
     3_3_6
 
+  / Two Basic Rules of Probability - Full Text
   path FullText
     step
       --

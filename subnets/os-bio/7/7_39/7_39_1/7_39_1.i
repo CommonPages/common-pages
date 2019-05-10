@@ -19,7 +19,9 @@ story 7_39_1
     7_39_1_4
     7_39_1_5
     7_39_1_6
+    7_39_1_7
 
+  / Systems of Gas Exchange - Full Text
   path FullText
     step
       --
@@ -42,5 +44,8 @@ story 7_39_1
     step
       --
         7_39_1_6
+    step
+      --
+        7_39_1_7
 
     

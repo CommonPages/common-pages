@@ -11,8 +11,8 @@ story 3_12_5
     3_12_5_1
     3_12_5_2
     3_12_5_3
-    3_12_5_4
 
+  / Communication Between Neurons - Full Text
   path FullText
     step
       --
@@ -26,8 +26,5 @@ story 3_12_5
     step
       --
         3_12_5_3
-    step
-      --
-        3_12_5_4
 
     

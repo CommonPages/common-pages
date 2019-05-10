@@ -2,9 +2,9 @@
 / Bacterial Diseases in Humans
 story 5_22_4
   >
-    Devastating pathogen-borne diseases and plagues, both viral and bacterial in nature, have affected humans since the beginning of human history. The true cause of these diseases was not understood at the time, and some people thought that diseases were a spiritual punishment. Over time, people came to realize that staying apart from afflicted persons, and disposing of the corpses and personal belongings of victims of illness, reduced their own chances of getting sick.
+    To a prokaryote, humans may be just another housing opportunity. Unfortunately, the tenancy of some species can have harmful effects and cause disease. Bacteria or other infectious agents that cause harm to their human hosts are called  **pathogens**. Devastating pathogen-borne diseases and plagues, both viral and bacterial in nature, have affected humans and their ancestors for millions of years. The true cause of these diseases was not understood until modern scientific thought developed, and many people thought that diseases were a “spiritual punishment.” Only within the past several centuries have people understood that staying away from afflicted persons, disposing of the corpses and personal belongings of victims of illness, and sanitation practices reduced their own chances of getting sick.
     
-    Epidemiologists study how diseases affect a population. An  **epidemic** is a disease that occurs in an unusually high number of individuals in a population at the same time. A  **pandemic** is a widespread, usually worldwide, epidemic. An  **endemic disease** is a disease that is constantly present, usually at low incidence, in a population.
+    Epidemiologists study how diseases are transmitted and how they affect a population. Often, they must following the course of an  **epidemic**—a disease that occurs in an unusually high number of individuals in a population at the same time. In contrast, a  **pandemic** is a widespread, and usually worldwide, epidemic. An  **endemic disease** is a disease that is always present, usually at low incidence, in a population.
 
   apply FullText
 
@@ -15,8 +15,8 @@ story 5_22_4
     5_22_4_3
     5_22_4_4
     5_22_4_5
-    5_22_4_6
 
+  / Bacterial Diseases in Humans - Full Text
   path FullText
     step
       --
@@ -36,8 +36,5 @@ story 5_22_4
     step
       --
         5_22_4_5
-    step
-      --
-        5_22_4_6
 
     

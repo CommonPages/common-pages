@@ -16,6 +16,7 @@ story 21_4
     21_4_5
     21_4_6
 
+  / Mycoses of the Skin - Full Text
   path FullText
     step
       --

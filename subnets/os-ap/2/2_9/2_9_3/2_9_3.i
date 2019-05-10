@@ -14,8 +14,8 @@ story 2_9_3
     2_9_3_1
     2_9_3_2
     2_9_3_3
-    2_9_3_4
 
+  / Cartilaginous Joints - Full Text
   path FullText
     step
       --
@@ -29,8 +29,5 @@ story 2_9_3
     step
       --
         2_9_3_3
-    step
-      --
-        2_9_3_4
 
     

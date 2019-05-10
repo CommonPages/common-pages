@@ -11,6 +11,7 @@ story 2_2
     2_2_2
     2_2_3
 
+  / Peering Into the Invisible World - Full Text
   path FullText
     step
       --

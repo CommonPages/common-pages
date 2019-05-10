@@ -12,6 +12,7 @@ story 2_9_1
     2_9_1_2
     2_9_1_3
 
+  / Classification of Joints - Full Text
   path FullText
     step
       --

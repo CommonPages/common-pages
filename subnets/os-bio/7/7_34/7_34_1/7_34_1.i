@@ -14,6 +14,7 @@ story 7_34_1
     7_34_1_4
     7_34_1_5
 
+  / Digestive Systems - Full Text
   path FullText
     step
       --

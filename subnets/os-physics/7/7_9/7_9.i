@@ -14,6 +14,7 @@ story 7_9
     7_9_4
     7_9_5
 
+  / World Energy Use - Full Text
   path FullText
     step
       --

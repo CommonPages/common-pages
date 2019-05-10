@@ -20,6 +20,7 @@ story 2_10_5
     2_10_5_0
     2_10_5_1
 
+  / Types of Muscle Fibers - Full Text
   path FullText
     step
       --

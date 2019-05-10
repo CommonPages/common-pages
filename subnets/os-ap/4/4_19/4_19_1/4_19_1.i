@@ -15,8 +15,8 @@ story 4_19_1
     4_19_1_5
     4_19_1_6
     4_19_1_7
-    4_19_1_8
 
+  / Heart Anatomy - Full Text
   path FullText
     step
       --
@@ -42,8 +42,5 @@ story 4_19_1
     step
       --
         4_19_1_7
-    step
-      --
-        4_19_1_8
 
     

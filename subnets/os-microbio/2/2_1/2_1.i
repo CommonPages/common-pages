@@ -17,6 +17,7 @@ story 2_1
     2_1_5
     2_1_6
 
+  / The Properties of Light - Full Text
   path FullText
     step
       --

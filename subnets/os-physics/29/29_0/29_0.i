@@ -19,6 +19,7 @@ story 29_0
   ---
     29_0_0
 
+  / Introduction to Quantum Physics - Full Text
   path FullText
     step
       --

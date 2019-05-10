@@ -14,6 +14,7 @@ story 24_5
     24_5_5
     24_5_6
 
+  / Protozoan Infections of the Gastrointestinal Tract - Full Text
   path FullText
     step
       --

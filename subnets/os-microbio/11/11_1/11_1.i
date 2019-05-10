@@ -19,8 +19,8 @@ story 11_1
   ---
     11_1_1
     11_1_2
-    11_1_3
 
+  / The Functions of Genetic Material - Full Text
   path FullText
     step
       --
@@ -28,8 +28,5 @@ story 11_1
     step
       --
         11_1_2
-    step
-      --
-        11_1_3
 
     

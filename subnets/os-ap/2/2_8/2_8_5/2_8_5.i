@@ -11,8 +11,8 @@ story 2_8_5
     2_8_5_1
     2_8_5_2
     2_8_5_3
-    2_8_5_4
 
+  / Development of the Appendicular Skeleton - Full Text
   path FullText
     step
       --
@@ -26,8 +26,5 @@ story 2_8_5
     step
       --
         2_8_5_3
-    step
-      --
-        2_8_5_4
 
     

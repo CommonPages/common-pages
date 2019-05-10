@@ -12,6 +12,7 @@ story 31_0
   ---
     31_0_0
 
+  / Introduction to Radioactivity and Nuclear Physics - Full Text
   path FullText
     step
       --

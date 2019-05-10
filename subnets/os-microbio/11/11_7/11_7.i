@@ -21,6 +21,7 @@ story 11_7
     11_7_6
     11_7_7
 
+  / Gene Regulation: Operon Theory - Full Text
   path FullText
     step
       --

@@ -15,6 +15,7 @@ story 26_1
     26_1_6
     26_1_7
 
+  / Anatomy of the Nervous System - Full Text
   path FullText
     step
       --

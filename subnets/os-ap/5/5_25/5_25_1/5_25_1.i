@@ -41,6 +41,7 @@ story 5_25_1
     5_25_1_0
     5_25_1_1
 
+  / Physical Characteristics of Urine - Full Text
   path FullText
     step
       --

@@ -4,6 +4,7 @@
 space 2_10
 
   ^^
+    SkimPath
     FullPath
 
   insert 2.2_10.2_10_0.2_10_0_0
@@ -18,6 +19,136 @@ space 2_10
     2_10_7
     2_10_8
     2_10_9
+
+
+  / Key Concepts
+  // Muscle Tissue - Key Concepts
+  path SkimPath
+    / Muscle Tissue
+    step
+      >>>
+        ## Muscle Tissue
+      >>
+        2.2_10.2_10_0.2_10_0_0
+      >>>
+        {step:next Continue}
+
+    / Overview of Muscle Tissues
+    step
+      >>>
+        ## Overview of Muscle Tissues
+      >>
+        2.2_10.2_10_1.2_10_1_0
+      --- Overview of Muscle Tissues - In Depth
+        2.2_10.2_10_1.2_10_1_1
+      >>>
+        {step:next Continue}
+
+    / Skeletal Muscle
+    step
+      >>>
+        ## Skeletal Muscle
+      >>
+        2.2_10.2_10_2.2_10_2_0
+      --- Skeletal Muscle - In Depth
+        2.2_10.2_10_2.2_10_2_1
+        2.2_10.2_10_2.2_10_2_2
+        2.2_10.2_10_2.2_10_2_3
+        2.2_10.2_10_2.2_10_2_4
+        2.2_10.2_10_2.2_10_2_5
+      >>>
+        {step:next Continue}
+
+    / Muscle Fiber Contraction and Relaxation
+    step
+      >>>
+        ## Muscle Fiber Contraction and Relaxation
+      >>
+        2.2_10.2_10_3.2_10_3_0
+      --- Muscle Fiber Contraction and Relaxation - In Depth
+        2.2_10.2_10_3.2_10_3_1
+        2.2_10.2_10_3.2_10_3_2
+        2.2_10.2_10_3.2_10_3_3
+        2.2_10.2_10_3.2_10_3_4
+        2.2_10.2_10_3.2_10_3_5
+        2.2_10.2_10_3.2_10_3_6
+      >>>
+        {step:next Continue}
+
+    / Nervous System Control of Muscle Tension
+    step
+      >>>
+        ## Nervous System Control of Muscle Tension
+      >>
+        2.2_10.2_10_4.2_10_4_0
+      --- Nervous System Control of Muscle Tension - In Depth
+        2.2_10.2_10_4.2_10_4_1
+        2.2_10.2_10_4.2_10_4_2
+        2.2_10.2_10_4.2_10_4_3
+        2.2_10.2_10_4.2_10_4_4
+        2.2_10.2_10_4.2_10_4_5
+        2.2_10.2_10_4.2_10_4_6
+      >>>
+        {step:next Continue}
+
+    / Types of Muscle Fibers
+    step
+      >>>
+        ## Types of Muscle Fibers
+      >>
+        2.2_10.2_10_5.2_10_5_0
+      --- Types of Muscle Fibers - In Depth
+        2.2_10.2_10_5.2_10_5_1
+      >>>
+        {step:next Continue}
+
+    / Exercise and Muscle Performance
+    step
+      >>>
+        ## Exercise and Muscle Performance
+      >>
+        2.2_10.2_10_6.2_10_6_0
+      --- Exercise and Muscle Performance - In Depth
+        2.2_10.2_10_6.2_10_6_1
+        2.2_10.2_10_6.2_10_6_2
+        2.2_10.2_10_6.2_10_6_3
+        2.2_10.2_10_6.2_10_6_4
+      >>>
+        {step:next Continue}
+
+    / Cardiac Muscle Tissue
+    step
+      >>>
+        ## Cardiac Muscle Tissue
+      >>
+        2.2_10.2_10_7.2_10_7_0
+      --- Cardiac Muscle Tissue - In Depth
+        2.2_10.2_10_7.2_10_7_1
+      >>>
+        {step:next Continue}
+
+    / Smooth Muscle
+    step
+      >>>
+        ## Smooth Muscle
+      >>
+        2.2_10.2_10_8.2_10_8_0
+      --- Smooth Muscle - In Depth
+        2.2_10.2_10_8.2_10_8_1
+        2.2_10.2_10_8.2_10_8_2
+      >>>
+        {step:next Continue}
+
+    / Development and Regeneration of Muscle Tissue
+    step
+      >>>
+        ## Development and Regeneration of Muscle Tissue
+      >>
+        2.2_10.2_10_9.2_10_9_0
+      --- Development and Regeneration of Muscle Tissue - In Depth
+        2.2_10.2_10_9.2_10_9_1
+      >>>
+        {step:exit}
 
 
   / 2.10 - Full Text
@@ -59,10 +190,6 @@ space 2_10
     step
       --
         2.2_10.2_10_2.2_10_2_5
-    / Interactive Link Questions
-    step
-      --
-        2.2_10.2_10_2.2_10_2_6
     / Muscle Fiber Contraction and Relaxation - Introduction
     step
       --
@@ -91,10 +218,6 @@ space 2_10
     step
       --
         2.2_10.2_10_3.2_10_3_6
-    / Interactive Link Questions
-    step
-      --
-        2.2_10.2_10_3.2_10_3_7
     / Nervous System Control of Muscle Tension - Introduction
     step
       --

@@ -19,6 +19,7 @@ story 7_41_5
     7_41_5_5
     7_41_5_6
 
+  / Hormonal Control of Osmoregulatory Functions - Full Text
   path FullText
     step
       --

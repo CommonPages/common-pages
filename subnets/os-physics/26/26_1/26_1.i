@@ -42,6 +42,7 @@ story 26_1
     26_1_0
     26_1_1
 
+  / Physics of the Eye - Full Text
   path FullText
     step
       --

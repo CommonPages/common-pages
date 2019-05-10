@@ -35,6 +35,7 @@ story 25_6
     25_6_3
     25_6_4
 
+  / Image Formation by Lenses - Full Text
   path FullText
     step
       --

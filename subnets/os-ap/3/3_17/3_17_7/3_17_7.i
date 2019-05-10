@@ -15,8 +15,8 @@ story 3_17_7
   ---
     3_17_7_0
     3_17_7_1
-    3_17_7_2
 
+  / The Pineal Gland - Full Text
   path FullText
     step
       --
@@ -24,8 +24,5 @@ story 3_17_7
     step
       --
         3_17_7_1
-    step
-      --
-        3_17_7_2
 
     

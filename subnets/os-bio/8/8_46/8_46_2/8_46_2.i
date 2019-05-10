@@ -17,6 +17,7 @@ story 8_46_2
     8_46_2_5
     8_46_2_6
 
+  / Energy Flow through Ecosystems - Full Text
   path FullText
     step
       --

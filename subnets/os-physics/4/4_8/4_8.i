@@ -24,6 +24,7 @@ story 4_8
     4_8_1
     4_8_2
 
+  / Extended Topic: The Four Basic Forces—An Introduction - Full Text
   path FullText
     step
       --

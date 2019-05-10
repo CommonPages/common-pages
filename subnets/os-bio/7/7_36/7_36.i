@@ -4,6 +4,7 @@
 space 7_36
 
   ^^
+    SkimPath
     FullPath
 
   insert 7.7_36.7_36_0.7_36_0_0
@@ -14,6 +15,91 @@ space 7_36
     7_36_3
     7_36_4
     7_36_5
+
+
+  / Key Concepts
+  // Sensory Systems - Key Concepts
+  path SkimPath
+    / Sensory Systems
+    step
+      >>>
+        ## Sensory Systems
+      >>
+        7.7_36.7_36_0.7_36_0_0
+      >>>
+        {step:next Continue}
+
+    / Sensory Processes
+    step
+      >>>
+        ## Sensory Processes
+      >>
+        7.7_36.7_36_1.7_36_1_0
+      --- Sensory Processes - In Depth
+        7.7_36.7_36_1.7_36_1_1
+        7.7_36.7_36_1.7_36_1_2
+        7.7_36.7_36_1.7_36_1_3
+        7.7_36.7_36_1.7_36_1_4
+      >>>
+        {step:next Continue}
+
+    / Somatosensation
+    step
+      >>>
+        ## Somatosensation
+      >>
+        7.7_36.7_36_2.7_36_2_0
+      --- Somatosensation - In Depth
+        7.7_36.7_36_2.7_36_2_1
+        7.7_36.7_36_2.7_36_2_2
+        7.7_36.7_36_2.7_36_2_3
+        7.7_36.7_36_2.7_36_2_4
+      >>>
+        {step:next Continue}
+
+    / Taste and Smell
+    step
+      >>>
+        ## Taste and Smell
+      >>
+        7.7_36.7_36_3.7_36_3_0
+      --- Taste and Smell - In Depth
+        7.7_36.7_36_3.7_36_3_1
+        7.7_36.7_36_3.7_36_3_2
+        7.7_36.7_36_3.7_36_3_3
+        7.7_36.7_36_3.7_36_3_4
+      >>>
+        {step:next Continue}
+
+    / Hearing and Vestibular Sensation
+    step
+      >>>
+        ## Hearing and Vestibular Sensation
+      >>
+        7.7_36.7_36_4.7_36_4_0
+      --- Hearing and Vestibular Sensation - In Depth
+        7.7_36.7_36_4.7_36_4_1
+        7.7_36.7_36_4.7_36_4_2
+        7.7_36.7_36_4.7_36_4_3
+        7.7_36.7_36_4.7_36_4_4
+        7.7_36.7_36_4.7_36_4_5
+      >>>
+        {step:next Continue}
+
+    / Vision
+    step
+      >>>
+        ## Vision
+      >>
+        7.7_36.7_36_5.7_36_5_0
+      --- Vision - In Depth
+        7.7_36.7_36_5.7_36_5_1
+        7.7_36.7_36_5.7_36_5_2
+        7.7_36.7_36_5.7_36_5_3
+        7.7_36.7_36_5.7_36_5_4
+        7.7_36.7_36_5.7_36_5_5
+      >>>
+        {step:exit}
 
 
   / 7.36 - Full Text

@@ -4,6 +4,7 @@
 space 5_16
 
   ^^
+    SkimPath
     FullPath
 
   insert 5.5_16.5_16_0.5_16_0_0
@@ -15,6 +16,109 @@ space 5_16
     5_16_4
     5_16_5
     5_16_6
+
+
+  / Key Concepts
+  // The Body’s Systems - Key Concepts
+  path SkimPath
+    / The Body’s Systems
+    step
+      >>>
+        ## The Body’s Systems
+      >>
+        5.5_16.5_16_0.5_16_0_0
+      >>>
+        {step:next Continue}
+
+    / Homeostasis and Osmoregulation
+    step
+      >>>
+        ## Homeostasis and Osmoregulation
+      >>
+        5.5_16.5_16_1.5_16_1_0
+      --- Homeostasis and Osmoregulation - In Depth
+        5.5_16.5_16_1.5_16_1_1
+        5.5_16.5_16_1.5_16_1_2
+        5.5_16.5_16_1.5_16_1_3
+        5.5_16.5_16_1.5_16_1_4
+      >>>
+        {step:next Continue}
+
+    / Digestive System
+    step
+      >>>
+        ## Digestive System
+      >>
+        5.5_16.5_16_2.5_16_2_0
+      --- Digestive System - In Depth
+        5.5_16.5_16_2.5_16_2_1
+        5.5_16.5_16_2.5_16_2_2
+        5.5_16.5_16_2.5_16_2_3
+      >>>
+        {step:next Continue}
+
+    / Circulatory and Respiratory Systems
+    step
+      >>>
+        ## Circulatory and Respiratory Systems
+      >>
+        5.5_16.5_16_3.5_16_3_0
+      --- Circulatory and Respiratory Systems - In Depth
+        5.5_16.5_16_3.5_16_3_1
+        5.5_16.5_16_3.5_16_3_2
+        5.5_16.5_16_3.5_16_3_3
+        5.5_16.5_16_3.5_16_3_4
+        5.5_16.5_16_3.5_16_3_5
+        5.5_16.5_16_3.5_16_3_6
+      >>>
+        {step:next Continue}
+
+    / Endocrine System
+    step
+      >>>
+        ## Endocrine System
+      >>
+        5.5_16.5_16_4.5_16_4_0
+      --- Endocrine System - In Depth
+        5.5_16.5_16_4.5_16_4_1
+        5.5_16.5_16_4.5_16_4_2
+        5.5_16.5_16_4.5_16_4_3
+        5.5_16.5_16_4.5_16_4_4
+        5.5_16.5_16_4.5_16_4_5
+      >>>
+        {step:next Continue}
+
+    / Musculoskeletal System
+    step
+      >>>
+        ## Musculoskeletal System
+      >>
+        5.5_16.5_16_5.5_16_5_0
+      --- Musculoskeletal System - In Depth
+        5.5_16.5_16_5.5_16_5_1
+        5.5_16.5_16_5.5_16_5_2
+        5.5_16.5_16_5.5_16_5_3
+        5.5_16.5_16_5.5_16_5_4
+        5.5_16.5_16_5.5_16_5_5
+      >>>
+        {step:next Continue}
+
+    / Nervous System
+    step
+      >>>
+        ## Nervous System
+      >>
+        5.5_16.5_16_6.5_16_6_0
+      --- Nervous System - In Depth
+        5.5_16.5_16_6.5_16_6_1
+        5.5_16.5_16_6.5_16_6_2
+        5.5_16.5_16_6.5_16_6_3
+        5.5_16.5_16_6.5_16_6_4
+        5.5_16.5_16_6.5_16_6_5
+        5.5_16.5_16_6.5_16_6_6
+        5.5_16.5_16_6.5_16_6_7
+      >>>
+        {step:exit}
 
 
   / 5.16 - Full Text

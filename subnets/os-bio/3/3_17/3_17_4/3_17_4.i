@@ -2,7 +2,7 @@
 / Applying Genomics
 story 3_17_4
   >
-    The introduction of DNA sequencing and whole genome sequencing projects, particularly the Human Genome project, has expanded the applicability of DNA sequence information. Genomics is now being used in a wide variety of fields, such as metagenomics, pharmacogenomics, and mitochondrial genomics. The most commonly known application of genomics is to understand and find cures for diseases.
+    Introducing DNA sequencing and whole genome sequencing projects, particularly the Human Genome project, has expanded the applicability of DNA sequence information. Many fields, such as metagenomics, pharmacogenomics, and mitochondrial genomics are using genomics. Understanding and finding cures for diseases is the most common application of genomics.
 
   apply FullText
 
@@ -16,6 +16,7 @@ story 3_17_4
     3_17_4_6
     3_17_4_7
 
+  / Applying Genomics - Full Text
   path FullText
     step
       --

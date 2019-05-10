@@ -20,6 +20,7 @@ story 4_21_5
     4_21_5_5
     4_21_5_6
 
+  / The Immune Response against Pathogens - Full Text
   path FullText
     step
       --

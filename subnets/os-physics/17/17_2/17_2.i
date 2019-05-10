@@ -69,6 +69,7 @@ story 17_2
     17_2_0
     17_2_1
 
+  / Speed of Sound, Frequency, and Wavelength - Full Text
   path FullText
     step
       --

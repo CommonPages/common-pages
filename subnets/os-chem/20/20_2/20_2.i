@@ -12,6 +12,7 @@ story 20_2
     20_2_2
     20_2_3
 
+  / Nuclear Equations - Full Text
   path FullText
     step
       --

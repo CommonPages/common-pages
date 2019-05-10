@@ -19,6 +19,7 @@ story 6_1
     6_1_4
     6_1_5
 
+  / The Standard Normal Distribution - Full Text
   path FullText
     step
       --

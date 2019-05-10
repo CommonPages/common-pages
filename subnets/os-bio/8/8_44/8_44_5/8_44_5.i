@@ -2,7 +2,7 @@
 / Climate and the Effects of Global Climate Change
 story 8_44_5
   >
-    All biomes are universally affected by global conditions, such as climate, that ultimately shape each biome’s environment. Scientists who study climate have noted a series of marked changes that have gradually become increasingly evident during the last sixty years.  **Global climate change** is the term used to describe altered global weather patterns, including a worldwide increase in temperature, due largely to rising levels of atmospheric carbon dioxide.
+    All biomes are  *universally affected* by global conditions, such as climate, that ultimately shape each biome’s environment. Scientists who study climate have noted a series of marked changes that have gradually become increasingly evident during the last sixty years.  **Global climate change** is the term used to describe altered global weather patterns, especially a worldwide increase in temperature and resulting changes in the climate, due largely to rising levels of atmospheric carbon dioxide.
 
   apply FullText
 
@@ -13,6 +13,7 @@ story 8_44_5
     8_44_5_3
     8_44_5_4
 
+  / Climate and the Effects of Global Climate Change - Full Text
   path FullText
     step
       --

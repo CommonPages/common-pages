@@ -23,6 +23,7 @@ story 18_1
     18_1_5
     18_1_6
 
+  / Overview of Specific Adaptive Immunity - Full Text
   path FullText
     step
       --

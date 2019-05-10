@@ -12,6 +12,7 @@ story 7_34_4
     7_34_4_2
     7_34_4_3
 
+  / Digestive System Regulation - Full Text
   path FullText
     step
       --

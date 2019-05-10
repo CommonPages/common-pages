@@ -68,6 +68,7 @@ story 16_6
     16_6_0
     16_6_1
 
+  / Uniform Circular Motion and Simple Harmonic Motion - Full Text
   path FullText
     step
       --

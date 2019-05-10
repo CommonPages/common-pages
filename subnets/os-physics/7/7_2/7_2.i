@@ -11,6 +11,7 @@ story 7_2
     7_2_2
     7_2_3
 
+  / Kinetic Energy and the Work-Energy Theorem - Full Text
   path FullText
     step
       --

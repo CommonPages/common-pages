@@ -67,6 +67,7 @@ story 5_1
     5_1_0
     5_1_1
 
+  / Friction - Full Text
   path FullText
     step
       --

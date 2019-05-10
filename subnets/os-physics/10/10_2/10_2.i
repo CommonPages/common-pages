@@ -43,6 +43,7 @@ story 10_2
     10_2_0
     10_2_1
 
+  / Kinematics of Rotational Motion - Full Text
   path FullText
     step
       --

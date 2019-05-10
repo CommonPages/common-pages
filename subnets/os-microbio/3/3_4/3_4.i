@@ -28,8 +28,8 @@ story 3_4
     3_4_12
     3_4_13
     3_4_14
-    3_4_15
 
+  / Unique Characteristics of Eukaryotic Cells - Full Text
   path FullText
     step
       --
@@ -73,8 +73,5 @@ story 3_4
     step
       --
         3_4_14
-    step
-      --
-        3_4_15
 
     

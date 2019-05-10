@@ -12,6 +12,7 @@ story 21_5
     21_5_3
     21_5_4
 
+  / Protozoan and Helminthic Infections of the Skin and Eyes - Full Text
   path FullText
     step
       --

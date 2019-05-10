@@ -2,7 +2,7 @@
 / Active Transport
 story 2_5_3
   >
-     **Active transport** mechanisms require the use of the cell’s energy, usually in the form of adenosine triphosphate (ATP). If a substance must move into the cell against its concentration gradient—that is, if the concentration of the substance inside the cell is greater than its concentration in the extracellular fluid (and vice versa)—the cell must use energy to move the substance. Some active transport mechanisms move small-molecular weight materials, such as ions, through the membrane. Other mechanisms transport much larger molecules.
+     **Active transport** mechanisms require the cell’s energy, usually in the form of adenosine triphosphate (ATP). If a substance must move into the cell against its concentration gradient—that is, if the substance's concentration inside the cell is greater than its concentration in the extracellular fluid (and vice versa)—the cell must use energy to move the substance. Some active transport mechanisms move small-molecular weight materials, such as ions, through the membrane. Other mechanisms transport much larger molecules.
 
   apply FullText
 
@@ -13,6 +13,7 @@ story 2_5_3
     2_5_3_3
     2_5_3_4
 
+  / Active Transport - Full Text
   path FullText
     step
       --

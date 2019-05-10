@@ -19,8 +19,8 @@ story 4_21_4
     4_21_4_3
     4_21_4_4
     4_21_4_5
-    4_21_4_6
 
+  / The Adaptive Immune Response: B-lymphocytes and Antibodies - Full Text
   path FullText
     step
       --
@@ -40,8 +40,5 @@ story 4_21_4
     step
       --
         4_21_4_5
-    step
-      --
-        4_21_4_6
 
     

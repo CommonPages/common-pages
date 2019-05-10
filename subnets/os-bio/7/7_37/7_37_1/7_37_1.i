@@ -15,6 +15,7 @@ story 7_37_1
     7_37_1_3
     7_37_1_4
 
+  / Types of Hormones - Full Text
   path FullText
     step
       --

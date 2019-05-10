@@ -4,6 +4,7 @@
 space 17
 
   ^^
+    SkimPath
     FullPath
 
   insert 17.17_0.17_0_0
@@ -16,6 +17,104 @@ space 17
     17_5
     17_6
     17_7
+
+
+  / Key Concepts
+  // Kinetics - Key Concepts
+  path SkimPath
+    / Kinetics
+    step
+      >>>
+        ## Kinetics
+      >>
+        17.17_0.17_0_0
+      >>>
+        {step:next Continue}
+
+    / Chemical Reaction Rates
+    step
+      >>>
+        ## Chemical Reaction Rates
+      >>
+        17.17_1.17_1_0
+      --- Chemical Reaction Rates - In Depth
+        17.17_1.17_1_1
+        17.17_1.17_1_2
+        17.17_1.17_1_3
+      >>>
+        {step:next Continue}
+
+    / Factors Affecting Reaction Rates
+    step
+      >>>
+        ## Factors Affecting Reaction Rates
+      >>
+        17.17_2.17_2_0
+      --- Factors Affecting Reaction Rates - In Depth
+        17.17_2.17_2_1
+        17.17_2.17_2_2
+        17.17_2.17_2_3
+        17.17_2.17_2_4
+        17.17_2.17_2_5
+        17.17_2.17_2_6
+      >>>
+        {step:next Continue}
+
+    / Rate Laws
+    step
+      >>>
+        ## Rate Laws
+      >>
+        17.17_3.17_3_0
+      --- Rate Laws - In Depth
+        17.17_3.17_3_1
+        17.17_3.17_3_2
+      >>>
+        {step:next Continue}
+
+    / Integrated Rate Laws
+    step
+      >>>
+        ## Integrated Rate Laws
+      >>
+        17.17_4.17_4_0
+      --- Integrated Rate Laws - In Depth
+        17.17_4.17_4_1
+        17.17_4.17_4_2
+        17.17_4.17_4_3
+        17.17_4.17_4_4
+        17.17_4.17_4_5
+        17.17_4.17_4_6
+      >>>
+        {step:next Continue}
+
+    / Collision Theory
+    step
+      >>>
+        ## Collision Theory
+      >>
+        17.17_5.17_5_0
+      --- Collision Theory - In Depth
+        17.17_5.17_5_1
+        17.17_5.17_5_2
+        17.17_5.17_5_3
+      >>>
+        {step:next Continue}
+
+    / Reaction Mechanisms
+    step
+      >>>
+        ## Reaction Mechanisms
+      >>
+        17.17_6.17_6_0
+      --- Reaction Mechanisms - In Depth
+        17.17_6.17_6_1
+        17.17_6.17_6_2
+        17.17_6.17_6_3
+        17.17_6.17_6_4
+        17.17_6.17_6_5
+      >>>
+        {step:exit}
 
 
   / 17 - Full Text
@@ -49,7 +148,7 @@ space 17
     step
       --
         17.17_2.17_2_1
-    / The State of Subdivision of the Reactants
+    / The Physical States of the Reactants
     step
       --
         17.17_2.17_2_2
@@ -149,24 +248,20 @@ space 17
     step
       --
         17.17_6.17_6_5
-    / Catalysis - Introduction
-    step
-      --
-        17.17_7.17_7_0
     / Catalysts Do Not Affect Equilibrium
     step
       --
-        17.17_7.17_7_1
+        17.17_7.17_7_0
     / Homogeneous Catalysts
     step
       --
-        17.17_7.17_7_2
+        17.17_7.17_7_1
     / Heterogeneous Catalysts
     step
       --
-        17.17_7.17_7_3
+        17.17_7.17_7_2
     / Key Concepts and Summary
     step
       --
-        17.17_7.17_7_4
+        17.17_7.17_7_3
     

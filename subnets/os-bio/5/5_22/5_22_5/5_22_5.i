@@ -2,7 +2,7 @@
 / Beneficial Prokaryotes
 story 5_22_5
   >
-    Not all prokaryotes are pathogenic. On the contrary, pathogens represent only a very small percentage of the diversity of the microbial world. In fact, our life would not be possible without prokaryotes. Just think about the role of prokaryotes in biogeochemical cycles.
+    Fortunately, only a few species of prokaryotes are pathogenic! Prokaryotes also interact with humans and other organisms in a number of ways that are beneficial. For example, prokaryotes are major participants in the carbon and nitrogen cycles. They produce or process nutrients in the digestive tracts of humans and other animals. Prokaryotes are used in the production of some human foods, and also have been recruited for the degradation of hazardous materials. In fact, our life would not be possible without prokaryotes!
 
   apply FullText
 
@@ -13,6 +13,7 @@ story 5_22_5
     5_22_5_3
     5_22_5_4
 
+  / Beneficial Prokaryotes - Full Text
   path FullText
     step
       --

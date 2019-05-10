@@ -14,6 +14,7 @@ story 4_4
     4_4_4
     4_4_5
 
+  / Lewis Symbols and Structures - Full Text
   path FullText
     step
       --

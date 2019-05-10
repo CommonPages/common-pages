@@ -18,6 +18,7 @@ story 7_36_2
     7_36_2_3
     7_36_2_4
 
+  / Somatosensation - Full Text
   path FullText
     step
       --

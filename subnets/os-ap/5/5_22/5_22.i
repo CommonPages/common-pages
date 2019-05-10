@@ -4,6 +4,7 @@
 space 5_22
 
   ^^
+    SkimPath
     FullPath
 
   insert 5.5_22.5_22_0.5_22_0_0
@@ -16,6 +17,114 @@ space 5_22
     5_22_5
     5_22_6
     5_22_7
+
+
+  / Key Concepts
+  // The Respiratory System - Key Concepts
+  path SkimPath
+    / The Respiratory System
+    step
+      >>>
+        ## The Respiratory System
+      >>
+        5.5_22.5_22_0.5_22_0_0
+      >>>
+        {step:next Continue}
+
+    / Organs and Structures of the Respiratory System
+    step
+      >>>
+        ## Organs and Structures of the Respiratory System
+      >>
+        5.5_22.5_22_1.5_22_1_0
+      --- Organs and Structures of the Respiratory System - In Depth
+        5.5_22.5_22_1.5_22_1_1
+        5.5_22.5_22_1.5_22_1_2
+        5.5_22.5_22_1.5_22_1_3
+      >>>
+        {step:next Continue}
+
+    / The Lungs
+    step
+      >>>
+        ## The Lungs
+      >>
+        5.5_22.5_22_2.5_22_2_0
+      --- The Lungs - In Depth
+        5.5_22.5_22_2.5_22_2_1
+        5.5_22.5_22_2.5_22_2_2
+        5.5_22.5_22_2.5_22_2_3
+        5.5_22.5_22_2.5_22_2_4
+      >>>
+        {step:next Continue}
+
+    / The Process of Breathing
+    step
+      >>>
+        ## The Process of Breathing
+      >>
+        5.5_22.5_22_3.5_22_3_0
+      --- The Process of Breathing - In Depth
+        5.5_22.5_22_3.5_22_3_1
+        5.5_22.5_22_3.5_22_3_2
+        5.5_22.5_22_3.5_22_3_3
+        5.5_22.5_22_3.5_22_3_4
+        5.5_22.5_22_3.5_22_3_5
+      >>>
+        {step:next Continue}
+
+    / Gas Exchange
+    step
+      >>>
+        ## Gas Exchange
+      >>
+        5.5_22.5_22_4.5_22_4_0
+      --- Gas Exchange - In Depth
+        5.5_22.5_22_4.5_22_4_1
+        5.5_22.5_22_4.5_22_4_2
+        5.5_22.5_22_4.5_22_4_3
+      >>>
+        {step:next Continue}
+
+    / Transport of Gases
+    step
+      >>>
+        ## Transport of Gases
+      >>
+        5.5_22.5_22_5.5_22_5_0
+      --- Transport of Gases - In Depth
+        5.5_22.5_22_5.5_22_5_1
+        5.5_22.5_22_5.5_22_5_2
+        5.5_22.5_22_5.5_22_5_3
+      >>>
+        {step:next Continue}
+
+    / Modifications in Respiratory Functions
+    step
+      >>>
+        ## Modifications in Respiratory Functions
+      >>
+        5.5_22.5_22_6.5_22_6_0
+      --- Modifications in Respiratory Functions - In Depth
+        5.5_22.5_22_6.5_22_6_1
+        5.5_22.5_22_6.5_22_6_2
+        5.5_22.5_22_6.5_22_6_3
+      >>>
+        {step:next Continue}
+
+    / Embryonic Development of the Respiratory System
+    step
+      >>>
+        ## Embryonic Development of the Respiratory System
+      >>
+        5.5_22.5_22_7.5_22_7_0
+      --- Embryonic Development of the Respiratory System - In Depth
+        5.5_22.5_22_7.5_22_7_1
+        5.5_22.5_22_7.5_22_7_2
+        5.5_22.5_22_7.5_22_7_3
+        5.5_22.5_22_7.5_22_7_4
+      >>>
+        {step:exit}
 
 
   / 5.22 - Full Text
@@ -41,10 +150,6 @@ space 5_22
     step
       --
         5.5_22.5_22_1.5_22_1_3
-    / Interactive Link Questions
-    step
-      --
-        5.5_22.5_22_1.5_22_1_4
     / The Lungs - Introduction
     step
       --
@@ -89,10 +194,6 @@ space 5_22
     step
       --
         5.5_22.5_22_3.5_22_3_5
-    / Interactive Link Questions
-    step
-      --
-        5.5_22.5_22_3.5_22_3_6
     / Gas Exchange - Introduction
     step
       --
@@ -125,10 +226,6 @@ space 5_22
     step
       --
         5.5_22.5_22_5.5_22_5_3
-    / Interactive Link Questions
-    step
-      --
-        5.5_22.5_22_5.5_22_5_4
     / Modifications in Respiratory Functions - Introduction
     step
       --

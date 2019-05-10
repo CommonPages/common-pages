@@ -22,6 +22,7 @@ story 12_1
     12_1_4
     12_1_5
 
+  / Linear Equations - Full Text
   path FullText
     step
       --

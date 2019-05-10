@@ -18,6 +18,7 @@ story 7_37_5
     7_37_5_8
     7_37_5_9
 
+  / Endocrine Glands - Full Text
   path FullText
     step
       --

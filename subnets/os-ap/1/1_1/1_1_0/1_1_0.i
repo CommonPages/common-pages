@@ -14,6 +14,7 @@ story 1_1_0
   ---
     1_1_0_0
 
+  / Introduction - Full Text
   path FullText
     step
       --

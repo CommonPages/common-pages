@@ -42,6 +42,7 @@ story 30_8
     30_8_1
     30_8_2
 
+  / Quantum Numbers and Rules - Full Text
   path FullText
     step
       --

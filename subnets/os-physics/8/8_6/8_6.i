@@ -82,6 +82,7 @@ story 8_6
     8_6_1
     8_6_2
 
+  / Collisions of Point Masses in Two Dimensions - Full Text
   path FullText
     step
       --

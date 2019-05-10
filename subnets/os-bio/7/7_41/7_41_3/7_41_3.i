@@ -13,6 +13,7 @@ story 7_41_3
     7_41_3_3
     7_41_3_4
 
+  / Excretion Systems - Full Text
   path FullText
     step
       --

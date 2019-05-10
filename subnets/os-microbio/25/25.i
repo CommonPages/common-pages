@@ -4,6 +4,7 @@
 space 25
 
   ^^
+    SkimPath
     FullPath
 
   insert 25.25_0.25_0_0
@@ -13,6 +14,92 @@ space 25
     25_2
     25_3
     25_4
+
+
+  / Key Concepts
+  // Circulatory and Lymphatic System Infections - Key Concepts
+  path SkimPath
+    / Circulatory and Lymphatic System Infections
+    step
+      >>>
+        ## Circulatory and Lymphatic System Infections
+      >>
+        25.25_0.25_0_0
+      >>>
+        {step:next Continue}
+
+    / Anatomy of the Circulatory and Lymphatic Systems
+    step
+      >>>
+        ## Anatomy of the Circulatory and Lymphatic Systems
+      >>
+        25.25_1.25_1_1
+      --- Anatomy of the Circulatory and Lymphatic Systems - In Depth
+        25.25_1.25_1_2
+        25.25_1.25_1_3
+        25.25_1.25_1_4
+        25.25_1.25_1_5
+        25.25_1.25_1_6
+      >>>
+        {step:next Continue}
+
+    / Bacterial Infections of the Circulatory and Lymphatic Systems
+    step
+      >>>
+        ## Bacterial Infections of the Circulatory and Lymphatic Systems
+      >>
+        25.25_2.25_2_1
+      --- Bacterial Infections of the Circulatory and Lymphatic Systems - In Depth
+        25.25_2.25_2_2
+        25.25_2.25_2_3
+        25.25_2.25_2_4
+        25.25_2.25_2_5
+        25.25_2.25_2_6
+        25.25_2.25_2_7
+        25.25_2.25_2_8
+        25.25_2.25_2_9
+        25.25_2.25_2_10
+        25.25_2.25_2_11
+        25.25_2.25_2_12
+        25.25_2.25_2_13
+        25.25_2.25_2_14
+        25.25_2.25_2_15
+      >>>
+        {step:next Continue}
+
+    / Viral Infections of the Circulatory and Lymphatic Systems
+    step
+      >>>
+        ## Viral Infections of the Circulatory and Lymphatic Systems
+      >>
+        25.25_3.25_3_1
+      --- Viral Infections of the Circulatory and Lymphatic Systems - In Depth
+        25.25_3.25_3_2
+        25.25_3.25_3_3
+        25.25_3.25_3_4
+        25.25_3.25_3_5
+        25.25_3.25_3_6
+        25.25_3.25_3_7
+        25.25_3.25_3_8
+      >>>
+        {step:next Continue}
+
+    / Parasitic Infections of the Circulatory and Lymphatic Systems
+    step
+      >>>
+        ## Parasitic Infections of the Circulatory and Lymphatic Systems
+      >>
+        25.25_4.25_4_1
+      --- Parasitic Infections of the Circulatory and Lymphatic Systems - In Depth
+        25.25_4.25_4_2
+        25.25_4.25_4_3
+        25.25_4.25_4_4
+        25.25_4.25_4_5
+        25.25_4.25_4_6
+        25.25_4.25_4_7
+        25.25_4.25_4_8
+      >>>
+        {step:exit}
 
 
   / 25 - Full Text

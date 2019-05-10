@@ -11,8 +11,8 @@ story 1_1_7
     1_1_7_1
     1_1_7_2
     1_1_7_3
-    1_1_7_4
 
+  / Medical Imaging - Full Text
   path FullText
     step
       --
@@ -26,8 +26,5 @@ story 1_1_7
     step
       --
         1_1_7_3
-    step
-      --
-        1_1_7_4
 
     

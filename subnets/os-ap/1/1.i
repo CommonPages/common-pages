@@ -14,121 +14,348 @@ space 1
     1_3
     1_4
 
-  / 1 - Key Concepts
-  // Key Concepts
+  / Key Concepts
+  // Unit 1: Levels of Organization - Key Concepts
   path SkimPath
-    / Introduction
+    / An Introduction to the Human Body
     step
-      --
+      >>>
+        ## An Introduction to the Human Body
+      >>
         1.1_1.1_1_0.1_1_0_0
+      >>>
+        {step:next Continue}
     / Overview of Anatomy and Physiology
     step
-      --
+      >>>
+        ## Overview of Anatomy and Physiology
+      >>
         1.1_1.1_1_1.1_1_1_0
+      --- Overview of Anatomy and Physiology - In Depth
+        1.1_1.1_1_1.1_1_1_1
+      >>>
+        {step:next Continue}
     / Structural Organization of the Human Body
     step
-      --
+      >>>
+        ## Structural Organization of the Human Body
+      >>
         1.1_1.1_1_2.1_1_2_0
+      --- Structural Organization of the Human Body - In Depth
+        1.1_1.1_1_2.1_1_2_1
+        1.1_1.1_1_2.1_1_2_2
+      >>>
+        {step:next Continue}
     / Functions of Human Life
     step
-      --
+      >>>
+        ## Functions of Human Life
+      >>
         1.1_1.1_1_3.1_1_3_0
+      --- Functions of Human Life - In Depth
+        1.1_1.1_1_3.1_1_3_1
+        1.1_1.1_1_3.1_1_3_2
+        1.1_1.1_1_3.1_1_3_3
+        1.1_1.1_1_3.1_1_3_4
+        1.1_1.1_1_3.1_1_3_5
+        1.1_1.1_1_3.1_1_3_6
+      >>>
+        {step:next Continue}
     / Requirements for Human Life
     step
-      --
+      >>>
+        ## Requirements for Human Life
+      >>
         1.1_1.1_1_4.1_1_4_0
+      --- Requirements for Human Life - In Depth
+        1.1_1.1_1_4.1_1_4_1
+        1.1_1.1_1_4.1_1_4_2
+        1.1_1.1_1_4.1_1_4_3
+        1.1_1.1_1_4.1_1_4_4
+        1.1_1.1_1_4.1_1_4_5
+      >>>
+        {step:next Continue}
     / Homeostasis
     step
-      --
+      >>>
+        ## Homeostasis
+      >>
         1.1_1.1_1_5.1_1_5_0
+      --- Homeostasis - In Depth
+        1.1_1.1_1_5.1_1_5_1
+        1.1_1.1_1_5.1_1_5_2
+        1.1_1.1_1_5.1_1_5_3
+      >>>
+        {step:next Continue}
     / Anatomical Terminology
     step
-      --
+      >>>
+        ## Anatomical Terminology
+      >>
         1.1_1.1_1_6.1_1_6_0
+      --- Anatomical Terminology - In Depth
+        1.1_1.1_1_6.1_1_6_1
+        1.1_1.1_1_6.1_1_6_2
+        1.1_1.1_1_6.1_1_6_3
+        1.1_1.1_1_6.1_1_6_4
+        1.1_1.1_1_6.1_1_6_5
+        1.1_1.1_1_6.1_1_6_6
+      >>>
+        {step:next Continue}
     / Medical Imaging
     step
-      --
+      >>>
+        ## Medical Imaging
+      >>
         1.1_1.1_1_7.1_1_7_0
-    / Introduction
+      --- Medical Imaging - In Depth
+        1.1_1.1_1_7.1_1_7_1
+        1.1_1.1_1_7.1_1_7_2
+        1.1_1.1_1_7.1_1_7_3
+      >>>
+        {step:next Continue}
+    / The Chemical Level of Organization
     step
-      --
+      >>>
+        ## The Chemical Level of Organization
+      >>
         1.1_2.1_2_0.1_2_0_0
+      >>>
+        {step:next Continue}
     / Elements and Atoms: The Building Blocks of Matter
     step
-      --
+      >>>
+        ## Elements and Atoms: The Building Blocks of Matter
+      >>
         1.1_2.1_2_1.1_2_1_0
+      --- Elements and Atoms: The Building Blocks of Matter - In Depth
+        1.1_2.1_2_1.1_2_1_1
+        1.1_2.1_2_1.1_2_1_2
+        1.1_2.1_2_1.1_2_1_3
+        1.1_2.1_2_1.1_2_1_4
+      >>>
+        {step:next Continue}
     / Chemical Bonds
     step
-      --
+      >>>
+        ## Chemical Bonds
+      >>
         1.1_2.1_2_2.1_2_2_0
+      --- Chemical Bonds - In Depth
+        1.1_2.1_2_2.1_2_2_1
+        1.1_2.1_2_2.1_2_2_2
+        1.1_2.1_2_2.1_2_2_3
+        1.1_2.1_2_2.1_2_2_4
+      >>>
+        {step:next Continue}
     / Chemical Reactions
     step
-      --
+      >>>
+        ## Chemical Reactions
+      >>
         1.1_2.1_2_3.1_2_3_0
+      --- Chemical Reactions - In Depth
+        1.1_2.1_2_3.1_2_3_1
+        1.1_2.1_2_3.1_2_3_2
+        1.1_2.1_2_3.1_2_3_3
+        1.1_2.1_2_3.1_2_3_4
+        1.1_2.1_2_3.1_2_3_5
+      >>>
+        {step:next Continue}
     / Inorganic Compounds Essential to Human Functioning
     step
-      --
+      >>>
+        ## Inorganic Compounds Essential to Human Functioning
+      >>
         1.1_2.1_2_4.1_2_4_0
+      --- Inorganic Compounds Essential to Human Functioning - In Depth
+        1.1_2.1_2_4.1_2_4_1
+        1.1_2.1_2_4.1_2_4_2
+        1.1_2.1_2_4.1_2_4_3
+        1.1_2.1_2_4.1_2_4_4
+      >>>
+        {step:next Continue}
     / Organic Compounds Essential to Human Functioning
     step
-      --
+      >>>
+        ## Organic Compounds Essential to Human Functioning
+      >>
         1.1_2.1_2_5.1_2_5_0
-    / Introduction
+      --- Organic Compounds Essential to Human Functioning - In Depth
+        1.1_2.1_2_5.1_2_5_1
+        1.1_2.1_2_5.1_2_5_2
+        1.1_2.1_2_5.1_2_5_3
+        1.1_2.1_2_5.1_2_5_4
+        1.1_2.1_2_5.1_2_5_5
+        1.1_2.1_2_5.1_2_5_6
+      >>>
+        {step:next Continue}
+    / The Cellular Level of Organization
     step
-      --
+      >>>
+        ## The Cellular Level of Organization
+      >>
         1.1_3.1_3_0.1_3_0_0
+      >>>
+        {step:next Continue}
     / The Cell Membrane
     step
-      --
+      >>>
+        ## The Cell Membrane
+      >>
         1.1_3.1_3_1.1_3_1_0
+      --- The Cell Membrane - In Depth
+        1.1_3.1_3_1.1_3_1_1
+        1.1_3.1_3_1.1_3_1_2
+        1.1_3.1_3_1.1_3_1_3
+        1.1_3.1_3_1.1_3_1_4
+      >>>
+        {step:next Continue}
     / The Cytoplasm and Cellular Organelles
     step
-      --
+      >>>
+        ## The Cytoplasm and Cellular Organelles
+      >>
         1.1_3.1_3_2.1_3_2_0
+      --- The Cytoplasm and Cellular Organelles - In Depth
+        1.1_3.1_3_2.1_3_2_1
+        1.1_3.1_3_2.1_3_2_2
+        1.1_3.1_3_2.1_3_2_3
+        1.1_3.1_3_2.1_3_2_4
+      >>>
+        {step:next Continue}
     / The Nucleus and DNA Replication
     step
-      --
+      >>>
+        ## The Nucleus and DNA Replication
+      >>
         1.1_3.1_3_3.1_3_3_0
+      --- The Nucleus and DNA Replication - In Depth
+        1.1_3.1_3_3.1_3_3_1
+        1.1_3.1_3_3.1_3_3_2
+        1.1_3.1_3_3.1_3_3_3
+      >>>
+        {step:next Continue}
     / Protein Synthesis
     step
-      --
+      >>>
+        ## Protein Synthesis
+      >>
         1.1_3.1_3_4.1_3_4_0
+      --- Protein Synthesis - In Depth
+        1.1_3.1_3_4.1_3_4_1
+        1.1_3.1_3_4.1_3_4_2
+        1.1_3.1_3_4.1_3_4_3
+      >>>
+        {step:next Continue}
     / Cell Growth and Division
     step
-      --
+      >>>
+        ## Cell Growth and Division
+      >>
         1.1_3.1_3_5.1_3_5_0
+      --- Cell Growth and Division - In Depth
+        1.1_3.1_3_5.1_3_5_1
+        1.1_3.1_3_5.1_3_5_2
+        1.1_3.1_3_5.1_3_5_3
+      >>>
+        {step:next Continue}
     / Cellular Differentiation
     step
-      --
+      >>>
+        ## Cellular Differentiation
+      >>
         1.1_3.1_3_6.1_3_6_0
-    / Introduction
+      --- Cellular Differentiation - In Depth
+        1.1_3.1_3_6.1_3_6_1
+        1.1_3.1_3_6.1_3_6_2
+        1.1_3.1_3_6.1_3_6_3
+      >>>
+        {step:next Continue}
+    / The Tissue Level of Organization
     step
-      --
+      >>>
+        ## The Tissue Level of Organization
+      >>
         1.1_4.1_4_0.1_4_0_0
+      >>>
+        {step:next Continue}
     / Types of Tissues
     step
-      --
+      >>>
+        ## Types of Tissues
+      >>
         1.1_4.1_4_1.1_4_1_0
+      --- Types of Tissues - In Depth
+        1.1_4.1_4_1.1_4_1_1
+        1.1_4.1_4_1.1_4_1_2
+        1.1_4.1_4_1.1_4_1_3
+        1.1_4.1_4_1.1_4_1_4
+      >>>
+        {step:next Continue}
     / Epithelial Tissue
     step
-      --
+      >>>
+        ## Epithelial Tissue
+      >>
         1.1_4.1_4_2.1_4_2_0
+      --- Epithelial Tissue - In Depth
+        1.1_4.1_4_2.1_4_2_1
+        1.1_4.1_4_2.1_4_2_2
+        1.1_4.1_4_2.1_4_2_3
+        1.1_4.1_4_2.1_4_2_4
+        1.1_4.1_4_2.1_4_2_5
+        1.1_4.1_4_2.1_4_2_6
+      >>>
+        {step:next Continue}
     / Connective Tissue Supports and Protects
     step
-      --
+      >>>
+        ## Connective Tissue Supports and Protects
+      >>
         1.1_4.1_4_3.1_4_3_0
+      --- Connective Tissue Supports and Protects - In Depth
+        1.1_4.1_4_3.1_4_3_1
+        1.1_4.1_4_3.1_4_3_2
+        1.1_4.1_4_3.1_4_3_3
+        1.1_4.1_4_3.1_4_3_4
+        1.1_4.1_4_3.1_4_3_5
+        1.1_4.1_4_3.1_4_3_6
+        1.1_4.1_4_3.1_4_3_7
+      >>>
+        {step:next Continue}
     / Muscle Tissue and Motion
     step
-      --
+      >>>
+        ## Muscle Tissue and Motion
+      >>
         1.1_4.1_4_4.1_4_4_0
+      --- Muscle Tissue and Motion - In Depth
+        1.1_4.1_4_4.1_4_4_1
+      >>>
+        {step:next Continue}
     / Nervous Tissue Mediates Perception and Response
     step
-      --
+      >>>
+        ## Nervous Tissue Mediates Perception and Response
+      >>
         1.1_4.1_4_5.1_4_5_0
+      --- Nervous Tissue Mediates Perception and Response - In Depth
+        1.1_4.1_4_5.1_4_5_1
+      >>>
+        {step:next Continue}
     / Tissue Injury and Aging
     step
-      --
+      >>>
+        ## Tissue Injury and Aging
+      >>
         1.1_4.1_4_6.1_4_6_0
+      --- Tissue Injury and Aging - In Depth
+        1.1_4.1_4_6.1_4_6_1
+        1.1_4.1_4_6.1_4_6_2
+        1.1_4.1_4_6.1_4_6_3
+      >>>
+        {step:next Continue}
 
   / 1 - Full Text
   // Unit 1: Levels of Organization - Full Text
@@ -185,10 +412,6 @@ space 1
     step
       --
         1.1_1.1_1_3.1_1_3_6
-    / Interactive Link Questions
-    step
-      --
-        1.1_1.1_1_3.1_1_3_7
     / Requirements for Human Life - Introduction
     step
       --
@@ -229,10 +452,6 @@ space 1
     step
       --
         1.1_1.1_1_5.1_1_5_3
-    / Interactive Link Questions
-    step
-      --
-        1.1_1.1_1_5.1_1_5_4
     / Anatomical Terminology - Introduction
     step
       --
@@ -277,10 +496,6 @@ space 1
     step
       --
         1.1_1.1_1_7.1_1_7_3
-    / Interactive Link Questions
-    step
-      --
-        1.1_1.1_1_7.1_1_7_4
     / The Chemical Level of Organization - Introduction
     step
       --
@@ -305,10 +520,6 @@ space 1
     step
       --
         1.1_2.1_2_1.1_2_1_4
-    / Interactive Link Questions
-    step
-      --
-        1.1_2.1_2_1.1_2_1_5
     / Chemical Bonds - Introduction
     step
       --
@@ -329,10 +540,6 @@ space 1
     step
       --
         1.1_2.1_2_2.1_2_2_4
-    / Interactive Link Questions
-    step
-      --
-        1.1_2.1_2_2.1_2_2_5
     / Chemical Reactions - Introduction
     step
       --
@@ -405,10 +612,6 @@ space 1
     step
       --
         1.1_2.1_2_5.1_2_5_6
-    / Interactive Link Questions
-    step
-      --
-        1.1_2.1_2_5.1_2_5_7
     / The Cellular Level of Organization - Introduction
     step
       --
@@ -433,10 +636,6 @@ space 1
     step
       --
         1.1_3.1_3_1.1_3_1_4
-    / Interactive Link Questions
-    step
-      --
-        1.1_3.1_3_1.1_3_1_5
     / The Cytoplasm and Cellular Organelles - Introduction
     step
       --
@@ -457,10 +656,6 @@ space 1
     step
       --
         1.1_3.1_3_2.1_3_2_4
-    / Interactive Link Questions
-    step
-      --
-        1.1_3.1_3_2.1_3_2_5
     / The Nucleus and DNA Replication - Introduction
     step
       --
@@ -477,10 +672,6 @@ space 1
     step
       --
         1.1_3.1_3_3.1_3_3_3
-    / Interactive Link Questions
-    step
-      --
-        1.1_3.1_3_3.1_3_3_4
     / Protein Synthesis - Introduction
     step
       --
@@ -497,10 +688,6 @@ space 1
     step
       --
         1.1_3.1_3_4.1_3_4_3
-    / Interactive Link Questions
-    step
-      --
-        1.1_3.1_3_4.1_3_4_4
     / Cell Growth and Division - Introduction
     step
       --
@@ -517,10 +704,6 @@ space 1
     step
       --
         1.1_3.1_3_5.1_3_5_3
-    / Interactive Link Questions
-    step
-      --
-        1.1_3.1_3_5.1_3_5_4
     / Cellular Differentiation - Introduction
     step
       --
@@ -561,10 +744,6 @@ space 1
     step
       --
         1.1_4.1_4_1.1_4_1_4
-    / Interactive Link Questions
-    step
-      --
-        1.1_4.1_4_1.1_4_1_5
     / Epithelial Tissue - Introduction
     step
       --
@@ -593,10 +772,6 @@ space 1
     step
       --
         1.1_4.1_4_2.1_4_2_6
-    / Interactive Link Questions
-    step
-      --
-        1.1_4.1_4_2.1_4_2_7
     / Connective Tissue Supports and Protects - Introduction
     step
       --
@@ -629,10 +804,6 @@ space 1
     step
       --
         1.1_4.1_4_3.1_4_3_7
-    / Interactive Link Questions
-    step
-      --
-        1.1_4.1_4_3.1_4_3_8
     / Muscle Tissue and Motion - Introduction
     step
       --
@@ -641,10 +812,6 @@ space 1
     step
       --
         1.1_4.1_4_4.1_4_4_1
-    / Interactive Link Questions
-    step
-      --
-        1.1_4.1_4_4.1_4_4_2
     / Nervous Tissue Mediates Perception and Response - Introduction
     step
       --
@@ -653,10 +820,6 @@ space 1
     step
       --
         1.1_4.1_4_5.1_4_5_1
-    / Interactive Link Questions
-    step
-      --
-        1.1_4.1_4_5.1_4_5_2
     / Tissue Injury and Aging - Introduction
     step
       --
@@ -673,9 +836,5 @@ space 1
     step
       --
         1.1_4.1_4_6.1_4_6_3
-    / Interactive Link Questions
-    step
-      --
-        1.1_4.1_4_6.1_4_6_4
 
     

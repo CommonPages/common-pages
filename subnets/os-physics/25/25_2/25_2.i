@@ -34,6 +34,7 @@ story 25_2
     25_2_0
     25_2_1
 
+  / The Law of Reflection - Full Text
   path FullText
     step
       --

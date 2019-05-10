@@ -16,8 +16,8 @@ story 5_22_1
     5_22_1_1
     5_22_1_2
     5_22_1_3
-    5_22_1_4
 
+  / Organs and Structures of the Respiratory System - Full Text
   path FullText
     step
       --
@@ -31,8 +31,5 @@ story 5_22_1
     step
       --
         5_22_1_3
-    step
-      --
-        5_22_1_4
 
     

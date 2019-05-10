@@ -25,6 +25,7 @@ story 4_20_6
     4_20_6_0
     4_20_6_1
 
+  / Development of Blood Vessels and Fetal Circulation - Full Text
   path FullText
     step
       --

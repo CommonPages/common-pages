@@ -12,8 +12,8 @@ story 3_13_3
     3_13_3_2
     3_13_3_3
     3_13_3_4
-    3_13_3_5
 
+  / Circulation and the Central Nervous System - Full Text
   path FullText
     step
       --
@@ -30,8 +30,5 @@ story 3_13_3
     step
       --
         3_13_3_4
-    step
-      --
-        3_13_3_5
 
     

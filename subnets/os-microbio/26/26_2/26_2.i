@@ -13,6 +13,7 @@ story 26_2
     26_2_4
     26_2_5
 
+  / Bacterial Diseases of the Nervous System - Full Text
   path FullText
     step
       --

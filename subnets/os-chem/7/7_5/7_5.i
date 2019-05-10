@@ -20,6 +20,7 @@ story 7_5
     7_5_2
     7_5_3
 
+  / Quantitative Chemical Analysis - Full Text
   path FullText
     step
       --

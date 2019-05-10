@@ -11,6 +11,7 @@ story 7_3
     7_3_2
     7_3_3
 
+  / Gravitational Potential Energy - Full Text
   path FullText
     step
       --

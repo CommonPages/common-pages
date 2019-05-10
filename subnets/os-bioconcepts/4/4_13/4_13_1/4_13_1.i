@@ -22,6 +22,7 @@ story 4_13_1
     4_13_1_12
     4_13_1_13
 
+  / Prokaryotic Diversity - Full Text
   path FullText
     step
       --

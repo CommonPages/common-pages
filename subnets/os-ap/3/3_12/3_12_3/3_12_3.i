@@ -29,6 +29,7 @@ story 3_12_3
     3_12_3_0
     3_12_3_1
 
+  / The Function of Nervous Tissue - Full Text
   path FullText
     step
       --

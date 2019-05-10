@@ -19,6 +19,7 @@ story 24_6
     24_6_10
     24_6_11
 
+  / Helminthic Infections of the Gastrointestinal Tract - Full Text
   path FullText
     step
       --

@@ -17,8 +17,8 @@ story 8_1
     8_1_5
     8_1_6
     8_1_7
-    8_1_9
 
+  / Energy, Matter, and Enzymes - Full Text
   path FullText
     step
       --
@@ -41,8 +41,5 @@ story 8_1
     step
       --
         8_1_7
-    step
-      --
-        8_1_9
 
     

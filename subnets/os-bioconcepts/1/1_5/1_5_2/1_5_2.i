@@ -19,6 +19,7 @@ story 1_5_2
     1_5_2_6
     1_5_2_7
 
+  / The Light-Dependent Reactions of Photosynthesis - Full Text
   path FullText
     step
       --

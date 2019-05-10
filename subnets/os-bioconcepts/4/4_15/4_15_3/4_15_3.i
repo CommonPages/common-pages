@@ -15,6 +15,7 @@ story 4_15_3
     4_15_3_3
     4_15_3_4
 
+  / Flatworms, Nematodes, and Arthropods - Full Text
   path FullText
     step
       --

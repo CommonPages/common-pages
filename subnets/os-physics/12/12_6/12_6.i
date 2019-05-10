@@ -66,6 +66,7 @@ story 12_6
     12_6_0
     12_6_1
 
+  / Motion of an Object in a Viscous Fluid - Full Text
   path FullText
     step
       --

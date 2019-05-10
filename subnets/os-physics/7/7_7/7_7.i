@@ -12,6 +12,7 @@ story 7_7
     7_7_3
     7_7_4
 
+  / Power - Full Text
   path FullText
     step
       --

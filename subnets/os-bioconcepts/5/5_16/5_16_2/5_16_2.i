@@ -14,6 +14,7 @@ story 5_16_2
     5_16_2_2
     5_16_2_3
 
+  / Digestive System - Full Text
   path FullText
     step
       --

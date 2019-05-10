@@ -46,6 +46,7 @@ story 8_7
     8_7_0
     8_7_1
 
+  / Introduction to Rocket Propulsion - Full Text
   path FullText
     step
       --

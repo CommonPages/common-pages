@@ -16,8 +16,8 @@ story 3_16_4
     3_16_4_3
     3_16_4_4
     3_16_4_5
-    3_16_4_6
 
+  / The Sensory and Motor Exams - Full Text
   path FullText
     step
       --
@@ -37,8 +37,5 @@ story 3_16_4
     step
       --
         3_16_4_5
-    step
-      --
-        3_16_4_6
 
     

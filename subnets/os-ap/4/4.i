@@ -14,121 +14,391 @@ space 4
     4_20
     4_21
 
-  / 4 - Key Concepts
-  // Key Concepts
+  / Key Concepts
+  // Unit 4: Fluids and Transport - Key Concepts
   path SkimPath
-    / Introduction
+    / The Cardiovascular System: Blood
     step
-      --
+      >>>
+        ## The Cardiovascular System: Blood
+      >>
         4.4_18.4_18_0.4_18_0_0
+      >>>
+        {step:next Continue}
     / An Overview of Blood
     step
-      --
+      >>>
+        ## An Overview of Blood
+      >>
         4.4_18.4_18_1.4_18_1_0
+      --- An Overview of Blood - In Depth
+        4.4_18.4_18_1.4_18_1_1
+        4.4_18.4_18_1.4_18_1_2
+        4.4_18.4_18_1.4_18_1_3
+        4.4_18.4_18_1.4_18_1_4
+        4.4_18.4_18_1.4_18_1_5
+      >>>
+        {step:next Continue}
     / Production of the Formed Elements
     step
-      --
+      >>>
+        ## Production of the Formed Elements
+      >>
         4.4_18.4_18_2.4_18_2_0
+      --- Production of the Formed Elements - In Depth
+        4.4_18.4_18_2.4_18_2_1
+        4.4_18.4_18_2.4_18_2_2
+        4.4_18.4_18_2.4_18_2_3
+        4.4_18.4_18_2.4_18_2_4
+        4.4_18.4_18_2.4_18_2_5
+      >>>
+        {step:next Continue}
     / Erythrocytes
     step
-      --
+      >>>
+        ## Erythrocytes
+      >>
         4.4_18.4_18_3.4_18_3_0
+      --- Erythrocytes - In Depth
+        4.4_18.4_18_3.4_18_3_1
+        4.4_18.4_18_3.4_18_3_2
+        4.4_18.4_18_3.4_18_3_3
+        4.4_18.4_18_3.4_18_3_4
+        4.4_18.4_18_3.4_18_3_5
+      >>>
+        {step:next Continue}
     / Leukocytes and Platelets
     step
-      --
+      >>>
+        ## Leukocytes and Platelets
+      >>
         4.4_18.4_18_4.4_18_4_0
+      --- Leukocytes and Platelets - In Depth
+        4.4_18.4_18_4.4_18_4_1
+        4.4_18.4_18_4.4_18_4_2
+        4.4_18.4_18_4.4_18_4_3
+        4.4_18.4_18_4.4_18_4_4
+        4.4_18.4_18_4.4_18_4_5
+        4.4_18.4_18_4.4_18_4_6
+        4.4_18.4_18_4.4_18_4_7
+      >>>
+        {step:next Continue}
     / Hemostasis
     step
-      --
+      >>>
+        ## Hemostasis
+      >>
         4.4_18.4_18_5.4_18_5_0
+      --- Hemostasis - In Depth
+        4.4_18.4_18_5.4_18_5_1
+        4.4_18.4_18_5.4_18_5_2
+        4.4_18.4_18_5.4_18_5_3
+        4.4_18.4_18_5.4_18_5_4
+        4.4_18.4_18_5.4_18_5_5
+        4.4_18.4_18_5.4_18_5_6
+        4.4_18.4_18_5.4_18_5_7
+      >>>
+        {step:next Continue}
     / Blood Typing
     step
-      --
+      >>>
+        ## Blood Typing
+      >>
         4.4_18.4_18_6.4_18_6_0
-    / Introduction
+      --- Blood Typing - In Depth
+        4.4_18.4_18_6.4_18_6_1
+        4.4_18.4_18_6.4_18_6_2
+        4.4_18.4_18_6.4_18_6_3
+        4.4_18.4_18_6.4_18_6_4
+        4.4_18.4_18_6.4_18_6_5
+        4.4_18.4_18_6.4_18_6_6
+      >>>
+        {step:next Continue}
+    / The Cardiovascular System: The Heart
     step
-      --
+      >>>
+        ## The Cardiovascular System: The Heart
+      >>
         4.4_19.4_19_0.4_19_0_0
+      >>>
+        {step:next Continue}
     / Heart Anatomy
     step
-      --
+      >>>
+        ## Heart Anatomy
+      >>
         4.4_19.4_19_1.4_19_1_0
+      --- Heart Anatomy - In Depth
+        4.4_19.4_19_1.4_19_1_1
+        4.4_19.4_19_1.4_19_1_2
+        4.4_19.4_19_1.4_19_1_3
+        4.4_19.4_19_1.4_19_1_4
+        4.4_19.4_19_1.4_19_1_5
+        4.4_19.4_19_1.4_19_1_6
+        4.4_19.4_19_1.4_19_1_7
+      >>>
+        {step:next Continue}
     / Cardiac Muscle and Electrical Activity
     step
-      --
+      >>>
+        ## Cardiac Muscle and Electrical Activity
+      >>
         4.4_19.4_19_2.4_19_2_0
+      --- Cardiac Muscle and Electrical Activity - In Depth
+        4.4_19.4_19_2.4_19_2_1
+        4.4_19.4_19_2.4_19_2_2
+        4.4_19.4_19_2.4_19_2_3
+        4.4_19.4_19_2.4_19_2_4
+        4.4_19.4_19_2.4_19_2_5
+      >>>
+        {step:next Continue}
     / Cardiac Cycle
     step
-      --
+      >>>
+        ## Cardiac Cycle
+      >>
         4.4_19.4_19_3.4_19_3_0
+      --- Cardiac Cycle - In Depth
+        4.4_19.4_19_3.4_19_3_1
+        4.4_19.4_19_3.4_19_3_2
+        4.4_19.4_19_3.4_19_3_3
+        4.4_19.4_19_3.4_19_3_4
+      >>>
+        {step:next Continue}
     / Cardiac Physiology
     step
-      --
+      >>>
+        ## Cardiac Physiology
+      >>
         4.4_19.4_19_4.4_19_4_0
+      --- Cardiac Physiology - In Depth
+        4.4_19.4_19_4.4_19_4_1
+        4.4_19.4_19_4.4_19_4_2
+        4.4_19.4_19_4.4_19_4_3
+        4.4_19.4_19_4.4_19_4_4
+        4.4_19.4_19_4.4_19_4_5
+        4.4_19.4_19_4.4_19_4_6
+        4.4_19.4_19_4.4_19_4_7
+        4.4_19.4_19_4.4_19_4_8
+        4.4_19.4_19_4.4_19_4_9
+      >>>
+        {step:next Continue}
     / Development of the Heart
     step
-      --
+      >>>
+        ## Development of the Heart
+      >>
         4.4_19.4_19_5.4_19_5_0
-    / Introduction
+      --- Development of the Heart - In Depth
+        4.4_19.4_19_5.4_19_5_1
+      >>>
+        {step:next Continue}
+    / The Cardiovascular System: Blood Vessels and Circulation
     step
-      --
+      >>>
+        ## The Cardiovascular System: Blood Vessels and Circulation
+      >>
         4.4_20.4_20_0.4_20_0_0
+      >>>
+        {step:next Continue}
     / Structure and Function of Blood Vessels
     step
-      --
+      >>>
+        ## Structure and Function of Blood Vessels
+      >>
         4.4_20.4_20_1.4_20_1_0
+      --- Structure and Function of Blood Vessels - In Depth
+        4.4_20.4_20_1.4_20_1_1
+        4.4_20.4_20_1.4_20_1_2
+        4.4_20.4_20_1.4_20_1_3
+        4.4_20.4_20_1.4_20_1_4
+        4.4_20.4_20_1.4_20_1_5
+        4.4_20.4_20_1.4_20_1_6
+        4.4_20.4_20_1.4_20_1_7
+        4.4_20.4_20_1.4_20_1_8
+        4.4_20.4_20_1.4_20_1_9
+      >>>
+        {step:next Continue}
     / Blood Flow, Blood Pressure, and Resistance
     step
-      --
+      >>>
+        ## Blood Flow, Blood Pressure, and Resistance
+      >>
         4.4_20.4_20_2.4_20_2_0
+      --- Blood Flow, Blood Pressure, and Resistance - In Depth
+        4.4_20.4_20_2.4_20_2_1
+        4.4_20.4_20_2.4_20_2_2
+        4.4_20.4_20_2.4_20_2_3
+        4.4_20.4_20_2.4_20_2_4
+        4.4_20.4_20_2.4_20_2_5
+        4.4_20.4_20_2.4_20_2_6
+      >>>
+        {step:next Continue}
     / Capillary Exchange
     step
-      --
+      >>>
+        ## Capillary Exchange
+      >>
         4.4_20.4_20_3.4_20_3_0
+      --- Capillary Exchange - In Depth
+        4.4_20.4_20_3.4_20_3_1
+        4.4_20.4_20_3.4_20_3_2
+        4.4_20.4_20_3.4_20_3_3
+      >>>
+        {step:next Continue}
     / Homeostatic Regulation of the Vascular System
     step
-      --
+      >>>
+        ## Homeostatic Regulation of the Vascular System
+      >>
         4.4_20.4_20_4.4_20_4_0
+      --- Homeostatic Regulation of the Vascular System - In Depth
+        4.4_20.4_20_4.4_20_4_1
+        4.4_20.4_20_4.4_20_4_2
+        4.4_20.4_20_4.4_20_4_3
+        4.4_20.4_20_4.4_20_4_4
+        4.4_20.4_20_4.4_20_4_5
+        4.4_20.4_20_4.4_20_4_6
+      >>>
+        {step:next Continue}
     / Circulatory Pathways
     step
-      --
+      >>>
+        ## Circulatory Pathways
+      >>
         4.4_20.4_20_5.4_20_5_0
+      --- Circulatory Pathways - In Depth
+        4.4_20.4_20_5.4_20_5_1
+        4.4_20.4_20_5.4_20_5_2
+        4.4_20.4_20_5.4_20_5_3
+        4.4_20.4_20_5.4_20_5_4
+        4.4_20.4_20_5.4_20_5_5
+        4.4_20.4_20_5.4_20_5_6
+        4.4_20.4_20_5.4_20_5_7
+        4.4_20.4_20_5.4_20_5_8
+      >>>
+        {step:next Continue}
     / Development of Blood Vessels and Fetal Circulation
     step
-      --
+      >>>
+        ## Development of Blood Vessels and Fetal Circulation
+      >>
         4.4_20.4_20_6.4_20_6_0
-    / Introduction
+      --- Development of Blood Vessels and Fetal Circulation - In Depth
+        4.4_20.4_20_6.4_20_6_1
+      >>>
+        {step:next Continue}
+    / The Lymphatic and Immune System
     step
-      --
+      >>>
+        ## The Lymphatic and Immune System
+      >>
         4.4_21.4_21_0.4_21_0_0
+      >>>
+        {step:next Continue}
     / Anatomy of the Lymphatic and Immune Systems
     step
-      --
+      >>>
+        ## Anatomy of the Lymphatic and Immune Systems
+      >>
         4.4_21.4_21_1.4_21_1_0
+      --- Anatomy of the Lymphatic and Immune Systems - In Depth
+        4.4_21.4_21_1.4_21_1_1
+        4.4_21.4_21_1.4_21_1_2
+        4.4_21.4_21_1.4_21_1_3
+        4.4_21.4_21_1.4_21_1_4
+        4.4_21.4_21_1.4_21_1_5
+        4.4_21.4_21_1.4_21_1_6
+        4.4_21.4_21_1.4_21_1_7
+      >>>
+        {step:next Continue}
     / Barrier Defenses and the Innate Immune Response
     step
-      --
+      >>>
+        ## Barrier Defenses and the Innate Immune Response
+      >>
         4.4_21.4_21_2.4_21_2_0
+      --- Barrier Defenses and the Innate Immune Response - In Depth
+        4.4_21.4_21_2.4_21_2_1
+        4.4_21.4_21_2.4_21_2_2
+        4.4_21.4_21_2.4_21_2_3
+        4.4_21.4_21_2.4_21_2_4
+        4.4_21.4_21_2.4_21_2_5
+      >>>
+        {step:next Continue}
     / The Adaptive Immune Response: T lymphocytes and Their Functional Types
     step
-      --
+      >>>
+        ## The Adaptive Immune Response: T lymphocytes and Their Functional Types
+      >>
         4.4_21.4_21_3.4_21_3_0
+      --- The Adaptive Immune Response: T lymphocytes and Their Functional Types - In Depth
+        4.4_21.4_21_3.4_21_3_1
+        4.4_21.4_21_3.4_21_3_2
+        4.4_21.4_21_3.4_21_3_3
+        4.4_21.4_21_3.4_21_3_4
+        4.4_21.4_21_3.4_21_3_5
+        4.4_21.4_21_3.4_21_3_6
+        4.4_21.4_21_3.4_21_3_7
+        4.4_21.4_21_3.4_21_3_8
+        4.4_21.4_21_3.4_21_3_9
+      >>>
+        {step:next Continue}
     / The Adaptive Immune Response: B-lymphocytes and Antibodies
     step
-      --
+      >>>
+        ## The Adaptive Immune Response: B-lymphocytes and Antibodies
+      >>
         4.4_21.4_21_4.4_21_4_0
+      --- The Adaptive Immune Response: B-lymphocytes and Antibodies - In Depth
+        4.4_21.4_21_4.4_21_4_1
+        4.4_21.4_21_4.4_21_4_2
+        4.4_21.4_21_4.4_21_4_3
+        4.4_21.4_21_4.4_21_4_4
+        4.4_21.4_21_4.4_21_4_5
+      >>>
+        {step:next Continue}
     / The Immune Response against Pathogens
     step
-      --
+      >>>
+        ## The Immune Response against Pathogens
+      >>
         4.4_21.4_21_5.4_21_5_0
+      --- The Immune Response against Pathogens - In Depth
+        4.4_21.4_21_5.4_21_5_1
+        4.4_21.4_21_5.4_21_5_2
+        4.4_21.4_21_5.4_21_5_3
+        4.4_21.4_21_5.4_21_5_4
+        4.4_21.4_21_5.4_21_5_5
+        4.4_21.4_21_5.4_21_5_6
+      >>>
+        {step:next Continue}
     / Diseases Associated with Depressed or Overactive Immune Responses
     step
-      --
+      >>>
+        ## Diseases Associated with Depressed or Overactive Immune Responses
+      >>
         4.4_21.4_21_6.4_21_6_0
+      --- Diseases Associated with Depressed or Overactive Immune Responses - In Depth
+        4.4_21.4_21_6.4_21_6_1
+        4.4_21.4_21_6.4_21_6_2
+        4.4_21.4_21_6.4_21_6_3
+        4.4_21.4_21_6.4_21_6_4
+      >>>
+        {step:next Continue}
     / Transplantation and Cancer Immunology
     step
-      --
+      >>>
+        ## Transplantation and Cancer Immunology
+      >>
         4.4_21.4_21_7.4_21_7_0
+      --- Transplantation and Cancer Immunology - In Depth
+        4.4_21.4_21_7.4_21_7_1
+        4.4_21.4_21_7.4_21_7_2
+        4.4_21.4_21_7.4_21_7_3
+        4.4_21.4_21_7.4_21_7_4
+      >>>
+        {step:next Continue}
 
   / 4 - Full Text
   // Unit 4: Fluids and Transport - Full Text
@@ -161,10 +431,6 @@ space 4
     step
       --
         4.4_18.4_18_1.4_18_1_5
-    / Interactive Link Questions
-    step
-      --
-        4.4_18.4_18_1.4_18_1_6
     / Production of the Formed Elements - Introduction
     step
       --
@@ -189,10 +455,6 @@ space 4
     step
       --
         4.4_18.4_18_2.4_18_2_5
-    / Interactive Link Questions
-    step
-      --
-        4.4_18.4_18_2.4_18_2_6
     / Erythrocytes - Introduction
     step
       --
@@ -249,10 +511,6 @@ space 4
     step
       --
         4.4_18.4_18_4.4_18_4_7
-    / Interactive Link Questions
-    step
-      --
-        4.4_18.4_18_4.4_18_4_8
     / Hemostasis - Introduction
     step
       --
@@ -285,10 +543,6 @@ space 4
     step
       --
         4.4_18.4_18_5.4_18_5_7
-    / Interactive Link Questions
-    step
-      --
-        4.4_18.4_18_5.4_18_5_8
     / Blood Typing - Introduction
     step
       --
@@ -353,10 +607,6 @@ space 4
     step
       --
         4.4_19.4_19_1.4_19_1_7
-    / Interactive Link Questions
-    step
-      --
-        4.4_19.4_19_1.4_19_1_8
     / Cardiac Muscle and Electrical Activity - Introduction
     step
       --
@@ -537,10 +787,6 @@ space 4
     step
       --
         4.4_20.4_20_3.4_20_3_3
-    / Interactive Link Questions
-    step
-      --
-        4.4_20.4_20_3.4_20_3_4
     / Homeostatic Regulation of the Vascular System - Introduction
     step
       --
@@ -569,10 +815,6 @@ space 4
     step
       --
         4.4_20.4_20_4.4_20_4_6
-    / Interactive Link Questions
-    step
-      --
-        4.4_20.4_20_4.4_20_4_7
     / Circulatory Pathways - Introduction
     step
       --
@@ -653,10 +895,6 @@ space 4
     step
       --
         4.4_21.4_21_1.4_21_1_7
-    / Interactive Link Questions
-    step
-      --
-        4.4_21.4_21_1.4_21_1_8
     / Barrier Defenses and the Innate Immune Response - Introduction
     step
       --
@@ -681,10 +919,6 @@ space 4
     step
       --
         4.4_21.4_21_2.4_21_2_5
-    / Interactive Link Questions
-    step
-      --
-        4.4_21.4_21_2.4_21_2_6
     / The Adaptive Immune Response: T lymphocytes and Their Functional Types - Introduction
     step
       --
@@ -749,10 +983,6 @@ space 4
     step
       --
         4.4_21.4_21_4.4_21_4_5
-    / Interactive Link Questions
-    step
-      --
-        4.4_21.4_21_4.4_21_4_6
     / The Immune Response against Pathogens - Introduction
     step
       --

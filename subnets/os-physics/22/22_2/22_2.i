@@ -11,6 +11,7 @@ story 22_2
     22_2_2
     22_2_3
 
+  / Ferromagnets and Electromagnets - Full Text
   path FullText
     step
       --

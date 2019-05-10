@@ -14,6 +14,7 @@ story 18_2
     18_2_2
     18_2_3
 
+  / Occurrence and Preparation of the Representative Metals - Full Text
   path FullText
     step
       --

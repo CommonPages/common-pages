@@ -4,6 +4,7 @@
 space 3_14
 
   ^^
+    SkimPath
     FullPath
 
   insert 3.3_14.3_14_0.3_14_0_0
@@ -12,6 +13,49 @@ space 3_14
     3_14_1
     3_14_2
     3_14_3
+
+
+  / Key Concepts
+  // The Somatic Nervous System - Key Concepts
+  path SkimPath
+    / The Somatic Nervous System
+    step
+      >>>
+        ## The Somatic Nervous System
+      >>
+        3.3_14.3_14_0.3_14_0_0
+      >>>
+        {step:next Continue}
+
+    / Sensory Perception
+    step
+      >>>
+        ## Sensory Perception
+      >>
+        3.3_14.3_14_1.3_14_1_0
+      --- Sensory Perception - In Depth
+        3.3_14.3_14_1.3_14_1_1
+        3.3_14.3_14_1.3_14_1_2
+        3.3_14.3_14_1.3_14_1_3
+        3.3_14.3_14_1.3_14_1_4
+      >>>
+        {step:next Continue}
+
+    / Motor Responses
+    step
+      >>>
+        ## Motor Responses
+      >>
+        3.3_14.3_14_3.3_14_3_0
+      --- Motor Responses - In Depth
+        3.3_14.3_14_3.3_14_3_1
+        3.3_14.3_14_3.3_14_3_2
+        3.3_14.3_14_3.3_14_3_3
+        3.3_14.3_14_3.3_14_3_4
+        3.3_14.3_14_3.3_14_3_5
+        3.3_14.3_14_3.3_14_3_6
+      >>>
+        {step:exit}
 
 
   / 3.14 - Full Text
@@ -41,10 +85,6 @@ space 3_14
     step
       --
         3.3_14.3_14_1.3_14_1_4
-    / Interactive Link Questions
-    step
-      --
-        3.3_14.3_14_1.3_14_1_5
     / Sensory Pathways
     step
       --
@@ -57,10 +97,6 @@ space 3_14
     step
       --
         3.3_14.3_14_2.3_14_2_2
-    / Interactive Link Questions
-    step
-      --
-        3.3_14.3_14_2.3_14_2_3
     / Motor Responses - Introduction
     step
       --
@@ -89,8 +125,4 @@ space 3_14
     step
       --
         3.3_14.3_14_3.3_14_3_6
-    / Interactive Link Questions
-    step
-      --
-        3.3_14.3_14_3.3_14_3_7
     

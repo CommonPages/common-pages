@@ -35,6 +35,7 @@ story 30_1
     30_1_0
     30_1_1
 
+  / Discovery of the Atom - Full Text
   path FullText
     step
       --

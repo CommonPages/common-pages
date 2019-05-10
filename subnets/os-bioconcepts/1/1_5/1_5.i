@@ -4,6 +4,7 @@
 space 1_5
 
   ^^
+    SkimPath
     FullPath
 
   insert 1.1_5.1_5_0.1_5_0_0
@@ -12,6 +13,64 @@ space 1_5
     1_5_1
     1_5_2
     1_5_3
+
+
+  / Key Concepts
+  // Photosynthesis - Key Concepts
+  path SkimPath
+    / Photosynthesis
+    step
+      >>>
+        ## Photosynthesis
+      >>
+        1.1_5.1_5_0.1_5_0_0
+      >>>
+        {step:next Continue}
+
+    / Overview of Photosynthesis
+    step
+      >>>
+        ## Overview of Photosynthesis
+      >>
+        1.1_5.1_5_1.1_5_1_0
+      --- Overview of Photosynthesis - In Depth
+        1.1_5.1_5_1.1_5_1_1
+        1.1_5.1_5_1.1_5_1_2
+        1.1_5.1_5_1.1_5_1_3
+        1.1_5.1_5_1.1_5_1_4
+      >>>
+        {step:next Continue}
+
+    / The Light-Dependent Reactions of Photosynthesis
+    step
+      >>>
+        ## The Light-Dependent Reactions of Photosynthesis
+      >>
+        1.1_5.1_5_2.1_5_2_0
+      --- The Light-Dependent Reactions of Photosynthesis - In Depth
+        1.1_5.1_5_2.1_5_2_1
+        1.1_5.1_5_2.1_5_2_2
+        1.1_5.1_5_2.1_5_2_3
+        1.1_5.1_5_2.1_5_2_4
+        1.1_5.1_5_2.1_5_2_5
+        1.1_5.1_5_2.1_5_2_6
+        1.1_5.1_5_2.1_5_2_7
+      >>>
+        {step:next Continue}
+
+    / The Calvin Cycle
+    step
+      >>>
+        ## The Calvin Cycle
+      >>
+        1.1_5.1_5_3.1_5_3_0
+      --- The Calvin Cycle - In Depth
+        1.1_5.1_5_3.1_5_3_1
+        1.1_5.1_5_3.1_5_3_2
+        1.1_5.1_5_3.1_5_3_3
+        1.1_5.1_5_3.1_5_3_4
+      >>>
+        {step:exit}
 
 
   / 1.5 - Full Text

@@ -28,6 +28,7 @@ story 19_7
     19_7_0
     19_7_1
 
+  / Energy Stored in Capacitors - Full Text
   path FullText
     step
       --

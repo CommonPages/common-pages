@@ -4,6 +4,7 @@
 space 8_47
 
   ^^
+    SkimPath
     FullPath
 
   insert 8.8_47.8_47_0.8_47_0_0
@@ -13,6 +14,75 @@ space 8_47
     8_47_2
     8_47_3
     8_47_4
+
+
+  / Key Concepts
+  // Conservation Biology and Biodiversity - Key Concepts
+  path SkimPath
+    / Conservation Biology and Biodiversity
+    step
+      >>>
+        ## Conservation Biology and Biodiversity
+      >>
+        8.8_47.8_47_0.8_47_0_0
+      >>>
+        {step:next Continue}
+
+    / The Biodiversity Crisis
+    step
+      >>>
+        ## The Biodiversity Crisis
+      >>
+        8.8_47.8_47_1.8_47_1_0
+      --- The Biodiversity Crisis - In Depth
+        8.8_47.8_47_1.8_47_1_1
+        8.8_47.8_47_1.8_47_1_2
+        8.8_47.8_47_1.8_47_1_3
+      >>>
+        {step:next Continue}
+
+    / The Importance of Biodiversity to Human Life
+    step
+      >>>
+        ## The Importance of Biodiversity to Human Life
+      >>
+        8.8_47.8_47_2.8_47_2_0
+      --- The Importance of Biodiversity to Human Life - In Depth
+        8.8_47.8_47_2.8_47_2_1
+        8.8_47.8_47_2.8_47_2_2
+        8.8_47.8_47_2.8_47_2_3
+        8.8_47.8_47_2.8_47_2_4
+        8.8_47.8_47_2.8_47_2_5
+      >>>
+        {step:next Continue}
+
+    / Threats to Biodiversity
+    step
+      >>>
+        ## Threats to Biodiversity
+      >>
+        8.8_47.8_47_3.8_47_3_0
+      --- Threats to Biodiversity - In Depth
+        8.8_47.8_47_3.8_47_3_1
+        8.8_47.8_47_3.8_47_3_2
+        8.8_47.8_47_3.8_47_3_3
+        8.8_47.8_47_3.8_47_3_4
+        8.8_47.8_47_3.8_47_3_5
+      >>>
+        {step:next Continue}
+
+    / Preserving Biodiversity
+    step
+      >>>
+        ## Preserving Biodiversity
+      >>
+        8.8_47.8_47_4.8_47_4_0
+      --- Preserving Biodiversity - In Depth
+        8.8_47.8_47_4.8_47_4_1
+        8.8_47.8_47_4.8_47_4_2
+        8.8_47.8_47_4.8_47_4_3
+      >>>
+        {step:exit}
 
 
   / 8.47 - Full Text

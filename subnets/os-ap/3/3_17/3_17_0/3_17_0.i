@@ -12,6 +12,7 @@ story 3_17_0
   ---
     3_17_0_0
 
+  / Introduction - Full Text
   path FullText
     step
       --

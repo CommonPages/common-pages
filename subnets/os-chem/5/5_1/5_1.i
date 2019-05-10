@@ -12,6 +12,7 @@ story 5_1
     5_1_2
     5_1_3
 
+  / Valence Bond Theory - Full Text
   path FullText
     step
       --

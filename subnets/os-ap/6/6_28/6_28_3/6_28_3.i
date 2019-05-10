@@ -12,8 +12,8 @@ story 6_28_3
     6_28_3_2
     6_28_3_3
     6_28_3_4
-    6_28_3_5
 
+  / Fetal Development - Full Text
   path FullText
     step
       --
@@ -30,8 +30,5 @@ story 6_28_3
     step
       --
         6_28_3_4
-    step
-      --
-        6_28_3_5
 
     

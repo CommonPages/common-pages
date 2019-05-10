@@ -16,6 +16,7 @@ story 1_1
     1_1_5
     1_1_6
 
+  / What Our Ancestors Knew - Full Text
   path FullText
     step
       --

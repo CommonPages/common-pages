@@ -52,6 +52,7 @@ story 32_7
     32_7_0
     32_7_1
 
+  / Nuclear Weapons - Full Text
   path FullText
     step
       --

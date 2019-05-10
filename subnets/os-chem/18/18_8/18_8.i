@@ -19,6 +19,7 @@ story 18_8
     18_8_2
     18_8_3
 
+  / Occurrence, Preparation, and Properties of Phosphorus - Full Text
   path FullText
     step
       --

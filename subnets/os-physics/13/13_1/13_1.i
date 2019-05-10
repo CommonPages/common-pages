@@ -22,6 +22,7 @@ story 13_1
     13_1_1
     13_1_2
 
+  / Temperature - Full Text
   path FullText
     step
       --

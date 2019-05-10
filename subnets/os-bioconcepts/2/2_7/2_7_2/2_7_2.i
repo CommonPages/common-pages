@@ -18,6 +18,7 @@ story 2_7_2
     2_7_2_4
     2_7_2_5
 
+  / Meiosis - Full Text
   path FullText
     step
       --

@@ -14,6 +14,7 @@ story 3_4
     3_4_4
     3_4_5
 
+  / Electronic Structure of Atoms (Electron Configurations) - Full Text
   path FullText
     step
       --

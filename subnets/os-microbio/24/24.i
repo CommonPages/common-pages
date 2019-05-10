@@ -4,6 +4,7 @@
 space 24
 
   ^^
+    SkimPath
     FullPath
 
   insert 24.24_0.24_0_0
@@ -15,6 +16,120 @@ space 24
     24_4
     24_5
     24_6
+
+
+  / Key Concepts
+  // Digestive System Infections - Key Concepts
+  path SkimPath
+    / Digestive System Infections
+    step
+      >>>
+        ## Digestive System Infections
+      >>
+        24.24_0.24_0_0
+      >>>
+        {step:next Continue}
+
+    / Anatomy and Normal Microbiota of the Digestive System
+    step
+      >>>
+        ## Anatomy and Normal Microbiota of the Digestive System
+      >>
+        24.24_1.24_1_1
+      --- Anatomy and Normal Microbiota of the Digestive System - In Depth
+        24.24_1.24_1_2
+        24.24_1.24_1_3
+        24.24_1.24_1_4
+        24.24_1.24_1_5
+      >>>
+        {step:next Continue}
+
+    / Microbial Diseases of the Mouth and Oral Cavity
+    step
+      >>>
+        ## Microbial Diseases of the Mouth and Oral Cavity
+      >>
+        24.24_2.24_2_1
+      --- Microbial Diseases of the Mouth and Oral Cavity - In Depth
+        24.24_2.24_2_2
+        24.24_2.24_2_3
+        24.24_2.24_2_4
+        24.24_2.24_2_5
+      >>>
+        {step:next Continue}
+
+    / Bacterial Infections of the Gastrointestinal Tract
+    step
+      >>>
+        ## Bacterial Infections of the Gastrointestinal Tract
+      >>
+        24.24_3.24_3_1
+      --- Bacterial Infections of the Gastrointestinal Tract - In Depth
+        24.24_3.24_3_2
+        24.24_3.24_3_3
+        24.24_3.24_3_4
+        24.24_3.24_3_5
+        24.24_3.24_3_6
+        24.24_3.24_3_7
+        24.24_3.24_3_8
+        24.24_3.24_3_9
+        24.24_3.24_3_10
+        24.24_3.24_3_11
+        24.24_3.24_3_12
+        24.24_3.24_3_13
+        24.24_3.24_3_14
+      >>>
+        {step:next Continue}
+
+    / Viral Infections of the Gastrointestinal Tract
+    step
+      >>>
+        ## Viral Infections of the Gastrointestinal Tract
+      >>
+        24.24_4.24_4_1
+      --- Viral Infections of the Gastrointestinal Tract - In Depth
+        24.24_4.24_4_2
+        24.24_4.24_4_3
+        24.24_4.24_4_4
+        24.24_4.24_4_5
+        24.24_4.24_4_6
+      >>>
+        {step:next Continue}
+
+    / Protozoan Infections of the Gastrointestinal Tract
+    step
+      >>>
+        ## Protozoan Infections of the Gastrointestinal Tract
+      >>
+        24.24_5.24_5_1
+      --- Protozoan Infections of the Gastrointestinal Tract - In Depth
+        24.24_5.24_5_2
+        24.24_5.24_5_3
+        24.24_5.24_5_4
+        24.24_5.24_5_5
+        24.24_5.24_5_6
+      >>>
+        {step:next Continue}
+
+    / Helminthic Infections of the Gastrointestinal Tract
+    step
+      >>>
+        ## Helminthic Infections of the Gastrointestinal Tract
+      >>
+        24.24_6.24_6_1
+      --- Helminthic Infections of the Gastrointestinal Tract - In Depth
+        24.24_6.24_6_2
+        24.24_6.24_6_3
+        24.24_6.24_6_4
+        24.24_6.24_6_5
+        24.24_6.24_6_6
+        24.24_6.24_6_7
+        24.24_6.24_6_8
+        24.24_6.24_6_9
+        24.24_6.24_6_10
+        24.24_6.24_6_11
+      >>>
+        {step:exit}
 
 
   / 24 - Full Text

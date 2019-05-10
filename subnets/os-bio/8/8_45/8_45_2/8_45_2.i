@@ -11,6 +11,7 @@ story 8_45_2
     8_45_2_1
     8_45_2_2
 
+  / Life Histories and Natural Selection - Full Text
   path FullText
     step
       --

@@ -14,6 +14,7 @@ story 7_37_2
     7_37_2_2
     7_37_2_3
 
+  / How Hormones Work - Full Text
   path FullText
     step
       --

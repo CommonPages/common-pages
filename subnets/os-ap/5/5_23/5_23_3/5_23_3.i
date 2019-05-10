@@ -16,8 +16,8 @@ story 5_23_3
     5_23_3_6
     5_23_3_7
     5_23_3_8
-    5_23_3_9
 
+  / The Mouth, Pharynx, and Esophagus - Full Text
   path FullText
     step
       --
@@ -46,8 +46,5 @@ story 5_23_3
     step
       --
         5_23_3_8
-    step
-      --
-        5_23_3_9
 
     

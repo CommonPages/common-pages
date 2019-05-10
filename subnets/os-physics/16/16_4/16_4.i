@@ -49,6 +49,7 @@ story 16_4
     16_4_0
     16_4_1
 
+  / The Simple Pendulum - Full Text
   path FullText
     step
       --

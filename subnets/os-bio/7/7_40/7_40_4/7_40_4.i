@@ -13,6 +13,7 @@ story 7_40_4
     7_40_4_3
     7_40_4_4
 
+  / Blood Flow and Blood Pressure Regulation - Full Text
   path FullText
     step
       --

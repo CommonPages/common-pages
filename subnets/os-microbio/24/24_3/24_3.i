@@ -24,6 +24,7 @@ story 24_3
     24_3_13
     24_3_14
 
+  / Bacterial Infections of the Gastrointestinal Tract - Full Text
   path FullText
     step
       --

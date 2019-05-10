@@ -15,6 +15,7 @@ story 2_5
     2_5_2
     2_5_3
 
+  / Motion Equations for Constant Acceleration in One Dimension - Full Text
   path FullText
     step
       --

@@ -17,6 +17,7 @@ story 10_2
     10_2_3
     10_2_4
 
+  / Two Population Means with Known Standard Deviations - Full Text
   path FullText
     step
       --

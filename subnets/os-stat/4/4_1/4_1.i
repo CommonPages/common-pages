@@ -14,6 +14,7 @@ story 4_1
     4_1_1
     4_1_2
 
+  / Probability Distribution Function (PDF) for a Discrete Random Variable - Full Text
   path FullText
     step
       --

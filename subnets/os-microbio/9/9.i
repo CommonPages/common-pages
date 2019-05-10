@@ -4,6 +4,7 @@
 space 9
 
   ^^
+    SkimPath
     FullPath
 
   insert 9.9_0.9_0_0
@@ -15,6 +16,101 @@ space 9
     9_4
     9_5
     9_6
+
+
+  / Key Concepts
+  // Microbial Growth - Key Concepts
+  path SkimPath
+    / Microbial Growth
+    step
+      >>>
+        ## Microbial Growth
+      >>
+        9.9_0.9_0_0
+      >>>
+        {step:next Continue}
+
+    / How Microbes Grow
+    step
+      >>>
+        ## How Microbes Grow
+      >>
+        9.9_1.9_1_1
+      --- How Microbes Grow - In Depth
+        9.9_1.9_1_2
+        9.9_1.9_1_3
+        9.9_1.9_1_4
+        9.9_1.9_1_5
+        9.9_1.9_1_6
+        9.9_1.9_1_7
+        9.9_1.9_1_8
+        9.9_1.9_1_9
+        9.9_1.9_1_10
+        9.9_1.9_1_12
+      >>>
+        {step:next Continue}
+
+    / Oxygen Requirements for Microbial Growth
+    step
+      >>>
+        ## Oxygen Requirements for Microbial Growth
+      >>
+        9.9_2.9_2_1
+      --- Oxygen Requirements for Microbial Growth - In Depth
+        9.9_2.9_2_2
+        9.9_2.9_2_3
+        9.9_2.9_2_4
+        9.9_2.9_2_5
+      >>>
+        {step:next Continue}
+
+    / The Effects of pH on Microbial Growth
+    step
+      >>>
+        ## The Effects of pH on Microbial Growth
+      >>
+        9.9_3.9_3_1
+      --- The Effects of pH on Microbial Growth - In Depth
+        9.9_3.9_3_2
+      >>>
+        {step:next Continue}
+
+    / Temperature and Microbial Growth
+    step
+      >>>
+        ## Temperature and Microbial Growth
+      >>
+        9.9_4.9_4_1
+      --- Temperature and Microbial Growth - In Depth
+        9.9_4.9_4_2
+        9.9_4.9_4_3
+      >>>
+        {step:next Continue}
+
+    / Other Environmental Conditions that Affect Growth
+    step
+      >>>
+        ## Other Environmental Conditions that Affect Growth
+      >>
+        9.9_5.9_5_1
+      --- Other Environmental Conditions that Affect Growth - In Depth
+        9.9_5.9_5_2
+        9.9_5.9_5_3
+        9.9_5.9_5_4
+      >>>
+        {step:next Continue}
+
+    / Media Used for Bacterial Growth
+    step
+      >>>
+        ## Media Used for Bacterial Growth
+      >>
+        9.9_6.9_6_1
+      --- Media Used for Bacterial Growth - In Depth
+        9.9_6.9_6_2
+        9.9_6.9_6_3
+      >>>
+        {step:exit}
 
 
   / 9 - Full Text

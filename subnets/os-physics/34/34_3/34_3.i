@@ -14,6 +14,7 @@ story 34_3
     34_3_0
     34_3_1
 
+  / Superstrings - Full Text
   path FullText
     step
       --

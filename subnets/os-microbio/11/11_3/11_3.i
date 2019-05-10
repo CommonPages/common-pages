@@ -12,6 +12,7 @@ story 11_3
     11_3_3
     11_3_4
 
+  / RNA Transcription - Full Text
   path FullText
     step
       --

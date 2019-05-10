@@ -14,6 +14,7 @@ story 4_3
     4_3_5
     4_3_6
 
+  / Nonproteobacteria Gram-Negative Bacteria and Phototrophic Bacteria - Full Text
   path FullText
     step
       --

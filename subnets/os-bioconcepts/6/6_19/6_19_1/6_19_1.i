@@ -13,6 +13,7 @@ story 6_19_1
     6_19_1_3
     6_19_1_4
 
+  / Population Demographics and Dynamics - Full Text
   path FullText
     step
       --

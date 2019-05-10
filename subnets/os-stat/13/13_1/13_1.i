@@ -18,6 +18,7 @@ story 13_1
     13_1_2
     13_1_3
 
+  / One-Way ANOVA - Full Text
   path FullText
     step
       --

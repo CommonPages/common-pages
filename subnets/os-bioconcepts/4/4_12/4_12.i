@@ -4,6 +4,7 @@
 space 4_12
 
   ^^
+    SkimPath
     FullPath
 
   insert 4.4_12.4_12_0.4_12_0_0
@@ -11,6 +12,46 @@ space 4_12
   --
     4_12_1
     4_12_2
+
+
+  / Key Concepts
+  // Diversity of Life - Key Concepts
+  path SkimPath
+    / Diversity of Life
+    step
+      >>>
+        ## Diversity of Life
+      >>
+        4.4_12.4_12_0.4_12_0_0
+      >>>
+        {step:next Continue}
+
+    / Organizing Life on Earth
+    step
+      >>>
+        ## Organizing Life on Earth
+      >>
+        4.4_12.4_12_1.4_12_1_0
+      --- Organizing Life on Earth - In Depth
+        4.4_12.4_12_1.4_12_1_1
+        4.4_12.4_12_1.4_12_1_2
+        4.4_12.4_12_1.4_12_1_3
+        4.4_12.4_12_1.4_12_1_4
+      >>>
+        {step:next Continue}
+
+    / Determining Evolutionary Relationships
+    step
+      >>>
+        ## Determining Evolutionary Relationships
+      >>
+        4.4_12.4_12_2.4_12_2_0
+      --- Determining Evolutionary Relationships - In Depth
+        4.4_12.4_12_2.4_12_2_1
+        4.4_12.4_12_2.4_12_2_2
+        4.4_12.4_12_2.4_12_2_3
+      >>>
+        {step:exit}
 
 
   / 4.12 - Full Text

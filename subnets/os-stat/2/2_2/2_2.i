@@ -28,6 +28,7 @@ story 2_2
     2_2_4
     2_2_5
 
+  / Histograms, Frequency Polygons, and Time Series Graphs - Full Text
   path FullText
     step
       --

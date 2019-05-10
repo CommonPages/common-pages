@@ -13,6 +13,7 @@ story 5_25_2
     5_25_2_3
     5_25_2_4
 
+  / Gross Anatomy of Urine Transport - Full Text
   path FullText
     step
       --

@@ -4,6 +4,7 @@
 space 5_29
 
   ^^
+    SkimPath
     FullPath
 
   insert 5.5_29.5_29_0.5_29_0_0
@@ -16,6 +17,120 @@ space 5_29
     5_29_5
     5_29_6
     5_29_7
+
+
+  / Key Concepts
+  // Vertebrates - Key Concepts
+  path SkimPath
+    / Vertebrates
+    step
+      >>>
+        ## Vertebrates
+      >>
+        5.5_29.5_29_0.5_29_0_0
+      >>>
+        {step:next Continue}
+
+    / Chordates
+    step
+      >>>
+        ## Chordates
+      >>
+        5.5_29.5_29_1.5_29_1_0
+      --- Chordates - In Depth
+        5.5_29.5_29_1.5_29_1_1
+        5.5_29.5_29_1.5_29_1_2
+        5.5_29.5_29_1.5_29_1_3
+        5.5_29.5_29_1.5_29_1_4
+      >>>
+        {step:next Continue}
+
+    / Fishes
+    step
+      >>>
+        ## Fishes
+      >>
+        5.5_29.5_29_2.5_29_2_0
+      --- Fishes - In Depth
+        5.5_29.5_29_2.5_29_2_1
+        5.5_29.5_29_2.5_29_2_2
+        5.5_29.5_29_2.5_29_2_3
+      >>>
+        {step:next Continue}
+
+    / Amphibians
+    step
+      >>>
+        ## Amphibians
+      >>
+        5.5_29.5_29_3.5_29_3_0
+      --- Amphibians - In Depth
+        5.5_29.5_29_3.5_29_3_1
+        5.5_29.5_29_3.5_29_3_2
+        5.5_29.5_29_3.5_29_3_3
+        5.5_29.5_29_3.5_29_3_4
+      >>>
+        {step:next Continue}
+
+    / Reptiles
+    step
+      >>>
+        ## Reptiles
+      >>
+        5.5_29.5_29_4.5_29_4_0
+      --- Reptiles - In Depth
+        5.5_29.5_29_4.5_29_4_1
+        5.5_29.5_29_4.5_29_4_2
+        5.5_29.5_29_4.5_29_4_3
+        5.5_29.5_29_4.5_29_4_4
+        5.5_29.5_29_4.5_29_4_5
+        5.5_29.5_29_4.5_29_4_6
+        5.5_29.5_29_4.5_29_4_7
+        5.5_29.5_29_4.5_29_4_8
+      >>>
+        {step:next Continue}
+
+    / Birds
+    step
+      >>>
+        ## Birds
+      >>
+        5.5_29.5_29_5.5_29_5_0
+      --- Birds - In Depth
+        5.5_29.5_29_5.5_29_5_1
+        5.5_29.5_29_5.5_29_5_2
+        5.5_29.5_29_5.5_29_5_3
+        5.5_29.5_29_5.5_29_5_4
+      >>>
+        {step:next Continue}
+
+    / Mammals
+    step
+      >>>
+        ## Mammals
+      >>
+        5.5_29.5_29_6.5_29_6_0
+      --- Mammals - In Depth
+        5.5_29.5_29_6.5_29_6_1
+        5.5_29.5_29_6.5_29_6_2
+        5.5_29.5_29_6.5_29_6_3
+        5.5_29.5_29_6.5_29_6_4
+      >>>
+        {step:next Continue}
+
+    / The Evolution of Primates
+    step
+      >>>
+        ## The Evolution of Primates
+      >>
+        5.5_29.5_29_7.5_29_7_0
+      --- The Evolution of Primates - In Depth
+        5.5_29.5_29_7.5_29_7_1
+        5.5_29.5_29_7.5_29_7_2
+        5.5_29.5_29_7.5_29_7_3
+        5.5_29.5_29_7.5_29_7_4
+      >>>
+        {step:exit}
 
 
   / 5.29 - Full Text
@@ -37,7 +152,7 @@ space 5_29
     step
       --
         5.5_29.5_29_1.5_29_1_2
-    / Craniata and Vertebrata
+    / Subphylum Vertebrata (Craniata)
     step
       --
         5.5_29.5_29_1.5_29_1_3
@@ -49,7 +164,7 @@ space 5_29
     step
       --
         5.5_29.5_29_2.5_29_2_0
-    / Jawless Fishes
+    / Jawless Fishes: Superclass Agnatha
     step
       --
         5.5_29.5_29_2.5_29_2_1
@@ -101,14 +216,22 @@ space 5_29
     step
       --
         5.5_29.5_29_4.5_29_4_4
-    / Modern Reptiles
+    / Archosaurs: Dinosaurs
     step
       --
         5.5_29.5_29_4.5_29_4_5
-    / Section Summary
+    / Archosaurs: Pterosaurs
     step
       --
         5.5_29.5_29_4.5_29_4_6
+    / Modern Reptiles
+    step
+      --
+        5.5_29.5_29_4.5_29_4_7
+    / Section Summary
+    step
+      --
+        5.5_29.5_29_4.5_29_4_8
     / Birds - Introduction
     step
       --
@@ -121,10 +244,14 @@ space 5_29
     step
       --
         5.5_29.5_29_5.5_29_5_2
-    / Section Summary
+    / The Evolution of Flight in Birds
     step
       --
         5.5_29.5_29_5.5_29_5_3
+    / Section Summary
+    step
+      --
+        5.5_29.5_29_5.5_29_5_4
     / Mammals - Introduction
     step
       --
@@ -137,7 +264,7 @@ space 5_29
     step
       --
         5.5_29.5_29_6.5_29_6_2
-    / Living Mammals&#9;
+    / Living Mammals
     step
       --
         5.5_29.5_29_6.5_29_6_3

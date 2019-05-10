@@ -23,8 +23,8 @@ story 5_23_1
     5_23_1_4
     5_23_1_5
     5_23_1_6
-    5_23_1_7
 
+  / Overview of the Digestive System - Full Text
   path FullText
     step
       --
@@ -47,8 +47,5 @@ story 5_23_1
     step
       --
         5_23_1_6
-    step
-      --
-        5_23_1_7
 
     

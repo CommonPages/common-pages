@@ -24,6 +24,7 @@ story 7_2
     7_2_3
     7_2_4
 
+  / The Central Limit Theorem for Sums - Full Text
   path FullText
     step
       --

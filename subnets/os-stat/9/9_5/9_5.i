@@ -21,6 +21,7 @@ story 9_5
     9_5_3
     9_5_4
 
+  / Additional Information and Full Hypothesis Test Examples - Full Text
   path FullText
     step
       --

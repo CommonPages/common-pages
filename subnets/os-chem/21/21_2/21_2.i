@@ -12,6 +12,7 @@ story 21_2
     21_2_2
     21_2_3
 
+  / Alcohols and Ethers - Full Text
   path FullText
     step
       --

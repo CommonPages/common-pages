@@ -13,6 +13,7 @@ story 6_30_5
     6_30_5_3
     6_30_5_4
 
+  / Transport of Water and Solutes in Plants - Full Text
   path FullText
     step
       --

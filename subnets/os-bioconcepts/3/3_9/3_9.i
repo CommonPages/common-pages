@@ -4,6 +4,7 @@
 space 3_9
 
   ^^
+    SkimPath
     FullPath
 
   insert 3.3_9.3_9_0.3_9_0_0
@@ -14,6 +15,85 @@ space 3_9
     3_9_3
     3_9_4
     3_9_5
+
+
+  / Key Concepts
+  // Molecular Biology - Key Concepts
+  path SkimPath
+    / Molecular Biology
+    step
+      >>>
+        ## Molecular Biology
+      >>
+        3.3_9.3_9_0.3_9_0_0
+      >>>
+        {step:next Continue}
+
+    / The Structure of DNA
+    step
+      >>>
+        ## The Structure of DNA
+      >>
+        3.3_9.3_9_1.3_9_1_0
+      --- The Structure of DNA - In Depth
+        3.3_9.3_9_1.3_9_1_1
+        3.3_9.3_9_1.3_9_1_2
+        3.3_9.3_9_1.3_9_1_3
+      >>>
+        {step:next Continue}
+
+    / DNA Replication
+    step
+      >>>
+        ## DNA Replication
+      >>
+        3.3_9.3_9_2.3_9_2_0
+      --- DNA Replication - In Depth
+        3.3_9.3_9_2.3_9_2_1
+        3.3_9.3_9_2.3_9_2_2
+        3.3_9.3_9_2.3_9_2_3
+      >>>
+        {step:next Continue}
+
+    / Transcription
+    step
+      >>>
+        ## Transcription
+      >>
+        3.3_9.3_9_3.3_9_3_0
+      --- Transcription - In Depth
+        3.3_9.3_9_3.3_9_3_1
+        3.3_9.3_9_3.3_9_3_2
+        3.3_9.3_9_3.3_9_3_3
+        3.3_9.3_9_3.3_9_3_4
+      >>>
+        {step:next Continue}
+
+    / Translation
+    step
+      >>>
+        ## Translation
+      >>
+        3.3_9.3_9_4.3_9_4_0
+      --- Translation - In Depth
+        3.3_9.3_9_4.3_9_4_1
+        3.3_9.3_9_4.3_9_4_2
+        3.3_9.3_9_4.3_9_4_3
+        3.3_9.3_9_4.3_9_4_4
+      >>>
+        {step:next Continue}
+
+    / How Genes Are Regulated
+    step
+      >>>
+        ## How Genes Are Regulated
+      >>
+        3.3_9.3_9_5.3_9_5_0
+      --- How Genes Are Regulated - In Depth
+        3.3_9.3_9_5.3_9_5_1
+        3.3_9.3_9_5.3_9_5_2
+      >>>
+        {step:exit}
 
 
   / 3.9 - Full Text

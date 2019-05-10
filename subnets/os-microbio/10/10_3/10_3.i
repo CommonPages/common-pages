@@ -13,8 +13,8 @@ story 10_3
     10_3_4
     10_3_5
     10_3_6
-    10_3_7
 
+  / Structure and Function of RNA - Full Text
   path FullText
     step
       --
@@ -34,8 +34,5 @@ story 10_3
     step
       --
         10_3_6
-    step
-      --
-        10_3_7
 
     

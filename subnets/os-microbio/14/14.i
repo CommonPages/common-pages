@@ -4,6 +4,7 @@
 space 14
 
   ^^
+    SkimPath
     FullPath
 
   insert 14.14_0.14_0_0
@@ -16,6 +17,89 @@ space 14
     14_5
     14_6
     14_7
+
+
+  / Key Concepts
+  // Antimicrobial Drugs - Key Concepts
+  path SkimPath
+    / Antimicrobial Drugs
+    step
+      >>>
+        ## Antimicrobial Drugs
+      >>
+        14.14_0.14_0_0
+      >>>
+        {step:next Continue}
+
+    / History of Chemotherapy and Antimicrobial Discovery
+    step
+      >>>
+        ## History of Chemotherapy and Antimicrobial Discovery
+      >>
+        14.14_1.14_1_1
+      --- History of Chemotherapy and Antimicrobial Discovery - In Depth
+        14.14_1.14_1_2
+        14.14_1.14_1_3
+        14.14_1.14_1_4
+      >>>
+        {step:next Continue}
+
+    / Fundamentals of Antimicrobial Chemotherapy
+    step
+      >>>
+        ## Fundamentals of Antimicrobial Chemotherapy
+      >>
+        14.14_2.14_2_1
+      --- Fundamentals of Antimicrobial Chemotherapy - In Depth
+        14.14_2.14_2_2
+        14.14_2.14_2_3
+        14.14_2.14_2_4
+        14.14_2.14_2_5
+        14.14_2.14_2_6
+      >>>
+        {step:next Continue}
+
+    / Drug Resistance
+    step
+      >>>
+        ## Drug Resistance
+      >>
+        14.14_5.14_5_1
+      --- Drug Resistance - In Depth
+        14.14_5.14_5_2
+        14.14_5.14_5_3
+        14.14_5.14_5_4
+        14.14_5.14_5_5
+        14.14_5.14_5_6
+        14.14_5.14_5_7
+        14.14_5.14_5_8
+        14.14_5.14_5_9
+      >>>
+        {step:next Continue}
+
+    / Testing the Effectiveness of Antimicrobials
+    step
+      >>>
+        ## Testing the Effectiveness of Antimicrobials
+      >>
+        14.14_6.14_6_1
+      --- Testing the Effectiveness of Antimicrobials - In Depth
+        14.14_6.14_6_2
+        14.14_6.14_6_3
+        14.14_6.14_6_4
+      >>>
+        {step:next Continue}
+
+    / Current Strategies for Antimicrobial Discovery
+    step
+      >>>
+        ## Current Strategies for Antimicrobial Discovery
+      >>
+        14.14_7.14_7_1
+      --- Current Strategies for Antimicrobial Discovery - In Depth
+        14.14_7.14_7_2
+      >>>
+        {step:exit}
 
 
   / 14 - Full Text
@@ -65,10 +149,6 @@ space 14
     step
       --
         14.14_2.14_2_6
-    / True/False
-    step
-      --
-        14.14_2.14_2_8
     / Learning Objective
     step
       --
@@ -105,10 +185,6 @@ space 14
     step
       --
         14.14_3.14_3_8
-    / True/False
-    step
-      --
-        14.14_3.14_3_10
     / Learning Objective
     step
       --
@@ -137,10 +213,6 @@ space 14
     step
       --
         14.14_4.14_4_6
-    / True/False
-    step
-      --
-        14.14_4.14_4_8
     / Drug Resistance - Introduction
     step
       --
@@ -193,10 +265,6 @@ space 14
     step
       --
         14.14_6.14_6_4
-    / True/False
-    step
-      --
-        14.14_6.14_6_6
     / Current Strategies for Antimicrobial Discovery - Introduction
     step
       --
@@ -205,8 +273,4 @@ space 14
     step
       --
         14.14_7.14_7_2
-    / True/False
-    step
-      --
-        14.14_7.14_7_3
     

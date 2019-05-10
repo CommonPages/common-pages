@@ -15,6 +15,7 @@ story 4_18_6
     4_18_6_5
     4_18_6_6
 
+  / Blood Typing - Full Text
   path FullText
     step
       --

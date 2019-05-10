@@ -56,6 +56,7 @@ story 15_6
     15_6_4
     15_6_5
 
+  / Entropy and the Second Law of Thermodynamics: Disorder and the Unavailability of Energy - Full Text
   path FullText
     step
       --

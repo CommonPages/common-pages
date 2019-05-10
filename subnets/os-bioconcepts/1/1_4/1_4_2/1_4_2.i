@@ -12,6 +12,7 @@ story 1_4_2
     1_4_2_2
     1_4_2_3
 
+  / Glycolysis - Full Text
   path FullText
     step
       --

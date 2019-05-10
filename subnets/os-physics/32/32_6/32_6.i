@@ -96,6 +96,7 @@ story 32_6
     32_6_0
     32_6_1
 
+  / Fission - Full Text
   path FullText
     step
       --

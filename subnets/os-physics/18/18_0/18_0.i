@@ -27,6 +27,7 @@ story 18_0
   ---
     18_0_0
 
+  / Introduction to Electric Charge and Electric Field - Full Text
   path FullText
     step
       --

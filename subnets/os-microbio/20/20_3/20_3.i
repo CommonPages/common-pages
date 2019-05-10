@@ -15,6 +15,7 @@ story 20_3
     20_3_3
     20_3_4
 
+  / Agglutination Assays - Full Text
   path FullText
     step
       --

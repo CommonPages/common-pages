@@ -17,6 +17,7 @@ story 29_5
     29_5_0
     29_5_1
 
+  / The Particle-Wave Duality - Full Text
   path FullText
     step
       --

@@ -14,8 +14,8 @@ story 3_15_1
     3_15_1_2
     3_15_1_3
     3_15_1_4
-    3_15_1_5
 
+  / Divisions of the Autonomic Nervous System - Full Text
   path FullText
     step
       --
@@ -32,8 +32,5 @@ story 3_15_1
     step
       --
         3_15_1_4
-    step
-      --
-        3_15_1_5
 
     

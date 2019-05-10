@@ -18,6 +18,7 @@ story 2_2
     2_2_1
     2_2_2
 
+  / Vectors, Scalars, and Coordinate Systems - Full Text
   path FullText
     step
       --

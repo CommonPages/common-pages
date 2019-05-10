@@ -4,6 +4,7 @@
 space 1_3
 
   ^^
+    SkimPath
     FullPath
 
   insert 1.1_3.1_3_0.1_3_0_0
@@ -15,6 +16,109 @@ space 1_3
     1_3_4
     1_3_5
     1_3_6
+
+
+  / Key Concepts
+  // Cell Structure and Function - Key Concepts
+  path SkimPath
+    / Cell Structure and Function
+    step
+      >>>
+        ## Cell Structure and Function
+      >>
+        1.1_3.1_3_0.1_3_0_0
+      >>>
+        {step:next Continue}
+
+    / How Cells Are Studied
+    step
+      >>>
+        ## How Cells Are Studied
+      >>
+        1.1_3.1_3_1.1_3_1_0
+      --- How Cells Are Studied - In Depth
+        1.1_3.1_3_1.1_3_1_1
+        1.1_3.1_3_1.1_3_1_2
+        1.1_3.1_3_1.1_3_1_3
+      >>>
+        {step:next Continue}
+
+    / Comparing Prokaryotic and Eukaryotic Cells
+    step
+      >>>
+        ## Comparing Prokaryotic and Eukaryotic Cells
+      >>
+        1.1_3.1_3_2.1_3_2_0
+      --- Comparing Prokaryotic and Eukaryotic Cells - In Depth
+        1.1_3.1_3_2.1_3_2_1
+        1.1_3.1_3_2.1_3_2_2
+        1.1_3.1_3_2.1_3_2_3
+        1.1_3.1_3_2.1_3_2_4
+      >>>
+        {step:next Continue}
+
+    / Eukaryotic Cells
+    step
+      >>>
+        ## Eukaryotic Cells
+      >>
+        1.1_3.1_3_3.1_3_3_0
+      --- Eukaryotic Cells - In Depth
+        1.1_3.1_3_3.1_3_3_1
+        1.1_3.1_3_3.1_3_3_2
+        1.1_3.1_3_3.1_3_3_3
+        1.1_3.1_3_3.1_3_3_4
+        1.1_3.1_3_3.1_3_3_5
+        1.1_3.1_3_3.1_3_3_6
+        1.1_3.1_3_3.1_3_3_7
+        1.1_3.1_3_3.1_3_3_8
+        1.1_3.1_3_3.1_3_3_9
+        1.1_3.1_3_3.1_3_3_10
+        1.1_3.1_3_3.1_3_3_11
+      >>>
+        {step:next Continue}
+
+    / The Cell Membrane
+    step
+      >>>
+        ## The Cell Membrane
+      >>
+        1.1_3.1_3_4.1_3_4_0
+      --- The Cell Membrane - In Depth
+        1.1_3.1_3_4.1_3_4_1
+        1.1_3.1_3_4.1_3_4_2
+      >>>
+        {step:next Continue}
+
+    / Passive Transport
+    step
+      >>>
+        ## Passive Transport
+      >>
+        1.1_3.1_3_5.1_3_5_0
+      --- Passive Transport - In Depth
+        1.1_3.1_3_5.1_3_5_1
+        1.1_3.1_3_5.1_3_5_2
+        1.1_3.1_3_5.1_3_5_3
+        1.1_3.1_3_5.1_3_5_4
+        1.1_3.1_3_5.1_3_5_5
+        1.1_3.1_3_5.1_3_5_6
+      >>>
+        {step:next Continue}
+
+    / Active Transport
+    step
+      >>>
+        ## Active Transport
+      >>
+        1.1_3.1_3_6.1_3_6_0
+      --- Active Transport - In Depth
+        1.1_3.1_3_6.1_3_6_1
+        1.1_3.1_3_6.1_3_6_2
+        1.1_3.1_3_6.1_3_6_3
+        1.1_3.1_3_6.1_3_6_4
+      >>>
+        {step:exit}
 
 
   / 1.3 - Full Text

@@ -31,6 +31,7 @@ story 5_3
     5_3_3
     5_3_4
 
+  / Elasticity: Stress and Strain - Full Text
   path FullText
     step
       --

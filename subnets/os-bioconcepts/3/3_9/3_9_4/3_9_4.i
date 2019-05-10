@@ -13,6 +13,7 @@ story 3_9_4
     3_9_4_3
     3_9_4_4
 
+  / Translation - Full Text
   path FullText
     step
       --

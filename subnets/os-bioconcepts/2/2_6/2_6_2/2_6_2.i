@@ -19,6 +19,7 @@ story 2_6_2
     2_6_2_4
     2_6_2_5
 
+  / The Cell Cycle - Full Text
   path FullText
     step
       --

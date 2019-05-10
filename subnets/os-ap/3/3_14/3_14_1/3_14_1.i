@@ -14,8 +14,8 @@ story 3_14_1
     3_14_1_2
     3_14_1_3
     3_14_1_4
-    3_14_1_5
 
+  / Sensory Perception - Full Text
   path FullText
     step
       --
@@ -32,8 +32,5 @@ story 3_14_1
     step
       --
         3_14_1_4
-    step
-      --
-        3_14_1_5
 
     

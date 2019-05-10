@@ -14,8 +14,8 @@ story 3_17_9
     3_17_9_1
     3_17_9_2
     3_17_9_3
-    3_17_9_4
 
+  / The Endocrine Pancreas - Full Text
   path FullText
     step
       --
@@ -29,8 +29,5 @@ story 3_17_9
     step
       --
         3_17_9_3
-    step
-      --
-        3_17_9_4
 
     

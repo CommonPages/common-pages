@@ -15,6 +15,7 @@ story 24_0
     24_0_0
     24_0_1
 
+  / Introduction to Electromagnetic Waves - Full Text
   path FullText
     step
       --

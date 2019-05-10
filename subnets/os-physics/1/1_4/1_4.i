@@ -10,6 +10,7 @@ story 1_4
     1_4_0
     1_4_1
 
+  / Approximation - Full Text
   path FullText
     step
       --

@@ -17,8 +17,8 @@ story 3_16_3
     3_16_3_3
     3_16_3_4
     3_16_3_5
-    3_16_3_6
 
+  / The Cranial Nerve Exam - Full Text
   path FullText
     step
       --
@@ -38,8 +38,5 @@ story 3_16_3
     step
       --
         3_16_3_5
-    step
-      --
-        3_16_3_6
 
     

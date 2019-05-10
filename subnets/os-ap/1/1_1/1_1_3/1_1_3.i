@@ -14,8 +14,8 @@ story 1_1_3
     1_1_3_4
     1_1_3_5
     1_1_3_6
-    1_1_3_7
 
+  / Functions of Human Life - Full Text
   path FullText
     step
       --
@@ -38,8 +38,5 @@ story 1_1_3
     step
       --
         1_1_3_6
-    step
-      --
-        1_1_3_7
 
     

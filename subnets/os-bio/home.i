@@ -1,6 +1,6 @@
 
 
-url: //static.claimspace.cloud/projects/os/logos/os-bio.svg
+url: //static.theinsight.cloud/projects/os-bio/os-bio.svg
 width: 160
 height: 160
 image 'Logo

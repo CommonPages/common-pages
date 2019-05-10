@@ -20,6 +20,7 @@ story 6_20_4
     6_20_4_4
     6_20_4_5
 
+  / Aquatic and Marine Biomes - Full Text
   path FullText
     step
       --

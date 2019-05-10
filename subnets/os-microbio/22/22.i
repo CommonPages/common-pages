@@ -4,6 +4,7 @@
 space 22
 
   ^^
+    SkimPath
     FullPath
 
   insert 22.22_0.22_0_0
@@ -13,6 +14,88 @@ space 22
     22_2
     22_3
     22_4
+
+
+  / Key Concepts
+  // Respiratory System Infections - Key Concepts
+  path SkimPath
+    / Respiratory System Infections
+    step
+      >>>
+        ## Respiratory System Infections
+      >>
+        22.22_0.22_0_0
+      >>>
+        {step:next Continue}
+
+    / Anatomy and Normal Microbiota of the Respiratory Tract
+    step
+      >>>
+        ## Anatomy and Normal Microbiota of the Respiratory Tract
+      >>
+        22.22_1.22_1_1
+      --- Anatomy and Normal Microbiota of the Respiratory Tract - In Depth
+        22.22_1.22_1_2
+        22.22_1.22_1_3
+        22.22_1.22_1_4
+        22.22_1.22_1_5
+        22.22_1.22_1_6
+        22.22_1.22_1_7
+      >>>
+        {step:next Continue}
+
+    / Bacterial Infections of the Respiratory Tract
+    step
+      >>>
+        ## Bacterial Infections of the Respiratory Tract
+      >>
+        22.22_2.22_2_1
+      --- Bacterial Infections of the Respiratory Tract - In Depth
+        22.22_2.22_2_2
+        22.22_2.22_2_3
+        22.22_2.22_2_4
+        22.22_2.22_2_5
+        22.22_2.22_2_6
+        22.22_2.22_2_7
+        22.22_2.22_2_8
+        22.22_2.22_2_9
+        22.22_2.22_2_10
+      >>>
+        {step:next Continue}
+
+    / Viral Infections of the Respiratory Tract
+    step
+      >>>
+        ## Viral Infections of the Respiratory Tract
+      >>
+        22.22_3.22_3_1
+      --- Viral Infections of the Respiratory Tract - In Depth
+        22.22_3.22_3_2
+        22.22_3.22_3_3
+        22.22_3.22_3_4
+        22.22_3.22_3_5
+        22.22_3.22_3_6
+        22.22_3.22_3_7
+      >>>
+        {step:next Continue}
+
+    / Respiratory Mycoses
+    step
+      >>>
+        ## Respiratory Mycoses
+      >>
+        22.22_4.22_4_1
+      --- Respiratory Mycoses - In Depth
+        22.22_4.22_4_2
+        22.22_4.22_4_3
+        22.22_4.22_4_4
+        22.22_4.22_4_5
+        22.22_4.22_4_6
+        22.22_4.22_4_7
+        22.22_4.22_4_8
+        22.22_4.22_4_9
+      >>>
+        {step:exit}
 
 
   / 22 - Full Text

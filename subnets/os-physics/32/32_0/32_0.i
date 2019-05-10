@@ -18,6 +18,7 @@ story 32_0
   ---
     32_0_0
 
+  / Introduction to Applications of Nuclear Physics - Full Text
   path FullText
     step
       --

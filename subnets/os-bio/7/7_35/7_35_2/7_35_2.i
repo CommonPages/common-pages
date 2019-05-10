@@ -14,6 +14,7 @@ story 7_35_2
     7_35_2_4
     7_35_2_5
 
+  / How Neurons Communicate - Full Text
   path FullText
     step
       --

@@ -10,6 +10,7 @@ story 20_3
     20_3_1
     20_3_2
 
+  / Resistance and Resistivity - Full Text
   path FullText
     step
       --

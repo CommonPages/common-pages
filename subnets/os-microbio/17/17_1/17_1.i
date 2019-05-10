@@ -18,6 +18,7 @@ story 17_1
     17_1_4
     17_1_5
 
+  / Physical Defenses - Full Text
   path FullText
     step
       --

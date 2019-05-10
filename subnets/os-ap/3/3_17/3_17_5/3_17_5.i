@@ -24,6 +24,7 @@ story 3_17_5
     3_17_5_0
     3_17_5_1
 
+  / The Parathyroid Glands - Full Text
   path FullText
     step
       --

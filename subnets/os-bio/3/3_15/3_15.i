@@ -4,6 +4,7 @@
 space 3_15
 
   ^^
+    SkimPath
     FullPath
 
   insert 3.3_15.3_15_0.3_15_0_0
@@ -14,6 +15,85 @@ space 3_15
     3_15_3
     3_15_4
     3_15_5
+
+
+  / Key Concepts
+  // Genes and Proteins - Key Concepts
+  path SkimPath
+    / Genes and Proteins
+    step
+      >>>
+        ## Genes and Proteins
+      >>
+        3.3_15.3_15_0.3_15_0_0
+      >>>
+        {step:next Continue}
+
+    / The Genetic Code
+    step
+      >>>
+        ## The Genetic Code
+      >>
+        3.3_15.3_15_1.3_15_1_0
+      --- The Genetic Code - In Depth
+        3.3_15.3_15_1.3_15_1_1
+        3.3_15.3_15_1.3_15_1_2
+      >>>
+        {step:next Continue}
+
+    / Prokaryotic Transcription
+    step
+      >>>
+        ## Prokaryotic Transcription
+      >>
+        3.3_15.3_15_2.3_15_2_0
+      --- Prokaryotic Transcription - In Depth
+        3.3_15.3_15_2.3_15_2_1
+        3.3_15.3_15_2.3_15_2_2
+        3.3_15.3_15_2.3_15_2_3
+        3.3_15.3_15_2.3_15_2_4
+      >>>
+        {step:next Continue}
+
+    / Eukaryotic Transcription
+    step
+      >>>
+        ## Eukaryotic Transcription
+      >>
+        3.3_15.3_15_3.3_15_3_0
+      --- Eukaryotic Transcription - In Depth
+        3.3_15.3_15_3.3_15_3_1
+        3.3_15.3_15_3.3_15_3_2
+        3.3_15.3_15_3.3_15_3_3
+      >>>
+        {step:next Continue}
+
+    / RNA Processing in Eukaryotes
+    step
+      >>>
+        ## RNA Processing in Eukaryotes
+      >>
+        3.3_15.3_15_4.3_15_4_0
+      --- RNA Processing in Eukaryotes - In Depth
+        3.3_15.3_15_4.3_15_4_1
+        3.3_15.3_15_4.3_15_4_2
+        3.3_15.3_15_4.3_15_4_3
+      >>>
+        {step:next Continue}
+
+    / Ribosomes and Protein Synthesis
+    step
+      >>>
+        ## Ribosomes and Protein Synthesis
+      >>
+        3.3_15.3_15_5.3_15_5_0
+      --- Ribosomes and Protein Synthesis - In Depth
+        3.3_15.3_15_5.3_15_5_1
+        3.3_15.3_15_5.3_15_5_2
+        3.3_15.3_15_5.3_15_5_3
+        3.3_15.3_15_5.3_15_5_4
+      >>>
+        {step:exit}
 
 
   / 3.15 - Full Text

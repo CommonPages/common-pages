@@ -53,6 +53,7 @@ story 9_3
     9_3_0
     9_3_1
 
+  / Stability - Full Text
   path FullText
     step
       --

@@ -34,6 +34,7 @@ story 16_10
     16_10_2
     16_10_3
 
+  / Superposition and Interference - Full Text
   path FullText
     step
       --

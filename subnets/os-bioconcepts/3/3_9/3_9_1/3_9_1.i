@@ -28,6 +28,7 @@ story 3_9_1
     3_9_1_2
     3_9_1_3
 
+  / The Structure of DNA - Full Text
   path FullText
     step
       --

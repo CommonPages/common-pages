@@ -4,6 +4,7 @@
 space 6_30
 
   ^^
+    SkimPath
     FullPath
 
   insert 6.6_30.6_30_0.6_30_0_0
@@ -15,6 +16,106 @@ space 6_30
     6_30_4
     6_30_5
     6_30_6
+
+
+  / Key Concepts
+  // Plant Form and Physiology - Key Concepts
+  path SkimPath
+    / Plant Form and Physiology
+    step
+      >>>
+        ## Plant Form and Physiology
+      >>
+        6.6_30.6_30_0.6_30_0_0
+      >>>
+        {step:next Continue}
+
+    / The Plant Body
+    step
+      >>>
+        ## The Plant Body
+      >>
+        6.6_30.6_30_1.6_30_1_0
+      --- The Plant Body - In Depth
+        6.6_30.6_30_1.6_30_1_1
+        6.6_30.6_30_1.6_30_1_2
+        6.6_30.6_30_1.6_30_1_3
+      >>>
+        {step:next Continue}
+
+    / Stems
+    step
+      >>>
+        ## Stems
+      >>
+        6.6_30.6_30_2.6_30_2_0
+      --- Stems - In Depth
+        6.6_30.6_30_2.6_30_2_1
+        6.6_30.6_30_2.6_30_2_2
+        6.6_30.6_30_2.6_30_2_3
+        6.6_30.6_30_2.6_30_2_4
+      >>>
+        {step:next Continue}
+
+    / Roots
+    step
+      >>>
+        ## Roots
+      >>
+        6.6_30.6_30_3.6_30_3_0
+      --- Roots - In Depth
+        6.6_30.6_30_3.6_30_3_1
+        6.6_30.6_30_3.6_30_3_2
+        6.6_30.6_30_3.6_30_3_3
+        6.6_30.6_30_3.6_30_3_4
+      >>>
+        {step:next Continue}
+
+    / Leaves
+    step
+      >>>
+        ## Leaves
+      >>
+        6.6_30.6_30_4.6_30_4_0
+      --- Leaves - In Depth
+        6.6_30.6_30_4.6_30_4_1
+        6.6_30.6_30_4.6_30_4_2
+        6.6_30.6_30_4.6_30_4_3
+        6.6_30.6_30_4.6_30_4_4
+        6.6_30.6_30_4.6_30_4_5
+        6.6_30.6_30_4.6_30_4_6
+      >>>
+        {step:next Continue}
+
+    / Transport of Water and Solutes in Plants
+    step
+      >>>
+        ## Transport of Water and Solutes in Plants
+      >>
+        6.6_30.6_30_5.6_30_5_0
+      --- Transport of Water and Solutes in Plants - In Depth
+        6.6_30.6_30_5.6_30_5_1
+        6.6_30.6_30_5.6_30_5_2
+        6.6_30.6_30_5.6_30_5_3
+        6.6_30.6_30_5.6_30_5_4
+      >>>
+        {step:next Continue}
+
+    / Plant Sensory Systems and Responses
+    step
+      >>>
+        ## Plant Sensory Systems and Responses
+      >>
+        6.6_30.6_30_6.6_30_6_0
+      --- Plant Sensory Systems and Responses - In Depth
+        6.6_30.6_30_6.6_30_6_1
+        6.6_30.6_30_6.6_30_6_2
+        6.6_30.6_30_6.6_30_6_3
+        6.6_30.6_30_6.6_30_6_4
+        6.6_30.6_30_6.6_30_6_5
+        6.6_30.6_30_6.6_30_6_6
+      >>>
+        {step:exit}
 
 
   / 6.30 - Full Text

@@ -14,6 +14,7 @@ story 2_11_5
     2_11_5_4
     2_11_5_5
 
+  / Muscles of the Pectoral Girdle and Upper Limbs - Full Text
   path FullText
     step
       --

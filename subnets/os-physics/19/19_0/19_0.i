@@ -12,6 +12,7 @@ story 19_0
   ---
     19_0_0
 
+  / Introduction to Electric Potential and Electric Energy - Full Text
   path FullText
     step
       --

@@ -14,8 +14,8 @@ story 8_2
     8_2_3
     8_2_4
     8_2_5
-    8_2_6
 
+  / Catabolism of Carbohydrates - Full Text
   path FullText
     step
       --
@@ -32,8 +32,5 @@ story 8_2
     step
       --
         8_2_5
-    step
-      --
-        8_2_6
 
     

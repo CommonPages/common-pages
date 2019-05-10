@@ -18,6 +18,7 @@ story 21_3
     21_3_3
     21_3_4
 
+  / Kirchhoff’s Rules - Full Text
   path FullText
     step
       --

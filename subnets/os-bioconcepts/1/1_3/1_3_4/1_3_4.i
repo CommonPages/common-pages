@@ -13,6 +13,7 @@ story 1_3_4
     1_3_4_1
     1_3_4_2
 
+  / The Cell Membrane - Full Text
   path FullText
     step
       --

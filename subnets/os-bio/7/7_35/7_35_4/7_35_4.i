@@ -14,6 +14,7 @@ story 7_35_4
     7_35_4_2
     7_35_4_3
 
+  / The Peripheral Nervous System - Full Text
   path FullText
     step
       --

@@ -24,6 +24,7 @@ story 22_1
     22_1_0
     22_1_1
 
+  / Magnets - Full Text
   path FullText
     step
       --

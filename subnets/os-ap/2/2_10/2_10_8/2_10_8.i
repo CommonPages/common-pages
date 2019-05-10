@@ -38,6 +38,7 @@ story 2_10_8
     2_10_8_1
     2_10_8_2
 
+  / Smooth Muscle - Full Text
   path FullText
     step
       --

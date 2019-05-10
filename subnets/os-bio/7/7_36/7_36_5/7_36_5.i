@@ -14,6 +14,7 @@ story 7_36_5
     7_36_5_4
     7_36_5_5
 
+  / Vision - Full Text
   path FullText
     step
       --

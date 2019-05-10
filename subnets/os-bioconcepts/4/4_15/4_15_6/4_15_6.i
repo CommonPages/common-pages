@@ -17,6 +17,7 @@ story 4_15_6
     4_15_6_4
     4_15_6_5
 
+  / Vertebrates - Full Text
   path FullText
     step
       --

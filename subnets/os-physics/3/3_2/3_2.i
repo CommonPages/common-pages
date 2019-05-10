@@ -16,6 +16,7 @@ story 3_2
     3_2_5
     3_2_6
 
+  / Vector Addition and Subtraction: Graphical Methods - Full Text
   path FullText
     step
       --

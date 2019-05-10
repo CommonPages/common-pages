@@ -13,6 +13,7 @@ story 3_9_3
     3_9_3_3
     3_9_3_4
 
+  / Transcription - Full Text
   path FullText
     step
       --

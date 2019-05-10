@@ -14,6 +14,7 @@ story 7_2
     7_2_5
     7_2_6
 
+  / Carbohydrates - Full Text
   path FullText
     step
       --

@@ -10,6 +10,7 @@ story 29_1
     29_1_1
     29_1_2
 
+  / Quantization of Energy - Full Text
   path FullText
     step
       --

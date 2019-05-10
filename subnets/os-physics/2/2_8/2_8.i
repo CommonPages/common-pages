@@ -14,6 +14,7 @@ story 2_8
     2_8_4
     2_8_5
 
+  / Graphical Analysis of One-Dimensional Motion - Full Text
   path FullText
     step
       --

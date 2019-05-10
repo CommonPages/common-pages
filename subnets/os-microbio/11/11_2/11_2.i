@@ -20,8 +20,8 @@ story 11_2
     11_2_3
     11_2_4
     11_2_5
-    11_2_7
 
+  / DNA Replication - Full Text
   path FullText
     step
       --
@@ -38,8 +38,5 @@ story 11_2
     step
       --
         11_2_5
-    step
-      --
-        11_2_7
 
     

@@ -4,6 +4,7 @@
 space 5
 
   ^^
+    SkimPath
     FullPath
 
   insert 5.5_0.5_0_0
@@ -12,6 +13,62 @@ space 5
     5_1
     5_2
     5_3
+
+
+  / Key Concepts
+  // Continuous Random Variables - Key Concepts
+  path SkimPath
+    / Continuous Random Variables
+    step
+      >>>
+        ## Continuous Random Variables
+      >>
+        5.5_0.5_0_0
+      --- Continuous Random Variables - In Depth
+        5.5_0.5_0_1
+      >>>
+        {step:next Continue}
+
+    / Continuous Probability Functions
+    step
+      >>>
+        ## Continuous Probability Functions
+      >>
+        5.5_1.5_1_0
+      --- Continuous Probability Functions - In Depth
+        5.5_1.5_1_1
+        5.5_1.5_1_2
+        5.5_1.5_1_3
+      >>>
+        {step:next Continue}
+
+    / The Uniform Distribution
+    step
+      >>>
+        ## The Uniform Distribution
+      >>
+        5.5_2.5_2_0
+      --- The Uniform Distribution - In Depth
+        5.5_2.5_2_1
+        5.5_2.5_2_2
+        5.5_2.5_2_4
+      >>>
+        {step:next Continue}
+
+    / The Exponential Distribution
+    step
+      >>>
+        ## The Exponential Distribution
+      >>
+        5.5_3.5_3_0
+      --- The Exponential Distribution - In Depth
+        5.5_3.5_3_1
+        5.5_3.5_3_2
+        5.5_3.5_3_3
+        5.5_3.5_3_4
+        5.5_3.5_3_6
+      >>>
+        {step:exit}
 
 
   / 5 - Full Text

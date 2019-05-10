@@ -12,8 +12,8 @@ story 1_3_1
     1_3_1_2
     1_3_1_3
     1_3_1_4
-    1_3_1_5
 
+  / The Cell Membrane - Full Text
   path FullText
     step
       --
@@ -30,8 +30,5 @@ story 1_3_1
     step
       --
         1_3_1_4
-    step
-      --
-        1_3_1_5
 
     

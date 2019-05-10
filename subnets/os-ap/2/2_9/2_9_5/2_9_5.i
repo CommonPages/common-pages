@@ -27,8 +27,8 @@ story 2_9_5
     2_9_5_11
     2_9_5_12
     2_9_5_13
-    2_9_5_14
 
+  / Types of Body Movements - Full Text
   path FullText
     step
       --
@@ -72,8 +72,5 @@ story 2_9_5
     step
       --
         2_9_5_13
-    step
-      --
-        2_9_5_14
 
     

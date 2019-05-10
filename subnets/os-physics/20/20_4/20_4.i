@@ -10,6 +10,7 @@ story 20_4
     20_4_1
     20_4_2
 
+  / Electric Power and Energy - Full Text
   path FullText
     step
       --

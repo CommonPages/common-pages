@@ -57,6 +57,7 @@ story 10_2
     10_2_1
     10_2_2
 
+  / Properties of Liquids - Full Text
   path FullText
     step
       --

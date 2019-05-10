@@ -2,7 +2,7 @@
 / RNA Processing in Eukaryotes
 story 3_15_4
   >
-    After transcription, eukaryotic pre-mRNAs must undergo several processing steps before they can be translated. Eukaryotic (and prokaryotic) tRNAs and rRNAs also undergo processing before they can function as components in the protein synthesis machinery.
+    After transcription, eukaryotic pre-mRNAs must undergo several processing steps before they can be translated. Eukaryotic (and prokaryotic) tRNAs and rRNAs also undergo processing before they can function as components in the protein-synthesis machinery.
 
   apply FullText
 
@@ -12,6 +12,7 @@ story 3_15_4
     3_15_4_2
     3_15_4_3
 
+  / RNA Processing in Eukaryotes - Full Text
   path FullText
     step
       --

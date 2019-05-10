@@ -15,101 +15,301 @@ space 1
     1_4
     1_5
 
-  / 1 - Key Concepts
-  // Key Concepts
+  / Key Concepts
+  // Unit 1. The Cellular Foundation of Life - Key Concepts
   path SkimPath
-    / Introduction
+    / Introduction to Biology
     step
-      --
+      >>>
+        ## Introduction to Biology
+      >>
         1.1_1.1_1_0.1_1_0_0
+      >>>
+        {step:next Continue}
     / Themes and Concepts of Biology
     step
-      --
+      >>>
+        ## Themes and Concepts of Biology
+      >>
         1.1_1.1_1_1.1_1_1_0
+      --- Themes and Concepts of Biology - In Depth
+        1.1_1.1_1_1.1_1_1_1
+        1.1_1.1_1_1.1_1_1_2
+        1.1_1.1_1_1.1_1_1_3
+        1.1_1.1_1_1.1_1_1_4
+        1.1_1.1_1_1.1_1_1_5
+      >>>
+        {step:next Continue}
     / The Process of Science
     step
-      --
+      >>>
+        ## The Process of Science
+      >>
         1.1_1.1_1_2.1_1_2_0
-    / Introduction
+      --- The Process of Science - In Depth
+        1.1_1.1_1_2.1_1_2_1
+        1.1_1.1_1_2.1_1_2_2
+        1.1_1.1_1_2.1_1_2_3
+        1.1_1.1_1_2.1_1_2_4
+        1.1_1.1_1_2.1_1_2_5
+      >>>
+        {step:next Continue}
+    / Chemistry of Life
     step
-      --
+      >>>
+        ## Chemistry of Life
+      >>
         1.1_2.1_2_0.1_2_0_0
+      >>>
+        {step:next Continue}
     / The Building Blocks of Molecules
     step
-      --
+      >>>
+        ## The Building Blocks of Molecules
+      >>
         1.1_2.1_2_1.1_2_1_0
+      --- The Building Blocks of Molecules - In Depth
+        1.1_2.1_2_1.1_2_1_1
+        1.1_2.1_2_1.1_2_1_2
+        1.1_2.1_2_1.1_2_1_3
+      >>>
+        {step:next Continue}
     / Water
     step
-      --
+      >>>
+        ## Water
+      >>
         1.1_2.1_2_2.1_2_2_0
+      --- Water - In Depth
+        1.1_2.1_2_2.1_2_2_1
+        1.1_2.1_2_2.1_2_2_2
+        1.1_2.1_2_2.1_2_2_3
+        1.1_2.1_2_2.1_2_2_4
+        1.1_2.1_2_2.1_2_2_5
+        1.1_2.1_2_2.1_2_2_6
+      >>>
+        {step:next Continue}
     / Biological Molecules
     step
-      --
+      >>>
+        ## Biological Molecules
+      >>
         1.1_2.1_2_3.1_2_3_0
-    / Introduction
+      --- Biological Molecules - In Depth
+        1.1_2.1_2_3.1_2_3_1
+        1.1_2.1_2_3.1_2_3_2
+        1.1_2.1_2_3.1_2_3_3
+        1.1_2.1_2_3.1_2_3_4
+        1.1_2.1_2_3.1_2_3_5
+        1.1_2.1_2_3.1_2_3_6
+        1.1_2.1_2_3.1_2_3_7
+        1.1_2.1_2_3.1_2_3_8
+      >>>
+        {step:next Continue}
+    / Cell Structure and Function
     step
-      --
+      >>>
+        ## Cell Structure and Function
+      >>
         1.1_3.1_3_0.1_3_0_0
+      >>>
+        {step:next Continue}
     / How Cells Are Studied
     step
-      --
+      >>>
+        ## How Cells Are Studied
+      >>
         1.1_3.1_3_1.1_3_1_0
+      --- How Cells Are Studied - In Depth
+        1.1_3.1_3_1.1_3_1_1
+        1.1_3.1_3_1.1_3_1_2
+        1.1_3.1_3_1.1_3_1_3
+      >>>
+        {step:next Continue}
     / Comparing Prokaryotic and Eukaryotic Cells
     step
-      --
+      >>>
+        ## Comparing Prokaryotic and Eukaryotic Cells
+      >>
         1.1_3.1_3_2.1_3_2_0
+      --- Comparing Prokaryotic and Eukaryotic Cells - In Depth
+        1.1_3.1_3_2.1_3_2_1
+        1.1_3.1_3_2.1_3_2_2
+        1.1_3.1_3_2.1_3_2_3
+        1.1_3.1_3_2.1_3_2_4
+      >>>
+        {step:next Continue}
     / Eukaryotic Cells
     step
-      --
+      >>>
+        ## Eukaryotic Cells
+      >>
         1.1_3.1_3_3.1_3_3_0
+      --- Eukaryotic Cells - In Depth
+        1.1_3.1_3_3.1_3_3_1
+        1.1_3.1_3_3.1_3_3_2
+        1.1_3.1_3_3.1_3_3_3
+        1.1_3.1_3_3.1_3_3_4
+        1.1_3.1_3_3.1_3_3_5
+        1.1_3.1_3_3.1_3_3_6
+        1.1_3.1_3_3.1_3_3_7
+        1.1_3.1_3_3.1_3_3_8
+        1.1_3.1_3_3.1_3_3_9
+        1.1_3.1_3_3.1_3_3_10
+        1.1_3.1_3_3.1_3_3_11
+      >>>
+        {step:next Continue}
     / The Cell Membrane
     step
-      --
+      >>>
+        ## The Cell Membrane
+      >>
         1.1_3.1_3_4.1_3_4_0
+      --- The Cell Membrane - In Depth
+        1.1_3.1_3_4.1_3_4_1
+        1.1_3.1_3_4.1_3_4_2
+      >>>
+        {step:next Continue}
     / Passive Transport
     step
-      --
+      >>>
+        ## Passive Transport
+      >>
         1.1_3.1_3_5.1_3_5_0
+      --- Passive Transport - In Depth
+        1.1_3.1_3_5.1_3_5_1
+        1.1_3.1_3_5.1_3_5_2
+        1.1_3.1_3_5.1_3_5_3
+        1.1_3.1_3_5.1_3_5_4
+        1.1_3.1_3_5.1_3_5_5
+        1.1_3.1_3_5.1_3_5_6
+      >>>
+        {step:next Continue}
     / Active Transport
     step
-      --
+      >>>
+        ## Active Transport
+      >>
         1.1_3.1_3_6.1_3_6_0
-    / Introduction
+      --- Active Transport - In Depth
+        1.1_3.1_3_6.1_3_6_1
+        1.1_3.1_3_6.1_3_6_2
+        1.1_3.1_3_6.1_3_6_3
+        1.1_3.1_3_6.1_3_6_4
+      >>>
+        {step:next Continue}
+    / How Cells Obtain Energy
     step
-      --
+      >>>
+        ## How Cells Obtain Energy
+      >>
         1.1_4.1_4_0.1_4_0_0
+      >>>
+        {step:next Continue}
     / Energy and Metabolism
     step
-      --
+      >>>
+        ## Energy and Metabolism
+      >>
         1.1_4.1_4_1.1_4_1_0
+      --- Energy and Metabolism - In Depth
+        1.1_4.1_4_1.1_4_1_1
+        1.1_4.1_4_1.1_4_1_2
+        1.1_4.1_4_1.1_4_1_3
+        1.1_4.1_4_1.1_4_1_4
+        1.1_4.1_4_1.1_4_1_5
+        1.1_4.1_4_1.1_4_1_6
+        1.1_4.1_4_1.1_4_1_7
+      >>>
+        {step:next Continue}
     / Glycolysis
     step
-      --
+      >>>
+        ## Glycolysis
+      >>
         1.1_4.1_4_2.1_4_2_0
+      --- Glycolysis - In Depth
+        1.1_4.1_4_2.1_4_2_1
+        1.1_4.1_4_2.1_4_2_2
+        1.1_4.1_4_2.1_4_2_3
+      >>>
+        {step:next Continue}
     / Fermentation
     step
-      --
+      >>>
+        ## Fermentation
+      >>
         1.1_4.1_4_4.1_4_4_0
+      --- Fermentation - In Depth
+        1.1_4.1_4_4.1_4_4_1
+        1.1_4.1_4_4.1_4_4_2
+        1.1_4.1_4_4.1_4_4_3
+        1.1_4.1_4_4.1_4_4_4
+      >>>
+        {step:next Continue}
     / Connections to Other Metabolic Pathways
     step
-      --
+      >>>
+        ## Connections to Other Metabolic Pathways
+      >>
         1.1_4.1_4_5.1_4_5_0
-    / Introduction
+      --- Connections to Other Metabolic Pathways - In Depth
+        1.1_4.1_4_5.1_4_5_1
+        1.1_4.1_4_5.1_4_5_2
+        1.1_4.1_4_5.1_4_5_3
+        1.1_4.1_4_5.1_4_5_4
+      >>>
+        {step:next Continue}
+    / Photosynthesis
     step
-      --
+      >>>
+        ## Photosynthesis
+      >>
         1.1_5.1_5_0.1_5_0_0
+      >>>
+        {step:next Continue}
     / Overview of Photosynthesis
     step
-      --
+      >>>
+        ## Overview of Photosynthesis
+      >>
         1.1_5.1_5_1.1_5_1_0
+      --- Overview of Photosynthesis - In Depth
+        1.1_5.1_5_1.1_5_1_1
+        1.1_5.1_5_1.1_5_1_2
+        1.1_5.1_5_1.1_5_1_3
+        1.1_5.1_5_1.1_5_1_4
+      >>>
+        {step:next Continue}
     / The Light-Dependent Reactions of Photosynthesis
     step
-      --
+      >>>
+        ## The Light-Dependent Reactions of Photosynthesis
+      >>
         1.1_5.1_5_2.1_5_2_0
+      --- The Light-Dependent Reactions of Photosynthesis - In Depth
+        1.1_5.1_5_2.1_5_2_1
+        1.1_5.1_5_2.1_5_2_2
+        1.1_5.1_5_2.1_5_2_3
+        1.1_5.1_5_2.1_5_2_4
+        1.1_5.1_5_2.1_5_2_5
+        1.1_5.1_5_2.1_5_2_6
+        1.1_5.1_5_2.1_5_2_7
+      >>>
+        {step:next Continue}
     / The Calvin Cycle
     step
-      --
+      >>>
+        ## The Calvin Cycle
+      >>
         1.1_5.1_5_3.1_5_3_0
+      --- The Calvin Cycle - In Depth
+        1.1_5.1_5_3.1_5_3_1
+        1.1_5.1_5_3.1_5_3_2
+        1.1_5.1_5_3.1_5_3_3
+        1.1_5.1_5_3.1_5_3_4
+      >>>
+        {step:next Continue}
 
   / 1 - Full Text
   // Unit 1. The Cellular Foundation of Life - Full Text

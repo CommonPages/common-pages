@@ -35,6 +35,7 @@ story 7_3
     7_3_0
     7_3_1
 
+  / Reaction Stoichiometry - Full Text
   path FullText
     step
       --

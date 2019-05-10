@@ -28,6 +28,7 @@ story 34_5
     34_5_0
     34_5_1
 
+  / Complexity and Chaos - Full Text
   path FullText
     step
       --

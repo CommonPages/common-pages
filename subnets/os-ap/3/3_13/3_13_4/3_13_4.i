@@ -11,8 +11,8 @@ story 3_13_4
     3_13_4_1
     3_13_4_2
     3_13_4_3
-    3_13_4_4
 
+  / The Peripheral Nervous System - Full Text
   path FullText
     step
       --
@@ -26,8 +26,5 @@ story 3_13_4
     step
       --
         3_13_4_3
-    step
-      --
-        3_13_4_4
 
     

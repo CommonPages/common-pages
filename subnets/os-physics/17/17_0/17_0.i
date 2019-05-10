@@ -14,6 +14,7 @@ story 17_0
   ---
     17_0_0
 
+  / Introduction to the Physics of Hearing - Full Text
   path FullText
     step
       --

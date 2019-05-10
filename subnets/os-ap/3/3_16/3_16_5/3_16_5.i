@@ -13,8 +13,8 @@ story 3_16_5
     3_16_5_3
     3_16_5_4
     3_16_5_5
-    3_16_5_6
 
+  / The Coordination and Gait Exams - Full Text
   path FullText
     step
       --
@@ -34,8 +34,5 @@ story 3_16_5
     step
       --
         3_16_5_5
-    step
-      --
-        3_16_5_6
 
     

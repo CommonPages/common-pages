@@ -29,6 +29,7 @@ story 11_2
     11_2_0
     11_2_1
 
+  / Density - Full Text
   path FullText
     step
       --

@@ -25,6 +25,7 @@ story 21_4
     21_4_2
     21_4_3
 
+  / DC Voltmeters and Ammeters - Full Text
   path FullText
     step
       --

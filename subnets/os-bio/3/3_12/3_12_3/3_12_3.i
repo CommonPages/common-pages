@@ -16,6 +16,7 @@ story 3_12_3
     3_12_3_6
     3_12_3_7
 
+  / Laws of Inheritance - Full Text
   path FullText
     step
       --

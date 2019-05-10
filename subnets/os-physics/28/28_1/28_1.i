@@ -17,6 +17,7 @@ story 28_1
     28_1_2
     28_1_3
 
+  / Einstein’s Postulates - Full Text
   path FullText
     step
       --

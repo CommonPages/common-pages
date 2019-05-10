@@ -24,6 +24,7 @@ story 2_10_7
     2_10_7_0
     2_10_7_1
 
+  / Cardiac Muscle Tissue - Full Text
   path FullText
     step
       --

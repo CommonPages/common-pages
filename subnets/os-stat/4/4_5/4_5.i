@@ -21,6 +21,7 @@ story 4_5
     4_5_3
     4_5_4
 
+  / Hypergeometric Distribution - Full Text
   path FullText
     step
       --

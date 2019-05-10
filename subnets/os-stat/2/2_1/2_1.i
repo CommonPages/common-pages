@@ -17,6 +17,7 @@ story 2_1
     2_1_2
     2_1_3
 
+  / Stem-and-Leaf Graphs (Stemplots), Line Graphs, and Bar Graphs - Full Text
   path FullText
     step
       --

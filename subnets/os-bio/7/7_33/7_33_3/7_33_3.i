@@ -16,6 +16,7 @@ story 7_33_3
     7_33_3_6
     7_33_3_7
 
+  / Homeostasis - Full Text
   path FullText
     step
       --

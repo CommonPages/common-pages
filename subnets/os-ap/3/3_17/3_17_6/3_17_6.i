@@ -31,8 +31,8 @@ story 3_17_6
     3_17_6_2
     3_17_6_3
     3_17_6_4
-    3_17_6_5
 
+  / The Adrenal Glands - Full Text
   path FullText
     step
       --
@@ -49,8 +49,5 @@ story 3_17_6
     step
       --
         3_17_6_4
-    step
-      --
-        3_17_6_5
 
     

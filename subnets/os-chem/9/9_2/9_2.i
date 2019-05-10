@@ -2,14 +2,14 @@
 / Calorimetry
 story 9_2
   >
-    One technique we can use to measure the amount of heat involved in a chemical or physical process is known as  **calorimetry**. Calorimetry is used to measure amounts of heat transferred to or from a substance. To do so, the heat is exchanged with a calibrated object (calorimeter). The temperature change measured by the calorimeter is used to derive the amount of heat transferred by the process under study. The measurement of heat transfer using this approach requires the definition of a  **system** (the substance or substances undergoing the chemical or physical change) and its  **surroundings** (the other components of the measurement apparatus that serve to either provide heat to the system or absorb heat from the system). Knowledge of the heat capacity of the surroundings, and careful measurements of the masses of the system and surroundings and their temperatures before and after the process allows one to calculate the heat transferred as described in this section.
+    One technique we can use to measure the amount of heat involved in a chemical or physical process is known as  **calorimetry**. Calorimetry is used to measure amounts of heat transferred to or from a substance. To do so, the heat is exchanged with a calibrated object (calorimeter). The temperature change measured by the calorimeter is used to derive the amount of heat transferred by the process under study. The measurement of heat transfer using this approach requires the definition of a  **system** (the substance or substances undergoing the chemical or physical change) and its  **surroundings** (all other matter, including components of the measurement apparatus, that serve to either provide heat to the system or absorb heat from the system).
     
     A  **calorimeter** is a device used to measure the amount of heat involved in a chemical or physical process. For example, when an exothermic reaction occurs in solution in a calorimeter, the heat produced by the reaction is absorbed by the solution, which increases its temperature. When an endothermic reaction occurs, the heat required is absorbed from the thermal energy of the solution, which decreases its temperature ({'Figure_5_2_HeatMeas Figure 5.2.HeatMeas}). The temperature change, along with the specific heat and mass of the solution, can then be used to calculate the amount of heat involved in either case.
     
     
             
     
-    Scientists use well-insulated calorimeters that all but prevent the transfer of heat between the calorimeter and its environment. This enables the accurate determination of the heat involved in chemical processes, the energy content of foods, and so on. General chemistry students often use simple calorimeters constructed from polystyrene cups ({'Figure_5_2_Calorim Figure 5.2.Calorim}). These easy-to-use “coffee cup” calorimeters allow more heat exchange with the outside environment, and therefore produce less accurate energy values.
+    Scientists use well-insulated calorimeters that all but prevent the transfer of heat between the calorimeter and its environment, which effectively limits the “surroundings” to the nonsystem components with the calorimeter (and the calorimeter itself). This enables the accurate determination of the heat involved in chemical processes, the energy content of foods, and so on. General chemistry students often use simple calorimeters constructed from polystyrene cups ({'Figure_5_2_Calorim Figure 5.2.Calorim}). These easy-to-use “coffee cup” calorimeters allow more heat exchange with the outside environment, and therefore produce less accurate energy values.
     
     
             
@@ -19,7 +19,7 @@ story 9_2
     
             
     
-    Before we practice calorimetry problems involving chemical reactions, consider a simpler example that illustrates the core idea behind calorimetry. Suppose we initially have a high-temperature substance, such as a hot piece of metal (M), and a low-temperature substance, such as cool water (W). If we place the metal in the water, heat will flow from M to W. The temperature of M will decrease, and the temperature of W will increase, until the two substances have the same temperature—that is, when they reach thermal equilibrium ({'Figure_5_2_HeatTrans2 Figure 5.2.HeatTrans2}). If this occurs in a calorimeter, ideally all of this heat transfer occurs between the two substances, with no heat gained or lost by either the calorimeter or the calorimeter’s surroundings. Under these ideal circumstances, the net heat change is zero:
+    Before discussing the calorimetry of chemical reactions, consider a simpler example that illustrates the core idea behind calorimetry. Suppose we initially have a high-temperature substance, such as a hot piece of metal (M), and a low-temperature substance, such as cool water (W). If we place the metal in the water, heat will flow from M to W. The temperature of M will decrease, and the temperature of W will increase, until the two substances have the same temperature—that is, when they reach thermal equilibrium ({'Figure_5_2_HeatTrans2 Figure 5.2.HeatTrans2}). If this occurs in a calorimeter, ideally all of this heat transfer occurs between the two substances, with no heat gained or lost by either its external environment. Under these ideal circumstances, the net heat change is zero:
     
     <math xmlns:q="http://cnx.rice.edu/qml/1.0" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:bib="http://bibtexml.sf.net/" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/cnxml"><mrow><msub><mi>q</mi><mtext>substance M</mtext></msub><mo>+</mo><msub><mi>q</mi><mtext>substance W</mtext></msub><mo>=</mo><mn>0</mn></mrow></math>
     
@@ -34,7 +34,7 @@ story 9_2
     
     This method can also be used to determine other quantities, such as the specific heat of an unknown metal.
     
-    When we use calorimetry to determine the heat involved in a chemical reaction, the same principles we have been discussing apply. The amount of heat absorbed by the calorimeter is often small enough that we can neglect it (though not for highly accurate measurements, as discussed later), and the calorimeter minimizes energy exchange with the outside environment. Because energy is neither created nor destroyed during a chemical reaction, there is no overall energy change during the reaction. The heat produced or consumed in the reaction (the “system”),  *q*<sub>reaction</sub>, plus the heat absorbed or lost by the solution (the “surroundings”),  *q*<sub>solution</sub>, must add up to zero:
+    When we use calorimetry to determine the heat involved in a chemical reaction, the same principles we have been discussing apply. The amount of heat absorbed by the calorimeter is often small enough that we can neglect it (though not for highly accurate measurements, as discussed later), and the calorimeter minimizes energy exchange with the outside environment. Because energy is neither created nor destroyed during a chemical reaction, the heat produced or consumed in the reaction (the “system”),  *q*<sub>reaction</sub>, plus the heat absorbed or lost by the solution (the “surroundings”),  *q*<sub>solution</sub>, must add up to zero:
     
     <math xmlns:q="http://cnx.rice.edu/qml/1.0" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:bib="http://bibtexml.sf.net/" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/cnxml"><mrow><msub><mi>q</mi><mrow><mtext>reaction</mtext></mrow></msub><mo>+</mo><msub><mi>q</mi><mrow><mtext>solution</mtext></mrow></msub><mo>=</mo><mn>0</mn></mrow></math>
     
@@ -59,6 +59,7 @@ story 9_2
     9_2_0
     9_2_1
 
+  / Calorimetry - Full Text
   path FullText
     step
       --

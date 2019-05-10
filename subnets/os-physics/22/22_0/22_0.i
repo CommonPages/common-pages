@@ -26,6 +26,7 @@ story 22_0
   ---
     22_0_0
 
+  / Introduction to Magnetism - Full Text
   path FullText
     step
       --

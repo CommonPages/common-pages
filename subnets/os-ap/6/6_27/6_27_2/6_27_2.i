@@ -21,8 +21,8 @@ story 6_27_2
     6_27_2_8
     6_27_2_9
     6_27_2_10
-    6_27_2_11
 
+  / Anatomy and Physiology of the Female Reproductive System - Full Text
   path FullText
     step
       --
@@ -57,8 +57,5 @@ story 6_27_2
     step
       --
         6_27_2_10
-    step
-      --
-        6_27_2_11
 
     

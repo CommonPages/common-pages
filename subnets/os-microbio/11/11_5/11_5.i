@@ -15,8 +15,8 @@ story 11_5
     11_5_6
     11_5_7
     11_5_8
-    11_5_10
 
+  / Mutations - Full Text
   path FullText
     step
       --
@@ -42,8 +42,5 @@ story 11_5
     step
       --
         11_5_8
-    step
-      --
-        11_5_10
 
     

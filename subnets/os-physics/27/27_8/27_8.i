@@ -48,6 +48,7 @@ story 27_8
     27_8_3
     27_8_4
 
+  / Polarization - Full Text
   path FullText
     step
       --

@@ -37,6 +37,7 @@ story 24_4
     24_4_0
     24_4_1
 
+  / Energy in Electromagnetic Waves - Full Text
   path FullText
     step
       --

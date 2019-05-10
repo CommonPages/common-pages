@@ -2,7 +2,7 @@
 / Signaling in Single-Celled Organisms
 story 2_9_4
   >
-    Within-cell signaling allows bacteria to respond to environmental cues, such as nutrient levels, some single-celled organisms also release molecules to signal to each other.
+    Within-cell signaling allows bacteria to respond to environmental cues, such as nutrient levels. Some single-celled organisms also release molecules to signal to each other.
 
   apply FullText
 
@@ -12,6 +12,7 @@ story 2_9_4
     2_9_4_2
     2_9_4_3
 
+  / Signaling in Single-Celled Organisms - Full Text
   path FullText
     step
       --

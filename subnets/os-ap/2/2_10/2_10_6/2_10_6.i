@@ -13,6 +13,7 @@ story 2_10_6
     2_10_6_3
     2_10_6_4
 
+  / Exercise and Muscle Performance - Full Text
   path FullText
     step
       --

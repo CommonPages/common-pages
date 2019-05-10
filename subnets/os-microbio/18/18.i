@@ -4,6 +4,7 @@
 space 18
 
   ^^
+    SkimPath
     FullPath
 
   insert 18.18_0.18_0_0
@@ -14,6 +15,94 @@ space 18
     18_3
     18_4
     18_5
+
+
+  / Key Concepts
+  // Adaptive Specific Host Defenses - Key Concepts
+  path SkimPath
+    / Adaptive Specific Host Defenses
+    step
+      >>>
+        ## Adaptive Specific Host Defenses
+      >>
+        18.18_0.18_0_0
+      >>>
+        {step:next Continue}
+
+    / Overview of Specific Adaptive Immunity
+    step
+      >>>
+        ## Overview of Specific Adaptive Immunity
+      >>
+        18.18_1.18_1_1
+      --- Overview of Specific Adaptive Immunity - In Depth
+        18.18_1.18_1_2
+        18.18_1.18_1_3
+        18.18_1.18_1_4
+        18.18_1.18_1_5
+        18.18_1.18_1_6
+      >>>
+        {step:next Continue}
+
+    / Major Histocompatibility Complexes and Antigen-Presenting Cells
+    step
+      >>>
+        ## Major Histocompatibility Complexes and Antigen-Presenting Cells
+      >>
+        18.18_2.18_2_1
+      --- Major Histocompatibility Complexes and Antigen-Presenting Cells - In Depth
+        18.18_2.18_2_2
+        18.18_2.18_2_3
+        18.18_2.18_2_4
+      >>>
+        {step:next Continue}
+
+    / T Lymphocytes and Cellular Immunity
+    step
+      >>>
+        ## T Lymphocytes and Cellular Immunity
+      >>
+        18.18_3.18_3_1
+      --- T Lymphocytes and Cellular Immunity - In Depth
+        18.18_3.18_3_2
+        18.18_3.18_3_3
+        18.18_3.18_3_4
+        18.18_3.18_3_5
+        18.18_3.18_3_6
+        18.18_3.18_3_7
+        18.18_3.18_3_8
+      >>>
+        {step:next Continue}
+
+    / B Lymphocytes and Humoral Immunity
+    step
+      >>>
+        ## B Lymphocytes and Humoral Immunity
+      >>
+        18.18_4.18_4_1
+      --- B Lymphocytes and Humoral Immunity - In Depth
+        18.18_4.18_4_2
+        18.18_4.18_4_3
+        18.18_4.18_4_4
+        18.18_4.18_4_5
+      >>>
+        {step:next Continue}
+
+    / Vaccines
+    step
+      >>>
+        ## Vaccines
+      >>
+        18.18_5.18_5_1
+      --- Vaccines - In Depth
+        18.18_5.18_5_2
+        18.18_5.18_5_3
+        18.18_5.18_5_4
+        18.18_5.18_5_5
+        18.18_5.18_5_6
+        18.18_5.18_5_8
+      >>>
+        {step:exit}
 
 
   / 18 - Full Text

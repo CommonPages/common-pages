@@ -12,6 +12,7 @@ story 12_0
   ---
     12_0_0
 
+  / Introduction - Full Text
   path FullText
     step
       --

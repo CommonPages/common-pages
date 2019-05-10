@@ -12,6 +12,7 @@ story 22_11
     22_11_3
     22_11_4
 
+  / More Applications of Magnetism - Full Text
   path FullText
     step
       --

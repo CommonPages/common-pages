@@ -20,6 +20,7 @@ story 16_3
     16_3_1
     16_3_2
 
+  / Simple Harmonic Motion: A Special Periodic Motion - Full Text
   path FullText
     step
       --

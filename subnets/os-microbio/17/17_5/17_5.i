@@ -13,6 +13,7 @@ story 17_5
     17_5_4
     17_5_5
 
+  / Inflammation and Fever - Full Text
   path FullText
     step
       --

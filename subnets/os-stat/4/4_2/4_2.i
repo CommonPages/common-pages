@@ -28,6 +28,7 @@ story 4_2
     4_2_3
     4_2_4
 
+  / Mean or Expected Value and Standard Deviation - Full Text
   path FullText
     step
       --

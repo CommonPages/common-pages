@@ -16,6 +16,7 @@ story 2_3
     2_3_3
     2_3_4
 
+  / Time, Velocity, and Speed - Full Text
   path FullText
     step
       --

@@ -13,8 +13,8 @@ story 1_3_5
     1_3_5_1
     1_3_5_2
     1_3_5_3
-    1_3_5_4
 
+  / Cell Growth and Division - Full Text
   path FullText
     step
       --
@@ -28,8 +28,5 @@ story 1_3_5
     step
       --
         1_3_5_3
-    step
-      --
-        1_3_5_4
 
     

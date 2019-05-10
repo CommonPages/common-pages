@@ -2,7 +2,7 @@
 / Writing and Balancing Chemical Equations
 story 7_1
   >
-    The preceding chapter introduced the use of element symbols to represent individual atoms. When atoms gain or lose electrons to yield ions, or combine with other atoms to form molecules, their symbols are modified or combined to generate chemical formulas that appropriately represent these species. Extending this symbolism to represent both the identities and the relative quantities of substances undergoing a chemical (or physical) change involves writing and balancing a  **chemical equation**. Consider as an example the reaction between one methane molecule (CH<sub>4</sub>) and two diatomic oxygen molecules (O<sub>2</sub>) to produce one carbon dioxide molecule (CO<sub>2</sub>) and two water molecules (H<sub>2</sub>O). The chemical equation representing this process is provided in the upper half of {'Figure_4_1_rxn2 Figure 4.1.rxn2}, with space-filling molecular models shown in the lower half of the figure.
+    An earlier chapter of this text introduced the use of element symbols to represent individual atoms. When atoms gain or lose electrons to yield ions, or combine with other atoms to form molecules, their symbols are modified or combined to generate chemical formulas that appropriately represent these species. Extending this symbolism to represent both the identities and the relative quantities of substances undergoing a chemical (or physical) change involves writing and balancing a  **chemical equation**. Consider as an example the reaction between one methane molecule (CH<sub>4</sub>) and two diatomic oxygen molecules (O<sub>2</sub>) to produce one carbon dioxide molecule (CO<sub>2</sub>) and two water molecules (H<sub>2</sub>O). The chemical equation representing this process is provided in the upper half of {'Figure_4_1_rxn2 Figure 4.1.rxn2}, with space-filling molecular models shown in the lower half of the figure.
     
     
             
@@ -32,6 +32,7 @@ story 7_1
     7_1_3
     7_1_4
 
+  / Writing and Balancing Chemical Equations - Full Text
   path FullText
     step
       --

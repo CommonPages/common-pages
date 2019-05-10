@@ -12,6 +12,7 @@ story 7_3
     7_3_3
     7_3_4
 
+  / Using the Central Limit Theorem - Full Text
   path FullText
     step
       --

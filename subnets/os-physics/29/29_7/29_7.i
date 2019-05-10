@@ -11,6 +11,7 @@ story 29_7
     29_7_2
     29_7_3
 
+  / Probability: The Heisenberg Uncertainty Principle - Full Text
   path FullText
     step
       --

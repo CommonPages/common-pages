@@ -4,6 +4,7 @@
 space 5_21
 
   ^^
+    SkimPath
     FullPath
 
   insert 5.5_21.5_21_0.5_21_0_0
@@ -13,6 +14,76 @@ space 5_21
     5_21_2
     5_21_3
     5_21_4
+
+
+  / Key Concepts
+  // Viruses - Key Concepts
+  path SkimPath
+    / Viruses
+    step
+      >>>
+        ## Viruses
+      >>
+        5.5_21.5_21_0.5_21_0_0
+      >>>
+        {step:next Continue}
+
+    / Viral Evolution, Morphology, and Classification
+    step
+      >>>
+        ## Viral Evolution, Morphology, and Classification
+      >>
+        5.5_21.5_21_1.5_21_1_0
+      --- Viral Evolution, Morphology, and Classification - In Depth
+        5.5_21.5_21_1.5_21_1_1
+        5.5_21.5_21_1.5_21_1_2
+        5.5_21.5_21_1.5_21_1_3
+        5.5_21.5_21_1.5_21_1_4
+        5.5_21.5_21_1.5_21_1_5
+      >>>
+        {step:next Continue}
+
+    / Virus Infections and Hosts
+    step
+      >>>
+        ## Virus Infections and Hosts
+      >>
+        5.5_21.5_21_2.5_21_2_0
+      --- Virus Infections and Hosts - In Depth
+        5.5_21.5_21_2.5_21_2_1
+        5.5_21.5_21_2.5_21_2_2
+        5.5_21.5_21_2.5_21_2_3
+        5.5_21.5_21_2.5_21_2_4
+        5.5_21.5_21_2.5_21_2_5
+        5.5_21.5_21_2.5_21_2_6
+      >>>
+        {step:next Continue}
+
+    / Prevention and Treatment of Viral Infections
+    step
+      >>>
+        ## Prevention and Treatment of Viral Infections
+      >>
+        5.5_21.5_21_3.5_21_3_0
+      --- Prevention and Treatment of Viral Infections - In Depth
+        5.5_21.5_21_3.5_21_3_1
+        5.5_21.5_21_3.5_21_3_2
+        5.5_21.5_21_3.5_21_3_3
+      >>>
+        {step:next Continue}
+
+    / Other Acellular Entities: Prions and Viroids
+    step
+      >>>
+        ## Other Acellular Entities: Prions and Viroids
+      >>
+        5.5_21.5_21_4.5_21_4_0
+      --- Other Acellular Entities: Prions and Viroids - In Depth
+        5.5_21.5_21_4.5_21_4_1
+        5.5_21.5_21_4.5_21_4_2
+        5.5_21.5_21_4.5_21_4_3
+      >>>
+        {step:exit}
 
 
   / 5.21 - Full Text
@@ -38,7 +109,7 @@ space 5_21
     step
       --
         5.5_21.5_21_1.5_21_1_3
-    / Virus Classification
+    / The Challenge of Virus Classification
     step
       --
         5.5_21.5_21_1.5_21_1_4
@@ -62,11 +133,11 @@ space 5_21
     step
       --
         5.5_21.5_21_2.5_21_2_3
-    / Animal Viruses
+    / Plant Viruses
     step
       --
         5.5_21.5_21_2.5_21_2_4
-    / Plant Viruses
+    / Animal Viruses
     step
       --
         5.5_21.5_21_2.5_21_2_5
@@ -82,7 +153,7 @@ space 5_21
     step
       --
         5.5_21.5_21_3.5_21_3_1
-    /  Vaccines and Anti-viral Drugs for Treatment
+    /  Vaccines and Antiviral Drugs for Treatment
     step
       --
         5.5_21.5_21_3.5_21_3_2

@@ -13,6 +13,7 @@ story 7_41_2
     7_41_2_3
     7_41_2_4
 
+  / The Kidneys and Osmoregulatory Organs - Full Text
   path FullText
     step
       --

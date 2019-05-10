@@ -26,6 +26,7 @@ story 4_20_5
     4_20_5_7
     4_20_5_8
 
+  / Circulatory Pathways - Full Text
   path FullText
     step
       --

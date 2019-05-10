@@ -17,6 +17,7 @@ story 1_2_3
     1_2_3_7
     1_2_3_8
 
+  / Biological Molecules - Full Text
   path FullText
     step
       --

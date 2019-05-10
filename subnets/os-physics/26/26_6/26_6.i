@@ -25,6 +25,7 @@ story 26_6
     26_6_0
     26_6_1
 
+  / Aberrations - Full Text
   path FullText
     step
       --

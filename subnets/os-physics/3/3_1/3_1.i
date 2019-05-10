@@ -13,6 +13,7 @@ story 3_1
     3_1_2
     3_1_3
 
+  / Kinematics in Two Dimensions: An Introduction - Full Text
   path FullText
     step
       --

@@ -19,6 +19,7 @@ story 6_20_2
     6_20_2_5
     6_20_2_6
 
+  / Biogeochemical Cycles - Full Text
   path FullText
     step
       --

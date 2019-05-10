@@ -34,6 +34,7 @@ story 10_7
     10_7_0
     10_7_1
 
+  / Gyroscopic Effects: Vector Aspects of Angular Momentum - Full Text
   path FullText
     step
       --

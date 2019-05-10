@@ -16,8 +16,8 @@ story 3_13_1
     3_13_1_4
     3_13_1_5
     3_13_1_6
-    3_13_1_7
 
+  / The Embryologic Perspective - Full Text
   path FullText
     step
       --
@@ -40,8 +40,5 @@ story 3_13_1
     step
       --
         3_13_1_6
-    step
-      --
-        3_13_1_7
 
     

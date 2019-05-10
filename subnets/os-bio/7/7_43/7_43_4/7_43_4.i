@@ -12,6 +12,7 @@ story 7_43_4
     7_43_4_2
     7_43_4_3
 
+  / Hormonal Control of Human Reproduction - Full Text
   path FullText
     step
       --

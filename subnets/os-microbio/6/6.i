@@ -4,6 +4,7 @@
 space 6
 
   ^^
+    SkimPath
     FullPath
 
   insert 6.6_0.6_0_0
@@ -13,6 +14,78 @@ space 6
     6_2
     6_3
     6_4
+
+
+  / Key Concepts
+  // Acellular Pathogens - Key Concepts
+  path SkimPath
+    / Acellular Pathogens
+    step
+      >>>
+        ## Acellular Pathogens
+      >>
+        6.6_0.6_0_0
+      >>>
+        {step:next Continue}
+
+    / Viruses
+    step
+      >>>
+        ## Viruses
+      >>
+        6.6_1.6_1_1
+      --- Viruses - In Depth
+        6.6_1.6_1_2
+        6.6_1.6_1_3
+        6.6_1.6_1_4
+        6.6_1.6_1_5
+      >>>
+        {step:next Continue}
+
+    / The Viral Life Cycle
+    step
+      >>>
+        ## The Viral Life Cycle
+      >>
+        6.6_2.6_2_1
+      --- The Viral Life Cycle - In Depth
+        6.6_2.6_2_2
+        6.6_2.6_2_3
+        6.6_2.6_2_4
+        6.6_2.6_2_5
+        6.6_2.6_2_6
+        6.6_2.6_2_7
+        6.6_2.6_2_8
+      >>>
+        {step:next Continue}
+
+    / Isolation, Culture, and Identification of Viruses
+    step
+      >>>
+        ## Isolation, Culture, and Identification of Viruses
+      >>
+        6.6_3.6_3_1
+      --- Isolation, Culture, and Identification of Viruses - In Depth
+        6.6_3.6_3_2
+        6.6_3.6_3_3
+        6.6_3.6_3_4
+        6.6_3.6_3_5
+      >>>
+        {step:next Continue}
+
+    / Viroids, Virusoids, and Prions
+    step
+      >>>
+        ## Viroids, Virusoids, and Prions
+      >>
+        6.6_4.6_4_1
+      --- Viroids, Virusoids, and Prions - In Depth
+        6.6_4.6_4_2
+        6.6_4.6_4_3
+        6.6_4.6_4_4
+        6.6_4.6_4_5
+      >>>
+        {step:exit}
 
 
   / 6 - Full Text
@@ -42,10 +115,6 @@ space 6
     step
       --
         6.6_1.6_1_5
-    / True/False
-    step
-      --
-        6.6_1.6_1_6
     / The Viral Life Cycle - Introduction
     step
       --

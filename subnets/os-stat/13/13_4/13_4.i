@@ -35,6 +35,7 @@ story 13_4
     13_4_3
     13_4_4
 
+  / Test of Two Variances - Full Text
   path FullText
     step
       --

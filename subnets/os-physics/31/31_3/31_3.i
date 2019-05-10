@@ -70,6 +70,7 @@ story 31_3
     31_3_1
     31_3_2
 
+  / Substructure of the Nucleus - Full Text
   path FullText
     step
       --

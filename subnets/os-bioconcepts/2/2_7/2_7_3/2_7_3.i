@@ -12,6 +12,7 @@ story 2_7_3
     2_7_3_2
     2_7_3_3
 
+  / Errors in Meiosis - Full Text
   path FullText
     step
       --

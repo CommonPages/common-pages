@@ -23,6 +23,7 @@ story 12_2
     12_2_4
     12_2_5
 
+  / Bernoulli’s Equation - Full Text
   path FullText
     step
       --

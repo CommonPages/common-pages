@@ -28,7 +28,7 @@ story 10_4
     
     The point of intersection of all three curves is labeled B in {'Figure_10_4_H2OPhasDi2 Figure 10.4.H2OPhasDi2}. At the pressure and temperature represented by this point, all three phases of water coexist in equilibrium. This temperature-pressure data pair is called the  **triple point**. At pressures lower than the triple point, water cannot exist as a liquid, regardless of the temperature.
     
-    Consider the phase diagram for carbon dioxide shown in {'Figure_10_4_CO2PhasDi Figure 10.4.CO2PhasDi} as another example. The solid-liquid curve exhibits a positive slope, indicating that the melting point for CO<sub>2</sub> increases with pressure as it does for most substances (water being a notable exception as described previously). Notice that the triple point is well above 1 atm, indicating that carbon dioxide cannot exist as a liquid under ambient pressure conditions. Instead, cooling gaseous carbon dioxide at 1 atm results in its deposition into the solid state. Likewise, solid carbon dioxide does not melt at 1 atm pressure but instead sublimes to yield gaseous CO<sub>2</sub>. Finally, notice that the critical point for carbon dioxide is observed at a relatively modest temperature and pressure in comparison to water.
+    Consider the phase diagram for carbon dioxide shown in {'Figure_10_4_CO2phasdi Figure 10.4.CO2phasdi} as another example. The solid-liquid curve exhibits a positive slope, indicating that the melting point for CO<sub>2</sub> increases with pressure as it does for most substances (water being a notable exception as described previously). Notice that the triple point is well above 1 atm, indicating that carbon dioxide cannot exist as a liquid under ambient pressure conditions. Instead, cooling gaseous carbon dioxide at 1 atm results in its deposition into the solid state. Likewise, solid carbon dioxide does not melt at 1 atm pressure but instead sublimes to yield gaseous CO<sub>2</sub>. Finally, notice that the critical point for carbon dioxide is observed at a relatively modest temperature and pressure in comparison to water.
     
     
             
@@ -40,6 +40,7 @@ story 10_4
     10_4_1
     10_4_2
 
+  / Phase Diagrams - Full Text
   path FullText
     step
       --

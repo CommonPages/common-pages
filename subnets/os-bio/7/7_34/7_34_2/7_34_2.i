@@ -12,6 +12,7 @@ story 7_34_2
     7_34_2_2
     7_34_2_3
 
+  / Nutrition and Energy Production - Full Text
   path FullText
     step
       --

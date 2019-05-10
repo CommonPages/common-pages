@@ -13,6 +13,7 @@ story 2_5_4
     2_5_4_3
     2_5_4_4
 
+  / Diseases, Disorders, and Injuries of the Integumentary System - Full Text
   path FullText
     step
       --

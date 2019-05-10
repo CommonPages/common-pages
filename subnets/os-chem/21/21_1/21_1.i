@@ -17,6 +17,7 @@ story 21_1
     21_1_5
     21_1_6
 
+  / Hydrocarbons - Full Text
   path FullText
     step
       --

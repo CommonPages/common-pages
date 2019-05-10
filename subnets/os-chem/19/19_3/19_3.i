@@ -13,6 +13,7 @@ story 19_3
     19_3_3
     19_3_4
 
+  / Spectroscopic and Magnetic Properties of Coordination Compounds - Full Text
   path FullText
     step
       --

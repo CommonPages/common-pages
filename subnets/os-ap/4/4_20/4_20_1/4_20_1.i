@@ -23,6 +23,7 @@ story 4_20_1
     4_20_1_8
     4_20_1_9
 
+  / Structure and Function of Blood Vessels - Full Text
   path FullText
     step
       --

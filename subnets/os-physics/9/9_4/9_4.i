@@ -31,6 +31,7 @@ story 9_4
     9_4_0
     9_4_1
 
+  / Applications of Statics, Including Problem-Solving Strategies - Full Text
   path FullText
     step
       --

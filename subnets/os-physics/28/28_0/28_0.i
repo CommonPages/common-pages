@@ -19,6 +19,7 @@ story 28_0
   ---
     28_0_0
 
+  / Introduction to Special Relativity - Full Text
   path FullText
     step
       --

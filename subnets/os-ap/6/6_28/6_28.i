@@ -4,6 +4,7 @@
 space 6_28
 
   ^^
+    SkimPath
     FullPath
 
   insert 6.6_28.6_28_0.6_28_0_0
@@ -16,6 +17,128 @@ space 6_28
     6_28_5
     6_28_6
     6_28_7
+
+
+  / Key Concepts
+  // Development and Inheritance - Key Concepts
+  path SkimPath
+    / Development and Inheritance
+    step
+      >>>
+        ## Development and Inheritance
+      >>
+        6.6_28.6_28_0.6_28_0_0
+      >>>
+        {step:next Continue}
+
+    / Fertilization
+    step
+      >>>
+        ## Fertilization
+      >>
+        6.6_28.6_28_1.6_28_1_0
+      --- Fertilization - In Depth
+        6.6_28.6_28_1.6_28_1_1
+        6.6_28.6_28_1.6_28_1_2
+        6.6_28.6_28_1.6_28_1_3
+        6.6_28.6_28_1.6_28_1_4
+      >>>
+        {step:next Continue}
+
+    / Embryonic Development
+    step
+      >>>
+        ## Embryonic Development
+      >>
+        6.6_28.6_28_2.6_28_2_0
+      --- Embryonic Development - In Depth
+        6.6_28.6_28_2.6_28_2_1
+        6.6_28.6_28_2.6_28_2_2
+        6.6_28.6_28_2.6_28_2_3
+        6.6_28.6_28_2.6_28_2_4
+        6.6_28.6_28_2.6_28_2_5
+        6.6_28.6_28_2.6_28_2_6
+        6.6_28.6_28_2.6_28_2_7
+      >>>
+        {step:next Continue}
+
+    / Fetal Development
+    step
+      >>>
+        ## Fetal Development
+      >>
+        6.6_28.6_28_3.6_28_3_0
+      --- Fetal Development - In Depth
+        6.6_28.6_28_3.6_28_3_1
+        6.6_28.6_28_3.6_28_3_2
+        6.6_28.6_28_3.6_28_3_3
+        6.6_28.6_28_3.6_28_3_4
+      >>>
+        {step:next Continue}
+
+    / Maternal Changes During Pregnancy, Labor, and Birth
+    step
+      >>>
+        ## Maternal Changes During Pregnancy, Labor, and Birth
+      >>
+        6.6_28.6_28_4.6_28_4_0
+      --- Maternal Changes During Pregnancy, Labor, and Birth - In Depth
+        6.6_28.6_28_4.6_28_4_1
+        6.6_28.6_28_4.6_28_4_2
+        6.6_28.6_28_4.6_28_4_3
+        6.6_28.6_28_4.6_28_4_4
+        6.6_28.6_28_4.6_28_4_5
+        6.6_28.6_28_4.6_28_4_6
+      >>>
+        {step:next Continue}
+
+    / Adjustments of the Infant at Birth and Postnatal Stages
+    step
+      >>>
+        ## Adjustments of the Infant at Birth and Postnatal Stages
+      >>
+        6.6_28.6_28_5.6_28_5_0
+      --- Adjustments of the Infant at Birth and Postnatal Stages - In Depth
+        6.6_28.6_28_5.6_28_5_1
+        6.6_28.6_28_5.6_28_5_2
+        6.6_28.6_28_5.6_28_5_3
+        6.6_28.6_28_5.6_28_5_4
+        6.6_28.6_28_5.6_28_5_5
+      >>>
+        {step:next Continue}
+
+    / Lactation
+    step
+      >>>
+        ## Lactation
+      >>
+        6.6_28.6_28_6.6_28_6_0
+      --- Lactation - In Depth
+        6.6_28.6_28_6.6_28_6_1
+        6.6_28.6_28_6.6_28_6_2
+        6.6_28.6_28_6.6_28_6_3
+        6.6_28.6_28_6.6_28_6_4
+      >>>
+        {step:next Continue}
+
+    / Patterns of Inheritance
+    step
+      >>>
+        ## Patterns of Inheritance
+      >>
+        6.6_28.6_28_7.6_28_7_0
+      --- Patterns of Inheritance - In Depth
+        6.6_28.6_28_7.6_28_7_1
+        6.6_28.6_28_7.6_28_7_2
+        6.6_28.6_28_7.6_28_7_3
+        6.6_28.6_28_7.6_28_7_4
+        6.6_28.6_28_7.6_28_7_5
+        6.6_28.6_28_7.6_28_7_6
+        6.6_28.6_28_7.6_28_7_7
+        6.6_28.6_28_7.6_28_7_8
+        6.6_28.6_28_7.6_28_7_9
+      >>>
+        {step:exit}
 
 
   / 6.28 - Full Text
@@ -77,10 +200,6 @@ space 6_28
     step
       --
         6.6_28.6_28_2.6_28_2_7
-    / Interactive Link Questions
-    step
-      --
-        6.6_28.6_28_2.6_28_2_8
     / Fetal Development - Introduction
     step
       --
@@ -101,10 +220,6 @@ space 6_28
     step
       --
         6.6_28.6_28_3.6_28_3_4
-    / Interactive Link Questions
-    step
-      --
-        6.6_28.6_28_3.6_28_3_5
     / Maternal Changes During Pregnancy, Labor, and Birth - Introduction
     step
       --

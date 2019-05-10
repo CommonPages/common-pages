@@ -13,8 +13,8 @@ story 14_4
     14_4_4
     14_4_5
     14_4_6
-    14_4_8
 
+  / Mechanisms of Other Antimicrobial Drugs - Full Text
   path FullText
     step
       --
@@ -37,8 +37,5 @@ story 14_4
     step
       --
         14_4_6
-    step
-      --
-        14_4_8
 
     

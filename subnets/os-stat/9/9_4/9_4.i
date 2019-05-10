@@ -14,6 +14,7 @@ story 9_4
     9_4_4
     9_4_5
 
+  / Rare Events, the Sample, Decision and Conclusion - Full Text
   path FullText
     step
       --

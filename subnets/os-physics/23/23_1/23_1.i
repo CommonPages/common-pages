@@ -34,6 +34,7 @@ story 23_1
     23_1_0
     23_1_1
 
+  / Induced Emf and Magnetic Flux - Full Text
   path FullText
     step
       --

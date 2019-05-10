@@ -24,6 +24,7 @@ story 4_5
     4_5_1
     4_5_2
 
+  / Deeply Branching Bacteria - Full Text
   path FullText
     step
       --

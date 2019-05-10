@@ -22,6 +22,7 @@ story 5_16_6
     5_16_6_6
     5_16_6_7
 
+  / Nervous System - Full Text
   path FullText
     step
       --

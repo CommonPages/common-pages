@@ -12,6 +12,7 @@ story 7_40_1
     7_40_1_2
     7_40_1_3
 
+  / Overview of the Circulatory System - Full Text
   path FullText
     step
       --

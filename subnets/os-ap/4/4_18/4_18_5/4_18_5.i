@@ -15,8 +15,8 @@ story 4_18_5
     4_18_5_5
     4_18_5_6
     4_18_5_7
-    4_18_5_8
 
+  / Hemostasis - Full Text
   path FullText
     step
       --
@@ -42,8 +42,5 @@ story 4_18_5
     step
       --
         4_18_5_7
-    step
-      --
-        4_18_5_8
 
     

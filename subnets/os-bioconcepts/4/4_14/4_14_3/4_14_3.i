@@ -13,6 +13,7 @@ story 4_14_3
     4_14_3_3
     4_14_3_4
 
+  / Seed Plants: Gymnosperms - Full Text
   path FullText
     step
       --

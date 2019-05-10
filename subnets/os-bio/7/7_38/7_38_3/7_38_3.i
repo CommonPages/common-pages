@@ -14,6 +14,7 @@ story 7_38_3
     7_38_3_4
     7_38_3_5
 
+  / Joints and Skeletal Movement - Full Text
   path FullText
     step
       --

@@ -34,6 +34,7 @@ story 11_7
     11_7_3
     11_7_4
 
+  / Archimedes’ Principle - Full Text
   path FullText
     step
       --

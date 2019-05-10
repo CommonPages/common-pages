@@ -12,8 +12,8 @@ story 3_15_4
     3_15_4_2
     3_15_4_3
     3_15_4_4
-    3_15_4_5
 
+  / Drugs that Affect the Autonomic System - Full Text
   path FullText
     step
       --
@@ -30,8 +30,5 @@ story 3_15_4
     step
       --
         3_15_4_4
-    step
-      --
-        3_15_4_5
 
     

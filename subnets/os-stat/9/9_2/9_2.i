@@ -35,6 +35,7 @@ story 9_2
     9_2_2
     9_2_3
 
+  / Outcomes and the Type I and Type II Errors - Full Text
   path FullText
     step
       --

@@ -28,6 +28,7 @@ story 16_1
     16_1_1
     16_1_2
 
+  / Hooke’s Law: Stress and Strain Revisited - Full Text
   path FullText
     step
       --

@@ -19,6 +19,7 @@ story 5_25_9
     5_25_9_9
     5_25_9_10
 
+  / Regulation of Fluid Volume and Composition - Full Text
   path FullText
     step
       --

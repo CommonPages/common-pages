@@ -19,6 +19,7 @@ story 4_14_2
     4_14_2_6
     4_14_2_7
 
+  / Seedless Plants - Full Text
   path FullText
     step
       --

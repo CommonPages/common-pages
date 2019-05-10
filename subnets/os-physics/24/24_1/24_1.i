@@ -34,6 +34,7 @@ story 24_1
     24_1_1
     24_1_2
 
+  / Maxwell’s Equations: Electromagnetic Waves Predicted and Observed - Full Text
   path FullText
     step
       --

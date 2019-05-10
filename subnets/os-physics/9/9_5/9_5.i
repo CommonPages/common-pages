@@ -78,6 +78,7 @@ story 9_5
     9_5_0
     9_5_1
 
+  / Simple Machines - Full Text
   path FullText
     step
       --

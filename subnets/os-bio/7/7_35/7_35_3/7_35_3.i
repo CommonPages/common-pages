@@ -17,6 +17,7 @@ story 7_35_3
     7_35_3_2
     7_35_3_3
 
+  / The Central Nervous System - Full Text
   path FullText
     step
       --

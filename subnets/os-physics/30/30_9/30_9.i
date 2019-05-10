@@ -11,6 +11,7 @@ story 30_9
     30_9_2
     30_9_3
 
+  / The Pauli Exclusion Principle - Full Text
   path FullText
     step
       --

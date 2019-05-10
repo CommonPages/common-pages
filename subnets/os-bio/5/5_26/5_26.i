@@ -4,6 +4,7 @@
 space 5_26
 
   ^^
+    SkimPath
     FullPath
 
   insert 5.5_26.5_26_0.5_26_0_0
@@ -13,6 +14,75 @@ space 5_26
     5_26_2
     5_26_3
     5_26_4
+
+
+  / Key Concepts
+  // Seed Plants - Key Concepts
+  path SkimPath
+    / Seed Plants
+    step
+      >>>
+        ## Seed Plants
+      >>
+        5.5_26.5_26_0.5_26_0_0
+      >>>
+        {step:next Continue}
+
+    / Evolution of Seed Plants
+    step
+      >>>
+        ## Evolution of Seed Plants
+      >>
+        5.5_26.5_26_1.5_26_1_0
+      --- Evolution of Seed Plants - In Depth
+        5.5_26.5_26_1.5_26_1_1
+        5.5_26.5_26_1.5_26_1_2
+        5.5_26.5_26_1.5_26_1_3
+      >>>
+        {step:next Continue}
+
+    / Gymnosperms
+    step
+      >>>
+        ## Gymnosperms
+      >>
+        5.5_26.5_26_2.5_26_2_0
+      --- Gymnosperms - In Depth
+        5.5_26.5_26_2.5_26_2_1
+        5.5_26.5_26_2.5_26_2_2
+        5.5_26.5_26_2.5_26_2_3
+      >>>
+        {step:next Continue}
+
+    / Angiosperms
+    step
+      >>>
+        ## Angiosperms
+      >>
+        5.5_26.5_26_3.5_26_3_0
+      --- Angiosperms - In Depth
+        5.5_26.5_26_3.5_26_3_1
+        5.5_26.5_26_3.5_26_3_2
+        5.5_26.5_26_3.5_26_3_3
+        5.5_26.5_26_3.5_26_3_4
+        5.5_26.5_26_3.5_26_3_5
+      >>>
+        {step:next Continue}
+
+    / The Role of Seed Plants
+    step
+      >>>
+        ## The Role of Seed Plants
+      >>
+        5.5_26.5_26_4.5_26_4_0
+      --- The Role of Seed Plants - In Depth
+        5.5_26.5_26_4.5_26_4_1
+        5.5_26.5_26_4.5_26_4_2
+        5.5_26.5_26_4.5_26_4_3
+        5.5_26.5_26_4.5_26_4_4
+        5.5_26.5_26_4.5_26_4_5
+      >>>
+        {step:exit}
 
 
   / 5.26 - Full Text
@@ -62,11 +132,11 @@ space 5_26
     step
       --
         5.5_26.5_26_3.5_26_3_1
-    / Fruit
+    / The Life Cycle of an Angiosperm
     step
       --
         5.5_26.5_26_3.5_26_3_2
-    / The Life Cycle of an Angiosperm
+    / Fruit
     step
       --
         5.5_26.5_26_3.5_26_3_3

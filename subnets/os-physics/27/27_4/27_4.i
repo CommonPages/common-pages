@@ -30,6 +30,7 @@ story 27_4
     27_4_0
     27_4_1
 
+  / Multiple Slit Diffraction - Full Text
   path FullText
     step
       --

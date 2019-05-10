@@ -12,8 +12,8 @@ story 3_5
     3_5_2
     3_5_4
     3_5_5
-    3_5_6
 
+  / Tree and Venn Diagrams - Full Text
   path FullText
     step
       --
@@ -30,8 +30,5 @@ story 3_5
     step
       --
         3_5_5
-    step
-      --
-        3_5_6
 
     

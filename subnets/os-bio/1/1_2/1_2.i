@@ -4,6 +4,7 @@
 space 1_2
 
   ^^
+    SkimPath
     FullPath
 
   insert 1.1_2.1_2_0.1_2_0_0
@@ -12,6 +13,72 @@ space 1_2
     1_2_1
     1_2_2
     1_2_3
+
+
+  / Key Concepts
+  // The Chemical Foundation of Life - Key Concepts
+  path SkimPath
+    / The Chemical Foundation of Life
+    step
+      >>>
+        ## The Chemical Foundation of Life
+      >>
+        1.1_2.1_2_0.1_2_0_0
+      >>>
+        {step:next Continue}
+
+    / Atoms, Isotopes, Ions, and Molecules: The Building Blocks
+    step
+      >>>
+        ## Atoms, Isotopes, Ions, and Molecules: The Building Blocks
+      >>
+        1.1_2.1_2_1.1_2_1_0
+      --- Atoms, Isotopes, Ions, and Molecules: The Building Blocks - In Depth
+        1.1_2.1_2_1.1_2_1_1
+        1.1_2.1_2_1.1_2_1_2
+        1.1_2.1_2_1.1_2_1_3
+        1.1_2.1_2_1.1_2_1_4
+        1.1_2.1_2_1.1_2_1_5
+        1.1_2.1_2_1.1_2_1_6
+        1.1_2.1_2_1.1_2_1_7
+        1.1_2.1_2_1.1_2_1_8
+        1.1_2.1_2_1.1_2_1_9
+        1.1_2.1_2_1.1_2_1_10
+      >>>
+        {step:next Continue}
+
+    / Water
+    step
+      >>>
+        ## Water
+      >>
+        1.1_2.1_2_2.1_2_2_0
+      --- Water - In Depth
+        1.1_2.1_2_2.1_2_2_1
+        1.1_2.1_2_2.1_2_2_2
+        1.1_2.1_2_2.1_2_2_3
+        1.1_2.1_2_2.1_2_2_4
+        1.1_2.1_2_2.1_2_2_5
+        1.1_2.1_2_2.1_2_2_6
+        1.1_2.1_2_2.1_2_2_7
+        1.1_2.1_2_2.1_2_2_8
+      >>>
+        {step:next Continue}
+
+    / Carbon
+    step
+      >>>
+        ## Carbon
+      >>
+        1.1_2.1_2_3.1_2_3_0
+      --- Carbon - In Depth
+        1.1_2.1_2_3.1_2_3_1
+        1.1_2.1_2_3.1_2_3_2
+        1.1_2.1_2_3.1_2_3_3
+        1.1_2.1_2_3.1_2_3_4
+        1.1_2.1_2_3.1_2_3_5
+      >>>
+        {step:exit}
 
 
   / 1.2 - Full Text

@@ -17,6 +17,7 @@ story 1_1_6
     1_1_6_5
     1_1_6_6
 
+  / Anatomical Terminology - Full Text
   path FullText
     step
       --

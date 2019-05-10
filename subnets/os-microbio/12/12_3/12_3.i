@@ -12,9 +12,9 @@ story 12_3
     12_3_3
     12_3_4
     12_3_5
-    12_3_7
     12_3_8
 
+  / Whole Genome Methods and Pharmaceutical Applications of Genetic Engineering - Full Text
   path FullText
     step
       --
@@ -31,9 +31,6 @@ story 12_3
     step
       --
         12_3_5
-    step
-      --
-        12_3_7
     step
       --
         12_3_8

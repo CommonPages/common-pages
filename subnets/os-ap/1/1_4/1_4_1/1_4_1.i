@@ -14,8 +14,8 @@ story 1_4_1
     1_4_1_2
     1_4_1_3
     1_4_1_4
-    1_4_1_5
 
+  / Types of Tissues - Full Text
   path FullText
     step
       --
@@ -32,8 +32,5 @@ story 1_4_1
     step
       --
         1_4_1_4
-    step
-      --
-        1_4_1_5
 
     

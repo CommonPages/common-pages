@@ -17,6 +17,7 @@ story 3_1
     3_1_5
     3_1_6
 
+  / Electromagnetic Energy - Full Text
   path FullText
     step
       --

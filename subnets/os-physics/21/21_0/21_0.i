@@ -14,6 +14,7 @@ story 21_0
   ---
     21_0_0
 
+  / Introduction to Circuits and DC Instruments - Full Text
   path FullText
     step
       --

@@ -22,6 +22,7 @@ story 5_25_6
     5_25_6_5
     5_25_6_6
 
+  / Tubular Reabsorption - Full Text
   path FullText
     step
       --

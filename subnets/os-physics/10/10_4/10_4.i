@@ -61,6 +61,7 @@ story 10_4
     10_4_1
     10_4_2
 
+  / Rotational Kinetic Energy: Work and Energy Revisited - Full Text
   path FullText
     step
       --

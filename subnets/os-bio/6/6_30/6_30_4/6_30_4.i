@@ -17,6 +17,7 @@ story 6_30_4
     6_30_4_5
     6_30_4_6
 
+  / Leaves - Full Text
   path FullText
     step
       --

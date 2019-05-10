@@ -14,6 +14,7 @@ story 32_1
     32_1_1
     32_1_2
 
+  / Medical Imaging and Diagnostics - Full Text
   path FullText
     step
       --

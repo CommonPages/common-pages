@@ -19,6 +19,7 @@ story 4_19_5
     4_19_5_0
     4_19_5_1
 
+  / Development of the Heart - Full Text
   path FullText
     step
       --

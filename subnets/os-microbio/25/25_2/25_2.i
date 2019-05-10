@@ -23,6 +23,7 @@ story 25_2
     25_2_14
     25_2_15
 
+  / Bacterial Infections of the Circulatory and Lymphatic Systems - Full Text
   path FullText
     step
       --

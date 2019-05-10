@@ -14,6 +14,7 @@ story 16_3
     16_3_5
     16_3_6
 
+  / Modes of Disease Transmission - Full Text
   path FullText
     step
       --

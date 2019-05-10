@@ -28,6 +28,7 @@ story 2_11_2
     2_11_2_0
     2_11_2_1
 
+  / Naming Skeletal Muscles - Full Text
   path FullText
     step
       --

@@ -14,6 +14,7 @@ story 34_7
     34_7_4
     34_7_5
 
+  / Some Questions We Know to Ask - Full Text
   path FullText
     step
       --

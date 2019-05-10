@@ -12,6 +12,7 @@ story 2_6_3
     2_6_3_2
     2_6_3_3
 
+  / Cancer and the Cell Cycle - Full Text
   path FullText
     step
       --

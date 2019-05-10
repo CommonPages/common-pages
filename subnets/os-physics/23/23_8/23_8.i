@@ -52,6 +52,7 @@ story 23_8
     23_8_0
     23_8_1
 
+  / Electrical Safety: Systems and Devices - Full Text
   path FullText
     step
       --

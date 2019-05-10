@@ -12,6 +12,7 @@ story 8_5
     8_5_3
     8_5_4
 
+  / Catabolism of Lipids and Proteins - Full Text
   path FullText
     step
       --

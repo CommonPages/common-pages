@@ -38,6 +38,7 @@ story 22_10
     22_10_0
     22_10_1
 
+  / Magnetic Force between Two Parallel Conductors - Full Text
   path FullText
     step
       --

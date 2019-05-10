@@ -17,6 +17,7 @@ story 25_1
     25_1_0
     25_1_1
 
+  / The Ray Aspect of Light - Full Text
   path FullText
     step
       --

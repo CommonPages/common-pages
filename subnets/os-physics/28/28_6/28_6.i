@@ -19,6 +19,7 @@ story 28_6
     28_6_4
     28_6_5
 
+  / Relativistic Energy - Full Text
   path FullText
     step
       --

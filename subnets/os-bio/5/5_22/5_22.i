@@ -4,6 +4,7 @@
 space 5_22
 
   ^^
+    SkimPath
     FullPath
 
   insert 5.5_22.5_22_0.5_22_0_0
@@ -14,6 +15,88 @@ space 5_22
     5_22_3
     5_22_4
     5_22_5
+
+
+  / Key Concepts
+  // Prokaryotes: Bacteria and Archaea - Key Concepts
+  path SkimPath
+    / Prokaryotes: Bacteria and Archaea
+    step
+      >>>
+        ## Prokaryotes: Bacteria and Archaea
+      >>
+        5.5_22.5_22_0.5_22_0_0
+      >>>
+        {step:next Continue}
+
+    / Prokaryotic Diversity
+    step
+      >>>
+        ## Prokaryotic Diversity
+      >>
+        5.5_22.5_22_1.5_22_1_0
+      --- Prokaryotic Diversity - In Depth
+        5.5_22.5_22_1.5_22_1_1
+        5.5_22.5_22_1.5_22_1_2
+        5.5_22.5_22_1.5_22_1_3
+        5.5_22.5_22_1.5_22_1_4
+      >>>
+        {step:next Continue}
+
+    / Structure of Prokaryotes: Bacteria and Archaea
+    step
+      >>>
+        ## Structure of Prokaryotes: Bacteria and Archaea
+      >>
+        5.5_22.5_22_2.5_22_2_0
+      --- Structure of Prokaryotes: Bacteria and Archaea - In Depth
+        5.5_22.5_22_2.5_22_2_1
+        5.5_22.5_22_2.5_22_2_2
+        5.5_22.5_22_2.5_22_2_3
+      >>>
+        {step:next Continue}
+
+    / Prokaryotic Metabolism
+    step
+      >>>
+        ## Prokaryotic Metabolism
+      >>
+        5.5_22.5_22_3.5_22_3_0
+      --- Prokaryotic Metabolism - In Depth
+        5.5_22.5_22_3.5_22_3_1
+        5.5_22.5_22_3.5_22_3_2
+        5.5_22.5_22_3.5_22_3_3
+      >>>
+        {step:next Continue}
+
+    / Bacterial Diseases in Humans
+    step
+      >>>
+        ## Bacterial Diseases in Humans
+      >>
+        5.5_22.5_22_4.5_22_4_0
+      --- Bacterial Diseases in Humans - In Depth
+        5.5_22.5_22_4.5_22_4_1
+        5.5_22.5_22_4.5_22_4_2
+        5.5_22.5_22_4.5_22_4_3
+        5.5_22.5_22_4.5_22_4_4
+        5.5_22.5_22_4.5_22_4_5
+      >>>
+        {step:next Continue}
+
+    / Beneficial Prokaryotes
+    step
+      >>>
+        ## Beneficial Prokaryotes
+      >>
+        5.5_22.5_22_5.5_22_5_0
+      --- Beneficial Prokaryotes - In Depth
+        5.5_22.5_22_5.5_22_5_1
+        5.5_22.5_22_5.5_22_5_2
+        5.5_22.5_22_5.5_22_5_3
+        5.5_22.5_22_5.5_22_5_4
+      >>>
+        {step:exit}
 
 
   / 5.22 - Full Text
@@ -43,7 +126,7 @@ space 5_22
     step
       --
         5.5_22.5_22_1.5_22_1_4
-    / Structure of Prokaryotes - Introduction
+    / Structure of Prokaryotes: Bacteria and Archaea - Introduction
     step
       --
         5.5_22.5_22_2.5_22_2_0
@@ -87,22 +170,18 @@ space 5_22
     step
       --
         5.5_22.5_22_4.5_22_4_2
-    / Biofilms and Disease
-    step
-      --
-        5.5_22.5_22_4.5_22_4_3
-    / Antibiotics: Are We Facing a Crisis?
-    step
-      --
-        5.5_22.5_22_4.5_22_4_4
     / Foodborne Diseases
     step
       --
-        5.5_22.5_22_4.5_22_4_5
-    / Section Summary
+        5.5_22.5_22_4.5_22_4_3
+    / Biofilms and Disease
     step
       --
-        5.5_22.5_22_4.5_22_4_6
+        5.5_22.5_22_4.5_22_4_4
+    / Antibiotics: Are We Facing a Crisis?
+    step
+      --
+        5.5_22.5_22_4.5_22_4_5
     / Beneficial Prokaryotes - Introduction
     step
       --

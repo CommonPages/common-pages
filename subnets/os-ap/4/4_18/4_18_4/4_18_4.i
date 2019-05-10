@@ -15,8 +15,8 @@ story 4_18_4
     4_18_4_5
     4_18_4_6
     4_18_4_7
-    4_18_4_8
 
+  / Leukocytes and Platelets - Full Text
   path FullText
     step
       --
@@ -42,8 +42,5 @@ story 4_18_4
     step
       --
         4_18_4_7
-    step
-      --
-        4_18_4_8
 
     

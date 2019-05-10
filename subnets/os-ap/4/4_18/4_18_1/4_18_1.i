@@ -13,8 +13,8 @@ story 4_18_1
     4_18_1_3
     4_18_1_4
     4_18_1_5
-    4_18_1_6
 
+  / An Overview of Blood - Full Text
   path FullText
     step
       --
@@ -34,8 +34,5 @@ story 4_18_1
     step
       --
         4_18_1_5
-    step
-      --
-        4_18_1_6
 
     

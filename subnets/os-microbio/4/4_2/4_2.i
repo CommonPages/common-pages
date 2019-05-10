@@ -15,6 +15,7 @@ story 4_2
     4_2_6
     4_2_7
 
+  / Proteobacteria - Full Text
   path FullText
     step
       --

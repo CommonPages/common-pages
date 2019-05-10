@@ -5,10 +5,7 @@ story 13_0
     
             
     
-    Imagine a beach populated with sunbathers and swimmers. As those basking in the sun get too hot and want to cool off, they head into the surf to swim. As the swimmers tire, they head to the beach to rest. If these two rates of transfer (sunbathers entering the water, swimmers leaving the water) are equal, the number of sunbathers and swimmers would be constant, or at equilibrium, although the identities of the people are constantly changing from sunbather to swimmer and back. An analogous situation occurs in chemical reactions. Reactions can occur in both directions simultaneously (reactants to products and products to reactants) and eventually reach a state of balance.
-    
-    These balanced two-way reactions occur all around and even in us. For example, they occur in our blood, where the reaction between carbon dioxide and water forms carbonic acid <math xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" xmlns:q="http://cnx.rice.edu/qml/1.0" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:bib="http://bibtexml.sf.net/" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/cnxml"><mrow><mo stretchy="false">(</mo><msub><mtext>H</mtext><mn>2</mn></msub><msub><mtext>CO</mtext><mn>3</mn></msub><mo stretchy="false">)</mo></mrow></math> ({'Figure_13_0_Blood Figure 13.0.Blood}). Human physiology is adapted to the amount of ionized products produced by this reaction <math xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" xmlns:q="http://cnx.rice.edu/qml/1.0" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:bib="http://bibtexml.sf.net/" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/cnxml"><mrow><mo>(</mo><msub><mrow><mtext>HCO</mtext></mrow><mn>3</mn></msub><msup><mrow/><mtext>−</mtext></msup></mrow></math> and H<sup>+</sup>). This chapter provides a thorough introduction to the essential aspects of chemical equilibria.
-    
+    Imagine a beach populated with sunbathers and swimmers. As those basking in the sun get too hot, they enter the surf to swim and cool off. As the swimmers tire, they return to the beach to rest. If the rate at which sunbathers enter the surf were to equal the rate at which swimmers return to the sand, then the numbers (though not the identities) of sunbathers and swimmers would remain constant. This scenario illustrates a dynamic phenomenon known as  *equilibrium*, in which opposing processes occur at equal rates. Chemical and physical processes are subject to this phenomenon; these processes are at equilibrium when the forward and reverse reaction rates are equal. Equilibrium systems are pervasive in nature; the various reactions involving carbon dioxide dissolved in blood are examples (see {'Figure_13_0_Blood Figure 13.0.Blood}). This chapter provides a thorough introduction to the essential aspects of chemical equilibria.
     
     We now have a good understanding of chemical and physical change that allow us to determine, for any given process:
     
@@ -49,6 +46,7 @@ story 13_0
   ---
     13_0_0
 
+  / Introduction - Full Text
   path FullText
     step
       --

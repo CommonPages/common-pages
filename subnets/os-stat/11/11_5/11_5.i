@@ -14,8 +14,8 @@ story 11_5
     11_5_0
     11_5_1
     11_5_2
-    11_5_3
 
+  / Comparison of the Chi-Square Tests - Full Text
   path FullText
     step
       --
@@ -26,8 +26,5 @@ story 11_5
     step
       --
         11_5_2
-    step
-      --
-        11_5_3
 
     

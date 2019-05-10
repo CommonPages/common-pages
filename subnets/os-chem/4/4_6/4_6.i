@@ -15,6 +15,7 @@ story 4_6
     4_6_2
     4_6_3
 
+  / Molecular Structure and Polarity - Full Text
   path FullText
     step
       --

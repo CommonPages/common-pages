@@ -1,6 +1,6 @@
 
 
-url: //static.claimspace.cloud/projects/os/logos/os-chemaf.svg
+url: //static.theinsight.cloud/projects/os-chem/os-chem.svg
 width: 160
 height: 160
 image 'Logo

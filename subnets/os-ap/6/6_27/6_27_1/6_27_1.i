@@ -18,8 +18,8 @@ story 6_27_1
     6_27_1_5
     6_27_1_6
     6_27_1_7
-    6_27_1_8
 
+  / Anatomy and Physiology of the Male Reproductive System - Full Text
   path FullText
     step
       --
@@ -45,8 +45,5 @@ story 6_27_1
     step
       --
         6_27_1_7
-    step
-      --
-        6_27_1_8
 
     

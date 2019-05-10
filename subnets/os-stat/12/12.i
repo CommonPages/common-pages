@@ -4,6 +4,7 @@
 space 12
 
   ^^
+    SkimPath
     FullPath
 
   insert 12.12_0.12_0_0
@@ -15,6 +16,107 @@ space 12
     12_4
     12_5
     12_6
+
+
+  / Key Concepts
+  // Linear Regression and Correlation - Key Concepts
+  path SkimPath
+    / Linear Regression and Correlation
+    step
+      >>>
+        ## Linear Regression and Correlation
+      >>
+        12.12_0.12_0_0
+      >>>
+        {step:next Continue}
+
+    / Linear Equations
+    step
+      >>>
+        ## Linear Equations
+      >>
+        12.12_1.12_1_0
+      --- Linear Equations - In Depth
+        12.12_1.12_1_1
+        12.12_1.12_1_3
+        12.12_1.12_1_4
+        12.12_1.12_1_5
+      >>>
+        {step:next Continue}
+
+    / Scatter Plots
+    step
+      >>>
+        ## Scatter Plots
+      >>
+        12.12_2.12_2_0
+      --- Scatter Plots - In Depth
+        12.12_2.12_2_1
+        12.12_2.12_2_2
+      >>>
+        {step:next Continue}
+
+    / The Regression Equation
+    step
+      >>>
+        ## The Regression Equation
+      >>
+        12.12_3.12_3_0
+      --- The Regression Equation - In Depth
+        12.12_3.12_3_1
+        12.12_3.12_3_2
+        12.12_3.12_3_3
+        12.12_3.12_3_4
+        12.12_3.12_3_5
+        12.12_3.12_3_6
+        12.12_3.12_3_7
+      >>>
+        {step:next Continue}
+
+    / Testing the Significance of the Correlation Coefficient
+    step
+      >>>
+        ## Testing the Significance of the Correlation Coefficient
+      >>
+        12.12_4.12_4_0
+      --- Testing the Significance of the Correlation Coefficient - In Depth
+        12.12_4.12_4_1
+        12.12_4.12_4_2
+        12.12_4.12_4_3
+        12.12_4.12_4_4
+        12.12_4.12_4_5
+        12.12_4.12_4_6
+      >>>
+        {step:next Continue}
+
+    / Prediction
+    step
+      >>>
+        ## Prediction
+      >>
+        12.12_5.12_5_0
+      --- Prediction - In Depth
+        12.12_5.12_5_2
+        12.12_5.12_5_3
+      >>>
+        {step:next Continue}
+
+    / Outliers
+    step
+      >>>
+        ## Outliers
+      >>
+        12.12_6.12_6_0
+      --- Outliers - In Depth
+        12.12_6.12_6_1
+        12.12_6.12_6_2
+        12.12_6.12_6_3
+        12.12_6.12_6_4
+        12.12_6.12_6_5
+        12.12_6.12_6_7
+        12.12_6.12_6_8
+      >>>
+        {step:exit}
 
 
   / 12 - Full Text

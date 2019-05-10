@@ -16,6 +16,7 @@ story 2_9_2
     2_9_2_3
     2_9_2_4
 
+  / Fibrous Joints - Full Text
   path FullText
     step
       --

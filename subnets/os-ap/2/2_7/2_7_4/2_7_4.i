@@ -15,6 +15,7 @@ story 2_7_4
     2_7_4_2
     2_7_4_3
 
+  / The Thoracic Cage - Full Text
   path FullText
     step
       --

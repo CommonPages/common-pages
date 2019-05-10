@@ -17,6 +17,7 @@ story 5_4
     5_4_2
     5_4_3
 
+  / Algae - Full Text
   path FullText
     step
       --

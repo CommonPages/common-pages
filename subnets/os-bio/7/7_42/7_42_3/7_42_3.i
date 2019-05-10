@@ -13,6 +13,7 @@ story 7_42_3
     7_42_3_3
     7_42_3_4
 
+  / Antibodies - Full Text
   path FullText
     step
       --

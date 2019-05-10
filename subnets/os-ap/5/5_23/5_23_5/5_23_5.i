@@ -11,8 +11,8 @@ story 5_23_5
     5_23_5_1
     5_23_5_2
     5_23_5_3
-    5_23_5_4
 
+  / The Small and Large Intestines - Full Text
   path FullText
     step
       --
@@ -26,8 +26,5 @@ story 5_23_5
     step
       --
         5_23_5_3
-    step
-      --
-        5_23_5_4
 
     

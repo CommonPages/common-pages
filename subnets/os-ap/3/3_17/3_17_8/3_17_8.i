@@ -18,6 +18,7 @@ story 3_17_8
     3_17_8_0
     3_17_8_1
 
+  / Gonadal and Placental Hormones - Full Text
   path FullText
     step
       --

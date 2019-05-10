@@ -4,6 +4,7 @@
 space 1_2
 
   ^^
+    SkimPath
     FullPath
 
   insert 1.1_2.1_2_0.1_2_0_0
@@ -14,6 +15,92 @@ space 1_2
     1_2_3
     1_2_4
     1_2_5
+
+
+  / Key Concepts
+  // The Chemical Level of Organization - Key Concepts
+  path SkimPath
+    / The Chemical Level of Organization
+    step
+      >>>
+        ## The Chemical Level of Organization
+      >>
+        1.1_2.1_2_0.1_2_0_0
+      >>>
+        {step:next Continue}
+
+    / Elements and Atoms: The Building Blocks of Matter
+    step
+      >>>
+        ## Elements and Atoms: The Building Blocks of Matter
+      >>
+        1.1_2.1_2_1.1_2_1_0
+      --- Elements and Atoms: The Building Blocks of Matter - In Depth
+        1.1_2.1_2_1.1_2_1_1
+        1.1_2.1_2_1.1_2_1_2
+        1.1_2.1_2_1.1_2_1_3
+        1.1_2.1_2_1.1_2_1_4
+      >>>
+        {step:next Continue}
+
+    / Chemical Bonds
+    step
+      >>>
+        ## Chemical Bonds
+      >>
+        1.1_2.1_2_2.1_2_2_0
+      --- Chemical Bonds - In Depth
+        1.1_2.1_2_2.1_2_2_1
+        1.1_2.1_2_2.1_2_2_2
+        1.1_2.1_2_2.1_2_2_3
+        1.1_2.1_2_2.1_2_2_4
+      >>>
+        {step:next Continue}
+
+    / Chemical Reactions
+    step
+      >>>
+        ## Chemical Reactions
+      >>
+        1.1_2.1_2_3.1_2_3_0
+      --- Chemical Reactions - In Depth
+        1.1_2.1_2_3.1_2_3_1
+        1.1_2.1_2_3.1_2_3_2
+        1.1_2.1_2_3.1_2_3_3
+        1.1_2.1_2_3.1_2_3_4
+        1.1_2.1_2_3.1_2_3_5
+      >>>
+        {step:next Continue}
+
+    / Inorganic Compounds Essential to Human Functioning
+    step
+      >>>
+        ## Inorganic Compounds Essential to Human Functioning
+      >>
+        1.1_2.1_2_4.1_2_4_0
+      --- Inorganic Compounds Essential to Human Functioning - In Depth
+        1.1_2.1_2_4.1_2_4_1
+        1.1_2.1_2_4.1_2_4_2
+        1.1_2.1_2_4.1_2_4_3
+        1.1_2.1_2_4.1_2_4_4
+      >>>
+        {step:next Continue}
+
+    / Organic Compounds Essential to Human Functioning
+    step
+      >>>
+        ## Organic Compounds Essential to Human Functioning
+      >>
+        1.1_2.1_2_5.1_2_5_0
+      --- Organic Compounds Essential to Human Functioning - In Depth
+        1.1_2.1_2_5.1_2_5_1
+        1.1_2.1_2_5.1_2_5_2
+        1.1_2.1_2_5.1_2_5_3
+        1.1_2.1_2_5.1_2_5_4
+        1.1_2.1_2_5.1_2_5_5
+        1.1_2.1_2_5.1_2_5_6
+      >>>
+        {step:exit}
 
 
   / 1.2 - Full Text
@@ -43,10 +130,6 @@ space 1_2
     step
       --
         1.1_2.1_2_1.1_2_1_4
-    / Interactive Link Questions
-    step
-      --
-        1.1_2.1_2_1.1_2_1_5
     / Chemical Bonds - Introduction
     step
       --
@@ -67,10 +150,6 @@ space 1_2
     step
       --
         1.1_2.1_2_2.1_2_2_4
-    / Interactive Link Questions
-    step
-      --
-        1.1_2.1_2_2.1_2_2_5
     / Chemical Reactions - Introduction
     step
       --
@@ -143,8 +222,4 @@ space 1_2
     step
       --
         1.1_2.1_2_5.1_2_5_6
-    / Interactive Link Questions
-    step
-      --
-        1.1_2.1_2_5.1_2_5_7
     

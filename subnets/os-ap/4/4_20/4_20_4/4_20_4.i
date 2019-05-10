@@ -25,8 +25,8 @@ story 4_20_4
     4_20_4_4
     4_20_4_5
     4_20_4_6
-    4_20_4_7
 
+  / Homeostatic Regulation of the Vascular System - Full Text
   path FullText
     step
       --
@@ -49,8 +49,5 @@ story 4_20_4
     step
       --
         4_20_4_6
-    step
-      --
-        4_20_4_7
 
     

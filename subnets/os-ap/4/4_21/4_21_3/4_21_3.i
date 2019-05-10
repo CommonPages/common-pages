@@ -18,6 +18,7 @@ story 4_21_3
     4_21_3_8
     4_21_3_9
 
+  / The Adaptive Immune Response: T lymphocytes and Their Functional Types - Full Text
   path FullText
     step
       --

@@ -14,6 +14,7 @@ story 1_2_3
     1_2_3_4
     1_2_3_5
 
+  / Chemical Reactions - Full Text
   path FullText
     step
       --

@@ -22,6 +22,7 @@ story 11_6
     11_6_3
     11_6_4
 
+  / Test of a Single Variance - Full Text
   path FullText
     step
       --

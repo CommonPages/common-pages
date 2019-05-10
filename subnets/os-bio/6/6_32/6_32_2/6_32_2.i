@@ -24,6 +24,7 @@ story 6_32_2
     6_32_2_8
     6_32_2_9
 
+  / Pollination and Fertilization - Full Text
   path FullText
     step
       --

@@ -4,6 +4,7 @@
 space 2
 
   ^^
+    SkimPath
     FullPath
 
   insert 2.2_0.2_0_0
@@ -13,6 +14,79 @@ space 2
     2_2
     2_3
     2_4
+
+
+  / Key Concepts
+  // How We See the Invisible World - Key Concepts
+  path SkimPath
+    / How We See the Invisible World
+    step
+      >>>
+        ## How We See the Invisible World
+      >>
+        2.2_0.2_0_0
+      >>>
+        {step:next Continue}
+
+    / The Properties of Light
+    step
+      >>>
+        ## The Properties of Light
+      >>
+        2.2_1.2_1_1
+      --- The Properties of Light - In Depth
+        2.2_1.2_1_2
+        2.2_1.2_1_3
+        2.2_1.2_1_4
+        2.2_1.2_1_5
+        2.2_1.2_1_6
+      >>>
+        {step:next Continue}
+
+    / Peering Into the Invisible World
+    step
+      >>>
+        ## Peering Into the Invisible World
+      >>
+        2.2_2.2_2_1
+      --- Peering Into the Invisible World - In Depth
+        2.2_2.2_2_2
+        2.2_2.2_2_3
+      >>>
+        {step:next Continue}
+
+    / Instruments of Microscopy
+    step
+      >>>
+        ## Instruments of Microscopy
+      >>
+        2.2_3.2_3_1
+      --- Instruments of Microscopy - In Depth
+        2.2_3.2_3_2
+        2.2_3.2_3_3
+        2.2_3.2_3_4
+        2.2_3.2_3_5
+      >>>
+        {step:next Continue}
+
+    / Staining Microscopic Specimens
+    step
+      >>>
+        ## Staining Microscopic Specimens
+      >>
+        2.2_4.2_4_1
+      --- Staining Microscopic Specimens - In Depth
+        2.2_4.2_4_2
+        2.2_4.2_4_3
+        2.2_4.2_4_4
+        2.2_4.2_4_5
+        2.2_4.2_4_6
+        2.2_4.2_4_7
+        2.2_4.2_4_8
+        2.2_4.2_4_9
+        2.2_4.2_4_10
+      >>>
+        {step:exit}
 
 
   / 2 - Full Text

@@ -4,6 +4,7 @@
 space 7_38
 
   ^^
+    SkimPath
     FullPath
 
   insert 7.7_38.7_38_0.7_38_0_0
@@ -13,6 +14,85 @@ space 7_38
     7_38_2
     7_38_3
     7_38_4
+
+
+  / Key Concepts
+  // The Musculoskeletal System - Key Concepts
+  path SkimPath
+    / The Musculoskeletal System
+    step
+      >>>
+        ## The Musculoskeletal System
+      >>
+        7.7_38.7_38_0.7_38_0_0
+      >>>
+        {step:next Continue}
+
+    / Types of Skeletal Systems
+    step
+      >>>
+        ## Types of Skeletal Systems
+      >>
+        7.7_38.7_38_1.7_38_1_0
+      --- Types of Skeletal Systems - In Depth
+        7.7_38.7_38_1.7_38_1_1
+        7.7_38.7_38_1.7_38_1_2
+        7.7_38.7_38_1.7_38_1_3
+        7.7_38.7_38_1.7_38_1_4
+        7.7_38.7_38_1.7_38_1_5
+        7.7_38.7_38_1.7_38_1_6
+      >>>
+        {step:next Continue}
+
+    / Bone
+    step
+      >>>
+        ## Bone
+      >>
+        7.7_38.7_38_2.7_38_2_0
+      --- Bone - In Depth
+        7.7_38.7_38_2.7_38_2_1
+        7.7_38.7_38_2.7_38_2_2
+        7.7_38.7_38_2.7_38_2_3
+        7.7_38.7_38_2.7_38_2_4
+        7.7_38.7_38_2.7_38_2_5
+        7.7_38.7_38_2.7_38_2_6
+        7.7_38.7_38_2.7_38_2_7
+        7.7_38.7_38_2.7_38_2_8
+      >>>
+        {step:next Continue}
+
+    / Joints and Skeletal Movement
+    step
+      >>>
+        ## Joints and Skeletal Movement
+      >>
+        7.7_38.7_38_3.7_38_3_0
+      --- Joints and Skeletal Movement - In Depth
+        7.7_38.7_38_3.7_38_3_1
+        7.7_38.7_38_3.7_38_3_2
+        7.7_38.7_38_3.7_38_3_3
+        7.7_38.7_38_3.7_38_3_4
+        7.7_38.7_38_3.7_38_3_5
+      >>>
+        {step:next Continue}
+
+    / Muscle Contraction and Locomotion
+    step
+      >>>
+        ## Muscle Contraction and Locomotion
+      >>
+        7.7_38.7_38_4.7_38_4_0
+      --- Muscle Contraction and Locomotion - In Depth
+        7.7_38.7_38_4.7_38_4_1
+        7.7_38.7_38_4.7_38_4_2
+        7.7_38.7_38_4.7_38_4_3
+        7.7_38.7_38_4.7_38_4_4
+        7.7_38.7_38_4.7_38_4_5
+        7.7_38.7_38_4.7_38_4_6
+        7.7_38.7_38_4.7_38_4_7
+      >>>
+        {step:exit}
 
 
   / 7.38 - Full Text
@@ -82,6 +162,10 @@ space 7_38
     step
       --
         7.7_38.7_38_2.7_38_2_7
+    / Art Exercise
+    step
+      --
+        7.7_38.7_38_2.7_38_2_8
     / Joints and Skeletal Movement - Introduction
     step
       --

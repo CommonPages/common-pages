@@ -1,8 +1,7 @@
 
-/ Hydrolysis of Salt Solutions
+/ Hydrolysis of Salts
 story 14_4
   >
-    As we have seen in the section on chemical reactions, when an acid and base are mixed, they undergo a neutralization reaction. The word “neutralization” seems to imply that a stoichiometrically equivalent solution of an acid and a base would be neutral. This is sometimes true, but the salts that are formed in these reactions may have acidic or basic properties of their own, as we shall now see.
 
   apply FullText
 
@@ -12,9 +11,8 @@ story 14_4
     14_4_2
     14_4_3
     14_4_4
-    14_4_5
-    14_4_6
 
+  / Hydrolysis of Salts - Full Text
   path FullText
     step
       --
@@ -31,11 +29,5 @@ story 14_4
     step
       --
         14_4_4
-    step
-      --
-        14_4_5
-    step
-      --
-        14_4_6
 
     

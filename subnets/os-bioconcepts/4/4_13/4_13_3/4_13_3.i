@@ -20,6 +20,7 @@ story 4_13_3
     4_13_3_7
     4_13_3_8
 
+  / Protists - Full Text
   path FullText
     step
       --

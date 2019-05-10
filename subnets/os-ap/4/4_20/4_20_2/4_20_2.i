@@ -17,6 +17,7 @@ story 4_20_2
     4_20_2_5
     4_20_2_6
 
+  / Blood Flow, Blood Pressure, and Resistance - Full Text
   path FullText
     step
       --

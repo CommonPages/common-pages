@@ -13,6 +13,7 @@ story 2_7_1
     2_7_1_1
     2_7_1_2
 
+  / Sexual Reproduction - Full Text
   path FullText
     step
       --

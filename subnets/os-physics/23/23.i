@@ -4,6 +4,7 @@
 space 23
 
   ^^
+    SkimPath
     FullPath
 
 
@@ -21,6 +22,110 @@ space 23
     23_10
     23_11
     23_12
+
+
+  / Key Concepts
+  // Electromagnetic Induction, AC Circuits, and Electrical Technologies - Key Concepts
+  path SkimPath
+    / Introduction to Electromagnetic Induction, AC Circuits and Electrical Technologies
+    step
+      >>>
+        ## Introduction to Electromagnetic Induction, AC Circuits and Electrical Technologies
+      >>
+        23.23_0.23_0_0
+      >>>
+        {step:next Continue}
+
+    / Induced Emf and Magnetic Flux
+    step
+      >>>
+        ## Induced Emf and Magnetic Flux
+      >>
+        23.23_1.23_1_0
+      --- Induced Emf and Magnetic Flux - In Depth
+        23.23_1.23_1_1
+      >>>
+        {step:next Continue}
+
+    / Motional Emf
+    step
+      >>>
+        ## Motional Emf
+      >>
+        23.23_3.23_3_0
+      --- Motional Emf - In Depth
+        23.23_3.23_3_1
+      >>>
+        {step:next Continue}
+
+    / Electric Generators
+    step
+      >>>
+        ## Electric Generators
+      >>
+        23.23_5.23_5_0
+      --- Electric Generators - In Depth
+        23.23_5.23_5_1
+      >>>
+        {step:next Continue}
+
+    / Back Emf
+    step
+      >>>
+        ## Back Emf
+      >>
+        23.23_6.23_6_0
+      --- Back Emf - In Depth
+        23.23_6.23_6_1
+      >>>
+        {step:next Continue}
+
+    / Transformers
+    step
+      >>>
+        ## Transformers
+      >>
+        23.23_7.23_7_0
+      --- Transformers - In Depth
+        23.23_7.23_7_1
+      >>>
+        {step:next Continue}
+
+    / Electrical Safety: Systems and Devices
+    step
+      >>>
+        ## Electrical Safety: Systems and Devices
+      >>
+        23.23_8.23_8_0
+      --- Electrical Safety: Systems and Devices - In Depth
+        23.23_8.23_8_1
+      >>>
+        {step:next Continue}
+
+    / RL Circuits
+    step
+      >>>
+        ## RL Circuits
+      >>
+        23.23_10.23_10_0
+      --- RL Circuits - In Depth
+        23.23_10.23_10_1
+      >>>
+        {step:next Continue}
+
+    / Reactance, Inductive and Capacitive
+    step
+      >>>
+        ## Reactance, Inductive and Capacitive
+      >>
+        23.23_11.23_11_0
+      --- Reactance, Inductive and Capacitive - In Depth
+        23.23_11.23_11_1
+        23.23_11.23_11_2
+        23.23_11.23_11_3
+        23.23_11.23_11_4
+      >>>
+        {step:exit}
 
 
   / 23 - Full Text

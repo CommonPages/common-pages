@@ -10,6 +10,7 @@ story 20_1
     20_1_1
     20_1_2
 
+  / Current - Full Text
   path FullText
     step
       --

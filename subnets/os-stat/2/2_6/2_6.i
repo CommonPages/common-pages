@@ -66,6 +66,7 @@ story 2_6
     2_6_1
     2_6_2
 
+  / Skewness and the Mean, Median, and Mode - Full Text
   path FullText
     step
       --

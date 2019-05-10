@@ -12,6 +12,7 @@ story 5_2
     5_2_2
     5_2_4
 
+  / The Uniform Distribution - Full Text
   path FullText
     step
       --

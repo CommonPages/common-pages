@@ -1,6 +1,6 @@
 
 
-/ Unit 8. Ecology
+/ Ecology
 /// Ecology is the study of the interactions of living organisms with their environment. One core goal of ecology is to understand the distribution and abundance of living things in the physical environment. Attainment of this goal requires the integration of scientific disciplines inside and outside of biology, such as biochemistry, physiology, evolution, biodiversity, molecular biology, geology, and climatology. 
 space 8
 
@@ -14,100 +14,290 @@ space 8
     8_46
     8_47
 
-  / 8 - Key Concepts
-  // Key Concepts
+  / Key Concepts
+  // Ecology - Key Concepts
   path SkimPath
-    / Introduction
+    / Ecology and the Biosphere
     step
-      --
+      >>>
+        ## Ecology and the Biosphere
+      >>
         8.8_44.8_44_0.8_44_0_0
+      >>>
+        {step:next Continue}
     / The Scope of Ecology
     step
-      --
+      >>>
+        ## The Scope of Ecology
+      >>
         8.8_44.8_44_1.8_44_1_0
+      --- The Scope of Ecology - In Depth
+        8.8_44.8_44_1.8_44_1_1
+        8.8_44.8_44_1.8_44_1_2
+        8.8_44.8_44_1.8_44_1_3
+        8.8_44.8_44_1.8_44_1_4
+        8.8_44.8_44_1.8_44_1_5
+        8.8_44.8_44_1.8_44_1_6
+      >>>
+        {step:next Continue}
     / Biogeography
     step
-      --
+      >>>
+        ## Biogeography
+      >>
         8.8_44.8_44_2.8_44_2_0
+      --- Biogeography - In Depth
+        8.8_44.8_44_2.8_44_2_1
+        8.8_44.8_44_2.8_44_2_2
+        8.8_44.8_44_2.8_44_2_3
+      >>>
+        {step:next Continue}
     / Terrestrial Biomes
     step
-      --
+      >>>
+        ## Terrestrial Biomes
+      >>
         8.8_44.8_44_3.8_44_3_0
+      --- Terrestrial Biomes - In Depth
+        8.8_44.8_44_3.8_44_3_1
+        8.8_44.8_44_3.8_44_3_2
+        8.8_44.8_44_3.8_44_3_3
+        8.8_44.8_44_3.8_44_3_4
+        8.8_44.8_44_3.8_44_3_5
+        8.8_44.8_44_3.8_44_3_6
+        8.8_44.8_44_3.8_44_3_7
+        8.8_44.8_44_3.8_44_3_8
+        8.8_44.8_44_3.8_44_3_9
+      >>>
+        {step:next Continue}
     / Climate and the Effects of Global Climate Change
     step
-      --
+      >>>
+        ## Climate and the Effects of Global Climate Change
+      >>
         8.8_44.8_44_5.8_44_5_0
-    / Introduction
+      --- Climate and the Effects of Global Climate Change - In Depth
+        8.8_44.8_44_5.8_44_5_1
+        8.8_44.8_44_5.8_44_5_2
+        8.8_44.8_44_5.8_44_5_3
+        8.8_44.8_44_5.8_44_5_4
+      >>>
+        {step:next Continue}
+    / Population and Community Ecology
     step
-      --
+      >>>
+        ## Population and Community Ecology
+      >>
         8.8_45.8_45_0.8_45_0_0
+      >>>
+        {step:next Continue}
     / Population Demography
     step
-      --
+      >>>
+        ## Population Demography
+      >>
         8.8_45.8_45_1.8_45_1_0
+      --- Population Demography - In Depth
+        8.8_45.8_45_1.8_45_1_1
+        8.8_45.8_45_1.8_45_1_2
+        8.8_45.8_45_1.8_45_1_3
+        8.8_45.8_45_1.8_45_1_4
+      >>>
+        {step:next Continue}
     / Life Histories and Natural Selection
     step
-      --
+      >>>
+        ## Life Histories and Natural Selection
+      >>
         8.8_45.8_45_2.8_45_2_0
+      --- Life Histories and Natural Selection - In Depth
+        8.8_45.8_45_2.8_45_2_1
+        8.8_45.8_45_2.8_45_2_2
+      >>>
+        {step:next Continue}
     / Environmental Limits to Population Growth
     step
-      --
+      >>>
+        ## Environmental Limits to Population Growth
+      >>
         8.8_45.8_45_3.8_45_3_0
+      --- Environmental Limits to Population Growth - In Depth
+        8.8_45.8_45_3.8_45_3_1
+        8.8_45.8_45_3.8_45_3_2
+        8.8_45.8_45_3.8_45_3_3
+      >>>
+        {step:next Continue}
     / Population Dynamics and Regulation
     step
-      --
+      >>>
+        ## Population Dynamics and Regulation
+      >>
         8.8_45.8_45_4.8_45_4_0
+      --- Population Dynamics and Regulation - In Depth
+        8.8_45.8_45_4.8_45_4_1
+        8.8_45.8_45_4.8_45_4_2
+        8.8_45.8_45_4.8_45_4_3
+        8.8_45.8_45_4.8_45_4_4
+        8.8_45.8_45_4.8_45_4_5
+      >>>
+        {step:next Continue}
     / Human Population Growth
     step
-      --
+      >>>
+        ## Human Population Growth
+      >>
         8.8_45.8_45_5.8_45_5_0
+      --- Human Population Growth - In Depth
+        8.8_45.8_45_5.8_45_5_1
+        8.8_45.8_45_5.8_45_5_2
+        8.8_45.8_45_5.8_45_5_3
+        8.8_45.8_45_5.8_45_5_4
+      >>>
+        {step:next Continue}
     / Community Ecology
     step
-      --
+      >>>
+        ## Community Ecology
+      >>
         8.8_45.8_45_6.8_45_6_0
+      --- Community Ecology - In Depth
+        8.8_45.8_45_6.8_45_6_1
+        8.8_45.8_45_6.8_45_6_2
+        8.8_45.8_45_6.8_45_6_3
+        8.8_45.8_45_6.8_45_6_4
+        8.8_45.8_45_6.8_45_6_5
+        8.8_45.8_45_6.8_45_6_6
+      >>>
+        {step:next Continue}
     / Behavioral Biology: Proximate and Ultimate Causes of Behavior
     step
-      --
+      >>>
+        ## Behavioral Biology: Proximate and Ultimate Causes of Behavior
+      >>
         8.8_45.8_45_7.8_45_7_0
-    / Introduction
+      --- Behavioral Biology: Proximate and Ultimate Causes of Behavior - In Depth
+        8.8_45.8_45_7.8_45_7_1
+        8.8_45.8_45_7.8_45_7_2
+        8.8_45.8_45_7.8_45_7_3
+        8.8_45.8_45_7.8_45_7_4
+        8.8_45.8_45_7.8_45_7_5
+        8.8_45.8_45_7.8_45_7_6
+        8.8_45.8_45_7.8_45_7_7
+      >>>
+        {step:next Continue}
+    / Ecosystems
     step
-      --
+      >>>
+        ## Ecosystems
+      >>
         8.8_46.8_46_0.8_46_0_0
+      >>>
+        {step:next Continue}
     / Ecology of Ecosystems
     step
-      --
+      >>>
+        ## Ecology of Ecosystems
+      >>
         8.8_46.8_46_1.8_46_1_0
+      --- Ecology of Ecosystems - In Depth
+        8.8_46.8_46_1.8_46_1_1
+        8.8_46.8_46_1.8_46_1_2
+        8.8_46.8_46_1.8_46_1_3
+      >>>
+        {step:next Continue}
     / Energy Flow through Ecosystems
     step
-      --
+      >>>
+        ## Energy Flow through Ecosystems
+      >>
         8.8_46.8_46_2.8_46_2_0
+      --- Energy Flow through Ecosystems - In Depth
+        8.8_46.8_46_2.8_46_2_1
+        8.8_46.8_46_2.8_46_2_2
+        8.8_46.8_46_2.8_46_2_3
+        8.8_46.8_46_2.8_46_2_4
+        8.8_46.8_46_2.8_46_2_5
+        8.8_46.8_46_2.8_46_2_6
+      >>>
+        {step:next Continue}
     / Biogeochemical Cycles
     step
-      --
+      >>>
+        ## Biogeochemical Cycles
+      >>
         8.8_46.8_46_3.8_46_3_0
-    / Introduction
+      --- Biogeochemical Cycles - In Depth
+        8.8_46.8_46_3.8_46_3_1
+        8.8_46.8_46_3.8_46_3_2
+        8.8_46.8_46_3.8_46_3_3
+        8.8_46.8_46_3.8_46_3_4
+        8.8_46.8_46_3.8_46_3_5
+        8.8_46.8_46_3.8_46_3_6
+      >>>
+        {step:next Continue}
+    / Conservation Biology and Biodiversity
     step
-      --
+      >>>
+        ## Conservation Biology and Biodiversity
+      >>
         8.8_47.8_47_0.8_47_0_0
+      >>>
+        {step:next Continue}
     / The Biodiversity Crisis
     step
-      --
+      >>>
+        ## The Biodiversity Crisis
+      >>
         8.8_47.8_47_1.8_47_1_0
+      --- The Biodiversity Crisis - In Depth
+        8.8_47.8_47_1.8_47_1_1
+        8.8_47.8_47_1.8_47_1_2
+        8.8_47.8_47_1.8_47_1_3
+      >>>
+        {step:next Continue}
     / The Importance of Biodiversity to Human Life
     step
-      --
+      >>>
+        ## The Importance of Biodiversity to Human Life
+      >>
         8.8_47.8_47_2.8_47_2_0
+      --- The Importance of Biodiversity to Human Life - In Depth
+        8.8_47.8_47_2.8_47_2_1
+        8.8_47.8_47_2.8_47_2_2
+        8.8_47.8_47_2.8_47_2_3
+        8.8_47.8_47_2.8_47_2_4
+        8.8_47.8_47_2.8_47_2_5
+      >>>
+        {step:next Continue}
     / Threats to Biodiversity
     step
-      --
+      >>>
+        ## Threats to Biodiversity
+      >>
         8.8_47.8_47_3.8_47_3_0
+      --- Threats to Biodiversity - In Depth
+        8.8_47.8_47_3.8_47_3_1
+        8.8_47.8_47_3.8_47_3_2
+        8.8_47.8_47_3.8_47_3_3
+        8.8_47.8_47_3.8_47_3_4
+        8.8_47.8_47_3.8_47_3_5
+      >>>
+        {step:next Continue}
     / Preserving Biodiversity
     step
-      --
+      >>>
+        ## Preserving Biodiversity
+      >>
         8.8_47.8_47_4.8_47_4_0
+      --- Preserving Biodiversity - In Depth
+        8.8_47.8_47_4.8_47_4_1
+        8.8_47.8_47_4.8_47_4_2
+        8.8_47.8_47_4.8_47_4_3
+      >>>
+        {step:next Continue}
 
   / 8 - Full Text
-  // Unit 8. Ecology - Full Text
+  // Ecology - Full Text
   path FullPath
     / Ecology and the Biosphere - Introduction
     step
@@ -293,11 +483,11 @@ space 8
     step
       --
         8.8_45.8_45_4.8_45_4_0
-    / Density-dependent Regulation
+    / Density-Dependent Regulation
     step
       --
         8.8_45.8_45_4.8_45_4_1
-    / Density-independent Regulation and Interaction with Density-dependent Factors
+    / Density-Independent Regulation and Interaction with Density-Dependent Factors
     step
       --
         8.8_45.8_45_4.8_45_4_2

@@ -27,6 +27,7 @@ story 27_1
     27_1_0
     27_1_1
 
+  / The Wave Aspect of Light: Interference - Full Text
   path FullText
     step
       --

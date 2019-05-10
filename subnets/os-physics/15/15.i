@@ -4,6 +4,7 @@
 space 15
 
   ^^
+    SkimPath
     FullPath
 
 
@@ -16,6 +17,109 @@ space 15
     15_5
     15_6
     15_7
+
+
+  / Key Concepts
+  // Thermodynamics - Key Concepts
+  path SkimPath
+    / Introduction to Thermodynamics
+    step
+      >>>
+        ## Introduction to Thermodynamics
+      >>
+        15.15_0.15_0_0
+      >>>
+        {step:next Continue}
+
+    / The First Law of Thermodynamics
+    step
+      >>>
+        ## The First Law of Thermodynamics
+      >>
+        15.15_1.15_1_0
+      --- The First Law of Thermodynamics - In Depth
+        15.15_1.15_1_1
+        15.15_1.15_1_2
+        15.15_1.15_1_3
+      >>>
+        {step:next Continue}
+
+    / The First Law of Thermodynamics and Some Simple Processes
+    step
+      >>>
+        ## The First Law of Thermodynamics and Some Simple Processes
+      >>
+        15.15_2.15_2_0
+      --- The First Law of Thermodynamics and Some Simple Processes - In Depth
+        15.15_2.15_2_1
+        15.15_2.15_2_2
+        15.15_2.15_2_3
+      >>>
+        {step:next Continue}
+
+    / Introduction to the Second Law of Thermodynamics: Heat Engines and Their Efficiency
+    step
+      >>>
+        ## Introduction to the Second Law of Thermodynamics: Heat Engines and Their Efficiency
+      >>
+        15.15_3.15_3_0
+      --- Introduction to the Second Law of Thermodynamics: Heat Engines and Their Efficiency - In Depth
+        15.15_3.15_3_1
+        15.15_3.15_3_2
+      >>>
+        {step:next Continue}
+
+    / Carnot’s Perfect Heat Engine: The Second Law of Thermodynamics Restated
+    step
+      >>>
+        ## Carnot’s Perfect Heat Engine: The Second Law of Thermodynamics Restated
+      >>
+        15.15_4.15_4_0
+      --- Carnot’s Perfect Heat Engine: The Second Law of Thermodynamics Restated - In Depth
+        15.15_4.15_4_1
+      >>>
+        {step:next Continue}
+
+    / Applications of Thermodynamics: Heat Pumps and Refrigerators
+    step
+      >>>
+        ## Applications of Thermodynamics: Heat Pumps and Refrigerators
+      >>
+        15.15_5.15_5_0
+      --- Applications of Thermodynamics: Heat Pumps and Refrigerators - In Depth
+        15.15_5.15_5_1
+        15.15_5.15_5_2
+        15.15_5.15_5_3
+      >>>
+        {step:next Continue}
+
+    / Entropy and the Second Law of Thermodynamics: Disorder and the Unavailability of Energy
+    step
+      >>>
+        ## Entropy and the Second Law of Thermodynamics: Disorder and the Unavailability of Energy
+      >>
+        15.15_6.15_6_0
+      --- Entropy and the Second Law of Thermodynamics: Disorder and the Unavailability of Energy - In Depth
+        15.15_6.15_6_1
+        15.15_6.15_6_2
+        15.15_6.15_6_3
+        15.15_6.15_6_4
+        15.15_6.15_6_5
+      >>>
+        {step:next Continue}
+
+    / Statistical Interpretation of Entropy and the Second Law of Thermodynamics: The Underlying Explanation
+    step
+      >>>
+        ## Statistical Interpretation of Entropy and the Second Law of Thermodynamics: The Underlying Explanation
+      >>
+        15.15_7.15_7_0
+      --- Statistical Interpretation of Entropy and the Second Law of Thermodynamics: The Underlying Explanation - In Depth
+        15.15_7.15_7_1
+        15.15_7.15_7_2
+        15.15_7.15_7_3
+      >>>
+        {step:exit}
 
 
   / 15 - Full Text

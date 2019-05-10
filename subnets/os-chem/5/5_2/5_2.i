@@ -34,6 +34,7 @@ story 5_2
     5_2_5
     5_2_6
 
+  / Hybrid Atomic Orbitals - Full Text
   path FullText
     step
       --

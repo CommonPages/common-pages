@@ -13,6 +13,7 @@ story 3_3
     3_3_3
     3_3_4
 
+  / Vector Addition and Subtraction: Analytical Methods - Full Text
   path FullText
     step
       --

@@ -43,8 +43,8 @@ story 2_4
     2_4_0
     2_4_2
     2_4_3
-    2_4_4
 
+  / Box Plots - Full Text
   path FullText
     step
       --
@@ -55,8 +55,5 @@ story 2_4
     step
       --
         2_4_3
-    step
-      --
-        2_4_4
 
     

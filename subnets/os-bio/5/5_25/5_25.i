@@ -4,6 +4,7 @@
 space 5_25
 
   ^^
+    SkimPath
     FullPath
 
   insert 5.5_25.5_25_0.5_25_0_0
@@ -13,6 +14,64 @@ space 5_25
     5_25_2
     5_25_3
     5_25_4
+
+
+  / Key Concepts
+  // Seedless Plants - Key Concepts
+  path SkimPath
+    / Seedless Plants
+    step
+      >>>
+        ## Seedless Plants
+      >>
+        5.5_25.5_25_0.5_25_0_0
+      >>>
+        {step:next Continue}
+
+    / Early Plant Life
+    step
+      >>>
+        ## Early Plant Life
+      >>
+        5.5_25.5_25_1.5_25_1_0
+      --- Early Plant Life - In Depth
+        5.5_25.5_25_1.5_25_1_1
+        5.5_25.5_25_1.5_25_1_2
+        5.5_25.5_25_1.5_25_1_3
+        5.5_25.5_25_1.5_25_1_4
+        5.5_25.5_25_1.5_25_1_5
+      >>>
+        {step:next Continue}
+
+    / Bryophytes
+    step
+      >>>
+        ## Bryophytes
+      >>
+        5.5_25.5_25_3.5_25_3_0
+      --- Bryophytes - In Depth
+        5.5_25.5_25_3.5_25_3_1
+        5.5_25.5_25_3.5_25_3_2
+        5.5_25.5_25_3.5_25_3_3
+        5.5_25.5_25_3.5_25_3_4
+      >>>
+        {step:next Continue}
+
+    / Seedless Vascular Plants
+    step
+      >>>
+        ## Seedless Vascular Plants
+      >>
+        5.5_25.5_25_4.5_25_4_0
+      --- Seedless Vascular Plants - In Depth
+        5.5_25.5_25_4.5_25_4_1
+        5.5_25.5_25_4.5_25_4_2
+        5.5_25.5_25_4.5_25_4_3
+        5.5_25.5_25_4.5_25_4_4
+        5.5_25.5_25_4.5_25_4_5
+        5.5_25.5_25_4.5_25_4_6
+      >>>
+        {step:exit}
 
 
   / 5.25 - Full Text
@@ -54,7 +113,7 @@ space 5_25
     step
       --
         5.5_25.5_25_2.5_25_2_1
-    / Charales
+    / Charophytes
     step
       --
         5.5_25.5_25_2.5_25_2_2
@@ -102,7 +161,7 @@ space 5_25
     step
       --
         5.5_25.5_25_4.5_25_4_4
-    / The Importance of Seedless Vascular Plants
+    / The Importance of Seedless Plants
     step
       --
         5.5_25.5_25_4.5_25_4_5

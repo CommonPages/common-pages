@@ -10,6 +10,7 @@ story 23_4
     23_4_1
     23_4_2
 
+  / Eddy Currents and Magnetic Damping - Full Text
   path FullText
     step
       --

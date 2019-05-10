@@ -14,8 +14,8 @@ story 5_26_3
     5_26_3_2
     5_26_3_3
     5_26_3_4
-    5_26_3_5
 
+  / Electrolyte Balance - Full Text
   path FullText
     step
       --
@@ -32,8 +32,5 @@ story 5_26_3
     step
       --
         5_26_3_4
-    step
-      --
-        5_26_3_5
 
     

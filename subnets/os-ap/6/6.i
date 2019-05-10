@@ -12,57 +12,174 @@ space 6
     6_27
     6_28
 
-  / 6 - Key Concepts
-  // Key Concepts
+  / Key Concepts
+  // Unit 6: Human Development and the Continuity of Life - Key Concepts
   path SkimPath
-    / Introduction
+    / The Reproductive System
     step
-      --
+      >>>
+        ## The Reproductive System
+      >>
         6.6_27.6_27_0.6_27_0_0
+      >>>
+        {step:next Continue}
     / Anatomy and Physiology of the Male Reproductive System
     step
-      --
+      >>>
+        ## Anatomy and Physiology of the Male Reproductive System
+      >>
         6.6_27.6_27_1.6_27_1_0
+      --- Anatomy and Physiology of the Male Reproductive System - In Depth
+        6.6_27.6_27_1.6_27_1_1
+        6.6_27.6_27_1.6_27_1_2
+        6.6_27.6_27_1.6_27_1_3
+        6.6_27.6_27_1.6_27_1_4
+        6.6_27.6_27_1.6_27_1_5
+        6.6_27.6_27_1.6_27_1_6
+        6.6_27.6_27_1.6_27_1_7
+      >>>
+        {step:next Continue}
     / Anatomy and Physiology of the Female Reproductive System
     step
-      --
+      >>>
+        ## Anatomy and Physiology of the Female Reproductive System
+      >>
         6.6_27.6_27_2.6_27_2_0
+      --- Anatomy and Physiology of the Female Reproductive System - In Depth
+        6.6_27.6_27_2.6_27_2_1
+        6.6_27.6_27_2.6_27_2_2
+        6.6_27.6_27_2.6_27_2_3
+        6.6_27.6_27_2.6_27_2_4
+        6.6_27.6_27_2.6_27_2_5
+        6.6_27.6_27_2.6_27_2_6
+        6.6_27.6_27_2.6_27_2_7
+        6.6_27.6_27_2.6_27_2_8
+        6.6_27.6_27_2.6_27_2_9
+        6.6_27.6_27_2.6_27_2_10
+      >>>
+        {step:next Continue}
     / Development of the Male and Female Reproductive Systems
     step
-      --
+      >>>
+        ## Development of the Male and Female Reproductive Systems
+      >>
         6.6_27.6_27_3.6_27_3_0
-    / Introduction
+      --- Development of the Male and Female Reproductive Systems - In Depth
+        6.6_27.6_27_3.6_27_3_1
+        6.6_27.6_27_3.6_27_3_2
+        6.6_27.6_27_3.6_27_3_3
+      >>>
+        {step:next Continue}
+    / Development and Inheritance
     step
-      --
+      >>>
+        ## Development and Inheritance
+      >>
         6.6_28.6_28_0.6_28_0_0
+      >>>
+        {step:next Continue}
     / Fertilization
     step
-      --
+      >>>
+        ## Fertilization
+      >>
         6.6_28.6_28_1.6_28_1_0
+      --- Fertilization - In Depth
+        6.6_28.6_28_1.6_28_1_1
+        6.6_28.6_28_1.6_28_1_2
+        6.6_28.6_28_1.6_28_1_3
+        6.6_28.6_28_1.6_28_1_4
+      >>>
+        {step:next Continue}
     / Embryonic Development
     step
-      --
+      >>>
+        ## Embryonic Development
+      >>
         6.6_28.6_28_2.6_28_2_0
+      --- Embryonic Development - In Depth
+        6.6_28.6_28_2.6_28_2_1
+        6.6_28.6_28_2.6_28_2_2
+        6.6_28.6_28_2.6_28_2_3
+        6.6_28.6_28_2.6_28_2_4
+        6.6_28.6_28_2.6_28_2_5
+        6.6_28.6_28_2.6_28_2_6
+        6.6_28.6_28_2.6_28_2_7
+      >>>
+        {step:next Continue}
     / Fetal Development
     step
-      --
+      >>>
+        ## Fetal Development
+      >>
         6.6_28.6_28_3.6_28_3_0
+      --- Fetal Development - In Depth
+        6.6_28.6_28_3.6_28_3_1
+        6.6_28.6_28_3.6_28_3_2
+        6.6_28.6_28_3.6_28_3_3
+        6.6_28.6_28_3.6_28_3_4
+      >>>
+        {step:next Continue}
     / Maternal Changes During Pregnancy, Labor, and Birth
     step
-      --
+      >>>
+        ## Maternal Changes During Pregnancy, Labor, and Birth
+      >>
         6.6_28.6_28_4.6_28_4_0
+      --- Maternal Changes During Pregnancy, Labor, and Birth - In Depth
+        6.6_28.6_28_4.6_28_4_1
+        6.6_28.6_28_4.6_28_4_2
+        6.6_28.6_28_4.6_28_4_3
+        6.6_28.6_28_4.6_28_4_4
+        6.6_28.6_28_4.6_28_4_5
+        6.6_28.6_28_4.6_28_4_6
+      >>>
+        {step:next Continue}
     / Adjustments of the Infant at Birth and Postnatal Stages
     step
-      --
+      >>>
+        ## Adjustments of the Infant at Birth and Postnatal Stages
+      >>
         6.6_28.6_28_5.6_28_5_0
+      --- Adjustments of the Infant at Birth and Postnatal Stages - In Depth
+        6.6_28.6_28_5.6_28_5_1
+        6.6_28.6_28_5.6_28_5_2
+        6.6_28.6_28_5.6_28_5_3
+        6.6_28.6_28_5.6_28_5_4
+        6.6_28.6_28_5.6_28_5_5
+      >>>
+        {step:next Continue}
     / Lactation
     step
-      --
+      >>>
+        ## Lactation
+      >>
         6.6_28.6_28_6.6_28_6_0
+      --- Lactation - In Depth
+        6.6_28.6_28_6.6_28_6_1
+        6.6_28.6_28_6.6_28_6_2
+        6.6_28.6_28_6.6_28_6_3
+        6.6_28.6_28_6.6_28_6_4
+      >>>
+        {step:next Continue}
     / Patterns of Inheritance
     step
-      --
+      >>>
+        ## Patterns of Inheritance
+      >>
         6.6_28.6_28_7.6_28_7_0
+      --- Patterns of Inheritance - In Depth
+        6.6_28.6_28_7.6_28_7_1
+        6.6_28.6_28_7.6_28_7_2
+        6.6_28.6_28_7.6_28_7_3
+        6.6_28.6_28_7.6_28_7_4
+        6.6_28.6_28_7.6_28_7_5
+        6.6_28.6_28_7.6_28_7_6
+        6.6_28.6_28_7.6_28_7_7
+        6.6_28.6_28_7.6_28_7_8
+        6.6_28.6_28_7.6_28_7_9
+      >>>
+        {step:next Continue}
 
   / 6 - Full Text
   // Unit 6: Human Development and the Continuity of Life - Full Text
@@ -103,10 +220,6 @@ space 6
     step
       --
         6.6_27.6_27_1.6_27_1_7
-    / Interactive Link Questions
-    step
-      --
-        6.6_27.6_27_1.6_27_1_8
     / Anatomy and Physiology of the Female Reproductive System - Introduction
     step
       --
@@ -151,10 +264,6 @@ space 6
     step
       --
         6.6_27.6_27_2.6_27_2_10
-    / Interactive Link Questions
-    step
-      --
-        6.6_27.6_27_2.6_27_2_11
     / Development of the Male and Female Reproductive Systems - Introduction
     step
       --
@@ -171,10 +280,6 @@ space 6
     step
       --
         6.6_27.6_27_3.6_27_3_3
-    / Interactive Link Questions
-    step
-      --
-        6.6_27.6_27_3.6_27_3_4
     / Development and Inheritance - Introduction
     step
       --
@@ -231,10 +336,6 @@ space 6
     step
       --
         6.6_28.6_28_2.6_28_2_7
-    / Interactive Link Questions
-    step
-      --
-        6.6_28.6_28_2.6_28_2_8
     / Fetal Development - Introduction
     step
       --
@@ -255,10 +356,6 @@ space 6
     step
       --
         6.6_28.6_28_3.6_28_3_4
-    / Interactive Link Questions
-    step
-      --
-        6.6_28.6_28_3.6_28_3_5
     / Maternal Changes During Pregnancy, Labor, and Birth - Introduction
     step
       --

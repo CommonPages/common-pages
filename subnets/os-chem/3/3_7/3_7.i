@@ -35,6 +35,7 @@ story 3_7
     3_7_3
     3_7_4
 
+  / Molecular and Ionic Compounds - Full Text
   path FullText
     step
       --

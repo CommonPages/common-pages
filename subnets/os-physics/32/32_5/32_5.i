@@ -86,6 +86,7 @@ story 32_5
     32_5_0
     32_5_1
 
+  / Fusion - Full Text
   path FullText
     step
       --

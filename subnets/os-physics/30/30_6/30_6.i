@@ -42,6 +42,7 @@ story 30_6
     30_6_0
     30_6_1
 
+  / The Wave Nature of Matter Causes Quantization - Full Text
   path FullText
     step
       --

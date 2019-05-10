@@ -46,6 +46,7 @@ story 6_2
     6_2_0
     6_2_1
 
+  / Centripetal Acceleration - Full Text
   path FullText
     step
       --

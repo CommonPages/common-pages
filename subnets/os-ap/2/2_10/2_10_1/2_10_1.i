@@ -21,6 +21,7 @@ story 2_10_1
     2_10_1_0
     2_10_1_1
 
+  / Overview of Muscle Tissues - Full Text
   path FullText
     step
       --

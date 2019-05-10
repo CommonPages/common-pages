@@ -4,6 +4,7 @@
 space 12
 
   ^^
+    SkimPath
     FullPath
 
 
@@ -16,6 +17,67 @@ space 12
     12_5
     12_6
     12_7
+
+
+  / Key Concepts
+  // Fluid Dynamics and Its Biological and Medical Applications - Key Concepts
+  path SkimPath
+    / Introduction to Fluid Dynamics and Its Biological and Medical Applications
+    step
+      >>>
+        ## Introduction to Fluid Dynamics and Its Biological and Medical Applications
+      >>
+        12.12_0.12_0_0
+      >>>
+        {step:next Continue}
+
+    / Flow Rate and Its Relation to Velocity
+    step
+      >>>
+        ## Flow Rate and Its Relation to Velocity
+      >>
+        12.12_1.12_1_0
+      --- Flow Rate and Its Relation to Velocity - In Depth
+        12.12_1.12_1_1
+      >>>
+        {step:next Continue}
+
+    / Bernoulli’s Equation
+    step
+      >>>
+        ## Bernoulli’s Equation
+      >>
+        12.12_2.12_2_0
+      --- Bernoulli’s Equation - In Depth
+        12.12_2.12_2_1
+        12.12_2.12_2_2
+        12.12_2.12_2_3
+        12.12_2.12_2_4
+        12.12_2.12_2_5
+      >>>
+        {step:next Continue}
+
+    / The Onset of Turbulence
+    step
+      >>>
+        ## The Onset of Turbulence
+      >>
+        12.12_5.12_5_0
+      --- The Onset of Turbulence - In Depth
+        12.12_5.12_5_1
+      >>>
+        {step:next Continue}
+
+    / Motion of an Object in a Viscous Fluid
+    step
+      >>>
+        ## Motion of an Object in a Viscous Fluid
+      >>
+        12.12_6.12_6_0
+      --- Motion of an Object in a Viscous Fluid - In Depth
+        12.12_6.12_6_1
+      >>>
+        {step:exit}
 
 
   / 12 - Full Text

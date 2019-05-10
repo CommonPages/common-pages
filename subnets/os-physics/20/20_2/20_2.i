@@ -12,6 +12,7 @@ story 20_2
     20_2_2
     20_2_3
 
+  / Ohm’s Law: Resistance and Simple Circuits - Full Text
   path FullText
     step
       --

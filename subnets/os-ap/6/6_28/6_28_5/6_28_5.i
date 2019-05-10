@@ -14,6 +14,7 @@ story 6_28_5
     6_28_5_4
     6_28_5_5
 
+  / Adjustments of the Infant at Birth and Postnatal Stages - Full Text
   path FullText
     step
       --

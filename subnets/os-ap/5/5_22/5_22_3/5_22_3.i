@@ -13,8 +13,8 @@ story 5_22_3
     5_22_3_3
     5_22_3_4
     5_22_3_5
-    5_22_3_6
 
+  / The Process of Breathing - Full Text
   path FullText
     step
       --
@@ -34,8 +34,5 @@ story 5_22_3
     step
       --
         5_22_3_5
-    step
-      --
-        5_22_3_6
 
     

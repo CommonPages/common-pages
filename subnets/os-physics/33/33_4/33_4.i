@@ -19,6 +19,7 @@ story 33_4
     33_4_4
     33_4_5
 
+  / Particles, Patterns, and Conservation Laws - Full Text
   path FullText
     step
       --

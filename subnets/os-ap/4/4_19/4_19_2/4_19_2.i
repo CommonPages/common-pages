@@ -16,6 +16,7 @@ story 4_19_2
     4_19_2_4
     4_19_2_5
 
+  / Cardiac Muscle and Electrical Activity - Full Text
   path FullText
     step
       --

@@ -34,6 +34,7 @@ story 12_2
     12_2_1
     12_2_2
 
+  / Scatter Plots - Full Text
   path FullText
     step
       --
