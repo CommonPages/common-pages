@@ -1,6 +1,7 @@
 
 id: "$nci"
-name: "NCI"
+name: "The National Cancer Institute"
+lead: Accurate, up-to-date, comprehensive cancer information from the U.S. government's principal agency for cancer research.
 theme:
   logo: "//static.theinsight.cloud/icons/project.ico"
 links:
