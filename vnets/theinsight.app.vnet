@@ -8,8 +8,8 @@ hosts:
 subnets:
   - "$wp"
   - "$nci"
+  - "$go2"
   # - "$nccn"
-  # - "$go2"
   # - "$os-bio"
   # - "$os-bioconcepts"
   # - "$os-microbio"
