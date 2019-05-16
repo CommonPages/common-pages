@@ -1,5 +1,5 @@
 
-
+index: hide
 url: //static.theinsight.cloud/projects/os-physics/os-physics.svg
 width: 160
 height: 160
@@ -8,10 +8,9 @@ image 'Logo
 import Figures._
 
 >>>
-  {image-right:'Logo}
-
-  Physics aims to describe the function of everything around us, from the movement of tiny charged particles to the motion of people, cars, and spaceships. In fact, almost everything around you can be described quite accurately by the laws of physics. 
+  {image-right:'Logo}  Physics aims to describe the function of everything around us, from the movement of tiny charged particles to the motion of people, cars, and spaceships. In fact, almost everything around you can be described quite accurately by the laws of physics. 
   <small>This project has been adapted from [College Physics on OpenStax.](https://openstax.org/details/books/college-physics)</small>
+
 
 --
   1
