@@ -23,16 +23,16 @@ space diagnosis
   let radiographic >
     The radiographic, or x-ray, tests described here are not painful. The most painful thing you will experience during these tests is a needle stick for those tests that require an injection of a radioactive liquid. 
 
-    ## Computed Tomography (CAT or CT Scan):
+    ## Computed Tomography (CAT or CT Scan)
     A CAT or CT scan is done using a special x-ray machine that gives a more detailed picture inside your body than a normal chest x-ray. CT scans can find very small tumors in the lung and can help to determine if the cancer has spread to the lymph nodes around the lungs. This scan will help your doctor know what size the tumor is and the exact location of the tumor. 
 
-    ## Positron Emission Tomography Scan (PET Scan):
+    ## Positron Emission Tomography Scan (PET Scan)
     A PET scan is done by another very specialized machine that rotates around your body giving a three dimensional view of your body and allowing your doctors to see the differences between malignant and benign areas. Before the PET scan, a member of your healthcare team will inject a small amount of sugar water with radioactive isotopes into a vein. A radioactive isotope is an atom that emits radiation that can be “seen” by the radiological equipment. As the PET scanner rotates, it shows a picture of where the isotopes are deposited in the cells. Malignant tumors show up brighter in the scan because the cancer cells are more active and are using more of the sugar water mixture than normal cells do.
 
-    ## Magnetic Resonance Imaging (MRI):
+    ## Magnetic Resonance Imaging (MRI)
     The MRI uses huge magnets, magnetic fields, and radio waves to create clear images of many different areas of the body such as the brain, muscles, joints, and blood vessels. Before this test, the x-ray technician will ask you to remove all metal (rings, glasses, bracelets, etc.) that may be attracted to the magnets.
 
-    ## Bone Scan:
+    ## Bone Scan
     A bone scan is a very specific test that may be used to determine if cancer has spread to the bones. Again, with this test, the radiology technician will inject a small amount of sugar water with a radioactive isotope solution into your vein. This fluid begins to accumulate in areas of abnormal bone growth where a radiation scanner can measure the radioactivity levels and record them on x-ray film providing a clear picture of areas that might have cancerous tumors.
 
   / Biopsy Procedures
