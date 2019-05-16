@@ -184,6 +184,7 @@ space immunotherapy
     - Specific biomarkers for patient selection and disease response.
     Mechanisms of immune resistance and post-immunotherapy relapse strategies employed by the cancer.
 
+  index: hide
   space h
     let system >
       # What is the immune system and how does it work?
