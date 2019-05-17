@@ -1,6 +1,7 @@
 
 id: "$go2"
 name: "GO2"
+lead: "Founded by patients and survivors, we are transforming what it means to live with lung cancer and increase the survival rate of the world’s number one cancer killer."
 theme:
   logo: "//static.theinsight.cloud/icons/project.ico"
 links:
