@@ -112,7 +112,7 @@
 
   home:
   / Non-Small Cell Lung Cancer: Discussion
-  /// The management of NSCLC varies depending on the stage, histology, presence of genetic alterations, and PS. Accurate pathologic assessment and staging are essential.
+  /// The management of NSCLC varies depending on the stage, histology, presence of genetic alterations, and performance status. Accurate pathologic assessment and staging are essential.
   . Discussion
     import gen.nscl.disc._
 
