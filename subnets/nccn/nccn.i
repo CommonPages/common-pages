@@ -112,7 +112,7 @@
 
   home:
   / Non-Small Cell Lung Cancer: Discussion
-  /// Lung cancer is the leading cause of cancer death in the United States. Only 18% of all patients with lung cancer are alive 5 years or more after diagnosis. The management of NSCLC varies depending on the stage, histology, presence of genetic alterations, and PS. Accurate pathologic assessment and staging are essential.
+  /// The management of NSCLC varies depending on the stage, histology, presence of genetic alterations, and PS. Accurate pathologic assessment and staging are essential.
   . Discussion
     import gen.nscl.disc._
 
