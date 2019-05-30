@@ -1,8 +1,8 @@
 
 
-/ Shaw et al., 2013
-// Crizotinib versus chemotherapy in advanced ALK-positive lung cancer.
-/// Shaw et al., 2013
+/ Solomen et al., 2014
+// First-line crizotinib versus chemotherapy in ALK-positive lung cancer.
+/// Solomen et al., 2014
 article '12
 
   >>>
@@ -25,15 +25,13 @@ article '12
     </div></div>
 
   >>> BACKGROUND
-    In single-group studies, chromosomal rearrangements of the anaplastic lymphoma kinase gene (ALK) have been associated with marked clinical responses to crizotinib, an oral tyrosine kinase inhibitor targeting ALK. Whether crizotinib is superior to standard chemotherapy with respect to efficacy is unknown.
+    The efficacy of the ALK inhibitor crizotinib as compared with standard chemotherapy as first-line treatment for advanced ALK-positive non-small-cell lung cancer (NSCLC) is unknown.
 
   >>> METHODS
-    We conducted a phase 3, open-label trial comparing crizotinib with chemotherapy in 347 patients with locally advanced or metastatic ALK-positive lung cancer who had received one prior platinum-based regimen. Patients were randomly assigned to receive oral treatment with crizotinib (250 mg) twice daily or intravenous chemotherapy with either pemetrexed (500 mg per square meter of body-surface area) or docetaxel (75 mg per square meter) every 3 weeks. Patients in the chemotherapy group who had disease progression were permitted to cross over to crizotinib as part of a separate study. The primary end point was progression-free survival.
+    We conducted an open-label, phase 3 trial comparing crizotinib with chemotherapy in 343 patients with advanced ALK-positive nonsquamous NSCLC who had received no previous systemic treatment for advanced disease. Patients were randomly assigned to receive oral crizotinib at a dose of 250 mg twice daily or to receive intravenous chemotherapy (pemetrexed, 500 mg per square meter of body-surface area, plus either cisplatin, 75 mg per square meter, or carboplatin, target area under the curve of 5 to 6 mg per milliliter per minute) every 3 weeks for up to six cycles. Crossover to crizotinib treatment after disease progression was permitted for patients receiving chemotherapy. The primary end point was progression-free survival as assessed by independent radiologic review.
 
   >>> RESULTS
-    The median progression-free survival was 7.7 months in the crizotinib group and 3.0 months in the chemotherapy group (hazard ratio for progression or death with crizotinib, 0.49; 95% confidence interval [CI], 0.37 to 0.64; P&lt;0.001). The response rates were 65% (95% CI, 58 to 72) with crizotinib, as compared with 20% (95% CI, 14 to 26) with chemotherapy (P&lt;0.001). An interim analysis of overall survival showed no significant improvement with crizotinib as compared with chemotherapy (hazard ratio for death in the crizotinib group, 1.02; 95% CI, 0.68 to 1.54; P=0.54). Common adverse events associated with crizotinib were visual disorder, gastrointestinal side effects, and elevated liver aminotransferase levels, whereas common adverse events with chemotherapy were fatigue, alopecia, and dyspnea. Patients reported greater reductions in symptoms of lung cancer and greater improvement in global quality of life with crizotinib than with chemotherapy.
+    Progression-free survival was significantly longer with crizotinib than with chemotherapy (median, 10.9 months vs. 7.0 months; hazard ratio for progression or death with crizotinib, 0.45; 95% confidence interval [CI], 0.35 to 0.60; P<0.001). Objective response rates were 74% and 45%, respectively (P<0.001). Median overall survival was not reached in either group (hazard ratio for death with crizotinib, 0.82; 95% CI, 0.54 to 1.26; P=0.36); the probability of 1-year survival was 84% with crizotinib and 79% with chemotherapy. The most common adverse events with crizotinib were vision disorders, diarrhea, nausea, and edema, and the most common events with chemotherapy were nausea, fatigue, vomiting, and decreased appetite. As compared with chemotherapy, crizotinib was associated with greater reduction in lung cancer symptoms and greater improvement in quality of life.
 
   >>> CONCLUSIONS
-    Crizotinib is superior to standard chemotherapy in patients with previously treated, advanced non-small-cell lung cancer with ALK rearrangement. (Funded by Pfizer; ClinicalTrials.gov number, NCT00932893.).
-
-    
+    Crizotinib was superior to standard first-line pemetrexed-plus-platinum chemotherapy in patients with previously untreated advanced ALK-positive NSCLC. (Funded by Pfizer; PROFILE 1014 ClinicalTrials.gov number, NCT01154140.).

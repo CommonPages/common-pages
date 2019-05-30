@@ -1,39 +1,28 @@
 
-
-/ Bradley et al., 2004
-// Impact of FDG-PET on radiation therapy volume delineation in non-small-cell lung cancer.
-/// Bradley et al., 2004
+/ Ung et al., 2010
+// High rates of tumor growth and disease progression detected on serial pretreatment positrooxyglucose-positron emission tomography/computed tomography scans in radical radiotherapy candidates with nonsmall cell lung cancer.
+/// Ung et al., 2010
 article '7
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
     <div class="Citation-text">Ung YC, et al. An Ontario Clinical Oncology Group (OCOG) randomized trial (PET START) of FDG PET/CT in patients with stage 3 non-small cell lung cancer (NSCLC): impact of PET on radiation treatment volumes [Abstract]. J Thorac Oncol 2011;6:S428.</div>
     <div class="Citation-links">
-    <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/15093902">
-    <div class="CitationLink-icon CitationLink-Pubmed"></div>
-    <div class="CitationLink-text">PubMed</div>
-    </div>
-    <div class="CitationLink" data-href="https://doi.org/10.1016/j.ijrobp.2003.10.044">
+    <div class="CitationLink" data-href="doi.org/10.1016/j.ijrobp.2011.06.282">
     <div class="CitationLink-icon CitationLink-Doi"></div>
     <div class="CitationLink-text">DOI</div>
-    </div>
-    <div class="CitationLink" data-href="https://scholar.google.com/scholar?q=10.1016/j.ijrobp.2003.10.044">
-    <div class="CitationLink-icon CitationLink-Scholar"></div>
-    <div class="CitationLink-text">Google Scholar</div>
     </div>
     </div>
     </div></div>
 
   >>> PURPOSE
-    Locoregional failure remains a significant problem for patients receiving definitive radiation therapy alone or combined with chemotherapy for non-small-cell lung cancer (NSCLC). Positron emission tomography (PET) with [(18)F]fluoro-2-deoxy-d-glucose (FDG) has proven to be a valuable diagnostic and staging tool for NSCLC. This prospective study was performed to determine the impact of treatment simulation with FDG-PET and CT on radiation therapy target volume definition and toxicity profiles by comparison to simulation with computed tomography (CT) scanning alone.
+    Stage 3 NSCLC patients are potentially curable using combined modality therapy (CMT). PET/CT is commonly used to stage patients. Also, PET/CT for radiation (RT) planning may improve RT treatment volume definition when compared with CT planning and thus improve outcomes.
 
   >>> METHODS
-    Twenty-six patients with Stages I-III NSCLC were studied. Each patient underwent sequential CT and FDG-PET simulation on the same day. Immobilization devices used for both simulations included an alpha cradle, a flat tabletop, 6 external fiducial markers, and a laser positioning system. A radiation therapist participated in both simulations to reproduce the treatment setup. Both the CT and fused PET/CT image data sets were transferred to the radiation treatment planning workstation for contouring. Each FDG-PET study was reviewed with the interpreting nuclear radiologist before tumor volumes were contoured. The fused PET/CT images were used to develop the three-dimensional conformal radiation therapy (3DCRT) plan. A second physician, blinded to the results of PET, contoured the gross tumor volumes (GTV) and planning target volumes (PTV) from the CT data sets, and these volumes were used to generate mock 3DCRT plans. The PTV was defined by a 10-mm margin around the GTV. The two 3DCRT plans for each patient were compared with respect to the GTV, PTV, mean lung dose, volume of normal lung receiving &gt; or =20 Gy (V20), and mean esophageal dose.
+    Stage 3 NSCLC patients suitable for CMT, were randomized to PET/CT or CT alone for RT planning. Primary outcome was the proportion of patients not receiving CMT because of upstaging (Stage 4) or their tumor was too extensive for radical RT. Overall survival (OS) and alteration of RT treatment planning volume were secondary outcomes. Radiation target volumes defined in the protocol included the primary tumor, ipsilateral hilar and mediastinal nodes based on location of the primary. Biopsy proven mediastinal node, nodes ≥ 1 cm and fluorodeoxyglucose (FDG) avid nodes were included.
 
   >>> RESULTS
-    The FDG-PET findings altered the AJCC TNM stage in 8 of 26 (31%) patients; 2 patients were diagnosed with metastatic disease based on FDG-PET and received palliative radiation therapy. Of the 24 patients who were planned with 3DCRT, PET clearly altered the radiation therapy volume in 14 (58%), as follows. PET helped to distinguish tumor from atelectasis in all 3 patients with atelectasis. Unsuspected nodal disease was detected by PET in 10 patients, and 1 patient had a separate tumor focus detected within the same lobe of the lung. Increases in the target volumes led to increases in the mean lung dose, V20, and mean esophageal dose. Decreases in the target volumes in the patients with atelectasis led to decreases in these normal-tissue toxicity parameters.
+    Three hundred ten patients were randomized: 152 (PET/CT) and 158 (standard CT planning). One hundred eighteen (78%) of the patients randomized to PET/CT arm received radical RT compared with 146 (92%) of those allocated to CT. Median follow-up was 17 months. For the primary outcome, 26 patients were unsuitable for CMT: 22 (14.5%) in PET/CT arm and 4 (2.5%) in CT arm (p = 0.00014). Two-year OS of the PET/CT group was 46% compared with 39% for CT arm (hazard ratio [HR] = 0.8; 95% confidence interval [CI]: 0.6-1.1) for all randomized patients (p = 0.2). Two-year OS of PET/CT group was 53% compared with 41% for CT arm (HR = 0.7; 95% CI, 0.5-1.0) for patients who had radical RT (p = 0.045). On multivariate survival analysis, patients who had radical treatment had better survival (HR = 0.3; 95% CI, 0.2-0.5). The controlled covariates were treatment arm and clinical stage. For all randomized patients, the overall recurrence rate was 67/152 (44%) in the PET/CT arm compared with 92/158 (58%) in the CT arm. For radical treatment patients, the recurrence rate was 59/118 (50%) in the PET/CT arm compared with 92/146 (63%) in the CT arm. Infield recurrences were similar (PET/CT = 27%; CT = 23%) and outside of radiation field recurrences were also similar (PET/CT = 62%; CT = 66%). RT parameters evaluated included: planning target volume (PTV), maximum cord dose, V40 heart and V20 lung. No significant differences were seen in PET/CT or CT arm.
 
   >>> CONCLUSIONS
-    Radiation targeting with fused FDG-PET and CT images resulted in alterations in radiation therapy planning in over 50% of patients by comparison with CT targeting. The increasing availability of integrated PET/CT units will facilitate the use of this technology for radiation treatment planning. A confirmatory multicenter, cooperative group trial is planned within the Radiation Therapy Oncology Group.
-
-    
+    The PET START trial is the first randomized trial comparing PET/CT planning with standard CT planning in NSCLC patients. The use of PET/CT resulted in fewer patients receiving radical RT. The OS trend favoring PET/CT suggests that appropriate staging improves survival by as much as 20-30%. There were no differences in the two arms in the radiation treatment parameters but this trial did not compare targeting only FDG avid areas on PET/CT vs. CT abnormalities only.
