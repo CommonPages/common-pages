@@ -11,9 +11,9 @@
       <div class="Citation-text"> Noone AM, Howlader N, Krapcho M, et al. SEER Cancer Statistics Review, 1975-2015, based on November 2017 SEER data submission, posted to the SEER web site, April 2018. Bethesda, MD: National Cancer Institute; 2018. Available at: <a href="https://seer.cancer.gov/csr/1975_2015/" target="_blank">https://seer.cancer.gov/csr/1975_2015/</a></div>
       </div></div>
 
-  / The Health Consequences of Smoking: A Report of the Surgeon General, 2010
-  //  (ed 2010/07/30)...
-  /// The Health Consequences of Smoking: A Report of the Surgeon General, 2010
+  / US HHS, 2010
+  //  The Health Consequences of Smoking: A Report of the Surgeon General, 2010
+  /// U.S. Department of Health and Human Services. Centers for Disease Control and Prevention (US); 2010
   ref '16
     >>>
       <div class="Citation Citation--inline"><div class="Citation-body">
@@ -595,6 +595,3 @@
       <div class="Citation Citation--inline"><div class="Citation-body">
       <div class="Citation-text"> Demarinis F, Paul S, Hanna N, et al. Survival update for the phase III study of pemetrexed vs docetaxel in non-small cell lung cancer (NSCLC) [abstract]. J Clin Oncol 2006;24 (Suppl 18):Abstract 7133. Available at: <a href="https://meeting.ascopubs.org/cgi/content/abstract/24/18_suppl/7133" target="_blank">https://meeting.ascopubs.org/cgi/content/abstract/24/18_suppl/7133</a></div>
       </div></div>
-
-
-    
