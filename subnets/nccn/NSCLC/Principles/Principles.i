@@ -2,6 +2,7 @@
 . Principles
 
   --
+    diagA
     nsclA
     nsclB
     nsclC
