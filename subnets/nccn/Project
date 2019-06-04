@@ -4,7 +4,7 @@ name: "NCCN"
 title: "The National Comprehensive Cancer Network"
 lead: "The National Comprehensive Cancer Network® (NCCN®) is a not-for-profit alliance of 28 leading cancer centers devoted to patient care, research, and education."
 theme:
-  logo: "//static.theinsight.cloud/icons/project.ico"
+  logo: "//static.theinsight.cloud/icons/pti.ico"
 links:
   - text: Home
     location: "/nccn"

@@ -1,5 +1,4 @@
 
-debug:
 . Algorithm
 
   --
@@ -23,6 +22,19 @@ debug:
     nscl15
     nscl16
 
+  -- Systemic Therapy
+    nscl19
+    nscl20
+    nscl21
+    nscl22
+    nscl23
+    nscl24
+    nscl25
+    nscl26
+    nscl27
+    nscl28
+    nscl29
+
   # ↓ ↕ ↘ ↙ ⟶
 
   / PREV-1
@@ -35,7 +47,7 @@ debug:
         [http://www.cdc.gov/tobacco/data_statistics/sgr/2004/pdfs/executivesummary.pdf](http://www.cdc.gov/tobacco/data_statistics/sgr/2004/pdfs/executivesummary.pdf)
 
       >>>
-        This report of the Surgeon General on the health effects of smoking returns to the topic of active smoking and disease, the focus of the first Surgeon General’s report published in 1964 (U.S. Department of Health, Education, and Welfare [USDHEW] 1964). The first report established a model of comprehensive evidence evaluation for the 27 reports that have followed: for those on the adverse health effects of smoking, the evidence has been evaluated using guidelines for assessing causality of smoking with disease. Using this model, every report on health has found that smoking causes many diseases and other adverse effects. Repeatedly, the reports have concluded that smoking is the single greatest cause of avoidable morbidity and mortality in the United States.
+        This report of the Surgeon General on the health effects of smoking returns to the topic of active smoking and disease, the focus of the first Surgeon General’s report published in 1964 (U.S. DepaRT<sup>m</sup>ent of Health, Education, and Welfare [USDHEW] 1964). The first report established a model of comprehensive evidence evaluation for the 27 reports that have followed: for those on the adverse health effects of smoking, the evidence has been evaluated using guidelines for assessing causality of smoking with disease. Using this model, every report on health has found that smoking causes many diseases and other adverse effects. Repeatedly, the reports have concluded that smoking is the single greatest cause of avoidable morbidity and mortality in the United States.
 
     / CDC 2
     // The Health Consequences of Involuntary Exposure to Tobacco Smoke
@@ -44,7 +56,7 @@ debug:
         [http://www.ncbi.nlm.nih.gov/books/NBK44324/](http://www.ncbi.nlm.nih.gov/books/NBK44324/)
 
       >>>
-        This Surgeon General’s report returns to the topic of the health effects of involuntary exposure to tobacco smoke. The last comprehensive review of this evidence by the Department of Health and Human Services (DHHS) was in the 1986 Surgeon General’s report, The Health Consequences of Involuntary Smoking, published 20 years ago this year. This new report updates the evidence of the harmful effects of involuntary exposure to tobacco smoke. This large body of research findings is captured in an accompanying dynamic database that profiles key epidemiologic findings, and allows the evidence on health effects of exposure to tobacco smoke to be synthesized and updated (following the format of the 2004 report, The Health Consequences of Smoking). The database enables users to explore the data and studies supporting the conclusions in the report. The database is available on the Web site of the Centers for Disease Control and Prevention (CDC) at http://www.cdc.gov/tobacco.
+        This Surgeon General’s report returns to the topic of the health effects of involuntary exposure to tobacco smoke. The last comprehensive review of this evidence by the DepaRT<sup>m</sup>ent of Health and Human Services (DHHS) was in the 1986 Surgeon General’s report, The Health Consequences of Involuntary Smoking, published 20 years ago this year. This new report updates the evidence of the harmful effects of involuntary exposure to tobacco smoke. This large body of research findings is captured in an accompanying dynamic database that profiles key epidemiologic findings, and allows the evidence on health effects of exposure to tobacco smoke to be synthesized and updated (following the format of the 2004 report, The Health Consequences of Smoking). The database enables users to explore the data and studies supporting the conclusions in the report. The database is available on the Web site of the Centers for Disease Control and Prevention (CDC) at http://www.cdc.gov/tobacco.
 
     / World Health Assembly Resolution 56.1
     ref 'who1
@@ -92,7 +104,7 @@ debug:
         ↓
         **Risk Assessment<sup>b</sup>**
         _Patient factors_
-        Age / Smoking history / Previous cancer history /Family history / Occupational exposures /Other lung disease (chronic obstructive pulmonary disease [COPD], pulmonary fibrosis) / Exposure to infectious agents (eg, endemic areas of fungal infections, tuberculosis) or risk factors or history suggestive of infection (eg, immune suppression, aspiration, infectious respiratory symptoms) <sup>c,d</sup>
+        Age / Smoking history / Previous cancer history / Family history / Occupational exposures / Other lung disease (chronic obstructive pulmonary disease [COPD], pulmonary fibrosis) / Exposure to infectious agents (eg, endemic areas of fungal infections, tuberculosis) or risk factors or history suggestive of infection (eg, immune suppression, aspiration, infectious respiratory symptoms) <sup>c,d</sup>
         _Radiologic factors<sup>c,d</sup>_
         Size, shape, and density of the pulmonary nodule / Associated parenchymal abnormalities (eg, scarring or suspicion of inflammatory changes) / Fluorodeoxyglucose (FDG) avidity on PET imaging
         ↓
@@ -186,7 +198,7 @@ debug:
     import nsclFNs._
 
     >>> Initial Evaluation
-      Pathology review<sup>a</sup> / H&P (include performance status + weight loss)<sup>b</sup> / CT chest and upper abdomen with contrast, including adrenals / CBC, platelets / Chemistry profile / Smoking cessation advice, counseling, and pharmacotherapy, Use the 5 A’s Framework: Ask, Advise, Assess, Assist, Arrange http://www.ahrq.gov/clinic/tobacco/5steps.htm / Integrate palliative care<sup>c</sup> (See NCCN Guidelines for Palliative Care)
+      Pathology review<sup>a</sup> / H&P (include performance status + weight loss)<sup>b</sup> / CT chest and upper abdomen with contrast, including adrenals / CBC, platelets / Chemistry profile / Smoking cessation advice, counseling, and pharmacotherapy, Use the 5 A’s Framework: [Ask, Advise, Assess, Assist, Arrange](http://www.ahrq.gov/clinic/tobacco/5steps.htm) / Integrate palliative care<sup>c</sup> (See NCCN Guidelines for Palliative Care)
 
     >>> Clinical Stage
       ### Stage IA, peripheral<sup>d</sup> (T1abc, N0)
@@ -233,8 +245,8 @@ debug:
       >>> Pretreatment Evaluation<sup>g</sup>
         • PFTs (if not previously done)
         • Bronchoscopy (intraoperative preferred)
-        • Consider pathologic mediastinal lymph node evaluationh,i
-        • FDG PET/CT scanj (if not previously done)
+        • Consider pathologic mediastinal lymph node evaluation<sup>h,i</sup>
+        • FDG PET/CT scan<sup>j</sup> (if not previously done)
 
       --
         neg
@@ -245,13 +257,13 @@ debug:
 
         . Operable
           >>> INITIAL TREATMENT
-            Surgical exploration and resectionl + mediastinal lymph node dissection or systematic lymph node sampling
+            Surgical exploration and resection<sup>l</sup> + mediastinal lymph node dissection or systematic lymph node sampling
           --
             nscl3
 
         . MedicallyInoperable
           >>> INITIAL TREATMENT
-            Definitive RT including stereotactic ablative radiotherapy (SABR)m,n
+            Definitive RT including stereotactic ablative radiotherapy (SABR)<sup>m,n</sup>
           >>> References
             {embed:*e}
 
@@ -265,14 +277,14 @@ debug:
           nscl11
 
     / NSCL2-b
-    /// Stage IB (peripheral T2a, N0) Stage I (central T1abc– T2a, N0) Stage II (T1abc–2ab, N1; T2b, N0) Stage IIB (T3, N0)e Stage IIIA (T3, N1)
+    /// Stage IB (peripheral T2a, N0) Stage I (central T1abc– T2a, N0) Stage II (T1abc–2ab, N1; T2b, N0) Stage IIB (T3, N0)<sup>e</sup> Stage IIIA (T3, N1)
     . nscl2b
       >>> Pretreatment Evaluation<sup>g</sup>
         • PFTs (if not previously done)
         • Bronchoscopy
-        • Pathologic mediastinal lymph node evaluationh
-        • FDG PET/CT scanj (if not previously done)
-        • Brain MRI with contrastk (Stage II, IIIA) (Stage IB [optional])
+        • Pathologic mediastinal lymph node evaluation<sup>h</sup>
+        • FDG PET/CT scan<sup>j</sup> (if not previously done)
+        • Brain MRI with contrast<sup>k</sup> (Stage II, IIIA) (Stage IB [optional])
 
       --
         neg
@@ -283,7 +295,7 @@ debug:
 
         . Operable
           >>> Initial Treatment
-            Surgical exploration and resectionl,o + mediastinal lymph node dissection or systematic lymph node sampling
+            Surgical exploration and resection<sup>l,o</sup> + mediastinal lymph node dissection or systematic lymph node sampling
 
           --
             nscl3
@@ -292,7 +304,7 @@ debug:
 
           . N0
             >>> Initial Treatment
-              Definitive RT including SABRm ⟶ Consider adjuvant chemotherapyp (category 2B) for high- risk stages IB-IIBq
+              Definitive RT including SABR<sup>m</sup> ⟶ Consider adjuvant chemotherapy<sup>p</sup> (category 2B) for high- risk stages IB-IIB<sup>q</sup>
 
           . N1
             >>> Initial Treatment
@@ -321,7 +333,7 @@ debug:
       / Margins positive (R1, R2)
       . pos
         >>> Adjuvent Treatment
-          Reresection (preferred) or m RT (category 2B)
+          Reresection (preferred) or RT<sup>m</sup> (category 2B)
         --
           nscl15
 
@@ -400,7 +412,7 @@ debug:
           nscl15
 
   / NSCL-4
-  /// Stage IIB (T3 invasion, N0) and Stage IIIA (T4 extension, N0-1; T3, N1; T4, N0-1)
+  /// Stage IIB (T3 invasion, N0) and Stage IIIA (<sup></sup>T4 extension, N0-1; T3, N1; T4, N0-1)
   . nscl4
 
     # Clinical Assessment
@@ -411,7 +423,7 @@ debug:
       • PFTs (if not previously done)
       • Bronchoscopy
       • Pathologic mediastinal lymph node evaluation<sup>h</sup>
-      • Brain MRI with contrastk
+      • Brain MRI with contrast<sup>k</sup>
       • MRI with contrast of spine + thoracic inlet for superior sulcus lesions abutting the spine or subclavian vessels
       • FDG PET/CT scanj (if not previously done)
 
@@ -438,7 +450,7 @@ debug:
     /// Superior sulcus tumor (T3 invasion, N0-1)
     . nscl5a
       >>> Initial Treatment
-        Preoperative concurrent chemoradiationm,r
+        Preoperative concurrent chemoradiation<sup>m,r</sup>
       >>> Adjuvant Treatment
         Surgery<sup>l</sup> + chemotherapy<sup>p</sup>
       --
@@ -507,9 +519,9 @@ debug:
     /// Stage IIIA (T4, N0-1) Unresectable
     . nscl6c
       >>>
-        Definitive concurrent chemoradiationm,r (category 1)
+        Definitive concurrent chemoradiation<sup>m,r</sup> (category 1)
         ↓
-        Durvalumabr (category 1)
+        Durvalumab<sup>r</sup> (category 1)
         ↓
       --
         nscl15
@@ -517,34 +529,34 @@ debug:
     / Surgeryl (preferred)
     . nscl6aa
 
-      / Margins negative (R0)s
+      / Margins negative (R0)<sup>s</sup>
       . r0
         >>> Adjuvant Treatment
-          Chemotherapyp
+          chemotherapy<sup>p</sup>
           ↓
         --
           nscl15
 
-      / Margins positive (R1)s
+      / Margins positive (R1)<sup>s</sup>
       . r1
         >>> Adjuvant Treatment
-          Reresection + chemotherapyp or m Chemoradiation (sequentialp or concurrentr)
+          Reresection + chemotherapy<sup>p</sup> or Chemoradiation<sup>m</sup> (sequential<sup>p</sup> or concurrent<sup>r</sup>)
           ↓
         --
           nscl15
 
-      / Margins positive (R2)s
+      / Margins positive (R2)<sup>s</sup>
       . r2
         >>> Adjuvant Treatment
-          Reresection + chemotherapyp or m,r Concurrent chemoradiation
+          Reresection + chemotherapy<sup>p</sup> or Concurrent chemoradiation<sup>m,r</sup>
           ↓
         --
           nscl15
 
-    / Concurrent chemoradiationm,r or p Chemotherapy ⟶ Surgeryl
+    / Concurrent chemoradiation<sup>m,r</sup> or Chemotherapy<sup>p</sup> ⟶ Surgery<sup>l</sup>
     . nscl6ab
 
-      / Margins negative (R0)s
+      / Margins negative (R0)<sup>s</sup>
       . neg
         >>>
           Observe
@@ -552,10 +564,10 @@ debug:
         --
           nscl15
 
-      / Margins positive (R1, R2)s
+      / Margins positive (R1, R2)<sup>s</sup>
       . pos
         >>>
-          Reresectionu
+          Reresection<sup>u</sup>
           ↓
         --
           nscl15
@@ -570,9 +582,9 @@ debug:
       >>> Pretreatment Evaluation
         • PFTs (if not previously done)
         • Bronchoscopy
-        • Pathologic mediastinal lymph node evaluation h
+        • Pathologic mediastinal lymph node evaluation<sup>h</sup>
         • FDG PET/CT scanj (if not previously done)
-        • Brain MRI with contrastk
+        • Brain MRI with contrast<sup>k</sup>
 
       -- MEDIASTINAL BIOPSY FINDINGS AND RESECTABILITY
         a
@@ -607,8 +619,8 @@ debug:
       >>> Pretreatment Evaluation
         • PFTs (if not previously done)
         • Bronchoscopy
-        • Pathologic mediastinal lymph node evaluation h
-        • Brain MRI with contrastk
+        • Pathologic mediastinal lymph node evaluation<sup>h</sup>
+        • Brain MRI with contrast<sup>k</sup>
         • FDG PET/CT scanj (if not previously done)
 
       -- MEDIASTINAL BIOPSY FINDINGS AND RESECTABILITY
@@ -639,10 +651,10 @@ debug:
     /// T1-3, N0-1 (including T3 with multiple nodules in same lobe)
     . nscl8a
 
-      / Resectablel,o
+      / Resectable<sup>l,o</sup>
       . op
         >>> Initial Treatment
-          Surgical resectionl + mediastinal lymph node dissection or systematic lymph node sampling
+          Surgical resection<sup>l</sup> + mediastinal lymph node dissection or systematic lymph node sampling
         ## nscl3 given, 3d implied
         -- Adjuvant Treatment
           nscl3.nscl3d
@@ -660,20 +672,20 @@ debug:
         a
         b
 
-      / Definitive concurrent chemoradiationm,r (category 1)
+      / Definitive concurrent chemoradiation<sup>m,r</sup> (category 1)
       . a
         >>> Adjuvant Treatment
-          Durvalumabr (category 1)
+          Durvalumab<sup>r</sup> (category 1)
         --
           nscl15
 
-      / Induction chemotherapyp,v ± RTm
+      / Induction chemotherapy<sup>p,v</sup> ± RT<sup>m</sup>
       . b
 
         / No apparent progression
         . noprog
           >>> Adjuvant Treatment
-            Surgery ± chemotherapyp (category 2b) ± RTm (if not given)
+            Surgery ± chemotherapy<sup>p</sup> (category 2b) ± RT<sup>m</sup> (if not given)
 
         / Progression
         . prog
@@ -681,7 +693,7 @@ debug:
           / Local
           . local
             >>>
-              RTm (if not given) ± chemotherapyp
+              RT<sup>m</sup> (if not given) ± chemotherapy<sup>p</sup>
 
           / Systemic
           . systemic
@@ -693,9 +705,9 @@ debug:
     /// T3 (invasion), N2 nodes positive, M0
     . nscl8c
       >>> Initial Treatment
-        Definitive concurrent chemoradiationm,r
+        Definitive concurrent chemoradiation<sup>m,r</sup>
       >>> Adjuvant Treatment
-        Durvalumabr (category 1)
+        Durvalumab<sup>r</sup> (category 1)
       --
         nscl15
 
@@ -705,7 +717,7 @@ debug:
     / Separate pulmonary nodule(s), same lobe (T3, N0-1), or ipsilateral non-primary lobe (T4, N0-1)
     . nscl9a
       >>> Initial Treatment
-        Surgeryl,o
+        Surgery<sup>l,o</sup>
       --
         n01
         n2
@@ -713,31 +725,31 @@ debug:
       / N0–1
       . n01
         >>> Adjuvant Treatment
-          Chemotherapyp
+          chemotherapy<sup>p</sup>
         --
           nscl15
 
       / N2
       . n2
 
-        / Margins negative (R0)s
+        / Margins negative (R0)<sup>s</sup>
         . r0
           >>> Adjuvant Treatment
-            Chemotherapyp (category 1) or Sequential chemotherapyp + RTm
+            chemotherapy<sup>p</sup> (category 1) or Sequential chemotherapy<sup>p</sup> + RT<sup>m</sup>
           --
             nscl15
 
-        / Margins positive (R1)s
+        / Margins positive (R1)<sup>s</sup>
         . r1
           >>> Adjuvant Treatment
-            Chemoradiationm (sequentialp or concurrentr)
+            ChemoRadiation<sup>m</sup> (sequential<sup>p</sup> or concurrent<sup>r</sup>)
           --
             nscl15
 
-        / Margins positive (R2)s
+        / Margins positive (R2)<sup>s</sup>
         . r2
           >>> Adjuvant Treatment
-            Concurrent chemoradiationm,r
+            Concurrent chemoradiation<sup>m,r</sup>
           --
             nscl15
 
@@ -748,12 +760,12 @@ debug:
       --
         nscl1
 
-    / Suspected multiple lung cancers (based on the presence of biopsy- proven synchronous lesions or history of lung cancer)w,x
+    / Suspected multiple lung cancers (based on the presence of biopsy- proven synchronous lesions or history of lung cancer)<sup>w,x</sup>
     . nscl9c
       >>>
         • Chest CT with contrast
-        • FDG PET/CT scan (if not previously done)j
-        • Brain MRI with contrastk
+        • FDG PET/CT scan (if not previously done)<sup>j</sup>
+        • Brain MRI with contrast<sup>k</sup>
       --
         outside
         notoutside
@@ -767,7 +779,7 @@ debug:
       / No disease outside of chest
       . notoutside
         >>>
-          Pathologic mediastinal lymph node evaluationh
+          Pathologic mediastinal lymph node evaluation<sup>h</sup>
         --
           n01
           n23
@@ -795,14 +807,14 @@ debug:
       / Multiple lesions
       . multiple
 
-        / Low risk of becoming symptomaticy
+        / Low risk of becoming symptomatic<sup>y</sup>
         . low
           >>> Initial Treatment
             Observation
           --
             nscl15
 
-        / High risk of becoming symptomaticy
+        / High risk of becoming symptomatic<sup>y</sup>
         . high
           --
             therapy.defin
@@ -825,7 +837,7 @@ debug:
       / Definitive local therapy possible
       . defin
         >>> Initial Treatment
-          Parenchymal sparing resection (preferred)l,z or Radiationm or Ablation
+          Parenchymal sparing resection (preferred)<sup>l,z</sup> or Radiation<sup>m</sup> or Ablation
         --
           nscl15
 
@@ -840,12 +852,14 @@ debug:
   /// Stage IIIB (T1-2, N3); Stage IIIC (T3, N3)
   . nscl11
     >>> Pretreatment Evaluation
-      • PFTs (if not previously done) j
-      • FDG PET/CT scan (if not previously done) k
+      • PFTs (if not previously done)<sup>j</sup>
+      • FDG PET/CT scan (if not previously done)<sup>k</sup>
       • Brain MRI with contrast
       • Pathologic confirmation of N3 disease by:
-        - Mediastinoscopy Supraclavicular lymph node biopsy
-        - Thoracoscopy Needle biopsy
+        - Mediastinoscopy 
+        - Supraclavicular lymph node biopsy
+        - Thoracoscopy
+        - Needle biopsy
         - Mediastinotomy
         - EUS biopsy
         - EBUS biopsy
@@ -862,9 +876,9 @@ debug:
     / N3 positive
     . n3pos
       >>> Initial Treatment
-        Definitive concurrent chemoradiationm,r (category 1)
+        Definitive concurrent chemoradiation<sup>m,r</sup> (category 1)
         ↓
-        Durvalumabr (category 1)
+        Durvalumab<sup>r</sup> (category 1)
         ↓
       --
         nscl15
@@ -882,8 +896,8 @@ debug:
     / Stage IIIB (T4, N2) Stage IIIC (T4, N3)
     . nscl12a
       >>> Pretreatment Evaluation
-        • FDG PET/CT scanj (if not previously done)
-        • Brain MRI with contrastk
+        • FDG PET/CT scan<sup>j</sup> (if not previously done)
+        • Brain MRI with contrast<sup>k</sup>
         • Pathologic confirmation of N2—3 disease by either:
           - Mediastinoscopy
           - Supraclavicular lymph node biopsy
@@ -908,7 +922,7 @@ debug:
         / Ipsilateral mediastinal node positive (T4, N2)
         . ipspos
           >>> Initial Treatment
-            Definitive concurrent m,r chemoradiation (category 1)
+            Definitive concurrent chemoradiation<sup>m,r</sup> (category 1)
             ↓
             Durvalumab category 1
             ↓
@@ -918,7 +932,7 @@ debug:
       / Contralateral mediastinal node positive (T4, N3)
       . b
         >>> Initial Treatment
-          Definitive concurrent m,r chemoradiation (category 1)
+          Definitive concurrent chemoradiation<sup>m,r</sup> (category 1)
           ↓
           Durvalumab category 1
           ↓
@@ -939,12 +953,12 @@ debug:
         neg
         pos
 
-      / Negativeaa
+      / Negativea<sup>a</sup>
       . neg
         >>>
           See Treatment according to TNM stage
 
-      / Positiveaa
+      / Positivea<sup>a</sup>
       . pos
         >>>
           Local therapy if necessary (eg, pleurodesis, ambulatory small catheter drainage, pericardial window) + treatment for stage IV disease solitary site or distant disease (NSCL-17)
@@ -956,8 +970,8 @@ debug:
   . nscl13
     >>> Pretreatment Evaluation
       If not previously done
-        • Brain MRI with contrastk
-        • FDG PET/CT scanj
+        • Brain MRI with contrast<sup>k</sup>
+        • FDG PET/CT scan<sup>j</sup>
         • Pathologic confirmation of metastatic lesion, if possible
     --
       ps01
@@ -1008,8 +1022,8 @@ debug:
       / T1-3, N0
       . a
         >>> TREATMENT OF THORACIC DISEASE
-          • Pathologic mediastinal nodal evaluationh and
-          • Surgical resectionl or SABRm
+          • Pathologic mediastinal nodal evaluation<sup>h</sup> and
+          • Surgical resection<sup>l</sup> or SABR<sup>m</sup>
           ↓
           Definitive local therapy for metastatic sitedd, if not already given
           ↓
@@ -1020,10 +1034,10 @@ debug:
       / T1-3, N1
       . b
         >>> TREATMENT OF THORACIC DISEASE
-          • Pathologic mediastinal nodal evaluationh and
-          • Surgical resectionl or Definitive RTm or Chemoradiationr
+          • Pathologic mediastinal nodal evaluation<sup>h</sup> and
+          • Surgical resection<sup>l</sup> or Definitive RT<sup>m</sup> or Chemoradiation<sup>r</sup>
           ↓
-          Definitive local therapy for metastatic sitedd, if not already given
+          Definitive local therapy for metastatic site,<sup>dd</sup> if not already given
           ↓
           Consider systemic therapy, if not already given (NSCL-17)
         --
@@ -1034,7 +1048,7 @@ debug:
         >>> TREATMENT OF THORACIC DISEASE
           Definitive r chemoradiation
           ↓
-          Definitive local therapy for metastatic sitedd, if not already given
+          Definitive local therapy for metastatic site,<sup>dd</sup> if not already given
           ↓
           Consider systemic therapy, if not already given (NSCL-17)
         --
@@ -1053,10 +1067,10 @@ debug:
       • Stage I–II (primary treatment included surgery ± chemotherapy)
         - H&P and chest CT ± contrast every 6 mo for 2–3 y, then H&P and a low-dose non–contrast-enhanced chest CT annually
       • Stage I–II (primary treatment included RT) or stage III or stage IV (oligometastatic with all sites treated with definitive intent)
-        - H&P and chest CTee ± contrast every 3–6 mo for 3 y, then H&P and chest CT ± contrast every 6 mo for 2 y, then H&P and a low- dose non-contrast-enhanced chest CT annually
+        - H&P and chest CT<sup>ee</sup> ± contrast every 3–6 mo for 3 y, then H&P and chest CT ± contrast every 6 mo for 2 y, then H&P and a low- dose non-contrast-enhanced chest CT annually
         ◊ Residual or new radiographic abnormalities may require more frequent imaging
       • Smoking cessation advice, counseling, and pharmacotherapy
-      • PET/CTff or brain MRI is not routinely indicated
+      • PET/CT<sup>ff</sup> or brain MRI is not routinely indicated
       • See Cancer Survivorship Care ({Principles.nsclF NSCL-F})
     --
       locoregional
@@ -1083,8 +1097,8 @@ debug:
       . a
         >>>
           Any combination of the following:
-            • Laser/stent/other surgeryl
-            • External-beam RT or brachytherapym
+            • Laser/stent/other surgery<sup>l</sup>
+            • External-beam RT or brachytherapy<sup>m</sup>
             • Photodynamic therapy
         --
           nscl16aa
@@ -1092,8 +1106,8 @@ debug:
       / Resectable recurrence
       . b
         >>>
-          • Reresection (preferred)l
-          • External-beam RT or SABRm,n
+          • Reresection (preferred)<sup>l</sup>
+          • External-beam RT or SABR<sup>m,n</sup>
         --
           nscl16aa
 
@@ -1102,7 +1116,7 @@ debug:
         / No prior RT
         . noprior
           >>>
-            Concurrent chemoradiationm,r
+            Concurrent chemoradiation<sup>m,r</sup>
           --
             nscl16aa
 
@@ -1115,8 +1129,8 @@ debug:
       / Superior vena cava (SVC) obstruction
       . d
         >>>
-          • Concurrent chemoradiationm,r (if not previously given) ± SVC stent
-          • External-beam RTm ± SVC stent
+          • Concurrent chemoradiation<sup>m,r</sup> (if not previously given) ± SVC stent
+          • External-beam RT<sup>m</sup> ± SVC stent
           • SVC stent
         # ambiguous if this applies:
         --
@@ -1126,7 +1140,7 @@ debug:
       . e
         >>>
           Any combination of the following:
-          • External-beam RT or brachytherapym
+          • External-beam RT or brachytherapy<sup>m</sup>
           • Laser or photodynamic therapy or embolization
           • Surgery
         # ambiguous if this applies:
@@ -1136,7 +1150,7 @@ debug:
     . nscl16aa
       >>>
         • Chest CT with contrast
-        • Brain MRI with contrastk
+        • Brain MRI with contrast<sup>k</sup>
         • PET/CT
 
       --
@@ -1161,21 +1175,21 @@ debug:
       / Localized symptoms
       . a
         >>>
-          Palliative external-beam RTm
+          Palliative external-beam RT<sup>m</sup>
         --
           nscl17
 
       / Diffuse brain metastases
       . b
         >>>
-          Palliative external-beam RTm,cc
+          Palliative external-beam RT<sup>m,cc</sup>
         --
           nscl17
 
       / Bone metastasis
       . c
         >>>
-          • If risk of fracture, orthopedic stabilization + palliative external-beam RTm
+          • If risk of fracture, orthopedic stabilization + palliative external-beam RT<sup>m</sup>
           • Consider bisphosphonate therapy or denosumab
         --
           nscl17
@@ -1193,8 +1207,766 @@ debug:
   / NSCL-17
   /// Systemic Therapy for Advanced or Metastatic Disease
   . nscl17
+    >>>
+      • Establish histologic subtype<sup>a</sup> with adequate tissue for molecular testing (consider rebiopsy<sup>gg</sup> if appropriate)
+      • Smoking cessation counseling
+      • Integrate palliative care <sup>c</sup>  (See NCCN Guidelines for Palliative Care)
 
+    -- Histologic Subtype<sup>a</sup>
+      nonsquam
+      squam
 
+    / Adenocarcinoma, Large cell, NSCLC not otherwise specified (NOS)
+    . nonsquam
+      >>> Testing
+        • Molecular testing
+          - EGFR mutation testing (category 1)
+          - ALK testing (category 1)
+          - ROS1 testing
+          - BRAF testing
+          - Testing should be conducted as part of broad molecular profiling<sup>ii,jj</sup>
+        • PD-L1 testing (category 1)
+      -- Testing Results<sup>hh</sup>
+        results.a
+        results.b
+        results.c
+        results.d
+        results.e
+        results.f
+
+    / Squamous cell carcinoma
+    . squam
+      >>>
+        • Molecular testing
+          - Consider EGFR mutation and ALK testing<sup>kk</sup> in never smokers or small biopsy specimens, or mixed hisology<sup>ll</sup>
+          - Consider ROS1 and BRAF testing in small biopsy specimens or mixed histology
+          - Testing should be conducted as part of broad molecular profiling<sup>ii,jj</sup>
+        • PD-L1 testing (category 1)
+      -- Testing Results<sup>hh</sup>
+        results.a
+        results.b
+        results.c
+        results.d
+        results.e
+        results.f
+
+    index: hide
+    . results
+
+      / Sensitizing EGFR mutation positive
+      . a
+        --
+          nscl18
+
+      / ALK positive
+      . b
+        --
+          nscl21
+
+      / ROS1 positive
+      . c
+        --
+          nscl24
+
+      / BRAF V600E positive
+      . d
+        --
+          nscl25
+
+      / PD-L1 ≥1% and EGFR, ALK negative or unknown
+      . e
+        --
+          nscl27
+
+      / EGFR, ALK, ROS1, BRAF negative or unknown, PD-L1 <1% or unknown
+      . f
+        --
+          nscl28
+
+  / NSCL-18
+  /// Sensitizing EGFR Mutation Positive<sup>hh</sup> ⟶ First-Line Therapy<sup>mm</sup>
+  . nscl18
+
+    / EGFR mutation discovered prior to first-line systemic therapy
+    . prior
+      -- First-Line Therapy<sup>mm</sup>
+        osim
+        nonosim
+
+      / Osimertinib<sup>nn</sup> (category 1) (preferred)
+      . osim
+        -- Progression
+          nscl20
+
+      / Erlotinib, Afatinib, Gefitinib, Dacomitinib<sup>nn</sup> (category 1)
+      . nonosim
+        -- Progression
+          nscl19
+
+    / EGFR mutation discovered during first-line systemic therapy
+    . during
+      >>>
+        Complete planned systemic therapy, including maintenance therapy, or interrupt, followed by
+        ↓
+      --
+        osim
+        nonosim
+
+      / Osimertinib (preferred)
+      . osim
+        -- Progression
+          nscl20
+
+      / Erlotinib, Afatinib, Gefitinib, Dacomitinib
+      . nonosim
+        -- Progression
+          nscl19
+
+  / NSCL-19
+  /// Sensitizing EGFR Mutation Positive<sup>hh</sup> ⟶ Progression on erlotinib, afatinib, gefitinib or dacomitinib<sup>oo</sup> ⟶ Subsequent Therapy
+  . nscl19
+    >>>
+      Progression on erlotinib, afatinib, gefitinib or dacomitinib<sup>oo</sup>
+      ↓
+      T790M testing<sup>pp</sup>
+    --
+      asym
+      sym
+
+    / Asymptomatic
+    . asym
+      -- Subsequent Therapy<sup>mm</sup>, either/or
+        a
+        b
+
+      / Consider definitive local therapy (eg, SABR or surgery) for limited lesions; Osimertinib<sup>nn</sup> (if T790M+) (category 1)
+      . a
+        -- Progression
+          nscl20
+
+      / Continue erlotinib or afatinib or gefitinib or dacomitinib
+      . b
+        >>> Progression
+          Progression, see therapy<sup>ss,tt</sup> for multiple lesions, noted below
+
+          <sup>ss</sup>Afatinib + cetuximab may be considered in patients with disease progression on EGFR TKI therapy.
+          <sup>tt</sup>The data in the second-line setting suggest that PD-1/PD-L1 inhibitor monotherapy is less effective, irrespective of PD-L1 expression, in EGFR+/ALK+ NSCLC.
+
+    / Symptomatic
+    . sym
+
+      / Brain<sup>qq</sup>
+      . brain
+        -- SUBSEQUENT THERAPY<sup>mm</sup>
+          a
+          b
+
+        / Consider definitive local therapy (eg, SRS) for limited lesions; Osimertinib<sup>nn</sup> (if T790M+) (category 1)
+        . a
+          -- Progression
+            nscl20
+
+        / Continue erlotinib or afatinib or gefitinib or dacomitinib<sup>rr</sup>
+        . b
+          >>>
+            See NCCN Guidelines for CNS Cancers
+          >>> Progression
+            See therapy<sup>ss,tt</sup> for multiple lesions, noted below
+            <sup>ss</sup>Afatinib + cetuximab may be considered in patients with disease progression on EGFR TKI therapy.
+            <sup>tt</sup>The data in the second-line setting suggest that PD-1/PD-L1 inhibitor monotherapy is less effective, irrespective of PD-L1 expression, in EGFR+/ALK+ NSCLC.
+
+      / Systemic
+      . systemic
+
+        / Isolated lesion
+        . isolated
+          -- Subsequent Therapy<sup>mm</sup>: either/or
+            a
+            b
+
+          / Consider definitive local therapy (eg, SABR or surgery); Continue erlotinib or afatinib or gefitinib or dacomitinib
+          . a
+            >>> Progression
+              See therapy<sup>ss,tt</sup> for multiple lesions, noted below
+              <sup>ss</sup>Afatinib + cetuximab may be considered in patients with disease progression on EGFR TKI therapy.
+              <sup>tt</sup>The data in the second-line setting suggest that PD-1/PD-L1 inhibitor monotherapy is less effective, irrespective of PD-L1 expression, in EGFR+/ALK+ NSCLC.
+
+          / See subsequent therapy for multiple lesions, noted below<sup>ss,tt</sup>
+          . b
+            >>>
+              <sup>ss</sup>Afatinib + cetuximab may be considered in patients with disease progression on EGFR TKI therapy.
+              <sup>tt</sup>The data in the second-line setting suggest that PD-1/PD-L1 inhibitor monotherapy is less effective, irrespective of PD-L1 expression, in EGFR+/ALK+ NSCLC.
+
+        / Multiple lesions
+        . multiple
+
+          / T790M+
+          . pos
+            >>> SUBSEQUENT THERAPY<sup>mm</sup>
+              Osimertinib<sup>nn</sup> (category 1) (if not previously given)
+              ↓
+            --
+              nscl20
+
+          / T790M-
+          . neg
+            >>>
+              See Initial systemic therapy options<sup>ss,tt</sup>
+              <sup>ss</sup>Afatinib + cetuximab may be considered in patients with disease progression on EGFR TKI therapy.
+              <sup>tt</sup>The data in the second-line setting suggest that PD-1/PD-L1 inhibitor monotherapy is less effective, irrespective of PD-L1 expression, in EGFR+/ALK+ NSCLC.
+              ↓
+            -- Either/or:
+              nscl28
+              nscl29
+
+  / NSCL-20
+  /// Sensitizing EGFR Mutation Positive<sup>hh</sup> ⟶ Progression on osimertinib<sup>oo</sup> ⟶ Subsequent Therapy
+  . nscl20
+
+    / Asymptomatic
+    . asym
+      >>> Subsequent Therapy
+        • Consider definitive local therapy (eg, SABR or surgery) for limited lesions
+        • Continue osimertinib
+      >>> Progression
+        See therapy<sup>ss,tt</sup> for multiple lesions, noted below
+
+    / Symptomatic
+    . sym
+
+      / Brain
+      . brain
+        >>> Subsequent Therapy
+          • Consider definitive local therapy (eg, SRS) for limited lesions
+          • Continue osimertinib
+          • See NCCN Guidelines for CNS Cancers
+        >>> Progression
+          See therapy<sup>ss,tt</sup> for multiple lesions, noted below
+
+      / Systemic
+      . systemic
+
+        / Isolated lesion
+        . isolated
+          >>> Subsequent Therapy
+            • Consider definitive local therapy (eg, SABR or surgery)
+            • Continue osimertinib or
+            • See subsequent therapy for multiple lesions, noted below
+          >>> Progression
+            See therapy<sup>ss,tt</sup> for multiple lesions, noted below
+
+        / Multiple lesions
+        . multiple
+          >>> Subsequent Therapy
+            See Initial systemic therapy options<sup>ss,tt</sup> Adenocarcinoma (NSCL-28) or Squamous Cell Carcinoma (NSCL-29)
+          --
+            nscl28
+            nscl29
+
+  / NSCL-21
+  /// ALK Rearrangement Positive<sup>hh</sup> ⟶ First-Line Therapy<sup>mm</sup>
+  . nscl21
+
+    / ALK rearrangement discovered prior to first-line systemic therapy
+    . prior
+      -- First-Line Therapy, either/or
+        a
+        b
+
+      / Alectinib<sup>nn</sup> (category 1) preferred or Brigatinib (category 1) or Ceritinib<sup>nn</sup> (category 1)
+      . a
+        -- Progression
+          nscl23
+
+      / Crizotinib<sup>nn</sup> (category 1)
+      . b
+        -- Progression
+          nscl22
+
+    / ALK rearrangement discovered during first-line systemic therapy
+    . notprior
+      -- First-Line Therapy, either/or
+        a
+        b
+
+      / Complete planned systemic therapy, including maintenance therapy, or interrupt, followed by alectinib (preferred) or brigatinib or ceritinib
+      . a
+        -- Progression
+          nscl23
+
+      / Crizotinib
+      . b
+        -- Progression
+          nscl22
+
+  / NSCL-22
+  /// ALK Rearrangement Positive<sup>hh</sup> ⟶ Progression on crizotinib<sup>uu,vv</sup> ⟶ Subsequent Therapy<sup>mm</sup>
+  . nscl22
+    >>>
+      T790M testing<sup>pp</sup>
+      ↓
+    --
+      asym
+      sym
+
+    / Asymptomatic
+    . asym
+      -- Subsequent Therapy, either/or
+        a
+        b
+
+    / Consider definitive local therapy (eg, SABR or surgery) for limited lesions, Continue crizotinib
+    . a
+      -- Progression
+        nscl22P
+
+    / Alectinib<sup>nn,ww,xx</sup> or brigatinib<sup>nn,ww,xx</sup> or ceritinib<sup>nn,ww,xx</sup>
+    . b
+      -- Progression
+        nscl22P
+
+    / Symptomatic
+    . sym
+
+      / Brain
+      . brain
+        >>> Subsequent Therapy
+          • Consider definitive local therapy (eg, SRS) for limited lesions
+          • Alectinib<sup>nn,ww,xx</sup> or brigatinib<sup>nn,ww,xx</sup> or ceritinib<sup>nn,ww,xx</sup>
+          • See NCCN Guidelines for CNS Cancers
+        -- Progression
+          nscl22P
+
+      / Systemic
+      . systemic
+
+        / Isolated lesion
+        . isolated
+          >>> Subsequent Therapy
+            • Consider definitive local therapy (eg, SABR or surgery)
+            • Continue crizotinib
+          -- Progression
+            nscl22P
+
+        / Multiple lesions
+        . multiple
+          >>> Subsequent Therapy
+            • Alectinib<sup>nn,ww,xx</sup> or brigatinib<sup>nn,ww,xx</sup> or ceritinib<sup>nn,ww,xx</sup>
+            or
+            • See Initial systemic therapy options<sup>tt</sup>
+            Adenocarcinoma (NSCL-28) or Squamous Cell Carcinoma (NSCL-29)
+          --
+            nscl28
+            nscl29
+
+    index: hide
+    / ALK Rearrangement Positive ⟶ Subsequent Therapy ⟶ Progression
+    . nscl22P
+      >>> Progression
+        Lorlatinib<sup>yy</sup>
+        or
+        See Initial systemic therapy options<sup>tt</sup>
+        Adenocarcinoma (NSCL-28) or Squamous Cell Carcinoma (NSCL-29)
+      --
+        nscl28
+        nscl29
+
+  / NSCL-23
+  /// ALK Rearrangement Positive<sup>hh</sup> ⟶ Progression on alectinib or brigatinib or ceritinib<sup>uu</sup> ⟶ Subsequent Therapy<sup>mm</sup>
+  . nscl23
+    --
+      asym
+      sym
+
+    / Asymptomatic
+    . asym
+      >>> Subsequent Therapy
+        • Consider definitive local therapy (eg, SABR or surgery) for limited lesions
+        • Continue alectinib or brigatinib or ceritinib
+      -- Progression
+        nscl23P
+
+    / Symptomatic
+    . sym
+
+      / Brain
+      . brain
+        >>> Subsequent Therapy
+          • Consider definitive local therapy (eg, SRS) for limited lesions
+          • Continue alectinib or brigatinib or ceritinib
+          • See NCCN Guidelines for CNS Cancers
+        -- Progression
+          nscl23P
+
+      / Systemic
+      . systemic
+
+        / Isolated lesion
+        . isolated
+          >>> Subsequent Therapy
+            • Consider definitive local therapy (eg, SABR or surgery)
+            • Continue alectinib or brigatinib or ceritinib
+          -- Progression
+            nscl23P
+
+        / Multiple lesions
+        . multiple
+          >>> Subsequent Therapy
+            Lorlatinib
+            or
+            See Initial systemic therapy options<sup>tt</sup> for Adenocarcinoma (NSCL-28) or Squamous Cell Carcinoma (NSCL-29)
+          --
+            nscl28
+            nscl29
+
+    index: hide
+    / ALK Rearrangement Positive ⟶ Subsequent Therapy ⟶ Progression
+    . nscl23P
+      >>> Progression
+        Lorlatinib<sup>yy</sup>
+        or
+        See Initial systemic therapy options<sup>tt</sup>
+        Adenocarcinoma (NSCL-28) or Squamous Cell Carcinoma (NSCL-29)
+      --
+        nscl28
+        nscl29
+
+  / NSCL-24
+  /// ROS1 Rearrangement Positive<sup>hh</sup>
+  . nscl24
+
+    / ROS1 rearrangement discovered prior to first-line systemic therapy
+    . prior
+      >>> First-Line Therapy<sup>mm</sup>
+        Crizotinib<sup>nn</sup> (preferred)
+        or
+        Ceritinib<sup>nn</sup>
+      >>> Progression
+        Lorlatinib
+        or
+        See Initial systemic therapy options Adenocarcinoma (NSCL-28) or Squamous Cell Carcinoma (NSCL-29)
+      --
+        nscl28
+        nscl29
+
+    / ROS1 rearrangement discovered during first-line systemic therapy
+    . notprior
+      >>> First-Line Therapy<sup>mm</sup>
+        Complete planned systemic therapy, including maintenance therapy, or interrupt, followed by crizotinib (preferred) or ceritinib
+      >>> Progression
+        Lorlatinib
+        or
+        See Initial systemic therapy options Adenocarcinoma (NSCL-28) or Squamous Cell Carcinoma (NSCL-29)
+      --
+        nscl28
+        nscl29
+
+  / NSCL-25
+  /// BRAF V600E Mutation Positive<sup>hh</sup>
+  . nscl25
+
+    / BRAF V600E mutation discovered prior to first-line systemic therapy
+    . prior
+      -- First-Line Therapy<sup>mm</sup>, either/or
+        a
+        b
+
+      / Dabrafenib + trametinib<sup>zz</sup>
+      . a
+        >>> Progression
+          See Initial systemic therapy options
+          Adenocarcinoma (NSCL-28) or Squamous Cell Carcinoma (NSCL-29)
+        --
+          nscl28
+          nscl29
+
+      / See Initial systemic therapy options Adenocarcinoma (NSCL-28) or Squamous Cell Carcinoma (NSCL-29)
+      . b
+        --
+          nscl28
+          nscl29
+        >>> Progression
+          Dabrafenib + trametinib<sup>zz</sup>
+
+    / BRAF V600E mutation discovered during first-line systemic therapy
+    . notprior
+      >>> First-Line Therapy<sup>mm</sup>
+        Complete planned systemic therapy, including maintenance therapy, or interrupt, followed by dabrafenib + trametinib<sup>zz</sup>
+      >>> Progression
+        See Initial systemic therapy options
+        Adenocarcinoma (NSCL-28) or Squamous Cell Carcinoma (NSCL-29)
+      --
+        nscl28
+        nscl29
+
+  / NSCL-26
+  /// NTRK gene fusion positive
+  . nscl26
+
+    / NTRK gene fusion discovered prior to first-line systemic therapy
+    . prior
+      -- First-Line Therapy<sup>mm</sup>, either/or
+        a
+        b
+
+      / Larotrectinib<sup>nn</sup>
+      . a
+        >>> Progression
+          See Initial systemic therapy options
+          Adenocarcinoma (NSCL-28) or Squamous Cell Carcinoma (NSCL-29)
+        --
+          nscl28
+          nscl29
+
+      / See Initial systemic therapy options Adenocarcinoma (NSCL-28) or Squamous Cell Carcinoma (NSCL-29)
+      . b
+        --
+          nscl28
+          nscl29
+        >>> Progression
+          Larotrectinib
+
+    / NTRK gene fusion discovered during first-line systemic therapy
+    . notprior
+      >>> First-Line Therapy<sup>mm</sup>
+        Complete planned systemic therapy, including maintenance therapy, or interrupt, followed by larotrectinib
+      >>> Progression
+        See Initial systemic therapy options
+        Adenocarcinoma (NSCL-28) or Squamous Cell Carcinoma (NSCL-29)
+      --
+        nscl28
+        nscl29
+
+  / NSCL-27
+  /// PD-L1 Expression Positive (≥1%)<sup>hh</sup> and EGFR, ALK negative or unknown and no contraindications to the addition of pembrolizumab or atezolizumab<sup>aaa</sup>
+  . nscl27
+    >>>
+      PS 0-2
+      ↓
+
+    --
+      nonsquam
+      squam
+
+    / Adenocarcinoma, large cell, NSCLC NOS
+    . nonsquam
+
+      -- First-Line Therapy<sup>mm</sup>, one of
+        a
+        b
+        c
+
+      / Pembrolizumab (category 1 and preferred if PD-L1 ≥50%) (category 2B if PD-L1 1-49%)<sup>bbb</sup>
+      . a
+        --
+          rosd
+          prog
+
+      / (Carboplatin or cisplatin) + pemetrexed + pembrolizumab (category 1)
+      . b
+        --
+          rosd
+          prog
+
+      / Carboplatin + paclitaxel + bevacizumab + atezolizumab (category 1)
+      . c
+        --
+          rosd
+          prog
+
+      index: hide
+      / Response or stable disease
+      . rosd
+        >>>
+          Continuation maintenance<sup>mm</sup>
+            • Pembrolizumab (category 1)<sup>ccc</sup>
+            • Pembrolizumab + pemetrexed (category 1)<sup>ddd</sup>
+            • Atezolizumab and/or bevacizumab (category 1)<sup>eee</sup>
+            or
+            Close Observation
+        --
+          prog
+
+      index: hide
+      / Progression
+      . prog
+        >>>
+          See Systemic Therapy or Subsequent Therapy,<sup>fff</sup> Adenocarcinoma (NSCL-28)
+        --
+          nscl28
+
+    / Squamous cell carcinoma
+    . squam
+      -- First-Line Therapy<sup>mm</sup>, one of
+        a
+        b
+
+      / Pembrolizumab (category 1 and preferred if PD-L1 ≥50%) (category 2B if PD-L1 1-49%)<sup>bbb</sup>
+      . a
+        --
+          rosd
+          prog
+
+      / (Carboplatin or cisplatin) + (paclitaxel or albumin-bound paclitaxel) + pembrolizumab (category 1 for carboplatin combination)
+      . b
+        --
+          rosd
+          prog
+
+      index: hide
+      / Response or stable disease
+      . rosd
+        >>>
+          Continuation maintenance
+          • Pembrolizumab<sup>ccc,ggg</sup>
+          or
+          Close observation
+        --
+          prog
+
+      index: hide
+      / Progression
+      . prog
+        >>>
+          See Systemic Therapy or Subsequent Therapy,<sup>fff</sup> Squamous Cell Carcinoma (NSCL-29)
+        --
+          nscl29
+
+  / NSCL-28
+  /// Adenocarcinoma, Large Cell, NSCLC NOS: Initial and Subsequent Systemic Therapy
+  . nscl28
+
+    / PS 0-2
+    . ps02
+      >>> Initial Systemic Therapy
+        {Principles.nsclJ Systemic therapy}<sup>hhh</sup>
+        ↓
+        Tumor response evaluation<sup>hhh</sup>
+        ↓
+      --
+        prog
+        rosd
+
+      / Progression
+      . prog
+        --
+          ps02
+          ps34
+
+        / PS 0-2
+        . ps02
+          >>> Subsequent Therapy<sup>hhh</sup>
+            Systemic immune checkpoint inhibitors (preferred)<sup>c,tt,iii</sup> Nivolumab (category 1)
+            or
+            pembrolizumab (category 1)<sup>jjj</sup>
+            or atezolizumab (category 1)
+            or
+            Other systemic therapy:<sup>xx</sup>
+            Docetaxel or pemetrexed or gemcitabine or ramucirumab + docetaxel
+          -- Progression<sup>iii,lll</sup>
+            nsclFNs.*iii
+            nsclFNs.*lll
+
+      / Response or stable disease
+      . rosd
+        >>>
+          4–6 cycles (total)
+          ↓
+          Tumor response evaluation<sup>hhh</sup>
+          ↓
+        --
+          ps02.prog
+          srosd
+
+        / Response or stable disease
+        . srosd
+          >>>
+            Continuation maintenance<sup>hhh</sup>
+            • Bevacizumab (category 1)
+            • Pemetrexed (category 1)
+            • Bevacizumab + pemetrexed<sup>kkk</sup>
+            • Pembrolizumab + pemetrexed (category 1)<sup>ddd</sup>
+            • Atezolizumab and/or bevacizumab (category 1)<sup>eee</sup>
+            • Gemcitabine (category 2B)
+            or
+            Switch maintenance<sup>hhh</sup>
+            • Pemetrexed
+            or
+            Close observation
+          --
+            ps02.prog
+
+    / PS 3-4
+    . ps34
+      >>>
+        Best supportive care
+        See NCCN Guidelines for Palliative Care
+
+  / NSCL-29
+  /// Squamous Cell Carcinoma: Initial and Subsequent Systemic Therapy
+  . nscl29
+
+    / PS 0-2
+    . ps02
+      >>> Initial Systemic Therapy
+        {Principles.nsclJ Systemic therapy}<sup>hhh</sup>
+        ↓
+        Tumor response evaluation<sup>hhh</sup>
+        ↓
+      --
+        prog
+        rosd
+
+      / Progression
+      . prog
+        --
+          ps02
+          ps34
+
+        / PS 0-2
+        . ps02
+          >>> Subsequent Therapy<sup>hhh</sup>
+            Systemic immune checkpoint inhibitors (preferred)<sup>c,tt,iii</sup>
+            • Nivolumab (category 1) or pembrolizumab (category 1)<sup>jjj</sup> or atezolizumab (category 1)
+            or
+            Other systemic therapy:<sup>xx</sup>
+            • Docetaxel or gemcitabine or ramucirumab + docetaxel
+          -- Progression<sup>iii,mmm</sup>
+            nsclFNs.*iii
+            nsclFNs.*mmm
+
+      / Response or stable disease
+      . rosd
+        >>>
+          4–6 cycles (total)
+          ↓
+          Tumor response evaluation<sup>hhh</sup>
+          ↓
+        --
+          ps02.prog
+          srosd
+
+        / Response or stable disease
+        . srosd
+          >>>
+            Continuation maintenance<sup>hhh</sup>
+            • Pembrolizumab<sup>ggg</sup>
+            • Gemcitabine (category 2B)
+            or
+            Switch maintenance<sup>hhh</sup> (category 2B)
+            • Docetaxel
+            or
+            Close observation
+          --
+            ps02.prog
+
+    / PS 3-4
+    . ps34
+      >>>
+        Best supportive care
+        See NCCN Guidelines for Palliative Care
+
+  # ↓ ↕ ↘ ↙ ⟶
 
   index: hide
   . diagFNs
