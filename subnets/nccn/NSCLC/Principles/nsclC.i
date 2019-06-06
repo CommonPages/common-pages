@@ -49,7 +49,7 @@
     += PET/CT significantly improves targeting accuracy, especially for patients with significant atelectasis and when IV CT contrast is contraindicated.
       \ '6
     += A randomized trial of PET/CT versus CT-only RT planning demonstrated improved preemption of futile radical RT, decreased recurrences, and a trend toward improved overall survival with PET/CT RT planning.
-      \ '7
+      # \ '7
     += Given the potential for rapid progression of NSCLC, PET/CT should be obtained preferably within 4 weeks before treatment.
       \
         > '8
@@ -137,10 +137,10 @@
         > '37
         > '38
     += However, particular attention should be paid to tumors abutting the bronchial tree and esophagus to avoid severe toxicity. The maximum tolerated dose for 5-fraction regimens was studied prospectively in RTOG 0813; preliminary results demonstrate no high-grade toxicities at 50 Gy in 5 fractions.
-      \ '39
+      # \ '39
     += SABR is most commonly used for tumors up to 5 cm in size, though selected larger isolated tumors can be treated safely if normal tissue constraints are respected.
       \
-        > '39
+        # > '39
         > '40
     += Prescription doses incompletely describe the actual delivered doses, which also strongly depend on how the dose is prescribed (to the isocenter vs. an isodose volume covering a proportion of the PTV), the degree of dose heterogeneity, whether tissue density heterogeneity corrections are used, and the type of dose calculation algorithm.
       \

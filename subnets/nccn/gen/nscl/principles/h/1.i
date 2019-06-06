@@ -24,5 +24,7 @@ article '1
     </div>
     </div></div>
 
-  >>>
+  >>> 
     Crizotinib is a dual MET and ALK inhibitor. Currently, clinical development of crizotinib is focused primarily on ALK rearranged non-small cell lung cancer (NSCLC). Here we report an NSCLC patient with de novo MET amplification but no ALK rearrangement who achieved a rapid and durable response to crizotinib indicating is also a bona fide MET inhibitor.
+
+    

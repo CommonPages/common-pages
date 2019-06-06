@@ -35,3 +35,5 @@ article '7
 
   >>> CONCLUSION
     The administration of nab-PC as first-line therapy in patients with advanced NSCLC was efficacious and resulted in a significantly improved ORR versus sb-PC, achieving the primary end point. nab-PC produced less neuropathy than sb-PC.
+
+    

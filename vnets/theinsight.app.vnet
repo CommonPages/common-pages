@@ -18,3 +18,4 @@ subnets:
   - "$os-physics"
   - "$os-stat"
   - "$pti-cancer"
+  - "$pubmed"

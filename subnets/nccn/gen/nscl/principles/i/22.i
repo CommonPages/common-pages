@@ -3,11 +3,11 @@
 / Planchard et al., 2017
 // Dabrafenib plus trametinib in patients with previously treated BRAF(V600E)-mutant metastatic non-small cell lung cancer: an open-label, multicentre phase 2 trial.
 /// Planchard et al., 2017
-article '21
+article '22
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Planchard D, Besse B, Groen HJM, et al. Dabrafenib plus trametinib in patients with previously treated BRAF(V600E) mutant metastatic non small cell lung cancer: an open label, multicentre phase 2 trial. Lancet Oncol 2016;17:984-993.</div>
+    <div class="Citation-text">Planchard D, Besse B, Kim TM, et al. Updated survival of patients (pts) with previously treated BRAF V600E–mutant advanced non-small cell lung cancer (NSCLC) who received dabrafenib (D) or D + trametinib (T) in the phase II BRF113928 study [abstract]. J Clin Oncol 2017;35: Abstract 9075.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27283860">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

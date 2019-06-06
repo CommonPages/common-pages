@@ -12,8 +12,8 @@ index: hide
 #### Initial Systemic Therapy Options
 ##### Adenocarcinoma, Large Cell, NSCLC NOS (PS 0-1)
 - No contraindications to the addition of pembrolizumab or atezolizumab c
-  - Pembrolizumab/carboplatin/pemetrexed (category 1) {gen.nscl.principles.j.'1},{gen.nscl.principles.j.'2},d  (preferred)
-  - Pembrolizumab/cisplatin/pemetrexed (category 1) {gen.nscl.principles.j.'2},d  (preferred)
+  - Pembrolizumab/carboplatin/pemetrexed (category 1) {gen.nscl.principles.j.'1},2,d  (preferred)
+  - Pembrolizumab/cisplatin/pemetrexed (category 1) 2,d  (preferred)
   - Atezolizumab/carboplatin/paclitaxel/bevacizumab (category 1) {gen.nscl.principles.j.'3},d,e,f,g
 - Contraindications to the addition of pembrolizumab or atezolizumab c
   - Bevacizumab/carboplatin/paclitaxel (category 1) {gen.nscl.principles.j.'4},e,f,g
