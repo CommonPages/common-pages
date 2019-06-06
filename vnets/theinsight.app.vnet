@@ -17,3 +17,4 @@ subnets:
   - "$os-chem"
   - "$os-physics"
   - "$os-stat"
+  - "$pti-cancer"
