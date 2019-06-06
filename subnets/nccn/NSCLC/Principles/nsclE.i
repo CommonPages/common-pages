@@ -22,27 +22,27 @@
   line !1
     + a = Cisplatin 50 mg/m2 on days 1, 8, 29, and 36; etoposide 50 mg/m2 days 1–5, 29–33; concurrent thoracic RT,*,†
       \
-        > '1
-        > '2
+        > '12177106
+        > '21903745
 
   line !2
     + a = Cisplatin 100 mg/m2 days 1 and 29; vinblastine 5 mg/m2/weekly x 5; concurrent thoracic RT,*,†
-      \ '2
+      \ '21903745
 
   line !3
     + a = Carboplatin AUC 5 on day 1, pemetrexed 500 mg/m2 on day 1 every 21 days for 4 cycles; concurrent thoracic RT (nonsquamous)*,†
-      \ '3
+      \ '21747084
 
   line !4
     + a = Cisplatin 75 mg/m2 on day 1, pemetrexed 500 mg/m2 on day 1 every 21 days for 3 cycles; concurrent thoracic RT (nonsquamous)*,† ± additional 4 cycles of pemetrexed 500 mg/m2†
       \
-        > '4
-        > '5
+        > '25650301
+        > '26811519
 
   line !5
     + a = Paclitaxel 45–50 mg/m2 weekly; carboplatin AUC 2, concurrent thoracic RT,*,† ± additional 2 cycles every 21 days of paclitaxel 200 mg/m2 and carboplatin AUC 6†
-      \ '6
+      \ '25601342
 
   line !6
     + a = Durvalumab 10 mg/kg IV every 2 weeks for up to 12 months (category 1)
-      \ '7
+      \ '30280658

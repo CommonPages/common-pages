@@ -2,12 +2,12 @@ index: hide
 
 #### ALK Rearrangement Positive
 - First-line therapy
-  - Alectinib {gen.nscl.principles.i.'8},{gen.nscl.principles.i.'9}
-  - Brigatinib {gen.nscl.principles.i.'10}
-  - Ceritinib {gen.nscl.principles.i.'11}
-  - Crizotinib {gen.nscl.principles.i.'8},{gen.nscl.principles.i.'12}
+  - Alectinib {'28586279},{'28501140}
+  - Brigatinib {'30280657}
+  - Ceritinib {'28126333}
+  - Crizotinib {'28586279},{'25470694}
 - Subsequent therapy
-  - Alectinib {gen.nscl.principles.i.'13},{gen.nscl.principles.i.'14}
-  - Brigatinib {gen.nscl.principles.i.'15}
-  - Ceritinib {gen.nscl.principles.i.'16}
-  - Lorlatinib {gen.nscl.principles.i.'17}
+  - Alectinib {'26598747},{'26708155}
+  - Brigatinib {'28475456}
+  - Ceritinib {'28602779}
+  - Lorlatinib {'30413378}

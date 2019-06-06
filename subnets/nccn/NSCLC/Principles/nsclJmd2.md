@@ -3,34 +3,34 @@ index: hide
 #### Initial Systemic Therapy Options
 ##### Squamous Cell Carcinoma (PS 0-1)
 - No contraindications to the addition of pembrolizumabc
-  - Pembrolizumab/carboplatin/paclitaxel {gen.nscl.principles.j.'31},d  (category 1) (preferred)
-  - Pembrolizumab/carboplatin/albumin-bound paclitaxel {gen.nscl.principles.j.'31},d  (category 1) (preferred)
+  - Pembrolizumab/carboplatin/paclitaxel {'30280635},d  (category 1) (preferred)
+  - Pembrolizumab/carboplatin/albumin-bound paclitaxel {'30280635},d  (category 1) (preferred)
   - Pembrolizumab/cisplatin/paclitaxel d
   - Pembrolizumab/cisplatin/albumin-bound paclitaxel d
 - Contraindications to the addition of pembrolizumab c
-  - Carboplatin/albumin-bound paclitaxel (category 1) {gen.nscl.principles.j.'7}
-  - Carboplatin/docetaxel (category 1) {gen.nscl.principles.j.'8}
-  - Carboplatin/gemcitabine (category 1) {gen.nscl.principles.j.'11}
-  - Carboplatin/paclitaxel (category 1) {gen.nscl.principles.j.'12}
-  - Cisplatin/docetaxel (category 1) {gen.nscl.principles.j.'8}
-  - Cisplatin/etoposide (category 1) {gen.nscl.principles.j.'14}
-  - Cisplatin/gemcitabine (category 1) {gen.nscl.principles.j.'12},{gen.nscl.principles.j.'15}
-  - Cisplatin/paclitaxel (category 1) {gen.nscl.principles.j.'16}
-  - Gemcitabine/docetaxel (category 1) {gen.nscl.principles.j.'17}
-  - Gemcitabine/vinorelbine (category 1) {gen.nscl.principles.j.'18}
+  - Carboplatin/albumin-bound paclitaxel (category 1) {'22547591}
+  - Carboplatin/docetaxel (category 1) {'12837811}
+  - Carboplatin/gemcitabine (category 1) {'12879472}
+  - Carboplatin/paclitaxel (category 1) {'17079694}
+  - Cisplatin/docetaxel (category 1) {'12837811}
+  - Cisplatin/etoposide (category 1) {'10458212}
+  - Cisplatin/gemcitabine (category 1) {'17079694},{'18506025}
+  - Cisplatin/paclitaxel (category 1) {'11784875}
+  - Gemcitabine/docetaxel (category 1) {'15741225}
+  - Gemcitabine/vinorelbine (category 1) {'16022917}
 
 ##### Squamous Cell Carcinoma (PS 2)
-- Albumin-bound paclitaxel {gen.nscl.principles.j.'19}
-- Carboplatin/albumin-bound paclitaxel {gen.nscl.principles.j.'20},{gen.nscl.principles.j.'21}
-- Carboplatin/docetaxel {gen.nscl.principles.j.'8}
+- Albumin-bound paclitaxel {'16740598}
+- Carboplatin/albumin-bound paclitaxel {'18235124},{'22547591}
+- Carboplatin/docetaxel {'12837811}
 - Carboplatin/etoposide 9,10
-- Carboplatin/gemcitabine {gen.nscl.principles.j.'11}
-- Carboplatin/paclitaxel {gen.nscl.principles.j.'12}
-- Docetaxel {gen.nscl.principles.j.'22},{gen.nscl.principles.j.'23}
-- Gemcitabine {gen.nscl.principles.j.'24},{gen.nscl.principles.j.'25},{gen.nscl.principles.j.'26}
-- Gemcitabine/docetaxel {gen.nscl.principles.j.'17}
-- Gemcitabine/vinorelbine {gen.nscl.principles.j.'18}
-- Paclitaxel {gen.nscl.principles.j.'27},{gen.nscl.principles.j.'28},{gen.nscl.principles.j.'29}
+- Carboplatin/gemcitabine {'12879472}
+- Carboplatin/paclitaxel {'17079694}
+- Docetaxel {'10856094},{'19075278}
+- Gemcitabine {'10048477},{'16293868},{'22949150}
+- Gemcitabine/docetaxel {'15741225}
+- Gemcitabine/vinorelbine {'16022917}
+- Paclitaxel {'15625373},{'15084388},{'15331920}
 
  <sup>a</sup>  Albumin-bound paclitaxel may be substituted for either paclitaxel or docetaxel in patients who have experienced hypersensitivity reactions after receiving paclitaxel or docetaxel despite premedication, or for patients where the standard premedications (ie, dexamethasone, H2 blockers, H1 blockers) are contraindicated.
 

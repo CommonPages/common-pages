@@ -50,51 +50,51 @@
   /// The role of surgery in patients with pathologically documented N2 disease remains controversial.
   line !IIIA
     ~= The role of surgery in patients with pathologically documented N2 disease remains controversial.
-      \ '1
+      \ '22570291
     ~= Two randomized trials evaluated the role of surgery in this population, but neither showed an overall survival benefit with the use of surgery.
       \
-        > '2
-        > '3
+        > '19632716
+        > '17374834
     ~= However, this population is heterogeneous and the panel believes that these trials did not sufficiently evaluate the nuances present with the heterogeneity of N2 disease and the likely oncologic benefit of surgery in specific clinical situations.
     += The presence or absence of N2 disease should be vigorously determined by both radiologic and invasive staging prior to the initiation of therapy since the presence of mediastinal nodal disease has a profound impact on prognosis and treatment decisions. (NSCL-1, NSCL-2, and NSCL-6)
     += Patients with occult-positive N2 nodes discovered at the time of pulmonary resection should continue with the planned resection along with formal mediastinal lymph node dissection. If N2 disease is noted in patients undergoing VATS, the surgeon may consider stopping the procedure so that induction therapy can be administered before surgery; however, continuing the procedure is also an option.
     += The determination of the role of surgery in a patient with N2-positive lymph nodes should be made prior to the initiation of any therapy by a multidisciplinary team, including a board-certified thoracic surgeon who has a major part of his/her practice dedicated to thoracic oncology.
-      \ '4
+      \ '19324119
     += The presence of N2-positive lymph nodes substantially increases the likelihood of positive N3 lymph nodes. Pathologic evaluation of the mediastinum must include evaluation of the subcarinal station and contralateral lymph nodes. EBUS +/- EUS are additional techniques for minimally invasive pathologic mediastinal staging that are complementary to mediastinoscopy. Even when these modalities are employed it is important to have an adequate evaluation of the number of stations involved and biopsy and documentation of negative contralateral lymph node involvement prior to a final treatment decision.
     += Repeat mediastinoscopy, while possible, is technically difficult and has a lower accuracy compared to primary mediastinoscopy. One possible strategy is to perform EBUS (± EUS) in the initial pretreatment evaluation and reserve mediastinoscopy for nodal restaging after neoadjuvant therapy.
-      \ '5
+      \ '18583190
     += Patients with a single lymph node smaller than 3 cm can be considered for a multimodality approach that includes surgical resection.
       \
-        > '1
-        > '6
-        > '7
+        > '22570291
+        > '10944131
+        > '19502079
     += Restaging after induction therapy is difficult to interpret, but CT +/- PET should be performed to exclude disease progression or interval development of metastatic disease.
       \
-        > '7
-        > '8
+        > '19502079
+        > '11156079
     += Patients with negative mediastinum after neoadjuvant therapy have a better prognosis.
     += Neoadjuvant chemoradiotherapy is used in 50% of the NCCN Member Institutions, while neoadjuvant chemotherapy is used in the other 50%. Overall survival appears similar provided RT is given postoperatively, if not given preoperatively.
       \
-        > '5
-        > '9
+        > '18583190
+        > '19467798
     += Neoadjuvant chemoradiotherapy is associated with higher rates of pathologic complete response and negative mediastinal lymph nodes.
-      \ '10
+      \ '20186025
     += However, that is achieved at the expense of higher rates of acute toxicity and increased cost.
     += When neoadjuvant chemoradiotherapy is used with doses lower than those used for standard definitive therapy, all efforts should be made to minimize any possible breaks in radiotherapy for surgical evaluation.
     += Treatment breaks of more than 1 week are considered unacceptable.
     += When timely surgical evaluation is not available, the strategy of neoadjuvant chemoradiotherapy should not be used. Another option in individual cases, and with the agreement of the thoracic surgeon, is to complete definitive chemoradiotherapy prior to re-evaluation and consideration for surgery.
       \
-        > '11
-        > '12
+        > '19049763
+        > '15464470
     += If a surgeon or center is uncertain about the feasibility or safety of resection after definitive doses of radiation, consider obtaining an additional surgical opinion from a high-volume specialized center. These operations may also benefit from additional considerations of soft tissue flap coverage in the radiation field at the time of resection.
     += Data from a large multi-institutional trial indicate that pneumonectomy after neoadjuvant chemoradiotherapy has unacceptable morbidity and mortality.
-      \ '2
+      \ '19632716
     += However, it is not clear if this is also true with neoadjuvant chemotherapy alone.
     += Further, many groups have challenged that cooperative group finding with single-institution experiences demonstrating safety of pneumonectomy after induction therapy.
       \
-        > '13
-        > '14
-        > '15
-        > '16
+        > '20304144
+        > '19619768
+        > '17141515
+        > '20416887
     += In addition, there is no evidence that adding RT to induction regimens for patients with operable stage IIIA (N2) disease improves outcomes compared to induction chemotherapy.
-      \ '17
+      \ '22632486

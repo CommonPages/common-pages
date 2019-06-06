@@ -8,3 +8,5 @@ links:
     location: "/wp"
 network: "theinsight.app"
 authorize:
+use:
+  - "$pubmed"

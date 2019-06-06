@@ -2,10 +2,10 @@ index: hide
 
 #### Sensitizing EGFR Mutation Positive
 - First-line therapy
-  - Afatinib {gen.nscl.principles.i.'1}
-  - Erlotinib {gen.nscl.principles.i.'2}
-  - Dacomitinib {gen.nscl.principles.i.'3}
-  - Gefitinib {gen.nscl.principles.i.'4},{gen.nscl.principles.i.'5}
-  - Osimertinib {gen.nscl.principles.i.'6}
+  - Afatinib {'25589191}
+  - Erlotinib {'22285168}
+  - Dacomitinib {'28958502}
+  - Gefitinib {'19692680},{'24263064}
+  - Osimertinib {'29151359}
 - Subsequent therapy
-  - Osimertinib {gen.nscl.principles.i.'7}
+  - Osimertinib {'27959700}
