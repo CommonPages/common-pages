@@ -8,7 +8,7 @@ article '19100641
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> MacManus M, Nestle U, Rosenzweig KE, et al. Use of PET and PET/CT for radiation therapy planning: IAEA expert report 2006-2007. Radiother Oncol 2009;91:85-94. </div>
+    <div class="Citation-text">MacManus M, Nestle U, Rosenzweig KE, et al. Use of PET and PET/CT for radiation therapy planning: IAEA expert report 2006-2007. Radiother Oncol 2009;91:85-94.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19100641">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

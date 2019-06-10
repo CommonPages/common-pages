@@ -13,7 +13,7 @@ article '20686429
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Sandler A, Yi J, Dahlberg S, et al. Treatment outcomes by tumor histology in Eastern Cooperative Group Study E4599 of bevacizumab with paclitaxel/carboplatin for advanced non-small cell lung cancer. J Thorac Oncol 2010;5:1416-1423. </div>
+    <div class="Citation-text">Sandler A, Yi J, Dahlberg S, et al. Treatment outcomes by tumor histology in Eastern Cooperative Group Study E4599 of bevacizumab with paclitaxel/carboplatin for advanced non-small cell lung cancer. J Thorac Oncol 2010;5:1416-1423.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20686429">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

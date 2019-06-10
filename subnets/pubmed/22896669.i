@@ -8,7 +8,7 @@ article '22896669
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Paik PK, Varghese AM, Sima CS, et al. Response to erlotinib in patients with EGFR mutant advanced non-small cell lung cancers with a squamous or squamous-like component. Mol Cancer Ther 2012;11:2535-2540. </div>
+    <div class="Citation-text">Paik PK, Varghese AM, Sima CS, et al. Response to erlotinib in patients with EGFR mutant advanced non-small cell lung cancers with a squamous or squamous-like component. Mol Cancer Ther 2012;11:2535-2540.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22896669">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '24061063
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Seidelman JL, Myers JL, Quint LE. Incidental, subsolid pulmonary nodules at CT: etiology and management. Cancer Imaging 2013;13:365-373. </div>
+    <div class="Citation-text">Seidelman JL, Myers JL, Quint LE. Incidental, subsolid pulmonary nodules at CT: etiology and management. Cancer Imaging 2013;13:365-373.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24061063">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

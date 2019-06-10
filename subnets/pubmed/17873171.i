@@ -5,10 +5,15 @@
 /// Scott et al., 2007
 article '17873171
 
+  index: hide
+  line !c
+    + c = Surgical resection remains the treatment of choice for stage I and II NSCLC, although surgical methods continue to evolve. Adjuvant chemotherapy for patients with stage II, but not stage I, NSCLC is well established. Radiotherapy remains an important treatment for either cases of early stage NSCLC that are medically inoperable or patients who refuse surgery.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Scott WJ, Howington J, Feigenberg S, et al. Treatment of non-small cell lung cancer stage I and stage II: ACCP evidence-based clinical practice guidelines (2nd edition). Chest 2007;132:234S-242S. </div>
+    <div class="Citation-text">Scott WJ, Howington J, Feigenberg S, et al. Treatment of non-small cell lung cancer stage I and stage II: ACCP evidence-based clinical practice guidelines (2nd edition). Chest 2007;132:234S-242S.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17873171">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

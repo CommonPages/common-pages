@@ -13,7 +13,7 @@ article '23729361
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Gainor JF, Varghese AM, Ou SH, et al. ALK rearrangements are mutually exclusive with mutations in EGFR or KRAS: an analysis of 1,683 patients with non-small cell lung cancer. Clin Cancer Res 2013;19:4273-4281. </div>
+    <div class="Citation-text">Gainor JF, Varghese AM, Ou SH, et al. ALK rearrangements are mutually exclusive with mutations in EGFR or KRAS: an analysis of 1,683 patients with non-small cell lung cancer. Clin Cancer Res 2013;19:4273-4281.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23729361">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

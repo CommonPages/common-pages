@@ -8,7 +8,7 @@ article '20171517
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kirkpatrick JP, van der Kogel AJ, Schultheiss TE. Radiation dose-volume effects in the spinal cord. Int J Radiat Oncol Biol Phys 2010;76:S42-49. </div>
+    <div class="Citation-text">Kirkpatrick JP, van der Kogel AJ, Schultheiss TE. Radiation dose-volume effects in the spinal cord. Int J Radiat Oncol Biol Phys 2010;76:S42-49.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20171517">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

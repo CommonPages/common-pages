@@ -8,7 +8,7 @@ article '28973074
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Iyengar P, Wardak Z, Gerber DE, et al. Consolidative radiotherapy for limited metastatic non-small-cell lung cancer: a phase 2 randomized clinical trial. JAMA Oncol 2018;4:e173501. </div>
+    <div class="Citation-text">Iyengar P, Wardak Z, Gerber DE, et al. Consolidative radiotherapy for limited metastatic non-small-cell lung cancer: a phase 2 randomized clinical trial. JAMA Oncol 2018;4:e173501.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/28973074">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

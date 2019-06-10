@@ -5,10 +5,15 @@
 /// Aizer et al., 2013
 article '24062405
 
+  index: hide
+  line !c
+    + c = Even after adjusting for known confounders, unmarried patients are at significantly higher risk of presentation with metastatic cancer, undertreatment, and death resulting from their cancer. This study highlights the potentially significant impact that social support can have on cancer detection, treatment, and survival.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Aizer AA, Chen MH, McCarthy EP, et al. Marital status and survival in patients with cancer. J Clin Oncol 2013;31:3869-3876. </div>
+    <div class="Citation-text">Aizer AA, Chen MH, McCarthy EP, et al. Marital status and survival in patients with cancer. J Clin Oncol 2013;31:3869-3876.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24062405">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

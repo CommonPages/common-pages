@@ -8,7 +8,7 @@ article '27803005
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Lee SH, Lee JK, Ahn MJ, et al. Vandetanib in pretreated patients with advanced non-small cell lung cancer-harboring RET rearrangement: a phase II clinical trial. Ann Oncol 2017;28:292-297. </div>
+    <div class="Citation-text">Lee SH, Lee JK, Ahn MJ, et al. Vandetanib in pretreated patients with advanced non-small cell lung cancer-harboring RET rearrangement: a phase II clinical trial. Ann Oncol 2017;28:292-297.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27803005">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '21233402
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Rosell R, Molina MA, Costa C, et al. Pretreatment EGFR T790M mutation and BRCA1 mRNA expression in erlotinib-treated advanced non-small-cell lung cancer patients with EGFR mutations. Clin Cancer Res 2011;17:1160-1168. </div>
+    <div class="Citation-text">Rosell R, Molina MA, Costa C, et al. Pretreatment EGFR T790M mutation and BRCA1 mRNA expression in erlotinib-treated advanced non-small-cell lung cancer patients with EGFR mutations. Clin Cancer Res 2011;17:1160-1168.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21233402">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

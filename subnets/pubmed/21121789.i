@@ -13,7 +13,7 @@ article '21121789
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Chang WS, Kim HY, Chang JW, et al. Analysis of radiosurgical results in patients with brain metastases according to the number of brain lesions: is stereotactic radiosurgery effective for multiple brain metastases? J Neurosurg 2010;113 Suppl:73-78. </div>
+    <div class="Citation-text">Chang WS, Kim HY, Chang JW, et al. Analysis of radiosurgical results in patients with brain metastases according to the number of brain lesions: is stereotactic radiosurgery effective for multiple brain metastases? J Neurosurg 2010;113 Suppl:73-78.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21121789">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

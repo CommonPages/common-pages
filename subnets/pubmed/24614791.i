@@ -8,7 +8,7 @@ article '24614791
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Chan NK, Abdullah KG, Lubelski D, et al. Stereotactic radiosurgery for metastatic spine tumors. J Neurosurg Sci 2014;58:37-44. </div>
+    <div class="Citation-text">Chan NK, Abdullah KG, Lubelski D, et al. Stereotactic radiosurgery for metastatic spine tumors. J Neurosurg Sci 2014;58:37-44.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24614791">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '27177916
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ricciuti B, Chiari R, Chiarini P, et al. Osimertinib (AZD9291) and CNS response in two radiotherapy-naïve patients with EGFR-mutant and T790M-positive advanced non-small cell lung cancer. Clin Drug Investig 2016;36:683-686. </div>
+    <div class="Citation-text">Ricciuti B, Chiari R, Chiarini P, et al. Osimertinib (AZD9291) and CNS response in two radiotherapy-naïve patients with EGFR-mutant and T790M-positive advanced non-small cell lung cancer. Clin Drug Investig 2016;36:683-686.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27177916">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

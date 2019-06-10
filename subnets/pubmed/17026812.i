@@ -5,10 +5,15 @@
 /// Gandara et al., 2007
 article '17026812
 
+  index: hide
+  line !c
+    + c = The 5-year survival rate in S9540 of 29% compares favorably with the predecessor trial S9019 and other treatment approaches currently used in this patient population. A phase III trial designed to validate the concept of consolidation docetaxel is presently under way.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Gandara DR, Chansky K, Albain KS, et al. Long-term survival with concurrent chemoradiation therapy followed by consolidation docetaxel in stage IIIB non-small-cell lung cancer: a phase II Southwest Oncology Group Study (S9504). Clin Lung Cancer 2006;8:116-121. </div>
+    <div class="Citation-text">Gandara DR, Chansky K, Albain KS, et al. Long-term survival with concurrent chemoradiation therapy followed by consolidation docetaxel in stage IIIB non-small-cell lung cancer: a phase II Southwest Oncology Group Study (S9504). Clin Lung Cancer 2006;8:116-121.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17026812">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

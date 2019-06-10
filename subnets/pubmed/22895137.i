@@ -8,7 +8,7 @@ article '22895137
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Edelman MJ, Le Chevalier T, Soria JC. Maintenance therapy and advanced non-small-cell lung cancer: a skeptic's view. J Thorac Oncol 2012;7:1331-1336. </div>
+    <div class="Citation-text">Edelman MJ, Le Chevalier T, Soria JC. Maintenance therapy and advanced non-small-cell lung cancer: a skeptic's view. J Thorac Oncol 2012;7:1331-1336.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22895137">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

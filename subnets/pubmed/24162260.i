@@ -13,7 +13,7 @@ article '24162260
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Henry D, Vadhan-Raj S, Hirsh V, et al. Delaying skeletal-related events in a randomized phase 3 study of denosumab versus zoledronic acid in patients with advanced cancer: an analysis of data from patients with solid tumors. Support Care Cancer 2014;22:679-687. </div>
+    <div class="Citation-text">Henry D, Vadhan-Raj S, Hirsh V, et al. Delaying skeletal-related events in a randomized phase 3 study of denosumab versus zoledronic acid in patients with advanced cancer: an analysis of data from patients with solid tumors. Support Care Cancer 2014;22:679-687.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24162260">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

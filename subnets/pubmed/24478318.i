@@ -13,7 +13,7 @@ article '24478318
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ou SH, Janne PA, Bartlett CH, et al. Clinical benefit of continuing ALK inhibition with crizotinib beyond initial disease progression in patients with advanced ALK-positive NSCLC. Ann Oncol 2014;25:415-422. </div>
+    <div class="Citation-text">Ou SH, Janne PA, Bartlett CH, et al. Clinical benefit of continuing ALK inhibition with crizotinib beyond initial disease progression in patients with advanced ALK-positive NSCLC. Ann Oncol 2014;25:415-422.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24478318">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

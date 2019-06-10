@@ -5,10 +5,15 @@
 /// Scagliotti et al., 2013
 article '23154554
 
+  index: hide
+  line !c
+    + c = In this exploratory analysis, denosumab was associated with improved overall survival compared with ZA, in patients with metastatic lung cancer.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Scagliotti GV, Hirsh V, Siena S, et al. Overall survival improvement in patients with lung cancer and bone metastases treated with denosumab versus zoledronic acid: subgroup analysis from a randomized phase 3 study. J Thorac Oncol 2012;7:1823-1829. </div>
+    <div class="Citation-text">Scagliotti GV, Hirsh V, Siena S, et al. Overall survival improvement in patients with lung cancer and bone metastases treated with denosumab versus zoledronic acid: subgroup analysis from a randomized phase 3 study. J Thorac Oncol 2012;7:1823-1829.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23154554">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

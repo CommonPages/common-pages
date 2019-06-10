@@ -5,10 +5,15 @@
 /// Katakami et al., 2014
 article '23816963
 
+  index: hide
+  line !c
+    + c = Afatinib demonstrated modest but noteworthy efficacy in patients with NSCLC who had received third- or fourth-line treatment and who progressed while receiving erlotinib and/or gefitinib, including those with acquired resistance to erlotinib, gefitinib, or both.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Katakami N, Atagi S, Goto K, et al. LUX-Lung 4: a phase II trial of afatinib in patients with advanced non-small-cell lung cancer who progressed during prior treatment with erlotinib, gefitinib, or both. J Clin Oncol 2013;31:3335-3341. </div>
+    <div class="Citation-text">Katakami N, Atagi S, Goto K, et al. LUX-Lung 4: a phase II trial of afatinib in patients with advanced non-small-cell lung cancer who progressed during prior treatment with erlotinib, gefitinib, or both. J Clin Oncol 2013;31:3335-3341.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23816963">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

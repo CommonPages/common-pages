@@ -8,7 +8,7 @@ article '26412670
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Sgambato A, Casaluce F, Sacco PC, et al. Anti PD-1 and PDL-1 immunotherapy in the treatment of advanced non-small cell lung cancer (NSCLC): a review on toxicity profile and its management. Curr Drug Saf 2016;11:62-68. </div>
+    <div class="Citation-text">Sgambato A, Casaluce F, Sacco PC, et al. Anti PD-1 and PDL-1 immunotherapy in the treatment of advanced non-small cell lung cancer (NSCLC): a review on toxicity profile and its management. Curr Drug Saf 2016;11:62-68.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26412670">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

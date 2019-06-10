@@ -8,7 +8,7 @@ article '30012210
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Brahmer JR, Govindan R, Anders RA, et al. The Society for Immunotherapy of Cancer consensus statement on immunotherapy for the treatment of non-small cell lung cancer (NSCLC). J Immunother Cancer 2018;6:75. </div>
+    <div class="Citation-text">Brahmer JR, Govindan R, Anders RA, et al. The Society for Immunotherapy of Cancer consensus statement on immunotherapy for the treatment of non-small cell lung cancer (NSCLC). J Immunother Cancer 2018;6:75.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/30012210">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Schmid-Bindert et al., 2016
 article '26791798
 
+  index: hide
+  line !c
+    + c = Although the study did not meet the primary objective, both treatment groups demonstrated good safety-related feasibility and tolerability as adjuvant treatment in patients with completely resected Stage IB/II NSCLC.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Schmid-Bindert G, Engel-Riedel W, Reck M, et al. A randomized phase 2 study of pemetrexed in combination with cisplatin or carboplatin as adjuvant chemotherapy in patients with completely resected stage IB or II non-small-cell lung cancer. Lung Cancer 2015;90:397-404. </div>
+    <div class="Citation-text">Schmid-Bindert G, Engel-Riedel W, Reck M, et al. A randomized phase 2 study of pemetrexed in combination with cisplatin or carboplatin as adjuvant chemotherapy in patients with completely resected stage IB or II non-small-cell lung cancer. Lung Cancer 2015;90:397-404.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26791798">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

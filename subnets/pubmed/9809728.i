@@ -13,7 +13,7 @@ article '9809728
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Patchell RA, Tibbs PA, Regine WF, et al. Postoperative radiotherapy in the treatment of single metastases to the brain: a randomized trial. JAMA 1998;280:1485-1489. </div>
+    <div class="Citation-text">Patchell RA, Tibbs PA, Regine WF, et al. Postoperative radiotherapy in the treatment of single metastases to the brain: a randomized trial. JAMA 1998;280:1485-1489.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/9809728">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

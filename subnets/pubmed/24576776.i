@@ -5,10 +5,15 @@
 /// , 2014
 article '24576776
 
+  index: hide
+  line !c
+    + c = Findings, which are based on 92% of all patients who were randomised, and mainly stage IB-IIIA, show preoperative chemotherapy significantly improves overall survival, time to distant recurrence, and recurrence-free survival in resectable NSCLC. The findings suggest this is a valid treatment option for most of these patients. Toxic effects could not be assessed.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Group NM-aC. Preoperative chemotherapy for non-small-cell lung cancer: a systematic review and meta-analysis of individual participant data. Lancet 2014;383:1561-1571. </div>
+    <div class="Citation-text">Group NM-aC. Preoperative chemotherapy for non-small-cell lung cancer: a systematic review and meta-analysis of individual participant data. Lancet 2014;383:1561-1571.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24576776">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

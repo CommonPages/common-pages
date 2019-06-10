@@ -5,10 +5,15 @@
 /// Soon et al., 2009
 article '19470938
 
+  index: hide
+  line !c
+    + c = Extending chemotherapy, particularly with a third-generation regimen, improved PFS substantially, but OS less so. Future trials should test extending treatment with more effective and/or better-tolerated agents.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Soon YY, Stockler MR, Askie LM, Boyer MJ. Duration of chemotherapy for advanced non-small-cell lung cancer: a systematic review and meta-analysis of randomized trials. J Clin Oncol 2009;27:3277-3283. </div>
+    <div class="Citation-text">Soon YY, Stockler MR, Askie LM, Boyer MJ. Duration of chemotherapy for advanced non-small-cell lung cancer: a systematic review and meta-analysis of randomized trials. J Clin Oncol 2009;27:3277-3283.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19470938">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

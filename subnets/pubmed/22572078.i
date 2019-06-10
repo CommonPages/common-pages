@@ -13,7 +13,7 @@ article '22572078
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Zhang X, Liu H, Balter P, et al. Positron emission tomography for assessing local failure after stereotactic body radiotherapy for non-small-cell lung cancer. Int J Radiat Oncol Biol Phys 2012;83:1558-1565. </div>
+    <div class="Citation-text">Zhang X, Liu H, Balter P, et al. Positron emission tomography for assessing local failure after stereotactic body radiotherapy for non-small-cell lung cancer. Int J Radiat Oncol Biol Phys 2012;83:1558-1565.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22572078">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

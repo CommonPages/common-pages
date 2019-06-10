@@ -13,7 +13,7 @@ article '21440325
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> de Marinis F, Rossi A, Di Maio M, et al. Treatment of advanced non-small-cell lung cancer: Italian Association of Thoracic Oncology (AIOT) clinical practice guidelines. Lung Cancer 2011;73:1-10. </div>
+    <div class="Citation-text">de Marinis F, Rossi A, Di Maio M, et al. Treatment of advanced non-small-cell lung cancer: Italian Association of Thoracic Oncology (AIOT) clinical practice guidelines. Lung Cancer 2011;73:1-10.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21440325">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

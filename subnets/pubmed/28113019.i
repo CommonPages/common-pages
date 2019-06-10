@@ -8,7 +8,7 @@ article '28113019
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Magnuson WJ, Lester-Coll NH, Wu AJ, et al. Management of brain metastases in tyrosine kinase inhibitor-naïve epidermal growth factor receptor-mutant non-small-cell lung cancer: a retrospective multi-institutional analysis. J Clin Oncol 2017;35:1070-1077. </div>
+    <div class="Citation-text">Magnuson WJ, Lester-Coll NH, Wu AJ, et al. Management of brain metastases in tyrosine kinase inhibitor-naïve epidermal growth factor receptor-mutant non-small-cell lung cancer: a retrospective multi-institutional analysis. J Clin Oncol 2017;35:1070-1077.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/28113019">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '18455322
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Salazar OM, Sandhu TS, Lattin PB, et al. Once-weekly, high-dose stereotactic body radiotherapy for lung cancer: 6-year analysis of 60 early-stage, 42 locally advanced, and 7 metastatic lung cancers. Int J Radiat Oncol Biol Phys 2008;72:707-715. </div>
+    <div class="Citation-text">Salazar OM, Sandhu TS, Lattin PB, et al. Once-weekly, high-dose stereotactic body radiotherapy for lung cancer: 6-year analysis of 60 early-stage, 42 locally advanced, and 7 metastatic lung cancers. Int J Radiat Oncol Biol Phys 2008;72:707-715.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18455322">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

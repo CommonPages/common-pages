@@ -5,10 +5,15 @@
 /// Garassino et al., 2013
 article '23883922
 
+  index: hide
+  line !c
+    + c = Our results show that chemotherapy is more effective than erlotinib for second-line treatment for previously treated patients with NSCLC who have wild-type EGFR tumours.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Garassino MC, Martelli O, Broggini M, et al. Erlotinib versus docetaxel as second-line treatment of patients with advanced non-small-cell lung cancer and wild-type EGFR tumours (TAILOR): a randomised controlled trial. Lancet Oncol 2013;14:981-988. </div>
+    <div class="Citation-text">Garassino MC, Martelli O, Broggini M, et al. Erlotinib versus docetaxel as second-line treatment of patients with advanced non-small-cell lung cancer and wild-type EGFR tumours (TAILOR): a randomised controlled trial. Lancet Oncol 2013;14:981-988.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23883922">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

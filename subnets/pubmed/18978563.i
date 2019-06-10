@@ -5,10 +5,15 @@
 /// Stinchcombe et al., 2009
 article '18978563
 
+  index: hide
+  line !c
+    + c = The long term survival rate compares favorably to other treatment approaches for stage III non-small cell lung cancer.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Stinchcombe TE, Lee CB, Moore DT, et al. Long-term follow-up of a phase I/II trial of dose escalating three-dimensional conformal thoracic radiation therapy with induction and concurrent carboplatin and paclitaxel in unresectable stage IIIA/B non-small cell lung cancer. J Thorac Oncol 2008;3:1279-1285. </div>
+    <div class="Citation-text">Stinchcombe TE, Lee CB, Moore DT, et al. Long-term follow-up of a phase I/II trial of dose escalating three-dimensional conformal thoracic radiation therapy with induction and concurrent carboplatin and paclitaxel in unresectable stage IIIA/B non-small cell lung cancer. J Thorac Oncol 2008;3:1279-1285.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18978563">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

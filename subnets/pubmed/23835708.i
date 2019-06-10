@@ -5,10 +5,15 @@
 /// Barlesi et al., 2013
 article '23835708
 
+  index: hide
+  line !c
+    + c = In an unselected population of patients with nonsquamous NSCLC who had achieved disease control with platinum-based chemotherapy plus bevacizumab, bevacizumab plus pemetrexed maintenance was associated with a significant PFS benefit compared with bevacizumab alone. The combination was well tolerated.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Barlesi F, Scherpereel A, Rittmeyer A, et al. Randomized phase III trial of maintenance bevacizumab with or without pemetrexed after first-line induction with bevacizumab, cisplatin, and pemetrexed in advanced nonsquamous non-small-cell lung cancer: AVAPERL (MO22089). J Clin Oncol 2013;31:3004-3011. </div>
+    <div class="Citation-text">Barlesi F, Scherpereel A, Rittmeyer A, et al. Randomized phase III trial of maintenance bevacizumab with or without pemetrexed after first-line induction with bevacizumab, cisplatin, and pemetrexed in advanced nonsquamous non-small-cell lung cancer: AVAPERL (MO22089). J Clin Oncol 2013;31:3004-3011.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23835708">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

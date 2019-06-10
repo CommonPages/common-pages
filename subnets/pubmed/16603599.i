@@ -13,7 +13,7 @@ article '16603599
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Booton R, Lorigan P, Anderson H, et al. A phase III trial of docetaxel/carboplatin versus mitomycin C/ifosfamide/cisplatin (MIC) or mitomycin C/vinblastine/cisplatin (MVP) in patients with advanced non-small-cell lung cancer: a randomised multicentre trial of the British Thoracic Oncology Group (BTOG1). Ann Oncol 2006;17:1111-1119. </div>
+    <div class="Citation-text">Booton R, Lorigan P, Anderson H, et al. A phase III trial of docetaxel/carboplatin versus mitomycin C/ifosfamide/cisplatin (MIC) or mitomycin C/vinblastine/cisplatin (MVP) in patients with advanced non-small-cell lung cancer: a randomised multicentre trial of the British Thoracic Oncology Group (BTOG1). Ann Oncol 2006;17:1111-1119.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/16603599">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

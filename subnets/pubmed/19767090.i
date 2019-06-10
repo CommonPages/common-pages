@@ -5,10 +5,15 @@
 /// Chlebowski et al., 2009
 article '19767090
 
+  index: hide
+  line !c
+    + c = Although treatment with oestrogen plus progestin in postmenopausal women did not increase incidence of lung cancer, it increased the number of deaths from lung cancer, in particular deaths from non-small-cell lung cancer. These findings should be incorporated into risk-benefit discussions with women considering combined hormone therapy, especially those with a high risk of lung cancer.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Chlebowski RT, Schwartz AG, Wakelee H, et al. Oestrogen plus progestin and lung cancer in postmenopausal women (Women's Health Initiative trial): a post-hoc analysis of a randomised controlled trial. Lancet 2009;374:1243-1251. </div>
+    <div class="Citation-text">Chlebowski RT, Schwartz AG, Wakelee H, et al. Oestrogen plus progestin and lung cancer in postmenopausal women (Women's Health Initiative trial): a post-hoc analysis of a randomised controlled trial. Lancet 2009;374:1243-1251.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19767090">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

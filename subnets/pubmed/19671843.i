@@ -5,10 +5,15 @@
 /// Jackman et al., 2009
 article '19671843
 
+  index: hide
+  line !c
+    + c = EGFR mutation status is associated with sensitivity to treatment with an EGFR-TKI in patients with advanced non-small cell lung cancer. Patients harboring sensitizing EGFR mutations should be considered for first-line erlotinib or gefitinib.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Jackman DM, Miller VA, Cioffredi LA, et al. Impact of epidermal growth factor receptor and KRAS mutations on clinical outcomes in previously untreated non-small cell lung cancer patients: results of an online tumor registry of clinical trials. Clin Cancer Res 2009;15:5267-5273. </div>
+    <div class="Citation-text">Jackman DM, Miller VA, Cioffredi LA, et al. Impact of epidermal growth factor receptor and KRAS mutations on clinical outcomes in previously untreated non-small cell lung cancer patients: results of an online tumor registry of clinical trials. Clin Cancer Res 2009;15:5267-5273.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19671843">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

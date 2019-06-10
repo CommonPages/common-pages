@@ -8,7 +8,7 @@ article '23813019
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Petrelli F, Barni S. Non-cancer-related mortality after cisplatin-based adjuvant chemotherapy for non-small cell lung cancer: a study-level meta-analysis of 16 randomized trials. Med Oncol 2013;30:641. </div>
+    <div class="Citation-text">Petrelli F, Barni S. Non-cancer-related mortality after cisplatin-based adjuvant chemotherapy for non-small cell lung cancer: a study-level meta-analysis of 16 randomized trials. Med Oncol 2013;30:641.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23813019">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

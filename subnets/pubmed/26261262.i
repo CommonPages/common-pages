@@ -8,7 +8,7 @@ article '26261262
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Chiou VL, Burotto M. Pseudoprogression and immune-related response in solid tumors. J Clin Oncol 2015;33:3541-3543. </div>
+    <div class="Citation-text">Chiou VL, Burotto M. Pseudoprogression and immune-related response in solid tumors. J Clin Oncol 2015;33:3541-3543.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26261262">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

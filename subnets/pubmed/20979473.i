@@ -8,7 +8,7 @@ article '20979473
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Choi YL, Soda M, Yamashita Y, et al. EML4-ALK mutations in lung cancer that confer resistance to ALK inhibitors. N Engl J Med 2010;363:1734-1739. </div>
+    <div class="Citation-text">Choi YL, Soda M, Yamashita Y, et al. EML4-ALK mutations in lung cancer that confer resistance to ALK inhibitors. N Engl J Med 2010;363:1734-1739.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20979473">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

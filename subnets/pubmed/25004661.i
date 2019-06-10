@@ -8,7 +8,7 @@ article '25004661
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Brawley OW, Flenaugh EL. Low-dose spiral CT screening and evaluation of the solitary pulmonary nodule. Oncology (Williston Park) 2014;28:441-446. </div>
+    <div class="Citation-text">Brawley OW, Flenaugh EL. Low-dose spiral CT screening and evaluation of the solitary pulmonary nodule. Oncology (Williston Park) 2014;28:441-446.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25004661">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

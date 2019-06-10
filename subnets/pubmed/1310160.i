@@ -13,7 +13,7 @@ article '1310160
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Schaake-Koning C, van den Bogaert W, Dalesio O, et al. Effects of concomitant cisplatin and radiotherapy on inoperable non-small-cell lung cancer. N Engl J Med 1992;326:524-530. </div>
+    <div class="Citation-text">Schaake-Koning C, van den Bogaert W, Dalesio O, et al. Effects of concomitant cisplatin and radiotherapy on inoperable non-small-cell lung cancer. N Engl J Med 1992;326:524-530.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/1310160">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

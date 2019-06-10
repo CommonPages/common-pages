@@ -8,7 +8,7 @@ article '20100955
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Shepherd FA, Tsao MS. Epidermal growth factor receptor biomarkers in non-small-cell lung cancer: a riddle, wrapped in a mystery, inside an enigma. J Clin Oncol 2010;28:903-905. </div>
+    <div class="Citation-text">Shepherd FA, Tsao MS. Epidermal growth factor receptor biomarkers in non-small-cell lung cancer: a riddle, wrapped in a mystery, inside an enigma. J Clin Oncol 2010;28:903-905.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20100955">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

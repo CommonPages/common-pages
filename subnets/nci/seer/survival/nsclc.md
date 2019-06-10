@@ -1,5 +1,6 @@
 index: hide
 public: nsclc-survival
+name: NSCLC: Survival
 
 <table summary="Prevalence statistics">
   <thead>

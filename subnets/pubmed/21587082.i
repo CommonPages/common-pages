@@ -13,7 +13,7 @@ article '21587082
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Darling GE, Maziak DE, Inculet RI, et al. Positron emission tomography-computed tomography compared with invasive mediastinal staging in non-small cell lung cancer: results of mediastinal staging in the early lung positron emission tomography trial. J Thorac Oncol 2011;6:1367-1372. </div>
+    <div class="Citation-text">Darling GE, Maziak DE, Inculet RI, et al. Positron emission tomography-computed tomography compared with invasive mediastinal staging in non-small cell lung cancer: results of mediastinal staging in the early lung positron emission tomography trial. J Thorac Oncol 2011;6:1367-1372.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21587082">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

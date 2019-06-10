@@ -8,7 +8,7 @@ article '27328934
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kazandjian D, Blumenthal GM, Luo L, et al. Benefit-risk summary of crizotinib for the treatment of patients with ROS1 alteration-positive, metastatic non-small cell lung cancer. Oncologist 2016;21:974-980. </div>
+    <div class="Citation-text">Kazandjian D, Blumenthal GM, Luo L, et al. Benefit-risk summary of crizotinib for the treatment of patients with ROS1 alteration-positive, metastatic non-small cell lung cancer. Oncologist 2016;21:974-980.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27328934">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

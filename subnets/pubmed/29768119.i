@@ -8,7 +8,7 @@ article '29768119
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Camidge DR, Kim DW, Tiseo M, et al. Exploratory analysis of brigatinib activity in patients with anaplastic lymphoma kinase-positive non-small-cell lung cancer and brain metastases in two clinical trials. J Clin Oncol 2018;36:2693-2701. </div>
+    <div class="Citation-text">Camidge DR, Kim DW, Tiseo M, et al. Exploratory analysis of brigatinib activity in patients with anaplastic lymphoma kinase-positive non-small-cell lung cancer and brain metastases in two clinical trials. J Clin Oncol 2018;36:2693-2701.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/29768119">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

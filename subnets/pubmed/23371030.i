@@ -8,7 +8,7 @@ article '23371030
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Planchard D. Identification of driver mutations in lung cancer: first step in personalized cancer. Target Oncol 2013;8:3-14. </div>
+    <div class="Citation-text">Planchard D. Identification of driver mutations in lung cancer: first step in personalized cancer. Target Oncol 2013;8:3-14.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23371030">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

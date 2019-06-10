@@ -8,7 +8,7 @@ article '24661292
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Nishino M, Hatabu H, Johnson BE, McLoud TC. State of the art: Response assessment in lung cancer in the era of genomic medicine. Radiology 2014;271:6-27. </div>
+    <div class="Citation-text">Nishino M, Hatabu H, Johnson BE, McLoud TC. State of the art: Response assessment in lung cancer in the era of genomic medicine. Radiology 2014;271:6-27.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24661292">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

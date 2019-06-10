@@ -5,10 +5,15 @@
 /// Tanvetyanon et al., 2010
 article '20453687
 
+  index: hide
+  line !c
+    + c = Among patients with resected multiple synchronous NSCLC, tumor size is an independent predictor of survival. The size of the largest tumor performs slightly better than the sum of tumor sizes in the survival prediction; however, both are much better than the American Joint Committee on Cancer stage for this purpose.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Tanvetyanon T, Robinson L, Sommers KE, et al. Relationship between tumor size and survival among patients with resection of multiple synchronous lung cancers. J Thorac Oncol 2010;5:1018-1024. </div>
+    <div class="Citation-text">Tanvetyanon T, Robinson L, Sommers KE, et al. Relationship between tumor size and survival among patients with resection of multiple synchronous lung cancers. J Thorac Oncol 2010;5:1018-1024.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20453687">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Swanson et al., 2007
 article '17971599
 
+  index: hide
+  line !c
+    + c = A standardized approach to VATS lobectomy as specifically defined with avoidance of rib spreading is feasible.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Swanson SJ, Herndon JE, 2nd, D'Amico TA, et al. Video-assisted thoracic surgery lobectomy: report of CALGB 39802--a prospective, multi-institution feasibility study. J Clin Oncol 2007;25:4993-4997. </div>
+    <div class="Citation-text">Swanson SJ, Herndon JE, 2nd, D'Amico TA, et al. Video-assisted thoracic surgery lobectomy: report of CALGB 39802--a prospective, multi-institution feasibility study. J Clin Oncol 2007;25:4993-4997.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17971599">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// O'Rourke et al., 2010
 article '20556756
 
+  index: hide
+  line !c
+    + c = This update of the review published in 2004 incorporates additional trials and more mature data. It demonstrates the benefit of concurrent chemoradiation over radiotherapy alone or sequential chemoradiotherapy. Patient selection is an important consideration in view of the added toxicity of concurrent treatment. Uncertainty remains as to how far this is purely due to a radiosensitising effect and whether similar benefits could be achieved by using modern radiotherapy techniques and more dose intensive accelerated and/ or hyperfractionated radiotherapy regimens.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> O'Rourke N, Roque IFM, Farre Bernado N, Macbeth F. Concurrent chemoradiotherapy in non-small cell lung cancer. Cochrane Database Syst Rev 2010:CD002140. </div>
+    <div class="Citation-text">O'Rourke N, Roque IFM, Farre Bernado N, Macbeth F. Concurrent chemoradiotherapy in non-small cell lung cancer. Cochrane Database Syst Rev 2010:CD002140.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20556756">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

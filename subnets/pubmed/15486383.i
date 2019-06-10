@@ -5,10 +5,15 @@
 /// Bush et al., 2004
 article '15486383
 
+  index: hide
+  line !c
+    + c = High-dose hypofractionated proton beam radiotherapy can be administered safely, with minimal toxicity, to patients with stage I lung cancer. Local tumor control appears to be improved when compared to historical results utilizing conventional radiotherapy, with a good expectation of disease-specific survival 3 years following treatment.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Bush DA, Slater JD, Shin BB, et al. Hypofractionated proton beam radiotherapy for stage I lung cancer. Chest 2004;126:1198-1203. </div>
+    <div class="Citation-text">Bush DA, Slater JD, Shin BB, et al. Hypofractionated proton beam radiotherapy for stage I lung cancer. Chest 2004;126:1198-1203.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/15486383">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '20183914
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Takahashi T, Sonobe M, Kobayashi M, et al. Clinicopathologic features of non-small-cell lung cancer with EML4-ALK fusion gene. Ann Surg Oncol 2010;17:889-897. </div>
+    <div class="Citation-text">Takahashi T, Sonobe M, Kobayashi M, et al. Clinicopathologic features of non-small-cell lung cancer with EML4-ALK fusion gene. Ann Surg Oncol 2010;17:889-897.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20183914">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Paik et al., 2011
 article '21483012
 
+  index: hide
+  line !c
+    + c = BRAF mutations occur in 3% of patients with lung adenocarcinoma and occur more commonly in current and former smokers. The incidence of BRAF mutations other than V600E is significantly higher in lung cancer than in melanoma.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Paik PK, Arcila ME, Fara M, et al. Clinical characteristics of patients with lung adenocarcinomas harboring BRAF mutations. J Clin Oncol 2011;29:2046-2051. </div>
+    <div class="Citation-text">Paik PK, Arcila ME, Fara M, et al. Clinical characteristics of patients with lung adenocarcinomas harboring BRAF mutations. J Clin Oncol 2011;29:2046-2051.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21483012">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

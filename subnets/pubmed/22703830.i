@@ -8,7 +8,7 @@ article '22703830
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Langer CJ, Mok T, Postmus PE. Targeted agents in the third-/fourth-line treatment of patients with advanced (stage III/IV) non-small cell lung cancer (NSCLC). Cancer Treat Rev 2013;39:252-260. </div>
+    <div class="Citation-text">Langer CJ, Mok T, Postmus PE. Targeted agents in the third-/fourth-line treatment of patients with advanced (stage III/IV) non-small cell lung cancer (NSCLC). Cancer Treat Rev 2013;39:252-260.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22703830">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

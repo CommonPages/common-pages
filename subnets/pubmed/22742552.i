@@ -13,7 +13,7 @@ article '22742552
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Wallander ML, Geiersbach KB, Tripp SR, Layfield LJ. Comparison of reverse transcription-polymerase chain reaction, immunohistochemistry, and fluorescence in situ hybridization methodologies for detection of echinoderm microtubule-associated proteinlike 4-anaplastic lymphoma kinase fusion-positive non-small cell lung carcinoma: implications for optimal clinical testing. Arch Pathol Lab Med 2012;136:796-803. </div>
+    <div class="Citation-text">Wallander ML, Geiersbach KB, Tripp SR, Layfield LJ. Comparison of reverse transcription-polymerase chain reaction, immunohistochemistry, and fluorescence in situ hybridization methodologies for detection of echinoderm microtubule-associated proteinlike 4-anaplastic lymphoma kinase fusion-positive non-small cell lung carcinoma: implications for optimal clinical testing. Arch Pathol Lab Med 2012;136:796-803.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22742552">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

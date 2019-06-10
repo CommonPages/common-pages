@@ -8,7 +8,7 @@ article '19616738
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Group IDW, Holmes T, Das R, et al. American Society of Radiation Oncology recommendations for documenting intensity-modulated radiation therapy treatments. Int J Radiat Oncol Biol Phys 2009;74:1311-1318. </div>
+    <div class="Citation-text">Group IDW, Holmes T, Das R, et al. American Society of Radiation Oncology recommendations for documenting intensity-modulated radiation therapy treatments. Int J Radiat Oncol Biol Phys 2009;74:1311-1318.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19616738">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '27432917
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Crino L, Ahn MJ, De Marinis F, et al. Multicenter phase II study of whole-body and intracranial activity with ceritinib in patients with ALK-rearranged non-small-cell lung cancer previously treated with chemotherapy and crizotinib: results from ASCEND-2. J Clin Oncol 2016;34:2866-2873. </div>
+    <div class="Citation-text">Crino L, Ahn MJ, De Marinis F, et al. Multicenter phase II study of whole-body and intracranial activity with ceritinib in patients with ALK-rearranged non-small-cell lung cancer previously treated with chemotherapy and crizotinib: results from ASCEND-2. J Clin Oncol 2016;34:2866-2873.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27432917">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

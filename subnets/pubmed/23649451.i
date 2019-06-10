@@ -13,7 +13,7 @@ article '23649451
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Colt HG, Murgu SD, Korst RJ, et al. Follow-up and surveillance of the patient with lung cancer after curative-intent therapy: Diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines. Chest 2013;143:e437S-454S. </div>
+    <div class="Citation-text">Colt HG, Murgu SD, Korst RJ, et al. Follow-up and surveillance of the patient with lung cancer after curative-intent therapy: Diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines. Chest 2013;143:e437S-454S.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23649451">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

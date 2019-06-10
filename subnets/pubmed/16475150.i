@@ -13,7 +13,7 @@ article '16475150
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Hara R, Itami J, Kondo T, et al. Clinical outcomes of single-fraction stereotactic radiation therapy of lung tumors. Cancer 2006;106:1347-1352. </div>
+    <div class="Citation-text">Hara R, Itami J, Kondo T, et al. Clinical outcomes of single-fraction stereotactic radiation therapy of lung tumors. Cancer 2006;106:1347-1352.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/16475150">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

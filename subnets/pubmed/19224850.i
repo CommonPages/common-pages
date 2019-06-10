@@ -5,10 +5,15 @@
 /// Inoue et al., 2009
 article '19224850
 
+  index: hide
+  line !c
+    + c = This is the first report indicating that EGFR mutation-positive patients with extremely poor PS benefit from first-line gefitinib. Because there previously has been no standard treatment for these patients with short life expectancy other than best supportive care, examination of EGFR mutations as a biomarker is recommended in this patient population.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Inoue A, Kobayashi K, Usui K, et al. First-line gefitinib for patients with advanced non-small-cell lung cancer harboring epidermal growth factor receptor mutations without indication for chemotherapy. J Clin Oncol 2009;27:1394-1400. </div>
+    <div class="Citation-text">Inoue A, Kobayashi K, Usui K, et al. First-line gefitinib for patients with advanced non-small-cell lung cancer harboring epidermal growth factor receptor mutations without indication for chemotherapy. J Clin Oncol 2009;27:1394-1400.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19224850">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

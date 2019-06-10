@@ -8,7 +8,7 @@ article '3096439
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Wald NJ, Nanchahal K, Thompson SG, Cuckle HS. Does breathing other people's tobacco smoke cause lung cancer? Br Med J (Clin Res Ed) 1986;293:1217-1222. </div>
+    <div class="Citation-text">Wald NJ, Nanchahal K, Thompson SG, Cuckle HS. Does breathing other people's tobacco smoke cause lung cancer? Br Med J (Clin Res Ed) 1986;293:1217-1222.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/3096439">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

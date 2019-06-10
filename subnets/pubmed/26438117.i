@@ -5,10 +5,15 @@
 /// Johung et al., 2016
 article '26438117
 
+  index: hide
+  line !c
+    + c = Patients with brain metastases from ALK-rearranged NSCLC treated with radiotherapy (SRS and/or WBRT) and TKIs have prolonged survival, suggesting that interventions to control intracranial disease are critical. The refinement of prognosis for this molecular subtype of NSCLC identifies a population of patients likely to benefit from first-line SRS, close CNS observation, and treatment of emergent CNS disease.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Johung KL, Yeh N, Desai NB, et al. Extended survival and prognostic factors for patients with ALK-rearranged non-small-cell lung cancer and brain metastasis. J Clin Oncol 2016;34:123-129. </div>
+    <div class="Citation-text">Johung KL, Yeh N, Desai NB, et al. Extended survival and prognostic factors for patients with ALK-rearranged non-small-cell lung cancer and brain metastasis. J Clin Oncol 2016;34:123-129.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26438117">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

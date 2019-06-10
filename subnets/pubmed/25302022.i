@@ -5,10 +5,15 @@
 /// Caillet et al., 2015
 article '25302022
 
+  index: hide
+  line !c
+    + c = The CGA uncovers numerous health problems in elderly patients with cancer and can affect treatment decisions. Functional impairment, malnutrition, and comorbidities are independently associated with chemotoxicity and/or survival. Only three randomized published studies evaluated the effectiveness of CGA-linked interventions. Further research into the effectiveness of the CGA in improving patient outcomes is needed.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Caillet P, Laurent M, Bastuji-Garin S, et al. Optimal management of elderly cancer patients: usefulness of the Comprehensive Geriatric Assessment. Clin Interv Aging 2014;9:1645-1660. </div>
+    <div class="Citation-text">Caillet P, Laurent M, Bastuji-Garin S, et al. Optimal management of elderly cancer patients: usefulness of the Comprehensive Geriatric Assessment. Clin Interv Aging 2014;9:1645-1660.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25302022">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

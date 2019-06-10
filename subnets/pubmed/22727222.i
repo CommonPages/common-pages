@@ -5,10 +5,15 @@
 /// Senthi et al., 2012
 article '22727222
 
+  index: hide
+  line !c
+    + c = Late recurrences after SABR are infrequent and two distinct patterns account for most cases. The predominant pattern is out-of-field, isolated distant recurrence presenting early, despite initial PET staging. A third of patients develop isolated locoregional recurrence; for these patients standardised follow-up is important to ensure that appropriate salvage treatments are considered.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Senthi S, Lagerwaard FJ, Haasbeek CJ, et al. Patterns of disease recurrence after stereotactic ablative radiotherapy for early stage non-small-cell lung cancer: a retrospective analysis. Lancet Oncol 2012;13:802-809. </div>
+    <div class="Citation-text">Senthi S, Lagerwaard FJ, Haasbeek CJ, et al. Patterns of disease recurrence after stereotactic ablative radiotherapy for early stage non-small-cell lung cancer: a retrospective analysis. Lancet Oncol 2012;13:802-809.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22727222">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Kim et al., 2017
 article '26973324
 
+  index: hide
+  line !c
+    + c = The durable whole-body responses reported, together with the intracranial activity, support a clinical benefit for treatment with ceritinib in patients with ALK-rearranged NSCLC who have received crizotinib, or as an alternative to crizotinib. A confirmatory phase 2 clinical trial is ongoing to assess ceritinib activity in patients with ALK-rearranged NSCLC and brain or leptomeningeal metastases.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kim DW, Mehra R, Tan DS, et al. Activity and safety of ceritinib in patients with ALK-rearranged non-small-cell lung cancer (ASCEND-1): updated results from the multicentre, open-label, phase 1 trial. Lancet Oncol 2016;17:452-463. </div>
+    <div class="Citation-text">Kim DW, Mehra R, Tan DS, et al. Activity and safety of ceritinib in patients with ALK-rearranged non-small-cell lung cancer (ASCEND-1): updated results from the multicentre, open-label, phase 1 trial. Lancet Oncol 2016;17:452-463.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26973324">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '24355488
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> de Vin T, Engels B, Gevaert T, et al. Stereotactic radiotherapy for oligometastatic cancer: a prognostic model for survival. Ann Oncol 2014;25:467-471. </div>
+    <div class="Citation-text">de Vin T, Engels B, Gevaert T, et al. Stereotactic radiotherapy for oligometastatic cancer: a prognostic model for survival. Ann Oncol 2014;25:467-471.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24355488">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

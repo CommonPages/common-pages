@@ -5,10 +5,15 @@
 /// Belani et al., 2005
 article '16087941
 
+  index: hide
+  line !c
+    + c = Concurrent weekly paclitaxel, carboplatin, and TRT followed by consolidation seems to be associated with the best outcome, although this schedule was associated with greater toxicity.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Belani CP, Choy H, Bonomi P, et al. Combined chemoradiotherapy regimens of paclitaxel and carboplatin for locally advanced non-small-cell lung cancer: a randomized phase II locally advanced multi-modality protocol. J Clin Oncol 2005;23:5883-5891. </div>
+    <div class="Citation-text">Belani CP, Choy H, Bonomi P, et al. Combined chemoradiotherapy regimens of paclitaxel and carboplatin for locally advanced non-small-cell lung cancer: a randomized phase II locally advanced multi-modality protocol. J Clin Oncol 2005;23:5883-5891.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/16087941">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

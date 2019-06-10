@@ -13,7 +13,7 @@ article '15942564
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kwong KF, Edelman MJ, Suntharalingam M, et al. High-dose radiotherapy in trimodality treatment of Pancoast tumors results in high pathologic complete response rates and excellent long-term survival. J Thorac Cardiovasc Surg 2005;129:1250-1257. </div>
+    <div class="Citation-text">Kwong KF, Edelman MJ, Suntharalingam M, et al. High-dose radiotherapy in trimodality treatment of Pancoast tumors results in high pathologic complete response rates and excellent long-term survival. J Thorac Cardiovasc Surg 2005;129:1250-1257.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/15942564">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

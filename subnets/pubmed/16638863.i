@@ -5,10 +5,15 @@
 /// Han et al., 2006
 article '16638863
 
+  index: hide
+  line !c
+    + c = Gefitinib-sensitive EGFR mutation is the single most important predictor of gefitinib sensitivity. In addition to EGFR mutation, K-ras mutation and Akt phosphorylation aid in better prediction of gefitinib responsiveness in non-small-cell lung cancer.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Han SW, Kim TY, Jeon YK, et al. Optimization of patient selection for gefitinib in non-small cell lung cancer by combined analysis of epidermal growth factor receptor mutation, K-ras mutation, and Akt phosphorylation. Clin Cancer Res 2006;12:2538-2544. </div>
+    <div class="Citation-text">Han SW, Kim TY, Jeon YK, et al. Optimization of patient selection for gefitinib in non-small cell lung cancer by combined analysis of epidermal growth factor receptor mutation, K-ras mutation, and Akt phosphorylation. Clin Cancer Res 2006;12:2538-2544.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/16638863">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

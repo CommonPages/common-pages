@@ -13,7 +13,7 @@ article '28346656
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Sun B, Brooks ED, Komaki RU, et al. 7-year follow-up after stereotactic ablative radiotherapy for patients with stage I non-small cell lung cancer: Results of a phase 2 clinical trial. Cancer 2017;123:3031-3039. </div>
+    <div class="Citation-text">Sun B, Brooks ED, Komaki RU, et al. 7-year follow-up after stereotactic ablative radiotherapy for patients with stage I non-small cell lung cancer: Results of a phase 2 clinical trial. Cancer 2017;123:3031-3039.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/28346656">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

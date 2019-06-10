@@ -13,7 +13,7 @@ article '20356642
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Fernandes AT, Shen J, Finlay J, et al. Elective nodal irradiation (ENI) vs. involved field radiotherapy (IFRT) for locally advanced non-small cell lung cancer (NSCLC): A comparative analysis of toxicities and clinical outcomes. Radiother Oncol 2010;95:178-184. </div>
+    <div class="Citation-text">Fernandes AT, Shen J, Finlay J, et al. Elective nodal irradiation (ENI) vs. involved field radiotherapy (IFRT) for locally advanced non-small cell lung cancer (NSCLC): A comparative analysis of toxicities and clinical outcomes. Radiother Oncol 2010;95:178-184.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20356642">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

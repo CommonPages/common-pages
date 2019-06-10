@@ -13,7 +13,7 @@ article '26577006
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Haseltine JM, Rimner A, Gelblum DY, et al. Fatal complications after stereotactic body radiation therapy for central lung tumors abutting the proximal bronchial tree. Pract Radiat Oncol 2016;6:e27-33. </div>
+    <div class="Citation-text">Haseltine JM, Rimner A, Gelblum DY, et al. Fatal complications after stereotactic body radiation therapy for central lung tumors abutting the proximal bronchial tree. Pract Radiat Oncol 2016;6:e27-33.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26577006">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

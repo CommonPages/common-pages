@@ -5,10 +5,15 @@
 /// Scott et al., 2010
 article '20172539
 
+  index: hide
+  line !c
+    + c = Patients undergoing video-assisted lobectomy had fewer respiratory complications and shorter length of stay. These data suggest video-assisted thoracoscopic lobectomy is safe in patients with resectable lung cancer. Longer follow-up is needed to determine the oncologic equivalency of video-assisted versus open lobectomy.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Scott WJ, Allen MS, Darling G, et al. Video-assisted thoracic surgery versus open lobectomy for lung cancer: a secondary analysis of data from the American College of Surgeons Oncology Group Z0030 randomized clinical trial. J Thorac Cardiovasc Surg 2010;139:976-981; discussion 981-973. </div>
+    <div class="Citation-text">Scott WJ, Allen MS, Darling G, et al. Video-assisted thoracic surgery versus open lobectomy for lung cancer: a secondary analysis of data from the American College of Surgeons Oncology Group Z0030 randomized clinical trial. J Thorac Cardiovasc Surg 2010;139:976-981; discussion 981-973.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20172539">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

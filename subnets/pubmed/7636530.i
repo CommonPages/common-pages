@@ -5,10 +5,15 @@
 /// Albain et al., 1995
 article '7636530
 
+  index: hide
+  line !c
+    + c = This trimodality approach was feasible in this Southwest Oncology Group (SWOG) study, with an encouraging 26% 3-year survival rate. An Intergroup study is currently being conducted to determine whether surgery adds more to the risk or to the benefit of chemoRT.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Albain KS, Rusch VW, Crowley JJ, et al. Concurrent cisplatin/etoposide plus chest radiotherapy followed by surgery for stages IIIA (N2) and IIIB non-small-cell lung cancer: mature results of Southwest Oncology Group phase II study 8805. J Clin Oncol 1995;13:1880-1892. </div>
+    <div class="Citation-text">Albain KS, Rusch VW, Crowley JJ, et al. Concurrent cisplatin/etoposide plus chest radiotherapy followed by surgery for stages IIIA (N2) and IIIB non-small-cell lung cancer: mature results of Southwest Oncology Group phase II study 8805. J Clin Oncol 1995;13:1880-1892.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/7636530">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

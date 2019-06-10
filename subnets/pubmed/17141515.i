@@ -5,10 +5,15 @@
 /// Mansour et al., 2007
 article '17141515
 
+  index: hide
+  line !c
+    + c = In opposition to previous reports, induction chemotherapy did not significantly jeopardize post-operative outcome following pneumonectomy in our experience.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Mansour Z, Kochetkova EA, Ducrocq X, et al. Induction chemotherapy does not increase the operative risk of pneumonectomy! Eur J Cardiothorac Surg 2007;31:181-185. </div>
+    <div class="Citation-text">Mansour Z, Kochetkova EA, Ducrocq X, et al. Induction chemotherapy does not increase the operative risk of pneumonectomy! Eur J Cardiothorac Surg 2007;31:181-185.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17141515">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

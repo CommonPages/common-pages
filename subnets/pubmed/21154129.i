@@ -8,7 +8,7 @@ article '21154129
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Rodig SJ, Shapiro GI. Crizotinib, a small-molecule dual inhibitor of the c-Met and ALK receptor tyrosine kinases. Curr Opin Investig Drugs 2010;11:1477-1490. </div>
+    <div class="Citation-text">Rodig SJ, Shapiro GI. Crizotinib, a small-molecule dual inhibitor of the c-Met and ALK receptor tyrosine kinases. Curr Opin Investig Drugs 2010;11:1477-1490.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21154129">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '19515503
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Liao ZX, Komaki RR, Thames HD, Jr., et al. Influence of technologic advances on outcomes in patients with unresectable, locally advanced non-small-cell lung cancer receiving concomitant chemoradiotherapy. Int J Radiat Oncol Biol Phys 2010;76:775-781. </div>
+    <div class="Citation-text">Liao ZX, Komaki RR, Thames HD, Jr., et al. Influence of technologic advances on outcomes in patients with unresectable, locally advanced non-small-cell lung cancer receiving concomitant chemoradiotherapy. Int J Radiat Oncol Biol Phys 2010;76:775-781.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19515503">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

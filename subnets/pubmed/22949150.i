@@ -5,10 +5,15 @@
 /// Pérol et al., 2012
 article '22949150
 
+  index: hide
+  line !c
+    + c = Gemcitabine continuation maintenance or erlotinib switch maintenance significantly reduces disease progression in patients with advanced NSCLC treated with cisplatin-gemcitabine as first-line chemotherapy. Response to induction chemotherapy may affect OS only for continuation maintenance.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Perol M, Chouaid C, Perol D, et al. Randomized, phase III study of gemcitabine or erlotinib maintenance therapy versus observation, with predefined second-line treatment, after cisplatin-gemcitabine induction chemotherapy in advanced non-small-cell lung cancer. J Clin Oncol 2012;30:3516-3524. </div>
+    <div class="Citation-text">Perol M, Chouaid C, Perol D, et al. Randomized, phase III study of gemcitabine or erlotinib maintenance therapy versus observation, with predefined second-line treatment, after cisplatin-gemcitabine induction chemotherapy in advanced non-small-cell lung cancer. J Clin Oncol 2012;30:3516-3524.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22949150">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

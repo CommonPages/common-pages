@@ -5,10 +5,15 @@
 /// Cappuzzo et al., 2007
 article '17473658
 
+  index: hide
+  line !c
+    + c = This study suggested that EGFR expression and gene copy number, HER2 gene copy number, and P-Akt expression are not associated with response to first-line chemotherapy in NSCLC. Prospective phase III trials should compare standard chemotherapy with a TKI in selected NSCLC.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Cappuzzo F, Ligorio C, Toschi L, et al. EGFR and HER2 gene copy number and response to first-line chemotherapy in patients with advanced non-small cell lung cancer (NSCLC). J Thorac Oncol 2007;2:423-429. </div>
+    <div class="Citation-text">Cappuzzo F, Ligorio C, Toschi L, et al. EGFR and HER2 gene copy number and response to first-line chemotherapy in patients with advanced non-small cell lung cancer (NSCLC). J Thorac Oncol 2007;2:423-429.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17473658">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

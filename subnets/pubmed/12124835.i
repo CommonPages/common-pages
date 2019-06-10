@@ -13,7 +13,7 @@ article '12124835
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Herbst RS, Khuri FR, Lu C, et al. The novel and effective nonplatinum, nontaxane combination of gemcitabine and vinorelbine in advanced nonsmall cell lung carcinoma: potential for decreased toxicity and combination with biological therapy. Cancer 2002;95:340-353. </div>
+    <div class="Citation-text">Herbst RS, Khuri FR, Lu C, et al. The novel and effective nonplatinum, nontaxane combination of gemcitabine and vinorelbine in advanced nonsmall cell lung carcinoma: potential for decreased toxicity and combination with biological therapy. Cancer 2002;95:340-353.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/12124835">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

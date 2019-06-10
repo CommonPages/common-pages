@@ -13,7 +13,7 @@ article '27987585
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Cicenas S, Geater SL, Petrov P, et al. Maintenance erlotinib versus erlotinib at disease progression in patients with advanced non-small-cell lung cancer who have not progressed following platinum-based chemotherapy (IUNO study). Lung Cancer 2016;102:30-37. </div>
+    <div class="Citation-text">Cicenas S, Geater SL, Petrov P, et al. Maintenance erlotinib versus erlotinib at disease progression in patients with advanced non-small-cell lung cancer who have not progressed following platinum-based chemotherapy (IUNO study). Lung Cancer 2016;102:30-37.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27987585">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

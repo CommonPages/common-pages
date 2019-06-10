@@ -5,10 +5,15 @@
 /// Landreneau et al., 2014
 article '24982447
 
+  index: hide
+  line !c
+    + c = In this large propensity-matched comparison, lobectomy was associated with modestly increased freedom from recurrence and overall survival, but the differences were not statistically significant. These results will need further validation by prospective, randomized trials (eg, Cancer and Leukemia Group B 140503 trial).
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Landreneau RJ, Normolle DP, Christie NA, et al. Recurrence and survival outcomes after anatomic segmentectomy versus lobectomy for clinical stage I non-small-cell lung cancer: a propensity-matched analysis. J Clin Oncol 2014;32:2449-2455. </div>
+    <div class="Citation-text">Landreneau RJ, Normolle DP, Christie NA, et al. Recurrence and survival outcomes after anatomic segmentectomy versus lobectomy for clinical stage I non-small-cell lung cancer: a propensity-matched analysis. J Clin Oncol 2014;32:2449-2455.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24982447">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

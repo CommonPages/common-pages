@@ -13,7 +13,7 @@ article '23649441
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Schwartz AM, Rezaei MK. Diagnostic surgical pathology in lung cancer: Diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines. Chest 2013;143:e251S-262S. </div>
+    <div class="Citation-text">Schwartz AM, Rezaei MK. Diagnostic surgical pathology in lung cancer: Diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines. Chest 2013;143:e251S-262S.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23649441">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

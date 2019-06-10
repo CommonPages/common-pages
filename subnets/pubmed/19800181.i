@@ -13,7 +13,7 @@ article '19800181
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Bradley JD, El Naqa I, Drzymala RE, et al. Stereotactic body radiation therapy for early-stage non-small-cell lung cancer: the pattern of failure is distant. Int J Radiat Oncol Biol Phys 2010;77:1146-1150. </div>
+    <div class="Citation-text">Bradley JD, El Naqa I, Drzymala RE, et al. Stereotactic body radiation therapy for early-stage non-small-cell lung cancer: the pattern of failure is distant. Int J Radiat Oncol Biol Phys 2010;77:1146-1150.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19800181">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '26035509
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Rittmeyer A. Quality of life in patients with NSCLC receiving maintenance therapy. Cancers (Basel) 2015;7:950-962. </div>
+    <div class="Citation-text">Rittmeyer A. Quality of life in patients with NSCLC receiving maintenance therapy. Cancers (Basel) 2015;7:950-962.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26035509">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

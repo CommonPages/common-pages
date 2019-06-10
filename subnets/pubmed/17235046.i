@@ -5,10 +5,15 @@
 /// Rusch et al., 2007
 article '17235046
 
+  index: hide
+  line !c
+    + c = This combined-modality approach is feasible and is associated with high rates of complete resection and pathologic CR in both T3 and T4 tumors. Local control and overall survival seem markedly improved relative to previous studies of radiation plus resection.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Rusch VW, Giroux DJ, Kraut MJ, et al. Induction chemoradiation and surgical resection for superior sulcus non-small-cell lung carcinomas: long-term results of Southwest Oncology Group Trial 9416 (Intergroup Trial 0160). J Clin Oncol 2007;25:313-318. </div>
+    <div class="Citation-text">Rusch VW, Giroux DJ, Kraut MJ, et al. Induction chemoradiation and surgical resection for superior sulcus non-small-cell lung carcinomas: long-term results of Southwest Oncology Group Trial 9416 (Intergroup Trial 0160). J Clin Oncol 2007;25:313-318.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17235046">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

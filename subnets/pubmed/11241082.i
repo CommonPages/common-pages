@@ -13,7 +13,7 @@ article '11241082
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Rusch VW, Giroux DJ, Kraut MJ, et al. Induction chemoradiation and surgical resection for non-small cell lung carcinomas of the superior sulcus: Initial results of Southwest Oncology Group Trial 9416 (Intergroup Trial 0160). J Thorac Cardiovasc Surg 2001;121:472-483. </div>
+    <div class="Citation-text">Rusch VW, Giroux DJ, Kraut MJ, et al. Induction chemoradiation and surgical resection for non-small cell lung carcinomas of the superior sulcus: Initial results of Southwest Oncology Group Trial 9416 (Intergroup Trial 0160). J Thorac Cardiovasc Surg 2001;121:472-483.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/11241082">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

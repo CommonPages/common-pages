@@ -5,10 +5,15 @@
 /// Chute et al., 2000
 article '10561217
 
+  index: hide
+  line !c
+    + c = Analysis of 21 phase III trials initiated in North America and the SEER database from 1972 to 1994 demonstrates that there has been a modest improvement in the survival time of patients with extensive-stage SCLC.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Chute JP, Chen T, Feigal E, et al. Twenty years of phase III trials for patients with extensive-stage small-cell lung cancer: perceptible progress. J Clin Oncol 1999;17:1794-1801. </div>
+    <div class="Citation-text">Chute JP, Chen T, Feigal E, et al. Twenty years of phase III trials for patients with extensive-stage small-cell lung cancer: perceptible progress. J Clin Oncol 1999;17:1794-1801.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/10561217">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

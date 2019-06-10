@@ -5,10 +5,15 @@
 /// Rizvi et al., 2008
 article '18235124
 
+  index: hide
+  line !c
+    + c = NAB-paclitaxel 125 mg/m(2) administered on days 1, 8, and 15 of a 28-day cycle was well tolerated and demonstrated encouraging single-agent activity. No corticosteroid premedication was administered and no hypersensitivity reactions were seen. Additional studies of single-agent NAB-paclitaxel as well as platinum-based combinations are warranted.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Rizvi NA, Riely GJ, Azzoli CG, et al. Phase I/II trial of weekly intravenous 130-nm albumin-bound paclitaxel as initial chemotherapy in patients with stage IV non-small-cell lung cancer. J Clin Oncol 2008;26:639-643. </div>
+    <div class="Citation-text">Rizvi NA, Riely GJ, Azzoli CG, et al. Phase I/II trial of weekly intravenous 130-nm albumin-bound paclitaxel as initial chemotherapy in patients with stage IV non-small-cell lung cancer. J Clin Oncol 2008;26:639-643.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18235124">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

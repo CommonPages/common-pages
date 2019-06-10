@@ -8,7 +8,7 @@ article '29530932
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Yu HA, Suzawa K, Jordan E, et al. Concurrent alterations in EGFR-mutant lung cancers associated with resistance to EGFR kinase inhibitors and characterization of MTOR as a mediator of resistance. Clin Cancer Res 2018;24:3108-3118. </div>
+    <div class="Citation-text">Yu HA, Suzawa K, Jordan E, et al. Concurrent alterations in EGFR-mutant lung cancers associated with resistance to EGFR kinase inhibitors and characterization of MTOR as a mediator of resistance. Clin Cancer Res 2018;24:3108-3118.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/29530932">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

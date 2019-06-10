@@ -13,7 +13,7 @@ article '19233668
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Cerfolio RJ, Bryant AS, Jones VL, Cerfolio RM. Pulmonary resection after concurrent chemotherapy and high dose (60Gy) radiation for non-small cell lung cancer is safe and may provide increased survival. Eur J Cardiothorac Surg 2009;35:718-723; discussion 723. </div>
+    <div class="Citation-text">Cerfolio RJ, Bryant AS, Jones VL, Cerfolio RM. Pulmonary resection after concurrent chemotherapy and high dose (60Gy) radiation for non-small cell lung cancer is safe and may provide increased survival. Eur J Cardiothorac Surg 2009;35:718-723; discussion 723.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19233668">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

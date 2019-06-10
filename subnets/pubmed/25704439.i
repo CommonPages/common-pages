@@ -5,10 +5,15 @@
 /// Rizvi et al., 2015
 article '25704439
 
+  index: hide
+  line !c
+    + c = Nivolumab has clinically meaningful activity and a manageable safety profile in previously treated patients with advanced, refractory, squamous non-small cell lung cancer. These data support the assessment of nivolumab in randomised, controlled, phase 3 studies of first-line and second-line treatment.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Rizvi NA, Mazieres J, Planchard D, et al. Activity and safety of nivolumab, an anti-PD-1 immune checkpoint inhibitor, for patients with advanced, refractory squamous non-small-cell lung cancer (CheckMate 063): a phase 2, single-arm trial. Lancet Oncol 2015;16:257-265. </div>
+    <div class="Citation-text">Rizvi NA, Mazieres J, Planchard D, et al. Activity and safety of nivolumab, an anti-PD-1 immune checkpoint inhibitor, for patients with advanced, refractory squamous non-small-cell lung cancer (CheckMate 063): a phase 2, single-arm trial. Lancet Oncol 2015;16:257-265.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25704439">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

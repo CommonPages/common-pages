@@ -8,7 +8,7 @@ article '22609733
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Patel SH, Robbins JR, Gore EM, et al. ACR Appropriateness Criteria(R) follow-up and retreatment of brain metastases. Am J Clin Oncol 2012;35:302-306. </div>
+    <div class="Citation-text">Patel SH, Robbins JR, Gore EM, et al. ACR Appropriateness Criteria(R) follow-up and retreatment of brain metastases. Am J Clin Oncol 2012;35:302-306.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22609733">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

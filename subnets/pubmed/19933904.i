@@ -5,10 +5,15 @@
 /// Bogart et al., 2010
 article '19933904
 
+  index: hide
+  line !c
+    + c = Accelerated conformal radiotherapy was well tolerated in a high-risk population with clinical stage I NSCLC. Outcomes are comparable to prospective reports of alternative therapies, including stereotactic body radiation therapy and limited resection, with less apparent severe toxicity. Further investigation of this approach is warranted.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Bogart JA, Hodgson L, Seagren SL, et al. Phase I study of accelerated conformal radiotherapy for stage I non-small-cell lung cancer in patients with pulmonary dysfunction: CALGB 39904. J Clin Oncol 2010;28:202-206. </div>
+    <div class="Citation-text">Bogart JA, Hodgson L, Seagren SL, et al. Phase I study of accelerated conformal radiotherapy for stage I non-small-cell lung cancer in patients with pulmonary dysfunction: CALGB 39904. J Clin Oncol 2010;28:202-206.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19933904">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

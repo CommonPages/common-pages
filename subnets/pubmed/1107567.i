@@ -8,7 +8,7 @@ article '1107567
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Fraumeni JF, Jr. Respiratory carcinogenesis: an epidemiologic appraisal. J Natl Cancer Inst 1975;55:1039-1046. </div>
+    <div class="Citation-text">Fraumeni JF, Jr. Respiratory carcinogenesis: an epidemiologic appraisal. J Natl Cancer Inst 1975;55:1039-1046.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/1107567">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

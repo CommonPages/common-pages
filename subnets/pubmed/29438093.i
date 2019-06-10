@@ -5,10 +5,15 @@
 /// Odogwu et al., 2018
 article '29438093
 
+  index: hide
+  line !c
+    + c = The approvals of dabrafenib and trametinib, administered concurrently, provide a new regimen for the treatment of a rare subset of non-small cell lung cancer (NSCLC) and demonstrate how drugs active for treatment of BRAF-mutant tumors in one setting predict efficacy and can provide supportive evidence for approval in another setting. The FDA also approved the first next-generation sequencing oncology panel test for simultaneous assessment of multiple actionable mutations, which will facilitate selection of optimal, personalized therapy. The test was shown to accurately and reliably select patients with NSCLC with the BRAF V600E mutation for whom treatment with dabrafenib and trametinib is the optimal treatment.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Odogwu L, Mathieu L, Blumenthal G, et al. FDA Approval Summary: dabrafenib and trametinib for the treatment of metastatic non-small cell lung cancers harboring BRAF V600E mutations. Oncologist 2018;23:740-745. </div>
+    <div class="Citation-text">Odogwu L, Mathieu L, Blumenthal G, et al. FDA Approval Summary: dabrafenib and trametinib for the treatment of metastatic non-small cell lung cancers harboring BRAF V600E mutations. Oncologist 2018;23:740-745.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/29438093">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

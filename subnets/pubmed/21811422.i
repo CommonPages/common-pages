@@ -8,7 +8,7 @@ article '21811422
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Dahele M, Senan S. The role of stereotactic ablative radiotherapy for early-stage and oligometastatic non-small cell lung cancer: evidence for changing paradigms. Cancer Res Treat 2011;43:75-82. </div>
+    <div class="Citation-text">Dahele M, Senan S. The role of stereotactic ablative radiotherapy for early-stage and oligometastatic non-small cell lung cancer: evidence for changing paradigms. Cancer Res Treat 2011;43:75-82.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21811422">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

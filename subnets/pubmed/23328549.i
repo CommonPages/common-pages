@@ -5,10 +5,15 @@
 /// Hirsh et al., 2013
 article '23328549
 
+  index: hide
+  line !c
+    + c = In the LUX-Lung 1 trial, the addition of afatinib to BSC significantly improved non-small-cell lung cancer-related symptoms (cough, dyspnea, and pain), fatigue, physical functioning, and HRQoL and significantly delayed time to deterioration of cough.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Hirsh V, Cadranel J, Cong XJ, et al. Symptom and quality of life benefit of afatinib in advanced non-small-cell lung cancer patients previously treated with erlotinib or gefitinib: results of a randomized phase IIb/III trial (LUX-Lung 1). J Thorac Oncol 2013;8:229-237. </div>
+    <div class="Citation-text">Hirsh V, Cadranel J, Cong XJ, et al. Symptom and quality of life benefit of afatinib in advanced non-small-cell lung cancer patients previously treated with erlotinib or gefitinib: results of a randomized phase IIb/III trial (LUX-Lung 1). J Thorac Oncol 2013;8:229-237.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23328549">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Kelly et al., 2001
 article '11432888
 
+  index: hide
+  line !c
+    + c = PC is equally efficacious as VC for the treatment of advanced non--small-cell lung cancer. PC is less toxic and better tolerated but more expensive than VC. New treatment strategies should be pursued.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kelly K, Crowley J, Bunn PA, Jr., et al. Randomized phase III trial of paclitaxel plus carboplatin versus vinorelbine plus cisplatin in the treatment of patients with advanced non--small-cell lung cancer: a Southwest Oncology Group trial. J Clin Oncol 2001;19:3210-3218. </div>
+    <div class="Citation-text">Kelly K, Crowley J, Bunn PA, Jr., et al. Randomized phase III trial of paclitaxel plus carboplatin versus vinorelbine plus cisplatin in the treatment of patients with advanced non--small-cell lung cancer: a Southwest Oncology Group trial. J Clin Oncol 2001;19:3210-3218.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/11432888">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

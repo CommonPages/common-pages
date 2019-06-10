@@ -5,10 +5,15 @@
 /// Camidge et al., 2012
 article '22954507
 
+  index: hide
+  line !c
+    + c = Crizotinib is well tolerated with rapid, durable responses in patients with ALK-positive NSCLC. There seems to be potential for ongoing benefit after initial disease progression in this population, but a more formal definition of ongoing benefit in this context is needed.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Camidge DR, Bang YJ, Kwak EL, et al. Activity and safety of crizotinib in patients with ALK-positive non-small-cell lung cancer: updated results from a phase 1 study. Lancet Oncol 2012;13:1011-1019. </div>
+    <div class="Citation-text">Camidge DR, Bang YJ, Kwak EL, et al. Activity and safety of crizotinib in patients with ALK-positive non-small-cell lung cancer: updated results from a phase 1 study. Lancet Oncol 2012;13:1011-1019.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22954507">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

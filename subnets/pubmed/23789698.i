@@ -5,10 +5,15 @@
 /// Nishino et al., 2013
 article '23789698
 
+  index: hide
+  line !c
+    + c = RECIST 1.1 provided highly concordant response assessment with a decreased number of target lesions compared with RECIST 1.0 in advanced NSCLC patients harboring sensitizing EGFR mutations treated with an EGFR tyrosine kinase inhibitor. RECIST 1.1 altered TTP in 25% of patients compared with RECIST 1.0.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Nishino M, Cardarella S, Jackman DM, et al. RECIST 1.1 in NSCLC patients with EGFR mutations treated with EGFR tyrosine kinase inhibitors: comparison with RECIST 1.0. AJR Am J Roentgenol 2013;201:W64-71. </div>
+    <div class="Citation-text">Nishino M, Cardarella S, Jackman DM, et al. RECIST 1.1 in NSCLC patients with EGFR mutations treated with EGFR tyrosine kinase inhibitors: comparison with RECIST 1.0. AJR Am J Roentgenol 2013;201:W64-71.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23789698">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

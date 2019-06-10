@@ -5,10 +5,15 @@
 /// Ezer et al., 2015
 article '25150635
 
+  index: hide
+  line !c
+    + c = Carboplatin-based CRT is associated with similar long-term survival but lower rates of toxicity. These findings suggest carboplatin may be the most appropriate chemotherapeutic agent for elderly stage III patients.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ezer N, Smith CB, Galsky MD, et al. Cisplatin vs. carboplatin-based chemoradiotherapy in patients >65 years of age with stage III non-small cell lung cancer. Radiother Oncol 2014;112:272-278. </div>
+    <div class="Citation-text">Ezer N, Smith CB, Galsky MD, et al. Cisplatin vs. carboplatin-based chemoradiotherapy in patients >65 years of age with stage III non-small cell lung cancer. Radiother Oncol 2014;112:272-278.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25150635">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

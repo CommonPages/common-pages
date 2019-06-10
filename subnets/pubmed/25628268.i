@@ -13,7 +13,7 @@ article '25628268
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Langer CJ, Socinski MA, Patel JD, et al. Isolating the role of bevacizumab in elderly patients with previously untreated nonsquamous non-small cell lung cancer: secondary analyses of the ECOG 4599 and PointBreak trials. Am J Clin Oncol 2016;39:441-447. </div>
+    <div class="Citation-text">Langer CJ, Socinski MA, Patel JD, et al. Isolating the role of bevacizumab in elderly patients with previously untreated nonsquamous non-small cell lung cancer: secondary analyses of the ECOG 4599 and PointBreak trials. Am J Clin Oncol 2016;39:441-447.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25628268">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

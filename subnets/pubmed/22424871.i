@@ -8,7 +8,7 @@ article '22424871
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Moreira AL, Thornton RH. Personalized medicine for non-small-cell lung cancer: implications of recent advances in tissue acquisition for molecular and histologic testing. Clin Lung Cancer 2012;13:334-339. </div>
+    <div class="Citation-text">Moreira AL, Thornton RH. Personalized medicine for non-small-cell lung cancer: implications of recent advances in tissue acquisition for molecular and histologic testing. Clin Lung Cancer 2012;13:334-339.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22424871">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

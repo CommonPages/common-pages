@@ -13,7 +13,7 @@ article '24885803
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ali G, Proietti A, Pelliccioni S, et al. ALK rearrangement in a large series of consecutive non-small cell lung cancers: comparison between a new immunohistochemical approach and fluorescence in situ hybridization for the screening of patients eligible for crizotinib treatment. Arch Pathol Lab Med 2014;138:1449-1458. </div>
+    <div class="Citation-text">Ali G, Proietti A, Pelliccioni S, et al. ALK rearrangement in a large series of consecutive non-small cell lung cancers: comparison between a new immunohistochemical approach and fluorescence in situ hybridization for the screening of patients eligible for crizotinib treatment. Arch Pathol Lab Med 2014;138:1449-1458.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24885803">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '29752319
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Mitchell RL, Kosche C, Burgess K, et al. Misdiagnosis of Li-Fraumeni Syndrome in a patient with clonal hematopoiesis and a somatic TP53 mutation. J Natl Compr Canc Netw 2018;16:461-466. </div>
+    <div class="Citation-text">Mitchell RL, Kosche C, Burgess K, et al. Misdiagnosis of Li-Fraumeni Syndrome in a patient with clonal hematopoiesis and a somatic TP53 mutation. J Natl Compr Canc Netw 2018;16:461-466.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/29752319">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

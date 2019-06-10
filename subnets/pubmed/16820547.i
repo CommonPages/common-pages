@@ -13,7 +13,7 @@ article '16820547
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Jorenby DE, Hays JT, Rigotti NA, et al. Efficacy of varenicline, an alpha4beta2 nicotinic acetylcholine receptor partial agonist, vs placebo or sustained-release bupropion for smoking cessation: a randomized controlled trial. JAMA 2006;296:56-63. </div>
+    <div class="Citation-text">Jorenby DE, Hays JT, Rigotti NA, et al. Efficacy of varenicline, an alpha4beta2 nicotinic acetylcholine receptor partial agonist, vs placebo or sustained-release bupropion for smoking cessation: a randomized controlled trial. JAMA 2006;296:56-63.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/16820547">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

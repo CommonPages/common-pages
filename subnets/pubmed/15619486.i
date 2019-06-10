@@ -13,7 +13,7 @@ article '15619486
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Demmy TL, Plante AJ, Nwogu CE, et al. Discharge independence with minimally invasive lobectomy. Am J Surg 2004;188:698-702. </div>
+    <div class="Citation-text">Demmy TL, Plante AJ, Nwogu CE, et al. Discharge independence with minimally invasive lobectomy. Am J Surg 2004;188:698-702.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/15619486">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

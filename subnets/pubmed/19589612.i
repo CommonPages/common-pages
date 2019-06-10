@@ -13,7 +13,7 @@ article '19589612
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Onitsuka T, Uramoto H, Nose N, et al. Acquired resistance to gefitinib: the contribution of mechanisms other than the T790M, MET, and HGF status. Lung Cancer 2010;68:198-203. </div>
+    <div class="Citation-text">Onitsuka T, Uramoto H, Nose N, et al. Acquired resistance to gefitinib: the contribution of mechanisms other than the T790M, MET, and HGF status. Lung Cancer 2010;68:198-203.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19589612">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

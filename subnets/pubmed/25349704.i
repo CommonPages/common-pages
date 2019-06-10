@@ -8,7 +8,7 @@ article '25349704
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Gardiner N, Jogai S, Wallis A. The revised lung adenocarcinoma classification-an imaging guide. J Thorac Dis 2014;6:S537-546. </div>
+    <div class="Citation-text">Gardiner N, Jogai S, Wallis A. The revised lung adenocarcinoma classification-an imaging guide. J Thorac Dis 2014;6:S537-546.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25349704">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '30280635
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Paz-Ares L, Luft A, Vicente D, et al. Pembrolizumab plus chemotherapy for squamous non-small-cell lung cancer. N Engl J Med 2018;379:2040-2051. </div>
+    <div class="Citation-text">Paz-Ares L, Luft A, Vicente D, et al. Pembrolizumab plus chemotherapy for squamous non-small-cell lung cancer. N Engl J Med 2018;379:2040-2051.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/30280635">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

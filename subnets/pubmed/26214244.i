@@ -13,7 +13,7 @@ article '26214244
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Gould MK, Tang T, Liu IL, et al. Recent trends in the identification of incidental pulmonary nodules. Am J Respir Crit Care Med 2015;192:1208-1214. </div>
+    <div class="Citation-text">Gould MK, Tang T, Liu IL, et al. Recent trends in the identification of incidental pulmonary nodules. Am J Respir Crit Care Med 2015;192:1208-1214.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26214244">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

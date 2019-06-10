@@ -8,7 +8,7 @@ article '26348216
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ribas A. Releasing the brakes on cancer immunotherapy. N Engl J Med 2015;373:1490-1492. </div>
+    <div class="Citation-text">Ribas A. Releasing the brakes on cancer immunotherapy. N Engl J Med 2015;373:1490-1492.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26348216">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '23276369
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Tree AC, Khoo VS, Eeles RA, et al. Stereotactic body radiotherapy for oligometastases. Lancet Oncol 2013;14:e28-37. </div>
+    <div class="Citation-text">Tree AC, Khoo VS, Eeles RA, et al. Stereotactic body radiotherapy for oligometastases. Lancet Oncol 2013;14:e28-37.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23276369">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

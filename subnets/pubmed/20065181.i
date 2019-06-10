@@ -8,7 +8,7 @@ article '20065181
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Grills IS, Mangona VS, Welsh R, et al. Outcomes after stereotactic lung radiotherapy or wedge resection for stage I non-small-cell lung cancer. J Clin Oncol 2010;28:928-935. </div>
+    <div class="Citation-text">Grills IS, Mangona VS, Welsh R, et al. Outcomes after stereotactic lung radiotherapy or wedge resection for stage I non-small-cell lung cancer. J Clin Oncol 2010;28:928-935.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20065181">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

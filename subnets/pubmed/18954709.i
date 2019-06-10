@@ -13,7 +13,7 @@ article '18954709
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Chang JY, Balter PA, Dong L, et al. Stereotactic body radiation therapy in centrally and superiorly located stage I or isolated recurrent non-small-cell lung cancer. Int J Radiat Oncol Biol Phys 2008;72:967-971. </div>
+    <div class="Citation-text">Chang JY, Balter PA, Dong L, et al. Stereotactic body radiation therapy in centrally and superiorly located stage I or isolated recurrent non-small-cell lung cancer. Int J Radiat Oncol Biol Phys 2008;72:967-971.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18954709">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

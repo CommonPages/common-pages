@@ -8,7 +8,7 @@ article '25754348
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Khozin S, Blumenthal GM, Zhang L, et al. FDA approval: ceritinib for the treatment of metastatic anaplastic lymphoma kinase-positive non-small cell lung cancer. Clin Cancer Res 2015;21:2436-2439. </div>
+    <div class="Citation-text">Khozin S, Blumenthal GM, Zhang L, et al. FDA approval: ceritinib for the treatment of metastatic anaplastic lymphoma kinase-positive non-small cell lung cancer. Clin Cancer Res 2015;21:2436-2439.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25754348">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Douillard et al., 2014
 article '24263064
 
+  index: hide
+  line !c
+    + c = First-line gefitinib was effective and well tolerated in Caucasian patients with EGFR mutation-positive NSCLC. Plasma samples could be considered for mutation analysis if tumour tissue is unavailable.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Douillard JY, Ostoros G, Cobo M, et al. First-line gefitinib in Caucasian EGFR mutation-positive NSCLC patients: a phase-IV, open-label, single-arm study. Br J Cancer 2014;110:55-62. </div>
+    <div class="Citation-text">Douillard JY, Ostoros G, Cobo M, et al. First-line gefitinib in Caucasian EGFR mutation-positive NSCLC patients: a phase-IV, open-label, single-arm study. Br J Cancer 2014;110:55-62.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24263064">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

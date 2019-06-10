@@ -8,7 +8,7 @@ article '24790839
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Villamizar N, Swanson SJ. Lobectomy vs. segmentectomy for NSCLC (T<2 cm). Ann Cardiothorac Surg 2014;3:160-166. </div>
+    <div class="Citation-text">Villamizar N, Swanson SJ. Lobectomy vs. segmentectomy for NSCLC (T<2 cm). Ann Cardiothorac Surg 2014;3:160-166.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24790839">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

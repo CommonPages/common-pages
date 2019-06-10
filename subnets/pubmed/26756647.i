@@ -8,7 +8,7 @@ article '26756647
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kerr KM, Hirsch FR. Programmed death ligand-1 immunohistochemistry: friend or foe? Arch Pathol Lab Med 2016;140:326-331. </div>
+    <div class="Citation-text">Kerr KM, Hirsch FR. Programmed death ligand-1 immunohistochemistry: friend or foe? Arch Pathol Lab Med 2016;140:326-331.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26756647">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '19357537
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Rusch VW, Asamura H, Watanabe H, et al. The IASLC lung cancer staging project: a proposal for a new international lymph node map in the forthcoming seventh edition of the TNM classification for lung cancer. J Thorac Oncol 2009;4:568-577. </div>
+    <div class="Citation-text">Rusch VW, Asamura H, Watanabe H, et al. The IASLC lung cancer staging project: a proposal for a new international lymph node map in the forthcoming seventh edition of the TNM classification for lung cancer. J Thorac Oncol 2009;4:568-577.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19357537">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

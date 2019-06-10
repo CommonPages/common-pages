@@ -8,7 +8,7 @@ article '26324366
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Yu PP, Vose JM, Hayes DF. Genetic cancer susceptibility testing: increased technology, increased complexity. J Clin Oncol 2015;33:3533-3534. </div>
+    <div class="Citation-text">Yu PP, Vose JM, Hayes DF. Genetic cancer susceptibility testing: increased technology, increased complexity. J Clin Oncol 2015;33:3533-3534.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26324366">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

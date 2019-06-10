@@ -5,10 +5,15 @@
 /// Zhou et al., 2011
 article '21783417
 
+  index: hide
+  line !c
+    + c = Compared with standard chemotherapy, erlotinib conferred a significant progression-free survival benefit in patients with advanced EGFR mutation-positive NSCLC and was associated with more favourable tolerability. These findings suggest that erlotinib is important for first-line treatment of patients with advanced EGFR mutation-positive NSCLC.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Zhou C, Wu YL, Chen G, et al. Erlotinib versus chemotherapy as first-line treatment for patients with advanced EGFR mutation-positive non-small-cell lung cancer (OPTIMAL, CTONG-0802): a multicentre, open-label, randomised, phase 3 study. Lancet Oncol 2011;12:735-742. </div>
+    <div class="Citation-text">Zhou C, Wu YL, Chen G, et al. Erlotinib versus chemotherapy as first-line treatment for patients with advanced EGFR mutation-positive non-small-cell lung cancer (OPTIMAL, CTONG-0802): a multicentre, open-label, randomised, phase 3 study. Lancet Oncol 2011;12:735-742.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21783417">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

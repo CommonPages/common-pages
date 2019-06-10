@@ -5,10 +5,15 @@
 /// Hackshaw et al., 1997
 article '9365295
 
+  index: hide
+  line !c
+    + c = The epidemiological and biochemical evidence on exposure to environmental tobacco smoke, with the supporting evidence of tobacco specific carcinogens in the blood and urine of non-smokers exposed to environmental tobacco smoke, provides compelling confirmation that breathing other people's tobacco smoke is a cause of lung cancer.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Hackshaw AK, Law MR, Wald NJ. The accumulated evidence on lung cancer and environmental tobacco smoke. BMJ 1997;315:980-988. </div>
+    <div class="Citation-text">Hackshaw AK, Law MR, Wald NJ. The accumulated evidence on lung cancer and environmental tobacco smoke. BMJ 1997;315:980-988.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/9365295">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

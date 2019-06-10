@@ -5,10 +5,15 @@
 /// Bradley et al., 2005
 article '15908657
 
+  index: hide
+  line !c
+    + c = The mature results of this trial suggest an improved overall and progression-free survival in this group of resected NSCLC patients, compared with previously reported trials. A phase III trial comparing this treatment regimen with standard therapy seems warranted.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Bradley JD, Paulus R, Graham MV, et al. Phase II trial of postoperative adjuvant paclitaxel/carboplatin and thoracic radiotherapy in resected stage II and IIIA non-small-cell lung cancer: promising long-term results of the Radiation Therapy Oncology Group--RTOG 9705. J Clin Oncol 2005;23:3480-3487. </div>
+    <div class="Citation-text">Bradley JD, Paulus R, Graham MV, et al. Phase II trial of postoperative adjuvant paclitaxel/carboplatin and thoracic radiotherapy in resected stage II and IIIA non-small-cell lung cancer: promising long-term results of the Radiation Therapy Oncology Group--RTOG 9705. J Clin Oncol 2005;23:3480-3487.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/15908657">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

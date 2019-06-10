@@ -8,7 +8,7 @@ article '15886311
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Giaccone G. Epidermal growth factor receptor inhibitors in the treatment of non-small-cell lung cancer. J Clin Oncol 2005;23:3235-3242. </div>
+    <div class="Citation-text">Giaccone G. Epidermal growth factor receptor inhibitors in the treatment of non-small-cell lung cancer. J Clin Oncol 2005;23:3235-3242.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/15886311">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

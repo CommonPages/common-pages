@@ -13,7 +13,7 @@ article '25517706
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Walker N, Howe C, Glover M, et al. Cytisine versus Nicotine for Smoking Cessation. N Engl J Med 2014;371:2353-2362. </div>
+    <div class="Citation-text">Walker N, Howe C, Glover M, et al. Cytisine versus Nicotine for Smoking Cessation. N Engl J Med 2014;371:2353-2362.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25517706">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '17532379
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Whitson BA, Andrade RS, Boettcher A, et al. Video-assisted thoracoscopic surgery is more favorable than thoracotomy for resection of clinical stage I non-small cell lung cancer. Ann Thorac Surg 2007;83:1965-1970. </div>
+    <div class="Citation-text">Whitson BA, Andrade RS, Boettcher A, et al. Video-assisted thoracoscopic surgery is more favorable than thoracotomy for resection of clinical stage I non-small cell lung cancer. Ann Thorac Surg 2007;83:1965-1970.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17532379">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Chang et al., 2009
 article '19801201
 
+  index: hide
+  line !c
+    + c = Patients treated with SRS plus WBRT were at a greater risk of a significant decline in learning and memory function by 4 months compared with the group that received SRS alone. Initial treatment with a combination of SRS and close clinical monitoring is recommended as the preferred treatment strategy to better preserve learning and memory in patients with newly diagnosed brain metastases.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Chang EL, Wefel JS, Hess KR, et al. Neurocognition in patients with brain metastases treated with radiosurgery or radiosurgery plus whole-brain irradiation: a randomised controlled trial. Lancet Oncol 2009;10:1037-1044. </div>
+    <div class="Citation-text">Chang EL, Wefel JS, Hess KR, et al. Neurocognition in patients with brain metastases treated with radiosurgery or radiosurgery plus whole-brain irradiation: a randomised controlled trial. Lancet Oncol 2009;10:1037-1044.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19801201">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

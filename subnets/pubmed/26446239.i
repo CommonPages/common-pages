@@ -5,10 +5,15 @@
 /// Larkins et al., 2016
 article '26446239
 
+  index: hide
+  line !c
+    + c = This report presents key information on the U.S. Food and Drug Administration approval of ramucirumab, a monoclonal antibody targeting vascular endothelial growth factor receptor-2, given in combination with docetaxel for the treatment of patients with metastatic non-small cell lung cancer whose disease has progressed on or after platinum-based chemotherapy. This report specifically addresses the issues of safety in patients with squamous cell tumors, effect of treatment in elderly patients, and uncertainties regarding effects in patients with tumors harboring epidermal growth factor receptor or anaplastic lymphoma kinase genomic tumor aberrations.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Larkins E, Scepura B, Blumenthal GM, et al. U.S. Food and Drug Administration Approval Summary: ramucirumab for the treatment of metastatic non-small cell lung cancer following disease progression on or after platinum-based chemotherapy. Oncologist 2015;20:1320-1325. </div>
+    <div class="Citation-text">Larkins E, Scepura B, Blumenthal GM, et al. U.S. Food and Drug Administration Approval Summary: ramucirumab for the treatment of metastatic non-small cell lung cancer following disease progression on or after platinum-based chemotherapy. Oncologist 2015;20:1320-1325.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26446239">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

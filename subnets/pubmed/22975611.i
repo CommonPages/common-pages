@@ -13,7 +13,7 @@ article '22975611
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Shirvani SM, Jiang J, Chang JY, et al. Comparative effectiveness of 5 treatment strategies for early-stage non-small cell lung cancer in the elderly. Int J Radiat Oncol Biol Phys 2012;84:1060-1070. </div>
+    <div class="Citation-text">Shirvani SM, Jiang J, Chang JY, et al. Comparative effectiveness of 5 treatment strategies for early-stage non-small cell lung cancer in the elderly. Int J Radiat Oncol Biol Phys 2012;84:1060-1070.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22975611">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

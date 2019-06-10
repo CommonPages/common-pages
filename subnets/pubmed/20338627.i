@@ -5,10 +5,15 @@
 ///  et al., 2010
 article '20338627
 
+  index: hide
+  line !c
+    + c = The addition of adjuvant chemotherapy after surgery for patients with operable non-small-cell lung cancer improves survival, irrespective of whether chemotherapy was adjuvant to surgery alone or adjuvant to surgery plus radiotherapy.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Group NM-aC, Arriagada R, Auperin A, et al. Adjuvant chemotherapy, with or without postoperative radiotherapy, in operable non-small-cell lung cancer: two meta-analyses of individual patient data. Lancet 2010;375:1267-1277. </div>
+    <div class="Citation-text">Group NM-aC, Arriagada R, Auperin A, et al. Adjuvant chemotherapy, with or without postoperative radiotherapy, in operable non-small-cell lung cancer: two meta-analyses of individual patient data. Lancet 2010;375:1267-1277.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20338627">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

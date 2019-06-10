@@ -8,7 +8,7 @@ article '27026676
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Sul J, Blumenthal GM, Jiang X, et al. FDA approval summary: pembrolizumab for the treatment of patients with metastatic non-small cell lung cancer whose tumors express programmed death-ligand 1. Oncologist 2016;21:643-650. </div>
+    <div class="Citation-text">Sul J, Blumenthal GM, Jiang X, et al. FDA approval summary: pembrolizumab for the treatment of patients with metastatic non-small cell lung cancer whose tumors express programmed death-ligand 1. Oncologist 2016;21:643-650.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27026676">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

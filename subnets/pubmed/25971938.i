@@ -5,10 +5,15 @@
 /// Frampton et al., 2016
 article '25971938
 
+  index: hide
+  line !c
+    + c = Here we report the identification of diverse exon 14 splice site alterations in MET that result in constitutive activity of this receptor and oncogenic transformation in vitro. Patients whose tumors harbored these alterations derived meaningful clinical benefit from MET inhibitors. Collectively, these data support the role of METex14 alterations as drivers of tumorigenesis, and identify a unique subset of patients likely to derive benefit from MET inhibitors.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Frampton GM, Ali SM, Rosenzweig M, et al. Activation of MET via diverse exon 14 splicing alterations occurs in multiple tumor types and confers clinical sensitivity to MET inhibitors. Cancer Discov 2015;5:850-859. </div>
+    <div class="Citation-text">Frampton GM, Ali SM, Rosenzweig M, et al. Activation of MET via diverse exon 14 splicing alterations occurs in multiple tumor types and confers clinical sensitivity to MET inhibitors. Cancer Discov 2015;5:850-859.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25971938">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '20171523
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Werner-Wasik M, Yorke E, Deasy J, et al. Radiation dose-volume effects in the esophagus. Int J Radiat Oncol Biol Phys 2010;76:S86-93. </div>
+    <div class="Citation-text">Werner-Wasik M, Yorke E, Deasy J, et al. Radiation dose-volume effects in the esophagus. Int J Radiat Oncol Biol Phys 2010;76:S86-93.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20171523">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

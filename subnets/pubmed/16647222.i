@@ -13,7 +13,7 @@ article '16647222
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kong FM, Hayman JA, Griffith KA, et al. Final toxicity results of a radiation-dose escalation study in patients with non-small-cell lung cancer (NSCLC): predictors for radiation pneumonitis and fibrosis. Int J Radiat Oncol Biol Phys 2006;65:1075-1086. </div>
+    <div class="Citation-text">Kong FM, Hayman JA, Griffith KA, et al. Final toxicity results of a radiation-dose escalation study in patients with non-small-cell lung cancer (NSCLC): predictors for radiation pneumonitis and fibrosis. Int J Radiat Oncol Biol Phys 2006;65:1075-1086.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/16647222">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

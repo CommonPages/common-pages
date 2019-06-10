@@ -5,10 +5,15 @@
 /// Palma et al., 2011
 article '21041709
 
+  index: hide
+  line !c
+    + c = SBRT introduction was associated with a 16% absolute increase in RT use, a decline in the proportion of untreated elderly patients, and an improvement in OS.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Palma D, Visser O, Lagerwaard FJ, et al. Impact of introducing stereotactic lung radiotherapy for elderly patients with stage I non-small-cell lung cancer: a population-based time-trend analysis. J Clin Oncol 2010;28:5153-5159. </div>
+    <div class="Citation-text">Palma D, Visser O, Lagerwaard FJ, et al. Impact of introducing stereotactic lung radiotherapy for elderly patients with stage I non-small-cell lung cancer: a population-based time-trend analysis. J Clin Oncol 2010;28:5153-5159.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21041709">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

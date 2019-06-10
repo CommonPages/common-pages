@@ -5,10 +5,15 @@
 /// Belani et al., 2008
 article '18202422
 
+  index: hide
+  line !c
+    + c = All efficacy parameters were similar between the two treatment arms. The favorable nonhematologic toxicity profile of arm 1 makes this an alternative treatment option for patients with advanced NSCLC.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Belani CP, Ramalingam S, Perry MC, et al. Randomized, phase III study of weekly paclitaxel in combination with carboplatin versus standard every-3-weeks administration of carboplatin and paclitaxel for patients with previously untreated advanced non-small-cell lung cancer. J Clin Oncol 2008;26:468-473. </div>
+    <div class="Citation-text">Belani CP, Ramalingam S, Perry MC, et al. Randomized, phase III study of weekly paclitaxel in combination with carboplatin versus standard every-3-weeks administration of carboplatin and paclitaxel for patients with previously untreated advanced non-small-cell lung cancer. J Clin Oncol 2008;26:468-473.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18202422">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

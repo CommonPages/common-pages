@@ -13,7 +13,7 @@ article '16740598
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Green MR, Manikhas GM, Orlov S, et al. Abraxane, a novel Cremophor-free, albumin-bound particle form of paclitaxel for the treatment of advanced non-small-cell lung cancer. Ann Oncol 2006;17:1263-1268. </div>
+    <div class="Citation-text">Green MR, Manikhas GM, Orlov S, et al. Abraxane, a novel Cremophor-free, albumin-bound particle form of paclitaxel for the treatment of advanced non-small-cell lung cancer. Ann Oncol 2006;17:1263-1268.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/16740598">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

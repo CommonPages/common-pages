@@ -13,7 +13,7 @@ article '18249000
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Lee JG, Lee CY, Kim DJ, et al. Non-small cell lung cancer with ipsilateral pulmonary metastases: prognosis analysis and staging assessment. Eur J Cardiothorac Surg 2008;33:480-484. </div>
+    <div class="Citation-text">Lee JG, Lee CY, Kim DJ, et al. Non-small cell lung cancer with ipsilateral pulmonary metastases: prognosis analysis and staging assessment. Eur J Cardiothorac Surg 2008;33:480-484.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18249000">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

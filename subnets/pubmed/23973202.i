@@ -5,10 +5,15 @@
 /// Griffioen et al., 2014
 article '23973202
 
+  index: hide
+  line !c
+    + c = Radical treatment of selected NSCLC patients presenting with 1-3 synchronous metastases can result in favorable 2-year survivals. Favorable outcomes were associated with intra-thoracic disease status: patients with small radiotherapy treatment volumes or resected disease had the best OS. Future prospective clinical trials, ideally randomized, should evaluate radical treatment strategies in such patients.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Griffioen GH, Toguri D, Dahele M, et al. Radical treatment of synchronous oligometastatic non-small cell lung carcinoma (NSCLC): patient outcomes and prognostic factors. Lung Cancer 2013;82:95-102. </div>
+    <div class="Citation-text">Griffioen GH, Toguri D, Dahele M, et al. Radical treatment of synchronous oligometastatic non-small cell lung carcinoma (NSCLC): patient outcomes and prognostic factors. Lung Cancer 2013;82:95-102.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23973202">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Timmerman et al., 2006
 article '17050868
 
+  index: hide
+  line !c
+    + c = High rates of local control are achieved with this SBRT regimen in medically inoperable patients with stage I NSCLC. Both local recurrence and toxicity occur late after this treatment. This regimen should not be used for patients with tumors near the central airways due to excessive toxicity.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Timmerman R, McGarry R, Yiannoutsos C, et al. Excessive toxicity when treating central tumors in a phase II study of stereotactic body radiation therapy for medically inoperable early-stage lung cancer. J Clin Oncol 2006;24:4833-4839. </div>
+    <div class="Citation-text">Timmerman R, McGarry R, Yiannoutsos C, et al. Excessive toxicity when treating central tumors in a phase II study of stereotactic body radiation therapy for medically inoperable early-stage lung cancer. J Clin Oncol 2006;24:4833-4839.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17050868">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

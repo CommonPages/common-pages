@@ -5,10 +5,15 @@
 /// Terasawa et al., 2009
 article '19755348
 
+  index: hide
+  line !c
+    + c = Few studies directly compared treatments with or without particle irradiation.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Terasawa T, Dvorak T, Ip S, et al. Systematic review: charged-particle radiation therapy for cancer. Ann Intern Med 2009;151:556-565. </div>
+    <div class="Citation-text">Terasawa T, Dvorak T, Ip S, et al. Systematic review: charged-particle radiation therapy for cancer. Ann Intern Med 2009;151:556-565.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19755348">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '12048091
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Thomas P, Doddoli C, Yena S, et al. VATS is an adequate oncological operation for stage I non-small cell lung cancer. Eur J Cardiothorac Surg 2002;21:1094-1099. </div>
+    <div class="Citation-text">Thomas P, Doddoli C, Yena S, et al. VATS is an adequate oncological operation for stage I non-small cell lung cancer. Eur J Cardiothorac Surg 2002;21:1094-1099.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/12048091">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

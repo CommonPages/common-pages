@@ -13,7 +13,7 @@ article '19633473
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Stephans KL, Djemil T, Reddy CA, et al. A comparison of two stereotactic body radiation fractionation schedules for medically inoperable stage I non-small cell lung cancer: the Cleveland Clinic experience. J Thorac Oncol 2009;4:976-982. </div>
+    <div class="Citation-text">Stephans KL, Djemil T, Reddy CA, et al. A comparison of two stereotactic body radiation fractionation schedules for medically inoperable stage I non-small cell lung cancer: the Cleveland Clinic experience. J Thorac Oncol 2009;4:976-982.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19633473">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

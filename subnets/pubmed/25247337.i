@@ -5,10 +5,15 @@
 /// Hoffknecht et al., 2015
 article '25247337
 
+  index: hide
+  line !c
+    + c = Afatinib appears to penetrate into the CNS with concentrations high enough to have clinical effect on CNS metastases. Afatinib may therefore be an effective treatment for heavily pretreated patients with EGFR-mutated or EGFR-TKI-sensitive NSCLC and CNS metastasis.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Hoffknecht P, Tufman A, Wehler T, et al. Efficacy of the irreversible ErbB family blocker afatinib in epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor (TKI)-pretreated non-small-cell lung cancer patients with brain metastases or leptomeningeal disease. J Thorac Oncol 2015;10:156-163. </div>
+    <div class="Citation-text">Hoffknecht P, Tufman A, Wehler T, et al. Efficacy of the irreversible ErbB family blocker afatinib in epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor (TKI)-pretreated non-small-cell lung cancer patients with brain metastases or leptomeningeal disease. J Thorac Oncol 2015;10:156-163.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25247337">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

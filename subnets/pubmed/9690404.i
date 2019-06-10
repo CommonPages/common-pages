@@ -5,10 +5,15 @@
 /// Postoperative radiotherapy in non-small-…
 article '9690404
 
+  index: hide
+  line !c
+    + c = Postoperative radiotherapy is detrimental to patients with early-stage completely resected NSCLC and should not be used routinely for such patients. The role of postoperative radiotherapy in the treatment of N2 tumours is not clear and may warrant further research.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Postoperative radiotherapy in non-small-cell lung cancer: systematic review and meta-analysis of individual patient data from nine randomised controlled trials. PORT Meta-analysis Trialists Group. Lancet 1998;352:257-263. </div>
+    <div class="Citation-text">Postoperative radiotherapy in non-small-cell lung cancer: systematic review and meta-analysis of individual patient data from nine randomised controlled trials. PORT Meta-analysis Trialists Group. Lancet 1998;352:257-263.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/9690404">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

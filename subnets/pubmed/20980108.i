@@ -13,7 +13,7 @@ article '20980108
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Machtay M, Bae K, Movsas B, et al. Higher biologically effective dose of radiotherapy is associated with improved outcomes for locally advanced non-small cell lung carcinoma treated with chemoradiation: an analysis of the Radiation Therapy Oncology Group. Int J Radiat Oncol Biol Phys 2012;82:425-434. </div>
+    <div class="Citation-text">Machtay M, Bae K, Movsas B, et al. Higher biologically effective dose of radiotherapy is associated with improved outcomes for locally advanced non-small cell lung carcinoma treated with chemoradiation: an analysis of the Radiation Therapy Oncology Group. Int J Radiat Oncol Biol Phys 2012;82:425-434.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20980108">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

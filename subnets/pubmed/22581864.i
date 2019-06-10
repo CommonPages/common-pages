@@ -8,7 +8,7 @@ article '22581864
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Bilal H, Mahmood S, Rajashanker B, Shah R. Is radiofrequency ablation more effective than stereotactic ablative radiotherapy in patients with early stage medically inoperable non-small cell lung cancer? Interact Cardiovasc Thorac Surg 2012;15:258-265. </div>
+    <div class="Citation-text">Bilal H, Mahmood S, Rajashanker B, Shah R. Is radiofrequency ablation more effective than stereotactic ablative radiotherapy in patients with early stage medically inoperable non-small cell lung cancer? Interact Cardiovasc Thorac Surg 2012;15:258-265.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22581864">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

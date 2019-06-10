@@ -8,7 +8,7 @@ article '28577943
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> O'Kane GM, Bradbury PA, Feld R, et al. Uncommon EGFR mutations in advanced non-small cell lung cancer. Lung Cancer 2017;109:137-144. </div>
+    <div class="Citation-text">O'Kane GM, Bradbury PA, Feld R, et al. Uncommon EGFR mutations in advanced non-small cell lung cancer. Lung Cancer 2017;109:137-144.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/28577943">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

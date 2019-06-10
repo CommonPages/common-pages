@@ -13,7 +13,7 @@ article '8158698
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Roth JA, Fossella F, Komaki R, et al. A randomized trial comparing perioperative chemotherapy and surgery with surgery alone in resectable stage IIIA non-small-cell lung cancer. J Natl Cancer Inst 1994;86:673-680. </div>
+    <div class="Citation-text">Roth JA, Fossella F, Komaki R, et al. A randomized trial comparing perioperative chemotherapy and surgery with surgery alone in resectable stage IIIA non-small-cell lung cancer. J Natl Cancer Inst 1994;86:673-680.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/8158698">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

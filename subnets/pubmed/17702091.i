@@ -13,7 +13,7 @@ article '17702091
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ou SH, Zell JA, Ziogas A, Anton-Culver H. Prognostic factors for survival of stage I nonsmall cell lung cancer patients : a population-based analysis of 19,702 stage I patients in the California Cancer Registry from 1989 to 2003. Cancer 2007;110:1532-1541. </div>
+    <div class="Citation-text">Ou SH, Zell JA, Ziogas A, Anton-Culver H. Prognostic factors for survival of stage I nonsmall cell lung cancer patients : a population-based analysis of 19,702 stage I patients in the California Cancer Registry from 1989 to 2003. Cancer 2007;110:1532-1541.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17702091">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

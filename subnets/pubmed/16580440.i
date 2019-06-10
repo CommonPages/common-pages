@@ -5,10 +5,15 @@
 /// Meyers et al., 2006
 article '16580440
 
+  index: hide
+  line !c
+    + c = Patients with clinical stage I lung cancer staged by computed tomography and positron emission tomography benefit little from mediastinoscopy. The survival advantage it confers is very small and is dependent on the prevalence of N2 metastasis and the unproven superiority of induction therapy over adjuvant therapy.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Meyers BF, Haddad F, Siegel BA, et al. Cost-effectiveness of routine mediastinoscopy in computed tomography- and positron emission tomography-screened patients with stage I lung cancer. J Thorac Cardiovasc Surg 2006;131:822-829; discussion 822-829. </div>
+    <div class="Citation-text">Meyers BF, Haddad F, Siegel BA, et al. Cost-effectiveness of routine mediastinoscopy in computed tomography- and positron emission tomography-screened patients with stage I lung cancer. J Thorac Cardiovasc Surg 2006;131:822-829; discussion 822-829.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/16580440">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

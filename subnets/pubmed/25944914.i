@@ -5,10 +5,15 @@
 /// Bezjak et al., 2015
 article '25944914
 
+  index: hide
+  line !c
+    + c = For curative-intent treatment of locally advanced NSCLC, concurrent chemoradiotherapy improves local control and overall survival compared with sequential chemotherapy followed by radiation. The standard dose-fractionation of radiation is 60 Gy given in 2-Gy once-daily fractions over 6 weeks. There is no role for the routine use of induction therapy before chemoradiotherapy. Current data fail to support a clear role for consolidation therapy after chemoradiotherapy; however, consolidation therapy remains an option for patients who did not receive full systemic chemotherapy doses during radiotherapy. Important questions remain about the ideal concurrent chemotherapy regimen and optimal management of patients with resectable stage III disease.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Bezjak A, Temin S, Franklin G, et al. Definitive and adjuvant radiotherapy in locally advanced non-small-cell lung cancer: American Society of Clinical Oncology Clinical Practice Guideline Endorsement of the American Society for Radiation Oncology Evidence-Based Clinical Practice Guideline. J Clin Oncol 2015;33:2100-2105. </div>
+    <div class="Citation-text">Bezjak A, Temin S, Franklin G, et al. Definitive and adjuvant radiotherapy in locally advanced non-small-cell lung cancer: American Society of Clinical Oncology Clinical Practice Guideline Endorsement of the American Society for Radiation Oncology Evidence-Based Clinical Practice Guideline. J Clin Oncol 2015;33:2100-2105.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25944914">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '21729655
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Han HS, Eom DW, Kim JH, et al. EGFR mutation status in primary lung adenocarcinomas and corresponding metastatic lesions: discordance in pleural metastases. Clin Lung Cancer 2011;12:380-386. </div>
+    <div class="Citation-text">Han HS, Eom DW, Kim JH, et al. EGFR mutation status in primary lung adenocarcinomas and corresponding metastatic lesions: discordance in pleural metastases. Clin Lung Cancer 2011;12:380-386.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21729655">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

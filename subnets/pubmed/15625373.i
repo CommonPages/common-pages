@@ -5,6 +5,11 @@
 /// Lilenbaum et al., 2005
 article '15625373
 
+  index: hide
+  line !c
+    + c = Combination chemotherapy improves response rate and failure-free survival compared with single-agent therapy, but there was no statistically significant difference in the primary end point of overall survival. The results in elderly patients were similar to younger patients. Performance status 2 patients had a superior outcome when treated with combination chemotherapy.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">

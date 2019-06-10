@@ -5,10 +5,15 @@
 /// Kunitoh et al., 2008
 article '18235125
 
+  index: hide
+  line !c
+    + c = This trimodality approach is safe and effective for the treatment of patients with SSTs.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kunitoh H, Kato H, Tsuboi M, et al. Phase II trial of preoperative chemoradiotherapy followed by surgical resection in patients with superior sulcus non-small-cell lung cancers: report of Japan Clinical Oncology Group trial 9806. J Clin Oncol 2008;26:644-649. </div>
+    <div class="Citation-text">Kunitoh H, Kato H, Tsuboi M, et al. Phase II trial of preoperative chemoradiotherapy followed by surgical resection in patients with superior sulcus non-small-cell lung cancers: report of Japan Clinical Oncology Group trial 9806. J Clin Oncol 2008;26:644-649.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18235125">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Kawaguchi et al., 2014
 article '24841974
 
+  index: hide
+  line !c
+    + c = Erlotinib failed to show an improvement in PFS or OS compared with docetaxel in an EGFR-unselected patient population.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kawaguchi T, Ando M, Asami K, et al. Randomized phase III trial of erlotinib versus docetaxel as second- or third-line therapy in patients with advanced non-small-cell lung cancer: Docetaxel and Erlotinib Lung Cancer Trial (DELTA). J Clin Oncol 2014;32:1902-1908. </div>
+    <div class="Citation-text">Kawaguchi T, Ando M, Asami K, et al. Randomized phase III trial of erlotinib versus docetaxel as second- or third-line therapy in patients with advanced non-small-cell lung cancer: Docetaxel and Erlotinib Lung Cancer Trial (DELTA). J Clin Oncol 2014;32:1902-1908.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24841974">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Tournoy et al., 2007
 article '17687098
 
+  index: hide
+  line !c
+    + c = The accuracy of integrated FDG-PET/CT scanning is too low to replace invasive intrathoracic lymph node staging in patients with NSCLC. The visual interpretation of the fusion images of the integrated FDG-PET/CT scan can be replaced by the quantitative variable SUV(max)/SUV(liver) without loss of accuracy for intrathoracic lymph node staging.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Tournoy KG, Maddens S, Gosselin R, et al. Integrated FDG-PET/CT does not make invasive staging of the intrathoracic lymph nodes in non-small cell lung cancer redundant: a prospective study. Thorax 2007;62:696-701. </div>
+    <div class="Citation-text">Tournoy KG, Maddens S, Gosselin R, et al. Integrated FDG-PET/CT does not make invasive staging of the intrathoracic lymph nodes in non-small cell lung cancer redundant: a prospective study. Thorax 2007;62:696-701.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17687098">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Santos et al., 2016
 article '26482542
 
+  index: hide
+  line !c
+    + c = In people over the age of 70 with advanced NSCLC who do not have significant co-morbidities, increased survival with platinum combination therapy needs to be balanced against higher risk of major adverse events when compared with non-platinum therapy. For people who are not suitable candidates for platinum treatment, we have found low-quality evidence suggesting that non-platinum combination and single-agent therapy regimens have similar effects on survival. We are uncertain as to the comparability of their adverse event profiles. Additional evidence on quality of life gathered from additional studies is needed to help inform decision making.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Santos FN, de Castria TB, Cruz MR, Riera R. Chemotherapy for advanced non-small cell lung cancer in the elderly population. Cochrane Database Syst Rev 2015;10:CD010463. </div>
+    <div class="Citation-text">Santos FN, de Castria TB, Cruz MR, Riera R. Chemotherapy for advanced non-small cell lung cancer in the elderly population. Cochrane Database Syst Rev 2015;10:CD010463.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26482542">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

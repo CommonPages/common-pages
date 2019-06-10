@@ -8,7 +8,7 @@ article '15891998
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ordonez NG. D2-40 and podoplanin are highly specific and sensitive immunohistochemical markers of epithelioid malignant mesothelioma. Hum Pathol 2005;36:372-380. </div>
+    <div class="Citation-text">Ordonez NG. D2-40 and podoplanin are highly specific and sensitive immunohistochemical markers of epithelioid malignant mesothelioma. Hum Pathol 2005;36:372-380.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/15891998">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

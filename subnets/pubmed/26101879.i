@@ -5,10 +5,15 @@
 /// Yankelevitz et al., 2016
 article '26101879
 
+  index: hide
+  line !c
+    + c = Nonsolid nodules of any size can be safely followed with CT at 12-month intervals to assess transition to part-solid. Surgery was 100% curative in all cases, regardless of the time to treatment.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Yankelevitz DF, Yip R, Smith JP, et al. CT screening for lung cancer: nonsolid nodules in baseline and annual repeat rounds. Radiology 2015;277:555-564. </div>
+    <div class="Citation-text">Yankelevitz DF, Yip R, Smith JP, et al. CT screening for lung cancer: nonsolid nodules in baseline and annual repeat rounds. Radiology 2015;277:555-564.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26101879">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

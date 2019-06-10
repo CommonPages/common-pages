@@ -13,7 +13,7 @@ article '22752216
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kim YH, Hirabayashi M, Togashi Y, et al. Phase II study of carboplatin and pemetrexed in advanced non-squamous, non-small-cell lung cancer: Kyoto Thoracic Oncology Research Group Trial 0902. Cancer Chemother Pharmacol 2012;70:271-276. </div>
+    <div class="Citation-text">Kim YH, Hirabayashi M, Togashi Y, et al. Phase II study of carboplatin and pemetrexed in advanced non-squamous, non-small-cell lung cancer: Kyoto Thoracic Oncology Research Group Trial 0902. Cancer Chemother Pharmacol 2012;70:271-276.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22752216">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

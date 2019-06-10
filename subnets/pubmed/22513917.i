@@ -5,10 +5,15 @@
 /// Tsao et al., 2012
 article '22513917
 
+  index: hide
+  line !c
+    + c = None of the RCTs with altered WBRT dose-fractionation schemes as compared to standard (3000 cGy in 10 daily fractions or 2000 cGy in 4 or 5 daily fractions) found a benefit in terms of overall survival, neurologic function, or symptom control.The use of radiosensitizers or chemotherapy in conjunction with WBRT remains experimental.Radiosurgery boost with WBRT may improve local disease control in selected participants as compared to WBRT alone, although survival remains unchanged for participants with multiple brain metastases.This updated review now includes a total of three RCTs examining the use of radiosurgery alone versus WBRT and radiosurgery. The addition of WBRT to radiosurgery improves local and distant brain control but there is no difference in overall survival. Patients treated with radiosurgery alone were found to have better neurocognitive outcomes in one trial as compared to patients treated with WBRT and radiosurgery.The benefit of WBRT as compared to supportive care alone has not been studied in RCTs. It may be that supportive care alone, without WBRT, is appropriate for some participants, particularly those with advanced disease and poor performance status.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Tsao MN, Lloyd N, Wong RK, et al. Whole brain radiotherapy for the treatment of newly diagnosed multiple brain metastases. Cochrane Database Syst Rev 2012;4:CD003869. </div>
+    <div class="Citation-text">Tsao MN, Lloyd N, Wong RK, et al. Whole brain radiotherapy for the treatment of newly diagnosed multiple brain metastases. Cochrane Database Syst Rev 2012;4:CD003869.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22513917">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

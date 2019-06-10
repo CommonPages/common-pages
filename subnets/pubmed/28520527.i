@@ -8,7 +8,7 @@ article '28520527
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Lim SM, Kim HR, Lee JS, et al. Open-label, multicenter, phase II study of ceritinib in patients with non-small-cell lung cancer harboring ROS1 rearrangement. J Clin Oncol 2017;35:2613-2618. </div>
+    <div class="Citation-text">Lim SM, Kim HR, Lee JS, et al. Open-label, multicenter, phase II study of ceritinib in patients with non-small-cell lung cancer harboring ROS1 rearrangement. J Clin Oncol 2017;35:2613-2618.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/28520527">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

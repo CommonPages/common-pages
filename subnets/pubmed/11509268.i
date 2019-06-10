@@ -13,7 +13,7 @@ article '11509268
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Rea F, Zuin A, Callegaro D, et al. Surgical results for multiple primary lung cancers. Eur J Cardiothorac Surg 2001;20:489-495. </div>
+    <div class="Citation-text">Rea F, Zuin A, Callegaro D, et al. Surgical results for multiple primary lung cancers. Eur J Cardiothorac Surg 2001;20:489-495.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/11509268">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

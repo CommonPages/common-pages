@@ -13,7 +13,7 @@ article '25528723
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Hancock JG, Rosen JE, Antonicelli A, et al. Impact of adjuvant treatment for microscopic residual disease after non-small cell lung cancer surgery. Ann Thorac Surg 2015;99:406-413. </div>
+    <div class="Citation-text">Hancock JG, Rosen JE, Antonicelli A, et al. Impact of adjuvant treatment for microscopic residual disease after non-small cell lung cancer surgery. Ann Thorac Surg 2015;99:406-413.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25528723">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

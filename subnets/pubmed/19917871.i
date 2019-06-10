@@ -8,7 +8,7 @@ article '19917871
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Azzoli CG, Baker S, Jr., Temin S, et al. American Society of Clinical Oncology Clinical Practice Guideline update on chemotherapy for stage IV non-small-cell lung cancer. J Clin Oncol 2009;27:6251-6266. </div>
+    <div class="Citation-text">Azzoli CG, Baker S, Jr., Temin S, et al. American Society of Clinical Oncology Clinical Practice Guideline update on chemotherapy for stage IV non-small-cell lung cancer. J Clin Oncol 2009;27:6251-6266.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19917871">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

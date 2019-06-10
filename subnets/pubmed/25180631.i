@@ -8,7 +8,7 @@ article '25180631
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Videtic GM, Chang JY, Chetty IJ, et al. ACR appropriateness Criteria(R) early-stage non-small-cell lung cancer. Am J Clin Oncol 2014;37:201-207. </div>
+    <div class="Citation-text">Videtic GM, Chang JY, Chetty IJ, et al. ACR appropriateness Criteria(R) early-stage non-small-cell lung cancer. Am J Clin Oncol 2014;37:201-207.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25180631">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

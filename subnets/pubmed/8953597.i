@@ -8,7 +8,7 @@ article '8953597
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ettinger DS, Cox JD, Ginsberg RJ, et al. NCCN non-small-cell lung cancer practice guidelines. The National Comprehensive Cancer Network. Oncology (Williston Park) 1996;10:81-111. </div>
+    <div class="Citation-text">Ettinger DS, Cox JD, Ginsberg RJ, et al. NCCN non-small-cell lung cancer practice guidelines. The National Comprehensive Cancer Network. Oncology (Williston Park) 1996;10:81-111.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/8953597">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

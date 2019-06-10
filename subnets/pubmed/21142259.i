@@ -8,7 +8,7 @@ article '21142259
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Hays JT, Ebbert JO. Adverse effects and tolerability of medications for the treatment of tobacco use and dependence. Drugs 2010;70:2357-2372. </div>
+    <div class="Citation-text">Hays JT, Ebbert JO. Adverse effects and tolerability of medications for the treatment of tobacco use and dependence. Drugs 2010;70:2357-2372.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21142259">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

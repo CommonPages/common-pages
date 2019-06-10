@@ -8,7 +8,7 @@ article '24353160
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Yasuda H, Park E, Yun CH, et al. Structural, biochemical, and clinical characterization of epidermal growth factor receptor (EGFR) exon 20 insertion mutations in lung cancer. Sci Transl Med 2013;5:216ra177. </div>
+    <div class="Citation-text">Yasuda H, Park E, Yun CH, et al. Structural, biochemical, and clinical characterization of epidermal growth factor receptor (EGFR) exon 20 insertion mutations in lung cancer. Sci Transl Med 2013;5:216ra177.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24353160">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

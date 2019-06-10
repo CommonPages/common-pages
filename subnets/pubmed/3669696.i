@@ -8,7 +8,7 @@ article '3669696
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Patterson GA, Ginsberg RJ, Poon PY, et al. A prospective evaluation of magnetic resonance imaging, computed tomography, and mediastinoscopy in the preoperative assessment of mediastinal node status in bronchogenic carcinoma. J Thorac Cardiovasc Surg 1987;94:679-684. </div>
+    <div class="Citation-text">Patterson GA, Ginsberg RJ, Poon PY, et al. A prospective evaluation of magnetic resonance imaging, computed tomography, and mediastinoscopy in the preoperative assessment of mediastinal node status in bronchogenic carcinoma. J Thorac Cardiovasc Surg 1987;94:679-684.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/3669696">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

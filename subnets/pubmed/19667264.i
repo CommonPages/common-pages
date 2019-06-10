@@ -5,10 +5,15 @@
 /// Shaw et al., 2009
 article '19667264
 
+  index: hide
+  line !c
+    + c = EML4-ALK defines a molecular subset of NSCLC with distinct clinical characteristics. Patients who harbor this mutation do not benefit from EGFR TKIs and should be directed to trials of ALK-targeted agents.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Shaw AT, Yeap BY, Mino-Kenudson M, et al. Clinical features and outcome of patients with non-small-cell lung cancer who harbor EML4-ALK. J Clin Oncol 2009;27:4247-4253. </div>
+    <div class="Citation-text">Shaw AT, Yeap BY, Mino-Kenudson M, et al. Clinical features and outcome of patients with non-small-cell lung cancer who harbor EML4-ALK. J Clin Oncol 2009;27:4247-4253.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19667264">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

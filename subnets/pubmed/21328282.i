@@ -5,10 +5,15 @@
 /// Cahill et al., 2011
 article '21328282
 
+  index: hide
+  line !c
+    + c = Varenicline at standard dose increased the chances of successful long-term smoking cessation between two- and threefold compared with pharmacologically unassisted quit attempts. Lower dose regimens also conferred benefits for cessation, while reducing the incidence of adverse events. More participants quit successfully with varenicline than with bupropion. Two open-label trials of varenicline versus NRT suggested a modest benefit of varenicline but confidence intervals did not rule out equivalence. Limited evidence suggests that varenicline may have a role to play in relapse prevention. The main adverse effect of varenicline is nausea, but mostly at mild to moderate levels and tending to subside over time. Possible links with serious adverse events, including depressed mood, agitation and suicidal thoughts, have been reported but are so far not substantiated.There is a need for further independent community-based trials of varenicline, to test its efficacy and safety in smokers with varying co-morbidities and risk patterns. There is a need for further trials of the efficacy of treatment extended beyond 12 weeks. Cytisine may also increase the chances of quitting, but the evidence at present is inconclusive.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Cahill K, Stead LF, Lancaster T. Nicotine receptor partial agonists for smoking cessation. Cochrane Database Syst Rev 2011:CD006103. </div>
+    <div class="Citation-text">Cahill K, Stead LF, Lancaster T. Nicotine receptor partial agonists for smoking cessation. Cochrane Database Syst Rev 2011:CD006103.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21328282">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

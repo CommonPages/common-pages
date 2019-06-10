@@ -13,7 +13,7 @@ article '23127371
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Lou F, Huang J, Sima CS, et al. Patterns of recurrence and second primary lung cancer in early-stage lung cancer survivors followed with routine computed tomography surveillance. J Thorac Cardiovasc Surg 2013;145:75-81; discussion 81-72. </div>
+    <div class="Citation-text">Lou F, Huang J, Sima CS, et al. Patterns of recurrence and second primary lung cancer in early-stage lung cancer survivors followed with routine computed tomography surveillance. J Thorac Cardiovasc Surg 2013;145:75-81; discussion 81-72.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23127371">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

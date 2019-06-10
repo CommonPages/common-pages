@@ -13,7 +13,7 @@ article '23165743
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Howell DD, James JL, Hartsell WF, et al. Single-fraction radiotherapy versus multifraction radiotherapy for palliation of painful vertebral bone metastases-equivalent efficacy, less toxicity, more convenient: a subset analysis of Radiation Therapy Oncology Group trial 97-14. Cancer 2013;119:888-896. </div>
+    <div class="Citation-text">Howell DD, James JL, Hartsell WF, et al. Single-fraction radiotherapy versus multifraction radiotherapy for palliation of painful vertebral bone metastases-equivalent efficacy, less toxicity, more convenient: a subset analysis of Radiation Therapy Oncology Group trial 97-14. Cancer 2013;119:888-896.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23165743">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Chlebowski et al., 2010
 article '20709992
 
+  index: hide
+  line !c
+    + c = Unlike use of estrogen plus progestin, which increased deaths from lung cancer, use of conjugated equine estrogen alone did not increase incidence or death from lung cancer.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Chlebowski RT, Anderson GL, Manson JE, et al. Lung cancer among postmenopausal women treated with estrogen alone in the women's health initiative randomized trial. J Natl Cancer Inst 2010;102:1413-1421. </div>
+    <div class="Citation-text">Chlebowski RT, Anderson GL, Manson JE, et al. Lung cancer among postmenopausal women treated with estrogen alone in the women's health initiative randomized trial. J Natl Cancer Inst 2010;102:1413-1421.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20709992">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Johnson et al., 2004
 article '15169807
 
+  index: hide
+  line !c
+    + c = Bevacizumab in combination with carboplatin and paclitaxel improved overall response and time to progression in patients with advanced or recurrent non-small-cell lung cancer. Patients with nonsquamous cell histology appear to be a subpopulation with improved outcome and acceptable safety risks.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Johnson DH, Fehrenbacher L, Novotny WF, et al. Randomized phase II trial comparing bevacizumab plus carboplatin and paclitaxel with carboplatin and paclitaxel alone in previously untreated locally advanced or metastatic non-small-cell lung cancer. J Clin Oncol 2004;22:2184-2191. </div>
+    <div class="Citation-text">Johnson DH, Fehrenbacher L, Novotny WF, et al. Randomized phase II trial comparing bevacizumab plus carboplatin and paclitaxel with carboplatin and paclitaxel alone in previously untreated locally advanced or metastatic non-small-cell lung cancer. J Clin Oncol 2004;22:2184-2191.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/15169807">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

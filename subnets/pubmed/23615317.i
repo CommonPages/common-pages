@@ -8,7 +8,7 @@ article '23615317
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ware JH, Vetrovec GW, Miller AB, et al. Cardiovascular safety of varenicline: patient-level meta-analysis of randomized, blinded, placebo-controlled trials. Am J Ther 2013;20:235-246. </div>
+    <div class="Citation-text">Ware JH, Vetrovec GW, Miller AB, et al. Cardiovascular safety of varenicline: patient-level meta-analysis of randomized, blinded, placebo-controlled trials. Am J Ther 2013;20:235-246.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23615317">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Chen et al., 2011
 article '21537034
 
+  index: hide
+  line !c
+    + c = CT-based simulation has been widely, although not uniformly, adopted for the treatment of stage III NSCLC and is associated with higher survival among patients receiving TRT.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Chen AB, Neville BA, Sher DJ, et al. Survival outcomes after radiation therapy for stage III non-small-cell lung cancer after adoption of computed tomography-based simulation. J Clin Oncol 2011;29:2305-2311. </div>
+    <div class="Citation-text">Chen AB, Neville BA, Sher DJ, et al. Survival outcomes after radiation therapy for stage III non-small-cell lung cancer after adoption of computed tomography-based simulation. J Clin Oncol 2011;29:2305-2311.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21537034">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

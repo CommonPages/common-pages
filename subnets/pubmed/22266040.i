@@ -8,7 +8,7 @@ article '22266040
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Gridelli C, de Marinis F, Di Maio M, et al. Maintenance treatment of advanced non-small-cell lung cancer: results of an international expert panel meeting of the Italian association of thoracic oncology. Lung Cancer 2012;76:269-279. </div>
+    <div class="Citation-text">Gridelli C, de Marinis F, Di Maio M, et al. Maintenance treatment of advanced non-small-cell lung cancer: results of an international expert panel meeting of the Italian association of thoracic oncology. Lung Cancer 2012;76:269-279.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22266040">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

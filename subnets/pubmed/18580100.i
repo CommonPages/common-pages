@@ -8,7 +8,7 @@ article '18580100
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Dacic S. EGFR assays in lung cancer. Adv Anat Pathol 2008;15:241-247. </div>
+    <div class="Citation-text">Dacic S. EGFR assays in lung cancer. Adv Anat Pathol 2008;15:241-247.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18580100">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '21623265
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ou SH, Kwak EL, Siwak-Tapp C, et al. Activity of crizotinib (PF02341066), a dual mesenchymal-epithelial transition (MET) and anaplastic lymphoma kinase (ALK) inhibitor, in a non-small cell lung cancer patient with de novo MET amplification. J Thorac Oncol 2011;6:942-946. </div>
+    <div class="Citation-text">Ou SH, Kwak EL, Siwak-Tapp C, et al. Activity of crizotinib (PF02341066), a dual mesenchymal-epithelial transition (MET) and anaplastic lymphoma kinase (ALK) inhibitor, in a non-small cell lung cancer patient with de novo MET amplification. J Thorac Oncol 2011;6:942-946.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21623265">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

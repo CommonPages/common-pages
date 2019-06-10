@@ -8,7 +8,7 @@ article '16775247
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Cappuzzo F, Bemis L, Varella-Garcia M. HER2 mutation and response to trastuzumab therapy in non-small-cell lung cancer. N Engl J Med 2006;354:2619-2621. </div>
+    <div class="Citation-text">Cappuzzo F, Bemis L, Varella-Garcia M. HER2 mutation and response to trastuzumab therapy in non-small-cell lung cancer. N Engl J Med 2006;354:2619-2621.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/16775247">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

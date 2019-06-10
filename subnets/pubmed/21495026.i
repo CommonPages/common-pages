@@ -13,7 +13,7 @@ article '21495026
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Shi Q, Smith TG, Michonski JD, et al. Symptom burden in cancer survivors 1 year after diagnosis: a report from the American Cancer Society's Studies of Cancer Survivors. Cancer 2011;117:2779-2790. </div>
+    <div class="Citation-text">Shi Q, Smith TG, Michonski JD, et al. Symptom burden in cancer survivors 1 year after diagnosis: a report from the American Cancer Society's Studies of Cancer Survivors. Cancer 2011;117:2779-2790.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21495026">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

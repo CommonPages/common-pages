@@ -5,10 +5,15 @@
 /// Hanna et al., 2004
 article '15117980
 
+  index: hide
+  line !c
+    + c = Treatment with pemetrexed resulted in clinically equivalent efficacy outcomes, but with significantly fewer side effects compared with docetaxel in the second-line treatment of patients with advanced NSCLC and should be considered a standard treatment option for second-line NSCLC when available.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Hanna N, Shepherd FA, Fossella FV, et al. Randomized phase III trial of pemetrexed versus docetaxel in patients with non-small-cell lung cancer previously treated with chemotherapy. J Clin Oncol 2004;22:1589-1597. </div>
+    <div class="Citation-text">Hanna N, Shepherd FA, Fossella FV, et al. Randomized phase III trial of pemetrexed versus docetaxel in patients with non-small-cell lung cancer previously treated with chemotherapy. J Clin Oncol 2004;22:1589-1597.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/15117980">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

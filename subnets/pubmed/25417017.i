@@ -8,7 +8,7 @@ article '25417017
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Vairaktarakis C, Tsiamis V, Soursou G, et al. A computer-aided diagnosis system for geriatrics assessment and frailty evaluation. Adv Exp Med Biol 2015;820:69-77. </div>
+    <div class="Citation-text">Vairaktarakis C, Tsiamis V, Soursou G, et al. A computer-aided diagnosis system for geriatrics assessment and frailty evaluation. Adv Exp Med Biol 2015;820:69-77.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25417017">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

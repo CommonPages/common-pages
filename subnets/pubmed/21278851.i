@@ -8,7 +8,7 @@ article '21278851
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Xi ZX. Preclinical pharmacology, efficacy and safety of varenicline in smoking cessation and clinical utility in high risk patients. Drug Healthc Patient Saf 2010;2010:39-48. </div>
+    <div class="Citation-text">Xi ZX. Preclinical pharmacology, efficacy and safety of varenicline in smoking cessation and clinical utility in high risk patients. Drug Healthc Patient Saf 2010;2010:39-48.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21278851">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

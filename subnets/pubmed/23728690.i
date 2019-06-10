@@ -5,10 +5,15 @@
 /// Cahill et al., 2013
 article '23728690
 
+  index: hide
+  line !c
+    + c = NRT, bupropion, varenicline and cytisine have been shown to improve the chances of quitting. Combination NRT and varenicline are equally effective as quitting aids. Nortriptyline also improves the chances of quitting. On current evidence, none of the treatments appear to have an incidence of adverse events that would mitigate their use. Further research is warranted into the safety of varenicline and into cytisine's potential as an effective and affordable treatment, but not into the efficacy and safety of NRT.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Cahill K, Stevens S, Perera R, Lancaster T. Pharmacological interventions for smoking cessation: an overview and network meta-analysis. Cochrane Database Syst Rev 2013;5:CD009329. </div>
+    <div class="Citation-text">Cahill K, Stevens S, Perera R, Lancaster T. Pharmacological interventions for smoking cessation: an overview and network meta-analysis. Cochrane Database Syst Rev 2013;5:CD009329.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23728690">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

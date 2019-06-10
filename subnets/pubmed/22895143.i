@@ -13,7 +13,7 @@ article '22895143
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Trakul N, Harris JP, Le QT, et al. Stereotactic ablative radiotherapy for reirradiation of locally recurrent lung tumors. J Thorac Oncol 2012;7:1462-1465. </div>
+    <div class="Citation-text">Trakul N, Harris JP, Le QT, et al. Stereotactic ablative radiotherapy for reirradiation of locally recurrent lung tumors. J Thorac Oncol 2012;7:1462-1465.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22895143">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Pinsky et al., 2015
 article '25664444
 
+  index: hide
+  line !c
+    + c = Lung-RADS criteria were applied retrospectively.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Pinsky PF, Gierada DS, Black W, et al. Performance of Lung-RADS in the National Lung Screening Trial: a retrospective assessment. Ann Intern Med 2015;162:485-491. </div>
+    <div class="Citation-text">Pinsky PF, Gierada DS, Black W, et al. Performance of Lung-RADS in the National Lung Screening Trial: a retrospective assessment. Ann Intern Med 2015;162:485-491.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25664444">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

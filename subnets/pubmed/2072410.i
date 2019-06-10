@@ -8,7 +8,7 @@ article '2072410
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Slebos RJ, Hruban RH, Dalesio O, et al. Relationship between K-ras oncogene activation and smoking in adenocarcinoma of the human lung. J Natl Cancer Inst 1991;83:1024-1027. </div>
+    <div class="Citation-text">Slebos RJ, Hruban RH, Dalesio O, et al. Relationship between K-ras oncogene activation and smoking in adenocarcinoma of the human lung. J Natl Cancer Inst 1991;83:1024-1027.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/2072410">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

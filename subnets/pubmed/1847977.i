@@ -8,7 +8,7 @@ article '1847977
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Le Chevalier T, Arriagada R, Quoix E, et al. Radiotherapy alone versus combined chemotherapy and radiotherapy in nonresectable non-small-cell lung cancer: first analysis of a randomized trial in 353 patients. J Natl Cancer Inst 1991;83:417-423. </div>
+    <div class="Citation-text">Le Chevalier T, Arriagada R, Quoix E, et al. Radiotherapy alone versus combined chemotherapy and radiotherapy in nonresectable non-small-cell lung cancer: first analysis of a randomized trial in 353 patients. J Natl Cancer Inst 1991;83:417-423.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/1847977">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

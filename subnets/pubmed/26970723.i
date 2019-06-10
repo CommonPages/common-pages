@@ -5,10 +5,15 @@
 /// Fehrenbacher et al., 2016
 article '26970723
 
+  index: hide
+  line !c
+    + c = Atezolizumab significantly improved survival compared with docetaxel in patients with previously treated NSCLC. Improvement correlated with PD-L1 immunohistochemistry expression on tumour cells and tumour-infiltrating immune cells, suggesting that PD-L1 expression is predictive for atezolizumab benefit. Atezolizumab was well tolerated, with a safety profile distinct from chemotherapy.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Fehrenbacher L, Spira A, Ballinger M, et al. Atezolizumab versus docetaxel for patients with previously treated non-small-cell lung cancer (POPLAR): a multicentre, open-label, phase 2 randomised controlled trial. Lancet 2016;387:1837-1846. </div>
+    <div class="Citation-text">Fehrenbacher L, Spira A, Ballinger M, et al. Atezolizumab versus docetaxel for patients with previously treated non-small-cell lung cancer (POPLAR): a multicentre, open-label, phase 2 randomised controlled trial. Lancet 2016;387:1837-1846.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26970723">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

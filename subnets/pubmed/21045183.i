@@ -8,7 +8,7 @@ article '21045183
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> National Lung Screening Trial Research T, Aberle DR, Berg CD, et al. The National Lung Screening Trial: overview and study design. Radiology 2011;258:243-253. </div>
+    <div class="Citation-text">National Lung Screening Trial Research T, Aberle DR, Berg CD, et al. The National Lung Screening Trial: overview and study design. Radiology 2011;258:243-253.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21045183">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '29939779
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Borczuk AC. Keeping up with testing guidelines in lung cancer. Arch Pathol Lab Med 2018;142:783-784. </div>
+    <div class="Citation-text">Borczuk AC. Keeping up with testing guidelines in lung cancer. Arch Pathol Lab Med 2018;142:783-784.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/29939779">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '26667336
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Torre LA, Siegel RL, Jemal A. Lung cancer statistics. Adv Exp Med Biol 2016;893:1-19. </div>
+    <div class="Citation-text">Torre LA, Siegel RL, Jemal A. Lung cancer statistics. Adv Exp Med Biol 2016;893:1-19.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26667336">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

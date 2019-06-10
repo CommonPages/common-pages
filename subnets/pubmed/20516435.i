@@ -5,10 +5,15 @@
 /// Felip et al., 2010
 article '20516435
 
+  index: hide
+  line !c
+    + c = In early-stage patients, no statistically significant differences in disease-free survival were found with the addition of preoperative or adjuvant chemotherapy to surgery. In this trial, in which the treatment decision was made before surgery, more patients were able to receive preoperative than adjuvant treatment.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Felip E, Rosell R, Maestre JA, et al. Preoperative chemotherapy plus surgery versus surgery plus adjuvant chemotherapy versus surgery alone in early-stage non-small-cell lung cancer. J Clin Oncol 2010;28:3138-3145. </div>
+    <div class="Citation-text">Felip E, Rosell R, Maestre JA, et al. Preoperative chemotherapy plus surgery versus surgery plus adjuvant chemotherapy versus surgery alone in early-stage non-small-cell lung cancer. J Clin Oncol 2010;28:3138-3145.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20516435">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '21102261
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Chen F, Matsuo Y, Yoshizawa A, et al. Salvage lung resection for non-small cell lung cancer after stereotactic body radiotherapy in initially operable patients. J Thorac Oncol 2010;5:1999-2002. </div>
+    <div class="Citation-text">Chen F, Matsuo Y, Yoshizawa A, et al. Salvage lung resection for non-small cell lung cancer after stereotactic body radiotherapy in initially operable patients. J Thorac Oncol 2010;5:1999-2002.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21102261">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

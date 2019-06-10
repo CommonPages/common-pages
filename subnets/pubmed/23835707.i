@@ -5,10 +5,15 @@
 /// Paz-Ares et al., 2013
 article '23835707
 
+  index: hide
+  line !c
+    + c = Pemetrexed continuation maintenance therapy is well-tolerated and offers superior OS compared with placebo, further demonstrating that it is an efficacious treatment strategy for patients with advanced nonsquamous NSCLC and good performance status who did not progress during pemetrexed-cisplatin induction therapy.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Paz-Ares LG, de Marinis F, Dediu M, et al. PARAMOUNT: Final overall survival results of the phase III study of maintenance pemetrexed versus placebo immediately after induction treatment with pemetrexed plus cisplatin for advanced nonsquamous non-small-cell lung cancer. J Clin Oncol 2013;31:2895-2902. </div>
+    <div class="Citation-text">Paz-Ares LG, de Marinis F, Dediu M, et al. PARAMOUNT: Final overall survival results of the phase III study of maintenance pemetrexed versus placebo immediately after induction treatment with pemetrexed plus cisplatin for advanced nonsquamous non-small-cell lung cancer. J Clin Oncol 2013;31:2895-2902.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23835707">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

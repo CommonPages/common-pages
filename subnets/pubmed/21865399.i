@@ -8,7 +8,7 @@ article '21865399
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Grommes C, Oxnard GR, Kris MG, et al. "Pulsatile" high-dose weekly erlotinib for CNS metastases from EGFR mutant non-small cell lung cancer. Neuro Oncol 2011;13:1364-1369. </div>
+    <div class="Citation-text">Grommes C, Oxnard GR, Kris MG, et al. "Pulsatile" high-dose weekly erlotinib for CNS metastases from EGFR mutant non-small cell lung cancer. Neuro Oncol 2011;13:1364-1369.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21865399">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

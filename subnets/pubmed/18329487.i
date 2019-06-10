@@ -5,10 +5,15 @@
 /// Nicastri et al., 2008
 article '18329487
 
+  index: hide
+  line !c
+    + c = Thoracoscopic (video-assisted thoracic surgery) lobectomy can be performed safely. Discharge independence and low pain estimates in the early postoperative period suggest that this approach may be beneficial. Furthermore, there is a trend toward improved tolerance of chemotherapy.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Nicastri DG, Wisnivesky JP, Litle VR, et al. Thoracoscopic lobectomy: report on safety, discharge independence, pain, and chemotherapy tolerance. J Thorac Cardiovasc Surg 2008;135:642-647. </div>
+    <div class="Citation-text">Nicastri DG, Wisnivesky JP, Litle VR, et al. Thoracoscopic lobectomy: report on safety, discharge independence, pain, and chemotherapy tolerance. J Thorac Cardiovasc Surg 2008;135:642-647.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18329487">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

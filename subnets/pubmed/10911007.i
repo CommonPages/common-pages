@@ -13,7 +13,7 @@ article '10911007
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Pieterman RM, van Putten JW, Meuzelaar JJ, et al. Preoperative staging of non-small-cell lung cancer with positron-emission tomography. N Engl J Med 2000;343:254-261. </div>
+    <div class="Citation-text">Pieterman RM, van Putten JW, Meuzelaar JJ, et al. Preoperative staging of non-small-cell lung cancer with positron-emission tomography. N Engl J Med 2000;343:254-261.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/10911007">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

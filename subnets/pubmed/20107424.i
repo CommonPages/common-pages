@@ -5,10 +5,15 @@
 /// Song et al., 2010
 article '20107424
 
+  index: hide
+  line !c
+    + c = Neoadjuvant chemotherapy, as an addition of surgery, would significantly improve the overall survival of operable NSCLC patients, including patients with stage III NSCLC.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Song WA, Zhou NK, Wang W, et al. Survival benefit of neoadjuvant chemotherapy in non-small cell lung cancer: an updated meta-analysis of 13 randomized control trials. J Thorac Oncol 2010;5:510-516. </div>
+    <div class="Citation-text">Song WA, Zhou NK, Wang W, et al. Survival benefit of neoadjuvant chemotherapy in non-small cell lung cancer: an updated meta-analysis of 13 randomized control trials. J Thorac Oncol 2010;5:510-516.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20107424">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

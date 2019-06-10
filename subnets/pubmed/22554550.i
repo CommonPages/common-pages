@@ -8,7 +8,7 @@ article '22554550
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Tournoy KG, Keller SM, Annema JT. Mediastinal staging of lung cancer: novel concepts. Lancet Oncol 2012;13:e221-229. </div>
+    <div class="Citation-text">Tournoy KG, Keller SM, Annema JT. Mediastinal staging of lung cancer: novel concepts. Lancet Oncol 2012;13:e221-229.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22554550">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

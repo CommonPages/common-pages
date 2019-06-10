@@ -8,7 +8,7 @@ article '26244136
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Rusthoven CG, Kavanagh BD, Karam SD. Improved survival with stereotactic ablative radiotherapy (SABR) over lobectomy for early stage non-small cell lung cancer (NSCLC): addressing the fallout of disruptive randomized data. Ann Transl Med 2015;3:149. </div>
+    <div class="Citation-text">Rusthoven CG, Kavanagh BD, Karam SD. Improved survival with stereotactic ablative radiotherapy (SABR) over lobectomy for early stage non-small cell lung cancer (NSCLC): addressing the fallout of disruptive randomized data. Ann Transl Med 2015;3:149.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26244136">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

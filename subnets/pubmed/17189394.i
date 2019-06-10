@@ -8,7 +8,7 @@ article '17189394
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Riely GJ, Politi KA, Miller VA, Pao W. Update on epidermal growth factor receptor mutations in non-small cell lung cancer. Clin Cancer Res 2006;12:7232-7241. </div>
+    <div class="Citation-text">Riely GJ, Politi KA, Miller VA, Pao W. Update on epidermal growth factor receptor mutations in non-small cell lung cancer. Clin Cancer Res 2006;12:7232-7241.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17189394">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

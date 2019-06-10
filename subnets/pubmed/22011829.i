@@ -8,7 +8,7 @@ article '22011829
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Teoh M, Clark CH, Wood K, et al. Volumetric modulated arc therapy: a review of current literature and clinical use in practice. Br J Radiol 2011;84:967-996. </div>
+    <div class="Citation-text">Teoh M, Clark CH, Wood K, et al. Volumetric modulated arc therapy: a review of current literature and clinical use in practice. Br J Radiol 2011;84:967-996.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22011829">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,6 +5,11 @@
 /// Andre et al., 2000
 article '10944131
 
+  index: hide
+  line !c
+    + c = This study has identified homogeneous N2 NSCLC prognostic subgroups and suggests different therapeutic approaches according to the subgroup profile.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">

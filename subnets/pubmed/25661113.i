@@ -8,7 +8,7 @@ article '25661113
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Pilkington G, Boland A, Brown T, et al. A systematic review of the clinical effectiveness of first-line chemotherapy for adult patients with locally advanced or metastatic non-small cell lung cancer. Thorax 2015;70:359-367. </div>
+    <div class="Citation-text">Pilkington G, Boland A, Brown T, et al. A systematic review of the clinical effectiveness of first-line chemotherapy for adult patients with locally advanced or metastatic non-small cell lung cancer. Thorax 2015;70:359-367.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25661113">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '25798726
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Brahmer JR, Hammers H, Lipson EJ. Nivolumab: targeting PD-1 to bolster antitumor immunity. Future Oncol 2015;11:1307-1326. </div>
+    <div class="Citation-text">Brahmer JR, Hammers H, Lipson EJ. Nivolumab: targeting PD-1 to bolster antitumor immunity. Future Oncol 2015;11:1307-1326.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25798726">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

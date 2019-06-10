@@ -8,7 +8,7 @@ article '21623384
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Rekhtman N, Ang DC, Sima CS, et al. Immunohistochemical algorithm for differentiation of lung adenocarcinoma and squamous cell carcinoma based on large series of whole-tissue sections with validation in small specimens. Mod Pathol 2011;24:1348-1359. </div>
+    <div class="Citation-text">Rekhtman N, Ang DC, Sima CS, et al. Immunohistochemical algorithm for differentiation of lung adenocarcinoma and squamous cell carcinoma based on large series of whole-tissue sections with validation in small specimens. Mod Pathol 2011;24:1348-1359.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21623384">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

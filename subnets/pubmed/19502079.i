@@ -13,7 +13,7 @@ article '19502079
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Decaluwe H, De Leyn P, Vansteenkiste J, et al. Surgical multimodality treatment for baseline resectable stage IIIA-N2 non-small cell lung cancer. Degree of mediastinal lymph node involvement and impact on survival. Eur J Cardiothorac Surg 2009;36:433-439. </div>
+    <div class="Citation-text">Decaluwe H, De Leyn P, Vansteenkiste J, et al. Surgical multimodality treatment for baseline resectable stage IIIA-N2 non-small cell lung cancer. Degree of mediastinal lymph node involvement and impact on survival. Eur J Cardiothorac Surg 2009;36:433-439.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19502079">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '22640600
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Tallet AV, Azria D, Barlesi F, et al. Neurocognitive function impairment after whole brain radiotherapy for brain metastases: actual assessment. Radiat Oncol 2012;7:77. </div>
+    <div class="Citation-text">Tallet AV, Azria D, Barlesi F, et al. Neurocognitive function impairment after whole brain radiotherapy for brain metastases: actual assessment. Radiat Oncol 2012;7:77.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22640600">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '28968167
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Mok TSK, Kim SW, Wu YL, et al. Gefitinib plus chemotherapy versus chemotherapy in epidermal growth factor receptor mutation-positive non-small-cell lung cancer resistant to first-line gefitinib (IMPRESS): overall survival and biomarker analyses. J Clin Oncol 2017;35:4027-4034. </div>
+    <div class="Citation-text">Mok TSK, Kim SW, Wu YL, et al. Gefitinib plus chemotherapy versus chemotherapy in epidermal growth factor receptor mutation-positive non-small-cell lung cancer resistant to first-line gefitinib (IMPRESS): overall survival and biomarker analyses. J Clin Oncol 2017;35:4027-4034.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/28968167">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '17383320
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Petersen RP, Pham D, Burfeind WR, et al. Thoracoscopic lobectomy facilitates the delivery of chemotherapy after resection for lung cancer. Ann Thorac Surg 2007;83:1245-1249; discussion 1250. </div>
+    <div class="Citation-text">Petersen RP, Pham D, Burfeind WR, et al. Thoracoscopic lobectomy facilitates the delivery of chemotherapy after resection for lung cancer. Ann Thorac Surg 2007;83:1245-1249; discussion 1250.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17383320">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

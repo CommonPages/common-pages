@@ -13,7 +13,7 @@ article '24210834
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Swanson SJ, Miller DL, McKenna RJ, Jr., et al. Comparing robot-assisted thoracic surgical lobectomy with conventional video-assisted thoracic surgical lobectomy and wedge resection: results from a multihospital database (Premier). J Thorac Cardiovasc Surg 2014;147:929-937. </div>
+    <div class="Citation-text">Swanson SJ, Miller DL, McKenna RJ, Jr., et al. Comparing robot-assisted thoracic surgical lobectomy with conventional video-assisted thoracic surgical lobectomy and wedge resection: results from a multihospital database (Premier). J Thorac Cardiovasc Surg 2014;147:929-937.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24210834">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

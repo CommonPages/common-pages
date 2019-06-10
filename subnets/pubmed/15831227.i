@@ -13,7 +13,7 @@ article '15831227
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> McKenna RJ, Jr. New approaches to the minimally invasive treatment of lung cancer. Cancer J 2005;11:73-76. </div>
+    <div class="Citation-text">McKenna RJ, Jr. New approaches to the minimally invasive treatment of lung cancer. Cancer J 2005;11:73-76.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/15831227">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

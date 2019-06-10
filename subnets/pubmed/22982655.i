@@ -5,10 +5,15 @@
 /// De Ruysscher et al., 2013
 article '22982655
 
+  index: hide
+  line !c
+    + c = In this phase II study, long-term PFS was found in a subgroup of NSCLC patients with synchronous oligometastases when treated radically. Identification of this favorable subgroup before therapy is needed.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> De Ruysscher D, Wanders R, van Baardwijk A, et al. Radical treatment of non-small-cell lung cancer patients with synchronous oligometastases: long-term results of a prospective phase II trial (Nct01282450). J Thorac Oncol 2012;7:1547-1555. </div>
+    <div class="Citation-text">De Ruysscher D, Wanders R, van Baardwijk A, et al. Radical treatment of non-small-cell lung cancer patients with synchronous oligometastases: long-term results of a prospective phase II trial (Nct01282450). J Thorac Oncol 2012;7:1547-1555.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22982655">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

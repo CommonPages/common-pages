@@ -8,7 +8,7 @@ article '26291008
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Travis WD, Brambilla E, Nicholson AG, et al. The 2015 World Health Organization Classification of Lung Tumors: Impact of genetic, clinical and radiologic advances since the 2004 classification. J Thorac Oncol 2015;10:1243-1260. </div>
+    <div class="Citation-text">Travis WD, Brambilla E, Nicholson AG, et al. The 2015 World Health Organization Classification of Lung Tumors: Impact of genetic, clinical and radiologic advances since the 2004 classification. J Thorac Oncol 2015;10:1243-1260.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26291008">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

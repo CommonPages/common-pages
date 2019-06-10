@@ -13,7 +13,7 @@ article '25220718
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> McAvoy S, Ciura K, Wei C, et al. Definitive reirradiation for locoregionally recurrent non-small cell lung cancer with proton beam therapy or intensity modulated radiation therapy: predictors of high-grade toxicity and survival outcomes. Int J Radiat Oncol Biol Phys 2014;90:819-827. </div>
+    <div class="Citation-text">McAvoy S, Ciura K, Wei C, et al. Definitive reirradiation for locoregionally recurrent non-small cell lung cancer with proton beam therapy or intensity modulated radiation therapy: predictors of high-grade toxicity and survival outcomes. Int J Radiat Oncol Biol Phys 2014;90:819-827.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25220718">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '18195376
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Hansell DM, Bankier AA, MacMahon H, et al. Fleischner Society: glossary of terms for thoracic imaging. Radiology 2008;246:697-722. </div>
+    <div class="Citation-text">Hansell DM, Bankier AA, MacMahon H, et al. Fleischner Society: glossary of terms for thoracic imaging. Radiology 2008;246:697-722.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18195376">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

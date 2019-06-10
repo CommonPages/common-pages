@@ -8,7 +8,7 @@ article '19960230
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kalkanis SN, Kondziolka D, Gaspar LE, et al. The role of surgical resection in the management of newly diagnosed brain metastases: a systematic review and evidence-based clinical practice guideline. J Neurooncol 2010;96:33-43. </div>
+    <div class="Citation-text">Kalkanis SN, Kondziolka D, Gaspar LE, et al. The role of surgical resection in the management of newly diagnosed brain metastases: a systematic review and evidence-based clinical practice guideline. J Neurooncol 2010;96:33-43.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19960230">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

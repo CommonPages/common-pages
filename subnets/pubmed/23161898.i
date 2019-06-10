@@ -5,10 +5,15 @@
 /// Kreuter et al., 2013
 article '23161898
 
+  index: hide
+  line !c
+    + c = Adjuvant chemotherapy with CPx is safe and feasible with less toxicity and superior dose delivery compared with CVb.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kreuter M, Vansteenkiste J, Fischer JR, et al. Randomized phase 2 trial on refinement of early-stage NSCLC adjuvant chemotherapy with cisplatin and pemetrexed versus cisplatin and vinorelbine: the TREAT study. Ann Oncol 2013;24:986-992. </div>
+    <div class="Citation-text">Kreuter M, Vansteenkiste J, Fischer JR, et al. Randomized phase 2 trial on refinement of early-stage NSCLC adjuvant chemotherapy with cisplatin and pemetrexed versus cisplatin and vinorelbine: the TREAT study. Ann Oncol 2013;24:986-992.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23161898">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

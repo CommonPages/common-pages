@@ -8,7 +8,7 @@ article '24992501
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kazerooni EA, Austin JH, Black WC, et al. ACR-STR practice parameter for the performance and reporting of lung cancer screening thoracic computed tomography (CT): 2014 (Resolution 4). J Thorac Imaging 2014;29:310-316. </div>
+    <div class="Citation-text">Kazerooni EA, Austin JH, Black WC, et al. ACR-STR practice parameter for the performance and reporting of lung cancer screening thoracic computed tomography (CT): 2014 (Resolution 4). J Thorac Imaging 2014;29:310-316.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24992501">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Moyer et al., 2014
 article '24378917
 
+  index: hide
+  line !c
+    + c = The USPSTF recommends annual screening for lung cancer with low-dose computed tomography in adults aged 55 to 80 years who have a 30 pack-year smoking history and currently smoke or have quit within the past 15 years. Screening should be discontinued once a person has not smoked for 15 years or develops a health problem that substantially limits life expectancy or the ability or willingness to have curative lung surgery. (B recommendation).
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Moyer VA, Force USPST. Screening for lung cancer: U.S. Preventive Services Task Force recommendation statement. Ann Intern Med 2014;160:330-338. </div>
+    <div class="Citation-text">Moyer VA, Force USPST. Screening for lung cancer: U.S. Preventive Services Task Force recommendation statement. Ann Intern Med 2014;160:330-338.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24378917">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

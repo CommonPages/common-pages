@@ -8,7 +8,7 @@ article '17290066
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Subramanian J, Govindan R. Lung cancer in never smokers: a review. J Clin Oncol 2007;25:561-570. </div>
+    <div class="Citation-text">Subramanian J, Govindan R. Lung cancer in never smokers: a review. J Clin Oncol 2007;25:561-570.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17290066">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

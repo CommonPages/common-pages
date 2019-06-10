@@ -8,7 +8,7 @@ article '21729656
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Rodrigues G, Macbeth F, Burmeister B, et al. Consensus statement on palliative lung radiotherapy: third international consensus workshop on palliative radiotherapy and symptom control. Clin Lung Cancer 2012;13:1-5. </div>
+    <div class="Citation-text">Rodrigues G, Macbeth F, Burmeister B, et al. Consensus statement on palliative lung radiotherapy: third international consensus workshop on palliative radiotherapy and symptom control. Clin Lung Cancer 2012;13:1-5.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21729656">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

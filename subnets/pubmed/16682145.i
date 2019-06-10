@@ -13,7 +13,7 @@ article '16682145
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Chang JY, Zhang X, Wang X, et al. Significant reduction of normal tissue dose by proton radiotherapy compared with three-dimensional conformal or intensity-modulated radiation therapy in Stage I or Stage III non-small-cell lung cancer. Int J Radiat Oncol Biol Phys 2006;65:1087-1096. </div>
+    <div class="Citation-text">Chang JY, Zhang X, Wang X, et al. Significant reduction of normal tissue dose by proton radiotherapy compared with three-dimensional conformal or intensity-modulated radiation therapy in Stage I or Stage III non-small-cell lung cancer. Int J Radiat Oncol Biol Phys 2006;65:1087-1096.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/16682145">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

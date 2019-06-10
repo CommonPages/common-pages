@@ -5,10 +5,15 @@
 /// Goldstein et al., 2016
 article '26313558
 
+  index: hide
+  line !c
+    + c = These findings provide a value-based range for the cost of necitumumab from $563 to $1309 per cycle. This study provides a framework for establishing value-based pricing for new oncology drugs entering the US marketplace.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Goldstein DA, Chen Q, Ayer T, et al. Necitumumab in metastatic squamous cell lung cancer: Establishing a value-based cost. JAMA Oncol 2015;1:1293-1300. </div>
+    <div class="Citation-text">Goldstein DA, Chen Q, Ayer T, et al. Necitumumab in metastatic squamous cell lung cancer: Establishing a value-based cost. JAMA Oncol 2015;1:1293-1300.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26313558">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Yuan et al., 2007
 article '17551299
 
+  index: hide
+  line !c
+    + c = IFI arm achieved better overall response and local control than ENI arm, and it allowed a dose of 68 to 74 Gy to be safely administered to patients with inoperable stage III NSCLC. Outcome improvement can be expected by conformal IFI combined with chemotherapy for stage III NSCLC.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Yuan S, Sun X, Li M, et al. A randomized study of involved-field irradiation versus elective nodal irradiation in combination with concurrent chemotherapy for inoperable stage III nonsmall cell lung cancer. Am J Clin Oncol 2007;30:239-244. </div>
+    <div class="Citation-text">Yuan S, Sun X, Li M, et al. A randomized study of involved-field irradiation versus elective nodal irradiation in combination with concurrent chemotherapy for inoperable stage III nonsmall cell lung cancer. Am J Clin Oncol 2007;30:239-244.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17551299">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '24911368
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Gonzales D, Hajek P, Pliamm L, et al. Retreatment with varenicline for smoking cessation in smokers who have previously taken varenicline: a randomized, placebo-controlled trial. Clin Pharmacol Ther 2014;96:390-396. </div>
+    <div class="Citation-text">Gonzales D, Hajek P, Pliamm L, et al. Retreatment with varenicline for smoking cessation in smokers who have previously taken varenicline: a randomized, placebo-controlled trial. Clin Pharmacol Ther 2014;96:390-396.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24911368">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

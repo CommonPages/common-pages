@@ -8,7 +8,7 @@ article '26884577
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Melosky B, Chu Q, Juergens R, et al. Pointed progress in second-line advanced non-small-cell lung cancer: the rapidly evolving field of checkpoint inhibition. J Clin Oncol 2016;34:1676-1688. </div>
+    <div class="Citation-text">Melosky B, Chu Q, Juergens R, et al. Pointed progress in second-line advanced non-small-cell lung cancer: the rapidly evolving field of checkpoint inhibition. J Clin Oncol 2016;34:1676-1688.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26884577">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

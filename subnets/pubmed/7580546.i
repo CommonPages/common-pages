@@ -5,10 +5,15 @@
 /// Chemotherapy in non-small cell lung canc…
 article '7580546
 
+  index: hide
+  line !c
+    + c = At the outset of this meta-analysis there was considerable pessimism about the role of chemotherapy in non-small cell lung cancer. These results offer hope of progress and suggest that chemotherapy may have a role in treating this disease.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Chemotherapy in non-small cell lung cancer: a meta-analysis using updated data on individual patients from 52 randomised clinical trials. Non-small Cell Lung Cancer Collaborative Group. BMJ 1995;311:899-909. </div>
+    <div class="Citation-text">Chemotherapy in non-small cell lung cancer: a meta-analysis using updated data on individual patients from 52 randomised clinical trials. Non-small Cell Lung Cancer Collaborative Group. BMJ 1995;311:899-909.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/7580546">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

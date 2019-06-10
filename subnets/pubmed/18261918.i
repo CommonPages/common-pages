@@ -13,7 +13,7 @@ article '18261918
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Sienel W, Dango S, Kirschbaum A, et al. Sublobar resections in stage IA non-small cell lung cancer: segmentectomies result in significantly better cancer-related survival than wedge resections. Eur J Cardiothorac Surg 2008;33:728-734. </div>
+    <div class="Citation-text">Sienel W, Dango S, Kirschbaum A, et al. Sublobar resections in stage IA non-small cell lung cancer: segmentectomies result in significantly better cancer-related survival than wedge resections. Eur J Cardiothorac Surg 2008;33:728-734.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18261918">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

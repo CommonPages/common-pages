@@ -8,7 +8,7 @@ article '24019783
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kuriyama Y, Kim YH, Nagai H, et al. Disease flare after discontinuation of crizotinib in anaplastic lymphoma kinase-positive lung cancer. Case Rep Oncol 2013;6:430-433. </div>
+    <div class="Citation-text">Kuriyama Y, Kim YH, Nagai H, et al. Disease flare after discontinuation of crizotinib in anaplastic lymphoma kinase-positive lung cancer. Case Rep Oncol 2013;6:430-433.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24019783">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

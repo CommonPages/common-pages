@@ -5,6 +5,11 @@
 /// Rodrigues et al., 2015
 article '25740118
 
+  index: hide
+  line !c
+    + c = This Guideline is intended to serve as a guide for the use of EBRT, EBB, and CC in thoracic palliation of lung cancer outside the clinical trial setting. Further prospective clinical investigations with relevant palliative endpoints into the respective roles of EBB and CC/targeted therapy in the thoracic palliation of lung cancer are warranted, given the current state of the medical literature in these areas.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">

@@ -8,7 +8,7 @@ article '19960227
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Linskey ME, Andrews DW, Asher AL, et al. The role of stereotactic radiosurgery in the management of patients with newly diagnosed brain metastases: a systematic review and evidence-based clinical practice guideline. J Neurooncol 2010;96:45-68. </div>
+    <div class="Citation-text">Linskey ME, Andrews DW, Asher AL, et al. The role of stereotactic radiosurgery in the management of patients with newly diagnosed brain metastases: a systematic review and evidence-based clinical practice guideline. J Neurooncol 2010;96:45-68.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19960227">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

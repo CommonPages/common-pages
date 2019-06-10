@@ -8,7 +8,7 @@ article '3032394
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Perez CA, Pajak TF, Rubin P, et al. Long-term observations of the patterns of failure in patients with unresectable non-oat cell carcinoma of the lung treated with definitive radiotherapy. Report by the Radiation Therapy Oncology Group. Cancer 1987;59:1874-1881. </div>
+    <div class="Citation-text">Perez CA, Pajak TF, Rubin P, et al. Long-term observations of the patterns of failure in patients with unresectable non-oat cell carcinoma of the lung treated with definitive radiotherapy. Report by the Radiation Therapy Oncology Group. Cancer 1987;59:1874-1881.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/3032394">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

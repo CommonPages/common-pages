@@ -8,7 +8,7 @@ article '22722794
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Heist RS, Sequist LV, Engelman JA. Genetic changes in squamous cell lung cancer: a review. J Thorac Oncol 2012;7:924-933. </div>
+    <div class="Citation-text">Heist RS, Sequist LV, Engelman JA. Genetic changes in squamous cell lung cancer: a review. J Thorac Oncol 2012;7:924-933.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22722794">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

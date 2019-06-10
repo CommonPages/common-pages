@@ -5,10 +5,15 @@
 /// Yamamoto et al., 2014
 article '24621620
 
+  index: hide
+  line !c
+    + c = Our results suggest that stereotactic radiosurgery without WBRT in patients with five to ten brain metastases is non-inferior to that in patients with two to four brain metastases. Considering the minimal invasiveness of stereotactic radiosurgery and the fewer side-effects than with WBRT, stereotactic radiosurgery might be a suitable alternative for patients with up to ten brain metastases.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Yamamoto M, Serizawa T, Shuto T, et al. Stereotactic radiosurgery for patients with multiple brain metastases (JLGK0901): a multi-institutional prospective observational study. Lancet Oncol 2014;15:387-395. </div>
+    <div class="Citation-text">Yamamoto M, Serizawa T, Shuto T, et al. Stereotactic radiosurgery for patients with multiple brain metastases (JLGK0901): a multi-institutional prospective observational study. Lancet Oncol 2014;15:387-395.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24621620">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

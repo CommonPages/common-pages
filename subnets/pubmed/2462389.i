@@ -8,7 +8,7 @@ article '2462389
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Gelb AF, Tashkin DP, Epstein JD, et al. Physiologic characteristics of malignant unilateral main-stem bronchial obstruction. Diagnosis and Nd-YAG laser treatment. Am Rev Respir Dis 1988;138:1382-1385. </div>
+    <div class="Citation-text">Gelb AF, Tashkin DP, Epstein JD, et al. Physiologic characteristics of malignant unilateral main-stem bronchial obstruction. Diagnosis and Nd-YAG laser treatment. Am Rev Respir Dis 1988;138:1382-1385.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/2462389">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

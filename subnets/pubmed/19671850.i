@@ -13,7 +13,7 @@ article '19671850
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Rodig SJ, Mino-Kenudson M, Dacic S, et al. Unique clinicopathologic features characterize ALK-rearranged lung adenocarcinoma in the western population. Clin Cancer Res 2009;15:5216-5223. </div>
+    <div class="Citation-text">Rodig SJ, Mino-Kenudson M, Dacic S, et al. Unique clinicopathologic features characterize ALK-rearranged lung adenocarcinoma in the western population. Clin Cancer Res 2009;15:5216-5223.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19671850">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

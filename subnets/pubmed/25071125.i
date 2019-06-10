@@ -5,10 +5,15 @@
 /// Wildiers et al., 2014
 article '25071125
 
+  index: hide
+  line !c
+    + c = There is mounting data regarding the utility of GA in oncology practice; however, additional research is needed to continue to strengthen the evidence base.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Wildiers H, Heeren P, Puts M, et al. International Society of Geriatric Oncology consensus on geriatric assessment in older patients with cancer. J Clin Oncol 2014;32:2595-2603. </div>
+    <div class="Citation-text">Wildiers H, Heeren P, Puts M, et al. International Society of Geriatric Oncology consensus on geriatric assessment in older patients with cancer. J Clin Oncol 2014;32:2595-2603.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25071125">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

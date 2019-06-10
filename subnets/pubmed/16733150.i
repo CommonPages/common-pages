@@ -5,10 +5,15 @@
 /// Cerfolio et al., 2006
 article '16733150
 
+  index: hide
+  line !c
+    + c = Repeat integrated PET/CT is superior to repeat CT for the restaging of patients with stage IIIa non-small cell lung cancer. The percent decrease in the maximum standardized uptake value of the primary and of the involved lymph node is predictive of pathology; however, nodal biopsies are required since a persistently high maximum standardized uptake value does not equate to residual cancer.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Cerfolio RJ, Bryant AS, Ojha B. Restaging patients with N2 (stage IIIa) non-small cell lung cancer after neoadjuvant chemoradiotherapy: a prospective study. J Thorac Cardiovasc Surg 2006;131:1229-1235. </div>
+    <div class="Citation-text">Cerfolio RJ, Bryant AS, Ojha B. Restaging patients with N2 (stage IIIa) non-small cell lung cancer after neoadjuvant chemoradiotherapy: a prospective study. J Thorac Cardiovasc Surg 2006;131:1229-1235.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/16733150">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

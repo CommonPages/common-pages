@@ -5,10 +5,15 @@
 /// Langer et al., 2008
 article '18520802
 
+  index: hide
+  line !c
+    + c = PPX/carboplatin failed to provide superior survival compared with paclitaxel/carboplatin in the first-line treatment of PS 2 patients with NSCLC, but the results with respect to progression-free survival and overall survival were comparable and the PPX regimen was more convenient.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Langer CJ, O'Byrne KJ, Socinski MA, et al. Phase III trial comparing paclitaxel poliglumex (CT-2103, PPX) in combination with carboplatin versus standard paclitaxel and carboplatin in the treatment of PS 2 patients with chemotherapy-naive advanced non-small cell lung cancer. J Thorac Oncol 2008;3:623-630. </div>
+    <div class="Citation-text">Langer CJ, O'Byrne KJ, Socinski MA, et al. Phase III trial comparing paclitaxel poliglumex (CT-2103, PPX) in combination with carboplatin versus standard paclitaxel and carboplatin in the treatment of PS 2 patients with chemotherapy-naive advanced non-small cell lung cancer. J Thorac Oncol 2008;3:623-630.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18520802">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

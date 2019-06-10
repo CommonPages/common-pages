@@ -13,7 +13,7 @@ article '17020982
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kosaka T, Yatabe Y, Endoh H, et al. Analysis of epidermal growth factor receptor gene mutation in patients with non-small cell lung cancer and acquired resistance to gefitinib. Clin Cancer Res 2006;12:5764-5769. </div>
+    <div class="Citation-text">Kosaka T, Yatabe Y, Endoh H, et al. Analysis of epidermal growth factor receptor gene mutation in patients with non-small cell lung cancer and acquired resistance to gefitinib. Clin Cancer Res 2006;12:5764-5769.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17020982">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

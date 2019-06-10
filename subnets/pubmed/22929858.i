@@ -13,7 +13,7 @@ article '22929858
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Baker R, Han G, Sarangkasiri S, et al. Clinical and dosimetric predictors of radiation pneumonitis in a large series of patients treated with stereotactic body radiation therapy to the lung. Int J Radiat Oncol Biol Phys 2013;85:190-195. </div>
+    <div class="Citation-text">Baker R, Han G, Sarangkasiri S, et al. Clinical and dosimetric predictors of radiation pneumonitis in a large series of patients treated with stereotactic body radiation therapy to the lung. Int J Radiat Oncol Biol Phys 2013;85:190-195.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22929858">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

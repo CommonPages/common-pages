@@ -5,10 +5,15 @@
 /// Wolchok et al., 2010
 article '19934295
 
+  index: hide
+  line !c
+    + c = Systematic criteria, designated immune-related response criteria, were defined in an attempt to capture additional response patterns observed with immune therapy in advanced melanoma beyond those described by Response Evaluation Criteria in Solid Tumors or WHO criteria. Further prospective evaluations of the immune-related response criteria, particularly their association with overall survival, are warranted.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Wolchok JD, Hoos A, O'Day S, et al. Guidelines for the evaluation of immune therapy activity in solid tumors: immune-related response criteria. Clin Cancer Res 2009;15:7412-7420. </div>
+    <div class="Citation-text">Wolchok JD, Hoos A, O'Day S, et al. Guidelines for the evaluation of immune therapy activity in solid tumors: immune-related response criteria. Clin Cancer Res 2009;15:7412-7420.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19934295">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

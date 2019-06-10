@@ -13,7 +13,7 @@ article '17409799
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Feigenberg SJ, Hanlon AL, Langer C, et al. A phase II study of concurrent carboplatin and paclitaxel and thoracic radiotherapy for completely resected stage II and IIIA non-small cell lung cancer. J Thorac Oncol 2007;2:287-292. </div>
+    <div class="Citation-text">Feigenberg SJ, Hanlon AL, Langer C, et al. A phase II study of concurrent carboplatin and paclitaxel and thoracic radiotherapy for completely resected stage II and IIIA non-small cell lung cancer. J Thorac Oncol 2007;2:287-292.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17409799">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Reck et al., 2009
 article '19188680
 
+  index: hide
+  line !c
+    + c = Combining bevacizumab (7.5 or 15 mg/kg) with CG significantly improved PFS and objective response rate. Bevacizumab plus platinum-based chemotherapy offers clinical benefit for bevacizumab-eligible patients with advanced NSCLC.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Reck M, von Pawel J, Zatloukal P, et al. Phase III trial of cisplatin plus gemcitabine with either placebo or bevacizumab as first-line therapy for nonsquamous non-small-cell lung cancer: AVAil. J Clin Oncol 2009;27:1227-1234. </div>
+    <div class="Citation-text">Reck M, von Pawel J, Zatloukal P, et al. Phase III trial of cisplatin plus gemcitabine with either placebo or bevacizumab as first-line therapy for nonsquamous non-small-cell lung cancer: AVAil. J Clin Oncol 2009;27:1227-1234.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19188680">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

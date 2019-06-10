@@ -8,7 +8,7 @@ article '26629423
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Simone CB, 2nd, Burri SH, Heinzerling JH. Novel radiotherapy approaches for lung cancer: combining radiation therapy with targeted and immunotherapies. Transl Lung Cancer Res 2015;4:545-552. </div>
+    <div class="Citation-text">Simone CB, 2nd, Burri SH, Heinzerling JH. Novel radiotherapy approaches for lung cancer: combining radiation therapy with targeted and immunotherapies. Transl Lung Cancer Res 2015;4:545-552.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26629423">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

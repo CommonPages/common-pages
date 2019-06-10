@@ -13,7 +13,7 @@ article '17690135
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Taylor R, Najafi F, Dobson A. Meta-analysis of studies of passive smoking and lung cancer: effects of study type and continent. Int J Epidemiol 2007;36:1048-1059. </div>
+    <div class="Citation-text">Taylor R, Najafi F, Dobson A. Meta-analysis of studies of passive smoking and lung cancer: effects of study type and continent. Int J Epidemiol 2007;36:1048-1059.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17690135">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

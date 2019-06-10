@@ -13,7 +13,7 @@ article '25838187
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Sher DJ, Fidler MJ, Seder CW, et al. Relationship between radiation therapy dose and outcome in patients treated with neoadjuvant chemoradiation therapy and surgery for stage IIIA non-small cell lung cancer: a population-based, comparative effectiveness analysis. Int J Radiat Oncol Biol Phys 2015;92:307-316. </div>
+    <div class="Citation-text">Sher DJ, Fidler MJ, Seder CW, et al. Relationship between radiation therapy dose and outcome in patients treated with neoadjuvant chemoradiation therapy and surgery for stage IIIA non-small cell lung cancer: a population-based, comparative effectiveness analysis. Int J Radiat Oncol Biol Phys 2015;92:307-316.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25838187">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

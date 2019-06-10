@@ -5,10 +5,15 @@
 /// Evans et al., 2010
 article '20304144
 
+  index: hide
+  line !c
+    + c = Less than 10% of all major lung resections for primary carcinoma and just more than half of all resections for clinical stage IIIA-N2 disease are preceded by neoadjuvant chemotherapy or radiation. This study does not support concerns over excessive operative risk of induction therapy.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Evans NR, 3rd, Li S, Wright CD, et al. The impact of induction therapy on morbidity and operative mortality after resection of primary lung cancer. J Thorac Cardiovasc Surg 2010;139:991-996 e991-992. </div>
+    <div class="Citation-text">Evans NR, 3rd, Li S, Wright CD, et al. The impact of induction therapy on morbidity and operative mortality after resection of primary lung cancer. J Thorac Cardiovasc Surg 2010;139:991-996 e991-992.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20304144">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Maziak et al., 2009
 article '19581636
 
+  index: hide
+  line !c
+    + c = The relatively small sample and the fact that some patients did not have planned surgery limited the ability to determine precise differences in clinical outcomes that were attributable to testing strategies.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Maziak DE, Darling GE, Inculet RI, et al. Positron emission tomography in staging early lung cancer: a randomized trial. Ann Intern Med 2009;151:221-228, W-248. </div>
+    <div class="Citation-text">Maziak DE, Darling GE, Inculet RI, et al. Positron emission tomography in staging early lung cancer: a randomized trial. Ann Intern Med 2009;151:221-228, W-248.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19581636">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

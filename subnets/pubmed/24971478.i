@@ -8,7 +8,7 @@ article '24971478
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Expert Panel on Radiation Oncology-Brain M, Lo SS, Gore EM, et al. ACR Appropriateness Criteria(R) pre-irradiation evaluation and management of brain metastases. J Palliat Med 2014;17:880-886. </div>
+    <div class="Citation-text">Expert Panel on Radiation Oncology-Brain M, Lo SS, Gore EM, et al. ACR Appropriateness Criteria(R) pre-irradiation evaluation and management of brain metastases. J Palliat Med 2014;17:880-886.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24971478">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

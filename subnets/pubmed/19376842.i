@@ -13,7 +13,7 @@ article '19376842
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Girard N, Deshpande C, Azzoli CG, et al. Use of epidermal growth factor receptor/Kirsten rat sarcoma 2 viral oncogene homolog mutation testing to define clonal relationships among multiple lung adenocarcinomas: comparison with clinical guidelines. Chest 2010;137:46-52. </div>
+    <div class="Citation-text">Girard N, Deshpande C, Azzoli CG, et al. Use of epidermal growth factor receptor/Kirsten rat sarcoma 2 viral oncogene homolog mutation testing to define clonal relationships among multiple lung adenocarcinomas: comparison with clinical guidelines. Chest 2010;137:46-52.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19376842">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

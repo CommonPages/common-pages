@@ -5,10 +5,15 @@
 /// Tsao et al., 2007
 article '18024870
 
+  index: hide
+  line !c
+    + c = p53 protein overexpression is a significant prognostic marker of shortened survival, and also a significant predictive marker for a differentially greater benefit from adjuvant chemotherapy in completely resected NSCLC patients.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Tsao MS, Aviel-Ronen S, Ding K, et al. Prognostic and predictive importance of p53 and RAS for adjuvant chemotherapy in non small-cell lung cancer. J Clin Oncol 2007;25:5240-5247. </div>
+    <div class="Citation-text">Tsao MS, Aviel-Ronen S, Ding K, et al. Prognostic and predictive importance of p53 and RAS for adjuvant chemotherapy in non small-cell lung cancer. J Clin Oncol 2007;25:5240-5247.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18024870">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

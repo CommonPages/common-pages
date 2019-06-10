@@ -13,7 +13,7 @@ article '15464469
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Nakata M, Sawada S, Yamashita M, et al. Surgical treatments for multiple primary adenocarcinoma of the lung. Ann Thorac Surg 2004;78:1194-1199. </div>
+    <div class="Citation-text">Nakata M, Sawada S, Yamashita M, et al. Surgical treatments for multiple primary adenocarcinoma of the lung. Ann Thorac Surg 2004;78:1194-1199.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/15464469">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

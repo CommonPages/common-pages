@@ -8,7 +8,7 @@ article '25514807
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Chang JY, Bezjak A, Mornex F, Committee IART. Stereotactic ablative radiotherapy for centrally located early stage non-small-cell lung cancer: what we have learned. J Thorac Oncol 2015;10:577-585. </div>
+    <div class="Citation-text">Chang JY, Bezjak A, Mornex F, Committee IART. Stereotactic ablative radiotherapy for centrally located early stage non-small-cell lung cancer: what we have learned. J Thorac Oncol 2015;10:577-585.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25514807">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

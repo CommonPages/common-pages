@@ -5,10 +5,15 @@
 /// Aoyama et al., 2007
 article '17674975
 
+  index: hide
+  line !c
+    + c = The results of the present study have revealed that, for most brain metastatic patients, control of the brain tumor is the most important factor for stabilizing neurocognitive function. However, the long-term adverse effects of WBRT on neurocognitive function might not be negligible.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Aoyama H, Tago M, Kato N, et al. Neurocognitive function of patients with brain metastasis who received either whole brain radiotherapy plus stereotactic radiosurgery or radiosurgery alone. Int J Radiat Oncol Biol Phys 2007;68:1388-1395. </div>
+    <div class="Citation-text">Aoyama H, Tago M, Kato N, et al. Neurocognitive function of patients with brain metastasis who received either whole brain radiotherapy plus stereotactic radiosurgery or radiosurgery alone. Int J Radiat Oncol Biol Phys 2007;68:1388-1395.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17674975">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

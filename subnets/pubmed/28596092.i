@@ -13,7 +13,7 @@ article '28596092
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Videtic GMM, Donington J, Giuliani M, et al. Stereotactic body radiation therapy for early-stage non-small cell lung cancer: Executive Summary of an ASTRO Evidence-Based Guideline. Pract Radiat Oncol 2017;7:295-301. </div>
+    <div class="Citation-text">Videtic GMM, Donington J, Giuliani M, et al. Stereotactic body radiation therapy for early-stage non-small cell lung cancer: Executive Summary of an ASTRO Evidence-Based Guideline. Pract Radiat Oncol 2017;7:295-301.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/28596092">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

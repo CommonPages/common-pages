@@ -8,7 +8,7 @@ article '24718890
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kerr KM, Bubendorf L, Edelman MJ, et al. Second ESMO consensus conference on lung cancer: pathology and molecular biomarkers for non-small-cell lung cancer. Ann Oncol 2014;25:1681-1690. </div>
+    <div class="Citation-text">Kerr KM, Bubendorf L, Edelman MJ, et al. Second ESMO consensus conference on lung cancer: pathology and molecular biomarkers for non-small-cell lung cancer. Ann Oncol 2014;25:1681-1690.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24718890">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

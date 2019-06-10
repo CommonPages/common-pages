@@ -8,7 +8,7 @@ article '27354477
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Oxnard GR, Thress KS, Alden RS, et al. Association between plasma genotyping and outcomes of treatment with osimertinib (AZD9291) in advanced non-small-cell lung cancer. J Clin Oncol 2016;34:3375-3382. </div>
+    <div class="Citation-text">Oxnard GR, Thress KS, Alden RS, et al. Association between plasma genotyping and outcomes of treatment with osimertinib (AZD9291) in advanced non-small-cell lung cancer. J Clin Oncol 2016;34:3375-3382.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27354477">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

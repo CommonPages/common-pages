@@ -13,7 +13,7 @@ article '17785570
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Riely GJ, Kris MG, Zhao B, et al. Prospective assessment of discontinuation and reinitiation of erlotinib or gefitinib in patients with acquired resistance to erlotinib or gefitinib followed by the addition of everolimus. Clin Cancer Res 2007;13:5150-5155. </div>
+    <div class="Citation-text">Riely GJ, Kris MG, Zhao B, et al. Prospective assessment of discontinuation and reinitiation of erlotinib or gefitinib in patients with acquired resistance to erlotinib or gefitinib followed by the addition of everolimus. Clin Cancer Res 2007;13:5150-5155.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17785570">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

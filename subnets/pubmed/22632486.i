@@ -13,7 +13,7 @@ article '22632486
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Shah AA, Berry MF, Tzao C, et al. Induction chemoradiation is not superior to induction chemotherapy alone in stage IIIA lung cancer. Ann Thorac Surg 2012;93:1807-1812. </div>
+    <div class="Citation-text">Shah AA, Berry MF, Tzao C, et al. Induction chemoradiation is not superior to induction chemotherapy alone in stage IIIA lung cancer. Ann Thorac Surg 2012;93:1807-1812.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22632486">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

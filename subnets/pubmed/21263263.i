@@ -8,7 +8,7 @@ article '21263263
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Narsule CK, Ebright MI, Fernando HC. Sublobar versus lobar resection: current status. Cancer J 2011;17:23-27. </div>
+    <div class="Citation-text">Narsule CK, Ebright MI, Fernando HC. Sublobar versus lobar resection: current status. Cancer J 2011;17:23-27.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21263263">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

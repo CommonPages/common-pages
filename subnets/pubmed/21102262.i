@@ -13,7 +13,7 @@ article '21102262
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Neri S, Takahashi Y, Terashi T, et al. Surgical treatment of local recurrence after stereotactic body radiotherapy for primary and metastatic lung cancers. J Thorac Oncol 2010;5:2003-2007. </div>
+    <div class="Citation-text">Neri S, Takahashi Y, Terashi T, et al. Surgical treatment of local recurrence after stereotactic body radiotherapy for primary and metastatic lung cancers. J Thorac Oncol 2010;5:2003-2007.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21102262">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

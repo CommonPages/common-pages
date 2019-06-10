@@ -5,10 +5,15 @@
 /// Kawamura et al., 2015
 article '25921002
 
+  index: hide
+  line !c
+    + c = High-dose erlotinib suggested its efficacy and safety in some patients with refractory LM. It represents a potential therapeutic option against LM after failure of standard-dose EGFR-TKIs, especially to palliate LM-related neurological symptoms.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kawamura T, Hata A, Takeshita J, et al. High-dose erlotinib for refractory leptomeningeal metastases after failure of standard-dose EGFR-TKIs. Cancer Chemother Pharmacol 2015;75:1261-1266. </div>
+    <div class="Citation-text">Kawamura T, Hata A, Takeshita J, et al. High-dose erlotinib for refractory leptomeningeal metastases after failure of standard-dose EGFR-TKIs. Cancer Chemother Pharmacol 2015;75:1261-1266.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25921002">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

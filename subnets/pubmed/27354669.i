@@ -8,7 +8,7 @@ article '27354669
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Campo M, Al-Halabi H, Khandekar M, et al. Integration of stereotactic body radiation therapy with tyrosine kinase inhibitors in stage IV oncogene-driven lung cancer. Oncologist 2016;21:964-973. </div>
+    <div class="Citation-text">Campo M, Al-Halabi H, Khandekar M, et al. Integration of stereotactic body radiation therapy with tyrosine kinase inhibitors in stage IV oncogene-driven lung cancer. Oncologist 2016;21:964-973.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27354669">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '21757436
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Wisnivesky JP, Smith CB, Packer S, et al. Survival and risk of adverse events in older patients receiving postoperative adjuvant chemotherapy for resected stages II-IIIA lung cancer: observational cohort study. BMJ 2011;343:d4013. </div>
+    <div class="Citation-text">Wisnivesky JP, Smith CB, Packer S, et al. Survival and risk of adverse events in older patients receiving postoperative adjuvant chemotherapy for resected stages II-IIIA lung cancer: observational cohort study. BMJ 2011;343:d4013.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21757436">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

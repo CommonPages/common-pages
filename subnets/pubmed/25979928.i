@@ -8,7 +8,7 @@ article '25979928
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Riely GJ, Yu HA. EGFR: the paradigm of an oncogene-driven lung cancer. Clin Cancer Res 2015;21:2221-2226. </div>
+    <div class="Citation-text">Riely GJ, Yu HA. EGFR: the paradigm of an oncogene-driven lung cancer. Clin Cancer Res 2015;21:2221-2226.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25979928">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

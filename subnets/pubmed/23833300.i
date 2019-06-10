@@ -13,7 +13,7 @@ article '23833300
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Cardarella S, Ogino A, Nishino M, et al. Clinical, pathologic, and biologic features associated with BRAF mutations in non-small cell lung cancer. Clin Cancer Res 2013;19:4532-4540. </div>
+    <div class="Citation-text">Cardarella S, Ogino A, Nishino M, et al. Clinical, pathologic, and biologic features associated with BRAF mutations in non-small cell lung cancer. Clin Cancer Res 2013;19:4532-4540.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23833300">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

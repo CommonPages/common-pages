@@ -5,10 +5,15 @@
 /// Patel et al., 2014
 article '24145346
 
+  index: hide
+  line !c
+    + c = OS did not improve with the PemCBev regimen compared with the PacCBev regimen, although PFS was significantly improved with PemCBev. Toxicity profiles differed; both regimens demonstrated tolerability.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Patel JD, Socinski MA, Garon EB, et al. PointBreak: a randomized phase III study of pemetrexed plus carboplatin and bevacizumab followed by maintenance pemetrexed and bevacizumab versus paclitaxel plus carboplatin and bevacizumab followed by maintenance bevacizumab in patients with stage IIIB or IV nonsquamous non-small-cell lung cancer. J Clin Oncol 2013;31:4349-4357. </div>
+    <div class="Citation-text">Patel JD, Socinski MA, Garon EB, et al. PointBreak: a randomized phase III study of pemetrexed plus carboplatin and bevacizumab followed by maintenance pemetrexed and bevacizumab versus paclitaxel plus carboplatin and bevacizumab followed by maintenance bevacizumab in patients with stage IIIB or IV nonsquamous non-small-cell lung cancer. J Clin Oncol 2013;31:4349-4357.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24145346">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

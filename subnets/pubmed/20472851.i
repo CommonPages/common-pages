@@ -8,7 +8,7 @@ article '20472851
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Sholl LM, Xiao Y, Joshi V, et al. EGFR mutation is a better predictor of response to tyrosine kinase inhibitors in non-small cell lung carcinoma than FISH, CISH, and immunohistochemistry. Am J Clin Pathol 2010;133:922-934. </div>
+    <div class="Citation-text">Sholl LM, Xiao Y, Joshi V, et al. EGFR mutation is a better predictor of response to tyrosine kinase inhibitors in non-small cell lung carcinoma than FISH, CISH, and immunohistochemistry. Am J Clin Pathol 2010;133:922-934.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20472851">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

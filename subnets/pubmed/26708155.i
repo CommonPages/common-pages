@@ -5,10 +5,15 @@
 /// Shaw et al., 2016
 article '26708155
 
+  index: hide
+  line !c
+    + c = Alectinib showed clinical activity and was well tolerated in patients with ALK-positive NSCLC who had progressed on crizotinib. Therefore, alectinib could be a suitable treatment for patients with ALK-positive disease who have progressed on crizotinib.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Shaw AT, Gandhi L, Gadgeel S, et al. Alectinib in ALK-positive, crizotinib-resistant, non-small-cell lung cancer: a single-group, multicentre, phase 2 trial. Lancet Oncol 2016;17:234-242. </div>
+    <div class="Citation-text">Shaw AT, Gandhi L, Gadgeel S, et al. Alectinib in ALK-positive, crizotinib-resistant, non-small-cell lung cancer: a single-group, multicentre, phase 2 trial. Lancet Oncol 2016;17:234-242.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26708155">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

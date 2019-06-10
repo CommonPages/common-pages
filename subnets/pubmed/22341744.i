@@ -5,10 +5,15 @@
 /// Paz-Ares et al., 2012
 article '22341744
 
+  index: hide
+  line !c
+    + c = Continuation maintenance with pemetrexed is an effective and well tolerated treatment option for patients with advanced non-squamous NSCLC with good performance status who have not progressed after induction therapy with pemetrexed plus cisplatin.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Paz-Ares L, de Marinis F, Dediu M, et al. Maintenance therapy with pemetrexed plus best supportive care versus placebo plus best supportive care after induction therapy with pemetrexed plus cisplatin for advanced non-squamous non-small-cell lung cancer (PARAMOUNT): a double-blind, phase 3, randomised controlled trial. Lancet Oncol 2012;13:247-255. </div>
+    <div class="Citation-text">Paz-Ares L, de Marinis F, Dediu M, et al. Maintenance therapy with pemetrexed plus best supportive care versus placebo plus best supportive care after induction therapy with pemetrexed plus cisplatin for advanced non-squamous non-small-cell lung cancer (PARAMOUNT): a double-blind, phase 3, randomised controlled trial. Lancet Oncol 2012;13:247-255.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22341744">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

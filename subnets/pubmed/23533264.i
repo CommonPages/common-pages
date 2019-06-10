@@ -8,7 +8,7 @@ article '23533264
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Drilon A, Wang L, Hasanovic A, et al. Response to cabozantinib in patients with RET fusion-positive lung adenocarcinomas. Cancer Discov 2013;3:630-635. </div>
+    <div class="Citation-text">Drilon A, Wang L, Hasanovic A, et al. Response to cabozantinib in patients with RET fusion-positive lung adenocarcinomas. Cancer Discov 2013;3:630-635.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23533264">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

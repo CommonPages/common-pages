@@ -8,7 +8,7 @@ article '17580276
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Sakuma Y, Matsukuma S, Yoshihara M, et al. Distinctive evaluation of nonmucinous and mucinous subtypes of bronchioloalveolar carcinomas in EGFR and K-ras gene-mutation analyses for Japanese lung adenocarcinomas: confirmation of the correlations with histologic subtypes and gene mutations. Am J Clin Pathol 2007;128:100-108. </div>
+    <div class="Citation-text">Sakuma Y, Matsukuma S, Yoshihara M, et al. Distinctive evaluation of nonmucinous and mucinous subtypes of bronchioloalveolar carcinomas in EGFR and K-ras gene-mutation analyses for Japanese lung adenocarcinomas: confirmation of the correlations with histologic subtypes and gene mutations. Am J Clin Pathol 2007;128:100-108.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17580276">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

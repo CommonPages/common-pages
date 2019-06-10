@@ -8,7 +8,7 @@ article '23759273
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Casas A, Llombart A, Martin M. Denosumab for the treatment of bone metastases in advanced breast cancer. Breast 2013;22:585-592. </div>
+    <div class="Citation-text">Casas A, Llombart A, Martin M. Denosumab for the treatment of bone metastases in advanced breast cancer. Breast 2013;22:585-592.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23759273">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

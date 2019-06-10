@@ -8,7 +8,7 @@ article '22536988
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Expert Panel On Radiation Oncology-Bone M, Lutz ST, Lo SS, et al. ACR Appropriateness Criteria(R) non-spine bone metastases. J Palliat Med 2012;15:521-526. </div>
+    <div class="Citation-text">Expert Panel On Radiation Oncology-Bone M, Lutz ST, Lo SS, et al. ACR Appropriateness Criteria(R) non-spine bone metastases. J Palliat Med 2012;15:521-526.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22536988">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

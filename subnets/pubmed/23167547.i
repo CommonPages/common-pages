@@ -8,7 +8,7 @@ article '23167547
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Expert Panel on Radiation Oncology-Bone M, Lo SS, Lutz ST, et al. ACR Appropriateness Criteria (R) spinal bone metastases. J Palliat Med 2013;16:9-19. </div>
+    <div class="Citation-text">Expert Panel on Radiation Oncology-Bone M, Lo SS, Lutz ST, et al. ACR Appropriateness Criteria (R) spinal bone metastases. J Palliat Med 2013;16:9-19.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23167547">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

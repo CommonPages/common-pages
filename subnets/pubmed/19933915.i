@@ -8,7 +8,7 @@ article '19933915
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Butts CA, Ding K, Seymour L, et al. Randomized phase III trial of vinorelbine plus cisplatin compared with observation in completely resected stage IB and II non-small-cell lung cancer: updated survival analysis of JBR-10. J Clin Oncol 2010;28:29-34. </div>
+    <div class="Citation-text">Butts CA, Ding K, Seymour L, et al. Randomized phase III trial of vinorelbine plus cisplatin compared with observation in completely resected stage IB and II non-small-cell lung cancer: updated survival analysis of JBR-10. J Clin Oncol 2010;28:29-34.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19933915">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '16572401
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Hu C, Chang EL, Hassenbusch SJ, 3rd, et al. Nonsmall cell lung cancer presenting with synchronous solitary brain metastasis. Cancer 2006;106:1998-2004. </div>
+    <div class="Citation-text">Hu C, Chang EL, Hassenbusch SJ, 3rd, et al. Nonsmall cell lung cancer presenting with synchronous solitary brain metastasis. Cancer 2006;106:1998-2004.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/16572401">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

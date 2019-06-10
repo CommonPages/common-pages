@@ -8,7 +8,7 @@ article '15217970
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Sandler AB, Johnson DH, Herbst RS. Anti-vascular endothelial growth factor monoclonals in non-small cell lung cancer. Clin Cancer Res 2004;10:4258s-4262s. </div>
+    <div class="Citation-text">Sandler AB, Johnson DH, Herbst RS. Anti-vascular endothelial growth factor monoclonals in non-small cell lung cancer. Clin Cancer Res 2004;10:4258s-4262s.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/15217970">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

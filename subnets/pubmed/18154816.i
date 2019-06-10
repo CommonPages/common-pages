@@ -13,7 +13,7 @@ article '18154816
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Cattaneo SM, Park BJ, Wilton AS, et al. Use of video-assisted thoracic surgery for lobectomy in the elderly results in fewer complications. Ann Thorac Surg 2008;85:231-235; discussion 235-236. </div>
+    <div class="Citation-text">Cattaneo SM, Park BJ, Wilton AS, et al. Use of video-assisted thoracic surgery for lobectomy in the elderly results in fewer complications. Ann Thorac Surg 2008;85:231-235; discussion 235-236.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18154816">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

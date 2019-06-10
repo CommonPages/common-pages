@@ -5,10 +5,15 @@
 /// Brown et al., 2016
 article '27458945
 
+  index: hide
+  line !c
+    + c = Among patients with 1 to 3 brain metastases, the use of SRS alone, compared with SRS combined with WBRT, resulted in less cognitive deterioration at 3 months. In the absence of a difference in overall survival, these findings suggest that for patients with 1 to 3 brain metastases amenable to radiosurgery, SRS alone may be a preferred strategy.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Brown PD, Jaeckle K, Ballman KV, et al. Effect of radiosurgery alone vs radiosurgery with whole brain radiation therapy on cognitive function in patients with 1 to 3 brain metastases: a randomized clinical trial. JAMA 2016;316:401-409. </div>
+    <div class="Citation-text">Brown PD, Jaeckle K, Ballman KV, et al. Effect of radiosurgery alone vs radiosurgery with whole brain radiation therapy on cognitive function in patients with 1 to 3 brain metastases: a randomized clinical trial. JAMA 2016;316:401-409.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27458945">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

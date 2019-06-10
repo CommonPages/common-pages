@@ -8,7 +8,7 @@ article '23762840
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Chen M, Bao Y, Ma HL, et al. Involved-field radiotherapy versus elective nodal irradiation in combination with concurrent chemotherapy for locally advanced non-small cell lung cancer: a prospective randomized study. Biomed Res Int 2013;2013:371819. </div>
+    <div class="Citation-text">Chen M, Bao Y, Ma HL, et al. Involved-field radiotherapy versus elective nodal irradiation in combination with concurrent chemotherapy for locally advanced non-small cell lung cancer: a prospective randomized study. Biomed Res Int 2013;2013:371819.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23762840">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

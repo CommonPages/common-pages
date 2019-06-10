@@ -5,10 +5,15 @@
 /// Rosenzweig et al., 2007
 article '17984185
 
+  index: hide
+  line !c
+    + c = The use of IFRT did not cause a significant amount of failure in lymph node regions not included in the tumor volume. Therefore, IFRT remains an acceptable method of treatment that allows for dose escalation while minimizing toxicity.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Rosenzweig KE, Sura S, Jackson A, Yorke E. Involved-field radiation therapy for inoperable non small-cell lung cancer. J Clin Oncol 2007;25:5557-5561. </div>
+    <div class="Citation-text">Rosenzweig KE, Sura S, Jackson A, Yorke E. Involved-field radiation therapy for inoperable non small-cell lung cancer. J Clin Oncol 2007;25:5557-5561.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17984185">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

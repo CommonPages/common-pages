@@ -13,7 +13,7 @@ article '16458447
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Nihei K, Ogino T, Ishikura S, Nishimura H. High-dose proton beam therapy for Stage I non-small-cell lung cancer. Int J Radiat Oncol Biol Phys 2006;65:107-111. </div>
+    <div class="Citation-text">Nihei K, Ogino T, Ishikura S, Nishimura H. High-dose proton beam therapy for Stage I non-small-cell lung cancer. Int J Radiat Oncol Biol Phys 2006;65:107-111.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/16458447">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

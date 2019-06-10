@@ -13,7 +13,7 @@ article '8780630
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Dillman RO, Herndon J, Seagren SL, et al. Improved survival in stage III non-small-cell lung cancer: seven-year follow-up of cancer and leukemia group B (CALGB) 8433 trial. J Natl Cancer Inst 1996;88:1210-1215. </div>
+    <div class="Citation-text">Dillman RO, Herndon J, Seagren SL, et al. Improved survival in stage III non-small-cell lung cancer: seven-year follow-up of cancer and leukemia group B (CALGB) 8433 trial. J Natl Cancer Inst 1996;88:1210-1215.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/8780630">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

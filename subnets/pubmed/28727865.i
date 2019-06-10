@@ -8,7 +8,7 @@ article '28727865
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Chang JY, Verma V, Li M, et al. Proton beam radiotherapy and concurrent chemotherapy for unresectable stage III non-small cell lung cancer: final results of a phase 2 study. JAMA Oncol 2017;3:e172032. </div>
+    <div class="Citation-text">Chang JY, Verma V, Li M, et al. Proton beam radiotherapy and concurrent chemotherapy for unresectable stage III non-small cell lung cancer: final results of a phase 2 study. JAMA Oncol 2017;3:e172032.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/28727865">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

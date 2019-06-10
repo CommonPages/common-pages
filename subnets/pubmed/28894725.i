@@ -8,7 +8,7 @@ article '28894725
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Davies M, Duffield EA. Safety of checkpoint inhibitors for cancer treatment: strategies for patient monitoring and management of immune-mediated adverse events. Immunotargets Ther 2017;6:51-71. </div>
+    <div class="Citation-text">Davies M, Duffield EA. Safety of checkpoint inhibitors for cancer treatment: strategies for patient monitoring and management of immune-mediated adverse events. Immunotargets Ther 2017;6:51-71.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/28894725">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '23343064
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Thun MJ, Carter BD, Feskanich D, et al. 50-year trends in smoking-related mortality in the United States. N Engl J Med 2013;368:351-364. </div>
+    <div class="Citation-text">Thun MJ, Carter BD, Feskanich D, et al. 50-year trends in smoking-related mortality in the United States. N Engl J Med 2013;368:351-364.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23343064">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '30215037
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Farago AF, Taylor MS, Doebele RC, et al. Clinicopathologic features of non small cell lung cancer harboring an NTRK gene fusion. JCO Precis Oncol 2018;2018. </div>
+    <div class="Citation-text">Farago AF, Taylor MS, Doebele RC, et al. Clinicopathologic features of non small cell lung cancer harboring an NTRK gene fusion. JCO Precis Oncol 2018;2018.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/30215037">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Mintz et al., 2010
 article '17710205
 
+  index: hide
+  line !c
+    + c = Approximately 15%-30% of patients with cancer will develop cerebral metastases over the course of their disease. Patients identified as having single brain metastasis generally undergo more aggressive treatment than do those with multiple metastases; however, in the province of Ontario, management of patients with single brain metastasis varies. Given that conflicting evidence has been reported, the Neuro-oncology Disease Site Group (dsg) of the Cancer Care Ontario Program in Evidence-based Care felt that a systematic review of the evidence and a practice guideline were warranted.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Mintz A, Perry J, Spithoff K, et al. Management of single brain metastasis: a practice guideline. Curr Oncol 2007;14:131-143. </div>
+    <div class="Citation-text">Mintz A, Perry J, Spithoff K, et al. Management of single brain metastasis: a practice guideline. Curr Oncol 2007;14:131-143.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17710205">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

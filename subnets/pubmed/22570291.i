@@ -8,7 +8,7 @@ article '22570291
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Martins RG, D'Amico TA, Loo BW, Jr., et al. The management of patients with stage IIIA non-small cell lung cancer with N2 mediastinal node involvement. J Natl Compr Canc Netw 2012;10:599-613. </div>
+    <div class="Citation-text">Martins RG, D'Amico TA, Loo BW, Jr., et al. The management of patients with stage IIIA non-small cell lung cancer with N2 mediastinal node involvement. J Natl Compr Canc Netw 2012;10:599-613.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22570291">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

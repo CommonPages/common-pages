@@ -5,10 +5,15 @@
 /// Verstegen et al., 2013
 article '23425947
 
+  index: hide
+  line !c
+    + c = This retrospective analysis found a superior LRC after SABR compared with VATS lobectomy, but OS did not differ. Our findings support the need to compare both treatments in a randomized, controlled trial.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Verstegen NE, Oosterhuis JW, Palma DA, et al. Stage I-II non-small-cell lung cancer treated using either stereotactic ablative radiotherapy (SABR) or lobectomy by video-assisted thoracoscopic surgery (VATS): outcomes of a propensity score-matched analysis. Ann Oncol 2013;24:1543-1548. </div>
+    <div class="Citation-text">Verstegen NE, Oosterhuis JW, Palma DA, et al. Stage I-II non-small-cell lung cancer treated using either stereotactic ablative radiotherapy (SABR) or lobectomy by video-assisted thoracoscopic surgery (VATS): outcomes of a propensity score-matched analysis. Ann Oncol 2013;24:1543-1548.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23425947">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '27693535
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Klempner SJ, Borghei A, Hakimian B, et al. Intracranial activity of cabozantinib in MET exon 14-positive NSCLC with brain metastases. J Thorac Oncol 2017;12:152-156. </div>
+    <div class="Citation-text">Klempner SJ, Borghei A, Hakimian B, et al. Intracranial activity of cabozantinib in MET exon 14-positive NSCLC with brain metastases. J Thorac Oncol 2017;12:152-156.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27693535">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

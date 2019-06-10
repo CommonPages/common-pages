@@ -8,7 +8,7 @@ article '27413075
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Larkins E, Blumenthal GM, Chen H, et al. FDA approval: alectinib for the treatment of metastatic ALK-positive non-small cell lung cancer following crizotinib. Clin Cancer Res 2016;22:5171-5176. </div>
+    <div class="Citation-text">Larkins E, Blumenthal GM, Chen H, et al. FDA approval: alectinib for the treatment of metastatic ALK-positive non-small cell lung cancer following crizotinib. Clin Cancer Res 2016;22:5171-5176.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27413075">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

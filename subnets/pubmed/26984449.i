@@ -8,7 +8,7 @@ article '26984449
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kazandjian D, Suzman DL, Blumenthal G, et al. FDA approval summary: nivolumab for the treatment of metastatic non-small cell lung cancer with progression on or after platinum-based chemotherapy. Oncologist 2016;21:634-642. </div>
+    <div class="Citation-text">Kazandjian D, Suzman DL, Blumenthal G, et al. FDA approval summary: nivolumab for the treatment of metastatic non-small cell lung cancer with progression on or after platinum-based chemotherapy. Oncologist 2016;21:634-642.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26984449">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

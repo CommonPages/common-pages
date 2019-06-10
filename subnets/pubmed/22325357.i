@@ -8,7 +8,7 @@ article '22325357
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> De Greve J, Teugels E, Geers C, et al. Clinical activity of afatinib (BIBW 2992) in patients with lung adenocarcinoma with mutations in the kinase domain of HER2/neu. Lung Cancer 2012;76:123-127. </div>
+    <div class="Citation-text">De Greve J, Teugels E, Geers C, et al. Clinical activity of afatinib (BIBW 2992) in patients with lung adenocarcinoma with mutations in the kinase domain of HER2/neu. Lung Cancer 2012;76:123-127.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22325357">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

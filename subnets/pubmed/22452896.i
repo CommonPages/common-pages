@@ -5,10 +5,15 @@
 /// Miller et al., 2012
 article '22452896
 
+  index: hide
+  line !c
+    + c = Although we recorded no benefit in terms of overall survival with afatinib (which might have been affected by cancer treatments given after progression in both groups), our findings for progression-free survival and response to treatment suggest that afatinib could be of some benefit to patients with advanced lung adenocarcinoma who have failed at least 12 weeks of previous EGFR tyrosine-kinase inhibitor treatment.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Miller VA, Hirsh V, Cadranel J, et al. Afatinib versus placebo for patients with advanced, metastatic non-small-cell lung cancer after failure of erlotinib, gefitinib, or both, and one or two lines of chemotherapy (LUX-Lung 1): a phase 2b/3 randomised trial. Lancet Oncol 2012;13:528-538. </div>
+    <div class="Citation-text">Miller VA, Hirsh V, Cadranel J, et al. Afatinib versus placebo for patients with advanced, metastatic non-small-cell lung cancer after failure of erlotinib, gefitinib, or both, and one or two lines of chemotherapy (LUX-Lung 1): a phase 2b/3 randomised trial. Lancet Oncol 2012;13:528-538.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22452896">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

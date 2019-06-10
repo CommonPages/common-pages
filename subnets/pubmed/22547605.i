@@ -5,10 +5,15 @@
 /// Jänne et al., 2012
 article '22547605
 
+  index: hide
+  line !c
+    + c = Erlotinib and erlotinib plus chemotherapy have similar efficacy in clinically selected populations of patients with advanced NSCLC. EGFR mutations identify patients most likely to benefit.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Janne PA, Wang X, Socinski MA, et al. Randomized phase II trial of erlotinib alone or with carboplatin and paclitaxel in patients who were never or light former smokers with advanced lung adenocarcinoma: CALGB 30406 trial. J Clin Oncol 2012;30:2063-2069. </div>
+    <div class="Citation-text">Janne PA, Wang X, Socinski MA, et al. Randomized phase II trial of erlotinib alone or with carboplatin and paclitaxel in patients who were never or light former smokers with advanced lung adenocarcinoma: CALGB 30406 trial. J Clin Oncol 2012;30:2063-2069.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22547605">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

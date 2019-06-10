@@ -13,7 +13,7 @@ article '25218540
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Crabtree TD, Puri V, Chen SB, et al. Does the method of radiologic surveillance affect survival after resection of stage I non-small cell lung cancer? J Thorac Cardiovasc Surg 2015;149:45-52, 53 e41-43. </div>
+    <div class="Citation-text">Crabtree TD, Puri V, Chen SB, et al. Does the method of radiologic surveillance affect survival after resection of stage I non-small cell lung cancer? J Thorac Cardiovasc Surg 2015;149:45-52, 53 e41-43.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25218540">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

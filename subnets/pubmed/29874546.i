@@ -13,7 +13,7 @@ article '29874546
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Lisberg A, Cummings A, Goldman JW, et al. A phase II study of pembrolizumab in EGFR-mutant, PD-L1+, tyrosine kinase inhibitor naïve patients with advanced NSCLC. J Thorac Oncol 2018;13:1138-1145. </div>
+    <div class="Citation-text">Lisberg A, Cummings A, Goldman JW, et al. A phase II study of pembrolizumab in EGFR-mutant, PD-L1+, tyrosine kinase inhibitor naïve patients with advanced NSCLC. J Thorac Oncol 2018;13:1138-1145.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/29874546">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

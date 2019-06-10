@@ -5,10 +5,15 @@
 /// Albain et al., 2002
 article '12177106
 
+  index: hide
+  line !c
+    + c = Feasibility and long-term survival support the application of these results as a standard against which mature outcomes of chemoRT trials with new chemotherapy agents can be compared. These results also justify use of the SWOG-9019 approach as a control arm in ongoing phase III trials.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Albain KS, Crowley JJ, Turrisi AT, 3rd, et al. Concurrent cisplatin, etoposide, and chest radiotherapy in pathologic stage IIIB non-small-cell lung cancer: a Southwest Oncology Group phase II study, SWOG 9019. J Clin Oncol 2002;20:3454-3460. </div>
+    <div class="Citation-text">Albain KS, Crowley JJ, Turrisi AT, 3rd, et al. Concurrent cisplatin, etoposide, and chest radiotherapy in pathologic stage IIIB non-small-cell lung cancer: a Southwest Oncology Group phase II study, SWOG 9019. J Clin Oncol 2002;20:3454-3460.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/12177106">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

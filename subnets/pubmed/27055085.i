@@ -5,10 +5,15 @@
 /// Sacher et al., 2017
 article '27055085
 
+  index: hide
+  line !c
+    + c = Plasma ddPCR detected EGFR and KRAS mutations rapidly with the high specificity needed to select therapy and avoid repeat biopsies. This assay may also detect EGFR T790M missed by tissue genotyping due to tumor heterogeneity in resistant disease.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Sacher AG, Paweletz C, Dahlberg SE, et al. Prospective validation of rapid plasma genotyping for the detection of EGFR and KRAS mutations in advanced lung cancer. JAMA Oncol 2016;2:1014-1022. </div>
+    <div class="Citation-text">Sacher AG, Paweletz C, Dahlberg SE, et al. Prospective validation of rapid plasma genotyping for the detection of EGFR and KRAS mutations in advanced lung cancer. JAMA Oncol 2016;2:1014-1022.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27055085">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

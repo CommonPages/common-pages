@@ -13,7 +13,7 @@ article '15465190
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Rengan R, Rosenzweig KE, Venkatraman E, et al. Improved local control with higher doses of radiation in large-volume stage III non-small-cell lung cancer. Int J Radiat Oncol Biol Phys 2004;60:741-747. </div>
+    <div class="Citation-text">Rengan R, Rosenzweig KE, Venkatraman E, et al. Improved local control with higher doses of radiation in large-volume stage III non-small-cell lung cancer. Int J Radiat Oncol Biol Phys 2004;60:741-747.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/15465190">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

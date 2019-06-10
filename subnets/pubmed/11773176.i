@@ -5,10 +5,15 @@
 /// Depierre et al., 2002
 article '11773176
 
+  index: hide
+  line !c
+    + c = Although impressive differences in median, 3-year, and 4-year survival were observed, they were not statistically significant, except for stage I and II disease.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Depierre A, Milleron B, Moro-Sibilot D, et al. Preoperative chemotherapy followed by surgery compared with primary surgery in resectable stage I (except T1N0), II, and IIIa non-small-cell lung cancer. J Clin Oncol 2002;20:247-253. </div>
+    <div class="Citation-text">Depierre A, Milleron B, Moro-Sibilot D, et al. Preoperative chemotherapy followed by surgery compared with primary surgery in resectable stage I (except T1N0), II, and IIIa non-small-cell lung cancer. J Clin Oncol 2002;20:247-253.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/11773176">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

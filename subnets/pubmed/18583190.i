@@ -5,10 +5,15 @@
 /// Thomas et al., 2008
 article '18583190
 
+  index: hide
+  line !c
+    + c = In patients with stage III NSCLC amenable to surgery, preoperative chemoradiation in addition to chemotherapy increases pathological response and mediastinal downstaging, but does not improve survival. After induction with chemoradiation, pneumonectomy should be avoided.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Thomas M, Rube C, Hoffknecht P, et al. Effect of preoperative chemoradiation in addition to preoperative chemotherapy: a randomised trial in stage III non-small-cell lung cancer. Lancet Oncol 2008;9:636-648. </div>
+    <div class="Citation-text">Thomas M, Rube C, Hoffknecht P, et al. Effect of preoperative chemoradiation in addition to preoperative chemotherapy: a randomised trial in stage III non-small-cell lung cancer. Lancet Oncol 2008;9:636-648.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18583190">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '16997503
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Wang S, Liao Z, Wei X, et al. Analysis of clinical and dosimetric factors associated with treatment-related pneumonitis (TRP) in patients with non-small-cell lung cancer (NSCLC) treated with concurrent chemotherapy and three-dimensional conformal radiotherapy (3D-CRT). Int J Radiat Oncol Biol Phys 2006;66:1399-1407. </div>
+    <div class="Citation-text">Wang S, Liao Z, Wei X, et al. Analysis of clinical and dosimetric factors associated with treatment-related pneumonitis (TRP) in patients with non-small-cell lung cancer (NSCLC) treated with concurrent chemotherapy and three-dimensional conformal radiotherapy (3D-CRT). Int J Radiat Oncol Biol Phys 2006;66:1399-1407.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/16997503">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

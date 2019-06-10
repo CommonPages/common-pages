@@ -5,10 +5,15 @@
 /// Garrido et al., 2015
 article '25758556
 
+  index: hide
+  line !c
+    + c = In this study of Pem-Cis induction CT followed by full-dose Pem-Cis with concurrent RT, median PFS was 10.6 months and toxicity was manageable, in line with previous data on Pem-Cis plus RT.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Garrido P, Engel-Riedel W, Serke M, et al. Final results from a phase II study of pemetrexed and cisplatin with concurrent thoracic radiation after Pem-Cis induction in patients with unresectable locally advanced non-squamous non-small cell lung cancer (NSCLC). Lung Cancer 2015;88:160-166. </div>
+    <div class="Citation-text">Garrido P, Engel-Riedel W, Serke M, et al. Final results from a phase II study of pemetrexed and cisplatin with concurrent thoracic radiation after Pem-Cis induction in patients with unresectable locally advanced non-squamous non-small cell lung cancer (NSCLC). Lung Cancer 2015;88:160-166.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25758556">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

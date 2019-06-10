@@ -5,10 +5,15 @@
 /// Quoix et al., 2011
 article '21831418
 
+  index: hide
+  line !c
+    + c = Despite increased toxic effects, platinum-based doublet chemotherapy was associated with survival benefits compared with vinorelbine or gemcitabine monotherapy in elderly patients with NSCLC. We feel that the current treatment paradigm for these patients should be reconsidered.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Quoix E, Zalcman G, Oster JP, et al. Carboplatin and weekly paclitaxel doublet chemotherapy compared with monotherapy in elderly patients with advanced non-small-cell lung cancer: IFCT-0501 randomised, phase 3 trial. Lancet 2011;378:1079-1088. </div>
+    <div class="Citation-text">Quoix E, Zalcman G, Oster JP, et al. Carboplatin and weekly paclitaxel doublet chemotherapy compared with monotherapy in elderly patients with advanced non-small-cell lung cancer: IFCT-0501 randomised, phase 3 trial. Lancet 2011;378:1079-1088.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21831418">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

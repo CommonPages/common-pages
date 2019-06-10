@@ -5,10 +5,15 @@
 /// Ibrahim et al., 2004
 article '12855610
 
+  index: hide
+  line !c
+    + c = In prostate cancer, both the proportions analysis and time-to-SRE analysis showed significantly less bone morbidity on Zol (4 mg) than placebo, but no significant difference between Zol (8 mg) and placebo in either analysis. In the solid tumor study, the time to SRE analysis but not the proportions analysis showed significantly less skeletal morbidity on Zol (4 mg) than placebo, and Zol (8 mg) was significantly better than placebo in both analyses. The breast cancer and myeloma study demonstrated noninferiority of Zol compared with Pam, with Zol retaining at least 49.3% of the Pam treatment effect previously demonstrated in placebo-controlled trials. Zol was approved on February 22, 2002, by the United States Food and Drug Administration for the &quot;treatment of patients with multiple myeloma and documented bone metastases from solid tumors, in conjunction with standard antineoplastic therapy. Prostate cancer should have progressed after treatment with at least one hormonal therapy.&quot; The recommended dose and schedule is 4 mg of Zol infused over 15 min every 3-4 weeks. Increased Zol doses and shorter infusions are not recommended because of potential renal toxicity.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ibrahim A, Scher N, Williams G, et al. Approval summary for zoledronic acid for treatment of multiple myeloma and cancer bone metastases. Clin Cancer Res 2003;9:2394-2399. </div>
+    <div class="Citation-text">Ibrahim A, Scher N, Williams G, et al. Approval summary for zoledronic acid for treatment of multiple myeloma and cancer bone metastases. Clin Cancer Res 2003;9:2394-2399.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/12855610">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

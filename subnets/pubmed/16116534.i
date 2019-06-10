@@ -13,7 +13,7 @@ article '16116534
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Vilmann P, Krasnik M, Larsen SS, et al. Transesophageal endoscopic ultrasound-guided fine-needle aspiration (EUS-FNA) and endobronchial ultrasound-guided transbronchial needle aspiration (EBUS-TBNA) biopsy: a combined approach in the evaluation of mediastinal lesions. Endoscopy 2005;37:833-839. </div>
+    <div class="Citation-text">Vilmann P, Krasnik M, Larsen SS, et al. Transesophageal endoscopic ultrasound-guided fine-needle aspiration (EUS-FNA) and endobronchial ultrasound-guided transbronchial needle aspiration (EBUS-TBNA) biopsy: a combined approach in the evaluation of mediastinal lesions. Endoscopy 2005;37:833-839.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/16116534">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

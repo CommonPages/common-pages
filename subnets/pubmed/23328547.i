@@ -13,7 +13,7 @@ article '23328547
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Oxnard GR, Lo PC, Nishino M, et al. Natural history and molecular characteristics of lung cancers harboring EGFR exon 20 insertions. J Thorac Oncol 2013;8:179-184. </div>
+    <div class="Citation-text">Oxnard GR, Lo PC, Nishino M, et al. Natural history and molecular characteristics of lung cancers harboring EGFR exon 20 insertions. J Thorac Oncol 2013;8:179-184.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23328547">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

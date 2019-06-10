@@ -8,7 +8,7 @@ article '23982599
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Dungo RT, Keating GM. Afatinib: first global approval. Drugs 2013;73:1503-1515. </div>
+    <div class="Citation-text">Dungo RT, Keating GM. Afatinib: first global approval. Drugs 2013;73:1503-1515.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23982599">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

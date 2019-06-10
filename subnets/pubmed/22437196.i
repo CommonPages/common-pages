@@ -13,7 +13,7 @@ article '22437196
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Cheng D, Downey RJ, Kernstine K, et al. Video-assisted thoracic surgery in lung cancer resection: a meta-analysis and systematic review of controlled trials. Innovations (Phila) 2007;2:261-292. </div>
+    <div class="Citation-text">Cheng D, Downey RJ, Kernstine K, et al. Video-assisted thoracic surgery in lung cancer resection: a meta-analysis and systematic review of controlled trials. Innovations (Phila) 2007;2:261-292.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22437196">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '23208335
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Donington J, Ferguson M, Mazzone P, et al. American College of Chest Physicians and Society of Thoracic Surgeons consensus statement for evaluation and management for high-risk patients with stage I non-small cell lung cancer. Chest 2012;142:1620-1635. </div>
+    <div class="Citation-text">Donington J, Ferguson M, Mazzone P, et al. American College of Chest Physicians and Society of Thoracic Surgeons consensus statement for evaluation and management for high-risk patients with stage I non-small cell lung cancer. Chest 2012;142:1620-1635.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23208335">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

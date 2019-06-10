@@ -5,10 +5,15 @@
 /// Alam et al., 2007
 article '17931521
 
+  index: hide
+  line !c
+    + c = In expert hands, VATS lobectomy appears to be a safe procedure. However, the published evidence is thin and ongoing study is required, preferably with standardization of VATS techniques.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Alam N, Flores RM. Video-assisted thoracic surgery (VATS) lobectomy: the evidence base. JSLS 2007;11:368-374. </div>
+    <div class="Citation-text">Alam N, Flores RM. Video-assisted thoracic surgery (VATS) lobectomy: the evidence base. JSLS 2007;11:368-374.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17931521">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

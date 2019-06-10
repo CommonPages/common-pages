@@ -8,7 +8,7 @@ article '8136168
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Dillemans B, Deneffe G, Verschakelen J, Decramer M. Value of computed tomography and mediastinoscopy in preoperative evaluation of mediastinal nodes in non-small cell lung cancer. A study of 569 patients. Eur J Cardiothorac Surg 1994;8:37-42. </div>
+    <div class="Citation-text">Dillemans B, Deneffe G, Verschakelen J, Decramer M. Value of computed tomography and mediastinoscopy in preoperative evaluation of mediastinal nodes in non-small cell lung cancer. A study of 569 patients. Eur J Cardiothorac Surg 1994;8:37-42.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/8136168">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

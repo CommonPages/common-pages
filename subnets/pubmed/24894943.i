@@ -5,10 +5,15 @@
 /// Ashworth et al., 2015
 article '24894943
 
+  index: hide
+  line !c
+    + c = Significant OS differences were observed in oligometastatic patients stratified according to type of metastatic presentation, and N status. Long-term survival is common in selected patients with metachronous oligometastases. We propose this risk classification scheme be used in guiding selection of patients for clinical trials of ablative treatment.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ashworth AB, Senan S, Palma DA, et al. An individual patient data metaanalysis of outcomes and prognostic factors after treatment of oligometastatic non-small-cell lung cancer. Clin Lung Cancer 2014;15:346-355. </div>
+    <div class="Citation-text">Ashworth AB, Senan S, Palma DA, et al. An individual patient data metaanalysis of outcomes and prognostic factors after treatment of oligometastatic non-small-cell lung cancer. Clin Lung Cancer 2014;15:346-355.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24894943">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

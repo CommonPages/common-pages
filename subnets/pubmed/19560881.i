@@ -5,10 +5,15 @@
 /// Spoelstra et al., 2010
 article '19560881
 
+  index: hide
+  line !c
+    + c = Even among experts, significant interclinician variations are observed in PORT fields. Inasmuch as contouring variations can confound the interpretation of PORT results, mandatory quality assurance procedures have been incorporated into the current Lung ART study.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Spoelstra FO, Senan S, Le Pechoux C, et al. Variations in target volume definition for postoperative radiotherapy in stage III non-small-cell lung cancer: analysis of an international contouring study. Int J Radiat Oncol Biol Phys 2010;76:1106-1113. </div>
+    <div class="Citation-text">Spoelstra FO, Senan S, Le Pechoux C, et al. Variations in target volume definition for postoperative radiotherapy in stage III non-small-cell lung cancer: analysis of an international contouring study. Int J Radiat Oncol Biol Phys 2010;76:1106-1113.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19560881">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

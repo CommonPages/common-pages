@@ -8,7 +8,7 @@ article '22327623
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Takeuchi K, Soda M, Togashi Y, et al. RET, ROS1 and ALK fusions in lung cancer. Nat Med 2012;18:378-381. </div>
+    <div class="Citation-text">Takeuchi K, Soda M, Togashi Y, et al. RET, ROS1 and ALK fusions in lung cancer. Nat Med 2012;18:378-381.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22327623">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '24667320
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Zhou J, Zhao J, Sun K, et al. Accurate and economical detection of ALK positive lung adenocarcinoma with semiquantitative immunohistochemical screening. PLoS One 2014;9:e92828. </div>
+    <div class="Citation-text">Zhou J, Zhao J, Sun K, et al. Accurate and economical detection of ALK positive lung adenocarcinoma with semiquantitative immunohistochemical screening. PLoS One 2014;9:e92828.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24667320">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '27565940
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Erb CT, Su KW, Soulos PR, et al. Surveillance practice patterns after curative intent therapy for stage I non-small-cell lung cancer in the medicare population. Lung Cancer 2016;99:200-207. </div>
+    <div class="Citation-text">Erb CT, Su KW, Soulos PR, et al. Surveillance practice patterns after curative intent therapy for stage I non-small-cell lung cancer in the medicare population. Lung Cancer 2016;99:200-207.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27565940">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

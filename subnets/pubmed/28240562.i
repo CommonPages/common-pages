@@ -8,7 +8,7 @@ article '28240562
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> MacMahon H, Naidich DP, Goo JM, et al. Guidelines for management of incidental pulmonary nodules detected on CT scans: from the Fleischner Society. Radiology 2017;284:228-243. </div>
+    <div class="Citation-text">MacMahon H, Naidich DP, Goo JM, et al. Guidelines for management of incidental pulmonary nodules detected on CT scans: from the Fleischner Society. Radiology 2017;284:228-243.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/28240562">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

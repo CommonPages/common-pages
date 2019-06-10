@@ -5,10 +5,15 @@
 /// Bergethon et al., 2012
 article '22215748
 
+  index: hide
+  line !c
+    + c = ROS1 rearrangement defines a molecular subset of NSCLC with distinct clinical characteristics that are similar to those observed in patients with ALK-rearranged NSCLC. Crizotinib shows in vitro activity and early evidence of clinical activity in ROS1-rearranged NSCLC.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Bergethon K, Shaw AT, Ou SH, et al. ROS1 rearrangements define a unique molecular class of lung cancers. J Clin Oncol 2012;30:863-870. </div>
+    <div class="Citation-text">Bergethon K, Shaw AT, Ou SH, et al. ROS1 rearrangements define a unique molecular class of lung cancers. J Clin Oncol 2012;30:863-870.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22215748">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

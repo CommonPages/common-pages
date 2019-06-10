@@ -8,7 +8,7 @@ article '23918070
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Weiss JM, Stinchcombe TE. Second-Line Therapy for Advanced NSCLC. Oncologist 2013;18:947-953. </div>
+    <div class="Citation-text">Weiss JM, Stinchcombe TE. Second-Line Therapy for Advanced NSCLC. Oncologist 2013;18:947-953.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23918070">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

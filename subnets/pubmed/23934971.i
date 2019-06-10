@@ -5,10 +5,15 @@
 /// Stead et al., 2014
 article '23934971
 
+  index: hide
+  line !c
+    + c = Proactive telephone counselling aids smokers who seek help from quitlines. Telephone quitlines provide an important route of access to support for smokers, and call-back counselling enhances their usefulness. There is limited evidence about the optimal number of calls. Proactive telephone counselling also helps people who receive it in other settings. There is some evidence of a dose response; one or two brief calls are less likely to provide a measurable benefit. Three or more calls increase the chances of quitting compared to a minimal intervention such as providing standard self-help materials, or brief advice, or compared to pharmacotherapy alone.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Stead LF, Hartmann-Boyce J, Perera R, Lancaster T. Telephone counselling for smoking cessation. Cochrane Database Syst Rev 2013;8:CD002850. </div>
+    <div class="Citation-text">Stead LF, Hartmann-Boyce J, Perera R, Lancaster T. Telephone counselling for smoking cessation. Cochrane Database Syst Rev 2013;8:CD002850.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23934971">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

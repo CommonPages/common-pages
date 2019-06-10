@@ -8,7 +8,7 @@ article '23189751
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Humans IWGotEoCRt. Arsenic, metals, fibres, and dusts. IARC Monogr Eval Carcinog Risks Hum 2012;100:11-465. </div>
+    <div class="Citation-text">Humans IWGotEoCRt. Arsenic, metals, fibres, and dusts. IARC Monogr Eval Carcinog Risks Hum 2012;100:11-465.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23189751">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

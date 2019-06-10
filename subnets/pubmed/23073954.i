@@ -8,7 +8,7 @@ article '23073954
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Rigotti NA. Strategies to help a smoker who is struggling to quit. JAMA 2012;308:1573-1580. </div>
+    <div class="Citation-text">Rigotti NA. Strategies to help a smoker who is struggling to quit. JAMA 2012;308:1573-1580.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23073954">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '27080216
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Planchard D, Kim TM, Mazieres J, et al. Dabrafenib in patients with BRAF(V600E)-positive advanced non-small-cell lung cancer: a single-arm, multicentre, open-label, phase 2 trial. Lancet Oncol 2016;17:642-650. </div>
+    <div class="Citation-text">Planchard D, Kim TM, Mazieres J, et al. Dabrafenib in patients with BRAF(V600E)-positive advanced non-small-cell lung cancer: a single-arm, multicentre, open-label, phase 2 trial. Lancet Oncol 2016;17:642-650.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27080216">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '28435288
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Sabari JK, Santini FC, Schram AM, et al. The activity, safety, and evolving role of brigatinib in patients with ALK-rearranged non-small cell lung cancers. Onco Targets Ther 2017;10:1983-1992. </div>
+    <div class="Citation-text">Sabari JK, Santini FC, Schram AM, et al. The activity, safety, and evolving role of brigatinib in patients with ALK-rearranged non-small cell lung cancers. Onco Targets Ther 2017;10:1983-1992.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/28435288">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

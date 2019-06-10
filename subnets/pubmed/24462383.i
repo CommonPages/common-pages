@@ -13,7 +13,7 @@ article '24462383
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Gan GN, Weickhardt AJ, Scheier B, et al. Stereotactic radiation therapy can safely and durably control sites of extra-central nervous system oligoprogressive disease in anaplastic lymphoma kinase-positive lung cancer patients receiving crizotinib. Int J Radiat Oncol Biol Phys 2014;88:892-898. </div>
+    <div class="Citation-text">Gan GN, Weickhardt AJ, Scheier B, et al. Stereotactic radiation therapy can safely and durably control sites of extra-central nervous system oligoprogressive disease in anaplastic lymphoma kinase-positive lung cancer patients receiving crizotinib. Int J Radiat Oncol Biol Phys 2014;88:892-898.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24462383">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

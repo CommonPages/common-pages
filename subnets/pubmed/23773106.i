@@ -8,7 +8,7 @@ article '23773106
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Forde PM, Ettinger DS. Targeted therapy for non-small-cell lung cancer: past, present and future. Expert Rev Anticancer Ther 2013;13:745-758. </div>
+    <div class="Citation-text">Forde PM, Ettinger DS. Targeted therapy for non-small-cell lung cancer: past, present and future. Expert Rev Anticancer Ther 2013;13:745-758.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23773106">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

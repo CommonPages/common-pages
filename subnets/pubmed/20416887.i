@@ -5,10 +5,15 @@
 /// Weder et al., 2010
 article '20416887
 
+  index: hide
+  line !c
+    + c = Pneumonectomy after neoadjuvant therapy for non-small-cell lung cancer can be performed with a perioperative mortality rate of 3%. Thus, the need of a pneumonectomy for complete resection alone should not be a reason to exclude patients from a potentially curative procedure if done in an experienced center. The 5-year survival of 38%, which can be achieved, justifies extended surgery within a multimodality concept for selected patients with locally advanced non-small-cell lung cancer.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Weder W, Collaud S, Eberhardt WE, et al. Pneumonectomy is a valuable treatment option after neoadjuvant therapy for stage III non-small-cell lung cancer. J Thorac Cardiovasc Surg 2010;139:1424-1430. </div>
+    <div class="Citation-text">Weder W, Collaud S, Eberhardt WE, et al. Pneumonectomy is a valuable treatment option after neoadjuvant therapy for stage III non-small-cell lung cancer. J Thorac Cardiovasc Surg 2010;139:1424-1430.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20416887">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

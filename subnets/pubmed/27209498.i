@@ -13,7 +13,7 @@ article '27209498
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Zhao L, Zhou S, Balter P, et al. Planning target volume D95 and mean dose should be considered for optimal local control for stereotactic ablative radiation therapy. Int J Radiat Oncol Biol Phys 2016;95:1226-1235. </div>
+    <div class="Citation-text">Zhao L, Zhou S, Balter P, et al. Planning target volume D95 and mean dose should be considered for optimal local control for stereotactic ablative radiation therapy. Int J Radiat Oncol Biol Phys 2016;95:1226-1235.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27209498">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

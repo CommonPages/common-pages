@@ -13,7 +13,7 @@ article '15741225
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Pujol JL, Breton JL, Gervais R, et al. Gemcitabine-docetaxel versus cisplatin-vinorelbine in advanced or metastatic non-small-cell lung cancer: a phase III study addressing the case for cisplatin. Ann Oncol 2005;16:602-610. </div>
+    <div class="Citation-text">Pujol JL, Breton JL, Gervais R, et al. Gemcitabine-docetaxel versus cisplatin-vinorelbine in advanced or metastatic non-small-cell lung cancer: a phase III study addressing the case for cisplatin. Ann Oncol 2005;16:602-610.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/15741225">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

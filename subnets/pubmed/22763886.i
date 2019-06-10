@@ -8,7 +8,7 @@ article '22763886
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Centers for Disease C, Prevention. CDC Grand Rounds: the TB/HIV syndemic. MMWR Morb Mortal Wkly Rep 2012;61:484-489. </div>
+    <div class="Citation-text">Centers for Disease C, Prevention. CDC Grand Rounds: the TB/HIV syndemic. MMWR Morb Mortal Wkly Rep 2012;61:484-489.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22763886">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

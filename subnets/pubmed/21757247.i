@@ -13,7 +13,7 @@ article '21757247
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Baumann M, Herrmann T, Koch R, et al. Final results of the randomized phase III CHARTWEL-trial (ARO 97-1) comparing hyperfractionated-accelerated versus conventionally fractionated radiotherapy in non-small cell lung cancer (NSCLC). Radiother Oncol 2011;100:76-85. </div>
+    <div class="Citation-text">Baumann M, Herrmann T, Koch R, et al. Final results of the randomized phase III CHARTWEL-trial (ARO 97-1) comparing hyperfractionated-accelerated versus conventionally fractionated radiotherapy in non-small cell lung cancer (NSCLC). Radiother Oncol 2011;100:76-85.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21757247">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

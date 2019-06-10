@@ -13,7 +13,7 @@ article '20106398
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Paul S, Altorki NK, Sheng S, et al. Thoracoscopic lobectomy is associated with lower morbidity than open lobectomy: a propensity-matched analysis from the STS database. J Thorac Cardiovasc Surg 2010;139:366-378. </div>
+    <div class="Citation-text">Paul S, Altorki NK, Sheng S, et al. Thoracoscopic lobectomy is associated with lower morbidity than open lobectomy: a propensity-matched analysis from the STS database. J Thorac Cardiovasc Surg 2010;139:366-378.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20106398">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

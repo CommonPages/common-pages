@@ -8,7 +8,7 @@ article '24040521
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Hanna JM, Berry MF, D'Amico TA. Contraindications of video-assisted thoracoscopic surgical lobectomy and determinants of conversion to open. J Thorac Dis 2013;5 Suppl 3:S182-189. </div>
+    <div class="Citation-text">Hanna JM, Berry MF, D'Amico TA. Contraindications of video-assisted thoracoscopic surgical lobectomy and determinants of conversion to open. J Thorac Dis 2013;5 Suppl 3:S182-189.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24040521">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

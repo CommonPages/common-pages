@@ -5,10 +5,15 @@
 /// Ou et al., 2016
 article '26598747
 
+  index: hide
+  line !c
+    + c = Alectinib is highly active and well tolerated in patients with advanced, crizotinib-refractory ALK-positive NSCLC, including those with CNS metastases.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ou SI, Ahn JS, De Petris L, et al. Alectinib in crizotinib-refractory ALK-rearranged non-small-cell lung cancer: a phase II global study. J Clin Oncol 2016;34:661-668. </div>
+    <div class="Citation-text">Ou SI, Ahn JS, De Petris L, et al. Alectinib in crizotinib-refractory ALK-rearranged non-small-cell lung cancer: a phase II global study. J Clin Oncol 2016;34:661-668.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26598747">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

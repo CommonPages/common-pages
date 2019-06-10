@@ -5,10 +5,15 @@
 /// Awad et al., 2016
 article '26729443
 
+  index: hide
+  line !c
+    + c = MET exon 14 mutations represent a clinically unique molecular subtype of NSCLC. Prospective clinical trials with c-Met inhibitors will be necessary to validate MET exon 14 mutations as an important therapeutic target in NSCLC.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Awad MM, Oxnard GR, Jackman DM, et al. MET exon 14 mutations in non-small-cell lung cancer are associated with advanced age and stage-dependent MET genomic amplification and c-Met overexpression. J Clin Oncol 2016;34:721-730. </div>
+    <div class="Citation-text">Awad MM, Oxnard GR, Jackman DM, et al. MET exon 14 mutations in non-small-cell lung cancer are associated with advanced age and stage-dependent MET genomic amplification and c-Met overexpression. J Clin Oncol 2016;34:721-730.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26729443">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

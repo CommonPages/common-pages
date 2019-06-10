@@ -8,7 +8,7 @@ article '23401440
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Roberts PJ, Stinchcombe TE. KRAS mutation: should we test for it, and does it matter? J Clin Oncol 2013;31:1112-1121. </div>
+    <div class="Citation-text">Roberts PJ, Stinchcombe TE. KRAS mutation: should we test for it, and does it matter? J Clin Oncol 2013;31:1112-1121.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23401440">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '28636851
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Carbone DP, Reck M, Paz-Ares L, et al. First-line nivolumab in stage IV or recurrent non-small-cell lung cancer. N Engl J Med 2017;376:2415-2426. </div>
+    <div class="Citation-text">Carbone DP, Reck M, Paz-Ares L, et al. First-line nivolumab in stage IV or recurrent non-small-cell lung cancer. N Engl J Med 2017;376:2415-2426.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/28636851">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

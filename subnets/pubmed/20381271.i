@@ -13,7 +13,7 @@ article '20381271
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kelly P, Balter PA, Rebueno N, et al. Stereotactic body radiation therapy for patients with lung cancer previously treated with thoracic radiation. Int J Radiat Oncol Biol Phys 2010;78:1387-1393. </div>
+    <div class="Citation-text">Kelly P, Balter PA, Rebueno N, et al. Stereotactic body radiation therapy for patients with lung cancer previously treated with thoracic radiation. Int J Radiat Oncol Biol Phys 2010;78:1387-1393.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20381271">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

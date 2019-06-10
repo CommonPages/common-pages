@@ -8,7 +8,7 @@ article '21107086
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Terry J, Leung S, Laskin J, et al. Optimal immunohistochemical markers for distinguishing lung adenocarcinomas from squamous cell carcinomas in small tumor samples. Am J Surg Pathol 2010;34:1805-1811. </div>
+    <div class="Citation-text">Terry J, Leung S, Laskin J, et al. Optimal immunohistochemical markers for distinguishing lung adenocarcinomas from squamous cell carcinomas in small tumor samples. Am J Surg Pathol 2010;34:1805-1811.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21107086">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

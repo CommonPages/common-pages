@@ -13,7 +13,7 @@ article '20381815
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Stefani A, Alifano M, Bobbio A, et al. Which patients should be operated on after induction chemotherapy for N2 non-small cell lung cancer? Analysis of a 7-year experience in 175 patients. J Thorac Cardiovasc Surg 2010;140:356-363. </div>
+    <div class="Citation-text">Stefani A, Alifano M, Bobbio A, et al. Which patients should be operated on after induction chemotherapy for N2 non-small cell lung cancer? Analysis of a 7-year experience in 175 patients. J Thorac Cardiovasc Surg 2010;140:356-363.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20381815">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

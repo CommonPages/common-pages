@@ -8,7 +8,7 @@ article '23378235
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Smith RA, Brooks D, Cokkinides V, et al. Cancer screening in the United States, 2013: a review of current American Cancer Society guidelines, current issues in cancer screening, and new guidance on cervical cancer screening and lung cancer screening. CA Cancer J Clin 2013;63:88-105. </div>
+    <div class="Citation-text">Smith RA, Brooks D, Cokkinides V, et al. Cancer screening in the United States, 2013: a review of current American Cancer Society guidelines, current issues in cancer screening, and new guidance on cervical cancer screening and lung cancer screening. CA Cancer J Clin 2013;63:88-105.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23378235">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

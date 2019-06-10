@@ -13,7 +13,7 @@ article '17039491
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Jaklitsch MT, Herndon JE, 2nd, DeCamp MM, Jr., et al. Nodal downstaging predicts survival following induction chemotherapy for stage IIIA (N2) non-small cell lung cancer in CALGB protocol #8935. J Surg Oncol 2006;94:599-606. </div>
+    <div class="Citation-text">Jaklitsch MT, Herndon JE, 2nd, DeCamp MM, Jr., et al. Nodal downstaging predicts survival following induction chemotherapy for stage IIIA (N2) non-small cell lung cancer in CALGB protocol #8935. J Surg Oncol 2006;94:599-606.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17039491">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

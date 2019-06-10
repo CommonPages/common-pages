@@ -8,7 +8,7 @@ article '23407562
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Browning ET, Weickhardt AJ, Camidge DR. Response to crizotinib rechallenge after initial progression and intervening chemotherapy in ALK lung cancer. J Thorac Oncol 2013;8:e21. </div>
+    <div class="Citation-text">Browning ET, Weickhardt AJ, Camidge DR. Response to crizotinib rechallenge after initial progression and intervening chemotherapy in ALK lung cancer. J Thorac Oncol 2013;8:e21.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23407562">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Rosenman et al., 2002
 article '12243807
 
+  index: hide
+  line !c
+    + c = Radiation doses of 74 Gy, when given under the guidelines of the Lineberger Comprehensive Cancer Center 9603, appear to be safe and may possibly contribute to increased survival in patients with inoperable Stage IIIA/IIIB NSCLC.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Rosenman JG, Halle JS, Socinski MA, et al. High-dose conformal radiotherapy for treatment of stage IIIA/IIIB non-small-cell lung cancer: technical issues and results of a phase I/II trial. Int J Radiat Oncol Biol Phys 2002;54:348-356. </div>
+    <div class="Citation-text">Rosenman JG, Halle JS, Socinski MA, et al. High-dose conformal radiotherapy for treatment of stage IIIA/IIIB non-small-cell lung cancer: technical issues and results of a phase I/II trial. Int J Radiat Oncol Biol Phys 2002;54:348-356.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/12243807">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

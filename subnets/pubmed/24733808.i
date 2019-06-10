@@ -5,10 +5,15 @@
 /// Hershman et al., 2014
 article '24733808
 
+  index: hide
+  line !c
+    + c = On the basis of the paucity of high-quality, consistent evidence, there are no agents recommended for the prevention of CIPN. With regard to the treatment of existing CIPN, the best available data support a moderate recommendation for treatment with duloxetine. Although the CIPN trials are inconclusive regarding tricyclic antidepressants (such as nortriptyline), gabapentin, and a compounded topical gel containing baclofen, amitriptyline HCL, and ketamine, these agents may be offered on the basis of data supporting their utility in other neuropathic pain conditions given the limited other CIPN treatment options. Further research on these agents is warranted.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Hershman DL, Lacchetti C, Dworkin RH, et al. Prevention and management of chemotherapy-induced peripheral neuropathy in survivors of adult cancers: American Society of Clinical Oncology clinical practice guideline. J Clin Oncol 2014;32:1941-1967. </div>
+    <div class="Citation-text">Hershman DL, Lacchetti C, Dworkin RH, et al. Prevention and management of chemotherapy-induced peripheral neuropathy in survivors of adult cancers: American Society of Clinical Oncology clinical practice guideline. J Clin Oncol 2014;32:1941-1967.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24733808">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '18977095
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Guckenberger M, Wulf J, Mueller G, et al. Dose-response relationship for image-guided stereotactic body radiotherapy of pulmonary tumors: relevance of 4D dose calculation. Int J Radiat Oncol Biol Phys 2009;74:47-54. </div>
+    <div class="Citation-text">Guckenberger M, Wulf J, Mueller G, et al. Dose-response relationship for image-guided stereotactic body radiotherapy of pulmonary tumors: relevance of 4D dose calculation. Int J Radiat Oncol Biol Phys 2009;74:47-54.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18977095">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

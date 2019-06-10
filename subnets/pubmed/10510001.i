@@ -13,7 +13,7 @@ article '10510001
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kernstine KH, Stanford W, Mullan BF, et al. PET, CT, and MRI with Combidex for mediastinal staging in non-small cell lung carcinoma. Ann Thorac Surg 1999;68:1022-1028. </div>
+    <div class="Citation-text">Kernstine KH, Stanford W, Mullan BF, et al. PET, CT, and MRI with Combidex for mediastinal staging in non-small cell lung carcinoma. Ann Thorac Surg 1999;68:1022-1028.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/10510001">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

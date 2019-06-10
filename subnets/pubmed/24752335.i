@@ -8,7 +8,7 @@ article '24752335
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Sacher AG, Janne PA, Oxnard GR. Management of acquired resistance to epidermal growth factor receptor kinase inhibitors in patients with advanced non-small cell lung cancer. Cancer 2014;120:2289-2298. </div>
+    <div class="Citation-text">Sacher AG, Janne PA, Oxnard GR. Management of acquired resistance to epidermal growth factor receptor kinase inhibitors in patients with advanced non-small cell lung cancer. Cancer 2014;120:2289-2298.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24752335">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

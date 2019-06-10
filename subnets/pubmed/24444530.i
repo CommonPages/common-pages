@@ -5,10 +5,15 @@
 /// Kilburn et al., 2015
 article '24444530
 
+  index: hide
+  line !c
+    + c = Tumor control can be established with re-irradiation using SBRT techniques for in-field thoracic failures at the cost of manageable toxicity.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kilburn JM, Kuremsky JG, Blackstock AW, et al. Thoracic re-irradiation using stereotactic body radiotherapy (SBRT) techniques as first or second course of treatment. Radiother Oncol 2014;110:505-510. </div>
+    <div class="Citation-text">Kilburn JM, Kuremsky JG, Blackstock AW, et al. Thoracic re-irradiation using stereotactic body radiotherapy (SBRT) techniques as first or second course of treatment. Radiother Oncol 2014;110:505-510.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24444530">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

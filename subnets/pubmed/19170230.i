@@ -13,7 +13,7 @@ article '19170230
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Wong DW, Leung EL, So KK, et al. The EML4-ALK fusion gene is involved in various histologic types of lung cancers from nonsmokers with wild-type EGFR and KRAS. Cancer 2009;115:1723-1733. </div>
+    <div class="Citation-text">Wong DW, Leung EL, So KK, et al. The EML4-ALK fusion gene is involved in various histologic types of lung cancers from nonsmokers with wild-type EGFR and KRAS. Cancer 2009;115:1723-1733.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19170230">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

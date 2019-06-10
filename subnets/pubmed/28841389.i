@@ -8,7 +8,7 @@ article '28841389
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ramalingam SS, Yang JC, Lee CK, et al. Osimertinib as first-line treatment for EGFR mutation positive advanced non-small cell lung cancer. J Clin Oncol 2018;36:841-849. </div>
+    <div class="Citation-text">Ramalingam SS, Yang JC, Lee CK, et al. Osimertinib as first-line treatment for EGFR mutation positive advanced non-small cell lung cancer. J Clin Oncol 2018;36:841-849.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/28841389">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

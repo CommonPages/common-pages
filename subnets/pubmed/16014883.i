@@ -13,7 +13,7 @@ article '16014883
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Tsao MS, Sakurada A, Cutz JC, et al. Erlotinib in lung cancer - molecular and clinical predictors of outcome. N Engl J Med 2005;353:133-144. </div>
+    <div class="Citation-text">Tsao MS, Sakurada A, Cutz JC, et al. Erlotinib in lung cancer - molecular and clinical predictors of outcome. N Engl J Med 2005;353:133-144.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/16014883">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

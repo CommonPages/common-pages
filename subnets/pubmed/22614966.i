@@ -8,7 +8,7 @@ article '22614966
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Pennell NA. Selection of chemotherapy for patients with advanced non-small cell lung cancer. Cleve Clin J Med 2012;79 Electronic Suppl 1:eS46-50. </div>
+    <div class="Citation-text">Pennell NA. Selection of chemotherapy for patients with advanced non-small cell lung cancer. Cleve Clin J Med 2012;79 Electronic Suppl 1:eS46-50.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22614966">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

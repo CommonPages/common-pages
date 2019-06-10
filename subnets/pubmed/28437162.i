@@ -8,7 +8,7 @@ article '28437162
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kris MG, Gaspar LE, Chaft JE, et al. Adjuvant systemic therapy and adjuvant radiation therapy for stage I to IIIA completely resected non-small-cell lung cancers: American Society of Clinical Oncology/Cancer Care Ontario Clinical Practice Guideline Update. J Clin Oncol 2017;35:2960-2974. </div>
+    <div class="Citation-text">Kris MG, Gaspar LE, Chaft JE, et al. Adjuvant systemic therapy and adjuvant radiation therapy for stage I to IIIA completely resected non-small-cell lung cancers: American Society of Clinical Oncology/Cancer Care Ontario Clinical Practice Guideline Update. J Clin Oncol 2017;35:2960-2974.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/28437162">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

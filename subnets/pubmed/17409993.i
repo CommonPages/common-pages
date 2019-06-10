@@ -5,10 +5,15 @@
 /// Noble et al., 2007
 article '17409993
 
+  index: hide
+  line !c
+    + c = Second-line or subsequent therapy with single-agent docetaxel, pemetrexed, or erlotinib offers patients a significant survival and QOL advantage.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Noble J, Ellis PM, Mackay JA, et al. Second-line or subsequent systemic therapy for recurrent or progressive non-small cell lung cancer: a systematic review and practice guideline. J Thorac Oncol 2006;1:1042-1058. </div>
+    <div class="Citation-text">Noble J, Ellis PM, Mackay JA, et al. Second-line or subsequent systemic therapy for recurrent or progressive non-small cell lung cancer: a systematic review and practice guideline. J Thorac Oncol 2006;1:1042-1058.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17409993">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

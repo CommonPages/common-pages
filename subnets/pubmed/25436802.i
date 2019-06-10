@@ -13,7 +13,7 @@ article '25436802
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> von Laffert M, Warth A, Penzel R, et al. Multicenter immunohistochemical ALK-testing of non-small-cell lung cancer shows high concordance after harmonization of techniques and interpretation criteria. J Thorac Oncol 2014;9:1685-1692. </div>
+    <div class="Citation-text">von Laffert M, Warth A, Penzel R, et al. Multicenter immunohistochemical ALK-testing of non-small-cell lung cancer shows high concordance after harmonization of techniques and interpretation criteria. J Thorac Oncol 2014;9:1685-1692.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25436802">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Barlesi et al., 2014
 article '24585722
 
+  index: hide
+  line !c
+    + c = In an unselected population of nsNSCLC patients achieving disease control on platinum-based induction therapy, maintenance with bevacizumab-pemetrexed was associated with a nonsignificant increase in OS over bevacizumab alone.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Barlesi F, Scherpereel A, Gorbunova V, et al. Maintenance bevacizumab-pemetrexed after first-line cisplatin-pemetrexed-bevacizumab for advanced nonsquamous nonsmall-cell lung cancer: updated survival analysis of the AVAPERL (MO22089) randomized phase III trial. Ann Oncol 2014;25:1044-1052. </div>
+    <div class="Citation-text">Barlesi F, Scherpereel A, Gorbunova V, et al. Maintenance bevacizumab-pemetrexed after first-line cisplatin-pemetrexed-bevacizumab for advanced nonsquamous nonsmall-cell lung cancer: updated survival analysis of the AVAPERL (MO22089) randomized phase III trial. Ann Oncol 2014;25:1044-1052.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24585722">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

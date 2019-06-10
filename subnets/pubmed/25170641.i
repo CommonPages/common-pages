@@ -8,7 +8,7 @@ article '25170641
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Shultz DB, Filippi AR, Thariat J, et al. Stereotactic ablative radiotherapy for pulmonary oligometastases and oligometastatic lung cancer. J Thorac Oncol 2014;9:1426-1433. </div>
+    <div class="Citation-text">Shultz DB, Filippi AR, Thariat J, et al. Stereotactic ablative radiotherapy for pulmonary oligometastases and oligometastatic lung cancer. J Thorac Oncol 2014;9:1426-1433.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25170641">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

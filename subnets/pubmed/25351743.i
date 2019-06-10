@@ -13,7 +13,7 @@ article '25351743
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Katayama R, Kobayashi Y, Friboulet L, et al. Cabozantinib overcomes crizotinib resistance in ROS1 fusion-positive cancer. Clin Cancer Res 2015;21:166-174. </div>
+    <div class="Citation-text">Katayama R, Kobayashi Y, Friboulet L, et al. Cabozantinib overcomes crizotinib resistance in ROS1 fusion-positive cancer. Clin Cancer Res 2015;21:166-174.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25351743">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

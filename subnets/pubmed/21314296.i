@@ -13,7 +13,7 @@ article '21314296
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ilonen IK, Rasanen JV, Knuuttila A, et al. Anatomic thoracoscopic lung resection for non-small cell lung cancer in stage I is associated with less morbidity and shorter hospitalization than thoracotomy. Acta Oncol 2011;50:1126-1132. </div>
+    <div class="Citation-text">Ilonen IK, Rasanen JV, Knuuttila A, et al. Anatomic thoracoscopic lung resection for non-small cell lung cancer in stage I is associated with less morbidity and shorter hospitalization than thoracotomy. Acta Oncol 2011;50:1126-1132.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21314296">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

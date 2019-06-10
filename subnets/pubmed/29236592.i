@@ -8,7 +8,7 @@ article '29236592
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Francis S, Orton A, Stoddard G, et al. Sequencing of postoperative radiotherapy and chemotherapy for locally advanced or incompletely resected non-small-cell lung cancer. J Clin Oncol 2018;36:333-341. </div>
+    <div class="Citation-text">Francis S, Orton A, Stoddard G, et al. Sequencing of postoperative radiotherapy and chemotherapy for locally advanced or incompletely resected non-small-cell lung cancer. J Clin Oncol 2018;36:333-341.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/29236592">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

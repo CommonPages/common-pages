@@ -13,7 +13,7 @@ article '17888955
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Atkins BZ, Harpole DH, Jr., Mangum JH, et al. Pulmonary segmentectomy by thoracotomy or thoracoscopy: reduced hospital length of stay with a minimally-invasive approach. Ann Thorac Surg 2007;84:1107-1112; discussion 1112-1103. </div>
+    <div class="Citation-text">Atkins BZ, Harpole DH, Jr., Mangum JH, et al. Pulmonary segmentectomy by thoracotomy or thoracoscopy: reduced hospital length of stay with a minimally-invasive approach. Ann Thorac Surg 2007;84:1107-1112; discussion 1112-1103.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17888955">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

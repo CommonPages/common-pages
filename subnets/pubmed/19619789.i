@@ -13,7 +13,7 @@ article '19619789
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Villamizar NR, Darrabie MD, Burfeind WR, et al. Thoracoscopic lobectomy is associated with lower morbidity compared with thoracotomy. J Thorac Cardiovasc Surg 2009;138:419-425. </div>
+    <div class="Citation-text">Villamizar NR, Darrabie MD, Burfeind WR, et al. Thoracoscopic lobectomy is associated with lower morbidity compared with thoracotomy. J Thorac Cardiovasc Surg 2009;138:419-425.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19619789">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

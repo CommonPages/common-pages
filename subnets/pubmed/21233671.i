@@ -8,7 +8,7 @@ article '21233671
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Cooper WA, O'Toole S, Boyer M, et al. What's new in non-small cell lung cancer for pathologists: the importance of accurate subtyping, EGFR mutations and ALK rearrangements. Pathology 2011;43:103-115. </div>
+    <div class="Citation-text">Cooper WA, O'Toole S, Boyer M, et al. What's new in non-small cell lung cancer for pathologists: the importance of accurate subtyping, EGFR mutations and ALK rearrangements. Pathology 2011;43:103-115.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21233671">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

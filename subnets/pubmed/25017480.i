@@ -13,7 +13,7 @@ article '25017480
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Hearn JW, Videtic GM, Djemil T, Stephans KL. Salvage stereotactic body radiation therapy (SBRT) for local failure after primary lung SBRT. Int J Radiat Oncol Biol Phys 2014;90:402-406. </div>
+    <div class="Citation-text">Hearn JW, Videtic GM, Djemil T, Stephans KL. Salvage stereotactic body radiation therapy (SBRT) for local failure after primary lung SBRT. Int J Radiat Oncol Biol Phys 2014;90:402-406.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25017480">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

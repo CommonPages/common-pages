@@ -5,10 +5,15 @@
 /// Pourel et al., 2008
 article '18367406
 
+  index: hide
+  line !c
+    + c = Surgery was feasible after induction chemoradiation, particularly lobectomy in PS 0-1, stage IIB (Pancoast)/III NSCLC pts but pneumonectomy carries a high risk of postoperative death (particularly, right pneumonectomy). Pathological response to induction chemoradiation was complete in 39.5% of patients and was a significant predictive factor of overall survival.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Pourel N, Santelmo N, Naafa N, et al. Concurrent cisplatin/etoposide plus 3D-conformal radiotherapy followed by surgery for stage IIB (superior sulcus T3N0)/III non-small cell lung cancer yields a high rate of pathological complete response. Eur J Cardiothorac Surg 2008;33:829-836. </div>
+    <div class="Citation-text">Pourel N, Santelmo N, Naafa N, et al. Concurrent cisplatin/etoposide plus 3D-conformal radiotherapy followed by surgery for stage IIB (superior sulcus T3N0)/III non-small cell lung cancer yields a high rate of pathological complete response. Eur J Cardiothorac Surg 2008;33:829-836.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18367406">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

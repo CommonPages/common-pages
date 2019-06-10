@@ -8,7 +8,7 @@ article '10880849
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Sculier JP, Lafitte JJ, Berghmans T, et al. A phase II trial testing gemcitabine as second-line chemotherapy for non small cell lung cancer. The European Lung Cancer Working Party. Lung Cancer 2000;29:67-73. </div>
+    <div class="Citation-text">Sculier JP, Lafitte JJ, Berghmans T, et al. A phase II trial testing gemcitabine as second-line chemotherapy for non small cell lung cancer. The European Lung Cancer Working Party. Lung Cancer 2000;29:67-73.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/10880849">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

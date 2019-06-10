@@ -8,7 +8,7 @@ article '26980062
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kazandjian D, Blumenthal GM, Yuan W, et al. FDA approval of gefitinib for the treatment of patients with metastatic EGFR mutation-positive non-small cell lung cancer. Clin Cancer Res 2016;22:1307-1312. </div>
+    <div class="Citation-text">Kazandjian D, Blumenthal GM, Yuan W, et al. FDA approval of gefitinib for the treatment of patients with metastatic EGFR mutation-positive non-small cell lung cancer. Clin Cancer Res 2016;22:1307-1312.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26980062">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

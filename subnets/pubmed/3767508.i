@@ -8,7 +8,7 @@ article '3767508
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Magilligan DJ, Jr., Duvernoy C, Malik G, et al. Surgical approach to lung cancer with solitary cerebral metastasis: twenty-five years' experience. Ann Thorac Surg 1986;42:360-364. </div>
+    <div class="Citation-text">Magilligan DJ, Jr., Duvernoy C, Malik G, et al. Surgical approach to lung cancer with solitary cerebral metastasis: twenty-five years' experience. Ann Thorac Surg 1986;42:360-364.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/3767508">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Baumann et al., 2009
 article '19414667
 
+  index: hide
+  line !c
+    + c = With a 3-year local tumor control rate higher than 90% with limited toxicity, SBRT emerges as state-of-the-art treatment for medically inoperable stage I NSCLC and may even challenge surgery in operable instances.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Baumann P, Nyman J, Hoyer M, et al. Outcome in a prospective phase II trial of medically inoperable stage I non-small-cell lung cancer patients treated with stereotactic body radiotherapy. J Clin Oncol 2009;27:3290-3296. </div>
+    <div class="Citation-text">Baumann P, Nyman J, Hoyer M, et al. Outcome in a prospective phase II trial of medically inoperable stage I non-small-cell lung cancer patients treated with stereotactic body radiotherapy. J Clin Oncol 2009;27:3290-3296.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19414667">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

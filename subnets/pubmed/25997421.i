@@ -5,10 +5,15 @@
 /// Chaudhuri et al., 2016
 article '25997421
 
+  index: hide
+  line !c
+    + c = Patients with central and ultra-central lung tumors treated with SABR (50 Gy in 4-5 fractions) experienced few toxicities and good outcomes, similar to patients with peripheral lung tumors.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Chaudhuri AA, Tang C, Binkley MS, et al. Stereotactic ablative radiotherapy (SABR) for treatment of central and ultra-central lung tumors. Lung Cancer 2015;89:50-56. </div>
+    <div class="Citation-text">Chaudhuri AA, Tang C, Binkley MS, et al. Stereotactic ablative radiotherapy (SABR) for treatment of central and ultra-central lung tumors. Lung Cancer 2015;89:50-56.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25997421">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

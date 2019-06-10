@@ -13,7 +13,7 @@ article '2385268
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Janerich DT, Thompson WD, Varela LR, et al. Lung cancer and exposure to tobacco smoke in the household. N Engl J Med 1990;323:632-636. </div>
+    <div class="Citation-text">Janerich DT, Thompson WD, Varela LR, et al. Lung cancer and exposure to tobacco smoke in the household. N Engl J Med 1990;323:632-636.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/2385268">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

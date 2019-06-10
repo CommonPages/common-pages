@@ -13,7 +13,7 @@ article '23759129
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Park SY, Lee JG, Kim J, et al. Efficacy of platinum-based adjuvant chemotherapy in T2aN0 stage IB non-small cell lung cancer. J Cardiothorac Surg 2013;8:151. </div>
+    <div class="Citation-text">Park SY, Lee JG, Kim J, et al. Efficacy of platinum-based adjuvant chemotherapy in T2aN0 stage IB non-small cell lung cancer. J Cardiothorac Surg 2013;8:151.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23759129">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

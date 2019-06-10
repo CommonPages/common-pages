@@ -8,7 +8,7 @@ article '24258574
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Iyengar P, Westover K, Timmerman RD. Stereotactic ablative radiotherapy (SABR) for non-small cell lung cancer. Semin Respir Crit Care Med 2013;34:845-854. </div>
+    <div class="Citation-text">Iyengar P, Westover K, Timmerman RD. Stereotactic ablative radiotherapy (SABR) for non-small cell lung cancer. Semin Respir Crit Care Med 2013;34:845-854.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24258574">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

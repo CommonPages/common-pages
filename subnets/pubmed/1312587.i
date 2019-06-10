@@ -13,7 +13,7 @@ article '1312587
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Burkes RL, Ginsberg RJ, Shepherd FA, et al. Induction chemotherapy with mitomycin, vindesine, and cisplatin for stage III unresectable non-small-cell lung cancer: results of the Toronto Phase II Trial. J Clin Oncol 1992;10:580-586. </div>
+    <div class="Citation-text">Burkes RL, Ginsberg RJ, Shepherd FA, et al. Induction chemotherapy with mitomycin, vindesine, and cisplatin for stage III unresectable non-small-cell lung cancer: results of the Toronto Phase II Trial. J Clin Oncol 1992;10:580-586.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/1312587">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '26324357
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Robson ME, Bradbury AR, Arun B, et al. American Society of Clinical Oncology Policy Statement Update: Genetic and Genomic Testing for Cancer Susceptibility. J Clin Oncol 2015;33:3660-3667. </div>
+    <div class="Citation-text">Robson ME, Bradbury AR, Arun B, et al. American Society of Clinical Oncology Policy Statement Update: Genetic and Genomic Testing for Cancer Susceptibility. J Clin Oncol 2015;33:3660-3667.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26324357">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

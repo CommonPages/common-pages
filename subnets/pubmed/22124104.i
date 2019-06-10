@@ -5,10 +5,15 @@
 /// Scagliotti et al., 2012
 article '22124104
 
+  index: hide
+  line !c
+    + c = Although the study was terminated early, preoperative gemcitabine plus cisplatin followed by radical surgery improved survival in patients with clinical stage IIB/IIIA NSCLC.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Scagliotti GV, Pastorino U, Vansteenkiste JF, et al. Randomized phase III study of surgery alone or surgery plus preoperative cisplatin and gemcitabine in stages IB to IIIA non-small-cell lung cancer. J Clin Oncol 2012;30:172-178. </div>
+    <div class="Citation-text">Scagliotti GV, Pastorino U, Vansteenkiste JF, et al. Randomized phase III study of surgery alone or surgery plus preoperative cisplatin and gemcitabine in stages IB to IIIA non-small-cell lung cancer. J Clin Oncol 2012;30:172-178.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22124104">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

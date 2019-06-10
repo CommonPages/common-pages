@@ -5,10 +5,15 @@
 /// Santana-Davila et al., 2015
 article '25422491
 
+  index: hide
+  line !c
+    + c = After accounting for prognostic variables, patients treated with EP versus CP had similar overall survival, but EP was associated with increased morbidity.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Santana-Davila R, Devisetty K, Szabo A, et al. Cisplatin and etoposide versus carboplatin and paclitaxel with concurrent radiotherapy for stage III non-small-cell lung cancer: an analysis of Veterans Health Administration data. J Clin Oncol 2015;33:567-574. </div>
+    <div class="Citation-text">Santana-Davila R, Devisetty K, Szabo A, et al. Cisplatin and etoposide versus carboplatin and paclitaxel with concurrent radiotherapy for stage III non-small-cell lung cancer: an analysis of Veterans Health Administration data. J Clin Oncol 2015;33:567-574.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25422491">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

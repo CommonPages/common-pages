@@ -13,7 +13,7 @@ article '11571735
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Socinski MA, Rosenman JG, Halle J, et al. Dose-escalating conformal thoracic radiation therapy with induction and concurrent carboplatin/paclitaxel in unresectable stage IIIA/B nonsmall cell lung carcinoma: a modified phase I/II trial. Cancer 2001;92:1213-1223. </div>
+    <div class="Citation-text">Socinski MA, Rosenman JG, Halle J, et al. Dose-escalating conformal thoracic radiation therapy with induction and concurrent carboplatin/paclitaxel in unresectable stage IIIA/B nonsmall cell lung carcinoma: a modified phase I/II trial. Cancer 2001;92:1213-1223.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/11571735">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Paik et al., 2016
 article '25971939
 
+  index: hide
+  line !c
+    + c = Oncogenic mutations in the MET exon 14 splice sites that cause exon 14 skipping occur in 4% of lung adenocarcinomas. We report responses to the MET inhibitors crizotinib and cabozantinib in patients with lung adenocarcinomas harboring MET exon 14 splice site mutations, identifying a new potential therapeutic target in this disease.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Paik PK, Drilon A, Fan PD, et al. Response to MET inhibitors in patients with stage IV lung adenocarcinomas harboring MET mutations causing exon 14 skipping. Cancer Discov 2015;5:842-849. </div>
+    <div class="Citation-text">Paik PK, Drilon A, Fan PD, et al. Response to MET inhibitors in patients with stage IV lung adenocarcinomas harboring MET mutations causing exon 14 skipping. Cancer Discov 2015;5:842-849.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25971939">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

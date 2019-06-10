@@ -8,7 +8,7 @@ article '20015257
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Cameron SE, Andrade RS, Pambuccian SE. Endobronchial ultrasound-guided transbronchial needle aspiration cytology: a state of the art review. Cytopathology 2010;21:6-26. </div>
+    <div class="Citation-text">Cameron SE, Andrade RS, Pambuccian SE. Endobronchial ultrasound-guided transbronchial needle aspiration cytology: a state of the art review. Cytopathology 2010;21:6-26.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20015257">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

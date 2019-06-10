@@ -8,7 +8,7 @@ article '10945489
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Anderson H, Hopwood P, Stephens RJ, et al. Gemcitabine plus best supportive care (BSC) vs BSC in inoperable non-small cell lung cancer--a randomized trial with quality of life as the primary outcome. UK NSCLC Gemcitabine Group. Non-Small Cell Lung Cancer. Br J Cancer 2000;83:447-453. </div>
+    <div class="Citation-text">Anderson H, Hopwood P, Stephens RJ, et al. Gemcitabine plus best supportive care (BSC) vs BSC in inoperable non-small cell lung cancer--a randomized trial with quality of life as the primary outcome. UK NSCLC Gemcitabine Group. Non-Small Cell Lung Cancer. Br J Cancer 2000;83:447-453.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/10945489">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

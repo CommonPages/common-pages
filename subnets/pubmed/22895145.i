@@ -5,10 +5,15 @@
 /// Lund-Iversen et al., 2013
 article '22895145
 
+  index: hide
+  line !c
+    + c = Exon 20 mutations seem to confer insensitivity to TKI treatment.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Lund-Iversen M, Kleinberg L, Fjellbirkeland L, et al. Clinicopathological characteristics of 11 NSCLC patients with EGFR-exon 20 mutations. J Thorac Oncol 2012;7:1471-1473. </div>
+    <div class="Citation-text">Lund-Iversen M, Kleinberg L, Fjellbirkeland L, et al. Clinicopathological characteristics of 11 NSCLC patients with EGFR-exon 20 mutations. J Thorac Oncol 2012;7:1471-1473.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22895145">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

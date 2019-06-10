@@ -5,10 +5,15 @@
 /// Rogers et al., 2015
 article '25789833
 
+  index: hide
+  line !c
+    + c = Our findings show good correlation between FISH versus CISH in the detection of ALK and ROS1 rearrangements. FISH versus IHC showed good correlation in the detection of ALK rearrangements but showed weak correlation in the detection of ROS1 rearrangements. These results suggest CISH and IHC could be complimentary detection methods to FISH in the detection of ALK and ROS1 rearrangements.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Rogers TM, Russell PA, Wright G, et al. Comparison of methods in the detection of ALK and ROS1 rearrangements in lung cancer. J Thorac Oncol 2015;10:611-618. </div>
+    <div class="Citation-text">Rogers TM, Russell PA, Wright G, et al. Comparison of methods in the detection of ALK and ROS1 rearrangements in lung cancer. J Thorac Oncol 2015;10:611-618.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25789833">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

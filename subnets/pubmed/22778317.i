@@ -5,10 +5,15 @@
 /// Gridelli et al., 2012
 article '22778317
 
+  index: hide
+  line !c
+    + c = In unselected patients with advanced NSCLC, first-line erlotinib followed at progression by cisplatin-gemcitabine was significantly inferior in terms of overall survival compared with the standard sequence of first-line chemotherapy followed by erlotinib.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Gridelli C, Ciardiello F, Gallo C, et al. First-line erlotinib followed by second-line cisplatin-gemcitabine chemotherapy in advanced non-small-cell lung cancer: the TORCH randomized trial. J Clin Oncol 2012;30:3002-3011. </div>
+    <div class="Citation-text">Gridelli C, Ciardiello F, Gallo C, et al. First-line erlotinib followed by second-line cisplatin-gemcitabine chemotherapy in advanced non-small-cell lung cancer: the TORCH randomized trial. J Clin Oncol 2012;30:3002-3011.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22778317">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

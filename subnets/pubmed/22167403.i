@@ -8,7 +8,7 @@ article '22167403
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Thompson GR, 3rd. Pulmonary coccidioidomycosis. Semin Respir Crit Care Med 2011;32:754-763. </div>
+    <div class="Citation-text">Thompson GR, 3rd. Pulmonary coccidioidomycosis. Semin Respir Crit Care Med 2011;32:754-763.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22167403">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

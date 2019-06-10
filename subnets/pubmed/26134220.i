@@ -8,7 +8,7 @@ article '26134220
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kerr KM, Tsao MS, Nicholson AG, et al. Programmed death-ligand 1 immunohistochemistry in lung cancer: in what state is this art? J Thorac Oncol 2015;10:985-989. </div>
+    <div class="Citation-text">Kerr KM, Tsao MS, Nicholson AG, et al. Programmed death-ligand 1 immunohistochemistry in lung cancer: in what state is this art? J Thorac Oncol 2015;10:985-989.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26134220">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '22787411
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Leighl NB. Treatment paradigms for patients with metastatic non-small-cell lung cancer: first-, second-, and third-line. Curr Oncol 2012;19:S52-58. </div>
+    <div class="Citation-text">Leighl NB. Treatment paradigms for patients with metastatic non-small-cell lung cancer: first-, second-, and third-line. Curr Oncol 2012;19:S52-58.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22787411">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

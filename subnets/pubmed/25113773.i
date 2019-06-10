@@ -8,7 +8,7 @@ article '25113773
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Lutz ST, Jones J, Chow E. Role of radiation therapy in palliative care of the patient with cancer. J Clin Oncol 2014;32:2913-2919. </div>
+    <div class="Citation-text">Lutz ST, Jones J, Chow E. Role of radiation therapy in palliative care of the patient with cancer. J Clin Oncol 2014;32:2913-2919.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25113773">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

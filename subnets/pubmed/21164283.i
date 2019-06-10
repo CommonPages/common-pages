@@ -8,7 +8,7 @@ article '21164283
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Mukhopadhyay S, Katzenstein AL. Subclassification of non-small cell lung carcinomas lacking morphologic differentiation on biopsy specimens: Utility of an immunohistochemical panel containing TTF-1, napsin A, p63, and CK5/6. Am J Surg Pathol 2011;35:15-25. </div>
+    <div class="Citation-text">Mukhopadhyay S, Katzenstein AL. Subclassification of non-small cell lung carcinomas lacking morphologic differentiation on biopsy specimens: Utility of an immunohistochemical panel containing TTF-1, napsin A, p63, and CK5/6. Am J Surg Pathol 2011;35:15-25.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21164283">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

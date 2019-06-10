@@ -8,7 +8,7 @@ article '28739703
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Tamiya A, Tamiya M, Nishihara T, et al. Cerebrospinal fluid penetration rate and efficacy of afatinib in patients with EGFR mutation-positive non-small cell lung cancer with leptomeningeal carcinomatosis: a multicenter prospective study. Anticancer Res 2017;37:4177-4182. </div>
+    <div class="Citation-text">Tamiya A, Tamiya M, Nishihara T, et al. Cerebrospinal fluid penetration rate and efficacy of afatinib in patients with EGFR mutation-positive non-small cell lung cancer with leptomeningeal carcinomatosis: a multicenter prospective study. Anticancer Res 2017;37:4177-4182.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/28739703">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

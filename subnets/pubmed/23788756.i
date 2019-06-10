@@ -13,7 +13,7 @@ article '23788756
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kim HR, Lim SM, Kim HJ, et al. The frequency and impact of ROS1 rearrangement on clinical outcomes in never smokers with lung adenocarcinoma. Ann Oncol 2013;24:2364-2370. </div>
+    <div class="Citation-text">Kim HR, Lim SM, Kim HJ, et al. The frequency and impact of ROS1 rearrangement on clinical outcomes in never smokers with lung adenocarcinoma. Ann Oncol 2013;24:2364-2370.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23788756">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

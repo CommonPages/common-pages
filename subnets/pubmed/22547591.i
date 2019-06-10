@@ -5,10 +5,15 @@
 /// Socinski et al., 2012
 article '22547591
 
+  index: hide
+  line !c
+    + c = The administration of nab-PC as first-line therapy in patients with advanced NSCLC was efficacious and resulted in a significantly improved ORR versus sb-PC, achieving the primary end point. nab-PC produced less neuropathy than sb-PC.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Socinski MA, Bondarenko I, Karaseva NA, et al. Weekly nab-paclitaxel in combination with carboplatin versus solvent-based paclitaxel plus carboplatin as first-line therapy in patients with advanced non-small-cell lung cancer: final results of a phase III trial. J Clin Oncol 2012;30:2055-2062. </div>
+    <div class="Citation-text">Socinski MA, Bondarenko I, Karaseva NA, et al. Weekly nab-paclitaxel in combination with carboplatin versus solvent-based paclitaxel plus carboplatin as first-line therapy in patients with advanced non-small-cell lung cancer: final results of a phase III trial. J Clin Oncol 2012;30:2055-2062.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22547591">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '22773800
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Zornosa C, Vandergrift JL, Kalemkerian GP, et al. First-line systemic therapy practice patterns and concordance with NCCN guidelines for patients diagnosed with metastatic NSCLC treated at NCCN institutions. J Natl Compr Canc Netw 2012;10:847-856. </div>
+    <div class="Citation-text">Zornosa C, Vandergrift JL, Kalemkerian GP, et al. First-line systemic therapy practice patterns and concordance with NCCN guidelines for patients diagnosed with metastatic NSCLC treated at NCCN institutions. J Natl Compr Canc Netw 2012;10:847-856.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22773800">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

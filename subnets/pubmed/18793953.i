@@ -8,7 +8,7 @@ article '18793953
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Belderbos JS, Kepka L, Spring Kong FM, et al. Report from the International Atomic Energy Agency (IAEA) consultants' meeting on elective nodal irradiation in lung cancer: non-small-Cell lung cancer (NSCLC). Int J Radiat Oncol Biol Phys 2008;72:335-342. </div>
+    <div class="Citation-text">Belderbos JS, Kepka L, Spring Kong FM, et al. Report from the International Atomic Energy Agency (IAEA) consultants' meeting on elective nodal irradiation in lung cancer: non-small-Cell lung cancer (NSCLC). Int J Radiat Oncol Biol Phys 2008;72:335-342.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18793953">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Widder et al., 2012
 article '21640503
 
+  index: hide
+  line !c
+    + c = In this nonrandomized comparison of two prospective cohorts of medically inoperable patients with Stage I lung cancer, OS and LC were better after SABR. GQOL, PF, and patient-rated dyspnea were stable after SABR, whereas PF decreased after 3D-CRT approaching clinical significance already at 1 year.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Widder J, Postmus D, Ubbels JF, et al. Survival and quality of life after stereotactic or 3D-conformal radiotherapy for inoperable early-stage lung cancer. Int J Radiat Oncol Biol Phys 2011;81:e291-297. </div>
+    <div class="Citation-text">Widder J, Postmus D, Ubbels JF, et al. Survival and quality of life after stereotactic or 3D-conformal radiotherapy for inoperable early-stage lung cancer. Int J Radiat Oncol Biol Phys 2011;81:e291-297.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21640503">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

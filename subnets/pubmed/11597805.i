@@ -13,7 +13,7 @@ article '11597805
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Hernando ML, Marks LB, Bentel GC, et al. Radiation-induced pulmonary toxicity: a dose-volume histogram analysis in 201 patients with lung cancer. Int J Radiat Oncol Biol Phys 2001;51:650-659. </div>
+    <div class="Citation-text">Hernando ML, Marks LB, Bentel GC, et al. Radiation-induced pulmonary toxicity: a dose-volume histogram analysis in 201 patients with lung cancer. Int J Radiat Oncol Biol Phys 2001;51:650-659.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/11597805">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

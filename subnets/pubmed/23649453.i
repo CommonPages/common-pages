@@ -13,7 +13,7 @@ article '23649453
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ford DW, Koch KA, Ray DE, Selecky PA. Palliative and end-of-life care in lung cancer: Diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines. Chest 2013;143:e498S-512S. </div>
+    <div class="Citation-text">Ford DW, Koch KA, Ray DE, Selecky PA. Palliative and end-of-life care in lung cancer: Diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines. Chest 2013;143:e498S-512S.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23649453">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '21264827
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Sejpal S, Komaki R, Tsao A, et al. Early findings on toxicity of proton beam therapy with concurrent chemotherapy for nonsmall cell lung cancer. Cancer 2011;117:3004-3013. </div>
+    <div class="Citation-text">Sejpal S, Komaki R, Tsao A, et al. Early findings on toxicity of proton beam therapy with concurrent chemotherapy for nonsmall cell lung cancer. Cancer 2011;117:3004-3013.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21264827">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

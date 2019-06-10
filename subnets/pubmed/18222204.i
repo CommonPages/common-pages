@@ -8,7 +8,7 @@ article '18222204
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Demmy TL, Nwogu C. Is video-assisted thoracic surgery lobectomy better? Quality of life considerations. Ann Thorac Surg 2008;85:S719-728. </div>
+    <div class="Citation-text">Demmy TL, Nwogu C. Is video-assisted thoracic surgery lobectomy better? Quality of life considerations. Ann Thorac Surg 2008;85:S719-728.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18222204">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

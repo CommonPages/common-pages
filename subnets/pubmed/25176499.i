@@ -13,7 +13,7 @@ article '25176499
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> McKee BJ, Regis SM, McKee AB, et al. Performance of ACR Lung-RADS in a Clinical CT Lung Screening Program. J Am Coll Radiol 2015;12:273-276. </div>
+    <div class="Citation-text">McKee BJ, Regis SM, McKee AB, et al. Performance of ACR Lung-RADS in a Clinical CT Lung Screening Program. J Am Coll Radiol 2015;12:273-276.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25176499">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

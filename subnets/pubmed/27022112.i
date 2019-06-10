@@ -8,7 +8,7 @@ article '27022112
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Urata Y, Katakami N, Morita S, et al. Randomized phase III study comparing gefitinib with erlotinib in patients with previously treated advanced lung adenocarcinoma: WJOG 5108L. J Clin Oncol 2016;34:3248-3257. </div>
+    <div class="Citation-text">Urata Y, Katakami N, Morita S, et al. Randomized phase III study comparing gefitinib with erlotinib in patients with previously treated advanced lung adenocarcinoma: WJOG 5108L. J Clin Oncol 2016;34:3248-3257.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27022112">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

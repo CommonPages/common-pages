@@ -8,7 +8,7 @@ article '2405271
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Patchell RA, Tibbs PA, Walsh JW, et al. A randomized trial of surgery in the treatment of single metastases to the brain. N Engl J Med 1990;322:494-500. </div>
+    <div class="Citation-text">Patchell RA, Tibbs PA, Walsh JW, et al. A randomized trial of surgery in the treatment of single metastases to the brain. N Engl J Med 1990;322:494-500.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/2405271">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

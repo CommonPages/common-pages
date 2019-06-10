@@ -8,7 +8,7 @@ article '21441299
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Nadler E, Yu E, Ravelo A, et al. Bevacizumab treatment to progression after chemotherapy: outcomes from a U.S. community practice network. Oncologist 2011;16:486-496. </div>
+    <div class="Citation-text">Nadler E, Yu E, Ravelo A, et al. Bevacizumab treatment to progression after chemotherapy: outcomes from a U.S. community practice network. Oncologist 2011;16:486-496.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21441299">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

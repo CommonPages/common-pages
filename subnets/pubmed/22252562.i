@@ -13,7 +13,7 @@ article '22252562
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Matsuo Y, Shibuya K, Nagata Y, et al. Preliminary report of late recurrences, at 5 years or more, after stereotactic body radiation therapy for non-small cell lung cancer. J Thorac Oncol 2012;7:453-456. </div>
+    <div class="Citation-text">Matsuo Y, Shibuya K, Nagata Y, et al. Preliminary report of late recurrences, at 5 years or more, after stereotactic body radiation therapy for non-small cell lung cancer. J Thorac Oncol 2012;7:453-456.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22252562">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

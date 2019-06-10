@@ -8,7 +8,7 @@ article '20671962
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Marsh JC, Gielda BT, Herskovic AM, Abrams RA. Cognitive sparing during the administration of whole brain radiotherapy and prophylactic cranial irradiation: Current concepts and approaches. J Oncol 2010;2010:198208. </div>
+    <div class="Citation-text">Marsh JC, Gielda BT, Herskovic AM, Abrams RA. Cognitive sparing during the administration of whole brain radiotherapy and prophylactic cranial irradiation: Current concepts and approaches. J Oncol 2010;2010:198208.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20671962">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

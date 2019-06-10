@@ -13,7 +13,7 @@ article '20714770
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Usami N, Yokoi K, Hasegawa Y, et al. Phase II study of carboplatin and gemcitabine as adjuvant chemotherapy in patients with completely resected non-small cell lung cancer: a report from the Central Japan Lung Study Group, CJLSG 0503 trial. Int J Clin Oncol 2010;15:583-587. </div>
+    <div class="Citation-text">Usami N, Yokoi K, Hasegawa Y, et al. Phase II study of carboplatin and gemcitabine as adjuvant chemotherapy in patients with completely resected non-small cell lung cancer: a report from the Central Japan Lung Study Group, CJLSG 0503 trial. Int J Clin Oncol 2010;15:583-587.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20714770">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

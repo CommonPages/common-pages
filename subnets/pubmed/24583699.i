@@ -8,7 +8,7 @@ article '24583699
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Nakamura H. Systematic review of published studies on safety and efficacy of thoracoscopic and robot-assisted lobectomy for lung cancer. Ann Thorac Cardiovasc Surg 2014;20:93-98. </div>
+    <div class="Citation-text">Nakamura H. Systematic review of published studies on safety and efficacy of thoracoscopic and robot-assisted lobectomy for lung cancer. Ann Thorac Cardiovasc Surg 2014;20:93-98.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24583699">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Boffa et al., 2008
 article '18242243
 
+  index: hide
+  line !c
+    + c = The patients in the general thoracic surgery database are elderly, gender balanced, and afflicted by multiple comorbid conditions. Mediastinal lymph node evaluation is common and the pneumonectomy rate is low. The length of stay is short and operative mortality is low, despite frequent postoperative events.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Boffa DJ, Allen MS, Grab JD, et al. Data from The Society of Thoracic Surgeons General Thoracic Surgery database: the surgical management of primary lung tumors. J Thorac Cardiovasc Surg 2008;135:247-254. </div>
+    <div class="Citation-text">Boffa DJ, Allen MS, Grab JD, et al. Data from The Society of Thoracic Surgeons General Thoracic Surgery database: the surgical management of primary lung tumors. J Thorac Cardiovasc Surg 2008;135:247-254.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18242243">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

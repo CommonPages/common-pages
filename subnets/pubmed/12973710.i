@@ -8,7 +8,7 @@ article '12973710
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Allen MS. Multiple benign lung tumors. Semin Thorac Cardiovasc Surg 2003;15:310-314. </div>
+    <div class="Citation-text">Allen MS. Multiple benign lung tumors. Semin Thorac Cardiovasc Surg 2003;15:310-314.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/12973710">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

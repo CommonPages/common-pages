@@ -5,10 +5,15 @@
 /// Sulman et al., 2009
 article '19183471
 
+  index: hide
+  line !c
+    + c = We observed only a 4.3% recurrence of any ENF and a 1.7% recurrence of isolated ENF in patients with NSCLC treated with definitive 3D-CRT without prophylactic irradiation of uninvolved lymph node stations. Thus, distant metastasis and IFF remain the primary causes of treatment failure and cancer death in such patients, suggesting little value of ENI in this cohort.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Sulman EP, Komaki R, Klopp AH, et al. Exclusion of elective nodal irradiation is associated with minimal elective nodal failure in non-small cell lung cancer. Radiat Oncol 2009;4:5. </div>
+    <div class="Citation-text">Sulman EP, Komaki R, Klopp AH, et al. Exclusion of elective nodal irradiation is associated with minimal elective nodal failure in non-small cell lung cancer. Radiat Oncol 2009;4:5.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19183471">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

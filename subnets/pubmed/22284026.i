@@ -8,7 +8,7 @@ article '22284026
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Cox JD. Are the results of RTOG 0617 mysterious? Int J Radiat Oncol Biol Phys 2012;82:1042-1044. </div>
+    <div class="Citation-text">Cox JD. Are the results of RTOG 0617 mysterious? Int J Radiat Oncol Biol Phys 2012;82:1042-1044.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22284026">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

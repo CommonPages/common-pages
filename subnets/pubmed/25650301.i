@@ -8,7 +8,7 @@ article '25650301
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Choy H, Gerber DE, Bradley JD, et al. Concurrent pemetrexed and radiation therapy in the treatment of patients with inoperable stage III non-small cell lung cancer: a systematic review of completed and ongoing studies. Lung Cancer 2015;87:232-240. </div>
+    <div class="Citation-text">Choy H, Gerber DE, Bradley JD, et al. Concurrent pemetrexed and radiation therapy in the treatment of patients with inoperable stage III non-small cell lung cancer: a systematic review of completed and ongoing studies. Lung Cancer 2015;87:232-240.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25650301">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

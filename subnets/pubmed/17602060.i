@@ -8,7 +8,7 @@ article '17602060
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Cohen MH, Gootenberg J, Keegan P, Pazdur R. FDA drug approval summary: bevacizumab (Avastin) plus Carboplatin and Paclitaxel as first-line treatment of advanced/metastatic recurrent nonsquamous non-small cell lung cancer. Oncologist 2007;12:713-718. </div>
+    <div class="Citation-text">Cohen MH, Gootenberg J, Keegan P, Pazdur R. FDA drug approval summary: bevacizumab (Avastin) plus Carboplatin and Paclitaxel as first-line treatment of advanced/metastatic recurrent nonsquamous non-small cell lung cancer. Oncologist 2007;12:713-718.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17602060">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

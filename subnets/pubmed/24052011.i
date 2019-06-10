@@ -8,7 +8,7 @@ article '24052011
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Guckenberger M, Andratschke N, Alheit H, et al. Definition of stereotactic body radiotherapy: principles and practice for the treatment of stage I non-small cell lung cancer. Strahlenther Onkol 2014;190:26-33. </div>
+    <div class="Citation-text">Guckenberger M, Andratschke N, Alheit H, et al. Definition of stereotactic body radiotherapy: principles and practice for the treatment of stage I non-small cell lung cancer. Strahlenther Onkol 2014;190:26-33.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24052011">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

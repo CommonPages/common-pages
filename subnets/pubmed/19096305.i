@@ -13,7 +13,7 @@ article '19096305
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Rintoul RC, Tournoy KG, El Daly H, et al. EBUS-TBNA for the clarification of PET positive intra-thoracic lymph nodes-an international multi-centre experience. J Thorac Oncol 2009;4:44-48. </div>
+    <div class="Citation-text">Rintoul RC, Tournoy KG, El Daly H, et al. EBUS-TBNA for the clarification of PET positive intra-thoracic lymph nodes-an international multi-centre experience. J Thorac Oncol 2009;4:44-48.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19096305">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

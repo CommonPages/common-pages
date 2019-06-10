@@ -13,7 +13,7 @@ article '23735703
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Westeel V, Quoix E, Puyraveau M, et al. A randomised trial comparing preoperative to perioperative chemotherapy in early-stage non-small-cell lung cancer (IFCT 0002 trial). Eur J Cancer 2013;49:2654-2664. </div>
+    <div class="Citation-text">Westeel V, Quoix E, Puyraveau M, et al. A randomised trial comparing preoperative to perioperative chemotherapy in early-stage non-small-cell lung cancer (IFCT 0002 trial). Eur J Cancer 2013;49:2654-2664.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23735703">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

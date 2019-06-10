@@ -5,10 +5,15 @@
 /// Herbst et al., 2016
 article '26712084
 
+  index: hide
+  line !c
+    + c = Pembrolizumab prolongs overall survival and has a favourable benefit-to-risk profile in patients with previously treated, PD-L1-positive, advanced non-small-cell lung cancer. These data establish pembrolizumab as a new treatment option for this population and validate the use of PD-L1 selection.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Herbst RS, Baas P, Kim DW, et al. Pembrolizumab versus docetaxel for previously treated, PD-L1-positive, advanced non-small-cell lung cancer (KEYNOTE-010): a randomised controlled trial. Lancet 2016;387:1540-1550. </div>
+    <div class="Citation-text">Herbst RS, Baas P, Kim DW, et al. Pembrolizumab versus docetaxel for previously treated, PD-L1-positive, advanced non-small-cell lung cancer (KEYNOTE-010): a randomised controlled trial. Lancet 2016;387:1540-1550.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26712084">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

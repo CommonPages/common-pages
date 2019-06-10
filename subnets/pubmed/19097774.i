@@ -5,10 +5,15 @@
 /// Eisenhauer et al., 2009
 article '19097774
 
+  index: hide
+  line !c
+    + c = A key question considered by the RECIST Working Group in developing RECIST 1.1 was whether it was appropriate to move from anatomic unidimensional assessment of tumour burden to either volumetric anatomical assessment or to functional assessment with PET or MRI. It was concluded that, at present, there is not sufficient standardisation or evidence to abandon anatomical assessment of tumour burden. The only exception to this is in the use of FDG-PET imaging as an adjunct to determination of progression. As is detailed in the final paper in this special issue, the use of these promising newer approaches requires appropriate clinical validation studies.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Eisenhauer EA, Therasse P, Bogaerts J, et al. New response evaluation criteria in solid tumours: revised RECIST guideline (version 1.1). Eur J Cancer 2009;45:228-247. </div>
+    <div class="Citation-text">Eisenhauer EA, Therasse P, Bogaerts J, et al. New response evaluation criteria in solid tumours: revised RECIST guideline (version 1.1). Eur J Cancer 2009;45:228-247.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19097774">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

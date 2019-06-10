@@ -5,10 +5,15 @@
 /// Meijneke et al., 2014
 article '23647748
 
+  index: hide
+  line !c
+    + c = Reirradiation of the lung with or after stereotactic radiotherapy is feasible to a median Dmax of 363 Gy3 to the lung, as low toxicity was observed.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Meijneke TR, Petit SF, Wentzler D, et al. Reirradiation and stereotactic radiotherapy for tumors in the lung: dose summation and toxicity. Radiother Oncol 2013;107:423-427. </div>
+    <div class="Citation-text">Meijneke TR, Petit SF, Wentzler D, et al. Reirradiation and stereotactic radiotherapy for tumors in the lung: dose summation and toxicity. Radiother Oncol 2013;107:423-427.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23647748">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

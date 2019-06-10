@@ -8,7 +8,7 @@ article '23280244
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Weickhardt AJ, Aisner DL, Franklin WA, et al. Diagnostic assays for identification of anaplastic lymphoma kinase-positive non-small cell lung cancer. Cancer 2013;119:1467-1477. </div>
+    <div class="Citation-text">Weickhardt AJ, Aisner DL, Franklin WA, et al. Diagnostic assays for identification of anaplastic lymphoma kinase-positive non-small cell lung cancer. Cancer 2013;119:1467-1477.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23280244">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

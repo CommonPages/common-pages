@@ -13,7 +13,7 @@ article '25325781
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Corso CD, Rutter CE, Wilson LD, et al. Re-evaluation of the role of postoperative radiotherapy and the impact of radiation dose for non-small-cell lung cancer using the National Cancer Database. J Thorac Oncol 2015;10:148-155. </div>
+    <div class="Citation-text">Corso CD, Rutter CE, Wilson LD, et al. Re-evaluation of the role of postoperative radiotherapy and the impact of radiation dose for non-small-cell lung cancer using the National Cancer Database. J Thorac Oncol 2015;10:148-155.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25325781">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

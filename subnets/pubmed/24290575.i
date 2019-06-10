@@ -13,7 +13,7 @@ article '24290575
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Su S, Scott WJ, Allen MS, et al. Patterns of survival and recurrence after surgical treatment of early stage non-small cell lung carcinoma in the ACOSOG Z0030 (ALLIANCE) trial. J Thorac Cardiovasc Surg 2014;147:747-752: Discussion 752-743. </div>
+    <div class="Citation-text">Su S, Scott WJ, Allen MS, et al. Patterns of survival and recurrence after surgical treatment of early stage non-small cell lung carcinoma in the ACOSOG Z0030 (ALLIANCE) trial. J Thorac Cardiovasc Surg 2014;147:747-752: Discussion 752-743.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24290575">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

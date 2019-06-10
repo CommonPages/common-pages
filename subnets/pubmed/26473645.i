@@ -13,7 +13,7 @@ article '26473645
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Calles A, Liao X, Sholl LM, et al. Expression of PD-1 and Its Ligands, PD-L1 and PD-L2, in Smokers and Never Smokers with KRAS-Mutant Lung Cancer. J Thorac Oncol 2015;10:1726-1735. </div>
+    <div class="Citation-text">Calles A, Liao X, Sholl LM, et al. Expression of PD-1 and Its Ligands, PD-L1 and PD-L2, in Smokers and Never Smokers with KRAS-Mutant Lung Cancer. J Thorac Oncol 2015;10:1726-1735.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26473645">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

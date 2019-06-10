@@ -8,7 +8,7 @@ article '28838400
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ou SI, Horn L, Cruz M, et al. Emergence of FGFR3-TACC3 fusions as a potential by-pass resistance mechanism to EGFR tyrosine kinase inhibitors in EGFR mutated NSCLC patients. Lung Cancer 2017;111:61-64. </div>
+    <div class="Citation-text">Ou SI, Horn L, Cruz M, et al. Emergence of FGFR3-TACC3 fusions as a potential by-pass resistance mechanism to EGFR tyrosine kinase inhibitors in EGFR mutated NSCLC patients. Lung Cancer 2017;111:61-64.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/28838400">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

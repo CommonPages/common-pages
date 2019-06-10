@@ -13,7 +13,7 @@ article '18164849
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Lagerwaard FJ, Haasbeek CJ, Smit EF, et al. Outcomes of risk-adapted fractionated stereotactic radiotherapy for stage I non-small-cell lung cancer. Int J Radiat Oncol Biol Phys 2008;70:685-692. </div>
+    <div class="Citation-text">Lagerwaard FJ, Haasbeek CJ, Smit EF, et al. Outcomes of risk-adapted fractionated stereotactic radiotherapy for stage I non-small-cell lung cancer. Int J Radiat Oncol Biol Phys 2008;70:685-692.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18164849">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

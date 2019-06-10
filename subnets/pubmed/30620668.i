@@ -5,10 +5,15 @@
 /// Reck et al., 2019
 article '30620668
 
+  index: hide
+  line !c
+    + c = With prolonged follow-up, first-line pembrolizumab monotherapy continues to demonstrate an OS benefit over chemotherapy in patients with previously untreated, advanced NSCLC without EGFR/ALK aberrations, despite crossover from the control arm to pembrolizumab as subsequent therapy.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Reck M, Rodriguez-Abreu D, Robinson AG, et al. Updated analysis of KEYNOTE-024: pembrolizumab versus platinum-based chemotherapy for advanced non-small-cell lung cancer with PD-L1 tumor proportion score of 50% or greater. J Clin Oncol 2019:JCO1800149. </div>
+    <div class="Citation-text">Reck M, Rodriguez-Abreu D, Robinson AG, et al. Updated analysis of KEYNOTE-024: pembrolizumab versus platinum-based chemotherapy for advanced non-small-cell lung cancer with PD-L1 tumor proportion score of 50% or greater. J Clin Oncol 2019:JCO1800149.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/30620668">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

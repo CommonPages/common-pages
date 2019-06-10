@@ -8,7 +8,7 @@ article '19118231
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> De Wever W, Stroobants S, Coolen J, Verschakelen JA. Integrated PET/CT in the staging of nonsmall cell lung cancer: technical aspects and clinical integration. Eur Respir J 2009;33:201-212. </div>
+    <div class="Citation-text">De Wever W, Stroobants S, Coolen J, Verschakelen JA. Integrated PET/CT in the staging of nonsmall cell lung cancer: technical aspects and clinical integration. Eur Respir J 2009;33:201-212.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19118231">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

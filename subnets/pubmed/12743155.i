@@ -5,10 +5,15 @@
 /// Gandara et al., 2003
 article '12743155
 
+  index: hide
+  line !c
+    + c = Consolidation docetaxel after concurrent chemoradiotherapy in stage IIIB NSCLC is feasible and generally tolerable, and results compare favorably with the predecessor trial S9019. Nevertheless, this study remains hypothesis-generating and does not provide definitive evidence of the benefit of this approach. Phase III trials evaluating the S9504 regimen have been initiated to validate these results.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Gandara DR, Chansky K, Albain KS, et al. Consolidation docetaxel after concurrent chemoradiotherapy in stage IIIB non-small-cell lung cancer: phase II Southwest Oncology Group Study S9504. J Clin Oncol 2003;21:2004-2010. </div>
+    <div class="Citation-text">Gandara DR, Chansky K, Albain KS, et al. Consolidation docetaxel after concurrent chemoradiotherapy in stage IIIB non-small-cell lung cancer: phase II Southwest Oncology Group Study S9504. J Clin Oncol 2003;21:2004-2010.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/12743155">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

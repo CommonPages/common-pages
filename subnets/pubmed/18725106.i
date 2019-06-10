@@ -8,7 +8,7 @@ article '18725106
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Timmerman RD. An overview of hypofractionation and introduction to this issue of seminars in radiation oncology. Semin Radiat Oncol 2008;18:215-222. </div>
+    <div class="Citation-text">Timmerman RD. An overview of hypofractionation and introduction to this issue of seminars in radiation oncology. Semin Radiat Oncol 2008;18:215-222.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18725106">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

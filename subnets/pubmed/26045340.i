@@ -5,10 +5,15 @@
 /// Thatcher et al., 2015
 article '26045340
 
+  index: hide
+  line !c
+    + c = Our findings show that the addition of necitumumab to gemcitabine and cisplatin chemotherapy improves overall survival in patients with advanced squamous non-small-cell lung cancer and represents a new first-line treatment option for this disease.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Thatcher N, Hirsch FR, Luft AV, et al. Necitumumab plus gemcitabine and cisplatin versus gemcitabine and cisplatin alone as first-line therapy in patients with stage IV squamous non-small-cell lung cancer (SQUIRE): an open-label, randomised, controlled phase 3 trial. Lancet Oncol 2015;16:763-774. </div>
+    <div class="Citation-text">Thatcher N, Hirsch FR, Luft AV, et al. Necitumumab plus gemcitabine and cisplatin versus gemcitabine and cisplatin alone as first-line therapy in patients with stage IV squamous non-small-cell lung cancer (SQUIRE): an open-label, randomised, controlled phase 3 trial. Lancet Oncol 2015;16:763-774.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26045340">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Socinski et al., 2002
 article '11870177
 
+  index: hide
+  line !c
+    + c = This study shows no overall benefit in survival, response rates, or QOL to continuing treatment with carboplatin/paclitaxel beyond four cycles in advanced NSCLC.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Socinski MA, Schell MJ, Peterman A, et al. Phase III trial comparing a defined duration of therapy versus continuous therapy followed by second-line therapy in advanced-stage IIIB/IV non-small-cell lung cancer. J Clin Oncol 2002;20:1335-1343. </div>
+    <div class="Citation-text">Socinski MA, Schell MJ, Peterman A, et al. Phase III trial comparing a defined duration of therapy versus continuous therapy followed by second-line therapy in advanced-stage IIIB/IV non-small-cell lung cancer. J Clin Oncol 2002;20:1335-1343.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/11870177">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

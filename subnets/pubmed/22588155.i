@@ -13,7 +13,7 @@ article '22588155
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Oxnard GR, Miller VA, Robson ME, et al. Screening for germline EGFR T790M mutations through lung cancer genotyping. J Thorac Oncol 2012;7:1049-1052. </div>
+    <div class="Citation-text">Oxnard GR, Miller VA, Robson ME, et al. Screening for germline EGFR T790M mutations through lung cancer genotyping. J Thorac Oncol 2012;7:1049-1052.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22588155">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

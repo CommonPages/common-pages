@@ -13,7 +13,7 @@ article '1609375
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kerr KM, Lamb D, Wathen CG, et al. Pathological assessment of mediastinal lymph nodes in lung cancer: implications for non-invasive mediastinal staging. Thorax 1992;47:337-341. </div>
+    <div class="Citation-text">Kerr KM, Lamb D, Wathen CG, et al. Pathological assessment of mediastinal lymph nodes in lung cancer: implications for non-invasive mediastinal staging. Thorax 1992;47:337-341.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/1609375">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

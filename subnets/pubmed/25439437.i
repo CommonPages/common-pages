@@ -13,7 +13,7 @@ article '25439437
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Langer C, Ravelo A, Hazard SJ, et al. Comparison of survival and hospitalization rates between Medicare patients with advanced NSCLC treated with bevacizumab-carboplatin-paclitaxel and carboplatin-paclitaxel: a retrospective cohort study. Lung Cancer 2014;86:350-357. </div>
+    <div class="Citation-text">Langer C, Ravelo A, Hazard SJ, et al. Comparison of survival and hospitalization rates between Medicare patients with advanced NSCLC treated with bevacizumab-carboplatin-paclitaxel and carboplatin-paclitaxel: a retrospective cohort study. Lung Cancer 2014;86:350-357.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25439437">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

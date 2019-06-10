@@ -8,7 +8,7 @@ article '28113017
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Wang K, Eblan MJ, Deal AM, et al. Cardiac toxicity after radiotherapy for stage III non-small-cell lung cancer: pooled analysis of dose-escalation trials delivering 70 to 90 Gy. J Clin Oncol 2017;35:1387-1394. </div>
+    <div class="Citation-text">Wang K, Eblan MJ, Deal AM, et al. Cardiac toxicity after radiotherapy for stage III non-small-cell lung cancer: pooled analysis of dose-escalation trials delivering 70 to 90 Gy. J Clin Oncol 2017;35:1387-1394.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/28113017">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

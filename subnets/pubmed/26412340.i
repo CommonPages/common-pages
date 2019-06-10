@@ -13,7 +13,7 @@ article '26412340
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Koshy M, Malik R, Mahmood U, et al. Comparative effectiveness of aggressive thoracic radiation therapy and concurrent chemoradiation therapy in metastatic lung cancer. Pract Radiat Oncol 2015;5:374-382. </div>
+    <div class="Citation-text">Koshy M, Malik R, Mahmood U, et al. Comparative effectiveness of aggressive thoracic radiation therapy and concurrent chemoradiation therapy in metastatic lung cancer. Pract Radiat Oncol 2015;5:374-382.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26412340">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

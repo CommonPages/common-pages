@@ -5,10 +5,15 @@
 /// Mauguen et al., 2012
 article '22753901
 
+  index: hide
+  line !c
+    + c = Patients with nonmetastatic NSCLC derived a significant OS benefit from accelerated or hyperfractionated radiotherapy; a similar but nonsignificant trend was observed for SCLC. As expected, there was increased acute esophageal toxicity.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Mauguen A, Le Pechoux C, Saunders MI, et al. Hyperfractionated or accelerated radiotherapy in lung cancer: an individual patient data meta-analysis. J Clin Oncol 2012;30:2788-2797. </div>
+    <div class="Citation-text">Mauguen A, Le Pechoux C, Saunders MI, et al. Hyperfractionated or accelerated radiotherapy in lung cancer: an individual patient data meta-analysis. J Clin Oncol 2012;30:2788-2797.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22753901">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

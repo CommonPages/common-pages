@@ -8,7 +8,7 @@ article '22257651
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ou SH. Second-generation irreversible epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors (TKIs): a better mousetrap? A review of the clinical evidence. Crit Rev Oncol Hematol 2012;83:407-421. </div>
+    <div class="Citation-text">Ou SH. Second-generation irreversible epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors (TKIs): a better mousetrap? A review of the clinical evidence. Crit Rev Oncol Hematol 2012;83:407-421.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22257651">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

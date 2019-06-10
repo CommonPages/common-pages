@@ -13,7 +13,7 @@ article '24661665
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Chang JY, Li QQ, Xu QY, et al. Stereotactic ablative radiation therapy for centrally located early stage or isolated parenchymal recurrences of non-small cell lung cancer: how to fly in a "no fly zone". Int J Radiat Oncol Biol Phys 2014;88:1120-1128. </div>
+    <div class="Citation-text">Chang JY, Li QQ, Xu QY, et al. Stereotactic ablative radiation therapy for centrally located early stage or isolated parenchymal recurrences of non-small cell lung cancer: how to fly in a "no fly zone". Int J Radiat Oncol Biol Phys 2014;88:1120-1128.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24661665">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

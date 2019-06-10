@@ -5,10 +5,15 @@
 /// Gondi et al., 2015
 article '25349290
 
+  index: hide
+  line !c
+    + c = Conformal avoidance of the hippocampus during WBRT is associated with preservation of memory and QOL as compared with historical series.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Gondi V, Pugh SL, Tome WA, et al. Preservation of memory with conformal avoidance of the hippocampal neural stem-cell compartment during whole-brain radiotherapy for brain metastases (RTOG 0933): a phase II multi-institutional trial. J Clin Oncol 2014;32:3810-3816. </div>
+    <div class="Citation-text">Gondi V, Pugh SL, Tome WA, et al. Preservation of memory with conformal avoidance of the hippocampal neural stem-cell compartment during whole-brain radiotherapy for brain metastases (RTOG 0933): a phase II multi-institutional trial. J Clin Oncol 2014;32:3810-3816.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25349290">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '18281673
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Eberhard DA, Giaccone G, Johnson BE, Non-Small-Cell Lung Cancer Working G. Biomarkers of response to epidermal growth factor receptor inhibitors in Non-Small-Cell Lung Cancer Working Group: standardization for use in the clinical trial setting. J Clin Oncol 2008;26:983-994. </div>
+    <div class="Citation-text">Eberhard DA, Giaccone G, Johnson BE, Non-Small-Cell Lung Cancer Working G. Biomarkers of response to epidermal growth factor receptor inhibitors in Non-Small-Cell Lung Cancer Working Group: standardization for use in the clinical trial setting. J Clin Oncol 2008;26:983-994.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18281673">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

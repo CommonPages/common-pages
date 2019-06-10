@@ -8,7 +8,7 @@ article '25733882
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Zou HY, Li Q, Engstrom LD, et al. PF-06463922 is a potent and selective next-generation ROS1/ALK inhibitor capable of blocking crizotinib-resistant ROS1 mutations. Proc Natl Acad Sci U S A 2015;112:3493-3498. </div>
+    <div class="Citation-text">Zou HY, Li Q, Engstrom LD, et al. PF-06463922 is a potent and selective next-generation ROS1/ALK inhibitor capable of blocking crizotinib-resistant ROS1 mutations. Proc Natl Acad Sci U S A 2015;112:3493-3498.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25733882">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '21070081
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Gibbs IC, Loo BW, Jr. CyberKnife stereotactic ablative radiotherapy for lung tumors. Technol Cancer Res Treat 2010;9:589-596. </div>
+    <div class="Citation-text">Gibbs IC, Loo BW, Jr. CyberKnife stereotactic ablative radiotherapy for lung tumors. Technol Cancer Res Treat 2010;9:589-596.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21070081">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '23981966
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Choy H, Schwartzberg LS, Dakhil SR, et al. Phase 2 study of pemetrexed plus carboplatin, or pemetrexed plus cisplatin with concurrent radiation therapy followed by pemetrexed consolidation in patients with favorable-prognosis inoperable stage IIIA/B non-small-cell lung cancer. J Thorac Oncol 2013;8:1308-1316. </div>
+    <div class="Citation-text">Choy H, Schwartzberg LS, Dakhil SR, et al. Phase 2 study of pemetrexed plus carboplatin, or pemetrexed plus cisplatin with concurrent radiation therapy followed by pemetrexed consolidation in patients with favorable-prognosis inoperable stage IIIA/B non-small-cell lung cancer. J Thorac Oncol 2013;8:1308-1316.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23981966">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

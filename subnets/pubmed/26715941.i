@@ -8,7 +8,7 @@ article '26715941
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ades F, Yamaguchi N. WHO, RECIST, and immune-related response criteria: is it time to revisit pembrolizumab results? Ecancermedicalscience 2015;9:604. </div>
+    <div class="Citation-text">Ades F, Yamaguchi N. WHO, RECIST, and immune-related response criteria: is it time to revisit pembrolizumab results? Ecancermedicalscience 2015;9:604.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26715941">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Smit et al., 2016
 article '26775594
 
+  index: hide
+  line !c
+    + c = This post-hoc analysis illustrated real-life differences in patients with NSCLC prescribed platinum-based first-line treatment, and suggested that baseline patient and disease characteristics were associated with physician's choice of platinum agent, with cisplatin being more frequently prescribed to younger and fitter patients.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Smit E, Moro-Sibilot D, Carpeno Jde C, et al. Cisplatin and carboplatin-based chemotherapy in the first-line treatment of non-small cell lung cancer: Analysis from the European FRAME study. Lung Cancer 2016;92:35-40. </div>
+    <div class="Citation-text">Smit E, Moro-Sibilot D, Carpeno Jde C, et al. Cisplatin and carboplatin-based chemotherapy in the first-line treatment of non-small cell lung cancer: Analysis from the European FRAME study. Lung Cancer 2016;92:35-40.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26775594">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

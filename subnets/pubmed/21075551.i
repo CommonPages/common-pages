@@ -13,7 +13,7 @@ article '21075551
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Bradley J, Bae K, Choi N, et al. A phase II comparative study of gross tumor volume definition with or without PET/CT fusion in dosimetric planning for non-small-cell lung cancer (NSCLC): primary analysis of Radiation Therapy Oncology Group (RTOG) 0515. Int J Radiat Oncol Biol Phys 2012;82:435-441 e431. </div>
+    <div class="Citation-text">Bradley J, Bae K, Choi N, et al. A phase II comparative study of gross tumor volume definition with or without PET/CT fusion in dosimetric planning for non-small-cell lung cancer (NSCLC): primary analysis of Radiation Therapy Oncology Group (RTOG) 0515. Int J Radiat Oncol Biol Phys 2012;82:435-441 e431.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21075551">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

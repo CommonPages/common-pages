@@ -13,7 +13,7 @@ article '21963329
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Yasufuku K, Pierre A, Darling G, et al. A prospective controlled trial of endobronchial ultrasound-guided transbronchial needle aspiration compared with mediastinoscopy for mediastinal lymph node staging of lung cancer. J Thorac Cardiovasc Surg 2011;142:1393-1400 e1391. </div>
+    <div class="Citation-text">Yasufuku K, Pierre A, Darling G, et al. A prospective controlled trial of endobronchial ultrasound-guided transbronchial needle aspiration compared with mediastinoscopy for mediastinal lymph node staging of lung cancer. J Thorac Cardiovasc Surg 2011;142:1393-1400 e1391.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21963329">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '23972814
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Reck M, Heigener DF, Mok T, et al. Management of non-small-cell lung cancer: recent developments. Lancet 2013;382:709-719. </div>
+    <div class="Citation-text">Reck M, Heigener DF, Mok T, et al. Management of non-small-cell lung cancer: recent developments. Lancet 2013;382:709-719.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23972814">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

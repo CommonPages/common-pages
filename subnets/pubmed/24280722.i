@@ -13,7 +13,7 @@ article '24280722
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Altorki NK, Yip R, Hanaoka T, et al. Sublobar resection is equivalent to lobectomy for clinical stage 1A lung cancer in solid nodules. J Thorac Cardiovasc Surg 2014;147:754-762; Discussion 762-754. </div>
+    <div class="Citation-text">Altorki NK, Yip R, Hanaoka T, et al. Sublobar resection is equivalent to lobectomy for clinical stage 1A lung cancer in solid nodules. J Thorac Cardiovasc Surg 2014;147:754-762; Discussion 762-754.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24280722">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

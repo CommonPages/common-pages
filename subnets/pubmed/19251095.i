@@ -5,10 +5,15 @@
 /// Xiao et al., 2009
 article '19251095
 
+  index: hide
+  line !c
+    + c = Statistically significant dose differences were found with the heterogeneity corrections. The information provided in the present study is being used to design future heterogeneity-corrected RTOG stereotactic body radiotherapy lung protocols to match the true dose delivered for RTOG 0236.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Xiao Y, Papiez L, Paulus R, et al. Dosimetric evaluation of heterogeneity corrections for RTOG 0236: stereotactic body radiotherapy of inoperable stage I-II non-small-cell lung cancer. Int J Radiat Oncol Biol Phys 2009;73:1235-1242. </div>
+    <div class="Citation-text">Xiao Y, Papiez L, Paulus R, et al. Dosimetric evaluation of heterogeneity corrections for RTOG 0236: stereotactic body radiotherapy of inoperable stage I-II non-small-cell lung cancer. Int J Radiat Oncol Biol Phys 2009;73:1235-1242.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19251095">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

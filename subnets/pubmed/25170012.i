@@ -8,7 +8,7 @@ article '25170012
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kazandjian D, Blumenthal GM, Chen HY, et al. FDA approval summary: crizotinib for the treatment of metastatic non-small cell lung cancer with anaplastic lymphoma kinase rearrangements. Oncologist 2014;19:e5-11. </div>
+    <div class="Citation-text">Kazandjian D, Blumenthal GM, Chen HY, et al. FDA approval summary: crizotinib for the treatment of metastatic non-small cell lung cancer with anaplastic lymphoma kinase rearrangements. Oncologist 2014;19:e5-11.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25170012">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

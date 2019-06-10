@@ -5,10 +5,15 @@
 /// Antonia et al., 2017
 article '27269741
 
+  index: hide
+  line !c
+    + c = Nivolumab monotherapy and nivolumab plus ipilimumab showed antitumour activity with durable responses and manageable safety profiles in previously treated patients with SCLC. These data suggest a potential new treatment approach for a population of patients with limited treatment options and support the evaluation of nivolumab and nivolumab plus ipilimumab in phase 3 randomised controlled trials in SCLC.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Antonia SJ, Lopez-Martin JA, Bendell J, et al. Nivolumab alone and nivolumab plus ipilimumab in recurrent small-cell lung cancer (CheckMate 032): a multicentre, open-label, phase 1/2 trial. Lancet Oncol 2016;17:883-895. </div>
+    <div class="Citation-text">Antonia SJ, Lopez-Martin JA, Bendell J, et al. Nivolumab alone and nivolumab plus ipilimumab in recurrent small-cell lung cancer (CheckMate 032): a multicentre, open-label, phase 1/2 trial. Lancet Oncol 2016;17:883-895.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27269741">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

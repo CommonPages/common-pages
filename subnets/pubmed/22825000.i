@@ -8,7 +8,7 @@ article '22825000
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Thunnissen E, Bubendorf L, Dietel M, et al. EML4-ALK testing in non-small cell carcinomas of the lung: a review with recommendations. Virchows Arch 2012;461:245-257. </div>
+    <div class="Citation-text">Thunnissen E, Bubendorf L, Dietel M, et al. EML4-ALK testing in non-small cell carcinomas of the lung: a review with recommendations. Virchows Arch 2012;461:245-257.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22825000">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

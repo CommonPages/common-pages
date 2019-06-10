@@ -8,7 +8,7 @@ article '28301264
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Dess RT, Sun Y, Matuszak MM, et al. Cardiac events after radiation therapy: combined analysis of prospective multicenter trials for locally advanced non-small-cell lung cancer. J Clin Oncol 2017;35:1395-1402. </div>
+    <div class="Citation-text">Dess RT, Sun Y, Matuszak MM, et al. Cardiac events after radiation therapy: combined analysis of prospective multicenter trials for locally advanced non-small-cell lung cancer. J Clin Oncol 2017;35:1395-1402.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/28301264">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '24116349
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Dane B, Grechushkin V, Plank A, et al. PET/CT vs. non-contrast CT alone for surveillance 1-year post lobectomy for stage I non-small-cell lung cancer. Am J Nucl Med Mol Imaging 2013;3:408-416. </div>
+    <div class="Citation-text">Dane B, Grechushkin V, Plank A, et al. PET/CT vs. non-contrast CT alone for surveillance 1-year post lobectomy for stage I non-small-cell lung cancer. Am J Nucl Med Mol Imaging 2013;3:408-416.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24116349">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

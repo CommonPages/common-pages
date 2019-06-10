@@ -13,7 +13,7 @@ article '22104360
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Lagerwaard FJ, Verstegen NE, Haasbeek CJ, et al. Outcomes of stereotactic ablative radiotherapy in patients with potentially operable stage I non-small cell lung cancer. Int J Radiat Oncol Biol Phys 2012;83:348-353. </div>
+    <div class="Citation-text">Lagerwaard FJ, Verstegen NE, Haasbeek CJ, et al. Outcomes of stereotactic ablative radiotherapy in patients with potentially operable stage I non-small cell lung cancer. Int J Radiat Oncol Biol Phys 2012;83:348-353.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22104360">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

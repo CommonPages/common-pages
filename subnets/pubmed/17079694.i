@@ -5,10 +5,15 @@
 /// Ohe et al., 2007
 article '17079694
 
+  index: hide
+  line !c
+    + c = The four regimens have similar efficacy and different toxicity profiles, and they can be used to treat advanced NSCLC patients.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ohe Y, Ohashi Y, Kubota K, et al. Randomized phase III study of cisplatin plus irinotecan versus carboplatin plus paclitaxel, cisplatin plus gemcitabine, and cisplatin plus vinorelbine for advanced non-small-cell lung cancer: Four-Arm Cooperative Study in Japan. Ann Oncol 2007;18:317-323. </div>
+    <div class="Citation-text">Ohe Y, Ohashi Y, Kubota K, et al. Randomized phase III study of cisplatin plus irinotecan versus carboplatin plus paclitaxel, cisplatin plus gemcitabine, and cisplatin plus vinorelbine for advanced non-small-cell lung cancer: Four-Arm Cooperative Study in Japan. Ann Oncol 2007;18:317-323.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17079694">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

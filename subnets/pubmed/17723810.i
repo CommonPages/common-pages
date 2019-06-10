@@ -5,10 +5,15 @@
 /// Chang et al., 2007
 article '17723810
 
+  index: hide
+  line !c
+    + c = An aggressive surgical approach is safe and justified in patients with synchronous multiple primary lung cancers and node-negative diseases. The status of this particular form of non-small cell lung cancers might be considered in the conventional TNM staging system for more accurate prediction of patient prognosis.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Chang YL, Wu CT, Lee YC. Surgical treatment of synchronous multiple primary lung cancers: experience of 92 patients. J Thorac Cardiovasc Surg 2007;134:630-637. </div>
+    <div class="Citation-text">Chang YL, Wu CT, Lee YC. Surgical treatment of synchronous multiple primary lung cancers: experience of 92 patients. J Thorac Cardiovasc Surg 2007;134:630-637.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17723810">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

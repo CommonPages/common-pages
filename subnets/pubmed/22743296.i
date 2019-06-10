@@ -8,7 +8,7 @@ article '22743296
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Gautschi O, Pauli C, Strobel K, et al. A patient with BRAF V600E lung adenocarcinoma responding to vemurafenib. J Thorac Oncol 2012;7:e23-24. </div>
+    <div class="Citation-text">Gautschi O, Pauli C, Strobel K, et al. A patient with BRAF V600E lung adenocarcinoma responding to vemurafenib. J Thorac Oncol 2012;7:e23-24.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22743296">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

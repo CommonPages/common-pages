@@ -8,7 +8,7 @@ article '2877397
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Effects of postoperative mediastinal radiation on completely resected stage II and stage III epidermoid cancer of the lung. The Lung Cancer Study Group. N Engl J Med 1986;315:1377-1381. </div>
+    <div class="Citation-text">Effects of postoperative mediastinal radiation on completely resected stage II and stage III epidermoid cancer of the lung. The Lung Cancer Study Group. N Engl J Med 1986;315:1377-1381.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/2877397">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

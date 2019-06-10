@@ -13,7 +13,7 @@ article '21587085
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kim H, Yoo SB, Choe JY, et al. Detection of ALK gene rearrangement in non-small cell lung cancer: a comparison of fluorescence in situ hybridization and chromogenic in situ hybridization with correlation of ALK protein expression. J Thorac Oncol 2011;6:1359-1366. </div>
+    <div class="Citation-text">Kim H, Yoo SB, Choe JY, et al. Detection of ALK gene rearrangement in non-small cell lung cancer: a comparison of fluorescence in situ hybridization and chromogenic in situ hybridization with correlation of ALK protein expression. J Thorac Oncol 2011;6:1359-1366.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21587085">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

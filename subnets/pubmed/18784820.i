@@ -8,7 +8,7 @@ article '18784820
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Tan D, Zander DS. Immunohistochemistry for assessment of pulmonary and pleural neoplasms: a review and update. Int J Clin Exp Pathol 2008;1:19-31. </div>
+    <div class="Citation-text">Tan D, Zander DS. Immunohistochemistry for assessment of pulmonary and pleural neoplasms: a review and update. Int J Clin Exp Pathol 2008;1:19-31.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18784820">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '3701389
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Finkelstein DM, Ettinger DS, Ruckdeschel JC. Long-term survivors in metastatic non-small-cell lung cancer: an Eastern Cooperative Oncology Group Study. J Clin Oncol 1986;4:702-709. </div>
+    <div class="Citation-text">Finkelstein DM, Ettinger DS, Ruckdeschel JC. Long-term survivors in metastatic non-small-cell lung cancer: an Eastern Cooperative Oncology Group Study. J Clin Oncol 1986;4:702-709.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/3701389">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '21892108
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Calman L, Beaver K, Hind D, et al. Survival benefits from follow-up of patients with lung cancer: a systematic review and meta-analysis. J Thorac Oncol 2011;6:1993-2004. </div>
+    <div class="Citation-text">Calman L, Beaver K, Hind D, et al. Survival benefits from follow-up of patients with lung cancer: a systematic review and meta-analysis. J Thorac Oncol 2011;6:1993-2004.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21892108">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

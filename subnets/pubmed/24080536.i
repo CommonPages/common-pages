@@ -8,7 +8,7 @@ article '24080536
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Haber SL, Boomershine V, Raney E. Safety of varenicline in patients with cardiovascular disease. J Pharm Pract 2014;27:65-70. </div>
+    <div class="Citation-text">Haber SL, Boomershine V, Raney E. Safety of varenicline in patients with cardiovascular disease. J Pharm Pract 2014;27:65-70.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24080536">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

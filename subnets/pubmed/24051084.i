@@ -13,7 +13,7 @@ article '24051084
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ashworth A, Rodrigues G, Boldt G, Palma D. Is there an oligometastatic state in non-small cell lung cancer? A systematic review of the literature. Lung Cancer 2013;82:197-203. </div>
+    <div class="Citation-text">Ashworth A, Rodrigues G, Boldt G, Palma D. Is there an oligometastatic state in non-small cell lung cancer? A systematic review of the literature. Lung Cancer 2013;82:197-203.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24051084">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Sause et al., 2000
 article '10669675
 
+  index: hide
+  line !c
+    + c = Overall survival was statistically superior for the patients receiving chemotherapy and radiation vs the other two arms of the study. The twice-daily radiation therapy arm, although better, was not statistically superior in survival for those patients receiving standard radiation. Median survival for standard radiation was 11.4 months; for chemotherapy and irradiation, 13.2 months; and for hyperfractionated irradiation, 12 months. The respective 5-year survivals were 5% for standard radiation therapy, 8% for chemotherapy followed by radiation therapy, and 6% for hyperfractionated irradiation.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Sause W, Kolesar P, Taylor SI, et al. Final results of phase III trial in regionally advanced unresectable non-small cell lung cancer: Radiation Therapy Oncology Group, Eastern Cooperative Oncology Group, and Southwest Oncology Group. Chest 2000;117:358-364. </div>
+    <div class="Citation-text">Sause W, Kolesar P, Taylor SI, et al. Final results of phase III trial in regionally advanced unresectable non-small cell lung cancer: Radiation Therapy Oncology Group, Eastern Cooperative Oncology Group, and Southwest Oncology Group. Chest 2000;117:358-364.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/10669675">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

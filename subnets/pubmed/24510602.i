@@ -8,7 +8,7 @@ article '24510602
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ojerholm E, Lee JY, Kolker J, et al. Gamma Knife radiosurgery to four or more brain metastases in patients without prior intracranial radiation or surgery. Cancer Med 2014;3:565-571. </div>
+    <div class="Citation-text">Ojerholm E, Lee JY, Kolker J, et al. Gamma Knife radiosurgery to four or more brain metastases in patients without prior intracranial radiation or surgery. Cancer Med 2014;3:565-571.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24510602">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

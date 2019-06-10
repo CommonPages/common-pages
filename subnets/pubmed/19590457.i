@@ -13,7 +13,7 @@ article '19590457
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ernst A, Eberhardt R, Krasnik M, Herth FJ. Efficacy of endobronchial ultrasound-guided transbronchial needle aspiration of hilar lymph nodes for diagnosing and staging cancer. J Thorac Oncol 2009;4:947-950. </div>
+    <div class="Citation-text">Ernst A, Eberhardt R, Krasnik M, Herth FJ. Efficacy of endobronchial ultrasound-guided transbronchial needle aspiration of hilar lymph nodes for diagnosing and staging cancer. J Thorac Oncol 2009;4:947-950.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19590457">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

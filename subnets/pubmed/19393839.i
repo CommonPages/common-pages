@@ -13,7 +13,7 @@ article '19393839
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Garrison GD, Dugan SE. Varenicline: a first-line treatment option for smoking cessation. Clin Ther 2009;31:463-491. </div>
+    <div class="Citation-text">Garrison GD, Dugan SE. Varenicline: a first-line treatment option for smoking cessation. Clin Ther 2009;31:463-491.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19393839">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

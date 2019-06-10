@@ -8,7 +8,7 @@ article '20541060
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Gewanter RM, Rosenzweig KE, Chang JY, et al. ACR Appropriateness Criteria: nonsurgical treatment for non-small-cell lung cancer: good performance status/definitive intent. Curr Probl Cancer 2010;34:228-249. </div>
+    <div class="Citation-text">Gewanter RM, Rosenzweig KE, Chang JY, et al. ACR Appropriateness Criteria: nonsurgical treatment for non-small-cell lung cancer: good performance status/definitive intent. Curr Probl Cancer 2010;34:228-249.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20541060">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

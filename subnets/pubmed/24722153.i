@@ -13,7 +13,7 @@ article '24722153
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Wynes MW, Sholl LM, Dietel M, et al. An international interpretation study using the ALK IHC antibody D5F3 and a sensitive detection kit demonstrates high concordance between ALK IHC and ALK FISH and between evaluators. J Thorac Oncol 2014;9:631-638. </div>
+    <div class="Citation-text">Wynes MW, Sholl LM, Dietel M, et al. An international interpretation study using the ALK IHC antibody D5F3 and a sensitive detection kit demonstrates high concordance between ALK IHC and ALK FISH and between evaluators. J Thorac Oncol 2014;9:631-638.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24722153">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '18448267
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Hall WH, Guiou M, Lee NY, et al. Development and validation of a standardized method for contouring the brachial plexus: preliminary dosimetric analysis among patients treated with IMRT for head-and-neck cancer. Int J Radiat Oncol Biol Phys 2008;72:1362-1367. </div>
+    <div class="Citation-text">Hall WH, Guiou M, Lee NY, et al. Development and validation of a standardized method for contouring the brachial plexus: preliminary dosimetric analysis among patients treated with IMRT for head-and-neck cancer. Int J Radiat Oncol Biol Phys 2008;72:1362-1367.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18448267">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

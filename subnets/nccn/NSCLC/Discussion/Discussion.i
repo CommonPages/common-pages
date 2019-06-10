@@ -1,4 +1,4 @@
-
+debug:
 / Non-Small Cell Lung Cancer: Discussion
 /// The management of NSCLC varies depending on the stage, histology, presence of genetic alterations, and performance status. Accurate pathologic assessment and staging are essential.
 . Discussion
@@ -4881,7 +4881,7 @@
         \
           > '30280658
           > '30280635
-          
+
       += For the 2019 update (Version 4), the NCCN Panel added another recommendation for single-agent pembrolizumab as first-line therapy in patients with metastatic NSCLC regardless of histology, PD-L1 levels of 1% or more (category 2B), and negative or unknown test results for EGFR mutations and ALK rearrangements.
         \ '30955977
       += Based on clinical trial data, the NCCN Panel retained the category 1 preferred recommendation for single-agent pembrolizumab as first-line therapy in a similar setting but in patients with PD-L1 levels of 50% or more.

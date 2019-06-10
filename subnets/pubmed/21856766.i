@@ -13,7 +13,7 @@ article '21856766
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Chaft JE, Oxnard GR, Sima CS, et al. Disease flare after tyrosine kinase inhibitor discontinuation in patients with EGFR-mutant lung cancer and acquired resistance to erlotinib or gefitinib: implications for clinical trial design. Clin Cancer Res 2011;17:6298-6303. </div>
+    <div class="Citation-text">Chaft JE, Oxnard GR, Sima CS, et al. Disease flare after tyrosine kinase inhibitor discontinuation in patients with EGFR-mutant lung cancer and acquired resistance to erlotinib or gefitinib: implications for clinical trial design. Clin Cancer Res 2011;17:6298-6303.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21856766">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

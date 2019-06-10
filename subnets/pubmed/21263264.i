@@ -8,7 +8,7 @@ article '21263264
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Heinzerling JH, Kavanagh B, Timmerman RD. Stereotactic ablative radiation therapy for primary lung tumors. Cancer J 2011;17:28-32. </div>
+    <div class="Citation-text">Heinzerling JH, Kavanagh B, Timmerman RD. Stereotactic ablative radiation therapy for primary lung tumors. Cancer J 2011;17:28-32.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21263264">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

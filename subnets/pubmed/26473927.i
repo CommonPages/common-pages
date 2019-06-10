@@ -8,7 +8,7 @@ article '26473927
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Luthra R, Chen H, Roy-Chowdhuri S, Singh RR. Next-generation sequencing in clinical molecular diagnostics of cancer: Advantages and challenges. Cancers (Basel) 2015;7:2023-2036. </div>
+    <div class="Citation-text">Luthra R, Chen H, Roy-Chowdhuri S, Singh RR. Next-generation sequencing in clinical molecular diagnostics of cancer: Advantages and challenges. Cancers (Basel) 2015;7:2023-2036.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26473927">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

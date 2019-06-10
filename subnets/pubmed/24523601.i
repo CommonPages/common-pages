@@ -8,7 +8,7 @@ article '24523601
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Rothenstein JM, Letarte N. Managing treatment-related adverse events associated with Alk inhibitors. Curr Oncol 2014;21:19-26. </div>
+    <div class="Citation-text">Rothenstein JM, Letarte N. Managing treatment-related adverse events associated with Alk inhibitors. Curr Oncol 2014;21:19-26.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24523601">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

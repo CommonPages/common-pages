@@ -13,7 +13,7 @@ article '17229574
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Sienel W, Stremmel C, Kirschbaum A, et al. Frequency of local recurrence following segmentectomy of stage IA non-small cell lung cancer is influenced by segment localisation and width of resection margins--implications for patient selection for segmentectomy. Eur J Cardiothorac Surg 2007;31:522-527; discussion 527-528. </div>
+    <div class="Citation-text">Sienel W, Stremmel C, Kirschbaum A, et al. Frequency of local recurrence following segmentectomy of stage IA non-small cell lung cancer is influenced by segment localisation and width of resection margins--implications for patient selection for segmentectomy. Eur J Cardiothorac Surg 2007;31:522-527; discussion 527-528.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17229574">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

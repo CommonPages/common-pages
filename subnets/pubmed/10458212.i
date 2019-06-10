@@ -5,6 +5,11 @@
 /// Cardenal et al., 1999
 article '10458212
 
+  index: hide
+  line !c
+    + c = Compared with etoposide-cisplatin, gemcitabine-cisplatin provides a significantly higher response rate and a delay in disease progression without impairing QOL in patients with advanced NSCLC.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">

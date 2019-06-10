@@ -8,7 +8,7 @@ article '8416552
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Seely JM, Mayo JR, Miller RR, Muller NL. T1 lung cancer: prevalence of mediastinal nodal metastases and diagnostic accuracy of CT. Radiology 1993;186:129-132. </div>
+    <div class="Citation-text">Seely JM, Mayo JR, Miller RR, Muller NL. T1 lung cancer: prevalence of mediastinal nodal metastases and diagnostic accuracy of CT. Radiology 1993;186:129-132.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/8416552">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

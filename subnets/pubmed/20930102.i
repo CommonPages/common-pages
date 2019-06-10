@@ -8,7 +8,7 @@ article '20930102
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Grossi F, Kubota K, Cappuzzo F, et al. Future scenarios for the treatment of advanced non-small cell lung cancer: focus on taxane-containing regimens. Oncologist 2010;15:1102-1112. </div>
+    <div class="Citation-text">Grossi F, Kubota K, Cappuzzo F, et al. Future scenarios for the treatment of advanced non-small cell lung cancer: focus on taxane-containing regimens. Oncologist 2010;15:1102-1112.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20930102">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

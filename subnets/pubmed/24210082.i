@@ -13,7 +13,7 @@ article '24210082
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Allibhai Z, Taremi M, Bezjak A, et al. The impact of tumor size on outcomes after stereotactic body radiation therapy for medically inoperable early-stage non-small cell lung cancer. Int J Radiat Oncol Biol Phys 2013;87:1064-1070. </div>
+    <div class="Citation-text">Allibhai Z, Taremi M, Bezjak A, et al. The impact of tumor size on outcomes after stereotactic body radiation therapy for medically inoperable early-stage non-small cell lung cancer. Int J Radiat Oncol Biol Phys 2013;87:1064-1070.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24210082">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

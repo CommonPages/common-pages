@@ -13,7 +13,7 @@ article '29863955
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Socinski MA, Jotte RM, Cappuzzo F, et al. Atezolizumab for first-line treatment of metastatic nonsquamous NSCLC. N Engl J Med 2018;378:2288-2301. </div>
+    <div class="Citation-text">Socinski MA, Jotte RM, Cappuzzo F, et al. Atezolizumab for first-line treatment of metastatic nonsquamous NSCLC. N Engl J Med 2018;378:2288-2301.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/29863955">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

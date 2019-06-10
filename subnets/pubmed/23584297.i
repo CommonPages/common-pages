@@ -13,7 +13,7 @@ article '23584297
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Takeda M, Okamoto I, Nakagawa K. Clinical impact of continued crizotinib administration after isolated central nervous system progression in patients with lung cancer positive for ALK rearrangement. J Thorac Oncol 2013;8:654-657. </div>
+    <div class="Citation-text">Takeda M, Okamoto I, Nakagawa K. Clinical impact of continued crizotinib administration after isolated central nervous system progression in patients with lung cancer positive for ALK rearrangement. J Thorac Oncol 2013;8:654-657.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23584297">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

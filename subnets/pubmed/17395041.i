@@ -8,7 +8,7 @@ article '17395041
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kong FM, Pan C, Eisbruch A, Ten Haken RK. Physical models and simpler dosimetric descriptors of radiation late toxicity. Semin Radiat Oncol 2007;17:108-120. </div>
+    <div class="Citation-text">Kong FM, Pan C, Eisbruch A, Ten Haken RK. Physical models and simpler dosimetric descriptors of radiation late toxicity. Semin Radiat Oncol 2007;17:108-120.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17395041">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

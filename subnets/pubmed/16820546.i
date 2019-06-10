@@ -5,10 +5,15 @@
 /// Gonzales et al., 2006
 article '16820546
 
+  index: hide
+  line !c
+    + c = Varenicline was significantly more efficacious than placebo for smoking cessation at all time points and significantly more efficacious than bupropion SR at the end of 12 weeks of drug treatment and at 24 weeks.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Gonzales D, Rennard SI, Nides M, et al. Varenicline, an alpha4beta2 nicotinic acetylcholine receptor partial agonist, vs sustained-release bupropion and placebo for smoking cessation: a randomized controlled trial. JAMA 2006;296:47-55. </div>
+    <div class="Citation-text">Gonzales D, Rennard SI, Nides M, et al. Varenicline, an alpha4beta2 nicotinic acetylcholine receptor partial agonist, vs sustained-release bupropion and placebo for smoking cessation: a randomized controlled trial. JAMA 2006;296:47-55.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/16820546">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

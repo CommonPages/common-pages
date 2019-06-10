@@ -5,10 +5,15 @@
 /// Sher et al., 2016
 article '25862147
 
+  index: hide
+  line !c
+    + c = There was no difference in overall survival between these two strategies, although N-CRT was associated with improved pathologic outcomes. These data support either treatment approach, but early surgical consultation is critical to ensure operability. The indications for PORT in patients without adverse pathologic factors require further investigation.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Sher DJ, Fidler MJ, Liptay MJ, Koshy M. Comparative effectiveness of neoadjuvant chemoradiotherapy versus chemotherapy alone followed by surgery for patients with stage IIIA non-small cell lung cancer. Lung Cancer 2015;88:267-274. </div>
+    <div class="Citation-text">Sher DJ, Fidler MJ, Liptay MJ, Koshy M. Comparative effectiveness of neoadjuvant chemoradiotherapy versus chemotherapy alone followed by surgery for patients with stage IIIA non-small cell lung cancer. Lung Cancer 2015;88:267-274.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25862147">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

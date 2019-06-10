@@ -13,7 +13,7 @@ article '26783962
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Clave S, Gimeno J, Munoz-Marmol AM, et al. ROS1 copy number alterations are frequent in non-small cell lung cancer. Oncotarget 2016;7:8019-8028. </div>
+    <div class="Citation-text">Clave S, Gimeno J, Munoz-Marmol AM, et al. ROS1 copy number alterations are frequent in non-small cell lung cancer. Oncotarget 2016;7:8019-8028.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26783962">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

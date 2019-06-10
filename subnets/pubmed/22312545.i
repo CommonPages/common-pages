@@ -8,7 +8,7 @@ article '22312545
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ellis TL, Neal MT, Chan MD. The role of surgery, radiosurgery and whole brain radiation therapy in the management of patients with metastatic brain tumors. Int J Surg Oncol 2012;2012:952345. </div>
+    <div class="Citation-text">Ellis TL, Neal MT, Chan MD. The role of surgery, radiosurgery and whole brain radiation therapy in the management of patients with metastatic brain tumors. Int J Surg Oncol 2012;2012:952345.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22312545">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

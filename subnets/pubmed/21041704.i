@@ -5,10 +5,15 @@
 /// Fidias et al., 2011
 article '21041704
 
+  index: hide
+  line !c
+    + c = There are no data to support continuation chemotherapy in advanced NSCLC. Switch-maintenance trials with erlotinib and pemetrexed have demonstrated an improvement in overall survival. Thus far, continuation-maintenance has shown an improvement in progression-free survival, without an overall survival advantage.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Fidias P, Novello S. Strategies for prolonged therapy in patients with advanced non-small-cell lung cancer. J Clin Oncol 2010;28:5116-5123. </div>
+    <div class="Citation-text">Fidias P, Novello S. Strategies for prolonged therapy in patients with advanced non-small-cell lung cancer. J Clin Oncol 2010;28:5116-5123.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21041704">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Burotto et al., 2016
 article '25795635
 
+  index: hide
+  line !c
+    + c = Gefitinib has similar activity and toxicity compared with erlotinib and offers a valuable alternative to patients with NSCLC. Afatinib has similar efficacy compared with erlotinib and gefitinib in first-line treatment of tumors harboring EGFR mutations but may be associated with more toxicity, although further studies are needed. Gefitinib deserves consideration for U.S. marketing as a primary treatment for EGFR-mutant NSCLC.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Burotto M, Manasanch EE, Wilkerson J, Fojo T. Gefitinib and erlotinib in metastatic non-small cell lung cancer: a meta-analysis of toxicity and efficacy of randomized clinical trials. Oncologist 2015;20:400-410. </div>
+    <div class="Citation-text">Burotto M, Manasanch EE, Wilkerson J, Fojo T. Gefitinib and erlotinib in metastatic non-small cell lung cancer: a meta-analysis of toxicity and efficacy of randomized clinical trials. Oncologist 2015;20:400-410.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25795635">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

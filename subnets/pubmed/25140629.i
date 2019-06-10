@@ -8,7 +8,7 @@ article '25140629
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Chang JY, Kestin LL, Barriger RB, et al. ACR Appropriateness Criteria(R) nonsurgical treatment for locally advanced non-small-cell lung cancer: good performance status/definitive intent. Oncology (Williston Park) 2014;28:706-710, 712, 714 passim. </div>
+    <div class="Citation-text">Chang JY, Kestin LL, Barriger RB, et al. ACR Appropriateness Criteria(R) nonsurgical treatment for locally advanced non-small-cell lung cancer: good performance status/definitive intent. Oncology (Williston Park) 2014;28:706-710, 712, 714 passim.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25140629">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

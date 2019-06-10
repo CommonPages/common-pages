@@ -8,7 +8,7 @@ article '11551424
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> van Putten JW, Baas P, Codrington H, et al. Activity of single-agent gemcitabine as second-line treatment after previous chemotherapy or radiotherapy in advanced non-small-cell lung cancer. Lung Cancer 2001;33:289-298. </div>
+    <div class="Citation-text">van Putten JW, Baas P, Codrington H, et al. Activity of single-agent gemcitabine as second-line treatment after previous chemotherapy or radiotherapy in advanced non-small-cell lung cancer. Lung Cancer 2001;33:289-298.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/11551424">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

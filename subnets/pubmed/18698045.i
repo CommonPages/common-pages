@@ -13,7 +13,7 @@ article '18698045
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Salama JK, Chmura SJ, Mehta N, et al. An initial report of a radiation dose-escalation trial in patients with one to five sites of metastatic disease. Clin Cancer Res 2008;14:5255-5259. </div>
+    <div class="Citation-text">Salama JK, Chmura SJ, Mehta N, et al. An initial report of a radiation dose-escalation trial in patients with one to five sites of metastatic disease. Clin Cancer Res 2008;14:5255-5259.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18698045">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

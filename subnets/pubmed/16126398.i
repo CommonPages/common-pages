@@ -13,7 +13,7 @@ article '16126398
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Nakagawa T, Okumura N, Miyoshi K, et al. Prognostic factors in patients with ipsilateral pulmonary metastasis from non-small cell lung cancer. Eur J Cardiothorac Surg 2005;28:635-639. </div>
+    <div class="Citation-text">Nakagawa T, Okumura N, Miyoshi K, et al. Prognostic factors in patients with ipsilateral pulmonary metastasis from non-small cell lung cancer. Eur J Cardiothorac Surg 2005;28:635-639.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/16126398">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

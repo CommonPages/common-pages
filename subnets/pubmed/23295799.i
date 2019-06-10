@@ -5,10 +5,15 @@
 /// Chen et al., 2013
 article '23295799
 
+  index: hide
+  line !c
+    + c = When palliative RT is used in patients with metastatic NSCLC, a substantial proportion of patients receive a greater number of treatments and higher doses than supported by current evidence, suggesting an opportunity to improve care delivery.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Chen AB, Cronin A, Weeks JC, et al. Palliative radiation therapy practice in patients with metastatic non-small-cell lung cancer: a Cancer Care Outcomes Research and Surveillance Consortium (CanCORS) Study. J Clin Oncol 2013;31:558-564. </div>
+    <div class="Citation-text">Chen AB, Cronin A, Weeks JC, et al. Palliative radiation therapy practice in patients with metastatic non-small-cell lung cancer: a Cancer Care Outcomes Research and Surveillance Consortium (CanCORS) Study. J Clin Oncol 2013;31:558-564.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23295799">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

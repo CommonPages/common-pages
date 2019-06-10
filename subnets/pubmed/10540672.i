@@ -5,10 +5,15 @@
 /// Ginsberg et al., 1999
 article '10540672
 
+  index: hide
+  line !c
+    + c = A single pulmonary nodule resected at VATS was more likely to be malignant in patients with known cancer. Nodules larger than 1 cm but smaller than 3 cm resected at VATS were more likely to be malignant. Nodules smaller than 0.5 cm were more likely to be benign.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ginsberg MS, Griff SK, Go BD, et al. Pulmonary nodules resected at video-assisted thoracoscopic surgery: etiology in 426 patients. Radiology 1999;213:277-282. </div>
+    <div class="Citation-text">Ginsberg MS, Griff SK, Go BD, et al. Pulmonary nodules resected at video-assisted thoracoscopic surgery: etiology in 426 patients. Radiology 1999;213:277-282.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/10540672">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

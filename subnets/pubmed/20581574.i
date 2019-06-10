@@ -8,7 +8,7 @@ article '20581574
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Asamura H. Multiple primary cancers or multiple metastases, that is the question. J Thorac Oncol 2010;5:930-931. </div>
+    <div class="Citation-text">Asamura H. Multiple primary cancers or multiple metastases, that is the question. J Thorac Oncol 2010;5:930-931.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20581574">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

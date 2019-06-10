@@ -13,7 +13,7 @@ article '24316231
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Blagev DP, Lloyd JF, Conner K, et al. Follow-up of incidental pulmonary nodules and the radiology report. J Am Coll Radiol 2014;11:378-383. </div>
+    <div class="Citation-text">Blagev DP, Lloyd JF, Conner K, et al. Follow-up of incidental pulmonary nodules and the radiology report. J Am Coll Radiol 2014;11:378-383.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24316231">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

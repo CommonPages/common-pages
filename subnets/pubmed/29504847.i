@@ -8,7 +8,7 @@ article '29504847
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Merker JD, Oxnard GR, Compton C, et al. Circulating tumor DNA analysis in patients with cancer: American Society of Clinical Oncology and College of American Pathologists Joint Review. J Clin Oncol 2018;36:1631-1641. </div>
+    <div class="Citation-text">Merker JD, Oxnard GR, Compton C, et al. Circulating tumor DNA analysis in patients with cancer: American Society of Clinical Oncology and College of American Pathologists Joint Review. J Clin Oncol 2018;36:1631-1641.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/29504847">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

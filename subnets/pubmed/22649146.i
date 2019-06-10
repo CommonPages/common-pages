@@ -8,7 +8,7 @@ article '22649146
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kelly RJ, Carter CA, Giaccone G. HER2 mutations in non-small-cell lung cancer can be continually targeted. J Clin Oncol 2012;30:3318-3319. </div>
+    <div class="Citation-text">Kelly RJ, Carter CA, Giaccone G. HER2 mutations in non-small-cell lung cancer can be continually targeted. J Clin Oncol 2012;30:3318-3319.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22649146">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

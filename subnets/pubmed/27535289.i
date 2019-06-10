@@ -8,7 +8,7 @@ article '27535289
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Bubendorf L, Buttner R, Al-Dayel F, et al. Testing for ROS1 in non-small cell lung cancer: a review with recommendations. Virchows Arch 2016;469:489-503. </div>
+    <div class="Citation-text">Bubendorf L, Buttner R, Al-Dayel F, et al. Testing for ROS1 in non-small cell lung cancer: a review with recommendations. Virchows Arch 2016;469:489-503.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27535289">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

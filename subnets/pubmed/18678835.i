@@ -5,10 +5,15 @@
 /// , 2008
 article '18678835
 
+  index: hide
+  line !c
+    + c = This MA of chemotherapy in the supportive care setting demonstrates conclusively that chemotherapy improves overall survival in all patients with advanced NSCLC. Therefore, all patients who are fit enough and wish to receive chemotherapy should do so.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Group NM-AC. Chemotherapy in addition to supportive care improves survival in advanced non-small-cell lung cancer: a systematic review and meta-analysis of individual patient data from 16 randomized controlled trials. J Clin Oncol 2008;26:4617-4625. </div>
+    <div class="Citation-text">Group NM-AC. Chemotherapy in addition to supportive care improves survival in advanced non-small-cell lung cancer: a systematic review and meta-analysis of individual patient data from 16 randomized controlled trials. J Clin Oncol 2008;26:4617-4625.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18678835">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

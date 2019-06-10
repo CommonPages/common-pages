@@ -13,7 +13,7 @@ article '19653732
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Husain AN, Colby TV, Ordonez NG, et al. Guidelines for pathologic diagnosis of malignant mesothelioma: a consensus statement from the International Mesothelioma Interest Group. Arch Pathol Lab Med 2009;133:1317-1331. </div>
+    <div class="Citation-text">Husain AN, Colby TV, Ordonez NG, et al. Guidelines for pathologic diagnosis of malignant mesothelioma: a consensus statement from the International Mesothelioma Interest Group. Arch Pathol Lab Med 2009;133:1317-1331.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19653732">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '22859511
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Srikantharajah D, Ghuman A, Nagendran M, Maruthappu M. Is computed tomography follow-up of patients after lobectomy for non-small cell lung cancer of benefit in terms of survival? Interact Cardiovasc Thorac Surg 2012;15:893-898. </div>
+    <div class="Citation-text">Srikantharajah D, Ghuman A, Nagendran M, Maruthappu M. Is computed tomography follow-up of patients after lobectomy for non-small cell lung cancer of benefit in terms of survival? Interact Cardiovasc Thorac Surg 2012;15:893-898.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22859511">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

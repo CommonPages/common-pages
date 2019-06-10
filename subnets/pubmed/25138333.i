@@ -5,10 +5,15 @@
 /// Rigotti et al., 2014
 article '25138333
 
+  index: hide
+  line !c
+    + c = Among hospitalized adult smokers who wanted to quit smoking, a postdischarge intervention providing automated telephone calls and free medication resulted in higher rates of smoking cessation at 6 months compared with a standard recommendation to use counseling and medication after discharge. These findings, if replicated, suggest an approach to help achieve sustained smoking cessation after a hospital stay.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Rigotti NA, Regan S, Levy DE, et al. Sustained care intervention and postdischarge smoking cessation among hospitalized adults: a randomized clinical trial. JAMA 2014;312:719-728. </div>
+    <div class="Citation-text">Rigotti NA, Regan S, Levy DE, et al. Sustained care intervention and postdischarge smoking cessation among hospitalized adults: a randomized clinical trial. JAMA 2014;312:719-728.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25138333">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '28881815
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Dugay F, Llamas-Gutierrez F, Gournay M, et al. Clinicopathological characteristics of ROS1- and RET-rearranged NSCLC in caucasian patients: Data from a cohort of 713 non-squamous NSCLC lacking KRAS/EGFR/HER2/BRAF/PIK3CA/ALK alterations. Oncotarget 2017;8:53336-53351. </div>
+    <div class="Citation-text">Dugay F, Llamas-Gutierrez F, Gournay M, et al. Clinicopathological characteristics of ROS1- and RET-rearranged NSCLC in caucasian patients: Data from a cohort of 713 non-squamous NSCLC lacking KRAS/EGFR/HER2/BRAF/PIK3CA/ALK alterations. Oncotarget 2017;8:53336-53351.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/28881815">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

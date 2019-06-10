@@ -5,10 +5,15 @@
 /// Zatloukal et al., 2005
 article '15364136
 
+  index: hide
+  line !c
+    + c = In this study population, concurrent CRT demonstrated significant benefit in terms of response rate, overall survival and time to progression over sequential CRT. The concurrent CRT schedule was associated with higher toxicity; however, the adverse event profile was acceptable in both arms.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Zatloukal P, Petruzelka L, Zemanova M, et al. Concurrent versus sequential chemoradiotherapy with cisplatin and vinorelbine in locally advanced non-small cell lung cancer: a randomized study. Lung Cancer 2004;46:87-98. </div>
+    <div class="Citation-text">Zatloukal P, Petruzelka L, Zemanova M, et al. Concurrent versus sequential chemoradiotherapy with cisplatin and vinorelbine in locally advanced non-small cell lung cancer: a randomized study. Lung Cancer 2004;46:87-98.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/15364136">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '19632948
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Nguyen KS, Kobayashi S, Costa DB. Acquired resistance to epidermal growth factor receptor tyrosine kinase inhibitors in non-small-cell lung cancers dependent on the epidermal growth factor receptor pathway. Clin Lung Cancer 2009;10:281-289. </div>
+    <div class="Citation-text">Nguyen KS, Kobayashi S, Costa DB. Acquired resistance to epidermal growth factor receptor tyrosine kinase inhibitors in non-small-cell lung cancers dependent on the epidermal growth factor receptor pathway. Clin Lung Cancer 2009;10:281-289.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19632948">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Lee et al., 2011
 article '20881644
 
+  index: hide
+  line !c
+    + c = Our study demonstrates that mutations in each part of the EGFR pathway were associated with different clinicopathologic features in patients with NSCLCs.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Lee SY, Kim MJ, Jin G, et al. Somatic mutations in epidermal growth factor receptor signaling pathway genes in non-small cell lung cancers. J Thorac Oncol 2010;5:1734-1740. </div>
+    <div class="Citation-text">Lee SY, Kim MJ, Jin G, et al. Somatic mutations in epidermal growth factor receptor signaling pathway genes in non-small cell lung cancers. J Thorac Oncol 2010;5:1734-1740.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20881644">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

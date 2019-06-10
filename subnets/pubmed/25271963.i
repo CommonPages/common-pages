@@ -8,7 +8,7 @@ article '25271963
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Finlay MR, Anderton M, Ashton S, et al. Discovery of a potent and selective EGFR inhibitor (AZD9291) of both sensitizing and T790M resistance mutations that spares the wild type form of the receptor. J Med Chem 2014;57:8249-8267. </div>
+    <div class="Citation-text">Finlay MR, Anderton M, Ashton S, et al. Discovery of a potent and selective EGFR inhibitor (AZD9291) of both sensitizing and T790M resistance mutations that spares the wild type form of the receptor. J Med Chem 2014;57:8249-8267.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25271963">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

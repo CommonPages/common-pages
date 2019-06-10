@@ -13,7 +13,7 @@ article '16168827
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kong FM, Ten Haken RK, Schipper MJ, et al. High-dose radiation improved local tumor control and overall survival in patients with inoperable/unresectable non-small-cell lung cancer: long-term results of a radiation dose escalation study. Int J Radiat Oncol Biol Phys 2005;63:324-333. </div>
+    <div class="Citation-text">Kong FM, Ten Haken RK, Schipper MJ, et al. High-dose radiation improved local tumor control and overall survival in patients with inoperable/unresectable non-small-cell lung cancer: long-term results of a radiation dose escalation study. Int J Radiat Oncol Biol Phys 2005;63:324-333.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/16168827">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

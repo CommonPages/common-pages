@@ -8,7 +8,7 @@ article '22006098
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Abe E, Aoyama H. The role of whole brain radiation therapy for the management of brain metastases in the era of stereotactic radiosurgery. Curr Oncol Rep 2012;14:79-84. </div>
+    <div class="Citation-text">Abe E, Aoyama H. The role of whole brain radiation therapy for the management of brain metastases in the era of stereotactic radiosurgery. Curr Oncol Rep 2012;14:79-84.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22006098">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

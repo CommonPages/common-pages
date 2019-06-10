@@ -13,7 +13,7 @@ article '20400121
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Crabtree TD, Denlinger CE, Meyers BF, et al. Stereotactic body radiation therapy versus surgical resection for stage I non-small cell lung cancer. J Thorac Cardiovasc Surg 2010;140:377-386. </div>
+    <div class="Citation-text">Crabtree TD, Denlinger CE, Meyers BF, et al. Stereotactic body radiation therapy versus surgical resection for stage I non-small cell lung cancer. J Thorac Cardiovasc Surg 2010;140:377-386.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20400121">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Miller et al., 2008
 article '18349398
 
+  index: hide
+  line !c
+    + c = Erlotinib is active in BAC and adenocarcinoma, mixed subtype, BAC. Testing for EGFR and KRAS mutations can predict RR and PFS after treatment with erlotinib in this histologically enriched subset of patients with non-small-cell lung cancer (NSCLC). These data suggest that histologic subtype and molecular characteristics should be reported in clinical trials in NSCLC using EGFR-directed therapy.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Miller VA, Riely GJ, Zakowski MF, et al. Molecular characteristics of bronchioloalveolar carcinoma and adenocarcinoma, bronchioloalveolar carcinoma subtype, predict response to erlotinib. J Clin Oncol 2008;26:1472-1478. </div>
+    <div class="Citation-text">Miller VA, Riely GJ, Zakowski MF, et al. Molecular characteristics of bronchioloalveolar carcinoma and adenocarcinoma, bronchioloalveolar carcinoma subtype, predict response to erlotinib. J Clin Oncol 2008;26:1472-1478.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18349398">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

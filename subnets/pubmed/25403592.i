@@ -13,7 +13,7 @@ article '25403592
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Handforth C, Clegg A, Young C, et al. The prevalence and outcomes of frailty in older cancer patients: a systematic review. Ann Oncol 2015;26:1091-1101. </div>
+    <div class="Citation-text">Handforth C, Clegg A, Young C, et al. The prevalence and outcomes of frailty in older cancer patients: a systematic review. Ann Oncol 2015;26:1091-1101.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25403592">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Costa et al., 2015
 article '25624436
 
+  index: hide
+  line !c
+    + c = Crizotinib was associated with systemic and intracranial disease control in patients with ALK-rearranged NSCLC who were ALK inhibitor naive and had brain metastases. However, progression of preexisting or development of new intracranial lesions while receiving therapy was a common manifestation of acquired resistance to crizotinib.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Costa DB, Shaw AT, Ou SH, et al. Clinical experience with crizotinib in patients with advanced ALK-rearranged non-small-cell lung cancer and brain metastases. J Clin Oncol 2015;33:1881-1888. </div>
+    <div class="Citation-text">Costa DB, Shaw AT, Ou SH, et al. Clinical experience with crizotinib in patients with advanced ALK-rearranged non-small-cell lung cancer and brain metastases. J Clin Oncol 2015;33:1881-1888.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25624436">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

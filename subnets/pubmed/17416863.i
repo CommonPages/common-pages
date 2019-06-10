@@ -5,10 +5,15 @@
 /// Chow et al., 2007
 article '17416863
 
+  index: hide
+  line !c
+    + c = No significant differences in the arms were observed for overall and CR rates in both intention-to-treat and assessable patients. However, a significantly higher re-treatment rate with SFs was evident.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Chow E, Harris K, Fan G, et al. Palliative radiotherapy trials for bone metastases: a systematic review. J Clin Oncol 2007;25:1423-1436. </div>
+    <div class="Citation-text">Chow E, Harris K, Fan G, et al. Palliative radiotherapy trials for bone metastases: a systematic review. J Clin Oncol 2007;25:1423-1436.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17416863">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

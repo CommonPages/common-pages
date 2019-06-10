@@ -8,7 +8,7 @@ article '23401441
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Gerber DE, Schiller JH. Maintenance chemotherapy for advanced non-small-cell lung cancer: new life for an old idea. J Clin Oncol 2013;31:1009-1020. </div>
+    <div class="Citation-text">Gerber DE, Schiller JH. Maintenance chemotherapy for advanced non-small-cell lung cancer: new life for an old idea. J Clin Oncol 2013;31:1009-1020.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23401441">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

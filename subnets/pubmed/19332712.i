@@ -8,7 +8,7 @@ article '19332712
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Katz A, Saad ED. CALGB 9633: an underpowered trial with a methodologically questionable conclusion. J Clin Oncol 2009;27:2300-2301; author reply 2301-2302. </div>
+    <div class="Citation-text">Katz A, Saad ED. CALGB 9633: an underpowered trial with a methodologically questionable conclusion. J Clin Oncol 2009;27:2300-2301; author reply 2301-2302.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19332712">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

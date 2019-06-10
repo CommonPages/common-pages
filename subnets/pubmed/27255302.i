@@ -13,7 +13,7 @@ article '27255302
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Fleckenstein J, Petroff A, Schafers HJ, et al. Long-term outcomes in radically treated synchronous vs. metachronous oligometastatic non-small-cell lung cancer. BMC Cancer 2016;16:348. </div>
+    <div class="Citation-text">Fleckenstein J, Petroff A, Schafers HJ, et al. Long-term outcomes in radically treated synchronous vs. metachronous oligometastatic non-small-cell lung cancer. BMC Cancer 2016;16:348.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27255302">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

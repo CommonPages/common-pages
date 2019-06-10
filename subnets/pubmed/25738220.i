@@ -5,10 +5,15 @@
 /// Sholl et al., 2016
 article '25738220
 
+  index: hide
+  line !c
+    + c = Multi-institutional molecular analysis across multiple platforms, sample types, and institutions can yield consistent results and novel clinicopathological observations.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Sholl LM, Aisner DL, Varella-Garcia M, et al. Multi-institutional Oncogenic Driver Mutation Analysis in Lung Adenocarcinoma: The Lung Cancer Mutation Consortium Experience. J Thorac Oncol 2015;10:768-777. </div>
+    <div class="Citation-text">Sholl LM, Aisner DL, Varella-Garcia M, et al. Multi-institutional Oncogenic Driver Mutation Analysis in Lung Adenocarcinoma: The Lung Cancer Mutation Consortium Experience. J Thorac Oncol 2015;10:768-777.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25738220">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

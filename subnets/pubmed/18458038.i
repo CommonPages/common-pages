@@ -5,10 +5,15 @@
 /// Sequist et al., 2008
 article '18458038
 
+  index: hide
+  line !c
+    + c = First-line therapy with gefitinib administered in a genotype-directed fashion to patients with advanced NSCLC harboring EGFR mutations results in very favorable clinical outcomes with good tolerance. This strategy should be compared with combination chemotherapy, the current standard of care.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Sequist LV, Martins RG, Spigel D, et al. First-line gefitinib in patients with advanced non-small-cell lung cancer harboring somatic EGFR mutations. J Clin Oncol 2008;26:2442-2449. </div>
+    <div class="Citation-text">Sequist LV, Martins RG, Spigel D, et al. First-line gefitinib in patients with advanced non-small-cell lung cancer harboring somatic EGFR mutations. J Clin Oncol 2008;26:2442-2449.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18458038">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '26288737
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Khoja L, Butler MO, Kang SP, et al. Pembrolizumab. J Immunother Cancer 2015;3:36. </div>
+    <div class="Citation-text">Khoja L, Butler MO, Kang SP, et al. Pembrolizumab. J Immunother Cancer 2015;3:36.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26288737">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

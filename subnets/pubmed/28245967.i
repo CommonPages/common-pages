@@ -8,7 +8,7 @@ article '28245967
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> How J, Mann J, Laczniak AN, Baggstrom MQ. Pulsatile erlotinib in EGFR-positive non-small-cell lung cancer patients with leptomeningeal and brain metastases: review of the literature. Clin Lung Cancer 2017;18:354-363. </div>
+    <div class="Citation-text">How J, Mann J, Laczniak AN, Baggstrom MQ. Pulsatile erlotinib in EGFR-positive non-small-cell lung cancer patients with leptomeningeal and brain metastases: review of the literature. Clin Lung Cancer 2017;18:354-363.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/28245967">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

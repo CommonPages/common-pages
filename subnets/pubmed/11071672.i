@@ -13,7 +13,7 @@ article '11071672
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Keller SM, Adak S, Wagner H, et al. A randomized trial of postoperative adjuvant therapy in patients with completely resected stage II or IIIA non-small-cell lung cancer. Eastern Cooperative Oncology Group. N Engl J Med 2000;343:1217-1222. </div>
+    <div class="Citation-text">Keller SM, Adak S, Wagner H, et al. A randomized trial of postoperative adjuvant therapy in patients with completely resected stage II or IIIA non-small-cell lung cancer. Eastern Cooperative Oncology Group. N Engl J Med 2000;343:1217-1222.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/11071672">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '2169587
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Dillman RO, Seagren SL, Propert KJ, et al. A randomized trial of induction chemotherapy plus high-dose radiation versus radiation alone in stage III non-small-cell lung cancer. N Engl J Med 1990;323:940-945. </div>
+    <div class="Citation-text">Dillman RO, Seagren SL, Propert KJ, et al. A randomized trial of induction chemotherapy plus high-dose radiation versus radiation alone in stage III non-small-cell lung cancer. N Engl J Med 1990;323:940-945.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/2169587">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

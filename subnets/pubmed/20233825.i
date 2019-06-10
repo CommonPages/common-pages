@@ -5,10 +5,15 @@
 /// Timmerman et al., 2010
 article '20233825
 
+  index: hide
+  line !c
+    + c = Patients with inoperable non-small cell lung cancer who received stereotactic body radiation therapy had a survival rate of 55.8% at 3 years, high rates of local tumor control, and moderate treatment-related morbidity.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Timmerman R, Paulus R, Galvin J, et al. Stereotactic body radiation therapy for inoperable early stage lung cancer. JAMA 2010;303:1070-1076. </div>
+    <div class="Citation-text">Timmerman R, Paulus R, Galvin J, et al. Stereotactic body radiation therapy for inoperable early stage lung cancer. JAMA 2010;303:1070-1076.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20233825">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

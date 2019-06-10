@@ -5,10 +5,15 @@
 /// Zhao et al., 2007
 article '17363189
 
+  index: hide
+  line !c
+    + c = High-dose radiation is more important for patients with larger tumors and may be effective in reducing the adverse outcome associated with large GTV. Further prospective studies are needed to confirm this finding.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Zhao L, West BT, Hayman JA, et al. High radiation dose may reduce the negative effect of large gross tumor volume in patients with medically inoperable early-stage non-small cell lung cancer. Int J Radiat Oncol Biol Phys 2007;68:103-110. </div>
+    <div class="Citation-text">Zhao L, West BT, Hayman JA, et al. High radiation dose may reduce the negative effect of large gross tumor volume in patients with medically inoperable early-stage non-small cell lung cancer. Int J Radiat Oncol Biol Phys 2007;68:103-110.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17363189">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

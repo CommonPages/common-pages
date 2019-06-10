@@ -5,10 +5,15 @@
 /// Rosell et al., 2012
 article '22285168
 
+  index: hide
+  line !c
+    + c = Our findings strengthen the rationale for routine baseline tissue-based assessment of EGFR mutations in patients with NSCLC and for treatment of mutation-positive patients with EGFR tyrosine-kinase inhibitors.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Rosell R, Carcereny E, Gervais R, et al. Erlotinib versus standard chemotherapy as first-line treatment for European patients with advanced EGFR mutation-positive non-small-cell lung cancer (EURTAC): a multicentre, open-label, randomised phase 3 trial. Lancet Oncol 2012;13:239-246. </div>
+    <div class="Citation-text">Rosell R, Carcereny E, Gervais R, et al. Erlotinib versus standard chemotherapy as first-line treatment for European patients with advanced EGFR mutation-positive non-small-cell lung cancer (EURTAC): a multicentre, open-label, randomised phase 3 trial. Lancet Oncol 2012;13:239-246.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22285168">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

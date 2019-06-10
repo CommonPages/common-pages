@@ -13,7 +13,7 @@ article '8553299
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Arita T, Kuramitsu T, Kawamura M, et al. Bronchogenic carcinoma: incidence of metastases to normal sized lymph nodes. Thorax 1995;50:1267-1269. </div>
+    <div class="Citation-text">Arita T, Kuramitsu T, Kawamura M, et al. Bronchogenic carcinoma: incidence of metastases to normal sized lymph nodes. Thorax 1995;50:1267-1269.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/8553299">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

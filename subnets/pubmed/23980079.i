@@ -8,7 +8,7 @@ article '23980079
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Langer CJ. Epidermal growth factor receptor inhibition in mutation-positive non-small-cell lung cancer: is afatinib better or simply newer? J Clin Oncol 2013;31:3303-3306. </div>
+    <div class="Citation-text">Langer CJ. Epidermal growth factor receptor inhibition in mutation-positive non-small-cell lung cancer: is afatinib better or simply newer? J Clin Oncol 2013;31:3303-3306.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23980079">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

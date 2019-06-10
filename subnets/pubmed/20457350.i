@@ -13,7 +13,7 @@ article '20457350
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Bradley JD, Moughan J, Graham MV, et al. A phase I/II radiation dose escalation study with concurrent chemotherapy for patients with inoperable stages I to III non-small-cell lung cancer: phase I results of RTOG 0117. Int J Radiat Oncol Biol Phys 2010;77:367-372. </div>
+    <div class="Citation-text">Bradley JD, Moughan J, Graham MV, et al. A phase I/II radiation dose escalation study with concurrent chemotherapy for patients with inoperable stages I to III non-small-cell lung cancer: phase I results of RTOG 0117. Int J Radiat Oncol Biol Phys 2010;77:367-372.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20457350">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

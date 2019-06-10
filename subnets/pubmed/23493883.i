@@ -8,7 +8,7 @@ article '23493883
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Nelson V, Ziehr J, Agulnik M, Johnson M. Afatinib: emerging next-generation tyrosine kinase inhibitor for NSCLC. Onco Targets Ther 2013;6:135-143. </div>
+    <div class="Citation-text">Nelson V, Ziehr J, Agulnik M, Johnson M. Afatinib: emerging next-generation tyrosine kinase inhibitor for NSCLC. Onco Targets Ther 2013;6:135-143.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23493883">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

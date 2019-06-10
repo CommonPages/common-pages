@@ -8,7 +8,7 @@ article '24868098
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Khozin S, Blumenthal GM, Jiang X, et al. U.S. Food and Drug Administration approval summary: Erlotinib for the first-line treatment of metastatic non-small cell lung cancer with epidermal growth factor receptor exon 19 deletions or exon 21 (L858R) substitution mutations. Oncologist 2014;19:774-779. </div>
+    <div class="Citation-text">Khozin S, Blumenthal GM, Jiang X, et al. U.S. Food and Drug Administration approval summary: Erlotinib for the first-line treatment of metastatic non-small cell lung cancer with epidermal growth factor receptor exon 19 deletions or exon 21 (L858R) substitution mutations. Oncologist 2014;19:774-779.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24868098">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

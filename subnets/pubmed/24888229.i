@@ -8,7 +8,7 @@ article '24888229
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Robinson SD, O'Shaughnessy JA, Cowey CL, Konduri K. BRAF V600E-mutated lung adenocarcinoma with metastases to the brain responding to treatment with vemurafenib. Lung Cancer 2014;85:326-330. </div>
+    <div class="Citation-text">Robinson SD, O'Shaughnessy JA, Cowey CL, Konduri K. BRAF V600E-mutated lung adenocarcinoma with metastases to the brain responding to treatment with vemurafenib. Lung Cancer 2014;85:326-330.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24888229">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

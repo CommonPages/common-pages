@@ -5,10 +5,15 @@
 /// Zukin et al., 2013
 article '23775961
 
+  index: hide
+  line !c
+    + c = Combination chemotherapy with CP significantly improves survival in patients with advanced NSCLC and ECOG PS of 2.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Zukin M, Barrios CH, Pereira JR, et al. Randomized phase III trial of single-agent pemetrexed versus carboplatin and pemetrexed in patients with advanced non-small-cell lung cancer and Eastern Cooperative Oncology Group performance status of 2. J Clin Oncol 2013;31:2849-2853. </div>
+    <div class="Citation-text">Zukin M, Barrios CH, Pereira JR, et al. Randomized phase III trial of single-agent pemetrexed versus carboplatin and pemetrexed in patients with advanced non-small-cell lung cancer and Eastern Cooperative Oncology Group performance status of 2. J Clin Oncol 2013;31:2849-2853.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23775961">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

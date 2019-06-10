@@ -5,10 +5,15 @@
 /// Heist et al., 2016
 article '27022036
 
+  index: hide
+  line !c
+    + c = MET exon 14 skipping is a targetable gene alteration found in NSCLC. Patients with these alterations may respond well to MET inhibition.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Heist RS, Shim HS, Gingipally S, et al. MET exon 14 skipping in non-small cell lung cancer. Oncologist 2016;21:481-486. </div>
+    <div class="Citation-text">Heist RS, Shim HS, Gingipally S, et al. MET exon 14 skipping in non-small cell lung cancer. Oncologist 2016;21:481-486.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27022036">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

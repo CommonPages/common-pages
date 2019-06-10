@@ -8,7 +8,7 @@ article '11114734
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Robinson DR, Wu YM, Lin SF. The protein tyrosine kinase family of the human genome. Oncogene 2000;19:5548-5557. </div>
+    <div class="Citation-text">Robinson DR, Wu YM, Lin SF. The protein tyrosine kinase family of the human genome. Oncogene 2000;19:5548-5557.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/11114734">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

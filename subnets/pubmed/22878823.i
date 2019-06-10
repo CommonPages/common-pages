@@ -8,7 +8,7 @@ article '22878823
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Demmy TL, Gu L, Burkhalter JE, et al. Optimal management of malignant pleural effusions (results of CALGB 30102). J Natl Compr Canc Netw 2012;10:975-982. </div>
+    <div class="Citation-text">Demmy TL, Gu L, Burkhalter JE, et al. Optimal management of malignant pleural effusions (results of CALGB 30102). J Natl Compr Canc Netw 2012;10:975-982.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22878823">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

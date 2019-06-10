@@ -8,7 +8,7 @@ article '19933916
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Arriagada R, Dunant A, Pignon JP, et al. Long-term results of the international adjuvant lung cancer trial evaluating adjuvant Cisplatin-based chemotherapy in resected lung cancer. J Clin Oncol 2010;28:35-42. </div>
+    <div class="Citation-text">Arriagada R, Dunant A, Pignon JP, et al. Long-term results of the international adjuvant lung cancer trial evaluating adjuvant Cisplatin-based chemotherapy in resected lung cancer. J Clin Oncol 2010;28:35-42.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19933916">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

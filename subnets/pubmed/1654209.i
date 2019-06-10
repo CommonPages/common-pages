@@ -8,7 +8,7 @@ article '1654209
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Mitsudomi T, Steinberg SM, Oie HK, et al. ras gene mutations in non-small cell lung cancers are associated with shortened survival irrespective of treatment intent. Cancer Res 1991;51:4999-5002. </div>
+    <div class="Citation-text">Mitsudomi T, Steinberg SM, Oie HK, et al. ras gene mutations in non-small cell lung cancers are associated with shortened survival irrespective of treatment intent. Cancer Res 1991;51:4999-5002.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/1654209">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '1377484
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> A Medical Research Council (MRC) randomised trial of palliative radiotherapy with two fractions or a single fraction in patients with inoperable non-small-cell lung cancer (NSCLC) and poor performance status. Medical Research Council Lung Cancer Working Party. Br J Cancer 1992;65:934-941. </div>
+    <div class="Citation-text">A Medical Research Council (MRC) randomised trial of palliative radiotherapy with two fractions or a single fraction in patients with inoperable non-small-cell lung cancer (NSCLC) and poor performance status. Medical Research Council Lung Cancer Working Party. Br J Cancer 1992;65:934-941.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/1377484">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

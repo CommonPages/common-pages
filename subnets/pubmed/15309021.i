@@ -8,7 +8,7 @@ article '15309021
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Zhang H, Liu J, Cagle PT, et al. Distinction of pulmonary small cell carcinoma from poorly differentiated squamous cell carcinoma: an immunohistochemical approach. Mod Pathol 2005;18:111-118. </div>
+    <div class="Citation-text">Zhang H, Liu J, Cagle PT, et al. Distinction of pulmonary small cell carcinoma from poorly differentiated squamous cell carcinoma: an immunohistochemical approach. Mod Pathol 2005;18:111-118.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/15309021">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

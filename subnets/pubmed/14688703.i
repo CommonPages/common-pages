@@ -13,7 +13,7 @@ article '14688703
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Gonzalez-Stawinski GV, Lemaire A, Merchant F, et al. A comparative analysis of positron emission tomography and mediastinoscopy in staging non-small cell lung cancer. J Thorac Cardiovasc Surg 2003;126:1900-1905. </div>
+    <div class="Citation-text">Gonzalez-Stawinski GV, Lemaire A, Merchant F, et al. A comparative analysis of positron emission tomography and mediastinoscopy in staging non-small cell lung cancer. J Thorac Cardiovasc Surg 2003;126:1900-1905.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/14688703">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

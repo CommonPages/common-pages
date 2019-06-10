@@ -5,10 +5,15 @@
 /// Tao et al., 2014
 article '24319070
 
+  index: hide
+  line !c
+    + c = Postdiagnosis cigarettes smoking significantly increased the risk of death for male patients with cancer.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Tao L, Wang R, Gao YT, Yuan JM. Impact of postdiagnosis smoking on long-term survival of cancer patients: the Shanghai cohort study. Cancer Epidemiol Biomarkers Prev 2013;22:2404-2411. </div>
+    <div class="Citation-text">Tao L, Wang R, Gao YT, Yuan JM. Impact of postdiagnosis smoking on long-term survival of cancer patients: the Shanghai cohort study. Cancer Epidemiol Biomarkers Prev 2013;22:2404-2411.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24319070">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

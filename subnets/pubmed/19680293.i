@@ -8,7 +8,7 @@ article '19680293
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Gazdar AF. Activating and resistance mutations of EGFR in non-small-cell lung cancer: role in clinical response to EGFR tyrosine kinase inhibitors. Oncogene 2009;28 Suppl 1:S24-31. </div>
+    <div class="Citation-text">Gazdar AF. Activating and resistance mutations of EGFR in non-small-cell lung cancer: role in clinical response to EGFR tyrosine kinase inhibitors. Oncogene 2009;28 Suppl 1:S24-31.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19680293">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

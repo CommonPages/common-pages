@@ -5,10 +5,15 @@
 /// Mazières et al., 2015
 article '25667280
 
+  index: hide
+  line !c
+    + c = Crizotinib was highly active at treating lung cancer in patients with a ROS1 rearrangement, suggesting that patients with lung adenocarcinomas should be tested for ROS1. Prospective clinical trials with crizotinib and other ROS1 inhibitors are ongoing or planned.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Mazieres J, Zalcman G, Crino L, et al. Crizotinib therapy for advanced lung adenocarcinoma and a ROS1 rearrangement: Results from the EUROS1 cohort. J Clin Oncol 2015;33:992-999. </div>
+    <div class="Citation-text">Mazieres J, Zalcman G, Crino L, et al. Crizotinib therapy for advanced lung adenocarcinoma and a ROS1 rearrangement: Results from the EUROS1 cohort. J Clin Oncol 2015;33:992-999.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25667280">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

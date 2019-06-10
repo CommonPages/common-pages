@@ -13,7 +13,7 @@ article '27474514
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Marino KA, Little MA, Bursac Z, et al. Operating on patients who smoke: a survey of thoracic surgeons in the United States. Ann Thorac Surg 2016;102:911-916. </div>
+    <div class="Citation-text">Marino KA, Little MA, Bursac Z, et al. Operating on patients who smoke: a survey of thoracic surgeons in the United States. Ann Thorac Surg 2016;102:911-916.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27474514">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

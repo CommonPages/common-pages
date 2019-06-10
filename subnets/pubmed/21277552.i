@@ -8,7 +8,7 @@ article '21277552
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Pao W, Girard N. New driver mutations in non-small-cell lung cancer. Lancet Oncol 2011;12:175-180. </div>
+    <div class="Citation-text">Pao W, Girard N. New driver mutations in non-small-cell lung cancer. Lancet Oncol 2011;12:175-180.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21277552">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

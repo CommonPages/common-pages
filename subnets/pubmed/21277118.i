@@ -13,7 +13,7 @@ article '21277118
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Lutz S, Berk L, Chang E, et al. Palliative radiotherapy for bone metastases: an ASTRO evidence-based guideline. Int J Radiat Oncol Biol Phys 2011;79:965-976. </div>
+    <div class="Citation-text">Lutz S, Berk L, Chang E, et al. Palliative radiotherapy for bone metastases: an ASTRO evidence-based guideline. Int J Radiat Oncol Biol Phys 2011;79:965-976.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21277118">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '29935304
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Lin JJ, Zhu VW, Schoenfeld AJ, et al. Brigatinib in patients with alectinib-refractory ALK-positive non-small cell lung cancer: a retrospective study. J Thorac Oncol 2018;13:1530-1538. </div>
+    <div class="Citation-text">Lin JJ, Zhu VW, Schoenfeld AJ, et al. Brigatinib in patients with alectinib-refractory ALK-positive non-small cell lung cancer: a retrospective study. J Thorac Oncol 2018;13:1530-1538.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/29935304">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

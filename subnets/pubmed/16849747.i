@@ -5,10 +5,15 @@
 /// De Leyn et al., 2006
 article '16849747
 
+  index: hide
+  line !c
+    + c = After a thorough staging mediastinoscopy, postinduction remediastinoscopy had a disappointing sensitivity because of adhesions and fibrosis. Integrated PET-CT yielded a better result than that obtained in previous studies with side-by-side PET and CT images.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> De Leyn P, Stroobants S, De Wever W, et al. Prospective comparative study of integrated positron emission tomography-computed tomography scan compared with remediastinoscopy in the assessment of residual mediastinal lymph node disease after induction chemotherapy for mediastinoscopy-proven stage IIIA-N2 Non-small-cell lung cancer: a Leuven Lung Cancer Group Study. J Clin Oncol 2006;24:3333-3339. </div>
+    <div class="Citation-text">De Leyn P, Stroobants S, De Wever W, et al. Prospective comparative study of integrated positron emission tomography-computed tomography scan compared with remediastinoscopy in the assessment of residual mediastinal lymph node disease after induction chemotherapy for mediastinoscopy-proven stage IIIA-N2 Non-small-cell lung cancer: a Leuven Lung Cancer Group Study. J Clin Oncol 2006;24:3333-3339.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/16849747">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

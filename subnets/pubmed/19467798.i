@@ -5,10 +5,15 @@
 /// Higgins et al., 2009
 article '19467798
 
+  index: hide
+  line !c
+    + c = Preoperative ChT-RT was associated with higher mediastinal pCR rates but not improved survival.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Higgins K, Chino JP, Marks LB, et al. Preoperative chemotherapy versus preoperative chemoradiotherapy for stage III (N2) non-small-cell lung cancer. Int J Radiat Oncol Biol Phys 2009;75:1462-1467. </div>
+    <div class="Citation-text">Higgins K, Chino JP, Marks LB, et al. Preoperative chemotherapy versus preoperative chemoradiotherapy for stage III (N2) non-small-cell lung cancer. Int J Radiat Oncol Biol Phys 2009;75:1462-1467.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19467798">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

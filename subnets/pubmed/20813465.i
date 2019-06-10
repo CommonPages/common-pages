@@ -8,7 +8,7 @@ article '20813465
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Gopal RS, Dubey S, Rosenzweig KE, et al. ACR Appropriateness Criteria(R) on Induction and Adjuvant Therapy for Stage N2 Non-Small-Cell Lung Cancer: expert panel on radiation oncology-lung. Int J Radiat Oncol Biol Phys 2010;78:969-974. </div>
+    <div class="Citation-text">Gopal RS, Dubey S, Rosenzweig KE, et al. ACR Appropriateness Criteria(R) on Induction and Adjuvant Therapy for Stage N2 Non-Small-Cell Lung Cancer: expert panel on radiation oncology-lung. Int J Radiat Oncol Biol Phys 2010;78:969-974.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20813465">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

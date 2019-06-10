@@ -8,7 +8,7 @@ article '20231678
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Pisters KM, Vallieres E, Crowley JJ, et al. Surgery with or without preoperative paclitaxel and carboplatin in early-stage non-small-cell lung cancer: Southwest Oncology Group Trial S9900, an intergroup, randomized, phase III trial. J Clin Oncol 2010;28:1843-1849. </div>
+    <div class="Citation-text">Pisters KM, Vallieres E, Crowley JJ, et al. Surgery with or without preoperative paclitaxel and carboplatin in early-stage non-small-cell lung cancer: Southwest Oncology Group Trial S9900, an intergroup, randomized, phase III trial. J Clin Oncol 2010;28:1843-1849.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20231678">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

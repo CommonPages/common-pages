@@ -8,7 +8,7 @@ article '25523487
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Haspinger ER, Agustoni F, Torri V, et al. Is there evidence for different effects among EGFR-TKIs? Systematic review and meta-analysis of EGFR tyrosine kinase inhibitors (TKIs) versus chemotherapy as first-line treatment for patients harboring EGFR mutations. Crit Rev Oncol Hematol 2015;94:213-227. </div>
+    <div class="Citation-text">Haspinger ER, Agustoni F, Torri V, et al. Is there evidence for different effects among EGFR-TKIs? Systematic review and meta-analysis of EGFR tyrosine kinase inhibitors (TKIs) versus chemotherapy as first-line treatment for patients harboring EGFR mutations. Crit Rev Oncol Hematol 2015;94:213-227.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25523487">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

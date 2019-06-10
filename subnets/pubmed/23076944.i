@@ -5,10 +5,15 @@
 /// Stead et al., 2012
 article '23076944
 
+  index: hide
+  line !c
+    + c = Interventions that combine pharmacotherapy and behavioural support increase smoking cessation success compared to a minimal intervention or usual care. Further trials would be unlikely to change this conclusion. We did not find strong evidence from indirect comparisons that offering more intensive behavioural support was associated with larger treatment effects but this could be because intensive interventions are less likely to be delivered in full.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Stead LF, Lancaster T. Combined pharmacotherapy and behavioural interventions for smoking cessation. Cochrane Database Syst Rev 2012;10:CD008286. </div>
+    <div class="Citation-text">Stead LF, Lancaster T. Combined pharmacotherapy and behavioural interventions for smoking cessation. Cochrane Database Syst Rev 2012;10:CD008286.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23076944">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

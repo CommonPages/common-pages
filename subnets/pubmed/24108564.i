@@ -8,7 +8,7 @@ article '24108564
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ulaner GA, Lyall A. Identifying and distinguishing treatment effects and complications from malignancy at FDG PET/CT. Radiographics 2013;33:1817-1834. </div>
+    <div class="Citation-text">Ulaner GA, Lyall A. Identifying and distinguishing treatment effects and complications from malignancy at FDG PET/CT. Radiographics 2013;33:1817-1834.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24108564">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

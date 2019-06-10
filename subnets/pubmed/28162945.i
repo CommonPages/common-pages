@@ -8,7 +8,7 @@ article '28162945
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Bradbury P, Sivajohanathan D, Chan A, et al. Postoperative adjuvant systemic therapy in completely resected non-small-cell lung cancer: a systematic review. Clin Lung Cancer 2017;18:259-273 e258. </div>
+    <div class="Citation-text">Bradbury P, Sivajohanathan D, Chan A, et al. Postoperative adjuvant systemic therapy in completely resected non-small-cell lung cancer: a systematic review. Clin Lung Cancer 2017;18:259-273 e258.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/28162945">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

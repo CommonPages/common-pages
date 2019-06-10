@@ -5,10 +5,15 @@
 /// Grutters et al., 2010
 article '19733410
 
+  index: hide
+  line !c
+    + c = Survival rates for particle therapy were higher than those for CRT, but similar to SBRT in stage I inoperable NSCLC. Particle therapy may be more beneficial in stage III NSCLC, especially in reducing adverse events.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Grutters JP, Kessels AG, Pijls-Johannesma M, et al. Comparison of the effectiveness of radiotherapy with photons, protons and carbon-ions for non-small cell lung cancer: a meta-analysis. Radiother Oncol 2010;95:32-40. </div>
+    <div class="Citation-text">Grutters JP, Kessels AG, Pijls-Johannesma M, et al. Comparison of the effectiveness of radiotherapy with photons, protons and carbon-ions for non-small cell lung cancer: a meta-analysis. Radiother Oncol 2010;95:32-40.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19733410">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

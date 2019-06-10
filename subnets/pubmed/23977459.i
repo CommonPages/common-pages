@@ -13,7 +13,7 @@ article '23977459
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Cao C, Manganas C, Ang SC, Yan TD. A meta-analysis of unmatched and matched patients comparing video-assisted thoracoscopic lobectomy and conventional open lobectomy. Ann Cardiothorac Surg 2012;1:16-23. </div>
+    <div class="Citation-text">Cao C, Manganas C, Ang SC, Yan TD. A meta-analysis of unmatched and matched patients comparing video-assisted thoracoscopic lobectomy and conventional open lobectomy. Ann Cardiothorac Surg 2012;1:16-23.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23977459">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

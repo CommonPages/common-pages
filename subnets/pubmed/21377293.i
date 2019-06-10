@@ -13,7 +13,7 @@ article '21377293
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Taremi M, Hope A, Dahele M, et al. Stereotactic body radiotherapy for medically inoperable lung cancer: prospective, single-center study of 108 consecutive patients. Int J Radiat Oncol Biol Phys 2012;82:967-973. </div>
+    <div class="Citation-text">Taremi M, Hope A, Dahele M, et al. Stereotactic body radiotherapy for medically inoperable lung cancer: prospective, single-center study of 108 consecutive patients. Int J Radiat Oncol Biol Phys 2012;82:967-973.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21377293">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

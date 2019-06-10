@@ -13,7 +13,7 @@ article '8380477
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Rusch VW, Albain KS, Crowley JJ, et al. Surgical resection of stage IIIA and stage IIIB non-small-cell lung cancer after concurrent induction chemoradiotherapy. A Southwest Oncology Group trial. J Thorac Cardiovasc Surg 1993;105:97-104; discussion 104-106. </div>
+    <div class="Citation-text">Rusch VW, Albain KS, Crowley JJ, et al. Surgical resection of stage IIIA and stage IIIB non-small-cell lung cancer after concurrent induction chemoradiotherapy. A Southwest Oncology Group trial. J Thorac Cardiovasc Surg 1993;105:97-104; discussion 104-106.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/8380477">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

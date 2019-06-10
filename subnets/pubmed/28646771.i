@@ -8,7 +8,7 @@ article '28646771
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Gandhi L, Ou SI, Shaw AT, et al. Efficacy of alectinib in central nervous system metastases in crizotinib-resistant ALK-positive non-small-cell lung cancer: Comparison of RECIST 1.1 and RANO-HGG criteria. Eur J Cancer 2017;82:27-33. </div>
+    <div class="Citation-text">Gandhi L, Ou SI, Shaw AT, et al. Efficacy of alectinib in central nervous system metastases in crizotinib-resistant ALK-positive non-small-cell lung cancer: Comparison of RECIST 1.1 and RANO-HGG criteria. Eur J Cancer 2017;82:27-33.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/28646771">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

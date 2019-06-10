@@ -13,7 +13,7 @@ article '24674401
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Liu MB, Eclov NC, Trakul N, et al. Clinical impact of dose overestimation by effective path length calculation in stereotactic ablative radiation therapy of lung tumors. Pract Radiat Oncol 2013;3:294-300. </div>
+    <div class="Citation-text">Liu MB, Eclov NC, Trakul N, et al. Clinical impact of dose overestimation by effective path length calculation in stereotactic ablative radiation therapy of lung tumors. Pract Radiat Oncol 2013;3:294-300.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24674401">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

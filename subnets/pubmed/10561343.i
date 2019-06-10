@@ -5,10 +5,15 @@
 /// Furuse et al., 2000
 article '10561343
 
+  index: hide
+  line !c
+    + c = In selected patients with unresectable stage III NSCLC, the concurrent approach yields a significantly increased response rate and enhanced median survival duration when compared with the sequential approach.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Furuse K, Fukuoka M, Kawahara M, et al. Phase III study of concurrent versus sequential thoracic radiotherapy in combination with mitomycin, vindesine, and cisplatin in unresectable stage III non-small-cell lung cancer. J Clin Oncol 1999;17:2692-2699. </div>
+    <div class="Citation-text">Furuse K, Fukuoka M, Kawahara M, et al. Phase III study of concurrent versus sequential thoracic radiotherapy in combination with mitomycin, vindesine, and cisplatin in unresectable stage III non-small-cell lung cancer. J Clin Oncol 1999;17:2692-2699.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/10561343">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

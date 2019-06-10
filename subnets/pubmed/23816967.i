@@ -5,10 +5,15 @@
 /// Yang et al., 2014
 article '23816967
 
+  index: hide
+  line !c
+    + c = In patients with lung adenocarcinoma with EGFR mutations, first-line afatinib was associated with better control of cough and dyspnea compared with chemotherapy, although diarrhea, dysphagia, and sore mouth were worse. Global health status/QoL was also improved over time with afatinib compared with chemotherapy.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Yang JC, Hirsh V, Schuler M, et al. Symptom control and quality of life in LUX-Lung 3: a phase III study of afatinib or cisplatin/pemetrexed in patients with advanced lung adenocarcinoma with EGFR mutations. J Clin Oncol 2013;31:3342-3350. </div>
+    <div class="Citation-text">Yang JC, Hirsh V, Schuler M, et al. Symptom control and quality of life in LUX-Lung 3: a phase III study of afatinib or cisplatin/pemetrexed in patients with advanced lung adenocarcinoma with EGFR mutations. J Clin Oncol 2013;31:3342-3350.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23816967">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

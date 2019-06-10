@@ -8,7 +8,7 @@ article '21500123
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Rami-Porta R, Bolejack V, Goldstraw P. The new tumor, node, and metastasis staging system. Semin Respir Crit Care Med 2011;32:44-51. </div>
+    <div class="Citation-text">Rami-Porta R, Bolejack V, Goldstraw P. The new tumor, node, and metastasis staging system. Semin Respir Crit Care Med 2011;32:44-51.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21500123">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

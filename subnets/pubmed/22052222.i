@@ -13,7 +13,7 @@ article '22052222
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ambrogi MC, Fanucchi O, Cioni R, et al. Long-term results of radiofrequency ablation treatment of stage I non-small cell lung cancer: a prospective intention-to-treat study. J Thorac Oncol 2011;6:2044-2051. </div>
+    <div class="Citation-text">Ambrogi MC, Fanucchi O, Cioni R, et al. Long-term results of radiofrequency ablation treatment of stage I non-small cell lung cancer: a prospective intention-to-treat study. J Thorac Oncol 2011;6:2044-2051.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22052222">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

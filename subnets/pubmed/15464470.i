@@ -13,7 +13,7 @@ article '15464470
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Sonett JR, Suntharalingam M, Edelman MJ, et al. Pulmonary resection after curative intent radiotherapy (>59 Gy) and concurrent chemotherapy in non-small-cell lung cancer. Ann Thorac Surg 2004;78:1200-1205; discussion 1206. </div>
+    <div class="Citation-text">Sonett JR, Suntharalingam M, Edelman MJ, et al. Pulmonary resection after curative intent radiotherapy (>59 Gy) and concurrent chemotherapy in non-small-cell lung cancer. Ann Thorac Surg 2004;78:1200-1205; discussion 1206.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/15464470">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

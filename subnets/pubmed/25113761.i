@@ -8,7 +8,7 @@ article '25113761
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Timmerman RD, Herman J, Cho LC. Emergence of stereotactic body radiation therapy and its impact on current and future clinical practice. J Clin Oncol 2014;32:2847-2854. </div>
+    <div class="Citation-text">Timmerman RD, Herman J, Cho LC. Emergence of stereotactic body radiation therapy and its impact on current and future clinical practice. J Clin Oncol 2014;32:2847-2854.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25113761">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

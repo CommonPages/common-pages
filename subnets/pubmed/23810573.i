@@ -5,10 +5,15 @@
 /// Conforti et al., 2014
 article '23810573
 
+  index: hide
+  line !c
+    + c = The longer disease control observed in our patients suggests that continuation of EGFR TKI beyond focal progression associated to a locoregional treatment is an efficacious therapeutic strategy.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Conforti F, Catania C, Toffalorio F, et al. EGFR tyrosine kinase inhibitors beyond focal progression obtain a prolonged disease control in patients with advanced adenocarcinoma of the lung. Lung Cancer 2013;81:440-444. </div>
+    <div class="Citation-text">Conforti F, Catania C, Toffalorio F, et al. EGFR tyrosine kinase inhibitors beyond focal progression obtain a prolonged disease control in patients with advanced adenocarcinoma of the lung. Lung Cancer 2013;81:440-444.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23810573">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

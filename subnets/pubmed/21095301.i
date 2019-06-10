@@ -13,7 +13,7 @@ article '21095301
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Defranchi SA, Edell ES, Daniels CE, et al. Mediastinoscopy in patients with lung cancer and negative endobronchial ultrasound guided needle aspiration. Ann Thorac Surg 2010;90:1753-1757. </div>
+    <div class="Citation-text">Defranchi SA, Edell ES, Daniels CE, et al. Mediastinoscopy in patients with lung cancer and negative endobronchial ultrasound guided needle aspiration. Ann Thorac Surg 2010;90:1753-1757.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21095301">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

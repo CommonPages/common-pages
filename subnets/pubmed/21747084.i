@@ -5,10 +5,15 @@
 /// Govindan et al., 2011
 article '21747084
 
+  index: hide
+  line !c
+    + c = The combination of pemetrexed, carboplatin, and TRT met the prespecified criteria for further evaluation. This regimen should be studied further in patients with locally advanced unresectable nonsquamous NSCLC.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Govindan R, Bogart J, Stinchcombe T, et al. Randomized phase II study of pemetrexed, carboplatin, and thoracic radiation with or without cetuximab in patients with locally advanced unresectable non-small-cell lung cancer: Cancer and Leukemia Group B trial 30407. J Clin Oncol 2011;29:3120-3125. </div>
+    <div class="Citation-text">Govindan R, Bogart J, Stinchcombe T, et al. Randomized phase II study of pemetrexed, carboplatin, and thoracic radiation with or without cetuximab in patients with locally advanced unresectable non-small-cell lung cancer: Cancer and Leukemia Group B trial 30407. J Clin Oncol 2011;29:3120-3125.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21747084">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

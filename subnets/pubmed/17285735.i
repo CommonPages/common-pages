@@ -8,7 +8,7 @@ article '17285735
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Sequist LV, Joshi VA, Janne PA, et al. Response to treatment and survival of patients with non-small cell lung cancer undergoing somatic EGFR mutation testing. Oncologist 2007;12:90-98. </div>
+    <div class="Citation-text">Sequist LV, Joshi VA, Janne PA, et al. Response to treatment and survival of patients with non-small cell lung cancer undergoing somatic EGFR mutation testing. Oncologist 2007;12:90-98.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17285735">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

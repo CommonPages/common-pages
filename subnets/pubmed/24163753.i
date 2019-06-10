@@ -8,7 +8,7 @@ article '24163753
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Yates P, Schofield P, Zhao I, Currow D. Supportive and palliative care for lung cancer patients. J Thorac Dis 2013;5 Suppl 5:S623-628. </div>
+    <div class="Citation-text">Yates P, Schofield P, Zhao I, Currow D. Supportive and palliative care for lung cancer patients. J Thorac Dis 2013;5 Suppl 5:S623-628.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24163753">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

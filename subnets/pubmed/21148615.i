@@ -8,7 +8,7 @@ article '21148615
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Cohen MH, Cortazar P, Justice R, Pazdur R. Approval summary: pemetrexed maintenance therapy of advanced/metastatic nonsquamous, non-small cell lung cancer (NSCLC). Oncologist 2010;15:1352-1358. </div>
+    <div class="Citation-text">Cohen MH, Cortazar P, Justice R, Pazdur R. Approval summary: pemetrexed maintenance therapy of advanced/metastatic nonsquamous, non-small cell lung cancer (NSCLC). Oncologist 2010;15:1352-1358.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21148615">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

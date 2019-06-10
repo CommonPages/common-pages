@@ -8,7 +8,7 @@ article '27540850
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Nishino M, Giobbie-Hurder A, Hatabu H, et al. Incidence of programmed cell death 1 inhibitor-related pneumonitis in patients with advanced cancer: a systematic review and meta-analysis. JAMA Oncol 2016;2:1607-1616. </div>
+    <div class="Citation-text">Nishino M, Giobbie-Hurder A, Hatabu H, et al. Incidence of programmed cell death 1 inhibitor-related pneumonitis in patients with advanced cancer: a systematic review and meta-analysis. JAMA Oncol 2016;2:1607-1616.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27540850">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

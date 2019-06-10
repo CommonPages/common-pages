@@ -5,10 +5,15 @@
 /// Chawla et al., 2009
 article '19250766
 
+  index: hide
+  line !c
+    + c = SBRT for adrenal metastases is well tolerated. Most patients developed widespread metastases shortly after treatment. Local control was poor, although this was a patient population selected for adverse risk factors, such as bulky disease. Additional studies are needed to determine the efficacy of SBRT for oligometastatic adrenal metastases, given the propensity of these patients to develop further disease progression.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Chawla S, Chen Y, Katz AW, et al. Stereotactic body radiotherapy for treatment of adrenal metastases. Int J Radiat Oncol Biol Phys 2009;75:71-75. </div>
+    <div class="Citation-text">Chawla S, Chen Y, Katz AW, et al. Stereotactic body radiotherapy for treatment of adrenal metastases. Int J Radiat Oncol Biol Phys 2009;75:71-75.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19250766">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

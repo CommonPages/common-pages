@@ -8,7 +8,7 @@ article '22736441
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Suda K, Mizuuchi H, Maehara Y, Mitsudomi T. Acquired resistance mechanisms to tyrosine kinase inhibitors in lung cancer with activating epidermal growth factor receptor mutation--diversity, ductility, and destiny. Cancer Metastasis Rev 2012;31:807-814. </div>
+    <div class="Citation-text">Suda K, Mizuuchi H, Maehara Y, Mitsudomi T. Acquired resistance mechanisms to tyrosine kinase inhibitors in lung cancer with activating epidermal growth factor receptor mutation--diversity, ductility, and destiny. Cancer Metastasis Rev 2012;31:807-814.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22736441">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

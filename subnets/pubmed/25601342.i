@@ -5,10 +5,15 @@
 /// Bradley et al., 2015
 article '25601342
 
+  index: hide
+  line !c
+    + c = 74 Gy radiation given in 2 Gy fractions with concurrent chemotherapy was not better than 60 Gy plus concurrent chemotherapy for patients with stage III non-small-cell lung cancer, and might be potentially harmful. Addition of cetuximab to concurrent chemoradiation and consolidation treatment provided no benefit in overall survival for these patients.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Bradley JD, Paulus R, Komaki R, et al. Standard-dose versus high-dose conformal radiotherapy with concurrent and consolidation carboplatin plus paclitaxel with or without cetuximab for patients with stage IIIA or IIIB non-small-cell lung cancer (RTOG 0617): a randomised, two-by-two factorial phase 3 study. Lancet Oncol 2015;16:187-199. </div>
+    <div class="Citation-text">Bradley JD, Paulus R, Komaki R, et al. Standard-dose versus high-dose conformal radiotherapy with concurrent and consolidation carboplatin plus paclitaxel with or without cetuximab for patients with stage IIIA or IIIB non-small-cell lung cancer (RTOG 0617): a randomised, two-by-two factorial phase 3 study. Lancet Oncol 2015;16:187-199.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25601342">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

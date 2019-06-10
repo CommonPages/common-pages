@@ -8,7 +8,7 @@ article '20171522
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Gagliardi G, Constine LS, Moiseenko V, et al. Radiation dose-volume effects in the heart. Int J Radiat Oncol Biol Phys 2010;76:S77-85. </div>
+    <div class="Citation-text">Gagliardi G, Constine LS, Moiseenko V, et al. Radiation dose-volume effects in the heart. Int J Radiat Oncol Biol Phys 2010;76:S77-85.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20171522">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

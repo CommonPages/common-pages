@@ -5,10 +5,15 @@
 /// Kappers et al., 2010
 article '19664843
 
+  index: hide
+  line !c
+    + c = Type of surgical resection was the major factor influencing outcome in patients with stage IIIA (N2) NSCLC after induction chemotherapy. These results suggest that patients with stage IIIA (N2) NSCLC may benefit from surgical resection, as long as a lobectomy can be performed.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kappers I, van Sandick JW, Burgers SA, et al. Surgery after induction chemotherapy in stage IIIA-N2 non-small cell lung cancer: why pneumonectomy should be avoided. Lung Cancer 2010;68:222-227. </div>
+    <div class="Citation-text">Kappers I, van Sandick JW, Burgers SA, et al. Surgery after induction chemotherapy in stage IIIA-N2 non-small cell lung cancer: why pneumonectomy should be avoided. Lung Cancer 2010;68:222-227.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19664843">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

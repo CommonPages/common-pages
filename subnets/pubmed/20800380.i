@@ -13,7 +13,7 @@ article '20800380
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Wolfson AH, Bae K, Komaki R, et al. Primary analysis of a phase II randomized trial Radiation Therapy Oncology Group (RTOG) 0212: impact of different total doses and schedules of prophylactic cranial irradiation on chronic neurotoxicity and quality of life for patients with limited-disease small-cell lung cancer. Int J Radiat Oncol Biol Phys 2011;81:77-84. </div>
+    <div class="Citation-text">Wolfson AH, Bae K, Komaki R, et al. Primary analysis of a phase II randomized trial Radiation Therapy Oncology Group (RTOG) 0212: impact of different total doses and schedules of prophylactic cranial irradiation on chronic neurotoxicity and quality of life for patients with limited-disease small-cell lung cancer. Int J Radiat Oncol Biol Phys 2011;81:77-84.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20800380">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

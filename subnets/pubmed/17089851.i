@@ -8,7 +8,7 @@ article '17089851
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Keall PJ, Mageras GS, Balter JM, et al. The management of respiratory motion in radiation oncology report of AAPM Task Group 76. Med Phys 2006;33:3874-3900. </div>
+    <div class="Citation-text">Keall PJ, Mageras GS, Balter JM, et al. The management of respiratory motion in radiation oncology report of AAPM Task Group 76. Med Phys 2006;33:3874-3900.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17089851">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

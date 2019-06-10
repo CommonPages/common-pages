@@ -8,7 +8,7 @@ article '21904577
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Coate LE, Shepherd FA. Maintenance therapy in advanced non-small cell lung cancer: evolution, tolerability and outcomes. Ther Adv Med Oncol 2011;3:139-157. </div>
+    <div class="Citation-text">Coate LE, Shepherd FA. Maintenance therapy in advanced non-small cell lung cancer: evolution, tolerability and outcomes. Ther Adv Med Oncol 2011;3:139-157.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21904577">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

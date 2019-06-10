@@ -13,7 +13,7 @@ article '27435396
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ballard P, Yates JW, Yang Z, et al. Preclinical comparison of osimertinib with other EGFR-TKIs in EGFR-mutant NSCLC brain metastases models, and early evidence of clinical brain metastases activity. Clin Cancer Res 2016;22:5130-5140. </div>
+    <div class="Citation-text">Ballard P, Yates JW, Yang Z, et al. Preclinical comparison of osimertinib with other EGFR-TKIs in EGFR-mutant NSCLC brain metastases models, and early evidence of clinical brain metastases activity. Clin Cancer Res 2016;22:5130-5140.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27435396">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Bradley et al., 2010
 article '20368547
 
+  index: hide
+  line !c
+    + c = The median survival time and OS rate at 12 months for this regimen are encouraging. These results serve as projection expectations for the high-dose radiation arms of the current RTOG 0617 phase III intergroup trial.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Bradley JD, Bae K, Graham MV, et al. Primary analysis of the phase II component of a phase I/II dose intensification study using three-dimensional conformal radiation therapy and concurrent chemotherapy for patients with inoperable non-small-cell lung cancer: RTOG 0117. J Clin Oncol 2010;28:2475-2480. </div>
+    <div class="Citation-text">Bradley JD, Bae K, Graham MV, et al. Primary analysis of the phase II component of a phase I/II dose intensification study using three-dimensional conformal radiation therapy and concurrent chemotherapy for patients with inoperable non-small-cell lung cancer: RTOG 0117. J Clin Oncol 2010;28:2475-2480.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20368547">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

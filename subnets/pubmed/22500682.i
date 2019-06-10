@@ -8,7 +8,7 @@ article '22500682
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ou SH, Tan J, Yen Y, Soo RA. ROS1 as a 'druggable' receptor tyrosine kinase: lessons learned from inhibiting the ALK pathway. Expert Rev Anticancer Ther 2012;12:447-456. </div>
+    <div class="Citation-text">Ou SH, Tan J, Yen Y, Soo RA. ROS1 as a 'druggable' receptor tyrosine kinase: lessons learned from inhibiting the ALK pathway. Expert Rev Anticancer Ther 2012;12:447-456.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22500682">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

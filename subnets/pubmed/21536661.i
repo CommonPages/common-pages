@@ -8,7 +8,7 @@ article '21536661
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Felip E, Gridelli C, Baas P, et al. Metastatic non-small-cell lung cancer: consensus on pathology and molecular tests, first-line, second-line, and third-line therapy: 1st ESMO Consensus Conference in Lung Cancer; Lugano 2010. Ann Oncol 2011;22:1507-1519. </div>
+    <div class="Citation-text">Felip E, Gridelli C, Baas P, et al. Metastatic non-small-cell lung cancer: consensus on pathology and molecular tests, first-line, second-line, and third-line therapy: 1st ESMO Consensus Conference in Lung Cancer; Lugano 2010. Ann Oncol 2011;22:1507-1519.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21536661">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

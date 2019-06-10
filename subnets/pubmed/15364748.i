@@ -13,7 +13,7 @@ article '15364748
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Roviaro G, Varoli F, Vergani C, et al. Long-term survival after videothoracoscopic lobectomy for stage I lung cancer. Chest 2004;126:725-732. </div>
+    <div class="Citation-text">Roviaro G, Varoli F, Vergani C, et al. Long-term survival after videothoracoscopic lobectomy for stage I lung cancer. Chest 2004;126:725-732.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/15364748">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

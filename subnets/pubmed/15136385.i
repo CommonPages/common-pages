@@ -13,7 +13,7 @@ article '15136385
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ohtsuka T, Nomori H, Horio H, et al. Is major pulmonary resection by video-assisted thoracic surgery an adequate procedure in clinical stage I lung cancer? Chest 2004;125:1742-1746. </div>
+    <div class="Citation-text">Ohtsuka T, Nomori H, Horio H, et al. Is major pulmonary resection by video-assisted thoracic surgery an adequate procedure in clinical stage I lung cancer? Chest 2004;125:1742-1746.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/15136385">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

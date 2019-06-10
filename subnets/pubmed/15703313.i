@@ -5,10 +5,15 @@
 /// Kim et al., 2005
 article '15703313
 
+  index: hide
+  line !c
+    + c = MLD is a useful indicator of risk for development of severe RP after 3D conformal radiation therapy in patients with lung cancer.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kim TH, Cho KH, Pyo HR, et al. Dose-volumetric parameters for predicting severe radiation pneumonitis after three-dimensional conformal radiation therapy for lung cancer. Radiology 2005;235:208-215. </div>
+    <div class="Citation-text">Kim TH, Cho KH, Pyo HR, et al. Dose-volumetric parameters for predicting severe radiation pneumonitis after three-dimensional conformal radiation therapy for lung cancer. Radiology 2005;235:208-215.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/15703313">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

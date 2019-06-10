@@ -13,7 +13,7 @@ article '21119545
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Scagliotti G, Brodowicz T, Shepherd FA, et al. Treatment-by-histology interaction analyses in three phase III trials show superiority of pemetrexed in nonsquamous non-small cell lung cancer. J Thorac Oncol 2011;6:64-70. </div>
+    <div class="Citation-text">Scagliotti G, Brodowicz T, Shepherd FA, et al. Treatment-by-histology interaction analyses in three phase III trials show superiority of pemetrexed in nonsquamous non-small cell lung cancer. J Thorac Oncol 2011;6:64-70.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21119545">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

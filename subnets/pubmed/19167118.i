@@ -13,7 +13,7 @@ article '19167118
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Sanuki-Fujimoto N, Sumi M, Ito Y, et al. Relation between elective nodal failure and irradiated volume in non-small-cell lung cancer (NSCLC) treated with radiotherapy using conventional fields and doses. Radiother Oncol 2009;91:433-437. </div>
+    <div class="Citation-text">Sanuki-Fujimoto N, Sumi M, Ito Y, et al. Relation between elective nodal failure and irradiated volume in non-small-cell lung cancer (NSCLC) treated with radiotherapy using conventional fields and doses. Radiother Oncol 2009;91:433-437.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19167118">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Senan et al., 2016
 article '26811519
 
+  index: hide
+  line !c
+    + c = Pemetrexed-cisplatin combined with TRT followed by consolidation pemetrexed was not superior to standard chemoradiotherapy for stage III unresectable nonsquamous non-small-cell lung cancer.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Senan S, Brade A, Wang LH, et al. PROCLAIM: randomized phase III trial of pemetrexed-cisplatin or etoposide-cisplatin plus thoracic radiation therapy followed by consolidation chemotherapy in locally advanced nonsquamous non-small-cell lung cancer. J Clin Oncol 2016;34:953-962. </div>
+    <div class="Citation-text">Senan S, Brade A, Wang LH, et al. PROCLAIM: randomized phase III trial of pemetrexed-cisplatin or etoposide-cisplatin plus thoracic radiation therapy followed by consolidation chemotherapy in locally advanced nonsquamous non-small-cell lung cancer. J Clin Oncol 2016;34:953-962.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26811519">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

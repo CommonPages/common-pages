@@ -5,10 +5,15 @@
 /// Shiels et al., 2015
 article '25385740
 
+  index: hide
+  line !c
+    + c = Understanding risk factors for second cancers among cancer survivors is crucial. Our data indicate that cigarette smoking before first cancer diagnosis increases second cancer risk among cancer survivors, and elevated cancer risk in these survivors is likely due to increased smoking prevalence. The high 5-year cumulative risks of smoking-associated cancers among current smoking survivors of stage I lung, bladder, kidney, and head/neck cancers highlight the importance of smoking cessation in patients with cancer.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Shiels MS, Gibson T, Sampson J, et al. Cigarette smoking prior to first cancer and risk of second smoking-associated cancers among survivors of bladder, kidney, head and neck, and stage I lung cancers. J Clin Oncol 2014;32:3989-3995. </div>
+    <div class="Citation-text">Shiels MS, Gibson T, Sampson J, et al. Cigarette smoking prior to first cancer and risk of second smoking-associated cancers among survivors of bladder, kidney, head and neck, and stage I lung cancers. J Clin Oncol 2014;32:3989-3995.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25385740">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

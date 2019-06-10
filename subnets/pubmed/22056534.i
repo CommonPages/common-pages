@@ -13,7 +13,7 @@ article '22056534
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Peulen H, Karlsson K, Lindberg K, et al. Toxicity after reirradiation of pulmonary tumours with stereotactic body radiotherapy. Radiother Oncol 2011;101:260-266. </div>
+    <div class="Citation-text">Peulen H, Karlsson K, Lindberg K, et al. Toxicity after reirradiation of pulmonary tumours with stereotactic body radiotherapy. Radiother Oncol 2011;101:260-266.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22056534">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

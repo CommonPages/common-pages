@@ -13,7 +13,7 @@ article '20471184
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Mohammed N, Kestin LL, Grills IS, et al. Rapid disease progression with delay in treatment of non-small-cell lung cancer. Int J Radiat Oncol Biol Phys 2011;79:466-472. </div>
+    <div class="Citation-text">Mohammed N, Kestin LL, Grills IS, et al. Rapid disease progression with delay in treatment of non-small-cell lung cancer. Int J Radiat Oncol Biol Phys 2011;79:466-472.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20471184">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

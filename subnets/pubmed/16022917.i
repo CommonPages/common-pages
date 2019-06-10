@@ -5,6 +5,11 @@
 /// Tan et al., 2005
 article '16022917
 
+  index: hide
+  line !c
+    + c = VG compared to VC resulted in a similar overall response rate, favourable median survival and a better toxicity profile. For non-cisplatin-based chemotherapy, VG is a useful alternative.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">

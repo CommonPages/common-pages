@@ -13,7 +13,7 @@ article '25881079
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Platt A, Morten J, Ji Q, et al. A retrospective analysis of RET translocation, gene copy number gain and expression in NSCLC patients treated with vandetanib in four randomized Phase III studies. BMC Cancer 2015;15:171. </div>
+    <div class="Citation-text">Platt A, Morten J, Ji Q, et al. A retrospective analysis of RET translocation, gene copy number gain and expression in NSCLC patients treated with vandetanib in four randomized Phase III studies. BMC Cancer 2015;15:171.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25881079">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

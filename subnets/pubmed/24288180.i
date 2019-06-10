@@ -8,7 +8,7 @@ article '24288180
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Frampton JE. Crizotinib: a review of its use in the treatment of anaplastic lymphoma kinase-positive, advanced non-small cell lung cancer. Drugs 2013;73:2031-2051. </div>
+    <div class="Citation-text">Frampton JE. Crizotinib: a review of its use in the treatment of anaplastic lymphoma kinase-positive, advanced non-small cell lung cancer. Drugs 2013;73:2031-2051.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24288180">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

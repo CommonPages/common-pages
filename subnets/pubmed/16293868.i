@@ -5,6 +5,11 @@
 /// Sederholm et al., 2005
 article '16293868
 
+  index: hide
+  line !c
+    + c = In advanced NSCLC, gemcitabine/carboplatin therapy resulted in significant survival benefit compared with single-agent gemcitabine without undue increase in toxicity.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">

@@ -8,7 +8,7 @@ article '17785543
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Pao W, Ladanyi M. Epidermal growth factor receptor mutation testing in lung cancer: searching for the ideal method. Clin Cancer Res 2007;13:4954-4955. </div>
+    <div class="Citation-text">Pao W, Ladanyi M. Epidermal growth factor receptor mutation testing in lung cancer: searching for the ideal method. Clin Cancer Res 2007;13:4954-4955.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17785543">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

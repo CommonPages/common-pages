@@ -8,7 +8,7 @@ article '25302160
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Becker K, Xu Y. Management of tyrosine kinase inhibitor resistance in lung cancer with EGFR mutation. World J Clin Oncol 2014;5:560-567. </div>
+    <div class="Citation-text">Becker K, Xu Y. Management of tyrosine kinase inhibitor resistance in lung cancer with EGFR mutation. World J Clin Oncol 2014;5:560-567.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25302160">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Greco et al., 2007
 article '17922972
 
+  index: hide
+  line !c
+    + c = There was no difference in OS or progression-free survival when comparing PCG and gemcitabine/vinorelbine, and gemcitabine/vinorelbine was significantly less toxic. Gemcitabine/vinorelbine is a reasonable nonplatinum agent-based doublet therapy for patients with advanced NSCLC.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Greco FA, Spigel DR, Kuzur ME, et al. Paclitaxel/Carboplatin/gemcitabine versus gemcitabine/vinorelbine in advanced non-small-cell lung cancer: a phase II/III study of the Minnie Pearl Cancer Research Network. Clin Lung Cancer 2007;8:483-487. </div>
+    <div class="Citation-text">Greco FA, Spigel DR, Kuzur ME, et al. Paclitaxel/Carboplatin/gemcitabine versus gemcitabine/vinorelbine in advanced non-small-cell lung cancer: a phase II/III study of the Minnie Pearl Cancer Research Network. Clin Lung Cancer 2007;8:483-487.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17922972">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '19571281
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Fischer B, Lassen U, Mortensen J, et al. Preoperative staging of lung cancer with combined PET-CT. N Engl J Med 2009;361:32-39. </div>
+    <div class="Citation-text">Fischer B, Lassen U, Mortensen J, et al. Preoperative staging of lung cancer with combined PET-CT. N Engl J Med 2009;361:32-39.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19571281">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

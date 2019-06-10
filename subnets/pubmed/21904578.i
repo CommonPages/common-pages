@@ -5,10 +5,15 @@
 /// Eccles et al., 2011
 article '21904578
 
+  index: hide
+  line !c
+    + c = Overall our outcomes are consistent with published data and show good survival times can be achieved. The future of advanced NSCLC is in selecting the best treatment approach on a histological and genotypic basis.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Eccles BK, Geldart TR, Laurence VM, et al. Experience of first- and subsequent-line systemic therapy in the treatment of non-small cell lung cancer. Ther Adv Med Oncol 2011;3:163-170. </div>
+    <div class="Citation-text">Eccles BK, Geldart TR, Laurence VM, et al. Experience of first- and subsequent-line systemic therapy in the treatment of non-small cell lung cancer. Ther Adv Med Oncol 2011;3:163-170.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21904578">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

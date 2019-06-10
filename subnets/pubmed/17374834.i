@@ -5,10 +5,15 @@
 /// van Meerbeeck et al., 2007
 article '17374834
 
+  index: hide
+  line !c
+    + c = In selected patients with pathologically proven stage IIIA-N2 NSCLC and a response to induction chemotherapy, surgical resection did not improve overall or progression-free survival compared with radiotherapy. In view of its low morbidity and mortality, radiotherapy should be considered the preferred locoregional treatment for these patients.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> van Meerbeeck JP, Kramer GW, Van Schil PE, et al. Randomized controlled trial of resection versus radiotherapy after induction chemotherapy in stage IIIA-N2 non-small-cell lung cancer. J Natl Cancer Inst 2007;99:442-450. </div>
+    <div class="Citation-text">van Meerbeeck JP, Kramer GW, Van Schil PE, et al. Randomized controlled trial of resection versus radiotherapy after induction chemotherapy in stage IIIA-N2 non-small-cell lung cancer. J Natl Cancer Inst 2007;99:442-450.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17374834">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '24258622
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Brosnan EM, Weickhardt AJ, Lu X, et al. Drug-induced reduction in estimated glomerular filtration rate in patients with ALK-positive non-small cell lung cancer treated with the ALK inhibitor crizotinib. Cancer 2014;120:664-674. </div>
+    <div class="Citation-text">Brosnan EM, Weickhardt AJ, Lu X, et al. Drug-induced reduction in estimated glomerular filtration rate in patients with ALK-positive non-small cell lung cancer treated with the ALK inhibitor crizotinib. Cancer 2014;120:664-674.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24258622">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

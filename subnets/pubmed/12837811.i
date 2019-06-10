@@ -5,10 +5,15 @@
 /// Fossella et al., 2003
 article '12837811
 
+  index: hide
+  line !c
+    + c = DC resulted in a more favorable overall response and survival rate than VC. Both DC and DCb were better tolerated and provided patients with consistently improved QoL compared with VC. These findings demonstrate that a docetaxel plus platinum combination is an effective treatment option with a favorable therapeutic index for first-line treatment of advanced or metastatic NSCLC.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Fossella F, Pereira JR, von Pawel J, et al. Randomized, multinational, phase III study of docetaxel plus platinum combinations versus vinorelbine plus cisplatin for advanced non-small-cell lung cancer: the TAX 326 study group. J Clin Oncol 2003;21:3016-3024. </div>
+    <div class="Citation-text">Fossella F, Pereira JR, von Pawel J, et al. Randomized, multinational, phase III study of docetaxel plus platinum combinations versus vinorelbine plus cisplatin for advanced non-small-cell lung cancer: the TAX 326 study group. J Clin Oncol 2003;21:3016-3024.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/12837811">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

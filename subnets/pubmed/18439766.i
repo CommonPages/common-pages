@@ -5,10 +5,15 @@
 /// Douillard et al., 2008
 article '18439766
 
+  index: hide
+  line !c
+    + c = This retrospective evaluation suggests a positive effect of PORT in pN2 disease and a negative effect on pN1 disease when patients received adjuvant chemotherapy. The results support further evaluation of PORT in prospectively randomized studies in completely resected pN2 NSCLC.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Douillard JY, Rosell R, De Lena M, et al. Impact of postoperative radiation therapy on survival in patients with complete resection and stage I, II, or IIIA non-small-cell lung cancer treated with adjuvant chemotherapy: the adjuvant Navelbine International Trialist Association (ANITA) Randomized Trial. Int J Radiat Oncol Biol Phys 2008;72:695-701. </div>
+    <div class="Citation-text">Douillard JY, Rosell R, De Lena M, et al. Impact of postoperative radiation therapy on survival in patients with complete resection and stage I, II, or IIIA non-small-cell lung cancer treated with adjuvant chemotherapy: the adjuvant Navelbine International Trialist Association (ANITA) Randomized Trial. Int J Radiat Oncol Biol Phys 2008;72:695-701.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18439766">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

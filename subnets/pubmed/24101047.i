@@ -8,7 +8,7 @@ article '24101047
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Gainor JF, Shaw AT. Emerging paradigms in the development of resistance to tyrosine kinase inhibitors in lung cancer. J Clin Oncol 2013;31:3987-3996. </div>
+    <div class="Citation-text">Gainor JF, Shaw AT. Emerging paradigms in the development of resistance to tyrosine kinase inhibitors in lung cancer. J Clin Oncol 2013;31:3987-3996.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24101047">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

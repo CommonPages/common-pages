@@ -13,7 +13,7 @@ article '15197804
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Rosen LS, Gordon D, Tchekmedyian NS, et al. Long-term efficacy and safety of zoledronic acid in the treatment of skeletal metastases in patients with nonsmall cell lung carcinoma and other solid tumors: a randomized, Phase III, double-blind, placebo-controlled trial. Cancer 2004;100:2613-2621. </div>
+    <div class="Citation-text">Rosen LS, Gordon D, Tchekmedyian NS, et al. Long-term efficacy and safety of zoledronic acid in the treatment of skeletal metastases in patients with nonsmall cell lung carcinoma and other solid tumors: a randomized, Phase III, double-blind, placebo-controlled trial. Cancer 2004;100:2613-2621.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/15197804">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Gazdar et al., 2015
 article '24736066
 
+  index: hide
+  line !c
+    + c = Germline T790M mutations result in a unique hereditary lung cancer syndrome that targets never smokers, with a preliminary estimate of 31% risk for lung cancer in never smoker carriers, and this risk may be lower for heavy smokers. The resultant cancers share several features and differences with lung cancers containing sporadic EGFR mutations.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Gazdar A, Robinson L, Oliver D, et al. Hereditary lung cancer syndrome targets never smokers with germline EGFR gene T790M mutations. J Thorac Oncol 2014;9:456-463. </div>
+    <div class="Citation-text">Gazdar A, Robinson L, Oliver D, et al. Hereditary lung cancer syndrome targets never smokers with germline EGFR gene T790M mutations. J Thorac Oncol 2014;9:456-463.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24736066">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

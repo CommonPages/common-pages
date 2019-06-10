@@ -5,10 +5,15 @@
 /// Jänne et al., 2013
 article '23200175
 
+  index: hide
+  line !c
+    + c = Selumetinib plus docetaxel has promising efficacy, albeit with a higher number of adverse events than with docetaxel alone, in previously treated advanced KRAS-mutant NSCLC. These findings warrant further clinical investigation of selumetinib plus docetaxel in KRAS-mutant NSCLC.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Janne PA, Shaw AT, Pereira JR, et al. Selumetinib plus docetaxel for KRAS-mutant advanced non-small-cell lung cancer: a randomised, multicentre, placebo-controlled, phase 2 study. Lancet Oncol 2013;14:38-47. </div>
+    <div class="Citation-text">Janne PA, Shaw AT, Pereira JR, et al. Selumetinib plus docetaxel for KRAS-mutant advanced non-small-cell lung cancer: a randomised, multicentre, placebo-controlled, phase 2 study. Lancet Oncol 2013;14:38-47.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23200175">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

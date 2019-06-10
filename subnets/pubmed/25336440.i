@@ -8,7 +8,7 @@ article '25336440
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Turner G, Clegg A, British Geriatrics S, et al. Best practice guidelines for the management of frailty: a British Geriatrics Society, Age UK and Royal College of General Practitioners report. Age Ageing 2014;43:744-747. </div>
+    <div class="Citation-text">Turner G, Clegg A, British Geriatrics S, et al. Best practice guidelines for the management of frailty: a British Geriatrics Society, Age UK and Royal College of General Practitioners report. Age Ageing 2014;43:744-747.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25336440">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

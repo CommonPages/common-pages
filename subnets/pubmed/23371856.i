@@ -8,7 +8,7 @@ article '23371856
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Arcila ME, Nafa K, Chaft JE, et al. EGFR exon 20 insertion mutations in lung adenocarcinomas: prevalence, molecular heterogeneity, and clinicopathologic characteristics. Mol Cancer Ther 2013;12:220-229. </div>
+    <div class="Citation-text">Arcila ME, Nafa K, Chaft JE, et al. EGFR exon 20 insertion mutations in lung adenocarcinomas: prevalence, molecular heterogeneity, and clinicopathologic characteristics. Mol Cancer Ther 2013;12:220-229.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23371856">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

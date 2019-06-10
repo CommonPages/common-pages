@@ -13,7 +13,7 @@ article '23617949
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Reyngold M, Wu AJ, McLane A, et al. Toxicity and outcomes of thoracic re-irradiation using stereotactic body radiation therapy (SBRT). Radiat Oncol 2013;8:99. </div>
+    <div class="Citation-text">Reyngold M, Wu AJ, McLane A, et al. Toxicity and outcomes of thoracic re-irradiation using stereotactic body radiation therapy (SBRT). Radiat Oncol 2013;8:99.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23617949">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

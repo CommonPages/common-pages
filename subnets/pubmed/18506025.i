@@ -5,10 +5,15 @@
 /// Scagliotti et al., 2008
 article '18506025
 
+  index: hide
+  line !c
+    + c = In advanced NSCLC, cisplatin/pemetrexed provides similar efficacy with better tolerability and more convenient administration than cisplatin/gemcitabine. This is the first prospective phase III study in NSCLC to show survival differences based on histologic type.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Scagliotti GV, Parikh P, von Pawel J, et al. Phase III study comparing cisplatin plus gemcitabine with cisplatin plus pemetrexed in chemotherapy-naive patients with advanced-stage non-small-cell lung cancer. J Clin Oncol 2008;26:3543-3551. </div>
+    <div class="Citation-text">Scagliotti GV, Parikh P, von Pawel J, et al. Phase III study comparing cisplatin plus gemcitabine with cisplatin plus pemetrexed in chemotherapy-naive patients with advanced-stage non-small-cell lung cancer. J Clin Oncol 2008;26:3543-3551.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18506025">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '27245569
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ali SM, Hensing T, Schrock AB, et al. Comprehensive genomic profiling identifies a subset of crizotinib-responsive ALK-rearranged non-small cell lung cancer not detected by fluorescence in situ hybridization. Oncologist 2016;21:762-770. </div>
+    <div class="Citation-text">Ali SM, Hensing T, Schrock AB, et al. Comprehensive genomic profiling identifies a subset of crizotinib-responsive ALK-rearranged non-small cell lung cancer not detected by fluorescence in situ hybridization. Oncologist 2016;21:762-770.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27245569">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

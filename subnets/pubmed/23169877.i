@@ -13,7 +13,7 @@ article '23169877
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Cao C, Manganas C, Ang SC, et al. Video-assisted thoracic surgery versus open thoracotomy for non-small cell lung cancer: a meta-analysis of propensity score-matched patients. Interact Cardiovasc Thorac Surg 2013;16:244-249. </div>
+    <div class="Citation-text">Cao C, Manganas C, Ang SC, et al. Video-assisted thoracic surgery versus open thoracotomy for non-small cell lung cancer: a meta-analysis of propensity score-matched patients. Interact Cardiovasc Thorac Surg 2013;16:244-249.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23169877">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

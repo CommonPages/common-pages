@@ -13,7 +13,7 @@ article '17353064
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Hoopes DJ, Tann M, Fletcher JW, et al. FDG-PET and stereotactic body radiotherapy (SBRT) for stage I non-small-cell lung cancer. Lung Cancer 2007;56:229-234. </div>
+    <div class="Citation-text">Hoopes DJ, Tann M, Fletcher JW, et al. FDG-PET and stereotactic body radiotherapy (SBRT) for stage I non-small-cell lung cancer. Lung Cancer 2007;56:229-234.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17353064">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

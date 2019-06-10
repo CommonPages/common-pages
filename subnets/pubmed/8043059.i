@@ -13,7 +13,7 @@ article '8043059
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Rosell R, Gomez-Codina J, Camps C, et al. A randomized trial comparing preoperative chemotherapy plus surgery with surgery alone in patients with non-small-cell lung cancer. N Engl J Med 1994;330:153-158. </div>
+    <div class="Citation-text">Rosell R, Gomez-Codina J, Camps C, et al. A randomized trial comparing preoperative chemotherapy plus surgery with surgery alone in patients with non-small-cell lung cancer. N Engl J Med 1994;330:153-158.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/8043059">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '23020725
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Oxnard GR. Strategies for overcoming acquired resistance to epidermal growth factor receptor: targeted therapies in lung cancer. Arch Pathol Lab Med 2012;136:1205-1209. </div>
+    <div class="Citation-text">Oxnard GR. Strategies for overcoming acquired resistance to epidermal growth factor receptor: targeted therapies in lung cancer. Arch Pathol Lab Med 2012;136:1205-1209.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23020725">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

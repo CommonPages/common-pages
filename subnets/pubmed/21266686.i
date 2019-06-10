@@ -8,7 +8,7 @@ article '21266686
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Iannuzzi MC, Fontana JR. Sarcoidosis: clinical presentation, immunopathogenesis, and therapeutics. JAMA 2011;305:391-399. </div>
+    <div class="Citation-text">Iannuzzi MC, Fontana JR. Sarcoidosis: clinical presentation, immunopathogenesis, and therapeutics. JAMA 2011;305:391-399.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21266686">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

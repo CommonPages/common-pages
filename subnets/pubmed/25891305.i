@@ -8,7 +8,7 @@ article '25891305
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Chapman PB, D'Angelo SP, Wolchok JD. Rapid eradication of a bulky melanoma mass with one dose of immunotherapy. N Engl J Med 2015;372:2073-2074. </div>
+    <div class="Citation-text">Chapman PB, D'Angelo SP, Wolchok JD. Rapid eradication of a bulky melanoma mass with one dose of immunotherapy. N Engl J Med 2015;372:2073-2074.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25891305">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

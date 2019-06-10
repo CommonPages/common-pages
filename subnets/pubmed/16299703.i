@@ -13,7 +13,7 @@ article '16299703
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Driscoll T, Nelson DI, Steenland K, et al. The global burden of disease due to occupational carcinogens. Am J Ind Med 2005;48:419-431. </div>
+    <div class="Citation-text">Driscoll T, Nelson DI, Steenland K, et al. The global burden of disease due to occupational carcinogens. Am J Ind Med 2005;48:419-431.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/16299703">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

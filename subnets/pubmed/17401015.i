@@ -5,10 +5,15 @@
 /// Li et al., 2007
 article '17401015
 
+  index: hide
+  line !c
+    + c = WBRT-induced tumor shrinkage correlates with better survival and NCF preservation. NCF is stable or improved in long-term survivors. Tumor progression adversely affects NCF more than WBRT does, thus making enhancement of radiation response a worthwhile aim in this patient population.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Li J, Bentzen SM, Renschler M, Mehta MP. Regression after whole-brain radiation therapy for brain metastases correlates with survival and improved neurocognitive function. J Clin Oncol 2007;25:1260-1266. </div>
+    <div class="Citation-text">Li J, Bentzen SM, Renschler M, Mehta MP. Regression after whole-brain radiation therapy for brain metastases correlates with survival and improved neurocognitive function. J Clin Oncol 2007;25:1260-1266.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17401015">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

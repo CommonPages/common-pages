@@ -8,7 +8,7 @@ article '25115305
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Reck M, Popat S, Reinmuth N, et al. Metastatic non-small-cell lung cancer (NSCLC): ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol 2014;25 Suppl 3:iii27-39. </div>
+    <div class="Citation-text">Reck M, Popat S, Reinmuth N, et al. Metastatic non-small-cell lung cancer (NSCLC): ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol 2014;25 Suppl 3:iii27-39.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25115305">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

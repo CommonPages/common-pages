@@ -5,10 +5,15 @@
 /// Cross et al., 2004
 article '15001250
 
+  index: hide
+  line !c
+    + c = For patients with poor performance status and inoperable NSCLC causing pulmonary symptoms, hypofractionated, involved-field radiotherapy, 8.5 Gy in two fractions, offers acceptable palliation with minimal toxicity. A clear advantage of the very short hypofractionated regimen is that it enables patients with a short expected survival time to spend more of their remaining time away from the hospital.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Cross CK, Berman S, Buswell L, et al. Prospective study of palliative hypofractionated radiotherapy (8.5 Gy x 2) for patients with symptomatic non-small-cell lung cancer. Int J Radiat Oncol Biol Phys 2004;58:1098-1105. </div>
+    <div class="Citation-text">Cross CK, Berman S, Buswell L, et al. Prospective study of palliative hypofractionated radiotherapy (8.5 Gy x 2) for patients with symptomatic non-small-cell lung cancer. Int J Radiat Oncol Biol Phys 2004;58:1098-1105.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/15001250">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

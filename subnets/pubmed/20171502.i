@@ -8,7 +8,7 @@ article '20171502
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Marks LB, Yorke ED, Jackson A, et al. Use of normal tissue complication probability models in the clinic. Int J Radiat Oncol Biol Phys 2010;76:S10-19. </div>
+    <div class="Citation-text">Marks LB, Yorke ED, Jackson A, et al. Use of normal tissue complication probability models in the clinic. Int J Radiat Oncol Biol Phys 2010;76:S10-19.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20171502">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

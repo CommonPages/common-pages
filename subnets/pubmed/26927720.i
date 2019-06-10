@@ -13,7 +13,7 @@ article '26927720
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kerr KM, Nicolson MC. Non-small cell lung cancer, PD-L1, and the pathologist. Arch Pathol Lab Med 2016;140:249-254. </div>
+    <div class="Citation-text">Kerr KM, Nicolson MC. Non-small cell lung cancer, PD-L1, and the pathologist. Arch Pathol Lab Med 2016;140:249-254.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26927720">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

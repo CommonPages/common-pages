@@ -8,7 +8,7 @@ article '29242895
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kim AS, Bartley AN, Bridge JA, et al. Comparison of laboratory-developed tests and FDA-approved assays for BRAF, EGFR, and KRAS testing. JAMA Oncol 2018;4:838-841. </div>
+    <div class="Citation-text">Kim AS, Bartley AN, Bridge JA, et al. Comparison of laboratory-developed tests and FDA-approved assays for BRAF, EGFR, and KRAS testing. JAMA Oncol 2018;4:838-841.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/29242895">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

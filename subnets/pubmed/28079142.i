@@ -8,7 +8,7 @@ article '28079142
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Zhao D, Chen X, Qin N, et al. The prognostic role of EGFR-TKIs for patients with advanced non-small cell lung cancer. Sci Rep 2017;7:40374. </div>
+    <div class="Citation-text">Zhao D, Chen X, Qin N, et al. The prognostic role of EGFR-TKIs for patients with advanced non-small cell lung cancer. Sci Rep 2017;7:40374.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/28079142">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Aziz et al., 2002
 article '11888775
 
+  index: hide
+  line !c
+    + c = Aggressive assessment and surgical intervention is safe, effective and warranted in patients with a second lung primary cancer if they satisfy the usual criteria of operability after full assessment. This is true for patients with metachronous cancers, while patients with synchronous cancers tend to have worse prognosis. A long term follow-up policy after the initial resection of the primary lung cancer is recommended at intervals of 6 months for at least 3-5 years and then annually to enable the early detection of the second cancer.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Aziz TM, Saad RA, Glasser J, et al. The management of second primary lung cancers. A single centre experience in 15 years. Eur J Cardiothorac Surg 2002;21:527-533. </div>
+    <div class="Citation-text">Aziz TM, Saad RA, Glasser J, et al. The management of second primary lung cancers. A single centre experience in 15 years. Eur J Cardiothorac Surg 2002;21:527-533.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/11888775">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

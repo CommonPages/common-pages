@@ -8,7 +8,7 @@ article '19443340
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Vokes EE, Senan S, Treat JA, Iscoe NA. PROCLAIM: A phase III study of pemetrexed, cisplatin, and radiation therapy followed by consolidation pemetrexed versus etoposide, cisplatin, and radiation therapy followed by consolidation cytotoxic chemotherapy of choice in locally advanced stage III non-small-cell lung cancer of other than predominantly squamous cell histology. Clin Lung Cancer 2009;10:193-198. </div>
+    <div class="Citation-text">Vokes EE, Senan S, Treat JA, Iscoe NA. PROCLAIM: A phase III study of pemetrexed, cisplatin, and radiation therapy followed by consolidation pemetrexed versus etoposide, cisplatin, and radiation therapy followed by consolidation cytotoxic chemotherapy of choice in locally advanced stage III non-small-cell lung cancer of other than predominantly squamous cell histology. Clin Lung Cancer 2009;10:193-198.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19443340">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

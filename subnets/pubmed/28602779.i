@@ -8,7 +8,7 @@ article '28602779
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Shaw AT, Kim TM, Crino L, et al. Ceritinib versus chemotherapy in patients with ALK-rearranged non-small-cell lung cancer previously given chemotherapy and crizotinib (ASCEND-5): a randomised, controlled, open-label, phase 3 trial. Lancet Oncol 2017;18:874-886. </div>
+    <div class="Citation-text">Shaw AT, Kim TM, Crino L, et al. Ceritinib versus chemotherapy in patients with ALK-rearranged non-small-cell lung cancer previously given chemotherapy and crizotinib (ASCEND-5): a randomised, controlled, open-label, phase 3 trial. Lancet Oncol 2017;18:874-886.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/28602779">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

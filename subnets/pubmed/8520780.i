@@ -8,7 +8,7 @@ article '8520780
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Chin R, Jr., Ward R, Keyes JW, et al. Mediastinal staging of non-small-cell lung cancer with positron emission tomography. Am J Respir Crit Care Med 1995;152:2090-2096. </div>
+    <div class="Citation-text">Chin R, Jr., Ward R, Keyes JW, et al. Mediastinal staging of non-small-cell lung cancer with positron emission tomography. Am J Respir Crit Care Med 1995;152:2090-2096.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/8520780">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Drilon et al., 2017
 article '27825636
 
+  index: hide
+  line !c
+    + c = The reported activity of cabozantinib in patients with RET-rearranged lung cancers defines RET rearrangements as actionable drivers in patients with lung cancers. An improved understanding of tumour biology and novel therapeutic approaches will be needed to improve outcomes with RET-directed targeted treatment.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Drilon A, Rekhtman N, Arcila M, et al. Cabozantinib in patients with advanced RET-rearranged non-small-cell lung cancer: an open-label, single-centre, phase 2, single-arm trial. Lancet Oncol 2016;17:1653-1660. </div>
+    <div class="Citation-text">Drilon A, Rekhtman N, Arcila M, et al. Cabozantinib in patients with advanced RET-rearranged non-small-cell lung cancer: an open-label, single-centre, phase 2, single-arm trial. Lancet Oncol 2016;17:1653-1660.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27825636">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

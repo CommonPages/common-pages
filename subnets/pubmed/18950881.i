@@ -13,7 +13,7 @@ article '18950881
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Rose J, Rodrigues G, Yaremko B, et al. Systematic review of dose-volume parameters in the prediction of esophagitis in thoracic radiotherapy. Radiother Oncol 2009;91:282-287. </div>
+    <div class="Citation-text">Rose J, Rodrigues G, Yaremko B, et al. Systematic review of dose-volume parameters in the prediction of esophagitis in thoracic radiotherapy. Radiother Oncol 2009;91:282-287.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18950881">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

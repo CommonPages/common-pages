@@ -5,10 +5,15 @@
 /// Chang et al., 2015
 article '25981812
 
+  index: hide
+  line !c
+    + c = SABR could be an option for treating operable stage I NSCLC. Because of the small patient sample size and short follow-up, additional randomised studies comparing SABR with surgery in operable patients are warranted.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Chang JY, Senan S, Paul MA, et al. Stereotactic ablative radiotherapy versus lobectomy for operable stage I non-small-cell lung cancer: a pooled analysis of two randomised trials. Lancet Oncol 2015;16:630-637. </div>
+    <div class="Citation-text">Chang JY, Senan S, Paul MA, et al. Stereotactic ablative radiotherapy versus lobectomy for operable stage I non-small-cell lung cancer: a pooled analysis of two randomised trials. Lancet Oncol 2015;16:630-637.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25981812">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

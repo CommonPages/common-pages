@@ -5,10 +5,15 @@
 /// Howington et al., 2013
 article '23649443
 
+  index: hide
+  line !c
+    + c = Surgical resection remains the primary and preferred approach to the treatment of stage I and II NSCLC. Lobectomy or greater resection remains the preferred approach to T1b and larger tumors. The use of sublobar resection for T1a tumors and the application of adjuvant radiation therapy in this group are being actively studied in large clinical trials. Every patient should have systematic mediastinal lymph node sampling at the time of curative intent surgical resection, and mediastinal lymphadenectomy can be performed without increased morbidity. Perioperative morbidity and mortality are reduced and long-term survival is improved when surgical resection is performed by a board-certified thoracic surgeon. The use of adjuvant chemotherapy for stage II NSCLC is recommended and has shown benefit. The use of adjuvant radiation or chemotherapy for stage I NSCLC is of unproven benefit. Primary radiation therapy remains the primary curative intent approach for patients who refuse surgical resection or are determined by a multidisciplinary team to be inoperable. There is growing evidence that SBRT provides greater local control than standard radiation therapy for high-risk and medically inoperable patients with NSCLC. The role of ablative therapies in the treatment of high-risk patients with stage I NSCLC is evolving. Radiofrequency ablation, the most studied of the ablative modalities, has been used effectively in medically inoperable patients with small (&amp;lt; 3 cm) peripheral NSCLC that are clinical stage I.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Howington JA, Blum MG, Chang AC, et al. Treatment of stage I and II non-small cell lung cancer: Diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines. Chest 2013;143:e278S-313S. </div>
+    <div class="Citation-text">Howington JA, Blum MG, Chang AC, et al. Treatment of stage I and II non-small cell lung cancer: Diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines. Chest 2013;143:e278S-313S.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23649443">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

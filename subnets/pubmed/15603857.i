@@ -8,7 +8,7 @@ article '15603857
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Burdett S, Stewart L, Group PM-a. Postoperative radiotherapy in non-small-cell lung cancer: update of an individual patient data meta-analysis. Lung Cancer 2005;47:81-83. </div>
+    <div class="Citation-text">Burdett S, Stewart L, Group PM-a. Postoperative radiotherapy in non-small-cell lung cancer: update of an individual patient data meta-analysis. Lung Cancer 2005;47:81-83.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/15603857">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Shirvani et al., 2015
 article '25321323
 
+  index: hide
+  line !c
+    + c = Lobectomy was associated with better outcomes than sublobar resection in elderly patients with early-stage NSCLC. Propensity score matching suggests that SABR may be a good option among patients with very advanced age and multiple comorbidities.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Shirvani SM, Jiang J, Chang JY, et al. Lobectomy, sublobar resection, and stereotactic ablative radiotherapy for early-stage non-small cell lung cancers in the elderly. JAMA Surg 2014;149:1244-1253. </div>
+    <div class="Citation-text">Shirvani SM, Jiang J, Chang JY, et al. Lobectomy, sublobar resection, and stereotactic ablative radiotherapy for early-stage non-small cell lung cancers in the elderly. JAMA Surg 2014;149:1244-1253.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25321323">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

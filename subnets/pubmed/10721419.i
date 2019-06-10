@@ -8,7 +8,7 @@ article '10721419
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Ordonez NG. Thyroid transcription factor-1 is a marker of lung and thyroid carcinomas. Adv Anat Pathol 2000;7:123-127. </div>
+    <div class="Citation-text">Ordonez NG. Thyroid transcription factor-1 is a marker of lung and thyroid carcinomas. Adv Anat Pathol 2000;7:123-127.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/10721419">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

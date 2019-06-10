@@ -5,10 +5,15 @@
 /// Wang et al., 2009
 article '18929449
 
+  index: hide
+  line !c
+    + c = Radiation dose and use of chemotherapy are independent predictors of OS in Stage III NSCLC, and concurrent chemoradiation is associated with the best survival. There is no interaction between RT dose and chemotherapy.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Wang L, Correa CR, Zhao L, et al. The effect of radiation dose and chemotherapy on overall survival in 237 patients with Stage III non-small-cell lung cancer. Int J Radiat Oncol Biol Phys 2009;73:1383-1390. </div>
+    <div class="Citation-text">Wang L, Correa CR, Zhao L, et al. The effect of radiation dose and chemotherapy on overall survival in 237 patients with Stage III non-small-cell lung cancer. Int J Radiat Oncol Biol Phys 2009;73:1383-1390.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18929449">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

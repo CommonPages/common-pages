@@ -5,10 +5,15 @@
 /// Sun et al., 2011
 article '21135267
 
+  index: hide
+  line !c
+    + c = PCI in stage III NSCLC significantly decreases the risk of BM without improving 1-year OS. There were no significant differences in global cognitive function (MMSE) or QOL after PCI, but there was a significant decline in memory (HVLT) at 1 year. This study provides prospective data regarding the relative risks and benefits of PCI in this setting and the need to use sensitive cognitive assessments.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Sun A, Bae K, Gore EM, et al. Phase III trial of prophylactic cranial irradiation compared with observation in patients with locally advanced non-small-cell lung cancer: neurocognitive and quality-of-life analysis. J Clin Oncol 2011;29:279-286. </div>
+    <div class="Citation-text">Sun A, Bae K, Gore EM, et al. Phase III trial of prophylactic cranial irradiation compared with observation in patients with locally advanced non-small-cell lung cancer: neurocognitive and quality-of-life analysis. J Clin Oncol 2011;29:279-286.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21135267">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

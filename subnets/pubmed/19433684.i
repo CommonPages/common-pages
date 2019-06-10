@@ -5,10 +5,15 @@
 /// Patel et al., 2009
 article '19433684
 
+  index: hide
+  line !c
+    + c = This regimen, involving a maintenance component, was associated with acceptable toxicity and relatively long survival in patients with advanced nonsquamous NSCLC. These results justify a phase III comparison against the standard-of-care in this patient population.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Patel JD, Hensing TA, Rademaker A, et al. Phase II study of pemetrexed and carboplatin plus bevacizumab with maintenance pemetrexed and bevacizumab as first-line therapy for nonsquamous non-small-cell lung cancer. J Clin Oncol 2009;27:3284-3289. </div>
+    <div class="Citation-text">Patel JD, Hensing TA, Rademaker A, et al. Phase II study of pemetrexed and carboplatin plus bevacizumab with maintenance pemetrexed and bevacizumab as first-line therapy for nonsquamous non-small-cell lung cancer. J Clin Oncol 2009;27:3284-3289.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19433684">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

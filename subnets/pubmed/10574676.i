@@ -8,7 +8,7 @@ article '10574676
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Rosell R, Gomez-Codina J, Camps C, et al. Preresectional chemotherapy in stage IIIA non-small-cell lung cancer: a 7-year assessment of a randomized controlled trial. Lung Cancer 1999;26:7-14. </div>
+    <div class="Citation-text">Rosell R, Gomez-Codina J, Camps C, et al. Preresectional chemotherapy in stage IIIA non-small-cell lung cancer: a 7-year assessment of a randomized controlled trial. Lung Cancer 1999;26:7-14.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/10574676">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

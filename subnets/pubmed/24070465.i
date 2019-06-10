@@ -8,7 +8,7 @@ article '24070465
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Meoni G, Cecere FL, Lucherini E, Di Costanzo F. Medical treatment of advanced non-small cell lung cancer in elderly patients: a review of the role of chemotherapy and targeted agents. J Geriatr Oncol 2013;4:282-290. </div>
+    <div class="Citation-text">Meoni G, Cecere FL, Lucherini E, Di Costanzo F. Medical treatment of advanced non-small cell lung cancer in elderly patients: a review of the role of chemotherapy and targeted agents. J Geriatr Oncol 2013;4:282-290.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24070465">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

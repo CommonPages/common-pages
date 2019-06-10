@@ -8,7 +8,7 @@ article '19022040
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Whitson BA, Groth SS, Duval SJ, et al. Surgery for early-stage non-small cell lung cancer: a systematic review of the video-assisted thoracoscopic surgery versus thoracotomy approaches to lobectomy. Ann Thorac Surg 2008;86:2008-2016; discussion 2016-2008. </div>
+    <div class="Citation-text">Whitson BA, Groth SS, Duval SJ, et al. Surgery for early-stage non-small cell lung cancer: a systematic review of the video-assisted thoracoscopic surgery versus thoracotomy approaches to lobectomy. Ann Thorac Surg 2008;86:2008-2016; discussion 2016-2008.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19022040">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

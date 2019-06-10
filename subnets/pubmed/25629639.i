@@ -13,7 +13,7 @@ article '25629639
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> van den Berg LL, Klinkenberg TJ, Groen HJ, Widder J. Patterns of recurrence and survival after surgery or stereotactic radiotherapy for early stage NSCLC. J Thorac Oncol 2015;10:826-831. </div>
+    <div class="Citation-text">van den Berg LL, Klinkenberg TJ, Groen HJ, Widder J. Patterns of recurrence and survival after surgery or stereotactic radiotherapy for early stage NSCLC. J Thorac Oncol 2015;10:826-831.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25629639">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '20432502
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Dias-Santagata D, Akhavanfard S, David SS, et al. Rapid targeted mutational analysis of human tumours: a clinical platform to guide personalized cancer medicine. EMBO Mol Med 2010;2:146-158. </div>
+    <div class="Citation-text">Dias-Santagata D, Akhavanfard S, David SS, et al. Rapid targeted mutational analysis of human tumours: a clinical platform to guide personalized cancer medicine. EMBO Mol Med 2010;2:146-158.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20432502">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

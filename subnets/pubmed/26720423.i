@@ -5,10 +5,15 @@
 /// Park et al., 2016
 article '26720423
 
+  index: hide
+  line !c
+    + c = ASPIRATION supports the efficacy of first-line erlotinib therapy in patients with EGFR mutation-positive NSCLC and that treatment beyond progression is feasible and may delay salvage therapy in selected patients.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Park K, Yu CJ, Kim SW, et al. First-line erlotinib therapy until and beyond response evaluation criteria in solid tumors progression in Asian patients with epidermal growth factor receptor mutation-positive non-small-cell lung cancer: the ASPIRATION study. JAMA Oncol 2016;2:305-312. </div>
+    <div class="Citation-text">Park K, Yu CJ, Kim SW, et al. First-line erlotinib therapy until and beyond response evaluation criteria in solid tumors progression in Asian patients with epidermal growth factor receptor mutation-positive non-small-cell lung cancer: the ASPIRATION study. JAMA Oncol 2016;2:305-312.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26720423">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

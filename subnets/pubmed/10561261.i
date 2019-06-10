@@ -5,10 +5,15 @@
 /// Crinò et al., 2000
 article '10561261
 
+  index: hide
+  line !c
+    + c = In this experience, gemcitabine showed significant activity without relevant toxicity, mainly in patients who were previously responsive to chemotherapy. This suggests a possible role for gemcitabine as a second-line treatment in patients who had a previous response or achieved stable disease with a platinum-containing regimen.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Crino L, Mosconi AM, Scagliotti G, et al. Gemcitabine as second-line treatment for advanced non-small-cell lung cancer: A phase II trial. J Clin Oncol 1999;17:2081-2085. </div>
+    <div class="Citation-text">Crino L, Mosconi AM, Scagliotti G, et al. Gemcitabine as second-line treatment for advanced non-small-cell lung cancer: A phase II trial. J Clin Oncol 1999;17:2081-2085.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/10561261">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

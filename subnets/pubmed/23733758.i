@@ -8,7 +8,7 @@ article '23733758
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Peters S, Michielin O, Zimmermann S. Dramatic response induced by vemurafenib in a BRAF V600E-mutated lung adenocarcinoma. J Clin Oncol 2013;31:e341-344. </div>
+    <div class="Citation-text">Peters S, Michielin O, Zimmermann S. Dramatic response induced by vemurafenib in a BRAF V600E-mutated lung adenocarcinoma. J Clin Oncol 2013;31:e341-344.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23733758">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

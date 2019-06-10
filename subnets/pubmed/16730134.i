@@ -13,7 +13,7 @@ article '16730134
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Schild SE, McGinnis WL, Graham D, et al. Results of a Phase I trial of concurrent chemotherapy and escalating doses of radiation for unresectable non-small-cell lung cancer. Int J Radiat Oncol Biol Phys 2006;65:1106-1111. </div>
+    <div class="Citation-text">Schild SE, McGinnis WL, Graham D, et al. Results of a Phase I trial of concurrent chemotherapy and escalating doses of radiation for unresectable non-small-cell lung cancer. Int J Radiat Oncol Biol Phys 2006;65:1106-1111.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/16730134">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

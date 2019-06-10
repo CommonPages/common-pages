@@ -13,7 +13,7 @@ article '25567908
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Drilon A, Wang L, Arcila ME, et al. Broad, hybrid capture-based next-generation sequencing identifies actionable genomic alterations in lung adenocarcinomas otherwise negative for such alterations by other genomic testing approaches. Clin Cancer Res 2015;21:3631-3639. </div>
+    <div class="Citation-text">Drilon A, Wang L, Arcila ME, et al. Broad, hybrid capture-based next-generation sequencing identifies actionable genomic alterations in lung adenocarcinomas otherwise negative for such alterations by other genomic testing approaches. Clin Cancer Res 2015;21:3631-3639.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25567908">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

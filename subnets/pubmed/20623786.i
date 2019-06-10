@@ -13,7 +13,7 @@ article '20623786
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Everitt S, Herschtal A, Callahan J, et al. High rates of tumor growth and disease progression detected on serial pretreatment fluorodeoxyglucose-positron emission tomography/computed tomography scans in radical radiotherapy candidates with nonsmall cell lung cancer. Cancer 2010;116:5030-5037. </div>
+    <div class="Citation-text">Everitt S, Herschtal A, Callahan J, et al. High rates of tumor growth and disease progression detected on serial pretreatment fluorodeoxyglucose-positron emission tomography/computed tomography scans in radical radiotherapy candidates with nonsmall cell lung cancer. Cancer 2010;116:5030-5037.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20623786">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '25841625
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Woody NM, Stephans KL, Marwaha G, et al. Stereotactic Body Radiation Therapy for Non-Small Cell Lung Cancer Tumors Greater Than 5 cm: Safety and Efficacy. Int J Radiat Oncol Biol Phys 2015;92:325-331. </div>
+    <div class="Citation-text">Woody NM, Stephans KL, Marwaha G, et al. Stereotactic Body Radiation Therapy for Non-Small Cell Lung Cancer Tumors Greater Than 5 cm: Safety and Efficacy. Int J Radiat Oncol Biol Phys 2015;92:325-331.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25841625">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

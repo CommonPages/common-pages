@@ -5,10 +5,15 @@
 /// Reichegger et al., 2017
 article '27486808
 
+  index: hide
+  line !c
+    + c = These data show that re-biopsy in EGFR-mutated non-small cell lung cancer patients with acquired TKI resistance should be performed.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Reichegger H, Jochum W, Forbs D, et al. Rapid intracranial response to osimertinib in a patient with epidermal growth factor receptor T790M-positive adenocarcinoma of the lung. Oncol Res Treat 2016;39:461-463. </div>
+    <div class="Citation-text">Reichegger H, Jochum W, Forbs D, et al. Rapid intracranial response to osimertinib in a patient with epidermal growth factor receptor T790M-positive adenocarcinoma of the lung. Oncol Res Treat 2016;39:461-463.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27486808">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

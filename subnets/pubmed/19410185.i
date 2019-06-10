@@ -8,7 +8,7 @@ article '19410185
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Hirsch FR, Bunn PA, Jr. EGFR testing in lung cancer is ready for prime time. Lancet Oncol 2009;10:432-433. </div>
+    <div class="Citation-text">Hirsch FR, Bunn PA, Jr. EGFR testing in lung cancer is ready for prime time. Lancet Oncol 2009;10:432-433.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19410185">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Mills et al., 2014
 article '24323793
 
+  index: hide
+  line !c
+    + c = Smoking cessation therapies do not appear to raise the risk of serious cardiovascular disease events.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Mills EJ, Thorlund K, Eapen S, et al. Cardiovascular events associated with smoking cessation pharmacotherapies: a network meta-analysis. Circulation 2014;129:28-41. </div>
+    <div class="Citation-text">Mills EJ, Thorlund K, Eapen S, et al. Cardiovascular events associated with smoking cessation pharmacotherapies: a network meta-analysis. Circulation 2014;129:28-41.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24323793">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

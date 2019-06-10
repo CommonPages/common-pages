@@ -13,7 +13,7 @@ article '24674156
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Patel SH, Ma Y, Wernicke AG, et al. Evidence supporting contemporary post-operative radiation therapy (PORT) using linear accelerators in N2 lung cancer. Lung Cancer 2014;84:156-160. </div>
+    <div class="Citation-text">Patel SH, Ma Y, Wernicke AG, et al. Evidence supporting contemporary post-operative radiation therapy (PORT) using linear accelerators in N2 lung cancer. Lung Cancer 2014;84:156-160.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24674156">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

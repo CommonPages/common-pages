@@ -13,7 +13,7 @@ article '18640297
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Cerfolio RJ, Bryant AS. Survival of patients with unsuspected N2 (stage IIIA) nonsmall-cell lung cancer. Ann Thorac Surg 2008;86:362-366; discussion 366-367. </div>
+    <div class="Citation-text">Cerfolio RJ, Bryant AS. Survival of patients with unsuspected N2 (stage IIIA) nonsmall-cell lung cancer. Ann Thorac Surg 2008;86:362-366; discussion 366-367.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18640297">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

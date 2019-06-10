@@ -8,7 +8,7 @@ article '7054602
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Pearson FG, DeLarue NC, Ilves R, et al. Significance of positive superior mediastinal nodes identified at mediastinoscopy in patients with resectable cancer of the lung. J Thorac Cardiovasc Surg 1982;83:1-11. </div>
+    <div class="Citation-text">Pearson FG, DeLarue NC, Ilves R, et al. Significance of positive superior mediastinal nodes identified at mediastinoscopy in patients with resectable cancer of the lung. J Thorac Cardiovasc Surg 1982;83:1-11.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/7054602">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

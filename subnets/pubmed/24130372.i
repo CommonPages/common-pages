@@ -5,10 +5,15 @@
 /// Yan et al., 2014
 article '24130372
 
+  index: hide
+  line !c
+    + c = The present Consensus Statement represents a collective agreement among 50 international experts to establish a standardized practice of VATS lobectomy for the thoracic surgical community after 20 years of clinical experience.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Yan TD, Cao C, D'Amico TA, et al. Video-assisted thoracoscopic surgery lobectomy at 20 years: a consensus statement. Eur J Cardiothorac Surg 2014;45:633-639. </div>
+    <div class="Citation-text">Yan TD, Cao C, D'Amico TA, et al. Video-assisted thoracoscopic surgery lobectomy at 20 years: a consensus statement. Eur J Cardiothorac Surg 2014;45:633-639.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24130372">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

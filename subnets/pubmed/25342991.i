@@ -8,7 +8,7 @@ article '25342991
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Stinchcombe TE. Novel agents in development for advanced non-small cell lung cancer. Ther Adv Med Oncol 2014;6:240-253. </div>
+    <div class="Citation-text">Stinchcombe TE. Novel agents in development for advanced non-small cell lung cancer. Ther Adv Med Oncol 2014;6:240-253.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25342991">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

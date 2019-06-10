@@ -8,7 +8,7 @@ article '23714521
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> West H, Oxnard GR, Doebele RC. Acquired resistance to targeted therapies in advanced non-small cell lung cancer: new strategies and new agents. Am Soc Clin Oncol Educ Book 2013:272-278. </div>
+    <div class="Citation-text">West H, Oxnard GR, Doebele RC. Acquired resistance to targeted therapies in advanced non-small cell lung cancer: new strategies and new agents. Am Soc Clin Oncol Educ Book 2013:272-278.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23714521">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

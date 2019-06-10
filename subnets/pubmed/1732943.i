@@ -8,7 +8,7 @@ article '1732943
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> McLoud TC, Bourgouin PM, Greenberg RW, et al. Bronchogenic carcinoma: analysis of staging in the mediastinum with CT by correlative lymph node mapping and sampling. Radiology 1992;182:319-323. </div>
+    <div class="Citation-text">McLoud TC, Bourgouin PM, Greenberg RW, et al. Bronchogenic carcinoma: analysis of staging in the mediastinum with CT by correlative lymph node mapping and sampling. Radiology 1992;182:319-323.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/1732943">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

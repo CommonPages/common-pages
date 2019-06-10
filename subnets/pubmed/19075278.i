@@ -5,10 +5,15 @@
 /// Fidias et al., 2009
 article '19075278
 
+  index: hide
+  line !c
+    + c = We observed a statistically significant improvement in PFS and a nonstatistically significant increase in OS when docetaxel was administered immediately after front-line GC, without increasing toxicity or decreasing QOL.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Fidias PM, Dakhil SR, Lyss AP, et al. Phase III study of immediate compared with delayed docetaxel after front-line therapy with gemcitabine plus carboplatin in advanced non-small-cell lung cancer. J Clin Oncol 2009;27:591-598. </div>
+    <div class="Citation-text">Fidias PM, Dakhil SR, Lyss AP, et al. Phase III study of immediate compared with delayed docetaxel after front-line therapy with gemcitabine plus carboplatin in advanced non-small-cell lung cancer. J Clin Oncol 2009;27:591-598.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19075278">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

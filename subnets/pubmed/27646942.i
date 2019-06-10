@@ -8,7 +8,7 @@ article '27646942
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Naidoo J, Wang X, Woo KM, et al. Pneumonitis in patients treated with anti-programmed death-1/programmed death ligand 1 therapy. J Clin Oncol 2017;35:709-717. </div>
+    <div class="Citation-text">Naidoo J, Wang X, Woo KM, et al. Pneumonitis in patients treated with anti-programmed death-1/programmed death ligand 1 therapy. J Clin Oncol 2017;35:709-717.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27646942">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '19433683
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Gronberg BH, Bremnes RM, Flotten O, et al. Phase III study by the Norwegian lung cancer study group: pemetrexed plus carboplatin compared with gemcitabine plus carboplatin as first-line chemotherapy in advanced non-small-cell lung cancer. J Clin Oncol 2009;27:3217-3224. </div>
+    <div class="Citation-text">Gronberg BH, Bremnes RM, Flotten O, et al. Phase III study by the Norwegian lung cancer study group: pemetrexed plus carboplatin compared with gemcitabine plus carboplatin as first-line chemotherapy in advanced non-small-cell lung cancer. J Clin Oncol 2009;27:3217-3224.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19433683">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

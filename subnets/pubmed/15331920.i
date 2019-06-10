@@ -5,6 +5,11 @@
 /// Yasuda et al., 2004
 article '15331920
 
+  index: hide
+  line !c
+    + c = Low-dose weekly paclitaxel is a promising therapy with high effectiveness for advanced NSCLC in patients with NSCLC who have failed previous treatments.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">

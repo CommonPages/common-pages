@@ -8,7 +8,7 @@ article '25366691
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Falchook GS, Ordonez NG, Bastida CC, et al. Effect of the RET inhibitor vandetanib in a patient with RET fusion-positive metastatic non-small-cell lung cancer. J Clin Oncol 2016;34:e141-144. </div>
+    <div class="Citation-text">Falchook GS, Ordonez NG, Bastida CC, et al. Effect of the RET inhibitor vandetanib in a patient with RET fusion-positive metastatic non-small-cell lung cancer. J Clin Oncol 2016;34:e141-144.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25366691">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

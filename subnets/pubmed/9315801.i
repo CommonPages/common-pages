@@ -13,7 +13,7 @@ article '9315801
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Adebonojo SA, Moritz DM, Danby CA. The results of modern surgical therapy for multiple primary lung cancers. Chest 1997;112:693-701. </div>
+    <div class="Citation-text">Adebonojo SA, Moritz DM, Danby CA. The results of modern surgical therapy for multiple primary lung cancers. Chest 1997;112:693-701.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/9315801">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

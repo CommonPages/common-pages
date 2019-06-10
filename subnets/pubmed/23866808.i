@@ -13,7 +13,7 @@ article '23866808
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Lee PC, Nasar A, Port JL, et al. Long-term survival after lobectomy for non-small cell lung cancer by video-assisted thoracic surgery versus thoracotomy. Ann Thorac Surg 2013;96:951-960; discussion 960-951. </div>
+    <div class="Citation-text">Lee PC, Nasar A, Port JL, et al. Long-term survival after lobectomy for non-small cell lung cancer by video-assisted thoracic surgery versus thoracotomy. Ann Thorac Surg 2013;96:951-960; discussion 960-951.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23866808">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

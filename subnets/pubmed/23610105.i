@@ -5,10 +5,15 @@
 /// Mazières et al., 2013
 article '23610105
 
+  index: hide
+  line !c
+    + c = This study, the largest to date dedicated to HER2-mutated NSCLC, reinforces the importance of screening for HER2 mutations in lung adenocarcinomas and suggests the potential efficacy of HER2-targeted drugs in this population.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Mazieres J, Peters S, Lepage B, et al. Lung cancer that harbors an HER2 mutation: epidemiologic characteristics and therapeutic perspectives. J Clin Oncol 2013;31:1997-2003. </div>
+    <div class="Citation-text">Mazieres J, Peters S, Lepage B, et al. Lung cancer that harbors an HER2 mutation: epidemiologic characteristics and therapeutic perspectives. J Clin Oncol 2013;31:1997-2003.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23610105">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '18990507
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Takeda A, Sanuki N, Kunieda E, et al. Stereotactic body radiotherapy for primary lung cancer at a dose of 50 Gy total in five fractions to the periphery of the planning target volume calculated using a superposition algorithm. Int J Radiat Oncol Biol Phys 2009;73:442-448. </div>
+    <div class="Citation-text">Takeda A, Sanuki N, Kunieda E, et al. Stereotactic body radiotherapy for primary lung cancer at a dose of 50 Gy total in five fractions to the periphery of the planning target volume calculated using a superposition algorithm. Int J Radiat Oncol Biol Phys 2009;73:442-448.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18990507">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

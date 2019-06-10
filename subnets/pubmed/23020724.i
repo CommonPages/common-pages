@@ -8,7 +8,7 @@ article '23020724
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Bang YJ. Treatment of ALK-positive non-small cell lung cancer. Arch Pathol Lab Med 2012;136:1201-1204. </div>
+    <div class="Citation-text">Bang YJ. Treatment of ALK-positive non-small cell lung cancer. Arch Pathol Lab Med 2012;136:1201-1204.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23020724">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

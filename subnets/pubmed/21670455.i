@@ -5,10 +5,15 @@
 /// Fukuoka et al., 2011
 article '21670455
 
+  index: hide
+  line !c
+    + c = EGFR mutations are the strongest predictive biomarker for PFS and tumor response to first-line gefitinib versus carboplatin/paclitaxel. The predictive value of EGFR gene copy number was driven by coexisting EGFR mutation (post hoc analysis). Treatment-related differences observed for PFS in the EGFR mutation-positive subgroup were not apparent for OS. OS results were likely confounded by the high proportion of patients crossing over to the alternative treatment.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Fukuoka M, Wu YL, Thongprasert S, et al. Biomarker analyses and final overall survival results from a phase III, randomized, open-label, first-line study of gefitinib versus carboplatin/paclitaxel in clinically selected patients with advanced non-small-cell lung cancer in Asia (IPASS). J Clin Oncol 2011;29:2866-2874. </div>
+    <div class="Citation-text">Fukuoka M, Wu YL, Thongprasert S, et al. Biomarker analyses and final overall survival results from a phase III, randomized, open-label, first-line study of gefitinib versus carboplatin/paclitaxel in clinically selected patients with advanced non-small-cell lung cancer in Asia (IPASS). J Clin Oncol 2011;29:2866-2874.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21670455">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

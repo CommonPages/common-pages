@@ -8,7 +8,7 @@ article '24669016
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Besse B, Adjei A, Baas P, et al. 2nd ESMO Consensus Conference on Lung Cancer: non-small-cell lung cancer first-line/second and further lines of treatment in advanced disease. Ann Oncol 2014;25:1475-1484. </div>
+    <div class="Citation-text">Besse B, Adjei A, Baas P, et al. 2nd ESMO Consensus Conference on Lung Cancer: non-small-cell lung cancer first-line/second and further lines of treatment in advanced disease. Ann Oncol 2014;25:1475-1484.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24669016">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

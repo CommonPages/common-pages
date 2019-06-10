@@ -13,7 +13,7 @@ article '18263663
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Aubin HJ, Bobak A, Britton JR, et al. Varenicline versus transdermal nicotine patch for smoking cessation: results from a randomised open-label trial. Thorax 2008;63:717-724. </div>
+    <div class="Citation-text">Aubin HJ, Bobak A, Britton JR, et al. Varenicline versus transdermal nicotine patch for smoking cessation: results from a randomised open-label trial. Thorax 2008;63:717-724.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18263663">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

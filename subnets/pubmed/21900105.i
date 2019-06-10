@@ -5,10 +5,15 @@
 /// Azzoli et al., 2012
 article '21900105
 
+  index: hide
+  line !c
+    + c = In patients with stage IV NSCLC, first-line cytotoxic chemotherapy should be stopped at disease progression or after four cycles in patients whose disease is stable but not responding to treatment. Two-drug cytotoxic combinations should be administered for no more than six cycles. For those with stable disease or response after four cycles, immediate treatment with an alternative, single-agent chemotherapy such as pemetrexed in patients with nonsquamous histology, docetaxel in unselected patients, or erlotinib in unselected patients may be considered. Limitations of this data are such that a break from cytotoxic chemotherapy after a fixed course is also acceptable, with initiation of second-line chemotherapy at disease progression.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Azzoli CG, Temin S, Aliff T, et al. 2011 Focused Update of 2009 American Society of Clinical Oncology Clinical Practice Guideline Update on Chemotherapy for Stage IV Non-Small-Cell Lung Cancer. J Clin Oncol 2011;29:3825-3831. </div>
+    <div class="Citation-text">Azzoli CG, Temin S, Aliff T, et al. 2011 Focused Update of 2009 American Society of Clinical Oncology Clinical Practice Guideline Update on Chemotherapy for Stage IV Non-Small-Cell Lung Cancer. J Clin Oncol 2011;29:3825-3831.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21900105">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

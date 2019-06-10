@@ -8,7 +8,7 @@ article '27604504
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Mulvenna P, Nankivell M, Barton R, et al. Dexamethasone and supportive care with or without whole brain radiotherapy in treating patients with non-small cell lung cancer with brain metastases unsuitable for resection or stereotactic radiotherapy (QUARTZ): results from a phase 3, non-inferiority, randomised trial. Lancet 2016;388:2004-2014. </div>
+    <div class="Citation-text">Mulvenna P, Nankivell M, Barton R, et al. Dexamethasone and supportive care with or without whole brain radiotherapy in treating patients with non-small cell lung cancer with brain metastases unsuitable for resection or stereotactic radiotherapy (QUARTZ): results from a phase 3, non-inferiority, randomised trial. Lancet 2016;388:2004-2014.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27604504">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

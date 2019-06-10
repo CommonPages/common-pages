@@ -8,7 +8,7 @@ article '21500121
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Travis WD, Rekhtman N. Pathological diagnosis and classification of lung cancer in small biopsies and cytology: strategic management of tissue for molecular testing. Semin Respir Crit Care Med 2011;32:22-31. </div>
+    <div class="Citation-text">Travis WD, Rekhtman N. Pathological diagnosis and classification of lung cancer in small biopsies and cytology: strategic management of tissue for molecular testing. Semin Respir Crit Care Med 2011;32:22-31.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21500121">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

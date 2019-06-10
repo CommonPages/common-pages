@@ -5,10 +5,15 @@
 /// Gettinger et al., 2015
 article '25897158
 
+  index: hide
+  line !c
+    + c = Nivolumab monotherapy produced durable responses and encouraging survival rates in patients with heavily pretreated NSCLC. Randomized clinical trials with nivolumab in advanced NSCLC are ongoing.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Gettinger SN, Horn L, Gandhi L, et al. Overall survival and long-term safety of nivolumab (anti-programmed death 1 antibody, BMS-936558, ONO-4538) in patients with previously treated advanced non-small-cell lung cancer. J Clin Oncol 2015;33:2004-2012. </div>
+    <div class="Citation-text">Gettinger SN, Horn L, Gandhi L, et al. Overall survival and long-term safety of nivolumab (anti-programmed death 1 antibody, BMS-936558, ONO-4538) in patients with previously treated advanced non-small-cell lung cancer. J Clin Oncol 2015;33:2004-2012.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25897158">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '23819496
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Filippi AR, Badellino S, Guarneri A, et al. Outcomes of single fraction stereotactic ablative radiotherapy for lung metastases. Technol Cancer Res Treat 2014;13:37-45. </div>
+    <div class="Citation-text">Filippi AR, Badellino S, Guarneri A, et al. Outcomes of single fraction stereotactic ablative radiotherapy for lung metastases. Technol Cancer Res Treat 2014;13:37-45.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23819496">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

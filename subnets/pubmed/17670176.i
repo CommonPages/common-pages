@@ -8,7 +8,7 @@ article '17670176
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Solaini L, Prusciano F, Bagioni P, Poddie DB. Long-term results of video-assisted thoracic surgery lobectomy for stage I non-small cell lung cancer: a single-centre study of 104 cases. Interact Cardiovasc Thorac Surg 2004;3:57-62. </div>
+    <div class="Citation-text">Solaini L, Prusciano F, Bagioni P, Poddie DB. Long-term results of video-assisted thoracic surgery lobectomy for stage I non-small cell lung cancer: a single-centre study of 104 cases. Interact Cardiovasc Thorac Surg 2004;3:57-62.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17670176">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

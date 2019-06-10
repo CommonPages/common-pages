@@ -8,7 +8,7 @@ article '24638905
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Pallis AG, Gridelli C, Wedding U, et al. Management of elderly patients with NSCLC; updated expert's opinion paper: EORTC Elderly Task Force, Lung Cancer Group and International Society for Geriatric Oncology. Ann Oncol 2014;25:1270-1283. </div>
+    <div class="Citation-text">Pallis AG, Gridelli C, Wedding U, et al. Management of elderly patients with NSCLC; updated expert's opinion paper: EORTC Elderly Task Force, Lung Cancer Group and International Society for Geriatric Oncology. Ann Oncol 2014;25:1270-1283.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24638905">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

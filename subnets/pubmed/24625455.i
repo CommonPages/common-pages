@@ -8,7 +8,7 @@ article '24625455
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kunkler IH, Audisio R, Belkacemi Y, et al. Review of current best practice and priorities for research in radiation oncology for elderly patients with cancer: the International Society of Geriatric Oncology (SIOG) task force. Ann Oncol 2014;25:2134-2146. </div>
+    <div class="Citation-text">Kunkler IH, Audisio R, Belkacemi Y, et al. Review of current best practice and priorities for research in radiation oncology for elderly patients with cancer: the International Society of Geriatric Oncology (SIOG) task force. Ann Oncol 2014;25:2134-2146.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24625455">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

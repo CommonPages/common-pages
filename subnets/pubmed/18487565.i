@@ -5,10 +5,15 @@
 /// Socinski et al., 2008
 article '18487565
 
+  index: hide
+  line !c
+    + c = Arm A reached the primary end point with an estimated MST longer than 18 months and will be compared with a standard dose of TRT in a planned randomized phase III trial in the United States cooperative groups.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Socinski MA, Blackstock AW, Bogart JA, et al. Randomized phase II trial of induction chemotherapy followed by concurrent chemotherapy and dose-escalated thoracic conformal radiotherapy (74 Gy) in stage III non-small-cell lung cancer: CALGB 30105. J Clin Oncol 2008;26:2457-2463. </div>
+    <div class="Citation-text">Socinski MA, Blackstock AW, Bogart JA, et al. Randomized phase II trial of induction chemotherapy followed by concurrent chemotherapy and dose-escalated thoracic conformal radiotherapy (74 Gy) in stage III non-small-cell lung cancer: CALGB 30105. J Clin Oncol 2008;26:2457-2463.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18487565">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

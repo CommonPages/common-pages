@@ -8,7 +8,7 @@ article '3830113
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Omenn GS, Merchant J, Boatman E, et al. Contribution of environmental fibers to respiratory cancer. Environ Health Perspect 1986;70:51-56. </div>
+    <div class="Citation-text">Omenn GS, Merchant J, Boatman E, et al. Contribution of environmental fibers to respiratory cancer. Environ Health Perspect 1986;70:51-56.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/3830113">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -5,10 +5,15 @@
 /// Henschke et al., 1999
 article '10408484
 
+  index: hide
+  line !c
+    + c = Low-dose CT can greatly improve the likelihood of detection of small non-calcified nodules, and thus of lung cancer at an earlier and potentially more curable stage. Although false-positive CT results are common, they can be managed with little use of invasive diagnostic procedures.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Henschke CI, McCauley DI, Yankelevitz DF, et al. Early Lung Cancer Action Project: overall design and findings from baseline screening. Lancet 1999;354:99-105. </div>
+    <div class="Citation-text">Henschke CI, McCauley DI, Yankelevitz DF, et al. Early Lung Cancer Action Project: overall design and findings from baseline screening. Lancet 1999;354:99-105.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/10408484">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '29989854
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Li BT, Shen R, Buonocore D, et al. Ado-trastuzumab emtansine for patients with HER2-mutant lung cancers: results from a phase II basket trial. J Clin Oncol 2018;36(24):2532-2537. </div>
+    <div class="Citation-text">Li BT, Shen R, Buonocore D, et al. Ado-trastuzumab emtansine for patients with HER2-mutant lung cancers: results from a phase II basket trial. J Clin Oncol 2018;36(24):2532-2537.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/29989854">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

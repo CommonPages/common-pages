@@ -5,6 +5,11 @@
 /// de Cabanyes Candela et al., 2010
 article '20186025
 
+  index: hide
+  line !c
+    + c = The ability to identify patients who have achieved mediastinal downstaging other than by a careful primary mediastinoscopy is poor.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">

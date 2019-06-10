@@ -5,10 +5,15 @@
 /// Collen et al., 2015
 article '25114022
 
+  index: hide
+  line !c
+    + c = SBRT to all disease sites, primary tumor and metastatic locations, in oligometastatic NSCLC patients produced an acceptable median PFS of 11.2 months.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Collen C, Christian N, Schallier D, et al. Phase II study of stereotactic body radiotherapy to primary tumor and metastatic locations in oligometastatic nonsmall-cell lung cancer patients. Ann Oncol 2014;25:1954-1959. </div>
+    <div class="Citation-text">Collen C, Christian N, Schallier D, et al. Phase II study of stereotactic body radiotherapy to primary tumor and metastatic locations in oligometastatic nonsmall-cell lung cancer patients. Ann Oncol 2014;25:1954-1959.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25114022">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

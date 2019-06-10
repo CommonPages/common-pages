@@ -13,7 +13,7 @@ article '17873165
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Rivera MP, Mehta AC, American College of Chest P. Initial diagnosis of lung cancer: ACCP evidence-based clinical practice guidelines (2nd edition). Chest 2007;132:131S-148S. </div>
+    <div class="Citation-text">Rivera MP, Mehta AC, American College of Chest P. Initial diagnosis of lung cancer: ACCP evidence-based clinical practice guidelines (2nd edition). Chest 2007;132:131S-148S.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17873165">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

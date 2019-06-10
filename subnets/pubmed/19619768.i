@@ -13,7 +13,7 @@ article '19619768
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Gaissert HA, Keum DY, Wright CD, et al. POINT: Operative risk of pneumonectomy--influence of preoperative induction therapy. J Thorac Cardiovasc Surg 2009;138:289-294. </div>
+    <div class="Citation-text">Gaissert HA, Keum DY, Wright CD, et al. POINT: Operative risk of pneumonectomy--influence of preoperative induction therapy. J Thorac Cardiovasc Surg 2009;138:289-294.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19619768">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

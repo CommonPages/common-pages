@@ -8,7 +8,7 @@ article '19584208
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Detterbeck FC, Boffa DJ, Tanoue LT. The new lung cancer staging system. Chest 2009;136:260-271. </div>
+    <div class="Citation-text">Detterbeck FC, Boffa DJ, Tanoue LT. The new lung cancer staging system. Chest 2009;136:260-271.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19584208">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

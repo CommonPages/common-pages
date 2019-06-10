@@ -8,7 +8,7 @@ article '21946673
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Decker RH, Langer CJ, Rosenzweig KE, et al. ACR Appropriateness Criteria(R) postoperative adjuvant therapy in non-small cell lung cancer. Am J Clin Oncol 2011;34:537-544. </div>
+    <div class="Citation-text">Decker RH, Langer CJ, Rosenzweig KE, et al. ACR Appropriateness Criteria(R) postoperative adjuvant therapy in non-small cell lung cancer. Am J Clin Oncol 2011;34:537-544.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21946673">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

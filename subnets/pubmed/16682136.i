@@ -13,7 +13,7 @@ article '16682136
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Kelsey CR, Light KL, Marks LB. Patterns of failure after resection of non-small-cell lung cancer: implications for postoperative radiation therapy volumes. Int J Radiat Oncol Biol Phys 2006;65:1097-1105. </div>
+    <div class="Citation-text">Kelsey CR, Light KL, Marks LB. Patterns of failure after resection of non-small-cell lung cancer: implications for postoperative radiation therapy volumes. Int J Radiat Oncol Biol Phys 2006;65:1097-1105.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/16682136">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

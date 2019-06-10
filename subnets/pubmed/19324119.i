@@ -13,7 +13,7 @@ article '19324119
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Farjah F, Flum DR, Varghese TK, Jr., et al. Surgeon specialty and long-term survival after pulmonary resection for lung cancer. Ann Thorac Surg 2009;87:995-1004; discussion 1005-1006. </div>
+    <div class="Citation-text">Farjah F, Flum DR, Varghese TK, Jr., et al. Surgeon specialty and long-term survival after pulmonary resection for lung cancer. Ann Thorac Surg 2009;87:995-1004; discussion 1005-1006.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19324119">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

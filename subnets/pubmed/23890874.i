@@ -8,7 +8,7 @@ article '23890874
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Rosenzweig KE, Chang JY, Chetty IJ, et al. ACR appropriateness criteria nonsurgical treatment for non-small-cell lung cancer: poor performance status or palliative intent. J Am Coll Radiol 2013;10:654-664. </div>
+    <div class="Citation-text">Rosenzweig KE, Chang JY, Chetty IJ, et al. ACR appropriateness criteria nonsurgical treatment for non-small-cell lung cancer: poor performance status or palliative intent. J Am Coll Radiol 2013;10:654-664.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23890874">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

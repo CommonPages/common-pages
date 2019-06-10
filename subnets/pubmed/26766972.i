@@ -8,7 +8,7 @@ article '26766972
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Zhang L, Ou W, Liu Q, et al. Pemetrexed plus carboplatin as adjuvant chemotherapy in patients with curative resected non-squamous non-small cell lung cancer. Thorac Cancer 2014;5:50-56. </div>
+    <div class="Citation-text">Zhang L, Ou W, Liu Q, et al. Pemetrexed plus carboplatin as adjuvant chemotherapy in patients with curative resected non-squamous non-small cell lung cancer. Thorac Cancer 2014;5:50-56.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26766972">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

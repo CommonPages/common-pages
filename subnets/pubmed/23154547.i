@@ -13,7 +13,7 @@ article '23154547
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Cardarella S, Ortiz TM, Joshi VA, et al. The introduction of systematic genomic testing for patients with non-small-cell lung cancer. J Thorac Oncol 2012;7:1767-1774. </div>
+    <div class="Citation-text">Cardarella S, Ortiz TM, Joshi VA, et al. The introduction of systematic genomic testing for patients with non-small-cell lung cancer. J Thorac Oncol 2012;7:1767-1774.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23154547">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

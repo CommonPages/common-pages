@@ -13,7 +13,7 @@ article '19770627
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Milano MT, Katz AW, Okunieff P. Patterns of recurrence after curative-intent radiation for oligometastases confined to one organ. Am J Clin Oncol 2010;33:157-163. </div>
+    <div class="Citation-text">Milano MT, Katz AW, Okunieff P. Patterns of recurrence after curative-intent radiation for oligometastases confined to one organ. Am J Clin Oncol 2010;33:157-163.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19770627">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

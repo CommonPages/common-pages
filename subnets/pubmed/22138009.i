@@ -8,7 +8,7 @@ article '22138009
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Febbo PG, Ladanyi M, Aldape KD, et al. NCCN Task Force report: Evaluating the clinical utility of tumor markers in oncology. J Natl Compr Canc Netw 2011;9 Suppl 5:S1-32; quiz S33. </div>
+    <div class="Citation-text">Febbo PG, Ladanyi M, Aldape KD, et al. NCCN Task Force report: Evaluating the clinical utility of tumor markers in oncology. J Natl Compr Canc Netw 2011;9 Suppl 5:S1-32; quiz S33.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22138009">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

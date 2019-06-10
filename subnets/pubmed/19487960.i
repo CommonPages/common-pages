@@ -5,10 +5,15 @@
 /// Lilenbaum et al., 2009
 article '19487960
 
+  index: hide
+  line !c
+    + c = Our results show that PS2 non-small cell lung cancer patients are a heterogeneous group who have significantly different outcomes. Patients treated with first-line combination chemotherapy had a higher response and longer time to progression, whereas overall survival did not appear significantly different. A prognostic model may be helpful in selecting PS 2 patients for either treatment strategy.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Lilenbaum R, Villaflor VM, Langer C, et al. Single-agent versus combination chemotherapy in patients with advanced non-small cell lung cancer and a performance status of 2: prognostic factors and treatment selection based on two large randomized clinical trials. J Thorac Oncol 2009;4:869-874. </div>
+    <div class="Citation-text">Lilenbaum R, Villaflor VM, Langer C, et al. Single-agent versus combination chemotherapy in patients with advanced non-small cell lung cancer and a performance status of 2: prognostic factors and treatment selection based on two large randomized clinical trials. J Thorac Oncol 2009;4:869-874.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19487960">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

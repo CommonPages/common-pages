@@ -5,10 +5,15 @@
 /// Yasufuku et al., 2006
 article '16963667
 
+  index: hide
+  line !c
+    + c = Compared to CT and PET, EBUS-TBNA has a high sensitivity as well as specificity for mediastinal and hilar lymph node staging in patients with lung cancer. EBUS-TBNA should be considered for evaluation of the mediastinum early in the staging process of lung cancer.
+
+  include !c.c
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Yasufuku K, Nakajima T, Motoori K, et al. Comparison of endobronchial ultrasound, positron emission tomography, and CT for lymph node staging of lung cancer. Chest 2006;130:710-718. </div>
+    <div class="Citation-text">Yasufuku K, Nakajima T, Motoori K, et al. Comparison of endobronchial ultrasound, positron emission tomography, and CT for lymph node staging of lung cancer. Chest 2006;130:710-718.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/16963667">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

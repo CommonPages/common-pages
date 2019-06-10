@@ -13,7 +13,7 @@ article '22919003
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Davies KD, Le AT, Theodoro MF, et al. Identifying and targeting ROS1 gene fusions in non-small cell lung cancer. Clin Cancer Res 2012;18:4570-4579. </div>
+    <div class="Citation-text">Davies KD, Le AT, Theodoro MF, et al. Identifying and targeting ROS1 gene fusions in non-small cell lung cancer. Clin Cancer Res 2012;18:4570-4579.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22919003">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

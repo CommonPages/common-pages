@@ -13,7 +13,7 @@ article '30280658
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text"> Antonia SJ, Villegas A, Daniel D, et al. Overall survival with durvalumab after chemoradiotherapy in stage III NSCLC. N Engl J Med 2018;379(24):2342-2350. </div>
+    <div class="Citation-text">Antonia SJ, Villegas A, Daniel D, et al. Overall survival with durvalumab after chemoradiotherapy in stage III NSCLC. N Engl J Med 2018;379(24):2342-2350.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/30280658">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>
