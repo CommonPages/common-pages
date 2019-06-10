@@ -8,7 +8,7 @@ article '19418618
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Straif K, Benbrahim-Tallaa L, Baan R, et al. A review of human carcinogens--part C: metals, arsenic, dusts, and fibres. Lancet Oncol 2009;10:453-454.</div>
+    <div class="Citation-text">Straif K, Benbrahim-Tallaa L, Baan R, et al.: A review of human carcinogens--part C: metals, arsenic, dusts, and fibres. Lancet Oncol 10 (5): 453-4, 2009.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19418618">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

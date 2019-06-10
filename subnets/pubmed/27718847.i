@@ -13,7 +13,7 @@ article '27718847
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Reck M, Rodriguez-Abreu D, Robinson AG, et al. Pembrolizumab versus chemotherapy for PD-L1-positive non-small-cell lung cancer. N Engl J Med 2016;375:1823-1833.</div>
+    <div class="Citation-text">Reck M, Rodríguez-Abreu D, Robinson AG, et al.: Pembrolizumab versus Chemotherapy for PD-L1-Positive Non-Small-Cell Lung Cancer. N Engl J Med 375 (19): 1823-1833, 2016.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27718847">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

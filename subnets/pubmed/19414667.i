@@ -13,7 +13,7 @@ article '19414667
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Baumann P, Nyman J, Hoyer M, et al. Outcome in a prospective phase II trial of medically inoperable stage I non-small-cell lung cancer patients treated with stereotactic body radiotherapy. J Clin Oncol 2009;27:3290-3296.</div>
+    <div class="Citation-text">Baumann P, Nyman J, Hoyer M, et al.: Outcome in a prospective phase II trial of medically inoperable stage I non-small-cell lung cancer patients treated with stereotactic body radiotherapy. J Clin Oncol 27 (20): 3290-6, 2009.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19414667">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

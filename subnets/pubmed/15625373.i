@@ -13,7 +13,7 @@ article '15625373
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Lilenbaum RC, Herndon JE, List MA, et al. Single-agent versus combination chemotherapy in advanced non-small cell lung cancer: the cancer and leukemia group B (study 9730). J Clin Oncol 2005;23:190-196.</div>
+    <div class="Citation-text">Lilenbaum RC, Herndon JE 2nd, List MA, et al.: Single-agent versus combination chemotherapy in advanced non-small-cell lung cancer: the cancer and leukemia group B (study 9730). J Clin Oncol 23 (1): 190-6, 2005.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/15625373">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

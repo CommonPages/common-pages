@@ -13,7 +13,7 @@ article '25074417
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Cheung P, Faria S, Ahmed S, et al. Phase II study of accelerated hypofractionated three-dimensional conformal radiotherapy for stage T1-3 N0 M0 non-small cell lung cancer: NCIC CTG BR.25. J Natl Cancer Inst 2014;106.</div>
+    <div class="Citation-text">Cheung P, Faria S, Ahmed S, et al.: Phase II study of accelerated hypofractionated three-dimensional conformal radiotherapy for stage T1-3 N0 M0 non-small cell lung cancer: NCIC CTG BR.25. J Natl Cancer Inst 106 (8): , 2014.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25074417">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

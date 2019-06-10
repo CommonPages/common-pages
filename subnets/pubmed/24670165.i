@@ -13,7 +13,7 @@ article '24670165
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Shaw AT, Kim DW, Mehra R, et al. Ceritinib in ALK-rearranged non-small-cell lung cancer. N Engl J Med 2014;370:1189-1197.</div>
+    <div class="Citation-text">Shaw AT, Kim DW, Mehra R, et al.: Ceritinib in ALK-rearranged non-small-cell lung cancer. N Engl J Med 370 (13): 1189-97, 2014.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24670165">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '17505036
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Raz DJ, Zell JA, Ou SH, et al. Natural history of stage I non-small cell lung cancer: implications for early detection. Chest 2007;132:193-199.</div>
+    <div class="Citation-text">Raz DJ, Zell JA, Ou SH, et al.: Natural history of stage I non-small cell lung cancer: implications for early detection. Chest 132 (1): 193-9, 2007.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17505036">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

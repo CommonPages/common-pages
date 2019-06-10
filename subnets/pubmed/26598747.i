@@ -13,7 +13,7 @@ article '26598747
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Ou SI, Ahn JS, De Petris L, et al. Alectinib in crizotinib-refractory ALK-rearranged non-small-cell lung cancer: a phase II global study. J Clin Oncol 2016;34:661-668.</div>
+    <div class="Citation-text">Ou SH, Ahn JS, De Petris L, et al.: Alectinib in Crizotinib-Refractory ALK-Rearranged Non-Small-Cell Lung Cancer: A Phase II Global Study. J Clin Oncol 34 (7): 661-8, 2016.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26598747">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

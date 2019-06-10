@@ -13,7 +13,7 @@ article '15667949
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Bradley J, Graham MV, Winter K, et al. Toxicity and outcome results of RTOG 9311: a phase I-II dose-escalation study using three-dimensional conformal radiotherapy in patients with inoperable non-small-cell lung carcinoma. Int J Radiat Oncol Biol Phys 2005;61:318-328.</div>
+    <div class="Citation-text">Bradley J, Graham MV, Winter K, et al.: Toxicity and outcome results of RTOG 9311: a phase I-II dose-escalation study using three-dimensional conformal radiotherapy in patients with inoperable non-small-cell lung carcinoma. Int J Radiat Oncol Biol Phys 61 (2): 318-28, 2005.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/15667949">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

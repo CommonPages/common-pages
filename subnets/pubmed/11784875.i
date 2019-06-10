@@ -13,7 +13,7 @@ article '11784875
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Schiller JH, Harrington D, Belani CP, et al. Comparison of four chemotherapy regimens for advanced non-small-cell lung cancer. N Engl J Med 2002;346:92-98.</div>
+    <div class="Citation-text">Schiller JH, Harrington D, Belani CP, et al.: Comparison of four chemotherapy regimens for advanced non-small-cell lung cancer. N Engl J Med 346 (2): 92-8, 2002.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/11784875">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

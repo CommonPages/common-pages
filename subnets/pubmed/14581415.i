@@ -13,7 +13,7 @@ article '14581415
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Smit EF, van Meerbeeck JP, Lianes P, et al. Three-arm randomized study of two cisplatin-based regimens and paclitaxel plus gemcitabine in advanced non-small-cell lung cancer: a phase III trial of the European Organization for Research and Treatment of Cancer Lung Cancer Group--EORTC 08975. J Clin Oncol 2003;21:3909-3917.</div>
+    <div class="Citation-text">Smit EF, van Meerbeeck JP, Lianes P, et al.: Three-arm randomized study of two cisplatin-based regimens and paclitaxel plus gemcitabine in advanced non-small-cell lung cancer: a phase III trial of the European Organization for Research and Treatment of Cancer Lung Cancer Group--EORTC 08975. J Clin Oncol 21 (21): 3909-17, 2003.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/14581415">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

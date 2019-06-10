@@ -13,7 +13,7 @@ article '22543206
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Suntharalingam M, Paulus R, Edelman MJ, et al. Radiation therapy oncology group protocol 02-29: a phase II trial of neoadjuvant therapy with concurrent chemotherapy and full-dose radiation therapy followed by surgical resection and consolidative therapy for locally advanced non-small cell carcinoma of the lung. Int J Radiat Oncol Biol Phys 2012;84:456-463.</div>
+    <div class="Citation-text">Suntharalingam M, Paulus R, Edelman MJ, et al.: Radiation therapy oncology group protocol 02-29: a phase II trial of neoadjuvant therapy with concurrent chemotherapy and full-dose radiation therapy followed by surgical resection and consolidative therapy for locally advanced non-small cell carcinoma of the lung. Int J Radiat Oncol Biol Phys 84 (2): 456-63, 2012.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22543206">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

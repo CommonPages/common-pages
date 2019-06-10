@@ -13,7 +13,7 @@ article '12879472
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Danson S, Middleton MR, O'Byrne KJ, et al. Phase III trial of gemcitabine and carboplatin versus mitomycin, ifosfamide, and cisplatin or mitomycin, vinblastine, and cisplatin in patients with advanced nonsmall cell lung carcinoma. Cancer 2003;98:542-553.</div>
+    <div class="Citation-text">Danson S, Middleton MR, O'Byrne KJ, et al.: Phase III trial of gemcitabine and carboplatin versus mitomycin, ifosfamide, and cisplatin or mitomycin, vinblastine, and cisplatin in patients with advanced nonsmall cell lung carcinoma. Cancer 98 (3): 542-53, 2003.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/12879472">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -48,7 +48,7 @@
     += Before becoming invasive, lung epithelium may undergo morphological changes that include the following: Hyperplasia, Metaplasia, Dysplasia,  Carcinoma in situ.
     += Dysplasia and carcinoma in situ are considered the principal premalignant lesions because they are more likely to progress to invasive cancer and less likely to spontaneously regress.
     += In addition, after resection of a lung cancer, there is a 1% to 2% risk per patient per year that a second lung cancer will occur.
-      \ '3
+      \ '9747865
 
   / Pathology
   line !4
@@ -61,63 +61,63 @@
     += Increasing age is the most important risk factor for most cancers. Other risk factors for lung cancer include the following:
       \
         += History of or current tobacco use: cigarettes, pipes, and cigars.
-          \ '4
+          \ '17873159
         += Exposure to cancer-causing substances in secondhand smoke.
           \
-            > '5
-            > '6
+            > '15894687
+            > '14693752
         += Occupational exposure to asbestos, arsenic, chromium, beryllium, nickel, and other agents.
-          \ '7
+          \ '19418618
         += Radiation exposure from any of the following:
           \
             += Radiation therapy to the breast or chest.
-              \ '8
+              \ '20634481
             += Radon exposure in the home or workplace.
-              \ '9
+              \ '19129153
             += Medical imaging tests, such as computed tomography (CT) scans.
-              \ '10
+              \ '18927099
             += Atomic bomb radiation.
-              \ '11
+              \ '2305030
             += Living in an area with air pollution.[12-14]
             += Family history of lung cancer.
-              \ '15
+              \ '20306329
             += Human immunodeficiency virus infection.
-              \ '16
+              \ '19770804
             += Beta carotene supplements in heavy smokers.
               \
-                > '17
-                > '18
+                > '8127329
+                > '8602180
     += The single most important risk factor for the development of lung cancer is smoking.
     += For smokers, the risk for lung cancer is on average tenfold higher than in lifetime nonsmokers (defined as a person who has smoked <100 cigarettes in his or her lifetime).
     += The risk increases with the quantity of cigarettes, duration of smoking, and starting age.
     += Smoking cessation results in a decrease in precancerous lesions and a reduction in the risk of developing lung cancer.
     += Former smokers continue to have an elevated risk of lung cancer for years after quitting.
     += Asbestos exposure may exert a synergistic effect of cigarette smoking on the lung cancer risk.
-      \ '19
+      \ '10218505
 
 
   / Prevention
   line !6
     += A significant number of patients cured of their smoking-related lung cancer may develop a second malignancy.
     += In the Lung Cancer Study Group trial of 907 patients with stage T1, N0 resected tumors, the rate was 1.8% per year for nonpulmonary second cancers and 1.6% per year for new lung cancers.
-      \ '20
+      \ '2154958
     += Other studies have reported even higher risks of second tumors in long-term survivors, including rates of 10% for second lung cancers and 20% for all second cancers.
-      \ '21
+      \ '7815787
     += Because of the persistent risk of developing second lung cancers in former smokers, various chemoprevention strategies have been evaluated in randomized control trials.
     += None of the phase III trials using the agents beta carotene, retinol, 13-cis-retinoic acid, [alpha]-tocopherol, N-acetylcysteine, or acetylsalicylic acid has demonstrated beneficial, reproducible results.[Level of evidence: 1iiA]
       \
-        > '18
-        > '22
-        > '23
-        > '24
-        > '25
+        > '8602180
+        > '11162864
+        > '8090376
+        > '11309437
+        > '10861309
     += Chemoprevention of second primary cancers of the upper aerodigestive tract is undergoing clinical evaluation in patients with early-stage lung cancer.
     += (Refer to the PDQ summary on Lung Cancer Prevention for more information.)
 
   / Screening
   line !7
     += In patients considered at high risk for developing lung cancer, the only screening modality for early detection that has been shown to alter mortality is low-dose helical CT scanning.
-      \ '26
+      \ '21714641
     += Studies of lung cancer screening with chest radiography and sputum cytology have failed to demonstrate that screening lowers lung cancer mortality rates.
     += (Refer to the Screening by low-dose helical computed tomography subsection in the PDQ summary on Lung Cancer Screening for more information.)
 
@@ -145,7 +145,7 @@
   / Molecular Features
   line !10
     += The identification of mutations in lung cancer has led to the development of molecularly targeted therapy to improve the survival of subsets of patients with metastatic disease.
-      \ '28
+      \ '21277552
     += In particular, subsets of adenocarcinoma now can be defined by specific mutations in genes encoding components of the epidermal growth factor receptor (EGFR) and downstream mitogen-activated protein kinases (MAPK) and phosphatidylinositol 3-kinases (PI3K) signaling pathways. These mutations may define mechanisms of drug sensitivity and primary or acquired resistance to kinase inhibitors.
     += Other genetic abnormalities of potential relevance to treatment decisions include translocations involving the anaplastic lymphoma kinase (ALK)-tyrosine kinase receptor, which are sensitive to ALK inhibitors, and amplification of MET (mesenchymal epithelial transition factor), which encodes the hepatocyte growth factor receptor.
     += MET amplification has been associated with secondary resistance to EGFR tyrosine kinase inhibitors.
@@ -154,11 +154,11 @@
   line !11
     += Multiple studies have attempted to identify the prognostic importance of a variety of clinicopathologic factors.
       \
-        > '21
-        > '29
-        > '30
-        > '31
-        > '32
+        > '7815787
+        > '1651993
+        > '8391612
+        > '7564425
+        > '7472781
     += Factors that have correlated with adverse prognosis include the following:
       \
         += Presence of pulmonary symptoms.
@@ -166,25 +166,25 @@
         += Nonsquamous histology.
         += Metastases to multiple lymph nodes within a TNM-defined nodal station. (Refer to the Evaluation of Mediastinal Lymph Node Metastasis section of this summary for more information.)
           \
-            > '33
-            > '34
-            > '35
-            > '36
-            > '37
-            > '38
-            > '39
-            > '40
-            > '41
-            > '42
-            > '43
+            > '15019674
+            > '14739035
+            > '11557110
+            > '11343930
+            > '11156081
+            > '10391257
+            > '9146339
+            > '9146340
+            > '7818326
+            > '1324654
+            > '2842549
         += Vascular invasion.
           \
-            > '30
-            > '44
-            > '45
-            > '46
+            > '8391612
+            > '11996242
+            > '1378165
+            > '15063229
     += For patients with inoperable disease, prognosis is adversely affected by poor performance status and weight loss of more than 10%. These patients have been excluded from clinical trials evaluating aggressive multimodality interventions.
     += In multiple retrospective analyses of clinical trial data, advanced age alone has not been shown to influence response or survival with therapy.
-    \ '47
+    \ '11181670
     += (Refer to the separate treatment sections for each stage of NSCLC in this summary for more information about prognosis.)
     += Because treatment is not satisfactory for almost all patients with NSCLC, eligible patients should be considered for clinical trials. Information about ongoing clinical trials is available from the NCI website.

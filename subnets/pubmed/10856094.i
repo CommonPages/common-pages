@@ -13,7 +13,7 @@ article '10856094
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Fossella FV, DeVore R, Kerr RN, et al. Randomized phase III trial of docetaxel versus vinorelbine or ifosfamide in patients with advanced non-small-cell lung cancer previously treated with platinum-containing chemotherapy regimens. The TAX 320 Non-Small Cell Lung Cancer Study Group. J Clin Oncol 2000;18:2354-2362.</div>
+    <div class="Citation-text">Fossella FV, DeVore R, Kerr RN, et al.: Randomized phase III trial of docetaxel versus vinorelbine or ifosfamide in patients with advanced non-small-cell lung cancer previously treated with platinum-containing chemotherapy regimens. The TAX 320 Non-Small Cell Lung Cancer Study Group. J Clin Oncol 18 (12): 2354-62, 2000.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/10856094">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '17050868
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Timmerman R, McGarry R, Yiannoutsos C, et al. Excessive toxicity when treating central tumors in a phase II study of stereotactic body radiation therapy for medically inoperable early-stage lung cancer. J Clin Oncol 2006;24:4833-4839.</div>
+    <div class="Citation-text">Timmerman R, McGarry R, Yiannoutsos C, et al.: Excessive toxicity when treating central tumors in a phase II study of stereotactic body radiation therapy for medically inoperable early-stage lung cancer. J Clin Oncol 24 (30): 4833-9, 2006.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17050868">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

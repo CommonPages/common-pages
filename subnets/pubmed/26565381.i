@@ -13,7 +13,7 @@ article '26565381
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Farago AF, Le LP, Zheng Z, et al. Durable clinical response to entrectinib in NTRK1-rearranged non-small cell lung cancer. J Thorac Oncol 2015;10:1670-1674.</div>
+    <div class="Citation-text">Farago AF, Le LP, Zheng Z, et al.: Durable Clinical Response to Entrectinib in NTRK1-Rearranged Non-Small Cell Lung Cancer. J Thorac Oncol 10 (12): 1670-4, 2015.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26565381">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

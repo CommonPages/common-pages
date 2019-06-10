@@ -13,7 +13,7 @@ article '21933749
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Shaw AT, Yeap BY, Solomon BJ, et al. Effect of crizotinib on overall survival in patients with advanced non-small-cell lung cancer harbouring ALK gene rearrangement: a retrospective analysis. Lancet Oncol 2011;12:1004-1012.</div>
+    <div class="Citation-text">Shaw AT, Yeap BY, Solomon BJ, et al.: Effect of crizotinib on overall survival in patients with advanced non-small-cell lung cancer harbouring ALK gene rearrangement: a retrospective analysis. Lancet Oncol 12 (11): 1004-12, 2011.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21933749">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

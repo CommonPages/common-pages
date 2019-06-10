@@ -13,7 +13,7 @@ article '15117980
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Hanna N, Shepherd FA, Fossella FV, et al. Randomized phase III trial of pemetrexed versus docetaxel in patients with non-small-cell lung cancer previously treated with chemotherapy. J Clin Oncol 2004;22:1589-1597.</div>
+    <div class="Citation-text">Hanna N, Shepherd FA, Fossella FV, et al.: Randomized phase III trial of pemetrexed versus docetaxel in patients with non-small-cell lung cancer previously treated with chemotherapy. J Clin Oncol 22 (9): 1589-97, 2004.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/15117980">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

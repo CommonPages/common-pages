@@ -13,7 +13,7 @@ article '25264305
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Shaw AT, Ou SH, Bang YJ, et al. Crizotinib in ROS1-rearranged non-small-cell lung cancer. N Engl J Med 2014;371:1963-1971.</div>
+    <div class="Citation-text">Shaw AT, Ou SH, Bang YJ, et al.: Crizotinib in ROS1-rearranged non-small-cell lung cancer. N Engl J Med 371 (21): 1963-71, 2014.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25264305">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

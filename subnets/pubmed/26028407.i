@@ -13,7 +13,7 @@ article '26028407
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Brahmer J, Reckamp KL, Baas P, et al. Nivolumab versus docetaxel in advanced squamous-cell non-small-cell lung cancer. N Engl J Med 2015;373:123-135.</div>
+    <div class="Citation-text">Brahmer J, Reckamp KL, Baas P, et al.: Nivolumab versus Docetaxel in Advanced Squamous-Cell Non-Small-Cell Lung Cancer. N Engl J Med 373 (2): 123-35, 2015.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26028407">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

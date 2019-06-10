@@ -8,7 +8,7 @@ article '28919011
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Planchard D, Smit EF, Groen HJM, et al. Dabrafenib plus trametinib in patients with previously untreated BRAFV600E-mutant metastatic non-small-cell lung cancer: an open-label, phase 2 trial. Lancet Oncol 2017;18:1307-1316.</div>
+    <div class="Citation-text">Planchard D, Smit EF, Groen HJM, et al.: Dabrafenib plus trametinib in patients with previously untreated BRAF(V600E)-mutant metastatic non-small-cell lung cancer: an open-label, phase 2 trial. Lancet Oncol 18 (10): 1307-1316, 2017.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/28919011">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

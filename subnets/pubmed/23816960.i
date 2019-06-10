@@ -13,7 +13,7 @@ article '23816960
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Sequist LV, Yang JC, Yamamoto N, et al. Phase III study of afatinib or cisplatin plus pemetrexed in patients with metastatic lung adenocarcinoma with EGFR mutations. J Clin Oncol 2013;31:3327-3334.</div>
+    <div class="Citation-text">Sequist LV, Yang JC, Yamamoto N, et al.: Phase III study of afatinib or cisplatin plus pemetrexed in patients with metastatic lung adenocarcinoma with EGFR mutations. J Clin Oncol 31 (27): 3327-34, 2013.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23816960">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -8,7 +8,7 @@ article '8100290
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Souquet PJ, Chauvin F, Boissel JP, et al. Polychemotherapy in advanced non small cell lung cancer: a meta-analysis. Lancet 1993;342:19-21.</div>
+    <div class="Citation-text">Souquet PJ, Chauvin F, Boissel JP, et al.: Polychemotherapy in advanced non small cell lung cancer: a meta-analysis. Lancet 342 (8862): 19-21, 1993.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/8100290">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

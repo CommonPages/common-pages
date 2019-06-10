@@ -13,7 +13,7 @@ article '16014882
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Shepherd FA, Rodrigues Pereira J, Ciuleanu T, et al. Erlotinib in previously treated non-small-cell lung cancer. N Engl J Med 2005;353:123-132.</div>
+    <div class="Citation-text">Shepherd FA, Rodrigues Pereira J, Ciuleanu T, et al.: Erlotinib in previously treated non-small-cell lung cancer. N Engl J Med 353 (2): 123-32, 2005.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/16014882">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

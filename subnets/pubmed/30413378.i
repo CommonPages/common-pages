@@ -13,7 +13,7 @@ article '30413378
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Solomon BJ, Besse B, Bauer TM, et al. Lorlatinib in patients with ALK-positive non-small-cell lung cancer: results from a global phase 2 study. Lancet Oncol 2018;19:1654-1667.</div>
+    <div class="Citation-text">Solomon BJ, Besse B, Bauer TM, et al.: Lorlatinib in patients with ALK-positive non-small-cell lung cancer: results from a global phase 2 study. Lancet Oncol 19 (12): 1654-1667, 2018.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/30413378">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

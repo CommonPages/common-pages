@@ -13,7 +13,7 @@ article '29658856
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Gandhi L, Rodriguez-Abreu D, Gadgeel S, et al. Pembrolizumab plus chemotherapy in metastatic non-small-cell lung cancer. N Engl J Med 2018;378:2078-2092.</div>
+    <div class="Citation-text">Gandhi L, Rodríguez-Abreu D, Gadgeel S, et al.: Pembrolizumab plus Chemotherapy in Metastatic Non-Small-Cell Lung Cancer. N Engl J Med 378 (22): 2078-2092, 2018.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/29658856">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

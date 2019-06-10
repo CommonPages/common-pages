@@ -13,7 +13,7 @@ article '18506026
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Pignon JP, Tribodet H, Scagliotti GV, et al. Lung adjuvant cisplatin evaluation: a pooled analysis by the LACE Collaborative Group. J Clin Oncol 2008;26:3552-3559.</div>
+    <div class="Citation-text">Pignon JP, Tribodet H, Scagliotti GV, et al.: Lung adjuvant cisplatin evaluation: a pooled analysis by the LACE Collaborative Group. J Clin Oncol 26 (21): 3552-9, 2008.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18506026">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

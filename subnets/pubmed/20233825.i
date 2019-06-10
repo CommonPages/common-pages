@@ -13,7 +13,7 @@ article '20233825
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Timmerman R, Paulus R, Galvin J, et al. Stereotactic body radiation therapy for inoperable early stage lung cancer. JAMA 2010;303:1070-1076.</div>
+    <div class="Citation-text">Timmerman R, Paulus R, Galvin J, et al.: Stereotactic body radiation therapy for inoperable early stage lung cancer. JAMA 303 (11): 1070-6, 2010.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20233825">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

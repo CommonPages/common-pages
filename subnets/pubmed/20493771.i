@@ -13,7 +13,7 @@ article '20493771
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Cappuzzo F, Ciuleanu T, Stelmakh L, et al. Erlotinib as maintenance treatment in advanced non-small-cell lung cancer: a multicentre, randomised, placebo-controlled phase 3 study. Lancet Oncol 2010;11:521-529.</div>
+    <div class="Citation-text">Cappuzzo F, Ciuleanu T, Stelmakh L, et al.: Erlotinib as maintenance treatment in advanced non-small-cell lung cancer: a multicentre, randomised, placebo-controlled phase 3 study. Lancet Oncol 11 (6): 521-9, 2010.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20493771">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

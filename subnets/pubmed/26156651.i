@@ -13,7 +13,7 @@ article '26156651
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Soria JC, Felip E, Cobo M, et al. Afatinib versus erlotinib as second-line treatment of patients with advanced squamous cell carcinoma of the lung (LUX-Lung 8): an open-label randomised controlled phase 3 trial. Lancet Oncol 2015;16:897-907.</div>
+    <div class="Citation-text">Soria JC, Felip E, Cobo M, et al.: Afatinib versus erlotinib as second-line treatment of patients with advanced squamous cell carcinoma of the lung (LUX-Lung 8): an open-label randomised controlled phase 3 trial. Lancet Oncol 16 (8): 897-907, 2015.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26156651">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

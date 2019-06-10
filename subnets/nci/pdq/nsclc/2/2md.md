@@ -131,7 +131,7 @@ This is a group of rare tumors. Spindle cell carcinomas and giant cell carcinoma
 ### Molecular features
 The identification of mutations in lung cancer has led to the development of molecularly targeted therapy to improve the survival of subsets of patients with metastatic disease.
 
-{embed:'2}
+{embed:'21277552}
 
 In particular, subsets of adenocarcinoma now can be defined by specific mutations in genes encoding components of the epidermal growth factor receptor (EGFR) and downstream mitogen-activated protein kinases (MAPK) and phosphatidylinositol 3-kinases (PI3K) signaling pathways. These mutations may define mechanisms of drug sensitivity and primary or acquired resistance to kinase inhibitors. Other mutations of potential relevance to treatment decisions include:
 
@@ -146,12 +146,12 @@ In particular, subsets of adenocarcinoma now can be defined by specific mutation
 
 These mutations are mutually exclusive, except for those involving PI3KCA and BRAF mutations, EGFR mutations, or ALK translocations.
 
-{embed:'3}
-{embed:'4}
+{embed:'21168933}
+{embed:'25273224}
 
 EGFR and ALK mutations predominate in adenocarcinomas that develop in nonsmokers, and KRAS and BRAF mutations are more common in smokers or former smokers. EGFR mutations strongly predict the improved response rate and progression-free survival of EGFR inhibitors. In a set of 2,142 lung adenocarcinoma specimens from patients treated at Memorial Sloan Kettering Cancer Center, EGFR exon 19 deletions and L858R were found in 15% of tumors from former smokers (181 of 1,218; 95% confidence interval [CI], 13–17), 6% from current smokers (20 of 344; 95% CI, 4–9), and 52% from never-smokers (302 of 580; 95% CI, 48–56; P < .001 for ever- vs. never-smokers).
 
-{embed:'5}
+{embed:'21482987}
 
 Fusions of ALK with EML4 genes form translocation products that occur in ranges from 3% to 7% in unselected NSCLC and are responsive to pharmacological inhibition of ALK by agents such as crizotinib. Sensitizing fusions of ALK with other genes have also been reported. Other mutations that occur in less than 5% of NSCLC tumors include:
 

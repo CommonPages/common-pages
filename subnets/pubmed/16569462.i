@@ -13,7 +13,7 @@ article '16569462
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Brodowicz T, Krzakowski M, Zwitter M, et al. Cisplatin and gemcitabine first-line chemotherapy followed by maintenance gemcitabine or best supportive care in advanced non-small cell lung cancer: a phase III trial. Lung Cancer 2006;52:155-163.</div>
+    <div class="Citation-text">Brodowicz T, Krzakowski M, Zwitter M, et al.: Cisplatin and gemcitabine first-line chemotherapy followed by maintenance gemcitabine or best supportive care in advanced non-small cell lung cancer: a phase III trial. Lung Cancer 52 (2): 155-63, 2006.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/16569462">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

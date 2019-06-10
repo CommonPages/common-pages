@@ -13,7 +13,7 @@ article '22727222
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Senthi S, Lagerwaard FJ, Haasbeek CJ, et al. Patterns of disease recurrence after stereotactic ablative radiotherapy for early stage non-small-cell lung cancer: a retrospective analysis. Lancet Oncol 2012;13:802-809.</div>
+    <div class="Citation-text">Senthi S, Lagerwaard FJ, Haasbeek CJ, et al.: Patterns of disease recurrence after stereotactic ablative radiotherapy for early stage non-small-cell lung cancer: a retrospective analysis. Lancet Oncol 13 (8): 802-9, 2012.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/22727222">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

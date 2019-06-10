@@ -9,3 +9,5 @@ links:
     location: "/nci"
 network: "theinsight.app"
 authorize:
+use:
+  - "$pubmed"

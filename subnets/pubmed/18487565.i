@@ -13,7 +13,7 @@ article '18487565
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Socinski MA, Blackstock AW, Bogart JA, et al. Randomized phase II trial of induction chemotherapy followed by concurrent chemotherapy and dose-escalated thoracic conformal radiotherapy (74 Gy) in stage III non-small-cell lung cancer: CALGB 30105. J Clin Oncol 2008;26:2457-2463.</div>
+    <div class="Citation-text">Socinski MA, Blackstock AW, Bogart JA, et al.: Randomized phase II trial of induction chemotherapy followed by concurrent chemotherapy and dose-escalated thoracic conformal radiotherapy (74 Gy) in stage III non-small-cell lung cancer: CALGB 30105. J Clin Oncol 26 (15): 2457-63, 2008.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18487565">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

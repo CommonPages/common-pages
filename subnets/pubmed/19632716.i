@@ -13,7 +13,7 @@ article '19632716
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Albain KS, Swann RS, Rusch VW, et al. Radiotherapy plus chemotherapy with or without surgical resection for stage III non-small-cell lung cancer: a phase III randomised controlled trial. Lancet 2009;374:379-386.</div>
+    <div class="Citation-text">Albain KS, Swann RS, Rusch VW, et al.: Radiotherapy plus chemotherapy with or without surgical resection for stage III non-small-cell lung cancer: a phase III randomised controlled trial. Lancet 374 (9687): 379-86, 2009.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19632716">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

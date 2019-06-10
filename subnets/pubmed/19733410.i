@@ -13,7 +13,7 @@ article '19733410
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Grutters JP, Kessels AG, Pijls-Johannesma M, et al. Comparison of the effectiveness of radiotherapy with photons, protons and carbon-ions for non-small cell lung cancer: a meta-analysis. Radiother Oncol 2010;95:32-40.</div>
+    <div class="Citation-text">Grutters JP, Kessels AG, Pijls-Johannesma M, et al.: Comparison of the effectiveness of radiotherapy with photons, protons and carbon-ions for non-small cell lung cancer: a meta-analysis. Radiother Oncol 95 (1): 32-40, 2010.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19733410">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -13,7 +13,7 @@ article '17374834
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">van Meerbeeck JP, Kramer GW, Van Schil PE, et al. Randomized controlled trial of resection versus radiotherapy after induction chemotherapy in stage IIIA-N2 non-small-cell lung cancer. J Natl Cancer Inst 2007;99:442-450.</div>
+    <div class="Citation-text">van Meerbeeck JP, Kramer GW, Van Schil PE, et al.: Randomized controlled trial of resection versus radiotherapy after induction chemotherapy in stage IIIA-N2 non-small-cell lung cancer. J Natl Cancer Inst 99 (6): 442-50, 2007.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17374834">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

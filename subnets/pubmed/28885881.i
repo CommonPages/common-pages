@@ -13,7 +13,7 @@ article '28885881
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Antonia SJ, Villegas A, Daniel D, et al. Durvalumab after chemoradiotherapy in stage III non-small-cell lung cancer. N Engl J Med 2017;377:1919-1929.</div>
+    <div class="Citation-text">Antonia SJ, Villegas A, Daniel D, et al.: Durvalumab after Chemoradiotherapy in Stage III Non-Small-Cell Lung Cancer. N Engl J Med 377 (20): 1919-1929, 2017.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/28885881">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

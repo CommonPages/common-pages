@@ -6,7 +6,7 @@ In general, symptoms, physical signs, laboratory findings, or perceived risk of 
 
 Stage has a critical role in the selection of therapy. The stage of disease is based on a combination of clinical factors and pathological factors.[1] The distinction between clinical stage and pathological stage should be considered when evaluating reports of survival outcome.
 
-{embed:'1}
+{embed:'14691125}
 
 Procedures used to determine staging include the following:
 
@@ -82,4 +82,4 @@ routine use.</li>
 	</li>
 </ol>
 
-{embed:'2}
+{embed:'1651993}

@@ -42,23 +42,23 @@
           \
             += If complete resection of tumor and lymph nodes is possible, such patients may benefit from surgery followed by postoperative chemotherapy.
             += Current evidence suggests that lung cancer resection combined with complete ipsilateral mediastinal lymph node dissection (CMLND) is not associated with improvement in survival compared with lung cancer resection combined with systematic sampling of mediastinal lymph nodes in patients with stage I, II, or IIIA NSCLC.[Level of evidence: 1iiA]
-              \ '1
+              \ '21335122
             += The addition of surgery to chemoradiation therapy for patients with stage IIIA NSCLC did not result in improved OS in a phase III trial but did improve progression-free survival (PFS) and local control.[Level of evidence: 1iiDiii]
-              \ '2
+              \ '19632716
         / Evidence
         +=
           \
             += The Cochrane Collaboration reviewed 11 randomized trials with a total of 1,910 patients who underwent surgical interventions for early-stage (I–IIIA) lung cancer.
               \
                 <= A pooled analysis of three trials reported the following:
-                  \ '3
+                  \ '15674959
                 += Four-year survival was superior in patients with resectable stage I, II, or IIIA NSCLC who underwent resection and CMLND, compared with those who underwent resection and lymph node sampling; the hazard ratio (HR) was estimated to be 0.78 (95% confidence interval [CI], 0.65–0.93; P = .005).[Level of evidence: 1iiA]
             += CMLND versus lymph node sampling was evaluated in a large randomized phase III trial (ACOSOG-Z0030).
               \
                 <= Preliminary analyses of operative morbidity and mortality showed comparable rates from the procedures.
-                  \ '4
+                  \ '16488712
                 += There was no difference in OS, disease-free survival (DFS), local recurrence, and regional recurrence.[Level of evidence: 1iiA]
-                  \ '1
+                  \ '21335122
 
             / Limitations of evidence
             += Conclusions about the efficacy of surgery for patients with local and locoregional NSCLC are limited by the small number of participants studied to date and by the potential methodological weaknesses of the trials.
@@ -82,14 +82,14 @@
               \
                 += The Cochrane Collaboration provided a systematic review and meta-analysis of seven randomized controlled trials that included 988 patients and evaluated the addition of preoperative chemotherapy to surgery versus surgery alone.
                   \
-                    > '5
+                    > '17636828
                     += These trials evaluated patients with stages I, II, and IIIA NSCLC.
                     += Preoperative chemotherapy provided an absolute benefit in survival of 6% across all stages of disease, from 14% to 20% at 5 years (HR, 0.82; 95% CI, 0.69–0.97; P = .022).[Level of evidence: 1iiA]
                     += This analysis was unable to address questions such as whether particular types of patients may benefit more or less from preoperative chemotherapy.
-                      \ '6
+                      \ '16945766
                 += In the largest trial reported to date, 519 patients were randomly assigned to receive either surgery alone or three cycles of platinum-based chemotherapy followed by surgery.
                   \
-                    > '7
+                    > '17544497
                     += Most patients (61%) had clinical stage I disease, 31% had stage II disease, and 7% had stage III disease.
                     += Postoperative complications were similar between groups, and no impairment of quality of life was observed.
                     += There was no evidence of a benefit in terms of OS (HR, 1.02; 95% CI, 0.80–1.31; P = .86).
@@ -104,16 +104,16 @@
                 += Administering concurrent neoadjuvant chemotherapy and radiation therapy before surgery may intensify treatment and increase the likelihood of downstaging the tumor burden.
                 += Commonly utilized regimens that have been tested in the phase II setting include cisplatin/etoposide (EP5050) and weekly carboplatin/paclitaxel.
                   \
-                    > '8
-                    > '9
+                    > '7636530
+                    > '22543206
                 += In a randomized trial of neoadjuvant chemoradiation therapy and surgery versus concurrent chemoradiation therapy alone, there was no difference in OS, but surgery improved PFS and local control.[Level of evidence: 1iiDiii]
-                  \ '2
+                  \ '19632716
             / Evidence
             +=
               \
                 += The Intergroup-0139 [NCT00002550] trial compared chemoradiation therapy alone with neoadjuvant chemoradiation followed by surgery in 396 patients with stage IIIA NSCLC.
                   \
-                    > '2
+                    > '19632716
                     += Surgery did not improve OS (5-year OS, 27% vs. 20%; HR: 0.87 [0.70–1.10]; P = .24).
                     += Surgery improved PFS (5-year PFS, 22% vs. 11%; HR 0.77 [0.62–0.96]; P = .017) and decreased the risk of local recurrence (10% vs. 22%; P = .002).
                     += There was increased treatment mortality with neoadjuvant chemoradiation with surgery (8% vs. 2%), particularly in the subset of patients who underwent pneumonectomy.
@@ -133,17 +133,17 @@
               \
                 += Several randomized, controlled trials and meta-analyses have evaluated the use of postoperative chemotherapy in patients with stages I, II, and IIIA NSCLC.
                   \
-                    > '10
-                    > '11
-                    > '12
-                    > '13
-                    > '14
-                    > '15
-                    > '16
+                    > '18506026
+                    > '15972865
+                    > '14736927
+                    > '14519751
+                    > '15326194
+                    > '1424843
+                    > '17565719
 
                 += Data on individual patient outcomes from the five largest trials (4,584 patients) that were conducted after 1995 of cisplatin-based chemotherapy in patients with completely resected NSCLC were collected and pooled into a meta-analysis.
                   \
-                    > '10
+                    > '18506026
                     += With a median follow-up of 5.2 years, the overall HRdeath was 0.89 (95% CI, 0.82–0.96; P = .005), corresponding to a 5-year absolute benefit of 5.4% from chemotherapy.
                     += The effect of chemotherapy did not vary significantly (test for interaction, P = .11) with the associated drugs, including vinorelbine (HR, 0.80; 95% CI, 0.70–0.91), etoposide or vinca alkaloid (HR, 0.92; 95% CI, 0.80–1.07), or other drugs (HR, 0.97; 95% CI, 0.84–1.13).
                     += The benefit varied with stage (HR for stage IIIA, 0.83; 95% CI, 0.72–0.94).
@@ -151,15 +151,15 @@
 
                 += Two trials (FRE-IALT and the Adjuvant Navelbine International Trialist Association [ANITA] trial) reported significant OS benefits associated with postoperative chemotherapy in stage IIIA disease.
                   \
-                    > '6
-                    > '12
+                    > '16945766
+                    > '14736927
                     += For the subgroup of stage IIIA patients in the ANITA trial (n = 325), the HR was 0.69 (95% CI, 0.53–0.90), and the result for the FRE-IALT trial (n = 728) was HR, 0.79 (95% CI, 0.66–0.95).
                     += The chemotherapy effect was higher in patients with a better performance status (PS).
                     += There was no interaction between the chemotherapy effect and any of the following: Sex. Age. Histology. Type of surgery. Planned radiation therapy. Planned total dose of cisplatin.
 
                 += In a retrospective analysis of a phase III trial of postoperative cisplatin and vinorelbine, patients older than 65 years were found to benefit from treatment.
                   \
-                    > '17
+                    > '17442999
                     += Chemotherapy significantly prolonged OS for elderly patients (HR, 0.61; 95% CI, 0.38–0.98; P = .04).
                     += There were no significant differences in toxic effects, hospitalization, or treatment-related death by age group, although elderly patients received less treatment.
 
@@ -171,19 +171,19 @@
             # Evidence
             += Five randomized trials have assessed the value of postoperative combination chemoradiation therapy versus radiation therapy following surgical resection.[Level of evidence: 1iiA] Only one trial reported improved DFS and no trial reported improved OS.
               \
-                > '5
-                > '7
-                > '18
-                > '19
-                > '20
+                > '17636828
+                > '17544497
+                > '15846628
+                > '16769986
+                > '12243809
             += Three trials have evaluated platinum-based combination chemotherapy followed by surgery versus platinum-based chemotherapy followed by radiation therapy (60–69.6 Gy) alone to determine whether surgery or radiation therapy was most efficacious.
               \
-                > '20
-                > '21
-                > '22
+                > '12243809
+                > '14697440
+                > '17374834
                 += Although the studies were small, enrolling 73 (Radiation Therapy Oncology Group [RTOG]) (RTOG 89-01), 107 (The University of Texas M.D. Anderson Cancer Center), and 333 (European Organization for Research and Treatment of Cancer [EORTC-08941; NCT00002623]) patients with stage IIIA N2 disease, no trial reported a difference in local control or survival.[Level of evidence: 1iiA]
                 += In the largest series (EORTC-08941), 579 patients with histologic- or cytologic-proven stage IIIA N2 NSCLC were given three cycles of platinum-based induction chemotherapy.
-                  \ '22
+                  \ '17374834
                 += The 333 responding patients were subsequently randomly assigned to surgical resection or radiation therapy. Of the 154 patients (92%) who underwent surgery, 50% had a radical resection, 42% had a pathologic downstaging, and 5% had a pathologic complete response; 4% died after surgery.
                 += Postoperative (adjuvant) radiation therapy (PORT) was administered to 62 patients (40%) in the surgery arm. Among the 154 patients (93%) who received radiation therapy, overall compliance to the radiation therapy prescription was 55%, and grade 3 to 4 acute and late esophageal and pulmonary toxic effects occurred in 4% and 7% of patients; one patient died of radiation pneumonitis.
                 += Median OS was 16.4 months for patients assigned to resection versus 17.5 months for patients assigned to radiation therapy; 5-year OS was 15.7% for patients assigned to resection versus 14% for patients assigned to radiation therapy (HR, 1.06; 95% CI, 0.84–1.35).
@@ -196,12 +196,12 @@
             +=
               \
                 += The value of PORT has been assessed.
-                  \ '18
+                  \ '15846628
                 += Although some studies suggest that PORT can improve local control for node-positive patients whose tumors were resected, it remains controversial whether it can improve survival.
                 += The optimal dose of thoracic PORT is not known at this time. The majority of studies cited used doses ranging from 30 Gy to 60 Gy, typically provided in 2 Gy to 2.5 Gy fractions.
-                  \ '18
+                  \ '15846628
                 += As referred to in the National Cancer Institute of Canada (NCIC) Clinical Trials Group JBR.10 study (NCT00002583), PORT may be considered in selected patients to reduce the risk of local recurrence, if any of the following are present: Involvement of multiple nodal stations. Extracapsular tumor spread. Close or microscopically positive resection margins.
-                  \ '17
+                  \ '17442999
 
             / Evidence
             ~= Evidence from one large meta-analysis, subset analyses of randomized trials, and one large population study suggest that PORT may reduce local recurrence. Results from these studies on the effect of PORT on OS are conflicting.
@@ -209,17 +209,17 @@
                 += A meta-analysis of ten randomized trials that evaluated PORT versus surgery alone showed the following:
                   \
                     += No difference in OS for the entire PORT group or for the subset of N2 patients.[Level of evidence: 1iiA]
-                      \ '12
+                      \ '14736927
                 += Results from a nonrandomized subanalysis of the ANITA trial, comparing 5-year OS in N2 patients who did or did not receive PORT, found the following:
                   \
-                    > '6
+                    > '16945766
                     += Higher survival rates in patients who received radiation therapy in the observation arm (21% in patients who received PORT vs. 17% in patients who did not receive PORT) and in the chemotherapy arm (47% with PORT vs. 34% without PORT); however, statistical tests of comparison were not conducted.
                 <= Results from the Surveillance, Epidemiology, and End Results (SEER) program suggest the following:
                   \
-                    > '19
+                    > '16769986
                     += The large SEER retrospective study (N = 7,465) found superior survival rates associated with radiation therapy in N2 disease (HR, 0.855; 95% CI, 0.762–0.959).
                 += There is benefit of PORT in stage IIIA N2 disease, and the role of PORT in early stages of NSCLC should be clarified in ongoing phase III trials. Further analysis is needed to determine whether these outcomes can be modified with technical improvements, better definitions of target volumes, and limitation of cardiac volume in the radiation portals.
-                  \ '12
+                  \ '14736927
 
   / Standard Treatment Options for Unresectable Stage IIIA N2 NSCLC
   line !2
@@ -232,12 +232,12 @@
             += Radiation therapy alone, administered sequentially with chemotherapy and concurrently with chemotherapy, may provide benefit to patients with locally advanced unresectable stage III NSCLC.
             / Prognosis
             += Radiation therapy with traditional dose and fractionation schedules (1.8–2.0 Gy per fraction per day to 60–70 Gy in 6–7 weeks) results in reproducible long-term survival benefit in 5% to 10% of patients and significant palliation of symptoms.
-              \ '23
+              \ '3933327
             / Evidence
             <= One prospective randomized clinical study showed the following:
               \
                 += Radiation therapy given continuously (including weekends) as three daily fractions (continuous hyperfractionated accelerated radiation therapy) improved OS compared with radiation therapy given as one daily fraction.[Level of evidence: 1iiA]
-                  \ '24
+                  \ '9250182
                 += Patterns of failure for patients treated with radiation therapy alone included both locoregional and distant failures.
             += Although patients with unresectable stage IIIA disease may benefit from radiation therapy, long-term outcomes have generally been poor because of local and systemic relapse.
 
@@ -246,11 +246,11 @@
           \
             += Radiation therapy may be effective in palliating symptomatic local involvement with NSCLC, such as the following: Tracheal, esophageal, or bronchial compression. Pain. Vocal cord paralysis. Hemoptysis. Superior vena cava syndrome.
             += In some cases, endobronchial laser therapy and/or brachytherapy has been used to alleviate proximal obstructing lesions.
-              \ '25
+              \ '1696452
             / Evidence
             += A systematic review identified six randomized trials of high-dose rate endobronchial brachytherapy (HDREB) alone or with external-beam radiation therapy (EBRT) or laser therapy.
               \
-                > '26
+                > '16864071
                 += Better overall symptom palliation and fewer re-treatments were required in previously untreated patients using EBRT alone.[26][Level of evidence: 1iiC]
                 += Although EBRT is frequently prescribed for symptom palliation, there is no consensus about when the fractionation scheme should be used.
                 += For EBRT, different multifraction regimens appear to provide similar symptom relief;[27-32] however, single-fraction radiation therapy may be insufficient for symptom relief compared with hypofractionated or standard regimens, as seen in the NCIC Clinical Trials Group trial (NCT00003685).[29][Level of evidence: 1iiC]
@@ -267,7 +267,7 @@
             += Overall, concurrent treatment may provide the greatest benefit in survival with an increase in toxic effects.
             += Concomitant platinum-based radiation chemotherapy may improve survival of patients with locally advanced NSCLC.
             += However, the available data are insufficient to accurately define the size of such a potential treatment benefit and the optimal schedule of chemotherapy.
-              \ '33
+              \ '16500915
 
         / Evidence
         +=
@@ -275,15 +275,15 @@
             <= A meta-analysis of patient data from 11 randomized clinical trials showed the following:
               \
                 += Cisplatin-based combinations plus radiation therapy resulted in a 10% reduction in the risk of death compared with radiation therapy alone.[Level of evidence: 1iiA]
-                > '34
+                > '7580546
             <= A meta-analysis of 13 trials (based on 2,214 evaluable patients) showed the following:
               \
-                > '35
+                > '15495029
                 += The addition of concurrent chemotherapy to radical radiation therapy reduced the risk of death at 2 years (relative risk [RR], 0.93; 95% CI, 0.88–0.98; P = .01).
                 += For the 11 trials with platinum-based chemotherapy, RR was 0.93 (95% CI, 0.87–0.99; P = .02).
             <= A meta-analysis of individual data from 1,764 patients was based on nine trials and showed the following:
               \
-                > '33
+                > '16500915
                 += The HRdeath among patients treated with radiation therapy and chemotherapy compared with radiation therapy alone was 0.89 (95% CI, 0.81–0.98; P = .02), corresponding to an absolute benefit of chemotherapy of 4% at 2 years.
                 += The combination of platinum with etoposide appeared to be more effective than platinum alone.
 
@@ -294,41 +294,41 @@
               \
                 += Five-year OS favored concurrent therapy (27% vs. 9%).
                 += Myelosuppression was greater among patients in the concurrent arm, but treatment-related mortality was less than 1% in both arms.
-                > '36
+                > '10561343
             += In the second trial, 610 patients were randomly assigned to sequential chemotherapy with cisplatin and vinblastine followed by 63 Gy of radiation therapy, concurrent chemoradiation therapy using the same regimen, or concurrent chemotherapy with cisplatin and etoposide with twice-daily radiation therapy.
               \
                 += Median and 5-year survival were superior in the concurrent chemotherapy with daily radiation therapy arm (17 months vs. 14.6 months and 16% vs. 10% for sequential regimen [P = .046]).
-                > '38
+                > '21903745
             += Two smaller studies also reported OS results that favored concurrent over sequential chemotherapy and radiation, although the results did not reach statistical significance.[Level of evidence: 1iiA]
               \
-                > '37
-                > '39
+                > '16087956
+                > '15364136
             += A meta-analysis of three trials evaluated concurrent versus sequential treatment (711 patients).
               \
                 += The analysis indicated a significant benefit of concurrent over sequential treatment (RR, 0.86; 95% CI, 0.78–0.95; P = .003). All studies used cisplatin-based regimens and once-daily radiation therapy.
                 += More deaths (3% OS rate) were reported in the concurrent arm, but this did not reach statistical significance (RR, 1.60; CI, 0.75–3.44; P = .2).
                 += There was more acute esophagitis (grade 3 or worse) with concurrent treatment (range, 17%–26%) compared with sequential treatment (range, 0%–4%; RR, 6.77; P = .001).
                 += Overall, the incidence of neutropenia (grade 3 or worse) was similar in both arms.
-                > '35
+                > '15495029
 
         / Radiation therapy dose escalation for concurrent chemoradiation
         +=
           \
             += With improvement in radiation therapy–delivery technology in the 1990s, including tumor-motion management and image guidance, phase I/II trials demonstrated the feasibility of dose-escalation radiation therapy to 74 Gy with concurrent chemotherapy.
               \
-                > '40
-                > '41
-                > '42
+                > '12243807
+                > '18487565
+                > '20368547
             += However, a phase III trial of a conventional dose of 60 Gy versus dose escalation to 74 Gy with concurrent weekly carboplatin/paclitaxel did not demonstrate improved local control or PFS, and OS was worse with dose escalation (HR, 1.38 [1.09–1.76]; P = .004).
             += There was a nonsignificant increase in grade 5 events with dose escalation (10% vs. 2%) and higher incidence of grade 3 esophagitis (21% vs. 7%; P =.0003).
             += Thus, there is no clear benefit in radiation dose escalation beyond 60 Gy for stage III NSCLC.[Level of evidence: 1iiA]
-              \ '43
+              \ '25601342
 
         / Choice of systemic therapy for concurrent chemoradiation
         +=
           \
             += The randomized phase III PROCLAIM study [NCT00686959] enrolled 598 patients with newly diagnosed, stage IIIA/B, unresectable, nonsquamous NSCLC.
-              \ '44
+              \ '26811519
             <= Patients were randomly assigned on a 1:1 ratio to either of two arms:
               \
                 <= Arm A: Pemetrexed (500 mg/m2) and cisplatin (75 mg/m2) intravenously every 3 weeks for three cycles plus concurrent thoracic radiation therapy (60 to 66 Gy) followed by pemetrexed consolidation every 3 weeks for four cycles.
@@ -346,12 +346,12 @@
             +=
               \
                 += The addition of induction chemotherapy before concurrent chemotherapy and radiation therapy has not been shown to improve survival.[Level of evidence: 1iiA]
-                  \ '45
+                  \ '17404369
                 / Durvalumab
                 += Durvalumab is a selective human IgG1 monoclonal antibody that blocks programmed death ligand 1 (PD-L1) binding to programmed death 1 (PD-1) and CD80, allowing T cells to recognize and kill tumor cells.
                   \
                     += The phase III PACIFIC trial (NCT02125461) enrolled 713 patients with stage III NSCLC whose disease had not progressed after two or more cycles of platinum-based chemoradiation therapy.
-                      \ '46
+                      \ '28885881
                     += Patients were randomly assigned in a 2:1 ratio to receive durvalumab (10 mg/kg intravenously) or placebo (every 2 weeks for up to 12 months).
                     += The coprimary endpoints were PFS assessed by blinded independent central review and OS (unplanned for the interim analysis).
                     += At the interim analysis, the coprimary endpoint of PFS was met. The median PFS was 16.8 months with durvalumab versus 5.6 months with placebo (HR, 0.52; 95% CI, 0.42–0.65; P< .001).[Level of evidence:1iiDiii]
@@ -366,9 +366,9 @@
                 / Other systemic consolidation therapies
                 += Randomized trials of other consolidation systemic therapies, including docetaxel, gefitinib, and tecemotide (MUC1 antigen-specific immunotherapy) have not shown an improvement in OS.[Level of evidence: 1iiA]
                   \
-                    > '47
-                    > '48
-                    > '49
+                    > '19001323
+                    > '18378568
+                    > '24331154
 
   / Standard Treatment Options for Superior Sulcus Tumors (T3, N0 or N1, M0)
   line !3
@@ -390,8 +390,8 @@
           \
             += While radiation therapy is an integral part of the treatment of Pancoast tumors, variations in dose, treatment technique, and staging that were used in various published series make it difficult to determine its effectiveness.
               \
-                > '50
-                > '51
+                > '17138221
+                > '16955087
 
         / Prognosis
         +=
@@ -402,15 +402,15 @@
         / Evidence
         += In the preoperative setting, a dose of 45 Gy over 5 weeks is generally recommended, while a dose of approximately 61 Gy is required when using definitive radiation therapy as the primary modality.
           \
-            > '50
-            > '51
+            > '17138221
+            > '16955087
 
     / Surgery
     +=
       \
         / Evidence
         += Retrospective case series have reported that complete resection was achieved in only 64% of T3, N0 tumors and 39% of T4, N0 tumors.
-          \ '52
+          \ '10838531
 
     / Chemoradiation therapy followed by surgery
     +=
@@ -420,7 +420,7 @@
           \
             += In the first trial (NCT00002642), 110 eligible patients were enrolled with mediastinoscopy negative, clinical T3–4, N0–1 tumors of the superior sulcus.
               \
-                > '54
+                > '17235046
                 += Induction treatment was two cycles of etoposide and cisplatin with 45 Gy of concurrent radiation therapy.
                 += The induction regimen was well tolerated, and only five participants had grade 3 or higher toxic effects.
                 += Induction chemoradiation therapy could sterilize the primary lesion. Induction therapy was completed by 104 patients (95%). Of the 95 patients eligible for surgery, 88 (80%) underwent thoracotomy, two (1.8%) died postoperatively, and 83 (76%) had complete resections.
@@ -428,7 +428,7 @@
                 += Five-year survival was 44% for all patients and 54% after complete resection, with no difference between T3 and T4 tumors. Disease progression occurred mainly in distant sites.
             += In the second trial, 75 patients were enrolled and treated with induction therapy with mitomycin C, vindesine, and cisplatin combined with 45 Gy of radiation therapy.
               \
-                > '53
+                > '18235125
                 += Fifty-seven patients (76%) underwent surgical resection, and complete resection was achieved in 51 patients (68%).
                 += There were 12 patients with pathologic complete response.
                 += Major postoperative morbidity, including chylothorax, empyema, pneumonitis, adult respiratory distress syndrome, and bleeding, was observed in eight patients. There were three treatment-related deaths.
@@ -439,19 +439,19 @@
           \
             += With improvement in radiation therapy–delivery technology in the 1990s, including tumor-motion management and image guidance, phase I/II trials demonstrated the feasibility of dose-escalation radiation therapy to 74 Gy with concurrent chemotherapy.
               \
-                > '40
-                > '41
-                > '42
+                > '12243807
+                > '18487565
+                > '20368547
             # += However, a phase III trial of a conventional dose of 60 Gy versus dose escalation to 74 Gy with concurrent weekly carboplatin/paclitaxel did not demonstrate improved local control or PFS, and OS was worse with dose escalation (HR, 1.38 [1.09–1.76]; P = .004).
             += There was a nonsignificant increase in grade 5 events with dose escalation (10% vs. 2%) and higher incidence of grade 3 esophagitis (21% vs. 7%; P = .0003).
             += Thus, there is no clear benefit in radiation dose escalation beyond 60 Gy for stage III NSCLC.[Level of evidence: 1iiA]
-              \ '43
+              \ '25601342
         / Choice of systemic therapy for concurrent chemoradiation
         +=
           \
             += The randomized phase III PROCLAIM study [NCT00686959] enrolled 598 patients with newly diagnosed stage IIIA/B unresectable nonsquamous NSCLC.
               \
-                > '44
+                > '26811519
                 += Patients were randomly assigned in a 1:1 ratio to either of two arms:
                 <= Arm A: Pemetrexed (500 mg/m2) and cisplatin (75 mg/m2) intravenously every 3 weeks for three cycles plus concurrent thoracic radiation therapy (60 to 66 Gy) followed by pemetrexed consolidation every 3 weeks for four cycles.
                 <= Arm B: Standard therapy with etoposide (50 mg/m2) and cisplatin (50 mg/m2) intravenously every 4 weeks for two cycles plus concurrent thoracic radiation therapy (60 to 66 Gy) followed by two cycles of consolidation platinum-based doublet chemotherapy.
@@ -465,13 +465,13 @@
         +=
           \
             += The addition of induction chemotherapy before concurrent chemotherapy and radiation therapy has not been shown to improve survival.[Level of evidence: 1iiA]
-              \ '45
+              \ '17404369
             += The role of consolidation systemic therapy after concurrent chemotherapy and radiation therapy for unresectable NSCLC remains unclear.
             += Randomized trials of consolidation systemic therapy including docetaxel, gefitinib, and tecemotide (MUC1 antigen-specific immunotherapy) have not shown an improvement in OS.[Level of evidence: 1iiA]
               \
-                > '47
-                > '48
-                > '49
+                > '19001323
+                > '18378568
+                > '24331154
 
   / Standard Treatment Options for Tumors That Invade the Chest Wall (T3, N0 or N1, M0)
   line !4
@@ -481,11 +481,11 @@
     +=
       \
         += In a small case series of 97 patients, the 5-year survival rate of patients who had completely resected T3, N0, M0 disease was 44.2%. For patients with completely resected T3, N1, M0 disease, the 5-year survival rate was 40.0%. In patients with completely resected T3, N2, M0 disease, the 5-year survival rate was 6.2%.[Level of evidence: 3iiiDi]
-          \ '55
+          \ '15541985
         += In a small case series of 104 patients, the 5-year survival rate of patients who had completely resected T3, N0, M0 disease was 67.3%. For patients with completely resected T3, N1, M0 disease, the 5-year survival rate was 100.0%. In patients with completely resected T3, N2, M0 disease, the 5-year survival rate was 17.9%.[Level of evidence: 3iiiDi]
-          \ '56
+          \ '11279404
         += In a case series of 309 patients treated at three centers, patients who underwent en bloc resection had superior outcomes compared with patients who underwent extrapleural resections (60.3% vs. 39.1%; P = .03).[Level of evidence: 3iiiDi]
-          \ '57
+          \ '16305839
 
     += Adjuvant chemotherapy is recommended and radiation therapy is reserved for cases with unclear resection margins.
       \

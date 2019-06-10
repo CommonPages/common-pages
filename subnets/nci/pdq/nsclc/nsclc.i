@@ -1,6 +1,8 @@
 public: nsclc
 / Lung Cancer
 space nsclc
+  import $pubmed._
+
   ---
     seer.survival.nsclc
   --

@@ -13,7 +13,7 @@ article '10811675
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Shepherd FA, Dancey J, Ramlau R, et al. Prospective randomized trial of docetaxel versus best supportive care in patients with non-small-cell lung cancer previously treated with platinum-based chemotherapy. J Clin Oncol 2000;18:2095-2103.</div>
+    <div class="Citation-text">Shepherd FA, Dancey J, Ramlau R, et al.: Prospective randomized trial of docetaxel versus best supportive care in patients with non-small-cell lung cancer previously treated with platinum-based chemotherapy. J Clin Oncol 18 (10): 2095-103, 2000.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/10811675">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>
