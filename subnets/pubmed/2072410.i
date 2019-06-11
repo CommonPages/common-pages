@@ -2,7 +2,7 @@
 
 / Slebos et al., 1991
 // Relationship between K-ras oncogene activation and smoking in adenocarcinoma of the human lung.
-/// Slebos et al., 1991
+/// To investigate a possible relationship between the exposure to tobacco smoke and the presence of ras point mutations, we examined lung adenocarcinoma samples from 27 smokers and from 27 nonsmokers. 
 article '2072410
 
 

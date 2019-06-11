@@ -2,7 +2,7 @@
 
 / Lee et al., 2013
 // Long-term survival after lobectomy for non-small cell lung cancer by video-assisted thoracic surgery versus thoracotomy.
-/// Lee et al., 2013
+/// For patients with clinical stage I NSCLC, VATS lobectomy offered similar OS and DFS compared with thoracotomy. 
 article '23866808
 
   index: hide

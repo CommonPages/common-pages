@@ -2,7 +2,7 @@
 
 / Rami-Porta et al., 2011
 // The new tumor, node, and metastasis staging system.
-/// Rami-Porta et al., 2011
+/// The seventh edition of the tumor, node, and metastasis (TNM) classification is based on the proposals of the Staging Project of the International Association for the Study of Lung Cancer (IASLC). 
 article '21500123
 
 

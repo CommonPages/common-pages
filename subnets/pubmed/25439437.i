@@ -2,7 +2,7 @@
 
 / Langer et al., 2015
 // Comparison of survival and hospitalization rates between Medicare patients with advanced NSCLC treated with bevacizumab-carboplatin-paclitaxel and carboplatin-paclitaxel: a retrospective cohort study.
-/// Langer et al., 2015
+/// In this retrospective analysis of Medicare patients in the SEER database, first-line therapy with BCP was associated with longer survival and fewer hospitalizations than CP. 
 article '25439437
 
   index: hide

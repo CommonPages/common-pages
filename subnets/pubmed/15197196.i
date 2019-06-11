@@ -2,7 +2,7 @@
 
 / Viney et al., 2004
 // Randomized controlled trial of the role of positron emission tomography in the management of stage I and II non-small-cell lung cancer.
-/// Viney et al., 2004
+/// For patients who are carefully and appropriately staged as having stage I-II disease, PET provides potential for more appropriate stage-specific therapy but may not lead to a significant reduction in the number of thoracotomies avoided. 
 article '15197196
 
   index: hide

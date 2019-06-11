@@ -2,7 +2,7 @@
 
 / Li et al., 2007
 // Regression after whole-brain radiation therapy for brain metastases correlates with survival and improved neurocognitive function.
-/// Li et al., 2007
+/// WBRT-induced tumor shrinkage correlates with better survival and NCF preservation. 
 article '17401015
 
   index: hide

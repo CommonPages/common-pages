@@ -2,7 +2,7 @@
 
 / Gould et al., 2016
 // Recent Trends in the Identification of Incidental Pulmonary Nodules.
-/// Gould et al., 2016
+/// Incidental pulmonary nodules are an increasingly common consequence of routine medical care, with an incidence that is much greater than recognized previously. 
 article '26214244
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Yasuda et al., 2012
 // EGFR exon 20 insertion mutations in non-small-cell lung cancer: preclinical data and clinical implications.
-/// Yasuda et al., 2012
+/// Lung cancer is the leading cause of cancer-related death. 
 article '21764376
 
 

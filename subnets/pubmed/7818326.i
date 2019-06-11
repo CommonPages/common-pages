@@ -2,7 +2,7 @@
 
 / Izbicki et al., 1995
 // Impact of radical systematic mediastinal lymphadenectomy on tumor staging in lung cancer.
-/// Izbicki et al., 1995
+/// The extent of lymphadenectomy in the treatment of non-small cell lung cancer is still a matter of controversy. 
 article '7818326
 
 

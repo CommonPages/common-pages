@@ -2,7 +2,7 @@
 
 / Wallander et al., 2012
 // Comparison of reverse transcription-polymerase chain reaction, immunohistochemistry, and fluorescence in situ hybridization methodologies for detection of echinoderm microtubule-associated proteinlike 4-anaplastic lymphoma kinase fusion-positive non-small cell lung carcinoma: implications for optimal clinical testing.
-/// Wallander et al., 2012
+/// The FISH interpretation demonstrated great variability among observers. 
 article '22742552
 
   index: hide

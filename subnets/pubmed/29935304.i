@@ -2,7 +2,7 @@
 
 / Lin et al., 2019
 // Brigatinib in Patients With Alectinib-Refractory ALK-Positive NSCLC.
-/// Lin et al., 2019
+/// Brigatinib has limited clinical activity in alectinib-refractory ALK-positive NSCLC. 
 article '29935304
 
   index: hide

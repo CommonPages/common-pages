@@ -2,7 +2,7 @@
 
 / Macchiarini et al., 1993
 // Blood vessel invasion by tumor cells predicts recurrence in completely resected T1 N0 M0 non-small-cell lung cancer.
-/// Macchiarini et al., 1993
+/// The prognostic significance of traditional and newer tumor cell-related biologic parameters, like deoxyribonucleic acid ploidy (flow cytometry), proliferative activity (expression of proliferating cell nuclear antigen by immunohistochemistry), mitotic count, and intratumoral or peritumoral (or both) blood or lymphatic vessel invasion by tumor cells was investigated in 95 consecutive patients who had T1 N0 M0 non-small-cell lung cancer and who had operation alone between 1975 and 1985. 
 article '8391612
 
 

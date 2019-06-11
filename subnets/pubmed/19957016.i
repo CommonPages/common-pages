@@ -2,7 +2,7 @@
 
 / Ammirati et al., 2010
 // The role of retreatment in the management of recurrent/progressive brain metastases: a systematic review and evidence-based clinical practice guideline.
-/// Ammirati et al., 2010
+/// Level 3 Since there is insufficient evidence to make definitive treatment recommendations in patients with recurrent/progressive brain metastases, treatment should be individualized based on a patient's functional status, extent of disease, volume/number of metastases, recurrence or progression at original versus non-original site, previous treatment and type of primary cancer, and enrollment in clinical trials is encouraged. 
 article '19957016
 
   index: hide

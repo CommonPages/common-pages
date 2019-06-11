@@ -2,7 +2,7 @@
 
 / Dosoretz et al., 1992
 // Radiation therapy in the management of medically inoperable carcinoma of the lung: results and implications for future treatment strategies.
-/// Dosoretz et al., 1992
+/// Surgery is the treatment of choice for resectable non-small cell lung carcinoma. 
 article '1324899
 
 

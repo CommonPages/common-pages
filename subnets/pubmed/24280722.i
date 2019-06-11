@@ -2,7 +2,7 @@
 
 / Altorki et al., 2014
 // Sublobar resection is equivalent to lobectomy for clinical stage 1A lung cancer in solid nodules.
-/// Altorki et al., 2014
+/// Sublobar resection and lobectomy have equivalent survival for patients with clinical stage IA non-small cell lung cancer in the context of computed tomography screening for lung cancer. 
 article '24280722
 
   index: hide

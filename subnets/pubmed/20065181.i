@@ -2,7 +2,7 @@
 
 / Grills et al., 2010
 // Outcomes after stereotactic lung radiotherapy or wedge resection for stage I non-small-cell lung cancer.
-/// Grills et al., 2010
+/// PURPOSE To compare outcomes between lung stereotactic radiotherapy (SBRT) and wedge resection for stage I non-small-cell lung cancer (NSCLC). 
 article '20065181
 
 

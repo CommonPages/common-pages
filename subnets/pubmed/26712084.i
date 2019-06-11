@@ -2,7 +2,7 @@
 
 / Herbst et al., 2016
 // Pembrolizumab versus docetaxel for previously treated, PD-L1-positive, advanced non-small-cell lung cancer (KEYNOTE-010): a randomised controlled trial.
-/// Herbst et al., 2016
+/// Pembrolizumab prolongs overall survival and has a favourable benefit-to-risk profile in patients with previously treated, PD-L1-positive, advanced non-small-cell lung cancer. 
 article '26712084
 
   index: hide
@@ -13,7 +13,7 @@ article '26712084
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Herbst RS, Baas P, Kim DW, et al.: Pembrolizumab versus docetaxel for previously treated, PD-L1-positive, advanced non-small-cell lung cancer (KEYNOTE-010): a randomised controlled trial. Lancet 387 (10027): 1540-50, 2016.</div>
+    <div class="Citation-text">Herbst RS, Baas P, Kim DW, et al. Pembrolizumab versus docetaxel for previously treated, PD-L1-positive, advanced non-small-cell lung cancer (KEYNOTE-010): a randomised controlled trial. Lancet 2016;387:1540-1550.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26712084">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

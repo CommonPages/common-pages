@@ -2,7 +2,7 @@
 
 / Kim et al., 2008
 // Gefitinib versus docetaxel in previously treated non-small-cell lung cancer (INTEREST): a randomised phase III trial.
-/// Kim et al., 2008
+/// INTEREST established non-inferior survival of gefitinib compared with docetaxel, suggesting that gefitinib is a valid treatment for pretreated patients with advanced non-small-cell lung cancer. 
 article '19027483
 
   index: hide

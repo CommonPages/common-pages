@@ -2,7 +2,7 @@
 
 / Awad et al., 2016
 // MET Exon 14 Mutations in Non-Small-Cell Lung Cancer Are Associated With Advanced Age and Stage-Dependent MET Genomic Amplification and c-Met Overexpression.
-/// Awad et al., 2016
+/// MET exon 14 mutations represent a clinically unique molecular subtype of NSCLC. 
 article '26729443
 
   index: hide

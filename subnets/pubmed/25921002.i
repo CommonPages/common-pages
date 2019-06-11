@@ -2,7 +2,7 @@
 
 / Kawamura et al., 2015
 // High-dose erlotinib for refractory leptomeningeal metastases after failure of standard-dose EGFR-TKIs.
-/// Kawamura et al., 2015
+/// High-dose erlotinib suggested its efficacy and safety in some patients with refractory LM. 
 article '25921002
 
   index: hide

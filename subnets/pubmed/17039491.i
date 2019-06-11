@@ -2,7 +2,7 @@
 
 / Jaklitsch et al., 2006
 // Nodal downstaging predicts survival following induction chemotherapy for stage IIIA (N2) non-small cell lung cancer in CALGB protocol #8935.
-/// Jaklitsch et al., 2006
+/// These data suggest: (1) persistent N2 disease following induction chemotherapy is unfavorable; (2) patients downstaged to N2 negative may benefit from surgical resection; however, (3) 33% of N2 negative patients suffered disease relapse. 
 article '17039491
 
   index: hide

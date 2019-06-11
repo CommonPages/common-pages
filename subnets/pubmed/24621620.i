@@ -2,7 +2,7 @@
 
 / Yamamoto et al., 2014
 // Stereotactic radiosurgery for patients with multiple brain metastases (JLGK0901): a multi-institutional prospective observational study.
-/// Yamamoto et al., 2014
+/// Our results suggest that stereotactic radiosurgery without WBRT in patients with five to ten brain metastases is non-inferior to that in patients with two to four brain metastases. 
 article '24621620
 
   index: hide

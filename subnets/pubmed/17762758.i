@@ -2,7 +2,7 @@
 
 / Sura et al., 2007
 // High-dose radiotherapy for the treatment of inoperable non-small cell lung cancer.
-/// Sura et al., 2007
+/// Our data show a favorable 5-year overall survival rate (36%) with an acceptable toxicity profile in patients with early-stage NSCLC treated to doses of &gt; or =80 Gy using three-dimensional conformal radiotherapy. 
 article '17762758
 
   index: hide

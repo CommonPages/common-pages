@@ -2,7 +2,7 @@
 
 / Torre et al., 2016
 // Lung Cancer Statistics.
-/// Torre et al., 2016
+/// Lung cancer is the leading cause of cancer death among both men and women in the United States. 
 article '26667336
 
 

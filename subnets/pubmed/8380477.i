@@ -2,7 +2,7 @@
 
 / Rusch et al., 1993
 // Surgical resection of stage IIIA and stage IIIB non-small-cell lung cancer after concurrent induction chemoradiotherapy. A Southwest Oncology Group trial.
-/// Rusch et al., 1993
+/// This combined modality therapy has been well tolerated and has been associated with high response and resectability rates in both stage IIIA and stage IIIB non-small-cell lung cancer. 
 article '8380477
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Santana-Davila et al., 2015
 // Cisplatin versus carboplatin-based regimens for the treatment of patients with metastatic lung cancer. An analysis of Veterans Health Administration data.
-/// Santana-Davila et al., 2015
+/// We identified 4352 eligible persons; 4061 (93%) received carboplatin. 
 article '24662458
 
   index: hide

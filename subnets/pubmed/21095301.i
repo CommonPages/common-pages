@@ -2,7 +2,7 @@
 
 / Defranchi et al., 2011
 // Mediastinoscopy in patients with lung cancer and negative endobronchial ultrasound guided needle aspiration.
-/// Defranchi et al., 2011
+/// Endobronchial ultrasound with transbronchial needle aspiration can effectively sample mediastinal lymph node stations in patients with lung cancer. 
 article '21095301
 
   index: hide

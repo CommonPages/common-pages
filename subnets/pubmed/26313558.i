@@ -2,7 +2,7 @@
 
 / Goldstein et al., 2016
 // Necitumumab in Metastatic Squamous Cell Lung Cancer: Establishing a Value-Based Cost.
-/// Goldstein et al., 2016
+/// These findings provide a value-based range for the cost of necitumumab from $563 to $1309 per cycle. 
 article '26313558
 
   index: hide

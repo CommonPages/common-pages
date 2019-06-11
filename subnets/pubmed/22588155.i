@@ -2,7 +2,7 @@
 
 / Oxnard et al., 2012
 // Screening for germline EGFR T790M mutations through lung cancer genotyping.
-/// Oxnard et al., 2012
+/// Genotyping of lung cancers, now commonly performed to predict benefit from treatment with EGFR tyrosine kinase inhibitors, can also be used as a screening tool to identify patients at risk of carrying germline EGFR mutations. 
 article '22588155
 
   index: hide

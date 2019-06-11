@@ -2,7 +2,7 @@
 
 / Pilkington et al., 2015
 // A systematic review of the clinical effectiveness of first-line chemotherapy for adult patients with locally advanced or metastatic non-small cell lung cancer.
-/// Pilkington et al., 2015
+/// Our aim was to evaluate the clinical effectiveness of chemotherapy treatments currently licensed in Europe and recommended by the National Institute for Health and Care Excellence (NICE) for the first-line treatment of adult patients with locally advanced or metastatic non-small cell lung cancer (NSCLC). 
 article '25661113
 
 

@@ -2,7 +2,7 @@
 
 / Simone et al., 2015
 // Novel radiotherapy approaches for lung cancer: combining radiation therapy with targeted and immunotherapies.
-/// Simone et al., 2015
+/// Targeted therapies and immunotherapies have quickly become fixtures in the treatment armamentarium for metastatic non-small cell lung cancer (NSCLC). 
 article '26629423
 
 

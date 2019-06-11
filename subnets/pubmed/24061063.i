@@ -2,7 +2,7 @@
 
 / Seidelman et al., 2014
 // Incidental, subsolid pulmonary nodules at CT: etiology and management.
-/// Seidelman et al., 2014
+/// Pulmonary nodules, both solid and subsolid, are common incidental findings on computed tomography (CT) studies. 
 article '24061063
 
 

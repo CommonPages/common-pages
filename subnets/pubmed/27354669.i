@@ -2,7 +2,7 @@
 
 / Campo et al., 2018
 // Integration of Stereotactic Body Radiation Therapy With Tyrosine Kinase Inhibitors in Stage IV Oncogene-Driven Lung Cancer.
-/// Campo et al., 2018
+/// : Genotype-based selection of patients for targeted therapies has had a substantial impact on the treatment of non-small cell lung cancers (NSCLCs). 
 article '27354669
 
 

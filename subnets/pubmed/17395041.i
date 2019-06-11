@@ -2,7 +2,7 @@
 
 / Kong et al., 2007
 // Physical models and simpler dosimetric descriptors of radiation late toxicity.
-/// Kong et al., 2007
+/// Predicting radiation damage to specific organs is becoming ever more challenging with the use of intensity-modulated beams, nonuniform dose distributions, partial organ irradiation, and interpatient and even intraorgan variations in radiation sensitivity. 
 article '17395041
 
 

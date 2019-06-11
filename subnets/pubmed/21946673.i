@@ -2,7 +2,7 @@
 
 / Decker et al., 2011
 // ACR Appropriateness Criteria® postoperative adjuvant therapy in non-small cell lung cancer.
-/// Decker et al., 2011
+/// Therapeutic options for postoperative adjuvant treatment for patients with non-small cell lung cancer (NSCLC) continue to evolve, and may include postoperative radiotherapy (PORT) and chemotherapy, alone or in combination. 
 article '21946673
 
 

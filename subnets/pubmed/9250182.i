@@ -2,7 +2,7 @@
 
 / Saunders et al., 1997
 // Continuous hyperfractionated accelerated radiotherapy (CHART) versus conventional radiotherapy in non-small-cell lung cancer: a randomised multicentre trial. CHART Steering Committee.
-/// Saunders et al., 1997
+/// CHART compared with conventional radiotherapy gave a significant improvement in survival of patients with NSCLC. 
 article '9250182
 
   index: hide

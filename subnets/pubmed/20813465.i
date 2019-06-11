@@ -2,7 +2,7 @@
 
 / Gopal et al., 2010
 // ACR Appropriateness Criteria® on Induction and Adjuvant Therapy for Stage N2 Non-Small-Cell Lung Cancer: expert panel on radiation oncology-lung.
-/// Gopal et al., 2010
+/// &quot;The American College of Radiology seeks and encourages collaboration with other organizations on the development of the ACR Appropriateness Criteria through society representation on expert panels. 
 article '20813465
 
 

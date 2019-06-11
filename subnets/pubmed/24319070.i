@@ -2,7 +2,7 @@
 
 / Tao et al., 2014
 // Impact of postdiagnosis smoking on long-term survival of cancer patients: the Shanghai cohort study.
-/// Tao et al., 2014
+/// Postdiagnosis cigarettes smoking significantly increased the risk of death for male patients with cancer. 
 article '24319070
 
   index: hide

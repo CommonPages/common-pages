@@ -2,7 +2,7 @@
 
 / Luthra et al., 2015
 // Next-Generation Sequencing in Clinical Molecular Diagnostics of Cancer: Advantages and Challenges.
-/// Luthra et al., 2015
+/// The application of next-generation sequencing (NGS) to characterize cancer genomes has resulted in the discovery of numerous genetic markers. 
 article '26473927
 
 

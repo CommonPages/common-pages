@@ -2,7 +2,7 @@
 
 / Le et al., 2015
 // PD-1 Blockade in Tumors with Mismatch-Repair Deficiency.
-/// Le et al., 2015
+/// This study showed that mismatch-repair status predicted clinical benefit of immune checkpoint blockade with pembrolizumab. 
 article '26028255
 
   index: hide

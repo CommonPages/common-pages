@@ -2,7 +2,7 @@
 
 / Albain et al., 1991
 // Survival determinants in extensive-stage non-small-cell lung cancer: the Southwest Oncology Group experience.
-/// Albain et al., 1991
+/// We analyzed the 2,531-patient Southwest Oncology Group extensive-stage non-small-cell lung cancer (ENSCLC) data base from 1974 to 1988 to (1) assess the interactions of host- or tumor-related prognostic factors and therapy using Cox modeling and recursive partitioning and amalgamation (RPA) to determine whether each independently predicts outcome, and (2) use RPA to define prognostic subsets with different survival potentials. 
 article '1651993
 
 

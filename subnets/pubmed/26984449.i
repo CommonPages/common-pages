@@ -2,7 +2,7 @@
 
 / Kazandjian et al., 2017
 // FDA Approval Summary: Nivolumab for the Treatment of Metastatic Non-Small Cell Lung Cancer With Progression On or After Platinum-Based Chemotherapy.
-/// Kazandjian et al., 2017
+/// : On October 9, 2015, the U.S. Food and Drug Administration expanded the nivolumab metastatic non-small cell lung cancer (NSCLC) indication to include patients with nonsquamous NSCLC after a 3.25-month review timeline. 
 article '26984449
 
 

@@ -2,7 +2,7 @@
 
 / Coate et al., 2011
 // Maintenance therapy in advanced non-small cell lung cancer: evolution, tolerability and outcomes.
-/// Coate et al., 2011
+/// Non-small cell lung cancer (NSCLC) is the leading cause of cancer death in the industrialized world. 
 article '21904577
 
 

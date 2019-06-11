@@ -2,7 +2,7 @@
 
 / Brawley et al., 2014
 // Low-dose spiral CT screening and evaluation of the solitary pulmonary nodule.
-/// Brawley et al., 2014
+/// Lung cancer screening using helical low-dose computerized tomography (LDCT) increased drastically after publication of a successful well-designed prospective randomized screening study, the National Lung Screening Trial. 
 article '25004661
 
 

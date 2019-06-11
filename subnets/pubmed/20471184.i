@@ -2,7 +2,7 @@
 
 / Mohammed et al., 2011
 // Rapid disease progression with delay in treatment of non-small-cell lung cancer.
-/// Mohammed et al., 2011
+/// With NSCLC, treatment delay can lead to disease progression. 
 article '20471184
 
   index: hide

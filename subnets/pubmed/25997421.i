@@ -2,7 +2,7 @@
 
 / Chaudhuri et al., 2016
 // Stereotactic ablative radiotherapy (SABR) for treatment of central and ultra-central lung tumors.
-/// Chaudhuri et al., 2016
+/// Patients with central and ultra-central lung tumors treated with SABR (50 Gy in 4-5 fractions) experienced few toxicities and good outcomes, similar to patients with peripheral lung tumors. 
 article '25997421
 
   index: hide

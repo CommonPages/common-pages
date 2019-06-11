@@ -2,7 +2,7 @@
 
 / Hensing et al., 2003
 // The impact of age on toxicity, response rate, quality of life, and survival in patients with advanced, Stage IIIB or IV nonsmall cell lung carcinoma treated with carboplatin and paclitaxel.
-/// Hensing et al., 2003
+/// The current analysis demonstrated that C/P exhibited similar toxicity profiles in patients age 70 years and older compared with patients younger than age 70 years. 
 article '12910523
 
   index: hide

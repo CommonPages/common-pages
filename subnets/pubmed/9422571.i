@@ -2,7 +2,7 @@
 
 / Sibley et al., 1998
 // Radiotherapy alone for medically inoperable stage I non-small-cell lung cancer: the Duke experience.
-/// Sibley et al., 1998
+/// Patients with clinical Stage I medically inoperable non-small-cell lung cancer treated with contemporary radiotherapy alone achieved a 5-year cause-specific survival of 32%. 
 article '9422571
 
   index: hide

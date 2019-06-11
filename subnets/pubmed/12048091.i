@@ -2,7 +2,7 @@
 
 / Thomas et al., 2002
 // VATS is an adequate oncological operation for stage I non-small cell lung cancer.
-/// Thomas et al., 2002
+/// VATS lung resection with lymph node dissection achieved a 5-year survival similar to that achieved by the conventional approach. 
 article '12048091
 
   index: hide

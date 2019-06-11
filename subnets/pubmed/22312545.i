@@ -2,7 +2,7 @@
 
 / Ellis et al., 2012
 // The role of surgery, radiosurgery and whole brain radiation therapy in the management of patients with metastatic brain tumors.
-/// Ellis et al., 2012
+/// Brain tumors constitute the most common intracranial tumor. 
 article '22312545
 
 

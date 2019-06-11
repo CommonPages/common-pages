@@ -2,7 +2,7 @@
 
 / Chan et al., 2014
 // Stereotactic radiosurgery for metastatic spine tumors.
-/// Chan et al., 2014
+/// Spinal metastases invariably affect the majority of patients with cancer. 
 article '24614791
 
 

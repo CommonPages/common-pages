@@ -2,7 +2,7 @@
 
 / Hoopes et al., 2007
 // FDG-PET and stereotactic body radiotherapy (SBRT) for stage I non-small-cell lung cancer.
-/// Hoopes et al., 2007
+/// Isolated nodal recurrence following PET-staged I NSCLC treated with SBRT is uncommon. 
 article '17353064
 
   index: hide

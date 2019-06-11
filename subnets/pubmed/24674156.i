@@ -2,7 +2,7 @@
 
 / Patel et al., 2014
 // Evidence supporting contemporary post-operative radiation therapy (PORT) using linear accelerators in N2 lung cancer.
-/// Patel et al., 2014
+/// PORT was associated with significantly lower risk of death and locoregional recurrence in patients with N2 lung cancer. 
 article '24674156
 
   index: hide

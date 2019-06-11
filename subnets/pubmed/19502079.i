@@ -2,7 +2,7 @@
 
 / Decaluwé et al., 2010
 // Surgical multimodality treatment for baseline resectable stage IIIA-N2 non-small cell lung cancer. Degree of mediastinal lymph node involvement and impact on survival.
-/// Decaluwé et al., 2010
+/// Surgery after induction chemotherapy for stage IIIA-N2 NSCLC can be performed with an acceptable mortality and morbidity. 
 article '19502079
 
   index: hide

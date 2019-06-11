@@ -2,7 +2,7 @@
 
 / Lynch et al., 2010
 // Cetuximab and first-line taxane/carboplatin chemotherapy in advanced non-small-cell lung cancer: results of the randomized multicenter phase III trial BMS099.
-/// Lynch et al., 2010
+/// PURPOSE To evaluate the efficacy of cetuximab plus taxane/carboplatin (TC) as first-line treatment of advanced non-small-cell lung cancer (NSCLC). 
 article '20100966
 
 

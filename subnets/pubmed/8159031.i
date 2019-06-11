@@ -2,7 +2,7 @@
 
 / Warren et al., 1994
 // Segmentectomy versus lobectomy in patients with stage I pulmonary carcinoma. Five-year survival and patterns of intrathoracic recurrence.
-/// Warren et al., 1994
+/// One hundred seventy-three patients with stage I (T1 N0, T2 N0) non-small-cell lung cancer underwent either a segmental pulmonary resection (n = 68) or lobectomy (n = 105) from 1980 to 1988. 
 article '8159031
 
 

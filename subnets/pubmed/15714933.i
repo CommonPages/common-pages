@@ -2,7 +2,7 @@
 
 / Erridge et al., 2005
 // Symptom control and quality of life in people with lung cancer: a randomised trial of two palliative radiotherapy fractionation schedules.
-/// Erridge et al., 2005
+/// Although this trial met the pre-determined criteria for equivalence between the two palliative regimens, significantly more patients achieved complete resolution of symptoms and palliation of chest pain and dyspnoea with the fractionated regimen. 
 article '15714933
 
   index: hide

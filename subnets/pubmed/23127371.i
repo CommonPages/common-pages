@@ -2,7 +2,7 @@
 
 / Lou et al., 2013
 // Patterns of recurrence and second primary lung cancer in early-stage lung cancer survivors followed with routine computed tomography surveillance.
-/// Lou et al., 2013
+/// Almost all second primary cancers and the majority of recurrences were detected by post-therapeutic surveillance computed tomography scan. 
 article '23127371
 
   index: hide

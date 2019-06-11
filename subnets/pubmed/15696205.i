@@ -2,7 +2,7 @@
 
 / Pao et al., 2006
 // KRAS mutations and primary resistance of lung adenocarcinomas to gefitinib or erlotinib.
-/// Pao et al., 2006
+/// Our results suggest that treatment decisions regarding use of these kinase inhibitors might be improved by determining the mutational status of both EGFR and KRAS. 
 article '15696205
 
   index: hide

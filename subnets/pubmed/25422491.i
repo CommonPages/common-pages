@@ -2,7 +2,7 @@
 
 / Santana-Davila et al., 2015
 // Cisplatin and etoposide versus carboplatin and paclitaxel with concurrent radiotherapy for stage III non-small-cell lung cancer: an analysis of Veterans Health Administration data.
-/// Santana-Davila et al., 2015
+/// After accounting for prognostic variables, patients treated with EP versus CP had similar overall survival, but EP was associated with increased morbidity. 
 article '25422491
 
   index: hide

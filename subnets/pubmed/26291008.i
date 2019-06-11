@@ -2,7 +2,7 @@
 
 / Travis et al., 2016
 // The 2015 World Health Organization Classification of Lung Tumors: Impact of Genetic, Clinical and Radiologic Advances Since the 2004 Classification.
-/// Travis et al., 2016
+/// The 2015 World Health Organization (WHO) Classification of Tumors of the Lung, Pleura, Thymus and Heart has just been published with numerous important changes from the 2004 WHO classification. 
 article '26291008
 
 

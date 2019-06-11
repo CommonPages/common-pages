@@ -2,7 +2,7 @@
 
 / Roberts et al., 2000
 // Factors associated with false-positive staging of lung cancer by positron emission tomography.
-/// Roberts et al., 2000
+/// Although positron emission tomography has been established as an accurate modality to stage non-small cell lung cancer, false-positive evaluation of mediastinal metastases can occur in the setting of concurrent inflammatory lung diseases or for centrally located tumors. 
 article '11081861
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Chang et al., 2006
 // Significant reduction of normal tissue dose by proton radiotherapy compared with three-dimensional conformal or intensity-modulated radiation therapy in Stage I or Stage III non-small-cell lung cancer.
-/// Chang et al., 2006
+/// Proton treatment appears to reduce dose to normal tissues significantly, even with dose escalation, compared with standard-dose photon therapy, either 3D-CRT or IMRT. 
 article '16682145
 
   index: hide

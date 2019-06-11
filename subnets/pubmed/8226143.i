@@ -2,7 +2,7 @@
 
 / Kaskowitz et al., 1993
 // Radiation therapy alone for stage I non-small cell lung cancer.
-/// Kaskowitz et al., 1993
+/// Results of definitive radiation therapy for inoperable Stage I non-small cell lung remain inferior to surgical therapy. 
 article '8226143
 
   index: hide

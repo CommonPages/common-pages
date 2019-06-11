@@ -2,7 +2,7 @@
 
 / Johung et al., 2016
 // Extended Survival and Prognostic Factors for Patients With ALK-Rearranged Non-Small-Cell Lung Cancer and Brain Metastasis.
-/// Johung et al., 2016
+/// Patients with brain metastases from ALK-rearranged NSCLC treated with radiotherapy (SRS and/or WBRT) and TKIs have prolonged survival, suggesting that interventions to control intracranial disease are critical. 
 article '26438117
 
   index: hide

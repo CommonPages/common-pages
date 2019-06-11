@@ -2,7 +2,7 @@
 
 / Kelly et al., 2010
 // Stereotactic body radiation therapy for patients with lung cancer previously treated with thoracic radiation.
-/// Kelly et al., 2010
+/// SBRT can provide excellent in-field tumor control in patients who have received prior radiation therapy. 
 article '20381271
 
   index: hide

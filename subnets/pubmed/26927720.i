@@ -2,7 +2,7 @@
 
 / Kerr et al., 2016
 // Non-Small Cell Lung Cancer, PD-L1, and the Pathologist.
-/// Kerr et al., 2016
+/// The biology of PD-1/PD-L1 is complex, the clinical data for these drugs show considerable variation, the selection performance of the PD-L1 biomarker test is not perfect, and the existence of 4 drug/test combinations adds significantly to the problems faced. 
 article '26927720
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Riely et al., 2007
 // Prospective assessment of discontinuation and reinitiation of erlotinib or gefitinib in patients with acquired resistance to erlotinib or gefitinib followed by the addition of everolimus.
-/// Riely et al., 2007
+/// In patients who develop acquired resistance, stopping erlotinib or gefitinib results in symptomatic progression, increase in SUV(max), and increase in tumor size. 
 article '17785570
 
   index: hide

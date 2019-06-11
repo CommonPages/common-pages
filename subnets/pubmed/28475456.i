@@ -2,13 +2,13 @@
 
 / Kim et al., 2017
 // Brigatinib in Patients With Crizotinib-Refractory Anaplastic Lymphoma Kinase-Positive Non-Small-Cell Lung Cancer: A Randomized, Multicenter Phase II Trial.
-/// Kim et al., 2017
+/// Purpose Most crizotinib-treated patients with anaplastic lymphoma kinase gene ( ALK)-rearranged non-small-cell lung cancer (ALK-positive NSCLC) eventually experience disease progression. 
 article '28475456
 
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Kim DW, Tiseo M, Ahn MJ, et al.: Brigatinib in Patients With Crizotinib-Refractory Anaplastic Lymphoma Kinase-Positive Non-Small-Cell Lung Cancer: A Randomized, Multicenter Phase II Trial. J Clin Oncol 35 (22): 2490-2498, 2017.</div>
+    <div class="Citation-text">Kim DW, Tiseo M, Ahn MJ, et al. Brigatinib in patients with crizotinib-refractory anaplastic lymphoma kinase-positive non-small-cell lung cancer: a randomized, multicenter phase II trial. J Clin Oncol 2017;35:2490-2498.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/28475456">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

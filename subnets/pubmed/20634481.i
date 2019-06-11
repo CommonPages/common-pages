@@ -2,7 +2,7 @@
 
 / Friedman et al., 2010
 // Subsequent neoplasms in 5-year survivors of childhood cancer: the Childhood Cancer Survivor Study.
-/// Friedman et al., 2010
+/// As childhood cancer survivors progress through adulthood, risk of subsequent neoplasms increases. 
 article '20634481
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Mulvenna et al., 2016
 // Dexamethasone and supportive care with or without whole brain radiotherapy in treating patients with non-small cell lung cancer with brain metastases unsuitable for resection or stereotactic radiotherapy (QUARTZ): results from a phase 3, non-inferiority, randomised trial.
-/// Mulvenna et al., 2016
+/// Whole brain radiotherapy (WBRT) and dexamethasone are widely used to treat brain metastases from non-small cell lung cancer (NSCLC), although there have been no randomised clinical trials showing that WBRT improves either quality of life or overall survival. 
 article '27604504
 
 

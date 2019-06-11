@@ -2,7 +2,7 @@
 
 / Ilonen et al., 2012
 // Anatomic thoracoscopic lung resection for non-small cell lung cancer in stage I is associated with less morbidity and shorter hospitalization than thoracotomy.
-/// Ilonen et al., 2012
+/// Despite the VATS lobectomy and segmentectomy patients' being older, with more comorbid condition and poorer pulmonary function, the incidence of major complications was lower and hospitalization shorter than for open thoracotomy patients. 
 article '21314296
 
   index: hide

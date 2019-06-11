@@ -2,7 +2,7 @@
 
 /  et al., 2010
 // Adjuvant chemotherapy, with or without postoperative radiotherapy, in operable non-small-cell lung cancer: two meta-analyses of individual patient data.
-///  et al., 2010
+/// The addition of adjuvant chemotherapy after surgery for patients with operable non-small-cell lung cancer improves survival, irrespective of whether chemotherapy was adjuvant to surgery alone or adjuvant to surgery plus radiotherapy. 
 article '20338627
 
   index: hide

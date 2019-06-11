@@ -2,7 +2,7 @@
 
 / Gonzales et al., 2014
 // Retreatment with varenicline for smoking cessation in smokers who have previously taken varenicline: a randomized, placebo-controlled trial.
-/// Gonzales et al., 2014
+/// The efficacy and safety of retreatment with varenicline in smokers attempting to quit were evaluated in this randomized, double-blind, placebo-controlled, multicenter trial (Australia, Belgium, Canada, the Czech Republic, France, Germany, the United Kingdom, and the United States). 
 article '24911368
 
 

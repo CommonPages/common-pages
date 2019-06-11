@@ -2,7 +2,7 @@
 
 / Yasufuku et al., 2006
 // Comparison of endobronchial ultrasound, positron emission tomography, and CT for lymph node staging of lung cancer.
-/// Yasufuku et al., 2006
+/// Compared to CT and PET, EBUS-TBNA has a high sensitivity as well as specificity for mediastinal and hilar lymph node staging in patients with lung cancer. 
 article '16963667
 
   index: hide

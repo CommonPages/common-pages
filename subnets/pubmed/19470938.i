@@ -2,7 +2,7 @@
 
 / Soon et al., 2009
 // Duration of chemotherapy for advanced non-small-cell lung cancer: a systematic review and meta-analysis of randomized trials.
-/// Soon et al., 2009
+/// Extending chemotherapy, particularly with a third-generation regimen, improved PFS substantially, but OS less so. 
 article '19470938
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Riely et al., 2007
 // Update on epidermal growth factor receptor mutations in non-small cell lung cancer.
-/// Riely et al., 2007
+/// In 2004, several investigators reported that somatic mutations in the epidermal growth factor receptor gene were associated with clinical responses to erlotinib and gefitinib in patients with non-small cell lung cancer. 
 article '17189394
 
 

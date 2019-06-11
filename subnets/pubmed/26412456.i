@@ -2,7 +2,7 @@
 
 / Borghaei et al., 2015
 // Nivolumab versus Docetaxel in Advanced Nonsquamous Non-Small-Cell Lung Cancer.
-/// Borghaei et al., 2015
+/// Among patients with advanced nonsquamous NSCLC that had progressed during or after platinum-based chemotherapy, overall survival was longer with nivolumab than with docetaxel. 
 article '26412456
 
   index: hide
@@ -13,7 +13,7 @@ article '26412456
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Borghaei H, Paz-Ares L, Horn L, et al.: Nivolumab versus Docetaxel in Advanced Nonsquamous Non-Small-Cell Lung Cancer. N Engl J Med 373 (17): 1627-39, 2015.</div>
+    <div class="Citation-text">Borghaei H, Paz-Ares L, Horn L, et al. Nivolumab versus docetaxel in advanced nonsquamous non-small-cell lung cancer. N Engl J Med 2015;373:1627-1639.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26412456">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

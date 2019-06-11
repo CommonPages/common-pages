@@ -2,7 +2,7 @@
 
 / Hanna et al., 2009
 // Phase III study of cisplatin, etoposide, and concurrent chest radiation with or without consolidation docetaxel in patients with inoperable stage III non-small-cell lung cancer: the Hoosier Oncology Group and U.S. Oncology.
-/// Hanna et al., 2009
+/// Consolidation docetaxel after PE/XRT results in increased toxicities but does not further improve survival compared with PE/XRT alone in patients with stage III inoperable NSCLC. 
 article '19001323
 
   index: hide

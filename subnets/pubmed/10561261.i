@@ -2,7 +2,7 @@
 
 / Crinò et al., 2000
 // Gemcitabine as second-line treatment for advanced non-small-cell lung cancer: A phase II trial.
-/// Crinò et al., 2000
+/// In this experience, gemcitabine showed significant activity without relevant toxicity, mainly in patients who were previously responsive to chemotherapy. 
 article '10561261
 
   index: hide

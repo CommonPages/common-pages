@@ -2,7 +2,7 @@
 
 / Godoy et al., 2010
 // Subsolid pulmonary nodules and the spectrum of peripheral adenocarcinomas of the lung: recommended interim guidelines for assessment and management.
-/// Godoy et al., 2010
+/// Pulmonary nodule characterization is currently being redefined as new clinical, radiologic, and pathologic data are reported, necessitating a reevaluation of the clinical management, especially of subsolid nodules. 
 article '19952025
 
 

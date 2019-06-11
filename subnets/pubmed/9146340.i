@@ -2,7 +2,7 @@
 
 / Vansteenkiste et al., 1997
 // Survival and prognostic factors in resected N2 non-small cell lung cancer: a study of 140 cases. Leuven Lung Cancer Group.
-/// Vansteenkiste et al., 1997
+/// In clinical N0 or N1 cancer, complete resection resulted in reasonable survival prospects. 
 article '9146340
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Collen et al., 2015
 // Phase II study of stereotactic body radiotherapy to primary tumor and metastatic locations in oligometastatic nonsmall-cell lung cancer patients.
-/// Collen et al., 2015
+/// SBRT to all disease sites, primary tumor and metastatic locations, in oligometastatic NSCLC patients produced an acceptable median PFS of 11.2 months. 
 article '25114022
 
   index: hide

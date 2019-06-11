@@ -2,7 +2,7 @@
 
 / Ohtsuka et al., 2004
 // Is major pulmonary resection by video-assisted thoracic surgery an adequate procedure in clinical stage I lung cancer?
-/// Ohtsuka et al., 2004
+/// Major pulmonary resection by VATS is acceptable in view of its low perioperative mortality and morbidity, and is an adequate procedure for the achievement of local control and good prognosis in patients with clinical stage I NSCLC. 
 article '15136385
 
   index: hide

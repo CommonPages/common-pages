@@ -2,7 +2,7 @@
 
 / Tammemägi et al., 2015
 // Evaluation of the lung cancer risks at which to screen ever- and never-smokers: screening rules applied to the PLCO and NLST cohorts.
-/// Tammemägi et al., 2015
+/// The USPSTF criteria for CT screening include some low-risk individuals and exclude some high-risk individuals. 
 article '25460915
 
   index: hide

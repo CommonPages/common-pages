@@ -2,7 +2,7 @@
 
 / Cao et al., 2013
 // Video-assisted thoracic surgery versus open thoracotomy for non-small cell lung cancer: a meta-analysis of propensity score-matched patients.
-/// Cao et al., 2013
+/// In view of a paucity of high-level clinical evidence in the form of large, well-designed randomized controlled trials, propensity score matching may provide the highest level of evidence to compare VATS with open thoracotomy for patients with NSCLC. 
 article '23169877
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Detterbeck et al., 2013
 // Screening for lung cancer: Diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines.
-/// Detterbeck et al., 2013
+/// Screening is a complex interplay of selection (a population with sufficient risk and few serious comorbidities), the value of the screening test, the interval between screening tests, the availability of effective treatment, the risk of complications or harms as a result of screening, and the degree with which the screened individuals comply with screening and treatment recommendations. 
 article '23649455
 
   index: hide

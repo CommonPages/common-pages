@@ -2,7 +2,7 @@
 
 / Aziz et al., 2002
 // The management of second primary lung cancers. A single centre experience in 15 years.
-/// Aziz et al., 2002
+/// Aggressive assessment and surgical intervention is safe, effective and warranted in patients with a second lung primary cancer if they satisfy the usual criteria of operability after full assessment. 
 article '11888775
 
   index: hide

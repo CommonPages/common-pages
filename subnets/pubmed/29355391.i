@@ -2,7 +2,7 @@
 
 / Lindeman et al., 2019
 // Updated Molecular Testing Guideline for the Selection of Lung Cancer Patients for Treatment With Targeted Tyrosine Kinase Inhibitors: Guideline From the College of American Pathologists, the International Association for the Study of Lung Cancer, and the Association for Molecular Pathology.
-/// Lindeman et al., 2019
+/// - The 2013 guideline was largely reaffirmed with updated recommendations to allow testing of cytology samples, require improved assay sensitivity, and recommend against the use of immunohistochemistry for EGFR testing. 
 article '29355391
 
   index: hide

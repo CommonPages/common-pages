@@ -2,7 +2,7 @@
 
 / de Marinis et al., 2011
 // Treatment of advanced non-small-cell lung cancer: Italian Association of Thoracic Oncology (AIOT) clinical practice guidelines.
-/// de Marinis et al., 2011
+/// Many developments have been made in advanced NSCLC treatment, and the appropriate use of available therapeutic approaches and the improved understanding of lung cancer molecular abnormalities continue to enhance the outcomes on the basis of well-designed clinical trials which address critical issues in this population. 
 article '21440325
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Weickhardt et al., 2013
 // Diagnostic assays for identification of anaplastic lymphoma kinase-positive non-small cell lung cancer.
-/// Weickhardt et al., 2013
+/// In series dominated by adenocarcinoma histology, approximately 5% of non-small cell lung cancers (NSCLCs) harbor an anaplastic lymphoma kinase (ALK) gene rearrangement. 
 article '23280244
 
 

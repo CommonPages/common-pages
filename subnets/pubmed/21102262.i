@@ -2,7 +2,7 @@
 
 / Neri et al., 2011
 // Surgical treatment of local recurrence after stereotactic body radiotherapy for primary and metastatic lung cancers.
-/// Neri et al., 2011
+/// Our study suggests that SBRT may not be the cause of difficulties encountered during the surgical process, and surgery is a good alternative treatment for local recurrence after SBRT. 
 article '21102262
 
   index: hide

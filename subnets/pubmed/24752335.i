@@ -2,7 +2,7 @@
 
 / Sacher et al., 2014
 // Management of acquired resistance to epidermal growth factor receptor kinase inhibitors in patients with advanced non-small cell lung cancer.
-/// Sacher et al., 2014
+/// The widespread adoption of epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors for the first-line treatment of patients with advanced EGFR-mutated non-small cell lung cancer has resulted in acquired tyrosine kinase inhibitor resistance becoming a ubiquitous clinical problem. 
 article '24752335
 
 

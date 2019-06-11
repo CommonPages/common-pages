@@ -2,7 +2,7 @@
 
 / Matsuo et al., 2012
 // Preliminary report of late recurrences, at 5 years or more, after stereotactic body radiation therapy for non-small cell lung cancer.
-/// Matsuo et al., 2012
+/// The rate of late recurrence was not negligible in long-term survivors after SBRT. 
 article '22252562
 
   index: hide

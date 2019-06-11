@@ -2,7 +2,7 @@
 
 / Swanson et al., 2014
 // Comparing robot-assisted thoracic surgical lobectomy with conventional video-assisted thoracic surgical lobectomy and wedge resection: results from a multihospital database (Premier).
-/// Swanson et al., 2014
+/// RATS lobectomy and wedge resection seem to have higher hospital costs and longer operating times, without any differences in adverse events. 
 article '24210834
 
   index: hide

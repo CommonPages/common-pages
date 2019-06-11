@@ -2,7 +2,7 @@
 
 / Sequist et al., 2011
 // Genotypic and histological evolution of lung cancers acquiring resistance to EGFR inhibitors.
-/// Sequist et al., 2011
+/// Lung cancers harboring mutations in the epidermal growth factor receptor (EGFR) respond to EGFR tyrosine kinase inhibitors, but drug resistance invariably emerges. 
 article '21430269
 
 

@@ -2,7 +2,7 @@
 
 / Tiseo et al., 2011
 // EGFR and EML4-ALK gene mutations in NSCLC: a case report of erlotinib-resistant patient with both concomitant mutations.
-/// Tiseo et al., 2011
+/// The fusion gene EML4-ALK (echinoderm microtubule-associated protein-like 4 gene and the anaplastic lymphoma kinase gene) was recently identified as a novel genetic alteration in non-small cell lung cancer (NSCLC). 
 article '21168933
 
 

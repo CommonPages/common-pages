@@ -2,7 +2,7 @@
 
 / Onishi et al., 2012
 // Stereotactic body radiotherapy (SBRT) for operable stage I non-small-cell lung cancer: can SBRT be comparable to surgery?
-/// Onishi et al., 2012
+/// Stereotactic body radiotherapy is safe and promising as a radical treatment for operable Stage I NSCLC. 
 article '20638194
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Shiels et al., 2015
 // Cigarette smoking prior to first cancer and risk of second smoking-associated cancers among survivors of bladder, kidney, head and neck, and stage I lung cancers.
-/// Shiels et al., 2015
+/// Understanding risk factors for second cancers among cancer survivors is crucial. 
 article '25385740
 
   index: hide

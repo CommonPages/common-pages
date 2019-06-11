@@ -2,7 +2,7 @@
 
 / Socinski et al., 2009
 // Safety of bevacizumab in patients with non-small-cell lung cancer and brain metastases.
-/// Socinski et al., 2009
+/// Addition of bevacizumab to various chemotherapy agents or erlotinib in patients with NSCLC and treated brain metastases seems to be safe and is associated with a low incidence of CNS hemorrhage. 
 article '19738122
 
   index: hide

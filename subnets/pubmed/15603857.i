@@ -2,7 +2,7 @@
 
 / Burdett et al., 2005
 // Postoperative radiotherapy in non-small-cell lung cancer: update of an individual patient data meta-analysis.
-/// Burdett et al., 2005
+/// We report an updated systematic review and individual patient data meta-analysis of the effectiveness of postoperative radiotherapy (PORT) in non-small-cell lung cancer. 
 article '15603857
 
 

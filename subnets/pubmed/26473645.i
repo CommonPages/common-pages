@@ -2,7 +2,7 @@
 
 / Calles et al., 2016
 // Expression of PD-1 and Its Ligands, PD-L1 and PD-L2, in Smokers and Never Smokers with KRAS-Mutant Lung Cancer.
-/// Calles et al., 2016
+/// The expression of PD-1 and its ligands PD-L1 and PD-L2 is heterogeneous within KRAS-mutant NSCLC and suggests an inducible expression of PD-L1 by smoking. 
 article '26473645
 
   index: hide

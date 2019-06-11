@@ -2,7 +2,7 @@
 
 / Yuan et al., 2007
 // A randomized study of involved-field irradiation versus elective nodal irradiation in combination with concurrent chemotherapy for inoperable stage III nonsmall cell lung cancer.
-/// Yuan et al., 2007
+/// IFI arm achieved better overall response and local control than ENI arm, and it allowed a dose of 68 to 74 Gy to be safely administered to patients with inoperable stage III NSCLC. 
 article '17551299
 
   index: hide

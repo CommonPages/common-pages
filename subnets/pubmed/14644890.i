@@ -2,7 +2,7 @@
 
 / Gould et al., 2003
 // Test performance of positron emission tomography and computed tomography for mediastinal staging in patients with non-small-cell lung cancer: a meta-analysis.
-/// Gould et al., 2003
+/// Positron emission tomography with 18-fluorodeoxyglucose is more accurate than CT for mediastinal staging. 
 article '14644890
 
   index: hide

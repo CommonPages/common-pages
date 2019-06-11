@@ -2,7 +2,7 @@
 
 / Besse et al., 2015
 // 2nd ESMO Consensus Conference on Lung Cancer: non-small-cell lung cancer first-line/second and further lines of treatment in advanced disease.
-/// Besse et al., 2015
+/// To complement the existing treatment guidelines for all tumour types, ESMO organises consensus conferences to focus on specific issues in each type of tumour. 
 article '24669016
 
 

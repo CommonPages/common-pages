@@ -2,7 +2,7 @@
 
 / Shirvani et al., 2013
 // Comparative effectiveness of 5 treatment strategies for early-stage non-small cell lung cancer in the elderly.
-/// Shirvani et al., 2013
+/// In this population-based experience, lobectomy was associated with the best long-term outcomes in fit elderly patients with early-stage NSCLC. 
 article '22975611
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Baker et al., 2013
 // Clinical and dosimetric predictors of radiation pneumonitis in a large series of patients treated with stereotactic body radiation therapy to the lung.
-/// Baker et al., 2013
+/// Rate of symptomatic RP was 11%. 
 article '22929858
 
   index: hide

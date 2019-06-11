@@ -2,7 +2,7 @@
 
 / Ordóñez, 2005
 // D2-40 and podoplanin are highly specific and sensitive immunohistochemical markers of epithelioid malignant mesothelioma.
-/// Ordóñez, 2005
+/// Recent investigations have shown that podoplanin and the D2-40 monoclonal antibody, which reacts with an oncofetal antigen present in fetal germ cells, are highly reliable lymphatic endothelial markers. 
 article '15891998
 
 

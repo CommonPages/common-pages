@@ -2,7 +2,7 @@
 
 / Pöttgen et al., 2007
 // Prophylactic cranial irradiation in operable stage IIIA non small-cell lung cancer treated with neoadjuvant chemoradiotherapy: results from a German multicenter randomized trial.
-/// Pöttgen et al., 2007
+/// PCI is effective in preventing brain metastases following this aggressive trimodality approach. 
 article '17971598
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Naidich et al., 2013
 // Recommendations for the management of subsolid pulmonary nodules detected at CT: a statement from the Fleischner Society.
-/// Naidich et al., 2013
+/// This report is to complement the original Fleischner Society recommendations for incidentally detected solid nodules by proposing a set of recommendations specifically aimed at subsolid nodules. 
 article '23070270
 
 

@@ -2,7 +2,7 @@
 
 /  et al., 2013
 // ACR Appropriateness Criteria ® spinal bone metastases.
-///  et al., 2013
+/// Abstract   The spine is a common site of involvement in patients with bone metastases. 
 article '23167547
 
 

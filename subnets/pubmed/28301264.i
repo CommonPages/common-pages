@@ -2,7 +2,7 @@
 
 / Dess et al., 2017
 // Cardiac Events After Radiation Therapy: Combined Analysis of Prospective Multicenter Trials for Locally Advanced Non-Small-Cell Lung Cancer.
-/// Dess et al., 2017
+/// Purpose Radiation therapy is a critical component in the care of patients with non-small-cell lung cancer (NSCLC), yet cardiac injury after treatment is a significant concern. 
 article '28301264
 
 

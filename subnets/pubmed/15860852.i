@@ -2,7 +2,7 @@
 
 / Kramer et al., 2005
 // Results of the Dutch National study of the palliative effect of irradiation using two different treatment schemes for non-small-cell lung cancer.
-/// Kramer et al., 2005
+/// The 10 x 3-Gy radiotherapy schedule is preferred over the 2 x 8-Gy schedule for palliative treatment, as it improves survival and results in a longer duration of the palliative response. 
 article '15860852
 
   index: hide

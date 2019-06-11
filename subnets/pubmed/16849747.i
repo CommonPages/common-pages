@@ -2,7 +2,7 @@
 
 / De Leyn et al., 2006
 // Prospective comparative study of integrated positron emission tomography-computed tomography scan compared with remediastinoscopy in the assessment of residual mediastinal lymph node disease after induction chemotherapy for mediastinoscopy-proven stage IIIA-N2 Non-small-cell lung cancer: a Leuven Lung Cancer Group Study.
-/// De Leyn et al., 2006
+/// After a thorough staging mediastinoscopy, postinduction remediastinoscopy had a disappointing sensitivity because of adhesions and fibrosis. 
 article '16849747
 
   index: hide

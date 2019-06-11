@@ -2,7 +2,7 @@
 
 / Tsao et al., 2012
 // Whole brain radiotherapy for the treatment of newly diagnosed multiple brain metastases.
-/// Tsao et al., 2012
+/// None of the RCTs with altered WBRT dose-fractionation schemes as compared to standard (3000 cGy in 10 daily fractions or 2000 cGy in 4 or 5 daily fractions) found a benefit in terms of overall survival, neurologic function, or symptom control.The use of radiosensitizers or chemotherapy in conjunction with WBRT remains experimental.Radiosurgery boost with WBRT may improve local disease control in selected participants as compared to WBRT alone, although survival remains unchanged for participants with multiple brain metastases.This updated review now includes a total of three RCTs examining the use of radiosurgery alone versus WBRT and radiosurgery. 
 article '22513917
 
   index: hide

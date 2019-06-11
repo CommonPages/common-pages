@@ -2,7 +2,7 @@
 
 / Venmans et al., 2000
 // Outcome of bronchial carcinoma in situ.
-/// Venmans et al., 2000
+/// The majority of sites showing a carcinoma in situ progressed to invasive carcinoma. 
 article '10858385
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Martini et al., 1995
 // Incidence of local recurrence and second primary tumors in resected stage I lung cancer.
-/// Martini et al., 1995
+/// From 1973 to 1985, 598 patients underwent resection for stage I non-small-cell lung cancer. 
 article '7815787
 
 

@@ -2,7 +2,7 @@
 
 / Ramsey et al., 2005
 // Chemotherapy use, outcomes, and costs for older persons with advanced non-small-cell lung cancer: evidence from surveillance, epidemiology and end results-Medicare.
-/// Ramsey et al., 2005
+/// Chemotherapy prolongs survival in community settings, but is underutilized for persons with advanced NSCLC. 
 article '15611512
 
   index: hide

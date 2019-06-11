@@ -2,7 +2,7 @@
 
 / Kazandjian et al., 2015
 // FDA approval summary: crizotinib for the treatment of metastatic non-small cell lung cancer with anaplastic lymphoma kinase rearrangements.
-/// Kazandjian et al., 2015
+/// On August 26, 2011, crizotinib received accelerated approval for the treatment of patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) that is ALK-positive as detected by a test approved by the U.S. Food and Drug Administration (FDA). 
 article '25170012
 
 

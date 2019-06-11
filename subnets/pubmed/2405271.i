@@ -2,13 +2,13 @@
 
 / Patchell et al., 1990
 // A randomized trial of surgery in the treatment of single metastases to the brain.
-/// Patchell et al., 1990
+/// To assess the efficacy of surgical resection of brain metastases from extracranial primary cancer, we randomly assigned patients with a single brain metastasis to either surgical removal of the brain tumor followed by radiotherapy (surgical group) or needle biopsy and radiotherapy (radiation group). 
 article '2405271
 
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Patchell RA, Tibbs PA, Walsh JW, et al.: A randomized trial of surgery in the treatment of single metastases to the brain. N Engl J Med 322 (8): 494-500, 1990.</div>
+    <div class="Citation-text">Patchell RA, Tibbs PA, Walsh JW, et al. A randomized trial of surgery in the treatment of single metastases to the brain. N Engl J Med 1990;322:494-500.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/2405271">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

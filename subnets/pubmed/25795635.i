@@ -2,7 +2,7 @@
 
 / Burotto et al., 2016
 // Gefitinib and erlotinib in metastatic non-small cell lung cancer: a meta-analysis of toxicity and efficacy of randomized clinical trials.
-/// Burotto et al., 2016
+/// Gefitinib has similar activity and toxicity compared with erlotinib and offers a valuable alternative to patients with NSCLC. 
 article '25795635
 
   index: hide

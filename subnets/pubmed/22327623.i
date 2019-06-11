@@ -2,7 +2,7 @@
 
 / Takeuchi et al., 2012
 // RET, ROS1 and ALK fusions in lung cancer.
-/// Takeuchi et al., 2012
+/// Through an integrated molecular- and histopathology-based screening system, we performed a screening for fusions of anaplastic lymphoma kinase (ALK) and c-ros oncogene 1, receptor tyrosine kinase (ROS1) in 1,529 lung cancers and identified 44 ALK-fusion-positive and 13 ROS1-fusion-positive adenocarcinomas, including for unidentified fusion partners for ROS1. 
 article '22327623
 
 

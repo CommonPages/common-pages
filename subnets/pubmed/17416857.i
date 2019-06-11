@@ -2,7 +2,7 @@
 
 / Di Maio et al., 2007
 // Individual patient data meta-analysis of docetaxel administered once every 3 weeks compared with once every week second-line treatment of advanced non-small-cell lung cancer.
-/// Di Maio et al., 2007
+/// wD shows similar efficacy compared with 3wD, and represents an alternative for second-line treatment of advanced NSCLC. 
 article '17416857
 
   index: hide

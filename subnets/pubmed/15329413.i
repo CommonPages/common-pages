@@ -2,7 +2,7 @@
 
 / Pao et al., 2004
 // EGF receptor gene mutations are common in lung cancers from &quot;never smokers&quot; and are associated with sensitivity of tumors to gefitinib and erlotinib.
-/// Pao et al., 2004
+/// Somatic mutations in the tyrosine kinase (TK) domain of the epidermal growth factor receptor (EGFR) gene are reportedly associated with sensitivity of lung cancers to gefitinib (Iressa), kinase inhibitor. 
 article '15329413
 
 

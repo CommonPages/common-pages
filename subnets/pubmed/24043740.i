@@ -2,7 +2,7 @@
 
 / Machtay et al., 2013
 // Prediction of survival by [18F]fluorodeoxyglucose positron emission tomography in patients with locally advanced non-small-cell lung cancer undergoing definitive chemoradiation therapy: results of the ACRIN 6668/RTOG 0235 trial.
-/// Machtay et al., 2013
+/// Higher post-treatment tumor SUV (SUVpeak or SUVmax) is associated with worse survival in stage III NSCLC, although a clear cutoff value for routine clinical use as a prognostic factor is uncertain at this time. 
 article '24043740
 
   index: hide

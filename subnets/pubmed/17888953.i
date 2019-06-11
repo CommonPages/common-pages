@@ -2,7 +2,7 @@
 
 / Cerfolio et al., 2007
 // When is it best to repeat a 2-fluoro-2-deoxy-D-glucose positron emission tomography/computed tomography scan on patients with non-small cell lung cancer who have received neoadjuvant chemoradiotherapy?
-/// Cerfolio et al., 2007
+/// The optimal time to perform a repeat FDG-PET/CT scan after the completion of neoadjuvant chemotherapy and high-dose radiotherapy to maximize its accuracy for restaging patients with NSCLC is about 1 month after the last dose of radiation. 
 article '17888953
 
   index: hide

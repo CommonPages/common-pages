@@ -2,7 +2,7 @@
 
 / Fossella et al., 2003
 // Randomized, multinational, phase III study of docetaxel plus platinum combinations versus vinorelbine plus cisplatin for advanced non-small-cell lung cancer: the TAX 326 study group.
-/// Fossella et al., 2003
+/// DC resulted in a more favorable overall response and survival rate than VC. 
 article '12837811
 
   index: hide

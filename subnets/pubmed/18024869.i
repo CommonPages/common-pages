@@ -2,7 +2,7 @@
 
 / Park et al., 2007
 // Phase III trial of two versus four additional cycles in patients who are nonprogressive after two cycles of platinum-based chemotherapy in non small-cell lung cancer.
-/// Park et al., 2007
+/// This study confirms the noninferiority of overall survival with four cycles compared with six cycles of chemotherapy for the first-line treatment of advanced NSCLC and supports the current American Society of Clinical Oncology guidelines. 
 article '18024869
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Mac Manus et al., 2003
 // Positron emission tomography is superior to computed tomography scanning for response-assessment after radical radiotherapy or chemoradiotherapy in patients with non-small-cell lung cancer.
-/// Mac Manus et al., 2003
+/// In NSCLC, a single, early, posttreatment PET scan is a better predictor of survival than CT response, stage, or pretreatment performance status. 
 article '12663716
 
   index: hide

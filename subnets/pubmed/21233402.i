@@ -2,7 +2,7 @@
 
 / Rosell et al., 2011
 // Pretreatment EGFR T790M mutation and BRCA1 mRNA expression in erlotinib-treated advanced non-small-cell lung cancer patients with EGFR mutations.
-/// Rosell et al., 2011
+/// Low BRCA1 levels neutralized the negative effect of the T790M mutation and were associated with longer progression-free survival to erlotinib. 
 article '21233402
 
   index: hide

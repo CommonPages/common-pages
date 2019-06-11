@@ -2,7 +2,7 @@
 
 / Rea et al., 2001
 // Surgical results for multiple primary lung cancers.
-/// Rea et al., 2001
+/// Careful follow-up is recommended in all patients surviving curative resection. 
 article '11509268
 
   index: hide

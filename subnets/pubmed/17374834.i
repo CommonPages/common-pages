@@ -2,7 +2,7 @@
 
 / van Meerbeeck et al., 2007
 // Randomized controlled trial of resection versus radiotherapy after induction chemotherapy in stage IIIA-N2 non-small-cell lung cancer.
-/// van Meerbeeck et al., 2007
+/// In selected patients with pathologically proven stage IIIA-N2 NSCLC and a response to induction chemotherapy, surgical resection did not improve overall or progression-free survival compared with radiotherapy. 
 article '17374834
 
   index: hide
@@ -13,7 +13,7 @@ article '17374834
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">van Meerbeeck JP, Kramer GW, Van Schil PE, et al.: Randomized controlled trial of resection versus radiotherapy after induction chemotherapy in stage IIIA-N2 non-small-cell lung cancer. J Natl Cancer Inst 99 (6): 442-50, 2007.</div>
+    <div class="Citation-text">van Meerbeeck JP, Kramer GW, Van Schil PE, et al. Randomized controlled trial of resection versus radiotherapy after induction chemotherapy in stage IIIA-N2 non-small-cell lung cancer. J Natl Cancer Inst 2007;99:442-450.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17374834">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

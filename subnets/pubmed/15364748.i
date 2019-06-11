@@ -2,7 +2,7 @@
 
 / Roviaro et al., 2004
 // Long-term survival after videothoracoscopic lobectomy for stage I lung cancer.
-/// Roviaro et al., 2004
+/// Our results after the VATS approach match the &quot;best&quot; results reported in literature following conventional surgery. 
 article '15364748
 
   index: hide

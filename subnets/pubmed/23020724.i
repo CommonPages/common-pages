@@ -2,7 +2,7 @@
 
 / Bang, 2012
 // Treatment of ALK-positive non-small cell lung cancer.
-/// Bang, 2012
+/// Crizotinib (Xalkori), the first inhibitor of both anaplastic lymphoma kinase (ALK) and c-Met receptor kinases, has been approved in the United States, Korea, and other countries for the treatment of ALK-positive non-small cell lung cancer (NSCLC). 
 article '23020724
 
 

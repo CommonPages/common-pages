@@ -2,7 +2,7 @@
 
 / Choi et al., 2010
 // EML4-ALK mutations in lung cancer that confer resistance to ALK inhibitors.
-/// Choi et al., 2010
+/// The EML4 (echinoderm microtubule-associated protein-like 4)-ALK (anaplastic lymphoma kinase) fusion-type tyrosine kinase is an oncoprotein found in 4 to 5% of non-small-cell lung cancers, and clinical trials of specific inhibitors of ALK for the treatment of such tumors are currently under way. 
 article '20979473
 
 

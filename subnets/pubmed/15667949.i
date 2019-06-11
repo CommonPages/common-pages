@@ -2,7 +2,7 @@
 
 / Bradley et al., 2005
 // Toxicity and outcome results of RTOG 9311: a phase I-II dose-escalation study using three-dimensional conformal radiotherapy in patients with inoperable non-small-cell lung carcinoma.
-/// Bradley et al., 2005
+/// The radiation dose was safely escalated using three-dimensional conformal techniques to 83.8 Gy for patients with V(20) values of &lt;25% (Group 1) and to 77.4 Gy for patients with V(20) values between 25% and 36% (Group 2), using fraction sizes of 2.15 Gy. 
 article '15667949
 
   index: hide
@@ -13,7 +13,7 @@ article '15667949
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Bradley J, Graham MV, Winter K, et al.: Toxicity and outcome results of RTOG 9311: a phase I-II dose-escalation study using three-dimensional conformal radiotherapy in patients with inoperable non-small-cell lung carcinoma. Int J Radiat Oncol Biol Phys 61 (2): 318-28, 2005.</div>
+    <div class="Citation-text">Bradley J, Graham MV, Winter K, et al. Toxicity and outcome results of RTOG 9311: a phase I-II dose-escalation study using three-dimensional conformal radiotherapy in patients with inoperable non-small-cell lung carcinoma. Int J Radiat Oncol Biol Phys 2005;61:318-328.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/15667949">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

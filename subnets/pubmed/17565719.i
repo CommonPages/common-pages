@@ -2,7 +2,7 @@
 
 / Corti et al., 2007
 // Long-term survival of patients treated with photodynamic therapy for carcinoma in situ and early non-small-cell lung carcinoma.
-/// Corti et al., 2007
+/// PDT is effective in early primary or recurrent NSCLC, resulting in a CR rate of 72%. 
 article '17565719
 
   index: hide

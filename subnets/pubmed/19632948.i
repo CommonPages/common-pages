@@ -2,7 +2,7 @@
 
 / Nguyen et al., 2010
 // Acquired resistance to epidermal growth factor receptor tyrosine kinase inhibitors in non-small-cell lung cancers dependent on the epidermal growth factor receptor pathway.
-/// Nguyen et al., 2010
+/// Most advanced non-small-cell lung cancers (NSCLCs) with activating epidermal growth factor receptor (EGFR) mutations (exon 19 deletions or L858R) initially respond to the EGFR tyrosine kinase inhibitors (TKIs) gefitinib and erlotinib. 
 article '19632948
 
 

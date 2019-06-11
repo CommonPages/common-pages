@@ -2,7 +2,7 @@
 
 / Jin et al., 2010
 // Impact of fraction size on lung radiation toxicity: hypofractionation may be beneficial in dose escalation of radiotherapy for lung cancers.
-/// Jin et al., 2010
+/// This computational study demonstrated that hypofractionated stereotactic body radiotherapy is a better regimen than conventional fractionation in lung cancer patients with small tumors and high doses, because it generates lower RDV when the tumor NTD is kept unchanged. 
 article '19577855
 
   index: hide

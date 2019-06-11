@@ -2,7 +2,7 @@
 
 / Reck et al., 2009
 // Phase III trial of cisplatin plus gemcitabine with either placebo or bevacizumab as first-line therapy for nonsquamous non-small-cell lung cancer: AVAil.
-/// Reck et al., 2009
+/// Combining bevacizumab (7.5 or 15 mg/kg) with CG significantly improved PFS and objective response rate. 
 article '19188680
 
   index: hide
@@ -13,7 +13,7 @@ article '19188680
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Reck M, von Pawel J, Zatloukal P, et al.: Phase III trial of cisplatin plus gemcitabine with either placebo or bevacizumab as first-line therapy for nonsquamous non-small-cell lung cancer: AVAil. J Clin Oncol 27 (8): 1227-34, 2009.</div>
+    <div class="Citation-text">Reck M, von Pawel J, Zatloukal P, et al. Phase III trial of cisplatin plus gemcitabine with either placebo or bevacizumab as first-line therapy for nonsquamous non-small-cell lung cancer: AVAil. J Clin Oncol 2009;27:1227-1234.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19188680">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

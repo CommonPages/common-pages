@@ -2,7 +2,7 @@
 
 / Sher et al., 2016
 // Comparative effectiveness of neoadjuvant chemoradiotherapy versus chemotherapy alone followed by surgery for patients with stage IIIA non-small cell lung cancer.
-/// Sher et al., 2016
+/// There was no difference in overall survival between these two strategies, although N-CRT was associated with improved pathologic outcomes. 
 article '25862147
 
   index: hide

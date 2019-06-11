@@ -2,7 +2,7 @@
 
 / Demmy et al., 2013
 // Optimal management of malignant pleural effusions (results of CALGB 30102).
-/// Demmy et al., 2013
+/// The optimal strategy to achieve palliation of malignant pleural effusions (MPEs) is unknown. 
 article '22878823
 
 

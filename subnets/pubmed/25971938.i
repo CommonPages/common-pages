@@ -2,7 +2,7 @@
 
 / Frampton et al., 2016
 // Activation of MET via diverse exon 14 splicing alterations occurs in multiple tumor types and confers clinical sensitivity to MET inhibitors.
-/// Frampton et al., 2016
+/// Here we report the identification of diverse exon 14 splice site alterations in MET that result in constitutive activity of this receptor and oncogenic transformation in vitro. 
 article '25971938
 
   index: hide

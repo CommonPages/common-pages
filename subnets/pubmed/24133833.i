@@ -1,8 +1,8 @@
 
 
-/ FDA approves afatinib for advanced lung …
+/ FDA approves afatinib for advanced lung 
 // FDA approves afatinib for advanced lung cancer.
-/// FDA approves afatinib for advanced lung …
+/// FDA approves afatinib for advanced lung 
 article '24133833
 
 

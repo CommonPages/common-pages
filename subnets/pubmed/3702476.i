@@ -2,7 +2,7 @@
 
 / Yellin et al., 1986
 // Bronchogenic carcinoma associated with upper aerodigestive cancers.
-/// Yellin et al., 1986
+/// Of 1,450 patients with upper airway cancers, 189 (13%) had additional cancers. 
 article '3702476
 
 

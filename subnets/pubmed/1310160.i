@@ -2,7 +2,7 @@
 
 / Schaake-Koning et al., 1992
 // Effects of concomitant cisplatin and radiotherapy on inoperable non-small-cell lung cancer.
-/// Schaake-Koning et al., 1992
+/// Cisplatin, given daily in combination with the radiotherapy described here to patients with nonmetastatic but inoperable non-small-cell lung cancer, improved rates of survival and control of local disease at the price of substantial side effects. 
 article '1310160
 
   index: hide

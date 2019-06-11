@@ -2,7 +2,7 @@
 
 / Blagev et al., 2014
 // Follow-up of incidental pulmonary nodules and the radiology report.
-/// Blagev et al., 2014
+/// Incidental pulmonary nodules detected on CT pulmonary angiography are common and are frequently not followed up appropriately. 
 article '24316231
 
   index: hide

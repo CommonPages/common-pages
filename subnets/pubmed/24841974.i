@@ -2,7 +2,7 @@
 
 / Kawaguchi et al., 2014
 // Randomized phase III trial of erlotinib versus docetaxel as second- or third-line therapy in patients with advanced non-small-cell lung cancer: Docetaxel and Erlotinib Lung Cancer Trial (DELTA).
-/// Kawaguchi et al., 2014
+/// Erlotinib failed to show an improvement in PFS or OS compared with docetaxel in an EGFR-unselected patient population. 
 article '24841974
 
   index: hide

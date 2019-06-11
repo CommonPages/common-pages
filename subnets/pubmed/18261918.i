@@ -2,7 +2,7 @@
 
 / Sienel et al., 2008
 // Sublobar resections in stage IA non-small cell lung cancer: segmentectomies result in significantly better cancer-related survival than wedge resections.
-/// Sienel et al., 2008
+/// Studies investigating survival after sublobar resection of stage IA NSCLC should always distinguish between anatomical segmentectomies and wedge resections. 
 article '18261918
 
   index: hide

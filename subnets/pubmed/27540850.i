@@ -2,7 +2,7 @@
 
 / Nishino et al., 2017
 // Incidence of Programmed Cell Death 1 Inhibitor-Related Pneumonitis in Patients With Advanced Cancer: A Systematic Review and Meta-analysis.
-/// Nishino et al., 2017
+/// Programmed cell death 1 (PD-1) inhibitor-related pneumonitis is a rare but clinically serious and potentially life-threatening adverse event. 
 article '27540850
 
 

@@ -2,7 +2,7 @@
 
 / Dillman et al., 1996
 // Improved survival in stage III non-small-cell lung cancer: seven-year follow-up of cancer and leukemia group B (CALGB) 8433 trial.
-/// Dillman et al., 1996
+/// Long-term follow-up confirms that patients with stage III NSCLC who receive 5 weeks of chemotherapy with cisplatin and vinblastine before radiation therapy have a 4.1-month increase in median survival. 
 article '8780630
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Cheng et al., 2013
 // Video-assisted thoracic surgery in lung cancer resection: a meta-analysis and systematic review of controlled trials.
-/// Cheng et al., 2013
+/// : This meta-analysis suggests that there may be some short term, and possibly even long-term, advantages to performing lung resections with VATS techniques rather than through conventional thoracotomy. 
 article '22437196
 
   index: hide

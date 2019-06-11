@@ -2,7 +2,7 @@
 
 / Nicastri et al., 2008
 // Thoracoscopic lobectomy: report on safety, discharge independence, pain, and chemotherapy tolerance.
-/// Nicastri et al., 2008
+/// Thoracoscopic (video-assisted thoracic surgery) lobectomy can be performed safely. 
 article '18329487
 
   index: hide

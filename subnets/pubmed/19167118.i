@@ -2,7 +2,7 @@
 
 / Sanuki-Fujimoto et al., 2009
 // Relation between elective nodal failure and irradiated volume in non-small-cell lung cancer (NSCLC) treated with radiotherapy using conventional fields and doses.
-/// Sanuki-Fujimoto et al., 2009
+/// In-field loco-regional failure, as well as distant metastasis, was a major type of failure, and there was no isolated elective nodal failure. 
 article '19167118
 
   index: hide

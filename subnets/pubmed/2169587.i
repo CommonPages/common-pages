@@ -2,7 +2,7 @@
 
 / Dillman et al., 1990
 // A randomized trial of induction chemotherapy plus high-dose radiation versus radiation alone in stage III non-small-cell lung cancer.
-/// Dillman et al., 1990
+/// In patients with Stage III non-small-cell lung cancer, induction chemotherapy with cisplatin and vinblastine before radiation significantly improves median survival (by about four months) and doubles the number of long-term survivors, as compared with radiation therapy alone. 
 article '2169587
 
   index: hide

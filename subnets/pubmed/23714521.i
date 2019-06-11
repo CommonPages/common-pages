@@ -2,7 +2,7 @@
 
 / West et al., 2015
 // Acquired resistance to targeted therapies in advanced non-small cell lung cancer: new strategies and new agents.
-/// West et al., 2015
+/// Although the transition to molecularly defined patient subgroups in advanced non-small cell lung cancer (NSCLC) often leads to dramatic and prolonged responses to an inhibitor of an identified oncogenic mutation, acquired resistance eventually ensues. 
 article '23714521
 
 

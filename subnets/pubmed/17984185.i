@@ -2,7 +2,7 @@
 
 / Rosenzweig et al., 2007
 // Involved-field radiation therapy for inoperable non small-cell lung cancer.
-/// Rosenzweig et al., 2007
+/// The use of IFRT did not cause a significant amount of failure in lymph node regions not included in the tumor volume. 
 article '17984185
 
   index: hide

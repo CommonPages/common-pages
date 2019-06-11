@@ -2,7 +2,7 @@
 
 / Schwartz et al., 2013
 // Diagnostic surgical pathology in lung cancer: Diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines.
-/// Schwartz et al., 2013
+/// Pathologic assessment of lung cancers is a crucial component for the diagnosis, management, and prognosis of lung cancer, making the pathologist a critical member of the clinical and management team. 
 article '23649441
 
   index: hide

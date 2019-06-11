@@ -2,7 +2,7 @@
 
 / Ou et al., 2012
 // ROS1 as a 'druggable' receptor tyrosine kinase: lessons learned from inhibiting the ALK pathway.
-/// Ou et al., 2012
+/// ROS1 is one of 58 receptor tyrosine kinases, and one of two orphan receptor tyrosine kinases where its ligand is unknown. 
 article '22500682
 
 

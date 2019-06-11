@@ -2,7 +2,7 @@
 
 / Klastersky et al., 1990
 // A randomized study comparing cisplatin or carboplatin with etoposide in patients with advanced non-small-cell lung cancer: European Organization for Research and Treatment of Cancer Protocol 07861.
-/// Klastersky et al., 1990
+/// The European Organization for Research and Treatment of Cancer (EORTC) Lung Cancer Working Party conducted a randomized trial comparing cisplatin (CDDP; 120 mg/m2, day 1) and carboplatin (CBDCA; 325 mg/m2, day 1) in combination with etoposide (VP16; 100 mg/m2, days 1, 2, and 3) in advanced non-small-cell lung cancer (NSCLC). 
 article '2167953
 
 

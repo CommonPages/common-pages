@@ -2,7 +2,7 @@
 
 / Linskey et al., 2010
 // The role of stereotactic radiosurgery in the management of patients with newly diagnosed brain metastases: a systematic review and evidence-based clinical practice guideline.
-/// Linskey et al., 2010
+/// Should patients with newly-diagnosed metastatic brain tumors undergo stereotactic radiosurgery (SRS) compared with other treatment modalities? 
 article '19960227
 
 

@@ -2,7 +2,7 @@
 
 / Fehrenbacher et al., 2016
 // Atezolizumab versus docetaxel for patients with previously treated non-small-cell lung cancer (POPLAR): a multicentre, open-label, phase 2 randomised controlled trial.
-/// Fehrenbacher et al., 2016
+/// Atezolizumab significantly improved survival compared with docetaxel in patients with previously treated NSCLC. 
 article '26970723
 
   index: hide
@@ -13,7 +13,7 @@ article '26970723
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Fehrenbacher L, Spira A, Ballinger M, et al.: Atezolizumab versus docetaxel for patients with previously treated non-small-cell lung cancer (POPLAR): a multicentre, open-label, phase 2 randomised controlled trial. Lancet 387 (10030): 1837-46, 2016.</div>
+    <div class="Citation-text">Fehrenbacher L, Spira A, Ballinger M, et al. Atezolizumab versus docetaxel for patients with previously treated non-small-cell lung cancer (POPLAR): a multicentre, open-label, phase 2 randomised controlled trial. Lancet 2016;387:1837-1846.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26970723">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

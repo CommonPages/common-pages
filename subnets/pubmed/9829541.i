@@ -2,7 +2,7 @@
 
 / Urschel et al., 1999
 // Prognostic implications of pulmonary satellite nodules: are the 1997 staging revisions appropriate?
-/// Urschel et al., 1999
+/// In the 1992 AJCC and 1993 UICC staging systems, primary lobe satellite nodules increased the T designation of the primary by one level and ipsilateral non-primary lobe satellite nodules raised the T designation to T4. 
 article '9829541
 
 

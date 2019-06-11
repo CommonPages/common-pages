@@ -2,7 +2,7 @@
 
 / McGarry et al., 2002
 // Observation-only management of early stage, medically inoperable lung cancer: poor outcome.
-/// McGarry et al., 2002
+/// Within the limitations of this retrospective study, it appears that untreated early stage lung cancer has a poor outcome, with &gt; 50% of patients dying of lung cancer. 
 article '11948046
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Grossi et al., 2011
 // Future scenarios for the treatment of advanced non-small cell lung cancer: focus on taxane-containing regimens.
-/// Grossi et al., 2011
+/// Despite recent progress in the development of new molecularly targeted agents, the chemotherapy regimens considered standard at the end of the last century--that is, two-drug combinations consisting of either cisplatin or carboplatin plus a third-generation agent (docetaxel, paclitaxel, gemcitabine, or vinorelbine)--remain the primary treatment option for advanced non-small cell lung cancer (NSCLC) patients. 
 article '20930102
 
 

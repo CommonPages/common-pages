@@ -2,7 +2,7 @@
 
 / Lee et al., 2011
 // Somatic mutations in epidermal growth factor receptor signaling pathway genes in non-small cell lung cancers.
-/// Lee et al., 2011
+/// Our study demonstrates that mutations in each part of the EGFR pathway were associated with different clinicopathologic features in patients with NSCLCs. 
 article '20881644
 
   index: hide

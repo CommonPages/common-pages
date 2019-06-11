@@ -2,7 +2,7 @@
 
 / Le Chevalier et al., 1991
 // Radiotherapy alone versus combined chemotherapy and radiotherapy in nonresectable non-small-cell lung cancer: first analysis of a randomized trial in 353 patients.
-/// Le Chevalier et al., 1991
+/// We report the results observed in a large, randomized study that compared the effects of radiotherapy alone (the standard therapy) with those of a combination of radiotherapy and chemotherapy in nonresectable squamous cell and large-cell lung carcinoma. 
 article '1847977
 
 

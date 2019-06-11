@@ -2,7 +2,7 @@
 
 / Rose et al., 2009
 // Systematic review of dose-volume parameters in the prediction of esophagitis in thoracic radiotherapy.
-/// Rose et al., 2009
+/// Several reproducible dosimetric parameters exist in the literature, and these may be potentially relevant in the prediction of RE in the radiotherapy of thoracic malignancies. 
 article '18950881
 
   index: hide

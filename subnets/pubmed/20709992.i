@@ -2,7 +2,7 @@
 
 / Chlebowski et al., 2010
 // Lung cancer among postmenopausal women treated with estrogen alone in the women's health initiative randomized trial.
-/// Chlebowski et al., 2010
+/// Unlike use of estrogen plus progestin, which increased deaths from lung cancer, use of conjugated equine estrogen alone did not increase incidence or death from lung cancer. 
 article '20709992
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Ordóñez, 2000
 // Thyroid transcription factor-1 is a marker of lung and thyroid carcinomas.
-/// Ordóñez, 2000
+/// Thyroid transcription factor-1 (TTF-1) is a tissue specific transcription factor expressed in epithelial cells of the thyroid and lung, as well as in certain areas of the brain. 
 article '10721419
 
 

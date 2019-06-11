@@ -2,7 +2,7 @@
 
 / Ibrahim et al., 2004
 // Approval summary for zoledronic acid for treatment of multiple myeloma and cancer bone metastases.
-/// Ibrahim et al., 2004
+/// In prostate cancer, both the proportions analysis and time-to-SRE analysis showed significantly less bone morbidity on Zol (4 mg) than placebo, but no significant difference between Zol (8 mg) and placebo in either analysis. 
 article '12855610
 
   index: hide

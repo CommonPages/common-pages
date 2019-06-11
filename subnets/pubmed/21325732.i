@@ -2,7 +2,7 @@
 
 / Katanoda et al., 2011
 // An association between long-term exposure to ambient air pollution and mortality from lung cancer and respiratory diseases in Japan.
-/// Katanoda et al., 2011
+/// Long-term exposure to air pollution is associated with lung cancer and respiratory diseases in Japan. 
 article '21325732
 
   index: hide

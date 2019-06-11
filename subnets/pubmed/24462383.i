@@ -2,7 +2,7 @@
 
 / Gan et al., 2014
 // Stereotactic radiation therapy can safely and durably control sites of extra-central nervous system oligoprogressive disease in anaplastic lymphoma kinase-positive lung cancer patients receiving crizotinib.
-/// Gan et al., 2014
+/// Local ablative therapy safely and durably eradicated sites of individual lesion progression in anaplastic lymphoma kinase-positive NSCLC patients receiving crizotinib. 
 article '24462383
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Ashworth et al., 2015
 // An individual patient data metaanalysis of outcomes and prognostic factors after treatment of oligometastatic non-small-cell lung cancer.
-/// Ashworth et al., 2015
+/// Significant OS differences were observed in oligometastatic patients stratified according to type of metastatic presentation, and N status. 
 article '24894943
 
   index: hide

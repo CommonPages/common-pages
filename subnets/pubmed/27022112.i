@@ -2,7 +2,7 @@
 
 / Urata et al., 2017
 // Randomized Phase III Study Comparing Gefitinib With Erlotinib in Patients With Previously Treated Advanced Lung Adenocarcinoma: WJOG 5108L.
-/// Urata et al., 2017
+/// The epidermal growth factor receptor (EGFR) tyrosine kinase has been an important target for non-small-cell lung cancer. 
 article '27022112
 
 

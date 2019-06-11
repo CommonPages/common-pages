@@ -2,7 +2,7 @@
 
 / Demmy et al., 2008
 // Is video-assisted thoracic surgery lobectomy better? Quality of life considerations.
-/// Demmy et al., 2008
+/// Video-assisted thoracic surgery lobectomy has controversial advantages over traditional open surgical approaches. 
 article '18222204
 
 

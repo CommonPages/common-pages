@@ -2,7 +2,7 @@
 
 / Toloza et al., 2003
 // Noninvasive staging of non-small cell lung cancer: a review of the current evidence.
-/// Toloza et al., 2003
+/// PET scanning is more accurate than CT scanning or EUS for detecting mediastinal metastases. 
 article '12527573
 
   index: hide

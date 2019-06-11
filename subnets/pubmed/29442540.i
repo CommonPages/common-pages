@@ -2,7 +2,7 @@
 
 / Brahmer et al., 2019
 // Management of Immune-Related Adverse Events in Patients Treated With Immune Checkpoint Inhibitor Therapy: American Society of Clinical Oncology Clinical Practice Guideline.
-/// Brahmer et al., 2019
+/// Purpose To increase awareness, outline strategies, and offer guidance on the recommended management of immune-related adverse events in patients treated with immune checkpoint inhibitor (ICPi) therapy. 
 article '29442540
 
 

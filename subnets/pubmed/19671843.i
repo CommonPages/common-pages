@@ -2,7 +2,7 @@
 
 / Jackman et al., 2009
 // Impact of epidermal growth factor receptor and KRAS mutations on clinical outcomes in previously untreated non-small cell lung cancer patients: results of an online tumor registry of clinical trials.
-/// Jackman et al., 2009
+/// EGFR mutation status is associated with sensitivity to treatment with an EGFR-TKI in patients with advanced non-small cell lung cancer. 
 article '19671843
 
   index: hide

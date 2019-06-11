@@ -2,7 +2,7 @@
 
 / Yang et al., 2015
 // Afatinib versus cisplatin-based chemotherapy for EGFR mutation-positive lung adenocarcinoma (LUX-Lung 3 and LUX-Lung 6): analysis of overall survival data from two randomised, phase 3 trials.
-/// Yang et al., 2015
+/// Although afatinib did not improve overall survival in the whole population of either trial, overall survival was improved with the drug for patients with del19 EGFR mutations. 
 article '25589191
 
   index: hide
@@ -13,7 +13,7 @@ article '25589191
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Yang JC, Wu YL, Schuler M, et al.: Afatinib versus cisplatin-based chemotherapy for EGFR mutation-positive lung adenocarcinoma (LUX-Lung 3 and LUX-Lung 6): analysis of overall survival data from two randomised, phase 3 trials. Lancet Oncol 16 (2): 141-51, 2015.</div>
+    <div class="Citation-text">Yang JC, Wu YL, Schuler M, et al. Afatinib versus cisplatin-based chemotherapy for EGFR mutation-positive lung adenocarcinoma (LUX-Lung 3 and LUX-Lung 6): analysis of overall survival data from two randomised, phase 3 trials. Lancet Oncol 2015;16:141-151.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25589191">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

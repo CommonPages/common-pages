@@ -2,7 +2,7 @@
 
 / Kim et al., 2012
 // Phase II study of carboplatin and pemetrexed in advanced non-squamous, non-small-cell lung cancer: Kyoto Thoracic Oncology Research Group Trial 0902.
-/// Kim et al., 2012
+/// The combination of carboplatin and pemetrexed was safe and effective in advanced non-squamous NSCLC. 
 article '22752216
 
   index: hide

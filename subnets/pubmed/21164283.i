@@ -2,7 +2,7 @@
 
 / Mukhopadhyay et al., 2011
 // Subclassification of non-small cell lung carcinomas lacking morphologic differentiation on biopsy specimens: Utility of an immunohistochemical panel containing TTF-1, napsin A, p63, and CK5/6.
-/// Mukhopadhyay et al., 2011
+/// The availability of targeted therapies has created a need for precise subtyping of non-small cell lung carcinomas (NSCLCs). 
 article '21164283
 
 

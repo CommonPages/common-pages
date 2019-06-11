@@ -2,7 +2,7 @@
 
 / Ambrogi et al., 2012
 // Long-term results of radiofrequency ablation treatment of stage I non-small cell lung cancer: a prospective intention-to-treat study.
-/// Ambrogi et al., 2012
+/// Radiofrequency ablation treatment of early-stage NSCLC seems to be a effective minimally invasive therapy even in the long-term period, particularly for stage Ia tumors. 
 article '22052222
 
   index: hide

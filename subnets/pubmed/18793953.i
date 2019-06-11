@@ -2,7 +2,7 @@
 
 / Belderbos et al., 2008
 // Report from the International Atomic Energy Agency (IAEA) consultants' meeting on elective nodal irradiation in lung cancer: non-small-Cell lung cancer (NSCLC).
-/// Belderbos et al., 2008
+/// Lymphatic spread is an important pathway of progression in non-small-cell lung cancer (NSCLC), along with local spread and distant metastasis. 
 article '18793953
 
 

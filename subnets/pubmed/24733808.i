@@ -2,7 +2,7 @@
 
 / Hershman et al., 2014
 // Prevention and management of chemotherapy-induced peripheral neuropathy in survivors of adult cancers: American Society of Clinical Oncology clinical practice guideline.
-/// Hershman et al., 2014
+/// On the basis of the paucity of high-quality, consistent evidence, there are no agents recommended for the prevention of CIPN. 
 article '24733808
 
   index: hide

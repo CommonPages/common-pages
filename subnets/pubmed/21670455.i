@@ -2,7 +2,7 @@
 
 / Fukuoka et al., 2011
 // Biomarker analyses and final overall survival results from a phase III, randomized, open-label, first-line study of gefitinib versus carboplatin/paclitaxel in clinically selected patients with advanced non-small-cell lung cancer in Asia (IPASS).
-/// Fukuoka et al., 2011
+/// EGFR mutations are the strongest predictive biomarker for PFS and tumor response to first-line gefitinib versus carboplatin/paclitaxel. 
 article '21670455
 
   index: hide

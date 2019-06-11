@@ -2,7 +2,7 @@
 
 / Iyengar et al., 2014
 // Stereotactic ablative radiotherapy (SABR) for non-small cell lung cancer.
-/// Iyengar et al., 2014
+/// Stereotactic ablative radiotherapy (SABR), otherwise known as stereotactic body radiation therapy (SBRT), is an external beam treatment modality that offers the ability to deliver with high precision large doses of radiation over a limited number of fractions. 
 article '24258574
 
 

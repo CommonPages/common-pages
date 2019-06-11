@@ -2,7 +2,7 @@
 
 / Chin et al., 1996
 // Mediastinal staging of non-small-cell lung cancer with positron emission tomography.
-/// Chin et al., 1996
+/// To determine the usefulness of positron emission tomography with fluoro-2-deoxyglucose (PET-FDG) in assessing mediastinal disease in patients with non-small-cell lung cancer (NSCLC) and to compare its yield to that of computed tomography (CT), we performed a prospective consecutive sample investigation in a university hospital and its related clinics. 
 article '8520780
 
 

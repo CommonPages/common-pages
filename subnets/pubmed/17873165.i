@@ -2,7 +2,7 @@
 
 / Rivera et al., 2007
 // Initial diagnosis of lung cancer: ACCP evidence-based clinical practice guidelines (2nd edition).
-/// Rivera et al., 2007
+/// The sensitivity of bronchoscopy is high for the detection of endobronchial disease and poor for peripheral lesions &lt; 2 cm in diameter. 
 article '17873165
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Noble et al., 2007
 // Second-line or subsequent systemic therapy for recurrent or progressive non-small cell lung cancer: a systematic review and practice guideline.
-/// Noble et al., 2007
+/// Second-line or subsequent therapy with single-agent docetaxel, pemetrexed, or erlotinib offers patients a significant survival and QOL advantage. 
 article '17409993
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Bakitas et al., 2018
 // The TEAM Approach to Improving Oncology Outcomes by Incorporating Palliative Care in Practice.
-/// Bakitas et al., 2018
+/// Palliative care (PC) concurrent with usual oncology care is now the standard of care that is recommended for any patient with advanced cancer to begin within 8 weeks of diagnosis on the basis of evidence-driven national clinical practice guidelines; however, there are not enough interdisciplinary palliative care teams to provide such care. 
 article '28898605
 
 

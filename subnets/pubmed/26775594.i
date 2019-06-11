@@ -2,7 +2,7 @@
 
 / Smit et al., 2016
 // Cisplatin and carboplatin-based chemotherapy in the first-line treatment of non-small cell lung cancer: Analysis from the European FRAME study.
-/// Smit et al., 2016
+/// This post-hoc analysis illustrated real-life differences in patients with NSCLC prescribed platinum-based first-line treatment, and suggested that baseline patient and disease characteristics were associated with physician's choice of platinum agent, with cisplatin being more frequently prescribed to younger and fitter patients. 
 article '26775594
 
   index: hide

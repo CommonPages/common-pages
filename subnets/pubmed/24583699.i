@@ -2,7 +2,7 @@
 
 / Nakamura, 2015
 // Systematic review of published studies on safety and efficacy of thoracoscopic and robot-assisted lobectomy for lung cancer.
-/// Nakamura, 2015
+/// The safety and efficacy of thoracoscopic and robot-assisted lobectomies for primary lung cancer were reviewed in the literature. 
 article '24583699
 
 

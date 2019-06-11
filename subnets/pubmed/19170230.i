@@ -2,7 +2,7 @@
 
 / Wong et al., 2009
 // The EML4-ALK fusion gene is involved in various histologic types of lung cancers from nonsmokers with wild-type EGFR and KRAS.
-/// Wong et al., 2009
+/// The EML4-ALK fusion gene was present in various histologic types of NSCLC. 
 article '19170230
 
   index: hide

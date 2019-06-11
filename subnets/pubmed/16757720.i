@@ -2,7 +2,7 @@
 
 / Aoyama et al., 2006
 // Stereotactic radiosurgery plus whole-brain radiation therapy vs stereotactic radiosurgery alone for treatment of brain metastases: a randomized controlled trial.
-/// Aoyama et al., 2006
+/// Compared with SRS alone, the use of WBRT plus SRS did not improve survival for patients with 1 to 4 brain metastases, but intracranial relapse occurred considerably more frequently in those who did not receive WBRT. 
 article '16757720
 
   index: hide

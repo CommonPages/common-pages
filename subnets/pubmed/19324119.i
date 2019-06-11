@@ -2,7 +2,7 @@
 
 / Farjah et al., 2009
 // Surgeon specialty and long-term survival after pulmonary resection for lung cancer.
-/// Farjah et al., 2009
+/// Lung cancer patients treated by GTS had higher long-term survival rates than those treated by GS. 
 article '19324119
 
   index: hide

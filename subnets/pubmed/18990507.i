@@ -2,7 +2,7 @@
 
 / Takeda et al., 2009
 // Stereotactic body radiotherapy for primary lung cancer at a dose of 50 Gy total in five fractions to the periphery of the planning target volume calculated using a superposition algorithm.
-/// Takeda et al., 2009
+/// The SBRT at 50 Gy total in five fractions to the periphery of the planning target volume calculated by using a superposition algorithm is feasible. 
 article '18990507
 
   index: hide

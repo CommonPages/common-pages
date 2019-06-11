@@ -2,7 +2,7 @@
 
 / Haber et al., 2014
 // Safety of varenicline in patients with cardiovascular disease.
-/// Haber et al., 2014
+/// Smoking cessation lowers the risk of death substantially in patients with cardiovascular disease. 
 article '24080536
 
 

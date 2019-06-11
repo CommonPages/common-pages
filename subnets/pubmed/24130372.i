@@ -2,7 +2,7 @@
 
 / Yan et al., 2014
 // Video-assisted thoracoscopic surgery lobectomy at 20 years: a consensus statement.
-/// Yan et al., 2014
+/// The present Consensus Statement represents a collective agreement among 50 international experts to establish a standardized practice of VATS lobectomy for the thoracic surgical community after 20 years of clinical experience. 
 article '24130372
 
   index: hide

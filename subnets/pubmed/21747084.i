@@ -2,7 +2,7 @@
 
 / Govindan et al., 2011
 // Randomized phase II study of pemetrexed, carboplatin, and thoracic radiation with or without cetuximab in patients with locally advanced unresectable non-small-cell lung cancer: Cancer and Leukemia Group B trial 30407.
-/// Govindan et al., 2011
+/// The combination of pemetrexed, carboplatin, and TRT met the prespecified criteria for further evaluation. 
 article '21747084
 
   index: hide

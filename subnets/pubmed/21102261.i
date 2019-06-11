@@ -2,7 +2,7 @@
 
 / Chen et al., 2011
 // Salvage lung resection for non-small cell lung cancer after stereotactic body radiotherapy in initially operable patients.
-/// Chen et al., 2011
+/// We have successfully treated 5 patients who underwent salvage lung resection for early-stage NSCLC after SBRT. 
 article '21102261
 
   index: hide

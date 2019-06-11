@@ -2,7 +2,7 @@
 
 / O'Rourke et al., 2010
 // Concurrent chemoradiotherapy in non-small cell lung cancer.
-/// O'Rourke et al., 2010
+/// This update of the review published in 2004 incorporates additional trials and more mature data. 
 article '20556756
 
   index: hide

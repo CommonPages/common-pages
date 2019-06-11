@@ -2,7 +2,7 @@
 
 / Brosnan et al., 2014
 // Drug-induced reduction in estimated glomerular filtration rate in patients with ALK-positive non-small cell lung cancer treated with the ALK inhibitor crizotinib.
-/// Brosnan et al., 2014
+/// As assessed by the Chronic Kidney Disease Epidemiology Collaboration prediction equation, eGFR is reduced by treatment with crizotinib, but the majority of patients will recover their eGFR after the cessation of therapy. 
 article '24258622
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Phillips et al., 2016
 // Development of an automated PD-L1 immunohistochemistry (IHC) assay for non-small cell lung cancer.
-/// Phillips et al., 2016
+/// Nivolumab, a fully human IgG4 programmed death 1 (PD-1) immune checkpoint inhibitor antibody, developed by Bristol-Myers Squibb Inc., has activity across non-small cell lung cancer (NSCLC) histologies and is Food and Drug Administration approved for treatment of metastatic squamous NSCLC with progression on or after platinum-based chemotherapy. 
 article '26317305
 
 

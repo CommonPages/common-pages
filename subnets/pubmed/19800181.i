@@ -2,7 +2,7 @@
 
 / Bradley et al., 2010
 // Stereotactic body radiation therapy for early-stage non-small-cell lung cancer: the pattern of failure is distant.
-/// Bradley et al., 2010
+/// Local tumor control was shown to be high using SBRT for non-small-cell lung cancer. 
 article '19800181
 
   index: hide

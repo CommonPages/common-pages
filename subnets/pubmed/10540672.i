@@ -2,7 +2,7 @@
 
 / Ginsberg et al., 1999
 // Pulmonary nodules resected at video-assisted thoracoscopic surgery: etiology in 426 patients.
-/// Ginsberg et al., 1999
+/// A single pulmonary nodule resected at VATS was more likely to be malignant in patients with known cancer. 
 article '10540672
 
   index: hide

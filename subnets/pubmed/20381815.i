@@ -2,7 +2,7 @@
 
 / Stefani et al., 2010
 // Which patients should be operated on after induction chemotherapy for N2 non-small cell lung cancer? Analysis of a 7-year experience in 175 patients.
-/// Stefani et al., 2010
+/// Surgery after chemotherapy could be effective for selected patients with N2 non-small cell lung cancer. 
 article '20381815
 
   index: hide

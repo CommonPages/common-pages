@@ -2,7 +2,7 @@
 
 / Gautschi et al., 2016
 // Targeted Therapy for Patients with BRAF-Mutant Lung Cancer: Results from the European EURAF Cohort.
-/// Gautschi et al., 2016
+/// These results confirm the activity of targeted therapy in patients with BRAF-mutant lung adenocarcinoma. 
 article '26200454
 
   index: hide

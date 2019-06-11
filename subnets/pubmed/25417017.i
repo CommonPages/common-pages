@@ -2,7 +2,7 @@
 
 / Vairaktarakis et al., 2015
 // A computer-aided diagnosis system for geriatrics assessment and frailty evaluation.
-/// Vairaktarakis et al., 2015
+/// It is a common knowledge that frailty is a condition associated with getting older, and it has been considered as highly prevalent as far as falls, disability, hospitalization, and mortality are concerned. 
 article '25417017
 
 

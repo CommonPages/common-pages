@@ -2,7 +2,7 @@
 
 / Mitsudomi et al., 1991
 // ras gene mutations in non-small cell lung cancers are associated with shortened survival irrespective of treatment intent.
-/// Mitsudomi et al., 1991
+/// We analyzed 66 non-small cell lung cancer cell lines for mutations at codons 12, 13, and 61 of all three ras genes and correlated the findings with patient survival. 
 article '1654209
 
 

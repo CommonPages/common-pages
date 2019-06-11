@@ -2,7 +2,7 @@
 
 / Quoix et al., 2011
 // Carboplatin and weekly paclitaxel doublet chemotherapy compared with monotherapy in elderly patients with advanced non-small-cell lung cancer: IFCT-0501 randomised, phase 3 trial.
-/// Quoix et al., 2011
+/// Despite increased toxic effects, platinum-based doublet chemotherapy was associated with survival benefits compared with vinorelbine or gemcitabine monotherapy in elderly patients with NSCLC. 
 article '21831418
 
   index: hide

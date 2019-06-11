@@ -2,7 +2,7 @@
 
 / Lisberg et al., 2019
 // A Phase II Study of Pembrolizumab in EGFR-Mutant, PD-L1+, Tyrosine Kinase Inhibitor Naïve Patients With Advanced NSCLC.
-/// Lisberg et al., 2019
+/// Pembrolizumab's lack of efficacy in TKI naïve, PD-L1+, EGFR-mutant patients with advanced NSCLC, including those with PD-L1 expression ≥50%, suggests that it is not an appropriate therapeutic choice in this setting. 
 article '29874546
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Bradbury et al., 2018
 // Postoperative Adjuvant Systemic Therapy in Completely Resected Non-Small-Cell Lung Cancer: A Systematic Review.
-/// Bradbury et al., 2018
+/// The purpose of the present review was to determine whether the use of postoperative adjuvant systemic therapy in patients with completely resected non-small-cell lung cancer (NSCLC) improves survival. 
 article '28162945
 
 

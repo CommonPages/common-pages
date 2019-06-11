@@ -2,7 +2,7 @@
 
 / Han et al., 2012
 // EGFR mutation status in primary lung adenocarcinomas and corresponding metastatic lesions: discordance in pleural metastases.
-/// Han et al., 2012
+/// EGFR mutations were discordant between primary tumors and corresponding metastases in a significant portion of lung adenocarcinomas. 
 article '21729655
 
   index: hide

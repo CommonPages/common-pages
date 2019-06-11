@@ -2,7 +2,7 @@
 
 / Scagliotti et al., 2003
 // Randomized study of adjuvant chemotherapy for completely resected stage I, II, or IIIA non-small-cell Lung cancer.
-/// Scagliotti et al., 2003
+/// This randomized trial failed to prospectively confirm a statistically significant role for adjuvant chemotherapy in completely resected NSCLC. 
 article '14519751
 
   index: hide

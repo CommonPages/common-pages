@@ -2,7 +2,7 @@
 
 / van Tinteren et al., 2002
 // Effectiveness of positron emission tomography in the preoperative assessment of patients with suspected non-small-cell lung cancer: the PLUS multicentre randomised trial.
-/// van Tinteren et al., 2002
+/// Addition of PET to conventional workup prevented unnecessary surgery in one out of five patients with suspected non-small-cell lung cancer. 
 article '11978336
 
   index: hide

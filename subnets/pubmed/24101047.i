@@ -2,7 +2,7 @@
 
 / Gainor et al., 2013
 // Emerging paradigms in the development of resistance to tyrosine kinase inhibitors in lung cancer.
-/// Gainor et al., 2013
+/// The success of tyrosine kinase inhibitors (TKIs) in select patients with non-small-cell lung cancer (NSCLC) has transformed management of the disease, placing new emphasis on understanding the molecular characteristics of tumor specimens. 
 article '24101047
 
 

@@ -2,7 +2,7 @@
 
 / Weick et al., 1991
 // A randomized trial of five cisplatin-containing treatments in patients with metastatic non-small-cell lung cancer: a Southwest Oncology Group study.
-/// Weick et al., 1991
+/// Six hundred eighty assessable patients with measureable stage III M1, non-small-cell lung cancer (NSCLC) were randomized to one of five treatment arms including cisplatin, etoposide (VP-16) +/- methylglyoxal bisguanylhydrazone (MGBG; PVp, PVpM); cisplatin, vinblastine (PVe); or PVe alternating with vinblastine, mitomycin (PVeMi); or fluorouracil, vincristine, mitomycin/cyclophosphamide, doxorubicin, cisplatin (FOMi/CAP). 
 article '1646292
 
 

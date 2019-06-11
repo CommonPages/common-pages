@@ -2,7 +2,7 @@
 
 / Langer et al., 2017
 // Isolating the Role of Bevacizumab in Elderly Patients With Previously Untreated Nonsquamous Non-Small Cell Lung Cancer: Secondary Analyses of the ECOG 4599 and PointBreak Trials.
-/// Langer et al., 2017
+/// This analysis suggests that the survival benefits associated with PC+bevacizumab extend to patient subgroups below 75 years with advanced-stage NSCLC; no benefit, however, was observed for bevacizumab-eligible patients who were 75 years or above. 
 article '25628268
 
   index: hide

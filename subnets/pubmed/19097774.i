@@ -2,7 +2,7 @@
 
 / Eisenhauer et al., 2009
 // New response evaluation criteria in solid tumours: revised RECIST guideline (version 1.1).
-/// Eisenhauer et al., 2009
+/// A key question considered by the RECIST Working Group in developing RECIST 1.1 was whether it was appropriate to move from anatomic unidimensional assessment of tumour burden to either volumetric anatomical assessment or to functional assessment with PET or MRI. 
 article '19097774
 
   index: hide

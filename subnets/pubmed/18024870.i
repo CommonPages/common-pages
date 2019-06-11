@@ -2,7 +2,7 @@
 
 / Tsao et al., 2007
 // Prognostic and predictive importance of p53 and RAS for adjuvant chemotherapy in non small-cell lung cancer.
-/// Tsao et al., 2007
+/// p53 protein overexpression is a significant prognostic marker of shortened survival, and also a significant predictive marker for a differentially greater benefit from adjuvant chemotherapy in completely resected NSCLC patients. 
 article '18024870
 
   index: hide

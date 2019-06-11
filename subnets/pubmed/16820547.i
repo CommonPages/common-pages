@@ -2,7 +2,7 @@
 
 / Jorenby et al., 2006
 // Efficacy of varenicline, an alpha4beta2 nicotinic acetylcholine receptor partial agonist, vs placebo or sustained-release bupropion for smoking cessation: a randomized controlled trial.
-/// Jorenby et al., 2006
+/// Varenicline is an efficacious, safe, and well-tolerated smoking cessation pharmacotherapy. 
 article '16820547
 
   index: hide

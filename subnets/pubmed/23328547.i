@@ -2,7 +2,7 @@
 
 / Oxnard et al., 2013
 // Natural history and molecular characteristics of lung cancers harboring EGFR exon 20 insertions.
-/// Oxnard et al., 2013
+/// Patients with EGFR exon 20 insertions have similar clinical characteristics to those with common EGFR mutations but a poorer prognosis. 
 article '23328547
 
   index: hide

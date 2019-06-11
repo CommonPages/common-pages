@@ -2,7 +2,7 @@
 
 / Khoja et al., 2015
 // Pembrolizumab.
-/// Khoja et al., 2015
+/// The development of the cytotoxic T-lymphocyte-associated protein 4 inhibitor ipilimumab and its approval in 2011 for the treatment of metastatic melanoma has heralded a new era in immuno-oncology. 
 article '26288737
 
 

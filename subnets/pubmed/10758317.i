@@ -2,7 +2,7 @@
 
 / Langendijk et al., 2000
 // Quality of life after palliative radiotherapy in non-small cell lung cancer: a prospective study.
-/// Langendijk et al., 2000
+/// This study confirms that conventional thoracic radiotherapy offers palliation of respiratory symptoms and improved QoL in a substantial proportion of patients with locally advanced and metastatic NSCLC. 
 article '10758317
 
   index: hide

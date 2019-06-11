@@ -2,7 +2,7 @@
 
 / Narsule et al., 2011
 // Sublobar versus lobar resection: current status.
-/// Narsule et al., 2011
+/// Currently, lobectomy is the preferred treatment for early-stage, non-small cell lung cancer primarily because of the increased local recurrence rate that has been reported with sublobar resection. 
 article '21263263
 
 

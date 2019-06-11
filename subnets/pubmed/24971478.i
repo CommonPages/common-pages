@@ -2,7 +2,7 @@
 
 /  et al., 2015
 // ACR Appropriateness Criteria® pre-irradiation evaluation and management of brain metastases.
-///  et al., 2015
+/// Pretreatment evaluation is performed to determine the number, location, and size of the brain metastases and magnetic resonance imaging (MRI) is the recommended imaging technique, particularly in patients being considered for surgery or stereotactic radiosurgery. 
 article '24971478
 
 

@@ -2,7 +2,7 @@
 
 / Shaw et al., 2013
 // Crizotinib versus chemotherapy in advanced ALK-positive lung cancer.
-/// Shaw et al., 2013
+/// Crizotinib is superior to standard chemotherapy in patients with previously treated, advanced non-small-cell lung cancer with ALK rearrangement. 
 article '23724913
 
   index: hide
@@ -13,7 +13,7 @@ article '23724913
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Shaw AT, Kim DW, Nakagawa K, et al.: Crizotinib versus chemotherapy in advanced ALK-positive lung cancer. N Engl J Med 368 (25): 2385-94, 2013.</div>
+    <div class="Citation-text">Shaw AT, Kim DW, Nakagawa K, et al. Crizotinib versus chemotherapy in advanced ALK-positive lung cancer. N Engl J Med 2013;368:2385-2394.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/23724913">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

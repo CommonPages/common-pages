@@ -2,7 +2,7 @@
 
 / Lagerwaard et al., 2012
 // Outcomes of stereotactic ablative radiotherapy in patients with potentially operable stage I non-small cell lung cancer.
-/// Lagerwaard et al., 2012
+/// Patients with potentially operable disease who underwent primary SABR had a median OS that exceeded 5 years. 
 article '22104360
 
   index: hide

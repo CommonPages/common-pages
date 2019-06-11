@@ -2,7 +2,7 @@
 
 / Pallis et al., 2015
 // Management of elderly patients with NSCLC; updated expert's opinion paper: EORTC Elderly Task Force, Lung Cancer Group and International Society for Geriatric Oncology.
-/// Pallis et al., 2015
+/// Non-small-cell lung cancer (NSCLC) is a very common disease in the elderly population and its incidence in this particular population is expected to increase further, because of the ageing of the Western population. 
 article '24638905
 
 

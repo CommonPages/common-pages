@@ -2,7 +2,7 @@
 
 / Mantz et al., 2005
 // Endobronchial brachytherapy and optimization of local disease control in medically inoperable non-small cell lung carcinoma: a matched-pair analysis.
-/// Mantz et al., 2005
+/// Endobronchial brachytherapy boost enhances local disease control rates in MILC treated with EBRT. 
 article '15607149
 
   index: hide

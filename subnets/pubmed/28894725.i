@@ -2,7 +2,7 @@
 
 / Davies et al., 2018
 // Safety of checkpoint inhibitors for cancer treatment: strategies for patient monitoring and management of immune-mediated adverse events.
-/// Davies et al., 2018
+/// Immune checkpoint inhibitors (ICPIs), in the form of monoclonal antibodies against CTLA-4, PD-1, and PD-L1, have dramatically changed the treatment approach in several advanced cancers. 
 article '28894725
 
 

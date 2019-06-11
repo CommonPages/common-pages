@@ -2,7 +2,7 @@
 
 / Berrington de González et al., 2009
 // Low-dose lung computed tomography screening before age 55: estimates of the mortality reduction required to outweigh the radiation-induced cancer risk.
-/// Berrington de González et al., 2009
+/// Before age 50, the mortality reduction from lung CT screening that is required to outweigh the radiation risk may be substantial, and in some cases unattainable (i.e. 
 article '18927099
 
   index: hide

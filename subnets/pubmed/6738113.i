@@ -2,7 +2,7 @@
 
 / Woolner et al., 1984
 // Roentgenographically occult lung cancer: pathologic findings and frequency of multicentricity during a 10-year period.
-/// Woolner et al., 1984
+/// During the first 10 years of the Mayo Lung Project, 68 roentgenographically inapparent (&quot;occult&quot;) lung cancers were localized and apparently completely resected. 
 article '6738113
 
 

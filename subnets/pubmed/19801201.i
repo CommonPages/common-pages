@@ -2,7 +2,7 @@
 
 / Chang et al., 2009
 // Neurocognition in patients with brain metastases treated with radiosurgery or radiosurgery plus whole-brain irradiation: a randomised controlled trial.
-/// Chang et al., 2009
+/// Patients treated with SRS plus WBRT were at a greater risk of a significant decline in learning and memory function by 4 months compared with the group that received SRS alone. 
 article '19801201
 
   index: hide

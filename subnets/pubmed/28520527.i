@@ -2,7 +2,7 @@
 
 / Lim et al., 2017
 // Open-Label, Multicenter, Phase II Study of Ceritinib in Patients With Non-Small-Cell Lung Cancer Harboring ROS1 Rearrangement.
-/// Lim et al., 2017
+/// Purpose ROS1 rearrangement is a distinct molecular subset of non-small-cell lung cancer (NSCLC). 
 article '28520527
 
 

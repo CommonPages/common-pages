@@ -2,7 +2,7 @@
 
 / Mok et al., 2019
 // Pembrolizumab versus chemotherapy for previously untreated, PD-L1-expressing, locally advanced or metastatic non-small-cell lung cancer (KEYNOTE-042): a randomised, open-label, controlled, phase 3 trial.
-/// Mok et al., 2019
+/// First-line pembrolizumab monotherapy improves overall and progression-free survival in patients with untreated metastatic non-small-cell lung cancer with a programmed death ligand 1 (PD-L1) tumour proportion score (TPS) of 50% or greater. 
 article '30955977
 
 

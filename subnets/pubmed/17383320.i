@@ -2,7 +2,7 @@
 
 / Petersen et al., 2007
 // Thoracoscopic lobectomy facilitates the delivery of chemotherapy after resection for lung cancer.
-/// Petersen et al., 2007
+/// Thoracoscopy was associated with an overall higher compliance rate and fewer delayed or reduced doses of chemotherapy in patients receiving adjuvant chemotherapy. 
 article '17383320
 
   index: hide

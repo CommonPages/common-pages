@@ -2,7 +2,7 @@
 
 / Swanson et al., 2007
 // Video-assisted thoracic surgery lobectomy: report of CALGB 39802--a prospective, multi-institution feasibility study.
-/// Swanson et al., 2007
+/// A standardized approach to VATS lobectomy as specifically defined with avoidance of rib spreading is feasible. 
 article '17971599
 
   index: hide

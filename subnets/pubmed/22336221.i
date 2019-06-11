@@ -2,7 +2,7 @@
 
 / Belani et al., 2012
 // Quality of life in patients with advanced non-small-cell lung cancer given maintenance treatment with pemetrexed versus placebo (H3E-MC-JMEN): results from a randomised, double-blind, phase 3 study.
-/// Belani et al., 2012
+/// Quality of life during maintenance therapy with pemetrexed is similar to placebo, except for a small increase in loss of appetite, and significantly delayed worsening of pain and haemoptysis. 
 article '22336221
 
   index: hide

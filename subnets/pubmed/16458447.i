@@ -2,7 +2,7 @@
 
 / Nihei et al., 2006
 // High-dose proton beam therapy for Stage I non-small-cell lung cancer.
-/// Nihei et al., 2006
+/// Proton beam therapy is a promising treatment modality for Stage I NSCLC, though locoregional relapse and late pulmonary toxicities in Stage IB patients were substantial. 
 article '16458447
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Ludwig et al., 2005
 // Postoperative survival and the number of lymph nodes sampled during resection of node-negative non-small cell lung cancer.
-/// Ludwig et al., 2005
+/// Our results indicate that patient survival following resection for NSCLC is associated with the number of LNs evaluated during surgery. 
 article '16162756
 
   index: hide

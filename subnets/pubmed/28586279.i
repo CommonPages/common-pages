@@ -2,7 +2,7 @@
 
 / Peters et al., 2017
 // Alectinib versus Crizotinib in Untreated ALK-Positive Non-Small-Cell Lung Cancer.
-/// Peters et al., 2017
+/// As compared with crizotinib, alectinib showed superior efficacy and lower toxicity in primary treatment of ALK-positive NSCLC. 
 article '28586279
 
   index: hide
@@ -13,7 +13,7 @@ article '28586279
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Peters S, Camidge DR, Shaw AT, et al.: Alectinib versus Crizotinib in Untreated ALK-Positive Non-Small-Cell Lung Cancer. N Engl J Med 377 (9): 829-838, 2017.</div>
+    <div class="Citation-text">Peters S, Camidge DR, Shaw AT, et al. Alectinib versus crizotinib in untreated ALK-positive non-small-cell lung cancer. N Engl J Med 2017;377:829-838.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/28586279">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

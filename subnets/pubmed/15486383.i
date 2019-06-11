@@ -2,7 +2,7 @@
 
 / Bush et al., 2004
 // Hypofractionated proton beam radiotherapy for stage I lung cancer.
-/// Bush et al., 2004
+/// High-dose hypofractionated proton beam radiotherapy can be administered safely, with minimal toxicity, to patients with stage I lung cancer. 
 article '15486383
 
   index: hide

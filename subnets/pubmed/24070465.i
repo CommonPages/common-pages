@@ -2,7 +2,7 @@
 
 / Meoni et al., 2014
 // Medical treatment of advanced non-small cell lung cancer in elderly patients: a review of the role of chemotherapy and targeted agents.
-/// Meoni et al., 2014
+/// Lung cancer is the leading cause of cancer related mortality worldwide. 
 article '24070465
 
 

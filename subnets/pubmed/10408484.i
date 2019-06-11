@@ -2,7 +2,7 @@
 
 / Henschke et al., 1999
 // Early Lung Cancer Action Project: overall design and findings from baseline screening.
-/// Henschke et al., 1999
+/// Low-dose CT can greatly improve the likelihood of detection of small non-calcified nodules, and thus of lung cancer at an earlier and potentially more curable stage. 
 article '10408484
 
   index: hide

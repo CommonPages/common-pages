@@ -2,7 +2,7 @@
 
 / Paz-Ares et al., 2018
 // Pembrolizumab plus Chemotherapy for Squamous Non-Small-Cell Lung Cancer.
-/// Paz-Ares et al., 2018
+/// In patients with previously untreated metastatic, squamous NSCLC, the addition of pembrolizumab to chemotherapy with carboplatin plus paclitaxel or nab-paclitaxel resulted in significantly longer overall survival and progression-free survival than chemotherapy alone. 
 article '30280635
 
   index: hide

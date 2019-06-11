@@ -2,7 +2,7 @@
 
 / , 1986
 // Effects of postoperative mediastinal radiation on completely resected stage II and stage III epidermoid cancer of the lung.
-/// , 1986
+/// We randomly assigned 230 patients with resected Stage II or III epidermoid (squamous-cell) lung cancer to receive postoperative adjuvant radiotherapy or no adjuvant treatment. 
 article '2877397
 
 

@@ -2,7 +2,7 @@
 
 / Sun et al., 2017
 // 7-year follow-up after stereotactic ablative radiotherapy for patients with stage I non-small cell lung cancer: Results of a phase 2 clinical trial.
-/// Sun et al., 2017
+/// With long-term follow-up, the results of the current prospective study demonstrated outstanding local control and low toxicity after SABR in patients with clinical stage I NSCLC. 
 article '28346656
 
   index: hide

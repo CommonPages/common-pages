@@ -2,7 +2,7 @@
 
 / Rusch et al., 2009
 // The IASLC lung cancer staging project: a proposal for a new international lymph node map in the forthcoming seventh edition of the TNM classification for lung cancer.
-/// Rusch et al., 2009
+/// The accurate assessment of lymph node involvement is an important part of the management of lung cancer. 
 article '19357537
 
 

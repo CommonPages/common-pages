@@ -2,7 +2,7 @@
 
 / Gridelli et al., 2012
 // Maintenance treatment of advanced non-small-cell lung cancer: results of an international expert panel meeting of the Italian association of thoracic oncology.
-/// Gridelli et al., 2012
+/// Several randomized trials have recently investigated the role of maintenance treatment for patients with advanced non-small-cell lung cancer (NSCLC) with responding or stable disease after completion of first-line chemotherapy. 
 article '22266040
 
 

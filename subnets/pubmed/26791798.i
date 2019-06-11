@@ -2,7 +2,7 @@
 
 / Schmid-Bindert et al., 2016
 // A randomized Phase 2 study of pemetrexed in combination with cisplatin or carboplatin as adjuvant chemotherapy in patients with completely resected stage IB or II Non-Small-Cell Lung Cancer.
-/// Schmid-Bindert et al., 2016
+/// Although the study did not meet the primary objective, both treatment groups demonstrated good safety-related feasibility and tolerability as adjuvant treatment in patients with completely resected Stage IB/II NSCLC. 
 article '26791798
 
   index: hide

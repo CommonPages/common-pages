@@ -2,7 +2,7 @@
 
 / Stinchcombe, 2014
 // Novel agents in development for advanced non-small cell lung cancer.
-/// Stinchcombe, 2014
+/// The identification of EGFR mutations and ALK rearrangements in nonsmall cell lung cancer (NSCLC) has led to the rapid development of targeted therapies and significant changes in the treatment paradigm. 
 article '25342991
 
 

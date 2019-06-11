@@ -2,7 +2,7 @@
 
 / Conforti et al., 2014
 // EGFR tyrosine kinase inhibitors beyond focal progression obtain a prolonged disease control in patients with advanced adenocarcinoma of the lung.
-/// Conforti et al., 2014
+/// The longer disease control observed in our patients suggests that continuation of EGFR TKI beyond focal progression associated to a locoregional treatment is an efficacious therapeutic strategy. 
 article '23810573
 
   index: hide

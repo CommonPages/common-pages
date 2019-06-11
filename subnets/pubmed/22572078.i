@@ -2,7 +2,7 @@
 
 / Zhang et al., 2012
 // Positron emission tomography for assessing local failure after stereotactic body radiotherapy for non-small-cell lung cancer.
-/// Zhang et al., 2012
+/// PET was helpful for distinguishing SBRT-induced consolidation from LR. SUVs obtained more than 6 months after SBRT for NSCLC were associated with local failure. 
 article '22572078
 
   index: hide

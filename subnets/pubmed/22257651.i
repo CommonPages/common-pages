@@ -2,7 +2,7 @@
 
 / Ou, 2012
 // Second-generation irreversible epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors (TKIs): a better mousetrap? A review of the clinical evidence.
-/// Ou, 2012
+/// The discovery of activating epidermal growth factor receptor (EGFR) mutations in non-small cell lung cancer (NSCLC) in 2004 heralded the era of molecular targeted therapy in NSCLC. 
 article '22257651
 
 

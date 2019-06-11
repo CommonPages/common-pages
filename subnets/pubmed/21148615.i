@@ -2,7 +2,7 @@
 
 / Cohen et al., 2011
 // Approval summary: pemetrexed maintenance therapy of advanced/metastatic nonsquamous, non-small cell lung cancer (NSCLC).
-/// Cohen et al., 2011
+/// On July 2, 2009, the U.S. Food and Drug Administration approved pemetrexed injection (Alimta® Injection; Eli Lilly and Company, Indianapolis, IN) for maintenance treatment of patients with locally advanced or metastatic nonsquamous non-small cell lung cancer whose disease has not progressed after four cycles of platinum-based doublet induction chemotherapy. 
 article '21148615
 
 

@@ -2,7 +2,7 @@
 
 / Scagliotti et al., 2012
 // Randomized phase III study of surgery alone or surgery plus preoperative cisplatin and gemcitabine in stages IB to IIIA non-small-cell lung cancer.
-/// Scagliotti et al., 2012
+/// Although the study was terminated early, preoperative gemcitabine plus cisplatin followed by radical surgery improved survival in patients with clinical stage IIB/IIIA NSCLC. 
 article '22124104
 
   index: hide

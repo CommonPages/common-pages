@@ -2,7 +2,7 @@
 
 / Belani et al., 2006
 // Elderly subgroup analysis of a randomized phase III study of docetaxel plus platinum combinations versus vinorelbine plus cisplatin for first-line treatment of advanced nonsmall cell lung carcinoma (TAX 326).
-/// Belani et al., 2006
+/// First-line docetaxel-cisplatin chemotherapy showed similar activity in elderly and younger patients with advanced/metastatic NSCLC; elderly patients tolerated docetaxel-platinum well despite experiencing slightly more toxicity than younger patients. 
 article '16288485
 
   index: hide

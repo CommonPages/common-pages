@@ -2,7 +2,7 @@
 
 / Sul et al., 2017
 // FDA Approval Summary: Pembrolizumab for the Treatment of Patients With Metastatic Non-Small Cell Lung Cancer Whose Tumors Express Programmed Death-Ligand 1.
-/// Sul et al., 2017
+/// : On October 2, 2015, the U.S. Food and Drug Administration (FDA) granted accelerated approval for pembrolizumab, a breakthrough therapy-designated drug, for the treatment of patients with metastatic non-small cell lung cancer (NSCLC) whose tumors express programmed death-ligand 1 (PD-L1), as determined by an FDA-approved test, and who have disease progression on or after platinum-containing chemotherapy or targeted therapy against anaplastic lymphoma kinase or epidermal growth factor receptor, if appropriate. 
 article '27026676
 
 

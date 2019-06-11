@@ -2,7 +2,7 @@
 
 / Hall et al., 2008
 // Development and validation of a standardized method for contouring the brachial plexus: preliminary dosimetric analysis among patients treated with IMRT for head-and-neck cancer.
-/// Hall et al., 2008
+/// This technique provides a precise and accurate method for delineating the brachial plexus organ at risk on treatment planning computed tomography scans. 
 article '18448267
 
   index: hide

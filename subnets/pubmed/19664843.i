@@ -2,7 +2,7 @@
 
 / Kappers et al., 2010
 // Surgery after induction chemotherapy in stage IIIA-N2 non-small cell lung cancer: why pneumonectomy should be avoided.
-/// Kappers et al., 2010
+/// Type of surgical resection was the major factor influencing outcome in patients with stage IIIA (N2) NSCLC after induction chemotherapy. 
 article '19664843
 
   index: hide

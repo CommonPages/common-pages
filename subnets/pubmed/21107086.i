@@ -2,7 +2,7 @@
 
 / Terry et al., 2010
 // Optimal immunohistochemical markers for distinguishing lung adenocarcinomas from squamous cell carcinomas in small tumor samples.
-/// Terry et al., 2010
+/// The histologic subtype of non-small cell lung carcinoma is important in selecting appropriate chemotherapy for patients with advanced disease. 
 article '21107086
 
 

@@ -2,7 +2,7 @@
 
 / Rizvi et al., 2008
 // Phase I/II trial of weekly intravenous 130-nm albumin-bound paclitaxel as initial chemotherapy in patients with stage IV non-small-cell lung cancer.
-/// Rizvi et al., 2008
+/// NAB-paclitaxel 125 mg/m(2) administered on days 1, 8, and 15 of a 28-day cycle was well tolerated and demonstrated encouraging single-agent activity. 
 article '18235124
 
   index: hide

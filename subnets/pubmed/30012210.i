@@ -2,7 +2,7 @@
 
 / Brahmer et al., 2019
 // The Society for Immunotherapy of Cancer consensus statement on immunotherapy for the treatment of non-small cell lung cancer (NSCLC).
-/// Brahmer et al., 2019
+/// Lung cancer is the leading cause of cancer-related mortality worldwide, with non-small cell lung cancer (NSCLC) accounting for over 85% of all cases. 
 article '30012210
 
 

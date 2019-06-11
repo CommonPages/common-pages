@@ -2,7 +2,7 @@
 
 / Vansteenkiste et al., 1998
 // Lymph node staging in non-small-cell lung cancer with FDG-PET scan: a prospective study on 690 lymph node stations from 68 patients.
-/// Vansteenkiste et al., 1998
+/// PET + CT is significantly more accurate than CT alone in LN staging of NSCLC. 
 article '9626214
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Leone et al., 2013
 // Treatment of tobacco use in lung cancer: Diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines.
-/// Leone et al., 2013
+/// Optimal treatment of lung cancer includes attention to continued tobacco use, with abstinence contributing to improved patient-related outcomes at various phases of lung cancer management. 
 article '23649454
 
   index: hide

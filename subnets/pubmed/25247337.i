@@ -2,7 +2,7 @@
 
 / Hoffknecht et al., 2015
 // Efficacy of the irreversible ErbB family blocker afatinib in epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor (TKI)-pretreated non-small-cell lung cancer patients with brain metastases or leptomeningeal disease.
-/// Hoffknecht et al., 2015
+/// Afatinib appears to penetrate into the CNS with concentrations high enough to have clinical effect on CNS metastases. 
 article '25247337
 
   index: hide

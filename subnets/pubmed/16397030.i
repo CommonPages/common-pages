@@ -2,7 +2,7 @@
 
 / Pöttgen et al., 2006
 // Value of 18F-fluoro-2-deoxy-D-glucose-positron emission tomography/computed tomography in non-small-cell lung cancer for prediction of pathologic response and times to relapse after neoadjuvant chemoradiotherapy.
-/// Pöttgen et al., 2006
+/// SUV(max,corr) values from two serial PET/CT scans, before and after three chemotherapy cycles or later, allow prediction of histopathologic response in the primary tumor and mediastinal lymph nodes and have prognostic value. 
 article '16397030
 
   index: hide

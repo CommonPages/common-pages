@@ -2,7 +2,7 @@
 
 / Komaki et al., 1985
 // Characteristics of long-term survivors after treatment for inoperable carcinoma of the lung.
-/// Komaki et al., 1985
+/// Between January, 1971 and August, 1978, 410 patients with histologically or cytologically confirmed inoperable or unresectable carcinoma of the lung of all cell types were treated with curative intent. 
 article '3933327
 
 

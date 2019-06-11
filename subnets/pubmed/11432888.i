@@ -2,7 +2,7 @@
 
 / Kelly et al., 2001
 // Randomized phase III trial of paclitaxel plus carboplatin versus vinorelbine plus cisplatin in the treatment of patients with advanced non--small-cell lung cancer: a Southwest Oncology Group trial.
-/// Kelly et al., 2001
+/// PC is equally efficacious as VC for the treatment of advanced non--small-cell lung cancer. 
 article '11432888
 
   index: hide

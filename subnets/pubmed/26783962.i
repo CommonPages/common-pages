@@ -2,7 +2,7 @@
 
 / Clavé et al., 2016
 // ROS1 copy number alterations are frequent in non-small cell lung cancer.
-/// Clavé et al., 2016
+/// This study point out the high prevalence of ROS1 CNAs in a large series of NSCLC. 
 article '26783962
 
   index: hide

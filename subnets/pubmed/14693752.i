@@ -2,7 +2,7 @@
 
 / Anderson et al., 2004
 // Metabolites of a tobacco-specific lung carcinogen in nonsmoking casino patrons.
-/// Anderson et al., 2004
+/// Epidemiologic data have shown increased risks of lung cancer in nonsmokers exposed to environmental tobacco smoke (ETS). 
 article '14693752
 
 

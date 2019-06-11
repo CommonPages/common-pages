@@ -2,7 +2,7 @@
 
 / Larkins et al., 2016
 // U.S. Food and Drug Administration Approval Summary: Ramucirumab for the Treatment of Metastatic Non-Small Cell Lung Cancer Following Disease Progression On or After Platinum-Based Chemotherapy.
-/// Larkins et al., 2016
+/// This report presents key information on the U.S. Food and Drug Administration approval of ramucirumab, a monoclonal antibody targeting vascular endothelial growth factor receptor-2, given in combination with docetaxel for the treatment of patients with metastatic non-small cell lung cancer whose disease has progressed on or after platinum-based chemotherapy. 
 article '26446239
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Sejpal et al., 2011
 // Early findings on toxicity of proton beam therapy with concurrent chemotherapy for nonsmall cell lung cancer.
-/// Sejpal et al., 2011
+/// We found that higher doses of proton radiation could be delivered to lung tumors with a lower risk of esophagitis and pneumonitis. 
 article '21264827
 
   index: hide

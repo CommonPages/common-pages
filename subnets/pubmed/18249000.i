@@ -2,7 +2,7 @@
 
 / Lee et al., 2009
 // Non-small cell lung cancer with ipsilateral pulmonary metastases: prognosis analysis and staging assessment.
-/// Lee et al., 2009
+/// Regarding prognosis, prognostic strength, extent of disease and surgical treatment the current TNM classification system may be inappropriate in designation of ipsilateral pulmonary metastases and needs revision. 
 article '18249000
 
   index: hide

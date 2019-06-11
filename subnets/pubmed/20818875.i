@@ -2,7 +2,7 @@
 
 / Temel et al., 2010
 // Early palliative care for patients with metastatic non-small-cell lung cancer.
-/// Temel et al., 2010
+/// Among patients with metastatic non-small-cell lung cancer, early palliative care led to significant improvements in both quality of life and mood. 
 article '20818875
 
   index: hide

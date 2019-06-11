@@ -2,7 +2,7 @@
 
 / Miller et al., 1990
 // Neodymium:YAG laser and brachytherapy in the management of inoperable bronchogenic carcinoma.
-/// Miller et al., 1990
+/// Neodymium:yttrium-aluminum garnet (Nd:YAG) laser therapy and endobronchial brachytherapy are useful modalities in the palliation of inoperable bronchogenic carcinoma. 
 article '1696452
 
 

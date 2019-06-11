@@ -2,13 +2,13 @@
 
 / Soria et al., 2018
 // First-line ceritinib versus platinum-based chemotherapy in advanced ALK-rearranged non-small-cell lung cancer (ASCEND-4): a randomised, open-label, phase 3 study.
-/// Soria et al., 2018
+/// The efficacy of ceritinib in patients with untreated anaplastic lymphoma kinase (ALK)-rearranged non-small-cell lung cancer (NSCLC) is not known. 
 article '28126333
 
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Soria JC, Tan DSW, Chiari R, et al.: First-line ceritinib versus platinum-based chemotherapy in advanced ALK-rearranged non-small-cell lung cancer (ASCEND-4): a randomised, open-label, phase 3 study. Lancet 389 (10072): 917-929, 2017.</div>
+    <div class="Citation-text">Soria JC, Tan DS, Chiari R, et al. First-line ceritinib versus platinum-based chemotherapy in advanced ALK-rearranged non-small-cell lung cancer (ASCEND-4): a randomised, open-label, phase 3 study. Lancet 2017;389:917-929.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/28126333">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -2,7 +2,7 @@
 
 / Dane et al., 2013
 // PET/CT vs. non-contrast CT alone for surveillance 1-year post lobectomy for stage I non-small-cell lung cancer.
-/// Dane et al., 2013
+/// (18)F-FDG PET/CT was compared with non-contrast chest CT in monitoring for recurrence 1-year after lobectomy of stage 1 non-small-cell lung cancer (NSCLC). 
 article '24116349
 
 

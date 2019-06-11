@@ -2,7 +2,7 @@
 
 / Johnson, 1998
 // Second lung cancers in patients after treatment for an initial lung cancer.
-/// Johnson, 1998
+/// In patients surviving an initial lung cancer, the cumulative risk for the development of a second primary lung cancer makes this cancer a common cause of death. 
 article '9747865
 
   index: hide

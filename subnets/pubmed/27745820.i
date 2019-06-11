@@ -2,7 +2,7 @@
 
 / Langer et al., 2017
 // Carboplatin and pemetrexed with or without pembrolizumab for advanced, non-squamous non-small-cell lung cancer: a randomised, phase 2 cohort of the open-label KEYNOTE-021 study.
-/// Langer et al., 2017
+/// Combination of pembrolizumab, carboplatin, and pemetrexed could be an effective and tolerable first-line treatment option for patients with advanced non-squamous NSCLC. 
 article '27745820
 
   index: hide

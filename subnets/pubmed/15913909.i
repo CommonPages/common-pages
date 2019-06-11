@@ -2,7 +2,7 @@
 
 / Lester et al., 2005
 // Prophylactic cranial irradiation for preventing brain metastases in patients undergoing radical treatment for non-small-cell lung cancer: a Cochrane Review.
-/// Lester et al., 2005
+/// Prophylactic cranial irradiation may reduce the incidence of brain metastases, but there is no evidence of a survival benefit. 
 article '15913909
 
   index: hide

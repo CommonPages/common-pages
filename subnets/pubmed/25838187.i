@@ -2,7 +2,7 @@
 
 / Sher et al., 2015
 // Relationship Between Radiation Therapy Dose and Outcome in Patients Treated With Neoadjuvant Chemoradiation Therapy and Surgery for Stage IIIA Non-Small Cell Lung Cancer: A Population-Based, Comparative Effectiveness Analysis.
-/// Sher et al., 2015
+/// Neoadjuvant chemoradiation therapy between 45 and 54 Gy was associated with superior survival in comparison with doses above and below this threshold. 
 article '25838187
 
   index: hide

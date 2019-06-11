@@ -2,7 +2,7 @@
 
 / Oxnard et al., 2013
 // New targetable oncogenes in non-small-cell lung cancer.
-/// Oxnard et al., 2013
+/// The identification of oncogenic driver mutations underlying sensitivity to epidermal growth factor receptor and anaplastic lymphoma kinase tyrosine kinase inhibitors has led to a surge of interest in identifying additional targetable oncogenes in non-small-cell lung cancer. 
 article '23401445
 
 

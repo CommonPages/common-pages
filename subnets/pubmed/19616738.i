@@ -2,7 +2,7 @@
 
 /  et al., 2009
 // American Society of Radiation Oncology recommendations for documenting intensity-modulated radiation therapy treatments.
-///  et al., 2009
+/// Despite the widespread use of intensity-modulated radiation therapy (IMRT) for approximately a decade, a lack of adequate guidelines for documenting these treatments persists. 
 article '19616738
 
 

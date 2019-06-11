@@ -2,7 +2,7 @@
 
 / Kennedy et al., 2007
 // Bronchial intraepithelial neoplasia/early central airways lung cancer: ACCP evidence-based clinical practice guidelines (2nd edition).
-/// Kennedy et al., 2007
+/// AFB is a useful tool for the localization of microinvasive neoplasia. 
 article '17873170
 
   index: hide

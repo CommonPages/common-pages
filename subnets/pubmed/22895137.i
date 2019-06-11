@@ -2,7 +2,7 @@
 
 / Edelman et al., 2013
 // Maintenance therapy and advanced non-small-cell lung cancer: a skeptic's view.
-/// Edelman et al., 2013
+/// Maintenance chemotherapy has a long history of use in hematologic malignancies, in which the benefits are considerable in terms of survival and quality of life. 
 article '22895137
 
 

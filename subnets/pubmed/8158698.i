@@ -2,7 +2,7 @@
 
 / Roth et al., 1994
 // A randomized trial comparing perioperative chemotherapy and surgery with surgery alone in resectable stage IIIA non-small-cell lung cancer.
-/// Roth et al., 1994
+/// In this trial, the treatment strategy using perioperative chemotherapy and surgery was more effective than surgery alone. 
 article '8158698
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Patterson et al., 1987
 // A prospective evaluation of magnetic resonance imaging, computed tomography, and mediastinoscopy in the preoperative assessment of mediastinal node status in bronchogenic carcinoma.
-/// Patterson et al., 1987
+/// Computed tomography, magnetic resonance imaging, chest roentgenography, and mediastinoscopy were compared prospectively as staging modalities to assess mediastinal node status in 84 patients with presumed operable bronchogenic carcinoma. 
 article '3669696
 
 

@@ -2,7 +2,7 @@
 
 / Huisman et al., 2000
 // Second-line chemotherapy in relapsing or refractory non-small-cell lung cancer: a review.
-/// Huisman et al., 2000
+/// Since most patients are treated with a platinum-based regimen in the first line, platinum resistance usually is a major consideration for the use of second-line agents. 
 article '11054445
 
   index: hide

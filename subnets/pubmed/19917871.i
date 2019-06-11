@@ -2,7 +2,7 @@
 
 / Azzoli et al., 2010
 // American Society of Clinical Oncology Clinical Practice Guideline update on chemotherapy for stage IV non-small-cell lung cancer.
-/// Azzoli et al., 2010
+/// The purpose of this article is to provide updated recommendations for the treatment of patients with stage IV non-small-cell lung cancer. 
 article '19917871
 
 

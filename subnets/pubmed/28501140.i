@@ -2,13 +2,13 @@
 
 / Hida et al., 2018
 // Alectinib versus crizotinib in patients with ALK-positive non-small-cell lung cancer (J-ALEX): an open-label, randomised phase 3 trial.
-/// Hida et al., 2018
+/// Alectinib, a potent, highly selective, CNS-active inhibitor of anaplastic lymphoma kinase (ALK), showed promising efficacy and tolerability in the single-arm phase 1/2 AF-001JP trial in Japanese patients with ALK-positive non-small-cell lung cancer. 
 article '28501140
 
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Hida T, Nokihara H, Kondo M, et al.: Alectinib versus crizotinib in patients with ALK-positive non-small-cell lung cancer (J-ALEX): an open-label, randomised phase 3 trial. Lancet 390 (10089): 29-39, 2017.</div>
+    <div class="Citation-text">Hida T, Nokihara H, Kondo M, et al. Alectinib versus crizotinib in patients with ALK-positive non-small-cell lung cancer (J-ALEX): an open-label, randomised phase 3 trial. Lancet 2017;390:29-39.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/28501140">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

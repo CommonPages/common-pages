@@ -2,7 +2,7 @@
 
 / Wu et al., 2014
 // Afatinib versus cisplatin plus gemcitabine for first-line treatment of Asian patients with advanced non-small-cell lung cancer harbouring EGFR mutations (LUX-Lung 6): an open-label, randomised phase 3 trial.
-/// Wu et al., 2014
+/// First-line afatinib significantly improves progression-free survival with a tolerable and manageable safety profile in Asian patients with EGFR mutation-positive advanced lung NSCLC. 
 article '24439929
 
   index: hide

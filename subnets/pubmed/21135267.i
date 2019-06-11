@@ -2,7 +2,7 @@
 
 / Sun et al., 2011
 // Phase III trial of prophylactic cranial irradiation compared with observation in patients with locally advanced non-small-cell lung cancer: neurocognitive and quality-of-life analysis.
-/// Sun et al., 2011
+/// PCI in stage III NSCLC significantly decreases the risk of BM without improving 1-year OS. 
 article '21135267
 
   index: hide

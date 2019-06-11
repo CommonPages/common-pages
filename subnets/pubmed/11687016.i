@@ -2,7 +2,7 @@
 
 / Macbeth et al., 2002
 // Palliative radiotherapy regimens for non-small cell lung cancer.
-/// Macbeth et al., 2002
+/// The majority of patients should be treated with short courses of palliative RT, of 1 or 2 fractions. 
 article '11687016
 
   index: hide

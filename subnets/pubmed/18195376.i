@@ -2,7 +2,7 @@
 
 / Hansell et al., 2008
 // Fleischner Society: glossary of terms for thoracic imaging.
-/// Hansell et al., 2008
+/// Members of the Fleischner Society compiled a glossary of terms for thoracic imaging that replaces previous glossaries published in 1984 and 1996 for thoracic radiography and computed tomography (CT), respectively. 
 article '18195376
 
 

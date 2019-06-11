@@ -2,7 +2,7 @@
 
 / Ginsberg et al., 1995
 // Randomized trial of lobectomy versus limited resection for T1 N0 non-small cell lung cancer. Lung Cancer Study Group.
-/// Ginsberg et al., 1995
+/// Compared with lobectomy, limited pulmonary resection does not confer improved perioperative morbidity, mortality, or late postoperative pulmonary function. 
 article '7677489
 
   index: hide

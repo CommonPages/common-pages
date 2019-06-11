@@ -2,7 +2,7 @@
 
 / Yasufuku et al., 2012
 // A prospective controlled trial of endobronchial ultrasound-guided transbronchial needle aspiration compared with mediastinoscopy for mediastinal lymph node staging of lung cancer.
-/// Yasufuku et al., 2012
+/// EBUS-TBNA and mediastinoscopy achieve similar results for the mediastinal staging of lung cancer. 
 article '21963329
 
   index: hide

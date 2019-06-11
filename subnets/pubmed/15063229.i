@@ -2,7 +2,7 @@
 
 / Khan et al., 2004
 // Histological determinants of survival in completely resected T1-2N1M0 nonsmall cell cancer of the lung.
-/// Khan et al., 2004
+/// Visceral pleural involvement, nonsquamous histology, and vascular invasion are all significant adverse prognostic factors after surgical resection of T1-2N1M0 nonsmall cell cancer of the lung. 
 article '15063229
 
   index: hide

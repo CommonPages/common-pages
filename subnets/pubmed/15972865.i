@@ -2,7 +2,7 @@
 
 / Winton et al., 2005
 // Vinorelbine plus cisplatin vs. observation in resected non-small-cell lung cancer.
-/// Winton et al., 2005
+/// Adjuvant vinorelbine plus cisplatin has an acceptable level of toxicity and prolongs disease-free and overall survival among patients with completely resected early-stage non-small-cell lung cancer. 
 article '15972865
 
   index: hide
@@ -13,7 +13,7 @@ article '15972865
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Winton T, Livingston R, Johnson D, et al.: Vinorelbine plus cisplatin vs. observation in resected non-small-cell lung cancer. N Engl J Med 352 (25): 2589-97, 2005.</div>
+    <div class="Citation-text">Winton T, Livingston R, Johnson D, et al. Vinorelbine plus cisplatin vs. observation in resected non-small-cell lung cancer. N Engl J Med 2005;352:2589-2597.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/15972865">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

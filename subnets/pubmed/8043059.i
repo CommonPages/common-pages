@@ -2,7 +2,7 @@
 
 / Rosell et al., 1994
 // A randomized trial comparing preoperative chemotherapy plus surgery with surgery alone in patients with non-small-cell lung cancer.
-/// Rosell et al., 1994
+/// Preoperative chemotherapy increases the median survival in patients with non-small-cell lung cancer. 
 article '8043059
 
   index: hide

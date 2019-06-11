@@ -2,7 +2,7 @@
 
 / MacMahon et al., 2017
 // Guidelines for Management of Incidental Pulmonary Nodules Detected on CT Images: From the Fleischner Society 2017.
-/// MacMahon et al., 2017
+/// The Fleischner Society Guidelines for management of solid nodules were published in 2005, and separate guidelines for subsolid nodules were issued in 2013. 
 article '28240562
 
 

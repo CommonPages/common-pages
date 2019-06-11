@@ -2,7 +2,7 @@
 
 / Zhu et al., 2012
 // Carboplatin and paclitaxel with vs without bevacizumab in older patients with advanced non-small cell lung cancer.
-/// Zhu et al., 2012
+/// Adding bevacizumab to carboplatin and paclitaxel chemotherapy was not associated with better survival among Medicare patients with advanced NSCLC. 
 article '22511687
 
   index: hide

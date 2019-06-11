@@ -2,7 +2,7 @@
 
 / Caillet et al., 2015
 // Optimal management of elderly cancer patients: usefulness of the Comprehensive Geriatric Assessment.
-/// Caillet et al., 2015
+/// The CGA uncovers numerous health problems in elderly patients with cancer and can affect treatment decisions. 
 article '25302022
 
   index: hide

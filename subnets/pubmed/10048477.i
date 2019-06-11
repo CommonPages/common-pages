@@ -2,7 +2,7 @@
 
 / Zatloukal et al., 1999
 // Gemcitabine in locally advanced and metastatic non-small cell lung cancer: the Central European phase II study.
-/// Zatloukal et al., 1999
+/// The efficacy and toxicity profile of gemcitabine was evaluated in this phase II study of chemonaive patients with locally advanced and metastatic non-small cell lung cancer (NSCLC). 
 article '10048477
 
 

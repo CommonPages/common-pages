@@ -2,7 +2,7 @@
 
 / Xiao et al., 2009
 // Dosimetric evaluation of heterogeneity corrections for RTOG 0236: stereotactic body radiotherapy of inoperable stage I-II non-small-cell lung cancer.
-/// Xiao et al., 2009
+/// Statistically significant dose differences were found with the heterogeneity corrections. 
 article '19251095
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Antonia et al., 2017
 // Nivolumab alone and nivolumab plus ipilimumab in recurrent small-cell lung cancer (CheckMate 032): a multicentre, open-label, phase 1/2 trial.
-/// Antonia et al., 2017
+/// Nivolumab monotherapy and nivolumab plus ipilimumab showed antitumour activity with durable responses and manageable safety profiles in previously treated patients with SCLC. 
 article '27269741
 
   index: hide

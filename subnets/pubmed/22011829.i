@@ -2,7 +2,7 @@
 
 / Teoh et al., 2011
 // Volumetric modulated arc therapy: a review of current literature and clinical use in practice.
-/// Teoh et al., 2011
+/// Volumetric modulated arc therapy (VMAT) is a novel radiation technique, which can achieve highly conformal dose distributions with improved target volume coverage and sparing of normal tissues compared with conventional radiotherapy techniques. 
 article '22011829
 
 

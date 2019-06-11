@@ -2,7 +2,7 @@
 
 / Rusch et al., 2001
 // Induction chemoradiation and surgical resection for non-small cell lung carcinomas of the superior sulcus: Initial results of Southwest Oncology Group Trial 9416 (Intergroup Trial 0160).
-/// Rusch et al., 2001
+/// (1) This combined modality treatment is feasible in a multi-institutional setting; (2) the pathologic complete response rates were high; and (3) resectability and overall survival were improved compared with historical experience, especially for T4 tumors, which usually have a grim prognosis. 
 article '11241082
 
   index: hide

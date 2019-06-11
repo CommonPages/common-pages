@@ -2,7 +2,7 @@
 
 / Stinchcombe et al., 2009
 // Long-term follow-up of a phase I/II trial of dose escalating three-dimensional conformal thoracic radiation therapy with induction and concurrent carboplatin and paclitaxel in unresectable stage IIIA/B non-small cell lung cancer.
-/// Stinchcombe et al., 2009
+/// The long term survival rate compares favorably to other treatment approaches for stage III non-small cell lung cancer. 
 article '18978563
 
   index: hide

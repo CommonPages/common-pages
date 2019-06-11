@@ -2,7 +2,7 @@
 
 / Janjigian et al., 2016
 // Dual inhibition of EGFR with afatinib and cetuximab in kinase inhibitor-resistant EGFR-mutant lung cancer with and without T790M mutations.
-/// Janjigian et al., 2016
+/// This article reports the results of a trial combining afatinib and cetuximab in patients with acquired resistance and details the first clinical proof-of-concept for the preclinical hypothesis that a significant proportion of tumors in patients with acquired resistance to gefitinib/erlotinib remain dependent on EGFR signaling for survival. 
 article '25074459
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Rodig et al., 2011
 // Crizotinib, a small-molecule dual inhibitor of the c-Met and ALK receptor tyrosine kinases.
-/// Rodig et al., 2011
+/// Crizotinib (PF-02341066), under development by Pfizer, is an orally bioavailable, ATP-competitive, small-molecule inhibitor of the receptor tyrosine kinases (RTKs) c-Met (also known as hepatocyte growth factor receptor) and anaplastic lymphoma kinase (ALK), for the potential treatment of cancers dependent on these oncogenic kinases for growth and survival. 
 article '21154129
 
 

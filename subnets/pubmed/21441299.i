@@ -2,7 +2,7 @@
 
 / Nadler et al., 2011
 // Bevacizumab treatment to progression after chemotherapy: outcomes from a U.S. community practice network.
-/// Nadler et al., 2011
+/// Bevacizumab significantly extends progression-free survival (PFS) and overall survival (OS) times when combined with initial chemotherapy and continued as monotherapy until disease progression or unacceptable toxicity in patients with nonsquamous non-small cell lung cancer (NSCLC). 
 article '21441299
 
 

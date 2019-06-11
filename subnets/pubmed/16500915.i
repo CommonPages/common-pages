@@ -2,7 +2,7 @@
 
 / Aupérin et al., 2006
 // Concomitant radio-chemotherapy based on platin compounds in patients with locally advanced non-small cell lung cancer (NSCLC): a meta-analysis of individual data from 1764 patients.
-/// Aupérin et al., 2006
+/// Concomitant platin-based radio-chemotherapy may improve survival of patients with locally advanced NSCLC. 
 article '16500915
 
   index: hide

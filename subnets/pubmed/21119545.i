@@ -2,7 +2,7 @@
 
 / Scagliotti et al., 2011
 // Treatment-by-histology interaction analyses in three phase III trials show superiority of pemetrexed in nonsquamous non-small cell lung cancer.
-/// Scagliotti et al., 2011
+/// These analyses demonstrate a statistically significant interaction between treatment effect and NSCLC histology, indicating superior efficacy of pemetrexed in nonsquamous patients compared with other standard treatment options. 
 article '21119545
 
   index: hide

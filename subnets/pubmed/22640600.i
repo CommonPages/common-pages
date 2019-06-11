@@ -2,7 +2,7 @@
 
 / Tallet et al., 2012
 // Neurocognitive function impairment after whole brain radiotherapy for brain metastases: actual assessment.
-/// Tallet et al., 2012
+/// Whole brain radiation therapy (WBRT) is an effective treatment in brain metastases and, when combined with local treatments such as surgery and stereotactic radiosurgery, gives the best brain control. 
 article '22640600
 
 

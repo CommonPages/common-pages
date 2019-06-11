@@ -2,7 +2,7 @@
 
 / Jiang et al., 2007
 // A meta-analysis of randomized controlled trials comparing carboplatin-based to cisplatin-based chemotherapy in advanced non-small cell lung cancer.
-/// Jiang et al., 2007
+/// Given cisplatin-based regimens had a higher overall response rate as compared with carboplatin-based regimens, there was not a survival advantage in the cisplatin group. 
 article '17485133
 
   index: hide

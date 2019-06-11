@@ -2,7 +2,7 @@
 
 / Thomas et al., 1990
 // Cancer recurrence after resection: T1 N0 non-small cell lung cancer. Lung Cancer Study Group.
-/// Thomas et al., 1990
+/// The Lung Cancer Study Group entered 907 eligible patients with T1 N0 non-small cell lung cancer in one of three successive clinical trials. 
 article '2154958
 
 

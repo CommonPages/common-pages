@@ -2,7 +2,7 @@
 
 / Hyman et al., 2015
 // Vemurafenib in Multiple Nonmelanoma Cancers with BRAF V600 Mutations.
-/// Hyman et al., 2015
+/// BRAF V600 appears to be a targetable oncogene in some, but not all, nonmelanoma cancers. 
 article '26287849
 
   index: hide

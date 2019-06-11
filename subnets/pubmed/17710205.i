@@ -2,7 +2,7 @@
 
 / Mintz et al., 2010
 // Management of single brain metastasis: a practice guideline.
-/// Mintz et al., 2010
+/// Approximately 15%-30% of patients with cancer will develop cerebral metastases over the course of their disease. 
 article '17710205
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Hirsch et al., 2006
 // Molecular predictors of outcome with gefitinib in a phase III placebo-controlled study in advanced non-small-cell lung cancer.
-/// Hirsch et al., 2006
+/// EGFR gene copy number was a predictor of clinical benefit from gefitinib in ISEL. 
 article '17075123
 
   index: hide

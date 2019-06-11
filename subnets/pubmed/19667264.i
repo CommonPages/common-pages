@@ -2,7 +2,7 @@
 
 / Shaw et al., 2009
 // Clinical features and outcome of patients with non-small-cell lung cancer who harbor EML4-ALK.
-/// Shaw et al., 2009
+/// EML4-ALK defines a molecular subset of NSCLC with distinct clinical characteristics. 
 article '19667264
 
   index: hide

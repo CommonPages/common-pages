@@ -2,7 +2,7 @@
 
 / Moreira et al., 2013
 // Personalized medicine for non-small-cell lung cancer: implications of recent advances in tissue acquisition for molecular and histologic testing.
-/// Moreira et al., 2013
+/// In light of recent advances in individualized therapy for non-small-cell lung cancer (NSCLC), molecular and histologic profiling is essential for guiding therapeutic decisions. 
 article '22424871
 
 

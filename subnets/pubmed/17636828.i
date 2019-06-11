@@ -2,7 +2,7 @@
 
 / Burdett et al., 2007
 // Chemotherapy and surgery versus surgery alone in non-small cell lung cancer.
-/// Burdett et al., 2007
+/// This analysis shows a significant increase in survival attributable to pre-operative chemotherapy. 
 article '17636828
 
   index: hide

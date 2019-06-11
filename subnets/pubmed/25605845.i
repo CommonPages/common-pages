@@ -2,7 +2,7 @@
 
 / Postow et al., 2015
 // Immune Checkpoint Blockade in Cancer Therapy.
-/// Postow et al., 2015
+/// Immunologic checkpoint blockade with antibodies that target cytotoxic T lymphocyte-associated antigen 4 (CTLA-4) and the programmed cell death protein 1 pathway (PD-1/PD-L1) have demonstrated promise in a variety of malignancies. 
 article '25605845
 
 

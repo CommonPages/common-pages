@@ -2,7 +2,7 @@
 
 / Sholl et al., 2016
 // Multi-institutional Oncogenic Driver Mutation Analysis in Lung Adenocarcinoma: The Lung Cancer Mutation Consortium Experience.
-/// Sholl et al., 2016
+/// Multi-institutional molecular analysis across multiple platforms, sample types, and institutions can yield consistent results and novel clinicopathological observations. 
 article '25738220
 
   index: hide

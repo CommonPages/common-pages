@@ -2,7 +2,7 @@
 
 / Bauman et al., 2009
 // Salvage lung resection after definitive radiation (&gt;59 Gy) for non-small cell lung cancer: surgical and oncologic outcomes.
-/// Bauman et al., 2009
+/// Salvage lung resection after definitive chemoradiation is feasible, with encouraging survival. 
 article '19049763
 
   index: hide

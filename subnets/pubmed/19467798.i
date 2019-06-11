@@ -2,7 +2,7 @@
 
 / Higgins et al., 2009
 // Preoperative chemotherapy versus preoperative chemoradiotherapy for stage III (N2) non-small-cell lung cancer.
-/// Higgins et al., 2009
+/// Preoperative ChT-RT was associated with higher mediastinal pCR rates but not improved survival. 
 article '19467798
 
   index: hide

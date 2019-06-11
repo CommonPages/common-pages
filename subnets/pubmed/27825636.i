@@ -2,7 +2,7 @@
 
 / Drilon et al., 2017
 // Cabozantinib in patients with advanced RET-rearranged non-small-cell lung cancer: an open-label, single-centre, phase 2, single-arm trial.
-/// Drilon et al., 2017
+/// The reported activity of cabozantinib in patients with RET-rearranged lung cancers defines RET rearrangements as actionable drivers in patients with lung cancers. 
 article '27825636
 
   index: hide

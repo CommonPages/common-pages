@@ -2,7 +2,7 @@
 
 / Allen, 2004
 // Multiple benign lung tumors.
-/// Allen, 2004
+/// Multiple benign pulmonary nodules are rare and are from a variety of etiologies. 
 article '12973710
 
 

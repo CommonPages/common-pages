@@ -2,7 +2,7 @@
 
 / Gray et al., 2009
 // Lung cancer deaths from indoor radon and the cost effectiveness and potential of policies to reduce them.
-/// Gray et al., 2009
+/// Policies requiring basic preventive measures against radon in all new homes throughout the UK would be cost effective and could complement existing policies to reduce smoking. 
 article '19129153
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Zornosa et al., 2012
 // First-line systemic therapy practice patterns and concordance with NCCN guidelines for patients diagnosed with metastatic NSCLC treated at NCCN institutions.
-/// Zornosa et al., 2012
+/// The NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines) allow many systemic therapy options for patients with metastatic non-small cell lung cancer (NSCLC). 
 article '22773800
 
 

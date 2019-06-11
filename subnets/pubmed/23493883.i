@@ -2,7 +2,7 @@
 
 / Nelson et al., 2013
 // Afatinib: emerging next-generation tyrosine kinase inhibitor for NSCLC.
-/// Nelson et al., 2013
+/// The discovery of epidermal growth-factor receptor (EGFR)-activating mutations and the introduction of oral EGFR tyrosine kinase inhibitors (EGFR-TKIs) have expanded the treatment options for patients with non-small cell lung cancer. 
 article '23493883
 
 

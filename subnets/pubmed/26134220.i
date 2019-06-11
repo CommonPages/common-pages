@@ -2,7 +2,7 @@
 
 / Kerr et al., 2016
 // Programmed Death-Ligand 1 Immunohistochemistry in Lung Cancer: In what state is this art?
-/// Kerr et al., 2016
+/// Therapeutic antibodies to programmed death receptor 1 (PD-1) and its ligand PD-L1 show promising clinical results. 
 article '26134220
 
 

@@ -2,7 +2,7 @@
 
 / Chun et al., 2017
 // Impact of Intensity-Modulated Radiation Therapy Technique for Locally Advanced Non-Small-Cell Lung Cancer: A Secondary Analysis of the NRG Oncology RTOG 0617 Randomized Clinical Trial.
-/// Chun et al., 2017
+/// Purpose Although intensity-modulated radiation therapy (IMRT) is increasingly used to treat locally advanced non-small-cell lung cancer (NSCLC), IMRT and three-dimensional conformal external beam radiation therapy (3D-CRT) have not been compared prospectively. 
 article '28034064
 
 

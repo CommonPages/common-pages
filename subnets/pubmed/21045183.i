@@ -2,7 +2,7 @@
 
 /  et al., 2011
 // The National Lung Screening Trial: overview and study design.
-///  et al., 2011
+/// The National Lung Screening Trial (NLST) is a randomized multicenter study comparing low-dose helical computed tomography (CT) with chest radiography in the screening of older current and former heavy smokers for early detection of lung cancer, which is the leading cause of cancer-related death in the United States. 
 article '21045183
 
 

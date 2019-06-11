@@ -2,7 +2,7 @@
 
 / Henry et al., 2011
 // Randomized, double-blind study of denosumab versus zoledronic acid in the treatment of bone metastases in patients with advanced cancer (excluding breast and prostate cancer) or multiple myeloma.
-/// Henry et al., 2011
+/// Denosumab was noninferior (trending to superiority) to ZA in preventing or delaying first on-study SRE in patients with advanced cancer metastatic to bone or myeloma. 
 article '21343556
 
   index: hide

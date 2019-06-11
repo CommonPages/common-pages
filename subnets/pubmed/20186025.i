@@ -2,7 +2,7 @@
 
 / de Cabanyes Candela et al., 2010
 // A systematic review of restaging after induction therapy for stage IIIa lung cancer: prediction of pathologic stage.
-/// de Cabanyes Candela et al., 2010
+/// The ability to identify patients who have achieved mediastinal downstaging other than by a careful primary mediastinoscopy is poor. 
 article '20186025
 
   index: hide

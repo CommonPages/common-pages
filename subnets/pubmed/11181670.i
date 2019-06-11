@@ -2,7 +2,7 @@
 
 / Earle et al., 2001
 // Effectiveness of chemotherapy for advanced lung cancer in the elderly: instrumental variable and propensity analysis.
-/// Earle et al., 2001
+/// Chemotherapy for stage IV NSCLC seems to have effectiveness for elderly patients and those with comorbid conditions that is similar to the efficacy seen in randomized trials containing mostly younger, highly selected patients. 
 article '11181670
 
   index: hide

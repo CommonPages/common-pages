@@ -2,7 +2,7 @@
 
 / , 1994
 // The effect of vitamin E and beta carotene on the incidence of lung cancer and other cancers in male smokers.
-/// , 1994
+/// We found no reduction in the incidence of lung cancer among male smokers after five to eight years of dietary supplementation with alpha-tocopherol or beta carotene. 
 article '8127329
 
   index: hide

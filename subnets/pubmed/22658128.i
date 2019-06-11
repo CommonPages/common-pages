@@ -2,7 +2,7 @@
 
 / Brahmer et al., 2012
 // Safety and activity of anti-PD-L1 antibody in patients with advanced cancer.
-/// Brahmer et al., 2012
+/// Antibody-mediated blockade of PD-L1 induced durable tumor regression (objective response rate of 6 to 17%) and prolonged stabilization of disease (rates of 12 to 41% at 24 weeks) in patients with advanced cancers, including non-small-cell lung cancer, melanoma, and renal-cell cancer. 
 article '22658128
 
   index: hide

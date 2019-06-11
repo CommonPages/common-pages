@@ -2,7 +2,7 @@
 
 / , 2000
 // Chemotherapy for non-small cell lung cancer.
-/// , 2000
+/// At the outset of this meta-analysis there was considerable pessimism about the role of chemotherapy in the treatment of non-small cell lung cancer. 
 article '10796867
 
   index: hide

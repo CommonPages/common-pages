@@ -2,7 +2,7 @@
 
 / Timmerman et al., 2003
 // Extracranial stereotactic radioablation: results of a phase I study in medically inoperable stage I non-small cell lung cancer.
-/// Timmerman et al., 2003
+/// Very high radiation dose treatments were tolerated in this population of medically inoperable patients with stage I NSCLC using ESR techniques. 
 article '14605072
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Ades et al., 2015
 // WHO, RECIST, and immune-related response criteria: is it time to revisit pembrolizumab results?
-/// Ades et al., 2015
+/// In recent years, with the rise of immunotherapeutic agents for cancer treatment, we have observed a paradigm shift in oncology drug development. 
 article '26715941
 
 

@@ -2,7 +2,7 @@
 
 / Siegel et al., 2019
 // Cancer statistics, 2019.
-/// Siegel et al., 2019
+/// Each year, the American Cancer Society estimates the numbers of new cancer cases and deaths that will occur in the United States and compiles the most recent data on cancer incidence, mortality, and survival. 
 article '30620402
 
 

@@ -2,7 +2,7 @@
 
 / Reyngold et al., 2013
 // Toxicity and outcomes of thoracic re-irradiation using stereotactic body radiation therapy (SBRT).
-/// Reyngold et al., 2013
+/// SBRT can be safely and successfully administered to patients with prior thoracic RT. 
 article '23617949
 
   index: hide

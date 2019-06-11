@@ -2,7 +2,7 @@
 
 / Giaccone, 2005
 // Epidermal growth factor receptor inhibitors in the treatment of non-small-cell lung cancer.
-/// Giaccone, 2005
+/// Remarkable developments in the systemic treatment of advanced non-small-cell lung cancer have taken place in the past few years. 
 article '15886311
 
 

@@ -2,7 +2,7 @@
 
 / Johnstone et al., 2002
 // Phase III study comparing chemotherapy and radiotherapy with preoperative chemotherapy and surgical resection in patients with non-small-cell lung cancer with spread to mediastinal lymph nodes (N2); final report of RTOG 89-01. Radiation Therapy Oncology Group.
-/// Johnstone et al., 2002
+/// The patient accrual to this trial made its results inconclusive, but several observations are notable. 
 article '12243809
 
   index: hide

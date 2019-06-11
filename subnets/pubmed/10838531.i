@@ -2,7 +2,7 @@
 
 / Rusch et al., 2000
 // Factors determining outcome after surgical resection of T3 and T4 lung cancers of the superior sulcus.
-/// Rusch et al., 2000
+/// Our results provide a benchmark against which new treatment regimens can be evaluated. 
 article '10838531
 
   index: hide

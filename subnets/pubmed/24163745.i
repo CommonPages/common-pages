@@ -2,7 +2,7 @@
 
 / Marshall et al., 2014
 // Screening for lung cancer with low-dose computed tomography: a review of current status.
-/// Marshall et al., 2014
+/// Screening using low-dose computed tomography (CT) represents an exciting new development in the struggle to improve outcomes for people with lung cancer. 
 article '24163745
 
 

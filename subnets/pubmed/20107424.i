@@ -2,7 +2,7 @@
 
 / Song et al., 2010
 // Survival benefit of neoadjuvant chemotherapy in non-small cell lung cancer: an updated meta-analysis of 13 randomized control trials.
-/// Song et al., 2010
+/// Neoadjuvant chemotherapy, as an addition of surgery, would significantly improve the overall survival of operable NSCLC patients, including patients with stage III NSCLC. 
 article '20107424
 
   index: hide

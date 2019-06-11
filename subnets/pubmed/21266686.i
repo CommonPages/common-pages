@@ -2,7 +2,7 @@
 
 / Iannuzzi et al., 2011
 // Sarcoidosis: clinical presentation, immunopathogenesis, and therapeutics.
-/// Iannuzzi et al., 2011
+/// Sarcoidosis is a multisystem granulomatous disorder that most often affects the lungs and may cause significant morbidity. 
 article '21266686
 
 

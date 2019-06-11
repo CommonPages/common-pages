@@ -2,7 +2,7 @@
 
 / Thompson, 2012
 // Pulmonary coccidioidomycosis.
-/// Thompson, 2012
+/// Coccidioidomycosis refers to the spectrum of disease caused by the dimorphic fungi Coccidioides immitis and Coccidioides posadasii. 
 article '22167403
 
 

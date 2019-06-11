@@ -1,8 +1,8 @@
 
 
-/ Postoperative radiotherapy in non-small-…
+/ Postoperative radiotherapy in non-small-
 // Postoperative radiotherapy in non-small-cell lung cancer: systematic review and meta-analysis of individual patient data from nine randomised controlled trials. PORT Meta-analysis Trialists Group.
-/// Postoperative radiotherapy in non-small-…
+/// Postoperative radiotherapy is detrimental to patients with early-stage completely resected NSCLC and should not be used routinely for such patients. 
 article '9690404
 
   index: hide

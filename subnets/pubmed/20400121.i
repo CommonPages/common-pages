@@ -2,7 +2,7 @@
 
 / Crabtree et al., 2010
 // Stereotactic body radiation therapy versus surgical resection for stage I non-small cell lung cancer.
-/// Crabtree et al., 2010
+/// In an unmatched comparison of clinical stage IA disease, surgical patients were healthier and had better local tumor control compared with those receiving stereotactic body radiation therapy. 
 article '20400121
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Fleckenstein et al., 2017
 // Long-term outcomes in radically treated synchronous vs. metachronous oligometastatic non-small-cell lung cancer.
-/// Fleckenstein et al., 2017
+/// Radical treatment of oligometastatic NSCLC was associated with acceptable long-term survival rates in patients with good KPS and it was equally effective for synchronous and metachronous manifestations. 
 article '27255302
 
   index: hide

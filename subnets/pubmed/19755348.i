@@ -2,7 +2,7 @@
 
 / Terasawa et al., 2009
 // Systematic review: charged-particle radiation therapy for cancer.
-/// Terasawa et al., 2009
+/// Few studies directly compared treatments with or without particle irradiation. 
 article '19755348
 
   index: hide

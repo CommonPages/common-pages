@@ -2,7 +2,7 @@
 
 / Salerno et al., 1979
 // Second primary bronchogenic carcinoma: life-table analysis of surgical treatment.
-/// Salerno et al., 1979
+/// Twelve patients had curative resection of primary bronchogenic carcinoma. 
 article '453955
 
 

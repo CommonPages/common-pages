@@ -2,7 +2,7 @@
 
 / Cattaneo et al., 2008
 // Use of video-assisted thoracic surgery for lobectomy in the elderly results in fewer complications.
-/// Cattaneo et al., 2008
+/// A VATS approach to lobectomy for clinical stage I non-small cell lung cancer in the elderly was associated with fewer and overall reduced severity of complications as well as a shorter hospital stay compared with thoracotomy. 
 article '18154816
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Marino et al., 2017
 // Operating on Patients Who Smoke: A Survey of Thoracic Surgeons in the United States.
-/// Marino et al., 2017
+/// There is significant disagreement in the cardiothoracic surgical community regarding how to treat patients who smoke, especially when deciding to deny or postpone surgery. 
 article '27474514
 
   index: hide

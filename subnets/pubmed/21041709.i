@@ -2,7 +2,7 @@
 
 / Palma et al., 2011
 // Impact of introducing stereotactic lung radiotherapy for elderly patients with stage I non-small-cell lung cancer: a population-based time-trend analysis.
-/// Palma et al., 2011
+/// SBRT introduction was associated with a 16% absolute increase in RT use, a decline in the proportion of untreated elderly patients, and an improvement in OS. 
 article '21041709
 
   index: hide

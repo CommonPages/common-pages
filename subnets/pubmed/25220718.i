@@ -2,7 +2,7 @@
 
 / McAvoy et al., 2015
 // Definitive reirradiation for locoregionally recurrent non-small cell lung cancer with proton beam therapy or intensity modulated radiation therapy: predictors of high-grade toxicity and survival outcomes.
-/// McAvoy et al., 2015
+/// Intensity modulated radiation therapy and proton beam therapy are options for treating recurrent non-small cell lung cancer. 
 article '25220718
 
   index: hide

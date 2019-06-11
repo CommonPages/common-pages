@@ -2,7 +2,7 @@
 
 / Widder et al., 2012
 // Survival and quality of life after stereotactic or 3D-conformal radiotherapy for inoperable early-stage lung cancer.
-/// Widder et al., 2012
+/// In this nonrandomized comparison of two prospective cohorts of medically inoperable patients with Stage I lung cancer, OS and LC were better after SABR. 
 article '21640503
 
   index: hide

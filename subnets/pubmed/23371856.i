@@ -2,7 +2,7 @@
 
 / Arcila et al., 2013
 // EGFR exon 20 insertion mutations in lung adenocarcinomas: prevalence, molecular heterogeneity, and clinicopathologic characteristics.
-/// Arcila et al., 2013
+/// In contrast to other primary epidermal growth factor receptor (EGFR) mutations in lung adenocarcinomas, insertions in exon 20 of EGFR have been generally associated with resistance to EGFR-tyrosine kinase inhibitors. 
 article '23371856
 
 

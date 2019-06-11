@@ -2,7 +2,7 @@
 
 / Fernando et al., 2014
 // Impact of brachytherapy on local recurrence rates after sublobar resection: results from ACOSOG Z4032 (Alliance), a phase III randomized trial for high-risk operable non-small-cell lung cancer.
-/// Fernando et al., 2014
+/// Brachytherapy did not reduce LR after SR. 
 article '24982457
 
   index: hide

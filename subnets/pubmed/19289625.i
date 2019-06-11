@@ -2,7 +2,7 @@
 
 / Yan et al., 2009
 // Systematic review and meta-analysis of randomized and nonrandomized trials on safety and efficacy of video-assisted thoracic surgery lobectomy for early-stage non-small-cell lung cancer.
-/// Yan et al., 2009
+/// Both randomized and nonrandomized trials suggest that VATS lobectomy is an appropriate procedure for selected patients with early-stage NSCLC when compared with open surgery. 
 article '19289625
 
   index: hide

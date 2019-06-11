@@ -2,7 +2,7 @@
 
 / Kazandjian et al., 2018
 // Benefit-Risk Summary of Crizotinib for the Treatment of Patients With ROS1 Alteration-Positive, Metastatic Non-Small Cell Lung Cancer.
-/// Kazandjian et al., 2018
+/// : On March 11, 2016, after an expedited 5-month review, the U.S. Food and Drug Administration expanded the crizotinib metastatic non-small cell lung cancer (mNSCLC) indication to include the treatment of patients whose tumors harbor a ROS1 rearrangement. 
 article '27328934
 
 

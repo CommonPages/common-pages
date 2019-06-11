@@ -2,7 +2,7 @@
 
 / Yasuda et al., 2014
 // Structural, biochemical, and clinical characterization of epidermal growth factor receptor (EGFR) exon 20 insertion mutations in lung cancer.
-/// Yasuda et al., 2014
+/// Epidermal growth factor receptor (EGFR) gene mutations (G719X, exon 19 deletions/insertions, L858R, and L861Q) predict favorable responses to EGFR tyrosine kinase inhibitors (TKIs) in advanced non-small cell lung cancer (NSCLC). 
 article '24353160
 
 

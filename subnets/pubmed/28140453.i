@@ -2,7 +2,7 @@
 
 / Rami-Porta et al., 2017
 // Lung cancer - major changes in the American Joint Committee on Cancer eighth edition cancer staging manual.
-/// Rami-Porta et al., 2017
+/// Answer questions and earn CME/CNE The revision for the eighth edition of the tumor, node, and metastasis (TNM) classification of lung cancer was based on analyses of the International Association for the Study of Lung Cancer database, which included 77,156 evaluable patients diagnosed with lung cancer from 1999 to 2010. 
 article '28140453
 
 

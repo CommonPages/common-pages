@@ -2,7 +2,7 @@
 
 / Jeremy George et al., 2007
 // Surveillance for the detection of early lung cancer in patients with bronchial dysplasia.
-/// Jeremy George et al., 2007
+/// Although the risk of malignant progression of individual preinvasive lesions is relatively small, patients with high-grade lesions are at high risk of lung cancer. 
 article '16825337
 
   index: hide

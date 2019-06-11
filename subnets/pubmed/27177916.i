@@ -2,7 +2,7 @@
 
 / Ricciuti et al., 2016
 // Osimertinib (AZD9291) and CNS Response in Two Radiotherapy-Naïve Patients with EGFR-Mutant and T790M-Positive Advanced Non-Small Cell Lung Cancer.
-/// Ricciuti et al., 2016
+/// The discovery of sensitizing epidermal growth factor receptor (EGFR) mutations as a predictive marker of sensitivity to first-generation EGFR tyrosine kinase inhibitors (TKIs) has dramatically changed the paradigm of care for advanced non-small cell lung cancer (NSCLC) patients. 
 article '27177916
 
 

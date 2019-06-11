@@ -2,7 +2,7 @@
 
 / Belani et al., 2005
 // Combined chemoradiotherapy regimens of paclitaxel and carboplatin for locally advanced non-small-cell lung cancer: a randomized phase II locally advanced multi-modality protocol.
-/// Belani et al., 2005
+/// Concurrent weekly paclitaxel, carboplatin, and TRT followed by consolidation seems to be associated with the best outcome, although this schedule was associated with greater toxicity. 
 article '16087941
 
   index: hide

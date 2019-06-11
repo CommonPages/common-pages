@@ -2,7 +2,7 @@
 
 / Coombs et al., 2018
 // Therapy-Related Clonal Hematopoiesis in Patients with Non-hematologic Cancers Is Common and Associated with Adverse Clinical Outcomes.
-/// Coombs et al., 2018
+/// Clonal hematopoiesis (CH), as evidenced by recurrent somatic mutations in leukemia-associated genes, commonly occurs among aging human hematopoietic stem cells. 
 article '28803919
 
 

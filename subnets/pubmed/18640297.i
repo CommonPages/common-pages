@@ -2,7 +2,7 @@
 
 / Cerfolio et al., 2008
 // Survival of patients with unsuspected N2 (stage IIIA) nonsmall-cell lung cancer.
-/// Cerfolio et al., 2008
+/// The 5-year survival of patients with unsuspected N2 disease who undergo complete resection, followed by adjuvant therapy, is 35%. 
 article '18640297
 
   index: hide

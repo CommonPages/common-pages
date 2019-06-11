@@ -2,7 +2,7 @@
 
 / Swanson et al., 2002
 // Video-assisted thoracic surgery (VATS) resection for lung cancer.
-/// Swanson et al., 2002
+/// VATS is a relatively new technology that has become the standard of care for basic procedures such as drainage of pleural effusion and blebectomy. 
 article '12371584
 
 

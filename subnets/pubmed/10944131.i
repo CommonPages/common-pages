@@ -2,7 +2,7 @@
 
 / Andre et al., 2000
 // Survival of patients with resected N2 non-small-cell lung cancer: evidence for a subclassification and implications.
-/// Andre et al., 2000
+/// This study has identified homogeneous N2 NSCLC prognostic subgroups and suggests different therapeutic approaches according to the subgroup profile. 
 article '10944131
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Nakata et al., 2005
 // Surgical treatments for multiple primary adenocarcinoma of the lung.
-/// Nakata et al., 2005
+/// The incidence of multiple primary adenocarcinomas was relatively common. 
 article '15464469
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Travis et al., 2013
 // Diagnosis of lung adenocarcinoma in resected specimens: implications of the 2011 International Association for the Study of Lung Cancer/American Thoracic Society/European Respiratory Society classification.
-/// Travis et al., 2013
+/// A new lung adenocarcinoma classification has been published by the International Association for the Study of Lung Cancer, the American Thoracic Society, and the European Respiratory Society. 
 article '22913371
 
 

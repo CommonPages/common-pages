@@ -2,7 +2,7 @@
 
 / Gould et al., 2013
 // Evaluation of individuals with pulmonary nodules: when is it lung cancer? Diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines.
-/// Gould et al., 2013
+/// Individuals with pulmonary nodules should be evaluated and managed by estimating the probability of malignancy, performing imaging tests to better characterize the lesions, evaluating the risks associated with various management alternatives, and eliciting their preferences for management. 
 article '23649456
 
   index: hide

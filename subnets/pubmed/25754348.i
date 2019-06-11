@@ -2,7 +2,7 @@
 
 / Khozin et al., 2016
 // FDA approval: ceritinib for the treatment of metastatic anaplastic lymphoma kinase-positive non-small cell lung cancer.
-/// Khozin et al., 2016
+/// On April 29, 2014, the FDA granted accelerated approval to ceritinib (ZYKADIA; Novartis Pharmaceuticals Corporation), a breakthrough therapy-designated drug, for the treatment of patients with anaplastic lymphoma kinase (ALK)-positive, metastatic non-small cell lung cancer (NSCLC) who have progressed on or are intolerant to crizotinib. 
 article '25754348
 
 

@@ -2,7 +2,7 @@
 
 / Kazandjian et al., 2016
 // FDA Approval of Gefitinib for the Treatment of Patients with Metastatic EGFR Mutation-Positive Non-Small Cell Lung Cancer.
-/// Kazandjian et al., 2016
+/// On July 13, 2015, the FDA approved gefitinib (Iressa; AstraZeneca UK Limited) for the treatment of patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have EGFR exon 19 deletions or exon 21 (L858R) substitution mutations as detected by an FDA-approved test. 
 article '26980062
 
 

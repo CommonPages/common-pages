@@ -2,13 +2,13 @@
 
 / Rittmeyer et al., 2018
 // Atezolizumab versus docetaxel in patients with previously treated non-small-cell lung cancer (OAK): a phase 3, open-label, multicentre randomised controlled trial.
-/// Rittmeyer et al., 2018
+/// Atezolizumab is a humanised antiprogrammed death-ligand 1 (PD-L1) monoclonal antibody that inhibits PD-L1 and programmed death-1 (PD-1) and PD-L1 and B7-1 interactions, reinvigorating anticancer immunity. 
 article '27979383
 
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Rittmeyer A, Barlesi F, Waterkamp D, et al.: Atezolizumab versus docetaxel in patients with previously treated non-small-cell lung cancer (OAK): a phase 3, open-label, multicentre randomised controlled trial. Lancet 389 (10066): 255-265, 2017.</div>
+    <div class="Citation-text">Rittmeyer A, Barlesi F, Waterkamp D, et al. Atezolizumab versus docetaxel in patients with previously treated non-small-cell lung cancer (OAK): a phase 3, open-label, multicentre randomised controlled trial. Lancet 2017;389:255-265.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27979383">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -2,7 +2,7 @@
 
 / Ceresoli et al., 2004
 // Phase II study of weekly paclitaxel as second-line therapy in patients with advanced non-small cell lung cancer.
-/// Ceresoli et al., 2004
+/// A growing number of patients, mainly cisplatin-pretreated, require second-line therapy for non-small cell lung cancer (NSCLC) but the optimal treatment and appropriate criteria for patient selection have not been defined yet. 
 article '15084388
 
 

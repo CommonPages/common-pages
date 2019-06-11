@@ -2,7 +2,7 @@
 
 / Marsh et al., 2011
 // Cognitive Sparing during the Administration of Whole Brain Radiotherapy and Prophylactic Cranial Irradiation: Current Concepts and Approaches.
-/// Marsh et al., 2011
+/// Whole brain radiotherapy (WBRT) for the palliation of metastases, or as prophylaxis to prevent intracranial metastases, can be associated with subacute and late decline in memory and other cognitive functions. 
 article '20671962
 
 

@@ -2,7 +2,7 @@
 
 / Robinson et al., 2001
 // The protein tyrosine kinase family of the human genome.
-/// Robinson et al., 2001
+/// As the sequencing of the human genome is completed by the Human Genome Project, the analysis of this rich source of information will illuminate many areas in medicine and biology. 
 article '11114734
 
 

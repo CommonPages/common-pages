@@ -2,7 +2,7 @@
 
 / Rothenstein et al., 2014
 // Managing treatment-related adverse events associated with Alk inhibitors.
-/// Rothenstein et al., 2014
+/// Anaplastic lymphoma kinase (ALK) rearrangements have been identified as key oncogenic drivers in a small subset of non-small-cell lung cancers (nsclcs). 
 article '24523601
 
 

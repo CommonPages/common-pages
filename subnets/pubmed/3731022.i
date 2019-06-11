@@ -2,7 +2,7 @@
 
 / Mandell et al., 1986
 // The treatment of single brain metastasis from non-oat cell lung carcinoma. Surgery and radiation versus radiation therapy alone.
-/// Mandell et al., 1986
+/// Between 1978-1980, 104 patients with single brain metastases (SBM) from non-small cell lung carcinoma (NSCLC) were treated at Memorial Sloan-Kettering Cancer Center (MSKCC). 
 article '3731022
 
 

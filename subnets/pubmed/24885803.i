@@ -2,7 +2,7 @@
 
 / Alì et al., 2015
 // ALK rearrangement in a large series of consecutive non-small cell lung cancers: comparison between a new immunohistochemical approach and fluorescence in situ hybridization for the screening of patients eligible for crizotinib treatment.
-/// Alì et al., 2015
+/// Our results show that IHC may be a useful technique for selecting NSCLC cases to undergo ALK FISH analysis. 
 article '24885803
 
   index: hide

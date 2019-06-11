@@ -2,7 +2,7 @@
 
 / Larkins et al., 2018
 // FDA Approval: Alectinib for the Treatment of Metastatic, ALK-Positive Non-Small Cell Lung Cancer Following Crizotinib.
-/// Larkins et al., 2018
+/// On December 11, 2015, the FDA granted accelerated approval to alectinib (Alecensa; Genentech) for the treatment of patients with anaplastic lymphoma receptor tyrosine kinase (ALK)-positive, metastatic non-small cell lung cancer (NSCLC) who have progressed on or are intolerant to crizotinib. 
 article '27413075
 
 

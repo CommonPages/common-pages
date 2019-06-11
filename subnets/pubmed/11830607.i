@@ -2,7 +2,7 @@
 
 / Langer et al., 2002
 // Cisplatin-based therapy for elderly patients with advanced non-small-cell lung cancer: implications of Eastern Cooperative Oncology Group 5592, a randomized trial.
-/// Langer et al., 2002
+/// Response rate, toxicity, and survival in fit, elderly NSCLC patients receiving platinum-based treatment appear to be similar to those in younger patients, although patients 70 years old or older have more comorbidities and can expect more leukopenia and neuropsychiatric toxicity. 
 article '11830607
 
   index: hide

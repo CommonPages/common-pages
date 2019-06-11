@@ -2,7 +2,7 @@
 
 / Gardiner et al., 2014
 // The revised lung adenocarcinoma classification-an imaging guide.
-/// Gardiner et al., 2014
+/// Advances in our understanding of the pathology, radiology and clinical behaviour of peripheral lung adenocarcinomas facilitated a more robust terminology and classification of these lesions. 
 article '25349704
 
 

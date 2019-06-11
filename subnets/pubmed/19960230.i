@@ -2,7 +2,7 @@
 
 / Kalkanis et al., 2010
 // The role of surgical resection in the management of newly diagnosed brain metastases: a systematic review and evidence-based clinical practice guideline.
-/// Kalkanis et al., 2010
+/// Should patients with newly-diagnosed metastatic brain tumors undergo open surgical resection versus whole brain radiation therapy (WBRT) and/or other treatment modalities such as radiosurgery, and in what clinical settings? 
 article '19960230
 
 

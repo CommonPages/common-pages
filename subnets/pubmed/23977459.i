@@ -2,7 +2,7 @@
 
 / Cao et al., 2013
 // A meta-analysis of unmatched and matched patients comparing video-assisted thoracoscopic lobectomy and conventional open lobectomy.
-/// Cao et al., 2013
+/// The present meta-analysis indicates that VATS lobectomy has superior perioperative outcomes compared to open thoracotomy in both matched and unmatched cohorts. 
 article '23977459
 
   index: hide

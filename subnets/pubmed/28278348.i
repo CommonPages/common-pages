@@ -2,7 +2,7 @@
 
 / Rimm et al., 2017
 // A Prospective, Multi-institutional, Pathologist-Based Assessment of 4 Immunohistochemistry Assays for PD-L1 Expression in Non-Small Cell Lung Cancer.
-/// Rimm et al., 2017
+/// Four assays registered with the US Food and Drug Administration (FDA) detect programmed cell death ligand 1 (PD-L1) to enrich for patient response to anti-programmed cell death 1 and anti-PD-L1 therapies. 
 article '28278348
 
 

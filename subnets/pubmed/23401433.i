@@ -2,7 +2,7 @@
 
 / Li et al., 2013
 // Genotyping and genomic profiling of non-small-cell lung cancer: implications for current and future therapies.
-/// Li et al., 2013
+/// Substantial advances have been made in understanding critical molecular and cellular mechanisms driving tumor initiation, maintenance, and progression in non-small-cell lung cancer (NSCLC). 
 article '23401433
 
 

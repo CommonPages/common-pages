@@ -2,7 +2,7 @@
 
 / Griffioen et al., 2014
 // Radical treatment of synchronous oligometastatic non-small cell lung carcinoma (NSCLC): patient outcomes and prognostic factors.
-/// Griffioen et al., 2014
+/// Radical treatment of selected NSCLC patients presenting with 1-3 synchronous metastases can result in favorable 2-year survivals. 
 article '23973202
 
   index: hide

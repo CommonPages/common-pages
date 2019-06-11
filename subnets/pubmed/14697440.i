@@ -2,7 +2,7 @@
 
 / Taylor et al., 2004
 // Equivalent outcome of patients with clinical Stage IIIA non-small-cell lung cancer treated with concurrent chemoradiation compared with induction chemotherapy followed by surgical resection.
-/// Taylor et al., 2004
+/// Treatment of Stage IIIA NSCLC using either induction C/S or CRT resulted in similar outcomes in terms of local control and median overall, 5-year overall, distant metastasis-free, and disease-free survival. 
 article '14697440
 
   index: hide

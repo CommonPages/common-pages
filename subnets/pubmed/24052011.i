@@ -2,7 +2,7 @@
 
 / Guckenberger et al., 2014
 // Definition of stereotactic body radiotherapy: principles and practice for the treatment of stage I non-small cell lung cancer.
-/// Guckenberger et al., 2014
+/// This report from the Stereotactic Radiotherapy Working Group of the German Society of Radiation Oncology (Deutschen Gesellschaft für Radioonkologie, DEGRO) provides a definition of stereotactic body radiotherapy (SBRT) that agrees with that of other international societies. 
 article '24052011
 
 

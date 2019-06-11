@@ -2,7 +2,7 @@
 
 / Heinzerling et al., 2011
 // Stereotactic ablative radiation therapy for primary lung tumors.
-/// Heinzerling et al., 2011
+/// Stereotactic ablative radiotherapy, also known as stereotactic body radiation therapy, has been developed as an innovative therapy for stage I non-small cell lung cancer and has now emerged as a standard treatment option for medically inoperable patients through careful analysis utilizing prospective, multi-institutional trials. 
 article '21263264
 
 

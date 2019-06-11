@@ -2,7 +2,7 @@
 
 / Donington et al., 2013
 // American College of Chest Physicians and Society of Thoracic Surgeons consensus statement for evaluation and management for high-risk patients with stage I non-small cell lung cancer.
-/// Donington et al., 2013
+/// Therapeutic options for the treatment of high-risk patients are evolving quickly. 
 article '23208335
 
   index: hide

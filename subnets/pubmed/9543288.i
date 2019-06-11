@@ -2,7 +2,7 @@
 
 / van Boxem et al., 1998
 // Radiographically occult lung cancer treated with fibreoptic bronchoscopic electrocautery: a pilot study of a simple and inexpensive technique.
-/// van Boxem et al., 1998
+/// The curative potential of bronchoscopic intervention, e.g. 
 article '9543288
 
 

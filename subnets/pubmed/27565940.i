@@ -2,7 +2,7 @@
 
 / Erb et al., 2017
 // Surveillance Practice Patterns after Curative Intent Therapy for Stage I Non-Small-Cell Lung Cancer in the Medicare Population.
-/// Erb et al., 2017
+/// Adherence to specialty society guidelines for surveillance after treatment for stage I NSCLC was poor in this population of Medicare beneficiaries, with less than two-thirds of patients receiving recommended imaging, and almost 30% receiving non-recommended PET scans. 
 article '27565940
 
   index: hide

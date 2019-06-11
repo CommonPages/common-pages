@@ -2,7 +2,7 @@
 
 / Travis et al., 2011
 // International association for the study of lung cancer/american thoracic society/european respiratory society international multidisciplinary classification of lung adenocarcinoma.
-/// Travis et al., 2011
+/// This new classification strategy is based on a multidisciplinary approach to diagnosis of lung adenocarcinoma that incorporates clinical, molecular, radiologic, and surgical issues, but it is primarily based on histology. 
 article '21252716
 
   index: hide

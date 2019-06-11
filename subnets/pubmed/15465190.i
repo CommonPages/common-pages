@@ -2,7 +2,7 @@
 
 / Rengan et al., 2004
 // Improved local control with higher doses of radiation in large-volume stage III non-small-cell lung cancer.
-/// Rengan et al., 2004
+/// Our data suggest that administration of higher doses using 3D-CRT improves local control in Stage III NSCLC patients with large GTVs. 
 article '15465190
 
   index: hide

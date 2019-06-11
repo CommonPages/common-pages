@@ -2,7 +2,7 @@
 
 / Ramalingam et al., 2018
 // Osimertinib As First-Line Treatment of EGFR Mutation-Positive Advanced Non-Small-Cell Lung Cancer.
-/// Ramalingam et al., 2018
+/// Purpose The AURA study ( ClinicalTrials.gov 
 article '28841389
 
 

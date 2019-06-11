@@ -2,7 +2,7 @@
 
 / Lilenbaum et al., 2009
 // Single-agent versus combination chemotherapy in patients with advanced non-small cell lung cancer and a performance status of 2: prognostic factors and treatment selection based on two large randomized clinical trials.
-/// Lilenbaum et al., 2009
+/// Our results show that PS2 non-small cell lung cancer patients are a heterogeneous group who have significantly different outcomes. 
 article '19487960
 
   index: hide

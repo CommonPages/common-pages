@@ -2,7 +2,7 @@
 
 / Soria et al., 2018
 // Osimertinib in Untreated EGFR-Mutated Advanced Non-Small-Cell Lung Cancer.
-/// Soria et al., 2018
+/// Osimertinib showed efficacy superior to that of standard EGFR-TKIs in the first-line treatment of EGFR mutation-positive advanced NSCLC, with a similar safety profile and lower rates of serious adverse events. 
 article '29151359
 
   index: hide
@@ -13,7 +13,7 @@ article '29151359
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Soria JC, Ohe Y, Vansteenkiste J, et al.: Osimertinib in Untreated EGFR-Mutated Advanced Non-Small-Cell Lung Cancer. N Engl J Med 378 (2): 113-125, 2018.</div>
+    <div class="Citation-text">Soria JC, Ohe Y, Vansteenkiste J, et al. Osimertinib in untreated EGFR-mutated advanced non-small-cell lung cancer. N Engl J Med 2018;378:113-125.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/29151359">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -2,7 +2,7 @@
 
 / Costa et al., 2015
 // Clinical Experience With Crizotinib in Patients With Advanced ALK-Rearranged Non-Small-Cell Lung Cancer and Brain Metastases.
-/// Costa et al., 2015
+/// Crizotinib was associated with systemic and intracranial disease control in patients with ALK-rearranged NSCLC who were ALK inhibitor naive and had brain metastases. 
 article '25624436
 
   index: hide

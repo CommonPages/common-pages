@@ -2,7 +2,7 @@
 
 / Yang et al., 2014
 // Symptom control and quality of life in LUX-Lung 3: a phase III study of afatinib or cisplatin/pemetrexed in patients with advanced lung adenocarcinoma with EGFR mutations.
-/// Yang et al., 2014
+/// In patients with lung adenocarcinoma with EGFR mutations, first-line afatinib was associated with better control of cough and dyspnea compared with chemotherapy, although diarrhea, dysphagia, and sore mouth were worse. 
 article '23816967
 
   index: hide

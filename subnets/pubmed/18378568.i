@@ -2,7 +2,7 @@
 
 / Kelly et al., 2008
 // Phase III trial of maintenance gefitinib or placebo after concurrent chemoradiotherapy and docetaxel consolidation in inoperable stage III non-small-cell lung cancer: SWOG S0023.
-/// Kelly et al., 2008
+/// In this unselected population, gefitinib did not improve survival. 
 article '18378568
 
   index: hide

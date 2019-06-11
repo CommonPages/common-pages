@@ -2,7 +2,7 @@
 
 / Vilmann et al., 2006
 // Transesophageal endoscopic ultrasound-guided fine-needle aspiration (EUS-FNA) and endobronchial ultrasound-guided transbronchial needle aspiration (EBUS-TBNA) biopsy: a combined approach in the evaluation of mediastinal lesions.
-/// Vilmann et al., 2006
+/// EUS-FNA and EBUS-TBNA appear to be complementary methods. 
 article '16116534
 
   index: hide

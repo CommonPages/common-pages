@@ -2,7 +2,7 @@
 
 / Magnuson et al., 2017
 // Management of Brain Metastases in Tyrosine Kinase Inhibitor-Naïve Epidermal Growth Factor Receptor-Mutant Non-Small-Cell Lung Cancer: A Retrospective Multi-Institutional Analysis.
-/// Magnuson et al., 2017
+/// Purpose Stereotactic radiosurgery (SRS), whole-brain radiotherapy (WBRT), and epidermal growth factor receptor (EGFR)-tyrosine kinase inhibitors (TKIs) are treatment options for brain metastases in patients with EGFR-mutant non-small-cell lung cancer (NSCLC). 
 article '28113019
 
 

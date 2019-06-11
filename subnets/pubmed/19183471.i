@@ -2,7 +2,7 @@
 
 / Sulman et al., 2009
 // Exclusion of elective nodal irradiation is associated with minimal elective nodal failure in non-small cell lung cancer.
-/// Sulman et al., 2009
+/// We observed only a 4.3% recurrence of any ENF and a 1.7% recurrence of isolated ENF in patients with NSCLC treated with definitive 3D-CRT without prophylactic irradiation of uninvolved lymph node stations. 
 article '19183471
 
   index: hide

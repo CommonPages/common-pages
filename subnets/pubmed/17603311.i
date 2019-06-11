@@ -2,7 +2,7 @@
 
 / Onishi et al., 2007
 // Hypofractionated stereotactic radiotherapy (HypoFXSRT) for stage I non-small cell lung cancer: updated results of 257 patients in a Japanese multi-institutional study.
-/// Onishi et al., 2007
+/// Although this is a retrospective study, HypoFXSRT with a BED of less than 180 Gy was almost safe for stage I NSCLC, and the local control and overall survival rates in 5 years with a BED of 100 Gy or more were superior to the reported results for conventional radiotherapy. 
 article '17603311
 
   index: hide

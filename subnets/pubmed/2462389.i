@@ -2,7 +2,7 @@
 
 / Gelb et al., 1989
 // Physiologic characteristics of malignant unilateral main-stem bronchial obstruction. Diagnosis and Nd-YAG laser treatment.
-/// Gelb et al., 1989
+/// To evaluate the effects of severe, unilateral main-stem malignant bronchial obstruction on airway dynamics, we obtained maximal expiratory flow-volume (MEFV) curves in 11 patients 59 +/- 18 yr of age (mean +/- 1 SD), three with and eight without underlying emphysema, before and after laser therapy (10 patients) or lung resection (one patient). 
 article '2462389
 
 

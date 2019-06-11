@@ -2,7 +2,7 @@
 
 / Brown et al., 2016
 // Effect of Radiosurgery Alone vs Radiosurgery With Whole Brain Radiation Therapy on Cognitive Function in Patients With 1 to 3 Brain Metastases: A Randomized Clinical Trial.
-/// Brown et al., 2016
+/// Among patients with 1 to 3 brain metastases, the use of SRS alone, compared with SRS combined with WBRT, resulted in less cognitive deterioration at 3 months. 
 article '27458945
 
   index: hide

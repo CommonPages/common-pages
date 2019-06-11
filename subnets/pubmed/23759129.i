@@ -2,7 +2,7 @@
 
 / Park et al., 2013
 // Efficacy of platinum-based adjuvant chemotherapy in T2aN0 stage IB non-small cell lung cancer.
-/// Park et al., 2013
+/// Platinum-based adjuvant chemotherapy for surgically treated stage IB NSCLC might offer better survival than observation alone. 
 article '23759129
 
   index: hide

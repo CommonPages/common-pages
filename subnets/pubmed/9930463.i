@@ -2,7 +2,7 @@
 
 / Scott et al., 1999
 // Cost-effectiveness of FDG-PET for staging non-small cell lung cancer: a decision analysis.
-/// Scott et al., 1999
+/// These results show through rigorous decision tree analysis the potential cost-effectiveness of using thoracic PET in the management of non-small cell lung carcinoma. 
 article '9930463
 
   index: hide

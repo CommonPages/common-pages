@@ -2,7 +2,7 @@
 
 / Katayama et al., 2015
 // Cabozantinib overcomes crizotinib resistance in ROS1 fusion-positive cancer.
-/// Katayama et al., 2015
+/// We developed a comprehensive model of acquired resistance to ROS1 inhibitors in NSCLC with ROS1 rearrangement and identified cabozantinib as a therapeutic strategy to overcome the resistance. 
 article '25351743
 
   index: hide

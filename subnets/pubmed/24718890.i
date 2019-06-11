@@ -2,7 +2,7 @@
 
 / Kerr et al., 2015
 // Second ESMO consensus conference on lung cancer: pathology and molecular biomarkers for non-small-cell lung cancer.
-/// Kerr et al., 2015
+/// To complement the existing treatment guidelines for all tumour types, ESMO organises consensus conferences to focus on specific issues in each type of tumour. 
 article '24718890
 
 

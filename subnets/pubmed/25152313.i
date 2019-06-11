@@ -2,7 +2,7 @@
 
 / Aziz et al., 2015
 // College of American Pathologists' laboratory standards for next-generation sequencing clinical tests.
-/// Aziz et al., 2015
+/// This report describes the important issues considered by the CAP committee during the development of the new checklist requirements, which address documentation, validation, quality assurance, confirmatory testing, exception logs, monitoring of upgrades, variant interpretation and reporting, incidental findings, data storage, version traceability, and data transfer confidentiality. 
 article '25152313
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Gagliardi et al., 2010
 // Radiation dose-volume effects in the heart.
-/// Gagliardi et al., 2010
+/// The literature is reviewed to identify the main clinical and dose-volume predictors for acute and late radiation-induced heart disease. 
 article '20171522
 
 

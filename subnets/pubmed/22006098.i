@@ -2,7 +2,7 @@
 
 / Abe et al., 2012
 // The role of whole brain radiation therapy for the management of brain metastases in the era of stereotactic radiosurgery.
-/// Abe et al., 2012
+/// The goals of treatment for brain metastases (BMs) include preservation of function and improvement of survival. 
 article '22006098
 
 

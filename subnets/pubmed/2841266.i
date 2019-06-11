@@ -2,7 +2,7 @@
 
 / Hazuka et al., 1988
 // Brain metastases: results and effects of re-irradiation.
-/// Hazuka et al., 1988
+/// Re-irradiation for recurrent manifestations of brain metastases has been reported to be of benefit by either increasing the duration of survival or improving the quality of life. 
 article '2841266
 
 

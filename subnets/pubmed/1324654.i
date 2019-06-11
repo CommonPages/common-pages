@@ -2,7 +2,7 @@
 
 / Martini et al., 1992
 // Survival after resection of stage II non-small cell lung cancer.
-/// Martini et al., 1992
+/// From 1973 to 1989, 214 patients with stage II non-small cell lung cancer were treated by resection and complete mediastinal lymph node dissection. 
 article '1324654
 
 

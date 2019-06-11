@@ -2,7 +2,7 @@
 
 / Sgambato et al., 2016
 // Anti PD-1 and PDL-1 Immunotherapy in the Treatment of Advanced Non- Small Cell Lung Cancer (NSCLC): A Review on Toxicity Profile and its Management.
-/// Sgambato et al., 2016
+/// The better understanding of immunology and antitumor immune responses have prompted the development of novel immunotherapy agents like PD-1 checkpoint inhibitors (anti-PD-1 and anti- PDL-1 antibodies) that improve the capacity of the immune system to acknowledge and delete tumors, including lung cancer. 
 article '26412670
 
 

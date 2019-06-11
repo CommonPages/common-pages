@@ -2,7 +2,7 @@
 
 / Rami-Porta et al., 2009
 // The revised TNM staging system for lung cancer.
-/// Rami-Porta et al., 2009
+/// The International Staging Committee (ISC) of the International Association for the Study of Lung Cancer (IASLC) collected 68,463 patients with nonsmall cell lung cancer and 13,032 patients with small cell lung cancer, registered or diagnosed from 1990 to 2000, whose records had adequate information for analyzing the tumor, node, metastasis (TNM) classification. 
 article '19262443
 
 

@@ -2,7 +2,7 @@
 
 / Arriagada et al., 2004
 // Cisplatin-based adjuvant chemotherapy in patients with completely resected non-small-cell lung cancer.
-/// Arriagada et al., 2004
+/// Cisplatin-based adjuvant chemotherapy improves survival among patients with completely resected non-small-cell lung cancer. 
 article '14736927
 
   index: hide
@@ -13,7 +13,7 @@ article '14736927
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Arriagada R, Bergman B, Dunant A, et al.: Cisplatin-based adjuvant chemotherapy in patients with completely resected non-small-cell lung cancer. N Engl J Med 350 (4): 351-60, 2004.</div>
+    <div class="Citation-text">Arriagada R, Bergman B, Dunant A, et al. Cisplatin-based adjuvant chemotherapy in patients with completely resected non-small-cell lung cancer. N Engl J Med 2004;350:351-360.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/14736927">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

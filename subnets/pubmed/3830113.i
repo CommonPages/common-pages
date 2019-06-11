@@ -2,7 +2,7 @@
 
 / Omenn et al., 1987
 // Contribution of environmental fibers to respiratory cancer.
-/// Omenn et al., 1987
+/// This article reviews studies of the carcinogenicity of mineral fibers, notably asbestos, and presents seven major recommendations for further research. 
 article '3830113
 
 

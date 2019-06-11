@@ -2,7 +2,7 @@
 
 / Weiss et al., 2014
 // Second-Line Therapy for Advanced NSCLC.
-/// Weiss et al., 2014
+/// Most patients with lung cancer have non-small cell lung cancer (NSCLC) subtype and have advanced disease at the time of diagnosis. 
 article '23918070
 
 

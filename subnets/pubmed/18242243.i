@@ -2,7 +2,7 @@
 
 / Boffa et al., 2008
 // Data from The Society of Thoracic Surgeons General Thoracic Surgery database: the surgical management of primary lung tumors.
-/// Boffa et al., 2008
+/// The patients in the general thoracic surgery database are elderly, gender balanced, and afflicted by multiple comorbid conditions. 
 article '18242243
 
   index: hide

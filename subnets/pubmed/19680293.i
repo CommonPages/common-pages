@@ -2,7 +2,7 @@
 
 / Gazdar, 2009
 // Activating and resistance mutations of EGFR in non-small-cell lung cancer: role in clinical response to EGFR tyrosine kinase inhibitors.
-/// Gazdar, 2009
+/// The epidermal growth factor receptor tyrosine kinase inhibitors (EGFR TKIs), gefitinib and erlotinib, are reversible competitive inhibitors of the tyrosine kinase domain of EGFR that bind to its adenosine-5' triphosphate-binding site. 
 article '19680293
 
 

@@ -2,7 +2,7 @@
 
 / Werner-Wasik et al., 2010
 // Radiation dose-volume effects in the esophagus.
-/// Werner-Wasik et al., 2010
+/// Publications relating esophageal radiation toxicity to clinical variables and to quantitative dose and dose-volume measures derived from three-dimensional conformal radiotherapy for non-small-cell lung cancer are reviewed. 
 article '20171523
 
 

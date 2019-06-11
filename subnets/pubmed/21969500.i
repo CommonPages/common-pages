@@ -2,7 +2,7 @@
 
 / Brugger et al., 2011
 // Prospective molecular marker analyses of EGFR and KRAS from a randomized, placebo-controlled study of erlotinib maintenance therapy in advanced non-small-cell lung cancer.
-/// Brugger et al., 2011
+/// This large prospective biomarker study found that patients with activating EGFR mutations derive the greatest PFS benefit from erlotinib maintenance therapy. 
 article '21969500
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Lissowska et al., 2010
 // Family history and lung cancer risk: international multicentre case-control study in Eastern and Central Europe and meta-analyses.
-/// Lissowska et al., 2010
+/// Lung cancer is the most common neoplastic disease in Eastern and Central Europe. 
 article '20306329
 
 

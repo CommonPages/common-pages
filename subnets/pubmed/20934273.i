@@ -2,7 +2,7 @@
 
 / Kong et al., 2012
 // Consideration of dose limits for organs at risk of thoracic radiotherapy: atlas for lung, proximal bronchial tree, esophagus, spinal cord, ribs, and brachial plexus.
-/// Kong et al., 2012
+/// We believe these atlases will allow us to define OARs with less variation and generate dosimetric data in a more consistent manner. 
 article '20934273
 
   index: hide

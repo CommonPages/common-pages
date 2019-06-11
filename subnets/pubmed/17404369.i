@@ -2,7 +2,7 @@
 
 / Vokes et al., 2007
 // Induction chemotherapy followed by chemoradiotherapy compared with chemoradiotherapy alone for regionally advanced unresectable stage III Non-small-cell lung cancer: Cancer and Leukemia Group B.
-/// Vokes et al., 2007
+/// The addition of induction chemotherapy to concurrent chemoradiotherapy added toxicity and provided no survival benefit over concurrent chemoradiotherapy alone. 
 article '17404369
 
   index: hide

@@ -1,8 +1,8 @@
 
 
-/ Chemotherapy in non-small cell lung canc…
+/ Chemotherapy in non-small cell lung canc
 // Chemotherapy in non-small cell lung cancer: a meta-analysis using updated data on individual patients from 52 randomised clinical trials. Non-small Cell Lung Cancer Collaborative Group.
-/// Chemotherapy in non-small cell lung canc…
+/// At the outset of this meta-analysis there was considerable pessimism about the role of chemotherapy in non-small cell lung cancer. 
 article '7580546
 
   index: hide
@@ -13,7 +13,7 @@ article '7580546
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Chemotherapy in non-small cell lung cancer: a meta-analysis using updated data on individual patients from 52 randomised clinical trials. Non-small Cell Lung Cancer Collaborative Group. BMJ 311 (7010): 899-909, 1995.</div>
+    <div class="Citation-text">Chemotherapy in non-small cell lung cancer: a meta-analysis using updated data on individual patients from 52 randomised clinical trials. Non-small Cell Lung Cancer Collaborative Group. BMJ 1995;311:899-909.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/7580546">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

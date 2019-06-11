@@ -2,7 +2,7 @@
 
 / Ginsberg et al., 1983
 // Modern thirty-day operative mortality for surgical resections in lung cancer.
-/// Ginsberg et al., 1983
+/// Modern postoperative mortality rates for resectional operations for lung cancer are not readily available. 
 article '6632940
 
 

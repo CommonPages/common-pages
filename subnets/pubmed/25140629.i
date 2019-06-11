@@ -2,7 +2,7 @@
 
 / Chang et al., 2014
 // ACR Appropriateness Criteria® nonsurgical treatment for locally advanced non-small-cell lung cancer: good performance status/definitive intent.
-/// Chang et al., 2014
+/// Concurrent chemotherapy/radiotherapy has been considered the standard treatment for patients with a good performance status and inoperable stage III non-small-cell lung cancer (NSCLC). 
 article '25140629
 
 

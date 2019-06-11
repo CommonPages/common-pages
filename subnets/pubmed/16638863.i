@@ -2,7 +2,7 @@
 
 / Han et al., 2006
 // Optimization of patient selection for gefitinib in non-small cell lung cancer by combined analysis of epidermal growth factor receptor mutation, K-ras mutation, and Akt phosphorylation.
-/// Han et al., 2006
+/// Gefitinib-sensitive EGFR mutation is the single most important predictor of gefitinib sensitivity. 
 article '16638863
 
   index: hide

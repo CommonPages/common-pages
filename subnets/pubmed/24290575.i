@@ -2,7 +2,7 @@
 
 / Su et al., 2014
 // Patterns of survival and recurrence after surgical treatment of early stage non-small cell lung carcinoma in the ACOSOG Z0030 (ALLIANCE) trial.
-/// Su et al., 2014
+/// Results of patients with resected early stage non-small cell carcinoma from a large-scale, multicenter trial serve as benchmarks against which to compare nonsurgical therapies for early stage lung cancer. 
 article '24290575
 
   index: hide

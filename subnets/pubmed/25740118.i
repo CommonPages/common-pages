@@ -2,7 +2,7 @@
 
 / Rodrigues et al., 2015
 // Palliative thoracic radiotherapy in lung cancer: An American Society for Radiation Oncology evidence-based clinical practice guideline.
-/// Rodrigues et al., 2015
+/// This Guideline is intended to serve as a guide for the use of EBRT, EBB, and CC in thoracic palliation of lung cancer outside the clinical trial setting. 
 article '25740118
 
   index: hide

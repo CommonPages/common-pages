@@ -2,7 +2,7 @@
 
 / Aoyama et al., 2007
 // Neurocognitive function of patients with brain metastasis who received either whole brain radiotherapy plus stereotactic radiosurgery or radiosurgery alone.
-/// Aoyama et al., 2007
+/// The results of the present study have revealed that, for most brain metastatic patients, control of the brain tumor is the most important factor for stabilizing neurocognitive function. 
 article '17674975
 
   index: hide

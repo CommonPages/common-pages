@@ -2,7 +2,7 @@
 
 / Casas et al., 2014
 // Denosumab for the treatment of bone metastases in advanced breast cancer.
-/// Casas et al., 2014
+/// In women with advanced breast cancer, approximately three-quarters develop metastases to the bone, with a median survival after diagnosis of 2-3 years. 
 article '23759273
 
 

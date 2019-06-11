@@ -2,7 +2,7 @@
 
 / Coudert et al., 2012
 // Survival benefit with erlotinib maintenance therapy in patients with advanced non-small-cell lung cancer (NSCLC) according to response to first-line chemotherapy.
-/// Coudert et al., 2012
+/// Patients with advanced NSCLC and SD following first-line platinum-based doublet chemotherapy derive a significant OS benefit from maintenance erlotinib therapy. 
 article '21610154
 
   index: hide

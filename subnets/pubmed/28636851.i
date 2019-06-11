@@ -2,7 +2,7 @@
 
 / Carbone et al., 2017
 // First-Line Nivolumab in Stage IV or Recurrent Non-Small-Cell Lung Cancer.
-/// Carbone et al., 2017
+/// Nivolumab was not associated with significantly longer progression-free survival than chemotherapy among patients with previously untreated stage IV or recurrent NSCLC with a PD-L1 expression level of 5% or more. 
 article '28636851
 
   index: hide

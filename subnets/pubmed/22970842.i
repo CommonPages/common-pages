@@ -2,7 +2,7 @@
 
 / Travis et al., 2013
 // Diagnosis of lung cancer in small biopsies and cytology: implications of the 2011 International Association for the Study of Lung Cancer/American Thoracic Society/European Respiratory Society classification.
-/// Travis et al., 2013
+/// The new International Association for the Study of Lung Cancer/American Thoracic Society/European Respiratory Society lung adenocarcinoma classification provides, for the first time, standardized terminology for lung cancer diagnosis in small biopsies and cytology; this was not primarily addressed by previous World Health Organization classifications. 
 article '22970842
 
 

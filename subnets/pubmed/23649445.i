@@ -2,7 +2,7 @@
 
 / Ramnath et al., 2013
 // Treatment of stage III non-small cell lung cancer: Diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines.
-/// Ramnath et al., 2013
+/// Multimodality therapy is preferable in most subsets of patients with stage III lung cancer. 
 article '23649445
 
   index: hide

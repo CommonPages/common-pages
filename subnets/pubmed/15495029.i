@@ -2,7 +2,7 @@
 
 / Rowell et al., 2005
 // Concurrent chemoradiotherapy in non-small cell lung cancer.
-/// Rowell et al., 2005
+/// With concurrent chemoradiotherapy there was a 14% reduction in risk of death at two years compared to sequential chemoradiotherapy, and a 7% reduction compared to radiotherapy alone. 
 article '15495029
 
   index: hide

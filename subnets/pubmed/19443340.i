@@ -2,7 +2,7 @@
 
 / Vokes et al., 2009
 // PROCLAIM: A phase III study of pemetrexed, cisplatin, and radiation therapy followed by consolidation pemetrexed versus etoposide, cisplatin, and radiation therapy followed by consolidation cytotoxic chemotherapy of choice in locally advanced stage III non-small-cell lung cancer of other than predominantly squamous cell histology.
-/// Vokes et al., 2009
+/// This clinical trial summary provides the background and rationale for a randomized trial examining the benefits of pemetrexed/ cisplatin chemotherapy combined with radiation followed by consolidation pemetrexed in patients with unresectable stage IIIA/B non-small-cell lung cancer. 
 article '19443340
 
 

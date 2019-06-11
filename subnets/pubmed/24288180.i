@@ -2,7 +2,7 @@
 
 / Frampton, 2014
 // Crizotinib: a review of its use in the treatment of anaplastic lymphoma kinase-positive, advanced non-small cell lung cancer.
-/// Frampton, 2014
+/// Crizotinib (Xalkori(®)) is an orally active, small molecule inhibitor of multiple receptor tyrosine kinases, including anaplastic lymphoma kinase (ALK), c-Met/hepatocyte growth factor receptor and c-ros oncogene 1. 
 article '24288180
 
 

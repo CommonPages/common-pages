@@ -2,7 +2,7 @@
 
 / Grégoire et al., 2011
 // State of the art on dose prescription, reporting and recording in Intensity-Modulated Radiation Therapy (ICRU report No. 83).
-/// Grégoire et al., 2011
+/// The International Commission on Radiation Units and Measurements (ICRU) report No. 83 provides the information necessary to standardize techniques and procedures and to harmonize the prescribing, recording, and reporting of intensity modulated radiation therapy. 
 article '21802333
 
 

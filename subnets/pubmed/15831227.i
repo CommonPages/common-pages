@@ -2,7 +2,7 @@
 
 / McKenna, 2005
 // New approaches to the minimally invasive treatment of lung cancer.
-/// McKenna, 2005
+/// VATS lobectomy with anatomic dissection can be performed with low morbidity and mortality. 
 article '15831227
 
   index: hide

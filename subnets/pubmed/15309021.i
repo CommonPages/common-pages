@@ -2,7 +2,7 @@
 
 / Zhang et al., 2005
 // Distinction of pulmonary small cell carcinoma from poorly differentiated squamous cell carcinoma: an immunohistochemical approach.
-/// Zhang et al., 2005
+/// Accurate morphologic distinction between small cell carcinoma and poorly differentiated squamous cell carcinoma has critical therapeutic significance, but can be limited by crush artifact, tumor necrosis, limited tumor representation, and overlapping morphologic features. 
 article '15309021
 
 

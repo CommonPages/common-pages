@@ -2,7 +2,7 @@
 
 / Shah et al., 2012
 // Induction chemoradiation is not superior to induction chemotherapy alone in stage IIIA lung cancer.
-/// Shah et al., 2012
+/// Published evidence is sparse but does not support the use of radiation therapy in induction regimens for stage IIIA (N2). 
 article '22632486
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Hara et al., 2006
 // Clinical outcomes of single-fraction stereotactic radiation therapy of lung tumors.
-/// Hara et al., 2006
+/// The results from the current study suggested that single-fraction SRT was tolerable and was capable of attaining excellent local control in patients who had malignant lung tumors that measured &lt; 4 cm in greatest dimension. 
 article '16475150
 
   index: hide

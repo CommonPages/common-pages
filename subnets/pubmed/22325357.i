@@ -2,7 +2,7 @@
 
 / De Grève et al., 2012
 // Clinical activity of afatinib (BIBW 2992) in patients with lung adenocarcinoma with mutations in the kinase domain of HER2/neu.
-/// De Grève et al., 2012
+/// Human epidermal growth factor receptor (HER)2/neu kinase domain mutations are found in approximately 1-4% of lung adenocarcinomas with a similar phenotype to tumors with epidermal growth factor receptor (EGFR) mutations. 
 article '22325357
 
 

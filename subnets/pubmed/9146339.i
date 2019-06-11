@@ -2,7 +2,7 @@
 
 / van Velzen et al., 1997
 // Lymph node type as a prognostic factor for survival in T2 N1 M0 non-small cell lung carcinoma.
-/// van Velzen et al., 1997
+/// Survival differs according to the type of lymph node involvement: lobar lymph node metastasis seems to be an early stage of the disease, whereas hilar lymph node metastasis represents a more advanced form. 
 article '9146339
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Azzoli et al., 2012
 // 2011 Focused Update of 2009 American Society of Clinical Oncology Clinical Practice Guideline Update on Chemotherapy for Stage IV Non-Small-Cell Lung Cancer.
-/// Azzoli et al., 2012
+/// In patients with stage IV NSCLC, first-line cytotoxic chemotherapy should be stopped at disease progression or after four cycles in patients whose disease is stable but not responding to treatment. 
 article '21900105
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Bradley et al., 2005
 // Phase II trial of postoperative adjuvant paclitaxel/carboplatin and thoracic radiotherapy in resected stage II and IIIA non-small-cell lung cancer: promising long-term results of the Radiation Therapy Oncology Group--RTOG 9705.
-/// Bradley et al., 2005
+/// The mature results of this trial suggest an improved overall and progression-free survival in this group of resected NSCLC patients, compared with previously reported trials. 
 article '15908657
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Kong et al., 2006
 // Final toxicity results of a radiation-dose escalation study in patients with non-small-cell lung cancer (NSCLC): predictors for radiation pneumonitis and fibrosis.
-/// Kong et al., 2006
+/// With long-term follow-up for toxicity, we have demonstrated that much higher doses of radiation than are traditionally administered can be safely delivered to a majority of patients with NSCLC. 
 article '16647222
 
   index: hide

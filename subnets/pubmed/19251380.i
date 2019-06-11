@@ -2,7 +2,7 @@
 
 / Fakiris et al., 2009
 // Stereotactic body radiation therapy for early-stage non-small-cell lung carcinoma: four-year results of a prospective phase II study.
-/// Fakiris et al., 2009
+/// Based on our study results, use of SBRT results in high rates of local control in medically inoperable patients with Stage I NSCLC. 
 article '19251380
 
   index: hide
@@ -13,7 +13,7 @@ article '19251380
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Fakiris AJ, McGarry RC, Yiannoutsos CT, et al.: Stereotactic body radiation therapy for early-stage non-small-cell lung carcinoma: four-year results of a prospective phase II study. Int J Radiat Oncol Biol Phys 75 (3): 677-82, 2009.</div>
+    <div class="Citation-text">Fakiris AJ, McGarry RC, Yiannoutsos CT, et al. Stereotactic body radiation therapy for early-stage non-small-cell lung carcinoma: four-year results of a prospective phase II study. Int J Radiat Oncol Biol Phys 2009;75:677-682.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19251380">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

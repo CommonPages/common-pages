@@ -2,7 +2,7 @@
 
 / Ojerholm et al., 2015
 // Gamma Knife radiosurgery to four or more brain metastases in patients without prior intracranial radiation or surgery.
-/// Ojerholm et al., 2015
+/// Data on stereotactic radiosurgery (SRS) for four or more metastases are limited. 
 article '24510602
 
 

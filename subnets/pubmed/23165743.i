@@ -2,7 +2,7 @@
 
 / Howell et al., 2013
 // Single-fraction radiotherapy versus multifraction radiotherapy for palliation of painful vertebral bone metastases-equivalent efficacy, less toxicity, more convenient: a subset analysis of Radiation Therapy Oncology Group trial 97-14.
-/// Howell et al., 2013
+/// Results for the subset of patients with PVBM in the RTOG 94-17 randomized controlled trial were comparable to those for the entire population. 
 article '23165743
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Iyengar et al., 2018
 // Consolidative Radiotherapy for Limited Metastatic Non-Small-Cell Lung Cancer: A Phase 2 Randomized Clinical Trial.
-/// Iyengar et al., 2018
+/// Patterns-of-failure studies suggest that in metastatic non-small-cell lung cancer (NSCLC) sites of gross disease at presentation are the first to progress when treated with chemotherapy. 
 article '28973074
 
 

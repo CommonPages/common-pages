@@ -2,7 +2,7 @@
 
 / Magilligan et al., 1986
 // Surgical approach to lung cancer with solitary cerebral metastasis: twenty-five years' experience.
-/// Magilligan et al., 1986
+/// From 1960 to 1985, 41 patients underwent resection of a lung cancer and one or more brain metastases. 
 article '3767508
 
 

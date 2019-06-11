@@ -2,7 +2,7 @@
 
 / Blumberg et al., 1994
 // The Alpha-Tocopherol, Beta-Carotene Cancer Prevention Study in Finland.
-/// Blumberg et al., 1994
+/// The U.S. National Cancer Institute and the Finnish National Public Institute jointly sponsored a large double-blind, placebo-controlled primary-prevention trial to examine the effects of vitamin E and beta-carotene supplementation on reducing the incidence of lung cancers in male smokers, ages 50-69 years. 
 article '8090376
 
 

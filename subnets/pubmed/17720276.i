@@ -2,7 +2,7 @@
 
 / Rajeswaran et al., 2008
 // Efficacy and side effects of cisplatin- and carboplatin-based doublet chemotherapeutic regimens versus non-platinum-based doublet chemotherapeutic regimens as first line treatment of metastatic non-small cell lung carcinoma: a systematic review of randomized controlled trials.
-/// Rajeswaran et al., 2008
+/// We provide additional evidence that cisplatin, but not carboplatin-based doublet regimens are associated with a slightly better survival compared to non-platinum-based doublet regimens. 
 article '17720276
 
   index: hide

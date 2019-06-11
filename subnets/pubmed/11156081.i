@@ -2,7 +2,7 @@
 
 / Asamura et al., 2001
 // Where is the boundary between N1 and N2 stations in lung cancer?
-/// Asamura et al., 2001
+/// In terms of prognosis, a pleural reflection does not seem an appropriate anatomical boundary between N1 and N2 stations in lung cancer. 
 article '11156081
 
   index: hide

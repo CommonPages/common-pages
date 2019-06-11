@@ -2,7 +2,7 @@
 
 / Suda et al., 2013
 // Acquired resistance mechanisms to tyrosine kinase inhibitors in lung cancer with activating epidermal growth factor receptor mutation--diversity, ductility, and destiny.
-/// Suda et al., 2013
+/// Lung cancers that harbor somatic activating mutations in the gene for the epidermal growth factor receptor (EGFR) depend on mutant EGFR for their proliferation and survival; therefore, lung cancer patients with EGFR mutations often dramatically respond to orally available EGFR tyrosine kinase inhibitors (TKIs). 
 article '22736441
 
 

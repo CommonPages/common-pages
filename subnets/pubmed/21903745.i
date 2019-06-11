@@ -2,7 +2,7 @@
 
 / Curran et al., 2011
 // Sequential vs. concurrent chemoradiation for stage III non-small cell lung cancer: randomized phase III trial RTOG 9410.
-/// Curran et al., 2011
+/// Concurrent delivery of cisplatin-based chemotherapy with TRT confers a long-term survival benefit compared with the sequential delivery of these therapies. 
 article '21903745
 
   index: hide
@@ -13,7 +13,7 @@ article '21903745
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Curran WJ Jr, Paulus R, Langer CJ, et al.: Sequential vs. concurrent chemoradiation for stage III non-small cell lung cancer: randomized phase III trial RTOG 9410. J Natl Cancer Inst 103 (19): 1452-60, 2011.</div>
+    <div class="Citation-text">Curran WJ, Jr., Paulus R, Langer CJ, et al. Sequential vs. concurrent chemoradiation for stage III non-small cell lung cancer: randomized phase III trial RTOG 9410. J Natl Cancer Inst 2011;103:1452-1460.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21903745">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

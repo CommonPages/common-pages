@@ -2,7 +2,7 @@
 
 / Grommes et al., 2012
 // &quot;Pulsatile&quot; high-dose weekly erlotinib for CNS metastases from EGFR mutant non-small cell lung cancer.
-/// Grommes et al., 2012
+/// Erlotinib is effective for epidermal growth factor receptor (EGFR) mutant lung cancer, but CNS penetration at standard daily dosing is limited. 
 article '21865399
 
 

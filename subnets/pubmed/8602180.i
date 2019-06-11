@@ -2,7 +2,7 @@
 
 / Omenn et al., 1996
 // Effects of a combination of beta carotene and vitamin A on lung cancer and cardiovascular disease.
-/// Omenn et al., 1996
+/// After an average of four years of supplementation, the combination of beta carotene and vitamin A had no benefit and may have had an adverse effect on the incidence of lung cancer and on the risk of death from lung cancer, cardiovascular disease, and any cause in smokers and workers exposed to asbestos. 
 article '8602180
 
   index: hide

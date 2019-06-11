@@ -2,7 +2,7 @@
 
 / Scagliotti et al., 2005
 // Pemetrexed combined with oxaliplatin or carboplatin as first-line treatment in advanced non-small cell lung cancer: a multicenter, randomized, phase II trial.
-/// Scagliotti et al., 2005
+/// Efficacy measures for both regimens seem similar to the most effective chemotherapies for advanced non-small cell lung cancer (platinum combinations) with less hematologic and nonhematologic toxicity. 
 article '15701857
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Jänne et al., 2012
 // Randomized phase II trial of erlotinib alone or with carboplatin and paclitaxel in patients who were never or light former smokers with advanced lung adenocarcinoma: CALGB 30406 trial.
-/// Jänne et al., 2012
+/// Erlotinib and erlotinib plus chemotherapy have similar efficacy in clinically selected populations of patients with advanced NSCLC. 
 article '22547605
 
   index: hide

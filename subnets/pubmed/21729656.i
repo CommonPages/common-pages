@@ -2,7 +2,7 @@
 
 / Rodrigues et al., 2012
 // Consensus statement on palliative lung radiotherapy: third international consensus workshop on palliative radiotherapy and symptom control.
-/// Rodrigues et al., 2012
+/// The purpose of this work is to disseminate a consensus statement on palliative radiotherapy (RT) of lung cancer created in conjunction with the Third International Lung Cancer Consensus Workshop. 
 article '21729656
 
 

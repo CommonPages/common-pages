@@ -2,7 +2,7 @@
 
 / Villaruz et al., 2015
 // Clinicopathologic features and outcomes of patients with lung adenocarcinomas harboring BRAF mutations in the Lung Cancer Mutation Consortium.
-/// Villaruz et al., 2015
+/// BRAF mutations occurred in 2.2% of advanced-stage lung adenocarcinomas, were most commonly V600E, and were associated with distinct clinicopathologic features in comparison with other genomic subtypes and with a high mutation rate in more than 1 gene. 
 article '25273224
 
   index: hide
@@ -13,7 +13,7 @@ article '25273224
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Villaruz LC, Socinski MA, Abberbock S, et al.: Clinicopathologic features and outcomes of patients with lung adenocarcinomas harboring BRAF mutations in the Lung Cancer Mutation Consortium. Cancer 121 (3): 448-56, 2015.</div>
+    <div class="Citation-text">Villaruz LC, Socinski MA, Abberbock S, et al. Clinicopathologic features and outcomes of patients with lung adenocarcinomas harboring BRAF mutations in the Lung Cancer Mutation Consortium. Cancer 2015;121:448-456.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25273224">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

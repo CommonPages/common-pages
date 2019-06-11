@@ -2,7 +2,7 @@
 
 / Baumann et al., 2011
 // Final results of the randomized phase III CHARTWEL-trial (ARO 97-1) comparing hyperfractionated-accelerated versus conventionally fractionated radiotherapy in non-small cell lung cancer (NSCLC).
-/// Baumann et al., 2011
+/// Overall, outcome after CHARTWEL or CF was not different. 
 article '21757247
 
   index: hide

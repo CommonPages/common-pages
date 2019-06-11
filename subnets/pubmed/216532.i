@@ -2,7 +2,7 @@
 
 / Decker et al., 1979
 // The significance of a cytologically negative pleural effusion in bronchogenic carcinoma.
-/// Decker et al., 1979
+/// Bronchogenic carcinoma complicated by ipsilateral cytologically positive effusion is considered unresectable. 
 article '216532
 
 

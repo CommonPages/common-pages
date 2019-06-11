@@ -2,7 +2,7 @@
 
 / Delbaldo et al., 2008
 // Second or third additional chemotherapy drug for non-small cell lung cancer in patients with advanced disease.
-/// Delbaldo et al., 2008
+/// Adding a second drug improved tumor response and survival rate. 
 article '17943820
 
   index: hide

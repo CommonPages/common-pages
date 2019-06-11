@@ -2,7 +2,7 @@
 
 / Cross et al., 2004
 // Prospective study of palliative hypofractionated radiotherapy (8.5 Gy x 2) for patients with symptomatic non-small-cell lung cancer.
-/// Cross et al., 2004
+/// For patients with poor performance status and inoperable NSCLC causing pulmonary symptoms, hypofractionated, involved-field radiotherapy, 8.5 Gy in two fractions, offers acceptable palliation with minimal toxicity. 
 article '15001250
 
   index: hide

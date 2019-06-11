@@ -2,7 +2,7 @@
 
 / Alberg et al., 2013
 // Epidemiology of lung cancer: Diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines.
-/// Alberg et al., 2013
+/// Almost all lung cancer deaths are caused by cigarette smoking, underscoring the need for ongoing efforts at tobacco control throughout the world. 
 article '23649439
 
   index: hide

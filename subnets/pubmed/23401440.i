@@ -2,7 +2,7 @@
 
 / Roberts et al., 2013
 // KRAS mutation: should we test for it, and does it matter?
-/// Roberts et al., 2013
+/// Lung cancer is the leading cause of cancer mortality in the United States and worldwide. 
 article '23401440
 
 

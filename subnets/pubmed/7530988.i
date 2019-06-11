@@ -2,7 +2,7 @@
 
 / Ellis et al., 1995
 // Symptom relief with MVP (mitomycin C, vinblastine and cisplatin) chemotherapy in advanced non-small-cell lung cancer.
-/// Ellis et al., 1995
+/// The role of chemotherapy in the palliation of patients with advanced stage (IIIB and IV non-small-cell lung cancer (NSCLC) remains controversial. 
 article '7530988
 
 

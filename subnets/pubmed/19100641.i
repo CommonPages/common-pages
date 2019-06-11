@@ -2,7 +2,7 @@
 
 / MacManus et al., 2009
 // Use of PET and PET/CT for radiation therapy planning: IAEA expert report 2006-2007.
-/// MacManus et al., 2009
+/// Positron Emission Tomography (PET) is a significant advance in cancer imaging with great potential for optimizing radiation therapy (RT) treatment planning and thereby improving outcomes for patients. 
 article '19100641
 
 

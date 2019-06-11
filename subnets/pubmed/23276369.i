@@ -2,7 +2,7 @@
 
 / Tree et al., 2013
 // Stereotactic body radiotherapy for oligometastases.
-/// Tree et al., 2013
+/// The management of metastatic solid tumours has historically focused on systemic treatment given with palliative intent. 
 article '23276369
 
 

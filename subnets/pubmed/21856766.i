@@ -2,7 +2,7 @@
 
 / Chaft et al., 2012
 // Disease flare after tyrosine kinase inhibitor discontinuation in patients with EGFR-mutant lung cancer and acquired resistance to erlotinib or gefitinib: implications for clinical trial design.
-/// Chaft et al., 2012
+/// In patients with EGFR-mutant lung cancer and acquired resistance to epidermal growth factor receptor TKIs, discontinuation of erlotinib or gefitinib before initiation of study treatment is associated with a clinically significant risk of accelerated disease progression. 
 article '21856766
 
   index: hide

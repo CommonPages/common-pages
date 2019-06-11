@@ -2,7 +2,7 @@
 
 / Miller et al., 2008
 // Molecular characteristics of bronchioloalveolar carcinoma and adenocarcinoma, bronchioloalveolar carcinoma subtype, predict response to erlotinib.
-/// Miller et al., 2008
+/// Erlotinib is active in BAC and adenocarcinoma, mixed subtype, BAC. 
 article '18349398
 
   index: hide

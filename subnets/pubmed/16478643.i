@@ -2,7 +2,7 @@
 
 / Pujol et al., 2006
 // Should chemotherapy combinations for advanced non-small cell lung cancer be platinum-based? A meta-analysis of phase III randomized trials.
-/// Pujol et al., 2006
+/// A platinum-based doublet induced a statically significant reduction in the risk of death when compared with non-platinum chemotherapy without inducing an unacceptable increase in toxicity. 
 article '16478643
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Mok et al., 2017
 // Osimertinib or Platinum-Pemetrexed in EGFR T790M-Positive Lung Cancer.
-/// Mok et al., 2017
+/// Osimertinib had significantly greater efficacy than platinum therapy plus pemetrexed in patients with T790M-positive advanced non-small-cell lung cancer (including those with CNS metastases) in whom disease had progressed during first-line EGFR-TKI therapy. 
 article '27959700
 
   index: hide
@@ -13,7 +13,7 @@ article '27959700
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Mok TS, Wu Y-L, Ahn M-J, et al.: Osimertinib or Platinum-Pemetrexed in EGFR T790M-Positive Lung Cancer. N Engl J Med 376 (7): 629-640, 2017.</div>
+    <div class="Citation-text">Mok TS, Wu YL, Ahn MJ, et al. Osimertinib or platinum-pemetrexed in EGFR T790M-positive lung cancer. N Engl J Med 2017;376:629-640.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/27959700">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

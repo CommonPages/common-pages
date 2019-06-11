@@ -2,7 +2,7 @@
 
 / Rivera et al., 2013
 // Establishing the diagnosis of lung cancer: Diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines.
-/// Rivera et al., 2013
+/// The sensitivity of bronchoscopy is high for endobronchial disease and poor for peripheral lesions &amp;lt; 2 cm in diameter. 
 article '23649436
 
   index: hide

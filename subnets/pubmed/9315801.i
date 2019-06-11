@@ -2,7 +2,7 @@
 
 / Adebonojo et al., 1997
 // The results of modern surgical therapy for multiple primary lung cancers.
-/// Adebonojo et al., 1997
+/// We conclude that an aggressive surgical approach is safe and justified in most patients with MPLC, especially patients with metachronous cancers, while patients with synchronous lung cancers have poorer prognosis. 
 article '9315801
 
   index: hide

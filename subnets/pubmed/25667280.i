@@ -2,7 +2,7 @@
 
 / Mazières et al., 2015
 // Crizotinib therapy for advanced lung adenocarcinoma and a ROS1 rearrangement: results from the EUROS1 cohort.
-/// Mazières et al., 2015
+/// Crizotinib was highly active at treating lung cancer in patients with a ROS1 rearrangement, suggesting that patients with lung adenocarcinomas should be tested for ROS1. 
 article '25667280
 
   index: hide

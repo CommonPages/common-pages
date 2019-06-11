@@ -2,7 +2,7 @@
 
 / Crinò et al., 2017
 // Multicenter Phase II Study of Whole-Body and Intracranial Activity With Ceritinib in Patients With ALK-Rearranged Non-Small-Cell Lung Cancer Previously Treated With Chemotherapy and Crizotinib: Results From ASCEND-2.
-/// Crinò et al., 2017
+/// Phase I data (ASCEND-1) showed ceritinib efficacy in patients with ALK-rearranged non-small-cell lung cancer (NSCLC), regardless of brain metastases status and with or without prior therapy with an inhibitor of the ALK protein. 
 article '27432917
 
 

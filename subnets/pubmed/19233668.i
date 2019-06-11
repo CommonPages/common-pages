@@ -2,7 +2,7 @@
 
 / Cerfolio et al., 2009
 // Pulmonary resection after concurrent chemotherapy and high dose (60Gy) radiation for non-small cell lung cancer is safe and may provide increased survival.
-/// Cerfolio et al., 2009
+/// Pulmonary resection after high dose (&gt;/=60Gy) neoadjuvant chemoradiotherapy is safe. 
 article '19233668
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Takeda et al., 2013
 // Clinical impact of continued crizotinib administration after isolated central nervous system progression in patients with lung cancer positive for ALK rearrangement.
-/// Takeda et al., 2013
+/// Development of isolated CNS metastasis is emerging as a clinical concern for patients treated with crizotinib. 
 article '23584297
 
   index: hide

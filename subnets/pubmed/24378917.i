@@ -2,7 +2,7 @@
 
 / Moyer et al., 2014
 // Screening for lung cancer: U.S. Preventive Services Task Force recommendation statement.
-/// Moyer et al., 2014
+/// The USPSTF recommends annual screening for lung cancer with low-dose computed tomography in adults aged 55 to 80 years who have a 30 pack-year smoking history and currently smoke or have quit within the past 15 years. 
 article '24378917
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Scagliotti et al., 2013
 // Overall survival improvement in patients with lung cancer and bone metastases treated with denosumab versus zoledronic acid: subgroup analysis from a randomized phase 3 study.
-/// Scagliotti et al., 2013
+/// In this exploratory analysis, denosumab was associated with improved overall survival compared with ZA, in patients with metastatic lung cancer. 
 article '23154554
 
   index: hide

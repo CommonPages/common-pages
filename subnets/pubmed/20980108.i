@@ -2,7 +2,7 @@
 
 / Machtay et al., 2012
 // Higher biologically effective dose of radiotherapy is associated with improved outcomes for locally advanced non-small cell lung carcinoma treated with chemoradiation: an analysis of the Radiation Therapy Oncology Group.
-/// Machtay et al., 2012
+/// Higher radiotherapy dose intensity is associated with improved local-regional control and survival in the setting of chemoradiotherapy. 
 article '20980108
 
   index: hide

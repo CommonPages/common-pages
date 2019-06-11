@@ -2,7 +2,7 @@
 
 / Khozin et al., 2015
 // U.S. Food and Drug Administration approval summary: Erlotinib for the first-line treatment of metastatic non-small cell lung cancer with epidermal growth factor receptor exon 19 deletions or exon 21 (L858R) substitution mutations.
-/// Khozin et al., 2015
+/// On May 14, 2013, the U.S. Food and Drug Administration approved erlotinib (Tarceva, Astellas Pharma Inc., Northbrook, IL, http://www.us.astellas.com/) 
 article '24868098
 
 

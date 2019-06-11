@@ -2,7 +2,7 @@
 
 / Videtic et al., 2015
 // ACR appropriateness Criteria® early-stage non-small-cell lung cancer.
-/// Videtic et al., 2015
+/// Early-stage non-small-cell lung cancer (NSCLC) is diagnosed in about 15% to 20% of lung cancer patients at presentation. 
 article '25180631
 
 

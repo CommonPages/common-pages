@@ -2,7 +2,7 @@
 
 / Dias-Santagata et al., 2010
 // Rapid targeted mutational analysis of human tumours: a clinical platform to guide personalized cancer medicine.
-/// Dias-Santagata et al., 2010
+/// Targeted cancer therapy requires the rapid and accurate identification of genetic abnormalities predictive of therapeutic response. 
 article '20432502
 
 

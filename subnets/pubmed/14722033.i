@@ -2,7 +2,7 @@
 
 / Kubota et al., 2004
 // Phase III randomized trial of docetaxel plus cisplatin versus vindesine plus cisplatin in patients with stage IV non-small-cell lung cancer: the Japanese Taxotere Lung Cancer Study Group.
-/// Kubota et al., 2004
+/// As first-line treatment for stage IV NSCLC, DC resulted in greater clinical benefit in terms of response rate (with marked improvements in overall and 2-year survival rates) and quality of life than did treatment with VdsC. 
 article '14722033
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Hancock et al., 2015
 // Impact of adjuvant treatment for microscopic residual disease after non-small cell lung cancer surgery.
-/// Hancock et al., 2015
+/// The administration of both chemotherapy and radiation is associated with an improved survival in patients with microscopically positive surgical margins, irrespective of stage. 
 article '25528723
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Rigotti et al., 2014
 // Sustained care intervention and postdischarge smoking cessation among hospitalized adults: a randomized clinical trial.
-/// Rigotti et al., 2014
+/// Among hospitalized adult smokers who wanted to quit smoking, a postdischarge intervention providing automated telephone calls and free medication resulted in higher rates of smoking cessation at 6 months compared with a standard recommendation to use counseling and medication after discharge. 
 article '25138333
 
   index: hide

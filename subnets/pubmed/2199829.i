@@ -2,7 +2,7 @@
 
 / Slebos et al., 1990
 // K-ras oncogene activation as a prognostic marker in adenocarcinoma of the lung.
-/// Slebos et al., 1990
+/// The presence of K-ras point mutations defines a subgroup of patients with lung adenocarcinoma in whom the prognosis is very poor and disease-free survival is not usually long despite radical resection and a small tumor load. 
 article '2199829
 
   index: hide

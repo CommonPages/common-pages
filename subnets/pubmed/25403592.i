@@ -2,7 +2,7 @@
 
 / Handforth et al., 2016
 // The prevalence and outcomes of frailty in older cancer patients: a systematic review.
-/// Handforth et al., 2016
+/// More than half of older cancer patients have pre-frailty or frailty and these patients are at increased risk of chemotherapy intolerance, postoperative complications and mortality. 
 article '25403592
 
   index: hide

@@ -1,8 +1,8 @@
 
 
-/ Effects of vinorelbine on quality of lif…
+/ Effects of vinorelbine on quality of lif
 // Effects of vinorelbine on quality of life and survival of elderly patients with advanced non-small-cell lung cancer. The Elderly Lung Cancer Vinorelbine Italian Study Group.
-/// Effects of vinorelbine on quality of lif…
+/// Vinorelbine improves survival of elderly patients with advanced NSCLC and possibly improves overall QoL. 
 article '9890172
 
   index: hide

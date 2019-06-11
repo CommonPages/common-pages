@@ -2,7 +2,7 @@
 
 / van Boxem et al., 2001
 // Photodynamic therapy, Nd-YAG laser and electrocautery for treating early-stage intraluminal cancer: which to choose?
-/// van Boxem et al., 2001
+/// The degree of healing and damage of the bronchial wall after photodynamic therapy, Nd-YAG laser and electrocautery for intraluminal early-stage cancer have been analysed. 
 article '11162864
 
 

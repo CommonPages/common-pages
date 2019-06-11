@@ -2,7 +2,7 @@
 
 / How et al., 2018
 // Pulsatile Erlotinib in EGFR-Positive Non-Small-Cell Lung Cancer Patients With Leptomeningeal and Brain Metastases: Review of the Literature.
-/// How et al., 2018
+/// Patients with epidermal growth factor receptor (EGFR)-positive (EGFR+) non-small-cell lung cancer (NSCLC) show improved response rates when treated with tyrosine kinase inhibitors (TKIs) such as erlotinib. 
 article '28245967
 
 

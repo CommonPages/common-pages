@@ -2,7 +2,7 @@
 
 / Wolfson et al., 2011
 // Primary analysis of a phase II randomized trial Radiation Therapy Oncology Group (RTOG) 0212: impact of different total doses and schedules of prophylactic cranial irradiation on chronic neurotoxicity and quality of life for patients with limited-disease small-cell lung cancer.
-/// Wolfson et al., 2011
+/// Because of the increased risk of developing CNt in study patients with 36 Gy, a total PCI dose of 25 Gy remains the standard of care for patients with LD SCLC attaining a complete response to initial chemoradiation. 
 article '20800380
 
   index: hide

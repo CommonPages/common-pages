@@ -2,7 +2,7 @@
 
 / Strauss et al., 2008
 // Adjuvant paclitaxel plus carboplatin compared with observation in stage IB non-small-cell lung cancer: CALGB 9633 with the Cancer and Leukemia Group B, Radiation Therapy Oncology Group, and North Central Cancer Treatment Group Study Groups.
-/// Strauss et al., 2008
+/// Because a significant survival advantage was not observed across the entire cohort, adjuvant chemotherapy should not be considered standard care in stage IB NSCLC. 
 article '18809614
 
   index: hide
@@ -13,7 +13,7 @@ article '18809614
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Strauss GM, Herndon JE 2nd, Maddaus MA, et al.: Adjuvant paclitaxel plus carboplatin compared with observation in stage IB non-small-cell lung cancer: CALGB 9633 with the Cancer and Leukemia Group B, Radiation Therapy Oncology Group, and North Central Cancer Treatment Group Study Groups. J Clin Oncol 26 (31): 5043-51, 2008.</div>
+    <div class="Citation-text">Strauss GM, Herndon JE, 2nd, Maddaus MA, et al. Adjuvant paclitaxel plus carboplatin compared with observation in stage IB non-small-cell lung cancer: CALGB 9633 with the Cancer and Leukemia Group B, Radiation Therapy Oncology Group, and North Central Cancer Treatment Group Study Groups. J Clin Oncol 2008;26:5043-5051.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/18809614">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

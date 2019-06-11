@@ -2,7 +2,7 @@
 
 / Gaissert et al., 2009
 // POINT: Operative risk of pneumonectomy--influence of preoperative induction therapy.
-/// Gaissert et al., 2009
+/// A regimen of induction radiation and chemotherapy does not increase the operative mortality of pneumonectomy in carefully selected patients. 
 article '19619768
 
   index: hide

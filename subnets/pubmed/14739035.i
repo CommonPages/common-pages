@@ -2,7 +2,7 @@
 
 / Osaki et al., 2004
 // Survival and characteristics of lymph node involvement in patients with N1 non-small cell lung cancer.
-/// Osaki et al., 2004
+/// N1 non-small cell lung cancer (NSCLC) encompasses a heterogeneous subgroup with differential lymph node involvement. 
 article '14739035
 
 

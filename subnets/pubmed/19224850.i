@@ -2,7 +2,7 @@
 
 / Inoue et al., 2009
 // First-line gefitinib for patients with advanced non-small-cell lung cancer harboring epidermal growth factor receptor mutations without indication for chemotherapy.
-/// Inoue et al., 2009
+/// This is the first report indicating that EGFR mutation-positive patients with extremely poor PS benefit from first-line gefitinib. 
 article '19224850
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Ichinose et al., 1995
 // Prognostic factors obtained by a pathologic examination in completely resected non-small-cell lung cancer. An analysis in each pathologic stage.
-/// Ichinose et al., 1995
+/// We attempted to clarify what factors predominantly influence the survival of patients with non-small-cell lung cancer in each pathologic stage on the basis of information generally obtained by a pathologic examination of completely resected non-small-cell lung cancer. 
 article '7564425
 
 

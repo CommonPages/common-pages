@@ -2,7 +2,7 @@
 
 / Zhao et al., 2018
 // The prognostic role of EGFR-TKIs for patients with advanced non-small cell lung cancer.
-/// Zhao et al., 2018
+/// Clinical trials have shown that epidermal growth factor receptor-tyrosine kinase inhibitors (EGFR-TKIs) did not improve the survival of patients with EGFR-mutated non-small cell lung cancer (NSCLC) because of the high crossover of treatments. 
 article '28079142
 
 

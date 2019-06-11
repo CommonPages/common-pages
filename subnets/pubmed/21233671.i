@@ -2,7 +2,7 @@
 
 / Cooper et al., 2011
 // What's new in non-small cell lung cancer for pathologists: the importance of accurate subtyping, EGFR mutations and ALK rearrangements.
-/// Cooper et al., 2011
+/// In the past, the only critical point of distinction in the pathological diagnosis of lung cancer was between small cell and non-small cell lung cancer (NSCLC). 
 article '21233671
 
 

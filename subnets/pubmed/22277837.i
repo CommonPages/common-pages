@@ -2,7 +2,7 @@
 
 / Ciuleanu et al., 2012
 // Efficacy and safety of erlotinib versus chemotherapy in second-line treatment of patients with advanced, non-small-cell lung cancer with poor prognosis (TITAN): a randomised multicentre, open-label, phase 3 study.
-/// Ciuleanu et al., 2012
+/// No significant differences in efficacy were noted between patients treated with erlotinib and those treated with docetaxel or pemetrexed. 
 article '22277837
 
   index: hide

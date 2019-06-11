@@ -2,7 +2,7 @@
 
 / Zakowski et al., 2017
 // Morphologic Accuracy in Differentiating Primary Lung Adenocarcinoma From Squamous Cell Carcinoma in Cytology Specimens.
-/// Zakowski et al., 2017
+/// -Lung ADC can accurately be distinguished from squamous cell carcinoma by morphology in cytologic specimens with excellent interobserver concordance across multiple institutions and levels of cytology experience. 
 article '27552093
 
   index: hide

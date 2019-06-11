@@ -2,7 +2,7 @@
 
 / Mahtabifard et al., 2008
 // Video-assisted thoracic surgery sleeve lobectomy: a case series.
-/// Mahtabifard et al., 2008
+/// In experienced centers, VATS sleeve lobectomy is possible with acceptable morbidity and mortality as well as short length of stay. 
 article '18222205
 
   index: hide

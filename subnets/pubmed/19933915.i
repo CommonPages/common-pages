@@ -2,7 +2,7 @@
 
 / Butts et al., 2010
 // Randomized phase III trial of vinorelbine plus cisplatin compared with observation in completely resected stage IB and II non-small-cell lung cancer: updated survival analysis of JBR-10.
-/// Butts et al., 2010
+/// PURPOSE Adjuvant cisplatin-based chemotherapy (ACT) is now an accepted standard for completely resected stage II and III A non-small-cell lung cancer (NSCLC). 
 article '19933915
 
 

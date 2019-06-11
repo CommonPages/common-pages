@@ -2,7 +2,7 @@
 
 / Georgoulias et al., 2004
 // Docetaxel versus docetaxel plus cisplatin as front-line treatment of patients with advanced non-small-cell lung cancer: a randomized, multicenter phase III trial.
-/// Georgoulias et al., 2004
+/// DC regimen resulted in a higher response rate but without improvement in median time to tumor progression or OS compared with D. D could be a reasonable front-line chemotherapy for patients who cannot tolerate cisplatin. 
 article '15226327
 
   index: hide

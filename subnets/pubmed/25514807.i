@@ -2,7 +2,7 @@
 
 / Chang et al., 2015
 // Stereotactic ablative radiotherapy for centrally located early stage non-small-cell lung cancer: what we have learned.
-/// Chang et al., 2015
+/// Image-guided stereotactic ablative radiotherapy (SABR; also called stereotactic body radiotherapy or radiosurgery) has become a standard treatment for medically inoperable peripherally located stage I non-small-cell lung cancer (NSCLC) and can achieve local control rates in excess of 90%. 
 article '25514807
 
 

@@ -2,7 +2,7 @@
 
 / Pieterman et al., 2000
 // Preoperative staging of non-small-cell lung cancer with positron-emission tomography.
-/// Pieterman et al., 2000
+/// PET improves the rate of detection of local and distant metastases in patients with non-small-cell lung cancer. 
 article '10911007
 
   index: hide

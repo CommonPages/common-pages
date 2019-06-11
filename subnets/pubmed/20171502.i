@@ -2,7 +2,7 @@
 
 / Marks et al., 2010
 // Use of normal tissue complication probability models in the clinic.
-/// Marks et al., 2010
+/// The Quantitative Analysis of Normal Tissue Effects in the Clinic (QUANTEC) review summarizes the currently available three-dimensional dose/volume/outcome data to update and refine the normal tissue dose/volume tolerance guidelines provided by the classic Emami et al. paper published in 1991. 
 article '20171502
 
 

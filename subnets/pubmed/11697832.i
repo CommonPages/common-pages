@@ -2,7 +2,7 @@
 
 / Vansteenkiste et al., 2002
 // Clinical-benefit response in advanced non-small-cell lung cancer: A multicentre prospective randomised phase III study of single agent gemcitabine versus cisplatin-vindesine.
-/// Vansteenkiste et al., 2002
+/// Comparison of GEM with cisplatin-based therapy in symptomatic, advanced NSCLC demonstrates that GEM produces significantly a stronger and longer-lasting clinical benefit, probably due to its equal effectiveness in terms of ORR, time-to-progression or survival, combined with significantly less severe therapy-related toxicity. 
 article '11697832
 
   index: hide

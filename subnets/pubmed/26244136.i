@@ -2,7 +2,7 @@
 
 / Rusthoven et al., 2015
 // Improved survival with stereotactic ablative radiotherapy (SABR) over lobectomy for early stage non-small cell lung cancer (NSCLC): addressing the fallout of disruptive randomized data.
-/// Rusthoven et al., 2015
+/// The gold-standard therapy for early stage non-small cell lung cancer (esNSCLC) has historically been lobectomy with mediastinal lymph node dissection. 
 article '26244136
 
 

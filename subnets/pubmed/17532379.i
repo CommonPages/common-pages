@@ -2,7 +2,7 @@
 
 / Whitson et al., 2007
 // Video-assisted thoracoscopic surgery is more favorable than thoracotomy for resection of clinical stage I non-small cell lung cancer.
-/// Whitson et al., 2007
+/// Patients undergoing VATS lobectomy for clinical stage I NSCLC, despite having more comorbidities, had fewer postoperative complications. 
 article '17532379
 
   index: hide

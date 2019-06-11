@@ -2,7 +2,7 @@
 
 / Ciuleanu et al., 2009
 // Maintenance pemetrexed plus best supportive care versus placebo plus best supportive care for non-small-cell lung cancer: a randomised, double-blind, phase 3 study.
-/// Ciuleanu et al., 2009
+/// Maintenance therapy with pemetrexed is well tolerated and offers improved progression-free and overall survival compared with placebo in patients with advanced non-small-cell lung cancer. 
 article '19767093
 
   index: hide
@@ -13,7 +13,7 @@ article '19767093
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Ciuleanu T, Brodowicz T, Zielinski C, et al.: Maintenance pemetrexed plus best supportive care versus placebo plus best supportive care for non-small-cell lung cancer: a randomised, double-blind, phase 3 study. Lancet 374 (9699): 1432-40, 2009.</div>
+    <div class="Citation-text">Ciuleanu T, Brodowicz T, Zielinski C, et al. Maintenance pemetrexed plus best supportive care versus placebo plus best supportive care for non-small-cell lung cancer: a randomised, double-blind, phase 3 study. Lancet 2009;374:1432-1440.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19767093">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

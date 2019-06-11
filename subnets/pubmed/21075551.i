@@ -2,7 +2,7 @@
 
 / Bradley et al., 2012
 // A phase II comparative study of gross tumor volume definition with or without PET/CT fusion in dosimetric planning for non-small-cell lung cancer (NSCLC): primary analysis of Radiation Therapy Oncology Group (RTOG) 0515.
-/// Bradley et al., 2012
+/// PET/CT-derived tumor volumes were smaller than those derived by CT alone. 
 article '21075551
 
   index: hide

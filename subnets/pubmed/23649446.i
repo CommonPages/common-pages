@@ -2,7 +2,7 @@
 
 / Socinski et al., 2013
 // Treatment of stage IV non-small cell lung cancer: Diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines.
-/// Socinski et al., 2013
+/// Significant advances continue to be made, and the treatment of stage IV NSCLC has become nuanced and specific for particular histologic subtypes and clinical patient characteristics and according to the presence of specific genetic mutations. 
 article '23649446
 
   index: hide

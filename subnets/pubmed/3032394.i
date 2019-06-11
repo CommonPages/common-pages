@@ -2,7 +2,7 @@
 
 / Perez et al., 1987
 // Long-term observations of the patterns of failure in patients with unresectable non-oat cell carcinoma of the lung treated with definitive radiotherapy. Report by the Radiation Therapy Oncology Group.
-/// Perez et al., 1987
+/// This report details the patterns of tumor recurrence in two prospective randomized studies involving 551 patients with histologically proven unresectable or medically inoperable non-oat cell carcinoma of the lung treated with definitive radiotherapy. 
 article '3032394
 
 

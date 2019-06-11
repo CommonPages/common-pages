@@ -2,13 +2,13 @@
 
 / Wu et al., 2018
 // Phase II Study of Crizotinib in East Asian Patients With ROS1-Positive Advanced Non-Small-Cell Lung Cancer.
-/// Wu et al., 2018
+/// Purpose Approximately 1% to 2% of non-small-cell lung cancers (NSCLCs) harbor a c-ros oncogene 1 ( ROS1) rearrangement. 
 article '29596029
 
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Wu YL, Yang JC, Kim DW, et al.: Phase II Study of Crizotinib in East Asian Patients With ROS1-Positive Advanced Non-Small-Cell Lung Cancer. J Clin Oncol 36 (14): 1405-1411, 2018.</div>
+    <div class="Citation-text">Wu YL, Yang JC, Kim DW, et al. Phase II study of crizotinib in East Asian patients with ROS1-positive advanced non-small-cell lung cancer. J Clin Oncol 2018;36:1405-1411.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/29596029">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

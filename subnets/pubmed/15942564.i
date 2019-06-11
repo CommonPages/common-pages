@@ -2,7 +2,7 @@
 
 / Kwong et al., 2005
 // High-dose radiotherapy in trimodality treatment of Pancoast tumors results in high pathologic complete response rates and excellent long-term survival.
-/// Kwong et al., 2005
+/// Surgical resection of Pancoast tumors after neoadjuvant high-dose radiation and chemotherapy can be safely performed. 
 article '15942564
 
   index: hide

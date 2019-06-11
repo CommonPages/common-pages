@@ -2,7 +2,7 @@
 
 / Filippi et al., 2014
 // Outcomes of single fraction stereotactic ablative radiotherapy for lung metastases.
-/// Filippi et al., 2014
+/// Stereotactic Ablative Radiotherapy (SABR) has been previously investigated as an alternative to thoracic surgery in patients with a limited number of pulmonary nodules from different primary tumors. 
 article '23819496
 
 

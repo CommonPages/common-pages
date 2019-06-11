@@ -2,7 +2,7 @@
 
 / Garon et al., 2015
 // Pembrolizumab for the treatment of non-small-cell lung cancer.
-/// Garon et al., 2015
+/// Pembrolizumab had an acceptable side-effect profile and showed antitumor activity in patients with advanced non-small-cell lung cancer. 
 article '25891174
 
   index: hide
@@ -13,7 +13,7 @@ article '25891174
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Garon EB, Rizvi NA, Hui R, et al.: Pembrolizumab for the treatment of non-small-cell lung cancer. N Engl J Med 372 (21): 2018-28, 2015.</div>
+    <div class="Citation-text">Garon EB, Rizvi NA, Hui R, et al. Pembrolizumab for the treatment of non-small-cell lung cancer. N Engl J Med 2015;372:2018-2028.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25891174">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

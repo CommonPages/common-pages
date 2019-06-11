@@ -2,7 +2,7 @@
 
 / Sabari et al., 2018
 // The activity, safety, and evolving role of brigatinib in patients with ALK-rearranged non-small cell lung cancers.
-/// Sabari et al., 2018
+/// Brigatinib (AP26113) is a dimethylphosphine oxide group-containing tyrosine kinase inhibitor (TKI) constructed around a bisanilinopyrimidine scaffold with potent activity against the anaplastic lymphoma kinase (ALK) and several other targets. 
 article '28435288
 
 

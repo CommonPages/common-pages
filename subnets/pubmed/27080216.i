@@ -2,7 +2,7 @@
 
 / Planchard et al., 2017
 // Dabrafenib in patients with BRAF(V600E)-positive advanced non-small-cell lung cancer: a single-arm, multicentre, open-label, phase 2 trial.
-/// Planchard et al., 2017
+/// Activating BRAF(V600E) (Val600Glu) mutations are found in about 1-2% of lung adenocarcinomas, which might provide an opportunity for targeted treatment in these patients. 
 article '27080216
 
 

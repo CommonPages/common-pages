@@ -2,7 +2,7 @@
 
 / Zhao et al., 2017
 // Planning Target Volume D95 and Mean Dose Should Be Considered for Optimal Local Control for Stereotactic Ablative Radiation Therapy.
-/// Zhao et al., 2017
+/// In addition to gross tumor volume, higher radiation dose delivered to the PTV predicts for better local/lobar control. 
 article '27209498
 
   index: hide

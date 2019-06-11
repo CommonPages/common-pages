@@ -2,7 +2,7 @@
 
 / Patchell et al., 1998
 // Postoperative radiotherapy in the treatment of single metastases to the brain: a randomized trial.
-/// Patchell et al., 1998
+/// Patients with cancer and single metastases to the brain who receive treatment with surgical resection and postoperative radiotherapy have fewer recurrences of cancer in the brain and are less likely to die of neurologic causes than similar patients treated with surgical resection alone. 
 article '9809728
 
   index: hide

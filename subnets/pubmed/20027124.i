@@ -2,7 +2,7 @@
 
 / Douillard et al., 2010
 // Adjuvant cisplatin and vinorelbine for completely resected non-small cell lung cancer: subgroup analysis of the Lung Adjuvant Cisplatin Evaluation.
-/// Douillard et al., 2010
+/// In subgroup analyses, adjuvant cisplatin-vinorelbine provides a superior survival benefit and can be recommended in completely resected stages II and III non-small cell lung cancer. 
 article '20027124
 
   index: hide

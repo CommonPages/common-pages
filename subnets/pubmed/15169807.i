@@ -2,7 +2,7 @@
 
 / Johnson et al., 2004
 // Randomized phase II trial comparing bevacizumab plus carboplatin and paclitaxel with carboplatin and paclitaxel alone in previously untreated locally advanced or metastatic non-small-cell lung cancer.
-/// Johnson et al., 2004
+/// Bevacizumab in combination with carboplatin and paclitaxel improved overall response and time to progression in patients with advanced or recurrent non-small-cell lung cancer. 
 article '15169807
 
   index: hide

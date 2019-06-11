@@ -2,7 +2,7 @@
 
 / Ou et al., 2018
 // Emergence of FGFR3-TACC3 fusions as a potential by-pass resistance mechanism to EGFR tyrosine kinase inhibitors in EGFR mutated NSCLC patients.
-/// Ou et al., 2018
+/// Resistance to EGFR tyrosine kinase inhibitors (TKIs) in non-small cell lung cancers (NSCLCs) with activating EGFR mutations generally involve development of acquired secondary or tertiary EGFR mutations, such as T790M or C797S. 
 article '28838400
 
 

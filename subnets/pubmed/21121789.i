@@ -2,7 +2,7 @@
 
 / Chang et al., 2011
 // Analysis of radiosurgical results in patients with brain metastases according to the number of brain lesions: is stereotactic radiosurgery effective for multiple brain metastases?
-/// Chang et al., 2011
+/// In this study, patients harboring more than 15 metastatic brain lesions were found to have faster development of new lesions in the brain. 
 article '21121789
 
   index: hide

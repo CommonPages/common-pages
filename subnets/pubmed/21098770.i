@@ -2,7 +2,7 @@
 
 / Annema et al., 2010
 // Mediastinoscopy vs endosonography for mediastinal nodal staging of lung cancer: a randomized trial.
-/// Annema et al., 2010
+/// Among patients with (suspected) NSCLC, a staging strategy combining endosonography and surgical staging compared with surgical staging alone resulted in greater sensitivity for mediastinal nodal metastases and fewer unnecessary thoracotomies. 
 article '21098770
 
   index: hide

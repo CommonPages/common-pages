@@ -2,7 +2,7 @@
 
 / Bilal et al., 2012
 // Is radiofrequency ablation more effective than stereotactic ablative radiotherapy in patients with early stage medically inoperable non-small cell lung cancer?
-/// Bilal et al., 2012
+/// A best evidence topic in thoracic surgery was written according to a structured protocol. 
 article '22581864
 
 

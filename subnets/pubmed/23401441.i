@@ -2,7 +2,7 @@
 
 / Gerber et al., 2013
 // Maintenance chemotherapy for advanced non-small-cell lung cancer: new life for an old idea.
-/// Gerber et al., 2013
+/// Although well established for the treatment of certain hematologic malignancies, maintenance therapy has only recently become a treatment paradigm for advanced non-small-cell lung cancer. 
 article '23401441
 
 

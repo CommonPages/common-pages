@@ -2,7 +2,7 @@
 
 / Sandler et al., 2004
 // Anti-vascular endothelial growth factor monoclonals in non-small cell lung cancer.
-/// Sandler et al., 2004
+/// There is an urgent need for new therapies to treat non-small cell lung cancer (NSCLC) because current chemotherapy regimens are of limited effectiveness. 
 article '15217970
 
 

@@ -2,7 +2,7 @@
 
 / Eberhard et al., 2005
 // Mutations in the epidermal growth factor receptor and in KRAS are predictive and prognostic indicators in patients with non-small-cell lung cancer treated with chemotherapy alone and in combination with erlotinib.
-/// Eberhard et al., 2005
+/// EGFR mutations may be a positive prognostic factor for survival in advanced NSCLC patients treated with chemotherapy with or without erlotinib, and may predict greater likelihood of response. 
 article '16043828
 
   index: hide

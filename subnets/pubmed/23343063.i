@@ -2,7 +2,7 @@
 
 / Jha et al., 2013
 // 21st-century hazards of smoking and benefits of cessation in the United States.
-/// Jha et al., 2013
+/// Smokers lose at least one decade of life expectancy, as compared with those who have never smoked. 
 article '23343063
 
   index: hide

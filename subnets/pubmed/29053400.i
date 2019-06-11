@@ -2,7 +2,7 @@
 
 / Büttner et al., 2017
 // Programmed Death-Ligand 1 Immunohistochemistry Testing: A Review of Analytical Assays and Clinical Implementation in Non-Small-Cell Lung Cancer.
-/// Büttner et al., 2017
+/// Purpose Three programmed death-1/programmed death-ligand 1 (PD-L1) inhibitors are currently approved for treatment of non-small-cell lung cancer (NSCLC). 
 article '29053400
 
 

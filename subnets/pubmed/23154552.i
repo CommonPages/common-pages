@@ -2,7 +2,7 @@
 
 / Weickhardt et al., 2013
 // Local ablative therapy of oligoprogressive disease prolongs disease control by tyrosine kinase inhibitors in oncogene-addicted non-small-cell lung cancer.
-/// Weickhardt et al., 2013
+/// Oncogene-addicted NSCLC with CNS and/or limited systemic disease progression (oligoprogressive disease) on relevant targeted therapies is often suitable for LAT and continuation of the targeted agent, and is associated with more than 6 months of additional disease control. 
 article '23154552
 
   index: hide

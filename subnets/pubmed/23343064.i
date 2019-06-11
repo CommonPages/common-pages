@@ -2,7 +2,7 @@
 
 / Thun et al., 2013
 // 50-year trends in smoking-related mortality in the United States.
-/// Thun et al., 2013
+/// The risk of death from cigarette smoking continues to increase among women and the increased risks are now nearly identical for men and women, as compared with persons who have never smoked. 
 article '23343064
 
   index: hide

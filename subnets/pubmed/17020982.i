@@ -2,7 +2,7 @@
 
 / Kosaka et al., 2006
 // Analysis of epidermal growth factor receptor gene mutation in patients with non-small cell lung cancer and acquired resistance to gefitinib.
-/// Kosaka et al., 2006
+/// A secondary T790M mutation of EGFR accounted for half the tumors with acquired resistance to gefitinib in Japanese patients. 
 article '17020982
 
   index: hide

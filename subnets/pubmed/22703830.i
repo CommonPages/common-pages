@@ -2,7 +2,7 @@
 
 / Langer et al., 2013
 // Targeted agents in the third-/fourth-line treatment of patients with advanced (stage III/IV) non-small cell lung cancer (NSCLC).
-/// Langer et al., 2013
+/// The prognosis for patients with relapsed/progressive non-small cell lung cancer (NSCLC) remains poor. 
 article '22703830
 
 

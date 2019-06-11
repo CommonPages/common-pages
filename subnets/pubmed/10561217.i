@@ -2,7 +2,7 @@
 
 / Chute et al., 2000
 // Twenty years of phase III trials for patients with extensive-stage small-cell lung cancer: perceptible progress.
-/// Chute et al., 2000
+/// Analysis of 21 phase III trials initiated in North America and the SEER database from 1972 to 1994 demonstrates that there has been a modest improvement in the survival time of patients with extensive-stage SCLC. 
 article '10561217
 
   index: hide

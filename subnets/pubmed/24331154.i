@@ -2,7 +2,7 @@
 
 / Butts et al., 2014
 // Tecemotide (L-BLP25) versus placebo after chemoradiotherapy for stage III non-small-cell lung cancer (START): a randomised, double-blind, phase 3 trial.
-/// Butts et al., 2014
+/// We found no significant difference in overall survival with the administration of tecemotide after chemoradiotherapy compared with placebo for all patients with unresectable stage III non-small-cell lung cancer. 
 article '24331154
 
   index: hide

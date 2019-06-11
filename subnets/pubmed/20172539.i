@@ -2,7 +2,7 @@
 
 / Scott et al., 2010
 // Video-assisted thoracic surgery versus open lobectomy for lung cancer: a secondary analysis of data from the American College of Surgeons Oncology Group Z0030 randomized clinical trial.
-/// Scott et al., 2010
+/// Patients undergoing video-assisted lobectomy had fewer respiratory complications and shorter length of stay. 
 article '20172539
 
   index: hide

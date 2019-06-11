@@ -2,7 +2,7 @@
 
 / Rittmeyer, 2015
 // Quality of Life in Patients with NSCLC Receiving Maintenance Therapy.
-/// Rittmeyer, 2015
+/// Maintenance therapy is very safe, improves PFS and OS without impairing HRQoL. 
 article '26035509
 
   index: hide

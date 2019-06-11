@@ -2,7 +2,7 @@
 
 / Clegg et al., 2002
 // Clinical and cost effectiveness of paclitaxel, docetaxel, gemcitabine, and vinorelbine in non-small cell lung cancer: a systematic review.
-/// Clegg et al., 2002
+/// Although the clinical benefits of the new drugs appear relatively small, their benefit to patients with lung cancer appears to be worthwhile and cost effective. 
 article '11809985
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Becker et al., 2014
 // Management of tyrosine kinase inhibitor resistance in lung cancer with EGFR mutation.
-/// Becker et al., 2014
+/// The identification of driver mutations and drugs that inhibit their activity has been a major therapeutic advance for patients with advanced lung adenocarcinoma. 
 article '25302160
 
 

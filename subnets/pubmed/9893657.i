@@ -2,7 +2,7 @@
 
 / Frasci et al., 1999
 // Carboplatin-oral etoposide personalized dosing in elderly non-small cell lung cancer patients. Gruppo Oncologico Cooperativo Sud-Italia.
-/// Frasci et al., 1999
+/// The toxicity and therapeutic activity, including the effect on quality of life, of the carboplatin-oral etoposide combination, given with an intrapatient dose escalation, was tested in 38 non-small cell lung cancer (NSCLC) patients aged over 70 years, and in 8 younger patients with a performance status of 2. In the absence of grade 3-4 toxicity, doses were escalated as follows: first course (carboplatin AUC 4; etoposide 50 mg twice daily orally days 1-14); second course (carboplatin AUC 5; etoposide 50 mg twice daily orally days 1-14); third course (carboplatin AUC 5; etoposide 50 mg twice daily orally days 1-21). 
 article '9893657
 
 

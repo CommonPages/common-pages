@@ -2,7 +2,7 @@
 
 / Ries, 1994
 // Influence of extent of disease, histology, and demographic factors on lung cancer survival in the SEER population-based data.
-/// Ries, 1994
+/// Rates calculated from the Surveillance, Epidemiology, and End Results (SEER) Program are used to show variations in lung cancer survival by prognostic factors with an emphasis on the extent of disease and demographic variables. 
 article '8115783
 
 

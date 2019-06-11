@@ -2,7 +2,7 @@
 
 / Socinski et al., 2018
 // Atezolizumab for First-Line Treatment of Metastatic Nonsquamous NSCLC.
-/// Socinski et al., 2018
+/// The addition of atezolizumab to bevacizumab plus chemotherapy significantly improved progression-free survival and overall survival among patients with metastatic nonsquamous NSCLC, regardless of PD-L1 expression and EGFR or ALK genetic alteration status. 
 article '29863955
 
   index: hide

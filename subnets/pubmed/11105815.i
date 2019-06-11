@@ -2,7 +2,7 @@
 
 / Dietlein et al., 2001
 // Cost-effectiveness of FDG-PET for the management of potentially operable non-small cell lung cancer: priority for a PET-based strategy after nodal-negative CT results.
-/// Dietlein et al., 2001
+/// Decision analysis is used here to establish the most cost-effective strategy for management of potentially operable non-small cell lung cancers (NSCLCs). 
 article '11105815
 
 

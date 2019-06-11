@@ -2,7 +2,7 @@
 
 / D'Angelo et al., 2011
 // Incidence of EGFR exon 19 deletions and L858R in tumor specimens from men and cigarette smokers with lung adenocarcinomas.
-/// D'Angelo et al., 2011
+/// A large number of EGFR mutations are found in adenocarcinoma tumor specimens from men and people who smoked cigarettes. 
 article '21482987
 
   index: hide

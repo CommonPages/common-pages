@@ -2,7 +2,7 @@
 
 / Wynes et al., 2015
 // An international interpretation study using the ALK IHC antibody D5F3 and a sensitive detection kit demonstrates high concordance between ALK IHC and ALK FISH and between evaluators.
-/// Wynes et al., 2015
+/// On the basis of expert evaluation the ALK IHC test is sensitive, specific, and accurate, and a majority score of multiple readers does not improve these results over an individual reader's score. 
 article '24722153
 
   index: hide

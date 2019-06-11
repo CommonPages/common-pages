@@ -2,7 +2,7 @@
 
 / Farago et al., 2018
 // Clinicopathologic Features of Non-Small-Cell Lung Cancer Harboring an NTRK Gene Fusion.
-/// Farago et al., 2018
+/// Gene rearrangements involving NTRK1/2/3 can generate fusion oncoproteins containing the kinase domains of TRKA/B/C, respectively. 
 article '30215037
 
 

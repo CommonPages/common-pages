@@ -2,7 +2,7 @@
 
 / Stead et al., 2014
 // Telephone counselling for smoking cessation.
-/// Stead et al., 2014
+/// Proactive telephone counselling aids smokers who seek help from quitlines. 
 article '23934971
 
   index: hide

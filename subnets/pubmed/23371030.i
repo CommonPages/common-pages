@@ -2,7 +2,7 @@
 
 / Planchard, 2013
 // Identification of driver mutations in lung cancer: first step in personalized cancer.
-/// Planchard, 2013
+/// Non-small cell lung cancer (NSCLC) has recently been associated with interesting molecular characteristics that have important implications in carcinogenesis and response to targeted therapies. 
 article '23371030
 
 

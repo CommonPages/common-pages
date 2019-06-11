@@ -2,7 +2,7 @@
 
 / Reck et al., 2013
 // Management of non-small-cell lung cancer: recent developments.
-/// Reck et al., 2013
+/// Non-small-cell lung cancer is one of the leading causes of deaths from cancer worldwide. 
 article '23972814
 
 

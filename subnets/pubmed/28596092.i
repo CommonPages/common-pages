@@ -2,7 +2,7 @@
 
 / Videtic et al., 2018
 // Stereotactic body radiation therapy for early-stage non-small cell lung cancer: Executive Summary of an ASTRO Evidence-Based Guideline.
-/// Videtic et al., 2018
+/// SBRT has an important role to play in treating early-stage NSCLC, particularly for medically inoperable patients with limited other treatment options. 
 article '28596092
 
   index: hide

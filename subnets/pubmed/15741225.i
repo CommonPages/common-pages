@@ -2,7 +2,7 @@
 
 / Pujol et al., 2005
 // Gemcitabine-docetaxel versus cisplatin-vinorelbine in advanced or metastatic non-small-cell lung cancer: a phase III study addressing the case for cisplatin.
-/// Pujol et al., 2005
+/// There was no advantage in PFS with GD compared with CV; however, the CV regimen had higher rate of toxic events, mainly myelosuppression. 
 article '15741225
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Sundstrøm et al., 2004
 // Hypofractionated palliative radiotherapy (17 Gy per two fractions) in advanced non-small-cell lung carcinoma is comparable to standard fractionation for symptom control and survival: a national phase III trial.
-/// Sundstrøm et al., 2004
+/// Our data indicate that protracted palliative TRT renders no improvement in symptom relief, HRQOL, or survival when compared with short-term hypofractionated treatment in advanced NSCLC. 
 article '14990635
 
   index: hide

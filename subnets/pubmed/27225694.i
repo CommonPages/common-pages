@@ -2,7 +2,7 @@
 
 / Gainor et al., 2018
 // EGFR Mutations and ALK Rearrangements Are Associated with Low Response Rates to PD-1 Pathway Blockade in Non-Small Cell Lung Cancer: A Retrospective Analysis.
-/// Gainor et al., 2018
+/// NSCLCs harboring EGFR mutations or ALK rearrangements are associated with low ORRs to PD-1/PD-L1 inhibitors. 
 article '27225694
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Bezjak et al., 2002
 // Randomized phase III trial of single versus fractionated thoracic radiation in the palliation of patients with lung cancer (NCIC CTG SC.15).
-/// Bezjak et al., 2002
+/// Although the two treatment strategies provided a similar degree of palliation of thoracic symptoms, the difference in survival between the two study arms was of a clinically relevant magnitude. 
 article '12377323
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Hernando et al., 2001
 // Radiation-induced pulmonary toxicity: a dose-volume histogram analysis in 201 patients with lung cancer.
-/// Hernando et al., 2001
+/// Dosimetric factors were the best predictors of symptomatic RP after external beam RT for lung cancer. 
 article '11597805
 
   index: hide

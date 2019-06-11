@@ -2,7 +2,7 @@
 
 / Lester et al., 2007
 // Palliative radiotherapy regimens for non-small cell lung cancer.
-/// Lester et al., 2007
+/// The majority of patients should be treated with short courses of palliative radiotherapy, of 1 or 2 fractions. 
 article '17054152
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Yu et al., 2019
 // Concurrent Alterations in EGFR-Mutant Lung Cancers Associated with Resistance to EGFR Kinase Inhibitors and Characterization of MTOR as a Mediator of Resistance.
-/// Yu et al., 2019
+/// Purpose: To identify molecular factors that determine duration of response to EGFR tyrosine kinase inhibitors and to identify novel mechanisms of drug resistance, we molecularly profiled EGFR-mutant tumors prior to treatment and after progression on EGFR TKI using targeted next-generation sequencing.Experimental Design: Targeted next-generation sequencing was performed on 374 consecutive patients with metastatic EGFR-mutant lung cancer. 
 article '29530932
 
 

@@ -2,7 +2,7 @@
 
 / Cappuzzo et al., 2007
 // EGFR and HER2 gene copy number and response to first-line chemotherapy in patients with advanced non-small cell lung cancer (NSCLC).
-/// Cappuzzo et al., 2007
+/// This study suggested that EGFR expression and gene copy number, HER2 gene copy number, and P-Akt expression are not associated with response to first-line chemotherapy in NSCLC. 
 article '17473658
 
   index: hide

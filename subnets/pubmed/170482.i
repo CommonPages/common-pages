@@ -2,7 +2,7 @@
 
 / Martini et al., 1975
 // Multiple primary lung cancers.
-/// Martini et al., 1975
+/// Data on 50 patients with multiple separate primary carcinomas of the lung are presented. 
 article '170482
 
 

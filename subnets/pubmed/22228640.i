@@ -2,7 +2,7 @@
 
 / Rekhtman et al., 2012
 // Clarifying the spectrum of driver oncogene mutations in biomarker-verified squamous carcinoma of lung: lack of EGFR/KRAS and presence of PIK3CA/AKT1 mutations.
-/// Rekhtman et al., 2012
+/// Our findings suggest that EGFR/KRAS mutations do not occur in pure pulmonary SQCC, and occasional detection of these mutations in samples diagnosed as &quot;SQCC&quot; is due to challenges with the diagnosis of AD-SQC and adenocarcinoma, which can be largely resolved by comprehensive pathologic assessment incorporating immunohistochemical biomarkers. 
 article '22228640
 
   index: hide

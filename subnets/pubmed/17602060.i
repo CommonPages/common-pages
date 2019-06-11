@@ -2,7 +2,7 @@
 
 / Cohen et al., 2007
 // FDA drug approval summary: bevacizumab (Avastin) plus Carboplatin and Paclitaxel as first-line treatment of advanced/metastatic recurrent nonsquamous non-small cell lung cancer.
-/// Cohen et al., 2007
+/// On October 11, 2006, the U.S. Food and Drug Administration granted approval for bevacizumab (Avastin; Genentech, Inc., South San Francisco, CA), administered in combination with carboplatin and paclitaxel, for the initial treatment of patients with unresectable, locally advanced, recurrent, or metastatic, nonsquamous, non-small cell lung cancer (NSCLC). 
 article '17602060
 
 

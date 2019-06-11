@@ -2,7 +2,7 @@
 
 / Chawla et al., 2009
 // Stereotactic body radiotherapy for treatment of adrenal metastases.
-/// Chawla et al., 2009
+/// SBRT for adrenal metastases is well tolerated. 
 article '19250766
 
   index: hide

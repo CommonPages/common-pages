@@ -2,7 +2,7 @@
 
 / Wildiers et al., 2014
 // International Society of Geriatric Oncology consensus on geriatric assessment in older patients with cancer.
-/// Wildiers et al., 2014
+/// There is mounting data regarding the utility of GA in oncology practice; however, additional research is needed to continue to strengthen the evidence base. 
 article '25071125
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Kim et al., 2014
 // The frequency and impact of ROS1 rearrangement on clinical outcomes in never smokers with lung adenocarcinoma.
-/// Kim et al., 2014
+/// The frequency of ROS1 rearrangements in clinically selected patients is higher than that reported for unselected patients, suggesting that ROS1 rearrangement is a druggable target in East-Asian never smokers with lung adenocarcinoma. 
 article '23788756
 
   index: hide

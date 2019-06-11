@@ -2,7 +2,7 @@
 
 / Spiro et al., 2004
 // Chemotherapy versus supportive care in advanced non-small cell lung cancer: improved survival without detriment to quality of life.
-/// Spiro et al., 2004
+/// The survival benefit seen in this trial was entirely consistent with the NSCLC meta-analysis and subsequent similarly designed large trials. 
 article '15454647
 
   index: hide

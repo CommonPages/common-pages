@@ -2,7 +2,7 @@
 
 / Barlesi et al., 2014
 // Maintenance bevacizumab-pemetrexed after first-line cisplatin-pemetrexed-bevacizumab for advanced nonsquamous nonsmall-cell lung cancer: updated survival analysis of the AVAPERL (MO22089) randomized phase III trial.
-/// Barlesi et al., 2014
+/// In an unselected population of nsNSCLC patients achieving disease control on platinum-based induction therapy, maintenance with bevacizumab-pemetrexed was associated with a nonsignificant increase in OS over bevacizumab alone. 
 article '24585722
 
   index: hide

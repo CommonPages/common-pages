@@ -2,7 +2,7 @@
 
 / Sonett et al., 2005
 // Pulmonary resection after curative intent radiotherapy (&gt;59 Gy) and concurrent chemotherapy in non-small-cell lung cancer.
-/// Sonett et al., 2005
+/// Pulmonary resection may be performed safely after curative intent concurrent chemotherapy and radiotherapy to greater than 59 Gy. 
 article '15464470
 
   index: hide

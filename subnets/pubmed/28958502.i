@@ -2,7 +2,7 @@
 
 / Wu et al., 2017
 // Dacomitinib versus gefitinib as first-line treatment for patients with EGFR-mutation-positive non-small-cell lung cancer (ARCHER 1050): a randomised, open-label, phase 3 trial.
-/// Wu et al., 2017
+/// Dacomitinib is a second-generation, irreversible EGFR tyrosine kinase inhibitor. 
 article '28958502
 
 

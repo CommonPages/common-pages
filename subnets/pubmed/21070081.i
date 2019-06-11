@@ -2,7 +2,7 @@
 
 / Gibbs et al., 2011
 // CyberKnife stereotactic ablative radiotherapy for lung tumors.
-/// Gibbs et al., 2011
+/// Stereotactic ablative radiotherapy (SABR) has emerged as a promising treatment for early stage non-small cell lung cancer, particularly for patients unable to tolerate surgical resection. 
 article '21070081
 
 

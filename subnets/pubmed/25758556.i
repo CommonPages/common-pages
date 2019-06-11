@@ -2,7 +2,7 @@
 
 / Garrido et al., 2015
 // Final results from a Phase II study of pemetrexed and cisplatin with concurrent thoracic radiation after Pem-Cis induction in patients with unresectable locally advanced non-squamous non-small cell lung cancer (NSCLC).
-/// Garrido et al., 2015
+/// In this study of Pem-Cis induction CT followed by full-dose Pem-Cis with concurrent RT, median PFS was 10.6 months and toxicity was manageable, in line with previous data on Pem-Cis plus RT. 
 article '25758556
 
   index: hide

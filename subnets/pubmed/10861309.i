@@ -2,7 +2,7 @@
 
 / van Zandwijk et al., 2000
 // EUROSCAN, a randomized trial of vitamin A and N-acetylcysteine in patients with head and neck cancer or lung cancer. For the EUropean Organization for Research and Treatment of Cancer Head and Neck and Lung Cancer Cooperative Groups.
-/// van Zandwijk et al., 2000
+/// A 2-year supplementation of retinyl palmitate and/or N-acetylcysteine resulted in no benefit-in terms of survival, event-free survival, or second primary tumors-for patients with head and neck cancer or with lung cancer, most of whom were previous or current smokers. 
 article '10861309
 
   index: hide

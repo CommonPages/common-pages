@@ -2,7 +2,7 @@
 
 / Aupérin et al., 2010
 // Meta-analysis of concomitant versus sequential radiochemotherapy in locally advanced non-small-cell lung cancer.
-/// Aupérin et al., 2010
+/// Concomitant radiochemotherapy, as compared with sequential radiochemotherapy, improved survival of patients with locally advanced NSCLC, primarily because of a better locoregional control, but at the cost of manageable increased acute esophageal toxicity. 
 article '20351327
 
   index: hide

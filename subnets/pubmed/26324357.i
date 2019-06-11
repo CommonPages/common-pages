@@ -2,7 +2,7 @@
 
 / Robson et al., 2016
 // American Society of Clinical Oncology Policy Statement Update: Genetic and Genomic Testing for Cancer Susceptibility.
-/// Robson et al., 2016
+/// The American Society of Clinical Oncology (ASCO) has long affirmed that the recognition and management of individuals with an inherited susceptibility to cancer are core elements of oncology care. 
 article '26324357
 
 

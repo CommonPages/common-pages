@@ -2,7 +2,7 @@
 
 / Nishino et al., 2014
 // State of the art: Response assessment in lung cancer in the era of genomic medicine.
-/// Nishino et al., 2014
+/// Tumor response assessment has been a foundation for advances in cancer therapy. 
 article '24661292
 
 

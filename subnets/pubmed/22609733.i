@@ -2,7 +2,7 @@
 
 / Patel et al., 2012
 // ACR Appropriateness Criteria® follow-up and retreatment of brain metastases.
-/// Patel et al., 2012
+/// Multiple options for retreatment are available, which include whole-brain radiation therapy, stereotactic radiosurgery, surgery, chemotherapy, and supportive care. 
 article '22609733
 
 

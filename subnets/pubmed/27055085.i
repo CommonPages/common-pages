@@ -2,7 +2,7 @@
 
 / Sacher et al., 2017
 // Prospective Validation of Rapid Plasma Genotyping for the Detection of EGFR and KRAS Mutations in Advanced Lung Cancer.
-/// Sacher et al., 2017
+/// Plasma ddPCR detected EGFR and KRAS mutations rapidly with the high specificity needed to select therapy and avoid repeat biopsies. 
 article '27055085
 
   index: hide

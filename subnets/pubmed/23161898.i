@@ -2,7 +2,7 @@
 
 / Kreuter et al., 2013
 // Randomized phase 2 trial on refinement of early-stage NSCLC adjuvant chemotherapy with cisplatin and pemetrexed versus cisplatin and vinorelbine: the TREAT study.
-/// Kreuter et al., 2013
+/// Adjuvant chemotherapy with CPx is safe and feasible with less toxicity and superior dose delivery compared with CVb. 
 article '23161898
 
   index: hide

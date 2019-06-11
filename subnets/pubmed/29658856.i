@@ -2,7 +2,7 @@
 
 / Gandhi et al., 2018
 // Pembrolizumab plus Chemotherapy in Metastatic Non-Small-Cell Lung Cancer.
-/// Gandhi et al., 2018
+/// In patients with previously untreated metastatic nonsquamous NSCLC without EGFR or ALK mutations, the addition of pembrolizumab to standard chemotherapy of pemetrexed and a platinum-based drug resulted in significantly longer overall survival and progression-free survival than chemotherapy alone. 
 article '29658856
 
   index: hide
@@ -13,7 +13,7 @@ article '29658856
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Gandhi L, Rodríguez-Abreu D, Gadgeel S, et al.: Pembrolizumab plus Chemotherapy in Metastatic Non-Small-Cell Lung Cancer. N Engl J Med 378 (22): 2078-2092, 2018.</div>
+    <div class="Citation-text">Gandhi L, Rodriguez-Abreu D, Gadgeel S, et al. Pembrolizumab plus chemotherapy in metastatic non-small-cell lung cancer. N Engl J Med 2018;378:2078-2092.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/29658856">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

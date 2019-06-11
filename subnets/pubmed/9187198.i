@@ -2,7 +2,7 @@
 
 / Mountain, 1997
 // Revisions in the International System for Staging Lung Cancer.
-/// Mountain, 1997
+/// Revisions in stage grouping of the TNM subsets (T=primary tumor, N=regional lymph nodes, M=distant metastasis) in the International System for Staging Lung Cancer have been adopted by the American Joint Committee on Cancer and the Union Internationale Contre le Cancer. 
 article '9187198
 
 

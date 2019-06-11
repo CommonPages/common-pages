@@ -2,7 +2,7 @@
 
 / Keller et al., 2000
 // A randomized trial of postoperative adjuvant therapy in patients with completely resected stage II or IIIA non-small-cell lung cancer. Eastern Cooperative Oncology Group.
-/// Keller et al., 2000
+/// As compared with radiotherapy alone, adjuvant radiotherapy and chemotherapy with cisplatin and etoposide does not decrease the risk of intrathoracic recurrence or prolong survival in patients with completely resected stage II or IIIa non-small-cell lung cancer. 
 article '11071672
 
   index: hide

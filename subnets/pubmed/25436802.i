@@ -2,7 +2,7 @@
 
 / von Laffert et al., 2015
 // Multicenter immunohistochemical ALK-testing of non-small-cell lung cancer shows high concordance after harmonization of techniques and interpretation criteria.
-/// von Laffert et al., 2015
+/// This so-called &quot;ALK-Harmonization-Study&quot; shows for the first time that predictive semiquantitative IHC reveals reliable and reproducible results across several labs when methodology and interpretation are strictly defined and the pathologists are uniquely trained. 
 article '25436802
 
   index: hide

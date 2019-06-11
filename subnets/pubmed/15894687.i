@@ -2,7 +2,7 @@
 
 / Tulunay et al., 2005
 // Urinary metabolites of a tobacco-specific lung carcinogen in nonsmoking hospitality workers.
-/// Tulunay et al., 2005
+/// Exposure of nonsmokers to environmental tobacco smoke results in increased risk for cancer and other diseases. 
 article '15894687
 
 

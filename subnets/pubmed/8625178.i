@@ -2,7 +2,7 @@
 
 / Arbit et al., 1996
 // The treatment of patients with recurrent brain metastases. A retrospective analysis of 109 patients with nonsmall cell lung cancer.
-/// Arbit et al., 1996
+/// If technically feasible, further surgery is effective in prolonging the survival of patients with NSCLC who have recurring brain metastases. 
 article '8625178
 
   index: hide

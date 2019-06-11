@@ -2,7 +2,7 @@
 
 / Janerich et al., 1990
 // Lung cancer and exposure to tobacco smoke in the household.
-/// Janerich et al., 1990
+/// The possibility of recall bias and other methodologic problems may influence the results of case-control studies of environmental tobacco smoke. 
 article '2385268
 
   index: hide

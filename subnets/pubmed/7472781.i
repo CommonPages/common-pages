@@ -2,7 +2,7 @@
 
 / Fontanini et al., 1995
 // Microvessel count predicts metastatic disease and survival in non-small cell lung cancer.
-/// Fontanini et al., 1995
+/// The growth of newly formed vessels, or neoangiogenesis, represents an important step in both physiological and pathological situations: in particular, tumour growth and metastasis require angiogenesis. 
 article '7472781
 
 

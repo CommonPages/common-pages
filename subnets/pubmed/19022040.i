@@ -2,7 +2,7 @@
 
 / Whitson et al., 2009
 // Surgery for early-stage non-small cell lung cancer: a systematic review of the video-assisted thoracoscopic surgery versus thoracotomy approaches to lobectomy.
-/// Whitson et al., 2009
+/// Video-assisted thoracoscopic surgery (VATS) for lobectomy has been touted to provide superior outcomes, compared with thoracotomy, for patients with early-stage non-small-cell lung cancer (NSCLC). 
 article '19022040
 
 

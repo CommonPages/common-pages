@@ -2,7 +2,7 @@
 
 / Thomas et al., 2002
 // Stage I non-small cell lung cancer: a pragmatic approach to prognosis after complete resection.
-/// Thomas et al., 2002
+/// Long-term survival of patients with completely resected stage I NSCLC was adversely influenced in a relatively balanced way by factors related to the clinical status of the patient, to the tumor, and to the treatment. 
 article '11996242
 
   index: hide

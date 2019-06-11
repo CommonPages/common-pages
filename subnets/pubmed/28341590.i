@@ -2,7 +2,7 @@
 
 / Jennings et al., 2018
 // Guidelines for Validation of Next-Generation Sequencing-Based Oncology Panels: A Joint Consensus Recommendation of the Association for Molecular Pathology and College of American Pathologists.
-/// Jennings et al., 2018
+/// Next-generation sequencing (NGS) methods for cancer testing have been rapidly adopted by clinical laboratories. 
 article '28341590
 
 

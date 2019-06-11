@@ -2,7 +2,7 @@
 
 / Goldstraw et al., 2016
 // The IASLC Lung Cancer Staging Project: Proposals for Revision of the TNM Stage Groupings in the Forthcoming (Eighth) Edition of the TNM Classification for Lung Cancer.
-/// Goldstraw et al., 2016
+/// The IASLC Staging and Prognostic Factors Committee has collected a new database of 94,708 cases donated from 35 sources in 16 countries around the globe. 
 article '26762738
 
 

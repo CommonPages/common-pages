@@ -2,7 +2,7 @@
 
 / Mills et al., 2014
 // Cardiovascular events associated with smoking cessation pharmacotherapies: a network meta-analysis.
-/// Mills et al., 2014
+/// Smoking cessation therapies do not appear to raise the risk of serious cardiovascular disease events. 
 article '24323793
 
   index: hide

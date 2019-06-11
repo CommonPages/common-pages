@@ -2,7 +2,7 @@
 
 / Rogers et al., 2015
 // Comparison of methods in the detection of ALK and ROS1 rearrangements in lung cancer.
-/// Rogers et al., 2015
+/// Our findings show good correlation between FISH versus CISH in the detection of ALK and ROS1 rearrangements. 
 article '25789833
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Brunelli et al., 2013
 // Physiologic evaluation of the patient with lung cancer being considered for resectional surgery: Diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines.
-/// Brunelli et al., 2013
+/// A careful preoperative physiologic assessment is useful for identifying those patients at increased risk with standard lung cancer resection and for enabling an informed decision by the patient about the appropriate therapeutic approach to treating his or her lung cancer. 
 article '23649437
 
   index: hide

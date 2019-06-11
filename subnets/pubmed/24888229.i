@@ -2,7 +2,7 @@
 
 / Robinson et al., 2015
 // BRAF V600E-mutated lung adenocarcinoma with metastases to the brain responding to treatment with vemurafenib.
-/// Robinson et al., 2015
+/// Somatic BRAF mutations have been reported in 1-4% of non-small cell lung cancer (NSCLC), primarily in adenocarcinomas with the BRAF (V600E) mutation in about 50% of the cases. 
 article '24888229
 
 

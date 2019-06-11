@@ -2,7 +2,7 @@
 
 / Medford et al., 2009
 // Mediastinal staging procedures in lung cancer: EBUS, TBNA and mediastinoscopy.
-/// Medford et al., 2009
+/// Currently, insufficient data are present to recommend replacing cervical mediastinoscopy with EBUS for lung cancer staging; the negative predictive value of EBUS requires validation. 
 article '19395972
 
   index: hide

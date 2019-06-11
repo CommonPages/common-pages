@@ -2,7 +2,7 @@
 
 / Wang et al., 2007
 // Analysis of clinical and dosimetric factors associated with treatment-related pneumonitis (TRP) in patients with non-small-cell lung cancer (NSCLC) treated with concurrent chemotherapy and three-dimensional conformal radiotherapy (3D-CRT).
-/// Wang et al., 2007
+/// In this study, a number of clinical and dosimetric factors were found to be significantly associated with treatment-related pneumonitis. 
 article '16997503
 
   index: hide

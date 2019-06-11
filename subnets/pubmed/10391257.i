@@ -2,7 +2,7 @@
 
 / Riquet et al., 1999
 // Prognostic significance of surgical-pathologic N1 disease in non-small cell carcinoma of the lung.
-/// Riquet et al., 1999
+/// N1 disease is a compound of two subgroups: one located inside the lobes is related to N0, and the other (extralobar or hilar) behaves like an early stage of N2 disease. 
 article '10391257
 
   index: hide

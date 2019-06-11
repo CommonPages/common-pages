@@ -2,7 +2,7 @@
 
 / Naidoo et al., 2017
 // Pneumonitis in Patients Treated With Anti-Programmed Death-1/Programmed Death Ligand 1 Therapy.
-/// Naidoo et al., 2017
+/// Purpose Pneumonitis is an uncommon but potentially fatal toxicity of anti-programmed death-1 (PD-1)/programmed death ligand 1 (PD-L1) monoclonal antibodies (mAbs). 
 article '27646942
 
 

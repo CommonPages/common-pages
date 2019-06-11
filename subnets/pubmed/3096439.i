@@ -2,7 +2,7 @@
 
 / Wald et al., 1986
 // Does breathing other people's tobacco smoke cause lung cancer?
-/// Wald et al., 1986
+/// The available epidemiological studies of lung cancer and exposure to other people's tobacco smoke, in which exposure was assessed by whether or not a person classified as a non-smoker lived with a smoker, were identified and the results combined. 
 article '3096439
 
 

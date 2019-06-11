@@ -2,7 +2,7 @@
 
 / Jänne et al., 2013
 // Selumetinib plus docetaxel for KRAS-mutant advanced non-small-cell lung cancer: a randomised, multicentre, placebo-controlled, phase 2 study.
-/// Jänne et al., 2013
+/// Selumetinib plus docetaxel has promising efficacy, albeit with a higher number of adverse events than with docetaxel alone, in previously treated advanced KRAS-mutant NSCLC. 
 article '23200175
 
   index: hide

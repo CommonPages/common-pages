@@ -2,7 +2,7 @@
 
 / Lutz et al., 2015
 // Role of radiation therapy in palliative care of the patient with cancer.
-/// Lutz et al., 2015
+/// Radiotherapy is a successful, time-efficient, well-tolerated, and cost-effective intervention that is crucial for the appropriate delivery of palliative oncology care. 
 article '25113773
 
 

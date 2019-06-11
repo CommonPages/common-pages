@@ -2,7 +2,7 @@
 
 / Albain et al., 2002
 // Concurrent cisplatin, etoposide, and chest radiotherapy in pathologic stage IIIB non-small-cell lung cancer: a Southwest Oncology Group phase II study, SWOG 9019.
-/// Albain et al., 2002
+/// Feasibility and long-term survival support the application of these results as a standard against which mature outcomes of chemoRT trials with new chemotherapy agents can be compared. 
 article '12177106
 
   index: hide

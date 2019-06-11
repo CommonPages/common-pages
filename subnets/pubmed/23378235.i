@@ -2,7 +2,7 @@
 
 / Smith et al., 2013
 // Cancer screening in the United States, 2013: a review of current American Cancer Society guidelines, current issues in cancer screening, and new guidance on cervical cancer screening and lung cancer screening.
-/// Smith et al., 2013
+/// Each year the American Cancer Society (ACS) publishes a summary of its recommendations for early cancer detection, a report on data and trends in cancer screening rates, and select issues related to cancer screening. 
 article '23378235
 
 

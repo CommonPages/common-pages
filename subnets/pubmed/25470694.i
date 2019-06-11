@@ -2,7 +2,7 @@
 
 / Solomon et al., 2014
 // First-line crizotinib versus chemotherapy in ALK-positive lung cancer.
-/// Solomon et al., 2014
+/// Crizotinib was superior to standard first-line pemetrexed-plus-platinum chemotherapy in patients with previously untreated advanced ALK-positive NSCLC. 
 article '25470694
 
   index: hide
@@ -13,7 +13,7 @@ article '25470694
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Solomon BJ, Mok T, Kim DW, et al.: First-line crizotinib versus chemotherapy in ALK-positive lung cancer. N Engl J Med 371 (23): 2167-77, 2014.</div>
+    <div class="Citation-text">Solomon BJ, Mok T, Kim DW, et al. First-line crizotinib versus chemotherapy in ALK-positive lung cancer. N Engl J Med 2014;371:2167-2177.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/25470694">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

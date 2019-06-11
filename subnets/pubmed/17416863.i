@@ -2,7 +2,7 @@
 
 / Chow et al., 2007
 // Palliative radiotherapy trials for bone metastases: a systematic review.
-/// Chow et al., 2007
+/// No significant differences in the arms were observed for overall and CR rates in both intention-to-treat and assessable patients. 
 article '17416863
 
   index: hide

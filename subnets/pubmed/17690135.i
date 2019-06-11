@@ -2,7 +2,7 @@
 
 / Taylor et al., 2008
 // Meta-analysis of studies of passive smoking and lung cancer: effects of study type and continent.
-/// Taylor et al., 2008
+/// The abundance of evidence, consistency of finding across continent and study type, dose-response relationship and biological plausibility, overwhelmingly support the existence of a causal relationship between passive smoking and lung cancer. 
 article '17690135
 
   index: hide

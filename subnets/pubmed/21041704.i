@@ -2,7 +2,7 @@
 
 / Fidias et al., 2011
 // Strategies for prolonged therapy in patients with advanced non-small-cell lung cancer.
-/// Fidias et al., 2011
+/// There are no data to support continuation chemotherapy in advanced NSCLC. 
 article '21041704
 
   index: hide

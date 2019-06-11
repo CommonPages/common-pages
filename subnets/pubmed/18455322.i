@@ -2,7 +2,7 @@
 
 / Salazar et al., 2008
 // Once-weekly, high-dose stereotactic body radiotherapy for lung cancer: 6-year analysis of 60 early-stage, 42 locally advanced, and 7 metastatic lung cancers.
-/// Salazar et al., 2008
+/// SBRT is noninvasive, convenient, fast, and economically attractive; it achieves results similar to surgery for early or metastatic lung cancer patients who are older, debilitated, and with comorbidities. 
 article '18455322
 
   index: hide

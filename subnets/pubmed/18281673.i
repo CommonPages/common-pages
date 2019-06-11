@@ -2,7 +2,7 @@
 
 / Eberhard et al., 2008
 // Biomarkers of response to epidermal growth factor receptor inhibitors in Non-Small-Cell Lung Cancer Working Group: standardization for use in the clinical trial setting.
-/// Eberhard et al., 2008
+/// The body of literature on the correlations between molecular assessments and patient outcomes after treatment with epidermal growth factor receptor (EGFR) inhibitors continues to grow. 
 article '18281673
 
 

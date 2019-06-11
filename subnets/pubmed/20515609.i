@@ -2,7 +2,7 @@
 
 / Hadziahmetovic et al., 2010
 // Stereotactic body radiation therapy (stereotactic ablative radiotherapy) for stage I non-small cell lung cancer--updates of radiobiology, techniques, and clinical outcomes.
-/// Hadziahmetovic et al., 2010
+/// Stereotactic body radiation therapy (SBRT), also known as stereotactic ablative radiotherapy (SABR), has emerged as one of the standard treatment options for stage I non-small cell lung cancer (NSCLC), mainly in medically inoperable patients. 
 article '20515609
 
 

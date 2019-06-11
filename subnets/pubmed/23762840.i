@@ -2,7 +2,7 @@
 
 / Chen et al., 2013
 // Involved-field radiotherapy versus elective nodal irradiation in combination with concurrent chemotherapy for locally advanced non-small cell lung cancer: a prospective randomized study.
-/// Chen et al., 2013
+/// This prospective randomized study is to evaluate the locoregional failure and its impact on survival by comparing involved field radiotherapy (IFRT) with elective nodal irradiation (ENI) in combination with concurrent chemotherapy for locally advanced non-small cell lung cancer. 
 article '23762840
 
 

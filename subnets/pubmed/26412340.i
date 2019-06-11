@@ -2,7 +2,7 @@
 
 / Koshy et al., 2016
 // Comparative effectiveness of aggressive thoracic radiation therapy and concurrent chemoradiation therapy in metastatic lung cancer.
-/// Koshy et al., 2016
+/// The delivery of higher-dose RT but not concurrent chemotherapy was associated with a significant improvement of OS. 
 article '26412340
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Hotta et al., 2004
 // Role of adjuvant chemotherapy in patients with resected non-small-cell lung cancer: reappraisal with a meta-analysis of randomized controlled trials.
-/// Hotta et al., 2004
+/// This is the first updated meta-analysis demonstrating the importance of cisplatin-based chemotherapy and single-agent UFT therapy as adjuvant chemotherapy in the treatment of resected NSCLC. 
 article '15326194
 
   index: hide

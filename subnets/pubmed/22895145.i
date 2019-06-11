@@ -2,7 +2,7 @@
 
 / Lund-Iversen et al., 2013
 // Clinicopathological characteristics of 11 NSCLC patients with EGFR-exon 20 mutations.
-/// Lund-Iversen et al., 2013
+/// Exon 20 mutations seem to confer insensitivity to TKI treatment. 
 article '22895145
 
   index: hide

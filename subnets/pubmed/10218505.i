@@ -2,7 +2,7 @@
 
 / Wingo et al., 1999
 // Annual report to the nation on the status of cancer, 1973-1996, with a special section on lung cancer and tobacco smoking.
-/// Wingo et al., 1999
+/// The declines in cancer incidence and death rates, particularly for lung cancer, are encouraging. 
 article '10218505
 
   index: hide

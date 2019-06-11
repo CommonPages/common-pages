@@ -2,7 +2,7 @@
 
 / Mok et al., 2017
 // Gefitinib Plus Chemotherapy Versus Chemotherapy in Epidermal Growth Factor Receptor Mutation-Positive Non-Small-Cell Lung Cancer Resistant to First-Line Gefitinib (IMPRESS): Overall Survival and Biomarker Analyses.
-/// Mok et al., 2017
+/// Purpose The Iressa Mutation-Positive Multicentre Treatment Beyond ProgRESsion Study (IMPRESS) compared the continuation of gefitinib plus chemotherapy with placebo plus chemotherapy in patients with epidermal growth factor receptor ( EGFR) mutation-positive advanced non-small-cell lung cancer with progression (Response Evaluation Criteria in Solid Tumors 1.1) after first-line gefitinib. 
 article '28968167
 
 

@@ -2,7 +2,7 @@
 
 / de Vin et al., 2015
 // Stereotactic radiotherapy for oligometastatic cancer: a prognostic model for survival.
-/// de Vin et al., 2015
+/// We identified subsets of oligometastatic cancer patients with good prognosis after SRT. 
 article '24355488
 
   index: hide

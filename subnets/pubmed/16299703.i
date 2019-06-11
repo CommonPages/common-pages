@@ -2,7 +2,7 @@
 
 / Driscoll et al., 2006
 // The global burden of disease due to occupational carcinogens.
-/// Driscoll et al., 2006
+/// Occupational carcinogens are an important cause of death and disability worldwide. 
 article '16299703
 
   index: hide

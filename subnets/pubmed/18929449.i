@@ -2,7 +2,7 @@
 
 / Wang et al., 2009
 // The effect of radiation dose and chemotherapy on overall survival in 237 patients with Stage III non-small-cell lung cancer.
-/// Wang et al., 2009
+/// Radiation dose and use of chemotherapy are independent predictors of OS in Stage III NSCLC, and concurrent chemoradiation is associated with the best survival. 
 article '18929449
 
   index: hide

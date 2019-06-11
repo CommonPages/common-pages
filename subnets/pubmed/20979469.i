@@ -2,7 +2,7 @@
 
 / Kwak et al., 2010
 // Anaplastic lymphoma kinase inhibition in non-small-cell lung cancer.
-/// Kwak et al., 2010
+/// The inhibition of ALK in lung tumors with the ALK rearrangement resulted in tumor shrinkage or stable disease in most patients. 
 article '20979469
 
   index: hide
@@ -13,7 +13,7 @@ article '20979469
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Kwak EL, Bang YJ, Camidge DR, et al.: Anaplastic lymphoma kinase inhibition in non-small-cell lung cancer. N Engl J Med 363 (18): 1693-703, 2010.</div>
+    <div class="Citation-text">Kwak EL, Bang YJ, Camidge DR, et al. Anaplastic lymphoma kinase inhibition in non-small-cell lung cancer. N Engl J Med 2010;363:1693-1703.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20979469">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

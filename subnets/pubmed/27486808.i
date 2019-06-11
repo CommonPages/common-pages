@@ -2,7 +2,7 @@
 
 / Reichegger et al., 2017
 // Rapid Intracranial Response to Osimertinib in a Patient with Epidermal Growth Factor Receptor T790M-Positive Adenocarcinoma of the Lung.
-/// Reichegger et al., 2017
+/// These data show that re-biopsy in EGFR-mutated non-small cell lung cancer patients with acquired TKI resistance should be performed. 
 article '27486808
 
   index: hide

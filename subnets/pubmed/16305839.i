@@ -2,7 +2,7 @@
 
 / Doddoli et al., 2005
 // Lung cancer invading the chest wall: a plea for en-bloc resection but the need for new treatment strategies.
-/// Doddoli et al., 2005
+/// The presence of lymph node metastases has a disastrous impact on survival in this subset of patients. 
 article '16305839
 
   index: hide

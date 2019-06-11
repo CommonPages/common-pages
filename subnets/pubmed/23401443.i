@@ -2,7 +2,7 @@
 
 / Travis et al., 2013
 // New pathologic classification of lung cancer: relevance for clinical practice and clinical trials.
-/// Travis et al., 2013
+/// We summarize significant changes in pathologic classification of lung cancer resulting from the 2011 International Association for the Study of Lung Cancer/American Thoracic Society/European Respiratory Society (IASLC/ATS/ERS) lung adenocarcinoma classification. 
 article '23401443
 
 

@@ -2,7 +2,7 @@
 
 / van Putten et al., 2001
 // Activity of single-agent gemcitabine as second-line treatment after previous chemotherapy or radiotherapy in advanced non-small-cell lung cancer.
-/// van Putten et al., 2001
+/// The aim of the study was to evaluate activity, toxicity and health-related quality of life (HRQL) with gemcitabine as second-line treatment after previous chemo- or radiotherapy in non-small-cell lung cancer (NSCLC). 
 article '11551424
 
 

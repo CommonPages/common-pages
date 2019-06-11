@@ -2,7 +2,7 @@
 
 / Bubendorf et al., 2017
 // Testing for ROS1 in non-small cell lung cancer: a review with recommendations.
-/// Bubendorf et al., 2017
+/// Rearrangements of the ROS1 gene occur in 1-2 % of non-small cell lung cancers (NSCLCs). 
 article '27535289
 
 

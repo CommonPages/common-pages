@@ -2,7 +2,7 @@
 
 / Scorsetti et al., 2012
 // Long-term local control achieved after hypofractionated stereotactic body radiotherapy for adrenal gland metastases: a retrospective analysis of 34 patients.
-/// Scorsetti et al., 2012
+/// SBRT in adrenal gland metastasis is feasible without significant acute and late toxicities, with a good rate of local control. 
 article '22263925
 
   index: hide

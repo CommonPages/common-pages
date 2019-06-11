@@ -2,7 +2,7 @@
 
 / Mansour et al., 2007
 // Induction chemotherapy does not increase the operative risk of pneumonectomy!
-/// Mansour et al., 2007
+/// In opposition to previous reports, induction chemotherapy did not significantly jeopardize post-operative outcome following pneumonectomy in our experience. 
 article '17141515
 
   index: hide

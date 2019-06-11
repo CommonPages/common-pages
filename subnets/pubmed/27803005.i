@@ -2,7 +2,7 @@
 
 / Lee et al., 2017
 // Vandetanib in pretreated patients with advanced non-small cell lung cancer-harboring RET rearrangement: a phase II clinical trial.
-/// Lee et al., 2017
+/// Chromosomal rearrangements involving RET, which are found in about 1% of non-small cell lung cancer (NSCLC), define a unique molecular subset. 
 article '27803005
 
 

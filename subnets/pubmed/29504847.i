@@ -2,7 +2,7 @@
 
 / Merker et al., 2018
 // Circulating Tumor DNA Analysis in Patients With Cancer: American Society of Clinical Oncology and College of American Pathologists Joint Review.
-/// Merker et al., 2018
+/// Purpose Clinical use of analytical tests to assess genomic variants in circulating tumor DNA (ctDNA) is increasing. 
 article '29504847
 
 

@@ -2,7 +2,7 @@
 
 / Westeel et al., 2013
 // A randomised trial comparing preoperative to perioperative chemotherapy in early-stage non-small-cell lung cancer (IFCT 0002 trial).
-/// Westeel et al., 2013
+/// This study failed to demonstrate any difference in survival between patients receiving preoperative and perioperative chemotherapy in early-stage NSCLC. 
 article '23735703
 
   index: hide

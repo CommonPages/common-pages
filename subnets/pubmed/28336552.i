@@ -2,7 +2,7 @@
 
 / Jordan et al., 2018
 // Prospective Comprehensive Molecular Characterization of Lung Adenocarcinomas for Efficient Patient Matching to Approved and Emerging Therapies.
-/// Jordan et al., 2018
+/// Tumor genetic testing is standard of care for patients with advanced lung adenocarcinoma, but the fraction of patients who derive clinical benefit remains undefined. 
 article '28336552
 
 

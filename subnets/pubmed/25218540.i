@@ -2,7 +2,7 @@
 
 / Crabtree et al., 2015
 // Does the method of radiologic surveillance affect survival after resection of stage I non-small cell lung cancer?
-/// Crabtree et al., 2015
+/// Surveillance computed tomography may result in earlier diagnosis of successive malignancy versus chest radiography in stage I lung cancer, although no difference in survival was demonstrated. 
 article '25218540
 
   index: hide

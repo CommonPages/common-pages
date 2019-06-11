@@ -2,7 +2,7 @@
 
 / Nakagawa et al., 2006
 // Prognostic factors in patients with ipsilateral pulmonary metastasis from non-small cell lung cancer.
-/// Nakagawa et al., 2006
+/// The results of our study suggest that undergoing a complete resection, having a tumor size of 30mm or less and having no mediastinal lymph node metastases were better prognostic factors for surgically treated patients with ipsilateral pulmonary metastasis of non-small cell lung cancer. 
 article '16126398
 
   index: hide

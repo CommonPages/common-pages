@@ -2,7 +2,7 @@
 
 / Woody et al., 2015
 // Stereotactic Body Radiation Therapy for Non-Small Cell Lung Cancer Tumors Greater Than 5 cm: Safety and Efficacy.
-/// Woody et al., 2015
+/// Lung SBRT for medically inoperable node-negative NSCLC with primary tumors larger than 5 cm is safe and provides excellent local control with limited toxicity. 
 article '25841625
 
   index: hide

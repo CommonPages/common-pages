@@ -2,7 +2,7 @@
 
 / Peulen et al., 2012
 // Toxicity after reirradiation of pulmonary tumours with stereotactic body radiotherapy.
-/// Peulen et al., 2012
+/// Reirradiation with SBRT is feasible although increased risk of toxicity was reported in centrally located tumours. 
 article '22056534
 
   index: hide

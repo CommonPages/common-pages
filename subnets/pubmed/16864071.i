@@ -2,7 +2,7 @@
 
 / Ung et al., 2006
 // The role of high-dose-rate brachytherapy in the palliation of symptoms in patients with non-small-cell lung cancer: a systematic review.
-/// Ung et al., 2006
+/// EBR alone is more effective than HDREB for symptom palliation in previously untreated patients with endobronchial non-small-cell lung cancer. 
 article '16864071
 
   index: hide

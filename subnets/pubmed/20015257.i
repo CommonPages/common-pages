@@ -2,7 +2,7 @@
 
 / Cameron et al., 2010
 // Endobronchial ultrasound-guided transbronchial needle aspiration cytology: a state of the art review.
-/// Cameron et al., 2010
+/// Endobronchial ultrasound-guided transbronchial needle aspiration (EBUS-TBNA) is a recently developed, accurate, safe and cost-effective technique that allows sampling of mediastinal lymph nodes and peribronchial lesions including pulmonary and mediastinal lesions. 
 article '20015257
 
 

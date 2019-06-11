@@ -2,7 +2,7 @@
 
 / Tournoy et al., 2007
 // Integrated FDG-PET/CT does not make invasive staging of the intrathoracic lymph nodes in non-small cell lung cancer redundant: a prospective study.
-/// Tournoy et al., 2007
+/// The accuracy of integrated FDG-PET/CT scanning is too low to replace invasive intrathoracic lymph node staging in patients with NSCLC. 
 article '17687098
 
   index: hide

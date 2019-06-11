@@ -2,7 +2,7 @@
 
 / Stead et al., 2012
 // Combined pharmacotherapy and behavioural interventions for smoking cessation.
-/// Stead et al., 2012
+/// Interventions that combine pharmacotherapy and behavioural support increase smoking cessation success compared to a minimal intervention or usual care. 
 article '23076944
 
   index: hide

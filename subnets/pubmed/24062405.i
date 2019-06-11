@@ -2,7 +2,7 @@
 
 / Aizer et al., 2013
 // Marital status and survival in patients with cancer.
-/// Aizer et al., 2013
+/// Even after adjusting for known confounders, unmarried patients are at significantly higher risk of presentation with metastatic cancer, undertreatment, and death resulting from their cancer. 
 article '24062405
 
   index: hide

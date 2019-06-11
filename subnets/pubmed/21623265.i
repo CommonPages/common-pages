@@ -2,7 +2,7 @@
 
 / Ou et al., 2011
 // Activity of crizotinib (PF02341066), a dual mesenchymal-epithelial transition (MET) and anaplastic lymphoma kinase (ALK) inhibitor, in a non-small cell lung cancer patient with de novo MET amplification.
-/// Ou et al., 2011
+/// Crizotinib is a dual MET and ALK inhibitor. 
 article '21623265
 
 

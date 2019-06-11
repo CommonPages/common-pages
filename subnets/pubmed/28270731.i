@@ -2,7 +2,7 @@
 
 / Falkson et al., 2018
 // Guideline for radiotherapy with curative intent in patients with early-stage medically inoperable non-small-cell lung cancer.
-/// Falkson et al., 2018
+/// ■ Stereotactic body radiation therapy (sbrt) with curative intent is an option that should be considered for patients with early-stage, node-negative, medically inoperable nsclc. 
 article '28270731
 
   index: hide

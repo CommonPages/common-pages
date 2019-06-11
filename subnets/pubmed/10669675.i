@@ -2,7 +2,7 @@
 
 / Sause et al., 2000
 // Final results of phase III trial in regionally advanced unresectable non-small cell lung cancer: Radiation Therapy Oncology Group, Eastern Cooperative Oncology Group, and Southwest Oncology Group.
-/// Sause et al., 2000
+/// Overall survival was statistically superior for the patients receiving chemotherapy and radiation vs the other two arms of the study. 
 article '10669675
 
   index: hide

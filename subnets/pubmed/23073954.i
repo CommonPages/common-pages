@@ -2,7 +2,7 @@
 
 / Rigotti, 2012
 // Strategies to help a smoker who is struggling to quit.
-/// Rigotti, 2012
+/// Tobacco use is the leading preventable cause of death worldwide. 
 article '23073954
 
 

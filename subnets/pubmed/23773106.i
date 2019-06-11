@@ -2,7 +2,7 @@
 
 / Forde et al., 2014
 // Targeted therapy for non-small-cell lung cancer: past, present and future.
-/// Forde et al., 2014
+/// Therapy for advanced non-small-cell lung cancer has developed significantly with new awareness of histologic subtype as an important factor in guiding treatment and the development of targeted agents for molecular subgroups harboring critical mutations that spur on cancer growth. 
 article '23773106
 
 

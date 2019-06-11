@@ -2,7 +2,7 @@
 
 / Gewanter et al., 2010
 // ACR Appropriateness Criteria: nonsurgical treatment for non-small-cell lung cancer: good performance status/definitive intent.
-/// Gewanter et al., 2010
+/// The optimal strategy for the non-surgical definitive treatment of patients with good performance status non-small cell lung cancer (mostly with locally advanced disease) has dramatically evolved over time. 
 article '20541060
 
 

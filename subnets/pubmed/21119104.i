@@ -2,7 +2,7 @@
 
 /  et al., 2010
 // Baseline characteristics of participants in the randomized national lung screening trial.
-///  et al., 2010
+/// The NLST cohort has a distribution of sex and pack-year history that is similar to the component of the general US population that meets the major NLST eligibility criteria; however, NLST participants are younger, better educated, and less likely to be current smokers. 
 article '21119104
 
   index: hide

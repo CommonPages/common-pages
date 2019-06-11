@@ -2,7 +2,7 @@
 
 / Miller et al., 2004
 // Bronchioloalveolar pathologic subtype and smoking history predict sensitivity to gefitinib in advanced non-small-cell lung cancer.
-/// Miller et al., 2004
+/// Our data suggest that individuals in whom gefitinib is efficacious are more likely to have adenocarcinomas of the bronchioloalveolar subtype and to be never smokers. 
 article '15020612
 
   index: hide

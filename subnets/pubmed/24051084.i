@@ -2,7 +2,7 @@
 
 / Ashworth et al., 2014
 // Is there an oligometastatic state in non-small cell lung cancer? A systematic review of the literature.
-/// Ashworth et al., 2014
+/// Survival outcomes for patients with oligometastatic NSCLC are highly variable, and half of patients progress within approximately 12 months; however, long-term survivors do exist. 
 article '24051084
 
   index: hide

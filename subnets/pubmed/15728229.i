@@ -2,7 +2,7 @@
 
 / D'Addario et al., 2005
 // Platinum-based versus non-platinum-based chemotherapy in advanced non-small-cell lung cancer: a meta-analysis of the published literature.
-/// D'Addario et al., 2005
+/// Response is significantly higher with platinum-containing regimens. 
 article '15728229
 
   index: hide
@@ -13,7 +13,7 @@ article '15728229
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">D'Addario G, Pintilie M, Leighl NB, et al.: Platinum-based versus non-platinum-based chemotherapy in advanced non-small-cell lung cancer: a meta-analysis of the published literature. J Clin Oncol 23 (13): 2926-36, 2005.</div>
+    <div class="Citation-text">D'Addario G, Pintilie M, Leighl NB, et al. Platinum-based versus non-platinum-based chemotherapy in advanced non-small-cell lung cancer: a meta-analysis of the published literature. J Clin Oncol 2005;23:2926-2936.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/15728229">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -2,7 +2,7 @@
 
 / Burkes et al., 1992
 // Induction chemotherapy with mitomycin, vindesine, and cisplatin for stage III unresectable non-small-cell lung cancer: results of the Toronto Phase II Trial.
-/// Burkes et al., 1992
+/// We conclude (1) that MVP is an effective but toxic chemotherapeutic regimen for limited NSCLC; (2) the median survival seems to be prolonged; and (3) the role of induction chemotherapy followed by surgery in stage IIIA N2 NSCLC requires a phase III randomized trial to compare it with other treatment modalities. 
 article '1312587
 
   index: hide

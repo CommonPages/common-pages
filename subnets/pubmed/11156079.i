@@ -2,7 +2,7 @@
 
 / Bueno et al., 2001
 // Nodal stage after induction therapy for stage IIIA lung cancer determines patient survival.
-/// Bueno et al., 2001
+/// Patients with N2-positive NSCLC whose nodal disease is eradicated after neoadjuvant therapy and surgery enjoy significantly improved cancer-free survival. 
 article '11156079
 
   index: hide

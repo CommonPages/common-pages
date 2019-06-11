@@ -2,7 +2,7 @@
 
 / Yokoi et al., 1999
 // Detection of brain metastasis in potentially operable non-small cell lung cancer: a comparison of CT and MRI.
-/// Yokoi et al., 1999
+/// Preoperative evaluation and intensive follow-up with MRI could facilitate early detection of brain metastases in patients with potentially operable lung cancer. 
 article '10084481
 
   index: hide

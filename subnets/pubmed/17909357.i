@@ -2,7 +2,7 @@
 
 / Douillard et al., 2007
 // Comparison of docetaxel- and vinca alkaloid-based chemotherapy in the first-line treatment of advanced non-small cell lung cancer: a meta-analysis of seven randomized clinical trials.
-/// Douillard et al., 2007
+/// According to this meta-analysis, docetaxel is superior to vinca alkaloid-based regimens in terms of OS and safety for first-line therapy of advanced non-small cell lung cancer. 
 article '17909357
 
   index: hide

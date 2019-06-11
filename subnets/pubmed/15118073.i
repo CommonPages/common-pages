@@ -2,7 +2,7 @@
 
 / Lynch et al., 2004
 // Activating mutations in the epidermal growth factor receptor underlying responsiveness of non-small-cell lung cancer to gefitinib.
-/// Lynch et al., 2004
+/// A subgroup of patients with non-small-cell lung cancer have specific mutations in the EGFR gene, which correlate with clinical responsiveness to the tyrosine kinase inhibitor gefitinib. 
 article '15118073
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Heist et al., 2012
 // Genetic changes in squamous cell lung cancer: a review.
-/// Heist et al., 2012
+/// Identifying specific somatic mutations that drive tumor growth has transformed the treatment of lung cancer. 
 article '22722794
 
 

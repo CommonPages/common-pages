@@ -1,8 +1,8 @@
 
 
-/ A Medical Research Council (MRC) randomi…
+/ A Medical Research Council (MRC) randomi
 // A Medical Research Council (MRC) randomised trial of palliative radiotherapy with two fractions or a single fraction in patients with inoperable non-small-cell lung cancer (NSCLC) and poor performance status. Medical Research Council Lung Cancer Working Party.
-/// A Medical Research Council (MRC) randomi…
+/// Two policies of palliative thoracic radiotherapy for NSCLC have been compared in a randomised multicentre controlled trial aimed at simplifying the palliative treatment of patients with poor performance status. 
 article '1377484
 
 

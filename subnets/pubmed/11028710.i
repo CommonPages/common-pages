@@ -2,7 +2,7 @@
 
 / Liewald et al., 2001
 // How useful is positron emission tomography for lymphnode staging in non-small-cell lung cancer?
-/// Liewald et al., 2001
+/// Primary Tumor: FDG-PET showed significant enhancement of the primary tumor in 78 of 80 patients (sensitivity: 97%). 
 article '11028710
 
   index: hide

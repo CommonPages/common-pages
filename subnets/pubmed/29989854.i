@@ -2,7 +2,7 @@
 
 / Li et al., 2019
 // Ado-Trastuzumab Emtansine for Patients With HER2-Mutant Lung Cancers: Results From a Phase II Basket Trial.
-/// Li et al., 2019
+/// Purpose Human epidermal growth factor receptor 2 ( HER2, ERBB2)-activating mutations occur in 2% of lung cancers. 
 article '29989854
 
 

@@ -2,7 +2,7 @@
 
 / Eschmann et al., 2007
 // 18F-FDG PET for assessment of therapy response and preoperative re-evaluation after neoadjuvant radio-chemotherapy in stage III non-small cell lung cancer.
-/// Eschmann et al., 2007
+/// FDG-PET is suitable to assess response to NARCT in patients with stage III NSCLC accurately. 
 article '17103167
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Doll et al., 1977
 // Mortality in relation to smoking: 20 years' observations on male British doctors.
-/// Doll et al., 1977
+/// In 1951 the British Medical Association forwarded to all British doctors a questionnaire about their smoking habits, and 34440 men replied. 
 article '1009386
 
 

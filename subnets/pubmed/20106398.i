@@ -2,7 +2,7 @@
 
 / Paul et al., 2010
 // Thoracoscopic lobectomy is associated with lower morbidity than open lobectomy: a propensity-matched analysis from the STS database.
-/// Paul et al., 2010
+/// Video-assisted thoracoscopic lobectomy is associated with a lower incidence of complications compared with lobectomy via thoracotomy. 
 article '20106398
 
   index: hide

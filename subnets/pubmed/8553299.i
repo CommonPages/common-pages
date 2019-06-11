@@ -2,7 +2,7 @@
 
 / Arita et al., 1996
 // Bronchogenic carcinoma: incidence of metastases to normal sized lymph nodes.
-/// Arita et al., 1996
+/// Metastases in normal sized nodes seen on the CT scan are a major problem in staging. 
 article '8553299
 
   index: hide

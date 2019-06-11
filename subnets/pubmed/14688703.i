@@ -2,7 +2,7 @@
 
 / Gonzalez-Stawinski et al., 2004
 // A comparative analysis of positron emission tomography and mediastinoscopy in staging non-small cell lung cancer.
-/// Gonzalez-Stawinski et al., 2004
+/// Positron emission tomography neither confirms nor excludes involvement of the mediastinum in patients with non-small cell lung cancer. 
 article '14688703
 
   index: hide

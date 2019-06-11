@@ -2,7 +2,7 @@
 
 / Darling et al., 2011
 // Positron emission tomography-computed tomography compared with invasive mediastinal staging in non-small cell lung cancer: results of mediastinal staging in the early lung positron emission tomography trial.
-/// Darling et al., 2011
+/// PET-CT assessment of the mediastinum is associated with a clinically relevant false-positive rate. 
 article '21587082
 
   index: hide

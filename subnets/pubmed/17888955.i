@@ -2,7 +2,7 @@
 
 / Atkins et al., 2007
 // Pulmonary segmentectomy by thoracotomy or thoracoscopy: reduced hospital length of stay with a minimally-invasive approach.
-/// Atkins et al., 2007
+/// Thoracoscopic segmentectomy is a safe and feasible procedure, comparing favorably with OS by reducing hospital length of stay. 
 article '17888955
 
   index: hide

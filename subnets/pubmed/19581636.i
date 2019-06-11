@@ -2,7 +2,7 @@
 
 / Maziak et al., 2009
 // Positron emission tomography in staging early lung cancer: a randomized trial.
-/// Maziak et al., 2009
+/// The relatively small sample and the fact that some patients did not have planned surgery limited the ability to determine precise differences in clinical outcomes that were attributable to testing strategies. 
 article '19581636
 
   index: hide

@@ -2,7 +2,7 @@
 
 / von Plessen et al., 2006
 // Palliative chemotherapy beyond three courses conveys no survival or consistent quality-of-life benefits in advanced non-small-cell lung cancer.
-/// von Plessen et al., 2006
+/// This randomised multicentre trial was conducted to establish the optimal duration of palliative chemotherapy in advanced non-small-cell lung cancer (NSCLC). 
 article '17047644
 
 

@@ -2,7 +2,7 @@
 
 / Douillard et al., 2008
 // Impact of postoperative radiation therapy on survival in patients with complete resection and stage I, II, or IIIA non-small-cell lung cancer treated with adjuvant chemotherapy: the adjuvant Navelbine International Trialist Association (ANITA) Randomized Trial.
-/// Douillard et al., 2008
+/// This retrospective evaluation suggests a positive effect of PORT in pN2 disease and a negative effect on pN1 disease when patients received adjuvant chemotherapy. 
 article '18439766
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Antonia et al., 2019
 // Overall Survival with Durvalumab after Chemoradiotherapy in Stage III NSCLC.
-/// Antonia et al., 2019
+/// Durvalumab therapy resulted in significantly longer overall survival than placebo. 
 article '30280658
 
   index: hide

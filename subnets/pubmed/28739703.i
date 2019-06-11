@@ -2,7 +2,7 @@
 
 / Tamiya et al., 2017
 // Cerebrospinal Fluid Penetration Rate and Efficacy of Afatinib in Patients with EGFR Mutation-positive Non-small Cell Lung Cancer with Leptomeningeal Carcinomatosis: A Multicenter Prospective Study.
-/// Tamiya et al., 2017
+/// Afatinib is an effective first-line treatment for epidermal growth factor receptor (EGFR) mutation-positive advanced non-small cell lung cancer (NSCLC). 
 article '28739703
 
 

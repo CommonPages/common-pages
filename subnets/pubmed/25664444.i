@@ -2,7 +2,7 @@
 
 / Pinsky et al., 2015
 // Performance of Lung-RADS in the National Lung Screening Trial: a retrospective assessment.
-/// Pinsky et al., 2015
+/// Lung-RADS criteria were applied retrospectively. 
 article '25664444
 
   index: hide

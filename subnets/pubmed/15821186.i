@@ -2,7 +2,7 @@
 
 / Wisnivesky et al., 2005
 // Stage of lung cancer in relation to its size: part 2. Evidence.
-/// Wisnivesky et al., 2005
+/// Tumor size has substantial bearing on disease stage in non-small cell lung cancer. 
 article '15821186
 
   index: hide

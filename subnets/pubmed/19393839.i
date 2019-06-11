@@ -2,7 +2,7 @@
 
 / Garrison et al., 2009
 // Varenicline: a first-line treatment option for smoking cessation.
-/// Garrison et al., 2009
+/// Varenicline has a unique mechanism of action compared with other first-line options for smoking cessation. 
 article '19393839
 
   index: hide

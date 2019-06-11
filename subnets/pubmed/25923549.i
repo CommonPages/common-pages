@@ -2,7 +2,7 @@
 
 / Jänne et al., 2015
 // AZD9291 in EGFR inhibitor-resistant non-small-cell lung cancer.
-/// Jänne et al., 2015
+/// AZD9291 was highly active in patients with lung cancer with the EGFR T790M mutation who had had disease progression during prior therapy with EGFR tyrosine kinase inhibitors. 
 article '25923549
 
   index: hide

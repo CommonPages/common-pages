@@ -2,13 +2,13 @@
 
 / Pao et al., 2011
 // New driver mutations in non-small-cell lung cancer.
-/// Pao et al., 2011
+/// Treatment decisions for patients with lung cancer have historically been based on tumour histology. 
 article '21277552
 
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Pao W, Girard N: New driver mutations in non-small-cell lung cancer. Lancet Oncol 12 (2): 175-80, 2011.</div>
+    <div class="Citation-text">Pao W, Girard N. New driver mutations in non-small-cell lung cancer. Lancet Oncol 2011;12:175-180.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21277552">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

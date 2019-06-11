@@ -2,7 +2,7 @@
 
 / Haseltine et al., 2017
 // Fatal complications after stereotactic body radiation therapy for central lung tumors abutting the proximal bronchial tree.
-/// Haseltine et al., 2017
+/// Even with risk-adapted fractionation, tumors abutting PBT are associated with a significant and differential risk of SBRT-related toxicity and death. 
 article '26577006
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Oxnard, 2012
 // Strategies for overcoming acquired resistance to epidermal growth factor receptor: targeted therapies in lung cancer.
-/// Oxnard, 2012
+/// Acquired resistance to targeted therapy in epidermal growth factor receptor (EGFR)-mutant lung cancer represents a valuable model for considering strategies of overcoming different types of cellular resistance mechanisms. 
 article '23020725
 
 

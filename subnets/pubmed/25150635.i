@@ -2,7 +2,7 @@
 
 / Ezer et al., 2015
 // Cisplatin vs. carboplatin-based chemoradiotherapy in patients &gt;65 years of age with stage III non-small cell lung cancer.
-/// Ezer et al., 2015
+/// Carboplatin-based CRT is associated with similar long-term survival but lower rates of toxicity. 
 article '25150635
 
   index: hide

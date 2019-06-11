@@ -2,7 +2,7 @@
 
 / Rekhtman et al., 2012
 // Immunohistochemical algorithm for differentiation of lung adenocarcinoma and squamous cell carcinoma based on large series of whole-tissue sections with validation in small specimens.
-/// Rekhtman et al., 2012
+/// Immunohistochemistry is increasingly utilized to differentiate lung adenocarcinoma and squamous cell carcinoma. 
 article '21623384
 
 

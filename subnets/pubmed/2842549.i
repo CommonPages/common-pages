@@ -2,7 +2,7 @@
 
 / Naruke et al., 1988
 // Prognosis and survival in resected lung carcinoma based on the new international staging system.
-/// Naruke et al., 1988
+/// A new TNM staging system was proposed and the previous system has been revised recently. 
 article '2842549
 
 

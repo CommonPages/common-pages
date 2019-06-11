@@ -2,7 +2,7 @@
 
 / Yu et al., 2013
 // Analysis of tumor specimens at the time of acquired resistance to EGFR-TKI therapy in 155 patients with EGFR-mutant lung cancers.
-/// Yu et al., 2013
+/// This is the largest series reporting mechanisms of acquired resistance to EGFR-TKI therapy. 
 article '23470965
 
   index: hide

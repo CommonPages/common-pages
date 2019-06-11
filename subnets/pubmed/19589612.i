@@ -2,7 +2,7 @@
 
 / Onitsuka et al., 2010
 // Acquired resistance to gefitinib: the contribution of mechanisms other than the T790M, MET, and HGF status.
-/// Onitsuka et al., 2010
+/// The T790M mutation in the EGFR is relatively common in the patients with acquired resistance to gefitinib. 
 article '19589612
 
   index: hide

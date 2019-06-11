@@ -2,7 +2,7 @@
 
 / Girard et al., 2010
 // Use of epidermal growth factor receptor/Kirsten rat sarcoma 2 viral oncogene homolog mutation testing to define clonal relationships among multiple lung adenocarcinomas: comparison with clinical guidelines.
-/// Girard et al., 2010
+/// Assuming that independent tumor clones harbor distinct mutations, these seven cases highlight discrepancies between the existing clinical criteria used to distinguish independent tumor foci from metastases. 
 article '19376842
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Kim et al., 2019
 // Comparison of Laboratory-Developed Tests and FDA-Approved Assays for BRAF, EGFR, and KRAS Testing.
-/// Kim et al., 2019
+/// The debate about the role of the Food and Drug Administration (FDA) in the regulation of laboratory-developed tests (LDTs) has focused attention on the analytical performance of all clinical laboratory testing. 
 article '29242895
 
 

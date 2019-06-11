@@ -2,7 +2,7 @@
 
 / Matsuoka et al., 2005
 // Resection of chest wall invasion in patients with non-small cell lung cancer.
-/// Matsuoka et al., 2005
+/// Survival of patients with lung cancer invading the chest wall or parietal pleura after resection is highly dependent on the completeness of resection and the extent of nodal involvement, but not so much on the depth of chest wall invasion or type of resection. 
 article '15541985
 
   index: hide

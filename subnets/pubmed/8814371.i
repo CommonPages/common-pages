@@ -2,7 +2,7 @@
 
 / Macbeth et al., 1996
 // Randomized trial of palliative two-fraction versus more intensive 13-fraction radiotherapy for patients with inoperable non-small cell lung cancer and good performance status. Medical Research Council Lung Cancer Working Party.
-/// Macbeth et al., 1996
+/// In patients with non-metastatic but inoperable non-small cell lung cancer that is locally too extensive for radical radiotherapy (RT), but who have good performance status, it is important to determine whether thoracic RT should be the minimum that is required to palliate thoracic symptoms or whether treatment should be more intensive, with the aim of prolonging survival. 
 article '8814371
 
 

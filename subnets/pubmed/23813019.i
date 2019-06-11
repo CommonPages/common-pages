@@ -2,7 +2,7 @@
 
 / Petrelli et al., 2014
 // Non-cancer-related mortality after cisplatin-based adjuvant chemotherapy for non-small cell lung cancer: a study-level meta-analysis of 16 randomized trials.
-/// Petrelli et al., 2014
+/// Adjuvant chemotherapy is associated with increased overall survival in non-small cell lung cancer (NSCLC), but is associated with high-grade toxicity. 
 article '23813019
 
 

@@ -2,7 +2,7 @@
 
 / Hanna et al., 2014
 // Contraindications of video-assisted thoracoscopic surgical lobectomy and determinants of conversion to open.
-/// Hanna et al., 2014
+/// Since the introduction of anatomic lung resection by video-assisted thoracoscopic surgery (VATS) was introduced 20 years ago, VATS has experienced major advances in both equipment and technique, introducing a technical challenge in the surgical treatment of both benign and malignant lung disease. 
 article '24040521
 
 

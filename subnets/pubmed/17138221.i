@@ -2,7 +2,7 @@
 
 / Rusch, 2007
 // Management of Pancoast tumours.
-/// Rusch, 2007
+/// Non-small-cell lung carcinomas of the superior sulcus, frequently termed Pancoast tumours, are some of the most challenging thoracic malignant diseases to treat because of their proximity to vital structures at the thoracic inlet. 
 article '17138221
 
 

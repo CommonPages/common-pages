@@ -2,7 +2,7 @@
 
 / Videtic et al., 2008
 // Report from the International Atomic Energy Agency (IAEA) consultants' meeting on elective nodal irradiation in lung cancer: small-cell lung cancer (SCLC).
-/// Videtic et al., 2008
+/// Thoracic radiotherapy (RT) is an integral part of the management of small-cell lung cancer (SCLC) because its administration provides a survival benefit in patients with limited-stage disease. 
 article '18793952
 
 

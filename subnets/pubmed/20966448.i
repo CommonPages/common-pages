@@ -2,7 +2,7 @@
 
 / Hales et al., 2012
 // Air pollution and mortality in New Zealand: cohort study.
-/// Hales et al., 2012
+/// An association of PM(10) with mortality is reported in a country with relatively low levels of air pollution. 
 article '20966448
 
   index: hide

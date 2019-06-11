@@ -2,7 +2,7 @@
 
 / Schuette et al., 2006
 // Multicenter randomized trial for stage IIIB/IV non-small-cell lung cancer using every-3-week versus weekly paclitaxel/carboplatin.
-/// Schuette et al., 2006
+/// In terms of response and survival, paclitaxel/carboplatin administered once weekly is comparable with the every-3-week schedule. 
 article '16640806
 
   index: hide

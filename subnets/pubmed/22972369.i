@@ -2,7 +2,7 @@
 
 / Hashemi-Sadraei et al., 2013
 // Advanced non-small cell lung cancer (NSCLC): maintenance therapy for all?
-/// Hashemi-Sadraei et al., 2013
+/// The standard of care for the treatment of patients with advanced NSCLC includes 4-6 cycles of platinum-doublet chemotherapy with or without bevacizumab, with modest improvements in survival. 
 article '22972369
 
 

@@ -2,7 +2,7 @@
 
 / Ardizzoni et al., 2007
 // Cisplatin- versus carboplatin-based chemotherapy in first-line treatment of advanced non-small-cell lung cancer: an individual patient data meta-analysis.
-/// Ardizzoni et al., 2007
+/// Our individual patient data meta-analysis suggests that cisplatin-based chemotherapy is slightly superior to carboplatin-based chemotherapy in terms of response rate and, in certain subgroups, in prolonging survival without being associated with an increase in severe toxic effects. 
 article '17551145
 
   index: hide

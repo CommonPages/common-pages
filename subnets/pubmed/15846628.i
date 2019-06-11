@@ -2,7 +2,7 @@
 
 / , 2005
 // Postoperative radiotherapy for non-small cell lung cancer.
-/// , 2005
+/// PORT is detrimental to patients with early stage completely resected non-small cell lung cancer and should not be used in the routine treatment of such patients. 
 article '15846628
 
   index: hide

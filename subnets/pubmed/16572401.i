@@ -2,7 +2,7 @@
 
 / Hu et al., 2006
 // Nonsmall cell lung cancer presenting with synchronous solitary brain metastasis.
-/// Hu et al., 2006
+/// By applying American Joint Committee on Cancer staging to only the primary site, the thoracic Stage I patients in our study with solitary brain metastases had a more favorable outcome than would be expected and was comparable to Stage I NSCLC without brain metastases. 
 article '16572401
 
   index: hide

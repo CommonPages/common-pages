@@ -2,7 +2,7 @@
 
 / Paik et al., 2011
 // Clinical characteristics of patients with lung adenocarcinomas harboring BRAF mutations.
-/// Paik et al., 2011
+/// BRAF mutations occur in 3% of patients with lung adenocarcinoma and occur more commonly in current and former smokers. 
 article '21483012
 
   index: hide

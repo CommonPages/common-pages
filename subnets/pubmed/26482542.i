@@ -2,7 +2,7 @@
 
 / Santos et al., 2016
 // Chemotherapy for advanced non-small cell lung cancer in the elderly population.
-/// Santos et al., 2016
+/// In people over the age of 70 with advanced NSCLC who do not have significant co-morbidities, increased survival with platinum combination therapy needs to be balanced against higher risk of major adverse events when compared with non-platinum therapy. 
 article '26482542
 
   index: hide

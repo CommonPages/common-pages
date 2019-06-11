@@ -2,7 +2,7 @@
 
 / Xi, 2018
 // Preclinical Pharmacology, Efficacy and Safety of Varenicline in Smoking Cessation and Clinical Utility in High Risk Patients.
-/// Xi, 2018
+/// Smoking is still the most prominent cause of preventable premature death in the United States and an increasing cause of morbidity and mortality throughout the world. 
 article '21278851
 
 

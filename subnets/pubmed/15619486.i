@@ -2,7 +2,7 @@
 
 / Demmy et al., 2005
 // Discharge independence with minimally invasive lobectomy.
-/// Demmy et al., 2005
+/// In older populations, more independence and fewer resources after discharge favor VATS lobectomy over standard thoracotomy. 
 article '15619486
 
   index: hide

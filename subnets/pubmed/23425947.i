@@ -2,7 +2,7 @@
 
 / Verstegen et al., 2013
 // Stage I-II non-small-cell lung cancer treated using either stereotactic ablative radiotherapy (SABR) or lobectomy by video-assisted thoracoscopic surgery (VATS): outcomes of a propensity score-matched analysis.
-/// Verstegen et al., 2013
+/// This retrospective analysis found a superior LRC after SABR compared with VATS lobectomy, but OS did not differ. 
 article '23425947
 
   index: hide

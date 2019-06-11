@@ -2,7 +2,7 @@
 
 / Evans et al., 2010
 // The impact of induction therapy on morbidity and operative mortality after resection of primary lung cancer.
-/// Evans et al., 2010
+/// Less than 10% of all major lung resections for primary carcinoma and just more than half of all resections for clinical stage IIIA-N2 disease are preceded by neoadjuvant chemotherapy or radiation. 
 article '20304144
 
   index: hide

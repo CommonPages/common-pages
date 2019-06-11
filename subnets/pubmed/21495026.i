@@ -2,7 +2,7 @@
 
 / Shi et al., 2011
 // Symptom burden in cancer survivors 1 year after diagnosis: a report from the American Cancer Society's Studies of Cancer Survivors.
-/// Shi et al., 2011
+/// More than 1 in 4 cancer survivors had high symptom burden 1 year postdiagnosis, even after treatment termination. 
 article '21495026
 
   index: hide

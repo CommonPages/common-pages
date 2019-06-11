@@ -2,7 +2,7 @@
 
 / Mitchell et al., 2018
 // Misdiagnosis of Li-Fraumeni Syndrome in a Patient With Clonal Hematopoiesis and a Somatic TP53 Mutation.
-/// Mitchell et al., 2018
+/// Li-Fraumeni syndrome (LFS) is a rare genetic disorder that confers a high risk of developing certain malignancies at a young age. 
 article '29752319
 
 

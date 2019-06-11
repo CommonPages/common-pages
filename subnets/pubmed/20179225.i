@@ -2,7 +2,7 @@
 
 / Mino-Kenudson et al., 2010
 // A novel, highly sensitive antibody allows for the routine detection of ALK-rearranged lung adenocarcinomas by standard immunohistochemistry.
-/// Mino-Kenudson et al., 2010
+/// Low levels of ALK protein expression is a characteristic feature of ALK-rearranged lung adenocarcinomas. 
 article '20179225
 
   index: hide

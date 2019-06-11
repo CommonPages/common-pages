@@ -2,7 +2,7 @@
 
 / Alberg et al., 2007
 // Epidemiology of lung cancer: ACCP evidence-based clinical practice guidelines (2nd edition).
-/// Alberg et al., 2007
+/// The reductions in smoking prevalence in men that occurred in the late 1960s through the 1980s will continue to drive lung cancer mortality rates downward in men during the first portion of this century, but rates in women have not yet begun to decrease. 
 article '17873159
 
   index: hide

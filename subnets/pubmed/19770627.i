@@ -2,7 +2,7 @@
 
 / Milano et al., 2010
 // Patterns of recurrence after curative-intent radiation for oligometastases confined to one organ.
-/// Milano et al., 2010
+/// Patients receiving SBRT for oligometastases confined to one organ are apt to develop new metastases, most frequently occurring in the initially involved organ, but also commonly in other organs. 
 article '19770627
 
   index: hide

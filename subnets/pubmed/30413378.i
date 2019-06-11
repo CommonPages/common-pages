@@ -2,7 +2,7 @@
 
 / Solomon et al., 2019
 // Lorlatinib in patients with ALK-positive non-small-cell lung cancer: results from a global phase 2 study.
-/// Solomon et al., 2019
+/// Consistent with its broad ALK mutational coverage and CNS penetration, lorlatinib showed substantial overall and intracranial activity both in treatment-naive patients with ALK-positive non-small-cell lung cancer, and in those who had progressed on crizotinib, second-generation ALK tyrosine kinase inhibitors, or after up to three previous ALK tyrosine kinase inhibitors. 
 article '30413378
 
   index: hide
@@ -13,7 +13,7 @@ article '30413378
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Solomon BJ, Besse B, Bauer TM, et al.: Lorlatinib in patients with ALK-positive non-small-cell lung cancer: results from a global phase 2 study. Lancet Oncol 19 (12): 1654-1667, 2018.</div>
+    <div class="Citation-text">Solomon BJ, Besse B, Bauer TM, et al. Lorlatinib in patients with ALK-positive non-small-cell lung cancer: results from a global phase 2 study. Lancet Oncol 2018;19:1654-1667.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/30413378">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

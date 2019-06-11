@@ -2,7 +2,7 @@
 
 / Rosell et al., 1999
 // Preresectional chemotherapy in stage IIIA non-small-cell lung cancer: a 7-year assessment of a randomized controlled trial.
-/// Rosell et al., 1999
+/// In 1989, we began a multicenter study to evaluate the potential benefit of preoperative chemotherapy with cisplatin, ifosfamide and mitomycin over surgery alone in CT-visible N2 non-small-cell lung cancer. 
 article '10574676
 
 

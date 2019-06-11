@@ -2,7 +2,7 @@
 
 / Takahashi et al., 2010
 // Clinicopathologic features of non-small-cell lung cancer with EML4-ALK fusion gene.
-/// Takahashi et al., 2010
+/// EML4-ALK fusion genes were observed predominantly in adenocarcinomas, in female or nonsmoking populations. 
 article '20183914
 
   index: hide

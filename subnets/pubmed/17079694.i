@@ -2,7 +2,7 @@
 
 / Ohe et al., 2007
 // Randomized phase III study of cisplatin plus irinotecan versus carboplatin plus paclitaxel, cisplatin plus gemcitabine, and cisplatin plus vinorelbine for advanced non-small-cell lung cancer: Four-Arm Cooperative Study in Japan.
-/// Ohe et al., 2007
+/// The four regimens have similar efficacy and different toxicity profiles, and they can be used to treat advanced NSCLC patients. 
 article '17079694
 
   index: hide

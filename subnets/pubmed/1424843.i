@@ -2,7 +2,7 @@
 
 / Edell et al., 1992
 // Photodynamic therapy in the management of early superficial squamous cell carcinoma as an alternative to surgical resection.
-/// Edell et al., 1992
+/// Photodynamic therapy has been used since 1980 at our institution for the management of cancer of the tracheobronchial tree. 
 article '1424843
 
 

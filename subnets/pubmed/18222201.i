@@ -2,7 +2,7 @@
 
 / Shaw et al., 2008
 // Video-assisted thoracoscopic lobectomy: state of the art and future directions.
-/// Shaw et al., 2008
+/// Thoracoscopic lung resection can be performed safely in selected patients aged 80 years and older, in those with marginal pulmonary function, and in those with pathologic response to neoadjuvant therapy. 
 article '18222201
 
   index: hide

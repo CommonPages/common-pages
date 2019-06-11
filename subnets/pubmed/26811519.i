@@ -2,7 +2,7 @@
 
 / Senan et al., 2016
 // PROCLAIM: Randomized Phase III Trial of Pemetrexed-Cisplatin or Etoposide-Cisplatin Plus Thoracic Radiation Therapy Followed by Consolidation Chemotherapy in Locally Advanced Nonsquamous Non-Small-Cell Lung Cancer.
-/// Senan et al., 2016
+/// Pemetrexed-cisplatin combined with TRT followed by consolidation pemetrexed was not superior to standard chemoradiotherapy for stage III unresectable nonsquamous non-small-cell lung cancer. 
 article '26811519
 
   index: hide
@@ -13,7 +13,7 @@ article '26811519
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Senan S, Brade A, Wang LH, et al.: PROCLAIM: Randomized Phase III Trial of Pemetrexed-Cisplatin or Etoposide-Cisplatin Plus Thoracic Radiation Therapy Followed by Consolidation Chemotherapy in Locally Advanced Nonsquamous Non-Small-Cell Lung Cancer. J Clin Oncol 34 (9): 953-62, 2016.</div>
+    <div class="Citation-text">Senan S, Brade A, Wang LH, et al. PROCLAIM: randomized phase III trial of pemetrexed-cisplatin or etoposide-cisplatin plus thoracic radiation therapy followed by consolidation chemotherapy in locally advanced nonsquamous non-small-cell lung cancer. J Clin Oncol 2016;34:953-962.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/26811519">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

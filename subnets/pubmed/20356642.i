@@ -2,7 +2,7 @@
 
 / Fernandes et al., 2010
 // Elective nodal irradiation (ENI) vs. involved field radiotherapy (IFRT) for locally advanced non-small cell lung cancer (NSCLC): A comparative analysis of toxicities and clinical outcomes.
-/// Fernandes et al., 2010
+/// Nodal failure rates in clinically uninvolved nodal stations were not increased with IFRT when compared to ENI. 
 article '20356642
 
   index: hide

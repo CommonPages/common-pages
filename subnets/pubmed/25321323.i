@@ -2,7 +2,7 @@
 
 / Shirvani et al., 2015
 // Lobectomy, sublobar resection, and stereotactic ablative radiotherapy for early-stage non-small cell lung cancers in the elderly.
-/// Shirvani et al., 2015
+/// Lobectomy was associated with better outcomes than sublobar resection in elderly patients with early-stage NSCLC. 
 article '25321323
 
   index: hide

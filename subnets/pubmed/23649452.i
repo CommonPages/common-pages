@@ -2,7 +2,7 @@
 
 / Simoff et al., 2013
 // Symptom management in patients with lung cancer: Diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines.
-/// Simoff et al., 2013
+/// Improved understanding and recognition of cancer-related symptoms can improve management strategies, patient compliance, and quality of life for all patients with lung cancer. 
 article '23649452
 
   index: hide

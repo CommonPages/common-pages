@@ -2,7 +2,7 @@
 
 / Chang et al., 2015
 // Stereotactic ablative radiotherapy versus lobectomy for operable stage I non-small-cell lung cancer: a pooled analysis of two randomised trials.
-/// Chang et al., 2015
+/// SABR could be an option for treating operable stage I NSCLC. 
 article '25981812
 
   index: hide

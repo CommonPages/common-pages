@@ -2,7 +2,7 @@
 
 / Arriagada et al., 2010
 // Long-term results of the international adjuvant lung cancer trial evaluating adjuvant Cisplatin-based chemotherapy in resected lung cancer.
-/// Arriagada et al., 2010
+/// PURPOSE Based on 5-year or shorter-term follow-up data in recent randomized trials, adjuvant cisplatin-based chemotherapy is now generally recommended after complete surgical resection for patients with non-small-cell lung cancer (NSCLC). 
 article '19933916
 
 

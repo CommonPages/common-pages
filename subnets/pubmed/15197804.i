@@ -2,7 +2,7 @@
 
 / Rosen et al., 2004
 // Long-term efficacy and safety of zoledronic acid in the treatment of skeletal metastases in patients with nonsmall cell lung carcinoma and other solid tumors: a randomized, Phase III, double-blind, placebo-controlled trial.
-/// Rosen et al., 2004
+/// To the authors' knowledge, zoledronic acid is the first bisphosphonate to demonstrate long-term safety and efficacy in this patient population. 
 article '15197804
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Sakuma et al., 2007
 // Distinctive evaluation of nonmucinous and mucinous subtypes of bronchioloalveolar carcinomas in EGFR and K-ras gene-mutation analyses for Japanese lung adenocarcinomas: confirmation of the correlations with histologic subtypes and gene mutations.
-/// Sakuma et al., 2007
+/// Although adenocarcinomas of the lung are associated with epidermal growth factor receptor (EGFR) gene mutations and sensitivity to EGFR tyrosine kinase inhibitors, it remains unclear whether bronchioloalveolar carcinoma (BAC) components and/or subtypes affect these associations. 
 article '17580276
 
 

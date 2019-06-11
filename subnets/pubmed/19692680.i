@@ -2,7 +2,7 @@
 
 / Mok et al., 2009
 // Gefitinib or carboplatin-paclitaxel in pulmonary adenocarcinoma.
-/// Mok et al., 2009
+/// Gefitinib is superior to carboplatin-paclitaxel as an initial treatment for pulmonary adenocarcinoma among nonsmokers or former light smokers in East Asia. 
 article '19692680
 
   index: hide
@@ -13,7 +13,7 @@ article '19692680
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Mok TS, Wu YL, Thongprasert S, et al.: Gefitinib or carboplatin-paclitaxel in pulmonary adenocarcinoma. N Engl J Med 361 (10): 947-57, 2009.</div>
+    <div class="Citation-text">Mok TS, Wu YL, Thongprasert S, et al. Gefitinib or carboplatin-paclitaxel in pulmonary adenocarcinoma. N Engl J Med 2009;361:947-957.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19692680">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

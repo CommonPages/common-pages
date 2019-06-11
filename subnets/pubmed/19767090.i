@@ -2,7 +2,7 @@
 
 / Chlebowski et al., 2009
 // Oestrogen plus progestin and lung cancer in postmenopausal women (Women's Health Initiative trial): a post-hoc analysis of a randomised controlled trial.
-/// Chlebowski et al., 2009
+/// Although treatment with oestrogen plus progestin in postmenopausal women did not increase incidence of lung cancer, it increased the number of deaths from lung cancer, in particular deaths from non-small-cell lung cancer. 
 article '19767090
 
   index: hide

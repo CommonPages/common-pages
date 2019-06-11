@@ -2,7 +2,7 @@
 
 / Everitt et al., 2010
 // High rates of tumor growth and disease progression detected on serial pretreatment fluorodeoxyglucose-positron emission tomography/computed tomography scans in radical radiotherapy candidates with nonsmall cell lung cancer.
-/// Everitt et al., 2010
+/// Rapid tumor progression was detected in patients with untreated, predominantly stage III, NSCLC on serial FDG-PET/CT imaging, highlighting the need for prompt diagnosis, staging, and initiation of therapy in patients who are candidates for potentially curative therapy. 
 article '20623786
 
   index: hide

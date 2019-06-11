@@ -2,7 +2,7 @@
 
 / Robinson et al., 2015
 // Postoperative radiotherapy for pathologic N2 non-small-cell lung cancer treated with adjuvant chemotherapy: a review of the National Cancer Data Base.
-/// Robinson et al., 2015
+/// For patients with N2 NSCLC after complete resection and adjuvant chemotherapy, modern PORT seems to confer an additional OS advantage beyond that achieved with adjuvant chemotherapy alone. 
 article '25667283
 
   index: hide

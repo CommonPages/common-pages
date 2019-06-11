@@ -2,7 +2,7 @@
 
 / Rintoul et al., 2009
 // EBUS-TBNA for the clarification of PET positive intra-thoracic lymph nodes-an international multi-centre experience.
-/// Rintoul et al., 2009
+/// EBUS-TBNA offers an effective accurate, minimally invasive strategy for evaluating FDG avid hilar and mediastinal lymph nodes. 
 article '19096305
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Sholl et al., 2010
 // EGFR mutation is a better predictor of response to tyrosine kinase inhibitors in non-small cell lung carcinoma than FISH, CISH, and immunohistochemistry.
-/// Sholl et al., 2010
+/// About 10% of patients with non-small cell lung carcinoma (NSCLC) respond to epidermal growth factor receptor (EGFR)-targeted tyrosine kinase inhibitors (TKIs). 
 article '20472851
 
 

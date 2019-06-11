@@ -2,7 +2,7 @@
 
 / Rodig et al., 2009
 // Unique clinicopathologic features characterize ALK-rearranged lung adenocarcinoma in the western population.
-/// Rodig et al., 2009
+/// Lung adenocarcinomas with ALK rearrangements are uncommon in the western population and represent a distinct entity of carcinomas with unique characteristics. 
 article '19671850
 
   index: hide

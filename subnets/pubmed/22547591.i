@@ -2,7 +2,7 @@
 
 / Socinski et al., 2012
 // Weekly nab-paclitaxel in combination with carboplatin versus solvent-based paclitaxel plus carboplatin as first-line therapy in patients with advanced non-small-cell lung cancer: final results of a phase III trial.
-/// Socinski et al., 2012
+/// The administration of nab-PC as first-line therapy in patients with advanced NSCLC was efficacious and resulted in a significantly improved ORR versus sb-PC, achieving the primary end point. 
 article '22547591
 
   index: hide

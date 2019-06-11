@@ -2,7 +2,7 @@
 
 / Kim et al., 2011
 // Detection of ALK gene rearrangement in non-small cell lung cancer: a comparison of fluorescence in situ hybridization and chromogenic in situ hybridization with correlation of ALK protein expression.
-/// Kim et al., 2011
+/// CISH is a highly reproducible and practical method to detect ALK gene rearrangement and correlated well with ALK protein expression. 
 article '21587085
 
   index: hide

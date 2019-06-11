@@ -2,7 +2,7 @@
 
 / Cardarella et al., 2013
 // The introduction of systematic genomic testing for patients with non-small-cell lung cancer.
-/// Cardarella et al., 2013
+/// Large-scale testing for somatic alterations in EGFR, KRAS, BRAF, PIK3CA, HER2, and ALK is feasible and impacts therapeutic decisions. 
 article '23154547
 
   index: hide

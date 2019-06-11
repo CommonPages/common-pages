@@ -2,7 +2,7 @@
 
 / Gandhi et al., 2017
 // Efficacy of alectinib in central nervous system metastases in crizotinib-resistant ALK-positive non-small-cell lung cancer: Comparison of RECIST 1.1 and RANO-HGG criteria.
-/// Gandhi et al., 2017
+/// Central nervous system (CNS) progression is common in patients with anaplastic lymphoma kinase-positive (ALK+) non-small-cell lung cancer (NSCLC) receiving crizotinib. 
 article '28646771
 
 

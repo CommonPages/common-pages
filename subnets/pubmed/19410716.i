@@ -2,7 +2,7 @@
 
 / Pirker et al., 2009
 // Cetuximab plus chemotherapy in patients with advanced non-small-cell lung cancer (FLEX): an open-label randomised phase III trial.
-/// Pirker et al., 2009
+/// Addition of cetuximab to platinum-based chemotherapy represents a new treatment option for patients with advanced non-small-cell lung cancer. 
 article '19410716
 
   index: hide
@@ -13,7 +13,7 @@ article '19410716
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Pirker R, Pereira JR, Szczesna A, et al.: Cetuximab plus chemotherapy in patients with advanced non-small-cell lung cancer (FLEX): an open-label randomised phase III trial. Lancet 373 (9674): 1525-31, 2009.</div>
+    <div class="Citation-text">Pirker R, Pereira JR, Szczesna A, et al. Cetuximab plus chemotherapy in patients with advanced non-small-cell lung cancer (FLEX): an open-label randomised phase III trial. Lancet 2009;373:1525-1531.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19410716">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -2,7 +2,7 @@
 
 / Pennell, 2012
 // Selection of chemotherapy for patients with advanced non-small cell lung cancer.
-/// Pennell, 2012
+/// Chemotherapy remains the first-line treatment for most patients with stage IV non-small cell lung cancer (NSCLC), but optimal regimens are now defined by histology. 
 article '22614966
 
 

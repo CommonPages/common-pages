@@ -2,7 +2,7 @@
 
 / Pérol et al., 2012
 // Randomized, phase III study of gemcitabine or erlotinib maintenance therapy versus observation, with predefined second-line treatment, after cisplatin-gemcitabine induction chemotherapy in advanced non-small-cell lung cancer.
-/// Pérol et al., 2012
+/// Gemcitabine continuation maintenance or erlotinib switch maintenance significantly reduces disease progression in patients with advanced NSCLC treated with cisplatin-gemcitabine as first-line chemotherapy. 
 article '22949150
 
   index: hide

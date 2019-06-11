@@ -2,7 +2,7 @@
 
 / Wisnivesky et al., 2012
 // Survival and risk of adverse events in older patients receiving postoperative adjuvant chemotherapy for resected stages II-IIIA lung cancer: observational cohort study.
-/// Wisnivesky et al., 2012
+/// Platinum based adjuvant chemotherapy is associated with reduced mortality and increased risk of serious adverse events in older patients with stages II-IIIA lung cancer. 
 article '21757436
 
   index: hide

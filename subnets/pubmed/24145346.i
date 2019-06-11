@@ -2,7 +2,7 @@
 
 / Patel et al., 2014
 // PointBreak: a randomized phase III study of pemetrexed plus carboplatin and bevacizumab followed by maintenance pemetrexed and bevacizumab versus paclitaxel plus carboplatin and bevacizumab followed by maintenance bevacizumab in patients with stage IIIB or IV nonsquamous non-small-cell lung cancer.
-/// Patel et al., 2014
+/// OS did not improve with the PemCBev regimen compared with the PacCBev regimen, although PFS was significantly improved with PemCBev. 
 article '24145346
 
   index: hide

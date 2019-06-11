@@ -2,7 +2,7 @@
 
 / Allibhai et al., 2014
 // The impact of tumor size on outcomes after stereotactic body radiation therapy for medically inoperable early-stage non-small cell lung cancer.
-/// Allibhai et al., 2014
+/// Currently employed stereotactic body radiation therapy dose regimens can provide safe effective local therapy even for larger solitary NSCLC tumors (up to 5.7 cm in tumor diameter or 100 cm(3) in tumor volume) but are associated with more nonlocal failures as well as poorer survival. 
 article '24210082
 
   index: hide

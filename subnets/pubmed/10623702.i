@@ -2,7 +2,7 @@
 
 / Sandler et al., 2000
 // Phase III trial of gemcitabine plus cisplatin versus cisplatin alone in patients with locally advanced or metastatic non-small-cell lung cancer.
-/// Sandler et al., 2000
+/// For the first-line treatment of NSCLC, the regimen of gemcitabine plus cisplatin is superior to cisplatin alone in terms of response rate, time to disease progression, and overall survival. 
 article '10623702
 
   index: hide

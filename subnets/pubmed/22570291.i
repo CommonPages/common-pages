@@ -2,7 +2,7 @@
 
 / Martins et al., 2012
 // The management of patients with stage IIIA non-small cell lung cancer with N2 mediastinal node involvement.
-/// Martins et al., 2012
+/// Patients with stage IIIA non-small cell lung cancer, determined based on involvement of ipsilateral mediastinal lymph nodes, represent the most challenging management problem in this disease. 
 article '22570291
 
 

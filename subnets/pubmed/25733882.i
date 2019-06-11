@@ -2,7 +2,7 @@
 
 / Zou et al., 2015
 // PF-06463922 is a potent and selective next-generation ROS1/ALK inhibitor capable of blocking crizotinib-resistant ROS1 mutations.
-/// Zou et al., 2015
+/// Oncogenic c-ros oncogene1 (ROS1) fusion kinases have been identified in a variety of human cancers and are attractive targets for cancer therapy. 
 article '25733882
 
 

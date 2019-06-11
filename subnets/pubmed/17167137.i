@@ -2,7 +2,7 @@
 
 / Sandler et al., 2006
 // Paclitaxel-carboplatin alone or with bevacizumab for non-small-cell lung cancer.
-/// Sandler et al., 2006
+/// The addition of bevacizumab to paclitaxel plus carboplatin in the treatment of selected patients with non-small-cell lung cancer has a significant survival benefit with the risk of increased treatment-related deaths. 
 article '17167137
 
   index: hide
@@ -13,7 +13,7 @@ article '17167137
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Sandler A, Gray R, Perry MC, et al.: Paclitaxel-carboplatin alone or with bevacizumab for non-small-cell lung cancer. N Engl J Med 355 (24): 2542-50, 2006.</div>
+    <div class="Citation-text">Sandler A, Gray R, Perry MC, et al. Paclitaxel-carboplatin alone or with bevacizumab for non-small-cell lung cancer. N Engl J Med 2006;355:2542-2550.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/17167137">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -2,13 +2,13 @@
 
 / Paez et al., 2004
 // EGFR mutations in lung cancer: correlation with clinical response to gefitinib therapy.
-/// Paez et al., 2004
+/// Receptor tyrosine kinase genes were sequenced in non-small cell lung cancer (NSCLC) and matched normal tissue. 
 article '15118125
 
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Paez JG, Jänne PA, Lee JC, et al.: EGFR mutations in lung cancer: correlation with clinical response to gefitinib therapy. Science 304 (5676): 1497-500, 2004.</div>
+    <div class="Citation-text">Paez JG, Janne PA, Lee JC, et al. EGFR mutations in lung cancer: correlation with clinical response to gefitinib therapy. Science 2004;304:1497-1500.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/15118125">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

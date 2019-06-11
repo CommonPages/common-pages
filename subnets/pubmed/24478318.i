@@ -2,7 +2,7 @@
 
 / Ou et al., 2015
 // Clinical benefit of continuing ALK inhibition with crizotinib beyond initial disease progression in patients with advanced ALK-positive NSCLC.
-/// Ou et al., 2015
+/// Patients who continued CBPD were more likely to have good ECOG PS (0/1) at the time of PD. 
 article '24478318
 
   index: hide

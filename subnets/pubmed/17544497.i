@@ -2,7 +2,7 @@
 
 / Gilligan et al., 2007
 // Preoperative chemotherapy in patients with resectable non-small cell lung cancer: results of the MRC LU22/NVALT 2/EORTC 08012 multicentre randomised trial and update of systematic review.
-/// Gilligan et al., 2007
+/// Although there was no evidence of a difference in overall survival with neo-adjuvant chemotherapy, the result is statistically consistent with previous trials, and therefore adds considerable weight to the current evidence. 
 article '17544497
 
   index: hide

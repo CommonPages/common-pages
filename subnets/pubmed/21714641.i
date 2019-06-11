@@ -2,7 +2,7 @@
 
 /  et al., 2011
 // Reduced lung-cancer mortality with low-dose computed tomographic screening.
-///  et al., 2011
+/// Screening with the use of low-dose CT reduces mortality from lung cancer. 
 article '21714641
 
   index: hide
@@ -13,7 +13,7 @@ article '21714641
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Aberle DR, Adams AM, Berg CD, et al.: Reduced lung-cancer mortality with low-dose computed tomographic screening. N Engl J Med 365 (5): 395-409, 2011.</div>
+    <div class="Citation-text">National Lung Screening Trial Research T, Aberle DR, Adams AM, et al. Reduced lung-cancer mortality with low-dose computed tomographic screening. N Engl J Med 2011;365:395-409.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/21714641">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

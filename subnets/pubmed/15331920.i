@@ -2,7 +2,7 @@
 
 / Yasuda et al., 2004
 // Phase II study of weekly paclitaxel in patients with non-small cell lung cancer who have failed previous treatments.
-/// Yasuda et al., 2004
+/// Low-dose weekly paclitaxel is a promising therapy with high effectiveness for advanced NSCLC in patients with NSCLC who have failed previous treatments. 
 article '15331920
 
   index: hide

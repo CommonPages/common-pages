@@ -2,7 +2,7 @@
 
 / Rosenzweig et al., 2014
 // ACR appropriateness criteria nonsurgical treatment for non-small-cell lung cancer: poor performance status or palliative intent.
-/// Rosenzweig et al., 2014
+/// Radiation therapy plays a potential curative role in the treatment of patients with non-small-cell lung cancer with locoregional disease who are not surgical candidates and a palliative role for patients with metastatic disease. 
 article '23890874
 
 

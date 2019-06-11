@@ -2,7 +2,7 @@
 
 /  et al., 2012
 // ACR Appropriateness Criteria® non-spine bone metastases.
-///  et al., 2012
+/// Bone is one of the most common sites of metastatic spread of malignancy, with possible deleterious effects including pain, hypercalcemia, and pathologic fracture. 
 article '22536988
 
 

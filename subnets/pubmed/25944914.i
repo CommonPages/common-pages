@@ -2,7 +2,7 @@
 
 / Bezjak et al., 2015
 // Definitive and Adjuvant Radiotherapy in Locally Advanced Non-Small-Cell Lung Cancer: American Society of Clinical Oncology Clinical Practice Guideline Endorsement of the American Society for Radiation Oncology Evidence-Based Clinical Practice Guideline.
-/// Bezjak et al., 2015
+/// For curative-intent treatment of locally advanced NSCLC, concurrent chemoradiotherapy improves local control and overall survival compared with sequential chemotherapy followed by radiation. 
 article '25944914
 
   index: hide

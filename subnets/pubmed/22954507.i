@@ -2,7 +2,7 @@
 
 / Camidge et al., 2012
 // Activity and safety of crizotinib in patients with ALK-positive non-small-cell lung cancer: updated results from a phase 1 study.
-/// Camidge et al., 2012
+/// Crizotinib is well tolerated with rapid, durable responses in patients with ALK-positive NSCLC. 
 article '22954507
 
   index: hide

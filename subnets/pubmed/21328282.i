@@ -2,7 +2,7 @@
 
 / Cahill et al., 2011
 // Nicotine receptor partial agonists for smoking cessation.
-/// Cahill et al., 2011
+/// Varenicline at standard dose increased the chances of successful long-term smoking cessation between two- and threefold compared with pharmacologically unassisted quit attempts. 
 article '21328282
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Pai-Scherf et al., 2018
 // FDA Approval Summary: Pembrolizumab for Treatment of Metastatic Non-Small Cell Lung Cancer: First-Line Therapy and Beyond.
-/// Pai-Scherf et al., 2018
+/// On October 24, 2016, the U.S. Food and Drug Administration (FDA) approved pembrolizumab (Keytruda; Merck &amp; Co., Inc., https://www.merck.com) 
 article '28835513
 
 

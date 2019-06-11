@@ -2,7 +2,7 @@
 
 / Choy et al., 2015
 // Concurrent pemetrexed and radiation therapy in the treatment of patients with inoperable stage III non-small cell lung cancer: a systematic review of completed and ongoing studies.
-/// Choy et al., 2015
+/// Current standard for locally advanced non-small cell lung cancer (NSCLC) is combined concurrent therapy with a platinum-based regimen. 
 article '25650301
 
 

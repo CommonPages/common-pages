@@ -2,7 +2,7 @@
 
 / Platt et al., 2016
 // A retrospective analysis of RET translocation, gene copy number gain and expression in NSCLC patients treated with vandetanib in four randomized Phase III studies.
-/// Platt et al., 2016
+/// We have identified prevalence for three RET biomarkers in a population predominated by non-Asians and smokers. 
 article '25881079
 
   index: hide

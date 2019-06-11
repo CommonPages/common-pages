@@ -2,7 +2,7 @@
 
 / Trakul et al., 2013
 // Stereotactic ablative radiotherapy for reirradiation of locally recurrent lung tumors.
-/// Trakul et al., 2013
+/// SABR for locally recurrent lung tumors arising in previously irradiated fields seems to be feasible and safe for appropriately selected patients. 
 article '22895143
 
   index: hide

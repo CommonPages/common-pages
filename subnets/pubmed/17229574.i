@@ -2,7 +2,7 @@
 
 / Sienel et al., 2007
 // Frequency of local recurrence following segmentectomy of stage IA non-small cell lung cancer is influenced by segment localisation and width of resection margins--implications for patient selection for segmentectomy.
-/// Sienel et al., 2007
+/// The frequency of local recurrence following segmentectomy might be influenced by segment localisation and width of resection margins. 
 article '17229574
 
   index: hide

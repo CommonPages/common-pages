@@ -2,7 +2,7 @@
 
 / Fidias et al., 2009
 // Phase III study of immediate compared with delayed docetaxel after front-line therapy with gemcitabine plus carboplatin in advanced non-small-cell lung cancer.
-/// Fidias et al., 2009
+/// We observed a statistically significant improvement in PFS and a nonstatistically significant increase in OS when docetaxel was administered immediately after front-line GC, without increasing toxicity or decreasing QOL. 
 article '19075278
 
   index: hide

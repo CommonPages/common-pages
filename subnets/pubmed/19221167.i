@@ -2,7 +2,7 @@
 
 / Scagliotti et al., 2009
 // The differential efficacy of pemetrexed according to NSCLC histology: a review of two Phase III studies.
-/// Scagliotti et al., 2009
+/// The consistency of these results across studies confirms the predictive effect of histology for pemetrexed and the survival advantage for pemetrexed in patients with nonsquamous histology. 
 article '19221167
 
   index: hide

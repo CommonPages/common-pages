@@ -2,7 +2,7 @@
 
 / Hellmann et al., 2018
 // Nivolumab plus Ipilimumab in Lung Cancer with a High Tumor Mutational Burden.
-/// Hellmann et al., 2018
+/// Progression-free survival was significantly longer with first-line nivolumab plus ipilimumab than with chemotherapy among patients with NSCLC and a high tumor mutational burden, irrespective of PD-L1 expression level. 
 article '29658845
 
   index: hide

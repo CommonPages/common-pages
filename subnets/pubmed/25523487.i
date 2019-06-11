@@ -2,7 +2,7 @@
 
 / Haspinger et al., 2015
 // Is there evidence for different effects among EGFR-TKIs? Systematic review and meta-analysis of EGFR tyrosine kinase inhibitors (TKIs) versus chemotherapy as first-line treatment for patients harboring EGFR mutations.
-/// Haspinger et al., 2015
+/// Three EGFR tyrosine kinase inhibitors have been compared to standard chemotherapy as up-front treatment in patients with advanced EGFR-positive NSCLC. 
 article '25523487
 
 

@@ -2,7 +2,7 @@
 
 / Gettinger et al., 2015
 // Overall Survival and Long-Term Safety of Nivolumab (Anti-Programmed Death 1 Antibody, BMS-936558, ONO-4538) in Patients With Previously Treated Advanced Non-Small-Cell Lung Cancer.
-/// Gettinger et al., 2015
+/// Nivolumab monotherapy produced durable responses and encouraging survival rates in patients with heavily pretreated NSCLC. 
 article '25897158
 
   index: hide

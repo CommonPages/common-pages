@@ -2,7 +2,7 @@
 
 / Scott et al., 2007
 // Treatment of non-small cell lung cancer stage I and stage II: ACCP evidence-based clinical practice guidelines (2nd edition).
-/// Scott et al., 2007
+/// Surgical resection remains the treatment of choice for stage I and II NSCLC, although surgical methods continue to evolve. 
 article '17873171
 
   index: hide

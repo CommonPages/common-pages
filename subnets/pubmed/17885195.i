@@ -2,7 +2,7 @@
 
 / Kim et al., 2007
 // Persistent pulmonary nodular ground-glass opacity at thin-section CT: histopathologic comparisons.
-/// Kim et al., 2007
+/// About 75% of persistent pulmonary GGO nodules are attributed to BAC or adenocarcinoma with predominant BAC component, and at thin-section CT, these nodules do not manifest morphologic features that distinguish them from other GGO nodules with different histopathologic diagnoses. 
 article '17885195
 
   index: hide

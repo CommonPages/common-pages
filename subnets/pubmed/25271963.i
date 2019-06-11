@@ -2,7 +2,7 @@
 
 / Finlay et al., 2015
 // Discovery of a potent and selective EGFR inhibitor (AZD9291) of both sensitizing and T790M resistance mutations that spares the wild type form of the receptor.
-/// Finlay et al., 2015
+/// Epidermal growth factor receptor (EGFR) inhibitors have been used clinically in the treatment of non-small-cell lung cancer (NSCLC) patients harboring sensitizing (or activating) mutations for a number of years. 
 article '25271963
 
 

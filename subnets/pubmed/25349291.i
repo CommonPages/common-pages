@@ -2,7 +2,7 @@
 
 / Iyengar et al., 2015
 // Phase II trial of stereotactic body radiation therapy combined with erlotinib for patients with limited but progressive metastatic non-small-cell lung cancer.
-/// Iyengar et al., 2015
+/// Use of SBRT with erlotinib for unselected patients with stage IV NSCLC as a second- or subsequent line therapy resulted in dramatic changes in patterns of failure, was well tolerated, and resulted in high PFS and OS, substantially greater than historical values for patients who only received systemic agents. 
 article '25349291
 
   index: hide

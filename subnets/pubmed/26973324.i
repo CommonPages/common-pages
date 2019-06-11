@@ -2,7 +2,7 @@
 
 / Kim et al., 2017
 // Activity and safety of ceritinib in patients with ALK-rearranged non-small-cell lung cancer (ASCEND-1): updated results from the multicentre, open-label, phase 1 trial.
-/// Kim et al., 2017
+/// The durable whole-body responses reported, together with the intracranial activity, support a clinical benefit for treatment with ceritinib in patients with ALK-rearranged NSCLC who have received crizotinib, or as an alternative to crizotinib. 
 article '26973324
 
   index: hide

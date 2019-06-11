@@ -2,7 +2,7 @@
 
 / Aubin et al., 2008
 // Varenicline versus transdermal nicotine patch for smoking cessation: results from a randomised open-label trial.
-/// Aubin et al., 2008
+/// The outcomes of this trial established that abstinence from smoking was greater and craving, withdrawal symptoms and smoking satisfaction were less at the end of treatment with varenicline than with transdermal NRT. 
 article '18263663
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Finkelstein et al., 1986
 // Long-term survivors in metastatic non-small-cell lung cancer: an Eastern Cooperative Oncology Group Study.
-/// Finkelstein et al., 1986
+/// Between December 1979 and June 1983 the Eastern Cooperative Oncology Group (ECOG) treated 893 good-performance status patients with metastatic non-small-cell lung cancer (NSCLC) on one of seven phase III combination chemotherapies. 
 article '3701389
 
 

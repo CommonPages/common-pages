@@ -2,7 +2,7 @@
 
 / Cerfolio et al., 2005
 // Repeat FDG-PET after neoadjuvant therapy is a predictor of pathologic response in patients with non-small cell lung cancer.
-/// Cerfolio et al., 2005
+/// The change in maxSUV on FDG-PET scan after neoadjuvant therapy holds a near linear relationship with pathologic response. 
 article '15560998
 
   index: hide

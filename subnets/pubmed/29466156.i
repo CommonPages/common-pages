@@ -2,7 +2,7 @@
 
 / Drilon et al., 2018
 // Efficacy of Larotrectinib in TRK Fusion-Positive Cancers in Adults and Children.
-/// Drilon et al., 2018
+/// Larotrectinib had marked and durable antitumor activity in patients with TRK fusion-positive cancer, regardless of the age of the patient or of the tumor type. 
 article '29466156
 
   index: hide
@@ -13,7 +13,7 @@ article '29466156
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Drilon A, Laetsch TW, Kummar S, et al.: Efficacy of Larotrectinib in TRK Fusion-Positive Cancers in Adults and Children. N Engl J Med 378 (8): 731-739, 2018.</div>
+    <div class="Citation-text">Drilon A, Laetsch TW, Kummar S, et al. Efficacy of larotrectinib in TRK fusion-positive cancers in adults and children. N Engl J Med 2018;378:731-739.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/29466156">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

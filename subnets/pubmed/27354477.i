@@ -2,7 +2,7 @@
 
 / Oxnard et al., 2017
 // Association Between Plasma Genotyping and Outcomes of Treatment With Osimertinib (AZD9291) in Advanced Non-Small-Cell Lung Cancer.
-/// Oxnard et al., 2017
+/// Third-generation epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors (TKIs) have demonstrated potent activity against TKI resistance mediated by EGFR T790M. 
 article '27354477
 
 

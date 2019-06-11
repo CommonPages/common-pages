@@ -2,7 +2,7 @@
 
 / Hickish et al., 1998
 // Clinical benefit from palliative chemotherapy in non-small-cell lung cancer extends to the elderly and those with poor prognostic factors.
-/// Hickish et al., 1998
+/// The intention of this study was to identify the pretreatment characteristics predicting for the survival, objective response and symptom relief in patients with non-resectable, non-small-cell lung cancer (NSCLC) managed in the Lung Unit at the Royal Marsden Hospital. 
 article '9662246
 
 

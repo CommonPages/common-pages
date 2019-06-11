@@ -2,7 +2,7 @@
 
 / Suh et al., 2010
 // ACR Appropriateness Criteria: single brain metastasis.
-/// Suh et al., 2010
+/// Single brain metastasis represents a common neurologic complication of cancer. 
 article '20541055
 
 

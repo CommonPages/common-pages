@@ -2,7 +2,7 @@
 
 / Tan et al., 2005
 // Randomized study of vinorelbine--gemcitabine versus vinorelbine--carboplatin in patients with advanced non-small cell lung cancer.
-/// Tan et al., 2005
+/// VG compared to VC resulted in a similar overall response rate, favourable median survival and a better toxicity profile. 
 article '16022917
 
   index: hide

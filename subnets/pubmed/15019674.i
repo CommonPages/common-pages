@@ -2,7 +2,7 @@
 
 / Sayar et al., 2004
 // Prognostic significance of surgical-pathologic multiple-station N1 disease in non-small cell carcinoma of the lung.
-/// Sayar et al., 2004
+/// It was suggested that N1 disease is a compound of two subgroups: one involving in one node and the other (multiple N1 disease) in which the postoperative prognosis was not statistically different from that of N2 disease. 
 article '15019674
 
   index: hide

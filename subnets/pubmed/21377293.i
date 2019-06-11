@@ -2,7 +2,7 @@
 
 / Taremi et al., 2012
 // Stereotactic body radiotherapy for medically inoperable lung cancer: prospective, single-center study of 108 consecutive patients.
-/// Taremi et al., 2012
+/// Lung SBRT for early-stage NSCLC resulted in excellent local control and cause-specific survival with minimal toxicity. 
 article '21377293
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Pisters et al., 2010
 // Surgery with or without preoperative paclitaxel and carboplatin in early-stage non-small-cell lung cancer: Southwest Oncology Group Trial S9900, an intergroup, randomized, phase III trial.
-/// Pisters et al., 2010
+/// PURPOSE Patients with early-stage non-small-cell lung cancer (NSCLC) have a poor prognosis even after complete resection. 
 article '20231678
 
 

@@ -2,7 +2,7 @@
 
 / Solaini et al., 2007
 // Long-term results of video-assisted thoracic surgery lobectomy for stage I non-small cell lung cancer: a single-centre study of 104 cases.
-/// Solaini et al., 2007
+/// The use of video-assisted thoracic surgery (VATS) for carrying out major pulmonary resections in the treatment of lung cancer is still controversial. 
 article '17670176
 
 

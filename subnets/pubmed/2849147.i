@@ -2,7 +2,7 @@
 
 / Noordijk et al., 1989
 // Radiotherapy as an alternative to surgery in elderly patients with resectable lung cancer.
-/// Noordijk et al., 1989
+/// From 1978 to 1983, 50 patients with a peripherally located non-small cell tumor of the lung were irradiated with curative intent. 
 article '2849147
 
 

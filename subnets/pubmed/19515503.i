@@ -2,7 +2,7 @@
 
 / Liao et al., 2010
 // Influence of technologic advances on outcomes in patients with unresectable, locally advanced non-small-cell lung cancer receiving concomitant chemoradiotherapy.
-/// Liao et al., 2010
+/// Treatment with 4DCT/IMRT was at least as good as that with 3DCRT in terms of the rates of freedom from LRP and DM. 
 article '19515503
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Thomas et al., 2008
 // Effect of preoperative chemoradiation in addition to preoperative chemotherapy: a randomised trial in stage III non-small-cell lung cancer.
-/// Thomas et al., 2008
+/// In patients with stage III NSCLC amenable to surgery, preoperative chemoradiation in addition to chemotherapy increases pathological response and mediastinal downstaging, but does not improve survival. 
 article '18583190
 
   index: hide

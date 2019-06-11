@@ -2,7 +2,7 @@
 
 / Eccles et al., 2011
 // Experience of first- and subsequent-line systemic therapy in the treatment of non-small cell lung cancer.
-/// Eccles et al., 2011
+/// Overall our outcomes are consistent with published data and show good survival times can be achieved. 
 article '21904578
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Ballard et al., 2018
 // Preclinical Comparison of Osimertinib with Other EGFR-TKIs in EGFR-Mutant NSCLC Brain Metastases Models, and Early Evidence of Clinical Brain Metastases Activity.
-/// Ballard et al., 2018
+/// Osimertinib may represent a clinically significant treatment option for patients with EGFRm NSCLC and brain metastases. 
 article '27435396
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Garon et al., 2014
 // Ramucirumab plus docetaxel versus placebo plus docetaxel for second-line treatment of stage IV non-small-cell lung cancer after disease progression on platinum-based therapy (REVEL): a multicentre, double-blind, randomised phase 3 trial.
-/// Garon et al., 2014
+/// Ramucirumab plus docetaxel improves survival as second-line treatment of patients with stage IV NSCLC. 
 article '24933332
 
   index: hide
@@ -13,7 +13,7 @@ article '24933332
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Garon EB, Ciuleanu TE, Arrieta O, et al.: Ramucirumab plus docetaxel versus placebo plus docetaxel for second-line treatment of stage IV non-small-cell lung cancer after disease progression on platinum-based therapy (REVEL): a multicentre, double-blind, randomised phase 3 trial. Lancet 384 (9944): 665-73, 2014.</div>
+    <div class="Citation-text">Garon EB, Ciuleanu TE, Arrieta O, et al. Ramucirumab plus docetaxel versus placebo plus docetaxel for second-line treatment of stage IV non-small-cell lung cancer after disease progression on platinum-based therapy (REVEL): a multicentre, double-blind, randomised phase 3 trial. Lancet 2014;384:665-673.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/24933332">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

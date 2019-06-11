@@ -2,7 +2,7 @@
 
 / Tanaka et al., 2001
 // Prognostic factors in patients with resected pathologic (p-) T1-2N1M0 non-small cell lung cancer (NSCLC).
-/// Tanaka et al., 2001
+/// Involvement of the hilar node and aberrant p53 expression were significant factors to predict a worse prognosis in resected T1-2N1M0 NSCLC. 
 article '11343930
 
   index: hide

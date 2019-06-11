@@ -2,7 +2,7 @@
 
 / Macchiarini et al., 1992
 // Relation of neovascularisation to metastasis of non-small-cell lung cancer.
-/// Macchiarini et al., 1992
+/// The growth of a tumour beyond a certain size requires angiogenesis. 
 article '1378165
 
 

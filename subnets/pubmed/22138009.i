@@ -2,7 +2,7 @@
 
 / Febbo et al., 2012
 // NCCN Task Force report: Evaluating the clinical utility of tumor markers in oncology.
-/// Febbo et al., 2012
+/// The molecular analysis of biomarkers in oncology is rapidly advancing, but the incorporation of new molecular tests into clinical practice will require a greater understanding of the genetic changes that drive malignancy, the assays used to measure the resulting phenotypes and genotypes, and the regulatory processes that new molecular biomarkers must face to be accepted for clinical use. 
 article '22138009
 
 

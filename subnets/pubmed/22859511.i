@@ -2,7 +2,7 @@
 
 / Srikantharajah et al., 2013
 // Is computed tomography follow-up of patients after lobectomy for non-small cell lung cancer of benefit in terms of survival?
-/// Srikantharajah et al., 2013
+/// A best evidence topic in cardiothoracic surgery was written according to a structured protocol. 
 article '22859511
 
 

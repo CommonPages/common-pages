@@ -2,7 +2,7 @@
 
 / Forbes et al., 2008
 // The Catalogue of Somatic Mutations in Cancer (COSMIC).
-/// Forbes et al., 2008
+/// COSMIC is currently the most comprehensive global resource for information on somatic mutations in human cancer, combining curation of the scientific literature with tumor resequencing data from the Cancer Genome Project at the Sanger Institute, U.K. Almost 4800 genes and 250000 tumors have been examined, resulting in over 50000 mutations available for investigation. 
 article '18428421
 
 

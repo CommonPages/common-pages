@@ -2,7 +2,7 @@
 
 / Kerr et al., 1992
 // Pathological assessment of mediastinal lymph nodes in lung cancer: implications for non-invasive mediastinal staging.
-/// Kerr et al., 1992
+/// The study shows that in patients with lung cancer (1) malignant mediastinal lymph nodes are not larger than benign nodes; (2) small mediastinal lymph nodes are not infrequently malignant; and (3) benign adenopathy is more common in patients with acute pulmonary inflammation. 
 article '1609375
 
   index: hide

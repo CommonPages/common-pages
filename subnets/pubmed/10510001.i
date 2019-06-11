@@ -2,7 +2,7 @@
 
 / Kernstine et al., 1999
 // PET, CT, and MRI with Combidex for mediastinal staging in non-small cell lung carcinoma.
-/// Kernstine et al., 1999
+/// PET and MRI-C are statistically more accurate than CT. 
 article '10510001
 
   index: hide

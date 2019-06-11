@@ -2,7 +2,7 @@
 
 / Usami et al., 2011
 // Phase II study of carboplatin and gemcitabine as adjuvant chemotherapy in patients with completely resected non-small cell lung cancer: a report from the Central Japan Lung Study Group, CJLSG 0503 trial.
-/// Usami et al., 2011
+/// Adjuvant chemotherapy with a carboplatin and gemcitabine combination regimen has an acceptable toxicity profile, and the majority of patients completed 4 cycles of therapy. 
 article '20714770
 
   index: hide

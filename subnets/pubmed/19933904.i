@@ -2,7 +2,7 @@
 
 / Bogart et al., 2010
 // Phase I study of accelerated conformal radiotherapy for stage I non-small-cell lung cancer in patients with pulmonary dysfunction: CALGB 39904.
-/// Bogart et al., 2010
+/// Accelerated conformal radiotherapy was well tolerated in a high-risk population with clinical stage I NSCLC. 
 article '19933904
 
   index: hide
@@ -13,7 +13,7 @@ article '19933904
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Bogart JA, Hodgson L, Seagren SL, et al.: Phase I study of accelerated conformal radiotherapy for stage I non-small-cell lung cancer in patients with pulmonary dysfunction: CALGB 39904. J Clin Oncol 28 (2): 202-6, 2010.</div>
+    <div class="Citation-text">Bogart JA, Hodgson L, Seagren SL, et al. Phase I study of accelerated conformal radiotherapy for stage I non-small-cell lung cancer in patients with pulmonary dysfunction: CALGB 39904. J Clin Oncol 2010;28:202-206.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/19933904">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

@@ -2,7 +2,7 @@
 
 / Lanni et al., 2011
 // Stereotactic radiotherapy reduces treatment cost while improving overall survival and local control over standard fractionated radiation therapy for medically inoperable non-small-cell lung cancer.
-/// Lanni et al., 2011
+/// In this study of Stage I NSCLC patients, SBRT was found to be less expensive than standard fractionated EBRT, with the cost savings highly dependent on the number of SBRT fractions and EBRT technique (3-dimensional conformal RT vs. intensity-modulated radiation therapy). 
 article '20805737
 
   index: hide

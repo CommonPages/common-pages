@@ -2,7 +2,7 @@
 
 / Stephans et al., 2009
 // A comparison of two stereotactic body radiation fractionation schedules for medically inoperable stage I non-small cell lung cancer: the Cleveland Clinic experience.
-/// Stephans et al., 2009
+/// Local control, overall survival, nodal failure, and distant failure were not affected by fractionation. 
 article '19633473
 
   index: hide

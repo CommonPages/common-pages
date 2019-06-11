@@ -2,7 +2,7 @@
 
 / Gauden et al., 1995
 // The curative treatment by radiotherapy alone of stage I non-small cell carcinoma of the lung.
-/// Gauden et al., 1995
+/// This review was initiated to assess the outcome of treatment with radical radiotherapy with curative intent for patients diagnosed as having stage I non-small cell lung cancer. 
 article '7587429
 
 

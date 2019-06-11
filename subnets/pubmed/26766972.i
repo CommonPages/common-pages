@@ -2,7 +2,7 @@
 
 / Zhang et al., 2016
 // Pemetrexed plus carboplatin as adjuvant chemotherapy in patients with curative resected non-squamous non-small cell lung cancer.
-/// Zhang et al., 2016
+/// Cisplatin-based adjuvant chemotherapy provided a significant advantage in the overall survival (OS) of patients with stage II and III non-small cell lung cancer (NSCLC). 
 article '26766972
 
 

@@ -2,7 +2,7 @@
 
 / Silvestri et al., 2013
 // Methods for staging non-small cell lung cancer: Diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines.
-/// Silvestri et al., 2013
+/// Since the last iteration of the staging guidelines, PET scanning has assumed a more prominent role both in its use prior to surgery and when evaluating for metastatic disease. 
 article '23649440
 
   index: hide

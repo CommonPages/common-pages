@@ -2,7 +2,7 @@
 
 / Depierre et al., 2002
 // Preoperative chemotherapy followed by surgery compared with primary surgery in resectable stage I (except T1N0), II, and IIIa non-small-cell lung cancer.
-/// Depierre et al., 2002
+/// Although impressive differences in median, 3-year, and 4-year survival were observed, they were not statistically significant, except for stage I and II disease. 
 article '11773176
 
   index: hide

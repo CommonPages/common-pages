@@ -2,7 +2,7 @@
 
 / Bezjak et al., 2006
 // Symptom improvement in lung cancer patients treated with erlotinib: quality of life analysis of the National Cancer Institute of Canada Clinical Trials Group Study BR.21.
-/// Bezjak et al., 2006
+/// Erlotinib not only improves survival in previously treated patients with NSCLC, but also improves tumor-related symptoms and important aspects of QOL. 
 article '16921034
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Ulaner et al., 2014
 // Identifying and distinguishing treatment effects and complications from malignancy at FDG PET/CT.
-/// Ulaner et al., 2014
+/// Fluorine 18 fluorodeoxyglucose (FDG) positron emission tomography/computed tomography (PET/CT) is increasingly used in the initial staging, evaluation of treatment response, and surveillance of many malignancies. 
 article '24108564
 
 

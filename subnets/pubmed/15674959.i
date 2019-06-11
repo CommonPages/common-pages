@@ -2,7 +2,7 @@
 
 / Manser et al., 2005
 // Surgery for early stage non-small cell lung cancer.
-/// Manser et al., 2005
+/// Conclusions about the efficacy of surgery for local and loco-regional NSCLC are limited by the small number of participants studied to date and potential methodological weaknesses of trials. 
 article '15674959
 
   index: hide

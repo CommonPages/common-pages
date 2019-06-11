@@ -2,7 +2,7 @@
 
 / Kuriyama et al., 2013
 // Disease flare after discontinuation of crizotinib in anaplastic lymphoma kinase-positive lung cancer.
-/// Kuriyama et al., 2013
+/// We report the case of a 50-year-old male former smoker. 
 article '24019783
 
 

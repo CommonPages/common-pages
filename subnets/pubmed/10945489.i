@@ -2,7 +2,7 @@
 
 / Anderson et al., 2000
 // Gemcitabine plus best supportive care (BSC) vs BSC in inoperable non-small cell lung cancer--a randomized trial with quality of life as the primary outcome. UK NSCLC Gemcitabine Group. Non-Small Cell Lung Cancer.
-/// Anderson et al., 2000
+/// Three hundred patients with symptomatic, locally advanced or metastatic NSCLC not requiring immediate radiotherapy were enrolled into this randomized multicentre trial comparing gemcitabine + BSC vs BSC alone. 
 article '10945489
 
 

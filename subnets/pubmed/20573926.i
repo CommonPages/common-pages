@@ -2,7 +2,7 @@
 
 / Maemondo et al., 2010
 // Gefitinib or chemotherapy for non-small-cell lung cancer with mutated EGFR.
-/// Maemondo et al., 2010
+/// First-line gefitinib for patients with advanced non-small-cell lung cancer who were selected on the basis of EGFR mutations improved progression-free survival, with acceptable toxicity, as compared with standard chemotherapy. 
 article '20573926
 
   index: hide
@@ -13,7 +13,7 @@ article '20573926
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Maemondo M, Inoue A, Kobayashi K, et al.: Gefitinib or chemotherapy for non-small-cell lung cancer with mutated EGFR. N Engl J Med 362 (25): 2380-8, 2010.</div>
+    <div class="Citation-text">Maemondo M, Inoue A, Kobayashi K, et al. Gefitinib or chemotherapy for non-small-cell lung cancer with mutated EGFR. N Engl J Med 2010;362:2380-2388.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/20573926">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

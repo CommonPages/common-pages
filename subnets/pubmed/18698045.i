@@ -2,7 +2,7 @@
 
 / Salama et al., 2008
 // An initial report of a radiation dose-escalation trial in patients with one to five sites of metastatic disease.
-/// Salama et al., 2008
+/// Patients with low-volume metastatic cancer can be identified, safely treated, and may benefit from radiotherapy. 
 article '18698045
 
   index: hide

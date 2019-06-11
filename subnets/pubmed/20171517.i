@@ -2,7 +2,7 @@
 
 / Kirkpatrick et al., 2010
 // Radiation dose-volume effects in the spinal cord.
-/// Kirkpatrick et al., 2010
+/// Dose-volume data for myelopathy in humans treated with radiotherapy (RT) to the spine is reviewed, along with pertinent preclinical data. 
 article '20171517
 
 

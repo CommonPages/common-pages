@@ -2,7 +2,7 @@
 
 / Sweeney et al., 2002
 // Outcome of patients with a performance status of 2 in Eastern Cooperative Oncology Group Study E1594: a Phase II trial in patients with metastatic nonsmall cell lung carcinoma .
-/// Sweeney et al., 2002
+/// Patients with advanced NSCLC and a PS of 2 experienced a large number of adverse reactions and overall poor survival. 
 article '11745199
 
   index: hide

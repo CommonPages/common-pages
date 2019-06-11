@@ -2,7 +2,7 @@
 
 / Guckenberger et al., 2009
 // Dose-response relationship for image-guided stereotactic body radiotherapy of pulmonary tumors: relevance of 4D dose calculation.
-/// Guckenberger et al., 2009
+/// Doses of &gt;100 Gy BED to the CTV based on 4D dose calculation resulted in excellent local control rates. 
 article '18977095
 
   index: hide

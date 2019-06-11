@@ -2,7 +2,7 @@
 
 / Lipson et al., 2012
 // Identification of new ALK and RET gene fusions from colorectal and lung cancer biopsies.
-/// Lipson et al., 2012
+/// Applying a next-generation sequencing assay targeting 145 cancer-relevant genes in 40 colorectal cancer and 24 non-small cell lung cancer formalin-fixed paraffin-embedded tissue specimens identified at least one clinically relevant genomic alteration in 59% of the samples and revealed two gene fusions, C2orf44-ALK in a colorectal cancer sample and KIF5B-RET in a lung adenocarcinoma. 
 article '22327622
 
 

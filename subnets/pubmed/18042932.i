@@ -2,7 +2,7 @@
 
 / Ung et al., 2007
 // 18Fluorodeoxyglucose positron emission tomography in the diagnosis and staging of lung cancer: a systematic review.
-/// Ung et al., 2007
+/// Lung cancer is the leading cause of cancer-related death in industrialized countries. 
 article '18042932
 
 

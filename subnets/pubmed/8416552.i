@@ -2,7 +2,7 @@
 
 / Seely et al., 1993
 // T1 lung cancer: prevalence of mediastinal nodal metastases and diagnostic accuracy of CT.
-/// Seely et al., 1993
+/// To determine the prevalence of mediastinal lymph node metastases in T1 non-small cell lung cancer and assess the sensitivity and specificity of computed tomography (CT) in detection of such metastases, the CT scans and surgical findings in 104 patients with T1 lesions were reviewed. 
 article '8416552
 
 

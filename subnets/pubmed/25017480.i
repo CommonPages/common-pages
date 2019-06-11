@@ -2,7 +2,7 @@
 
 / Hearn et al., 2014
 // Salvage stereotactic body radiation therapy (SBRT) for local failure after primary lung SBRT.
-/// Hearn et al., 2014
+/// Repeat SBRT with a BED of ≥ 100 Gy10 after local failure in patients with early-stage medically inoperable NSCLC was well tolerated in this series and may represent a viable salvage strategy in select patients with peripheral tumors ≤ 5 cm. 
 article '25017480
 
   index: hide

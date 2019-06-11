@@ -2,7 +2,7 @@
 
 / Villamizar et al., 2009
 // Thoracoscopic lobectomy is associated with lower morbidity compared with thoracotomy.
-/// Villamizar et al., 2009
+/// Thoracoscopic lobectomy is associated with a lower incidence of major complications, including atrial fibrillation, compared with lobectomy by means of thoracotomy. 
 article '19619789
 
   index: hide

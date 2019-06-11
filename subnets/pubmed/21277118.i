@@ -2,7 +2,7 @@
 
 / Lutz et al., 2011
 // Palliative radiotherapy for bone metastases: an ASTRO evidence-based guideline.
-/// Lutz et al., 2011
+/// Radiotherapy is a successful and time efficient method by which to palliate pain and/or prevent the morbidity of bone metastases. 
 article '21277118
 
   index: hide

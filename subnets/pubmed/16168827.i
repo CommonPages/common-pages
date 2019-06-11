@@ -2,7 +2,7 @@
 
 / Kong et al., 2005
 // High-dose radiation improved local tumor control and overall survival in patients with inoperable/unresectable non-small-cell lung cancer: long-term results of a radiation dose escalation study.
-/// Kong et al., 2005
+/// Higher dose radiation is associated with improved outcomes in patients with NSCLC treated in the range of 63-103 Gy. 
 article '16168827
 
   index: hide

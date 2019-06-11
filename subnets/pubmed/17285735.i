@@ -2,7 +2,7 @@
 
 / Sequist et al., 2007
 // Response to treatment and survival of patients with non-small cell lung cancer undergoing somatic EGFR mutation testing.
-/// Sequist et al., 2007
+/// Somatic mutations in the epidermal growth factor receptor (EGFR) gene are associated with clinical response and prolonged survival in patients with non-small cell lung cancer (NSCLC) treated with EGFR tyrosine kinase inhibitors (TKIs). 
 article '17285735
 
 

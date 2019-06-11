@@ -2,7 +2,7 @@
 
 / Loeffler et al., 1990
 // The treatment of recurrent brain metastases with stereotactic radiosurgery.
-/// Loeffler et al., 1990
+/// Between May 1986 and August 1989, we treated 18 patients with 21 recurrent or persistent brain metastases with stereotactic radiosurgery using a modified linear accelerator. 
 article '2179476
 
 

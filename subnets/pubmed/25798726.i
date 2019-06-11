@@ -2,7 +2,7 @@
 
 / Brahmer et al., 2016
 // Nivolumab: targeting PD-1 to bolster antitumor immunity.
-/// Brahmer et al., 2016
+/// Nivolumab, a fully human IgG4 PD-1 immune checkpoint inhibitor antibody, blocks PD-1 and can restore anticancer immune responses by abrogating PD-1 pathway-mediated T-cell inhibition. 
 article '25798726
 
 

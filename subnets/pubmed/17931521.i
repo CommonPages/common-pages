@@ -2,7 +2,7 @@
 
 / Alam et al., 2007
 // Video-assisted thoracic surgery (VATS) lobectomy: the evidence base.
-/// Alam et al., 2007
+/// In expert hands, VATS lobectomy appears to be a safe procedure. 
 article '17931521
 
   index: hide

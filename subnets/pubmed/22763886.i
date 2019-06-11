@@ -2,7 +2,7 @@
 
 / , 2012
 // CDC Grand Rounds: the TB/HIV syndemic.
-/// , 2012
+/// Since Robert Koch's 1882 discovery of Mycobacterium tuberculosis, substantial progress has been made in tuberculosis (TB) control. 
 article '22763886
 
 

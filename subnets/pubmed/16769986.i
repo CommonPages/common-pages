@@ -2,7 +2,7 @@
 
 / Lally et al., 2006
 // Postoperative radiotherapy for stage II or III non-small-cell lung cancer using the surveillance, epidemiology, and end results database.
-/// Lally et al., 2006
+/// In a population-based cohort, PORT use is associated with an increase in survival in patients with N2 nodal disease but not in patients with N1 and N0 nodal disease. 
 article '16769986
 
   index: hide
@@ -13,7 +13,7 @@ article '16769986
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Lally BE, Zelterman D, Colasanto JM, et al.: Postoperative radiotherapy for stage II or III non-small-cell lung cancer using the surveillance, epidemiology, and end results database. J Clin Oncol 24 (19): 2998-3006, 2006.</div>
+    <div class="Citation-text">Lally BE, Zelterman D, Colasanto JM, et al. Postoperative radiotherapy for stage II or III non-small-cell lung cancer using the surveillance, epidemiology, and end results database. J Clin Oncol 2006;24:2998-3006.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/16769986">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

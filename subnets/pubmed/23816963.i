@@ -2,7 +2,7 @@
 
 / Katakami et al., 2014
 // LUX-Lung 4: a phase II trial of afatinib in patients with advanced non-small-cell lung cancer who progressed during prior treatment with erlotinib, gefitinib, or both.
-/// Katakami et al., 2014
+/// Afatinib demonstrated modest but noteworthy efficacy in patients with NSCLC who had received third- or fourth-line treatment and who progressed while receiving erlotinib and/or gefitinib, including those with acquired resistance to erlotinib, gefitinib, or both. 
 article '23816963
 
   index: hide

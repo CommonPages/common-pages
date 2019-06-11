@@ -2,7 +2,7 @@
 
 / Lippman et al., 2001
 // Randomized phase III intergroup trial of isotretinoin to prevent second primary tumors in stage I non-small-cell lung cancer.
-/// Lippman et al., 2001
+/// Isotretinoin treatment did not improve the overall rates of SPTs, recurrences, or mortality in stage I NSCLC. 
 article '11309437
 
   index: hide

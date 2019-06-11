@@ -2,7 +2,7 @@
 
 / Kilburn et al., 2015
 // Thoracic re-irradiation using stereotactic body radiotherapy (SBRT) techniques as first or second course of treatment.
-/// Kilburn et al., 2015
+/// Tumor control can be established with re-irradiation using SBRT techniques for in-field thoracic failures at the cost of manageable toxicity. 
 article '24444530
 
   index: hide

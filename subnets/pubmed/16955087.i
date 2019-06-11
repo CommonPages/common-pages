@@ -2,7 +2,7 @@
 
 / Narayan et al., 2006
 // Multimodality therapy for Pancoast tumor.
-/// Narayan et al., 2006
+/// The management of Pancoast tumors has challenged surgeons and radiation and medical oncologists over several decades. 
 article '16955087
 
 

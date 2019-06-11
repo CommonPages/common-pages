@@ -2,7 +2,7 @@
 
 / Yates et al., 2014
 // Supportive and palliative care for lung cancer patients.
-/// Yates et al., 2014
+/// Lung cancer patients face poor survival and experience co-occurring chronic physical and psychological symptoms. 
 article '24163753
 
 

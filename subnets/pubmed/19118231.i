@@ -2,7 +2,7 @@
 
 / De Wever et al., 2009
 // Integrated PET/CT in the staging of nonsmall cell lung cancer: technical aspects and clinical integration.
-/// De Wever et al., 2009
+/// Lung cancer is a common disease and is a leading cause of death in many countries. 
 article '19118231
 
 

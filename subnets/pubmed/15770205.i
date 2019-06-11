@@ -2,7 +2,7 @@
 
 / Senkus-Konefka et al., 2005
 // A prospective, randomised study to compare two palliative radiotherapy schedules for non-small-cell lung cancer (NSCLC).
-/// Senkus-Konefka et al., 2005
+/// A prospective randomised study compared two palliative radiotherapy schedules for inoperable symptomatic non-small-cell lung cancer (NSCLC). 
 article '15770205
 
 

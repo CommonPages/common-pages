@@ -2,7 +2,7 @@
 
 / Herbst et al., 2002
 // The novel and effective nonplatinum, nontaxane combination of gemcitabine and vinorelbine in advanced nonsmall cell lung carcinoma: potential for decreased toxicity and combination with biological therapy.
-/// Herbst et al., 2002
+/// Gemcitabine/vinorelbine is an active, well-tolerated combination in both front-line and second/third-line therapy for Stage IIIB/IV NSCLC. 
 article '12124835
 
   index: hide

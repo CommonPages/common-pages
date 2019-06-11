@@ -2,7 +2,7 @@
 
 / Ford et al., 2013
 // Palliative and end-of-life care in lung cancer: Diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines.
-/// Ford et al., 2013
+/// This article provides guidance on how to reduce patient distress and avoid nonbeneficial treatment in patients with lung cancer. 
 article '23649453
 
   index: hide

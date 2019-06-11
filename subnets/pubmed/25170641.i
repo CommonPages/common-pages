@@ -2,7 +2,7 @@
 
 / Shultz et al., 2015
 // Stereotactic ablative radiotherapy for pulmonary oligometastases and oligometastatic lung cancer.
-/// Shultz et al., 2015
+/// An increasing body of experience suggests that oligometastasis represents a minimal metastatic state with the potential for cure or prolonged survival in selected patients treated with radical local therapy to all identified sites of disease. 
 article '25170641
 
 

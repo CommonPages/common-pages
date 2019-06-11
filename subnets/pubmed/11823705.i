@@ -2,7 +2,7 @@
 
 / Barnes et al., 2002
 // Concomitant weekly cisplatin and thoracic radiotherapy for Pancoast tumors of the lung: pilot experience of the San Antonio Cancer Institute.
-/// Barnes et al., 2002
+/// Pancoast (superior sulcus tumors) comprise a subset of non-small-cell lung cancers that have a unique clinical presentation by virtue of the locoregional pattern of disease progression. 
 article '11823705
 
 

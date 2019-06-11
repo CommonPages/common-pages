@@ -2,7 +2,7 @@
 
 / Dugay et al., 2017
 // Clinicopathological characteristics of ROS1- and RET-rearranged NSCLC in caucasian patients: Data from a cohort of 713 non-squamous NSCLC lacking KRAS/EGFR/HER2/BRAF/PIK3CA/ALK alterations.
-/// Dugay et al., 2017
+/// Targeted therapies have substantially changed the management of non-small cell lung cancer (NSCLC) patients with driver oncogenes. 
 article '28881815
 
 

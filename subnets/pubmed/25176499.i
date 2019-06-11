@@ -2,7 +2,7 @@
 
 / McKee et al., 2016
 // Performance of ACR Lung-RADS in a clinical CT lung screening program.
-/// McKee et al., 2016
+/// The application of ACR Lung-RADS increased the positive predictive value in our CT lung screening cohort by a factor of 2.5, to 17.3%, without increasing the number of examinations with false-negative results. 
 article '25176499
 
   index: hide

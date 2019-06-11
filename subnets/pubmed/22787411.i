@@ -2,7 +2,7 @@
 
 / Leighl, 2012
 // Treatment paradigms for patients with metastatic non-small-cell lung cancer: first-, second-, and third-line.
-/// Leighl, 2012
+/// Metastatic non-small-cell lung cancer (nsclc) is the leading cause of cancer mortality in Canada. 
 article '22787411
 
 

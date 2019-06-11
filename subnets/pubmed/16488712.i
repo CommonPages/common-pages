@@ -2,7 +2,7 @@
 
 / Allen et al., 2006
 // Morbidity and mortality of major pulmonary resections in patients with early-stage lung cancer: initial results of the randomized, prospective ACOSOG Z0030 trial.
-/// Allen et al., 2006
+/// Complete mediastinal lymphadenectomy adds little morbidity to a pulmonary resection for lung cancer. 
 article '16488712
 
   index: hide
@@ -13,7 +13,7 @@ article '16488712
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Allen MS, Darling GE, Pechet TT, et al.: Morbidity and mortality of major pulmonary resections in patients with early-stage lung cancer: initial results of the randomized, prospective ACOSOG Z0030 trial. Ann Thorac Surg 81 (3): 1013-9; discussion 1019-20, 2006.</div>
+    <div class="Citation-text">Allen MS, Darling GE, Pechet TT, et al. Morbidity and mortality of major pulmonary resections in patients with early-stage lung cancer: initial results of the randomized, prospective ACOSOG Z0030 trial. Ann Thorac Surg 2006;81:1013-1019; discussion 1019-1020.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/16488712">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

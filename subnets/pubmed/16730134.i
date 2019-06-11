@@ -2,7 +2,7 @@
 
 / Schild et al., 2006
 // Results of a Phase I trial of concurrent chemotherapy and escalating doses of radiation for unresectable non-small-cell lung cancer.
-/// Schild et al., 2006
+/// The MTD of the RT was 74 Gy with weekly carboplatin and paclitaxel. 
 article '16730134
 
   index: hide

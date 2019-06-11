@@ -2,7 +2,7 @@
 
 / Wang et al., 2017
 // Cardiac Toxicity After Radiotherapy for Stage III Non-Small-Cell Lung Cancer: Pooled Analysis of Dose-Escalation Trials Delivering 70 to 90 Gy.
-/// Wang et al., 2017
+/// Purpose The significance of radiotherapy (RT) -associated cardiac injury for stage III non-small-cell lung cancer (NSCLC) is unclear, but higher heart doses were associated with worse overall survival in the Radiation Therapy Oncology Group (RTOG) 0617 study. 
 article '28113017
 
 

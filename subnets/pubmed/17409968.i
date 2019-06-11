@@ -2,7 +2,7 @@
 
 / Clark et al., 2007
 // Clinical utility of epidermal growth factor receptor expression for selecting patients with advanced non-small cell lung cancer for treatment with erlotinib.
-/// Clark et al., 2007
+/// Selection or exclusion of NSCLC patients for erlotinib therapy after failure of standard therapy for advanced or metastatic disease should not be based solely on EGFR protein expression as determined by immunohistochemistry. 
 article '17409968
 
   index: hide

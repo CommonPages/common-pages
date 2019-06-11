@@ -2,7 +2,7 @@
 
 / Hellwig et al., 2005
 // Value of F-18-fluorodeoxyglucose positron emission tomography after induction therapy of locally advanced bronchogenic carcinoma.
-/// Hellwig et al., 2005
+/// FDG-PET helps in the selection of patients for resection after induction therapy. 
 article '15573074
 
   index: hide

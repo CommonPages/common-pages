@@ -2,7 +2,7 @@
 
 / Green et al., 2007
 // Abraxane, a novel Cremophor-free, albumin-bound particle form of paclitaxel for the treatment of advanced non-small-cell lung cancer.
-/// Green et al., 2007
+/// Abraxane 260 mg/m2 administered IV over 30 min without premedication was well tolerated. 
 article '16740598
 
   index: hide

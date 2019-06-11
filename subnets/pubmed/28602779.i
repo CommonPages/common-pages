@@ -2,7 +2,7 @@
 
 / Shaw et al., 2017
 // Ceritinib versus chemotherapy in patients with ALK-rearranged non-small-cell lung cancer previously given chemotherapy and crizotinib (ASCEND-5): a randomised, controlled, open-label, phase 3 trial.
-/// Shaw et al., 2017
+/// Ceritinib is a next-generation anaplastic lymphoma kinase (ALK) inhibitor, which has shown robust anti-tumour efficacy, along with intracranial activity, in patients with ALK-rearranged non-small-cell lung cancer. 
 article '28602779
 
 

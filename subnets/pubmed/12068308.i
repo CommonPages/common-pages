@@ -2,7 +2,7 @@
 
 / Davies et al., 2002
 // Mutations of the BRAF gene in human cancer.
-/// Davies et al., 2002
+/// Cancers arise owing to the accumulation of mutations in critical genes that alter normal programmes of cell proliferation, differentiation and death. 
 article '12068308
 
 

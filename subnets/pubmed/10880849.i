@@ -2,7 +2,7 @@
 
 / Sculier et al., 2000
 // A phase II trial testing gemcitabine as second-line chemotherapy for non small cell lung cancer. The European Lung Cancer Working Party. 101473.1044@compuserve.com.
-/// Sculier et al., 2000
+/// The purpose of the present trial was to determine the activity of gemcitabine as a second-line chemotherapy for non small cell lung cancer (NSCLC). 
 article '10880849
 
 

@@ -2,7 +2,7 @@
 
 / Kelsey et al., 2006
 // Patterns of failure after resection of non-small-cell lung cancer: implications for postoperative radiation therapy volumes.
-/// Kelsey et al., 2006
+/// These data may help clinicians construct postoperative RT volumes that are smaller than ones traditionally utilized, which may improve the therapeutic ratio. 
 article '16682136
 
   index: hide

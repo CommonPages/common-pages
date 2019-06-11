@@ -2,7 +2,7 @@
 
 / Howington et al., 2013
 // Treatment of stage I and II non-small cell lung cancer: Diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines.
-/// Howington et al., 2013
+/// Surgical resection remains the primary and preferred approach to the treatment of stage I and II NSCLC. 
 article '23649443
 
   index: hide

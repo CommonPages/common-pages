@@ -2,7 +2,7 @@
 
 / Khambata-Ford et al., 2010
 // Analysis of potential predictive markers of cetuximab benefit in BMS099, a phase III study of cetuximab and first-line taxane/carboplatin in advanced non-small-cell lung cancer.
-/// Khambata-Ford et al., 2010
+/// PURPOSE The anti-epidermal growth factor receptor (EGFR) antibody cetuximab is efficacious in multiple tumor types. 
 article '20100958
 
 

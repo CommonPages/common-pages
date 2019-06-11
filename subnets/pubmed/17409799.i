@@ -2,7 +2,7 @@
 
 / Feigenberg et al., 2007
 // A phase II study of concurrent carboplatin and paclitaxel and thoracic radiotherapy for completely resected stage II and IIIA non-small cell lung cancer.
-/// Feigenberg et al., 2007
+/// Our results support the Radiation Therapy Oncology Group 97-05 findings and suggest that with new and better tolerated chemotherapy regimens the strategy of concurrent TRT and chemotherapy after completely resected stage II and IIIA non-small cell lung cancer should be further explored. 
 article '17409799
 
   index: hide

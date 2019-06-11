@@ -2,7 +2,7 @@
 
 / MacMahon et al., 2005
 // Guidelines for management of small pulmonary nodules detected on CT scans: a statement from the Fleischner Society.
-/// MacMahon et al., 2005
+/// Lung nodules are detected very commonly on computed tomographic (CT) scans of the chest, and the ability to detect very small nodules improves with each new generation of CT scanner. 
 article '16244247
 
 

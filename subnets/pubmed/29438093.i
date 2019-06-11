@@ -2,7 +2,7 @@
 
 / Odogwu et al., 2018
 // FDA Approval Summary: Dabrafenib and Trametinib for the Treatment of Metastatic Non-Small Cell Lung Cancers Harboring BRAF V600E Mutations.
-/// Odogwu et al., 2018
+/// The approvals of dabrafenib and trametinib, administered concurrently, provide a new regimen for the treatment of a rare subset of non-small cell lung cancer (NSCLC) and demonstrate how drugs active for treatment of BRAF-mutant tumors in one setting predict efficacy and can provide supportive evidence for approval in another setting. 
 article '29438093
 
   index: hide

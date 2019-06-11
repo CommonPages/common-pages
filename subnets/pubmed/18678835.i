@@ -2,7 +2,7 @@
 
 / , 2008
 // Chemotherapy in addition to supportive care improves survival in advanced non-small-cell lung cancer: a systematic review and meta-analysis of individual patient data from 16 randomized controlled trials.
-/// , 2008
+/// This MA of chemotherapy in the supportive care setting demonstrates conclusively that chemotherapy improves overall survival in all patients with advanced NSCLC. 
 article '18678835
 
   index: hide

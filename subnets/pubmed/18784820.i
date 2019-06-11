@@ -2,7 +2,7 @@
 
 / Tan et al., 2010
 // Immunohistochemistry for assessment of pulmonary and pleural neoplasms: a review and update.
-/// Tan et al., 2010
+/// Diagnosis and classification of lung and pleural neoplasms are complex due to diverse histopathology and tumor heterogeneity. 
 article '18784820
 
 

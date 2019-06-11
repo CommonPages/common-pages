@@ -2,7 +2,7 @@
 
 / Hotta et al., 2004
 // Meta-analysis of randomized clinical trials comparing Cisplatin to Carboplatin in patients with advanced non-small-cell lung cancer.
-/// Hotta et al., 2004
+/// We found that combination chemotherapy consisting of cisplatin plus a new agent yields a substantial survival advantage compared with carboplatin plus a new agent in patients with advanced NSCLC, although we failed to find any survival difference in an analysis that included both new and old agents. 
 article '15326195
 
   index: hide

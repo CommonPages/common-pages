@@ -2,7 +2,7 @@
 
 / Graham et al., 1999
 // Clinical dose-volume histogram analysis for pneumonitis after 3D treatment for non-small cell lung cancer (NSCLC)
-/// Graham et al., 1999
+/// The V20 from the total lung DVH is a useful parameter easily obtained from most 3D treatment planning systems. 
 article '10487552
 
   index: hide

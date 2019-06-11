@@ -2,7 +2,7 @@
 
 / Gridelli et al., 2012
 // First-line erlotinib followed by second-line cisplatin-gemcitabine chemotherapy in advanced non-small-cell lung cancer: the TORCH randomized trial.
-/// Gridelli et al., 2012
+/// In unselected patients with advanced NSCLC, first-line erlotinib followed at progression by cisplatin-gemcitabine was significantly inferior in terms of overall survival compared with the standard sequence of first-line chemotherapy followed by erlotinib. 
 article '22778317
 
   index: hide

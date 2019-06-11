@@ -2,7 +2,7 @@
 
 / Gambhir et al., 1996
 // Decision tree sensitivity analysis for cost-effectiveness of FDG-PET in the staging and management of non-small-cell lung carcinoma.
-/// Gambhir et al., 1996
+/// These results show through rigorous decision tree analysis, the potential cost-effectiveness of using FDG PET in the management of NSCLC. 
 article '8790186
 
   index: hide

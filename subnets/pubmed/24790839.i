@@ -2,7 +2,7 @@
 
 / Villamizar et al., 2014
 // Lobectomy vs. segmentectomy for NSCLC (T&lt;2 cm).
-/// Villamizar et al., 2014
+/// The extent of surgical resection for peripheral clinical T1N0M0 non-small cell lung cancer (NSCLC) ≤2 cm continues to be a matter of debate. 
 article '24790839
 
 

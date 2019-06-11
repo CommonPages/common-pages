@@ -2,7 +2,7 @@
 
 / Cao et al., 2011
 // Association between long-term exposure to outdoor air pollution and mortality in China: a cohort study.
-/// Cao et al., 2011
+/// No prior cohort studies exist in China examining the association of outdoor air pollution with mortality. 
 article '21194838
 
 

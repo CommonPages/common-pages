@@ -2,7 +2,7 @@
 
 / Thunnissen et al., 2012
 // EML4-ALK testing in non-small cell carcinomas of the lung: a review with recommendations.
-/// Thunnissen et al., 2012
+/// In non-small cell lung cancer, epidermal growth factor receptor gene mutations and anaplastic lymphoma kinase (ALK) gene rearrangements have a major impact upon the level of response to treatment with specific tyrosine kinase inhibitors. 
 article '22825000
 
 

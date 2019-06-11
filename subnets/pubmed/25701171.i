@@ -2,7 +2,7 @@
 
 / Paz-Ares et al., 2015
 // Necitumumab plus pemetrexed and cisplatin as first-line therapy in patients with stage IV non-squamous non-small-cell lung cancer (INSPIRE): an open-label, randomised, controlled phase 3 study.
-/// Paz-Ares et al., 2015
+/// Our findings show no evidence to suggest that the addition of necitumumab to pemetrexed and cisplatin increases survival of previously untreated patients with stage IV non-squamous NSCLC. 
 article '25701171
 
   index: hide

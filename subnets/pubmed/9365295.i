@@ -2,7 +2,7 @@
 
 / Hackshaw et al., 1997
 // The accumulated evidence on lung cancer and environmental tobacco smoke.
-/// Hackshaw et al., 1997
+/// The epidemiological and biochemical evidence on exposure to environmental tobacco smoke, with the supporting evidence of tobacco specific carcinogens in the blood and urine of non-smokers exposed to environmental tobacco smoke, provides compelling confirmation that breathing other people's tobacco smoke is a cause of lung cancer. 
 article '9365295
 
   index: hide

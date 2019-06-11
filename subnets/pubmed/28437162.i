@@ -2,7 +2,7 @@
 
 / Kris et al., 2017
 // Adjuvant Systemic Therapy and Adjuvant Radiation Therapy for Stage I to IIIA Completely Resected Non-Small-Cell Lung Cancers: American Society of Clinical Oncology/Cancer Care Ontario Clinical Practice Guideline Update.
-/// Kris et al., 2017
+/// Purpose The panel updated the American Society of Clinical Oncology (ASCO) adjuvant therapy guideline for resected non-small-cell lung cancers. 
 article '28437162
 
 

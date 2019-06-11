@@ -2,7 +2,7 @@
 
 / Gondi et al., 2015
 // Preservation of memory with conformal avoidance of the hippocampal neural stem-cell compartment during whole-brain radiotherapy for brain metastases (RTOG 0933): a phase II multi-institutional trial.
-/// Gondi et al., 2015
+/// Conformal avoidance of the hippocampus during WBRT is associated with preservation of memory and QOL as compared with historical series. 
 article '25349290
 
   index: hide

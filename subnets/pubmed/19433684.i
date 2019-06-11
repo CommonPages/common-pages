@@ -2,7 +2,7 @@
 
 / Patel et al., 2009
 // Phase II study of pemetrexed and carboplatin plus bevacizumab with maintenance pemetrexed and bevacizumab as first-line therapy for nonsquamous non-small-cell lung cancer.
-/// Patel et al., 2009
+/// This regimen, involving a maintenance component, was associated with acceptable toxicity and relatively long survival in patients with advanced nonsquamous NSCLC. 
 article '19433684
 
   index: hide

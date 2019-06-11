@@ -2,7 +2,7 @@
 
 / Cahill et al., 2013
 // Pharmacological interventions for smoking cessation: an overview and network meta-analysis.
-/// Cahill et al., 2013
+/// NRT, bupropion, varenicline and cytisine have been shown to improve the chances of quitting. 
 article '23728690
 
   index: hide

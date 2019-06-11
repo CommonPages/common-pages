@@ -2,7 +2,7 @@
 
 / Sederholm et al., 2005
 // Phase III trial of gemcitabine plus carboplatin versus single-agent gemcitabine in the treatment of locally advanced or metastatic non-small-cell lung cancer: the Swedish Lung Cancer Study Group.
-/// Sederholm et al., 2005
+/// In advanced NSCLC, gemcitabine/carboplatin therapy resulted in significant survival benefit compared with single-agent gemcitabine without undue increase in toxicity. 
 article '16293868
 
   index: hide

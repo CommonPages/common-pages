@@ -2,7 +2,7 @@
 
 / Weder et al., 2010
 // Pneumonectomy is a valuable treatment option after neoadjuvant therapy for stage III non-small-cell lung cancer.
-/// Weder et al., 2010
+/// Pneumonectomy after neoadjuvant therapy for non-small-cell lung cancer can be performed with a perioperative mortality rate of 3%. 
 article '20416887
 
   index: hide

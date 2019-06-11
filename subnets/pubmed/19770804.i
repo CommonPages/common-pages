@@ -2,7 +2,7 @@
 
 / Shiels et al., 2009
 // A meta-analysis of the incidence of non-AIDS cancers in HIV-infected individuals.
-/// Shiels et al., 2009
+/// HIV-infected individuals may be at an increased risk of developing non-AIDS cancers, particularly those associated with infections and smoking. 
 article '19770804
 
   index: hide

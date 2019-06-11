@@ -2,7 +2,7 @@
 
 / Ou et al., 2007
 // Prognostic factors for survival of stage I nonsmall cell lung cancer patients : a population-based analysis of 19,702 stage I patients in the California Cancer Registry from 1989 to 2003.
-/// Ou et al., 2007
+/// Stage I NSCLC with poorly differentiated histology and stage IB NSCLC with non-upper lobar tumor location or tumor size &gt; or =4 cm carried an increased mortality risk. 
 article '17702091
 
   index: hide

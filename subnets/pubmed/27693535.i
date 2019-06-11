@@ -2,7 +2,7 @@
 
 / Klempner et al., 2017
 // Intracranial Activity of Cabozantinib in MET Exon 14-Positive NSCLC with Brain Metastases.
-/// Klempner et al., 2017
+/// This report provides the first detailed description of brain metastases in MET exon 14-positive NSCLC and provides preliminary support for the intracranial activity of cabozantinib. 
 article '27693535
 
   index: hide

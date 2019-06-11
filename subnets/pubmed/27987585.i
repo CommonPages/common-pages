@@ -2,7 +2,7 @@
 
 / Cicènas et al., 2017
 // Maintenance erlotinib versus erlotinib at disease progression in patients with advanced non-small-cell lung cancer who have not progressed following platinum-based chemotherapy (IUNO study).
-/// Cicènas et al., 2017
+/// OS with maintenance erlotinib was not superior to second-line treatment in patients whose tumor did not harbor an EGFR-activating mutation. 
 article '27987585
 
   index: hide

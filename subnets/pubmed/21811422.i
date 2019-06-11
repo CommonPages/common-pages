@@ -2,7 +2,7 @@
 
 / Dahele et al., 2011
 // The role of stereotactic ablative radiotherapy for early-stage and oligometastatic non-small cell lung cancer: evidence for changing paradigms.
-/// Dahele et al., 2011
+/// A compelling body of non-randomized evidence has established stereotactic ablative lung radiotherapy (SABR) as a standard of care for medically inoperable patients with peripheral early-stage non-small cell lung cancer (NSCLC). 
 article '21811422
 
 

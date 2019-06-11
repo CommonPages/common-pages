@@ -2,7 +2,7 @@
 
 / Camidge et al., 2018
 // Brigatinib versus Crizotinib in ALK-Positive Non-Small-Cell Lung Cancer.
-/// Camidge et al., 2018
+/// Among patients with ALK-positive NSCLC who had not previously received an ALK inhibitor, progression-free survival was significantly longer among patients who received brigatinib than among those who received crizotinib. 
 article '30280657
 
   index: hide

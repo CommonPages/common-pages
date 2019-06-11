@@ -2,7 +2,7 @@
 
 / Greco et al., 2007
 // Paclitaxel/Carboplatin/gemcitabine versus gemcitabine/vinorelbine in advanced non-small-cell lung cancer: a phase II/III study of the Minnie Pearl Cancer Research Network.
-/// Greco et al., 2007
+/// There was no difference in OS or progression-free survival when comparing PCG and gemcitabine/vinorelbine, and gemcitabine/vinorelbine was significantly less toxic. 
 article '17922972
 
   index: hide

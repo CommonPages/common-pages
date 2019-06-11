@@ -2,7 +2,7 @@
 
 / Jaiswal et al., 2015
 // Age-related clonal hematopoiesis associated with adverse outcomes.
-/// Jaiswal et al., 2015
+/// Age-related clonal hematopoiesis is a common condition that is associated with increases in the risk of hematologic cancer and in all-cause mortality, with the latter possibly due to an increased risk of cardiovascular disease. 
 article '25426837
 
   index: hide

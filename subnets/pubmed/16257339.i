@@ -2,7 +2,7 @@
 
 / Thatcher et al., 2005
 // Gefitinib plus best supportive care in previously treated patients with refractory advanced non-small-cell lung cancer: results from a randomised, placebo-controlled, multicentre study (Iressa Survival Evaluation in Lung Cancer).
-/// Thatcher et al., 2005
+/// Treatment with gefitinib was not associated with significant improvement in survival in either coprimary population. 
 article '16257339
 
   index: hide

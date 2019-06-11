@@ -2,7 +2,7 @@
 
 / Sandler et al., 2010
 // Treatment outcomes by tumor histology in Eastern Cooperative Group Study E4599 of bevacizumab with paclitaxel/carboplatin for advanced non-small cell lung cancer.
-/// Sandler et al., 2010
+/// Addition of B to PC is associated with increased survival in previously untreated patients with nonsquamous NSCLC. 
 article '20686429
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Sequist et al., 2012
 // Implementing multiplexed genotyping of non-small-cell lung cancers into routine clinical practice.
-/// Sequist et al., 2012
+/// Broad genotyping can be efficiently incorporated into an NSCLC clinic and has great utility in influencing treatment decisions and directing patients toward relevant clinical trials. 
 article '22071650
 
   index: hide

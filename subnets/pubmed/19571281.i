@@ -2,7 +2,7 @@
 
 / Fischer et al., 2009
 // Preoperative staging of lung cancer with combined PET-CT.
-/// Fischer et al., 2009
+/// The use of PET-CT for preoperative staging of NSCLC reduced both the total number of thoracotomies and the number of futile thoracotomies but did not affect overall mortality. 
 article '19571281
 
   index: hide

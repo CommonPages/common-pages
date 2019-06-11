@@ -2,7 +2,7 @@
 
 / Kubota et al., 2008
 // Vinorelbine plus gemcitabine followed by docetaxel versus carboplatin plus paclitaxel in patients with advanced non-small-cell lung cancer: a randomised, open-label, phase III study.
-/// Kubota et al., 2008
+/// Although platinum-containing regimens remain the standard treatment for advanced NSCLC, non-platinum regimens could provide equivalent efficacy with a different toxicity profile. 
 article '19013107
 
   index: hide

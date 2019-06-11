@@ -2,7 +2,7 @@
 
 / Chang et al., 2007
 // Surgical treatment of synchronous multiple primary lung cancers: experience of 92 patients.
-/// Chang et al., 2007
+/// An aggressive surgical approach is safe and justified in patients with synchronous multiple primary lung cancers and node-negative diseases. 
 article '17723810
 
   index: hide

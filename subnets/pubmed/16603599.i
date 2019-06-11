@@ -2,7 +2,7 @@
 
 / Booton et al., 2006
 // A phase III trial of docetaxel/carboplatin versus mitomycin C/ifosfamide/cisplatin (MIC) or mitomycin C/vinblastine/cisplatin (MVP) in patients with advanced non-small-cell lung cancer: a randomised multicentre trial of the British Thoracic Oncology Group (BTOG1).
-/// Booton et al., 2006
+/// The combination of DCb had similar efficacy to MIC/MVP but quality of life was better maintained. 
 article '16603599
 
   index: hide

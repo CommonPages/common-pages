@@ -2,7 +2,7 @@
 
 / Mehta et al., 2010
 // The role of chemotherapy in the management of newly diagnosed brain metastases: a systematic review and evidence-based clinical practice guideline.
-/// Mehta et al., 2010
+/// Should patients with brain metastases receive chemotherapy in addition to whole brain radiotherapy (WBRT)? 
 article '19960229
 
   index: hide

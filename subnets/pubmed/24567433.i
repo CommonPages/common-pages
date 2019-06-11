@@ -2,7 +2,7 @@
 
 / Johnson et al., 2014
 // Recent clinical advances in lung cancer management.
-/// Johnson et al., 2014
+/// Progress in lung cancer therapy has been slow but steady and has accelerated due to improvements in scientific basis for the disease and to technologic advances in diagnosis and therapy. 
 article '24567433
 
 

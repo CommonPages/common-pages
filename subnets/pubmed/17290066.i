@@ -2,7 +2,7 @@
 
 / Subramanian et al., 2007
 // Lung cancer in never smokers: a review.
-/// Subramanian et al., 2007
+/// Lung cancer is the leading cause of cancer-related death in the United States. 
 article '17290066
 
 

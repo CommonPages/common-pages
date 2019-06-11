@@ -2,7 +2,7 @@
 
 / Fournel et al., 2005
 // Randomized phase III trial of sequential chemoradiotherapy compared with concurrent chemoradiotherapy in locally advanced non-small-cell lung cancer: Groupe Lyon-Saint-Etienne d'Oncologie Thoracique-Groupe Français de Pneumo-Cancérologie NPC 95-01 Study.
-/// Fournel et al., 2005
+/// Although not statistically significant, clinically important differences in the median, 2-, 3-, and 4-year survival rates were observed, with a trend in favor of concurrent chemoradiation therapy, suggesting that is the optimal strategy for patients with locally advanced NSCLC. 
 article '16087956
 
   index: hide

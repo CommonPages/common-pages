@@ -2,7 +2,7 @@
 
 / Gainor et al., 2014
 // ALK rearrangements are mutually exclusive with mutations in EGFR or KRAS: an analysis of 1,683 patients with non-small cell lung cancer.
-/// Gainor et al., 2014
+/// Functional ALK rearrangements were mutually exclusive with EGFR and KRAS mutations in a large Western patient population. 
 article '23729361
 
   index: hide

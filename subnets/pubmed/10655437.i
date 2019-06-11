@@ -2,7 +2,7 @@
 
 / Therasse et al., 2000
 // New guidelines to evaluate the response to treatment in solid tumors. European Organization for Research and Treatment of Cancer, National Cancer Institute of the United States, National Cancer Institute of Canada.
-/// Therasse et al., 2000
+/// Anticancer cytotoxic agents go through a process by which their antitumor activity-on the basis of the amount of tumor shrinkage they could generate-has been investigated. 
 article '10655437
 
 

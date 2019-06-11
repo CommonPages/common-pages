@@ -2,7 +2,7 @@
 
 / Facciolo et al., 2001
 // Chest wall invasion in non-small cell lung carcinoma: a rationale for en bloc resection.
-/// Facciolo et al., 2001
+/// En bloc resection of the chest wall and lung is the procedure of choice to obtain complete resection in lung carcinoma invading the chest wall. 
 article '11279404
 
   index: hide

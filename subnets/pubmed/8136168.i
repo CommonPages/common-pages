@@ -2,7 +2,7 @@
 
 / Dillemans et al., 1994
 // Value of computed tomography and mediastinoscopy in preoperative evaluation of mediastinal nodes in non-small cell lung cancer. A study of 569 patients.
-/// Dillemans et al., 1994
+/// The efficacy of computed tomography (CT) and mediastinoscopy as staging modalities to assess mediastinal lymph node status was evaluated in 569 patients with a presumed resectable non-small cell lung cancer (NSCLC). 
 article '8136168
 
 

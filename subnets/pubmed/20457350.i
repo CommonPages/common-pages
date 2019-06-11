@@ -2,7 +2,7 @@
 
 / Bradley et al., 2010
 // A phase I/II radiation dose escalation study with concurrent chemotherapy for patients with inoperable stages I to III non-small-cell lung cancer: phase I results of RTOG 0117.
-/// Bradley et al., 2010
+/// The maximum tolerated dose was determined to be 74 Gy/37 fractions (2.0 Gy per fraction) using three-dimensional conformal radiation therapy with concurrent paclitaxel and carboplatin therapy. 
 article '20457350
 
   index: hide

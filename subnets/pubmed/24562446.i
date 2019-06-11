@@ -2,7 +2,7 @@
 
 / Vansteenkiste et al., 2015
 // 2nd ESMO Consensus Conference on Lung Cancer: early-stage non-small-cell lung cancer consensus on diagnosis, treatment and follow-up.
-/// Vansteenkiste et al., 2015
+/// To complement the existing treatment guidelines for all tumour types, ESMO organises consensus conferences to focus on specific issues in each type of tumour. 
 article '24562446
 
 

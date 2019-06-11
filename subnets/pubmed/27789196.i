@@ -2,7 +2,7 @@
 
 / Gomez et al., 2017
 // Local consolidative therapy versus maintenance therapy or observation for patients with oligometastatic non-small-cell lung cancer without progression after first-line systemic therapy: a multicentre, randomised, controlled, phase 2 study.
-/// Gomez et al., 2017
+/// Local consolidative therapy with or without maintenance therapy for patients with three or fewer metastases from NSCLC that did not progress after initial systemic therapy improved progression-free survival compared with maintenance therapy alone. 
 article '27789196
 
   index: hide

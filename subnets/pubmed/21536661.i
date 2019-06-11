@@ -2,7 +2,7 @@
 
 / Felip et al., 2011
 // Metastatic non-small-cell lung cancer: consensus on pathology and molecular tests, first-line, second-line, and third-line therapy: 1st ESMO Consensus Conference in Lung Cancer; Lugano 2010.
-/// Felip et al., 2011
+/// The 1st ESMO Consensus Conference on lung cancer was held in Lugano, Switzerland on 21 and 22 May 2010 with the participation of a multidisciplinary panel of leading professionals in pathology and molecular diagnostics, medical oncology, surgical oncology and radiation oncology. 
 article '21536661
 
 

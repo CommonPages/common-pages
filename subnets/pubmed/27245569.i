@@ -2,7 +2,7 @@
 
 / Ali et al., 2017
 // Comprehensive Genomic Profiling Identifies a Subset of Crizotinib-Responsive ALK-Rearranged Non-Small Cell Lung Cancer Not Detected by Fluorescence In Situ Hybridization.
-/// Ali et al., 2017
+/// For patients with non-small cell lung cancer (NSCLC) to benefit from ALK inhibitors, sensitive and specific detection of ALK genomic rearrangements is needed. 
 article '27245569
 
 

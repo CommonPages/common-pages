@@ -2,7 +2,7 @@
 
 / Keall et al., 2006
 // The management of respiratory motion in radiation oncology report of AAPM Task Group 76.
-/// Keall et al., 2006
+/// This document is the report of a task group of the AAPM and has been prepared primarily to advise medical physicists involved in the external-beam radiation therapy of patients with thoracic, abdominal, and pelvic tumors affected by respiratory motion. 
 article '17089851
 
 

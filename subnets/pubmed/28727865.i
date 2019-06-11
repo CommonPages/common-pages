@@ -2,7 +2,7 @@
 
 / Chang et al., 2017
 // Proton Beam Radiotherapy and Concurrent Chemotherapy for Unresectable Stage III Non-Small Cell Lung Cancer: Final Results of a Phase 2 Study.
-/// Chang et al., 2017
+/// Proton beam radiotherapy (PBT) has the potential to reduce toxic effects in the definitive management of locally advanced non-small cell lung cancer (NSCLC), but long-term prospective data are lacking. 
 article '28727865
 
 

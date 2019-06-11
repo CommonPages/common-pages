@@ -2,7 +2,7 @@
 
 / Deslauriers et al., 1989
 // Carcinoma of the lung. Evaluation of satellite nodules as a factor influencing prognosis after resection.
-/// Deslauriers et al., 1989
+/// Satellite nodules are considered to be predictive of poor prognosis in breast cancer and in melanoma. 
 article '2927156
 
 

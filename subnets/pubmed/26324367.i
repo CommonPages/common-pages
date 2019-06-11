@@ -2,7 +2,7 @@
 
 / Masters et al., 2016
 // Systemic Therapy for Stage IV Non-Small-Cell Lung Cancer: American Society of Clinical Oncology Clinical Practice Guideline Update.
-/// Masters et al., 2016
+/// There is no cure for patients with stage IV NSCLC. 
 article '26324367
 
   index: hide

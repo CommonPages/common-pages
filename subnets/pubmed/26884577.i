@@ -2,7 +2,7 @@
 
 / Melosky et al., 2017
 // Pointed Progress in Second-Line Advanced Non-Small-Cell Lung Cancer: The Rapidly Evolving Field of Checkpoint Inhibition.
-/// Melosky et al., 2017
+/// Non-small-cell lung cancer (NSCLC) is globally prevalent and associated with high rates of mortality. 
 article '26884577
 
 

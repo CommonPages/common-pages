@@ -2,7 +2,7 @@
 
 / Pourel et al., 2008
 // Concurrent cisplatin/etoposide plus 3D-conformal radiotherapy followed by surgery for stage IIB (superior sulcus T3N0)/III non-small cell lung cancer yields a high rate of pathological complete response.
-/// Pourel et al., 2008
+/// Surgery was feasible after induction chemoradiation, particularly lobectomy in PS 0-1, stage IIB (Pancoast)/III NSCLC pts but pneumonectomy carries a high risk of postoperative death (particularly, right pneumonectomy). 
 article '18367406
 
   index: hide

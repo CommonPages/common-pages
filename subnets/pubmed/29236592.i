@@ -2,7 +2,7 @@
 
 / Francis et al., 2018
 // Sequencing of Postoperative Radiotherapy and Chemotherapy for Locally Advanced or Incompletely Resected Non-Small-Cell Lung Cancer.
-/// Francis et al., 2018
+/// Purpose Although several feasibility studies have demonstrated the safety of adjuvant concurrent chemoradiotherapy (CRT) for locally advanced or incompletely resected non-small-cell lung cancer (NSCLC), it remains uncertain whether this approach is superior to sequential chemotherapy followed by postoperative radiotherapy (C→PORT). 
 article '29236592
 
 

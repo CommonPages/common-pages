@@ -2,7 +2,7 @@
 
 / Gainor et al., 2014
 // Novel targets in non-small cell lung cancer: ROS1 and RET fusions.
-/// Gainor et al., 2014
+/// The discovery of chromosomal rearrangements involving the anaplastic lymphoma kinase (ALK) gene in non-small cell lung cancer (NSCLC) has stimulated renewed interest in oncogenic fusions as potential therapeutic targets. 
 article '23814043
 
 

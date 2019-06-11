@@ -2,7 +2,7 @@
 
 / Gatalica et al., 2018
 // Molecular characterization of cancers with NTRK gene fusions.
-/// Gatalica et al., 2018
+/// Targeted inhibitors of neurotropic tyrosine kinases are highly effective in selected patients with gene fusions involving NTRK1, NTRK2, or NTRK3. 
 article '30171197
 
 

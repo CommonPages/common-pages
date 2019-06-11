@@ -2,7 +2,7 @@
 
 / Sequist et al., 2008
 // First-line gefitinib in patients with advanced non-small-cell lung cancer harboring somatic EGFR mutations.
-/// Sequist et al., 2008
+/// First-line therapy with gefitinib administered in a genotype-directed fashion to patients with advanced NSCLC harboring EGFR mutations results in very favorable clinical outcomes with good tolerance. 
 article '18458038
 
   index: hide

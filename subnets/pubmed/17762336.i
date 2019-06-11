@@ -2,7 +2,7 @@
 
 / Goldstraw et al., 2007
 // The IASLC Lung Cancer Staging Project: proposals for the revision of the TNM stage groupings in the forthcoming (seventh) edition of the TNM Classification of malignant tumours.
-/// Goldstraw et al., 2007
+/// Such changes, if accepted, will involve a reassessment of existing treatment algorithms. 
 article '17762336
 
   index: hide

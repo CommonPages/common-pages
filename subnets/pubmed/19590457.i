@@ -2,7 +2,7 @@
 
 / Ernst et al., 2009
 // Efficacy of endobronchial ultrasound-guided transbronchial needle aspiration of hilar lymph nodes for diagnosing and staging cancer.
-/// Ernst et al., 2009
+/// No complications occurred. 
 article '19590457
 
   index: hide

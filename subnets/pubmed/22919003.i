@@ -2,7 +2,7 @@
 
 / Davies et al., 2013
 // Identifying and targeting ROS1 gene fusions in non-small cell lung cancer.
-/// Davies et al., 2013
+/// ROS1 inhibition may be an effective treatment strategy for the subset of patients with NSCLC whose tumors express ROS1 fusion genes. 
 article '22919003
 
   index: hide

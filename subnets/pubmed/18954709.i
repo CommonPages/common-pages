@@ -2,7 +2,7 @@
 
 / Chang et al., 2008
 // Stereotactic body radiation therapy in centrally and superiorly located stage I or isolated recurrent non-small-cell lung cancer.
-/// Chang et al., 2008
+/// Image-guided SBRT using 50 Gy delivered in four fractions is feasible and resulted in excellent local control. 
 article '18954709
 
   index: hide

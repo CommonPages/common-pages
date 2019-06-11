@@ -2,7 +2,7 @@
 
 / Meyers et al., 2006
 // Cost-effectiveness of routine mediastinoscopy in computed tomography- and positron emission tomography-screened patients with stage I lung cancer.
-/// Meyers et al., 2006
+/// Patients with clinical stage I lung cancer staged by computed tomography and positron emission tomography benefit little from mediastinoscopy. 
 article '16580440
 
   index: hide

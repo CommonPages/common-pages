@@ -2,7 +2,7 @@
 
 / Hays et al., 2011
 // Adverse effects and tolerability of medications for the treatment of tobacco use and dependence.
-/// Hays et al., 2011
+/// Tobacco use is the leading cause of preventable death and disability in the world. 
 article '21142259
 
 

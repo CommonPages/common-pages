@@ -2,7 +2,7 @@
 
 / Kozower et al., 2013
 // Special treatment issues in non-small cell lung cancer: Diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines.
-/// Kozower et al., 2013
+/// Carefully selected patients with more uncommon presentations of lung cancer may benefit from an aggressive surgical approach. 
 article '23649447
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Tournoy et al., 2012
 // Mediastinal staging of lung cancer: novel concepts.
-/// Tournoy et al., 2012
+/// Clinical TNM staging is the standard method used to decide treatment for patients with non-small-cell lung cancer. 
 article '22554550
 
 

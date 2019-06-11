@@ -2,7 +2,7 @@
 
 / Detterbeck et al., 2009
 // The new lung cancer staging system.
-/// Detterbeck et al., 2009
+/// The International Association for the Study of Lung Cancer (IASLC) has conducted an extensive initiative to inform the revision of the lung cancer staging system. 
 article '19584208
 
 

@@ -2,7 +2,7 @@
 
 / Shimizu et al., 1990
 // Studies of the mortality of A-bomb survivors. 9. Mortality, 1950-1985: Part 2. Cancer mortality based on the recently revised doses (DS86).
-/// Shimizu et al., 1990
+/// The present study, the ninth in a series that began in 1961, extends the time of surveillance 3 more years and covers the period 1950-1985. 
 article '2305030
 
 

@@ -2,7 +2,7 @@
 
 / Timmerman et al., 2015
 // Emergence of stereotactic body radiation therapy and its impact on current and future clinical practice.
-/// Timmerman et al., 2015
+/// Stereotactic body radiation therapy (SBRT) is generally a tumor-ablative radiation modality using essential technologies capable of accurately and precisely damaging the target with a high dose while geometrically sparing innocent normal tissues. 
 article '25113761
 
 

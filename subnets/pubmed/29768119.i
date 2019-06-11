@@ -2,7 +2,7 @@
 
 / Camidge et al., 2018
 // Exploratory Analysis of Brigatinib Activity in Patients With Anaplastic Lymphoma Kinase-Positive Non-Small-Cell Lung Cancer and Brain Metastases in Two Clinical Trials.
-/// Camidge et al., 2018
+/// Purpose In patients with crizotinib-treated, anaplastic lymphoma kinase gene ( ALK)-rearranged non-small-cell lung cancer (ALK-positive NSCLC), initial disease progression often occurs in the CNS. 
 article '29768119
 
 

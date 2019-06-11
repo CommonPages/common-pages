@@ -2,7 +2,7 @@
 
 / Yankelevitz et al., 2016
 // CT Screening for Lung Cancer: Nonsolid Nodules in Baseline and Annual Repeat Rounds.
-/// Yankelevitz et al., 2016
+/// Nonsolid nodules of any size can be safely followed with CT at 12-month intervals to assess transition to part-solid. 
 article '26101879
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Tsao et al., 2005
 // Erlotinib in lung cancer - molecular and clinical predictors of outcome.
-/// Tsao et al., 2005
+/// Among patients with non-small-cell lung cancer who receive erlotinib, the presence of an EGFR mutation may increase responsiveness to the agent, but it is not indicative of a survival benefit. 
 article '16014883
 
   index: hide
@@ -13,7 +13,7 @@ article '16014883
 
   >>>
     <div class="Citation Citation--inline"><div class="Citation-body">
-    <div class="Citation-text">Tsao MS, Sakurada A, Cutz JC, et al.: Erlotinib in lung cancer - molecular and clinical predictors of outcome. N Engl J Med 353 (2): 133-44, 2005.</div>
+    <div class="Citation-text">Tsao MS, Sakurada A, Cutz JC, et al. Erlotinib in lung cancer - molecular and clinical predictors of outcome. N Engl J Med 2005;353:133-144.</div>
     <div class="Citation-links">
     <div class="CitationLink" data-href="https://www.ncbi.nlm.nih.gov/pubmed/16014883">
     <div class="CitationLink-icon CitationLink-Pubmed"></div>

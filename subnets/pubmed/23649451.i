@@ -2,7 +2,7 @@
 
 / Colt et al., 2013
 // Follow-up and surveillance of the patient with lung cancer after curative-intent therapy: Diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines.
-/// Colt et al., 2013
+/// There is a paucity of well-designed prospective studies specifically targeting follow-up and surveillance modalities aimed at improving survival or QOL after curative-intent therapy. 
 article '23649451
 
   index: hide

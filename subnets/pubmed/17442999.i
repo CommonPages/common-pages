@@ -2,7 +2,7 @@
 
 / Pepe et al., 2007
 // Adjuvant vinorelbine and cisplatin in elderly patients: National Cancer Institute of Canada and Intergroup Study JBR.10.
-/// Pepe et al., 2007
+/// Despite elderly patients' receiving less chemotherapy, adjuvant vinorelbine and cisplatin improves survival in patients older than 65 years with acceptable toxicity. 
 article '17442999
 
   index: hide

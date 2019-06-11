@@ -2,7 +2,7 @@
 
 / Riely et al., 2016
 // EGFR: The Paradigm of an Oncogene-Driven Lung Cancer.
-/// Riely et al., 2016
+/// Somatic, activating mutations in EGFR identify a significant minority of patients with non-small cell lung cancer (NSCLC). 
 article '25979928
 
 

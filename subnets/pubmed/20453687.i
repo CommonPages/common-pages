@@ -2,7 +2,7 @@
 
 / Tanvetyanon et al., 2010
 // Relationship between tumor size and survival among patients with resection of multiple synchronous lung cancers.
-/// Tanvetyanon et al., 2010
+/// Among patients with resected multiple synchronous NSCLC, tumor size is an independent predictor of survival. 
 article '20453687
 
   index: hide

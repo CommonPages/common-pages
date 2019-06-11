@@ -2,7 +2,7 @@
 
 / Rizvi et al., 2015
 // Activity and safety of nivolumab, an anti-PD-1 immune checkpoint inhibitor, for patients with advanced, refractory squamous non-small-cell lung cancer (CheckMate 063): a phase 2, single-arm trial.
-/// Rizvi et al., 2015
+/// Nivolumab has clinically meaningful activity and a manageable safety profile in previously treated patients with advanced, refractory, squamous non-small cell lung cancer. 
 article '25704439
 
   index: hide

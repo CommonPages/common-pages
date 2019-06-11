@@ -2,7 +2,7 @@
 
 / Henry et al., 2014
 // Delaying skeletal-related events in a randomized phase 3 study of denosumab versus zoledronic acid in patients with advanced cancer: an analysis of data from patients with solid tumors.
-/// Henry et al., 2014
+/// Denosumab was more effective in delaying or preventing SREs in patients with bone metastases from solid tumors and also prevented pain progression compared to ZA in this ad hoc analysis. 
 article '24162260
 
   index: hide

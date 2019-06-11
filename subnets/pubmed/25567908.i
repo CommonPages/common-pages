@@ -2,7 +2,7 @@
 
 / Drilon et al., 2016
 // Broad, Hybrid Capture-Based Next-Generation Sequencing Identifies Actionable Genomic Alterations in Lung Adenocarcinomas Otherwise Negative for Such Alterations by Other Genomic Testing Approaches.
-/// Drilon et al., 2016
+/// Broad, hybrid capture-based NGS identified actionable genomic alterations in 65% [95% confidence interval (CI), 48%-82%] of tumors from never or light smokers with lung cancers deemed without targetable genomic alterations by earlier extensive non-NGS testing. 
 article '25567908
 
   index: hide

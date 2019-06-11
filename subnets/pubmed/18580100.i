@@ -2,7 +2,7 @@
 
 / Dacic, 2008
 // EGFR assays in lung cancer.
-/// Dacic, 2008
+/// The development of small-molecule inhibitors of the epidermal growth factor receptor (EGFR) resulted in new therapeutic options for patients with advanced lung cancer. 
 article '18580100
 
 

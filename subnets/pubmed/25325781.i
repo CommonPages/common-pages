@@ -2,7 +2,7 @@
 
 / Corso et al., 2015
 // Re-evaluation of the role of postoperative radiotherapy and the impact of radiation dose for non-small-cell lung cancer using the National Cancer Database.
-/// Corso et al., 2015
+/// PORT delivered with modern techniques with appropriate doses continues to demonstrate a survival benefit in patients with positive mediastinal nodal metastases, and therefore should remain a standard of care for this population. 
 article '25325781
 
   index: hide

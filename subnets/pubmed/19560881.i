@@ -2,7 +2,7 @@
 
 / Spoelstra et al., 2010
 // Variations in target volume definition for postoperative radiotherapy in stage III non-small-cell lung cancer: analysis of an international contouring study.
-/// Spoelstra et al., 2010
+/// Even among experts, significant interclinician variations are observed in PORT fields. 
 article '19560881
 
   index: hide

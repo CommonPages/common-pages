@@ -2,7 +2,7 @@
 
 / Felip et al., 2010
 // Preoperative chemotherapy plus surgery versus surgery plus adjuvant chemotherapy versus surgery alone in early-stage non-small-cell lung cancer.
-/// Felip et al., 2010
+/// In early-stage patients, no statistically significant differences in disease-free survival were found with the addition of preoperative or adjuvant chemotherapy to surgery. 
 article '20516435
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Paik et al., 2016
 // Response to MET inhibitors in patients with stage IV lung adenocarcinomas harboring MET mutations causing exon 14 skipping.
-/// Paik et al., 2016
+/// Oncogenic mutations in the MET exon 14 splice sites that cause exon 14 skipping occur in 4% of lung adenocarcinomas. 
 article '25971939
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Webb et al., 1991
 // CT and MR imaging in staging non-small cell bronchogenic carcinoma: report of the Radiologic Diagnostic Oncology Group.
-/// Webb et al., 1991
+/// The accuracies of magnetic resonance (MR) imaging and computed tomography (CT) in determining tumor classification and assessing mediastinal node metastases were compared in a prospective cooperative study of 170 patients with non-small cell bronchogenic carcinoma. 
 article '1847239
 
 

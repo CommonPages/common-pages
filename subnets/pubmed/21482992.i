@@ -2,7 +2,7 @@
 
 / Keedy et al., 2011
 // American Society of Clinical Oncology provisional clinical opinion: epidermal growth factor receptor (EGFR) Mutation testing for patients with advanced non-small-cell lung cancer considering first-line EGFR tyrosine kinase inhibitor therapy.
-/// Keedy et al., 2011
+/// An American Society of Clinical Oncology (ASCO) provisional clinical opinion (PCO) offers timely clinical direction to ASCO's membership following publication or presentation of potentially practice-changing data from major studies. 
 article '21482992
 
 

@@ -2,7 +2,7 @@
 
 / Dosoretz et al., 1993
 // Local control in medically inoperable lung cancer: an analysis of its importance in outcome and factors determining the probability of tumor eradication.
-/// Dosoretz et al., 1993
+/// Radical radiation therapy is an effective treatment for small (T1 or &lt; 3 cm) tumors when treated to doses of 65 Gy or more, and should be offered as an alternative to surgery in elderly or infirm patients. 
 article '8226142
 
   index: hide

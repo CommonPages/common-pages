@@ -2,7 +2,7 @@
 
 / Deygas et al., 2001
 // Cryotherapy in early superficial bronchogenic carcinoma.
-/// Deygas et al., 2001
+/// Our results suggest that cryotherapy is an effective method of treatment in patients with ESBC. 
 article '11451811
 
   index: hide

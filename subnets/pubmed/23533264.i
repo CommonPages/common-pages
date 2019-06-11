@@ -2,7 +2,7 @@
 
 / Drilon et al., 2014
 // Response to Cabozantinib in patients with RET fusion-positive lung adenocarcinomas.
-/// Drilon et al., 2014
+/// The discovery of RET fusions in lung cancers has uncovered a new therapeutic target for patients whose tumors harbor these changes. 
 article '23533264
 
 

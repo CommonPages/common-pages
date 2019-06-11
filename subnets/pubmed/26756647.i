@@ -2,7 +2,7 @@
 
 / Kerr et al., 2016
 // Programmed Death Ligand-1 Immunohistochemistry: Friend or Foe?
-/// Kerr et al., 2016
+/// The approval of anti-programmed death receptor (PD)-1 therapies for non-small cell lung cancer has directed the spotlight on programmed death ligand-1 (PD-L1) immunohistochemistry as the latest predictive biomarker potentially required in this disease. 
 article '26756647
 
 

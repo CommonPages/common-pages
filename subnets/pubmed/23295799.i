@@ -2,7 +2,7 @@
 
 / Chen et al., 2013
 // Palliative radiation therapy practice in patients with metastatic non-small-cell lung cancer: a Cancer Care Outcomes Research and Surveillance Consortium (CanCORS) Study.
-/// Chen et al., 2013
+/// When palliative RT is used in patients with metastatic NSCLC, a substantial proportion of patients receive a greater number of treatments and higher doses than supported by current evidence, suggesting an opportunity to improve care delivery. 
 article '23295799
 
   index: hide

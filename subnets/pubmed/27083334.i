@@ -2,7 +2,7 @@
 
 / Park et al., 2017
 // Afatinib versus gefitinib as first-line treatment of patients with EGFR mutation-positive non-small-cell lung cancer (LUX-Lung 7): a phase 2B, open-label, randomised controlled trial.
-/// Park et al., 2017
+/// The irreversible ErbB family blocker afatinib and the reversible EGFR tyrosine kinase inhibitor gefitinib are approved for first-line treatment of EGFR mutation-positive non-small-cell lung cancer (NSCLC). 
 article '27083334
 
 

@@ -2,7 +2,7 @@
 
 / van den Berg et al., 2016
 // Patterns of Recurrence and Survival after Surgery or Stereotactic Radiotherapy for Early Stage NSCLC.
-/// van den Berg et al., 2016
+/// In patients with fluoro-deoxyglucose positron emission tomography/computed tomography-based stage I NSCLC, SABR confers worse locoregional tumor control because of more nodal failures compared with surgery, stressing the need to improve mediastinal and hilar staging. 
 article '25629639
 
   index: hide

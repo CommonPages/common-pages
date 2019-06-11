@@ -2,7 +2,7 @@
 
 / Paik et al., 2013
 // Response to erlotinib in patients with EGFR mutant advanced non-small cell lung cancers with a squamous or squamous-like component.
-/// Paik et al., 2013
+/// We previously reported that although EGFR mutations are not a feature of pure squamous cell carcinomas (SCC) of the lung, these mutations do occur in adenosquamous carcinomas (AD-SCC) and in rare solid adenocarcinomas, both of which can mimic SCC in small samples. 
 article '22896669
 
 

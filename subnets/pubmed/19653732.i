@@ -2,7 +2,7 @@
 
 / Husain et al., 2009
 // Guidelines for pathologic diagnosis of malignant mesothelioma: a consensus statement from the International Mesothelioma Interest Group.
-/// Husain et al., 2009
+/// There was consensus opinion regarding (1) distinguishing benign from malignant mesothelial proliferations (both epithelioid and spindle cell lesions), (2) cytologic diagnosis of MM, (3) key histologic features of pleural and peritoneal MM, (4) use of histochemical and immunohistochemical stains in the diagnosis and differential diagnosis of MM, (5) differentiating epithelioid MM from various carcinomas (lung, breast, ovarian, and colonic adenocarcinomas and squamous cell and renal cell carcinomas), (6) diagnosis of sarcomatoid mesothelioma, (7) use of molecular markers in the differential diagnosis of MM, (8) electron microscopy in the diagnosis of MM, and (9) some caveats and pitfalls in the diagnosis of MM. 
 article '19653732
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Marks et al., 2010
 // Radiation dose-volume effects in the lung.
-/// Marks et al., 2010
+/// The three-dimensional dose, volume, and outcome data for lung are reviewed in detail. 
 article '20171521
 
 

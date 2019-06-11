@@ -2,7 +2,7 @@
 
 / Koegelenberg et al., 2014
 // Efficacy of varenicline combined with nicotine replacement therapy vs varenicline alone for smoking cessation: a randomized clinical trial.
-/// Koegelenberg et al., 2014
+/// Varenicline in combination with NRT was more effective than varenicline alone at achieving tobacco abstinence at 12 weeks (end of treatment) and at 6 months. 
 article '25005652
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Cardarella et al., 2014
 // Clinical, pathologic, and biologic features associated with BRAF mutations in non-small cell lung cancer.
-/// Cardarella et al., 2014
+/// BRAF mutations occur in 4% of NSCLCs and half are non-V600E. 
 article '23833300
 
   index: hide

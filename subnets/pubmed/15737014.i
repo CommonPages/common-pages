@@ -2,7 +2,7 @@
 
 / Pao et al., 2006
 // Acquired resistance of lung adenocarcinomas to gefitinib or erlotinib is associated with a second mutation in the EGFR kinase domain.
-/// Pao et al., 2006
+/// In patients with tumors bearing gefitinib- or erlotinib-sensitive EGFR mutations, resistant subclones containing an additional EGFR mutation emerge in the presence of drug. 
 article '15737014
 
   index: hide

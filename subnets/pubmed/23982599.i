@@ -2,7 +2,7 @@
 
 / Dungo et al., 2014
 // Afatinib: first global approval.
-/// Dungo et al., 2014
+/// Afatinib, an irreversible inhibitor of the ErbB family of tyrosine kinases, is under development with Boehringer Ingelheim for the once-daily, oral treatment of cancer. 
 article '23982599
 
 

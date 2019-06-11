@@ -2,7 +2,7 @@
 
 / Ichinose et al., 2001
 // Overall survival and local recurrence of 406 completely resected stage IIIa-N2 non-small cell lung cancer patients: questionnaire survey of the Japan Clinical Oncology Group to plan for clinical trials.
-/// Ichinose et al., 2001
+/// the number of N2 stations (single vs. multiple N2 stations) was found to be a useful prognostic factor, which can separate completely resected stage IIIA-N2 patients into high and low risk groups regarding both the overall survival and local recurrence. 
 article '11557110
 
   index: hide

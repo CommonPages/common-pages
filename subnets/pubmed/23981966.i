@@ -2,7 +2,7 @@
 
 / Choy et al., 2014
 // Phase 2 study of pemetrexed plus carboplatin, or pemetrexed plus cisplatin with concurrent radiation therapy followed by pemetrexed consolidation in patients with favorable-prognosis inoperable stage IIIA/B non-small-cell lung cancer.
-/// Choy et al., 2014
+/// Because of study design, efficacy comparisons cannot be made. 
 article '23981966
 
   index: hide

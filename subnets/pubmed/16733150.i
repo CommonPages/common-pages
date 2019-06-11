@@ -2,7 +2,7 @@
 
 / Cerfolio et al., 2006
 // Restaging patients with N2 (stage IIIa) non-small cell lung cancer after neoadjuvant chemoradiotherapy: a prospective study.
-/// Cerfolio et al., 2006
+/// Repeat integrated PET/CT is superior to repeat CT for the restaging of patients with stage IIIa non-small cell lung cancer. 
 article '16733150
 
   index: hide

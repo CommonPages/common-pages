@@ -2,7 +2,7 @@
 
 / Zhou et al., 2014
 // Accurate and economical detection of ALK positive lung adenocarcinoma with semiquantitative immunohistochemical screening.
-/// Zhou et al., 2014
+/// Right detection of anaplastic lymphoma kinase (ALK) gene rearrangement is pivotal to selection of patients with lung adenocarcinoma for ALK-targeted therapy. 
 article '24667320
 
 

@@ -2,7 +2,7 @@
 
 / Socinski et al., 2001
 // Dose-escalating conformal thoracic radiation therapy with induction and concurrent carboplatin/paclitaxel in unresectable stage IIIA/B nonsmall cell lung carcinoma: a modified phase I/II trial.
-/// Socinski et al., 2001
+/// Incorporation of TCRT with sequential and concurrent carboplatin/paclitaxel is feasible, and dose escalation of TCRT to 74 Gy is possible with acceptable toxicity. 
 article '11571735
 
   index: hide

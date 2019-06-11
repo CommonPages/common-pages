@@ -2,7 +2,7 @@
 
 / Douillard et al., 2014
 // First-line gefitinib in Caucasian EGFR mutation-positive NSCLC patients: a phase-IV, open-label, single-arm study.
-/// Douillard et al., 2014
+/// First-line gefitinib was effective and well tolerated in Caucasian patients with EGFR mutation-positive NSCLC. 
 article '24263064
 
   index: hide

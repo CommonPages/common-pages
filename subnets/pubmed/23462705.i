@@ -2,7 +2,7 @@
 
 / Senthi et al., 2013
 // Outcomes of stereotactic ablative radiotherapy for central lung tumours: a systematic review.
-/// Senthi et al., 2013
+/// Post-SABR survival for early-stage NSCLC is not affected by tumour location. 
 article '23462705
 
   index: hide

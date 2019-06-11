@@ -2,7 +2,7 @@
 
 / Bergethon et al., 2012
 // ROS1 rearrangements define a unique molecular class of lung cancers.
-/// Bergethon et al., 2012
+/// ROS1 rearrangement defines a molecular subset of NSCLC with distinct clinical characteristics that are similar to those observed in patients with ALK-rearranged NSCLC. 
 article '22215748
 
   index: hide

@@ -2,7 +2,7 @@
 
 / McLoud et al., 1992
 // Bronchogenic carcinoma: analysis of staging in the mediastinum with CT by correlative lymph node mapping and sampling.
-/// McLoud et al., 1992
+/// One hundred forty-three patients with bronchogenic carcinoma were studied prospectively with computed tomography (CT) to determine the accuracy of CT in the evaluation of mediastinal nodal metastases. 
 article '1732943
 
 

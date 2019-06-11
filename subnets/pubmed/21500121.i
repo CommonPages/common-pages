@@ -2,7 +2,7 @@
 
 / Travis et al., 2011
 // Pathological diagnosis and classification of lung cancer in small biopsies and cytology: strategic management of tissue for molecular testing.
-/// Travis et al., 2011
+/// Standardized lung cancer classifications by the World Health Organization have traditionally been based on the histological characteristics of resected tumors with little guidance about diagnosis based on small biopsies and cytology. 
 article '21500121
 
 

@@ -2,7 +2,7 @@
 
 / Mauguen et al., 2012
 // Hyperfractionated or accelerated radiotherapy in lung cancer: an individual patient data meta-analysis.
-/// Mauguen et al., 2012
+/// Patients with nonmetastatic NSCLC derived a significant OS benefit from accelerated or hyperfractionated radiotherapy; a similar but nonsignificant trend was observed for SCLC. 
 article '22753901
 
   index: hide

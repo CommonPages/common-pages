@@ -2,7 +2,7 @@
 
 / Calman et al., 2012
 // Survival benefits from follow-up of patients with lung cancer: a systematic review and meta-analysis.
-/// Calman et al., 2012
+/// This meta-analysis must be interpreted with caution due to the potential for bias in the included studies: observed benefit may be due to systematic differences in outcomes rather than intervention effects. 
 article '21892108
 
   index: hide

@@ -2,7 +2,7 @@
 
 / Chang et al., 2014
 // Stereotactic ablative radiation therapy for centrally located early stage or isolated parenchymal recurrences of non-small cell lung cancer: how to fly in a &quot;no fly zone&quot;.
-/// Chang et al., 2014
+/// SABR for centrally located lesions produces clinical outcomes similar to those for peripheral lesions when normal tissue constraints are respected. 
 article '24661665
 
   index: hide

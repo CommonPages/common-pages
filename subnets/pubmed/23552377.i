@@ -2,7 +2,7 @@
 
 / Lindeman et al., 2014
 // Molecular testing guideline for selection of lung cancer patients for EGFR and ALK tyrosine kinase inhibitors: guideline from the College of American Pathologists, International Association for the Study of Lung Cancer, and Association for Molecular Pathology.
-/// Lindeman et al., 2014
+/// The 37 guideline items address 14 subjects, including 15 recommendations (evidence grade A/B). 
 article '23552377
 
   index: hide

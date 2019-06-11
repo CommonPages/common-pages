@@ -2,7 +2,7 @@
 
 / Ware et al., 2013
 // Cardiovascular safety of varenicline: patient-level meta-analysis of randomized, blinded, placebo-controlled trials.
-/// Ware et al., 2013
+/// Smoking is a major modifiable risk factor for cardiovascular (CV) disease. 
 article '23615317
 
 

@@ -2,7 +2,7 @@
 
 / Kunkler et al., 2015
 // Review of current best practice and priorities for research in radiation oncology for elderly patients with cancer: the International Society of Geriatric Oncology (SIOG) task force.
-/// Kunkler et al., 2015
+/// Radiotherapy (RT) is a key component of the management of older cancer patients. 
 article '24625455
 
 

@@ -2,7 +2,7 @@
 
 / Bhaskarla et al., 2010
 // Analysis of second primary lung cancers in the SEER database.
-/// Bhaskarla et al., 2010
+/// The incidence of second primary lung cancer is lower than that previously reported. 
 article '20400118
 
   index: hide

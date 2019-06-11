@@ -2,7 +2,7 @@
 
 / Dwamena et al., 1999
 // Metastases from non-small cell lung cancer: mediastinal staging in the 1990s--meta-analytic comparison of PET and CT.
-/// Dwamena et al., 1999
+/// PET is superior to CT for mediastinal staging of non-small cell lung cancer, independent of performance index or clinical context of PET imaging. 
 article '10551237
 
   index: hide

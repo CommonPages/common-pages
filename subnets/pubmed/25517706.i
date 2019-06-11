@@ -2,7 +2,7 @@
 
 / Walker et al., 2015
 // Cytisine versus nicotine for smoking cessation.
-/// Walker et al., 2015
+/// When combined with brief behavioral support, cytisine was found to be superior to nicotine-replacement therapy in helping smokers quit smoking, but it was associated with a higher frequency of self-reported adverse events. 
 article '25517706
 
   index: hide

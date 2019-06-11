@@ -2,7 +2,7 @@
 
 / Liu et al., 2014
 // Clinical impact of dose overestimation by effective path length calculation in stereotactic ablative radiation therapy of lung tumors.
-/// Liu et al., 2014
+/// Clinical follow-up for local lung tumor control in a sizable cohort of patients treated with SABR demonstrates that EPL overestimates dose by amounts that substantially decrease TCP in a large proportion. 
 article '24674401
 
   index: hide

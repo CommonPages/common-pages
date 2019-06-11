@@ -2,7 +2,7 @@
 
 / Grønberg et al., 2009
 // Phase III study by the Norwegian lung cancer study group: pemetrexed plus carboplatin compared with gemcitabine plus carboplatin as first-line chemotherapy in advanced non-small-cell lung cancer.
-/// Grønberg et al., 2009
+/// PURPOSE To compare pemetrexed/carboplatin with a standard regimen as first-line therapy in advanced non-small-cell lung cancer NSCLC. 
 article '19433683
 
 

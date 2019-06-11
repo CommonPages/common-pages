@@ -2,7 +2,7 @@
 
 / O'Kane et al., 2018
 // Uncommon EGFR mutations in advanced non-small cell lung cancer.
-/// O'Kane et al., 2018
+/// Molecular profiling in advanced non-small cell lung cancer (NSCLC) has allowed for the detection of actionable mutations, which has revolutionized the treatment paradigm in this highly fatal disease. 
 article '28577943
 
 

@@ -2,7 +2,7 @@
 
 / De Ruysscher et al., 2013
 // Radical treatment of non-small-cell lung cancer patients with synchronous oligometastases: long-term results of a prospective phase II trial (Nct01282450).
-/// De Ruysscher et al., 2013
+/// In this phase II study, long-term PFS was found in a subgroup of NSCLC patients with synchronous oligometastases when treated radically. 
 article '22982655
 
   index: hide
