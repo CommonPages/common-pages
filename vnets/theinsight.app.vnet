@@ -17,5 +17,10 @@ subnets:
   - "$os-chem"
   - "$os-physics"
   - "$os-stat"
-  - "$pti-cancer"
+  - "$os-life"
+  # # ——————————
+  # - "$os"
+  # - "$os-cancer"
+  # - "$os-nsclc"
+  # - "$pti-cancer"
   - "$pubmed"

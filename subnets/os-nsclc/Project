@@ -1,0 +1,15 @@
+
+id: "$os-nsclc"
+name: "OS - Lung Cancer"
+lead: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+theme:
+  logo: "//static.theinsight.cloud/icons/pti.ico"
+# links:
+#  - text: Home
+#    location: "/os-nsclc"
+network: "theinsight.app"
+authorize:
+use:
+  - "$os"
+  - "$os-cancer"
+  - "$pubmed"

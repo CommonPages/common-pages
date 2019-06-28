@@ -1,0 +1,2 @@
+
+One reason that the omega-3 fatty acids found in fish are beneficial is that they stimulate the production of certain prostaglandins that help regulate aspects of blood pressure and inflammation, and thereby reduce the risk for heart disease. Prostaglandins also sensitize nerves to pain. One class of pain-relieving medications called nonsteroidal anti-inflammatory drugs (NSAIDs) works by reducing the effects of prostaglandins.
