@@ -2,264 +2,287 @@
 import assets.ap._
 
 import $os-ap.Figures._
+import Basis._
 
-/ Anatomy and Physiology
-/// Anatomy is the scientific study of the body’s structures. Physiology uses chemistry and physics to explain how the structures of the body work together to maintain life.
-model AP
-  >>>
-    Human anatomy is the scientific study of the body’s structures. Human physiology is the scientific study of the chemistry and physics of the structures of the body. Physiology explains how the structures of the body work together to maintain life. It is difficult to study structure (anatomy) without knowledge of function (physiology). The two disciplines are typically studied together because form and function are closely related in all living things.
+--
+  Basis
+#
+# >>>
+#   Life processes of the human body are maintained at several {Structure levels of structural organization}. These include the chemical, cellular, tissue, organ, organ system, and the organism level.
 
-/ Levels of Organization
-/// Life processes of the human body are maintained at several levels of structural organization. These include the chemical, cellular, tissue, organ, organ system, and the organism level.
-model Structure
+--
+  ChemicalOrganization
+  CellularOrganization
+  TissueOrganization
+  Systems
 
-  >>>
-    Life processes of the human body are maintained at several levels of structural organization. Higher levels of organization are built from lower levels. Therefore, molecules combine to form cells, cells combine to form tissues, tissues combine to form organs, organs combine to form organ systems, and organ systems combine to form organisms.
-
-  # {image:'Figure_1_2_1}
-
+/ The Basis of Life
+/// Life processes of the human body are maintained at several levels of structural organization. Their objective is to maintain the physiological state within the parameters that are compatible with life.
+model Basis
   --
-    Chemicals
-    Cells
-    Tissues
-    Organs
-    Systems
-    Organisms
+    Structure
+    Functions
+    Requirements
+    Homeostasis
 
-  / The Chemical Level
-  /// All matter in the universe is composed of one or more unique pure substances called elements. The smallest unit of any of these pure substances (elements) is an atom. Two or more atoms combine to form a molecule. Molecules are the chemical building blocks of all body structures.
-  model Chemicals
-    <<
-      ChemicalOrganization
+  / Anatomy and Physiology
+  /// Anatomy is the scientific study of the body’s structures. Physiology uses chemistry and physics to explain how the structures of the body work together to maintain life.
+  model AP
+    >>>
+      Human anatomy is the scientific study of the body’s structures. Human physiology is the scientific study of the chemistry and physics of the structures of the body. Physiology explains how the structures of the body work together to maintain life. It is difficult to study structure (anatomy) without knowledge of function (physiology). The two disciplines are typically studied together because form and function are closely related in all living things.
+
+  / Levels of Life
+  /// Life processes of the human body are maintained at several levels of structural organization. These include the chemical, cellular, tissue, organ, organ system, and the organism level.
+  model Structure
 
     >>>
-      To study the chemical level of organization, scientists consider the simplest building blocks of matter: subatomic particles, atoms and molecules. All matter in the universe is composed of one or more unique pure substances called elements, familiar examples of which are hydrogen, oxygen, carbon, nitrogen, calcium, and iron. The smallest unit of any of these pure substances (elements) is an atom. Atoms are made up of subatomic particles such as the proton, electron and neutron. Two or more atoms combine to form a molecule, such as the water molecules, proteins, and sugars found in living things. Molecules are the chemical building blocks of all body structures.
+      Life processes of the human body are maintained at several levels of structural organization. Higher levels of organization are built from lower levels. Therefore, molecules combine to form cells, cells combine to form tissues, tissues combine to form organs, organs combine to form organ systems, and organ systems combine to form organisms.
 
-  / The Cellular Level
-  /// A cell is the smallest independently functioning unit of a living organism. In humans, as in all organisms, cells perform all functions of life.
-  model Cells
-    <<
-      Functions
-
-    >>>
-      Even bacteria, which are extremely small, independently-living organisms, have a cellular structure. Each bacterium is a single cell. All living structures of human anatomy contain cells, and almost all functions of human physiology are performed in cells or are initiated by cells.
-
-      A human cell typically consists of flexible membranes that enclose cytoplasm, a water-based cellular fluid together with a variety of tiny functioning units called organelles. In humans, as in all organisms, cells perform all functions of life.
-
-    --- Go deeper
-      CellularOrganization
-
-  / The Tissue Level
-  /// A tissue is a group of many similar cells (though sometimes composed of a few related types) that work together to perform a specific function.
-  model Tissues
-
-    --- Go deepr
-      TissueOrganization
-
-  / The Organ Level
-  /// An organ is an anatomically distinct structure of the body composed of two or more tissue types. Each organ performs one or more specific physiological functions.
-  model Organs
-
-  / The Organ Systems Level
-  /// An organ system is a group of organs that work together to perform major functions or meet physiological needs of the body.
-  model Systems
-    >>>
-      Assigning organs to organ systems can be imprecise since organs that “belong” to one system can also have functions integral to another system. In fact, most organs contribute to more than one system.
-
-  / The Organism Level
-  /// The organism level is the highest level of organization. An organism is a living being that has a cellular structure and that can independently perform all physiologic functions necessary for life.
-  model Organisms
-    >>>
-      In multicellular organisms, including humans, all cells, tissues, organs, and organ systems of the body work together to maintain the life and health of the organism.
-
-/ Functions of Life
-/// The high level functions definitive of human life include: organization, metabolism, responsiveness, movement, development, growth and reproduction.
-model Functions
-
-  >>>
-    Most processes that occur in the human body are not consciously controlled. They occur continuously to build, maintain, and sustain life. These processes include: organization, in terms of the maintenance of essential body boundaries; metabolism, including energy transfer via anabolic and catabolic reactions; responsiveness; movement; and growth, differentiation, reproduction, and renewal.
-
-  --
-    Organization
-    Metabolism
-    Responsiveness
-    Movement
-    Development
-    Growth
-    Reproduction
-
-  /// A human body consists of trillions of cells organized in a way that maintains distinct internal compartments.
-  model Organization
-    >>>
-      A human body consists of trillions of cells organized in a way that maintains distinct internal compartments. These compartments keep body cells separated from external environmental threats and keep the cells moist and nourished. They also separate internal body fluids from the countless microorganisms that grow on body surfaces, including the lining of certain passageways that connect to the outer surface of the body. The intestinal tract, for example, is home to more bacterial cells than the total of all human cells in the body, yet these bacteria are outside the body and cannot be allowed to circulate freely inside the body.
-
-      Cells, for example, have a cell membrane (also referred to as the plasma membrane) that keeps the intracellular environment—the fluids and organelles—separate from the extracellular environment. Blood vessels keep blood inside a closed circulatory system, and nerves and muscles are wrapped in connective tissue sheaths that separate them from surrounding structures. In the chest and abdomen, a variety of internal membranes keep major organs such as the lungs, heart, and kidneys separate from others.
-
-      The body’s largest organ system is the integumentary system, which includes the skin and its associated structures, such as hair and nails. The surface tissue of skin is a barrier that protects internal structures and fluids from potentially harmful microorganisms and other toxins.
-
-  /// The basic function of an organism is to consume energy and resources, convert some of it into fuel for movement, sustain body functions, and build and maintain body structures. Metabolism is the sum of all reactions which accomplish these functions.
-  model Metabolism
-    >>>
-      The first law of thermodynamics holds that energy can neither be created nor destroyed—it can only change form. Your basic function as an organism is to consume (ingest) energy and molecules in the foods you eat, convert some of it into fuel for movement, sustain your body functions, and build and maintain your body structures. There are two types of reactions that accomplish this:
+    # {image:'Figure_1_2_1}
 
     --
-      Anabolism
-      Catabolism
+      Chemicals
+      Cells
+      Tissues
+      Organs
+      Systems
+      Organisms
 
-    >>>
-      Taken together, these two processes are called metabolism. Metabolism is the sum of all anabolic and catabolic reactions that take place in the body. Both anabolism and catabolism occur simultaneously and continuously to keep you alive.
-
-      {image:'Metabolism}
-
-      Every cell in your body makes use of a chemical compound, adenosine triphosphate (ATP)**, to store and release energy. The cell stores energy in the synthesis (anabolism) of ATP, then moves the ATP molecules to the location where energy is needed to fuel cellular activities. Then the ATP is broken down (catabolism) and a controlled amount of energy is released, which is used by the cell to perform a particular job.
-
-
-    /// Anabolism is the process whereby smaller, simpler molecules are combined into larger, more complex substances. Your body can assemble, by utilizing energy, the complex chemicals it needs by combining small molecules derived from the foods you eat.
-    model Anabolism
-
-    /// Catabolism is the process by which larger more complex substances are broken down into smaller simpler molecules. Catabolism releases energy. The complex molecules found in foods are broken down so the body can use their parts to assemble the structures and substances needed for life.
-    model Catabolism
-
-  /// Responsiveness is the ability of an organism to adjust to changes in its internal and external environments.
-  model Responsiveness
-    >>>
-      Responsiveness is the ability of an organism to adjust to changes in its internal and external environments. An example of responsiveness to external stimuli could include moving toward sources of food and water and away from perceived dangers. Changes in an organism’s internal environment, such as increased body temperature, can cause the responses of sweating and the dilation of blood vessels in the skin in order to decrease body temperature.
-
-  /// Movement includes not only actions at the joints of the body, but also the motion of individual organs and even individual cells.
-  model Movement
-    >>>
-      Human movement includes not only actions at the joints of the body, but also the motion of individual organs and even individual cells. As you read these words, red and white blood cells are moving throughout your body, muscle cells are contracting and relaxing to maintain your posture and to focus your vision, and glands are secreting chemicals to regulate body functions. Your body is coordinating the action of entire muscle groups to enable you to move air into and out of your lungs, to push blood throughout your body, and to propel the food you have eaten through your digestive tract. Consciously, of course, you contract your skeletal muscles to move the bones of your skeleton to get from one place to another (as the runners are doing in the figure below) and to carry out all of the activities of your daily life.
-
-      {image:'Runners}
-
-  /// Development is all of the changes the body goes through in life.
-  model Development
-    >>>
-      Development includes the process of differentiation, in which unspecialized cells become specialized in structure and function to perform certain tasks in the body. Development also includes the processes of growth and repair, both of which involve cell differentiation.
-    # >>
-    #   $os-ap.1.1_1.1_1_3.1_1_3_5
-
-  /// Growth is the increase in body size.
-  model Growth
-    >>>
-      Humans, like all multicellular organisms, grow by increasing the number of existing cells, increasing the amount of non-cellular material around cells (such as mineral deposits in bone), and, within very narrow limits, increasing the size of existing cells.
-
-    # >>
-    #   $os-ap.1.1_1.1_1_3.1_1_3_5
-
-  /// Reproduction is the formation of a new organism from parent organisms.
-  model Reproduction
-    >>>
-      In humans, reproduction is carried out by the male and female reproductive systems. Because death will come to all complex organisms, without reproduction, the line of organisms would end.
-    # >>
-    #   $os-ap.1.1_1.1_1_3.1_1_3_5
-
-/ Requirements for Human Life
-/// Humans have been adapting to life on Earth for at least the past 200,000 years. Humans cannot live outside of a certain range of temperature and pressure that the surface of our planet and its atmosphere provides.
-model Requirements
-  >>>
-    Humans cannot survive for more than a few minutes without oxygen, for more than several days without water, and for more than several weeks without carbohydrates, lipids, proteins, vitamins, and minerals. Although the body can respond to high temperatures by sweating and to low temperatures by shivering and increased fuel consumption, long-term exposure to extreme heat and cold is not compatible with survival. The body requires a precise atmospheric pressure to maintain its gases in solution and to facilitate respiration—the intake of oxygen and the release of carbon dioxide. Humans also require blood pressure high enough to ensure that blood reaches all body tissues but low enough to avoid damage to blood vessels.
-
-  --
-    Oxygen
-    Nutrients
-    Temperature
-    Pressure
-
-  /// Oxygen is a key component of the chemical reactions that keep the body alive.
-  model Oxygen
-    >>>
-      Atmospheric air is only about 20 percent oxygen, but that oxygen is a key component of the chemical reactions that keep the body alive, including the reactions that produce ATP. Brain cells are especially sensitive to lack of oxygen because of their requirement for a high-and-steady production of ATP. Brain damage is likely within five minutes without oxygen, and death is likely within ten minutes.
-
-  /// A nutrient is a substance in foods and beverages that is essential to human survival. The three basic classes of nutrients are water, the energy-yielding and body-building macronutrients, and the micronutrients (vitamins and minerals).
-  model Nutrients
-
-    /// The most critical nutrient is water. Water makes up about 70 percent of an adult’s body mass.
-    model Water
-      >>>
-        Depending on the environmental temperature and our state of health, we may be able to survive for only a few days without water. The body’s functional chemicals are dissolved and transported in water, and the chemical reactions of life take place in water. Moreover, water is the largest component of cells, blood, and the fluid between cells, and water makes up about 70 percent of an adult’s body mass. Water also helps regulate our internal temperature and cushions, protects, and lubricates joints and many other body structures.
-
-    /// The energy-yielding macronutrients are primarily carbohydrates and lipids, while proteins mainly supply the amino acids that are the building blocks of the body itself.
-    model Macronutrients
-      >>>
-        The energy-yielding nutrients are primarily carbohydrates and lipids, while proteins mainly supply the amino acids that are the building blocks of the body itself. You ingest these in plant and animal foods and beverages, and the digestive system breaks them down into molecules small enough to be absorbed. The breakdown products of carbohydrates and lipids can then be used in the metabolic processes that convert them to ATP. Although you might feel as if you are starving after missing a single meal, you can survive without consuming the energy-yielding nutrients for at least several weeks.
-
-    /// Micronutrients are vitamins and minerals. These elements and compounds participate in many essential chemical reactions and processes, such as nerve impulses, and some also contribute to the body’s structure.
-    model Micronutrients
-      >>>
-        Your body can store some of the micronutrients in its tissues, and draw on those reserves if you fail to consume them in your diet for a few days or weeks. Some others micronutrients, such as vitamin C and most of the B vitamins, are water-soluble and cannot be stored, so you need to consume them every day or two.
-
-  / Narrow Range of Temperature
-  /// The chemical reactions upon which the body depends can only take place within a narrow range of body temperature, from just below to just above 37°C (98.6°F).
-  model Temperature
-    >>>
-      You have probably seen news stories about athletes who died of heat stroke, or hikers who died of exposure to cold. Such deaths occur because the chemical reactions upon which the body depends can only take place within a narrow range of body temperature, from just below to just above 37°C (98.6°F). When body temperature rises well above or drops well below normal, certain proteins (enzymes) that facilitate chemical reactions lose their normal structure and their ability to function and the chemical reactions of metabolism cannot proceed.
-
-      That said, the body can respond effectively to short-term exposure to heat or cold. One of the body’s responses to heat is, of course, sweating. As sweat evaporates from skin, it removes some thermal energy from the body, cooling it. Adequate water (from the extracellular fluid in the body) is necessary to produce sweat, so adequate fluid intake is essential to balance that loss during the sweat response. Not surprisingly, the sweat response is much less effective in a humid environment because the air is already saturated with water. Thus, the sweat on the skin’s surface is not able to evaporate, and internal body temperature can get dangerously high.
-
-      {image:'Extreme_Heat}
-
-      The body can also respond effectively to short-term exposure to cold. One response to cold is shivering, which is random muscle movement that generates heat. Another response is increased breakdown of stored energy to generate heat. When that energy reserve is depleted, however, and the core temperature begins to drop significantly, red blood cells will lose their ability to give up oxygen, denying the brain of this critical component of ATP production. This lack of oxygen can cause confusion, lethargy, and eventually loss of consciousness and death. The body responds to cold by reducing blood circulation to the extremities, the hands and feet, in order to prevent blood from cooling there and so that the body’s core can stay warm. Even when core body temperature remains stable, however, tissues exposed to severe cold, especially the fingers and toes, can develop frostbite when blood flow to the extremities has been much reduced. This form of tissue damage can be permanent and lead to gangrene, requiring amputation of the affected region.
-
-  /// Atmospheric pressure is pressure exerted by the mixture of gases in the Earth’s atmosphere. Atmospheric pressure is an important requirement for healthy bodily function.
-  model Pressure
-    >>>
-      **Pressure** is a force exerted by a substance that is in contact with another substance. Atmospheric pressure is pressure exerted by the mixture of gases (primarily nitrogen and oxygen) in the Earth’s atmosphere. Although you may not perceive it, atmospheric pressure is constantly pressing down on your body. This pressure keeps gases within your body, such as the gaseous nitrogen in body fluids, dissolved. If you were suddenly ejected from a space ship above Earth’s atmosphere, you would go from a situation of normal pressure to one of very low pressure. The pressure of the nitrogen gas in your blood would be much higher than the pressure of nitrogen in the space surrounding your body. As a result, the nitrogen gas in your blood would expand, forming bubbles that could block blood vessels and even cause cells to break apart.
-
-      Atmospheric pressure does more than just keep blood gases dissolved. Your ability to breathe—that is, to take in oxygen and release carbon dioxide—also depends upon a precise atmospheric pressure. Altitude sickness occurs in part because the atmosphere at high altitudes exerts less pressure, reducing the exchange of these gases, and causing shortness of breath, confusion, headache, lethargy, and nausea. Mountain climbers carry oxygen to reduce the effects of both low oxygen levels and low barometric pressure at higher altitudes.
-
-      {image:'Everest}
-
-      The dynamic pressure of body fluids is also important to human survival. For example, blood pressure, which is the pressure exerted by blood as it flows within blood vessels, must be great enough to enable blood to reach all body tissues, and yet low enough to ensure that the delicate blood vessels can withstand the friction and force of the pulsating flow of pressurized blood.
-
-/// Homeostasis is the activity of cells throughout the body to maintain the physiological state within a narrow range that is compatible with life.
-model Homeostasis
-  >>>
-    Maintaining homeostasis requires that the body continuously monitor its internal conditions. From body temperature to blood pressure to levels of certain nutrients, each physiological condition has a particular set point. Homeostasis is regulated by negative feedback loops and, much less frequently, by positive feedback loops. Both have the same components of a stimulus, sensor, control center, and effector; however, negative feedback loops work to prevent an excessive response to the stimulus, whereas positive feedback loops intensify the response until an end point is reached.
-
-  --
-    SetPoint
-    NegativeFeedback
-    PositiveFeedback
-
-  /// A set point is the physiological value around which the normal range fluctuates. A  normal range is the restricted set of values that is optimally healthful and stable.
-  model SetPoint
-    >>>
-      For example, the set point for normal human body temperature is approximately 37°C (98.6°F) Physiological parameters, such as body temperature and blood pressure, tend to fluctuate within a normal range a few degrees above and below that point. Control centers in the brain and other parts of the body monitor and react to deviations from homeostasis using {NegativeFeedback negative feedback}.
-
-  /// Negative feedback is a mechanism that reverses a deviation from the set point. Negative feedback maintains body parameters within their normal range.
-  model NegativeFeedback
-    >>>
-       The maintenance of homeostasis by negative feedback goes on throughout the body at all times, and an understanding of negative feedback is thus fundamental to an understanding of human physiology.
-
-       A negative feedback system has three basic components:
-
-    -- Components
-      Sensor
-      ControlCenter
-      Effector
-
-    >>
-      partial.negativefeedback
-
-    /// A  sensor, also referred to a receptor, is a component of a feedback system that monitors a physiological value. This value is reported to the control center.
-    model Sensor
+    / The Chemical Level
+    /// All matter in the universe is composed of one or more unique pure substances called elements. The smallest unit of any of these pure substances (elements) is an atom. Two or more atoms combine to form a molecule. Molecules are the chemical building blocks of all body structures.
+    model Chemicals
       <<
+        ChemicalOrganization
+
+      >>>
+        To study the chemical level of organization, scientists consider the simplest building blocks of matter: subatomic particles, atoms and molecules. All matter in the universe is composed of one or more unique pure substances called elements, familiar examples of which are hydrogen, oxygen, carbon, nitrogen, calcium, and iron. The smallest unit of any of these pure substances (elements) is an atom. Atoms are made up of subatomic particles such as the proton, electron and neutron. Two or more atoms combine to form a molecule, such as the water molecules, proteins, and sugars found in living things. Molecules are the chemical building blocks of all body structures.
+
+    / The Cellular Level
+    /// A cell is the smallest independently functioning unit of a living organism. In humans, as in all organisms, cells perform all functions of life.
+    model Cells
+      <<
+        Functions
+        CellularOrganization
+
+      >>>
+        Even bacteria, which are extremely small, independently-living organisms, have a cellular structure. Each bacterium is a single cell. All living structures of human anatomy contain cells, and almost all functions of human physiology are performed in cells or are initiated by cells.
+
+        A human cell typically consists of flexible membranes that enclose cytoplasm, a water-based cellular fluid together with a variety of tiny functioning units called organelles. In humans, as in all organisms, cells perform all functions of life.
+
+    / The Tissue Level
+    /// A tissue is a group of many similar cells (though sometimes composed of a few related types) that work together to perform a specific function.
+    model Tissues
+      <<
+        TissueOrganization
+
+    / The Organ Level
+    /// An organ is an anatomically distinct structure of the body composed of two or more tissue types. Each organ performs one or more specific physiological functions.
+    model Organs
+
+    / The Organ Systems Level
+    /// An organ system is a group of organs that work together to perform major functions or meet physiological needs of the body.
+    model Systems
+      >>>
+        Assigning organs to organ systems can be imprecise since organs that “belong” to one system can also have functions integral to another system. In fact, most organs contribute to more than one system.
+
+    / The Organism Level
+    /// The organism level is the highest level of organization. An organism is a living being that has a cellular structure and that can independently perform all physiologic functions necessary for life.
+    model Organisms
+      >>>
+        In multicellular organisms, including humans, all cells, tissues, organs, and organ systems of the body work together to maintain the life and health of the organism.
+
+  / Functions of Life
+  /// The high level functions definitive of human life include: organization, metabolism, responsiveness, movement, development, growth and reproduction.
+  model Functions
+
+    >>>
+      Most processes that occur in the human body are not consciously controlled. They occur continuously to build, maintain, and sustain life. These processes include: organization, in terms of the maintenance of essential body boundaries; metabolism, including energy transfer via anabolic and catabolic reactions; responsiveness; movement; and growth, differentiation, reproduction, and renewal.
+
+    --
+      Organization
+      Metabolism
+      Responsiveness
+      Movement
+      Development
+      Growth
+      Reproduction
+
+    /// A human body consists of trillions of cells organized in a way that maintains distinct internal compartments.
+    model Organization
+      >>>
+        A human body consists of trillions of cells organized in a way that maintains distinct internal compartments. These compartments keep body cells separated from external environmental threats and keep the cells moist and nourished. They also separate internal body fluids from the countless microorganisms that grow on body surfaces, including the lining of certain passageways that connect to the outer surface of the body. The intestinal tract, for example, is home to more bacterial cells than the total of all human cells in the body, yet these bacteria are outside the body and cannot be allowed to circulate freely inside the body.
+
+        Cells, for example, have a cell membrane (also referred to as the plasma membrane) that keeps the intracellular environment—the fluids and organelles—separate from the extracellular environment. Blood vessels keep blood inside a closed circulatory system, and nerves and muscles are wrapped in connective tissue sheaths that separate them from surrounding structures. In the chest and abdomen, a variety of internal membranes keep major organs such as the lungs, heart, and kidneys separate from others.
+
+        The body’s largest organ system is the integumentary system, which includes the skin and its associated structures, such as hair and nails. The surface tissue of skin is a barrier that protects internal structures and fluids from potentially harmful microorganisms and other toxins.
+
+    /// The basic function of an organism is to consume energy and resources, convert some of it into fuel for movement, sustain body functions, and build and maintain body structures. Metabolism is the sum of all reactions which accomplish these functions.
+    model Metabolism
+      >>>
+        The first law of thermodynamics holds that energy can neither be created nor destroyed—it can only change form. Your basic function as an organism is to consume (ingest) energy and molecules in the foods you eat, convert some of it into fuel for movement, sustain your body functions, and build and maintain your body structures. There are two types of reactions that accomplish this:
+
+      --
+        Anabolism
+        Catabolism
+
+      >>>
+        Taken together, these two processes are called metabolism. Metabolism is the sum of all anabolic and catabolic reactions that take place in the body. Both anabolism and catabolism occur simultaneously and continuously to keep you alive.
+
+        {image:'Metabolism}
+
+        Every cell in your body makes use of a chemical compound, adenosine triphosphate (ATP), to store and release energy. The cell stores energy in the synthesis (anabolism) of ATP, then moves the ATP molecules to the location where energy is needed to fuel cellular activities. Then the ATP is broken down (catabolism) and a controlled amount of energy is released, which is used by the cell to perform a particular job.
+
+
+      /// Anabolism is the process whereby smaller, simpler molecules are combined into larger, more complex substances. Your body can assemble, by utilizing energy, the complex chemicals it needs by combining small molecules derived from the foods you eat.
+      model Anabolism
+
+      /// Catabolism is the process by which larger more complex substances are broken down into smaller simpler molecules. Catabolism releases energy. The complex molecules found in foods are broken down so the body can use their parts to assemble the structures and substances needed for life.
+      model Catabolism
+
+    /// Responsiveness is the ability of an organism to adjust to changes in its internal and external environments.
+    model Responsiveness
+      >>>
+        Responsiveness is the ability of an organism to adjust to changes in its internal and external environments. An example of responsiveness to external stimuli could include moving toward sources of food and water and away from perceived dangers. Changes in an organism’s internal environment, such as increased body temperature, can cause the responses of sweating and the dilation of blood vessels in the skin in order to decrease body temperature.
+
+    /// Movement includes not only actions at the joints of the body, but also the motion of individual organs and even individual cells.
+    model Movement
+      >>>
+        Human movement includes not only actions at the joints of the body, but also the motion of individual organs and even individual cells. As you read these words, red and white blood cells are moving throughout your body, muscle cells are contracting and relaxing to maintain your posture and to focus your vision, and glands are secreting chemicals to regulate body functions. Your body is coordinating the action of entire muscle groups to enable you to move air into and out of your lungs, to push blood throughout your body, and to propel the food you have eaten through your digestive tract. Consciously, of course, you contract your skeletal muscles to move the bones of your skeleton to get from one place to another (as the runners are doing in the figure below) and to carry out all of the activities of your daily life.
+
+        {image:'Runners}
+
+    /// Development is all of the changes the body goes through in life.
+    model Development
+      >>>
+        Development includes the process of differentiation, in which unspecialized cells become specialized in structure and function to perform certain tasks in the body. Development also includes the processes of growth and repair, both of which involve cell differentiation.
+      # >>
+      #   $os-ap.1.1_1.1_1_3.1_1_3_5
+
+    /// Growth is the increase in body size.
+    model Growth
+      >>>
+        Humans, like all multicellular organisms, grow by increasing the number of existing cells, increasing the amount of non-cellular material around cells (such as mineral deposits in bone), and, within very narrow limits, increasing the size of existing cells.
+
+      # >>
+      #   $os-ap.1.1_1.1_1_3.1_1_3_5
+
+    /// Reproduction is the formation of a new organism from parent organisms.
+    model Reproduction
+      >>>
+        In humans, reproduction is carried out by the male and female reproductive systems. Because death will come to all complex organisms, without reproduction, the line of organisms would end.
+      # >>
+      #   $os-ap.1.1_1.1_1_3.1_1_3_5
+
+  / Requirements for Human Life
+  /// Humans have been adapting to life on Earth for at least the past 200,000 years. Humans cannot live outside of a certain range of temperature and pressure that the surface of our planet and its atmosphere provides.
+  model Requirements
+    >>>
+      Humans cannot survive for more than a few minutes without oxygen, for more than several days without water, and for more than several weeks without carbohydrates, lipids, proteins, vitamins, and minerals. Although the body can respond to high temperatures by sweating and to low temperatures by shivering and increased fuel consumption, long-term exposure to extreme heat and cold is not compatible with survival. The body requires a precise atmospheric pressure to maintain its gases in solution and to facilitate respiration—the intake of oxygen and the release of carbon dioxide. Humans also require blood pressure high enough to ensure that blood reaches all body tissues but low enough to avoid damage to blood vessels.
+
+    --
+      Oxygen
+      Nutrients
+      Temperature
+      Pressure
+
+    /// Oxygen is a key component of the chemical reactions that keep the body alive.
+    model Oxygen
+      >>>
+        Atmospheric air is only about 20 percent oxygen, but that oxygen is a key component of the chemical reactions that keep the body alive, including the reactions that produce ATP. Brain cells are especially sensitive to lack of oxygen because of their requirement for a high-and-steady production of ATP. Brain damage is likely within five minutes without oxygen, and death is likely within ten minutes.
+
+    /// A nutrient is a substance in foods and beverages that is essential to human survival. The three basic classes of nutrients are water, the energy-yielding and body-building macronutrients, and the micronutrients (vitamins and minerals).
+    model Nutrients
+
+      /// The most critical nutrient is water. Water makes up about 70 percent of an adult’s body mass.
+      model Water
+        >>>
+          Depending on the environmental temperature and our state of health, we may be able to survive for only a few days without water. The body’s functional chemicals are dissolved and transported in water, and the chemical reactions of life take place in water. Moreover, water is the largest component of cells, blood, and the fluid between cells, and water makes up about 70 percent of an adult’s body mass. Water also helps regulate our internal temperature and cushions, protects, and lubricates joints and many other body structures.
+
+      /// The energy-yielding macronutrients are primarily carbohydrates and lipids, while proteins mainly supply the amino acids that are the building blocks of the body itself.
+      model Macronutrients
+        >>>
+          The energy-yielding nutrients are primarily carbohydrates and lipids, while proteins mainly supply the amino acids that are the building blocks of the body itself. You ingest these in plant and animal foods and beverages, and the digestive system breaks them down into molecules small enough to be absorbed. The breakdown products of carbohydrates and lipids can then be used in the metabolic processes that convert them to ATP. Although you might feel as if you are starving after missing a single meal, you can survive without consuming the energy-yielding nutrients for at least several weeks.
+
+      /// Micronutrients are vitamins and minerals. These elements and compounds participate in many essential chemical reactions and processes, such as nerve impulses, and some also contribute to the body’s structure.
+      model Micronutrients
+        >>>
+          Your body can store some of the micronutrients in its tissues, and draw on those reserves if you fail to consume them in your diet for a few days or weeks. Some others micronutrients, such as vitamin C and most of the B vitamins, are water-soluble and cannot be stored, so you need to consume them every day or two.
+
+    / Narrow Range of Temperature
+    /// The chemical reactions upon which the body depends can only take place within a narrow range of body temperature, from just below to just above 37°C (98.6°F).
+    model Temperature
+      >>>
+        You have probably seen news stories about athletes who died of heat stroke, or hikers who died of exposure to cold. Such deaths occur because the chemical reactions upon which the body depends can only take place within a narrow range of body temperature, from just below to just above 37°C (98.6°F). When body temperature rises well above or drops well below normal, certain proteins (enzymes) that facilitate chemical reactions lose their normal structure and their ability to function and the chemical reactions of metabolism cannot proceed.
+
+        That said, the body can respond effectively to short-term exposure to heat or cold. One of the body’s responses to heat is, of course, sweating. As sweat evaporates from skin, it removes some thermal energy from the body, cooling it. Adequate water (from the extracellular fluid in the body) is necessary to produce sweat, so adequate fluid intake is essential to balance that loss during the sweat response. Not surprisingly, the sweat response is much less effective in a humid environment because the air is already saturated with water. Thus, the sweat on the skin’s surface is not able to evaporate, and internal body temperature can get dangerously high.
+
+        {image:'Extreme_Heat}
+
+        The body can also respond effectively to short-term exposure to cold. One response to cold is shivering, which is random muscle movement that generates heat. Another response is increased breakdown of stored energy to generate heat. When that energy reserve is depleted, however, and the core temperature begins to drop significantly, red blood cells will lose their ability to give up oxygen, denying the brain of this critical component of ATP production. This lack of oxygen can cause confusion, lethargy, and eventually loss of consciousness and death. The body responds to cold by reducing blood circulation to the extremities, the hands and feet, in order to prevent blood from cooling there and so that the body’s core can stay warm. Even when core body temperature remains stable, however, tissues exposed to severe cold, especially the fingers and toes, can develop frostbite when blood flow to the extremities has been much reduced. This form of tissue damage can be permanent and lead to gangrene, requiring amputation of the affected region.
+
+    /// Atmospheric pressure is pressure exerted by the mixture of gases in the Earth’s atmosphere. Atmospheric pressure is an important requirement for healthy bodily function.
+    model Pressure
+      >>>
+        **Pressure** is a force exerted by a substance that is in contact with another substance. Atmospheric pressure is pressure exerted by the mixture of gases (primarily nitrogen and oxygen) in the Earth’s atmosphere. Although you may not perceive it, atmospheric pressure is constantly pressing down on your body. This pressure keeps gases within your body, such as the gaseous nitrogen in body fluids, dissolved. If you were suddenly ejected from a space ship above Earth’s atmosphere, you would go from a situation of normal pressure to one of very low pressure. The pressure of the nitrogen gas in your blood would be much higher than the pressure of nitrogen in the space surrounding your body. As a result, the nitrogen gas in your blood would expand, forming bubbles that could block blood vessels and even cause cells to break apart.
+
+        Atmospheric pressure does more than just keep blood gases dissolved. Your ability to breathe—that is, to take in oxygen and release carbon dioxide—also depends upon a precise atmospheric pressure. Altitude sickness occurs in part because the atmosphere at high altitudes exerts less pressure, reducing the exchange of these gases, and causing shortness of breath, confusion, headache, lethargy, and nausea. Mountain climbers carry oxygen to reduce the effects of both low oxygen levels and low barometric pressure at higher altitudes.
+
+        {image:'Everest}
+
+        The dynamic pressure of body fluids is also important to human survival. For example, blood pressure, which is the pressure exerted by blood as it flows within blood vessels, must be great enough to enable blood to reach all body tissues, and yet low enough to ensure that the delicate blood vessels can withstand the friction and force of the pulsating flow of pressurized blood.
+
+  / Homeostasis
+  // Homestasis: The Balance of Life
+  /// Homeostasis is the activity of cells throughout the body to maintain the physiological state within a narrow range that is compatible with life.
+  model Homeostasis
+    >>>
+      Maintaining homeostasis requires that the body continuously monitor its internal conditions. From body temperature to blood pressure to levels of certain nutrients, each physiological condition has a particular set point. Homeostasis is regulated by negative feedback loops and, much less frequently, by positive feedback loops. Both have the same components of a stimulus, sensor, control center, and effector; however, negative feedback loops work to prevent an excessive response to the stimulus, whereas positive feedback loops intensify the response until an end point is reached.
+
+    --
+      SetPoint
+      NegativeFeedback
+      PositiveFeedback
+
+    /// A set point is the physiological value around which the normal range fluctuates. A  normal range is the restricted set of values that is optimally healthful and stable.
+    model SetPoint
+      >>>
+        For example, the set point for normal human body temperature is approximately 37°C (98.6°F) Physiological parameters, such as body temperature and blood pressure, tend to fluctuate within a normal range a few degrees above and below that point. Control centers in the brain and other parts of the body monitor and react to deviations from homeostasis using {NegativeFeedback negative feedback}.
+
+    /// Negative feedback is a mechanism that reverses a deviation from the set point. Negative feedback maintains body parameters within their normal range.
+    model NegativeFeedback
+      >>>
+         The maintenance of homeostasis by negative feedback goes on throughout the body at all times, and an understanding of negative feedback is thus fundamental to an understanding of human physiology.
+
+         A negative feedback system has three basic components:
+
+      -- Components
+        Sensor
         ControlCenter
-
-    /// The  control center is the component in a feedback system that compares the value to the normal range. If the value deviates too much from the set point, then the control center activates an effector.
-    model ControlCenter
-      <<
         Effector
 
-    /// An  effector is the component in a feedback system that causes a change to reverse the situation and return the value to the normal range.
-    model Effector
+      >>
+        partial.negativefeedback
 
-  /// Positive feedback intensifies a change in the body’s physiological condition rather than reversing it.
-  model PositiveFeedback
-    >>
-      partial.positivefeedback
+      /// A  sensor, also referred to a receptor, is a component of a feedback system that monitors a physiological value. This value is reported to the control center.
+      model Sensor
+        <<
+          ControlCenter
 
+      /// The  control center is the component in a feedback system that compares the value to the normal range. If the value deviates too much from the set point, then the control center activates an effector.
+      model ControlCenter
+        <<
+          Effector
+
+      /// An  effector is the component in a feedback system that causes a change to reverse the situation and return the value to the normal range.
+      model Effector
+
+    /// Positive feedback intensifies a change in the body’s physiological condition rather than reversing it.
+    model PositiveFeedback
+      >>
+        partial.positivefeedback
+
+/ Chemicals
+// Life at the Chemical Level
 /// The smallest, most fundamental material components of the human body are basic chemical elements.
 model ChemicalOrganization
   >>>
@@ -1220,12 +1243,21 @@ model ChemicalOrganization
       model ADP
         # https://en.wikipedia.org/wiki/Adenosine_diphosphate
 
-debug:
+/ Cells
+// Life at the Cellular Level
 /// A cell is the smallest independently functioning unit of a living organism. It is a primary responsibility of each cell to contribute to homeostasis. Cells perform all functions of life.
 model CellularOrganization
   <<
     Homeostasis
     Functions
+
+  --
+    Membrane
+    Cytoplasm
+    Nucleus
+    ProteinSynthesis
+    CellDivision
+    CellDifferentiation
 
   / The Cell Membrane
   /// The cell membrane provides a protective barrier around the cell and regulates which materials can pass in or out.
@@ -2299,7 +2331,7 @@ model CellularOrganization
       model Elongation
 
       / Transcription Termination
-      // Transcription Stage 2: Termination
+      // Transcription Stage 3: Termination
       /// When the polymerase has reached the end of the gene, one of three specific triplets (UAA, UAG, or UGA) codes a “stop” signal, which triggers the enzymes to terminate transcription and release the mRNA transcript.
       model Termination
 
@@ -2394,6 +2426,1750 @@ model CellularOrganization
       model Polyribosome
         # https://en.wikipedia.org/wiki/Polysome
 
+  / Cell Growth and Division
+  /// The cell cycle is the sequence of events in the life of the cell from the moment it is created at the end of a previous cycle of cell division until it then divides itself, generating two new cells.
+  model CellDivision
 
-/// Cells in the body are arranged in organized layers, and these layers of similar cells are referred to as tissue.
+    path InBrief
+      step
+        >>>
+          The life of cell consists of stages that make up the cell cycle. After a cell is born, it passes through an interphase before it is ready to replicate itself and produce daughter cells. This interphase includes two gap phases (G1 and G2), as well as an S phase, during which its DNA is replicated in preparation for cell division. The cell cycle is under precise regulation by chemical messengers both inside and outside the cell that provide “stop” and “go” signals for movement from one phase to the next. Failures of these signals can result in cells that continue to divide uncontrollably, which can lead to cancer.
+      step
+        >>>
+          Once a cell has completed interphase and is ready for cell division, it proceeds through four separate stages of mitosis (prophase, metaphase, anaphase, and telophase). Telophase is followed by the division of the cytoplasm (cytokinesis), which generates two daughter cells. This process takes place in all normally dividing cells of the body except for the germ cells that produce eggs and sperm.
+
+    ^^
+      InBrief
+
+    /// While there are a few cells in the body that do not undergo cell division, most somatic cells divide regularly. A somatic cell is a general term for a body cell.
+    . Background
+
+      >>>
+        While there are a few cells in the body that do not undergo cell division (such as gametes, red blood cells, most neurons, and some muscle cells), most somatic cells divide regularly. A somatic cell is a general term for a body cell. All human cells are somatic cells, except for those cells that produce eggs and sperm (which are referred to as germ cells).
+
+      --
+        SomaticCell
+        GermCell
+        Gamete
+        StemCell
+
+      >>>
+        Somatic cells contain *two* copies of each of their chromosomes (one copy received from each parent). A  **homologous** pair of chromosomes is the two copies of a single chromosome found in each somatic cell. The human is a  **diploid** organism, having 23 homologous pairs of chromosomes in each of the somatic cells. The condition of having pairs of chromosomes is known as diploidy.
+
+      --
+        Ploidy
+        Diploid
+        Haploid
+        HomologousChromosomes
+
+      /// Somatic cells form the body of an organism. In a multicellular organism, this includes any cell other than a gamete, germ cell or undifferentiated stem cell.
+      model SomaticCell
+        # https://en.wikipedia.org/wiki/Somatic_cell
+
+      /// A germ cell is any biological cell that gives rise to the gametes of an organism that reproduces sexually.
+      model GermCell
+        # https://en.wikipedia.org/wiki/Germ_cell
+
+      /// A gamete is a haploid cell that fuses with another haploid cell during fertilization in organisms that sexually reproduce.
+      model Gamete
+        # https://en.wikipedia.org/wiki/Gamete
+
+      /// Stem cells are cells that can differentiate into other types of cells, and can also divide in self-renewal to produce more of the same type of stem cells.
+      model StemCell
+        # https://en.wikipedia.org/wiki/Stem_cell
+
+      /// Ploidy is the number of complete sets of chromosomes in a cell, and hence the number of possible alleles for autosomal and pseudoautosomal genes.
+      model Ploidy
+        # https://en.wikipedia.org/wiki/Ploidy
+
+      /// Diploid cells have two homologous copies of each chromosome, usually one from the mother and one from the father. All or nearly all mammals are diploid organisms.
+      model Diploid
+
+      /// The nucleus of a eukaryotic cell is haploid if it has a single set of chromosomes, each one not being part of a pair. By extension a cell may be called haploid if its nucleus is haploid, and an organism may be called haploid if its body cells (somatic cells) are haploid.
+      model Haploid
+
+      /// A couple of homologous chromosomes, or homologs, are a set of one maternal and one paternal chromosome that pair up with each other inside a cell during meiosis.
+      # Homologs have the same genes in the same loci where they provide points along each chromosome which enable a pair of chromosomes to align correctly with each other before separating during meiosis
+      model HomologousChromosomes
+        # https://en.wikipedia.org/wiki/Homologous_chromosome
+
+    >>>
+      Cells in the body replace themselves over the lifetime of a person. For example, the cells lining the gastrointestinal tract must be frequently replaced when constantly “worn off” by the movement of food through the gut. But what triggers a cell to divide, and how does it prepare for and complete cell division? The  **cell cycle** is the sequence of events in the life of the cell from the moment it is created at the end of a previous cycle of cell division until it then divides itself, generating two new cells.
+
+    /// The cell cycle, or cell-division cycle, is the series of events that take place in a cell leading to duplication of its DNA (DNA replication) and division of cytoplasm and organelles to produce two daughter cells.
+    model CellCycle
+      # https://en.wikipedia.org/wiki/Cell_cycle
+
+    --
+      CellCycle
+
+    >>>
+      One “turn” or cycle of the cell cycle consists of two general phases: **interphase**, followed by the **mitotic phase** (which consists of **mitosis** and **cytokinesis**). **Mitosis** is the division of genetic material, during which the cell nucleus breaks down and two new, fully functional, nuclei are formed.  **Cytokinesis** divides the cytoplasm into two distinctive cells.
+
+    /// Interphase is the period of the cell cycle during which the cell is not dividing. The majority of cells are in interphase most of the time.
+    model Interphase
+      >>>
+        A cell grows and carries out all normal metabolic functions and processes in a period called G<sub>1</sub>.  **G1 phase** (gap 1 phase) is the first gap, or growth phase in the cell cycle. For cells that will divide again, G<sub>1</sub> is followed by replication of the DNA, during the S phase. The  **S phase** (synthesis phase) is period during which a cell replicates its DNA.
+
+        {image:'Figure_3_5_1}
+
+        After the synthesis phase, the cell proceeds through the G<sub>2</sub> phase. The  **G2 phase** is a second gap phase, during which the cell continues to grow and makes the necessary preparations for mitosis. Between G<sub>1</sub>, S, and G<sub>2</sub> phases, cells will vary the most in their duration of the G1 phase. It is here that a cell might spend a couple of hours, or many days. The S phase typically lasts between 8-10 hours and the G<sub>2</sub> phase approximately 5 hours. In contrast to these phases, the  **G0 phase** is a resting phase of the cell cycle. Cells that have temporarily stopped dividing and are resting (a common condition) and cells that have permanently ceased dividing (like nerve cells) are said to be in G<sub>0</sub>.
+
+      --
+        G1Phase
+        SPhase
+        G2Phase
+        G0Phase
+
+      / G1 Phase
+      /// The g1 phase, or Gap 1 phase, is the first of four phases of the cell cycle that takes place in eukaryotic cell division. In this part of interphase, the cell synthesizes mRNA and proteins in preparation for subsequent steps leading to mitosis. G1 phase ends when the cell moves into the S phase of interphase.
+      model G1Phase
+        # https://en.wikipedia.org/wiki/G1_phase
+
+      / S Phase
+      /// S phase (Synthesis Phase) is the phase of the cell cycle in which DNA is replicated, occurring between G1 phase and G2 phase. Since accurate duplication of the genome is critical to successful cell division, the processes that occur during S-phase are tightly regulated and widely conserved.
+      model SPhase
+
+      / G2 Phase
+      /// G2 phase, or Gap 2 phase, is the third subphase of interphase in the cell cycle directly preceding mitosis. It follows the successful completion of S phase, during which the cell’s DNA is replicated. G2 phase is a period of rapid cell growth and protein synthesis during which the cell prepares itself for mitosis. G2 phase ends with the onset of prophase, the first phase of mitosis in which the cell’s chromatin condenses into chromosomes.
+      model G2Phase
+        # https://en.wikipedia.org/wiki/G2_phase
+
+      / G0 Phase
+      /// The G0 phase describes a cellular state outside of the replicative cell cycle.
+      model G0Phase
+        # https://en.wikipedia.org/wiki/G0_phase
+
+      >>>
+        Billions of cells in the human body divide every day. During the synthesis phase (S, for DNA synthesis) of interphase, the amount of DNA within the cell precisely doubles. Therefore, after DNA replication but before cell division, each cell actually contains *two* copies of each chromosome. Each copy of the chromosome is referred to as a  **sister chromatid** and is physically bound to the other copy. The  **centromere** is the structure that attaches one sister chromatid to another.
+
+      /// A chromatid is a chromosome that has been newly copied or the copy of such a chromosome, the two of them still joined to the original chromosome by a single centromere.
+      model Chromatid
+        # https://en.wikipedia.org/wiki/Chromatid
+
+      /// A sister chromatid refers to the identical copies (chromatids) formed by the DNA replication of a chromosome, with both copies joined together by a common centromere. In other words, a sister chromatid may also be said to be 'one-half' of the duplicated chromosome.
+      model SisterChromatid
+        # https://en.wikipedia.org/wiki/Sister_chromatids
+
+      /// The centromere is the specialized DNA sequence of a chromosome that links a pair of sister chromatids.
+      model Centromere
+        # https://en.wikipedia.org/wiki/Centromere
+
+      --
+        Chromatid
+        SisterChromatid
+        Centromere
+
+      >>>
+        Because a human cell has 46 chromosomes, during this phase, there are 92 chromatids (46 × 2) in the cell. Make sure not to confuse the concept of a pair of chromatids (one chromosome and its exact copy attached during mitosis) and a homologous pair of chromosomes (two paired chromosomes which were inherited separately, one from each parent).
+
+        {image:'Figure_3_5_2}
+
+    /// During the mitotic phase of the cell cycle, the contents of the nucleus are equitably pulled apart and distributed between its two halves, after which the cytoplasm and cell body divide into two new cells.
+    model MitoticPhase
+
+      /// Mitosis is the division of genetic material, during which the cell nucleus breaks down and two new, fully functional, nuclei are formed.
+      model Mitosis
+        >>>
+          Mitosis is divided into four major stages that take place after interphase ({'Figure_3_5_3 Figure 3.5.3}) and in the following order: prophase, metaphase, anaphase, and telophase. The process is then followed by cytokinesis.
+
+          {image:'Figure_3_5_3}
+
+        /// Prophase is the first phase of mitosis, during which the loosely packed chromatin coils and condenses into visible chromosomes. During prophase, each chromosome becomes visible with its identical partner attached, forming the familiar X-shape of sister chromatids. The nucleolus disappears early during this phase, and the nuclear envelope also disintegrates.
+        model Prophase
+          # https://en.wikipedia.org/wiki/Prophase
+
+          >>>
+            A major occurrence during prophase concerns a very important structure that contains the origin site for microtubule growth. Recall the cellular structures called centrioles that serve as origin points from which microtubules extend. These tiny structures also play a very important role during mitosis. A  **centrosome** is a pair of centrioles together.
+
+          /// The centrosome is an organelle that serves as the main microtubule organizing center (MTOC) of the animal cell, as well as a regulator of cell-cycle progression. Centrosomes are associated with the nuclear membrane during the prophase stage of the cell cycle. In mitosis the nuclear membrane breaks down and the centrosome nucleated microtubules can interact with the chromosomes to build the mitotic spindle.
+          model Centrosome
+            # https://en.wikipedia.org/wiki/Centrosome
+
+          /// The spindle apparatus (or mitotic spindle) refers to the cytoskeletal structure of eukaryotic cells that forms during cell division to separate sister chromatids between daughter cells.
+          # It is referred to as the mitotic spindle during mitosis, a process that produces genetically identical daughter cells, or the meiotic spindle during meiosis, a process that produces gametes with half the number of chromosomes of the parent cell.
+          model SpindleApparatus
+            # https://en.wikipedia.org/wiki/Spindle_apparatus
+
+          --
+            Centrosome
+            SpindleApparatus
+
+          >>>
+            The cell contains two centrosomes side-by-side, which begin to move apart during prophase. As the centrosomes migrate to two different sides of the cell, microtubules begin to extend from each like long fingers from two hands extending toward each other. The  **mitotic spindle** is the structure composed of the centrosomes and their emerging microtubules.
+
+            Near the end of prophase there is an invasion of the nuclear area by microtubules from the mitotic spindle. The nuclear membrane has disintegrated, and the microtubules attach themselves to the centromeres that adjoin pairs of sister chromatids. The  **kinetochore** is a protein structure on the centromere that is the point of attachment between the mitotic spindle and the sister chromatids. This stage is referred to as late prophase or “prometaphase” to indicate the transition between prophase and metaphase.
+
+          /// A kinetochore is a disc-shaped protein structure associated with duplicated chromatids in eukaryotic cells where the spindle fibers attach during cell division to pull sister chromatids apart. The kinetochore assembles on the centromere and links the chromosome to microtubule polymers from the mitotic spindle during mitosis and meiosis. Its proteins also help to hold the sister chromatids together and play a role in chromosome editing.
+          model Kinetochore
+            # https://en.wikipedia.org/wiki/Kinetochore
+
+          --
+            Kinetochore
+
+        /// Metaphase is the second stage of mitosis. During this stage, the sister chromatids, with their attached microtubules, line up along a linear plane in the middle of the cell. A metaphase plate forms between the centrosomes that are now located at either end of the cell. The  metaphase plate is the name for the plane through the center of the spindle on which the sister chromatids are positioned. The microtubules are now poised to pull apart the sister chromatids and bring one from each pair to each side of the cell.
+        model Metaphase
+
+        /// Anaphase is the third stage of mitosis. Anaphase takes place over a few minutes, when the pairs of sister chromatids are separated from one another, forming individual chromosomes once again. These chromosomes are pulled to opposite ends of the cell by their kinetochores, as the microtubules shorten. Each end of the cell receives one partner from each pair of sister chromatids, ensuring that the two new daughter cells will contain identical genetic material.
+        model Anaphase
+
+        /// Telophase is the final stage of mitosis. Telophase is characterized by the formation of two new daughter nuclei at either end of the dividing cell. These newly formed nuclei surround the genetic material, which uncoils such that the chromosomes return to loosely packed chromatin. Nucleoli also reappear within the new nuclei, and the mitotic spindle breaks apart, each new cell receiving its own complement of DNA, organelles, membranes, and centrioles. At this point, the cell is already beginning to split in half as cytokinesis begins.
+        model Telophase
+
+        --
+          Prophase
+          Metaphase
+          Anaphase
+          Telophase
+
+      /// Cytokinesis divides the cytoplasm into two distinctive cells.
+      model Cytokinesis
+        >>>
+          The  **cleavage furrow** is a contractile band made up of microfilaments that forms around the midline of the cell during cytokinesis.
+
+        /// The cleavage furrow is the indentation of the cell's surface that begins the progression of cleavage, by which animal cells undergo cytokinesis, the final splitting of the membrane, in the process of cell division.
+        model CleavageFurrow
+          # https://en.wikipedia.org/wiki/Cleavage_furrow
+
+        --
+          CleavageFurrow
+
+        >>>
+          This contractile band squeezes the two cells apart until they finally separate. Two new cells are now formed. One of these cells (the “stem cell”) enters its own cell cycle; able to grow and divide again at some future time. The other cell transforms into the functional cell of the tissue, typically replacing an “old” cell there.
+
+          Imagine a cell that completed mitosis but never underwent cytokinesis. In some cases, a cell may divide its genetic material and grow in size, but fail to undergo cytokinesis. This results in larger cells with more than one nucleus. Usually this is an unwanted aberration and can be a sign of cancerous cells.
+
+      --
+        Mitosis
+        Cytokinesis
+
+    --
+      Interphase
+      MitoticPhase
+
+    >>>
+      A very elaborate and precise system of regulation controls direct the way cells proceed from one phase to the next in the cell cycle and begin mitosis. The control system involves molecules within the cell as well as external triggers. These internal and external control triggers provide “stop” and “advance” signals for the cell. Precise regulation of the cell cycle is critical for maintaining the health of an organism, and loss of cell cycle control can lead to cancer.
+
+    / Mechanisms of Cell Cycle Control
+    /// A checkpoint is a point in the cell cycle at which the cycle can be signaled to move forward or stopped. At each checkpoint, different varieties of molecules provide the stop or go signals, depending on certain conditions within the cell.
+    . Mechanisms
+      >>>
+        As the cell proceeds through its cycle, each phase involves certain processes that must be completed before the cell should advance to the next phase. A **checkpoint** is a point in the cell cycle at which the cycle can be signaled to move forward or stopped. At each of these checkpoints, different varieties of molecules provide the stop or go signals, depending on certain conditions within the cell.
+
+      /// Cell cycle checkpoints are control mechanisms in eukaryotic cells which ensure proper division of the cell. Each checkpoint serves as a potential point along the cell cycle, during which the conditions of the cell are assessed, with progression through the various phases of the cell cycle occurring when favorable conditions are met.
+      model Checkpoint
+        # https://en.wikipedia.org/wiki/Cell_cycle_checkpoint
+        # https://en.wikipedia.org/wiki/Cell_cycle#Checkpoints
+
+      --
+        Checkpoint
+
+      >>>
+        A  **cyclin** is one of the primary classes of cell cycle control molecules ({'Figure_3_5_4 Figure 3.5.4}). A  **cyclin-dependent kinase (CDK)** is one of a group of molecules that work together with cyclins to determine progression past cell checkpoints.
+
+      /// Cyclin is a family of proteins that control the progression of cells through the cell cycle by activating cyclin-dependent kinase (CDK) enzymes.
+      model Cyclin
+        # https://en.wikipedia.org/wiki/Cyclin
+
+      / Cyclin-dependent kinase (CDK)
+      /// Cyclin-dependent kinases (CDKs) are a family of protein kinases first discovered for their role in regulating the cell cycle. They are also involved in regulating transcription, mRNA processing, and the differentiation of nerve cells. They are present in all known eukaryotes, and their regulatory function in the cell cycle has been evolutionarily conserved.
+      model CDK
+        # https://en.wikipedia.org/wiki/Cyclin-dependent_kinase
+
+      --
+        Cyclin
+        CDK
+
+      >>>
+        By interacting with many additional molecules, these triggers push the cell cycle forward unless prevented from doing so by “stop” signals, if for some reason the cell is not ready. At the G<sub>1 </sub>checkpoint, the cell must be ready for DNA synthesis to occur. At the G<sub>2</sub> checkpoint the cell must be fully prepared for mitosis. Even during mitosis, a crucial stop and go checkpoint in metaphase ensures that the cell is fully prepared to complete cell division. The metaphase checkpoint ensures that all sister chromatids are properly attached to their respective microtubules and lined up at the metaphase plate before the signal is given to separate them during anaphase.
+
+    / The Cell Cycle Out of Control: Implications
+    /// Cancer is caused by abnormal cells that multiply continuously.  In healthy cells, the tight regulation mechanisms of the cell cycle prevent this from happening, but failures of cell cycle control can cause unwanted and excessive cell division.
+    . Implications
+      >>>
+        Most people understand that cancer or tumors are caused by abnormal cells that multiply continuously. If the abnormal cells continue to divide unstopped, they can damage the tissues around them, spread to other parts of the body, and eventually result in death. In healthy cells, the tight regulation mechanisms of the cell cycle prevent this from happening, while failures of cell cycle control can cause unwanted and excessive cell division. Failures of control may be caused by inherited genetic abnormalities that compromise the function of certain “stop” and “go” signals. Environmental insult that damages DNA can also cause dysfunction in those signals. Often, a combination of both genetic predisposition and environmental factors lead to cancer.
+
+        The process of a cell escaping its normal control system and becoming cancerous may actually happen throughout the body quite frequently. Fortunately, certain cells of the immune system are capable of recognizing cells that have become cancerous and destroying them. However, in certain cases the cancerous cells remain undetected and continue to proliferate. If the resulting tumor does not pose a threat to surrounding tissues, it is said to be benign and can usually be easily removed. If capable of damage, the tumor is considered malignant and the patient is diagnosed with cancer.
+
+    --
+      Mechanisms
+      Implications
+
+  / Cellular Differentiation
+  ///  Differentiation is the process by which unspecialized cells become specialized to carry out distinct functions. While all somatic cells contain the exact same genome, different cell types only express some of those genes at any given time. These differences in gene expression ultimately dictate a cell’s unique morphological and physiological characteristics.
+  model CellDifferentiation
+    path InBrief
+      step
+        >>>
+          One of the major areas of research in biology is that of how cells specialize to assume their unique structures and functions, since all cells essentially originate from a single fertilized egg. Cell differentiation is the process of cells becoming specialized as they body develops. A stem cell is an unspecialized cell that can divide without limit as needed and can, under specific conditions, differentiate into specialized cells. Stem cells are divided into several categories according to their potential to differentiate. While all somatic cells contain the exact same genome, different cell types only express some of those genes at any given time. These differences in gene expression ultimately dictate a cell’s unique morphological and physiological characteristics. The primary mechanism that determines which genes will be expressed and which ones will not is through the use of different transcription factor proteins, which bind to DNA and promote or hinder the transcription of different genes. Through the action of these transcription factors, cells specialize into one of hundreds of different cell types in the human body.
+
+    ^^
+      InBrief
+
+    >>>
+      How does a complex organism such as a human develop from a single cell—a fertilized egg—into the vast array of cell types such as nerve cells, muscle cells, and epithelial cells that characterize the adult? Throughout development and adulthood, the process of cellular differentiation leads cells to assume their final morphology and physiology. Differentiation is the process by which unspecialized cells become specialized to carry out distinct functions.
+
+    >>>
+      A  **stem cell** is an unspecialized cell that can divide without limit as needed and can, under specific conditions, differentiate into specialized cells. Stem cells are divided into several categories according to their potential to differentiate.
+
+    --
+      CellDivision.Background.StemCell
+
+    >>>
+      The first embryonic cells that arise from the division of the zygote are the ultimate stem cells; these stems cells are described as  **totipotent** because they have the potential to differentiate into any of the cells needed to enable an organism to grow and develop.
+
+    /// Cell potency is a cell's ability to differentiate into other cell types. The more cell types a cell can differentiate into, the greater its potency.
+    model CellPotency
+      # https://en.wikipedia.org/wiki/Cell_potency#Totipotency
+
+    /// Totipotency is the ability of a single cell to divide and produce all of the differentiated cells in an organism. Spores and zygotes are examples of totipotent cells. In the spectrum of cell potency, totipotency represents the cell with the greatest differentiation potential, being able to differentiate into any embryonic cell, as well as extraembryonic cells.
+    model Totipotency
+      # https://en.wikipedia.org/wiki/Cell_potency#Totipotency
+
+    --
+      CellPotency
+      Totipotency
+
+    >>>
+      The embryonic cells that develop from totipotent stem cells and are precursors to the fundamental tissue layers of the embryo are classified as pluripotent. A  **pluripotent** stem cell is one that has the potential to differentiate into any type of human tissue but cannot support the full development of an organism. These cells then become slightly more specialized, and are referred to as multipotent cells.
+
+    --
+      Pluripotency
+      Multipotency
+
+    /// Pluripotency refers to a stem cell that has the potential to differentiate into any of the three germ layers: endoderm (interior stomach lining, gastrointestinal tract, the lungs), mesoderm (muscle, bone, blood, urogenital), or ectoderm (epidermal tissues and nervous system).
+    model Pluripotency
+
+    /// Multipotency describes progenitor cells which have the gene activation potential to differentiate into discrete cell types. Multipotent cells are found in many, but not all human cell types.
+    model Multipotency
+
+    >>>
+      A  **multipotent** stem cell has the potential to differentiate into different types of cells within a given cell lineage or small number of lineages, such as a red blood cell or white blood cell.
+
+      Finally, multipotent cells can become further specialized oligopotent cells. An  **oligopotent** stem cell is limited to becoming one of a few different cell types. In contrast, a  **unipotent** cell is fully specialized and can only reproduce to generate more of its own specific cell type.
+
+    /// Oligopotency is the ability of progenitor cells to differentiate into a few cell types.
+    model Oligopotency
+
+    /// A unipotent cell is the concept that one stem cell has the capacity to differentiate into only one cell type. It is currently unclear if true unipotent stem cells exist.
+    model Unipotency
+
+    --
+      Oligopotency
+      Unipotency
+
+    >>>
+      Stem cells are unique in that they can also continually divide and regenerate new stem cells instead of further specializing. There are different stem cells present at different stages of a human’s life. They include the embryonic stem cells of the embryo, fetal stem cells of the fetus, and adult stem cells in the adult. One type of adult stem cell is the epithelial stem cell, which gives rise to the keratinocytes in the multiple layers of epithelial cells in the epidermis of skin. Adult bone marrow has three distinct types of stem cells: hematopoietic stem cells, which give rise to red blood cells, white blood cells, and platelets ({'Figure_3_6_1 Figure 3.6.1}); endothelial stem cells, which give rise to the endothelial cell types that line blood and lymph vessels; and mesenchymal stem cells, which give rise to the different types of muscle cells.
+
+      {image:'Figure_3_6_1}
+
+    >>>
+      When a cell differentiates (becomes more specialized), it may undertake major changes in its size, shape, metabolic activity, and overall function. Because all cells in the body, beginning with the fertilized egg, contain the same DNA, how do the different cell types come to be so different? The answer is analogous to a movie script. The different actors in a movie all read from the same script, however, they are each only reading their own part of the script. Similarly, all cells contain the same full complement of DNA, but each type of cell only “reads” the portions of DNA that are relevant to its own function. In biology, this is referred to as the unique genetic expression of each cell.
+
+      In order for a cell to differentiate into its specialized form and function, it need only manipulate those genes (and thus those proteins) that will be expressed, and not those that will remain silent. The primary mechanism by which genes are turned “on” or “off” is through transcription factors. A  **transcription factor** is one of a class of proteins that bind to specific genes on the DNA molecule and either promote or inhibit their transcription.
+
+      {image:'Figure_3_6_2}
+
+    /// A transcription factor (TF) is a protein that controls the rate of transcription of genetic information from DNA to messenger RNA, by binding to a specific DNA sequence. The function of TFs is to regulate—turn on and off—genes in order to make sure that they are expressed in the right cell at the right time and in the right amount throughout the life of the cell and the organism.
+    model TranscriptionFactor
+      # https://en.wikipedia.org/wiki/Transcription_factor
+
+    --
+      TranscriptionFactor
+
+# /// Cells in the body are arranged in organized layers, and these layers of similar cells are referred to as tissue.
+/ Tissues
+// Life at the Tissue Level
+/// A tissue is an ensemble of similar cells and their extracellular matrix that together carry out a specific function. Organs are then formed by the functional grouping together of multiple tissues.
 model TissueOrganization
+  # https://en.wikipedia.org/wiki/Tissue_(biology)
+
+  path Introduction
+    step
+      >>>
+        The body contains at least 200 distinct cell types. These cells contain essentially the same internal structures yet they vary enormously in shape and function. The different types of cells are not randomly distributed throughout the body; rather they occur in organized layers, a level of organization referred to as tissue. The micrograph that opens this chapter shows the high degree of organization among different types of cells in the tissue of the cervix. You can also see how that organization breaks down when cancer takes over the regular mitotic functioning of a cell.
+
+        The variety in shape reflects the many different roles that cells fulfill in your body. The human body starts as a single cell at fertilization. As this fertilized egg divides, it gives rise to trillions of cells, each built from the same blueprint, but organizing into tissues and becoming irreversibly committed to a developmental pathway.
+    step
+      >>>
+        The term **tissue** is used to describe a group of cells found together in the body. The cells within a tissue share a common embryonic origin. Microscopic observation reveals that the cells in a tissue share **morphological** features and are arranged in an orderly pattern that achieves the tissue’s functions. From the evolutionary perspective, tissues appear in more complex organisms. For example, multicellular protists, ancient eukaryotes, do not have cells organized into tissues.
+      --
+        Morphology
+    step
+      >>>
+        Although there are many types of cells in the human body, they are organized into four broad categories of tissues: epithelial, connective, muscle, and nervous. Each of these categories is characterized by specific functions that contribute to the overall health and maintenance of the body. A disruption of the structure is a sign of injury or disease. Such changes can be detected through  **histology**, the microscopic study of tissue appearance, organization, and function.
+      --
+        Histology
+
+    # The human body contains more than 200 types of cells that can all be classified into four types of tissues: epithelial, connective, muscle, and nervous. Epithelial tissues act as coverings controlling the movement of materials across the surface. Connective tissue integrates the various parts of the body and provides support and protection to organs. Muscle tissue allows the body to move. Nervous tissues propagate information.
+    # The study of the shape and arrangement of cells in tissue is called histology. All cells and tissues in the body derive from three germ layers in the embryo: the ectoderm, mesoderm, and endoderm.
+    # Different types of tissues form membranes that enclose organs, provide a friction-free interaction between organs, and keep organs together. Synovial membranes are connective tissue membranes that protect and line the joints. Epithelial membranes are formed from epithelial tissue attached to a layer of connective tissue. There are three types of epithelial membranes: mucous, which contain glands; serous, which secrete fluid; and cutaneous which makes up the skin.
+
+  ^^
+    Introduction
+
+  --
+    Types
+    EmbryonicOrigins
+    TissueMembranes
+
+  --
+    EpithelialTissue
+    ConnectiveTissue
+    MuscleTissue
+    NervousTissue
+
+  --
+    TissueDamage
+
+
+  / Types of Tissues
+  /// The four types of tissue include: epithelial tissue, connective tissue, muscle tissue, and nervous tissue.
+  . Types
+    >>>
+      {EpithelialTissue Epithelial tissue}, also referred to as epithelium, refers to the sheets of cells that cover exterior surfaces of the body, lines internal cavities and passageways, and forms certain glands.  {ConnectiveTissue Connective tissue}, as its name implies, binds the cells and organs of the body together and functions in the protection, support, and integration of all parts of the body.  {MuscleTissue Muscle tissue} is excitable, responding to stimulation and contracting to provide movement, and occurs as three major types: skeletal (voluntary) muscle, smooth muscle, and cardiac muscle in the heart.  {NervousTissue Nervous tissue} is also excitable, allowing the propagation of electrochemical signals in the form of nerve impulses that communicate between different regions of the body.
+
+      {image:'Figure_4_1_1}
+
+      The next level of organization is the organ, where several types of tissues come together to form a working unit. Just as knowing the structure and function of cells helps you in your study of tissues, knowledge of tissues will help you understand how organs function.
+
+   / Embryonic Origin of Tissues
+   /// As cell proliferation progresses, three major cell lineages are established within the embryo (the ectoderm, mesoderm, and endoderm). Each of these lineages of embryonic cells forms the distinct germ layers from which all the tissues and organs of the human body eventually form.
+  model EmbryonicOrigins
+    let totipotent mean CellularOrganization.CellDifferentiation.Totipotency
+
+    >>>
+      The zygote, or fertilized egg, is a single cell formed by the fusion of an egg and sperm. After fertilization the zygote gives rise to rapid mitotic cycles, generating many cells to form the embryo. The first embryonic cells generated have the ability to differentiate into any type of cell in the body and, as such, are called  {totipotent}, meaning each has the capacity to divide, differentiate, and develop into a new organism.
+
+      As cell proliferation progresses, three major cell lineages are established within the embryo. Each of these lineages of embryonic cells forms the distinct germ layers from which all the tissues and organs of the human body eventually form. Each germ layer is identified by its relative position:  **ectoderm** (ecto- = “outer”),  **mesoderm** (meso- = “middle”), and  **endoderm** (endo- = “inner”). {'Figure_4_1_2 Figure 4.1.2} shows the types of tissues and organs associated with the each of the three germ layers. Note that epithelial tissue originates in all three layers, whereas nervous tissue derives primarily from the ectoderm and muscle tissue from mesoderm.
+
+    --
+      Ectoderm
+      Mesoderm
+      Endoderm
+
+    >>>
+      {image:'Figure_4_1_2}
+
+    /// Ectoderm (inner layer) is one of the three primary germ layers in the very early embryo. Generally speaking, the ectoderm differentiates to form the nervous system, tooth enamel and the epidermis. It also forms the lining of mouth, anus, nostrils, sweat glands, hair and nails.
+    model Ectoderm
+      # https://en.wikipedia.org/wiki/Ectoderm
+
+    /// The mesoderm (middle layer) is one of the three primary germ layers in the very early embryo. Mesoderm forms the muscles in a process known as myogenesis, septa (cross-wise partitions) and mesenteries (length-wise partitions); and forms part of the gonads.
+    model Mesoderm
+      # https://en.wikipedia.org/wiki/Mesoderm
+
+    /// Endoderm (outer layer) is one of the three primary germ layers in the very early embryo. The endoderm consists at first of flattened cells, which subsequently become columnar. It forms the epithelial lining of multiple systems.
+    model Endoderm
+
+  /// A tissue membrane is a thin layer or sheet of cells that covers the outside of the body, the organs, internal passageways that lead to the exterior of the body, and the lining of the moveable joint cavities.
+  model TissueMembranes
+    >>>
+      A  **tissue membrane** is a thin layer or sheet of cells that covers the outside of the body (for example, skin), the organs (for example, pericardium), internal passageways that lead to the exterior of the body (for example, abdominal mesenteries), and the lining of the moveable joint cavities.
+
+      There are two basic types of tissue membranes: connective tissue and epithelial membranes.
+
+    --
+      ConnectiveTissueMembrane
+      EpithelialMembranes
+
+    >>>
+      {image:'Figure_4_1_3}
+
+    /// The connective tissue membrane is formed solely from connective tissue. These membranes encapsulate organs, such as the kidneys, and line our movable joints.
+    model ConnectiveTissueMembrane
+      <<
+        ConnectiveTissue
+
+      >>>
+        A  **synovial membrane** is a type of connective tissue membrane that lines the cavity of a freely movable joint.
+
+      --
+        SynovialMembrane
+        SynovialJoint
+
+      /// The synovial membrane is a specialized connective tissue that lines the inner surface of capsules of synovial joints and tendon sheath. It makes direct contact with the fibrous membrane on the outside surface and with the synovial fluid lubricant on the inside surface.
+      model SynovialMembrane
+        # https://en.wikipedia.org/wiki/Synovial_membrane
+
+      /// A synovial joint, also known as diarthrosis, joins bones with a fibrous joint capsule that is continuous with the periosteum of the joined bones, constitutes the outer boundary of a synovial cavity, and surrounds the bones' articulating surfaces. The synovial cavity/joint is filled with synovial fluid.
+      model SynovialJoint
+        # https://en.wikipedia.org/wiki/Synovial_joint
+
+
+      >>>
+        For example, synovial membranes surround the joints of the shoulder, elbow, and knee. Fibroblasts in the inner layer of the synovial membrane release hyaluronan into the joint cavity. The hyaluronan effectively traps available water to form the synovial fluid, a natural lubricant that enables the bones of a joint to move freely against one another without much friction. This synovial fluid readily exchanges water and nutrients with blood, as do all body fluids.
+
+    /// The epithelial membrane is composed of epithelium attached to a layer of connective tissue.
+    model EpithelialMembranes
+
+      /// The mucous membrane is a composite of connective and epithelial tissues. Sometimes called mucosae, these epithelial membranes line the body cavities and hollow passageways that open to the external environment, and include the digestive, respiratory, excretory, and reproductive tracts.
+      model MucousMembrane
+        >>>
+          Mucous, produced by the epithelial exocrine glands, covers the epithelial layer. The underlying connective tissue, called the  **lamina propria** (literally “own layer”), help support the fragile epithelial layer.
+
+        --
+          LaminaPropria
+
+        /// The lamina propria is a thin layer of connective tissue that forms part of the moist linings known as mucous membranes or mucosa, which line various tubes in the body, such as the respiratory tract, the gastrointestinal tract, and the urogenital tract.
+        model LaminaPropria
+          # https://en.wikipedia.org/wiki/Lamina_propria
+
+      /// A serous membrane is an epithelial membrane composed of mesodermally derived epithelium called the mesothelium that is supported by connective tissue. These membranes line the coelomic cavities of the body, that is, those cavities that do not open to the outside, and they cover the organs located within those cavities.
+      model SerousMembrane
+        >>>
+          They are essentially membranous bags, with mesothelium lining the inside and connective tissue on the outside. Serous fluid secreted by the cells of the thin squamous mesothelium lubricates the membrane and reduces abrasion and friction between organs. Serous membranes are identified according locations. Three serous membranes line the thoracic cavity; the two pleura that cover the lungs and the pericardium that covers the heart. A fourth, the peritoneum, is the serous membrane in the abdominal cavity that covers abdominal organs and forms double sheets of mesenteries that suspend many of the digestive organs.
+
+      /// The skin is an epithelial membrane also called the cutaneous membrane. It is a stratified squamous epithelial membrane resting on top of connective tissue.
+      model CutaneousMembrane
+        >>>
+          The apical surface of this membrane is exposed to the external environment and is covered with dead, keratinized cells that help protect the body from desiccation and pathogens.
+
+  /// Epithelial tissue, also referred to as epithelium, refers to the sheets of cells that cover exterior surfaces of the body, lines internal cavities and passageways, and forms certain glands.
+  model EpithelialTissue
+
+    path Introduction
+      step
+        >>>
+          Most epithelial tissues are essentially large sheets of cells covering all the surfaces of the body exposed to the outside world and lining the outside of organs. Epithelium also forms much of the glandular tissue of the body. Skin is not the only area of the body exposed to the outside. Other areas include the airways, the digestive tract, as well as the urinary and reproductive systems, all of which are lined by an epithelium. Hollow organs and body cavities that do not connect to the exterior of the body, which includes, blood vessels and serous membranes, are lined by endothelium (plural = endothelia), which is a type of epithelium.
+      step
+        >>>
+          Epithelial cells derive from all three major embryonic layers. The epithelia lining the skin, parts of the mouth and nose, and the anus develop from the ectoderm. Cells lining the airways and most of the digestive system originate in the endoderm. The epithelium that lines vessels in the lymphatic and cardiovascular system derives from the mesoderm and is called an endothelium.
+      step
+        >>>
+          All epithelia share some important structural and functional features. This tissue is highly cellular, with little or no extracellular material present between cells. Adjoining cells form a specialized intercellular connection between their cell membranes called a  **cell junction**. The epithelial cells exhibit polarity with differences in structure and function between the exposed or  **apical** facing surface of the cell and the basal surface close to the underlying body structures. The  **basal lamina**, a mixture of glycoproteins and collagen, provides an attachment site for the epithelium, separating it from underlying connective tissue. The basal lamina attaches to a  **reticular lamina**, which is secreted by the underlying connective tissue, forming a  **basement membrane** that helps hold it all together.
+      step
+        >>>
+          Epithelial tissues are nearly completely avascular. For instance, no blood vessels cross the basement membrane to enter the tissue, and nutrients must come by diffusion or absorption from underlying tissues or the surface. Many epithelial tissues are capable of rapidly replacing damaged and dead cells. Sloughing off of damaged or dead cells is a characteristic of surface epithelium and allows our airways and digestive tracts to rapidly replace damaged cells with new cells.
+
+    path InBrief
+      step
+        >>>
+          In epithelial tissue, cells are closely packed with little or no extracellular matrix except for the basal lamina that separates the epithelium from underlying tissue. The main functions of epithelia are protection from the environment, coverage, secretion and excretion, absorption, and filtration. Cells are bound together by tight junctions that form an impermeable barrier. They can also be connected by gap junctions, which allow free exchange of soluble molecules between cells, and anchoring junctions, which attach cell to cell or cell to matrix. The different types of epithelial tissues are characterized by their cellular shapes and arrangements: squamous, cuboidal, or columnar epithelia. Single cell layers form simple epithelia, whereas stacked cells form stratified epithelia. Very few capillaries penetrate these tissues.
+      step
+        >>>
+          Glands are secretory tissues and organs that are derived from epithelial tissues. Exocrine glands release their products through ducts. Endocrine glands secrete hormones directly into the interstitial fluid and blood stream. Glands are classified both according to the type of secretion and by their structure. Merocrine glands secrete products as they are synthesized. Apocrine glands release secretions by pinching off the apical portion of the cell, whereas holocrine gland cells store their secretions until they rupture and release their contents. In this case, the cell becomes part of the secretion.
+
+    ^^
+      Introduction
+      InBrief
+
+    --
+      Functions
+      EpithelialCell
+      CellJunctions
+      Classifications
+      GlandularEpithelium
+
+    / Generalized Functions of Epithelial Tissue
+    /// Epithelial tissues provide the body’s first line of protection. All substances that enter the body must cross an epithelium. Many epithelial cells are capable of secretion.
+    model Functions
+      >>>
+        Epithelial tissues provide the body’s first line of protection from physical, chemical, and biological wear and tear. The cells of an epithelium act as gatekeepers of the body controlling permeability and allowing selective transfer of materials across a physical barrier. All substances that enter the body must cross an epithelium. Some epithelia often include structural features that allow the selective transport of molecules and ions across their cell membranes.
+
+        Many epithelial cells are capable of secretion and release mucous and specific chemical compounds onto their apical surfaces. The epithelium of the small intestine releases digestive enzymes, for example. Cells lining the respiratory tract secrete mucous that traps incoming microorganisms and particles. A glandular epithelium contains many secretory cells.
+
+    / The Epithelial Cell
+    /// Epithelial cells are typically characterized by the polarized distribution of organelles and membrane-bound proteins between their basal and apical surfaces.
+    model EpithelialCell
+      >>>
+        Particular structures found in some epithelial cells are an adaptation to specific functions. Certain organelles are segregated to the basal sides, whereas other organelles and extensions, such as cilia, when present, are on the apical surface.
+
+      --
+        EpithelialPolarity
+        BasalSurface
+        ApicalSurface
+        Lumen
+        Cilium
+
+      >>>
+        {image-right:'Figure_4_2_3a} {Cilium Cilia} are microscopic extensions of the apical cell membrane that are supported by microtubules. They beat in unison and move fluids as well as trapped particles. Ciliated epithelium lines the ventricles of the brain where it helps circulate the cerebrospinal fluid. The ciliated epithelium of your airway forms a mucociliary escalator that sweeps particles of dust and pathogens trapped in the secreted mucous toward the throat. It is called an escalator because it continuously pushes mucous with trapped particles upward. In contrast, nasal cilia sweep the mucous blanket down towards your throat. In both cases, the transported materials are usually swallowed, and end up in the acidic environment of your stomach.
+
+      /// Cell polarity is a fundamental feature of many types of cells. Epithelial cells are one example of a polarized cell type, featuring distinct 'apical', 'lateral' and 'basal' plasma membrane domains.
+      model EpithelialPolarity
+        # https://en.wikipedia.org/wiki/Epithelial_polarity
+
+      /// The basal surface is the surface of a cell which faces connective tissue.
+      model BasalSurface
+
+      /// The apical surface is the surface of a cell which faces the external environment or lumen (inside) of a tube.
+      model ApicalSurface
+
+      /// A lumen (plural lumina) is the inside space of a tubular structure, such as an artery or intestine.
+      model Lumen
+        # https://en.wikipedia.org/wiki/Epithelial_polarity
+
+      /// A cilium (plural is cilia) is an organelle found on eukaryotic cells and are slender protuberances that project from the much larger cell body.
+      model Cilium
+        # https://en.wikipedia.org/wiki/Cilium
+
+    / Cell to Cell Junctions
+    /// Cells of epithelia are closely connected and are not separated by intracellular material. Three basic types of connections allow varying degrees of interaction between the cells: tight junctions, anchoring junctions, and gap junctions.
+    model CellJunctions
+
+      /// Cell junctions consist of multiprotein complexes that provide contact between neighboring cells or between a cell and the extracellular matrix. They also build up the paracellular barrier of epithelia and control the paracellular transport.
+      model CellJunction
+        # https://en.wikipedia.org/wiki/Cell_junction
+
+      <<
+        CellJunction
+
+      >>>
+        At one end of the spectrum is the  **tight junction**, which separates the cells into apical and basal compartments.
+
+      --
+        TightJunction
+
+      >>>
+        When two adjacent epithelial cells form a tight junction, there is no extracellular space between them and the movement of substances through the extracellular space between the cells is blocked. This enables the epithelia to act as selective barriers. An  **anchoring junction** includes several types of cell junctions that help stabilize epithelial tissues.
+
+      --
+        AnchoringJunction
+
+      >>>
+        Anchoring junctions are common on the lateral and basal surfaces of cells where they provide strong and flexible connections.
+
+        In contrast with the tight and anchoring junctions, a  **gap junction** forms an intercellular passageway between the membranes of adjacent cells to facilitate the movement of small molecules and ions between the cytoplasm of adjacent cells.
+
+      --
+        GapJunction
+
+      >>>
+        These junctions allow electrical and metabolic coupling of adjacent cells, which coordinates function in large groups of cells.
+
+      >>>
+        {image:'Figure_4_2_1}
+
+      /// Tight junctions are multiprotein junctional complexes whose general function is to prevent leakage of transported solutes and water and seals the paracellular pathway.
+      model TightJunction
+
+      /// Cells within tissues and organs must be anchored to one another and attached to components of the extracellular matrix. Cells have developed several types of junctional complexes to serve these functions, and in each case, anchoring proteins extend through the plasma membrane to link cytoskeletal proteins in one cell to cytoskeletal proteins in neighboring cells as well as to proteins in the extracellular matrix.
+      model AnchoringJunction
+        >>>
+          There are three types of anchoring junctions: desmosomes, hemidesmosomes, and adherens.
+
+        model Desmosomes
+        model Heidesmosome
+        model Adherens
+
+        --
+          Desmosomes
+          Heidesmosome
+          Adherens
+
+        >>>
+          Desmosomes occur in patches on the membranes of cells. The patches are structural proteins on the inner surface of the cell’s membrane. The adhesion molecule, cadherin, is embedded in these patches and projects through the cell membrane to link with the cadherin molecules of adjacent cells. These connections are especially important in holding cells together. Hemidesmosomes, which look like half a desmosome, link cells to the extracellular matrix, for example, the basal lamina. While similar in appearance to desmosomes, they include the adhesion proteins called integrins rather than cadherins. Adherens junctions use either cadherins or integrins depending on whether they are linking to other cells or matrix. The junctions are characterized by the presence of the contractile protein actin located on the cytoplasmic surface of the cell membrane. The actin can connect isolated patches or form a belt-like structure inside the cell. These junctions influence the shape and folding of the epithelial tissue.
+
+      /// Gap junctions are a specialized intercellular connection. They directly connect the cytoplasm of two cells, which allows various molecules, ions and electrical impulses to directly pass through a regulated gate between cells.
+      model GapJunction
+
+    / Classifications of Epithelial Tissue
+    /// Epithelial tissues are classified according to the shape of the cells and number of the cell layers formed.
+    model Classifications
+      >>>
+        {'Figure_4_2_4 Figure 4.2.4} summarizes the different categories of epithelial cell tissue cells.
+
+        Epithelial tissues are classified according to the shape of the cells and number of the cell layers formed. Cell shapes can be squamous (flattened and thin), cuboidal (boxy, as wide as it is tall), or columnar (rectangular, taller than it is wide). Similarly, the number of cell layers in the tissue can be one—where every cell rests on the basal lamina—which is a simple epithelium, or more than one, which is a stratified epithelium and only the basal layer of cells rests on the basal lamina. Pseudostratified (pseudo- = “false”) describes tissue with a single layer of irregularly shaped cells that give the appearance of more than one layer. Transitional describes a form of specialized stratified epithelium in which the shape of the cells can vary.
+
+        {image:'Figure_4_2_2}
+
+      --
+        SimpleEpithelium
+        PseudostratifiedColumnarEpithelium
+
+      >>>
+        Both simple and pseudostratified columnar epithelia are heterogeneous epithelia because they include additional types of cells interspersed among the epithelial cells. For example, a  {GobletCell goblet cell} is a mucous-secreting unicellular “gland” interspersed between the columnar epithelial cells of mucous membranes ({'Figure_4_2_3a}).
+
+      --
+        StratifiedEpithelium
+
+      / Simple Epithelium
+      /// The shape of the cells in the single cell layer of simple epithelium reflects the functioning of those cells.
+      model SimpleEpithelium
+
+        /// The cells in simple squamous epithelium have the appearance of thin scales. Squamous cell nuclei tend to be flat, horizontal, and elliptical, mirroring the form of the cell.
+        model SimpleSquamousEpithelium
+
+          --
+            Endothelium
+
+          >>>
+            Simple squamous epithelium, because of the thinness of the cell, is present where rapid passage of chemical compounds is observed. The alveoli of lungs where gases diffuse, segments of kidney tubules, and the lining of capillaries are also made of simple squamous epithelial tissue.
+
+          --
+            Mesothelium
+
+          >>>
+            Its primary function is to provide a smooth and protective surface. Mesothelial cells are squamous epithelial cells that secrete a fluid that lubricates the mesothelium.
+
+          /// The endothelium is the epithelial tissue that lines vessels of the lymphatic and cardiovascular system, and it is made up of a single layer of squamous cells.
+          model Endothelium
+
+          /// The mesothelium is a simple squamous epithelium that forms the surface layer of the serous membrane that lines body cavities and internal organs.
+          model Mesothelium
+
+        /// In simple cuboidal epithelium, the nucleus of the box-like cells appears round and is generally located near the center of the cell. These epithelia are active in the secretion and absorptions of molecules. Simple cuboidal epithelia are observed in the lining of the kidney tubules and in the ducts of glands.
+        model SimpleCuboidalEpithelium
+
+        /// In simple columnar epithelium, the nucleus of the tall column-like cells tends to be elongated and located in the basal end of the cells. Like the cuboidal epithelia, this epithelium is active in the absorption and secretion of molecules. Simple columnar epithelium forms the lining of some sections of the digestive system and parts of the female reproductive tract.
+        model SimpleColumnarEpithelium
+
+        /// Ciliated columnar epithelium is composed of simple columnar epithelial cells with cilia on their apical surfaces. These epithelial cells are found in the lining of the fallopian tubes and parts of the respiratory system, where the beating of the cilia helps remove particulate matter.
+        model CiliatedColumnarEpithelium
+
+      /// Pseudostratified columnar epithelium is a type of epithelium that appears to be stratified but instead consists of a single layer of irregularly shaped and differently sized columnar cells.
+      model PseudostratifiedColumnarEpithelium
+        >>>
+          In pseudostratified epithelium, nuclei of neighboring cells appear at different levels rather than clustered in the basal end. The arrangement gives the appearance of stratification; but in fact all the cells are in contact with the basal lamina, although some do not reach the apical surface. Pseudostratified columnar epithelium is found in the respiratory tract, where some of these cells have cilia.
+
+      /// A stratified epithelium consists of several stacked layers of cells. This epithelium protects against physical and chemical wear and tear.
+      model StratifiedEpithelium
+        >>>
+          The stratified epithelium is named by the shape of the most apical layer of cells, closest to the free space.
+
+          **Stratified squamous epithelium** is the most common type of stratified epithelium in the human body.
+
+        --
+          StratifiedSquamousEpithelium
+
+        >>>
+          The apical cells are squamous, whereas the basal layer contains either columnar or cuboidal cells. The top layer may be covered with dead cells filled with keratin. Mammalian skin is an example of this dry, keratinized, stratified squamous epithelium. The lining of the mouth cavity is an example of an unkeratinized, stratified squamous epithelium.
+
+          **Stratified cuboidal epithelium** and  **stratified columnar epithelium** can also be found in certain glands and ducts, but are uncommon in the human body.
+
+        --
+          StratifiedCuboidalEpithelium
+          StratifiedColumnarEpithelium
+
+        >>>
+          Another kind of stratified epithelium is  **transitional epithelium**, so-called because of the gradual changes in the shapes of the apical cells as the bladder fills with urine.
+
+        --
+          TransitionalEpithelium
+
+        >>>
+          Transitional epithelium is found only in the urinary system, specifically the ureters and urinary bladder. When the bladder is empty, this epithelium is convoluted and has cuboidal apical cells with convex, umbrella shaped, apical surfaces. As the bladder fills with urine, this epithelium loses its convolutions and the apical cells transition from cuboidal to squamous. It appears thicker and more multi-layered when the bladder is empty, and more stretched out and less stratified when the bladder is full and distended.
+
+        /// A stratified squamous epithelium consists of squamous (flattened) epithelial cells arranged in layers upon a basal membrane. Only one layer is in contact with the basement membrane; the other layers adhere to one another to maintain structural integrity.
+        model StratifiedSquamousEpithelium
+
+        /// Stratified cuboidal epithelium is a type of epithelial tissue composed of multiple layers of cube-shaped cells. Only the most superficial layer is made up of cuboidal cells, and the other layers can be cells of other types. This type of tissue can be observed in sweat glands, mammary glands, circumanal glands, and salivary glands.
+        model StratifiedCuboidalEpithelium
+          # https://en.wikipedia.org/wiki/Stratified_cuboidal_epithelium
+
+        /// Stratified columnar epithelium is a rare type of epithelial tissue composed of column shaped cells arranged in multiple layers. Stratified columnar epithelia are found in the conjunctiva of the eye, in parts of the pharynx, anus, the uterus, and the male urethra and vas deferens. It is also found in the lobar ducts in salivary glands. The cells function in secretion and protection.
+        model StratifiedColumnarEpithelium
+          # https://en.wikipedia.org/wiki/Stratified_columnar_epithelium
+
+        /// Transitional epithelium is a type of stratified epithelium. This tissue consists of multiple layers of epithelial cells which can contract and expand in order to adapt to the degree of distension needed. Transitional epithelium lines the organs of the urinary system.
+        model TransitionalEpithelium
+          # https://en.wikipedia.org/wiki/Transitional_epithelium
+
+      /// Goblet cells are simple columnar epithelial cells that secrete gel-forming mucins. The term goblet refers to the cell's goblet-like shape.
+      model GobletCell
+        # https://en.wikipedia.org/wiki/Goblet_cell
+
+    /// A gland is a structure made up of one or more cells modified to synthesize and secrete chemical substances. Most glands consist of groups of epithelial cells.
+    model GlandularEpithelium
+      >>>
+        A gland can be classified as an  **endocrine gland**, a ductless gland that releases secretions directly into surrounding tissues and fluids (endo- = “inside”), or an  **exocrine gland** whose secretions leave through a duct that opens directly, or indirectly, to the external environment (exo- = “outside”).
+
+      --
+        EndocrineGland
+        ExocrineGland
+
+      --
+        Structure
+        Secretion
+
+
+      /// Endocrine glands are glands of the endocrine system that secrete their products, hormones, directly into the blood rather than through a duct. The major glands of the endocrine system include the pineal gland, pituitary gland, pancreas, ovaries, testes, thyroid gland, parathyroid gland, hypothalamus and adrenal glands. The hypothalamus and pituitary gland are neuroendocrine organs.
+      model EndocrineGland
+        # https://en.wikipedia.org/wiki/Endocrine_gland
+        >>>
+          The secretions of endocrine glands are called hormones. Hormones are released into the interstitial fluid, diffused into the bloodstream, and delivered to targets, in other words, cells that have receptors to bind the hormones. The endocrine system is part of a major regulatory system coordinating the regulation and integration of body responses. A few examples of endocrine glands include the anterior pituitary, thymus, adrenal cortex, and gonads.
+
+      /// Exocrine glands are glands that produce and secrete substances onto an epithelial surface by way of a duct. Examples of exocrine glands include sweat, salivary, mammary, ceruminous, lacrimal, sebaceous, and mucous.
+      model ExocrineGland
+        >>>
+          Exocrine glands release their contents through a duct that leads to the epithelial surface. Mucous, sweat, saliva, and breast milk are all examples of secretions from exocrine glands. They are all discharged through tubular ducts. Secretions into the lumen of the gastrointestinal tract, technically outside of the body, are of the exocrine category.
+
+      / Glandular Structure
+      /// Exocrine glands are classified as either unicellular or multicellular. The unicellular glands are scattered single cells, such as goblet cells, found in the mucous membranes of the small and large intestine.
+      model Structure
+        >>>
+          The multicellular exocrine glands known as serous glands develop from simple epithelium to form a secretory surface that secretes directly into an inner cavity. These glands line the internal cavities of the abdomen and chest and release their secretions directly into the cavities. Other multicellular exocrine glands release their contents through a tubular duct. The duct is single in a simple gland but in compound glands is divided into one or more branches ({'Figure_4_2_5 Figure 4.2.5}). In tubular glands, the ducts can be straight or coiled, whereas tubes that form pockets are alveolar (acinar), such as the exocrine portion of the pancreas. Combinations of tubes and pockets are known as tubuloalveolar (tubuloacinar) compound glands. In a branched gland, a duct is connected to more than one secretory group of cells.
+
+          {image:'Figure_4_2_5}
+
+      / Methods and Types of Secretion
+      /// Exocrine glands can be classified by their mode of secretion and the nature of the substances released, as well as by the structure of the glands and shape of ducts.
+      model Secretion
+        >>>
+          **Merocrine secretion** is the most common type of exocrine secretion.
+
+        --
+          MerocrineSecretion
+
+        >>>
+          The secretions are enclosed in vesicles that move to the apical surface of the cell where the contents are released by exocytosis. For example, watery mucous containing the glycoprotein mucin, a lubricant that offers some pathogen protection is a merocrine secretion. The eccrine glands that produce and secrete sweat are another example.
+
+          {image:'Figure_4_2_6}
+
+          **Apocrine secretion** accumulates near the apical portion of the cell. That portion of the cell and its secretory contents pinch off from the cell and are released.
+
+        --
+          ApocrineSecretion
+
+        >>>
+          Apocrine sweat glands in the axillary and genital areas release fatty secretions that local bacteria break down; this causes body odor. Both merocrine and apocrine glands continue to produce and secrete their contents with little damage caused to the cell because the nucleus and golgi regions remain intact after secretion.
+
+          In contrast, the process of  **holocrine secretion** involves the rupture and destruction of the entire gland cell. The cell accumulates its secretory products and releases them only when it bursts.
+
+        --
+          HolocrineSecretion
+
+        >>>
+          New gland cells differentiate from cells in the surrounding tissue to replace those lost by secretion. The sebaceous glands that produce the oils on the skin and hair are holocrine glands/cells.
+
+          {image:'Figure_4_2_7}
+
+        >>>
+          Glands are also named after the products they produce. The  **serous gland** produces watery, blood-plasma-like secretions rich in enzymes such as alpha amylase, whereas the  **mucous gland** releases watery to viscous products rich in the glycoprotein mucin.
+
+        --
+          SerousGland
+          MucuousGland
+
+        >>>
+          Both serous and mucous glands are common in the salivary glands of the mouth. Mixed exocrine glands contain both serous and mucous glands and release both types of secretions.
+
+        /// Merocrine (or eccrine) is a term used to classify exocrine glands and their secretions. A cell is classified as merocrine if the secretions of that cell are excreted via exocytosis from secretory cells into an epithelial-walled duct or ducts and then onto a bodily surface or into the lumen.
+        model MerocrineSecretion
+          # https://en.wikipedia.org/wiki/Merocrine
+
+        /// Apocrine is a term used to classify exocrine glands in the study of histology. Cells which are classified as apocrine bud their secretions off through the plasma membrane producing extracellular membrane-bound vesicles. The apical portion of the secretory cell of the gland pinches off and enters the lumen. It loses part of its cytoplasm in their secretions.
+        model ApocrineSecretion
+          # https://en.wikipedia.org/wiki/Apocrine
+
+        /// Holocrine is a term used to classify the mode of secretion in exocrine glands. Holocrine secretions are produced in the cytoplasm of the cell and released by the rupture of the plasma membrane, which destroys the cell and results in the secretion of the product into the lumen.
+        model HolocrineSecretion
+          # https://en.wikipedia.org/wiki/Holocrine
+
+        /// Serous glands contain serous acini, a grouping of serous cells that secrete serous fluid, isotonic with blood plasma, that contains enzymes such as alpha-amylase.
+        model SerousGland
+          # https://en.wikipedia.org/wiki/Serous_gland
+
+        /// Mucous gland, also known as muciparous glands, are found in several different parts of the body, and secrete mucous, a slippery aqueous secretion produced by, and covering, mucus membranes. Mucus serves to protect epithelial cells in the respiratory, gastrointestinal, urogenital, visual, and auditory systems.
+        model MucuousGland
+
+  /// Connective tissue, as its name implies, binds the cells and organs of the body together and functions in the protection, support, and integration of all parts of the body.
+  model ConnectiveTissue
+    path InBrief
+      step
+        >>>
+          As may be obvious from its name, one of the major functions of connective tissue is to connect tissues and organs. Unlike epithelial tissue, which is composed of cells closely packed with little or no extracellular space in between, connective tissue cells are dispersed in a  **matrix**. The matrix usually includes a large amount of extracellular material produced by the connective tissue cells that are embedded within it. The matrix plays a major role in the functioning of this tissue. The major component of the matrix is a  **ground substance** often crisscrossed by protein fibers. This ground substance is usually a fluid, but it can also be mineralized and solid, as in bones. Connective tissues come in a vast variety of forms, yet they typically have in common three characteristic components: cells, large amounts of amorphous ground substance, and protein fibers. The amount and structure of each component correlates with the function of the tissue, from the rigid ground substance in bones supporting the body to the inclusion of specialized cells; for example, a phagocytic cell that engulfs pathogens and also rids tissue of cellular debris.
+          Connective tissue is a heterogeneous tissue with many cell shapes and tissue architecture. Structurally, all connective tissues contain cells that are embedded in an extracellular matrix stabilized by proteins. The chemical nature and physical layout of the extracellular matrix and proteins vary enormously among tissues, reflecting the variety of functions that connective tissue fulfills in the body. Connective tissues separate and cushion organs, protecting them from shifting or traumatic injury. Connect tissues provide support and assist movement, store and transport energy molecules, protect against infections, and contribute to temperature homeostasis.
+      step
+        >>>
+          Many different cells contribute to the formation of connective tissues. They originate in the mesodermal germ layer and differentiate from mesenchyme and hematopoietic tissue in the bone marrow. Fibroblasts are the most abundant and secrete many protein fibers, adipocytes specialize in fat storage, hematopoietic cells from the bone marrow give rise to all the blood cells, chondrocytes form cartilage, and osteocytes form bone. The extracellular matrix contains fluid, proteins, polysaccharide derivatives, and, in the case of bone, mineral crystals. Protein fibers fall into three major groups: collagen fibers that are thick, strong, flexible, and resist stretch; reticular fibers that are thin and form a supportive mesh; and elastin fibers that are thin and elastic.
+      step
+        >>>
+          The major types of connective tissue are connective tissue proper, supportive tissue, and fluid tissue. Loose connective tissue proper includes adipose tissue, areolar tissue, and reticular tissue. These serve to hold organs and other tissues in place and, in the case of adipose tissue, isolate and store energy reserves. The matrix is the most abundant feature for loose tissue although adipose tissue does not have much extracellular matrix. Dense connective tissue proper is richer in fibers and may be regular, with fibers oriented in parallel as in ligaments and tendons, or irregular, with fibers oriented in several directions. Organ capsules (collagenous type) and walls of arteries (elastic type) contain dense irregular connective tissue. Cartilage and bone are supportive tissue. Cartilage contains chondrocytes and is somewhat flexible. Hyaline cartilage is smooth and clear, covers joints, and is found in the growing portion of bones. Fibrocartilage is tough because of extra collagen fibers and forms, among other things, the intervertebral discs. Elastic cartilage can stretch and recoil to its original shape because of its high content of elastic fibers. The matrix contains very few blood vessels. Bones are made of a rigid, mineralized matrix containing calcium salts, crystals, and osteocytes lodged in lacunae. Bone tissue is highly vascularized. Cancellous bone is spongy and less solid than compact bone. Fluid tissue, for example blood and lymph, is characterized by a liquid matrix and no supporting fibers.
+
+    ^^
+      InBrief
+
+    >>>
+      Unlike epithelial tissue, which is composed of cells closely packed with little or no extracellular space in between, connective tissue cells are dispersed in a  **matrix**.
+
+    --
+      Matrix
+
+    >>>
+      The matrix usually includes a large amount of extracellular material produced by the connective tissue cells that are embedded within it. The matrix plays a major role in the functioning of this tissue. The major component of the matrix is a  **ground substance** often crisscrossed by protein fibers.
+
+    --
+      GroundSubstance
+
+    >>>
+      This ground substance is usually a fluid, but it can also be mineralized and solid, as in bones. Connective tissues come in a vast variety of forms, yet they typically have in common three characteristic components: cells, large amounts of amorphous ground substance, and protein fibers. The amount and structure of each component correlates with the function of the tissue, from the rigid ground substance in bones supporting the body to the inclusion of specialized cells; for example, a phagocytic cell that engulfs pathogens and also rids tissue of cellular debris.
+
+    --
+      Functions
+      Embryonic
+
+    let classif >
+      The three broad categories of connective tissue are classified according to the characteristics of their ground substance and the types of fibers found within the matrix.
+
+    >>
+      classif
+      partial.connectivetab
+
+    --
+      ConnectiveTissueProper
+      SupportiveConnectiveTissue
+      FluidConnectiveTissue
+
+    /// In biology, matrix (plural: matrices) is the material (or tissue) in animal or plant cells, in which more specialized structures are embedded.
+    model Matrix
+      # https://en.wikipedia.org/wiki/Matrix_(biology)
+
+    /// Ground substance is an amorphous gel-like substance in the extracellular space that contains all components of the extracellular matrix (ECM) except for fibrous materials such as collagen and elastin. Ground substance is active in the development, movement, and proliferation of tissues, as well as their metabolism.
+    model GroundSubstance
+      # https://en.wikipedia.org/wiki/Ground_substance
+
+    / Functions of Connective Tissues
+    /// Connective tissues perform many functions in the body, but most importantly, they support and connect other tissues; from the connective tissue sheath that surrounds muscle cells, to the tendons that attach muscles to bones, and to the skeleton that supports the positions of the body.
+    model Functions
+      >>>
+        Protection is another major function of connective tissue, in the form of fibrous capsules and bones that protect delicate organs and, of course, the skeletal system. Specialized cells in connective tissue defend the body from microorganisms that enter the body. Transport of fluid, nutrients, waste, and chemical messengers is ensured by specialized fluid connective tissues, such as blood and lymph. Adipose cells store surplus energy in the form of fat and contribute to the thermal insulation of the body.
+
+    / Embryonic Connective Tissue
+    /// Two types of embryonic connective tissue are mesenchyme and mucous connective tissue.
+    model Embryonic
+      let mesoderm mean EmbryonicOrigins.Mesoderm
+      >>>
+        All connective tissues derive from the {mesoderm mesodermal layer} of the embryo. The first connective tissue to develop in the embryo is  **mesenchyme**, the stem cell line from which all connective tissues are later derived.
+
+      --
+        Mesenchyme
+
+      >>>
+        Clusters of mesenchymal cells are scattered throughout adult tissue and supply the cells needed for replacement and repair after a connective tissue injury. A second type of embryonic connective tissue forms in the umbilical cord, called  **mucous connective tissue** or Wharton’s jelly.
+
+      --
+        WhartonsJelly
+
+      >>>
+        This tissue is no longer present after birth, leaving only scattered mesenchymal cells throughout the body.
+
+        {image:'Figure_4_1_2}
+
+      /// Mesenchyme is a type of connective tissue found mostly during the development of the embryo. It is composed mainly of ground substance with few cells or fibers.
+      model Mesenchyme
+        # https://en.wikipedia.org/wiki/Mesenchyme
+
+      /// Wharton's jelly is a gelatinous substance within the umbilical cord also present in vitreous humor of the eyeball. It is derived from extra-embryonic mesoderm. As a mucous tissue, it protects and insulates umbilical blood vessels.
+      model WhartonsJelly
+        # https://en.wikipedia.org/wiki/Wharton%27s_jelly
+
+    /// Connective tissue proper includes loose connective tissue and  dense connective tissue. Both tissues have a variety of cell types and protein fibers suspended in a viscous ground substance.
+    model ConnectiveTissueProper
+
+      import CellTypes._
+
+      >>>
+        {Fibroblasts} are present in all connective tissue proper. {Fibrocytes}, {Adipocytes adipocytes}, and {Embryonic.Mesenchyme mesenchymal cells} are fixed cells, which means they remain within the connective tissue. Other cells move in and out of the connective tissue in response to chemical signals. {Macrophages}, {MastCells mast cells}, {Lymphocytes lymphocytes}, {PlasmaCells plasma cells}, and {PhagocyticCells phagocytic cells} are found in connective tissue proper but are actually part of the immune system protecting the body.
+
+        {image:'Figure_4_3_1}
+
+      --
+        CellTypes
+        Fibers
+
+      --
+        LooseConnectiveTissue
+        DenseConnectiveTissue
+
+
+      /// The most abundant cell in connective tissue proper is the fibroblast, followed by the fibrocyte. Other important cell types include adipocytes, mesenchymes, macrophages and cytokines.
+      model CellTypes
+        >>>
+          The most abundant cell in connective tissue proper is the  **fibroblast**.
+
+        --
+          Fibroblasts
+
+        >>>
+          Polysaccharides and proteins secreted by fibroblasts combine with extra-cellular fluids to produce a viscous ground substance that, with embedded fibrous proteins, forms the extra-cellular matrix.
+
+        --
+          Polysaccharides
+
+        >>>
+          As you might expect, a  **fibrocyte**, a less active form of fibroblast, is the second most common cell type in connective tissue proper.
+
+        --
+          Fibrocytes
+
+        >>>
+          **Adipocytes** are cells that store lipids as droplets that fill most of the cytoplasm.
+
+        --
+          Adipocytes
+
+        >>>
+          There are two basic types of adipocytes: white and brown. The brown adipocytes store lipids as many droplets, and have high metabolic activity. In contrast, white fat adipocytes store lipids as a single large drop and are metabolically less active.
+
+        --
+          Adipocytes.WAT
+          Adipocytes.BAT
+
+        >>>
+          Their effectiveness at storing large amounts of fat is witnessed in obese individuals. The number and type of adipocytes depends on the tissue and location, and vary among individuals in the population.
+
+          The  **mesenchymal cell** is a multipotent adult stem cell. These cells can differentiate into any type of connective tissue cells needed for repair and healing of damaged tissue.
+
+        --
+          Embryonic.Mesenchyme
+
+        >>>
+          The **macrophage cell** is a large cell derived from a monocyte, a type of blood cell, which enters the connective tissue matrix from the blood vessels.
+
+        --
+          Macrophages
+
+        >>>
+          The macrophage cells are an essential component of the immune system, which is the body’s defense against potential pathogens and degraded host cells. When stimulated, macrophages release cytokines, small proteins that act as chemical messengers.
+
+        --
+          Cytokines
+
+        >>>
+          Cytokines recruit other cells of the immune system to infected sites and stimulate their activities. Roaming, or free, macrophages move rapidly by amoeboid movement, engulfing infectious agents and cellular debris. In contrast, fixed macrophages are permanent residents of their tissues.
+
+          The mast cell, found in connective tissue proper, has many cytoplasmic granules.
+
+        --
+          MastCells
+          Granule
+
+        >>>
+          These granules contain the chemical signals histamine and heparin. When irritated or damaged, mast cells release histamine, an inflammatory mediator, which causes vasodilation and increased blood flow at a site of injury or infection, along with itching, swelling, and redness you recognize as an allergic response. Like blood cells, mast cells are derived from hematopoietic stem cells and are part of the immune system.
+
+        /// A fibroblast is a type of biological cell that synthesizes the extracellular matrix and collagen, produces the structural framework for animal tissues, and plays a critical role in wound healing. Fibroblasts are the most common cells of connective tissue in animals.
+        model Fibroblasts
+          # https://en.wikipedia.org/wiki/Fibroblast
+
+        /// A fibrocyte is an inactive mesenchymal cell, that is, a cell showing minimal cytoplasm, limited amounts of rough endoplasmic reticulum and lacks biochemical evidence of protein synthesis.
+        model Fibrocytes
+          # https://en.wikipedia.org/wiki/Fibrocyte
+
+        /// Adipocytes, also known as lipocytes and fat cells, are the cells that primarily compose adipose tissue, specialized in storing energy as fat.
+        model Adipocytes
+          # https://en.wikipedia.org/wiki/Adipocyte
+
+          /// White adipose tissue (WAT) or white fat is one of the two types of adipose tissue found in mammals. White adipose tissue is used for energy storage. In healthy, non-overweight humans, white adipose tissue composes as much as 20% of the body weight in men and 25% in women.
+          model WAT
+
+          /// Brown adipose tissue (BAT) or brown fat makes up the adipose organ together with white adipose tissue (or white fat). In contrast to white adipocytes, which contain a single lipid droplet, brown adipocytes contain numerous smaller droplets and a much higher number of (iron-containing) mitochondria, which gives the tissue its color.
+          model BAT
+
+        /// Macrophages are a type of white blood cell, of the immune system, that engulfs and digests cellular debris, foreign substances, microbes, cancer cells, and anything else that does not have the type of proteins specific to healthy body cells on its surface.
+        model Macrophages
+          # https://en.wikipedia.org/wiki/Macrophage
+
+        /// A mast cell is a resident cell of connective tissue that contains many granules rich in histamine and heparin. Although best known for their role in allergy and anaphylaxis, mast cells play an important protective role as well, being intimately involved in wound healing, angiogenesis, immune tolerance, defense against pathogens, and blood–brain barrier function.
+        model MastCells
+          # https://en.wikipedia.org/wiki/Mast_cell
+
+        /// A lymphocyte is one of the subtypes of a white blood cell in a vertebrate's immune system. They are the main type of cell found in lymph, which prompted the name "lymphocyte".
+        model Lymphocytes
+          # https://en.wikipedia.org/wiki/Lymphocyte
+
+        /// Plasma cells are white blood cells that secrete large volumes of antibodies. They are transported by the blood plasma and the lymphatic system. Once released into the blood and lymph, these antibody molecules bind to the target antigen (foreign substance) and initiate its neutralization or destruction.
+        model PlasmaCells
+          # https://en.wikipedia.org/wiki/Plasma_cell
+
+        /// Phagocytes are cells that protect the body by ingesting harmful foreign particles, bacteria, and dead or dying cells. They are essential for fighting infections and for subsequent immunity.
+        model PhagocyticCells
+          # https://en.wikipedia.org/wiki/Phagocyte
+
+        /// Polysaccharides are polymeric carbohydrate molecules composed of long chains of monosaccharide units bound together by glycosidic linkages. Examples include storage polysaccharides such as starch and glycogen, and structural polysaccharides such as cellulose and chitin.
+        model Polysaccharides
+
+        /// Cytokines are a broad and loose category of small proteins (~5–20 kDa) that are important in cell signaling. Cytokines are peptides, and cannot cross the lipid bilayer of cells to enter the cytoplasm. Cytokines have been shown to be involved in autocrine signaling, paracrine signaling and endocrine signaling as immunomodulating agents.
+        model Cytokines
+          # https://en.wikipedia.org/wiki/Cytokine
+
+        /// In cell biology, a granule is a small particle. It can be any structure barely visible by light microscopy. The term is most often used to describe a secretory vesicle.
+        model Granule
+          # https://en.wikipedia.org/wiki/Granule_(cell_biology)
+
+      / Connective Tissue Fibers and Ground Substance
+      /// Three main types of fibers are secreted by fibroblasts: collagen fibers, elastic fibers, and reticular fibers.
+      model Fibers
+        >>>
+          **Collagen fiber** is made from fibrous protein subunits linked together to form a long and straight fiber.
+
+        --
+          CollagenFiber
+
+        >>>
+          Collagen fibers, while flexible, have great tensile strength, resist stretching, and give ligaments and tendons their characteristic resilience and strength. These fibers hold connective tissues together, even during the movement of the body.
+
+          **Elastic fiber** contains the protein elastin along with lesser amounts of other proteins and glycoproteins.
+
+        --
+          ElasticFiber
+
+        >>>
+          The main property of elastin is that after being stretched or compressed, it will return to its original shape. Elastic fibers are prominent in elastic tissues found in skin and the elastic ligaments of the vertebral column.
+
+          **Reticular fiber** is also formed from the same protein subunits as collagen fibers; however, these fibers remain narrow and are arrayed in a branching network.
+
+        --
+          ReticularFiber
+
+        >>>
+          They are found throughout the body, but are most abundant in the reticular tissue of soft organs, such as liver and spleen, where they anchor and provide structural support to the  **parenchyma** (the functional cells, blood vessels, and nerves of the organ).
+
+        --
+          Parenchyma
+          Stroma
+
+        >>>
+          All of these fiber types are embedded in **ground substance**.
+
+        --
+          GroundSubstance
+
+        >>>
+          Secreted by fibroblasts, ground substance is made of polysaccharides, specifically hyaluronic acid, and proteins. These combine to form a proteoglycan with a protein core and polysaccharide branches. The proteoglycan attracts and traps available moisture forming the clear, viscous, colorless matrix you now know as ground substance.
+
+        /// Collagen is the main structural protein in the extracellular space in the various connective tissues in the body. As the main component of connective tissue, it is the most abundant protein in mammals. It is mostly found in fibrous tissues such as tendons, ligaments, and skin.
+        model CollagenFiber
+          # https://en.wikipedia.org/wiki/Collagen
+
+        /// Elastic fibers (or yellow fibers) are bundles of proteins (elastin) found in extracellular matrix of connective tissue and produced by fibroblasts and smooth muscle cells in arteries. Elastic fibers are found in the skin, lungs, arteries, veins, connective tissue proper, elastic cartilage, periodontal ligament, fetal tissue and other structures.
+        model ElasticFiber
+          # https://en.wikipedia.org/wiki/Elastic_fiber
+
+        /// Reticular fibers, reticular fibres or reticulin is a type of fiber in connective tissue. Reticular fibers crosslink to form a fine meshwork (reticulin). This network acts as a supporting mesh in soft tissues such as liver, bone marrow, and the tissues and organs of the lymphatic system.
+        model ReticularFiber
+          # https://en.wikipedia.org/wiki/Reticular_fiber
+
+        /// The parenchyma is the functional parts of an organ in the body. This is in contrast to the stroma, which refers to the structural tissue of organs, namely, the connective tissues.
+        model Parenchyma
+          # https://en.wikipedia.org/wiki/Parenchyma
+
+        /// Stroma is the part of a tissue or organ with a structural or connective role. It is made up of all the parts without specific functions of the organ - for example, connective tissue, blood vessels, nerves, ducts, etc.
+        model Stroma
+          # https://en.wikipedia.org/wiki/Stroma_(tissue)
+
+      /// In loose connective tissue, the fibers are loosely organized, leaving large spaces in between. Loose connective tissue is found between many organs where it acts both to absorb shock and bind tissues together. It allows water, salts, and various nutrients to diffuse through to adjacent or imbedded cells and tissues.
+      model LooseConnectiveTissue
+
+        /// Adipose tissue consists mostly of fat storage cells, with little extracellular matrix.
+        model AdiposeTissue
+          >>>
+            A large number of capillaries allow rapid storage and mobilization of lipid molecules. White adipose tissue is most abundant. It can appear yellow and owes its color to carotene and related pigments from plant food. White fat contributes mostly to lipid storage and can serve as insulation from cold temperatures and mechanical injuries. White adipose tissue can be found protecting the kidneys and cushioning the back of the eye. Brown adipose tissue is more common in infants, hence the term “baby fat.” In adults, there is a reduced amount of brown fat and it is found mainly in the neck and clavicular regions of the body. The many mitochondria in the cytoplasm of brown adipose tissue help explain its efficiency at metabolizing stored fat. Brown adipose tissue is thermogenic, meaning that as it breaks down fats, it releases metabolic heat, rather than producing adenosine triphosphate (ATP), a key molecule used in metabolism.
+
+            {image:'Figure_4_3_2}
+
+        /// Areolar tissue fills the spaces between muscle fibers, surrounds blood and lymph vessels, and supports organs in the abdominal cavity. It contains many cell types and fibers and is distributed in a random, web-like fashion. Areolar tissue underlies most epithelia and represents the connective tissue component of epithelial membranes
+        model AreolarTissue
+
+        /// Reticular tissue is a mesh-like, supportive framework for soft organs such as lymphatic tissue, the spleen, and the liver. Reticular cells produce the reticular fibers that form the network onto which other cells attach. It derives its name from the Latin reticulus, which means “little net.”
+        model ReticularTissue
+          >>>
+            {image:'Figure_4_3_3}
+
+      /// Dense connective tissue is reinforced by bundles of fibers that provide tensile strength, elasticity, and protection. It contains more collagen fibers than does loose connective tissue, and as a consequence, it displays greater resistance to stretching. There are two major categories of dense connective tissue: regular and irregular.
+      model DenseConnectiveTissue
+        >>>
+          Dense regular connective tissue fibers are parallel to each other, enhancing tensile strength and resistance to stretching in the direction of the fiber orientations.
+
+        --
+          DenseRegularConnectiveTissue
+
+        >>>
+          Ligaments and tendons are made of dense regular connective tissue, but in ligaments not all fibers are parallel. Dense regular elastic tissue contains elastin fibers in addition to collagen fibers, which allows the ligament to return to its original length after stretching. The ligaments in the vocal folds and between the vertebrae in the vertebral column are elastic.
+
+          In dense irregular connective tissue, the direction of fibers is random. This arrangement gives the tissue greater strength in all directions and less strength in one particular direction.
+
+        --
+          DenseIrregularConnectiveTissue
+
+        >>>
+          In some tissues, fibers crisscross and form a mesh. In other tissues, stretching in several directions is achieved by alternating layers where fibers run in the same orientation in each layer, and it is the layers themselves that are stacked at an angle. The dermis of the skin is an example of dense irregular connective tissue rich in collagen fibers. Dense irregular elastic tissues give arterial walls the strength and the ability to regain original shape after stretching.
+
+          {image:'Figure_4_3_4}
+
+
+        /// Dense regular connective tissue provides connection between different tissues in the human body. The collagen fibers in dense regular connective tissue are bundled in a parallel fashion. Dense regular connective tissue (DRCT) is divided into white fibrous connective tissue and yellow fibrous connective tissue, both of which occur in two forms: cord arrangement and sheet arrangement.
+        model DenseRegularConnectiveTissue
+          # https://en.wikipedia.org/wiki/Dense_regular_connective_tissue
+
+        /// Dense irregular connective tissue has fibers that are not arranged in parallel bundles as in dense regular connective tissue. Dense irregular connective tissue consists of mostly collagen fibers. It has less ground substance than loose connective tissue. Fibroblasts are the prodominant cell type, scattered sparsely across the tissue.
+        model DenseIrregularConnectiveTissue
+          # https://en.wikipedia.org/wiki/Dense_irregular_connective_tissue
+
+      #
+      #
+      #
+      #
+
+    /// Supportive connective tissue—bone and cartilage—provide structure and strength to the body and protect soft tissues. A few distinct cell types and densely packed fibers in a matrix characterize these tissues.
+    model SupportiveConnectiveTissue
+      # In bone, the matrix is rigid and described as calcified because of the deposited calcium salts.
+
+      >>>
+        Two major forms of supportive connective tissue, cartilage and bone, allow the body to maintain its posture and protect internal organs.
+
+      --
+        Cartilage
+        Bone
+
+      /// Cartilage is a resilient and smooth elastic tissue, a rubber-like padding that covers and protects the ends of long bones at the joints.
+      model Cartilage
+        # https://en.wikipedia.org/wiki/Cartilage
+
+        >>>
+          The distinctive appearance of cartilage is due to polysaccharides called chondroitin sulfates, which bind with ground substance proteins to form proteoglycans. Embedded within the cartilage matrix are  **chondrocytes**, or cartilage cells, and the space they occupy are called  **lacunae** (singular = lacuna).
+
+        --
+          Chondrocytes
+          Lacunae
+
+        >>>
+          A layer of dense irregular connective tissue, the perichondrium, encapsulates the cartilage. Cartilaginous tissue is avascular, thus all nutrients need to diffuse through the matrix to reach the chondrocytes. This is a factor contributing to the very slow healing of cartilaginous tissues.
+
+          The three main types of cartilage tissue are **hyaline cartilage**, **fibrocartilage**, and **elastic cartilage**.
+
+        --
+          HyalineCartilage
+          Fibrocartilage
+          ElasticCartilage
+
+        >>>
+          {image:'Figure_4_3_5}
+
+        /// Chondrocytes are the only cells found in healthy cartilage. They produce and maintain the cartilaginous matrix, which consists mainly of collagen and proteoglycans.
+        model Chondrocytes
+          # https://en.wikipedia.org/wiki/Chondrocyte
+
+        /// In histology, a lacuna is a small space containing an osteocyte in bone or chondrocyte in cartilage.
+        model Lacunae
+          # https://en.wikipedia.org/wiki/Lacuna_(histology)
+
+        /// Hyaline cartilage is the glass-like (hyaline) but translucent cartilage found on many joint surfaces. It is also most commonly found in the ribs, nose, larynx, and trachea. Hyaline cartilage is pearl-grey in color, with a firm consistency and has a considerable amount of collagen. It contains no nerves or blood vessels, and its structure is relatively simple.
+        model HyalineCartilage
+          # https://en.wikipedia.org/wiki/Hyaline_cartilage
+          >>>
+            **Hyaline cartilage**, the most common type of cartilage in the body, consists of short and dispersed collagen fibers and contains large amounts of proteoglycans. Under the microscope, tissue samples appear clear. The surface of hyaline cartilage is smooth. Both strong and flexible, it is found in the rib cage and nose and covers bones where they meet to form moveable joints. It makes up a template of the embryonic skeleton before bone formation. A plate of hyaline cartilage at the ends of bone allows continued growth until adulthood.
+
+        /// White fibrocartilage consists of a mixture of white fibrous tissue and cartilaginous tissue in various proportions. It owes its inflexibility and toughness to the former of these constituents, and its elasticity to the latter. It is the only type of cartilage that contains type I collagen in addition to the normal type II.
+        model Fibrocartilage
+          # https://en.wikipedia.org/wiki/Fibrocartilage
+
+          >>>
+            **Fibrocartilage** is tough because it has thick bundles of collagen fibers dispersed through its matrix. Menisci in the knee joint and the intervertebral discs are examples of fibrocartilage.
+
+        /// Elastic cartilage or yellow cartilage is a type of cartilage present in the outer ear, Eustachian tube and epiglottis. It contains elastic fiber networks and collagen type II fibers. The principal protein is elastin.
+        model ElasticCartilage
+          # https://en.wikipedia.org/wiki/Elastic_cartilage
+          >>>
+            **Elastic cartilage** contains elastic fibers as well as collagen and proteoglycans. This tissue gives rigid support as well as elasticity. Tug gently at your ear lobes, and notice that the lobes return to their initial shape. The external ear contains elastic cartilage.
+
+      /// Bone tissue (osseous tissue) is a hard tissue, a type of dense connective tissue. It has a honeycomb-like matrix internally, which helps to give the bone rigidity.
+      model Bone
+        >>>
+          Bone is the hardest connective tissue. It provides protection to internal organs and supports the body. Bone’s rigid extracellular matrix contains mostly collagen fibers embedded in a mineralized ground substance containing hydroxyapatite, a form of calcium phosphate.
+        --
+          Hydroxyapatite
+
+        >>>
+          Both components of the matrix, organic and inorganic, contribute to the unusual properties of bone. Without collagen, bones would be brittle and shatter easily. Without mineral crystals, bones would flex and provide little support. Osteocytes, bone cells like chondrocytes, are located within lacunae.
+
+        --
+          Osteocytes
+
+        >>>
+          The histology of transverse tissue from long bone shows a typical arrangement of osteocytes in concentric circles around a central canal. Bone is a highly vascularized tissue. Unlike cartilage, bone tissue can recover from injuries in a relatively short time.
+
+          Cancellous bone looks like a sponge under the microscope and contains empty spaces between trabeculae, or arches of bone proper. It is lighter than compact bone and found in the interior of some bones and at the end of long bones. Compact bone is solid and has greater structural strength.
+
+        --
+          CancellousBone
+          CorticalBone
+
+        /// Hydroxyapatite, also called hydroxylapatite (HA), is a naturally occurring mineral form of calcium apatite
+        model Hydroxyapatite
+          # https://en.wikipedia.org/wiki/Hydroxyapatite
+
+        /// An osteocyte, a star-shaped type of bone cell, is the most commonly found cell in mature bone tissue, and can live as long as the organism itself. The adult human body has about 42 billion of them. Osteocytes do not divide and have an average half life of 25 years.
+        model Osteocytes
+
+        /// Cancellous bone, also called trabecular or spongy bone, is the internal tissue of the skeletal bone and is an open cell porous network. Cancellous bone has a higher surface-area-to-volume ratio than cortical bone because it is less dense. This makes it weaker and more flexible.
+        model CancellousBone
+          # https://en.wikipedia.org/wiki/Bone#Cancellous_bone
+
+        /// The hard outer layer of bones is composed of cortical bone, also called compact bone (being much denser than cancellous bone). It forms the hard exterior (cortex) of bones. The cortical bone gives bone its smooth, white, and solid appearance, and accounts for 80% of the total bone mass of an adult human skeleton.
+        model CorticalBone
+          # https://en.wikipedia.org/wiki/Bone
+
+    /// In fluid connective tissue (lymph and blood), various specialized cells circulate in a watery fluid containing salts, nutrients, and dissolved proteins.
+    model FluidConnectiveTissue
+      >>>
+        Blood and lymph are fluid connective tissues. Cells circulate in a liquid extracellular matrix.
+
+      --
+        Blood
+        Lymph
+
+      /// Blood is a body fluid in humans and other animals that delivers necessary substances such as nutrients and oxygen to the cells and transports metabolic waste products away from those same cells.
+      model Blood
+        # https://en.wikipedia.org/wiki/Blood
+
+        >>>
+          The formed elements circulating in blood are all derived from hematopoietic stem cells located in bone marrow. **Erythrocytes**, red blood cells, transport oxygen and some carbon dioxide. **Leukocytes**, white blood cells, are responsible for defending against potentially harmful microorganisms or molecules. **Platelets** are cell fragments involved in blood clotting.
+
+        --
+          Erythrocytes
+          Leukocytes
+          Platelets
+
+        >>>
+          Some white blood cells have the ability to cross the endothelial layer that lines blood vessels and enter adjacent tissues. Nutrients, salts, and wastes are dissolved in the liquid matrix and transported through the body.
+
+        /// Red blood cells, also known as erythroid cells or erythrocytes, are the most common type of blood cell and the vertebrate's principal means of delivering oxygen (O2) to the body tissues—via blood flow through the circulatory system.
+        model Erythrocytes
+          # https://en.wikipedia.org/wiki/Red_blood_cell
+
+        /// White blood cells (also called leukocytes) are the cells of the immune system that are involved in protecting the body against both infectious disease and foreign invaders. All white blood cells are produced and derived from multipotent cells in the bone marrow known as hematopoietic stem cells. Leukocytes are found throughout the body, including the blood and lymphatic system.
+        model Leukocytes
+          # https://en.wikipedia.org/wiki/White_blood_cell
+
+        /// Platelets, also called thrombocytes, are a component of blood whose function (along with the coagulation factors) is to react to bleeding from blood vessel injury by clumping, thereby initiating a blood clot. Platelets have no cell nucleus: they are fragments of cytoplasm that are derived from the megakaryocytes of the bone marrow, and then enter the circulation.
+        model Platelets
+          # https://en.wikipedia.org/wiki/Platelet
+
+      /// Lymph is the fluid that flows through the lymphatic system, a system composed of lymph vessels (channels) and intervening lymph nodes whose function, like the venous system, is to return fluid from the tissues to the central circulation.
+      model Lymph
+        # https://en.wikipedia.org/wiki/Lymph
+
+        >>>
+          Lymph contains a liquid matrix and {Blood.Leukocytes white blood cells}. Lymphatic capillaries are extremely permeable, allowing larger molecules and excess fluid from interstitial spaces to enter the lymphatic vessels. Lymph drains into blood vessels, delivering molecules to the blood that could not otherwise directly enter the bloodstream. In this way, specialized lymphatic capillaries transport absorbed fats away from the intestine and deliver these molecules to the blood.
+
+      >>>
+        {image:'Figure_4_3_6}
+
+  /// Muscle tissue is excitable, responding to stimulation and contracting to provide movement, and occurs as three major types: skeletal (voluntary) muscle, smooth muscle, and cardiac muscle in the heart.
+  model MuscleTissue
+    path InBrief
+      step
+        >>>
+          Muscle tissue is characterized by properties that allow movement. Muscle cells are excitable; they respond to a stimulus. They are contractile, meaning they can shorten and generate a pulling force. When attached between two movable objects, in other words, bones, contractions of the muscles cause the bones to move.
+
+      step
+        >>>
+          The three types of muscle cells are skeletal, cardiac, and smooth. Their morphologies match their specific functions in the body. Skeletal muscle is voluntary and responds to conscious stimuli. The cells are striated and multinucleated appearing as long, unbranched cylinders. Cardiac muscle is involuntary and found only in the heart. Each cell is striated with a single nucleus and they attach to one another to form long fibers. Cells are attached to one another at intercalated disks. The cells are interconnected physically and electrochemically to act as a syncytium. Cardiac muscle cells contract autonomously and involuntarily. Smooth muscle is involuntary. Each cell is a spindle-shaped fiber and contains a single nucleus. No striations are evident because the actin and myosin filaments do not align in the cytoplasm.
+
+    ^^
+      InBrief
+
+    >>>
+      Muscle tissue is characterized by properties that allow movement. Muscle cells are excitable; they respond to a stimulus. They are contractile, meaning they can shorten and generate a pulling force. When attached between two movable objects, in other words, bones, contractions of the muscles cause the bones to move.
+
+    --
+      MuscleContraction
+
+    >>>
+      Some muscle movement is voluntary, which means it is under conscious control. For example, a person decides to open a book and read a chapter on anatomy. Other movements are involuntary, meaning they are not under conscious control, such as the contraction of your pupil in bright light. Muscle tissue is classified into three types according to structure and function: **skeletal**, **cardiac**, and **smooth**.
+
+    --
+      SkeletalMuscle
+      CardiacMuscle
+      SmoothMuscle
+
+    >>>
+      {image:'Figure_4_4_1abc}
+
+
+    /// Skeletal muscle is attached to bones and its contraction makes possible locomotion, facial expressions, posture, and other voluntary movements of the body.
+    model SkeletalMuscle
+      >>>
+        Forty percent of your body mass is made up of skeletal muscle. Skeletal muscles generate heat as a byproduct of their contraction and thus participate in thermal homeostasis. Shivering is an involuntary contraction of skeletal muscles in response to perceived lower than normal body temperature. The muscle cell, or  **myocyte**, develops from myoblasts derived from the mesoderm.
+
+      --
+        Myocyte
+
+      >>>
+        Myocytes and their numbers remain relatively constant throughout life. Skeletal muscle tissue is arranged in bundles surrounded by connective tissue. Under the light microscope, muscle cells appear striated with many nuclei squeezed along the membranes.
+
+      --
+        StriatedMuscleTissue
+        Sacromere
+
+      >>>
+        The  **striation** is due to the regular alternation of the contractile proteins actin and myosin, along with the structural proteins that couple the contractile proteins to connective tissues. The cells are multinucleated as a result of the fusion of the many myoblasts that fuse to form each long muscle fiber.
+
+      /// A myocyte is the type of cell found in muscle tissue. Myocytes are long, tubular cells that develop from myoblasts to form muscles in a process known as myogenesis.
+      model Myocyte
+        # https://en.wikipedia.org/wiki/Myocyte
+
+    /// Cardiac muscle forms the contractile walls of the heart. The cells of cardiac muscle, known as cardiomyocytes, also appear striated under the microscope.
+    model CardiacMuscle
+      >>>
+        The cells of cardiac muscle, known as cardiomyocytes, also appear striated under the microscope.
+
+      --
+        CardiacMuscleCell
+
+      >>>
+        Unlike skeletal muscle fibers, cardiomyocytes are single cells typically with a single centrally located nucleus. A principal characteristic of cardiomyocytes is that they contract on their own intrinsic rhythms without any external stimulation. Cardiomyocyte attach to one another with specialized cell junctions called intercalated discs.
+
+      --
+        InterlacatedDiscs
+        Synctium
+
+      >>>
+        Intercalated discs have both anchoring junctions and gap junctions. Attached cells form long, branching cardiac muscle fibers that are, essentially, a mechanical and electrochemical syncytium allowing the cells to synchronize their actions. The cardiac muscle pumps blood through the body and is under involuntary control. The attachment junctions hold adjacent cells together across the dynamic pressures changes of the cardiac cycle.
+
+      --
+        CardiacCycle
+
+      /// Cardiac muscle cells or cardiomyocytes (also known as myocardiocytes or cardiac myocytes) are the muscle cells (myocytes) that make up the cardiac muscle (heart muscle).
+      model CardiacMuscleCell
+
+      /// Intercalated discs are microscopic identifying features of cardiac muscle. Cardiac muscle consists of individual heart muscle cells (cardiomyocytes) connected by intercalated discs to work as a single functional organ or syncytium.
+      model InterlacatedDiscs
+
+      /// A syncytium or symplasm is a multinucleated cell that can result from multiple cell fusions of uninuclear cells. The term may also refer to cells interconnected by specialized membrane with gap junctions, as seen in the heart muscle cells and certain smooth muscle cells, which are synchronized electrically in an action potential.
+      model Synctium
+
+      /// The cardiac cycle is the performance of the human heart from the ending of one heartbeat to the beginning of the next. It consists of two periods: one during which the heart muscle relaxes and refills with blood, called diastole, followed by a period of robust contraction and pumping of blood, dubbed systole.
+      model CardiacCycle
+
+    /// Smooth muscle tissue contraction is responsible for involuntary movements in the internal organs. It forms the contractile component of the digestive, urinary, and reproductive systems as well as the airways and arteries.
+    model SmoothMuscle
+      >>>
+        Each cell is spindle shaped with a single nucleus and no visible striations.
+
+      --
+        StriatedMuscleTissue
+        Sacromere
+
+
+    /// Striated muscle tissue is a muscle tissue that features repeating functional units called sarcomeres. The presence of sarcomeres manifests as a series of bands visible along the muscle fibers, which is responsible for the striated appearance (series of ridges, furrows or linear marks) observed in microscopic images of this tissue.
+    model StriatedMuscleTissue
+      # https://en.wikipedia.org/wiki/Striated_muscle_tissue
+
+    /// A sarcomere is the basic unit of striated muscle tissue.
+    model Sacromere
+      # https://en.wikipedia.org/wiki/Sarcomere
+
+    /// Muscle contraction is the activation of tension-generating sites within muscle fibers.
+    model MuscleContraction
+      # https://en.wikipedia.org/wiki/Muscle_contraction
+
+  /// Nervous tissue mediates perception and response. It is excitable, allowing the propagation of electrochemical signals in the form of nerve impulses that communicate between different regions of the body.
+  model NervousTissue
+    path InBrief
+      step
+        >>>
+          The most prominent cell of the nervous tissue, the neuron, is characterized mainly by its ability to receive stimuli and respond by generating an electrical signal, known as an action potential, which can travel rapidly over great distances in the body. A typical neuron displays a distinctive morphology: a large cell body branches out into short extensions called dendrites, which receive chemical signals from other neurons, and a long tail called an axon, which relays signals away from the cell to other neurons, muscles, or glands. Many axons are wrapped by a myelin sheath, a lipid derivative that acts as an insulator and speeds up the transmission of the action potential. Other cells in the nervous tissue, the neuroglia, include the astrocytes, microglia, oligodendrocytes, and Schwann cells.
+
+    ^^
+      InBrief
+
+    >>>
+      Nervous tissue is characterized as being excitable and capable of sending and receiving electrochemical signals that provide the body with information. Two main classes of cells make up nervous tissue: the  **neuron** and  **neuroglia**.
+
+    --
+      Neuron
+      Neuroglia
+      Synapse
+
+    >>>
+      Neurons propagate information via electrochemical impulses, called action potentials, which are biochemically linked to the release of chemical signals. Neuroglia play an essential role in supporting neurons and modulating their information propagation.
+
+      {image:'Figure_4_5_1}
+
+      Neurons display distinctive morphology, well suited to their role as conducting cells, with three main parts: the **soma**, **dendrites** and **axon**. The soma (cell body) includes most of the cytoplasm, the organelles, and the nucleus. **Dendrites** branch off the cell body and appear as thin extensions. A long “tail,” the **axon**, extends from the neuron body and can be wrapped in an insulating layer known as  **myelin**, which is formed by accessory cells.
+
+    --
+      Soma
+      Dendrite
+      Axon
+      Myelin
+
+    >>>
+      The synapse is the gap between nerve cells, or between a nerve cell and its target, for example, a muscle or a gland, across which the impulse is transmitted by chemical compounds known as neurotransmitters. Neurons categorized as multipolar neurons have several dendrites and a single prominent axon. Bipolar neurons possess a single dendrite and axon with the cell body, while unipolar neurons have only a single process extending out from the cell body, which divides into a functional dendrite and into a functional axon. When a neuron is sufficiently stimulated, it generates an action potential that propagates down the axon towards the synapse.
+
+    --
+      ActionPotential
+      MembranePotential
+
+    >>>
+      If enough neurotransmitters are released at the synapse to stimulate the next neuron or target, a response is generated.
+
+    --
+      Neurotransmitter
+
+    >>>
+      The second class of neural cells comprises the neuroglia or glial cells, which have been characterized as having a simple support role. The word “glia” comes from the Greek word for glue. Recent research is shedding light on the more complex role of neuroglia in the function of the brain and nervous system.  **Astrocyte** cells, named for their distinctive star shape, are abundant in the central nervous system.
+
+    --
+      Astrocyte
+
+    >>>
+      The astrocytes have many functions, including regulation of ion concentration in the intercellular space, uptake and/or breakdown of some neurotransmitters, and formation of the blood-brain barrier, the membrane that separates the circulatory system from the brain. Microglia protect the nervous system against infection but are not nervous tissue because they are related to macrophages.  **Oligodendrocyte** cells produce myelin in the central nervous system (brain and spinal cord) while the  **Schwann cell** produces myelin in the peripheral nervous system.
+
+    --
+      Oligodendrocyte
+      SchwannCell
+
+    >>>
+      {image:'Figure_4_5_2}
+
+    /// A neuron, also known as a nerve cell, is an electrically excitable cell that communicates with other cells via specialized connections called synapses. It is the main component of nervous tissue.
+    model Neuron
+      # https://en.wikipedia.org/wiki/Neuron
+
+    /// Glia, also called glial cells or neuroglia, are non-neuronal cells in the central nervous system (brain and spinal cord) and the peripheral nervous system. They maintain homeostasis, form myelin, and provide support and protection for neurons.
+    model Neuroglia
+      # https://en.wikipedia.org/wiki/Glia
+
+    /// In the nervous system, a synapse is a structure that permits a neuron to pass an electrical or chemical signal to another neuron or to the target effector cell.
+    model Synapse
+      # https://en.wikipedia.org/wiki/Synapse
+
+    /// The soma (neurocyton, or cell body) is the bulbous, non-process portion of a neuron or other brain cell type, containing the cell nucleus.
+    model Soma
+      # https://en.wikipedia.org/wiki/Soma_(biology)
+
+    /// Dendrites are branched protoplasmic extensions of a nerve cell that propagate the electrochemical stimulation received from other neural cells to the cell body, or soma, of the neuron from which the dendrites project.
+    model Dendrite
+      # https://en.wikipedia.org/wiki/Dendrite
+
+    /// An axon, or nerve fiber, is a long, slender projection of a nerve cell, or neuron, in vertebrates, that typically conducts electrical impulses known as action potentials away from the nerve cell body. The function of the axon is to transmit information to different neurons, muscles, and glands.
+    model Axon
+      # https://en.wikipedia.org/wiki/Axon
+
+    /// Myelin is a lipid-rich (fatty) substance formed in the central nervous system (CNS) by glial cells called oligodendrocytes, and in the peripheral nervous system (PNS) by Schwann cells. Myelinb insulates nerve cell axons to increase the speed at which information (encoded as an electrical signal) travels.
+    model Myelin
+
+    /// An action potential occurs when the membrane potential of a specific cell location rapidly rises and falls: this depolarisation then causes adjacent locations to similarly depolarise. Action potentials occur in several types of animal cells, called excitable cells, which include neurons, muscle cells, endocrine cells, glomus cells, and in some plant cells.
+    model ActionPotential
+      # https://en.wikipedia.org/wiki/Action_potential
+
+    /// Membrane potential (also transmembrane potential or membrane voltage) is the difference in electric potential between the interior and the exterior of a biological cell.
+    model MembranePotential
+      # https://en.wikipedia.org/wiki/Membrane_potential
+
+    /// Neurotransmitters are endogenous chemicals that enable neurotransmission. It is a type of chemical messenger which transmits signals across a chemical synapse, such as a neuromuscular junction, from one neuron (nerve cell) to another "target" neuron, muscle cell, or gland cell.
+    model Neurotransmitter
+      # https://en.wikipedia.org/wiki/Neurotransmitter
+
+    /// Astrocytes are characteristic star-shaped glial cells in the brain and spinal cord. They perform many functions, including biochemical support of endothelial cells that form the blood–brain barrier, provision of nutrients to the nervous tissue, maintenance of extracellular ion balance, and a role in the repair and scarring process of the brain and spinal cord following traumatic injuries.
+    model Astrocyte
+      # https://en.wikipedia.org/wiki/Astrocyte
+
+    /// Oligodendrocytes are a type of neuroglia whose main functions are to provide support and insulation to axons in the central nervous system of some vertebrates, equivalent to the function performed by Schwann cells in the peripheral nervous system.
+    model Oligodendrocyte
+      # https://en.wikipedia.org/wiki/Oligodendrocyte
+
+    /// Schwann cells or neurolemmocytes are the principal glia of the peripheral nervous system (PNS). The two types of Schwann cells are myelinating and nonmyelinating. Myelinating Schwann cells wrap around axons of motor and sensory neurons to form the myelin sheath.
+    model SchwannCell
+      # https://en.wikipedia.org/wiki/Schwann_cell
+
+  / Tissue Injury and Aging
+  /// Tissues of all types are vulnerable to injury and, inevitably, aging.
+  . TissueDamage
+
+    path InBrief
+      step
+        >>>
+          Inflammation is the classic response of the body to injury and follows a common sequence of events. The area is red, feels warm to the touch, swells, and is painful. Injured cells, mast cells, and resident macrophages release chemical signals that cause vasodilation and fluid leakage in the surrounding tissue. The repair phase includes blood clotting, followed by regeneration of tissue as fibroblasts deposit collagen. Some tissues regenerate more readily than others. Epithelial and connective tissues replace damaged or dead cells from a supply of adult stem cells. Muscle and nervous tissues undergo either slow regeneration or do not repair at all.
+      step
+        >>>
+          Age affects all the tissues and organs of the body. Damaged cells do not regenerate as rapidly as in younger people. Perception of sensation and effectiveness of response are lost in the nervous system. Muscles atrophy, and bones lose mass and become brittle. Collagen decreases in some connective tissue, and joints stiffen.
+
+    >>>
+      Tissues of all types are vulnerable to injury and, inevitably, aging. In the former case, understanding how tissues respond to damage can guide strategies to aid repair. In the latter case, understanding the impact of aging can help in the search for ways to diminish its effects.
+
+    --
+      Injury
+      Aging
+
+    / Tissue Injury and Repair
+    /// All injuries lead to the same sequence of physiological events. Inflammation limits the extent of injury, partially or fully eliminates the cause of injury, and initiates repair and regeneration of damaged tissue.
+    . Injury
+
+      >>>
+        **Inflammation** is the standard, initial response of the body to injury.
+
+      --
+        Inflammation
+
+      >>>
+        Whether biological, chemical, physical, or radiation burns, all injuries lead to the same sequence of physiological events. Inflammation limits the extent of injury, partially or fully eliminates the cause of injury, and initiates repair and regeneration of damaged tissue.  **Necrosis**, or accidental cell death, causes inflammation.  **Apoptosis** is programmed cell death, a normal step-by-step process that destroys cells no longer needed by the body.
+
+      --
+        Necrosis
+        Apoptosis
+
+      >>>
+        By mechanisms still under investigation, apoptosis does not initiate the inflammatory response. Acute inflammation resolves over time by the healing of tissue. If inflammation persists, it becomes chronic and leads to diseased conditions. Arthritis and tuberculosis are examples of chronic inflammation. The suffix “-itis” denotes inflammation of a specific organ or type, for example, peritonitis is the inflammation of the peritoneum, and meningitis refers to the inflammation of the meninges, the tough membranes that surround the central nervous system.
+
+        The four cardinal signs of inflammation—redness, swelling, pain, and local heat—were first recorded in antiquity. Cornelius Celsus is credited with documenting these signs during the days of the Roman Empire, as early as the first century AD. A fifth sign, loss of function, may also accompany inflammation.
+
+        Upon tissue injury, damaged cells release inflammatory chemical signals that evoke local  **vasodilation**, the widening of the blood vessels.
+
+      --
+        Vasodilation
+
+      >>>
+        Increased blood flow results in apparent redness and heat. In response to injury, mast cells present in tissue degranulate, releasing the potent vasodilator  **histamine**.
+
+      --
+        Histamine
+
+      >>>
+        Increased blood flow and inflammatory mediators recruit white blood cells to the site of inflammation. The endothelium lining the local blood vessel becomes “leaky” under the influence of histamine and other inflammatory mediators allowing neutrophils, macrophages, and fluid to move from the blood into the interstitial tissue spaces. The excess liquid in tissue causes swelling, more properly called edema.
+
+      --
+        Edema
+
+      >>>
+        The swollen tissues squeezing pain receptors cause the sensation of pain. **Prostaglandins** released from injured cells also activate pain neurons.
+
+      --
+        Prostaglandins
+
+      >>>
+        Non-steroidal anti-inflammatory drugs (NSAIDs) reduce pain because they inhibit the synthesis of prostaglandins. High levels of NSAIDs reduce inflammation. Antihistamines decrease allergies by blocking histamine receptors and as a result the histamine response.
+
+        After containment of an injury, the tissue repair phase starts with removal of toxins and waste products.  **Clotting** (coagulation) reduces blood loss from damaged blood vessels and forms a network of fibrin proteins that trap blood cells and bind the edges of the wound together.
+
+      --
+        Coagulation
+
+      >>>
+        A scab forms when the clot dries, reducing the risk of infection. Sometimes a mixture of dead leukocytes and fluid called pus accumulates in the wound. As healing progresses, fibroblasts from the surrounding connective tissues replace the collagen and extracellular material lost by the injury. **Angiogenesis**, the growth of new blood vessels, results in vascularization of the new tissue known as granulation tissue.
+
+      --
+        Angiogenesis
+
+      >>>
+        The clot retracts pulling the edges of the wound together, and it slowly dissolves as the tissue is repaired. When a large amount of granulation tissue forms and capillaries disappear, a pale scar is often visible in the healed area. A  **primary union** describes the healing of a wound where the edges are close together.
+
+      --
+        PrimaryUnion
+
+      >>>
+        When there is a gaping wound, it takes longer to refill the area with cells and collagen. The process called  **secondary union** occurs as the edges of the wound are pulled together by what is called  **wound contraction**.
+
+      --
+        SecondaryUnion
+        WoundContraction
+
+      >>>
+        When a wound is more than one quarter of an inch deep, sutures (stitches) are recommended to promote a primary union and avoid the formation of a disfiguring scar. **Regeneration** is the addition of new cells of the same type as the ones that were injured.
+
+      --
+        Regeneration
+
+      >>>
+        {image:'Figure_4_6_1}
+
+      /// Inflammation is part of the complex biological response of body tissues to harmful stimuli, such as pathogens, damaged cells, or irritants, and is a protective response involving immune cells, blood vessels, and molecular mediators. The function of inflammation is to eliminate the initial cause of cell injury, clear out necrotic cells and tissues damaged from the original insult and the inflammatory process, and initiate tissue repair.
+      model Inflammation
+        # https://en.wikipedia.org/wiki/Inflammation
+
+      /// Necrosis is a form of cell injury which results in the premature death of cells in living tissue by autolysis. Necrosis is caused by factors external to the cell or tissue, such as infection, toxins, or trauma which result in the unregulated digestion of cell components.
+      model Necrosis
+        # https://en.wikipedia.org/wiki/Necrosis
+
+      /// Apoptosis is a form of programmed cell death that occurs in multicellular organisms.
+      model Apoptosis
+        # https://en.wikipedia.org/wiki/Apoptosis
+
+      /// Edema, also spelled oedema or œdema, is an abnormal accumulation of fluid in the interstitium, located beneath the skin and in the cavities of the body, which can cause severe pain. Clinically, hyperaldosteronism, edema manifests as swelling.
+      model Edema
+        # https://en.wikipedia.org/wiki/Edema
+
+      /// Vasodilation is the widening of blood vessels. It results from relaxation of smooth muscle cells within the vessel walls, in particular in the large veins, large arteries, and smaller arterioles.
+      model Vasodilation
+        # https://en.wikipedia.org/wiki/Vasodilation
+
+      /// Histamine is an organic nitrogenous compound involved in local immune responses, as well as regulating physiological function in the gut and acting as a neurotransmitter for the brain, spinal cord, and uterus. Histamine is involved in the inflammatory response and has a central role as a mediator of itching.
+      model Histamine
+        # https://en.wikipedia.org/wiki/Histamine
+
+      /// The prostaglandins (PG) are a group of physiologically active lipid compounds called eicosanoids having diverse hormone-like effects in animals. Prostaglandins are powerful locally acting vasodilators and inhibit the aggregation of blood platelets. Through their role in vasodilation, prostaglandins are also involved in inflammation.
+      model Prostaglandins
+        # https://en.wikipedia.org/wiki/Prostaglandin
+
+      /// Coagulation, also known as clotting, is the process by which blood changes from a liquid to a gel, forming a blood clot. It potentially results in hemostasis, the cessation of blood loss from a damaged vessel, followed by repair.
+      model Coagulation
+        # https://en.wikipedia.org/wiki/Coagulation
+
+      /// Angiogenesis is the physiological process through which new blood vessels form from pre-existing vessels, formed in the earlier stage of vasculogenesis. Angiogenesis continues the growth of the vasculature by processes of sprouting and splitting.
+      model Angiogenesis
+        # https://en.wikipedia.org/wiki/Angiogenesis
+
+      /// Primary intention is the healing of a clean wound without tissue loss.
+      model PrimaryUnion
+        # https://en.wikipedia.org/wiki/Wound_healing#Wound_closure_intentions
+
+      /// Secondary intention is the healing of a wound with significant loss in tissue or tissue damage.
+      model SecondaryUnion
+        # https://en.wikipedia.org/wiki/Wound_healing#Wound_closure_intentions
+
+      /// Wound contracture is a process that may occur during wound healing when an excess of wound contraction, a normal healing process, leads to physical deformity characterized by skin constriction and functional limitations.
+      model WoundContraction
+        # https://en.wikipedia.org/wiki/Wound_contracture
+
+      /// Regeneration is the process of renewal, restoration, and growth that makes genomes, cells, organisms, and ecosystems resilient to natural fluctuations or events that cause disturbance or damage.
+      model Regeneration
+        # https://en.wikipedia.org/wiki/Regeneration_(biology)
+
+    / Tissue and Aging
+    /// Age affects all the tissues and organs of the body. A number of characteristic ageing symptoms are experienced by a majority or by a significant proportion of humans during their lifetimes.
+    . Aging
+      # https://en.wikipedia.org/wiki/Ageing
+
+      >>>
+        According to poet Ralph Waldo Emerson, “The surest poison is time.” In fact, biology confirms that many functions of the body decline with age. All the cells, tissues, and organs are affected by senescence, with noticeable variability between individuals owing to different genetic makeup and lifestyles. The outward signs of aging are easily recognizable. The skin and other tissues become thinner and drier, reducing their elasticity, contributing to wrinkles and high blood pressure. Hair turns gray because follicles produce less melanin, the brown pigment of hair and the iris of the eye. The face looks flabby because elastic and collagen fibers decrease in connective tissue and muscle tone is lost. Glasses and hearing aids may become parts of life as the senses slowly deteriorate, all due to reduced elasticity. Overall height decreases as the bones lose calcium and other minerals. With age, fluid decreases in the fibrous cartilage disks intercalated between the vertebrae in the spine. Joints lose cartilage and stiffen. Many tissues, including those in muscles, lose mass through a process called  **atrophy**.
+
+      --
+        Atrophy
+
+      >>>
+        Lumps and rigidity become more widespread. As a consequence, the passageways, blood vessels, and airways become more rigid. The brain and spinal cord lose mass. Nerves do not transmit impulses with the same speed and frequency as in the past. Some loss of thought clarity and memory can accompany aging. More severe problems are not necessarily associated with the aging process and may be symptoms of underlying illness.
+
+        As exterior signs of aging increase, so do the interior signs, which are not as noticeable. The incidence of heart diseases, respiratory syndromes, and type 2 diabetes increases with age, though these are not necessarily age-dependent effects. Wound healing is slower in the elderly, accompanied by a higher frequency of infection as the capacity of the immune system to fend off pathogen declines.
+
+        Aging is also apparent at the cellular level because all cells experience changes with aging. Telomeres, regions of the chromosomes necessary for cell division, shorten each time cells divide.
+
+      --
+        Telomeres
+        TelomereShortening
+
+      >>>
+        As they do, cells are less able to divide and regenerate. Because of alterations in cell membranes, transport of oxygen and nutrients into the cell and removal of carbon dioxide and waste products from the cell are not as efficient in the elderly. Cells may begin to function abnormally, which may lead to diseases associated with aging, including arthritis, memory issues, and some cancers.
+
+        The progressive impact of aging on the body varies considerably among individuals, but studies indicate, however, that exercise and healthy lifestyle choices can slow down the deterioration of the body that comes with old age.
+
+        Cancer treatments vary depending on the disease’s type and stage. Traditional approaches, including surgery, radiation, chemotherapy, and hormonal therapy, aim to remove or kill rapidly dividing cancer cells, but these strategies have their limitations. Depending on a tumor’s location, for example, cancer surgeons may be unable to remove it. Radiation and chemotherapy are difficult, and it is often impossible to target only the cancer cells. The treatments inevitably destroy healthy tissue as well. To address this, researchers are working on pharmaceuticals that can target specific proteins implicated in cancer-associated molecular pathways.
+
+      /// Atrophy is the partial or complete wasting away of a part of the body. Causes of atrophy include mutations, poor nourishment, poor circulation, loss of hormonal support, loss of nerve supply to the target organ, excessive amount of apoptosis of cells, and disuse or lack of exercise or disease intrinsic to the tissue itself.
+      model Atrophy
+        # https://en.wikipedia.org/wiki/Atrophy
+
+      /// A telomere is a region of repetitive nucleotide sequences at each end of a chromosome, which protects the end of the chromosome from deterioration or from fusion with neighboring chromosomes.
+      model Telomeres
+        # https://en.wikipedia.org/wiki/Telomere
+
+      /// Telomeres shorten in part because of the end replication problem that is exhibited during DNA replication in eukaryotes only. Telomere shortening is associated with aging, mortality and aging-related diseases. However, it is not known whether short telomeres are just a sign of cellular age or actually contribute to the aging process themselves.
+      model TelomereShortening
+        # https://en.wikipedia.org/wiki/Telomere#Shortening
+  #
+  #
+  #
+
+  /// Histology, also known as microscopic anatomy or microanatomy, is the branch of biology which studies the microscopic anatomy of biological tissues. Histology is the microscopic counterpart to gross anatomy which looks at larger structures visible without a microscope.
+  model Histology
+    # https://en.wikipedia.org/wiki/Histology
+
+  /// Morphology is a branch of biology dealing with the study of the form and structure of organisms and their specific structural features. This includes aspects of the outward appearance (shape, structure, colour, pattern, size), i.e. external morphology (or eidonomy), as well as the form and structure of the internal parts like bones and organs, i.e. internal morphology (or anatomy).
+  model Morphology
+    # https://en.wikipedia.org/wiki/Morphology_(biology)
+
+// Life at the Systems Level
+/// An organ system is a group of organs that work together as a biological system to perform one or more functions. Each organ system does a particular job in the body, and is made up of certain tissues.
+model Systems
