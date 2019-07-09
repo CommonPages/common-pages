@@ -377,13 +377,13 @@
           # $os-bioconcepts.2.2_6
           # os-bioconcepts/2/2_6/2_6.i:4
 
-      # The Cell Cycle
-        # $os-bioconcepts.2.2_6.2_6_2
-        # os-bioconcepts/2/2_6/2_6_2/2_6_2.i:3
+        # The Cell Cycle
+          # $os-bioconcepts.2.2_6.2_6_2
+          # os-bioconcepts/2/2_6/2_6_2/2_6_2.i:3
 
-      # Cancer and the Cell Cycle
-        # $os-bioconcepts.2.2_6.2_6_3
-        # os-bioconcepts/2/2_6/2_6_3/2_6_3.i:3
+        # Cancer and the Cell Cycle
+          # $os-bioconcepts.2.2_6.2_6_3
+          # os-bioconcepts/2/2_6/2_6_3/2_6_3.i:3
 
       # Wikipedia
 
@@ -490,7 +490,6 @@
 
 
       # NCCN
-
 
   .. Malignancy
 
@@ -625,7 +624,6 @@
   .. Detection
 
 .. InitialPrognosis
-
 
 .. InitialTreatment
 

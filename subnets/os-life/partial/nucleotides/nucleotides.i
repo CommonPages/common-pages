@@ -1,3 +1,3 @@
 
 . nucleotides
-  import ChemicalOrganization.organic.Nucleotides._
+  import chem.organic.Nucleotides._
