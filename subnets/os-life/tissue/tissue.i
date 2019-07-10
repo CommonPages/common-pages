@@ -58,7 +58,7 @@ module tissue
    / Embryonic Origin of Tissues
    /// As cell proliferation progresses, three major cell lineages are established within the embryo (the ectoderm, mesoderm, and endoderm). Each of these lineages of embryonic cells forms the distinct germ layers from which all the tissues and organs of the human body eventually form.
   model EmbryonicOrigins
-    let totipotent mean cell.CellDifferentiation.Totipotency
+    let totipotent mean Totipotency
 
     >>>
       The zygote, or fertilized egg, is a single cell formed by the fusion of an egg and sperm. After fertilization the zygote gives rise to rapid mitotic cycles, generating many cells to form the embryo. The first embryonic cells generated have the ability to differentiate into any type of cell in the body and, as such, are called  {totipotent}, meaning each has the capacity to divide, differentiate, and develop into a new organism.
@@ -190,40 +190,6 @@ module tissue
         Epithelial tissues provide the body’s first line of protection from physical, chemical, and biological wear and tear. The cells of an epithelium act as gatekeepers of the body controlling permeability and allowing selective transfer of materials across a physical barrier. All substances that enter the body must cross an epithelium. Some epithelia often include structural features that allow the selective transport of molecules and ions across their cell membranes.
 
         Many epithelial cells are capable of secretion and release mucous and specific chemical compounds onto their apical surfaces. The epithelium of the small intestine releases digestive enzymes, for example. Cells lining the respiratory tract secrete mucous that traps incoming microorganisms and particles. A glandular epithelium contains many secretory cells.
-
-    / The Epithelial Cell
-    /// Epithelial cells are typically characterized by the polarized distribution of organelles and membrane-bound proteins between their basal and apical surfaces.
-    model EpithelialCell
-      >>>
-        Particular structures found in some epithelial cells are an adaptation to specific functions. Certain organelles are segregated to the basal sides, whereas other organelles and extensions, such as cilia, when present, are on the apical surface.
-
-      --
-        EpithelialPolarity
-        BasalSurface
-        ApicalSurface
-        Lumen
-        Cilium
-
-      >>>
-        {image-right:'Figure_4_2_3a} {Cilium Cilia} are microscopic extensions of the apical cell membrane that are supported by microtubules. They beat in unison and move fluids as well as trapped particles. Ciliated epithelium lines the ventricles of the brain where it helps circulate the cerebrospinal fluid. The ciliated epithelium of your airway forms a mucociliary escalator that sweeps particles of dust and pathogens trapped in the secreted mucous toward the throat. It is called an escalator because it continuously pushes mucous with trapped particles upward. In contrast, nasal cilia sweep the mucous blanket down towards your throat. In both cases, the transported materials are usually swallowed, and end up in the acidic environment of your stomach.
-
-      /// Cell polarity is a fundamental feature of many types of cells. Epithelial cells are one example of a polarized cell type, featuring distinct 'apical', 'lateral' and 'basal' plasma membrane domains.
-      model EpithelialPolarity
-        # https://en.wikipedia.org/wiki/Epithelial_polarity
-
-      /// The basal surface is the surface of a cell which faces connective tissue.
-      model BasalSurface
-
-      /// The apical surface is the surface of a cell which faces the external environment or lumen (inside) of a tube.
-      model ApicalSurface
-
-      /// A lumen (plural lumina) is the inside space of a tubular structure, such as an artery or intestine.
-      model Lumen
-        # https://en.wikipedia.org/wiki/Lumen_(anatomy)
-
-      /// A cilium (plural is cilia) is an organelle found on eukaryotic cells and are slender protuberances that project from the much larger cell body.
-      model Cilium
-        # https://en.wikipedia.org/wiki/Cilium
 
     / Cell to Cell Junctions
     /// Cells of epithelia are closely connected and are not separated by intracellular material. Three basic types of connections allow varying degrees of interaction between the cells: tight junctions, anchoring junctions, and gap junctions.
@@ -665,44 +631,6 @@ module tissue
         >>>
           These granules contain the chemical signals histamine and heparin. When irritated or damaged, mast cells release histamine, an inflammatory mediator, which causes vasodilation and increased blood flow at a site of injury or infection, along with itching, swelling, and redness you recognize as an allergic response. Like blood cells, mast cells are derived from hematopoietic stem cells and are part of the immune system.
 
-        /// A fibroblast is a type of biological cell that synthesizes the extracellular matrix and collagen, produces the structural framework for animal tissues, and plays a critical role in wound healing. Fibroblasts are the most common cells of connective tissue in animals.
-        model Fibroblasts
-          # https://en.wikipedia.org/wiki/Fibroblast
-
-        /// A fibrocyte is an inactive mesenchymal cell, that is, a cell showing minimal cytoplasm, limited amounts of rough endoplasmic reticulum and lacks biochemical evidence of protein synthesis.
-        model Fibrocytes
-          # https://en.wikipedia.org/wiki/Fibrocyte
-
-        /// Adipocytes, also known as lipocytes and fat cells, are the cells that primarily compose adipose tissue, specialized in storing energy as fat.
-        model Adipocytes
-          # https://en.wikipedia.org/wiki/Adipocyte
-
-          /// White adipose tissue (WAT) or white fat is one of the two types of adipose tissue found in mammals. White adipose tissue is used for energy storage. In healthy, non-overweight humans, white adipose tissue composes as much as 20% of the body weight in men and 25% in women.
-          model WAT
-
-          /// Brown adipose tissue (BAT) or brown fat makes up the adipose organ together with white adipose tissue (or white fat). In contrast to white adipocytes, which contain a single lipid droplet, brown adipocytes contain numerous smaller droplets and a much higher number of (iron-containing) mitochondria, which gives the tissue its color.
-          model BAT
-
-        /// Macrophages are a type of white blood cell, of the immune system, that engulfs and digests cellular debris, foreign substances, microbes, cancer cells, and anything else that does not have the type of proteins specific to healthy body cells on its surface.
-        model Macrophages
-          # https://en.wikipedia.org/wiki/Macrophage
-
-        /// A mast cell is a resident cell of connective tissue that contains many granules rich in histamine and heparin. Although best known for their role in allergy and anaphylaxis, mast cells play an important protective role as well, being intimately involved in wound healing, angiogenesis, immune tolerance, defense against pathogens, and blood–brain barrier function.
-        model MastCells
-          # https://en.wikipedia.org/wiki/Mast_cell
-
-        /// A lymphocyte is one of the subtypes of a white blood cell in a vertebrate's immune system. They are the main type of cell found in lymph, which prompted the name "lymphocyte".
-        model Lymphocytes
-          # https://en.wikipedia.org/wiki/Lymphocyte
-
-        /// Plasma cells are white blood cells that secrete large volumes of antibodies. They are transported by the blood plasma and the lymphatic system. Once released into the blood and lymph, these antibody molecules bind to the target antigen (foreign substance) and initiate its neutralization or destruction.
-        model PlasmaCells
-          # https://en.wikipedia.org/wiki/Plasma_cell
-
-        /// Phagocytes are cells that protect the body by ingesting harmful foreign particles, bacteria, and dead or dying cells. They are essential for fighting infections and for subsequent immunity.
-        model PhagocyticCells
-          # https://en.wikipedia.org/wiki/Phagocyte
-
         /// Polysaccharides are polymeric carbohydrate molecules composed of long chains of monosaccharide units bound together by glycosidic linkages. Examples include storage polysaccharides such as starch and glycogen, and structural polysaccharides such as cellulose and chitin.
         model Polysaccharides
 
@@ -863,10 +791,6 @@ module tissue
         >>>
           {image:'Figure_4_3_5}
 
-        /// Chondrocytes are the only cells found in healthy cartilage. They produce and maintain the cartilaginous matrix, which consists mainly of collagen and proteoglycans.
-        model Chondrocytes
-          # https://en.wikipedia.org/wiki/Chondrocyte
-
         /// In histology, a lacuna is a small space containing an osteocyte in bone or chondrocyte in cartilage.
         model Lacunae
           # https://en.wikipedia.org/wiki/Lacuna_(histology)
@@ -916,9 +840,6 @@ module tissue
         model Hydroxyapatite
           # https://en.wikipedia.org/wiki/Hydroxyapatite
 
-        /// An osteocyte, a star-shaped type of bone cell, is the most commonly found cell in mature bone tissue, and can live as long as the organism itself. The adult human body has about 42 billion of them. Osteocytes do not divide and have an average half life of 25 years.
-        model Osteocytes
-
         /// Cancellous bone, also called trabecular or spongy bone, is the internal tissue of the skeletal bone and is an open cell porous network. Cancellous bone has a higher surface-area-to-volume ratio than cortical bone because it is less dense. This makes it weaker and more flexible.
         model CancellousBone
           # https://en.wikipedia.org/wiki/Bone#Cancellous_bone
@@ -951,24 +872,12 @@ module tissue
         >>>
           Some white blood cells have the ability to cross the endothelial layer that lines blood vessels and enter adjacent tissues. Nutrients, salts, and wastes are dissolved in the liquid matrix and transported through the body.
 
-        /// Red blood cells, also known as erythroid cells or erythrocytes, are the most common type of blood cell and the vertebrate's principal means of delivering oxygen (O2) to the body tissues—via blood flow through the circulatory system.
-        model Erythrocytes
-          # https://en.wikipedia.org/wiki/Red_blood_cell
-
-        /// White blood cells (also called leukocytes) are the cells of the immune system that are involved in protecting the body against both infectious disease and foreign invaders. All white blood cells are produced and derived from multipotent cells in the bone marrow known as hematopoietic stem cells. Leukocytes are found throughout the body, including the blood and lymphatic system.
-        model Leukocytes
-          # https://en.wikipedia.org/wiki/White_blood_cell
-
-        /// Platelets, also called thrombocytes, are a component of blood whose function (along with the coagulation factors) is to react to bleeding from blood vessel injury by clumping, thereby initiating a blood clot. Platelets have no cell nucleus: they are fragments of cytoplasm that are derived from the megakaryocytes of the bone marrow, and then enter the circulation.
-        model Platelets
-          # https://en.wikipedia.org/wiki/Platelet
-
       /// Lymph is the fluid that flows through the lymphatic system, a system composed of lymph vessels (channels) and intervening lymph nodes whose function, like the venous system, is to return fluid from the tissues to the central circulation.
       model Lymph
         # https://en.wikipedia.org/wiki/Lymph
 
         >>>
-          Lymph contains a liquid matrix and {Blood.Leukocytes white blood cells}. Lymphatic capillaries are extremely permeable, allowing larger molecules and excess fluid from interstitial spaces to enter the lymphatic vessels. Lymph drains into blood vessels, delivering molecules to the blood that could not otherwise directly enter the bloodstream. In this way, specialized lymphatic capillaries transport absorbed fats away from the intestine and deliver these molecules to the blood.
+          Lymph contains a liquid matrix and {Leukocytes white blood cells}. Lymphatic capillaries are extremely permeable, allowing larger molecules and excess fluid from interstitial spaces to enter the lymphatic vessels. Lymph drains into blood vessels, delivering molecules to the blood that could not otherwise directly enter the bloodstream. In this way, specialized lymphatic capillaries transport absorbed fats away from the intestine and deliver these molecules to the blood.
 
       >>>
         {image:'Figure_4_3_6}
@@ -1022,10 +931,6 @@ module tissue
 
       >>>
         The  **striation** is due to the regular alternation of the contractile proteins actin and myosin, along with the structural proteins that couple the contractile proteins to connective tissues. The cells are multinucleated as a result of the fusion of the many myoblasts that fuse to form each long muscle fiber.
-
-      /// A myocyte is the type of cell found in muscle tissue. Myocytes are long, tubular cells that develop from myoblasts to form muscles in a process known as myogenesis.
-      model Myocyte
-        # https://en.wikipedia.org/wiki/Myocyte
 
     /// Cardiac muscle forms the contractile walls of the heart. The cells of cardiac muscle, known as cardiomyocytes, also appear striated under the microscope.
     model CardiacMuscle
@@ -1180,18 +1085,6 @@ module tissue
     /// Neurotransmitters are endogenous chemicals that enable neurotransmission. It is a type of chemical messenger which transmits signals across a chemical synapse, such as a neuromuscular junction, from one neuron (nerve cell) to another "target" neuron, muscle cell, or gland cell.
     model Neurotransmitter
       # https://en.wikipedia.org/wiki/Neurotransmitter
-
-    /// Astrocytes are characteristic star-shaped glial cells in the brain and spinal cord. They perform many functions, including biochemical support of endothelial cells that form the blood–brain barrier, provision of nutrients to the nervous tissue, maintenance of extracellular ion balance, and a role in the repair and scarring process of the brain and spinal cord following traumatic injuries.
-    model Astrocyte
-      # https://en.wikipedia.org/wiki/Astrocyte
-
-    /// Oligodendrocytes are a type of neuroglia whose main functions are to provide support and insulation to axons in the central nervous system of some vertebrates, equivalent to the function performed by Schwann cells in the peripheral nervous system.
-    model Oligodendrocyte
-      # https://en.wikipedia.org/wiki/Oligodendrocyte
-
-    /// Schwann cells or neurolemmocytes are the principal glia of the peripheral nervous system (PNS). The two types of Schwann cells are myelinating and nonmyelinating. Myelinating Schwann cells wrap around axons of motor and sensory neurons to form the myelin sheath.
-    model SchwannCell
-      # https://en.wikipedia.org/wiki/Schwann_cell
 
   / Tissue Injury and Aging
   /// Tissues of all types are vulnerable to injury and, inevitably, aging.

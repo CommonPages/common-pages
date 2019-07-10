@@ -5,6 +5,6 @@
 module fluid
 
   --
-    CardioSys
-    LymphSys
-    ImmuneSys
+    cardio
+    lymph
+    immune
