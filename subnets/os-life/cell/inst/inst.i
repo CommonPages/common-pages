@@ -3,20 +3,24 @@
 . inst
 
   /// A germ cell is any biological cell that gives rise to the gametes of an organism that reproduces sexually.
-  model GermCell
+  * GermCell
     # https://en.wikipedia.org/wiki/Germ_cell
 
   /// A gamete is a haploid cell that fuses with another haploid cell during fertilization in organisms that sexually reproduce.
-  model Gamete
+  * Gamete
     # https://en.wikipedia.org/wiki/Gamete
 
   /// Stem cells are cells that can differentiate into other types of cells, and can also divide in self-renewal to produce more of the same type of stem cells.
-  model StemCell
+  * StemCell
     # https://en.wikipedia.org/wiki/Stem_cell
+
+  /// A progenitor cell is a biological cell that, like a stem cell, has a tendency to differentiate into a specific type of cell, but is already more specific than a stem cell and is pushed to differentiate into its "target" cell. The most important difference between stem cells and progenitor cells is that stem cells can replicate indefinitely, whereas progenitor cells can divide only a limited number of times.
+  model ProgenitorCell
+    # https://en.wikipedia.org/wiki/Progenitor_cell
 
   / The Epithelial Cell
   /// Epithelial cells are typically characterized by the polarized distribution of organelles and membrane-bound proteins between their basal and apical surfaces.
-  model EpithelialCell
+  * EpithelialCell
     >>>
       Particular structures found in some epithelial cells are an adaptation to specific functions. Certain organelles are segregated to the basal sides, whereas other organelles and extensions, such as cilia, when present, are on the apical surface.
 
@@ -31,54 +35,64 @@
       {image-right:'Figure_4_2_3a} {Cilium Cilia} are microscopic extensions of the apical cell membrane that are supported by microtubules. They beat in unison and move fluids as well as trapped particles. Ciliated epithelium lines the ventricles of the brain where it helps circulate the cerebrospinal fluid. The ciliated epithelium of your airway forms a mucociliary escalator that sweeps particles of dust and pathogens trapped in the secreted mucous toward the throat. It is called an escalator because it continuously pushes mucous with trapped particles upward. In contrast, nasal cilia sweep the mucous blanket down towards your throat. In both cases, the transported materials are usually swallowed, and end up in the acidic environment of your stomach.
 
   /// A fibrocyte is an inactive mesenchymal cell, that is, a cell showing minimal cytoplasm, limited amounts of rough endoplasmic reticulum and lacks biochemical evidence of protein synthesis.
-  model Fibrocytes
+  * Fibrocytes
     # https://en.wikipedia.org/wiki/Fibrocyte
 
   /// A fibroblast is a type of biological cell that synthesizes the extracellular matrix and collagen, produces the structural framework for animal tissues, and plays a critical role in wound healing. Fibroblasts are the most common cells of connective tissue in animals.
-  model Fibroblasts
+  * Fibroblasts
     # https://en.wikipedia.org/wiki/Fibroblast
 
   /// Adipocytes, also known as lipocytes and fat cells, are the cells that primarily compose adipose tissue, specialized in storing energy as fat.
-  model Adipocytes
+  * Adipocytes
     # https://en.wikipedia.org/wiki/Adipocyte
 
     /// White adipose tissue (WAT) or white fat is one of the two types of adipose tissue found in mammals. White adipose tissue is used for energy storage. In healthy, non-overweight humans, white adipose tissue composes as much as 20% of the body weight in men and 25% in women.
-    model WAT
+    * WAT
 
     /// Brown adipose tissue (BAT) or brown fat makes up the adipose organ together with white adipose tissue (or white fat). In contrast to white adipocytes, which contain a single lipid droplet, brown adipocytes contain numerous smaller droplets and a much higher number of (iron-containing) mitochondria, which gives the tissue its color.
-    model BAT
+    * BAT
 
   /// Macrophages are a type of white blood cell, of the immune system, that engulfs and digests cellular debris, foreign substances, microbes, cancer cells, and anything else that does not have the type of proteins specific to healthy body cells on its surface.
-  model Macrophages
+  * Macrophages
     # https://en.wikipedia.org/wiki/Macrophage
 
+  /// Dendritic cells (DCs) are antigen-presenting cells of the immune system. Their main function is to process antigen material and present it on the cell surface to the T cells of the immune system. They act as messengers between the innate and the adaptive immune systems.
+  * DendriticCells
+    # https://en.wikipedia.org/wiki/Dendritic_cell
+
+  /// Kupffer cells, also known as stellate macrophages and Kupffer–Browicz cells, are specialized macrophages located in the liver, lining the walls of the sinusoids. They form part of the mononuclear phagocyte system.
+  * KupfferCells
+    # https://en.wikipedia.org/wiki/Kupffer_cell
+
+  /// A histiocyte is a cell that is part of the mononuclear phagocyte system. The mononuclear phagocytic system is part of the organism's immune system. The histiocyte is a tissue macrophage or a dendritic cell.
+  * Histiocytes
+    # https://en.wikipedia.org/wiki/Histiocyte
+
+  /// An alveolar macrophage (or dust cell) is a type of macrophage, a professional phagocyte, found in the pulmonary alveoli, near the pneumocytes, but separated from the wall.
+  * AlveolarMacrophages
+    # https://en.wikipedia.org/wiki/Alveolar_macrophage
+
   /// A mast cell is a resident cell of connective tissue that contains many granules rich in histamine and heparin. Although best known for their role in allergy and anaphylaxis, mast cells play an important protective role as well, being intimately involved in wound healing, angiogenesis, immune tolerance, defense against pathogens, and blood–brain barrier function.
-  model MastCells
+  * MastCells
     # https://en.wikipedia.org/wiki/Mast_cell
 
   /// Plasma cells are white blood cells that secrete large volumes of antibodies. They are transported by the blood plasma and the lymphatic system. Once released into the blood and lymph, these antibody molecules bind to the target antigen (foreign substance) and initiate its neutralization or destruction.
-  model PlasmaCells
+  * PlasmaCells
     # https://en.wikipedia.org/wiki/Plasma_cell
 
-  /// Phagocytes are cells that protect the body by ingesting harmful foreign particles, bacteria, and dead or dying cells. They are essential for fighting infections and for subsequent immunity.
-  model PhagocyticCells
-    # https://en.wikipedia.org/wiki/Phagocyte
-
-
   /// Chondrocytes are the only cells found in healthy cartilage. They produce and maintain the cartilaginous matrix, which consists mainly of collagen and proteoglycans.
-  model Chondrocytes
+  * Chondrocytes
     # https://en.wikipedia.org/wiki/Chondrocyte
 
-
   /// An osteocyte, a star-shaped type of bone cell, is the most commonly found cell in mature bone tissue, and can live as long as the organism itself. The adult human body has about 42 billion of them. Osteocytes do not divide and have an average half life of 25 years.
-  model Osteocytes
+  * Osteocytes
 
   /// Red blood cells, also known as erythroid cells or erythrocytes, are the most common type of blood cell and the vertebrate's principal means of delivering oxygen (O2) to the body tissues—via blood flow through the circulatory system.
-  model Erythrocytes
+  * Erythrocytes
     # https://en.wikipedia.org/wiki/Red_blood_cell
 
   /// White blood cells (also called leukocytes) are the cells of the immune system that are involved in protecting the body against both infectious disease and foreign invaders. All white blood cells are produced and derived from multipotent cells in the bone marrow known as hematopoietic stem cells. Leukocytes are found throughout the body, including the blood and lymphatic system.
-  model Leukocytes
+  * Leukocytes
     # https://en.wikipedia.org/wiki/White_blood_cell
 
   /// Platelets (sometimes called thrombocytes) are a component of blood whose function is to react to bleeding from blood vessel injury by clumping, thereby initiating a blood clot. Platelets have no cell nucleus: they are fragments of cytoplasm that are derived from the megakaryocytes of the bone marrow, and then enter the circulation.
@@ -109,21 +123,20 @@
         {image:'Figure_19_4_3}
 
   /// A myocyte is the type of cell found in muscle tissue. Myocytes are long, tubular cells that develop from myoblasts to form muscles in a process known as myogenesis.
-  model Myocyte
+  * Myocyte
     # https://en.wikipedia.org/wiki/Myocyte
 
   /// Astrocytes are characteristic star-shaped glial cells in the brain and spinal cord. They perform many functions, including biochemical support of endothelial cells that form the blood–brain barrier, provision of nutrients to the nervous tissue, maintenance of extracellular ion balance, and a role in the repair and scarring process of the brain and spinal cord following traumatic injuries.
-  model Astrocyte
+  * Astrocyte
     # https://en.wikipedia.org/wiki/Astrocyte
 
   /// Oligodendrocytes are a type of neuroglia whose main functions are to provide support and insulation to axons in the central nervous system of some vertebrates, equivalent to the function performed by Schwann cells in the peripheral nervous system.
-  model Oligodendrocyte
+  * Oligodendrocyte
     # https://en.wikipedia.org/wiki/Oligodendrocyte
 
   /// Schwann cells or neurolemmocytes are the principal glia of the peripheral nervous system (PNS). The two types of Schwann cells are myelinating and nonmyelinating. Myelinating Schwann cells wrap around axons of motor and sensory neurons to form the myelin sheath.
-  model SchwannCell
+  * SchwannCell
     # https://en.wikipedia.org/wiki/Schwann_cell
-
 
   / Red Blood Cells
   /// Red blood cells (RBCs or erythrocytes) are the most common type of blood cell and the principal means of delivering oxygen to the body tissues—via blood flow through the circulatory system. RBCs take up oxygen in the lungs and release it into tissues while squeezing through the body's capillaries.
@@ -214,13 +227,6 @@
       * Extravasation
         # https://en.wikipedia.org/wiki/Leukocyte_extravasation
 
-      /// Diapedesis refers to the passage of cells through the intact vessel wall.
-      * Diapedesis
-        # https://en.wikipedia.org/wiki/Leukocyte_extravasation#Transmigration
-
-      /// Chemotaxis is the movement of an organism in response to a chemical stimulus. Somatic cells, bacteria, and other single-cell or multicellular organisms direct their movements according to certain chemicals in their environment.
-      * Chemotaxis
-        # https://en.wikipedia.org/wiki/Chemotaxis
 
     /// Important subclassifications of white blood cells include neutrophils, eosinophils, and basophils, natural killer cells, T cells, and B cells.
     * Classifications
@@ -326,9 +332,40 @@
   * BCells
     # https://en.wikipedia.org/wiki/B_cell
 
+  /// Memory B cells are a B cell sub-type that are formed within germinal centers following primary infection and are important in generating an accelerated and more robust antibody-mediated immune response in the case of re-infection (also known as a secondary immune response).
+  model MemoryBCells
+    # https://en.wikipedia.org/wiki/Memory_B_cell
+
   /// A T cell is a type of lymphocyte which develops in the thymus gland and plays a central role in the immune response. T cells can be distinguished from other lymphocytes by the presence of a T-cell receptor on the cell surface.
   * TCells
     # https://en.wikipedia.org/wiki/T_cell
+
+    --
+      TCellReceptor
+
+  /// The T helper cells (Th cells), also known as CD4<sup>+</sup> cells, are a type of T cell that play an important role in the immune system, particularly in the adaptive immune system. They help the activity of other immune cells by releasing T cell cytokines. These cells help suppress or regulate immune responses.
+  model THelperCell
+    # https://en.wikipedia.org/wiki/T_helper_cell
+
+  / T<sub>h</sub>1 Helper Cells
+  /// T<sub>h</sub>1 helper cells lead to an increased cell-mediated response, typically against intracellular bacteria and protozoa.
+  model Th1Cell
+    # https://en.wikipedia.org/wiki/T_helper_cell#Th1/Th2_model
+
+  / T<sub>h</sub>2 Helper Cells
+  /// T<sub>h</sub>2 helper cells lead to a humoral immune response, typically against extracellular parasites including helminths.
+  model Th2Cell
+    # https://en.wikipedia.org/wiki/T_helper_cell#Th1/Th2_model
+
+  / Cytotoxic T Cells (Tc)
+  /// A cytotoxic T cell (also known as TC, cytotoxic T lymphocyte, CTL, T-killer cell, cytolytic T cell, CD8+ T-cell or killer T cell) is a T lymphocyte (a type of white blood cell) that kills cancer cells, cells that are infected (particularly with viruses), or cells that are damaged in other ways.
+  model CytotoxicTCell
+    # https://en.wikipedia.org/wiki/Cytotoxic_T_cell
+
+  / Regulatory T Cells
+  /// The regulatory T cells, formerly known as suppressor T cells, are a subpopulation of T cells that modulate the immune system, maintain tolerance to self-antigens, and prevent autoimmune disease. Tregs are immunosuppressive and generally suppress or downregulate induction and proliferation of effector T cells.
+  model RegulatoryTCell
+    # https://en.wikipedia.org/wiki/Regulatory_T_cell
 
   /// Natural killer cells, or NK cells, are a type of cytotoxic lymphocyte critical to the innate immune system. NK cells provide rapid responses to virus-infected cells, acting at around 3 days after infection, and respond to tumor formation.
   * NKCells
@@ -345,3 +382,11 @@
 
   /// A megakaryocyte is a large bone marrow cell with a lobated nucleus responsible for the production of blood thrombocytes (platelets), which are necessary for normal blood clotting.
   * Megakaryocyte
+
+  /// Thymocytes are hematopoietic progenitor cells present in the thymus. The primary function of thymocytes is the generation of T lymphocytes (T cells).
+  * Thymocytes
+    # https://en.wikipedia.org/wiki/Thymocyte
+    <<
+      Thymus
+      Lymphocytes
+      TCells

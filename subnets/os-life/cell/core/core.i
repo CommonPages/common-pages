@@ -93,26 +93,11 @@ model Membrane
         Some integral membrane proteins are glycoproteins.
 
       --
-        Glycoprotiens
+        Glycoproteins
         Glycocalyx
 
       >>>
         The glycocalyx can have various roles. For example, it may have molecules that allow the cell to bind to another cell, it may contain receptors for hormones, or it might have enzymes to break down nutrients. The glycocalyces found in a person’s body are products of that person’s genetic makeup. They give each of the individual’s trillions of cells the “identity” of belonging in the person’s body. This identity is the primary way that a person’s immune defense cells “know” not to attack the person’s own body cells, but it also is the reason organs donated by another person might be rejected.
-
-      /// A channel protein is an integral protein that selectively allows particular materials, such as certain ions, to pass into or out of the cell.
-      model ChannelProtein
-
-      /// A receptor is a type of recognition protein that can selectively bind a specific molecule outside the cell, and this binding induces a chemical reaction within the cell.
-      model Receptor
-
-      /// A ligand is the specific molecule that binds to and activates a receptor.
-      model Ligand
-
-      /// A  glycoprotein is a protein that has carbohydrate molecules attached, which extend into the extracellular matrix. The attached carbohydrate tags on glycoproteins aid in cell recognition. The carbohydrates that extend from membrane proteins and even from some membrane lipids collectively form the glycocalyx.
-      model Glycoprotiens
-
-      /// The glycocalyx is a fuzzy-appearing coating around the cell formed from glycoproteins and other carbohydrates attached to the cell membrane.
-      model Glycocalyx
 
     /// Peripheral proteins are typically found on the inner or outer surface of the lipid bilayer but can also be attached to the internal or external surface of an integral protein.
     model PeripheralProteins

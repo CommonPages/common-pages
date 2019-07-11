@@ -2,6 +2,15 @@
 / Processes
 . proc
 
+  / Cellular Differentiation
+  /// Cellular differentiation is the process where a cell changes from one cell type to another. Usually, the cell changes to a more specialized type.
+  model Differentiation
+    # https://en.wikipedia.org/wiki/Cellular_differentiation
+
+  /// During terminal differentiation, a precursor cell formerly capable of cell division, permanently leaves the cell cycle, dismantles the cell cycle machinery and often expresses a range of genes characteristic of the cell's final function.
+  model TerminalDifferentiation
+    # https://en.wikipedia.org/wiki/Cellular_differentiation
+
   /// Autophagy (“self-eating”) is the process of a cell digesting its own structures.
   model Autophagy
 
@@ -97,3 +106,15 @@
 
   /// Exocytosis (taking “out of the cell”) is the process of a cell exporting material using vesicular transport.
   model Exocytosis
+
+  /// Diapedesis refers to the passage of cells through the intact vessel wall.
+  * Diapedesis
+    # https://en.wikipedia.org/wiki/Leukocyte_extravasation#Transmigration
+
+  /// Chemotaxis is the movement of an organism in response to a chemical stimulus. Somatic cells, bacteria, and other single-cell or multicellular organisms direct their movements according to certain chemicals in their environment.
+  * Chemotaxis
+    # https://en.wikipedia.org/wiki/Chemotaxis
+
+  /// Opsonization is the molecular mechanism whereby molecules, microbes, or apoptotic cells are chemically modified to have a stronger attraction to the cell surface receptors on phagocytes and NK cells.
+  model Opsonization
+    # https://en.wikipedia.org/wiki/Opsonin

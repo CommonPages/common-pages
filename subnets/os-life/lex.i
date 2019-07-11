@@ -3,6 +3,8 @@
 # Lexicon
 #
 
+import chem.proc._
+
 import cell.inst._
 import cell.class._
 import cell.feature._
@@ -11,7 +13,13 @@ import cell.prop._
 import cell.ognl._
 import cell.molec._
 
+import tissue.inst._
 import tissue.feature._
+
+import system.organ._
+
+let *glycoproteins mean Glycoproteins
+let *polypeptide mean Polypeptide
 
 let *negative-feedback mean basis.Homeostasis.NegativeFeedback
 let *Homeostasis mean basis.Homeostasis
@@ -28,6 +36,7 @@ let *DNA mean DNA
 let *lumen mean Lumen
 let *extracellular_matrix mean tissue.ConnectiveTissue.ExtracellularMatrix
 
+let *Blood mean system.fluid.cardio.Blood
 let *formed_elements mean system.fluid.cardio.Blood.Components.FormedElements
 
 let *CardioSys mean system.fluid.cardio
@@ -47,3 +56,7 @@ let *tunic mean Tunica
 
 let *Lymph mean system.fluid.lymph.Lymph
 let *Chyle mean system.fluid.lymph.Chyle
+
+let *cytotoxic mean Cytotoxicity
+
+let *Th2_cells mean Th2Cell 

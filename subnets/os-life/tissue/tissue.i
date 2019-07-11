@@ -631,17 +631,6 @@ module tissue
         >>>
           These granules contain the chemical signals histamine and heparin. When irritated or damaged, mast cells release histamine, an inflammatory mediator, which causes vasodilation and increased blood flow at a site of injury or infection, along with itching, swelling, and redness you recognize as an allergic response. Like blood cells, mast cells are derived from hematopoietic stem cells and are part of the immune system.
 
-        /// Polysaccharides are polymeric carbohydrate molecules composed of long chains of monosaccharide units bound together by glycosidic linkages. Examples include storage polysaccharides such as starch and glycogen, and structural polysaccharides such as cellulose and chitin.
-        model Polysaccharides
-
-        /// Cytokines are a broad and loose category of small proteins (~5–20 kDa) that are important in cell signaling. Cytokines are peptides, and cannot cross the lipid bilayer of cells to enter the cytoplasm. Cytokines have been shown to be involved in autocrine signaling, paracrine signaling and endocrine signaling as immunomodulating agents.
-        model Cytokines
-          # https://en.wikipedia.org/wiki/Cytokine
-
-        /// In cell biology, a granule is a small particle. It can be any structure barely visible by light microscopy. The term is most often used to describe a secretory vesicle.
-        model Granule
-          # https://en.wikipedia.org/wiki/Granule_(cell_biology)
-
       / Connective Tissue Fibers and Ground Substance
       /// Three main types of fibers are secreted by fibroblasts: collagen fibers, elastic fibers, and reticular fibers.
       model Fibers

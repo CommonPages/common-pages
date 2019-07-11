@@ -2,6 +2,21 @@
 / Features
 . feature
 
+  /// A channel protein is an integral protein that selectively allows particular materials, such as certain ions, to pass into or out of the cell.
+  model ChannelProtein
+
+  /// A receptor is a type of recognition protein that can selectively bind a specific molecule outside the cell, and this binding induces a chemical reaction within the cell.
+  model Receptor
+
+  /// A ligand is the specific molecule that binds to and activates a receptor.
+  model Ligand
+
+  /// A  glycoprotein is a protein that has carbohydrate molecules attached, which extend into the extracellular matrix. The attached carbohydrate tags on glycoproteins aid in cell recognition. The carbohydrates that extend from membrane proteins and even from some membrane lipids collectively form the glycocalyx.
+  model Glycoproteins
+
+  /// The glycocalyx is a fuzzy-appearing coating around the cell formed from glycoproteins and other carbohydrates attached to the cell membrane.
+  model Glycocalyx
+
   /// The basal surface is the surface of a cell which faces connective tissue.
   model BasalSurface
 
@@ -39,3 +54,7 @@
       <<
         chem.organic.Lipid
       # https://en.wikipedia.org/wiki/Phospholipid
+
+  /// Pattern recognition receptors (PRRs) play a crucial role in the proper function of the innate immune system. PRRs are germline-encoded host sensors, which detect molecules typical for the pathogens. They are proteins expressed, mainly, by cells of the innate immune system.
+  model PatternRecognitionReceptor
+    # https://en.wikipedia.org/wiki/Pattern_recognition_receptor

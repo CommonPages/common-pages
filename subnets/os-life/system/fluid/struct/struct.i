@@ -1,5 +1,4 @@
 
-
 . struct
 
   import proc._
@@ -207,10 +206,6 @@
   # Lymph
   #
 
-  /// A lymph node is an ovoid or kidney-shaped organ of the lymphatic system and the adaptive immune system. Lymph nodes are widely present throughout the body and are linked by the lymphatic vessels as a part of the circulatory system. They are important for the proper functioning of the immune system.
-  * LymphNode
-    # https://en.wikipedia.org/wiki/Lymph_node
-
   /// Lymphatic capillaries are tiny, thin-walled microvessels located in the spaces between cells which serve to drain and process extracellular fluid. Each lymphatic capillary carries lymph into a lymphatic vessel, which in turn connects to a lymph node.
   * LymphaticCapillary
     # https://en.wikipedia.org/wiki/Lymph_capillary
@@ -227,6 +222,14 @@
   /// The lymphatic vessels are thin-walled vessels that carry lymph from the lymph capillaries, which absorb interstitial fluid from the tissues.
   * LymphaticVessel
     # https://en.wikipedia.org/wiki/Lymphatic_vessel
+
+  # https://en.wikipedia.org/wiki/Lymphatic_vessel#Afferent_vessels
+  /// An afferent lymphatic vessel is one that flows into a lymph node, in contrast to efferent lymphatic vessels, which flow out of lymph nodes. Afferent lymphatic vessels are only found in lymph nodes.
+  * AfferentLymphaticVessel
+
+
+  /// An efferent lymphatic vessel is one that flows out of a lymph node, in contrast to afferent lymphatic vessels, which into lymph nodes. Efferent lymphatic vessels are also found in the thymus and spleen, in addition to lymph nodes.
+  * EfferentLymphaticVessel
 
   /// A lymph trunk is a collection of lymph vessels that is formed by confluence of many lymph vessels. It in turn drains into one of the two lymph ducts.
   * LymphaticTrunk
@@ -270,3 +273,19 @@
         *Chyle
         *Lymph
         RightLymphaticDuct
+
+  /// Lymphoid nodules are small collections of lymphoid tissue, usually located in the beneath wet epithelial membranes, as in the digestive system, respiratory system, and urinary bladder.
+  * LymphoidNodules
+
+  /// Tonsils are collections of lymphoid tissue facing into the aerodigestive tract. These tissues are the immune system's first line of defense against ingested or inhaled foreign pathogens, and as such frequently engorge with blood to assist in immune responses to common illnesses such as the common cold.
+  * Tonsils
+
+  / Mucosa-associated Lymphoid Tissue
+  /// The mucosa-associated lymphoid tissue (MALT), also called mucosa-associated lymphatic tissue, is a diffuse system of small concentrations of lymphoid tissue found in various submucosal membrane sites of the body. MALT is populated by lymphocytes such as T cells and B cells, as well as plasma cells and macrophages, each of which is well situated to encounter antigens passing through the mucosal epithelium.
+  * MALT
+    # https://en.wikipedia.org/wiki/Mucosa-associated_lymphoid_tissue
+
+  / Bronchus-associated Lymphoid Tissue
+  /// Bronchus-associated lymphoid tissue (BALT) is a tertiary lymphoid structure. It is a part of mucosa-associated lymphoid tissue (MALT), and it consists of lymphoid follicles in the lungs and bronchus. BALT is an effective priming site of the mucosal and systemic immune responses.
+  * BALT
+    # https://en.wikipedia.org/wiki/Bronchus-associated_lymphoid_tissue

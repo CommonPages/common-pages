@@ -220,8 +220,8 @@
     * Type
       # $os-ap.Figures.'Figure_19_6_3
       * ABO
-      * Antigen
-      * Antibody
+      # Antigen
+      # Antibody
       * Agglutination
       * Hemolysis
 

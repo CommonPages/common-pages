@@ -920,18 +920,6 @@ module chem
       >>>
         Once glucose is phosphorylated in this way, it can be stored as glycogen or metabolized for immediate energy.
 
-      /// Deoxyribonucleic acid (DNA) is nucleotide that stores genetic information.
-      model DNA
-
-      /// Ribonucleic acid (RNA) is a ribose-containing nucleotide that helps manifest the genetic code as protein.
-      model RNA
-
-      /// A purine is a nitrogen-containing molecule with a double ring structure, which accommodates several nitrogen atoms.
-      model Purine
-
-      /// A pyramidine is a nitrogen-containing base with a single ring structure.
-      model Pyramidine
-
       /// The backbone chain of a polymer is the longest series of covalently bonded atoms that together create the continuous chain of the molecule.
       model BackboneChain
         # https://en.wikipedia.org/wiki/Backbone_chain#Biology
@@ -940,26 +928,6 @@ module chem
       model DoubleHelix
         # https://en.wikipedia.org/wiki/Nucleic_acid_double_helix
 
-      / Messenger RNA (mRNA)
-      /// mRNA is a large family of RNA molecules that convey genetic information from DNA to the ribosome, where they specify the amino acid sequence of the protein products of gene expression.
-      model mRNA
-        # https://en.wikipedia.org/wiki/Messenger_RNA
-
-      / Adenosine triphosphate (ATP)
-      /// ATP is a complex organic chemical that provides energy to drive many processes in living cells. Found in all forms of life, ATP is often referred to as the "molecular unit of currency" of intracellular energy transfer.
-      model ATP
-        # https://en.wikipedia.org/wiki/Adenosine_triphosphate
-
-      / Adenosine monophosphate (AMP)
-      /// AMP is a nucleotide that plays an important role in many cellular metabolic processes. It is also a component in the synthesis of RNA.
-      model AMP
-        # https://en.wikipedia.org/wiki/Adenosine_monophosphate
-
       /// Phosphorylation of a molecule is the attachment of a phosphoryl group. Together with its counterpart, dephosphorylation, it is critical for many cellular processes in biology.
       model Phosphorylation
         # https://en.wikipedia.org/wiki/Phosphorylation
-
-      / Adenosine diphosphate (ADP)
-      /// ADP is an important organic compound in metabolism and is essential to the flow of energy in living cells.
-      model ADP
-        # https://en.wikipedia.org/wiki/Adenosine_diphosphate
