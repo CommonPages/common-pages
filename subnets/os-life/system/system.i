@@ -48,25 +48,6 @@ module system
     model EndoSys
       # https://en.wikipedia.org/wiki/Endocrine_system
 
-  / Energy Systems
-  // Energy, Maintenance and Environmental Exchange Systems
-  /// The Respiratory System, The Digestive System, The Urinary System
-  module energy
-
-    / The Respiratory System
-    /// The respiratory system is responsible for obtaining oxygen and getting rid of carbon dioxide, and aiding in speech production and in sensing odors.
-    model RespSys
-
-    —
-    / The Digestive System
-    /// The function of the digestive system is to break down the foods you eat, release their nutrients, and absorb those nutrients into the body.
-    model DigSys
-
-    —
-    / The Urinary System
-    /// The urinary system has many roles, from cleansing the blood and ridding the body of wastes, to regulating pH and the concentration of solutes in the blood.
-    model UrinSys
-
   —
   / Reproductive Systems
   /// The Male Reproductive System, The Female Reproductive System

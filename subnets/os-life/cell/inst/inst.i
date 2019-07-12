@@ -390,3 +390,26 @@
       Thymus
       Lymphocytes
       TCells
+
+  /// Goblet cells are simple columnar epithelial cells that secrete gel-forming mucins. The term goblet refers to the cell's goblet-like shape.
+  model GobletCell
+    # https://en.wikipedia.org/wiki/Goblet_cell
+
+  / Type I Alveolar Cells
+  /// Type I alveolar cells are thin and flat epithelial lining cells, that form the structure of the alveoli. They are squamous (giving more surface area to each cell) and their long cytoplasmic extensions line more than 95% of the alveolar surface. Type I cells are involved in the process of gas exchange between the alveoli and blood.
+  model TypeIAlveolarCell
+    # https://en.wikipedia.org/wiki/Pulmonary_alveolus#Type_I_cells
+
+  / Type II Alveolar Cells
+  /// Type II alveolar cells are the most numerous cells in the alveoli, yet do not cover as much surface area as the squamous type I cells. Type II cells in the alveolar wall contain secretory granular organelles known as lamellar bodies secrete pulmonary surfactant. This surfactant is a film of fatty substances, without which the alveoli would collapse.
+  model TypeIIAlveolarCell
+    # https://en.wikipedia.org/wiki/Pulmonary_alveolus#Type_I_cells
+    >>>
+      Type II cells are also capable of cellular division, giving rise to more type I and II alveolar cells when the lung tissue is damaged.
+
+      MUC1, a human gene associated with type II pneumocytes, has been identified as a marker in lung cancer.
+
+  /// The alveolar macrophages reside on the internal lumenal surfaces of the alveoli, the alveolar ducts, and the bronchioles. They are mobile scavengers that serve to engulf foreign particles in the lungs, such as dust, bacteria, carbon particles, and blood cells from injuries. They are also called dust cells.
+  model AlveolarMacrophage
+    # https://en.wikipedia.org/wiki/Pulmonary_alveolus#Macrophages
+    # https://en.wikipedia.org/wiki/Alveolar_macrophage

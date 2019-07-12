@@ -2,6 +2,10 @@
 / Processes
 . proc
 
+  /// Cellular respiration is a set of metabolic reactions and processes that take place in the cells of organisms to convert biochemical energy from nutrients into adenosine triphosphate (ATP), and then release waste products. Respiration is one of the key ways a cell releases chemical energy to fuel cellular activity.
+  model CellularRespiration
+    # https://en.wikipedia.org/wiki/Cellular_respiration
+
   / Cellular Differentiation
   /// Cellular differentiation is the process where a cell changes from one cell type to another. Usually, the cell changes to a more specialized type.
   model Differentiation

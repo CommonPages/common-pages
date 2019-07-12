@@ -353,10 +353,6 @@ module tissue
         model TransitionalEpithelium
           # https://en.wikipedia.org/wiki/Transitional_epithelium
 
-      /// Goblet cells are simple columnar epithelial cells that secrete gel-forming mucins. The term goblet refers to the cell's goblet-like shape.
-      model GobletCell
-        # https://en.wikipedia.org/wiki/Goblet_cell
-
     /// A gland is a structure made up of one or more cells modified to synthesize and secrete chemical substances. Most glands consist of groups of epithelial cells.
     model GlandularEpithelium
       >>>

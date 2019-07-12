@@ -27,6 +27,8 @@ let *homeostasis mean basis.Homeostasis
 let *homeostatic mean basis.Homeostasis
 let *oxygen mean basis.Requirements.Oxygen
 
+let *cellular_respiration mean CellularRespiration
+
 let *water mean chem.inorganic.Water
 let *pH mean chem.inorganic.pH
 
@@ -44,6 +46,7 @@ let *LymphSys mean system.fluid.lymph
 let *ImmuneSys mean system.fluid.immune
 
 let *Heart mean system.fluid.cardio.Heart
+let *Vasc mean system.fluid.cardio.Vasc
 
 let *cardiovascular_system mean system.fluid.cardio
 let *RBCs mean RBCs
@@ -59,4 +62,4 @@ let *Chyle mean system.fluid.lymph.Chyle
 
 let *cytotoxic mean Cytotoxicity
 
-let *Th2_cells mean Th2Cell 
+let *Th2_cells mean Th2Cell
