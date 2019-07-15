@@ -18,6 +18,8 @@
   --
     ImmuneCells
     ImmuneOrgans
+
+  --
     BarrierDefenses
 
   >>>
@@ -49,7 +51,7 @@
   /// The functions of the immune system are carried out largely by phagocytic cells, lymphocytes, and cells containing cytoplasmic granules.
   * ImmuneCells
     >>>
-      The cells of the blood, including all those involved in the immune response, arise in the bone marrow via various differentiation pathways from hematopoietic stem cells ({'Figure_22_1_4 Figure 22.1.4}). In contrast with embryonic stem cells, hematopoietic stem cells are present throughout adulthood and allow for the continuous differentiation of blood cells to replace those lost to age or function. These cells can be divided into three classes based on function:
+      The cells of the blood, including all those involved in the immune response, arise in the bone marrow via various differentiation pathways from {HematopoieticStemCell hematopoietic stem cells} ({'Figure_22_1_4 Figure 22.1.4}). In contrast with embryonic stem cells, hematopoietic stem cells are present throughout adulthood and allow for the continuous {Differentiation differentiation} of blood cells to replace those lost to age or function. These cells can be divided into three classes based on function:
 
         * Phagocytic cells, which ingest pathogens to destroy them
         * Lymphocytes, which specifically coordinate the activities of adaptive immunity
@@ -75,7 +77,7 @@
       TCells
 
     >>>
-      Different T cell types have the ability to either secrete soluble factors that communicate with other cells of the adaptive immune response or destroy cells infected with intracellular pathogens. The roles of T and B lymphocytes in the adaptive immune response will be discussed further in this chapter.
+      Different T cell types have the ability to either secrete soluble factors that communicate with other cells of the adaptive immune response or destroy cells infected with intracellular pathogens.
 
       Another type of lymphocyte of importance is the plasma cell. A  **plasma cell** is a B cell that has differentiated in response to antigen binding, and has thereby gained the ability to secrete soluble antibodies.
 
@@ -83,7 +85,7 @@
       PlasmaCells
 
     >>>
-      These cells differ in morphology from standard B and T cells in that they contain a large amount of cytoplasm packed with the protein-synthesizing machinery known as rough endoplasmic reticulum.
+      These cells differ in morphology from standard B and T cells in that they contain a large amount of cytoplasm packed with the protein-synthesizing machinery known as {RoughER rough endoplasmic reticulum}.
 
       A fourth important lymphocyte is the natural killer cell, a participant in the innate immune response. A  **natural killer cell (NK)** is a circulating blood cell that contains cytotoxic (cell-killing) granules in its extensive cytoplasm.
 
@@ -104,49 +106,58 @@
     /// The primary lymphoid organs are those that generate lymphocytes from immature progenitor cells. These include the thymus and bone marrow. The lymphoid organs are where lymphocytes mature, proliferate, and are selected, which enables them to attack pathogens without harming the cells of the body.
     * PrimaryOrgans
       >>>
-        Understanding the differentiation and development of B and T cells is critical to the understanding of the adaptive immune response. It is through this process that the body (ideally) learns to destroy only pathogens and leaves the body’s own cells relatively intact. The  **primary lymphoid organs** are the bone marrow and thymus gland.
+        Understanding the {Differentiation differentiation} and development of {BCells B} and {TCells T cells} is critical to the understanding of the {AdaptiveImmuneResponse adaptive immune response}. It is through this process that the body (ideally) learns to destroy only {*pathogens} and leaves the body’s own cells relatively intact.
 
+        The  **primary lymphoid organs** are the bone marrow and thymus gland.
       --
         PrimaryLymphoidOrgans
         BoneMarrow
         Thymus
-
-
       >>>
-        The lymphoid organs are where lymphocytes mature, proliferate, and are selected, which enables them to attack pathogens without harming the cells of the body.
+        The lymphoid organs are where lymphocytes mature, proliferate, and are {CentralTolerance selected}, which enables them to attack pathogens without harming the cells of the body.
 
-        In the embryo, blood cells are made in the yolk sac. As development proceeds, this function is taken over by the spleen, lymph nodes, and liver. Later, the bone marrow takes over most hematopoietic functions, although the final stages of the differentiation of some cells may take place in other organs. The red  **bone marrow** is a loose collection of cells where hematopoiesis occurs, and the yellow bone marrow is a site of energy storage, which consists largely of fat cells ({'Figure_22_1_5 Figure 22.1.5}). The B cell undergoes nearly all of its development in the red bone marrow, whereas the immature T cell, called a  **thymocyte**, leaves the bone marrow and matures largely in the thymus gland.
-
+        In the embryo, blood cells are made in the yolk sac. As development proceeds, this function is taken over by the spleen, lymph nodes, and liver. Later, the {BoneMarrow bone marrow} takes over most hematopoietic functions, although the final stages of the differentiation of some cells may take place in other organs. The {RedBoneMarrow red bone marrow} is a loose collection of cells where {Hematopoiesis hematopoiesis} occurs, and the {YellowBoneMarrow yellow bone marrow} is a site of energy storage, which consists largely of fat cells ({'Figure_22_1_5 Figure 22.1.5}). The B cell undergoes nearly all of its development in the red bone marrow, whereas the immature T cell, called a  **thymocyte**, leaves the bone marrow and matures largely in the {Thymus thymus gland}.
       --
         Thymocytes
-
       >>>
         {image:'Figure_22_1_5}
 
-        The  {Thymus thymus gland} is a bilobed organ found in the space between the sternum and the aorta of the heart. Connective tissue holds the lobes closely together but also separates them and forms a capsule.
+        The thymus gland is a bilobed organ found in the space between the sternum and the aorta of the heart.
+      --
+        Thymus
+      >>>
+        Connective tissue holds the lobes closely together but also separates them and forms a capsule.
 
         {image:'Figure_22_1_6}
 
-        The connective tissue capsule further divides the thymus into lobules via extensions called trabeculae. The outer region of the organ is known as the cortex and contains large numbers of thymocytes with some epithelial cells, macrophages, and dendritic cells (two types of phagocytic cells that are derived from monocytes). The cortex is densely packed so it stains more intensely than the rest of the thymus (see {'Figure_22_1_6 Figure 22.1.6}). The medulla, where thymocytes migrate before leaving the thymus, contains a less dense collection of thymocytes, epithelial cells, and dendritic cells.
+        The connective tissue capsule further divides the thymus into lobules via extensions called trabeculae. The outer region of the organ is known as the cortex and contains large numbers of {*thymocytes} with some {*epithelial_cells}, {*macrophages}, and {*dendritic_cells} (two types of {*phagocytic_cells} that are derived from {*monocytes}). The cortex is densely packed so it stains more intensely than the rest of the thymus (see {'Figure_22_1_6 Figure 22.1.6}). The {Medulla medulla}, where thymocytes migrate before leaving the thymus, contains a less dense collection of thymocytes, epithelial cells, and dendritic cells.
 
     // Secondary Lymphoid Organs and their Roles in Active Immune Responses
     /// Lymphocytes develop and mature in the primary lymphoid organs, but they mount immune responses from the secondary lymphoid organs. These include lymph nodes and the spleen.
     * SecondaryOrgans
       >>>
-        Lymphocytes develop and mature in the primary lymphoid organs, but they mount immune responses from the  **secondary lymphoid organs**.
+        {Lymphocytes} develop and mature in the {PrimaryLymphoidOrgans primary lymphoid organs}, but they mount immune responses from the  **secondary lymphoid organs**.
 
       --
         SecondaryLymphoidOrgans
 
       >>>
-        A  **naïve lymphocyte** is one that has left the primary organ and entered a secondary lymphoid organ. Naïve lymphocytes are fully functional immunologically, but have yet to encounter an antigen to respond to. In addition to circulating in the blood and lymph, lymphocytes concentrate in secondary lymphoid organs, which include the lymph nodes, spleen, and lymphoid nodules. All of these tissues have many features in common, including the following:
+        A  **naïve lymphocyte** is one that has left the primary organ and entered a secondary lymphoid organ. Naïve lymphocytes are fully functional immunologically, but have yet to encounter an antigen to respond to. In addition to circulating in the blood and lymph, lymphocytes concentrate in secondary lymphoid organs, which include the {LymphNode lymph nodes}, {Spleen spleen}, and {LymphoidNodules lymphoid nodules}.
 
-          * The presence of lymphoid follicles, the sites of the formation of lymphocytes, with specific B cell-rich and T cell-rich areas
-          * An internal structure of reticular fibers with associated fixed macrophages
-          *  **Germinal centers**, which are the sites of rapidly dividing and differentiating B lymphocytes
-          * Specialized post-capillary vessels known as  **high endothelial venules**; the cells lining these venules are thicker and more columnar than normal endothelial cells, which allow cells from the blood to directly enter these tissues
+        {image:'Figure_22_1_6}
+      >>>
+        All of these tissues have many features in common, including the following:
 
-        Lymph nodes function to remove debris and pathogens from the lymph, and are thus sometimes referred to as the “filters of the lymph” ({'Figure_22_1_7 Figure 22.1.7}). Any bacteria that infect the interstitial fluid are taken up by the lymphatic capillaries and transported to a regional lymph node. Dendritic cells and macrophages within this organ internalize and kill many of the pathogens that pass through, thereby removing them from the body. The lymph node is also the site of adaptive immune responses mediated by T cells, B cells, and accessory cells of the adaptive immune system. Like the thymus, the bean-shaped lymph nodes are surrounded by a tough capsule of connective tissue and are separated into compartments by trabeculae, the extensions of the capsule. In addition to the structure provided by the capsule and trabeculae, the structural support of the lymph node is provided by a series of reticular fibers laid down by fibroblasts.
+          * The presence of {LymphoidFollicles lymphoid follicles}, the sites of the formation of lymphocytes, with specific B cell-rich and T cell-rich areas
+          * An internal structure of {ReticularFiber reticular fibers} with associated {FixedMacrophages fixed macrophages}
+          *  {GerminalCenters Germinal centers}, which are the sites of rapidly dividing and differentiating B lymphocytes
+          * Specialized post-capillary vessels known as {HighEndothelialVenules high endothelial venules}; the cells lining these venules are thicker and more columnar than normal endothelial cells, which allow cells from the blood to directly enter these tissues
+
+        Lymph nodes function to remove debris and pathogens from the lymph, and are thus sometimes referred to as the “filters of the lymph” ({'Figure_22_1_7 Figure 22.1.7}).
+      --
+        LymphNode
+      >>>
+        Any bacteria that infect the interstitial fluid are taken up by the lymphatic capillaries and transported to a regional lymph node. Dendritic cells and macrophages within this organ internalize and kill many of the pathogens that pass through, thereby removing them from the body. The lymph node is also the site of adaptive immune responses mediated by T cells, B cells, and accessory cells of the adaptive immune system. Like the thymus, the bean-shaped lymph nodes are surrounded by a tough capsule of connective tissue and are separated into compartments by trabeculae, the extensions of the capsule. In addition to the structure provided by the capsule and trabeculae, the structural support of the lymph node is provided by a series of reticular fibers laid down by fibroblasts.
 
         {image:'Figure_22_1_7}
 
@@ -157,7 +168,7 @@
         EfferentLymphaticVessel
 
       >>>
-        Lymph enters the lymph node via the subcapsular sinus, which is occupied by dendritic cells, macrophages, and reticular fibers. Within the cortex of the lymph node are lymphoid follicles, which consist of germinal centers of rapidly dividing B cells surrounded by a layer of T cells and other accessory cells. As the lymph continues to flow through the node, it enters the medulla, which consists of medullary cords of B cells and plasma cells, and the medullary sinuses where the lymph collects before leaving the node via the efferent lymphatic vessels.
+        Lymph enters the lymph node via the subcapsular sinus, which is occupied by dendritic cells, macrophages, and reticular fibers. Within the cortex of the lymph node are lymphoid follicles, which consist of germinal centers of rapidly dividing B cells surrounded by a layer of T cells and other accessory cells. As the lymph continues to flow through the node, it enters the {Medulla medulla}, which consists of medullary cords of B cells and plasma cells, and the medullary sinuses where the lymph collects before leaving the node via the efferent lymphatic vessels.
 
         In addition to the lymph nodes, the  **spleen** is a major secondary lymphoid organ ({'Figure_22_1_8 Figure 22.1.8}).
 
@@ -275,7 +286,7 @@
       >>>
         These receptors, which are thought to have evolved prior to the adaptive immune response, are present on the cell surface whether they are needed or not. Their variety, however, is limited by two factors. First, the fact that each receptor type must be encoded by a specific gene requires the cell to allocate most or all of its DNA to make receptors able to recognize all pathogens. Secondly, the variety of receptors is limited by the finite surface area of the cell membrane. Thus, the innate immune system must “get by” using only a limited number of receptors that are active against as wide a variety of pathogens as possible. This strategy is in stark contrast to the approach used by the adaptive immune system, which uses large numbers of different receptors, each highly specific to a particular pathogen.
 
-        Should the cells of the innate immune system come into contact with a species of pathogen they recognize, the cell will bind to the pathogen and initiate phagocytosis (or cellular apoptosis in the case of an intracellular pathogen) in an effort to destroy the offending microbe. Receptors vary somewhat according to cell type, but they usually include receptors for bacterial components and for complement, discussed below.
+        Should the cells of the innate immune system come into contact with a species of pathogen they recognize, the cell will bind to the pathogen and initiate phagocytosis (or cellular apoptosis in the case of an intracellular pathogen) in an effort to destroy the offending microbe. Receptors vary somewhat according to cell type, but they usually include receptors for bacterial components and for complement.
 
     / Soluble Mediators of the Innate Immune Response
     /// Chemical signals can induce cells to change various physiological characteristics, such as the expression of a particular receptor. These soluble factors are secreted during innate or early induced responses, and later during adaptive immune responses.

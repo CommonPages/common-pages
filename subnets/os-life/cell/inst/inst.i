@@ -11,8 +11,14 @@
     # https://en.wikipedia.org/wiki/Gamete
 
   /// Stem cells are cells that can differentiate into other types of cells, and can also divide in self-renewal to produce more of the same type of stem cells.
-  * StemCell
+  model StemCell
     # https://en.wikipedia.org/wiki/Stem_cell
+
+  /// Hematopoietic stem cells (HSCs) are the stem cells that give rise to other blood cells, in the process called hematopoiesis.
+  model HematopoieticStemCell
+    # https://en.wikipedia.org/wiki/Hematopoietic_stem_cell
+    <<
+      *Hematopoiesis
 
   /// A progenitor cell is a biological cell that, like a stem cell, has a tendency to differentiate into a specific type of cell, but is already more specific than a stem cell and is pushed to differentiate into its "target" cell. The most important difference between stem cells and progenitor cells is that stem cells can replicate indefinitely, whereas progenitor cells can divide only a limited number of times.
   model ProgenitorCell
@@ -53,8 +59,11 @@
     * BAT
 
   /// Macrophages are a type of white blood cell, of the immune system, that engulfs and digests cellular debris, foreign substances, microbes, cancer cells, and anything else that does not have the type of proteins specific to healthy body cells on its surface.
-  * Macrophages
+  model Macrophages
     # https://en.wikipedia.org/wiki/Macrophage
+
+  /// Fixed macrophages are those macrophages that reside within particular tissue in the body, and stay in that tissue.
+  model FixedMacrophages
 
   /// Dendritic cells (DCs) are antigen-presenting cells of the immune system. Their main function is to process antigen material and present it on the cell surface to the T cells of the immune system. They act as messengers between the innate and the adaptive immune systems.
   * DendriticCells

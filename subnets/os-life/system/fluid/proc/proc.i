@@ -52,10 +52,14 @@
   /// Central tolerance, also known as negative selection, is the process of eliminating any developing T or B lymphocytes that are reactive to self. Through elimination of autoreactive lymphocytes, tolerance ensures that the immune system does not attack self peptides. Central tolerance is not perfect, so peripheral tolerance exists as a secondary mechanism.
   model CentralTolerance
     # https://en.wikipedia.org/wiki/Central_tolerance#T_cell_tolerance
+    <<
+      PeripheralTolerance
 
   /// Peripheral tolerance is the second branch of immunological tolerance, after central tolerance. Its main purpose is to ensure that self-reactive T and B cells which escaped central tolerance do not cause autoimmune disease.
   model PeripheralTolerance
     # https://en.wikipedia.org/wiki/Peripheral_tolerance
+    <<
+      CentralTolerance
 
   /// In a pre-existing group of lymphocytes (specifically B cells), a specific antigen only activates (i.e. selects) its counter-specific cell so that particular cell is induced to multiply (producing its clones) for antibody production. This process is called clonal selection.
   model ClonalSelection
@@ -85,3 +89,9 @@
   /// Neutralization refers to the ability of specific antibodies to block the sites on viruses that they use to enter their target cell.
   model Neutralization
     # https://en.wikipedia.org/wiki/Neutralisation_(immunology)
+
+  /// Hematopoiesis (also hemopoiesis) is the formation of blood cellular components. All cellular blood components are derived from hematopoietic stem cells, which reside in the bone marrow and have the unique ability to give rise to all of the different mature blood cell types and tissues.
+  model Hematopoiesis
+    # https://en.wikipedia.org/wiki/Haematopoiesis
+    <<
+      HematopoieticStemCell

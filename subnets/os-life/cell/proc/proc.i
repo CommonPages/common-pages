@@ -24,6 +24,18 @@
   /// Apoptosis is a form of programmed cell death that occurs in multicellular organisms.
   model Apoptosis
 
+  /// Lysis refers to the breaking down of the membrane of a cell, often by viral, enzymic, or osmotic mechanisms that compromise its integrity.
+  model Lysis
+    # https://en.wikipedia.org/wiki/Lysis
+
+  /// Cytolysis, or osmotic lysis, occurs when a cell bursts due to an osmotic imbalance that has caused excess water to diffuse into the cell. It occurs in a hypotonic environment, where water moves into the cell by osmosis and causes its volume to increase to the point where the volume exceeds the membrane's capacity and the cell bursts.
+  model Cytolysis
+    # https://en.wikipedia.org/wiki/Cytolysis
+
+  /// Plasmolysis is the process in which cells lose water in a hypertonic solution. The reverse process, deplasmolysis or cytolysis, can occur if the cell is in a hypotonic solution resulting in a lower external osmotic pressure and a net flow of water into the cell.
+  model Plasmolysis
+    # https://en.wikipedia.org/wiki/Plasmolysis
+
   /// Mitosis is the division of genetic material, during which the cell nucleus breaks down and two new, fully functional, nuclei are formed.
   model Mitosis
     >>>

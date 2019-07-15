@@ -6,12 +6,15 @@
   import proc._
   import struct._
 
+  # https://en.wikipedia.org/wiki/Lymphatic_system
   >>>
-    The lymphatic system, for most people, is associated with the {*ImmuneSys immune system} to such a degree that the two systems are virtually indistinguishable. The swelling of {LymphNode lymph nodes} during an infection and the transport of lymphocytes via the lymphatic vessels are but two examples of the many connections between these critical organ systems.
+    The lymphatic system is part of the {*Vasc vascular system} and an important part of the {*ImmuneSys immune system}, comprising a large network of lymphatic vessels that carry a clear fluid called {*lymph} (from Latin, lympha meaning "water") directionally towards the heart.
 
-  --
-    Lymph
-    LymphNode
+    One of the main functions of the lymph system is to return blood from the interstitial fluid back to bloodstream. The other main function is defense against pathogens. The lymphatic system, for most people, is associated with the {*ImmuneSys immune system} to such a degree that the two systems are virtually indistinguishable. The swelling of {LymphNode lymph nodes} during an infection and the transport of lymphocytes via the lymphatic vessels are but two examples of the many connections between these critical organ systems.
+  #
+  # --
+  #   Lymph
+  #   LymphNode
 
   --
     Functions
@@ -50,7 +53,7 @@
       LymphaticCapillary
 
     >>>
-      The lymphatic capillaries empty into larger lymphatic vessels, which are similar to {*veins} in terms of their three-{*tunic} structure and the presence of valves.
+      The lymphatic capillaries empty into larger lymphatic vessels, which are similar to {*veins} in terms of their three-{*tunic} {*VascStructs structure} and the presence of valves.
 
     --
       LymphaticVessel

@@ -18,6 +18,22 @@ import tissue.feature._
 
 import system.organ._
 
+let RoughER mean EndoplasmicReticulum.RoughEndoplasmicReticulum
+let SmoothER mean EndoplasmicReticulum.SmoothEndoplasmicReticulum
+
+import BoneMarrow._
+
+let *thymocytes mean Thymocytes
+let *epithelial_cells mean EpithelialCell
+let *macrophages mean Macrophages
+let *dendritic_cells mean DendriticCells
+let *phagocytic_cells mean PhagocyticCells
+let *monocytes mean Monocytes
+
+let ReticularFiber mean tissue.ConnectiveTissue.ConnectiveTissueProper.Fibers.ReticularFiber
+
+let *pathogens mean Pathogen
+
 let *glycoproteins mean Glycoproteins
 let *polypeptide mean Polypeptide
 
@@ -41,12 +57,20 @@ let *extracellular_matrix mean tissue.ConnectiveTissue.ExtracellularMatrix
 let *Blood mean system.fluid.cardio.Blood
 let *formed_elements mean system.fluid.cardio.Blood.Components.FormedElements
 
+let *Hematopoiesis mean system.fluid.proc.Hematopoiesis
+
 let *CardioSys mean system.fluid.cardio
 let *LymphSys mean system.fluid.lymph
 let *ImmuneSys mean system.fluid.immune
 
+let *lymph mean system.fluid.lymph.Lymph
+
 let *Heart mean system.fluid.cardio.Heart
 let *Vasc mean system.fluid.cardio.Vasc
+
+let *VascStructs mean *Vasc.Structure.SharedStructures
+
+let *ThoracicDuct mean system.fluid.struct.LymphaticDuct.ThoracicDuct
 
 let *cardiovascular_system mean system.fluid.cardio
 let *RBCs mean RBCs

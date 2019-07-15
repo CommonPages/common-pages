@@ -289,3 +289,16 @@
   /// Bronchus-associated lymphoid tissue (BALT) is a tertiary lymphoid structure. It is a part of mucosa-associated lymphoid tissue (MALT), and it consists of lymphoid follicles in the lungs and bronchus. BALT is an effective priming site of the mucosal and systemic immune responses.
   * BALT
     # https://en.wikipedia.org/wiki/Bronchus-associated_lymphoid_tissue
+
+
+  /// Lymphoid follicles are small masses of tissues that contain aggregations of inflammatory cells, mainly B cells with some T cells and dendritic cells.
+  model LymphoidFollicles
+    # https://www.atsjournals.org/doi/full/10.1164/rccm.201306-1073ED
+
+  /// Germinal centers or germinal centres (GCs) are sites within secondary lymphoid organs (lymph nodes and the spleen) where mature B cells proliferate, differentiate, and mutate their antibody genes, and switch the class of their antibodies during a normal immune response to an infection.
+  model GerminalCenters
+    # https://en.wikipedia.org/wiki/Germinal_center
+
+  /// High endothelial venules (HEV) are specialized post-capillary venous swellings characterized by plump endothelial cells as opposed to the usual thinner endothelial cells found in regular venules. HEVs enable lymphocytes circulating in the blood to directly enter a lymph node (by crossing through the HEV). HEVs are found in all secondary lymphoid organs.
+  model HighEndothelialVenules
+    # https://en.wikipedia.org/wiki/High_endothelial_venules

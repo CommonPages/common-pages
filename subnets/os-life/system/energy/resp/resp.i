@@ -235,7 +235,11 @@ model resp
       --
         ThoracicDiaphragm
       >>>
-        The diaphragm is the flat, dome-shaped muscle located at the base of the lungs and thoracic cavity. The lungs are enclosed by the pleurae, which are attached to the mediastinum. The right lung is shorter and wider than the left lung, and the left lung occupies a smaller volume than the right. The  **cardiac notch** is an indentation on the surface of the left lung, and it allows space for the heart ({'Figure_23_2_1 Figure 23.2.1}). The apex of the lung is the superior region, whereas the base is the opposite region near the diaphragm. The costal surface of the lung borders the ribs. The mediastinal surface faces the midline.
+        The diaphragm is the flat, dome-shaped muscle located at the base of the lungs and thoracic cavity. The lungs are enclosed by the pleurae, which are attached to the mediastinum.
+      --
+        Mediastinum
+      >>>
+        The right lung is shorter and wider than the left lung, and the left lung occupies a smaller volume than the right. The  **cardiac notch** is an indentation on the surface of the left lung, and it allows space for the heart ({'Figure_23_2_1 Figure 23.2.1}). The apex of the lung is the superior region, whereas the base is the opposite region near the diaphragm. The costal surface of the lung borders the ribs. The mediastinal surface faces the midline.
 
         {image:'Figure_23_2_1}
 

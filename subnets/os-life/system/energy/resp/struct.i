@@ -77,3 +77,29 @@
   /// Pleural fluid is a serous fluid produced by the serous membrane covering normal pleurae. Most fluid is produced by the parietal circulation (intercostal arteries) via bulk flow and reabsorbed by the lymphatic system.
   model PleuralFluid
     # https://en.wikipedia.org/wiki/Pleural_cavity#Pleural_fluid
+
+  /// The mediastinum is the central compartment of the thoracic cavity surrounded by loose connective tissue, as an undelineated region that contains a group of structures within the thorax. The mediastinum contains the heart and its vessels, the esophagus, the trachea, the phrenic and cardiac nerves, the thoracic duct, the thymus and the lymph nodes of the central chest.
+  model Mediastinum
+    # https://en.wikipedia.org/wiki/Mediastinum
+
+    <<
+      ThoracicCavity
+      Thorax
+      *ThoracicDuct
+
+  /// The thorax or chest is a part of the anatomy of humans and various other animals located between the neck and the abdomen. The thorax includes the thoracic cavity and the thoracic wall. It contains organs including the heart, lungs, and thymus gland, as well as muscles and various other internal structures.
+  model Thorax
+    # https://en.wikipedia.org/wiki/Thorax
+    <<
+      ThoracicCavity
+      ThoracicWall
+
+  /// The thoracic cavity (or chest cavity) is the chamber of the body of vertebrates that is protected by the thoracic wall (rib cage and associated skin, muscle, and fascia). The central compartment of the thoracic cavity is the mediastinum.
+  model ThoracicCavity
+    # https://en.wikipedia.org/wiki/Thoracic_cavity
+
+  /// The thoracic wall or chest wall is the boundary of the thoracic cavity. The skeletal part of the thoracic wall is the rib cage, and the rest is composed up of muscle, skin, and fasciae.
+  model ThoracicWall
+    # https://en.wikipedia.org/wiki/Thoracic_wall
+    <<
+      ThoracicCavity

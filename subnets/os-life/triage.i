@@ -1,7 +1,7 @@
 
 
-/// a pathogen in the broadest sense, is anything that can produce disease. A pathogen may also be referred to as an infectious agent, or simply a germ.
-* Pathogen
+/// A pathogen in the broadest sense, is anything that can produce disease. A pathogen may also be referred to as an infectious agent, or simply a germ.
+model Pathogen
   # https://en.wikipedia.org/wiki/Pathogen
 
 /// Cytotoxicity is the quality of being toxic to cells.

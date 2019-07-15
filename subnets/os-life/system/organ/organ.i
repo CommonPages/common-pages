@@ -7,8 +7,17 @@
     # https://en.wikipedia.org/wiki/Thymus
 
   /// A lymph node is an ovoid or kidney-shaped organ of the lymphatic system and the adaptive immune system. Lymph nodes are widely present throughout the body and are linked by the lymphatic vessels as a part of the circulatory system. They are important for the proper functioning of the immune system.
-  * LymphNode
+  model LymphNode
     # https://en.wikipedia.org/wiki/Lymph_node
+
+    url: https://upload.wikimedia.org/wikipedia/commons/4/48/Diagram_of_a_lymph_node_CRUK_022.svg
+    width: 375
+    height: 306
+    name: Diagram of a Lymph Node
+    image 'img
+
+    >>>
+      {image:'img}
 
   /// The spleen is an organ that acts primarily as a blood filter. It is similar in structure to a large lymph node.
   model Spleen
@@ -81,3 +90,8 @@
   /// The thoracic diaphragm, or simply the diaphragm, is a sheet of internal skeletal muscle that extends across the bottom of the thoracic cavity. The diaphragm performs an important function in respiration: as the diaphragm contracts, the volume of the thoracic cavity increases, in which a negative pressure is created and draws air into the lungs.
   model ThoracicDiaphragm
     # https://en.wikipedia.org/wiki/Thoracic_diaphragm
+
+
+  /// The medulla oblongata (or medulla) is the lower half of the brainstem. It is just on top of the spinal cord. It connects the higher parts of the brain to the spinal cord.
+  model Medulla
+    # https://simple.wikipedia.org/wiki/Medulla_oblongata

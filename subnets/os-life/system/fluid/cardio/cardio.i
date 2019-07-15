@@ -6,7 +6,7 @@
   import struct._
   import proc._
 
-  /// Blood is a fluid connective tissue which delivers nutrients to and remove wastes from our trillions of cells.
+  /// Blood is a fluid connective tissue which delivers nutrients to and removes wastes from our trillions of cells.
   * Blood
 
     path InBrief
@@ -267,6 +267,7 @@
         Venule
         Vein
 
+      / Shared Structures of the Vascular System
       /// Different types of blood vessels vary slightly in their structures, but they share the same general features.
       * SharedStructures
         >>>
