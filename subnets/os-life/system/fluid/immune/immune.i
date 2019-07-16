@@ -1,7 +1,7 @@
 
 / The Immune System
 /// The immune system is the complex collection of cells and organs that destroys or neutralizes pathogens that would otherwise cause disease or death.
-* immune
+module immune
   import struct._
   import proc._
   import prop._
@@ -16,40 +16,40 @@
       * The slower but more specific and effective **adaptive immune response**, which involves many cell types and soluble factors, but is primarily controlled by white blood cells (leukocytes) known as  **lymphocytes**, which help control immune responses
 
   --
-    ImmuneCells
-    ImmuneOrgans
+    immunecells
+    immuneorgans
 
   --
-    BarrierDefenses
+    barrier
 
   >>>
     The immune system can be divided into two overlapping mechanisms to destroy pathogens: the innate immune response, which is relatively rapid but nonspecific and thus not always effective, and the adaptive immune response, which is slower in its development during an initial infection with a pathogen, but is highly specific and effective at attacking a wide variety of pathogens ({'Figure_22_2_1 Figure 22.2.1}).
 
   --
-    InnateImmuneResponse
+    innateresp
 
   >>>
     Innate immune responses are in many cases ineffective at completely controlling pathogen growth. However, they slow pathogen growth and allow time for the adaptive immune response to strengthen and either control or eliminate the pathogen. The innate immune system also sends signals to the cells of the adaptive immune system, guiding them in how to attack the pathogen. Thus, these are the two important arms of the immune response.
 
   --
-    AdaptiveImmuneResponse
+    adaptiveresp
 
   >>>
     When the immune system becomes too weak or too strong, it leads to a state of disease. The factors that maintain immunological homeostasis are complex and incompletely understood.
 
   --
-    ImmuneDiseases
+    diseases
 
   >>>
     The immune responses to transplanted organs and to cancer cells are both important medical issues. With the use of tissue typing and anti-rejection drugs, transplantation of organs and the control of the anti-transplant immune response have made huge strides in the past 50 years. Today, these procedures are commonplace.  {TissueTyping Tissue typing} is the determination of MHC molecules in the tissue to be transplanted to better match the donor to the recipient. The immune response to cancer, on the other hand, has been more difficult to understand and control. Although it is clear that the immune system can recognize some cancers and control them, others seem to be resistant to immune mechanisms.
 
   --
-    Transplantation
-    CancerImmunology
+    transplantation
+    cancer
 
   / Cells of the Immune System
   /// The functions of the immune system are carried out largely by phagocytic cells, lymphocytes, and cells containing cytoplasmic granules.
-  * ImmuneCells
+  module immunecells
     >>>
       The cells of the blood, including all those involved in the immune response, arise in the bone marrow via various differentiation pathways from {HematopoieticStemCell hematopoietic stem cells} ({'Figure_22_1_4 Figure 22.1.4}). In contrast with embryonic stem cells, hematopoietic stem cells are present throughout adulthood and allow for the continuous {Differentiation differentiation} of blood cells to replace those lost to age or function. These cells can be divided into three classes based on function:
 
@@ -100,11 +100,12 @@
 
   / Organs of the Immune System
   /// The functions of the immune system are largely carried out largely in the organs of the lymphatic system.
-  * ImmuneOrgans
+  module immuneorgans
 
+    / Primary Lymphoid Organs
     // Primary Lymphoid Organs and Lymphocyte Development
     /// The primary lymphoid organs are those that generate lymphocytes from immature progenitor cells. These include the thymus and bone marrow. The lymphoid organs are where lymphocytes mature, proliferate, and are selected, which enables them to attack pathogens without harming the cells of the body.
-    * PrimaryOrgans
+    module primary
       >>>
         Understanding the {Differentiation differentiation} and development of {BCells B} and {TCells T cells} is critical to the understanding of the {AdaptiveImmuneResponse adaptive immune response}. It is through this process that the body (ideally) learns to destroy only {*pathogens} and leaves the body’s own cells relatively intact.
 
@@ -132,15 +133,14 @@
 
         The connective tissue capsule further divides the thymus into lobules via extensions called trabeculae. The outer region of the organ is known as the cortex and contains large numbers of {*thymocytes} with some {*epithelial_cells}, {*macrophages}, and {*dendritic_cells} (two types of {*phagocytic_cells} that are derived from {*monocytes}). The cortex is densely packed so it stains more intensely than the rest of the thymus (see {'Figure_22_1_6 Figure 22.1.6}). The {Medulla medulla}, where thymocytes migrate before leaving the thymus, contains a less dense collection of thymocytes, epithelial cells, and dendritic cells.
 
+    / Secondary Lymphoid Organs
     // Secondary Lymphoid Organs and their Roles in Active Immune Responses
     /// Lymphocytes develop and mature in the primary lymphoid organs, but they mount immune responses from the secondary lymphoid organs. These include lymph nodes and the spleen.
-    * SecondaryOrgans
+    module secondary
       >>>
         {Lymphocytes} develop and mature in the {PrimaryLymphoidOrgans primary lymphoid organs}, but they mount immune responses from the  **secondary lymphoid organs**.
-
       --
         SecondaryLymphoidOrgans
-
       >>>
         A  **naïve lymphocyte** is one that has left the primary organ and entered a secondary lymphoid organ. Naïve lymphocytes are fully functional immunologically, but have yet to encounter an antigen to respond to. In addition to circulating in the blood and lymph, lymphocytes concentrate in secondary lymphoid organs, which include the {LymphNode lymph nodes}, {Spleen spleen}, and {LymphoidNodules lymphoid nodules}.
 
@@ -150,7 +150,7 @@
 
           * The presence of {LymphoidFollicles lymphoid follicles}, the sites of the formation of lymphocytes, with specific B cell-rich and T cell-rich areas
           * An internal structure of {ReticularFiber reticular fibers} with associated {FixedMacrophages fixed macrophages}
-          *  {GerminalCenters Germinal centers}, which are the sites of rapidly dividing and differentiating B lymphocytes
+          * {GerminalCenters Germinal centers}, which are the sites of rapidly dividing and differentiating B lymphocytes
           * Specialized post-capillary vessels known as {HighEndothelialVenules high endothelial venules}; the cells lining these venules are thicker and more columnar than normal endothelial cells, which allow cells from the blood to directly enter these tissues
 
         Lymph nodes function to remove debris and pathogens from the lymph, and are thus sometimes referred to as the “filters of the lymph” ({'Figure_22_1_7 Figure 22.1.7}).
@@ -162,19 +162,15 @@
         {image:'Figure_22_1_7}
 
         The major routes into the lymph node are via  **afferent lymphatic vessels** (see {'Figure_22_1_7 Figure 22.1.7}). Cells and lymph fluid that leave the lymph node may do so by another set of vessels known as the  **efferent lymphatic vessels**.
-
       --
         AfferentLymphaticVessel
         EfferentLymphaticVessel
-
       >>>
         Lymph enters the lymph node via the subcapsular sinus, which is occupied by dendritic cells, macrophages, and reticular fibers. Within the cortex of the lymph node are lymphoid follicles, which consist of germinal centers of rapidly dividing B cells surrounded by a layer of T cells and other accessory cells. As the lymph continues to flow through the node, it enters the {Medulla medulla}, which consists of medullary cords of B cells and plasma cells, and the medullary sinuses where the lymph collects before leaving the node via the efferent lymphatic vessels.
 
         In addition to the lymph nodes, the  **spleen** is a major secondary lymphoid organ ({'Figure_22_1_8 Figure 22.1.8}).
-
       --
         Spleen
-
       >>>
         It is about 12 cm (5 in) long and is attached to the lateral border of the stomach via the gastrosplenic ligament. The spleen is a fragile organ without a strong capsule, and is dark red due to its extensive vascularization. The spleen is sometimes called the “filter of the blood” because of its extensive vascularization and the presence of macrophages and dendritic cells that remove microbes and other materials from the blood, including dying red blood cells. The spleen also functions as the location of immune responses to blood-borne pathogens.
 
@@ -183,16 +179,12 @@
         The spleen is also divided by trabeculae of connective tissue, and within each splenic nodule is an area of red pulp, consisting of mostly red blood cells, and white pulp, which resembles the lymphoid follicles of the lymph nodes. Upon entering the spleen, the splenic artery splits into several arterioles (surrounded by white pulp) and eventually into sinusoids. Blood from the capillaries subsequently collects in the venous sinuses and leaves via the splenic vein. The red pulp consists of reticular fibers with fixed macrophages attached, free macrophages, and all of the other cells typical of the blood, including some lymphocytes. The white pulp surrounds a central arteriole and consists of germinal centers of dividing B cells surrounded by T cells and accessory cells, including macrophages and dendritic cells. Thus, the red pulp primarily functions as a filtration system of the blood, using cells of the relatively nonspecific immune response, and white pulp is where adaptive T and B cell responses are mounted.
 
         The other lymphoid tissues, the  **lymphoid nodules**, have a simpler architecture than the spleen and lymph nodes in that they consist of a dense cluster of lymphocytes without a surrounding fibrous capsule. These nodules are located in the respiratory and digestive tracts, areas routinely exposed to environmental pathogens.
-
       --
         LymphoidNodules
-
       >>>
         **Tonsils** are lymphoid nodules located along the inner surface of the pharynx and are important in developing immunity to oral pathogens ({'Figure_22_1_9 Figure 22.1.9}).
-
       --
         Tonsils
-
       >>>
         The tonsil located at the back of the throat, the pharyngeal tonsil, is sometimes referred to as the adenoid when swollen. Such swelling is an indication of an active immune response to infection. Histologically, tonsils do not contain a complete capsule, and the epithelial layer invaginates deeply into the interior of the tonsil to form tonsillar crypts. These structures, which accumulate all sorts of materials taken into the body through eating and breathing, actually “encourage” pathogens to penetrate deep into the tonsillar tissues where they are acted upon by numerous lymphoid follicles and eliminated. This seems to be the major function of tonsils—to help children’s bodies recognize, destroy, and develop immunity to common environmental pathogens so that they will be protected in their later lives. Tonsils are often removed in those children who have recurring throat infections, especially those involving the palatine tonsils on either side of the throat, whose swelling may interfere with their breathing and/or swallowing.
 
@@ -203,25 +195,38 @@
         {image:'Figure_22_1_10}
 
         **Bronchus-associated lymphoid tissue (BALT)** consists of lymphoid follicular structures with an overlying epithelial layer found along the bifurcations of the bronchi, and between bronchi and arteries. They also have the typically less-organized structure of other lymphoid nodules. These tissues, in addition to the tonsils, are effective against inhaled pathogens.
-
       --
         MALT
         BALT
 
+  / Barrier Defenses
   /// The immune system's physical barriers prevent pathogens from entering the body, destroy them after they enter, or flush them out before they can establish themselves in the body’s tissues.
-  * BarrierDefenses
+  module barrier
     >>>
       Any discussion of the innate immune response usually begins with the physical barriers that prevent pathogens from entering the body, destroy them after they enter, or flush them out before they can establish themselves in the hospitable environment of the body’s soft tissues. Barrier defenses are part of the body’s most basic defense mechanisms. The barrier defenses are not a response to infections, but they are continuously working to protect against a broad range of pathogens.
 
-      The different modes of barrier defenses are associated with the external surfaces of the body, where pathogens may try to enter. The primary barrier to the entrance of microorganisms into the body is the skin. Not only is the skin covered with a layer of dead, keratinized epithelium that is too dry for bacteria in which to grow, but as these cells are continuously sloughed off from the skin, they carry bacteria and other pathogens with them. Additionally, sweat and other skin secretions may lower pH, contain toxic lipids, and physically wash microbes away.
+      The different modes of barrier defenses are associated with the external surfaces of the body, where pathogens may try to enter. The primary barrier to the entrance of microorganisms into the body is the skin.
+    --
+      Skin
+    >>>
+      Not only is the skin covered with a layer of dead, keratinized epithelium that is too dry for bacteria in which to grow, but as these cells are continuously sloughed off from the skin, they carry bacteria and other pathogens with them. Additionally, sweat and other skin secretions may lower pH, contain toxic lipids, and physically wash microbes away.
 
     insert partial.immunebarriertab
 
     >>>
-      Another barrier is the saliva in the mouth, which is rich in lysozyme—an enzyme that destroys bacteria by digesting their cell walls. The acidic environment of the stomach, which is fatal to many pathogens, is also a barrier. Additionally, the mucus layer of the gastrointestinal tract, respiratory tract, reproductive tract, eyes, ears, and nose traps both microbes and debris, and facilitates their removal. In the case of the upper respiratory tract, ciliated epithelial cells move potentially contaminated mucus upwards to the mouth, where it is then swallowed into the digestive tract, ending up in the harsh acidic environment of the stomach. Considering how often you breathe compared to how often you eat or perform other activities that expose you to pathogens, it is not surprising that multiple barrier mechanisms have evolved to work in concert to protect this vital area.
+      Another barrier is the saliva in the mouth, which is rich in lysozyme—an enzyme that destroys bacteria by digesting their cell walls.
+    --
+      Saliva
+    >>>
+      The acidic environment of the stomach, which is fatal to many pathogens, is also a barrier. Additionally, the mucus layer of the gastrointestinal tract, respiratory tract, reproductive tract, eyes, ears, and nose traps both microbes and debris, and facilitates their removal.
+    --
+      MucousMembrane
+    >>>
+      In the case of the upper respiratory tract, ciliated epithelial cells move potentially contaminated mucus upwards to the mouth, where it is then swallowed into the digestive tract, ending up in the harsh acidic environment of the stomach. Considering how often you breathe compared to how often you eat or perform other activities that expose you to pathogens, it is not surprising that multiple barrier mechanisms have evolved to work in concert to protect this vital area.
 
+  / Innate Immune Response
   /// Innate immune responses are critical to the early control of infections. The hallmark of the innate immune response is inflammation.
-  * InnateImmuneResponse
+  module innateresp
     path InBrief
       step
         >>>
@@ -232,7 +237,7 @@
 
     / Cells of the Innate Immune System
     /// Cells of the innate immune system include phagocytes and natural killer cells.
-    * InnateImmuneCells
+    module innatecells
       >>>
         A phagocyte is a cell that is able to surround and engulf a particle or cell, a process called  **phagocytosis**.
       --
@@ -278,7 +283,7 @@
 
     / Recognition of Pathogens
     /// Cells of the innate immune response recognize patterns of pathogen-specific molecules using pattern recognition receptors.
-    * Recognition
+    module recognition
       >>>
         Cells of the innate immune response, the phagocytic cells, and the cytotoxic NK cells recognize patterns of pathogen-specific molecules, such as bacterial cell wall components or bacterial flagellar proteins, using pattern recognition receptors. A  **pattern recognition receptor (PRR)** is a membrane-bound receptor that recognizes characteristic features of a pathogen and molecules released by stressed or damaged cells.
       --
@@ -290,7 +295,7 @@
 
     / Soluble Mediators of the Innate Immune Response
     /// Chemical signals can induce cells to change various physiological characteristics, such as the expression of a particular receptor. These soluble factors are secreted during innate or early induced responses, and later during adaptive immune responses.
-    * Mediators
+    module mediators
       >>>
         The previous discussions have alluded to chemical signals that can induce cells to change various physiological characteristics, such as the expression of a particular receptor. These soluble factors are secreted during innate or early induced responses, and later during adaptive immune responses.
 
@@ -328,8 +333,9 @@
 
         The splitting of the {C3} protein is the common step to both pathways. In the alternate pathway, C3 is activated spontaneously and, after reacting with the molecules factor P, factor B, and factor D, splits apart. The larger fragment, C3b, binds to the surface of the pathogen and C3a, the smaller fragment, diffuses outward from the site of activation and attracts phagocytes to the site of infection. Surface-bound C3b then activates the rest of the cascade, with the last five proteins, C5–C9, forming the membrane-attack complex ({MAC}). The MAC can kill certain pathogens by disrupting their osmotic balance. The MAC is especially effective against a broad range of bacteria. The classical pathway is similar, except the early stages of activation require the presence of antibody bound to antigen, and thus is dependent on the adaptive immune response. The earlier fragments of the cascade also have important functions. Phagocytic cells such as macrophages and neutrophils are attracted to an infection site by chemotactic attraction to smaller complement fragments. Additionally, once they arrive, their receptors for surface-bound C3b opsonize the pathogen for phagocytosis and destruction.
 
+    / Inflammatory Response
     /// The function of inflammation is to eliminate the initial cause of cell injury, clear out necrotic cells and tissues damaged from the original insult and the inflammatory process, and initiate tissue repair.
-    * InflammatoryResponse
+    module inflammation
       >>>
         The hallmark of the innate immune response is  **inflammation**.
       --
@@ -349,16 +355,17 @@
       >>>
         There are four important parts to the inflammatory response:
 
-          *   *Tissue Injury.* The released contents of injured cells stimulate the release of  **mast cell** granules and their potent inflammatory mediators such as histamine, leukotrienes, and prostaglandins.  **Histamine** increases the diameter of local blood vessels (vasodilation), causing an increase in blood flow. Histamine also increases the permeability of local capillaries, causing plasma to leak out and form interstitial fluid. This causes the swelling associated with inflammation. <br />Additionally, injured cells, phagocytes, and basophils are sources of inflammatory mediators, including prostaglandins and leukotrienes. Leukotrienes attract neutrophils from the blood by chemotaxis and increase vascular permeability. Prostaglandins cause vasodilation by relaxing vascular smooth muscle and are a major cause of the pain associated with inflammation. Nonsteroidal anti-inflammatory drugs such as aspirin and ibuprofen relieve pain by inhibiting prostaglandin production.
-          *  *Vasodilation.* Many inflammatory mediators such as histamine are vasodilators that increase the diameters of local capillaries. This causes increased blood flow and is responsible for the heat and redness of inflamed tissue. It allows greater access of the blood to the site of inflammation.
-          *  *Increased Vascular Permeability.* At the same time, inflammatory mediators increase the permeability of the local vasculature, causing leakage of fluid into the interstitial space, resulting in the swelling, or edema, associated with inflammation.
-          *  *Recruitment of Phagocytes.* Leukotrienes are particularly good at attracting neutrophils from the blood to the site of infection by chemotaxis. Following an early neutrophil infiltrate stimulated by macrophage cytokines, more macrophages are recruited to clean up the debris left over at the site. When local infections are severe, neutrophils are attracted to the sites of infections in large numbers, and as they phagocytose the pathogens and subsequently die, their accumulated cellular remains are visible as pus at the infection site.
+        * *Tissue Injury.* The released contents of injured cells stimulate the release of  **mast cell** granules and their potent inflammatory mediators such as histamine, leukotrienes, and prostaglandins.  **Histamine** increases the diameter of local blood vessels (vasodilation), causing an increase in blood flow. Histamine also increases the permeability of local capillaries, causing plasma to leak out and form interstitial fluid. This causes the swelling associated with inflammation. <br />Additionally, injured cells, phagocytes, and basophils are sources of inflammatory mediators, including prostaglandins and leukotrienes. Leukotrienes attract neutrophils from the blood by chemotaxis and increase vascular permeability. Prostaglandins cause vasodilation by relaxing vascular smooth muscle and are a major cause of the pain associated with inflammation. Nonsteroidal anti-inflammatory drugs such as aspirin and ibuprofen relieve pain by inhibiting prostaglandin production.
+        * *Vasodilation.* Many inflammatory mediators such as histamine are vasodilators that increase the diameters of local capillaries. This causes increased blood flow and is responsible for the heat and redness of inflamed tissue. It allows greater access of the blood to the site of inflammation.
+        * *Increased Vascular Permeability.* At the same time, inflammatory mediators increase the permeability of the local vasculature, causing leakage of fluid into the interstitial space, resulting in the swelling, or edema, associated with inflammation.
+        * *Recruitment of Phagocytes.* Leukotrienes are particularly good at attracting neutrophils from the blood to the site of infection by chemotaxis. Following an early neutrophil infiltrate stimulated by macrophage cytokines, more macrophages are recruited to clean up the debris left over at the site. When local infections are severe, neutrophils are attracted to the sites of infections in large numbers, and as they phagocytose the pathogens and subsequently die, their accumulated cellular remains are visible as pus at the infection site.
 
         Overall, inflammation is valuable for many reasons. Not only are the pathogens killed and debris removed, but the increase in vascular permeability encourages the entry of clotting factors, the first step towards wound repair. Inflammation also facilitates the transport of antigen to lymph nodes by dendritic cells for the development of the adaptive immune response.
 
   # The adaptive immune system, also known as the acquired immune system, is a subsystem of the overall immune system that is composed of highly specialized, systemic cells and processes that eliminate pathogens or prevent their growth.
+  / Adaptive Immune Response
   /// The adaptive immune response creates immunological memory after an initial response to a specific pathogen, and leads to an enhanced response to subsequent encounters with that pathogen.
-  * AdaptiveImmuneResponse
+  module adaptiveresp
     # https://en.wikipedia.org/wiki/Adaptive_immune_system
 
     # How could so many different types of antibodies be encoded? And what about the many specificities of T cells? There is not nearly enough DNA in a cell to have a separate gene for each specificity. The mechanism was finally worked out in the 1970s and 1980s using the new tools of molecular genetics.
@@ -378,33 +385,34 @@
       InBrief
 
     --
-      Process
+      process
 
     --
-      TCellDevelopment
-      TCellMech
-      TCellTypes
+      tcelldev
+      tcellmech
+      tcelltype
 
     insert bcellintro
 
     --
-      BCellDiff
-      AntibodyStructure
-      ActivePassiveImmune
-      DepVIndepAntigens
+      bcelldiff
+      antibodystruct
+      activevspassive
+      antigens
 
     insert pathintro
 
     --
-      MucosalResponse
-      Bacteria
-      Parasites
-      Viruses
-      Evasion
+      mucosal
+      bacteria
+      parasites
+      viruses
+      evasion
 
     # Combines 4_21_3_0 - 4_21_3_3
+    / Process
     /// The immune system’s first exposure to a pathogen is called a  primary adaptive response. The  secondary adaptive response often eliminates a pathogen before it can cause significant tissue damage or any symptoms. This secondary response is the basis of  immunological memory, which protects us from getting diseases repeatedly from the same pathogen.
-    * Process
+    module process
       >>>
         The specificity of the adaptive immune response—its ability to specifically recognize and make a response against a wide variety of pathogens—is its great strength. Antigens, the small chemical groups often associated with pathogens, are recognized by receptors on the surface of B and T lymphocytes. The adaptive immune response to these antigens is so versatile that it can respond to nearly any pathogen. This increase in specificity comes because the adaptive immune response has a unique way to develop as many as 10<sup>11</sup>, or 100 trillion, different receptors to recognize nearly every conceivable pathogen.
 
@@ -500,7 +508,7 @@
 
     / T Cell Development and Differentiation
     /// All T cells originate from stem cells in the bone marrow. In the thymus, processes called positive and negative selection filter T cells that might attack one’s own body. A small percentage of thymocytes survive and go on to become mature immunocompetent T cells.
-    * TCellDevelopment
+    module tcelldev
       >>>
         The process of eliminating T cells that might attack the cells of one’s own body is referred to as  **T cell tolerance**.
       --
@@ -521,7 +529,7 @@
 
     / Mechanisms of T Cell-mediated Immune Responses
     /// Mature T cells become activated by recognizing a foreign antigen. They then begin dividing rapidly. This rapid, secondary adaptive response generates large numbers of effector T cells so fast that the pathogen is often overwhelmed before it can cause any symptoms of disease.
-    * TCellMech
+    module tcellmech
       >>>
         Mature T cells become activated by recognizing processed foreign antigen in association with a self-MHC molecule and begin dividing rapidly by mitosis. This proliferation of T cells is called  **clonal expansion** and is necessary to make the immune response strong enough to effectively control a pathogen.
       --
@@ -557,7 +565,7 @@
 
     / T Cell Types and their Functions
     /// Helper T cells function by secreting cytokines that act to enhance other immune responses. Cytotoxic T cells are T cells that kill target cells by inducing programmed cell death. Regulatory T cells suppress other T cell immune responses.
-    * TCellTypes
+    module tcelltype
       >>>
         In the discussion of T cell development, you saw that mature T cells express either the {CD4} marker or the {CD8} marker, but not both. These markers are cell adhesion molecules that keep the T cell in close contact with the antigen-presenting cell by directly binding to the MHC molecule (to a different part of the molecule than does the antigen). Thus, T cells and antigen-presenting cells are held together in two ways: by CD4 or CD8 attaching to MHC and by the T cell receptor binding to antigen.
 
@@ -611,7 +619,7 @@
 
     / B Cell Differentiation and Activation
     /// B cells differentiate in the bone marrow and are subject to central tolerance. After B cells are activated, they differentiate into plasma cells. Plasma cells often migrate back to the bone marrow, where the whole differentiation process started.
-    * BCellDiff
+    module bcelldiff
       >>>
         B cells differentiate in the bone marrow. During the process of maturation, up to 100 trillion different clones of B cells are generated, which is similar to the diversity of antigen receptors seen in T cells. B cell differentiation and the development of tolerance are not quite as well understood as it is in T cells.
       --
@@ -647,8 +655,9 @@
       >>>
         Memory B cells function in a way similar to memory T cells. They lead to a stronger and faster secondary response when compared to the primary response, as illustrated below.
 
+    / Antibody Structure
     /// Antibodies consist of two types of polypeptide chains with attached carbohydrates. The heavy chain and the light chain are the two polypeptides that form the antibody. The main differences between the classes of antibodies are in the differences between their heavy chains, but the light chains have an important role.
-    * AntibodyStructure
+    module antibodystruct
       >>>
         Antibodies are {*glycoproteins} consisting of two types of {*polypeptide} chains with attached carbohydrates. The  **heavy chain** and the  **light chain** are the two polypeptides that form the antibody.
       --
@@ -725,18 +734,15 @@
 
     / Active vs Passive Immunity
     /// Immunity to pathogens can be acquired by the active development of an immune response in the infected individual or the passive transfer of immune components from an immune individual to a nonimmune one.
-    * ActivePassiveImmune
+    module activevspassive
       >>>
         Immunity to pathogens, and the ability to control pathogen growth so that damage to the tissues of the body is limited, can be acquired by (1) the active development of an immune response in the infected individual or (2) the passive transfer of immune components from an immune individual to a nonimmune one. Both active and passive immunity have examples in the natural world and as part of medicine.
-
       --
         ActiveImmunity
-
       >>>
         Artificially acquired active immunity involves the use of vaccines. A vaccine is a killed or weakened pathogen or its components that, when administered to a healthy individual, leads to the development of immunological memory (a weakened primary immune response) without causing much in the way of symptoms. Thus, with the use of vaccines, one can avoid the damage from disease that results from the first exposure to the pathogen, yet reap the benefits of protection from immunological memory. The advent of vaccines was one of the major medical advances of the twentieth century and led to the eradication of smallpox and the control of many infectious diseases, including polio, measles, and whooping cough.
       --
         PassiveImmunity
-
       >>>
         Naturally acquired passive immunity is seen during fetal development. IgG is transferred from the maternal circulation to the fetus via the placenta, protecting the fetus from infection and protecting the newborn for the first few months of its life. As already stated, a newborn benefits from the IgA antibodies it obtains from milk during breastfeeding. The fetus and newborn thus benefit from the immunological memory of the mother to the pathogens to which she has been exposed. In medicine, artificially acquired passive immunity usually involves injections of immunoglobulins, taken from animals previously exposed to a specific pathogen. This treatment is a fast-acting method of temporarily protecting an individual who was possibly exposed to a pathogen. The downside to both types of passive immunity is the lack of the development of immunological memory. Once the antibodies are transferred, they are effective for only a limited time before they degrade.
 
@@ -744,7 +750,7 @@
 
     / T cell-dependent versus T cell-independent Antigens
     /// T-dependent antigens are antigens that require the assistance of T cells to induce the formation of specific antibodies. T independent antigen elicits antibody production by B lymphocytes without T lymphocyte involvement.
-    * DepVIndepAntigens
+    module antigens
       >>>
         {*Th2_cells} secrete cytokines that drive the production of antibodies in a B cell, responding to complex antigens such as those made by proteins. On the other hand, some antigens are T cell independent. A  **T cell-independent antigen** usually is in the form of repeated carbohydrate moieties found on the cell walls of bacteria.
       --
@@ -771,7 +777,7 @@
 
     / The Mucosal Immune Response
     /// Mucosal tissues are major barriers to the entry of pathogens into the body. Antibodies in mucus and other secretions can bind to the pathogen, and sometimes neutralize them.
-    * MucosalResponse
+    module mucosal
       >>>
         Mucosal tissues are major barriers to the entry of pathogens into the body. The IgA (and sometimes IgM) antibodies in mucus and other secretions can bind to the pathogen, and in the cases of many viruses and bacteria, neutralize them.
       --
@@ -785,7 +791,7 @@
 
     / Defenses against Bacteria and Fungi
     /// The body fights bacterial pathogens with a wide variety of immunological mechanisms, essentially trying to find one that is effective.
-    * Bacteria
+    module bacteria
       >>>
         Bacteria such as  *Mycobacterium leprae*, the cause of leprosy, are resistant to lysosomal enzymes and can persist in macrophage organelles or escape into the cytosol. In such situations, infected macrophages receiving cytokine signals from Th1 cells turn on special metabolic pathways.  **Macrophage oxidative metabolism** is hostile to intracellular bacteria, often relying on the production of nitric oxide to kill the bacteria inside the macrophage.
 
@@ -793,13 +799,13 @@
 
     / Defenses against Parasites
     /// The body fights parasites with the mucosal immune response, IgE-mediated allergy and other mechansims.
-    * Parasites
+    module parasites
       >>>
         Worm parasites such as helminths are seen as the primary reason why the mucosal immune response, IgE-mediated allergy and asthma, and eosinophils evolved. These parasites were at one time very common in human society. When infecting a human, often via contaminated food, some worms take up residence in the gastrointestinal tract. Eosinophils are attracted to the site by T cell cytokines, which release their granule contents upon their arrival. Mast cell degranulation also occurs, and the fluid leakage caused by the increase in local vascular permeability is thought to have a flushing action on the parasite, expelling its larvae from the body. Furthermore, if IgE labels the parasite, the eosinophils can bind to it by its Fc receptor.
 
     / Defenses against Viruses
     /// The primary mechanisms against viruses are NK cells, interferons, and cytotoxic T cells. Antibodies are effective against viruses mostly during protection, where an immune individual can neutralize them based on a previous exposure.
-    * Viruses
+    module viruses
       >>>
         Antibodies have no effect on viruses or other intracellular pathogens once they enter the cell, since antibodies are not able to penetrate the plasma membrane of the cell. Many cells respond to viral infections by downregulating their expression of MHC class I molecules. This is to the advantage of the virus, because without class I expression, cytotoxic T cells have no activity. NK cells, however, can recognize virally infected class I-negative cells and destroy them. Thus, NK and cytotoxic T cells have complementary activities against virally infected cells.
 
@@ -807,7 +813,7 @@
 
     / Evasion of the Immune System by Pathogens
     /// Although the immune system has evolved to be able to control many pathogens, pathogens themselves have evolved ways to evade the immune response.
-    * Evasion
+    module evasion
       >>>
         It is important to keep in mind that although the immune system has evolved to be able to control many pathogens, pathogens themselves have evolved ways to evade the immune response. An example already mentioned is in  *Mycobactrium tuberculosis*, which has evolved a complex cell wall that is resistant to the digestive enzymes of the macrophages that ingest them, and thus persists in the host, causing the chronic disease tuberculosis. This section briefly summarizes other ways in which pathogens can “outwit” immune responses. But keep in mind, although it seems as if pathogens have a will of their own, they do not. All of these evasive “strategies” arose strictly by evolution, driven by selection.
 
@@ -820,11 +826,13 @@
         Pathogens can produce immunosuppressive molecules that impair immune function, and there are several different types. Viruses are especially good at evading the immune response in this way, and many types of viruses have been shown to suppress the host immune response in ways much more subtle than the wholesale destruction caused by HIV.
 
   —
+  / Immune Diseases
   /// The immune response can be under-reactive or over-reactive. Suppressed immunity can result from inherited genetic defects or by acquiring viruses.
-  * ImmuneDiseases
+  module diseases
 
+  / Transplantation
   /// Tissue transplantation is more complicated than blood transfusions because of two characteristics of MHC molecules. These molecules are the major cause of transplant rejection. Immunosuppressive drugs have made transplants more successful, but matching the MHC molecules is still key.
-  * Transplantation
+  module transplantation
     # The Rh Factor
     >>>
       Red blood cells can be typed based on their surface antigens. ABO blood type, in which individuals are type A, B, AB, or O according to their genetics, is one example. A separate antigen system seen on red blood cells is the Rh antigen. When someone is “A positive” for example, the positive refers to the presence of the Rh antigen, whereas someone who is “A negative” would lack this molecule.
@@ -850,8 +858,9 @@
 
       One disease of transplantation occurs with bone marrow transplants, which are used to treat various diseases, including SCID and leukemia. Because the bone marrow cells being transplanted contain lymphocytes capable of mounting an immune response, and because the recipient’s immune response has been destroyed before receiving the transplant, the donor cells may attack the recipient tissues, causing  **graft-versus-host disease**. Symptoms of this disease, which usually include a rash and damage to the liver and mucosa, are variable, and attempts have been made to moderate the disease by first removing mature T cells from the donor bone marrow before transplanting it.
 
+  / Cancer Immunology
   /// With some cancers a healthy immune system does a good job at controlling them. However, as cancer cells are often able to divide and mutate rapidly, they may escape the immune response. There is extensive research trying to develop ways to enhance the early immune response to completely eliminate early cancer.
-  * CancerImmunology
+  module cancer
     >>>
       It is clear that with some cancers, for example Kaposi’s sarcoma, a healthy immune system does a good job at controlling them ({'Figure_22_7_2 Figure 22.7.2}). This disease, which is caused by the human herpesvirus, is almost never observed in individuals with strong immune systems, such as the young and immunocompetent. Other examples of cancers caused by viruses include liver cancer caused by the hepatitis B virus and cervical cancer caused by the human papilloma virus. As these last two viruses have vaccines available for them, getting vaccinated can help prevent these two types of cancer by stimulating the immune response.
 
@@ -864,27 +873,3 @@
       It is tempting to focus on the complexity of the immune system and the problems it causes as a negative. The upside to immunity, however, is so much greater: The benefit of staying alive far outweighs the negatives caused when the system does sometimes go awry. Working on “autopilot,” the immune system helps to maintain your health and kill pathogens. The only time you really miss the immune response is when it is not being effective and illness results, or, as in the extreme case of HIV disease, the immune system is gone completely.
 
   # Blood transfusion and organ transplantation both require an understanding of the immune response to prevent medical complications. Blood needs to be typed so that natural antibodies against mismatched blood will not destroy it, causing more harm than good to the recipient. Transplanted organs must be matched by their MHC molecules and, with the use of immunosuppressive drugs, can be successful even if an exact tissue match cannot be made. Another aspect to the immune response is its ability to control and eradicate cancer. Although this has been shown to occur with some rare cancers and those caused by known viruses, the normal immune response to most cancers is not sufficient to control cancer growth. Thus, cancer vaccines designed to enhance these immune responses show promise for certain types of cancer.
-
-  /// The complement system is a part of the immune system that enhances (complements) the ability of antibodies and phagocytic cells to clear microbes and damaged cells from an organism, promotes inflammation, and attacks the pathogen's cell membrane. It is part of the innate immune system.
-  model ComplementSystem
-    # https://en.wikipedia.org/wiki/Complement_system
-
-  /// Immunological memory is the ability of the immune system to quickly and specifically recognize an antigen that the body has previously encountered and initiate a corresponding immune response.
-  model ImmunologicalMemory
-    # https://en.wikipedia.org/wiki/Immunological_memory
-
-  /// The immune system's response to its first encounter with a pathogen is referred to as the primary adaptive response.
-  model PrimaryAdaptiveResponse
-
-  /// A secondary adaptive response is the immune system's response to a pathogen that it has previously encountered.
-  model SecondaryAdaptiveResponse
-
-  /// Seroconversion is the time period during which a specific antibody develops and becomes detectable in the blood.
-  model Seroconversion
-    # https://en.wikipedia.org/wiki/Seroconversion
-    >>>
-      After seroconversion has occurred, the disease can be detected in blood tests for the antibody. During an infection or immunization, antigens enter the blood, and the immune system begins to produce antibodies in response. Before seroconversion, the antigen itself may or may not be detectable, but the antibody is, by definition, absent. During seroconversion, the antibody is present but not yet detectable.
-
-  /// Tissue typing is a procedure in which the tissues of a prospective donor and recipient are tested for compatibility prior to transplantation.
-  model TissueTyping
-    # https://en.wikipedia.org/wiki/Tissue_typing

@@ -51,7 +51,7 @@ model resp
       LungsEtAl
 
     /// The major functions of the conducting zone are to provide a route for incoming and outgoing air, remove debris and pathogens from the incoming air, and warm and humidify the incoming air.
-    * ConductingZone
+    model ConductingZone
       >>>
         The major functions of the conducting zone are to provide a route for incoming and outgoing air, remove debris and pathogens from the incoming air, and warm and humidify the incoming air. Several structures within the conducting zone perform other functions as well. The epithelium of the nasal passages, for example, is essential to sensing odors, and the bronchial epithelium that lines the lungs can metabolize some airborne carcinogens.
 
@@ -66,7 +66,7 @@ model resp
       / The Nose
       # and its Adjacent Structures
       /// The major entrance and exit for the respiratory system is through the nose. Its main function is respiration, and the nasal mucosa lining the nasal cavity and the paranasal sinuses warmes and moistens incoming air.
-      * NoseEtAl
+      model NoseEtAl
         >>>
           The major entrance and exit for the respiratory system is through the nose. When discussing the nose, it is helpful to divide it into two major sections: the external nose, and the nasal cavity or internal nose.
 
@@ -106,7 +106,7 @@ model resp
 
       / Pharynx
       /// The pharynx is the part of the throat behind the mouth and nasal cavity, and above the esophagus and larynx – the tubes going down to the stomach and the lungs.
-      * PharynxEtAl
+      model PharynxEtAl
         >>>
           The  **pharynx** is a tube formed by skeletal muscle and lined by mucous membrane that is continuous with that of the nasal cavities (see {'Figure_23_1_3 Figure 23.1.3}).
         --
@@ -136,7 +136,7 @@ model resp
 
       / Larynx
       /// The larynx, commonly called the voice box, is an organ involved in breathing, producing sound, and protecting the trachea against food aspiration.
-      * LarynxEtAl
+      model LarynxEtAl
         >>>
           The  **larynx** is a cartilaginous structure inferior to the laryngopharynx that connects the pharynx to the trachea and helps regulate the volume of air that enters and leaves the lungs ({'Figure_23_1_6 Figure 23.1.6}).
         --
@@ -162,7 +162,7 @@ model resp
 
       / Trachea
       /// The trachea, colloquially called the windpipe, is a cartilaginous tube that connects the pharynx and larynx to the lungs, allowing the passage of air.
-      * TracheaEtAl
+      model TracheaEtAl
         >>>
           The trachea (windpipe) extends from the larynx toward the lungs ({'Figure_23_1_8 Figure 23.1.8} **a**).
         --
@@ -174,7 +174,7 @@ model resp
 
       / Bronchial Tree
       /// The trachea branches into the right and left primary bronchi, passages that conduct air into the lungs. Bronchioles further branch until they become the tiny terminal bronchioles, which lead to the structures of gas exchange.
-      * BronchialTreeEtAl
+      model BronchialTreeEtAl
         >>>
           The trachea branches into the right and left primary  **bronchi** at the carina.
         --
@@ -189,7 +189,7 @@ model resp
           Bronchioles, which are about 1 mm in diameter, further branch until they become the tiny terminal bronchioles, which lead to the structures of gas exchange. There are more than 1000 terminal bronchioles in each lung. The muscular walls of the bronchioles do not contain cartilage like those of the bronchi. This muscular wall can change the size of the tubing to increase or decrease airflow through the tube.
 
     /// In contrast to the conducting zone, the respiratory zone includes structures that are directly involved in gas exchange.
-    * RespiratoryZone
+    model RespiratoryZone
       >>>
         The respiratory zone begins where the terminal bronchioles join a  **respiratory bronchiole**, the smallest type of bronchiole ({'Figure_23_1_9 Figure 23.1.9}), which then leads to an alveolar duct, opening into a cluster of alveoli.
       --
@@ -226,7 +226,7 @@ model resp
 
     / The Lungs
     /// The lungs are the primary organs of the respiratory system. Their function is to extract oxygen from the atmosphere and transfer it into the bloodstream, and to release carbon dioxide from the bloodstream into the atmosphere, in a process of gas exchange.
-    * LungsEtAl
+    model LungsEtAl
       --
         Lung
       # Gross Anatomy of the Lungs

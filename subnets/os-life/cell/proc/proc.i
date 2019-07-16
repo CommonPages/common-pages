@@ -2,6 +2,27 @@
 / Processes
 . proc
 
+  /// Simple Diffusion is a form of passive transport in which molecules move across a cell membrane from the side where they are more concentrated to the side where they are less concentrated.
+  model SimpleDiffusion
+
+  /// Facilitated diffusion is the diffusion process used for those substances that cannot cross the lipid bilayer due to their size, charge, and/or polarity.
+  model FacilitatedDiffusion
+
+  /// Passive transport is a movement of ions and other atomic or molecular substances across cell membranes without need of energy input.
+  model PassiveTransport
+    # https://en.wikipedia.org/wiki/Passive_transport
+
+  /// Active transport is when molecules move across a cell membrane from a lower concentration to a higher concentration. This takes energy, often from adenosine triphosphate (ATP).
+  model ActiveTransport
+    # https://simple.wikipedia.org/wiki/Active_transport
+
+  /// Primary active transport, also called direct active transport, directly uses metabolic energy to transport molecules across a membrane.
+  model PrimaryActiveTransport
+
+  /// In secondary active transport energy is used to transport molecules across a membrane. In contrast to primary active transport, there is no direct coupling of ATP; instead it relies upon the electrochemical potential difference created by pumping ions in/out of the cell.
+  model SecondaryActiveTransport
+    # https://en.wikipedia.org/wiki/Membrane_transport#Pumps
+
   /// Cellular respiration is a set of metabolic reactions and processes that take place in the cells of organisms to convert biochemical energy from nutrients into adenosine triphosphate (ATP), and then release waste products. Respiration is one of the key ways a cell releases chemical energy to fuel cellular activity.
   model CellularRespiration
     # https://en.wikipedia.org/wiki/Cellular_respiration
@@ -23,6 +44,7 @@
 
   /// Apoptosis is a form of programmed cell death that occurs in multicellular organisms.
   model Apoptosis
+    # https://en.wikipedia.org/wiki/Apoptosis
 
   /// Lysis refers to the breaking down of the membrane of a cell, often by viral, enzymic, or osmotic mechanisms that compromise its integrity.
   model Lysis
@@ -36,7 +58,7 @@
   model Plasmolysis
     # https://en.wikipedia.org/wiki/Plasmolysis
 
-  /// Mitosis is the division of genetic material, during which the cell nucleus breaks down and two new, fully functional, nuclei are formed.
+  /// Mitosis is a part of the cell cycle when replicated chromosomes are separated into two new nuclei.
   model Mitosis
     >>>
       Mitosis is divided into four major stages that take place after interphase ({'Figure_3_5_3 Figure 3.5.3}) and in the following order: prophase, metaphase, anaphase, and telophase. The process is then followed by cytokinesis.
@@ -90,22 +112,9 @@
       Anaphase
       Telophase
 
-  /// Cytokinesis divides the cytoplasm into two distinctive cells.
+  /// Cytokinesis is the part of the cell division process during which the cytoplasm of a single eukaryotic cell divides into two daughter cells.
   model Cytokinesis
-    >>>
-      The  **cleavage furrow** is a contractile band made up of microfilaments that forms around the midline of the cell during cytokinesis.
-
-    /// The cleavage furrow is the indentation of the cell's surface that begins the progression of cleavage, by which animal cells undergo cytokinesis, the final splitting of the membrane, in the process of cell division.
-    model CleavageFurrow
-      # https://en.wikipedia.org/wiki/Cleavage_furrow
-
-    --
-      CleavageFurrow
-
-    >>>
-      This contractile band squeezes the two cells apart until they finally separate. Two new cells are now formed. One of these cells (the “stem cell”) enters its own cell cycle; able to grow and divide again at some future time. The other cell transforms into the functional cell of the tissue, typically replacing an “old” cell there.
-
-      Imagine a cell that completed mitosis but never underwent cytokinesis. In some cases, a cell may divide its genetic material and grow in size, but fail to undergo cytokinesis. This results in larger cells with more than one nucleus. Usually this is an unwanted aberration and can be a sign of cancerous cells.
+    # https://en.wikipedia.org/wiki/Cytokinesis
 
   /// Endocytosis (bringing “into the cell”) is the process of a cell ingesting material by enveloping it in a portion of its cell membrane, and then pinching off that portion of membrane. Once pinched off, the portion of membrane and its contents becomes an independent, intracellular vesicle.
   model Endocytosis
@@ -124,13 +133,80 @@
   model Exocytosis
 
   /// Diapedesis refers to the passage of cells through the intact vessel wall.
-  * Diapedesis
+  model Diapedesis
     # https://en.wikipedia.org/wiki/Leukocyte_extravasation#Transmigration
 
   /// Chemotaxis is the movement of an organism in response to a chemical stimulus. Somatic cells, bacteria, and other single-cell or multicellular organisms direct their movements according to certain chemicals in their environment.
-  * Chemotaxis
+  model Chemotaxis
     # https://en.wikipedia.org/wiki/Chemotaxis
+
+  /// Leukocyte extravasation is the movement of leukocytes out of the circulatory system and towards the site of tissue damage or infection.
+  model Extravasation
+    # https://en.wikipedia.org/wiki/Leukocyte_extravasation
+
+  /// Necrosis is a form of cell injury which results in the premature death of cells in living tissue by autolysis. Necrosis is caused by factors external to the cell or tissue, such as infection, toxins, or trauma which result in the unregulated digestion of cell components.
+  model Necrosis
+    # https://en.wikipedia.org/wiki/Necrosis
 
   /// Opsonization is the molecular mechanism whereby molecules, microbes, or apoptotic cells are chemically modified to have a stronger attraction to the cell surface receptors on phagocytes and NK cells.
   model Opsonization
     # https://en.wikipedia.org/wiki/Opsonin
+
+  /// DNA replication is the biological process of producing two identical replicas of DNA from one original DNA molecule. DNA replication occurs in all living organisms acting as the basis for biological inheritance.
+  model DNAReplication
+    # https://en.wikipedia.org/wiki/DNA_replication
+
+    / Replication Initiation
+    // DNA Replication Stage 1: Initiation
+    /// The two complementary strands are separated, much like unzipping a zipper. Special enzymes, including helicase, untwist and separate the two strands of DNA.
+    model Initiation
+
+    / Replication Elongation
+    // DNA Replication Stage 2: Elongation
+    /// Each strand becomes a template along which a new complementary strand is built. DNA polymerase brings in the correct bases to complement the template strand, synthesizing a new strand base by base. A DNA polymerase is an enzyme that adds free nucleotides to the end of a chain of DNA, making a new double strand. This growing strand continues to be built until it has fully complemented the template strand.
+    model Elongation
+
+    / Replication Termination
+    // DNA Replication Stage 3: Termination
+    /// Once the two original strands are bound to their own, finished, complementary strands, DNA replication is stopped and the two new identical DNA molecules are complete.
+    model Termination
+
+  /// The cell cycle, or cell-division cycle, is the series of events that take place in a cell leading to duplication of its DNA (DNA replication) and division of cytoplasm and organelles to produce two daughter cells.
+  model CellCycle
+    # https://en.wikipedia.org/wiki/Cell_cycle
+
+  /// Cell cycle checkpoints are control mechanisms in eukaryotic cells which ensure proper division of the cell. Each checkpoint serves as a potential point along the cell cycle, during which the conditions of the cell are assessed, with progression through the various phases of the cell cycle occurring when favorable conditions are met.
+  model Checkpoint
+    # https://en.wikipedia.org/wiki/Cell_cycle_checkpoint
+    # https://en.wikipedia.org/wiki/Cell_cycle#Checkpoints
+
+  ///  Interphase is the 'daily living' or metabolic phase of the cell, in which the cell obtains nutrients and metabolizes them, grows, reads its DNA, and conducts other "normal" cell functions. Interphase is the phase of the cell cycle in which a typical cell spends most of its life.
+  model Interphase
+    # https://en.wikipedia.org/wiki/Interphase
+
+      / G1 Phase
+    /// The g1 phase, or Gap 1 phase, is the first of four phases of the cell cycle that takes place in eukaryotic cell division. In this part of interphase, the cell synthesizes mRNA and proteins in preparation for subsequent steps leading to mitosis. G1 phase ends when the cell moves into the S phase of interphase.
+    model G1Phase
+      # https://en.wikipedia.org/wiki/G1_phase
+
+    / S Phase
+    /// S phase (Synthesis Phase) is the phase of the cell cycle in which DNA is replicated, occurring between G1 phase and G2 phase. Since accurate duplication of the genome is critical to successful cell division, the processes that occur during S-phase are tightly regulated and widely conserved.
+    model SPhase
+
+    / G2 Phase
+    /// G2 phase, or Gap 2 phase, is the third subphase of interphase in the cell cycle directly preceding mitosis. It follows the successful completion of S phase, during which the cell’s DNA is replicated. G2 phase is a period of rapid cell growth and protein synthesis during which the cell prepares itself for mitosis. G2 phase ends with the onset of prophase, the first phase of mitosis in which the cell’s chromatin condenses into chromosomes.
+    model G2Phase
+      # https://en.wikipedia.org/wiki/G2_phase
+
+    / G0 Phase
+    /// The G0 phase describes a cellular state outside of the replicative cell cycle.
+    model G0Phase
+      # https://en.wikipedia.org/wiki/G0_phase
+
+  /// The relatively brief mitotic phase of the cell cycle consists of nuclear division.
+  model MitoticPhase
+    # https://en.wikipedia.org/wiki/Cell_cycle#Mitotic_phase_(chromosome_separation)
+
+  /// Telomeres shorten in part because of the end replication problem that is exhibited during DNA replication in eukaryotes only. Telomere shortening is associated with aging, mortality and aging-related diseases. However, it is not known whether short telomeres are just a sign of cellular age or actually contribute to the aging process themselves.
+  model TelomereShortening
+    # https://en.wikipedia.org/wiki/Telomere#Shortening

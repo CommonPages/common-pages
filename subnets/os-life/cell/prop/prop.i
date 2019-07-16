@@ -2,6 +2,9 @@
 / Properties
 . prop
 
+  /// A membrane that has selective permeability allows only substances meeting certain criteria to pass through it unaided.
+  model SelectivePermeability
+
   /// Cell polarity is a fundamental property of many types of cells. Epithelial cells are one example of a polarized cell type, featuring distinct 'apical', 'lateral' and 'basal' plasma membrane domains.
   model EpithelialPolarity
     # https://en.wikipedia.org/wiki/Epithelial_polarity
@@ -35,3 +38,11 @@
 
   /// The nucleus of a eukaryotic cell is haploid if it has a single set of chromosomes, each one not being part of a pair. By extension a cell may be called haploid if its nucleus is haploid, and an organism may be called haploid if its body cells (somatic cells) are haploid.
   model Haploid
+
+  /// Membrane potential (also transmembrane potential or membrane voltage) is the difference in electric potential between the interior and the exterior of a biological cell.
+  model MembranePotential
+    # https://en.wikipedia.org/wiki/Membrane_potential
+
+  /// An action potential occurs when the membrane potential of a specific cell location rapidly rises and falls: this depolarisation then causes adjacent locations to similarly depolarise. Action potentials occur in several types of animal cells, called excitable cells, which include neurons, muscle cells, endocrine cells, glomus cells, and in some plant cells.
+  model ActionPotential
+    # https://en.wikipedia.org/wiki/Action_potential

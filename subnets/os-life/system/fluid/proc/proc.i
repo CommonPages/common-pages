@@ -6,11 +6,10 @@
   model Perfusion
     # https://en.wikipedia.org/wiki/Perfusion
     <<
-      cardio.Blood
+      Blood
       Metarteriole.CapillaryBed
 
   /// Microcirculation is the circulation of the blood in the smallest blood vessels, the microvessels of the microvasculature present within organ tissues. The microvessels include terminal arterioles, metarterioles, capillaries, and venules.
-
   model Microcirculation
     # https://en.wikipedia.org/wiki/Microcirculation
 
@@ -95,3 +94,21 @@
     # https://en.wikipedia.org/wiki/Haematopoiesis
     <<
       HematopoieticStemCell
+
+  /// Hemostasis is a process which causes bleeding to stop, meaning to keep blood within a damaged blood vessel. It is the first stage of wound healing, and involves coagulation, blood changing from a liquid to a gel.
+  model Hemostasis
+    # https://en.wikipedia.org/wiki/Hemostasis
+
+  /// Several barriers protect organisms from infection, including mechanical, chemical, and biological barriers.
+  model BarrierDefenses
+    # https://en.wikipedia.org/wiki/Immune_system#Surface_barriers
+
+  /// Seroconversion is the time period during which a specific antibody develops and becomes detectable in the blood.
+  model Seroconversion
+    # https://en.wikipedia.org/wiki/Seroconversion
+    >>>
+      After seroconversion has occurred, the disease can be detected in blood tests for the antibody. During an infection or immunization, antigens enter the blood, and the immune system begins to produce antibodies in response. Before seroconversion, the antigen itself may or may not be detectable, but the antibody is, by definition, absent. During seroconversion, the antibody is present but not yet detectable.
+
+  /// Tissue typing is a procedure in which the tissues of a prospective donor and recipient are tested for compatibility prior to transplantation.
+  model TissueTyping
+    # https://en.wikipedia.org/wiki/Tissue_typing

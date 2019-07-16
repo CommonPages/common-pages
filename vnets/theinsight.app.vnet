@@ -18,9 +18,18 @@ subnets:
   - "$os-physics"
   - "$os-stat"
   - "$os-life"
+  - "$os-cancer"
+  - "$os-nsclc"
   # # ——————————
   # - "$os"
   # - "$os-cancer"
   # - "$os-nsclc"
   # - "$pti-cancer"
   - "$pubmed"
+featured:
+    - "$os-life"
+    - "$os-cancer"
+    - "$os-nsclc"
+    - "$nci"
+    - "$nccn"
+    - "$go2"

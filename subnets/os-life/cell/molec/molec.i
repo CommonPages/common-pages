@@ -53,6 +53,12 @@
   model Anticodon
     # https://en.wikipedia.org/wiki/Transfer_RNA#Anticodon
 
+  /// Phospholipids are a class of lipids that are a major component of all cell membranes.
+  model PhospholipidMolecule
+    <<
+      Lipid
+    # https://en.wikipedia.org/wiki/Phospholipid
+
   /// The phospholipid head contains a negatively charged phosphate group and glycerol. It is hydrophilic.
   model PhospholipidHead
 
@@ -126,45 +132,45 @@
 
   /// Hemoglobin (abbreviated Hb or Hgb), is the iron-containing oxygen-transport metalloprotein in the red blood cells (erythrocytes). Haemoglobin in blood carries oxygen from the lungs to the rest of the body.
   # There it releases the oxygen to permit aerobic respiration to provide energy to power the functions of the organism in the process called metabolism.
-  * Hemoglobin
+  model Hemoglobin
     # https://en.wikipedia.org/wiki/Hemoglobin
     <<
       Metalloprotein
 
   /// The globins are a superfamily of heme-containing globular proteins, involved in binding and/or transporting oxygen.
-  * Globin
+  model Globin
     # https://en.wikipedia.org/wiki/Globin
 
   /// Metalloprotein is a generic term for a protein that contains a metal ion cofactor.
-  * Metalloprotein
+  model Metalloprotein
     # https://en.wikipedia.org/wiki/Metalloprotein
 
   /// Hemes are most commonly recognized as components of hemoglobin, the red pigment in blood, but are also found in a number of other biologically important hemoproteins.
-  * Heme
+  model Heme
     # https://en.wikipedia.org/wiki/Heme
 
   /// Oxyhemoglobin is hemoglobin that has been saturated with oxygen molecules. It is formed during physiological respiration when oxygen binds to the heme component of the protein hemoglobin in red blood cells.
-  * Oxyhemoglobin
+  model Oxyhemoglobin
     # https://en.wikipedia.org/wiki/Hemoglobin#Oxyhemoglobin
 
   /// Deoxygenated hemoglobin is the form of hemoglobin without the bound oxygen.
-  * Deoxyhemoglobin
+  model Deoxyhemoglobin
     # https://en.wikipedia.org/wiki/Hemoglobin#Oxyhemoglobin
 
   /// Carbaminohaemoglobin is a compound of hemoglobin and carbon dioxide, and is one of the forms in which carbon dioxide exists in the blood.
-  * Carbaminohaemoglobin
+  model Carbaminohaemoglobin
     # https://en.wikipedia.org/wiki/Carbaminohemoglobin
 
   /// Albumin is a family of globular proteins, the most common of which are the serum albumins. Albumins are commonly found in blood plasma and serve as binding proteins—transport vehicles for fatty acids and steroid hormones.
-  * Albumin
+  model Albumin
     # https://en.wikipedia.org/wiki/Albumin
 
   /// The globulins are a family of globular proteins that have higher molecular weights than albumins and are insoluble in pure water but dissolve in dilute salt solutions. Some globulins are produced in the liver, while others are made by the immune system.
-  * Globulins
+  model Globulins
     # https://en.wikipedia.org/wiki/Globulin
 
   /// Fibrinogen is a glycoprotein that circulates in the blood. Fibrinogen functions primarily to occlude blood vessels and thereby stop excessive bleeding.
-  * Fibrinogen
+  model Fibrinogen
     # https://en.wikipedia.org/wiki/Fibrinogen
 
   /// An antibody (Ab) is a large, Y-shaped protein produced mainly by plasma cells that is used by the immune system to neutralize pathogens such as pathogenic bacteria and viruses.
@@ -239,15 +245,15 @@
       There are 2 distinct subgroups of TI antigens, different in mechanism of activating B lymphocytes. TI-1 antigen, which has an activity that can directly activate B cells and TI-2 antigen, which has highly repetitive structure and causes simultaneous cross-linking of specific B cell receptors (BCR) on B lymphocyte.
 
   /// Fas ligand (FasL or CD95L or CD178) is a type-II transmembrane protein that belongs to the tumor necrosis factor (TNF) family. Its binding with its receptor induces apoptosis. Fas ligand/receptor interactions play an important role in the regulation of the immune system and the progression of cancer.
-  * FasLigand
+  model FasLigand
     # https://en.wikipedia.org/wiki/Fas_ligand
 
   /// Perforin is a pore forming cytolytic protein found in the granules of cytotoxic T lymphocytes (CTLs) and Natural Killer cells (NK cells).
-  * Perforin
+  model Perforin
     # https://en.wikipedia.org/wiki/Perforin
 
   /// Granzymes are serine proteases released by cytoplasmic granules within cytotoxic T cells and natural killer (NK) cells. They induce programmed cell death (apoptosis) in the target cell, thus eliminating cells that have become cancerous or are infected with viruses or bacteria. Granzymes also kill bacteria and inhibit viral replication.
-  * Granzyme
+  model Granzyme
     # https://en.wikipedia.org/wiki/Granzyme
 
   /// Polysaccharides are polymeric carbohydrate molecules composed of long chains of monosaccharide units bound together by glycosidic linkages. Examples include storage polysaccharides such as starch and glycogen, and structural polysaccharides such as cellulose and chitin.
@@ -256,6 +262,13 @@
   /// Cytokines are a broad and loose category of small proteins (~5–20 kDa) that are important in cell signaling. Cytokines are peptides, and cannot cross the lipid bilayer of cells to enter the cytoplasm. Cytokines have been shown to be involved in autocrine signaling, paracrine signaling and endocrine signaling as immunomodulating agents.
   model Cytokines
     # https://en.wikipedia.org/wiki/Cytokine
+
+  /// Interleukins (ILs) are a group of cytokines that were first seen to be expressed by white blood cells. The function of the immune system depends in a large part on interleukins.
+  model Interleukins
+    #
+    <<
+      Cytokines
+      WBCs
 
   /// In cell biology, a granule is a small particle. It can be any structure barely visible by light microscopy. The term is most often used to describe a secretory vesicle.
   model Granule

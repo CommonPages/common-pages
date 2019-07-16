@@ -2,6 +2,13 @@
 / Organelles
 . ognl
 
+  /// The cell nucleus​ is a membrane bound structure that contains the cell's genes and controls the cell's growth and reproduction. It is usually the most prominent organelle in a cell, and it functions as the cell's control center.
+  model Nucleus
+    # https://simple.wikipedia.org/wiki/Cell_nucleus
+
+  /// The endomembrane system is a set of three major organelles that work together to produce, package, and export cellular products. The organelles of the endomembrane system include the endoplasmic reticulum, Golgi apparatus, and vesicles.
+  model EndomembraneSystem
+
   # /// The endoplasmic reticulum (ER) is a type of organelle that forms an interconnected network of flattened, membrane-enclosed sacs or tube-like structures known as cisternae. The membranes of the ER are continuous with the outer nuclear membrane.
   /// The endoplasmic reticulum (ER) is an organelle that forms a system of channels that is continuous with the nuclear membrane (or “envelope”) covering the nucleus and composed of the same lipid bilayer material.
   model EndoplasmicReticulum

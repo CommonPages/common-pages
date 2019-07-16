@@ -1,7 +1,7 @@
 
 / The Cell Membrane
 /// The cell membrane provides a protective barrier around the cell and regulates which materials can pass in or out.
-model Membrane
+module membrane
   path InBrief
     step
       >>>
@@ -14,18 +14,18 @@ model Membrane
     Despite differences in structure and function, all living cells in multicellular organisms have a surrounding cell membrane. As the outer layer of your skin separates your body from its environment, the cell membrane (also known as the plasma membrane) separates the inner contents of a cell from its exterior environment.
 
   --
-    MembraneComposition
-    MembraneProteins
-    MembraneTransport
+    structure
+    proteins
+    transport
 
   / Structure and Composition of the Cell Membrane
   /// The cell membrane is an extremely pliable structure composed primarily of back-to-back phospholipids known as a “bilayer”.
-  model MembraneComposition
+  module structure
     >>>
       Cholesterol is also present, which contributes to the fluidity of the membrane, and there are various proteins embedded within the membrane that have a variety of functions.
 
     --
-      LipidBilayer.PhospholipidMolecule
+      PhospholipidMolecule
 
     >>>
       {image-right:'Figure_3_1_1}A single phospholipid molecule has a phosphate group on one end, called the “head,” and two side-by-side chains of fatty acids that make up the lipid tails.
@@ -60,8 +60,12 @@ model Membrane
     --
       LipidBilayer
 
+    >>>
+      {image:'Figure_3_1_2}
+
+  / Membrane Proteins
   /// The lipid bilayer forms the basis of the cell membrane, but it is peppered throughout with various proteins.
-  model MembraneProteins
+  module proteins
     >>>
       {image:'Figure_3_1_3}
 
@@ -72,7 +76,7 @@ model Membrane
       PeripheralProteins
 
     /// An integral protein is a protein that is embedded in the membrane.
-    model IntegralProteins
+    module IntegralProteins
       >>>
         A **channel protein** is an example of an integral protein that selectively allows particular materials to pass into or out of the cell.
 
@@ -100,13 +104,13 @@ model Membrane
         The glycocalyx can have various roles. For example, it may have molecules that allow the cell to bind to another cell, it may contain receptors for hormones, or it might have enzymes to break down nutrients. The glycocalyces found in a person’s body are products of that person’s genetic makeup. They give each of the individual’s trillions of cells the “identity” of belonging in the person’s body. This identity is the primary way that a person’s immune defense cells “know” not to attack the person’s own body cells, but it also is the reason organs donated by another person might be rejected.
 
     /// Peripheral proteins are typically found on the inner or outer surface of the lipid bilayer but can also be attached to the internal or external surface of an integral protein.
-    model PeripheralProteins
+    module PeripheralProteins
       >>>
         Peripheral proteins typically perform a specific function for the cell. Some peripheral proteins on the surface of intestinal cells, for example, act as digestive enzymes to break down nutrients to sizes that can pass through the cells and into the bloodstream.
 
   / Transport across the Cell Membrane
   /// One of the great wonders of the cell membrane is its ability to regulate the concentration of substances inside the cell.
-  model MembraneTransport
+  module transport
     >>>
       These substances include ions such as Ca<sup>++</sup>, Na<sup>+</sup>, K<sup>+</sup>, and Cl<sup>–</sup>; nutrients including sugars, fatty acids, and amino acids; and waste products, particularly carbon dioxide (CO<sub>2</sub>), which must leave the cell.
 
@@ -122,29 +126,20 @@ model Membrane
       All substances that move through the membrane do so by one of two general methods, which are categorized based on whether or not energy is required.
 
     --
-      PassiveTransport
-      ActiveTransport
+      passivetrans
+      activetrans
 
-    /// A membrane that has selective permeability allows only substances meeting certain criteria to pass through it unaided.
-    model SelectivePermeability
-
-    /// A concentration gradient is the difference in concentration of a substance across a space.
-    model ConcentrationGradient
-
+    / Passive Transport
     /// Passive transport is the movement of substances across the membrane without the expenditure of cellular energy.
-    model PassiveTransport
+    module passivetrans
       >>>
         In order to understand *how* substances move passively across a cell membrane, it is necessary to understand concentration gradients and diffusion.
-
       --
         ConcentrationGradient
-
       >>>
         Molecules (or ions) will spread/diffuse from where they are more concentrated to where they are less concentrated until they are equally distributed in that space. (When molecules move in this way, they are said to move *down* their concentration gradient.)
-
       --
         Diffusion
-
       >>>
         A couple of common examples will help to illustrate this concept. Imagine being inside a closed bathroom. If a bottle of perfume were sprayed, the scent molecules would naturally diffuse from the spot where they left the bottle to all corners of the bathroom, and this diffusion would go on until no more concentration gradient remains. Another example is a spoonful of sugar placed in a cup of tea. Eventually the sugar will diffuse throughout the tea until no concentration gradient remains. In both cases, if the room is warmer or the tea hotter, diffusion occurs even faster as the molecules are bumping into each other and spreading out faster than at cooler temperatures. Having an internal body temperature around 98.6<sup>° </sup>F thus also aids in diffusion of particles within the body.
 
@@ -155,25 +150,18 @@ model Membrane
 
       --
         SimpleDiffusion
-
       >>>
         {image:'Figure_3_1_4}
-
       >>>
         Large polar or ionic molecules, which are hydrophilic, cannot easily cross the phospholipid bilayer. Very small polar molecules, such as water, can cross via simple diffusion due to their small size. Charged atoms or molecules of any size cannot cross the cell membrane via simple diffusion as the charges are repelled by the hydrophobic tails in the interior of the phospholipid bilayer. Solutes dissolved in water on either side of the cell membrane will tend to diffuse down their concentration gradients, but because most substances cannot pass freely through the lipid bilayer of the cell membrane, their movement is restricted to protein channels and specialized transport mechanisms in the membrane.
-
       --
         FacilitatedDiffusion
-
       >>>
         {image:'Figure_3_1_5}
-
       >>>
         A common example of facilitated diffusion is the movement of glucose into the cell, where it is used to make ATP. Although glucose can be more concentrated outside of a cell, it cannot cross the lipid bilayer via simple diffusion because it is both large and polar. To resolve this, a specialized carrier protein called the glucose transporter will transfer glucose molecules into the cell to facilitate its inward diffusion.
-
       --
         GlucoseTransporter
-
       >>>
         As an example, even though sodium ions (Na<sup>+</sup>) are highly concentrated outside of cells, these electrolytes are charged and cannot pass through the nonpolar lipid bilayer of the membrane. Their diffusion is facilitated by membrane proteins that form sodium channels (or “pores”), so that Na<sup>+</sup> ions can move down their concentration gradient from outside the cells to inside the cells. There are many other solutes that must undergo facilitated diffusion to move into a cell, such as amino acids, or to move out of a cell, such as wastes. Because facilitated diffusion is a passive process, it does not require energy expenditure by the cell.
 
@@ -201,48 +189,14 @@ model Membrane
         {image:'Figure_3_1_7}
 
         Another mechanism besides diffusion to passively transport materials between compartments is filtration.
-
       --
         Filtration
-
       >>>
         Unlike diffusion of a substance from where it is more concentrated to less concentrated, filtration uses a hydrostatic pressure gradient that pushes the fluid—and the solutes within it—from a higher pressure area to a lower pressure area. Filtration is an extremely important process in the body. For example, the circulatory system uses filtration to move plasma and substances across the endothelial lining of capillaries and into surrounding tissues, supplying cells with the nutrients. Filtration pressure in the kidneys provides the mechanism to remove wastes from the bloodstream.
 
-      /// Diffusion is the movement of particles from an area of higher concentration to an area of lower concentration.
-      model Diffusion
-
-      /// Simple Diffusion is a form of passive transport in which molecules move across a cell membrane from the side where they are more concentrated to the side where they are less concentrated.
-      model SimpleDiffusion
-
-      /// Facilitated diffusion is the diffusion process used for those substances that cannot cross the lipid bilayer due to their size, charge, and/or polarity.
-      model FacilitatedDiffusion
-
-      /// Glucose transporters are a wide group of membrane proteins that facilitate the transport of glucose across the plasma membrane.
-      model GlucoseTransporter
-        # https://en.wikipedia.org/wiki/Glucose_transporter
-
-      /// Osmosis is the diffusion of water through a semipermeable membrane.
-      model Osmosis
-
-      /// Tonicity is a measure of the effective osmotic pressure gradient; the water potential of two solutions separated by a semipermeable membrane. There are three classifications of tonicity that one solution can have relative to another: hypertonic, hypotonic, and isotonic.
-      model Tonicity
-        # https://en.wikipedia.org/wiki/Tonicity
-        # There are three classifications of tonicity that one solution can have relative to another: hypertonic, hypotonic, and isotonic.
-
-        /// Two solutions that have the same concentration of solutes are said to be isotonic (equal tension).
-        model Isotonic
-
-        /// A solution that has a higher concentration of solutes than another solution is said to be hypertonic.
-        model Hypertonic
-
-        /// A solution that has a lower concentration of solutes than another solution is said to be hypotonic.
-        model Hypotonic
-
-      /// Filtration is any biological operation that separates solids from fluids (liquids or gases) by adding a medium through which only the fluid can pass.
-      model Filtration
-
+    / Active Transport
     /// Active transport is the movement of substances across the membrane using energy from adenosine triphosphate (ATP).
-    model ActiveTransport
+    module activetrans
       >>>
         For all {PassiveTransport passive transport methods}, the cell expends no energy. Membrane proteins that aid in the passive transport of substances do so without the use of ATP. During active transport, ATP is required to move a substance across a membrane, often with the help of protein carriers, and usually  *against* its {ConcentrationGradient concentration gradient}.
 
@@ -324,37 +278,10 @@ model Membrane
 
         {image:'Figure_3_1_11}
 
-      /// A pump is a protein that hydrolyses ATP to transport a particular solute through a membrane.
-      model Pump
-        # https://en.wikipedia.org/wiki/Membrane_transport#Pumps
-
-      / Sodium-Potassium Pump
-      /// The sodium-potassium pump, which is also called Na<sup>+</sup>/K<sup>+</sup> ATPase, transports sodium out of a cell while moving potassium into the cell. The Na<sup>+</sup>/K<sup>+</sup> pump is an important ion pump found in the membranes of many types of cells.
-      model SodPotPump
-
-      /// An electrical gradient is a difference in electrical charge across a space.
-      model ElectricalGradient
-
-      /// Primary active transport, also called direct active transport, directly uses metabolic energy to transport molecules across a membrane.
-      model PrimaryActiveTransport
-
-      /// In secondary active transport energy is used to transport molecules across a membrane. In contrast to primary active transport, there is no direct coupling of ATP; instead it relies upon the electrochemical potential difference created by pumping ions in/out of the cell.
-      model SecondaryActiveTransport
-        # https://en.wikipedia.org/wiki/Membrane_transport#Pumps
-
-      /// Symporters are secondary active transporters that move two substances in the same direction.
-      model Symporters
-
-      /// Antiporters are secondary active transport systems that transport substances in opposite directions.
-      model Antiporters
-
-      /// A vesicular transport protein, or vesicular transporter, is a membrane protein that regulates or facilitates the movement of specific molecules across a vesicle's membrane.
-      model VesicularTransport
-
 / The Cytoplasm and Cellular Organelles
 /// Cytosol is the substance within the cell which provides the fluid medium necessary for biochemical reactions. An organelle (“little organ”) is one of several different types of bodies within the cell. The organelles and cytosol compose the cell’s cytoplasm.
 # /// All living cells in multicellular organisms contain an internal cytoplasmic compartment, and a nucleus within the cytoplasm.
-model Cytoplasm
+module cytoplasm
   path InBrief
     step
       >>>
@@ -366,25 +293,16 @@ model Cytoplasm
   ^^
     InBrief
 
-  --
-    Cytosol
-    Organelle
-
   >>>
-    {image-right:'Figure_3_2_1} All living cells in multicellular organisms contain an internal cytoplasmic compartment, and a nucleus within the cytoplasm. Cytosol, the jelly-like substance within the cell, provides the fluid medium necessary for biochemical reactions. Eukaryotic cells, including all animal cells, also contain various cellular organelles. An organelle (“little organ”) is one of several different types of membrane-enclosed bodies in the cell, each performing a unique function. Just as the various bodily organs work together in harmony to perform all of a human’s functions, the many different cellular organelles work together to keep the cell healthy and performing all of its important functions. The organelles and cytosol, taken together, compose the cell’s cytoplasm. The nucleus is a cell’s central organelle, which contains the cell’s DNA.
+    {image-right:'Figure_3_2_1} All living cells in multicellular organisms contain an internal cytoplasmic compartment, and a nucleus within the cytoplasm. {Cytosol}, the jelly-like substance within the cell, provides the fluid medium necessary for biochemical reactions. Eukaryotic cells, including all animal cells, also contain various cellular organelles. An {Organelle organelle} (“little organ”) is one of several different types of membrane-enclosed bodies in the cell, each performing a unique function. Just as the various bodily organs work together in harmony to perform all of a human’s functions, the many different cellular organelles work together to keep the cell healthy and performing all of its important functions. The organelles and cytosol, taken together, compose the cell’s cytoplasm. The nucleus is a cell’s central organelle, which contains the cell’s DNA.
 
   --
-    EndomembraneSystem
-    Mitochondria
-    Peroxisomes
-    Cytoskeleton
+    endomemsys
+    cytoskel
 
-  /// An organelle is a specialized subunit within a cell that has a specific function. Organelles are either separately enclosed within their own lipid bilayers (also called membrane-bound organelles) or are spatially distinct functional units without a surrounding lipid bilayer (non-membrane bound organelles).
-  model Organelle
-    # https://en.wikipedia.org/wiki/Organelle
-
+  / The Endomembrane System
   /// The endomembrane system is a set of three major organelles that work together to produce, package, and export cellular products. The organelles of the endomembrane system include the endoplasmic reticulum, Golgi apparatus, and vesicles.
-  model EndomembraneSystem
+  module endomemsys
     # https://en.wikipedia.org/wiki/Endomembrane_system
 
     --
@@ -427,8 +345,9 @@ model Cytoplasm
       Autolysis
       Apoptosis
 
+  / The Cytoskeleton
   /// The cytoskeleton is a group of fibrous proteins that provide structural support for cells. Cytoskeletal components are critical for cell motility, cell reproduction, and transportation of substances within the cell.
-  model Cytoskeleton
+  module cytoskel
     >>>
       Much like the bony skeleton structurally supports the human body, the cytoskeleton helps the cells to maintain their structural integrity.
       The cytoskeleton forms a complex thread-like network throughout the cell consisting of three different kinds of protein-based filaments: microfilaments, intermediate filaments, and microtubules.
@@ -477,33 +396,9 @@ model Cytoplasm
     >>>
       Intermediate filaments, in concert with the microtubules, are important for maintaining cell shape and structure. Unlike the microtubules, which resist compression, intermediate filaments resist tension—the forces that pull apart cells. There are many cases in which cells are prone to tension, such as when epithelial cells of the skin are compressed, tugging them in different directions. Intermediate filaments help anchor organelles together within a cell and also link cells to other cells by forming special cell-to-cell junctions.
 
-    /// The microtubule is a structural filament composed of subunits of a protein called tubulin. Microtubules maintain cell shape and structure, help resist compression of the cell, and play a role in positioning the organelles within the cell.
-    model Microtubule
-      <<
-        Tubulin
-
-    /// Tubulin can refer either to the tubulin protein superfamily of globular proteins, or one of the member proteins of that superfamily. α- and β-tubulins polymerize into microtubules, a major component of the eukaryotic cytoskeleton.
-    model Tubulin
-      # https://en.wikipedia.org/wiki/Tubulin
-
-    /// Microfilaments, also called actin filaments, are filaments in the cytoplasm of eukaryotic cells that form part of the cytoskeleton and are primarily composed of polymers of actin.
-    model Microfilament
-      # https://en.wikipedia.org/wiki/Microfilament
-
-    /// Actin is a family of globular multi-functional proteins that form microfilaments.
-    model Actin
-      # https://en.wikipedia.org/wiki/Actin
-
-    /// An intermediate filament is a filament intermediate in thickness between the microtubules and microfilaments. Intermediate filaments are made up of long fibrous subunits of a protein called keratin that are wound together like the threads that compose a rope.
-    model IntermediateFilament
-
-    /// Keratin is one of a family of fibrous structural proteins. It is the key structural material making up hair, nails and the outer layer of skin. Keratin is also the protein that protects epithelial cells from damage or stress.
-    model Keratin
-      # https://en.wikipedia.org/wiki/Keratin
-
 / The Nucleus and DNA Replication
 /// The nucleus is the largest and most prominent of a cell’s organelles. The nucleus is generally considered the control center of the cell because it stores all of the genetic instructions for manufacturing proteins.
-model Nucleus
+module nucleus
   path InBrief
     step
       >>>
@@ -522,18 +417,18 @@ model Nucleus
     Inside the nucleus lies the blueprint that dictates everything a cell will do and all of the products it will make. This information is stored within DNA.
 
   --
-    NuclearStructures
-    DNAStructures
+    nucstruct
+    dnastruct
 
   >>>
     The nucleus sends “commands” to the cell via molecular messengers that translate the information from DNA. Each cell in your body (with the exception of germ cells) contains the complete set of your DNA. When a cell divides, the DNA must be duplicated so that the each new cell receives a full complement of DNA.
 
   --
-    DNAReplication
+    dnarepl
 
   / Organization of the Nucleus
   /// The nucleus is surrounded by a membrane called the nuclear envelope. Nuclear pores allow the transport of molecules across the nuclear envelope. The nucleolus is the largest structure in the nucleus. Nucleoli are made of proteins, DNA and RNA.
-  model NuclearStructures
+  module nucstruct
     >>>
       {image:'Figure_3_3_1}
 
@@ -569,32 +464,9 @@ model Nucleus
     >>>
       Once synthesized, newly made ribosomal subunits exit the cell’s nucleus through the nuclear pores.
 
-    /// The nuclear envelope, also known as the nuclear membrane, is made up of two lipid bilayer membranes which surround the nucleus.
-    model NuclearEnvelope
-      # https://en.wikipedia.org/wiki/Nuclear_envelope
-
-    /// A nuclear pore is a tiny passageway for the passage of proteins, RNA, and solutes between the nucleus and the cytoplasm.
-    model NuclearPore
-
-    /// Nuclear pore complexes allow the transport of molecules across the nuclear envelope. This transport includes RNA and ribosomal proteins moving from nucleus to the cytoplasm and proteins (such as DNA polymerase and lamins), carbohydrates, signaling molecules and lipids moving into the nucleus.
-    model NuclearPoreComplexes
-      # https://en.wikipedia.org/wiki/Nuclear_pore#Transport_through_the_nuclear_pore_complex
-
-    /// The nucleoplasm is a type of protoplasm, and is enveloped by the nuclear envelope (also known as the nuclear membrane).
-    model Nucleoplasm
-      # https://en.wikipedia.org/wiki/Nucleoplasm
-      >>>
-        Similar to the cytoplasm of a cell, the nucleus contains nucleoplasm, also known as karyoplasm, or nucleus sap.
-
-      >>>
-         The nucleoplasm includes the chromosomes and nucleolus. Many substances such as nucleotides (necessary for purposes such as DNA replication, and enzymes (which direct activities that take place in the nucleus) are dissolved in the nucleoplasm. The soluble, liquid portion of the nucleoplasm is called the nucleosol or nuclear hyaloplasm.
-
-    /// The nucleolus (plural = nucleoli) is a region of the nucleus that is responsible for manufacturing the RNA necessary for construction of ribosomes.
-    model Nucleolus
-
   / Organization of DNA
   /// Within the nucleus are threads of chromatin composed of DNA and associated proteins. Along the chromatin threads, the DNA is wrapped around a set of histone proteins. When a cell is in the process of division, the chromatin condenses into chromosomes, the condensed form of chromatin.
-  model DNAStructures
+  module dnastruct
 
     >>>
       The genetic instructions that are used to build and maintain an organism are arranged in an orderly manner in strands of DNA.
@@ -626,9 +498,9 @@ model Nucleus
     >>>
       The chromosome is composed of DNA and proteins; it is the condensed form of chromatin. It is estimated that humans have almost 22,000 genes distributed on 46 chromosomes.
 
-  / DNA Replication
+  / Replication of DNA
   /// Cells reproduce by dividing to produce two new daughter cells, each with the full complement of DNA as found in the original cell. DNA replication is the copying of DNA that occurs before cell division can take place.
-  model DNAReplication
+  module dnarepl
     >>>
       Billions of new cells are produced in an adult human every day. Only very few cell types in the body do not divide, including nerve cells, skeletal muscle fibers, and cardiac muscle cells. The division time of different cell types varies. Epithelial cells of the skin and gastrointestinal lining, for instance, divide very frequently to replace those that are constantly being rubbed off of the surface by friction.
 
@@ -650,9 +522,9 @@ model Nucleus
       {image:'Figure_3_3_6}
 
     --
-      Initiation
-      Elongation
-      Termination
+      DNAReplication.Initiation
+      DNAReplication.Elongation
+      DNAReplication.Termination
 
     --
       Helicase
@@ -667,27 +539,9 @@ model Nucleus
     >>>
       As you might imagine, it is very important that DNA replication take place precisely so that new cells in the body contain the exact same genetic material as their parent cells. Mistakes made during DNA replication, such as the accidental addition of an inappropriate nucleotide, have the potential to render a gene dysfunctional or useless. Fortunately, there are mechanisms in place to minimize such mistakes. A DNA proofreading process enlists the help of special enzymes that scan the newly synthesized molecule for mistakes and corrects them. Once the process of DNA replication is complete, the cell is ready to divide.
 
-    / Replication Initiation
-    // DNA Replication Stage 1: Initiation
-    /// The two complementary strands are separated, much like unzipping a zipper. Special enzymes, including helicase, untwist and separate the two strands of DNA.
-    model Initiation
-
-    / Replication Elongation
-    // DNA Replication Stage 2: Elongation
-    /// Each strand becomes a template along which a new complementary strand is built. DNA polymerase brings in the correct bases to complement the template strand, synthesizing a new strand base by base. A DNA polymerase is an enzyme that adds free nucleotides to the end of a chain of DNA, making a new double strand. This growing strand continues to be built until it has fully complemented the template strand.
-    model Elongation
-
-    / Replication Termination
-    // DNA Replication Stage 3: Termination
-    /// Once the two original strands are bound to their own, finished, complementary strands, DNA replication is stopped and the two new identical DNA molecules are complete.
-    model Termination
-
-    /// A genome is the genetic material of an organism. It consists of DNA. The genome includes both the genes (the coding regions) and the noncoding DNA, as well as mitochondrial DNA and chloroplast DNA.
-    model Genome
-      # https://en.wikipedia.org/wiki/Genome
-
+/ Protein Synthesis
 /// Virtually all the functions that a cell carries out are completed with the help of proteins. Protein synthesis begins with genes. Gene expression transforms the information coded in a gene, determining which proteins are made.
-model ProteinSynthesis
+module proteinsynth
 
   path InBrief
     step
@@ -708,25 +562,22 @@ model ProteinSynthesis
     Protein synthesis begins with genes.
 
   --
-    GenesAndExpression
+    geneexp
 
   >>>
     The mechanism by which cells turn the DNA code into a protein product is a two-step process, with an RNA molecule as the intermediate.
 
   --
-    Transcription
-    Translation
+    transcription
+    translation
 
   ###########################################################################
   ###########################################################################
   ###########################################################################
-
-  /// The proteome is the entire set of proteins that is, or can be, expressed by a genome, cell, tissue, or organism at a certain time.
-  model Proteome
 
   / Genes and Genetic Expression
   /// A gene is a functional segment of DNA that provides the genetic information necessary to build a protein. Gene expression is the process by which information from a gene is used in the synthesis of a functional gene product.
-  model GenesAndExpression
+  module geneexp
 
     --
       Gene
@@ -756,24 +607,9 @@ model ProteinSynthesis
 
       {image:'Figure_3_4_1}
 
-    /// A gene is a functional segment of DNA that provides the genetic information necessary to build a protein. Each particular gene provides the code necessary to construct a particular protein.
-    model Gene
-
-    /// Gene expression is the process by which information from a gene is used in the synthesis of a functional gene product. These products are often proteins, but in non-protein coding genes such as transfer RNA (tRNA) or small nuclear RNA (snRNA) genes, the product is a functional RNA.
-    model GeneExpression
-
-    /// A reading frame is a way of dividing the sequence of nucleotides in a nucleic acid (DNA or RNA) molecule into a set of consecutive, non-overlapping triplets.
-    model ReadingFrame
-
-    /// A triplet is a section of three DNA bases in a row that codes for a specific amino acid.
-    model Triplet
-
-    /// Genetic code is a set of rules used by living cells to translate information encoded within genetic material (DNA or mRNA sequences) into proteins. The code defines how sequences of nucleotide triplets, called codons, specify which amino acid will be added next during protein synthesis. With some exceptions, a three-nucleotide codon in a nucleic acid sequence specifies a single amino acid.
-    model GeneticCode
-
   // From DNA to RNA: Transcription
   /// Gene expression begins with the process called  transcription, which is the synthesis of a strand of mRNA that is complementary to the gene of interest. Like DNA replication, there are three stages to transcription: initiation, elongation, and termination.
-  model Transcription
+  module transcription
     >>>
       DNA is housed within the nucleus, and protein synthesis takes place in the cytoplasm, thus there must be some sort of intermediate messenger that leaves the nucleus and manages protein synthesis. This intermediate messenger is  **messenger RNA (mRNA)**, a single-stranded nucleic acid that carries a copy of the genetic code for a single gene out of the nucleus and into the cytoplasm where it is used to produce proteins.
 
@@ -783,7 +619,11 @@ model ProteinSynthesis
     >>>
       There are several different types of RNA, each having different functions in the cell. The structure of RNA is similar to DNA with a few small exceptions. For one thing, unlike DNA, most types of RNA, including mRNA, are single-stranded and contain no complementary strand. Second, the ribose sugar in RNA contains an additional oxygen atom compared with DNA. Finally, instead of the base thymine, RNA contains the base uracil. This means that adenine will always pair up with uracil during the protein synthesis process.
 
-      Gene expression begins with the process called  **transcription**, which is the synthesis of a strand of mRNA that is complementary to the gene of interest. This process is called transcription because the mRNA is like a transcript, or copy, of the gene’s DNA code. Transcription begins in a fashion somewhat like DNA replication, in that a region of DNA unwinds and the two strands separate, however, only that small portion of the DNA will be split apart. The triplets within the gene on this section of the DNA molecule are used as the template to transcribe the complementary strand of RNA.
+      Gene expression begins with the process called  **transcription**, which is the synthesis of a strand of mRNA that is complementary to the gene of interest.
+    --
+      Transcription
+    >>>
+      This process is called transcription because the mRNA is like a transcript, or copy, of the gene’s DNA code. Transcription begins in a fashion somewhat like DNA replication, in that a region of DNA unwinds and the two strands separate, however, only that small portion of the DNA will be split apart. The triplets within the gene on this section of the DNA molecule are used as the template to transcribe the complementary strand of RNA.
 
       {image:'Figure_3_4_2}
 
@@ -794,9 +634,9 @@ model ProteinSynthesis
       Like DNA replication, there are three stages to transcription: initiation, elongation, and termination.
 
     --
-      Initiation
-      Elongation
-      Termination
+      Transcription.Initiation
+      Transcription.Elongation
+      Transcription.Termination
 
     >>>
       Before the mRNA molecule leaves the nucleus and proceeds to protein synthesis, it is modified in a number of ways. For this reason, it is often called a pre-mRNA at this stage. For example, your DNA, and thus complementary mRNA, contains long regions called non-coding regions that do not code for amino acids. Their function is still a mystery, but the process called splicing removes these non-coding regions from the pre-mRNA transcript.
@@ -827,38 +667,14 @@ model ProteinSynthesis
 
       Interestingly, some introns that are removed from mRNA are not always non-coding. When different coding regions of mRNA are spliced out, different variations of the protein will eventually result, with differences in structure and function. This process results in a much larger variety of possible proteins and protein functions. When the mRNA transcript is ready, it travels out of the nucleus and into the cytoplasm.
 
-    / Transcription Initiation
-    // Transcription Stage 1: Initiation
-    /// A region at the beginning of the gene called a  **promoter**—a particular sequence of nucleotides—triggers the start of transcription.
-    model Initiation
-
-    / Transcription Elongation
-    // Transcription Stage 2: Elongation
-    /// Transcription starts when RNA polymerase unwinds the DNA segment. One strand, referred to as the coding strand, becomes the template with the genes to be coded. The polymerase then aligns the correct nucleic acid (A, C, G, or U) with its complementary base on the coding strand of DNA.  RNA polymerase is an enzyme that adds new nucleotides to a growing strand of RNA. This process builds a strand of mRNA.
-    model Elongation
-
-    / Transcription Termination
-    // Transcription Stage 3: Termination
-    /// When the polymerase has reached the end of the gene, one of three specific triplets (UAA, UAG, or UGA) codes a “stop” signal, which triggers the enzymes to terminate transcription and release the mRNA transcript.
-    model Termination
-
-    / RNA Splicing
-    /// RNA Splicing is a form of RNA processing in which a newly made precursor messenger RNA (pre-mRNA) transcript is transformed into a mature messenger RNA (mRNA). During splicing, introns (non-coding regions) are removed and exons (coding Regions) are joined together.
-    model RNASplicing
-
-    /// An intron is any nucleotide sequence within a gene that is removed by RNA splicing during maturation of the final RNA product. The word intron is derived from the term intragenic region, i.e. a region inside a gene. The term intron refers to both the DNA sequence within a gene and the corresponding sequence in RNA transcripts.
-    model Intron
-
-    /// An exon is any part of a gene that will encode a part of the final mature RNA produced by that gene after introns have been removed by RNA splicing. The term exon refers to both the DNA sequence within a gene and to the corresponding sequence in RNA transcripts.
-    model Exon
-
   // From RNA to Protein: Translation
   /// Translation is the process of synthesizing a chain of amino acids. Much like the processes of DNA replication and transcription, translation consists of three main stages: initiation, elongation, and termination.
-  model Translation
+  module translation
     >>>
       Like translating a book from one language into another, the codons on a strand of mRNA must be translated into the amino acid alphabet of proteins.  **Translation** is the process of synthesizing a chain of amino acids called a  **polypeptide**.
 
     --
+      Translation
       Polypeptide
 
     let *rough_ER mean EndoplasmicReticulum.RoughEndoplasmicReticulum
@@ -906,10 +722,9 @@ model ProteinSynthesis
     --
       Polyribosome
 
-
 / Cell Growth and Division
 /// The cell cycle is the sequence of events in the life of the cell from the moment it is created at the end of a previous cycle of cell division until it then divides itself, generating two new cells.
-model CellDivision
+module celldiv
 
   path InBrief
     step
@@ -922,8 +737,122 @@ model CellDivision
   ^^
     InBrief
 
-  /// While there are a few cells in the body that do not undergo cell division, most somatic cells divide regularly. A somatic cell is a general term for a body cell.
-  . Background
+  >>>
+    Cells in the body replace themselves over the lifetime of a person. For example, the cells lining the gastrointestinal tract must be frequently replaced when constantly “worn off” by the movement of food through the gut. But what triggers a cell to divide, and how does it prepare for and complete cell division? The  **cell cycle** is the sequence of events in the life of the cell from the moment it is created at the end of a previous cycle of cell division until it then divides itself, generating two new cells.
+
+  --
+    CellCycle
+
+  >>>
+    One “turn” or cycle of the cell cycle consists of two general phases: {Interphase interphase}, followed by the {MitoticPhase mitotic phase} (which consists of {Mitosis mitosis} and {Cytokinesis cytokinesis}). Mitosis is the division of genetic material, during which the cell nucleus breaks down and two new, fully functional, nuclei are formed.  Cytokinesis divides the cytoplasm into two distinctive cells.
+
+  --
+    interphase
+    mitphase
+
+  >>>
+    A very elaborate and precise system of regulation controls direct the way cells proceed from one phase to the next in the cell cycle and begin mitosis. The control system involves molecules within the cell as well as external triggers. These internal and external control triggers provide “stop” and “advance” signals for the cell. Precise regulation of the cell cycle is critical for maintaining the health of an organism, and loss of cell cycle control can lead to cancer.
+
+  --
+    mechanisms
+    cancer
+    context
+
+  / Interphase
+  /// Interphase is the period of the cell cycle during which the cell is not dividing. The majority of cells are in interphase most of the time.
+  module interphase
+    import Interphase._
+
+    --
+      Interphase
+
+    >>>
+      A cell grows and carries out all normal metabolic functions and processes in a period called G<sub>1</sub>.  **G1 phase** (gap 1 phase) is the first gap, or growth phase in the cell cycle. For cells that will divide again, G<sub>1</sub> is followed by replication of the DNA, during the S phase. The  **S phase** (synthesis phase) is period during which a cell replicates its DNA.
+
+      {image:'Figure_3_5_1}
+
+      After the synthesis phase, the cell proceeds through the G<sub>2</sub> phase. The  **G2 phase** is a second gap phase, during which the cell continues to grow and makes the necessary preparations for mitosis. Between G<sub>1</sub>, S, and G<sub>2</sub> phases, cells will vary the most in their duration of the G1 phase. It is here that a cell might spend a couple of hours, or many days. The S phase typically lasts between 8-10 hours and the G<sub>2</sub> phase approximately 5 hours. In contrast to these phases, the  **G0 phase** is a resting phase of the cell cycle. Cells that have temporarily stopped dividing and are resting (a common condition) and cells that have permanently ceased dividing (like nerve cells) are said to be in G<sub>0</sub>.
+
+    --
+      G1Phase
+      SPhase
+      G2Phase
+      G0Phase
+
+    >>>
+      Billions of cells in the human body divide every day. During the synthesis phase (S, for DNA synthesis) of interphase, the amount of DNA within the cell precisely doubles. Therefore, after DNA replication but before cell division, each cell actually contains *two* copies of each chromosome. Each copy of the chromosome is referred to as a  **sister chromatid** and is physically bound to the other copy. The  **centromere** is the structure that attaches one sister chromatid to another.
+
+    --
+      Chromatid
+      SisterChromatid
+      Centromere
+
+    >>>
+      Because a human cell has 46 chromosomes, during this phase, there are 92 chromatids (46 × 2) in the cell. Make sure not to confuse the concept of a pair of chromatids (one chromosome and its exact copy attached during mitosis) and a homologous pair of chromosomes (two paired chromosomes which were inherited separately, one from each parent).
+
+      {image:'Figure_3_5_2}
+
+  / The Mitotic Phase
+  /// During the mitotic phase of the cell cycle, the contents of the nucleus are equitably pulled apart and distributed between its two halves, after which the cytoplasm and cell body divide into two new cells.
+  module mitphase
+    >>>
+      Mitosis is the division of genetic material, during which the cell nucleus breaks down and two new, fully functional, nuclei are formed.
+    --
+      Mitosis
+    >>>
+      Mitosis is divided into four major stages that take place after interphase ({'Figure_3_5_3 Figure 3.5.3}) and in the following order: prophase, metaphase, anaphase, and telophase. The process is then followed by cytokinesis.
+
+    --
+      Mitosis.Prophase
+      Mitosis.Metaphase
+      Mitosis.Anaphase
+      Mitosis.Telophase
+
+    >>>
+      {image:'Figure_3_5_3}
+
+    >>>
+      Cytokinesis then divides the cytoplasm into two distinctive cells.
+    --
+      Cytokinesis
+    >>>
+      The  **cleavage furrow** is a contractile band made up of microfilaments that forms around the midline of the cell during cytokinesis.
+    --
+      CleavageFurrow
+    >>>
+      This contractile band squeezes the two cells apart until they finally separate. Two new cells are now formed. One of these cells (the “stem cell”) enters its own cell cycle; able to grow and divide again at some future time. The other cell transforms into the functional cell of the tissue, typically replacing an “old” cell there.
+
+      Imagine a cell that completed mitosis but never underwent cytokinesis. In some cases, a cell may divide its genetic material and grow in size, but fail to undergo cytokinesis. This results in larger cells with more than one nucleus. Usually this is an unwanted aberration and can be a sign of cancerous cells.
+
+  / Mechanisms of Cell Cycle Control
+  /// A checkpoint is a point in the cell cycle at which the cycle can be signaled to move forward or stopped. At each checkpoint, different varieties of molecules provide the stop or go signals, depending on certain conditions within the cell.
+  module mechanisms
+    >>>
+      As the cell proceeds through its cycle, each phase involves certain processes that must be completed before the cell should advance to the next phase. A **checkpoint** is a point in the cell cycle at which the cycle can be signaled to move forward or stopped. At each of these checkpoints, different varieties of molecules provide the stop or go signals, depending on certain conditions within the cell.
+    --
+      Checkpoint
+
+    >>>
+      A  **cyclin** is one of the primary classes of cell cycle control molecules ({'Figure_3_5_4 Figure 3.5.4}). A  **cyclin-dependent kinase (CDK)** is one of a group of molecules that work together with cyclins to determine progression past cell checkpoints.
+
+    --
+      Cyclin
+      CDK
+
+    >>>
+      By interacting with many additional molecules, these triggers push the cell cycle forward unless prevented from doing so by “stop” signals, if for some reason the cell is not ready. At the G<sub>1 </sub>checkpoint, the cell must be ready for DNA synthesis to occur. At the G<sub>2</sub> checkpoint the cell must be fully prepared for mitosis. Even during mitosis, a crucial stop and go checkpoint in metaphase ensures that the cell is fully prepared to complete cell division. The metaphase checkpoint ensures that all sister chromatids are properly attached to their respective microtubules and lined up at the metaphase plate before the signal is given to separate them during anaphase.
+
+  / The Cell Cycle Out of Control: Implications
+  /// Cancer is caused by abnormal cells that multiply continuously.  In healthy cells, the tight regulation mechanisms of the cell cycle prevent this from happening, but failures of cell cycle control can cause unwanted and excessive cell division.
+  module cancer
+    >>>
+      Most people understand that cancer or tumors are caused by abnormal cells that multiply continuously. If the abnormal cells continue to divide unstopped, they can damage the tissues around them, spread to other parts of the body, and eventually result in death. In healthy cells, the tight regulation mechanisms of the cell cycle prevent this from happening, while failures of cell cycle control can cause unwanted and excessive cell division. Failures of control may be caused by inherited genetic abnormalities that compromise the function of certain “stop” and “go” signals. Environmental insult that damages DNA can also cause dysfunction in those signals. Often, a combination of both genetic predisposition and environmental factors lead to cancer.
+
+      The process of a cell escaping its normal control system and becoming cancerous may actually happen throughout the body quite frequently. Fortunately, certain cells of the immune system are capable of recognizing cells that have become cancerous and destroying them. However, in certain cases the cancerous cells remain undetected and continue to proliferate. If the resulting tumor does not pose a threat to surrounding tissues, it is said to be benign and can usually be easily removed. If capable of damage, the tumor is considered malignant and the patient is diagnosed with cancer.
+
+  / Cell Division in Context
+  /// While there are a few cells in the body that do not undergo cell division, most cells divide regularly.
+  module context
 
     >>>
       While there are a few cells in the body that do not undergo cell division (such as gametes, red blood cells, most neurons, and some muscle cells), most somatic cells divide regularly. A somatic cell is a general term for a body cell. All human cells are somatic cells, except for those cells that produce eggs and sperm (which are referred to as germ cells).
@@ -943,124 +872,9 @@ model CellDivision
       Haploid
       HomologousChromosomes
 
-
-    /// A couple of homologous chromosomes, or homologs, are a set of one maternal and one paternal chromosome that pair up with each other inside a cell during meiosis.
-    # Homologs have the same genes in the same loci where they provide points along each chromosome which enable a pair of chromosomes to align correctly with each other before separating during meiosis
-    model HomologousChromosomes
-      # https://en.wikipedia.org/wiki/Homologous_chromosome
-
-  >>>
-    Cells in the body replace themselves over the lifetime of a person. For example, the cells lining the gastrointestinal tract must be frequently replaced when constantly “worn off” by the movement of food through the gut. But what triggers a cell to divide, and how does it prepare for and complete cell division? The  **cell cycle** is the sequence of events in the life of the cell from the moment it is created at the end of a previous cycle of cell division until it then divides itself, generating two new cells.
-
-  /// The cell cycle, or cell-division cycle, is the series of events that take place in a cell leading to duplication of its DNA (DNA replication) and division of cytoplasm and organelles to produce two daughter cells.
-  model CellCycle
-    # https://en.wikipedia.org/wiki/Cell_cycle
-
-  --
-    CellCycle
-
-  >>>
-    One “turn” or cycle of the cell cycle consists of two general phases: **interphase**, followed by the **mitotic phase** (which consists of **mitosis** and **cytokinesis**). **Mitosis** is the division of genetic material, during which the cell nucleus breaks down and two new, fully functional, nuclei are formed.  **Cytokinesis** divides the cytoplasm into two distinctive cells.
-
-  /// Interphase is the period of the cell cycle during which the cell is not dividing. The majority of cells are in interphase most of the time.
-  model Interphase
-    >>>
-      A cell grows and carries out all normal metabolic functions and processes in a period called G<sub>1</sub>.  **G1 phase** (gap 1 phase) is the first gap, or growth phase in the cell cycle. For cells that will divide again, G<sub>1</sub> is followed by replication of the DNA, during the S phase. The  **S phase** (synthesis phase) is period during which a cell replicates its DNA.
-
-      {image:'Figure_3_5_1}
-
-      After the synthesis phase, the cell proceeds through the G<sub>2</sub> phase. The  **G2 phase** is a second gap phase, during which the cell continues to grow and makes the necessary preparations for mitosis. Between G<sub>1</sub>, S, and G<sub>2</sub> phases, cells will vary the most in their duration of the G1 phase. It is here that a cell might spend a couple of hours, or many days. The S phase typically lasts between 8-10 hours and the G<sub>2</sub> phase approximately 5 hours. In contrast to these phases, the  **G0 phase** is a resting phase of the cell cycle. Cells that have temporarily stopped dividing and are resting (a common condition) and cells that have permanently ceased dividing (like nerve cells) are said to be in G<sub>0</sub>.
-
-    --
-      G1Phase
-      SPhase
-      G2Phase
-      G0Phase
-
-    / G1 Phase
-    /// The g1 phase, or Gap 1 phase, is the first of four phases of the cell cycle that takes place in eukaryotic cell division. In this part of interphase, the cell synthesizes mRNA and proteins in preparation for subsequent steps leading to mitosis. G1 phase ends when the cell moves into the S phase of interphase.
-    model G1Phase
-      # https://en.wikipedia.org/wiki/G1_phase
-
-    / S Phase
-    /// S phase (Synthesis Phase) is the phase of the cell cycle in which DNA is replicated, occurring between G1 phase and G2 phase. Since accurate duplication of the genome is critical to successful cell division, the processes that occur during S-phase are tightly regulated and widely conserved.
-    model SPhase
-
-    / G2 Phase
-    /// G2 phase, or Gap 2 phase, is the third subphase of interphase in the cell cycle directly preceding mitosis. It follows the successful completion of S phase, during which the cell’s DNA is replicated. G2 phase is a period of rapid cell growth and protein synthesis during which the cell prepares itself for mitosis. G2 phase ends with the onset of prophase, the first phase of mitosis in which the cell’s chromatin condenses into chromosomes.
-    model G2Phase
-      # https://en.wikipedia.org/wiki/G2_phase
-
-    / G0 Phase
-    /// The G0 phase describes a cellular state outside of the replicative cell cycle.
-    model G0Phase
-      # https://en.wikipedia.org/wiki/G0_phase
-
-    >>>
-      Billions of cells in the human body divide every day. During the synthesis phase (S, for DNA synthesis) of interphase, the amount of DNA within the cell precisely doubles. Therefore, after DNA replication but before cell division, each cell actually contains *two* copies of each chromosome. Each copy of the chromosome is referred to as a  **sister chromatid** and is physically bound to the other copy. The  **centromere** is the structure that attaches one sister chromatid to another.
-
-    --
-      Chromatid
-      SisterChromatid
-      Centromere
-
-    >>>
-      Because a human cell has 46 chromosomes, during this phase, there are 92 chromatids (46 × 2) in the cell. Make sure not to confuse the concept of a pair of chromatids (one chromosome and its exact copy attached during mitosis) and a homologous pair of chromosomes (two paired chromosomes which were inherited separately, one from each parent).
-
-      {image:'Figure_3_5_2}
-
-  /// During the mitotic phase of the cell cycle, the contents of the nucleus are equitably pulled apart and distributed between its two halves, after which the cytoplasm and cell body divide into two new cells.
-  model MitoticPhase
-    --
-      Mitosis
-      Cytokinesis
-
-  --
-    Interphase
-    MitoticPhase
-
-  >>>
-    A very elaborate and precise system of regulation controls direct the way cells proceed from one phase to the next in the cell cycle and begin mitosis. The control system involves molecules within the cell as well as external triggers. These internal and external control triggers provide “stop” and “advance” signals for the cell. Precise regulation of the cell cycle is critical for maintaining the health of an organism, and loss of cell cycle control can lead to cancer.
-
-  / Mechanisms of Cell Cycle Control
-  /// A checkpoint is a point in the cell cycle at which the cycle can be signaled to move forward or stopped. At each checkpoint, different varieties of molecules provide the stop or go signals, depending on certain conditions within the cell.
-  . Mechanisms
-    >>>
-      As the cell proceeds through its cycle, each phase involves certain processes that must be completed before the cell should advance to the next phase. A **checkpoint** is a point in the cell cycle at which the cycle can be signaled to move forward or stopped. At each of these checkpoints, different varieties of molecules provide the stop or go signals, depending on certain conditions within the cell.
-
-    /// Cell cycle checkpoints are control mechanisms in eukaryotic cells which ensure proper division of the cell. Each checkpoint serves as a potential point along the cell cycle, during which the conditions of the cell are assessed, with progression through the various phases of the cell cycle occurring when favorable conditions are met.
-    model Checkpoint
-      # https://en.wikipedia.org/wiki/Cell_cycle_checkpoint
-      # https://en.wikipedia.org/wiki/Cell_cycle#Checkpoints
-
-    --
-      Checkpoint
-
-    >>>
-      A  **cyclin** is one of the primary classes of cell cycle control molecules ({'Figure_3_5_4 Figure 3.5.4}). A  **cyclin-dependent kinase (CDK)** is one of a group of molecules that work together with cyclins to determine progression past cell checkpoints.
-
-    --
-      Cyclin
-      CDK
-
-    >>>
-      By interacting with many additional molecules, these triggers push the cell cycle forward unless prevented from doing so by “stop” signals, if for some reason the cell is not ready. At the G<sub>1 </sub>checkpoint, the cell must be ready for DNA synthesis to occur. At the G<sub>2</sub> checkpoint the cell must be fully prepared for mitosis. Even during mitosis, a crucial stop and go checkpoint in metaphase ensures that the cell is fully prepared to complete cell division. The metaphase checkpoint ensures that all sister chromatids are properly attached to their respective microtubules and lined up at the metaphase plate before the signal is given to separate them during anaphase.
-
-  / The Cell Cycle Out of Control: Implications
-  /// Cancer is caused by abnormal cells that multiply continuously.  In healthy cells, the tight regulation mechanisms of the cell cycle prevent this from happening, but failures of cell cycle control can cause unwanted and excessive cell division.
-  . Implications
-    >>>
-      Most people understand that cancer or tumors are caused by abnormal cells that multiply continuously. If the abnormal cells continue to divide unstopped, they can damage the tissues around them, spread to other parts of the body, and eventually result in death. In healthy cells, the tight regulation mechanisms of the cell cycle prevent this from happening, while failures of cell cycle control can cause unwanted and excessive cell division. Failures of control may be caused by inherited genetic abnormalities that compromise the function of certain “stop” and “go” signals. Environmental insult that damages DNA can also cause dysfunction in those signals. Often, a combination of both genetic predisposition and environmental factors lead to cancer.
-
-      The process of a cell escaping its normal control system and becoming cancerous may actually happen throughout the body quite frequently. Fortunately, certain cells of the immune system are capable of recognizing cells that have become cancerous and destroying them. However, in certain cases the cancerous cells remain undetected and continue to proliferate. If the resulting tumor does not pose a threat to surrounding tissues, it is said to be benign and can usually be easily removed. If capable of damage, the tumor is considered malignant and the patient is diagnosed with cancer.
-
-  --
-    Mechanisms
-    Implications
-
 / Cellular Differentiation
 ///  Differentiation is the process by which unspecialized cells become specialized to carry out distinct functions. While all somatic cells contain the exact same genome, different cell types only express some of those genes at any given time. These differences in gene expression ultimately dictate a cell’s unique morphological and physiological characteristics.
-model CellDifferentiation
+module celldiff
   path InBrief
     step
       >>>
@@ -1112,10 +926,6 @@ model CellDifferentiation
     In order for a cell to differentiate into its specialized form and function, it need only manipulate those genes (and thus those proteins) that will be expressed, and not those that will remain silent. The primary mechanism by which genes are turned “on” or “off” is through transcription factors. A  **transcription factor** is one of a class of proteins that bind to specific genes on the DNA molecule and either promote or inhibit their transcription.
 
     {image:'Figure_3_6_2}
-
-  /// A transcription factor (TF) is a protein that controls the rate of transcription of genetic information from DNA to messenger RNA, by binding to a specific DNA sequence. The function of TFs is to regulate—turn on and off—genes in order to make sure that they are expressed in the right cell at the right time and in the right amount throughout the life of the cell and the organism.
-  model TranscriptionFactor
-    # https://en.wikipedia.org/wiki/Transcription_factor
 
   --
     TranscriptionFactor

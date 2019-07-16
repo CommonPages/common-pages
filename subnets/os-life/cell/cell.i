@@ -8,9 +8,9 @@ module cell
     Functions
 
   --
-    Membrane
-    Cytoplasm
-    Nucleus
-    ProteinSynthesis
-    CellDivision
-    CellDifferentiation
+    membrane
+    cytoplasm
+    nucleus
+    proteinsynth
+    celldiv
+    celldiff

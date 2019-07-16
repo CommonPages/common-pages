@@ -2,6 +2,14 @@
 / Types of Organ
 . organ
 
+  /// The heart is a muscular organ which pumps blood through the blood vessels of the circulatory system. Blood provides the body with oxygen and nutrients, as well as assisting in the removal of metabolic wastes.
+  model Heart
+    # https://en.wikipedia.org/wiki/Heart
+
+  /// Skin is the soft outer tissue of the human body. It has three main functions: protection, regulation, and sensation.
+  model Skin
+    # https://en.wikipedia.org/wiki/Skin
+
   /// The thymus is a specialized primary lymphoid organ of the immune system. The thymus provides an inductive environment for development of T cells from hematopoietic progenitor cells.
   model Thymus
     # https://en.wikipedia.org/wiki/Thymus

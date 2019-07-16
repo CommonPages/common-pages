@@ -1,18 +1,12 @@
 
 / The Basis of Life
 /// Life processes of the human body are maintained at several levels of structural organization. Their objective is to maintain the physiological state within the parameters that are compatible with life.
-model basis
+module basis
   --
     Structure
     Functions
     Requirements
     Homeostasis
-
-  / Anatomy and Physiology
-  /// Anatomy is the scientific study of the body’s structures. Physiology uses chemistry and physics to explain how the structures of the body work together to maintain life.
-  model AP
-    >>>
-      Human anatomy is the scientific study of the body’s structures. Human physiology is the scientific study of the chemistry and physics of the structures of the body. Physiology explains how the structures of the body work together to maintain life. It is difficult to study structure (anatomy) without knowledge of function (physiology). The two disciplines are typically studied together because form and function are closely related in all living things.
 
   / Levels of Life
   /// Life processes of the human body are maintained at several levels of structural organization. These include the chemical, cellular, tissue, organ, organ system, and the organism level.
@@ -24,16 +18,16 @@ model basis
     # {image:'Figure_1_2_1}
 
     --
-      Chemicals
-      Cells
-      Tissues
-      Organs
-      Systems
-      Organisms
+      ChemicalLevel
+      CellularLevel
+      TissueLevel
+      OrganLevel
+      SystemLevel
+      OrganismLevel
 
     / The Chemical Level
     /// All matter in the universe is composed of one or more unique pure substances called elements. The smallest unit of any of these pure substances (elements) is an atom. Two or more atoms combine to form a molecule. Molecules are the chemical building blocks of all body structures.
-    model Chemicals
+    model ChemicalLevel
       <<
         chem
 
@@ -42,7 +36,7 @@ model basis
 
     / The Cellular Level
     /// A cell is the smallest independently functioning unit of a living organism. In humans, as in all organisms, cells perform all functions of life.
-    model Cells
+    model CellularLevel
       <<
         Functions
         cell
@@ -54,17 +48,17 @@ model basis
 
     / The Tissue Level
     /// A tissue is a group of many similar cells (though sometimes composed of a few related types) that work together to perform a specific function.
-    model Tissues
+    model TissueLevel
       <<
         tissue
 
     / The Organ Level
     /// An organ is an anatomically distinct structure of the body composed of two or more tissue types. Each organ performs one or more specific physiological functions.
-    model Organs
+    model OrganLevel
 
     / The Organ Systems Level
     /// An organ system is a group of organs that work together to perform major functions or meet physiological needs of the body.
-    model Systems
+    model SystemLevel
       <<
         system
 
@@ -73,7 +67,10 @@ model basis
 
     / The Organism Level
     /// The organism level is the highest level of organization. An organism is a living being that has a cellular structure and that can independently perform all physiologic functions necessary for life.
-    model Organisms
+    model OrganismLevel
+      <<
+        organism
+
       >>>
         In multicellular organisms, including humans, all cells, tissues, organs, and organ systems of the body work together to maintain the life and health of the organism.
 
@@ -106,24 +103,20 @@ model basis
     model Metabolism
       >>>
         The first law of thermodynamics holds that energy can neither be created nor destroyed—it can only change form. Your basic function as an organism is to consume (ingest) energy and molecules in the foods you eat, convert some of it into fuel for movement, sustain your body functions, and build and maintain your body structures. There are two types of reactions that accomplish this:
-
       --
         Anabolism
-        Catabolism
-
       >>>
+         Your body can assemble, by utilizing energy, the complex chemicals it needs by combining small molecules derived from the foods you eat.
+      --
+        Catabolism
+      >>>
+        The complex molecules found in foods are broken down so the body can use their parts to assemble the structures and substances needed for life.
+
         Taken together, these two processes are called metabolism. Metabolism is the sum of all anabolic and catabolic reactions that take place in the body. Both anabolism and catabolism occur simultaneously and continuously to keep you alive.
 
         {image:'Metabolism}
 
         Every cell in your body makes use of a chemical compound, adenosine triphosphate (ATP), to store and release energy. The cell stores energy in the synthesis (anabolism) of ATP, then moves the ATP molecules to the location where energy is needed to fuel cellular activities. Then the ATP is broken down (catabolism) and a controlled amount of energy is released, which is used by the cell to perform a particular job.
-
-
-      /// Anabolism is the process whereby smaller, simpler molecules are combined into larger, more complex substances. Your body can assemble, by utilizing energy, the complex chemicals it needs by combining small molecules derived from the foods you eat.
-      model Anabolism
-
-      /// Catabolism is the process by which larger more complex substances are broken down into smaller simpler molecules. Catabolism releases energy. The complex molecules found in foods are broken down so the body can use their parts to assemble the structures and substances needed for life.
-      model Catabolism
 
     /// Responsiveness is the ability of an organism to adjust to changes in its internal and external environments.
     model Responsiveness
@@ -166,37 +159,42 @@ model basis
       Humans cannot survive for more than a few minutes without oxygen, for more than several days without water, and for more than several weeks without carbohydrates, lipids, proteins, vitamins, and minerals. Although the body can respond to high temperatures by sweating and to low temperatures by shivering and increased fuel consumption, long-term exposure to extreme heat and cold is not compatible with survival. The body requires a precise atmospheric pressure to maintain its gases in solution and to facilitate respiration—the intake of oxygen and the release of carbon dioxide. Humans also require blood pressure high enough to ensure that blood reaches all body tissues but low enough to avoid damage to blood vessels.
 
     --
-      Oxygen
-      Nutrients
-      Temperature
-      Pressure
+      OxygenReq
+      NutrientReq
+      TemperatureReq
+      PressureReq
 
+    / Oxygen
     /// Oxygen is a key component of the chemical reactions that keep the body alive.
-    model Oxygen
+    model OxygenReq
       >>>
         Atmospheric air is only about 20 percent oxygen, but that oxygen is a key component of the chemical reactions that keep the body alive, including the reactions that produce ATP. Brain cells are especially sensitive to lack of oxygen because of their requirement for a high-and-steady production of ATP. Brain damage is likely within five minutes without oxygen, and death is likely within ten minutes.
 
+    / Nutrients
     /// A nutrient is a substance in foods and beverages that is essential to human survival. The three basic classes of nutrients are water, the energy-yielding and body-building macronutrients, and the micronutrients (vitamins and minerals).
-    model Nutrients
+    model NutrientReq
 
+      / Water
       /// The most critical nutrient is water. Water makes up about 70 percent of an adult’s body mass.
-      model Water
+      model WaterReq
         >>>
           Depending on the environmental temperature and our state of health, we may be able to survive for only a few days without water. The body’s functional chemicals are dissolved and transported in water, and the chemical reactions of life take place in water. Moreover, water is the largest component of cells, blood, and the fluid between cells, and water makes up about 70 percent of an adult’s body mass. Water also helps regulate our internal temperature and cushions, protects, and lubricates joints and many other body structures.
 
+      / Macronutrients
       /// The energy-yielding macronutrients are primarily carbohydrates and lipids, while proteins mainly supply the amino acids that are the building blocks of the body itself.
-      model Macronutrients
+      model MacronutrientReq
         >>>
           The energy-yielding nutrients are primarily carbohydrates and lipids, while proteins mainly supply the amino acids that are the building blocks of the body itself. You ingest these in plant and animal foods and beverages, and the digestive system breaks them down into molecules small enough to be absorbed. The breakdown products of carbohydrates and lipids can then be used in the metabolic processes that convert them to ATP. Although you might feel as if you are starving after missing a single meal, you can survive without consuming the energy-yielding nutrients for at least several weeks.
 
+      / Micronutrients
       /// Micronutrients are vitamins and minerals. These elements and compounds participate in many essential chemical reactions and processes, such as nerve impulses, and some also contribute to the body’s structure.
-      model Micronutrients
+      model MicronutrientReq
         >>>
           Your body can store some of the micronutrients in its tissues, and draw on those reserves if you fail to consume them in your diet for a few days or weeks. Some others micronutrients, such as vitamin C and most of the B vitamins, are water-soluble and cannot be stored, so you need to consume them every day or two.
 
     / Narrow Range of Temperature
     /// The chemical reactions upon which the body depends can only take place within a narrow range of body temperature, from just below to just above 37°C (98.6°F).
-    model Temperature
+    model TemperatureReq
       >>>
         You have probably seen news stories about athletes who died of heat stroke, or hikers who died of exposure to cold. Such deaths occur because the chemical reactions upon which the body depends can only take place within a narrow range of body temperature, from just below to just above 37°C (98.6°F). When body temperature rises well above or drops well below normal, certain proteins (enzymes) that facilitate chemical reactions lose their normal structure and their ability to function and the chemical reactions of metabolism cannot proceed.
 
@@ -206,8 +204,9 @@ model basis
 
         The body can also respond effectively to short-term exposure to cold. One response to cold is shivering, which is random muscle movement that generates heat. Another response is increased breakdown of stored energy to generate heat. When that energy reserve is depleted, however, and the core temperature begins to drop significantly, red blood cells will lose their ability to give up oxygen, denying the brain of this critical component of ATP production. This lack of oxygen can cause confusion, lethargy, and eventually loss of consciousness and death. The body responds to cold by reducing blood circulation to the extremities, the hands and feet, in order to prevent blood from cooling there and so that the body’s core can stay warm. Even when core body temperature remains stable, however, tissues exposed to severe cold, especially the fingers and toes, can develop frostbite when blood flow to the extremities has been much reduced. This form of tissue damage can be permanent and lead to gangrene, requiring amputation of the affected region.
 
+    / Pressure
     /// Atmospheric pressure is pressure exerted by the mixture of gases in the Earth’s atmosphere. Atmospheric pressure is an important requirement for healthy bodily function.
-    model Pressure
+    model PressureReq
       >>>
         **Pressure** is a force exerted by a substance that is in contact with another substance. Atmospheric pressure is pressure exerted by the mixture of gases (primarily nitrogen and oxygen) in the Earth’s atmosphere. Although you may not perceive it, atmospheric pressure is constantly pressing down on your body. This pressure keeps gases within your body, such as the gaseous nitrogen in body fluids, dissolved. If you were suddenly ejected from a space ship above Earth’s atmosphere, you would go from a situation of normal pressure to one of very low pressure. The pressure of the nitrogen gas in your blood would be much higher than the pressure of nitrogen in the space surrounding your body. As a result, the nitrogen gas in your blood would expand, forming bubbles that could block blood vessels and even cause cells to break apart.
 
