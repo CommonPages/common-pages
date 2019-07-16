@@ -1,7 +1,7 @@
 
 / The Respiratory System
 /// The respiratory system is primarily responsible for obtaining oxygen and removing carbon dioxide. It also aids in speech production and in sensing odors.
-model resp
+module resp
   import struct._
   import proc._
 
@@ -9,16 +9,16 @@ model resp
     Every cell in the body needs to run the oxidative stages of {*cellular_respiration}, the process by which energy is produced in the form of {ATP adenosine triphosphate (ATP)}. For oxidative phosphorylation to occur, oxygen is used as a reactant and carbon dioxide is released as a waste product. Oxygen is inhaled and carbon dioxide is exhaled through the **respiratory system**, which includes muscles to move air into and out of the lungs, passageways through which air moves, and microscopic gas exchange surfaces covered by capillaries. The {*Vasc circulatory system} transports gases from the lungs to tissues throughout the body and vice versa.
 
   --
-    Structures
-    Breathing
-    GasExchange
-    GasTransport
-    Mods
-    Development
+    structures
+    breathing
+    exchange
+    transport
+    mods
+    development
 
   / Organs and Structures of the Respiratory System
   /// The respiratory system can be divided into a conducting zone and a respiratory zone. The conducting zone of the respiratory system includes the organs and structures not directly involved in gas exchange. The gas exchange occurs in the respiratory zone.
-  model Structures
+  module structures
     path InBrief
       step
         >>>
@@ -41,32 +41,33 @@ model resp
       Functionally, the respiratory system can be divided into a conducting zone and a respiratory zone. The  **conducting zone** of the respiratory system includes the organs and structures not directly involved in gas exchange. The gas exchange occurs in the  **respiratory zone**.
 
     --
-      ConductingZone
-      RespiratoryZone
+      conductingzone
+      respzone
 
     >>>
       A major organ of the respiratory system, each  **lung** houses structures of both the conducting and respiratory zones. The main function of the lungs is to perform the exchange of oxygen and carbon dioxide with air from the atmosphere. To this end, the lungs exchange respiratory gases across a very large epithelial surface area—about 70 square meters—that is highly permeable to gases.
 
     --
-      LungsEtAl
+      lungs
 
+    / The Conducting Zone
     /// The major functions of the conducting zone are to provide a route for incoming and outgoing air, remove debris and pathogens from the incoming air, and warm and humidify the incoming air.
-    model ConductingZone
+    module conductingzone
       >>>
         The major functions of the conducting zone are to provide a route for incoming and outgoing air, remove debris and pathogens from the incoming air, and warm and humidify the incoming air. Several structures within the conducting zone perform other functions as well. The epithelium of the nasal passages, for example, is essential to sensing odors, and the bronchial epithelium that lines the lungs can metabolize some airborne carcinogens.
 
       --
-        NoseEtAl
-        PharynxEtAl
-        LarynxEtAl
-        TracheaEtAl
-        BronchialTreeEtAl
+        nose
+        pharynx
+        larynx
+        trachea
+        bronchial
 
 
       / The Nose
       # and its Adjacent Structures
       /// The major entrance and exit for the respiratory system is through the nose. Its main function is respiration, and the nasal mucosa lining the nasal cavity and the paranasal sinuses warmes and moistens incoming air.
-      model NoseEtAl
+      module nose
         >>>
           The major entrance and exit for the respiratory system is through the nose. When discussing the nose, it is helpful to divide it into two major sections: the external nose, and the nasal cavity or internal nose.
 
@@ -104,9 +105,9 @@ model resp
 
           {image:'Figure_23_1_4}
 
-      / Pharynx
+      / The Pharynx
       /// The pharynx is the part of the throat behind the mouth and nasal cavity, and above the esophagus and larynx – the tubes going down to the stomach and the lungs.
-      model PharynxEtAl
+      module pharynx
         >>>
           The  **pharynx** is a tube formed by skeletal muscle and lined by mucous membrane that is continuous with that of the nasal cavities (see {'Figure_23_1_3 Figure 23.1.3}).
         --
@@ -134,9 +135,9 @@ model resp
         >>>
           It continues the route for ingested material and air until its inferior end, where the digestive and respiratory systems diverge. The stratified squamous epithelium of the oropharynx is continuous with the laryngopharynx. Anteriorly, the laryngopharynx opens into the larynx, whereas posteriorly, it enters the esophagus.
 
-      / Larynx
+      / The Larynx
       /// The larynx, commonly called the voice box, is an organ involved in breathing, producing sound, and protecting the trachea against food aspiration.
-      model LarynxEtAl
+      module larynx
         >>>
           The  **larynx** is a cartilaginous structure inferior to the laryngopharynx that connects the pharynx to the trachea and helps regulate the volume of air that enters and leaves the lungs ({'Figure_23_1_6 Figure 23.1.6}).
         --
@@ -160,9 +161,9 @@ model resp
 
           Continuous with the laryngopharynx, the superior portion of the larynx is lined with stratified squamous epithelium, transitioning into pseudostratified ciliated columnar epithelium that contains goblet cells. Similar to the nasal cavity and nasopharynx, this specialized epithelium produces mucus to trap debris and pathogens as they enter the trachea. The cilia beat the mucus upward towards the laryngopharynx, where it can be swallowed down the esophagus.
 
-      / Trachea
+      / The Trachea
       /// The trachea, colloquially called the windpipe, is a cartilaginous tube that connects the pharynx and larynx to the lungs, allowing the passage of air.
-      model TracheaEtAl
+      module trachea
         >>>
           The trachea (windpipe) extends from the larynx toward the lungs ({'Figure_23_1_8 Figure 23.1.8} **a**).
         --
@@ -172,9 +173,9 @@ model resp
 
           {image:'Figure_23_1_8}
 
-      / Bronchial Tree
+      / The Bronchial Tree
       /// The trachea branches into the right and left primary bronchi, passages that conduct air into the lungs. Bronchioles further branch until they become the tiny terminal bronchioles, which lead to the structures of gas exchange.
-      model BronchialTreeEtAl
+      module bronchial
         >>>
           The trachea branches into the right and left primary  **bronchi** at the carina.
         --
@@ -188,8 +189,9 @@ model resp
         >>>
           Bronchioles, which are about 1 mm in diameter, further branch until they become the tiny terminal bronchioles, which lead to the structures of gas exchange. There are more than 1000 terminal bronchioles in each lung. The muscular walls of the bronchioles do not contain cartilage like those of the bronchi. This muscular wall can change the size of the tubing to increase or decrease airflow through the tube.
 
+    / The Respiratory Zone
     /// In contrast to the conducting zone, the respiratory zone includes structures that are directly involved in gas exchange.
-    model RespiratoryZone
+    module respzone
       >>>
         The respiratory zone begins where the terminal bronchioles join a  **respiratory bronchiole**, the smallest type of bronchiole ({'Figure_23_1_9 Figure 23.1.9}), which then leads to an alveolar duct, opening into a cluster of alveoli.
       --
@@ -226,7 +228,7 @@ model resp
 
     / The Lungs
     /// The lungs are the primary organs of the respiratory system. Their function is to extract oxygen from the atmosphere and transfer it into the bloodstream, and to release carbon dioxide from the bloodstream into the atmosphere, in a process of gas exchange.
-    model LungsEtAl
+    module lungs
       --
         Lung
       # Gross Anatomy of the Lungs
@@ -299,23 +301,24 @@ model resp
   —
   / The Process of Breathing
   /// Pulmonary ventilation is the act of breathing — the movement of air into and out of the lungs. The major mechanisms that drive pulmonary ventilation are atmospheric pressure, the air pressure within the alveoli, and the pressure within the pleural cavity.
-  model Breathing
+  module breathing
 
   —
+  / Gas Exchange
   /// The purpose of the respiratory system is to perform gas exchange. It is through this mechanism that blood is oxygenated and carbon dioxide, the waste product of cellular respiration, is removed from the body.
-  model GasExchange
+  module exchange
 
   —
   / Tranport of Gases
   /// In order for the exchange of oxygen and carbon dioxide to occur, both gases must be transported between the external and internal respiration sites. Although carbon dioxide is more soluble than oxygen in blood, both gases require a specialized transport system for the majority of the gas molecules to be moved between the lungs and other tissues.
-  model GasTransport
+  module transport
 
   —
   / Modifications in Respiratory Functions
   /// At rest, the respiratory system performs its functions at a constant, rhythmic pace, as regulated by the respiratory centers of the brain. There are times that the respiratory system must alter the pace of its functions in order to accommodate the oxygen demands of the body.
-  model Mods
+  module mods
 
   —
   / Embryonic Development of the Respiratory System - Introduction
   /// Development of the respiratory system begins early in the fetus. Towards the end of development, the fetus can be observed making breathing movements. Until birth, however, the mother provides all of the oxygen to the fetus as well as removes all of the fetal carbon dioxide via the placenta.
-  model Development
+  module development

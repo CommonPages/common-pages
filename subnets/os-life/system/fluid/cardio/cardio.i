@@ -453,6 +453,7 @@ module cardio
       model Hemolysis
 
   —
+  / Heart
   /// The heart is a muscle that pumps blood from the major vessels: the aorta nd pulmonary trunk. From these vessels the blood is distrubuted to the remainder of the body.
   module heart
 

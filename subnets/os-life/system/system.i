@@ -19,17 +19,17 @@ module system
     —
     / The Integumentary System
     /// The skin and its accessory structures provide the body with overall protection.
-    model IntegSys
+    module IntegSys
 
     —
     / The Skeletal System
     /// Bone is a hard, dense connective tissue that forms most of the adult skeleton, the support structure of the body. The skeletal system forms the rigid internal framework of the body. It consists of the bones, cartilages, and ligaments.
-    model SkelSys
+    module SkelSys
 
     —
     / The Muscular System
     /// Muscle is the tissue in animals that allows for active movement of the body or materials within the body.
-    model MuscSys
+    module MuscSys
 
   / Control Systems
   // Regulation, Integration and Control Systems
@@ -39,13 +39,13 @@ module system
     —
     / The Nervous System
     /// The nervous system is a highly complex part of an animal that coordinates its actions and sensory information by transmitting signals to and from different parts of its body.
-    model NervSys
+    module NervSys
       # https://en.wikipedia.org/wiki/Nervous_system
 
     —
     / The Endocrine System
     /// The endocrine system is a chemical messenger system comprising feedback loops of hormones released by internal glands of an organism directly into the circulatory system, regulating distant target organs.
-    model EndoSys
+    module EndoSys
       # https://en.wikipedia.org/wiki/Endocrine_system
 
   —
@@ -53,6 +53,6 @@ module system
   /// The Male Reproductive System, The Female Reproductive System
   module repro
 
-    model MaleRepSys
+    module MaleRepSys
 
-    model FemaleRepSys
+    module FemaleRepSys
