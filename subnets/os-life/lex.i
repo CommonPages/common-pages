@@ -3,6 +3,11 @@
 # Lexicon
 #
 
+import $os-ap.Figures._
+
+import assets._
+import basis._
+
 import chem._
 import chem.class._
 import chem.el._
@@ -11,6 +16,7 @@ import chem.molec._
 import chem.proc._
 import chem.prop._
 
+import cell.core._
 import cell.class._
 import cell.feature._
 import cell.gene._
@@ -20,7 +26,7 @@ import cell.ognl._
 import cell.proc._
 import cell.prop._
 
-import tissue._
+import tissue.core._
 import tissue.feature._
 import tissue.inst._
 import tissue.proc._

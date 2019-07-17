@@ -1,7 +1,7 @@
 
 id: "$os-cancer"
 name: "Cancer"
-lead: "Cancer is a group of diseases which begin with invisible errors at the smallest scales of life. Over time, small errors lead to profound changes, endangering healthy function at every level in the body."
+lead: "Cancer is a group of diseases characterized by uncontrolled growth and spread of abnormal cells. If the spread is not controlled, it can result in death."
 theme:
   logo: "//static.theinsight.cloud/icons/pti.ico"
 # links:
@@ -10,8 +10,5 @@ theme:
 network: "theinsight.app"
 authorize:
 use:
-  - "$os"
+  - "$os-life"
   - "$pubmed"
-  - "$os-ap"
-  - "$os-bio"
-  - "$os-bioconcepts"

@@ -76,51 +76,6 @@
     >>>
       Soap works to remove oil and grease stains because it has amphipathic properties. The hydrophilic portion can dissolve in water while the hydrophobic portion can trap grease in micelles that then can be washed away.
 
-  /// Deoxyribonucleic acid is a molecule composed of two chains that coil around each other to form a double helix. DNA carries genetic instructions for the development, functioning, growth and reproduction of all known organisms
-  model DNA
-
-  / DNA Base Pair
-  /// A base pair is a unit consisting of two nucleobases bound to each other by hydrogen bonds. They form the building blocks of the DNA double helix and contribute to the folded structure of both DNA and RNA.
-  model DNABasePair
-
-  / DNA Polymerase
-  /// DNA polymerase is an enzyme that synthesizes DNA molecules from deoxyribonucleotides, the building blocks of DNA. These enzymes are essential for DNA replication and usually work in pairs to create two identical DNA strands from a single original DNA molecule. During this process, DNA polymerase "reads" the existing DNA strands to create two new strands that match the existing ones.
-  model DNAPolymerase
-
-  /// Helicases are a class of enzymes vital to all organisms. Their main function is to unpackage an organism's genes.
-  model Helicase
-    # https://en.wikipedia.org/wiki/Helicase
-
-  /// Chromatin is a complex of DNA and protein. Its primary function is packaging very long DNA molecules into a more compact, denser shape, which prevents the strands from becoming tangled.
-  model Chromatin
-    # https://en.wikipedia.org/wiki/Chromatin
-
-  /// Histones are proteins found in cell nuclei that package and order the DNA into structural units called nucleosomes. They are the chief protein components of chromatin, acting as spools around which DNA winds.
-  model Histone
-    # https://en.wikipedia.org/wiki/Histone
-
-  /// A nucleosome is a single, wrapped DNA-histone complex.
-  model Nucleosome
-
-  /// A spliceosome is a large and complex molecular machine found primarily within the nucleus of eukaryotic cells. The spliceosome is assembled from small nuclear RNAs (snRNA) and approximately 80 proteins.
-  model Spliceosome
-    # https://en.wikipedia.org/wiki/Spliceosome
-
-  /// A chromosome is a DNA molecule with part or all of the genetic material (genome) of an organism. Most chromosomes include packaging proteins which bind to and condense the DNA molecule to prevent it from becoming an unmanageable tangle.
-  model Chromosome
-
-  /// A chromatid is a chromosome that has been newly copied or the copy of such a chromosome, the two of them still joined to the original chromosome by a single centromere.
-  model Chromatid
-    # https://en.wikipedia.org/wiki/Chromatid
-
-  /// A sister chromatid refers to the identical copies (chromatids) formed by the DNA replication of a chromosome, with both copies joined together by a common centromere. In other words, a sister chromatid may also be said to be 'one-half' of the duplicated chromosome.
-  model SisterChromatid
-    # https://en.wikipedia.org/wiki/Sister_chromatids
-
-  /// The centromere is the specialized DNA sequence of a chromosome that links a pair of sister chromatids.
-  model Centromere
-    # https://en.wikipedia.org/wiki/Centromere
-
   /// Cyclin is a family of proteins that control the progression of cells through the cell cycle by activating cyclin-dependent kinase (CDK) enzymes.
   model Cyclin
     # https://en.wikipedia.org/wiki/Cyclin
@@ -263,6 +218,22 @@
   model Cytokines
     # https://en.wikipedia.org/wiki/Cytokine
 
+  /// Erythropoietin, also known as haematopoietin or haemopoietin, is a glycoprotein cytokine secreted by the kidney in response to cellular hypoxia; it stimulates red blood cell production in the bone marrow.
+  model Erythropoietin
+    # https://en.wikipedia.org/wiki/Erythropoietin
+    <<
+      Glycoproteins
+      Cytokines
+      Erythropoiesis
+      BoneMarrow
+
+  /// A growth factor is a naturally occurring substance capable of stimulating cellular growth, proliferation, healing, and cellular differentiation.
+  model GrowthFactor
+    # https://en.wikipedia.org/wiki/Growth_factor
+
+    >>>
+      Usually it is a protein or a steroid hormone. Growth factors are important for regulating a variety of cellular processes.
+
   /// Interleukins (ILs) are a group of cytokines that were first seen to be expressed by white blood cells. The function of the immune system depends in a large part on interleukins.
   model Interleukins
     #
@@ -364,3 +335,7 @@
   /// CD8 (cluster of differentiation 8) is a transmembrane glycoprotein that serves as a co-receptor for the T cell receptor (TCR). The CD8 co-receptor is predominantly expressed on the surface of cytotoxic T cells, but can also be found on natural killer cells, cortical thymocytes, and dendritic cells. The CD8 molecule is a marker for cytotoxic T cell population.
   model CD8
     # https://en.wikipedia.org/wiki/CD8
+
+  / Reactive oxygen species (ROS)
+  /// Reactive oxygen species such as peroxides and free radicals are the highly reactive products of many normal cellular processes, including the mitochondrial reactions that produce ATP and oxygen metabolism.
+  model ROS

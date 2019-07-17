@@ -1,7 +1,7 @@
 
 id: "$os-life"
-name: "Life Science"
-lead: "The life sciences comprise the branches of science that involve the study of life and organisms."
+name: "Human Life"
+lead: "The human body is is composed of many different types of cells that together create tissues and organ systems. These biological structures work together to maintain life."
 theme:
   logo: "//static.theinsight.cloud/icons/pti.ico"
 # links:

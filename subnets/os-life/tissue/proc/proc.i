@@ -52,6 +52,12 @@
   model Angiogenesis
     # https://en.wikipedia.org/wiki/Angiogenesis
 
+  /// Erythropoiesis is the process which produces red blood cells (erythrocytes), which is the development from erythropoietic stem cell to mature red blood cell.
+  model Erythropoiesis
+    #
+    <<
+      RBCs
+
   /// Primary intention is the healing of a clean wound without tissue loss.
   model PrimaryUnion
     # https://en.wikipedia.org/wiki/Wound_healing#Wound_closure_intentions

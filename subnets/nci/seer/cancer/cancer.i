@@ -89,7 +89,7 @@ space cancer
 
     / What Is Cancer?
     let characteristics >
-      There are many texts and references that attempt to define cancer. The simplest definition is from the American Cancer SocietyExternal Website Policy (ACS). According to the ACS, cancer is a group of diseases characterized by uncontrolled growth and spread of abnormal cells. If the spread is not controlled, it can result in death.
+      There are many texts and references that attempt to define cancer. The simplest definition is from the American Cancer Society (ACS). According to the ACS, cancer is a group of diseases characterized by uncontrolled growth and spread of abnormal cells. If the spread is not controlled, it can result in death.
 
       ## Characteristics of Cancer
       ### Abnormality

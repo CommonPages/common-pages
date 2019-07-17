@@ -8,6 +8,9 @@ module cell
     Functions
 
   --
+    Cell
+
+  --
     membrane
     cytoplasm
     nucleus

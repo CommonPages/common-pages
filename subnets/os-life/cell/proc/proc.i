@@ -32,6 +32,12 @@
   model Differentiation
     # https://en.wikipedia.org/wiki/Cellular_differentiation
 
+  /// Cell division is the process by which a parent cell divides into two or more daughter cells. Cell division usually occurs as part of a larger cell cycle.
+  model CellDivision
+    # https://en.wikipedia.org/wiki/Cell_division
+    <<
+      CellCycle
+
   /// During terminal differentiation, a precursor cell formerly capable of cell division, permanently leaves the cell cycle, dismantles the cell cycle machinery and often expresses a range of genes characteristic of the cell's final function.
   model TerminalDifferentiation
     # https://en.wikipedia.org/wiki/Cellular_differentiation
@@ -175,7 +181,14 @@
   model CellCycle
     # https://en.wikipedia.org/wiki/Cell_cycle
 
-  /// Cell cycle checkpoints are control mechanisms in eukaryotic cells which ensure proper division of the cell. Each checkpoint serves as a potential point along the cell cycle, during which the conditions of the cell are assessed, with progression through the various phases of the cell cycle occurring when favorable conditions are met.
+  /// The eukaryotic cell cycle consists of four distinct phases: G<sub>1</sub> phase, S phase (synthesis), G<sub>2</sub> phase (collectively known as interphase) and M phase (the mitotic phase).
+  model CellCyclePhases
+    # https://en.wikipedia.org/wiki/Cell_cycle#Phases
+    --
+      Interphase
+      MitoticPhase
+
+  /// Cell cycle checkpoints are control mechanisms which ensure proper division of the cell. Each checkpoint serves as a potential point along the cell cycle, during which the conditions of the cell are assessed, with progression through the various phases of the cell cycle occurring when favorable conditions are met.
   model Checkpoint
     # https://en.wikipedia.org/wiki/Cell_cycle_checkpoint
     # https://en.wikipedia.org/wiki/Cell_cycle#Checkpoints
@@ -207,6 +220,7 @@
   model MitoticPhase
     # https://en.wikipedia.org/wiki/Cell_cycle#Mitotic_phase_(chromosome_separation)
 
-  /// Telomeres shorten in part because of the end replication problem that is exhibited during DNA replication in eukaryotes only. Telomere shortening is associated with aging, mortality and aging-related diseases. However, it is not known whether short telomeres are just a sign of cellular age or actually contribute to the aging process themselves.
-  model TelomereShortening
-    # https://en.wikipedia.org/wiki/Telomere#Shortening
+  /// Oxidative stress is the term used to describe damage to cellular components caused by ROS.
+  model OxidativeStress
+    <<
+      ROS

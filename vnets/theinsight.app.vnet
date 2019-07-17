@@ -19,6 +19,7 @@ subnets:
   - "$os-stat"
   - "$os-life"
   - "$os-cancer"
+  - "$os-cancer-orig"
   - "$os-nsclc"
   # # ——————————
   # - "$os"
