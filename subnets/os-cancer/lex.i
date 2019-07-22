@@ -1,4 +1,4 @@
 
 import $pubmed._
 
-import sci.lib._
+import lib._

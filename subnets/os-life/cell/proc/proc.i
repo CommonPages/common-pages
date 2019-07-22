@@ -224,3 +224,12 @@
   model OxidativeStress
     <<
       ROS
+
+  /// Contact inhibition is a regulatory mechanism that functions to keep cells growing into a layer one cell thick. If a cell has plenty of available substrate space, it replicates rapidly and moves freely. This process continues until the cells occupy the entire substratum. At this point, normal cells will stop replicating.
+  model ContactInhibition
+    # https://en.wikipedia.org/wiki/Contact_inhibition
+
+  /// Senescence or biological aging is the gradual deterioration of functional characteristics. Cellular senescence is one phenomenon by which normal cells cease to divide.
+  model Senescence
+    # https://en.wikipedia.org/wiki/Senescence
+    # https://en.wikipedia.org/wiki/Cellular_senescence

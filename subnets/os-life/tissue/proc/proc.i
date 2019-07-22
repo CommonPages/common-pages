@@ -73,3 +73,12 @@
   /// Regeneration is the process of renewal, restoration, and growth that makes genomes, cells, organisms, and ecosystems resilient to natural fluctuations or events that cause disturbance or damage.
   model Regeneration
     # https://en.wikipedia.org/wiki/Regeneration_(biology)
+
+  /// Wound healing is a complex process in which the skin, and the tissues under it, repair themselves after injury. This process is divided into predictable phases: blood clotting, inflammation, tissue growth, and tissue remodeling.
+  model WoundHealing
+    # https://en.wikipedia.org/wiki/Wound_healing
+
+    <<
+      Tissue
+      Coagulation
+      Inflammation

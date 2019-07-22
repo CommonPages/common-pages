@@ -56,8 +56,18 @@
   /// A gene is a functional segment of DNA that provides the genetic information necessary to build a protein. Each particular gene provides the code necessary to construct a particular protein.
   model Gene
 
-  /// Gene expression is the process by which information from a gene is used in the synthesis of a functional gene product. These products are often proteins, but in non-protein coding genes such as transfer RNA (tRNA) or small nuclear RNA (snRNA) genes, the product is a functional RNA.
+  /// Gene expression is the process by which information from a gene is used in the synthesis of a functional gene product.
   model GeneExpression
+
+  /// A gene product is the biochemical material, either RNA or protein, resulting from expression of a gene.
+  # These products are often proteins, but in non-protein coding genes such as transfer RNA (tRNA) or small nuclear RNA (snRNA) genes, the product is a functional RNA.
+  model GeneProduct
+    # https://en.wikipedia.org/wiki/Gene_product
+    <<
+      RNA
+      Protein
+      GeneExpression
+      Gene
 
   /// Transcription is the first step of DNA based gene expression, in which a particular segment of DNA is copied into RNA.
   model Transcription
@@ -109,9 +119,10 @@
   model TranscriptionFactor
     # https://en.wikipedia.org/wiki/Transcription_factor
 
-  /// Telomeres shorten in part because of the end replication problem that is exhibited during DNA replication in eukaryotes only. Telomere shortening is associated with aging, mortality and aging-related diseases. However, it is not known whether short telomeres are just a sign of cellular age or actually contribute to the aging process themselves.
+  /// Telomeres shorten with each round of cell division and this mechanism limits proliferation of human cells to a finite number of cell divisions. Telomere shortening can act as a tumor suppressor, however it is also associated with aging, mortality and aging-related diseases.
   model TelomereShortening
     # https://en.wikipedia.org/wiki/Telomere#Shortening
+    # https://www.ncbi.nlm.nih.gov/pubmed/17943234
 
   /// Dominance is the phenomenon of one variant (allele) of a gene on a chromosome masking or overriding the effect of a different variant of the same gene on the other copy of the chromosome.
   model Dominance
@@ -159,10 +170,15 @@
   model Oncogene
     # https://en.wikipedia.org/wiki/Oncogene
 
-  / p53
+  / Tumor Protein p53
   /// p53 (or tp53) is a gene that is vital to human life. Its protein product binds to DNA and regulates gene expression to prevent mutations of the genome, effectively suppressing cancer.
   model p53
     # https://simple.wikipedia.org/wiki/P53
+
+  / Retinoblastoma Protein (pRB)
+  /// The retinoblastoma protein (protein name abbreviated pRb; gene name abbreviated RB or RB1) is a tumor suppressor protein that is dysfunctional in several major cancers.
+  model pRB
+    # https://en.wikipedia.org/wiki/Retinoblastoma_protein
 
   /// A tumor suppressor gene, or antioncogene, is a gene that protects a cell from one step on the path to cancer. When this gene mutates to cause a loss or reduction in its function, the cell can progress to cancer, usually in combination with other genetic changes.
   model TumorSuppressor

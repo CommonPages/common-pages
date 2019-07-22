@@ -29,3 +29,13 @@ import $os-life.system.fluid.lymph._
 import $os-life.system.fluid.cardio.lib._
 
 let *ProteinSynthesis mean $os-life.cell.proteinsynth
+
+let *NegativeFeedback mean $os-life.basis.Homeostasis.NegativeFeedback
+
+let *Levels mean $os-life.basis.Structure
+let *Functions mean $os-life.basis.Functions
+
+let *FluidSys mean $os-life.system.fluid
+
+let *LymphSys mean $os-life.system.fluid.lymph
+let *CardioSys mean $os-life.system.fluid.cardio

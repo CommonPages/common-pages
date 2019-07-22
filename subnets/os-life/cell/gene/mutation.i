@@ -3,6 +3,8 @@
 model GeneMutation
   # https://en.wikipedia.org/wiki/Mutation
 
+  # https://en.wikipedia.org/wiki/File:Chromosomes_mutations-en.svg
+
   --
     DominantMutation
     RecessiveMutation

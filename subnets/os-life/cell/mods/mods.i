@@ -583,11 +583,11 @@ module proteinsynth
       Gene
 
     >>>
-      Gene expression, which transforms the information coded in a gene to a final gene product, ultimately dictates the structure and function of a cell by determining which proteins are made.
+      *Gene expression*, which transforms the information coded in a gene to a final *gene product*, ultimately dictates the structure and function of a cell by determining which proteins are made.
 
     --
       GeneExpression
-
+      GeneProduct
     >>>
       Genes are interpreted using what is called a "reading frame."
 

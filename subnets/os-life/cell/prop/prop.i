@@ -46,3 +46,7 @@
   /// An action potential occurs when the membrane potential of a specific cell location rapidly rises and falls: this depolarisation then causes adjacent locations to similarly depolarise. Action potentials occur in several types of animal cells, called excitable cells, which include neurons, muscle cells, endocrine cells, glomus cells, and in some plant cells.
   model ActionPotential
     # https://en.wikipedia.org/wiki/Action_potential
+
+  /// The Hayflick limit or Hayflick phenomenon is the number of times a normal human cell population will divide before cell division stops.
+  model HayflickLimit
+    # https://en.wikipedia.org/wiki/Hayflick_limit
