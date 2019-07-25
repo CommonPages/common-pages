@@ -53,14 +53,6 @@
   model SomaticEvolution
     # https://en.wikipedia.org/wiki/Somatic_evolution_in_cancer
 
-  /// The primary site is the anatomical site where tumor progression began and proceeded to yield a cancerous mass.
-  model PrimarySite
-    # https://en.wikipedia.org/wiki/Primary_tumor
-
-  /// When tumor cells spread indirectly beyond their primary site, the new tumor is called a secondary tumor, and its cells are similar to those in the original or primary tumor.
-  model SecondarySite
-    # https://en.wikipedia.org/wiki/Metastasis
-
   /// Progression is the process by which normal cells transform into cancer cells and become increasingly dangerous to the host.
   model Progression
 
@@ -114,41 +106,6 @@
   model ResponseRate
     # https://en.wikipedia.org/wiki/Response_rate_(medicine)
 
-  / RECIST
-  /// Response Evaluation Criteria in Solid Tumors (RECIST) is a set of published rules that define when tumors in cancer patients improve ("respond"), stay the same ("stabilize"), or worsen ("progress") during treatment.
-  model RECIST
-    # https://en.wikipedia.org/wiki/Response_evaluation_criteria_in_solid_tumors#Response_criteria
-
-    >>>
-      The criteria are specifically not meant to determine whether patients have improved or not, as these are tumor-centric, not patient centric criteria.
-
-
-    # https://www.cancer.gov/publications/dictionaries/cancer-terms/def/recist
-    >>>
-       To use Response Evaluation Criteria In Solid Tumors, there must be at least one tumor that can be measured on x-rays, CT scans, or MRI scans. The types of response a patient can have are a complete response (CR), a partial response (PR), progressive disease (PD), and stable disease (SD).
-
-    --
-      CompleteResponse
-      PartialResponse
-      StableDisease
-      ProgressiveDisease
-
-  /// Complete response (CR) denotes the disappearance of all target lesions.
-  model CompleteResponse
-    # https://en.wikipedia.org/wiki/Response_evaluation_criteria_in_solid_tumors#Response_criteria
-
-  /// Partial response (PR) denotes at least a 30% decrease in the sum of the lesion diameter of target lesions.
-  model PartialResponse
-    # https://en.wikipedia.org/wiki/Response_evaluation_criteria_in_solid_tumors#Response_criteria
-
-  /// Stable disease (SD) denotes neither sufficient shrinkage to qualify for partial reponse, nor sufficient increase to qualify for progressive disease.
-  model StableDisease
-    # https://en.wikipedia.org/wiki/Response_evaluation_criteria_in_solid_tumors#Response_criteria
-
-  /// Progressive disease (PD) denotes at least a 20% increase in the sum of the lesion diameter of target lesions, or the appearance of one or more new lesions.
-  model ProgressiveDisease
-    # https://en.wikipedia.org/wiki/Response_evaluation_criteria_in_solid_tumors#Response_criteria
-
   /// Remission is either the reduction or disappearance of the signs and symptoms of a disease. The term may also be used to refer to the period during which this diminution occurs.
   #  A remission may be considered a partial remission or a complete remission.
   model Remission
@@ -185,3 +142,37 @@
   /// A chronic condition is a human health condition or disease that is not fully responsive to treatment, and persists for an extended period of time. Chronic conditions may have periods of remission or relapse where the disease temporarily goes away, or subsequently reappears.
   model ChronicCondition
     # https://en.wikipedia.org/wiki/Chronic_condition
+
+  ///
+  model CancerGenomeSequencing
+    # https://en.wikipedia.org/wiki/Cancer_genome_sequencing
+
+  /// A carcinogen is any substance, radionuclide, or radiation that promotes carcinogenesis, the formation of cancer.
+  model Carcinogen
+    # https://en.wikipedia.org/wiki/Carcinogen
+
+  /// Carcinogenesis, also called oncogenesis or tumorigenesis, is the formation of a cancer, whereby normal cells are transformed into cancer cells. The process is characterized by changes at the cellular, genetic, and epigenetic levels and abnormal cell division.
+  model Carcinogenesis
+    # https://en.wikipedia.org/wiki/Carcinogenesis
+
+  ///
+  model CancerPrevention
+    #  https://en.wikipedia.org/wiki/Cancer_prevention
+
+
+  / HUGO: Gene Nomenclature Committee
+  /// The HUGO Gene Nomenclature Committee (HGNC) is a committee of the Human Genome Organisation (HUGO) that sets the standards for human gene nomenclature.
+  model HUGO
+    # https://en.wikipedia.org/wiki/HUGO_Gene_Nomenclature_Committee
+
+  /// A biomarker is a measurable indicator of the severity or presence of some disease state. More generally a biomarker is anything that can be used as an indicator of a particular disease state or some other physiological state of an organism.
+  model Biomarker
+    # https://en.wikipedia.org/wiki/Biomarker_(medicine)
+
+  ///
+  model Chemosensitivity
+    # https://en.wikipedia.org/wiki/Chemosensitivity_assay
+
+  ///
+  model GeneExpressionProfiling
+    #  https://en.wikipedia.org/wiki/Gene_expression_profiling_in_cancer

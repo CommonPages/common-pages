@@ -1,5 +1,6 @@
 
 / The Treatment of Cancer
+/// In many cases, cancer can be controlled. The latest therapeutic strategies utilize detailed classifications of disease to tailor treatment. Success is most often measured in terms of prolonged survival.
 module treat
 
   --
@@ -9,115 +10,306 @@ module treat
     eval
     therapy
 
-
-  / The Treatment Process
-  /// In many cases it is expected that a cancer will need to be treated multiple times, with multiple methods. The success of cancer treatment is most often measured in terms of prolonged survival.
-  module process
-    >>>
-      In the context of cancer, *cure* requires the complete removal of all cancer cells, while limiting damage to the rest of the body in the process of treatment.
-    --
-      Cure
-    >>>
-      This is the ideal goal of treatment, and is often the goal in practice. This is in some cases achievable, by removing malignant cells from the body (through surgery) or destroying them in place (by various methods, including chemotherapy and radiation).
-
-      However, cancer begins with a single {Malignancy abnormal} cell, and it can continue from a single abnormal cell that has not been removed or destroyed in a course treatment. Therefore, the disease has not been cured unless every single malignant cell has been removed or destroyed. Over time, undetected malignancy can grow and adapt, leading to new growths. In most cases, this means it is impossible to rule out a future *relapse*.
-    --
-      Relapse
-    >>>
-      For this reason, the success of cancer treatment is most often measured in terms of prolonged *survival*.
-    --
-      survival
-    >>>
-      When researchers and physicians evaluate treatment choices, new drugs and methods, they typically typically measure and evaluate a number of different {SurvivalRate survival rates}, particularly {FiveYearSurvival five-year survival} and {OverallSurvival overall survival}.
-
-      While long term survival after cancer is often possible, it is usually impossible to verify the complete elimination of all cancer cells. For this reason, cancer treatments are referred to as *therapy*.
-    --
-      Therapy
-    >>>
-      Because relapse is always possible, in many cases it is expected that a cancer will need to be treated multiple times, with multiple methods. This makes cancer treatment particularly complicated.
-
-      To manage this complexity effectively, physicians often refer to algorithmic guidelines which describe best practices in many different scenarios. In these treatment algorithms, the phases of therapy are called *lines*, as in {FirstLineTherapy first-line therapy}, {SecondLineTherapy second-line therapy}, and {SubsequentTherapy subsequent therapy}.
-    --
-      lines
-    >>>
-      Each line of therapy may consist of multiple treatments or procedures administered concurrently or surrounding the primary treatment at that stage. For example, {NeoadjuvantTherapy neoadjuvant therapy} is administered prior to a main treatment, whereas {AdjuvantTherapy adjuvant therapy} is given in addition to the primary therapy to maximize its effectiveness. A typical example of adjuvant therapy is additional treatment—such as chemotherapy—given after surgery where all detectable disease has been removed, but where there remains a statistical risk of relapse due to the presence of undetected disease. If known disease is left behind following surgery, however, then further treatment is not technically adjuvant, and may be considered as the next line.
-
-      Treatment choices are also described in terms of their *intent*.
-    --
-      intents
-    >>>
-      In some circumstances, particularly in the case of early stage disease, it may be possible to completely remove or destroy all cancer cells in the body. In these cases, when the goal of treatment is cure, the treatment plan is said to have *curative intent*, and the therapy is called {CurativeTherapy curative}. When there is a preferred form of treatment for a given scenario, but that treatment may or may not result in a cure, the therapy is called {DefinitiveTherapy definitive}. When the goal of treatment is to reduce the patient's suffering, without an expectation of eliminating the disease, the treatment is called {PalliativeTherapy palliative}.
-
-      As a treatment is administered, physicians will closely monitor for a *response*.
-    --
-      Response
-    >>>
-      In cancer treatment, responses are typically evaluated using the {RECIST RECIST} framework, which provides standard measures of improvement based on observed changes in {Tumor tumor} size. If the patient has a response, it is evaluated at either {CompleteResponse complete} or {PartialResponse partial}, depending on how much the tumor shrinks. If there is no response, the patient is evaluated as having either {StableDisease stable} or {ProgressiveDisease progressive} disease.
-
-      In addition to response, physicians will also monitor the patient's *recovery*.
-    --
-      Recovery
-    >>>
-      A person who has a complete response may not be fully recovered, and a person who has recovered may not have had a complete response.
-
-      After a line of treatment, if the patient has seen a response that is stable, the disease may be deemed as in *remission*.
-    --
-      Remission
-    >>>
-      A remission may be either {PartialRemission partial} or {CompleteRemission complete}.
-
-      Again, at this stage the patient is not considered cured in the normal sense, as there likely remains a non-zero chance of relapse. For this reason, the next phase of treatment is *surveillance*.
-    --
-      Surveillance
-    >>>
-      In the case that disease is discovered during surveillance, the patient may begin a subsequent line of treatment.
-
-    / Survival Analysis
-    /// In survival analysis, survival is the period of time after diagnosis within which a patient is still alive. Survival rate is the percentage of people still alive for a given period of time after diagnosis.
-    module survival
-      # https://en.wikipedia.org/wiki/Survival_analysis
-
-      --
-        Survival
-        SurvivalRate
-      --
-        DiseaseFreeSurvival
-        ProgressionFreeSurvival
-        FiveYearSurvival
-        OverallSurvival
-        MeanSurvival
-
-    / Lines of Therapy
-    /// Treatment options can often be ranked or prioritized into lines of therapy: first-line therapy, second-line therapy, third-line therapy, and so on. The priority of treatment choices is based on clinical evidence and physician experience.
-    module lines
-      # https://en.wikipedia.org/wiki/Therapy#Lines_of_therapy
-      --
-        FirstLineTherapy
-        SecondLineTherapy
-        SubsequentTherapy
-        LastLineTherapy
-        PalliativeTherapy
-      --
-        AdjuvantTherapy
-        NeoadjuvantTherapy
-
-    / Intents of Therapy
-    /// Therapeutic intent designates a treatment according to intended outcomes. Intents may include cure, maintenance, or palliation.
-    module intents
-      --
-        CurativeTherapy
-        DefinitiveTherapy
-        ConsolidationTherapy
-        MaintenanceTherapy
-        PalliativeTherapy
-
-  # module detection
-
   / Classification of Cancer
+  /// Cancers are classified by the organs and tissues that they affect, and by the degree of abnormality in malignant cells. These features are combined into a shorthand classification called a stage. Cancers are also described by key molecular features which can be used to personalize treatment.
   module classif
+    >>>
+      There are many ways to classify cancer, and all are important in forming the most effective treatment plan.
+
+      The most recognizable classification system refers to disease by its *anatomical site*—as in, breast cancer, lung cancer, and prostate cancer.
+    --
+      sites
+    >>>
+      The sites of disease are usually the first aspect to be identified, often using non-invasive medical imaging techniques. After identifying the primary site, samples are typically extracted and examined under a microscope to determine the tissues and cells of origin. This designation is called the *histological type*.
+    --
+      histol
+    >>>
+      The histological types of cancer end with "-oma"—as in, carcinoma, sarcoma, and lymphoma.
+
+      Because malignant cells are abnormal, they often appear substantially different to their healthy ancestors when viewed under a microscope. Once the healthy ancestor is determined (i.e. the histological type) they are compared to malignant cells. The extent of their difference is measured by the *tumor grade*.
+    --
+      grade
+    >>>
+      The tumor grade gives one signal as to the degree of the disease. Its extent in terms of size and spread are represented more holistically by the of *stage* of the disease.
+    --
+      stage
+    >>>
+      All of the above classifications are in a sense identifications of symptoms. The root causes of disease, as well as other indicators as to the best possible treatments, are found at the molecular level. These features are described as a *molecular profile*.
+    --
+      molecpro
+
+    / Primary and Secondary Sites
+    /// Cancers are initially classified by the anatomical sites—particularly, the organs—in which malignant growths have been detected.
+    module sites
+      >>>
+        The first and most recognizable classification of cancer is the classification by site. The *primary site* is the organ within which the first malignant cell developed.
+      --
+        PrimarySite
+      >>>
+        The most common primary sites of cancer include the skin, lungs, female breasts, prostate, colon and rectum, and corpus uteri.
+
+        The primary site does not necessarily determine how the disease will behave. For each possible site there are many different associated subtypes of disease, with different characteristics. However, correctly identifying the primary site is usually critical in narrowing the attention of the treatment team to a more manageable set of possible diseases.
+
+        If the disease is {Metastasis metastatic}—that is, if it can travel and grow beyond the primary site—all other sites are called *secondary*.
+      --
+        SecondarySite
+      >>>
+        Secondary sites are crucially important in determining the extent and capabilities of the disease. However, cancer that develops in a second organ is not the same as a cancer that first develops that organ. For example, a disease that originates in the breast (the primary site) and spreads to the lungs (a secondary site) is still called breast cancer, because the cancerous cells in the lungs were originally a type of cell found in the breast. This patient does not have lung cancer. The malignant cells now growing in the lung will have more in common with their ancestors—healthy cells in the breast—than with the healthy cells in the lung. For this reason, the disease is classified as *metastatic breast cancer that has spread to the lungs*. This disease is different from lung cancer, but similar in that any malignant growth in the lungs may impair their function.
+
+        Crucially, the primary site will not necessary be the site that is first discovered. If cancer is first discovered in the lungs, the lungs may in fact turn out to be a secondary site. Additional testing to verify the primary site may be necessary. In some cases, this process is not straight forward. Malignant cells are sometimes so abnormal—that is, so different from their healthy ancestors—that it is difficult to identify the tissue of origin through microscopic examination alone.
+
+        Another term related to secondary site is *nodal status*, or *nodal involvement*.
+      --
+        NodalInvolvement
+      >>>
+        The {*LymphSys lymphatic system} is the network of vessels, cells, and organs that carries excess fluids to the bloodstream. Throughout this network are hundreds of bean shaped organs called {LymphNode lymph nodes}. The lymph nodes nearby the primary site are frequent secondary sites. Identifying affected lymph nodes is an important step in the initial classification of disease.
+
+    / Histological Subtype
+    /// The "histological subtype" of a cancer indicates the type of cell from which it originated.
+    module histol
+      >>>
+        Cancer originates in a single *cell*.
+      --
+        Cell
+      >>>
+        Healthy cells divide and arrange themselves into layers of similar cells called *tissues*.
+      --
+        Tissue
+      >>>
+        Mutant cells divide and arrange themselves into {Tumor tumors}, which are effectively mutant tissues.
+
+        In addition to the {sites anatomical site} of origin, cancers are classified by the tissue of origin, and even more specifically, by the specific type of cell within the tissue of origin. Because the most important biological mechanisms of cancer are cellular, the tissue and cell-based classifications—known as the *histological subtype*—are often more meaningful to physicians.
+      --
+        HistologicalSubtype
+        # There are four main categories of {*Tissue tissue} in the human body: {*EpithelialTissue epithelial tissue}, {*ConnectiveTissue connective tissue}, {*MuscleTissue muscle tissue} and {*NervousTissue nervous tissue}. These provide the broadest histological designations.
+      >>>
+        There are hundreds of different types of cells in the body, and so from a histological standpoint there are hundreds of different cancers.
+
+        {EpithelialTissue Epithelial tissue}—also referred to as *epithelium*—refers to the sheets of cells that cover exterior surfaces of the body, lines internal cavities and passageways, and forms certain glands. Cancers that form in the cells of epithelial tissue are called *carcinomas*.
+      --
+        Carcinoma
+      >>>
+        Epithelial tissue is found throughout the body. It is present in the skin, as well as the covering and lining of organs and internal passageways, such as the gastrointestinal tract. Carcinomas account for 80 to 90 percent of all cancer cases. Important subtypes include {Carcinoma.Adenocarcinoma adenocarcinoma} and {Carcinoma.SquamousCellCarcinoma squamous cell carcinoma}.
+
+        Any cancer that originates in supportive and {*ConnectiveTissue connective tissues} such as bones, tendons, cartilage, {*MuscleTissue muscle}, and fat, are referred to as *sarcomas*.
+      --
+        Sarcoma
+      >>>
+        Generally occurring in young adults, the most common sarcoma often develops as a painful mass on the bone. Sarcoma tumors usually resemble the tissue in which they grow.
+
+        While {Blood blood} is technically a liquid connective tissue, cancers of blood cells are designated separately from sarcomas. These include *leukemias*, *lymphomas* and *myelomas*.
+      --
+        Leukemia
+        Lymphoma
+        Myeloma
+      >>>
+        There are relatively few tumors derived from {*NervousTissue nervous tissue}, and most are not malignant (though even benign tumors in the brain are dangerous). These include {Glioma gliomas}, {Meningioma meningiomas} and {Schwannoma schwannomas}.
+
+        Undifferentiated cells can also develop malignancy. These cancers are called *blastomas* (for example, {Neuroblastoma neuroblastoma}).
+      --
+        Blastoma
+      >>>
+        Finally, it is possible for cancers to descend from multiple cell lines. These are called *mixed type*.
+      --
+        MixedTypes
+
+    / Tumor Grade
+    /// The "grade" of a tumor is an evaluation of its resemblence to its healthy ancestor cells. Higher grades typically indicate more dangerous tumors.
+    module grade
+      --
+        Grading
+        Differentiation
+        WellDifferentiated
+        PoorlyDifferentiated
+        GX
+        G1
+        G2
+        G3
+        G4
+
+    / Staging
+    /// Cancer staging is the process of determining the extent to which a cancer has developed by growing and spreading. Most staging systems assign a number from I to IV, with IV indicating the most extensive disease.
+    module stage
+      --
+        Staging
+      --
+        Stage0
+        StageI
+        StageII
+        StageIII
+        StageIV
+      --
+        tnm
+
+      / TNM Staging
+      module tnm
+        --
+          TNM
+          TNM.T
+          TNM.N
+          TNM.M
+
+    / Molecular Profile
+    /// A cancer's molecular profile indicates the most granular details about a specific disease at the cellular level, in particular the known genetic abnormalities causing the malignancy.
+    module molecpro
+      --
+        Gene
+        GeneFamily
+        GeneProduct
+        GeneMutation
+        Chromosome
+        ChromosomalAbnormality
+      --
+        genenomen
+        muttypes
+        known
+
+      / Gene Nomenclature
+      module genenomen
+        --
+          HUGO
+
+      / Types of Mutations
+      module muttypes
+        --
+          Substitution
+          Insertion
+          Deletion
+          Duplication
+          FrameshiftMutation
+          RepeatExpansion
+        --
+          Rearrangement
+          Translocation
+          ChromosomalDeletion
+          ChromosomalDuplication
+          ChromosomalInversion
+        --
+          FusionGene
+          Amplification
+
+      / Known Mutations
+      module known
+
+        / Common Mutations
+        module common
+
+        / Mutations in Breast Cancer
+        module breast
+
+        / Mutations in Lung Cancer
+        module lung
+
+        / Mutations in Prostate Cancer
+        module prostate
+
+        / Mutations in Colorectal Cancer
+        module colorectal
+
+        / Mutations in Cervical Cancer
+        module cervix
+
+        / ...
+        module etc
+
+
+      # / Important
+      # module features
 
   / Evaluation of Cancer
+  /// Evaluation is the process by which physicians obtain a detailed classification of disease following an initial diagnosis. This entails many procedures, particularly medical imaging, biopsy and molecular testing.
   module eval
 
+    / Lab Tests
+    ///
+    module labs
+
+      / Blood Chemistry Test
+      module blood
+
+      # / Cancer Gene Mutation Testing
+      # module gene
+
+      / Complete Blood Count (CBC)
+      module cbc
+
+      / Cytogenetic Analysis
+      module cyto
+
+      / Immunophenotyping
+      module immun
+
+      / Sputum Cytology
+      /// (aka Sputum Culture)
+      module sputum
+
+      / Tumor Marker Tests
+      module tmarker
+
+      / Urinalysis
+      module urinalysis
+
+      / Urine Cytology
+      module urincyt
+
+    / Medical Imaging
+    module imaging
+
+      / CT Scans
+      module ct
+
+      / Nuclear Scan
+      module nuclear
+
+      / Ultrasound
+      module ultrasound
+
+      / MRI
+      module mri
+
+      / PET Scan
+      module petct
+
+      / X-Ray
+      module xray
+
+      / Bone Scan
+      module bonescan
+
+    / Biopsy
+    module biopsy
+
+      / Fine Needle Aspiration (FNA)
+      module fna
+
+      / Core Needle Biopsy
+      module cnb
+
+      / Sentinal Lymph Node Biopsy
+      module slnb
+
+      / Endoscopy
+      module endo
+
+      / Liquid Biopsy
+      module liquid
+
+      / Surgical Biopsy
+      module surgery
+
+    / Molecular Testing
+    module molec
+      --
+        PCR
+        MLPA
+        FISH
+        NGS
+        ddPCR
+        BEAMing
+
+    / Chemosensitivity Testing
+    module chemosens
+
   / Cancer Therapy
+  /// In most cases, treatment choices will be heavily influenced by the results of a thorough evaluation. Therapeutic strategies include the removal of malignant tissue, the destruction of malignant cells, and other attempts to control their behavior.
   module therapy

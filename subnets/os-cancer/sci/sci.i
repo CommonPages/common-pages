@@ -6,11 +6,11 @@ module sci
   --
     characteristics
     origins
-    hallmarks
+    # hallmarks
     progression
     control
     # reversal
-    # prevention
+    prevention
 
   / Characteristics of Cancer
   /// Cancer is a group of diseases characterized by uncontrolled growth and spread of abnormal cells. If the spread is not controlled, it can result in death.
@@ -108,19 +108,15 @@ module sci
     --
       DominantMutation
     >>>
-      An example is a mutated gene that produces a defective protein that causes the growth-factor {Receptor receptor} on a cell's surface to be constantly "on" when, in fact, no growth factor is present. The result is that the cell receives a constant message to divide. This dominant "gain of function gene" is often called an *oncogene* (onco = cancer).
-    --
-      Oncogene
-    >>>
       The second general type of mutation, *recessive mutation*, is characterized by both genes in the pair being damaged.
     --
       RecessiveMutation
     >>>
-      For example, a normal gene called *p53* produces a protein that turns "off" the cell cycle and thus helps to control cell growth.
+      A typical example of a dominant mutation which promotes cancer is a mutated gene that produces a defective protein that causes the growth-factor {Receptor receptor} on a cell's surface to be constantly "on" when, in fact, no growth factor is present. The result is that the cell receives a constant message to divide. This dominant "gain of function gene" is often called an *oncogene* (onco = cancer).
     --
-      p53
+      Oncogene
     >>>
-      The primary function of the *p53* gene is to repair or destroy defective cells, thereby controlling potential cancerous cells. This type of gene is called an *anti-oncogene* or *tumor suppressor gene*.
+      Recessive mutations, by contrast, typically cause a loss of function. For example, a normal gene called {p53 p53} produces a protein that turns "off" the cell cycle and thus helps to control cell growth. The primary function of the *p53* gene is to repair or destroy defective cells, thereby controlling potential cancerous cells. This type of gene is called an *anti-oncogene* or *tumor suppressor gene*.
     --
       TumorSuppressor
     >>>
@@ -130,7 +126,7 @@ module sci
     >>>
       Abnormal cell division can occur either when active oncogenes are expressed or when tumor suppressor genes are lost. In fact, for a cell to become malignant, numerous mutations are necessary. In some cases, both types of mutations — dominant and recessive — may occur.
 
-      A normal cell can become damaged in different ways. A cell can become abnormal when part of a gene is lost ({Deletion deleted}), when part of a chromosome is rearranged and ends up in the wrong place ({Translocation translocation}), or when an extremely small defect occurs in the DNA, which results in an abnormal DNA "blueprint" and production of a defective protein occurs ({Substitution substitution}). Other important forms of genetic damage include {Insertion insertions}, {Inversion inversions}, and {Amplification amplifications}.
+      A normal cell can become damaged in different ways. A cell can become abnormal when part of a gene is lost ({ChromosomalDeletion deleted}), when part of a chromosome is rearranged and ends up in the wrong place ({Translocation translocation}), or when an extremely small defect occurs in the DNA, which results in an abnormal DNA "blueprint" and production of a defective protein occurs ({Substitution substitution}). Other important forms of genetic damage include {Insertion insertions}, {ChromosomalInversion inversions}, and {Amplification amplifications}.
 
       Abnormal cell division can also be caused by viruses. In this case, genes may be normal, but the protein may not function normally because the cell contains a cancer-producing virus, called an *oncovirus*.
     --
@@ -375,8 +371,17 @@ module sci
 
       Treatment of recurrence or progression (also called "subsequent treatment") includes all cancer-directed treatments administered after the first course of treatment is completed, stopped, or changed. For the date of "Subsequent Treatment(s) For Recurrence or Progression," the date(s) of treatment(s) administered for progression or recurrence of disease is(are) recorded. In short, subsequent treatment starts after the first course of treatment has been completed, stopped, or changed.
 
-  / Prevention of Cancer
+  —
+  / Preventing Cancer
+  /// Cancer occurs as a result of many processes. Some of these processes fall within our influence, while others are inherent to our biology.
   module prevention
+    --
+      Carcinogenesis
+      GenomeInstability
+      GeneMutation
+      DNADamage
+      Carcinogen
+      CancerPrevention
 
   /// The p53 gene is the most frequently mutated gene (>50%) in human cancer.
   line !p53

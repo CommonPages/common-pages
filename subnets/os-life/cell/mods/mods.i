@@ -607,6 +607,7 @@ module proteinsynth
 
       {image:'Figure_3_4_1}
 
+  / Transcription
   // From DNA to RNA: Transcription
   /// Gene expression begins with the process called  transcription, which is the synthesis of a strand of mRNA that is complementary to the gene of interest. Like DNA replication, there are three stages to transcription: initiation, elongation, and termination.
   module transcription
@@ -667,6 +668,7 @@ module proteinsynth
 
       Interestingly, some introns that are removed from mRNA are not always non-coding. When different coding regions of mRNA are spliced out, different variations of the protein will eventually result, with differences in structure and function. This process results in a much larger variety of possible proteins and protein functions. When the mRNA transcript is ready, it travels out of the nucleus and into the cytoplasm.
 
+  / Translation
   // From RNA to Protein: Translation
   /// Translation is the process of synthesizing a chain of amino acids. Much like the processes of DNA replication and transcription, translation consists of three main stages: initiation, elongation, and termination.
   module translation

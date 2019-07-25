@@ -31,7 +31,8 @@
   model Spliceosome
     # https://en.wikipedia.org/wiki/Spliceosome
 
-  /// A chromosome is a DNA molecule with part or all of the genetic material (genome) of an organism. Most chromosomes include packaging proteins which bind to and condense the DNA molecule to prevent it from becoming an unmanageable tangle.
+  /// A chromosome is a DNA molecule with part or all of the genetic material (genome) of an organism.
+  # Most chromosomes include packaging proteins which bind to and condense the DNA molecule to prevent it from becoming an unmanageable tangle.
   model Chromosome
 
   /// A chromatid is a chromosome that has been newly copied or the copy of such a chromosome, the two of them still joined to the original chromosome by a single centromere.
@@ -56,6 +57,10 @@
   /// A gene is a functional segment of DNA that provides the genetic information necessary to build a protein. Each particular gene provides the code necessary to construct a particular protein.
   model Gene
 
+  /// A gene family is a set of several similar genes, formed by duplication of a single original gene, and generally with similar biochemical functions.
+  model GeneFamily
+    # https://en.wikipedia.org/wiki/Gene_family
+
   /// Gene expression is the process by which information from a gene is used in the synthesis of a functional gene product.
   model GeneExpression
 
@@ -75,7 +80,7 @@
 
     / Transcription Initiation
     // Transcription Stage 1: Initiation
-    /// A region at the beginning of the gene called a  **promoter**—a particular sequence of nucleotides—triggers the start of transcription.
+    /// A region at the beginning of the gene called a promoter—a particular sequence of nucleotides—triggers the start of transcription.
     model Initiation
 
     / Transcription Elongation
@@ -189,3 +194,52 @@
   /// An oncovirus is a virus that can cause cancer.
   model Oncovirus
     # https://en.wikipedia.org/wiki/Oncovirus
+
+  /// Genome instability refers to a high frequency of mutations within the genome of a cellular lineage
+  model GenomeInstability
+    # https://en.wikipedia.org/wiki/Genome_instability
+
+  / DNA Damage
+  /// DNA damage is an alteration in the chemical structure of DNA. DNA damage can occur naturally or via environmental factors.
+  model DNADamage
+    # https://en.wikipedia.org/wiki/DNA_damage_(naturally_occurring)
+
+
+  ///
+  model GeneLocation
+    # https://ghr.nlm.nih.gov/primer/howgeneswork/genelocation
+
+  # https://www.cancer.org/cancer/cancer-causes/genetics/genes-and-cancer/gene-changes.html
+  # https://www.cancer.org/cancer/cancer-causes/genetics/genes-and-cancer/oncogenes-tumor-suppressor-genes.html
+
+  # GeneAlterations
+    # https://www.healio.com/hematology-oncology/learn-genomics/genomics-primer/genetic-alterations
+
+
+    # Gene Mutations
+    # https://ghr.nlm.nih.gov/primer/mutationsanddisorders/possiblemutations
+
+    # Chromosomal Abnormalities
+    # https://ghr.nlm.nih.gov/primer/mutationsanddisorders/structuralchanges
+  ///
+  model GeneAlteration
+    #
+    --
+      GeneMutation
+      ChromosomalAbnormality
+
+  ///
+  model Directionality
+    # https://en.wikipedia.org/wiki/Directionality_(molecular_biology)
+
+  ///
+  model GeneStructure
+    #  https://en.wikipedia.org/wiki/Gene_structure
+
+  /// Genetic hitchhiking, also called genetic draft or the hitchhiking effect, is when an allele changes frequency not because it itself is under natural selection, but because it is near another gene that is undergoing a selective sweep and that is on the same DNA chain.
+  model GeneticHitchhiking
+    # https://en.wikipedia.org/wiki/Genetic_hitchhiking
+
+  /// Genetic drift is the change in the frequency of an existing gene variant (allele) in a population due to random sampling of organisms.
+  model GeneticDrift
+    #  https://en.wikipedia.org/wiki/Genetic_drift
