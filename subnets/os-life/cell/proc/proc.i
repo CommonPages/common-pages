@@ -29,7 +29,7 @@
 
   / Cellular Differentiation
   /// Cellular differentiation is the process where a cell changes from one cell type to another. Usually, the cell changes to a more specialized type.
-  model Differentiation
+  model CellularDifferentiation
     # https://en.wikipedia.org/wiki/Cellular_differentiation
 
   /// Cell division is the process by which a parent cell divides into two or more daughter cells. Cell division usually occurs as part of a larger cell cycle.

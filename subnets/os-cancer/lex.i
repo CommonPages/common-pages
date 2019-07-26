@@ -4,6 +4,7 @@ import $pubmed._
 import lib._
 import lib.classif._
 import lib.classif.histol._
+import lib.classif.stage._
 import lib.eval._
 
 let *Tissue mean $os-life.tissue

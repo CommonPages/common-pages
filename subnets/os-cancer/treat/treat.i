@@ -5,12 +5,13 @@ module treat
 
   --
     process
+
   --
     classif
     eval
     therapy
 
-  / Classification of Cancer
+  / Classifications of Cancer
   /// Cancers are classified by the organs and tissues that they affect, and by the degree of abnormality in malignant cells. These features are combined into a shorthand classification called a stage. Cancers are also described by key molecular features which can be used to personalize treatment.
   module classif
     >>>
@@ -116,11 +117,39 @@ module treat
     / Tumor Grade
     /// The "grade" of a tumor is an evaluation of its resemblence to its healthy ancestor cells. Higher grades typically indicate more dangerous tumors.
     module grade
+      # >>>
+      #   Malignant cells {SomaticEvolution evolve} from healthy cells. As they evolve they become increasingly abnormal. Their abnormalities often lead to changes in appearance that can be observed under a microscope.
+      #
+      #   Because malignant cells are abnormal, they often appear substantially different to their healthy ancestors when viewed under a microscope. Once the healthy ancestor is determined (i.e. the histological type) they are compared to malignant cells. The extent of their difference is measured by the *tumor grade*.
+      >>>
+        There are hundreds of types of specialized {Cell cells} in the human body, each with distinct forms and functions. All of these cells either directly developed or descended from less mature {PrecursorCell precursor cells}. The process by which precursor cells develop into mature specialized cells is called *cellular differentiation*.
       --
-        Grading
-        Differentiation
+        CellularDifferentiation
+      >>>
+        When a healthy cell is fully mature—fully *differentiated*—it has many characteristic appearances that can be identified under a microscope.
+
+        {Malignancy Malignant} cells, however, {SomaticEvolution evolve} from healthy cells in ways that can interfere with the differentiation process, leading to an abnormal appearance. When the differentiation process is still relatively functional, the resulting cells will closely resemble their healthy ancestors. These cells are referred to as relatively *well differentiated*.
+      --
         WellDifferentiated
+      >>>
+        Well differentiated cells retain relatively normal features, and in most cases this means they are relatively less dangerous. The cells of {BenignTumor benign tumors}, for instance, are usually relatively normal.
+
+        By contrast, when the differentiation process has been significantly disturbed, the malignant cells are referred to as *poorly differentiated*.
+      --
         PoorlyDifferentiated
+      >>>
+        Poorly differentiated cells may take on an extremely abnormal, even unrecognizable appearance, with unusual size, shape, and surface features. Poor differentiation is usually an indicator of greater abnormality, which in most cases means these tumors are relatively more dangerous.
+
+        Because the appearance of the tumor's cells carries such useful information about relative danger, the assessment of differentiation is standard practice for all solid tumors. The classification of differentiation is called *tumor grading*.
+      --
+        TumorGrading
+      >>>
+        One point of possible confusion around tumor grade owes to multiple uses of the root word *difference*. In tumor grading, the pathologist assesses the visual "difference" between the malignant cells and their healthy counterparts. But the "difference" in *well differentiated* and *poorly differentiated* refer to *cellular differentiation*.
+
+        For this reason, when the abnormal cells are *less* different from their healthy ancestors, they are called *well differentiated*. When the abnormal cells are *more* different from their healthy ancestors, they are called *poorly differentiated*. Well differentiation is generally a good sign. Poor differentiation is generally a bad sign.
+
+        There are a number of different grading systems for different types of tumor, but most follow a similar pattern with grades being increasingly malignant over a range of 1 to 4. If no specific system is used, the following general grades are most commonly used, as recommended by the American Joint Commission on Cancer and other bodies.
+      --
         GX
         G1
         G2
@@ -130,24 +159,109 @@ module treat
     / Staging
     /// Cancer staging is the process of determining the extent to which a cancer has developed by growing and spreading. Most staging systems assign a number from I to IV, with IV indicating the most extensive disease.
     module stage
+      # >>>
+      #   Staging is a common language developed by medical professionals to communicate information about a disease to others.
+      #
+      #   Staging is a shorthand method for describing disease.
+      #
+      #   A short definition for staging is "the grouping of cases into broad categories based on extent of disease." Extent of disease is a detailed description of how far the tumor has spread from organ or site of origin (the primary site). Extent of disease is an anatomic categorization using descriptors to group individual cases in relation to the human body.
+
+      >>>
+        Many cancers go through a {sci.progression matured course}, with growth in {Tumor tumor size}, to {Invasion spread to neighboring tissues}, {NodalInvolvement spread to regional lymph nodes} and eventually to distant {Metastasis metastasis}.
+
+        Medical professionals have developed several standards to succinctly classify the extent of these important {Progression progressive} features. These standards are called *staging* systems.
       --
         Staging
+      # The stage generally takes into account the size of a tumor, whether it has invaded adjacent organs, how many regional (nearby) lymph nodes it has spread to (if any), and whether it has appeared in more distant locations (metastasized).
+      #         A cancer is always referred to by the stage it was given at diagnosis, even if it gets worse or spreads. New information about how a cancer has changed over time gets added on to the original stage. So, the stage doesn't change, even though the cancer might.
+      >>>
+        There are three main standards that classify staging information. The first, and most widely recognized, is *roman numeral staging*.
       --
-        Stage0
-        StageI
-        StageII
-        StageIII
-        StageIV
+        roman
+      >>>
+        These high level groupings—{StageI}, {StageII}, {StageIII}, {StageIV}—are used in all forms of cancer. For each {PrimarySite primary site} of disease, however, the roman numeral groupings are further subdivided according to the relevant features of the site. In one type of lung cancer, for instance, the Stage I classification breaks down into Stages IA1, IA2, IA3, and IB, depending on tumor size and other factors.
+
+        These more granular classifications are defined directly in terms of the next staging system, one that in most cancers is definitive among health professionls: *TNM* staging.
       --
         tnm
+      >>>
+        TNM is a notation system that describes the stage of a cancer, which originates from a solid tumor, using alphanumeric codes. {TNM.T} reflects the size or direct extent of the primary tumor. {TNM.N} reflects the degree of spread to regional lymph nodes. {TNM.M} reflects the presence of distant metastasis. These letters, along with any optional parameters, are grouped together with corresponding number codes defined for each primary site. A final designation might look like the following: <em>pT1, pN0, M0, R0, G1</em>.
+
+        TNM staging captures much more information than roman numeral staging. In the Stage I lung cancer classifications given above, for example, Stage IA1 is comprised of two distinct TNM classifications: <em>T1mi, N0, M0</em>, and <em>T1a, N0, M0</em>.
+
+        A final standard staging system is called *summary staging*.
+      --
+        summary
+      >>>
+        Summary Staging reflects slightly less information than roman numeral staging. Its particular relevance is that it is used by cancer registries, and so most statistics around cancer {Survival survival} per stage are given in the terms of the summary staging system: {InSitu carcinoma in situ}, {Localized localized} disease, {Regionalized regionalized} disease, and {Distant distant} disease.
+
+      # Staging provides a convenient shorthand for communication, and is critical in the formation of {TreatmentAlgorithms treatment algorithms}. It also
+
+      / Roman Numeral Staging
+      /// Roman Numeral Staging—also referred to as Overall Stage Grouping—is a cancer staging system that uses numerals I, II, III, and IV (plus the 0) to describe the progression of cancer.
+      module roman
+        --
+          Stage0
+          StageI
+          StageII
+          StageIII
+          StageIV
 
       / TNM Staging
+      /// The TNM Classification of Malignant Tumors (TNM) is a globally recognised standard for classifying the extent of spread of cancer. It has gained wide international acceptance for many solid tumor cancers.
       module tnm
+        import TNM._
+
+        >>>
+          TNM is a notation system that describes the stage of a cancer, which originates from a solid tumor, using alphanumeric codes. The classification is specified in the {TNM.'Eigth TNM Classification of Malignant Tumours}. The TNM system has gained wide acceptance for many solid tumor cancers, but is not applicable to leukaemia and tumors of the central nervous system.
+
+          T describes the size of the original ({PrimarySite primary}) {Tumor tumor} and whether it has {Invasion invaded} nearby {Tissue tissue}.
         --
-          TNM
           TNM.T
+        >>>
+          Values range from {T0 T0} to {Tn T4}, according to site specific classifications. {Tx Tx} indicates that the tumor status could not be assessed, and {Tis Tis} indicates {InSitu carcinoma in situ}.
+
+          N describes nearby (regional) lymph nodes that are involved.
+        --
           TNM.N
+        >>>
+          Values for N include {N0 N0}, {N1 N1}, {N2 N2}, {N3 N3}, though the higher values are not applicable at all sites.
+
+          M describes distant {Metastasis metastasis} (the spread of cancer from one part of the body to another).
+        --
           TNM.M
+        >>>
+          Values for M include simply {M0 M0}, indicating no metastasis, and {M1 M1} indicating that the disease has spread to distant organs.
+
+          Cancer staging can be divided into a *clinical stage* and a *pathologic stage*.
+        --
+          ClinicalStage
+          PathologicalStage
+        >>>
+          Because they use different criteria, clinical stage and pathologic stage often differ. Pathologic staging is usually considered to be more accurate because it allows direct examination of the tumor in its entirety, contrasted with clinical staging which is limited by the fact that the information is obtained by making indirect observations of a tumor which is still in the body. However, clinical staging and pathologic staging often complement each other. Not every tumor is treated surgically, so pathologic staging is not always available. Also, sometimes surgery is preceded by other treatments such as chemotherapy and radiation therapy which shrink the tumor, so the pathologic stage may underestimate the true stage.
+
+          In the TNM system, clinical stage and pathologic stage are denoted by a small "c" or "p" before the stage. Thus, a complete TNM staging classifications might look like <em>cT3N1M0</em> or <em>pT2N0M0</em>.
+
+          In addition to the mandatory parameters T, N, and M, several additional parameters may be included—namely, *G*, *S*, *R*, *L*, or *V*.
+        --
+          T
+          S
+          R
+          L
+          V
+
+      / Summary Staging
+      /// Summary Stage is the most basic way of categorizing how far a cancer has spread from its point of origin. Summary Stage is the system used by cancer registries, which provide the majority of high level cancer statistics in the United States.
+      module summary
+        >>>
+          Summary Staging is officially described in the 2000 update to the {SummaryStage.'Manual SEER Summary Staging Manual}.
+
+        --
+          InSitu
+          Localized
+          Regionalized
+          Distant
+          UnknownStage
 
     / Molecular Profile
     /// A cancer's molecular profile indicates the most granular details about a specific disease at the cellular level, in particular the known genetic abnormalities causing the malignancy.

@@ -1,6 +1,27 @@
 
 . class
 
+  /// In cell biology, a precursor cell, also called a blast cell or simply blast, is a partially differentiated cell, usually referred to as a unipotent cell that has lost most of its stem cell properties.
+  model PrecursorCell
+    # https://en.wikipedia.org/wiki/Precursor_cell
+    >>>
+      A precursor cell is also known as a progenitor cell but progenitor cells are multipotent. Precursor cells are known as the intermediate cell before they become differentiated after being a stem cell.
+
+    # TYPES
+    # Oligodendrocyte precursor cell
+    # Myeloblast
+    # Thymocyte
+    # Meiocyte
+    # Megakaryoblast
+    # Promegakaryocyte
+    # Melanoblast
+    # Lymphoblast
+    # Bone marrow precursor cells
+    # Normoblast
+    # Angioblast (endothelial precursor cells)
+    # Myeloid precursor cells
+
+
   /// Somatic cells form the body of an organism. In a multicellular organism, this includes any cell other than a gamete, germ cell or undifferentiated stem cell.
   model SomaticCell
     # https://en.wikipedia.org/wiki/Somatic_cell

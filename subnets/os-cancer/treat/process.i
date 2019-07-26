@@ -46,7 +46,7 @@ module process
   >>>
     Again, while this "step" is in principle separate from confirmation and treatment, in some real scenarios it is essential to begin treatment as soon as possible. In these cases, much of the evaluation of the disease may happen concurrently to initial treatment procedures. In many other cases, however, it may be statistically favorable to perform a more thorough pre-treatment evaluation so as to personalize the treatment plan.
 
-    In most cases, the initial evaluation will include {Grading tumor grading}, {HistologicalSubtype histological subtyping} and {Staging staging}. In some circumstances, {TumorMarkerTesting tumer marker tests}, {TumorGenomeSequencing tumor genome sequencing}, and {ChemosensitivityTesting chemosensitivity tests} may also be performed.
+    In most cases, the initial evaluation will include {TumorGrading tumor grading}, {HistologicalSubtype histological subtyping} and {Staging staging}. In some circumstances, {TumorMarkerTesting tumer marker tests}, {TumorGenomeSequencing tumor genome sequencing}, and {ChemosensitivityTesting chemosensitivity tests} may also be performed.
 
     Once enough information has been gathered about the nature of the disease, a treament plan is selected and the initial *therapy* begins.
   --
@@ -92,7 +92,7 @@ module process
 
     The success of cancer treatment is most often measured in terms of prolonged *survival*.
   --
-    survival
+    Survival
   >>>
     When researchers and physicians evaluate treatment choices, new drugs and methods, they typically measure and evaluate a number of different {SurvivalRate survival rates}, particularly {FiveYearSurvival five-year survival} and {OverallSurvival overall survival}.
 
@@ -115,21 +115,6 @@ module process
   / End-of-Life Care
   /// End-of-life care (or EoLC) refers to health care, not only of a person in the final hours or days of their lives, but more broadly care of all those with a terminal condition that has become advanced, progressive, and incurable.
   module eolcare
-
-  / Cancer Survival Analysis
-  /// In survival analysis, survival is the period of time after diagnosis within which a patient is still alive. Survival rate is the percentage of people still alive for a given period of time after diagnosis.
-  module survival
-    # https://en.wikipedia.org/wiki/Survival_analysis
-
-    --
-      Survival
-      SurvivalRate
-    --
-      DiseaseFreeSurvival
-      ProgressionFreeSurvival
-      FiveYearSurvival
-      OverallSurvival
-      MeanSurvival
 
   / Lines of Therapy
   /// Treatment options can often be ranked or prioritized into lines of therapy: first-line therapy, second-line therapy, third-line therapy, and so on. The priority of treatment choices is based on clinical evidence and physician experience.

@@ -56,22 +56,6 @@
   /// Progression is the process by which normal cells transform into cancer cells and become increasingly dangerous to the host.
   model Progression
 
-  /// Carcinoma In Situ denotes the presence of malignant cells within the cell group from which they arose; no penetration of basement membrane of the tissue; no stromal invasion.
-  model InSitu
-    # NCI
-
-  /// Localized cancer is limited to the organ of origin; no spread beyond organ of origin; infiltration past basement membrane of epithelium into stroma of organ.
-  model Localized
-    # NCI
-
-  /// Regionalized cancer denotes tumor extension beyond the limits of the organ of origin. This includes direct extension, or spread to regional lymph nodes.
-  model Regionalized
-    # NCI
-
-  /// In distant cancer, a tumor has spread to areas of the body distant or remote from the primary tumor. Distant metastases are comprised of tumor cells which have broken away from the primary tumor and have traveled to other parts of the body.
-  model Distant
-    # NCI
-
   #
   #
   #
@@ -176,3 +160,7 @@
   ///
   model GeneExpressionProfiling
     #  https://en.wikipedia.org/wiki/Gene_expression_profiling_in_cancer
+
+  ///
+  model Prognosis
+    #

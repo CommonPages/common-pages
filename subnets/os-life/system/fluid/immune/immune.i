@@ -51,7 +51,7 @@ module immune
   /// The functions of the immune system are carried out largely by phagocytic cells, lymphocytes, and cells containing cytoplasmic granules.
   module immunecells
     >>>
-      The cells of the blood, including all those involved in the immune response, arise in the bone marrow via various differentiation pathways from {HematopoieticStemCell hematopoietic stem cells} ({'Figure_22_1_4 Figure 22.1.4}). In contrast with embryonic stem cells, hematopoietic stem cells are present throughout adulthood and allow for the continuous {Differentiation differentiation} of blood cells to replace those lost to age or function. These cells can be divided into three classes based on function:
+      The cells of the blood, including all those involved in the immune response, arise in the bone marrow via various differentiation pathways from {HematopoieticStemCell hematopoietic stem cells} ({'Figure_22_1_4 Figure 22.1.4}). In contrast with embryonic stem cells, hematopoietic stem cells are present throughout adulthood and allow for the continuous {CellularDifferentiation differentiation} of blood cells to replace those lost to age or function. These cells can be divided into three classes based on function:
 
         * Phagocytic cells, which ingest pathogens to destroy them
         * Lymphocytes, which specifically coordinate the activities of adaptive immunity
@@ -107,7 +107,7 @@ module immune
     /// The primary lymphoid organs are those that generate lymphocytes from immature progenitor cells. These include the thymus and bone marrow. The lymphoid organs are where lymphocytes mature, proliferate, and are selected, which enables them to attack pathogens without harming the cells of the body.
     module primary
       >>>
-        Understanding the {Differentiation differentiation} and development of {BCells B} and {TCells T cells} is critical to the understanding of the {AdaptiveImmuneResponse adaptive immune response}. It is through this process that the body (ideally) learns to destroy only {*pathogens} and leaves the body’s own cells relatively intact.
+        Understanding the {CellularDifferentiation differentiation} and development of {BCells B} and {TCells T cells} is critical to the understanding of the {AdaptiveImmuneResponse adaptive immune response}. It is through this process that the body (ideally) learns to destroy only {*pathogens} and leaves the body’s own cells relatively intact.
 
         The  **primary lymphoid organs** are the bone marrow and thymus gland.
       --
@@ -624,7 +624,7 @@ module immune
         B cells differentiate in the bone marrow. During the process of maturation, up to 100 trillion different clones of B cells are generated, which is similar to the diversity of antigen receptors seen in T cells. B cell differentiation and the development of tolerance are not quite as well understood as it is in T cells.
       --
         BCells
-        Differentiation
+        CellularDifferentiation
       >>>
         **Central tolerance** is the destruction or inactivation of B cells that recognize self-antigens in the bone marrow, and its role is critical and well established.
       --
