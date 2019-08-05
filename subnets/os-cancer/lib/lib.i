@@ -121,7 +121,7 @@
 
   / Evaluation
   /// The evaluation of cancer involves testing to determine the extent of disease and the underlying molecular properties by which it operates.
-  model evaluation
+  model Evaluation
 
   /// Surveillance is a phase of treatment in which a patient’s condition is closely observed. Surveillance is used to find early signs that a disease has come back. During surveillance, certain exams and tests are done on a regular schedule.
   model Surveillance

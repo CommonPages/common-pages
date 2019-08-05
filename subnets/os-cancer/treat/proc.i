@@ -12,11 +12,6 @@ model ClinicalSuspicion
 model Confirmation
   #
 
-
-///
-model Evaluation
-  #
-
 ///
 model IncidentalFinding
   #

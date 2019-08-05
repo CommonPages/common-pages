@@ -295,7 +295,7 @@ module sci
 
       Cells throughout the body—including cancer cells—are bathed in a liquid called {IF interstitial fluid}. The lymphatic system is a network of vessels and organs that continually drain this fluid, which is called {Lymph lymph} once it enters the lymphatic system. This network contains hundreds of small kidney shaped organs throughout the body called {LymphNode lymph nodes} that filter the fluid. As such, they are often the first point of contact with wandering cancer cells.
     >>>
-      If the tumor {Invasion invades} neighboring tissues, beyond its initial cell group, the cancer is called *localized*, as long as it is confined to organ of origin.
+      If the tumor {Invasion invades} neighboring tissues, beyond its initial cell group, the cancer is called *localized*, as long as it is confined to the organ of origin.
     --
       Localized
     >>>
