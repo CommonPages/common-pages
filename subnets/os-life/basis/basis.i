@@ -12,6 +12,92 @@ module basis
   /// Life processes of the human body are maintained at several levels of structural organization. These include the chemical, cellular, tissue, organ, organ system, and the organism level.
   model Structure
 
+    ^^
+      InBrief
+
+    path InBrief
+      let 'levels mean $os-ap.Figures.'Figure_1_2_1
+      let 'systems1 mean $os-ap.Figures.'Figure_1_2_2
+      let 'systems2 mean $os-ap.Figures.'Figure_1_2_3
+      let 'resp mean $os-ap.Figures.'Figure_23_1_1
+      let 'lung mean $os-ap.Figures.'Figure_23_2_1
+      let 'lungtissue mean $os-ap.Figures.'Figure_23_1_8
+      let 'cancerousepithelia mean $os-ap.Figures.'Figure_4_0_1
+      let 'epithelia mean $os-ap.Figures.'Figure_4_2_2
+      let 'epithelia2 mean $os-ap.Figures.'Figure_4_2_4
+      let 'genericcell mean $os-ap.Figures.'Figure_3_2_1
+
+      / The Body's Structure
+      /// For any question of health or fitness it is helpful to first understand the body's basic architecture; that is, how its smallest parts are assembled into larger structures.
+      step
+
+      / Levels of Organization
+      /// It is convenient to consider the structures of the body in terms of  fundamental levels of organization that increase in complexity.
+      step
+        >>>
+          {image-left:'Figure_1_2_1}
+
+          Atoms combine to form {chem molecules}. Molecules combine to form {cell cells}. Cells combine to form {tissue tissues}. Tissues combine to form organs. Organs combine to form {system organ systems}. Organ systems combine to form {organism organisms}. All these structures work together to carry out the {Functions functions of life}.
+
+      / Organ Systems
+      // The body is made of organ systems.
+      /// An organ system is a group of organs that work together to perform major functions or meet physiological needs of the body.
+      step
+        <<
+          SystemLevel
+          system
+
+        >>>
+          {image-right:'resp}
+
+          The {*resp respiratory system's} primary function, for example, is to provide oxygen to body. Portions of the respiratory system are also used for non-vital functions, such as sensing odors and speech production.
+
+      / Organs
+      // Organ systems are made of organs.
+      /// An organ is an anatomically distinct structure of the body. Each organ performs one or more specific physiological functions.
+      step
+        <<
+          OrganLevel
+
+        >>>
+          {image-right:'lung}
+
+          The {*lungs} are the major organs of the respiratory system. The main function of the lungs is to perform the exchange of oxygen and carbon dioxide with air from the atmosphere.
+
+      / Tissues
+      // Organs are made of tissues.
+      /// A tissue is a group of many similar cells and surrounding chemicals that work together to perform a specific function.
+      step
+        <<
+          TissueLevel
+          tissue
+
+        >>>
+          {image-right:'epithelia} {*epithelialtissue Epithelial tissue}, for example, is the biological material that covers the exterior and interior surfaces of the body. It lines the surfaces of the lungs and the other organs of the respiratory system.
+
+      / Cells
+      // Tissues are made of cells.
+      /// A cell is the smallest independently functioning unit of a living organism. Cells are the building blocks of life.
+      step
+        <<
+          CellularLevel
+          cell
+
+        >>>
+          {image-right:'genericcell} All living structures of human anatomy contain cells, and almost all functions of human physiology are performed in cells or are initiated by cells.
+
+      / Chemicals
+      // Cells are made of chemicals.
+      /// Chemicals form all parts of the cell, from its walls to its internal fluids, and the genetic code that determines its form and function.
+      step
+        <<
+          ChemicalLevel
+          chem
+
+        >>>
+          {image:'Figure_3_3_5}
+
+
     >>>
       Life processes of the human body are maintained at several levels of structural organization. Higher levels of organization are built from lower levels. Therefore, molecules combine to form cells, cells combine to form tissues, tissues combine to form organs, organs combine to form organ systems, and organ systems combine to form organisms.
 

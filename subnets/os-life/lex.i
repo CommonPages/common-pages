@@ -114,3 +114,8 @@ let *cytotoxic mean Cytotoxicity
 let *Th2_cells mean Th2Cell
 
 let *totipotent mean Totipotency
+
+#
+let *resp mean system.energy.resp
+let *lungs mean *resp.structures.lungs
+let *epithelialtissue mean tissue.epithelialtiss

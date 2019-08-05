@@ -119,9 +119,17 @@
   model Dormancy
     # https://en.wikipedia.org/wiki/Cancer_dormancy
 
+  / Evaluation
+  /// The evaluation of cancer involves testing to determine the extent of disease and the underlying molecular properties by which it operates.
+  model evaluation
+
   /// Surveillance is a phase of treatment in which a patient’s condition is closely observed. Surveillance is used to find early signs that a disease has come back. During surveillance, certain exams and tests are done on a regular schedule.
   model Surveillance
     #
+
+  / End-of-Life Care
+  /// End-of-life care (or EoLC) refers to health care, not only of a person in the final hours or days of their lives, but more broadly care of all those with a terminal condition that has become advanced, progressive, and incurable.
+  model EolCare
 
   /// A chronic condition is a human health condition or disease that is not fully responsive to treatment, and persists for an extended period of time. Chronic conditions may have periods of remission or relapse where the disease temporarily goes away, or subsequently reappears.
   model ChronicCondition

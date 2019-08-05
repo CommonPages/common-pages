@@ -1,5 +1,5 @@
 
-/ The Anatomy of Cancer
+/ The Science of Cancer
 /// Cancer is a group of diseases characterized by uncontrolled growth and spread of abnormal cells. All cancers originate with damage to genes, creating cells that grow and spread in a pattern known as malignant progression.
 module sci
 
@@ -58,15 +58,11 @@ module sci
   /// All cancers originate with damage to genes which regulate the division, growth, movement, and death of cells. How a specific cancer behaves depends on which processes are no longer functioning normally.
   module origins
     >>>
-      The division of normal cells is governed by a highly regulated process called the *cell cycle*.
-    --
-      CellCycle
-    >>>
-      The normal cell cycle provides all the controls to regulate cell growth, inheritance, and even death. All of these functions are in turn controlled by the cell's *DNA*.
+      Virtually everything that a cell does is determined by special molecules housed in the its core called *DNA*.
     --
       DNA
     >>>
-      DNA is a highly complex molecule manufactured in the cell {Nucleus nucleus} and serves as the cell's "brain." DNA is the blueprint for everything the cell does. In a human cell, the DNA is arranged in 46 distinct sections called *chromosomes*.
+      DNA is a highly complex molecule manufactured in the cell {Nucleus nucleus} and serves as the cell's "brain." In a human cell, the DNA is arranged in 46 distinct sections called *chromosomes*.
     --
       Chromosome
     >>>
@@ -78,13 +74,23 @@ module sci
     --
       Gene
     >>>
-      A gene is a segment of DNA that determines the structure of a {Protein protein}, which is needed for development and growth as well as carrying out vital chemical functions in the body. Like the chromosomes, genes are arranged in pairs — one gene from the mother and one from the father.
+      A gene is simply a specific segment of the chromosome that carries the instructions necessary to create a *protein*.
+    --
+      Protein
+    >>>
+      Virtually all the functions that a cell carries out are completed with the help of proteins. There are many different kinds of proteins, each serving many purposes. In order for the cell to produce a protein that it needs, the gene with the instructions to produce it must be turned on, or *expressed*.
+    --
+      GeneExpression
+    >>>
+      When a gene is expressed, through a biochemical chain reaction, its code is copied and carried to other structures within the cell which can follow the instructions to generate a protein. This process is known as {*ProteinSynthesis protein synthesis}.
 
-      Each gene occupies a specific location on a chromosome. Through a number of biochemical steps, each gene tells a cell to make a different protein. This process is known as *protein synthesis*.
+      Some genes instruct the cell to manufacture structural proteins, which serve as building blocks. Other genes tell the cell to produce {Hormone hormones}, {GrowthFactor growth factors} or {Cytokines cytokines}, which exit the cell and {CellSignaling communicate} with other cells. Still other genes tell the cell to produce regulatory proteins that control the function of other proteins or tell other genes when to turn "on" or "off".
 
-      {embed:*ProteinSynthesis}
-
-      Some genes instruct the cell to manufacture structural proteins, which serve as building blocks. Other genes tell the cell to produce {Hormone hormones}, {GrowthFactor growth factors} or {Cytokines cytokines}, which exit the cell and {CellSignaling communicate} with other cells. Still other genes tell the cell to produce regulatory proteins that control the function of other proteins or tell other genes when to turn "on" or "off" — a process called {GeneExpression gene expression}. When a gene is turned on (*expressed*), it manufactures another complex molecule called {RNA ribonucleic acid (RNA)}, which contains all the information the cell needs to make new proteins.
+      In cells with healthy DNA, all of the genes that regulate their growth are expressed at the right time and in the right frequency, resulting in a tightly controlled process called the *cell cycle*.
+    --
+      CellCycle
+    >>>
+      The normal cell cycle provides all the controls to regulate cell growth, inheritance, and even death.
 
       Cells divide only when they receive the proper signals from growth factors that circulate in the bloodstream or from a cell they directly contact. For example, if a person loses blood, a growth factor called {Erythropoietin erythropoietin}, which is produced in the kidneys, circulates in the bloodstream and tells the bone marrow to manufacture more blood cells.
 
@@ -100,15 +106,19 @@ module sci
 
       A cancer cell is a cell that grows out of control. Unlike normal cells, cancer cells ignore signals to stop dividing, to specialize, or to die and be shed. Growing in an uncontrollable manner and unable to recognize its own natural boundary, the cancer cells may spread to areas of the body where they do not belong.
 
-      In a cancer cell, several genes change (*mutate*) and the cell becomes defective.
+      For a cell to become cancerous, its genetic instructions must change, or *mutate*.
     --
       GeneMutation
     >>>
-      There are two general types of gene mutations, based on the interaction between the {Allele variants} of the gene on either {HomologousChromosomes pair}. One type, *dominant mutation*, is caused by an abnormality in one gene in a pair.
+      Gene mutations take place all the time, but most lead to unhealthy cells that cannot survive and multiply. Occasionally, however, a mutation will make a cell more likely to survive and spread. These are the mutations that create cancer cells.
+
+      There are two general types of gene mutations, based on the interaction between the {Allele variants} of the gene on either {HomologousChromosomes pair}. Like the chromosomes, genes are arranged in pairs — one gene from the mother and one from the father.
+
+      A *dominant mutation* is caused by an abnormality in only one gene in a pair.
     --
       DominantMutation
     >>>
-      The second general type of mutation, *recessive mutation*, is characterized by both genes in the pair being damaged.
+      A *recessive mutation* is characterized by both genes in the pair being damaged.
     --
       RecessiveMutation
     >>>
@@ -121,9 +131,7 @@ module sci
       TumorSuppressor
     >>>
       If only one *p53* gene in the pair is mutated, the other gene will still be able to control the cell cycle. However, if both genes are mutated, the "off" switch is lost, and the cell division is no longer under control.
-    --
-      !p53
-    >>>
+
       Abnormal cell division can occur either when active oncogenes are expressed or when tumor suppressor genes are lost. In fact, for a cell to become malignant, numerous mutations are necessary. In some cases, both types of mutations — dominant and recessive — may occur.
 
       A normal cell can become damaged in different ways. A cell can become abnormal when part of a gene is lost ({ChromosomalDeletion deleted}), when part of a chromosome is rearranged and ends up in the wrong place ({Translocation translocation}), or when an extremely small defect occurs in the DNA, which results in an abnormal DNA "blueprint" and production of a defective protein occurs ({Substitution substitution}). Other important forms of genetic damage include {Insertion insertions}, {ChromosomalInversion inversions}, and {Amplification amplifications}.
@@ -131,7 +139,6 @@ module sci
       Abnormal cell division can also be caused by viruses. In this case, genes may be normal, but the protein may not function normally because the cell contains a cancer-producing virus, called an *oncovirus*.
     --
       Oncovirus
-      !OncovirusBurden
     # >>>
     #   A gene mutation may allow an already abnormal cell to invade the normal tissue where the cancer started or to travel in the bloodstream to remote parts of the body, where it continues to divide. These capabilities are called *invasion* and *metastasis*, respectively.
     # --

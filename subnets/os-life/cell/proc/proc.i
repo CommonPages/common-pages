@@ -188,6 +188,7 @@
       Interphase
       MitoticPhase
 
+  / Cell Cycle Checkpoint
   /// Cell cycle checkpoints are control mechanisms which ensure proper division of the cell. Each checkpoint serves as a potential point along the cell cycle, during which the conditions of the cell are assessed, with progression through the various phases of the cell cycle occurring when favorable conditions are met.
   model Checkpoint
     # https://en.wikipedia.org/wiki/Cell_cycle_checkpoint

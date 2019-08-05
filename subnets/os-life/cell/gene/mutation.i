@@ -87,7 +87,7 @@ model RepeatExpansion
 model Mutagenesis
   # https://en.wikipedia.org/wiki/Mutagenesis
 
-/// A dominant mutation is a mutation that requires only one copy of the gene must be mutated to give rise to a change. Dominant mutations often lead to a gain of function (increase the activity of a gene product, confer a new activity on the gene product, or lead to its inappropriate expression).
+/// A dominant mutation is a mutation that requires only one copy of the gene to be mutated to give rise to a change. Dominant mutations often lead to a gain of function (increase the activity of a gene product, confer a new activity on the gene product, or lead to its inappropriate expression).
 model DominantMutation
   # https://www.ncbi.nlm.nih.gov/books/NBK21578/#_A1877_
 

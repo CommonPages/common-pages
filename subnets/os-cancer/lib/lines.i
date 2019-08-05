@@ -1,4 +1,19 @@
 
+
+/ Lines of Therapy
+/// Treatment options can often be ranked or prioritized into lines of therapy: first-line therapy, second-line therapy, third-line therapy, and so on. The priority of treatment choices is based on clinical evidence and physician experience.
+model Lines
+  # https://en.wikipedia.org/wiki/Therapy#Lines_of_therapy
+  --
+    FirstLineTherapy
+    SecondLineTherapy
+    SubsequentTherapy
+    LastLineTherapy
+    PalliativeTherapy
+  --
+    AdjuvantTherapy
+    NeoadjuvantTherapy
+    
 ///
 model TreatmentAlgorithms
   #
