@@ -2,12 +2,16 @@
 authors:
   pti:
     fullname: Peace Through Insight
+    avatar: "//static.theinsight.cloud/icons/pti.ico"
 
   openstax:
     fullname: OpenStax
+    avatar: "//staxlogos.openstax.org/OSX-Stacked-TM-RGB-150dpi-2016.png"
 
   nci:
     fullname: National Cancer Institute
+    avatar: "//static.theinsight.cloud/icons/nci.png"
 
   nccn:
     fullname: NCCN
+    avatar: "//static.theinsight.cloud/icons/nccn.ico"
