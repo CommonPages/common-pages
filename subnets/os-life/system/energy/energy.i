@@ -1,7 +1,7 @@
 
 / Energy Systems
 // Energy, Maintenance and Environmental Exchange Systems
-/// The Respiratory System, The Digestive System, The Urinary System
+/// The respiratory system, digestive system, and urinary system provide the body with energy and exchange materials with the external environment.
 module energy
 
   --

@@ -13,7 +13,7 @@ module system
 
   / Support Systems
   // Support and Movement Systems
-  /// The Integumentary System, The Skeletal System, The Muscular System
+  /// The integumentary system (skin), skeletal system and muscular system facilitate bodily support an movement.
   module support
 
     —
@@ -33,7 +33,7 @@ module system
 
   / Control Systems
   // Regulation, Integration and Control Systems
-  /// The Nervous System, The Endocrine System
+  /// The nervous system and the endocrine system provide regulation, integration and control of the body.
   module control
 
     —
@@ -50,7 +50,7 @@ module system
 
   —
   / Reproductive Systems
-  /// The Male Reproductive System, The Female Reproductive System
+  /// The male and female reproductive systems facilitate sexual reproduction.
   module repro
 
     module MaleRepSys
