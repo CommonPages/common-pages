@@ -9,6 +9,9 @@ links:
   - text: Home
     location: "/nccn"
 network: "theinsight.app"
+authors:
+  - "@nccn"
+  - "@pti"
 authorize:
 use:
   - "$pubmed"
