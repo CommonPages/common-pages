@@ -3900,6 +3900,9 @@ debug:
     / Stage IIIB Disease 
     /// Stage IIIB tumors comprise 2 unresectable groups, including: 1) T1–2,N3 tumors; and 2) T3–4,N2 tumors. Recommended treatments depend on the patient's nodal status.
     . StageIIIB
+      <<
+        $os-cancer.treat.classif.stage
+        $os-cancer.treat.classif.sites
 
       /// Surgical resection is not recommended in patients with T1–2,N3 disease. Recommended treatment depends on the patient's nodal status. Durvalumab may be recommended as consolidation therapy if concurrent chemoradiation is indicated.
       line !1
