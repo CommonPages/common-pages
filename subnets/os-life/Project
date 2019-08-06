@@ -8,6 +8,9 @@ theme:
 #  - text: Home
 #    location: "/os"
 network: "theinsight.app"
+authors:
+  - "@pti"
+  - "@openstax"
 authorize:
 use:
   - "$os-ap"

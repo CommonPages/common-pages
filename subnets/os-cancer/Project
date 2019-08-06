@@ -8,6 +8,10 @@ theme:
 #  - text: Home
 #    location: "/os-cancer"
 network: "theinsight.app"
+authors:
+  - "@pti"
+  - "@nci"
+  - "@openstax"
 authorize:
 use:
   - "$os-life"

@@ -1,5 +1,11 @@
 
 authors:
+  pti:
+    fullname: Peace Through Insight
+
+  openstax:
+    fullname: OpenStax
+
   nci:
     fullname: National Cancer Institute
 
