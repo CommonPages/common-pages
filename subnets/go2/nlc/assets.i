@@ -1,6 +1,6 @@
 
 index: hide
-space assets
+module assets
 
   url: //static.theinsight.cloud/projects/go2/nlc/targetable-pie.png
   height: 523

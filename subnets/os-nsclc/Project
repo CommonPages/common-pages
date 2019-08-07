@@ -6,9 +6,9 @@ description: "The Lung Cancer App reflects the latest treatment algorithm utiliz
 theme:
   logo: "//static.theinsight.cloud/icons/pti.ico"
   color:
-    r: 238
-    g: 153
-    b: 136
+    r: 111
+    g: 182
+    b: 130
 # links:
 #  - text: Home
 #    location: "/os-nsclc"

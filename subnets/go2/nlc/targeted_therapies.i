@@ -1,7 +1,7 @@
 
 / Targeted Therapies
 /// Because the genomic alterations driving a cancer, such as protein mutations and gene fusions, in each tumor are different, the treatments for each tumor will be different. Targeted therapy is a term you might hear that describes a type of lung cancer treatment that uses drugs to identify and attack cancer cells specifically, while sparing normal cells.
-space targeted_therapies
+module targeted_therapies
 
   ---
     chemo
@@ -52,7 +52,7 @@ space targeted_therapies
     The use of Next Generation Sequencing (NGS) also called Comprehensive Genomic Profiling (CGP) is a deep dive look into the molecular makeup of your cancer regardless of cancer type and may help your doctor determine which clinical trial might be best for you. For more information on NGS, please visit Foundation Medicine, www.foundationmedicine.com. By the time you are reading this guidebook, researchers may have identified additional mutations. Please contact ALCF for more information or an updated list of molecular mutations.
 
   index: hide
-  space h
+  module h
     let chemo >
       # Targeted chemotherapy and personalized medicine
     let what >

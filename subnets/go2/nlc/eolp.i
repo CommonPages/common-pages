@@ -1,6 +1,6 @@
 
 / End-of-Life Planning
-space eolp
+module eolp
 
   ---
     overview

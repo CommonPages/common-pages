@@ -1,6 +1,6 @@
 
 / Financing Your Cancer Care
-space finance
+module finance
 
   ---
     insurance

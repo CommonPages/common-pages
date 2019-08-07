@@ -1,7 +1,7 @@
 
 / Clinical Trials Overview
 /// Clinical trials are critical to the development of new lung cancer treatments. These new treatments may include drugs, surgical procedures, and new ways to manage side effects. Participating in a clinical trial may have several potential benefits for you.
-space trials
+module trials
 
   ---
     what
@@ -107,7 +107,7 @@ space trials
     The NIH clinical trial list includes over 136,000 clinical trials available worldwide not just in the US. When you access the site, search for a clinical trial using the most specific information you have. For example, if your diagnosis is small cell lung cancer, search for “SCLC in the US.” A list will open showing all of the studies that are in the database. In the listing, you will be able to tell the status of the clinical trial (Completed, Recruiting, Not yet Recruiting, Active, etc.). The list will include what conditions are being targeted in the trial and what treatments are actually being tested (drug, radiation therapy, etc.). Clicking on the name of the study will open a new window that shows extensive information about the specific study including how long the trial is expected to last, eligibility requirements, how outcomes will be measured and contacts for the trial. If you find clinical trials that may be applicable to you, it is critical that you discuss them with your healthcare team.
 
   index: hide
-  space h
+  module h
     let what >
       # What are Clinical Trials?
     let types >

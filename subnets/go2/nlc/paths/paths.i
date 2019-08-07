@@ -1,6 +1,6 @@
 
 index: hide
-space paths
+module paths
 
   let continue >
     {step:next}

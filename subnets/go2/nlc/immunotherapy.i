@@ -1,7 +1,7 @@
 
 / Immunotherapy
 /// The immune system is a collection of unique cells and substances they produce, that act as the body’s defense mechanism against infections and anything ‘foreign.’ Immunotherapy is a treatment modality that employs several different tricks to stimulate the patient’s own immune system to fight their cancer.
-space immunotherapy
+module immunotherapy
 
   ---
     system
@@ -185,7 +185,7 @@ space immunotherapy
     Mechanisms of immune resistance and post-immunotherapy relapse strategies employed by the cancer.
 
   index: hide
-  space h
+  module h
     let system >
       # What is the immune system and how does it work?
     let therapy >

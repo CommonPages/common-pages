@@ -1,7 +1,10 @@
 
 / Lung Cancer Staging
 /// The stage of your lung cancer tells your oncologist the size of the primary tumor, the number of lymph nodes with cancer cells in them, and if the cancer has spread to other organs. Knowing the stage of the lung cancer is critical because the stage of lung cancer will help you and your oncologist determine the types of treatment that will be most effective for you.
-space staging
+module staging
+  <<
+    $os-cancer.treat.classif.stage
+
   >>>
     In addition to grading the tumor, your healthcare team will also stage your lung cancer. 
 
@@ -56,7 +59,7 @@ space staging
     While staging is a useful classification, it is important to remember that you must discuss these stages with your healthcare team who will help you understand what the stage means in the context of your specific diagnosis and treatment plan. 
 
   index: hide
-  space h
+  module h
     let intro >
       # What does the stage of my lung cancer mean?
     let tnm >

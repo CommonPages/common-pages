@@ -2,10 +2,17 @@
 id: "$go2"
 name: "GO2"
 lead: "Founded by patients and survivors, we are transforming what it means to live with lung cancer and increase the survival rate of the world’s number one cancer killer."
+description: "The GO2 App will help you know what to expect during the lung cancer process. We want to help you understand your disease."
 theme:
   logo: "//static.theinsight.cloud/icons/pti.ico"
+  color:
+    r: 101
+    g: 62
+    b: 94
 links:
   - text: Home
     location: "/go2"
 network: "theinsight.app"
 authorize:
+use:
+  - "$os-cancer"

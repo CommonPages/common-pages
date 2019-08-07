@@ -1,7 +1,9 @@
 
 / Disease Overview
 /// In a healthy body, normal cells grow, mature, and eventually die and are replaced by other healthy cells. Occasionally, abnormal cells in the body begin to develop and grow. When we talk about lung cancer, we are talking about this out-of-control, malignant growth that starts in the lung tissue.
-space overview
+module overview
+  <<
+    $os-cancer.sci
 
   ---
     intro
@@ -97,7 +99,7 @@ space overview
     Sarcoma is another extremely rare cancer that is seen in about 1% of all lung cancers. Typically, a sarcoma is found in bone or other soft tissues. The sarcoma is different from other tumors because of the cells in which it grows. For more information on sarcoma, visit the Sarcoma Foundation of America at http://www.curesarcoma.org/index.php/patient_resources/.7
 
   index: hide
-  space h
+  module h
     let intro >
       # What is lung cancer? 
     let causes >

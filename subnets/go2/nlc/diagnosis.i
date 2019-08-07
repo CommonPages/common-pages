@@ -1,7 +1,10 @@
 
 / Diagnosis Process
 /// If your doctor found a spot on your lung: take a deep breath and know that this spot may not be lung cancer; it may be something such as a benign (non-cancerous) nodule, infection, or many other things. The next steps in the process will help your doctor determine, or diagnose, the problem.
-space diagnosis
+module diagnosis
+  <<
+    $os-cancer.treat.process
+    $os-cancer.treat.eval
 
   ---
     spot
@@ -291,7 +294,7 @@ space diagnosis
     If you live in an area far from a cancer center or major medical center, you may want to travel to have a second opinion or to access more resources. A medical oncologist at a major medical center may be willing to work with your local oncologist to ensure that you get the most advanced care as possible at your local hospital or clinic. If you are unable to travel to a cancer center or major medical center, ask your local oncologist for help identifying the resources you need to manage your treatment course. We are here to help; feel free to contact us at ALCF at 1-650-598-2857 for information on local resources.
 
   index: hide
-  space h
+  module h
     let spot >
       # My doctor found a spot on my lung – What happens next?
     let radiographic >

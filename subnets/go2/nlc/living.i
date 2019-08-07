@@ -2,7 +2,7 @@
 # /// As your health status and treatment plans change, the care you receive will also change. During these periods of change, you may have problems moving from one phase into the next. Your healthcare team should help you move between phases by working with you to create a Transitional Care Plan.
 
 / Living With Lung Cancer
-space living
+module living
   >>>
     When you are diagnosed with lung cancer and start receiving treatments, you begin to realize the many changes that are happening in your life. As your health status and treatment plans change, the care you receive will also change. During these periods of change, you may have problems moving from one phase into the next. Your healthcare team should help you move between phases by working with you to create a Transitional Care Plan.
 
@@ -98,7 +98,7 @@ space living
     According to the MD Anderson Cancer Center, these therapies may or may not be useful “...to promote wellness, manage symptoms associated with cancer and its treatment, or treat cancer. When properly combined with standard cancer treatments, some complementary therapies can enhance wellness and quality of life.” However, others may be harmful or actually interfere with your medical treatment. It is imperative to discuss any of these alternative treatments with your team as your complementary or alternative therapy may interfere with your standard cancer care.
 
   index: hide
-  space h
+  module h
     let transition >
       # Transitional Care Planning
     let assessments >

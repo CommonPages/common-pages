@@ -1,7 +1,9 @@
 
 / Treatments
 /// Your individual treatment plan will depend on the type of lung cancer, its stage and your overall health. Possible treatments for lung cancer include surgery, chemotherapy, radiation therapy, targeted therapy, immunotherapy or a combination of these.
-space treatments
+module treatments
+  <<
+    $os-cancer.treat.therapy
 
   ---
     overview
@@ -436,7 +438,7 @@ space treatments
     Compared with standard radiation treatment, proton therapy has several benefits. It reduces the risk of radiation damage to healthy tissues; may allow a higher radiation dose to be directed at some types of tumors, which may keep the tumor from growing or spreading; and may result in fewer and less severe side effects (such as low blood counts, fatigue, and nausea) during and after treatment.
 
   index: hide
-  space h
+  module h
     let overview >
       # Treatments - Overview
     let surgery >

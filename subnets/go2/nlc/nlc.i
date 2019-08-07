@@ -1,4 +1,5 @@
 
+home:
 public: nlc-360
 / Navigating Lung Cancer
 // Navigating Lung Cancer: 360° of Hope
@@ -10,7 +11,6 @@ book nlc
   ^^
     paths.spot
     paths.diagnosis
-    paths.life
 
   --
     overview
