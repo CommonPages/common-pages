@@ -10,6 +10,9 @@ model SecondarySite
 /// Lymph Node Involvement, or simply nodal involvement, refers to the presence of cancer cells in lymph nodes.
 model NodalInvolvement
   # https://www.breastcancer.org/symptoms/diagnosis/lymph_nodes
+  <<
+    *LymphSys
+    LymphNode
 
   # Microscopic (or minimal): Only a few cancer cells are in the node. A microscope is needed to find them.
   # Gross (also called significant or macroscopic): There is a lot of cancer in the node. You can see or feel the cancer without a microscope.

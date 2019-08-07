@@ -1,4 +1,17 @@
-debug:
+let *mediastinal mean $os-life.system.energy.resp.struct.Mediastinum
+let *nodes mean $os-life.system.organ.LymphNode
+let *lymph_nodes mean $os-life.system.organ.LymphNode
+
+let *stage mean $os-cancer.treat.classif.stage
+let *N2 mean $os-cancer.lib.classif.stage.TNM.N2
+
+let *Neoadjuvant mean $os-cancer.lib.NeoadjuvantTherapy
+let *evaluate mean $os-cancer.lib.Evaluation
+let *survival mean $os-cancer.lib.Survival
+let *malignant mean $os-cancer.lib.Malignancy
+
+
+home:
 / Non-Small Cell Lung Cancer: Discussion
 /// The management of NSCLC varies depending on the stage, histology, presence of genetic alterations, and performance status. Accurate pathologic assessment and staging are essential.
 . Discussion
@@ -1301,34 +1314,37 @@ debug:
       / Stage IIIA N2 Disease 
       /// Randomized controlled trials suggest that surgery does not increase survival in patients with pathologically documented stage IIIA (N2) disease. However, the NCCN Panel believes that surgery may be appropriate for select patients with N2 disease.
       . Stage3an2
+        <<
+          *stage
+          *N2
 
         /// Randomized controlled trials suggest that surgery does not increase survival in patients with pathologically documented stage IIIA (N2) disease. However, most clinicians agree that resection is appropriate for some patients.
         line !1
-          += The role of surgery in patients with pathologically documented stage IIIA (N2) disease is described in the NSCLC algorithm (see Principles of Surgical Therapy in the NCCN Guidelines for NSCLC) and summarized here.
-          += Before treatment, it is essential to carefully evaluate for N2 disease using radiologic and invasive staging (ie, EBUS-guided procedures, mediastinoscopy, thorascopic procedures) and to discuss whether surgery is appropriate in a multidisciplinary team, which should include a board-certified thoracic surgeon.
+          += The role of surgery in patients with pathologically documented *stage IIIA (*N2) disease is described in the NSCLC algorithm (see Principles of Surgical Therapy in the NCCN Guidelines for NSCLC) and summarized here.
+          += Before treatment, it is essential to carefully *evaluate for N2 disease using radiologic and invasive staging (ie, EBUS-guided procedures, mediastinoscopy, thorascopic procedures) and to discuss whether surgery is appropriate in a multidisciplinary team, which should include a board-certified thoracic surgeon.
             \
               > '22570291
               > '19324119
-          += Randomized controlled trials suggest that surgery does not increase survival in these patients.
+          += Randomized controlled trials suggest that surgery does not increase *survival in these patients.
             \
               > '19632716
               > '17374834
           += However, one of these trials (EORTC) only enrolled patients with unresectable disease.
             \ '17374834
-          += Most clinicians agree that resection is appropriate for patients with negative preoperative mediastinal nodes and with a single positive node (<3 cm) found at thoracotomy.
+          += Most clinicians agree that resection is appropriate for patients with negative preoperative *mediastinal *nodes and with a single positive node (<3 cm) found at thoracotomy.
             \ '18640297
-          += Neoadjuvant (preoperative) therapy is recommended for select patients.
+          += *Neoadjuvant (preoperative) therapy is recommended for select patients.
           ~= The optimal timing of RT in trimodality therapy (preoperative with chemotherapy or postoperative) is not established and controversial.
             \
               > '25862147
               > '22632486
-          ~= In patients with N2 disease, 50% of the NCCN Member Institutions use preoperative chemoradiotherapy whereas 50% use preoperative chemotherapy.
+          ~= In patients with *N2 disease, 50% of the NCCN Member Institutions use preoperative chemoradiotherapy whereas 50% use preoperative chemotherapy.
             \
               > '18583190
               > '19467798
-          += There is no evidence that adding RT to induction regimens improves outcomes for patients with stage IIIA (N2) disease when compared with using chemotherapy alone.
+          += There is no evidence that adding RT to induction regimens improves outcomes for patients with *stage IIIA (*N2) disease when compared with using chemotherapy alone.
             \ '22632486
-          += Clinicians also agree that resection is not appropriate for patients with multiple pathologically proven malignant lymph nodes greater than 3 cm; definitive chemoradiotherapy is recommended for these patients.
+          += Clinicians also agree that resection is not appropriate for patients with multiple pathologically proven *malignant *lymph_nodes greater than 3 cm; definitive chemoradiotherapy is recommended for these patients.
 
         /// The NCCN Panel believes that surgery may be appropriate for select patients with N2 disease, especially those whose disease responds to induction chemotherapy.
         line !2

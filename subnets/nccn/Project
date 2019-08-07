@@ -22,3 +22,4 @@ authorize:
 use:
   - "$pubmed"
   - "$os-cancer"
+  - "$os-life"

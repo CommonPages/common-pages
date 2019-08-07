@@ -36,6 +36,5 @@ let *Levels mean $os-life.basis.Structure
 let *Functions mean $os-life.basis.Functions
 
 let *FluidSys mean $os-life.system.fluid
-
 let *LymphSys mean $os-life.system.fluid.lymph
 let *CardioSys mean $os-life.system.fluid.cardio
