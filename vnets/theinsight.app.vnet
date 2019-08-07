@@ -28,9 +28,6 @@ subnets:
   # - "$pti-cancer"
   - "$pubmed"
 featured:
-    - "$os-life"
-    - "$os-cancer"
-    - "$os-nsclc"
-    - "$nci"
-    - "$nccn"
-    - "$go2"
+  - "$os-life"
+  - "$os-cancer"
+  - "$nccn"

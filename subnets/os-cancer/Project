@@ -2,8 +2,20 @@
 id: "$os-cancer"
 name: "Cancer"
 lead: "Cancer is a group of diseases characterized by uncontrolled growth and spread of abnormal cells. If the spread is not controlled, it can result in death."
+description: "The Cancer App describes the science and treatment of cancer in general, from diagnosis to evaluation, therapy and surveillance."
 theme:
   logo: "//static.theinsight.cloud/icons/pti.ico"
+  color:
+    r: 238
+    g: 153
+    b: 136
+    # r: 170
+    # g: 170
+    # b: 170
+    # purple
+    # r: 136
+    # g: 153
+    # b: 255
 # links:
 #  - text: Home
 #    location: "/os-cancer"

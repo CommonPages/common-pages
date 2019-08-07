@@ -1,9 +1,14 @@
 
 id: "$os-life"
-name: "Human Life"
+name: "Life"
 lead: "The human body is is composed of many different types of cells that together create tissues and organ systems. These biological structures work together to maintain life."
+description: "The Life App offers core concepts in human anatomy and physiology, from cells to tissues, organs and organ systems."
 theme:
   logo: "//static.theinsight.cloud/icons/pti.ico"
+  color:
+    r: 104
+    g: 157
+    b: 246
 # links:
 #  - text: Home
 #    location: "/os"

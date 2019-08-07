@@ -1,10 +1,16 @@
 
 id: "$nccn"
-name: "NCCN"
-title: "The National Comprehensive Cancer Network"
+name: "Lung Cancer"
+# name: "NCCN"
+# title: "The National Comprehensive Cancer Network"
 lead: "The National Comprehensive Cancer Network® (NCCN®) is a not-for-profit alliance of 28 leading cancer centers devoted to patient care, research, and education."
+description: "The Lung Cancer App reflects the latest treatment algorithm utilized by the National Comprehensive Care Network, along with supporting research."
 theme:
   logo: "//static.theinsight.cloud/icons/pti.ico"
+  color:
+    r: 111
+    g: 182
+    b: 130
 links:
   - text: Home
     location: "/nccn"

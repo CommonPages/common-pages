@@ -1,9 +1,14 @@
 
 id: "$os-nsclc"
-name: "OS - Lung Cancer"
+name: "Lung Cancer"
 lead: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+description: "The Lung Cancer App reflects the latest treatment algorithm utilized by the National Comprehensive Care Network, along with supporting research."
 theme:
   logo: "//static.theinsight.cloud/icons/pti.ico"
+  color:
+    r: 238
+    g: 153
+    b: 136
 # links:
 #  - text: Home
 #    location: "/os-nsclc"
