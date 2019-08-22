@@ -1,4 +1,3 @@
-$os-ap
 $os-bio
 $os-bioconcepts
 $os-chem
