@@ -1,4 +1,3 @@
-$os-bio
 $os-bioconcepts
 $os-chem
 $os-microbio
