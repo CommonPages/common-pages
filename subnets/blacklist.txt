@@ -1,4 +1,3 @@
-$os-bioconcepts
 $os-chem
 $os-microbio
 $os-physics
