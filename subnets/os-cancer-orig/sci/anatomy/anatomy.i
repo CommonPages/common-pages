@@ -1,27 +1,4 @@
 
-
-/ Life Science: Concepts for Cancer
-model LifeSci
-
-  model Structure
-
-  model Functions
-
-  model Requirements
-
-  model Homeostasis
-
-  model Chemical
-
-  model Genes
-
-  model Cells
-
-  model Tissues
-
-  model Organs
-
-
 / The Anatomy of Cancer
 /// Cancer is a group of life threatening diseases that enable abnormal growth. Beginning with damage at the molecular level, cancer progresses through several stages of abnormal growth until the body can no longer sustain life.
 line anatomy

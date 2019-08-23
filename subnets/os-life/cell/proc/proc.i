@@ -36,7 +36,11 @@
   model CellDivision
     # https://en.wikipedia.org/wiki/Cell_division
     <<
-      CellCycle
+      cell
+      cell.celldiv
+
+    >>>
+      {image:'Figure_3_5_3}
 
   /// During terminal differentiation, a precursor cell formerly capable of cell division, permanently leaves the cell cycle, dismantles the cell cycle machinery and often expresses a range of genes characteristic of the cell's final function.
   model TerminalDifferentiation
@@ -162,6 +166,14 @@
   model DNAReplication
     # https://en.wikipedia.org/wiki/DNA_replication
 
+    >>>
+      {image:'Figure_3_3_6}
+
+    --
+      Initiation
+      Elongation
+      Termination
+
     / Replication Initiation
     // DNA Replication Stage 1: Initiation
     /// The two complementary strands are separated, much like unzipping a zipper. Special enzymes, including helicase, untwist and separate the two strands of DNA.
@@ -177,9 +189,22 @@
     /// Once the two original strands are bound to their own, finished, complementary strands, DNA replication is stopped and the two new identical DNA molecules are complete.
     model Termination
 
-  /// The cell cycle, or cell-division cycle, is the series of events that take place in a cell leading to duplication of its DNA (DNA replication) and division of cytoplasm and organelles to produce two daughter cells.
+  /// The cell cycle, or cell-division cycle, is the series of events that take place in a cell leading to duplication of its DNA (DNA replication) and division to produce two daughter cells.
   model CellCycle
     # https://en.wikipedia.org/wiki/Cell_cycle
+
+    <<
+      Cell
+      DNAReplication
+      CellDivision
+
+    >>>
+      {image:'Figure_3_5_3}
+
+    --
+      CellCyclePhases
+      Checkpoint
+
 
   /// The eukaryotic cell cycle consists of four distinct phases: G<sub>1</sub> phase, S phase (synthesis), G<sub>2</sub> phase (collectively known as interphase) and M phase (the mitotic phase).
   model CellCyclePhases
@@ -188,11 +213,16 @@
       Interphase
       MitoticPhase
 
+    >>>
+      {image:'Figure_3_5_1}
+
   / Cell Cycle Checkpoint
   /// Cell cycle checkpoints are control mechanisms which ensure proper division of the cell. Each checkpoint serves as a potential point along the cell cycle, during which the conditions of the cell are assessed, with progression through the various phases of the cell cycle occurring when favorable conditions are met.
   model Checkpoint
     # https://en.wikipedia.org/wiki/Cell_cycle_checkpoint
     # https://en.wikipedia.org/wiki/Cell_cycle#Checkpoints
+    >>>
+      {image:'Figure_3_5_4}
 
   ///  Interphase is the 'daily living' or metabolic phase of the cell, in which the cell obtains nutrients and metabolizes them, grows, reads its DNA, and conducts other "normal" cell functions. Interphase is the phase of the cell cycle in which a typical cell spends most of its life.
   model Interphase

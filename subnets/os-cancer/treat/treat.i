@@ -1,5 +1,6 @@
 
-/ The Treatment of Cancer
+/ Cancer Treatment
+// Cancer Treatment: Controlling the Disease
 /// In many cases, cancer can be controlled. The latest therapeutic strategies utilize detailed classifications of disease to tailor treatment. Success is most often measured in terms of prolonged survival.
 module treat
 
@@ -11,7 +12,8 @@ module treat
     eval
     therapy
 
-  / Classifications of Cancer
+  / Classifications
+  // Classifications of Cancer
   /// Cancers are classified by the organs and tissues that they affect, and by the degree of abnormality in malignant cells. These features are combined into a shorthand classification called a stage. Cancers are also described by key molecular features which can be used to personalize treatment.
   module classif
     >>>
@@ -21,13 +23,13 @@ module treat
     --
       sites
     >>>
-      The sites of disease are usually the first aspect to be identified, often using non-invasive medical imaging techniques. After identifying the primary site, samples are typically extracted and examined under a microscope to determine the tissues and cells of origin. This designation is called the *histological type*.
+      The sites of disease are usually the first aspect to be identified, often using non-invasive medical imaging techniques. After identifying the primary site, samples are typically extracted and examined under a microscope to determine the {*tissues} and {*cells} of origin. This designation is called the *histological type*.
     --
       histol
     >>>
       The histological types of cancer end with "-oma"—as in, carcinoma, sarcoma, and lymphoma.
 
-      Because malignant cells are abnormal, they often appear substantially different to their healthy ancestors when viewed under a microscope. Once the healthy ancestor is determined (i.e. the histological type) they are compared to malignant cells. The extent of their difference is measured by the *tumor grade*.
+      Because {*malignant} cells are abnormal, they often appear substantially different to their healthy ancestors when viewed under a microscope. Once the healthy ancestor is determined (i.e. the histological type) they are compared to malignant cells. The extent of their difference is measured by the *tumor grade*.
     --
       grade
     >>>
@@ -263,6 +265,7 @@ module treat
           Distant
           UnknownStage
 
+    —
     / Molecular Profile
     /// A cancer's molecular profile indicates the most granular details about a specific disease at the cellular level, in particular the known genetic abnormalities causing the malignancy.
     module molecpro
@@ -330,7 +333,9 @@ module treat
       # / Important
       # module features
 
-  / Evaluation of Cancer
+  —
+  / Evaluation
+  // Evaluation of Cancer
   /// Evaluation is the process by which physicians obtain a detailed classification of disease following an initial diagnosis. This entails many procedures, particularly medical imaging, biopsy and molecular testing.
   module eval
 
@@ -424,6 +429,8 @@ module treat
     / Chemosensitivity Testing
     module chemosens
 
-  / Cancer Therapy
+  —
+  / Therapy
+  // Cancer Therapy
   /// In most cases, treatment choices will be heavily influenced by the results of a thorough evaluation. Therapeutic strategies include the removal of malignant tissue, the destruction of malignant cells, and other attempts to control their behavior.
   module therapy

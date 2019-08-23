@@ -4,10 +4,16 @@
   /// Cancer is a group of diseases involving abnormal cell growth with the potential to invade or spread to other parts of the body.
   model Cancer
     # https://en.wikipedia.org/wiki/Cancer
+    <<
+      *cell
+      Invasion
+      Metastasis
 
   /// A neoplasm is a type of abnormal and excessive growth of tissue. The growth of a neoplasm is uncoordinated with that of the normal surrounding tissue.
   model Neoplasm
     # https://en.wikipedia.org/wiki/Neoplasm
+    <<
+      *tissue
 
     # This abnormal growth usually (but not always) forms a mass.[4] When it forms a mass, it may be called a tumor.
     # ICD-10 classifies neoplasms into four main groups: benign neoplasms, in situ neoplasms, malignant neoplasms, and neoplasms of uncertain or unknown behavior.[5] Malignant neoplasms are also simply known as cancers and are the focus of oncology.
@@ -26,8 +32,8 @@
   model BenignTumor
     # https://en.wikipedia.org/wiki/Benign_tumor
     <<
-      Cell
-      Tissue
+      *cell
+      *tissue
       Invasion
       Metastasis
 
@@ -39,11 +45,15 @@
   model Invasion
     # https://en.wikipedia.org/wiki/Invasion_(cancer)
     <<
-      Tissue
+      *tissue
 
   /// Metastasis is the spread of cancer from an initial or primary site to a distant or secondary site within the body. The newly diseased sites are called metastases.
   model Metastasis
     # https://en.wikipedia.org/wiki/Metastasis
+    <<
+      Cancer
+      PrimarySite
+      SecondarySite
 
   /// An oncogene is a gene that has the potential to cause cancer. In tumor cells, they are often mutated or expressed at high levels.
   model Oncogene

@@ -4,6 +4,11 @@ import assets.nlm.genemut._
 /// A mutation is a change in the nucleotide sequence in a gene within a cell’s DNA, potentially altering the protein coded by that gene.
 model GeneMutation
   # https://en.wikipedia.org/wiki/Mutation
+  <<
+    Gene
+    Nucleotide
+    DNA
+    Protein
 
   # https://en.wikipedia.org/wiki/File:Chromosomes_mutations-en.svg
 

@@ -28,6 +28,15 @@ import $os-life.system.fluid.proc._
 import $os-life.system.fluid.lymph._
 import $os-life.system.fluid.cardio.lib._
 
+let *organ_systems mean $os-life.system
+let *organ_system mean $os-life.system
+let *tissues mean $os-life.tissue
+let *tissue mean $os-life.tissue
+let *cells mean $os-life.cell
+let *cell mean $os-life.cell
+let *chemicals mean $os-life.chem
+let *chemical mean $os-life.chem
+
 let *ProteinSynthesis mean $os-life.cell.proteinsynth
 
 let *NegativeFeedback mean $os-life.basis.Homeostasis.NegativeFeedback

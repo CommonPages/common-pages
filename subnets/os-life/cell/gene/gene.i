@@ -1,12 +1,17 @@
 
 . gene
 
-  /// Deoxyribonucleic acid is a molecule composed of two chains that coil around each other to form a double helix. DNA carries genetic instructions for the development, functioning, growth and reproduction of all known organisms.
+  /// Deoxyribonucleic acid (DNA) is a unique molecule that carries genetic instructions for the development, functioning, growth and reproduction of all known organisms.
   model DNA
+    >>>
+      {image:'Figure_3_3_4}
 
   / DNA Base Pair
   /// A base pair is a unit consisting of two nucleobases bound to each other by hydrogen bonds. They form the building blocks of the DNA double helix and contribute to the folded structure of both DNA and RNA.
   model DNABasePair
+    <<
+      DNA
+      Nucleotide
 
   / DNA Polymerase
   /// DNA polymerase is an enzyme that synthesizes DNA molecules from deoxyribonucleotides, the building blocks of DNA. These enzymes are essential for DNA replication and usually work in pairs to create two identical DNA strands from a single original DNA molecule. During this process, DNA polymerase "reads" the existing DNA strands to create two new strands that match the existing ones.
@@ -34,6 +39,13 @@
   /// A chromosome is a DNA molecule with part or all of the genetic material (genome) of an organism.
   # Most chromosomes include packaging proteins which bind to and condense the DNA molecule to prevent it from becoming an unmanageable tangle.
   model Chromosome
+    url: https://upload.wikimedia.org/wikipedia/commons/e/e2/Eukaryote_DNA-en.svg
+    width: 1130
+    height: 713
+    image 'chromosome
+
+    >>>
+      {image:'chromosome}
 
   /// A chromatid is a chromosome that has been newly copied or the copy of such a chromosome, the two of them still joined to the original chromosome by a single centromere.
   model Chromatid
@@ -56,6 +68,17 @@
 
   /// A gene is a functional segment of DNA that provides the genetic information necessary to build a protein. Each particular gene provides the code necessary to construct a particular protein.
   model Gene
+    <<
+      DNA
+      GeneticCode
+      Protein
+
+    url: https://upload.wikimedia.org/wikipedia/commons/2/2b/Chromosome_DNA_Gene.svg
+    width: 1200
+    height: 658
+    image 'gene
+    >>>
+      {image:'gene}
 
   /// A gene family is a set of several similar genes, formed by duplication of a single original gene, and generally with similar biochemical functions.
   model GeneFamily
@@ -63,6 +86,13 @@
 
   /// Gene expression is the process by which information from a gene is used in the synthesis of a functional gene product.
   model GeneExpression
+    <<
+      Gene
+      cell.proteinsynth
+
+
+    >>>
+      {image:'Figure_3_4_1}
 
   /// A gene product is the biochemical material, either RNA or protein, resulting from expression of a gene.
   # These products are often proteins, but in non-protein coding genes such as transfer RNA (tRNA) or small nuclear RNA (snRNA) genes, the product is a functional RNA.
@@ -119,6 +149,10 @@
   # Homologs have the same genes in the same loci where they provide points along each chromosome which enable a pair of chromosomes to align correctly with each other before separating during meiosis. One homologous chromosome is inherited from the organism's mother; the other is inherited from the organism's father.
   model HomologousChromosomes
     # https://en.wikipedia.org/wiki/Homologous_chromosome
+    <<
+      Chromosome
+    >>>
+      {image:'Figure_3_5_2}
 
   /// A transcription factor (TF) is a protein that controls the rate of transcription of genetic information from DNA to messenger RNA, by binding to a specific DNA sequence. The function of TFs is to regulate—turn on and off—genes in order to make sure that they are expressed in the right cell at the right time and in the right amount throughout the life of the cell and the organism.
   model TranscriptionFactor

@@ -1,5 +1,6 @@
 
-/ The Science of Cancer
+/ Cancer Science
+// Cancer Science: Origins and Progression
 /// Cancer is a group of diseases characterized by uncontrolled growth and spread of abnormal cells. All cancers originate with damage to genes, creating cells that grow and spread in a pattern known as malignant progression.
 module sci
 
@@ -13,6 +14,7 @@ module sci
     prevention
 
   / Characteristics of Cancer
+  // Characteristics of Cancer
   /// Cancer is a group of diseases characterized by uncontrolled growth and spread of abnormal cells. If the spread is not controlled, it can result in death.
   module characteristics
     >>>
@@ -20,7 +22,7 @@ module sci
     --
       *Levels
     >>>
-      Higher levels of organization are built from lower levels. The organism is built from {*Levels.SystemLevel organ systems}. Organ systems are built from {*Levels.OrganLevel organs}. Organs are built from {*Levels.TissueLevel tissues}. Tissues are built from {*Levels.CellularLevel cells}. Cells are built from {*Levels.ChemicalLevel chemicals}.
+      Higher levels of organization are built from lower levels. The organism is built from {*organ_systems}. Organs are built from {*tissues}. Tissues are built from {*cells}. Cells are built from {*chemicals}.
 
       Cells are the structural units of all living things.
     --
@@ -54,6 +56,7 @@ module sci
     # >>>
     #   Although cancer is often referred to as a single condition, it actually consists of more than 100 different diseases. Cancer can arise in many sites and behave differently depending on its organ of origin. Breast cancer, for example, has different characteristics than those of lung cancer. It is important to understand that cancer originating in one body organ takes its characteristics with it even if it spreads to another part of the body. For example, metastatic breast cancer in the lungs continues to behave like breast cancer when viewed under a microscope, and it continues to look like a cancer that originated in the breast.
 
+  / Origins
   / Origins of Cancer
   /// All cancers originate with damage to genes which regulate the division, growth, movement, and death of cells. How a specific cancer behaves depends on which processes are no longer functioning normally.
   module origins
@@ -256,7 +259,8 @@ module sci
       >>>
         It is a multistep process that starts with local invasion of the cells into the surrounding tissues. They then have to invade blood vessels, survive in the harsh environment of the circulatory system, exit this system and then start dividing in the new tissue.
 
-  / Progression of Cancer
+  / Progression
+  // Progression of Cancer
   /// The progression from normal cells to cells that can form a detectable mass to outright cancer involves multiple steps known as malignant progression.
   module progression
     >>>
@@ -317,7 +321,8 @@ module sci
 
     # A cancer is always described in terms of the primary site, even if it has spread to another part of the body. For instance, advanced breast cancer that has spread to the lymph nodes under the arm and to the bone and lungs is always considered breast cancer.
 
-  / Controlling Cancer
+  / Control
+  // Controlling Cancer
   /// The progression of cancer can in principle be controlled, but in most cases a definitive cure is not possible. In some cases cancer may be effectively managed as a chronic condition.
   module control
     >>>
@@ -379,7 +384,8 @@ module sci
       Treatment of recurrence or progression (also called "subsequent treatment") includes all cancer-directed treatments administered after the first course of treatment is completed, stopped, or changed. For the date of "Subsequent Treatment(s) For Recurrence or Progression," the date(s) of treatment(s) administered for progression or recurrence of disease is(are) recorded. In short, subsequent treatment starts after the first course of treatment has been completed, stopped, or changed.
 
   —
-  / Preventing Cancer
+  / Prevention
+  // Preventing Cancer
   /// Cancer occurs as a result of many processes. Some of these processes fall within our influence, while others are inherent to our biology.
   module prevention
     --

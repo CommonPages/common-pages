@@ -7,6 +7,8 @@
 
   /// Deoxyribonucleic acid (DNA) is nucleotide that stores genetic information.
   model DNA
+    >>>
+      {image:'Figure_3_3_4}
 
   /// Ribonucleic acid (RNA) is a ribose-containing nucleotide that helps manifest the genetic code as protein.
   model RNA

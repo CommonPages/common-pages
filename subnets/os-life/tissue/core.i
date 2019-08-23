@@ -6,8 +6,11 @@
     # https://simple.wikipedia.org/wiki/Tissue
     <<
       tissue
-      Cell
-      Molecule
+      cell
+      chem
+
+    >>>
+      {image:'Figure_4_2_2}
 
   /// The parenchyma is the functional parts of an organ in the body. This is in contrast to the stroma, which refers to the structural tissue of organs, namely, the connective tissues.
   model Parenchyma
