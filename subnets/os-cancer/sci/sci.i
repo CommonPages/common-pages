@@ -18,11 +18,7 @@ module sci
   /// Cancer is a group of diseases characterized by uncontrolled growth and spread of abnormal cells. If the spread is not controlled, it can result in death.
   module characteristics
     >>>
-      Life processes of the human body are maintained at several *levels of organization*.
-    --
-      *Levels
-    >>>
-      Higher levels of organization are built from lower levels. The organism is built from {*organ_systems}. Organs are built from {*tissues}. Tissues are built from {*cells}. Cells are built from {*chemicals}.
+      The human body is organized at several {*Levels levels} that are important in defining cancer. Life is sustained by {*organ_systems}. Organs are built from {*tissues}. Tissues are built from {*cells}. Cells are built from {*chemicals}.
 
       Cells are the structural units of all living things.
     --
@@ -57,7 +53,7 @@ module sci
     #   Although cancer is often referred to as a single condition, it actually consists of more than 100 different diseases. Cancer can arise in many sites and behave differently depending on its organ of origin. Breast cancer, for example, has different characteristics than those of lung cancer. It is important to understand that cancer originating in one body organ takes its characteristics with it even if it spreads to another part of the body. For example, metastatic breast cancer in the lungs continues to behave like breast cancer when viewed under a microscope, and it continues to look like a cancer that originated in the breast.
 
   / Origins
-  / Origins of Cancer
+  // Origins of Cancer
   /// All cancers originate with damage to genes which regulate the division, growth, movement, and death of cells. How a specific cancer behaves depends on which processes are no longer functioning normally.
   module origins
     >>>

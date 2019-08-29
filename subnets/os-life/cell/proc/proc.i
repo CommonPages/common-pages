@@ -213,6 +213,8 @@
       Interphase
       MitoticPhase
 
+    # https://commons.wikimedia.org/wiki/File:Cell_Cycle_3-4.svg
+    
     >>>
       {image:'Figure_3_5_1}
 
