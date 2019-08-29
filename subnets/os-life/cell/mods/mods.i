@@ -293,8 +293,9 @@ module cytoplasm
   ^^
     InBrief
 
+  # {image-right:'Figure_3_2_1} 
   >>>
-    {image-right:'Figure_3_2_1} All living cells in multicellular organisms contain an internal cytoplasmic compartment, and a nucleus within the cytoplasm. {Cytosol}, the jelly-like substance within the cell, provides the fluid medium necessary for biochemical reactions. Eukaryotic cells, including all animal cells, also contain various cellular organelles. An {Organelle organelle} (“little organ”) is one of several different types of membrane-enclosed bodies in the cell, each performing a unique function. Just as the various bodily organs work together in harmony to perform all of a human’s functions, the many different cellular organelles work together to keep the cell healthy and performing all of its important functions. The organelles and cytosol, taken together, compose the cell’s cytoplasm. The nucleus is a cell’s central organelle, which contains the cell’s DNA.
+    All living cells in multicellular organisms contain an internal cytoplasmic compartment, and a nucleus within the cytoplasm. {Cytosol}, the jelly-like substance within the cell, provides the fluid medium necessary for biochemical reactions. Eukaryotic cells, including all animal cells, also contain various cellular organelles. An {Organelle organelle} (“little organ”) is one of several different types of membrane-enclosed bodies in the cell, each performing a unique function. Just as the various bodily organs work together in harmony to perform all of a human’s functions, the many different cellular organelles work together to keep the cell healthy and performing all of its important functions. The organelles and cytosol, taken together, compose the cell’s cytoplasm. The nucleus is a cell’s central organelle, which contains the cell’s DNA.
 
   --
     endomemsys
