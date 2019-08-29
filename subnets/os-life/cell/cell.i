@@ -13,9 +13,6 @@ module cell
     {image:$os-ap.Figures.'Figure_3_2_1}
 
   --
-    Cell
-
-  --
     membrane
     cytoplasm
     nucleus
