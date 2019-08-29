@@ -7,9 +7,12 @@ description: "The Cancer App describes the science and treatment of cancer in ge
 theme:
   logo: "//static.theinsight.cloud/icons/pti.ico"
   color:
-    r: 213
-    g: 67
-    b: 76
+    r: 104
+    g: 157
+    b: 246
+    # r: 213
+    # g: 67
+    # b: 76
     # r: 170
     # g: 170
     # b: 170
