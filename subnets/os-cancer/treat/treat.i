@@ -1,6 +1,6 @@
 
 / Cancer Treatment
-// Cancer Treatment: Controlling the Disease
+// The Treatment of Cancer
 /// In many cases, cancer can be controlled. The latest therapeutic strategies utilize detailed classifications of disease to tailor treatment. Success is most often measured in terms of prolonged survival.
 module treat
 

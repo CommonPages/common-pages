@@ -1,14 +1,35 @@
 
+# The Science of Cancer
+# The Treatment Process
+# The Prognostic Process
+# The Standard of Care
+# Beyond the Standard of Care
 
+>>>
+  Once regarded as a single disease, recent advances in genetic technology have triggered a new wave of progress in the science of cancer. The essential insight for every patient is this: *every tumor is unique*.
 --
   sci
+>>>
+  Many of the most powerful new treatments take advantage of this insight into the genetic origins of cancer. The outlook for many patients is improving, but the health care system has not yet adapted to the new rate of change. It has never been more important for patients to *understand the treatment process*.
+--
   treat
+>>>
+  Now, in many cases the most important factors influencing survival are not the site or subtype of disease, but rather its unique genetic makeup. These developments have made the process of *predicting outcomes* more complex than ever.
+--
   data
-  eco
+>>>
+  Therapies designed to target specific genetic mutations are now incorporated into the *standard of care*, which is formally defined in documents made for health care professionals called "treatment algorithms." Despite this documentation, many patients do not receive the standard of care.
+--
+  standard
+>>>
+  In many cases the standard is good enough. In some cases, however, the *standard* care does not represent the *best* care. The standard treatment algorithms include only those treatments that have reached the end of the clinical approval process. New regulations have given patients the *right to try* a treatment that has not yet obtained full approval, but may offer the patient their best possible chance of survival.
+--
+  rtt
 
 —
-/ Cancer Data: Statistics and Decisions
-/// The biological mechanisms driving cancer are uncertain. Statistical methods play a critical role in individual treatment choices, and in the processes driving improvement in overall cancer survival.
+/ Prognosis
+// The Prognostic Process
+/// A prognosis is a statistical forecast that depends on prior data. Statistical methods play a critical role in individual treatment choices, and in the processes driving improvement in overall cancer survival.
 module data
   --
     survival
@@ -33,6 +54,18 @@ module data
   module prognosis
     --
       Prognosis
+
+—
+/ Standard Care
+// The Standard of Care
+/// The Standard of Care is defined in documents for health care professionals called treatment algorithms. Patients can refer to these documents to ensure that they are receiveing the standard.
+module standard
+
+—
+/ Beyond Standard Care
+// Beyond the Standard of Care
+/// The Right to Try Act provides a way for patients who have been diagnosed with life-threatening diseases to access unapproved treatments under certain conditions.
+module rtt
 
 —
 / Cancer Systems: Rights and Regulations

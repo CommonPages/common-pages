@@ -2,6 +2,16 @@
 /// Proteins are long-chain molecules built from small units known as amino acids. They are joined together with peptide bonds. Proteins are essential to all cells.
 model Protein
   # https://simple.wikipedia.org/wiki/Protein
+  <<
+    Molecule
+    AminoAcid
+    PeptideBond
+    Cell
+    chem.organic.protein
+
+  >>>
+    {image:'Figure_2_5_8}
+
 
 # https://en.wikipedia.org/wiki/Protein_structure#Primary_structure
 /// Protein primary structure is the linear sequence of amino acids in a peptide or protein.

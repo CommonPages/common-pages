@@ -3,6 +3,12 @@
 
   /// Deoxyribonucleic acid (DNA) is a unique molecule that carries genetic instructions for the development, functioning, growth and reproduction of all known organisms.
   model DNA
+    <<
+      Molecule
+      GeneticCode
+      chem.organic.nucleotides
+      cell.nucleus
+
     >>>
       {image:'Figure_3_3_4}
 
@@ -39,6 +45,9 @@
   /// A chromosome is a DNA molecule with part or all of the genetic material (genome) of an organism.
   # Most chromosomes include packaging proteins which bind to and condense the DNA molecule to prevent it from becoming an unmanageable tangle.
   model Chromosome
+    <<
+      DNA
+
     url: https://upload.wikimedia.org/wikipedia/commons/e/e2/Eukaryote_DNA-en.svg
     width: 1130
     height: 713
