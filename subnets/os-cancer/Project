@@ -2,7 +2,7 @@
 id: "$os-cancer"
 name: "Cancer"
 title: "Insight Into Cancer"
-lead: "Every tumor is unique. The standard of care is continually evolving, and the patient now plays a critical role in obtaining the best available treatment."
+lead: "Standards of care are rapidly evolving with advances in biotechnology. Every tumor is unique, and the patient now plays a critical role in securing the best possible treatment."
 description: "The Cancer App describes the science and treatment of cancer in general, from diagnosis to evaluation, therapy and surveillance."
 theme:
   logo: "//static.theinsight.cloud/icons/pti.ico"
