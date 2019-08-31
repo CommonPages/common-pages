@@ -32,11 +32,11 @@
   model CellularDifferentiation
     # https://en.wikipedia.org/wiki/Cellular_differentiation
 
-  /// Cell division is the process by which a parent cell divides into two or more daughter cells. Cell division usually occurs as part of a larger cell cycle.
   model CellDivision
+    let *cell mean cell
+    = Cell division is the process by which a parent *cell divides into two or more daughter cells. Cell division usually occurs as part of a larger cell cycle.
     # https://en.wikipedia.org/wiki/Cell_division
     <<
-      cell
       cell.celldiv
 
     >>>
@@ -214,7 +214,7 @@
       MitoticPhase
 
     # https://commons.wikimedia.org/wiki/File:Cell_Cycle_3-4.svg
-    
+
     >>>
       {image:'Figure_3_5_1}
 

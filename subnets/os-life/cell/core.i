@@ -1,11 +1,13 @@
 index: hide
 . core
 
-  /// The cell is the basic structural, functional, and biological unit of all known living organisms. A cell is the smallest unit of life.
   model Cell
+    let *cell mean cell
+    = The *cell is the basic structural, functional, and biological unit of all known living organisms. A cell is the smallest unit of life.
+
     # https://en.wikipedia.org/wiki/Cell_(biology)
-    <<
-      cell
+    # <<
+    #   cell
 
     >>>
       {image:$os-ap.Figures.'Figure_3_2_1}
