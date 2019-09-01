@@ -10,7 +10,7 @@
 --
   sci
 >>>
-  Many of the most powerful new treatments take advantage of this newfound visibility into the genetic origins of cancer. The outlook for many patients is improving, but the health care system has not yet adapted to the new rate of change. It has never been more important for patients to *understand the treatment process*.
+  Many of the most powerful new treatments take advantage of this newfound visibility into the genetic origins of cancer. The number of personalized treatments is growing quickly, and the outlook for many patients is improving. The health care system, however, has not yet adapted to the new rate of change. It has never been more important for patients to *understand the treatment process*.
 --
   treat
 # >>>
@@ -18,7 +18,7 @@
 # --
 #   data
 >>>
-  Therapies designed to target specific genetic mutations are now incorporated into the *standard of care*, which is formally defined in documents made for health care professionals called "treatment algorithms." Despite this documentation, many patients do not receive the standard of care.
+  Treatments designed to target specific genetic mutations are now incorporated into the *standard of care*, which is formally defined in documents made for health care professionals called "treatment algorithms." Despite this documentation, many patients do not receive the standard of care.
 --
   standard
 >>>

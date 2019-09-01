@@ -11,7 +11,7 @@ module sci
   --
     characteristics
   >>>
-    Specifically, a disease is called {Cancer cancer} when the body's {Cell cells} multiply and spread beyond their normal boundaries.
+    Specifically, a disease is called {Cancer cancer} when abnormal {Cell cells} multiply and spread beyond their normal boundaries.
 
     Cancer is caused by the very same processes that make life on earth so complex and so diverse. Every living organism is made of cells. In each and every cell there are special chemicals called {DNA}. DNA is special because it functions as {GeneticCode genetic code}—instructions which control all of the cell's behavior. Whenever the code changes, the cell's behavior changes.
 
@@ -31,13 +31,13 @@ module sci
   --
     control
   >>>
-    The most effective approach depends on the capabilities of the disease. Generally, in the earlier stages of the process the main goal is to remove cancer cells from the body (through surgery). Later on this may be less effective, but if the exact genetic mutations are known, there may be ways to prolong life substantially.
+    The most effective approach depends on the capabilities of the disease. Generally, in the earlier stages of the process the main goal is to remove cancer cells from the body (through surgery). More advanced cancers often develop capabilities that make this approach be less effective, but if the exact genetic mutations are known, there may still be ways to prolong life substantially.
 
     The common cause of all cancers is genetic mutation. Genetic mutation is inherent to life on earth, but there are many environmental factors which we can influence to help maintain healthy DNA. Lifestyle changes intended to avoid DNA damage are described as *cancer prevention*.
   --
     prevention
 
-  / Characteristics of Cancer
+  / Characteristics
   // Characteristics of Cancer
   /// Cancer is a group of diseases characterized by uncontrolled growth and spread of abnormal cells.
   module characteristics
@@ -81,7 +81,7 @@ module sci
   /// All cancers originate with damage to genes which regulate the division, growth, movement, and death of cells. How a specific cancer behaves depends on which processes are no longer functioning normally.
   module origins
     >>>
-      Virtually everything that a cell does is determined by special molecules housed in the its core called *DNA*.
+      Virtually everything that a cell does is determined by special molecules housed in its core called *DNA*.
     --
       DNA
     >>>
@@ -89,11 +89,7 @@ module sci
     --
       Chromosome
     >>>
-      They are arranged in *homologous pairs*, 23 chromosomes from each biological parent.
-    --
-      HomologousChromosomes
-    >>>
-      Together, the 46 chromosomes contain more than 100,000 *genes*.
+      The 46 chromosomes are grouped into {HomologousChromosomes pairs}, 23 chromosomes from each biological parent. Altogether they contain more than 100,000 *genes*.
     --
       Gene
     >>>
@@ -137,19 +133,11 @@ module sci
 
       There are two general types of gene mutations, based on the interaction between the {Allele variants} of the gene on either {HomologousChromosomes pair}. Like the chromosomes, genes are arranged in pairs — one gene from the mother and one from the father.
 
-      A *dominant mutation* is caused by an abnormality in only one gene in a pair.
-    --
-      DominantMutation
-    >>>
-      A *recessive mutation* is characterized by both genes in the pair being damaged.
-    --
-      RecessiveMutation
-    >>>
-      A typical example of a dominant mutation which promotes cancer is a mutated gene that produces a defective protein that causes the growth-factor {Receptor receptor} on a cell's surface to be constantly "on" when, in fact, no growth factor is present. The result is that the cell receives a constant message to divide. This dominant "gain of function gene" is often called an *oncogene* (onco = cancer).
+      A {DominantMutation dominant mutation} is caused by an abnormality in only one gene in a pair. A typical example of a dominant mutation which promotes cancer is a mutated gene that produces a defective protein that causes the growth-factor {Receptor receptor} on a cell's surface to be constantly "on" when, in fact, no growth factor is present. The result is that the cell receives a constant message to divide. This dominant "gain of function gene" is often called an *oncogene* (onco = cancer).
     --
       Oncogene
     >>>
-      Recessive mutations, by contrast, typically cause a loss of function. For example, a normal gene called {p53 p53} produces a protein that turns "off" the cell cycle and thus helps to control cell growth. The primary function of the *p53* gene is to repair or destroy defective cells, thereby controlling potential cancerous cells. This type of gene is called an *anti-oncogene* or *tumor suppressor gene*.
+      A {RecessiveMutation recessive mutation} is characterized by both genes in the pair being damaged. These mutations typically cause a *loss* of function. For example, a normal gene called {p53 p53} produces a protein that turns "off" the cell cycle and thus helps to control cell growth. The primary function of the *p53* gene is to repair or destroy defective cells, thereby controlling potential cancerous cells. This type of gene is called an *anti-oncogene* or *tumor suppressor gene*.
     --
       TumorSuppressor
     >>>
