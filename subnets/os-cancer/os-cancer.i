@@ -18,11 +18,11 @@
 # --
 #   data
 >>>
-  Treatments designed to target specific genetic mutations are now incorporated into the *standard of care*, which is formally defined in documents made for health care professionals called "treatment algorithms." Despite this documentation, many patients do not receive the standard of care.
+  The best known science-based treatment strategies are referred to as the *standard of care*. These standards are formally defined in documents designed for oncologists called *treatment algorithms*. The standard treatment algorithms are continually evolving. Despite their public availability, many patients do not receive the latest standard treatments.
 --
   standard
 >>>
-  In many cases the standard is good enough. In some cases, however, the *standard* care does not represent the *best* care. The standard treatment algorithms include only those treatments that have completed the clinical approval process. New regulations have given patients the *right to try* a treatment that has not yet obtained full approval, but may offer the patient their best possible chance of survival.
+  In many cases the standard is good enough. In some cases, however, the *standard* care does not represent the *best* care. The standard treatment algorithms include only those treatments that have completed the clinical approval process. For some patients, the best treatments have not yet been approved. New regulations have given patients the *right to try* a treatment that has not yet obtained full approval, but may offer the patient their best possible chance of survival.
 --
   rtt
 
