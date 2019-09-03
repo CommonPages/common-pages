@@ -6,7 +6,7 @@
 # Beyond the Standard of Care
 
 >>>
-  Once regarded as a single disease, advances in genetic technology have triggered a new wave of progress in the science of cancer. The essential insight for every patient is this: *every tumor is unique*.
+  Advances in genetic technology have triggered a new wave of progress in the science of cancer. The essential insight for every patient is this: *every tumor is unique*.
 --
   sci
 >>>
