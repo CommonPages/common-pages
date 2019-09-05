@@ -1,0 +1,18 @@
+
+# Example:
+id: whatis.app
+name: whatis.app
+hosts:
+  - whatis.app
+  - whatis.test
+subnets:
+  - "$os-life"
+  - "$os-cancer"
+  - "$cancer"
+# featured:
+#   - "$os-life"
+#   - "$os-cancer"
+#   - "$os-nsclc"
+#   - "$go2"
+#   - "$nci"
+#   - "$nccn"
