@@ -2,7 +2,7 @@ id: "$cancer"
 name: "What is Cancer?"
 title: "What is Cancer?"
 mask: Search
-lead: "Cancer is a large group of life-threatening diseases in which many different gene mutations cause abnormal cells to accumulate and spread."
+lead: "Cancer is a large group of life-threatening diseases. In all forms of cancer, genetic mutations create abnormal cells which accumulate and spread throughout the body."
 description: "Cancer is a large group of life-threatening diseases. Every tumor is the unique result of many possible combinations of genetic mutations."
 theme:
   logo: "//static.theinsight.cloud/icons/pti.ico"
