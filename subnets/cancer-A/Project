@@ -1,0 +1,21 @@
+id: "$cancer-A"
+name: "What is Cancer?"
+title: "What is Cancer?"
+mask: Search
+lead: "Cancer is a large group of life-threatening diseases. In all forms of cancer, genetic mutations create abnormal cells which accumulate and spread throughout the body."
+description: "Cancer is a large group of life-threatening diseases. Every tumor is the unique result of many possible combinations of genetic mutations."
+theme:
+  logo: "//static.theinsight.cloud/icons/pti.ico"
+  color:
+    r: 104
+    g: 157
+    b: 246
+network: "whatis.app"
+authors:
+  - "@pti"
+  - "@nci"
+  - "@openstax"
+authorize:
+use:
+  - "$os-life"
+  - "$os-cancer"

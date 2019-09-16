@@ -9,6 +9,8 @@ subnets:
   - "$os-life"
   - "$os-cancer"
   - "$cancer"
+  - "$cancer-A"
+  - "$cancer-B"
 # featured:
 #   - "$os-life"
 #   - "$os-cancer"
@@ -16,3 +18,16 @@ subnets:
 #   - "$go2"
 #   - "$nci"
 #   - "$nccn"
+routes:
+  - path: life
+    dest: "$os-cancer"
+  - path: cancer
+    lab:
+      id: "cancer_landing-09.16"
+      buckets:
+        - id: control
+          dest: $cancer
+        - id: A
+          dest: "$cancer-A"
+        - id: B
+          dest: "$cancer-B"
