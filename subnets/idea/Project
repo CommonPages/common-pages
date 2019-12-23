@@ -1,0 +1,14 @@
+
+id: "$idea"
+name: "Idea"
+lead: ""
+description: ""
+theme:
+  logo: "//static.theinsight.cloud/icons/pti.ico"
+  color:
+    r: 104
+    g: 157
+    b: 246
+network: "whatis.app"
+authorize:
+use:

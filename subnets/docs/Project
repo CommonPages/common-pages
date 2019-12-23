@@ -1,0 +1,12 @@
+id: "$docs"
+name: "Insight Apps — Documentation"
+theme:
+  logo: "//static.theinsight.cloud/icons/pti.ico"
+  color:
+    r: 104
+    g: 157
+    b: 246
+network: "insight-apps"
+authors:
+authorize:
+use:

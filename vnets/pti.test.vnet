@@ -5,8 +5,3 @@ name: pti.test
 hosts:
   - pti.test
 subnets:
-  - "$os"
-  - "$os-cancer"
-  - "$os-nsclc"
-  - "$pti-cancer"
-  - "$pubmed"

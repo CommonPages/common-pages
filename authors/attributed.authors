@@ -1,5 +1,9 @@
 
 authors:
+  example:
+    fullname: Example Author
+    avatar: "//static.theinsight.cloud/icons/pti.ico"
+
   pti:
     fullname: Peace Through Insight
     avatar: "//static.theinsight.cloud/icons/pti.ico"

@@ -1,0 +1,10 @@
+
+# Example:
+id: insight-apps
+name: insight-apps
+hosts:
+  - insight-apps
+subnets:
+  - "$idea"
+  - "$docs"
+  - "$examples"
