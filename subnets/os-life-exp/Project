@@ -1,0 +1,19 @@
+id: "$os-life-exp"
+name: "Life"
+lead: "The human body is is composed of many different types of cells that together create tissues and organ systems. These biological structures work together to maintain life."
+theme:
+  logo: "//static.theinsight.cloud/icons/pti.ico"
+  color:
+    r: 104
+    g: 157
+    b: 246
+# links:
+#  - text: Home
+#    location: "/os"
+network: "theinsight.app"
+authors:
+authorize:
+use:
+  - "$os-ap"
+  - "$os-bio"
+  - "$os-chem"
