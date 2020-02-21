@@ -1,0 +1,23 @@
+id: "$in-life"
+name: "Anatomy and Physiology"
+title: ""
+mask: Search
+lead: "Anatomy and Physiology "
+theme:
+  logo: "//static.theinsight.cloud/icons/pti.ico"
+  color:
+    r: 104
+    g: 157
+    b: 246
+network: "whatis.app"
+authors:
+  - "@pti"
+  - "@nci"
+  - "@openstax"
+authorize:
+use:
+  - "$os-life"
+  - "$os-cancer"
+  - "$os-life"
+  - "$os-ap"
+  - "$cancer"

@@ -11,3 +11,4 @@ subnets:
   - "$os-ap"
   - "$os-life"
   - "$os-life-exp"
+  - "$in-life"
