@@ -19,10 +19,7 @@ space structures
   --
     Organismlevel
 
-  // Chemical Level
-  /// To study Chemical level of organization, scientist consider simplest building blocks of matter : Sub atomic particles, atoms, molecules
-  space Chemicallevel
-
+  
   // Cellular Level
   /// Cell is a smallest independently functioning unit of a living organism. All living structures of humanan anatomy contains cells on almost all functions of human physiology are perfomed in cells or are initiated by cells.
   space Cellularlevel

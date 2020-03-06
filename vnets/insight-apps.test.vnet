@@ -12,3 +12,4 @@ subnets:
   - "$os-life"
   - "$os-life-exp"
   - "$in-life"
+  - "$cancer"
