@@ -184,6 +184,9 @@ space Terminology
         ### {membranes Membranes} of the Anterior (Ventral) Body Cavity
         A {membranes.serous serous membrane} (also referred to a serosa) is one of the thin membranes that cover the walls and organs in the thoracic and abdominopelvic cavities.
 
+      --
+        membranes.serous
+      
 
       / Thoracic Cavity
       model thoracic

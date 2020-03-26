@@ -13,3 +13,4 @@ subnets:
   - "$os-life-exp"
   - "$in-life"
   - "$cancer"
+  - "$coronavirus"

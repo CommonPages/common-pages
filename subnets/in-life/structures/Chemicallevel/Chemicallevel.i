@@ -7,7 +7,7 @@ space Chemicallevel
     These elements, in turn, can form both the __inorganic__ and __organic chemical__ compounds important to life, including, for example, water, glucose, and proteins.
     In fact, Chemicals called nucleotide bases are the foundation of the genetic code with the instructions on how to build and maintain the human body from conception through old age. There are about three billion of these base pairs in human DNA.
     Here, we examine the elements and how the structures of atoms, the basic units of matter, determine the characteristics of elements by the number of protons, neutrons, and electrons in the atoms and then build framework of life from there :
-    
+
   --
     elements
     chemicalbonds
