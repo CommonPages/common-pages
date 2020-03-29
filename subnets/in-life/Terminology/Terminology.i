@@ -11,7 +11,7 @@ space Terminology
     Anatomical terminology is often chosen to highlight the relative location of body structures. For instance, an anatomist might describe one band of tissue as "inferior to" another or a physician might describe a tumor as "superficial to" a deeper body structure
 
   --
-    position
+    posit
     region
     direction
     axes
@@ -22,7 +22,7 @@ space Terminology
 
   / Anatomical Position
   ///
-  model position
+  model posit
     >>>
       To further increase precision, anatomists standardize the way in which they view the body. Just as maps are normally oriented with north at the top, the standard body “map,” or anatomical position, is that of the body standing upright, with the feet at shoulder width and parallel, toes forward. The upper limbs are held out to each side, and the palms of the hands face forward as illustrated in this Figure. Using this standard position reduces confusion. It does not matter how the body being described is oriented, the terms are used as if it is in anatomical position. For example, a scar in the “anterior (front) carpal (wrist) region” would be present on the palm side of the wrist. The term “anterior” would be used even if the hand were palm down on a table.
       A body that is lying down is described as either prone or supine. Prone describes a face-down orientation, and supine describes a face up orientation. These terms are sometimes used in describing the position of the body during specific physical examinations or surgical procedures.
@@ -186,7 +186,7 @@ space Terminology
 
       --
         membranes.serous
-      
+
 
       / Thoracic Cavity
       model thoracic

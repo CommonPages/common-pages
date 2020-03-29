@@ -1,0 +1,2 @@
+index: hide
+. triage
