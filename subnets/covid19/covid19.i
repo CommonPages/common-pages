@@ -22,9 +22,9 @@
   Timeline
 
 -- Claims
-  Features
-  Response
-  Projections
+  claims.Features
+  claims.Response
+  claims.Projections
 
 --
   Research
