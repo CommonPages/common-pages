@@ -16,11 +16,8 @@ feed Research
     >>>
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+    / Nature Medicine - March 17, 2020
+    let !Origin self dispute = A comparative analysis of the genomic data clearly show that SARS-CoV-2 is not a laboratory construct or a purposefully manipulated virus.
 
-    --
-      !OriginA
+    -- Exports
       !Origin
-
-    let !OriginA self assert = Foo bar baz s;dalkfalkfja.
-
-    let !Origin self dispute = A comparative analysis of the genomic data clearly show that SARS-CoV-2 is not a !laboratory_construct or a purposefully manipulated virus.

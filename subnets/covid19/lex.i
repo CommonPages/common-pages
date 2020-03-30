@@ -18,5 +18,3 @@ import feeds.News
 import feeds.Revisions
 
 import Research._
-
-let !laboratory_construct mean claims.!LabConstruct
