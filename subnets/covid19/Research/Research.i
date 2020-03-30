@@ -12,7 +12,7 @@ feed Research
   ref 'Anderson_et_al_2020
     head = Here we review what can be deduced about the origin of SARS-CoV-2 from comparative analysis of genomic data. Our analyses clearly show that SARS-CoV-2 is not a laboratory construct or a purposefully manipulated virus.
 
-    line !origin
-      head = SARS-CoV-2 is not a laboratory construct or a purposefully manipulated virus.
+    let !Origin self dispute = A comparative analysis of the genomic data clearly show that SARS-CoV-2 is not a !laboratory_construct or a purposefully manipulated virus.
 
-      > 'Anderson_et_al_2020
+    --
+      !Origin
