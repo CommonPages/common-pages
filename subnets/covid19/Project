@@ -1,0 +1,15 @@
+id: "$covid19"
+name: "COVID-19"
+mask: Portal
+lead: "Coronavirus disease 2019 (COVID-19) is an infectious disease. It was first identified in 2019 in Wuhan, the capital of China's Hubei province, and has since spread globally, resulting in the ongoing 2019–20 coronavirus pandemic."
+description: "The Claimspace COVID-19 portal is an ongoing collective effort to make sense of the developing news and research surrounding the 2019-20 coronavirus pandemic. The goal of the portal is not to make authoritative claims—rather it is to organize the spectrum of claims and relevant background concepts in biology, medicine, and epidemiology, to support collective critical thinking."
+theme:
+  logo: "//static.theinsight.cloud/icons/project.ico"
+  color:
+    r: 104
+    g: 157
+    b: 246
+network: "whatis.app"
+authorize:
+use:
+  - "$os-life"
