@@ -9,7 +9,7 @@ feed Updates
       'Anderson_et_al_2020
 
     >>>
-      This article has been added to the {Research research module}, and has been referenced in {Timeline.Origin Origins of COVID-19} under the {Timeline COVID-19 Timeline module}.
+      This article has been added to the {Research research module}, and has been referenced in {Origin Origins of COVID-19} under the {Timeline COVID-19 Timeline module}.
 
   / March 28, 2020
   item March_28
