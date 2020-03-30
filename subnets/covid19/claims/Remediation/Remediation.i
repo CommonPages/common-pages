@@ -1,10 +1,11 @@
-model module Background
+
+/ Response and Remediation
+subject module Remediation
   head = Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-  --
-    Biology
-    Medicine
-    Epidemeology
+  subject Prevention
+  subject Distancing
+  subject Sterilization
 
-  --
-    Timeline
+  subject SchoolClosure
+    # Claims doc, christakis
