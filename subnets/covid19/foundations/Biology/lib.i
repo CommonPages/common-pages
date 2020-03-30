@@ -7,8 +7,6 @@ index: hide
 
   model Shedding
 
-  model Infection
-
   model Host
 
   model Pathogen

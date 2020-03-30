@@ -6,15 +6,15 @@
   paths.FAQ
 
 >>>
-  The Claimspace COVID-19 portal is an ongoing collective effort to make sense of the developing news and research surrounding the 2019-20 coronavirus pandemic. The goal of the portal is not to make authoritative claims—rather it is to organize the spectrum of claims alongside foundational concepts in {Biology biology}, {Physiology physiology}, {Epidemiology epidemiology}, and {Medicine medicine}, to support collective critical thinking.
+  {AboutClaimspace Claimspace} is an experimental platform that empowers critical thinkers to create and sharing knowledge collectively. Its information interface generates maps from community coded documents.
 
-  {AboutClaimspace Claimspace} is an experimental platform that empowers critical thinkers to create and sharing knowledge collectively. Its novel information interface turns documents into maps. To get oriented, click on one of the blue navigation buttons above.
+  It is not the objective of this portal to make authoritative claims. The objective is to support collective critical thinking by documenting the range of claims now active in the information landscape against a backdrop of foundational concepts in {Biology biology}, {Physiology physiology}, {Epidemiology epidemiology}, and {Medicine medicine}.
 
 -- Latest Revisions
   Revisions.March_29
 
->>>
-  Follow the path to the right to see the full {Revisions revision history}. Drill into any of the modules below to go deeper on foundational concepts and claims about COVID-19.
+# >>> Full Revision History
+#   Find the complete revision history in the COVID-19 portal's {Revisions revision feed}.
 
 -- Concepts
   foundations
