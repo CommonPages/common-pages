@@ -1,7 +1,7 @@
 
-import Foundation.Biology.lib._
-import Foundation.Medicine.lib._
-import Foundation.Epidemeology.lib._
+import Background.Biology.lib._
+import Background.Medicine.lib._
+import Background.Epidemeology.lib._
 
 import Research._
 
