@@ -44,6 +44,8 @@ model virus
 
   / How do Viruses jump from Animals to Humans
   model virusjump
+    >>>
+      Viruses are organic parasite which infects all forms of life. 
 
   / Why Bats carry so many diseases
   model bats
