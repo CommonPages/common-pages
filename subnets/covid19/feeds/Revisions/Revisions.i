@@ -1,10 +1,10 @@
 
 / Revision Feed
-feed Revisions
+revision feed Revisions
   head = Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
   / March 29, 2020
-  item March_29
+  revision March_29
     head = An article in Nature Medicine argues that SARS-CoV-2 is not a laboratory construct or a purposefully manipulated virus.
 
     --
@@ -14,7 +14,7 @@ feed Revisions
       This article has been added to the {Research research module}, and has been referenced in {Origin Origins of COVID-19} under the {Timeline COVID-19 Timeline module}.
 
   / March 28, 2020
-  item March_28
+  revision March_28
     head = Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
     >>>
