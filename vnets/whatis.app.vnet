@@ -6,7 +6,6 @@ hosts:
   - whatis.app
   - whatis.test
 subnets:
-  - "$covid19"
   - "$os-life"
   - "$os-cancer"
   - "$cancer"

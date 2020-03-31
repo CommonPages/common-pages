@@ -5,12 +5,14 @@ subject module Features
 
   --
     Structure
+    Shedding
     Transmission
     Course
     Viability
     Severity
 
   subject Structure
+
     --
       'Walls_et_al_2020.!a
       'Walls_et_al_2020.!b
@@ -28,9 +30,16 @@ subject module Features
       'Coutart_et_al_2020.!c
       'Coutart_et_al_2020.!d
 
+  subject Shedding
+    --
+      'Santarpia_et_al_2020.!a
+
   subject Transmission
     --
+      'Ong_et_al_2020.!a
       'Harvard_2020.!a
+      'Liu_et_al_2020.!a
+      'Liu_et_al_2020.!b
 
   subject Course
     --

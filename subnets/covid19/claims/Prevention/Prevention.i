@@ -18,6 +18,8 @@ subject module Prevention
   subject Inactivation
     --
       'Darnell_et_al_2004.!a
+      'Liu_et_al_2020.!a
+      'Liu_et_al_2020.!b
 
   subject SocialDistancing
 

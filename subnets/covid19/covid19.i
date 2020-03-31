@@ -10,7 +10,7 @@
 
   It is not the objective of this portal to make authoritative claims. The objective is to support collective critical thinking by documenting the range of claims now active in the information landscape against a backdrop of foundational concepts in {Biology biology}, {Physiology physiology}, {Epidemiology epidemiology}, and {Medicine medicine}.
 
--- Latest Revisions
+-- Recent Revisions
   Revisions.March_29
 
 # >>> Full Revision History

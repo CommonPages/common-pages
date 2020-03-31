@@ -5,15 +5,20 @@ feed Research
 
   -- April, 2020
     'Coutart_et_al_2020
+    'Chen_et_al_2000
 
   -- March, 2020
     'Harvard_2020
     'Anderson_et_al_2020
+    'Zhou_et_al_2020
+    'Santarpia_et_al_2020
+    'Liu_et_al_2020
     'Zhang_et_al_2020
     'Walls_et_al_2020
     'van_Doremalen_et_al_2020
     'Woelfel_et_al_2020
     'Hoffman_et_al_2020
+    'Ong_et_al_2020
 
   -- February, 2020
     'Zhou_et_al_2020
@@ -21,30 +26,14 @@ feed Research
   -- November, 2015
     'Menachery_et_al_2015
 
+  -- June, 2010
+    'Zhao_et_al_2010
+
   -- October, 2009
     'Chen_et_al_2009
 
   -- September, 2004
     'Darnell_et_al_2004
-
-  // Food safety, nutrition, and wellness during COVID-19
-  ref 'Harvard_2020
-    head = As we navigate these unprecedented times, many are wondering how to safely shop, order, and prepare food to minimize transmission of the novel coronavirus.
-
-    -- Exports
-      !a
-      !b
-      !c
-
-    / Harvard School of Public Health - March, 2020
-    let !a self assert = There is no published evidence, and we are not aware of unpublished evidence that people have developed COVID-19 illness from touching food or food packaging.
-
-    / Harvard School of Public Health - March, 2020
-    let !b self assert = The virus causing COVID-19 can survive on surfaces and objects for a limited amount of time. The available evidence suggests this up to about 3 days on hard surfaces like metal or plastic and about 1 day on soft surfaces like cardboard.
-
-    / Harvard School of Public Health - March, 2020
-    let !c self assert = The greatest risk of contracting viruses when shopping is from touching a shopping cart, or basket. As noted, coronaviruses can remain on hard surfaces such as steel and plastic (e.g., car door handles, building door handles, shopping cart/basket handles, elevator buttons) for up to 3 days  so these are the highest risk surfaces to touch.
-
 
   // The spike glycoprotein of the new coronavirus 2019-nCoV contains a furin-like cleavage site absent in CoV of the same clade
   doi: https://doi.org/10.1016/j.antiviral.2020.104742
@@ -66,6 +55,44 @@ feed Research
     / Antiviral Research - April, 2020
     let !d self assert = Campaigns to develop anti-2019-nCoV therapeutics should include the evaluation of furin inhibitors.
 
+  // Convalescent plasma as a potential therapy for COVID-19
+  doi: https://doi.org/10.1016/S1473-3099(20)30141-9
+  ref 'Chen_et_al_2000
+    head = Based on past infectious coronavirus cases, where convalescent plasma was used to improve survival rate of patients, it might be worthwhile to test the safety and efficacy of convalescent plasma transfusion in SARS-CoV-2-infected patients.
+
+    -- Exports
+      !a
+      !b
+      !c
+
+    / The Lancet - April, 2020
+    let !a self assert = To date, no specific treatment has been proven to be effective for SARS-CoV-2 infection. Apart from supportive care, such as oxygen supply in mild cases and extracorporeal membrane oxygenation for the critically ill patients, specific drugs for this disease are still being researched.
+
+    / The Lancet - April, 2020
+    let !b self assert = Management of COVID-19 has mainly focused on infection prevention, case detection and monitoring, and supportive care. However, no specific anti-SARS-CoV-2 treatment is recommended because of the absence of evidence.
+
+    / The Lancet - April, 2020
+    let !c self assert = Evidence shows that convalescent plasma from patients who have recovered from viral infections can be used as a treatment without the occurrence of severe adverse events. Therefore, it might be worthwhile to test the safety and efficacy of convalescent plasma transfusion in SARS-CoV-2-infected patients.
+
+  // Food safety, nutrition, and wellness during COVID-19
+  link: https://www.hsph.harvard.edu/nutritionsource/2020/03/25/food-safety-nutrition-and-wellness-during-covid-19
+  ref 'Harvard_2020
+    head = As we navigate these unprecedented times, many are wondering how to safely shop, order, and prepare food to minimize transmission of the novel coronavirus.
+
+    -- Exports
+      !a
+      !b
+      !c
+
+    / Harvard School of Public Health - March, 2020
+    let !a self assert = There is no published evidence, and we are not aware of unpublished evidence that people have developed COVID-19 illness from touching food or food packaging.
+
+    / Harvard School of Public Health - March, 2020
+    let !b self assert = The virus causing COVID-19 can survive on surfaces and objects for a limited amount of time. The available evidence suggests this up to about 3 days on hard surfaces like metal or plastic and about 1 day on soft surfaces like cardboard.
+
+    / Harvard School of Public Health - March, 2020
+    let !c self assert = The greatest risk of contracting viruses when shopping is from touching a shopping cart, or basket. As noted, coronaviruses can remain on hard surfaces such as steel and plastic (e.g., car door handles, building door handles, shopping cart/basket handles, elevator buttons) for up to 3 days  so these are the highest risk surfaces to touch.
+
   // The proximal origin of SARS-CoV-2
   link: https://www.nature.com/articles/s41591-020-0820-9
   doi: https://doi.org/10.1038/s41591-020-0820-9
@@ -79,10 +106,55 @@ feed Research
     -- Exports
       !Origin
 
+  // Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study.
+  doi: https://doi.org/10.1016/S0140-6736(20)30566-3
+  ref 'Zhou_et_al_2020
+    head = The potential risk factors of older age, high SOFA scroe, and d-dimer greater than 1 μg/mL could help clinicians to identify patients with poor prognosis at an early stage. Prolonged viral shedding would provide the rationale for a strategy of isolation of infected patients and optimal antiviral interventions in the future.
+
+    / Lancet - March, 2020
+    let !a self assert = Prolonged viral shedding would provide the rationale for a strategy of isolation of infected patients and optimal antiviral interventions in the future.
+
+  // Transmission Potential of SARS-CoV-2 in Viral Shedding Observed at the University of Nebraska Medical Center
+  doi: https://doi.org/10.1101/2020.03.23.20039446
+  ref 'Santarpia_et_al_2020
+    head = During the initial isolation of 13 individuals confirmed positive with COVID-19 infection, air and surface samples were collected in eleven isolation rooms to examine viral shedding from isolated individuals. While all individuals were confirmed positive for SARS-CoV-2, symptoms and viral shedding to the environment varied considerably.
+
+    -- exports
+      !a
+
+    / bioRxiv - March, 2020
+    let !a self assert = Our study indicates SARS-CoV-2 is shed to the environment as expired particles, during toileting, and through contact with fomites. Disease spread through both direct (droplet and person-to-person) as well as indirect contact (contaminated objects and airborne transmission) are indicated, supporting the use of airborne isolation precautions.
+
+  // Aerodynamic Characteristics and RNA Concentration of SARS-CoV-2 Aerosol in Wuhan Hospitals during COVID-19 Outbreak
+  doi: https://doi.org/10.1101/2020.03.08.982637
+  ref 'Liu_et_al_2020
+    head = Room ventilation, open space, proper use and disinfection of toilet can effectively limit aerosol transmission of SARS-CoV-2. Gathering of crowds with asymptomatic carriers is a potential source of airborne SARS-CoV-2. The virus aerosol deposition on protective apparel or floor surface and their subsequent resuspension is a potential transmission pathway and effective sanitization is critical in minimizing aerosol transmission of SARS-CoV-2.
+
+    -- Exports
+      !a
+      !b
+
+    / bioRxiv - March, 2020
+    let !a self assert = Room ventilation, open space, proper use and disinfection of toilet can effectively limit aerosol transmission of SARS-CoV-2. Gathering of crowds with asymptomatic carriers is a potential source of airborne SARS-CoV-2.
+
+    / bioRxiv - March, 2020
+    let !b self assert = SARS-CoV-2 aerosol deposition on protective apparel or floor surface and their subsequent resuspension is a potential transmission pathway and effective sanitization is critical in minimizing aerosol transmission of SARS-CoV-2.
+
   // Crystal structure of SARS-CoV-2 main protease provides a basis for design of improved α-ketoamide inhibitors
   doi: https://doi.org/10.1126/science.abb3405
   ref 'Zhang_et_al_2020
     head = We report the X-ray structures of the unliganded SARS-CoV-2 Mpro and its complex with an α-ketoamide inhibitor. Based on the structure, we developed the lead compound into a potent inhibitor of the SARS-CoV-2 Mpro. The pharmacokinetic characterization of the optimized inhibitor reveals a pronounced lung tropism and suitability for administration by the inhalative route.
+
+  // The first-in-class peptide binder to the SARS-CoV-2 spike protein
+  doi: https://doi.org/10.1101/2020.03.19.999318
+  ref 'Zhang_et_all_2020b
+    head = Peptide-based binders are an attractive solution to inhibit the RBD-ACE2 interaction. Using molecular dynamics simulations based on the recently solved ACE2 and SARS-CoV-2-RBD co-crystal structure, we observed that the ACE2 peptidase domain (PD) α1 helix is important for binding SARS-CoV-2-RBD. This peptide binder to SARS-CoV-2-RBD provides new avenues for COVID-19 treatment and diagnostic modalities by blocking the SARS-CoV-2 spike protein interaction with ACE2 and thus precluding virus entry into human cells.
+
+    -- exports
+      !a
+
+    / bioRxiv - March, 2020
+    let !a self assert = ACE2 peptidase domain (PD) α1 helix is important for binding SARS-CoV-2-RBD. This peptide binder to SARS-CoV-2-RBD provides new avenues for COVID-19 treatment and diagnostic modalities by blocking the SARS-CoV-2 spike protein interaction with ACE2 and thus precluding virus entry into human cells.
 
   // Structure, Function, and Antigenicity of the SARS-CoV-2 Spike Glycoprotein
   doi: http://dx.doi.org/10.1016/j.cell.2020.02.058
@@ -157,6 +229,14 @@ feed Research
     / Cell - March, 2020
     let !c self assert = Antibodies against SARS-CoV spike may offer some protection against SARS-CoV-2
 
+  // Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient
+  doi: https://doi.org/10.1001/jama.2020.3227
+  ref 'Ong_et_al_2020
+    head = Significant environmental contamination by patients with SARS-CoV-2 through respiratory droplets and fecal shedding suggests the environment as a potential medium of transmission and supports the need for strict adherence to environmental and hand hygiene.
+
+    / JAMA Network - March, 2020
+    let !a self assert = Significant environmental contamination by patients with SARS-CoV-2 through respiratory droplets and fecal shedding suggests the environment as a potential medium of transmission
+
   // A pneumonia outbreak associated with a new coronavirus of probable bat origin
   link: https://www.nature.com/articles/s41586-020-2012-7
   doi: https://doi.org/10.1038/s41586-020-2012-7
@@ -184,6 +264,17 @@ feed Research
 
     / Nature - November, 2015
     let !Risk self assert = Our work suggests a potential risk of SARS-CoV re-emergence from viruses currently circulating in bat populations.
+
+  // T Cell Responses Are Required for Protection from Clinical Disease and for Virus Clearance in Severe Acute Respiratory Syndrome Coronavirus-Infected Mice
+  doi: 10.1128/JVI.01049-10
+  ref 'Zhao_et_al_2010
+    head = Inefficient immune activation and a poor virus-specific T cell response underlie severe disease in SARS-CoV-infected mice. We examine whether a robust antivirus T cell response was sufficient to protect mice in the absence of interventions that activated the innate immune response. We provide a new approach to SARS vaccine design.
+
+    -- Exports
+      !a
+
+    / Journal of Virology - June, 2010
+    let !a self assert = Virus-specific T cells are necessary and sufficient for virus clearance and for protection from clinical disease in virus-infected mice.
 
   // Cellular Immune Responses to Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV) Infection in Senescent BALB/c Mice: CD4+ T Cells Are Important in Control of SARS-CoV Infection
   doi: https://doi.org/10.1128/JVI.01281-09
