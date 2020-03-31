@@ -22,6 +22,7 @@
 -- Claims
   claims.Features
   claims.Diagnostics
+  claims.Prevention
   claims.Remediation
   claims.Timeline
   claims.Projections

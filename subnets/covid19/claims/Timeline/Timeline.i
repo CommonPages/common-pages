@@ -3,6 +3,11 @@
 subject module Timeline
   head = Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
+  --
+    Origin
+    Epidemic
+    Pandemic
+
   subject module Origin
 
     subject !Risk
@@ -25,8 +30,5 @@ subject module Timeline
 
       -- Asserted in
         'Zhou_et_al_2020.!Bats
-
-
-
   subject module Epidemic
   subject module Pandemic

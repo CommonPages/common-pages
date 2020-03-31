@@ -7,6 +7,7 @@ feed Research
     'Coutart_et_al_2020
 
   -- March, 2020
+    'Harvard_2020
     'Anderson_et_al_2020
     'Zhang_et_al_2020
     'Walls_et_al_2020
@@ -19,6 +20,31 @@ feed Research
 
   -- November, 2015
     'Menachery_et_al_2015
+
+  -- October, 2009
+    'Chen_et_al_2009
+
+  -- September, 2004
+    'Darnell_et_al_2004
+
+  // Food safety, nutrition, and wellness during COVID-19
+  ref 'Harvard_2020
+    head = As we navigate these unprecedented times, many are wondering how to safely shop, order, and prepare food to minimize transmission of the novel coronavirus.
+
+    -- Exports
+      !a
+      !b
+      !c
+
+    / Harvard School of Public Health - March, 2020
+    let !a self assert = There is no published evidence, and we are not aware of unpublished evidence that people have developed COVID-19 illness from touching food or food packaging.
+
+    / Harvard School of Public Health - March, 2020
+    let !b self assert = The virus causing COVID-19 can survive on surfaces and objects for a limited amount of time. The available evidence suggests this up to about 3 days on hard surfaces like metal or plastic and about 1 day on soft surfaces like cardboard.
+
+    / Harvard School of Public Health - March, 2020
+    let !c self assert = The greatest risk of contracting viruses when shopping is from touching a shopping cart, or basket. As noted, coronaviruses can remain on hard surfaces such as steel and plastic (e.g., car door handles, building door handles, shopping cart/basket handles, elevator buttons) for up to 3 days  so these are the highest risk surfaces to touch.
+
 
   // The spike glycoprotein of the new coronavirus 2019-nCoV contains a furin-like cleavage site absent in CoV of the same clade
   doi: https://doi.org/10.1016/j.antiviral.2020.104742
@@ -158,3 +184,34 @@ feed Research
 
     / Nature - November, 2015
     let !Risk self assert = Our work suggests a potential risk of SARS-CoV re-emergence from viruses currently circulating in bat populations.
+
+  // Cellular Immune Responses to Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV) Infection in Senescent BALB/c Mice: CD4+ T Cells Are Important in Control of SARS-CoV Infection
+  doi: https://doi.org/10.1128/JVI.01281-09
+  ref 'Chen_et_al_2009
+    head = In this study, we characterize the cellular immune response to SARS-CoV infection in 12- to 14-mo BALB/c mice in terms of the protein and gene expression of inflammatory mediators, migration of inflammatory cells, and virus-specific T-cell responses in the lungs during the course of disease. We evaluated the role of T cells in disease pathogenesis and viral clearance by depleting T-cell subsets at the time of infection and found an important role for CD4+ T cells (but not CD8+ T cells) in primary infection with SARS-CoV in this model.
+
+    -- Exports
+      !a
+      !b
+      !c
+      !d
+
+    / Journal of Virology - October, 2009
+    let !a self assert = SARS-CoV infection is associated with pneumonitis in 12- to 14-mo BALB/c mice.
+    / Journal of Virology - October, 2009
+    let !b self assert = SARS-CoV infection induces a biphasic pattern of increased expression of inflammatory mediators in the lungs.
+    / Journal of Virology - October, 2009
+    let !c self assert = SARS-CoV infection induces two waves of recruitment of inflammatory cells into the lungs.
+    / Journal of Virology - October, 2009
+    let !d self assert = SARS-CoV infection induces an enhanced virus-specific T-cell response in the lungs.
+
+  // Inactivation of the coronavirus that induces severe acute respiratory syndrome, SARS-CoV.
+  doi: https://doi.org/10.1016/j.jviromet.2004.06.006
+  ref 'Darnell_et_al_2004
+    head =  We describe the kinetics of viral inactivation methods, which will allow research with SARS-CoV containing materials, that are rendered non-infectious, to be conducted at reduced safety levels.
+
+    -- Exports
+      !a
+
+    / Journal of Virological Methods - September, 2004
+    let !a self assert = SARS-CoV was inactivated by ultraviolet light (UV) at 254 nm, heat treatment of 65 °C or greater, alkaline (pH > 12) or acidic (pH < 3) conditions, formalin and glutaraldehyde treatments.
