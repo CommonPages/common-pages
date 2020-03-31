@@ -3,6 +3,7 @@
 id: claimspace.org
 name: claimspace.org
 hosts:
+  - www.claimspace.org
   - claimspace.org
   - claimspace.test
 subnets:
