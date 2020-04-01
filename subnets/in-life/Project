@@ -8,7 +8,7 @@ theme:
     r: 104
     g: 157
     b: 246
-network: "whatis.app"
+network: "insight-apps.test"
 authors:
   - "@pti"
   - "@nci"

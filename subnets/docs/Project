@@ -6,7 +6,7 @@ theme:
     r: 104
     g: 157
     b: 246
-network: "insight-apps"
+network: "insight-apps.test"
 authors:
 authorize:
 use:
