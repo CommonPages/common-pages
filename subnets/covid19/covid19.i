@@ -6,12 +6,15 @@
   paths.FAQ
 
 >>>
-  {AboutClaimspace Claimspace} is an experimental platform that empowers critical thinkers to create and sharing knowledge collectively. Its information interface generates maps from community coded documents.
+  {AboutClaimspace Claimspace} is an experimental platform that empowers critical thinkers to create and sharing knowledge collectively.
 
-  It is not the objective of this portal to make authoritative claims. The objective is to support collective critical thinking by documenting the range of claims now active in the information landscape against a backdrop of foundational concepts in {Biology biology}, {Physiology physiology}, {Epidemiology epidemiology}, and {Medicine medicine}.
+  It is not the objective of this portal to make authoritative claims. The objective is to support collective critical thinking by documenting the range of claims that are now active in the information landscape against a backdrop of foundational concepts in {Biology biology}, {Physiology physiology}, {Epidemiology epidemiology}, and {Medicine medicine}.
 
 -- Recent Revisions
   Revisions.March_29
+
+>>>
+  Follow the [Claimspace Twitter account](https://twitter.com/ClaimspaceOrg) for all future updates to the knowledge base. Find the complete revision history in the COVID-19 portal's {Revisions revision feed}.
 
 # >>> Full Revision History
 #   Find the complete revision history in the COVID-19 portal's {Revisions revision feed}.
@@ -20,11 +23,11 @@
   foundations
 
 -- Claims
+  claims.Timeline
   claims.Features
   claims.Diagnostics
   claims.Prevention
   claims.Remediation
-  claims.Timeline
   claims.Projections
 
 -- Feeds

@@ -18,3 +18,4 @@ import feeds.News
 import feeds.Revisions
 
 import Research._
+import News._

@@ -9,7 +9,11 @@ model module Biology
     Transmission
     Shedding
     Virus
-    Coronavirus
     Strain
     NovelStrain
+    # probably move to epideimiology, or timeline
+    Coronavirus
+    Sars
+    SarsCov
+    SarsCov2
     Covid19

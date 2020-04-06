@@ -1,6 +1,10 @@
 index: hide
 . lib
 
+  # DNA
+  # RNA
+  # RNA Virus
+
   model Replication
 
   model Transmission
@@ -18,6 +22,12 @@ index: hide
   model Strain
 
   model NovelStrain
+
+  model Sars
+
+  model SarsCov
+
+  model SarsCov2
 
   model Covid19
 

@@ -1,6 +1,18 @@
 index: hide
 . lib
 
+  model ViralLoad
+    head = Viral load, also known as viral burden, viral titre or viral titer, is a numerical expression of the quantity of virus in a given volume.
+
+  model Recombination
+    # https://en.wikipedia.org/wiki/Genetic_recombination
+    head = Genetic recombination (also known as genetic reshuffling) is the exchange of genetic material between different organisms which leads to production of offspring with combinations of traits that differ from those found in either parent.
+
+  model Reservoirs
+
+  model IndexCase
+    head = The index case (sometimes referred to as patient zero) is the first documented patient in a disease epidemic within a population, or the first documented patient included in an epidemiological study.
+
   model Outbreak
 
   model Surveillance

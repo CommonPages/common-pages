@@ -3,11 +3,15 @@
 model module Epidemiology
 
   --
+    ViralLoad
+    Reservoirs
+    Recombination
+    IndexCase
     Outbreak
-    Surveillance
     Epidemic
     Pandemic
     R0
     SocialNetworks
     SuperSpreader
     Seasonality
+    Surveillance
