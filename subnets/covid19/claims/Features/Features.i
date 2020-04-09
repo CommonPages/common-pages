@@ -62,6 +62,8 @@ subject module Features
       'van_Doremalen_et_al_2020.!c
       'Bi_et_al_2020
       'Bi_et_al_2020.!b
+      'Zimmermann_et_al_2020
+      'Zimmermann_et_al_2020.!b
 
   subject Course
     --
@@ -87,3 +89,6 @@ subject module Features
       'Wu_et_al_2020
       'Wu_et_al_2020.!a
       'Wu_et_al_2020.!b
+      'Zimmermann_et_al_2020
+      'Zimmermann_et_al_2020.!a
+      'Zimmermann_et_al_2020.!c

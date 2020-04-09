@@ -31,6 +31,7 @@ feed Research
   / March, 2020
   feed March2020
     --
+      'Zimmermann_et_al_2020
       'Wu_et_al_2020
       'Bi_et_al_2020
       'Matsuyama_et_al_2020
@@ -148,6 +149,29 @@ feed Research
   #
   #
   #
+
+
+  // Coronavirus Infections in Children Including COVID-19
+  doi: https://doi.org/10.1097/INF.0000000000002660
+  ref 'Zimmermann_et_al_2020
+    head = In this review, we summarize epidemiologic, clinical and diagnostic findings, as well as treatment and prevention options for common circulating and novel CoVs infections in humans with a focus on infections in children.
+
+    >>> Abstract
+      Coronaviruses (CoVs) are a large family of enveloped, single-stranded, zoonotic RNA viruses. Four CoVs commonly circulate among humans: HCoV2-229E, -HKU1, -NL63 and -OC43. However, CoVs can rapidly mutate and recombine leading to novel CoVs that can spread from animals to humans. The novel CoVs severe acute respiratory syndrome coronavirus (SARS-CoV) emerged in 2002 and Middle East respiratory syndrome coronavirus (MERS-CoV) in 2012. The 2019 novel coronavirus (SARS-CoV-2) is currently causing a severe outbreak of disease (termed COVID-19) in China and multiple other countries, threatening to cause a global pandemic. In humans, CoVs mostly cause respiratory and gastrointestinal symptoms. Clinical manifestations range from a common cold to more severe disease such as bronchitis, pneumonia, severe acute respiratory distress syndrome, multi-organ failure and even death. SARS-CoV, MERS-CoV and SARS-CoV-2 seem to less commonly affect children and to cause fewer symptoms and less severe disease in this age group compared with adults, and are associated with much lower case-fatality rates. Preliminary evidence suggests children are just as likely as adults to become infected with SARS-CoV-2 but are less likely to be symptomatic or develop severe symptoms. However, the importance of children in transmitting the virus remains uncertain. Children more often have gastrointestinal symptoms compared with adults. Most children with SARS-CoV present with fever, but this is not the case for the other novel CoVs. Many children affected by MERS-CoV are asymptomatic. The majority of children infected by novel CoVs have a documented household contact, often showing symptoms before them. In contrast, adults more often have a nosocomial exposure. In this review, we summarize epidemiologic, clinical and diagnostic findings, as well as treatment and prevention options for common circulating and novel CoVs infections in humans with a focus on infections in children.
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / March, 2020 - The Pediatric Infectious Disease Journal
+    let !a self assert = SARS-CoV, MERS-CoV and SARS-CoV-2 infections seem to affect children less commonly and less severely as compared with adults. This might be because children are less frequently exposed to the main sources of transmission (which until now has been disproportionally nosocomial) or because they are less exposed to animals. However, it could also be that children are less frequently symptomatic or have less severe symptoms and are therefore less often tested, leading to an underestimate of the true numbers infected.
+
+    / March, 2020 - The Pediatric Infectious Disease Journal
+    let !b self assert = The importance of children in transmitting the virus remains uncertain. The majority of children infected by a novel CoVs reported thus far have a documented household contact, often showing symptoms before them, suggesting the possibility that children are not an important reservoir for novel CoVs.
+
+    / March, 2020 - The Pediatric Infectious Disease Journal
+    let !c self assert = To date, no deaths in children have been reported for SARS-CoV or SARS-CoV-2, except (in the case of the former) for infants of mothers who were infected during pregnancy.
 
   // Estimating clinical severity of COVID-19 from the transmission dynamics in Wuhan, China
   doi: https://doi.org/10.1038/s41591-020-0822-7

@@ -11,17 +11,6 @@ ref 'Wu_et_al_2020
   / March, 2020 - bioRxiv
   let !a self assert =
 
-// Coronavirus Infections in Children Including COVID-19
-doi: https://doi.org/10.1097/INF.0000000000002660
-ref 'Zimmermann_et_al_2020
-  head =
-
-  -- exports
-    !a
-
-  / March, 2020 - The Pediatric Infectious Disease Journal
-  let !a self assert =
-
 // "Possible Vertical Transmission of SARS-CoV-2 From an Infected Mother to Her Newborn
 
 // "
