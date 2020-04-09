@@ -3,6 +3,8 @@
 feed Research
   head = Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
+  # allstars: Linlin Zhang
+
   -- best of
     'Corman_et_al_2018
     'Ruiyun_et_al_2020
@@ -14,16 +16,25 @@ feed Research
     'Holshue_et_al_2020
 
   -- all
-    2020
+    April2020
+    March2020
+    February2020
+    January2020
     2019
-    2018
-    Pre2018
+    Pre2019
 
-  feed 2020
-    -- April, 2020
+  / April, 2020
+  feed April2020
+    --
       'Chen_et_al_2000
 
-    -- March, 2020
+  / March, 2020
+  feed March2020
+    --
+      'Wu_et_al_2020
+      'Bi_et_al_2020
+      'Matsuyama_et_al_2020
+      'Zhang_et_al_2020d
       'Yao_et_al_2020
       'Liu_et_al_2020b
       'Gautret_et_al_2020
@@ -50,7 +61,10 @@ feed Research
       'Hoffman_et_al_2020
       'Ong_et_al_2020
 
-    -- February, 2020
+  / February, 2020
+  feed February2020
+    --
+      'Zhang_et_al_2020c
       'Wang_et_al_2020
       'Li_et_al_2020
       'Lim_et_al_2020
@@ -59,7 +73,9 @@ feed Research
       'Zhou_et_al_2020
       'Phan_et_al_2020b
 
-    -- January, 2020
+  / January, 2020
+  feed January2020
+    --
       'Phan_et_al_2020
       'Zhu_et_al_2020
 
@@ -74,7 +90,7 @@ feed Research
     -- February, 2019
       'Wong_et_al_2019
 
-  feed 2018
+  feed Pre2019
     -- December, 2018
       'Cui_et_al_2018
 
@@ -84,7 +100,9 @@ feed Research
     -- February, 2018
       'Corman_et_al_2018
 
-  feed Pre2018
+    -- August, 2017
+      'Sheahan_et_al_2017
+
     -- July, 2017
       'Lin_et_al_2017
 
@@ -112,11 +130,17 @@ feed Research
     -- April, 2008
       'Shi_et_al_2008
 
+    -- August, 2005
+      'Vincent_et_al_2005
+
     -- September, 2004
       'Darnell_et_al_2004
 
     -- June, 2004
       'Holmes_et_al_2004
+
+    -- November, 2003
+      'Savarino_et_al_2003
 
     -- April, 2003
       'Davis_et_al_2003
@@ -124,6 +148,147 @@ feed Research
   #
   #
   #
+
+  // Estimating clinical severity of COVID-19 from the transmission dynamics in Wuhan, China
+  doi: https://doi.org/10.1038/s41591-020-0822-7
+  ref 'Wu_et_al_2020
+    head = A key public health priority during the emergence of a novel pathogen is estimating clinical severity, which requires properly adjusting for the case ascertainment rate and the delay between symptoms onset and death. Using public and published information, we estimate that the overall symptomatic case fatality risk (the probability of dying after developing symptoms) of COVID-19 in Wuhan was 1.4% (0.9–2.1%).
+
+    >>>
+      As of 29 February 2020 there were 79,394 confirmed cases and 2,838 deaths from COVID-19 in mainland China. Of these, 48,557 cases and 2,169 deaths occurred in the epicenter, Wuhan. A key public health priority during the emergence of a novel pathogen is estimating clinical severity, which requires properly adjusting for the case ascertainment rate and the delay between symptoms onset and death. Using public and published information, we estimate that the overall symptomatic case fatality risk (the probability of dying after developing symptoms) of COVID-19 in Wuhan was 1.4% (0.9–2.1%), which is substantially lower than both the corresponding crude or naïve confirmed case fatality risk (2,169/48,557 = 4.5%) and the approximator of deaths/deaths + recoveries (2,169/2,169 + 17,572 = 11%) as of 29 February 2020. Compared to those aged 30–59 years, those aged below 30 and above 59 years were 0.6 (0.3–1.1) and 5.1 (4.2–6.1) times more likely to die after developing symptoms. The risk of symptomatic infection increased with age (for example, at ~4% per year among adults aged 30–60 years).
+
+    -- exports
+      !a
+      !b
+
+    / March, 2020 - Nature Medicine
+    let !a self assert = Using public and published information, we estimate that the overall symptomatic case fatality risk (the probability of dying after developing symptoms) of COVID-19 in Wuhan was 1.4% (0.9–2.1%).
+
+    / March, 2020 - Nature Medicine
+    let !b self assert = In early data from Wuhan—as of February, 29 2020—the risk of symptomatic infection increased with age (for example, at ~4% per year among adults aged 30–60 years).
+
+  // Epidemiology and Transmission of COVID-19 in Shenzhen China: Analysis of 391 cases and 1,286 of their close contacts
+  doi: https://doi.org/10.1101/2020.03.03.20028423
+  ref 'Bi_et_al_2020
+    head = Rapid spread of SARS-CoV-2 in Wuhan prompted heightened surveillance in Shenzhen and elsewhere in China. The resulting data provide a rare opportunity to measure key metrics of disease course, transmission, and the impact of control. Here, we compare cases and estimate key metrics.
+
+    >>>
+      Rapid spread of SARS-CoV-2 in Wuhan prompted heightened surveillance in Shenzhen and elsewhere in China. The resulting data provide a rare opportunity to measure key metrics of disease course, transmission, and the impact of control.
+
+    >>> Methods
+      The Shenzhen CDC identified 391 SARS-CoV-2 cases from January 14 to February 12, 2020 and 1286 close contacts. We compare cases identified through symptomatic surveillance and contact tracing, and estimate the time from symptom onset to confirmation, isolation, and hospitalization. We estimate metrics of disease transmission and analyze factors influencing transmission risk.
+
+    >>> Findings
+      Cases were older than the general population (mean age 45) and balanced between males (187) and females (204). Ninety-one percent had mild or moderate clinical severity at initial assessment. Three have died, 225 have recovered (median time to recovery is 21 days). Cases were isolated on average 4.6 days after developing symptoms; contact tracing reduced this by 1.9 days. Household contacts and those travelling with a case where at higher risk of infection (ORs 6 and 7) than other close contacts. The household secondary attack rate was 15%, and children were as likely to be infected as adults. The observed reproductive number was 0.4, with a mean serial interval of 6.3 days.
+
+    >>> Interpretation
+      Our data on cases as well as their infected and uninfected close contacts provide key insights into SARS-CoV-2 epidemiology. This work shows that heightened surveillance and isolation, particularly contact tracing, reduces the time cases are infectious in the community, thereby reducing R. Its overall impact, however, is uncertain and highly dependent on the number of asymptomatic cases. We further show that children are at similar risk of infection as the general population, though less likely to have severe symptoms; hence should be considered in analyses of transmission and control.
+
+    -- exports
+      !a
+      !b
+
+    / March, 2020 - medRxiv
+    let !a self assert = Heightened surveillance and isolation, particularly contact tracing, reduces the time cases are infectious in the community, thereby reducing R. Its overall impact, however, is uncertain and highly dependent on the number of asymptomatic cases.
+
+    / March, 2020 - medRxiv
+    let !b self assert = Children are at similar risk of infection as the general population, though less likely to have severe symptoms; hence should be considered in analyses of transmission and control.
+
+  // Enhanced isolation of SARS-CoV-2 by TMPRSS2-expressing cells
+  doi: https://doi.org/10.1073/pnas.2002589117
+  ref 'Matsuyama_et_al_2020
+    head = Here, we show that a TMPRSS2-expressing VeroE6 cell line is highly susceptible to SARS-CoV-2 infection, making it useful for isolating and propagating SARS-CoV-2. Our results reveal that, in common with SARS- and Middle East respiratory syndrome-CoV, SARS-CoV-2 infection is enhanced by TMPRSS2.
+
+    >>>
+      A novel betacoronavirus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which caused a large respiratory outbreak in Wuhan, China in December 2019, is currently spreading across many countries globally. Here, we show that a TMPRSS2-expressing VeroE6 cell line is highly susceptible to SARS-CoV-2 infection, making it useful for isolating and propagating SARS-CoV-2. Our results reveal that, in common with SARS- and Middle East respiratory syndrome-CoV, SARS-CoV-2 infection is enhanced by TMPRSS2.
+
+    -- exports
+      !a
+      !b
+
+    / March, 2020 - National Academy of Sciences
+    let !a self assert = TMPRSS2-expressing cell lines are highly susceptible to SARS-CoV, MERS-CoV, and SARS-CoV-2, making the VeroE6/TMPRSS2 cell line a suitable contributor to the global surveillance of high-risk CoVs.
+
+    / March, 2020 - National Academy of Sciences
+    let !b self assert = VeroE6/TMPRSS2 cells are easily maintained, suitable for large-scale propagation, and now available from Japanese Collection of Research Bioresources (JCRB) Cell Bank in Japan (https://cellbank.nibiohn.go.jp/english/) (JCRB no. JCRB1819).
+
+  // Structure of SARS-CoV-2 Main Protease as a Basis for Drug Design
+  doi: https://doi.org/10.1126/science.abb3405
+  ref 'Zhang_et_al_2020d
+    head = An attractive drug target among coronaviruses is the main protease (Mpro, 3CLpro), due to its essential role in processing the polyproteins that are translated from the viral RNA. We report the X-ray structures of the unliganded SARS-CoV-2 Mpro and its complex with an α-ketoamide inhibitor. We developed the lead compound into a potent inhibitor of the SARS-CoV-2 Mpro.
+
+    >>> Abstract
+      The COVID-19 pandemic caused by SARS-CoV-2 is a global health emergency. An attractive drug target among coronaviruses is the main protease (Mpro, 3CLpro), due to its essential role in processing the polyproteins that are translated from the viral RNA. We report the X-ray structures of the unliganded SARS-CoV-2 Mpro and its complex with an α-ketoamide inhibitor. This was derived from a previously designed inhibitor but with the P3-P2 amide bond incorporated into a pyridone ring to enhance the half-life of the compound in plasma. Based on the structure, we developed the lead compound into a potent inhibitor of the SARS-CoV-2 Mpro. The pharmacokinetic characterization of the optimized inhibitor reveals a pronounced lung tropism and suitability for administration by the inhalative route.
+
+    -- exports
+      !a
+
+    / March, 2020 - Science
+    let !a self assert = Given favorable pharmacokinetic results, our study provides a useful framework for development of the pyridone-containing inhibitors toward anticoronaviral drugs.
+
+  // α-Ketoamides as Broad-Spectrum Inhibitors of Coronavirus and Enterovirus Replication: Structure-Based Design, Synthesis, and Activity Assessment
+  doi: https://doi.org/10.1021/acs.jmedchem.9b01828
+  ref 'Zhang_et_al_2020c
+    head = Because of their unique specificity and essential role in viral polyprotein processing, certain proteases are suitable targets for the development of antiviral drugs. Six crystal structures of protease–inhibitor complexes were determined as part of this study.
+
+    >>> Abstract
+      The main protease of coronaviruses and the 3C protease of enteroviruses share a similar active-site architecture and a unique requirement for glutamine in the P1 position of the substrate. Because of their unique specificity and essential role in viral polyprotein processing, these proteases are suitable targets for the development of antiviral drugs. In order to obtain near-equipotent, broad-spectrum antivirals against alphacoronaviruses, betacoronaviruses, and enteroviruses, we pursued a structure-based design of peptidomimetic α-ketoamides as inhibitors of main and 3C proteases. Six crystal structures of protease–inhibitor complexes were determined as part of this study. Compounds synthesized were tested against the recombinant proteases as well as in viral replicons and virus-infected cell cultures; most of them were not cell-toxic. Optimization of the P2 substituent of the α-ketoamides proved crucial for achieving near-equipotency against the three virus genera. The best near-equipotent inhibitors, 11u (P2 = cyclopentylmethyl) and 11r (P2 = cyclohexylmethyl), display low-micromolar EC50 values against enteroviruses, alphacoronaviruses, and betacoronaviruses in cell cultures. In Huh7 cells, 11r exhibits three-digit picomolar activity against the Middle East Respiratory Syndrome coronavirus.
+
+    -- exports
+      !a
+
+    / February, 2020 -  Journal of Medicinal Chemistry
+    let !a self assert = We observed a good correlation between the inhibitory activity of the designed compounds against the isolated proteases, in viral replicons, and in virus-infected Huh7 cells.
+
+    / February, 2020 -  Journal of Medicinal Chemistry
+    let !b self assert = 11r exhibits excellent anti-MERS-CoV activity in virus-infected Huh7 cells. Because of the high similarity between the main proteases of SARS-CoV and the novel BetaCoV/Wuhan/2019, we expect 11r to exhibit good antiviral activity against the new coronavirus as well.
+
+  // Effects of chloroquine on viral infections: an old drug against today's diseases
+  doi: https://doi.org/10.1016/S1473-3099(03)00806-5
+  ref 'Savarino_et_al_2003
+    head = We review the available information on the effects of chloroquine on viral infections, raising the question of whether this old drug may experience a revival in the clinical management of viral diseases such as AIDS and severe acute respiratory syndrome, which afflict mankind in the era of globalisation.
+
+    >>> Abstract
+      Chloroquine is a 9-aminoquinoline known since 1934. Apart from its well-known antimalarial effects, the drug has interesting biochemical properties that might be applied against some viral infections. Chloroquine exerts direct antiviral effects, inhibiting pH-dependent steps of the replication of several viruses including members of the flaviviruses, retroviruses, and coronaviruses. Its best-studied effects are those against HIV replication, which are being tested in clinical trials. Moreover, chloroquine has immunomodulatory effects, suppressing the production/release of tumour necrosis factor α and interleukin 6, which mediate the inflammatory complications of several viral diseases. We review the available information on the effects of chloroquine on viral infections, raising the question of whether this old drug may experience a revival in the clinical management of viral diseases such as AIDS and severe acute respiratory syndrome, which afflict mankind in the era of globalisation.
+
+    -- exports
+      !a
+
+    / November, 2003 -  The Lancet, Infectious Diseases
+    let !a self assert = Cloroquine has an exceptionally broad spectrum of antimicrobial activity that could be exploited in many infections. Results obtained in the prophylaxis of Q fever indicate that chloroquine/hydroxychloroquine can be successfully used in the clinical management of infections other than malaria. As regards viral diseases, what is clear is that the drug has antiviral and immunomodulatory effects that warrant particular consideration.
+
+  // Broad-spectrum antiviral GS-5734 inhibits both epidemic and zoonotic coronaviruses
+  doi: https://doi.org/10.1126/scitranslmed.aal3653
+  ref 'Sheahan_et_al_2017
+    head = We show that a nucleotide prodrug, GS-5734, currently in clinical development for treatment of Ebola virus disease, can inhibit SARS-CoV and MERS-CoV replication in multiple in vitro systems.
+
+    >>> Abstract
+      Emerging viral infections are difficult to control because heterogeneous members periodically cycle in and out of humans and zoonotic hosts, complicating the development of specific antiviral therapies and vaccines. Coronaviruses (CoVs) have a proclivity to spread rapidly into new host species causing severe disease. Severe acute respiratory syndrome CoV (SARS-CoV) and Middle East respiratory syndrome CoV (MERS-CoV) successively emerged, causing severe epidemic respiratory disease in immunologically naïve human populations throughout the globe. Broad-spectrum therapies capable of inhibiting CoV infections would address an immediate unmet medical need and could be invaluable in the treatment of emerging and endemic CoV infections. We show that a nucleotide prodrug, GS-5734, currently in clinical development for treatment of Ebola virus disease, can inhibit SARS-CoV and MERS-CoV replication in multiple in vitro systems, including primary human airway epithelial cell cultures with submicromolar IC50 values. GS-5734 was also effective against bat CoVs, prepandemic bat CoVs, and circulating contemporary human CoV in primary human lung cells, thus demonstrating broad-spectrum anti-CoV activity. In a mouse model of SARS-CoV pathogenesis, prophylactic and early therapeutic administration of GS-5734 significantly reduced lung viral load and improved clinical signs of disease as well as respiratory function. These data provide substantive evidence that GS-5734 may prove effective against endemic MERS-CoV in the Middle East, circulating human CoV, and, possibly most importantly, emerging CoV of the future.
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / August, 2017 -  HHS public Access
+    let !a self assert = GS-5734, currently in clinical development for treatment of Ebola virus disease, can inhibit SARS-CoV and MERS-CoV replication in multiple in vitro systems.
+
+    / August, 2017 -  HHS public Access
+    let !b self assert = GS-5734 is effective against bat CoVs, prepandemic bat CoVs, and circulating contemporary human CoV in primary human lung cells, thus demonstrating broad-spectrum anti-CoV activity.
+
+    / August, 2017 -  HHS public Access
+    let !c self assert = In a mouse model of SARS-CoV pathogenesis, prophylactic and early therapeutic administration of GS-5734 significantly reduced lung viral load and improved clinical signs of disease as well as respiratory function.
+
+  // Chloroquine is a potent inhibitor of SARS coronavirus infection and spread
+  doi: https://doi.org/10.1186/1743-422X-2-69
+  ref 'Vincent_et_al_2005
+    head = Severe acute respiratory syndrome (SARS) is caused by a newly discovered coronavirus (SARS-CoV). We report that chloroquine has strong antiviral effects on SARS-CoV infection of primate cells.
+
+    -- exports
+      !a
+
+    / August, 2005 -  Virology Journal
+    let !a self assert = Chloroquine is effective in preventing the spread of SARS CoV in cell culture. Favorable inhibition of virus spread was observed when the cells were either treated with chloroquine prior to or after SARS CoV infection.
 
   // Toxicity Related to Chloroquine Treatment of Resistant Vivax Malaria
   doi: https://doi.org/10.1345/aph.1C311

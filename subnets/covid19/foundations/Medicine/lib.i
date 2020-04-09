@@ -16,3 +16,6 @@ index: hide
 
   model Tracing
     model DigitalContactTracing
+
+  model ClinicalSeverity
+  model CaseFatality

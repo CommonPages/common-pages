@@ -1,47 +1,14 @@
 
 
-// Structure of SARS-CoV-2 Main Protease as a Basis for Drug Design
-doi: https://doi.org/10.1126/science.abb3405
-ref 'Zhang_et_al_2020
-  head =
-
-  -- exports
-    !a
-
-  / March, 2020 - Science
-  let !a self assert =
-
-// Enhanced isolation of SARS-CoV-2 by TMPRSS2-expressing cells
-doi: https://doi.org/10.1073/pnas.2002589117
-ref 'Matsuyama_et_al_2020
-  head =
-
-  -- exports
-    !a
-
-  / March, 2020 - National Academy of Sciences
-  let !a self assert =
-
-// Epidemiology and Transmission of COVID-19 in Shenzhen China: Analysis of 391 cases and 1,286 of their close contacts
-doi: https://doi.org/10.1101/2020.03.03.20028423.
-ref 'Bi_et_al_2020
-  head =
-
-  -- exports
-    !a
-
-  / March, 2020 - medRxiv
-  let !a self assert =
-
-// Estimating clinical severity of COVID-19 from the transmission dynamics in Wuhan, China
-doi: https://doi.org/10.1038/s41591-020-0822-7
+// Fully human single-domain antibodies against SARS-CoV-2
+doi: https://doi.org/10.1101/2020.03.30.015990
 ref 'Wu_et_al_2020
   head =
 
   -- exports
     !a
 
-  / March, 2020 - Nat Med
+  / March, 2020 - bioRxiv
   let !a self assert =
 
 // Coronavirus Infections in Children Including COVID-19
@@ -143,17 +110,6 @@ ref 'Jiang_et_al_2020
     !a
 
   / March, 2020 - medrxiv
-  let !a self assert =
-
-// Fully human single-domain antibodies against SARS-CoV-2
-doi: https://doi.org/10.1101/2020.03.30.015990
-ref 'Wu_et_al_2020
-  head =
-
-  -- exports
-    !a
-
-  / March, 2020 - bioRxiv
   let !a self assert =
 
 // Sequence analysis of SARS-CoV-2 genome reveals features important for vaccine design
@@ -365,17 +321,6 @@ ref 'Li_et_al_2020
 
 / March, 2020 - Journal of Pharmaceutical Analysis
 let !a self assert =
-
-// α-Ketoamides as Broad-Spectrum Inhibitors of Coronavirus and Enterovirus Replication: Structure-Based Design, Synthesis, and Activity Assessment
-doi: https://doi.org/10.1021/acs.jmedchem.9b01828
-ref 'Zhang_et_al_2020
-  head =
-
-  -- exports
-    !a
-
-  / February, 2020 -  Journal of Medicinal Chemistry
-  let !a self assert =
 
 // Epidemiological Characteristics of 2143 Pediatric Patients With 2019 Coronavirus Disease in China 10.1542/peds.2020-0702  dong_et_al_2020
   head =
@@ -595,17 +540,6 @@ ref 'Huang_et_al_2017
   / November, 2017 -  Clinical Microbiology and Infection
   let !a self assert =
 
-// Broad-spectrum antiviral GS-5734 inhibits both epidemic and zoonotic coronaviruses
-doi: https://doi.org/10.1126/scitranslmed.aal3653
-ref 'Sheahan_et_al_2017
-  head =
-
-  -- exports
-    !a
-
-  / August, 2017 -  HHS public Access
-  let !a self assert =
-
 // Lack of inflammatory gene expression in bats: a unique role for a transcription repressor
 doi: https://doi.org/10.1038/s41598-017-01513-w
 ref 'Banerjee_et_al_2017
@@ -804,17 +738,6 @@ ref 'Kenny_et_al_2007
   / July, 2007 -  American Society of Nephrology
   let !a self assert =
 
-// Chloroquine is a potent inhibitor of SARS coronavirus infection and spread
-doi: https://doi.org/10.1186/1743-422X-2-69
-ref 'Vincent_et_al_2005
-  head =
-
-  -- exports
-    !a
-
-  / August, 2005 -  Virology Journal
-  let !a self assert =
-
 // Adaptive Value of High Mutation Rates of RNA Viruses: Separating Causes from Consequences
 doi: https://doi.org/10.1128/JVI.79.18.11555-11558.2005
 ref 'Elena_et_al_2005
@@ -824,17 +747,6 @@ ref 'Elena_et_al_2005
     !a
 
   / August, 2005 -  American Society for Microbiology
-  let !a self assert =
-
-// Effects of chloroquine on viral infections: an old drug against today's diseases
-doi: https://doi.org/10.1016/S1473-3099(03)00806-5
-ref 'Savarino_et_al_2003
-  head =
-
-  -- exports
-    !a
-
-  / November, 2003 -  The lancet infectious diseases
   let !a self assert =
 
 // Pulmonary Infectious Mortality Among Patients With End-Stage Renal Disease
@@ -867,17 +779,6 @@ ref 'Franceschi_et_al_2006
     !a
 
   / May, 2000 - Journal of Clinical Microbiology
-  let !a self assert =
-
-// Massive chloroquine overdose--a survivor.
-doi: https://doi.org/10.1136/pgmj.67.789.678
-ref 'Stiff_et_al_1991
-  head =
-
-  -- exports
-    !a
-
-  / July, 1991 -  Postgraduate medical journal
   let !a self assert =
 
 // The Time Course of the Immune Response to Experimental Coronavirus Infection of Man

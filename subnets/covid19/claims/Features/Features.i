@@ -60,6 +60,8 @@ subject module Features
       'van_Doremalen_et_al_2020.!a
       'van_Doremalen_et_al_2020.!b
       'van_Doremalen_et_al_2020.!c
+      'Bi_et_al_2020
+      'Bi_et_al_2020.!b
 
   subject Course
     --
@@ -78,7 +80,10 @@ subject module Features
       'van_Doremalen_et_al_2020.!c
       'Harvard_2020.!b
 
-
+  / Clinical Severity
   subject Severity
     --
       'Ruiyun_et_al_2020
+      'Wu_et_al_2020
+      'Wu_et_al_2020.!a
+      'Wu_et_al_2020.!b

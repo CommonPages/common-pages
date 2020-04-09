@@ -11,3 +11,5 @@ model module Medicine
     Vaccines
     RPDs
     Tracing
+    ClinicalSeverity
+    CaseFatality

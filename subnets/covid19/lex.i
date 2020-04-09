@@ -17,5 +17,7 @@ import feeds.Research
 import feeds.News
 import feeds.Revisions
 
+import refs._
+
 import Research._
 import News._
