@@ -7,10 +7,10 @@ subject module Remediation
     'Covid19Trials
 
   --
-    'Chen_et_al_2000
-    'Chen_et_al_2000.!a
-    'Chen_et_al_2000.!b
-    'Chen_et_al_2000.!c
+    'Chen_et_al_2020
+    'Chen_et_al_2020.!a
+    'Chen_et_al_2020.!b
+    'Chen_et_al_2020.!c
     'Zhao_et_al_2010.
     'Zhao_et_al_2010.!a
     'Zhang_et_all_2020b

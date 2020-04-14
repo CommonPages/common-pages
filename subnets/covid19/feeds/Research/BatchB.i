@@ -1,117 +1,4 @@
 
-
-// Fully human single-domain antibodies against SARS-CoV-2
-doi: https://doi.org/10.1101/2020.03.30.015990
-ref 'Wu_et_al_2020
-  head =
-
-  -- exports
-    !a
-
-  / March, 2020 - bioRxiv
-  let !a self assert =
-
-// "Possible Vertical Transmission of SARS-CoV-2 From an Infected Mother to Her Newborn
-
-// "
-doi: https://doi.org/doi:10.1001/jama.2020.4621
-ref 'Dong_et_al_2020
-  head =
-
-  -- exports
-    !a
-
-  / March, 2020 - Jama
-  let !a self assert =
-
-// Estimating the infection and case fatality ratio for COVID-19 using age-adjusted data from the outbreak on the Diamond Princess cruise ship
-doi: https://doi.org/10.1101/2020.03.05.20031773
-ref 'Russell_et_al_2020
-  head =
-
-  -- exports
-    !a
-
-  / March, 2020 - medRxiv
-  let !a self assert =
-
-// Estimation of SARS-CoV-2 mortality during the early stages of an epidemic: a modelling study in Hubei, China and northern Italy
-doi: https://doi.org/10.1101/2020.03.04.20031104
-ref 'Hauser_et_al_2020
-  head =
-
-  -- exports
-    !a
-
-  / March, 2020 - medRxiv
-  let !a self assert =
-
-// Understanding COVID-19: what does viral RNA load really mean?
-doi: https://doi.org/10.1016/S1473-3099(20)30237-1
-ref 'Joynt_et_al_2020
-  head =
-
-  -- exports
-    !a
-
-  / March, 2020 - The Lancet Infectious Diseases
-  let !a self assert =
-
-// Temporal dynamics in viral shedding and transmissibility of COVID-19
-doi: https://doi.org/10.1101/2020.03.15.20036707
-ref 'He_et_al_2020
-  head =
-
-  -- exports
-    !a
-
-  / March, 2020 - MedRixiv
-  let !a self assert =
-
-// Viral dynamics in mild and severe cases of COVID-19
-doi: https://doi.org/10.1016/S1473-3099(20)30232-2
-ref 'Liu_et_al_2020
-  head =
-
-  -- exports
-    !a
-
-  / March, 2020 - The Lancet Infectious Diseases
-  let !a self assert =
-
-// SARS-CoV-2 Viral Load in Upper Respiratory Specimens of Infected Patients
-doi: https://doi.org/10.1056/NEJMc2001737
-ref 'Zou_et_al_2020
-  head =
-
-  -- exports
-    !a
-
-  / March, 2020 - The New England journal of medicine
-  let !a self assert =
-
-// Global profiling of SARS-CoV-2 specific IgG/ IgM responses of convalescents using a proteome microarray
-doi: https://doi.org/10.1101/2020.03.20.20039495
-ref 'Jiang_et_al_2020
-  head =
-
-  -- exports
-    !a
-
-  / March, 2020 - medrxiv
-  let !a self assert =
-
-// Sequence analysis of SARS-CoV-2 genome reveals features important for vaccine design
-doi: https://doi.org/10.1101/2020.03.30.016832
-ref 'Kames_et_al_2020
-  head =
-
-  -- exports
-    !a
-
-  / March, 2020 - bioRxiv
-  let !a self assert =
-
 // A serological assay to detect SARS-CoV-2 seroconversion in humans
 doi: https://doi.org/10.1101/2020.03.17.20037713
 ref 'Amanat_et_al_2020
@@ -268,17 +155,6 @@ ref 'Guan_et_al_2020
   / March, 2020 - European Respiratory Journal
   let !a self assert =
 
-// News Feature: Avoiding pitfalls in the pursuit of a COVID-19 vaccine
-doi: https://doi.org/10.1073/pnas.2005456117
-ref 'Peeples_et_al_2020
-  head =
-
-  -- exports
-    !a
-
-  / March, 2020 - National Academy of Sciences
-  let !a self assert =
-
 // Accelerated viral dynamics in bat cell lines, with implications for zoonotic emergence
 doi: https://doi.org/10.7554/eLife.48401
 ref 'Brook_et_al_2020
@@ -299,58 +175,6 @@ ref 'Coutard_et_al_2020
     !a
 
   / February, 2020 -  Antiviral Research
-  let !a self assert =
-
-// Molecular immune pathogenesis and diagnosis of COVID-19
-doi: https://doi.org/10.1016/j.jpha.2020.03.001
-ref 'Li_et_al_2020
-
--- exports
-  !a
-
-/ March, 2020 - Journal of Pharmaceutical Analysis
-let !a self assert =
-
-// Epidemiological Characteristics of 2143 Pediatric Patients With 2019 Coronavirus Disease in China 10.1542/peds.2020-0702  dong_et_al_2020
-  head =
-
-  -- exports
-    !a
-
-  / February, 2020 -  Pediatrics
-  let !a self assert =
-
-// Potential interventions for novel coronavirus in China: A systematic review
-doi: https://doi.org/10.1002/jmv.25707
-ref 'Zhand_et_al_2020
-  head =
-
-  -- exports
-    !a
-
-  / February, 2020 -  Journal of medical virology
-  let !a self assert =
-
-// Vulnerabilities in coronavirus glycan shields despite extensive glycosylation
-doi: https://doi.org/10.1101/2020.02.20.957472
-ref 'Watanabe_et_al_2020
-  head =
-
-  -- exports
-    !a
-
-  / February, 2020 -  bioRxiv
-  let !a self assert =
-
-// Convalescent plasma as a potential therapy for COVID-19
-doi: https://doi.org/10.1016/S1473-3099(20)30141-9
-ref 'Chen_et_al_2020
-  head =
-
-  -- exports
-    !a
-
-  / February, 2020 -  Elsevier
   let !a self assert =
 
 // Molecular and serological investigation of 2019-nCoV infected patients: implication of multiple shedding routes
@@ -452,17 +276,6 @@ ref 'Li_et_al_2019
   / October, 2019 - mBio
   let !a self assert =
 
-// Anti–spike IgG causes severe acute lung injury by skewing macrophage responses during acute SARS-CoV infection
-doi: https://doi.org/10.1172/jci.insight.123158
-ref 'Liu_et_al_2019
-  head =
-
-  -- exports
-    !a
-
-  / February, 2019 -  JCI Insight
-  let !a self assert =
-
 // Going to Bat(s) for Studies of Disease Tolerance
 doi: https://doi.org/10.3389/fimmu.2018.02112
 ref 'Mandl_et_al_2018
@@ -474,16 +287,7 @@ ref 'Mandl_et_al_2018
   / September, 2018 - Frontiers in Immunology
   let !a self assert =
 
-// Why are RNA virus mutation rates so damn high?
-doi: https://doi.org/10.1371/journal.pbio.3000003
-ref 'Duffy_et_al_2018
-  head =
 
-  -- exports
-    !a
-
-  / August, 2018 -  PLoS Biology
-  let !a self assert =
 
 // Dampened STING-Dependent Interferon Activation in Bats
 doi: https://doi.org/10.1016/j.chom.2018.01.006
@@ -540,27 +344,7 @@ ref 'Banerjee_et_al_2017
   / May, 2017 - Scientific reports
   let !a self assert =
 
-// Mechanisms of viral mutation
-doi: https://doi.org/10.1007/s00018-016-2299-6
-ref 'Sanjuán_et_al_2016
-  head =
 
-  -- exports
-    !a
-
-  / July, 2016 -  Cellular and Molecular life Sciences
-  let !a self assert =
-
-// Antibody Response and Disease Severity in Healthcare Worker MERS Survivors
-doi: https://doi.org/10.3201/eid2206.160010
-ref 'Alshukairi_AN_et_al_2016
-  head =
-
-  -- exports
-    !a
-
-  / June, 2016 -  Emerging Infectious Diseases
-  let !a self assert =
 
 // Comparing Luminex NxTAG‐Respiratory Pathogen Panel and RespiFinder‐22 for multiplex detection of respiratory pathogens
 doi: https://doi.org/10.1002/jmv.24492
@@ -571,17 +355,6 @@ ref 'Beckmann_et_al_2016
     !a
 
   / February, 2016 -  Journal of medical virology
-  let !a self assert =
-
-// Genetic drift of human coronavirus OC43 spike gene during adaptive evolution
-doi: https://doi.org/10.1038/srep11451
-ref 'Ren_et_al_2015
-  head =
-
-  -- exports
-    !a
-
-  / June, 2015 -  Scientific Reports
   let !a self assert =
 
 // Analysis of Cathepsin and Furin Proteolytic Enzymes Involved in Viral Fusion Protein Activation in Cells of the Bat Reservoir Host
@@ -661,28 +434,6 @@ ref 'Qian_et_al_2011
   / May, 2011 - The Journal of Infectious Diseases,
   let !a self assert =
 
-// Zn2+ Inhibits Coronavirus and Arterivirus RNA Polymerase Activity In Vitro and Zinc Ionophores Block the Replication of These Viruses in Cell Culture
-doi: https://doi.org/10.1371/journal.ppat.1001176
-ref 'Velthuis_et_al_2010
-  head =
-
-  -- exports
-    !a
-
-  / November, 2010 -  Plos Pathogens
-  let !a self assert =
-
-// Viral Mutation Rates
-doi: https://doi.org/10.1128/JVI.00694-10
-ref 'Sanjuán_et_al_2010
-  head =
-
-  -- exports
-    !a
-
-  / October, 2010 - Journal of Virology
-  let !a self assert =
-
 // Angiotensin-converting enzyme 2 (ACE2) proteins of different bat species confer variable susceptibility to SARS-CoV entry
 doi: https://doi.org/10.1007/s00705-010-0729-6
 ref 'Hou_et_al_2010
@@ -727,17 +478,6 @@ ref 'Kenny_et_al_2007
   / July, 2007 -  American Society of Nephrology
   let !a self assert =
 
-// Adaptive Value of High Mutation Rates of RNA Viruses: Separating Causes from Consequences
-doi: https://doi.org/10.1128/JVI.79.18.11555-11558.2005
-ref 'Elena_et_al_2005
-  head =
-
-  -- exports
-    !a
-
-  / August, 2005 -  American Society for Microbiology
-  let !a self assert =
-
 // Pulmonary Infectious Mortality Among Patients With End-Stage Renal Disease
 doi: https://doi.org/10.1378/chest.120.6.1883
 ref 'Sarnak_et_al_2001
@@ -758,39 +498,6 @@ ref 'Franceschi_et_al_2006
     !a
 
   / June, 2000 - Annals of the New York Academy of Sciences
-  let !a self assert =
-
-
-// Contamination and Sensitivity Issues with a Real-Time Universal 16S rRNA PCR    Corless_et_al_2000
-  head =
-
-  -- exports
-    !a
-
-  / May, 2000 - Journal of Clinical Microbiology
-  let !a self assert =
-
-// The Time Course of the Immune Response to Experimental Coronavirus Infection of Man
-doi: https://doi.org/10.1017/s0950268800048019
-ref 'Callow_et_al_1990
-  head =
-
-  -- exports
-    !a
-
-  / October, 1990 - Epimediology Infections
-  let !a self assert =
-
-// "The time course of the immune response to experimental
-
-// coronavirus infection of man"
-doi: https://doi.org/ 10.1017/s0950268800048019  ka_et_al_1990
-  head =
-
-  -- exports
-    !a
-
-  / October, 1990 - epidemiology & infection
   let !a self assert =
 
 // Delayed-onset chloroquine retinopathy.

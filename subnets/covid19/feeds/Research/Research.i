@@ -23,14 +23,31 @@ feed Research
     2019
     Pre2019
 
+  # chen paper is wrongly put in April. Have written it to Feb 2020 but haven't deleted it from April
   / April, 2020
   feed April2020
     --
-      'Chen_et_al_2000
+      'Franklin_et_al_2020
+      'Sheahan_et_al_2020
+      'Berg_et_al_2020
 
   / March, 2020
   feed March2020
     --
+      'Miller_et_al_2020
+      'Xu_et_al_2020
+      'Peeples_et_al_2020
+      'Kames_et_al_2020
+      'Wu_et_al_2020b
+      'Jiang_et_al_2020
+      'Zou_et_al_2020
+      'Li_et_al_2020b
+      'Liu_et_al_2020c
+      'He_et_al_2020
+      'Joynt_et_al_2020
+      'Hauser_et_al_2020
+      'Russell_et_al_2020
+      'Dong_et_al_2020
       'Zimmermann_et_al_2020
       'Wu_et_al_2020
       'Bi_et_al_2020
@@ -65,18 +82,26 @@ feed Research
   / February, 2020
   feed February2020
     --
+      'zheng_et_al_2020
+      'hui_et_al_2020
+      'Watanabe_et_al_2020
+      'Zhang_et_al_2020e
+      'Dong_et_al_2020b
       'Zhang_et_al_2020c
       'Wang_et_al_2020
       'Li_et_al_2020
       'Lim_et_al_2020
       'Kim_et_al_2020
       'Coutard_et_al_2020
+      'Chen_et_al_2020
       'Zhou_et_al_2020
       'Phan_et_al_2020b
 
   / January, 2020
   feed January2020
     --
+      'Arts_et_al_2020
+      'Darrah_et_al_2020
       'Phan_et_al_2020
       'Zhu_et_al_2020
 
@@ -89,14 +114,21 @@ feed Research
       'Ramadan_and_Shaib_2019
 
     -- February, 2019
+      'Liu_et_al_2019
       'Wong_et_al_2019
 
   feed Pre2019
     -- December, 2018
       'Cui_et_al_2018
 
+    -- August, 2018
+      'Duffy_et_al_2018
+
     -- May, 2018
       'Pavlovich_et_al_2018
+
+    -- March, 2018
+      'agostini_et_al_2018
 
     -- February, 2018
       'Corman_et_al_2018
@@ -104,17 +136,64 @@ feed Research
     -- August, 2017
       'Sheahan_et_al_2017
 
+    -- June, 2017
+      'gracia_et_al_2017
+      'gracia_et_al_2017b
+
     -- July, 2017
       'Lin_et_al_2017
+
+    -- March, 2017
+      'Fu_et_al_2017
+
+    -- October, 2016
+      'Ciavarella_et_al_2016
+
+    -- September, 2016
+      'Higgins_et_al_2106
+      'Netea_et_al_2016
+
+    -- July, 2016
+      'Sanjuán_et_al_2016
+
+    -- June, 2016
+      'Alshukairi_AN_et_al_2016
+
+    -- February, 2016
+      'Zumla_et_al_2016
+
+    -- December, 2015
+      'kawano_et_al_2015
 
     -- November, 2015
       'Menachery_et_al_2015
 
+    -- June, 2015
+       'Ren_et_al_2015
+
+    -- October, 2014
+      'Rossignol_et_al_2014
+
     -- April, 2013
       'Wertheim_et_al_2013
 
+    -- October, 2012
+      'Kleinnijenhuis_et_al_2012
+
+    -- September, 2012
+      'Cvetkovic_et_al_2012
+
     -- December, 2011
       'bin_Reza_et_al_2011
+
+    -- November, 2010
+      'Velthuis_et_al_2010
+
+    -- October, 2010
+      'Sanjuán_et_al_2010
+
+    -- September, 2010
+      'christakis_et_al_2010
 
     -- June, 2010
       'Zhao_et_al_2010
@@ -128,11 +207,19 @@ feed Research
     -- October, 2009
       'Chen_et_al_2009
 
+    -- January, 2009
+      'Takeuchi_et_al_2009
+
     -- April, 2008
       'Shi_et_al_2008
 
+    -- April, 2006
+      'Fergusion_et_al_2006
+      'sebastiani_et_al_2006
+
     -- August, 2005
       'Vincent_et_al_2005
+      'Elena_et_al_2005
 
     -- September, 2004
       'Darnell_et_al_2004
@@ -146,9 +233,881 @@ feed Research
     -- April, 2003
       'Davis_et_al_2003
 
+    -- October, 1990
+      'Callow_et_al_1990
   #
-  #
-  #
+
+  # Tag- BCG
+  // Bacille Calmette-Guérin induces NOD2-dependent nonspecific protection from reinfection via epigenetic reprogramming of monocytes
+  doi: https://doi.org/10.1073/pnas.1202870109
+  ref 'Kleinnijenhuis_et_al_2012
+    head = We provide unique mechanistic insights into the processes mediating the adaptive features of innate immunity, or trained immunity, in humans. The modified methylation status of cytokine promoters after BCG vaccination in human monocytes, as well as the blockade of the in vitro training effects with methyltransferase inhibitors, suggests that the innate immune response in humans can be reprogrammed epigenetically.
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / October, 2012 - PNAS
+    let !a self assert = Similar mechanisms have been demonstrated before in plants, during so-called systemic acquired resistance, and in invertebrates; however, both classes of organisms are devoid of adaptive immune responses. The present study teaches us that in the presence of adaptive immunity—as is the case in mammals—training of innate immunity also is operational and serves to enhance resistance to infection.
+
+    / October, 2012 - PNAS
+    let !b self assert = We provide firm evidence that innate immunity in humans has adaptive features and that it has the capacity to display an enhanced response upon reinfection. This process of trained immunity likely represents a paradigm shift in immunity, as it demonstrates the existence of (nonspecific) immunological memory in the absence of adaptive immune responses.
+
+    / October, 2012 - PNAS
+    let !c self assert = It is important to note that BCG and the NOD2-ligand MDP have long been known to induce nonspecific protective effects against infections (7, 15) and neoplasms (34), providing the hope that trained immunity can indeed be harnessed for preventive and therapeutic purposes.
+
+
+  # Tag- MMR, measles vaccine
+  // Homologous protein domains in SARS-CoV-2 and measles, mumps and rubella viruses: preliminary evidence that MMR vaccine might provide protection against COVID-19
+  doi: https://doi.org/10.1101/2020.04.10.20053207
+  ref 'Franklin_et_al_2020
+    head = This paper that MMR vaccine might provide some protection against CoVID-19, via recognition of SARS-CoV2 protein by Anti-Rubella protein antibodies. CoVID patients display high levels of anti-Rubella antibodies.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / April, 2020 - medRxiv
+    let !a self assert = SARS-CoV2 Spike glycoproteins are class I viral membrane fusion proteins that share structural similarities with the Fusion proteins from both measles and mumps viruses."
+
+    / April, 2020 - medRxiv
+    let !b self assert = The Macro domains of SARS-CoV-2 and rubella virus share 29% amino acid sequence identity,suggesting they have the same protein fold. Interestingly, the residues conserved in the SARS-CoV-2 and rubella Macro domains include surface-exposed residues and are present in the attenuated rubella virus used in the MMR vaccine.
+
+    / April, 2020 - medRxiv
+    let !c self assert = We identified at a population level that both older populations and males are both, less likely to be seropositive for rubella-specific immunity, based on historical vaccination programmes of all three countries considered in this report.
+
+    / April, 2020 - medRxiv
+    let !d self assert =  Macro domain could be recognised by antibodies raised against rubella was supported by data that demonstrated that patients who have SARS-CoV2 infection had raised levels of rubella IgG to a level in keeping with secondary rubella infection.
+
+    / April, 2020 - medRxiv
+    let !e self assert = We suggest that MMR will not prevent COVID-19 infection but could potentially reduce poor outcome. To determine if there is a potential effect of MMR vaccinations, it would be necessary to know the vaccination status of younger patients infected with SARS-CoV-2 and the severity of the disease.
+
+  # Tag- BCG vaccine, Immune system, Trained Immunity - Claims regarding trained immunity is in the excel sheet. To be imported / processed later
+  // Trained immunity: A program of innate immune memory in health and disease
+  doi: http://doi.org/10.1126/science.aaf1098
+  ref 'Netea_et_al_2016
+    head = We reappraised the various arguments pointing to the presence of innate immune memory in plants, lower animals, and vertebrates. We defined trained immunity as a nonspecific immunological memory resulting from rewiring the epigenetic program and the functional state of the innate immune system, eventually resulting in protection against secondary infections. We also compared data assessing the mechanisms of tolerance and trained immunity.
+
+    >>> Abstract
+      The general view that only adaptive immunity can build immunological memory has recently been challenged. In organisms lacking adaptive immunity, as well as in mammals, the innate immune system can mount resistance to reinfection, a phenomenon termed “trained immunity” or “innate immune memory.” Trained immunity is orchestrated by epigenetic reprogramming, broadly defined as sustained changes in gene expression and cell physiology that do not involve permanent genetic changes such as mutations and recombination, which are essential for adaptive immunity. The discovery of trained immunity may open the door for novel vaccine approaches, new therapeutic strategies for the treatment of immune deficiency states, and modulation of exaggerated inflammation in autoinflammatory diseases.
+
+    -- exports
+      !a
+      !b
+
+    / April, 2016 - Science
+    let !a self assert = The observation that trained monocytes have been identified in the circulation of BCG-vaccinated individuals for at least 3 months after vaccination suggests that reprogramming must take place at the level of progenitor cells in the bone marrow as well. Indeed, recent evidence has emerged to indicate that innate immune memory can be transferred via hematopoietic stem and progenitor cells
+
+    / April, 2016 - Science
+    let !b self assert = The nonspecific protective effects of BCG infection have also been linked with activation of NK cells. NK cells from BCG-vaccinated individuals have enhanced proinflammatory cytokine production in response to mycobacteria and other unrelated pathogens, and studies in mice have shown that BCG confers nonspecific protection against C. albicans, at least partially through NK cells
+
+  # Tag- BCG vaccine
+  // Association of BCG, DTP, and measles containing vaccines with childhood mortality: systematic review
+  doi: https://doi.org/10.1136/bmj.i5170
+  ref 'Higgins_et_al_2106
+    head = "Evidence suggests that receipt of BCG and MCV reduce overall mortality by more than would be expected through their effects on the diseases they prevent, and receipt of DTP may be associated with an increase in all cause mortality. Although efforts should be made to ensure that all children are immunised on schedule with BCG, DTP, and MCV, randomised trials are neededto compare the effects of different sequences."
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+
+    / Sep, 2016 - BMJ
+    let !a self assert = Receipt of BCG vaccine was associated with a reduction in all cause mortality: the average relative risks were 0.70 (95% confidence interval 0.49 to 1.01) from five clinical trials and 0.47 (0.32 to 0.69) from nine observational studies at high risk of bias. This would imply that there were 10 and five fewer deaths, respectively, per 1000 children during this period of time
+
+    / Sep, 2016 - BMJ
+    let !b self assert = Receipt of DTP (almost always with oral polio vaccine) was associated with a possible increase in all cause mortality on average (relative risk 1.38, 0.92 to 2.08) from 10 studies at high risk of bias; would imply that there were four and eight extra deaths, respectively, per 1000 children during the subsequent year; this effect seemed stronger in girls than in boys.
+
+    / Sep, 2016 - BMJ
+    let !c self assert = Receipt of standard titre MCV was associated with a reduction in all cause mortality (relative risks 0.74 (0.51 to 1.07) from four clinical trials and 0.51 (0.42 to 0.63) from 18 observational studies at high risk of bias); this effect seemed stronger in girls than in boys"
+
+    / Sep, 2016 - BMJ
+    let !d self assert = Seven observational studies, assessed as being at high risk of bias, have compared sequences of vaccines; results of a subset of these suggest that administering DTP with or after MCV may be associated with higher mortality than administering it before MCV.
+
+    / Sep, 2016 - BMJ
+    let !e self assert = Early observational studies in west Africa suggested that some routine infant immunisations might have effects on risk of mortality and morbidity unrelated to the specific diseases they are intended to prevent. Our review provides support for the hypothesis.
+
+    / Sep, 2016 - BMJ
+    let !f self assert = Tuberculosis is now an infrequent cause of death in infants and young children, so if BCG has an effect on all cause mortality it is unlikely to be entirely due to fewer deaths.from that disease. On the basis of the few studies that attempted to remove measles deaths from the calculations, any effect of MCV on all cause mortality seems unlikely to be fully accounted for by measles deaths. Any increase in all cause mortality following DTP is also likely to be a non-specific effect
+
+    / Sep, 2016 - BMJ
+    let !g self assert = The data raise sufficient concerns for us to strongly recommend further studies on the possible effects of immunisations on the immune system and on the risk of morbidity and mortality, particularly in relation to DTP. Randomised trials are needed to overcome the difficulties of interpretation of observational studies, and they should be sufficiently powered to examine possibly differential effects between boys and girls. Until the results of such trials are available, detrimental non-specific effects of DTP, if any, can probably be minimised by ensuring that infants receive their routine immunisations according to the currently recommended WHO schedule.
+
+  # Tag- BCG vaccine
+  // Correlation between universal BCG vaccination policy and reduced morbidity and mortality for COVID-19: an epidemiological study
+  doi: https://doi.org/10.1101/2020.03.24.20042937
+  ref 'Miller_et_al_2020
+    head = We found that countries without universal policies of BCG vaccination (Italy, Nederland, USA) have been more severely affected compared to countries with universal and long-standing BCG policies. Countries that have a late start of universal BCG policy (Iran, 1984) had high mortality, consistent with the idea that BCG protects the vaccinated elderly population. We also found that BCG vaccination also reduced the number of reported COVID-19 cases in a country. The combination of reduced morbidity and mortality makes BCG vaccination a potential new tool in the fight against COVID-19.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+
+    / March, 2020 - MedRxiv
+    let !a self assert = We also found that the earlier that a country established a BCG vaccination policy, the stronger the reduction in their number of deaths per million inhabitants, consistent with the idea that protecting the elderly population might be crucial in reducing mortality. However, there is still not proof that BCG inoculation at old age would boost defenses in elderly humans, but it seems to do so in Guinea pigs against M. tuberculosis.
+
+    / March, 2020 - MedRxiv
+    let !b self assert = We also found that BCG vaccination was correlated with a reduction in the number of COVID-19 reported infections in a country suggesting that BCG might confer some protection specifically against COVID-19. The broad use of the BCG vaccine across a population could reduce the number of carriers, and combined with other measures could act to slow down or stop the spread of COVID-19.
+
+    / March, 2020 - MedRxiv
+    let !c self assert = Some of the differences in morbidity and mortality produced by COVID-19 across countries might be partially explained by a country’s BCG vaccination policy. Italy, where the COVID 19 mortality is very high, never implemented universal BCG vaccination.
+
+    / March, 2020 - MedRxiv
+    let !d self assert = On the other hand, Japan had one of the early cases of COVID-19 but it has maintained a low mortality rate despite not implementing the most strict forms of social isolation. Japan have been implementing BCG vaccination since 1947. Iran had also been heavily hit by COVID-19 and it started its universal BCG vaccination policy only in 1984 potentially leaving anybody over 36 years old unprotected.
+
+  # Tag- BCG vaccine
+  // Prevention of tuberculosis in macaques after intravenous BCG immunization
+  doi: https://doi.org/10.1038/s41586-019-1817-8
+  ref 'Darrah_et_al_2020
+    head = This study provides a paradigm shift towards developing vaccines focused on preventing TB infection to prevent latency, active disease and transmission. The data suggest that the IV route may improve the protective capacity of other vaccine platforms. This study also provides a benchmark against which future vaccines will be tested and a new framework to understand the immune correlates and mechanisms of protection against TB.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / Jan, 2020 - Nature
+    let !a self assert = There are at least three immune mechanisms for how IV BCG may mediate protection. First, rapid elimination of Mtb may be due to the high magnitude of T cell responses in lung tissue. Our data are consistent with studies in mice that demonstrate the superior capacity of lung-localized TRM cells to control TB disease36,37, and studies in NHPs showing that depletion of lung interstitial CD4 T cells during SIV infection of Mtb latently infected NHPs is associated with reactivation and dissemination38
+
+    / Jan, 2020 - Nature
+    let !b self assert = Second, there is some evidence that antibodies can mediate control against Mtb in vivo or in vitro39,40. Antibody levels were higher in the BAL and plasma after IV BCG compared with other routes of vaccination, but declined to pre-vaccination levels in the BAL at the time of challenge
+
+    / Jan, 2020 - Nature
+    let !c self assert = Third, IV BCG vaccination in mice induced epigenetically modified macrophages with enhanced capacity to protect against Mtb infection41, a process termed ‘trained immunity’14,15. Such an effect was dependent on BCG being detectable in the bone marrow; this was not observed one month after IV BCG vaccination in NHPs.
+
+    / Jan, 2020 - Nature
+    let !d self assert = Moreover, there was no increase in innate activation of PBMCs to non-Mtb antigens after IV BCG vaccination—a hallmark of trained immunity (Supplementary Data 3). Nonetheless, it is possible that any of these three mechanisms might act independently or together to mediate protection.
+
+    / Jan, 2020 - Nature
+    let !e self assert = Because nine out of ten macaques were protected by IV BCG immunization we were unable to define an immune correlate of protection within this group; however, there were several unique quantitative and qualitative differences in the immune responses after IV BCG vaccination that may underlie protection. Data suggest that although measurement of BAL responses may provide greater insight into vaccine efficacy compared to blood, they may not fully reflect lung TRM cell responses that might be the mechanism of protection.
+
+  # Tag- BCG vaccine
+  // BCG Vaccination Protects against Experimental Viral Infection in Humans through the Induction of Cytokines Associated with Trained Immunity
+  doi: https://doi.org/10.1101/2020.03.17.20037713
+  ref 'Arts_et_al_2020
+    head = We report the broad epigenetic program induced by BCG vaccination in humans, which results in increased activation of circulating monocytes. Furthermore, we show that BCG vaccination can protect against a non-related viral infection in an experimental model of human infection and report that IL-1β-mediated responses, which are indicative of the induction of trained immunity, are the most reliable correlate of this protection.
+
+    -- exports
+      !a
+
+    / Jan, 2020 - Cell Host & Microbe
+    let !a self assert = Additional genetic and immunological validation studies demonstrate that IL-1 pathway is crucial for an efficient induction of trained immunity in humans, and this may have important implications for both vaccination and the pathophysiology of autoinflammatory diseases.
+
+  # Tag- BCG vaccine
+  // Mandated Bacillus Calmette-Guérin (BCG) vaccination predicts flattened curves for the spread of COVID-19
+  doi: https://doi.org/10.1101/2020.04.05.20054163
+  ref 'Berg_et_al_2020
+    head = We drew on day-by-day reports of both confirmed cases and deaths and analyzed growth curves in countries that mandate BCG policies versus countries that do not. Linear mixed models revealed that the presence of mandated BCG policies was associated with a significant flattening of the exponential increase in both confirmed cases and deaths during the first 30-day period of country-wise outbreaks.
+
+
+    / April, 2020 - medRxiv
+    let !a self assert =
+
+
+  # Tags - Antiviral
+  // An orally bioavailable broad-spectrum antiviral inhibits SARS-CoV-2 in human airway epithelial cell cultures and multiple coronaviruses in mice
+  doi: https://doi.org/10.1126/scitranslmed.abb5883
+  ref 'Sheahan_et_al_2020
+    head = We report the broad-spectrum antiviral activity of NHC and its orally bioavailable prodrug EIDD-2801, against SARS-CoV, MERS-CoV, and the current pandemic strain SARS-CoV-2 in primary human airway epithelial cells without cytoxicity. We highlight its potential utility as an effective antiviral against SARS-CoV-2 and other future zoonotic coronaviruses.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+
+    / April, 2020 - American Association for the Advancement of Science
+    let !a self assert = We show that prophylactic and therapeutic EIDD-2801 significantly reduced lung viral loads and improved pulmonary function in mouse models of both SARS- and MERS-CoV pathogenesis. Although the improvement in both SARS- and MERS-CoV outcomes diminished with the delay of treatment initiation time, it is important to note that the kinetics of disease in mice are compressed as compared to that in humans.
+
+    / April, 2020 - American Association for the Advancement of Science
+    let !b self assert =  In primary human lung cell cultures and mice infected with MERS-CoV, the NHC mutation rates inversely correlated with a reduction in infectious virus. We also found a positive correlation between increased mutation rates and the frequency of nonsynonymous mutations and the degree of therapeutic efficacy in mice. These data strongly support the notion that EIDD-2801 and its active nucleoside analog NHC exert their antiviral effect through the induction of error catastrophe in the targeted virus.
+
+    / April, 2020 - American Association for the Advancement of Science
+    let !c self assert = While our data suggest that the MERS-CoV nsp14 proofreading activity appeared ineffective against NHC in vitro and EIDD-2801 in vivo, future studies should investigate the antiviral activity of NHC in the presence or absence of the nsp14 proofreading activity, as loss of this activity increased the sensitivity of MHV and SARS-CoV replication to RDV treatment.
+
+    / April, 2020 - American Association for the Advancement of Science
+    let !d self assert = NHC is broadly active against multiple genetically distinct viruses including VEE, influenza A and B, Ebola, and Chikungunya viruses. For VEE and influenza, NHC/EIDD-2801 exerts its antiviral activity on the RNA-dependent RNA polymerase leading to error catastrophe by inducing an error rate of replication that surpasses the error threshold allowed to sustain a virus population. This process occurs when NHC is incorporated during RNA synthesis then subsequently misread thus increasing mutation rates.
+
+
+  # Tags - School closure
+  // A Bayesian dynamic model for influenza surveillance
+  doi: http://doi.org/10.1002/sim.2566
+  ref 'sebastiani_et_al_2006
+    head = By integrating these data sources into a dynamic model, we identify in children and infants presenting to the pediatric emergency department with respiratory syndromes an early indicator of impending influenza morbidity and mortality.
+
+    -- exports
+      !a
+
+    / April, 2006 - HHS Public Access
+    let !a self assert = Our findings suggest that children with respiratory syndromes seen at the ED act as sentinels for surges in influenza morbidity and mortality and that active surveillance of pediatric populations could become an important component of the influenza surveillanc effort.
+
+  # Tags - School closure
+  // Substantial Impact of School Closure on the Transmission Dynamics during the Pandemic Flu H1N1-2009 in Oita, Japan
+  doi: https://doi.org/10.1371/journal.pone.0144839
+  ref 'kawano_et_al_2015
+    head = The effect of school closure showed :  the number of infected students decreased by about 24% at its peak, and the number of cumulative infected students decreased by about 8.0%.
+
+    -- exports
+      !a
+
+    / December, 2015 - Plos One
+    let !a self assert = School closure was an effective intervention for mitigating the spread of influenza and should be implemented for more than 4 days. School closure has a remarkable impact on decreasing the number of infected students at the peak, but it does not substantially decrease the total number of infected students.
+
+
+  # Tags - School closure
+  // School closure policies at municipality level for mitigating influenza spread: a modelbased evaluation
+  doi: https://doi.org/10.1186/s12879-016-1918-z
+  ref 'Ciavarella_et_al_2016
+    head = Our simulation results suggest that reactive school closure policies based on student absenteeism can be highly effective in mitigating influenza spread in the case of pandemics/epidemics characterized by features (e.g., reproduction number and age-specific susceptibility to infection)
+
+    -- exports
+      !a
+      !b
+
+    / Oct, 2016 - BMC Infectious Diseases
+    let !a self assert = We estimate that gradual school closure strategies (i.e., strategies where classes close first) could lead to an attack rate reduction up to 20–25 % and to a peak week incidence reduction up to 50–55 %, at the cost of about three school weeks lost per student.
+
+    / Oct, 2016 - BMC Infectious Diseases
+    let !b self assert = Reducing the uncertainty in the estimates of reproduction number and age-specific susceptibility to infection is essential in order to support policy makers in the design of optimal response plans.
+
+
+  # Tags - School closure
+  // Strategies for mitigating an influenza pandemic
+  doi: https://doi.org/10.1038/nature04795
+  ref 'Fergusion_et_al_2006
+    head = This paper shows that if school closure is reactive (waiting for first case and then closing 100% of schools), with moderately transmissible virus, cumulative cases decline 26% & epidemic
+
+    >>> Abstract
+      Development of strategies for mitigating the severity of a new influenza pandemic is now a top global public health priority. Influenza prevention and containment strategies can be considered under the broad categories of antiviral, vaccine and non-pharmaceutical (case isolation, household quarantine, school or workplace closure, restrictions on travel) measures. Mathematical models are powerful tools for exploring this complex landscape of intervention strategies and quantifying the potential costs and benefits of different options. Here we use a large-scale epidemic simulation6 to examine intervention options should initial containment of a novel influenza outbreak fail, using Great Britain and the United States as examples. We find that border restrictions and/or internal travel restrictions are unlikely to delay spread by more than 2–3 weeks unless more than 99% effective. School closure during the peak of a pandemic can reduce peak attack rates by up to 40%, but has little impact on overall attack rates, whereas case isolation or household quarantine could have a significant impact, if feasible. Treatment of clinical cases can reduce transmission, but only if antivirals are given within a day of symptoms starting. Given enough drugs for 50% of the population, household-based prophylaxis coupled with reactive school closure could reduce clinical attack rates by 40–50%. More widespread prophylaxis would be even more logistically challenging but might reduce attack rates by over 75%. Vaccine stockpiled in advance of a pandemic could significantly reduce attack rates even if of low efficacy. Estimates of policy effectiveness will change if the characteristics of a future pandemic strain differ substantially from those seen in past pandemics.
+
+
+    / April, 2006 - Nature
+    let !a self assert =
+
+  # Tags - School Clousre , Social Network
+  // Nonpharmaceutical Interventions Implemented by US Cities During the 1918-1919 Influenza Pandemic
+  doi: http://doi.org/10.1001/jama.298.6.644
+  ref 'market_et_al_2007
+    head = The earlier that schools were closed (ideally even in advance of outbreaks) the lower the number of excess deaths in 43 US cities during the 1918 Influenza pandemic. The longer that school closings and other non-pharmaceutical interventions (NPI) were applied in each of 43 US cities during the 1918 influenza pandemic, the lower was the ultimate mortality rate.
+
+    >>> Abstract : Results
+      There were 115 340 excess pneumonia and influenza deaths (EDR, 500/100 000 population) in the 43 cities during the 24 weeks analyzed. Every city adopted at least 1 of the 3 major categories of nonpharmaceutical interventions. School closure and public gathering bans activated concurrently represented the most common combination implemented in 34 cities (79%); this combination had a median duration of 4 weeks (range, 1-10 weeks) and was significantly associated with reductions in weekly EDR. The cities that implemented nonpharmaceutical interventions earlier had greater delays in reaching peak mortality (Spearman r = −0.74, P < .001), lower peak mortality rates (Spearman r = 0.31, P = .02), and lower total mortality (Spearman r = 0.37, P = .008). There was a statistically significant association between increased duration of nonpharmaceutical interventions and a reduced total mortality burden (Spearman r = −0.39, P = .005).
+
+    / August, 2007 - JAMA
+    let !a self assert =
+
+  # Tag- Social Network
+  // Spread of Pathogens in the Patient Transfer Network of US Hospitals
+  doi: https://doi.org/10.1007/978-3-319-60240-0_33
+  ref 'gracia_et_al_2017b
+    head = Understanding the structure and dynamics of the hospital transfer network for the spread of real infections has a number of important implications. Empirical data could be used, either periodically or perhaps even in real time to map networks of patient movement in the US health care system, and this network could then be used monitor the spread of nosocomial and other infections in the network.
+    >>> Abstract
+      Antibiotic-resistant organisms, an increasing source of morbidity and mortality, have a natural reservoir in hospitals, and recent estimates suggest that almost 2 million people develop hospital-acquired infections each year in the US alone. We investigate the temporal network of transfers of Medicare patients across US hospitals over a 2-year period to learn about the possible role of hospital-to-hospital transfers of patients in the spread of infections. We analyze temporal, geographical, and topological properties of the transfer network and show that this network may serve as a substrate for the spread of infections. Finally, we study different strategies for the early detection of incipient epidemics on the temporal transfer network as a function of activation time of a subset of sensor hospitals. We find that using approximately 2% of hospitals as sensors, chosen based on their network in-degree, with an activation time of 7 days results in optimal performance for this early warning system, enabling the early detection of 80% of the C. difficile. cases with the hospitals in the sensor set activated for only a fraction of 40% of the time.
+
+    -- exports
+      !a
+
+    / June, 2017 - Social, Cultural, and Behavioral Modeling.
+    let !a self assert = The actual structure and flow pattern of patients across US hospitals confers certain specific vulnerabilities and defenses, regardless of the biology of the pathogen per se, placing theoretical bounds on any effective containment strategy directed at a contagious pathogen.
+
+
+  # Tag - Social Network
+  // Influence of a patient transfer network of US inpatient facilities on the incidence of nosocomial infections
+  doi: https://doi.org/10.1038/s41598-017-02245-7
+  ref 'gracia_et_al_2017
+    head = We studied a network defined by the transfer of a large number of Medicare patients across 5,667 US facilities over a 2-year period. We found the transfer network to be strongly bound by geography with 90% of all transfers spanning a distance less than 200 km.
+
+    >>> Abstract
+      Antibiotic-resistant bacterial infections are a substantial source of morbidity and mortality and have a common reservoir in inpatient settings. Transferring patients between facilities could be a mechanism for the spread of these infections. We wanted to assess whether a network of hospitals, linked by inpatient transfers, contributes to the spread of nosocomial infections and investigate how network structure may be leveraged to design efficient surveillance systems. We construct a network defined by the transfer of Medicare patients across US inpatient facilities using a 100% sample of inpatient discharge claims from 2006–2007. We show the association between network structure and C. difficile incidence, with a 1% increase in a facility’s C. difficile incidence being associated with a 0.53% increase in C. difficile incidence of neighboring facilities. Finally, we used network science methods to determine the facilities to monitor to maximize surveillance efficiency. An optimal surveillance strategy for selecting “sensor” hospitals, based on their network position, detects 80% of the C. difficile infections using only 2% of hospitals as sensors. Selecting a small fraction of facilities as “sensors” could be a cost-effective mechanism to monitor emerging nosocomial infections.
+
+    / June, 2017 - Scientific Reports
+    let !a self assert =
+
+  # Tag - Social network
+  // Dueling biological and social contagions
+  doi: https://doi.org/10.1038/srep43634
+  ref 'Fu_et_al_2017
+    head = This study used detailed data about the parallel spread of a biological contagion (H1N1 flu) and a social contagion (vaccination behavior or social distancing) to show how human behavior(s) might accelerate or slow spread of a pathogen
+
+    >>> Abstract
+      Numerous models explore how a wide variety of biological and social phenomena spread in social networks. However, these models implicitly assume that the spread of one phenomenon is not affected by the spread of another. Here, we develop a model of “dueling contagions”, with a particular illustration of a situation where one is biological (influenza) and the other is social (flu vaccination). We apply the model to unique time series data collected during the 2009 H1N1 epidemic that includes information about vaccination, flu, and face-to-face social networks. The results show that well-connected individuals are more likely to get vaccinated, as are people who are exposed to friends who get vaccinated or are exposed to friends who get the flu. Our dueling contagion model suggests that other epidemiological models may be dramatically underestimating the R0 of contagions. It also suggests that the rate of vaccination contagion may be even more important than the biological contagion in determining the course of the disease. These results suggest that real world and online platforms that make it easier to see when friends have been vaccinated (personalized vaccination campaigns) and when they get the flu (personalized flu warnings) could have a large impact on reducing the severity of epidemics. They also suggest possible benefits from understanding the coevolution of many kinds of dueling contagions.
+
+    / March, 2017 - Scientific Reports
+    let !a self assert =
+
+
+
+  # Tag- Social network... If possible can we show Fig 4 from this paper to show outbreak of H1N1 over period of 3 months... Caption fig-4- In the diagram, Infected individuals are colored red, friends of infected individuals are colored yellow, and node size is proportional to the number of friends infected. Also Figure 5 - Caption - The speed with which people acquired the flu during the epidemic depended on various aspects of their social network position. Those with more friends, those who were more central in the network, and those whose friends did *not* know each other got it sooner.
+  // Social Network Sensors for Early Detection of Contagious Outbreaks
+  doi: https://doi.org/10.1371/journal.pone.0012948
+  ref 'christakis_et_al_2010
+    head = This study describe methods that can be used to provide early detection of outbreaks and it could also be used to monitor targeted populations of any size, in real time.
+
+    >>> Abstract
+      Current methods for the detection of contagious outbreaks give contemporaneous information about the course of an epidemic at best. It is known that individuals near the center of a social network are likely to be infected sooner during the course of an outbreak, on average, than those at the periphery. Unfortunately, mapping a whole network to identify central individuals who might be monitored for infection is typically very difficult. We propose an alternative strategy that does not require ascertainment of global network structure, namely, simply monitoring the friends of randomly selected individuals. Such individuals are known to be more central. To evaluate whether such a friend group could indeed provide early detection, we studied a flu outbreak at Harvard College in late 2009. We followed 744 students who were either members of a group of randomly chosen individuals or a group of their friends. Based on clinical diagnoses, the progression of the epidemic in the friend group occurred 13.9 days (95% C.I. 9.9–16.6) in advance of the randomly chosen group (i.e., the population as a whole). The friend group also showed a significant lead time (p<0.05) on day 16 of the epidemic, a full 46 days before the peak in daily incidence in the population as a whole. This sensor method could provide significant additional time to react to epidemics in small or large populations under surveillance. The amount of lead time will depend on features of the outbreak and the network at hand. The method could in principle be generalized to other biological, psychological, informational, or behavioral contagions that spread in networks.
+
+    -- exports
+      !a
+      !b
+      !c
+
+
+    / September, 2010 - Plos one
+    let !a self assert = With respect to flu, models assessing the impact of prophylactic vaccination in a metropolis such as New York City suggest that vaccinating even one third of the population would save lives and shorten the course of the epidemic, but only if implemented a month earlier than usual.
+
+    / September, 2010 - Plos one
+    let !b self assert = A health service at a university (or other institution) could empanel a sample of subjects who are nominated as friends and who agree to be passively monitored for their health care use (e.g., in the form of visits to health care facilities); a spike in cases in this group could be read as a warning of an impending outbreak.
+
+    / September, 2010 - Plos one
+    let !c self assert = The ability to detect outbreaks early, and how early it might do so, will depend on intrinsic properties of the thing that is spreading (e.g., the biology of the pathogen); how this thing is measured; the nature of the population, including the overall prevalence of susceptible or affected individuals; the number of people empanelled into the sensor group; the topology of the network and other factors, such as whether the outbreak modifies the structure of the network as it spreads.
+
+
+  # Tags - Treatment, Pneumonia, Cytokine Storms
+  // Study of the lymphocyte change between COVID-19 and non-COVID-19 pneumonia cases suggesting other factors besides uncontrolled inflammation contributed to multi-organ injury
+  doi: https://doi.org/10.1101/2020.02.19.20024885
+  ref 'zheng_et_al_2020
+    head = The study indicates significantly different clinical features between 2019-nCoV-caused and non-2019-nCoV-caused pneumonia, especially in terms of lymphocytopenia and organ injury. Notably, correlation analysis demonstrates that tissue damage in COVID-19 patients is attributed to virus infection itself rather than uncontrolled inflammatory responses ("cytokine storm"). These findings provide new insights for developing efficient therapeutic strategies against COVID-19 infection.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+
+    / Feb, 2020 - medRxiv
+    let !a self assert = We found that most of the indexes relating to organ injuries were negatively correlated with the number of lymphocytes in 2019-nCoV infected patients but not in non-2019-nCoV-infected pneumonia patients, further highlighting the virus infection – rather than the inflammatory reaction – as the possible cause of the multi-organ injury.
+
+    / Feb, 2020 - medRxiv
+    let !b self assert = Another supportive finding is that the difference in the number of monocytes, neutrophils, and NK cells is not significant in our analysis; while theoretically, these innate immune cells are the main player in a “cytokine storm".
+
+    / Feb, 2020 - medRxiv
+    let !c self assert = The most significant correlation happened between the injury indexes and CD4+ Th cell counts. Because CD4+ Th cells are critical for the regulation of both cellular immunity and humoral immunity,17 it is reasonable that these cells are most sensitive to the total anti-virus immune responses.
+
+    / Feb, 2020 - medRxiv
+    let !d self assert = Based on our clinical findings, we should seriously consider using immune-activating treatments for COVID-19 patients, which will be helpful to compensate the dysfunctions in the adaptive immune system and accelerate virus clearance process in vivo. Considering the high possibility of secondary infection induced by excessive inflammation in the severe cases, this strategy should be safer to apply in non-severe patients with the aim to lower the occurrence of severe. cases.
+
+  # Tag - Treatment
+  // 2019 new coronavirus antiviral treatment is available
+  doi: https://doi.org/10.3760/cma.j.issn.1001-0939.2020.0002
+  ref 'hui_et_al_2020
+    head = Current studies have confirmed that studies that drugs that may be effective include: redoxivir, lopinavir / ritonavir, lopinavir / ritonavir combined with interferon-β, convalescent plasma, and monoclonal antibodies. However, the efficacy and safety of these drugs in 2019-nCoV pneumonia patients need to be confirmed by further clinical trials.
+
+    / Feb, 2020 - Chinese Journal of Tuberculosis and Respiratory Medicine
+    let !a self assert =
+
+  # Tag - Remdesivir
+  // Coronavirus Susceptibility to the Antiviral Remdesivir (GS-5734) Is Mediated by the Viral Polymerase and the Proofreading Exoribonuclease
+  doi: https://doi.org/10.1128/mBio.00221-18
+  ref 'agostini_et_al_2018
+    head =  GS-5734 interferes with the nsp12 polymerase even in the setting of intact ExoN proofreading activity and that resistance can be overcome with increased, nontoxic concentrations of GS-5734, further supporting the development of GS-5734 as a broad-spectrum therapeutic to protect against contemporary and emerging CoVs.
+
+    -- exports
+      !a
+
+    / March, 2018 - American Society of Microbiology
+    let !a self assert =  Treatment with increasing concentrations of GS-5734 resulted in decreased viral RNA levels that correlated with the decrease in titer we observed. These results suggest that GS-5734 inhibits CoVs early after infection by interfering with viral RNA replication.
+
+
+  # Tag - Antiviral - Nitazoxanide
+  // Nitazoxanide: A first-in-class broad-spectrum antiviral agent
+  doi: https://doi.org/10.1016/j.antiviral.2014.07.014
+  ref 'Rossignol_et_al_2014
+    head = We review the antiviral activity of nitazoxanide and other thiazolides as reported in cell culture assays, animal studies and human clinical trials with an emphasis on influenza.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / Oct, 2014 - Antiviral Research
+    let !a self assert = A Phase 2b/3 clinical trial found that oral administration of nitazoxanide 600 mg twice daily for five days reduced the duration of clinical symptoms and reduced viral shedding compared to placebo in persons with laboratory-confirmed influenza.
+
+    / Oct, 2014 - Antiviral Research
+    let !b self assert = Nitazoxanide inhibits a broad range of influenza A and B viruses including influenza A(pH1N1) and the avian A(H7N9) as well as viruses that are resistant to neuraminidase inhibitors. It is synergistic with neuraminidase inhibitors, and combination therapy with oseltamivir is being studied in humans as part of ongoing Phase 3 clinical development.
+
+    / Oct, 2014 - Antiviral Research
+    let !c self assert = Nitazoxanide also inhibits the replication of a broad range of other RNA and DNA viruses including respiratory syncytial virus, parainfluenza, coronavirus, rotavirus, norovirus, hepatitis B, hepatitis C, dengue, yellow fever, Japanese encephalitis virus and human immunodeficiency virus in cell culture assays.
+
+    / Oct, 2014 - Antiviral Research
+    let !d self assert = From a chemical perspective, nitazoxanide is the scaffold for a new class of drugs called thiazolides.These small-molecule drugs target host-regulated processes involved in viral replication. Clinical trials have indicated a potential role for thiazolides in treating rotavirus and norovirus gastroenteritis and chronic hepatitis B and chronic hepatitis C.
+
+    / Oct, 2014 - Antiviral Research
+    let !e self assert = Studies of the mechanism of action of nitazoxanide against influenza viruses have shown that the drug blocks maturation of the viral hemagglutinin at the post-translational stage.
+
+    / Oct, 2014 - Antiviral Research
+    let !f self assert = Nitazoxanide synergizes with known HIV drugs such as integrase inhibitors, and nucleoside and non-nucleoside reverse transcription inhibitors, exerting its antiviral effect post-HIV-1 entry, but before or at reverse transcription.
+
+  # Tag - Niclosamide - Antiviral
+  // Broad Spectrum Antiviral Agent Niclosamide and Its Therapeutic Potential
+  doi: https://doi.org/10.1021/acsinfecdis.0c00052
+  ref 'Xu_et_al_2020
+    head = We focus on summarizing the broad antiviral activities of niclosamide and highlighting its therapeutic potential in combating COVID-19, given its inexpensive and low in vivo toxicity profile as an FDA-approved drug in clinical use.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+      !j
+
+    / March, 2020 - ACS Infect. Dis.
+    let !a self assert =  Niclosamide was able to inhibit SARS-CoV replication and totally abolished viral antigen synthesis at a concentration of 1.56 μM after screening a small marketed drug library. Niclosamide suppressed the cytopathic effect (CPE) of SARS-CoV at a concentration of as low as 1 μM and inhibited SARS-CoV replication with an EC50 value of less than 0.1 μM in Vero E6 cells.
+
+    / March, 2020 - ACS Infect. Dis.
+    let !b self assert =  SARS-CoV 3CL protease plays an important role in replicase polyprotein processing and serves as a key target for anti-SARS drug discovery. Interestingly, niclosamide showed no obvious inhibitory activity against SARS-CoV 3CL protease up to 50 μM, and mechanistically, it may exert its anti-SARS activity via other modes of action.
+
+    / March, 2020 - ACS Infect. Dis.
+    let !c self assert = Niclosamide was reported to inhibit MERS-CoV replication by up to 1000-fold at 48 h p.i. at a concentration of 10 μM, while it enhanced the BENC1 level and ATG14 oligomerization, increased the number of autolysosomes by >2-fold, and affected the autophagic flux in the MERS-CoV-infected cells. Since niclosamide is a multifunctional drug, we cannot exclude the possibility that it exerts its anti-MERS activity by regulating other targets besides SKP2 inhibition.
+
+    / March, 2020 - ACS Infect. Dis.
+    let !d self assert = Niclosamide inhibits ZIKV infection at a postentry stage, probably in a viral RNA replication step. Our research team also identified niclosamide as a potent anti-ZIKV inhibitor through an independent quantitative high-throughput screening (qHTS) campaign and found that niclosamide directly inhibits flavivirus NS2B-NS3 interactions. Our team also found that niclosamide is a broad-spectrum inhibitor against other flaviviruses including DENV-2, WNV, JEV, and YFV, with potencies similar to that for ZIKV.
+
+    / March, 2020 - ACS Infect. Dis.
+    let !e self assert = Niclosamide likely inhibits HCV (Hepatitis C virus) replication via modulation of the host cell process similar to that of its derivatives nitazoxanide and tizoxanide.
+
+    / March, 2020 - ACS Infect. Dis.
+    let !f self assert = Through a systematic screen of FDA-approved drugs, niclosamide was identified as one of the most potent EBOV (Ebola Virus) inhibitors with an EC50 value of 1.5 μM, although its in vivo efficacy has not yet been evaluated in animal models.
+
+    / March, 2020 - ACS Infect. Dis.
+    let !g self assert = Niclosamide is a weak lipophilic acid and was reported to inhibit pH-dependent HRV infection with low micromolar IC50 values; it suppresses HRV (Human Rhinovirus) entry by blocking the acidification of the endolysosomal compartments, acting as a proton carrier.
+
+    / March, 2020 - ACS Infect. Dis.
+    let !h self assert = Niclosamide was discovered as a potent anti-CHIKV inhibitor with a low micromolar EC50 value; it not only affects CHIKV (Chickengunya Virus) entry via blocking low-pH-dependent virus fusion but also inhibits the cell-to-cell transmission of CHIKV infection.
+
+    / March, 2020 - ACS Infect. Dis.
+    let !i self assert = Niclosamide showed very promising anti-HAdV activity with an EC50 value of 0.6 μM in the plaque assay. Subsequent mechanistic studies indicated that niclosamide inhibits the transport of the HAdV (Human Adenovirus) particle from the endosome to the nuclear envelop.
+
+    / March, 2020 - ACS Infect. Dis.
+    let !j self assert = Niclosamide inhibits EBV lytic replication in lymphoma cells and epithelial cells and causes irreversible cell cycle arrest in lytic EBV-infected cells via disrupting mTOR activation, offering the potential to treat acute EBV(Epstein–Barr Virus)-associated infectious diseases
+
+
+  // Lopinavir/Ritonavir
+  doi: https://doi.org/10.2165/00003495-200363080-00004
+  ref 'Cvetkovic_et_al_2012
+    head = Coformulated lopinavir/ritonavir is a novel PI that, in combination with other antiretroviral agents, suppresses plasma viral load and enhances immunological status in therapy-naive and -experienced patients with HIV-1 infection.
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / Sept 2012 - Drugs
+    let !a self assert = Lopinavir/ritonavir appears more effective than nelfinavir in ‘naive’ patients and is also suitable for ‘salvage’ therapy, because of its high barrier to development of resistance. Given its clinical efficacy, a tolerability profile in keeping with this class of drugs, favourable resistance profile and easy-to-adhere-to administration regimen, coformulated lopinavir/ritonavir should be regarded as a first-line option when including a PI in the management of HIV-1 infection.
+
+    / Sept 2012 - Drugs
+    let !b self assert =  The most common adverse event in adults associated with lopinavir/ritonavir was diarrhoea, followed by other gastrointestinal disturbances, asthenia, headache and skin rash. The incidence of moderate-to-severe adverse events in children was low, skin rash being the most common.
+
+    / Sept 2012 - Drugs
+    let !c self assert = To reduce the risk of toxicity, the recommended actions include: (i) monitoring of the drug plasma concentration (antiarrhythmics and immunosuppressants) or the international normalised ratio (warfarin); (ii) the use of alternative treatment (atorvastatin) or birth control methods (ethinylestradiol); and (iii) dosage adjustment (clarithromycin [only in patients with renal failure], rifabutin, dihydropyridine calcium-channel blockers, atorvastatin, ketoconazole and itraconazole).
+
+
+  // Coronaviruses — drug discovery and therapeutic options
+  doi: https://doi.org/10.1038/nrd.2015.37
+  ref 'Zumla_et_al_2016
+    head = We summarize the epidemiology, virology, clinical features and current treatment strategies of SARS and MERS, and discuss the discovery and development of new virus-based and host-based therapeutic options for CoV infections.
+
+    -- exports
+      !a
+      !b
+
+    / February, 2016 - Nature Reviews Drug Discovery volume
+    let !a self assert = Virus-based therapies include monoclonal antibodies and antiviral peptides that target the viral spike glycoprotein, viral enzyme inhibitors, viral nucleic acid synthesis inhibitors and inhibitors of other viral structural and accessory proteins.
+
+    / February, 2016 - Nature Reviews Drug Discovery volume
+    let !b self assert = Host-based therapies include agents that potentiate the interferon response or affect either host signalling pathways involved in viral replication or host factors utilized by coronaviruses for viral replication.
+
+
+  // Innate Immunity to Virus Infection
+  doi: https://doi.org/10.1111/j.1600-065X.2008.00737.x
+  ref 'Takeuchi_et_al_2009
+    head = It is important to understand dynamic interaction between the immune cells by monitoring immune cell behavior, interaction and activation in vivo. The understanding of mechanisms for the activation of antiviral immunity will leads to development of novel immunotherapy and vaccines for infectious diseases, immune diseases and cancer.
+
+    -- exports
+      !a
+
+
+    / Dec 2008 - Immunological Reviews
+    let !a self assert = Accumulating evidence indicates that recognition of cytoplasmic DNA is critical for innate immune responses as well as prevention of autoimmune diseases. The identification of the dsDNA detector will open the door toward understanding the immune responses to DNA virus infection.
+
+    / Dec 2008 - Immunological Reviews
+    let !b self assert = It has been shown that STING is essential for type I IFN production to cytoplasmic dsDNA stimulation and infection with Listeria and HSV1. Although STING itself is unlikely to be a DNA receptor, further analysis of the function of this protein or identification of STING binding partners might be a clue for solving the DNA recognition pathways.
+
+    / Dec 2008 - Immunological Reviews
+    let !c self assert = The molecular mechanisms for how RIG-I and MDA5 distinguish the lengths of dsRNA remain to be determined. Structural analyses of MDA5 will clarify the mechanism of MDA5-mediated recognition of long dsRNA.
+
+    / Dec 2008 - Immunological Reviews
+    let !c self assert = Another issue is the role of RIG-I helicase activity in the recognition of viral RNAs. Although several reports have shown that RIG-I protein can unwind short dsRNA, it is apparent that this “helicase” activity is not required for the recognition of 5′ triphosphate ssRNA. Given that the RIG-I helicase domain catalyzes ATP, it is assumed that the helicase domain is critical for the conformational change required to expose the CARDs and trigger intracellular signaling.
+
+  // News Feature: Avoiding pitfalls in the pursuit of a COVID-19 vaccine
+  doi: https://doi.org/10.1073/pnas.2005456117
+  ref 'Peeples_et_al_2020
+    head = Researchers are trying to ensure that their candidates don’t spur a counterproductive, even dangerous, immune system reaction immune enhancement.
+
+    -- exports
+      !a
+
+    / March, 2020 - National Academy of Sciences
+    let !a self assert = Experts agree a careful assessment of possible immune complications before releasing the vaccine to the public. If any of the mechanisms under investigation are indeed involved, they say, the resulting risks are real.
+
+
+
+  // Sequence analysis of SARS-CoV-2 genome reveals features important for vaccine design
+  doi: https://doi.org/10.1101/2020.03.30.016832
+  ref 'Kames_et_al_2020
+    head = Study's analysis identified the spike (S) and nucleocapsid (N) proteins as promising targets for deoptimization and suggests a roadmap for SARS-CoV-2 vaccine development, which can be generalizable to other viruses.
+
+
+  // Fully human single-domain antibodies against SARS-CoV-2
+  doi: https://doi.org/10.1101/2020.03.30.015990
+  ref 'Wu_et_al_2020b
+    head = This study develop a versatile platform for rapid isolation of fully human single-domain antibodies, and confirm its feasibility of using them as ideal alternatives to camelid nanobodies. Antibody n3130 was 266 found to potently neutralize both pseudotyped and live virus. These antibodies may represent promising candidates for prophylaxis and therapy of COVID-19, and also serve as reagents to facilitate the vaccine development.
+
+    >>> Abstract
+      The COVID-19 pandemic is spreading rapidly, highlighting the urgent need for an efficient approach to rapidly develop therapeutics and prophylactics against SARS-CoV-2. We describe here the development of a phage-displayed single-domain antibody library by grafting naïve CDRs into framework regions of an identified human germline IGHV allele. This enabled the isolation of high-affinity single-domain antibodies of fully human origin. The panning using SARS-CoV-2 RBD and S1 as antigens resulted in the identification of antibodies targeting five types of neutralizing or non-neutralizing epitopes on SARS-CoV-2 RBD. These fully human single-domain antibodies bound specifically to SARS-CoV-2 RBD with subnanomolar to low nanomolar affinities. Some of them were found to potently neutralize pseudotyped and live virus, and therefore may represent promising candidates for prophylaxis and therapy of COVID-19. This study also reports unique immunogenic profile of SARS-CoV-2 RBD compared to that of SARS-CoV and MERS-CoV, which may have important implications for the development of effective vaccines against SARS-CoV-2.
+
+
+  // Vulnerabilities in coronavirus glycan shields despite extensive glycosylation
+  doi: https://doi.org/10.1101/2020.02.20.957472
+  ref 'Watanabe_et_al_2020
+    head = This study reveals how the extensive N-linked glycan modifications of SARS and MERS CoV S proteins do not constitute an effective shield, which is reflected by the overall structure, density and oligomannose abundances across the trimeric glycoproteins.
+
+    -- exports
+      !a
+      !b
+
+    / February, 2020 -  bioRxiv
+    let !a self assert = We also demonstrate that amino-acid diversification indeed occurs at antibody accessible regions on the trimer, which confirms that glycans play a role in occluding specific regions if vulnerability on the glycoprotein.
+
+    / February, 2020 -  bioRxiv
+    let !b self assert = They compared between glycan shield from number of viruses. A strong correlation was observed and viruses historically classified as “evasion strong”59 had significantly elevated glycan shield densities and oligomannose abundance, which underscores the importance of glycan shielding in immune evasion.
+
+
+  // Global profiling of SARS-CoV-2 specific IgG/ IgM responses of convalescents using a proteome microarray
+  doi: https://doi.org/10.1101/2020.03.20.20039495
+  ref 'Jiang_et_al_2020
+    head = Both protein N and S1 are suitable for diagnostics, while S1 purified from mammalian cell may possess better specificity. Significant antibody responses were identified for ORF9b and NSP5. We showed that the level of S1 IgG positively correlate to age and the level of LDH while negatively correlate to Ly%.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / March, 2020 - medrxiv
+    let !a self assert = We found for two of the control sera, strong IgG bindings were observed for N protein, and specifically one control recognizing N protein at the N terminal while another at the C terminal. This maybe due to the high conservation of N protein sequences across the coronavirus species, this indicating we should be aware of the false positive when applying N protein for diagnosis. In contrast, S1 protein demonstrating a higher specificity. Thus an ideal choice of developing immune-diagnostics maybe the combining of both N protein and S1 protein.
+
+    / March, 2020 - medrxiv
+    let !b self assert = We also found the significant presence of IgG and IgM against ORF9b (13 out of 29 cases) and NSP5 (3 out of 29 cases). ORF9b is predicted as an accessory protein, exhibiting high overall sequence similarity to SARS and SARS-like COVs ORF9b (V23I), and is likely to be a lipid binding protein. Study also demonstrates the potential of antibody against ORF9b for detection of convalescent COVID-19 patients
+
+    / March, 2020 - medrxiv
+    let !c self assert = Study provide experimental evidence to show the existence of NSP5 specific antibody in convalescents. Since NSP5 is a non-structural protein, theoretically, it should present only in the infected cells but not in virions. So antibody against NSP5 has the potential to be applied to distinguish between COVID-19 patients and healthy people immunized with inactivated virus.
+
+    / March, 2020 - medrxiv
+    let !d self assert = We also found peak LDH was highly correlated with IgG response, especially for female patients. As many studies reported, LDH tends to have a higher level in severe COVID-19 patients and could be an indicator of severity
+
+    / March, 2020 - medrxiv
+    let !e self assert = We observed high correlation between age with IgG response in female patients and in male patients with age less than 40 but not in older male patients, implying the humoral response against SARS-CoV-2 may differ in gender
+
+    / March, 2020 - medrxiv
+    let !f self assert = Severe cases are significantly more frequent in aged patients and the mortality of male patients is higher than that of female, but the reason is not clear. Based on our observations, we assumed that the situation might be associated with the immune response. However, female patients, compared with male patients, may generate humoral response more efficiently. This difference should be considered during treatment.
+
+  // Anti–spike IgG causes severe acute lung injury by skewing macrophage responses during acute SARS-CoV infection
+  doi: https://doi.org/10.1172/jci.insight.123158
+  ref 'Liu_et_al_2019
+    head = This paper present evidence of a detrimental role of anti–S-IgG in ALI during SARS-CoV infection. It demonstrate a previously unrecognized mechanism underlying virus-mediated ALI and suggest that modulation of the anti-S antibody response or blockage of Fcγ receptors during acute infection might be needed for effective treatment for respiratory CoV infection.
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / February, 2019 -  JCI Insight
+    let !a self assert = In SARS-CoV/macaque models, we determined that anti–spike IgG (S-IgG), in productively infected lungs, causes severe ALI by skewing inflammation-resolving response. Alveolar macrophages underwent functional polarization in acutely infected macaques, demonstrating simultaneously both proinflammatory and wound-healing characteristics.
+
+    / February, 2019 -  JCI Insight
+    let !b self assert = The presence of S-IgG prior to viral clearance, however, abrogated wound-healing responses and promoted MCP1 and IL-8 production and proinflammatory monocyte/macrophage recruitment and accumulation. Critically, patients who eventually died of SARS (hereafter referred to as deceased patients) displayed similarly accumulated pulmonary proinflammatory, absence of wound-healing macrophages, and faster neutralizing antibody responses.
+
+    / February, 2019 -  JCI Insight
+    let !c self assert = S-IgG promoted proinflammatory cytokine production through FcγRI and/or FcγRIIA. S-IgG did not affect classically activated macrophage function in vitro. This difference can be possibly explained by the high baseline level of proinflammatory cytokines before infection and the downregulated expression of FcγR on classically activated MDM by SARS-CoV treatment.
+
+  // Adaptive Value of High Mutation Rates of RNA Viruses: Separating Causes from Consequences
+  doi: https://doi.org/10.1128/JVI.79.18.11555-11558.2005
+  ref 'Elena_et_al_2005
+    head = This paper addresses the adaptive value of the RNA virus extreme mutation rate has to be carefully reconsidered, and new alternative explanations, beyond a purely mechanistic level, should be taken into consideration.
+
+    -- exports
+      !a
+
+    / August, 2005 -  American Society for Microbiology
+    let !a self assert =
+
+  // Why are RNA virus mutation rates so damn high?
+  doi: https://doi.org/10.1371/journal.pbio.3000003
+  ref 'Duffy_et_al_2018
+    head = RNA viruses have high mutation rates, but they may tolerate them rather than revel in them. That they were optimized for genetic variation alone is a “just so story” that should be skeptically re-examined as the more complicated biological reality is revealed
+
+    -- exports
+      !a
+      !b
+
+    / August, 2018 -  PLoS Biology
+    let !a self assert = Mutation rates are almost disastrously high, and a small increase in mutation rate can cause RNA viruses to go locally extinct. Researchers often assume that natural selection has optimized the mutation rate of RNA viruses, but new data shows that, in poliovirus, selection for faster replication is stronger and faster polymerases make more mistakes.
+
+    / August, 2018 -  PLoS Biology
+    let !b self assert = Researchers and clinicians can increase RNA virus mutation rates using nucleoside analogues, and a 3–5-fold increase in mutation rate causes lethal mutagenesis in human-infecting viruses like poliovirus and influenza. The exogenous mutagen causes enough additional mutations, which are often deleterious, so that the progeny RNA viruses are of lower fitness, eventually leading to ecological collapse of the population.
+
+
+  // Viral Mutation Rates
+  doi: https://doi.org/10.1128/JVI.00694-10
+  ref 'Sanjuán_et_al_2010
+    head = This paper suggest that future mutation rate studies should fulfill the following criteria: the number of cell infection cycles should be as low as possible, the mutational target should be large, and mutations should be neutral or lethal or a correction should be made for selection bias. Adhering to these criteria will help us to get a clearer picture of virus mutation patterns.
+
+    -- exports
+      !a
+
+    / October, 2010 - Journal of Virology
+    let !a self assert = One Possibility to address mutation rate is to use drug dependence, a form of drug resistance in which the ability to grow in the absence of the drug is lost. These mutants can be identified by isolating drug-resistant mutants and assaying them for growth in the absence of the drug.
+
+
+  // Mechanisms of viral mutation
+  doi: https://doi.org/10.1007/s00018-016-2299-6
+  ref 'Sanjuán_et_al_2016
+    head = Rates of spontaneous mutation vary amply among viruses. RNA viruses mutate faster than DNA viruses, single-stranded viruses mutate faster than double-strand virus, and genome size appears to correlate negatively with mutation rate.
+
+    >>> Conclusion
+      Viral mutation rates are determined by multiple processes, including polymerase intrinsic fidelity, replication mode, 3′ exonuclease activity, spontaneous nucleic acid damage, access to post-replicative repair, editing by host-encoded deaminases, imbalances in nucleotide pools, template sequence context, and template structure, as summarized in Table 2. Some of these processes underlie large-scale patterns of variation among viruses, such as differences between RNA and DNA viruses, between viruses with small and large genomes, and between single-strand and double-strand viruses, but important mechanistic aspects behind these differences still remain uncharacterized. Furthermore, mutation rates are not static and can evolve in response to selective pressures, as exemplified by fidelity variants selected under mutagenic conditions in a variety of viruses. In addition to polymerase fidelity, other mutation rate-determinants such as access to DNA repair may have also changed in response to selective pressures during viral evolution.
+      In RNA viruses, both low- and high-fidelity polymerase variants tend to have a negative impact in viral fitness in complex environments, suggesting that RNA virus mutation rates have been evolutionarily optimized. Given that DNA virus mutation rates are substantially lower than those of RNA viruses this also suggests that DNA viruses show suboptimal mutation rates for adaptation to rapidly changing environments, despite RNA and DNA viruses sharing similar lifestyles. It appears that large DNA viruses have adopted a different and more elaborate strategy consisting of targeting mutations to specific genome regions subject to rapidly varying selective pressures, such as genes encoding attachment proteins or inhibitors of innate immunity responses. Mutation targeting mechanisms such as DGRs and recombination-driven gene copy amplification are probably not accessible to small DNA viruses with compact genomes. Furthermore, mutation rate evolution in small DNA viruses is further constrained by the fact they do not encode autonomous replication systems. Therefore, small DNA viruses should rely on repair avoidance and on use of host-encoded error-prone DNA polymerases to elevate their mutation rates and achieve faster adaptation. Elucidating the mutational mechanisms of small DNA viruses is a current challenge in virus molecular biology and evolution. Other exciting unresolved questions include unveiling the interplays between mutation and recombination, the roles played by viral accessory proteins in determining mutation rates, the effects of host-encoding enzymes on viral diversity and evolution, whether mutation accumulation can be evolutionary adjusted by modifying viral replication modes, and how template sequences regulate viral mutation rates.
+
+
+
+    / July, 2016 -  Cellular and Molecular life Sciences
+    let !a self assert =
+
+
+  // The Time Course of the Immune Response to Experimental Coronavirus Infection of Man
+  doi: https://doi.org/10.1017/s0950268800048019
+  ref 'Callow_et_al_1990
+    head =  In a group of 15 Volunteers inoculated with coronavirus, Antibody concentrations started to increase 1 week after inoculation and reached a maximum about 1 week later. Although concentrations were still slightly raised 1 year later, this did not always prevent reinfection when volunteers were then challenged with the homologous virus.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+
+    / October, 1990 - Epimediology Infections
+    let !a self assert =  The period of virus shedding was shorter than before and none developed a cold. All of the uninfected group were infected on re-challenge although they also appeared to show some resistance to disease and in the extent of infection.
+
+    / October, 1990 - Epimediology Infections
+    let !b self assert = In the infected group there were considerable individual differences. Some lost their antibody, particularly serum antibody, completely by 1 year, some did not. Such differences are also seen in rhinovirus infections . They indicate that resistance may be a more inherent characteristic than is generally supposed. It is known that extroversion, obsessionality and other essentially permanent psychological characteristics seem to be related to infection rates.
+
+    / October, 1990 - Epimediology Infections
+    let !c self assert = The incidence of reinfection after 1 year was greater than that observed with rhinovirus infection and did not support Reed's study in which reinfection with a homologous coronavirus strain after 1 year did not occur.
+
+    / / October, 1990 - Epimediology Infections
+    let !d self assert = Since adults have about two colds per year on average and about half of all coronavirus infections are subclinical each adult should have a coronavirus infection every 2-3 years. This agrees with Monto who suggested a 2-3 year cyclic pattern. It indicates that protective amounts of antibody may have disappeared by 2 years, and that if we had been able to reinoculate the volunteers after a further year, the reinfection rate would have been even higher.
+
+  // Antibody Response and Disease Severity in Healthcare Worker MERS Survivors
+  doi: https://doi.org/10.3201/eid2206.160010
+  ref 'Alshukairi_AN_et_al_2016
+    head = We studied antibody response in 9 healthcare workers in Jeddah, Saudi Arabia, who survived Middle East respiratory syndrome, by using serial ELISA and indirect immunofluorescence assay testing. Among patients who had experienced severe pneumonia, antibody was detected for >18 months after infection. Antibody longevity was more variable in patients who had experienced milder disease.
+
+
+  // Genetic drift of human coronavirus OC43 spike gene during adaptive evolution
+  doi: https://doi.org/10.1038/srep11451
+  ref 'Ren_et_al_2015
+    head = We report a model for the persistence of OC43 genotypes in human populations based on the first intensive evolutionary analysis of the S gene. We infer that the genetic drift of the S gene is likely to be one of the mechanisms of the adaptation evolution of HCoV-OC43. These findings provide insights into the evolution of CoVs and may have implications in the surveillance of HCoV infections.
+
+    >>> Abstract
+      Coronaviruses (CoVs) continuously threaten human health. However, to date, the evolutionary mechanisms that govern CoV strain persistence in human populations have not been fully understood. In this study, we characterized the evolution of the major antigen-spike (S) gene in the most prevalent human coronavirus (HCoV) OC43 using phylogenetic and phylodynamic analysis. Among the five known HCoV-OC43 genotypes (A to E), higher substitution rates and dN/dS values as well as more positive selection sites were detected in the S gene of genotype D, corresponding to the most dominant HCoV epidemic in recent years. Further analysis showed that the majority of substitutions were located in the S1 subunit. Among them, seven positive selection sites were chronologically traced in the temporal evolution routes of genotype D and six were located around the critical sugar binding region in the N-terminal domain (NTD) of S protein, an important sugar binding domain of CoV. These findings suggest that the genetic drift of the S gene may play an important role in genotype persistence in human populations, providing insights into the mechanisms of HCoV-OC43 adaptive evolution.
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / June, 2015 -  Scientific Reports
+    let !a self assert = BCoV shares a high nucleotide and antigenic similarity with OC43. The conserved sugar-binding sites identified in BCoV_NTD were also conserved in that of OC43, indicating the conservation of the core motif in NTD during the species-cross transmission and evolution in human hosts. It is interesting to point out that the evolutionary dynamic pattern of the conserved core and variable outer-region in NTD is similar to that of RBD observed in ß-CoV, suggesting that these functional domains retain some of the ancient records during viral evolution
+
+    / March, 2020 - The New England journal of medicine
+    let !b self assert = The aa substitutions in NTD seem to be a common evolutionary strategy for CoVs, as the high variability in NTD has also been observed in BCoV and HCoV-NL63. However, this observation warrants further investigation.
+
+    / March, 2020 - The New England journal of medicine
+    let !c self assert = A Y521H substitution was found in the genotype D strains identified from 2008 to 2011. The significance of this mutation is unclear. It is interesting that after 2012, the genotype D strains contained less mutations than those identified before 2012.
+
+
+  // SARS-CoV-2 Viral Load in Upper Respiratory Specimens of Infected Patients
+  doi: https://doi.org/10.1056/NEJMc2001737
+  ref 'Zou_et_al_2020
+    head = The viral load that was detected in the asymptomatic patient was similar to that in the symptomatic patients, which suggests the transmission potential of asymptomatic or minimally symptomatic patients
+
+    -- exports
+      !a
+
+    / March, 2020 - The New England journal of medicine
+    let !a self assert = We analyzed the viral load in nasal and throat swabs obtained from the 17 symptomatic patients and found higher viral loads were detected soon after symptom onset, with higher viral loads detected in the nose than in the throat.
+
+
+  // Zn2+ Inhibits Coronavirus and Arterivirus RNA Polymerase Activity In Vitro and Zinc Ionophores Block the Replication of These Viruses in Cell Culture
+  doi: https://doi.org/10.1371/journal.ppat.1001176
+  ref 'Velthuis_et_al_2010
+    head = The combination of zinc ions and the zinc-ionophore PT efficiently inhibits nidovirus replication in cell culture. This provides an interesting basis for further studies into the use of zinc-ionophores as antiviral compounds, although systemic effects have to be considered and a water-soluble zinc-ionophore may be better suited.
+
+    -- exports
+      !a
+      !b
+
+    / November, 2010 -  Plos Pathogens
+    let !a self assert = In vitro, the reversible inhibition of the RdRp by Zn2+ has also provided us with a convenient research tool to gain more insight into the molecular details of (nido)viral RNA synthesis, and revealed novel mechanistic differences between the RdRps of SARS-CoV and EAV.
+
+    # This text taken from article (easy language)
+    / November, 2010 -  Plos Pathogens
+    let !b self assert = Several studies have reported that zinc has a broad-spectrum antiviral activity against a variety of viruses. Increased intracellular Zinc concentrations inhibit RNA-dependent RNA polymerases and other proteins essential for the completion of different phases of the virus life cycle.
+
+  # Regarding Medicine and Covalent plasma we will re-refer this paper and write more claims from this paper.
+  // Potential interventions for novel coronavirus in China: A systematic review
+  doi: https://doi.org/10.1002/jmv.25707
+  ref 'Zhang_et_al_2020e
+    head = We summarize all the potential interventions for COVID‐19 infection according to previous treatments of SARS and MERS and suggest that all the potential interventions be implemented to control the infection.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+
+    / February, 2020 -  Journal of medical virology
+    let !a self assert = We have found that the general treatments are very important to enhance host immune response against RNA viral infection. The immune response has often been shown to be weakened by inadequate nutrition. Therefore, we propose to verify the nutritional status of COVID‐19 infected patients before the administration of general treatments. We also found coronavirus‐specific treatments and antiviral treatments were very useful for the treatment of SARS and MERS and thus should be considered as potential treatment for COVID-19.
+
+    / February, 2020 -  Journal of medical virology
+    let !b self assert = We suggest that the current children's RNA‐virus‐related vaccines are the best alternative methods to be used to vaccinate the uninfected people and health care workers.
+
+    / February, 2020 -  Journal of medical virology
+    let !c self assert = Convalescent plasma should be routinely used for the treatment of COVID‐19 infected critically sick patients if it is available.
+
+    / February, 2020 -  Journal of medical virology
+    let !d self assert = The avian IBV vaccine is also another choice for clinical trials if its safety has been approved in monkeys.
+
+
+  # Intro to Covid - Basics / Foundations / Testing
+  // Molecular immune pathogenesis and diagnosis of COVID-19
+  doi: https://doi.org/10.1016/j.jpha.2020.03.001
+  ref 'Li_et_al_2020b
+    head = The highly pathogenic SARS-CoV-2 can cause COVID-19 and even death in infected persons. Coronavirus infections led to the damage of lung, while imbalanced and excessive immune responses may cause pneumonia.
+
+    -- exports
+      !a
+
+    / March, 2020 - Journal of Pharmaceutical Analysis
+    let !a self assert = The occurrence and development of SARS-CoV-2 depend on the interaction between the virus and the individual’s immune system. Therefore all viral factor and individual's immune system factors contribute to whether an individual is infected with the virus, the duration and severity of the disease, and the reinfection.
+
+
+  // Viral dynamics in mild and severe cases of COVID-19
+  doi: https://doi.org/10.1016/S1473-3099(20)30232-2
+  ref 'Liu_et_al_2020c
+    head = Our data indicate that, patients with severe COVID-19 tend to have a high viral load and a long virus-shedding period. This finding suggests that the viral load of SARS-CoV-2 might be a useful marker for assessing disease severity and prognosis.
+
+
+  // Temporal dynamics in viral shedding and transmissibility of COVID-19
+  doi: https://doi.org/10.1101/2020.03.15.20036707
+  ref 'He_et_al_2020
+    head = We report temporal patterns of viral shedding in 94 laboratory-confirmed COVID-19 patients and modelled COVID-19 infectiousness profile from a separate sample of 77 infector-infectee transmission pairs. We observed the highest viral load in throat swabs at the time of symptom onset, and inferred that infectiousness peaked on or before symptom onset.
+
+    -- exports
+      !a
+
+    / March, 2020 - MedRixiv
+    let !a self assert = We estimated that 44% of transmission could occur before first symptoms of the index. Disease control measures should be adjusted to account for probable substantial pre-symptomatic transmission.
+
+
+  # This could come under limitations of PCR testing.
+  // Understanding COVID-19: what does viral RNA load really mean?
+  doi: https://doi.org/10.1016/S1473-3099(20)30237-1
+  ref 'Joynt_et_al_2020
+    head = The inability to differentiate between infective and non-infective (dead or antibody-neutralised) viruses remains a major limitation of nucleic acid detection. Despite this limitation, given the difficulties in culturing live virus from clinical specimens during a pandemic, using viral RNA load as a surrogate remains plausible for generating clinical hypotheses.
+
+
+  // Epidemiological Characteristics of 2143 Pediatric Patients With 2019 Coronavirus Disease in China
+  doi: https://doi.org/10.1542/peds.2020-0702
+  ref 'Dong_et_al_2020b
+    head = Of 2,143 (731 Lab case and 1412 suspected case) pediatric patients in China – found that, while 90% had asymptomatic, mild or moderate cases, which suggest the severity is milder compared to Adults and CFR is lower.
+    -- exports
+      !a
+
+    / Feb, 2020 - bioRxiv
+    let !a self assert =  Children at all ages appeared susceptible to COVID-19, and there was no significant gender difference. However particularly infants, were vulnerable to infection.
+    / Feb, 2020 - bioRxiv
+    let !b self assert = This study provides strong evidence for human-to-human transmission as children were unlikely to visit the Huanan Seafood Wholesale Market where the early adult patients were reported to obtain 2019-nCoV.
+
+  # Refer the graph (Image) and comparison with other studies for the data we put in a.
+  // Estimation of SARS-CoV-2 mortality during the early stages of an epidemic: a modelling study in Hubei, China and northern Italy
+  doi: https://doi.org/10.1101/2020.03.04.20031104
+  ref 'Hauser_et_al_2020
+    head =  This research developed a mechanistic approach to correct the crude CFR for bias due to right-censoring and preferential ascertainment and provide adjusted estimates of mortality due to SARS-CoV-2 infection by age group and according to symptom status. The steep increase in mortality among people aged 60 years and older, reaching extremely high values in people aged 80 years and older is of concern.
+    >>> Abstract
+      Background. The epidemic of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) that originated in Wuhan, China in late 2019 is now pandemic. Reliable estimates of death from coronavirus disease 2019 (COVID-19) are essential to guide control efforts and to plan health care system requirements. The objectives of this study are to: 1) simulate the transmission dynamics of SARS-CoV-2 using publicly available surveillance data; 2) give estimates of SARS-CoV-2 mortality adjusted for bias in the two regions with the world's highest numbers of confirmed Covid-19 deaths: Hubei province, China and northern Italy. Method and Findings. We developed an age-stratified susceptible-exposed-infected-removed (SEIR) compartmental model describing the dynamics of transmission and mortality during the SARS-CoV-2 epidemic. Our model accounts for two biases; preferential ascertainment of severe cases and delayed mortality (right-censoring). We fitted our transmission model to surveillance data from Hubei province (1 January to 11 February 2020) and northern Italy (8 February to 3 March 2020). Overall mortality among all symptomatic and asymptomatic infections was estimated to be 3.0% (95% credible interval: 2.6-3.4%) in Hubei province and 3.3% (2.0-4.7%) in northern Italy. Mortality increased with age; we estimate that among 80+ year olds, 39.0% (95%CrI: 31.1-48.9%) in Hubei province and 89.0% (95%CrI: 56.2-99.6%) in northern Italy dies or will die. Limitations are that the model requires data recorded by date of onset and that sex-disaggregated mortality was not available. Conclusions. We developed a mechanistic approach to correct the crude CFR for bias due to right-censoring and preferential ascertainment and provide adjusted estimates of mortality due to SARS-CoV-2 infection by age group. While specific to the situation in Hubei, China and northern Italy during these periods, these findings will help the mitigation efforts and planning of resources as other regions prepare for SARS-CoV-2 epidemics.
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / March, 2020 - medRxiv
+    let !a self assert =  Fatality in both symptomatic & asymptomatic patients:- Age 50-59 = 1.3%, Age 60-69 = 4.6% ,Age 70-79 = 9.8%  ,Age 80+ = 18%
+
+    / March, 2020 - medRxiv
+    let !b self assert = Our findings show that the crude CFR (Case fatality rate) does not necessarily overestimate true mortality. In both settings that we studied, the crude CFR was lower than the model-estimated mortality, showing the importance of bias due to right-censoring at early stages of the epidemic. The study shows the value of collecting case data according to date of disease onset.
+
+    / March, 2020 - medRxiv
+    let !c self assert = The adjusted estimates of mortality in Hubei province, China and northern Italy were similar, and higher than the crude CFR, suggesting that, in these settings at these times, right-censoring is a more important source of bias than preferential ascertainment.
+
+  # Data from cruise ship (Diamond Princess)
+  // Estimating the infection and case fatality ratio for COVID-19 using age-adjusted data from the outbreak on the Diamond Princess cruise ship
+  doi: https://doi.org/10.1101/2020.03.05.20031773
+  ref 'Russell_et_al_2020
+    head = Our analysis shows the importance of adjusting for delays from confirmation to outcome in real-time estimates of fatality risk, and the benefits of combining datasets alongside appropriate age adjustments to provide early insights into COVID-19 severity.
+    >>> Abstract
+      Adjusting for delay from confirmation-to-death, we estimated case and infection fatality ratios (CFR, IFR) for COVID-19 on the Diamond Princess ship as 2.3% (0.75%-5.3%) and 1.2% (0.38-2.7%). Comparing deaths onboard with expected deaths based on naive CFR estimates using China data, we estimate IFR and CFR in China to be 0.5% (95% CI: 0.2-1.2%) and 1.1% (95% CI: 0.3-2.4%) respectively.
+
+    -- exports
+      !a
+
+    / March, 2020 - medRxiv
+    let !a self assert =  In the Diamond Princess cruise ship, there were 3,711 people and 634 cases of COVID19 (an attack rate of 17%). Half were asymptomatic. There were just 39 people <19 years old; only 5 got infected and only 2 had symptoms; and none died.
+
+  # We think we should mention entire discussion for this as It's not a research paper but a report.
+  // "Possible Vertical Transmission of SARS-CoV-2 From an Infected Mother to Her Newborn
+  doi: https://doi.org/doi:10.1001/jama.2020.4621
+  ref 'Dong_et_al_2020
+    head = We report a newborn with elevated IgM antibodies to SARS-CoV-2 born to a mother with COVID-19.
+    >>> Abstract
+      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is highly infectious, with multiple possible routes of transmission. Controversy exists regarding whether SARS-CoV-2 can be transmitted in utero from an infected mother to her infant before birth. A series of 9 pregnant women found no mother-child transmission. We report a newborn with elevated IgM antibodies to SARS-CoV-2 born to a mother with coronavirus disease 2019 (COVID-19).
+
+    >>> Discussion
+      A neonate born to a mother with COVID-19 had elevated antibody levels and abnormal cytokine test results 2 hours after birth. The elevated IgM antibody level suggests that the neonate was infected in utero. IgM antibodies are not transferred to the fetus via the placenta.2 The infant potentially could have been exposed for 23 days from the time of the mother’s diagnosis of COVID-19 to delivery. The laboratory results displaying inflammation and liver injury indirectly support the possibility of vertical transmission. Although infection at delivery cannot be ruled out, IgM antibodies usually do not appear until 3 to 7 days after infection, and the elevated IgM in the neonate was evident in a blood sample drawn 2 hours after birth. Also, the mother’s vaginal secretions were negative for SARS-CoV-2. The infant’s repeatedly negative RT-PCR test results on nasopharyngeal swabs are difficult to explain, although these tests are not always positive with infection. IgG antibodies can be transmitted to the fetus through the placenta and appear later than IgM. Therefore, the elevated IgG level may reflect maternal or infant infection.
+      Limitations of this report include the single case and that no PCR testing of amniotic fluid or placenta was performed. Additional examination of maternal and newborn samples should be done to confirm this preliminary observation.
+
 
 
   // Coronavirus Infections in Children Including COVID-19
@@ -1033,7 +1992,7 @@ feed Research
 
   // Convalescent plasma as a potential therapy for COVID-19
   doi: https://doi.org/10.1016/S1473-3099(20)30141-9
-  ref 'Chen_et_al_2000
+  ref 'Chen_et_al_2020
     head = Based on past infectious coronavirus cases, where convalescent plasma was used to improve survival rate of patients, it might be worthwhile to test the safety and efficacy of convalescent plasma transfusion in SARS-CoV-2-infected patients.
 
     -- Exports
@@ -1041,13 +2000,13 @@ feed Research
       !b
       !c
 
-    / The Lancet - April, 2020
+    / The Lancet - Feb, 2020
     let !a self assert = To date, no specific treatment has been proven to be effective for SARS-CoV-2 infection. Apart from supportive care, such as oxygen supply in mild cases and extracorporeal membrane oxygenation for the critically ill patients, specific drugs for this disease are still being researched.
 
-    / The Lancet - April, 2020
+    / The Lancet - Feb, 2020
     let !b self assert = Management of COVID-19 has mainly focused on infection prevention, case detection and monitoring, and supportive care. However, no specific anti-SARS-CoV-2 treatment is recommended because of the absence of evidence.
 
-    / The Lancet - April, 2020
+    / The Lancet - Feb, 2020
     let !c self assert = Evidence shows that convalescent plasma from patients who have recovered from viral infections can be used as a treatment without the occurrence of severe adverse events. Therefore, it might be worthwhile to test the safety and efficacy of convalescent plasma transfusion in SARS-CoV-2-infected patients.
 
   // The proximal origin of SARS-CoV-2
