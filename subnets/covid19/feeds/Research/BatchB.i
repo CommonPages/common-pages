@@ -10,16 +10,6 @@ ref 'Amanat_et_al_2020
   / March, 2020 - cold spring harbor laboratory
   let !a self assert =
 
-// Antibody Responses to SARS-CoV-2 in Patients of Novel Coronavirus Disease 2019
-doi: http://dx.doi.org/10.2139/ssrn.3546052
-ref 'Zhao_et_al_2020
-  head =
-
-  -- exports
-    !a
-
-  / March, 2020 - Lancet
-  let !a self assert =
 
 //  The serial interval of COVID-19 from publicly reported confirmed cases
 doi: https://doi.org/10.1101/2020.02.19.20025452.
@@ -76,17 +66,6 @@ ref 'Leung_et_al_2020
     !a
 
   / March, 2020 - Dryad
-  let !a self assert =
-
-// Prolonged presence of SARS-CoV-2 viral RNA in faecal samples
-doi: https://doi.org/10.1016/S2468-1253(20)30083-2
-ref 'Wu_et_al_2020
-  head =
-
-  -- exports
-    !a
-
-  / March, 2020 - ScienceDirect
   let !a self assert =
 
 // Guidelines for pregnant women with suspected SARS-CoV-2 infection

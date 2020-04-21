@@ -27,6 +27,21 @@ feed Research
   / April, 2020
   feed April2020
     --
+      'Quinlan_et_al_2020
+      'Stadlbauer_et_al_2020
+      'Döhla_et_al_2020
+      'Dandekar_et_al_2020
+      'Wölfel_et_al_2020
+      'Notari_et_al_2020
+      'Ragona_et_al_2020
+      'grein_et_al_2020
+      'Lodder_et_al_2020
+      'Wu_et_al_2020c
+      'Cui_et_al_2020
+      'Stawiski_et_al_2020
+      'Yin_et_al_2020
+      'Peiró_et_al_2020
+      'Bavishi_et_al_2020
       'Franklin_et_al_2020
       'Sheahan_et_al_2020
       'Berg_et_al_2020
@@ -34,6 +49,19 @@ feed Research
   / March, 2020
   feed March2020
     --
+      'Hegarty_et_al_2020
+      'Kluytmans_et_al_2020
+      'Wu_et_al_2020d
+      'Remuzzi_et_al_2020
+      'Onder_et_al_2020
+      'Verity_et_al_2020
+      'Medeema_et_al_2020
+      'Batlle_et_al_2020
+      'Vaduganathan_et_al_2020
+      'FangFang_et_al_2020
+      'Moriyama_et_al_2020
+      'Bao_et_al_2020
+      'Zhao_et_al_2020
       'Miller_et_al_2020
       'Xu_et_al_2020
       'Peeples_et_al_2020
@@ -82,6 +110,10 @@ feed Research
   / February, 2020
   feed February2020
     --
+      'Porcheddu_et_al_2020
+      'Liu_et_al_2020d
+      'luo_et_al_2020
+      'want_et_at_2020
       'zheng_et_al_2020
       'hui_et_al_2020
       'Watanabe_et_al_2020
@@ -133,6 +165,9 @@ feed Research
     -- February, 2018
       'Corman_et_al_2018
 
+    -- October, 2017
+      'Netto_et_al_2017
+
     -- August, 2017
       'Sheahan_et_al_2017
 
@@ -142,6 +177,9 @@ feed Research
 
     -- July, 2017
       'Lin_et_al_2017
+
+    -- May, 2017
+      'Kim_et_al_2017
 
     -- March, 2017
       'Fu_et_al_2017
@@ -159,6 +197,9 @@ feed Research
     -- June, 2016
       'Alshukairi_AN_et_al_2016
 
+    -- March, 2016
+      'Marano_et_al_2016
+
     -- February, 2016
       'Zumla_et_al_2016
 
@@ -170,6 +211,9 @@ feed Research
 
     -- June, 2015
        'Ren_et_al_2015
+
+    -- Jan, 2015
+      'Jenkins_et_al_2015
 
     -- October, 2014
       'Rossignol_et_al_2014
@@ -183,8 +227,14 @@ feed Research
     -- September, 2012
       'Cvetkovic_et_al_2012
 
+    -- May, 2012
+      'Lodder_et_al_2012
+
     -- December, 2011
       'bin_Reza_et_al_2011
+
+    -- May, 2011
+      'Qian_et_al_2011
 
     -- November, 2010
       'Velthuis_et_al_2010
@@ -194,6 +244,7 @@ feed Research
 
     -- September, 2010
       'christakis_et_al_2010
+      'Wong_et_al_2010
 
     -- June, 2010
       'Zhao_et_al_2010
@@ -213,16 +264,23 @@ feed Research
     -- April, 2008
       'Shi_et_al_2008
 
+    -- October, 2007
+      'Wu_et_al_2007
+
     -- April, 2006
       'Fergusion_et_al_2006
       'sebastiani_et_al_2006
 
     -- August, 2005
+      'Fukushi_et_al_2005
       'Vincent_et_al_2005
       'Elena_et_al_2005
 
     -- September, 2004
       'Darnell_et_al_2004
+
+    -- July, 2004
+      'Wu_et_al_2004
 
     -- June, 2004
       'Holmes_et_al_2004
@@ -235,7 +293,1185 @@ feed Research
 
     -- October, 1990
       'Callow_et_al_1990
+
   #
+
+  # Tag - treatment, ACEI/ARB inhibitors
+  // Association of Inpatient Use of Angiotensin Converting Enzyme Inhibitors and Angiotensin II Receptor Blockers with Mortality Among Patients With Hypertension Hospitalized With COVID-19
+  doi: https://doi.org/10.1161/CIRCRESAHA.120.317134
+  ref 'Zhang_et_al_2020f
+    head = Among hospitalized COVID-19 patients with hypertension, inpatient use of ACEI/ARB was associated with lower risk of all-cause mortality compared with ACEI/ARB non-users. While study interpretation needs to consider the potential for residual confounders, it is unlikely that in-hospital use of ACEI/ARB was associated with an increased mortality risk.
+
+    -- exports
+      !a
+
+    / April, 2020 - Circulation Research
+    let !a self assert = The risk of 28-day all-cause mortality was significantly lower in ACEI/ARB group versus nonACEI/ARB group (3.7% [7/188] vs. 9.8% [92/940]; P = 0.01).
+
+    / April, 2020 - Circulation Research
+    let !b self assert = Overall, these findings suggested potential beneficial effects observed with continued use of ACEI/ARB therapy and the possible contribution of RAS activation in the pathogenesis of severity of COVID-19 in patients with hypertension
+
+    / April, 2020 - Circulation Research
+    let !c self assert = Considering the impact of unmeasured potential confounders, we conducted E-value analysis and found that E value was substantially greater than accepted risk factors for COVID-19 mortality. Therefore, it is not likely that an unmeasured confounder exists to modify the conclusion that ACEI/ARB use was not associated with increased COVID-19 mortality as observed in this study.
+
+    / April, 2020 - Circulation Research
+    let !d self assert = In propensity score-matched cohort analysis, the risk of septic shock was lower in ACEI/ARB group (adjusted HR, 0.32 [95%CI, 0.13-0.80; P = 0.01]; IRD, -0.20[95%CI, -0.39 – -0.01]) than non-ACEI/ARB group among all individuals with hypertension (Table 3). In a sub-group of patients, who received at least one anti-hypertensive medication during hospitalization, the findings remained consistent (adjusted HR, 0.24 [95%CI, 0.10-0.63; P = 0.003]; IRD, -0.31 [95%CI, -0.54 – -0.09])
+
+
+  # Tag - BCG vaccine
+  // BCG vaccination may be protective against Covid-19
+  doi: http://doi.org/10.13140/RG.2.2.35948.10880
+  ref 'Hegarty_et_al_2020
+    head =  Countries with national program of whole population BCG vaccination appear to have a lower incidence and death rate from Covid-19. This may be due to the known immunological benefits of BCG vaccination. In the absence of a specific vaccination against Covid-19, population-based BCG vaccination may have a role in reducing the impact of this disease and is being studied in a prospective trial.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / March, 2020 - Research gate
+    let !a self assert = Over the 15 day period from 9 March to 24 March 2020, the incidence of Covid-19 was 80 per million population, with a fatality of 0.55 per million. A total of 178 countries were in the database: current national programs of BCG vaccination exist in 131 countries; 21 countries have no current program of national BCG vaccination; and for 26 countries status is unknown
+
+    / March, 2020 - Research gate
+    let !b self assert = When we dichotomised the data according to those countries with and without BCG programs, the incidence of Covid-19 was 38.4 per million in countries with BCG vaccination whereas the incidence of Covid-19 was 358.4 per million in the absence of such a program.
+
+    / March, 2020 - Research gate
+    let !c self assert = Likewise, the fatality recorded in countries with BCG programs was 4.28/million, compared to 40/million in countries without a national program.
+
+    / March, 2020 - Research gate
+    let !d self assert = Calculating a crude case fatality rate (CFR) by dividing deaths by cases, countries with a BCG program the CFR was 0.13% and 0.33% in countries without a BCG program. Countries that have a booster injection of BCG 7 to 14 years later had no better outcomes than those with a single inoculation only.
+
+    / March, 2020 - Research gate
+    let !e self assert = We recognize that these data are observational and based on a single time-point and that there may be are several confounding issues such as limited testing and reporting in many countries. However as these data are derived from 178 countries the trend is striking and supports the mechanistic data that exists for BCG as a protective agent not only for viral and other infections but also against cancer.
+
+
+  # Tag - treatments
+  // Vesicular stomatitis virus pseudotyped with severe acute respiratory syndrome coronavirus spike protein.
+  doi: http://doi.org/10.1099/vir.0.80955-0
+  ref 'Fukushi_et_al_2005
+    head = ACE2-binding peptides can be used as specific inhibitors of SARS-CoV-S protein-mediated infection. Based on the results of neutralization experiments using anti-SARS-CoV antibody and anti-ACE2 antibody, we conclude that VSV-SARS-St19 infection of target cells is mediated by SARS-CoV-S protein. VSV-SARS-St19 will be useful not only for analysing the function of SARS-CoV-S protein and for developing safe and rapid methods of detecting neutralizing antibodies specific for SARS-CoV infection but also for screening of inhibitors of SARS-CoV-S protein-mediated infection.
+
+    -- exports
+      !a
+
+    / Aug, 2005 - JOURNAL OF GENERAL VIROLOGY
+    let !a self assert = A SARS-CoV-S protein-bearing vesicular stomatitis virus (VSV) pseudotype using the VSVΔG* system was generated. Partial deletion of the SARS-CoV-S protein cytoplasmic domain allowed efficient incorporation into VSV particles and led to the generation of a pseudotype (VSV-SARS-St19) at high titre. The titre of VSV-SARS-St19 was 5·0×105 infectious units (IU) ml−1.
+
+    / Aug, 2005 - JOURNAL OF GENERAL VIROLOGY
+    let !b self assert = Green fluorescent protein expression was demonstrated as early as 7 h after infection of Vero E6 cells with VSV-SARS-St19. VSV-SARS-St19 was neutralized by anti-SARS-CoV antibody and soluble ACE2, and its infection was blocked by treatment of Vero E6 cells with anti-ACE2 antibody.
+
+    / Aug, 2005 - JOURNAL OF GENERAL VIROLOGY
+    let !c self assert = Soluble ACE2 protein strongly inhibited VSV-SARS-St19 infection in a dose-dependent manner, but did not affect VSVΔG*-G infection. These observations indicated that purified soluble ACE2 specifically inhibited VSV-SARS-St19 infection. The highest concentration of soACE2 showed partial inhibition (70–80 %) of VSV-SARS-St19 infectivity.
+
+    / Aug, 2005 - JOURNAL OF GENERAL VIROLOGY
+    let !d self assert = Our results suggest that ACE2-binding peptides can be used as specific inhibitors of SARS-CoV-S protein-mediated infection. Based on the results of neutralization experiments using anti-SARS-CoV antibody and anti-ACE2 antibody, we conclude that VSV-SARS-St19 infection of target cells is mediated by SARS-CoV-S protein.
+
+
+
+  # Tag - vaccine, treatments
+  // The SARS-CoV-2 receptor-binding domain elicits a potent neutralizing response without antibody-dependent enhancement
+  doi: https://doi.org/10.1101/2020.04.10.036418
+  ref 'Quinlan_et_al_2020
+    head = Importantly, anti-sera from immunized animals did not mediate antibody-dependent enhancement (ADE) of S-protein-mediated entry under conditions in which Zika virus ADE was readily observed. These data suggest that an RBD-based vaccine for SARS-CoV-2 could be safe and effective, With no-ADE response from an RBD antigen vaccination.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+
+    / April, 2020 - bioRxiv
+    let !a self assert = We conclude that the SARS-CoV-2 RBD can elicit a neutralizing response in vaccinated rats comparable to a 100 µg/ml (1 µM) concentration of an inhibitor with a 1 nM IC50.
+
+    / April, 2020 - bioRxiv
+    let !b self assert = The ability of each pooled serum to displace ACE2-rIg correlated with its ability to neutralize SARS2-PV. Specifically, day-40 sera displaced ACE2-rIg more efficiently than preimmune sera containing 100 µg/ml ACE2-Ig, and day-15 sera displaced ACE2-rIg more efficiently than preimmune sera containing 10 µg/ml ACE2-Ig. Thus immunization with SARSCoV-2 RBD elicits antibodies that potently neutralize S-protein mediated entry by directly binding the S protein.
+
+    / April, 2020 - bioRxiv
+    let !c self assert = Day-40 sera did not enhance entry SARS-PV entry, but rat anti-ZIKV antisera again robustly promoted ZIKV-VLP infection (Figure 3E and 3F). Collectively the data of Figure 3 suggest that antibodies elicited by an RBD-based vaccine are likely to neutralize more efficiently than they would mediate ADE
+
+    / April, 2020 - bioRxiv
+    let !d self assert = Given the exposure of this key neutralizing epitope, the ease with which this compact domain can be produced and presented, and its clear immunogenicity, we propose that the RBD be considered asa key component of any SARS-CoV-2 vaccine strategy.
+
+
+  # Tag - Serological assay, testing
+  // SARS‐CoV‐2 Seroconversion in Humans: A Detailed Protocol for a Serological Assay, Antigen Production, and Test Setup
+  doi: https://doi.org/10.1002/cpmc.100
+  ref 'Stadlbauer_et_al_2020
+    head = Here we describe adetailed protocol for expression of antigens derived from the spike protein ofSARS-CoV-2 that can serve as a substrate for immunological assays, as well asa two-stage serological enzyme-linked immunosorbent assay (ELISA). Theseassays can be used for research studies and for testing in clinical laboratories
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+      !j
+
+    / April, 2020 - Current Protocols in Microbiology
+    let !a self assert = We expect expression levels of the RBDto be above 20 mg per L of culture cells andexpression of the full-length spike protein tobe approximately 4 mg per L of 293Fs, us-ing a gravity-low protein-purification strat-egy.
+
+    / April, 2020 - Current Protocols in Microbiology
+    let !b self assert = When running the SDS-PAGE to confrmprotein integrity, clear single bands are ex-pected for the RBD and full-length spike ataround 25 to 30 kDa and ∼190 kDa, respec-tively.
+
+    / April, 2020 - Current Protocols in Microbiology
+    let !c self assert = Additionally, ELISAs with positive andnegative controls (e.g., monoclonal antibod-ies) are performed to conrm correct proteinfolding. We expect a good binding prole forthe positive control and low-to-no backgroundreactivity for the negative control.
+
+    / April, 2020 - Current Protocols in Microbiology
+    let !d self assert = The most common problem for the trans-fection (Basic Protocol 1) is low cell viabilitybefore performing the transfection. The cellsneed to be 90% to 95% viable. The absenceof antibiotics/antifungals requires good ster-ile technique to prevent contamination. Sterileplasmid preparations are also recommended,and it is important to add the enhancer to theshaking asks 16 hr post-transfection.
+
+    / April, 2020 - Current Protocols in Microbiology
+    let !e self assert = The most common problem for the trans-fection (Basic Protocol 1) is low cell viabilitybefore performing the transfection. The cellsneed to be 90% to 95% viable. The absenceof antibiotics/antifungals requires good ster-ile technique to prevent contamination. Sterileplasmid preparations are also recommended,and it is important to add the enhancer to theshaking asks 16 hr post-transfection.
+
+    / April, 2020 - Current Protocols in Microbiology
+    let !f self assert = For the ELISA (Basic Protocol 2), perform-ing all of the washing steps and adhering tothe incubation times are important to achievelow background reactivity. Most critical arethe incubation times for the secondary anti-body and the substrate (OPD and HCl forstopping the reaction).
+
+    / April, 2020 - Current Protocols in Microbiology
+    let !g self assert = For the ELISA (Basic Protocol 2), perform-ing all of the washing steps and adhering tothe incubation times are important to achievelow background reactivity. Most critical arethe incubation times for the secondary anti-body and the substrate (OPD and HCl forstopping the reaction).
+
+    / April, 2020 - Current Protocols in Microbiology
+    let !h self assert = In preparing theOPD, it is also important to dissolve the goldtablet fully and only add the silver tablet rightbefore the substrate is added to the ELISAplate.
+
+    / April, 2020 - Current Protocols in Microbiology
+    let !i self assert = Basic Protocol 1 takes about4 days. Growing up a cryostock of 293F cells,bringing them to passage 4 (recommended be-fore transfection), and obtaining a sufficientcell number would take another few days; thisis not taken into account in the protocol.
+
+    / April, 2020 - Current Protocols in Microbiology
+    let !j self assert = BasicProtocol 2 takes at least 2 days (antigen coat-ing on day 1 and running the ELISA on day2). The screening ELISA could be performedin the morning and the conrmatory ELISAin the afternoon, or the assays can be done onconsecutive days.
+
+
+
+  # Tag - testing, rapid testing, antibody testing
+  // Rapid point-of-care testing for SARS-CoV-2 in a community screening setting shows low sensitivity
+  doi: https://doi.org/10.1016/j.puhe.2020.04.009
+  ref 'Döhla_et_al_2020
+    head = While rapid point-of-care testing is critically needed, the current evaluation of an antibody-based system demonstrates only low sensitivity and is therefore not recommendable to detect potential infections as a stand-alone test.
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / April, 2020 - Public health
+    let !a self assert = Of 49 individuals, 22 tested positive and 27 tested negative by repeated qPCR. In contrast, the rapid test detected only eight of those positive correctly and 3 to be false-positive (sensitivity: 36.4% [95% confidence interval (CI): 17.2; 59.4] ), whereas 24 tests were true-negative and 14 tests were false-negative (specificity: 88.9%[95% CI: 70.8; 97.7]).
+
+    / April, 2020 - Public health
+    let !b self assert = There was no statistically significant correlation between rapid test results and time from potential exposure (exact test, p = 0.636), presence of symptoms (exact test, p = 0.689), age (exact test, p = 0.145) or gender (exact test, p = 0.531)s
+
+    / April, 2020 - Public health
+    let !c self assert = The rapid test was substantially inferior to the RT-qPCR testing and should therefore neither be used for individual risk assessment nor for decisions on public health measures. As there is an urgent need for a sufficient rapid testing system for SARS-CoV-2, an antigen-based system may therefore be more appropriate. We recommend accelerating the development and evaluation of effective point-of-care testing systems.
+
+
+
+
+  # Tag - serology testing, population exposure,seropervalence, testing, Zika Virus
+  // High Zika Virus Seroprevalence in Salvador, Northeastern Brazil Limits the Potential for Further Outbreaks
+  doi: http://doi.org/10.1128/mBio.01390-17
+  ref 'Netto_et_al_2017
+    head = Our data corroborate ZIKV-associated congenital disease and an association of low SES and ZIKV infection and suggest that population immunity caused cessation of the outbreak. Similar studies from other areas will be required to determine the fate of the American ZIKV outbreak.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / Oct, 2017 - American Society for Microbiology
+    let !a self assert = Epidemiological key parameters were modeled in a Bayesian framework. ZIKV seroprevalence increased rapidly during 2015 to 2016, reaching 63.3% by 2016 (95% confidence interval [CI], 59.4 to 66.8%), comparable to the seroprevalence of DENV (75.7%; CI, 69.4 to 81.1%) and higher than that of CHIKV (7.4%; CI, 5.6 to 9.8%)
+
+    / Oct, 2017 - American Society for Microbiology
+    let !b self assert = Of 19 microcephaly pregnancies, 94.7% showed ZIKV IgG antibodies, compared to 69.3% of 257 non-microcephaly pregnancies (P 0.017)
+
+    / Oct, 2017 - American Society for Microbiology
+    let !c self assert = Analyses of sociodemographic data revealed a higher ZIKV burden in low socioeconomic status (SES) areas.
+
+    / Oct, 2017 - American Society for Microbiology
+    let !d self assert = The estimated basic reproduction number (R0) for ZIKV was 2.1 (CI, 1.8 to 2.5) at the onset of the outbreak with, on average, 2.0% (CI, 1.8 to 2.2%) of ZIKV infections reported in the national surveillance system. Projecting the model forward into 2016 suggested a continued decline in transmission despite the return of peak arbovirus Due to the lack of susceptible individuals, the effective reproductive number (Reff) was not predicted to exceed one in subsequent years, a condition required for another ZIKV epidemic wave.
+
+    / Oct, 2017 - American Society for Microbiology
+    let !e self assert = The limitation of ZIKV spread due to community protective immunity is probably analogous to CHIKV, because both viruses show limited antigenic variability. Consistent with our data, CHIKV infection rates exceeding 60% have been associated with the cessation of outbreak activity. In Africa and probably in Asia as well, CHIKV can emerge cyclically from nonhuman primate reservoirs upon replenishment of sufficient numbers of susceptible individuals. Whether ZIKV can establish a sylvatic transmission cycle in Latin America thus requires urgent investigation.
+
+
+  # Tag - Epidemiological model
+  // A serological assay to detect SARS-CoV-2 seroconversion in humans
+  doi: https://doi.org/10.1101/2020.03.17.20037713
+  ref 'Dandekar_et_al_2020
+    head = The results show a generally strong correlation between strengthening of the quarantine controls, i.e. increasing Q(t) as learnt by the neural network model; actions taken by the regions’ respective governments; and decrease of the effective reproduction number Rt.
+
+    -- exports
+      !a
+
+    / April, 2020 - medRxiv
+    let !a self assert = A comparative analysis of the quarantine strength function Q(t) learned by the neural network for different countries reveals that Wuhan had the highest magnitude and South Korea had the highest growth rate of Q(t). This can be attributed to the stringent government interventions and strict public health measures including immediate isolation and quarantine impositions in Wuhan and South Korea. This eventually resulted in the halting of infection spread and a corresponding Rt < 1 within a month for Wuhan (Figure 2c) and within 20 days for South Korea (figure 6c) after the first signs of a pandemic were recognized.
+
+    / April, 2020 - medRxiv
+    let !b self assert = A comparative analysis of the quarantine strength function Q(t) learned by the neural network for different countries reveals that Wuhan had the highest magnitude and South Korea had the highest growth rate of Q(t). This can be attributed to the stringent government interventions and strict public health measures including immediate isolation and quarantine impositions in Wuhan and South Korea. This eventually resulted in the halting of infection spread and a corresponding Rt < 1 within a month for Wuhan (Figure 2c) and within 20 days for South Korea (figure 6c) after the first signs of a pandemic were recognized.
+
+    / April, 2020 - medRxiv
+    let !c self assert = It is reported that the infected case count stagnated nation-wide in China by the beginning of March (Cyranoski 2020) and in South Korea by the end of March (Fisher & Sang-Hun 2020); which eventually led to a stagnation in the quarantine interventions employed in these countries. This is in general qualitative agreement with our forecasting results which show a plateau in Q(t) and Rt at Rt < 1.
+
+    / April, 2020 - medRxiv
+    let !d self assert = In Italy, as of March 20th, I(t) is appearing to be linear, which is consistent with lower rates of infections being actually reported (Horowitz & Kirkpatrick 2020) and can be taken as a precursor to stagnation. It is also consistent with adoption of strict movement restrictions by the government shortly before the March 20th date. We forecast that, for Italy, Rt will drop below 1 and Q(t),Rt both will stagnate between mid to end of April 2020 indicating halting of the spread of infection.
+
+    / April, 2020 - medRxiv
+    let !e self assert = Owing to the relaxed quarantine and isolation policies in the US in its initial stages post the infection spread, our model converges to Q(t) ≈ 0.4 − 0.6  which is the smallest compared to other regions. Even though the effective Rt is still greater than 1 as of April 1 2020, its growth has started to show a decreasing trend and we expect the infection to start showing stagnation with Rt < 1 by 20 April 2020 if the current US policies continue without change. At its peak, we forecast the infected count to reach approximately 600,000 before stagnation, again assuming no change in US policies.
+
+    / April, 2020 - medRxiv
+    let !f self assert = Our mixed model analysis for USA, employing Q(t) learnt from the models of Wuhan, Italy and South Korea in the USA model starting from 1 April 2020, reveals that stronger quarantine policies might lead to an accelerated plateauing in the infected case count, as shown in Figure 10a, and subsequently smaller infected case count.
+
+    / April, 2020 - medRxiv
+    let !g self assert = On the other hand,in agreement with National Institute of Allergy and Infectious Diseases estimates (Miller 2020), we forecast that relaxing or abandoning the quarantine policies gradually over the period of the next 17 days may well lead to ∼ 1 million infections without any stagnation in the infected case count by mid April 2020.
+
+
+  # Tag - Seroprevalance, Testing
+  // Sensitivity of Chest CT for COVID-19: Comparison to RT-PCR
+  doi: https://doi.org/10.1148/radiol.2020200432
+  ref 'Fang_et_al_2020
+    head = In a series of 51 patients with chest CT and RT-PCR assay performed within 3 days, the sensitivity of CT for COVID-19 infection was 98% compared to RT-PCR sensitivity of 71% (p<.001)- Patients eventually tested positive 1 to 7 days later..Our results support the use of chest CT for screening for COVD-19 for patients with clinical and epidemiologic features compatible with COVID-19 infection particularly when RT-PCR testing is negative-
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / March, 2020 - cold spring harbor laboratory
+    let !a self assert = 36/51 patients had positive RT-PCR and positive CT at initial presention for COVID-19.
+
+    / March, 2020 - cold spring harbor laboratory
+    let !b self assert =  15/51 patients with negative RT-PCR and positive CT at initial presentation (RT-PCR became positive between 1 and 7 days later -12/51 patients had COVID-19 confirmed by two RT-PCR nucleic acid tests (1 to 2 days), 2 patients by three tests (2-5 days) and 1 patient by four tests (7 days) after initial onset.)
+
+    / March, 2020 - cold spring harbor laboratory
+    let !c self assert = 1/51 patient with positive RT-PCR and negative CT at initial presentation (CT became positive after 3 days of viral pneumonia).
+
+    / March, 2020 - cold spring harbor laboratory
+    let !d self assert = In this patient sample, difference in detection rate for initial CT (50/51 [98%, 95% CI 90-100%]) patients was greater than first RT-PCR (36/51 [71%, 95%CI 56-83%]) patients (p<.001).
+
+    / March, 2020 - cold spring harbor laboratory
+    let !e self assert = Of 50 patients with abnormal CT, 36 (72%) had typical CT manifestations (e.g. peripheral, subpleural ground glass opacities, often in the lower lobes (Figure 2) and 14 (28%) had atypical CT manifestations
+
+    / March, 2020 - cold spring harbor laboratory
+    let !f self assert =  The reasons for the relatively lower RT-PCR detection rate in our sample compared to a prior report are unknown.
+
+
+  # Tag - Reinfection, Testing, Immunity
+  // Virological assessment of hospitalized patients with COVID-2019
+  doi: https://doi.org/10.1038/s41586-020-2196-x
+  ref 'Wölfel_et_al_2020
+    head = With RT-PCR, the specimen is declared positive if viral RNA is detected.  Here we provide a detailed virological analysis of nine cases with COVID19, providing proof of active virus replication in upper respiratory tract tissues. We have seen that patients with COVID19 seem to have high viral loads in their throats. Thus it is relatively easy to detect virus, and so the test is highly sensitive.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+      
+
+    / April, 2020 - Nature
+    let !a self assert = In SARS, it took 7 to 10 days after onset until peak RNA concentrations (of up to 5x105 copies per swab) were reached. In the present study, peak concentrations were reached before day 5, and were more than 1000 times higher.
+
+    / April, 2020 - Nature
+    let !b self assert = Critically, the majority of patients in the present study seemed to be already beyond their shedding peak in upper respiratory tract samples when first tested, while shedding of infectious virus in sputum continued through the first week of symptoms. Together, these findings suggest a more efficient transmission of SARS-CoV-2 than SARS-CoV through active pharyngeal viral shedding at a time when symptoms are still mild and typical of upper respiratory tract infection.  Pharyngeal virus shedding was very high during the frst week of symptoms (peak at 7.11 × 108 RNA copies per throat swab, day 4).
+
+    / April, 2020 - Nature
+    let !c self assert = Whereas proof of replication by histopathology is awaited, extended tissue tropism of SARS-CoV-2 with replication in the throat is strongly supported by our studies of sgRNA-transcribing cells in throat swab samples, particularly during the first 5 days of symptoms. Striking additional evidence for independent replication in the throat is provided by sequence findings in one patient who consistently showed a distinct virus in her throat as opposed to the lung.
+
+    / April, 2020 - Nature
+    let !d self assert = In addition, the disturbance of gustatory and olfactory sense points at upper respiratory tract tissue infection
+
+    / April, 2020 - Nature
+    let !e self assert =  Later in the disease, COVID-19 then resembles SARS in terms of replication in the lower respiratory tract. Of note, the two patients who showed some symptoms of lung affection showed a prolonged viral load in sputum
+
+    / April, 2020 - Nature
+    let !f self assert = Active replication in the throat was confrmed by viral replicative RNA intermediates in throat samples. Sequence-distinct virus populations were consistently detected in throat and lung samples from the same patient, proving independent replication
+
+    / April, 2020 - Nature
+    let !g self assert = Active replication in the throat was confrmed by viral replicative RNA intermediates in throat samples. Sequence-distinct virus populations were consistently detected in throat and lung samples from the same patient, proving independent replication
+
+    / April, 2020 - Nature
+    let !h self assert = Shedding of viral RNA from sputum outlasted the end of symptoms. The prolonged viral shedding in sputum is relevant not only for hospital infection control, but also for discharge management.  Based on the present findings, early discharge with ensuing home isolation could be chosen for patients who are beyond day 10 of symptoms with less than 100,000 viral RNA copies per ml of sputum. Both criteria predict that there is little residual risk of infectivity, based on cell culture.
+
+    / April, 2020 - Nature
+    let !i self assert = Seroconversion in 50% of patients occurred by day 7, and in all by day 14. but was not followed by a rapid decline in viral load.
+
+    # / April, 2020 - Nature
+    # let !j self assert = Of note, case #4, with the lowest virus neutralization titer at end of week 2, seemed to shed virus from stool over prolonged time.
+
+
+  # Tag - Healthcare workers
+  // SARS-CoV-2 infection in 86 healthcare workers in two Dutch hospitals in March 2020
+  doi: https://doi.org/10.1101/2020.03.23.20041913
+  ref 'Kluytmans_et_al_2020
+    head = The paper observation confirms the insidious nature of SARS-CoV-2 spread, given the high prevalence of mild clinical presentations that may go undetected. We therefore suggest adjusting the currently used case-definition for suspected COVID-19 in HCWs(Health care workers) by taking fever as one of the possible symptoms and not as a required symptom. Further improvement of the sensitivity of COVID-19 detection in HCWs can be achieved by adding severe myalgia and general malaise to the case definition.
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / March, 2020 - medRxiv
+    let !a self assert = Two weeks after the first Dutch patient with COVID-19 was reported, the prevalence of COVID-19 in HCWs with fever or respiratory symptoms in two Dutch hospitals in the southern part of the Netherlands was 6%.This unexpected high prevalence supported the hypothesis of hidden community spread of SARS-CoV-2 and is considered a minimal estimate of the prevalence in all HCWs at the time of screening.
+
+    / March, 2020 - medRxiv
+    let !b self assert = Most HCWs suffered from mild disease as compared to the clinical presentation and outcomes reported for hospitalised patients so far. Notably, fever or a feverish feeling was frequently not reported.
+
+    / March, 2020 - medRxiv
+    let !c self assert = Seven (8%) indicated that they were already symptomatic before February 27, 2020, the day the first Dutch patient with COVID-19 was diagnosed
+
+    / March, 2020 - medRxiv
+    let !d self assert = Three (3%) HCWs reported to have been exposed to an inpatient known with COVID-19 prior to the onset of symptoms, and 54 (63%) mentioned to have worked while being symptomatic
+
+    / March, 2020 - medRxiv
+    let !e self assert = Coughing, shortness of breath, general malaise, loss of appetite and altered or loss of taste were more frequent in HCWs who were interviewed during the second week of illness.
+
+    / March, 2020 - medRxiv
+    let !f self assert = At the time of the study, the internationally recommended case definition included a history of travel to China or Northern-Italy, which did not apply for any of the infected HCWs identified through our screening. When using the definition without travel history to capture community transmission, about 40% of HCWs with COVID-19 in our hospitals still would not have been detected. Sensitive detection of COVID-19 cases in HCWs is crucial for hospital infection prevention policy, particularly for those who work with vulnerable patients.
+
+
+  # Tag - Fecal Transmission
+  // Prolonged presence of SARS-CoV-2 viral RNA in faecal samples
+  doi: https://doi.org/10.1016/S2468-1253(20)30083-2
+  ref 'Wu_et_al_2020d
+    head = Our data suggest the possibility of extended duration of viral shedding in faeces, for nearly 5 weeks after the patients' respiratory samples tested negative for SARS-CoV-2 RNA. Although knowledge about the viability of SARS-CoV-2 is limited, the virus could remain viable in the environment for days, which could lead to faecal–oral transmission, as seen with severe acute respiratory virus CoV and Middle East respiratory syndrome CoV.2
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+
+    / March, 2020 - ScienceDirect
+    let !a self assert = Faecal samples from 33 (45%) of 74 patients were negative for SARS CoV-2 RNA, while their respiratory swabs remained positive for a mean of 15·4 days (SD 6·7) from first symptom onset.Of the 41 (55%) of 74 patients with faecal samples that were positive for SARS-CoV-2 RNA, respiratory samples remained positive for SARS-CoV-2 RNA for a mean of 16·7 days (SD 6·7) and faecal samples remained positive for a mean of 27·9 days (10·7) after first symptom onset (ie, for a mean of 11·2 days [9·2] longer than for respiratory samples)
+
+    / March, 2020 - ScienceDirect
+    let !b self assert = Notably, patient 1 had positive faecal samples for 33 days continuously after the respiratory samples became negative, and patient 4 tested positive for SARS-CoV-2 RNA in their faecal sample for 47 days after first symptom onset
+
+    / March, 2020 - ScienceDirect
+    let !c self assert = As with any new infectious disease, case definition evolves rapidly as knowledge of the disease accrues. Our data suggest that faecal sample positivity for SARS-CoV-2 RNA normally lags behind that of respiratory tract samples; therefore, we do not suggest the addition of testing of faecal samples to the existing diagnostic procedures for COVID-19
+
+    / March, 2020 - ScienceDirect
+    let !d self assert =  We observed that for over half of patients, their faecal samples remained positive for SARS-CoV-2 RNA for a mean of 11·2 days after respiratory tract samples became negative for SARS-CoV-2 RNA, implying that the virus is actively replicating in the patient's gastrointestinal tract and that faecal–oral transmission could occur after viral clearance in the respiratory tract.
+
+    / March, 2020 - ScienceDirect
+    let !e self assert =  We would suggest the addition of faecal testing for SARS-CoV-2 with real-time RT-PCR is highly recommended after the clearance of viral RNA in a patient's respiratory samples. Strict precautions to prevent transmission should be taken for patients who are in hospital or self-quarantined if their faecal samples test positive.
+
+    / March, 2020 - ScienceDirect
+    let !f self assert = No cases of transmission via the faecal–oral route have yet been reported for SARS-CoV-2, which might suggest that infection via this route is unlikely in quarantine facilities, in hospital, or while under self-isolation. However, potential faecal–oral transmission might pose an increased risk in contained living premises such as hostels, dormitories, trains, buses, and cruise ships.
+
+    / March, 2020 - ScienceDirect
+    let !g self assert = The presence of gastrointestinal symptoms was not associated with faecal sample viral RNA positivity (p=0·45); disease severity was not associated with extended duration of faecal sample viral RNA positivity (p=0·60); however, antiviral treatment was positively associated with the presence of viral RNA in faecal samples (p=0·025; appendix pp 2–3). These associations should be interpreted with caution because of the possibility of confounding.
+
+
+  # Old Age
+  // Inflamm‐aging: An Evolutionary Perspective on Immunosenescence
+  doi: https://doi.org/10.1111/j.1749-6632.2000.tb06651.x
+  ref 'Franceschi_et_al_2006
+    head = The beneficial effects of inflammation devoted to the neutralization of dangerous/harmful agents early in life and in adulthood become detrimental late in life in a period largely not foreseen by evolution, according to the antagonistic pleiotropy theory of aging.
+
+    >>> Abstract
+      In this paper we extend the “network theory of aging,” and we argue that a global reduction in the capacity to cope with a variety of stressors and a concomitant progressive increase in proinflammatory status are major characteristics of the aging process. This phenomenon, which we will refer to as “inflamm‐aging,” is provoked by a continuous antigenic load and stress. On the basis of evolutionary studies, we also argue that the immune and the stress responses are equivalent and that antigens are nothing other than particular types of stressors. We also propose to return macrophage to its rightful place as central actor not only in the inflammatory response and immunity, but also in the stress response. The rate of reaching the threshold of proinflammatory status over which diseases/disabilities ensue and the individual capacity to cope with and adapt to stressors are assumed to be complex traits with a genetic component. Finally, we argue that the persistence of inflammatory stimuli over time represents the biologic background (first hit) favoring the susceptibility to age‐related diseases/disabilities. A second hit (absence of robust gene variants and/or presence of frail gene variants) is likely necessary to develop overt organ‐specific age‐related diseases having an inflammatory pathogenesis, such as atherosclerosis, Alzheimer's disease, osteoporosis, and diabetes. Following this perspective, several paradoxes of healthy centenarians (increase of plasma levels of inflammatory cytokines, acute phase proteins, and coagulation factors) are illustrated and explained. In conclusion, the beneficial effects of inflammation devoted to the neutralization of dangerous/harmful agents early in life and in adulthood become detrimental late in life in a period largely not foreseen by evolution, according to the antagonistic pleiotropy theory of aging.
+
+    / Jan, 2006 - The New york academy of Sciences
+    let !a self assert =
+
+
+  // COVID-19 and Italy: what next?
+  doi: https://doi.org/10.1016/S0140-6736(20)30627-9
+  ref 'Remuzzi_et_al_2020
+    head = Of the patients who died, 42·2% were aged 80–89 years, 32·4% were aged 70–79 years, 8·4% were aged 60–69 years, and 2·8% were aged 50–59 years
+
+    >>> Abstract
+      The spread of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has already taken on pandemic proportions, affecting over 100 countries in a matter of weeks. A global response to prepare health systems worldwide is imperative. Although containment measures in China have reduced new cases by more than 90%, this reduction is not the case elsewhere, and Italy has been particularly affected. There is now grave concern regarding the Italian national health system’s capacity to effectively respond to the needs of patients who are infected and require intensive care for SARS-CoV-2 pneumonia. The percentage of patients in intensive care reported daily in Italy between March 1 and March 11, 2020, has consistently been between 9% and 11% of patients who are actively infected. The number of patients infected since Feb 21 in Italy closely follows an exponential trend. If this trend continues for 1 more week, there will be 30000 infected patients. Intensive care units will then be at maximum capacity; up to 4000 hospital beds will be needed by mid-April, 2020. Our analysis might help political leaders and health authorities to allocate enough resources, including personnel, beds, and intensive care facilities, to manage the situation in the next few days and weeks. If the Italian outbreak follows a similar trend as in Hubei province, China, the number of newly infected patients could start to decrease within 3–4 days, departing from the exponential trend. However, this cannot currently be predicted because of differences between social distancing measures and the capacity to quickly build dedicated facilities in China.
+
+    / March, 2020 - ScienceDirect
+    let !a self assert =
+
+
+  # Tag - Old age
+  // Aging is associated with a numerical and functional decline in plasmacytoid dendritic cells, whereas myeloid dendritic cells are relatively unaltered in human peripheral blood
+  doi: https://doi.org/10.1016/j.humimm.2009.07.005
+  ref 'Jing_et_al_2009
+    head = Low-grade chronic inflammation in individuals that commonly occurs during aging can also dull the ability of the innate and adaptive immune responses.
+
+    >>> Abstract
+      Dendritic cells (DC) are potent antigen-presenting cells that initiate and regulate T-cell responses. In this study, the numbers and functional cytokine secretions of plasmacytoid and myeloid DC (pDC and mDC, respectively) in peripheral blood from young and elderly subjects were compared. Overall, pDC numbers in peripheral blood were lower in healthy elderly compared with healthy young subjects (p = 0.016). In response to influenza virus stimulation, isolated pDC from healthy elderly subjects secreted less interferon (IFN)–α compared with those from healthy young subjects. The decline in IFN-α secretion was associated with a reduced proportion of pDC that expressed Toll-like receptor–7 or Toll-like receptor-9. In contrast, there was little difference in the numbers and cytokine secretion function between healthy young and healthy elderly subjects (p = 0.82). However, in peripheral blood from frail elderly subjects, the numbers of mDC were severely depleted as compared with either healthy young or elderly subjects (p = 0.014 and 0.007, respectively). Thus, aging was associated with the numerical and functional decline in pDC, but not mDC, in healthy young versus elderly subject group comparisons, while declining health in the elderly can profoundly impact mDC negatively. Because of the importance of pDC for antiviral responses, the age-related changes in pDC likely contribute to the impaired immune response to viral infections in elderly persons, especially when combined with the mDC dysfunction occurring in those with compromised health.
+
+    / Oct, 2009 - Human Immunology
+    let !a self assert =
+
+
+
+  # Tag - Old Age
+  // Impaired Interferon Signaling in Dendritic Cells From Older Donors Infected In Vitro With West Nile Virus
+  doi: https://doi.org/10.1093/infdis/jir048
+  ref 'Qian_et_al_2011
+    head = Monocytes from older individuals produce less interferon in response to viral infection.
+
+    >>> Abstract
+      West Nile virus (WNV), a mosquito-borne, single-stranded RNA flavivirus, causes significant human morbidity and mortality in the older population; thus, we investigated the effects of aging on infection with WNV in dendritic cells (DCs). We infected DCs with WNV in vitro and quantified cytokines and chemokines (type I IFN and CXCL10), pathogen recognition receptors RIG-I, and Toll-like receptors 3 and 7. The production of type I IFN was significantly lower in DCs from older donors, compared with younger donors. Although we observed no significant age-related difference in expression or nuclear translocation of signaling molecules in initial antiviral responses, DCs from older donors have diminished induction of late-phase responses (eg, STAT1, IRF7, and IRF1), suggesting defective regulation of type I IFN. Our results identify deficits in critical regulatory pathways in the antiviral response that may contribute to the enhanced susceptibility to viral infections observed in aging.
+
+    / May, 2011 - The Journal of Infectious Diseases,
+    let !a self assert =
+
+
+  # Tag - Old age
+  // Case-Fatality Rate and Characteristics of Patients Dying in Relation to COVID-19 in Italy
+  doi: https://doi.org/doi:10.1001/jama.2020.4683
+  ref 'Onder_et_al_2020
+    head = . COVID-19 is more lethal in older patients, so the older age distribution in Italy may explain, in part, Italy’s higher case-fatality rate compared with that of other countries.
+
+    -- exports
+      !a
+
+    / March, 2020 - JAMA
+    let !a self assert = The overall case-fatality rate in Italy (7.2%) is substantially higher than in China (2.3%). When data were stratified by age group, the case-fatality rate in Italy and China appear very similar for age groups 0 to 69 years, but rates are higher in Italy among individuals aged 70 years or older, and in particular among those aged 80 years or older.
+
+    / March, 2020 - JAMA
+    let !b self assert = The distribution of cases is very different in the 2 countries: individuals aged 70 years or older represent 37.6% of cases in Italy and only 11.9% in China. In addition, a relevant number of cases in Italy are in people aged 90 years or older (n = 687), and this age group has a very high fatality rate (22.7%); data on cases in those aged 90 years or older were not reported in China.
+
+  # Tag - Old age
+  // Estimates of the severity of coronavirus disease 2019: a model-based analysis
+  doi: https://doi.org/10.1016/S1473-3099(20)30243-7
+  ref 'Verity_et_al_2020
+    head = Using data on 24 deaths that occurred in mainland China and 165 recoveries outside of China, we estimated the mean duration from onset of symptoms to death to be 17·8 days  and to hospital discharge to be 24·7 days
+
+    -- exports
+      !a
+      !b
+
+    / March, 2020 - ScienceDirect
+    let !a self assert =  A best estimate of the case fatality ratio in China of 1·38% with substantially higher ratios in older age groups (0·32% [0·27–0·38] in those aged <60 years vs 6·4% [5·7–7·2] in those aged ≥60 years), up to 13·4% (11·2–15·9) in those aged 80 years or older.
+
+    / March, 2020 - ScienceDirect
+    let !b self assert =  Our estimated overall infection fatality ratio for China was 0·66% (0·39–1·33), with an increasing profile with age. Similarly, estimates of the proportion of infected individuals likely to be hospitalised increased with age up to a maximum of 18·4% (11·0–37·6) in those aged 80 years or older.
+
+  # Tag - Old age
+  // Similarity in Case Fatality Rates (CFR) of COVID-19/SARS-COV-2 in Italy and China
+  doi: https://doi.org/10.3855/jidc.12600
+  ref 'Porcheddu_et_al_2020
+    head = It will be important to develop point-of-care devices to aid clinicians in stratifying elderly patients as early as possible to determine the potential level of care they will require to improve their chances of survival from COVID-19 disease.
+
+    >>> Abstract
+      As of 28 February 2020, Italy had 888 cases of SARS-CoV-2 infections, with most cases in Northern Italy in the Lombardia and Veneto regions. Travel-related cases were the main source of COVID-19 cases during the early stages of the current epidemic in Italy. The month of February, however, has been dominated by two large clusters of outbreaks in Northern Italy, south of Milan, with mainly local transmission the source of infections. Contact tracing has failed to identify patient zero in one of the outbreaks. As of 28 February 2020, twenty-one cases of COVID-19 have died. Comparison between case fatality rates in China and Italy are identical at 2.3. Additionally, deaths are similar in both countries with fatalities in mostly the elderly with known comorbidities. It will be important to develop point-of-care devices to aid clinicians in stratifying elderly patients as early as possible to determine the potential level of care they will require to improve their chances of survival from COVID-19 disease.
+
+
+    / Feb, 2020 - The Journal of infection in developing countries
+    let !a self assert =
+
+
+  # Tag - Temperature, Weather Transmission
+  // Temperature dependence of COVID-19 transmission
+  doi: https://doi.org/10.1101/2020.03.26.20044529
+  ref 'Notari_et_al_2020
+    head = Our findings give hope that, for northern hemisphere countries, the growth rate should significantly decrease as a result of both warmer weather and lockdown policies. In general the propagation should be hopefully stopped by strong lockdown, testing and tracking policies, before the arrival of the next cold season.
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / April, 2020 - medRxiv
+    let !a self assert = For base dataset (42 countries) we have shown that the growth rate of the transmission of the COVID-19 has a decreasing trend, as a function of T, at 99.66% C.L. (p-value 0.0034). In this fit R2 = 0.196. In addition, using a quadratic fit, we have shown that a peak of maximal transmission seems to be present in this dataset at around (7.7 ± 3.6)◦C.
+
+    / April, 2020 - medRxiv
+    let !b self assert = For the extended dataset (all 88 countries) we also found a decreasing slope β. This is smaller in absolute value, but the significance remains high, since a zero slope is excluded at 99.86% C.L. (p-value 0.0014). For this fit we found R2 = 0.11.
+
+    / April, 2020 - medRxiv
+    let !c self assert = The decrease at high temperatures is expected, since the same happens also for other coronaviruses. It is unclear instead how to interpret the decrease at low temperature (less than 8◦C),present in the base dataset. This could be a statistical fluctuation, since it is not present in the extended dataset. One possible reason for this decrease, if real, could be the lower degree of interaction among people in countries with very low temperatures, which could slow down the propagation of the virus.
+
+    / April, 2020 - medRxiv
+    let !d self assert = A general observation is also that a large scatter in the residual data is present, clearly due to many other systematic factors, such as variations in the methods and resources used for collecting data and variations in the amount of social interactions, due to cultural reasons. It is also possible that variations in resources bias the testing procedure (i.e. poorer countries have less intense testing), which might be partially degenerate with effects of temperature. Further study would be required to assess such factors
+
+
+
+
+  # Symptom Smell, Loss of smell, hyposmia
+  // Sudden hyposmia as a prevalent symptom of COVID-19 infection.
+  doi: https://doi.org/10.1101/2020.04.06.20045393
+  ref 'Ragona_et_al_2020
+    head = We report on six Italian patients with COVID-19 who presented sudden hyposmia as the only or most prominent disease manifestation, without upper or lower respiratory tract involvement or other major features of the disease. A supra-threshold olfaction test confirmed the hyposmia in all patients.
+
+    -- exports
+      !a
+
+    / April, 2020 - medRxiv
+    let !a self assert = None of the patients reported acute, chronic or seasonal upper airway disease before infection, in one case a four-day fever was present after the onset of hyposmia; two patients reported myalgia the day before the onset of hyposmia and a mild dry cough after the hyposmia
+
+
+  # Tag - Covalent Plasma Limitations
+  // Practical limitations of convalescent plasma collection: a case scenario in pandemic preparation for influenza A (H1N1) infection.
+  doi: https://doi.org/10.1111/j.1537-2995.2010.02651.x
+  ref 'Wong_et_al_2010
+    head = The study highlighted a number of practical limitations in convalescent plasma collection programs and plasmapheresis is always the preferred mode of collection. It provided valuable learning experience for the blood transfusion service in future planning when large-scale collection is required.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !g
+      !h
+
+
+    / March, 2020 - cold spring harbor laboratory
+    let !a self assert = First, not all persons on the list could be reached by phone at their initial contact. Some of them did not answer phone calls (e.g., at work or engaged in other activities), some refused immediately upon invitation, some were not in Hong Kong (e.g., students studying overseas), and some even had wrong phone numbers registered.
+
+    / March, 2020 - cold spring harbor laboratory
+    let !b self assert = Second, it was understandable that some were not willing to proceed at all. To them, they had been infected with influenza A, the need for convalescent plasma or H-IVIG was remote to them. Besides, perception or uncertainty about potential pain and discomfort and concern about poor recovery after donation were also common reasons for declination.
+
+    / March, 2020 - cold spring harbor laboratory
+    let !c self assert = Therefore, it was not surprising that the overall response rate to telerecruitment was only 21.2%. Even if the screening appointment had been made, 40.0% did not turn up. Therefore, further publicity was made to focus on the donation aspect to ensure those eligible after screening would come back to donate.
+
+    / March, 2020 - cold spring harbor laboratory
+    let !d self assert = In this study as much as 291 of 784 potential donors (37.1%) were screened out because of failure in health history screening, unfavorable vein size, inadequate Hb level and PLT count for plasma donation, failed laboratory screening for infectious diseases, and insufficient neutralizing antibody titers.
+
+    / March, 2020 - cold spring harbor laboratory
+    let !e self assert = Finally, time constraint from collection to fractionation and production put on another bottleneck here. It was inevitable that ample time was spent in recruiting, allowing recovered patients to be screened and squeezingtheir extra time to come back for plasma donation. The latter was particularly obvious. It has been reported that employees in Hong Kong used to have long working hours with 51.7% working late into the evenings.
+
+    / March, 2020 - cold spring harbor laboratory
+    let !f self assert = For those who opted for whole blood donation, 379 (61.2%) had attended and donated. However, since neutralizing antibody titer was not performed before, 6.9% of the donations were found to have insufficient antibodies.
+
+    / March, 2020 - cold spring harbor laboratory
+    let !g self assert = Moreover, those who opted for whole blood donation could only donate once during the study period because minimal donation interval after whole blood collection had already exceeded the study completion day.
+
+    / March, 2020 - cold spring harbor laboratory
+    let !h self assert = In the scenario where large-scale convalescent plasma collection was required within a short time and the public response was immense, more apheresis machines and trained operators must be mobilized to support. One should also bear in mind that the requirement of routine blood donation service to support hospitals’ need for clinical transfusion should be taken into account where apheresis machines were required  to collect PLTs for clinical need.
+
+
+  # Tag - Covalent Plasma (Counter paper as it states the side effect - HIV can happen if you do Covalent in COVID)
+  // Convalescent plasma: new evidence for an old therapeutic tool?
+  doi: http://doi.org/10.2450/2015.0131-15
+  ref 'Marano_et_al_2016
+    head = Convalescent blood products could be a valid option in the treatment/prophylaxis of several infectious diseases both in association with other drugs/preventive measures and as the only therapy when a specific treatment is not available. However, there are still some issues to consider in determining the advisability of implementing a large-scale convalescent plasma transfusion programme.
+
+    -- exports
+      !a
+
+    / March, 2016 - Blood Transfus
+    let !a self assert = Although many studies have reported the efficacy and safety of CP infusion in the treatment of various infections (especially those caused by viruses), due to the lack of large-scale, randomised, well-designed clinical trials, we tend to consider CP an “empirical” therapy. Since most of the studies conducted so far are case series, they can only provide us with low-quality scientific evidence that may or may not be representative of the target populations.
+
+    / March, 2016 - Blood Transfus
+    let !b self assert =  In endemic areas, the risk of other transfusion-transmitted infections (e.g. human immunodeficiency virus, hepatitis B virus, hepatitis C virus and syphilis) cannot be excluded and pathogen reduction technologies should play a key role in guaranteeing safe CP transfusion
+
+    / March, 2016 - Blood Transfus
+    let !c self assert = It is important to ensure that the production and use of CBP take place according to precise ethical and controlled conditions and clinical trials are completed to produce the evidence base for a possible role of these products of human origin in preparedness plans for future outbreaks of emergent or re-emergent pathogens.
+
+
+  # Tag - Plasma therapy
+  // The Effectiveness of Convalescent Plasma and Hyperimmune Immunoglobulin for the Treatment of Severe Acute Respiratory Infections of Viral Etiology: A Systematic Review and Exploratory Meta-analysis
+  doi: https://doi.org/10.1093/infdis/jiu396
+  ref 'Jenkins_et_al_2015
+    head = Our analyses suggest that convalescent plasma may have a clinically relevant impact in reducing the rate of mortality and viral load in patients with SARI of viral etiology, with larger treatment effects if it commenced early after symptom onset.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+
+    / Jan, 2015 - The Journal of Infectious Diseases
+    let !a self assert = The post hoc meta-analysis evaluated pooled data from 8 comparative studies: 2 studies of SARS-CoV infection [32, 46], 2 of influenza A(H1N1)pdm09 infection [30, 48], 1 of avian influenza A(H5N1) infection [36], and 3 of Spanish influenza A(H1N1) infection [33, 38, 47]. There was a statistically significant 75% reduction in the odds of mortality in the group treated with convalescent plasma or serum (pooled OR, 0.25; 95% CI, .14 to .45; P < .001; I2 = 0%)
+
+    / Jan, 2015 - The Journal of Infectious Diseases
+    let !b self assert = Peaks in SARS-CoV antibody levels occurred 3–5 days following receipt of a single dose of convalescent plasma in 3 healthcare workers (Table 3) [8]. However, it is likely that other treatments, such as intravenous immunoglobulin, ribavirin and steroids, may have influenced the relationship between plasma and antibody levels. A case report of a patient with avian influenza A(H5N1) infection also found that virus-specific antibodies appeared 7–16 days following administration of convalescent plasma
+
+    / Jan, 2015 - The Journal of Infectious Diseases
+    let !c self assert = The SARS-CoV load in the respiratory tract decreased at a higher rate in patients who received convalescent plasma in a subgroup analysis of 44 patients with influenza A(H1N1)pdm09 infection in a prospective cohort study (Table 3); [48] viral loads were significantly lower 3, 5, and 7 days after intensive care unit admission. However, there was a high risk of selection bias for this outcome, and concomitant treatments, including oseltamivir, zanamivir, and corticosteroids, may have confounded the results
+
+    / Jan, 2015 - The Journal of Infectious Diseases
+    let !d self assert = Further studies reported that viral load became rapidly undetectable in the blood of 3 patients with SARS-CoV infection [8] and in respiratory tract specimens from a patient infected with influenza A(H1N1)pdm09 [24] after treatment. Similar decreases in viral loads in serum and respiratory tract specimens were observed in 3 cases of avian influenza A(H5N1) infection, with virus becoming undetectable 2–3 days after initiation of convalescent plasma treatment for 2 cases and 7–16 days after treatment initiation for the third case
+
+    / Jan, 2015 - The Journal of Infectious Diseases
+    let !e self assert = We found no evidence of serious adverse events or complications due to therapy and limited evidence of a reduction in the use of critical care resources and the length of hospital stay.
+
+    / Jan, 2015 - The Journal of Infectious Diseases
+    let !f self assert = Of interest is the evidence for a survival benefit after early administration. A recent multicenter, prospective, double-blind, randomized control trial compared the use of hyperimmune immunoglobulin (derived from influenza A(H1N1)pdm09 convalescent plasma) to intravenous immunoglobulin manufactured before the 2009 pandemic. For 22 patients from this study who received treatment within 5 days of symptom onset and were excluded per protocol, a multivariate subgroup analysis demonstrated that hyperimmune immunoglobulin had a protective effect (OR, 0.14; 95% CI, .02–.92).
+
+    / Jan, 2015 - The Journal of Infectious Diseases
+    let !g self assert = Evidence from studies of SARS-CoV infection and Spanish influenza A(H1N1) infection showed a survival benefit following convalescent plasma treatment within 14 days and 4 days of symptom onset, respectively. These findings suggest that early initiation of treatment may be of critical importance to reducing mortality in patients with SARI of viral etiology.
+
+  # Remdesivir
+  // Compassionate Use of Remdesivir for Patients with Severe Covid-19
+  doi: http://doi.org/10.1056/NEJMoa2007016
+  ref 'grein_et_al_2020
+    head = In this cohort of patients hospitalized for severe Covid-19 who were treated with compassionate-use remdesivir, clinical improvement was observed in 36 of 53 patients (68%). Measurement of efficacy will require ongoing randomized, placebo-controlled trials of remdesivir therapy. (Funded by Gilead Sciences.)
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / April, 2020 - NEJM
+    let !a self assert = Over a median follow-up of 18 days (interquartile range, 13 to 23) after receiving the first dose of remdesivir, 36 of 53 patients (68%) showed an improvement in the category of oxygen support, whereas 8 of 53 patients (15%) showed worsening
+
+    / April, 2020 - NEJM
+    let !b self assert = Improvement was observed in all 12 patients who were breathing ambient air or receiving low-flow supplemental oxygen and in 5 of 7 patients (71%) who were receiving noninvasive oxygen support (NIPPV or high-flow supplemental oxygen).
+
+    / April, 2020 - NEJM
+    let !c self assert = It is notable that 17 of 30 patients (57%) who were receiving invasive mechanical ventilation were extubated, and 3 of 4 patients (75%) receiving ECMO stopped receiving it; all were alive at last follow-up.
+
+    / April, 2020 - NEJM
+    let !d self assert = By 28 days of follow-up, the cumulative incidence of clinical improvement, as defined by either a decrease of 2 points or more on the six-point ordinal scale or live discharge, was 84% (95% confidence interval [CI], 70 to 99) by Kaplan–Meier analysis. Clinical improvement was less frequent among patients receiving invasive ventilation than among those receiving noninvasive ventilation (hazard ratio for improvement, 0.33; 95% CI, 0.16 to 0.68) and among patients 70 years of age or older (hazard ratio as compared with patients younger than 50 years, 0.29; 95% CI, 0.11 to 0.74).
+
+    / April, 2020 - NEJM
+    let !e self assert = Seven of the 53 patients (13%) died after the completion of remdesivir treatment, including 6 of 34 patients (18%) who were receiving invasive ventilation and 1 of 19 (5%) who were receiving noninvasive oxygen support.
+
+    / April, 2020 - NEJM
+    let !f self assert = No new safety signals were detected during short-term remdesivir therapy in this compassionate-use cohort. Nonclinical toxicology studies have shown renal abnormalities, but no clear evidence of nephrotoxicity due to remdesivir therapy was observed
+
+  # Tag - SARS-CoV-2 on Wastewater/Sewage .. Study from Poliovirus
+  // Feasibility of Quantitative Environmental Surveillance in Poliovirus Eradication Strategies
+  doi: https://doi.org/10.1128/AEM.07972-11
+  ref 'Lodder_et_al_2012
+    head = A total number of 228 healthy individuals with different levels of immunity were challenged with monovalent oral polio vaccine serotype 1 or 3. Almost half of the individuals (45%) shed poliovirus on day 3 after challenge, which peaked (57%) on day 8 with an average poliovirus excretion of 1.3 × 105 TCID50 per g of feces and gradually decreased to less than 5% on day 42.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+
+    / May, 2012 - American Society for Microbiology Journals
+    let !a self assert = Our study showed that environmental PV surveillance is a very sensitive tool. In the case of high vaccination coverage of 95% with 1% naturally immune and 4% seronegative individuals, assuming that 100 persons are infected with an average shedding of 200 g feces per day, our data indicate that with a population size of 37,000 and an average sewage volume per day of 2.18E7 liters, approximately 25 polioviruses could be detected in 1 liter of sewage.Due to the ability to detect these numbers of polioviruses in sewage, this scenario would lead to an informative environmental poliovirus surveillance system.
+
+    / May, 2012 - American Society for Microbiology Journals
+    let !b self assert = In second plausible scenario (in a Bible Belt community) with a vaccination coverage of 60%, 8% naturally immune individuals, and 32% seronegative individuals, when 100 individuals are infected, approximately 750 polioviruses could be detected in 1 liter of sewage.
+
+    / May, 2012 - American Society for Microbiology Journals
+    let !c self assert = These scenarios show that even at a very high vaccination coverage, environmental poliovirus surveillance is able to detect 100 poliovirus-infected individuals, either symptomatic orasymptomatic, in a population of several tens of thousands of uninfected individuals if sampling is done regularly in strategic locations Theoretically, based on our data, it would even be possible to detect polioviruses shed by, for instance, one individual, if he or she were seronegative.
+
+    / May, 2012 - American Society for Microbiology Journals
+    let !d self assert = However, these scenarios were based on the data derived from this specific smaller-sized study population. In the case of a larger study population and/or a wider studyarea, the sensitivity of environmental surveillance may drop below the detection limit due to excessive dilution. When a high dilution effect is suspected, a possible solution is to sample multiple sites in the sewerage to monitor smaller population sizes per sample but with coverage of the whole targeted population.
+
+    / May, 2012 - American Society for Microbiology Journals
+    let !e self assert = We observed one virus peak in feces and two (possibly three) peaks in sewage for poliovirus type 1, 3, or both. The secondary peak in sewage on day 22 may indicate secondary transmission in the exposed population, although rules of hygiene were given to prevent the household spread of OPV. This again shows the usefulness of environmental surveillance in addition to other types of poliovirus surveillance
+
+    / May, 2012 - American Society for Microbiology Journals
+    let !f self assert = The issue of whether poliovirus levels indicate the level of poliovirus circulation in the population is multifactorial. At which phase of infection did an individual’s poliovirus enter the sewage? What was the specific immune status of the individual? What was the general immune status of the exposed individual? It is difficult to evaluate the sensitivity of environmental surveillance in the case of wild-type poliovirus outbreaks
+
+    / May, 2012 - American Society for Microbiology Journals
+    let !g self assert = We have established that in our elderly study population, the variation in the number of virus particles shed by the individual was highly dependent on the presence or absence of a memory response.
+
+
+
+  # Tag - SARS-CoV-2 on Wastewater/Sewage
+  // Presence of SARS-Coronavirus-2 in sewage
+  doi: https://doi.org/10.1101/2020.03.29.20045880
+  ref 'Medeema_et_al_2020
+    head = This is the first report of detection of SARS-CoV-2 in sewage.  The detection of fragments of two genes of SARS-CoV-2 in sewage of multiple WWTP and the temporal pattern of detection that aligns with the emergence of the epidemic in the Netherlands provide compelling evidence that SARS-CoV-2 is detected in sewage.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+
+    / March, 2020 - medRxiv
+    let !a self assert =  The results of the samples of February 6, 2020, three weeks before the first case was reported in The Netherlands on Feb 27, showed no positive signals for primer sets N1-3 and E
+
+    / March, 2020 - medRxiv
+    let !b self assert = The samples of March 4 and 5, one week into the epidemic with 38 and 82 COVID-19 cases reported through the health surveillance system, respectively19, showed a positive signal for the N1 primer/probe set in sewage samples of four of the 6 WWTP sampled.
+
+    / March, 2020 - medRxiv
+    let !c self assert = In sewage samples of March 15 and 16, 6 of the 7 WWTP showed a positive signal with N1, and in addition 5 WWTP also with N3 and 4 WWTP with the E primer/probe set.
+
+    / March, 2020 - medRxiv
+    let !d self assert = High throughput electrophoresis confirmed that the length of the PCR products match the length of the PCR target gene fragments. N1 appears to be the most sensitive primer/probe set of the sets tested here, followed by N3 and E for detection of SARS-CoV-2 in sewage. For clinical samples, the US FDA reported the sensitivity of the primer/probe sets of N1=N3>N2 on SARS-CoV-2 RNA,20 which partially matches with our results in sewage samples.
+
+    / March, 2020 - medRxiv
+    let !e self assert = Looking for a RT-qPCR signal between 40 and 45 cycles showed signal in the March 16 samples also for the N2 primer/probe set, in the same six WWTP as set N1 was positive. In addition WWTP Apeldoorn yielded an increased signal of set N1 and E on March 16. Resampling these sites if the prevalence of COVID-19 increases in the catchment area of these WWTP will show if the signal with N2 and the other sets increase further.
+
+    / March, 2020 - medRxiv
+    let !f self assert = Although SARS-CoV-2 is found with RT-PCR in a significant proportion of stool samples 5-10, only two studies reported culture of infectious virus from stool.11,21 Therefore, sewage does not seem to be a transmission pathway of significance for SARS-CoV-2.
+
+    / March, 2020 - medRxiv
+    let !g self assert = The detection of the virus in sewage, even when the COVID-19 incidence is low, indicates that sewage surveillance could be a sensitive tool to monitor the circulation of the virus in the population and as early warning tool for increased circulation in the coming winter or unaffected populations .
+
+  # Tag - SARS-CoV-2 on Wastewater
+  // SARS-CoV-2 in wastewater: potential health risk, but also data source
+  doi: https://doi.org/10.1016/S2468-1253(20)30087-X
+  ref 'Lodder_et_al_2020
+    head = Since the first publications reporting the detection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in faeces, it became clear that human wastewater might contain the novel coronavirus. Our findings indicate that wastewater could be a sensitive surveillance system and early warning tool, as was previously shown for poliovirus.To our knowledge, this detection in the Netherlands is the first report of SARS-CoV-2 in wastewater.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+
+    / April, 2020 - Elsevier
+    let !a self assert = From Feb 17, 2020, onwards, we took 24-h 10 L samples once a week from human wastewater collected at Amsterdam Airport Schiphol (Haarlemmermeer, Netherlands) for virus analyses. Samples tested positive for virus RNA by quantitative RT-PCR methodology 4 days after the first cases of coronavirus disease 2019 (COVID-19) were identified in the Netherlands on Feb 27, 2020 (unpublished data). This could be explained by virus excretion from potentially symptomatic, asymptomatic, or presymptomatic individuals passing through the airport.
+
+    / April, 2020 - Elsevier
+    let !b self assert = Human wastewater sampled near the first Dutch cases in Tilburg, Netherlands, also tested positive for the presence of viral RNA within a week of the first day of disease onset (unpublished data)
+
+    / April, 2020 - Elsevier
+    let !c self assert = Enteric transmission of SARS-CoV-2 is possible and exposure to SARS-CoV-2 in wastewater could pose a health risk. But environmental surveillance of SARS-CoV-2 could serve as a data source, indicating if the virus is circulating in the human population. Previously, this tool has been successfully applied for preclinical identification of Aichi virus.
+
+    / April, 2020 - Elsevier
+    let !d self assert = The possibility of faecal–oral transmission of COVID-19 has implications, especially in areas with poor sanitation where diagnostic capacity might be limited, such as Africa. Wastewater surveillance, especially in areas with a scarcity of data, might be informative, as we have previously shown in monitoring antibiotic resistance on a global scale.
+
+
+  # Tag - Air pollution / Preventive measure
+  // Exposure to air pollution and COVID-19 mortality in the United States
+  doi: https://doi.org/10.1101/2020.04.05.20054502
+  ref 'Wu_et_al_2020c
+    head = Long-term average exposure to air pollution (fine particulate matter-PM2.5) increases vulnerability to experiencing the most severe Covid-19 outcomes.These findings align with the known relationship between PM2.5 exposure and many of the cardiovascular and respiratory comorbidities that dramatically increase the risk of death in COVID-19 patients.
+
+    -- exports
+      !a
+      !b
+      !c
+
+
+    / April, 2020 - medRxiv
+    let !a self assert = We found statistically significant evidence that an increase of 1 g/m3 in long-term PM2.5 exposure is associated with a 15% increase in the COVID-19 mortality rate.
+
+    / April, 2020 - medRxiv
+    let !b self assert = A small increase in long-term exposure to PM2.5 leads to a large increase in COVID-19 death rate, with the magnitude of increase 20 times that observed for PM2.5 and all-cause mortality.
+
+    / April, 2020 - medRxiv
+    let !c self assert = They are also consistent with findings that air pollution exposure dramatically increased the risk of death during the Severe Acute Respiratory Syndrome (SARS) outbreak in 2003, which is caused by another type of coronavirus.
+
+
+  # Tag - Blood coagulation, Diagnosis, Treatment
+  // Prevalence of venous thromboembolism in patients with severe novel coronavirus pneumonia
+  doi: https://doi.org/10.1101/2020.03.17.20037713
+  ref 'Cui_et_al_2020
+    head = The incidence of VTE in patients with severe NCP is 25% (20/81), which may be related to poor prognosis .The significant increase of D-dimer in severe NCP patients is a good index for identifying high-risk groups of VTE.
+
+    -- exports
+      !a
+
+    / April, 2020 - Journal of thrombosis and haemostasis
+    let !a self assert =  A total of 20 (25%) patients with severe NCP developed lower extremity venous thrombosis, of which 8 patients died. The VTE group had older age (68.4±9.1 vs 57.1±14.3 years, P＜0.001), lower lymphocytes counts (0.8±0.4 vs 1.3±0.6  ×109/L, P＜0.001), longer APTT (39.9±6.4 vs 35.6±4.5 s, P=0.001), and higher D-dimer (5.2±3.0 vs 0.8±1.2 µg/mL, P＜0.001). Moreover, the D-dimer of the two groups was not within the normal range.
+
+    / April, 2020 - Journal of thrombosis and haemostasis
+    let !b self assert = Severe SARS-CoV-2 infection in NCP patients can lead to sepsis, which can also lead to the release of inflammatory cytokines such as IL-6, IL-8, TNF-α, etc[8], similar to SARS and MERS[10, 11]. Inflammatory cytokines can promote the activation of blood coagulation in many ways, and then promote the occurrence of VTE[12-14]. Sepsis is also a common cause of disseminated intravascular coagulation (DIC)[15].And the incidence of DIC in dead NCP patients was 71.4%[3]. This suggested that abnormal blood coagulation and thrombosis were associated with poor prognosis in patients with NCP.
+
+    / April, 2020 - Journal of thrombosis and haemostasis
+    let !c self assert = D-dimer level is a sign of excessive coagulation activation and hyperfibrinolysis. Therefore, D-dimer is often used to detect active thrombus with high sensitivity but low specificity[16]. But, if 3.0 µg/mL was used as the cut-off value, the sensitivity, specificity and NPV were 76.9%, 94.9% and 92.5%, respectively. After receiving anticoagulant therapy, the level of D-dimer decreased gradually, which means that D-dimer can not only predict thrombosis but also monitor the effectiveness of anticoagulants.
+
+    / April, 2020 - Journal of thrombosis and haemostasis
+    let !d self assert = The decrease of lymphocytes was common in patients with NCP, especially in patients with VTE. Other studies have also observed that infection with SARS-CoV-2 leads to lymphocytopenia.
+
+    / April, 2020 - Journal of thrombosis and haemostasis
+    let !e self assert = In the analysis of lymphocyte subset, T cells were more susceptible to SARS-CoV-2, because T cell count was almost half of the lower reference limit, and the severe NCP patients were more likely to be hampered[8]. Moreover, abnormal expression of T cell associated mRNA can lead to VTE[9]. This meant that older patients with more underlying diseases were more likely to develop immune dysfunction and have a higher risk of VTE because of their poor immunity.
+
+  # Tag - antiviral, treatments, Niclosamide, SARS
+  // Inhibition of severe acute respiratory syndrome coronavirus replication by niclosamide.
+  doi: http://doi.org/10.1128/AAC.48.7.2693-2696.2004
+  ref 'Wu_et_al_2004
+    head = We showed that niclosamide, an existing antihelminthic drug, was able to inhibit replication of a newly discovered coronavirus, SARS-CoV and totally abolish viral antigen synthesis at a concentration of 1.56 μM, as revealed by immunoblot analysis. Thus, niclosamide represents a promising drug candidate for the effective treatment of SARS-CoV infection.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+
+    / July, 2004- Antimicrob Agents Chemotherapy
+    let !a self assert = Viral RNA was isolated from culture supernatants from SARS-CoV-infected Vero E6 cells and analyzed by RT-PCR. No specific PCR product of 368 bp could be detected in the medium of virus-infected cells (Vero E6 cells) when niclosamide was applied at concentrations of 3.12 μM or higher, whereas a faint band of the correct length was observed in the PCR-amplified product from the medium of cells treated with 1.56 μM niclosamide. Apparently, there was a dose-dependent reduction of virus yield in the supernatant of infected cells treated with niclosamide.
+
+    / July, 2004- Antimicrob Agents Chemotherapy
+    let !b self assert =  Vero E6 cells were treated with the various concentrations of niclosamide indicated, and an IFA was performed at 48 h postinfection. At concentrations of 3.12 μM and higher, niclosamide was able to completely inhibit viral antigen synthesis. Thus, the effective concentration of niclosamide that inhibited 50% of viral antigen synthesis was estimated to be within the range of 1 to 3 μM. The concentration of compound that reduced cell viability to 50%, used to determine the cellular toxicity of niclosamide, was approximately 250 μM after 48 h of drug treatment
+
+    / July, 2004- Antimicrob Agents Chemotherapy
+    let !c self assert = When niclosamide was added 3 h after cells were infected with SARS-CoV, it was still active in inhibiting SARS-CoV replication, indicating that niclosamide does not interfere with the virion's attachment to and entry into cells. Also, Niclosamide did not inhibit the protease activity of 3C-like protease
+
+    / July, 2004- Antimicrob Agents Chemotherapy
+    let !d self assert = Results from this study also warrant further investigation to examine the effects of niclosamide in SARS animal models or in human clinical trials to provide a proof of principle of whether niclosamide is capable of alleviating the serious sequelae caused by SARS-CoV infection.
+
+    / July, 2004- Antimicrob Agents Chemotherapy
+    let !e self assert = Since SARS-CoV is known to actively replicate in the intestinal tract, it is also important to evaluate whether niclosamide taken orally can inhibit viral replication and lower the viral load in the lumen of the intestine or in the stool. If viral replication in the intestine can be adequately inhibited by niclosamide, this drug might be considered for use in controlling the fecal-oral route that has been speculated to be one of the possible avenues of transmission. Given that profuse watery diarrhea is a common symptom and that SARS-CoV is shed in large quantities in the stools of SARS patients, niclosamide may therefore be appropriate for treatment.
+
+
+
+  # Tag - ACE2 , Treatments
+  // Soluble angiotensin-converting enzyme 2: a potential approach for coronavirus infection therapy?
+  doi: https://doi.org/10.1042/CS20200163
+  ref 'Batlle_et_al_2020
+    head =  This paper explains the connection between the SARS-CoV, SARS-CoV-2, ACE2 and the rationale for soluble ACE2 as a potential therapy.The potentially beneficial effect (or not) of soluble recombinant ACE2 proteins to attenuate coronavirus infection should be urgently tested
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+
+    / March, 2020 - Clinical Science
+    let !a self assert = The novel coronavirus is evolutionary related to Bat-SARS, which likewise uses membrane-bound ACE2 as the receptor [6]. The soluble form of ACE2 lacks the membrane anchor and circulates in small amounts in the blood [7]. We propose that this soluble form may act as a competitive interceptor of SARS-CoV and other coronaviruses by preventing binding of the viral particle to the surface-bound, full-length ACE2.
+
+    / March, 2020 - Clinical Science
+    let !b self assert = in vitro studies showed that SARS-CoV replication was blocked by a soluble form of ACE2 in the monkey kidney cell line, Vero-E6 [8,9]. Moreover, ACE2 fused to the Fc portion of immunoglobulin has just been reported to neutralize SARS-CoV-2 in vitro [10] and the SARS-CoV-2 binds ACE2 with higher affinity than SARS-CoV
+
+    / March, 2020 - Clinical Science
+    let !c self assert = In this context, provision of soluble recombinant human ACE2 protein could actually be beneficial as a novel biologic therapeutic to combat or limit infection progression caused by coronaviruses that utilize ACE2 as a receptor.
+
+    / March, 2020 - Clinical Science
+    let !d self assert = To our knowledge, studies in animals or humans testing the therapeutic potential of soluble recombinant ACE2 proteins are not yet available. The potentially beneficial effect (or not) of soluble recombinant ACE2 proteins to attenuate coronavirus infection should be urgently tested. Mouse models that carry the human version of ACE2 with the mouse version deleted should greatly facilitate research in this rapidly emerging field.
+
+
+
+  # Tag - Treatments, Population Risk, ACE2
+  // Human ACE2 receptor polymorphisms predict SARS-CoV-2 susceptibility
+  doi: https://doi.org/10.1101/2020.04.07.024752
+  ref 'Stawiski_et_al_2020
+    head = In this study, we have analyzed ACE2 protein-altering variants in a large cohort of human population groups and identified polymorphisms that either likely protect or render individuals more susceptible to the virus. Understanding these changes at the molecular level, combined with the genotype and epidemiological data will allow the elucidation of population risk profiles and also help advance therapeutics such as a rationally designed soluble ACE2 receptor for treatment of COVID-19.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+
+    / April, 2020 - bioRxiv
+    let !a self assert = In particular, human ACE2 variants K26R, S16P, T27A, K31R, H34R, E35K, E37K, D38V, N51S, N64K, K68E, F72V, T921, Q102P, G326E, G352V, D355N, H378R, Q388L, and D509Y are predicted to increase the susceptibility of the individuals carrying these variations
+
+    / April, 2020 - bioRxiv
+    let !b self assert = The T921I ACE2 variant is part of the consensus NxS/T N-glycosylation motif and is predicted to abolish glycosylation of the conserved N90 residue. Our structural investigation suggests that this mutation will favor improved viral S-protein binding
+
+    / April, 2020 - bioRxiv
+    let !c self assert = A previous study showed that the ACE2 N90 renders human cells resistant to Civet CoV (Li et al., 2005b). Recently, N90 and T92 ACE2 mutations were enriched in a screen for CoV-2 S-protein binding (Procko, 2020). Taken together, these observations suggest that N90 and T92 are critical ACE2 residues that confer protection and are CoV host modifiers.
+
+    / April, 2020 - bioRxiv
+    let !d self assert = We also found variants K31R, E35K, E37K, D38V, N33I, H34R, Q388L and Y83H in ACE2 that are predicted to show decreased binding to SARS-CoV-2 S-protein and thus protect individuals corresponding to these genotypes.
+
+    / April, 2020 - bioRxiv
+    let !e self assert = We find the ACE2 population variants, that either increase or decrease susceptibility, to be rare, which is consistent with the overall low population ACE2 receptor polymorphisms (mean Fst 0.0167).(consistent with the lack of selection pressure given the recent history of SARS-CoV epidemics.)
+
+    / April, 2020 - bioRxiv
+    let !f self assert = Also, we did not observe significant differences in ACE2 variant allele frequency among population groups. The variant alleles also did not show discernable gender distribution differences, even though ACE is a X-linked gene.
+
+    / April, 2020 - bioRxiv
+    let !g self assert = The expression levels of ACE2 and its variants in appropriate host tissue may modulate the deleterious effect of the virus. To further understand the importance of the ACE2 variants in susceptibility, it will be important to correlate clinical outcomes with ACE2 genotypes at population scale.The extremes in COVID-19 clinical symptoms reported ranging from asymptomatic infected adult individuals to those that show acute respiratory syndrome leading to death, suggest a role for additional factors, including the role of innate and adaptive immunity, besides ACE2 variants in modifying disease outcomes.
+
+
+
+  # Tag - Pneumonia, treatment
+  // Difference of coagulation features between severe pneumonia induced by SARS-CoV2 and non-SARS-CoV2
+  doi:  https://doi.org/10.1007/s11239-020-02105-8
+  ref 'Yin_et_al_2020
+    head = Patients with severe pneumonia induced by SARS-CoV2 had higher platelet count than those induced by non-SARS-CoV2, and only the former with markedly elevated D-dimer may beneft from anticoagulant therapy mainly with LMWH. Further prospective studies are needed to confrm these results
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+
+    / April, 2020 - Journal of Thrombosis and Thrombolysis
+    let !a self assert = The 28-day mortality in COVID group was approximately twofold of mortality in non-COVID group (29.8% vs. 15.4%, P = 0.003), and COVID group were older (65.1±12.0 vs. 58.4±18.0, years, P<0.001) and with higher platelet count (215±100 vs 188±98, ×109 /L, P=0.015), comparing to non-COVID group.
+
+    / April, 2020 - Journal of Thrombosis and Thrombolysis
+    let !b self assert = The association between heparin treatment and outcome in stratifed patients according to D-dimer result were evaluated. When D-dimer exceeding 3.0 μg/mL (sixfold of upper limit of normal, 6 ULN), signifcantly lower mortality in heparin users than nonusers was found in COVID group (32.8% vs. 52.4%, P=0.017). However, no diference on mortality between heparin users than nonusers has been found in non-COVID group when being stratifed by D-dimer
+
+    / April, 2020 - Journal of Thrombosis and Thrombolysis
+    let !c self assert = In this study, platelet count of COVID group was signifcantly higher than that of non-COVID group, perhaps due to the reactively increased thrombopoietin following pulmonary infammation [12], this might mean more severe infammation reaction and hypercoagulability in COVID group, and platelet count may not be a sensitive marker for coagulopathy of COVID-19.
+
+    / April, 2020 - Journal of Thrombosis and Thrombolysis
+    let !d self assert = Our study also suggests that anticoagulant may not beneft to the unselected patients whether in COVID or non-COVID group. Although it has been confrmed that markedly elevated D-dimer was associated with poor prognosis in severe pneumonia, only COVID group with elevated D-dimer (>6 ULN) could beneft from heparin treatment in our study, this might due to the more obvious hypercoagulability in COVID group, and heterogeneity of coagulation status induced by various pathogens in non-COVID group.
+
+
+  # Tag - ACE 2, Treatments
+  // Substituting Angiotensin-(1-7) to Prevent Lung Damage in SARSCoV2 Infection?
+  doi: http://doi.org/10.1161/CIRCULATIONAHA.120.047297
+  ref 'Peiró_et_al_2020
+    head = This paper would like to suggest that during viral infection increasing the Ang-(1-7) concentration might be vital for protecting from endothelial cell activation and lung damage. The use of Ang-(1-7) or one of its mimetics should be considered among other strategies to prevent damage in high risk patients.
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / April, 2020 - American Heart Association, Inc.
+    let !a self assert = Ang-(1-7) seems to be critical in protecting against lung inflammation and fibrosis. This heptapeptide inhibits alveolar cell apoptosis, attenuates endothelial cell activation and the loss of barrier function and oedema, and limits the synthesis of proinflammatory and pro-fibrotic cytokines. This is particularly relevant since both acute lung injury and acute respiratory distress syndrome (ARDS) are accompanied by a cytokine storm and an overwhelming inflammatory response2"
+
+    / April, 2020 - American Heart Association, Inc.
+    let !b self assert = The protective effect of ACE2 over-expression is better understood and has led to the contrasting hypothesis that using ARB might protect against viral induced lung injury. In a model of SARS-CoV infection, the blockade of AT1 receptors revealed itself effective in attenuating pulmonary oedema and severe lung injury"
+
+    / April, 2020 - American Heart Association, Inc.
+    let !c self assert = In addition to attenuating the binding of Ang II to its AT1 receptors, the beneficial actions of ARB may be explained by two possible mechanisms: 1) the restored ACE2, normally decreased during the viral infection, helps reducing the concentrations of Ang II3 and, 2) there is an increased generation of the protective Ang- (1-7).
+
+  # Tag - ACE 2, Treatments
+  // Effect of Renin-Angiotensin System Blockage in Patients with Acute Respiratory Distress Syndrome: A Retrospective Case Control Study
+  doi:  https://doi.org/10.4266/kjccm.2016.00976
+  ref 'Kim_et_al_2017
+    head = The role of ACE inhibitor in the lungs is not well understood. We therefore conducted this study to elucidate the effect of renin-angiotensin system (RAS) blockage on the prognosis of patients with ARDS.
+
+    >>> Results
+      A total of 182 patients were included in the study. Thirty-seven patients (20.3%) took ACE inhibitor or angiotensin receptor blocker (ARB) during ICU admission, and 145 (79.7%) did not; both groups showed similar severity scores. In the ICU, mortality was 45.9% in the RAS inhibitor group and 58.6% in the non-RAS inhibitor group (P = 0.166). The RAS inhibitor group required a longer duration of mechanical ventilation (29.5 vs. 19.5, P = 0.013) and longer ICU stay (32.1 vs. 20.2 days, P < 0.001). In survival analysis, the RAS inhibitor group showed better survival rates than the non-RAS group (P < 0.001).
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / May, 2017 - Korean Journal of Critical Care Medicine
+    let !a self assert = Clinical improvement in the late phase in regards to chest radiology and oxygenation, might reflect lower degrees in pulmonary sequelae including fibrosis in RAS inhibitor group.
+
+    / May, 2017 - Korean Journal of Critical Care Medicine
+    let !b self assert = An interesting finding was that the ACE inhibitor group showed greater ICU stay duration and length of mechanical ventilation (mean, 34.2 days) than non-ACE inhibitor group (mean, 29.4 days; P = 0.481).. Previous studies that conducted survival analysis suggested that surviving patients stayed longer in the ICU [31,40,41]. This could explain the differences between the two groups. Considering that no differences in ICU-free day or ventilator-free day, longer duration of ICU or mechanical ventilation could not be affirmed as poor clinical outcome.
+
+    / May, 2017 - Korean Journal of Critical Care Medicine
+    let !c self assert = More patients in the RAS inhibitor group were transferred to general wards, supported by portable bi-level positive airway pressure ventilators (18.9% vs. 5.5%, P = 0.008). Considering the similar results in terms of PaO2/FiO2 ratio and radiologic improvement on discharge, higher dependence on the bi-level positive airway pressure ventilator might be mainly caused by muscle weakness.
+
+    / May, 2017 - Korean Journal of Critical Care Medicine
+    let !d self assert = For the patients receiving ACE inhibitor/ARB, ICU mortality was 45.9% (17 of 37 patients), which was lower than the 58.9% mortality rate of patients without medication, though not significantly (P = 0.166) (Table 3). Inhospital mortality was also higher in the non-RAS inhibitor group and the day 28 mortality in non-RAS inhibitor group was almost twice as high without statistical significance (18.9% vs. 35.2%, P = 0.058). In the propensity score matched cohort, in hospital mortality at day 28 was also higher in non-RAS inhibitor group (29.4%) than RAS inhibitor group (8.8%, P = 0.031).
+
+    / May, 2017 - Korean Journal of Critical Care Medicine
+    let !e self assert = Among the patients who died, the duration of ICU stay was longer (P = 0.001) in the RAS inhibitor group than in the non-RAS inhibitor group, which might explain the lower 28-day mortality rates. Survival analysis showed significantly better survival rates in the RAS inhibitor group.
+
+    / May, 2017 - Korean Journal of Critical Care Medicine
+    let !f self assert = We adjusted confounding factors, including disease severity, using the propensity score, and found the same results as above. The likelihood of survival of patients with ARDS could be improved by the administration of RAS inhibitor
+
+  # Tag - ACE- 2 , Lung injury, Treatments
+  // Clinical and biochemical indexes from 2019-nCoV infected patients linked to viral loads and lung injury
+  doi: https://doi.org/10.1007/s11427-020-1643-8
+  ref 'Liu_et_al_2020d
+    head = Our results suggest a number of potential diagnosis biomarkers and angiotensin receptor blocker (ARB) drugs for potential repurposing treatment of 2019-nCoV infection.These data suggest that ARB drugs may be used as treatment for ICU patients infected with 2019-nCoV
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+
+
+    / Feb, 2020 - Science China Life Sciences
+    let !a self assert = We found that the viral load was crucial in determining the disease severity, especially strongly correlated with lung injury Murray score (Figure 3A). Notably, the viral load from case 4 was very high when fulminant myocarditis also occurred (Table 2 and Figure 3). This high viral load lasted for one week, indicating that the early detection of high viral load may be associated with a high risk of fulminant myocarditis
+
+    / Feb, 2020 - Science China Life Sciences
+    let !b self assert = Our study demonstrated that the combinations of the hypoalbuminemia, lymphopenia, and high concentrations of CRP and LDH in 2019-nCoV infected patients upon hospital admission may predict more severe acute lung injury.
+
+    / Feb, 2020 - Science China Life Sciences
+    let !c self assert = We discovered the markedly increased level of Angiotensin II in the plasma samples from 2019-nCoV infected patients. Our previous mice study has demonstrated that SARS-CoV could bind to its receptor ACE2, down-regulating its expressions, resulting in increased Angiotensin II level in mouse blood samples, signaling through angiotensin II receptor 1, and induced acute lung injury. We have also reported that avian influenza A virus H5N1 infected mice exhibited the acute lung injury through dysregulating RAS, and markedly elevation of Angiotensin II level in H7N9 infected patients was associated with the disease severity and outcomes.
+
+    / Feb, 2020 - Science China Life Sciences
+    let !d self assert = In addition, a retrospective cohort study in Texas, USA with hospitalized pneumonia patients reported that prior and inpatients use of ACE inhibitor and ARB were associated with the decreased mortality (Mortensen et al., 2012). Our previous studies demonstrated that ARB drugs, especially losartan, could effectively ameliorate mice acute lung injury induced by SARS-CoV and H5N1 influenza virus A.
+
+
+
+  # Tag- hypertension , ACE2, treatments
+  // Coronavirus Disease 2019 (COVID-19) Infection and Renin Angiotensin System Blockers
+  doi: http://doi.org/10.1001/jamacardio.2020.1282
+  ref 'Bavishi_et_al_2020
+    head = This paper outlines the mechanisms by which ACEIs/ARBs may be of benefit in those with COVID-19, what the current recommendations are for their use in infected patients, and suggested areas for further research.
+
+    -- exports
+      !a
+
+    / April, 2020 - JAMA Cardiology
+    let !a self assert = It is important to note that 2 forms of ACE2 exists: a structural transmembrane protein with extracellular domain that serves as a receptor for spike protein of SARS-CoV-2 and a soluble form that represents the circulating ACE2. Understanding the relationship between SARS-CoV-2 and membranous and soluble ACE2 may help us better understand the adaptive or maladaptive processes operative in COVID-19 infection
+
+    / April, 2020 - JAMA Cardiology
+    let !b self assert = A recent study by Liu et al5 showed that serum angiotensin II levels in patients with COVID-19 pneumonia was significantly higher compared with healthy individuals and were linearly associated with viral load and lung injury. Based on this, it can be postulated that SARS-CoV-2 binding to ACE2 may attenuate residual ACE2 activity, skewing the ACE/ACE2 balance to a state of heightened angiotensin II activity leading to pulmonary vasoconstriction and inflammatory and oxidative organ damage, which increases the risk for acute lung injury (ALI)
+
+    / April, 2020 - JAMA Cardiology
+    let !c self assert = Conceivably, renin angiotensin system modulation, either by ACEIs/ARBs or recombinant ACE2, leading to increased expression of ACE2 may help mitigate some of these deleterious effects of angiotensin II. It is also postulated that increased levels of soluble form of ACE2 may act as a competitive interceptor of SARS-CoV-2 and slow virus entry into the cells and protect from lung injury.
+
+    / April, 2020 - JAMA Cardiology
+    let !d self assert = In a meta-analysis of 37 studies,7 ACEIs and ARBs were associated with reduced risk of pneumonia and pneumonia-related mortality compared with control treatment. In a small double-blind, placebo-controlled randomized clinical trial of 61 patients,8 those randomized to receive enalaprilat (up to 10 mg intravenously over 24 hours following a regimen based on blood pressure) had numerically higher ventilator-free days (12.3 vs 8.7 days; P = .18) and days alive outside the intensive care unit (8.9 vs 4.9 days; P = .09) compared with those randomized to placebo. The trial did not complete its intended sample size owing to slow enrollment.
+
+    / April, 2020 - JAMA Cardiology
+    let !e self assert =  In a retrospective cohort study from Korea with 132 patients with ARDS,9 patients taking ACEIs/ARBs showed better survival compared with controls, albeit several confounding factors could have influenced the results
+
+    / April, 2020 - JAMA Cardiology
+    let !f self assert = What drives such intense hyperinflammation is not yet known; however, through upregulation of ACE2, ACEIs/ARBs can exert anti-inflammatory and antioxidative effects, which may be beneficial in preventing ALI and ARDS.10 Based on the pathophysiology of SARS-CoV-2 infection and pleiotropic effects of ACEIs/ARBs, these agents may have a potential role in the management of select patients with severe COVID-19.
+
+    / April, 2020 - JAMA Cardiology
+    let !g self assert = Further epidemiological studies and prospective trials are urgently needed to investigate if use of ACEIs/ARBs can reduce the incidence or mortality associated with COVID-19–associated ALI or ARDS, both in patients with and without additional clinical indications for ACEIs/ARBs.
+
+  # Tag- hypertension , ACE2, treatments
+  // Renin–Angiotensin–Aldosterone System Inhibitors in Patients with Covid-19
+  doi: http://doi.org/10.1056/NEJMsr2005760
+  ref 'Vaduganathan_et_al_2020
+    head = One or another of these drugs might be harmful or increase the risk of infection is only a hypothesis, and that there are other (equally plausible) hypotheses that this might not be the case or that some of them might actually beneficial. Abrupt withdrawal of RAAS inhibitors in high-risk patients, including those who have heart failure or have had myocardial infarction, may result in clinical instability and adverse health outcomes.Until further data are available, we think that RAAS inhibitors should be continued in patients in otherwise stable condition who are at risk for, being evaluated for, or with Covid-19.
+
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+      !j
+
+    / March, 2020 - The New England journal of Medicine
+    let !a self assert = These seemingly conflicting data indicate the complexity underlying RAAS responses to pathway modulators and reinforce the concept that findings from preclinical models may not readily translate to human physiology. Such data do suggest that effects on ACE2 should not be assumed to be uniform across RAAS inhibitors or even in response to therapies within a given drug class
+
+    / March, 2020 - The New England journal of Medicine
+    let !b self assert =  It is important to note that the plasma ACE2 level may not be a reliable indicator of the activity of the full-length membrane-bound form, in part because ACE2 is shed from the membrane, a process that appears to be separately regulated by an endogenous inhibitor.
+
+    / March, 2020 - The New England journal of Medicine
+    let !c self assert = data showing the effects of ACE inhibitors, ARBs, and other RAAS inhibitors on lung-specific expression of ACE2 in experimental animal models and in humans are lacking. Furthermore, even if RAAS inhibitors modify ACE2 levels or activity (or both) in target tissue beds, clinical data are lacking to indicate whether this would in turn facilitate greater engagement and entry of SARS-CoV-2 spike protein
+
+    / March, 2020 - The New England journal of Medicine
+    let !d self assert = It has been postulated but unproven that unabated angiotensin II activity may be in part responsible for organ injury in Covid-19
+
+    / March, 2020 - The New England journal of Medicine
+    let !e self assert = Dysregulated ACE2 may theoretically also attenuate cardioprotection in the context of myocardial involvement and abnormal pulmonary hemodynamics52,53 in Covid-19. Markers of myocardial injury have been shown to be elevated during the disease course of Covid-1954 and to increase rapidly with clinical deterioration and preceding death.
+
+    / March, 2020 - The New England journal of Medicine
+    let !f self assert =  Covid-19 is particularly severe in patients with underlying cardiovascular diseases,9 and in many of these patients, active myocardial injury, myocardial stress,and cardiomyopathy develop during the course of illness. RAAS inhibitors have established benefits in protecting the kidney and myocardium, and their withdrawal may risk clinical decompensation in high-risk patients.
+
+    / March, 2020 - The New England journal of Medicine
+    let !g self assert = In the Quinapril Heart Failure Trial, among patients with chronic symptomatic heart failure, withdrawal of quinapril resulted in a progressive decline in clinical status.61 In the TRED-HF trial, among asymptomatic patients with heart failure with recovered left ventricular ejection fraction, the phased withdrawal of medical therapy (including RAAS inhibitors) resulted in rapid relapse of dilated cardiomyopathy
+
+    / March, 2020 - The New England journal of Medicine
+    let !h self assert = In addition, RAAS inhibitors are a cornerstone of therapy after myocardial infarction: maintenance of therapy in the days to weeks after the index event has been shown to reduce early mortality.63 Among patients with unstable clinical status, myocardial injury associated with Covid-19 may pose even higher early risks after withdrawal of RAAS inhibitors.
+
+    / March, 2020 - The New England journal of Medicine
+    let !i self assert = Switching from a RAAS inhibitor to another antihypertensive therapy in a stable ambulatory patient may require careful follow-up to avoid rebound increases in blood pressure. In addition, selection of dose-equivalent antihypertensive therapies may be challenging in practice and may be patient-dependent. Even small and short-lived periods of blood pressure instability after a therapeutic change have been associated with excess cardiovascular risk.
+
+    / March, 2020 - The New England journal of Medicine
+    let !j self assert = So that’s the answer we have now: no one should be altering their blood pressure treatment regime based on coronavirus concerns, because we don’t know enough to say if that’s a good idea, and we do know enough to say that suddenly going off of these drugs or changing them up can be a bad one.
+
+
+  # Tag - cardiac diseases, hypertension, or diabetes, anti-inflammatory drug. Counter to next 4-5 papers - Vaduganathan_et_al_2020 , Bavishi_et_al_2020 , Liu_et_al_2020d, Kim_et_al_2017, Peiró_et_al_2020
+  // Are patients with hypertension and diabetes mellitus at increased risk for COVID-19 infection?
+  doi: https://doi.org/10.1016/S2213-2600(20)30116-8
+  ref 'FangFang_et_al_2020
+    head = We suggest that patients with cardiac diseases, hypertension, or diabetes, who are treated with ACE2- increasing drugs, are at higher risk for severe COVID-19 infection and, therefore, should be monitored for ACE2-modulating medications, such as ACE inhibitors or ARBs
+
+    -- exports
+      !a
+
+    / March, 2020 - The Lancet Respiratory medicine
+    let !a self assert = Based on a PubMed search on Feb 28, 2020, we did not find any evidence to suggest that antihypertensive calcium channel blockers increased ACE2 expression or activity, therefore these could be a suitable alternative treatment in these patients.
+
+  # Tag - Weather Influence
+  // Seasonality of Respiratory Viral Infections
+  doi: https://doi.org/10.1146/annurev-virology-012420-022445
+  ref 'Moriyama_et_al_2020
+    head =  We review evidence of how outdoor and indoor climates are linked to the seasonality of viral respiratory infections. We further discuss determinants of host response in the seasonality of respiratory viruses by highlighting recent studies in the field.
+
+    >>> Abstract
+      The seasonal cycle of respiratory viral diseases has been widely recognized for thousands of years, as annual epidemics of the common cold and influenza disease hit the human population like clockwork in the winter season in temperate regions. Moreover, epidemics caused by viruses such as severe acute respiratory syndrome coronavirus (SARS-CoV) and the newly emerging SARS-CoV-2 occur during the winter months. The mechanisms underlying the seasonal nature of respiratory viral infections have been examined and debated for many years. The two major contributing factors are the changes in environmental parameters and human behavior. Studies have revealed the effect of temperature and humidity on respiratory virus stability and transmission rates. More recent research highlights the importance of the environmental factors, especially temperature and humidity, in modulating host intrinsic, innate, and adaptive immune responses to viral infections in the respiratory tract. Here we review evidence of how outdoor and indoor climates are linked to the seasonality of viral respiratory infections. We further discuss determinants of host response in the seasonality of respiratory viruses by highlighting recent studies in the field.
+
+
+    / March, 2020 - Annual Review of Virology
+    let !a self assert =
+
+
+  # Tag - Weather Influence
+  // The role of absolute humidity on transmission rates of the COVID-19 outbreak
+  doi: https://doi.org/10.1101/2020.02.12.20022467
+  ref 'luo_et_al_2020
+    head = Changes in weather alone will not necessarily lead to declines in COVID-19 case counts without the implementation of extensive public health interventions.
+
+    >>> Abstract
+      A novel coronavirus (COVID-19) was identified in Wuhan, Hubei Province, China, in December 2019 and has caused over 40,000 cases worldwide to date. Previous studies have supported an epidemiological hypothesis that cold and dry (low absolute humidity) environments facilitate the survival and spread of droplet-mediated viral diseases, and warm and humid (high absolute humidity) environments see attenuated viral transmission (i.e., influenza). However, the role of absolute humidity in transmission of COVID-19 has not yet been established. Here, we examine province-level variability of the basic reproductive numbers of COVID-19 across China and find that changes in weather alone (i.e., increase of temperature and humidity as spring and summer months arrive in the North Hemisphere) will not necessarily lead to declines in COVID-19 case counts without the implementation of extensive public health interventions.
+
+    -- exports
+      !a
+
+    / Feb, 2020 - medRxiv
+    let !a self assert = Relationship, for instance, between absolute humidity and the SARS-CoV-2 (COVID-19) transmission rate across Chinese provinces.  Except for very low humidity, there is not much variation. (Fig 1)
+
+  # tag - Weather Influence
+  // Temperature significant change COVID-19 Transmission in 429 cities
+  doi: https://doi.org/10.1101/2020.02.22.20025791
+  ref 'want_et_at_2020
+    head = Temperature has significant impact on the transmission of COVID-19. There might be nonlinear dose-response relationship between the two, indicating that there is a best temperature contributing to its transmission and that low temperature is beneficial to the viral transmission.
+
+    -- exports
+      !a
+
+    / February, 2020 - medRxiv
+    let !a self assert = For SARS Cov, When the temperature increased to 38℃ and the relative humidity to 95%, the virus soon lost its activity.
+
+    / February, 2020 - medRxiv
+    let !b self assert = Another study found that, MERS could maintain its activity for a long time both as droplets on solid surface and as aerosol as long as in low-temperature, low-humidity environment
+
+
+  # Tag - Antibodies, How long Immunity Last
+  // Reinfection could not occur in SARS-CoV-2 infected rhesus macaques
+  doi: https://doi.org/10.1101/2020.02.19.20025452.
+  ref 'Bao_et_al_2020
+    head = From our current longitudinal study of monkeys, the reinfection could not occur if the monkeys produced the neutralizing antibody at an early stage after the primary infection.
+
+    >>> Abstract
+      Recently, it has been reported that discharged patients in China and elsewhere were testing positive after recovering. However, it remains unclear whether the convalescing patients have a risk of “relapse” or “reinfection”. The longitudinal tracking of re-exposure after the disappeared symptoms of the SARS-CoV-2-infected monkeys was performed in this study. We found that weight loss in some monkeys, viral replication mainly in nose, pharynx, lung and gut, as well as moderate interstitial pneumonia at 7 days post-infection (dpi) were clearly observed in rhesus monkeys after the primary infection. After the symptoms were alleviated and the specific antibody tested positively, the half of infected monkeys were rechallenged with the same dose of SARS-CoV-2 strain. Notably, neither viral loads in nasopharyngeal and anal swabs along timeline nor viral replication in all primary tissue compartments at 5 days post-reinfection (dpr) was found in re-exposed monkeys. Combined with the follow-up virologic, radiological and pathological findings, the monkeys with re-exposure showed no recurrence of COVID-19, similarly to the infected monkey without rechallenge. Taken together, our results indicated that the primary SARS-CoV-2 infection could protect from subsequent exposures, which have the reference of prognosis of the disease and vital implications for vaccine design.
+
+    -- exports
+      !a
+
+    # Claim that Re-infection of patient getting COVID again is false negative.
+    / March, 2020 - bioRxiv
+    let !a self assert = For the phenomenon on the discharged patients tested positively, it may be attributed to the "false negative" RT-PCR test results before their discharge or the patients without fully recovery albeit they met the discharge criteria.
+
+  # Tag - Antibodies, How long Immunity Last
+  //  Duration of Antibody Responses after Severe Acute Respiratory Syndrome
+  doi: https://doi.org/10.3201/eid1310.070576
+  ref 'Wu_et_al_2007
+    head = Among 176 patients who had had severe acute respiratory syndrome (SARS), SARS-specific antibodies were maintained for an average of 2 years, and significant reduction of immunoglobulin G–positive percentage and titers occurred in the third year. Thus, SARS patients might be susceptible to reinfection >3 years after initial exposure
+
+    -- exports
+      !a
+
+    / October, 2007 - Emerg Infect Dis
+    let !a self assert = The general trend of IgM peaking at ≈1 month after symptom onset and IgG peaking at 2–4 months was consistent among different studies.
+
+  # Tag - Antibodies, How long Immunity Last, Serology Testing
+  // Antibody Responses to SARS-CoV-2 in Patients of Novel Coronavirus Disease 2019
+  doi: http://dx.doi.org/10.2139/ssrn.3546052
+  ref 'Zhao_et_al_2020
+    head = Among 173 patients, the seroconversion rate for Ab, IgM and IgG was 93.1% (161/173), 82.7% (143/173) and 64.7% (112/173), respectively. The seroconversion sequentially appeared for Ab, IgM and then IgG, with a median time of 11, 12 and 14 days, respectively.
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / March, 2020 - Lancet
+    let !a self assert = The presence of antibodies was < 40% among patients in the first 7 days of illness, and then rapidly increased to 100.0%, 94.3% and 79.8% for Ab, IgM and IgG respectively since day 15 after onset.
+
+    # RNA Testing Accuracy = upto 70%... RNA + Antibody(Serology) testing together can give testing accuracy of 99%.
+    / March, 2020 - Lancet
+    let !b self assert =  The positive rate of RNA decreased from 66.7% (58/87) in samples collected before day 7 to 45.5% (25/55) during days 15 to 39.
+
+    / March, 2020 - Lancet
+    let !c self assert =  The seroconversion rate and the antibody levels increased rapidly during the first two weeks, the cumulative seropositive rate reached 50% on the 11th day and 100% on the 39th day.
+
 
   # Tag- BCG
   // Bacille Calmette-Guérin induces NOD2-dependent nonspecific protection from reinfection via epigenetic reprogramming of monocytes
@@ -1480,6 +2716,7 @@ feed Research
     / March, 2020 - The New England Journal of Medicine
     let !c self assert = It is important for clinicians to elicit a recent history of travel or exposure to sick contacts in any patient presenting for medical care with acute illness symptoms, in order to ensure appropriate identification and prompt isolation of patients who may be at risk for 2019-nCoV infection and to help reduce further transmission.
 
+  # Tag- Weather influence
   // Projecting the transmission dynamics of SARS-CoV-2 through the post-pandemic period
   doi: https://doi.org/10.1101/2020.03.04.20031112
   ref 'Kissler_et_al_2020
