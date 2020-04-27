@@ -114,7 +114,7 @@ feed Research
       'Liu_et_al_2020d
       'luo_et_al_2020
       'want_et_at_2020
-      'zheng_et_al_2020
+      'Zheng_et_al_2020
       'hui_et_al_2020
       'Watanabe_et_al_2020
       'Zhang_et_al_2020e
@@ -243,7 +243,7 @@ feed Research
       'Sanjuán_et_al_2010
 
     -- September, 2010
-      'christakis_et_al_2010
+      'Christakis_et_al_2010
       'Wong_et_al_2010
 
     -- June, 2010
@@ -304,6 +304,9 @@ feed Research
 
     -- exports
       !a
+      !b
+      !c
+      !d
 
     / April, 2020 - Circulation Research
     let !a self assert = The risk of 28-day all-cause mortality was significantly lower in ACEI/ARB group versus nonACEI/ARB group (3.7% [7/188] vs. 9.8% [92/940]; P = 0.01).
@@ -355,6 +358,9 @@ feed Research
 
     -- exports
       !a
+      !b
+      !c
+      !d
 
     / Aug, 2005 - JOURNAL OF GENERAL VIROLOGY
     let !a self assert = A SARS-CoV-S protein-bearing vesicular stomatitis virus (VSV) pseudotype using the VSVΔG* system was generated. Partial deletion of the SARS-CoV-S protein cytoplasmic domain allowed efficient incorporation into VSV particles and led to the generation of a pseudotype (VSV-SARS-St19) at high titre. The titre of VSV-SARS-St19 was 5·0×105 infectious units (IU) ml−1.
@@ -505,6 +511,12 @@ feed Research
 
     -- exports
       !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
 
     / April, 2020 - medRxiv
     let !a self assert = A comparative analysis of the quarantine strength function Q(t) learned by the neural network for different countries reveals that Wuhan had the highest magnitude and South Korea had the highest growth rate of Q(t). This can be attributed to the stringent government interventions and strict public health measures including immediate isolation and quarantine impositions in Wuhan and South Korea. This eventually resulted in the halting of infection spread and a corresponding Rt < 1 within a month for Wuhan (Figure 2c) and within 20 days for South Korea (figure 6c) after the first signs of a pandemic were recognized.
@@ -577,7 +589,7 @@ feed Research
       !g
       !h
       !i
-      
+
 
     / April, 2020 - Nature
     let !a self assert = In SARS, it took 7 to 10 days after onset until peak RNA concentrations (of up to 5x105 copies per swab) were reached. In the present study, peak concentrations were reached before day 5, and were more than 1000 times higher.
@@ -620,6 +632,9 @@ feed Research
       !a
       !b
       !c
+      !d
+      !e
+      !f
 
     / March, 2020 - medRxiv
     let !a self assert = Two weeks after the first Dutch patient with COVID-19 was reported, the prevalence of COVID-19 in HCWs with fever or respiratory symptoms in two Dutch hospitals in the southern part of the Netherlands was 6%.This unexpected high prevalence supported the hypothesis of hidden community spread of SARS-CoV-2 and is considered a minimal estimate of the prevalence in all HCWs at the time of screening.
@@ -784,6 +799,7 @@ feed Research
       !a
       !b
       !c
+      !d
 
     / April, 2020 - medRxiv
     let !a self assert = For base dataset (42 countries) we have shown that the growth rate of the transmission of the COVID-19 has a decreasing trend, as a function of T, at 99.66% C.L. (p-value 0.0034). In this fit R2 = 0.196. In addition, using a quadratic fit, we have shown that a peak of maximal transmission seems to be present in this dataset at around (7.7 ± 3.6)◦C.
@@ -862,6 +878,8 @@ feed Research
 
     -- exports
       !a
+      !b
+      !c
 
     / March, 2016 - Blood Transfus
     let !a self assert = Although many studies have reported the efficacy and safety of CP infusion in the treatment of various infections (especially those caused by viruses), due to the lack of large-scale, randomised, well-designed clinical trials, we tend to consider CP an “empirical” therapy. Since most of the studies conducted so far are case series, they can only provide us with low-quality scientific evidence that may or may not be representative of the target populations.
@@ -1070,6 +1088,10 @@ feed Research
 
     -- exports
       !a
+      !b
+      !c
+      !d
+      !e
 
     / April, 2020 - Journal of thrombosis and haemostasis
     let !a self assert =  A total of 20 (25%) patients with severe NCP developed lower extremity venous thrombosis, of which 8 patients died. The VTE group had older age (68.4±9.1 vs 57.1±14.3 years, P＜0.001), lower lymphocytes counts (0.8±0.4 vs 1.3±0.6  ×109/L, P＜0.001), longer APTT (39.9±6.4 vs 35.6±4.5 s, P=0.001), and higher D-dimer (5.2±3.0 vs 0.8±1.2 µg/mL, P＜0.001). Moreover, the D-dimer of the two groups was not within the normal range.
@@ -1097,6 +1119,7 @@ feed Research
       !b
       !c
       !d
+      !e
 
     / July, 2004- Antimicrob Agents Chemotherapy
     let !a self assert = Viral RNA was isolated from culture supernatants from SARS-CoV-infected Vero E6 cells and analyzed by RT-PCR. No specific PCR product of 368 bp could be detected in the medium of virus-infected cells (Vero E6 cells) when niclosamide was applied at concentrations of 3.12 μM or higher, whereas a faint band of the correct length was observed in the PCR-amplified product from the medium of cells treated with 1.56 μM niclosamide. Apparently, there was a dose-dependent reduction of virus yield in the supernatant of infected cells treated with niclosamide.
@@ -1294,6 +1317,12 @@ feed Research
 
     -- exports
       !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
 
     / April, 2020 - JAMA Cardiology
     let !a self assert = It is important to note that 2 forms of ACE2 exists: a structural transmembrane protein with extracellular domain that serves as a receptor for spike protein of SARS-CoV-2 and a soluble form that represents the circulating ACE2. Understanding the relationship between SARS-CoV-2 and membranous and soluble ACE2 may help us better understand the adaptive or maladaptive processes operative in COVID-19 infection
@@ -1415,6 +1444,7 @@ feed Research
 
     -- exports
       !a
+      !b
 
     / February, 2020 - medRxiv
     let !a self assert = For SARS Cov, When the temperature increased to 38℃ and the relative humidity to 95%, the virus soon lost its activity.
@@ -1788,7 +1818,7 @@ feed Research
   # Tag- Social network... If possible can we show Fig 4 from this paper to show outbreak of H1N1 over period of 3 months... Caption fig-4- In the diagram, Infected individuals are colored red, friends of infected individuals are colored yellow, and node size is proportional to the number of friends infected. Also Figure 5 - Caption - The speed with which people acquired the flu during the epidemic depended on various aspects of their social network position. Those with more friends, those who were more central in the network, and those whose friends did *not* know each other got it sooner.
   // Social Network Sensors for Early Detection of Contagious Outbreaks
   doi: https://doi.org/10.1371/journal.pone.0012948
-  ref 'christakis_et_al_2010
+  ref 'Christakis_et_al_2010
     head = This study describe methods that can be used to provide early detection of outbreaks and it could also be used to monitor targeted populations of any size, in real time.
 
     >>> Abstract
@@ -1813,7 +1843,7 @@ feed Research
   # Tags - Treatment, Pneumonia, Cytokine Storms
   // Study of the lymphocyte change between COVID-19 and non-COVID-19 pneumonia cases suggesting other factors besides uncontrolled inflammation contributed to multi-organ injury
   doi: https://doi.org/10.1101/2020.02.19.20024885
-  ref 'zheng_et_al_2020
+  ref 'Zheng_et_al_2020
     head = The study indicates significantly different clinical features between 2019-nCoV-caused and non-2019-nCoV-caused pneumonia, especially in terms of lymphocytopenia and organ injury. Notably, correlation analysis demonstrates that tissue damage in COVID-19 patients is attributed to virus infection itself rather than uncontrolled inflammatory responses ("cytokine storm"). These findings provide new insights for developing efficient therapeutic strategies against COVID-19 infection.
 
     -- exports
@@ -1979,6 +2009,9 @@ feed Research
 
     -- exports
       !a
+      !b
+      !c
+      !d
 
 
     / Dec 2008 - Immunological Reviews
@@ -1991,7 +2024,7 @@ feed Research
     let !c self assert = The molecular mechanisms for how RIG-I and MDA5 distinguish the lengths of dsRNA remain to be determined. Structural analyses of MDA5 will clarify the mechanism of MDA5-mediated recognition of long dsRNA.
 
     / Dec 2008 - Immunological Reviews
-    let !c self assert = Another issue is the role of RIG-I helicase activity in the recognition of viral RNAs. Although several reports have shown that RIG-I protein can unwind short dsRNA, it is apparent that this “helicase” activity is not required for the recognition of 5′ triphosphate ssRNA. Given that the RIG-I helicase domain catalyzes ATP, it is assumed that the helicase domain is critical for the conformational change required to expose the CARDs and trigger intracellular signaling.
+    let !d self assert = Another issue is the role of RIG-I helicase activity in the recognition of viral RNAs. Although several reports have shown that RIG-I protein can unwind short dsRNA, it is apparent that this “helicase” activity is not required for the recognition of 5′ triphosphate ssRNA. Given that the RIG-I helicase domain catalyzes ATP, it is assumed that the helicase domain is critical for the conformational change required to expose the CARDs and trigger intracellular signaling.
 
   // News Feature: Avoiding pitfalls in the pursuit of a COVID-19 vaccine
   doi: https://doi.org/10.1073/pnas.2005456117
@@ -2290,6 +2323,7 @@ feed Research
     head = Of 2,143 (731 Lab case and 1412 suspected case) pediatric patients in China – found that, while 90% had asymptomatic, mild or moderate cases, which suggest the severity is milder compared to Adults and CFR is lower.
     -- exports
       !a
+      !b
 
     / Feb, 2020 - bioRxiv
     let !a self assert =  Children at all ages appeared susceptible to COVID-19, and there was no significant gender difference. However particularly infants, were vulnerable to infection.
@@ -2301,6 +2335,7 @@ feed Research
   doi: https://doi.org/10.1101/2020.03.04.20031104
   ref 'Hauser_et_al_2020
     head =  This research developed a mechanistic approach to correct the crude CFR for bias due to right-censoring and preferential ascertainment and provide adjusted estimates of mortality due to SARS-CoV-2 infection by age group and according to symptom status. The steep increase in mortality among people aged 60 years and older, reaching extremely high values in people aged 80 years and older is of concern.
+
     >>> Abstract
       Background. The epidemic of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) that originated in Wuhan, China in late 2019 is now pandemic. Reliable estimates of death from coronavirus disease 2019 (COVID-19) are essential to guide control efforts and to plan health care system requirements. The objectives of this study are to: 1) simulate the transmission dynamics of SARS-CoV-2 using publicly available surveillance data; 2) give estimates of SARS-CoV-2 mortality adjusted for bias in the two regions with the world's highest numbers of confirmed Covid-19 deaths: Hubei province, China and northern Italy. Method and Findings. We developed an age-stratified susceptible-exposed-infected-removed (SEIR) compartmental model describing the dynamics of transmission and mortality during the SARS-CoV-2 epidemic. Our model accounts for two biases; preferential ascertainment of severe cases and delayed mortality (right-censoring). We fitted our transmission model to surveillance data from Hubei province (1 January to 11 February 2020) and northern Italy (8 February to 3 March 2020). Overall mortality among all symptomatic and asymptomatic infections was estimated to be 3.0% (95% credible interval: 2.6-3.4%) in Hubei province and 3.3% (2.0-4.7%) in northern Italy. Mortality increased with age; we estimate that among 80+ year olds, 39.0% (95%CrI: 31.1-48.9%) in Hubei province and 89.0% (95%CrI: 56.2-99.6%) in northern Italy dies or will die. Limitations are that the model requires data recorded by date of onset and that sex-disaggregated mortality was not available. Conclusions. We developed a mechanistic approach to correct the crude CFR for bias due to right-censoring and preferential ascertainment and provide adjusted estimates of mortality due to SARS-CoV-2 infection by age group. While specific to the situation in Hubei, China and northern Italy during these periods, these findings will help the mitigation efforts and planning of resources as other regions prepare for SARS-CoV-2 epidemics.
 
@@ -2337,14 +2372,13 @@ feed Research
   doi: https://doi.org/doi:10.1001/jama.2020.4621
   ref 'Dong_et_al_2020
     head = We report a newborn with elevated IgM antibodies to SARS-CoV-2 born to a mother with COVID-19.
+
     >>> Abstract
       Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is highly infectious, with multiple possible routes of transmission. Controversy exists regarding whether SARS-CoV-2 can be transmitted in utero from an infected mother to her infant before birth. A series of 9 pregnant women found no mother-child transmission. We report a newborn with elevated IgM antibodies to SARS-CoV-2 born to a mother with coronavirus disease 2019 (COVID-19).
 
     >>> Discussion
       A neonate born to a mother with COVID-19 had elevated antibody levels and abnormal cytokine test results 2 hours after birth. The elevated IgM antibody level suggests that the neonate was infected in utero. IgM antibodies are not transferred to the fetus via the placenta.2 The infant potentially could have been exposed for 23 days from the time of the mother’s diagnosis of COVID-19 to delivery. The laboratory results displaying inflammation and liver injury indirectly support the possibility of vertical transmission. Although infection at delivery cannot be ruled out, IgM antibodies usually do not appear until 3 to 7 days after infection, and the elevated IgM in the neonate was evident in a blood sample drawn 2 hours after birth. Also, the mother’s vaginal secretions were negative for SARS-CoV-2. The infant’s repeatedly negative RT-PCR test results on nasopharyngeal swabs are difficult to explain, although these tests are not always positive with infection. IgG antibodies can be transmitted to the fetus through the placenta and appear later than IgM. Therefore, the elevated IgG level may reflect maternal or infant infection.
       Limitations of this report include the single case and that no PCR testing of amniotic fluid or placenta was performed. Additional examination of maternal and newborn samples should be done to confirm this preliminary observation.
-
-
 
   // Coronavirus Infections in Children Including COVID-19
   doi: https://doi.org/10.1097/INF.0000000000002660
@@ -2706,6 +2740,7 @@ feed Research
     -- exports
       !a
       !b
+      !c
 
     / March, 2020 - The New England Journal of Medicine
     let !a self assert = The full genome sequences of virus specimens found in the first report case of 2019-nCoV in the United States were identical to one another and were nearly identical to other available 2019-nCoV sequences.
@@ -3214,6 +3249,7 @@ feed Research
       !a
       !b
       !c
+      !d
 
     / March, 2020 - Science
     let !a self assert = We estimate 86% of all infections were undocumented (95% CI: [82%–90%]) prior to 23 January 2020 travel restrictions.
@@ -3380,6 +3416,11 @@ feed Research
   citation: Hoffmann, Markus et al. Cell, Volume 0, Issue 0
   ref 'Hoffman_et_al_2020
     head = Here, we demonstrate that SARS-CoV-2 uses the SARS-CoV receptor ACE2 for entry and the serine protease TMPRSS2 for S protein priming. A TMPRSS2 inhibitor approved for clinical use blocked entry and might constitute a treatment option. Finally, we show that the sera from convalescent SARS patients cross-neutralized SARS-2-S-driven entry. Our results reveal important commonalities between SARS-CoV-2 and SARS-CoV infection and identify a potential target for antiviral intervention.
+
+    -- exports
+      !a
+      !b
+      !c
 
     / Cell - March, 2020
     let !a self assert = SARS-CoV-2 uses the SARS-CoV receptor ACE2 for host cell entry
