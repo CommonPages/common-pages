@@ -23,12 +23,14 @@
   foundations
 
 -- Claims
-  claims.Timeline
-  claims.Features
-  claims.Diagnostics
-  claims.Prevention
-  claims.Remediation
-  claims.Projections
+  Timeline
+  VirusFeatures
+  DiseaseFeatures
+  Diagnostics
+  Mitigation
+  Remediation
+  Projections
+  PublicPolicy
 
 -- Feeds
   feeds.Research

@@ -9,9 +9,10 @@ import foundations.Physiology.lib._
 import foundations.Epidemiology.lib._
 import foundations.Medicine.lib._
 
-import claims.Diagnostics
-import claims.Timeline
-import claims.Timeline.Origin
+# import claims.Diagnostics
+# import claims.Timeline
+# import claims.Timeline.Origin
+import Timeline.Origin
 
 import feeds.Research
 import feeds.News

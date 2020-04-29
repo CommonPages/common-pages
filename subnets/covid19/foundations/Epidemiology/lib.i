@@ -1,6 +1,10 @@
 index: hide
 . lib
 
+  # https://www.cdc.gov/csels/dsepd/ss1978/lesson1/section10.html
+
+  model InfectiousCycle
+
   model ViralLoad
     head = Viral load, also known as viral burden, viral titre or viral titer, is a numerical expression of the quantity of virus in a given volume.
 
