@@ -5,7 +5,7 @@
   /// Peptides are short chains of amino acid monomers linked by peptide  bonds.
   model Polypeptide
 
-  /// Deoxyribonucleic acid (DNA) is nucleotide that stores genetic information.
+  /// Deoxyribonucleic acid (DNA) is a nucleotide that stores genetic information.
   model DNA
     >>>
       {image:'Figure_3_3_4}
