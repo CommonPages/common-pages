@@ -8,3 +8,5 @@ hosts:
   - claimspace.test
 subnets:
   - "$covid19"
+  - "$os-life"
+  - "$cancer"
