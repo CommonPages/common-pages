@@ -27,6 +27,8 @@ feed Research
   / April, 2020
   feed April2020
     --
+      'Paraskevis_et_al_2020
+      'Zhang_et_al_2020f
       'Quinlan_et_al_2020
       'Stadlbauer_et_al_2020
       'Döhla_et_al_2020
@@ -49,6 +51,14 @@ feed Research
   / March, 2020
   feed March2020
     --
+      'Guo_et_al_2020
+      'Guan_et_al_2020
+      'Favre_et_al_2020
+      'Leung_et_al_2020
+      'Xia_et_al_2020
+      'Tindale_et_al_2020
+      'Du_et_al_2020
+      'Amanat_et_al_2020
       'Hegarty_et_al_2020
       'Kluytmans_et_al_2020
       'Wu_et_al_2020d
@@ -110,6 +120,13 @@ feed Research
   / February, 2020
   feed February2020
     --
+      'Liu_et_al_2020e
+      'ling_et_al_2020
+      'Brook_et_al_2020
+      'Hoehl_et_al_2020
+      'Linton_et_al_2020
+      'Nishiura_et_al_2020
+      'Zhang_et_al_2020g
       'Porcheddu_et_al_2020
       'Liu_et_al_2020d
       'luo_et_al_2020
@@ -132,12 +149,15 @@ feed Research
   / January, 2020
   feed January2020
     --
+      'Chen_et_al_2020c
       'Arts_et_al_2020
       'Darrah_et_al_2020
       'Phan_et_al_2020
       'Zhu_et_al_2020
 
   feed 2019
+    -- December, 2019
+      'Benfield_et_al_2019
     -- July, 2019
       'Luk_et_al_2019
 
@@ -153,6 +173,9 @@ feed Research
     -- December, 2018
       'Cui_et_al_2018
 
+    -- September, 2018
+      'Mandl_et_al_2018
+
     -- August, 2018
       'Duffy_et_al_2018
 
@@ -160,10 +183,16 @@ feed Research
       'Pavlovich_et_al_2018
 
     -- March, 2018
+      'Colman_et_al_2018
       'agostini_et_al_2018
 
     -- February, 2018
+      'Xie_et_al_2018
       'Corman_et_al_2018
+
+    -- November, 2017
+      'Huang_et_al_2017
+      'Babady_et_al_2017
 
     -- October, 2017
       'Netto_et_al_2017
@@ -179,6 +208,7 @@ feed Research
       'Lin_et_al_2017
 
     -- May, 2017
+      'Banerjee_et_al_2017
       'Kim_et_al_2017
 
     -- March, 2017
@@ -201,6 +231,7 @@ feed Research
       'Marano_et_al_2016
 
     -- February, 2016
+      'Beckmann_et_al_2016
       'Zumla_et_al_2016
 
     -- December, 2015
@@ -210,7 +241,10 @@ feed Research
       'Menachery_et_al_2015
 
     -- June, 2015
-       'Ren_et_al_2015
+      'Ren_et_al_2015
+
+    -- Feb, 2015
+      'Najjar_et_al_2015
 
     -- Jan, 2015
       'Jenkins_et_al_2015
@@ -220,6 +254,12 @@ feed Research
 
     -- April, 2013
       'Wertheim_et_al_2013
+
+    -- Feb, 2013
+      'Lessler_et_al_2013
+
+    -- Jan, 2013
+      'Zhang_et_al_2013
 
     -- October, 2012
       'Kleinnijenhuis_et_al_2012
@@ -232,6 +272,9 @@ feed Research
 
     -- December, 2011
       'bin_Reza_et_al_2011
+
+    -- August, 2011
+      'Chut_et_al_2011
 
     -- May, 2011
       'Qian_et_al_2011
@@ -247,6 +290,7 @@ feed Research
       'Wong_et_al_2010
 
     -- June, 2010
+      'Hou_et_al_2010
       'Zhao_et_al_2010
 
     -- March, 2010
@@ -271,6 +315,12 @@ feed Research
       'Fergusion_et_al_2006
       'sebastiani_et_al_2006
 
+    -- Jan, 2006
+      'Franceschi_et_al_2006
+
+    -- October, 2005
+      'Li_et_al_2005  
+
     -- August, 2005
       'Fukushi_et_al_2005
       'Vincent_et_al_2005
@@ -291,10 +341,737 @@ feed Research
     -- April, 2003
       'Davis_et_al_2003
 
+    -- December, 2001
+      'Sarnak_et_al_2001
+
     -- October, 1990
+      'Ka_et_al_1990
       'Callow_et_al_1990
 
+    -- June, 1970
+      'Mcintosh_et_al_1970
+
+
+
   #
+
+  # Origin- Bats
+  // Bats Are Natural Reservoirs of SARS-Like Coronaviruses
+  doi: http://doi.org/10.1126/science.1118391
+  ref 'Li_et_al_2005
+    head = Here we report that species of bats are a natural host of coronaviruses closely related to those responsible for the SARS outbreak. These viruses, termed SARS-like coronaviruses (SL-CoVs), display greater genetic variation than SARS-CoV isolated from humans or from civets. The human and civet isolates of SARS-CoV nestle phylogenetically within the spectrum of SLCoVs, indicating that the virus responsible for the SARS outbreak was a member of this coronavirus group.
+
+    >>> Abstract
+      Severe acute respiratory syndrome (SARS) emerged in 2002 to 2003 in southern China. The origin of its etiological agent, the SARS coronavirus (SARS-CoV), remains elusive. Here we report that species of bats are a natural host of coronaviruses closely related to those responsible for the SARS outbreak. These viruses, termed SARS-like coronaviruses (SL-CoVs), display greater genetic variation than SARS-CoV isolated from humans or from civets. The human and civet isolates of SARS-CoV nestle phylogenetically within the spectrum of SL-CoVs, indicating that the virus responsible for the SARS outbreak was a member of this coronavirus group.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+
+    / Oct, 2005 - American Association for the Advancement of Science
+    let !a self assert = Among six genera of bat species surveyed , three communal, cave-dwelling species from the genus Rhinolophus (horseshoe bats) in the family Rhinolophidae demonstrated a high SARS-CoV antibody prevalence: 13 out of 46 bats (28%) in R. pearsoni from Guangxi, 2 out of 6 bats (33%) in R. pussilus from Guangxi, and 5 out of 7 bats (71%) in R. macrotis from Hubei. The high seroprevalence and wide distribution of seropositive bats is expected for a wildlife reservoir host for a pathogen
+
+    / Oct, 2005 - American Association for the Advancement of Science
+    let !b self assert = The serological findings were corroborated by poylmerase chain reaction (PCR) analyses with primer pairs derived from the nucleocapsid (N) and polymerase (P) genes (table S1). Five fecal samples tested positive, all of them from the genus Rhinolophus: three in R. pearsoni from Guangxi and one each in R. macrotis and R. ferrumequinum, respectively, from Hubei. No virus was isolated from an inoculation of Vero E6 cells with fecal swabs of PCR-positive samples.
+
+    / Oct, 2005 - American Association for the Advancement of Science
+    let !c self assert = The genome organization of this virus (Fig. 1), tentatively named SARS-like coronavirus isolate Rp3 (SL-CoV Rp3), was essentially identical to that of SARS-CoV, with the exception of three regions. The overall nucleotide sequence identity between SL-CoV Rp3 and SARS-CoV Tor2 was 92% and increased to 94% when the three variable regions were excluded
+
+    / Oct, 2005 - American Association for the Advancement of Science
+    let !d self assert = Predicted protein products from each gene or putative open reading frame (ORF) of SLCoV Rp3 and SARS-CoV Tor2 were compared (table S2). The P, S, E, M, and N proteins, which are present in all coronaviruses, were similarly sized in the two viruses, with sequence identities ranging from 96% to 100%. The only exception was the S1 domain of the S protein, where sequence identity fell to 64%
+
+    / Oct, 2005 - American Association for the Advancement of Science
+    let !e self assert = S1 is the main target for antibody-mediated neutralization of this group of viruses, which is consistent with previous reports indicating that major SARS-CoV neutralization epitopes are located in the S1 region.
+
+    / Oct, 2005 - American Association for the Advancement of Science
+    let !f self assert = The location and sequence of ORFs are group- or virus-specific and hence can serve as important molecular markers for studying virus evolution and classification (19, 22). SARS-CoV has a unique set of ORFs not shared by any of the known coronaviruses. Most of these ORFs were also present in SL-CoV, confirming theextremely close genetic relationship between SARS-CoV and SL-CoV
+
+    / Oct, 2005 - American Association for the Advancement of Science
+    let !g self assert = The overall nucleotide sequence identity of 92% between SL-CoVs and SARSCoVs is very similar to that observed between Nipah viruses isolated from Malaysia and Bangladesh in 1999 and 2004, respectively
+
+    / Oct, 2005 - American Association for the Advancement of Science
+    let !h self assert = SL-CoVs present a new challenge to the diagnosis and treatment of future disease outbreaks. The current tests and therapeutic strategies may not work effectively against all viruses in this group, owing to their great genetic variability in the S1 domain region of the S gene
+
+    / Oct, 2005 - American Association for the Advancement of Science
+    let !i self assert = These findings on coronaviruses, together with data on henipaviruses , suggest that genetic diversity exists among zoonotic viruses in bats, increasing the possibility of variants crossing the species barrier and causing outbreaks of disease in human populations. It is therefore essential that we enhance our knowledge and understanding of reservoir host distribution, animal-animal and human-animal interaction (particularly within the wet-market system), and the genetic diversity of bat-borne viruses to prevent future outbreaks.
+
+
+  # Strucure of the virus, New studies on origin of the virus, more evidence that it came from bats.
+  // Full-genome evolutionary analysis of the novel corona virus (2019-nCoV) rejects the hypothesis of emergence as a result of a recent recombination event
+  doi: https://doi.org/10.1016/j.meegid.2020.104212
+  ref 'Paraskevis_et_al_2020
+    head = Our study rejects the hypothesis of emergence as a result of a recent recombination event. Notably, the new coronavirus provides a new lineage for almost half of its genome, with no close genetic relationships to other viruses within the subgenus of sarbecovirus. This genomic part comprises half of the spike region encoding a multifunctional protein responsible also for virus entry into host cells.
+
+    >>> Background
+      A novel coronavirus (2019-nCoV) associated with human to human transmission and severe human infection has been recently reported from the city of Wuhan in China. Our objectives were to characterize the genetic relationships of the 2019-nCoV and to search for putative recombination within the subgenus of sarbecovirus.
+
+    >>> Methods
+      Putative recombination was investigated by RDP4 and Simplot v3.5.1 and discordant phylogenetic clustering in individual genomic fragments was confirmed by phylogenetic analysis using maximum likelihood and Bayesian methods.
+
+    >>> Results
+      Our analysis suggests that the 2019-nCoV although closely related to BatCoV RaTG13 sequence throughout the genome (sequence similarity 96.3%), shows discordant clustering with the Bat_SARS-like coronavirus sequences. Specifically, in the 5′-part spanning the first 11,498 nucleotides and the last 3′-part spanning 24,341–30,696 positions, 2019-nCoV and RaTG13 formed a single cluster with Bat_SARS-like coronavirus sequences, whereas in the middle region spanning the 3′-end of ORF1a, the ORF1b and almost half of the spike regions, 2019-nCoV and RaTG13 grouped in a separate distant lineage within the sarbecovirus branch.
+
+    >>> Conclusions
+      The levels of genetic similarity between the 2019-nCoV and RaTG13 suggest that the latter does not provide the exact variant that caused the outbreak in humans, but the hypothesis that 2019-nCoV has originated from bats is very likely. We show evidence that the novel coronavirus (2019-nCov) is not-mosaic consisting in almost half of its genome of a distinct lineage within the betacoronavirus. These genomic features and their potential association with virus characteristics and virulence in humans need further attention.
+
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / April, 2020 - Infection, Genetics and Evolution
+    let !a self assert = The genetic similarity between the 2019-nCoV and RaTG13 was 96.3% (p-distance: 0.0369). On the other hand, a discordant relationship was detected between the query and the sequences of the Bat_SARS-like coronavirus (MG772934 and MG772933)
+
+    / April, 2020 - Infection, Genetics and Evolution
+    let !b self assert = Specifically, in the 5′-part spanning the first 11,498 nucleotides and the last 3′-part spanning 24,341–30,696 positions, 2019-nCoV and RaTG13 formed a single cluster with Bat_SARS-like coronavirus sequences, whereas in the middle region spanning the 3′-end of ORF1a, the ORF1b and almost half of the spike regions, 2019-nCoV and RaTG13 grouped in a separate distant lineage within the sarbecovirus branch.
+
+    / April, 2020 - Infection, Genetics and Evolution
+    let !c self assert = Bat_SARS-like coronavirus sequences cluster in different positions in the tree, suggesting that they are recombinants, and thus that the 2019-nCoV and RaTG13 are no
+
+
+
+  # Tag - R0- Herd Immunity
+  // The reproductive number of COVID-19 is higher compared to SARS coronavirus
+  doi: https://doi.org/10.1093/jtm/taaa021
+  ref 'Liu_et_al_2020e
+    head = Our review found the average R0 to be 3.28 and median to be 2.79 and interquartile range (IQR)of 1.16, which exceed WHO estimates from 1.4 to 2.5.
+
+    >>> Abstract
+      In Wuhan, China, a novel and alarmingly contagious primary atypical (viral) pneumonia broke out in December 2019. It has since been identified as a zoonotic coronavirus, similar to SARS coronavirus and MERS coronavirus and named COVID-19. As of 8 February 2020, 33 738 confirmed cases and 811 deaths have been reported in China.
+      Here we review the basic reproduction number (R0) of the COVID-19 virus. R0 is an indication of the transmissibility of a virus, representing the average number of new infections generated by an infectious person in a totally naïve population. For R0 > 1, the number infected is likely to increase, and for R0 < 1, transmission is likely to die out. The basic reproduction number is a central concept in infectious disease epidemiology, indicating the risk of an infectious agent with respect to epidemic spread.
+
+
+
+    # / Feb, 2020 - Journal of Travel Medicine
+    # let !a self assert = The two studies using stochastic methods to estimate R0, reported a range of 2.2–2.68 with an average of 2.44.
+
+
+  # Tag - Origin, Structure
+  // The origin, transmission and clinical therapies on coronavirus disease 2019 (COVID-19) outbreak – an update on the status
+  doi: https://doi.org/10.1186/s40779-020-00240-0
+  ref 'Guo_et_al_2020
+    head = In this review, we summarized the latest research progress of the epidemiology, pathogenesis, and clinical characteristics of COVID-19, and discussed the current treatment and scientific advancements to combat the epidemic novel coronavirus.
+
+    >>> Abstract
+      An acute respiratory disease, caused by a novel coronavirus (SARS-CoV-2, previously known as 2019-nCoV), the coronavirus disease 2019 (COVID-19) has spread throughout China and received worldwide attention. On 30 January 2020, World Health Organization (WHO) officially declared the COVID-19 epidemic as a public health emergency of international concern. The emergence of SARS-CoV-2, since the severe acute respiratory syndrome coronavirus (SARS-CoV) in 2002 and Middle East respiratory syndrome coronavirus (MERS-CoV) in 2012, marked the third introduction of a highly pathogenic and large-scale epidemic coronavirus into the human population in the twenty-first century. As of 1 March 2020, a total of 87,137 confirmed cases globally, 79,968 confirmed in China and 7169 outside of China, with 2977 deaths (3.4%) had been reported by WHO. Meanwhile, several independent research groups have identified that SARS-CoV-2 belongs to β-coronavirus, with highly identical genome to bat coronavirus, pointing to bat as the natural host. The novel coronavirus uses the same receptor, angiotensin-converting enzyme 2 (ACE2) as that for SARS-CoV, and mainly spreads through the respiratory tract. Importantly, increasingly evidence showed sustained human-to-human transmission, along with many exported cases across the globe. The clinical symptoms of COVID-19 patients include fever, cough, fatigue and a small population of patients appeared gastrointestinal infection symptoms. The elderly and people with underlying diseases are susceptible to infection and prone to serious outcomes, which may be associated with acute respiratory distress syndrome (ARDS) and cytokine storm. Currently, there are few specific antiviral strategies, but several potent candidates of antivirals and repurposed drugs are under urgent investigation. In this review, we summarized the latest research progress of the epidemiology, pathogenesis, and clinical characteristics of COVID-19, and discussed the current treatment and scientific advancements to combat the epidemic novel coronavirus.
+
+
+    # / March, 2020 - Military Medical Research
+    # let !a self assert =
+
+  # Tag - Prevention for clinical care
+  // COVID-19: A critical care perspective informed by lessons learnt from other viral epidemics
+  doi: https://doi.org/10.1016/j.accpm.2020.02.002
+  ref 'ling_et_al_2020
+    head = ICU HCW are at particularly high risk of nosocomial transmission because of potential exposure to aerosolised respiratory secretions during intubation, tracheal suctioning, bronchoscopy and respiratory circuit disconnection, as well as environmental contamination.
+
+    >>> Abstract
+      The world is closely watching the outbreak of respiratory illness associated with the novel beta coronavirus SARS-CoV-2. The first cases were reported in Wuhan, Hubei Province, China. At the time of writing the number of reported cases of the resulting disease, COVID-19, is already over 64,000 and shows no immediate signs of stabilisation. Although the majority remain in Wuhan and Hubei province, cases have been reported in all provinces of China and over 27 countries across the globe. The aim of this editorial is to review the management of critically ill patients with COVID-19 infection.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+
+    # Aerosol Prevention
+    / Feb, 2020 - Anesthesia critical care & Pain Medicine
+    let !a self assert = Suspected or confirmed cases should ideally be isolated in a negative pressure airborne infection isolation room (AIIR) with sufficient air changes (> 12/h) and personnel trained to use personal protective equipment (PPE) for airborne precautions.
+
+    / Feb, 2020 - Anesthesia critical care & Pain Medicine
+    let !b self assert = Limited data suggests that the use of high-flow nasal oxygen (HFNO) may prevent intubation in severe hypoxemic respiratory failure. Within the ICU, and with HCW protected by high-level PPE (including an N95 mask), non-invasive ventilation (NIV) and HFNO use during SARS-CoV and 2009 influenza epidemic was not clearly associated with an increased risk in HCW.
+
+    / Feb, 2020 - Anesthesia critical care & Pain Medicine
+    let !c self assert = Some additional measures to reduce transmission risk include intubation in an AIIR, and limiting non-essential staff to reduced exposure time. Placing bacterial/viral filters in circuits and between the mask and bag valve mask (BVM) resuscitator during manual mask ventilation may serve to reduce viral particle dispersion into the atsmopshere.
+
+    / Feb, 2020 - Anesthesia critical care & Pain Medicine
+    let !d self assert = Intubation in COVID-19 patients should be performed by those experienced in airway management to increase first-pass success. Video laryngoscopy improves intubation rates and allows the operator to be further away from the patient's oropharynx.
+
+  # Bat Immunity
+  // Dampened STING-Dependent Interferon Activation in Bats
+  doi: https://doi.org/10.1016/j.chom.2018.01.006
+  ref 'Xie_et_al_2018
+    head =  Our data support that the S358 (highly conserved serine residue) replacement in bat STING dampened but did not fully diminish the functionality of STING. The nature of the weakened, but not entirely lost, functionality of STING may have profound impact for bats to maintain the balanced state of “effective response” but not “over response” against viruses
+
+    >>> Abstract
+      Compared with terrestrial mammals, bats have a longer lifespan and greater capacity to co-exist with a variety of viruses. In addition to cytosolic DNA generated by these viral infections, the metabolic demands of flight cause DNA damage and the release of self-DNA into the cytoplasm. However, whether bats have an altered DNA sensing/defense system to balance high cytosolic DNA levels remains an open question. We demonstrate that bats have a dampened interferon response due to the replacement of the highly conserved serine residue (S358) in STING, an essential adaptor protein in multiple DNA sensing pathways. Reversing this mutation by introducing S358 restored STING functionality, resulting in interferon activation and virus inhibition. Combined with previous reports on bat-specific changes of other DNA sensors such as TLR9, IFI16, and AIM2, our findings shed light on bat adaptation to flight, their long lifespan, and their unique capacity to serve as a virus reservoir.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / February, 2018 -  Cell Host & Microbe
+    let !a self assert = Sequence alignment of all available bat STING (from a total of 30 different species) with ten major non-bat mammalian STING revealed a key difference: while the S358 residue is absolutely conserved among all known non-bat mammalian STING, none of the bat STING retain the S358. Instead, this residue has been replaced by a variety of different residues at this position, including N, H, F, Y, P, D, and R. As the S358 phosphorylation site is critical for downstream IFN activation in humans and other mammals (Liu et al., 2015, Tanaka and Chen, 2012, Tsuchida et al., 2010, Zhong et al., 2008), this key residue change strongly suggests a weakened bat STING in the context of IFN activation.
+
+    / February, 2018 -  Cell Host & Microbe
+    let !b self assert = Splenocytes from three individual Rhinolophus sinicus (Rs) and three laboratory mice were stimulated by cGAMPIn contrast to a strong induction of IFNβ and IRF7 (an IFN-stimulated gene [ISG]) in mouse, transfection of cGAMP induced a much lower level of IFNβ and IRF7 mRNA in Rs bats from qPCR analysis. a number of mouse ISGs were strongly upregulated upon cGAMP treatment, whereas the upregulation of bat ISGs was much less, both in number and fold change. Between the two Rs bats, there were subtle differences in ISG induction, which was not unexpected considering wild-caught outbred bats were used in this study.
+
+    / February, 2018 -  Cell Host & Microbe
+    let !c self assert = qPCR analysis of mRNA levels in a range of Rs, Myotis davidii (Md), and Pteropus alecto (Pa) primary organs revealed an expression pattern not dissimilar to that found in mouse: STING was found to be expressed in a variety of tissues in bats, with highest levels in spleen and lung.It can thus be concluded that phylogenetic divergence or difference in gene expression patterns between bats and mice is unlikely to be responsible for the observed reduction in STING-mediated IFN production.
+
+    / February, 2018 -  Cell Host & Microbe
+    let !d self assert = Experimentally, we have demonstrated the replacement of the S358 residue in different bat STING resulted in dampened downstream IFN production via IRF3 phosphorylation
+
+    / February, 2018 -  Cell Host & Microbe
+    let !e self assert = In assessing the effect of different STING on herpes simplex virus (HSV) infection in PakiT03 cells, it was found that the wild-type human STING was about 2.5-fold more effective in blocking HSV replication than the S358A mutant. However, this was reversed for bat STING, in which the wild-type bat STING was less effective than the mutant STING X358S with a reduction of approximately 3-, 2.5-, and 2-fold, respectively, for Md, Pa, and Rs STING
+
+    / February, 2018 -  Cell Host & Microbe
+    let !f self assert = When HEK293T cells were transfected with human or bat STING-expressing plasmids, phosphorylation of IRF3, but not TBK1, was markedly higher in cells transfected with S358 STING (Figure S2B). Similar findings were observed in bat PakiT03 cells (Figure S2C), which eventually contributed to a different downstream IFN response and in turn the observed difference in modulating HSV replication. Taken together, these results demonstrated that while bat STING maintained its antiviral defense similar to human STING, the dampening likely contributed in part to the long-term co-existence of bats and viruses.
+
+  # Bat Immunity
+  // Comparative Analysis of Bat Genomes Provides Insight into the Evolution of Flight and Immunity
+  doi: https://doi.org/10.1126/science.1230835
+  ref 'Zhang_et_al_2013
+    head = The evolution of the bat antiviral immune system is multifaceted and several factors, such as the evolution of flight and co-evolution of bats with their viruses have likely shaped their distinct immunological responses.
+
+    >>> Abstract
+      Bats are the only mammals capable of sustained flight and are notorious reservoir hosts for some of the world's most highly pathogenic viruses, including Nipah, Hendra, Ebola, and severe acute respiratory syndrome (SARS). To identify genetic changes associated with the development of bat-specific traits, we performed whole-genome sequencing and comparative analyses of two distantly related species, fruit bat Pteropus alecto and insectivorous bat Myotis davidii. We discovered an unexpected concentration of positively selected genes in the DNA damage checkpoint and nuclear factor κB pathways that may be related to the origin of flight, as well as expansion and contraction of important gene families. Comparison of bat genomes with other mammalian species has provided new insights into bat biology and evolution.
+
+    # / January, 2013 - Science
+    # let !a self assert =
+
+
+  # Tag - Prospects, Bats, Anti-Inflammatory
+  // A Potent Anti-Inflammatory Response in Bat Macrophages May Be Linked to Extended Longevity and Viral Tolerance
+  doi: https://doi.org/10.3161/15081109ACC2017.19.2.001
+  ref 'Kacprzyk_et_al_2017
+    head = We put forward a hypothesis that bats may have evolved unique anti-inflammatory responses to neutralize proinflammatory stimuli resulting from flight. This in turn may drive their extraordinary longevity and viral tolerance by limiting inflammation driven ageing and infection-induced immunopathology.
+
+    >>> Abstract
+      Bats are unique among mammals given their ability to fly, apparent tolerance of deadly viruses and extraordinary longevity. We propose that these traits are linked and driven by adaptations of the innate immune system. To explore this hypothesis we challenged macrophages from the greater mouse-eared bat, Myotis myotis and the house mouse, Mus musculus with toll like receptors (TLRs) ligands, lipopolysaccharides, LPS and polyinosinic-polycytidylic acid, Poly(I:C). Macrophages from both species presented a high level of mRNA induction of inferon β (INF-β), tumor necrosis factor (TNF) and interleukin-1β (Il-1β). However, in bat macrophages, this antiviral, proinflammatory response was balanced by a sustained high-level transcription of the anti-inflammatory cytokine Il-10, which was not observed in mouse, potentially resulting from adaptive regulation in bats. Additionally, phylogenomic selection tests across the basal divergences in mammals (n = 39) uncovered bat-specific adaptations in six genes involved in antiviral and proinflammatory signalling. Based on this pilot study, we put forward a hypothesis that bats may have evolved unique anti-inflammatory responses to neutralize proinflammatory stimuli resulting from flight. This in turn may drive their extraordinary longevity and viral tolerance by limiting inflammation driven ageing and infection-induced immunopathology. Further data from other individuals and bat species are required to advance this intriguing hypothesis.
+
+    # / December, 2017 -  ResearchGate
+    # let !a self assert =
+
+  # Tag - Prospects? These papers below (next 3-4) gives idea of immune responses in bats and therefore can be worked to figure out therepeautics
+  // Analysis of Cathepsin and Furin Proteolytic Enzymes Involved in Viral Fusion Protein Activation in Cells of the Bat Reservoir Host
+  doi: https://doi.org/10.1371/journal.pone.0115736
+  ref 'Najjar_et_al_2015
+    head = Results indicate that the unusual role of cathepsin proteases in the life cycle of bat-borne viruses is not due to the lack of active furin-like proteases in these natural reservoir species; however, differences may exist between furin proteases present in fruit bats compared to furins in other mammalian species, and these differences may impact protease usage for viral glycoprotein processing.
+
+    >>> Abstract
+      Bats of different species play a major role in the emergence and transmission of highly pathogenic viruses including Ebola virus, SARS-like coronavirus and the henipaviruses. These viruses require proteolytic activation of surface envelope glycoproteins needed for entry, and cellular cathepsins have been shown to be involved in proteolysis of glycoproteins from these distinct virus families. Very little is currently known about the available proteases in bats. To determine whether the utilization of cathepsins by bat-borne viruses is related to the nature of proteases in their natural hosts, we examined proteolytic processing of several viral fusion proteins in cells derived from two fruit bat species, Pteropus alecto and Rousettus aegyptiacus. Our work shows that fruit bat cells have homologs of cathepsin and furin proteases capable of cleaving and activating both the cathepsin-dependent Hendra virus F and the furin-dependent parainfluenza virus 5 F proteins. Sequence analysis comparing Pteropus alecto furin and cathepsin L to proteases from other mammalian species showed a high degree of conservation; however significant amino acid variation occurs at the C-terminus of Pteropus alecto furin. Further analysis of furin-like proteases from fruit bats revealed that these proteases are catalytically active and resemble other mammalian furins in their response to a potent furin inhibitor. However, kinetic analysis suggests that differences may exist in the cellular localization of furin between different species. Collectively, these results indicate that the unusual role of cathepsin proteases in the life cycle of bat-borne viruses is not due to the lack of active furin-like proteases in these natural reservoir species; however, differences may exist between furin proteases present in fruit bats compared to furins in other mammalian species, and these differences may impact protease usage for viral glycoprotein processing.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+
+    / February, 2015 -  Plos
+    let !a self assert = We showed that P. alecto and R. aegyptiacus have homologues of cathepsin and furin proteases capable of cleaving and activating cathepsin-dependent (Hendra virus F) and furin-dependent (PIV5 F) viral fusion proteins
+
+    / February, 2015 -  Plos
+    let !b self assert = Our data also indicate that the requirements for proteolytic processing of Hendra virus F in bat cells are analogous to those previously determined in Vero cells [47,52]. Temperature reduction experiments or inhibition of cathepsin L prevented both cleavage of Hendra virus F and syncytia formation (data not shown), indicating that vesicular trafficking and a bat homolog of cathepsin L are involved in activation of Hendra virus F in bat cells.
+
+    / February, 2015 -  Plos
+    let !c self assert =  We did not detect a significant difference in the kinetics of Hendra F cleavage in PaKi or R06E compared to Vero cells and levels of cleaved F1 on the cell surface of Vero cells and bat cells were similar (data not shown). These results indicate that Hendra virus F trafficking in bat cells is analogous to that in Vero cells, suggesting that Hendra virus evolved its dependence on cathepsin L to mediate infection through adaptation in its bat natural host.
+
+    / February, 2015 -  Plos
+    let !d self assert = Cleavage of PIV5 F protein and the furin-like enzyme activity assay indicate that bat cells from P. alecto and R. aegyptiacus have active furin-like proteases capable of recognizing and cleaving the furin consensus site R-X-K/R-R in PIV5 F protein and in the fluorogenic furin substrate.These results support recent evidence that R06E cells and other cells derived from different Pteropodidae bat species are sensitive to infection of viruses that utilize furin for mediating infection including filoviruses and paramyxoviruses
+
+    / February, 2015 -  Plos
+    let !e self assert = Kinetics of PIV5 F cleavage indicated that proteolytic processing of the furin-dependent PIV5 F is more rapid in bat cells than in Vero cells with the most rapid cleavage seen in R06E cells; however, the total furin-like enzyme activity assay showed lower total cellular furin-like activity in R06E cells compared to Vero cells.
+
+    / February, 2015 -  Plos
+    let !f self assert = We found that reduction of temperature to 20°C did not completely inhibit cleavage of PIV5 F in R06E cells and PaKi cells, but significantly reduced proteolysis of PIV5 F in Vero cells as was previously shown.
+
+    / February, 2015 -  Plos
+    let !g self assert = Our results show that P. alecto kidney cells had higher activity than other Pteropus cell types, followed by brain cells (PaBr), lung cells (PaLu) and fetus cells, which showed the lowest furin-like activity. Interestingly, furin-like activity in PaLu cells was significantly lower and showed slower kinetics relative to the two human lung cell lines, A549 and BEAS-2B. This finding could indicate either that human lung cells have a greater number of active furin-like enzymes than P. alecto lung cells, or that the individual furin proteases in human lung cells have increased proteolytic activity
+
+  # Origin - Antiviral (Bats Immune system)
+  // Going to Bat(s) for Studies of Disease Tolerance
+  doi: https://doi.org/10.3389/fimmu.2018.02112
+  ref 'Mandl_et_al_2018
+    head = Understanding what immune mechanisms enable bats to coexist with RNA viruses may provide critical fundamental insights into how to achieve greater resilience in humans.
+
+    >>> Abstract
+      A majority of viruses that have caused recent epidemics with high lethality rates in people, are zoonoses originating from wildlife. Among them are filoviruses (e.g., Marburg, Ebola), coronaviruses (e.g., SARS, MERS), henipaviruses (e.g., Hendra, Nipah) which share the common features that they are all RNA viruses, and that a dysregulated immune response is an important contributor to the tissue damage and hence pathogenicity that results from infection in humans. Intriguingly, these viruses also all originate from bat reservoirs. Bats have been shown to have a greater mean viral richness than predicted by their phylogenetic distance from humans, their geographic range, or their presence in urban areas, suggesting other traits must explain why bats harbor a greater number of zoonotic viruses than other mammals. Bats are highly unusual among mammals in other ways as well. Not only are they the only mammals capable of powered flight, they have extraordinarily long life spans, with little detectable increases in mortality or senescence until high ages. Their physiology likely impacted their history of pathogen exposure and necessitated adaptations that may have also affected immune signaling pathways. Do our life history traits make us susceptible to generating damaging immune responses to RNA viruses or does the physiology of bats make them particularly tolerant or resistant? Understanding what immune mechanisms enable bats to coexist with RNA viruses may provide critical fundamental insights into how to achieve greater resilience in humans.
+
+    -- exports
+      !a
+      !b
+
+    / September, 2018 - Frontiers in Immunology
+    let !a self assert = We summarize from Anti-viral immune mechanism of bats, but comparisons of observations made across species suggest that although a number of species appear to be capable of avoiding the pathological effects of RNA virus infection, each bat species may have achieved this through distinct pathways, possibly involving changes to both increase pathogen replication control and to mitigate any immunopathology through decreased inflammatory responses and hence increased disease tolerance
+
+    / September, 2018 - Frontiers in Immunology
+    let !b self assert = Comparative genome studies have confirmed that the critical components of the innate and adaptive immune system are conserved in bats at the gene level and that bats have the machinery for innate responses to pathogen-associated molecular patterns (PAMPs), the production of anti-viral effector molecules such as type I interferons (IFN), T cell responses (variable T cell receptors, MHCI and MHCII), and B cell responses.
+
+    / September, 2018 - Frontiers in Immunology
+    let !c self assert = Cell culture assays with bat cell lines, or, in some instances, primary bat cells, have been used to assess whether bats are permissive for viral replication and to determine whether particular immune receptor signaling pathways are intact.
+
+  # Bats - Antiviral
+  // Bat IFITM3 restriction depends on S-palmitoylation and a polymorphic site within the CD225 domain
+  doi: https://doi.org/10.26508/lsa.201900542
+  ref 'Benfield_et_al_2019
+    head = Host interferon-induced transmembrane proteins (IFITMs) are broad-spectrum antiviral restriction factors. We propose that S-palmitoylation is critical for Chiropteran IFITM3 function and identify a key molecular determinant of IFITM3 S-palmitoylation.
+
+    >>> Abstract
+      Host interferon-induced transmembrane proteins (IFITMs) are broad-spectrum antiviral restriction factors. Of these, IFITM3 potently inhibits viruses that enter cells through acidic endosomes, many of which are zoonotic and emerging viruses with bats (order Chiroptera) as their natural hosts. We previously demonstrated that microbat IFITM3 is antiviral. Here, we show that bat IFITMs are characterized by strong adaptive evolution and identify a highly variable and functionally important site—codon 70—within the conserved CD225 domain of IFITMs. Mutation of this residue in microbat IFITM3 impairs restriction of representatives of four different virus families that enter cells via endosomes. This mutant shows altered subcellular localization and reduced S-palmitoylation, a phenotype copied by mutation of conserved cysteine residues in microbat IFITM3. Furthermore, we show that microbat IFITM3 is S-palmitoylated on cysteine residues C71, C72, and C105, mutation of each cysteine individually impairs virus restriction, and a triple C71A-C72A-C105A mutant loses all restriction activity, concomitant with subcellular re-localization of microbat IFITM3 to Golgi-associated sites. Thus, we propose that S-palmitoylation is critical for Chiropteran IFITM3 function and identify a key molecular determinant of IFITM3 S-palmitoylation.
+
+    # / December, 2019 -  Life Science Alliance
+    # let !a self assert =
+
+
+  # Origin - Bats
+  // Accelerated viral dynamics in bat cell lines, with implications for zoonotic emergence
+  doi: https://doi.org/10.7554/eLife.48401
+  ref 'Brook_et_al_2020
+    head = We present general methods to study cross-scale viral dynamics, which suggest that within-host persistence is supported by robust antiviral responses characteristic of bat immune processes. Viruses which evolve rapid replication rates under these robust antiviral defenses may pose the greatest hazard for cross-species pathogen emergence into spillover hosts with immune systems that differ from those unique to bats.
+
+    >>> Abstract
+      Bats host virulent zoonotic viruses without experiencing disease. A mechanistic understanding of the impact of bats’ virus hosting capacities, including uniquely constitutive immune pathways, on cellular-scale viral dynamics is needed to elucidate zoonotic emergence. We carried out virus infectivity assays on bat cell lines expressing induced and constitutive immune phenotypes, then developed a theoretical model of our in vitro system, which we fit to empirical data. Best fit models recapitulated expected immune phenotypes for representative cell lines, supporting robust antiviral defenses in bat cells that correlated with higher estimates for within-host viral propagation rates. In general, heightened immune responses limit pathogen-induced cellular morbidity, which can facilitate the establishment of rapidly-propagating persistent infections within-host. Rapidly-transmitting viruses that have evolved with bat immune systems will likely cause enhanced virulence following emergence into secondary hosts with immune systems that diverge from those unique to bats.
+
+    # / February, 2020 -  Elife
+    # let !a self assert =
+
+  # Origin - Bats
+  // Lack of inflammatory gene expression in bats: a unique role for a transcription repressor
+  doi: https://doi.org/10.1038/s41598-017-01513-w
+  ref 'Banerjee_et_al_2017
+    head = Identifying unique defence mechanisms in bats might allow us to extend the knowledge for therapeutic purposes in spill-over hosts that often develop significant disease or succumb to infections with these viruses.
+
+    >>> Abstract
+      In recent years viruses similar to those that appear to cause no overt disease in bats have spilled-over to humans and other species causing serious disease. Since pathology in such diseases is often attributed to an over-active inflammatory response, we tested the hypothesis that bat cells respond to stimulation of their receptors for viral ligands with a strong antiviral response, but unlike in human cells, the inflammatory response is not overtly activated. We compared the response of human and bat cells to poly(I:C), a viral double-stranded RNA surrogate. We measured transcripts for several inflammatory, interferon and interferon stimulated genes using quantitative real-time PCR and observed that human and bat cells both, when stimulated with poly(I:C), contained higher levels of transcripts for interferon beta than unstimulated cells. In contrast, only human cells expressed robust amount of RNA for TNFα, a cell signaling protein involved in systemic inflammation. We examined the bat TNFα promoter and found a potential repressor (c-Rel) binding motif. We demonstrated that c-Rel binds to the putative c-Rel motif in the promoter and knocking down c-Rel transcripts significantly increased basal levels of TNFα transcripts. Our results suggest bats may have a unique mechanism to suppress inflammatory pathology.
+
+    # / May, 2017 - Scientific reports
+    # let !a self assert =
+
+
+
+  # Tag - Origin, SARS
+  // Angiotensin-converting enzyme 2 (ACE2) proteins of different bat species confer variable susceptibility to SARS-CoV entry
+  doi: https://doi.org/10.1007/s00705-010-0729-6
+  ref 'Hou_et_al_2010
+    head = Our Study demonstrates that the genetic diversity of ACE2 among bats is greater than that observed among known SARS-CoV susceptible mammals, highlighting the possibility that there are many more uncharacterized bat species that can act as a reservoir of SARS-CoV or its progenitor viruses.
+
+    >>> Abstract
+      The discovery of SARS-like coronavirus in bats suggests that bats could be the natural reservoir of SARS-CoV. However, previous studies indicated the angiotensin-converting enzyme 2 (ACE2) protein, a known SARS-CoV receptor, from a horseshoe bat was unable to act as a functional receptor for SARS-CoV. Here, we extended our previous study to ACE2 molecules from seven additional bat species and tested their interactions with human SARS-CoV spike protein using both HIV-based pseudotype and live SARS-CoV infection assays. The results show that ACE2s of Myotis daubentoni and Rhinolophus sinicus support viral entry mediated by the SARS-CoV S protein, albeit with different efficiency in comparison to that of the human ACE2. Further, the alteration of several key residues either decreased or enhanced bat ACE2 receptor efficiency, as predicted from a structural modeling study of the different bat ACE2 molecules. These data suggest that M. daubentoni and R. sinicus are likely to be susceptible to SARS-CoV and may be candidates as the natural host of the SARS-CoV progenitor viruses. Furthermore, our current study also demonstrates that the genetic diversity of ACE2 among bats is greater than that observed among known SARS-CoV susceptible mammals, highlighting the possibility that there are many more uncharacterized bat species that can act as a reservoir of SARS-CoV or its progenitor viruses. This calls for continuation and expansion of field surveillance studies among different bat populations to eventually identify the true natural reservoir of SARS-CoV.
+
+    # / June, 2010 -  Archives of Virology
+    # let !a self assert =
+
+  # Tag - Co-morbidity - Men more than women based on small sample size
+  // Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study
+  doi: https://doi.org/10.1016/S0140-6736(20)30211-7
+  ref 'Chen_et_al_2020c
+    head = The 2019-nCoV infection was of clustering onset, is more likely to affect older males with comorbidities, and can result in severe and even fatal respiratory diseases such as acute respiratory distress syndrome.
+
+    >>> Background
+      In December, 2019, a pneumonia associated with the 2019 novel coronavirus (2019-nCoV) emerged in Wuhan, China. We aimed to further clarify the epidemiological and clinical characteristics of 2019-nCoV pneumonia.
+
+    >>> Methods
+      In this retrospective, single-centre study, we included all confirmed cases of 2019-nCoV in Wuhan Jinyintan Hospital from Jan 1 to Jan 20, 2020. Cases were confirmed by real-time RT-PCR and were analysed for epidemiological, demographic, clinical, and radiological features and laboratory data. Outcomes were followed up until Jan 25, 2020.
+
+    >>> Findings
+      Of the 99 patients with 2019-nCoV pneumonia, 49 (49%) had a history of exposure to the Huanan seafood market. The average age of the patients was 55·5 years (SD 13·1), including 67 men and 32 women. 2019-nCoV was detected in all patients by real-time RT-PCR. 50 (51%) patients had chronic diseases. Patients had clinical manifestations of fever (82 [83%] patients), cough (81 [82%] patients), shortness of breath (31 [31%] patients), muscle ache (11 [11%] patients), confusion (nine [9%] patients), headache (eight [8%] patients), sore throat (five [5%] patients), rhinorrhoea (four [4%] patients), chest pain (two [2%] patients), diarrhoea (two [2%] patients), and nausea and vomiting (one [1%] patient). According to imaging examination, 74 (75%) patients showed bilateral pneumonia, 14 (14%) patients showed multiple mottling and ground-glass opacity, and one (1%) patient had pneumothorax. 17 (17%) patients developed acute respiratory distress syndrome and, among them, 11 (11%) patients worsened in a short period of time and died of multiple organ failure.
+
+    >>> Interpretation
+      The 2019-nCoV infection was of clustering onset, is more likely to affect older males with comorbidities, and can result in severe and even fatal respiratory diseases such as acute respiratory distress syndrome. In general, characteristics of patients who died were in line with the MuLBSTA score, an early warning model for predicting mortality in viral pneumonia. Further investigation is needed to explore the applicability of the MuLBSTA score in predicting the risk of mortality in 2019-nCoV infection.
+
+    # / January, 2020 - ScienceDirect
+    # let !a self assert =
+
+  # Tag - Chronically Ill - Comorbidit conditions
+  // Comorbidity and its impact on 1,590 patients with COVID-19 in China: A Nationwide Analysis
+  doi: https://doi.org/10.1183/13993003.00547-2020
+  ref 'Guan_et_al_2020
+    head = From this study, Patients with at least one comorbidity, or more even so, were associated with poor clinical outcomes and had greater disease severity compared with those without.
+
+    >>> Background
+      The coronavirus disease 2019 (Covid-19) outbreak is evolving rapidly worldwide.
+
+    >>> Objective
+      To evaluate the risk of serious adverse outcomes in patients with coronavirus disease 2019 (Covid-19) by stratifying the comorbidity status.
+
+    >>> Methods
+      We analysed the data from 1590 laboratory-confirmed hospitalised patients 575 hospitals in 31 province/autonomous regions/provincial municipalities across mainland China between December 11th, 2019 and January 31st, 2020. We analyse the composite endpoints, which consisted of admission to intensive care unit, or invasive ventilation, or death. The risk of reaching to the composite endpoints was compared according to the presence and number of comorbidities.
+
+    >>> Results
+      The mean age was 48.9 years. 686 patients (42.7%) were females. Severe cases accounted for 16.0% of the study population. 131 (8.2%) patients reached to the composite endpoints. 399 (25.1%) reported having at least one comorbidity. The most prevalent comorbidity was hypertension (16.9%), followed by diabetes (8.2%). 130 (8.2%) patients reported having two or more comorbidities. After adjusting for age and smoking status, COPD [hazards ratio (HR) 2.681, 95% confidence interval (95%CI) 1.424–5.048], diabetes (HR 1.59, 95%CI 1.03–2.45), hypertension (HR 1.58, 95%CI 1.07–2.32) and malignancy (HR 3.50, 95%CI 1.60–7.64) were risk factors of reaching to the composite endpoints. The HR was 1.79 (95%CI 1.16–2.77) among patients with at least one comorbidity and 2.59 (95%CI 1.61–4.17) among patients with two or more comorbidities.
+
+    >>> Conclusion
+      Among laboratory-confirmed cases of Covid-19, patients with any comorbidity yielded poorer clinical outcomes than those without. A greater number of comorbidities also correlated with poorer clinical outcomes.
+
+    -- exports
+      !a
+      !b
+
+    / March, 2020 - European Respiratory Journal
+    let !a self assert = Immune dysregulation and prolonged inflammation might be the key drivers of the poor clinical outcomes in patients with Covid-19 but await verification in more mechanistic studies.
+
+    / March, 2020 - European Respiratory Journal
+    let !b self assert = Patients with co-existing comorbidities are more likely to have poorer baseline well-being. Importantly, we have verified the significantly escalated risk of poor prognosis in patients with two or more comorbidities as compared with those who had no or only a single comorbidity.
+
+
+  # Co-Morbid condition - vulnerable groups, Diabetic
+  // Pulmonary Infectious Mortality Among Patients With End-Stage Renal Disease
+  doi: https://doi.org/10.1378/chest.120.6.1883
+  ref 'Sarnak_et_al_2001
+    head = Patients with ESRD treated with dialysis have higher pulmonary infectious mortality rates compared with the GP (General Population), even after stratification for age, race, and DM (diabetes mellitus).
+
+    >>> Background
+      Infection is the second-leading cause of death among patients with end-stage renal disease (ESRD). This is due in part to advanced age, comorbid conditions, and immune dysfunction observed in uremic states. Although one may hypothesize that pulmonary infectious mortality is higher among patients with ESRD compared with the general population (GP), no such data are currently available.
+
+    >>> Methods
+      We compared annual pulmonary infectious mortality rates among patients with ESRD to those in the GP. The data were abstracted from the United States Renal Data System and the National Center for Health Statistics, respectively, and were stratified by age, gender, race, and presence or absence of diabetes mellitus (DM). In the GP, primary and multiple cause-of-death analyses were performed to account for potential limitations of the data sources.
+
+    >>> Results
+      Overall, pulmonary infectious mortality rate was 14-fold to 16-fold higher in dialysis patients and approximately twofold higher in renal transplant recipients compared with the GP. After stratification for age, differences between groups decreased but retained their magnitude.
+
+    >>> Conclusion
+      Patients with ESRD treated with dialysis have higher pulmonary infectious mortality rates compared with the GP, even after stratification for age, race, and DM. Consequently, this patient population must be considered at high risk for the development of lethal pulmonary infections.
+
+    # / December, 2001 -  Chest
+    # let !a self assert =
+
+  # Pregnant women
+  // Guidelines for pregnant women with suspected SARS-CoV-2 infection
+  doi: https://doi.org/10.1016/S1473-3099(20)30157-2
+  ref 'Favre_et_al_2020
+    head = Vertical transmission of the SARS-CoV-2 responsible for COVID-19, has not yet been detected, whereas perinatal transmission has been suspected in one case.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+
+    / March, 2020 - ScienceDirect
+    let !a self assert =  Pregnant women with COVID-19 pneumonia should be managed by a multidisciplinary team at a tertiary care centre. When quick Sepsis-related Organ Failure Assessment criteria are met, the patient should be transferred to an intensive care unit.
+
+    / March, 2020 - ScienceDirect
+    let !b self assert = For pregnant women with confirmed infection, the choice of delivery timing should be individualised depending on the week of gestation and maternal, fetal, and delivery conditions.
+
+    / March, 2020 - ScienceDirect
+    let !c self assert = Whenever possible, vaginal delivery via induction of labour, with eventual instrumental delivery to avoid maternal exhaustion, should be favoured to avoid unnecessary surgical complications in an already sick patient.
+
+    / March, 2020 - ScienceDirect
+    let !d self assert = Newborns of mothers positive for SARS-CoV-2 should be isolated for at least 14 days or until viral shedding clears, during which time direct breastfeeding is not recommended.
+
+
+  # Facemasks
+  // Respiratory virus shedding in exhaled breath and efficacy of face masks
+  doi: https://doi.org/10.5061/dryad.w9ghx3fkt
+  ref 'Leung_et_al_2020
+    head = Surgical facemasks could prevent transmission of human coronaviruses and influenza viruses from symptomatic individuals.
+
+    >>> Abstract
+      We identified seasonal human coronaviruses, influenza viruses and rhinoviruses in the exhaled breath and coughs of children and adults with acute respiratory illness. Surgical face masks significantly reduced detection of influenza virus RNA in respiratory droplets and coronavirus RNA in aerosols, with a marginally significant reduction in coronavirus RNA in respiratory droplets. Our results indicate that surgical facemasks could prevent transmission of human coronaviruses and influenza viruses from symptomatic individuals.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / March, 2020 - Dryad
+    let !a self assert = Our study demonstrates detection of human seasonal coronaviruses in exhaled breath, including the detection of OC43 and HKU1 from respiratory droplets and NL63, OC43 and HKU1 from aerosols.
+
+    / March, 2020 - Dryad
+    let !b self assert = Viral RNA was identified from respiratory droplets and aerosols for all three viruses, including 30%, 26% and 28% of respiratory droplets and 40%, 35% and 56% of aerosols collected while not wearing a face mask, from coronavirus, influenza virus and rhinovirus-infected participants, respectively (Table 1b). In particular for coronavirus, we identified OC43 and HKU1 from both respiratory droplets and aerosols, but only identified NL63 from aerosols and not from respiratory droplets
+
+    / March, 2020 - Dryad
+    let !c self assert = Among the samples collected without a face mask, we found that the majority of participants with influenza virus and coronavirus infection did not shed detectable virus in respiratory droplets or aerosols, whereas for rhinovirus we detected virus in aerosols in 19 of 34 (56%) participants (compared to 4 of 10 (40%) for influenza and 8 of 23 (35%) for coronavirus). For those who did shed virus in respiratory droplets and aerosols, viral load in both tended to be low
+
+    / March, 2020 - Dryad
+    let !d self assert = Given the high collection efficiency of the G-II (ref. 19) and given that each exhaled breath collection was conducted for 30 min, this might imply that prolonged close contact would be required for transmission to occur, even if transmission was primarily via aerosols, as has been described for rhinovirus colds20
+
+    / March, 2020 - Dryad
+    let !e self assert = Our results also indicate that there could be considerable heterogeneity in contagiousness of individuals with coronavirus and influenza virus infections.Our results also indicate that there could be considerable heterogeneity in contagiousness of individuals with coronavirus and influenza virus infections.
+
+  # Viral shedding among asymptomatic/ Superspreader
+  // Evidence of SARS-CoV-2 Infection in Returning Travelers from Wuhan, China
+  doi: https://doi.org/10.1056/NEJMc2001899
+  ref 'Hoehl_et_al_2020
+    head = To evacuate 126 people from Wuhan to Frankfurt, a symptom-based screening process was ineffective in detecting SARS-CoV-2 infection in 2 persons who later were found to have evidence of SARS-CoV-2 in a throat swab. We discovered that shedding of potentially infectious virus may occur in persons who have no fever and no signs or only minor signs of infection.
+
+    # / February, 2020 -  N Engl J Med
+    # let !a self assert =
+
+  # Incubation Period
+  // Incubation Period and Other Epidemiological Characteristics of 2019 Novel Coronavirus Infections with Right Truncation: A Statistical Analysis of Publicly Available Case Data
+  doi: https://doi.org/10.3390/jcm9020538
+  ref 'Linton_et_al_2020
+    head = The 95th percentile of the incubation period is around 10–14 days, indicating that a 14-day quarantine period would largely ensure the absence of disease among healthy exposed individuals.
+
+    >>> Abstract
+      The geographic spread of 2019 novel coronavirus (COVID-19) infections from the epicenter of Wuhan, China, has provided an opportunity to study the natural history of the recently emerged virus. Using publicly available event-date data from the ongoing epidemic, the present study investigated the incubation period and other time intervals that govern the epidemiological dynamics of COVID-19 infections. Our results show that the incubation period falls within the range of 2–14 days with 95% confidence and has a mean of around 5 days when approximated using the best-fit lognormal distribution. The mean time from illness onset to hospital admission (for treatment and/or isolation) was estimated at 3–4 days without truncation and at 5–9 days when right truncated. Based on the 95th percentile estimate of the incubation period, we recommend that the length of quarantine should be at least 14 days. The median time delay of 13 days from illness onset to death (17 days with right truncation) should be considered when estimating the COVID-19 case fatality risk.
+
+    -- exports
+      !a
+
+    / February, 2020 -  J. Clin. Med.
+    let !a self assert = We stress that the 17–24-day time delay from illness onset to death must be addressed when estimating COVID-19 case fatality risk.
+
+
+  # Incubation Period
+  // Serial interval of novel coronavirus (2019-nCoV) infections
+  doi: https://doi.org/10.1101/2020.02.03.20019497
+  ref 'Nishiura_et_al_2020
+    head = The serial interval of COVID-19 is shorter than its median incubation period. This suggests that a substantial proportion of secondary transmission may occur prior to illness onset.
+
+    >>> Objective
+      To estimate the serial interval of novel coronavirus (COVID-19) from information on 28 infector-infectee pairs.
+
+    >>> Methods
+      We collected dates of illness onset for primary cases (infectors) and secondary cases (infectees) from published research articles and case investigation reports. We subjectively ranked the credibility of the data and performed analyses on both the full dataset (n=28) and a subset of pairs with highest certainty in reporting (n=18). In addition, we adjusting for right truncation of the data as the epidemic is still in its growth phase.
+
+    >>>  Results
+      Accounting for right truncation and analyzing all pairs, we estimated the median serial interval at 4.0 days (95% credible interval [CrI]: 3.1, 4.9). Limiting our data to only the most certain pairs, the median serial interval was estimated at 4.6 days (95% CrI: 3.5, 5.9).
+
+    >>> Conclusions
+      The serial interval of COVID-19 is shorter than its median incubation period. This suggests that a substantial proportion of secondary transmission may occur prior to illness onset. The COVID-19 serial interval is also shorter than the serial interval of severe acute respiratory syndrome (SARS), indicating that calculations made using the SARS serial interval may introduce bias.
+
+
+    # / February, 2020 -  medRxiv
+    # let !a self assert =
+
+  # Incubation Period
+  // Transmission of corona virus disease 2019 during the incubation period may lead to a quarantine loophole
+  doi: https://doi.org/10.1101/2020.03.06.20031955
+  ref 'Xia_et_al_2020
+    head = The COVID-19 cases in the incubation period are potential infection sources, especially within three days prior to the symptom onset. It is imperative to trace back the close contacts of confirmed cases before the symptom onset and avoid the quarantine loopholes.
+
+    >>> Background
+      The ongoing outbreak of novel corona virus disease 2019 (COVID-19) in Wuhan, China, is arousing international concern. This study evaluated whether and when the infected but asymptomatic cases during the incubation period could infect others.
+
+    >>> Methods
+      We collected data on demographic characteristics, exposure history, and symptom onset day of the confirmed cases, which had been announced by the Chinese local authorities. We evaluated the potential of transmission during the incubation period in 50 infection clusters, including 124 cases. All the secondary cases had a history of contact with their first-generation cases prior to symptom onset.
+
+    >>> Results
+      The estimated mean incubation period for COVID-19 was 4.9 days (95% confidence interval [CI], 4.4 to 5.4) days, ranging from 0.8 to 11.1 days (2.5th to 97.5th percentile). The observed mean and standard deviation (SD) of serial interval was 4.1±3.3 days, with the 2.5th and 97.5th percentiles at -1 and 13 days. The infectious curve showed that in 73.0% of the secondary cases, their date of getting infected was before symptom onset of the first-generation cases, particularly in the last three days of the incubation period.
+
+    >>> Conclusions
+      The results indicated the transmission of COVID-9 occurs among close contacts during the incubation period, which may lead to a quarantine loophole Strong and effective countermeasures should be implemented to prevent or mitigate asymptomatic transmission during the incubation period in populations at high risk.
+
+
+    # / March, 2020 - medRxiv
+    # let !a self assert =
+
+  # Incubation Period
+  // Transmission interval estimates suggest pre-symptomatic spread of COVID-19"
+  doi: https://doi.org/10.1101/2020.03.03.20029983
+  ref 'Tindale_et_al_2020
+    head = Based on this paper's studies, The estimated mean incubation period for COVID-19 was 4.9 days (ranging from 0.8 to 11.1 days). The infectious curve showed that in 73.0% of the secondary cases, their date of getting infected was before symptom onset of the first-generation cases, particularly in the last three days of the incubation period.
+
+    >>> Abstract
+      The ongoing outbreak of novel corona virus disease 2019 (COVID-19) in Wuhan, China, is arousing international concern. This study evaluated whether and when the infected but asymptomatic cases during the incubation period could infect others. Methods: We collected data on demographic characteristics, exposure history, and symptom onset day of the confirmed cases, which had been announced by the Chinese local authorities. We evaluated the potential of transmission during the incubation period in 50 infection clusters, including 124 cases. All the secondary cases had a history of contact with their first-generation cases prior to symptom onset. Results: The estimated mean incubation period for COVID-19 was 4.9 days (95% confidence interval [CI], 4.4 to 5.4) days, ranging from 0.8 to 11.1 days (2.5th to 97.5th percentile). The observed mean and standard deviation (SD) of serial interval was 4.1±3.3 days, with the 2.5th and 97.5th percentiles at -1 and 13 days. The infectious curve showed that in 73.0% of the secondary cases, their date of getting infected was before symptom onset of the first-generation cases, particularly in the last three days of the incubation period. Conclusions: The results indicated the transmission of COVID-9 occurs among close contacts during the incubation period, which may lead to a quarantine loophole. Strong and effective countermeasures should be implemented to prevent or mitigate asymptomatic transmission during the incubation period in populations at high risk.
+
+
+    # / March, 2020 - medRxiv
+    # let !a self assert =
+
+  # Asymtomatic, Pre-symptomatic carriers
+  //  The serial interval of COVID-19 from publicly reported confirmed cases
+  doi: https://doi.org/10.1101/2020.02.19.20025452
+  ref 'Du_et_al_2020
+    head = We obtained data on 468 COVID-19 transmission events. 59 of the 468 reports indicate that the infectee developed symptoms earlier than the infector. Thus, pre-symptomatic transmission may be occurring i.e., infected persons may be infectious before their symptoms appear.
+
+    >>> Abstract
+      As a novel coronavirus (COVID-19) continues to emerge throughout China and threaten the globe, its transmission characteristics remain uncertain. Here, we analyze the serial intervals-the time period between the onset of symptoms in an index (infector) case and the onset of symptoms in a secondary (infectee) case-of 468 infector-infectee pairs with confirmed COVID-19 cases reported by health departments in 18 Chinese provinces between January 21, 2020, and February 8, 2020. The reported serial intervals range from -11 days to 20 days, with a mean of 3.96 days (95% confidence interval: 3.53-4.39), a standard deviation of 4.75 days (95% confidence interval: 4.46-5.07), and 12.6% of reports indicating pre-symptomatic transmission.
+
+    -- exports
+      !a
+      !b
+
+    / March, 2020 - medRxiv
+    let !a self assert = Combining the findings with published estimates for the early exponential growth rate COVID-19 in Wuhan  we estimate a basic reproduction number (R0) of 1.32  which is lower than published estimates that assume a mean serial interval exceeding seven days.
+
+    / March, 2020 - medRxiv
+    let !b self assert = There are 301 unique infectors across the 468 infector-infectee pairs. The number of transmission events reported per infector ranges from 1 to 16, with ~55% having only one.
+
+  # Incubation period - Incubation cycle / Trajectory
+  // Incubation periods of acute respiratory viral infections: a systematic review
+  doi: https://doi.org/10.1016/S1473-3099(09)70069-6
+  ref 'Lessler_et_al_2013
+    head = This paper has combined published empirical data to provide estimates of the incubation period for nine important respiratory viruses.
+
+    >>> Abstract
+      Knowledge of the incubation period is essential in the investigation and control of infectious disease, but statements of incubation period are often poorly referenced, inconsistent, or based on limited data. In a systematic review of the literature on nine respiratory viral infections of public-health importance, we identified 436 articles with statements of incubation period and 38 with data for pooled analysis. We fitted a log-normal distribution to pooled data and found the median incubation period to be 5·6 days (95% CI 4·8–6·3) for adenovirus, 3·2 days (95% CI 2·8–3·7) for human coronavirus, 4·0 days (95% CI 3·6–4·4) for severe acute respiratory syndrome coronavirus, 1·4 days (95% CI 1·3–1·5) for influenza A, 0·6 days (95% CI 0·5–0·6) for influenza B, 12·5 days (95% CI 11·8–13·3) for measles, 2·6 days (95% CI 2·1–3·1) for parainfluenza, 4·4 days (95% CI 3·9–4·9) for respiratory syncytial virus, and 1·9 days (95% CI 1·4–2·4) for rhinovirus. When using the incubation period, it is important to consider its full distribution: the right tail for quarantine policy, the central regions for likely times and sources of infection, and the full distribution for models used in pandemic planning. Our estimates combine published data to give the detail necessary for these and other applications.
+
+
+    # / February, 2013 -  Lancet Infect Disease
+    # let !a self assert =
+
+
+
+  # Tag - Asymtomatic / Pre- Symptomatic Carriers / Latent Period
+  // The reachability of contagion in temporal contact networks: how disease latency can exploit the rhythm of human behavior
+  doi: https://doi.org/10.1186/s12879-018-3117-6
+  ref 'Colman_et_al_2018
+    head = The rate of contact between individuals fluctuates periodically in time with the cycles of human social activity. The impact of infectious disease is maximized when timing of infectiousness is synchronized with these temporal dynamics.
+
+    >>> Background
+      The symptoms of many infectious diseases influence their host to withdraw from social activity limiting their potential to spread. Successful transmission therefore requires the onset of infectiousness to coincide with a time when the host is socially active. Since social activity and infectiousness are both temporal phenomena, we hypothesize that diseases are most pervasive when these two processes are synchronized.
+
+    >>> Methods
+      We consider disease dynamics that incorporate behavioral responses that effectively shorten the infectious period of the pathogen. Using data collected from face-to-face social interactions and synthetic contact networks constructed from empirical demographic data, we measure the reachability of this disease model and perform disease simulations over a range of latent period durations.
+
+    >>> Results
+      We find that maximum transmission risk results when the disease latent period (and thus the generation time) are synchronized with human circadian rhythms of 24 h, and minimum transmission risk when latent periods are out of phase with circadian rhythms by 12 h. The effect of this synchronization is present for a range of disease models with realistic disease parameters and host behavioral responses.
+
+    >>> Conclusions
+      The reproductive potential of pathogens is linked inextricably to the host social behavior required for transmission. We propose that future work should consider contact periodicity in models of disease dynamics, and suggest the possibility that disease control strategies may be designed to optimize against the effects of synchronization.
+
+    # / May, 2018 -  BMC Infectious Diseases
+    # let !a self assert =
+
+  # Tag - Serology, Antibodies
+  //  The time course of the immune response to experimental coronavirus infection of man
+  doi: https://doi.org/10.1017/s0950268800048019
+  ref 'Ka_et_al_1990
+    head = In 1990 study of 15 volunteers who were deliberately infected with a different coronavirus squirted into their nose, with immunity monitored for a year. Immunity reached a maximum at 2 weeks. It had lapsed by a year later.
+
+    >>> Summary
+      After preliminary trials, the detailed changes in the concentration of specific circulating and local antibodies were followed in 15 volunteers inoculated with coronavirus 229E. Ten of them, who had significantly lower concentrations of pre-existing antibody than the rest, became infected and eight of these developed colds. A limited investigation of circulating lymphocyte populations showed some lymphocytopenia in infected volunteers. In this group, antibody concentrations started to increase 1 week after inoculation and reached a maximum about 1 week later. Thereafter antibody titres slowly declined. Although concentrations were still slightly raised 1 year later, this did not always prevent reinfection when volunteers were then challenged with the homologous virus. However, the period of virus shedding was shorter than before and none developed a cold. All of the uninfected group were infected on re-challenge although they also appeared to show some resistance to disease and in the extent of infection. These results are discussed with reference to natural infections with coronavirus and with other infections, such as rhinovirus infections.
+
+    # / Oct, 1990 - epidemiology & infection
+    # let !a self assert =
+
+  # Tag- Serology Testing - Antibodies
+  // A serological assay to detect SARS-CoV-2 seroconversion in humans
+  doi: https://doi.org/10.1101/2020.03.17.20037713
+  ref 'Amanat_et_al_2020
+    head = Our data show strong seroconversion after natural infection with SARS-CoV-2. Results from our assays suggest that antibodies mounted upon infection target the full length S protein as well as the RBD, which is the major target for neutralizing antibodies for related viruses coronaviruses.
+
+    >>> Abstract
+      SARS-Cov-2 (severe acute respiratory disease coronavirus 2), which causes Coronavirus Disease 2019 (COVID19) was first detected in China in late 2019 and has since then caused a global pandemic. While molecular assays to directly detect the viral genetic material are available for the diagnosis of acute infection, we currently lack serological assays suitable to specifically detect SARS-CoV-2 antibodies. Here we describe serological enzyme-linked immunosorbent assays (ELISA) that we developed using recombinant antigens derived from the spike protein of SARS-CoV-2. Using negative control samples representing pre-COVID 19 background immunity in the general adult population as well as samples from COVID19 patients, we demonstrate that these assays are sensitive and specific, allowing for screening and identification of COVID19 seroconverters using human plasma/serum as early as two days post COVID19 symptoms onset. Importantly, these assays do not require handling of infectious virus, can be adjusted to detect different antibody types and are amendable to scaling. Such serological assays are of critical importance to determine seroprevalence in a given population, define previous exposure and identify highly reactive human donors for the generation of convalescent serum as therapeutic. Sensitive and specific identification of coronavirus SARS-Cov-2 antibody titers may, in the future, also support screening of health care workers to identify those who are already immune and can be deployed to care for infected patients minimizing the risk of viral spread to colleagues and other patients.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / March, 2020 - cold spring harbor laboratory
+    let !a self assert = One complexity with measuring antibodies in bodily fluids of COVID19 patients is, that infectious virus could be present in the biospecimen, especially early during acute infection.
+
+    / March, 2020 - cold spring harbor laboratory
+    let !b self assert = Several of the sera from individuals with confirmed COVID19 showed very strong neutralizing activity with 50% inhibitory concentrations in the hundreds and thousands. Thus, seroconversion might lead to protection from reinfection.
+
+    / March, 2020 - cold spring harbor laboratory
+    let !c self assert = The ELISA reagents used are derived from the original sequence from Wuhan, the neutralization assays were performed with USA-WA1/2020 (an Asian lineage strain) while the majority of sera were obtained from subjects infected with European-lineage viruses. The observed correlation between ELISA and neutralization assays hints at minimal antigenic changes.
+
+    / March, 2020 - cold spring harbor laboratory
+    let !d self assert = Another interesting finding was, that the IgG3 response appeared stronger than the IgG1 response which is in contrast to e.g. the immune response to influenza where usually IgG1 responses dominate.
+
+    / March, 2020 - cold spring harbor laboratory
+    let !e self assert = We also detected strong IgA and IgM responses in the blood compartment. Of note, level of reactivity and antibody isotypes closely matched expected patterns based on time since symptom onset very well.
+
+    / March, 2020 - cold spring harbor laboratory
+    let !f self assert = We believe that our ELISA method will be key for serosurveys aimed at determining the real attack rate and infection fatality rate in different human populations and to map the kinetics of the antibody response to SARS-CoV-2.
+
+  # Tag - Serology Test , How long antibodies last
+  // Molecular and serological investigation of 2019-nCoV infected patients: implication of multiple shedding routes
+  doi: https://doi.org/10.1080/22221751.2020.1729071
+  ref 'Zhang_et_al_2020g
+    head = IgM and IgG titres were relatively low or undetectable in day 0. On day 5, an increase of viral antibodies can be seen in nearly all patients. IgM positive rate increased from 50% (8/16) to 81% (13/16), whereas IgG positive rate increased from 81% (13/16) to 100% (16/16).
+
+    >>> Abstract
+      In December 2019, a novel coronavirus (2019-nCoV) caused an outbreak in Wuhan, China, and soon spread to other parts of the world. It was believed that 2019-nCoV was transmitted through respiratory tract and then induced pneumonia, thus molecular diagnosis based on oral swabs was used for confirmation of this disease. Likewise, patient will be released upon two times of negative detection from oral swabs. However, many coronaviruses can also be transmitted through oral–fecal route by infecting intestines. Whether 2019-nCoV infected patients also carry virus in other organs like intestine need to be tested. We conducted investigation on patients in a local hospital who were infected with this virus. We found the presence of 2019-nCoV in anal swabs and blood as well, and more anal swab positives than oral swab positives in a later stage of infection, suggesting shedding and thereby transmitted through oral–fecal route. We also showed serology test can improve detection positive rate thus should be used in future epidemiology. Our report provides a cautionary warning that 2019-nCoV may be shed through multiple routes.
+
+
+    # / February, 2020 -  Emerging microbes and infections
+    # let !a self assert =
+
+  # Serology Testing
+  // Seropepidemiologic studies of coronavirus infections in adults and children.
+  doi: https://doi.org/10.1093/oxfordjournals.aje.a121171
+  ref 'Mcintosh_et_al_1970
+    head = In this paper, The limitations of the CF (Complement fixing) test using available coronavirus antigens are discussed.
+
+    >>> Abstract
+      A seroepidemiologic study of infection by coronavirus strains 229E, OC38, OC43, and mouse hepatitis virus (MHV) strain A-59, is described. In adults with upper respiratory disease, two “outbreaks” of coronavirus infection occurred, one during the winter of 1965–1966 associated with complement fixing (CF) antibody responses to OC38, OC43 and MHV, and the other during the following winter associated with CF antibody responses to 229E. In hospitalized children, infection with 229E was rare; infection with OC38, OC43, and MHV occurred less often in hospitalized children with lower respiratory tract disease (3.5%) than in a control group with non-respiratory tract disease (8.2%). The limitations of the CF test using available coronavirus antigens are discussed.
+
+
+    # / June, 1970 -  American Journal of Epidemiology
+
+  # Testing - RT-PCR
+  // Performance of rapid influenza H1N1 diagnostic tests: a meta‐analysis
+  doi: https://doi.org/10.1111/j.1750-2659.2011.00284.x
+  ref 'Chut_et_al_2011
+    head = Real‐time reverse‐transcriptase polymerase chain reaction remains the most accurate method for detecting 2009 pandemic influenza A (H1N1) virus infection.
+
+    >>> Background
+      Following the outbreaks of 2009 pandemic H1N1 infection, rapid influenza diagnostic tests have been used to detect H1N1 infection. However, no meta‐analysis has been undertaken to assess the diagnostic accuracy when this manuscript was drafted.
+
+    >>> Methods
+      The literature was systematically searched to identify studies that reported the performance of rapid tests. Random effects meta‐analyses were conducted to summarize the overall performance.
+
+    >>> Results
+      Seventeen studies were selected with 1879 cases and 3477 non‐cases. The overall sensitivity and specificity estimates of the rapid tests were 0·51 (95%CI: 0·41, 0·60) and 0·98 (95%CI: 0·94, 0·99). Studies reported heterogeneous sensitivity estimates, ranging from 0·11 to 0·88. If the prevalence was 30%, the overall positive and negative predictive values were 0·94 (95%CI: 0·85, 0·98) and 0·82 (95%CI: 0·79, 0·85). The overall specificities from different manufacturers were comparable, while there were some differences for the overall sensitivity estimates. BinaxNOW had a lower overall sensitivity of 0·39 (95%CI: 0·24, 0·57) compared with all the others (P‐value <0·001), whereas QuickVue had a higher overall sensitivity of 0·57 (95%CI: 0·50, 0·63) compared with all the others (P‐value = 0·005).
+
+    >>> Conclusions
+      Rapid tests have high specificity but low sensitivity and thus limited usefulness.
+
+    #  / August, 2011 -  Influenza and Other Respiratory Viruses
+
+
+  # Testing
+  // Comparing Luminex NxTAG‐Respiratory Pathogen Panel and RespiFinder‐22 for multiplex detection of respiratory pathogens
+  doi: https://doi.org/10.1002/jmv.24492
+  ref 'Beckmann_et_al_2016
+    head = NxTAG‐RPP and RespiFinder‐22® provided highly concordant results. The sensitivity of the new assay is excellent and even seems to have superior sensitivity for some pathogens.
+
+    >>> Abstract
+      Respiratory tract infection (RTI) involves a variety of viruses and bacteria, which can be conveniently detected by multiplex nucleic acid amplification testing (NAT). To compare the novel Luminex‐based NxTAG‐Respiratory Pathogen Panel (NxTAG‐RPP) with the routine multiplex‐ligation‐NAT based RespiFinder‐22® (RF‐22), 282 respiratory specimens including nasopharyngeal swabs (71%), broncho‐alveolar lavage (27%), throat swabs, tracheal secretions, and sputum (2%) from 116 children and 155 adults were extracted using a Corbett CAS1200 (Qiagen), and analyzed in parallel by the routine RF‐22 and NxTAG‐RPP. Concordant results were obtained in 263 (93.3%) cases consisting of concordant positives in 167 (59.2%) and concordant negatives in 96 (34%). Results were discordant in 19 (6.7%) consisting of 15 positive:negative, and 4 negative:positive results by NxTAG‐RPP versus RF‐22, respectively. Co‐infections were observed in 10.3% with NxTAG‐RPP and in 5.9% with RF‐22. Most additional viral pathogens identified by the NxTAG‐RPP involved dual infections with rhinovirus and RSV. Discordant samples were mainly due to low genome signals of Ct less than 36, when retested by QNAT suggesting a higher sensitivity of the NxTAG‐RPP, also when detecting multiple infections. Hands‐on time after extraction for 24 and 96 samples was 0.25 and <0.5 hr for the NxTAG‐RPP, and 2 and 4 hr for the RF‐22, respectively. The median turn‐around time was 6 hr (range 5–7 hr) for NxTAG‐RPP and 12 hr (range 8–16 hr) for RF‐22. The NxTAG‐RPP showed comparable detection rates for most respiratory pathogens, while hands‐on and turn‐around time were considerably shorter. The clinical significance of detecting multiple viruses needs further clinical evaluation.
+
+    # / February, 2016 -  Journal of medical virology
+
+  # Testing - PCR
+  // Multiplex PCR system for the rapid diagnosis of respiratory virus infection: systematic review and meta-analysis
+  doi: https://doi.org/10.1016/j.cmi.2017.11.018
+  ref 'Huang_et_al_2017
+    head = Three commercial mPCR systems—FilmArray, Verigene RV+ and GenProbe Prodesse ProFlu+—may provide important diagnostic information to help early identification of influenza virus, respiratory syncytial virus, adenovirus and hMPV.
+
+    >>> Objectives
+      To provide a summary of evidence for the diagnostic accuracies of three multiplex PCR systems (mPCRs)—BioFire FilmArray RP (FilmArray), Nanosphere Verigene RV+ test (Verigene RV+) and Hologic Gen-Probe Prodesse assays—on the detection of viral respiratory infections.
+
+    >>> Methods
+      A comprehensive search up to 1 July 2017 was conducted on Medline and Embase for studies that utilized FilmArray, Verigene RV+ and Prodesse for diagnosis of viral respiratory infections. A summary of diagnostic accuracies for the following five viruses were calculated: influenza A virus (FluA), influenza B virus, respiratory syncytial virus, human metapneumovirus and adenovirus. Hierarchical summary receiver operating curves were used for estimating the viral detection performance per assay.
+
+    >>> Results
+      Twenty studies of 5510 patient samples were eligible for analysis. Multiplex PCRs demonstrated high diagnostic accuracy, with area under the receiver operating characteristic curve (AUROC) equal to or more than 0.98 for all the above viruses except for adenovirus (AUROC 0.89). FilmArray, Verigene RV+ and ProFlu+ (the only Prodesse assay with enough data) demonstrated a summary sensitivity for FluA of 0.911 (95% confidence interval, 0.848–0.949), 0.949 (95% confidence interval, 0.882–0.979) and 0.954 (95% confidence interval, 0.871–0.985), respectively. The three mPCRs were comparable in terms of detection of FluA.
+
+    >>> Conclusions
+      Point estimates calculated from eligible studies showed that the three mPCRs (FilmArray, Verigene RV+ and ProFlu+) are highly accurate and may provide important diagnostic information for early identification of respiratory virus infections. In patients with low pretest probability for FluA, these three mPCRs can predict a low possibility of infection and may justify withholding empirical antiviral treatments.
+
+    # / November, 2017 -  Clinical Microbiology and Infection
+
+
+  # Testing
+  // Multicenter Evaluation of the ePlex Respiratory Pathogen Panel for the Detection of Viral and Bacterial Respiratory Tract Pathogens in Nasopharyngeal Swabs
+  doi: https://doi.org/10.1128/JCM.01658-17
+  ref 'Babady_et_al_2017
+    head =  The ePlex RP (Respiratory Pathogen) panel offers a new, rapid, and sensitive “sample-to-answer” multiplex panel for the detection of the most common viral and bacterial respiratory pathogens.
+
+    >>> Abstract
+      The performance of the new ePlex Respiratory Pathogen (RP) panel (GenMark Diagnostics) for the simultaneous detection of 19 viruses (influenza A virus; influenza A H1 virus; influenza A 2009 H1 virus; influenza A H3 virus; influenza B virus; adenovirus; coronaviruses [HKU1, OC43, NL63, and 229E]; human rhinovirus/enterovirus; human metapneumovirus; parainfluenza viruses 1, 2, 3, and 4; and respiratory syncytial virus [RSV] [RSV subtype A and RSV subtype B]) and 2 bacteria (Mycoplasma pneumoniae and Chlamydia pneumoniae) was evaluated. Prospectively and retrospectively collected nasopharyngeal swab (NPS) specimens (n = 2,908) were evaluated by using the ePlex RP panel, with the bioMérieux/BioFire FilmArray Respiratory Panel (BioFire RP) as the comparator method. Discordance analysis was performed by using target-specific PCRs and bidirectional sequencing. The reproducibility of the assay was evaluated by using reproducibility panels comprised of 6 pathogens. The overall agreement between the ePlex RP and BioFire RP results was >95% for all targets. Positive percent agreement with the BioFire RP result for viruses ranged from 85.1% (95% confidence interval [CI], 80.2% to 88.9%) to 95.1% (95% CI, 89.0% to 97.9%), while negative percent agreement values ranged from 99.5% (95% CI, 99.1% to 99.7%) to 99.8% (95% CI, 99.5% to 99.9%). Additional testing of discordant targets (12%; 349/2,908) confirmed the results of ePlex RP for 38% (131/349) of samples tested. Reproducibility was 100% for all targets tested, with the exception of adenovirus, for which reproducibilities were 91.6% at low virus concentrations and 100% at moderate virus concentrations. The ePlex RP panel offers a new, rapid, and sensitive “sample-to-answer” multiplex panel for the detection of the most common viral and bacterial respiratory pathogens.
+
+
+    # / November, 2017 -  American Society for Microbiology Journal
+
+
 
   # Tag - treatment, ACEI/ARB inhibitors
   // Association of Inpatient Use of Angiotensin Converting Enzyme Inhibitors and Angiotensin II Receptor Blockers with Mortality Among Patients With Hypertension Hospitalized With COVID-19
@@ -504,8 +1281,8 @@ feed Research
 
 
   # Tag - Epidemiological model
-  // A serological assay to detect SARS-CoV-2 seroconversion in humans
-  doi: https://doi.org/10.1101/2020.03.17.20037713
+  // Quantifying the effect of quarantine control in Covid-19 infectious spread using machine learning
+  doi: https://doi.org/10.1101/2020.04.03.20052084
   ref 'Dandekar_et_al_2020
     head = The results show a generally strong correlation between strengthening of the quarantine controls, i.e. increasing Q(t) as learnt by the neural network model; actions taken by the regions’ respective governments; and decrease of the effective reproduction number Rt.
 
@@ -728,8 +1505,6 @@ feed Research
 
     / Oct, 2009 - Human Immunology
     let !a self assert =
-
-
 
   # Tag - Old Age
   // Impaired Interferon Signaling in Dendritic Cells From Older Donors Infected In Vitro With West Nile Virus
