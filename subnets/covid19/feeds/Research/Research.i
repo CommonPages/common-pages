@@ -23,7 +23,7 @@ feed Research
     2019
     Pre2019
 
-  # chen paper is wrongly put in April. Have written it to Feb 2020 but haven't deleted it from April
+
   / April, 2020
   feed April2020
     --
@@ -107,7 +107,7 @@ feed Research
       'Smith_et_al_2020
       'Ruiyun_et_al_2020
       'Anderson_et_al_2020
-      'Zhou_et_al_2020
+      'Zhou_et_al_2020b
       'Santarpia_et_al_2020
       'Liu_et_al_2020
       'Zhang_et_al_2020
@@ -163,7 +163,7 @@ feed Research
 
     -- March, 2019
       'Yan_et_al_2019
-      'Ramadan_and_Shaib_2019
+      'Ramadan_et_al_2019
 
     -- February, 2019
       'Liu_et_al_2019
@@ -218,7 +218,7 @@ feed Research
       'Ciavarella_et_al_2016
 
     -- September, 2016
-      'Higgins_et_al_2106
+      'Higgins_et_al_2016
       'Netea_et_al_2016
 
     -- July, 2016
@@ -319,7 +319,7 @@ feed Research
       'Franceschi_et_al_2006
 
     -- October, 2005
-      'Li_et_al_2005  
+      'Li_et_al_2005
 
     -- August, 2005
       'Fukushi_et_al_2005
@@ -354,6 +354,43 @@ feed Research
 
 
   #
+  # Transmission , Ro, HerdImmunity?
+  // The reproductive number of COVID-19 is higher compared to SARS coronavirus
+  doi: https://doi.org/10.1093/jtm/taaa021
+  ref 'Liu_et_al_2020
+    head = Our review found the average R0 to be 3.28 and median to be 2.79 and interquartile range (IQR)of 1.16, which exceed WHO estimates from 1.4 to 2.5.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+
+    / Feb, 2020 - Journal of Travel Medicine
+    let !a self assert = The two studies using stochastic methods to estimate R0, reported a range of 2.2–2.68 with an average of 2.44.
+
+    / Feb, 2020 - Journal of Travel Medicine
+    let !b self assert = The six studies using mathematical methods to estimate R0 produced a range from 1.5 to 6.49, with an average of 4.2
+
+    / Feb, 2020 - Journal of Travel Medicine
+    let !c self assert = The three studies using statistical methods such as exponential growth estimated an R0 ranging from 2.2 to 3.58, with an average of 2.67.
+
+    / Feb, 2020 - Journal of Travel Medicine
+    let !d self assert =  In more recent studies, R0 seems to have stabilized at around 2–3. R0 estimations produced at later stages can be expected to be more reliable, as they build upon more case data and include the effect of awareness and intervention. It is worthy to note that the WHO point estimates are consistently below all published estimates, although the higher end of the WHO range includes the lower end of the estimates reviewed here.
+
+    / Feb, 2020 - Journal of Travel Medicine
+    let !e self assert = These estimates of R0 depend on the estimation method used as well as the validity of the underlying assumptions. Due to insufficient data and short onset time, current estimates of R0 for COVID-19 are possibly biased. However, as more data are accumulated, estimation error can be expected to decrease and a clearer picture should form.
+
+    / Feb, 2020 - Journal of Travel Medicine
+    let !f self assert = R0 estimates for SARS have been reported to range between 2 and 5, which is within the range of the mean R0 for COVID-19 found in this review. Due to similarities of both pathogen and region of exposure, this is expected.
+
+    / Feb, 2020 - Journal of Travel Medicine
+    let !g self assert = On the other hand, despite the heightened public awareness and impressively strong interventional response, the COVID-19 is already more widespread than SARS, indicating it may be more transmissible
+
+
 
   # Origin- Bats
   // Bats Are Natural Reservoirs of SARS-Like Coronaviruses
@@ -555,7 +592,7 @@ feed Research
     # / December, 2017 -  ResearchGate
     # let !a self assert =
 
-  # Tag - Prospects? These papers below (next 3-4) gives idea of immune responses in bats and therefore can be worked to figure out therepeautics
+  # Tag - Prospects? These papers below (next 3-4) gives idea of immune responses in bats and therefore can be worked to figure out therapeautics
   // Analysis of Cathepsin and Furin Proteolytic Enzymes Involved in Viral Fusion Protein Activation in Cells of the Bat Reservoir Host
   doi: https://doi.org/10.1371/journal.pone.0115736
   ref 'Najjar_et_al_2015
@@ -606,6 +643,7 @@ feed Research
     -- exports
       !a
       !b
+      !c
 
     / September, 2018 - Frontiers in Immunology
     let !a self assert = We summarize from Anti-viral immune mechanism of bats, but comparisons of observations made across species suggest that although a number of species appear to be capable of avoiding the pathological effects of RNA virus infection, each bat species may have achieved this through distinct pathways, possibly involving changes to both increase pathogen replication control and to mitigate any immunopathology through decreased inflammatory responses and hence increased disease tolerance
@@ -1071,13 +1109,20 @@ feed Research
 
     # / November, 2017 -  American Society for Microbiology Journal
 
-
-
   # Tag - treatment, ACEI/ARB inhibitors
   // Association of Inpatient Use of Angiotensin Converting Enzyme Inhibitors and Angiotensin II Receptor Blockers with Mortality Among Patients With Hypertension Hospitalized With COVID-19
   doi: https://doi.org/10.1161/CIRCRESAHA.120.317134
   ref 'Zhang_et_al_2020f
     head = Among hospitalized COVID-19 patients with hypertension, inpatient use of ACEI/ARB was associated with lower risk of all-cause mortality compared with ACEI/ARB non-users. While study interpretation needs to consider the potential for residual confounders, it is unlikely that in-hospital use of ACEI/ARB was associated with an increased mortality risk.
+
+    >>> Rationale:
+      Use of angiotensin-converting enzyme inhibitors (ACEIs) and angiotensin II receptor blockers (ARBs) is a major concern for clinicians treating coronavirus disease 2019 (COVID-19) in patients with hypertension.
+    >>> Objective:
+      To determine the association between in-hospital use of ACEI/ARB and all-cause mortality in COVID-19 patients with hypertension.
+    >>> Methods and Results:
+      This retrospective, multi-center study included 1128 adult patients with hypertension diagnosed with COVID-19, including 188 taking ACEI/ARB (ACEI/ARB group; median age 64 [IQR 55-68] years; 53.2% men) and 940 without using ACEI/ARB (non-ACEI/ARB group; median age 64 [IQR 57-69]; 53.5% men), who were admitted to nine hospitals in Hubei Province, China from December 31, 2019 to February 20, 2020. Unadjusted mortality rate was lower in the ACEI/ARB group versus the non-ACEI/ARB group (3.7% vs. 9.8%; P = 0.01). In mixed-effect Cox model treating site as a random effect, after adjusting for age, gender, comorbidities, and in-hospital medications, the detected risk for all-cause mortality was lower in the ACEI/ARB group versus the non-ACEI/ARB group (adjusted HR, 0.42; 95% CI, 0.19-0.92; P =0.03). In a propensity score-matched analysis followed by adjusting imbalanced variables in mixed-effect Cox model, the results consistently demonstrated lower risk of COVID-19 mortality in patients who received ACEI/ARB versus those who did not receive ACEI/ARB (adjusted HR, 0.37; 95% CI, 0.15-0.89; P = 0.03). Further subgroup propensity score-matched analysis indicated that, compared to use of other antihypertensive drugs, ACEI/ARB was also associated with decreased mortality (adjusted HR, 0.30; 95%CI, 0.12-0.70; P = 0.01) in COVID-19 patients with hypertension.
+    >>> Conclusions:
+      Among hospitalized COVID-19 patients with hypertension, inpatient use of ACEI/ARB was associated with lower risk of all-cause mortality compared with ACEI/ARB non-users. While study interpretation needs to consider the potential for residual confounders, it is unlikely that in-hospital use of ACEI/ARB was associated with an increased mortality risk.
 
     -- exports
       !a
@@ -1127,7 +1172,7 @@ feed Research
     let !e self assert = We recognize that these data are observational and based on a single time-point and that there may be are several confounding issues such as limited testing and reporting in many countries. However as these data are derived from 178 countries the trend is striking and supports the mechanistic data that exists for BCG as a protective agent not only for viral and other infections but also against cancer.
 
 
-  # Tag - treatments
+  # Tag - treatments, Frontiers, Peptides
   // Vesicular stomatitis virus pseudotyped with severe acute respiratory syndrome coronavirus spike protein.
   doi: http://doi.org/10.1099/vir.0.80955-0
   ref 'Fukushi_et_al_2005
@@ -1137,7 +1182,7 @@ feed Research
       !a
       !b
       !c
-      !d
+
 
     / Aug, 2005 - JOURNAL OF GENERAL VIROLOGY
     let !a self assert = A SARS-CoV-S protein-bearing vesicular stomatitis virus (VSV) pseudotype using the VSVΔG* system was generated. Partial deletion of the SARS-CoV-S protein cytoplasmic domain allowed efficient incorporation into VSV particles and led to the generation of a pseudotype (VSV-SARS-St19) at high titre. The titre of VSV-SARS-St19 was 5·0×105 infectious units (IU) ml−1.
@@ -1147,10 +1192,6 @@ feed Research
 
     / Aug, 2005 - JOURNAL OF GENERAL VIROLOGY
     let !c self assert = Soluble ACE2 protein strongly inhibited VSV-SARS-St19 infection in a dose-dependent manner, but did not affect VSVΔG*-G infection. These observations indicated that purified soluble ACE2 specifically inhibited VSV-SARS-St19 infection. The highest concentration of soACE2 showed partial inhibition (70–80 %) of VSV-SARS-St19 infectivity.
-
-    / Aug, 2005 - JOURNAL OF GENERAL VIROLOGY
-    let !d self assert = Our results suggest that ACE2-binding peptides can be used as specific inhibitors of SARS-CoV-S protein-mediated infection. Based on the results of neutralization experiments using anti-SARS-CoV antibody and anti-ACE2 antibody, we conclude that VSV-SARS-St19 infection of target cells is mediated by SARS-CoV-S protein.
-
 
 
   # Tag - vaccine, treatments
@@ -1182,7 +1223,7 @@ feed Research
   // SARS‐CoV‐2 Seroconversion in Humans: A Detailed Protocol for a Serological Assay, Antigen Production, and Test Setup
   doi: https://doi.org/10.1002/cpmc.100
   ref 'Stadlbauer_et_al_2020
-    head = Here we describe adetailed protocol for expression of antigens derived from the spike protein ofSARS-CoV-2 that can serve as a substrate for immunological assays, as well asa two-stage serological enzyme-linked immunosorbent assay (ELISA). Theseassays can be used for research studies and for testing in clinical laboratories
+    head = Here we describe adetailed protocol for expression of antigens derived from the spike protein of SARS-CoV-2 that can serve as a substrate for immunological assays, as well asa two-stage serological enzyme-linked immunosorbent assay (ELISA). These assays can be used for research studies and for testing in clinical laboratories.
 
     -- exports
       !a
@@ -1212,7 +1253,7 @@ feed Research
     let !e self assert = The most common problem for the trans-fection (Basic Protocol 1) is low cell viabilitybefore performing the transfection. The cellsneed to be 90% to 95% viable. The absenceof antibiotics/antifungals requires good ster-ile technique to prevent contamination. Sterileplasmid preparations are also recommended,and it is important to add the enhancer to theshaking asks 16 hr post-transfection.
 
     / April, 2020 - Current Protocols in Microbiology
-    let !f self assert = For the ELISA (Basic Protocol 2), perform-ing all of the washing steps and adhering tothe incubation times are important to achievelow background reactivity. Most critical arethe incubation times for the secondary anti-body and the substrate (OPD and HCl forstopping the reaction).
+    let !f self assert = For the ELISA (Basic Protocol 2), perform-ing all of the washing steps and adhering tothe incubation times are important to achievelow background reactivity. Most critical are the incubation times for the secondary anti-body and the substrate (OPD and HCl forstopping the reaction).
 
     / April, 2020 - Current Protocols in Microbiology
     let !g self assert = For the ELISA (Basic Protocol 2), perform-ing all of the washing steps and adhering tothe incubation times are important to achievelow background reactivity. Most critical arethe incubation times for the secondary anti-body and the substrate (OPD and HCl forstopping the reaction).
@@ -1221,7 +1262,7 @@ feed Research
     let !h self assert = In preparing theOPD, it is also important to dissolve the goldtablet fully and only add the silver tablet rightbefore the substrate is added to the ELISAplate.
 
     / April, 2020 - Current Protocols in Microbiology
-    let !i self assert = Basic Protocol 1 takes about4 days. Growing up a cryostock of 293F cells,bringing them to passage 4 (recommended be-fore transfection), and obtaining a sufficientcell number would take another few days; thisis not taken into account in the protocol.
+    let !i self assert = Basic Protocol 1 takes about4 days. Growing up a cryostock of 293F cells,bringing them to passage 4 (recommended be-fore transfection), and obtaining a sufficient cell number would take another few days; thisis not taken into account in the protocol.
 
     / April, 2020 - Current Protocols in Microbiology
     let !j self assert = BasicProtocol 2 takes at least 2 days (antigen coat-ing on day 1 and running the ELISA on day2). The screening ELISA could be performedin the morning and the conrmatory ELISAin the afternoon, or the assays can be done onconsecutive days.
@@ -1249,9 +1290,7 @@ feed Research
     let !c self assert = The rapid test was substantially inferior to the RT-qPCR testing and should therefore neither be used for individual risk assessment nor for decisions on public health measures. As there is an urgent need for a sufficient rapid testing system for SARS-CoV-2, an antigen-based system may therefore be more appropriate. We recommend accelerating the development and evaluation of effective point-of-care testing systems.
 
 
-
-
-  # Tag - serology testing, population exposure,seropervalence, testing, Zika Virus
+  # Tag - serology testing, Projection, HerdImmunity
   // High Zika Virus Seroprevalence in Salvador, Northeastern Brazil Limits the Potential for Further Outbreaks
   doi: http://doi.org/10.1128/mBio.01390-17
   ref 'Netto_et_al_2017
@@ -1277,10 +1316,13 @@ feed Research
     let !d self assert = The estimated basic reproduction number (R0) for ZIKV was 2.1 (CI, 1.8 to 2.5) at the onset of the outbreak with, on average, 2.0% (CI, 1.8 to 2.2%) of ZIKV infections reported in the national surveillance system. Projecting the model forward into 2016 suggested a continued decline in transmission despite the return of peak arbovirus Due to the lack of susceptible individuals, the effective reproductive number (Reff) was not predicted to exceed one in subsequent years, a condition required for another ZIKV epidemic wave.
 
     / Oct, 2017 - American Society for Microbiology
-    let !e self assert = The limitation of ZIKV spread due to community protective immunity is probably analogous to CHIKV, because both viruses show limited antigenic variability. Consistent with our data, CHIKV infection rates exceeding 60% have been associated with the cessation of outbreak activity. In Africa and probably in Asia as well, CHIKV can emerge cyclically from nonhuman primate reservoirs upon replenishment of sufficient numbers of susceptible individuals. Whether ZIKV can establish a sylvatic transmission cycle in Latin America thus requires urgent investigation.
+    let !e self assert = The estimated basic reproduction number (R0) for ZIKV was 2.1 (CI, 1.8 to 2.5) at the onset of the outbreak with, on average, 2.0% (CI, 1.8 to 2.2%) of ZIKV infections reported in the national surveillance system. Projecting the model forward into 2016 suggested a continued decline in transmission despite the return of peak arbovirus. Due to the lack of susceptible individuals, the effective reproductive number (Reff) was not predicted to exceed one in subsequent years, a condition required for another ZIKV epidemic wave
+
+    / Oct, 2017 - American Society for Microbiology
+    let !f self assert = The limitation of ZIKV spread due to community protective immunity is probably analogous to CHIKV, because both viruses show limited antigenic variability. Consistent with our data, CHIKV infection rates exceeding 60% have been associated with the cessation of outbreak activity. In Africa and probably in Asia as well, CHIKV can emerge cyclically from nonhuman primate reservoirs upon replenishment of sufficient numbers of susceptible individuals. Whether ZIKV can establish a sylvatic transmission cycle in Latin America thus requires urgent investigation.
 
 
-  # Tag - Epidemiological model
+  # Tag - Epidemiological model, Quarantine
   // Quantifying the effect of quarantine control in Covid-19 infectious spread using machine learning
   doi: https://doi.org/10.1101/2020.04.03.20052084
   ref 'Dandekar_et_al_2020
@@ -1350,7 +1392,7 @@ feed Research
     let !f self assert =  The reasons for the relatively lower RT-PCR detection rate in our sample compared to a prior report are unknown.
 
 
-  # Tag - Reinfection, Testing, Immunity
+  # Tag - Reinfection, Testing, shedding
   // Virological assessment of hospitalized patients with COVID-2019
   doi: https://doi.org/10.1038/s41586-020-2196-x
   ref 'Wölfel_et_al_2020
@@ -1395,11 +1437,11 @@ feed Research
     / April, 2020 - Nature
     let !i self assert = Seroconversion in 50% of patients occurred by day 7, and in all by day 14. but was not followed by a rapid decline in viral load.
 
-    # / April, 2020 - Nature
-    # let !j self assert = Of note, case #4, with the lowest virus neutralization titer at end of week 2, seemed to shed virus from stool over prolonged time.
+    / April, 2020 - Nature
+    let !j self assert = Of note, case 4, with the lowest virus neutralization titer at end of week 2, seemed to shed virus from stool over prolonged time.
 
 
-  # Tag - Healthcare workers
+  # Tag - SymptomaticPhase, Clinical characteristics of covid
   // SARS-CoV-2 infection in 86 healthcare workers in two Dutch hospitals in March 2020
   doi: https://doi.org/10.1101/2020.03.23.20041913
   ref 'Kluytmans_et_al_2020
@@ -1478,8 +1520,8 @@ feed Research
     >>> Abstract
       In this paper we extend the “network theory of aging,” and we argue that a global reduction in the capacity to cope with a variety of stressors and a concomitant progressive increase in proinflammatory status are major characteristics of the aging process. This phenomenon, which we will refer to as “inflamm‐aging,” is provoked by a continuous antigenic load and stress. On the basis of evolutionary studies, we also argue that the immune and the stress responses are equivalent and that antigens are nothing other than particular types of stressors. We also propose to return macrophage to its rightful place as central actor not only in the inflammatory response and immunity, but also in the stress response. The rate of reaching the threshold of proinflammatory status over which diseases/disabilities ensue and the individual capacity to cope with and adapt to stressors are assumed to be complex traits with a genetic component. Finally, we argue that the persistence of inflammatory stimuli over time represents the biologic background (first hit) favoring the susceptibility to age‐related diseases/disabilities. A second hit (absence of robust gene variants and/or presence of frail gene variants) is likely necessary to develop overt organ‐specific age‐related diseases having an inflammatory pathogenesis, such as atherosclerosis, Alzheimer's disease, osteoporosis, and diabetes. Following this perspective, several paradoxes of healthy centenarians (increase of plasma levels of inflammatory cytokines, acute phase proteins, and coagulation factors) are illustrated and explained. In conclusion, the beneficial effects of inflammation devoted to the neutralization of dangerous/harmful agents early in life and in adulthood become detrimental late in life in a period largely not foreseen by evolution, according to the antagonistic pleiotropy theory of aging.
 
-    / Jan, 2006 - The New york academy of Sciences
-    let !a self assert =
+    # / Jan, 2006 - The New york academy of Sciences
+    #  let !a self assert =
 
 
   // COVID-19 and Italy: what next?
@@ -1490,8 +1532,8 @@ feed Research
     >>> Abstract
       The spread of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has already taken on pandemic proportions, affecting over 100 countries in a matter of weeks. A global response to prepare health systems worldwide is imperative. Although containment measures in China have reduced new cases by more than 90%, this reduction is not the case elsewhere, and Italy has been particularly affected. There is now grave concern regarding the Italian national health system’s capacity to effectively respond to the needs of patients who are infected and require intensive care for SARS-CoV-2 pneumonia. The percentage of patients in intensive care reported daily in Italy between March 1 and March 11, 2020, has consistently been between 9% and 11% of patients who are actively infected. The number of patients infected since Feb 21 in Italy closely follows an exponential trend. If this trend continues for 1 more week, there will be 30000 infected patients. Intensive care units will then be at maximum capacity; up to 4000 hospital beds will be needed by mid-April, 2020. Our analysis might help political leaders and health authorities to allocate enough resources, including personnel, beds, and intensive care facilities, to manage the situation in the next few days and weeks. If the Italian outbreak follows a similar trend as in Hubei province, China, the number of newly infected patients could start to decrease within 3–4 days, departing from the exponential trend. However, this cannot currently be predicted because of differences between social distancing measures and the capacity to quickly build dedicated facilities in China.
 
-    / March, 2020 - ScienceDirect
-    let !a self assert =
+    # / March, 2020 - ScienceDirect
+    # let !a self assert =
 
 
   # Tag - Old age
@@ -1503,8 +1545,8 @@ feed Research
     >>> Abstract
       Dendritic cells (DC) are potent antigen-presenting cells that initiate and regulate T-cell responses. In this study, the numbers and functional cytokine secretions of plasmacytoid and myeloid DC (pDC and mDC, respectively) in peripheral blood from young and elderly subjects were compared. Overall, pDC numbers in peripheral blood were lower in healthy elderly compared with healthy young subjects (p = 0.016). In response to influenza virus stimulation, isolated pDC from healthy elderly subjects secreted less interferon (IFN)–α compared with those from healthy young subjects. The decline in IFN-α secretion was associated with a reduced proportion of pDC that expressed Toll-like receptor–7 or Toll-like receptor-9. In contrast, there was little difference in the numbers and cytokine secretion function between healthy young and healthy elderly subjects (p = 0.82). However, in peripheral blood from frail elderly subjects, the numbers of mDC were severely depleted as compared with either healthy young or elderly subjects (p = 0.014 and 0.007, respectively). Thus, aging was associated with the numerical and functional decline in pDC, but not mDC, in healthy young versus elderly subject group comparisons, while declining health in the elderly can profoundly impact mDC negatively. Because of the importance of pDC for antiviral responses, the age-related changes in pDC likely contribute to the impaired immune response to viral infections in elderly persons, especially when combined with the mDC dysfunction occurring in those with compromised health.
 
-    / Oct, 2009 - Human Immunology
-    let !a self assert =
+    # / Oct, 2009 - Human Immunology
+    # let !a self assert =
 
   # Tag - Old Age
   // Impaired Interferon Signaling in Dendritic Cells From Older Donors Infected In Vitro With West Nile Virus
@@ -1515,18 +1557,19 @@ feed Research
     >>> Abstract
       West Nile virus (WNV), a mosquito-borne, single-stranded RNA flavivirus, causes significant human morbidity and mortality in the older population; thus, we investigated the effects of aging on infection with WNV in dendritic cells (DCs). We infected DCs with WNV in vitro and quantified cytokines and chemokines (type I IFN and CXCL10), pathogen recognition receptors RIG-I, and Toll-like receptors 3 and 7. The production of type I IFN was significantly lower in DCs from older donors, compared with younger donors. Although we observed no significant age-related difference in expression or nuclear translocation of signaling molecules in initial antiviral responses, DCs from older donors have diminished induction of late-phase responses (eg, STAT1, IRF7, and IRF1), suggesting defective regulation of type I IFN. Our results identify deficits in critical regulatory pathways in the antiviral response that may contribute to the enhanced susceptibility to viral infections observed in aging.
 
-    / May, 2011 - The Journal of Infectious Diseases,
-    let !a self assert =
+    # / May, 2011 - The Journal of Infectious Diseases,
+    # let !a self assert =
 
 
-  # Tag - Old age
+  # Tag - Old age ... Clinical Characteristics
   // Case-Fatality Rate and Characteristics of Patients Dying in Relation to COVID-19 in Italy
   doi: https://doi.org/doi:10.1001/jama.2020.4683
   ref 'Onder_et_al_2020
-    head = . COVID-19 is more lethal in older patients, so the older age distribution in Italy may explain, in part, Italy’s higher case-fatality rate compared with that of other countries.
+    head = COVID-19 is more lethal in older patients, so the older age distribution in Italy may explain, in part, Italy’s higher case-fatality rate compared with that of other countries.
 
     -- exports
       !a
+      !b
 
     / March, 2020 - JAMA
     let !a self assert = The overall case-fatality rate in Italy (7.2%) is substantially higher than in China (2.3%). When data were stratified by age group, the case-fatality rate in Italy and China appear very similar for age groups 0 to 69 years, but rates are higher in Italy among individuals aged 70 years or older, and in particular among those aged 80 years or older.
@@ -1550,7 +1593,7 @@ feed Research
     / March, 2020 - ScienceDirect
     let !b self assert =  Our estimated overall infection fatality ratio for China was 0·66% (0·39–1·33), with an increasing profile with age. Similarly, estimates of the proportion of infected individuals likely to be hospitalised increased with age up to a maximum of 18·4% (11·0–37·6) in those aged 80 years or older.
 
-  # Tag - Old age
+  # CFR
   // Similarity in Case Fatality Rates (CFR) of COVID-19/SARS-COV-2 in Italy and China
   doi: https://doi.org/10.3855/jidc.12600
   ref 'Porcheddu_et_al_2020
@@ -1560,8 +1603,8 @@ feed Research
       As of 28 February 2020, Italy had 888 cases of SARS-CoV-2 infections, with most cases in Northern Italy in the Lombardia and Veneto regions. Travel-related cases were the main source of COVID-19 cases during the early stages of the current epidemic in Italy. The month of February, however, has been dominated by two large clusters of outbreaks in Northern Italy, south of Milan, with mainly local transmission the source of infections. Contact tracing has failed to identify patient zero in one of the outbreaks. As of 28 February 2020, twenty-one cases of COVID-19 have died. Comparison between case fatality rates in China and Italy are identical at 2.3. Additionally, deaths are similar in both countries with fatalities in mostly the elderly with known comorbidities. It will be important to develop point-of-care devices to aid clinicians in stratifying elderly patients as early as possible to determine the potential level of care they will require to improve their chances of survival from COVID-19 disease.
 
 
-    / Feb, 2020 - The Journal of infection in developing countries
-    let !a self assert =
+    # / Feb, 2020 - The Journal of infection in developing countries
+    # let !a self assert =
 
 
   # Tag - Temperature, Weather Transmission
@@ -2071,7 +2114,7 @@ feed Research
 
 
     / Feb, 2020 - Science China Life Sciences
-    let !a self assert = We found that the viral load was crucial in determining the disease severity, especially strongly correlated with lung injury Murray score (Figure 3A). Notably, the viral load from case 4 was very high when fulminant myocarditis also occurred (Table 2 and Figure 3). This high viral load lasted for one week, indicating that the early detection of high viral load may be associated with a high risk of fulminant myocarditis
+    let !a self assert = We found that the viral load was crucial in determining the disease severity, especially strongly correlated with lung injury Murray score. Notably, the viral load from case 4 was very high when fulminant myocarditis also occurred. This high viral load lasted for one week, indicating that the early detection of high viral load may be associated with a high risk of fulminant myocarditis
 
     / Feb, 2020 - Science China Life Sciences
     let !b self assert = Our study demonstrated that the combinations of the hypoalbuminemia, lymphopenia, and high concentrations of CRP and LDH in 2019-nCoV infected patients upon hospital admission may predict more severe acute lung injury.
@@ -2349,7 +2392,7 @@ feed Research
   # Tag- BCG vaccine
   // Association of BCG, DTP, and measles containing vaccines with childhood mortality: systematic review
   doi: https://doi.org/10.1136/bmj.i5170
-  ref 'Higgins_et_al_2106
+  ref 'Higgins_et_al_2016
     head = "Evidence suggests that receipt of BCG and MCV reduce overall mortality by more than would be expected through their effects on the diseases they prevent, and receipt of DTP may be associated with an increase in all cause mortality. Although efforts should be made to ensure that all children are immunised on schedule with BCG, DTP, and MCV, randomised trials are neededto compare the effects of different sequences."
 
     -- exports
@@ -2453,8 +2496,8 @@ feed Research
     head = We drew on day-by-day reports of both confirmed cases and deaths and analyzed growth curves in countries that mandate BCG policies versus countries that do not. Linear mixed models revealed that the presence of mandated BCG policies was associated with a significant flattening of the exponential increase in both confirmed cases and deaths during the first 30-day period of country-wise outbreaks.
 
 
-    / April, 2020 - medRxiv
-    let !a self assert =
+    #  / April, 2020 - medRxiv
+    # let !a self assert =
 
 
   # Tags - Antiviral
@@ -2573,8 +2616,8 @@ feed Research
     >>> Abstract
       Antibiotic-resistant bacterial infections are a substantial source of morbidity and mortality and have a common reservoir in inpatient settings. Transferring patients between facilities could be a mechanism for the spread of these infections. We wanted to assess whether a network of hospitals, linked by inpatient transfers, contributes to the spread of nosocomial infections and investigate how network structure may be leveraged to design efficient surveillance systems. We construct a network defined by the transfer of Medicare patients across US inpatient facilities using a 100% sample of inpatient discharge claims from 2006–2007. We show the association between network structure and C. difficile incidence, with a 1% increase in a facility’s C. difficile incidence being associated with a 0.53% increase in C. difficile incidence of neighboring facilities. Finally, we used network science methods to determine the facilities to monitor to maximize surveillance efficiency. An optimal surveillance strategy for selecting “sensor” hospitals, based on their network position, detects 80% of the C. difficile infections using only 2% of hospitals as sensors. Selecting a small fraction of facilities as “sensors” could be a cost-effective mechanism to monitor emerging nosocomial infections.
 
-    / June, 2017 - Scientific Reports
-    let !a self assert =
+    # / June, 2017 - Scientific Reports
+    # let !a self assert =
 
   # Tag - Social network
   // Dueling biological and social contagions
@@ -2615,7 +2658,7 @@ feed Research
     let !c self assert = The ability to detect outbreaks early, and how early it might do so, will depend on intrinsic properties of the thing that is spreading (e.g., the biology of the pathogen); how this thing is measured; the nature of the population, including the overall prevalence of susceptible or affected individuals; the number of people empanelled into the sensor group; the topology of the network and other factors, such as whether the outbreak modifies the structure of the network as it spreads.
 
 
-  # Tags - Treatment, Pneumonia, Cytokine Storms
+  # Tags - Pneumonia, Cytokine Storms
   // Study of the lymphocyte change between COVID-19 and non-COVID-19 pneumonia cases suggesting other factors besides uncontrolled inflammation contributed to multi-organ injury
   doi: https://doi.org/10.1101/2020.02.19.20024885
   ref 'Zheng_et_al_2020
@@ -2645,8 +2688,11 @@ feed Research
   ref 'hui_et_al_2020
     head = Current studies have confirmed that studies that drugs that may be effective include: redoxivir, lopinavir / ritonavir, lopinavir / ritonavir combined with interferon-β, convalescent plasma, and monoclonal antibodies. However, the efficacy and safety of these drugs in 2019-nCoV pneumonia patients need to be confirmed by further clinical trials.
 
-    / Feb, 2020 - Chinese Journal of Tuberculosis and Respiratory Medicine
-    let !a self assert =
+    >>> Abstract
+      2019 New Coronavirus (2019-nCoV) is the causative agent of unexplained pneumonia in Wuhan. 2019-nCoV is genetically close to a new type of bat-derived coronavirus, and it is a β-type coronavirus like SARS-CoV and MERS-CoV. Currently commonly used antiviral drugs in clinical, including neuraminidase inhibitors (oseltamivir, paramivir, zanamivir, etc.), ganciclovir, acyclovir, ribavirin No effect on 2019-nCoV, clinical application is not recommended. Current studies have confirmed that drugs that may be effective include: redoxivir, lopinavir / ritonavir, lopinavir / ritonavir combined with interferon-β, convalescent plasma, and monoclonal antibodies. However, the efficacy and safety of these drugs in 2019-nCoV pneumonia patients need to be confirmed by further clinical trials.
+
+    # / Feb, 2020 - Chinese Journal of Tuberculosis and Respiratory Medicine
+    # let !a self assert =
 
   # Tag - Remdesivir
   // Coronavirus Susceptibility to the Antiviral Remdesivir (GS-5734) Is Mediated by the Viral Polymerase and the Proofreading Exoribonuclease
@@ -2740,7 +2786,7 @@ feed Research
     / March, 2020 - ACS Infect. Dis.
     let !j self assert = Niclosamide inhibits EBV lytic replication in lymphoma cells and epithelial cells and causes irreversible cell cycle arrest in lytic EBV-infected cells via disrupting mTOR activation, offering the potential to treat acute EBV(Epstein–Barr Virus)-associated infectious diseases
 
-
+  # Lopinavir
   // Lopinavir/Ritonavir
   doi: https://doi.org/10.2165/00003495-200363080-00004
   ref 'Cvetkovic_et_al_2012
@@ -2760,7 +2806,7 @@ feed Research
     / Sept 2012 - Drugs
     let !c self assert = To reduce the risk of toxicity, the recommended actions include: (i) monitoring of the drug plasma concentration (antiarrhythmics and immunosuppressants) or the international normalised ratio (warfarin); (ii) the use of alternative treatment (atorvastatin) or birth control methods (ethinylestradiol); and (iii) dosage adjustment (clarithromycin [only in patients with renal failure], rifabutin, dihydropyridine calcium-channel blockers, atorvastatin, ketoconazole and itraconazole).
 
-
+  # Therapeautics
   // Coronaviruses — drug discovery and therapeutic options
   doi: https://doi.org/10.1038/nrd.2015.37
   ref 'Zumla_et_al_2016
@@ -2776,7 +2822,7 @@ feed Research
     / February, 2016 - Nature Reviews Drug Discovery volume
     let !b self assert = Host-based therapies include agents that potentiate the interferon response or affect either host signalling pathways involved in viral replication or host factors utilized by coronaviruses for viral replication.
 
-
+  # Vaccine
   // Innate Immunity to Virus Infection
   doi: https://doi.org/10.1111/j.1600-065X.2008.00737.x
   ref 'Takeuchi_et_al_2009
@@ -2801,6 +2847,7 @@ feed Research
     / Dec 2008 - Immunological Reviews
     let !d self assert = Another issue is the role of RIG-I helicase activity in the recognition of viral RNAs. Although several reports have shown that RIG-I protein can unwind short dsRNA, it is apparent that this “helicase” activity is not required for the recognition of 5′ triphosphate ssRNA. Given that the RIG-I helicase domain catalyzes ATP, it is assumed that the helicase domain is critical for the conformational change required to expose the CARDs and trigger intracellular signaling.
 
+  # Vaccine
   // News Feature: Avoiding pitfalls in the pursuit of a COVID-19 vaccine
   doi: https://doi.org/10.1073/pnas.2005456117
   ref 'Peeples_et_al_2020
@@ -2813,13 +2860,18 @@ feed Research
     let !a self assert = Experts agree a careful assessment of possible immune complications before releasing the vaccine to the public. If any of the mechanisms under investigation are indeed involved, they say, the resulting risks are real.
 
 
-
+  # Vaccine
   // Sequence analysis of SARS-CoV-2 genome reveals features important for vaccine design
   doi: https://doi.org/10.1101/2020.03.30.016832
   ref 'Kames_et_al_2020
     head = Study's analysis identified the spike (S) and nucleocapsid (N) proteins as promising targets for deoptimization and suggests a roadmap for SARS-CoV-2 vaccine development, which can be generalizable to other viruses.
+    >>> Abstract
+      As the SARS-CoV-2 pandemic is rapidly progressing, the need for the development of an effective vaccine is critical. A promising approach for vaccine development is to generate, through codon pair deoptimization, an attenuated virus. This approach carries the advantage that it only requires limited knowledge specific to the virus in question, other than its genome sequence. Therefore, it is well suited for emerging viruses for which we may not have extensive data. We performed comprehensive in silico analyses of several features of SARS-CoV-2 genomic sequence (e.g., codon usage, codon pair usage, dinucleotide/junction dinucleotide usage, RNA structure around the frameshift region) in comparison with other members of the coronaviridae family of viruses, the overall human genome, and the transcriptome of specific human tissues such as lung, which are primarily targeted by the virus. Our analysis identified the spike (S) and nucleocapsid (N) proteins as promising targets for deoptimization and suggests a roadmap for SARS-CoV-2 vaccine development, which can be generalizable to other viruses.
 
 
+
+
+  # Vaccine, Antibodies
   // Fully human single-domain antibodies against SARS-CoV-2
   doi: https://doi.org/10.1101/2020.03.30.015990
   ref 'Wu_et_al_2020b
@@ -2828,7 +2880,7 @@ feed Research
     >>> Abstract
       The COVID-19 pandemic is spreading rapidly, highlighting the urgent need for an efficient approach to rapidly develop therapeutics and prophylactics against SARS-CoV-2. We describe here the development of a phage-displayed single-domain antibody library by grafting naïve CDRs into framework regions of an identified human germline IGHV allele. This enabled the isolation of high-affinity single-domain antibodies of fully human origin. The panning using SARS-CoV-2 RBD and S1 as antigens resulted in the identification of antibodies targeting five types of neutralizing or non-neutralizing epitopes on SARS-CoV-2 RBD. These fully human single-domain antibodies bound specifically to SARS-CoV-2 RBD with subnanomolar to low nanomolar affinities. Some of them were found to potently neutralize pseudotyped and live virus, and therefore may represent promising candidates for prophylaxis and therapy of COVID-19. This study also reports unique immunogenic profile of SARS-CoV-2 RBD compared to that of SARS-CoV and MERS-CoV, which may have important implications for the development of effective vaccines against SARS-CoV-2.
 
-
+  # Vaccine
   // Vulnerabilities in coronavirus glycan shields despite extensive glycosylation
   doi: https://doi.org/10.1101/2020.02.20.957472
   ref 'Watanabe_et_al_2020
@@ -2844,7 +2896,7 @@ feed Research
     / February, 2020 -  bioRxiv
     let !b self assert = They compared between glycan shield from number of viruses. A strong correlation was observed and viruses historically classified as “evasion strong”59 had significantly elevated glycan shield densities and oligomannose abundance, which underscores the importance of glycan shielding in immune evasion.
 
-
+  # Serology, antibodies
   // Global profiling of SARS-CoV-2 specific IgG/ IgM responses of convalescents using a proteome microarray
   doi: https://doi.org/10.1101/2020.03.20.20039495
   ref 'Jiang_et_al_2020
@@ -2876,6 +2928,7 @@ feed Research
     / March, 2020 - medrxiv
     let !f self assert = Severe cases are significantly more frequent in aged patients and the mortality of male patients is higher than that of female, but the reason is not clear. Based on our observations, we assumed that the situation might be associated with the immune response. However, female patients, compared with male patients, may generate humoral response more efficiently. This difference should be considered during treatment.
 
+  # Antibodies
   // Anti–spike IgG causes severe acute lung injury by skewing macrophage responses during acute SARS-CoV infection
   doi: https://doi.org/10.1172/jci.insight.123158
   ref 'Liu_et_al_2019
@@ -2895,17 +2948,17 @@ feed Research
     / February, 2019 -  JCI Insight
     let !c self assert = S-IgG promoted proinflammatory cytokine production through FcγRI and/or FcγRIIA. S-IgG did not affect classically activated macrophage function in vitro. This difference can be possibly explained by the high baseline level of proinflammatory cytokines before infection and the downregulated expression of FcγR on classically activated MDM by SARS-CoV treatment.
 
+  # Background
   // Adaptive Value of High Mutation Rates of RNA Viruses: Separating Causes from Consequences
   doi: https://doi.org/10.1128/JVI.79.18.11555-11558.2005
   ref 'Elena_et_al_2005
     head = This paper addresses the adaptive value of the RNA virus extreme mutation rate has to be carefully reconsidered, and new alternative explanations, beyond a purely mechanistic level, should be taken into consideration.
 
-    -- exports
-      !a
 
-    / August, 2005 -  American Society for Microbiology
-    let !a self assert =
+    # / August, 2005 -  American Society for Microbiology
+    # let !a self assert =
 
+  # Background
   // Why are RNA virus mutation rates so damn high?
   doi: https://doi.org/10.1371/journal.pbio.3000003
   ref 'Duffy_et_al_2018
@@ -2921,7 +2974,7 @@ feed Research
     / August, 2018 -  PLoS Biology
     let !b self assert = Researchers and clinicians can increase RNA virus mutation rates using nucleoside analogues, and a 3–5-fold increase in mutation rate causes lethal mutagenesis in human-infecting viruses like poliovirus and influenza. The exogenous mutagen causes enough additional mutations, which are often deleterious, so that the progeny RNA viruses are of lower fitness, eventually leading to ecological collapse of the population.
 
-
+  # Background
   // Viral Mutation Rates
   doi: https://doi.org/10.1128/JVI.00694-10
   ref 'Sanjuán_et_al_2010
@@ -2933,11 +2986,14 @@ feed Research
     / October, 2010 - Journal of Virology
     let !a self assert = One Possibility to address mutation rate is to use drug dependence, a form of drug resistance in which the ability to grow in the absence of the drug is lost. These mutants can be identified by isolating drug-resistant mutants and assaying them for growth in the absence of the drug.
 
-
+  # Background
   // Mechanisms of viral mutation
   doi: https://doi.org/10.1007/s00018-016-2299-6
   ref 'Sanjuán_et_al_2016
     head = Rates of spontaneous mutation vary amply among viruses. RNA viruses mutate faster than DNA viruses, single-stranded viruses mutate faster than double-strand virus, and genome size appears to correlate negatively with mutation rate.
+
+    >>> Abstract
+      The remarkable capacity of some viruses to adapt to new hosts and environments is highly dependent on their ability to generate de novo diversity in a short period of time. Rates of spontaneous mutation vary amply among viruses. RNA viruses mutate faster than DNA viruses, single-stranded viruses mutate faster than double-strand virus, and genome size appears to correlate negatively with mutation rate. Viral mutation rates are modulated at different levels, including polymerase fidelity, sequence context, template secondary structure, cellular microenvironment, replication mechanisms, proofreading, and access to post-replicative repair. Additionally, massive numbers of mutations can be introduced by some virus-encoded diversity-generating elements, as well as by host-encoded cytidine/adenine deaminases. Our current knowledge of viral mutation rates indicates that viral genetic diversity is determined by multiple virus- and host-dependent processes, and that viral mutation rates can evolve in response to specific selective pressures.
 
     >>> Conclusion
       Viral mutation rates are determined by multiple processes, including polymerase intrinsic fidelity, replication mode, 3′ exonuclease activity, spontaneous nucleic acid damage, access to post-replicative repair, editing by host-encoded deaminases, imbalances in nucleotide pools, template sequence context, and template structure, as summarized in Table 2. Some of these processes underlie large-scale patterns of variation among viruses, such as differences between RNA and DNA viruses, between viruses with small and large genomes, and between single-strand and double-strand viruses, but important mechanistic aspects behind these differences still remain uncharacterized. Furthermore, mutation rates are not static and can evolve in response to selective pressures, as exemplified by fidelity variants selected under mutagenic conditions in a variety of viruses. In addition to polymerase fidelity, other mutation rate-determinants such as access to DNA repair may have also changed in response to selective pressures during viral evolution.
@@ -2945,10 +3001,10 @@ feed Research
 
 
 
-    / July, 2016 -  Cellular and Molecular life Sciences
-    let !a self assert =
+    # / July, 2016 -  Cellular and Molecular life Sciences
+    # let !a self assert =
 
-
+  # Antibodies
   // The Time Course of the Immune Response to Experimental Coronavirus Infection of Man
   doi: https://doi.org/10.1017/s0950268800048019
   ref 'Callow_et_al_1990
@@ -2972,12 +3028,16 @@ feed Research
     / / October, 1990 - Epimediology Infections
     let !d self assert = Since adults have about two colds per year on average and about half of all coronavirus infections are subclinical each adult should have a coronavirus infection every 2-3 years. This agrees with Monto who suggested a 2-3 year cyclic pattern. It indicates that protective amounts of antibody may have disappeared by 2 years, and that if we had been able to reinoculate the volunteers after a further year, the reinfection rate would have been even higher.
 
+  # Antibodies
   // Antibody Response and Disease Severity in Healthcare Worker MERS Survivors
   doi: https://doi.org/10.3201/eid2206.160010
   ref 'Alshukairi_AN_et_al_2016
-    head = We studied antibody response in 9 healthcare workers in Jeddah, Saudi Arabia, who survived Middle East respiratory syndrome, by using serial ELISA and indirect immunofluorescence assay testing. Among patients who had experienced severe pneumonia, antibody was detected for >18 months after infection. Antibody longevity was more variable in patients who had experienced milder disease.
+    head = 2 patients with severe MERS-associated pneumonia had a persistent antibody response detected for >18 months after infection, whereas patients with disease confined to the upper respiratory tract or who had no clinical signs had no detectable MERS-CoV antibody response.
 
+    >>> Abstract
+      We studied antibody response in 9 healthcare workers in Jeddah, Saudi Arabia, who survived Middle East respiratory syndrome, by using serial ELISA and indirect immunofluorescence assay testing. Among patients who had experienced severe pneumonia, antibody was detected for >18 months after infection. Antibody longevity was more variable in patients who had experienced milder disease.
 
+  # Background
   // Genetic drift of human coronavirus OC43 spike gene during adaptive evolution
   doi: https://doi.org/10.1038/srep11451
   ref 'Ren_et_al_2015
@@ -3000,7 +3060,7 @@ feed Research
     / March, 2020 - The New England journal of medicine
     let !c self assert = A Y521H substitution was found in the genotype D strains identified from 2008 to 2011. The significance of this mutation is unclear. It is interesting that after 2012, the genotype D strains contained less mutations than those identified before 2012.
 
-
+  # Shedding
   // SARS-CoV-2 Viral Load in Upper Respiratory Specimens of Infected Patients
   doi: https://doi.org/10.1056/NEJMc2001737
   ref 'Zou_et_al_2020
@@ -3012,7 +3072,7 @@ feed Research
     / March, 2020 - The New England journal of medicine
     let !a self assert = We analyzed the viral load in nasal and throat swabs obtained from the 17 symptomatic patients and found higher viral loads were detected soon after symptom onset, with higher viral loads detected in the nose than in the throat.
 
-
+  #  Frontiers
   // Zn2+ Inhibits Coronavirus and Arterivirus RNA Polymerase Activity In Vitro and Zinc Ionophores Block the Replication of These Viruses in Cell Culture
   doi: https://doi.org/10.1371/journal.ppat.1001176
   ref 'Velthuis_et_al_2010
@@ -3029,7 +3089,7 @@ feed Research
     / November, 2010 -  Plos Pathogens
     let !b self assert = Several studies have reported that zinc has a broad-spectrum antiviral activity against a variety of viruses. Increased intracellular Zinc concentrations inhibit RNA-dependent RNA polymerases and other proteins essential for the completion of different phases of the virus life cycle.
 
-  # Regarding Medicine and Covalent plasma we will re-refer this paper and write more claims from this paper.
+  # Remediation
   // Potential interventions for novel coronavirus in China: A systematic review
   doi: https://doi.org/10.1002/jmv.25707
   ref 'Zhang_et_al_2020e
@@ -3054,7 +3114,7 @@ feed Research
     let !d self assert = The avian IBV vaccine is also another choice for clinical trials if its safety has been approved in monkeys.
 
 
-  # Intro to Covid - Basics / Foundations / Testing
+  # Disease feature
   // Molecular immune pathogenesis and diagnosis of COVID-19
   doi: https://doi.org/10.1016/j.jpha.2020.03.001
   ref 'Li_et_al_2020b
@@ -3067,12 +3127,15 @@ feed Research
     let !a self assert = The occurrence and development of SARS-CoV-2 depend on the interaction between the virus and the individual’s immune system. Therefore all viral factor and individual's immune system factors contribute to whether an individual is infected with the virus, the duration and severity of the disease, and the reinfection.
 
 
+  # Shedding
   // Viral dynamics in mild and severe cases of COVID-19
   doi: https://doi.org/10.1016/S1473-3099(20)30232-2
   ref 'Liu_et_al_2020c
     head = Our data indicate that, patients with severe COVID-19 tend to have a high viral load and a long virus-shedding period. This finding suggests that the viral load of SARS-CoV-2 might be a useful marker for assessing disease severity and prognosis.
 
 
+
+  # Shedding , AsymptomaticCarriers
   // Temporal dynamics in viral shedding and transmissibility of COVID-19
   doi: https://doi.org/10.1101/2020.03.15.20036707
   ref 'He_et_al_2020
@@ -3080,18 +3143,28 @@ feed Research
 
     -- exports
       !a
+      !b
 
     / March, 2020 - MedRixiv
     let !a self assert = We estimated that 44% of transmission could occur before first symptoms of the index. Disease control measures should be adjusted to account for probable substantial pre-symptomatic transmission.
 
+    / March, 2020 - MedRixiv
+    let !b self assert = Our modeling analysis suggests that viral shedding may begin 2-3 days before showing first symptoms. After symptom onset, viral loads decreased monotonically, consistent with a recent study of 17 patients from another hospital in Guangdong. Infectiousness profile may more closely resemble that of influenza than of SARS.
 
-  # This could come under limitations of PCR testing.
+  # Shedding - PCR
   // Understanding COVID-19: what does viral RNA load really mean?
   doi: https://doi.org/10.1016/S1473-3099(20)30237-1
   ref 'Joynt_et_al_2020
     head = The inability to differentiate between infective and non-infective (dead or antibody-neutralised) viruses remains a major limitation of nucleic acid detection. Despite this limitation, given the difficulties in culturing live virus from clinical specimens during a pandemic, using viral RNA load as a surrogate remains plausible for generating clinical hypotheses.
 
+    -- exports
+      !a
 
+    / March, 2020 - The Lancet Infectious Diseases
+    let !a self assert = For SARS coronavirus, viral RNA is detectable in the respiratory secretions and stools of some patients after onset of illness for more than 1 month, but live virus could not be detected by culture after week 3.
+
+
+  # Asymtomatic
   // Epidemiological Characteristics of 2143 Pediatric Patients With 2019 Coronavirus Disease in China
   doi: https://doi.org/10.1542/peds.2020-0702
   ref 'Dong_et_al_2020b
@@ -3105,7 +3178,7 @@ feed Research
     / Feb, 2020 - bioRxiv
     let !b self assert = This study provides strong evidence for human-to-human transmission as children were unlikely to visit the Huanan Seafood Wholesale Market where the early adult patients were reported to obtain 2019-nCoV.
 
-  # Refer the graph (Image) and comparison with other studies for the data we put in a.
+  # Variant population, Fatality, Refer the graph (Image) and comparison with other studies for the data we put in a.
   // Estimation of SARS-CoV-2 mortality during the early stages of an epidemic: a modelling study in Hubei, China and northern Italy
   doi: https://doi.org/10.1101/2020.03.04.20031104
   ref 'Hauser_et_al_2020
@@ -3128,7 +3201,7 @@ feed Research
     / March, 2020 - medRxiv
     let !c self assert = The adjusted estimates of mortality in Hubei province, China and northern Italy were similar, and higher than the crude CFR, suggesting that, in these settings at these times, right-censoring is a more important source of bias than preferential ascertainment.
 
-  # Data from cruise ship (Diamond Princess)
+  # Epidemic - Data from cruise ship (Diamond Princess)
   // Estimating the infection and case fatality ratio for COVID-19 using age-adjusted data from the outbreak on the Diamond Princess cruise ship
   doi: https://doi.org/10.1101/2020.03.05.20031773
   ref 'Russell_et_al_2020
@@ -3142,7 +3215,7 @@ feed Research
     / March, 2020 - medRxiv
     let !a self assert =  In the Diamond Princess cruise ship, there were 3,711 people and 634 cases of COVID19 (an attack rate of 17%). Half were asymptomatic. There were just 39 people <19 years old; only 5 got infected and only 2 had symptoms; and none died.
 
-  # We think we should mention entire discussion for this as It's not a research paper but a report.
+  # PregnantWomen
   // "Possible Vertical Transmission of SARS-CoV-2 From an Infected Mother to Her Newborn
   doi: https://doi.org/doi:10.1001/jama.2020.4621
   ref 'Dong_et_al_2020
@@ -3155,6 +3228,7 @@ feed Research
       A neonate born to a mother with COVID-19 had elevated antibody levels and abnormal cytokine test results 2 hours after birth. The elevated IgM antibody level suggests that the neonate was infected in utero. IgM antibodies are not transferred to the fetus via the placenta.2 The infant potentially could have been exposed for 23 days from the time of the mother’s diagnosis of COVID-19 to delivery. The laboratory results displaying inflammation and liver injury indirectly support the possibility of vertical transmission. Although infection at delivery cannot be ruled out, IgM antibodies usually do not appear until 3 to 7 days after infection, and the elevated IgM in the neonate was evident in a blood sample drawn 2 hours after birth. Also, the mother’s vaginal secretions were negative for SARS-CoV-2. The infant’s repeatedly negative RT-PCR test results on nasopharyngeal swabs are difficult to explain, although these tests are not always positive with infection. IgG antibodies can be transmitted to the fetus through the placenta and appear later than IgM. Therefore, the elevated IgG level may reflect maternal or infant infection.
       Limitations of this report include the single case and that no PCR testing of amniotic fluid or placenta was performed. Additional examination of maternal and newborn samples should be done to confirm this preliminary observation.
 
+  # Children
   // Coronavirus Infections in Children Including COVID-19
   doi: https://doi.org/10.1097/INF.0000000000002660
   ref 'Zimmermann_et_al_2020
@@ -3177,6 +3251,7 @@ feed Research
     / March, 2020 - The Pediatric Infectious Disease Journal
     let !c self assert = To date, no deaths in children have been reported for SARS-CoV or SARS-CoV-2, except (in the case of the former) for infants of mothers who were infected during pregnancy.
 
+  # Old age, epidemics
   // Estimating clinical severity of COVID-19 from the transmission dynamics in Wuhan, China
   doi: https://doi.org/10.1038/s41591-020-0822-7
   ref 'Wu_et_al_2020
@@ -3195,6 +3270,7 @@ feed Research
     / March, 2020 - Nature Medicine
     let !b self assert = In early data from Wuhan—as of February, 29 2020—the risk of symptomatic infection increased with age (for example, at ~4% per year among adults aged 30–60 years).
 
+  # Epidemic , Transmission
   // Epidemiology and Transmission of COVID-19 in Shenzhen China: Analysis of 391 cases and 1,286 of their close contacts
   doi: https://doi.org/10.1101/2020.03.03.20028423
   ref 'Bi_et_al_2020
@@ -3222,6 +3298,7 @@ feed Research
     / March, 2020 - medRxiv
     let !b self assert = Children are at similar risk of infection as the general population, though less likely to have severe symptoms; hence should be considered in analyses of transmission and control.
 
+  # structure
   // Enhanced isolation of SARS-CoV-2 by TMPRSS2-expressing cells
   doi: https://doi.org/10.1073/pnas.2002589117
   ref 'Matsuyama_et_al_2020
@@ -3240,6 +3317,7 @@ feed Research
     / March, 2020 - National Academy of Sciences
     let !b self assert = VeroE6/TMPRSS2 cells are easily maintained, suitable for large-scale propagation, and now available from Japanese Collection of Research Bioresources (JCRB) Cell Bank in Japan (https://cellbank.nibiohn.go.jp/english/) (JCRB no. JCRB1819).
 
+  # This paper is already put
   // Structure of SARS-CoV-2 Main Protease as a Basis for Drug Design
   doi: https://doi.org/10.1126/science.abb3405
   ref 'Zhang_et_al_2020d
@@ -3254,6 +3332,7 @@ feed Research
     / March, 2020 - Science
     let !a self assert = Given favorable pharmacokinetic results, our study provides a useful framework for development of the pyridone-containing inhibitors toward anticoronaviral drugs.
 
+  # aketoamideinhibitor
   // α-Ketoamides as Broad-Spectrum Inhibitors of Coronavirus and Enterovirus Replication: Structure-Based Design, Synthesis, and Activity Assessment
   doi: https://doi.org/10.1021/acs.jmedchem.9b01828
   ref 'Zhang_et_al_2020c
@@ -3271,6 +3350,7 @@ feed Research
     / February, 2020 -  Journal of Medicinal Chemistry
     let !b self assert = 11r exhibits excellent anti-MERS-CoV activity in virus-infected Huh7 cells. Because of the high similarity between the main proteases of SARS-CoV and the novel BetaCoV/Wuhan/2019, we expect 11r to exhibit good antiviral activity against the new coronavirus as well.
 
+  # Choloroquine
   // Effects of chloroquine on viral infections: an old drug against today's diseases
   doi: https://doi.org/10.1016/S1473-3099(03)00806-5
   ref 'Savarino_et_al_2003
@@ -3285,6 +3365,7 @@ feed Research
     / November, 2003 -  The Lancet, Infectious Diseases
     let !a self assert = Cloroquine has an exceptionally broad spectrum of antimicrobial activity that could be exploited in many infections. Results obtained in the prophylaxis of Q fever indicate that chloroquine/hydroxychloroquine can be successfully used in the clinical management of infections other than malaria. As regards viral diseases, what is clear is that the drug has antiviral and immunomodulatory effects that warrant particular consideration.
 
+  # Remdesivir
   // Broad-spectrum antiviral GS-5734 inhibits both epidemic and zoonotic coronaviruses
   doi: https://doi.org/10.1126/scitranslmed.aal3653
   ref 'Sheahan_et_al_2017
@@ -3307,6 +3388,7 @@ feed Research
     / August, 2017 -  HHS public Access
     let !c self assert = In a mouse model of SARS-CoV pathogenesis, prophylactic and early therapeutic administration of GS-5734 significantly reduced lung viral load and improved clinical signs of disease as well as respiratory function.
 
+  # Choloroquine
   // Chloroquine is a potent inhibitor of SARS coronavirus infection and spread
   doi: https://doi.org/10.1186/1743-422X-2-69
   ref 'Vincent_et_al_2005
@@ -3318,6 +3400,7 @@ feed Research
     / August, 2005 -  Virology Journal
     let !a self assert = Chloroquine is effective in preventing the spread of SARS CoV in cell culture. Favorable inhibition of virus spread was observed when the cells were either treated with chloroquine prior to or after SARS CoV infection.
 
+  # Choloroquine
   // Toxicity Related to Chloroquine Treatment of Resistant Vivax Malaria
   doi: https://doi.org/10.1345/aph.1C311
   ref 'Davis_et_al_2003
@@ -3329,6 +3412,7 @@ feed Research
     / April, 2003 - Annals of pharmacotherapy
     let !a self assert = For drugs with a narrow therapeutic index such as chloroquine, recommended dosing regimens should be respected, and adequate information sources must be available where such drugs are dispensed by untrained personnel.
 
+  # Hydroxychloroquine
   // In Vitro Antiviral Activity and Projection of Optimized Dosing Design of Hydroxychloroquine for the Treatment of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)
   doi: https://doi.org/10.1093/cid/ciaa237
   ref 'Yao_et_al_2020
@@ -3340,6 +3424,7 @@ feed Research
     / March, 2020 - Clinical infectious diseases
     let !a self assert = Hydroxychloroquine was found to be more potent than chloroquine to inhibit SARS-CoV-2 in vitro.
 
+  # Hydroxychloroquine
   // Hydroxychloroquine, a less toxic derivative of chloroquine, is effective in inhibiting SARS-CoV-2 infection in vitro
   doi: https://doi.org/10.1038/s41421-020-0156-0
   ref 'Liu_et_al_2020b
@@ -3374,6 +3459,7 @@ feed Research
     / March, 2020 - Cell Discovery
     let !g self assert = Although HCQ is less toxic than CQ, prolonged and overdose usage can still cause poisoning.
 
+  # Remdesivir and Choloroquine
   // Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro
   doi: https://doi.org/10.1038/s41422-020-0282-0
   ref 'Wang_et_al_2020
@@ -3389,6 +3475,7 @@ feed Research
     / February, 2020 - Cell Research
     let !b self assert = Our findings reveal that remdesivir and chloroquine are highly effective in the control of 2019-nCoV infection in vitro. Since these compounds have been used in human patients with a safety track record and shown to be effective against various ailments, we suggest that they should be assessed in human patients suffering from the novel coronavirus disease.
 
+  # Remediation
   // Therapeutic options for the 2019 novel coronavirus (2019-nCoV)
   doi: https://doi.org/10.1038/d41573-020-00016-0
   ref 'Li_et_al_2020
@@ -3404,7 +3491,8 @@ feed Research
     / February, 2020 -  Nature Reviews Drug Discovery
     let !b self assert = Given the available knowledge on their safety profiles, and in some cases efficacy against closely related coronaviruses, repurposing existing antiviral agents is a potentially important near-term strategy to tackle 2019-nCoV.
 
-  # Patient study claiming hydroxychloroquine is effective in COVID-19 didn’t use a control group. This means we don’t know if the results would have been any different without giving hydroxychloroquine.
+
+  # Hydroxychloroquine- Patient study claiming hydroxychloroquine is effective in COVID-19 didn’t use a control group. This means we don’t know if the results would have been any different without giving hydroxychloroquine.
   // Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an openlabel non-randomized clinical trial
   doi: https://doi.org/10.1016/j.ijantimicag.2020.105949
   ref 'Gautret_et_al_2020
@@ -3416,6 +3504,7 @@ feed Research
     / March, 2020 -  International Journal of Antimicrobial
     let !a self assert = Despite its small sample size our survey shows that hydroxychloroquine treatment is significantly associated with viral load reduction/disappearance in COVID-19 patients and its effect is reinforced by azithromycin.
 
+  # Lopinavir
   // A Trial of Lopinavir–Ritonavir in Adults Hospitalized with Severe Covid-19
   doi: https://doi.org/10.1056/NEJMoa2001282
   ref 'Cao_et_al_2020
@@ -3427,6 +3516,7 @@ feed Research
     / March, 2020 - The New England Journal of Medicine
     let !a self assert =  A clinical trial of 199 COVID-19 patients in China testing lopinavir-ritonavir (lopinavir 400mg/ritonavir 100mg bd) treatment for 14 days demonstrated no benefit compared to standard care.
 
+  # Epidemic
   // Epidemiologic Features and Clinical Course of Patients Infected With SARS-CoV-2 in Singapore
   doi: https://doi.org/10.1001/jama.2020.3204
   ref 'Young_et_al_2020
@@ -3442,6 +3532,7 @@ feed Research
     / March, 2020 - Jama Network
     let !b self assert = A case series of 5 COVID-19 patients in Singapore treated with lopinavir-ritonavir (lopinavir 400mg/ ritonavir 100mg bd) noted that for 3 out of 5 patients, fever resolved and oxygen requirements were reduced within 3 days. Two of the patients deteriorated and went into respiratory failure. This case series noted adverse effects including nausea, vomiting, and/or diarrhea in 4 patients, in addition to abnormal liver function tests found in 3 patients.
 
+  # Epidemic, Lopinavir
   // Case of the Index Patient Who Caused Tertiary Transmission of Coronavirus Disease 2019 in Korea: the Application of Lopinavir/Ritonavir for the Treatment of COVID-19 Pneumonia Monitored by Quantitative RT-PCR
   doi: https://doi.org/10.3346/jkms.2020.35.e79
   ref 'Lim_et_al_2020
@@ -3456,6 +3547,7 @@ feed Research
     / February, 2020 -  Journal of Korean Medical science
     let !a self assert = In an early case of COVID-19 in Korea, after lopinavir/ritonavir (Kaletra, AbbVie) was administered, β-coronavirus viral loads significantly decreased and no or little coronavirus titers were observed.
 
+  # Epidemic
   // The First Case of 2019 Novel Coronavirus Pneumonia Imported into Korea from Wuhan, China: Implication for Infection Prevention and Control Measures
   doi: https://doi.org/10.3346/jkms.2020.35.e61
   ref 'Kim_et_al_2020
@@ -3478,6 +3570,7 @@ feed Research
     / February, 2020 -  Journal of Korean Medical Science
     let !c self assert = Taking travel history is of paramount importance for early detection and isolation of 2019-nCoV cases.
 
+  # Choloroquine
   // A systematic review on the efficacy and safety of chloroquine for the treatment of COVID-19
   doi: https://doi.org/10.1016/j.jcrc.2020.03.005
   ref 'Cortegiani_et_al_2020
@@ -3504,6 +3597,7 @@ feed Research
     / March, 2020 - Journal of Critical Care
     let !e self assert = Although the use of chloroquine may be supported by expert opinion, clinical use of this drug in patients with COVID-19 should adhere to the MEURI framework or after ethical approval as a trial as stated by the WHO.
 
+  # Epidemic
   // First Case of 2019 Novel Coronavirus in the United States
   doi: https://doi.org/10.1056/NEJMoa2001191
   ref 'Holshue_et_al_2020
@@ -3526,7 +3620,7 @@ feed Research
     / March, 2020 - The New England Journal of Medicine
     let !c self assert = It is important for clinicians to elicit a recent history of travel or exposure to sick contacts in any patient presenting for medical care with acute illness symptoms, in order to ensure appropriate identification and prompt isolation of patients who may be at risk for 2019-nCoV infection and to help reduce further transmission.
 
-  # Tag- Weather influence
+  # Tag- Projection
   // Projecting the transmission dynamics of SARS-CoV-2 through the post-pandemic period
   doi: https://doi.org/10.1101/2020.03.04.20031112
   ref 'Kissler_et_al_2020
@@ -3541,6 +3635,7 @@ feed Research
     / March, 2020 - Medrxiv
     let !a self assert = We project that recurrent wintertime outbreaks of SARS-CoV-2 will probably occur after an initial pandemic wave.
 
+  # CommunityMitigation
   // What is required to prevent a second major outbreak of the novel coronavirus SARS-CoV-2 upon lifting the metropolitan-wide quarantine of Wuhan city, China
   doi: https://doi.org/10.1101/2020.03.24.20042374
   ref 'Zhang_et_al_2020b
@@ -3555,6 +3650,7 @@ feed Research
     / March, 2020 - Medrxiv
     let !a self assert = The prevention of a second epidemic is viable after the metropolitan-wide quarantine is lifted but requires a sustaining high facial mask usage and a low public contact rate.
 
+  # Face Mask
   // The use of masks and respirators to prevent transmission of influenza: a systematic review of the scientific evidence.
   doi: https://doi.org/10.1111/j.1750-2659.2011.00307.x
   ref 'bin_Reza_et_al_2011
@@ -3581,6 +3677,7 @@ feed Research
     / December, 2011 -  Wiley
     let !d self assert = Mask use is best undertaken as part of a package of personal protection, especially including hand hygiene in both home and healthcare settings. Early initiation and correct and consistent wearing of masks/respirators may improve their effectiveness.
 
+  # Facemasks
   // Mathematical Modeling of the Effectiveness of Facemasks in Reducing the Spread of Novel Influenza A (H1N1)
   doi: https://doi.org/10.1371/journal.pone.0009018
   ref 'Tracht_et_al_2010
@@ -3600,6 +3697,7 @@ feed Research
     / February, 2010 -  Plos one
     let !b self assert = We can conclude from our model that, if worn properly, facemasks are an effective intervention strategy in reducing the spread of pandemic (H1N1) 2009.
 
+  # Face Mask
   // Modeling the Effectiveness of Respiratory Protective Devices in Reducing Influenza Outbreak
   doi: https://doi.org/10.1111/risa.13181
   ref 'Yan_et_al_2019
@@ -3614,6 +3712,7 @@ feed Research
     / March, 2019 - Wiley
     let !a self assert = In our model of influenza outbreak, we found that a 50% compliance in donning a respiratory protective device resulted in a significant reduction in risk for fitted and unfitted N95 respirators, high‐filtration surgical masks, and both low‐filtration and high‐filtration pediatric masks. An 80% compliance rate essentially eliminated the influenza outbreak.
 
+  # HumanAnimalTransmission
   // Susceptibility of ferrets, cats, dogs, and different domestic animals to SARS-coronavirus-2
   doi: https://doi.org/10.1101/2020.03.30.015347
   ref 'Chen_et_al_2020b
@@ -3632,6 +3731,7 @@ feed Research
     / March, 2020 - BioRxiv
     let !b self assert = We found that the virus transmits in cats via respiratory droplets.
 
+  #  Animal Spread
   // Atlas of ACE2 gene expression in mammals reveals novel insights in transmission of SARS-Cov-2
   doi: https://doi.org/10.1101/2020.03.30.015644
   ref 'Sun_et_al_2020
@@ -3667,6 +3767,7 @@ feed Research
     # >>> Conclusions
     #   Most notably, our analyses revealed that ACE2 expression levels are particularly high in cats and dogs. Especially in cats, expression levels in top four ACE2 expression hotspot tissues are all magnitudes higher than any other mammals examined. Intriguingly, in the ACE2 phylogenic tree, both cats and dogs are also cluster closer to humans than other mammals, suggesting potentially higher affinity to coronaviruses in these pets. SARS-CoV is known to infect cats, while SARS-CoV-2 positive cats and dogs had also been reported, therefore our analyses suggest high possibility that cats and dogs can host SARS-CoV-2. Furthermore, in both cats and dogs, skin had high abundant ACE2 expression, so did ear tip in cats and retina in dogs. High ACE2 expression levels in these exterior body parts makes them particularly likely to host SARS-CoV-2 and pass on to humans via skin to skin contact. Stray animals can even be more serious transmitters of coronaviruses. It is estimated that there are approximately 500 million stray dogs and similar number of stray cats worldwide. Cats and dogs are sometimes slaughtered for meat, including a large proportion of stray ones. Therefore, it is likely that cats and dogs may have contributed to the COVID-19 pandemic. For the least, people should also be vigilant with handling of pets in the effort of containing the spread of SARS-CoV-2.
 
+  # Strucure
   // The spike glycoprotein of the new coronavirus 2019-nCoV contains a furin-like cleavage site absent in CoV of the same clade
   doi: https://doi.org/10.1016/j.antiviral.2020.104742
   ref 'Coutard_et_al_2020
@@ -3693,6 +3794,7 @@ feed Research
     / February, 2020 -  Antiviral Research
     let !d self assert = Campaigns to develop anti-2019-nCoV therapeutics should include the evaluation of furin inhibitors
 
+  # Strucure
   // Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation
   doi: https://doi.org/10.1126/science.abb2507
   ref 'Wrapp_et_al_2020
@@ -3707,6 +3809,7 @@ feed Research
     / March, 2020 - Science
     let !a self assert = The structure of 2019-nCoV S should enable the rapid development and evaluation of medical countermeasures to address the ongoing public health crisis.
 
+  # Frontiers
   // The Egyptian Rousette Genome Reveals Unexpected Features of Bat Antiviral Immunity
   doi: https://doi.org/10.1016/j.cell.2018.03.070
   ref 'Pavlovich_et_al_2018
@@ -3722,6 +3825,7 @@ feed Research
     / May, 2018 - Cell
     let !a self assert = We found an expanded and diversified KLRC/KLRD family of natural killer cell receptors, MHC class I genes, and type I interferons, which dramatically differ from their functional counterparts in other mammals. Such concerted evolution of key components of bat immunity is strongly suggestive of novel modes of antiviral defense.
 
+  # Frontiers
   // Novel Insights Into Immune Systems of Bats
   doi: https://doi.org/10.3389/fimmu.2020.00026
   ref 'Banerjee_et_al_2020
@@ -3752,6 +3856,7 @@ feed Research
     / January, 2020 - Viral Immunology
     let !e self assert = As more bat reagents become available in the future, it should be possible to elucidate the mechanisms that bats have evolved to coexist with viruses in the absence of disease and this information could be useful for preventing or treating lethal viral infections in humans.
 
+  #  Digital tracing
   // Quantifying SARS-CoV-2 transmission suggests epidemic control with digital contact tracing
   doi: https://doi.org/10.1126/science.abb6936
   ref 'Ferretti_et_al_2020
@@ -3766,6 +3871,7 @@ feed Research
     / March, 2020 - Science
     let !a self assert = A contact-tracing App which builds a memory of proximity contacts and immediately notifies contacts of positive cases can achieve epidemic control if used by enough people. By targeting recommendations to only those at risk, epidemics could be contained without need for mass quarantines (‘lock-downs’) that are harmful to society.
 
+  # Smokers
   // Cigarette smoke triggers the expansion of a subpopulation of respiratory epithelial cells that express the SARS-CoV-2 receptor ACE2
   doi: https://doi.org/10.1101/2020.03.28.013672
   ref 'Smith_et_al_2020
@@ -3784,6 +3890,7 @@ feed Research
     / March, 2020 - BioRxiv
     let !b self assert = Smokers are particularly likely to develop severe SARS-CoV-2 infections, and quitting smoking could lessen coronavirus susceptibility.
 
+  # Background
   // Recombination, Reservoirs, and the Modular Spike: Mechanisms of Coronavirus Cross-Species Transmission
   doi: https://doi.org/10.1128/JVI.01394-09
   ref 'Graham_et_al_2010
@@ -3799,6 +3906,7 @@ feed Research
     / March, 2010 - Journal of Virlogy
     let !b self assert = The routine nature of viral cross-species transmission in the coronavirus family brings up the question of the likelihood of another emergence event of a pathogenic human coronavirus and underscores the need to continue zoonotic surveillance and research centered around developing therapeutics and vaccines capable of neutralizing or preventing infection with and spread of these promiscuous viruses.
 
+  # Background
   // Viral evolution and the emergence of SARS coronavirus.
   doi: https://doi.org/10.1098/rstb.2004.1478
   ref 'Holmes_et_al_2004
@@ -3813,6 +3921,7 @@ feed Research
     / June, 2004 -  The Royal Society
     let !a self assert = The central processes in the evolution of emerging viruses are unclear, particularly the selection pressures faced by viruses in new host species.
 
+  # origin
   // A Novel Coronavirus from Patients with Pneumonia in China, 2019
   doi: https://doi.org/10.1056/NEJMoa2001017
   ref 'Zhu_et_al_2020
@@ -3835,9 +3944,10 @@ feed Research
     / January, 2020 - New England Journal of Medicine
     let !c self assert = Since the sequence identity in conserved replicase domains (ORF 1ab) is less than 90% between 2019-nCoV and other members of betacoronavirus, the 2019-nCoV — the likely causative agent of the viral pneumonia in Wuhan — is a novel betacoronavirus belonging to the sarbecovirus subgenus of Coronaviridae family.
 
+  # Background
   // Middle East Respiratory Syndrome Coronavirus: A Review
-  link: https://www.scopus.com/record/display.uri?eid=2-s2.0-85074705296&origin=inward&txGid=1cc6abb23965d2e69917b68112591223
-  ref 'Ramadan_and_Shaib_2019
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6446491/
+  ref 'Ramadan_et_al_2019
     head = As a novel coronavirus first reported by Saudi Arabia in 2012, the Middle East respiratory syndrome coronavirus (MERS-CoV) is responsible for an acute human respiratory syndrome. The virus is densely endemic in dromedary camels of East Africa and the Arabian Peninsula.
 
     >>> Abstract
@@ -3849,6 +3959,7 @@ feed Research
     / March, 2019 - Germs
     let !a self assert = Surveillance and phylogenetic researches indicate MERS-CoV to be closely associated with bats’ coronaviruses, suggesting bats as reservoirs, although unconfirmed.
 
+  # Origin
   // Novel coronavirus: From discovery to clinical diagnostics
   doi: https://doi.org/10.1016/j.meegid.2020.104211
   ref 'Phan_et_al_2020
@@ -3864,6 +3975,7 @@ feed Research
     / January, 2020 - Infection, Genetics and Evolution
     let !b self assert = Our pair-wise sequence analysis demonstrated that 2019-nCoV shared very low nucleotide similarity, less than 50%, to HCoV-229E, -NL63, –OC43, -HKU1, and MERS-CoV
 
+  # Strucure
   // Genetic diversity and evolution of SARS-CoV-2
   doi: https://doi.org/10.1016/j.meegid.2020.104260
   ref 'Phan_et_al_2020b
@@ -3875,6 +3987,7 @@ feed Research
     / February, 2020 - Infection, Genetics and Evolution
     let !a self assert = Genomic sequences of SARS-VoV-2 provide evidence of the genetic diversity and rapid evolution of this novel coronavirus.
 
+  # background
   // Molecular epidemiology, evolution and phylogeny of SARS coronavirus
   doi: https://doi.org/10.1016/j.meegid.2019.03.001
   ref 'Luk_et_al_2019
@@ -3889,6 +4002,7 @@ feed Research
     / July, 2019 - Infection, Genetics and Evolution
     let !a self assert = Our current model on the origin of SARS is that the human SARS-CoV that caused the epidemic in 2002/2003 was probably a result of multiple recombination events from a number of SARSr-CoV ancestors in different horseshoe bat species.
 
+  #  Background
   // Global Epidemiology of Bat Coronaviruses
   doi: https://doi.org/10.3390/v11020174
   ref 'Wong_et_al_2019
@@ -3902,15 +4016,16 @@ feed Research
       !b
       !c
 
-    / February, 2019 -  Vriuses
+    / February, 2019 -  Viruses
     let !a self assert = Bats are a unique and highly diversified group of mammals. Diverse cell types and receptors facilitate them to be potential hosts of a large variety of viruses.
 
-    / February, 2019 -  Vriuses
+    / February, 2019 -  Viruses
     let !b self assert = Bats are the only group of mammals capable of sustained flight, which enables them to disseminate the viruses they harbor and enhance the chance of interspecies transmission.
 
-    / February, 2019 -  Vriuses
+    / February, 2019 -  Viruses
     let !c self assert = Bat–animal and bat–human interactions, such as the presence of live bats in wildlife wet markets and restaurants in Southern China, are important for interspecies transmission of CoVs and may lead to devastating global outbreaks.
 
+  # Background
   // Origin and evolution of pathogenic coronaviruses.
   doi: https://doi.org/10.1038/s41579-018-0118-9
   ref 'Cui_et_al_2018
@@ -3951,6 +4066,7 @@ feed Research
 
     # https://en.wikipedia.org/wiki/One_Health
 
+  # Origin
   // Extensive diversity of coronaviruses in bats from China
   doi: https://doi.org/10.1016/j.virol.2017.03.019
   ref 'Lin_et_al_2017
@@ -3965,6 +4081,7 @@ feed Research
     / July, 2017 -  Virology
     let !a self assert = High contact rates among specific bat species enable the acquisition and spread of coronaviruses.
 
+  # Origin
   // A review of studies on animal reservoirs of the SARS coronavirus.
   doi: https://doi.org/10.1016/j.virusres.2007.03.012
   ref 'Shi_et_al_2008
@@ -3987,6 +4104,7 @@ feed Research
     / April, 2008 - Virology
     let !c self assert = Even though there was little direct evidence to indicate that viruses in bats can cause the severe disease in other domestic animals and in humans, there is an increased possibility of virus variants crossing the species barrier and causing outbreaks in humans as people come into closer contact with wild animals.
 
+  # Background
   // Hosts and Sources of Endemic Human Coronaviruses
   doi: https://doi.org/10.1016/bs.aivir.2018.01.001
   ref 'Corman_et_al_2018
@@ -4001,6 +4119,7 @@ feed Research
     / February, 2018 -  Advances in Virus Research
     let !a self assert = The four endemic human coronaviruses HCoV-229E, -NL63, -OC43, and -HKU1 contribute a considerable share of upper and lower respiratory tract infections in adults and children.
 
+  # Background
   // A Case for the Ancient Origin of Coronaviruses
   doi: https://doi.org/10.1128/JVI.03273-12
   ref 'Wertheim_et_al_2013
@@ -4015,6 +4134,7 @@ feed Research
     / April, 2013 - Journal of Virology
     let !a self assert = By explicitly modeling variation in the strength of natural selection over time and thereby improving the modeling of substitution saturation, we found that the time to the most recent ancestor common for all coronaviruses is likely far greater (millions of years) than the previously inferred range.
 
+  # Tag - Pandemic
   // Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV2)
   doi: https://doi.org/10.1126/science.abb3221
   ref 'Ruiyun_et_al_2020
@@ -4038,6 +4158,7 @@ feed Research
     / March, 2020 - Science
     let !d self assert = Our findings also indicate that a radical increase in the identification and isolation of currently undocumented infections would be needed to fully control SARS-CoV2.
 
+  # Convalescent plasma
   // Convalescent plasma as a potential therapy for COVID-19
   doi: https://doi.org/10.1016/S1473-3099(20)30141-9
   ref 'Chen_et_al_2020
@@ -4057,6 +4178,7 @@ feed Research
     / The Lancet - Feb, 2020
     let !c self assert = Evidence shows that convalescent plasma from patients who have recovered from viral infections can be used as a treatment without the occurrence of severe adverse events. Therefore, it might be worthwhile to test the safety and efficacy of convalescent plasma transfusion in SARS-CoV-2-infected patients.
 
+  # Origin - Disputes against consipiracy
   // The proximal origin of SARS-CoV-2
   link: https://www.nature.com/articles/s41591-020-0820-9
   doi: https://doi.org/10.1038/s41591-020-0820-9
@@ -4077,14 +4199,16 @@ feed Research
     / Nature Medicine - March 17, 2020
     let !c self assert = SARS-CoV-2 may have originated through natural selection in humans following zoonotic transfer.s
 
+  #  Old age , BloodCoagulation, Co-Morbid, Clinical characteristic
   // Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study.
   doi: https://doi.org/10.1016/S0140-6736(20)30566-3
-  ref 'Zhou_et_al_2020
+  ref 'Zhou_et_al_2020b
     head = The potential risk factors of older age, high SOFA scroe, and d-dimer greater than 1 μg/mL could help clinicians to identify patients with poor prognosis at an early stage. Prolonged viral shedding would provide the rationale for a strategy of isolation of infected patients and optimal antiviral interventions in the future.
 
     / Lancet - March, 2020
     let !a self assert = Prolonged viral shedding would provide the rationale for a strategy of isolation of infected patients and optimal antiviral interventions in the future.
 
+  # Transmission - Air and Surface
   // Transmission Potential of SARS-CoV-2 in Viral Shedding Observed at the University of Nebraska Medical Center
   doi: https://doi.org/10.1101/2020.03.23.20039446
   ref 'Santarpia_et_al_2020
@@ -4096,6 +4220,7 @@ feed Research
     / bioRxiv - March, 2020
     let !a self assert = Our study indicates SARS-CoV-2 is shed to the environment as expired particles, during toileting, and through contact with fomites. Disease spread through both direct (droplet and person-to-person) as well as indirect contact (contaminated objects and airborne transmission) are indicated, supporting the use of airborne isolation precautions.
 
+  # Aerosol transmission
   // Aerodynamic Characteristics and RNA Concentration of SARS-CoV-2 Aerosol in Wuhan Hospitals during COVID-19 Outbreak
   doi: https://doi.org/10.1101/2020.03.08.982637
   ref 'Liu_et_al_2020
@@ -4111,11 +4236,16 @@ feed Research
     / bioRxiv - March, 2020
     let !b self assert = SARS-CoV-2 aerosol deposition on protective apparel or floor surface and their subsequent resuspension is a potential transmission pathway and effective sanitization is critical in minimizing aerosol transmission of SARS-CoV-2.
 
+  # Tag - aketoamideinhibitor
   // Crystal structure of SARS-CoV-2 main protease provides a basis for design of improved α-ketoamide inhibitors
   doi: https://doi.org/10.1126/science.abb3405
   ref 'Zhang_et_al_2020
     head = We report the X-ray structures of the unliganded SARS-CoV-2 Mpro and its complex with an α-ketoamide inhibitor. Based on the structure, we developed the lead compound into a potent inhibitor of the SARS-CoV-2 Mpro. The pharmacokinetic characterization of the optimized inhibitor reveals a pronounced lung tropism and suitability for administration by the inhalative route.
 
+    >>> Abstract
+      The coronavirus disease 2019 (COVID-19) pandemic caused by severe acute respiratory syndrome–coronavirus 2 (SARS-CoV-2) is a global health emergency. An attractive drug target among coronaviruses is the main protease (Mpro, also called 3CLpro) because of its essential role in processing the polyproteins that are translated from the viral RNA. We report the x-ray structures of the unliganded SARS-CoV-2 Mpro and its complex with an α-ketoamide inhibitor. This was derived from a previously designed inhibitor but with the P3-P2 amide bond incorporated into a pyridone ring to enhance the half-life of the compound in plasma. On the basis of the unliganded structure, we developed the lead compound into a potent inhibitor of the SARS-CoV-2 Mpro. The pharmacokinetic characterization of the optimized inhibitor reveals a pronounced lung tropism and suitability for administration by the inhalative route.
+
+  # Tag ACE2 inhibitor at Remediation
   // The first-in-class peptide binder to the SARS-CoV-2 spike protein
   doi: https://doi.org/10.1101/2020.03.19.999318
   ref 'Zhang_et_all_2020b
@@ -4127,6 +4257,7 @@ feed Research
     / bioRxiv - March, 2020
     let !a self assert = ACE2 peptidase domain (PD) α1 helix is important for binding SARS-CoV-2-RBD. This peptide binder to SARS-CoV-2-RBD provides new avenues for COVID-19 treatment and diagnostic modalities by blocking the SARS-CoV-2 spike protein interaction with ACE2 and thus precluding virus entry into human cells.
 
+  # Tag- Strucure
   // Structure, Function, and Antigenicity of the SARS-CoV-2 Spike Glycoprotein
   doi: http://dx.doi.org/10.1016/j.cell.2020.02.058
   ref 'Walls_et_al_2020
@@ -4153,6 +4284,7 @@ feed Research
     / Cell - 2020
     let !d self assert = SARS-CoV polyclonal antibodies inhibit SARS-CoV-2 spike-mediated entry into cells.
 
+  # viability
   // Aerosol and surface stability of HCoV-19 (SARS-CoV-2) compared to SARS-CoV-1
   doi: https://doi.org/10.1056/NEJMc2004973
   ref 'van_Doremalen_et_al_2020
@@ -4172,6 +4304,7 @@ feed Research
     / New England Journal of Medicine - March, 2020
     let !c self assert = On cardboard, no viable SARS-CoV-2 was measured after 24 hours.
 
+  # Tag - Strucure
   // Clinical presentation and virological assessment of hospitalized cases of coronavirus disease 2019 in a travel-associated transmission cluster
   doi: https://doi.org/10.1101/2020.03.05.20030502
   ref 'Woelfel_et_al_2020
@@ -4186,6 +4319,7 @@ feed Research
     / medRxiv - March, 2020
     let !b self assert = SARS-CoV-2 can actively replicate in the upper respiratory tract, and is shed for a prolonged time after symptoms end, including in stool.
 
+  # Tag - Strucure
   // SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor
   doi: https://doi.org/10.1016/j.cell.2020.02.052
   citation: Hoffmann, Markus et al. Cell, Volume 0, Issue 0
@@ -4204,6 +4338,7 @@ feed Research
     / Cell - March, 2020
     let !c self assert = Antibodies against SARS-CoV spike may offer some protection against SARS-CoV-2
 
+  # Tag - Transmission
   // Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient
   doi: https://doi.org/10.1001/jama.2020.3227
   ref 'Ong_et_al_2020
@@ -4215,6 +4350,7 @@ feed Research
     / JAMA Network - March, 2020
     let !a self assert = Significant environmental contamination by patients with SARS-CoV-2 through respiratory droplets and fecal shedding suggests the environment as a potential medium of transmission
 
+  # Tag - Origin
   // A pneumonia outbreak associated with a new coronavirus of probable bat origin
   link: https://www.nature.com/articles/s41586-020-2012-7
   doi: https://doi.org/10.1038/s41586-020-2012-7
@@ -4230,6 +4366,7 @@ feed Research
     / Nature — February, 2020
     let !a self assert = Since the outbreak of severe acute respiratory syndrome (SARS) 18 years ago, a large number of SARS-related coronaviruses (SARSr-CoVs) have been discovered in their natural reservoir host, bats.
 
+  # Background - Bats
   // A SARS-like cluster of circulating bat coronaviruses shows potential for human emergence
   doi: https://dx.doi.org/10.1038%2Fnm.3985
   ref 'Menachery_et_al_2015
@@ -4241,6 +4378,7 @@ feed Research
     / Nature - November, 2015
     let !a self assert = Our work suggests a potential risk of SARS-CoV re-emergence from viruses currently circulating in bat populations.
 
+  # Tag - Background
   // T Cell Responses Are Required for Protection from Clinical Disease and for Virus Clearance in Severe Acute Respiratory Syndrome Coronavirus-Infected Mice
   doi: 10.1128/JVI.01049-10
   ref 'Zhao_et_al_2010
@@ -4252,6 +4390,7 @@ feed Research
     / Journal of Virology - June, 2010
     let !a self assert = Virus-specific T cells are necessary and sufficient for virus clearance and for protection from clinical disease in virus-infected mice.
 
+  # Tag - Background
   // Cellular Immune Responses to Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV) Infection in Senescent BALB/c Mice: CD4+ T Cells Are Important in Control of SARS-CoV Infection
   doi: https://doi.org/10.1128/JVI.01281-09
   ref 'Chen_et_al_2009
@@ -4272,6 +4411,7 @@ feed Research
     / Journal of Virology - October, 2009
     let !d self assert = SARS-CoV infection induces an enhanced virus-specific T-cell response in the lungs.
 
+  # Prospects - SARS Cov
   // Inactivation of the coronavirus that induces severe acute respiratory syndrome, SARS-CoV.
   doi: https://doi.org/10.1016/j.jviromet.2004.06.006
   ref 'Darnell_et_al_2004

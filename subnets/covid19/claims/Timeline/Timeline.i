@@ -36,8 +36,8 @@ subject module Timeline
       'Cui_et_al_2018.!e
       'Cui_et_al_2018.!f
       'Cui_et_al_2018.!g
-      'Ramadan_and_Shaib_2019
-      'Ramadan_and_Shaib_2019.!a
+      'Ramadan_et_al_2019
+      'Ramadan_et_al_2019.!a
       'Wong_et_al_2019
       'Wong_et_al_2019.!a
       'Wong_et_al_2019.!b
