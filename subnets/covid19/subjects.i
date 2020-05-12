@@ -79,14 +79,14 @@ subject module VirusFeatures
 
 
   subject module Shedding
-    --
-      'Liu_et_al_2020c
 
     -- Shedding
       'Woelfel_et_al_2020
       'He_et_al_2020
       'Wölfel_et_al_2020.!h
+    # Mention Assertions that viral load is not the main predictor of disease outcocmes   
     -- Viral load
+      'Liu_et_al_2020c
       'Joynt_et_al_2020
       'Zou_et_al_2020
 
@@ -140,7 +140,10 @@ subject module VirusFeatures
             'Russell_et_al_2020.!a
             'Dong_et_al_2020b
             'He_et_al_2020.!a
+            'Nishiura_et_al_2020
         subject Superspreaders
+          --
+            'Hoehl_et_al_2020
         subject Children
           --
             'Bi_et_al_2020.!b
@@ -154,6 +157,7 @@ subject module VirusFeatures
       'Notari_et_al_2020
     -- Air Pollution
       'Ong_et_al_2020
+      'Wu_et_al_2020c
 
 # Pathogeny
 subject module DiseaseFeatures
@@ -176,9 +180,20 @@ subject module DiseaseFeatures
 
     # / Latent / Mismatch papers
     subject IncubationPeriod
+      --
+        'Colman_et_al_2018
+        'Lessler_et_al_2013
+        'Tindale_et_al_2020
+        'Nishiura_et_al_2020
+        'Linton_et_al_2020
+
+    / Asymtomatic and Presymptomatic Phase
     subject AsymptomaticPhase
       --
         'He_et_al_2020.!b
+        'Du_et_al_2020
+        'Zou_et_al_2020
+
     subject SymptomaticPhase
       --
         'Ragona_et_al_2020
@@ -234,6 +249,9 @@ subject module DiseaseFeatures
           'Franceschi_et_al_2006
 
     subject Gender
+      --
+        'Chen_et_al_2020d.!a
+        'Chen_et_al_2020d.!b
 
     subject Smokers
       --
@@ -242,10 +260,12 @@ subject module DiseaseFeatures
     subject PregnantWomen
       --
         'Dong_et_al_2020
+        'Favre_et_al_2020
 
     / Clinical characteristics based on location
     subject Clinicalcharacteristics
 
+    # Shift to environment?
     subject AirPollution
       --
         'Wu_et_al_2020c
@@ -254,6 +274,8 @@ subject module DiseaseFeatures
     subject module CoMorbidConditions
       --
         'Zhou_et_al_2020
+        'Guan_et_al_2020
+        'Guan_et_al_2020.!b
       -- To avoid complications
         'Liu_et_al_2020d
         'Kim_et_al_2017
@@ -296,6 +318,8 @@ subject module DiseaseFeatures
       -- SARS-CoV2
         'Jiang_et_al_2020
         'Wu_et_al_2020b
+        'Zhang_et_al_2020g
+        'Amanat_et_al_2020
       -- How long does your immunity last
         'Zhao_et_al_2020
         'Zhao_et_al_2020.!a
@@ -303,6 +327,8 @@ subject module DiseaseFeatures
         'Zhao_et_al_2020.!c
         'Wu_et_al_2007
         'Wu_et_al_2007.!a
+        'Ka_et_al_1990
+
 
     subject Reinfection
       --
@@ -311,6 +337,7 @@ subject module DiseaseFeatures
         'Wölfel_et_al_2020
         'Wölfel_et_al_2020.!h
         'Wölfel_et_al_2020.!i
+        'Amanat_et_al_2020.!b
     subject Relapse
 
 
@@ -321,6 +348,10 @@ subject module Diagnostics
       'Netto_et_al_2017
       'Stadlbauer_et_al_2020
       'Mcintosh_et_al_1970
+      'Zhang_et_al_2020g
+      'Amanat_et_al_2020
+      'Amanat_et_al_2020.!c
+      'Amanat_et_al_2020.!f
   subject PCR
     # Limitations of PCR
     --
@@ -348,6 +379,7 @@ subject module Mitigation
         'Yan_et_al_2019
         'Tracht_et_al_2010
         'bin_Reza_et_al_2011
+        'Leung_et_al_2020
 
   # / Network Prevention / Containment
   subject CommunityMitigation
@@ -374,6 +406,7 @@ subject module Mitigation
     subject Quarantine
       -- Quarantine
         'Dandekar_et_al_2020
+         'Xia_et_al_2020
     subject SocialDistancing
 
     subject SchoolClosure

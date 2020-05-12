@@ -27,6 +27,7 @@ feed Research
   / April, 2020
   feed April2020
     --
+      'Tang_et_al_2020
       'Paraskevis_et_al_2020
       'Zhang_et_al_2020f
       'Quinlan_et_al_2020
@@ -51,6 +52,10 @@ feed Research
   / March, 2020
   feed March2020
     --
+      'Das_et_al_March_2020
+      'J_et_al_2020
+      'Han_et_al_2020
+      'Chen_et_al_2020d
       'Guo_et_al_2020
       'Guan_et_al_2020
       'Favre_et_al_2020
@@ -158,8 +163,14 @@ feed Research
   feed 2019
     -- December, 2019
       'Benfield_et_al_2019
+
     -- July, 2019
       'Luk_et_al_2019
+
+    -- June, 2019
+      'Voiriot_et_al_2019
+      'Shi_et_al_2019
+      'Wu_et_al_2019
 
     -- March, 2019
       'Yan_et_al_2019
@@ -193,6 +204,7 @@ feed Research
     -- November, 2017
       'Huang_et_al_2017
       'Babady_et_al_2017
+      'Evavold_et_al_2017
 
     -- October, 2017
       'Netto_et_al_2017
@@ -227,6 +239,9 @@ feed Research
     -- June, 2016
       'Alshukairi_AN_et_al_2016
 
+    -- April, 2016
+      'Pillai_et_al_2016
+
     -- March, 2016
       'Marano_et_al_2016
 
@@ -251,6 +266,12 @@ feed Research
 
     -- October, 2014
       'Rossignol_et_al_2014
+
+    -- April, 2014
+      'Iwasaki_et_al_2014
+
+    -- October, 2013
+      'Llor_et_al_2013
 
     -- April, 2013
       'Wertheim_et_al_2013
@@ -311,6 +332,9 @@ feed Research
     -- October, 2007
       'Wu_et_al_2007
 
+    -- August, 2006
+      'Hothersall_et_al_2006
+
     -- April, 2006
       'Fergusion_et_al_2006
       'sebastiani_et_al_2006
@@ -351,14 +375,455 @@ feed Research
     -- June, 1970
       'Mcintosh_et_al_1970
 
-
-
   #
+
+  # Statins
+  // Potential therapeutic role for statins in respiratory disease
+  doi: http://doi.org/10.1136/thx.2005.057976
+  ref 'Hothersall_et_al_2006
+    head = This review considers the evidence for the anti‐inflammatory properties of statins in the lung, and how these effects are being applied to research into the role of statins as a novel treatment of respiratory diseases.
+
+    >>> Abstract
+      Statins reduce cholesterol levels by inhibiting 3-hydroxy-3-methylglutaryl coenzyme A (HMG-CoA) reductase and have an established role in the treatment of atherosclerotic disease. Recent research has identified anti-inflammatory properties of statins. Statins appear to reduce the stability of lipid raft formation with subsequent effects on immune activation and regulation, and also prevent the prenylation of signalling molecules with subsequent downregulation of gene expression. Both these effects result in reduced cytokine, chemokine, and adhesion molecule expression, with effects on cell apoptosis or proliferation. This review considers the evidence for the anti-inflammatory properties of statins in the lung, and how these effects are being applied to research into the role of statins as a novel treatment of respiratory diseases
+
+    -- exports
+      !a
+      !b
+
+    / August, 2006 - Thorax
+    let !a self assert = Statins appear to reduce the stability of lipid raft formation with subsequent effects on immune activation and regulation, and also prevent the prenylation of signalling molecules with subsequent downregulation of gene expression. Both these effects result in reduced cytokine, chemokine, and adhesion molecule expression, with effects on cell apoptosis or proliferation.
+
+    / August, 2006 - Thorax
+    let !b self assert = Statins reduce cholesterol levels by inhibiting 3‐hydroxy‐3‐methylglutaryl coenzyme A (HMG‐CoA) reductase and have an established role in the treatment of atherosclerotic disease.
+
+
+
+  # Remediation, Inflamation, Anti-viral compounds, Frontiers ?
+  // Can Bioactive Lipids Inactivate Coronavirus (COVID-19)?
+  doi: https://doi.org/10.1016/j.arcmed.2020.03.004
+  ref 'Das_et_al_March_2020
+    head = This suggests that AA, EPA and DHA and their anti-inflammatory metabolites such as lipoxin A4, resolvins, protectins and maresins function as endogenous anti-microbial molecules and so their appropriate use may aid in decreasing the morbidity and mortality due to SARS-CoV-2, SARS and MERS.  When present in adequate amounts in immunocytes and body fluids (especially in the alveolar fluid) may actually prevent these infections.
+
+    >>> Abstract
+      SARS-CoV-2, SARS and MERS are all enveloped viruses that can cause acute respiratory syndrome. Arachidonic acid (AA) and other unsaturated fatty acids (especially eicosapentaenoic acd, EPA and docosahexaenoic acid DHA) are known to inactivate enveloped viruses and inhibit proliferation of various microbial organisms. The pro-inflammatory metabolites of AA and EPA such as prostaglandins, leukotrienes and thromboxanes induce inflammation whereas lipoxins, resolvins, protectins and maresins derived from AA, EPA and DHA not only suppress inflammation but also enhance would healing and augment phagocytosis of macrophages and other immunocytes and decrease microbial load. In view of these actions, it is suggested that AA and other unsaturated fatty acids and their metabolites may serve as endogenous anti-viral compounds and their deficiency may render humans susceptible to SARS-CoV-2, SARS and MERS and other similar viruses’ infections. Hence, oral or intravenous administration of AA and other unsaturated fatty acids may aid in enhancing resistance and recovery from SARS-CoV-2, SARS and MERS infections.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / March, 2020 - Archives of Medical Research
+    let !a self assert = It is known that Staphylococcus aureus and coagulase-negative staphylococci, group A streptococci present on normal human skin are rendered ineffective to cause any infection by the skin surface lipids, especially unsaturated fatty acids. Group A streptococcus exposed to oleic acid (OA, 18:1n-9) die within 5 minutes of exposure as a result of an alteration in the integrity of the cell membrane.In addition, oleic acid enriched mouse peritoneal macrophages showed 3e4 fold greater erythrophagocytic capacity compared to palmitic acid-enriched macrophages
+
+    / March, 2020 - Archives of Medical Research
+    let !b self assert = Staphylococci in the lung alveoli are killed mainly outside alveolar macrophages that seem to reside in the highly unsaturated arachidonic acid (AA, 20:4n-6) present in the surfactant
+
+    / March, 2020 - Archives of Medical Research
+    let !c self assert = Other unsaturated fatty acids: linoleic, oleic, and palmitoleic also showed anti-bacterial activity but were less potent compared to AA that is effective against gram-positive and gram-negative bacteria, fungi and enveloped viruses, including influenza and HIV
+
+    / March, 2020 - Archives of Medical Research
+    let !d self assert = The mechanism of the antimicrobial action of AA and other fatty acids may include their ability to induce leakage and even lysis of microbial cell membranes (including disruption of viral protein envelopes), as well as various cellular metabolic effects, including but not limited to inhibition of respiratory activity, effects on transportation of amino acids, and uncoupling of oxidative phosphorylation
+
+    / March, 2020 - Archives of Medical Research
+    let !e self assert = Based on these evidences, it is reasonable to suggest that alveolar macrophages, leukocytes, T and B cells, NK cells and other immunocytes release AA and other unsaturated fatty acids into their surrounding milieu when challenged by various microorganisms including viruses such as SARS-CoV-2, SARS and MERS, in turn, inactivate these invading organisms and thus, protect lungs and other tissues. This implies that a deficiency of AA and other unsaturated fatty acids may render a person more susceptible to various infections including SARS-CoV-2, SARS and MERS
+
+    / March, 2020 - Archives of Medical Research
+    let !f self assert = Prostaglandins, leukotrienes and thromboxanes formed from AA have pro-inflammatory actions whereas lipoxins (from AA), resolvins from EPA (eicosapentaenoic acid, 20:5 n-3) and DHA (docosahexaenoic acid, 22:6 n-3) and protectins and maresins (derived from DHA) have potent anti-inflammatory actions, resolve inflammation and aid in wound healing and at the same time augment phagocytic capacity of macrophages and other cells to remove debris from the site(s) of infection and injury and enhance microbial clearance.
+
+
+  # NSAID - ibuprofen, Counter to ibuprofen warning
+  // Efficacy of anti-inflammatory or antibiotic treatment in patients with non-complicated acute bronchitis and discoloured sputum: randomised placebo controlled trial
+  doi: http://doi.org/10.1136/bmj.f5762
+  ref 'Llor_et_al_2013
+    head = This study found no differences in the number of days with frequent cough among patients with uncomplicated acute bronchitis and discoloured sputum treated with ibuprofen, amoxicillin-clavulanic acid, or placebo. The trial was sufficiently powered and, to the best of our knowledge, the first to allow conclusions on the efficacy of a non-steroidal anti-inflammatory drug in patients with acute bronchitis compared with an antibiotic and placebo.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+
+    / Oct, 2013 - BMJ
+    let !a self assert = The median number of days with frequent cough was slightly lower among patients assigned to ibuprofen (9 days, 95% confidence interval 8 to 10 days) compared with those receiving amoxicillin-clavulanic acid (11 days, 10 to 12 days) or placebo (11 days, 8 to 14 days), albeit without statistically significant differences.
+
+    / Oct, 2013 - BMJ
+    let !b self assert = Neither amoxicillin-clavulanic acid nor ibuprofen increased the probability of cough resolution (hazard ratio 1.03, 95% confidence interval 0.78 to 1.35 and 1.23, 0.93 to 1.61, respectively) compared with placebo.
+
+    / Oct, 2013 - BMJ
+    let !c self assert = Twenty seven patients reported 34 adverse events that were possibly drug related. Of these, 27 reported adverse gastrointestinal events, two suspected allergic reactions, and five other reason.
+
+    / Oct, 2013 - BMJ
+    let !d self assert = Among the patients assigned to amoxicillin-clavulanic acid, 16 reported an adverse event (12%), being more common than in the ibuprofen group (seven cases (5%) and in the placebo group (four cases (3%); P=0.008). Most of the adverse events were mild except one case of digestive haemorrhage requiring admission to the intensive care unit in a patient assigned to the antibiotic arm.
+
+
+  # NSAIDs
+  // Risks Related to the Use of Non-Steroidal Anti-Inflammatory Drugs in Community-Acquired Pneumonia in Adult and Pediatric Patients
+  doi: http://doi.org/10.3390/jcm8060786
+  ref 'Voiriot_et_al_2019
+    head = NSAIDs are frequently used as a symptomatic treatment during lower respiratory tract infections (LRTIs) in adults and children, while neither clinical data nor guidelines encourage this use. Numerous observational series of CAP inpatients support a strong association between a pre-hospital NSAID exposure and a protracted and complicated course of pneumonia. These data should encourage experts and scientific societies to strongly advise against the use of NSAIDs in the management of LRTIs.
+
+    >>>
+      Non-steroidal anti-inflammatory drugs (NSAIDs) are commonly used to alleviate symptoms during community-acquired pneumonia (CAP), while neither clinical data nor guidelines encourage this use. Experimental data suggest that NSAIDs impair neutrophil intrinsic functions, their recruitment to the inflammatory site, and the resolution of inflammatory processes after acute pulmonary bacterial challenge. During CAP, numerous observational data collected in hospitalized children, hospitalized adults, and adults admitted to intensive care units (ICUs) support a strong association between pre-hospital NSAID exposure and a delayed hospital referral, a delayed administration of antibiotic therapy, and the occurrence of pleuropulmonary complications, even in the only study that has accounted for a protopathic bias. Other endpoints have been described including a longer duration of antibiotic therapy and a greater hospital length of stay. In all adult series, patients exposed to NSAIDs were younger and had fewer comorbidities. The mechanisms by which NSAID use would entail a complicated course in pneumonia still remain uncertain. The temporal hypothesis and the immunological hypothesis are the two main emerging hypotheses. Current data strongly support an association between NSAID intake during the outpatient treatment of CAP and a complicated course. This should encourage experts and scientific societies to strongly advise against the use of NSAIDs in the management of lower respiratory tract infections.
+
+    # / June, 2019 - Journal of clinical medicine
+    # let !a self assert =
+
+  # Epidemic , Community Transmission, Mitigation
+  // Community Transmission of Severe Acute Respiratory Syndrome Coronavirus 2, Shenzhen, China, 2020.
+  doi: http://doi.org/10.3201/eid2606.200239
+  ref 'J_et_al_2020
+    head = Based on this epidemiologic analysis, we found that COVID-19 has become endemic to Shenzhen, China. We suspect that community transmission and intrafamily transmission have potentially become the new transmission modes in the city. Also, nosocomial infection and transmission might pose a potential risk for COVID-19 control.
+
+    >>> Abstract
+      Since early January 2020, after the outbreak of 2019 novel coronavirus infection in Wuhan, China, ≈365 confirmed cases have been reported in Shenzhen, China. The mode of community and intrafamily transmission is threatening residents in Shenzhen. Strategies to strengthen prevention and interruption of these transmissions should be urgently addressed.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+      !j
+
+    / March, 2020 - Emerg Infect Dis
+    let !a self assert = Overall, most (91%) cases that we report had definite exposure. On January 14, the first infected case-patient without definite exposure was reported in Shenzhen. Since January 20, growing numbers of cases without definite exposure were observed. Compared with before January 24, the proportion of case-patients without definite exposure was much higher from January 25 through February 5 (11% vs. 6%; p<0.001) and increased to 36% (12/33) on both January 31 and February 5. These data suggest an increasing risk for community transmission
+
+    / March, 2020 - Emerg Infect Dis
+    let !b self assert = We found a sharply increasing proportion of infected children (from 2% before January 24 to 13% for January 25–February 5; p<0.001), implying that increased exposure for children and intrafamily transmission might contribute substantially to the epidemic.  Although substantially higher after January 25, 2020, the proportion of infected children in our study before January 24, 2020, was similar to the proportions reported.
+
+    / March, 2020 - Emerg Infect Dis
+    let !c self assert = The possible reasons for the discrepancy after January 25 might be the low proportion of children exposed early in the outbreak; early detection for children who had had close contact with persons with diagnosed or suspected cases after strict control measures were conducted comprehensively; and difficult identification of the relatively milder clinical signs and symptoms in young patients than in infected adults (6), especially in the setting of limited resources in the early phase of the outbreak in Wuhan.
+
+    / March, 2020 - Emerg Infect Dis
+    let !d self assert = We explored the incubation periods for 58 case-patients with definite exposure and detailed investigation information. The estimated mean incubation periods were 6.1 (range 1–16) days among 33 case-patients who had had close contact with symptomatic confirmed case-patients and 6.0 (range 1–15) days among 25 case-patients who had traveled to Wuhan and stayed <1 day over the previous 3 weeks. Estimated incubation periods were consistent with those previously reported
+
+    / March, 2020 - Emerg Infect Dis
+    let !e self assert = Among 12 clusters of single intracluster transmission cases, 15 case-patients were infected within 5.5 days of the mean interval between illness onset of the infector and illness onset of the infectee. Among 56 clusters of single co-exposure cases, the mean interval of symptom onset between the primary and second case-patient within a cluster was 3.1 days, and the mean interval of symptom onset between the primary and last case-patient within a cluster was 3.6 days
+
+    / March, 2020 - Emerg Infect Dis
+    let !f self assert = With continuous implementation of strict control measures, we observed a shortened span (median days declining from 3 to 1; p<0.001) between illness onset and hospital visits for case-patients (Table 1). This finding may result from strict infection control management (e.g., early screening for suspected cases, monitoring for close-contact persons, and improved health consciousness of the general population).
+
+    / March, 2020 - Emerg Infect Dis
+    let !g self assert = To control the infection, confirmed case-patients should be separated and managed centrally; thus, the government has designated special hospitals to admit patients with suspected or confirmed cases. Nevertheless, as of February 5, to our knowledge, 1 case of a healthcare worker having been infected has been reported; an emergency nurse from a nondesignated hospital became ill on January 26, 2020, a total of 8 days after having been in close contact with a confirmed case-patient in the outpatient setting.
+
+    / March, 2020 - Emerg Infect Dis
+    let !h self assert = We found that only 13%–15% of patients with confirmed cases went to the designated hospital first during the epidemic period. This finding means that a substantial number of case-patients visited >1 nondesignated hospital before they were admitted to the designated hospital, which increases the risk for nosocomial infection.
+
+    / March, 2020 - Emerg Infect Dis
+    let !i self assert = To control this outbreak in Shenzhen, maintaining basic and essential strategies is crucial. Early screening, diagnosis, isolation, and treatment are necessary to prevent further spread. Throughout the city, management of persons in close contact with persons with diagnosed and suspected cases, restriction of public activity, and use of personal protection measures should be continued.
+
+    / March, 2020 - Emerg Infect Dis
+    let !j self assert = Strengthening effective and efficient measures, including but not limited to personal protection within families and communities with a high risk for exposure, will prevent and interrupt community and intrafamily transmission. To prevent nosocomial infection and transmission, a designated hospital should be the first choice for persons who had close contact with confirmed case-patients or who themselves have clinical signs indicative of COVID-19.
+
+  # Frontiers IL-1b IL-1R
+  // Innate immunity to influenza virus infection
+  doi: http://doi.org/10.1038/nri3665
+  ref 'Iwasaki_et_al_2014
+    head = The NLRP3 inflammasome and IL-1β have an important role in host tolerance to influenza virus infection in response to high-dose viral challenge. IL-1β and IL-1R signalling promotes antiviral B cell and T cell responses after low-dose viral challenge.
+    >>> Abstract
+      Influenza viruses are a major pathogen of both humans and animals. Recent studies using gene-knockout mice have led to an in-depth understanding of the innate sensors that detect influenza virus infection in a variety of cell types. Signalling downstream of these sensors induces distinct sets of effector mechanisms that block virus replication and promote viral clearance by inducing innate and adaptive immune responses. In this Review, we discuss the various ways in which the innate immune system uses pattern recognition receptors to detect and respond to influenza virus infection. We consider whether the outcome of innate sensor stimulation promotes antiviral resistance or disease tolerance, and propose rational treatment strategies for the acute respiratory disease that is caused by influenza virus infection.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+
+    / April, 2014 - Nature Reviews Immunology
+    let !a self assert = Influenza virus infection is detected by multiple pattern recognition receptors. Within the infected cells, retinoic acid-inducible gene I (RIG-I) detects the 5′-triphosphorylated RNA of replicating viral genomes, whereas in plasmacytoid dendritic cells and B cells Toll-like receptor 7 (TLR7) detects RNA that is associated with incoming virions. TLR3 is expressed in airway epithelial cells and macrophages and detects RNA that is associated with infected cells.
+
+    / April, 2014 - Nature Reviews Immunology
+    let !b self assert = The activation of nucleic acid sensors leads to the expression of type I and type III interferons, which in turn stimulate the expression of hundreds of interferon-stimulated genes in neighbouring cells that induce antiviral state.
+
+    / April, 2014 - Nature Reviews Immunology
+    let !c self assert = In myeloid cells, matrix 2 (M2) ion channel activity of influenza virus stimulates the NOD-, LRR- and pyrin domain-containing 3 (NLRP3) inflammasome, resulting in the activation of caspase 1 and the cleavage and release of interleukin-1β (IL-1β) and IL-18. Phagocytosis of influenza virus-infected cells containing PB1-F2 fibrils also triggers activation of the NLRP3 inflammasome. The NLRP3 inflammasome and IL-1β have an important role in host tolerance to influenza virus infection in response to high-dose viral challenge. IL-1β and IL-1R signalling promotes antiviral B cell and T cell responses after low-dose viral challenge.
+
+    / April, 2014 - Nature Reviews Immunology
+    let !d self assert = Commensal bacteria provide signals that set the activation threshold for the induction of adaptive immune responses to influenza virus. Bacterial components drive the expression of the genes encoding pro-IL-1β and NLRP3, as well as interferon-stimulated genes, to promote the robust stimulation of B cell and T cell responses upon influenza virus infection.
+
+
+
+  # Frontiers
+  // Mx1 reveals innate pathways to antiviral resistance and lethal influenza disease
+  doi: http://doi.org/10.1126/science.aaf3926
+  ref 'Pillai_et_al_2016
+    head = Data indicate that a failure to induce type I IFNs promotes viral amplification and tissue damage within the respiratory environment, conducive to bacterial bloom. Neutrophil recruitment and caspase-dependent NETosis contributes to lethality. These results in Mx1 congenic mice are consistent with the notion that age-related defects in innate immunity (reduced IFN responses) could predispose IAV-infected older adults to secondary bacterial infection. A direct implication of our findings is that older adults suffering from IAV infection may benefit from therapeutic strategies that minimize inflammatory responses mediated by neutrophils.
+
+    >>> Abstract
+      Influenza A virus (IAV) causes up to half a million deaths worldwide annually, 90% of which occur in older adults. We show that IAV-infected monocytes from older humans have impaired antiviral interferon production but retain intact inflammasome responses. To understand the in vivo consequence, we used mice expressing a functional Mx gene encoding a major interferon-induced effector against IAV in humans. In Mx1-intact mice with weakened resistance due to deficiencies in Mavs and Tlr7, we found an elevated respiratory bacterial burden. Notably, mortality in the absence of Mavs and Tlr7 was independent of viral load or MyD88-dependent signaling but dependent on bacterial burden, caspase-1/11, and neutrophil-dependent tissue damage. Therefore, in the context of weakened antiviral resistance, vulnerability to IAV disease is a function of caspase-dependent pathology.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+
+    / April, 2016 - Science
+    let !a self assert = These data indicate that older human monocytes and macrophages have intact RIG-I signaling to activate proinflammatory cytokines and the inflammasome but have impaired signaling to induce type I IFNs.
+
+    / April, 2016 - Science
+    let !b self assert = Comparison of a broader array of genes revealed that infected monocytes from older donors showed consistently lower expression of several IFN-stimulated genes (ISGs) (MxA, IFITM2, and ISG15, all of which are known to have antiviral activities for influenza viruses) (Fig. 1D). Furthermore, expression of IRF7, a critical transcription factor for type I IFNs, and STAT1, a type I IFN receptor signaling molecule, was lower in the older cohort. Consequently, older monocytes infected with IAV expressed higher levels of influenza viral genes (NS and M)
+
+    / April, 2016 - Science
+    let !c self assert =  The myxovirus resistance protein 1 (Mx1) is a dynamin-like guanosine triphosphatase that blocks primary transcription of influenza, presumably by binding to viral nucleoproteins . Mx1 congenic mice on the C57BL/6 background were highly resistant to IAV (A/PR8) infections as compared with Mx1-deficient C57BL/6 mice (fig. S4). The observed resistance in Mx1 congenic mice was not due to more robust adaptive immunity because these mice showed low levels of T and B cell–mediated responses to IAV, likely because of rapid viral clearance (fig. S4, D and E).
+
+    / April, 2016 - Science
+    let !d self assert = At a high dose of viral challenge [106 plaque-forming units (PFU)], Tlr7–/– or Casp1/11–/– mice survived infection, whereas Mavs–/– and Tlr7–/– × Mavs–/– mice lost weight and died by day 7 or day 5, respectively, with a high viral burden (fig. S5). After challenge with a lower dose of A/PR8 virus (100 PFU), Tlr7–/–, Mavs–/–, and Casp1/11–/– mice were resistant, but Tlr7–/– × Mavs–/– double-deficient mice lost weight and succumbed to infection
+
+    / April, 2016 - Science
+    let !e self assert =  In contrast, inflammatory cytokine secretion was observed independently of MAVS and TLR7 (fig. S6). Mice deficient in both Mavs and Tlr7 lost Mx1 expression (Fig. 2D and fig. S7) and therefore succumbed to IAV challenge.
+
+    / April, 2016 - Science
+    let !f self assert = Unlike C57BL/6 mice (19–22), Mx1 congenic mice reveal the key innate sensors that confer antiviral resistance, RIG-I and TLR7; these sensors are responsible for the production of type I IFNs that induce Mx1 expression and potently control IAV replication. This is consistent with our results in monocytes from older humans, where impaired RIG-I signaling led to low IFN induction and compromised innate IAV resistance.
+
+    / April, 2016 - Science
+    let !g self assert = Results indicate that after IAV infection, Casp1/11 deficiency confers a survival advantage in the context of combined Tlr7 and Mavs deficiency.
+
+    / April, 2016 - Science
+    let !h self assert = Signaling through IL-1R and IL-18R is insufficient to drive IAV-induced mortality in the absence of RLR and TLR signaling, and a separate function of caspase-1/11, leading to inflammation and tissue damage, is required for lethal disease after IAV infection.
+
+    / April, 2016 - Science
+    let !i self assert = Collectively, these data indicate that a failure to induce type I IFNs promotes viral amplification and tissue damage within the respiratory environment, conducive to bacterial bloom.
+
+  # D-Dimer, Blood clotting
+  // Abnormal coagulation parameters are associated with poor prognosis in patients with novel coronavirus pneumonia.
+  doi: http://doi.org/10.1111/jth.14768
+  ref 'Tang_et_al_2020
+    head = Blood clotting is also associated with poor prognosis in COVID19. The present study shows that abnormal coagulation results, especially markedly elevated D-dimer and FDP are common in deaths with novel coronavirus pneumonia (NCP)
+
+    >>> Background
+      In the recent outbreak of novel coronavirus infection in Wuhan, China, significantly abnormal coagulation parameters in severe novel coronavirus pneumonia (NCP) cases were a concern.
+
+    >>> Objectives
+      To describe the coagulation feature of patients with NCP
+
+    >>> Methods
+      Conventional coagulation results and outcomes of 183 consecutive patients with confirmed NCP in Tongji hospital were retrospectively analyzed.
+
+    >>> Results
+      The overall mortality was 11.5%, the non‐survivors revealed significantly higher D‐dimer and fibrin degradation product (FDP) levels, longer prothrombin time and activated partial thromboplastin time compared to survivors on admission (P < .05); 71.4% of non‐survivors and 0.6% survivors met the criteria of disseminated intravascular coagulation during their hospital stay.
+
+    >>> Conclusion
+      The present study shows that abnormal coagulation results, especially markedly elevated D‐dimer and FDP are common in deaths with NCP.
+
+    -- exports
+      !a
+      !b
+
+    / April, 2020 - J Thromb Haemost.
+    let !a self assert = The overall mortality was 11.5%, the non-survivors revealed significantly higher D-dimer and fibrin degradation product (FDP) levels, longer prothrombin time and activated partial thromboplastin time compared to survivors on admission (P < .05).
+
+    / April, 2020 - J Thromb Haemost.
+    let !b self assert = 71.4% of non-survivors and 0.6% survivors met the criteria of disseminated intravascular coagulation during their hospital stay.
+
+  # Pyroptosis Frontiers
+  // Inflammasome Activation Triggers Blood Clotting and Host Death through Pyroptosis.
+  doi: http://doi.org/10.1016/j.immuni.2019.04.003
+  ref 'Wu_et_al_2019
+    head = This study shows that type III secretion system (T3SS) rod proteins or lipopolysaccharide (LPS) induces inflammasome activation, macrophage pyroptosis, and accompanying tissue factor release, directly connecting inflammation to coagulation.
+
+    >>> Abstract
+      Inflammasome activation and subsequent pyroptosis are critical defense mechanisms against microbes. However, overactivation of inflammasome leads to death of the host. Although recent studies have uncovered the mechanism of pyroptosis following inflammasome activation, how pyroptotic cell death drives pathogenesis, eventually leading to death of the host, is unknown. Here, we identified inflammasome activation as a trigger for blood clotting through pyroptosis. We have shown that canonical inflammasome activation by the conserved type III secretion system (T3SS) rod proteins from Gram-negative bacteria or noncanonical inflammasome activation by lipopolysaccharide (LPS) induced systemic blood clotting and massive thrombosis in tissues. Following inflammasome activation, pyroptotic macrophages released tissue factor (TF), an essential initiator of coagulation cascades. Genetic or pharmacological inhibition of TF abolishes inflammasome-mediated blood clotting and protects against death. Our data reveal that blood clotting is the major cause of host death following inflammasome activation and demonstrate that inflammasome bridges inflammation with thrombosis.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+      !j
+      !k
+      !l
+
+    / June, 2019 - Immunity.
+    let !a self assert = Coagulation induced by EprJ was abolished by caspase-1 or GSDMD deficiency, suggesting that EprJ-induced coagulation activation depends on inflammasome activation and pyroptosis. Because pores formed by GSDMD facilitate the release of the IL-1b and IL-18 GSDMD deficiency not only prevents pyroptosis but also diminishes IL-1b and IL-18 secretion.
+
+    / June, 2019 - Immunity.
+    let !b self assert = Thus, we utilized mice lacking IL-1b receptor or IL-18 receptor to investigate whether IL-1b and IL-18 contribute to coagulation following inflammasome activation. We found that deficiency of the receptors for IL-1b and IL-18 does not protect against EprJ-elicited coagulation. These data exclude the possibility that inflammasome-activation-induced coagulation requires IL-1b- and IL18-dependent inflammation, thus establishing pyroptosis as a key event leading to coagulation upon inflammasome activation.
+
+    / June, 2019 - Immunity.
+    let !c self assert = EprJ-induced coagulation is diminished in TF-deficient mice and in mice administered a TF-neutralizing antibody, demonstrating that TF is required for inflammasome-driven coagulation.These findings are consistent with previous studies that TF plays an essential role in sepsis-associated DIC.Our data further show that EprJ-induced lethality was protected by the deficiency of TF or the TF-neutralizing antibody, demonstrating that pyroptosis-induced coagulation is a major cause of host death. Although TF has been recognized as a key initiator of DIC in sepsis, how TF is released to trigger coagulation is largely unknown.
+
+    / June, 2019 - Immunity.
+    let !d self assert = We show that MVs isolated from the blood of EprJ-challenged mice have high TF activity, which was abolished by caspase-1 or GSDMD deficiency. Consistent with the in vivo data, EprJ treatment increased TF activity in the MVs from BMDMs isolated from wild-type, but not from Gsdmd/ or Casp1/11/ mice. Together, these data suggest that cell membrane fragments of pyroptotic macrophages form TF-positive MVs as a result of thermodynamics. This is consistent with previous findings that caspase-1 activation by ATP promotes TF-positive MV release in vitro.
+
+    / June, 2019 - Immunity.
+    let !e self assert = Unlike IL-1b and IL-18, release of TF from macrophages is not through GSDMD pores but requires membrane rupture, suggesting distinct mechanisms are involved. This is not surprising because IL-1b and IL-18 are cytosolic proteins and TF is a transmembrane protein. Besides pyroptosis, necroptosis is another form of lytic programmed cell death. Although distinct signaling pathways induce pyroptosis and necroptosis, both forms of cell death lead to ruptured cell membrane, a requirement for TF-positive MV release. Thus, it is likely that necroptosis may also lead to TF release
+
+    / June, 2019 - Immunity.
+    let !f self assert = Inflammasome can be activated by both the pathogenassociated molecular patterns (PAMPs) and the damage-associated molecular patterns (DAMPs). E. coli-induced coagulation activation was diminished in the GSDMD deficient mice, supporting that pyroptosis is at least one of the major mechanisms of DIC in bacterial infection.activation was diminished in the GSDMD-deficient mice, supporting that pyroptosis is at least one of the major mechanisms of DIC in bacterial infection.
+
+    / June, 2019 - Immunity.
+    let !g self assert = Although TF expression in monocytes is enhanced during sepsis or by LPS stimulation (Grover and Mackman, 2018), macrophages express high amounts of TF, which is sufficient to trigger DIC. This conclusion is supported by our data that administration of EprJ or BsaK elicited DIC within 60 min and TF was detected by immunoblot in the cell lysates of macrophages. Consistent with these findings, administration of EprJ-induced clearance of peripheral monocytes within 60 min. Clearance of peripheral monocytes was not due to migration of the cells to tissues, because the total monocytes and macrophages in tissues was also significantly reduced in tissues
+
+    / June, 2019 - Immunity.
+    let !h self assert = Furthermore, we found that administration of EprJ-induced macrophage death in tissues. Thus, administration of EprJ-induced monocytes and macrophage depletion through pyroptosis, and TF released from pyroptotic cells triggered systemic coagulation
+
+    / June, 2019 - Immunity.
+    let !i self assert = Our study identified a function of pyroptosis in triggering coagulation activation through releasing TF
+
+    / June, 2019 - Immunity.
+    let !j self assert = Our data establish inflammasome activation as an important link between inflammation and blood clotting. Specifically, inflammasome activation by bacterial products results in GSDMD-dependent macrophage pyroptosis, leading to the release of TF-positive MVs into the blood, which in turn triggers blood coagulation, resulting in organ damage and lethality
+
+    / June, 2019 - Immunity.
+    let !k self assert = Our findings advance the understanding of the relationship between bacterial infections and coagulation as well as provide evidence that inflammasome may be a potential therapeutic target for sepsis. Our data also suggest that T3SS rod protein-induced coagulation is a robust systemic coagulation model that can be used for developing therapeutics against DIC. Whether similar mechanisms link inflammation to thrombosis in different settings remains to be determined.
+
+    / June, 2019 - Immunity.
+    let !l self assert = Identifying DIC as a critical event following inflammasome and pyroptosis opens a direction in studying inflammasome and pyroptosis, as current understanding of the inflammasome function is limited to inflammatory response.
+
+  # Frontiers - pyroptosis
+  // SARS-Coronavirus Open Reading Frame-8b triggers intracellular stress pathways and activates NLRP3 inflammasomes.
+  doi: http://doi.org/10.1038/s41420-019-0181-7
+  ref 'Shi_et_al_2019
+    head =  A study showed that SARSCoV1's Orf8 triggers NLRP3 inflammasome activation and pyroptosis in macrophages.Whether SARSCoV2 Orf8 also activate pyroptosis is unknown.
+
+    >>> Abstract
+      The SARS (severe acute respiratory syndrome) outbreak was caused by a coronavirus (CoV) named the SARS-CoV. SARS pathology is propagated both by direct cytotoxic effects of the virus and aberrant activation of the innate immune response. Here, we identify several mechanisms by which a SARS-CoV open reading frame (ORF) activates intracellular stress pathways and targets the innate immune response. We show that ORF8b forms insoluble intracellular aggregates dependent on a valine at residue 77. Aggregated ORF8b induces endoplasmic reticulum (ER) stress, lysosomal damage, and subsequent activation of the master regulator of the autophagy and lysosome machinery, Transcription factor EB (TFEB). ORF8b causes cell death in epithelial cells, which is partially rescued by reducing its ability to aggregate. In macrophages, ORF8b robustly activates the NLRP3 inflammasome by providing a potent signal 2 required for activation. Mechanistically, ORF8b interacts directly with the Leucine Rich Repeat domain of NLRP3 and localizes with NLRP3 and ASC in cytosolic dot-like structures. ORF8b triggers cell death consistent with pyroptotic cell death in macrophages. While in those cells lacking NLRP3 accumulating ORF8b cytosolic aggregates cause ER stress, mitochondrial dysfunction, and caspase-independent cell death.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+
+    / June, 2019 - Cell Death Discov
+    let !a self assert =  In our study, ORF8b appears to be degraded by the autophagy–lysosome system, as treatment with bafilomycin A1 increases ORF8b levels. The aggregation ability of ORF8b may be protective against degradation, as we consistently observed that the anti-aggregation V77K mutant is expressed at lower levels than ORF8b.
+
+    / June, 2019 - Cell Death Discov
+    let !b self assert = It has previously been reported that ORF8ab and ORF8b induce ER stress, which is consistent with our findings showing accumulation of CHOP by ORF8b expression dependent on V77.
+
+    / June, 2019 - Cell Death Discov
+    let !c self assert = We also find induction of lysosomal stress and activation of TFEB by ORF8b. Both ER stress and TFEB have been shown to propagate the inflammatory response, with TFEB directly promoting the transcription of inflammatory cytokines26,41,42. This may be a cellular mechanism by which ORF8b activates the innate immune response in macrophages and contributes to SARS-CoV pathogenesis.
+
+    / June, 2019 - Cell Death Discov
+    let !d self assert = Finally, RNA or DNA virus infection is known to trigger NLRP3 or AIM2 inflammasome activation.The released IL-1β and IL-18 functions to promote host defense, but aberrant inflammasome activation can result in excessive inflammation and enhanced disease. Our findings indicate the SARS-CoV can activate NLRP3 inflammasome in macrophages via ORF8b. While SARS-CoV abortively infects macrophages/monocytes, enough ORF8b may be present to impact lysosome integrity, autophagy pathways, and NLRP3 inflammasomes.
+
+    / June, 2019 - Cell Death Discov
+    let !e self assert = In contrast to macrophages, the SARS-CoV productively replicates in lung epithelial cells. These cells also express NLRP3 and can assemble NLRP3 inflammasomes
+
+    / June, 2019 - Cell Death Discov
+    let !f self assert =  In humans infected with the SARS-CoV the full impact of ORF-8b on the pathways we delineated in this study are likely in the lung epithelium. ORF8b may contribute to the cytokine storm and inflammasome activation that occurs during severe SARS-CoV infection
+
+    / June, 2019 - Cell Death Discov
+    let !g self assert = Moving forward, live virus deletion studies are required to assess the effects of ORF8b mediated intracellular aggregates and ORF8b mediated NLRP3 activation.
+
+  # IL1 Frontiers, pyroptosis
+  // The Pore-Forming Protein Gasdermin D Regulates Interleukin-1 Secretion from Living Macrophages
+  doi: https://doi.org/10.1016/j.immuni.2017.11.013
+  ref 'Evavold_et_al_2017
+    head = We report that GSDMD is required for IL-1 release under conditions of macrophage hyperactivation and under pyroptosis-inducing conditions where plasma membrane rupture is experimentally prevented. Using reconstituted 293T cells and liposome-based analyses, we provide evidence that GSDMD pores serve as conduits for the transport of IL-1 family cytokines across intact lipid bilayers.
+
+    >>> Abstract
+      The interleukin-1 (IL-1) family cytokines are cytosolic proteins that exhibit inflammatory activity upon release into the extracellular space. These factors are released following various cell death processes, with pyroptosis being a common mechanism. Recently, it was recognized that phagocytes can achieve a state of hyperactivation, which is defined by their ability to secrete IL-1 while retaining viability, yet it is unclear how IL-1 can be secreted from living cells. Herein, we report that the pyroptosis regulator gasdermin D (GSDMD) was necessary for IL-1β secretion from living macrophages that have been exposed to inflammasome activators, such as bacteria and their products or host-derived oxidized lipids. Cell- and liposome-based assays demonstrated that GSDMD pores were required for IL-1β transport across an intact lipid bilayer. These findings identify a non-pyroptotic function for GSDMD, and raise the possibility that GSDMD pores represent conduits for the secretion of cytosolic cytokines under conditions of cell hyperactivation.
+
+
+    -- exports
+      !a
+
+    / Nov, 2017 - Immunity
+    let !a self assert = Central to our working hypothesis is that hyperactive cells are alive. In this study, we provided additional data to support this claim, as live cell microscopy revealed hyperactive cells containing inflammasomes, and most of these cells maintained mitochondrial and phagocytic activity. This ability to maintain biological activities after inflammasome assembly is a hallmark of cell viability and supports our conclusion that hyperactivating stimuli induce IL-1 release from living cells.
+
+
+
+  # Diagnostics
+  // Lactate dehydrogenase, a Risk Factor of Severe COVID-19 Patients
+  doi: https://doi.org/10.1101/2020.03.24.20040162
+  ref 'Han_et_al_2020
+    head = This study showed that LDH could be identified as a powerful predictive factor for early recognition of lung injury and severe COVID-19 cases. And importantly,lymphocyte counts, especially CD3+, CD4+, and CD8+ T cells in the peripheral blood of COVID-19 patients, which was relevant with serum LDH, were also dynamically correlated with the severity of the disease.
+
+
+    >>> Abstract
+      BACKGROUND The World Health Organization (WHO) has recently declared coronavirus disease 2019 (COVID-19) a public health emergency of global concern. Updated analysis of cases might help identify the characteristic and risk factors of the illness severity. METHODS We extracted data regarding 47 patients with confirmed COVID-19 from Renmin Hospital of Wuhan University between February 1 and February 18, 2020. The degree of severity of COVID-19 patients (severe vs. non-severe) was defined at the time of admission according to American Thoracic Society (ATS) guidelines for community-acquired pneumonia (CAP). RESULTS The median age was 64.91 years, 26 cases (55.31%) were male of which, and 70.83% were severe cases. Severe patients had higher APACHE II (9.92 vs 4.74) and SOFA (3.0 vs 1.0) scores on admission, as well as the higher PSI (86.13 vs 61.39), Curb-65 (1.14 vs 0.48) and CT semiquantitative scores (5.0 vs 2.0) when compared with non-severe patients. Among all univariable parameters, APACHE II, SOFA, lymphocytes, CRP, LDH, AST, cTnI, BNP, et al were significantly independent risk factors of COVID-19 severity. Among which, LDH was most positively related both with APACHE II (R = 0.682) and SOFA (R = 0.790) scores, as well as PSI (R = 0.465) and CT (R = 0.837) scores. To assess the diagnostic value of these selected parameters, LDH (0.9727) had maximum sensitivity (100.00%) and specificity (86.67%), with the cutoff value of 283. As a protective factor, lymphocyte counts less than 1.045 x 109 /L showed a good accuracy for identification of severe patients with AUC = 0.9845 (95%CI 0.959-1.01), the maximum specificity (91.30%) and sensitivity (95.24%). In addition, LDH was positively correlated with CRP, AST, BNP and cTnI, while negatively correlated with lymphocyte cells and its subsets, including CD3+, CD4+ and CD8+ T cells (P < 0.01). CONCLUSIONS This study showed that LDH coule be identified as a powerful predictive factor for early recognition of lung injury and severe COVID-19 cases. And importantly, lymphocyte counts, especially CD3+, CD4+, and CD8+ T cells in the peripheral blood of COVID-19 patients, which was relevant with serum LDH, were also dynamically correlated with the severity of the disease. FUNDING Key Project of Shanghai Municipal Health Bureau (2016ZB0202)
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / March, 2020 - medRxiv
+    let !a self assert = LDH is a key glycolytic enzyme that oxidizes lactate to pyruvate, transferring electrons to the cofactor nicotinamide adenine dinucleotide (NAD +) to form NADH. Both of the methods discussed here utilize the ability of NADH to donate electrons to FAD + complexed with the enzyme diaphorase (purifi ed diaphorase contains FAD +). Diaphorase is a ubiquitous enzyme that detoxifi es small molecules, including quinolones. Furthermore, it is known to catalyze the reduction of tetrazolium salt (INT) into formazan.
+
+    / March, 2020 - medRxiv
+    let !b self assert = While INT is yellow, formazan is red, absorbing light at 492 nm.The increased absorption is readily detectable with a spectrophotometer. Thus, the amount of light absorbed is directly proportional to the number of lysed cells or cells with compromised membrane permeability. Therefore, early LDH measurement is indicative of pyroptotic cell death.
+
+    / March, 2020 - medRxiv
+    let !c self assert = However, LDH measurement alone is not sufficient to qualify cell death as pyroptosis. The dependence of caspase-1 is absolutely essential to distinguish pyroptotic cell death from necrotic cell death or apoptosis followed by secondary necrosis (lysis of apoptotic blebs).
+
+    / March, 2020 - medRxiv
+    let !d self assert =  Although the caspase-1 inhibitor (z-YVAD-fmk) and shRNA/siRNA knockdown have been extensively used in the literature, we recommend the use of cells derived from caspase-1 knockout mice wherever possible. It should be noted, however, that the commonly used caspase-1 knockout strains also lack caspase-11. Inhibitors or knock-down methods carry the potential caveats of off target effects and incomplete inhibition at later time-points. For example, reduction of caspase-1 activity by 90 % could still result in the binary event of cell death after longer incubation periods. Hence, experiments using inhibitors or knockdown should examine cell death at several time-points.
+
+    / March, 2020 - medRxiv
+    let !e self assert = The method described below is routinely used in our laboratory to assess pyroptotic cell death in bone-marrow-derived macrophages (BMDMs) in response to Salmonella typhimurium infection. However, it can be adapted to assess pyroptosis in any macrophage or dendritic cell type in response to the desired known or unknown stimuli. We describe the use of a commercially available LDH assay kit as well as a noncommercial method for the determination of pyroptosis adapted from Decker et al.The latter method can be performed at approximately one third of the cost of the commercial kit.
+
+
+
+  # immune response, gender
+  // Clinical and immunologic features in severe and moderate Coronavirus Disease 2019
+  doi: https://doi.org/10.1172/JCI137244
+  ref 'Chen_et_al_2020d
+    head = The SARS-CoV-2 infection induced cytokine storm and lymphopenia, particularly a decrease in CD4+ and CD8+ T cell counts, as well as suppressed IFN-γ production by CD4+ T cells, which might be correlated with disease severity of COVID-19. These potential immunological markers may be of importance due to their correlation with disease severity in COVID-19.
+
+    >>> Background
+      Since December 2019, an outbreak of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) emerged in Wuhan, and is now becoming a global threat. We aimed to delineate and compare the immunological features of severe and moderate COVID-19.
+
+    >>> Methods
+      In this retrospective study, the clinical and immunological characteristics of 21 patients (17 male and 4 female) with COVID-19 were analyzed. These patients were classified as severe (11 cases) and moderate (10 cases) according to the guidelines released by the National Health Commission of China.
+
+    >>> Results
+      The median age of severe and moderate cases was 61.0 and 52.0 years, respectively. Common clinical manifestations included fever, cough, and fatigue. Compared with moderate cases, severe cases more frequently had dyspnea, lymphopenia, and hypoalbuminemia, with higher levels of alanine aminotransferase, lactate dehydrogenase, C-reactive protein, ferritin, and D-dimer as well as markedly higher levels of IL-2R, IL-6, IL-10, and TNF-α. Absolute numbers of T lymphocytes, CD4+ T cells, and CD8+ T cells decreased in nearly all the patients, and were markedly lower in severe cases (294.0, 177.5, and 89.0 × 106/L, respectively) than moderate cases (640.5, 381.5, and 254.0 × 106/L, respectively). The expression of IFN-γ by CD4+ T cells tended to be lower in severe cases (14.1%) than in moderate cases (22.8%).
+
+    >>> Conclusion
+      The SARS-CoV-2 infection may affect primarily T lymphocytes, particularly CD4+ and CD8+ T cells, resulting in a decrease in numbers as well as IFN-γ production by CD4+ T cells. These potential immunological markers may be of importance because of their correlation with disease severity in COVID-19.
+
+    -- exports
+      !a
+
+    / March, 2020 - J Clin Invest.
+    let !a self assert = The present study showed that a male predominance in the incidence of COVID-19 has been noted, similarly to that of SARS-CoV, indicating males are more susceptible to SARS-CoV-2 infection than females.
+
+    / March, 2020 - J Clin Invest.
+    let !b self assert = Older males (>50 years old), particularly those with underlying comorbidities, may be more likely to develop severe COVID-19.
+
+    / March, 2020 - J Clin Invest.
+    let !c self assert = The most common clinical manifestations at onset of illness included fever, cough, fatigue, and myalgia. Severe cases more frequently had dyspnea and developed acute respiratory distress syndrome.
+
+    / March, 2020 - J Clin Invest.
+    let !d self assert = Additionally, we noted that SARS-CoV-2 infection can cause a significant reduction in circulating lymphocytes and T cell subsets. Although the proportions of T cell subsets in peripheral blood remained within the normal range in most patients, decreased CD4+ and CD8+ T cell counts below the LLN were considerably frequent in both severe and moderate cases. More importantly, the number of CD4+ and CD8+ T cells was markedly lower in severe cases than moderate cases.
+
+    / March, 2020 - J Clin Invest.
+    let !e self assert = A cytokine storm was exhibited in nearly all these populations; the only currently available histological examination of a severe case who died of SARS-CoV-2 demonstrated lung interstitial mononuclear inflammatory infiltrates, dominated by lymphocytes, and multinucleated syncytial cells with atypical enlarged pneumocytes in the intra-alveolar spaces
+
+
   # Transmission , Ro, HerdImmunity?
   // The reproductive number of COVID-19 is higher compared to SARS coronavirus
   doi: https://doi.org/10.1093/jtm/taaa021
-  ref 'Liu_et_al_2020
+  ref 'Liu_et_al_2020e
     head = Our review found the average R0 to be 3.28 and median to be 2.79 and interquartile range (IQR)of 1.16, which exceed WHO estimates from 1.4 to 2.5.
+
+    >>> Abstract
+      In Wuhan, China, a novel and alarmingly contagious primary atypical (viral) pneumonia broke out in December 2019. It has since been identified as a zoonotic coronavirus, similar to SARS coronavirus and MERS coronavirus and named COVID-19. As of 8 February 2020, 33 738 confirmed cases and 811 deaths have been reported in China.
+      Here we review the basic reproduction number (R0) of the COVID-19 virus. R0 is an indication of the transmissibility of a virus, representing the average number of new infections generated by an infectious person in a totally naïve population. For R0 > 1, the number infected is likely to increase, and for R0 < 1, transmission is likely to die out. The basic reproduction number is a central concept in infectious disease epidemiology, indicating the risk of an infectious agent with respect to epidemic spread.
 
     -- exports
       !a
@@ -472,24 +937,6 @@ feed Research
 
     / April, 2020 - Infection, Genetics and Evolution
     let !c self assert = Bat_SARS-like coronavirus sequences cluster in different positions in the tree, suggesting that they are recombinants, and thus that the 2019-nCoV and RaTG13 are no
-
-
-
-  # Tag - R0- Herd Immunity
-  // The reproductive number of COVID-19 is higher compared to SARS coronavirus
-  doi: https://doi.org/10.1093/jtm/taaa021
-  ref 'Liu_et_al_2020e
-    head = Our review found the average R0 to be 3.28 and median to be 2.79 and interquartile range (IQR)of 1.16, which exceed WHO estimates from 1.4 to 2.5.
-
-    >>> Abstract
-      In Wuhan, China, a novel and alarmingly contagious primary atypical (viral) pneumonia broke out in December 2019. It has since been identified as a zoonotic coronavirus, similar to SARS coronavirus and MERS coronavirus and named COVID-19. As of 8 February 2020, 33 738 confirmed cases and 811 deaths have been reported in China.
-      Here we review the basic reproduction number (R0) of the COVID-19 virus. R0 is an indication of the transmissibility of a virus, representing the average number of new infections generated by an infectious person in a totally naïve population. For R0 > 1, the number infected is likely to increase, and for R0 < 1, transmission is likely to die out. The basic reproduction number is a central concept in infectious disease epidemiology, indicating the risk of an infectious agent with respect to epidemic spread.
-
-
-
-    # / Feb, 2020 - Journal of Travel Medicine
-    # let !a self assert = The two studies using stochastic methods to estimate R0, reported a range of 2.2–2.68 with an average of 2.44.
-
 
   # Tag - Origin, Structure
   // The origin, transmission and clinical therapies on coronavirus disease 2019 (COVID-19) outbreak – an update on the status
@@ -762,7 +1209,7 @@ feed Research
   // Pulmonary Infectious Mortality Among Patients With End-Stage Renal Disease
   doi: https://doi.org/10.1378/chest.120.6.1883
   ref 'Sarnak_et_al_2001
-    head = Patients with ESRD treated with dialysis have higher pulmonary infectious mortality rates compared with the GP (General Population), even after stratification for age, race, and DM (diabetes mellitus).
+    head = Patients with ESRD (end-stage renal disease) treated with dialysis have higher pulmonary infectious mortality rates compared with the GP (General Population), even after stratification for age, race, and DM (diabetes mellitus).
 
     >>> Background
       Infection is the second-leading cause of death among patients with end-stage renal disease (ESRD). This is due in part to advanced age, comorbid conditions, and immune dysfunction observed in uremic states. Although one may hypothesize that pulmonary infectious mortality is higher among patients with ESRD compared with the general population (GP), no such data are currently available.
@@ -804,7 +1251,7 @@ feed Research
     let !d self assert = Newborns of mothers positive for SARS-CoV-2 should be isolated for at least 14 days or until viral shedding clears, during which time direct breastfeeding is not recommended.
 
 
-  # Facemasks
+  # Facemasks, Aerosol to be added
   // Respiratory virus shedding in exhaled breath and efficacy of face masks
   doi: https://doi.org/10.5061/dryad.w9ghx3fkt
   ref 'Leung_et_al_2020
@@ -833,7 +1280,7 @@ feed Research
     let !d self assert = Given the high collection efficiency of the G-II (ref. 19) and given that each exhaled breath collection was conducted for 30 min, this might imply that prolonged close contact would be required for transmission to occur, even if transmission was primarily via aerosols, as has been described for rhinovirus colds20
 
     / March, 2020 - Dryad
-    let !e self assert = Our results also indicate that there could be considerable heterogeneity in contagiousness of individuals with coronavirus and influenza virus infections.Our results also indicate that there could be considerable heterogeneity in contagiousness of individuals with coronavirus and influenza virus infections.
+    let !e self assert = Our results also indicate that there could be considerable heterogeneity in contagiousness of individuals with coronavirus and influenza virus infections.
 
   # Viral shedding among asymptomatic/ Superspreader
   // Evidence of SARS-CoV-2 Infection in Returning Travelers from Wuhan, China
@@ -860,7 +1307,7 @@ feed Research
     let !a self assert = We stress that the 17–24-day time delay from illness onset to death must be addressed when estimating COVID-19 case fatality risk.
 
 
-  # Incubation Period
+  # Incubation Period, Asymtomatic carriers
   // Serial interval of novel coronavirus (2019-nCoV) infections
   doi: https://doi.org/10.1101/2020.02.03.20019497
   ref 'Nishiura_et_al_2020
@@ -882,7 +1329,7 @@ feed Research
     # / February, 2020 -  medRxiv
     # let !a self assert =
 
-  # Incubation Period
+  # Incubation Period, Quarantine
   // Transmission of corona virus disease 2019 during the incubation period may lead to a quarantine loophole
   doi: https://doi.org/10.1101/2020.03.06.20031955
   ref 'Xia_et_al_2020
@@ -905,7 +1352,7 @@ feed Research
     # let !a self assert =
 
   # Incubation Period
-  // Transmission interval estimates suggest pre-symptomatic spread of COVID-19"
+  // Transmission interval estimates suggest pre-symptomatic spread of COVID-19
   doi: https://doi.org/10.1101/2020.03.03.20029983
   ref 'Tindale_et_al_2020
     head = Based on this paper's studies, The estimated mean incubation period for COVID-19 was 4.9 days (ranging from 0.8 to 11.1 days). The infectious curve showed that in 73.0% of the secondary cases, their date of getting infected was before symptom onset of the first-generation cases, particularly in the last three days of the incubation period.
@@ -931,7 +1378,7 @@ feed Research
       !b
 
     / March, 2020 - medRxiv
-    let !a self assert = Combining the findings with published estimates for the early exponential growth rate COVID-19 in Wuhan  we estimate a basic reproduction number (R0) of 1.32  which is lower than published estimates that assume a mean serial interval exceeding seven days.
+    let !a self assert = Combining the findings with published estimates for the early exponential growth rate COVID-19 in Wuhan we estimate a basic reproduction number (R0) of 1.32  which is lower than published estimates that assume a mean serial interval exceeding seven days.
 
     / March, 2020 - medRxiv
     let !b self assert = There are 301 unique infectors across the 468 infector-infectee pairs. The number of transmission events reported per infector ranges from 1 to 16, with ~55% having only one.
