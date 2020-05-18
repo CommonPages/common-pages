@@ -27,6 +27,17 @@ feed Research
   / April, 2020
   feed April2020
     --
+      'Amanat_et_al_2020b
+      'Gao_et_al_2020
+      'Iwasaki_et_al_2020
+      'Pan_et_al_2020
+      'Cowling_et_al_2020
+      'Shaabani_et_al_2020
+      'Mahevas_et_al_2020
+      'Thompson_et_al_2020
+      'Lassaunière_et_al_2020
+      'Chikina_et_al_2020
+      'Duan_et_al_2020
       'Tang_et_al_2020
       'Paraskevis_et_al_2020
       'Zhang_et_al_2020f
@@ -52,6 +63,13 @@ feed Research
   / March, 2020
   feed March2020
     --
+      'Joob_et_al_2020
+      'Recalcati_et_al_2020
+      'Shim_et_al_2020
+      'Bavel_et_al_2020
+      'Flaxman_et_al_2020
+      'Zhang_et_al_2020h
+      'Shen_et_al_2020
       'Das_et_al_March_2020
       'J_et_al_2020
       'Han_et_al_2020
@@ -125,6 +143,8 @@ feed Research
   / February, 2020
   feed February2020
     --
+      'Huang_et_al_2020
+      'Ren_et_al_2020
       'Liu_et_al_2020e
       'ling_et_al_2020
       'Brook_et_al_2020
@@ -154,6 +174,10 @@ feed Research
   / January, 2020
   feed January2020
     --
+      'Lu_et_at_2020
+      'Wan_et_al_2020
+      'Benvenuto_et_al_2020
+      'Eden_et_al_2020
       'Chen_et_al_2020c
       'Arts_et_al_2020
       'Darrah_et_al_2020
@@ -208,6 +232,7 @@ feed Research
 
     -- October, 2017
       'Netto_et_al_2017
+      'Baucells_et_al_2017
 
     -- August, 2017
       'Sheahan_et_al_2017
@@ -237,6 +262,7 @@ feed Research
       'Sanjuán_et_al_2016
 
     -- June, 2016
+      'Dessauer_et_al_2016
       'Alshukairi_AN_et_al_2016
 
     -- April, 2016
@@ -255,6 +281,12 @@ feed Research
     -- November, 2015
       'Menachery_et_al_2015
 
+    -- October, 2015
+      'Sarah_et_al_2015
+
+    -- July, 2015
+      'Michels_et_al_2015
+
     -- June, 2015
       'Ren_et_al_2015
 
@@ -262,6 +294,7 @@ feed Research
       'Najjar_et_al_2015
 
     -- Jan, 2015
+      'Salgado_et_al_2015
       'Jenkins_et_al_2015
 
     -- October, 2014
@@ -283,6 +316,7 @@ feed Research
       'Zhang_et_al_2013
 
     -- October, 2012
+      'Singla_et_al_2012
       'Kleinnijenhuis_et_al_2012
 
     -- September, 2012
@@ -297,8 +331,14 @@ feed Research
     -- August, 2011
       'Chut_et_al_2011
 
+    -- June, 2011
+      'McLeish_et_al_2011
+
     -- May, 2011
       'Qian_et_al_2011
+
+    -- April, 2011
+      'Fine_et_al_2011
 
     -- November, 2010
       'Velthuis_et_al_2010
@@ -329,6 +369,15 @@ feed Research
     -- April, 2008
       'Shi_et_al_2008
 
+    -- March, 2008
+      'Mossong_et_al_2008
+
+    -- June, 2007
+      'Boyce_et_al_2007
+
+    -- April, 2007
+      'Noyce_et_al_2007
+
     -- October, 2007
       'Wu_et_al_2007
 
@@ -342,6 +391,9 @@ feed Research
     -- Jan, 2006
       'Franceschi_et_al_2006
 
+    -- February, 2006
+      'Colizza_et_al_2006
+
     -- October, 2005
       'Li_et_al_2005
 
@@ -349,6 +401,12 @@ feed Research
       'Fukushi_et_al_2005
       'Vincent_et_al_2005
       'Elena_et_al_2005
+
+    -- July, 2005
+      'Han_et_al_2005
+
+    -- June, 2005
+      'Keeling_et_al_2005
 
     -- September, 2004
       'Darnell_et_al_2004
@@ -359,6 +417,9 @@ feed Research
     -- June, 2004
       'Holmes_et_al_2004
 
+    -- February, 2004
+      'Shen_et_al_2004
+
     -- November, 2003
       'Savarino_et_al_2003
 
@@ -368,6 +429,9 @@ feed Research
     -- December, 2001
       'Sarnak_et_al_2001
 
+    -- July, 2000
+      'John_et_al_2000
+
     -- October, 1990
       'Ka_et_al_1990
       'Callow_et_al_1990
@@ -376,6 +440,1022 @@ feed Research
       'Mcintosh_et_al_1970
 
   #
+
+  # SymptomaticPhase, Skin Rash 
+  // COVID-19 can present with a rash and be mistaken for dengue
+  doi: https://doi.org/10.1016/j.jaad.2020.03.036
+  ref 'Joob_et_al_2020
+    head = At present (March 5, 2020), there are 48 accumulated COVID-19 cases in Thailand. Among these 48 cases, there was an interesting case in which the patient presented with a skin rash with petechiae. Because dengue is very common in our setting, petechiae rash is a common clinical finding in dengue, and the patient also had low platelet count, a clinical diagnosis of dengue was made by the first physician in charge
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / March, 2020 - Journal of American Academy of Dermatology
+    let !a self assert = There was no photograph and a biopsy was not done because biopsy is not a routine practice according to dengue clinical practice guidelines in our tropical setting. The patient was initially misdiagnosed as dengue, which resulted in a delayed diagnosis
+
+    / March, 2020 - Journal of American Academy of Dermatology
+    let !b self assert = In this case, the patient further presented respiratory problems and was referred to the tertiary medical center. Other common virus infections that might cause fever, rash, and respiratory problem were ruled out by laboratory investigation, and the final diagnosis of COVID-19 infection was confirmed by RT-PCR.
+
+    / March, 2020 - Journal of American Academy of Dermatology
+    let !c self assert = There is a possibility that a COVID-19 patient might initially present with a skin rash that can be misdiagnosed as another common disease. The practitioner should recognize the possibility that the patient might have only a skin rash.
+
+  # Symptomatic Phase
+  // Cutaneous manifestations in COVID‐19: a first perspective
+  doi: https://doi.org/10.1111/jdv.16387
+  ref 'Recalcati_et_al_2020
+    head = Of the 88 COVID-19 patients, 20.5% developed skin manifestations. Eight of the 18 (44%) had skin eruptions at symptom onset, and the rest after hospitalization.
+
+    >>> Abstract
+      In December 2019 unexplained pneumonia cases were initially reported in Wuhan, China. The pathogen, a novel coronavirus named severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2), was isolated from lower respiratory tract samples of infected patients and the resultant disease was termed as COVID‐19 (Coronavirus Disease 2019)1. By Feb 15, COVID‐19 has rapidly spread throughout China and across the world, until a pandemic condition was announced by March 11.
+
+    -- exports
+      !a
+      !b
+
+    / March, 2020 - J Eur Acad Dermatol Venereol.
+    let !a self assert = Fourteen (78%) had red rashes, three had widespread urticaria, and one had chickenpox-like vesicles. The most commonly affected area was the trunk. Itching was mild or absent, and lesions usually healed up in a few days. Most importantly, skin manifestations did not correlate with disease severity.
+
+    / March, 2020 - J Eur Acad Dermatol Venereol.
+    let !b self assert = These skin manifestations are similar to cutaneous involvement occurring during common viral infections.
+
+
+  # Vaccine prospects (RNA, DNA, Recombinant protien, Viral vector based, Live attenuated vaccine, inactivated vaccine)
+  // SARS-CoV-2 Vaccines: Status Report
+  doi: https://doi.org/10.1016/j.immuni.2020.03.007
+  ref 'Amanat_et_al_2020b
+    head =  Here, we discuss therapeutic and prophylactic interventions for SARS-CoV-2 with a focus on vaccine development and its challenges. Vaccines are being rapidly developed but will likely come too late to affect the first wave of a potential pandemic. Nevertheless, critical lessons can be learned for the development of vaccines against rapidly emerging viruses. Importantly, SARS-CoV-2 vaccines will be essential to reducing morbidity and mortality if the virus establishes itself in the population.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+      !j
+      !k
+      !l
+
+    / April, 2020 - Immunity Perspective
+    let !a self assert = RNA vaccines (Target- S protien): Advantage -  No infectious virus needs to be handled, vaccines are typically immunogenic, rapid production possible.
+
+    / April, 2020 - Immunity Perspective
+    let !b self assert = RNA vaccines (Target- S protien): Disadvantage - Safety issues with reactogenicity have been reported.
+
+    / April, 2020 - Immunity Perspective
+    let !c self assert = DNA vaccines (Target- S protien): Advantage -  No infectious virus needs to be handled, easy scale up, low production costs, high heat stability, tested in humans for SARS-CoV-1, rapid production possible.
+
+    / April, 2020 - Immunity Perspective
+    let !d self assert = DNA vaccines (Target- S protien): Disadvantage - Vaccine needs specific delivery devices to reach good immunogenicity.
+
+    / April, 2020 - Immunity Perspective
+    let !e self assert = Recombinant protein vaccines (Target- S protien): Advantage - No infectious virus needs to be handled, adjuvants can be used to increase immunogenicity
+
+    / April, 2020 - Immunity Perspective
+    let !f self assert = Recombinant protein vaccines (Target- S protien): Disadvantage - Global production capacity might be limited. Antigen and/or epitope integrity needs to be confirmed. Yields need to be high enough.
+
+    / April, 2020 - Immunity Perspective
+    let !g self assert = Viral vector-based vaccines (Target- S protien): Advantage - No infectious virus needs to be handled, excellent preclinical and clinical data for many emerging viruses, including MERS-CoV
+
+    / April, 2020 - Immunity Perspective
+    let !h self assert = Viral vector-based vaccines (Target- S protien): Disadvantage - Vector immunity might negatively affect vaccine effectiveness (depending on the vector chosen).
+
+    / April, 2020 - Immunity Perspective
+    let !i self assert = Live attenuated vaccines (Target-  Whole virion): Advantage -  Straightforward process used for several licensed human vaccines, existing infrastructure can be used.
+
+    / April, 2020 - Immunity Perspective
+    let !j self assert = Live attenuated vaccines (Target-  Whole virion): Disadvantage - Creating infectious clones for attenuated coronavirus vaccine seeds takes time because of large genome size. Safety testing will need to be extensive.
+
+    / April, 2020 - Immunity Perspective
+    let !k self assert = Inactivated vaccines (Target- Whole virion): Advantage -  Straightforward process used for several licensed human vaccines, existing infrastructure can be used, has been tested in humans for SARS-CoV-1, adjuvants can be used to increase immunogenicity.
+
+    / April, 2020 - Immunity Perspective
+    let !l self assert = Inactivated vaccines (Target- Whole virion): Disadvantage - Large amounts of infectious virus need to be handled (could be mitigated by using an attenuated seed virus). Antigen and/or epitope integrity needs to be confirmed.
+
+  # Vaccine Prospects - PiCoVacc
+  //  Rapid development of an inactivated vaccine for SARS-CoV-2
+  doi: https://doi.org/10.1101/2020.04.17.046375
+  ref 'Gao_et_al_2020
+    head = A purified inactivated SARS-CoV-2 virus vaccine candidate (PiCoVacc) confers complete protection in non-human primates against SARS-CoV-2 strains circulating worldwide by eliciting potent humoral responses devoid of immunopathology
+
+    >>> Abstract
+      The COVID-19 pandemic caused by SARS-CoV-2 has brought about an unprecedented crisis, taking a heavy toll on human health, lives as well as the global economy. There are no SARS-CoV-2-specific treatments or vaccines available due to the novelty of this virus. Hence, rapid development of effective vaccines against SARS-CoV-2 is urgently needed. Here we developed a pilot-scale production of a purified inactivated SARS-CoV-2 virus vaccine candidate (PiCoVacc), which induced SARS-CoV-2-specific neutralizing antibodies in mice, rats and non-human primates. These antibodies potently neutralized 10 representative SARS-CoV-2 strains, indicative of a possible broader neutralizing ability against SARS-CoV-2 strains circulating worldwide. Immunization with two different doses (3μg or 6 μg per dose) provided partial or complete protection in macaques against SARS-CoV-2 challenge, respectively, without any antibody-dependent enhancement of infection. Systematic evaluation of PiCoVacc via monitoring clinical signs, hematological and biochemical index, and histophathological analysis in macaques suggests that it is safe. These data support the rapid clinical development of SARS-CoV-2 vaccines for humans.
+
+    # / April, 2020 - bioRxiv
+    # let !a self assert =
+
+  # Vaccines, Frontiers?
+  // The potential danger of suboptimal antibody responses in COVID-19
+  doi: https://doi.org/10.1038/s41577-020-0321-6
+  ref 'Iwasaki_et_al_2020
+    head = Insights gained from studying the antibody features that correlate with recovery as opposed to worsening of disease will inform the type of antibodies to assess in vaccine studies. We argue that ADE should be given full consideration in the safety evaluation of emerging candidate vaccines for SARS-CoV-2.
+
+    >>> Abstract
+      There is a desperate need for effective therapies and vaccines for SARS-CoV-2 to mitigate the growing economic crisis that has ensued from societal lockdown. Vaccines are being developed at an unprecedented speed and are already in clinical trials, without preclinical testing for safety and efficacy. Yet, safety evaluation of candidate vaccines must not be overlooked.
+
+    -- exports
+      !a
+
+    / April, 2020 - Nature reviews Immunology
+    let !a self assert = In addition to vaccine approaches, monoclonal antibodies could be used to tackle this virus. Unlike vaccine-induced antibodies, monoclonal antibodies can be engineered with molecular precision. Safe and effective neutralizing antibodies could be produced on a mass-scale for delivery to populations across the world in the coming months.
+
+
+  # Community Mitgation , Social Distancing , Quarantine.. Gender !a, !b, Healthcare workers !c, PPE !c, Quarantine !e
+  // Association of Public Health Interventions With the Epidemiology of the COVID-19 Outbreak in Wuhan, China
+  doi: http://doi.org/10.1001/jama.2020.6130
+  ref 'Pan_et_al_2020
+    head = In this cohort study, the number of incident COVID-19 cases, rates of confirmed cases, and Rt were reduced and the outbreak was under improved control in Wuhan after implementation of multifaceted public health measures (including but not limited to intensive intracity and intercity traffic restriction, social distancing measures, home confinement and centralized quarantine, and improvement of medical resources).
+
+    >>> Objective
+      To evaluate the association of public health interventions with the epidemiological features of the COVID-19 outbreak in Wuhan by 5 periods according to key events and interventions.
+
+    >>> Design, Setting and Participants
+      In this cohort study, individual-level data on 32 583 laboratory-confirmed COVID-19 cases reported between December 8, 2019, and March 8, 2020, were extracted from the municipal Notifiable Disease Report System, including patients’ age, sex, residential location, occupation, and severity classification.
+
+    >>> Exposures
+      Nonpharmaceutical public health interventions including cordons sanitaire, traffic restriction, social distancing, home confinement, centralized quarantine, and universal symptom survey.
+
+    >>> Main Outcomes and Measures
+      Rates of laboratory-confirmed COVID-19 infections (defined as the number of cases per day per million people), across age, sex, and geographic locations were calculated across 5 periods: December 8 to January 9 (no intervention), January 10 to 22 (massive human movement due to the Chinese New Year holiday), January 23 to February 1 (cordons sanitaire, traffic restriction and home quarantine), February 2 to 16 (centralized quarantine and treatment), and February 17 to March 8 (universal symptom survey). The effective reproduction number of SARS-CoV-2 (an indicator of secondary transmission) was also calculated over the periods.
+
+    >>> Results
+      Among 32 583 laboratory-confirmed COVID-19 cases, the median patient age was 56.7 years (range, 0-103; interquartile range, 43.4-66.8) and 16 817 (51.6%) were women. The daily confirmed case rate peaked in the third period and declined afterward across geographic regions and sex and age groups, except for children and adolescents, whose rate of confirmed cases continued to increase. The daily confirmed case rate over the whole period in local health care workers (130.5 per million people [95% CI, 123.9-137.2]) was higher than that in the general population (41.5 per million people [95% CI, 41.0-41.9]). The proportion of severe and critical cases decreased from 53.1% to 10.3% over the 5 periods. The severity risk increased with age: compared with those aged 20 to 39 years (proportion of severe and critical cases, 12.1%), elderly people (≥80 years) had a higher risk of having severe or critical disease (proportion, 41.3%; risk ratio, 3.61 [95% CI, 3.31-3.95]) while younger people (<20 years) had a lower risk (proportion, 4.1%; risk ratio, 0.47 [95% CI, 0.31-0.70]). The effective reproduction number fluctuated above 3.0 before January 26, decreased to below 1.0 after February 6, and decreased further to less than 0.3 after March 1.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+
+    / April, 2020 - JAMA
+    let !a self assert = Among the 32 583 confirmed COVID-19 cases, females had a higher rate of confirmed cases compared with males, but males were more likely to have severe or critical illness. This is consistent with previous reports from China suggesting a higher crude fatality rate among men compared with women (2.8% vs 1.7%), and another study in critically ill patients demonstrating that more men were affected (67%) than women (33%).
+
+    / April, 2020 - JAMA
+    let !b self assert = Although the reasons for these differences are unknown, it is possible that men were more likely to be current smokers and had a higher proportion of comorbid conditions, which might worsen their prognosis.
+
+    / April, 2020 - JAMA
+    let !c self assert = The rate of cases in health care workers was substantially higher than in the general population between January 11 and February 1, indicating a high risk of nosocomial infection. This might be due to lower awareness and inadequate use of personal protective equipment in the early periods in this study, and later a severe shortage of medical resources.
+
+    / April, 2020 - JAMA
+    let !d self assert = In a city with 10 million residents, mitigation measures, such as traffic restriction, cancellation of social gatherings, and home quarantine, were associated with a reduction in the degree of transmission. However, despite these interventions, the confirmed case rate continued to increase in the third period, perhaps in part due to shortages of pharmaceuticals and medical equipment and delayed diagnosis and access to medical treatment. Without rapid diagnosis, the risk of cross-infection in hospitals was high and patients likely continued to infect family members and close contacts. It has been reported that about 80% of the cluster transmission occurred in families in China.
+
+    / April, 2020 - JAMA
+    let !e self assert = Centralized quarantine of patients and close contacts appears to have been associated with a reduction in in-hospital, household, and community transmission. Between February 16 and 18, the government further initiated a door-to-door and individual-to-individual universal symptom survey to single out presumptive cases in the community, which was associated with further reductions in the spread of COVID-19 in Wuhan.
+
+  # Social distancing, Community mitigation, PPE, SchoolClosure
+  // Impact assessment of non-pharmaceutical interventions against coronavirus disease 2019 and influenza in Hong Kong: an observational study
+  doi: https://doi.org/10.1016/S2468-2667(20)30090-6
+  ref 'Cowling_et_al_2020
+    head = Our findings suggest that the package of public health interventions (including border entry restrictions, quarantine and isolation of cases and contacts, and population behaviour changes, such as social distancing and personal protective measures) that Hong Kong has implemented since late January, 2020, is associated with reduced spread of COVID-19.
+
+    >>> Background
+      A range of public health measures have been implemented to suppress local transmission of coronavirus disease 2019 (COVID-19) in Hong Kong. We examined the effect of these interventions and behavioural changes of the public on the incidence of COVID-19, as well as on influenza virus infections, which might share some aspects of transmission dynamics with COVID-19.
+
+    >>> Methods
+      We analysed data on laboratory-confirmed COVID-19 cases, influenza surveillance data in outpatients of all ages, and influenza hospitalisations in children. We estimated the daily effective reproduction number (Rt) for COVID-19 and influenza A H1N1 to estimate changes in transmissibility over time. Attitudes towards COVID-19 and changes in population behaviours were reviewed through three telephone surveys done on Jan 20–23, Feb 11–14, and March 10–13, 2020.
+
+    >>> Findings
+      COVID-19 transmissibility measured by Rt has remained at approximately 1 for 8 weeks in Hong Kong. Influenza transmission declined substantially after the implementation of social distancing measures and changes in population behaviours in late January, with a 44% (95% CI 34–53%) reduction in transmissibility in the community, from an estimated Rt of 1·28 (95% CI 1·26–1·30) before the start of the school closures to 0·72 (0·70–0·74) during the closure weeks. Similarly, a 33% (24–43%) reduction in transmissibility was seen based on paediatric hospitalisation rates, from an Rt of 1·10 (1·06–1·12) before the start of the school closures to 0·73 (0·68–0·77) after school closures. Among respondents to the surveys, 74·5%, 97·5%, and 98·8% reported wearing masks when going out, and 61·3%, 90·2%, and 85·1% reported avoiding crowded places in surveys 1 (n=1008), 2 (n=1000), and 3 (n=1005), respectively.
+
+    >>> Interpretation
+      Our study shows that non-pharmaceutical interventions (including border restrictions, quarantine and isolation, distancing, and changes in population behaviour) were associated with reduced transmission of COVID-19 in Hong Kong, and are also likely to have substantially reduced influenza transmission in early February, 2020.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+
+    / April, 2020 - The Lancet
+    let !a self assert = Our findings strongly suggest that social distancing and population behavioural changes—that have a social and economic impact that is less disruptive than total lockdown—can meaningfully control COVID-19.
+
+    / April, 2020 - The Lancet
+    let !b self assert = Without a strengthening of social distancing measures, local infections are likely to continue to occur, given that the effective reproduction number is approximately 1 or slightly higher than 1. Travel measures and testing, tracing, and treating efforts are particularly important in maintaining suppression, although these measures will be increasingly difficult to implement as case numbers increase.
+
+    / April, 2020 - The Lancet
+    let !c self assert = In addition to the identification of cases with isolation, contact tracing, and quarantine, social distancing has also likely played an important role in suppressing transmission.
+
+    / April, 2020 - The Lancet
+    let !d self assert = The estimated 44% reduction in influenza transmission in the general community in February, 2020, was much greater than the estimated 10–15% reduction in transmission associated with school closures alone during the 2009 pandemic,18 and the 16% reduction in transmission of influenza B associated with school closures during the 2017–18 winter in Hong Kong.
+
+  # Frontiers - Cytokine Storm
+  // ISG15 drives immune pathology and respiratory failure during viral infection
+  doi: https://doi.org/10.1101/2020.04.13.039321
+  ref 'Shaabani_et_al_2020
+    head = We reveal that the enzymatic function of Usp18 is crucial for regulating extracellular release of ISG15. This is accompanied by altered neutrophil differentiation, cytokine amplification and mortality following persistent viral infection. Moreover, our results suggest that extracellular ISG15 may drive the inflammatory pathology observed and could be both a prospective predictor of disease outcome and a therapeutic target during severe respiratory viral infections.
+
+    >>> Abstract
+      Cytokine storm during respiratory viral infection is an indicator of disease severity and poor prognosis. Type 1 interferon (IFN-I) production and signaling has been reported to be causal in cytokine storm-associated pathology in several respiratory viral infections, however, the mechanisms by which IFN-I promotes disease pathogenesis remain poorly understood. Here, using Usp18-deficient, USP18 enzymatic-inactive and Isg15-deficient mouse models, we report that lack of deISGylation during persistent viral infection leads to severe immune pathology characterized by hematological disruptions, cytokine amplification, lung vascular leakage and death. This pathology requires T cells but not T cell-intrinsic deletion of Usp18. However, lack of Usp18 in myeloid cells mimicked the pathological manifestations observed in Usp18-/- or Usp18C61A mice which were dependent on Isg15. We further mechanistically demonstrate that interrupting the ISGylation/deISGylation circuit increases extracellular levels of ISG15 which is accompanied by inflammatory neutrophil accumulation to the lung. Importantly, neutrophil depletion reversed morbidity and mortality in Usp18C61A mice. In summary, we reveal that the enzymatic function of Usp18 is crucial for regulating extracellular release of ISG15. This is accompanied by altered neutrophil differentiation, cytokine amplification and mortality following persistent viral infection. Moreover, our results suggest that extracellular ISG15 may drive the inflammatory pathology observed and could be both a prospective predictor of disease outcome and a therapeutic target during severe respiratory viral infections.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+
+    / April, 2020 - bioRxiv
+    let !a self assert = Our study is the first to implicate a pathological role of extracellular ISG15 during viral infection and to report a role for USP18 isopeptidase function in regulating extracellular levels of ISG15 in vivo. Our results demonstrate that proper ISGylation/deISGylation in LysM+ cells regulates extracellular ISG15 levels, and perturbation of this pathway results in lung immune pathology, cytokine amplification and mortality following persistent Cl13 infection. Thus, we believe that LysM+ cells are major sources of extracellular ISG15 following persistent LCMV infection.
+
+    / April, 2020 - bioRxiv
+    let !b self assert = Our results demonstrate that proper ISGylation/deISGylation in LysM+ cells regulates extracellular ISG15 levels, and perturbation of this pathway results in lung immune pathology, cytokine amplification and mortality following persistent Cl13 infection. Thus, we believe that LysM+ cells are major sources of extracellular ISG15 following persistent LCMV infection.
+
+    / April, 2020 - bioRxiv
+    let !c self assert = Dysregulated ISGylation/deISGylation in the absence of USP18 can be causal in aberrant immune inflammation in the lung. This hypothesis is further supported in humans, where ISG15 has been reported to stabilize USP18 and ISG15-null patients exhibit strong IFN-I signaling but display much less severe symptoms than USP18-loss of function patients, suggesting that secreted ISG15 may significantly contribute to symptoms observed in USP18-null patients. Furthermore, if free ISG15 contributes to disease pathogenesis in USP18- null patients, ISG15 levels can have prognostic value in assessing the potential for severe pathological outcomes in Usp18-deficient patients or following viral infections. Moreover, antibody neutralization or pharmacological inhibition of ISG15 signaling may be a viable means to alleviate pathology and mortality in USP18-deficient patients or during viral infection where IFN-I signaling correlates with severe pathological outcomes.
+
+    / April, 2020 - bioRxiv
+    let !d self assert = We demonstrate that this accumulation of extracellular ISG15 correlates with augmentation of CXCR4+ neutrophils in the lung and that depletion of neutrophils in Usp18C61A mice following persistent viral infection inhibited lung pathology, cytokine amplification and promoted survival. Importantly, deletion of Isg15 from Usp18C61A mice reduced the accumulation of CXCR4+ neutrophils, lessened lung inflammatory pathology, suppressed cytokine amplification and restored survival.
+
+    / April, 2020 - bioRxiv
+    let !e self assert = We report here that IFN-γ is a key player in death of Usp18C61A mice following Cl13 infection, as IFN-γ neutralization was superior at reducing inflammation, morbidity and mortality compared to CD8 T cell depletion.IFN-γ induced by T cells leads to hyper-activation of Usp18C61A neutrophils. In support of this hypothesis, neutralization of IFN-γ reduced BALF levels of MPO and MMP9 in Usp18C61A mice. However, the extent to which neutrophil-T cell crosstalk promotes the inflammatory pathology observed in Usp18C61A mice following Cl13 infection remains incomplete and is an exciting area for future study.
+
+    / April, 2020 - bioRxiv
+    let !f self assert = We report that the respiratory pathology associated with persistent viral infection is CD8 T cell dependent. Although T cell-selective Usp18 deletion does not reproduce lung pathology, elevated cytokine production or mortality, we show that Usp18-deletion in LysM+ cells results in elevated levels of extracellular ISG15 accompanied by cytokine storm, lung pathology and mortality
+
+    / April, 2020 - bioRxiv
+    let !g self assert = Results show that mice lacking Usp18 in myeloid cells phenocopy Usp18C61A mice post-Cl13 infection, suggesting that lack of deISGylation in LysM+ cells results in CD8 T cell-mediated immunopathology during Cl13 infection.  our results strongly suggest that the excessive immunopathology observed in Usp18C61A mice requires T cells, specifically T cell-produced IFNγ, but is not related to T cell-intrinsic deletion of Usp18.
+
+    / April, 2020 - bioRxiv
+    let !h self assert = CXCR4+ neutrophils are found in scenarios of severe lung pathology. Moreover, the fact that neutrophil depletion rescued survival in Usp18C61A mice further demonstrates that the neutrophil population recruited to the lung is causal in promoting the inflammatory pathology, morbidity and mortality observed in Usp18C61A mice following persistent virus infection. The role of neutrophils in mediating pathology during Arenavirus infection has not been studied in detail, and our data suggest that neutrophils may play a causal role in disease warranting further investigations in humans and animal models of Arenavirus infection.
+
+    / April, 2020 - bioRxiv
+    let !i self assert = Our data suggest that extracellular levels of ISG15 could predict severe lung pathological responses in viral infection and humans with USP18-deficiency.
+
+
+  # Hydroxychloroquine
+  // No evidence of clinical efficacy of hydroxychloroquine in patients hospitalized for COVID-19 infection with oxygen requirement: results of a study using routinely collected data to emulate a target trial
+  doi: https://doi.org/10.1101/2020.04.10.20060699
+  ref 'Mahevas_et_al_2020
+    head = We report a comparative study that uses real-world data collected from routine care to assess the efficacy and safety of HCQ in a population of 181 patients hospitalised for COVID19 hypoxemic pneumonia. We found that HCQ treatment at 600 mg/day added to standard of care was not associated with a reduction of admissions to ICUs or death 7 days after hospital admission, compared to standard of care alone. The rate of ARDS did not decrease either.
+
+    >>> Background
+      Treatments are urgently needed to prevent respiratory failure and deaths from coronavirus disease 2019 (COVID-19). Hydroxychloroquine (HCQ) has received worldwide attention because of positive results from small studies.
+
+    >>> Method
+      We used data collected from routine care of all adults in 4 French hospitals with documented SARS-CoV-2 pneumonia and requiring oxygen ≥ 2 L/min to emulate a target trial aimed at assessing the effectiveness of HCQ at 600 mg/day. The composite primary endpoint was transfer to intensive care unit (ICU) within 7 days from inclusion and/or death from any cause. Analyses were adjusted for confounding factors by inverse probability of treatment weighting.
+
+    >>> Results
+      This study included 181 patients with SARS-CoV-2 pneumonia; 84 received HCQ within 48 hours of admission (HCQ group) and 97 did not (no-HCQ group). Initial severity was well balanced between the groups. In the weighted analysis, 20.2% patients in the HCQ group were transferred to the ICU or died within 7 days vs 22.1% in the no-HCQ group (16 vs 21 events, relative risk [RR] 0.91, 95% CI 0.47-1.80). In the HCQ group, 2.8% of the patients died within 7 days vs 4.6% in the no-HCQ group (3 vs 4 events, RR 0.61, 95% CI 0.13-2.89), and 27.4% and 24.1%, respectively, developed acute respiratory distress syndrome within 7 days (24 vs 23 events, RR 1.14, 95% CI 0.65-2.00). Eight patients receiving HCQ (9.5%) experienced electrocardiogram modifications requiring HCQ discontinuation.
+
+    >>> Interpretation
+       These results do not support the use of HCQ in patients hospitalised for documented SARS-CoV-2-positive hypoxic pneumonia.
+
+
+
+    # / April, 2020 - medRxiv
+    # let !a self assert =
+
+  # Serology Surveys
+  // Sero-Prevalence and Incidence of A/H1N1 2009 Influenza Infection in Scotland in Winter 2009–2010
+  doi: https://doi.org/10.1371/journal.pone.0020358
+  ref 'McLeish_et_al_2011
+    head = Sero-prevalence overall (out of 1563 sample) in the adult population of Scotland is estimated to have been at least 44%  by early 2010. This would be expected to generate a significant degree of herd immunity and so, in the absence of significant change in the antigenicity of the virus, protect the population from a major epidemic of A/H1N1 2009 in the 2010–2011 influenza season.
+
+    >>> Background
+      Sero-prevalence is a valuable indicator of prevalence and incidence of A/H1N1 2009 infection. However, raw sero-prevalence data must be corrected for background levels of cross-reactivity (i.e. imperfect test specificity) and the effects of immunisation programmes
+
+    >>> Methods and Findings
+      We obtained serum samples from a representative sample of 1563 adults resident in Scotland between late October 2009 and April 2010. Based on a microneutralisation assay, we estimate that 44% (95% confidence intervals (CIs): 40–47%) of the adult population of Scotland were sero-positive for A/H1N1 2009 influenza by 1 March 2010. Correcting for background cross-reactivity and for recorded vaccination rates by time and age group, we estimated that 34% (27–42%) were naturally infected with A/H1N1 2009 by 1 March 2010. The central estimate increases to >40% if we allow for imperfect test sensitivity. Over half of these infections are estimated to have occurred during the study period and the incidence of infection in late October 2009 was estimated at 4.3 new infections per 1000 people per day (1.2 to 7.2), falling close to zero by April 2010. The central estimate increases to over 5.0 per 1000 if we allow for imperfect test specificity. The rate of infection was higher for younger adults than older adults. Raw sero-prevalences were significantly higher in more deprived areas (likelihood ratio trend statistic = 4.92,1 df, P = 0.03) but there was no evidence of any difference in vaccination rates.
+
+    >>> Conclusions
+      We estimate that almost half the adult population of Scotland were sero-positive for A/H1N1 2009 influenza by early 2010 and that the majority of these individuals (except in the oldest age classes) sero-converted as a result of natural infection with A/H1N1 2009. Public health planning should consider the possibility of higher rates of infection with A/H1N1 2009 influenza in more deprived areas.
+
+    -- exports
+      !a
+
+    / June, 2011 - Plos one
+    let !a self assert = However, any such effect would be reduced if: 1) the cut-off antibody titre (1 in 40 dilution) used does not necessarily imply immunity in adults: 2) antibody level and hence protection in vaccinated adults has waned faster than anticipated; 3) relaxation of the pandemic control programme has led to higher transmission rates than in 2009–2010. Further work is needed to examine these possibilities.
+
+  # Serology
+  // Neutralising antibodies to SARS coronavirus 2 in Scottish blood donors - a pilot study of the value of serology to determine population exposure
+  doi: https://doi.org/10.1101/2020.04.13.20060467
+  ref 'Thompson_et_al_2020
+    head = The raw seroprevalence estimates obtained in the current study of blood donors  in Scotland were 0/500 and 6/500 at two sampling points in mid-March 2020. These estimates reflect the prior exposure to SARS-CoV-2 in this blood donor population over the preceding weeks.
+
+    >>> Abstract
+      Background. The extent of spread of SARS coronavirus 2 (SARS-CoV-2) in the UK and elsewhere is unknown because typically only symptomatic individuals are diagnosed. We performed a serological study of recent blood donors in Scotland to detect antibodies to SARS-CoV-2 as a marker of past infection. Methods. A pseudotyped SARS-CoV-2 virus microneutralisation assay was used to detect neutralising antibodies to SARS-CoV-2. The study group comprised samples from 1000 blood donors collected in Scotland during March, 2020. Controls were collected from 100 donors in Scotland during 2019. Findings. All samples collected on the 17th March, 2020 (n=500) were negative in the pseudotyped SARS-CoV-2 virus microneutralisation assay. Neutralising antibodies were detected in 5 of the 500 samples collected 21st to 23rd March; one further sample was reactive in an anti-spike ELISA. Interpretation. Although we cannot use the rise in numbers seropositive to infer the contemporary seroprevalence or the growth rate of the epidemic, we note that they are consistent with frequency of reported diagnosed infections and SARS-CoV-2-associated deaths reported in that time period in Scotland, given that seroconversion takes up to 2-3 weeks. It should also be noted that blood donors are not representative of the general population; in particular, those with a history of recent respiratory infections are deferred. Finally, it is unknown what proportion of infected individuals seroconvert and become reactive in the assays used. Serial follow up studies are needed to track infection and seroconversion in this and other similar populations However, these data indicate that sero-surveys of blood banks can serve as a useful tool for tracking the emergence and progression of an epidemic like the current SARS-CoV-2 outbreak.
+
+    -- exports
+      !a
+
+    / April, 2020 - medRxiv
+    let !a self assert = Extrapolating this figure to represent the past infection frequency of SARS-CoV-2 in this and the wider community has a number of uncertainties that need to resolved in future studies in this and other similar populations. However, this study implements a novel method of tracking the spread of epidemics like the current SARS-CoV-2 outbreak, and should be carefully considered as a routine component of an immediate response to such an impending threat.
+
+  # Consipiracy Claims - from the doc, Origin , Index patient
+  // Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China
+  doi: https://doi.org/10.1016/S0140-6736(20)30183-5
+  ref 'Huang_et_al_2020
+    head = 27 (66%) patients had direct exposure to Huanan seafood market. Market exposure was similar between the patients with ICU care (nine [69%]) and those with non-ICU care (18 [64%]). The symptom onset date of the first patient identified was Dec 1, 2019. None of his family members developed fever or any respiratory symptoms. No epidemiological link was found between the first patient and later cases.
+
+    >>> Background
+      A recent cluster of pneumonia cases in Wuhan, China, was caused by a novel betacoronavirus, the 2019 novel coronavirus (2019-nCoV). We report the epidemiological, clinical, laboratory, and radiological characteristics and treatment and clinical outcomes of these patients.
+
+    >>> Methods
+      All patients with suspected 2019-nCoV were admitted to a designated hospital in Wuhan. We prospectively collected and analysed data on patients with laboratory-confirmed 2019-nCoV infection by real-time RT-PCR and next-generation sequencing. Data were obtained with standardised data collection forms shared by WHO and the International Severe Acute Respiratory and Emerging Infection Consortium from electronic medical records. Researchers also directly communicated with patients or their families to ascertain epidemiological and symptom data. Outcomes were also compared between patients who had been admitted to the intensive care unit (ICU) and those who had not.
+
+    >>> Findings
+      By Jan 2, 2020, 41 admitted hospital patients had been identified as having laboratory-confirmed 2019-nCoV infection. Most of the infected patients were men (30 [73%] of 41); less than half had underlying diseases (13 [32%]), including diabetes (eight [20%]), hypertension (six [15%]), and cardiovascular disease (six [15%]). Median age was 49·0 years (IQR 41·0–58·0). 27 (66%) of 41 patients had been exposed to Huanan seafood market. One family cluster was found. Common symptoms at onset of illness were fever (40 [98%] of 41 patients), cough (31 [76%]), and myalgia or fatigue (18 [44%]); less common symptoms were sputum production (11 [28%] of 39), headache (three [8%] of 38), haemoptysis (two [5%] of 39), and diarrhoea (one [3%] of 38). Dyspnoea developed in 22 (55%) of 40 patients (median time from illness onset to dyspnoea 8·0 days [IQR 5·0–13·0]). 26 (63%) of 41 patients had lymphopenia. All 41 patients had pneumonia with abnormal findings on chest CT. Complications included acute respiratory distress syndrome (12 [29%]), RNAaemia (six [15%]), acute cardiac injury (five [12%]) and secondary infection (four [10%]). 13 (32%) patients were admitted to an ICU and six (15%) died. Compared with non-ICU patients, ICU patients had higher plasma levels of IL2, IL7, IL10, GSCF, IP10, MCP1, MIP1A, and TNFα.
+
+    >>> Interpretation
+      The 2019-nCoV infection caused clusters of severe respiratory illness similar to severe acute respiratory syndrome coronavirus and was associated with ICU admission and high mortality. Major gaps in our knowledge of the origin, epidemiology, duration of human transmission, and clinical spectrum of disease need fulfilment by future studies.
+
+    -- exports
+      !a
+
+    / Feb, 2020 - The Lancet
+    let !a self assert = We report here a cohort of 41 patients with laboratoryconfirmed 2019-nCoV infection. Patients had serious, sometimes fatal, pneumonia and were admitted to the designated hospital in Wuhan, China, by Jan 2, 2020. Clinical presentations greatly resemble SARS-CoV. Patients with severe illness developed ARDS and required ICU admission and oxygen therapy. The time between hospital admission and ARDS was as short as 2 days. At this stage, the mortality rate is high for 2019-nCoV, because six (15%) of 41 patients in this cohort died.
+
+
+  # Origin Wuhan
+  // Identification of a novel coronavirus causing severe pneumonia in humans: a descriptive study.
+  doi: http://doi.org/10.1097/CM9.0000000000000722
+  ref 'Ren_et_al_2020
+    head = Sequence results revealed the presence of a previously unknown β-CoV strain in all five patients, with 99.8% to 99.9% nucleotide identities among the isolates. These isolates showed 79.0% nucleotide identity with the sequence of SARS-CoV (GenBank NC_004718) and 51.8% identity with the sequence of MERS-CoV (GenBank NC_019843). The virus is phylogenetically closest to a bat SARS-like CoV (SL-ZC45, GenBank MG772933) with 87.6% to 87.7% nucleotide identity, but is in a separate clade.
+
+    >>> Background
+      Human infections with zoonotic coronaviruses (CoVs), including severe acute respiratory syndrome (SARS)-CoV and Middle East respiratory syndrome (MERS)-CoV, have raised great public health concern globally. Here, we report a novel bat-origin CoV causing severe and fatal pneumonia in humans.
+
+    >>> Methods
+      We collected clinical data and bronchoalveolar lavage (BAL) specimens from five patients with severe pneumonia from Wuhan Jinyintan Hospital, Hubei province, China. Nucleic acids of the BAL were extracted and subjected to next-generation sequencing. Virus isolation was carried out, and maximum-likelihood phylogenetic trees were constructed.
+
+    >>> Results
+      Five patients hospitalized from December 18 to December 29, 2019 presented with fever, cough, and dyspnea accompanied by complications of acute respiratory distress syndrome. Chest radiography revealed diffuse opacities and consolidation. One of these patients died. Sequence results revealed the presence of a previously unknown β-CoV strain in all five patients, with 99.8% to 99.9% nucleotide identities among the isolates. These isolates showed 79.0% nucleotide identity with the sequence of SARS-CoV (GenBank NC_004718) and 51.8% identity with the sequence of MERS-CoV (GenBank NC_019843). The virus is phylogenetically closest to a bat SARS-like CoV (SL-ZC45, GenBank MG772933) with 87.6% to 87.7% nucleotide identity, but is in a separate clade. Moreover, these viruses have a single intact open reading frame gene 8, as a further indicator of bat-origin CoVs. However, the amino acid sequence of the tentative receptor-binding domain resembles that of SARS-CoV, indicating that these viruses might use the same receptor.
+
+    # / Feb, 2020 - Chin Med J
+    # let !a self assert =
+
+  # Bats, Mutation - Background.. Consipiracy claims !c
+  // Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding
+  doi: https://doi.org/10.1016/S0140-6736(20)30251-8
+  ref 'Lu_et_at_2020
+    head = Our phylogenetic analysis of 2019-nCoV, sequenced from nine patients’ samples, showed that the virus belongs to the subgenus Sarbecovirus. 2019-nCoV was more similar to two bat-derived coronavirus strains, bat-SL-CoVZC45 and bat-SL-CoVZXC21, than to known human-infecting coronaviruses, including the virus that caused the SARS outbreak of 2003.
+
+    >>> Background
+      In late December, 2019, patients presenting with viral pneumonia due to an unidentified microbial agent were reported in Wuhan, China. A novel coronavirus was subsequently identified as the causative pathogen, provisionally named 2019 novel coronavirus (2019-nCoV). As of Jan 26, 2020, more than 2000 cases of 2019-nCoV infection have been confirmed, most of which involved people living in or visiting Wuhan, and human-to-human transmission has been confirmed.
+
+    >>> Methods
+      We did next-generation sequencing of samples from bronchoalveolar lavage fluid and cultured isolates from nine inpatients, eight of whom had visited the Huanan seafood market in Wuhan. Complete and partial 2019-nCoV genome sequences were obtained from these individuals. Viral contigs were connected using Sanger sequencing to obtain the full-length genomes, with the terminal regions determined by rapid amplification of cDNA ends. Phylogenetic analysis of these 2019-nCoV genomes and those of other coronaviruses was used to determine the evolutionary history of the virus and help infer its likely origin. Homology modelling was done to explore the likely receptor-binding properties of the virus.
+
+    >>> Findings
+      The ten genome sequences of 2019-nCoV obtained from the nine patients were extremely similar, exhibiting more than 99·98% sequence identity. Notably, 2019-nCoV was closely related (with 88% identity) to two bat-derived severe acute respiratory syndrome (SARS)-like coronaviruses, bat-SL-CoVZC45 and bat-SL-CoVZXC21, collected in 2018 in Zhoushan, eastern China, but were more distant from SARS-CoV (about 79%) and MERS-CoV (about 50%). Phylogenetic analysis revealed that 2019-nCoV fell within the subgenus Sarbecovirus of the genus Betacoronavirus, with a relatively long branch length to its closest relatives bat-SL-CoVZC45 and bat-SL-CoVZXC21, and was genetically distinct from SARS-CoV. Notably, homology modelling revealed that 2019-nCoV had a similar receptor-binding domain structure to that of SARS-CoV, despite amino acid variation at some key residues.
+
+    >>> Interpretation
+      2019-nCoV is sufficiently divergent from SARS-CoV to be considered a new human-infecting betacoronavirus. Although our phylogenetic analysis suggests that bats might be the original host of this virus, an animal sold at the seafood market in Wuhan might represent an intermediate host facilitating the emergence of the virus in humans. Importantly, structural analysis suggests that 2019-nCoV might be able to bind to the angiotensin-converting enzyme 2 receptor in humans. The future evolution, adaptation, and spread of this virus warrant urgent investigation.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+
+    / Jan, 2020 - The Lancet
+    let !a self assert = As a typical RNA virus, the average evolutionary rate for coronaviruses is roughly 10–⁴ nucleotide substitutions per site per year,1 with mutations arising during every replication cycle. It is, therefore, striking that the sequences of 2019-nCoV from different patients described here were almost identical, with greater than 99·9% sequence identity. This finding suggests that 2019-nCoV originated from one source within a very short period and was detected relatively rapidly. However, as the virus transmits to more individuals, constant surveillance of mutations arising is needed.
+
+    / Jan, 2020 - The Lancet
+    let !b self assert = Phylogenetic analysis showed that bat-derived coronaviruses fell within all five subgenera of the genus Betacoronavirus. Moreover, bat-derived coronaviruses fell in basal positions in the subgenus Sarbecovirus, with 2019-nCoV most closely related to bat-SL-CoVZC45 and bat-SL-CoVZXC21, which were also sampled from bats.
+
+    / Jan, 2020 - The Lancet
+    let !c self assert = However, despite the importance of bats, several facts suggest that another animal is acting as an intermediate host between bats and humans. First, the outbreak was first reported in late December, 2019, when most bat species in Wuhan are hibernating. Second, no bats were sold or found at the Huanan seafood market, whereas various non-aquatic animals (including mammals) were available for purchase. Third, the sequence identity between 2019-nCoV and its close relatives bat-SL-CoVZC45 and bat-SL-CoVZXC21 was less than 90%, which is reflected in the relatively long branch between them. Hence, bat-SL-CoVZC45 and bat-SL-CoVZXC21 are not direct ancestors of 2019-nCoV
+
+    / Jan, 2020 - The Lancet
+    let !d self assert =  In both SARS-CoV and MERS-CoV, bats acted as the natural reservoir, with another animal (masked palm civet for SARS-CoV35 and dromedary camels for MERS-CoV) 36 acting as an intermediate host, with humans as terminal hosts. Therefore, on the basis of current data, it seems likely that the 2019-nCoV causing the Wuhan outbreak might also be initially hosted by bats, and might have been transmitted to humans via currently unknown wild animal(s) sold at the Huanan seafood market.
+
+  # Structure, Origin, Came from bats not civets  ? !b
+  // Receptor Recognition by the Novel Coronavirus from Wuhan: an Analysis Based on Decade-Long Structural Studies of SARS Coronavirus
+  doi: https://doi.org/10.1128/JVI.00127-20
+  ref 'Wan_et_al_2020
+    head = Compared to previously isolated SARS-CoV strains, 2019-nCoV likely uses human ACE2 less efficiently than human SARS-CoV (year 2002) but more efficiently than human SARS-CoV (year 2003). Because ACE2-binding affinity has been shown to be one of the most important determinants of SARS-CoV infectivity, 2019-nCoV has evolved the capability to infect humans and some capability to transmit among humans. Alarmingly, our data predict that a single N501T mutation (corresponding to the S487T mutation in SARS-CoV) may significantly enhance the binding affinity between 2019-nCoV RBD and human ACE2.
+
+    >>> Abstract
+      Recently, a novel coronavirus (2019-nCoV) has emerged from Wuhan, China, causing symptoms in humans similar to those caused by severe acute respiratory syndrome coronavirus (SARS-CoV). Since the SARS-CoV outbreak in 2002, extensive structural analyses have revealed key atomic-level interactions between the SARS-CoV spike protein receptor-binding domain (RBD) and its host receptor angiotensin-converting enzyme 2 (ACE2), which regulate both the cross-species and human-to-human transmissions of SARS-CoV. Here, we analyzed the potential receptor usage by 2019-nCoV, based on the rich knowledge about SARS-CoV and the newly released sequence of 2019-nCoV. First, the sequence of 2019-nCoV RBD, including its receptor-binding motif (RBM) that directly contacts ACE2, is similar to that of SARS-CoV, strongly suggesting that 2019-nCoV uses ACE2 as its receptor. Second, several critical residues in 2019-nCoV RBM (particularly Gln493) provide favorable interactions with human ACE2, consistent with 2019-nCoV’s capacity for human cell infection. Third, several other critical residues in 2019-nCoV RBM (particularly Asn501) are compatible with, but not ideal for, binding human ACE2, suggesting that 2019-nCoV has acquired some capacity for human-to-human transmission. Last, while phylogenetic analysis indicates a bat origin of 2019-nCoV, 2019-nCoV also potentially recognizes ACE2 from a diversity of animal species (except mice and rats), implicating these animal species as possible intermediate hosts or animal models for 2019-nCoV infections. These analyses provide insights into the receptor usage, cell entry, host cell infectivity and animal origin of 2019-nCoV and may help epidemic surveillance and preventive measures against 2019-nCoV.
+
+    -- exports
+      !a
+      !b
+
+    / Jan, 2020 - American Society for Microbiology Journals
+    let !a self assert = What is the source of 2019-nCoV, and did a key intermediate host play an important role in the current 2019-nCoV outbreak? Similarly to SARS-CoV, 2019-nCoV most likely has originated from bats, given its close phylogenetic relationship with other β-genus lineage b bat SARS-CoV. Moreover, 2019-nCoV likely recognizes ACE2 from a diversity of animal species, including palm civets, as its receptor.
+
+    / Jan, 2020 - American Society for Microbiology Journals
+    let !b self assert =  In the case of 2019-nCoV, however, there is no strong evidence for adaptive mutations in its critical RBM residues that specifically promote viral binding to civet ACE2. Hence, either palm civets were not intermediate hosts for 2019-nCoV, or they passed 2019-nCoV to humans quickly before 2019-nCoV had any chance to adapt to civet ACE2.
+
+  # Origin, Strucure
+  // The 2019‐new coronavirus epidemic: Evidence for virus evolution
+  doi: https://doi.org/10.1002/jmv.25688
+  ref 'Benvenuto_et_al_2020
+    head =  Fast unconstrained Bayesian approximation analysis shows that the nucleocapsid and the spike glycoprotein have some sites under positive pressure, whereas homology modeling revealed some molecular and structural differences between the viruses. The phylogenetic tree showed that 2019‐nCoV significantly clustered with bat SARS‐like coronavirus sequence isolated in 2015, whereas structural analysis revealed mutation in Spike Glycoprotein and nucleocapsid protein. From these results, the new 2019‐nCoV is distinct from SARS virus, probably trasmitted from bats after mutation conferring ability to infect humans.
+
+    >>> Abstract
+      There is a worldwide concern about the new coronavirus 2019‐nCoV as a global public health threat. In this article, we provide a preliminary evolutionary and molecular epidemiological analysis of this new virus. A phylogenetic tree has been built using the 15 available whole genome sequences of 2019‐nCoV, 12 whole genome sequences of 2019‐nCoV, and 12 highly similar whole genome sequences available in gene bank (five from the severe acute respiratory syndrome, two from Middle East respiratory syndrome, and five from bat SARS‐like coronavirus). Fast unconstrained Bayesian approximation analysis shows that the nucleocapsid and the spike glycoprotein have some sites under positive pressure, whereas homology modeling revealed some molecular and structural differences between the viruses. The phylogenetic tree showed that 2019‐nCoV significantly clustered with bat SARS‐like coronavirus sequence isolated in 2015, whereas structural analysis revealed mutation in Spike Glycoprotein and nucleocapsid protein. From these results, the new 2019‐nCoV is distinct from SARS virus, probably trasmitted from bats after mutation conferring ability to infect humans.
+
+    # / Jan, 2020 - Medical Virology
+    # let !a self assert =
+
+
+  # Antibody Response , !a onwards - Serology
+  // Evaluation of nine commercial SARS-CoV-2 immunoassays
+  doi: https://doi.org/10.1101/2020.04.09.20056325
+  ref 'Lassaunière_et_al_2020
+    head = Three commercial CE-marked ELISA assays for detecting SARS-CoV-2 antibodies were evaluated using 30 serum samples from PCR-positive cases with SARS-CoV-2 and 82 control serum samples. Twenty nine of the 30 cases (97%) were positive for SARS-CoV-2-specific antibodies by at least one of the three ELISA assays. In one case, only a positive IgA result was detected, while in another case antibody responses were negative by all tests.
+
+    >>> Abstract
+      Due to urgency and demand, numerous severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) immunoassays are rapidly being developed and placed on the market with limited validation on clinical samples. Thorough validation of serological tests are required to facilitate their use in the accurate diagnosis of SARS-CoV-2 infection, confirmation of molecular results, contact tracing, and epidemiological studies. This study evaluated the sensitivity and specificity of nine commercially available serological tests. These included three enzyme-linked immunosorbent assays (ELISAs) and six point-of-care (POC) lateral flow tests. The assays were validated using serum samples from: i) SARS-CoV-2 PCR-positive patients with a documented first day of disease; ii) archived sera obtained from healthy individuals before the emergence of SARS-CoV-2 in China; iii) sera from patients with acute viral respiratory tract infections caused by other coronaviruses or non-coronaviruses; and iv) sera from patients positive for dengue virus, cytomegalovirus and Epstein Barr virus. The results showed 100% specificity for the Wantai SARS-CoV-2 Total Antibody ELISA, 93% for the Euroimmun IgA ELISA, and 96% for the Euroimmun IgG ELISA with sensitivities of 90%, 90%, and 65%, respectively. The overall performance of the POC tests according to manufacturer were in the rank order of AutoBio Diagnostics > Dynamiker Biotechnology = CTK Biotech > Artron Laboratories > Acro Biotech ≥ Hangzhou Alltest Biotech. Overall, these findings will facilitate selection of serological assays for the detection SARS-CoV-2-specific antibodies towards diagnosis as well as sero-epidemiological and vaccine development studies.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / April, 2020 - medRxiv
+    let !a self assert = In the present study, three SARS-CoV-2-specific commercial ELISA assays and six POC rapid tests were evaluated using sera from hospitalized adult patients with PCR-confirmed diagnoses for SARS-CoV-2 and a collection of control serum samples taken before the emergence of the virus in China in December 2019. Overall, the Wantai Total Ab ELISA had superior sensitivity and specificity compared to both Euroimmun IgA and IgG ELISAs. The POC tests varied notably, with the best performance observed for the test produced by AutoBio Diagnostics, followed by the tests produced by Dynamiker Biotechnology and CTK Biotech.
+
+    / April, 2020 - medRxiv
+    let !b self assert = The differences between the assays may, in part, be explained by the SARS-CoV-2 antigen targeted and the ELISA format used. Both kits detect antibodies to the S1 subunit of the SARS-CoV-2 spike protein; however, the Wantai Total Ab ELISA only targets the RBD within the S1. The RBD represents approximately 33% of the S1 subunit, thus epitopes that may be recognized by cross-reacting epitopes outside of this domain are absent.
+
+    / April, 2020 - medRxiv
+    let !c self assert =  Furthermore, the RBD is highly diverse between SARS-CoV-2 and other beta-coronaviruses (hCoVOC43 and hCoV-HKU1), which may further reduce the likelihood of cross-reaction with these circulating coronaviruses. Moreover, the Wantai Total Ab ELISA uses an antigen-antibody-antigen(peroxidase) format whereas the Euroimmun ELISAs employ an antigen-antibody-antibody(peroxidase) format. The specificity of the former is determined by a single antibody, whereas the latter has a second antibody that may introduce additional specificities. The antigen-antibody-antibody format is required to distinguish between specific antibody types, but may not necessarily have lead to decreased specificity as shown for in-house ELISA
+
+    / April, 2020 - medRxiv
+    let !d self assert = The clinical sensitivity of IgM for early diagnosis of COVID-19 is currently unclear. SARS-CoV-2-specific IgM does not consistently appear before its IgG counterpart, with some studies reporting detection of SARS-CoV 2 spike protein-specific IgG before IgM.  While all the POC tests evaluated in this study are capable of detecting both SARS-CoV-2 IgM and IgG antibodies, the majority detected both antibody types simultaneously, even in the early convalescent phase, while some detected only IgG and others only IgM.
+
+    / April, 2020 - medRxiv
+    let !e self assert = Since the appearance of antibodies is time dependent, diagnosis of COVID-19 by serological methods is limited to patients with a longer duration of illness. Within seven days of symptom onset or in the acute phase of disease, nucleic acid detection of SARS-CoV-2 in respiratory samples is superior to antibody detection for the diagnosis of COVID-19. However, after eight days of illness, the sensitivity of serological assays surpasses that of nucleic acid testing. Here we reported a 100% seropositivity in patients 10 days after the onset of symptoms.
+
+  # Origin ? Epidemics - Iran
+  // An emergent clade of SARS-CoV-2 linked to returned travellers from Iran
+  doi: https://doi.org/10.1093/ve/veaa027
+  ref 'Eden_et_al_2020
+    head = Although all known cases linked to Iran are contained in this clade, it is important to note the presence of two Chinese strains sampled during mid-January 2020 from Hubei and Shandong provinces. It is expected that further Chinese strains will be identified that fall in this clade, and across the entire phylogenetic diversity of SARS-CoV-2 as this is where the outbreak started, including likely for the outbreak in Iran itself.
+
+    >>> Abstract
+      The SARS-CoV-2 epidemic has rapidly spread outside China with major outbreaks occurring in Italy, South Korea, and Iran. Phylogenetic analyses of whole-genome sequencing data identified a distinct SARS-CoV-2 clade linked to travellers returning from Iran to Australia and New Zealand. This study highlights potential viral diversity driving the epidemic in Iran, and underscores the power of rapid genome sequencing and public data sharing to improve the detection and management of emerging infectious diseases.
+
+    -- exports
+      !a
+      !b
+
+    / Jan, 2020 - Virus Evolution
+    let !a self assert = However, while we cannot completely discount that the cases in Australia and New Zealand came from other sources including China, our phylogenetic analyses, as well as epidemiological (recent travel to Iran) and clinical data (date of symptom onset), provide evidence that this clade of SARS-CoV-2 is directly linked to the Iranian epidemic, from where genomic data are currently lacking.
+
+    / Jan, 2020 - Virus Evolution
+    let !b self assert = Importantly, the seemingly multiple importations of very closely related viruses from Iran into Australia suggest that this diversity reflects the early stages of SARS-CoV-2 transmission within Iran.
+
+
+  # SymptomaticPhase, Check assertion !e . Maybe through symptomatic phase, create another path of remediation
+  // COVID-19 illness in native and immunosuppressed states: A clinical–therapeutic staging proposal
+  doi: https://doi.org/10.1016/j.healun.2020.03.012
+  ref 'Siddiqi_et_al_2020
+    head = The initial stage occurs at the time of inoculation and early establishment of disease. For most people, this involves an incubation period associated with mild and often non-specific symptoms, such as malaise, fever, and a dry cough.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+
+
+    / March, 2020 - International Society for Heart and Lung Transplantation.
+    let !a self assert = Stage 1 : Complete blood count may reveal a lymphopenia and neutrophilia without other significant abnormalities. Treatment at this stage is primarily targeted toward symptomatic relief.
+
+    / March, 2020 - International Society for Heart and Lung Transplantation.
+    let !b self assert = In the second stage of established pulmonary disease, viral multiplication and localized inflammation in the lung are the norm.  During this stage, patients develop a viral pneumonia, with cough, fever, and possibly hypoxia.
+
+    # Remediation - hypoxia
+    / March, 2020 - International Society for Heart and Lung Transplantation.
+    let !c self assert = If hypoxia ensues, it is likely that patients will progress to requiring mechanical ventilation, and in that situation, we believe that the use of anti-inflammatory therapy such as with corticosteroids may be useful and can be judiciously employed. Thus, Stage II disease should be sub-divided into Stage IIa (without hypoxia) and Stage IIb (with hypoxia).
+
+    / March, 2020 - International Society for Heart and Lung Transplantation.
+    let !d self assert = A minority of COVID-19 patients will transition into the third and most severe stage of the illness, which manifests as an extrapulmonary systemic hyperinflammation syndrome. In this stage, markers of systemic inflammation seem to be elevated. COVID-19 infection results in a decrease in helper, suppressor, and regulatory T cell counts.
+
+    / March, 2020 - International Society for Heart and Lung Transplantation.
+    let !e self assert = Studies have revealed that inflammatory cytokines and biomarkers such as IL-2, IL-6, IL-7, granulocyte colony-stimulating factor, macrophage inflammatory protein 1-α, tumor necrosis factor-α, C-reactive protein, ferritin, and D-dimer are significantly elevated in those patients with more severe disease. Troponin and N-terminal pro B-type natriuretic peptide can also be elevated.
+
+    / March, 2020 - International Society for Heart and Lung Transplantation.
+    let !f self assert = A form akin to secondary hemophagocytic lymphohistiocytosis may occur in patients in this advanced stage of the disease. In this stage, shock, vasoplegia, respiratory failure, and even cardiopulmonary collapse are discernable. Systemic organ involvement, even myocarditis, would manifest during this stage.
+
+    / March, 2020 - International Society for Heart and Lung Transplantation.
+    let !g self assert = Tailored therapy in Stage III hinges on the use of immunomodulatory agents to reduce systemic inflammation before it overwhelmingly results in multiorgan dysfunction. In this phase, use of corticosteroids may be justified in concert with the use of cytokine inhibitors such as tocilizumab (IL-6 inhibitor) or anakinra (IL-1 receptor antagonist).
+
+
+  # Superspreader
+  // Superspreading SARS Events, Beijing, 2003
+  doi: https://dx.doi.org/10.3201/eid1002.030732
+  ref 'Shen_et_al_2004
+    head = Our investigation highlights several features of SARS transmission observed in multiple outbreaks, including the central role of hospitals in disease transmission, the difficulty in distinguishing SARS from other clinical symptoms, and the danger associated with delayed case detection and isolation. Our investigation suggests that superspreading was related to both the environment (e.g., hospitals where large numbers of contacts occur) and host (patients who were older and had more severe illness).
+
+    >>> Abstract
+      Superspreading events were pivotal in the global spread of severe acute respiratory syndrome (SARS). We investigated superspreading in one transmission chain early in Beijing’s epidemic. Superspreading was defined as transmission of SARS to at least eight contacts. An index patient with onset of SARS 2 months after hospital admission was the source of four generations of transmission to 76 case-patients, including 12 healthcare workers and several hospital visitors. Four (5%) case circumstances met the superspreading definition. Superspreading appeared to be associated with older age (mean 56 vs. 44 years), case fatality (75% vs. 16%, p = 0.02, Fisher exact test), number of close contacts (36 vs. 0.37) and attack rate among close contacts (43% vs. 18.5%, p < 0.025). Delayed recognition of SARS in a hospitalized patient permitted transmission to patients, visitors, and healthcare workers. Older age and number of contacts merit investigation in future studies of superspreading.
+
+    # / Feb, 2004 - Emerg Infect Dis
+    # let !a self assert =
+
+
+  # Epidemics - South Korea # Index patient !a
+  // Transmission potential and severity of COVID-19 in South Korea
+  doi: https://doi.org/10.1016/j.ijid.2020.03.031
+  ref 'Shim_et_al_2020
+    head = We identified four major clusters and estimated the reproduction number at 1.5 (95% CI: 1.4–1.6). In addition, the intrinsic growth rate was estimated at 0.6 (95% CI: 0.6, 0.7), and the scaling of growth parameter was estimated at 0.8 (95% CI: 0.7, 0.8), indicating sub-exponential growth dynamics of COVID-19. The crude case fatality rate is higher among males (1.1%) compared to females (0.4%) and increases with older age.
+
+    >>> Objective
+      Since the first case of 2019 novel coronavirus (COVID-19) identified on Jan 20, 2020, in South Korea, the number of cases rapidly increased, resulting in 6284 cases including 42 deaths as of Mar 6, 2020. To examine the growth rate of the outbreak, we present the first study to report the reproduction number of COVID-19 in South Korea.
+
+    >>> Methods
+      The daily confirmed cases of COVID-19 in South Korea were extracted from publicly available sources. By using the empirical reporting delay distribution and simulating the generalized growth model, we estimated the effective reproduction number based on the discretized probability distribution of the generation interval.
+
+    >>> Results
+      We identified four major clusters and estimated the reproduction number at 1.5 (95% CI: 1.4–1.6). In addition, the intrinsic growth rate was estimated at 0.6 (95% CI: 0.6, 0.7), and the scaling of growth parameter was estimated at 0.8 (95% CI: 0.7, 0.8), indicating sub-exponential growth dynamics of COVID-19. The crude case fatality rate is higher among males (1.1%) compared to females (0.4%) and increases with older age.
+
+    >>> Conclusions
+      Our results indicate an early sustained transmission of COVID-19 in South Korea and support the implementation of social distancing measures to rapidly control the outbreak.
+
+    -- exports
+      !a
+
+    / March, 2020 - International society for infectious disease
+    let !a self assert = The first case in South Korea was identified on Jan 20, 2020, followed by the detection of one or two cases on average in the subsequent days. However, the number of confirmed cases of SARS-CoV-2 infection started to increase rapidly on Feb 19, 2020, with a total of 6284 confirmed COVID-19 cases including 42 deaths reported as of Mar 6, 2020
+
+  # Public Policy? Mitigation measure by banning travel, Forecast? Outbreak Detection - Social network
+  // The role of the airline transportation network in the prediction and predictability of global epidemics
+  doi: https://doi.org/10.1073/pnas.0510525103
+  ref 'Colizza_et_al_2006
+    head = From our study, it emerges that the air-transportation-network properties are responsible for the global pattern of emerging diseases.
+
+    >>> Abstract
+      The systematic study of large-scale networks has unveiled the ubiquitous presence of connectivity patterns characterized by large-scale heterogeneities and unbounded statistical fluctuations. These features affect dramatically the behavior of the diffusion processes occurring on networks, determining the ensuing statistical properties of their evolution pattern and dynamics. In this article, we present a stochastic computational framework for the forecast of global epidemics that considers the complete worldwide air travel infrastructure complemented with census population data. We address two basic issues in global epidemic modeling: (i) we study the role of the large scale properties of the airline transportation network in determining the global diffusion pattern of emerging diseases; and (ii) we evaluate the reliability of forecasts and outbreak scenarios with respect to the intrinsic stochasticity of disease transmission and traffic flows. To address these issues we define a set of quantitative measures able to characterize the level of heterogeneity and predictability of the epidemic pattern. These measures may be used for the analysis of containment policies and epidemic risk assessment.
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / Feb, 2006 - National Academy of Sciences
+    let !a self assert = The complex features characterizing this network are the origin of the heterogeneous and seemingly erratic spreading on the global scale of diseases such as severe acute respiratory syndrome. The analysis provided here show that large-scale mathematical models that take fully into account the complexity of the transportation matrix can be used to obtain detailed forecast of emergent disease outbreaks.
+
+    / Feb, 2006 - National Academy of Sciences
+    let !b self assert = We have also shown that it is possible to provide quantitative measurements of the predictability of epidemic patterns, providing a tool that might be used to obtain confidence intervals in epidemic forecast and in the risk analysis of containment scenarios. It is clear that to make the forecast more realistic, it is necessary to introduce more details in the disease dynamics. In particular, seasonal effects and geographical heterogeneity in the basic transmission rate (due to different hygienic conditions and health care systems in different countries) should be addressed.
+
+    / Feb, 2006 - National Academy of Sciences
+    let !c self assert = The interrelation of the air transportation network with other transportation systems such as railways and highways could be very useful for forecast on longer time scales. We believe, however, that the basic understanding of the interplay of the transportation network complex features with the disease spreading evolution and the detailed modeling obtained by the full consideration of these features may represent a valuable tool to test traveling restrictions and vaccination policies in the case of new pandemic events.
+
+  # Claim : Using models to come up with mitigation measures?, Assertions !a can come for school closure, !b = social distancing
+  // Social Contacts and Mixing Patterns Relevant to the Spread of Infectious Diseases
+  doi: http://doi.org/10.1371/journal.pmed.0050074
+  ref 'Mossong_et_al_2008
+    head = One of the most important findings of this study is that the age and intensity patterns of contact are remarkably similar across different European countries even though the average number of contacts recorded differed. This similarity implies that the results may well be applicable to other European countries, and that the initial phase of spread of newly emerging infections in susceptible populations, such as SARS was in 2003, is likely to be very similar across Europe and in countries with similar social structures.
+
+    >>> Background
+      Mathematical modelling of infectious diseases transmitted by the respiratory or close-contact route (e.g., pandemic influenza) is increasingly being used to determine the impact of possible interventions. Although mixing patterns are known to be crucial determinants for model outcome, researchers often rely on a priori contact assumptions with little or no empirical basis. We conducted a population-based prospective survey of mixing patterns in eight European countries using a common paper-diary methodology.
+
+    >>> Methods and Findings
+      7,290 participants recorded characteristics of 97,904 contacts with different individuals during one day, including age, sex, location, duration, frequency, and occurrence of physical contact. We found that mixing patterns and contact characteristics were remarkably similar across different European countries. Contact patterns were highly assortative with age: schoolchildren and young adults in particular tended to mix with people of the same age. Contacts lasting at least one hour or occurring on a daily basis mostly involved physical contact, while short duration and infrequent contacts tended to be nonphysical. Contacts at home, school, or leisure were more likely to be physical than contacts at the workplace or while travelling. Preliminary modelling indicates that 5- to 19-year-olds are expected to suffer the highest incidence during the initial epidemic phase of an emerging infection transmitted through social contacts measured here when the population is completely susceptible.
+
+    >>> Conclusions
+      To our knowledge, our study provides the first large-scale quantitative approach to contact patterns relevant for infections transmitted by the respiratory or close-contact route, and the results should lead to improved parameterisation of mathematical models used to design control strategies.
+
+    -- exports
+      !a
+      !b
+
+    / March, 2008 - PLoS Med
+    let !a self assert = Another major insight gained from our study comes from the observation that the contacts made by children and adolescents are more assortative than contacts made by other age groups. That is, most of the individuals contacted by children and teenagers are of very similar age, and these contacts tend to be of long duration. This pattern is likely to be the main reason why children and teenagers are and have been an important conduit for the initial spread of closecontact infections in general and for influenza in particular
+
+    / March, 2008 - PLoS Med
+    let !b self assert = One of the major assumptions behind our approach is that talking with or touching another person constitutes the main at-risk events for transmitting infectious diseases.
+
+  # Social Behavior
+  // Using social and behavioural science to support COVID-19 pandemic response
+  doi: http://doi.org/10.31234/osf.io/y38m9
+  ref 'Bavel_et_al_2020
+    head = Existing research can be leveraged to formulate effective public health messages, identify cultural and structural factors related to disease spread, sustain prosocial motivations in large societies, manage anxiety and loneliness, and motivate compassion for at-risk populations. We discuss topics that are broadly relevant to numerous stages of the current pandemic to help policy-makers, leaders, and the public better understand how to manage risk, reduce social conflict, improve communication, enhance cooperation, model effective leadership, and provide social and emotional support.
+
+    >>> Abstract
+      The COVID-19 pandemic represents a massive global health crisis. Because the crisis requires large-scale behaviour change and places significant psychological burdens on individuals, insights from the social and behavioural sciences can be used to help align human behavior with the recommendations of epidemiologists and public health experts. Here we discuss evidence from a selection of research topics relevant to pandemics, including work on navigating threats, social and cultural influences on behaviour, science communication, moral decision-making, leadership, and stress and coping. In each section, we note the nature and quality of prior research, including uncertainty and unsettled issues. We identify several insights for effective response to the COVID-19 pandemic, and also highlight important gaps researchers should move quickly to fill in the coming weeks and months.
+
+
+    # / March, 2020 - PsyArXiv
+    # let !a self assert =
+
+  # Social Network
+  // Networks and epidemic models
+  doi: https://doi.org/10.1098/rsif.2005.0051
+  ref 'Keeling_et_al_2005
+    head = Approaches described in this paper thus far have assumed that there is some structure behind social interactions; this structure, the mixing network, determines the relationships that are permitted and the individuals capable of transmitting infection to each other.
+
+    >>> Abstract
+      Networks and the epidemiology of directly transmitted infectious diseases are fundamentally linked. The foundations of epidemiology and early epidemiological models were based on population wide random-mixing, but in practice each individual has a finite set of contacts to whom they can pass infection; the ensemble of all such contacts forms a ‘mixing network’. Knowledge of the structure of the network allows models to compute the epidemic dynamics at the population scale from the individual-level behaviour of infections. Therefore, characteristics of mixing networks—and how these deviate from the random-mixing norm—have become important applied concerns that may enhance the understanding and prediction of epidemic patterns and intervention measures.
+      Here, we review the basis of epidemiological theory (based on random-mixing models) and network theory (based on work from the social sciences and graph theory). We then describe a variety of methods that allow the mixing network, or an approximation to the network, to be ascertained. It is often the case that time and resources limit our ability to accurately find all connections within a network, and hence a generic understanding of the relationship between network structure and disease dynamics is needed. Therefore, we review some of the variety of idealized network types and approximation techniques that have been utilized to elucidate this link. Finally, we look to the future to suggest how the two fields of network theory and epidemiological modelling can deliver an improved understanding of disease dynamics and better public health through effective disease control.
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / June, 2005 - Journal of Royal Society
+    let !a self assert = The restriction of interactions to those within a network, rather than an entire population, slows and reduces the spread of infection; therefore, if we are attempting to predict population-level dynamics from individual-level observations, then it is vitally important that network structure is taken into account.
+
+    / June, 2005 - Journal of Royal Society
+    let !b self assert = Many methods of control, such as contact tracing or ring vaccination, can only be accurately captured and modelled using network-based approaches. The emergence of network modelling tools allows these more sophisticated interventions to be studied and enables different strategies to be tested in an artificial environment.
+
+    / June, 2005 - Journal of Royal Society
+    let !c self assert = Recently advances in mobile phone technology and GPS location mean that it may soon be possible to accurately track the movement of people in real time. This would allow us to build full and comprehensive networks for many airborne diseases, and also to track the changing network structure in the face of a severe epidemic, such as an influenza pandemic or bioterrorist attack, when behaviour may be radically different from the norm.
+
+
+
+  # Herd Immunity
+  // Herd immunity and herd effect: new insights and definitions
+  doi: https://doi.org/10.1023/A:1007626510002
+  ref 'John_et_al_2000
+    head = Herd effect may in general be defined as the change (reduction) in the incidence of infection or disease in the un-intervened segment of a susceptible population due to the intervention in the rest of the population, compared to the incidence in the absence of intervention in the entire population. However, we have focused on the herd effect of immunisation programmes in this paper and we recommend that the term be qualified by the nature of intervention when appropriate (as due to early diagnosis and treatment, mass treatment etc). In ordinary use, when not qualified, herd effect will be taken as due to herd immunity.
+
+    >>> Abstract
+      The term herd immunity has been used by various authors to conform to different definitions. Earlier this situation had been identified but not corrected. We propose that it should have precise meaning for which purpose a new definition is offered: “the proportion of subjects with immunity in a given population”. This definition dissociates herd immunity from the indirect protection observed in the unimmunised segment of a population in which a large proportion is immunised, for which the term ‘herd effect’ is proposed. It is defined as: “the reduction of infection or disease in the unimmunised segment as a result of immunising a proportion of the population”. Herd immunity can be measured by testing a sample of the population for the presence of the chosen immune parameter. Herd effect can be measured by quantifying the decline in incidence in the unimmunised segment of a population in which an immunisation programme is instituted. Herd immunity applies to immunisation or infection, human to human transmitted or otherwise. On the other hand, herd effect applies to immunisation or other health interventions which reduce the probability of transmission, confined to infections transmitted human to human, directly or via vector. The induced herd immunity of a given vaccine exhibits geographic variation as it depends upon coverage and efficacy of the vaccine, both of which can vary geographically. Herd effect is determined by herd immunity as well as the force of transmission of the corresponding infection. Clear understanding of these phenomena and their relationships will help improve the design of effective and efficient immunisation programmes aimed at control, elimination or eradication of vaccine preventable infectious diseases.
+
+    # / July, 2000 - European Journal of Epidemiology
+    # let !a self assert =
+
+  # Herd Immunity
+  // “Herd Immunity”: A Rough Guide
+  doi: https://doi.org/xyz
+  ref 'Fine_et_al_2011
+    head = Much of the early theoretical work on herd immunity assumed that vaccines induce solid immunity against infection and that populations mix at random, consistent with the simple herd immunity threshold for random vaccination of Vc = (1−1/R0), using the symbol Vc (Critical Vaccination Level) for the critical minimum proportion to be vaccinated (assuming 100% vaccine effectiveness).
+
+    >>>
+      The term “herd immunity” is widely used but carries a variety of meanings. Some authors use it to describe the proportion immune among individuals in a population. Others use it with reference to a particular threshold proportion of immune individuals that should lead to a decline in incidence of infection. Still others use it to refer to a pattern of immunity that should protect a population from invasion of a new infection. A common implication of the term is that the risk of infection among susceptible individuals in a population is reduced by the presence and proximity of immune individuals (this is sometimes referred to as “indirect protection” or a “herd effect”). We provide brief historical, epidemiologic, theoretical, and pragmatic public health perspectives on this concept.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / April, 2011 - Clinical Infectious Diseases
+    let !a self assert = Consider a population consisting of 2 groups, high and low risk, and suppose that each high-risk case infects 5 high-risk individuals and each low-risk case infects 1 low-risk individual. Here, R0 = 5, so Vc = 80%. Because the high-risk group is responsible for any increase in incidence, outbreaks could in theory be prevented by vaccinating 80% of the high-risk group alone, thus <80% of the entire population.
+
+    / April, 2011 - Clinical Infectious Diseases
+    let !b self assert =  If vaccination protects only a proportion E among those vaccinated (E standing for effectiveness against infection transmission, in the field), then the critical vaccination coverage level should be Vc=(1− 1/R0)/E. We can see from this that if E is <(1− 1/R0) it would be impossible to eliminate an infection even by vaccinating the whole population.Similarly, waning vaccine-induced immunity demands higher levels of coverage or regular booster vaccination.
+
+    / April, 2011 - Clinical Infectious Diseases
+    let !c self assert = Although the mathematics to describe heterogeneous mixing are complex, the critical threshold remains: Vc = (1− 1/R0)/E, except that R0 is no longer a simple function of the average number of contacts of individuals. Instead, R0 is a measure of the average number of secondary cases generated by a “typical” infectious person [14]. This average depends on how the various groups interact and can be calculated from a matrix describing how infection spreads within and between groups. Interactions are often observed to be more frequent within than between groups, in which case the most highly connected groups will dominate transmission, resulting in a higher value of R0, and a larger vaccination threshold than would be obtained by assuming that all individuals display average behavior.
+
+    / April, 2011 - Clinical Infectious Diseases
+    let !d self assert = Selective vaccination of groups that are important in transmission can slow transmission in general populations or reduce incidence among population segments that may be at risk of severe consequences of infection. Schools play an important role in community transmission of influenza viruses, and thus there has been discussion of slowing transmission either by closing schools or by vaccinating schoolchildren. Selective vaccination of schoolchildren against influenza was policy in Japan during the 1990s and was shown to have reduced morbidity and mortality among the elderly
+
+    / April, 2011 - Clinical Infectious Diseases
+    let !e self assert = A nonrandom distribution of vaccine can be ineffective even in a behaviorally homogeneous population, if it results in clusters of unvaccinated individuals; such groups are vulnerable to outbreaks.Social clustering among parents who decide not to vaccinate their children can result in groups of children in which vaccination levels are well below the herd immunity threshold [27]. The same effect is found in religious communities that eschew vaccination [28, 29]; though they form only a small proportion of the population, the fact that they often mix selectively with other members of the same community means that they are at an elevated risk of infection
+
+  # Projection
+  // Report 13: Estimating the number of infections and the impact of non-pharmaceutical interventions on COVID-19 in 11 European countries.
+  doi: https://doi.org/10.25561/77731
+  ref 'Flaxman_et_al_2020
+    head = With current interventions remaining in place to at least the end of March, we estimate that interventions across all 11 countries will have averted 59,000 deaths up to 31 March [95% credible interval 21,000-120,000]. Many more deaths will be averted through ensuring that interventions remain in place until transmission drops to low levels.
+
+    >>> Abstract
+      Following the emergence of a novel coronavirus (SARS-CoV-2) and its spread outside of China, Europe is now experiencing large epidemics. In response, many European countries have implemented unprecedented non-pharmaceutical interventions including case isolation, the closure of schools and universities, banning of mass gatherings and/or public events, and most recently, widescale social distancing including local and national lockdowns. In this report, we use a semi-mechanistic Bayesian hierarchical model to attempt to infer the impact of these interventions across 11 European countries. Our methods assume that changes in the reproductive number – a measure of transmission - are an immediate response to these interventions being implemented rather than broader gradual changes in behaviour. Our model estimates these changes by calculating backwards from the deaths observed over time to estimate transmission that occurred several weeks prior, allowing for the time lag between infection and death. One of the key assumptions of the model is that each intervention has the same effect on the reproduction number across countries and over time. This allows us to leverage a greater amount of data across Europe to estimate these effects. It also means that our results are driven strongly by the data from countries with more advanced epidemics, and earlier interventions, such as Italy and Spain. We find that the slowing growth in daily reported deaths in Italy is consistent with a significant impact of interventions implemented several weeks earlier. In Italy, we estimate that the effective reproduction number, Rt, dropped to close to 1 around the time of lockdown (11th March), although with a high level of uncertainty. Overall, we estimate that countries have managed to reduce their reproduction number. Our estimates have wide credible intervals and contain 1 for countries that have implemented all interventions considered in our analysis. This means that the reproduction number may be above or below this value. With current interventions remaining in place to at least the end of March, we estimate that interventions across all 11 countries will have averted 59,000 deaths up to 31 March [95% credible interval 21,000-120,000]. Many more deaths will be averted through ensuring that interventions remain in place until transmission drops to low levels. We estimate that, across all 11 countries between 7 and 43 million individuals have been infected with SARS-CoV-2 up to 28th March, representing between 1.88% and 11.43% of the population. The proportion of the population infected to date – the attack rate - is estimated to be highest in Spain followed by Italy and lowest in Germany and Norway, reflecting the relative stages of the epidemics. Given the lag of 2-3 weeks between when transmission changes occur and when their impact can be observed in trends in mortality, for most of the countries considered here it remains too early to be certain that recent interventions have been effective. If interventions in countries at earlier stages of their epidemic, such as Germany or the UK, are more or less effective than they were in the countries with advanced epidemics, on which our estimates are largely based, or if interventions have improved or worsened over time, then our estimates of the reproduction number and deaths averted would change accordingly. It is therefore critical that the current interventions remain in place and trends in cases and deaths are closely monitored in the coming days and weeks to provide reassurance that transmission of SARS-Cov-2 is slowing.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / March, 2020 - Imperial College COVID-19 Response Team
+    let !a self assert = We estimate that, across all 11 countries between 7 and 43 million individuals have been infected with SARS-CoV-2 up to 28th March, representing between 1.88% and 11.43% of the population. The proportion of the population infected to date – the attack rate - is estimated to be highest in Spain followed by Italy and lowest in Germany and Norway, reflecting the relative stages of the epidemics.
+
+    / March, 2020 - Imperial College COVID-19 Response Team
+    let !b self assert = We estimate that there have been many more infections than are currently reported. The high level of under-ascertainment of infections that we estimate here is likely due to the focus on testing in hospital settings rather than in the community.
+
+    / March, 2020 - Imperial College COVID-19 Response Team
+    let !c self assert = Despite this, only a small minority of individuals in each country have been infected, with an attack rate on average of 4.9% [1.9%-11%] with considerable variation between countries Our estimates imply that the populations in Europe are not close to herd immunity (~50-75% if R0 is 2-4). Further, with Rt values dropping substantially, the rate of acquisition of herd immunity will slow down rapidly. This implies that the virus will be able to spread rapidly should interventions be lifted.
+
+    / March, 2020 - Imperial College COVID-19 Response Team
+    let !d self assert = We estimate that major non-pharmaceutical interventions have had a substantial impact on the timevarying reproduction numbers in countries where there has been time to observe intervention effects on trends in deaths (Italy, Spain). If adherence in those countries has changed since that initial period, then our forecast of future deaths will be affected accordingly: increasing adherence over time will have resulted in fewer deaths and decreasing adherence in more deaths. Similarly, our estimates of the impact of interventions in other countries should be viewed with caution if the same interventions have achieved different levels of adherence than was initially the case in Italy and Spain.
+
+    / March, 2020 - Imperial College COVID-19 Response Team
+    let !e self assert = The counterfactual model for Italy suggests that despite mounting pressure on health systems, interventions have averted a health care catastrophe where the number of new deaths would have been 3.7 times higher (38,000 deaths averted) than currently observed. Even in the UK, much earlier in its epidemic, the recent interventions are forecasted to avert 370 total deaths up to 31 of March.
+
+  # Projection, Mitgation related
+  // Modeling strict age-targeted mitigation strategies for COVID-19
+  doi: https://arxiv.org/pdf/2004.04144.pdf
+  ref 'Chikina_et_al_2020
+    head = We have considered a model of age-heterogeneous transmission and mitigation in a COVID-19-like epidemic, which is simple but also tied to current estimates of both disease parameters and U.S.-specific contact patterns. We find that age-targeted mitigations can have a dramatic effect both on mortality and ICU utilization.
+
+    >>> Abstract
+      We use a simple SIR-like epidemic model which integrates known age-contact patterns for the United States to model the effect of age-targeted mitigation strategies for a COVID-19-like epidemic. We find that, among strategies which end with population immunity, strict age-targeted mitigation strategies have the potential to greatly reduce mortalities and ICU utilization for natural parameter choices.
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / April, 2020 - Quantitative Biology
+    let !a self assert = We also find that to be successful, age-targeted mitigations may have to be strict. Our scenarios modeling moderate mitigations on the restricted group fare quite poorly.
+
+    / April, 2020 - Quantitative Biology
+    let !b self assert = We also find that if only moderate mitigations are possible on the population subject to mitigations, then the discrete set of age-targeted mitigations we considered fared poorly.
+
+    / April, 2020 - Quantitative Biology
+    let !c self assert = We view our modeling as demonstrating a qualitative point: strict age-targeted mitigations can have a powerful effect on mortality and ICU utilization. We expect that public policy motivated by this kind of finding would have to be responsive; for example, by relaxing restrictions on larger and large groups conservatively, while monitoring the progress of the epidemic.
+
+  # Mitigation
+  // Efficient and quick inactivation of SARS coronavirus and other microbes exposed to the surfaces of some metal catalysts.
+  doi: https://www.ncbi.nlm.nih.gov/pubmed/16131020
+  ref 'Han_et_al_2005
+    head = Exposures to the surfaces of Ag/Al2O3 and Cu/Al2O3 destroy the replication and propagation abilities of SARS-CoV, baculovirus and E. coli. Inactivation ability of metal catalysts needs to interact with air, utilizing oxygen molecules in air. Efficiently killing viruses and bacteria on the surfaces of the two metal catalysts has a promising potential for air-disinfection in hospitals, communities, and households.
+
+    >>> Abstract
+      To study the two metal catalysts Ag/Al2O3 and Cu/Al2O3 that interdict the transmission pathway for SARS and other respiratory infectious diseases. Two metal catalysts Ag/Al2O3 and Cu/Al2O3 were pressed into wafers. One hundred microL 10(6) TCID50/mL SARS-CoV, 100 microL 10(6) PFU/mL recombinant baculovirus expressing hamster's prion protein (haPrP) protein and roughly 10(6) E. coli were slowly dropped onto the surfaces of the catalyst wafers and exposed for 5 and 20 min, respectively. After eluted from the surfaces of wafers, the infectivity of viruses and propagation of bacteria were measured. The expression of PrP protein was determined by Western blot. The morphological changes of bacteria were observed by electronic microscopy. After exposure to the catalysts surfaces for 5 and 20 min, the infectivity of SARS-CoV in Vero cells and baculovirus in Sf9 cells dropped down to a very low and undetectable level, and no colony was detected using bacteria culture method. The expression of haPrP protein reduced to 21.8% in the preparation of Sf9 cells infected with recombinant baculovirus exposed for 5 min and was undetectable exposed for 20 min. Bacterial membranes seemed to be cracked and the cytoplasm seemed to be effluent from cell bodies. Exposures to the surfaces of Ag/Al2O3 and Cu/Al2O3 destroy the replication and propagation abilities of SARS-CoV, baculovirus and E. coli. Inactivation ability of metal catalysts needs to interact with air, utilizing oxygen molecules in air. Efficiently killing viruses and bacteria on the surfaces of the two metal catalysts has a promising potential for air-disinfection in hospitals, communities, and households.
+
+
+    # / July, 2005 - Biomedical and Environmental Sciences
+    # let !a self assert =
+
+  # Mitigation in Hospital - Copper
+  // Copper Surfaces Reduce the Rate of Healthcare-Acquired Infections in the Intensive Care Unit
+  doi: https://doi.org/10.1086/670207
+  ref 'Salgado_et_al_2015
+    head = Patients cared for in ICU rooms with copper alloy surfaces had a significantly lower rate of incident HAI (Healthcare-acquired infections) and/or colonization with MRSA (methicillin-resistant Staphylococcus aureus) or VRE (vancomycin-resistant Enterococcus) than did patients treated in standard rooms. Additional studies are needed to determine the clinical effect of copper alloy surfaces in additional patient populations and settings. - lowers infection rates
+
+    # / Jan, 2015 - Infection Control & Hospital Epidemiology
+    # let !a self assert =
+
+  # Mitigation in Hospital
+  // Environmental contamination makes an important contribution to hospital infection
+  doi: https://doi.org/10.1016/S0195-6701(07)60015-2
+  ref 'Boyce_et_al_2007
+    head =  A number of studies have documented that healthcare workers may contaminate their hands or gloves by touching contaminated environmental surfaces, and that hands or gloves become contaminated with numbers of organisms that are likely to result in transmission to patients. Pathogens may also be transferred directly from contaminated surfaces to susceptible patients.
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / June, 2007 - Journal of hospital infection
+    let !a self assert = There is an increasing body of evidence that cleaning or disinfection of the environment can reduce transmission of healthcare-associated pathogens.
+
+    / June, 2007 - Journal of hospital infection
+    let !b self assert =  Because routine cleaning of equipment items and other high-touch surfaces does not always remove pathogens from contaminated surfaces, improved methods of disinfecting the hospital environment are needed.
+
+    / June, 2007 - Journal of hospital infection
+    let !c self assert = Preliminary studies suggest that hydrogen peroxide vapour technology deserves further evaluation as a method for decontamination of the environment in healthcare settings.
+
+
+
+  # Community Mitigation - Copper
+  // Inactivation of Influenza A Virus on Copper versus Stainless Steel Surfaces
+  doi: https://doi.org/10.1128/AEM.01139-06
+  ref 'Noyce_et_al_2007
+    head = Influenza A virus particles (2 × 106) were inoculated onto copper or stainless steel and incubated at 22°C at 50 to 60% relative humidity. Infectivity of survivors was determined by utilizing a defined monolayer with fluorescent microscopy analysis. After incubation for 24 h on stainless steel, 500,000 virus particles were still infectious. After incubation for 6 h on copper, only 500 particles were active.
+
+    -- exports
+      !a
+
+    / April, 2007 - Appl Environ Microbiol
+    let !a self assert = Simply replacing steel fittings with copper will not prevent the transmission of influenza. However, the current study shows that copper surfaces may contribute to the number of control barriers able to reduce transmission of the virus, particularly in facilities, such as schools and health care units, where viral contamination has the ability to cause serious infection.
+
+  #  Copper  - Mitigation
+  // Potential effectiveness of copper surfaces in reducing health care-associated infection rates in a pediatric intensive and intermediate care unit: A nonrandomized controlled trial
+  doi: https://doi.org/10.1016/j.ajic.2016.03.053
+  ref 'Dessauer_et_al_2016
+    head = Exposure of pediatric patients to copper-surfaced objects in the closed environment of the intensive care unit resulted in decreased HAI(Health care-associated Infections) rates when compared with noncopper exposure; however, the RRR (Relative-Risk reduction) was not statistically significant. The clinical effect size warrants further consideration of this intervention as a component of a systems-based approach to control HAIs.
+
+    >>> BACKGROUND
+      Studies have consistently shown that copper alloyed surfaces decrease the burden of microorganisms in health care environments. This study assessed whether copper alloy surfaces decreased hospital-associated infections in pediatric intensive and intermediate care units.
+
+    >>> METHODS
+      Admitted infants were assigned sequentially to a room furnished with or without a limited number of copper alloyed surfaces. Clinical and exposure to intervention data were collected on a daily basis. To avoid counting infections present prior to admission, patients who stayed in the hospital <72 hours were excluded from analysis. Health care-associated infections (HAIs) were confirmed according to protocol definitions.
+
+    >>> RESULTS
+      Clinical outcomes from 515 patients were considered in our analysis: 261 patients from the intervention arm of the study, and 254 from the control arm. Crude analysis showed an HAI rate of 10.6 versus 13.0 per 1,000 patient days for copper- and non-copper-exposed patients, respectively, for a crude relative risk reduction (RRR) of 0.19 (90% confidence interval, 0.46 to -0.22). Conducting clinical trials to assess interventions that may impact HAI rates is very challenging. The results here contribute to our understanding and ability to estimate the effect size that copper alloy surfaces have on HAI acquisition.
+
+    >>> CONCLUSIONS
+      Exposure of pediatric patients to copper-surfaced objects in the closed environment of the intensive care unit resulted in decreased HAI rates when compared with noncopper exposure; however, the RRR was not statistically significant. The clinical effect size warrants further consideration of this intervention as a component of a systems-based approach to control HAIs.
+
+
+    # / June, 2016 - American Journal of Infection Control
+    # let !a self assert =
+
+  # Copper - Mitigation ?
+  // From Laboratory Research to a Clinical Trial: Copper Alloy Surfaces Kill Bacteria and Reduce Hospital-Acquired Infections
+  doi: https://doi.org/10.1177/1937586715592650
+  ref 'Michels_et_al_2015
+    head = Bacteria die on copper alloy surfaces in both the laboratory and the hospital rooms. Infection rates were lowered in those hospital rooms containing copper components. Thus, based on the presented information, the placement of copper alloy components, in the built environment, may have the potential to reduce not only hospital-acquired infections but also patient treatment costs.
+
+    >>> Background
+      There are indications that bacteria found on frequently touched environmental surfaces play a role in infection transmission.
+
+    >>> Methods
+      In laboratory testing, copper alloy samples were inoculated with bacteria. In clinical trials, the amount of live bacteria on the surfaces of hospital components made of copper alloys, as well as those made from standard materials, was measured. Finally, infection rates were tracked in the hospital rooms with the copper components and compared to those found in the rooms containing the standard components.
+
+    >>> Results
+      Greater than a 99.9% reduction in live bacteria was realized in laboratory tests. In the clinical trials, an 83% reduction in bacteria was seen on the copper alloy components, when compared to the surfaces made from standard materials in the control rooms. Finally, the infection rates were found to be reduced by 58% in patient rooms with components made of copper, when compared to patients' rooms with components made of standard materials.
+
+    >>> Conclusion
+      Bacteria die on copper alloy surfaces in both the laboratory and the hospital rooms. Infection rates were lowered in those hospital rooms containing copper components. Thus, based on the presented information, the placement of copper alloy components, in the built environment, may have the potential to reduce not only hospital-acquired infections but also patient treatment costs.
+
+    -- exports
+      !a
+      !b
+
+    / July, 2015 - Health Environments Research & Design Journal
+    let !a self assert = Infection rates at three hospitals, and found that when copper alloys were used in three hospitals, it reduced infection rates by 58%.
+
+    / July, 2015 - Health Environments Research & Design Journal
+    let !b self assert = The cost of treating an HAI ranges from $28,400 to $33,800 per patient. Installing copper on 10 percent of surfaces cost $52,000 and prevented 14 infections over the course of the 338-day study. If you take the lower end of the HAI treatment cost ($28,400), then those 14 prevented infections saved a total of $397,600, or $1,176 a day.
+
+
+  # Viability Copper
+  // Human Coronavirus 229E Remains Infectious on Common Touch Surface Materials
+  doi: http://doi.org/10.1128/mBio.01697-15
+  ref 'Sarah_et_al_2015
+    head = We report here that pathogenic human coronavirus 229E remained infectious in a human lung cell culture model following at least 5 days of persistence on a range of common nonbiocidal surface materials, including polytetrafluoroethylene (Teflon; PTFE), polyvinyl chloride (PVC), ceramic tiles, glass, silicone rubber, and stainless steel.
+
+    >>> Abstract
+      The evolution of new and reemerging historic virulent strains of respiratory viruses from animal reservoirs is a significant threat to human health. Inefficient human-to-human transmission of zoonotic strains may initially limit the spread of transmission, but an infection may be contracted by touching contaminated surfaces. Enveloped viruses are often susceptible to environmental stresses, but the human coronaviruses responsible for severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS) have recently caused increasing concern of contact transmission during outbreaks. We report here that pathogenic human coronavirus 229E remained infectious in a human lung cell culture model following at least 5 days of persistence on a range of common nonbiocidal surface materials, including polytetrafluoroethylene (Teflon; PTFE), polyvinyl chloride (PVC), ceramic tiles, glass, silicone rubber, and stainless steel. We have shown previously that noroviruses are destroyed on copper alloy surfaces. In this new study, human coronavirus 229E was rapidly inactivated on a range of copper alloys (within a few minutes for simulated fingertip contamination) and Cu/Zn brasses were very effective at lower copper concentration. Exposure to copper destroyed the viral genomes and irreversibly affected virus morphology, including disintegration of envelope and dispersal of surface spikes. Cu(I) and Cu(II) moieties were responsible for the inactivation, which was enhanced by reactive oxygen species generation on alloy surfaces, resulting in even faster inactivation than was seen with nonenveloped viruses on copper. Consequently, copper alloy surfaces could be employed in communal areas and at any mass gatherings to help reduce transmission of respiratory viruses from contaminated surfaces and protect the public health.
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / Oct, 2015 - American Society for Microbiology
+    let !a self assert = Noroviruses are destroyed on copper alloy surfaces. In this new study, human coronavirus 229E was rapidly inactivated on a range of copper alloys (within a few minutes for simulated fingertip contamination) and Cu/Zn brasses were very effective at lower copper concentration.
+
+    / Oct, 2015 - American Society for Microbiology
+    let !b self assert = Exposure to copper destroyed the viral genomes and irreversibly affected virus morphology, including disintegration of envelope and dispersal of surface spikes.
+
+    / Oct, 2015 - American Society for Microbiology
+    let !c self assert = Copper alloy surfaces could be employed in communal areas and at any mass gatherings to help reduce transmission of respiratory viruses from contaminated surfaces and protect the public health.
+
+
+
+  # Background
+  // When bats go viral: negative framings in virological research imperil bat conservation
+  doi: https://doi.org/10.1111/mam.12110
+  ref 'Baucells_et_al_2017
+    head = A systematic review of virological literature revealed that bats were described as a major concern for public health in half of all studies (51%), and that their key role in delivering ecosystem services was disregarded in almost all studies (96%). Although research on zoonoses is of the utmost importance, biased framings of bats can undermine decades of conservation efforts.
+
+    >>> Abstract
+      Severe acute respiratory syndrome coronavirus (SARS-CoV) and Middle East respiratory syndrome coronavirus (MERS-CoV) are two highly transmissible and pathogenic viruses that emerged in humans at the beginning of the 21st century. Both viruses likely originated in bats, and genetically diverse coronaviruses that are related to SARS-CoV and MERS-CoV were discovered in bats worldwide. In this Review, we summarize the current knowledge on the origin and evolution of these two pathogenic coronaviruses and discuss their receptor usage; we also highlight the diversity and potential of spillover of bat-borne coronaviruses, as evidenced by the recent spillover of swine acute diarrhoea syndrome coronavirus (SADS-CoV) to pigs.
+
+
+    # / Oct, 2017 - Mammal Review
+    # let !a self assert =
+
+  # Origin
+  // Probable Pangolin Origin of SARS-CoV-2 Associated with the COVID-19 Outbreak
+  doi: https://doi.org/10.1016/j.cub.2020.03.022
+  ref 'Zhang_et_al_2020h
+    head = Pangolin-CoV is 91.02% identical to SARS-CoV-2 at the whole-genome level. Five key amino acids in the RBD are consistent between Pangolin-CoV and SARS-CoV-2. Pangolin-CoV is the second closest relative of SARS-CoV-2 behind RaTG13
+
+    >>> Summary
+      An outbreak of coronavirus disease 2019 (COVID-19) caused by the 2019 novel coronavirus (SARS-CoV-2) began in the city of Wuhan in China and has widely spread worldwide. Currently, it is vital to explore potential intermediate hosts of SARS-CoV-2 to control COVID-19 spread. Therefore, we reinvestigated published data from pangolin lung samples from which SARS-CoV-like CoVs were detected by Liu et al. We found genomic and evolutionary evidence of the occurrence of a SARS-CoV-2-like CoV (named Pangolin-CoV) in dead Malayan pangolins. PangolinCoV is 91.02% and 90.55% identical to SARS-CoV-2 and BatCoV RaTG13, respectively, at the wholegenome level. Aside from RaTG13, Pangolin-CoV is the most closely related CoV to SARS-CoV-2. The S1 protein of Pangolin-CoV is much more closely related to SARS-CoV-2 than to RaTG13. Five key amino acid residues involved in the interaction with human ACE2 are completely consistent between PangolinCoV and SARS-CoV-2, but four amino acid mutations are present in RaTG13. Both Pangolin-CoV and RaTG13 lost the putative furin recognition sequence motif at S1/S2 cleavage site that can be observed in the SARS-CoV-2. Conclusively, this study suggests that pangolin species are a natural reservoir of SARS-CoV-2-like CoVs
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+
+    / March, 2020 - current biology
+    let !a self assert = Via Blast analysis against proteins from 2,845 CoV reference genomes, including RaTG13, SARS-CoV-2s, and other known CoVs, we found that 22 contigs were best matched to SARS-CoV-2s (70.6%–100% amino acid identity; average: 95.41%) and that 12 contigs matched to bat SARS-CoV-like CoV (92.7%–100% amino acid identity; average: 97.48%). These results indicate that the Malayan pangolin might carry a novel CoV (here named Pangolin-CoV) that is similar to SARS-CoV-2.
+
+    / March, 2020 - current biology
+    let !b self assert = Based on Simplot analysis, Pangolin-CoV showed high overall genome sequence identity to RaTG13 (90.55%) and SARS-CoV-2 (91.02%) throughout the genome (Figure 1B), although there was a higher identity (96.2%) between SARS-CoV-2 and RaTG13 [3]. Other SARS-CoV-like CoVs similar to Pangolin-CoV were bat SARSr-CoV ZXC21 (85.65%) and bat SARSr-CoV ZC45 (85.01%).
+
+    / March, 2020 - current biology
+    let !c self assert = Pangolin-CoV genes aligned to SARS-CoV-2 genes with coverage ranging from 45.8% to 100% (average coverage 76.9%). Pangolin-CoV genes shared high average nucleotide and amino acid identity with both SARS-CoV-2 (GenBank: MN908947) (93.2% nucleotide/94.1% amino acid identity) and RaTG13 (92.8% nucleotide/93.5% amino acid identity) genes. Surprisingly, some Pangolin-CoV genes showed higher amino acid sequence identity to SARS-CoV-2 genes than to RaTG13 genes, including orf1b (73.4%/72.8%), the spike (S) protein (97.5%/95.4%), orf7a (96.9%/93.6%), and orf10 (97.3%/94.6%). The high S protein amino acid identity implies functional similarity between Pangolin-CoV and SARS-CoV-2.
+
+    / March, 2020 - current biology
+    let !d self assert = We estimated phylogenetic trees based on the nucleotide sequences of the whole-genome sequence, RNA-dependent RNA polymerase gene (RdRp), non-structural protein genes ORF1a and ORF1b, and main structural proteins encoded by the S and M genes. In all phylogenies, Pangolin-CoV, RaTG13, and SARS-CoV-2 were clustered into a well-supported group, here named the “SARS-CoV-2 group”. This group represents a novel Betacoronavirus group. Within this group, RaTG13 and SARS-CoV-2 were grouped together, and Pangolin-CoV was their closest common ancestor.
+
+    / March, 2020 - current biology
+    let !e self assert = The amino acid phylogenetic tree showed that the S1 protein of Pangolin-CoV is more closely related to that of 2019-CoV than to that of RaTG13. Within the RBD, we further found that Pangolin-CoV and SARS-CoV-2 were highly conserved, with only one amino acid change (500H/500Q) (Figure 3), which is not one of the five key residues involved in the interaction with human ACE2 [3, 14]. These results indicate that Pangolin-CoV could have pathogenic potential similar to that of SARS-CoV-2.
+
+    / March, 2020 - current biology
+    let !f self assert = In contrast, RaTG13 has changes in 17 amino acid residues, 4 of which are among the key amino acid residues. There are evidences suggesting that the change of 472L (SARS-CoV) to 486F (SARS-CoV-2) (corresponding to the second key amino acid residue change may make stronger van der Waals contact with M82 (ACE2)
+
+    / March, 2020 - current biology
+    let !g self assert =  the major substitution of 404V in the SARS-CoV-RBD with 417K in the SARS-CoV-2-RBD (see 420 alignment position in Figure 3 and without amino acid change between the SARS-CoV-2 and RaTG13) may result in tighter association because of the salt bridge formation between 417K and 30D of ACE2. Nevertheless, further investigation is still needed about whether those mutations affect the affinity for ACE2. Whether the Pangolin-CoV or RaTG13 are potential infectious agents to humans remains to be determined.
+
+    / March, 2020 - current biology
+    let !h self assert = We found that the SARS-CoV-2 S protein contains a putative furin recognition motif (PRRARSV) similar to that of MERS-CoV, which has a PRSVRSV motif that is likely cleaved by furin during virus egress. Conversely, the furin sequence motif at the S1/S2 site is missing in the S protein of Pangolin-CoV and all other SARS/SARSr-CoVs. This difference indicates the SARS-CoV-2 might gain a distinct mechanism to promote its entry into host cells
+
+    / March, 2020 - current biology
+    let !i self assert = Phylogenetic analysis based on the N protein supported the classification of Pangolin-CoV as a sister taxon of SARS-CoV-2 and RaTG13 . We further found seven amino acid mutations that differentiated our defined “SAR-CoV-2 group” CoVs (12N, 26 G, 27S, 104D, 218A, 335T, 346N, and 350Q) from other known SARS-CoVs (12S, 26D, 27N, 104E, 218T, 335H, 346Q, and 350N). Two amino acid sites (38P and 268Q) are shared by Pangolin-CoV, RaTG13, and SARS-CoVs, which are mutated to 38S and 268A in SARS-CoV-2. Only one amino acid residue shared by Pangolin-CoV and other SARS-CoVs (129E) is consistently different in both SARS-CoV-2 and RaTG13 (129D). The observed amino acid changes in the N protein would be useful for developing antigens with improved sensitivity for SARS-CoV-2 serological detection.
+
+  # ConvalescentPlasma
+  // Treatment of 5 Critically Ill Patients With COVID-19 With Convalescent Plasma
+  doi: http://doi.org/10.1001/jama.2020.4783
+  ref 'Shen_et_al_2020
+    head = In this preliminary uncontrolled case series of 5 critically ill patients with COVID-19 and ARDS, administration of convalescent plasma containing neutralizing antibody was followed by improvement in their clinical status. The limited sample size and study design preclude a definitive statement about the potential effectiveness of this treatment, and these observations require evaluation in clinical trials.
+
+    >>> Objective
+      To determine whether convalescent plasma transfusion may be beneficial in the treatment of critically ill patients with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection.
+
+    >>> Design, Setting, and Participants
+      Case series of 5 critically ill patients with laboratory-confirmed COVID-19 and acute respiratory distress syndrome (ARDS) who met the following criteria: severe pneumonia with rapid progression and continuously high viral load despite antiviral treatment; Pao2/Fio2 <300; and mechanical ventilation. All 5 were treated with convalescent plasma transfusion. The study was conducted at the infectious disease department, Shenzhen Third People's Hospital in Shenzhen, China, from January 20, 2020, to March 25, 2020; final date of follow-up was March 25, 2020. Clinical outcomes were compared before and after convalescent plasma transfusion.
+
+    >>> Exposures
+      Patients received transfusion with convalescent plasma with a SARS-CoV-2–specific antibody (IgG) binding titer greater than 1:1000 (end point dilution titer, by enzyme-linked immunosorbent assay [ELISA]) and a neutralization titer greater than 40 (end point dilution titer) that had been obtained from 5 patients who recovered from COVID-19. Convalescent plasma was administered between 10 and 22 days after admission.
+
+    >>> Main Outcomes and Measures
+      Changes of body temperature, Sequential Organ Failure Assessment (SOFA) score (range 0-24, with higher scores indicating more severe illness), Pao2/Fio2, viral load, serum antibody titer, routine blood biochemical index, ARDS, and ventilatory and extracorporeal membrane oxygenation (ECMO) supports before and after convalescent plasma transfusion.
+
+    >>> Results
+      All 5 patients (age range, 36-65 years; 2 women) were receiving mechanical ventilation at the time of treatment and all had received antiviral agents and methylprednisolone. Following plasma transfusion, body temperature normalized within 3 days in 4 of 5 patients, the SOFA score decreased, and Pao2/Fio2 increased within 12 days (range, 172-276 before and 284-366 after). Viral loads also decreased and became negative within 12 days after the transfusion, and SARS-CoV-2–specific ELISA and neutralizing antibody titers increased following the transfusion (range, 40-60 before and 80-320 on day 7). ARDS resolved in 4 patients at 12 days after transfusion, and 3 patients were weaned from mechanical ventilation within 2 weeks of treatment. Of the 5 patients, 3 have been discharged from the hospital (length of stay: 53, 51, and 55 days), and 2 are in stable condition at 37 days after transfusion.
+
+    >>> Conclusions and Relevance
+      In this preliminary uncontrolled case series of 5 critically ill patients with COVID-19 and ARDS, administration of convalescent plasma containing neutralizing antibody was followed by improvement in their clinical status. The limited sample size and study design preclude a definitive statement about the potential effectiveness of this treatment, and these observations require evaluation in clinical trials.
+
+    -- exports
+      !a
+
+    / March, 2020 - Jama Network
+    let !a self assert = The clinical conditions of these patients improved, as indicated body temperature normalized within 3 days in 4 of 5 patients, the SOFA score decreased, and Pao2/Fio2 increased within 12 days (range, 172-276 before and 284-366 after), Four patients who had been receiving mechanical ventilation and ECMO no longer required respiratory support by 9 days after plasma transfusion.
+
+    / March, 2020 - Jama Network
+    let !b self assert = As assessed by Ct, Viral loads also decreased and became negative within 12 days after the transfusion.
+
+    / March, 2020 - Jama Network
+    let !c self assert = After the treatment, the values of the inflammatory biomarkers CRP, procalcitonin, and IL-6 of patients 1, 2, 4, and 5 decreased; the values of CRP and procalcitonin of patient 3 decreased
+
+    / March, 2020 - Jama Network
+    let !d self assert = After the transfusion of convalescent plasma, the titers of IgG and IgM in the sera of these patients increased in a time-dependent manner. The IgG titers of the treated patients increased to 145 800, 5400, 5400, 145 800 and 145 800, and the IgM titers increased to 145 800, 5400, 5400, 437 400 and 145 800, respectively, at 3 days after transfusion. These IgG and IgM titers maintained a high level at 7 days after transfusion (Figure 2A and 2B; eTable in the Supplement). The neutralizing antibody titers of the 5 recipients ranged between 40 and 160 before transfusion; one day after transfusion, the titers increased to 320, 80, 80, 160, and 240; on day 7, they were 320, 160, 160, 240, and 480, respectively
+
+    / March, 2020 - Jama Network
+    let !e self assert = ARDS resolved in 4 patients at 12 days after transfusion, and 3 patients were weaned from mechanical ventilation within 2 weeks of treatment. Of the 5 patients, 3 have been discharged from the hospital (length of stay: 53, 51, and 55 days), and 2 are in stable condition at 37 days after transfusion.
+
+    / March, 2020 - Jama Network
+    let !f self assert = In the current study, all patients received antiviral agents, including interferon and lopinavir/ritonavir, during and following convalescent plasma treatment, which also may have contributed to the viral clearance observed.
+
+  # ConvalescentPlasma
+  // Effectiveness of convalescent plasma therapy in severe COVID-19 patients
+  doi: https://doi.org/10.1073/pnas.2004168117
+  ref 'Duan_et_al_2020
+    head = The viral load was undetectable after transfusion in seven patients who had previous viremia. No severe adverse effects were observed. This study showed CP (Convalescent Plasma) therapy was well tolerated and could potentially improve the clinical outcomes through neutralizing viremia in severe COVID-19 cases.
+
+    >>> Abstract
+      Currently, there are no approved specific antiviral agents for novel coronavirus disease 2019 (COVID-19). In this study, 10 severe patients confirmed by real-time viral RNA test were enrolled prospectively. One dose of 200 mL of convalescent plasma (CP) derived from recently recovered donors with the neutralizing antibody titers above 1:640 was transfused to the patients as an addition to maximal supportive care and antiviral agents. The primary endpoint was the safety of CP transfusion. The second endpoints were the improvement of clinical symptoms and laboratory parameters within 3 d after CP transfusion. The median time from onset of illness to CP transfusion was 16.5 d. After CP transfusion, the level of neutralizing antibody increased rapidly up to 1:640 in five cases, while that of the other four cases maintained at a high level (1:640). The clinical symptoms were significantly improved along with increase of oxyhemoglobin saturation within 3 d. Several parameters tended to improve as compared to pretransfusion, including increased lymphocyte counts (0.65 × 109/L vs. 0.76 × 109/L) and decreased C-reactive protein (55.98 mg/L vs. 18.13 mg/L). Radiological examinations showed varying degrees of absorption of lung lesions within 7 d. The viral load was undetectable after transfusion in seven patients who had previous viremia. No severe adverse effects were observed. This study showed CP therapy was well tolerated and could potentially improve the clinical outcomes through neutralizing viremia in severe COVID-19 cases. The optimal dose and time point, as well as the clinical benefit of CP therapy, needs further investigation in larger well-controlled trials.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / April, 2020 - PNAS
+    let !a self assert = The first key factor associated with CP therapy is the neutralizing antibody titer. A small sample study in MERS-CoV infection showed that the neutralizing antibody titer should exceed 1:80 to achieve effective CP therapy.Among the nine cases investigated, the neutralizing antibody titers of five patients increased to 1:640 within 2 d, while four patients kept the same level. The antibody titers in CP in COVID-19 seem thus higher than those used in the treatment of MERS patient (1:80)
+
+    / April, 2020 - PNAS
+    let !b self assert = The clinical symptoms were significantly improved along with increase of oxyhemoglobin saturation within 3 d. Several parameters tended to improve as compared to pretransfusion, including increased lymphocyte counts (0.65 × 109/L vs. 0.76 × 109/L) and decreased C-reactive protein (55.98 mg/L vs. 18.13 mg/L). Radiological examinations showed varying degrees of absorption of lung lesions within 7 d.
+
+    / April, 2020 - PNAS
+    let !c self assert = The viral load was undetectable after transfusion in seven patients who had previous viremia. No severe adverse effects were observed.One of the risks during CP therapy is antibody-dependent infection enhancement, occurring at subneutralizing concentrations, which could suppress innate antiviral systems and thus could allow logarithmic intracellular growth of the virus.No such pulmonary injury and infection enhancement were observed in our patients, probably owing to high levels of neutralizing antibodies, timely transfusion, and appropriate plasma volume.
+
+    / April, 2020 - PNAS
+    let !d self assert = In the present study, all investigated patients achieved serum SARS-CoV-2 RNA negativity after CP transfusion, accompanied by an increase of oxygen saturation and lymphocyte counts, and the improvement of liver function and CRP. The results suggest that the inflammation and overreaction of the immune system were alleviated by antibodies contained in CP.
+
+    / April, 2020 - PNAS
+    let !e self assert = The case fatality rates (CFRs) in the present study were 0% (0/10), which was comparable to the CFRs in SARS, which varied from 0% (0/10) to 12.5% (10/80) in four noncomparative studies using CP treatment (9, 20⇓–22).
+
+    / April, 2020 - PNAS
+    let !f self assert = Notably, patients who received CP transfusion after 14 dpoi showed much less significant improvement, such as patient 10. However, the dynamics of the viremia of SARS-CoV-2 was unclear, so the optimal transfusion time point needs to be determined in the future.
+
+  # Statins
+  // Statins as a novel therapeutic strategy in acute lung injury
+  doi: http://doi.org/10.4103/2045-8932.105028
+  ref 'Singla_et_al_2012
+    head = Results from preclinical studies and observations in relevant patient populations support the protective potential of statins in ALI (Acute Lung Injury), paving the way now for definitive clinical trials.
+
+    >>> Abstract
+      Acute lung injury (ALI) is a devastating clinical condition associated with pulmonary and systemic inflammation and characterized by incompetence of the pulmonary microvascular barrier culminating in noncardiogenic pulmonary edema. An understanding of the mechanisms underlying endothelial barrier dysfunction in ALI has been facilitated by study of the effects of statins in relevant cellular and animals models. Many of the pleotropic properties of these drugs, including direct effects on endothelial cell (EC) cytoskeletal rearrangement, NADPH oxidase, and nitric oxide activity, as well as effects on differential EC gene expression, are relevant to the pathobiology of ALI and suggest a potential therapeutic role for statins in this context. Moreover, results from preclinical studies and observations in relevant patient populations support the protective potential of statins in ALI, paving the way now for definitive clinical trials.
+
+
+    # / October, 2012 - Pulmonary Circulation
+    # let !a self assert =
 
   # Statins
   // Potential therapeutic role for statins in respiratory disease
