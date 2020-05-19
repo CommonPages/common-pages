@@ -3174,7 +3174,7 @@ feed Research
     let !a self assert = None of the patients reported acute, chronic or seasonal upper airway disease before infection, in one case a four-day fever was present after the onset of hyposmia; two patients reported myalgia the day before the onset of hyposmia and a mild dry cough after the hyposmia
 
 
-  # Tag - Covalent Plasma Limitations
+  # Tag - Convalent Plasma Limitations
   // Practical limitations of convalescent plasma collection: a case scenario in pandemic preparation for influenza A (H1N1) infection.
   doi: https://doi.org/10.1111/j.1537-2995.2010.02651.x
   ref 'Wong_et_al_2010
