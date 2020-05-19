@@ -84,7 +84,7 @@ subject module VirusFeatures
       'Woelfel_et_al_2020
       'He_et_al_2020
       'Wölfel_et_al_2020.!h
-    # Mention Assertions that viral load is not the main predictor of disease outcocmes   
+    # Mention Assertions that viral load is not the main predictor of disease outcocmes
     -- Viral load
       'Liu_et_al_2020c
       'Joynt_et_al_2020
@@ -310,7 +310,7 @@ subject module DiseaseFeatures
   subject module Immunity
     subject Antibodies
       -- MERS
-        'Alshukairi_AN_et_al_2016
+        'Alshukairi_et_al_2016
       --
         'Callow_et_al_1990
       -- SARS
@@ -378,7 +378,7 @@ subject module Mitigation
       -- Face Mask
         'Yan_et_al_2019
         'Tracht_et_al_2010
-        'bin_Reza_et_al_2011
+        'Reza_et_al_2011
         'Leung_et_al_2020
 
   # / Network Prevention / Containment

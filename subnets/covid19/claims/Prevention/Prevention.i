@@ -46,11 +46,11 @@ subject module Prevention
       'Tracht_et_al_2010
       'Tracht_et_al_2010.!a
       'Tracht_et_al_2010.!b
-      'bin_Reza_et_al_2011
-      'bin_Reza_et_al_2011.!a
-      'bin_Reza_et_al_2011.!b
-      'bin_Reza_et_al_2011.!c
-      'bin_Reza_et_al_2011.!d
+      'Reza_et_al_2011
+      'Reza_et_al_2011.!a
+      'Reza_et_al_2011.!b
+      'Reza_et_al_2011.!c
+      'Reza_et_al_2011.!d
       'Zhang_et_al_2020b
       'Zhang_et_al_2020b.!a
 
