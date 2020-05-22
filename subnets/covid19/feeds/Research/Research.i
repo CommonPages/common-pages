@@ -96,7 +96,7 @@ feed Research
       'Flaxman_et_al_2020
       'Zhang_et_al_2020h
       'Shen_et_al_2020
-      'Das_et_al_March_2020
+      'Das_et_al_2020
       'J_et_al_2020
       'Han_et_al_2020
       'Chen_et_al_2020d
@@ -172,7 +172,7 @@ feed Research
       'Huang_et_al_2020
       'Ren_et_al_2020
       'Liu_et_al_2020e
-      'ling_et_al_2020
+      'Ling_et_al_2020
       'Brook_et_al_2020
       'Hoehl_et_al_2020
       'Linton_et_al_2020
@@ -746,7 +746,7 @@ feed Research
     let !c self assert = We identify HLA -B*46:01 as the HLA allele with the fewest predicted binding peptides for SARS-CoV-2. We performed the same analyses for the closely related SARS-CoV proteome and similarly note that HLA-B*46:01 was predicted to present the fewest SARS-CoV peptides, keeping with previous clinical data associating this allele with severe disease.
 
     / April, 2020 - Journal of Virology
-    let !d self assert = Acknowledging the challenges inferring cross-protective immunity among closely related peptides, we confined attention exclusively to identical peptide matches. . In total, 564 such 8 to 12 peptides were found to share 100% identity with corresponding 115 OC43, HKU1, NL63, and 229E sequences (467, 460, 179, and 157 peptides, respectively)
+    let !d self assert = Acknowledging the challenges inferring cross-protective immunity among closely related peptides, we confined attention exclusively to identical peptide matches. In total, 564 such 8 to 12 peptides were found to share 100% identity with corresponding 115 OC43, HKU1, NL63, and 229E sequences (467, 460, 179, and 157 peptides, respectively)
 
     / April, 2020 - Journal of Virology
     let !e self assert = We found that 122 alleles HLA-A*02:02, HLA-B*15:03, and HLA-C*12:03 were the top presenters of conserved 123 peptides. Conversely, we note that 56 different HLA alleles demonstrated no appreciable 124 binding affinity (<500nM) to any of the conserved SARS-CoV-2 peptides, suggesting a 125 concomitant lack of potential for cross-protective immunity from other human coronaviruses. We note, in particular, HLA-B*46:01 is among these alleles.
@@ -1089,7 +1089,7 @@ feed Research
     let !c self assert = Successful live virus isolation from throat swabs is another striking difference from SARS, for which such isolation was rarely successful. Altogether, this suggests active virus replication in upper respiratory tract tissues, where only minimal ACE-2 expression is found and SARS-CoV is therefore not thought to replicate.
 
     / March, 2020 - Medrxiv
-    let !d self assert = Whereas proof of replication by histopathology is awaited, extended tissue tropism of SARSCoV-2 with replication in the throat is strongly supported by our studies of sgRNAtranscribing cells in throat swab samples, particularly during the first 5 days of symptoms. Striking additional evidence for independent replication in the throat is provided by sequence findings in one patient who consistently showed a distinct virus in her throat as opposed to the lung.
+    let !d self assert = Whereas proof of replication by histopathology is awaited, extended tissue tropism of SARSCoV-2 with replication in the throat is strongly supported by our studies of sgRNA transcribing cells in throat swab samples, particularly during the first 5 days of symptoms. Striking additional evidence for independent replication in the throat is provided by sequence findings in one patient who consistently showed a distinct virus in her throat as opposed to the lung.
 
     / March, 2020 - Medrxiv
     let !e self assert = The majority of patients in the present study seemed to be already beyond their shedding peak in upper respiratory tract samples when first tested, while shedding of infectious virus in sputum continued through the first week of symptoms. Together, these findings suggest a more efficient transmission of SARS-CoV-2 than SARS-CoV through active pharyngeal viral shedding at a time when symptoms are still mild and typical of upper respiratory tract infection.
@@ -1101,7 +1101,7 @@ feed Research
     let !g self assert = One of the most interesting hypotheses to explain a potential extension of tropism to the throat is the presence of a polybasic furin-type cleavage site at the S1-S2 junction in the SARS-CoV-2 spike protein that is not present in SARS-CoV.
 
     / March, 2020 - Medrxiv
-    let !h self assert = The combination of very high virus RNA concentrations and occasional detection of sgRNAcontaining cells in stool indicate active replication in the gastrointestinal tract. Active replication is also suggested by a much higher detection rate as compared to MERScoronavirus, for which we found stool-associated RNA in only 14.6% samples in 37 patients hospitalized in Riyadh, Saudi Arabia.
+    let !h self assert = The combination of very high virus RNA concentrations and occasional detection of sgRNA containing cells in stool indicate active replication in the gastrointestinal tract. Active replication is also suggested by a much higher detection rate as compared to MERScoronavirus, for which we found stool-associated RNA in only 14.6% samples in 37 patients hospitalized in Riyadh, Saudi Arabia.
 
     / March, 2020 - Medrxiv
     let !i self assert = Our failure to isolate live SARS-CoV-2 from stool may be due to the mild courses of cases, with only one case showing intermittent diarrhea. In China, diarrhea has been seen in only 2 of 99 cases. Further studies should therefore address whether SARS-CoV-2 shed in stool is rendered non-infectious though contact with the gut environment.
@@ -1346,7 +1346,7 @@ feed Research
   // Expulsion of group a hemolytic streptococci in droplets and droplet nuclei by sneezing, coughing and talking
   doi: https://doi.org/10.1016/s0002-9343(48)90392-1
   ref 'Hamburger_et_al_1948
-    head = Although sneezing probably accounts for a certain number of sporadic cases of hemolytic streptococcal infection, it is not, in our opinion, important in epidemics because (1) it is not a common symptom and (2) very few sneezes discharge significant numbers of beta hemolytic streptococci into the air as droplet nuclei. The rare carriers whose sneezes heavily contaminate the air may be very dangerous if they do not baffle the sneezes efficiently. Since the material atomized in a sneeze is saliva, these individuals represent a type of dangerous carrier whose nose culture may be negative.  whose nose culture may be negative. Coughing, likewise, is important only in sporadic infections for similar reasons. This symptom is more common than sneezing. Talking expels negligible numbers of hemolytic streptococci.
+    head = Although sneezing probably accounts for a certain number of sporadic cases of hemolytic streptococcal infection, it is not, in our opinion, important in epidemics because it is not a common symptom and very few sneezes discharge significant numbers of beta hemolytic streptococci into the air as droplet nuclei. The rare carriers whose sneezes heavily contaminate the air may be very dangerous if they do not baffle the sneezes efficiently. Since the material atomized in a sneeze is saliva, these individuals represent a type of dangerous carrier whose nose culture may be negative.  whose nose culture may be negative. Coughing, likewise, is important only in sporadic infections for similar reasons. This symptom is more common than sneezing. Talking expels negligible numbers of hemolytic streptococci.
 
     -- exports
       !a
@@ -1414,7 +1414,7 @@ feed Research
     let !o self assert = One carrier, No. 21, expelled very large numbers, averaging 4 per cubic foot per cough, or 45 per cubic foot during the volley of twelve coughs. Quite large numbers were recovered by both bubblers and plates 5 1/2 and 9 1/2 feet from the cougher. Interestingly enough the air contained no alpha streptococci, indicating that the fluid coughed was not saliva but rather material the other hand, his saliva contained only 38,000 per cc. Further evidence that the saliva is not ordinarily the fluid which comprises cough droplets was the absence of alpha streptococci in the air in nearlyall the other cough tests.
 
     / May, 1948 - The American Journal of Medicine
-    let !p self assert = Previous studies have shown that carriers exhibiting positive nose cultures for hemolytic streptococci were more likely to transmit infection than those with positive throat but negative nose cultures. Throat carriers whose nose cultures were negative were also occasionally found to be responsible for secondary cases of streptococcal infection. Carrier No. 20 of this present series, who sneezed very large numbers of hemolytic streptococci, exhibited negative nose cultures at the time of the test although the nose cultures had been positive a few days before. As mentioned in the text his saliva contained an unusually highconcentration of hemolytic streptococci.Such individuals, as well as some of thosedescribed in the earlier investigation ofcoughing and sneezing,’ represent throat carriers who are not innoccuous.
+    let !p self assert = Previous studies have shown that carriers exhibiting positive nose cultures for hemolytic streptococci were more likely to transmit infection than those with positive throat but negative nose cultures. Throat carriers whose nose cultures were negative were also occasionally found to be responsible for secondary cases of streptococcal infection. Carrier No. 20 of this present series, who sneezed very large numbers of hemolytic streptococci, exhibited negative nose cultures at the time of the test although the nose cultures had been positive a few days before. As mentioned in the text his saliva contained an unusually highconcentration of hemolytic streptococci.Such individuals, as well as some of thosedescribed in the earlier investigation of coughing and sneezing,’represent throat carriers who are not innoccuous.
 
    / May, 1948 - The American Journal of Medicine
    let !q self assert = Talking- Almost no beta (or alpha) streptococci were expelled during talking. ‘No bubbler sample collected as many as one streptococcus per cubic foot, and twenty-nine of the thirty samplers in tests of ten carriers captured none at all. The settling plates likewise were practically free of streptococci, only three of thirty plates exhibiting one colony each.
@@ -1485,7 +1485,7 @@ feed Research
       !f
 
     / January, 2008 - BMJ
-    let !a self assert = The most impressive effects came from high quality cluster randomised trials in preventing the spread of respiratory virus into the community using hygienic measures aimed at younger children. One study reported a significant decrease in respiratory illness in children up to age 24 months (relative risk 0.90, 95% confidence interval 0.83 to 0.97), although the decrease was not significant in older children (0.95, 0.89 to 1.01).w11 Another study reported a 50% (95% confidence interval 65% to 34%) lower incidence of pneumonia in children aged less than 5 years in a developing country.w1 Additional benefit from reduced transmission to other household members is broadly supported by the results of other study designs although the potential for confounding is greater.
+    let !a self assert = The most impressive effects came from high quality cluster randomised trials in preventing the spread of respiratory virus into the community using hygienic measures aimed at younger children. One study reported a significant decrease in respiratory illness in children up to age 24 months (relative risk 0.90, 95% confidence interval 0.83 to 0.97), although the decrease was not significant in older children (0.95, 0.89 to 1.01).w11 Another study reported a 50% (95% confidence interval 65% to 34%) lower incidence of pneumonia in children aged less than 5 years in a developing country. Additional benefit from reduced transmission to other household members is broadly supported by the results of other study designs although the potential for confounding is greater.
 
     / January, 2008 - BMJ
     let !b self assert = Meta-analysis of six case-control studies assessed the impact of public health measures to curb the spread of the SARS epidemic in China, Singapore, and Vietnam in 2003. The data suggest that implementing barriers to transmission, isolation, and hygienic measures are effective and relatively cheap interventions to contain epidemics of respiratory viruses, such as SARS, with estimates of effect ranging from 55% to 91%: washing hands more than 10 times daily (odds ratio 0.45, 95% confidence interval 0.36 to 0.57, NNT=4, 95% confidence interval 3.65 to 5.52); wearing masks (0.32, 0.25 to 0.40, NNT=6, 4.54 to 8.03); wearing N95 masks (0.09, 0.03 to 0.30, NNT=3, 2.37 to 4.06); wearing gloves (0.43, 0.29 to 0.65, NNT=5, 4.15 to 15.41); wearing gowns (0.23, 0.14 to 0.37, NNT=5, 3.37 to 7.12); and handwashing, masks, gloves, and gowns combined (0.09, 0.02 to 0.35, NNT=3, 2.66 to 4.97).
@@ -1616,7 +1616,7 @@ feed Research
     let !m self assert = The A2a3a and A2a2a haplotypes were the two most common haplotypes in Iceland; of the 577 persons who provided samples that were sequenced, the A2a3a haplotype was found in 78 (13.5%) and the A2a2a haplotype was found in 45 (7.8%).
 
     / April, 2020 - The New England Journal of Medicine
-    let !n self assert = Haplotype analysis that was based on SARS-CoV-2 sequences overlaid on contact-tracing networks16 showed concordance between the contacts identified by the tracking team and those based on viral sequences. Of the 369 pairs of persons found through contact tracing, 295 were consistent with the sequence data (i.e., their haplotypes differed by strictly less than 3 mutations).
+    let !n self assert = Haplotype analysis that was based on SARS-CoV-2 sequences overlaid on contact-tracing networks showed concordance between the contacts identified by the tracking team and those based on viral sequences. Of the 369 pairs of persons found through contact tracing, 295 were consistent with the sequence data (i.e., their haplotypes differed by strictly less than 3 mutations).
 
     / April, 2020 - The New England Journal of Medicine
     let !o self assert = Haplotype analysis of the contact tracing network shows one of the most complex contact-tracing networks, in which clusters of persons returning from Italy or Austria transmitted the virus to persons in Iceland. The figure shows a network of 14 persons who were infected in Iceland. Haplotype analysis showed that these persons were infected by viruses with the A2a1 haplotype, more commonly imported from northern Italy than from Austria. This cluster also contained persons with a mutation that was specific to Iceland. The cluster can be traced to a person who had both mutated and wild-type haplotypes; those whom this person infected had only the mutated haplotype. We searched for persons carrying these mutations who were not associated with this cluster and found two who had probably been infected by someone in the cluster through an unknown contact.
@@ -1679,7 +1679,7 @@ feed Research
     let !g self assert = The local R based on observed contact frequencies of primary cases was estimated to be 0.48 (0.39, 0.58), which is insensitive to the setting for the incubation and infectious periods. In other words, a typical case infected 0.48 individuals on average in Guangzhou, implying an inefficient transmission of the disease under the control measures. The projected local R, had there been no quarantine of cases, was estimated as 0.62 (0.51-0.75). High estimates of projected local R were associated with short incubation and longer infectious periods
 
     / April, 2020 - MedRxiv
-    let !h self assert = The daily transmission probability during the incubation period tends to be similar to that during the illness period (Table 3), with an estimated odds ratio (OR) of 1.13 (0.59-2.18); however, the difference is much wider when longer incubation periods were assumed.
+    let !h self assert = The daily transmission probability during the incubation period tends to be similar to that during the illness period, with an estimated odds ratio (OR) of 1.13 (0.59-2.18); however, the difference is much wider when longer incubation periods were assumed.
 
     / April, 2020 - MedRxiv
     let !i self assert = Individuals ≥60 years old were the most susceptible group to COVID-19. In comparison to the elderly group (≥60 years old), the odds of infection is 0.27 (0.13-0.55) in the youngest group (<20 years old) and 0.8 (95% CI: 0.54-1.20) in the younger adult group (20-59 years old). These age effects on susceptibility are insensitive to the assumptions about the natural history of disease. Cases <60 years old were slightly less infectious than those ≥60 years old, with ORs varying in the range of 0.73- 0.79 but not significantly different.
@@ -1710,35 +1710,27 @@ feed Research
       !e
       !f
       !g
-      !h
-      !i
 
     / April, 2020 - MedRxiv
-    let !a self assert = On the first survey, which was conducted around the time the town lockdown started, we found a prevalence of infection of 2.6% (95% confidence interval (CI) 2.1-3.3%).
+    let !a self assert = On the first survey, which was conducted around the time the town lockdown started, we found a prevalence of infection of 2.6% (95% confidence interval (CI) 2.1-3.3%). On the second survey, which was conducted at the end of the lockdown, we found a prevalence of 1.2% (95% CI 0.8-1.8%).
 
     / April, 2020 - MedRxiv
-    let !b self assert = On the second survey, which was conducted at the end of the lockdown, we found a prevalence of 1.2% (95% CI 0.8-1.8%).
+    let !b self assert = Notably, 43.2% (95% CI 32.2-54.7%) of the confirmed SARS-CoV-2 infections detected across the two surveys were asymptomatic.
 
     / April, 2020 - MedRxiv
-    let !c self assert = Notably, 43.2% (95% CI 32.2-54.7%) of the confirmed SARS-CoV-2 infections detected across the two surveys were asymptomatic.
+    let !c self assert = Among confirmed SARS-CoV-2 infections, we did not observe significant differences in the frequency of asymptomatic infection in the different age groups.
 
     / April, 2020 - MedRxiv
-    let !d self assert = Among confirmed SARS-CoV-2 infections, we did not observe significant differences in the frequency of asymptomatic infection in the different age groups.
+    let !d self assert = We found that none of the children who took part in the study tested positive for SARS-CoV-2 infection at either survey had a positive swab, despite at least 13 of them living together with infected family members. This is particularly intriguing in the light of the very high observed odd ratio for adults to become infected when living together with SARS-CoV-2 positive family members. However, this result does not mean that children cannot be infected by SARS-CoV-2.
 
     / April, 2020 - MedRxiv
-    let !e self assert = We found that none of the children who took part in the study tested positive for SARS-CoV-2 infection at either survey had a positive swab, despite at least 13 of them living together with infected family members. This is particularly intriguing in the light of the very high observed odd ratio for adults to become infected when living together with SARS-CoV-2 positive family members. However, this result does not mean that children cannot be infected by SARS-CoV-2.
+    let !e self assert = The analysis of the contacts of the 8 new infections identified in the second survey, where we found that one had a history of close contact with asymptomatic individuals and two lived in the same household with asymptomatic relatives, suggests that asymptomatic infections can transmit the virus. The observation that the viral load (as measured by genome equivalents inferred from cycle threshold data) in asymptomatic infections does not significantly differ from that of symptomatic infections (p values 0.6 and 0.2 for E and RdRp genes, respectively, Exact Wilcoxon-Mann-Whitney test) further corroborates this hypothesis and the high frequency of asymptomatic infection detected across the surveys poses clear challenges for the control of COVID-19 in the absence of strict social distancing measures.
 
     / April, 2020 - MedRxiv
-    let !f self assert = The analysis of the contacts of the 8 new infections identified in the second survey, where we found that one had a history of close contact with asymptomatic individuals and two lived in the same household with asymptomatic relatives, suggests that asymptomatic infections can transmit the virus. The observation that the viral load (as measured by genome equivalents inferred from cycle threshold data) in asymptomatic infections does not significantly differ from that of symptomatic infections (p values 0.6 and 0.2 for E and RdRp genes, respectively, Exact Wilcoxon-Mann-Whitney test) further corroborates this hypothesis and the high frequency of asymptomatic infection detected across the surveys poses clear challenges for thecontrol of COVID-19 in the absence of strict social distancing measures.
+    let !f self assert = Analysis of the transmission chains showed that clusters of infection occurred in the early phases of the epidemic and produced initial estimates of the effective reproduction number of mean 3.0 (95% CI 2.5-3.5). Contact tracing of the newly infected cases and transmission chain reconstruction also revealed that most new infections in the second survey were infected in the community before the lockdown or from asymptomatic infections living in the same household.
 
     / April, 2020 - MedRxiv
-    let !g self assert = Analysis of the transmission chains showed that clusters of infection occurred in the early phases of the epidemic and produced initial estimates of the effective reproduction number of mean 3.0 (95% CI 2.5-3.5). Contact tracing of the newly infected cases and transmission chain reconstruction also revealed that most new infections in the second survey were infected in the community before the lockdown or from asymptomatic infections living in the same household.
-
-    / April, 2020 - MedRxiv
-    let !h self assert = Our results suggest that average durations of virus detectability in swabs between 4 and 8 days match more closely the observed prevalence of infection than longer durations). This estimate is consistent with the observed distribution of the time from symptoms onset to confirmation which has mean 5.7 days (95% CI 1.6 – 12.3).
-
-    / April, 2020 - MedRxiv
-    let !i self assert = The mean serial interval was 6.9 days (95% CI 2.6-13.4).
+    let !g self assert = Our results suggest that average durations of virus detectability in swabs between 4 and 8 days match more closely the observed prevalence of infection than longer durations). This estimate is consistent with the observed distribution of the time from symptoms onset to confirmation which has mean 5.7 days (95% CI 1.6 – 12.3). The mean serial interval was 6.9 days (95% CI 2.6-13.4).
 
   # epidemiological and clinical data, superspreader, index patient, nosocomial spread
   // The SARS outbreak in a general hospital in Tianjin, China – the case of super-spreader
@@ -1779,10 +1771,10 @@ feed Research
     let !f self assert = However, the SARS outbreak in Hospital P as well as in Tianjin came under control after Tianjin municipal authorities, at various levels, acted aggressively to implement stringent measures to enhance active surveillance, isolate SARS patients, and quarantine those having possible contact with SARS patients. These measures proved effective and SARS transmission was halted.
 
     / December, 2005 - Epidemiol. Infect
-    let !g self assert = Compared with the outbreak in Beijing [9-11] where effective SARS control was delayed for several weeks, stringent transmission control measures in Tianjin started sooner (i.e. 4 days) after the index case was identified. As a result, there were fewer community transmissions in Tianjin and a large proportion of SARS cases occurred within medical settings [12]. The number of cases from Hospital P accounted for 51-4 % of the SARS cases in Tianjin.
+    let !g self assert = Compared with the outbreak in Beijing where effective SARS control was delayed for several weeks, stringent transmission control measures in Tianjin started sooner (i.e. 4 days) after the index case was identified. As a result, there were fewer community transmissions in Tianjin and a large proportion of SARS cases occurred within medical settings. The number of cases from Hospital P accounted for 51-4 % of the SARS cases in Tianjin.
 
     / December, 2005 - Epidemiol. Infect
-    let !h self assert = The term SARS super-spreader has been used to describe certain individuals who have been implicated in spreading SARS to numerous other individuals. SARS super-spreaders were noticed in several SARS outbreaks in 2003 [8, 14, 15]. The SARS outbreak in Tianjin as described in this paper seems typical of an outbreak associated with super-spreaders. While it is not clear whether super-spreaders are associated with more contagious viral strains or simply a result of unprotected natural transmission, it highlights the critical importance of early intervention in controlling SARS transmission.
+    let !h self assert = The term SARS super-spreader has been used to describe certain individuals who have been implicated in spreading SARS to numerous other individuals. SARS super-spreaders were noticed in several SARS outbreaks in 2003. The SARS outbreak in Tianjin as described in this paper seems typical of an outbreak associated with super-spreaders. While it is not clear whether super-spreaders are associated with more contagious viral strains or simply a result of unprotected natural transmission, it highlights the critical importance of early intervention in controlling SARS transmission.
 
     / December, 2005 - Epidemiol. Infect
     let !i self assert = Finally, this study only describes the outbreak in Hospital P. Most of the SARS cases in Tianjin occurred in this hospital. Thus, this study reflects one major component of the outbreak of SARS in Tianjin, providing a snapshot of a SARS outbreak in one hospital. Our findings add to our understanding of disease control, which may help us to better prepare to confront other emerging diseases in the future.
@@ -2191,7 +2183,7 @@ feed Research
     let !b self assert = Likewise, patients with a BMI >35 and aged <60 years were 2.2 (95% CI 1.7-2.9, p<.0001) and 3.6 (95% CI 2.5-5.3, p=<.0001) times more likely to be admitted to acute and critical care compared to patients in the same age category who had BMI <30.
 
     / April, 2020 - Clinical Infectious Diseases
-    let !c self assert = The BMI range ofindividuals in this study appears representative of the nation. There is geographic variation in reported mortality, as South Korea, China and Italy report case fatality rates of 0.8, 2.3 and 7.2, respectively [5] and regional risk factors such as prevalence of smoking, pollution or aging population has been cited. Unfortunately, obesity in people <60 years is a newly identified epidemiologic risk factor which may contribute to increased morbidity rates experienced in the US.
+    let !c self assert = The BMI range of individuals in this study appears representative of the nation. There is geographic variation in reported mortality, as South Korea, China and Italy report case fatality rates of 0.8, 2.3 and 7.2, respectively and regional risk factors such as prevalence of smoking, pollution or aging population has been cited. Unfortunately, obesity in people <60 years is a newly identified epidemiologic risk factor which may contribute to increased morbidity rates experienced in the US.
 
   # Tag - Obesity, Cormorbidconditions
   // High prevalence of obesity in severe acute respiratory syndrome coronavirus‐2 (SARS‐CoV‐2) requiring invasive mechanical ventilation
@@ -2217,10 +2209,10 @@ feed Research
       !c
 
     / April, 2020 - Obesity
-    let !a self assert = Obesity (BMI >30 kg/m2) and severe obesity (BMI >35 kg/m2) were present in 47.6% and 28.2% of cases, respectively. Overall, 85 patients (68.6%) required IMV. The proportion of patients who required IMV increased with BMI categories (p<0.01, Chi square test for trend), and it was greatest in patients with BMI >35 kg/m2 (85.7%).
+    let !a self assert = Obesity (BMI >30 kg/m2) and severe obesity (BMI >35 kg/m2) were present in 47.6% and 28.2% of cases, respectively. Overall, 85 patients (68.6%) required IMV (invasive mechanical ventilation). The proportion of patients who required IMV increased with BMI categories (p<0.01, Chi square test for trend), and it was greatest in patients with BMI >35 kg/m2 (85.7%).
 
     / April, 2020 - Obesity
-    let !b self assert = In multivariate logistic regression, the need for IMV was significantly associated with male sex (p<0.05) and BMI (p<0.05), independent of age, diabetes, and hypertension.
+    let !b self assert = In multivariate logistic regression, the need for IMV (invasive mechanical ventilation) was significantly associated with male sex (p<0.05) and BMI (p<0.05), independent of age, diabetes, and hypertension.
 
     / April, 2020 - Obesity
     let !c self assert = The odds ratio for IMV in patients with BMI >35 kg/m2 vs patients with BMI <25 kg/m2 was 7.36 (1.63‐33.14; p=0.02)
@@ -2230,7 +2222,7 @@ feed Research
   // Hospitalization Rates and Characteristics of Patients Hospitalized with Laboratory-Confirmed Coronavirus Disease 2019 — COVID-NET, 14 States, March 1–30, 2020
   doi: http://doi.org/10.15585/mmwr.mm6915e3
   ref 'Garg_et_al_2020
-    head = Using the existing infrastructure of two respiratory virus surveillance platforms, COVID-NET was implemented to produce robust, weekly, age-stratified hospitalization rates using standardized data collection methods. These data are being used, along with data from other surveillance platforms (https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview.html), to monitor COVID-19 disease activity and severity in the United States.
+    head = Using the existing infrastructure of two respiratory virus surveillance platforms, COVID-NET was implemented to produce robust, weekly, age-stratified hospitalization rates using standardized data collection methods. These data are being used, along with data from other surveillance platforms, to monitor COVID-19 disease activity and severity in the United States.
 
     -- exports
       !a
@@ -2286,7 +2278,7 @@ feed Research
     head = The results indicate that using saliva for SARS-CoV-2 detection is more sensitive and consistent than using nasopharyngeal swabs. Overall, we demonstrate that saliva should be considered as a reliable sample type to alleviate COVID-19 testing demands.
 
     >>> Abstract
-      Rapid and accurate SARS-CoV-2 diagnostic testing is essential for controlling the ongoing COVID-19 pandemic. The current gold standard for COVID-19 diagnosis is real-time RT-PCR detection of SARS-CoV-2 from nasopharyngeal swabs. Low sensitivity, exposure risks to healthcare workers, and global shortages of swabs and personal protective equipment, however, necessitate the validation of new diagnostic approaches. Saliva is a promising candidate for SARS-CoV-2 diagnostics because (1) collection is minimally invasive and can reliably be self-administered and (2) saliva has exhibited comparable sensitivity to nasopharyngeal swabs in detection of other respiratory pathogens, including endemic human coronaviruses, in previous studies. To validate the use of saliva for SARS-CoV-2 detection, we tested nasopharyngeal and saliva samples from confirmed COVID-19 patients and self-collected samples from healthcare workers on COVID-19 wards. When we compared SARS-CoV-2 detection from patient-matched nasopharyngeal and saliva samples, we found that saliva yielded greater detection sensitivity and consistency throughout the course of infection. Furthermore, we report less variability in self-sample collection of saliva. Taken together, our findings demonstrate that saliva is a viable and more sensitive alternative to nasopharyngeal swabs and could enable at-home self-administered sample collection for accurate large-scale SARS-CoV-2 testing.
+      Rapid and accurate SARS-CoV-2 diagnostic testing is essential for controlling the ongoing COVID-19 pandemic. The current gold standard for COVID-19 diagnosis is real-time RT-PCR detection of SARS-CoV-2 from nasopharyngeal swabs. Low sensitivity, exposure risks to healthcare workers, and global shortages of swabs and personal protective equipment, however, necessitate the validation of new diagnostic approaches. Saliva is a promising candidate for SARS-CoV-2 diagnostics because collection is minimally invasive and can reliably be self-administered and saliva has exhibited comparable sensitivity to nasopharyngeal swabs in detection of other respiratory pathogens, including endemic human coronaviruses, in previous studies. To validate the use of saliva for SARS-CoV-2 detection, we tested nasopharyngeal and saliva samples from confirmed COVID-19 patients and self-collected samples from healthcare workers on COVID-19 wards. When we compared SARS-CoV-2 detection from patient-matched nasopharyngeal and saliva samples, we found that saliva yielded greater detection sensitivity and consistency throughout the course of infection. Furthermore, we report less variability in self-sample collection of saliva. Taken together, our findings demonstrate that saliva is a viable and more sensitive alternative to nasopharyngeal swabs and could enable at-home self-administered sample collection for accurate large-scale SARS-CoV-2 testing.
 
     -- exports
       !a
@@ -3432,7 +3424,7 @@ feed Research
   # Remediation, Inflamation, Anti-viral compounds, Frontiers ?
   // Can Bioactive Lipids Inactivate Coronavirus (COVID-19)?
   doi: https://doi.org/10.1016/j.arcmed.2020.03.004
-  ref 'Das_et_al_March_2020
+  ref 'Das_et_al_2020
     head = This suggests that AA, EPA and DHA and their anti-inflammatory metabolites such as lipoxin A4, resolvins, protectins and maresins function as endogenous anti-microbial molecules and so their appropriate use may aid in decreasing the morbidity and mortality due to SARS-CoV-2, SARS and MERS.  When present in adequate amounts in immunocytes and body fluids (especially in the alveolar fluid) may actually prevent these infections.
 
     >>> Abstract
@@ -3539,7 +3531,7 @@ feed Research
     let !e self assert = Among 12 clusters of single intracluster transmission cases, 15 case-patients were infected within 5.5 days of the mean interval between illness onset of the infector and illness onset of the infectee. Among 56 clusters of single co-exposure cases, the mean interval of symptom onset between the primary and second case-patient within a cluster was 3.1 days, and the mean interval of symptom onset between the primary and last case-patient within a cluster was 3.6 days
 
     / March, 2020 - Emerg Infect Dis
-    let !f self assert = With continuous implementation of strict control measures, we observed a shortened span (median days declining from 3 to 1; p<0.001) between illness onset and hospital visits for case-patients (Table 1). This finding may result from strict infection control management (e.g., early screening for suspected cases, monitoring for close-contact persons, and improved health consciousness of the general population).
+    let !f self assert = With continuous implementation of strict control measures, we observed a shortened span (median days declining from 3 to 1; p<0.001) between illness onset and hospital visits for case-patients. This finding may result from strict infection control management (e.g., early screening for suspected cases, monitoring for close-contact persons, and improved health consciousness of the general population).
 
     / March, 2020 - Emerg Infect Dis
     let !g self assert = To control the infection, confirmed case-patients should be separated and managed centrally; thus, the government has designated special hospitals to admit patients with suspected or confirmed cases. Nevertheless, as of February 5, to our knowledge, 1 case of a healthcare worker having been infected has been reported; an emergency nurse from a nondesignated hospital became ill on January 26, 2020, a total of 8 days after having been in close contact with a confirmed case-patient in the outpatient setting.
@@ -3985,8 +3977,8 @@ feed Research
   # Tag - Prevention for clinical care
   // COVID-19: A critical care perspective informed by lessons learnt from other viral epidemics
   doi: https://doi.org/10.1016/j.accpm.2020.02.002
-  ref 'ling_et_al_2020
-    head = ICU HCW are at particularly high risk of nosocomial transmission because of potential exposure to aerosolised respiratory secretions during intubation, tracheal suctioning, bronchoscopy and respiratory circuit disconnection, as well as environmental contamination.
+  ref 'Ling_et_al_2020
+    head = ICU HCW(Healthcare workers) are at particularly high risk of nosocomial transmission because of potential exposure to aerosolised respiratory secretions during intubation, tracheal suctioning, bronchoscopy and respiratory circuit disconnection, as well as environmental contamination.
 
     >>> Abstract
       The world is closely watching the outbreak of respiratory illness associated with the novel beta coronavirus SARS-CoV-2. The first cases were reported in Wuhan, Hubei Province, China. At the time of writing the number of reported cases of the resulting disease, COVID-19, is already over 64,000 and shows no immediate signs of stabilisation. Although the majority remain in Wuhan and Hubei province, cases have been reported in all provinces of China and over 27 countries across the globe. The aim of this editorial is to review the management of critically ill patients with COVID-19 infection.
