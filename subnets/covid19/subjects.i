@@ -540,6 +540,7 @@ subject module DiseaseFeatures
     subject Relapse
 
 
+# Past infection, Active infection, Risk Factors
 subject module Diagnostics
   -- LDH
     'Han_et_al_2020
@@ -557,6 +558,7 @@ subject module Diagnostics
   --
     Serology
     PCR
+  # By application, methodology  
   subject Serology
     --
       'McLeish_et_al_2011

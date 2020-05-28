@@ -27,6 +27,11 @@ feed Research
   / May, 2020
   feed May2020
     --
+      'Monteil_et_al_2020
+      'Bhattacharyya_et_al_2020
+      'Lu_et_al_2020b
+      'Vespignani_et_al_2020
+      'Lu_et_al_2020
       'Britton_et_al_2020
       'Gomes_et_al_2020
       'Riphagen_et_al_2020
@@ -36,6 +41,20 @@ feed Research
   / April, 2020
   feed April2020
     --
+      'AlGhatrif_et_al_2020
+      'Alipio_et_al_2020
+      'Lai_et_al_2020
+      'Gao_et_al_2020b
+      'Atkinson_et_al_2020
+      'Hoffmann_et_al_2020
+      'King_et_al_2020
+      'Lipsitch_et_al_2020
+      'Vkovski_et_al_2020
+      'Liu_et_al_2020b
+      'Docherty_et_al_2020
+      'Song_et_al_2020
+      'Giannis_et_al_2020
+      'Long_et_al_2020
       'Wadhera_et_al_2020
       'Nguyen_et_al_2020
       'Dufresne_et_al_2020
@@ -85,6 +104,19 @@ feed Research
   / March, 2020
   feed March2020
     --
+      'Zhao_et_al_2020b
+      'Okba_et_al_2020
+      'Pung_et_al_2020
+      'Park_et_al_2020
+      'Moriarty_et_al_2020
+      'Lu_et_al_2020b
+      'Liu_et_al_2020h
+      'Peng-Li_et_al_2020
+      'Ji_et_al_2020
+      'Mizumoto_et_al_2020
+      'Li_et_al_2020c
+      'Wang_et_al_2020b
+      'Inui_et_al_2020
       'XavierLescure_et_al_2020
       'Woelfel_et_al_2020b
       'Schwartz_et_al_2020
@@ -169,6 +201,12 @@ feed Research
   / February, 2020
   feed February2020
     --
+      'Wang_et_al_2020c
+      'Liu_et_al_2020g
+      'Liu_et_al_2020f
+      'Zhang_et_al_2020i
+      'Nishiura_et_al_2020
+      'Stokes_et_al_2020
       'Huang_et_al_2020
       'Ren_et_al_2020
       'Liu_et_al_2020e
@@ -212,7 +250,11 @@ feed Research
 
   feed 2019
     -- December, 2019
+      'Wan_et_al_2019
       'Benfield_et_al_2019
+
+    -- September, 2019
+      'Cui_et_al_2019
 
     -- July, 2019
       'Luk_et_al_2019
@@ -231,12 +273,19 @@ feed Research
       'Liu_et_al_2019
       'Wong_et_al_2019
 
+    -- Jan, 2019
+      'Chen_et_al_2019
+
   feed Pre2019
     -- December, 2018
       'Cui_et_al_2018
 
     -- November, 2018
+      'Afzal_et_al_2018
       'Mishra_et_al_2018
+
+    -- October, 2018
+      'Jolliffe_et_al_2018
 
     -- September, 2018
       'Mandl_et_al_2018
@@ -246,6 +295,9 @@ feed Research
 
     -- May, 2018
       'Pavlovich_et_al_2018
+
+    -- April, 2018
+      'Liu_et_al_2018
 
     -- March, 2018
       'Colman_et_al_2018
@@ -265,6 +317,9 @@ feed Research
       'Netto_et_al_2017
       'Baucells_et_al_2017
 
+    -- September, 2017
+      'Xu_et_al_2017
+
     -- August, 2017
       'Sheahan_et_al_2017
 
@@ -276,6 +331,7 @@ feed Research
       'Lin_et_al_2017
 
     -- May, 2017
+      'Hemilä_et_al_2017
       'Banerjee_et_al_2017
       'Kim_et_al_2017
 
@@ -295,6 +351,9 @@ feed Research
     -- June, 2016
       'Dessauer_et_al_2016
       'Alshukairi_et_al_2016
+
+    -- May, 2016
+      'Lin_et_al_2016
 
     -- April, 2016
       'Pillai_et_al_2016
@@ -320,8 +379,12 @@ feed Research
       'Michels_et_al_2015
 
     -- June, 2015
+      'Xu_et_al_2015
       'Mansur_et_al_2015
       'Ren_et_al_2015
+
+    -- April, 2015
+      'Furman_et_al_2015
 
     -- Feb, 2015
       'Najjar_et_al_2015
@@ -341,6 +404,9 @@ feed Research
 
     -- October, 2013
       'Llor_et_al_2013
+
+    -- August, 2013
+      'Chan_et_al_2013
 
     -- April, 2013
       'Wertheim_et_al_2013
@@ -383,6 +449,7 @@ feed Research
       'Velthuis_et_al_2010
 
     -- October, 2010
+      'Chondrogianni_et_al_2010
       'Sanjuán_et_al_2010
 
     -- September, 2010
@@ -445,6 +512,7 @@ feed Research
       'Wang_et_al_2005
 
     -- November,2005
+      'Wang_et_al_2005b
       'Lloyd-Smith_et_al_2005
 
     -- October, 2005
@@ -462,6 +530,7 @@ feed Research
       'Keeling_et_al_2005
 
     -- September, 2004
+      'Yi_et_al_2004
       'Darnell_et_al_2004
 
     -- July, 2004
@@ -483,6 +552,7 @@ feed Research
       'Lin_et_al_2003
 
     -- May, 2003
+      'Wortsman_et_al_2020
       'Lee_et_al_2003
 
     -- April, 2003
@@ -496,6 +566,9 @@ feed Research
 
     -- July, 2000
       'John_et_al_2000
+
+    -- June, 1997
+      'Beck_et_al_1997
 
     -- January, 1997
       'Woolhouse_et_al_1997
@@ -521,7 +594,1221 @@ feed Research
 
   #
 
-  # population characteristics and hospital bed capacities, pandemic?
+  # Quercetin as a potential senolytic
+  // Anti-ageing and rejuvenating effects of quercetin
+  doi: https://doi.org/10.1016/j.exger.2010.07.001
+  ref 'Chondrogianni_et_al_2010
+    head = In this study, we have identified QUER and its derivative, namely QU-CAP as a potent proteasome activator with antioxidant properties that consequently influence cellular lifespan, survival and viability. Moreover, we reveal a rejuvenating effect of these compounds on middleaged and terminally senescent primary fibroblasts. Although the anti-oxidant properties of QUER are already known, this is the first demonstration of its anti-ageing and rejuvenating effects in in vitro studies that link it with the proteasome and its activation
+
+    >>> Abstract
+      Homeostasis is a key feature of the cellular lifespan. Its maintenance influences the rate of ageing and it is determined by several factors, including efficient proteolysis. The proteasome is the major cellular proteolytic machinery responsible for the degradation of both normal and damaged proteins. Alterations of proteasome function have been recorded in various biological phenomena including ageing and replicative senescence. Proteasome activities and function are decreased upon replicative senescence, whereas proteasome activation confers enhanced survival against oxidative stress, lifespan extension and maintenance of the young morphology longer in human primary fibroblasts. Several natural compounds possess anti-ageing/anti-oxidant properties. In this study, we have identified quercetin (QUER) and its derivative, namely quercetin caprylate (QU-CAP) as a proteasome activator with anti-oxidant properties that consequently influence cellular lifespan, survival and viability of HFL-1 primary human fibroblasts. Moreover, when these compounds are supplemented to already senescent fibroblasts, a rejuvenating effect is observed. Finally, we show that these compounds promote physiological alterations when applied to cells (i.e. whitening effect). In summary, these data demonstrate the existence of naturally occurring anti-ageing products that can be effectively used through topical application.
+
+    # / Oct, 2010 - Experimental Gerontology
+    # let !a self assert =
+
+  # Frontiers - Quercetin - Quercetin has been reported to block the entry of SARS-CoV-1 into host cells.
+  // Small Molecules Blocking the Entry of Severe Acute Respiratory Syndrome Coronavirus into Host Cells
+  doi: https://doi.org/10.1128/JVI.78.20.11334-11339.2004
+  ref 'Yi_et_al_2004
+    head = TGG ( tetra-O-galloyl-β-d-glucose) and luteolin offer excellent opportunities for further optimization and potential clinical use as anti-SARS drugs. TGG is a component of Galla chinensis that has been used in traditional Chinese medicine for treating chronic coughing. Luteolin has been identified in extracts of many Chinese herbs such as Veronica lina riifolia Pall by MS. We found this was a component of Rhodiola kirilowii, which has been used in Chinese medicine for treating hepatitis and tuberculosis. These two compounds and the luteolin-related, FDA-approved quecertin, have potential for use in the clinical treatment of SARS.
+
+    >>> Abstract
+      Severe acute respiratory syndrome coronavirus (SARS-CoV) is the pathogen of SARS, which caused a global panic in 2003. We describe here the screening of Chinese herbal medicine-based, novel small molecules that bind avidly with the surface spike protein of SARS-CoV and thus can interfere with the entry of the virus to its host cells. We achieved this by using a two-step screening method consisting of frontal affinity chromatography-mass spectrometry coupled with a viral infection assay based on a human immunodeficiency virus (HIV)-luc/SARS pseudotyped virus. Two small molecules, tetra-O-galloyl-β-d-glucose (TGG) and luteolin, were identified, whose anti-SARS-CoV activities were confirmed by using a wild-type SARS-CoV infection system. TGG exhibits prominent anti-SARS-CoV activity with a 50% effective concentration of 4.5 μM and a selective index of 240.0. The two-step screening method described here yielded several small molecules that can be used for developing new classes of anti-SARS-CoV drugs and is potentially useful for the high-throughput screening of drugs inhibiting the entry of HIV, hepatitis C virus, and other insidious viruses into their host cells.
+      Severe acute respiratory syndrome (SARS) is a viral respiratory disease that spread to more than two-dozen countries in Asia, North America, South America, and Europe in the spring of 2003. Approximately 8,400 people worldwide suffered from SARS and more than 900 died according to a report of the World Health Organization executive board on 27 November 2003. A novel coronavirus, SARS-coronavirus (SARS-CoV), was identified as the pathogen that caused SARS. SARS-CoV is highly infectious and is transmitted via the respiratory route. Although the first outbreak is over, it is possible that even a low-level epidemic or accidental infection, as recently happened in Singapore and Taiwan, could cause a sudden worldwide epidemic. At present, few drugs are available for treating SARS. Ribavirin was initially used, but it proved to be barely effective and had serious side effects. Cinatl et al. reported recently that interferon exhibited anti-SARS-CoV potency and that glycyrrhizin had an anti-SARS-CoV activity with a 50% effective concentration (EC50) of 300 mg/liter (364.5 μM).
+      We have targeted our drug discovery to small molecules that can inhibit SARS-CoV from entering its host cells. Virus entry is an attractive target step for therapy because it can block the propagation of virus at an early stage, thus minimizing the chance for the virus to evolve and acquire drug resistance. Inhibitors of the entry of several important viruses have been developed. For example, a new class of virus entry inhibitors has been developed for the human immunodeficiency virus type 1 (HIV-1), and one of these, T20 (enfuvirtide), is now in clinical usage. For the respiratory syncytial virus (RSV), the small molecules RFI 641 and VP-14637 have been developed to inhibit its entry process. For herpes simplex virus, entry inhibitors such as FGF4 signal peptide  and n-docosanol are under development.
+      We have developed a two-step screening method combining frontal affinity chromatography-mass spectrometry (FAC/MS) and pseudotyped virus infection assay to search for drugs that can interfere with the entry of SARS-CoV into host cells. FAC/MS allows for competitive assays of interacting molecules, such as enzymes and ligands, as well as for a quick analysis and direct presentation of the assay. Here, in the first step, we use the FAC/MS to perform high-throughput screening of small molecules that can bind with high affinity to the SARS-CoV S2 protein. The other rationale of our study is that some of these S2-binding molecules may interfere with the function of the S protein, thus preventing the SARS-CoV from entering its host cells. To test this, we developed an HIV-luc/SARS pseudotyped virus that can infect Vero E6 cells resulting in the cellular expression of luciferase that can be detected by luminometry. Thus, as a second step, we used HIV-luc/SARS pseudotyped virus to check the function of the small molecules obtained in the first step. This system is highly sensitive, rapid, and reproducible; the materials are safe to handle and can be used for high-throughput screening.
+      We used the FAC/MS approach to screen small molecule libraries consisting of extracts from 121 Chinese herbs, including Prunella vulgaris and Saussurea lappa Clarks, that exhibited antiviral activities against HIV-1, RSV, and hepatitis B virus. We identified two small molecules that bind avidly to the SARS S2 protein and can interfere with the entry of SARS-CoV into Vero E6 cells, with potent antiviral activities against wild-type SARS-CoV with EC50 values of 4.5 and 10.6 μM.
+
+    # / Sept, 2004 - American Society for Microbiology Journals
+    # let !a self assert =
+
+  #  Fontiers zinc - Zinc lozenges can reduce the length of the common cold up to 40%.
+  // Zinc Lozenges and the Common Cold: A Meta-Analysis Comparing Zinc Acetate and Zinc Gluconate, and the Role of Zinc Dosage
+  doi: https://doi.org/10.1177/2054270417694291
+  ref 'Hemilä_et_al_2017
+    head =  Properly composed zinc gluconate lozenges may be as effective as zinc acetate lozenges. There is no evidence that zinc doses over 100 mg/day might lead to greater efficacy in the treatment of the common cold. Common cold patients may be encouraged to try zinc lozenges for treating their colds. The optimal lozenge composition and dosage scheme need to be investigated further.
+
+    >>> Objective
+      To compare the efficacy of zinc acetate lozenges with zinc gluconate lozenges in common cold treatment and to examine the dose-dependency of the effect.
+
+    >>> Setting
+      Placebo-controlled zinc lozenge trials, in which the zinc dose was > 75 mg/day. The pooled effect of zinc lozenges on common cold duration was calculated by using inverse-variance random-effects method.
+
+    >>> Participants
+      Seven randomised trials with 575 participants with naturally acquired common colds.
+
+    >>> Results
+      The mean common cold duration was 33% (95% CI 21% to 45%) shorter for the zinc groups of the seven included trials. Three trials that used lozenges composed of zinc acetate found that colds were shortened by 40% and four trials that used zinc gluconate by 28%. The difference between the two salts was not significant: 12 percentage points (95% CI: -12 to + 36). Five trials used zinc doses of 80-92 mg/day, common cold duration was reduced by 33%, and two trials used zinc doses of 192-207 mg/day and found an effect of 35%. The difference between the high-dose and low-dose zinc trials was not significant: 2 percentage points (95% CI: -29 to + 32).
+
+    >>> Conclusion
+       Properly composed zinc gluconate lozenges may be as effective as zinc acetate lozenges. There is no evidence that zinc doses over 100 mg/day might lead to greater efficacy in the treatment of the common cold. Common cold patients may be encouraged to try zinc lozenges for treating their colds. The optimal lozenge composition and dosage scheme need to be investigated further.
+
+    # / May, 2017 - JRSM Open
+    # let !a self assert =
+
+
+  # Frontiers - Zinc - Transient deficiency in zinc causes dysfunction in immune T-cells.
+  // Changes in Cytokine Production and T Cell Subpopulations in Experimentally Induced Zinc-Deficient Humans
+  doi: https://doi.org/10.1152/ajpendo.1997.272.6.E1002
+  ref 'Beck_et_al_1997
+    head = Zinc may be required for regeneration of new CD4+ T lymphocytes and maintenance of T cytolytic cells. We conclude that an imbalance between TH1 and TH2 cells, decreased recruitment of T naive cells, and decreased percentage of T cytolytic cells may account for decreased cell-mediated immune functions in zinc-deficient subjects.
+
+    >>> Abstract
+      We have utilized an experimental model of human zinc deficiency for study of cytokines production by TH1 and TH2 cells. Additionally, we determined ratios of CD4+ to CD8+ and CD4+ CD45RA+ to CD4+CD45RO+ cells and percentages of CD73+ T cytolytic cells in the CD8+ subset. The data were collected during baseline, at the end of the zinc-restricted period, and following zinc repletion. Our results showed that functions of TH1 cells, as evidenced by production of interferon-gamma, interleukin-2 (IL-2), and tumor necrosis factor-alpha, were decreased, whereas functions of TH2 cells (production of IL-4, IL-6, and IL-10) were unaffected by zinc deficiency. Thus an imbalance between TH1 and TH2 cells resulted because of zinc deficiency in humans. Our studies also showed that zinc may be required for regeneration of new CD4+ T lymphocytes and maintenance of T cytolytic cells. We conclude that an imbalance between TH1 and TH2 cells, decreased recruitment of T naive cells, and decreased percentage of T cytolytic cells may account for decreased cell-mediated immune functions in zinc-deficient subjects.
+
+    #  / June, 1997 - Am J Physiol
+    # let !a self assert =
+
+  # Variant Population - Vitamin D - Vitamin D supplementation for 16 weeks caused 2 year reduction in epigenetic aging in African Americans.
+  // Effects of Vitamin D3 Supplementation on Epigenetic Aging in Overweight and Obese African Americans With Suboptimal Vitamin D Status: A Randomized Clinical Trial
+  doi: https://doi.org/10.1093/gerona/gly223
+  ref 'Chen_et_al_2019
+    head = DNAm age estimated by either Horvath clock or Hannum clock was highly correlated with chronological age in African Americans with suboptimal vitamin D status at the baseline. Vitamin D3 supplementation decreased DNA methylation aging. More specifically, the epigenetic aging was significantly decreased by 4,000 IU/d vitamin D3 supplementation according to the Horvath clock, and 2,000 IU/d was more effective according to the Hannum clock. Moreover, serum 25 (OH)D levels were only negatively associated with DNA methylation aging measured by the Horvath clock.
+
+    >>> Background
+      We have previously shown that vitamin D supplementation increases telomerase activity, suggesting an anti-aging effect. In this study, we aim to test the hypothesis that vitamin D supplementation would slow down epigenetic aging, a new marker of biological aging.
+
+    >>> Methods
+      A randomized clinical trial was previously conducted among 70 overweight/obese African Americans with serum 25-hydroxyvitamin D [25(OH)D] < 50 nmol/L, who were randomly assigned into four groups of 600 IU/d, 2,000 IU/d, 4,000 IU/d of vitamin D3 supplements or placebo followed by 16-week interventions. Whole genome-wide DNA methylation analysis was conducted in 51 participants. DNA methylation ages were calculated according to the Horvath and the Hannum methods. Methylation-based age acceleration index (∆Age) is defined as the difference between DNA methylation age and chronological age in years. Mixed-effects models were used to evaluate the treatment effects.
+
+    >>> Results
+      Fifty-one participants (aged 26.1 ± 9.3 years, 16% are male) were included in the study. After the adjustment of multi-covariates, vitamin D3 supplementation of 4,000 IU/d was associated with 1.85 years decrease in Horvath epigenetic aging compared with placebo (p value = .046), and 2,000 IU/d was associated with 1.90 years decrease in Hannum epigenetic aging (p value = .044). Serum 25(OH)D concentrations were significantly associated with decreased Horvath ∆Age only (p values = .002), regardless of treatments.
+
+    >>> Conclusion
+      Our results suggest that vitamin D supplementation may slow down Horvath epigenetic aging. But the effect on Hannum epigenetic aging is not conclusive. Large-scale and longer duration clinical trials are needed to replicate the findings.
+
+    -- exports
+      !a
+
+    / Jan, 2019 - J Gerontol A Biol Sci Med Sci
+    let !a self assert = For the first time, our results suggest that vitamin D3 supplementation may slow down the Horvath epigenetic aging process in overweight/obese African Americans with suboptimal vitamin D status. But the effect on the Hannum epigenetic aging is not conclusive. Future longer term and large-scale RCTs in other populations are warranted to validate our findings.
+
+  # Frontiers for Remediation, Also Vitamin-D based on (3-4)papers below correlation can be made
+  // Inhibition of SARS-CoV-2 infections in engineered human tissues using clinical-grade soluble human ACE2
+  doi: https://doi.org/10.1016/j.cell.2020.04.004
+  ref 'Monteil_et_al_2020
+    head = Here, we show that clinical grade hrsACE2 reduced SARS-CoV-2 recovery from Vero cells by a factor of 1,000-5,000. An equivalent mouse rsACE2 had no effect. We also show that SARS-CoV-2 can directly infect engineered human blood vessel organoids and human kidney organoids, which can be inhibited by hrsACE2. These data demonstrate that hrsACE2 can significantly block early stages of SARS-CoV-2 infections.
+
+    >>> Abstract
+      We have previously provided the first genetic evidence that angiotensin converting enzyme 2 (ACE2) is the critical receptor for severe acute respiratory syndrome coronavirus (SARS-CoV), and ACE2 protects the lung from injury, providing a molecular explanation for the severe lung failure and death due to SARS-CoV infections. ACE2 has now also been identified as a key receptor for SARS-CoV-2 infections, and it has been proposed that inhibiting this interaction might be used in treating patients with COVID-19. However, it is not known whether human recombinant soluble ACE2 (hrsACE2) blocks growth of SARS-CoV-2. Here, we show that clinical grade hrsACE2 reduced SARS-CoV-2 recovery from Vero cells by a factor of 1,000-5,000. An equivalent mouse rsACE2 had no effect. We also show that SARS-CoV-2 can directly infect engineered human blood vessel organoids and human kidney organoids, which can be inhibited by hrsACE2. These data demonstrate that hrsACE2 can significantly block early stages of SARS-CoV-2 infections.
+
+    # / May, 2020 - Cell
+    # let !a self assert =
+
+  # Vitamin D Frontiers - Calcitriol is the active form of vitamin D
+  // Calcitriol Regulates Angiotensin-Converting Enzyme and Angiotensin Converting-Enzyme 2 in Diabetic Kidney Disease
+  doi: https://doi.org/10.1007/s11033-016-3971-5
+  ref 'Lin_et_al_2016
+    head =  Calcitriol reduced ACE levels and ACE/ACE2 ratio and increased ACE2 levels in diabetic rats. Similarly, high glucose up-regulated ACE expression in NRK-52E cells, which was blocked by the p38 MAPK inhibitor SB203580, but not the extracellular signal-regulated kinase (ERK) inhibitor FR180204 or the c-Jun N-terminal kinase (JNK) inhibitor SP600125.
+
+    >>> Abstract
+      To investigate the effects of calcitriol on angiotensin-converting enzyme (ACE) and ACE2 in diabetic nephropathy. Streptozotocin (STZ) induced diabetic rats were treated with calcitriol for 16 weeks. ACE/ACE2 and mitogen activated protein kinase (MAPK) enzymes were measured in the kidneys of diabetic rats and rat renal tubular epithelial cells exposed to high glucose. Calcitriol reduced proteinuria in diabetic rats without affecting calcium-phosphorus metabolism. ACE and ACE2 levels were significantly elevated in diabetic rats compared to those in control rats. The increase in ACE levels was greater than that of ACE2, leading to an elevated ACE/ACE2 ratio. Calcitriol reduced ACE levels and ACE/ACE2 ratio and increased ACE2 levels in diabetic rats. Similarly, high glucose up-regulated ACE expression in NRK-52E cells, which was blocked by the p38 MAPK inhibitor SB203580, but not the extracellular signal-regulated kinase (ERK) inhibitor FR180204 or the c-Jun N-terminal kinase (JNK) inhibitor SP600125. High glucose down-regulated ACE2 expression, which was blocked by FR180204, but not SB203580 or SP600125. Incubation of cells with calcitriol significantly inhibited p38 MAPK and ERK phosphorylation, but not JNK phosphorylation, and effectively attenuated ACE up-regulation and ACE2 down-regulation in high glucose conditions. The renoprotective effects of calcitriol in diabetic nephropathy were related to the regulation of tubular levels of ACE and ACE2, possibly by p38 MAPK or ERK, but not JNK pathways.
+
+    # / May, 2016 - Mol Biol Rep
+    # let !a self assert =
+
+  # Vitamin D Frontiers
+  // Vitamin D receptor activation regulates microglia polarization and oxidative stress in spontaneously hypertensive rats and angiotensin II-exposed microglial cells: Role of renin-angiotensin system
+  doi: https://doi.org/10.1016/j.redox.2019.101295
+  ref 'Cui_et_al_2019
+    head = Our data showed that calcitriol treatment induced VDR expression and inhibited neural death in the prefrontal cortex of SHR. Sustained calcitriol administration also inhibited microglia M1 polarization, but enhanced M2 polarization, accompanied with decreased expression of proinflammatory cytokines. We then further explored the potential mechanisms and showed that SHR exhibited overactivated classical RAS with increased expression of angiotensin II (Ang II) receptor type 1 (AT1), angiotensin converting enzyme (ACE) and Ang II production, whereas the counteracting arm of traditional RAS, ACE2/Ang(1–7)/MasR, was impaired in the SHR brain.
+
+    >>> Abstract
+      Hypertension is one of the major predisposing factors for neurodegenerative disease characterized with activated renin-angiotensin system (RAS) in both periphery and brain. Vitamin D (VitD) is recently recognized as a pleiotropic hormone with strong neuroprotective properties. While multiple lines of evidence suggest that VitD can act on RAS, the evidence concerning the crosstalk between VitD and RAS in the brain is limited. Therefore, this study aims to evaluate whether VitD can modulate brain RAS to trigger neuroprotective actions in the brain of spontaneously hypertensive rats (SHR). Our data showed that calcitriol treatment induced VDR expression and inhibited neural death in the prefrontal cortex of SHR. Sustained calcitriol administration also inhibited microglia M1 polarization, but enhanced M2 polarization, accompanied with decreased expression of proinflammatory cytokines. We then further explored the potential mechanisms and showed that SHR exhibited overactivated classical RAS with increased expression of angiotensin II (Ang II) receptor type 1 (AT1), angiotensin converting enzyme (ACE) and Ang II production, whereas the counteracting arm of traditional RAS, ACE2/Ang(1–7)/MasR, was impaired in the SHR brain. Calcitriol nonsignificantly suppressed AT1 and ACE but markedly reduced Ang II formation. Intriguingly, calcitriol exerted pronouncedly impact on ACE2/Ang(1–7)/MasR axis with enhanced expression of ACE2, MasR and Ang(1–7) generation. Meanwhile, calcitriol ameliorated the overactivation of NADPH-oxidase (Nox), the downstream of RAS, in SHR, and also mitigated oxidative stress. In microglial (BV2) cells, we further found that calcitriol induced ACE2 and MasR with no significant impact on ACE and AT1. In accordance, calcitriol also attenuated Ang II-induced Nox activation and ROS production, and shifted the microglia polarization from M1 to M2 phenotype. However, co-treatment with A779, a specific MasR antagonist, abrogated the antioxidant and neuroimmune modulating actions of VitD. These findings strongly indicate the involvement of ACE2/Ang(1–7)/MasR pathway in the neuroprotective mechanisms of VitD in the hypertensive brain.
+
+    -- exports
+      !a
+      !b
+
+    / Sept, 2019 - Redox Biology
+    let !a self assert =  Collectively, the present study demonstrated that the altered balance between ACE/Ang II/AT1 and ACE2/Ang(1–7)/MasR axis in the hypertensive brain may contribute to the phenotypic transition of microglia from immunoregulatory M2 toward proinflammatory M1 polarization, providing an interesting target given that SHR is not only a neurodegenerative model but also an widely used rodent model of attention-deficit/hyperactivity disorder.
+
+    / Sept, 2019 - Redox Biology
+    let !b self assert = In addition, we also firstly showed that VitD is neuroprotective in the hypertensive brain by modulating brain ACE2/Ang(1–7)/MasR axis, shedding novel insight into the neuroactivities of VitD. Intriguingly, it has been reported that VitD also preserves structural and functional integrity of the kidney and cardiovascular system in SHR animals
+
+  # Vitamin D Frontiers, ACE-2 - When the active form of vitamin D was administered before lung injury, it protected from acute lung injury by helping to balance the renin-angiotensin-system by increasing ACE2 levels and down-regulating renin.
+  // Vitamin D alleviates lipopolysaccharide-induced acute lung injury via regulation of the renin-angiotensin system
+  doi: https://doi.org/10.3892/mmr.2017.7546
+  ref 'Xu_et_al_2017
+    head = ALI is a feature of LPS-induced sepsis, therefore, the present study employed a LPS-induced sepsis model to investigate the function of vitamin D in ALI. The results demonstrated that LPS stimulation led to lung cell death and increased vascular permeability, which may partially occur by inducing the expression of renin, ACE, Ang II and AT1R, and inhibiting ACE2 expression. However, in vivo and in vitro results indicated that a vitamin D agonist, calcitriol, significantly alleviated LPS-induced ALI to protect lungs.
+
+    >>> Abstract
+      Acute lung injury (ALI) and acute respiratory distress syndrome (ARDS) are the clinical manifestations of severe lung damage and respiratory failure. ALI and ARDS result are associated with high mortality in patients. At present, no effective treatments for ALI and ARDS exist. It is established that vitamin D exhibits anti-inflammatory effects, however, the specific effect of vitamin D on ALI remains largely unknown. The aim of the present study was to investigate whether, and by which mechanism, vitamin D alleviates lipopolysaccharide (LPS)-induced ALI. The results demonstrated that a vitamin D agonist, calcitriol, exhibited a beneficial effect on LPS-induced ALI in rats; calcitriol pretreatment significantly improved LPS-induced lung permeability, as determined using Evans blue dye. Results from reverse transcription-quantitative polymerase chain reaction, western blotting and ELISA analysis demonstrated that calcitriol also modulated the expression of members of the renin-angiotensin system (RAS), including angiotensin (Ang) I-converting enzymes (ACE and ACE2), renin and Ang II, which indicates that calcitriol may exert protective effects on LPS-induced lung injury, at least partially, by regulating the balance between the expression of members of the RAS. The results of the present study may provide novel targets for the future treatment of ALI.
+
+    # / Sept, 2017 - Molecular Medicine Reports
+    # let !a self assert =
+
+  # ACE2 - Having less ACE2 may increase the risk of severe disease. Entry + Severity
+  // The Dilemma of Coronavirus Disease 2019, Aging, and Cardiovascular Disease: Insights From Cardiovascular Aging Science.
+  doi: https://doi.org/10.1001/jamacardio.2020.1329
+  ref 'AlGhatrif_et_al_2020
+    head = In summary, older individuals, especially those with hypertension and diabetes, have reduced ACE2 expression and upregulation of angiotensin II proinflammatory signaling; the increase in ACE2 levels with ACEI/ARB treatment is more likely to be corrective to these changes. We hypothesize that with superimposed COVID-19 disease, SARS-CoV-2 binding to ACE2 acutely exaggerates this proinflammatory background, predisposing these subpopulations to greater COVID-19 disease severity and mortality
+
+
+    # / April, 2020 - JAMA Cardiol
+    # let !a self assert =
+
+  # Vitamin D Frontiers
+  // Vitamin D supplementation to prevent acute respiratory tract infections: systematic review and meta-analysis of individual participant data
+  doi: https://doi.org/10.1136/bmj.i6583
+  ref 'Martineau_et_al_2017
+    head = In this individual participant data (IPD) meta-analysis of randomised controlled trials, vitamin D supplementation reduced the risk of experiencing at least one acute respiratory tract infection. Subgroup analysis revealed that daily or weekly vitamin D supplementation without additional bolus doses protected against acute respiratory tract infection, whereas regimens containing large bolus doses did not.
+
+    >>> Objective
+      To assess the overall effect of vitamin D supplementation on risk of acute respiratory tract infection, and to identify factors modifying this effect.
+
+    >>> Data Sources
+      Systematic review and meta-analysis of individual participant data (IPD) from randomised controlled trials.
+
+    >>> Eligibility criteria for study selection
+      Randomised, double blind, placebo controlled trials of supplementation with vitamin D3 or vitamin D2 of any duration were eligible for inclusion if they had been approved by a research ethics committee and if data on incidence of acute respiratory tract infection were collected prospectively and prespecified as an efficacy outcome.
+
+    >>> Results
+      25 eligible randomised controlled trials (total 11 321 participants, aged 0 to 95 years) were identified. IPD were obtained for 10 933 (96.6%) participants. Vitamin D supplementation reduced the risk of acute respiratory tract infection among all participants (adjusted odds ratio 0.88, 95% confidence interval 0.81 to 0.96; P for heterogeneity <0.001). In subgroup analysis, protective effects were seen in those receiving daily or weekly vitamin D without additional bolus doses (adjusted odds ratio 0.81, 0.72 to 0.91) but not in those receiving one or more bolus doses (adjusted odds ratio 0.97, 0.86 to 1.10; P for interaction=0.05). Among those receiving daily or weekly vitamin D, protective effects were stronger in those with baseline 25-hydroxyvitamin D levels <25 nmol/L (adjusted odds ratio 0.30, 0.17 to 0.53) than in those with baseline 25-hydroxyvitamin D levels ≥25 nmol/L (adjusted odds ratio 0.75, 0.60 to 0.95; P for interaction=0.006). Vitamin D did not influence the proportion of participants experiencing at least one serious adverse event (adjusted odds ratio 0.98, 0.80 to 1.20, P=0.83). The body of evidence contributing to these analyses was assessed as being of high quality.
+
+    >>> Conclusions
+      Vitamin D supplementation was safe and it protected against acute respiratory tract infection overall. Patients who were very vitamin D deficient and those not receiving bolus doses experienced the most benefit.
+
+
+    # / Feb, 2017 - BMJ
+    # let !a self assert =
+
+  # Vitamin D Frontiers
+  // Vitamin D receptor genotype influences risk of upper respiratory infection
+  doi: https://doi.org/10.1017/S000711451800209X
+  ref 'Jolliffe_et_al_2018
+    head =  We report that a polymorphism in VDR (Vitamin D receptor) independently associates with susceptibility to URI (upper respiratory infections) in both adults and children. Given that the VDR is exclusively involved in vitamin D signalling, our findings lend weight to the growing body of evidence suggesting a role for the vitamin D pathway in mediating protection against respiratory infections.
+
+    >>> Abstract
+      SNP in the vitamin D receptor (VDR) gene is associated with risk of lower respiratory infections. The influence of genetic variation in the vitamin D pathway resulting in susceptibility to upper respiratory infections (URI) has not been investigated. We evaluated the influence of thirty-three SNP in eleven vitamin D pathway genes (DBP, DHCR7, RXRA, CYP2R1, CYP27B1, CYP24A1, CYP3A4, CYP27A1, LRP2, CUBN and VDR) resulting in URI risk in 725 adults in London, UK, using an additive model with adjustment for potential confounders and correction for multiple comparisons. Significant associations in this cohort were investigated in a validation cohort of 737 children in Manchester, UK. In all, three SNP in VDR (rs4334089, rs11568820 and rs7970314) and one SNP in CYP3A4 (rs2740574) were associated with risk of URI in the discovery cohort after adjusting for potential confounders and correcting for multiple comparisons (adjusted incidence rate ratio per additional minor allele ≥1·15, Pfor trend ≤0·030). This association was replicated for rs4334089 in the validation cohort (Pfor trend=0·048) but not for rs11568820, rs7970314 or rs2740574. Carriage of the minor allele of the rs4334089 SNP in VDR was associated with increased susceptibility to URI in children and adult cohorts in the United Kingdom.
+
+    # / October, 2018 - Cambridge Core
+    # let !a self assert =
+
+  # Vitamin D- Frontiers
+  // Genetically low vitamin D concentrations and increased mortality: mendelian randomisation analysis in three large cohorts
+  doi: https://doi.org/10.1136/bmj.g6330
+  ref 'Afzal_et_al_2018
+    head = Genetically low 25-hydroxyvitamin D concentrations were associated with increased all cause mortality, cancer mortality, and other mortality but not with increased cardiovascular mortality. These findings are compatible with the notion that genetically low 25-hydroxyvitamin D concentrations may be causally associated with cancer and other mortality but also suggest that the observational association with cardiovascular mortality could be the result of confounding.
+
+    >>> Objective
+      To test the hypothesis that genetically low 25-hydroxyvitamin D concentrations are associated with increased mortality.
+
+    >>> Design
+      Mendelian randomisation analysis.
+
+    >>> Setting
+      Copenhagen City Heart Study, Copenhagen General Population Study, and Copenhagen Ischemic Heart Disease Study.
+
+    >>> Participants
+      95 766 white participants of Danish descent from three cohorts, with median follow-up times of 19.1, 5.8, and 7.9 years, genotyped for genetic variants in DHCR7 and CYP2R1 affecting plasma 25-hydroxyvitamin D concentrations; 35 334 also had plasma 25-hydroxyvitamin D measurements. Participants were followed from study entry through 2013, during which time 10 349 died.
+
+    >>> Main outcome measures
+      All cause mortality and cause specific mortality, adjusted for common risk factors for all cause mortality based on the World Health Organization’s global health status.
+
+    >>> Results
+      The multivariable adjusted hazard ratios for a 20 nmol/L lower plasma 25-hydroxyvitamin D concentration were 1.19 (95% confidence interval 1.14 to 1.25) for all cause mortality, 1.18 (1.09 to 1.28) for cardiovascular mortality, 1.12 (1.03 to 1.22) for cancer mortality, and 1.27 (1.15 to 1.40) for other mortality. Each increase in DHCR7/CYP2R1 allele score was associated with a 1.9 nmol/L lower plasma 25-hydroxyvitamin D concentration and with increased all cause, cancer, and other mortality but not with cardiovascular mortality. The odds ratio for a genetically determined 20 nmol/L lower plasma 25-hydroxyvitamin D concentration was 1.30 (1.05 to 1.61) for all cause mortality, with a corresponding observational multivariable adjusted odds ratio of 1.21 (1.11 to 1.31). Corresponding genetic and observational odds ratios were 0.77 (0.55 to 1.08) and 1.13 (1.03 to 1.24) for cardiovascular mortality, 1.43 (1.02 to 1.99) and 1.10 (1.02 to 1.19) for cancer mortality, and 1.44 (1.01 to 2.04) and 1.17 (1.06 to 1.29) for other mortality. The results were robust in sensitivity analyses.
+
+    >>> Conclusions
+      Genetically low 25-hydroxyvitamin D concentrations were associated with increased all cause mortality, cancer mortality, and other mortality but not with increased cardiovascular mortality. These findings are compatible with the notion that genetically low 25-hydroxyvitamin D concentrations may be causally associated with cancer and other mortality but also suggest that the observational association with cardiovascular mortality could be the result of confounding.
+
+    -- exports
+      !a
+      !b
+
+    / November, 2018 - BMJ
+    let !a self assert = A meta-analysis of randomised intervention trials indicates that vitamin D3, but not vitamin D2, supplementation may decrease all cause and cancer mortality, especially among vitamin D deficient populations.3 Taken together, current evidence thus suggests that low vitamin D concentrations could be causally associated with several mortality endpoints.
+
+    / November, 2018 - BMJ
+    let !b self assert = The association of genetically low 25-hydroxyvitamin D concentrations with mortality endpoints is somewhat supported by biological, epidemiological, and clinical evidence. Firstly, vitamin D activating enzymes and the vitamin D receptor are present in many tissues and vitamin D is estimated to regulate 1-3% of all gene expression. Secondly, vitamin D has been implicated in the regulation of proliferation, differentiation, and apoptosis in several cell types. Thirdly, animal studies indicate that knockout of the vitamin D receptor may reduce lifespan and accelerate ageing. Fourthly, observational studies have implicated low vitamin D concentrations as a risk factor for a wide range of diseases from autoimmune and infectious disease to cardiovascular disease and cancers.
+
+  # Frontiers for Vitamin D- Vitamin D regulates over 5% of the human protein-encoding genome.
+  // Large-Scale in Silico and Microarray-Based Identification of Direct 1,25-Dihydroxyvitamin D3 Target Genes
+  doi: https://doi.org/10.1210/me.2005-0106
+  ref 'Wang_et_al_2005b
+    head = 1α,25-Dihydroxyvitamin D3 [1,25(OH)2D3] regulates calcium homeostasis and controls cellular differentiation and proliferation. 1,25(OH)2D3 is also a modulator of the immune responses, consistent with broad expression of the vitamin D receptor (VDR) in cells of the immune system and the capacity of 1,25(OH)2D3 to regulate cellular differentiation.
+
+    >>> Abstract
+      1α,25-Dihydroxyvitamin D3 [1,25(OH)2D3] regulates calcium homeostasis and controls cellular differentiation and proliferation. The vitamin D receptor (VDR) is a ligand-regulated transcription factor that recognizes cognate vitamin D response elements (VDREs) formed by direct or everted repeats of PuG(G/T)TCA motifs separated by 3 or 6 bp (DR3 or ER6). Here, we have identified direct 1,25(OH)2D3 target genes by combining 35,000+ gene microarrays and genome-wide screens for consensus DR3 and ER6 elements, and DR3 elements containing single nucleotide substitutions. We find that the effect of a nucleotide substitution on VDR binding in vitro does not predict VDRE function in vivo, because substitutions that disrupted binding in vitro were found in several functional elements. Hu133A microarray analyses, performed with RNA from human SCC25 cells treated with 1,25(OH)2D3 and protein synthesis inhibitor cycloheximide, identified more than 900 regulated genes. VDREs lying within −10 to +5 kb of 5′-ends were assigned to 65% of these genes, and VDR binding was confirmed to several elements in vivo. A screen of the mouse genome identified more than 3000 conserved VDREs, and 158 human genes containing conserved elements were 1,25(OH2)D3-regulated on Hu133A microarrays. These experiments also revealed 16 VDREs in 11 of 12 genes induced more than 10-fold in our previous microarray study, five elements in the human gene encoding the epithelial calcium channel TRPV6, as well as novel 1,25(OH2)D3 target genes implicated in regulation of cell cycle progression. The combined approaches used here thus provide numerous insights into the direct target genes underlying the broad physiological actions of 1,25(OH)2D3.
+
+    # / November, 2005 - Molecular Endocrinology
+    # let !a self assert =
+
+  # Vitamin D frontiers
+  // Decreased Bioavailability of Vitamin D in Obesity
+  doi: https://doi.org/10.1093/ajcn/72.3.690
+  ref 'Wortsman_et_al_2020
+    head = Obesity-associated vitamin D insufficiency is likely due to the decreased bioavailability of vitamin D(3) from cutaneous and dietary sources because of its deposition in body fat compartments.
+
+    >>> Background
+      Obesity is associated with vitamin D insufficiency and secondary hyperparathyroidism.
+
+    >>> Objective
+      This study assessed whether obesity alters the cutaneous production of vitamin D(3) (cholecalciferol) or the intestinal absorption of vitamin D(2) (ergocalciferol).
+
+    >>> Design
+      Healthy, white, obese [body mass index (BMI; in kg/m(2)) > or = 30] and matched lean control subjects (BMI </= 25) received either whole-body ultraviolet radiation or a pharmacologic dose of vitamin D(2) orally.
+
+    >>> Results
+      Obese subjects had significantly lower basal 25-hydroxyvitamin D concentrations and higher parathyroid hormone concentrations than did age-matched control subjects. Evaluation of blood vitamin D(3) concentrations 24 h after whole-body irradiation showed that the incremental increase in vitamin D(3) was 57% lower in obese than in nonobese subjects. The content of the vitamin D(3) precursor 7-dehydrocholesterol in the skin of obese and nonobese subjects did not differ significantly between groups nor did its conversion to previtamin D(3) after irradiation in vitro. The obese and nonobese subjects received an oral dose of 50000 IU (1.25 mg) vitamin D(2). BMI was inversely correlated with serum vitamin D(3) concentrations after irradiation (r = -0.55, P: = 0.003) and with peak serum vitamin D(2) concentrations after vitamin D(2) intake (r = -0.56, P: = 0.007).
+
+    >>> Conclusions
+      Obesity-associated vitamin D insufficiency is likely due to the decreased bioavailability of vitamin D(3) from cutaneous and dietary sources because of its deposition in body fat compartments.
+
+    # / May, 2003 - Am J Clin Nutr
+    # let !a self assert =
+
+  # Vitamin D - Frontiers?
+  // Vitamin D Deficiency and Insufficiency Among US Adults: Prevalence, Predictors and Clinical Implications
+  doi: https://doi.org/10.1017/S0007114518000491
+  ref 'Liu_et_al_2018
+    head = The prevalences of VDD (Vitamin D Deficiency) and VDI (Insufficiency) in 2001–2010 were 28·9 and 41·4 %, respectively. Adults who were black, less educated, poor, obese, current smokers, physically inactive and infrequent milk consumers had a higher prevalence of VDD. After adjustment for other potential predictors, obese adults showed 3·09 times higher prevalence of VDD and 1·80 times higher prevalence of VDI than non-obese adults. Physically inactive adults had 2·00 and 1·36 times higher prevalence of VDD and VDI than active peers.
+
+    >>> Abstract
+      Vitamin D deficiency (VDD) and insufficiency (VDI) are increasing at a global level, and they are associated with increased risk of various diseases. However, little information is available on the prevalence and predictors of VDD and VDI in a representative population of US adults. Serum 25-hydroxyvitamin D (25(OH)D) measurements were collected from 26 010 adults aged ≥18 years from the National Health and Nutrition Examination Survey (NHANES) 2001-2010. Using thresholds recommended by the Endocrine Society, VDD was defined as 25(OH)D<50 nmol/l and VDI as 50≤25(OH)D<75 nmol/l. Weighted multinomial log-binomial regression was conducted to estimate prevalence ratios of VDD and VDI. The prevalences of VDD and VDI in 2001-2010 were 28·9 and 41·4 %, respectively. Adults who were black, less educated, poor, obese, current smokers, physically inactive and infrequent milk consumers had a higher prevalence of VDD. After adjustment for other potential predictors, obese adults showed 3·09 times higher prevalence of VDD and 1·80 times higher prevalence of VDI than non-obese adults. Physically inactive adults had 2·00 and 1·36 times higher prevalence of VDD and VDI than active peers. Compared with frequent consumers, rare consumers of milk had 2·44 and 1·25 times higher prevalence of VDD and VDI, respectively. Current alcohol drinkers had 38 % lower prevalence of VDD than non-drinkers. Awareness of the high prevalence of VDD and VDI among US adults and related predictors could inform behavioural and dietary strategies for preventing VDD and monitoring VDI, especially in old, black, obese and inactive individuals who report rare consumption of milk.
+
+    # / April, 2018 -  Br J Nutr.
+    # let !a self assert =
+
+  # Variant Population - Vitamin D
+  // Patterns of COVID-19 Mortality and Vitamin D: An Indonesian Study
+  doi: https://dx.doi.org/10.2139/ssrn.3585561
+  ref 'Raharusun_et_al_2020
+    head = Older and male cases with pre-existing condition and below normal Vitamin D levels were associated with increasing odds of death. When controlling for age, sex, and comorbidity, Vitamin D status is strongly associated with COVID-19 mortality outcome of cases.
+
+    >>> Abstract
+      This is a retrospective cohort study which included two cohorts (active and expired) of 780 cases with laboratory-confirmed infection of SARS-CoV-2 in Indonesia. Age, sex, co-morbidity, Vitamin D status, and disease outcome (mortality) were extracted from electronic medical records. The aim was to determine patterns of mortality and associated factors, with a special focus on Vitamin D status. Results revealed that majority of the death cases were male and older and had pre-existing condition and below normal Vitamin D serum level. Univariate analysis revealed that older and male cases with pre-existing condition and below normal Vitamin D levels were associated with increasing odds of death. When controlling for age, sex, and comorbidity, Vitamin D status is strongly associated with COVID-19 mortality outcome of cases.
+
+    # / April, 2020 - SSRN
+    # let !a self assert =
+
+  # Variant Population - Vitamin D
+  // Vitamin D Supplementation Could Possibly Improve Clinical Outcomes of Patients Infected with Coronavirus-2019 (COVID-19)
+  doi: http://dx.doi.org/10.2139/ssrn.3571484
+  ref 'Alipio_et_al_2020
+    head = Of the 212 cases of COVID-19, majority had ordinary clinical outcome. Mean serum 25(OH)D level was 23.8 ng/ml. Serum 25(OH)D level was lowest in critical cases, but highest in mild cases. Serum 25(OH)D levels were statistically significant among clinical outcomes. Majority had insufficient Vitamin D status, most of them were not severe. Vitamin D status is significantly associated with clinical outcomes.
+
+    >>> Abstract
+      The rapid spread of COVID-19 in many areas of the world calls for preventive health measures. Although basic guidelines on infection control are suggested, treatment has remained the best choice to avert mortality. However, for the time being, there are no known vaccines for the disease. In this paper, a multinomial logistic regression was used to predict clinical outcomes of patients infected with COVID-19 based on 25-hydroxyvitamin D [25(OH)D] levels, the barometer for Vitamin D status. A retrospective multicentre study of 212 cases with laboratory-confirmed infection of SARS-CoV-2 was conducted. Data pertaining to clinical features and serum 25(OH)D levels were extracted from the medical records. For statistical analysis, Mann-Whitney U and χ² tests were used to compare differences in the clinical outcomes. Multinomial logistic regression was used to explore the association between serum 25(OH)D level and clinical outcomes of the cases. Frequency and percentage were used for categorical variables. Mean was used for continuous variables. A p-value below 0.01 was considered statistically significant. Of the 212 cases of COVID-19, majority had ordinary clinical outcome. Mean serum 25(OH)D level was 23.8 ng/ml. Serum 25(OH)D level was lowest in critical cases, but highest in mild cases. Serum 25(OH)D levels were statistically significant among clinical outcomes. Majority had insufficient Vitamin D status, most of them were not severe. Vitamin D status is significantly associated with clinical outcomes. A multinomial logistic regression analysis reported that for each standard deviation increase in serum 25(OH)D, the odds of having a mild clinical outcome rather than a severe outcome were approximately 7.94 times (OR=0.126, p<0.001) while interestingly, the odds of having a mild clinical outcome rather than a critical outcome were approximately 19.61 times (OR=0.051, p<0.001). The results suggest that an increase in serum 25(OH)D level in the body could either improve clinical outcomes or mitigate worst (severe to critical) outcomes, while a decrease in serum 25(OH)D level in the body could worsen clinical outcomes of COVID-2019 patients. In conclusion, this study provides substantial information to clinicians and health policy-makers. Vitamin D supplementation could possibly improve clinical outcomes of patients infected with COVID-19. Further research should conduct randomized controlled trials and large population studies to evaluate this recommendation.
+
+    -- exports
+      !a
+
+    / April, 2020 - SSRN
+    let !a self assert = The results suggest that an increase in serum 25(OH)D level in the body could either improve clinical outcomes or mitigate worst (severe to critical) outcomes, while a decrease in serum 25(OH)D level in the body could worsen clinical outcomes of COVID-2019 patients. In conclusion, this study provides substantial information to clinicians and health policy-makers. Vitamin D supplementation could possibly improve clinical outcomes of patients infected with COVID-19.
+
+
+  # Variant Population - Blood Type
+  // Relationship between the ABO Blood Group and the COVID-19 Susceptibility
+  doi: https://doi.org/10.1101/2020.03.11.20031096
+  ref 'Zhao_et_al_2020b
+    head = In this study, we found that ABO blood groups displayed different association risks for the infection with SARS-CoV-2 resulting in COVID-19. Specifically, blood group A was associated with an increased risk whereas blood group O was associated with a decreased risk, thus demonstrating that the ABO blood type is a biomarker for differential susceptibility of COVID-19.
+
+    >>> Abstract
+      The novel coronavirus disease-2019 (COVID-19) has been spreading around the world rapidly and declared as a pandemic by WHO. Here, we compared the ABO blood group distribution in 2,173 patients with COVID-19 confirmed by SARS-CoV-2 test from three hospitals in Wuhan and Shenzhen, China with that in normal people from the corresponding regions. The results showed that blood group A was associated with a higher risk for acquiring COVID-19 compared with non-A blood groups, whereas blood group O was associated with a lower risk for the infection compared with non-O blood groups. This is the first observation of an association between the ABO blood type and COVID-19. It should be emphasized, however, that this is an early study with limitations. It would be premature to use this study to guide clinical practice at this time, but it should encourage further investigation of the relationship between the ABO blood group and the COVID-19 susceptibility.
+
+
+    # / March, 2020 - medRxiv
+    # let !a self assert =
+
+  # Entry - Antibody - Frontiers
+  // Molecular Mechanism for Antibody-Dependent Enhancement of Coronavirus Entry
+  doi: https://doi.org/10.1128/JVI.02015-19
+  ref 'Wan_et_al_2019
+    head = We first demonstrated that a MERS-CoV RBD-specific neutralizing MAb binds to the RBD region of MERS-CoV spike and further showed that the MAb mediates MERS-CoV pseudovirus entry into Fc receptor-expressing human cells. Moreover, a SARS-CoV RBD-specific neutralizing MAb mediates ADE of SARS-CoV pseudovirus entry. These results demonstrated that ADE of coronaviruses is mediated by neutralizing MAbs that target the RBD of coronavirus spikes.
+
+    >>>
+      Antibody-dependent enhancement (ADE) of viral entry has been a major concern for epidemiology, vaccine development, and antibody-based drug therapy. However, the molecular mechanism behind ADE is still elusive. Coronavirus spike protein mediates viral entry into cells by first binding to a receptor on the host cell surface and then fusing viral and host membranes. In this study, we investigated how a neutralizing monoclonal antibody (MAb), which targets the receptor-binding domain (RBD) of Middle East respiratory syndrome (MERS) coronavirus spike, mediates viral entry using pseudovirus entry and biochemical assays. Our results showed that MAb binds to the virus surface spike, allowing it to undergo conformational changes and become prone to proteolytic activation. Meanwhile, MAb binds to cell surface IgG Fc receptor, guiding viral entry through canonical viral-receptor-dependent pathways. Our data suggest that the antibody/Fc-receptor complex functionally mimics viral receptor in mediating viral entry. Moreover, we characterized MAb dosages in viral-receptor-dependent, Fc-receptor-dependent, and both-receptors-dependent viral entry pathways, delineating guidelines on MAb usages in treating viral infections. Our study reveals a novel molecular mechanism for antibody-enhanced viral entry and can guide future vaccination and antiviral strategies.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / Dec, 2019 - American Society for Microbiology Journals
+    let !a self assert =  In addition, the same coronavirus strains that led to the production of fully neutralizing MAbs can be mediated to go through ADE by these neutralizing MAbs. Our results differ from previously observed ADE of flaviviruses in which primary infections and secondary infections are caused by two different viral strains and in which ADE-mediating MAbs are only subneutralizing or nonneutralizing for secondary viral infections.
+
+    / Dec, 2019 - American Society for Microbiology Journals
+    let !b self assert = We showed that the MAb binds to the tip of MERS-CoV spike trimer, where the RBD is located. MAb binding likely stabilizes the RBD in the standing-up position, triggers a conformational change of MERS-CoV spike, and exposes the previously inaccessible S2′ site to proteases.
+
+    / Dec, 2019 - American Society for Microbiology Journals
+    let !c self assert = SARS-CoV RBD-specific MAb (named S230) bound to the ACE2-binding region in SARS-CoV RBD, stabilized the RBD in the standing-up position, and triggered conformational changes of SARS-CoV spike.
+
+    / Dec, 2019 - American Society for Microbiology Journals
+    let !d self assert =  In order to trigger conformational changes of coronavirus spikes, MAbs need to bind to the receptor-binding region in their RBD and stabilize the RBD in the standing-up position. Moreover, our study revealed that ADE of MERS-CoV entry follows the same entry pathways as DPP4-dependent MERS-CoV entry. Specifically, proprotein convertases partially activate MERS-CoV spike.
+
+    / Dec, 2019 - American Society for Microbiology Journals
+    let !e self assert = RBD-specific neutralizing MAbs bind to the same region on coronavirus spikes as viral receptors do, trigger conformational changes of the spikes as viral receptors do, and mediate ADE through the same pathways as viral-receptor-dependent viral entry. In other words, RBD-specific neutralizing MAbs mediate ADE of coronavirus entry by functionally mimicking viral receptors.
+
+    / Dec, 2019 - American Society for Microbiology Journals
+    let !f self assert = Our findings not only reveal a novel molecular mechanism for ADE of coronaviruses but also provide general guidelines on viral vaccine design and antibody-based antiviral drug therapy. As we have shown here, RBD-specific neutralizing MAbs may mediate ADE of viruses by mimicking the functions of viral receptors. Neutralizing MAbs targeting other parts of viral spikes would be less likely to mediate ADE if they do not trigger the conformational changes of the spikes.
+
+
+
+
+
+  # Mutation, Genetic Diversity among population
+  // Global Spread of SARS-CoV-2 Subtype with Spike Protein Mutation D614G is Shaped by Human Genomic Variations that Regulate Expression of TMPRSS2 and MX1 Genes
+  doi: https://doi.org/10.1101/2020.05.04.075911
+  ref 'Bhattacharyya_et_al_2020
+    head = We performed analysis on publicly available data of RNA sequences of SARS-Cov-2 isolates to correlate pathogen evolution with disease transmission. We have shown that a particular subtype −A2a − that rose in frequency in East Asia in January 2020, has spread rapidly through the European and North American continents. The spread of A2a has been so explosive, that in 10 weeks (of February and March 2020) over 60% of humans were infected with A2a starting from only 2%. The A2a subtype acquired few mutations during the transmission, even lesser in Europe.
+
+    >>> Abstract
+      COVID-19 pandemic is a major human tragedy. Worldwide, SARS-CoV-2 has already infected over 3 million and has killed about 230,000 people. SARS-CoV-2 originated in China and, within three months, has evolved to an additional 10 subtypes. One particular subtype with a non-silent (Aspartate to Glycine) mutation at 614th position of the Spike protein (D614G) rapidly outcompeted other preexisting subtypes, including the ancestral. We assessed that D614G mutation generates an additional serine protease (Elastase) cleavage site near the S1-S2 junction of the Spike protein. We also identified that a single nucleotide deletion (delC) at a known variant site (rs35074065) in a cis-eQTL of TMPRSS2, is extremely rare in East Asians but is common in Europeans and North Americans. The delC allele facilitates entry of the 614G subtype into host cells, thus accelerating the spread of 614G subtype in Europe and North America where the delC allele is common. The delC allele at the cis-eQTL locus rs35074065 of TMPRSS2 leads to overexpression of both TMPRSS2 and a nearby gene MX1. The cis-eQTL site, rs35074065 overlaps with a transcription factor binding site of an activator (IRF1) and a repressor (IRF2). IRF1 activator can bind to variant delC allele, but IRF2 repressor fails to bind. Thus, in an individual carrying the delC allele, there is only activation, but no repression. On viral entry, IRF1 mediated upregulation of MX1 leads to neutrophil infiltration and processing of 614G mutated Spike protein by neutrophil Elastase. The simultaneous processing of 614G spike protein by TMPRSS2 and Elastase serine proteases facilitates the entry of the 614G subtype into host cells. Thus, SARS-CoV-2, particularly the 614G subtype, has spread more easily and with higher frequency to Europe and North America where the delC allele regulating expression of TMPRSS2 and MX1 host proteins is common, but not to East Asia where this allele is rare.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+
+    / May, 2020 - bioRxiv
+    let !a self assert = The A2a subtype is characterized by the D614G mutation near the S1-S2 junction on the Spike protein. D614G mutation introduces an additional cleavage site in the S protein that is specific for elastase, a serine protease, generally produced by the neutrophils. Sequential digestion at multiple sites on the S1-S2 junction of S protein is necessary for SARS-CoV-2, to enter into the host cell.
+
+    / May, 2020 - bioRxiv
+    let !b self assert = The cascade of cleavage is also dependent on the availability of host protease in the vicinity. Multiple digestions at the S1-S2 junction region produce “decoy” fragments which reduces host immune response by binding and inactivating antiviral antibodies giving the virion an advantage to overcome the first line of host defence. It has been shown that for cellular entry of SARS-CoV-2, ACE2 and TMPRSS2 are indispensable, while endosomal cysteine proteases cathepsin B and L (CatB/L) are not.
+
+    / May, 2020 - bioRxiv
+    let !c self assert = Our analysis showed that protein altering missense variants are rare (MAF < 0.01) in the genes of relevance to the infection, including ACE2, Cathepsin-L, MX1 and elastase. However, another gene of great relevance, TMPRSS2, harbors variants that are common in all global populations. Therefore, we focused on genetic variations in TMPRSS2 to explore the role of host genomic variants in modulating susceptibility to infection.
+
+    / May, 2020 - bioRxiv
+    let !d self assert = We identified lung-specific eQTL (rs35074065 [C > - (del)]) that has a major regulatory control of the expression of TMPRSS2. This eQTL showed significant allele frequency differences (high Fst) between East Asians (Median derived allele frequencies [DAF] all sub populations: 0.01; sd: 0.030) and Europeans (Median DAF: 0.44; sd: 0.04) and Americans (Median DAF: 0.27; sd: 0.06), as estimated from 29 global populations residing in these regions
+
+    / May, 2020 - bioRxiv
+    let !e self assert =  European and North American populations have high frequencies of the delC allele at rs35074065 eQTL, which is associated with increased expression of TMPRSS2.
+
+    / May, 2020 - bioRxiv
+    let !f self assert = We have also identified a non-silent damaging variant in a highly conserved SRCR domain (rs12329760; V160M) of TMPRSS2 that is present in East Asians at double the frequency (MAF=0.4) than in Europeans (MAF=0.2). The SRCR domain interacts with external pathogens and helps in positioning of the protease head towards the substrate.
+
+    / May, 2020 - bioRxiv
+    let !g self assert =  The SARS-CoV-2 A2a subtype specific D614G mutation is in a region of the S protein that is highly conserved across the coronavirus family. We predict that the V160M mutation in the host and D614G mutation in the A2a subtype will result in reduced interaction of the SRCR domain of TMPRSS2 and the S protein of the coronavirus leading to a reduction in viral entry in the host cell. High prevalence of the V160M mutation in populations of East Asia is a likely reason for the reduced spread of A2a subtype in East Asia.
+
+  # Antibody Response
+  // SARS-CoV-2 specific antibody responses in COVID-19 patients
+  doi: https://doi.org/10.1101/2020.03.18.20038059
+  ref 'Okba_et_al_2020
+    head = We developed ELISA-based assays, which were able to detect antibodies to these two proteins along with the two spike domains, S1A and RBD. Those correlated strongly with virus neutralizing antibodies detected by a PRNT assay.  Since the majority of the human population has antibodies against the four endemic human coronaviruses, it was crucial to verify the specificity of these assays to avoid false positive results.
+
+    >>> Abstract
+      A new coronavirus, SARS-CoV-2, has recently emerged to cause a human pandemic. Whereas molecular diagnostic tests were rapidly developed, serologic assays are still lacking, yet urgently needed. Validated serologic assays are important for contact tracing, identifying the viral reservoir and epidemiological studies. Here, we developed serological assays for the detection of SARS-CoV-2 neutralizing, spike- and nucleocapsid-specific antibodies. Using serum samples from patients with PCR-confirmed infections of SARS-CoV-2, other coronaviruses, or other respiratory pathogenic infections, we validated and tested various antigens in different in-house and commercial ELISAs. We demonstrate that most PCR-confirmed SARS-CoV-2 infected individuals seroconverted, as revealed by sensitive and specific in-house ELISAs. We found that commercial S1 IgG or IgA ELISAs were of lower specificity while sensitivity varied between the two, with IgA showing higher sensitivity. Overall, the validated assays described here can be instrumental for the detection of SARS-CoV-2-specific antibodies for diagnostic, seroepidemiological and vaccine evaluation studies.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+
+    / March, 2020 - Emerging Infectious Diseases
+    let !a self assert = When testing the specificity S1 or its RBD for detecting SARS-CoV-2 antibodies, none of the sera form the validation cohorts showed any reactivity; except for SARS-CoV patients sera. This - not-unexpected - cross-reactivity resulted from the high degree of similarity between the S1 and RBD of the SARS-CoV and SARS-CoV-2.
+
+    / March, 2020 - Emerging Infectious Diseases
+    let !b self assert = We made use of the high degree of similarity between the SARS-CoV and SARS-CoV-2 proteins for the development of our inhouse N ELISA, where we used SARS-CoV N (90% similar to SARSCoV-2) as an antigen. The N-ELISA could detect SARS-CoV-2-specific antibodies with high specificity and sensitivity. Using the three different validated ELISAs, we found that antibody levels were higher following the severe infection compared to the mild ones; similar findings has been reported earlier for MERS-CoV
+
+    / March, 2020 - Emerging Infectious Diseases
+    let !c self assert = We further validated beta-versions of an IgA and an IgG S1 commercial ELISA in two different labs. While the IgA-based ELISA showed higher sensitivity than the IgG-based ELISA, the opposite was true for the specificity where the IgG ELISA was more specific than the IgA ELISA.
+
+    # Immune response against covid frontiers - why some could be asymptomatic
+    / March, 2020 - Emerging Infectious Diseases
+    let !d self assert = We noted some cross reactivity in both ELISAs with serum samples from the same two HCoV-OC43 patients that cross reacted in a MERS-CoV S1 IgG ELISA despite the different antigen coated.
+
+  # Immune Response Frontiers - Why people are asymptomatic.
+  // Cross-reactive antibodies in convalescent SARS patients' sera against the emerging novel human coronavirus EMC (2012) by both immunofluorescent and neutralizing antibody tests
+  doi: https://doi.org/10.1016/j.jinf.2013.03.015
+  ref 'Chan_et_al_2013
+    head = Convalescent SARS sera may contain cross-reactive antibodies against other betacoronaviruses and confound seroprevalence study for HCoV-EMC.
+
+    >>> Objective
+      A severe acute respiratory syndrome (SARS)-like disease due to a novel betacoronavirus, human coronavirus EMC (HCoV-EMC), has emerged recently. HCoV-EMC is phylogenetically closely related to Tylonycteris-bat-coronavirus-HKU4 and Pipistrellus-bat-coronavirus-HKU5 in Hong Kong. We conducted a seroprevalence study on archived sera from 94 game-food animal handlers at a wild life market, 28 SARS patients, and 152 healthy blood donors in Southern China to assess the zoonotic potential and evidence for intrusion of HCoV-EMC and related viruses into humans.
+
+    >>> Methods
+      Anti-HCoV-EMC and anti-SARS-CoV antibodies were detected using screening indirect immunofluorescence (IF) and confirmatory neutralizing antibody tests.
+
+    >>> Results
+      Two (2.1%) animal handlers had IF antibody titer of ≥1:20 against both HCoV-EMC and SARS-CoV with neutralizing antibody titer of <1:10. No blood donor had antibody against either virus. Surprisingly, 17/28 (60.7%) of SARS patients had significant IF antibody titers with 7/28 (25%) having anti-HCoV-EMC neutralizing antibodies at low titers which significantly correlated with that of HCoV-OC43. Bioinformatics analysis demonstrated a significant B-cell epitope overlapping the heptad repeat-2 region of Spike protein. Virulence of SARS-CoV over other betacoronaviruses may boost cross-reactive neutralizing antibodies against other betacoronaviruses.
+
+    >>> Conclusion
+      Convalescent SARS sera may contain cross-reactive antibodies against other betacoronaviruses and confound seroprevalence study for HCoV-EMC.
+
+    # / Aug, 2013 - The Journal of infection
+    #  let !a self assert =
+
+
+  # Frontiers - Immune Response - why people are asymptomatic
+  // Comprehensive Serological Profiling of Human Populations Using a Synthetic Human Virome
+  doi: https://doi.org/10.1126/science.aaa0698
+  ref 'Xu_et_al_2015
+    head = We assayed over 10(8) antibody-peptide interactions in 569 humans across four continents, nearly doubling the number of previously established viral epitopes. We detected antibodies to an average of 10 viral species per person and 84 species in at least two individuals. Although rates of specific virus exposure were heterogeneous across populations, antibody responses targeted strongly conserved "public epitopes" for each virus, suggesting that they may elicit highly similar antibodies.
+
+    >>> Abstract
+      The human virome plays important roles in health and immunity. However, current methods for detecting viral infections and antiviral responses have limited throughput and coverage. Here, we present VirScan, a high-throughput method to comprehensively analyze antiviral antibodies using immunoprecipitation and massively parallel DNA sequencing of a bacteriophage library displaying proteome-wide peptides from all human viruses. We assayed over 10(8) antibody-peptide interactions in 569 humans across four continents, nearly doubling the number of previously established viral epitopes. We detected antibodies to an average of 10 viral species per person and 84 species in at least two individuals. Although rates of specific virus exposure were heterogeneous across populations, antibody responses targeted strongly conserved "public epitopes" for each virus, suggesting that they may elicit highly similar antibodies. VirScan is a powerful approach for studying interactions between the virome and the immune system.
+
+    # / June, 2015 - Science
+    # let !a self assert =
+
+  # Frontiers - Why some are Asymptomatic? , Immune Response
+  // Cytomegalovirus Infection Enhances the Immune Response to Influenza
+  doi: https://doi.org/10.1126/scitranslmed.aaa2293
+  ref 'Furman_et_al_2015
+    head = We found that CMV infection enhances the immune responses of younger adults, as it also in an inbred mouse model. The fact that it did not enhance the responses of older adults indicates that this effect requires a robust immune system, which is interesting in that it largely confines the benefits of infection to those of child-bearing age. Finally, while CMV is clearly a pathogen for immunodeficient individuals and some infants, the data presented here indicate that it is beneficial to a great many more people.
+
+
+    >>> Abstract
+      Cytomegalovirus (CMV) is a beta-herpes virus present in a latent form in most people worldwide. In immunosuppressed individuals, CMV can reactivate and cause serious clinical complications, but the effect of the latent state on healthy people remains elusive. We undertook a systems approach to understand the differences between seropositive and negative subjects and measured hundreds of immune system components from blood samples including cytokines and chemokines, immune cell phenotyping, gene expression, ex vivo cell responses to cytokine stimuli and the antibody response to seasonal influenza vaccination. As expected, we found decreased responses to vaccination and an overall down-regulation of immune components in aged individuals regardless of CMV serostatus. In contrast, CMV-infected young adults exhibited an overall up-regulation of immune components including enhanced antibody responses to influenza vaccination, increased CD8+ T cell sensitivity, and elevated levels of circulating IFN-γ compared to uninfected individuals. Experiments with young mice infected with murine CMV also showed significant protection from an influenza virus challenge compared with uninfected animals, although this effect declined with time. These data show that CMV and its murine equivalent can have a beneficial effect on the immune response of young, healthy individuals, which may explain the continued coexistence of CMV and mammals throughout their evolution.
+
+    # / April, 2015 - Sci Transl Med
+    # let !a self assert =
+
+  # Indoor, Origin
+  // Investigation and Analysis on Characteristics of a Cluster of COVID-19 Associated With Exposure in a Department Store in Tianjin
+  doi: https://doi.org/10.3760/cma.j.cn112338-20200221-00139
+  ref 'Wu_et_al_2020e
+    head = This was a cluster epidemic of COVID-19, which might be associated with the exposure in the department store. By now, the current prevention and control measures have achieved satisfied effects.
+
+    >>> Objective
+      To describe the epidemiological characteristics of a cluster of COVID-19 cases reported in Baodi district of Tianjin as of 18 February, 2020, which might be associated with the exposure in a local department store, and provide suggestions for prevention and control strategy development.
+
+    >>> Methods
+      The basic characteristics, time and area distributions, clinical manifestations, epidemiological history and transmission mode of the COVID-19 cases associated with the department store exposure were analyzed
+
+    >>> Results
+      A total of 40 COVID-19 cases were associated with the department store exposure, accounting for 75.47% of the total confirmed cases (53 cases) reported in Baodi district. The cases were mainly at the age of 60 years or older (35.00%) and farmers (40.00%). The main clinical manifestations included fever (95.00%), cough (35.00%), and diarrhea (15.00%). The proportion of confirmed severe cases was 32.50%. The incidence curve showed that the incidence peak occurred on 31 January, 2020. Among the 40 cases, 6(15.00%) were department store employees, 19 (47.50%) were customers and 15 (37.50%) were close contacts (secondary cases). The first case occurred on 21 January, 2020, this case was a department store employee who had a purchasing history at whole sale markets in other provinces and cities before the onset, and 3 employees were still on duty after symptom onsets. The median of the incubation period of customer cases was 6 days, and the median of the interval between onset and medical treatment of customer cases was 7 days.
+
+    >>> Conclusion
+      This was a cluster epidemic of COVID-19, which might be associated with the exposure in the department store. By now, the current prevention and control measures have achieved satisfied effects.
+
+    -- exports
+      !a
+
+    / April, 2020 - Chinese Journal of Epidemiology
+    let !a self assert = The first case occurred on 21 January, 2020, this case was a department store employee who had a purchasing history at whole sale markets in other provinces and cities before the onset, and 3 employees were still on duty after symptom onsets. The median of the incubation period of customer cases was 6 days, and the median of the interval between onset and medical treatment of customer cases was 7 days.
+
+  # Origin
+  // Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China
+  doi: https://doi.org/10.1001/jama.2020.1585
+  ref 'Wang_et_al_2020c
+    head = In this single-center case series of 138 hospitalized patients with confirmed NCIP in Wuhan, China, presumed hospital-related transmission of 2019-nCoV was suspected in 41% of patients, 26% of patients received ICU care, and mortality was 4.3%.
+
+    >>> Objective
+      To describe the epidemiological and clinical characteristics of NCIP.
+
+    >>> Design, setting, and participants
+      Retrospective, single-center case series of the 138 consecutive hospitalized patients with confirmed NCIP at Zhongnan Hospital of Wuhan University in Wuhan, China, from January 1 to January 28, 2020; final date of follow-up was February 3, 2020.
+
+    >>> Main outcomes and measures
+      Epidemiological, demographic, clinical, laboratory, radiological, and treatment data were collected and analyzed. Outcomes of critically ill patients and noncritically ill patients were compared. Presumed hospital-related transmission was suspected if a cluster of health professionals or hospitalized patients in the same wards became infected and a possible source of infection could be tracked.
+
+    >>> Results
+      Of 138 hospitalized patients with NCIP, the median age was 56 years (interquartile range, 42-68; range, 22-92 years) and 75 (54.3%) were men. Hospital-associated transmission was suspected as the presumed mechanism of infection for affected health professionals (40 [29%]) and hospitalized patients (17 [12.3%]). Common symptoms included fever (136 [98.6%]), fatigue (96 [69.6%]), and dry cough (82 [59.4%]). Lymphopenia (lymphocyte count, 0.8 × 109/L [interquartile range (IQR), 0.6-1.1]) occurred in 97 patients (70.3%), prolonged prothrombin time (13.0 seconds [IQR, 12.3-13.7]) in 80 patients (58%), and elevated lactate dehydrogenase (261 U/L [IQR, 182-403]) in 55 patients (39.9%). Chest computed tomographic scans showed bilateral patchy shadows or ground glass opacity in the lungs of all patients. Most patients received antiviral therapy (oseltamivir, 124 [89.9%]), and many received antibacterial therapy (moxifloxacin, 89 [64.4%]; ceftriaxone, 34 [24.6%]; azithromycin, 25 [18.1%]) and glucocorticoid therapy (62 [44.9%]). Thirty-six patients (26.1%) were transferred to the intensive care unit (ICU) because of complications, including acute respiratory distress syndrome (22 [61.1%]), arrhythmia (16 [44.4%]), and shock (11 [30.6%]). The median time from first symptom to dyspnea was 5.0 days, to hospital admission was 7.0 days, and to ARDS was 8.0 days. Patients treated in the ICU (n = 36), compared with patients not treated in the ICU (n = 102), were older (median age, 66 years vs 51 years), were more likely to have underlying comorbidities (26 [72.2%] vs 38 [37.3%]), and were more likely to have dyspnea (23 [63.9%] vs 20 [19.6%]), and anorexia (24 [66.7%] vs 31 [30.4%]). Of the 36 cases in the ICU, 4 (11.1%) received high-flow oxygen therapy, 15 (41.7%) received noninvasive ventilation, and 17 (47.2%) received invasive ventilation (4 were switched to extracorporeal membrane oxygenation). As of February 3, 47 patients (34.1%) were discharged and 6 died (overall mortality, 4.3%), but the remaining patients are still hospitalized. Among those discharged alive (n = 47), the median hospital stay was 10 days (IQR, 7.0-14.0).
+
+
+    # / Feb, 2020 - Jama
+    # let !a self assert =
+
+
+  # Indoor - Singapore Origin
+  // Investigation of three clusters of COVID-19 in Singapore: implications for surveillance and response measures
+  doi: https://doi.org/10.1016/S0140-6736(20)30528-6
+  ref 'Pung_et_al_2020
+    head = As of Feb 15, 2020, 36 cases of COVID-19 were linked epidemiologically to the first three clusters of circumscribed local transmission in Singapore. 425 close contacts were quarantined. Direct or prolonged close contact was reported among affected individuals, although indirect transmission (eg, via fomites and shared food) could not be excluded.
+
+    >>> Background
+      Three clusters of coronavirus disease 2019 (COVID-19) linked to a tour group from China, a company conference, and a church were identified in Singapore in February, 2020.
+
+    >>> Methods
+      We gathered epidemiological and clinical data from individuals with confirmed COVID-19, via interviews and inpatient medical records, and we did field investigations to assess interactions and possible modes of transmission of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Open source reports were obtained for overseas cases. We reported the median (IQR) incubation period of SARS-CoV-2.
+
+    >>> Findings
+      As of Feb 15, 2020, 36 cases of COVID-19 were linked epidemiologically to the first three clusters of circumscribed local transmission in Singapore. 425 close contacts were quarantined. Direct or prolonged close contact was reported among affected individuals, although indirect transmission (eg, via fomites and shared food) could not be excluded. The median incubation period of SARS-CoV-2 was 4 days (IQR 3–6). The serial interval between transmission pairs ranged between 3 days and 8 days.
+
+    >>> Interpretation
+      SARS-CoV-2 is transmissible in community settings, and local clusters of COVID-19 are expected in countries with high travel volume from China before the lockdown of Wuhan and institution of travel restrictions. Enhanced surveillance and contact tracing is essential to minimise the risk of widespread transmission in the community.
+
+    -- exports
+      !a
+
+    / March, 2020 - Lancet
+    let !a self assert = SARS-CoV-2 is transmissible in community settings, and local clusters of COVID-19 are expected in countries with high travel volume from China before the lockdown of Wuhan and institution of travel restrictions. Enhanced surveillance and contact tracing is essential to minimise the risk of widespread transmission in the community.
+
+
+  # Origin
+  // First Pediatric Case of Coronavirus Disease 2019 in Korea
+  doi: https://doi.org/xyz
+  ref 'Park_et_al_2020
+    head = Current epidemiologic knowledge suggests that relatively few cases are seen among children, which limits opportunities to address pediatric specific issues on infection control and the children's contribution to viral spread in the community. Here, we report the first pediatric case of COVID-19 in Korea.
+
+    >>> Abstract
+      The large outbreak of coronavirus disease 2019 (COVID-19) that started in Wuhan, China has now spread to many countries worldwide. Current epidemiologic knowledge suggests that relatively few cases are seen among children, which limits opportunities to address pediatric specific issues on infection control and the children's contribution to viral spread in the community. Here, we report the first pediatric case of COVID-19 in Korea. The 10-year-old girl was a close contact of her uncle and her mother who were confirmed to have COVID-19. In this report, we present mild clinical course of her pneumonia that did not require antiviral treatment and serial viral test results from multiple specimens. Lastly, we raise concerns on the optimal strategy of self-quarantine and patient care in a negative isolation room for children.
+
+    # / March, 2020 - J Korean Med Sci
+    # let !a self assert =
+
+  # Cruise Ship - Diamond Princess, Origin !a
+  // Public Health Responses to COVID-19 Outbreaks on Cruise Ships — Worldwide, February–March 2020
+  doi: http://dx.doi.org/10.15585/mmwr.mm6912e3
+  ref 'Moriarty_et_al_2020
+    head = Cruise ships are often settings for outbreaks of infectious diseases because of their closed environment, contact between travelers from many countries, and crew transfers between ships. On the Diamond Princess, transmission largely occurred among passengers before quarantine was implemented, whereas crew infections peaked after quarantine. On the Grand Princess, crew members were likely infected on voyage A and then transmitted SARS-CoV-2 to passengers on voyage B.
+
+    -- exports
+      !a
+
+    / March, 2020 - MMWR Morb Mortal Wkly Rep
+    let !a self assert = During the initial stages of the COVID-19 pandemic, the Diamond Princess was the setting of the largest outbreak outside mainland China. Many other cruise ships have since been implicated in SARS-CoV-2 transmission. Factors that facilitate spread on cruise ships might include mingling of travelers from multiple geographic regions and the closed nature of a cruise ship environment.
+
+  # Indoor tranmission - Care facilities
+  // Epidemiology of Covid-19 in a Long-Term Care Facility in King County, Washington
+  doi: https://doi.org/10.1056/NEJMoa2005412
+  ref 'Mcmichael_et_al_2020
+    head = In total, 167 confirmed cases of Covid-19 had been identified among residents, personnel, and visitors as of March 18, and 30 skilled nursing and assisted living facilities in King County had identified at least one confirmed case of Covid-19. Staff working in multiple facilities while ill and transfers of patients from one facility to another potentially introduced Covid-19 into some of these facilities.
+
+    >>> Background
+      Long-term care facilities are high-risk settings for severe outcomes from outbreaks of Covid-19, owing to both the advanced age and frequent chronic underlying health conditions of the residents and the movement of health care personnel among facilities in a region.
+
+    >>> Methods
+      After identification on February 28, 2020, of a confirmed case of Covid-19 in a skilled nursing facility in King County, Washington, Public Health–Seattle and King County, aided by the Centers for Disease Control and Prevention, launched a case investigation, contact tracing, quarantine of exposed persons, isolation of confirmed and suspected cases, and on-site enhancement of infection prevention and control.
+
+    >>> Results
+      As of March 18, a total of 167 confirmed cases of Covid-19 affecting 101 residents, 50 health care personnel, and 16 visitors were found to be epidemiologically linked to the facility. Most cases among residents included respiratory illness consistent with Covid-19; however, in 7 residents no symptoms were documented. Hospitalization rates for facility residents, visitors, and staff were 54.5%, 50.0%, and 6.0%, respectively. The case fatality rate for residents was 33.7% (34 of 101). As of March 18, a total of 30 long-term care facilities with at least one confirmed case of Covid-19 had been identified in King County.
+
+    >>> Conclusion
+      In the context of rapidly escalating Covid-19 outbreaks, proactive steps by long-term care facilities to identify and exclude potentially infected staff and visitors, actively monitor for potentially infected patients, and implement appropriate infection prevention and control measures are needed to prevent the introduction of Covid-19.
+
+    -- exports
+      !a
+
+    / May, 2020 - NEJM
+    let !a self assert = The experience described here indicates that outbreaks of Covid-19 in long-term care facilities can have a considerable impact on vulnerable older adults and local health care systems. The findings also suggest that once Covid-19 has been introduced into a long-term care facility, it has the potential to spread rapidly and widely.
+
+
+
+  # Indoor , Familial
+  // Alert for non‐respiratory symptoms of Coronavirus Disease 2019 (COVID‐19) patients in epidemic period: A case report of familial cluster with three asymptomatic COVID‐19 patients
+  doi: https://doi.org/10.1002/jmv.25776
+  ref 'Lu_et_al_2020b
+    head = This case report of familial cluster highlighted the importance of rigorous epidemiological investigation again. The first patient in this familial cluster developed urticaria but without respiratory symptoms and fever. The rash gradually subsided after treatment in our dermatology department. When this urticaria patient came to the hospital for further consultation, our disease control expert repeatedly verified the epidemiological investigation records, and finally found suspicious clues from the close contacts with this patient.
+
+    >>> Abstract
+      At present, Coronavirus Disease 2019 (COVID‐19) is rampaging around the world. However, asymptomatic carriers intensified the difficulty of prevention and management. Here we reported the screening, clinical feathers, and treatment process of a family cluster involving three COVID‐19 patients. The discovery of the first asymptomatic carrier in this family cluster depends on the repeated and comprehensive epidemiological investigation by disease control experts. In addition, the combination of multiple detection methods can help clinicians find asymptomatic carriers as early as possible. In conclusion, the prevention and control experience of this family cluster showed that comprehensive rigorous epidemiological investigation and combination of multiple detection methods were of great value for the detection of hidden asymptomatic carriers.
+
+    # / March, 2020 - Jounral of medical virology
+    # let !a self assert =
+
+  # Origin - Indoor Tranmission
+  // Analysis on Cluster Cases of COVID-19 in Tianjin
+  doi: https://doi.org/10.3760/cma.j.cn112338-20200225-00165
+  ref 'Liu_et_al_2020h
+    head = Total of 115 COVID-19 cases were reported in in 33 clusters in Tianjin. Clusters can be classified as following: 28 familial clusters (71 cases), 1 work place cluster (10 cases), 3 transport vehicle clusters (8 cases) and 1 public place cluster (26 cases). Fourteen familial clusters were caused by the cases from the working place or public place clusters. Numbers of secondary cases of family clusters were 1-7, the median number was 7.The interval from onset to diagnosis for the first case was longer than those of other cases in the familial clusters (Z=-2.406, P= 0.016).
+
+
+    >>> Objective
+      To understand the characteristics of clusters of COVID-19 cases in Tianjin, and provide epidemiological evidence for the prevention and control of COVID-19.
+
+    >>> Methods
+      The data of all the cluster cases of COVID-19 in Tianjin reported as 22 February 2020 were collected to analyze the characteristics of different types of the clusters.
+
+    >>> Results
+       Total of 115 COVID-19 cases were reported in in 33 clusters in Tianjin. Clusters can be classified as following: 28 familial clusters (71 cases), 1 work place cluster (10 cases), 3 transport vehicle clusters (8 cases) and 1 public place cluster (26 cases). Fourteen familial clusters were caused by the cases from the working place or public place clusters. Numbers of secondary cases of family clusters were 1-7, the median number was 7.The interval from onset to diagnosis for the first case was longer than those of other cases in the familial clusters (Z=-2.406, P= 0.016). The median of incubation period of the public place clusters was 2 days. The intervals from onset to diagnosis were significant different among the family, working place and public place clusters (H=8.843, , P=0.012) , and there were also significant differences in onset time among the secondary cases (H=16.607, P=0.000) .
+
+    >>> Conclusion
+       In the surveillance of COVID-19 epidemic, special attention should be paid to the cases from same family, same work place, or other places where clustering are prone to occur, and the epidemiological investigation should be carried out timely to confirm the cluster. To prevent the transmission of COVID-19, the close contacts of the patients should be transferred to an assigned observation place in time for single room isolation. The awareness of COVID-19 prevention is low in some rural areas, reflected by many mass gathering activities and delayed medical care seeking after onset. It is necessary to strengthen the health education and take control measures in early period of epidemic.
+
+    # / March, 2020 - Annals of the New York Academy of Sciences
+    # let !a self assert =
+
+  # Orign - Country specific cases
+  // Global epidemiology of coronavirus disease 2019 (COVID-19): disease incidence, daily cumulative index, mortality, and their association with country healthcare resources and economic status
+  doi: https://doi.org/10.1016/j.ijantimicag.2020.105946
+  ref 'Lai_et_al_2020
+    head = Although China had higher morbidity and mortality rates than other sites, the number of daily new cases has been lower in China than outside of China since 26 February 2020. Seven countries had a DCI of >5 cases per day, but the DCI of the other fifty countries/territories was <4 cases per day. The incidence and mortality rates were correlated with DCI, especially in countries with local transmission.
+
+    >>> Abstract
+      It has been 2 months since the first case of coronavirus disease 2019 (COVID-19) was reported in Wuhan, China. So far, COVID-19 has affected 85 403 patients in 57 countries/territories and has caused 2924 deaths in 9 countries. However, epidemiological data differ between countries. Although China had higher morbidity and mortality than other sites, the number of new daily cases in China has been lower than outside of China since 26 February 2020. The incidence ranged from 61.44 per 1 000 000 people in the Republic of Korea to 0.0002 per 1 000 000 people in India. The daily cumulative index (DCI) of COVID-19 (cumulative cases/no. of days between the first reported case and 29 February 2020) was greatest in China (1320.85), followed by the Republic of Korea (78.78), Iran (43.11) and Italy (30.62). However, the DCIs in other countries/territories were <10 per day. Several effective measures including restricting travel from China, controlling the distribution of masks, extensive investigation of COVID-19 spread, and once-daily press conferences by the government to inform and educate people were aggressively conducted in Taiwan. This is probably the reason why there was only 39 cases (as of 29 February 2020) with a DCI of 1 case per day in Taiwan, which is much lower than that of nearby countries such as the Republic of Korea and Japan. In addition, the incidence and mortality were correlated with the DCI. However, further study and continued monitoring are needed to better understand the underlying mechanism of COVID-19.
+
+    # / April, 2020 - International Journal of Antimicrobial Agents
+    # let !a self assert =
+
+  # Indoor Tranmission
+  // Secondary attack rate and superspreading events for SARS-CoV-2
+  doi: https://doi.org/10.1016/S0140-6736(20)30462-1
+  ref 'Liu_et_al_2020g
+    head = An infection with a high household SAR but a modest R0 would therefore suggest transmission is driven by a relatively small number of high-risk contacts. A large household SAR further suggests that between-household transmission risk is lower; otherwise the observed R0 would be larger.
+
+    -- exports
+      !a
+
+    / Feb, 2020 - Lancet
+    let !a self assert = Drawing on data from nine recent reports of secondary transmission associated with a specific event such as a meal or holiday visit, we estimated 48 secondary infections occurred among 137 attendees. Assuming that all these secondary infections were generated by a single primary case, which is probable given the short-term nature of the exposure events, would imply a SAR among close contacts of 35% (95% CI 27–44).
+
+  # Indoor Tranmission
+  // Transmission of COVID-19 in the Terminal Stage of Incubation Period: A Familial Cluster
+  doi: https://doi.org/10.1016/j.ijid.2020.03.027
+  ref 'Peng-Li_et_al_2020
+    head = Five family members had close contact with the first patient during his incubation period, four of them were confirmed to the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection in the subsequent sampling test.
+
+    # / March, 2020 - Int J Infect Dis
+    # let !a self assert =
+
+
+  # Origin, Indoor tranmission
+  // Clinical features of pediatric patients with COVID-19: a report of two family cluster cases
+  doi: https://doi.org/10.1007/s12519-020-00356-2
+  ref 'Ji_et_al_2020
+    head = Pediatric patients with COVID-19 are mostly from family cluster with clear travel histories to Hubei Province, the epicenter of the outbreak. Close contact in the family is the main transmission way of infection in children. Pediatric patients may present as asymptomatic or only with mild symptoms of respiratory or gastrointestinal system with normal chest CT images, and thus easily be missed.
+
+    # / March, 2020 - World J Pediatr
+    # let !a self assert =
+
+  # Diagnostics (severity) , CytokineStorms, Complications Lymphopenia?
+  // Longitudinal characteristics of lymphocyte responses and cytokine profiles in the peripheral blood of SARS-CoV-2 infected patients
+  doi: https://doi.org/10.1101/2020.02.16.20023671
+  ref 'Liu_et_al_2020f
+    head = The degree of lymphopenia and a pro inflammatory cytokine storm is higher in severe COVID-19 patients than in mild cases, and is associated with the disease severity. N8R may serve as a useful prognostic factor for early identification of severe COVID-19 cases.
+
+    >>> Background
+      The dynamic changes of lymphocyte subsets and cytokines profiles of patients with novel coronavirus disease (COVID-19) and their correlation with the disease severity remain unclear. Method: Peripheral blood samples were longitudinally collected from 40 confirmed COVID-19 patients and examined for lymphocyte subsets by flow cytometry and cytokine profiles by specific immunoassays.
+
+    >>> Findings
+      Of the 40 COVID-19 patients enrolled, 13 severe cases showed significant and sustained decreases in lymphocyte counts but increases in neutrophil counts than 27 mild cases. Further analysis demonstrated significant decreases in the counts of T cells, especially CD8 + T cells, as well as increases in IL-6, IL-10, IL-2 and IFN-γ levels in the peripheral blood in the severe cases compared to those in the mild cases. T cell counts and cytokine levels in severe COVID-19 patients who survived the disease gradually recovered at later time points to levels that were comparable to those of the mild cases. Moreover, the neutrophil-to-CD8+ T cell ratio (N8R) were identified as the most powerful prognostic factor affecting the prognosis for severe COVID-19.
+
+    >>> Conclusion
+      The degree of lymphopenia and a proinflammatory cytokine storm is higher in severe COVID-19 patients than in mild cases, and is associated with the disease severity. N8R may serve as a useful prognostic factor for early identification of severe COVID-19 cases.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+
+    # CytokineStorms
+    / Feb, 2020 -
+    let !a self assert = Recent reports show that the lymphocyte counts are normal in COVID-19 patients with mild diseases. In contrast, 63%-70.3% of patients with severe diseases have lymphopenia and the lymphocyte counts in patients with a mortal outcome remain at a low level. Our study also confirmed higher rates of developing lymphopenia in severe patients than in mild patients (84.6% vs 44.4%).
+
+    / Feb, 2020 -
+    let !b self assert =  We found that the development of lymphopenia in severe patients was mainly related to the significantly decreased absolute counts of T cells, especially CD8+ T cells, but not to B cells and NK cells. The decrease of T cells in the severe patient group reaches its peak within the first week during the disease course, and then T cell numbers gradually increase from the second week and recover to a comparable level to that of the mild patient group in the third week. All these severe patients included in our study survived the disease, and thus we speculate this course is associated with a favorable outcome in severe COVID-19 patients.
+
+    / Feb, 2020 -
+    let !c self assert = Previous researches on SARS-CoV and MERS-CoV infections have demonstrated the correlation between T cell counts and the severity of the diseases, as well as explored the possible mechanisms. It has been shown that the acute SARS-CoV infection was associated with marked lymphopenia in about 80% of patients, including a dramatic loss of both CD4+ and CD8+  T cells in comparison with healthy control individuals. Decreases in T cell numbers are strongly correlated with the severity of acute phase of SARS disease in patients.  Lymphopenia is also observed in MERS-CoV infected patients.
+
+    / Feb, 2020 -
+    let !d self assert = It remains unclear whether SARS-CoV-2 induced T cell contraction is the result of a direct T cell infection or an indirect effect cause by the virus, such as APC function disorder or overactive inflammatory responses.
+
+  # Timeline - Epidemic
+  // MRCA time and epidemic dynamics of the 2019 novel coronavirus
+  doi: https://doi.org/10.1101/2020.01.25.919688
+  ref 'Zhang_et_al_2020i
+    head = We employed a Bayesian framework to infer the time-calibrated phylogeny and the epidemic dynamics represented by the effective reproductive number (Re) changing over time from 33 genomic sequences available from GISAID. The time of the most recent common ancestor (MRCA) was December 17, 2019 (95% HPD: December 7, 2019 – December 23, 2019). The median estimate of Re shifted from 1.6 to 1.1 on around January 1, 2020. This study provides an early insight of the 2019-nCoV epidemic. However, due to limited amount of data, one should be cautious when interpreting the results at this stage.
+
+    >>> Abstract
+      The 2019 novel coronavirus (2019-nCoV) have emerged from Wuhan, China. Studying the epidemic dynamics is crucial for further surveillance and control of the outbreak. We employed a Bayesian framework to infer the time-calibrated phylogeny and the epidemic dynamics represented by the effective reproductive number (Re) changing over time from 33 genomic sequences available from GISAID. The time of the most recent common ancestor (MRCA) was December 17, 2019 (95% HPD: December 7, 2019 – December 23, 2019). The median estimate of Re shifted from 1.6 to 1.1 on around January 1, 2020. This study provides an early insight of the 2019-nCoV epidemic. However, due to limited amount of data, one should be cautious when interpreting the results at this stage.
+
+    # / Feb, 2020 - bioRxiv
+    # let !a self assert =
+
+  # AsymptomaticPhase
+  // Estimation of the asymptomatic ratio of novel coronavirus infections (COVID-19)
+  doi: https://doi.org/10.1101/2020.02.03.20020248
+  ref 'Nishiura_et_al_2020
+    head =  Despite a small sample size, our estimation indicates that perhaps nearly a half of COVID-19-infected individuals are asymptomatic. This ratio is slightly smaller than that of influenza, which was estimated at 56–80% (Hsieh et al., 2014) using similar definitions for symptomatic individuals. There is great need for further studies on the prevalence of asymptomatic COVID-19 infections to guide epidemic control efforts.
+
+    >>> Abstract
+      A total of 565 Japanese citizens were evacuated from Wuhan, China to Japan. All passengers were screened for symptoms and also undertook reverse transcription polymerase chain reaction testing, identifying 5 asymptomatic and 7 symptomatic passengers testing positive for 2019-nCoV. We show that the screening result is suggestive of the asymptomatic ratio at 41.6%.
+
+    # / Feb, 2020 - medRxiv
+    # let !a self assert =
+
+  # Asymtomaticphase
+  // Estimating the Asymptomatic Proportion of 2019 Novel Coronavirus onboard the Princess Cruises Ship, 2020
+  doi: https://doi.org/10.1101/2020.02.20.20025866
+  ref 'Mizumoto_et_al_2020
+    head = Our estimated asymptomatic proportion is at 17.9% (95% CrI: 15.5%–20.2%), which overlaps with a recently derived estimate of 33.3% (95% CI: 8.3%–58.3%) from data of Japanese citizens evacuated from Wuhan. Considering the similarity in viral loads and the high possibility of potent transmission potential, the high proportion of asymptomatic infections has significant public health implications.
+
+    >>> Abstract
+      The potential infectiousness of asymptomatic COVID-19 cases together with a substantial fraction of asymptomatic infections among all infections, have been highlighted in clinical studies. We conducted statistical modeling analysis to derive the delay-adjusted asymptomatic proportion of the positive COVID-19 infections onboard the Princess Cruises ship along with the timeline of infections. We estimated the asymptomatic proportion at 17.9% (95% CrI: 15.5%-20.2%), with most of the infections occurring before the start of the 2-week quarantine.
+
+
+    # / March, 2020 - medRxiv
+    # let !a self assert =
+
+  # Diagnostic, Shedding
+  // Evaluating the accuracy of different respiratory specimens in the laboratory diagnosis and monitoring the viral shedding of 2019-nCoV infections
+  doi: https://doi.org/10.1101/2020.02.11.20021493
+  ref 'Yang_et_al_2020
+    head = Viral RNAs could be detected in all the lower respiratory tract of severe cases, but not the mild cases. CT scan of cases 02, 07 and 13 showed typical viral pneumonia with ground glass opacity, while no viral RNAs were detected in first three or all the upper respiratory samples.
+
+    >>> Methods:
+      Respiratory samples including nasal swabs, throat swabs, sputum and bronchoalveolar lavage fluid (BALF) were collected from Guangdong CDC confirmed NCP patients, and viral RNAs were detected using a CFDA approved detection kit. Results were analyzed in combination with sample collection date and clinical information
+    >>> Finding:
+      Except for BALF, the sputum possessed the highest positive rate (74.4%~88.9%), followed by nasal swabs (53.6%~73.3%) for both severe and mild cases during the first 14 days after illness onset (d.a.o). For samples collected ≥ 15 d.a.o, sputum and nasal swabs still possessed a high positive rate ranging from 42.9%~61.1%. The positive rate of throat swabs collected ≥ 8 d.a.o was low, especially in samples from mild cases. Viral RNAs could be detected in all the lower respiratory tract of severe cases, but not the mild cases. CT scan of cases 02, 07 and 13 showed typical viral pneumonia with ground glass opacity, while no viral RNAs were detected in first three or all the upper respiratory samples.
+    >>> Interpretation:
+      Sputum is most accurate for laboratory diagnosis of NCP, followed by nasal swabs. Detection of viral RNAs in BLAF is necessary for diagnosis and monitoring of viruses in severe cases. CT scan could serve as an important make up for the diagnosis of NCP.
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / Feb, 2020 - medRxiv
+    let !a self assert = The positive rate of throat swab varied in the severe and mild cases. For the severe cases, the positive rates were similar in samples collected 0~7 and 8~14 d.a.o, while low in samples collected ≥ 15 d.a.o. For the mild cases, it showed the highest positive rate in samples collected 0~7 d.a.o, however, very low positive rate in samples collected 8~14 and ≥15 d.a.o. The results indicate that sputum may serve as the most sensitive samples for the virus detection, and followed by nasal swabs.
+
+    / Feb, 2020 - medRxiv
+    let !b self assert = As a result, nasal swabs may be the most widely applicable samples for virus detection. On the contrary, throat swabs were not recommended for the viruses detection, especially the samples collected 8~14 and ≥ 15 d.a.o from mild cases, which may result in a large proportion of false negative results.
+
+    / Feb, 2020 - medRxiv
+    let !c self assert = Although the sample size was small, it also suggests that the viral distribution is associated with diseases severity. More importantly, why the viruses in some individuals retained in the upper respiratory tract merits further elucidation.
+
+  # Structure.. Add image? Review the Assertions again
+  // Structure of the RNA-dependent RNA polymerase from COVID-19 virus
+  doi: https://doi.org/10.1126/science.abb7498
+  ref 'Gao_et_al_2020b
+    head = The structure of the COVID-19 virus nsp12 contains a right-hand RdRp domain (residues S367 to F920) and a nidovirus-specific N-terminal extension domain (residues D60 to R249) that adopts a nidovirus RdRp-associated nucleotidyltransferase (NiRAN) (10) architecture.
+
+    >>> Abstract
+      A novel coronavirus [severe acute respiratory syndrome–coronavirus 2 (SARS-CoV-2)] outbreak has caused a global coronavirus disease 2019 (COVID-19) pandemic, resulting in tens of thousands of infections and thousands of deaths worldwide. The RNA-dependent RNA polymerase [(RdRp), also named nsp12] is the central component of coronaviral replication and transcription machinery, and it appears to be a primary target for the antiviral drug remdesivir. We report the cryo–electron microscopy structure of COVID-19 virus full-length nsp12 in complex with cofactors nsp7 and nsp8 at 2.9-angstrom resolution. In addition to the conserved architecture of the polymerase core of the viral polymerase family, nsp12 possesses a newly identified β-hairpin domain at its N terminus. A comparative analysis model shows how remdesivir binds to this polymerase. The structure provides a basis for the design of new antiviral therapeutics that target viral RdRp.
+
+    -- exports
+      !a
+      !b
+
+    / April, 2020 - Science
+    let !a self assert = The polymerase domain and NiRAN domain are connected by an interface domain (residues A250 to R365). An additional N-terminal β hairpin (residues D29 to K50), built with the guidance of an unambiguous cryo-EM map, inserts into the groove clamped by the NiRAN domain and the palm subdomain in the RdRp domain.
+
+    / April, 2020 - Science
+    let !b self assert = The nsp7-nsp8 pair shows a conserved structure similar to that of the SARS-CoV nsp7-nsp8 pair. The orientation of the N-terminal helix of the separate nsp8 monomer bound to nsp12 is shifted compared with that in the nsp7-nsp8 pair. The 13 additional amino acid residues resolved at the N-terminal of nsp8 show that the long shaft of its well-known golf club shape is bent.
+
+
+  # Shedding
+  // SARS-CoV-2 shedding and infectivity
+  doi: https://doi.org/10.1016/S0140-6736(20)30868-0
+  ref 'Atkinson_et_al_2020
+    head = Viral RNA can be detected long after the disappearance of infectious virus. With measles virus, viral RNA can still be detected 6–8 weeks after the clearance of infectious virus.  The immune system can neutralise viruses by lysing their envelope or aggregating virus particles; these processes prevent subsequent infection but do not eliminate nucleic acid, which degrades slowly over time.
+
+    # / April, 2020 - Lancet
+    # let !a self assert =
+
+  # Projection - Public Policy
+  // Modelling COVID-19
+  doi: https://doi.org/10.1038/s42254-020-0178-4
+  ref 'Vespignani_et_al_2020
+    head = As the COVID-19 pandemic continues, mathematical epidemiologists share their views on what models reveal about how the disease has spread, the current state of play and what work still needs to be done.
+
+    -- Early containment measures in China
+      !a
+      !b
+      !c
+    -- Superspreading
+      !d
+      !e
+    -- Contact Tracing and Isolation
+      !f
+    -- Antibody Testing
+      !g
+      !h
+
+    # Early Mitigation/Contaiment in China
+    / May, 2020 - Nat Rev Phys
+    let !a self assert = We took two approaches to the analysis. The first exploited natural variation in the distribution of COVID-19 cases, and in the type and timing of interventions. On the basis of statistical tests of association carried out with general linear models, we found that the unprecedented Wuhan city travel ban (affecting 11 million people) slowed the dispersal of infection to other cities by 3 days, delaying epidemic growth elsewhere in China.
+
+    / May, 2020 - Nat Rev Phys
+    let !b self assert = We found, too, that Chinese cities that pre-emptively implemented control measures — such as suspending intra-city public transport, closing entertainment venues and banning public gatherings — reported in the first week of their outbreaks one-third fewer cases than cities that started control later.
+
+    / May, 2020 - Nat Rev Phys
+    let !c self assert = Our second approach to analysis built these findings into a dynamic mathematical model, from which we calculated that China’s national emergency response prevented hundreds of thousands of cases that we otherwise expected to see during the first 50 days of the epidemic.
+
+    # Superspreader
+    / May, 2020 - Nat Rev Phys
+    let !d self assert = The average transmissibility of a pathogen is quantified by its basic reproduction number, R0, which is a bedrock concept in infectious disease dynamics. Yet biological, social and environmental factors — aided by a good dose of happenstance — give rise to significant individual variation around this average.
+
+    / May, 2020 - Nat Rev Phys
+    let !e self assert = Mathematically, for a given R0, a pathogen with more superspreaders must also have more infected individuals who do not contribute to onward spread. Such individual variation makes transmission chains more likely to die out, and outbreaks rarer but more explosive, than if every case was an average transmitter. This variation matters most when case numbers are small as countries try to prevent establishment of community transmission.
+
+    # Contact Tracing and Isolation
+    / May, 2020 - Nat Rev Phys
+    let !f self assert = Our group recently modelled a classical intervention against infectious diseases: contact tracing and isolation, in which the contacts of known cases are found, and, if they show symptoms, are isolated quickly. Doing so therefore decreases the average number of new infections that each infected person creates, a quantity modellers call the reproduction number. By developing a model for this system, we were able to determine what fraction of a case’s contacts must be found and isolated to control a new outbreak, based on the best-possible information on transmission and disease available at that time.
+
+    # Antibody test
+    / May, 2020 - Nat Rev Phys
+    let !g self assert =  Integrating seroepidemiological data into transmission models can greatly reduce the uncertainty in the parameter estimates of clinical severity and transmission dynamics. At the time of writing, serological tests for COVID-19 are being developed and validated. Long-term longitudinal serological follow-up of recovered individuals is crucial for characterizing the underlying immunodynamics. For instance, it can reveal the strength and duration of protective immunity and thus the probability of reinfection.
+
+    / May, 2020 - Nat Rev Phys
+    let !h self assert = Large-scale serosurveys should be conducted regularly and prospectively planned over the course of the different waves of the pandemic and beyond to provide serological data from different age groups.
+
+
+
+  # Aerosol
+  // COVID-19 Outbreak Associated with Air Conditioning in Restaurant, Guangzhou, China, 2020
+  doi: https://doi.org/10.3201/eid2607.200764
+  ref 'Lu_et_al_2020
+    head = Virus-laden small (<5 μm) aerosolized droplets can remain in the air and travel long distances, >1 m. Potential aerosol transmission of severe acute respiratory syndrome and Middle East respiratory syndrome viruses has been reported. However, none of the staff or other diners in restaurant X were infected. Moreover, the smear samples from the air conditioner were all nucleotide negative. This finding is less consistent with aerosol transmission. However, aerosols would tend to follow the airflow, and the lower concentrations of aerosols at greater distances might have been insufficient to cause infection in other parts of the restaurant.
+
+    >>> Abstract
+      During January 26–February 10, 2020, an outbreak of 2019 novel coronavirus disease in an air-conditioned restaurant in Guangzhou, China, involved 3 family clusters. The airflow direction was consistent with droplet transmission. To prevent the spread of the virus in restaurants, we recommend increasing the distance between tables and improving ventilation.
+
+
+    # scheduled for july release
+    # / May, 2020 - Emerging Infect Dis.
+    # let !a self assert =
+
+  # Frontiers - Protease
+  // SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor
+  doi: https://doi.org/10.1016/j.cell.2020.02.052
+  ref 'Hoffmann_et_al_2020
+    head = The present study provides evidence that host cell entry of SARSCoV-2 depends on the SARS-CoV receptor ACE2 and can be blocked by a clinically proven inhibitor of the cellular serine protease TMPRSS2, which is employed by SARS-CoV-2 for S protein priming. Moreover, it suggests that antibody responses raised against SARS-CoV could at least partially protect against SARSCoV-2 infection.
+
+    >>> Abstract
+      The recent emergence of the novel, pathogenic SARS-coronavirus 2 (SARS-CoV-2) in China and its rapid national and international spread pose a global health emergency. Cell entry of coronaviruses depends on binding of the viral spike (S) proteins to cellular receptors and on S protein priming by host cell proteases. Unravelling which cellular factors are used by SARS-CoV-2 for entry might provide insights into viral transmission and reveal therapeutic targets. Here, we demonstrate that SARS-CoV-2 uses the SARS-CoV receptor ACE2 for entry and the serine protease TMPRSS2 for S protein priming. A TMPRSS2 inhibitor approved for clinical use blocked entry and might constitute a treatment option. Finally, we show that the sera from convalescent SARS patients cross-neutralized SARS-2- S-driven entry. Our results reveal important commonalities between SARS-CoV-2 and SARS-CoV infection and identify a potential target for antiviral intervention.
+
+    # / April, 2020 - Cell
+    # let !a self assert =
+
+  # Gene expression
+  // Antibody repertoire and gene expression dynamics of diverse human B cell states during affinity maturation.
+  doi:  https://doi.org/10.1101/2020.04.28.054775
+  ref 'King_et_al_2020
+    head =  By combining bulk antibody repertoire analysis with single-cell transcriptomics we have generated a detailed resource of the human GC response in a model secondary lymphoid tissue. This allowed us to define gene expression signatures of known and novel B cell states, most notably a population primed to undergo class switch recombination before entering the GC reaction. Whether a B cell undergoes class switch recombination at this stage then influences their capacity to undergo antibody-based selection within the GC and secondary activation as MBCs.
+
+    >>> Abstract
+      In response to antigen challenge, B cells clonally expand, undergo selection and differentiate to produce mature B cell subsets and high affinity antibodies. However, the interplay between dynamic B cell states and their antibody-based selection is challenging to decipher in primary human tissue. We have applied an integrated analysis of bulk and single-cell antibody repertoires paired with single-cell transcriptomics of human B cells undergoing affinity maturation. We define unique gene expression and antibody repertoires of known and novel B cell states, including a pre-germinal centre state primed to undergo class switch recombination. We dissect antibody class-dependent gene expression of germinal centre and memory B cells to find that class switching prior to germinal centre entry dictates the capacity of B cells to undergo antibody-based selection and differentiate. Together, our analyses provide unprecedented resolution into the gene expression and selection dynamics that shape B cell-mediated immunity.
+
+    -- exports
+      !a
+
+    / April, 2020 - bioRxiv
+    let !a self assert = We have used pseudotemporal ordering to map the gene expression dynamics of both the early stages of B cell activation that correspond to antigen-dependent signalling through the BCR and the subsequent transition to a transcriptionally distinct preGC state, the latter of which is presumably under the regulation of cognate antigen-specific T helper cells.
+
+  # Projection
+  // Antibody testing will enhance the power and accuracy of COVID-19-prevention trials
+  doi: https://doi.org/10.1038/s41591-020-0887-3
+  ref 'Lipsitch_et_al_2020
+    head = While accurate serological tests are still in development, trialists have a window of opportunity for obtaining blood from trial participants and banking it in anticipation of having such tests in the near future. It is essential that this opportunity be taken in order to maximize the scientific value of the information that these trials provide.
+
+    >>> Abstract
+      Researchers starting clinical trials of prevention measures for COVID-19 have a unique window of opportunity for collecting blood from the participants, at baseline and at the end of the trial, to be able to incorporate critical data into their analysis once serological tests for the causative coronavirus become available.
+
+
+    # / April, 2020 -  Nat Med
+    #  let !a self assert =
+
+  # Entry to host, Temperature Dependency
+  // Disparate temperature-dependent virus – host dynamics for SARS-CoV-2 and SARS-CoV in the human respiratory epithelium
+  doi: https://doi.org/10.1101/2020.04.27.062315
+  ref 'Vkovski_et_al_2020
+    head = SARS-CoV-2, in contrast to SARS-CoV, replicated more efficiently at temperatures encountered in the upper respiratory tract, and displayed higher sensitivity to type I and type III IFNs than SARS-CoV. Time-resolved transcriptome analysis highlighted a temperature-dependent induction of IFN-mediated antiviral response, whose amplitude inversely correlated with the replication kinetic efficiencies of both SARS-CoV-2 and SARS-CoV at temperatures found in the upper and lower respiratory tract.
+
+    >>> Abstract
+      The human conductive respiratory tract spans a long anatomical distance and represents an important barrier to constrain invading respiratory pathogens. The disparate ambient temperatures found in the upper and lower respiratory tract have been demonstrated to influence the replication kinetics of common cold viruses as well as the associated host responses. Here, we employed the human airway epithelial cell (hAEC) culture model to investigate the impact of ambient temperatures found in the upper and lower respiratory tract, 33°C and 37°C, respectively, on the viral replication kinetics and host innate immune response dynamics during SARS-CoV-2 and SARS-CoV infections. Strikingly, SARS-CoV-2, in contrast to SARS-CoV, replicated more efficiently at temperatures encountered in the upper respiratory tract, and displayed higher sensitivity to type I and type III IFNs than SARS-CoV. Time-resolved transcriptome analysis highlighted a temperature-dependent induction of IFN-mediated antiviral response, whose amplitude inversely correlated with the replication kinetic efficiencies of both SARS-CoV-2 and SARS-CoV at temperatures found in the upper and lower respiratory tract. Altogether, these data reflect clinical features of SARS-CoV-2 and SARS-CoV and subsequently, their associated human-to-human transmission efficiencies. They provide crucial insights of the profound impact of ambient temperatures on viral replication and associated pivotal virus - host interaction dynamics. This knowledge can be exploited for the development of novel intervention strategies against SARS-CoV-2.
+
+    -- exports
+      !a
+
+    / April, 2020 - bioRxiv
+    let !a self assert = Altogether, these data reflect clinical features of SARS-CoV-2 and SARS-CoV and subsequently, their associated human-to-human transmission efficiencies. They provide crucial insights of the profound impact of ambient temperatures on viral replication and associated pivotal virus - host interaction dynamics.
+
+  # Aerosol, Nosocomial
+  // Aerodynamic analysis of SARS-CoV-2 in two Wuhan hospitals
+  doi: https://doi.org/10.1038/s41586-020-2271-3
+  ref 'Liu_et_al_2020b
+    head = We found that some medical staff areas initially had high concentrations of viral RNA with aerosol size distributions showing peaks in submicrometre and/or supermicrometre regions, but these levels were reduced to undetectable levels after implementation of rigorous sanitization procedures.
+
+    >>> Abstract
+      The ongoing COVID-19 outbreak has spread rapidly on a global scale. While the transmission of SARS-CoV-2 via human respiratory droplets and direct contact is clear, the potential for aerosol transmission is poorly understood1–3. This study investigated the aerodynamic nature of SARS-CoV-2 by measuring viral RNA in aerosols in different areas of two Wuhan hospitals during the COVID-19 outbreak in February and March 2020. The concentration of SARS-CoV-2 RNA in aerosols detected in isolation wards and ventilated patient rooms was very low, but it was elevated in the patients’ toilet areas. Levels of airborne SARS-CoV-2 RNA in the majority of public areas was undetectable except in two areas prone to crowding, possibly due to infected carriers in the crowd. We found that some medical staff areas initially had high concentrations of viral RNA with aerosol size distributions showing peaks in submicrometre and/or supermicrometre regions, but these levels were reduced to undetectable levels after implementation of rigorous sanitization procedures. Although we have not established the infectivity of the virus detected in these hospital areas, we propose that SARS-CoV-2 may have the potential to be transmitted via aerosols. Our results indicate that room ventilation, open space, sanitization of protective apparel, and proper use and disinfection of toilet areas can effectively limit the concentration of SARS-CoV-2 RNA in aerosols. Future work should explore the infectivity of aerosolized virus.
+
+    -- exports
+      !a
+
+    / April, 2020 - Nature
+    let !a self assert = Although we have not established the infectivity of the virus detected in these hospital areas, we propose that SARS-CoV-2 may have the potential to be transmitted via aerosols. Our results indicate that room ventilation, open space, sanitization of protective apparel, and proper use and disinfection of toilet areas can effectively limit the concentration of SARS-CoV-2 RNA in aerosols.
+
+  # Clinicalcharacteristics
+  // Features of 16,749 hospitalised UK patients with COVID-19 using the ISARIC WHO Clinical Characterisation Protocol
+  doi: https://doi.org/10.1101/2020.04.23.20076042
+  ref 'Docherty_et_al_2020
+    head = Our study is the first report in Europe of a very large and rapidly conducted study of COVID19, demonstrating the vital importance of putting plans in place for the study of epidemic and pandemic threats and need to maintain them. It provides evidence of the pattern of disease in the UK population, identifies those sectors of the population at greatest risk and the use of healthcare resources.
+
+    >>> Abstract
+      Objective: To characterize the clinical features of patients with severe COVID-19 in the UK.
+      Design: Prospective observational cohort study with rapid data gathering and near real-time analysis, using a pre-approved questionnaire adopted by the WHO.
+      Setting: 166 UK hospitals between 6th February and 18th April 2020.
+      Participants: 16,749 people with COVID-19.
+      Interventions: No interventions were performed, but with consent samples were taken for research purposes. Many participants were co-enrolled in other interventional studies and clinical trials.
+      Results: The median age was 72 years [IQR 57, 82; range 0, 104], the median duration of symptoms before admission was 4 days [IQR 1,8] and the median duration of hospital stay was 7 days [IQR 4,12]. The commonest comorbidities were chronic cardiac disease (29%), uncomplicated diabetes (19%), non-asthmatic chronic pulmonary disease (19%) and asthma (14%); 47% had no documented reported comorbidity. Increased age and comorbidities including obesity were associated with a higher probability of mortality. Distinct clusters of symptoms were found: 1. respiratory (cough, sputum, sore throat, runny nose, ear pain, wheeze, and chest pain); 2. systemic (myalgia, joint pain and fatigue); 3. enteric (abdominal pain, vomiting and diarrhoea). Overall, 49% of patients were discharged alive, 33% have died and 17% continued to receive care at date of reporting. 17% required admission to High Dependency or Intensive Care Units; of these, 31% were discharged alive, 45% died and 24% continued to receive care at the reporting date. Of those receiving mechanical ventilation, 20% were discharged alive, 53% died and 27% remained in hospital.
+      Conclusions: We present the largest detailed description of COVID-19 in Europe, demonstrating the importance of pandemic preparedness and the need to maintain readiness to launch research studies in response to outbreaks.
+
+
+    # / April, 2020 - medRxiv
+    # let !a self assert =
+
+  # Frontiers
+  // A Deep Learning Approach to Antibiotic DiscoveryA Deep Learning Approach to Antibiotic Discovery
+  doi: https://doi.org/10.1111/bjh.16725
+  ref 'Stokes_et_al_2020
+    head = We performed predictions on multiple chemical libraries and discovered a molecule from the Drug Repurposing Hub—halicin—that is structurally divergent from conventional antibiotics and displays bactericidal activity against a wide phylogenetic spectrum of pathogens including Mycobacterium tuberculosis and carbapenem-resistant Enterobacteriaceae.
+
+    >>> Abstract
+      Due to the rapid emergence of antibiotic-resistant bacteria, there is a growing need to discover new antibiotics. To address this challenge, we trained a deep neural network capable of predicting molecules with antibacterial activity. We performed predictions on multiple chemical libraries and discovered a molecule from the Drug Repurposing Hub—halicin—that is structurally divergent from conventional antibiotics and displays bactericidal activity against a wide phylogenetic spectrum of pathogens including Mycobacterium tuberculosis and carbapenem-resistant Enterobacteriaceae. Halicin also effectively treated Clostridioides difficile and pan-resistant Acinetobacter baumannii infections in murine models. Additionally, from a discrete set of 23 empirically tested predictions from >107 million molecules curated from the ZINC15 database, our model identified eight antibacterial compounds that are structurally distant from known antibiotics. This work highlights the utility of deep learning approaches to expand our antibiotic arsenal through the discovery of structurally distinct antibacterial molecules.
+
+    -- exports
+      !a
+
+    / Feb, 2020 - Cell
+    let !a self assert = Halicin also effectively treated Clostridioides difficile and pan-resistant Acinetobacter baumannii infections in murine models. Additionally, from a discrete set of 23 empirically tested predictions from >107 million molecules curated from the ZINC15 database, our model identified eight antibacterial compounds that are structurally distant from known antibiotics.
+
+  # BloodCoagulation - Treatments
+  // Chinese expert consensus on diagnosis and treatment of coagulation dysfunction in COVID-19
+  doi: https://doi.org/10.1186/s40779-020-00247-7
+  ref 'Song_et_al_2020
+    head = This consensus includes an overview of COVID-19-related coagulation dysfunction, tests for coagulation, anticoagulation therapy, replacement therapy, supportive therapy and prevention. The consensus produced 18 recommendations which are being used to guide clinical work.
+
+    >>> Abstract
+      Since December 2019, a novel type of coronavirus disease (COVID-19) in Wuhan led to an outbreak throughout China and the rest of the world. To date, there have been more than 1,260,000 COVID-19 patients, with a mortality rate of approximately 5.44%. Studies have shown that coagulation dysfunction is a major cause of death in patients with severe COVID-19. Therefore, the People’s Liberation Army Professional Committee of Critical Care Medicine and Chinese Society on Thrombosis and Hemostasis grouped experts from the frontline of the Wuhan epidemic to come together and develop an expert consensus on diagnosis and treatment of coagulation dysfunction associated with a severe COVID-19 infection. This consensus includes an overview of COVID-19-related coagulation dysfunction, tests for coagulation, anticoagulation therapy, replacement therapy, supportive therapy and prevention. The consensus produced 18 recommendations which are being used to guide clinical work.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+      !j
+      !k
+      !l
+      !m
+      !n
+      !o
+      !p
+      !q
+      !r
+
+    / April, 2020 - Military Medical Research
+    let !a self assert = Severe COVID-19-related coagulation dysfunction has a pathological basis.
+
+    / April, 2020 - Military Medical Research
+    let !b self assert = The past medical history should be fully understood and the patients’ coagulation function should be accurately evaluated in severe SOVID-19 patients.
+
+    / April, 2020 - Military Medical Research
+    let !c self assert = Routine coagulation tests are recommended to screen coagulation function for severe COVID-19 patients.
+
+    / April, 2020 - Military Medical Research
+    let !d self assert = ISTH/CDCC DIC scores are recommended to diagnose COVID-19-related coagulation dysfunction
+
+    / April, 2020 - Military Medical Research
+    let !e self assert = Viscoelastic tests are recommended for severe COVID-19 patients with coagulation dysfuntion.
+
+    / April, 2020 - Military Medical Research
+    let !f self assert = Anticoagulant therapy can be utilized without anticoagulant contraindications in severe COVID-19 patients with thrombosis
+
+    / April, 2020 - Military Medical Research
+    let !g self assert = In severe COVID-19 patients with coagulation dysfunction, anticoagulant therapy using unfractionated heparin/low-molecular-weight heparin are recommended to reduce the depletion of coagulation substrates
+
+    / April, 2020 - Military Medical Research
+    let !h self assert = In severe COVID-19 patients with coagulation dysfuntion, a TEG heparinase comparison test is recommended to monitor unfractionated heparin dosage
+
+    / April, 2020 - Military Medical Research
+    let !i self assert = For severe COVID-19 patients with coagulation dysfunction requiring continuous renal replacement therapy, unfractionated heparin/LMWH for systemic anticoagulation or no anticoagulation is recommended.
+
+    / April, 2020 - Military Medical Research
+    let !j self assert = Topical citrate anticoagulation is recommended for severe COVID-19 patients with active bleeding who require CRRT
+
+    / April, 2020 - Military Medical Research
+    let !k self assert = For severe COVID-19 patients with coagulation dysfunction requiring external membrane oxygenation therapy, unfractionated heparin is the preferred anticoagulant and there should be more monitoring of their coagulation status.
+
+    / April, 2020 - Military Medical Research
+    let !l self assert = If heparin-induced thrombocytopenia occurs in severe COVID-19 patients, the anticoagulant argatroban/bivalirudin is recommended
+
+    / April, 2020 - Military Medical Research
+    let !m self assert = Goal-directed replacement therapy is recommended for severe COVID-19 patients with coagulation dysfunction
+
+    / April, 2020 - Military Medical Research
+    let !n self assert = If bleeding is not effectively stopped after active replacement therapy in severe COVID-19 patients, recombinant factor VII is recommended.
+
+    / April, 2020 - Military Medical Research
+    let !o self assert = In severe COVID-19 patients with coagulation dysfunction experiencing liver failure, plasma exchange is recommended.
+
+    / April, 2020 - Military Medical Research
+    let !p self assert = For severe COVID-19 patients with coagulation dysfunction, heparin flush during vascular access placement should be avoided.
+
+    / April, 2020 - Military Medical Research
+    let !q self assert = For severe COVID-19 patients with coagulation dysfunction, the infusion dose of crystalloids and synthetic colloid should be controlled while maintaining adequate tissue perfusion
+
+    / April, 2020 - Military Medical Research
+    let !r self assert = Influencing factors of coagulation dysfunction need to be actively controlled for severe COVID-19 patients during extracorporeal life support
+
+
+  # BloodCoagulation
+  // Coagulation disorders in coronavirus infected patients: COVID-19, SARS-CoV-1, MERS-CoV and lessons from the past
+  doi: https://doi.org/10.1016/j.jcv.2020.104362
+  ref 'Giannis_et_al_2020
+    head = The dysregulation of the coagulation cascade and the subsequent formation of intra-alveolar or systemic fibrin clots are prominent findings in coronavirus infections associated with severe respiratory disease, and have been demonstrated in both humans and animal models. They can be attributed to the prothrombotic response, which attempts to prevent diffuse alveolar hemorrhage, but can instead result in overt clot formation with detrimental effects in patient recovery and survival.
+
+    >>> Abstract
+      Coronavirus disease 2019 (COVID-19) or severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), a novel coronavirus strain disease, has recently emerged in China and rapidly spread worldwide. This novel strain is highly transmittable and severe disease has been reported in up to 16% of hospitalized cases. More than 600,000 cases have been confirmed and the number of deaths is constantly increasing. COVID-19 hospitalized patients, especially those suffering from severe respiratory or systemic manifestations, fall under the spectrum of the acutely ill medical population, which is at increased venous thromboembolism risk. Thrombotic complications seem to emerge as an important issue in patients infected with COVID-19. Preliminary reports on COVID-19 patients’ clinical and laboratory findings include thrombocytopenia, elevated D-dimer, prolonged prothrombin time, and disseminated intravascular coagulation. As the pandemic is spreading and the whole picture is yet unknown, we highlight the importance of coagulation disorders in COVID-19 infected patients and review relevant data of previous coronavirus epidemics caused by the severe acute respiratory syndrome coronavirus 1 (SARS-CoV-1) and the Middle East Respiratory Syndrome coronavirus (MERS-CoV).
+
+    # -- exports
+    #  !a
+
+    # / April, 2020 - Journal of Clinical Virology
+    # let !a self assert =
+
+  # BloodCoagulation
+  // Changes in Blood Coagulation in Patients With Severe Coronavirus Disease 2019 (COVID-19): A Meta-Analysis
+  doi: https://doi.org/10.1111/bjh.16725
+  ref 'Xiong_et_al_2020
+    head = Increasing values of D‐D and PT support the notion that disseminated intravascular coagulation (DIC) may be common in COVID‐19 patients. In addition, the rise of D‐D level also indicates secondary fibrinolysis conditions in these patients.
+
+    # -- exports
+    #  !a
+
+    # / April, 2020 -  Br J Haematol
+    # let !a self assert =
+
+  # Co-Morbid , cardiovascular, Figure out a way to insert the table as its a great one.
+  // Cardiovascular Complications in COVID-19
+  doi: https://doi.org/10.1016/j.ajem.2020.04.048
+  ref 'Long_et_al_2020
+    head = COVID-19 is associated with a number of cardiovascular complications, including myocardial injury and myocarditis, AMI, heart failure, dysrhythmias, and VTE. Some of the medications utilized to treat COVID-19 also have potential cardiac complications.
+
+    >>> Background
+      The coronavirus disease of 2019 (COVID-19) is caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). While systemic inflammation and pulmonary complications can result in significant morbidity and mortality, cardiovascular complications may also occur.
+
+    >>> Objective
+      This brief report evaluates cardiovascular complications in the setting of COVID-19 infection.
+
+    >>> Discussion
+      The current COVID-19 pandemic has resulted in over one million infected worldwide and thousands of death. The virus binds and enters through angiotensin-converting enzyme 2 (ACE2). COVID-19 can result in systemic inflammation, multiorgan dysfunction, and critical illness. The cardiovascular system is also affected, with complications including myocardial injury, myocarditis, acute myocardial infarction, heart failure, dysrhythmias, and venous thromboembolic events. Current therapies for COVID-19 may interact with cardiovascular medications.
+
+    >>> Conclusions
+       Emergency clinicians should be aware of these cardiovascular complications when evaluating and managing the patient with COVID-19.
+
+    # -- exports
+    #  !a
+
+    # / April, 2020 - Am J Emerg Med
+    # let !a self assert =
+
+  # SymptomaticPhase, Co-morbid
+  // Prevalence and Impact of Cardiovascular Metabolic Diseases on COVID-19 in China
+  doi: https://doi.org/10.1007/s00392-020-01626-9
+  ref 'Li_et_al_2020c
+    head = Patients with previous cardiovascular metabolic diseases may face a greater risk of developing into the severe condition and the comorbidities can also greatly affect the prognosis of the COVID-19. On the other hand, COVID-19 can, in turn, aggravate the damage to the heart.
+
+    >>> Background
+      Studies have reminded that cardiovascular metabolic comorbidities made patients more susceptible to suffer 2019 novel corona virus (2019-nCoV) disease (COVID-19), and exacerbated the infection. The aim of this analysis is to determine the association of cardiovascular metabolic diseases with the development of COVID-19.
+
+    >>> Methods
+      A meta-analysis of eligible studies that summarized the prevalence of cardiovascular metabolic diseases in COVID-19 and compared the incidences of the comorbidities in ICU/severe and non-ICU/severe patients was performed. Embase and PubMed were searched for relevant studies.
+
+    >>> Results
+      A total of six studies with 1527 patients were included in this analysis. The proportions of hypertension, cardia-cerebrovascular disease and diabetes in patients with COVID-19 were 17.1%, 16.4% and 9.7%, respectively. The incidences of hypertension, cardia-cerebrovascular diseases and diabetes were about twofolds, threefolds and twofolds, respectively, higher in ICU/severe cases than in their non-ICU/severe counterparts. At least 8.0% patients with COVID-19 suffered the acute cardiac injury. The incidence of acute cardiac injury was about 13 folds higher in ICU/severe patients compared with the non-ICU/severe patients.
+
+    >>> Conclusion
+      Patients with previous cardiovascular metabolic diseases may face a greater risk of developing into the severe condition and the comorbidities can also greatly affect the prognosis of the COVID-19. On the other hand, COVID-19 can, in turn, aggravate the damage to the heart.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / March, 2020 - Clinical Research in Cardiology
+    let !a self assert = We did not find that people with hypertension and diabetes were more susceptible to 2019-nCoV infection. The prevalence of hypertension and diabetes in people infected with the virus is about the same as in the general population, even slightly lower. However, comparing the general population, the incidence of cardia-cerebrovascular disease in patients with COVID-19 is obviously much higher.
+
+    / March, 2020 - Clinical Research in Cardiology
+    let !b self assert =  Patients with hypertension, cardia-cerebrovascular diseases or diabetes are more likely to develop severe/ICU cases after 2019-nCoV infection. The overall proportion of hypertension, cardia-cerebrovascular diseases and diabetes were about twofolds, threefolds and twofolds, respectively, higher in ICU/severe cases than in their non-ICU/severe counterparts.
+
+    / March, 2020 - Clinical Research in Cardiology
+    let !c self assert = Another important finding is the damage the virus did to the heart. According to the present summary, at least 8.0% patients with COVID-19 suffered acute cardiac injury.
+
+    / March, 2020 - Clinical Research in Cardiology
+    let !d self assert = Patients with COVID-19 associated with unstable angina or STEMI have poor cardiac reserve, lower tolerance to severe pneumonia, and are more likely to develop cardiac insufficiency, leading to deterioration.
+
+    / March, 2020 - Clinical Research in Cardiology
+    let !e self assert = The pathogenesis of 2019 nCoV infection-related acute myocardial injury is still unknown. But according to the clinical presentation and lab data of the disease, as well as the pathogenesis of SARS-CoV, It can be speculated that 2019-ncov infection may affect the cardiovascular system through multiple mechanisms.
+
+  # CT scan diagnostic
+  // Temporal Changes of CT Findings in 90 Patients with COVID-19 Pneumonia: A Longitudinal Study
+  doi: https://doi.org/10.1148/radiol.2020200843
+  ref 'Wang_et_al_2020b
+    head = The extent of lung abnormalities on CT peaked during illness days 6-11. The temporal changes of the diverse CT manifestations followed a specific pattern, which might indicate the progression and recovery of the illness.
+
+    >>> Background
+      CT may play a central role in the diagnosis and management of COVID-19 pneumonia.
+
+    >>> Purpose
+      To perform a longitudinal study to analyze the serial CT findings over time in patients with COVID-19 pneumonia
+
+    >>> Materials and Methods
+      During January 16 to February 17, 2020, 90 patients (male:female, 33:57; mean age, 45 years) with COVID-19 pneumonia were prospectively enrolled and followed up until they were discharged or died, or until the end of the study. A total of 366 CT scans were acquired and reviewed by 2 groups of radiologists for the patterns and distribution of lung abnormalities, total CT scores and number of zones involved. Those features were analyzed for temporal change.
+
+    >>> Results
+      CT scores and number of zones involved progressed rapidly, peaked during illness days 6-11 (median: 5 and 5), and followed by persistence of high levels. The predominant pattern of abnormalities after symptom onset was ground-glass opacity (35/78 [45%] to 49/79 [62%] in different periods). The percentage of mixed pattern peaked (30/78 [38%]) on illness days 12-17, and became the second most predominant pattern thereafter. Pure ground-glass opacity was the most prevalent sub-type of ground-glass opacity after symptom onset (20/50 [40%] to 20/28 [71%]). The percentage of ground-glass opacity with irregular linear opacity peaked on illness days 6-11 (14/50 [28%)]) and became the second most prevalent subtype thereafter. The distribution of lesions was predominantly bilateral and subpleural. 66/70 (94%) patients discharged had residual disease on final CT scans (median CT scores and zones involved: 4 and 4), with ground-glass opacity (42/70 [60%]) and pure ground-glass opacity (31/42 [74%]) the most common pattern and subtype.
+
+    >>> Conclusion
+      The extent of lung abnormalities on CT peaked during illness days 6-11. The temporal changes of the diverse CT manifestations followed a specific pattern, which might indicate the progression and recovery of the illness.
+
+
+    # / March, 2020 - Radiology
+    # let !a self assert =
+
+
+  # UV Rays Mitigation
+  // Inactivation of Model Viruses and Bacteria in Human Fresh Frozen Plasma Using Riboflavin and Long Wave Ultraviolet Rays
+  doi: https://doi.org/xyz
+  ref 'Elikaei_et_al_2006
+    head = Results showed that the employed method (Riboflavin concentration and ultraviolet in three different energy doses) can inactivate most of the pathogens in fresh frozen plasma. The acceptable activities of selected plasma proteins remained after treatment.
+
+    >>> Background and objectives
+      Pathogen reduction technologies are among methods to eliminate transfusion transmitted infections. Mirasol method using riboflavin in combination with ultraviolet rays is one of them. The aims of this study were to investigate the effectiveness of Mirasol method to inactivate some model pathogens as well as examination of the sensitivity of plasma proteins after treatment.
+
+    >>> Materials and methods
+      Riboflavin in 50μM concentration and ultraviolet (365 nm) in three different energy doses (3.6, 7.2, and 10.8 j/cm2) were employed to inactivate model pathogens. Four standard viruses were used in this study including Vesicular Stomatitis Virus (VSV), Herpes Simplex Virus1 (HSV-1), Bovine Viral Diarrhea Virus (BVDV) and Polio Virus. 50% Tissue Culture Infectious Dose (TCID50) and Reed-Muench Methods were used to estimate viruses' titers. E. coli and Staphylococcus aureus were used as bacterial models. Four plasma proteins including factor V, VIII, fibrinogen and antithromin were used to determine their sensitivity to pathogen inactivation treatment.
+
+    >>> Results
+      The most pathogen reduction titre was determined for 15 minutes irradiation period equal to 10.8 J/cm2 that is corresponding to Log 6.10 for BVDV, Log 6.09 for HSV-1, Log 6.62 for VSV and Log 3.36 for Polio. Bacterial reduction titer was Log 6.94 for E. coli and Log 7.00 for S. aureus. Indicator proteins for plasma activity were determined to be 75% for factor V, 88% for factor VIII, 52% for fibrinogen and 94% for antithrombin.
+
+    >>> Conclusion
+      Results showed that the employed method can inactivate most of the pathogens in fresh frozen plasma. The acceptable activities of selected plasma proteins remained after treatment.
+
+
+    # / Feb, 2017 - Iran J Microbiol
+    # let !a self assert =
+
+
+  # UVC as remediation
+  // Far-UVC light: A new tool to control the spread of airborne-mediated microbial diseases
+  doi: https://doi.org/10.1038/s41598-018-21058-w
+  ref 'Welch_et_al_2018
+    head = We have developed an approach to UV-based sterilization using single-wavelength far-UVC light generated by filtered excilamps, which selectively inactivate microorganisms, but does not produce biological damage to exposed mammalian cells and tissues
+
+    >>> Abstract
+      Airborne-mediated microbial diseases such as influenza and tuberculosis represent major public health challenges. A direct approach to prevent airborne transmission is inactivation of airborne pathogens, and the airborne antimicrobial potential of UVC ultraviolet light has long been established; however, its widespread use in public settings is limited because conventional UVC light sources are both carcinogenic and cataractogenic. By contrast, we have previously shown that far-UVC light (207–222 nm) efficiently inactivates bacteria without harm to exposed mammalian skin. This is because, due to its strong absorbance in biological materials, far-UVC light cannot penetrate even the outer (non living) layers of human skin or eye; however, because bacteria and viruses are of micrometer or smaller dimensions, far-UVC can penetrate and inactivate them. We show for the first time that far-UVC efficiently inactivates airborne aerosolized viruses, with a very low dose of 2 mJ/cm2 of 222-nm light inactivating >95% of aerosolized H1N1 influenza virus. Continuous very low dose-rate far-UVC light in indoor public locations is a promising, safe and inexpensive tool to reduce the spread of airborne-mediated microbial diseases.
+
+    # -- exports
+    #  !a
+
+    # / Feb, 2018 -  Sci Rep
+    # let !a self assert =
+
+  # Diagnostic CT
+  // Chest CT Findings in Cases from the Cruise Ship “Diamond Princess” with Coronavirus Disease 2019 (COVID-19)
+  doi: https://doi.org/xyz
+  ref 'Inui_et_al_2020
+    head = Of 104 cases, 76 (73%) were asymptomatic, 41 (54%) of which had lung opacities on CT. Other 28 (27%) cases were symptomatic, 22 (79%) of which had abnormal CT findings. Symptomatic cases showed lung opacities and airway abnormalities on CT more frequently than asymptomatic cases
+
+    -- exports
+      !a
+
+    / March, 2020 - Radiology: Cardiothoracic Imaging
+    let !a self assert = This study documented a high incidence of subclinical CT changes in cases with COVID-19. Compared to symptomatic cases, asymptomatic cases showed more GGO over consolidation and milder extension of disease on CT.
+
+  # Population characteristics and hospital bed capacities, pandemic?
   // Variation in COVID-19 Hospitalizations and Deaths Across New York City Boroughs
   doi: https://doi.org/10.1001/jama.2020.7197
   ref 'Wadhera_et_al_2020
@@ -3333,6 +4620,11 @@ feed Research
 
     -- exports
       !a
+      !b
+      !c
+      !d
+      !e
+      !f
 
     / March, 2020 - Jama Network
     let !a self assert = The clinical conditions of these patients improved, as indicated body temperature normalized within 3 days in 4 of 5 patients, the SOFA score decreased, and Pao2/Fio2 increased within 12 days (range, 172-276 before and 284-366 after), Four patients who had been receiving mechanical ventilation and ECMO no longer required respiratory support by 9 days after plasma transfusion.

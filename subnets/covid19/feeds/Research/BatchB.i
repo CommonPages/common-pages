@@ -1,7 +1,7 @@
 
 // Dummy Paper title
 doi: https://doi.org/xyz
-ref 'xyz_et_al_2006
+ref 'xyz_et_al_2000
   head =
 
   -- exports
