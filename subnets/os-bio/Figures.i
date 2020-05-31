@@ -113,7 +113,7 @@ space Figures
   url: //static.theinsight.cloud/projects/os-bio/m66428/Figure_01_02_16.jpg
   width: 800
   height: 540
-  caption: Microbiologist Carl Woese constructed this phylogenetic tree using data that he obtained from sequencing ribosomal RNA genes. The tree shows the separation of living organisms into three domains: Bacteria, Archaea, and Eukarya. Bacteria and Archaea are prokaryotes, single-celled organisms lacking intracellular organelles. (credit: Eric Gaba; NASA Astrobiology Institute) 
+  caption: Microbiologist Carl Woese constructed this phylogenetic tree using data that he obtained from sequencing ribosomal RNA genes. The tree shows the separation of living organisms into three domains: Bacteria, Archaea, and Eukarya. Bacteria and Archaea are prokaryotes, single-celled organisms lacking intracellular organelles. (credit: Eric Gaba; NASA Astrobiology Institute)
   image 'Figure_1_2_16
 
   index: hide
@@ -290,7 +290,7 @@ space Figures
   width: 1592
   height: 447
   caption: These space-filling models show a cis (oleic acid) and a trans (eliadic acid) fatty acid. Notice the bend in the molecule caused by the cis configuration.
-  image 'Figure_2_3_5
+  image 'Figure_2_3_5b
 
   index: hide
   name: Figure 2.3.6
@@ -1137,7 +1137,7 @@ space Figures
   url: //static.theinsight.cloud/projects/os-bio/m66468/Figure_07_04_01.jpg
   width: 544
   height: 461
-  caption: The electron transport chain is a series of electron transporters embedded in the inner mitochondrial membrane that shuttles electrons from NADH and FADH2 to molecular oxygen. In the process, protons are pumped from the mitochondrial matrix to the intermembrane space, and oxygen is reduced to form water. 
+  caption: The electron transport chain is a series of electron transporters embedded in the inner mitochondrial membrane that shuttles electrons from NADH and FADH2 to molecular oxygen. In the process, protons are pumped from the mitochondrial matrix to the intermembrane space, and oxygen is reduced to form water.
   image 'Figure_7_4_1
 
   index: hide
@@ -1978,7 +1978,7 @@ space Figures
   width: 1088
   height: 233
   caption: Multiple polymerases can transcribe a single bacterial gene while numerous ribosomes concurrently translate the mRNA transcripts into polypeptides. In this way, a specific protein can rapidly reach a high concentration in the bacterial cell.
-  image 'Figure_15_2_3
+  image 'Figure_15_2_3b
 
   index: hide
   name: Figure 15.3.2
@@ -3465,7 +3465,7 @@ space Figures
   url: //static.theinsight.cloud/projects/os-bio/m66570/Figure_B25_04_09.png
   width: 2237
   height: 679
-  caption: Fern reproductive stages. Sori (a) appear as small bumps on the underside of a fern frond. (credit: Myriam Feldman). (b) Fern gametophyte and young sporophyte. The sporophyte and gametophyte are labeled. (credit: modification of work by "Vlmastra"/Wikimedia Commons) 
+  caption: Fern reproductive stages. Sori (a) appear as small bumps on the underside of a fern frond. (credit: Myriam Feldman). (b) Fern gametophyte and young sporophyte. The sporophyte and gametophyte are labeled. (credit: modification of work by "Vlmastra"/Wikimedia Commons)
   image 'Figure_B25_4_9
 
   index: hide
@@ -5521,7 +5521,7 @@ space Figures
   url: //static.theinsight.cloud/projects/os-bio/m66624/Figure_35_05_01.jpg
   width: 1117
   height: 499
-  caption: Compared to a normal brain (left), the brain from a patient with Alzheimer’s disease (right) shows a dramatic neurodegeneration, particularly within the ventricles and hippocampus. (credit: modification of work by “Garrando”/Wikimedia Commons based on original images by ADEAR: "Alzheimer's Disease Education and Referral Center, a service of the National Institute on Aging”) 
+  caption: Compared to a normal brain (left), the brain from a patient with Alzheimer’s disease (right) shows a dramatic neurodegeneration, particularly within the ventricles and hippocampus. (credit: modification of work by “Garrando”/Wikimedia Commons based on original images by ADEAR: "Alzheimer's Disease Education and Referral Center, a service of the National Institute on Aging”)
   image 'Figure_35_5_1
 
   index: hide
@@ -7579,5 +7579,3 @@ space Figures
   height: 597
   caption: (a) The Gibbon wolf pack in Yellowstone National Park, March 1, 2007, represents a keystone species. The reintroduction of wolves into Yellowstone National Park in 1995 led to a change in the grazing behavior of (b) elk. To avoid predation, the elk no longer grazed exposed stream and riverbeds, such as (c) the Lamar Riverbed in Yellowstone. This allowed willow and cottonwood seedlings to grow and recolonized large areas. The seedlings decreased erosion and provided shading to the creek, which improved fish habitat. A new colony of (d) beaver may also have benefited from the habitat change. (credit a: modification of work by Doug Smith, NPS; credit c: modification of work by Jim Peaco, NPS; credit d: modification of work by “Shiny Things”/Flickr)
   image 'Figure_47_4_2abcd
-
-    

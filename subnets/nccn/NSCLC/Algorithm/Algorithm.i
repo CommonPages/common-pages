@@ -367,7 +367,7 @@
           nscl15
 
       / Margins positive (R1)
-      . pos
+      . posr1
         >>> Adjuvent Treatment
           Reresection + chemotherapy<sup>p</sup>
           or
@@ -376,7 +376,7 @@
           nscl15
 
       / Margins positive (R2)
-      . pos
+      . posr2
         >>> Adjuvent Treatment
           Reresection + chemotherapy<sup>p</sup>
           or
@@ -398,14 +398,14 @@
           nscl15
 
       / Margins positive (R1)
-      . pos
+      . posr1
         >>> Adjuvent Treatment
           Chemoradiation<sup>m</sup> (sequential<sup>p</sup> or concurrent<sup>r</sup>)
         --
           nscl15
 
       / Margins positive (R2)
-      . pos
+      . posr2
         >>> Adjuvent Treatment
           Concurrent chemoradiation<sup>m,r</sup>
         --

@@ -221,7 +221,7 @@ subject module VirusFeatures
         'Wu_et_al_2020d.!a
         'Wu_et_al_2020d.!b
         'Wu_et_al_2020d.!d
-        'Pan_et_al_2020.!f
+        'Pan_et_al_2020b.!f
   subject module Transmission
 
     / Human-Animal Transmission and vice versa
@@ -1248,7 +1248,7 @@ subject module Remediation
     -- Zinc
       'Beck_et_al_1997
       'Hemilä_et_al_2017
-    # Not relevant here but has some correlation  
+    # Not relevant here but has some correlation
     -- Quercetin
       'Yi_et_al_2004
       'Chondrogianni_et_al_2010
