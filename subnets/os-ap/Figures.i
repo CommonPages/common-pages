@@ -81,7 +81,7 @@ space Figures
   url: //static.theinsight.cloud/projects/os-ap/m45989/105_Negative_Feedback_Loops.jpg
   width: 777
   height: 456
-  caption: In a negative feedback loop, a stimulus—a deviation from a set point—is resisted through a physiological process that returns the body to homeostasis. (a) A negative feedback loop has four basic parts. (b) Body temperature is regulated by negative feedback.
+  caption: In a negative feedback loop, a stimulus—a deviation from a set point—is resisted through a physiological process that returns the body to homeostasis. (a) A negative feedback loop has four basic parts. (b) Body temperature is regulated by negative feedback. 
   image 'Figure_1_5_1
 
   index: hide
@@ -722,14 +722,14 @@ space Figures
   url: //static.theinsight.cloud/projects/os-ap/m46048/404_Goblet_Cell_new.jpg
   width: 2299
   height: 2231
-  image 'Figure_4_2_3b
+  image 'Figure_4_2_3
 
   index: hide
   name: Figure 4.2.4
   url: //static.theinsight.cloud/projects/os-ap/m46048/423_Table_04_02_Summary_of_Epithelial_Tissue_CellsN.jpg
   width: 937
   height: 1502
-  caption:
+  caption:  
   image 'Figure_4_2_4
 
   index: hide
@@ -2796,7 +2796,7 @@ space Figures
   url: //static.theinsight.cloud/projects/os-ap/m46574/1425_Phineas_Gage.jpg
   width: 165
   height: 234
-  image 'Figure_14_3_1b
+  image 'Figure_14_3_1
 
   index: hide
   name: Figure 14.3.2
@@ -4003,7 +4003,7 @@ space Figures
   url: //static.theinsight.cloud/projects/os-ap/m46571/2213_Inflammatory_Process.jpg
   width: 675
   height: 743
-  caption:
+  caption:  
   image 'Figure_22_2_3
 
   index: hide
@@ -4332,14 +4332,14 @@ space Figures
   url: //static.theinsight.cloud/projects/os-ap/m46545/2323_Oxygen-hemoglobin_Dissociation-a.jpg
   width: 1896
   height: 1317
-  image 'Figure_23_5_2b
+  image 'Figure_23_5_2
 
   index: hide
   name: Figure 23.5.2
   url: //static.theinsight.cloud/projects/os-ap/m46545/2323_Oxygen-hemoglobin_Dissociation-b.jpg
   width: 1896
   height: 1317
-  image 'Figure_23_5_2c
+  image 'Figure_23_5_2
 
   index: hide
   name: Figure 23.5.3
@@ -5133,7 +5133,7 @@ space Figures
   url: //static.theinsight.cloud/projects/os-ap/m46385/Figure_28_00_01.JPG
   width: 688
   height: 973
-  caption: Following a surge of luteinizing hormone (LH), an oocyte (immature egg cell) will be released into the uterine tube, where it will then be available to be fertilized by a male’s sperm. Ovulation marks the end of the follicular phase of the ovarian cycle and the start of the luteal phase.
+  caption: Following a surge of luteinizing hormone (LH), an oocyte (immature egg cell) will be released into the uterine tube, where it will then be available to be fertilized by a male’s sperm. Ovulation marks the end of the follicular phase of the ovarian cycle and the start of the luteal phase. 
   image 'Figure_28_0_1
 
   index: hide
@@ -5149,7 +5149,7 @@ space Figures
   url: //static.theinsight.cloud/projects/os-ap/m46400/Figure_28_01_02.JPG
   width: 800
   height: 352
-  caption: This anterior view shows the structures of the scrotum and testes.
+  caption: This anterior view shows the structures of the scrotum and testes. 
   image 'Figure_28_1_2
 
   index: hide
@@ -5157,7 +5157,7 @@ space Figures
   url: //static.theinsight.cloud/projects/os-ap/m46400/Figure_28_01_03.JPG
   width: 743
   height: 686
-  caption: This sagittal view shows the seminiferous tubules, the site of sperm production. Formed sperm are transferred to the epididymis, where they mature. They leave the epididymis during an ejaculation via the ductus deferens.
+  caption: This sagittal view shows the seminiferous tubules, the site of sperm production. Formed sperm are transferred to the epididymis, where they mature. They leave the epididymis during an ejaculation via the ductus deferens. 
   image 'Figure_28_1_3
 
   index: hide
@@ -5165,7 +5165,7 @@ space Figures
   url: //static.theinsight.cloud/projects/os-ap/m46400/Figure_28_01_04.jpg
   width: 822
   height: 594
-  caption: (a) Mitosis of a spermatogonial stem cell involves a single cell division that results in two identical, diploid daughter cells (spermatogonia to primary spermatocyte). Meiosis has two rounds of cell division: primary spermatocyte to secondary spermatocyte, and then secondary spermatocyte to spermatid. This produces four haploid daughter cells (spermatids). (b) In this electron micrograph of a cross-section of a seminiferous tubule from a rat, the lumen is the light-shaded area in the center of the image. The location of the primary spermatocytes is near the basement membrane, and the early spermatids are approaching the lumen (tissue source: rat). EM × 900. (Micrograph provided by the Regents of University of Michigan Medical School © 2012)
+  caption: (a) Mitosis of a spermatogonial stem cell involves a single cell division that results in two identical, diploid daughter cells (spermatogonia to primary spermatocyte). Meiosis has two rounds of cell division: primary spermatocyte to secondary spermatocyte, and then secondary spermatocyte to spermatid. This produces four haploid daughter cells (spermatids). (b) In this electron micrograph of a cross-section of a seminiferous tubule from a rat, the lumen is the light-shaded area in the center of the image. The location of the primary spermatocytes is near the basement membrane, and the early spermatids are approaching the lumen (tissue source: rat). EM × 900. (Micrograph provided by the Regents of University of Michigan Medical School © 2012) 
   image 'Figure_28_1_4
 
   index: hide
@@ -5173,7 +5173,7 @@ space Figures
   url: //static.theinsight.cloud/projects/os-ap/m46400/Figure_28_01_05.jpg
   width: 727
   height: 198
-  caption: Sperm cells are divided into a head, containing DNA; a mid-piece, containing mitochondria; and a tail, providing motility. The acrosome is oval and somewhat flattened.
+  caption: Sperm cells are divided into a head, containing DNA; a mid-piece, containing mitochondria; and a tail, providing motility. The acrosome is oval and somewhat flattened. 
   image 'Figure_28_1_5
 
   index: hide
@@ -5181,7 +5181,7 @@ space Figures
   url: //static.theinsight.cloud/projects/os-ap/m46400/Figure_28_01_06.jpg
   width: 781
   height: 718
-  caption: Three columns of erectile tissue make up most of the volume of the penis.
+  caption: Three columns of erectile tissue make up most of the volume of the penis. 
   image 'Figure_28_1_6
 
   index: hide
@@ -5189,7 +5189,7 @@ space Figures
   url: //static.theinsight.cloud/projects/os-ap/m46400/Figure_28_01_07.JPG
   width: 1058
   height: 713
-  caption: The hypothalamus and pituitary gland regulate the production of testosterone and the cells that assist in spermatogenesis. GnRH activates the anterior pituitary to produce LH and FSH, which in turn stimulate Leydig cells and Sertoli cells, respectively. The system is a negative feedback loop because the end products of the pathway, testosterone and inhibin, interact with the activity of GnRH to inhibit their own production.
+  caption: The hypothalamus and pituitary gland regulate the production of testosterone and the cells that assist in spermatogenesis. GnRH activates the anterior pituitary to produce LH and FSH, which in turn stimulate Leydig cells and Sertoli cells, respectively. The system is a negative feedback loop because the end products of the pathway, testosterone and inhibin, interact with the activity of GnRH to inhibit their own production. 
   image 'Figure_28_1_7
 
   index: hide
@@ -5197,7 +5197,7 @@ space Figures
   url: //static.theinsight.cloud/projects/os-ap/m46392/Figure_28_02_01.JPG
   width: 555
   height: 789
-  caption: The major organs of the female reproductive system are located inside the pelvic cavity.
+  caption: The major organs of the female reproductive system are located inside the pelvic cavity. 
   image 'Figure_28_2_1
 
   index: hide
@@ -5205,7 +5205,7 @@ space Figures
   url: //static.theinsight.cloud/projects/os-ap/m46392/Figure_28_02_02.jpg
   width: 729
   height: 428
-  caption: The external female genitalia are referred to collectively as the vulva.
+  caption: The external female genitalia are referred to collectively as the vulva. 
   image 'Figure_28_2_2
 
   index: hide
@@ -5213,7 +5213,7 @@ space Figures
   url: //static.theinsight.cloud/projects/os-ap/m46392/Figure_28_02_03.JPG
   width: 690
   height: 578
-  caption: The unequal cell division of oogenesis produces one to three polar bodies that later degrade, as well as a single haploid ovum, which is produced only if there is penetration of the secondary oocyte by a sperm cell.
+  caption: The unequal cell division of oogenesis produces one to three polar bodies that later degrade, as well as a single haploid ovum, which is produced only if there is penetration of the secondary oocyte by a sperm cell. 
   image 'Figure_28_2_3
 
   index: hide
@@ -5221,7 +5221,7 @@ space Figures
   url: //static.theinsight.cloud/projects/os-ap/m46392/Figure_28_02_04.JPG
   width: 725
   height: 954
-  caption: (a) The maturation of a follicle is shown in a clockwise direction proceeding from the primordial follicles. FSH stimulates the growth of a tertiary follicle, and LH stimulates the production of estrogen by granulosa and theca cells. Once the follicle is mature, it ruptures and releases the oocyte. Cells remaining in the follicle then develop into the corpus luteum. (b) In this electron micrograph of a secondary follicle, the oocyte, theca cells (thecae folliculi), and developing antrum are clearly visible. EM × 1100. (Micrograph provided by the Regents of University of Michigan Medical School © 2012)
+  caption: (a) The maturation of a follicle is shown in a clockwise direction proceeding from the primordial follicles. FSH stimulates the growth of a tertiary follicle, and LH stimulates the production of estrogen by granulosa and theca cells. Once the follicle is mature, it ruptures and releases the oocyte. Cells remaining in the follicle then develop into the corpus luteum. (b) In this electron micrograph of a secondary follicle, the oocyte, theca cells (thecae folliculi), and developing antrum are clearly visible. EM × 1100. (Micrograph provided by the Regents of University of Michigan Medical School © 2012) 
   image 'Figure_28_2_4
 
   index: hide
@@ -5229,7 +5229,7 @@ space Figures
   url: //static.theinsight.cloud/projects/os-ap/m46392/Figure_28_02_05.jpg
   width: 829
   height: 972
-  caption: The hypothalamus and pituitary gland regulate the ovarian cycle and ovulation. GnRH activates the anterior pituitary to produce LH and FSH, which stimulate the production of estrogen and progesterone by the ovaries.
+  caption: The hypothalamus and pituitary gland regulate the ovarian cycle and ovulation. GnRH activates the anterior pituitary to produce LH and FSH, which stimulate the production of estrogen and progesterone by the ovaries. 
   image 'Figure_28_2_5
 
   index: hide
@@ -5237,7 +5237,7 @@ space Figures
   url: //static.theinsight.cloud/projects/os-ap/m46392/Figure_28_02_06.JPG
   width: 818
   height: 393
-  caption: This anterior view shows the relationship of the ovaries, uterine tubes (oviducts), and uterus. Sperm enter through the vagina, and fertilization of an ovulated oocyte usually occurs in the distal uterine tube. From left to right, LM × 400, LM × 20. (Micrographs provided by the Regents of University of Michigan Medical School © 2012)
+  caption: This anterior view shows the relationship of the ovaries, uterine tubes (oviducts), and uterus. Sperm enter through the vagina, and fertilization of an ovulated oocyte usually occurs in the distal uterine tube. From left to right, LM × 400, LM × 20. (Micrographs provided by the Regents of University of Michigan Medical School © 2012) 
   image 'Figure_28_2_6
 
   index: hide
@@ -5245,7 +5245,7 @@ space Figures
   url: //static.theinsight.cloud/projects/os-ap/m46392/Figure_28_02_07.jpg
   width: 619
   height: 1059
-  caption: The correlation of the hormone levels and their effects on the female reproductive system is shown in this timeline of the ovarian and menstrual cycles. The menstrual cycle begins at day one with the start of menses. Ovulation occurs around day 14 of a 28-day cycle, triggered by the LH surge.
+  caption: The correlation of the hormone levels and their effects on the female reproductive system is shown in this timeline of the ovarian and menstrual cycles. The menstrual cycle begins at day one with the start of menses. Ovulation occurs around day 14 of a 28-day cycle, triggered by the LH surge. 
   image 'Figure_28_2_7
 
   index: hide
@@ -5253,7 +5253,7 @@ space Figures
   url: //static.theinsight.cloud/projects/os-ap/m46392/Figure_28_02_09.jpg
   width: 697
   height: 347
-  caption: During lactation, milk moves from the alveoli through the lactiferous ducts to the nipple.
+  caption: During lactation, milk moves from the alveoli through the lactiferous ducts to the nipple. 
   image 'Figure_28_2_9
 
   index: hide
@@ -5261,7 +5261,7 @@ space Figures
   url: //static.theinsight.cloud/projects/os-ap/m46408/Figure_28_03_01.jpg
   width: 824
   height: 764
-  caption: During puberty, the release of LH and FSH from the anterior pituitary stimulates the gonads to produce sex hormones in both male and female adolescents.
+  caption: During puberty, the release of LH and FSH from the anterior pituitary stimulates the gonads to produce sex hormones in both male and female adolescents. 
   image 'Figure_28_3_1
 
   index: hide
@@ -5479,3 +5479,5 @@ space Figures
   height: 1046
   caption: Given two parents in which the father is normal and the mother is a carrier of an X-linked recessive disorder, a son would have a 50 percent probability of being affected with the disorder, whereas daughters would either be carriers or entirely unaffected. (credit: U.S. National Library of Medicine)
   image 'Figure_29_7_6
+
+    

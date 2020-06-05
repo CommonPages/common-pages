@@ -13,7 +13,7 @@ model Lines
   --
     AdjuvantTherapy
     NeoadjuvantTherapy
-
+    
 ///
 model TreatmentAlgorithms
   #
@@ -24,6 +24,9 @@ model InitialTherapy
   #
 
 —
+///
+model SubsequentTherapy
+  #
 
 —
 /// Neoadjuvant therapy is the administration of therapeutic agents before a main treatment.
