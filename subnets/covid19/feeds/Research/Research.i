@@ -46,7 +46,7 @@ feed Research
       'Britton_et_al_2020
       'Gomes_et_al_2020
       'Riphagen_et_al_2020
-      'Li_et_al_2020b
+      'Li_et_al_2020d
       'Hosier_et_al_2020
 
   / April, 2020
@@ -67,7 +67,7 @@ feed Research
       'King_et_al_2020
       'Lipsitch_et_al_2020
       'Vkovski_et_al_2020
-      'Liu_et_al_2020b
+      'Liu_et_al_2020bb
       'Docherty_et_al_2020
       'Song_et_al_2020
       'Giannis_et_al_2020
@@ -620,10 +620,11 @@ feed Research
 
   #
 
+  # DEDUPE(Pan_et_al_2020)
   # Beijing, viral load, asymptomatic, origin
   // Viral load of SARS-CoV-2 in clinical samples
   doi: https://doi.org/10.1016/S1473-3099(20)30113-4
-  ref 'Pan_et_al_2020
+  ref 'Pan_et_al_2020b
     head = We report our findings from different types of clinical specimens collected from 82 infected individuals.
 
     -- exports
@@ -1460,11 +1461,11 @@ feed Research
     / May, 2020 - Epidemiology
     let !h self assert = In Hong Kong, the average delay to isolation was 5.6 days for cluster cases, and by this time most onwards transmission had perhaps already occurred. The most important public health measures therefore are likely to be case identification followed by rapid and parallel (e.g. before contacts are confirmed as cases) contact tracing and quarantine. Some degree of intermittent physical distancing may also be required to supress potential local transmission from unidentified infections and pre-symptomatic transmission, but must necessarily be balanced with the social, economic and educational costs associated with such policies.
 
-   / May, 2020 - Epidemiology
-   let !i self assert = Secondly, our results also suggest a potential caveat: despite evidence supporting rapid contact tracing and the effectiveness of quarantine, in our analysis, most chains of transmission did not terminate in quarantine. This however must be interpreted in the context of moderate physical distancing in Hong Kong as highlighted previously, rather than a suggestion that quarantine was not essential.
+    / May, 2020 - Epidemiology
+    let !i self assert = Secondly, our results also suggest a potential caveat: despite evidence supporting rapid contact tracing and the effectiveness of quarantine, in our analysis, most chains of transmission did not terminate in quarantine. This however must be interpreted in the context of moderate physical distancing in Hong Kong as highlighted previously, rather than a suggestion that quarantine was not essential.
 
-   / May, 2020 - Epidemiology
-   let !j self assert = In the absence of non-pharmaceutical interventions such as physical distancing implemented in Hong Kong, the potential for SSEs is likely greater than observed in our study. Assuming local elimination is not possible, disease control efforts should focus on rapid tracing and quarantine of confirmed contacts, along with the implementation of physical distancing policies or closures targeting high292 risk social exposures such as bars, nightclubs and restaurants to prevent the occurrence of SSEs. Given the long right-hand tail of the distribution of individual reproductive numbers, preventing SSEs would have a considerable effect in reducing the overall reproductive number. In lieu of an effective vaccine, theseresults have significant implications for the control of COVID-19 and public health measures such as physical distancing and the relaxation of lockdowns around the world.
+    / May, 2020 - Epidemiology
+    let !j self assert = In the absence of non-pharmaceutical interventions such as physical distancing implemented in Hong Kong, the potential for SSEs is likely greater than observed in our study. Assuming local elimination is not possible, disease control efforts should focus on rapid tracing and quarantine of confirmed contacts, along with the implementation of physical distancing policies or closures targeting high292 risk social exposures such as bars, nightclubs and restaurants to prevent the occurrence of SSEs. Given the long right-hand tail of the distribution of individual reproductive numbers, preventing SSEs would have a considerable effect in reducing the overall reproductive number. In lieu of an effective vaccine, theseresults have significant implications for the control of COVID-19 and public health measures such as physical distancing and the relaxation of lockdowns around the world.
 
 
   # public policy, mitigation, non-pharmaceutical interventions, social distancing, hygiene, contact tracing
@@ -2971,10 +2972,11 @@ feed Research
     / April, 2020 - bioRxiv
     let !a self assert = Altogether, these data reflect clinical features of SARS-CoV-2 and SARS-CoV and subsequently, their associated human-to-human transmission efficiencies. They provide crucial insights of the profound impact of ambient temperatures on viral replication and associated pivotal virus - host interaction dynamics.
 
+  # DEDUPE(Liu_et_al_2020bb)
   # Aerosol, Nosocomial
   // Aerodynamic analysis of SARS-CoV-2 in two Wuhan hospitals
   doi: https://doi.org/10.1038/s41586-020-2271-3
-  ref 'Liu_et_al_2020b
+  ref 'Liu_et_al_2020bb
     head = We found that some medical staff areas initially had high concentrations of viral RNA with aerosol size distributions showing peaks in submicrometre and/or supermicrometre regions, but these levels were reduced to undetectable levels after implementation of rigorous sanitization procedures.
 
     >>> Abstract
@@ -3910,10 +3912,11 @@ feed Research
     let !h self assert = All of the children were discharged from PICU after 4–6 days. Since discharge, two of the children have tested positive for SARS-CoV-2 (including the child who died, in whom SARS-CoV-2 was detected post mortem). All children are receiving ongoing surveillance for coronary abnormalities.
 
 
+  # DEDUPE(Li_et_al_2020b)
   # viral detection in semen, (SARS-CoV-2) has been detected in stool, gastrointestinal tract, saliva, and urine samples.2 However, little is known about SARS-CoV-2 in semen.
   // Clinical Characteristics and Results of Semen Tests Among Men With Coronavirus Disease 2019
   doi: https://doi.org/10.1001/jamanetworkopen.2020.8292
-  ref 'Li_et_al_2020b
+  ref 'Li_et_al_2020d
     head = The sudy found that SARS-CoV-2 can be present in the semen of patients with COVID-19, and SARS-CoV-2 may still be detected in the semen of recovering patients. Owing to the imperfect blood-testes/deferens/epididymis barriers, SARS-CoV-2 might be seeded to the male reproductive tract, especially in the presence of systemic local inflammation
 
     -- exports
