@@ -1,9 +1,8 @@
 
-. BatchB
-  // Dummy Paper title
-  doi: https://doi.org/xyz
-  ref 'xyz_et_al_2000
-    head =
+// Dummy Paper title
+doi: https://doi.org/xyz
+ref 'xyz_et_al_2020
+  head =
 
     -- exports
       !a

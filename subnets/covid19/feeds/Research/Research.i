@@ -16,6 +16,7 @@ feed Research
     'Holshue_et_al_2020
 
   -- all
+    June2020
     May2020
     April2020
     March2020
@@ -24,9 +25,47 @@ feed Research
     2019
     Pre2019
 
+  / June, 2020
+  feed June2020
+    --
+      'Grifoni_et_al_2020
+
   / May, 2020
   feed May2020
     --
+      'Strasser_et_al_05_22_2020
+      'Mathew_et_al_05_23_2020
+      'Kaslow_et_al_05_07_2020
+      'Viner_et_al_05_24_2020
+      'Ackermann_et_al_05_21_2020
+      'Allen_et_al_05_06_2020
+      'Lednicky_et_al_05_22_2020
+      'Morawska_et_al_05_27_2020
+      'Mehra_et_al_05_22_2020
+      'Geleris_et_al_05_27_2020
+      'Kuo_et_al_05_26_2020
+      'Graham_et_al_05_16_2020
+      'Mudd_et_al_05_15_2020
+      'Shi_et_al_05_26_2020
+      'Lythgoe_et_al_05_29_2020
+      'Dohery_et_al_05_29_2020
+      'Xu_et_al_05_28_2020
+      'Vizcarra_et_al_2020
+      'Siedner_et_al_2020
+      'Kantor_et_al_2020
+      'Reiche_et_al_2020
+      'Rosenberg_et_al_2020
+      'Bert_et_al_2020
+      'Zubair_et_al_2020
+      'Li_et_al_2020f
+      'Bullard_et_al_2020
+      'Howard_et_al_2020
+      'Saini_et_al_2020
+      'Leclerc_et_al_2020
+      'Williamson_et_al_2020
+      'Dingens_et_al_2020
+      'Goldman-Israelow_et_al_2020
+      'Somsen_et_al_2020
       'Tom_et_al_2020
       'ONeill_et_al_2020
       'Berlin_et_al_2020
@@ -52,6 +91,15 @@ feed Research
   / April, 2020
   feed April2020
     --
+      'Bae_et_al_04_06_2020
+      'King_et_al_04_24_2020
+      'Ferreira_et_al_04_19_2020
+      'Chen_et_al_2020e
+      'Giorgio_et_al_2020
+      'Yao_et_al_2020b
+      'Wu_et_al_2020f
+      'Endo_et_al_2020
+      'Braun_et_al_2020
       'Scott_et_al_2020
       'Xu_et_al_2020b
       'Kujawski_et_al_2020
@@ -121,6 +169,7 @@ feed Research
   / March, 2020
   feed March2020
     --
+      'Boni_et_al_03_31_2020
       'Arentz_et_al_2020
       'Nishiura_et_al_2020c
       'Zhao_et_al_2020b
@@ -260,6 +309,7 @@ feed Research
   / January, 2020
   feed January2020
     --
+      'Riou_et_al_2020
       'Chan_et_al_2020
       'SaifAddin_et_al_2020
       'Lu_et_at_2020
@@ -317,6 +367,9 @@ feed Research
     -- August, 2018
       'Duffy_et_al_2018
 
+    -- June, 2018
+      'Logan_et_al_2018
+
     -- May, 2018
       'Perng_et_al_2018
       'Pavlovich_et_al_2018
@@ -353,6 +406,7 @@ feed Research
       'gracia_et_al_2017b
 
     -- July, 2017
+      'Lin_et_al_01_26_2017
       'Lin_et_al_2017
 
     -- May, 2017
@@ -443,6 +497,7 @@ feed Research
       'Zhang_et_al_2013
 
     -- October, 2012
+      'Johnson_et_al_10_05_2012
       'Singla_et_al_2012
       'Kleinnijenhuis_et_al_2012
 
@@ -459,6 +514,7 @@ feed Research
       'Chut_et_al_2011
 
     -- July, 2011
+      'Johnson_et_al_06_21_2011
       'Stein_et_al_2011
 
     -- June, 2011
@@ -500,6 +556,9 @@ feed Research
     -- January, 2009
       'Takeuchi_et_al_2009
 
+    -- October, 2008
+      'Soni_et_al_2008
+
     -- April, 2008
       'Shi_et_al_2008
 
@@ -507,6 +566,7 @@ feed Research
       'Mossong_et_al_2008
 
     -- January, 2008
+      'Lei_et_al_01_06_2020
       'Jefferson_et_al_2008
 
     -- June, 2007
@@ -592,6 +652,9 @@ feed Research
 
     -- July, 2000
       'John_et_al_2000
+
+    -- May, 1998
+      'Dreyfuss_et_al_1998
 
     -- June, 1997
       'Beck_et_al_1997
@@ -1461,11 +1524,19 @@ feed Research
     / May, 2020 - Epidemiology
     let !h self assert = In Hong Kong, the average delay to isolation was 5.6 days for cluster cases, and by this time most onwards transmission had perhaps already occurred. The most important public health measures therefore are likely to be case identification followed by rapid and parallel (e.g. before contacts are confirmed as cases) contact tracing and quarantine. Some degree of intermittent physical distancing may also be required to supress potential local transmission from unidentified infections and pre-symptomatic transmission, but must necessarily be balanced with the social, economic and educational costs associated with such policies.
 
+<<<<<<< HEAD
     / May, 2020 - Epidemiology
     let !i self assert = Secondly, our results also suggest a potential caveat: despite evidence supporting rapid contact tracing and the effectiveness of quarantine, in our analysis, most chains of transmission did not terminate in quarantine. This however must be interpreted in the context of moderate physical distancing in Hong Kong as highlighted previously, rather than a suggestion that quarantine was not essential.
 
     / May, 2020 - Epidemiology
     let !j self assert = In the absence of non-pharmaceutical interventions such as physical distancing implemented in Hong Kong, the potential for SSEs is likely greater than observed in our study. Assuming local elimination is not possible, disease control efforts should focus on rapid tracing and quarantine of confirmed contacts, along with the implementation of physical distancing policies or closures targeting high292 risk social exposures such as bars, nightclubs and restaurants to prevent the occurrence of SSEs. Given the long right-hand tail of the distribution of individual reproductive numbers, preventing SSEs would have a considerable effect in reducing the overall reproductive number. In lieu of an effective vaccine, theseresults have significant implications for the control of COVID-19 and public health measures such as physical distancing and the relaxation of lockdowns around the world.
+=======
+     / May, 2020 - Epidemiology
+     let !i self assert = Secondly, our results also suggest a potential caveat: despite evidence supporting rapid contact tracing and the effectiveness of quarantine, in our analysis, most chains of transmission did not terminate in quarantine. This however must be interpreted in the context of moderate physical distancing in Hong Kong as highlighted previously, rather than a suggestion that quarantine was not essential.
+
+     / May, 2020 - Epidemiology
+     let !j self assert = In the absence of non-pharmaceutical interventions such as physical distancing implemented in Hong Kong, the potential for SSEs is likely greater than observed in our study. Assuming local elimination is not possible, disease control efforts should focus on rapid tracing and quarantine of confirmed contacts, along with the implementation of physical distancing policies or closures targeting high292 risk social exposures such as bars, nightclubs and restaurants to prevent the occurrence of SSEs. Given the long right-hand tail of the distribution of individual reproductive numbers, preventing SSEs would have a considerable effect in reducing the overall reproductive number. In lieu of an effective vaccine, theseresults have significant implications for the control of COVID-19 and public health measures such as physical distancing and the relaxation of lockdowns around the world.
+>>>>>>> dev.05.28c.debug
 
 
   # public policy, mitigation, non-pharmaceutical interventions, social distancing, hygiene, contact tracing
