@@ -1525,17 +1525,23 @@ feed Research
     let !h self assert = In Hong Kong, the average delay to isolation was 5.6 days for cluster cases, and by this time most onwards transmission had perhaps already occurred. The most important public health measures therefore are likely to be case identification followed by rapid and parallel (e.g. before contacts are confirmed as cases) contact tracing and quarantine. Some degree of intermittent physical distancing may also be required to supress potential local transmission from unidentified infections and pre-symptomatic transmission, but must necessarily be balanced with the social, economic and educational costs associated with such policies.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     / May, 2020 - Epidemiology
     let !i self assert = Secondly, our results also suggest a potential caveat: despite evidence supporting rapid contact tracing and the effectiveness of quarantine, in our analysis, most chains of transmission did not terminate in quarantine. This however must be interpreted in the context of moderate physical distancing in Hong Kong as highlighted previously, rather than a suggestion that quarantine was not essential.
 
     / May, 2020 - Epidemiology
     let !j self assert = In the absence of non-pharmaceutical interventions such as physical distancing implemented in Hong Kong, the potential for SSEs is likely greater than observed in our study. Assuming local elimination is not possible, disease control efforts should focus on rapid tracing and quarantine of confirmed contacts, along with the implementation of physical distancing policies or closures targeting high292 risk social exposures such as bars, nightclubs and restaurants to prevent the occurrence of SSEs. Given the long right-hand tail of the distribution of individual reproductive numbers, preventing SSEs would have a considerable effect in reducing the overall reproductive number. In lieu of an effective vaccine, theseresults have significant implications for the control of COVID-19 and public health measures such as physical distancing and the relaxation of lockdowns around the world.
 =======
+=======
+>>>>>>> dev.05.28c.debug
      / May, 2020 - Epidemiology
      let !i self assert = Secondly, our results also suggest a potential caveat: despite evidence supporting rapid contact tracing and the effectiveness of quarantine, in our analysis, most chains of transmission did not terminate in quarantine. This however must be interpreted in the context of moderate physical distancing in Hong Kong as highlighted previously, rather than a suggestion that quarantine was not essential.
 
      / May, 2020 - Epidemiology
      let !j self assert = In the absence of non-pharmaceutical interventions such as physical distancing implemented in Hong Kong, the potential for SSEs is likely greater than observed in our study. Assuming local elimination is not possible, disease control efforts should focus on rapid tracing and quarantine of confirmed contacts, along with the implementation of physical distancing policies or closures targeting high292 risk social exposures such as bars, nightclubs and restaurants to prevent the occurrence of SSEs. Given the long right-hand tail of the distribution of individual reproductive numbers, preventing SSEs would have a considerable effect in reducing the overall reproductive number. In lieu of an effective vaccine, theseresults have significant implications for the control of COVID-19 and public health measures such as physical distancing and the relaxation of lockdowns around the world.
+<<<<<<< HEAD
+>>>>>>> dev.05.28c.debug
+=======
 >>>>>>> dev.05.28c.debug
 
 
