@@ -183,7 +183,7 @@ subject module VirusFeatures
       'Yang_et_al_2020.!b
       'Xu_et_al_2020b
     -- Viral Detection
-      'Li_et_al_2020b
+      'Li_et_al_2020d
       'Woelfel_et_al_2020b.!h
       'Woelfel_et_al_2020b.!i
     # Mention Assertions that viral load is not the main predictor of disease outcomes
@@ -199,7 +199,7 @@ subject module VirusFeatures
       'Kim_et_al_2020b.!b
       'Kim_et_al_2020b.!c
       'Kim_et_al_2020b.!d
-      'Pan_et_al_2020
+      'Pan_et_al_2020b
 
 
 
@@ -339,7 +339,7 @@ subject module VirusFeatures
     subject HospitalTransmission
       --
         'Pan_et_al_2020.!c
-        'Liu_et_al_2020b
+        'Liu_et_al_2020bb
 
   subject module Environment
     -- Weather Influence
@@ -353,8 +353,7 @@ subject module VirusFeatures
 
 # Pathogeny
 subject module DiseaseFeatures
-  --
-    'Li_et_al_2020b
+
   --
     InfectiousCycle
     Complications
@@ -396,7 +395,7 @@ subject module DiseaseFeatures
         'Lavezzo_et_al_2020.!c
         'Mizumoto_et_al_2020
         'Nishiura_et_al_2020
-        'Pan_et_al_2020.!d
+        'Pan_et_al_2020b.!d
 
     subject SymptomaticPhase
       --
@@ -462,6 +461,7 @@ subject module DiseaseFeatures
     subject Pneumonia
       --
         'Zheng_et_al_2020
+        'Li_et_al_2020b
 
     / Cardiovascular
     subject CardiacDysfunction
@@ -986,7 +986,7 @@ subject module Mitigation
       'J_et_al_2020.!h
       'J_et_al_2020.!j
       'Pan_et_al_2020.!e
-      'Liu_et_al_2020b.!a
+      'Liu_et_al_2020bb.!a
 
   # Inactivating Agents / or Disinfection of envioronmental surfaces
   subject Disinfection

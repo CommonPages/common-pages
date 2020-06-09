@@ -33,6 +33,20 @@ feed Research
   / May, 2020
   feed May2020
     --
+      'Xiao_et_al_05_18_2020
+      'Banerjee_et_al_05_12_2020
+      'Thoms_et_al_05_18_2020
+      'Domling_et_al_05_20_2020
+      'Subbarao_et_al_05_19_2020
+      'Puelles_et_al_05_13_2020
+      'Skirmuntt_et_al_05_12_2020
+      'Weng_et_al_05_19_2020
+      'Kimmig_et_al_05_20_2020
+      'Dieterle_et_al_05_20_2020
+      'Vanderheiden_et_al_05_20_2020
+      'Breiman_et_al_05_21_2020
+      'Hillen_et_al_05_15_2020
+      'Muruato_et_al_05_22_2020
       'Strasser_et_al_05_22_2020
       'Mathew_et_al_05_23_2020
       'Kaslow_et_al_05_07_2020
@@ -91,6 +105,9 @@ feed Research
   / April, 2020
   feed April2020
     --
+      'Smith_et_al_04_26_2020
+      'Chen_et_al_04_06_2020
+      'Jiang_et_al_04_27_2020
       'Bae_et_al_04_06_2020
       'King_et_al_04_24_2020
       'Ferreira_et_al_04_19_2020
@@ -269,6 +286,7 @@ feed Research
   / February, 2020
   feed February2020
     --
+      'Smith_et_al_02_25_2020
       'Kim_et_al_2020b
       'Xie_et_al_2020
       'Lan_et_al_2020
@@ -682,6 +700,279 @@ feed Research
       'Hamburger_et_al_1948
 
   #
+
+  # Fecal Transmission
+  // Infectious SARS-CoV-2 in Feces of Patient with Severe COVID-19
+  doi: https://doi.org/10.3201/eid2608.200681
+  ref 'Xiao_et_al_05_18_2020
+    head = Isolation of infectious SARS-CoV-2 in feces indicates the possibility of fecal–oral transmission or fecal–respiratory transmission through aerosolized feces. During the 2003 severe acute respiratory syndrome pandemic, 329 residents of a private housing estate in Hong Kong were infected; 42 died . Investigation of the building’s structure showed that faulty sewage pipelines led to aerosolization of contaminated feces, which was believed to be the source of infection.
+
+    >>> Abstract
+      Severe acute respiratory syndrome coronavirus 2 was isolated from feces of a patient in China with coronavirus disease who died. Confirmation of infectious virus in feces affirms the potential for fecal–oral or fecal–respiratory transmission and warrants further study.
+
+    -- exports
+      !a
+
+    / May, 2020 - Emerg Infect Dis.
+    let !a self assert = Our findings indicate the need for appropriate precautions to avoid potential transmission of SARS-CoV-2 from feces. Discharge and hospital cleaning practices should consider this possibility for critically ill patients or those who died who had high viral loads and are more likely to shed infectious virus.
+
+  # Smokers
+  // Cigarette Smoke Exposure and Inflammatory Signaling Increase the Expression of the SARS-CoV-2 Receptor ACE2 in the Respiratory Tract
+  doi: https://doi.org/10.1016/j.devcel.2020.05.012
+  ref 'Smith_et_al_04_26_2020
+    head = Cigarette smokers harbor consistently higher levels of the SARS-CoV-2 receptor ACE2 in their respiratory tracts. This upregulation is likely mediated by the expansion of ACE2+ secretory cells caused by chronic smoke exposure. Certain inflammatory cytokines also trigger ACE2 upregulation, which could further influence ACE2 expression due to smoking-associated lung inflammation.
+
+    >>> Abstract
+      The factors mediating fatal SARS-CoV-2 infections are poorly understood. Here, we show that cigarette smoke causes a dose-dependent upregulation of angiotensin converting enzyme 2 (ACE2), the SARS-CoV-2 receptor, in rodent and human lungs. Using single-cell sequencing data, we demonstrate that ACE2 is expressed in a subset of secretory cells in the respiratory tract. Chronic smoke exposure triggers the expansion of this cell population and a concomitant increase in ACE2 expression. In contrast, quitting smoking decreases the abundance of these secretory cells and reduces ACE2 levels. Finally, we demonstrate that ACE2 expression is responsive to inflammatory signaling and can be upregulated by viral infections or interferon treatment. Taken together, these results may partially explain why smokers are particularly susceptible to severe SARS-CoV-2 infections. Furthermore, our work identifies ACE2 as an interferon-stimulated gene in lung cells, suggesting that SARS-CoV-2 infections could create positive feedback loops that increase ACE2 levels and facilitate viral dissemination.
+
+    -- exports
+      !a
+
+    / April, 2020 - Developmental Cell
+    let !a self assert = We found that ACE2 is an interferon-regulated gene, and is over expressed in lung epithelial cells following viral infection or interferon treatment. Lung damage and inflammation caused by smoking could also contribute to ACE2 upregulation. Additionally, we speculate that the interferon-dependent upregulation of ACE2 could create a positive feedback loop for SARS-CoV-2 infections. That is, interferon secretion following an initial infection could increase ACE2 expression within neighboring cells, thereby rendering those cells susceptible to SARS-CoV-2 and facilitating viral dissemination.
+
+
+  # Mortality Rate - Prediction
+  // Estimating excess 1-year mortality associated with the COVID-19 pandemic according to underlying conditions and age: a population-based cohort study
+  doi: https://doi.org/10.1016/S0140-6736(20)30854-0
+  ref 'Banerjee_et_al_05_12_2020
+    head = If the relative risk of COVID-19 on mortality over 1 year were 1·2 (ie, the same magnitude as the winter vs summer mortality excess) then the number of excess deaths would be zero when one in 100000 individuals are infected (full suppression scenario), 7350 when one in ten are infected (mitigate scenario), and 58798 when eight in ten are infected (do nothing scenario). However, if the relative risk is doubled to 2·0, then there would be 36749 deaths in the mitigation scenario and 293991 deaths in the do nothing scenario. These results should inform targeting of those at highest risk for a range of preventive interventions.
+
+    # / May, 2020 - The Lancet
+    # let !a self assert =
+
+  # Immune Response
+  // Structural basis for translational shutdown and immune evasion by the Nsp1 protein of SARS-CoV-2
+  doi: https://doi.org/10.1101/2020.05.18.102467
+  ref 'Thoms_et_al_05_18_2020
+    head = Our data establish that one of the major immune evasion factors of SARS-CoV-2, Nsp1, efficiently interferes with the cellular translation machinery in order to shut-down the production of host proteins including antiviral defense factors. As the molecular basis we discovered the obstruction of the mRNA entry channel by the C-terminal domain of Nsp1, which employs a highly specific interaction with uS3, uS5 and rRNA helix 18 on the 40S small ribosomal subunit.
+
+    >>> Abstract
+      SARS-CoV-2 is the causative agent of the current COVID-19 pandemic. A major virulence factor of SARS-CoVs is the nonstructural protein 1 (Nsp1) which suppresses host gene expression by ribosome association via an unknown mechanism. Here, we show that Nsp1 from SARS-CoV-2 binds to 40S and 80S ribosomes, resulting in shutdown of capped mRNA translation both in vitro and in cells. Structural analysis by cryo-electron microscopy (cryo-EM) of in vitro reconstituted Nsp1-40S and of native human Nsp1-ribosome complexes revealed that the Nsp1 C-terminus binds to and obstructs the mRNA entry tunnel. Thereby, Nsp1 effectively blocks RIG-I-dependent innate immune responses that would otherwise facilitate clearance of the infection. Thus, the structural characterization of the inhibitory mechanism of Nsp1 may aid structure-based drug design against SARS-CoV-2.
+
+    -- exports
+      !a
+
+    / May, 2020 - bioRxiv
+    let !a self assert = Sensing of Coronaviruses by RIG-I mounts an innate immune response that - if not blocked by the virus - would efficiently restrict viral replication. A central target of the translational shutdown is the innate immune response, in particular the RIG-I-dependent type-I interferon signaling cascade, which depends on the induction of genes and their subsequent translation to exert anti-viral action.
+
+    / May, 2020 - bioRxiv
+    let !b self assert = Although SARS-CoV-2 encodes additional potential inhibitors of the innate immune system, a loss of Nsp1 function might thus enable the host cell to efficiently restrict viral replication and consequently prevent the development of a severe respiratory disease. Recombinant SARS-CoV-2 bearing mutations in Nsp1 could be used to clarify the relative contribution of Nsp1 to immune evasion in the viral context.
+
+    / May, 2020 - bioRxiv
+    let !c self assert =
+
+
+  # Structure
+  // Chemistry and Biology of SARS-CoV-2
+  doi: https://doi.org/10.1016/j.chempr.2020.04.023
+  ref 'Domling_et_al_05_20_2020
+    head = Despite the rather large size of the RNA virus genome of ~30,000 bases, the SARS-CoV-2 genome encodes for few proteins the structural spike (S) protein, nucleocapsid (N) protein, membrane (M) protein, and the envelope (E) protein, which are needed to produce a structurally complete viral particle. Additionally, the SARS-CoV-2 genome encodes 16–17 non-structural proteins (ns1 to ns17), such as 3-chymotrypsin-like protease (3CLpro), papain-like protease (PLpro), helicase, and RNA-dependent RNA polymerase (RdRp).
+
+    # / May, 2020 - Chem
+    #  let !a self assert =
+
+  # Pneumonia , !a, !b, !c - Immune Response , !d - Entry - ACE 2
+  // Respiratory Virus Infections: Understanding COVID-19
+  doi: https://doi.org/10.1016/j.immuni.2020.05.004
+  ref 'Subbarao_et_al_05_19_2020
+    head = COVID-19 pneumonia differs from that caused by other respiratory viruses in the severity and duration of inflammation, which appears to be driven by an exuberant innate immune response, a flood of proinflammatory cytokines, and multiorgan dysfunction, driven by derangements in pulmonary and clotting physiology.
+
+    >>> Abstract
+      Respiratory viruses affect us throughout our lives, from infancy to old age, causing illnesses ranging from a common cold to severe pneumonia. They belong to several virus families, and although many features of infection with these diverse viruses are shared, some have unique characteristics. Here we explain what happens when we are infected by respiratory viruses, including SARS-CoV-2, which causes COVID-19.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+
+    / May, 2020 - Immunity
+    let !a self assert = Innate responses are activated when macrophages encounter damage-associated molecular patterns (DAMPs), such as intracellular contents released from dying cells or proteins released by tissue injury, or pathogen-associated molecular patterns (PAMPs), such as viral RNA or oxidized phospholipids from invading pathogens.
+
+    / May, 2020 - Immunity
+    let !b self assert = DAMPs and PAMPs released during initial infection and lysis of pneumocytes (surface epithelial cells of the alveoli) activate multiple innate immune pathways through Toll-like receptors (TLRs), NLRP3 and/or inflammasome activation, or triggering of cytoplasmic DNA sensors such as RIG-I-MAVS and cGAS-STING.
+
+    / May, 2020 - Immunity
+    let !c self assert = The signal transduction that follows drives production of cytokines that activate antiviral gene expression programs in neighboring cells. They also recruit additional innate and adaptive immune cells with diverse roles in antiviral immunity, tissue repair, and homeostasis. Dysregulation of the innate immune response contributes to the cytokine storm seen in severe influenza A/H5N1 and SARS-CoV-2 infection.
+
+    / May, 2020 - Immunity
+    let !d self assert = The physiological role of ACE2 is in regulation of blood pressure; ACE2 metabolizes angiotensin II, a vasoconstrictor, to generate angiotensins 1−7, which are vasodilators. Cells lining the mucosal surfaces of the nose and lungs are endowed with ACE2, which facilitates infection of the respiratory tract. However, ACE2 is also expressed on cells in many other tissues, including the endothelium, heart, gut, and kidneys, making these organs susceptible to infection by the virus.
+
+  # Entry
+  // Multiorgan and Renal Tropism of SARS-CoV-2
+  doi: https://doi.org/10.1056/NEJMc2011400
+  ref 'Puelles_et_al_05_13_2020
+    head = Renal tropism is a potential explanation of commonly reported new clinical signs of kidney injury in patients with Covid-19, even in patients with SARS-CoV-2 infection who are not critically ill. Our results indicate that SARS-CoV-2 has an organotropism beyond the respiratory tract, including the kidneys, liver, heart, and brain, and we speculate that organotropism influences the course of Covid-19 disease and, possibly, aggravates preexisting conditions.
+
+    -- exports
+      !a
+
+    / May, 2020 - NEJM
+    let !a self assert =  The highest levels of SARS-CoV-2 copies per cell were detected in the respiratory tract, and lower levels were detected the kidneys, liver, heart, brain, and blood.
+
+  # Frontiers - bats
+  // The Potential Role of Endogenous Viral Elements in the Evolution of Bats as Reservoirs for Zoonotic Viruses
+  doi: https://doi.org/10.1146/annurev-virology-092818-015613
+  ref 'Skirmuntt_et_al_05_12_2020
+    head = As suspected reservoirs for emerging viral diseases, and as a highly diverse order with unique adaptive traits contributing to ecosystem balance, bats should be considered as a research priority. Particular effort should be made in studying their immune system and empirically testing predictions such as those developed from their comparative biology, linking the role of bats as hosts for viruses through the genetic adaptations to their immune responses.
+
+    -- exports
+      !a
+
+    / May, 2020 - Annual Review of Virology
+    let !a self assert = EVEs have been shown to have important roles in host biology, where they can benefit their hosts in battling exogenous viral infections, and are essential factors acting in reproduction as demonstrated by the syncytin genes (123). Novel roles of EVEs continue to be discovered, such as evidence that EVEs can act as a system analogous to CRISPR-Cas in prokaryotes, becoming templates to piRNAs, which can act in silencing of transposable elements.
+
+  # Frontiers - Plant based antiviral / Vaccine
+  // Plant Solutions for the COVID-19 Pandemic and Beyond: Historical Reflections and Future Perspectives
+  doi: https://doi.org/10.1016/j.molp.2020.05.014
+  ref 'Weng_et_al_05_19_2020
+    head = Research projects to study medicinal plants with antiviral properties, for which funding was difficult to obtain in the pre-COVID-19 climate, might have yielded potential cures for COVID-19. Even for the seemingly distantly related field of plant engineering, clever heterologous expression systems in plants might well be adapted to produce vaccines or therapeutic antibodies.
+
+
+    # / May, 2020 - Molecular Plant
+    # let !a self assert =
+
+
+  # Disease Serverity predictions
+  // Predicting Illness Severity and Short-Term Outcomes of COVID-19: A Retrospective Cohort Study in China
+  doi: https://doi.org/10.1016/j.xinn.2020.04.007
+  ref 'Chen_et_al_04_06_2020
+    head = In summary, we proposed a model containing four routine baseline parameters. This allowed accurate prediction of severity among COVID-19 patients. The model accurately stratified these patients into relevant risk categories. It could further help to produce appropriate clinical decisions and optimized allocations of hospital resources when shifting attention to the server during the pandemic.
+
+    # / April, 2020 - The Innovation
+    # let !a self assert =
+
+
+  # IL6 - Side effcts
+  // IL6 inhibition in critically ill COVID-19 patients is associated with increased secondary infections
+  doi: https://doi.org/10.1101/2020.05.15.20103531
+  ref 'Kimmig_et_al_05_20_2020
+    head = Exaggerated immune response may play a role in the development of respiratory failure, shock, and multiorgan dysfunction in critically ill patients with COVID-19. Similarities between the exaggerated immune response associated with COVID-19 or sepsis in general and the cytokine release syndrome (CRS) reported in patients with CAR T-cell therapy led to the use of tocilizumab, an anti-IL-6 therapy to attenuate hyperimmune responses associated with COVID.
+
+    >>> Abstract
+      Anti-inflammatory therapies such as IL-6 inhibition have been proposed for COVID-19 in a vacuum of evidence-based treatment. However, abrogating the inflammatory response in infectious diseases may impair a desired host response and predispose to secondary infection. To determine whether IL-6 inhibition is associated with an increased occurrence of secondary infections in patients admitted to the intensive care unit (ICU). We retrospectively reviewed the medical record of patients during an 8-week span and compared the incidence of secondary infection in patients who did and did not receive tocilizumab. The study was approved by the IRB. Additionally, we included representative histopathologic post-mortem findings from several COVID-19 cases that underwent autopsy at our institution. The study was conducted in a cohorted COVID-19 ICU at a tertiary care university medical center. Patients 18 years of age or older admitted to the adult COVID-19 intensive care unit with COVID-19 were randomly selected. We reviewed the occurrence and nature of secondary infections and clinical outcomes in patients who did and did not receive tocilizumab. Measures were formulated prior to the study. For autopsy findings, we were interested in the lung pathology. 60 patients were selected of which 28 had received tocilizumab while 32 had not. Receiving tocilizumab was associated with a higher risk of secondary bacterial (64.3% vs. 31.3%, p=0.010) and fungal (7.1% vs. 0%, p=0.096) infections. 7 cases underwent autopsy. In 3 cases, tocilizumab had previously been given. All 3 patients demonstrated evidence of pneumonia on pathology. Of the 4 cases that had not been given tocilizumab, 2 showed evidence of aspiration pneumonia and 2 exhibited diffuse alveolar damage. Experimental therapies are currently being applied to COVID-19 outside of clinical trials. Anti-inflammatory therapies such as anti-IL-6 therapy have the potential to impair viral clearance, predispose to secondary infection, and cause harm. We seek to raise physician awareness of these issues and highlight the need to better understand the immune response in COVID-19.
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / May, 2020 - bioRxiv
+    let !a self assert = Receiving tocilizumab was associated with a higher incidence of secondary bacterial infections including hospital acquired pneumonia and ventilator associated pneumonia.
+
+    / May, 2020 - bioRxiv
+    let !b self assert = These findings raise concerns about the use of tocilizumab in the presence of an infection to attenuate CRS. In particular, the occurrence of secondary bacterial infections may prolong ICU stays, and the occurrence of secondary fungal infections stands out as unusual in critical care patients without traditional risk factors (e.g. neutropenia).
+
+    / May, 2020 - bioRxiv
+    let !c self assert = While there is evidence of efficacy for IL-6 blockade in rheumatological diseases and to manage complications of T cell engaging therapies, which are driven by a primary immune response, there is no evidence that immune blockade is clinically beneficial when microbial infections drive the host response. Indeed, a previous anti-cytokine strategy targeting TNFα increased mortality in septic patients and was linked to increased risk of infections.
+
+  # Frontiers - Antiviral
+  // A replication-competent vesicular stomatitis virus for studies of SARS-CoV-2 spike-mediated cell entry and its inhibition
+  doi: https://doi.org/10.1101/2020.05.20.105247
+  ref 'Dieterle_et_al_05_20_2020
+    head = We describe a highly infectious recombinant vesicular stomatitis virus bearing the SARS-CoV-2 spike glycoprotein S that closely resembles the authentic agent in its entry-related properties. We show that rVSV-SARS-CoV-2 S affords the high-throughput, reporter-based screening of small-molecule and antibody-based inhibitors targeting the viral spike glycoprotein with performance characteristics comparable to those of SARS-CoV-2.
+
+    >>> Abstract
+      There is an urgent need for vaccines and therapeutics to prevent and treat COVID-19. Rapid SARS-CoV-2 countermeasure development is contingent on the availability of robust, scalable, and readily deployable surrogate viral assays to screen antiviral humoral responses, and define correlates of immune protection, and to down-select candidate antivirals. Here, we describe a highly infectious recombinant vesicular stomatitis virus bearing the SARS-CoV-2 spike glycoprotein S as its sole entry glycoprotein that closely resembles the authentic agent in its entry-related properties. We show that the neutralizing activities of a large panel of COVID-19 convalescent sera can be assessed in high-throughput fluorescent reporter assay with rVSV-SARS-CoV-2 S and that neutralization of the rVSV and authentic SARS-CoV-2 by spike-specific antibodies in these antisera is highly correlated. Our findings underscore the utility of rVSV-SARS-CoV-2 S for the development of spike-specific vaccines and therapeutics and for mechanistic studies of viral entry and its inhibition.
+
+    -- exports
+      !a
+
+    / May, 2020 - bioRxiv
+    let !a self assert = The availability of a highly infectious rVSV surrogate that can be scaled up with relative ease to produce standardized batches for antiviral screening and readily deployed in reporter-based microneutralization assays will facilitate these efforts.
+
+
+  # Immune Response - !a - Frontiers Antiviral
+  // Type I and Type III IFN Restrict SARS-CoV-2 Infection of Human Airway Epithelial Cultures
+  doi: https://doi.org/10.1101/2020.05.19.105437
+  ref 'Vanderheiden_et_al_05_20_2020
+    head = We characterized the innate immune response to SARS-CoV-2 infection using an in vitro model of the air-lung epithelial barrier. We found that pHAE cultures are permissive to SARS-CoV-2, but mount a weak innate antiviral response, that is notably lacking type I and III IFN production, signaling, and induction of ISGs.
+
+    >>> Abstract
+      The newly emerged human coronavirus, SARS-CoV-2, has caused a pandemic of respiratory illness. The innate immune response is critical for protection against Coronaviruses. However, little is known about the interplay between the innate immune system and SARS-CoV-2. Here, we modeled SARS-CoV-2 infection using primary human airway epithelial (pHAE) cultures, which are maintained in an air-liquid interface. We found that SARS-CoV-2 infects and replicates in pHAE cultures and is directionally released on the apical, but not basolateral surface. Transcriptional profiling studies found that infected pHAE cultures had a molecular signature dominated by pro-inflammatory cytokines and chemokine induction, including IL-6, TNFα, CXCL8. We also identified NF-κB and ATF4 transcription factors as key drivers of this pro-inflammatory cytokine response. Surprisingly, we observed a complete lack of a type I or III IFN induction during SARS-CoV-2 infection. Pre-treatment or post-treatment with type I and III IFNs dramatically reduced virus replication in pHAE cultures and this corresponded with an upregulation of antiviral effector genes. Our findings demonstrate that SARS-CoV-2 induces a strong pro-inflammatory cytokine response yet blocks the production of type I and III IFNs. Further, SARS-CoV-2 is sensitive to the effects of type I and III IFNs, demonstrating their potential utility as therapeutic options to treat COVID-19 patients.
+
+    -- exports
+      !a
+
+    / May, 2020 - bioRxiv
+    let !a self assert = Instead, the innate immune response signature of infected pHAEs is dominated by pro-inflammatory cytokines and chemokines that will recruit neutrophils and monocytes. Most importantly, therapeutic treatment of pHAE cultures with type I and III IFNs are able to reduce SARS-CoV-2 viral burden.
+
+  # Frontiers - Vaccines
+  // Harnessing the natural anti-glycan immune response to limit the transmission of enveloped viruses such as SARS-CoV-2
+  doi: https://doi.org/10.1371/journal.ppat.1008556
+  ref 'Breiman_et_al_05_21_2020
+    head = We propose to enhance the innate anti-viral protection conferred by natural anti-glycan antibodies in order to lower both the risk of emergence of coronaviruses, or other enveloped viruses, from a nonprimate mammalian species and the risk of transmission within the human population. This could add-up to other protection and containment measures, mitigating the impact of the epidemic.
+
+    -- exports
+      !a
+      !b
+
+    / May, 2020 - Plos Pathogens
+    let !a self assert = Virions produced by blood group O individuals are devoid of A or B antigens and can be fully transmitted regardless of the recipient blood type. Viruses produced by A and B blood groups individuals are decorated by A or B blood group epitopes (red and green spikes, respectively) and viruses produced by blood group AB individuals are decorated by both A and B epitopes. Transmission of such viruses will be decreased by the presence of either anti-A and/or anti-B of the recipient
+
+    / May, 2020 - Plos Pathogens
+    let !b self assert = Blood groups A and B might also be harnessed to increase the efficacy of SARS-CoV-2 vaccines. Indeed, the virus spike proteins, which are the main target of currently designed vaccines, might be produced in cells that are enzymatically equipped to synthetize A and B antigens so that the vaccine glycoprotein will carry these epitopes. In addition to generating neutralizing anti-S protein, the vaccine would stimulate anti-A and anti-B responses that may contribute to the vaccine efficacy in all cases of ABO incompatible transmissions.
+
+  # DNA Vaccine
+  // Immunogenicity of a DNA vaccine candidate for COVID-19
+  doi: https://doi.org/10.1038/s41467-020-16505-0
+  ref 'Smith_et_al_02_25_2020
+    head = In summary, these initial results describing the immunogenicity of COVID-19 vaccine candidate, INO-4800 are promising, and it is particularly encouraging to measure functional antibodies and T cell responses in multiple animal models. This study supports the further evaluation of INO-4800 as a vaccine candidate for COVID-19.
+
+    >>> Abstract
+      The coronavirus family member, SARS-CoV-2 has been identified as the causal agent for the pandemic viral pneumonia disease, COVID-19. At this time, no vaccine is available to control further dissemination of the disease. We have previously engineered a synthetic DNA vaccine targeting the MERS coronavirus Spike (S) protein, the major surface antigen of coronaviruses, which is currently in clinical study. Here we build on this prior experience to generate a synthetic DNA-based vaccine candidate targeting SARS-CoV-2 S protein. The engineered construct, INO-4800, results in robust expression of the S protein in vitro. Following immunization of mice and guinea pigs with INO-4800 we measure antigen-specific T cell responses, functional antibodies which neutralize the SARS-CoV-2 infection and block Spike protein binding to the ACE2 receptor, and biodistribution of SARS-CoV-2 targeting antibodies to the lungs. This preliminary dataset identifies INO-4800 as a potential COVID-19 vaccine candidate, supporting further translational study.
+
+    # / Feb, 2020 - Nature
+    # let !a self assert =
+
+  # Structures
+  // Structure of replicating SARS-CoV-2 polymerase
+  doi: https://doi.org/10.1038/s41586-020-2368-8
+  ref 'Hillen_et_al_05_15_2020
+    head = Here we present the cryo-electron microscopic structure of the SARS-CoV-2 RdRp in active form, mimicking the replicating enzyme. The structure comprises the viral proteins nsp12, nsp8, and nsp7, and over two turns of RNA template-product duplex.
+
+    >>> Abstract
+      The coronavirus SARS-CoV-2 uses an RNA-dependent RNA polymerase (RdRp) for the replication of its genome and the transcription of its genes. Here we present the cryo-electron microscopic structure of the SARS-CoV-2 RdRp in active form, mimicking the replicating enzyme. The structure comprises the viral proteins nsp12, nsp8, and nsp7, and over two turns of RNA template-product duplex. The active site cleft of nsp12 binds the first turn of RNA and mediates RdRp activity with conserved residues. Two copies of nsp8 bind to opposite sides of the cleft and position the second turn of RNA. Long helical extensions in nsp8 protrude along exiting RNA, forming positively charged ‘sliding poles’. These sliding poles can account for the known processivity of the RdRp that is required for replicating the long coronavirus genome3. Our results enable a detailed analysis of the inhibitory mechanisms that underlie the antiviral activity of substances such as remdesivir, a drug for the treatment of coronavirus disease 2019 (COVID-19).
+
+    # / May, 2020 - Nature
+    # let !a self assert =
+
+
+  # Diagnostic
+  // A high-throughput neutralizing antibody assay for COVID-19 diagnosis and vaccine evaluation
+  doi: https://doi.org/10.1101/2020.05.21.109546
+  ref 'Muruato_et_al_05_22_2020
+    head = In this study, we developed a rapid fluorescence-based high-throughput assay for COVID-19 serodiagnosis. The reporter virus assay is superior to antigen/antibody binding assays because it measures functional SARS-CoV-2 neutralizing activity in the specimens.
+
+    >>> Abstract
+      Virus neutralization remains the gold standard for determining antibody efficacy. Therefore, a high-throughput assay to measure SARS-CoV-2 neutralizing antibodies is urgently needed for COVID-19 serodiagnosis, convalescent plasma therapy, and vaccine development. Here we report on a fluorescence-based SARS-CoV-2 neutralization assay that detects SARS-CoV-2 neutralizing antibodies in COVID-19 patient specimens and yields comparable results to plaque reduction neutralizing assay, the gold standard of serological testing. Our approach offers a rapid platform that can be scaled to screen people for antibody protection from COVID-19, a key parameter necessary to safely reopen local communities.
+
+    -- exports
+      !a
+
+    / May, 2020 - bioRxiv
+    let !a self assert = Compared with the PRNT assay, our reporter neutralization test has shortened the assay turnaround time by several days and increased the testing capacity to high throughput.
+
+  # Disease Features - Pneumonia !b Reinfection
+  // Pathogenesis of SARS-CoV-2 in transgenic mice expressing human angiotensin-converting enzyme 2
+  doi: https://doi.org/10.1016/j.cell.2020.05.027
+  ref 'Jiang_et_al_04_27_2020
+    head = The infected mice had two different outcomes, recovery, and death. Significant weight loss was only observed in dead and severely diseased mice. Thus, weight loss could serve as a good indicator for monitoring disease progression. Our results provide strong evidence that SARS-CoV-2 infection could cause typical interstitial pneumonia in hACE2-expressing mice, and that progeny virus could be re-isolated from diseased animal tissues.
+
+    >>> Abstract
+      COVID-19 has spread worldwide since 2019 and is now a severe threat to public health. We previously identified the causative agent as a novel SARS-related coronavirus (SARS-CoV-2) that uses human angiotensin-converting enzyme 2 (hACE2) as the entry receptor. Here, we successfully developed a SARS-CoV-2 hACE2 transgenic mouse (HFH4-hACE2 in C3B6 mice) infection model. The infected mice generated typical interstitial pneumonia and pathology that were similar to those of COVID-19 patients. Viral quantification revealed the lungs as the major site of infection, although viral RNA could also be found in the eye, heart, and brain in some mice. Virus identical to SARS-CoV-2 in full-genome sequences was isolated from the infected lung and brain tissues. Lastly, we showed that pre-exposure to SARS-CoV-2 could protect mice from severe pneumonia. Our results show that the hACE2 mouse would be a valuable tool for testing potential vaccines and therapeutics.
+
+    -- exports
+      !a
+      !b
+
+    / April, 2020 - Cell
+    let !a self assert = After SARS-CoV-2 infection, the hACE2-experssing mice showed apparent interstitial pneumonia with inflammatory cell infiltration. Severe pneumonia in mice was accompanied by fibroplasia, organization, congestion, and oedema with hyaline membrane formation. Some alveolar cells were dissolved and necrotic, and some terminal bronchioles were blocked.
+
+    / April, 2020 - Cell
+    let !b self assert = The surviving mice generated low titres of neutralisation antibodies (1:10 to 1:40). The reinfection with much higher titres of virus (7*105 TCID50 SARS-CoV-2) only caused mild pneumonia in the surviving mice. In contrast, the naïve-infected mice had severe disease with much higher viral RNA copies in the lung and brain tissues. It is unclear that the neutralising antibody or humoral immunity caused the observed protection.
+
 
   # Public Policy
   // A history of the medical mask and the rise of throwaway culture
