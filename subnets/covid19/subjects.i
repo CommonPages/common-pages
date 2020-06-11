@@ -40,6 +40,12 @@ subject module Timeline
       'Anderson_et_al_2020
       'Guo_et_al_2020
       'Paraskevis_et_al_2020
+      'Li_et_al_05_19_2020
+      'Li_et_al_05_19_2020.!a
+      'Li_et_al_05_19_2020.!b
+      'Boni_et_al_03_31_2020
+      'Latinne_et_al_05_31_2020
+      'Zhou_et_al_06_08_2020
     -- Discovery and Diagnostics
       'Phan_et_al_2020
     -- Pangolin as a host
@@ -50,6 +56,7 @@ subject module Timeline
       'Zhang_et_al_2020i
       'Chan_et_al_2020.!p
     -- Wuhan
+      'Riou_et_al_01_24_2020
       'Ji_et_al_2020
       'Wang_et_al_2020c
       'Chan_et_al_2020
@@ -58,6 +65,9 @@ subject module Timeline
     -- USA
       'Holshue_et_al_2020
       'Scott_et_al_2020
+      'Rosenberg_et_al_05_08_2020
+      'Reiche_et_al_05_29_2020
+      'Rosenberg_et_al_05_29_2020
     -- China
       'Huang_et_al_2020
       'Huang_et_al_2020.!a
@@ -71,6 +81,7 @@ subject module Timeline
       'Wu_et_al_2020.!a
       'Chen_et_al_2020c
       'Wu_et_al_2020e
+      'Bi_et_al_04_27_2020
     -- Korea
       'Kim_et_al_2020
       'Lim_et_al_2020
@@ -120,6 +131,8 @@ subject module VirusFeatures
 
   subject module Genetics
     # Variant Pop - Including HLA
+    -- APOE e4 genotype
+      'Kuo_et_al_05_26_2020
     -- Genetic Diversity
       'Phan_et_al_2020b
       'Paraskevis_et_al_2020
@@ -140,6 +153,8 @@ subject module VirusFeatures
       'Bhattacharyya_et_al_2020.!e
       'Bhattacharyya_et_al_2020.!f
       'Bhattacharyya_et_al_2020.!g
+      'Yao_et_al_04_23_2020
+      'Giorgio_et_al_04_27_2020
     -- Gene Expression
       'King_et_al_2020
       'King_et_al_2020.!a
@@ -156,15 +171,22 @@ subject module VirusFeatures
       'Gao_et_al_2020b
       'Gao_et_al_2020b.!a
       'Gao_et_al_2020b.!b
+      'Hillen_et_al_05_15_2020
+      'Domling_et_al_05_20_2020
 
   / Entry and Replication
   subject module Entry
-    # TMPRSS2 and ACE 2
+    # TMPRSS2 and ACE 2 / Neuropilin
     -- Entry to host
       'Hoffman_et_al_2020
       'Matsuyama_et_al_2020
       'Stawiski_et_al_2020
       'Wan_et_al_2020.!a
+      'Chen_et_al_05_19_2020
+      'Puelles_et_al_05_13_2020
+      'Subbarao_et_al_05_19_2020.!d
+      'Daly_et_al_06_05_2020
+      'Meinhardt_et_al_06_04_2020
     -- Temperature
       'Vkovski_et_al_2020
       'Vkovski_et_al_2020.!a
@@ -200,6 +222,7 @@ subject module VirusFeatures
       'Kim_et_al_2020b.!c
       'Kim_et_al_2020b.!d
       'Pan_et_al_2020b
+      'Puelles_et_al_05_13_2020
 
 
 
@@ -209,6 +232,14 @@ subject module VirusFeatures
         'van_Doremalen_et_al_2020
         'van_Doremalen_et_al_2020.!a
         'Lu_et_al_2020
+        'Somsen_et_al_05_27_2020.!a
+        'Somsen_et_al_05_27_2020.!b
+        'Somsen_et_al_05_27_2020.!c
+        'Somsen_et_al_05_27_2020.!d
+        'Somsen_et_al_05_27_2020.!e
+        'Johnson_et_al_10_05_2012
+        'Lin_et_al_01_26_2017
+        'Johnson_et_al_06_21_2011
     subject module SurfaceViability
       --
         'van_Doremalen_et_al_2020
@@ -222,6 +253,7 @@ subject module VirusFeatures
         'Wu_et_al_2020d.!b
         'Wu_et_al_2020d.!d
         'Pan_et_al_2020b.!f
+        'Johnson_et_al_10_05_2012
   subject module Transmission
 
     / Human-Animal Transmission and vice versa
@@ -241,6 +273,8 @@ subject module VirusFeatures
           'Jing_et_al_2020.!b
           'Jing_et_al_2020.!c
           'Jing_et_al_2020.!d
+          'Bi_et_al_04_27_2020.!g
+          'Bi_et_al_04_27_2020.!h
         -- Indoor Tranmission
           'Ji_et_al_2020
           'Peng-Li_et_al_2020
@@ -262,11 +296,17 @@ subject module VirusFeatures
           'Nishiura_et_al_2020c.!b
           'Chan_et_al_2020
           'Scott_et_al_2020.!e
+          'Leclerc_et_al_05_01_2020
+
         -- Outdoor Tranmission
           'Qian_et_al_2020.!h
+        -- Airline
+          'Lei_et_al_01_06_2020
         --
           'Hamburger_et_al_1948
           'Hamburger_et_al_1948.!j
+        --
+          'Lythgoe_et_al_05_29_2020
 
         --
           AerosolTransmission
@@ -274,9 +314,14 @@ subject module VirusFeatures
         subject AerosolTransmission
           -- Aerosol Prevention
             'Liu_et_al_2020
+            'Lednicky_et_al_05_22_2020
           --
             'Asadi_et_al_2019
+            'Allen_et_al_05_06_2020
         subject FaecalTransmission
+          --
+            'Lin_et_al_01_26_2017
+            'Xiao_et_al_05_18_2020
       subject module NetworkDynamics
         --
           'Bi_et_al_2020
@@ -302,6 +347,7 @@ subject module VirusFeatures
             'Nishiura_et_al_2020
             'Lavezzo_et_al_2020.!e
             'Lavezzo_et_al_2020.!f
+            'Wu_et_al_04_20_2020
         subject Superspreaders
           -- SARS
             'Lee_et_al_2003.!a
@@ -327,6 +373,7 @@ subject module VirusFeatures
             'Adam_et_al_2020
             'Adam_et_al_2020.!a
             'Miller_et_al_2020b.!b
+            'Endo_et_al_04_09_2020
 
           --
             'Lloyd-Smith_et_al_2005
@@ -396,6 +443,7 @@ subject module DiseaseFeatures
         'Mizumoto_et_al_2020
         'Nishiura_et_al_2020
         'Pan_et_al_2020b.!d
+        'Graham_et_al_05_16_2020.!b
 
     subject SymptomaticPhase
       --
@@ -422,6 +470,9 @@ subject module DiseaseFeatures
         'Berlin_et_al_2020.!e
         'Scott_et_al_2020.!a
         'Scott_et_al_2020.!e
+        'Zubair_et_al_05_29_2020
+        'Chen_et_al_05_19_2020
+        'Meinhardt_et_al_06_04_2020
     subject ImmuneResponse
       --
         'Chen_et_al_2020d
@@ -437,15 +488,39 @@ subject module DiseaseFeatures
         'Zheng_et_al_2020b.!g
         'Zheng_et_al_2020b.!h
         'Zheng_et_al_2020b.!i
+        'Goldman-Israelow_et_al_05_27_2020
+        'Braun_et_al_04_22_2020
+        'Bert_et_al_05_27_2020
+        'Grifoni_et_al_05_04_2020
+        'Grifoni_et_al_05_04_2020.!c
+        'Mudd_et_al_05_15_2020
+        'Mathew_et_al_05_23_2020
+        'Vanderheiden_et_al_05_20_2020
+        'Subbarao_et_al_05_19_2020.!a
+        'Subbarao_et_al_05_19_2020.!b
+        'Subbarao_et_al_05_19_2020.!c
+        'Thoms_et_al_05_18_2020
+        'Merad_et_al_05_06_2020
+        'Melo_et_al_05_15_2020
       -- Frontiers
+        'Qian_et_al_11_06_2012
         'Chan_et_al_2013
         'Furman_et_al_2015
         'Xu_et_al_2015
+        'Niwa_et_al_10_15_2018
         'Okba_et_al_2020.!b
         'Okba_et_al_2020.!c
         'Okba_et_al_2020.!d
+        'Merad_et_al_05_06_2020
+        'Broggi_et_al_01_06_2020
 
   subject module Complications
+    -- Endothelial Cell Infection
+      'Varga_al_04_20_2020
+      'Ackermann_et_al_05_21_2020
+    -- CNS
+      'Meinhardt_et_al_06_04_2020.!i
+      'Meinhardt_et_al_06_04_2020.!j
     subject CytokineStorms
       --
         'Zheng_et_al_2020
@@ -462,6 +537,8 @@ subject module DiseaseFeatures
       --
         'Zheng_et_al_2020
         'Li_et_al_2020b
+        'Jiang_et_al_04_27_2020
+        'Subbarao_et_al_05_19_2020
 
     / Cardiovascular
     subject CardiacDysfunction
@@ -480,7 +557,6 @@ subject module DiseaseFeatures
         'Tang_et_al_2020
         'Tang_et_al_2020.!a
         'Siddiqi_et_al_2020.!e
-
       --
         'Yin_et_al_2020
         'Xiong_et_al_2020
@@ -506,6 +582,9 @@ subject module DiseaseFeatures
         'Song_et_al_2020.!q
         'Song_et_al_2020.!r
         'Berlin_et_al_2020.!t
+      # blood vessel disease
+      --
+        'Ackermann_et_al_05_21_2020
 
   # Impact Factors / Influences / Susceptibility / Clinical Characteristics based on location .. Suggested Variant / Possible Variant
   subject module VariantPopulations
@@ -523,6 +602,21 @@ subject module DiseaseFeatures
       'Hauser_et_al_2020
     -- Blood Group
       'Zhao_et_al_2020b
+      'Ellinghaus_et_al_06_02_2020.!b
+      'Ellinghaus_et_al_06_02_2020.!c
+    -- Ethnicity
+      'Williamson_et_al_05_07_2020.!b
+      'Rosenberg_et_al_05_29_2020.!c
+      'Rosenberg_et_al_05_29_2020.!f
+      'DelValle_et_al_05_30_2020.!f
+      'Van-Dorn_et_al_04_18_2020.!a
+    -- HIV
+      'Vizcarra_et_al_05_28_2020
+      'Xu_et_al_05_28_2020
+    -- Cancer
+      'Lee_et_al_05_28_2020
+    -- Genetic Diversity
+      'Ellinghaus_et_al_06_02_2020
 
 
     subject module Age
@@ -531,6 +625,7 @@ subject module DiseaseFeatures
           'Zimmermann_et_al_2020
           'Lavezzo_et_al_2020.!d
           'Gudbjartsson_et_al_2020.!g
+          'Viner_et_al_05_24_2020
         -- Complications
           'Riphagen_et_al_2020
       subject Elderly
@@ -543,6 +638,11 @@ subject module DiseaseFeatures
           'Verity_et_al_2020
           'Onder_et_al_2020
           'Tom_et_al_2020.!q
+          'Salje_et_al_04_20_2020.!b
+          'Rosenberg_et_al_05_29_2020.!g
+          'Lee_et_al_05_28_2020.!d
+          'DelValle_et_al_05_30_2020.!e
+          'Mueller_et_al_05_29_2020
         -- Background
           'Qian_et_al_2011
           'Jing_et_al_2009
@@ -557,12 +657,19 @@ subject module DiseaseFeatures
         'Pan_et_al_2020.!a
         'Simonnet_et_al_2020.!b
         'Gudbjartsson_et_al_2020.!h
-
+        'Williamson_et_al_05_07_2020.!a
+        'Salje_et_al_04_20_2020.!c
+        'Rosenberg_et_al_05_29_2020.!b
+        'Rosenberg_et_al_05_29_2020.!g
+        'Lee_et_al_05_28_2020.!d
+        'DelValle_et_al_05_30_2020.!e
+        'Richardson_et_al_04_22_2020.!d
     subject Smokers
       --
         'Smith_et_al_2020
         'Pan_et_al_2020
         'Pan_et_al_2020.!b
+        'Smith_et_al_04_26_2020
 
     subject PregnantWomen
       --
@@ -602,6 +709,7 @@ subject module DiseaseFeatures
         'Wadhera_et_al_2020.!a
         'Wadhera_et_al_2020.!b
         'Wadhera_et_al_2020.!d
+        'Richardson_et_al_04_22_2020
       -- UK
         'Docherty_et_al_2020
       -- China
@@ -657,6 +765,8 @@ subject module DiseaseFeatures
         'Li_et_al_2020c.!b
         'Li_et_al_2020c.!c
         'Li_et_al_2020c.!d
+        'Lee_et_al_05_28_2020.!d
+        'DelValle_et_al_05_30_2020.!g
       # Should be under hypertension + Diabetes
       -- ACE2
         'AlGhatrif_et_al_2020
@@ -669,6 +779,9 @@ subject module DiseaseFeatures
         --
           'FangFang_et_al_2020
           'Li_et_al_2020c.!b
+          'Lee_et_al_05_28_2020.!d
+          'DelValle_et_al_05_30_2020.!g
+          'Li_et_al_05_29_2020
 
       subject Hypertension
         --
@@ -679,6 +792,8 @@ subject module DiseaseFeatures
           'Kim_et_al_2017
           'Peiró_et_al_2020
           'Li_et_al_2020c.!b
+          'Lee_et_al_05_28_2020.!d
+          'DelValle_et_al_05_30_2020.!g
       subject Obesity
         --
           'Simonnet_et_al_2020
@@ -701,10 +816,23 @@ subject module DiseaseFeatures
       'Pan_et_al_2020.!a
       'Lighter_et_al_2020
       'Wadhera_et_al_2020.!a
+      'Salje_et_al_04_20_2020.!b
+      'Basu_et_al_05_07_2020
+
     -- Mortality Rate
       'Modig_et_al_2020
       'Berlin_et_al_2020.!e
       'Arentz_et_al_2020.!h
+      'Graham_et_al_05_16_2020
+      'Banerjee_et_al_05_12_2020
+      'Lee_et_al_05_28_2020.!d
+      'Richardson_et_al_04_22_2020.!d
+      'Richardson_et_al_04_22_2020.!g
+      'Richardson_et_al_04_22_2020.!n
+    -- Prediction
+      'Yan_et_al_05_14_2020
+      'Grewelle_et_al_05_18_2020
+
 
   subject module Immunity
     subject Antibodies
@@ -720,6 +848,7 @@ subject module DiseaseFeatures
         'Zhang_et_al_2020g
         'Amanat_et_al_2020
         'Lassaunière_et_al_2020
+        'Lv_et_al_06_02_2020
       -- How long does your immunity last
         'Zhao_et_al_2020
         'Zhao_et_al_2020.!a
@@ -738,6 +867,7 @@ subject module DiseaseFeatures
         'Wölfel_et_al_2020.!h
         'Wölfel_et_al_2020.!i
         'Amanat_et_al_2020.!b
+        'Jiang_et_al_04_27_2020.!b
 
     subject Relapse
       # False Positive / Negative Papers
@@ -773,6 +903,18 @@ subject module Diagnostics
     'Wang_et_al_2020b
     'Tom_et_al_2020.!h
     'Xie_et_al_2020
+  -- Immune Profiling
+    'Mathew_et_al_05_23_2020.!a
+    'Mathew_et_al_05_23_2020.!b
+  --
+    'Bullard_et_al_05_22_2020
+    'Weissleder_et_al_06_03_2020
+  -- Severity
+    'Chen_et_al_04_06_2020
+    'Chen_et_al_02_08_2020
+    'DelValle_et_al_05_30_2020
+    'DelValle_et_al_05_30_2020.!m
+
 
   --
     Serology
@@ -799,12 +941,23 @@ subject module Diagnostics
       'Thompson_et_al_2020.!a
       'Lipsitch_et_al_2020
       'Okba_et_al_2020
+      'Wu_et_al_04_20_2020
+      'Muruato_et_al_05_22_2020
+      'Weissleder_et_al_06_03_2020
+      'Watson_et_al_05_12_2020
+      'Sethuraman_et_al_05_06_2020
+    -- Seroprevalence
+      'Salje_et_al_04_20_2020.!j
+      'Stringhini_et_al_05_06_2020
+      'Wang-To_et_al_06_03_2020
   subject PCR
     # Limitations of PCR
     --
       'Joynt_et_al_2020
       'Fang_et_al_2020
       'Yuan_et_al_2020
+      'Weissleder_et_al_06_03_2020
+      'Woloshin_et_al_06_05_2020
     -- Limitation of RT-PCR
       'Xiao_et_al_2020
       'Lan_et_al_2020
@@ -814,6 +967,8 @@ subject module Diagnostics
       'Babady_et_al_2017
       'Huang_et_al_2017
       'Beckmann_et_al_2016
+      'Watson_et_al_05_12_2020
+      'Sethuraman_et_al_05_06_2020
     -- RT- PCR
       'Chut_et_al_2011
 
@@ -841,8 +996,14 @@ subject module Mitigation
         'Reza_et_al_2011
         'Leung_et_al_2020
         'Jing_et_al_2020.!k
+        'Howard_et_al_05_13_2020
+        'Bae_et_al_04_06_2020
+        'Strasser_et_al_05_22_2020
+        'Chu_et_al_06_01_2020
       -- PPE
         'Ling_et_al_2020.!b
+      -- Gloves
+        'King_et_al_04_24_2020
 
   # / Network Prevention / Containment
   subject CommunityMitigation
@@ -864,11 +1025,19 @@ subject module Mitigation
       'Lai_et_al_2020b.!i
       'Lai_et_al_2020b.!j
       'Lai_et_al_2020b.!k
+      'Zhang_et_al_04_29_2020
     --
       'Wang_et_al_2005.!f
       'Wang_et_al_2005.!g
     -- Italy
       'Lavezzo_et_al_2020.!a
+    -- France
+      'Salje_et_al_04_20_2020
+    -- UK
+      'Davies_et_al_06_02_2020
+    -- Airborne Tranmission
+      'Morawska_et_al_05_27_2020
+
 
     --
       HerdImmunity
@@ -903,6 +1072,7 @@ subject module Mitigation
         'Woelfel_et_al_2020b.!i
         'Sanche_et_al_2020.!f
         'Chan_et_al_2020.!r
+        'Bi_et_al_04_27_2020.!k
     subject SocialDistancing
       --
         'Cowling_et_al_2020
@@ -928,6 +1098,7 @@ subject module Mitigation
         'Lavezzo_et_al_2020.!f
         'Jing_et_al_2020.!a
         'Sanche_et_al_2020.!f
+        'Bi_et_al_04_27_2020.!i
 
     subject Sewage
       --
@@ -947,6 +1118,7 @@ subject module Mitigation
         'Ferrari_et_al_2006
         'Fine_et_al_2011
         'Langwig_et_al_2017
+        'Logan_et_al_2018
       --
         'Gomes_et_al_2020
         'Britton_et_al_2020
@@ -987,6 +1159,7 @@ subject module Mitigation
       'J_et_al_2020.!j
       'Pan_et_al_2020.!e
       'Liu_et_al_2020bb.!a
+      'Somsen_et_al_05_27_2020.!f
 
   # Inactivating Agents / or Disinfection of envioronmental surfaces
   subject Disinfection
@@ -1013,7 +1186,7 @@ subject module Mitigation
   # New Subject as Prospects
   # 'Darnell_et_al_2004
 
-# / Medical Interventions
+# / Medical Interventions # Disease Control
 subject module Remediation
   -- Potential Interventions
     'Li_et_al_2020
@@ -1038,11 +1211,20 @@ subject module Remediation
     'Berlin_et_al_2020.!u
     'Berlin_et_al_2020.!v
     'Berlin_et_al_2020.!w
+  -- Neuroinvasion
+    'Zubair_et_al_05_29_2020.!a
+    'Zubair_et_al_05_29_2020.!b
+    'Zubair_et_al_05_29_2020.!c
+    'Zubair_et_al_05_29_2020.!d
+    'Zubair_et_al_05_29_2020.!e
+    'Zubair_et_al_05_29_2020.!f
+
 
   --
     Vaccines
     Therapeutics
     Frontiers
+    Ventilators
 
   subject Vaccines
     -- Frontiers
@@ -1055,6 +1237,14 @@ subject module Remediation
       'Iwasaki_et_al_2020
       'Iwasaki_et_al_2020.!a
       'Wan_et_al_2019
+      'Grifoni_et_al_05_04_2020.!a
+      'Grifoni_et_al_05_04_2020.!b
+      'Kaslow_et_al_05_07_2020
+      'Breiman_et_al_05_21_2020
+      'Dieterle_et_al_05_20_2020
+      'Weng_et_al_05_19_2020
+      'Robbiani_et_al_05_22_2020
+      'Lv_et_al_06_02_2020
     --
       Process
       Prospects
@@ -1068,9 +1258,14 @@ subject module Remediation
       -- RNA Vaccine
         'Amanat_et_al_2020b.!a
         'Amanat_et_al_2020b.!b
+        'Erasmus_et_al_05_28_2020
       -- DNA Vaccine
         'Amanat_et_al_2020b.!c
         'Amanat_et_al_2020b.!d
+        'Smith_et_al_02_25_2020
+        'Smith_et_al_05_08_2020
+        'Yu_et_al_05_20_2020
+        'Chandrashekar_et_al_05_20_2020
       -- Recombinant Protien Vaccine
         'Amanat_et_al_2020b.!e
         'Amanat_et_al_2020b.!f
@@ -1096,6 +1291,8 @@ subject module Remediation
           'Kleinnijenhuis_et_al_2012
           'Hegarty_et_al_2020
           'ONeill_et_al_2020
+        -- Counter
+          'Hamiel_et_al__05_13_2020
 
   subject Therapeutics
 
@@ -1136,11 +1333,14 @@ subject module Remediation
           'Vincent_et_al_2005
           'Cortegiani_et_al_2020
           'Wang_et_al_2020
+
       subject Hydroxychloroquine
         --
           'Liu_et_al_2020b
           'Yao_et_al_2020
           'Mahevas_et_al_2020
+          'Geleris_et_al_05_27_2020
+
       / Hydroxychloroquine with Zinc
       subject HydroxychloroquineWithZinc
       / Hydroxychloroquine with Azithromycin
@@ -1184,15 +1384,26 @@ subject module Remediation
           'Evavold_et_al_2017
           'Evavold_et_al_2017.!a
           'Siddiqi_et_al_2020.!g
+          'Conti_et_al_03_14_2020
       # (Sarilumab, Siltuximab, Tocilizumab)
       / Interleukin-6 (IL-6) Inhibitors
       subject IL6
         --
           'Siddiqi_et_al_2020.!g
+          'Kimmig_et_al_05_20_2020
+          'Conti_et_al_03_14_2020
+          'DelValle_et_al_05_30_2020.!r
+          'DelValle_et_al_05_30_2020.!s
       # Other Immunomodulators
       subject Interferons
+        --
+          'Vanderheiden_et_al_05_20_2020.!a
         #  (Alpha, Beta)
       subject JanusKinaseInhibitors
+      subject CytokineInhibitors
+        --
+          'Konig_et_al_04_18_2020
+          'DelValle_et_al_05_30_2020
         #  (e.g., Baricitinib)
     #  / Concomitant Medications
     / Anti-Inflammatories
@@ -1243,6 +1454,7 @@ subject module Remediation
       'Benfield_et_al_2019
       'Banerjee_et_al_2020
       'Pavlovich_et_al_2018
+      'Skirmuntt_et_al_05_12_2020
     -- Zinc Inhibitor
       'Velthuis_et_al_2010
     -- Zinc
@@ -1257,8 +1469,12 @@ subject module Remediation
       'Iwasaki_et_al_2014
       'Netea_et_al_2016
       'Pillai_et_al_2016
+      'Broggi_et_al_01_06_2020
+      'Niwa_et_al_10_15_2018
     -- SARS and MERS
       'Zumla_et_al_2016
+      'Alharbi_et_al_11_19_2019
+      'Shan-Shi_et_al_06_05_2019
     -- Genetic Risk ?
       'Stawiski_et_al_2020
       'Batlle_et_al_2020
@@ -1320,13 +1536,30 @@ subject module Remediation
       'Stokes_et_al_2020.!a
     --
       'Monteil_et_al_2020
-
+    -- Cross Neutralization
+      'Ju_et_al_05_26_2020
+    -- Monoclonal Antibodies
+      'Shi_et_al_05_26_2020
+    -- Vesicular stomatitis virus
+      'Dieterle_et_al_05_20_2020
+      'Fukushi_et_al_2005
+      'Daly_et_al_06_05_2020.!f
+    -- Cytokine Profiling
+      'DelValle_et_al_05_30_2020
     --
       Proteases
 
     subject Proteases
       --
         'Hoffmann_et_al_2020
+  subject Ventilators
+    -- Side effects
+      'Dreyfuss_et_al_1998
+      'Soni_et_al_2008
+    --
+      'Ferreira_et_al_04_19_2020
+      'Richardson_et_al_04_22_2020.!f
+      'Richardson_et_al_04_22_2020.!l
 
 subject module Projections
   --
@@ -1365,8 +1598,17 @@ subject module Projections
       'Sanche_et_al_2020.!d
       'Sanche_et_al_2020.!e
       'Miller_et_al_2020b.!d
+      'Salje_et_al_04_20_2020.!d
+      'Salje_et_al_04_20_2020.!f
+      'Bi_et_al_04_27_2020.!l
+      'Bi_et_al_04_27_2020.!m
+      'Bi_et_al_04_27_2020.!n
+    -- Overdispersion "k"
+      'Endo_et_al_04_09_2020
 
 subject module PublicPolicy
+  --
+    SocialBehavior
   --
     'Wadhera_et_al_2020
     'Lai_et_al_2020b
@@ -1379,9 +1621,19 @@ subject module PublicPolicy
     'Adam_et_al_2020.!i
     'Adam_et_al_2020.!j
     'Tom_et_al_2020
+    'Siedner_et_al_05_29_2020
+    'Dohery_et_al_05_29_2020
+    'Van-Dorn_et_al_04_18_2020
+  -- Mental Health
+    'Kantor_et_al_05_28_2020
+  -- Seroprevalence
+    'Bryant_et_al_05_19_2020
+
 
   -- Community level antibody testing
     'Lipsitch_et_al_2020
+
   subject SocialBehavior
     --
       'Bavel_et_al_2020
+      'Reyna_et_al_06_02_2020
