@@ -1,39 +1,33 @@
 
 subject module Timeline
   subject Background
-    -- SARS animal reservoir / Emergence
-      'Shi_et_al_2008
-      'Zhao_et_al_2010
-      'Luk_et_al_2019
-      'Holmes_et_al_2004
-    -- SARS T-cell
-      'Chen_et_al_2009
-      'Zhao_et_al_2010
-    -- SARS Prevention/Prospects for Covid
-      'Darnell_et_al_2004
     -- Bats
       'Wertheim_et_al_2013
       'Lin_et_al_2017
       'Baucells_et_al_2017
     -- Human Coronaviruses
       'Graham_et_al_2010
+      'Ren_et_al_2015
       'Corman_et_al_2018
       'Cui_et_al_2018
       'Wong_et_al_2019
       'Ramadan_et_al_2019
-      'Ren_et_al_2015
     -- Mutation of virus
       'Sanjuán_et_al_2016
       'Sanjuán_et_al_2010
       'Duffy_et_al_2018
       'Elena_et_al_2005
+    -- SARS Emergence
+      'Shi_et_al_2008
+      'Shi_et_al_2008.!a
+      'Luk_et_al_2019.!a
+      'Holmes_et_al_2004
 
   subject Origin
     -- Genome sequence similar to bats and SARS
       'Li_et_al_2005
       'Brook_et_al_2020
       'Hou_et_al_2010
-      'Zhou_et_al_2020
       'Chan_et_al_2020.!q
     -- Origin of SARS-CoV2
       'Ren_et_al_2020
@@ -46,7 +40,6 @@ subject module Timeline
       'Boni_et_al_03_31_2020
       'Latinne_et_al_05_31_2020
       'Zhou_et_al_06_08_2020
-    -- Discovery and Diagnostics
       'Phan_et_al_2020
     -- Pangolin as a host
       'Zhang_et_al_2020h
@@ -56,83 +49,76 @@ subject module Timeline
       'Zhang_et_al_2020i
       'Chan_et_al_2020.!p
     -- Wuhan
+      'Zhou_et_al_2020
       'Riou_et_al_01_24_2020
       'Ji_et_al_2020
       'Wang_et_al_2020c
       'Chan_et_al_2020
 
   subject Epidemic
-    -- USA
-      'Holshue_et_al_2020
-      'Scott_et_al_2020
-      'Rosenberg_et_al_05_08_2020
-      'Reiche_et_al_05_29_2020
-      'Rosenberg_et_al_05_29_2020
+    >>> Country specific spreading of SARS-CoV-2
     -- China
+      'Phan_et_al_2020
+      'Zhu_et_al_2020
       'Huang_et_al_2020
       'Huang_et_al_2020.!a
       'J_et_al_2020
       'J_et_al_2020.!a
       'J_et_al_2020.!b
       'J_et_al_2020.!c
-      'Phan_et_al_2020
-      'Zhu_et_al_2020
       'Bi_et_al_2020
       'Wu_et_al_2020.!a
       'Chen_et_al_2020c
       'Wu_et_al_2020e
       'Bi_et_al_04_27_2020
-    -- Korea
-      'Kim_et_al_2020
-      'Lim_et_al_2020
-      'Park_et_al_2020
-    -- Singapore
-      'Young_et_al_2020
-      'Pung_et_al_2020
     -- Diamond Princess
       'Russell_et_al_2020
       'Mcmichael_et_al_2020
       'Mcmichael_et_al_2020.!a
+    -- Princess Cruise Ship
+      'Mizumoto_et_al_2020
+      'Nishiura_et_al_2020
     -- South Korea
+      'Kim_et_al_2020
+      'Lim_et_al_2020
+      'Park_et_al_2020
       'Shim_et_al_2020
       'Shim_et_al_2020.!a
+    -- Singapore
+      'Young_et_al_2020
+      'Pung_et_al_2020
     -- Iran
       'Eden_et_al_2020
       'Eden_et_al_2020.!a
       'Eden_et_al_2020.!b
+    -- USA
+      'Holshue_et_al_2020
+      'Scott_et_al_2020
+      'Rosenberg_et_al_05_08_2020
+      'Reiche_et_al_05_29_2020
+      'Rosenberg_et_al_05_29_2020
     -- Europe
       'XavierLescure_et_al_2020
-    -- Princess Cruise Ship
-      'Mizumoto_et_al_2020
-      'Nishiura_et_al_2020
-    --
+    -- Global Epidemiology
       'Lai_et_al_2020
-    -- Phylogeny / Genome Viral Sequence
+      'Ruiyun_et_al_2020
+      'Gudbjartsson_et_al_2020.!a
+      'Gudbjartsson_et_al_2020.!c
+    -- Tranmission Lineage
       'Bhattacharyya_et_al_2020
       'Miller_et_al_2020b
       'Miller_et_al_2020b.!e
       'Miller_et_al_2020b.!f
       'Miller_et_al_2020b.!g
-
-
-  subject Pandemic
-    # ∼86% of cases were undocumented before travel restrictions
-    --
-      'Ruiyun_et_al_2020
-    --
-      'Gudbjartsson_et_al_2020.!a
-      'Gudbjartsson_et_al_2020.!c
       'Gudbjartsson_et_al_2020.!i
       'Gudbjartsson_et_al_2020.!j
       'Gudbjartsson_et_al_2020.!n
       'Gudbjartsson_et_al_2020.!o
 
+
 subject module VirusFeatures
 
   subject module Genetics
-    # Variant Pop - Including HLA
-    -- APOE e4 genotype
-      'Kuo_et_al_05_26_2020
     -- Genetic Diversity
       'Phan_et_al_2020b
       'Paraskevis_et_al_2020
@@ -144,24 +130,12 @@ subject module VirusFeatures
       'Lu_et_at_2020.!b
       'Lu_et_at_2020.!c
       'Lu_et_at_2020.!d
-      'Nguyen_et_al_2020
-      'Bhattacharyya_et_al_2020
-      'Bhattacharyya_et_al_2020.!a
-      'Bhattacharyya_et_al_2020.!b
-      'Bhattacharyya_et_al_2020.!c
-      'Bhattacharyya_et_al_2020.!d
-      'Bhattacharyya_et_al_2020.!e
-      'Bhattacharyya_et_al_2020.!f
-      'Bhattacharyya_et_al_2020.!g
       'Yao_et_al_04_23_2020
-      'Giorgio_et_al_04_27_2020
     -- Gene Expression
       'King_et_al_2020
       'King_et_al_2020.!a
 
-
   subject module Structure
-
     --
       'Walls_et_al_2020
       'Wrapp_et_al_2020
@@ -191,9 +165,7 @@ subject module VirusFeatures
       'Vkovski_et_al_2020
       'Vkovski_et_al_2020.!a
 
-
   subject module Shedding
-
     -- Shedding
       'Woelfel_et_al_2020
       'He_et_al_2020
@@ -204,11 +176,7 @@ subject module VirusFeatures
       'Yang_et_al_2020.!a
       'Yang_et_al_2020.!b
       'Xu_et_al_2020b
-    -- Viral Detection
-      'Li_et_al_2020d
-      'Woelfel_et_al_2020b.!h
-      'Woelfel_et_al_2020b.!i
-    # Mention Assertions that viral load is not the main predictor of disease outcomes
+      'Woelfel_et_al_2020
     -- Viral load
       'Liu_et_al_2020c
       'Joynt_et_al_2020
@@ -223,52 +191,71 @@ subject module VirusFeatures
       'Kim_et_al_2020b.!d
       'Pan_et_al_2020b
       'Puelles_et_al_05_13_2020
+    # Viral Detection in Semen and Feces
+    -- Semen
+      'Li_et_al_2020d
+      'Woelfel_et_al_2020b.!h
+      'Woelfel_et_al_2020b.!i
+    -- Feces
+      'Wu_et_al_2020d
+      'Wu_et_al_2020d.!a
+      'Wu_et_al_2020d.!b
+      'Wu_et_al_2020d.!d
+      'Pan_et_al_2020b.!f
 
 
-
-  subject module Viability
-    subject module AerosolViability
-      --
-        'van_Doremalen_et_al_2020
-        'van_Doremalen_et_al_2020.!a
-        'Lu_et_al_2020
-        'Somsen_et_al_05_27_2020.!a
-        'Somsen_et_al_05_27_2020.!b
-        'Somsen_et_al_05_27_2020.!c
-        'Somsen_et_al_05_27_2020.!d
-        'Somsen_et_al_05_27_2020.!e
-        'Johnson_et_al_10_05_2012
-        'Lin_et_al_01_26_2017
-        'Johnson_et_al_06_21_2011
-    subject module SurfaceViability
-      --
-        'van_Doremalen_et_al_2020
-        'van_Doremalen_et_al_2020.!b
-        'van_Doremalen_et_al_2020.!c
-    # see if this paper comes under shedding
-    subject module FaecalViability
-      --
-        'Wu_et_al_2020d
-        'Wu_et_al_2020d.!a
-        'Wu_et_al_2020d.!b
-        'Wu_et_al_2020d.!d
-        'Pan_et_al_2020b.!f
-        'Johnson_et_al_10_05_2012
   subject module Transmission
 
-    / Human-Animal Transmission and vice versa
-    subject module HumanAnimalTransmission
-      --
-        'Sun_et_al_2020
-        'Chen_et_al_2020b
-
-    / Human-Human Transmission
-    subject module HumanHumanTransmission
-      # Biological pathways - Aersol + Fecal here.. air and surface.. Household indoor under Settings .. Pathway
-      subject module Mechanisms
-        -- Air and Surface
+    subject module Routes
+      subject SurfaceTransmission
+        -- Viability
+          'van_Doremalen_et_al_2020
+          'van_Doremalen_et_al_2020.!b
+          'van_Doremalen_et_al_2020.!c
+        -- Tranmission
           'Santarpia_et_al_2020
-        -- Household
+          'Ong_et_al_2020
+          'Hamburger_et_al_1948
+          'Hamburger_et_al_1948.!j
+      subject AerosolTransmission
+        -- Viability
+          'van_Doremalen_et_al_2020
+          'van_Doremalen_et_al_2020.!a
+          'Lu_et_al_2020
+          'Somsen_et_al_05_27_2020.!a
+          'Somsen_et_al_05_27_2020.!b
+          'Somsen_et_al_05_27_2020.!c
+          'Somsen_et_al_05_27_2020.!d
+          'Somsen_et_al_05_27_2020.!e
+          'Johnson_et_al_10_05_2012
+          'Lin_et_al_01_26_2017
+          'Johnson_et_al_06_21_2011
+        -- Transmission
+          'Asadi_et_al_2019
+          'Allen_et_al_05_06_2020
+          'Lednicky_et_al_05_22_2020.!a
+      subject FaecalTransmission
+        --
+          'Johnson_et_al_10_05_2012
+          'Lin_et_al_01_26_2017
+          'Xiao_et_al_05_18_2020
+    subject module Environment
+      -- Weather Influence
+        'want_et_at_2020
+        'luo_et_al_2020
+        'Moriyama_et_al_2020
+        'Notari_et_al_2020
+      -- Air Pollution
+        'Wu_et_al_2020c
+    subject module Settings
+      / Nosocomial Transmission
+      subject HospitalTransmission
+        --
+          'Pan_et_al_2020.!c
+          'Liu_et_al_2020bb
+      / Indoor Tranmission
+      subject IndoorTransmission
+        -- Household Transmission
           'Jing_et_al_2020.!a
           'Jing_et_al_2020.!b
           'Jing_et_al_2020.!c
@@ -297,34 +284,12 @@ subject module VirusFeatures
           'Chan_et_al_2020
           'Scott_et_al_2020.!e
           'Leclerc_et_al_05_01_2020
-
+      / Outdoor Transmission
+      subject OutdoorTransmission
         -- Outdoor Tranmission
           'Qian_et_al_2020.!h
-        -- Airline
-          'Lei_et_al_01_06_2020
-        --
-          'Hamburger_et_al_1948
-          'Hamburger_et_al_1948.!j
-        --
-          'Lythgoe_et_al_05_29_2020
-
-        --
-          AerosolTransmission
-          FaecalTransmission
-        subject AerosolTransmission
-          -- Aerosol Prevention
-            'Liu_et_al_2020
-            'Lednicky_et_al_05_22_2020
-          --
-            'Asadi_et_al_2019
-            'Allen_et_al_05_06_2020
-        subject FaecalTransmission
-          --
-            'Lin_et_al_01_26_2017
-            'Xiao_et_al_05_18_2020
-      subject module NetworkDynamics
-        --
-          'Bi_et_al_2020
+      / Airline Transmission
+      subject AirlineTransmission
         -- Airlines
           'Moser_et_al_1979
           'Olsen_et_al_2003
@@ -333,194 +298,162 @@ subject module VirusFeatures
           'Colizza_et_al_2006.!a
           'Colizza_et_al_2006.!b
           'Colizza_et_al_2006.!c
-        --
-          AsymptomaticCarriers
-          Superspreaders
-          Children
-        # subject socialnetwork
-        subject AsymptomaticCarriers
-          --
-            'Bi_et_al_2020.!a
-            'Russell_et_al_2020.!a
-            'Dong_et_al_2020b
-            'He_et_al_2020.!a
-            'Nishiura_et_al_2020
-            'Lavezzo_et_al_2020.!e
-            'Lavezzo_et_al_2020.!f
-            'Wu_et_al_04_20_2020
-        subject Superspreaders
-          -- SARS
-            'Lee_et_al_2003.!a
-            'Shen_et_al_2004
-            'Stein_et_al_2011
-            'Wang_et_al_2005.!a
-            'Wang_et_al_2005.!h
-          -- TB
-            'Kline_et_al_1995
-            'Kline_et_al_1995.!c
-            'Kline_et_al_1995.!d
-          --
-            'Hoehl_et_al_2020
-            'Hamner_et_al_2020
-            'Hamner_et_al_2020.!a
-            'Hamner_et_al_2020.!b
-            'Hamner_et_al_2020.!c
-            'Hamner_et_al_2020.!d
-            'Hamner_et_al_2020.!e
-            'Hamner_et_al_2020.!f
-            'Hamner_et_al_2020.!g
-            'Hamner_et_al_2020.!h
-            'Adam_et_al_2020
-            'Adam_et_al_2020.!a
-            'Miller_et_al_2020b.!b
-            'Endo_et_al_04_09_2020
-
-          --
-            'Lloyd-Smith_et_al_2005
-        subject Children
-          --
-            'Bi_et_al_2020.!b
-            'Dong_et_al_2020b.!a
-
-    / Nosocomial Transmission
-    subject HospitalTransmission
+          'Lei_et_al_01_06_2020
+    subject AsymptomaticTransmission
       --
-        'Pan_et_al_2020.!c
-        'Liu_et_al_2020bb
+        'Nishiura_et_al_2020
+        'Lavezzo_et_al_2020.!e
+        'Lavezzo_et_al_2020.!f
+        'Bi_et_al_2020.!a
+        'Russell_et_al_2020.!a
+        'Dong_et_al_2020b
+        'He_et_al_2020.!a
+    subject Superspreaders
+      -- Context
+        'Lloyd-Smith_et_al_2005
+      -- Superspreading in SARS
+        'Lee_et_al_2003.!a
+        'Shen_et_al_2004
+        'Stein_et_al_2011
+        'Wang_et_al_2005.!a
+        'Wang_et_al_2005.!h
+      -- Superspreading in TB
+        'Kline_et_al_1995
+        'Kline_et_al_1995.!c
+        'Kline_et_al_1995.!d
+      -- Superspreading Events
+        'Hoehl_et_al_2020
+        'Hamner_et_al_2020
+        'Hamner_et_al_2020.!a
+        'Hamner_et_al_2020.!b
+        'Hamner_et_al_2020.!c
+        'Hamner_et_al_2020.!d
+        'Hamner_et_al_2020.!e
+        'Hamner_et_al_2020.!f
+        'Hamner_et_al_2020.!g
+        'Hamner_et_al_2020.!h
+        'Adam_et_al_2020
+        'Adam_et_al_2020.!a
+        'Miller_et_al_2020b.!b
+        'Endo_et_al_04_09_2020
 
-  subject module Environment
-    -- Weather Influence
-      'want_et_at_2020
-      'luo_et_al_2020
-      'Moriyama_et_al_2020
-      'Notari_et_al_2020
-    -- Air Pollution
-      'Ong_et_al_2020
-      'Wu_et_al_2020c
+    / Animals
+    subject HumanAnimalTransmission
+      --
+        'Sun_et_al_2020
+        'Chen_et_al_2020b
+
 
 # Pathogeny
 subject module DiseaseFeatures
 
-  --
-    InfectiousCycle
-    Complications
-    VariantPopulations
-    Fatality
-    Immunity
-  subject module InfectiousCycle
+  / Incubation Period
+  subject IncubationPeriod
     --
-      'Woelfel_et_al_2020
+      'Colman_et_al_2018
+      'Lessler_et_al_2013
+      'Tindale_et_al_2020
+      'Nishiura_et_al_2020
+      'Linton_et_al_2020
+      'J_et_al_2020.!d
+      'Jing_et_al_2020.!h
+      'Jing_et_al_2020.!j
+      'Sanche_et_al_2020.!a
+
+  / Asymtomatic & Presymptomatic Phase
+  subject AsymptomaticPhase
     --
-      IncubationPeriod
-      AsymptomaticPhase
-      SymptomaticPhase
-      ImmuneResponse
+      'Chan_et_al_2020.!i
+      'He_et_al_2020.!b
+      'Du_et_al_2020
+      'Zou_et_al_2020
+      'J_et_al_2020.!e
+      'Sutton_et_al_2020.!b
+      'Lavezzo_et_al_2020.!b
+      'Lavezzo_et_al_2020.!c
+      'Mizumoto_et_al_2020
+      'Nishiura_et_al_2020
+      'Pan_et_al_2020b.!d
+      'Graham_et_al_05_16_2020.!b
+      'Wu_et_al_04_20_2020
 
-    # / Latent / Mismatch papers
-    subject IncubationPeriod
-      --
-        'Colman_et_al_2018
-        'Lessler_et_al_2013
-        'Tindale_et_al_2020
-        'Nishiura_et_al_2020
-        'Linton_et_al_2020
-        'J_et_al_2020.!d
-        'Jing_et_al_2020.!h
-        'Jing_et_al_2020.!j
-        'Sanche_et_al_2020.!a
+  / Symptomatic Phase
+  subject SymptomaticPhase
+    --
+      'Ragona_et_al_2020
+      'Kluytmans_et_al_2020
+      'Chen_et_al_2020d.!c
+      'Siddiqi_et_al_2020
+      'Siddiqi_et_al_2020.!a
+      'Siddiqi_et_al_2020.!b
+      'Siddiqi_et_al_2020.!c
+      'Siddiqi_et_al_2020.!d
+      'Siddiqi_et_al_2020.!e
+      'Siddiqi_et_al_2020.!f
+      'Siddiqi_et_al_2020.!g
+      'Recalcati_et_al_2020
+      'Recalcati_et_al_2020.!a
+      'Recalcati_et_al_2020.!b
+      'Joob_et_al_2020
+      'Joob_et_al_2020.!c
+      'Sanche_et_al_2020.!b
+      'Berlin_et_al_2020.!b
+      'Berlin_et_al_2020.!c
+      'Berlin_et_al_2020.!d
+      'Berlin_et_al_2020.!e
+      'Scott_et_al_2020.!a
+      'Scott_et_al_2020.!e
+      'Zubair_et_al_05_29_2020
+      'Chen_et_al_05_19_2020
+      'Meinhardt_et_al_06_04_2020
 
-    / Asymtomatic and Presymptomatic Phase
-    subject AsymptomaticPhase
-      --
-        'Chan_et_al_2020.!i
-        'He_et_al_2020.!b
-        'Du_et_al_2020
-        'Zou_et_al_2020
-        'J_et_al_2020.!e
-        'Sutton_et_al_2020.!b
-        'Lavezzo_et_al_2020.!b
-        'Lavezzo_et_al_2020.!c
-        'Mizumoto_et_al_2020
-        'Nishiura_et_al_2020
-        'Pan_et_al_2020b.!d
-        'Graham_et_al_05_16_2020.!b
-
-    subject SymptomaticPhase
-      --
-        'Ragona_et_al_2020
-        'Kluytmans_et_al_2020
-        'Chen_et_al_2020d.!c
-        'Siddiqi_et_al_2020
-        'Siddiqi_et_al_2020.!a
-        'Siddiqi_et_al_2020.!b
-        'Siddiqi_et_al_2020.!c
-        'Siddiqi_et_al_2020.!d
-        'Siddiqi_et_al_2020.!e
-        'Siddiqi_et_al_2020.!f
-        'Siddiqi_et_al_2020.!g
-        'Recalcati_et_al_2020
-        'Recalcati_et_al_2020.!a
-        'Recalcati_et_al_2020.!b
-        'Joob_et_al_2020
-        'Joob_et_al_2020.!c
-        'Sanche_et_al_2020.!b
-        'Berlin_et_al_2020.!b
-        'Berlin_et_al_2020.!c
-        'Berlin_et_al_2020.!d
-        'Berlin_et_al_2020.!e
-        'Scott_et_al_2020.!a
-        'Scott_et_al_2020.!e
-        'Zubair_et_al_05_29_2020
-        'Chen_et_al_05_19_2020
-        'Meinhardt_et_al_06_04_2020
-    subject ImmuneResponse
-      --
-        'Chen_et_al_2020d
-        'Chen_et_al_2020d.!d
-        'Chen_et_al_2020d.!e
-        'Zheng_et_al_2020b
-        'Zheng_et_al_2020b.!a
-        'Zheng_et_al_2020b.!b
-        'Zheng_et_al_2020b.!c
-        'Zheng_et_al_2020b.!d
-        'Zheng_et_al_2020b.!e
-        'Zheng_et_al_2020b.!f
-        'Zheng_et_al_2020b.!g
-        'Zheng_et_al_2020b.!h
-        'Zheng_et_al_2020b.!i
-        'Goldman-Israelow_et_al_05_27_2020
-        'Braun_et_al_04_22_2020
-        'Bert_et_al_05_27_2020
-        'Grifoni_et_al_05_04_2020
-        'Grifoni_et_al_05_04_2020.!c
-        'Mudd_et_al_05_15_2020
-        'Mathew_et_al_05_23_2020
-        'Vanderheiden_et_al_05_20_2020
-        'Subbarao_et_al_05_19_2020.!a
-        'Subbarao_et_al_05_19_2020.!b
-        'Subbarao_et_al_05_19_2020.!c
-        'Thoms_et_al_05_18_2020
-        'Merad_et_al_05_06_2020
-        'Melo_et_al_05_15_2020
-      -- Frontiers
-        'Qian_et_al_11_06_2012
-        'Chan_et_al_2013
-        'Furman_et_al_2015
-        'Xu_et_al_2015
-        'Niwa_et_al_10_15_2018
-        'Okba_et_al_2020.!b
-        'Okba_et_al_2020.!c
-        'Okba_et_al_2020.!d
-        'Merad_et_al_05_06_2020
-        'Broggi_et_al_01_06_2020
+  / Immune Reponse
+  subject ImmuneResponse
+    --
+      'Chen_et_al_2020d
+      'Chen_et_al_2020d.!d
+      'Chen_et_al_2020d.!e
+      'Zheng_et_al_2020b
+      'Zheng_et_al_2020b.!a
+      'Zheng_et_al_2020b.!b
+      'Zheng_et_al_2020b.!c
+      'Zheng_et_al_2020b.!d
+      'Zheng_et_al_2020b.!e
+      'Zheng_et_al_2020b.!f
+      'Zheng_et_al_2020b.!g
+      'Zheng_et_al_2020b.!h
+      'Zheng_et_al_2020b.!i
+      'Goldman-Israelow_et_al_05_27_2020
+      'Braun_et_al_04_22_2020
+      'Bert_et_al_05_27_2020
+      'Grifoni_et_al_05_04_2020
+      'Grifoni_et_al_05_04_2020.!c
+      'Mudd_et_al_05_15_2020
+      'Mathew_et_al_05_23_2020
+      'Vanderheiden_et_al_05_20_2020
+      'Subbarao_et_al_05_19_2020.!a
+      'Subbarao_et_al_05_19_2020.!b
+      'Subbarao_et_al_05_19_2020.!c
+      'Thoms_et_al_05_18_2020
+      'Merad_et_al_05_06_2020
+      'Melo_et_al_05_15_2020
+    -- Frontiers
+      'Chen_et_al_2009
+      'Zhao_et_al_2010
+      'Qian_et_al_11_06_2012
+      'Chan_et_al_2013
+      'Furman_et_al_2015
+      'Xu_et_al_2015
+      'Niwa_et_al_10_15_2018
+      'Okba_et_al_2020.!b
+      'Okba_et_al_2020.!c
+      'Okba_et_al_2020.!d
+      'Merad_et_al_05_06_2020
+      'Broggi_et_al_01_06_2020
 
   subject module Complications
-    -- Endothelial Cell Infection
-      'Varga_al_04_20_2020
-      'Ackermann_et_al_05_21_2020
-    -- CNS
-      'Meinhardt_et_al_06_04_2020.!i
-      'Meinhardt_et_al_06_04_2020.!j
+
+    / Cytokine Storms
     subject CytokineStorms
       --
         'Zheng_et_al_2020
@@ -533,6 +466,7 @@ subject module DiseaseFeatures
         'Liu_et_al_2020f.!b
         'Liu_et_al_2020f.!c
         'Liu_et_al_2020f.!d
+
     subject Pneumonia
       --
         'Zheng_et_al_2020
@@ -540,27 +474,28 @@ subject module DiseaseFeatures
         'Jiang_et_al_04_27_2020
         'Subbarao_et_al_05_19_2020
 
-    / Cardiovascular
+    / Cardiovascular Dysfunction
     subject CardiacDysfunction
       --
         'Siddiqi_et_al_2020.!d
         'Siddiqi_et_al_2020.!f
         'Long_et_al_2020
 
-    / Renal and Hepatic Dysfunction
-    subject RenalHepaticDysfunction
+    / Blood Coagulation
     subject BloodCoagulation
 
-      -- D-Dimer
+      --
+        'Yin_et_al_2020
+        'Xiong_et_al_2020
+        'Giannis_et_al_2020
         'Zhou_et_al_2020b
         'Cui_et_al_2020
         'Tang_et_al_2020
         'Tang_et_al_2020.!a
         'Siddiqi_et_al_2020.!e
-      --
-        'Yin_et_al_2020
-        'Xiong_et_al_2020
-        'Giannis_et_al_2020
+        'Ackermann_et_al_05_21_2020
+
+      # Shift to Remediation?
       -- Clinical Course
         'Song_et_al_2020
         'Song_et_al_2020.!a
@@ -582,11 +517,22 @@ subject module DiseaseFeatures
         'Song_et_al_2020.!q
         'Song_et_al_2020.!r
         'Berlin_et_al_2020.!t
-      # blood vessel disease
+
+    / Endothelial Cell Infection
+    subject Endothelialcell
       --
+        'Varga_al_04_20_2020
         'Ackermann_et_al_05_21_2020
 
-  # Impact Factors / Influences / Susceptibility / Clinical Characteristics based on location .. Suggested Variant / Possible Variant
+    / Central Nervous System
+    subject CNS
+      --
+        'Meinhardt_et_al_06_04_2020
+        'Meinhardt_et_al_06_04_2020.!d
+        'Meinhardt_et_al_06_04_2020.!i
+        'Meinhardt_et_al_06_04_2020.!j
+
+  / Susceptibility among Variant Population
   subject module VariantPopulations
 
     --
@@ -594,30 +540,13 @@ subject module DiseaseFeatures
       CoMorbidConditions
       Gender
       PregnantWomen
+      GeneticDiversity
+      Bloodgroup
+      VitaminD
+      Ethnicity
       Smokers
       AirPollution
       Clinicalcharacteristics
-      VitaminD
-    --
-      'Hauser_et_al_2020
-    -- Blood Group
-      'Zhao_et_al_2020b
-      'Ellinghaus_et_al_06_02_2020.!b
-      'Ellinghaus_et_al_06_02_2020.!c
-    -- Ethnicity
-      'Williamson_et_al_05_07_2020.!b
-      'Rosenberg_et_al_05_29_2020.!c
-      'Rosenberg_et_al_05_29_2020.!f
-      'DelValle_et_al_05_30_2020.!f
-      'Van-Dorn_et_al_04_18_2020.!a
-    -- HIV
-      'Vizcarra_et_al_05_28_2020
-      'Xu_et_al_05_28_2020
-    -- Cancer
-      'Lee_et_al_05_28_2020
-    -- Genetic Diversity
-      'Ellinghaus_et_al_06_02_2020
-
 
     subject module Age
       subject Children
@@ -643,10 +572,10 @@ subject module DiseaseFeatures
           'Lee_et_al_05_28_2020.!d
           'DelValle_et_al_05_30_2020.!e
           'Mueller_et_al_05_29_2020
-        -- Background
-          'Qian_et_al_2011
-          'Jing_et_al_2009
+        -- Context
           'Franceschi_et_al_2006
+          'Jing_et_al_2009
+          'Qian_et_al_2011
 
     subject Gender
       --
@@ -692,7 +621,6 @@ subject module DiseaseFeatures
       --
         'Huang_et_al_2020
         'Chen_et_al_2020c
-        'Chen_et_al_2020d.!c
       -- USA
         'Garg_et_al_2020
         'Garg_et_al_2020.!a
@@ -716,10 +644,6 @@ subject module DiseaseFeatures
         'Wang_et_al_2020c
         'Chan_et_al_2020.!e
         'Chan_et_al_2020.!g
-      -- Severe Patient
-        'Berlin_et_al_2020
-
-
 
     # Shift to environment?
     subject AirPollution
@@ -745,7 +669,23 @@ subject module DiseaseFeatures
         'Chen_et_al_2019
         'Wortsman_et_al_2020
 
-
+    subject GeneticDiversity
+      -- Genetic Diversity
+        'Ellinghaus_et_al_06_02_2020
+      -- APOE e4 genotype
+        'Kuo_et_al_05_26_2020
+      --
+        'Giorgio_et_al_04_27_2020
+      -- HLA
+        'Nguyen_et_al_2020
+        'Bhattacharyya_et_al_2020
+        'Bhattacharyya_et_al_2020.!a
+        'Bhattacharyya_et_al_2020.!b
+        'Bhattacharyya_et_al_2020.!c
+        'Bhattacharyya_et_al_2020.!d
+        'Bhattacharyya_et_al_2020.!e
+        'Bhattacharyya_et_al_2020.!f
+        'Bhattacharyya_et_al_2020.!g
 
     / Co-Morbid Conditions
     subject module CoMorbidConditions
@@ -767,6 +707,11 @@ subject module DiseaseFeatures
         'Li_et_al_2020c.!d
         'Lee_et_al_05_28_2020.!d
         'DelValle_et_al_05_30_2020.!g
+      -- HIV
+        'Vizcarra_et_al_05_28_2020
+        'Xu_et_al_05_28_2020
+      -- Cancer
+        'Lee_et_al_05_28_2020
       # Should be under hypertension + Diabetes
       -- ACE2
         'AlGhatrif_et_al_2020
@@ -804,6 +749,20 @@ subject module DiseaseFeatures
           'Lighter_et_al_2020.!b
           'Lighter_et_al_2020.!c
 
+    subject Bloodgroup
+      -- Blood Group
+        'Zhao_et_al_2020b
+        'Ellinghaus_et_al_06_02_2020.!b
+        'Ellinghaus_et_al_06_02_2020.!c
+
+    subject Ethnicity
+      -- Ethnicity
+        'Williamson_et_al_05_07_2020.!b
+        'Rosenberg_et_al_05_29_2020.!c
+        'Rosenberg_et_al_05_29_2020.!f
+        'DelValle_et_al_05_30_2020.!f
+        'Van-Dorn_et_al_04_18_2020.!a
+
   # CFR, Mortality
   subject module Fatality
     -- CFR
@@ -818,7 +777,6 @@ subject module DiseaseFeatures
       'Wadhera_et_al_2020.!a
       'Salje_et_al_04_20_2020.!b
       'Basu_et_al_05_07_2020
-
     -- Mortality Rate
       'Modig_et_al_2020
       'Berlin_et_al_2020.!e
@@ -829,10 +787,10 @@ subject module DiseaseFeatures
       'Richardson_et_al_04_22_2020.!d
       'Richardson_et_al_04_22_2020.!g
       'Richardson_et_al_04_22_2020.!n
+      'Hauser_et_al_2020
     -- Prediction
       'Yan_et_al_05_14_2020
       'Grewelle_et_al_05_18_2020
-
 
   subject module Immunity
     subject Antibodies
@@ -858,7 +816,6 @@ subject module DiseaseFeatures
         'Wu_et_al_2007.!a
         'Ka_et_al_1990
 
-
     subject Reinfection
       --
         'Bao_et_al_2020
@@ -882,101 +839,95 @@ subject module DiseaseFeatures
         'Xie_et_al_2020
 
 
-
 # Past infection, Active infection, Risk Factors
 subject module Diagnostics
-  -- LDH
-    'Han_et_al_2020
-  -- Saliva
-    'Wyllie_et_al_2020
-    'Wyllie_et_al_2020.!a
-    'Wyllie_et_al_2020.!b
-    'Wyllie_et_al_2020.!c
-    'Wyllie_et_al_2020.!d
-    'Wyllie_et_al_2020.!e
-    'Williams_et_al_2020
-    'Williams_et_al_2020.!a
-    'Williams_et_al_2020.!c
-  -- CT
-    'Inui_et_al_2020
-    'Inui_et_al_2020.!a
-    'Wang_et_al_2020b
-    'Tom_et_al_2020.!h
-    'Xie_et_al_2020
-  -- Immune Profiling
-    'Mathew_et_al_05_23_2020.!a
-    'Mathew_et_al_05_23_2020.!b
-  --
-    'Bullard_et_al_05_22_2020
-    'Weissleder_et_al_06_03_2020
-  -- Severity
-    'Chen_et_al_04_06_2020
-    'Chen_et_al_02_08_2020
-    'DelValle_et_al_05_30_2020
-    'DelValle_et_al_05_30_2020.!m
 
+  subject module Methods
+    subject Serology
+      --
+        'McLeish_et_al_2011
+        'McLeish_et_al_2011.!a
+        'Jiang_et_al_2020
+        'Netto_et_al_2017
+        'Stadlbauer_et_al_2020
+        'Mcintosh_et_al_1970
+        'Zhang_et_al_2020g
+        'Amanat_et_al_2020
+        'Amanat_et_al_2020.!c
+        'Amanat_et_al_2020.!f
+        'Lassaunière_et_al_2020.!a
+        'Lassaunière_et_al_2020.!b
+        'Lassaunière_et_al_2020.!c
+        'Lassaunière_et_al_2020.!d
+        'Lassaunière_et_al_2020.!e
+        'Thompson_et_al_2020
+        'Thompson_et_al_2020.!a
+        'Lipsitch_et_al_2020
+        'Okba_et_al_2020
+        'Wu_et_al_04_20_2020
+        'Muruato_et_al_05_22_2020
+        'Weissleder_et_al_06_03_2020
+        'Watson_et_al_05_12_2020
+        'Sethuraman_et_al_05_06_2020
+        'Weissleder_et_al_06_03_2020
+      -- Seroprevalence
+        'Salje_et_al_04_20_2020.!j
+        'Stringhini_et_al_05_06_2020
+        'Wang-To_et_al_06_03_2020
+    subject PCR
+      -- Limitations of PCR and RT-PCR
+        'Joynt_et_al_2020
+        'Fang_et_al_2020
+        'Yuan_et_al_2020
+        'Weissleder_et_al_06_03_2020
+        'Woloshin_et_al_06_05_2020
+        'Xiao_et_al_2020
+        'Lan_et_al_2020
+      -- PCR
+        'Wölfel_et_al_2020
+        'Babady_et_al_2017
+        'Huang_et_al_2017
+        'Beckmann_et_al_2016
+        'Watson_et_al_05_12_2020
+        'Sethuraman_et_al_05_06_2020
+        'Tom_et_al_2020
+      -- RT- PCR
+        'Chut_et_al_2011
+        'Bullard_et_al_05_22_2020
+      -- Saliva
+        'Wyllie_et_al_2020
+        'Wyllie_et_al_2020.!a
+        'Wyllie_et_al_2020.!b
+        'Wyllie_et_al_2020.!c
+        'Wyllie_et_al_2020.!d
+        'Wyllie_et_al_2020.!e
+        'Williams_et_al_2020
+        'Williams_et_al_2020.!a
+        'Williams_et_al_2020.!c
+    / CT Scan
+    subject CT
+      -- CT
+        'Inui_et_al_2020
+        'Inui_et_al_2020.!a
+        'Wang_et_al_2020b
+        'Xie_et_al_2020
 
-  --
-    Serology
-    PCR
-  # By application, methodology
-  subject Serology
-    --
-      'McLeish_et_al_2011
-      'McLeish_et_al_2011.!a
-      'Jiang_et_al_2020
-      'Netto_et_al_2017
-      'Stadlbauer_et_al_2020
-      'Mcintosh_et_al_1970
-      'Zhang_et_al_2020g
-      'Amanat_et_al_2020
-      'Amanat_et_al_2020.!c
-      'Amanat_et_al_2020.!f
-      'Lassaunière_et_al_2020.!a
-      'Lassaunière_et_al_2020.!b
-      'Lassaunière_et_al_2020.!c
-      'Lassaunière_et_al_2020.!d
-      'Lassaunière_et_al_2020.!e
-      'Thompson_et_al_2020
-      'Thompson_et_al_2020.!a
-      'Lipsitch_et_al_2020
-      'Okba_et_al_2020
-      'Wu_et_al_04_20_2020
-      'Muruato_et_al_05_22_2020
-      'Weissleder_et_al_06_03_2020
-      'Watson_et_al_05_12_2020
-      'Sethuraman_et_al_05_06_2020
-    -- Seroprevalence
-      'Salje_et_al_04_20_2020.!j
-      'Stringhini_et_al_05_06_2020
-      'Wang-To_et_al_06_03_2020
-  subject PCR
-    # Limitations of PCR
-    --
-      'Joynt_et_al_2020
-      'Fang_et_al_2020
-      'Yuan_et_al_2020
-      'Weissleder_et_al_06_03_2020
-      'Woloshin_et_al_06_05_2020
-    -- Limitation of RT-PCR
-      'Xiao_et_al_2020
-      'Lan_et_al_2020
-    # Some papers can be Frontiers
-    --
-      'Wölfel_et_al_2020
-      'Babady_et_al_2017
-      'Huang_et_al_2017
-      'Beckmann_et_al_2016
-      'Watson_et_al_05_12_2020
-      'Sethuraman_et_al_05_06_2020
-    -- RT- PCR
-      'Chut_et_al_2011
-
-
+  # Targets
+  subject Frontiers
+    -- LDH
+      'Han_et_al_2020
+    -- Immune Profiling
+      'Mathew_et_al_05_23_2020.!a
+      'Mathew_et_al_05_23_2020.!b
+    -- Disease Severity
+      'Chen_et_al_04_06_2020
+      'Chen_et_al_02_08_2020
+      'DelValle_et_al_05_30_2020
+      'DelValle_et_al_05_30_2020.!m
 
 subject module Mitigation
   # Mitigation / Infection Prevention
-  subject IndividualMitigation
+  subject module IndividualMitigation
     subject SocialDistancing
       -- Six-foot rule
         'Feigin_et_al_1982
@@ -1006,47 +957,7 @@ subject module Mitigation
         'King_et_al_04_24_2020
 
   # / Network Prevention / Containment
-  subject CommunityMitigation
-    -- Model to prevent 2nd outbreak
-      'Zhang_et_al_2020b
-    -- Frontiers
-      'Stawiski_et_al_2020
-    -- How china did it?
-      'J_et_al_2020.!i
-      'Pan_et_al_2020
-      'Pan_et_al_2020.!d
-      'Pan_et_al_2020.!e
-      'Lai_et_al_2020b.!b
-      'Lai_et_al_2020b.!c
-      'Lai_et_al_2020b.!d
-      'Lai_et_al_2020b.!e
-      'Lai_et_al_2020b.!g
-      'Lai_et_al_2020b.!h
-      'Lai_et_al_2020b.!i
-      'Lai_et_al_2020b.!j
-      'Lai_et_al_2020b.!k
-      'Zhang_et_al_04_29_2020
-    --
-      'Wang_et_al_2005.!f
-      'Wang_et_al_2005.!g
-    -- Italy
-      'Lavezzo_et_al_2020.!a
-    -- France
-      'Salje_et_al_04_20_2020
-    -- UK
-      'Davies_et_al_06_02_2020
-    -- Airborne Tranmission
-      'Morawska_et_al_05_27_2020
-
-
-    --
-      HerdImmunity
-      Quarantine
-      ContactTracing
-      SocialDistancing
-      SocialNetwork
-      SchoolClosure
-      Sewage
+  subject module CommunityMitigation
 
     subject SocialNetwork
       --
@@ -1081,15 +992,14 @@ subject module Mitigation
         'Cowling_et_al_2020.!c
         'Mossong_et_al_2008.!b
         'Lavezzo_et_al_2020.!e
-
     subject SchoolClosure
       --
-        'market_et_al_2007
+        'Sebastiani_et_al_2006
         'Fergusion_et_al_2006
-        'Ciavarella_et_al_2016
-        'kawano_et_al_2015
-        'sebastiani_et_al_2006
+        'Market_et_al_2007
         'Mossong_et_al_2008.!a
+        'Kawano_et_al_2015
+        'Ciavarella_et_al_2016
         'Cowling_et_al_2020.!d
     subject ContactTracing
       --
@@ -1099,7 +1009,6 @@ subject module Mitigation
         'Jing_et_al_2020.!a
         'Sanche_et_al_2020.!f
         'Bi_et_al_04_27_2020.!i
-
     subject Sewage
       --
         'Lodder_et_al_2020
@@ -1107,8 +1016,6 @@ subject module Mitigation
         'Lodder_et_al_2012
       -- Sewage Sludge
         'Peccia_et_al_2020
-
-
     subject HerdImmunity
       # In ZIKV population exposure to virus didn't let 2nd wave
       --
@@ -1131,12 +1038,43 @@ subject module Mitigation
         'Dufresne_et_al_2020.!h
         'Adam_et_al_2020.!f
         'Miller_et_al_2020b.!c
+    subject Frontiers
+      -- Model to prevent 2nd outbreak
+        'Zhang_et_al_2020b
+      -- Using ACE 2 to predict Susceptibility
+        'Stawiski_et_al_2020
+      -- Airborne Mitigation
+        'Morawska_et_al_05_27_2020
 
+      >>> Countries Mitigation Measures
+      -- How china did it?
+        'J_et_al_2020.!i
+        'Pan_et_al_2020
+        'Pan_et_al_2020.!d
+        'Pan_et_al_2020.!e
+        'Lai_et_al_2020b.!b
+        'Lai_et_al_2020b.!c
+        'Lai_et_al_2020b.!d
+        'Lai_et_al_2020b.!e
+        'Lai_et_al_2020b.!g
+        'Lai_et_al_2020b.!h
+        'Lai_et_al_2020b.!i
+        'Lai_et_al_2020b.!j
+        'Lai_et_al_2020b.!k
+        'Zhang_et_al_04_29_2020
+      -- Italy
+        'Lavezzo_et_al_2020.!a
+      -- France
+        'Salje_et_al_04_20_2020
+      -- UK
+        'Davies_et_al_06_02_2020
 
   subject Nosocomial
     --
       'Wang_et_al_2005.!a
       'Wang_et_al_2005.!e
+      'Wang_et_al_2005.!f
+      'Wang_et_al_2005.!g
       'Lee_et_al_2003.!b
       'Seto_et_al_2003
       'Seto_et_al_2003.!a
@@ -1160,12 +1098,14 @@ subject module Mitigation
       'Pan_et_al_2020.!e
       'Liu_et_al_2020bb.!a
       'Somsen_et_al_05_27_2020.!f
+      'Liu_et_al_2020
 
   # Inactivating Agents / or Disinfection of envioronmental surfaces
   subject Disinfection
     -- UVC
       'Welch_et_al_2018
       'Elikaei_et_al_2006
+      'Darnell_et_al_2004.!a
     -- UV Light Frontiers
       'SaifAddin_et_al_2020
     -- Copper
@@ -1180,8 +1120,6 @@ subject module Mitigation
       'Dessauer_et_al_2016
       'Noyce_et_al_2007
       'Noyce_et_al_2007.!a
-
-
 
   # New Subject as Prospects
   # 'Darnell_et_al_2004
@@ -1472,6 +1410,8 @@ subject module Remediation
       'Broggi_et_al_01_06_2020
       'Niwa_et_al_10_15_2018
     -- SARS and MERS
+      'Chen_et_al_2009
+      'Zhao_et_al_2010
       'Zumla_et_al_2016
       'Alharbi_et_al_11_19_2019
       'Shan-Shi_et_al_06_05_2019

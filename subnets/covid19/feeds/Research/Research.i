@@ -509,7 +509,7 @@ feed Research
       'Zumla_et_al_2016
 
     -- December, 2015
-      'kawano_et_al_2015
+      'Kawano_et_al_2015
 
     -- November, 2015
       'Bastier_et_al_2015
@@ -652,7 +652,7 @@ feed Research
 
     -- April, 2006
       'Fergusion_et_al_2006
-      'sebastiani_et_al_2006
+      'Sebastiani_et_al_2006
 
     -- Jan, 2006
       'Franceschi_et_al_2006
@@ -10670,6 +10670,9 @@ feed Research
 
     -- exports
       !a
+      !b
+      !c
+      !d
 
     / March, 2020 - J Clin Invest.
     let !a self assert = The present study showed that a male predominance in the incidence of COVID-19 has been noted, similarly to that of SARS-CoV, indicating males are more susceptible to SARS-CoV-2 infection than females.
@@ -12199,7 +12202,7 @@ feed Research
   // Exposure to air pollution and COVID-19 mortality in the United States
   doi: https://doi.org/10.1101/2020.04.05.20054502
   ref 'Wu_et_al_2020c
-    head = Long-term average exposure to air pollution (fine particulate matter-PM2.5) increases vulnerability to experiencing the most severe Covid-19 outcomes.These findings align with the known relationship between PM2.5 exposure and many of the cardiovascular and respiratory comorbidities that dramatically increase the risk of death in COVID-19 patients.
+    head = Long-term average exposure to air pollution (fine particulate matter-PM2.5) increases vulnerability to experiencing the most severe Covid-19 outcomes.These findings align with the known relationship between PM 2.5 exposure and many of the cardiovascular and respiratory comorbidities that dramatically increase the risk of death in COVID-19 patients.
 
     -- exports
       !a
@@ -12893,7 +12896,7 @@ feed Research
   # Tags - School closure
   // A Bayesian dynamic model for influenza surveillance
   doi: http://doi.org/10.1002/sim.2566
-  ref 'sebastiani_et_al_2006
+  ref 'Sebastiani_et_al_2006
     head = By integrating these data sources into a dynamic model, we identify in children and infants presenting to the pediatric emergency department with respiratory syndromes an early indicator of impending influenza morbidity and mortality.
 
     -- exports
@@ -12905,7 +12908,7 @@ feed Research
   # Tags - School closure
   // Substantial Impact of School Closure on the Transmission Dynamics during the Pandemic Flu H1N1-2009 in Oita, Japan
   doi: https://doi.org/10.1371/journal.pone.0144839
-  ref 'kawano_et_al_2015
+  ref 'Kawano_et_al_2015
     head = The effect of school closure showed :  the number of infected students decreased by about 24% at its peak, and the number of cumulative infected students decreased by about 8.0%.
 
     -- exports
@@ -12948,7 +12951,7 @@ feed Research
   # Tags - School Clousre , Social Network
   // Nonpharmaceutical Interventions Implemented by US Cities During the 1918-1919 Influenza Pandemic
   doi: http://doi.org/10.1001/jama.298.6.644
-  ref 'market_et_al_2007
+  ref 'Market_et_al_2007
     head = The earlier that schools were closed (ideally even in advance of outbreaks) the lower the number of excess deaths in 43 US cities during the 1918 Influenza pandemic. The longer that school closings and other non-pharmaceutical interventions (NPI) were applied in each of 43 US cities during the 1918 influenza pandemic, the lower was the ultimate mortality rate.
 
     >>> Abstract : Results
@@ -14669,7 +14672,7 @@ feed Research
     / New England Journal of Medicine - March, 2020
     let !c self assert = On cardboard, no viable SARS-CoV-2 was measured after 24 hours.
 
-  # Tag - Strucure
+  # Tag - Shedding
   // Clinical presentation and virological assessment of hospitalized cases of coronavirus disease 2019 in a travel-associated transmission cluster
   doi: https://doi.org/10.1101/2020.03.05.20030502
   ref 'Woelfel_et_al_2020
