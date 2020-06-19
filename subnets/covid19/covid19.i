@@ -24,8 +24,8 @@
 
 -- Claims
   Timeline
-  VirusFeatures
-  DiseaseFeatures
+  Virus
+  Disease
   Diagnostics
   Mitigation
   Remediation
