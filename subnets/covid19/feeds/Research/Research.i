@@ -2427,6 +2427,7 @@ feed Research
       !g
       !h
       !i
+      !i1
       !j
       !k
       !l
@@ -2467,7 +2468,7 @@ feed Research
     let !i self assert = We revealed a significant effect of host phylogeny on β-CoV evolution while it had a minimal effect on α-CoV diversity. Contrary to the α-CoV phylogeny, the basal phylogenetic structure of β-CoVs mirrored the phylogeny of their bat hosts, with a clear distinction b/w the Yangochiroptera, encompassing the Vespertilionidae and Miniopteridae, and the Yinpterochiroptera, which includes the megabat family Pteropodidae and the microbat families Rhinolophidae and Hipposideridae, as evidenced in recent bat phylogenies. These findings suggest a profound co-macroevolutionary process between β-CoVs & their bat hosts, even if host switches also occurred throughout their evolution as our study showed. The phylogenetic structure of α-CoVs, with numerous & closely related lineages identified in the Vespertilionidae and Miniopteridae, contrasts with the β-CoV macroevolutionary pattern and suggests α-CoVs have undergone an adaptive radiation in these two Yangochiroptera families.
 
     / May, 2020 - bioRxiv
-    let !i self assert = Our BSSVS procedure and Markov jump estimates revealed higher connectivity, both qualitatively and quantitatively, among bat families and genera in the α-CoV cross303 species transmission history. Larger numbers of highly significant host transitions and higher rates oswitching events along these pathways were of inferred for α- than β-CoVs, especially at the host family level. These findings suggest that α-CoVs are able to switch hosts more frequently and between more distantly related taxa, and that phylogenetic distance among hosts represents a higher constraint on host switches for β- than α-CoVs. This is supported by more frequent dispersal events in the evolution of α- than β-CoVs in China.
+    let !i1 self assert = Our BSSVS procedure and Markov jump estimates revealed higher connectivity, both qualitatively and quantitatively, among bat families and genera in the α-CoV cross303 species transmission history. Larger numbers of highly significant host transitions and higher rates oswitching events along these pathways were of inferred for α- than β-CoVs, especially at the host family level. These findings suggest that α-CoVs are able to switch hosts more frequently and between more distantly related taxa, and that phylogenetic distance among hosts represents a higher constraint on host switches for β- than α-CoVs. This is supported by more frequent dispersal events in the evolution of α- than β-CoVs in China.
 
     / May, 2020 - bioRxiv
     let !j self assert = We also found that some bat genera were infected by a single CoV genus: Miniopterus (Miniopteridae) and Murina (Vespertilionidae) carried only α-CoVs, while Cynopterus, Eonycteris, Megaerops (Pteropodidae) and Pipistrellus (Vespertilionidae) hosted only β-CoVs. This was found despite using the same conserved pan-CoV PCR assays for all specimens screened and it can’t be explained by differences in sampling effort for these genera: for example, >250 α-CoV sequences but no β-CoV were discovered in Miniopterus bats in China during our recent fieldwork. These migratory bats, which seem to have played a key role in the evolution of α-CoVs, share roosts with several other bat genera hosting β-CoVs in China , suggesting high likelihood of being exposed to β-CoVs. Biological or ecological properties of miniopterid bats may explain this observation and clearly warrant further investigation.
@@ -3245,6 +3246,7 @@ feed Research
 
     -- exports
       !a
+      !a1
       !b
       !c
       !d
@@ -3253,7 +3255,7 @@ feed Research
     let !a self assert = For this purpose, machine learning tools selected three biomarkers that predict the mortality of individual patients more than 10 days in advance with more than 90% accuracy: lactic dehydrogenase (LDH), lymphocyte and high-sensitivity C-reactive protein (hs-CRP). In particular, relatively high levels of LDH alone seem to play a crucial role in distinguishing the vast majority of cases that require immediate medical attention.
 
     / May, 2020 - Nature Machine Intelligence
-    let !a self assert = The significance of our work is twofold. First, it goes beyond providing high-risk factors. It provides a simple and intuitive clinical test to precisely and quickly quantify the risk of death. Second, the three key features, LDH, lymphocytes and hs-CRP, can be easily collected in any hospital. In crowded hospitals, and with shortages of medical resources, this simple model can help to quickly prioritize patients, especially during a pandemic when limited healthcare resources have to be allocated
+    let !a1 self assert = The significance of our work is twofold. First, it goes beyond providing high-risk factors. It provides a simple and intuitive clinical test to precisely and quickly quantify the risk of death. Second, the three key features, LDH, lymphocytes and hs-CRP, can be easily collected in any hospital. In crowded hospitals, and with shortages of medical resources, this simple model can help to quickly prioritize patients, especially during a pandemic when limited healthcare resources have to be allocated
 
     / May, 2020 - Nature Machine Intelligence
     let !b self assert = The increase of LDH reflects tissue/cell destruction and is regarded as a common sign of tissue/cell damage. Serum LDH has been identified as an important biomarker for the activity and severity of idiopathic pulmonary fibrosis11. In patients with severe pulmonary interstitial disease, the increase of LDH is significant and is one of the most important prognostic markers of lung injury11. For critically ill patients with COVID-19, the rise in LDH level indicates an increase of the activity and extent of lung injury.
