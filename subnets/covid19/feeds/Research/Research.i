@@ -209,7 +209,7 @@ feed Research
       'Wölfel_et_al_2020
       'Notari_et_al_2020
       'Ragona_et_al_2020
-      'grein_et_al_2020
+      'Grein_et_al_2020
       'Lodder_et_al_2020
       'Wu_et_al_2020c
       'Cui_et_al_2020
@@ -350,7 +350,7 @@ feed Research
       'luo_et_al_2020
       'want_et_at_2020
       'Zheng_et_al_2020
-      'hui_et_al_2020
+      'Hui_et_al_2020
       'Watanabe_et_al_2020
       'Zhang_et_al_2020e
       'Dong_et_al_2020b
@@ -443,7 +443,7 @@ feed Research
 
     -- March, 2018
       'Colman_et_al_2018
-      'agostini_et_al_2018
+      'Agostini_et_al_2018
 
     -- February, 2018
       'Xie_et_al_2018
@@ -12074,7 +12074,7 @@ feed Research
   # Remdesivir
   // Compassionate Use of Remdesivir for Patients with Severe Covid-19
   doi: http://doi.org/10.1056/NEJMoa2007016
-  ref 'grein_et_al_2020
+  ref 'Grein_et_al_2020
     head = In this cohort of patients hospitalized for severe Covid-19 who were treated with compassionate-use remdesivir, clinical improvement was observed in 36 of 53 patients (68%). Measurement of efficacy will require ongoing randomized, placebo-controlled trials of remdesivir therapy. (Funded by Gilead Sciences.)
 
     -- exports
@@ -12295,7 +12295,7 @@ feed Research
       !d
 
     / March, 2020 - Clinical Science
-    let !a self assert = The novel coronavirus is evolutionary related to Bat-SARS, which likewise uses membrane-bound ACE2 as the receptor [6]. The soluble form of ACE2 lacks the membrane anchor and circulates in small amounts in the blood [7]. We propose that this soluble form may act as a competitive interceptor of SARS-CoV and other coronaviruses by preventing binding of the viral particle to the surface-bound, full-length ACE2.
+    let !a self assert = The novel coronavirus is evolutionary related to Bat-SARS, which likewise uses membrane-bound ACE2 as the receptor. The soluble form of ACE2 lacks the membrane anchor and circulates in small amounts in the blood. We propose that this soluble form may act as a competitive interceptor of SARS-CoV and other coronaviruses by preventing binding of the viral particle to the surface-bound, full-length ACE2.
 
     / March, 2020 - Clinical Science
     let !b self assert = in vitro studies showed that SARS-CoV replication was blocked by a soluble form of ACE2 in the monkey kidney cell line, Vero-E6 [8,9]. Moreover, ACE2 fused to the Fc portion of immunoglobulin has just been reported to neutralize SARS-CoV-2 in vitro [10] and the SARS-CoV-2 binds ACE2 with higher affinity than SARS-CoV
@@ -13057,7 +13057,7 @@ feed Research
   # Tag - Treatment
   // 2019 new coronavirus antiviral treatment is available
   doi: https://doi.org/10.3760/cma.j.issn.1001-0939.2020.0002
-  ref 'hui_et_al_2020
+  ref 'Hui_et_al_2020
     head = Current studies have confirmed that studies that drugs that may be effective include: redoxivir, lopinavir / ritonavir, lopinavir / ritonavir combined with interferon-β, convalescent plasma, and monoclonal antibodies. However, the efficacy and safety of these drugs in 2019-nCoV pneumonia patients need to be confirmed by further clinical trials.
 
     >>> Abstract
@@ -13069,7 +13069,7 @@ feed Research
   # Tag - Remdesivir
   // Coronavirus Susceptibility to the Antiviral Remdesivir (GS-5734) Is Mediated by the Viral Polymerase and the Proofreading Exoribonuclease
   doi: https://doi.org/10.1128/mBio.00221-18
-  ref 'agostini_et_al_2018
+  ref 'Agostini_et_al_2018
     head =  GS-5734 interferes with the nsp12 polymerase even in the setting of intact ExoN proofreading activity and that resistance can be overcome with increased, nontoxic concentrations of GS-5734, further supporting the development of GS-5734 as a broad-spectrum therapeutic to protect against contemporary and emerging CoVs.
 
     -- exports

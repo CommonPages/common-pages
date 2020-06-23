@@ -191,8 +191,7 @@ subject module Timeline
         'Gudbjartsson_et_al_2020.!j
         'Gudbjartsson_et_al_2020.!n
         'Gudbjartsson_et_al_2020.!o
-
-
+/ Virus
 subject module Virus
 
   / Genetics
@@ -444,6 +443,7 @@ subject module Virus
       head =  Based on studies the Wuhan market was the site of an early superspreading event. Subsequent research also shows evidence of 20/80 rule of transmission. Model studies have emphasized to include to transmission heterogeneity to accurately portray pathogen dynamics.
       -- Context
         'Lloyd-Smith_et_al_2005
+        'Woolhouse_et_al_1997
       -- Superspreading in SARS
         'Lee_et_al_2003.!a
         'Shen_et_al_2004
@@ -502,8 +502,7 @@ subject module Virus
       --
         'Sun_et_al_2020
         'Chen_et_al_2020b
-
-
+/ Disease
 subject module Disease
 
   / Incubation Period
@@ -541,6 +540,7 @@ subject module Disease
   subject SymptomaticPhase
     head = Fever is the most common symptom. Other symptoms include cough, loss of appetite, fatigue, shortness of breath, sputum production, and myalgia. Additional symptoms such as loss of smell and taste, skin rash, neurological manifestations have also been reported.
 
+    # separate papers with less common symptoms / Unusual symptoms that patients have presented.
     --
       'Ragona_et_al_2020
       'Kluytmans_et_al_2020
@@ -570,7 +570,7 @@ subject module Disease
       'Meinhardt_et_al_06_04_2020
   / Immune Reponse
   subject ImmuneResponse
-    head = Clinical Laboratory findings suggest an underline immunopathology. Additional people with COVID-19 and ARDS have classic serum biomarkers of Cytokine release syndrome.
+    head = Clinical Laboratory findings suggest an underline immunopathology. Additionally people with COVID-19 and ARDS have classic serum biomarkers of Cytokine release syndrome.
     >>>
       As of now, Clinical laboratory findings of elevated IL-2, IL-7, IL-6, granulocyte-macrophage colony-stimulating factor (GM-CSF), interferon-γ inducible protein 10 (IP-10), monocyte chemoattractant protein 1 (MCP-1), macrophage inflammatory protein 1-α (MIP-1α), and tumour necrosis factor-α (TNF-α) indicative of cytokine release syndrome (CRS) suggest an underlying immunopathology.  Additionally, people with COVID‑19 and acute respiratory distress syndrome (ARDS) have classical serum biomarkers of CRS, including elevated C-reactive protein (CRP), lactate dehydrogenase (LDH), D-dimer, and ferritin.
     --
@@ -617,7 +617,7 @@ subject module Disease
 
   / Complications
   subject module Complications
-    head = Complications may include pneumonia, ARDS, multi-organ failure, cardiovascular complications, septic shock, neurologic manifestations, endotheliitis. Few recent studies report children developing paediatric multisystem inflammatory syndrome.
+    head = Complications may include pneumonia, ARDS, multi-organ failure, coagulopathy, Cytokine storm, septic shock, neurologic manifestations, endothelitis. Few recent studies report children developing paediatric multisystem inflammatory syndrome.
 
     / Cytokine Storms
     subject CytokineStorms
@@ -852,30 +852,36 @@ subject module Disease
 
     / Co-Morbid Conditions
     subject module CoMorbidConditions
-      head =  Coexisting conditions such as obesity, diabetes, Hypertension, Cancer, HIV and cardiovascular disease could result in severe and even fatal respiratory complications
+      head =  Underlying health conditions such as obesity, diabetes, Hypertension, Cancer, HIV and cardiovascular disease could result in severe and even fatal respiratory complications
       --
         Diabetes
         Hypertension
         Obesity
+        Cardiovascular
+        HIV
+        Cancer
       --
         'Chen_et_al_2020c
         'Sarnak_et_al_2001
         'Zhou_et_al_2020
         'Guan_et_al_2020
         'Guan_et_al_2020.!b
-      -- Cardiovascular
-        'Li_et_al_2020c
-        'Li_et_al_2020c.!a
-        'Li_et_al_2020c.!b
-        'Li_et_al_2020c.!c
-        'Li_et_al_2020c.!d
-        'Lee_et_al_05_28_2020.!d
-        'DelValle_et_al_05_30_2020.!g
-      -- HIV
-        'Vizcarra_et_al_05_28_2020
-        'Xu_et_al_05_28_2020
-      -- Cancer
-        'Lee_et_al_05_28_2020
+      subject Cardiovascular
+        --
+          'Li_et_al_2020c
+          'Li_et_al_2020c.!a
+          'Li_et_al_2020c.!b
+          'Li_et_al_2020c.!c
+          'Li_et_al_2020c.!d
+          'Lee_et_al_05_28_2020.!d
+          'DelValle_et_al_05_30_2020.!g
+      subject HIV
+        --
+          'Vizcarra_et_al_05_28_2020
+          'Xu_et_al_05_28_2020
+      subject Cancer
+        --
+          'Lee_et_al_05_28_2020
       -- ACE2
         'AlGhatrif_et_al_2020
       -- To avoid complications
@@ -960,10 +966,10 @@ subject module Disease
 
   / Immunity
   subject module Immunity
-    head = Studies have shown that recovered patients have protective immunity that prevents them from being reinfected. The duration of immunity still remains unclear. However, new studies indicate a lack of sufficient long-lasting protective antibodies post SARS-CoV-2 infection.
+    head = Studies have shown that recovered patients have protective immunity that prevents them from being reinfected. The duration of immunity still remains unclear.
     / Antibodies
     subject Antibodies
-      head = Most of the studies show that people who have recovered from infection have antibodies to the virus. Though recent papers have observed lack of sufficient "long-lasting protective antibodies" post SARSCoV2 infection.
+      head = Studies show that people who have recovered from infection have antibodies to the virus. IgM antibodies to SARS-CoV-2 are generally detectable several days after initial infection. IgG antibodies generally become detectable 10–14 days after infection.
       >>>
         IgM antibodies to SARS-CoV-2 are generally detectable several days after initial infection, although levels over the course of infection are not well characterized.IgG antibodies generally become detectable 10–14 days after infection, sometimes earlier, and normally peak around 28 days after infection onset.
       -- SARS-CoV2
@@ -973,6 +979,8 @@ subject module Disease
         'Amanat_et_al_2020
         'Lassaunière_et_al_2020
         'Lv_et_al_06_02_2020
+      >>>
+        Based on studies, antibodies vary widely in their efficacy. Some people have poor response, some average. And then there is a fraction of people that are exceptional responders.A new study on  the immune response in asymptomatic people indicate lack of sufficient "long-lasting protective antibodies" post SARSCoV2 infection
       -- How long does your immunity last
         'Zhao_et_al_2020
         'Zhao_et_al_2020.!a
@@ -981,7 +989,7 @@ subject module Disease
         'Wu_et_al_2007
         'Wu_et_al_2007.!a
         'Ka_et_al_1990
-      >>> Studies of antibodies on other coronavirus
+      >>> Studies of antibodies on other coronaviruses
       -- MERS
         'Alshukairi_et_al_2016
       --
@@ -1013,13 +1021,14 @@ subject module Disease
         'Yuan_et_al_2020.!k
         'Lan_et_al_2020
         'Xie_et_al_2020
-
-
-# Past infection, Active infection, Risk Factors
+/ Diagnostics
 subject module Diagnostics
 
   subject module Methods
+    head = PCR & RT-PCR is a viral test for a current infection. Serology test is used for antibody testing and can be used to detect past infection. Other techniques include a CT scan, checking for elevated body temperature or checking for low blood oxygen level.
+    / Serology
     subject Serology
+      head = Serological tests detect antibodies produced by the body in response to infection. It can measure neutralizing antibodies and binding antibodies. Antibody serosurveys are being conducted to monitor trends in the prevalence of the novel coronavirus.
       --
         'McLeish_et_al_2011
         'McLeish_et_al_2011.!a
@@ -1050,27 +1059,24 @@ subject module Diagnostics
         'Salje_et_al_04_20_2020.!j
         'Stringhini_et_al_05_06_2020
         'Wang-To_et_al_06_03_2020
+    / Rt-PCR and PCR testing
     subject PCR
-      -- Limitations of PCR and RT-PCR
-        'Joynt_et_al_2020
-        'Fang_et_al_2020
-        'Yuan_et_al_2020
-        'Weissleder_et_al_06_03_2020
-        'Woloshin_et_al_06_05_2020
-        'Xiao_et_al_2020
-        'Lan_et_al_2020
-      -- PCR
+      head = rRT-PCR uses RNA testing of respiratory secretions collected using nasopharyngeal swab, which detects the presence of viral RNA fragments; nasal swab or sputum sample may also be used. Saliva as a non-invasive specimen for detection is also being researched.
+      -- PCR and RT-PCR
         'Wölfel_et_al_2020
         'Babady_et_al_2017
         'Huang_et_al_2017
         'Beckmann_et_al_2016
         'Watson_et_al_05_12_2020
         'Sethuraman_et_al_05_06_2020
-        'Tom_et_al_2020
-      -- RT- PCR
         'Chut_et_al_2011
+      >>>
+        Research propose to take CT (Cycle Threshold) value into account for further clinical severity as well as take CT results in context to determine when the patient can discontinue isolation.
+      -- Cycle Threshold Value
         'Bullard_et_al_05_22_2020
-      -- Saliva
+        'Tom_et_al_2020
+        'Chen_et_al_02_08_2020.!c
+      -- Use of Saliva as detection
         'Wyllie_et_al_2020
         'Wyllie_et_al_2020.!a
         'Wyllie_et_al_2020.!b
@@ -1080,19 +1086,33 @@ subject module Diagnostics
         'Williams_et_al_2020
         'Williams_et_al_2020.!a
         'Williams_et_al_2020.!c
+      -- Limitations of PCR and RT-PCR
+        'Joynt_et_al_2020
+        'Fang_et_al_2020
+        'Yuan_et_al_2020
+        'Weissleder_et_al_06_03_2020
+        'Woloshin_et_al_06_05_2020
+        'Xiao_et_al_2020
+        'Lan_et_al_2020
     / CT Scan
     subject CT
-      -- CT
+      head = Chest CT imaging may also be helpful for diagnosis in individuals where there is a high suspicion of infection based on symptoms and risk factors. There is an increasing body of evidence that suggests chest CT could prove useful in the clinical pathway in diagnosing COVID-19.
+      --
         'Inui_et_al_2020
         'Inui_et_al_2020.!a
         'Wang_et_al_2020b
         'Xie_et_al_2020
 
-  # Targets
+  # Change subject name
+  / Frontiers
   subject Frontiers
+    head = Several studies are investigating range of inflammatory markers in blood, biomarkers and immune features to determine their role in disease severity and risk factors.
     -- LDH
       'Han_et_al_2020
+    -- Using ACE 2 to predict Susceptibility
+      'Stawiski_et_al_2020
     -- Immune Profiling
+      'Mathew_et_al_05_23_2020
       'Mathew_et_al_05_23_2020.!a
       'Mathew_et_al_05_23_2020.!b
     -- Disease Severity
@@ -1100,21 +1120,27 @@ subject module Diagnostics
       'Chen_et_al_02_08_2020
       'DelValle_et_al_05_30_2020
       'DelValle_et_al_05_30_2020.!m
-
+    -- Cytokine Profiling
+      'DelValle_et_al_05_30_2020
+    -- HLA
+      'Lin_et_al_2003
+      'Blackwell_et_al_2009
+      'Paul_et_al_2013
+      'Nguyen_et_al_2020
+/ Mitigation
 subject module Mitigation
-  # Mitigation / Infection Prevention
-  subject module IndividualMitigation
-    subject SocialDistancing
-      -- Six-foot rule
-        'Feigin_et_al_1982
+  / Infection Prevention
+  subject module InfectionPrevention
+    head =  Control measures such has hand hygiene, PPE, Disinfection and use of antimicrobial surfaces are recommended in any setting to prevent the spread of infection.
     subject HandWashing
+      head = Reports reveal that hand washing with soap and water to remove viruses is an effective measure to stop individual transmissibility of COVID-19.
       --
         'Ryan_et_al_2001
         'Jefferson_et_al_2008
         'Jefferson_et_al_2008.!a
-    subject Sanitization
-    / Protective Equipments & Surfaces
+    / Personal Protective Equipments
     subject ProtectiveDevices
+      head = Research suggests that face coverings and surgical masks can prevent large particles spreading from an infected person wearing a mask to someone else. The inappropriate use of PPE equipment has been linked to an increase in rates of the transmission of infection.
       --
         'Jefferson_et_al_2008
       -- Face Mask
@@ -1131,11 +1157,37 @@ subject module Mitigation
         'Ling_et_al_2020.!b
       -- Gloves
         'King_et_al_04_24_2020
+    / Disinfection
+    subject Disinfection
+      head = UVC is effective at deactivating coronaviruses closely related to SARS-CoV-2. Study shows that FAR UVC has shown to inactivate microorganisms, but does not produce biological damage to exposed mammalian cells and tissues
+      -- UVC
+        'Welch_et_al_2018
+        'Elikaei_et_al_2006
+        'Darnell_et_al_2004.!a
+      --
+        'SaifAddin_et_al_2020
+    / Antimicrobial Surface
+    subject Antimicrobial
+      head = Research shows antimicrobial surface made of copper, silver can destroy a wide range of microorganisms in a short period of time.
+      -- Copper
+        'Han_et_al_2005
+        'Sarah_et_al_2015
+        'Sarah_et_al_2015.!a
+        'Sarah_et_al_2015.!b
+        'Sarah_et_al_2015.!c
+        'Michels_et_al_2015
+        'Michels_et_al_2015.!a
+        'Michels_et_al_2015.!b
+        'Dessauer_et_al_2016
+        'Noyce_et_al_2007
+        'Noyce_et_al_2007.!a
 
-  # / Network Prevention / Containment
-  subject module CommunityMitigation
-
+  / Containment Measures
+  subject module Containment
+    head = Research investigating Containment Measures taken by individuals, businesses, health departments, and community settings to slow the spread of COVID-19.
+    / Social Network
     subject SocialNetwork
+      head = The restriction of interactions within a social network has shown to reduce and slow the spread of infection.
       --
         'Keeling_et_al_2005
         'Keeling_et_al_2005.!a
@@ -1146,8 +1198,10 @@ subject module Mitigation
         'Fu_et_al_2017
         'gracia_et_al_2017
         'gracia_et_al_2017b
+    / Quarantine
     subject Quarantine
-      -- Quarantine
+      head = Studies state that voluntary individual quarantine and voluntary active monitoring of contacts are core disease control strategies for emerging infectious diseases such as COVID-19.
+      --
         'Dandekar_et_al_2020
         'Xia_et_al_2020
         'Cowling_et_al_2020
@@ -1160,7 +1214,9 @@ subject module Mitigation
         'Sanche_et_al_2020.!f
         'Chan_et_al_2020.!r
         'Bi_et_al_04_27_2020.!k
+    / Social Distancing
     subject SocialDistancing
+      head = Research suggest that social distancing and population behavioural changes—that have a social and economic impact that is less disruptive than total lockdown—can meaningfully control COVID-19.
       --
         'Cowling_et_al_2020
         'Cowling_et_al_2020.!a
@@ -1168,7 +1224,11 @@ subject module Mitigation
         'Cowling_et_al_2020.!c
         'Mossong_et_al_2008.!b
         'Lavezzo_et_al_2020.!e
+      -- Six-foot rule
+        'Feigin_et_al_1982
+    / School Closure
     subject SchoolClosure
+      head = Based on studies, Earlier schools were closed, the lower the number of excess death in past epidemics
       --
         'Sebastiani_et_al_2006
         'Fergusion_et_al_2006
@@ -1177,7 +1237,9 @@ subject module Mitigation
         'Kawano_et_al_2015
         'Ciavarella_et_al_2016
         'Cowling_et_al_2020.!d
+    / Contact Tracing
     subject ContactTracing
+      head = Testing and Tracing is an effective strategy at the start of an outbreak when there are just a few chains of transmission of the disease. Countries that persisted with expanded and rigorous testing and tracing have fared better with lower death rates than those which did not.
       --
         'Ferretti_et_al_2020
         'J_et_al_2020.!f
@@ -1185,317 +1247,234 @@ subject module Mitigation
         'Jing_et_al_2020.!a
         'Sanche_et_al_2020.!f
         'Bi_et_al_04_27_2020.!i
+    / Ventilation
+    subject Ventilation
+      head = Appropriate building engineering controls such as effective ventilation, possibly enhanced by particle filtration and air disinfection, avoiding air recirculation and avoiding overcrowding. Such measures can contribute to infection control goals.
+      --
+        'Morawska_et_al_05_27_2020
+        'Morawska_et_al_05_27_2020.!a
+        'Morawska_et_al_05_27_2020.!b
+        'Morawska_et_al_05_27_2020.!c
+        'Morawska_et_al_05_27_2020.!d
+        'Morawska_et_al_05_27_2020.!e
+    / Hospital Mitigation
+    subject Nosocomial
+      head = Several mitigation measures are being used by hospitals to minimize the chance of exposure to healthcare workers and to protect high-risk population within the hospitals. Mitigation measures adopted, includes the promoting the use of everyday preventive actions.
+      --
+        'Wang_et_al_2005.!a
+        'Wang_et_al_2005.!e
+        'Wang_et_al_2005.!f
+        'Wang_et_al_2005.!g
+        'Lee_et_al_2003.!b
+        'Seto_et_al_2003
+        'Seto_et_al_2003.!a
+        'Seto_et_al_2003.!b
+        'Seto_et_al_2003.!c
+        'Seto_et_al_2003.!d
+        'Seto_et_al_2003.!e
+        'Boyce_et_al_2007
+        'Boyce_et_al_2007.!a
+        'Boyce_et_al_2007.!b
+        'Boyce_et_al_2007.!c
+        'Salgado_et_al_2015
+        'Ling_et_al_2020
+        'Ling_et_al_2020.!a
+        'Ling_et_al_2020.!b
+        'Ling_et_al_2020.!c
+        'Ling_et_al_2020.!d
+        'J_et_al_2020.!g
+        'J_et_al_2020.!h
+        'J_et_al_2020.!j
+        'Pan_et_al_2020.!e
+        'Liu_et_al_2020bb.!a
+        'Somsen_et_al_05_27_2020.!f
+        'Liu_et_al_2020
+    / Sewage
     subject Sewage
+      head = There are compelling research that SARS-CoV-2 is detected in sewage and could be a sensitive surveillance system and early warning tool of COVID-19 outbreak dynamics.
       --
         'Lodder_et_al_2020
         'Medeema_et_al_2020
         'Lodder_et_al_2012
       -- Sewage Sludge
         'Peccia_et_al_2020
-    subject HerdImmunity
-      # In ZIKV population exposure to virus didn't let 2nd wave
-      --
-        'Netto_et_al_2017
-      --
-        'John_et_al_2000
-        'Ferrari_et_al_2006
-        'Fine_et_al_2011
-        'Langwig_et_al_2017
-        'Logan_et_al_2018
-      --
-        'Gomes_et_al_2020
-        'Britton_et_al_2020
-        'Sanche_et_al_2020.!e
-        'Dufresne_et_al_2020
-        'Dufresne_et_al_2020.!a
-        'Dufresne_et_al_2020.!e
-        'Dufresne_et_al_2020.!f
-        'Dufresne_et_al_2020.!g
-        'Dufresne_et_al_2020.!h
-        'Adam_et_al_2020.!f
-        'Miller_et_al_2020b.!c
-    subject Frontiers
-      -- Model to prevent 2nd outbreak
-        'Zhang_et_al_2020b
-      -- Using ACE 2 to predict Susceptibility
-        'Stawiski_et_al_2020
-      -- Airborne Mitigation
-        'Morawska_et_al_05_27_2020
-
-      >>> Countries Mitigation Measures
-      -- How china did it?
-        'J_et_al_2020.!i
-        'Pan_et_al_2020
-        'Pan_et_al_2020.!d
-        'Pan_et_al_2020.!e
-        'Lai_et_al_2020b.!b
-        'Lai_et_al_2020b.!c
-        'Lai_et_al_2020b.!d
-        'Lai_et_al_2020b.!e
-        'Lai_et_al_2020b.!g
-        'Lai_et_al_2020b.!h
-        'Lai_et_al_2020b.!i
-        'Lai_et_al_2020b.!j
-        'Lai_et_al_2020b.!k
-        'Zhang_et_al_04_29_2020
-      -- Italy
-        'Lavezzo_et_al_2020.!a
-      -- France
-        'Salje_et_al_04_20_2020
-      -- UK
-        'Davies_et_al_06_02_2020
-
-  subject Nosocomial
-    --
-      'Wang_et_al_2005.!a
-      'Wang_et_al_2005.!e
-      'Wang_et_al_2005.!f
-      'Wang_et_al_2005.!g
-      'Lee_et_al_2003.!b
-      'Seto_et_al_2003
-      'Seto_et_al_2003.!a
-      'Seto_et_al_2003.!b
-      'Seto_et_al_2003.!c
-      'Seto_et_al_2003.!d
-      'Seto_et_al_2003.!e
-      'Boyce_et_al_2007
-      'Boyce_et_al_2007.!a
-      'Boyce_et_al_2007.!b
-      'Boyce_et_al_2007.!c
-      'Salgado_et_al_2015
-      'Ling_et_al_2020
-      'Ling_et_al_2020.!a
-      'Ling_et_al_2020.!b
-      'Ling_et_al_2020.!c
-      'Ling_et_al_2020.!d
-      'J_et_al_2020.!g
-      'J_et_al_2020.!h
-      'J_et_al_2020.!j
+    / Projection Model
+    subject ProjectionModel
+      head = Projection models summarising plausible transmission scenarios, mitigation measures suggest the continual of non-nonpharmaceutical interventions is necessary for COVID-19 containment.
+      -- Tranmission Dynamics
+        'Kissler_et_al_2020
+        'Vespignani_et_al_2020
+        'Vespignani_et_al_2020.!g
+        'Vespignani_et_al_2020.!h
+      -- Removal of early quarantine will increase the number of cases
+        'Dandekar_et_al_2020
+      -- Age-Targeted Mitigation
+        'Chikina_et_al_2020
+      -- Continuing Non-pharmaceutical intervention
+        'Flaxman_et_al_2020
+        'Flaxman_et_al_2020.!a
+        'Flaxman_et_al_2020.!b
+        'Flaxman_et_al_2020.!c
+        'Flaxman_et_al_2020.!d
+        'Flaxman_et_al_2020.!e
+  / Country Based Mitigation Measures
+  subject CountriesMitigation
+    head = Country based mitigation measures incorporated by various countries provides valuable insights on effectiveness of several containment measures.
+    -- China
+      'J_et_al_2020.!i
+      'Pan_et_al_2020
+      'Pan_et_al_2020.!d
       'Pan_et_al_2020.!e
-      'Liu_et_al_2020bb.!a
-      'Somsen_et_al_05_27_2020.!f
-      'Liu_et_al_2020
-
-  # Inactivating Agents / or Disinfection of envioronmental surfaces
-  subject Disinfection
-    -- UVC
-      'Welch_et_al_2018
-      'Elikaei_et_al_2006
-      'Darnell_et_al_2004.!a
-    -- UV Light Frontiers
-      'SaifAddin_et_al_2020
-    -- Copper
-      'Han_et_al_2005
-      'Sarah_et_al_2015
-      'Sarah_et_al_2015.!a
-      'Sarah_et_al_2015.!b
-      'Sarah_et_al_2015.!c
-      'Michels_et_al_2015
-      'Michels_et_al_2015.!a
-      'Michels_et_al_2015.!b
-      'Dessauer_et_al_2016
-      'Noyce_et_al_2007
-      'Noyce_et_al_2007.!a
-
-  # New Subject as Prospects
-  # 'Darnell_et_al_2004
+      'Lai_et_al_2020b.!b
+      'Lai_et_al_2020b.!c
+      'Lai_et_al_2020b.!d
+      'Lai_et_al_2020b.!e
+      'Lai_et_al_2020b.!g
+      'Lai_et_al_2020b.!h
+      'Lai_et_al_2020b.!i
+      'Lai_et_al_2020b.!j
+      'Lai_et_al_2020b.!k
+      'Zhang_et_al_04_29_2020
+    -- Model to prevent 2nd outbreak in China
+      'Zhang_et_al_2020b
+    -- Italy
+      'Lavezzo_et_al_2020.!a
+    -- France
+      'Salje_et_al_04_20_2020
+    -- UK
+      'Davies_et_al_06_02_2020
+  subject HerdImmunity
+    head = Epidemiological and immunological factors, such as population structure, variation in transmission dynamics, and waning immunity, have important implications in the context of herd immunity. Currently, they are difficult to estimate given the limited data available.
+    >>>
+      Studies emphasize the importance for incorporating immunological factors such as protective immunity and epidemiological factors such as viral spread, infectivity, variation in R0 across time and populations, heterogeneity in the attack and contact rates across demographic groups, inter-individual variation in communicability, disease severity must be taken into account for establishment of herd immunity within populations.
+    --
+      'Gomes_et_al_2020
+      'Britton_et_al_2020
+      'Sanche_et_al_2020.!e
+      'Dufresne_et_al_2020
+      'Dufresne_et_al_2020.!a
+      'Dufresne_et_al_2020.!e
+      'Dufresne_et_al_2020.!f
+      'Dufresne_et_al_2020.!g
+      'Dufresne_et_al_2020.!h
+      'Adam_et_al_2020.!f
+      'Miller_et_al_2020b.!c
+    -- In ZIKV population exposure to virus didn't let 2nd wave
+      'Netto_et_al_2017
+      'Netto_et_al_2017.!a
+      'Netto_et_al_2017.!b
+      'Netto_et_al_2017.!c
+      'Netto_et_al_2017.!d
+      'Netto_et_al_2017.!e
+    -- Context
+      'Woolhouse_et_al_1997
+      'John_et_al_2000
+      'Ferrari_et_al_2006
+      'Fine_et_al_2011
+      'Langwig_et_al_2017
+      'Logan_et_al_2018
 
 # / Medical Interventions # Disease Control
 subject module Remediation
-  -- Potential Interventions
-    'Li_et_al_2020
-    'Zhang_et_al_2020e
-  -- Nasal Irrigation
-    'Bastier_et_al_2015
-  -- Clinical Course
-    'Berlin_et_al_2020
-    'Berlin_et_al_2020.!g
-    'Berlin_et_al_2020.!h
-    'Berlin_et_al_2020.!i
-    'Berlin_et_al_2020.!j
-    'Berlin_et_al_2020.!k
-    'Berlin_et_al_2020.!l
-    'Berlin_et_al_2020.!m
-    'Berlin_et_al_2020.!n
-    'Berlin_et_al_2020.!o
-    'Berlin_et_al_2020.!p
-    'Berlin_et_al_2020.!q
-    'Berlin_et_al_2020.!r
-    'Berlin_et_al_2020.!s
-    'Berlin_et_al_2020.!u
-    'Berlin_et_al_2020.!v
-    'Berlin_et_al_2020.!w
-  -- Clinical Course Blood coagulation
-    'Song_et_al_2020
-    'Song_et_al_2020.!a
-    'Song_et_al_2020.!b
-    'Song_et_al_2020.!c
-    'Song_et_al_2020.!d
-    'Song_et_al_2020.!e
-    'Song_et_al_2020.!f
-    'Song_et_al_2020.!g
-    'Song_et_al_2020.!h
-    'Song_et_al_2020.!i
-    'Song_et_al_2020.!j
-    'Song_et_al_2020.!k
-    'Song_et_al_2020.!l
-    'Song_et_al_2020.!m
-    'Song_et_al_2020.!n
-    'Song_et_al_2020.!o
-    'Song_et_al_2020.!p
-    'Song_et_al_2020.!q
-    'Song_et_al_2020.!r
-    'Berlin_et_al_2020.!t
-  -- Neuroinvasion
-    'Zubair_et_al_05_29_2020.!a
-    'Zubair_et_al_05_29_2020.!b
-    'Zubair_et_al_05_29_2020.!c
-    'Zubair_et_al_05_29_2020.!d
-    'Zubair_et_al_05_29_2020.!e
-    'Zubair_et_al_05_29_2020.!f
+  subject module Therapeutics
+    head =
+    subject module Antivirals
+      head = Scientist have identified several existing drugs and compounds with potential to treat COVID-19. Clinical Trials are on-going.
+      / Polymerase Inhibitors
+      subject PolymeraseInhibitors
+        head = The RNA-dependent RNA polymerase (RdRp) is the central component of coronaviral replication and transcription machinery. Polymerase Inhibitors works by inhibiting the activity of RdRp. They often have broad-spectrum possessing activity against multiple related virus species.
+        / Remdesivir
+        subject Remdesivir
+          head = Remdesivir has broad spectrum activity against multiple RNA viruses and inhibits SARS-CoV, MERS-CoV, and SARS-CoV-2. It is a nonobligate chain terminator in that it contains a 3’-OH group. It has shown to be clinically beneficial. However, optimal use of this drug is still unclear.
+          --
+            'Sheahan_et_al_2017
+            'Wang_et_al_2020
+            'Agostini_et_al_2018
+            'Grein_et_al_2020
+            'Beigel_et_al_2020
+            'Berlin_et_al_2020.!w
+            'Kujawski_et_al_2020.!d
+            'Kujawski_et_al_2020.!i
+            'Li_et_al_2020
+        / EIDD-2801
+        subject Eidd
+          head = Safety and clinical efficacy of EIDD-2801 has not been establish yet, though if trials are successful, this drug may be useful oral option in high-risk outpatients.
+          --
+            'Sheahan_et_al_2020
+      / Protease Inhibitors
+      subject ProteaseInhibitor
+        head = Protease inhibitors are widely used to treat HIV/AIDS and hepatitis C. Protease inhibitors prevent viral replication by selectively binding to viral proteases and blocking proteolytic cleavage of protein precursors that are necessary for the production of infectious viral particles.
+        --
+          LopinavirRitonavir
+          Aketoamideinhibitor
+          'Hoffmann_et_al_2020
+        / Lopinavir Ritonavir
+        subject LopinavirRitonavir
+          head =  Lopinavir, which acts against the viral 3CL protease, has modest antiviral activity against SARS-CoV-2. Together with ritonavir, which increases drug bioavailability, it is in clinical trials. Based on studies so far, Lopinavir/Ritonavir does not inhibit coronavirus in vitro and displayes little or no clinical efficacy.
+          --
+            'Lim_et_al_2020
+            'Cao_et_al_2020
+            'Hui_et_al_2020
+            'Cvetkovic_et_al_2012
+            'Li_et_al_2020
+        / α-ketoamide inhibitor
+        subject Aketoamideinhibitor
+          head = α-ketoamides are broad spectrum inhibitors of coronavirus and enteroviruses and thus, prevent the replication of the viruses.
+          --
+            'Zhang_et_al_2020c
+            'Zhang_et_al_2020
 
+      / Entry Inhibitors
+      subject EntryInhibitors
+        head = Entry inhibitors interferes with the binding, fusion and entry to a human cell. By blocking this step in virus replication cycle, such agents could slow the progression of infection of SARS-CoV-2.
+        subject MonoclonalAntibodies
+          head = Several studies have described the development of Monoclonal Antibodies that are able to potently inhibit SARS-CoV-2 in vitro.
+          --
+            'Shi_et_al_05_26_2020
+        / Soluble ACE2
+        subject SolubleACE2
+          head =  Soluble ACE2 (rhACE2) inhibits the binding of SARS-CoV-2 to ACE2 expressing cells. Studies have also shown that Soluble ACE2 (rhACE2) can protect lung from injury during ARDS.
+          --
+            'Batlle_et_al_2020
+            'Fukushi_et_al_2005
+            'Monteil_et_al_2020
+      / Additonal Host Targeting Compounds
+      subject HostTargetingCompounds
+        head = Host Targeting compounds might be able to inhibit multiple viruses, since many viruses depend on similar host factors and pathways.
+        / Endosomal Trafficking Inhibitors
+        subject EndosomalTraffickingInhibitors
+          subject Chloroquine
+            --
+              'Savarino_et_al_2003
+              'Davis_et_al_2003
+              'Vincent_et_al_2005
+              'Cortegiani_et_al_2020
+              'Wang_et_al_2020
+              'Li_et_al_2020
+          subject Hydroxychloroquine
+            --
+              'Liu_et_al_2020b
+              'Yao_et_al_2020
+              'Mahevas_et_al_2020
+              'Geleris_et_al_05_27_2020
+              'Li_et_al_2020
+            -- Hydroxychloroquine with Azithromycin
+              'Gautret_et_al_2020
+          subject Niclosamide
+            --
+              'Xu_et_al_2020
+              'Li_et_al_2020
+        # subject HostProteaseInhibitors
+        / Miscellaneous Additonal Host Targets
+        subject MiscellaneousAdditonalHostTargets
+          subject Nitazoxanide
+            --
+              'Rossignol_et_al_2014
+              'Wu_et_al_2004
+              'Li_et_al_2020
 
-  --
-    Vaccines
-    Therapeutics
-    Frontiers
-    Ventilators
-
-  subject Vaccines
-    -- Frontiers
-      'Watanabe_et_al_2020
-      'Wu_et_al_2020b
-      'Kames_et_al_2020
-      'Kames_et_al_2020
-      'Peeples_et_al_2020
-      'Quinlan_et_al_2020
-      'Iwasaki_et_al_2020
-      'Iwasaki_et_al_2020.!a
-      'Wan_et_al_2019
-      'Grifoni_et_al_05_04_2020.!a
-      'Grifoni_et_al_05_04_2020.!b
-      'Kaslow_et_al_05_07_2020
-      'Breiman_et_al_05_21_2020
-      'Dieterle_et_al_05_20_2020
-      'Weng_et_al_05_19_2020
-      'Robbiani_et_al_05_22_2020
-      'Lv_et_al_06_02_2020
-    --
-      Process
-      Prospects
-
-    subject Process
-    subject Prospects
-      -- MMR, measles
-        'Franklin_et_al_2020
-      -- PiCoVacc
-        'Gao_et_al_2020
-      -- RNA Vaccine
-        'Amanat_et_al_2020b.!a
-        'Amanat_et_al_2020b.!b
-        'Erasmus_et_al_05_28_2020
-      -- DNA Vaccine
-        'Amanat_et_al_2020b.!c
-        'Amanat_et_al_2020b.!d
-        'Smith_et_al_02_25_2020
-        'Smith_et_al_05_08_2020
-        'Yu_et_al_05_20_2020
-        'Chandrashekar_et_al_05_20_2020
-      -- Recombinant Protien Vaccine
-        'Amanat_et_al_2020b.!e
-        'Amanat_et_al_2020b.!f
-      -- Viral vector-based vaccine
-        'Amanat_et_al_2020b.!g
-        'Amanat_et_al_2020b.!h
-      -- Live Attennuated Vaccine
-        'Amanat_et_al_2020b.!i
-        'Amanat_et_al_2020b.!j
-      -- Inactivated Vaccine
-        'Amanat_et_al_2020b.!k
-        'Amanat_et_al_2020b.!l
-      --
-        BCG
-      subject BCG
-        --
-          'Berg_et_al_2020
-          'Arts_et_al_2020
-          'Darrah_et_al_2020
-          'Miller_et_al_2020
-          'Higgins_et_al_2016
-          'Netea_et_al_2016
-          'Kleinnijenhuis_et_al_2012
-          'Hegarty_et_al_2020
-          'ONeill_et_al_2020
-        -- Counter
-          'Hamiel_et_al__05_13_2020
-
-  subject Therapeutics
-
-    subject Antivirals
-      -- Generic papers
-        'hui_et_al_2020
-        'Sheahan_et_al_2020
-      --
-        Remdesivire
-        LopinavirRitonavir
-        Chloroquine
-        Hydroxychloroquine
-        HydroxychloroquineWithZinc
-        HydroxychloroquineWithAzithromycin
-        Niclosamide
-        Nitazoxanide
-        aketoamideinhibitor
-      subject Remdesivire
-        --
-          'Sheahan_et_al_2017
-          'Wang_et_al_2020
-          'agostini_et_al_2018
-          'grein_et_al_2020
-          'Beigel_et_al_2020
-          'Berlin_et_al_2020.!w
-          'Kujawski_et_al_2020.!d
-          'Kujawski_et_al_2020.!i
-      / Lopinavir-Ritonavir
-      subject LopinavirRitonavir
-        --
-          'Lim_et_al_2020
-          'Cao_et_al_2020
-          'Cvetkovic_et_al_2012
-      subject Chloroquine
-        --
-          'Savarino_et_al_2003
-          'Davis_et_al_2003
-          'Vincent_et_al_2005
-          'Cortegiani_et_al_2020
-          'Wang_et_al_2020
-
-      subject Hydroxychloroquine
-        --
-          'Liu_et_al_2020b
-          'Yao_et_al_2020
-          'Mahevas_et_al_2020
-          'Geleris_et_al_05_27_2020
-
-      / Hydroxychloroquine with Zinc
-      subject HydroxychloroquineWithZinc
-      / Hydroxychloroquine with Azithromycin
-      subject HydroxychloroquineWithAzithromycin
-        --
-          'Gautret_et_al_2020
-      subject Niclosamide
-        --
-          'Xu_et_al_2020
-      subject Nitazoxanide
-        --
-          'Rossignol_et_al_2014
-          'Wu_et_al_2004
-      / a-ketoamide inhibitor
-      subject aketoamideinhibitor
-        --
-          'Zhang_et_al_2020c
-          'Zhang_et_al_2020
     / Host modifiers and Immune-Based Therapy
-    subject HostModifiers
+    subject module HostModifiers
       subject ConvalescentPlasma
         --
           'Jenkins_et_al_2015
@@ -1507,42 +1486,65 @@ subject module Remediation
           'Shen_et_al_2020
           'Shen_et_al_2020.!a
           'Liu_et_al_2020i
-
+          'Zhang_et_al_2020e
         -- Counter
           'Marano_et_al_2016
         -- Limitations
           'Wong_et_al_2010
-      # (e.g., Anakinra)
-      / Interleukin-1 (IL-1) Inhibitors
-      subject IL1
-        --
-          'Evavold_et_al_2017
-          'Evavold_et_al_2017.!a
-          'Siddiqi_et_al_2020.!g
-          'Conti_et_al_03_14_2020
-      # (Sarilumab, Siltuximab, Tocilizumab)
-      / Interleukin-6 (IL-6) Inhibitors
-      subject IL6
-        --
-          'Siddiqi_et_al_2020.!g
-          'Kimmig_et_al_05_20_2020
-          'Conti_et_al_03_14_2020
-          'DelValle_et_al_05_30_2020.!r
-          'DelValle_et_al_05_30_2020.!s
-      # Other Immunomodulators
-      subject Interferons
-        --
-          'Vanderheiden_et_al_05_20_2020.!a
-        #  (Alpha, Beta)
-      subject JanusKinaseInhibitors
       subject CytokineInhibitors
         --
           'Konig_et_al_04_18_2020
           'DelValle_et_al_05_30_2020
-        #  (e.g., Baricitinib)
+            #  (e.g., Baricitinib)
+        # (e.g., Anakinra)
+        / Interleukin-1 (IL-1) Inhibitors
+        subject IL1
+          --
+            'Evavold_et_al_2017
+            'Evavold_et_al_2017.!a
+            'Siddiqi_et_al_2020.!g
+            'Conti_et_al_03_14_2020
+            'Zhang_et_al_2020e
+        # (Sarilumab, Siltuximab, Tocilizumab)
+        / Interleukin-6 (IL-6) Inhibitors
+        subject IL6
+          --
+            'Siddiqi_et_al_2020.!g
+            'Kimmig_et_al_05_20_2020
+            'Conti_et_al_03_14_2020
+            'DelValle_et_al_05_30_2020.!r
+            'DelValle_et_al_05_30_2020.!s
+            'Zhang_et_al_2020e
+      subject Interferons
+        --
+          'Vanderheiden_et_al_05_20_2020.!a
+          'Zhang_et_al_2020e
+          'Broggi_et_al_01_06_2020
+          # Disease tolerance
+          'Pillai_et_al_2016
+          'Niwa_et_al_10_15_2018
+        -- ISG15
+          'Perng_et_al_2018
+          'Perng_et_al_2018.!a
+          'Perng_et_al_2018.!b
+          'Perng_et_al_2018.!c
+          'Perng_et_al_2018.!d
+          'Perng_et_al_2018.!e
+          'Perng_et_al_2018.!f
+          'Perng_et_al_2018.!g
+          'Shaabani_et_al_2020
+          'Shaabani_et_al_2020.!a
+          'Shaabani_et_al_2020.!b
+          'Shaabani_et_al_2020.!c
+          'Shaabani_et_al_2020.!d
+          'Shaabani_et_al_2020.!e
+          'Shaabani_et_al_2020.!f
+          'Shaabani_et_al_2020.!g
+          'Shaabani_et_al_2020.!h
+          'Shaabani_et_al_2020.!i
     #  / Concomitant Medications
     / Anti-Inflammatories
-    subject AntiInflammatories
+    subject module AntiInflammatories
       / ACE-2 Inhibitors
       subject ACEInhibitors
         --
@@ -1573,160 +1575,243 @@ subject module Remediation
         --
           'Llor_et_al_2013
           'Voiriot_et_al_2019
-  subject Frontiers
-    # immune response of bats
-    -- Bats
-      'Xie_et_al_2018
-      'Zhang_et_al_2013
-      'Najjar_et_al_2015
-      'Najjar_et_al_2015.!g
-      'Banerjee_et_al_2017
-      'Kacprzyk_et_al_2017
-      'Mandl_et_al_2018
-      'Mandl_et_al_2018.!a
-      'Mandl_et_al_2018.!b
-      'Mandl_et_al_2018.!c
-      'Benfield_et_al_2019
-      'Banerjee_et_al_2020
-      'Pavlovich_et_al_2018
-      'Skirmuntt_et_al_05_12_2020
-    -- Zinc Inhibitor
-      'Velthuis_et_al_2010
-    -- Zinc
-      'Beck_et_al_1997
-      'Hemilä_et_al_2017
-    # Not relevant here but has some correlation
-    -- Quercetin
-      'Yi_et_al_2004
-      'Chondrogianni_et_al_2010
-    -- Innate Immunity
-      'Takeuchi_et_al_2009
-      'Iwasaki_et_al_2014
-      'Netea_et_al_2016
-      'Pillai_et_al_2016
-      'Broggi_et_al_01_06_2020
-      'Niwa_et_al_10_15_2018
-    -- SARS and MERS
-      'Chen_et_al_2009
-      'Zhao_et_al_2010
-      'Zumla_et_al_2016
-      'Alharbi_et_al_11_19_2019
-      'Shan-Shi_et_al_06_05_2019
-    -- Genetic Risk ?
-      'Stawiski_et_al_2020
-      'Batlle_et_al_2020
-    -- Peptides
-      'Fukushi_et_al_2005
-    -- Pyroptosis
-      'Evavold_et_al_2017
-      'Shi_et_al_2019.!a
-      'Shi_et_al_2019.!b
-      'Shi_et_al_2019.!c
-      'Shi_et_al_2019.!d
-      'Wu_et_al_2019
-      'Wu_et_al_2019.!a
-      'Wu_et_al_2019.!b
-      'Wu_et_al_2019.!c
-      'Wu_et_al_2019.!d
-      'Wu_et_al_2019.!e
-      'Wu_et_al_2019.!f
-      'Wu_et_al_2019.!g
-      'Wu_et_al_2019.!h
-      'Wu_et_al_2019.!i
-      'Wu_et_al_2019.!j
-    -- Antiviral compound
-      'Das_et_al_2020
-    -- ISG15
-      'Perng_et_al_2018
-      'Perng_et_al_2018.!a
-      'Perng_et_al_2018.!b
-      'Perng_et_al_2018.!c
-      'Perng_et_al_2018.!d
-      'Perng_et_al_2018.!e
-      'Perng_et_al_2018.!f
-      'Perng_et_al_2018.!g
-      'Shaabani_et_al_2020
-      'Shaabani_et_al_2020.!a
-      'Shaabani_et_al_2020.!b
-      'Shaabani_et_al_2020.!c
-      'Shaabani_et_al_2020.!d
-      'Shaabani_et_al_2020.!e
-      'Shaabani_et_al_2020.!f
-      'Shaabani_et_al_2020.!g
-      'Shaabani_et_al_2020.!h
-      'Shaabani_et_al_2020.!i
-    --
-      'Zheng_et_al_2020b.!j
-    -- Estrogen Related Therepy
-      'Mishra_et_al_2018
-      'Sutton_et_al_2020
-      'Schwartz_et_al_2020
-      'Schwartz_et_al_2020.!a
-      'Schwartz_et_al_2020.!b
-    -- HLA
-      'Lin_et_al_2003
-      'Blackwell_et_al_2009
-      'Paul_et_al_2013
-      'Nguyen_et_al_2020
-    -- Deep Learning
-      'Stokes_et_al_2020
-      'Stokes_et_al_2020.!a
-    --
-      'Monteil_et_al_2020
-    -- Cross Neutralization
-      'Ju_et_al_05_26_2020
-    -- Monoclonal Antibodies
-      'Shi_et_al_05_26_2020
-    -- Vesicular stomatitis virus
-      'Dieterle_et_al_05_20_2020
-      'Fukushi_et_al_2005
-      'Daly_et_al_06_05_2020.!f
-    -- Cytokine Profiling
-      'DelValle_et_al_05_30_2020
-    --
-      Proteases
-
-    subject Proteases
+    / Frontiers
+    subject  Frontiers
+      -- Immune Reponse of Bats
+        'Xie_et_al_2018
+        'Zhang_et_al_2013
+        'Najjar_et_al_2015
+        'Najjar_et_al_2015.!g
+        'Banerjee_et_al_2017
+        'Kacprzyk_et_al_2017
+        'Mandl_et_al_2018
+        'Mandl_et_al_2018.!a
+        'Mandl_et_al_2018.!b
+        'Mandl_et_al_2018.!c
+        'Benfield_et_al_2019
+        'Banerjee_et_al_2020
+        'Pavlovich_et_al_2018
+        'Skirmuntt_et_al_05_12_2020
+      -- Zinc has been reported to inhibit coronavirus species
+        'Beck_et_al_1997
+        'Velthuis_et_al_2010
+        'Hemilä_et_al_2017
+      -- Quercetin
+        'Yi_et_al_2004
+        'Chondrogianni_et_al_2010
+      -- Innate Immunity
+        'Takeuchi_et_al_2009
+        'Iwasaki_et_al_2014
+        'Netea_et_al_2016
+      -- SARS and MERS
+        'Chen_et_al_2009
+        'Zhao_et_al_2010
+        'Zumla_et_al_2016
+        'Alharbi_et_al_11_19_2019
+        'Shan-Shi_et_al_06_05_2019
+      -- Pyroptosis
+        'Evavold_et_al_2017
+        'Shi_et_al_2019.!a
+        'Shi_et_al_2019.!b
+        'Shi_et_al_2019.!c
+        'Shi_et_al_2019.!d
+        'Wu_et_al_2019
+        'Wu_et_al_2019.!a
+        'Wu_et_al_2019.!b
+        'Wu_et_al_2019.!c
+        'Wu_et_al_2019.!d
+        'Wu_et_al_2019.!e
+        'Wu_et_al_2019.!f
+        'Wu_et_al_2019.!g
+        'Wu_et_al_2019.!h
+        'Wu_et_al_2019.!i
+        'Wu_et_al_2019.!j
+      -- Antiviral compound
+        'Das_et_al_2020
+      -- Estrogen Related Therepy
+        'Mishra_et_al_2018
+        'Sutton_et_al_2020
+        'Schwartz_et_al_2020
+        'Schwartz_et_al_2020.!a
+        'Schwartz_et_al_2020.!b
+      -- Deep Learning
+        'Stokes_et_al_2020
+        'Stokes_et_al_2020.!a
+      -- Cross Neutralization
+        'Ju_et_al_05_26_2020
+      -- Vesicular stomatitis virus
+        'Dieterle_et_al_05_20_2020
+        'Fukushi_et_al_2005
+        'Daly_et_al_06_05_2020.!f
+      -- Glycan
+        'Watanabe_et_al_2020
+        'Breiman_et_al_05_21_2020
+  / Clinical Recommendation
+  subject module ClinicalRecommendation
+    / Severe Covid-19
+    subject SevereCovid
       --
-        'Hoffmann_et_al_2020
-  subject Ventilators
-    -- Side effects
-      'Dreyfuss_et_al_1998
-      'Soni_et_al_2008
-    --
-      'Ferreira_et_al_04_19_2020
-      'Richardson_et_al_04_22_2020.!f
-      'Richardson_et_al_04_22_2020.!l
+        'Berlin_et_al_2020
+        'Berlin_et_al_2020.!g
+        'Berlin_et_al_2020.!h
+        'Berlin_et_al_2020.!i
+        'Berlin_et_al_2020.!j
+        'Berlin_et_al_2020.!k
+        'Berlin_et_al_2020.!l
+        'Berlin_et_al_2020.!m
+        'Berlin_et_al_2020.!n
+        'Berlin_et_al_2020.!o
+        'Berlin_et_al_2020.!p
+        'Berlin_et_al_2020.!q
+        'Berlin_et_al_2020.!r
+        'Berlin_et_al_2020.!s
+        'Berlin_et_al_2020.!u
+        'Berlin_et_al_2020.!v
+        'Berlin_et_al_2020.!w
+    / Blood Coagulation
+    subject BloodCoagulationRecommendation
+      --
+        'Song_et_al_2020
+        'Song_et_al_2020.!a
+        'Song_et_al_2020.!b
+        'Song_et_al_2020.!c
+        'Song_et_al_2020.!d
+        'Song_et_al_2020.!e
+        'Song_et_al_2020.!f
+        'Song_et_al_2020.!g
+        'Song_et_al_2020.!h
+        'Song_et_al_2020.!i
+        'Song_et_al_2020.!j
+        'Song_et_al_2020.!k
+        'Song_et_al_2020.!l
+        'Song_et_al_2020.!m
+        'Song_et_al_2020.!n
+        'Song_et_al_2020.!o
+        'Song_et_al_2020.!p
+        'Song_et_al_2020.!q
+        'Song_et_al_2020.!r
+        'Berlin_et_al_2020.!t
+    / NeuroInvasion
+    subject Neuroinvasion
+      -- Multiple Sclerosis
+        'Zubair_et_al_05_29_2020.!a
+        'Zubair_et_al_05_29_2020.!b
+      -- Neuromuscular Disorders
+        'Zubair_et_al_05_29_2020.!c
+        'Zubair_et_al_05_29_2020.!d
+      -- Epilepsy
+        'Zubair_et_al_05_29_2020.!e
+        'Zubair_et_al_05_29_2020.!f
+    / Ventilators
+    subject Ventilators
+      --
+        'Ferreira_et_al_04_19_2020
+        'Richardson_et_al_04_22_2020.!f
+        'Richardson_et_al_04_22_2020.!l
+      -- Side effects
+        'Dreyfuss_et_al_1998
+        'Soni_et_al_2008
+    / Nasal Irrigation
+    subject NasalIrrigation
+      --
+        'Bastier_et_al_2015
+  subject module Vaccines
+    subject module Prospects
+      / RNA Vaccine
+      subject RNAVaccine
+        --
+          'Amanat_et_al_2020b.!a
+          'Amanat_et_al_2020b.!b
+          'Erasmus_et_al_05_28_2020
+      / DNA Vaccine
+      subject DNAVaccine
+        --
+          'Amanat_et_al_2020b.!c
+          'Amanat_et_al_2020b.!d
+          'Smith_et_al_02_25_2020
+          'Smith_et_al_05_08_2020
+          'Yu_et_al_05_20_2020
+          'Chandrashekar_et_al_05_20_2020
+      / Recombinant Protien Vaccine
+      subject RecombinantProtienVaccine
+        --
+          'Amanat_et_al_2020b.!e
+          'Amanat_et_al_2020b.!f
+      / Viral Vector-Based Vaccine
+      subject ViralVector
+        --
+          'Amanat_et_al_2020b.!g
+          'Amanat_et_al_2020b.!h
+      / Live Attenuated Vaccine
+      subject LiveAttennuated
+        --
+          'Amanat_et_al_2020b.!i
+          'Amanat_et_al_2020b.!j
+      / Inactivated Vaccine
+      subject InactivatedVaccine
+        --
+          'Gao_et_al_2020
+          'Amanat_et_al_2020b.!k
+          'Amanat_et_al_2020b.!l
+      / Non-specific vaccines
+      subject Nonspecificvaccine
+        subject BCG
+          --
+            'Berg_et_al_2020
+            'Arts_et_al_2020
+            'Darrah_et_al_2020
+            'Miller_et_al_2020
+            'Higgins_et_al_2016
+            'Netea_et_al_2016
+            'Kleinnijenhuis_et_al_2012
+            'Hegarty_et_al_2020
+            'ONeill_et_al_2020
+          -- Counter
+            'Hamiel_et_al__05_13_2020
+        subject MMR
+          -- MMR, measles
+            'Franklin_et_al_2020
+
+    / Frontiers
+    subject Vaccinefrontiers
+      --
+        'Wu_et_al_2020b
+        'Kames_et_al_2020
+        'Peeples_et_al_2020
+        'Quinlan_et_al_2020
+        'Iwasaki_et_al_2020
+        'Iwasaki_et_al_2020.!a
+        'Wan_et_al_2019
+        'Wan_et_al_2019.!f
+        'Grifoni_et_al_05_04_2020.!a
+        'Grifoni_et_al_05_04_2020.!b
+        'Kaslow_et_al_05_07_2020
+        'Dieterle_et_al_05_20_2020
+        'Weng_et_al_05_19_2020
+        'Robbiani_et_al_05_22_2020
+        'Lv_et_al_06_02_2020
 
 subject module Projections
 
-  --
-    'Woolhouse_et_al_1997
-    'Lloyd-Smith_et_al_2005
-    'Kissler_et_al_2020
-    'Vespignani_et_al_2020
-  -- If you remove early quarantine cases will increase
-    'Dandekar_et_al_2020
-  --
-    'Netto_et_al_2017.!e
-  -- Mitigation
-    'Chikina_et_al_2020
-  -- Non-pharmaceutical intervention
-    'Flaxman_et_al_2020
-    'Flaxman_et_al_2020.!a
-    'Flaxman_et_al_2020.!b
-    'Flaxman_et_al_2020.!c
-    'Flaxman_et_al_2020.!d
-    'Flaxman_et_al_2020.!e
-
-
 subject module PublicPolicy
-  --
-    SocialBehavior
-  --
+  -- SocialBehavior
+    'Bavel_et_al_2020
+    'Reyna_et_al_06_02_2020
+  -- Mental Health
+    'Kantor_et_al_05_28_2020
+  -- Community level antibody testing
+    'Lipsitch_et_al_2020
+    'Bryant_et_al_05_19_2020
+  -- Community Level Surveillance System
+    'Siedner_et_al_05_29_2020
+  -- Approach for removing individuals from isolation
+    'Tom_et_al_2020
+  -- Social, Racial and Economic health disparities
+    'Van-Dorn_et_al_04_18_2020
     'Wadhera_et_al_2020
-    'Lai_et_al_2020b
-    'Lai_et_al_2020b.!f
+  -- Ensuring the resilience of clinical cancer research and optimize patient-centered care.
+    'Dohery_et_al_05_29_2020
+  -- Superspreading prevention in Hong Kong
     'Adam_et_al_2020.!b
     'Adam_et_al_2020.!c
     'Adam_et_al_2020.!d
@@ -1734,20 +1819,3 @@ subject module PublicPolicy
     'Adam_et_al_2020.!h
     'Adam_et_al_2020.!i
     'Adam_et_al_2020.!j
-    'Tom_et_al_2020
-    'Siedner_et_al_05_29_2020
-    'Dohery_et_al_05_29_2020
-    'Van-Dorn_et_al_04_18_2020
-  -- Mental Health
-    'Kantor_et_al_05_28_2020
-  -- Seroprevalence
-    'Bryant_et_al_05_19_2020
-
-
-  -- Community level antibody testing
-    'Lipsitch_et_al_2020
-
-  subject SocialBehavior
-    --
-      'Bavel_et_al_2020
-      'Reyna_et_al_06_02_2020
