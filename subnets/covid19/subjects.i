@@ -1132,6 +1132,7 @@ subject module Mitigation
   / Infection Prevention
   subject module InfectionPrevention
     head =  Control measures such has hand hygiene, PPE, Disinfection and use of antimicrobial surfaces are recommended in any setting to prevent the spread of infection.
+    / Hand Washing
     subject HandWashing
       head = Reports reveal that hand washing with soap and water to remove viruses is an effective measure to stop individual transmissibility of COVID-19.
       --
@@ -1343,6 +1344,7 @@ subject module Mitigation
       'Salje_et_al_04_20_2020
     -- UK
       'Davies_et_al_06_02_2020
+  / Herd Immunity
   subject HerdImmunity
     head = Epidemiological and immunological factors, such as population structure, variation in transmission dynamics, and waning immunity, have important implications in the context of herd immunity. Currently, they are difficult to estimate given the limited data available.
     >>>
@@ -1377,9 +1379,9 @@ subject module Mitigation
 # / Medical Interventions # Disease Control
 subject module Remediation
   subject module Therapeutics
-    head =
+    head = Researchers have developed drug catalog which showed that there were potential interactions between the virus, human cells and these existing drugs or compounds. They have identified strong treatment leads and mechanisms that effects and alleviate the severity of COVID-19.
     subject module Antivirals
-      head = Scientist have identified several existing drugs and compounds with potential to treat COVID-19. Clinical Trials are on-going.
+      head = Scientist have identified several antiviral drugs and compounds with potential to treat COVID-19. Clinical Trials are on-going.
       / Polymerase Inhibitors
       subject PolymeraseInhibitors
         head = The RNA-dependent RNA polymerase (RdRp) is the central component of coronaviral replication and transcription machinery. Polymerase Inhibitors works by inhibiting the activity of RdRp. They often have broad-spectrum possessing activity against multiple related virus species.
@@ -1423,10 +1425,10 @@ subject module Remediation
           --
             'Zhang_et_al_2020c
             'Zhang_et_al_2020
-
       / Entry Inhibitors
       subject EntryInhibitors
         head = Entry inhibitors interferes with the binding, fusion and entry to a human cell. By blocking this step in virus replication cycle, such agents could slow the progression of infection of SARS-CoV-2.
+        / Monoclonal Antibodies
         subject MonoclonalAntibodies
           head = Several studies have described the development of Monoclonal Antibodies that are able to potently inhibit SARS-CoV-2 in vitro.
           --
@@ -1440,19 +1442,21 @@ subject module Remediation
             'Monteil_et_al_2020
       / Additonal Host Targeting Compounds
       subject HostTargetingCompounds
-        head = Host Targeting compounds might be able to inhibit multiple viruses, since many viruses depend on similar host factors and pathways.
+        head = Host Targeting compounds might work to inhibit multiple viruses, as many viruses rely on on similar host factors and pathways. Compared to other drugs they may have a higher risk of cellular toxicity.
         / Endosomal Trafficking Inhibitors
         subject EndosomalTraffickingInhibitors
+          head = Endocytic pathway and the autophagy process plays a role in viral entry and replication. The endocytic pathway including endosome and lysosome has become important targets for development of therapeutic strategies in combating diseases caused by CoVs.
+          / Chloroquine and Hydroxychloroquine
           subject Chloroquine
-            --
+            head = Chloroquine / hydroxychloroquine has not been formally approved through clinical trials,and its use was withdrawn as a possible treatment for COVID-19 infection when it proved to have no benefit.
+            -- Chloroquine
               'Savarino_et_al_2003
               'Davis_et_al_2003
               'Vincent_et_al_2005
               'Cortegiani_et_al_2020
               'Wang_et_al_2020
               'Li_et_al_2020
-          subject Hydroxychloroquine
-            --
+            -- Hydroxychloroquine
               'Liu_et_al_2020b
               'Yao_et_al_2020
               'Mahevas_et_al_2020
@@ -1461,21 +1465,27 @@ subject module Remediation
             -- Hydroxychloroquine with Azithromycin
               'Gautret_et_al_2020
           subject Niclosamide
+            head = Studies have shown that Niclosamide consistently displayed significant inhibitory activity in vitro and is being studied in planned clinical trial. Though its bioavailability remains uncertain.
             --
               'Xu_et_al_2020
               'Li_et_al_2020
         # subject HostProteaseInhibitors
         / Miscellaneous Additonal Host Targets
         subject MiscellaneousAdditonalHostTargets
-          subject Nitazoxanide
-            --
-              'Rossignol_et_al_2014
-              'Wu_et_al_2004
-              'Li_et_al_2020
+          head = Viruses often use receptors to infect cells. Studies indicate decreasing the activity of the receptors likely inhibits replication and reduces infection. Researchers have identified several drugs or molecules that interact with these receptors.
+          -- Nitazoxanide
+            'Rossignol_et_al_2014
+            'Wu_et_al_2004
+            'Li_et_al_2020
 
-    / Host modifiers and Immune-Based Therapy
+    / Immune-Based Therapy
     subject module HostModifiers
+      head = Immune based therapy is the treatment of disease by activating or suppressing the immune system. Several immune-based therapies that are directed at modifying the course of COVID-19 are currently under investigation. These agents may target the virus or modulate the immune response.
+      # Emerging evidence suggests that SARS-CoV-2 can drive a diverse array of immune processes, raising the risk that immunosuppressant agents that are in clinical trials might be effective for some patients but detrimental for others. Some studies suggest that IFNs should be administered as early as possible in the course of infection
+      / Convalescent Plasma
       subject ConvalescentPlasma
+        head = There are several on-going trials. So far some observational data supports this intervention. It is adviced that donors must have had resolution of symptoms 28 days before their donation or 14 days before if they have negative nasopharyngeal or blood PCR tests.
+        # It is adviced that donors must have had resolution of symptoms 28 days before their donation or 14 days before if they have negative nasopharyngeal or blood PCR tests. So far some observational data supports this intervention though it is important to determine its safety and efficacy via clinical trials before routinely administering convalescent plasma to patients with COVID-19. There are potential risks invloved which need to be factored in too. Recent studies showed that most convalescent plasma obtained from individuals who recover from COVID19 do *not* contain high levels of neutralizing activity.
         --
           'Jenkins_et_al_2015
           'Chen_et_al_2020
@@ -1491,38 +1501,39 @@ subject module Remediation
           'Marano_et_al_2016
         -- Limitations
           'Wong_et_al_2010
+      / Cytokine Inhibitors
       subject CytokineInhibitors
+        head = Cytokine inhibitors decreases the synthesis of cytokines and their concentration in free active form. They can also interfere with the signaling of cytokine receptors and block their interaction with specific receptors.
         --
           'Konig_et_al_04_18_2020
           'DelValle_et_al_05_30_2020
-            #  (e.g., Baricitinib)
-        # (e.g., Anakinra)
-        / Interleukin-1 (IL-1) Inhibitors
-        subject IL1
-          --
-            'Evavold_et_al_2017
-            'Evavold_et_al_2017.!a
-            'Siddiqi_et_al_2020.!g
-            'Conti_et_al_03_14_2020
-            'Zhang_et_al_2020e
-        # (Sarilumab, Siltuximab, Tocilizumab)
-        / Interleukin-6 (IL-6) Inhibitors
-        subject IL6
-          --
-            'Siddiqi_et_al_2020.!g
-            'Kimmig_et_al_05_20_2020
-            'Conti_et_al_03_14_2020
-            'DelValle_et_al_05_30_2020.!r
-            'DelValle_et_al_05_30_2020.!s
-            'Zhang_et_al_2020e
+        >>>
+          Interleukin-1 (IL-1) & Interleukin-6 (IL-6) Inhibitors can modulate the immune response. At the moment there are insufficient data to recommend either for or against the use of these agents.
+        -- IL-1
+          'Evavold_et_al_2017
+          'Evavold_et_al_2017.!a
+          'Siddiqi_et_al_2020.!g
+          'Conti_et_al_03_14_2020
+          'Zhang_et_al_2020e
+        --  IL-6
+          'Siddiqi_et_al_2020.!g
+          'Kimmig_et_al_05_20_2020
+          'Conti_et_al_03_14_2020
+          'DelValle_et_al_05_30_2020.!r
+          'DelValle_et_al_05_30_2020.!s
+          'Zhang_et_al_2020e
+      / Interferons
       subject Interferons
+        head = Interferons have been suggested as a potential treatment for COVID-19 because of their in vitro and in vivo antiviral properties.  Data suggests that proteins produced by SARS-CoV-2 down-regulates host innate immunity and early use of Interferons could be beneficial when innate immunity is needed.
         --
+          'Vanderheiden_et_al_05_20_2020
           'Vanderheiden_et_al_05_20_2020.!a
           'Zhang_et_al_2020e
           'Broggi_et_al_01_06_2020
-          # Disease tolerance
           'Pillai_et_al_2016
           'Niwa_et_al_10_15_2018
+        >>>
+           Studies have shown that ISG15 inhibits viral replication and can modulate the host damage and repair response, immune response and other host signalling pathways
         -- ISG15
           'Perng_et_al_2018
           'Perng_et_al_2018.!a
@@ -1542,26 +1553,28 @@ subject module Remediation
           'Shaabani_et_al_2020.!g
           'Shaabani_et_al_2020.!h
           'Shaabani_et_al_2020.!i
-    #  / Concomitant Medications
     / Anti-Inflammatories
     subject module AntiInflammatories
-      / ACE-2 Inhibitors
+      head = Anti-Inflammatories drugs reduces inflammation or swelling. There has been heavy debate on the use of anti-inflammatory drugs in the treatment of SARS-CoV-2 infection.
+      / ACE Inhibitors & Angiotensin Receptor Blockers (ARBs)
       subject ACEInhibitors
-        --
+        head = Concern exists that ACE inhibitors and ARBs increase susceptibility to SARS-CoV-2. However recent studies warn against its withdrawal and state that patients taking these inhibitors are not more susceptible nor are they likely to develop a more severe form of disease.
+        -- ACE Inhibitors
           'Zhang_et_all_2020b
           'Zhang_et_al_2020f
-      / ARBs
-      subject ARBs
         -- ARB
           'Liu_et_al_2020d
           'Zhang_et_al_2020f
+      / Corticosteroids
       subject Corticosteroids
+        head = Potent anti-inflammatory effects of corticosteroids are proposed to have a potential therapeutic role in suppressing cytokine-related lung injury. Data of its usage in COVID-19 are limited and caution should be exercised, usage should be considered on a case-by-case basis.
         --
           'Berlin_et_al_2020.!x
           'Berlin_et_al_2020.!y
           'Xu_et_al_2020b.!k
       / HMG-CoA Reductase Inhibitors (Statins)
       subject Statins
+        head = Statins, known for their anti-inflammatory, antithrombotic and immunomodulatory effects, may have a role in mitigating endothelial dysfunction and dysregulated inflammation in COVID-19 patients. Research suggesting that statins may reduce the severity of COVID-19 are limited.
         --
           'Hothersall_et_al_2006
           'Singla_et_al_2012
@@ -1572,11 +1585,13 @@ subject module Remediation
           'Mansur_et_al_2015.!h
       / Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)
       subject NSAIDs
+        head = Earlier reports proposed that NSAIDs like ibuprofen may worsen COVID-19.  Shortly after these reports, the FDA stated that there is no evidence linking the use of NSAIDs with worsening of COVID-19 and advised patients to use NSAIDs as directed.
         --
           'Llor_et_al_2013
           'Voiriot_et_al_2019
     / Frontiers
     subject  Frontiers
+      head = Knowledge of these studies is important to understand the development of therapeutics.
       -- Immune Reponse of Bats
         'Xie_et_al_2018
         'Zhang_et_al_2013
@@ -1646,10 +1661,12 @@ subject module Remediation
       -- Glycan
         'Watanabe_et_al_2020
         'Breiman_et_al_05_21_2020
-  / Clinical Recommendation
+  / Clinical Management
   subject module ClinicalRecommendation
+    head = Studies and research recommending management of patients with COVID-19 are extrapolated from experience. Guidelines are intended to meet the needs of frontline clinicians and it promotes a multi-disciplinary approach for caring of COVID-19 patients, including those with mild, moderate, severe, and critical disease. Intension is not to replace specialist consultation or clinical protocols but rather to strengthen clinical management of patients.
     / Severe Covid-19
     subject SevereCovid
+      head = According to NIH, Patients with COVID-19 are considered to have severe illness if they have SpO2 <94% on room air at sea level, respiratory rate >30, PaO2/FiO2 <300 mmHg, or lung infiltrates >50%. Given the high risk of complications from severe Covid-19, research recommends clinicans should establish timely, effective and safe supportive management goals of care.
       --
         'Berlin_et_al_2020
         'Berlin_et_al_2020.!g
@@ -1668,8 +1685,9 @@ subject module Remediation
         'Berlin_et_al_2020.!u
         'Berlin_et_al_2020.!v
         'Berlin_et_al_2020.!w
-    / Blood Coagulation
+    / Coagulation Dysfunction
     subject BloodCoagulationRecommendation
+      head = The pathogenesis for COVID-19-associated hypercoagulability remains unknown. Clinical and laboratory findings include thrombocytopenia, elevated D-dimer, prolonged prothrombin time, and disseminated intravascular coagulation. There is a general consensus on the tests for coagulation, anticoagulation therapy, replacement therapy, supportive therapy and prevention.
       --
         'Song_et_al_2020
         'Song_et_al_2020.!a
@@ -1693,6 +1711,7 @@ subject module Remediation
         'Berlin_et_al_2020.!t
     / NeuroInvasion
     subject Neuroinvasion
+      head = The most common neurologic complaints in COVID-19 are anosmia, ageusia, and headache other Neurologic manifestations include seizure, stroke, impairment of consciousness, encephalitis, and Guillain–Barré syndrome (which includes loss of motor functions) have also been reported. When seeing patients with neurological manifestations, it is suggested that clinicians should suspect SARS-CoV-2 infection as a differential diagnosis to avoid delayed diagnosis or misdiagnosis.
       -- Multiple Sclerosis
         'Zubair_et_al_05_29_2020.!a
         'Zubair_et_al_05_29_2020.!b
@@ -1704,6 +1723,7 @@ subject module Remediation
         'Zubair_et_al_05_29_2020.!f
     / Ventilators
     subject Ventilators
+      head = The use of supplemental oxygen in adults with COVID-19 has not been studied, but based on indirect evidence from other critical illnesses, NIH suggests the optimal oxygen target is an SpO2 between 92% and 96%. Based on studies and observations, mechanical ventilators can cause a wide range of side effects. The problem is that the longer people are on ventilation, the more likely they are to suffer complications related to machine-assisted breathing.
       --
         'Ferreira_et_al_04_19_2020
         'Richardson_et_al_04_22_2020.!f
@@ -1713,18 +1733,24 @@ subject module Remediation
         'Soni_et_al_2008
     / Nasal Irrigation
     subject NasalIrrigation
+      head =
       --
         'Bastier_et_al_2015
   subject module Vaccines
+    head =  At the moment, no vaccine has completed clinical trials, there are multiple efforts in progress to develop a vaccine against COVID-19.
     subject module Prospects
+      head = There are multiple prospects of COVID-19 Vaccine. Among those with the greatest potential for speed are DNA and RNA-based platforms, followed by those for developing recombinant-subunit vaccines. RNA and DNA vaccines can be made quickly because they require no culture or fermentation, instead using synthetic processes.
+      # Must edit head of All these vaccines. Copyright issues in some. Language needs to change for prospects as taken from a research paper.
       / RNA Vaccine
       subject RNAVaccine
+        head = RNA vaccines work by introducing an mRNA sequence (the molecule which tells cells what to build) which is coded for a disease specific antigen, once produced within the body, the antigen is recognised by the immune system, preparing it to fight the real thing. RNA vaccines are faster and cheaper to produce than traditional vaccines, and a RNA based vaccine is also safer for the patient, as they are not produced using infectious element.
         --
           'Amanat_et_al_2020b.!a
           'Amanat_et_al_2020b.!b
           'Erasmus_et_al_05_28_2020
       / DNA Vaccine
       subject DNAVaccine
+        head = DNA vaccines are third generation vaccines. They contain DNA that codes for specific proteins (antigens) from a pathogen. The DNA is injected into the body and taken up by cells, whose normal metabolic processes synthesize proteins based on the genetic code in the plasmid that they have taken up. Because these proteins contain regions of amino acid sequences that are characteristic of bacteria or viruses, they are recognized as foreign and when they are processed by the host cells and displayed on their surface, the immune system is alerted, which then triggers immune responses.  DNA vaccines could generate broad immune responses, similar to the live-attenuated virus platform, without the need for a replicating pathogen.
         --
           'Amanat_et_al_2020b.!c
           'Amanat_et_al_2020b.!d
@@ -1734,28 +1760,36 @@ subject module Remediation
           'Chandrashekar_et_al_05_20_2020
       / Recombinant Protien Vaccine
       subject RecombinantProtienVaccine
+        head = A recombinant vaccine are subunit vaccines, consisting of specific protein antigens or recombinant protein components (S-protien). They can generate TH and antibody responses, but not killer T cell responses. These vaccines use a harmless virus as a carrier, to introduce genetic material into cells, stimulates an immune response, expressing the antigen in these cells and then purifying it from them.
+        # NIAID-supported scientists have been developing and evaluating recombinant vectored vaccines to protect humans from viruses such as HIV, Zika virus and Ebola virus.
         --
           'Amanat_et_al_2020b.!e
           'Amanat_et_al_2020b.!f
       / Viral Vector-Based Vaccine
       subject ViralVector
+        head = Viral vector vaccines use live viruses to carry DNA into human cells. The DNA contained in the virus encodes antigens that, once expressed in the infected human cells, elicit an immune response. Viral vector-based vaccines present advantages over traditional vaccines in that they can enhance immunogenicity without an adjuvant and induce a robust cytotoxic T lymphocyte (CTL) response to eliminate virus-infected cells.
+        # For some diseases Viral vectors are used in combination with other vaccine technologies in a strategy called heterologous prime-boost. In this system, one vaccine is given as a priming step, followed by vaccination using an alternative vaccine as a booster. The heterologous prime-boost strategy aims to provide a stronger overall immune response. Viral vector vaccines are being pursued as both prime and boost vaccines as part of this strategy.
         --
           'Amanat_et_al_2020b.!g
           'Amanat_et_al_2020b.!h
       / Live Attenuated Vaccine
       subject LiveAttennuated
+        head = Advances in tissue culture techniques in the 1950s enabled development of live-attenuated vaccines, which use active viruses that have been cultivated under conditions that disable their virulent properties, or that use closely related but less dangerous organisms to produce a broad immune response. The measles, mumps and rubella (MMR) vaccine is one example. They typically provoke more durable immunological responses that can confer life-long immunity after only one or two doses and are the preferred type for healthy adults. But they may not be safe for use in immunocompromised individuals, and on rare occasions mutate to a virulent form and cause disease.
         --
           'Amanat_et_al_2020b.!i
           'Amanat_et_al_2020b.!j
       / Inactivated Vaccine
       subject InactivatedVaccine
+        head = Some vaccines contain inactivated, but previously virulent, micro-organisms that have been destroyed with chemicals, heat, or radiation. Scientists first described the ability of inactivated, or killed, microbes to induce immunity in the 19th century.
         --
           'Gao_et_al_2020
           'Amanat_et_al_2020b.!k
           'Amanat_et_al_2020b.!l
       / Non-specific vaccines
       subject Nonspecificvaccine
+        head = Some vaccines have non-specific effects beyond the disease they prevent.Two existing vaccines (BCG and MMR) are being tested to determine if either has a protective effect against COVID‑19.
         subject BCG
+          head = Assertions have been made that COVID‑19 mortality has been lower in countries having routine BCG vaccine administered against tuberculosis, though the World Health Organization (WHO) has said there is no evidence that this vaccine is effective against the COVID-19 virus. BCG vaccination has been reported to decrease susceptibility to respiratory tract infections, an effect proposed to be mediated by the general long-term boosting of innate immune mechanisms, also termed trained immunity. There are on-going clinical trials to study the whether the effects of BCG may afford protection to COVID-19.
           --
             'Berg_et_al_2020
             'Arts_et_al_2020
@@ -1769,11 +1803,12 @@ subject module Remediation
           -- Counter
             'Hamiel_et_al__05_13_2020
         subject MMR
-          -- MMR, measles
+          head = There is ongoing randomized placebo-controlled trial to test whether measles-mumps-rubella (MMR) vaccine can protect healthcare workers from COVID-19.
+          --
             'Franklin_et_al_2020
-
     / Frontiers
     subject Vaccinefrontiers
+      head =
       --
         'Wu_et_al_2020b
         'Kames_et_al_2020

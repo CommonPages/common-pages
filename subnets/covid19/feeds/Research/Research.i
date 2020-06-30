@@ -28,6 +28,11 @@ feed Research
   / June, 2020
   feed June2020
     --
+      'Salton_et_al_06_25_2020
+      'Corral_et_al_06_18_2020
+      'Horby_et_al_06_22_2020
+      'Hanson_et_al_06_16_2020
+      'Ianevski_et_al_06_11_2020
       'Meinhardt_et_al_06_04_2020
       'Daly_et_al_06_05_2020
       'Woloshin_et_al_06_05_2020
@@ -43,6 +48,10 @@ feed Research
   / May, 2020
   feed May2020
     --
+      'Li_et_al_05_05_2020
+      'Li_et_al_05_19_2020b
+      'Lee_et_al_05_12_2020
+      'Musarrat_et_al_05_06_2020
       'Melo_et_al_05_15_2020
       'Merad_et_al_05_06_2020
       'Grewelle_et_al_05_18_2020
@@ -138,6 +147,15 @@ feed Research
   / April, 2020
   feed April2020
     --
+      'Gordon_et_al_04_30_2020
+      'Ohashi_et_al_04_15_2020
+      'Yamamoto_et_al_04_08_2020
+      'Feldmann_et_al_04_09_2020
+      'Guo_et_al_04_09_2020
+      'Xu_et_al_04_29_2020
+      'Luo_et_al_04_06_2020
+      'Herold_et_al_04_10_2020
+      'Coomes_et_al_04_03_2020
       'Bi_et_al_04_27_2020
       'Richardson_et_al_04_22_2020
       'Varga_al_04_20_2020
@@ -224,6 +242,8 @@ feed Research
   / March, 2020
   feed March2020
     --
+      'Ritchie_et_al_03_24_2020
+      'Michot_et_al_03_06_2020
       'Conti_et_al_03_14_2020
       'Boni_et_al_03_31_2020
       'Arentz_et_al_2020
@@ -325,6 +345,7 @@ feed Research
   / February, 2020
   feed February2020
     --
+      'Gong_et_al_02_27_2020
       'Chen_et_al_02_08_2020
       'Smith_et_al_02_25_2020
       'Kim_et_al_2020b
@@ -749,6 +770,533 @@ feed Research
       'Hamburger_et_al_1948
 
   #
+
+  # Tocilizumab
+  // Tocilizumab Treatment for Cytokine Release Syndrome in Hospitalized COVID-19 Patients: Survival and Clinical Outcomes
+  doi: https://doi.org/10.1016/j.chest.2020.06.006
+  ref 'Price_et_al_06_15_2020
+    head = A treatment algorithm that included tocilizumab to target CRS may influence MV (mechanical ventilation) and survival outcomes. In tocilizumab-treated patients, oxygenation and inflammatory biomarkers improved, with higher than expected survival. Randomized trials must confirm these findings.
+
+    >>> Background
+      Tocilizumab, an IL-6 receptor antagonist, can be used to treat cytokine release syndrome (CRS), with observed improvements in a coronavirus disease 2019 (COVID-19) case series.
+
+    >>> Study Design and Methods
+      This observational study of consecutive COVID-19 patients hospitalized between March 10, 2020, and March 31, 2020, and followed up through April 21, 2020, was conducted by chart review. Patients were treated with tocilizumab using an algorithm that targeted CRS. Survival and mechanical ventilation (MV) outcomes were reported for 14 days and stratified according to disease severity designated at admission (severe, ≥ 3 L supplemental oxygen to maintain oxygen saturation > 93%). For tocilizumab-treated patients, pre/post analyses of clinical response, biomarkers, and safety outcomes were assessed. Post hoc survival analyses were conducted for race/ethnicity.
+
+    >>> Results
+      Among the 239 patients, median age was 64 years; 36% and 19% were black and Hispanic, respectively. Hospital census increased exponentially, yet MV census did not. Severe disease was associated with lower survival (78% vs 93%; P < .001), greater proportion requiring MV (44% vs 5%; P < .001), and longer median MV days (5.5 vs 1.0; P = .003). Tocilizumab-treated patients (n = 153 [64%]) comprised 90% of those with severe disease; 44% of patients with nonsevere disease received tocilizumab for evolving CRS. Tocilizumab-treated patients with severe disease had higher admission levels of high-sensitivity C-reactive protein (120 vs 71 mg/L; P < .001) and received tocilizumab sooner (2 vs 3 days; P < .001), but their survival was similar to that of patients with nonsevere disease (83% vs 91%; P = .11). For tocilizumab-treated patients requiring MV, survival was 75% (95% CI, 64-89). Following tocilizumab treatment, few adverse events occurred, and oxygenation and inflammatory biomarkers (eg, high-sensitivity C-reactive protein, IL-6) improved; however, D-dimer and soluble IL-2 receptor (also termed CD25) levels increased significantly. Survival in black and Hispanic patients, after controlling for age, was significantly higher than in white patients (log-rank test, P = .002).
+
+    >>> Interpretation
+      A treatment algorithm that included tocilizumab to target CRS may influence MV and survival outcomes. In tocilizumab-treated patients, oxygenation and inflammatory biomarkers improved, with higher than expected survival. Randomized trials must confirm these findings.
+
+    -- exports
+       !a
+       !b
+
+    / June, 2020 - Chest
+    let !a self assert = Tocilizumab targets a specific pathway in CRS, but other immunomodulators, including glucocorticoids, should be assessed for additional benefit in larger studies. Although a large proportion of patients in this series received tocilizumab early in their hospitalization, more precise identification of predictors of disease progression may help establish the ideal time for tocilizumab treatment.
+
+    / June, 2020 - Chest
+    let !b self assert = Consequently, this early report has generated interesting insights for future randomized trials. Until such trials are completed, however, use of tocilizumab may result in lower-than-expected mortality in a subgroup of patients with evidence of CRS.
+
+  # Clinical Recommendation - Hyperinflammation
+  // Immunosuppression for hyperinflammation in COVID-19: a double-edged sword?
+  doi: https://doi.org/10.1016/S0140-6736(20)30691-7
+  ref 'Ritchie_et_al_03_24_2020
+    head = The authors hypothesise that approaches such as corticosteroids or Janus kinase (JAK) inhibitors could be considered if hyperinflammation is present. Broad immunosuppression in patients with overwhelming viral illness might be inadvisable. Beneficial anti-inflammatory effects should be weighed up against the potentially detrimental effects of inhibiting anti-viral immunity, thereby delaying virus clearance and perpetuating illness.
+
+    -- exports
+       !a
+
+    / March, 2020 - The Lancet
+    let !a self assert = Accordingly, findings from multiple studies in humans and animals indicate that corticosteroid immunosuppression (both inhaled and systemic) impairs induction of anti-viral type-I interferon responses to a range of respiratory viruses, effects that are likely to also occur in the context of COVID-19. Selective therapies with JAK inhibitors could be expected to have similar effects. JAK-STAT signalling is a major component of the type-I interferon pathway. Tofacitinib has been shown to inhibit interferon-α production in vitro. Suppression of interferon or other mediators (eg, interleukin 6) could also promote secondary bacterial infection and further complicate the disease course.
+
+
+  # Counter - Corticosteroid
+  // Impact of corticosteroid therapy on outcomes of persons with SARS-CoV-2, SARS-CoV, or MERS-CoV infection: a systematic review and meta-analysis
+  doi: https://doi.org/10.1038/s41375-020-0848-3
+  ref 'Li_et_al_05_05_2020
+    head = Corticosteroid use in subjects with SARS-CoV-2, SARS-CoV, and MERS-CoV infections delayed virus clearing and did not convincingly improve survival, reduce hospitalization duration or ICU admission rate and/or use of mechanical ventilation. There were several adverse effects. Because of a preponderance of observational studies in the dataset and selection and publication biases our conclusions, especially regarding SARS-CoV-2, need confirmation in randomized clinical trials.
+
+    >>> Abstract
+      We performed a meta-analysis to determine safety and efficacy of corticosteroids in SARS-CoV-2, SARS-CoV, and MERS-CoV infections. We searched PubMed, Web of Science, Medline, WanFang Chinese database, and ZhiWang Chinese database using Boolean operators and search terms covering SARS-CoV-2, SARS-CoV, OR MERS-CoV AND corticosteroids to find appropriate studies. Review Manager 5.3 was used to analyze results of meta-analysis. Observational studies were analyzed for quality using the modified Newcastle–Ottawa scale and randomized clinical trials, using the Jadad scale. Subjects were divided into those with severe-only and other (severe and not severe) cohorts based on published criteria. Efficacy endpoints studied included mortality, hospitalization duration, rates of intensive care unit (ICU) admission, use of mechanical ventilation, and a composite endpoint (death, ICU admission, or mechanical ventilation). We included 11 reports including 10 cohort studies and 1 randomized clinical trial involving 5249 subjects (2003–2020). Two discussed the association of corticosteroids and virus clearing and 10 explored how corticosteroids impacted mortality, hospitalization duration, use of mechanical ventilation, and a composite endpoint. Corticosteroid use was associated with delayed virus clearing with a mean difference (MD) = 3.78 days (95% confidence Interval [CI] = 1.16, 6.41 days; I2 = 0%). There was no significant reduction in deaths with relative Risk Ratio (RR) = 1.07 (90% CI = 0.81; 1.42; I2 = 80%). Hospitalization duration was prolonged and use of mechanical ventilation increased. In conclusion, corticosteroid use in subjects with SARS-CoV-2, SARS-CoV, and MERS-CoV infections delayed virus clearing and did not convincingly improve survival, reduce hospitalization duration or ICU admission rate and/or use of mechanical ventilation. There were several adverse effects. Because of a preponderance of observational studies in the dataset and selection and publication biases our conclusions, especially regarding SARS-CoV-2, need confirmation in a randomized clinical trial. In the interim we suggest caution using corticosteroids in persons with COVID-19.
+
+    # / May, 2020 - Leukemia
+    # let !a self assert =
+
+
+  # Clinical Recommendation - Cytokine Blockers - can be corellated with dexamethasone / corticosteroid
+  // COVID-19: Consider Cytokine Storm Syndromes and Immunosuppression
+  doi: https:doi.org/10.1016%2FS0140-6736(20)30628-0
+  ref 'Mehta_et_al_03_28_2020
+    head = All patients with severe COVID-19 should be screened for hyperinflammation using laboratory trends (eg, increasing ferritin, decreasing platelet counts, or erythrocyte sedimentation rate) and the HScore to identify the subgroup of patients for whom immunosuppression could improve mortality. Therapeutic options include steroids, intravenous immunoglobulin, selective cytokine blockade (eg, anakinra or tocilizumab) and JAK inhibition.
+
+
+    # / March, 2020 - Lancet
+    # let !a self assert =
+
+
+  # methylprednisolone (Corticosteroid)
+  // Prolonged low-dose methylprednisolone in patients with severe COVID-19 pneumonia
+  doi: https://doi.org/xyz
+  ref 'Salton_et_al_06_25_2020
+    head = In our multicenter study, patients exposed to MP (methylprednisolone) encountered the primary composite endpoint of ICU referral, need for invasive MV or in-hospital all-cause death significantly less compared to the control group (adjusted HR 0.41). By day 28, MP treatment was associated with a significant reduction in mortality (adjusted HR 0.29) and an increase in MV-free days. Among patients transferred to the ICU, MP treated patients had a 7.5 days median reduction (p=0.03) in the duration of invasive MV.
+
+    >>> Background
+      In hospitalized patients with COVID-19 pneumonia, progression to acute respiratory failure requiring invasive mechanical ventilation (MV) is associated with significant morbidity and mortality. Severe dysregulated systemic inflammation is the putative mechanism. We hypothesize that early prolonged methylprednisolone (MP) treatment could accelerate disease resolution, decreasing the need for ICU and mortality.
+    >>> Methods
+      We conducted a multicenter, observational study to explore the association between exposure to prolonged, low-dose, MP treatment and need for ICU referral, intubation or death within 28 days (composite primary endpoint) in patients with severe COVID-19 pneumonia admitted to Italian respiratory high-dependency units. Secondary outcomes were invasive MV-free days and changes in C-reactive protein (CRP) levels.
+    >>> Results
+      Findings are reported as MP (n=83) vs. control (n=90). The composite primary endpoint was met by 19 vs. 40 [adjusted hazard ratio (HR) 0.41; 95% confidence interval (CI): 0.24-0.72]. Transfer to ICU and need for invasive MV was necessary in 15 vs. 27 (p=0.07) and 14 vs. 26 (p=0.10), respectively. By day 28, the MP group had fewer deaths (6 vs. 21, adjusted HR=0.29; 95% CI: 0.12-0.73) and more days off invasive MV (24.0 plus-or-minus sign 9.0 vs. 17.5 plus-or-minus sign 12.8; p=0.001). Study treatment was associated with rapid improvement in PaO2:FiO2 and CRP levels. The complication rate was similar for the two groups (p=0.84).
+    >>> Conclusion
+      In patients with severe COVID-19 pneumonia, early administration of prolonged MP treatment was associated with a significantly lower hazard of death (71%) and decreased ventilator dependence. Randomized controlled studies are needed to confirm these findings.
+
+    -- exports
+       !a
+       !b
+       !c
+       !d
+
+    / June, 2020 - medRxiv
+    let !a self assert =  In line with this data, fewer MP-treated patients required tracheotomy than controls (0 vs. 12, p <0.001). MP-treated patients had a higher reduction in CRP levels than controls. This was statistically significant on days 3 and 7 from baseline and there was a quicker improvement in PaO2:FiO2 ratio on day 3 for MP-treated patients. There was no overall increase in adverse events between groups, except for an increase in hyperglycemia and mild agitation in the MP-treated patients; no adverse event necessitated MP discontinuation. No difference was observed in viral shedding, determined as the number of days between hospital referral and the first negative nasopharyngeal swab.
+
+    / June, 2020 - medRxiv
+    let !b self assert = Early interventions aimed at down regulating the SARS-CoV-2- associated hyper-immune response in severe COVID-19 patients may well avoid disease progression and enhance pneumonia resolution. The cytokine profile reported for these patients is within the broad range of regulation provided by corticosteroids,particularly MP that is associated with an optimal lung penetration.
+
+    / June, 2020 - medRxiv
+    let !c self assert = Our study protocol involved an initial IV bolus to achieve rapid, almost complete glucocorticoid receptor saturation, followed by an infusion to reach a total 160-milligram dose over the first 24 hours. This might explain the rapid reduction observed in inflammatory markers. Our MP treatment response is similar to that of RCTs in non-viral ARDS[17] and large-scale observational studies, in severe pneumonia caused by SARS-CoV (n=7008) and H1N1 (n=2141) influenza.
+
+    / June, 2020 - medRxiv
+    let !d self assert = The safety profile reported in our study is consistent with the findings of multiple RCTs investigating prolonged corticosteroid treatment in thousands of patients with severe sepsis, septic shock and ARDS. In these RCTs, hyperglycemia was transient in response to the initial loading bolus and did not impact negatively on outcome. Viral shedding in both groups of our study was in agreement with international literature. Moreover, there is no evidence linking delayed viral clearance to worsened outcome in critically ill COVID-19 patients, and it is unlikely that it would have a greater negative impact than the host’s own cytokine storm
+
+
+  # Corticosteroid
+  // GLUCOCOVID: A controlled trial of methylprednisolone in adults hospitalized with COVID-19 pneumonia
+  doi: https://doi.org/10.1101/2020.06.17.20133579
+  ref 'Corral_et_al_06_18_2020
+    head = Interestingly, in this trial MP (methylprednisolone) administration was associated with a reduced risk of poor outcome, which was statistically significant after adjustment for confounding factors, such as age and baseline respiratory status (as assessed by SAFI). Our results are consistent with those of a recent quasi-experimental study that used similar endpoints and MP doses. The primary composite endpoint occurred in 54% patients in the SOC group and in 35% in the early glucocorticoids group. Those figures are remarkably similar to ours (48% vs 34%).
+
+    >>> Background
+      We aimed to determine whether a 6-day course of intravenous methylprednisolone (MP) improves outcome in patients with SARS CoV-2 infection at risk of developing Acute Respiratory Distress Syndrome (ARDS).
+    >>> Methods
+      Multicentric, partially randomized, preference, open-label trial, including adults with COVID-19 pneumonia, impaired gas exchange and biochemical evidence of hyper-inflammation. Patients were assigned to standard of care (SOC), or SOC plus intravenous MP [40mg/12h 3 days, then 20mg/12h 3 days]. The primary endpoint was a composite of death, admission to the intensive care unit (ICU) or requirement of non-invasive ventilation (NIV).
+    >>> Results
+      We analyzed 85 patients (34, randomized to MP; 22, assigned to MP by clinician preference; 29, control group). Patient age (mean 68±yr) was related to outcome. The use of MP was associated with a reduced risk of the composite endpoint in the intention-to-treat, age-stratified analysis (combined risk ratio -RR- 0.55 [95% CI 0.33-0.91]; p=0.024). In the per-protocol analysis, RR was 0.11 (0.01-0.83) in patients aged 72 yr or less, 0.61 (0.32-1.17) in those over 72 yr, and 0.37 (0.19-0.74, p=0.0037) in the whole group after age-adjustment by stratification. The decrease in C-reactive protein levels was more pronounced in the MP group (p=0.0003). Hyperglycemia was more frequent in the MP group.
+    >>> Conclusions
+      A short course of MP had a beneficial effect on the clinical outcome of severe COVID-19 pneumonia, decreasing the risk of the composite end point of admission to ICU, NIV or death.
+
+    #  / June, 2020 - medRxiv
+    # let !a self assert =
+
+  # Severe Covid , !c !f severe covid - clinical recommendation tocilizumab
+  // Clinical and pathological investigation of patients with severe COVID-19
+  doi: https://doi.org/10.1172/jci.insight.138070
+  ref 'Li_et_al_05_19_2020b
+    head =  Clinically, a panel of laboratory parameters, including dynamic cytokines, could be predictors of disease deterioration, and targeting cytokine intervention, such as with tocilizumab, might be an alternative option for severe COVID-19 cases. Pathologically, severe pulmonary damage was predominantly attributed to both cytopathy caused by SARS-CoV-2 and immunopathologic damage. Therefore, strategies targeting pulmonary recruitment and abnormal activation of mononuclear cells/macrophages and neutrophils through suppression of the inflammatory storm might improve the outcomes of patients with severe COVID-19.
+
+    >>> BACKGROUND
+      Coronavirus disease 2019 (COVID-19), caused by severe acute respiratory coronavirus 2 (SARS-CoV-2), has become a pandemic. This study addresses the clinical and immunopathological characteristics of severe COVID-19.
+
+    >>> METHODS
+      Sixty-nine patients with COVID-19 were classified into severe and nonsevere groups to analyze their clinical and laboratory characteristics. A panel of blood cytokines was quantified over time. Biopsy specimens from 2 deceased cases were obtained for immunopathological, ultrastructural, and in situ hybridization examinations.
+
+    >>> RESULTS
+      Circulating cytokines, including IL-8, IL-6, TNF-α, IP10, MCP1, and RANTES, were significantly elevated in patients with severe COVID-19. Dynamic IL-6 and IL-8 were associated with disease progression. SARS-CoV-2 was demonstrated to infect type II and type I pneumocytes and endothelial cells, leading to severe lung damage through cell pyroptosis and apoptosis. In severe cases, lymphopenia, neutrophilia, depletion of CD4+ and CD8+ T lymphocytes, and massive macrophage and neutrophil infiltrates were observed in both blood and lung tissues.
+
+    >>> CONCLUSIONS
+      A panel of circulating cytokines could be used to predict disease deterioration and inform clinical interventions. Severe pulmonary damage was predominantly attributed to both cytopathy caused by SARS-CoV-2 and immunopathologic damage. Strategies that prohibit pulmonary recruitment and overactivation of inflammatory cells by suppressing cytokine storm might improve the outcomes of patients with severe COVID-19.
+
+    -- exports
+       !a
+       !b
+       !c
+       !d
+       !e
+       !f
+       !g
+       !h
+       !i
+
+    / May, 2020 - JCI Insight
+    let !a self assert =  As a lung tropic virus, SARS-CoV-2 infection in type II and type I alveolar epithelial cells, as well as endothelial cells in small blood vessels, was illustrated by both TEM and in situ hybridization as leading to lung damage and cell death patterns of pyroptosis and apoptosis. The underlying mechanisms of cytokine storm and lung damage involved the exhaustion of CD4+ and CD8+ T cells, followed by massive infiltration of macrophages and neutrophils into lung tissues, causing the dysregulation of proinflammatory cytokines and chemokines.
+
+    / May, 2020 - JCI Insight
+    let !b self assert = Clinically, 3 criteria, the PaO2/FIO2 ratio, SpO2, and RR are often used to define patients with severe COVID-19. In our cohort, because 96% of severe patients had a SpO2 value ≤93% at rest, it seems that SpO2 is the most useful indicator for defining disease severity. Old age and severe symptoms of myalgia, fatigue, and dyspnea were the most common features of severe patients, as described in earlier reports. Lymphopenia is a common feature with drastically reduced numbers of CD4+ T cells, CD8+ T cells, and B cells. Reduced percentages of monocytes and eosinophils are also common.
+
+    / May, 2020 - JCI Insight
+    let !c self assert = An increase in the neutrophil-to-lymphocyte ratio usually indicates increased disease severity and a poor clinical outcome. In our cohort, dynamic tests in severe patients found lymphopenia with a remarkable decrease of CD4+ and CD8+ T lymphocytes and neutrophilia as well as a sustained increase in the neutrophil-to-lymphocyte ratio that reached a peak on 7 day after admission, suggesting that physicians should monitor these dynamic characteristics in severe patients. The dramatic reduction in lymphocytes in severe patients might be caused by both overexuberant immune responses and SARS-CoV-2 infection of T lymphocytes.
+
+    / May, 2020 - JCI Insight
+    let !d self assert = Neutrophilia in COVID-19 severity might be ascribed to abnormal elevated IL-8 and granulocyte-macrophage colony-stimulating factor. In our study, the substantial neutrophil infiltrate in lung tissues from the 2 deceased cases was assumed to indicate the possible role of neutrophilia in disease severity. In addition, some variables were identified to be associated with COVID-19 severity.
+
+    / May, 2020 - JCI Insight
+    let !e self assert = An increased level of pro-BNP, as a predictor of heart dysfunction, was associated with disease deterioration. Additionally, increased levels of ferritin and glucose and decreased levels of albumin and Apo-A1 were found to correlate with COVID-19 severity, implying that severe patients were prone to metabolic disorders due to impaired liver function. However, we still lack conclusive evidence to support metabolic dysregulation by SARS-CoV-2 per se.
+
+    / May, 2020 - JCI Insight
+    let !f self assert = Most patients with severe COVID-19 exhibited substantially elevated serum levels of several cytokines, which can even manifest as cytokine storm (14). Consistently, our results showed that patients with severe COVID-19 had an overexuberant response of a panel of proinflammatory cytokines and chemokines, including IL-6, IL-8, TNF-α, IP10, MCP1, and RANTES, compared with nonsevere patients. These inflammatory factors are mainly derived from macrophages and neutrophils, which could be predictors of hypercytokinemia and systemic inflammatory response syndrome.
+
+    / May, 2020 - JCI Insight
+    let !g self assert = We found that the dynamics of serum IL-6 showed a rapid increase, with a peak level on day 5 of hospitalization, on average, whereas serum IL-8 maintained a high level until day 5 of hospitalization in severe patients. The dynamic trends were highly consistent with disease deterioration. Indeed, in this cohort, systemic corticosteroids, which might contribute to the interference of elevated IL-6 and IL-8 levels, were administered to the most severe patients. Based on the pathological findings of massive recruitment of monocytes/macrophages and neutrophils to lung tissues, we speculated that the infiltrating inflammatory cells triggered or exacerbated inflammation and exudation, even ARDS in targeted lung, resulting in a vicious circle of cytokine release that led to cytokine storm.
+
+    / May, 2020 - JCI Insight
+    let !h self assert = The development of targeted therapeutics against cytokine storm is still a clinical issue. In our study, a panel of cytokines, IL-6, IL-8, IP10, TNF-α, MCP1, and RANTES, was profoundly elevated in severe patients during disease deterioration. Therefore, cytokine neutralization therapy is likely to be an alternative option.
+
+    / May, 2020 - JCI Insight
+    let !i self assert =  In this study, we demonstrated type II and type I pneumocytes and endothelial cells with conspicuous cytopathy in lung tissues were infected with SARS-CoV-2 by both TEM and in situ hybridization. Reactive hyperplasia of type II pneumocytes in DAD alveolar spaces in turn might facilitate virus infection and spreading due to high expression of angiotensin I converting enzyme 2. SARS-CoV-2 infection in endothelial cells in small vessels might contribute to vasculitis, even thrombosis, which was assumed to be related to increased blood D-dimer and fibrinogen levels in disease exacerbation. Thus, severe pulmonary injury in patients with SARS-CoV-2 was considered to result from both direct viral infection and immunopathological injury.
+
+
+  # Dexamethasone
+  // Effect of Dexamethasone in Hospitalized Patients with COVID-19: Preliminary Report
+  doi: https://doi.org/10.1101/2020.06.22.20137273
+  ref 'Horby_et_al_06_22_2020
+    head =  Dexamethasone 6mg per day for up to 10 days reduces 28-day mortality in COVID-19 patients receiving invasive mechanical ventilation by one third, and by one fifth in patients receiving oxygen without invasive mechanical ventilation. Similarly, benefit was clearer in patients treated more than 7 days after treatment onset, when inflammatory lung damage is likely to have been more common. However, no benefit was demonstrated in hospitalized COVID-19 patients who were not receiving respiratory support and the results are consistent with possible harm in this group.
+
+    >>> Background:
+      Coronavirus disease 2019 (COVID-19) is associated with diffuse lung damage. Corticosteroids may modulate immune-mediated lung injury and reducing progression to respiratory failure and death.
+    >>> Methods:
+      The Randomised Evaluation of COVID-19 therapy (RECOVERY) trial is a randomized, controlled, open-label, adaptive, platform trial comparing a range of possible treatments with usual care in patients hospitalized with COVID-19. We report the preliminary results for the comparison of dexamethasone 6 mg given once daily for up to ten days vs. usual care alone. The primary outcome was 28-day mortality.
+    >>> Results:
+      2104 patients randomly allocated to receive dexamethasone were compared with 4321 patients concurrently allocated to usual care. Overall, 454 (21.6%) patients allocated dexamethasone and 1065 (24.6%) patients allocated usual care died within 28 days (age-adjusted rate ratio [RR] 0.83; 95% confidence interval [CI] 0.74 to 0.92; P<0.001). The proportional and absolute mortality rate reductions varied significantly depending on level of respiratory support at randomization (test for trend p<0.001): Dexamethasone reduced deaths by one-third in patients receiving invasive mechanical ventilation (29.0% vs. 40.7%, RR 0.65 [95% CI 0.51 to 0.82]; p<0.001), by one-fifth in patients receiving oxygen without invasive mechanical ventilation (21.5% vs. 25.0%, RR 0.80 [95% CI 0.70 to 0.92]; p=0.002), but did not reduce mortality in patients not receiving respiratory support at randomization (17.0% vs. 13.2%, RR 1.22 [95% CI 0.93 to 1.61]; p=0.14).
+    >>> Conclusions: In patients hospitalized with COVID-19, dexamethasone reduced 28-day mortality among those receiving invasive mechanical ventilation or oxygen at randomization, but not among patients not receiving respiratory support.
+
+    -- exports
+       !a
+       !b
+
+    / June, 2020 - medRxiv
+    let !a self assert = The greater mortality benefit of dexamethasone in patients with COVID-19 who required respiratory support, and among those recruited after the first week of their illness, suggests that at this stage the disease is dominated by immunopathology, with active virus replication playing a secondary role. It is also possible there is an effect via mineralocorticoid receptor binding in the context of SARS-CoV-2 induced dysregulation of the renin-angiotensin system. This would caution against extrapolating the effect of dexamethasone in patients with COVID-19 to patients with other viral respiratory diseases that have a different natural history.
+
+    / June, 2020 - medRxiv
+    let !b self assert = The RECOVERY trial provides clear evidence that treatment with dexamethasone 6 mg once daily for up to 10 days reduces 28-day mortality in patients with COVID-19 who are receiving respiratory support. Based on these results, 1 death would be prevented by treatment of around 8 patients requiring invasive mechanical ventilation or around 25 patients requiring oxygen (which, in the UK, is recommended when oxygen saturations on room air are 92-94%) without invasive mechanical ventilation. There was no benefit (and the possibility of harm) among patients who did not require oxygen.
+
+
+  # Remdesivir
+  // Clinical benefit of remdesivir in rhesus macaques infected with SARS-CoV-2
+  doi: https://doi.org/10.1101/2020.04.15.043166
+  ref 'Williamson_et_al_04_22_2020
+    head = Remdesivir is the first antiviral treatment with proven efficacy against SARS-CoV-2 in an animal model of COVID-19. Remdesivir treatment in rhesus macaques infected with SARS-CoV-2 was highly effective in reducing clinical disease and damage to the lungs. The remdesivir dosing used in rhesus macaques is equivalent to that used in humans; however, due to the acute nature of the disease in rhesus macaques, it is hard to directly translate the timing of treatment used to corresponding disease stages in humans.
+
+    >>> Background
+      Effective therapeutics to treat COVID-19 are urgently needed. Remdesivir is a nucleotide prodrug with in vitro and in vivo efficacy against coronaviruses. Here, we tested the efficacy of remdesivir treatment in a rhesus macaque model of SARS-CoV-2 infection.
+
+    >>> Methods
+      To evaluate the effect of remdesivir treatment on SARS-CoV-2 disease outcome, we used the recently established rhesus macaque model of SARS-CoV-2 infection that results in transient lower respiratory tract disease. Two groups of six rhesus macaques were infected with SARS-CoV-2 and treated with intravenous remdesivir or an equal volume of vehicle solution once daily. Clinical, virological and histological parameters were assessed regularly during the study and at necropsy to determine treatment efficacy.
+
+    >>> Results
+      In contrast to vehicle-treated animals, animals treated with remdesivir did not show signs of respiratory disease and had reduced pulmonary infiltrates on radiographs. Virus titers in bronchoalveolar lavages were significantly reduced as early as 12hrs after the first treatment was administered. At necropsy on day 7 after inoculation, lung viral loads of remdesivir-treated animals were significantly lower and there was a clear reduction in damage to the lung tissue.
+
+    >>> Conclusions
+      Therapeutic remdesivir treatment initiated early during infection has a clear clinical benefit in SARS-CoV-2-infected rhesus macaques. These data support early remdesivir treatment initiation in COVID-19 patients to prevent progression to severe pneumonia.
+
+    -- exports
+       !a
+       !b
+       !c
+
+    / April, 2020 - bioRxiv
+    let !a self assert = In our study, treatment was administered close to the peak of virus replication in the lungs as indicated by viral loads in bronchoalveolar lavages and the first effects of treatment on clinical signs and virus replication were observed within 12 hours. The efficacy of direct-acting antivirals against acute viral respiratory tract infections typically decreases with delays in treatment initation. Thus, remdesivir treatment in COVID-19 patients should be initiated as early as possible to achieve the maximum treatment effect.
+
+    / April, 2020 - bioRxiv
+    let !b self assert = While our study demonstrates the presence of remdesivir metabolites in the lower respiratory tract, the drug levels in upper respiratory tract have not been characterized and novel formulations with alternative route of drug delivery should be considered to improve the distribution to the upper respiratory tract, thereby reducing shedding and the potential transmission risk.
+
+    / April, 2020 - bioRxiv
+    let !c self assert =  However, since severe COVID-19 disease is a result of virus infection of the lungs, this organ is the main target of remdesivir treatment. The bioavailability and protective effect of remdesivir in the lungs of infected rhesus macaques supports treatment of COVID-19 patients with remdesivir. Data from clinical trials in humans are pending, but our data in rhesus macaques indicate that remdesivir treatment should be considered as early as clinically possible to prevent progression to severe pneumonia in COVID-19 patients.
+
+
+  # Clinical Recommendation - Anticoagulation -Bloog coagulation
+  // Thromboembolism and anticoagulant therapy during the COVID-19 pandemic: interim clinical guidance from the anticoagulation forum
+  doi: https://doi.org/10.1007/s11239-020-02138-z
+  ref 'Barnes_et_al_05_21_2020
+    head = Many patients with COVID-19 are at increased risk of venous thromboembolism (VTE). Therefore, we recommend pharmacologic prophylaxis for patients with COVID-19 when hospitalized. We recommend that dosing of VTE pharmacologic prophylaxis be evidence-based, whenever possible. Escalated doses can be considered for critically ill patients.
+
+    >>> Abstract
+      Coronavirus disease 2019 (COVID-19) is a viral infection that can, in severe cases, result in cytokine storm, systemic inflammatory response and coagulopathy that is prognostic of poor outcomes. While some, but not all, laboratory findings appear similar to sepsis-associated disseminated intravascular coagulopathy (DIC), COVID-19- induced coagulopathy (CIC) appears to be more prothrombotic than hemorrhagic. It has been postulated that CIC may be an uncontrolled immunothrombotic response to COVID-19, and there is growing evidence of venous and arterial thromboembolic events in these critically ill patients. Clinicians around the globe are challenged with rapidly identifying reasonable diagnostic, monitoring and anticoagulant strategies to safely and effectively manage these patients. Thoughtful use of proven, evidence-based approaches must be carefully balanced with integration of rapidly emerging evidence and growing experience. The goal of this document is to provide guidance from the Anticoagulation Forum, a North American organization of anticoagulation providers, regarding use of anticoagulant therapies in patients with COVID-19. We discuss in-hospital and post-discharge venous thromboembolism (VTE) prevention, treatment of suspected but unconfirmed VTE, laboratory monitoring of COVID-19, associated anticoagulant therapies, and essential elements for optimized transitions of care specific to patients with COVID-19.
+
+    -- exports
+       !a
+       !b
+       !c
+
+    / May, 2020 - J Thromb Thrombolysis
+    let !a self assert = We recommend that post-hospital pharmacologic prophylaxis be used selectively for patients at highest risk for VTE based on existing evidence from randomized trials.
+
+    / May, 2020 - J Thromb Thrombolysis
+    let !b self assert = We recommend the use of anti-Xa assay rather than aPTT to monitor unfractionated heparin dosing due to potential baseline abnormlaities in aPTT for patients with COVID-19.
+
+    / May, 2020 - J Thromb Thrombolysis
+    let !c self assert = We recommend a full 3 month course of therapeutic anticoagulation for patients with COVID-19 who are presumed to have a hospital-associated VTE event.
+
+
+  # ACE Inhibitor
+  // Targeting ACE2-RBD interaction as a platform for COVID19 therapeutics: Development and drug repurposing screen of an AlphaLISA proximity assay
+  doi: https://doi.org/10.1101/2020.06.16.154708
+  ref 'Hanson_et_al_06_16_2020
+    head = We developed the first well-based proximity assay for measuring COVID19 ACE2-RBD interactions using AlphaLISA technology. The AlphaLISA approach has the advantages of high signal-to-background, robust assay performance (Z’ values), and is widely applicable to a variety of therapeutic types (small molecules, nanobodies, peptides, etc.).
+
+    >>> Abstract
+      The COVID-19 pandemic, caused by SARS-CoV-2, is a pressing public health emergency garnering rapid response from scientists across the globe. Host cell invasion is initiated through direct binding of the viral spike protein to the host receptor angiotensin-converting enzyme 2 (ACE2). Disrupting the spike-ACE2 interaction is a potential therapeutic target for treating COVID-19. We have developed a proximity-based AlphaLISA assay to measure binding of SARS-CoV-2 spike protein Receptor Binding Domain (RBD) to ACE2. Utilizing this assay platform, a drug-repurposing screen against 3,384 small molecule drugs and pre-clinical compounds was performed, yielding 25 high-quality, small-molecule hits that can be evaluated in cell-based models. This established AlphaLISA RBD-ACE2 platform can facilitate evaluation of biologics or small molecules that can perturb this essential viral-host interaction to further the development of interventions to address the global health pandemic.
+
+    -- exports
+       !a
+       !b
+
+    / June, 2020 - bioRxiv
+    let !a self assert = The AlphaLISA assay we developed presents a quick, simple, and qHTS-amenable approach to ACE2-RBD therapeutic development. However, we are presenting an early assay and orthogonal approaches being developed at NCATS and across the globe can only serve to improve our ability to develop and test COVID19 therapeutics. Indeed, one aspect of ACE2-spike binding we cannot capture in our assay is the role of biological multimerization.
+
+    / June, 2020 - bioRxiv
+    let !b self assert = Recently multimerization of ACE2 and spike have been demonstrated to enhance the interaction between SARS-CoV-2 spike and host ACE2. Future assay development could emphasize the use of additional recombinant protein constructs to more closely model the biological ACES-spike interaction. The advantage to AlphaLISA is that we can continue to use the methods developed herein toward more sophisticated qHTS assay design to suit our evolving knowledge of SARS-CoV-2 biology.
+
+
+  # Therapeutics - Can be used in knowledge base # frontiers
+  // A SARS-CoV-2 protein interaction map reveals targets for drug repurposing
+  doi: https://doi.org/10.1038/s41586-020-2286-9
+  ref 'Gordon_et_al_04_30_2020
+    head = To devise therapeutic strategies to counteract SARS-CoV-2 infection and the associated COVID-19 (Coronavirus Disease 2019) pathology, it is crucial to understand how this coronavirus hijacks the host during infection, and to apply this knowledge towards developing new drugs and repurposing existing ones.
+
+    >>> Abstract
+      The novel coronavirus SARS-CoV-2, the causative agent of COVID-19 respiratory disease, has infected over 2.3 million people, killed over 160,000, and caused worldwide social and economic disruption1,2. There are currently no antiviral drugs with proven clinical efficacy, nor are there vaccines for its prevention, and these efforts are hampered by limited knowledge of the molecular details of SARS-CoV-2 infection. To address this, we cloned, tagged and expressed 26 of the 29 SARS-CoV-2 proteins in human cells and identified the human proteins physically associated with each using affinity-purification mass spectrometry (AP-MS), identifying 332 high-confidence SARS-CoV-2-human protein-protein interactions (PPIs). Among these, we identify 66 druggable human proteins or host factors targeted by 69 compounds (29 FDA-approved drugs, 12 drugs in clinical trials, and 28 preclinical compounds). Screening a subset of these in multiple viral assays identified two sets of pharmacological agents that displayed antiviral activity: inhibitors of mRNA translation and predicted regulators of the Sigma1 and Sigma2 receptors. Further studies of these host factor targeting agents, including their combination with drugs that directly target viral enzymes, could lead to a therapeutic regimen to treat COVID-19.
+
+    -- exports
+       !a
+       !b
+       !c
+       !d
+
+    / April, 2020 - Nature
+    let !a self assert =  We have identified 332 high-confidence SARS-CoV-2-human PPIs connected to multiple biological processes, including protein trafficking, translation, transcription and ubiquitination regulation. Against these targets we found 69 ligands, including FDA approved drugs, compounds in clinical trials, and preclinical compounds.
+
+    / April, 2020 - Nature
+    let !b self assert = Antiviral tests in two different laboratories reveal two broad sets of active drugs and compounds; those impinging on translation, and those modulating Sigma1 and Sigma2 receptors. Within these sets are at least five targets and over ten different chemotypes, suggesting a rich landscape for optimization.
+
+    / April, 2020 - Nature
+    let !c self assert = The potent efficacy of the translation inhibitors on viral infectivity—in the 10 to 100 nM range—makes these molecules attractive as candidate antivirals, and also highlights this pathway as a point of intervention.
+
+    / April, 2020 - Nature
+    let !d self assert = Our approach of host-directed intervention as an antiviral strategy overcomes problems associated with drug resistance and may also provide pan-viral therapies as we prepare for the next pandemic. Furthermore, the possibilities for co-therapies are expanded, for example with drugs directly targeting the virus, including remdesivir, and, as we demonstrate in this study, a rich set of repurposing opportunities are illuminated. More broadly, the pipeline described here represents a new approach for drug discovery not only for pan-viral strategies, but for many diseases, and illustrates the speed in which science can be moved forward using a multi-disciplinary and collaborative approach.
+
+  # Nelfinavir
+  // Multidrug treatment with nelfinavir and cepharanthine against COVID-19
+  doi: https://doi.org/10.1101/2020.04.14.039925
+  ref 'Ohashi_et_al_04_15_2020
+    head = Our mathematical modeling studies assess how anti-SARS-CoV-2 drug candidates can suppress virus proliferation and facilitate virus elimination. At clinical doses Nelfinavir can maintain strong antiviral effect over time and thus can reduce SARS-CoV-2 RNAburden that results in shortening the time required to eliminate infection.
+
+    >>> Abstract
+      Antiviral treatments targeting the emerging coronavirus disease 2019 (COVID-19) are urgently required. We screened a panel of already-approved drugs in a cell culture model of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and identified two new antiviral agents: the HIV protease inhibitor Nelfinavir and the anti-inflammatory drug Cepharanthine. In silico modeling shows Nelfinavir binds the SARS-CoV-2 main protease consistent with its inhibition of viral replication, whilst Cepharanthine inhibits viral attachment and entry into cells. Consistent with their different modes of action, in vitro assays highlight a synergistic effect of this combined treatment to limit SARS-CoV-2 proliferation. Mathematical modeling in vitro antiviral activity coupled with the known pharmacokinetics for these drugs predicts that Nelfinavir will facilitate viral clearance. Combining Nelfinavir/Cepharanthine enhanced their predicted efficacy to control viral proliferation, to ameliorate both the progression of disease and risk of transmission. In summary, this study identifies a new multidrug combination treatment for COVID-19.
+
+    -- exports
+       !a
+
+    / April, 2020 - bioRxiv
+    let !a self assert = CEP (cepharanthine) monotherapy is predicted to have a modest antiviral effect because of a low concentration in vivo when administered by oral or intravenous drip. However, higher doses of CEP, based on its relatively safe toxicity profile, may increase drug efficacy in a clinical setting. It is noteworthy that combining CEP with NFV further reduced the cumulative viral load and facilitated virus elimination. As the cumulative viral load in patients is likely to be closely related with the progression of disease and the risk for new transmission.
+
+
+  # Nelfinavir
+  // Nelfinavir for COVID19: Summary of basic science data and initial clinical experience
+  doi: https://doi.org/10.21203/rs.3.rs-27346/v1
+  ref 'Lee_et_al_05_12_2020
+    head = We found that after in three of four acute outpatient COVID-19 patients became afebrile within 48 hours; the empiric addition of baloxavir to nelfinavir may have been helpful. In contrast, the two subacute COVID-19 patients with predominant GI symptoms only responded partially to nelfinavir.
+
+    >>> Abstract
+      Based on in vitro and computational model data that nelfinavir is highly active again SARS-CoV-2, we administered nelfinavir to six COVID-19 outpatients. Three of four acute outpatient COVID-19 patients became afebrile within 48 hours. In contrast, the two subacute COVID-19 patients with predominant GI symptoms responded only partially to nelfinavir.
+
+    -- exports
+       !a
+
+    / May, 2020 - Research Square
+    let !a self assert = Based on in vitro antiviral activities and computational data, nelfinavir is among the strongest anti-SARS-CoV-2 candidate among medications easily accessible to North American physicians. While the anti-parasitic drug ivermectin, has also shown in vitro activity and has garnered media interest, the blood level required to kill the virus far exceed possible with dosage being used clinically. In contrast, nelfinavir drug level in plasma, mononuclear cells, and lung achieved is significantly higher than the level required to kill the virus in vitro.
+
+  # Nelfinavir
+  // The anti‐HIV drug nelfinavir mesylate (Viracept) is a potent inhibitor of cell fusion caused by the SARSCoV‐2 spike (S) glycoprotein warranting further evaluation as an antiviral against COVID‐19 infections
+  doi: https://doi.org/10.1002/jmv.25985
+  ref 'Musarrat_et_al_05_06_2020
+    head = We show that the SARS CoV‐2 Spike (Sn) glycoprotein causes drastically more cell fusion and syncytia formation in comparison to the SARS Spike (So) glycoprotein following transient expression in Vero cells. Importantly, we show that nelfinavir mesylate, a currently prescribed anti‐HIV protease inhibitor, drastically inhibited both S‐n‐ and S‐o‐mediated cell fusion.
+
+    >>> Abstract
+      Severe acute respiratory syndrome coronavirus‐2 (SARS CoV‐2) is the causative agent of the coronavirus disease‐2019 (COVID‐19) pandemic. Coronaviruses enter cells via fusion of the viral envelope with the plasma membrane and/or via fusion of the viral envelope with endosomal membranes after virion endocytosis. The spike (S) glycoprotein is a major determinant of virus infectivity. Herein, we show that the transient expression of the SARS CoV‐2 S glycoprotein in Vero cells caused extensive cell fusion (formation of syncytia) in comparison to limited cell fusion caused by the SARS S glycoprotein. Both S glycoproteins were detected intracellularly and on transfected Vero cell surfaces. These results are in agreement with published pathology observations of extensive syncytia formation in lung tissues of patients with COVID‐19. These results suggest that SARS CoV‐2 is able to spread from cell‐to‐cell much more efficiently than SARS effectively avoiding extracellular neutralizing antibodies. A systematic screening of several drugs including cardiac glycosides and kinase inhibitors and inhibitors of human immunodeficiency virus (HIV) entry revealed that only the FDA‐approved HIV protease inhibitor, nelfinavir mesylate (Viracept) drastically inhibited S‐n‐ and S‐o‐mediated cell fusion with complete inhibition at a 10‐μM concentration. In‐silico docking experiments suggested the possibility that nelfinavir may bind inside the S trimer structure, proximal to the S2 amino terminus directly inhibiting S‐n‐ and S‐o‐mediated membrane fusion. Also, it is possible that nelfinavir may act to inhibit S proteolytic processing within cells. These results warrant further investigations of the potential of nelfinavir mesylate to inhibit virus spread at early times after SARS CoV‐2 symptoms appear.
+
+    -- exports
+       !a
+
+    / May, 2020 - Jounral of Medical Virology
+    let !a self assert = Importantly, the fact the nelfinavir drastically inhibited S‐n‐ and S‐o‐mediated cell fusion suggests that it should be used as an anti‐SARS CoV‐2 antiviral, especially at early times after first symptoms are exhibited in infected individuals.
+
+
+  # Nelfinavir
+  // Nelfinavir inhibits replication of severe acute respiratory syndrome coronavirus 2 in vitro
+  doi: https://doi.org/10.1101/2020.04.06.026476
+  ref 'Yamamoto_et_al_04_08_2020
+    head = Our findings reveal that nelfinavir is highly effective in inhibiting SARS-CoV-2 replication in vitro and has the high Cmax-EC50 and Ctough-EC50 ratio. We suggest that nelfinavir is a potential candidate drug for the treatment of COVID-19 and should be assessed in the patients with COVID-19.
+
+    >>> Abstract
+      In December 2019, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) emerged in Wuhan, Hubei Province, China. No specific treatment has been established against coronavirus disease-2019 (COVID-19) so far. Therefore, it is urgently needed to identify effective antiviral agents for the treatment of this disease, and several approved drugs such as lopinavir have been evaluated. Here, we report that nelfinavir, an HIV-1 protease inhibitor, potently inhibits replication of SARS-CoV-2. The effective concentrations for 50% and 90% inhibition (EC50 and EC90) of nelfinavir were 1.13 µM and 1.76 µM respectively, the lowest of the nine HIV-1 protease inhibitors including lopinavir. The trough and peak serum concentrations of nelfinavir were three to six times higher than EC50 of this drug. These results suggest that nelfinavir is a potential candidate drug for the treatment of COVID-19 and should be assessed in patients with COVID-19.
+
+    # / April, 2020 - bioRxiv
+    # let !a self assert =
+
+
+  # Nelfinavir - Protease Inhibitors
+  // Potential Antiviral Options against SARS-CoV-2 Infection
+  doi: https://doi.org/10.3390/v12060642
+  ref 'Ianevski_et_al_06_11_2020
+    head = We tested 136 safe-in-man BSAAs against SARS-CoV-2 in cell cultures. We identified salinomycin, obatoclax, amodiaquine, nelfinavir, emetine and homoharringtonine as having anti-SARS-CoV-2 activity, which we put forward as potential anti-SARS-CoV-2 drug candidates.
+
+    >>> Abstract
+      As of June 2020, the number of people infected with severe acute respiratory coronavirus 2 (SARS-CoV-2) continues to skyrocket, with more than 6.7 million cases worldwide. Both the World Health Organization (WHO) and United Nations (UN) has highlighted the need for better control of SARS-CoV-2 infections. However, developing novel virus-specific vaccines, monoclonal antibodies and antiviral drugs against SARS-CoV-2 can be time-consuming and costly. Convalescent sera and safe-in-man broad-spectrum antivirals (BSAAs) are readily available treatment options. Here, we developed a neutralization assay using SARS-CoV-2 strain and Vero-E6 cells. We identified the most potent sera from recovered patients for the treatment of SARS-CoV-2-infected patients. We also screened 136 safe-in-man broad-spectrum antivirals against the SARS-CoV-2 infection in Vero-E6 cells and identified nelfinavir, salinomycin, amodiaquine, obatoclax, emetine and homoharringtonine. We found that a combination of orally available virus-directed nelfinavir and host-directed amodiaquine exhibited the highest synergy. Finally, we developed a website to disseminate the knowledge on available and emerging treatments of COVID-19.
+
+    -- exports
+       !a
+
+    / June, 2020 - Antiviral Drug Combinations
+    let !a self assert = Nelfinavir (Viracept) is an orally bioavailable inhibitor of human immunodeficiency virus HIV-1 (750 mg per os (PO) q8hr). It targets HIV protease for the treatment of HIV infections. Molecular docking studies predict that nelfinavir binds to the SARS-CoV-2 protease. Nelfinavir could also inhibit cell fusion caused by the SARS-CoV-2 S glycoprotein. It also inhibits Chikungunya virus (CHIKV), Dengue virus (DENV), hepatitis C virus (HCV), herpes simplex virus 1 (HSV-1) and SARS-CoV infections.
+
+  # Frontiers - TNF
+  // Trials of anti-tumour necrosis factor therapy for COVID-19 are urgently needed
+  doi: https://doi.org/10.1016/S0140-6736(20)30858-8
+  ref 'Feldmann_et_al_04_09_2020
+    head = Anti-tumour necrosis factor (TNF) antibodies have been used for more than 20 years in severe cases of autoimmune inflammatory disease such as rheumatoid arthritis, inflammatory bowel disease, or ankylosing spondylitis.
+
+    -- exports
+       !a
+
+    / April, 2020 - The Lancet
+    let !a self assert = TNF is present in blood and disease tissues of patients with COVID-19 and TNF is important in nearly all acute inflammatory reactions, acting as an amplifier of inflammation. We propose that anti-TNF therapy should be evaluated in patients with COVID-19 on hospital admission to prevent progression to needing intensive care support.
+
+
+  # Tocilizumab Side effect?
+  // Tocilizumab treatment in severe COVID-19 patients attenuates the inflammatory storm incited by monocyte centric immune interactions revealed by single-cell analysis
+  doi: https://doi.org/xyz
+  ref 'Guo_et_al_04_09_2020
+    head = There are always questions about whether Tocilizumab treatment may affect the antiviral effect of the body. Our single cell profiles illustrated a sustained humoral and cell-mediated anti-virus immune response of COVID-19 patients at both severe and recovery stage. For example, the proportion of plasma B cells with antibody-secreting function were keeping at high levels and the cytotoxicity and cytokine production of effector CD8+ 226 T cells were also remained stable in severe COVID-19 patients after Tocilizumab treatment.
+
+    >>> Abstract
+      Coronavirus disease 2019 (COVID-19) has caused more than 40,000 deaths worldwide. Approximately 14% of patients with COVID-19 experienced severe disease and 5% were critically ill2. Studies have shown that dysregulation of the COVID-19 patients’ immune system may lead to inflammatory storm and cause severe illness and even death. Tocilizumab treatment targeting interleukin 6 receptor has shown inspiring clinical results of severe COVID-19 patients5. However, the immune network with Tocilizumab treatment at single cell resolution has not been uncovered. Here, we profiled the single-cell transcriptomes of 13,289 peripheral blood mononuclear cells isolated at three longitudinal stages from two severe COVID-19 patients treated with Tocilizumab. We identified a severe stage-specific monocyte subpopulation and these cells centric immune cell interaction network connected by the inflammatory cytokines and their receptors. The over-activated inflammatory immune response was attenuated after Tocilizumab treatment, yet immune cells including plasma B cells and CD8+ T cells still exhibited an intense humoral and cell-mediated anti-virus immune response in recovered COVID-19 patients. These results provided critical insights into the immunopathogenesis of severe COVID-19 and revealed fundamentals of effectiveness in Tocilizumab treatment.
+
+    # / April, 2020 - bioRxiv
+    # let !a self assert =
+
+
+  # Tocilizumab
+  // Tocilizumab, an anti-IL-6 receptor antibody, to treat COVID-19-related respiratory failure: a case report
+  doi: https://doi.org/10.1016/j.annonc.2020.03.300
+  ref 'Michot_et_al_03_06_2020
+    head =  We report here the case of a patient with respiratory failure linked to COVID-19 who had a rapid favorable outcome after two infusions of the anti-IL-6 receptor inhibitor tocilizumab. This suggests that anti-IL-6 receptor inhibitor treatment could decrease the risk of progression toward SARS by mitigating the cytokine storm in lungs with COVID-19.
+
+    # / March, 2020 - Annals of Oncology
+    # let !a self assert =
+
+  # Tocilizumab - Disease Severity Clinical Recommendation
+  // Effective treatment of severe COVID-19 patients with tocilizumab
+  doi: https://doi.org/10.1073/pnas.2005615117
+  ref 'Xu_et_al_04_29_2020
+    head = Tocilizumab effectively improve clinical symptoms and represses the deterioration of severe COVID-19 patients. Therefore, tocilizumab is an effective treatment in severe patients of COVID-19, which provided a therapeutic strategy for this fatal infectious disease.
+
+    >>> Abstract
+      After analyzing the immune characteristics of patients with severe coronavirus disease 2019 (COVID-19), we have identified that pathogenic T cells and inflammatory monocytes with large amount of interleukin 6 secreting may incite the inflammatory storm, which may potentially be curbed through monoclonal antibody that targets the IL-6 pathways. Here, we aimed to assess the efficacy of tocilizumab in severe patients with COVID-19 and seek a therapeutic strategy. The patients diagnosed as severe or critical COVID-19 in The First Affiliated Hospital of University of Science and Technology of China (Anhui Provincial Hospital) and Anhui Fuyang Second People’s Hospital were given tocilizumab in addition to routine therapy between 5 and 14 February 2020. The changes of clinical manifestations, computerized tomography (CT) scan image, and laboratory examinations were retrospectively analyzed. Fever returned to normal on the first day, and other symptoms improved remarkably within a few days. Within 5 d after tocilizumab, 15 of the 20 patients (75.0%) had lowered their oxygen intake, and 1 patient needed no oxygen therapy. CT scans manifested that the lung lesion opacity absorbed in 19 patients (90.5%). The percentage of lymphocytes in peripheral blood, which decreased in 85.0% of patients (17/20) before treatment (mean, 15.52 ± 8.89%), returned to normal in 52.6% of patients (10/19) on the fifth day after treatment. Abnormally elevated C-reactive protein decreased significantly in 84.2% of patients (16/19). No obvious adverse reactions were observed. All patients have been discharged on average 15.1 d after giving tocilizumab. Preliminary data show that tocilizumab, which improved the clinical outcome immediately in severe and critical COVID-19 patients, is an effective treatment to reduce mortality.
+
+    # / April, 2020 - Pnas
+    # let !a self assert =
+
+
+  # Tocilizumab - monoclonal Antibody
+  // Tocilizumab Treatment in COVID-19: A Single Center Experience
+  doi: https://doi.org/10.1002/jmv.25801
+  ref 'Luo_et_al_04_06_2020
+    head = Our findings supported the effectiveness of TCZ in the prevention or treatment of cytokine storms induced by COVID‐19. In most patients, acute phase reactant levels were decreased and the patients were getting to a stable condition reflected by a later gradual decrease of IL‐6 after TCZ administration.
+
+    >>>
+      Tocilizumab (TCZ), a monoclonal antibody against interleukin-6 (IL-6), emerged as an alternative treatment for COVID-19 patients with a risk of cytokine storms recently. In the present study, we aimed to discuss the treatment response of TCZ therapy in COVID-19 infected patients. The demographic, treatment, laboratory parameters of C-reactive protein (CRP) and IL-6 before and after TCZ therapy and clinical outcome in the 15 COVID-19 patients were retrospectively assessed. Totally 15 patients with COVID-19 were included in this study. Two of them were moderately ill, six were seriously ill and seven were critically ill. The TCZ was used in combination with methylprednisolone in eight patients. Five patients received the TCZ administration twice or more. Although TCZ treatment ameliorated the increased CRP in all patients rapidly, for the four critically ill patients who received an only single dose of TCZ, three of them (No. 1, 2, and 3) still dead and the CRP level in the rest one patient (No. 7) failed to return to normal range with a clinical outcome of disease aggravation. Serum IL-6 level tended to further spiked firstly and then decreased after TCZ therapy in 10 patients. A persistent and dramatic increase of IL-6 was observed in these four patients who failed treatment. TCZ appears to be an effective treatment option in COVID-19 patients with a risk of cytokine storms. And for these critically ill patients with elevated IL-6, the repeated dose of the TCZ is recommended.
+
+    -- exports
+       !a
+
+    / April, 2020 - J Med Virol
+    let !a self assert = The present study suggested that a single dose of TCZ seems to fail to improve the disease activity in critically ill patients although it was used in combination with glucocorticoid. However, repeated doses (even repeated with a lower dose) of TCZ might improve the condition of critically ill patients.
+
+  # Siltuximab
+  // IL-6 signalling pathway inactivation with siltuximab in patients with COVID-19 respiratory failure: an observational cohort study
+  doi: https://doi.org/xyz
+  ref 'Gritti_et_al_06_20_2020
+    head = Thirty patients received siltuximab, while 188 control patients received only best supportive care. Siltuximab-treated patients were matched to 30 control patients using the propensity score analysis of baseline covariates. The 30-day mortality rate was significantly lower in the siltuximab-treated than the matched-control cohort patients (HR 0.462, 95% CI 0.221-0.965); p=0.0399). The mean follow-up was 33.3 days (range 7-58 days) for the siltuximab-treated patients and 22.8 days (range 2-45 days) for the control cohort. Sixteen siltuximab-treated patients were discharged from hospital, four remained on mechanical ventilation, and 10 patients died.
+
+    >>> Background
+      Severe COVID-19 is characterised by interstitial pneumonia and hyperinflammation, with elevated levels of pro-inflammatory cytokines, such as IL-6. Effective treatments are urgently needed, and IL-6 is a rational target to reduce hyperinflammation.
+    >>> Methods
+      An observational, control cohort, single-centre study initiated at the Papa Giovanni XXIII Hospital in Bergamo, Italy included patients with COVID-19 confirmed by a nasopharyngeal swab positive for severe acute respiratory syndrome coronavirus 2 RNA and interstitial pneumonia requiring ventilatory support. Patients were treated with either best supportive care and siltuximab or best supportive care alone. Propensity score matching was applied to minimise differences in baseline covariates between patient cohorts. The main outcome was mortality in siltuximab-treated patients compared with patients in the matched-control cohort. This study (Siltuximab in Severe COVID-19, SISCO) is registered with ClinicalTrials.gov, identifier NCT04322188.
+    >>> Findings
+      Thirty patients received siltuximab, while 188 control patients received only best supportive care. Siltuximab-treated patients were matched to 30 control patients using the propensity score analysis of baseline covariates. The 30-day mortality rate was significantly lower in the siltuximab-treated than the matched-control cohort patients (HR 0.462, 95% CI 0.221-0.965); p=0.0399). The mean follow-up was 33.3 days (range 7-58 days) for the siltuximab-treated patients and 22.8 days (range 2-45 days) for the control cohort. Sixteen siltuximab-treated patients were discharged from hospital, four remained on mechanical ventilation, and 10 patients died.
+    >>> Interpretation
+      Patients with rapidly progressing COVID-19 respiratory failure requiring ventilatory support may benefit from treatment with siltuximab to reduce mortality and cytokine-driven hyperinflammation associated with severe disease. These findings require validation in a randomised controlled clinical trial.
+
+
+    # / June, 2020 - Annals of the New York Academy of Sciences
+    # let !a self assert =
+
+  # Clinical recommendation
+  // Preventing COVID-19-induced pneumonia with anticytokine therapy
+  doi: https://doi.org/10.1016/S2665-9913(20)30092-8
+  ref 'Monteleone_et_al_04_06_2020
+    head =  We speculate that patients with immune-mediated disorders taking IL-6 inhibitors, or compounds that suppress immune pathways leading to IL-6 production or mediation of IL-6 signalling, might be somewhat protected against SARS-CoV-2-driven pneumonia.
+
+    -- exports
+       !a
+
+    / April, 2020 - The Lancet Rheumatol
+    let !a self assert = Clinicians should advise patients with immune-mediated disorders about the necessity to stay on their treatment with cytokine blockers, and patients with immune-mediated disorders should stay on medication unless discussed with their doctor.
+
+
+  #  IL-6 , Diagnostics for respiratory failure
+  // Level of IL-6 predicts respiratory failure in hospitalized symptomatic COVID-19 patients
+  doi: https://doi.org/10.1101/2020.04.01.20047381
+  ref 'Herold_et_al_04_10_2020
+    head = IL-6 level and CRP level are useful markers that predict impending respiratory failure with high accuracy and can help physicians correctly allocate patients who might benefit from early treatment escalation (eg, use of anticytokine strategies).
+
+    >>> Abstract
+      The pandemic Coronavirus-disease 19 (COVID-19) is characterized by a heterogeneous clinical course. While most patients experience only mild symptoms, a relevant proportion develop severe disease progression with increasing hypoxia up to acute respiratory distress syndrome. The substantial number of patients with severe disease have strained intensive care capacities to an unprecedented level. Owing to the highly variable course and lack of reliable predictors for deterioration, we aimed to identify variables that allow the prediction of patients with a high risk of respiratory failure and need of mechanical ventilation Patients with PCR proven symptomatic COVID-19 infection hospitalized at our institution from 29th February to 27th March 2020 (n=40) were analyzed for baseline clinical and laboratory findings. Patients requiring mechanical ventilation 13/40 (32.5%) did not differ in age, comorbidities, radiological findings, respiratory rate or qSofa score. However, elevated interleukin-6 (IL-6) was strongly associated with the need for mechanical ventilation (p=1.2.10-5). In addition, the maximal IL-6 level (cutoff 80 pg/ml) for each patient during disease predicted respiratory failure with high accuracy (p=1.7.10-8, AUC=0.98). The risk of respiratory failure for patients with IL-6 levels of ≥ 80 pg/ml was 22 times higher compared to patients with lower IL-6 levels. In the current situation with overwhelmed intensive care units and overcrowded emergency rooms, correct triage of patients in need of intensive care is crucial. Our study shows that IL-6 is an effective marker that might be able to predict upcoming respiratory failure with high accuracy and help physicians correctly allocate patients at an early stage.
+
+  #  / April, 2020 - medRxiv
+  #  let !a self assert =
+
+  # Immune Response, IL-6 tocilizumab Remediation , Diagnostics for disease severity?
+  // Interleukin-6 in COVID-19: A Systematic Review and Meta-Analysis
+  doi: https://doi.org/10.1101/2020.03.30.20048058
+  ref 'Coomes_et_al_04_03_2020
+    head =  We demonstrate serum levels of IL-6 to be significantly elevated in the setting of complicated COVID-19 disease, and increased IL-6 levels to be in turn significantly associated with adverse clinical outcomes. This suggests that the progression of COVID-19 to complicated disease may be the consequence of an excessive host immune response and autoimmune injury.
+
+    >>> Purpose:
+      Coronaviruses may activate dysregulated host immune responses. As exploratory studies have suggested that interleukin-6 (IL-6) levels are elevated in cases of complicated COVID-19 and that the anti-IL-6 biologic tocilizumab may be beneficial, we undertook a systematic review and meta-analysis to assess the evidence in this field.
+    >>> Methods:
+      We systematically searched MEDLINE and EMBASE for studies investigating the immunological response in COVID-19 or its treatment with tocilizumab; additional grey literature searches were undertaken. Meta-analysis was undertaken using random effects models.
+    >>> Results:
+      Eight published studies, three pre-prints, and five registered trials were eligible. Meta-analysis of mean IL-6 concentrations demonstrated 2.9-fold higher levels in patients with complicated COVID-19 compared with patients with non-complicated disease (six studies; n=1302; 95%CI, 1.17-7.19; I2=100%). A single non-randomized, single-arm study assessed tocilizumab in patients with severe COVID-19, demonstrating decreased oxygen requirements, resolution of radiographic abnormalities, and clinical improvement. No adverse events or deaths were observed.
+    >>> Conclusions:
+      In patients with COVID-19, IL-6 levels are significantly elevated and associated with adverse clinical outcomes. While inhibition of IL-6 with tocilizumab appears to be efficacious and safe in preliminary investigation, the results of several ongoing clinical trials should be awaited to better define the role of tocilizumab in COVID-19 prior to routine clinical application.
+
+    -- exports
+       !a
+
+    / April, 2020 - medRxiv
+    let !a self assert = Preliminary investigations indicate that the inhibition of the cytokine pathway at the level of IL-6 with tocilizumab may be efficacious in managing this dysregulation. Whilst preliminary in nature, this data identifying increased IL-6 levels in severe COVID-19 disease and early signals of clinical benefit for tocilizumab therapy support the need for ongoing clinical studies to elucidate the role of IL-6 inhibition in the therapy of severe COVID-19.
+
+  # Diagnostic - Disease Severity
+  // Correlation Analysis Between Disease Severity and Inflammation-related Parameters in Patients with COVID-19 Pneumonia
+  doi: https://doi.org/10.1101/2020.02.25.20025643
+  ref 'Gong_et_al_02_27_2020
+    head = With following parameters such as age >67.5 years, IL2R >793.5U/mL, CRP >30.7ng/mL, ferroprotein >2252μg/L, WBC>9.5*10^9/L or NC >7.305*10^9/L, the progress of COVID-19 to critical stage should be closely observed and possibly prevented.
+
+    >>> Aim:
+      The new coronavirus pneumonia (COVID-19) outbreaking at the end of 2019 is highly contagious. Crude mortality rate reached 49% in critical patients. Inflammation matters on disease progression. This study analyzed blood inflammation indicators among mild, severe and critical patients, helping to identify severe or critical patients early.
+    >>> Methods:
+      In this cross-sectional study, 100 patients were included and divided to mild, severe or critical groups. Correlation of peripheral blood inflammation-related indicators with disease criticality was analyzed. Cut-off values for critically ill patients were speculated through the ROC curve.
+    >>> Results：
+      Significantly, disease severity were associated with age (R=-0.564, P<0.001), interleukin-2 receptor (IL2R) (R=-0.534, P<0.001), interleukin-6 (IL-6) (R=-0.535, P<0.001), interleukin-8 (IL-8) (R=-0.308, P<0.001), interleukin-10 (IL-10) (R=-0.422, P<0.001), tumor necrosis factor α (TNFα) (R=-0.322, P<0.001), C-reactive protein (CRP) (R=-0.604, P<0.001), ferroprotein (R=-0.508, P<0.001), procalcitonin (R=-0.650, P<0.001), white cell counts (WBC) (R=-0.54, P<0.001), lymphocyte counts (LC) (R=-0.56, P<0.001), neutrophil count (NC) (R=-0.585, P<0.001) and eosinophil counts (EC) (R=-0.299, P=0.01).
+    >>> Conclusion：
+      With following parameters such as age >67.5 years, IL2R >793.5U/mL, CRP >30.7ng/mL, ferroprotein >2252μg/L, WBC>9.5*10^9/L or NC >7.305*10^9/L, the progress of COVID-19 to critical stage should be closely observed and possibly prevented. Inflammation is closely related to severity of COVID-19, and IL-6, TNFα and IL-8 might be promising therapeutic targets.
+
+    -- exports
+       !a
+
+    / Feb, 2020 - medRxiv
+    let !a self assert = Significantly, disease severity were associated with age (R=-0.564, P<0.001), interleukin-2 receptor (IL2R) (R=-0.534, P<0.001), interleukin-6 (IL-6) (R=-0.535, P<0.001), interleukin-8 (IL-8) (R=-0.308, P<0.001), interleukin-10 (IL-10) (R=-0.422, P<0.001), tumor necrosis factor α (TNFα) (R=-0.322, P<0.001), C-reactive protein (CRP) (R=-0.604, P<0.001), ferroprotein (R=-0.508, P<0.001), procalcitonin (R=-0.650, P<0.001), white cell counts (WBC) (R=-0.54, P<0.001), lymphocyte counts (LC) (R=-0.56, P<0.001), neutrophil count (NC) (R=-0.585, P<0.001) and eosinophil counts (EC) (R=-0.299, P=0.01).
 
   # innate immune response; cytokine responses to SARS coronavirus, FRONTIERS, therapeutics that target the innate immune responses
   // Innate Immune Response of Human Alveolar Type II Cells Infected With Severe Acute Respiratory Syndrome-Coronavirus
@@ -13239,8 +13787,6 @@ feed Research
     head = Study's analysis identified the spike (S) and nucleocapsid (N) proteins as promising targets for deoptimization and suggests a roadmap for SARS-CoV-2 vaccine development, which can be generalizable to other viruses.
     >>> Abstract
       As the SARS-CoV-2 pandemic is rapidly progressing, the need for the development of an effective vaccine is critical. A promising approach for vaccine development is to generate, through codon pair deoptimization, an attenuated virus. This approach carries the advantage that it only requires limited knowledge specific to the virus in question, other than its genome sequence. Therefore, it is well suited for emerging viruses for which we may not have extensive data. We performed comprehensive in silico analyses of several features of SARS-CoV-2 genomic sequence (e.g., codon usage, codon pair usage, dinucleotide/junction dinucleotide usage, RNA structure around the frameshift region) in comparison with other members of the coronaviridae family of viruses, the overall human genome, and the transcriptome of specific human tissues such as lung, which are primarily targeted by the virus. Our analysis identified the spike (S) and nucleocapsid (N) proteins as promising targets for deoptimization and suggests a roadmap for SARS-CoV-2 vaccine development, which can be generalizable to other viruses.
-
-
 
 
   # Vaccine, Antibodies
