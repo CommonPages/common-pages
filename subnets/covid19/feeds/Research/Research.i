@@ -16,6 +16,7 @@ feed Research
     'Holshue_et_al_2020
 
   -- all
+    July2020
     June2020
     May2020
     April2020
@@ -25,9 +26,23 @@ feed Research
     2019
     Pre2019
 
+  / July, 2020
+  feed July2020
+    --
+      'Mulligan_et_al_07_06_2020
+      'Morris_et_al_07_02_2020
+
   / June, 2020
   feed June2020
     --
+      'Miller_et_al_06_18_2020
+      'Rockey_et_al_06_23_2020
+      'Cheng_et_al_06_08_2020
+      'Allen_et_al_06_19_2020
+      'Felgenhauer_et_al_06_25_2020
+      'Graham_et_al_06_20_2020
+      'Rousseau_et_al_06_20_2020
+      'Guaraldi_et_al_06_24_2020
       'Salton_et_al_06_25_2020
       'Corral_et_al_06_18_2020
       'Horby_et_al_06_22_2020
@@ -48,6 +63,8 @@ feed Research
   / May, 2020
   feed May2020
     --
+      'Roschewski_et_al_05_06_2020
+      'Doremalen_et_al_05_13_2020
       'Li_et_al_05_05_2020
       'Li_et_al_05_19_2020b
       'Lee_et_al_05_12_2020
@@ -147,6 +164,7 @@ feed Research
   / April, 2020
   feed April2020
     --
+      'Santesmasses_et_al_04_15_2020
       'Gordon_et_al_04_30_2020
       'Ohashi_et_al_04_15_2020
       'Yamamoto_et_al_04_08_2020
@@ -404,6 +422,7 @@ feed Research
 
   feed 2019
     -- December, 2019
+      'Lin_et_al_12_30_2019
       'Wan_et_al_2019
       'Benfield_et_al_2019
 
@@ -770,6 +789,351 @@ feed Research
       'Hamburger_et_al_1948
 
   #
+
+  # Airborne
+  // Detection of air and surface contamination by SARS-CoV-2 in hospital rooms of infected patients
+  doi: https://doi.org/xyz
+  ref 'Chia_et_al_05_29_2020
+    head = Air sampling of the AIIR environments of two COVID-19 patients (both day 5 of illness with high nasopharyngeal swab viral loads) detected the presence of SARS-CoV-2 particles sized 1–4 µm and >4 µm. The absence of any detection of SARS-CoV-2 in air samples of the third patient (day 9 of illness with lower nasopharyngeal viral load concentration) suggests that the presence of SARS-CoV-2 in the air is possibly highest in the first week of illness.
+
+    >>> Abstract
+      Understanding the particle size distribution in the air and patterns of environmental contamination of SARS-CoV-2 is essential for infection prevention policies. Here we screen surface and air samples from hospital rooms of COVID-19 patients for SARS-CoV-2 RNA. Environmental sampling is conducted in three airborne infection isolation rooms (AIIRs) in the ICU and 27 AIIRs in the general ward. 245 surface samples are collected. 56.7% of rooms have at least one environmental surface contaminated. High touch surface contamination is shown in ten (66.7%) out of 15 patients in the first week of illness, and three (20%) beyond the first week of illness (p = 0.01, χ2 test). Air sampling is performed in three of the 27 AIIRs in the general ward, and detects SARS-CoV-2 PCR-positive particles of sizes >4 µm and 1–4 µm in two rooms, despite these rooms having 12 air changes per hour. This warrants further study of the airborne transmission potential of SARS-CoV-2.
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / May, 2020 - Nature Communications
+    let !a self assert = Surface sampling revealed that the PCR-positivity high-touch surfaces was associated with nasopharyngeal viral loads and peaked at approximately day 4–5 of symptoms.
+
+    / May, 2020 - Nature Communications
+    let !b self assert = Current evidence does not seem to point to aerosolization as the key route of transmission of SARS-CoV-2, and there have been reports of healthcare workers not being infected after exposure to confirmed patients despite not using airborne precautions.
+
+    / May, 2020 - Nature Communications
+    let !c self assert = In a limited number of AIIR environments, our current study involving individual COVID-19 patients not undergoing aerosol-generating procedures suggests that SARS-CoV-2 can be shed in the air from a patient in particles sized between 1 and 4 microns. Even though particles in this size range have the potential to linger longer in the air, more data on viability and infectiousness of the virus would be required to confirm the potential airborne spread of SARS-CoV-2.
+
+    / May, 2020 - Nature Communications
+    let !d self assert = Additionally, the concentrations of SARS-CoV-2 in the air and high-touch surfaces could be highest during the first week of COVID-19 illness. Further work is urgently needed to examine these findings in larger numbers and different settings to better understand the factors affecting air and surface spread of SARS-CoV-2 and inform effective infection prevention policies.
+
+
+  # Tranmission - Aersol - Superspreading Events? (but no claim just example)
+  // Transmission of SARS-CoV-2 by inhalation of respiratory aerosol in the Skagit Valley Chorale superspreading event
+  doi: https://doi.org/10.1101/2020.06.15.20132027
+  ref 'Miller_et_al_06_18_2020
+    head = After that rehearsal, 53 members of the SVC among 61 in attendance were confirmed or strongly suspected to have contracted COVID-19 and two died. Transmission by the airborne route is likely. Based on a conditional assumption that transmission during this outbreak was by inhalation of respiratory aerosol.
+
+    >>> Abstract
+      During the 2020 COVID-19 pandemic, an outbreak occurred following attendance of a symptomatic index case at a regular weekly rehearsal on 10 March of the Skagit Valley Chorale (SVC). After that rehearsal, 53 members of the SVC among 61 in attendance were confirmed or strongly suspected to have contracted COVID-19 and two died. Transmission by the airborne route is likely. It is vital to identify features of cases such as this so as to better understand the factors that promote superspreading events. Based on a conditional assumption that transmission during this outbreak was by inhalation of respiratory aerosol, we use the available evidence to infer the emission rate of airborne infectious quanta from the primary source. We also explore how the risk of infection would vary with several influential factors: the rates of removal of respiratory aerosol by ventilation; deposition onto surfaces; and viral decay. The results indicate an emission rate of the order of a thousand quanta per hour (mean [interquartile range] for this event = 970 [680-1190] quanta per hour) and demonstrate that the risk of infection is modulated by ventilation conditions, occupant density, and duration of shared presence with an infectious individual.
+
+    -- exports
+      !a
+
+    / June, 2020 - medRxiv
+    let !a self assert =  We use the available evidence to infer the emission rate of airborne infectious quanta from the primary source. We also explore how the risk of infection would vary with several influential factors: the rates of removal of respiratory aerosol by ventilation; deposition onto surfaces; and viral decay. The results indicate an emission rate of the order of a thousand quanta per hour (mean [interquartile range] for this event = 970 [680-1190] quanta per hour) and demonstrate that the risk of infection is modulated by ventilation conditions, occupant density, and duration of shared presence with an infectious individual.
+
+  # Environment - Tranmission - Humidity
+  // Humidity-Dependent Decay of Viruses, but Not Bacteria, in Aerosols and Droplets Follows Disinfection Kinetics
+  doi: https://doi.org/10.1021/acs.est.9b04959
+  ref 'Lin_et_al_12_30_2019
+    head = Our results show that the viability of bacteria and viruses in suspended aerosols and droplets is RH (Relative Humidity) dependent, varying by over 3 orders of magnitude for bacteria and up to 2 orders of magnitude for viruses. These results suggest that environmental conditions have the potential to influence transmission of certain pathogens by affecting their viability while they are transmitting between hosts.
+
+    >>> Abstract
+      The transmission of some infectious diseases requires that pathogens can survive (i.e., remain infectious) in the environment, outside the host. Relative humidity (RH) is known to affect the survival of some microorganisms in the environment; however, the mechanism underlying the relationship has not been explained, particularly for viruses. We investigated the effects of RH on the viability of bacteria and viruses in both suspended aerosols and stationary droplets using traditional culture-based approaches. Results showed that viability of bacteria generally decreased with decreasing RH. Viruses survived well at RHs lower than 33% and at 100%, whereas their viability was reduced at intermediate RHs. We then explored the evaporation rate of droplets consisting of culture media and the resulting changes in solute concentrations over time; as water evaporates from the droplets, solutes such as sodium chloride in the media become more concentrated. Based on the results, we suggest that inactivation of bacteria is influenced by osmotic pressure resulting from elevated concentrations of salts as droplets evaporate. We propose that the inactivation of viruses is governed by the cumulative dose of solutes or the product of concentration and time, as in disinfection kinetics. These findings emphasize that evaporation kinetics play a role in modulating the survival of microorganisms in droplets.
+
+    -- exports
+      !a
+
+    / Dec, 2019 - Environ. Sci. Technol
+    let !a self assert = While bacteria survived better at humid conditions than dry conditions, viruses survived best at both low and extremely high RHs while experiencing greater decay at intermediate RHs. The difference in viability patterns suggests that different mechanisms may dominate the humidity-dependent decay of bacteria and viruses.
+
+  # Face Mask - Humidity and deposition for viral inactivation
+  // Humidity and deposition solution play a critical role in virus inactivation by heat treatment on N95 respirators
+  doi: https://doi.org/10.1101/2020.06.22.20137448
+  ref 'Rockey_et_al_06_23_2020
+    head =  Our work demonstrates the virus inactivation efficacy of heat and humidity treatments for N95 respirator decontamination. The USFDA’s recommended 6-log10 inactivation of viruses was easily achievable for bacteriophages MS2 and phi6 with this heat392 humidity paradigm. Likewise, although we were limited by the dynamic range of our assays, the more clinically relevant virus surrogates, MHV and IAV, resulted in at least 3-log10 inactivation under the same conditions. Low (< 25%) RH treatments at the same temperatures were not as effective.
+
+    >>> Abstract
+      Supply shortages of N95 respirators during the coronavirus disease 2019 (COVID-19) pandemic have motivated institutions to develop feasible and effective N95 respirator reuse strategies. In particular, heat decontamination is a treatment method that scales well and can be implemented in settings with variable or limited resources. Prior studies using multiple inactivation methods, however, have often focused on a single virus under narrowly defined conditions, making it difficult to develop guiding principles for inactivating emerging or difficult-to-culture viruses. We systematically explored how temperature, humidity, and virus deposition solutions impact the inactivation of viruses deposited and dried on N95 respirator coupons. We exposed four virus surrogates across a range of structures and phylogenies, including two bacteriophages (MS2 and phi6), a mouse coronavirus (murine hepatitis virus, MHV), and a recombinant human influenza A virus subtype H3N2 (IAV), to heat treatment for 30 minutes in multiple deposition solutions across several temperatures and relative humidities (RH). We observed that elevated RH was essential for effective heat inactivation of all four viruses tested. For heat treatments between 72°C and 82°C, RH greater than 50% resulted in > 6-log10 inactivation of bacteriophages and RH greater than 25% resulted in > 3.5-log10 inactivation of MHV and IAV. Furthermore, deposition of viruses in host cell culture media greatly enhanced virus inactivation by heat and humidity compared to other deposition solutions such as phosphate buffered saline, phosphate buffered saline with bovine serum albumin, and human saliva. Past and future heat treatment methods or technologies must therefore explicitly account for deposition solutions as a factor that will strongly influence observed virus inactivation rates. Overall, our data set can inform the design and validation of effective heat-based decontamination strategies for N95 respirators and other porous surfaces, especially for emerging or low-titer viruses that may be of immediate public health concern such as SARS-CoV-2.
+
+    -- exports
+      !a
+      !b
+
+    / June, 2020 - medRxiv
+    let !a self assert =  We also observed that inactivation was strongly influenced by the deposition solution. Dried virus droplets in cell culture media were inactivated significantly more than in any other deposition solution (PBS, PBS + BSA, saliva). These findings suggest that virus inactivation may be vastly overestimated when using culture media as the deposition solution in surface disinfection studies. We suggest the use of deposition solutions more similar to human saliva or respiratory fluid in virus inactivation experiments to ensure representative results.
+
+    / June, 2020 - medRxiv
+    let !b self assert = Hospitals and other healthcare settings can expect extensive virus inactivation of N95 respirators through heat treatment for at least 30 minutes at 72°C or 82°C and RH above 50%. High humidity heat treatment is particularly appealing as it can be readily adapted and scaled to a range of settings, from health care facilities to private residences. Further, implementation is equally suitable for healthcare systems or individuals without access to specialized equipment, including those in low- to middle- income countries. These results provide timely and useful information for efficacious N95 respirator decontamination, enabling reuse when necessary due to shortages.
+
+
+  # Dispute not airborne
+  // Air and environmental sampling for SARS-CoV-2 around hospitalized patients with coronavirus disease 2019 (COVID-19)
+  doi: https://doi.org/10.1017/ice.2020.282
+  ref 'Cheng_et_al_06_08_2020
+    head = SARS-CoV-2 RNA was not detectable by air samplers, which suggests that the airborne route is not the predominant mode of transmission of SARS-CoV-2. Wearing a surgical mask, appropriate hand hygiene, and thorough environmental disinfection are sufficient infection control measures for COVID-19 patients isolated singly in AIIRs. However, this conclusion may not apply during aerosol-generating procedures or in cohort wards with large numbers of COVID-19 patients.
+
+    >>> Background
+      The role of severe respiratory coronavirus virus 2 (SARS-CoV-2)–laden aerosols in the transmission of coronavirus disease 2019 (COVID-19) remains uncertain. Discordant findings of SARS-CoV-2 RNA in air samples were noted in early reports.
+
+    >>> Methods
+      Sampling of air close to 6 asymptomatic and symptomatic COVID-19 patients with and without surgical masks was performed with sampling devices using sterile gelatin filters. Frequently touched environmental surfaces near 21 patients were swabbed before daily environmental disinfection. The correlation between the viral loads of patients’ clinical samples and environmental samples was analyzed.
+
+    >>> Results
+      All air samples were negative for SARS-CoV-2 RNA in the 6 patients singly isolated inside airborne infection isolation rooms (AIIRs) with 12 air changes per hour. Of 377 environmental samples near 21 patients, 19 (5.0%) were positive by reverse-transcription polymerase chain reaction (RT-PCR) assay, with a median viral load of 9.2 × 102 copies/mL (range, 1.1 × 102 to 9.4 × 104 copies/mL). The contamination rate was highest on patients’ mobile phones (6 of 77, 7.8%), followed by bed rails (4 of 74, 5.4%) and toilet door handles (4 of 76, 5.3%). We detected a significant correlation between viral load ranges in clinical samples and positivity rate of environmental samples (P < .001).
+
+    >>> Conclusion
+      SARS-CoV-2 RNA was not detectable by air samplers, which suggests that the airborne route is not the predominant mode of transmission of SARS-CoV-2. Wearing a surgical mask, appropriate hand hygiene, and thorough environmental disinfection are sufficient infection control measures for COVID-19 patients isolated singly in AIIRs. However, this conclusion may not apply during aerosol-generating procedures or in cohort wards with large numbers of COVID-19 patients.
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / June, 2020 - Infection Control & Hospital Epidemiology
+    let !a self assert = In this study, we could not demonstrate the presence of SARS-CoV-2 in air samples collected 10 cm from a patient’s chin with or without a surgical mask in a single AIIR setting, even among symptomatic patients with high viral loads and in a patient receiving high-flow oxygen in the ICU. Our finding is consistent with the initial observation reported in Singapore where all air samples had no detectable SARS-CoV-2 inside the isolation room, including air samples collected when the sampler was placed next to patients’ heads.
+
+    / June, 2020 - Infection Control & Hospital Epidemiology
+    let !b self assert = Although SARS-CoV-2 was identified in 2 of 3 air outlet fan next to patients’ heads, the level of these fans, whether at the roof or ground level, was not specified. An air outlet fan located at ground level may be easily contaminated by respiratory droplets instead of airborne aerosols. SARS-CoV-2 was detected in the air samples collected in the patients’ area in the ICU in Wuhan, China.10 To interpret these apparently discordant findings, we must note that there is no standardized method for collecting air samples for virological investigation
+
+    / June, 2020 - Infection Control & Hospital Epidemiology
+    let !c self assert = The presence of SARS-CoV-2 in their air samples may be attributed to a larger volume of 9,000 L of air being collected in both the ICU and the general ward. The higher rates of positive air samples in ICUs than that in general wards may be related to the performance of aerosol-generating procedures in ICUs, especially in an ICU with an open-cubicle design. This situation is similar to the occurrence of opportunistic airborne transmission leading to the SARS outbreak in ICU in 2003.
+
+  # Aersol Transmission , !b onwards mitigation - Indoor
+  // Recognizing and controlling airborne transmission of SARS‐CoV‐2 in indoor environments
+  doi: https://doi.org/10.1111/ina.12697
+  ref 'Allen_et_al_06_19_2020
+    head = While the traditional distinction between “droplet” and “airborne” transmission of infectious disease has been useful for setting guidelines on the use of personal protective equipment, it has also established a false dichotomy in understanding the behavior of viruses in the air. Virus‐containing droplets that are released by breathing, talking, and coughing span a continuum of sizes, from 0.01 to hundreds of microns. It is impossible for someone to release “large droplets” (>5 microns) without also releasing smaller ones
+
+    >>> Abstract
+      Sharing indoor space has been confirmed as a major risk factor in transmission of SARS‐CoV‐2. A study of over 7000 cases found that all outbreaks involving three or more people occurred indoors.1 Thus, identifying the dominant modes of transmission is an urgent public health priority so that appropriate control strategies can be selected and deployed. Here, we present three lines of evidence supporting the potential for airborne transmission and recommend steps to mitigate the risk in indoor environments.
+
+    -- exports
+      !a
+    -- Recommended Mitigation Measures
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+
+    / June, 2020 - Indoor Air
+    let !a self assert = Thus, transmission that is purported to occur via the spray of large droplets could in fact be occurring through inhalation of much smaller droplets at close range. In fact, a physics‐based simulation suggests that the majority of exposure at close range occurs by inhalation of small droplets rather than by contact with large droplets that land on the mouth, nose, and eyes, unless the people are closer than 30 cm or the droplets are very large
+
+    / June, 2020 - Indoor Air
+    let !b self assert = Increasing outdoor air ventilation rates above current minimums
+
+    / June, 2020 - Indoor Air
+    let !c self assert = Using high‐efficiency filtration for recirculated air (MERV 13 or greater)
+
+    / June, 2020 - Indoor Air
+    let !d self assert = Verifying that sensitive areas, such as bathrooms and rooms where infected patients are cared for in hospitals and senior homes, are negatively pressurized relative to adjacent areas
+
+    / June, 2020 - Indoor Air
+    let !e self assert = Managing air flow direction and speed to prevent spread of aerosols across occupants
+
+    / June, 2020 - Indoor Air
+    let !f self assert = Consideration of additional technological controls, such as UV germicidal irradiation and portable air purification, in areas and situations where typical building‐level controls are not sufficient.
+
+    / June, 2020 - Indoor Air
+    let !g self assert = Using N95 respirators in healthcare settings.
+
+
+  # Bruton tyrosine kinase - B cell receptor
+  // Inhibition of Bruton tyrosine kinase in patients with severe COVID-19
+  doi: https://doi.org/10.1126/sciimmunol.abd0110
+  ref 'Roschewski_et_al_05_06_2020
+    head = This prospective study of patients with severe COVID-19 highlights the potential benefit of BTK inhibition and has led to a confirmatory international prospective randomized controlled clinical trial. Given the activation of BTK and production of IL-6 that we detected in COVID-19 monocytes, we propose that BTK inhibitors target pathological monocyte/macrophage activation and dampen the cytokine storm, which consequently may improve outcomes in these patients.  More broadly, our findings raise the prospect that the morbidity of other disease states associated with macrophage activation, including severe influenza infections, may similarly depend on BTK function, supporting clinical trial evaluation of BTK inhibitors in these clinical settings as well.
+
+    >>> Abstract
+      Patients with severe COVID-19 have a hyperinflammatory immune response suggestive of macrophage activation. Bruton tyrosine kinase (BTK) regulates macrophage signaling and activation. Acalabrutinib, a selective BTK inhibitor, was administered off label to 19 patients hospitalized with severe COVID-19 (11 on supplemental oxygen and 8 on mechanical ventilation), 18 of whom had increasing oxygen requirements at baseline. Over a 10- to 14-day treatment course, initiation of acalabrutinib treatment was associated with improved oxygenation in a majority of patients, often within 1 to 3 days, and had no discernable toxicity. Measures of inflammation—C-reactive protein and interleukin-6 (IL-6)—normalized quickly in most patients, as did lymphopenia, in correlation with improved oxygenation. At the end of acalabrutinib treatment, 8 of 11 (72.7%) patients in the supplemental oxygen cohort had been discharged on room air, and 4 of 8 (50%) patients in the mechanical ventilation cohort had been successfully extubated, with 2 of 8 (25%) discharged on room air. Ex vivo analysis revealed significantly elevated BTK activity, as evidenced by autophosphorylation, and increased IL-6 production in blood monocytes from patients with severe COVID-19 compared with blood monocytes from healthy volunteers. These results suggest that targeting excessive host inflammation with a BTK inhibitor is a therapeutic strategy in severe COVID-19 and has led to a confirmatory international prospective randomized controlled clinical trial.
+
+    -- exports
+      !c
+      !a
+      !b
+
+    / May, 2020 - Science Immunology
+    let !c self assert = Our clinical and correlative laboratory studies have revealed that BTK is a likely instigator of the pathological inflammatory response in severe COVID-19. We prospectively administered acalabrutinib off-label with therapeutic intent to 19 hospitalized patients with severe COVID-19, based on the known role of BTK in innate immune cells. All but one patient had increasing oxygen requirements at the time of treatment initiation, and all but four patients were on high-flow oxygen or invasive mechanical ventilation, indicating the severity of the disease in this series.
+
+    / May, 2020 - Science Immunology
+    let !a self assert = The oxygenation and clinical status of most patients on supplemental oxygen improved relatively rapidly after acalabrutinib initiation, which was temporally associated with a normalization of inflammatory markers. Although the patients on mechanical ventilation had a more variable clinical response to acalabrutinib, improved oxygenation in half of these patients allowed them to be extubated. Our laboratory studies of ex vivo blood samples from patients hospitalized with COVID-19 revealed significantly elevated BTK phosphorylation in peripheral blood monocytes compared with healthy volunteers, demonstrating that the target of acalabrutinib is activated in these innate immune cells.
+
+    / May, 2020 - Science Immunology
+    let !b self assert = This finding supports our view that the apparent beneficial effect of acalabrutinib in these patients was due to on-target inhibition of BTK. More generally, this study highlights the opportunity to improve outcomes in severe COVID-19 by modulating the host inflammatory response.
+
+
+  # Interferons
+  // Inhibition of SARS-CoV-2 by type I and type III interferons
+  doi: https://doi.org/10.1074/jbc.AC120.013788
+  ref 'Felgenhauer_et_al_06_25_2020
+    head = SARS-CoV-2 generally exhibited a broader IFN sensitivity than SARS-CoV-1. Moreover, ruxolitinib, an inhibitor of IFN-triggered Janus kinase (JAK)/signal transducer and activator of transcription (STAT) signaling, boosted SARS-CoV-2 replication in the IFN-competent Calu-3 cells. We conclude that SARS-CoV-2 is sensitive to exogenously added IFNs. This finding suggests that type I and especially the less adverse effect–prone type III IFN are good candidates for the management of COVID-19.
+
+    >>> Abstract
+      The recently emerged severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) is the causative agent of the devastating COVID-19 lung disease pandemic. Here, we tested the inhibitory activities of the antiviral interferons of type I (IFN-alpha) and type III (IFN-lambda) against SARS-CoV-2 and compared them with those against SARS-CoV-1, which emerged in 2003. Using two mammalian epithelial cell lines (human Calu-3 and simian Vero E6), we found that both IFNs dose-dependently inhibit SARS-CoV-2. In contrast, SARS-CoV-1 was restricted only by IFN-alpha in these cell lines. SARS-CoV-2 generally exhibited a broader IFN sensitivity than SARS-CoV-1. Moreover, ruxolitinib, an inhibitor of IFN-triggered Janus kinase (JAK)/signal transducer and activator of transcription (STAT) signaling, boosted SARS-CoV-2 replication in the IFN-competent Calu-3 cells. We conclude that SARS-CoV-2 is sensitive to exogenously added IFNs. This finding suggests that type I and especially the less adverse effect–prone type III IFN are good candidates for the management of COVID-19.
+
+    # / June, 2020 - Jounral of Biological Chemistry
+    # let !a self assert =
+
+
+  # RNA Vaccine
+  // Phase 1/2 Study to Describe the Safety and Immunogenicity of a COVID-19 RNA Vaccine Candidate (BNT162b1) in Adults 18 to 55 Years of Age: Interim Report
+  doi: https://doi.org/10.1101/2020.06.30.20142570
+  ref 'Mulligan_et_al_07_06_2020
+    head = The RNA-based SARS-CoV-2 vaccine candidate BNT162b1 administered at 10 μg, 30 μg, and 100 μg to healthy adults 18-55 years of age exhibited a tolerability and safety profile consistent with those previously observed for mRNA-based vaccines.
+
+    >>> Abstract
+      Abstract In March 2020, the WHO declared a pandemic of coronavirus disease 2019 (COVID-19), due to severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). With >8.8 million cases and >450,000 deaths reported globally, a vaccine is urgently needed. We report the available safety, tolerability, and immunogenicity data from an ongoing placebo-controlled, observer-blinded dose escalation study among healthy adults, 18-55 years of age, randomized to receive 2 doses, separated by 21 days, of 10 μg, 30 μg, or 100 μg of BNT162b1, a lipid nanoparticle-formulated, nucleoside-modified, mRNA vaccine that encodes trimerized SARS-CoV-2 spike glycoprotein RBD. Local reactions and systemic events were dose-dependent, generally mild to moderate, and transient. RBD-binding IgG concentrations and SARS-CoV-2 neutralizing titers in sera increased with dose level and after a second dose. Geometric mean neutralizing titers reached 1.8- to 2.8-fold that of a panel of COVID-19 convalescent human sera. These results support further evaluation of this mRNA vaccine candidate.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / July, 2020 - medRxiv
+    let !a self assert = A clear dose-level response was observed after Doses 1 and 2 in adults 18-55 years of age. Based on the tolerability profile of the first dose at the 100 µg dose level and the second dose of 30 µg, participants randomized to the 100 µg group did not receive a second vaccination. Reactogenicity was generally higher after the second dose in the other two dosing levels, however symptoms were transient and resolved within a few days.
+
+    / July, 2020 - medRxiv
+    let !b self assert = Transient decreases in lymphocytes (Grades 1-3) were observed within a few days after vaccination, with lymphocyte counts returning to baseline within 6-8 days in all participants. These laboratory abnormalities were not associated with clinical findings. RNA vaccines are known to induce type I interferon which has been associated with transient migration of lymphocytes into tissues.
+
+    / July, 2020 - medRxiv
+    let !c self assert = Robust immunogenicity was observed after vaccination with BNT162b1. RBD-binding IgG concentrations were detected at 21 days after the first dose and substantially increased 7 days after the second dose given at Day 21. After the first dose, the RBD-binding IgG GMCs (10 µg dose recipients) were similar to those observed in a panel of 38 convalescent, human serology samples obtained at least 14 days after PCR-confirmed following SARS-CoV-2 infection/COVID-19 asymptomatic donors. Post-dose 1 GMCs were similar to those of the 30 µg and 100 µg groups but substantially higher than those in the convalescent serum panel. After Dose 2 with 10 µg or 30 µg BNT162b1, the RBD-binding IgG GMCs were ~8.0-fold to ~50-fold that of the convalescent serum panel GMC.
+
+    / July, 2020 - medRxiv
+    let !d self assert = Neutralization titers were measurable after a single vaccination at Day 21 for all dose levels. At Day 28 (7 days after Dose 2), substantial SARS-CoV-2 neutralization titers were observed. The virus neutralizing GMTs after the 10 µg and 30 µg Dose 2 were, respectively, 1.8-fold and 2.8- fold the GMT of the convalescent serum panel. Assuming that neutralization titers induced by natural infection provide protection from COVID-19 disease, comparing vaccine-induced SARSCoV-2 neutralization titers to those from sera of convalescent humans quantifies the magnitude of the vaccine-elicited response and the vaccine’s potential to provide protection
+
+    / July, 2020 - medRxiv
+    let !e self assert = Since the 100 µg dose level cohort was not boosted, no corresponding data for immunogenicity after a second vaccination are available however there were no substantial differences in immunogenicity between the 30 µg and 100 µg dose levels after Dose 1. This observation suggests that a well tolerated and immunogenic dose level may be between 10 µg and 30 µg for this vaccine candidate.
+
+  # Viral Vector Vaccine - ChAdOx1
+  // ChAdOx1 nCoV-19 vaccination prevents SARS-CoV-2 pneumonia in rhesus macaques
+  doi: https://doi.org/10.1101/2020.05.13.093195
+  ref 'Doremalen_et_al_05_13_2020
+    head = Here, we showed that a single vaccination with ChAdOx1 nCoV-19 is effective in preventing damage to the lungs upon high dose challenge with SARS-CoV-2. Similarly a recent study showed that a triple vaccination regime of a high dose of whole inactivated SARS-CoV-2 protected rhesus macaques from SARS-CoV-2 pneumonia.
+
+    >>> Abstract
+      Severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) emerged in December 2019 and is responsible for the COVID-19 pandemic. Vaccines are an essential countermeasure urgently needed to control the pandemic. Here, we show that the adenovirus-vectored vaccine ChAdOx1 nCoV-19, encoding the spike protein of SARS-CoV-2, is immunogenic in mice, eliciting a robust humoral and cell-mediated response. This response was not Th2 dominated, as demonstrated by IgG subclass and cytokine expression profiling. A single vaccination with ChAdOx1 nCoV-19 induced a humoral and cellular immune response in rhesus macaques. We observed a significantly reduced viral load in bronchoalveolar lavage fluid and respiratory tract tissue of vaccinated animals challenged with SARS-CoV-2 compared with control animals, and no pneumonia was observed in vaccinated rhesus macaques. Importantly, no evidence of immune-enhanced disease following viral challenge in vaccinated animals was observed. ChAdOx1 nCoV-19 is currently under investigation in a phase I clinical trial. Safety, immunogenicity and efficacy against symptomatic PCR-positive COVID-19 disease will now be assessed in randomised controlled human clinical trials.
+      We previously demonstrated that a single dose of ChAdOx1 MERS, a chimpanzee adeno (ChAd)-vectored vaccine platform encoding the spike protein of MERS-CoV, protected non-human primates (NHPs) against MERS-CoV-induced disease. Here, we designed a ChAdOx1-vectored vaccine encoding a codon-optimised full-length spike protein of SARS-CoV-2 (YP_009724390.1) with a human tPA leader sequence, provisionally named ChAdOx1 nCoV-19, similar to the approach for ChAdOx1 MERS5.
+
+    -- exports
+      !a
+      !b
+
+    / May, 2020 - bioRxiv
+    let !a self assert = Viral loads in BAL fluid and lung tissue of vaccinated animals were significantly reduced, suggesting that vaccination prevents virus replication in the lower respiratory tract. Despite this marked difference in virus replication in the lungs, reduction in viral shedding from the nose was not observed. However, animals were challenged with a high dose of virus via multiple routes, which likely does not reflect a realistic human exposure. Whether a lower challenge dose would result in more efficient protection of the upper respiratory tract remains to be determined.
+
+    / May, 2020 - bioRxiv
+    let !b self assert = Several preclinical studies of vaccines against SARS-CoV-1 resulted in immunopathology after vaccination and challenge, with more severe disease in vaccinated animals than in controls. Importantly, we did not see any evidence of immune-enhanced disease in vaccinated animals. The immune response was not skewed towards a Th2 response in mice nor in NHPs, there was no increase in clinical signs or virus replication throughout the study in vaccinated NHPs compared to controls and no markers of disease enhancement in lung tissue of NHPs, such as an influx of neutrophils were observed.
+
+  # Viral Vector Vaccine - ChAdOx1
+  // Evaluation of the immunogenicity of prime-boost vaccination with the replication-deficient viral vectored COVID-19 vaccine candidate ChAdOx1 nCoV-19
+  doi: https://doi.org/10.1101/2020.06.20.159715
+  ref 'Graham_et_al_06_20_2020
+    head = In this study, we utilised both a small and a large animal model to evaluate the immunogenicity of either one or two doses of a COVID-19 vaccine candidate, ChAdOx1 nCoV-19 (now known as AZD1222).
+
+    >>> Abstract
+      Clinical development of the COVID-19 vaccine candidate ChAdOx1 nCoV-19, a replication-deficient simian adenoviral vector expressing the full-length SARS-CoV-2 spike (S) protein was initiated in April 2020 following non-human primate studies using a single immunisation. Here, we compared the immunogenicity of one or two doses of ChAdOx1 nCoV-19 in both mice and pigs. Whilst a single dose induced antigen-specific antibody and T cells responses, a booster immunisation enhanced antibody responses, particularly in pigs, with a significant increase in SARS-CoV-2 neutralising titres.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / June, 2020 - bioRxiv
+    let !a self assert = The mouse data generated in this study suggested that the immunogenicity profile was at the upper end of a dose response curve, which may have saturated the immune response and largely obscured our ability to determine differences between prime-only or prime-boost regimens.
+
+    / June, 2020 - bioRxiv
+    let !b self assert = We show here that T cell responses are higher in pigs that received a prime-boost vaccination when compared to prime only at day 42, whilst comparing responses 14 days after last immunisation demonstrates the prime-boost regimen trended toward a higher response.
+
+    / June, 2020 - bioRxiv
+    let !c self assert =  In addition, ChAdOx1 nCoV-19 immunisation induced robust Th1-like CD4+ and CD8+ T cell responses in both pigs and mice. This has important implications for COVID-19 vaccine development as virus-specific T cells are thought to play an important role in SARS-CoV-2 infection.
+
+    / June, 2020 - bioRxiv
+    let !d self assert = While no correlate of protection has been defined for COVID-19, recent publications suggest that neutralising antibody titres may be correlated with protection in animal challenge models
+
+    / June, 2020 - bioRxiv
+    let !e self assert =  A single dose of ChAdOx1 nCoV-19 induces antibody responses, but we demonstrate here that antibody responses are significantly enhanced after homologous boost in one mouse strain and to a greater extent in pigs. However, it is likely that a combination of neutralising antibodies and antigen-specific T cells would act in synergy to prevent and control infection, as we have recently shown in the context of influenza vaccination.
+
+  # BCG Inflitration of T Cell
+  // Identification of sex differences in tumor-specific T cell infiltration in bladder tumor-bearing mice treated with BCG immunotherapy
+  doi: https://doi.org/10.1101/2020.06.19.161554
+  ref 'Rousseau_et_al_06_20_2020
+    head = Our intention is that these models be used by the bladder cancer research community to help establish a rational basis for therapeutic intervention, such as targeted depletion of specific immune cells or inhibition of immunosuppressive cytokines as alternative or combination treatments. Understanding how resident and recruited immune cell populations, such as macrophages, DCs, and T cells modulate response to therapy and identification of suppressive pathways will aid development of novel combination strategies to improve patient response.
+
+    >>> Abstract
+      Bladder cancer is the fourth most common cancer for men. However, women are often diagnosed with later stage disease and have poorer outcomes. Whether immune-based sex differences contribute to this discrepancy is unclear. In addition, models to investigate tumor-specific immunity in bladder cancer, in the context of tumor development or response to therapy, are lacking. To address this specific unmet need, we incorporated a commonly used model antigen, ovalbumin, into two well-established models of bladder cancer; the orthotopic MB49 cell line model and the carcinogenic BBN bladder cancer model. We tested the utility of these models to investigate tumor-specific immunity in the context of immunotherapy in both sexes. We found that BCG vaccination, prior to weekly BCG instillation does not impart an immune-specific benefit to tumor-bearing mice in the context of multiple BCG instillations. Furthermore, tumors developed in the testes in male mice, precluding the use of the MB49 model to directly investigate sex-based immune differences. In the BBN model, we observed that more tumor antigen-specific CD8+ T cells infiltrated male bladders compared to female bladders in the context of BCG immunotherapy and that these cells had the highest levels of the exhaustion marker PD-1. We propose our modified BBN model will contribute to our understanding of how tumor-specific immunity arises in bladder cancer. Additionally, the BBN bladder cancer model may help to uncover sex differences in tumor-specific immunity, which would provide valuable information for the development of new treatments or combination therapies for bladder cancer in women and men.
+
+    -- exports
+       !a
+       !b
+
+    / June, 2020 - bioRxiv
+    let !a self assert = We began by investigating the impact of BCG vaccination on the immune response to BCG therapy. We found increased infiltration of monocyte-derived cells and CD4+ T cells when BCG-vaccinated nontumor-bearing mice were instilled with BCG three times, however CD8+ T cell infiltration was not different from that observed in the control PBS-injected, tumor-naïve mice instilled with BCG three times, suggesting that benefits from vaccination may be overcome by repeated instillation.
+
+    / June, 2020 - bioRxiv
+    let !b self assert =  BCG vaccination did not impact the infiltration of total CD4+ or CD8+ T cells into MB49 tumor-bearing mice treated with BCG three times, nor did it alter infiltration of any immune cell subset measured in the BBN tumor model.
+
+  # Age - Variant Pop
+  // COVID-19 is an emergent disease of aging
+  doi: https://doi.org/10.1101/2020.04.15.20060095
+  ref 'Santesmasses_et_al_04_15_2020
+    head = Our study establishes COVID-19 as an emergent disease of aging. This conclusion is based on (i) an exponential growth of its CFR with age, (ii) the COVID-19 mortality rate doubling time approaching that of all-cause human mortality, (iii) higher mortality in men than in women, (iv) strong association with pre-existing age-related diseases, (v) COVID-19 being a subset of all-cause pneumonia, which is itself a disease of aging, and (vi) an age-related increase in the SARS-CoV-2 receptor mRNA expression in the lungs of non-ventilator subjects. Together, this puts COVID-19 in line with the archetypical diseases of aging, such as type II diabetes, cancer, Alzheimer’s disease, and cardiovascular diseases.
+
+    >>> Abstract
+      COVID-19 is an ongoing pandemic caused by the SARS-CoV-2 coronavirus that poses one of the greatest challenges to public health in recent years. SARS-CoV-2 is highly contagious and often leads to severe viral pneumonia with respiratory failure and death in the elderly and subjects with pre-existing conditions, but the reason for this age dependence is unclear. Here, we found that the case fatality rate for COVID-19 grows exponentially with age in Italy, Spain, South Korea, and China, with the doubling time approaching that of all-cause human mortality. In addition, men and those with multiple age-related diseases are characterized by increased mortality. Moreover, similar mortality patterns were found for all-cause pneumonia. We further report that the gene expression of ACE2, the SARS-CoV-2 receptor, grows in the lung with age, except for subjects on a ventilator. Together, our findings establish COVID-19 as an emergent disease of aging, and age and age-related diseases as its major risk factors. In turn, this suggests that COVID-19, and deadly respiratory diseases in general, may be targeted, in addition to therapeutic approaches that affect specific pathways, by approaches that target the aging process.
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / April, 2020 - medRxiv
+    let !a self assert = Our finding of an elevated age-related expression of ACE2 in the lungs of subjects with non-ventilator deaths may provide a clue. ACE2 is the site for the entry of SARS-CoV-2 into the cell. An age-related increase in the expression of this gene, together with the depletion of antiviral defenses, would naturally support a higher damaging effect of the coronavirus in the lung. It should be noted, however, that while ACE2 specifically promotes SARS-coronavirus infections, it also protects lungs from injury.
+
+    / April, 2020 - medRxiv
+    let !b self assert = In addition, various tissues harbor different ACE2 gene expression levels and may account for complications other than pneumonia, such as diarrhea observed in a small sample of COVID-19 positive patients. At the protein level, lung and its alveolar type II cells were found to have low or undetectable ACE2 protein levels. Interestingly, ventilator cases showed no increase in ACE2 expression with age. The main difference between ventilator and non-ventilator cases is in the young subjects, wherein the expression of ACE2 in the ventilator cases is higher. The implications of variable expression patterns of ACE2 mRNA and protein across ages, tissues, and ventilator cases should be investigated in further studies.
+
+    / April, 2020 - medRxiv
+    let !c self assert = Vaccines are less efficient in the elderly, leading to a high rate of infections even in vaccinated individuals. For example, the yearly influenza vaccine is only 40% to 60% efficient in older individuals. Therefore, targeting ACE2 may be viewed as both an immediate and a long-term strategy. However, as the case fatality rate grows with age, it should be possible to also adjust the pace of aging thereby targeting COVID-19. There are plenty of candidates for such a strategy.
+
+
+  # Dexamethasone
+  // Statistical review of Effect of Dexamethasone in Hospitalized Patients with COVID-19 – Preliminary Report
+  doi: https://doi.org/10.5281/zenodo.3928540
+  ref 'Morris_et_al_07_02_2020
+    head = Overall, this was a well-conducted, well-designed, practice-changing clinical trial providing the most convincing evidence to date of an efficacious treatment in hospitalised COVID-19 patients. However, there are a number of issues, primarily around the reporting of the trial, that should ideally be resolved prior to final publication. We also urge caution against over-interpreting the estimated subgroup-specific effects based on level of respiratory support, especially the suggestion of harm in the group not on oxygen or mechanical ventilation.
+
+    -- exports
+       !a
+
+    / July, 2020 - Zenodo
+    let !a self assert = Prior to the completion of this trial, many COVID-19 treatment guidelines have stated thatcorticosteroids are either ‘contraindicated’ or ‘not recommended’ in COVID-19.19 These shouldnow be updated, as has already happened within the UK.27 Dexamethasone provides aneffective treatment for the sickest patients with COVID-19 and, given its low cost, wellunderstood safety profile, and widespread availability, is one that can be used worldwide.
+
+  # Tocilizumab
+  // Tocilizumab in patients with severe COVID-19: a retrospective cohort study
+  doi: https://doi.org/10.1016/S2665-9913(20)30173-9
+  ref 'Guaraldi_et_al_06_24_2020
+    head = In the real-life setting of the TESEO cohort, we found a significant reduction in risk of invasive mechanical ventilation or death in patients with severe COVID-19 pneumonia who were treated with either intravenous or subcutaneous tocilizumab and standard of care, compared with those treated with standard of care only. The association with the use of tocilizumab was stronger when overall mortality risk was analysed alone.
+
+    >>> Background
+      No therapy is approved for COVID-19 pneumonia. The aim of this study was to assess the role of tocilizumab in reducing the risk of invasive mechanical ventilation and death in patients with severe COVID-19 pneumonia who received standard of care treatment.
+    >>> Methods
+      This retrospective, observational cohort study included adults (≥18 years) with severe COVID-19 pneumonia who were admitted to tertiary care centres in Bologna and Reggio Emilia, Italy, between Feb 21 and March 24, 2020, and a tertiary care centre in Modena, Italy, between Feb 21 and April 30, 2020. All patients were treated with the standard of care (ie, supplemental oxygen, hydroxychloroquine, azithromycin, antiretrovirals, and low molecular weight heparin), and a non-randomly selected subset of patients also received tocilizumab. Tocilizumab was given either intravenously at 8 mg/kg bodyweight (up to a maximum of 800 mg) in two infusions, 12 h apart, or subcutaneously at 162 mg administered in two simultaneous doses, one in each thigh (ie, 324 mg in total), when the intravenous formulation was unavailable. The primary endpoint was a composite of invasive mechanical ventilation or death. Treatment groups were compared using Kaplan-Meier curves and Cox regression analysis after adjusting for sex, age, recruiting centre, duration of symptoms, and baseline Sequential Organ Failure Assessment (SOFA) score.
+    >>> Findings
+      Of 1351 patients admitted, 544 (40%) had severe COVID-19 pneumonia and were included in the study. 57 (16%) of 365 patients in the standard care group needed mechanical ventilation, compared with 33 (18%) of 179 patients treated with tocilizumab (p=0·41; 16 [18%] of 88 patients treated intravenously and 17 [19%] of 91 patients treated subcutaneously). 73 (20%) patients in the standard care group died, compared with 13 (7%; p<0·0001) patients treated with tocilizumab (six [7%] treated intravenously and seven [8%] treated subcutaneously). After adjustment for sex, age, recruiting centre, duration of symptoms, and SOFA score, tocilizumab treatment was associated with a reduced risk of invasive mechanical ventilation or death (adjusted hazard ratio 0·61, 95% CI 0·40–0·92; p=0·020). 24 (13%) of 179 patients treated with tocilizumab were diagnosed with new infections, versus 14 (4%) of 365 patients treated with standard of care alone (p<0·0001).
+    >>> Interpretation
+      Treatment with tocilizumab, whether administered intravenously or subcutaneously, might reduce the risk of invasive mechanical ventilation or death in patients with severe COVID-19 pneumonia.
+
+    -- exports
+       !a
+
+    / June, 2020 - The Lancet Rheumatol
+    let !a self assert =  Tocilizumab, administered intravenously or subcutaneously, can be considered together with anakinra as one of the immunomodulatory drugs that have been tested in clinical care for the treatment of severe COVID-19 pneumonia. In the present study, IL-6 levels remained stable after tocilizumab administration but decreased in people receiving standard of care only. This finding was expected because tocilizumab competitively blocks IL-6 receptors and leaves free IL-6 in plasma. Longer follow-up and larger sample sizes are needed to better understand the prognostic role of IL-6 concentrations and other biomarkers in patients with COVID-19 pneumonia who are treated with tocilizumab.
 
   # Tocilizumab
   // Tocilizumab Treatment for Cytokine Release Syndrome in Hospitalized COVID-19 Patients: Survival and Clinical Outcomes

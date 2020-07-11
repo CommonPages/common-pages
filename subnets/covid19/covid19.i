@@ -29,7 +29,6 @@
   Diagnostics
   Mitigation
   Remediation
-  Projections
   PublicPolicy
 
 -- Feeds
