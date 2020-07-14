@@ -29,12 +29,21 @@ feed Research
   / July, 2020
   feed July2020
     --
+      'Houlihan_et_al_07_09_2020
+      'Richard_et_al_07_08_2020
+      'Harbourt_et_al_07_03_2020
       'Mulligan_et_al_07_06_2020
       'Morris_et_al_07_02_2020
 
   / June, 2020
   feed June2020
     --
+      'Stutt_et_al_06_10_2020
+      'Ma_et_al_06_02_2020
+      'Horve_et_al_06_28_2020
+      'Stadnytskyi_et_al_06_02_2020
+      'Ou_et_al_06_04_2020
+      'Konda_et_al_06_18_2020
       'Miller_et_al_06_18_2020
       'Rockey_et_al_06_23_2020
       'Cheng_et_al_06_08_2020
@@ -63,6 +72,7 @@ feed Research
   / May, 2020
   feed May2020
     --
+      'Vuorinen_et_al_05_31_2020
       'Roschewski_et_al_05_06_2020
       'Doremalen_et_al_05_13_2020
       'Li_et_al_05_05_2020
@@ -164,6 +174,7 @@ feed Research
   / April, 2020
   feed April2020
     --
+      'Shen_et_al_04_03_2020
       'Santesmasses_et_al_04_15_2020
       'Gordon_et_al_04_30_2020
       'Ohashi_et_al_04_15_2020
@@ -260,6 +271,9 @@ feed Research
   / March, 2020
   feed March2020
     --
+      'Doremalen_et_al_03_17_2020
+      'Ritchie_et_al_03_24_2020
+      'Michot_et_al_03_06_2020
       'Conti_et_al_03_14_2020
       'Boni_et_al_03_31_2020
       'Arentz_et_al_2020
@@ -786,6 +800,274 @@ feed Research
       'Hamburger_et_al_1948
 
   #
+
+  #
+  // Antibody cocktail to SARS-CoV-2 spike protein prevents rapid mutational escape seen with individual antibodies
+  doi: https://doi.org/10.1126/science.abd0831
+  ref 'Baum_et_al_06_11_2020
+    head = Novel spike mutants rapidly appeared following in vitro passaging in the presence of individual antibodies, resulting in loss of neutralization; such escape also occurred with combinations of antibodies binding diverse but overlapping regions of the spike protein. Importantly, escape mutants were not generated following treatment with a non-competing antibody cocktail.
+
+    >>> Abstract
+      Antibodies targeting the spike protein of SARS-CoV-2 present a promising approach to combat the COVID19 pandemic; however, concerns remain that mutations can yield antibody resistance. We investigate the development of resistance against four antibodies to the spike protein that potently neutralize SARS-CoV-2, individually as well as when combined into cocktails. These antibodies remain effective against spike variants that have arisen in the human population. However, novel spike mutants rapidly appeared following in vitro passaging in the presence of individual antibodies, resulting in loss of neutralization; such escape also occurred with combinations of antibodies binding diverse but overlapping regions of the spike protein. Importantly, escape mutants were not generated following treatment with a non-competing antibody cocktail.
+
+    -- exports
+      !a
+
+    / June, 2020 - American Association for the Advancement of Science
+    let !a self assert =
+
+
+  # Frontiers - Vaccine Design
+  // Isolation of potent SARS-CoV-2 neutralizing antibodies and protection from disease in a small animal model
+  doi: https://doi.org/10.1126/science.abc7520
+  ref 'Rogers_et_al_06_11_2020
+    head = The results suggest a focus on the RBD and indeed strong nAb responses have been described by immunizing mice with a multivalent presentation of RBD.
+
+    >>> Abstract
+      Countermeasures to prevent and treat COVID-19 are a global health priority. We enrolled a cohort of SARS-CoV-2-recovered participants, developed neutralization assays to interrogate antibody responses, adapted our high-throughput antibody generation pipeline to rapidly screen over 1800 antibodies, and established an animal model to test protection. We isolated potent neutralizing antibodies (nAbs) to two epitopes on the receptor binding domain (RBD) and to distinct non-RBD epitopes on the spike (S) protein. We showed that passive transfer of a nAb provides protection against disease in high-dose SARS-CoV-2 challenge in Syrian hamsters, as revealed by maintained weight and low lung viral titers in treated animals. The study suggests a role for nAbs in prophylaxis, and potentially therapy, of COVID-19. The nAbs define protective epitopes to guide vaccine design.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+
+    / June, 2020 - American Association for the Advancement of Science
+    let !a self assert = The recombinant S protein that we used to select B cells is a poor representation of the native spike on virions. In other words, there may be many nAbs to S but we failed to isolate them because of the selecting antigen.
+
+    / June, 2020 - American Association for the Advancement of Science
+    let !b self assert = The recombinant S protein that we used is close to native but non-neutralizing antibodies bind to sites on S that do not interfere with viral entry
+
+    / June, 2020 - American Association for the Advancement of Science
+    let !c self assert = The S protein in natural infection disassembles readily generating a strong Ab response to “viral debris” that is non-neutralizing because the antibodies recognize protein surfaces that are not exposed on the native spike.
+
+    / June, 2020 - American Association for the Advancement of Science
+    let !d self assert = Importantly, the availability of both neutralizing and non-neutralizing antibodies generated in this study will facilitate evaluation of S protein immunogens for presentation of neutralizing and non-neutralizing epitopes and promote effective vaccine design. The design of an immunogen that improves on the quality of nAbs elicited by natural infection may well emerge as an important goal of vaccine efforts.
+
+
+  # Frontiers Vaccine
+  // Potent neutralizing antibodies from COVID-19 patients define multiple targets of vulnerability
+  doi: https://doi.org/10.1126/science.abc5902
+  ref 'Brouwer_et_al_06_10_2020
+    head = Convalescent COVID-19 patients showed strong anti-SARS-CoV-2 S protein specific B cell responses and developed memory and antibody producing B cells that may have participated in the control of infection and the establishment of humoral immunity. We isolated 19 NAbs that target a diverse range of antigenic sites on the S protein, of which two showed picomolar neutralizing activities (IC50s of 0.007 and 0.009 μg/mL or 47 and 60 pM) against authentic SARS-CoV-2 virus.
+
+    >>> Abstract
+      The rapid spread of SARS-CoV-2 has a significant impact on global health, travel and economy. Therefore, preventative and therapeutic measures are urgently needed. Here, we isolated monoclonal antibodies from three convalescent COVID-19 patients using a SARS-CoV-2 stabilized prefusion spike protein. These antibodies had low levels of somatic hypermutation and showed a strong enrichment in VH1-69, VH3-30-3 and VH1-24 gene usage. A subset of the antibodies were able to potently inhibit authentic SARS-CoV-2 infection as low as 0.007 μg/mL. Competition and electron microscopy studies illustrate that the SARS-CoV-2 spike protein contains multiple distinct antigenic sites, including several receptor-binding domain (RBD) epitopes as well as non-RBD epitopes. In addition to providing guidance for vaccine design, the antibodies described here are promising candidates for COVID-19 treatment and prevention.
+
+    -- exports
+      !a
+      !b
+
+    / June, 2020 - American Association for the Advancement of Science
+    let !a self assert = SARS-CoV-2 infection elicits high-affinity and cross-reactive mAbs targeting the RBD as well as other sites on the S protein. Several of the potent NAbs had VH segments virtually identical to their germline origin, which holds promise for the induction of similar NAbs by vaccination as extensive affinity maturation does not appear to be a requirement for potent neutralization. Interestingly, the most potent NAbs both target the RBD on the S protein and fall within the same competition cluster, but are isolated from two different individuals and bear little resemblance genotypically.
+
+    / June, 2020 - American Association for the Advancement of Science
+    let !b self assert = hrough large-scale SPR-based competition assays, we defined NAbs that target multiple sites of vulnerability on the RBD as well as additional previously undefined non-RBD epitopes on SARS-CoV-2. This is consistent with the identification of multiple antigenic RBD sites for SARS-CoV-2 and the presence of additional non-RBD sites on the S protein of SARS-CoV and MERS-CoV. Subsequent structural characterization of these potent NAbs will guide vaccine design, while simultaneous targeting of multiple non-RBD and RBD epitopes with mAb cocktails paves the way for safe and effective COVID-19 prevention and treatment.
+
+  # Seroconversion - Nonsomical mitigation
+  // Pandemic peak SARS-CoV-2 infection and seroconversion rates in London frontline health-care workers
+  doi: https://doi.org/10.1016/S0140-6736(20)31484-7
+  ref 'Houlihan_et_al_07_09_2020
+    head = Our finding that 44% of HCWs show evidence of SARS-CoV-2 infection either by RT-PCR or serology in a frontline setting is higher than reported by others in the UK and worldwide. Differences with Chinese and Dutch data might be explained by the different study designs and the extent of implementation (or not) of both PPE and community lockdown measures. Evidence of infection in our central London HCWs was more than double that of the London population.
+
+    -- exports
+      !a
+
+    / July, 2020 - The Lancet
+    let !a self assert = These data highlight the urgent need to implement policies to better protect HCWs and for regular asymptomatic HCW surveillance in hospital settings that will protect both HCW staff and patients from nosocomial transmission through a potential SARS-CoV-2 second wave. Vaccines, if and when they become available, should initially be prioritised for HCWs.
+
+  # FaceMask
+  // A modelling framework to assess the likely effectiveness of facemasks in combination with ‘lock-down’ in managing the COVID-19 pandemic
+  doi: https://doi.org/10.1098/rspa.2020.0376
+  ref 'Stutt_et_al_06_10_2020
+    head = Both of our models show that, under a wide range of plausible parameter conditions, facemask use by the public could significantly reduce the rate of COVID-19 spread, prevent further disease waves and allow less stringent lock-down regimes. The effect is greatest when 100% of the public wear facemasks.
+
+    >>> Abstract
+      COVID-19 is characterized by an infectious pre-symptomatic period, when newly infected individuals can unwittingly infect others. We are interested in what benefits facemasks could offer as a non-pharmaceutical intervention, especially in the settings where high-technology interventions, such as contact tracing using mobile apps or rapid case detection via molecular tests, are not sustainable. Here, we report the results of two mathematical models and show that facemask use by the public could make a major contribution to reducing the impact of the COVID-19 pandemic. Our intention is to provide a simple modelling framework to examine the dynamics of COVID-19 epidemics when facemasks are worn by the public, with or without imposed ‘lock-down’ periods. Our results are illustrated for a number of plausible values for parameter ranges describing epidemiological processes and mechanistic properties of facemasks, in the absence of current measurements for these values. We show that, when facemasks are used by the public all the time (not just from when symptoms first appear), the effective reproduction number, Re, can be decreased below 1, leading to the mitigation of epidemic spread. Under certain conditions, when lock-down periods are implemented in combination with 100% facemask use, there is vastly less disease spread, secondary and tertiary waves are flattened and the epidemic is brought under control. The effect occurs even when it is assumed that facemasks are only 50% effective at capturing exhaled virus inoculum with an equal or lower efficiency on inhalation. Facemask use by the public has been suggested to be ineffective because wearers may touch their faces more often, thus increasing the probability of contracting COVID-19. For completeness, our models show that facemask adoption provides population-level benefits, even in circumstances where wearers are placed at increased risk. At the time of writing, facemask use by the public has not been recommended in many countries, but a recommendation for wearing face-coverings has just been announced for Scotland. Even if facemask use began after the start of the first lock-down period, our results show that benefits could still accrue by reducing the risk of the occurrence of further COVID-19 waves. We examine the effects of different rates of facemask adoption without lock-down periods and show that, even at lower levels of adoption, benefits accrue to the facemask wearers. These analyses may explain why some countries, where adoption of facemask use by the public is around 100%, have experienced significantly lower rates of COVID-19 spread and associated deaths. We conclude that facemask use by the public, when used in combination with physical distancing or periods of lock-down, may provide an acceptable way of managing the COVID-19 pandemic and re-opening economic activity. These results are relevant to the developed as well as the developing world, where large numbers of people are resource poor, but fabrication of home-made, effective facemasks is possible. A key message from our analyses to aid the widespread adoption of facemasks would be: ‘my mask protects you, your mask protects me’.
+
+    -- exports
+      !a
+
+    / June, 2020 - Annals of the New York Academy of Sciences
+    let !a self assert = It follows that the adoption of this simple technology ought to be re-evaluated in countries where facemask use is not being encouraged. Within the parameter regimes tested, the models also show that, if COVID-19 is to be controlled or eradicated, early lock-down combined with facemask adoption by close to 100% by the public needs to occur. This, of course, does not exclude the implementation of other management interventions, such as widespread testing and contact tracing.
+
+  # Airborne Transmission
+  // SARS-CoV-2 is transmitted via contact and via the air between ferrets
+  doi: https://doi.org/10.1038/s41467-020-17367-2
+  ref 'Richard_et_al_07_08_2020
+    head = Here we provide the first experimental evidence that SARS-CoV-2 can be transmitted efficiently via the air between ferrets, resulting in a productive infection and the detection of infectious virus in indirect recipients, as a model for human-to-human transmission.
+
+    >>> Abstract
+      SARS-CoV-2, a coronavirus that emerged in late 2019, has spread rapidly worldwide, and information about the modes of transmission of SARS-CoV-2 among humans is critical to apply appropriate infection control measures and to slow its spread. Here we show that SARS-CoV-2 is transmitted efficiently via direct contact and via the air (via respiratory droplets and/or aerosols) between ferrets, 1 to 3 days and 3 to 7 days after exposure respectively. The pattern of virus shedding in the direct contact and indirect recipient ferrets is similar to that of the inoculated ferrets and infectious virus is isolated from all positive animals, showing that ferrets are productively infected via either route. This study provides experimental evidence of robust transmission of SARS-CoV-2 via the air, supporting the implementation of community-level social distancing measures currently applied in many countries in the world and informing decisions on infection control measures in healthcare settings.
+
+    -- exports
+      !a
+      !b
+
+    / July, 2020 - Nature Communications
+    let !b self assert = Here, no infectious virus was retrieved from any of the rectal swabs. Despite this, it cannot be fully excluded that SARS-CoV-2 was also transmitted from donors to direct contact ferrets partly via the fecal-oral route.
+
+    / July, 2020 - Nature Communications
+    let !a self assert = SARS-CoV-2 was efficiently transmitted via the air between ferrets, as demonstrated by long-term virus shedding and the presence of infectious virus in the indirect recipient animals, which is comparable to the transmissibility of pandemic influenza viruses in the ferret model.
+
+  # Airborne Transmission
+  // Exhaled breath is a significant source of SARS-CoV-2 emission
+  doi: https://doi.org/10.1101/2020.05.31.20115154
+  ref 'Ma_et_al_06_02_2020
+    head = Evidences from our work show that exhaled breath emission may well be the most significant SARS-CoV-2 shedding mechanism, which could have contributed largely to the observed cluster infections and the ongoing pandemic. Accordingly, measures such as enhanced ventilation and the use of face masks are essential to minimize the risk of infection by airborne SARS-CoV-2.
+
+    >>> Abstract
+      Despite notable efforts in airborne SARS-CoV-2 detection, no clear evidence has emerged to show how SARS-CoV-2 is emitted into the environments. Here, 35 COVID-19 subjects were recruited; exhaled breath condensate (EBC), air samples and surface swabs were collected and analyzed for SARS-CoV-2 using reverse transcription-polymerase chain reaction (RT-PCR). EBC samples had the highest positive rate (16.7%, n=30), followed by surface swabs (5.4%, n=242), and air samples (3.8%, n=26). COVID-19 patients were shown to exhale SARS-CoV-2 into the air at an estimated rate of 103-105 RNA copies/min; while toilet and floor surfaces represented two important SARS-CoV-2 reservoirs. Our results imply that airborne transmission of SARS-CoV-2 plays a major role in COVID-19 spread, especially during the early stages of the disease.
+
+    -- exports
+      !a
+
+    / June, 2020 - medRxiv
+    let !a self assert = Large respiratory droplets and direct contact transmissions are presently cited as major transmission routes for the COVID-19. In contrast, we show that the surfaces of mobile phones (n=22) and various handles (n=35) frequently used by COVID-19 patients presented very low probabilities of SARS-CoV-2 presence (9.0% and 0%, respectively).
+
+  # Surface transmission
+  // Modeling the Stability of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) on Skin, Currency, and Clothing
+  doi: https://doi.org/10.1101/2020.07.01.20144253
+  ref 'Harbourt_et_al_07_03_2020
+    head = We have found that the skin samples were most hospitable for SARS-CoV-2, especially under refrigerated conditions. There are noticeable differences in virus decay rates at increasing temperatures which aligns with previous literature (13). Similar stability profiles were observed in both the currency and clothing samples. All three samples retained viable virus out to at least 96 h at 4°C with no recoverable virus beyond 8 h at 22°C in any of the three surfaces.
+
+    >>> Abstract
+      A new coronavirus (SARS-CoV-2) emerged in the winter of 2019 in Wuhan, China, and rapidly spread around the world. The extent and efficiency of SARS-CoV-2 pandemic is far greater than previous coronaviruses that emerged in the 21st Century. Here, we modeled stability of SARS-CoV-2 on skin, paper currency, and clothing to determine if these surfaces may factor in the fomite transmission dynamics of SARS-CoV-2. Skin, currency, and clothing samples were exposed to SARS-CoV-2 under laboratory conditions and incubated at three different temperatures (4C, 22C, and 37C). Stability was evaluated at 0 hours (h), 4 h, 8 h, 24 h, 72 h, 96 h, 7 days, and 14 days post-exposure. SARS-CoV-2 was shown to be stable on skin through the duration of the experiment at 4C (14 days). Virus remained stable on skin for at least 96 h at 22C and for at least 8h at 37C. There were minimal differences between the tested currency samples. The virus remained stable on the $1 U.S.A. Bank Note for at least 96 h at 4C while viable virus was not detected on the $20 U.S.A. Bank Note samples beyond 72 h. The virus remained stable on both Bank Notes for at least 8 h at 22C and 4 h at 37C. Clothing samples were similar in stability to the currency with the virus being detected for at least 96 h at 4C and at least 4 h at 22C. No viable virus was detected on clothing samples at 37C after initial exposure. This study confirms the inverse relationship between virus stability and temperature. Furthermore, virus stability on skin demonstrates the need for continued hand hygiene practices to minimize fomite transmission both in the general population as well as workplaces where close contact is common.
+
+    -- exports
+      !a
+      !b
+
+    / July, 2020 - medRxiv
+    let !a self assert = There were small differences in viral concentration between the $1 U.S.A. Bank Note and $20 U.S.A. Bank Note samples, but they were not statistically significant. It is possible that differences in ink type, concentration, or both, affected virus stability and could warrant further study.
+
+    / July, 2020 - medRxiv
+    let !b self assert = We report the results of SARS-CoV-2 stability on animal skin as a series of outbreaks have been reported in the United States meat packing industry. Since most meat packing and processing procedures are carried out between 4-8°C, it is likely that any viral shedding from either symptomatic or asymptomatic workers in the absence of appropriate PPE would remain viable for an extended period of time on the surface of meat products or other surfaces
+
+  # Aersol
+  // Modelling aerosol transport and virus exposure with numerical simulations in relation to SARS-CoV-2 transmission by inhalation indoors
+  doi: https://doi.org/xyz
+  ref 'Vuorinen_et_al_05_31_2020
+    head = We study susceptible and infected individuals in generic public places by Monte-Carlo modelling. The developed model takes into account the locally varying aerosol concentration levels which the susceptible accumulate via inhalation. The introduced concept, ’exposure time’ to virus containing aerosols is proposed to complement the traditional ’safety distance’ thinking. We show that the exposure time to inhale  aerosols could range from  to  or even to  depending on the situation. The Monte-Carlo simulations, along with the theory, provide clear quantitative insight to the exposure time in different public indoor environments.
+
+    >>> Abstract
+      We provide research findings on the physics of aerosol and droplet dispersion relevant to the hypothesized aerosol transmission of SARS-CoV-2 during the current pandemic. We utilize physics-based modeling at different levels of complexity, along with previous literature on coronaviruses, to investigate the possibility of airborne transmission. The previous literature, our 0D-3D simulations by various physics-based models, and theoretical calculations, indicate that the typical size range of speech and cough originated droplets () allows lingering in the air for ) so that they could be inhaled. Consistent with the previous literature, numerical evidence on the rapid drying process of even large droplets, up to sizes , into droplet nuclei/aerosols is provided. Based on the literature and the public media sources, we provide evidence that the individuals, who have been tested positive on COVID-19, could have been exposed to aerosols/droplet nuclei by inhaling them in significant numbers e.g. . By 3D scale-resolving computational fluid dynamics (CFD) simulations, we give various examples on the transport and dilution of aerosols () over distances  in generic environments. We study susceptible and infected individuals in generic public places by Monte-Carlo modelling. The developed model takes into account the locally varying aerosol concentration levels which the susceptible accumulate via inhalation. The introduced concept, ’exposure time’ to virus containing aerosols is proposed to complement the traditional ’safety distance’ thinking. We show that the exposure time to inhale  aerosols could range from  to  or even to  depending on the situation. The Monte-Carlo simulations, along with the theory, provide clear quantitative insight to the exposure time in different public indoor environments.
+
+    -- exports
+      !a
+
+    / May, 2020 - Safety Science
+    let !a self assert = Considering previous literature, we found that typical cough or speech generated droplets (e.g. d<20μm) are certainly airborne from the view point of physics. Even in the upper limit, an example on initially  droplets was provided which can linger in still air for 20min-1hr. We showed that droplets with diameter up to 50 μm could stay airborne for approximately 3min-20sec due to the rapid drying so that they could be inhaled.
+
+
+  # Aersol
+  // Identification of SARS-CoV-2 RNA in Healthcare Heating, Ventilation, and Air Conditioning Units
+  doi: https://doi.org/10.1101/2020.06.26.20141085
+  ref 'Horve_et_al_06_28_2020
+    head = This investigation demonstrates the presence of SARS-CoV-2 RNA at multiple locations within mechanical AHUs, and more specifically, AHUs serving multiple floors of a hospital tower in which COVID-19 patients were housed. Furthermore, SARS-CoV-2 RNA remained detectable 33.3% (5/15) of the time at the final sampling location (supply air damper), after the recirculated air had been mixed with fresh outside air, passed through the pre-filter (MERV 10) and final filter (MERV15) stages
+
+    >>> Abstract
+      Available information on Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) transmission by small particle aerosols continues to evolve rapidly. To assess the potential role of heating, ventilation, and air conditioning (HVAC) systems in airborne viral transmission, this study sought to determine the viral presence, if any, on air handling units in a healthcare setting where Coronavirus Disease 2019 (COVID-19) patients were being treated. The presence of SARS-CoV-2 RNA was detected in approximately 25% of samples taken from nine different locations in multiple air handlers. While samples were not evaluated for viral infectivity, the presence of viral RNA in air handlers raises the possibility that viral particles can enter and travel within the air handling system of a hospital, from room return air through high efficiency MERV-15 filters and into supply air ducts. Although no known transmission events were determined to be associated with these specimens, the findings suggest the potential for HVAC systems to facilitate transmission by environmental contamination via shared air volumes with locations remote from areas where infected persons reside. More work is needed to further evaluate the risk of SARS-CoV-2 transmission via HVAC systems and to verify effectiveness of building operations mitigation strategies for the protection of building occupants. These results are important within and outside of healthcare settings and may present a matter of some urgency for building operators of facilities that are not equipped with high-efficiency filtration.
+
+    -- exports
+      !a
+
+    / June, 2020 - medRxiv
+    let !a self assert = This suggests that the filtration practices in place in some of the most highly filtered environments, such as healthcare, does not eliminate the passage of SARS-CoV-2 viral RNA, and potentially SARS-CoV-2 viral particles, through HVAC systems and potentially back into the supply air. The infectious potential of this viral genetic material is currently unknown. These data demonstrate the potential that air evacuated from building spaces containing infectious individuals may be recirculated and distributed to other building spaces through centralized HVAC systems while containing SARS-CoV-2 RNA (and possibly virus), even after the filtration process and the dilution from the addition of 70-80% outside air, (thus, only 20-30% recirculated air, during the sampling period).
+
+  # Aersol and Surface Viability
+  // Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1
+  doi: https://doi.org/10.1056/NEJMc2004973
+  ref 'Doremalen_et_al_03_17_2020
+    head = ARS-CoV-2 remained viable in aerosols throughout the duration of our experiment (3 hours), with a reduction in infectious titer from 103.5 to 102.7 TCID50 per liter of air. This reduction was similar to that observed with SARS-CoV-1, from 104.3 to 103.5 TCID50 per milliliter
+
+    -- exports
+      !a
+
+    / March, 2020 - NEJM
+    let !a self assert = SARS-CoV-2 was more stable on plastic and stainless steel than on copper and cardboard, and viable virus was detected up to 72 hours after application to these surfaces, although the virus titer was greatly reduced (from 103.7 to 100.6 TCID50 per milliliter of medium after 72 hours on plastic and from 103.7 to 100.6 TCID50 per milliliter after 48 hours on stainless steel).
+
+
+  # Airborne Tranmission
+  // Airborne transmission of COVID-19: epidemiologic evidence from two outbreak investigations
+  doi: https://doi.org/10.13140/RG.2.2.36685.38881
+  ref 'Shen_et_al_04_03_2020
+    head =  we investigated two COVID-19 outbreaks in Zhejiang Province and found that airborne transmission at least partially explains the extraordinary attack rate seen. Both investigations suggest that, in closed environments with air re-circulation, COVID-19 is a highly transmissible pathogen.
+
+    >>> Background:
+      Much remains unknown about COVID-19 transmission. We evaluated potential transmission routes from two community COVID-19 outbreaks.
+    >>> Methods:
+      In the first outbreak, 126 passengers took two buses (59 from Bus 1 and 67 from 2) on a 100-minute round trip to attend a 150-minute worship event. The source patient was a passenger on Bus 2. We compared risks of COVID-19 among individuals taking Bus 1 (n=60) and Bus 2 (n=67), and among all other individuals (n=172) attending the worship event. We also divided seats on the exposed bus into high- and low-risk zones according to distance to the source patient and compared COVID-19 risks in each zone. The second outbreak occurred among 30 trainees attending a 3-day workshop in several conference rooms. In both buses and conference rooms, central air-conditioners were in indoor recirculation mode.
+    >>> Results:
+      In the first COVID-19 outbreak, passengers in Bus 2 had a 41.5 (95% confidence interval [CI]: 2.6–669.5) times higher risk of getting COVID-19 compared to those in Bus 1, and 11.4 (95% CI: 5.1–25.4) times higher risk compared to all other individuals attending the worship event. Within Bus 2, passengers in high-risk zones had moderately, but nonsignificantly, higher risk for COVID-19 compared to those in the low-risk zones. In the second outbreak, the overall attack rate was 48.3%.
+    >>> Conclusion:
+      Airborne spread of COVID-19 appears to at least partially explain the high attack rates in the exposed bus and conference rooms. Future efforts at prevention and control must consider the potential for airborne spread of the virus.
+
+    # / April, 2020 - Research Gate
+    # let !a self assert =
+
+
+  # Airborne Tranmission
+  // The airborne lifetime of small speech droplets and their potential importance in SARS-CoV-2 transmission
+  doi: https://doi.org/10.1073/pnas.2006874117
+  ref 'Stadnytskyi_et_al_06_02_2020
+    head = Our laser light scattering method not only provides real-time visual evidence for speech droplet emission, but also assesses their airborne lifetime. This direct visualization demonstrates how normal speech generates airborne droplets that can remain suspended for tens of minutes or longer and are eminently capable of transmitting disease in confined spaces.
+
+    >>> Abstract
+      Speech droplets generated by asymptomatic carriers of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) are increasingly considered to be a likely mode of disease transmission. Highly sensitive laser light scattering observations have revealed that loud speech can emit thousands of oral fluid droplets per second. In a closed, stagnant air environment, they disappear from the window of view with time constants in the range of 8 to 14 min, which corresponds to droplet nuclei of ca. 4 μm diameter, or 12- to 21-μm droplets prior to dehydration. These observations confirm that there is a substantial probability that normal speaking causes airborne virus transmission in confined environments.
+
+    -- exports
+      !a
+
+    / June, 2020 - National Academy of Sciences
+    let !a self assert = Our current setup does not detect every small particle in each frame of the movie, and our reported values are therefore conservative lower limit estimates. We also note that the saliva viral load shows large patient-to-patient variation. Some patients have viral titers that exceed the average titer of Wölfel et al by more than two orders of magnitude , thereby increasing the number of virions in the emitted droplets to well over 100,000 per minute of speaking. The droplet nuclei observed in our present study and previously by APS are sufficiently small to reach the lower respiratory tract, which is associated with an increased adverse disease outcome.
+
+
+  // Evaluation of decontamination methods for commercial and alternative respirator and mask materials – view from filtration aspect
+  doi: https://doi.org/10.1016/j.jaerosci.2020.105609
+  ref 'Ou_et_al_06_04_2020
+    head = This research studied the effect of various decontamination methods on the filtration performance of five selected commercial and alternative respirator/mask materials. Both UVGI for 5 min and dry heat at 77 °C for 30 min were found not to cause observable performance degradation after up to 10 cycles on commercial respirators/masks tested.
+
+    >>> Abstract
+      This study aims to evaluate the filtration performance of three commercially available (3M 8210 respirator, Halyard 48207 surgical mask, and 3M 1820 procedure mask) and two alternative face mask and respirator materials (Halyard H600 sterilization wrap and Cummins EX101) after selected decontamination treatments, including isopropanol (IPA) treatments (soaking or spraying), ultraviolet germicidal irradiation (UVGI), and heat treatments (dry heat at 77 °C or steam heat). Both IPA soaking and spraying removed most electrostatic charges on all four electret materials (three commercial and one alternative), causing significant deterioration of filtration efficiency to unacceptable level. The other non-electret alternative material sustained its N95-grade performance after both IPA soaking and spraying treatments, demonstrating the possible application of IPA disinfection for non-electret alternative respirator/mask materials. UVGI preserved the filtration of all three commercially available respirator/mask materials after up to 10 treatments, suggesting it can be a possible decontamination method for hospital and clinic use without compromising respirator/mask performance. The considerations of the practical implementation of this method was discussed. Between the two heat treatment methods tested, dry heat showed better compatibility with electret material by sustaining both filtration efficiency and fit (tested on commercial respirator only), although adding moisture was reported in favor of virus inactivation. Heat treatment is easily accessible method for general publics to implement at home, while it is recommended to maintain the moisture level below saturation. Comparing to size-integrated method, the size-resolved fractional efficiency measurement technique, although more time consuming, proved to be a better method for evaluating respirator/mask filtration performance after decontaminations by providing more sensitive detection of performance degradation and the capability of distinguishing charge loss to other mechanisms causing efficiency deterioration. Detailed descriptions are provided in methodology part to emphasize the cares needed for an appropriate efficiency evaluation. The limited results in this study on worn masks made of alternative sterilization wrap indicated possible performance degradation of electret material caused by normal human wearing activities, suggesting the need of assessing respirator/mask decontamination strategy by testing practically worn-and-decontaminated/reused samples instead of unworn only-decontaminated counterparts.
+
+    -- exports
+      !a
+
+    / June, 2020 - Journal of Aersol Science
+    let !a self assert = Steam heat treatment for 30 min was found to cause charge loss on 3M 1820 procedure mask and Halyard 48207 surgical masks, which led to efficiency deterioration after 5 or 10 cycles. Although similar efficiency decay was not observed on 3M 8210 N95 respirators, the respirators’ fit factor decreased with steam heat treatment cycles and dropped below 100 (fail) after 5 cycles.
+
+    / June, 2020 - Journal of Aersol Science
+    let !b self assert =  As an easily accessible method, heat treatment can be implemented by general publics in household setting, but our results suggested to keep the moisture level below saturation if masks made of electret materials are decontaminated. Both IPA soaking and spraying caused significant performance deterioration of all electrically charged materials, including the three commercial respirators/masks and Halyard H600 sterilization wrap, by largely removing charges from material surface.
+
+    / June, 2020 - Journal of Aersol Science
+    let !c self assert = No change of material integrity or structure was observed on any combination of filter materials and decontamination methods tested, suggesting the stability of electrical charge is the major factor (together with facial fit) that limits the ability of a material being decontaminated and reused for multiple times. Non-electret filter materials (e.g. EX101), therefore, pose their advantages of wider compatibility with a variety of decontamination methods so more attention can be put on retaining the fit and the functionality of other auxiliary components (e.g., straps, nosepiece, etc.).
+
+    / June, 2020 - Journal of Aersol Science
+    let !d self assert = When used for evaluating decontaminated respirators/masks, this method is capable of distinguishing efficiency degradation due to charge loss from that caused by structure or integrity deterioration, which is not otherwise possible by a size integrated method.
+
+    / June, 2020 - Journal of Aersol Science
+    let !e self assert = The current study focused on the filtration performance of the filter materials, with fit testing conducted only on N95 respirators with selected decontamination methods. With more loose-fitting masks being used by frontline healthcare workers, assessing the facial fit performance of these face masks, which is equally important to material filtration testing, has become urgently needed and requires more immediate efforts.
+
+  # Face Mask
+  // Correction to Aerosol Filtration Efficiency of Common Fabrics Used in Respiratory Cloth Masks
+  doi: https://doi.org/10.1021/acsnano.0c04676
+  ref 'Konda_et_al_06_18_2020
+    head = The N95 respirators are designed and engineered to capture more than 95% of particles at 300 nm, at 343/245 Pa (inhalation/exhalation) pressure drops and 85 L/min flow. Our studies, focused on cloth masks, are carried out at reduced pressure drops (2–13 Pa) and significantly lower flow rates where diffusional flow is expected to control transport across the fabrics.
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / June, 2020 - American Chemical Society
+    let !a self assert = Considering this, and additionally noting the large error bars for the N95 measurements in the <300 nm range (as discussed in the paper), conclusions and comparisons (with cloth fabrics) from our data regarding the N95 and surgical mask performance should not be drawn. Our pressure drops may be more appropriate to what unfitted cloth masks will likely experience under real-life conditions due to leakage around the edges. Pressure drop measurements for manikin fitted N95s and surgical masks have varied from 20 to 40 Pa and from 1 to 18 Pa
+
+    / June, 2020 - American Chemical Society
+    let !b self assert = While our cloth efficiencies measured are high, they are at significantly lower airflows. The strategy for cloth mask design would therefore be to increase the effective mask surface area significantly without increasing the seal perimeter in order to increase airflow, while retaining a low differential pressure, and a high filtration efficiency.
+
+    / June, 2020 - American Chemical Society
+    let !c self assert = We believe the focus on cloth masks should center around lower pressure differentials that can be sustained practically in unfitted cloth masks. One approach would then be to depart from traditional designs to significantly increase the area of the cloth to increase net airflow while not overly exerting the face seal.
 
   # Airborne
   // Detection of air and surface contamination by SARS-CoV-2 in hospital rooms of infected patients

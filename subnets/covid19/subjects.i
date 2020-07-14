@@ -391,10 +391,16 @@ subject module Virus
           'Johnson_et_al_10_05_2012
           'Lin_et_al_01_26_2017
           'Johnson_et_al_06_21_2011
-        -- Transmission
+        -- Aerosol Transmission
           'Asadi_et_al_2019
           'Allen_et_al_05_06_2020
           'Lednicky_et_al_05_22_2020.!a
+          'Miller_et_al_06_18_2020
+        -- Airborne Transmission
+          'Allen_et_al_06_19_2020
+          'Chia_et_al_05_29_2020
+        -- Dispute not Airborne
+          'Cheng_et_al_06_08_2020
       / Fecal Transmission
       subject FaecalTransmission
         head = Viral RNA has also been found in stool samples of infected individual.
@@ -413,6 +419,8 @@ subject module Virus
         'Notari_et_al_2020
       -- Air Pollution
         'Wu_et_al_2020c
+      -- Humidity
+        'Lin_et_al_12_30_2019
     subject module Settings
       head = Based on studies COVID-19 has more severe impact on indoor settings over outdoor settings.
       / Nosocomial Transmission
@@ -453,6 +461,7 @@ subject module Virus
           'Chan_et_al_2020
           'Scott_et_al_2020.!e
           'Leclerc_et_al_05_01_2020
+          'Allen_et_al_06_19_2020
       / Outdoor Transmission
       subject OutdoorTransmission
         head = Based on data collected so far, Outdoor Tranmission is possible but seems to be rare.
@@ -756,6 +765,7 @@ subject module Disease
       subject Elderly
         head = COVID-19 is more lethal in older patients with co-morbid conditions, and is associated with higher fatality rate.
         --
+          'Santesmasses_et_al_04_15_2020
           'Jing_et_al_2020.!i
           'Chen_et_al_2020d.!b
           'Wu_et_al_2020
@@ -1148,29 +1158,38 @@ subject module Diagnostics
         'Xie_et_al_2020
 
   # Change subject name
-  / Frontiers
+  / Targets
   subject Frontiers
     head = Several studies are investigating range of inflammatory markers in blood, biomarkers and immune features to determine their role in disease severity and risk factors.
     -- LDH
       'Han_et_al_2020
     -- Using ACE 2 to predict Susceptibility
       'Stawiski_et_al_2020
+    # Club immune profiling / cytokine / severity and respiratory together
     -- Immune Profiling
       'Mathew_et_al_05_23_2020
       'Mathew_et_al_05_23_2020.!a
       'Mathew_et_al_05_23_2020.!b
+    -- Cytokine Profiling
+      'DelValle_et_al_05_30_2020
+      'Mehta_et_al_03_28_2020
+      'Li_et_al_05_19_2020b
     -- Disease Severity
+      'Gong_et_al_02_27_2020
       'Chen_et_al_04_06_2020
       'Chen_et_al_02_08_2020
       'DelValle_et_al_05_30_2020
       'DelValle_et_al_05_30_2020.!m
-    -- Cytokine Profiling
-      'DelValle_et_al_05_30_2020
+      'Coomes_et_al_04_03_2020
+    -- Respiratory Failure (IL-6)
+      'Herold_et_al_04_10_2020
     -- HLA
       'Lin_et_al_2003
       'Blackwell_et_al_2009
       'Paul_et_al_2013
       'Nguyen_et_al_2020
+
+
 / Mitigation
 subject module Mitigation
   / Infection Prevention
@@ -1198,6 +1217,8 @@ subject module Mitigation
         'Bae_et_al_04_06_2020
         'Strasser_et_al_05_22_2020
         'Chu_et_al_06_01_2020
+      -- Virus Inactivation in Face Mask
+        'Rockey_et_al_06_23_2020
       -- PPE
         'Ling_et_al_2020.!b
       -- Gloves
@@ -1301,6 +1322,12 @@ subject module Mitigation
         'Morawska_et_al_05_27_2020.!c
         'Morawska_et_al_05_27_2020.!d
         'Morawska_et_al_05_27_2020.!e
+        'Allen_et_al_06_19_2020.!b
+        'Allen_et_al_06_19_2020.!c
+        'Allen_et_al_06_19_2020.!d
+        'Allen_et_al_06_19_2020.!e
+        'Allen_et_al_06_19_2020.!f
+        'Allen_et_al_06_19_2020.!g
     / Hospital Mitigation
     subject Nosocomial
       head = Several mitigation measures are being used by hospitals to minimize the chance of exposure to healthcare workers and to protect high-risk population within the hospitals. Mitigation measures adopted, includes the promoting the use of everyday preventive actions.
@@ -1433,6 +1460,8 @@ subject module Remediation
           'Amanat_et_al_2020b.!a
           'Amanat_et_al_2020b.!b
           'Erasmus_et_al_05_28_2020
+        -- BNT162b1
+          'Mulligan_et_al_07_06_2020
       / DNA Vaccine
       subject DNAVaccine
         head = DNA vaccines are third generation vaccines. They contain DNA that codes for specific proteins (antigens) from a pathogen. The DNA is injected into the body and taken up by cells, whose normal metabolic processes synthesize proteins based on the genetic code in the plasmid that they have taken up. Because these proteins contain regions of amino acid sequences that are characteristic of bacteria or viruses, they are recognized as foreign and when they are processed by the host cells and displayed on their surface, the immune system is alerted, which then triggers immune responses.  DNA vaccines could generate broad immune responses, similar to the live-attenuated virus platform, without the need for a replicating pathogen.
@@ -1457,6 +1486,9 @@ subject module Remediation
         --
           'Amanat_et_al_2020b.!g
           'Amanat_et_al_2020b.!h
+        -- ChAdOx1
+          'Graham_et_al_06_20_2020
+          'Doremalen_et_al_05_13_2020
       / Live Attenuated Vaccine
       subject LiveAttennuated
         head = Advances in tissue culture techniques in the 1950s enabled development of live-attenuated vaccines, which use active viruses that have been cultivated under conditions that disable their virulent properties, or that use closely related but less dangerous organisms to produce a broad immune response. The measles, mumps and rubella (MMR) vaccine is one example. They typically provoke more durable immunological responses that can confer life-long immunity after only one or two doses and are the preferred type for healthy adults. But they may not be safe for use in immunocompromised individuals, and on rare occasions mutate to a virulent form and cause disease.
@@ -1485,6 +1517,7 @@ subject module Remediation
             'Kleinnijenhuis_et_al_2012
             'Hegarty_et_al_2020
             'ONeill_et_al_2020
+            'Rousseau_et_al_06_20_2020
           -- Counter
             'Hamiel_et_al__05_13_2020
         subject MMR
@@ -1530,6 +1563,7 @@ subject module Remediation
             'Kujawski_et_al_2020.!d
             'Kujawski_et_al_2020.!i
             'Li_et_al_2020
+            'Williamson_et_al_04_22_2020
         / EIDD-2801
         subject Eidd
           head = Safety and clinical efficacy of EIDD-2801 has not been establish yet, though if trials are successful, this drug may be useful oral option in high-risk outpatients.
@@ -1541,6 +1575,7 @@ subject module Remediation
         --
           LopinavirRitonavir
           Aketoamideinhibitor
+        --
           'Hoffmann_et_al_2020
         / Lopinavir Ritonavir
         subject LopinavirRitonavir
@@ -1557,6 +1592,15 @@ subject module Remediation
           --
             'Zhang_et_al_2020c
             'Zhang_et_al_2020
+        / Nelfinavir
+        subject Nelfinavir
+          head =
+          --
+            'Ianevski_et_al_06_11_2020
+            'Yamamoto_et_al_04_08_2020
+            'Musarrat_et_al_05_06_2020
+            'Lee_et_al_05_12_2020
+            'Ohashi_et_al_04_15_2020
       / Entry Inhibitors
       subject EntryInhibitors
         head = Entry inhibitors interferes with the binding, fusion and entry to a human cell. By blocking this step in virus replication cycle, such agents could slow the progression of infection of SARS-CoV-2.
@@ -1610,7 +1654,6 @@ subject module Remediation
             'Rossignol_et_al_2014
             'Wu_et_al_2004
             'Li_et_al_2020
-
     / Immune-Based Therapy
     subject module HostModifiers
       head = Immune based therapy is the treatment of disease by activating or suppressing the immune system. Several immune-based therapies that are directed at modifying the course of COVID-19 are currently under investigation. These agents may target the virus or modulate the immune response.
@@ -1655,8 +1698,26 @@ subject module Remediation
           'DelValle_et_al_05_30_2020.!r
           'DelValle_et_al_05_30_2020.!s
           'Zhang_et_al_2020e
-        # subject Tocilizumab
-        # Tocilizumab is an antibody, that blocks IL-6 receptor. It is currently used for the treatment of rheumatoid arthritis and several other collagen-vascular diseases and for cytokine storm. Few studies found that COVID-19 patients treated with tocilizumab had a lower risk of mechanical ventilation and death, though clinical trials are needed to ascertain if this apparent improvement was due to tocilizumab or from other factors
+        -- Siltuximab
+          'Gritti_et_al_06_20_2020
+        -- Bruton tyrosine kinase inhibitor
+          'Roschewski_et_al_05_06_2020
+        --
+          Tocilizumab
+        / Tocilizumab
+        subject Tocilizumab
+          head =  Tocilizumab is an antibody, that blocks IL-6 receptor. It is currently used for the treatment of rheumatoid arthritis and several other collagen-vascular diseases and for cytokine storm. Few studies found that COVID-19 patients treated with tocilizumab had a lower risk of mechanical ventilation and death, though clinical trials are needed to ascertain if this apparent improvement was due to tocilizumab or from other factors
+          --
+            'Coomes_et_al_04_03_2020.!a
+            'Luo_et_al_04_06_2020
+            'Luo_et_al_04_06_2020.!a
+            'Xu_et_al_04_29_2020
+            'Michot_et_al_03_06_2020
+            'Li_et_al_05_19_2020b
+            'Price_et_al_06_15_2020
+            'Guaraldi_et_al_06_24_2020
+          -- Side Effects
+            'Guo_et_al_04_09_2020
 
       / Interferons
       subject Interferons
@@ -1668,6 +1729,7 @@ subject module Remediation
           'Broggi_et_al_01_06_2020
           'Pillai_et_al_2016
           'Niwa_et_al_10_15_2018
+          'Felgenhauer_et_al_06_25_2020
         >>>
            Studies have shown that ISG15 inhibits viral replication and can modulate the host damage and repair response, immune response and other host signalling pathways
         -- ISG15
@@ -1698,6 +1760,8 @@ subject module Remediation
         -- ACE Inhibitors
           'Zhang_et_all_2020b
           'Zhang_et_al_2020f
+          'Hanson_et_al_06_16_2020
+        # viral host interaction as potential therapeutic targets
         -- ARB
           'Liu_et_al_2020d
           'Zhang_et_al_2020f
@@ -1708,6 +1772,14 @@ subject module Remediation
           'Berlin_et_al_2020.!x
           'Berlin_et_al_2020.!y
           'Xu_et_al_2020b.!k
+        -- Counter
+          'Li_et_al_05_05_2020
+        -- Dexamethasone
+          'Horby_et_al_06_22_2020
+          'Morris_et_al_07_02_2020
+        -- Methylprednisolone
+          'Corral_et_al_06_18_2020
+          'Salton_et_al_06_25_2020
       / HMG-CoA Reductase Inhibitors (Statins)
       subject Statins
         head = Statins, known for their anti-inflammatory, antithrombotic and immunomodulatory effects, may have a role in mitigating endothelial dysfunction and dysregulated inflammation in COVID-19 patients. Research suggesting that statins may reduce the severity of COVID-19 are limited.
@@ -1797,6 +1869,11 @@ subject module Remediation
       -- Glycan
         'Watanabe_et_al_2020
         'Breiman_et_al_05_21_2020
+      -- Anti-tumour necrosis factor
+        'Feldmann_et_al_04_09_2020
+        'Feldmann_et_al_04_09_2020.!a
+      -- Targets for repurposing drugs
+        'Gordon_et_al_04_30_2020
   / Clinical Management
   subject module ClinicalRecommendation
     head = Studies and research recommending management of patients with COVID-19 are extrapolated from experience. Guidelines are intended to meet the needs of frontline clinicians and it promotes a multi-disciplinary approach for caring of COVID-19 patients, including those with mild, moderate, severe, and critical disease. Intension is not to replace specialist consultation or clinical protocols but rather to strengthen clinical management of patients.
@@ -1821,6 +1898,10 @@ subject module Remediation
         'Berlin_et_al_2020.!u
         'Berlin_et_al_2020.!v
         'Berlin_et_al_2020.!w
+        'Monteleone_et_al_04_06_2020
+        'Monteleone_et_al_04_06_2020.!a
+        'Li_et_al_05_19_2020b.!c
+        'Mehta_et_al_03_28_2020
     / Coagulation Dysfunction
     subject BloodCoagulationRecommendation
       head = The pathogenesis for COVID-19-associated hypercoagulability remains unknown. Clinical and laboratory findings include thrombocytopenia, elevated D-dimer, prolonged prothrombin time, and disseminated intravascular coagulation. There is a general consensus on the tests for coagulation, anticoagulation therapy, replacement therapy, supportive therapy and prevention.
@@ -1845,6 +1926,11 @@ subject module Remediation
         'Song_et_al_2020.!q
         'Song_et_al_2020.!r
         'Berlin_et_al_2020.!t
+        'Barnes_et_al_05_21_2020
+        'Barnes_et_al_05_21_2020.!a
+        'Barnes_et_al_05_21_2020.!b
+        'Barnes_et_al_05_21_2020.!c
+        'Ritchie_et_al_03_24_2020
     / NeuroInvasion
     subject Neuroinvasion
       head = The most common neurologic complaints in COVID-19 are anosmia, ageusia, and headache other Neurologic manifestations include seizure, stroke, impairment of consciousness, encephalitis, and Guillain–Barré syndrome (which includes loss of motor functions) have also been reported. When seeing patients with neurological manifestations, it is suggested that clinicians should suspect SARS-CoV-2 infection as a differential diagnosis to avoid delayed diagnosis or misdiagnosis.
