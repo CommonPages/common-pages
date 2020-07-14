@@ -1,0 +1,15 @@
+
+public: ar5-8.2.3.2
+name: Section 8.2.3.2
+title: 8.2.3.2 - Stratospheric Ozone and Water Vapour
+section 8_2_3_2
+
+  |Stratospheric {Glossary.*Ozone ozone} has experienced significant depletion since the 1960s due to bromine and chlorine-containing compounds, leading to an estimated global decrease of stratospheric ozone of 5% between the 1970s and the mid-1990s. With the advent of the {Glossary.*Montreal_Protocol Montreal Protocol} and its amendments, {Topics.*Emissions emissions} of chlorofluorocarbons and replacements have strongly declined, and signs of ozone stabilization and even possibly recovery have already occurred.
+
+
+  
+
+  insert SectionDoc
+
+
+    

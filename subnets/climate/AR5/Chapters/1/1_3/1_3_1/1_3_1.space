@@ -1,0 +1,15 @@
+
+public: ar5-1.3.1
+name: Section 1.3.1
+title: 1.3.1 - Global and Regional Surface Temperatures
+section 1_3_1
+
+  |The {Glossary.*Trend trend} in globally averaged {Topics.*Surface_Temperature surface temperatures} falls within the range of the previous IPCC {Topics.*Climate_Projections projections}. During the last decade the trend in the observations is smaller than the mean of the projections of {cite.1.'IPCC_2007 AR4}. {Box_9_2 Box 9.2} provides a detailed assessment of the hiatus in global mean surface warming in the last 15 years. Nevertheless, there is evidence that early forecasts that carried formal estimates of {Topics.*Uncertainty uncertainty} have proved highly consistent with subsequent observations.
+
+
+  
+
+  insert SectionDoc
+
+
+    

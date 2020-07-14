@@ -1,0 +1,27 @@
+
+public: ar5-2.3.3
+name: Section 2.3.3
+title: 2.3.3 - Changes in Surface Radiation Budget
+section 2_3_3
+
+  |The evidence for widespread multi-decadal variations in {Glossary.*Solar_radiation solar radiation} incident on land surfaces has been substantiated since {cite.1.'IPCC_2007 AR4}, with many of the observational records showing a decline from the 1950s to the 1980s (‘dimming’), and a partial recovery thereafter (‘brightening’). These changes are generally supported by observed changes in related, but more widely measured variables, such as sunshine duration, DTR and hydrological quantities, and are often in line with {Glossary.*Aerosol aerosol} {Topics.*Emissions emission} patterns.
+
+
+  apply FullText
+
+  
+
+  include
+    - 2_3_3_1
+    - 2_3_3_2
+    - 2_3_3_3
+
+  name: Section 2.3.3 - Full Text
+  path FullText
+    name: Surface Solar Radiation
+    step
+      include
+        - Chapters.2.2_3.2_3_3.2_3_3_1.SectionDoc
+        - Chapters.2.2_3.2_3_3.2_3_3_2.SectionDoc
+        - Chapters.2.2_3.2_3_3.2_3_3_3.SectionDoc
+    

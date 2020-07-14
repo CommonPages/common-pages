@@ -1,0 +1,26 @@
+
+public: ar5-14.2.3
+name: Section 14.2.3
+title: 14.2.3 - American Monsoons
+section 14_2_3
+
+  |The American monsoons, the North America {Glossary.*Monsoon Monsoon} System (NAMS) and the South America Monsoon System (SAMS), are associated with large inter-seasonal differences in precipitation, humidity and atmospheric circulation. NAMS and SAMS indices are often, though not always, defined in terms of precipitation characteristics. Over the coming century, CMIP5 simulations generally project a precipitation reduction in the core zone of the NAMS. Conclusions regarding SAMS changes can depend on the index chosen.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 14_2_3_1
+    - 14_2_3_2
+
+  name: Section 14.2.3 - Full Text
+  path FullText
+    name: American Monsoons
+    step
+      include
+        - Chapters.14.14_2.14_2_3.SectionDoc
+        - Chapters.14.14_2.14_2_3.14_2_3_1.SectionDoc
+        - Chapters.14.14_2.14_2_3.14_2_3_2.SectionDoc
+    

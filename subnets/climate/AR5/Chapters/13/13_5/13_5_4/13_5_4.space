@@ -1,0 +1,26 @@
+
+public: ar5-13.5.4
+name: Section 13.5.4
+title: 13.5.4 - Long-term Scenarios
+section 13_5_4
+
+  |Less information is available on climate change beyond the year 2100 than there is up to the year 2100. However, the ocean and ice sheets will continue to respond to changes in {Topics.*Radiative_Forcing external forcing} on multi-centennial to multi-millennial time scales. The multi-centennial {Topics.*Sea_Level sea level} contributions from ocean expansion and the cryospheric components are synthesized in {'Table_13_8 Table 13.8} and {'Figure_13_13 Figure 13.13} for the end of each century until the year 2500. A sea level rise of 1 to 3 m °C–1 is expected if the warming is sustained for several millennia.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 13_5_4_1
+    - 13_5_4_2
+
+  name: Section 13.5.4 - Full Text
+  path FullText
+    name: Long-term Scenarios
+    step
+      include
+        - Chapters.13.13_5.13_5_4.SectionDoc
+        - Chapters.13.13_5.13_5_4.13_5_4_1.SectionDoc
+        - Chapters.13.13_5.13_5_4.13_5_4_2.SectionDoc
+    

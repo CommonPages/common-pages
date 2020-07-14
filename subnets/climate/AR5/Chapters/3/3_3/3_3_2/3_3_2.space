@@ -1,0 +1,26 @@
+
+public: ar5-3.3.2
+name: Section 3.3.2
+title: 3.3.2 - Global to Basin-Scale Trends
+section 3_3_2
+
+  |The salinity of near-surface waters is changing on global and basin scales. It is very likely that the contrast between regions of high and low salinity has increased. Robust multi-decadal trends in subsurface salinity have been detected.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 3_3_2_1
+    - 3_3_2_2
+
+  name: Section 3.3.2 - Full Text
+  path FullText
+    name: Global to Basin-Scale Trends
+    step
+      include
+        - Chapters.3.3_3.3_3_2.SectionDoc
+        - Chapters.3.3_3.3_3_2.3_3_2_1.SectionDoc
+        - Chapters.3.3_3.3_3_2.3_3_2_2.SectionDoc
+    

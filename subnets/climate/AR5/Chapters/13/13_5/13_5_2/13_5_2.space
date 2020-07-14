@@ -1,0 +1,15 @@
+
+public: ar5-13.5.2
+name: Section 13.5.2
+title: 13.5.2 - Semi-Empirical Projections for the 21st Century
+section 13_5_2
+
+  |The semi-empirical approach regards a change in {Topics.*Sea_Level sea level} as an integrated response of the entire climate system, reflecting changes in the dynamics and thermodynamics of the {Topics.*Climate_System atmosphere}, ocean and {Glossary.*Cryosphere cryosphere}; it does not explicitly attribute sea level rise to its individual physical components. SEMs use simple physically motivated relationships, with various analytical formulations and parameters determined from observational time series, to predict GMSL for the 21st century ({'Figure_13_12 Figure 13.12} and {'Table_13_6 Table 13.6}) and beyond, from either global mean SAT or {Topics.*Radiative_Forcing RF}.
+
+
+  
+
+  insert SectionDoc
+
+
+    

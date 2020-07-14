@@ -1,0 +1,15 @@
+
+public: ar5-7.4.1.1
+name: Section 7.4.1.1
+title: 7.4.1.1 - Classification of Hypothesized Aerosol–Cloud Interactions
+section 7_4_1_1
+
+  |Given the number of possible {Glossary.*Aerosol aerosol}–cloud interactions, and the difficulty of isolating them individually, there is little value in attempting to assess each effect in isolation, especially because modelling studies suggest that the effects may interact and compensate. Instead, all radiative consequences of aerosol– cloud interactions are grouped into an ‘effective {Topics.*Radiative_Forcing radiative forcing} due to aerosol–cloud interactions’, or {Glossary.*Effective_radiative_forcing_due_to_aerosol_cloud_interactions ERFaci}.
+
+
+  
+
+  insert SectionDoc
+
+
+    

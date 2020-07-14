@@ -1,0 +1,15 @@
+
+public: ar5-7.2.3.3
+name: Section 7.2.3.3
+title: 7.2.3.3 - Recent Advances in Parameterizing Moist Turbulence and Convection
+section 7_2_3_3
+
+  |Both the mean state and variability in {Topics.*Climate_Modelling climate models} are sensitive to the {Glossary.*Parameterization parameterization} of cumulus {Glossary.*Convection convection}. Since {cite.1.'IPCC_2007 AR4}, the development of convective parameterization has been driven largely by rapidly growing use of process models, in particular LES and CRMs, to inform parameterization development.
+
+
+  
+
+  insert SectionDoc
+
+
+    

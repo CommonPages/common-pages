@@ -1,0 +1,15 @@
+
+public: ar5-7.2.3.2.1
+name: Section 7.2.3.2.1
+title: 7.2.3.2.1 - Liquid clouds
+section 7_2_3_2_1
+
+  |Recent development efforts have been focused on the introduction of more complex representations of microphysical processes. Despite advances in internal consistency, a continuing weakness in {Glossary.*General_Circulation_Model GCMs} is their inability to fully represent turbulent motions to which microphysical processes are highly sensitive.
+
+
+  
+
+  insert SectionDoc
+
+
+    

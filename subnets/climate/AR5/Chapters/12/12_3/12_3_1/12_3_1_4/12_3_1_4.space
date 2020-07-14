@@ -1,0 +1,15 @@
+
+public: ar5-12.3.1.4
+name: Section 12.3.1.4
+title: 12.3.1.4 - Comparison of Special Report on Emission Scenarios and Representative Concentration Pathway Scenarios
+section 12_3_1_4
+
+  |The four RCP {Topics.*Scenarios scenarios} used in CMIP5 lead to {Topics.*Radiative_Forcing RF} values that range from 2.3 to 8.0 W m–2 at 2100, a wider range than that of the three {Glossary.*SRES_scenarios SRES scenarios} used in CMIP3 which vary from 4.2 to 8.1 W m–2 at 2100. Results obtained with one General Circulation Model ({Glossary.*General_Circulation_Model GCM}) and with a reduced-complexity model confirm that the differences in temperature responses are consistent with the differences in RFs estimates. {Glossary.*RCP2_6 RCP2.6}, which assumes strong {Glossary.*Mitigation mitigation} action, yields a smaller temperature increase than any SRES scenario.
+
+
+  
+
+  insert SectionDoc
+
+
+    

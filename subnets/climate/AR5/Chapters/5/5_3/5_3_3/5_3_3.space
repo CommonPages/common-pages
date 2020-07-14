@@ -1,0 +1,26 @@
+
+public: ar5-5.3.3
+name: Section 5.3.3
+title: 5.3.3 - Last Glacial Maximum and Equilibrium Climate Sensitivity
+section 5_3_3
+
+  |The Last Glacial Maximum ({Glossary.*Last_Glacial_Maximum LGM}) is characterized by a large temperature response to relatively well-defined radiative perturbations. This can be used to evaluate {Topics.*Climate_Modelling climate models}. It is very likely that global mean {Topics.*Surface_Temperature surface temperature} during the LGM was cooler than pre-industrial by 3°C to 8°C. It is very likely that Equilibrium Climate Sensitivity (ECS) is greater than 1°C, and very unlikely that ECS exceeds 6°C.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 5_3_3_1
+    - 5_3_3_2
+
+  name: Section 5.3.3 - Full Text
+  path FullText
+    name: Last Glacial Maximum and Equilibrium Climate Sensitivity
+    step
+      include
+        - Chapters.5.5_3.5_3_3.SectionDoc
+        - Chapters.5.5_3.5_3_3.5_3_3_1.SectionDoc
+        - Chapters.5.5_3.5_3_3.5_3_3_2.SectionDoc
+    

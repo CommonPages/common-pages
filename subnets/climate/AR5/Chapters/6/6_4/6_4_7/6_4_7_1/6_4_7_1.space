@@ -1,0 +1,15 @@
+
+public: ar5-6.4.7.1
+name: Section 6.4.7.1
+title: 6.4.7.1 - Future Methane Emissions from Wetlands
+section 6_4_7_1
+
+  |There is medium confidence that {Topics.*Emissions emissions} of {Glossary.*Methane_CH4 CH4} from wetlands are likely to increase in the future under elevated {Glossary.*Carbon_dioxide CO2} and warmer climate. Increasing temperature can lead to higher rates of {Glossary.*Evapotranspiration evapotranspiration}, reducing {Glossary.*Soil_moisture soil moisture} and therefore affect wetland extent, and temporary increasing aeration of existing wetlands with further consequences to methane emissions.
+
+
+  
+
+  insert SectionDoc
+
+
+    

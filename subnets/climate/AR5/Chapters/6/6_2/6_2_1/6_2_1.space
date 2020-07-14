@@ -1,0 +1,34 @@
+
+public: ar5-6.2.1
+name: Section 6.2.1
+title: 6.2.1 - Glacial–Interglacial Greenhouse Gas Changes
+section 6_2_1
+
+  |Ice cores recovered from the Antarctic {Glossary.*Ice_sheet ice sheet} reveal that the concentration of atmospheric {Glossary.*Carbon_dioxide CO2} at the Last Glacial Maximum ({Glossary.*Last_Glacial_Maximum LGM}) was about one third lower than during the subsequent interglacial ({Glossary.*Holocene Holocene}). Measurements show that atmospheric {Glossary.*Methane_CH4 CH4} and {Glossary.*Nitrous_oxide_N2O N2O} were much lower under glacial conditions compared to interglacial ones.
+
+
+  apply FullText
+
+  
+
+  include
+    - 6_2_1_1
+    - 6_2_1_2
+    - 6_2_1_3
+
+  name: Section 6.2.1 - Full Text
+  path FullText
+    name: Processes Controlling Glacial Carbon Dioxide
+    step
+      include
+        - Chapters.6.6_2.6_2_1.6_2_1_1.SectionDoc
+        - Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_1.SectionDoc
+        - Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_2.SectionDoc
+        - Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_3.SectionDoc
+        - Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_4.SectionDoc
+        - Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_5.SectionDoc
+        - Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_6.SectionDoc
+        - Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_7.SectionDoc
+        - Chapters.6.6_2.6_2_1.6_2_1_2.SectionDoc
+        - Chapters.6.6_2.6_2_1.6_2_1_3.SectionDoc
+    

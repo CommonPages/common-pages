@@ -1,0 +1,25 @@
+
+public: ar5-2.4.2.1
+name: Section 2.4.2.1
+title: 2.4.2.1 - Advances in Assembling Data Sets and in Understanding Data Errors
+section 2_4_2_1
+
+  |Improvements have been made in the understanding of {Topics.*Uncertainty uncertainty} of in situ {Glossary.*Sea_Surface_Temperature SST} records. Satellite SST data sets provide SST estimates where the infared record has none.
+
+
+  apply FullText
+
+  
+
+  include
+    - 2_4_2_1_1
+    - 2_4_2_1_2
+
+  name: Section 2.4.2.1 - Full Text
+  path FullText
+    name: In situ data records
+    step
+      include
+        - Chapters.2.2_4.2_4_2.2_4_2_1.2_4_2_1_1.SectionDoc
+        - Chapters.2.2_4.2_4_2.2_4_2_1.2_4_2_1_2.SectionDoc
+    

@@ -1,0 +1,28 @@
+
+public: ar5-14.3.1
+name: Section 14.3.1
+title: 14.3.1 - Convergence Zones
+section 14_3_1
+
+  |Changes in tropical {Glossary.*Convection convection} affect the pattern of {Glossary.*Sea_Surface_Temperature SST} change. The SST pattern effect dominates the annual rainfall change while the wet-get-wetter effect becomes important for seasonal mean rainfall in the summer hemisphere. Given {Topics.*Uncertainty uncertainties} in SST warming pattern, the confidence is generally higher for seasonal than annual mean changes in tropical rainfall. There is medium confidence that seasonal rainfall will increase on the equatorward flank of the current {Glossary.*Inter_Tropical_Convergence_Zone ITCZ}; that the frequency of zonally oriented {Glossary.*South_Pacific_Convergence_Zone SPCZ} events will increase, with the SPCZ lying well to the northeast of its average position during those events; and that the SACZ shifts southwards.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 14_3_1_1
+    - 14_3_1_2
+    - 14_3_1_3
+
+  name: Section 14.3.1 - Full Text
+  path FullText
+    name: Convergence Zones
+    step
+      include
+        - Chapters.14.14_3.14_3_1.SectionDoc
+        - Chapters.14.14_3.14_3_1.14_3_1_1.SectionDoc
+        - Chapters.14.14_3.14_3_1.14_3_1_2.SectionDoc
+        - Chapters.14.14_3.14_3_1.14_3_1_3.SectionDoc
+    

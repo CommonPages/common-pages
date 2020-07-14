@@ -1,0 +1,15 @@
+
+public: ar5-7.4.3.1
+name: Section 7.4.3.1
+title: 7.4.3.1 - The Physical Basis for Adjustments in Liquid Clouds
+section 7_4_3_1
+
+  |The adjustments giving rise to {Glossary.*Effective_radiative_forcing_due_to_aerosol_cloud_interactions ERFaci} are multi-faceted and are associated with both {Glossary.*Albedo albedo} and so-called ‘{Glossary.*Lifetime lifetime}’ effects. The traditional view has been that adjustment effects associated with {Glossary.*Aerosol aerosol}–cloud–precipitation interactions will add to the initial albedo increase by increasing cloud amount. The chain of reasoning involves three steps: that droplet concentrations depend on the number of available {Glossary.*Cloud_condensation_nuclei CCN}; that precipitation development is regulated by the droplet concentration; and that the development of precipitation reduces cloud amount. Of the three steps, the first has ample support in both observations and theory. More problematic are the last two links in the chain of reasoning.
+
+
+  
+
+  insert SectionDoc
+
+
+    

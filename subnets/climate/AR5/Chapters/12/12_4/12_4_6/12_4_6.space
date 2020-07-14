@@ -1,0 +1,25 @@
+
+public: ar5-12.4.6
+name: Section 12.4.6
+title: 12.4.6 - Changes in Cryosphere
+section 12_4_6
+
+  |It is very likely that the Arctic {Glossary.*Sea_ice sea ice} cover will continue to shrink and thin all year round during the 21st century as the annual mean global {Topics.*Surface_Temperature surface temperature} rises. It is also likely that the Arctic Ocean will become nearly ice-free in September before the middle of the century for high GHG {Topics.*Emissions emissions} such as those corresponding to {Glossary.*RCP8_5 RCP8.5}. It is very likely that by the end of the 21st century, NH spring {Glossary.*Snow_cover_extent snow cover extent} will be substantially lower than today if {Glossary.*Anthropogenic anthropogenic} climate {Topics.*Radiative_Forcing forcing} is similar to the stronger {Topics.*Scenarios scenarios} considered here. It appears virtually certain that near-surface {Glossary.*Permafrost permafrost} extent will shrink as global climate warms.
+
+
+  apply FullText
+
+  
+
+  include
+    - 12_4_6_1
+    - 12_4_6_2
+
+  name: Section 12.4.6 - Full Text
+  path FullText
+    name: Changes in Sea Ice Cover
+    step
+      include
+        - Chapters.12.12_4.12_4_6.12_4_6_1.SectionDoc
+        - Chapters.12.12_4.12_4_6.12_4_6_2.SectionDoc
+    

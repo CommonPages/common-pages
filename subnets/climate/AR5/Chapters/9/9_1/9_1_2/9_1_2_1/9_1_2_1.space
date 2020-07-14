@@ -1,0 +1,15 @@
+
+public: ar5-9.1.2.1
+name: Section 9.1.2.1
+title: 9.1.2.1 - Atmosphere–Ocean General Circulation Models
+section 9_1_2_1
+
+  |{Topics.*Climate_System Atmosphere}–Ocean General Circulation Models ({Glossary.*Atmosphere_Ocean_General_Circulation_Model AOGCMs}) were the ‘standard’ {Topics.*Climate_Modelling climate models} assessed in the {cite.1.'IPCC_2007 AR4}. Their primary function is to understand the dynamics of the physical components of the climate system ({Glossary.*Atmosphere atmosphere}, ocean, land and {Glossary.*Sea_ice sea ice}), and for making {Topics.*Climate_Projections projections} based on future {Glossary.*Greenhouse_gas greenhouse gas} (GHG) and {Glossary.*Aerosol aerosol} {Topics.*Radiative_Forcing forcing}. These models continue to be extensively used.
+
+
+  
+
+  insert SectionDoc
+
+
+    

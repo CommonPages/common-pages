@@ -1,0 +1,30 @@
+
+public: ar5-14.1
+name: Section 14.1
+title: 14.1 - Introduction
+section 14_1
+
+  |{Topics.*Regional_Climate Regional climates} are the complex outcome of local physical processes and the non-local responses to large-scale phenomena such as the El Niño-{Glossary.*Southern_Oscillation Southern Oscillation} ({Glossary.*El_Nin_o_Southern_Oscillation ENSO}) and other dominant modes of {Topics.*Climate_Variability climate variability}. This chapter assesses the physical basis of future regional climate change in the context of changes in the following types of phenomena: monsoons and tropical convergence zones, large-scale modes of climate variability and tropical and extratropical cyclones.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 14_1_1
+    - 14_1_2
+    - 14_1_3
+    - 14_1_4
+
+  name: Section 14.1 - Full Text
+  path FullText
+    name: Introduction
+    step
+      include
+        - Chapters.14.14_1.SectionDoc
+        - Chapters.14.14_1.14_1_1.SectionDoc
+        - Chapters.14.14_1.14_1_2.SectionDoc
+        - Chapters.14.14_1.14_1_3.SectionDoc
+        - Chapters.14.14_1.14_1_4.SectionDoc
+    

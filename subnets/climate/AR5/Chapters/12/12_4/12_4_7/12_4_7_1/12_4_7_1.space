@@ -1,0 +1,15 @@
+
+public: ar5-12.4.7.1
+name: Section 12.4.7.1
+title: 12.4.7.1 - Sea Surface Temperature, Salinity and Ocean Heat Content
+section 12_4_7_1
+
+  |Projected increase of {Glossary.*Sea_Surface_Temperature SST} and heat content over the next two decades is relatively insensitive to the {Topics.*Emissions emissions} trajectory. However, projected outcomes diverge as the 21st century progresses. {'Figure_12_12 Figure 12.12} shows the multi-model mean {Topics.*Climate_Projections projections} of zonally averaged ocean temperature change under three emission {Topics.*Scenarios scenarios}. Depending on the {Glossary.*Emission_scenario emission scenario}, global ocean warming between 0.5°C ({Glossary.*RCP2_6 RCP2.6}) and 1.5°C ({Glossary.*RCP8_5 RCP8.5}) will reach a depth of about 1 km by the end of the century.
+
+
+  
+
+  insert SectionDoc
+
+
+    

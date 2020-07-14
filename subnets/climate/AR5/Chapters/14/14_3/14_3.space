@@ -1,0 +1,34 @@
+
+public: ar5-14.3
+name: Section 14.3
+title: 14.3 - Tropical Phenomena
+section 14_3
+
+  |There is medium confidence that annual rainfall changes over tropical oceans follow a ‘warmer-get-wetter’ pattern, increasing where the {Glossary.*Sea_Surface_Temperature SST} warming exceeds the tropical mean and vice versa. The wet-get-wetter effect is more obvious in the seasonal than annual rainfall change in the tropics. It is likely that the tropical Indian Ocean will feature a zonal pattern with reduced (enhanced) warming and decreased (increased) rainfall in the east (west). The Indian Ocean dipole mode will very likely remain active. There is low confidence in {Topics.*Climate_Projections projected} changes over the tropical Atlantic, and low confidence in how {Glossary.*Madden_Julian_Oscillation MJO} will change in the future.
+
+
+  apply FullText
+
+  
+
+  include
+    - 14_3_1
+    - 14_3_2
+    - 14_3_3
+    - 14_3_4
+    - 14_3_5
+
+  name: Section 14.3 - Full Text
+  path FullText
+    name: Convergence Zones
+    step
+      include
+        - Chapters.14.14_3.14_3_1.SectionDoc
+        - Chapters.14.14_3.14_3_1.14_3_1_1.SectionDoc
+        - Chapters.14.14_3.14_3_1.14_3_1_2.SectionDoc
+        - Chapters.14.14_3.14_3_1.14_3_1_3.SectionDoc
+        - Chapters.14.14_3.14_3_2.SectionDoc
+        - Chapters.14.14_3.14_3_3.SectionDoc
+        - Chapters.14.14_3.14_3_4.SectionDoc
+        - Chapters.14.14_3.14_3_5.SectionDoc
+    

@@ -1,0 +1,15 @@
+
+public: ar5-5.2.1.2
+name: Section 5.2.1.2
+title: 5.2.1.2 - Solar Forcing
+section 5_2_1_2
+
+  |Changes in total solar irradiance ({Glossary.*Total_solar_irradiance TSI}) directly impact the Earth’s surface, whereas changes in UV primarily affect the {Glossary.*Stratosphere stratosphere}, but can influence the tropospheric circulation through dynamical coupling. Solar irradiance models have been improved to explain better the instrumental measurements of TSI and spectral solar irradiance (SSI). Most models attribute all TSI and SSI changes exclusively to magnetic phenomena at the solar surface ({Glossary.*Sunspots sunspots}, faculae, magnetic network).
+
+
+  
+
+  insert SectionDoc
+
+
+    

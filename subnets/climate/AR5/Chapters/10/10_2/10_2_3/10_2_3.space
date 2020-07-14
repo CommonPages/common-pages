@@ -1,0 +1,15 @@
+
+public: ar5-10.2.3
+name: Section 10.2.3
+title: 10.2.3 - Methods Based on General Circulation Models and Optimal Fingerprinting
+section 10_2_3
+
+  |In a typical {Glossary.*Fingerprint fingerprint} analysis, model-simulated patterns of response to different combinations of {Topics.*Radiative_Forcing external forcings} are ‘observed’ in a similar manner to the historical record. The magnitudes of the model-simulated responses are then estimated in the observations using a variant of linear regression. In ‘optimal’ fingerprinting, model-simulated responses and observations are normalized by {Topics.*Climate_Variability internal variability} to improve the signal-to-noise (S/N) ratio.
+
+
+  
+
+  insert SectionDoc
+
+
+    

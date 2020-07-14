@@ -1,0 +1,27 @@
+index: hide
+
+<div class="Citation">
+    <div class="Citation-thumb CitationThumb-linked"  data-href="https://doi.org/10.1038/nature07771">
+      <img src="https://static.claimspace.cloud/climate-study-static/refs/thumbs/6/Lewis_et_al_2009-thumb.png" />
+    </div>
+
+  <div class="Citation-body">
+    <div class="Citation-text">Lewis et al., 2009: Increasing carbon storage in intact African tropical forests. <span class="Article-journal">Nature, </span><span class="Article-volume">457, </span>1003-1006pp.</div>
+    <div class="Citation-links">
+      <div class="CitationLink" data-href="https://doi.org/10.1038/nature07771">
+        <div class="CitationLink-icon CitationLink-Doi"></div>
+        <div class="CitationLink-text">DOI</div>
+      </div>
+      <div class="CitationLink" data-href="https://scholar.google.com/scholar?q=10.1038/nature07771">
+        <div class="CitationLink-icon CitationLink-Scholar"></div>
+        <div class="CitationLink-text">Google Scholar</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+The response of terrestrial vegetation to a globally changing environment is central to predictions of future levels of atmospheric carbon dioxide1,2. The role of tropical forests is critical because they are carbon-dense and highly productive3,4. Inventory plots across Amazonia show that old-growth forests have increased in carbon storage over recent decades5,6,7, but the response of one-third of the world’s tropical forests in Africa8 is largely unknown owing to an absence of spatially extensive observation networks9,10. Here we report data from a ten-country network of long-term monitoring plots in African tropical forests. We find that across 79 plots (163 ha) above-ground carbon storage in live trees increased by 0.63 Mg C ha-1 yr-1 between 1968 and 2007 (95% confidence interval (CI), 0.22–0.94; mean interval, 1987–96). Extrapolation to unmeasured forest components (live roots, small trees, necromass) and scaling to the continent implies a total increase in carbon storage in African tropical forest trees of 0.34 Pg C yr-1 (CI, 0.15–0.43). These reported changes in carbon storage are similar to those reported for Amazonian forests per unit area6,7, providing evidence that increasing carbon storage in old-growth forests is a pan-tropical phenomenon. Indeed, combining all standardized inventory data from this study and from tropical America and Asia5,6,11 together yields a comparable figure of 0.49 Mg C ha-1 yr-1 (n = 156; 562 ha; CI, 0.29–0.66; mean interval, 1987–97). This indicates a carbon sink of 1.3 Pg C yr-1 (CI, 0.8–1.6) across all tropical forests during recent decades. Taxon-specific analyses of African inventory and other data12 suggest that widespread changes in resource availability, such as increasing atmospheric carbon dioxide concentrations, may be the cause of the increase in carbon stocks13, as some theory14 and models2,10,15 predict.
+
+<div class="Citation-copy">
+&copy; Springer Nature, 2009
+</div>

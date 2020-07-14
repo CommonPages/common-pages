@@ -1,0 +1,34 @@
+
+public: ar5-8.3.2
+name: Section 8.3.2
+title: 8.3.2 - Well-mixed Greenhouse Gases
+section 8_3_2
+
+  |{cite.1.'IPCC_2007 AR4} assessed the {Topics.*Radiative_Forcing RF} from 1750 to 2005 of the {Topics.*The_Greenhouse_Effect WMGHGs} to be 2.63 W m–2. The total {Glossary.*Well_mixed_greenhouse_gas WMGHG} RF is now 2.83 W m–2. Since AR4, {Glossary.*Carbon_dioxide CO2} has accounted for more than 80% of the WMGHG RF increase, and {Glossary.*Nitrous_oxide_N2O N2O} has overtaken {Glossary.*CFC CFC}-12 as the third largest contributor to RF. The major changes to the science since AR4 are the updating of the atmospheric concentrations, the inclusion of new species (NF3 and SO2F2) and discussion of {Glossary.*Effective_radiative_forcing ERF} for CO2.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 8_3_2_1
+    - 8_3_2_2
+    - 8_3_2_3
+    - 8_3_2_4
+
+  name: Section 8.3.2 - Full Text
+  path FullText
+    name: Well-mixed Greenhouse Gases
+    step
+      include
+        - Chapters.8.8_3.8_3_2.SectionDoc
+        - Chapters.8.8_3.8_3_2.8_3_2_1.SectionDoc
+        - Chapters.8.8_3.8_3_2.8_3_2_2.SectionDoc
+        - Chapters.8.8_3.8_3_2.8_3_2_3.SectionDoc
+        - Chapters.8.8_3.8_3_2.8_3_2_4.SectionDoc
+        - Chapters.8.8_3.8_3_2.8_3_2_4.8_3_2_4_1.SectionDoc
+        - Chapters.8.8_3.8_3_2.8_3_2_4.8_3_2_4_2.SectionDoc
+        - Chapters.8.8_3.8_3_2.8_3_2_4.8_3_2_4_3.SectionDoc
+        - Chapters.8.8_3.8_3_2.8_3_2_4.8_3_2_4_4.SectionDoc
+    

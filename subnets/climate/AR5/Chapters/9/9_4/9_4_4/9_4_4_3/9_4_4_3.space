@@ -1,0 +1,15 @@
+
+public: ar5-9.4.4.3
+name: Section 9.4.4.3
+title: 9.4.4.3 - Dynamic Global Vegetation and Nitrogen Cycling
+section 9_4_4_3
+
+  |At the time of the {cite.1.'IPCC_2007 AR4} very few {Topics.*Climate_Modelling climate models} included dynamic vegetation. Since the AR4 there has been continual development of offline Dynamic Global Vegetation Models (DGVMs), and some climate models incorporate dynamic vegetation in at least a subset of the runs submitted to CMIP5, with likely consequences for climate model biases and {Topics.*Regional_Climate regional climate} {Topics.*Climate_Projections projection}.
+
+
+  
+
+  insert SectionDoc
+
+
+    

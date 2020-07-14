@@ -1,0 +1,28 @@
+
+public: ar5-4.4.2.1
+name: Section 4.4.2.1
+title: 4.4.2.1 - Techniques
+section 4_4_2_1
+
+  |The three broad techniques for measuring ice-sheet mass balance are the mass budget method, repeated {Glossary.*Altimetry altimetry} and measurement of temporal variations in the Earth’s gravity field.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 4_4_2_1_1
+    - 4_4_2_1_2
+    - 4_4_2_1_3
+
+  name: Section 4.4.2.1 - Full Text
+  path FullText
+    name: Techniques
+    step
+      include
+        - Chapters.4.4_4.4_4_2.4_4_2_1.SectionDoc
+        - Chapters.4.4_4.4_4_2.4_4_2_1.4_4_2_1_1.SectionDoc
+        - Chapters.4.4_4.4_4_2.4_4_2_1.4_4_2_1_2.SectionDoc
+        - Chapters.4.4_4.4_4_2.4_4_2_1.4_4_2_1_3.SectionDoc
+    

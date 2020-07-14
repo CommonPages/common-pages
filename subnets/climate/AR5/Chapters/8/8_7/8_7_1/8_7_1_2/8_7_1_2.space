@@ -1,0 +1,15 @@
+
+public: ar5-8.7.1.2
+name: Section 8.7.1.2
+title: 8.7.1.2 - The Global Warming Potential Concept
+section 8_7_1_2
+
+  |The Global Warming Potential ({Glossary.*Global_Warming_Potential GWP}) is defined as the time-integrated {Topics.*Radiative_Forcing RF} due to a pulse emission of a given component, relative to a pulse emission of an equal mass of {Glossary.*Carbon_dioxide CO2}. The GWP has become the default {Glossary.*Metric metric} for transferring {Topics.*Emissions emissions} of different gases to a common scale; often called ‘CO2 equivalent emissions’.
+
+
+  
+
+  insert SectionDoc
+
+
+    

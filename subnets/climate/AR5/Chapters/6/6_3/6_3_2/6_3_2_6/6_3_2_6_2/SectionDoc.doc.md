@@ -1,0 +1,14 @@
+index: hide
+public: ar5-
+name: Section 6.3.2.6.2
+title: 6.3.2.6.2 - Regional atmosphere-to-land carbon dioxide fluxes
+
+The results from atmospheric {Glossary.*Carbon_dioxide CO2} inversions, terrestrial {Glossary.*Ecosystem ecosystem} models and {Glossary.*Forest forest} inventories consistently show that there is a large net CO2 {Glossary.*Sink sink} in the northern extratropics, albeit the very limited availability of observations in the tropics ({cite.6.'Jacobson_et_al_2007}; {cite.6.'Gurney_and_Eckels_2011}; {cite.6.'Pan_et_al_2011}). Inversion estimates of {Topics.*Climate_System atmosphere}–land CO2 fluxes show net {Glossary.*Atmosphere atmosphere}-to-land CO2 flux estimates ranging from neutral to a net {Glossary.*Source source} of 0.5 to 1.0 PgC yr–1 ({cite.6.'Jacobson_et_al_2007}; {cite.6.'Gurney_and_Eckels_2011}) ({'Figure_6_15 Figure 6.15}). However, {cite.6.'Stephens_et_al_2007 Stephens et al. (2007)} selected from an {Glossary.*Ensemble ensemble} of inversion models those that were consistent with independent aircraft cross-validation data, and constrained an atmosphere-to-land CO2 flux of 0.1 ± 0.8 PgC yr–1 during the period 1992–1996, and a NH net CO2 sink of 1.5 ± 0.6 PgC yr–1. These results shows that after subtracting {Topics.*Emissions emissions} from {Topics.*Land_Use_Change land use change}, tropical land ecosystems might also be large CO2 sinks.
+
+{image:'Figure_6_15}
+
+Based on repeated forest {Glossary.*Biomass biomass} inventory data, estimated soil carbon changes, and CO2 emissions from land use change from the bookkeeping method of {cite.6.'Houghton_et_al_2012 Houghton et al. (2012)}, {cite.6.'Pan_et_al_2011 Pan et al. (2011)} estimated a global forest carbon {Glossary.*Accumulation accumulation} of 0.5 ± 0.1 PgCyr–1 in boreal forests, and of 0.8 ± 0.1 PgC yr–1 in temperate forests for the period 2000–2007. Tropical forests were found to be near neutral with net emissions from land use change being compensated by sinks in established tropical forests (forests not affected by land use change), therefore consistent with the {cite.6.'Stephens_et_al_2007 Stephens et al. (2007)} inversion estimate of tropical atmosphere–land CO2 fluxes.
+
+Since {cite.1.'IPCC_2007 AR4}, a number of studies have compared and attempted to reconcile regional atmosphere-to-land CO2 flux estimates from multiple approaches and so providing further spatial {Glossary.*Resolution resolution} of the regional contributions of carbon sources and sinks ({'Table_6_6 Table 6.6}). A synthesis of regional contributions estimated a 1.7 PgC yr–1 sink in the NH regions above 20°N with consistent estimates from terrestrial models and inventories ({Topics.*Uncertainty uncertainty}: ±0.3 PgC yr–1) and atmospheric CO2 inversions (uncertainty: ±0.7 PgC yr–1) ({cite.6.'Ciais_et_al_2010}).
+
+{table:'Table_6_6}

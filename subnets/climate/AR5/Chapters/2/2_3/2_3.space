@@ -1,0 +1,30 @@
+
+public: ar5-2.3
+name: Section 2.3
+title: 2.3 - Changes in Radiation Budgets
+section 2_3
+
+  |The {Topics.*Radiation_Budgets radiation budget} of the Earth is a central element of the climate system. Since {cite.1.'IPCC_2007 AR4}, knowledge on the magnitude of the radiative energy fluxes in the climate system has improved. Newly available observations allow a better quantification of the Global Energy Budget. It is unlikely that significant trends exist in global and tropical radiation budgets since 2000. The evidence for widespread multi-decadal variations in {Glossary.*Solar_radiation solar radiation} incident on land surfaces has been substantiated since AR4, with many of the observational records showing a decline from the 1950s to the 1980s (‘dimming’), and a partial recovery thereafter (‘brightening’).
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 2_3_1
+    - 2_3_2
+    - 2_3_3
+
+  name: Section 2.3 - Full Text
+  path FullText
+    name: Changes in Radiation Budgets
+    step
+      include
+        - Chapters.2.2_3.SectionDoc
+        - Chapters.2.2_3.2_3_1.SectionDoc
+        - Chapters.2.2_3.2_3_2.SectionDoc
+        - Chapters.2.2_3.2_3_3.2_3_3_1.SectionDoc
+        - Chapters.2.2_3.2_3_3.2_3_3_2.SectionDoc
+        - Chapters.2.2_3.2_3_3.2_3_3_3.SectionDoc
+    

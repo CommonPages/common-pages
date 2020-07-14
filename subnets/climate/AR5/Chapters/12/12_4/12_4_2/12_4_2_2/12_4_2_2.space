@@ -1,0 +1,15 @@
+
+public: ar5-12.4.2.2
+name: Section 12.4.2.2
+title: 12.4.2.2 - Coupled Model Intercomparison Project Phase 5 Patterns Scaled by Global Average Temperature Change
+section 12_4_2_2
+
+  |On the basis of CMIP5 simulations, we show geographical patterns ({'Figure_12_10 Figure 12.10}) of warming and precipitation change and indicate measures of their variability across models and across {Glossary.*Representative_Concentration_Pathways RCPs}. As already mentioned, although we do not explicitly use pattern scaling in the sections that follow, we consider it a useful approximation when the need emerges to interpolate or extrapolate results to different {Topics.*Scenarios scenarios} or time periods, noting the possibility that the scaling may break down at higher levels of global warming, and that the validity of the approximation is limited to broad patterns of change, as opposed to local scales.
+
+
+  
+
+  insert SectionDoc
+
+
+    

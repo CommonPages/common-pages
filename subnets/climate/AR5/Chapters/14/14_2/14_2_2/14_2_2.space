@@ -1,0 +1,32 @@
+
+public: ar5-14.2.2
+name: Section 14.2.2
+title: 14.2.2 - Asian-Australian Monsoon
+section 14_2_2
+
+  |The seasonal variation in the thermal contrast between the large Eurasian landmass and the Pacific-Indian Oceans drives the powerful Asian-Australian {Glossary.*Monsoon monsoon} (AAM) system ({'Figure_14_3 Figure 14.3}), which consists of five major subsystems: Indian (also known as South Asian), East Asian, Maritime Continent, Australian, and Western North Pacific monsoons. More than 85% of CMIP5 models show an increase in mean precipitation of the East Asian summer (EAS) monsoon, while more than 95% of models project an increase in heavy precipitation events ({'Figure_14_4 Figure 14.4}). All models and all {Topics.*Scenarios scenarios} project an increase in both the mean and extreme precipitation in the Indian summer monsoon.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 14_2_2_1
+    - 14_2_2_2
+    - 14_2_2_3
+    - 14_2_2_4
+    - 14_2_2_5
+
+  name: Section 14.2.2 - Full Text
+  path FullText
+    name: Asian-Australian Monsoon
+    step
+      include
+        - Chapters.14.14_2.14_2_2.SectionDoc
+        - Chapters.14.14_2.14_2_2.14_2_2_1.SectionDoc
+        - Chapters.14.14_2.14_2_2.14_2_2_2.SectionDoc
+        - Chapters.14.14_2.14_2_2.14_2_2_3.SectionDoc
+        - Chapters.14.14_2.14_2_2.14_2_2_4.SectionDoc
+        - Chapters.14.14_2.14_2_2.14_2_2_5.SectionDoc
+    

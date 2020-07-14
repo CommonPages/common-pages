@@ -1,0 +1,15 @@
+
+public: ar5-8.2.3.3
+name: Section 8.2.3.3
+title: 8.2.3.3 - Methane
+section 8_2_3_3
+
+  |The surface {Glossary.*Mixing_ratio mixing ratio} of {Glossary.*Methane_CH4 CH4} has increased by 150% since pre-industrial times, with some {Topics.*Climate_Projections projections} indicating a further doubling by 2100. The chemical coupling between OH and CH4 leads to a significant amplification of an emission impact; that is, increasing CH4 {Topics.*Emissions emissions} decreases tropospheric OH which in turn increases the CH4 {Glossary.*Lifetime lifetime} and therefore its burden.
+
+
+  
+
+  insert SectionDoc
+
+
+    

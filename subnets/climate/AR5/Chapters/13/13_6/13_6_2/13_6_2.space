@@ -1,0 +1,15 @@
+
+public: ar5-13.6.2
+name: Section 13.6.2
+title: 13.6.2 - Coupled Model Intercomparison Project Phase 5 General Circulation Model Projections on Decadal to Centennial Time Scales
+section 13_6_2
+
+  |The CMIP5 {Glossary.*Ensemble ensemble} indicates that regions showing an enhanced {Topics.*Sea_Level sea level} toward the end of the 21st century coincide with those showing the largest {Topics.*Uncertainty uncertainty} ({'Figure_13_16 Figure 13.16}b). The contribution of changes of global ocean heat storage to regional {Glossary.*Steric steric} sea level anomalies is virtually certain to increase with time as the climate warming signal increasingly penetrates into the deep ocean. It is likely that future {Glossary.*Thermosteric thermosteric} changes will dominate the steric variations in the Southern Ocean, and strong compensation between thermosteric and {Glossary.*Halosteric halosteric} change will characterize the Atlantic.
+
+
+  
+
+  insert SectionDoc
+
+
+    

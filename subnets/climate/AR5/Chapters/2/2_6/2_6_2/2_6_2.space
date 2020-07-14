@@ -1,0 +1,30 @@
+
+public: ar5-2.6.2
+name: Section 2.6.2
+title: 2.6.2 - Extremes of the Hydrological Cycle
+section 2_6_2
+
+  |It is likely that there have been statistically significant increases in the number of heavy precipitation events in more regions than there have been statistically significant decreases. There continues to be a lack of evidence regarding the magnitude and/or frequency of floods on a global scale. There is also not enough evidence to suggest more than low confidence in a global-scale observed {Glossary.*Trend trend} in {Glossary.*Drought drought} or dryness.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 2_6_2_1
+    - 2_6_2_2
+    - 2_6_2_3
+    - 2_6_2_4
+
+  name: Section 2.6.2 - Full Text
+  path FullText
+    name: Extremes of the Hydrological Cycle
+    step
+      include
+        - Chapters.2.2_6.2_6_2.SectionDoc
+        - Chapters.2.2_6.2_6_2.2_6_2_1.SectionDoc
+        - Chapters.2.2_6.2_6_2.2_6_2_2.SectionDoc
+        - Chapters.2.2_6.2_6_2.2_6_2_3.SectionDoc
+        - Chapters.2.2_6.2_6_2.2_6_2_4.SectionDoc
+    

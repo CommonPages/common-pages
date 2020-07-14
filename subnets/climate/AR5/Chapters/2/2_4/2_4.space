@@ -1,0 +1,38 @@
+
+public: ar5-2.4
+name: Section 2.4
+title: 2.4 - Changes in Temperature
+section 2_4
+
+  |It is certain that globally averaged near {Topics.*Surface_Temperature surface temperatures} have increased since the late 19th century. Each of the past three decades has been warmer than all the previous decades in the instrumental record, and the decade of the 2000s has been the warmest. For the longest period when calculation of regional trends is sufficiently complete (1901–2012), almost the entire globe has experienced surface warming.
+
+
+  apply FullText
+
+  
+
+  include
+    - 2_4_1
+    - 2_4_2
+    - 2_4_3
+    - 2_4_4
+
+  name: Section 2.4 - Full Text
+  path FullText
+    name: Large-Scale Records and Their Uncertainties
+    step
+      include
+        - Chapters.2.2_4.2_4_1.2_4_1_1.SectionDoc
+        - Chapters.2.2_4.2_4_1.2_4_1_2.SectionDoc
+        - Chapters.2.2_4.2_4_1.2_4_1_3.SectionDoc
+        - Chapters.2.2_4.2_4_2.SectionDoc
+        - Chapters.2.2_4.2_4_2.2_4_2_1.2_4_2_1_1.SectionDoc
+        - Chapters.2.2_4.2_4_2.2_4_2_1.2_4_2_1_2.SectionDoc
+        - Chapters.2.2_4.2_4_2.2_4_2_2.SectionDoc
+        - Chapters.2.2_4.2_4_3.SectionDoc
+        - Chapters.2.2_4.2_4_4.SectionDoc
+        - Chapters.2.2_4.2_4_4.2_4_4_1.SectionDoc
+        - Chapters.2.2_4.2_4_4.2_4_4_2.SectionDoc
+        - Chapters.2.2_4.2_4_4.2_4_4_3.SectionDoc
+        - Chapters.2.2_4.2_4_4.2_4_4_4.SectionDoc
+    

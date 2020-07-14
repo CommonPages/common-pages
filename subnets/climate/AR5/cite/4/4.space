@@ -1,0 +1,3302 @@
+
+space 4
+
+  name: Tedesco et al., 2011
+  title: The role of albedo and accumulation in the 2010 melting record in Greenland
+  lead: In Environmental Research Letters, 2011
+  article 'Tedesco_et_al_2011
+    insert Tedesco_et_al_2011_abstract
+
+  name: Moon et al., 2012
+  title: 21st-Century Evolution of Greenland Outlet Glacier Velocities
+  lead: In Science, 2012
+  article 'Moon_et_al_2012
+    insert Moon_et_al_2012_abstract
+
+  name: Rignot, 2008
+  title: Changes in West Antarctic ice stream dynamics observed with ALOS PALSAR data
+  lead: In Geophysical Research Letters, 2008
+  article 'Rignot_2008
+    insert Rignot_2008_abstract
+
+  name: Bales et al., 2009
+  title: Annual accumulation for Greenland updated using ice core data developed during 2000-2006 and analysis of daily coastal meteorological data
+  lead: In Journal of Geophysical Research-Atmospheres, 2009
+  article 'Bales_et_al_2009
+    insert Bales_et_al_2009_abstract
+
+  name: Thomas et al., 2009
+  title: Recent changes on Greenland outlet glaciers
+  lead: In Journal of Glaciology, 2009
+  article 'Thomas_et_al_2009
+    insert Thomas_et_al_2009_abstract
+
+  name: Nick et al., 2010
+  title: A physically based calving model applied to marine outlet glaciers and implications for their dynamics
+  lead: In Journal of Glaciology, 2010
+  article 'Nick_et_al_2010
+    insert Nick_et_al_2010_abstract
+
+  name: Knoll and Kerschner, 2009
+  title: A glacier inventory for South Tyrol, Italy, based on airborne laser-scanner data
+  lead: In Annals of Glaciology, 2009
+  article 'Knoll_and_Kerschner_2009
+    insert Knoll_and_Kerschner_2009_abstract
+
+  name: Oberman, ?
+  title: Contemporary Permafrost Degradation of Northern European Russia
+  ref 'Oberman_a
+    insert Oberman_a_abstract
+
+  name: Hagg et al., 2012
+  title: Glacier changes in the Big Naryn basin, Central Tian Shan
+  lead: In Global and Planetary Change, 2012
+  article 'Hagg_et_al_2012
+    insert Hagg_et_al_2012_abstract
+
+  name: Bown et al., 2008
+  title: Recent glacier variations at the Aconcagua basin, central Chilean Andes
+  lead: In Annals of Glaciology, Vol 48, 2008
+  booksec 'Bown_et_al_2008
+    insert Bown_et_al_2008_abstract
+
+  name: Turner et al., 2005
+  title: Antarctic climate change during the last 50 years
+  lead: In International Journal of Climatology, 2005
+  article 'Turner_et_al_2005
+    insert Turner_et_al_2005_abstract
+
+  name: WGMS, 2008
+  title: Global Glacier Changes: facts and figures
+  lead: By UNEP, 2008
+  book 'WGMS_2008
+    insert WGMS_2008_abstract
+
+  name: Scherler et al., 2011
+  title: Spatially variable response of Himalayan glaciers to climate change affected by debris cover
+  lead: In Nature Geoscience, 2011
+  article 'Scherler_et_al_2011
+    insert Scherler_et_al_2011_abstract
+
+  name: Nicholls, 2005
+  title: Climate variability, climate change and the Australian snow season
+  lead: In Australian Meteorological Magazine, 2005
+  article 'Nicholls_2005
+    insert Nicholls_2005_abstract
+
+  name: Li and Zwally, 2011
+  title: Modeling of firn compaction for estimating ice-sheet mass change from observed ice-sheet elevation change
+  lead: In Annals of Glaciology, 2011
+  article 'Li_and_Zwally_2011
+    insert Li_and_Zwally_2011_abstract
+
+  name: Doake et al., 1998
+  title: Breakup and conditions for stability of the northern Larsen Ice Shelf, Antarctica
+  lead: In Nature, 1998
+  article 'Doake_et_al_1998
+    insert Doake_et_al_1998_abstract
+
+  name: Gardner et al., 2011
+  title: Sharply increased mass loss from glaciers and ice caps in the Canadian Arctic Archipelago
+  lead: In Nature, 2011
+  article 'Gardner_et_al_2011
+    insert Gardner_et_al_2011_abstract
+
+  name: Lopez et al., 2010
+  title: A regional view of fluctuations in glacier length in southern South America
+  lead: In Global and Planetary Change, 2010
+  article 'Lopez_et_al_2010
+    insert Lopez_et_al_2010_abstract
+
+  name: Arendt et al., 2002
+  title: Rapid wastage of Alaska glaciers and their contribution to rising sea level
+  lead: In Science, 2002
+  article 'Arendt_et_al_2002
+    insert Arendt_et_al_2002_abstract
+
+  name: Smith et al., 2010
+  title: Thermal State of Permafrost in North America: A Contribution to the International Polar Year
+  lead: In Permafrost and Periglacial Processes, 2010
+  article 'Smith_et_al_2010
+    insert Smith_et_al_2010_abstract
+
+  name: King et al., 2012
+  title: Lower satellite-gravimetry estimates of Antarctic sea-level contribution 
+  lead: In Nature, 2012
+  article 'King_et_al_2012
+    insert King_et_al_2012_abstract
+
+  name: De Angelis and Skvarca, 2003
+  title: Glacier surge after ice shelf collapse
+  lead: In Science, 2003
+  article 'De_Angelis_and_Skvarca_2003
+    insert De_Angelis_and_Skvarca_2003_abstract
+
+  name: M. Macias Fauria et al., 2010
+  title: Unprecedented low twentieth century winter sea ice extent in the Western Nordic Seas since AD 1200
+  lead: In Clim. Dyn., 2010
+  article 'M_MaciasFauria_et_al_2010
+    insert M_MaciasFauria_et_al_2010_abstract
+
+  name: Straneo et al., 2010
+  title: Rapid circulation of warm subtropical waters in a major glacial fjord in East Greenland
+  lead: In Nature Geoscience, 2010
+  article 'Straneo_et_al_2010
+    insert Straneo_et_al_2010_abstract
+
+  name: Wu et al., 2010
+  title: Simultaneous estimation of global present-day water transport and glacial isostatic adjustment
+  lead: In Nature Geoscience, 2010
+  article 'Wu_et_al_2010
+    insert Wu_et_al_2010_abstract
+
+  name: Arendt et al., 2012
+  title: Randolph Glacier Inventory [v2.0]: A Dataset of Global Glacier Outlines
+  report 'Arendt_et_al_2012
+    insert Arendt_et_al_2012_abstract
+
+  name: Zamolodchikov, ?
+  title: Recent climate and active layer changes in Northeast Russia: regional output of Circumpolar Active Layer Monitoring (CALM)
+  ref 'Zamolodchikov_
+    insert Zamolodchikov__abstract
+
+  name: Throop et al., 2012
+  title: Climate and ground temperature relations at sites across the continuous and discontinuous permafrost zones, northern Canada
+  lead: In Canadian Journal of Earth Sciences, 2012
+  article 'Throop_et_al_2012
+    insert Throop_et_al_2012_abstract
+
+  name: Brown and Robinson, 2011
+  title: Northern Hemisphere spring snow cover variability and change over 1922–2010 including an assessment of uncertainty
+  lead: In The Cryosphere, 2011
+  article 'Brown_and_Robinson_2011
+    insert Brown_and_Robinson_2011_abstract
+
+  name: Li et al., 2012b
+  title: Changes in the near-surface soil freeze-thaw cycle on the Qinghai-Tibetan Plateau
+  lead: In International Journal of Applied Earth Observation and Geoinformation, 2012
+  article 'Li_et_al_2012b
+    insert Li_et_al_2012b_abstract
+
+  name: Krabill et al., 1999
+  title: Rapid thinning of parts of the southern Greenland ice sheet
+  lead: In Science, 1999
+  article 'Krabill_et_al_1999
+    insert Krabill_et_al_1999_abstract
+
+  name: Arthern et al., 2006
+  title: Antarctic snow accumulation mapped using polarization of 4.3-cm wavelength microwave emission
+  lead: In Journal of Geophysical Research-Atmospheres, 2006
+  article 'Arthern_et_al_2006
+    insert Arthern_et_al_2006_abstract
+
+  name: Moon and Joughin, 2008
+  title: Changes in ice front position on Greenland's outlet glaciers from 1992 to 2007
+  lead: In Journal of Geophysical Research-Earth Surface, 2008
+  article 'Moon_and_Joughin_2008
+    insert Moon_and_Joughin_2008_abstract
+
+  name: Thomas et al., 2008
+  title: A doubling in snow accumulation in the western Antarctic Peninsula since 1850
+  lead: In Geophysical Research Letters, 2008
+  article 'Thomas_et_al_2008a
+    insert Thomas_et_al_2008a_abstract
+
+  name: Mazhitova, 2008
+  title: Soil temperature regimes in the discontinuous permafrost zone in the east European Russian Arctic
+  lead: In Eurasian Soil Science, 2008
+  article 'Mazhitova_2008
+    insert Mazhitova_2008_abstract
+
+  name: Brown and Mote, 2009
+  title: The Response of Northern Hemisphere Snow Cover to a Changing Climate
+  lead: In Journal of Climate, 2009
+  article 'Brown_and_Mote_2009
+    insert Brown_and_Mote_2009_abstract
+
+  name: Zwally et al., 2008
+  title: ICESat measurements of sea ice freeboard and estimates of sea ice thickness in the Weddell Sea
+  lead: In Journal of Geophysical Research-Oceans, 2008
+  article 'Zwally_et_al_2008
+    insert Zwally_et_al_2008_abstract
+
+  name: Shepherd et al., 2009
+  title: Greenland ice sheet motion coupled with daily melting in late summer
+  lead: In Geophysical Research Letters, 2009
+  article 'Shepherd_et_al_2009
+    insert Shepherd_et_al_2009_abstract
+
+  name: MacAyeal et al., 2006
+  title: Transoceanic wave propagation links iceberg calving margins of Antarctica with storms in tropics and Northern Hemisphere
+  lead: In Geophysical Research Letters, 2006
+  article 'MacAyeal_et_al_2006
+    insert MacAyeal_et_al_2006_abstract
+
+  name: Haas et al., 2010
+  title: Synoptic airborne thickness surveys reveal state of Arctic sea ice cover
+  lead: In Geophysical Research Letters, 2010
+  article 'Haas_et_al_2010
+    insert Haas_et_al_2010_abstract
+
+  name: Bahr et al., 1997
+  title: The physical basis of glacier volume-area scaling
+  lead: In Journal of Geophysical Research-Solid Earth, 1997
+  article 'Bahr_et_al_1997
+    insert Bahr_et_al_1997_abstract
+
+  name: Alley et al., 2008
+  title: A Simple Law for Ice-Shelf Calving
+  lead: In Science, 2008
+  article 'Alley_et_al_2008
+    insert Alley_et_al_2008_abstract
+
+  name: Rignot et al., 2011
+  title: Acceleration of the contribution of the Greenland and Antarctic ice sheets to sea level rise
+  lead: In Geophysical Research Letters, 2011
+  article 'Rignot_et_al_2011
+    insert Rignot_et_al_2011_abstract
+
+  name: Payne et al., 2004
+  title: Recent dramatic thinning of largest West Antarctic ice stream triggered by oceans
+  lead: In Geophysical Research Letters, 2004
+  article 'Payne_et_al_2004
+    insert Payne_et_al_2004_abstract
+
+  name: Marchenko et al., 2007
+  title: Permafrost warming in the Tien Shan Mountains, Central Asia
+  lead: In Global and Planetary Change, 2007
+  article 'Marchenko_et_al_2007
+    insert Marchenko_et_al_2007_abstract
+
+  name: Kutuzov and Shahgedanova, 2009
+  title: Glacier retreat and climatic variability in the eastern Terskey-Alatoo, inner Tien Shan between the middle of the 19th century and beginning of the 21st century
+  lead: In Global and Planetary Change, 2009
+  article 'Kutuzov_and_Shahgedanova_2009
+    insert Kutuzov_and_Shahgedanova_2009_abstract
+
+  name: Zwally et al., 2005
+  title: Mass changes of the Greenland and Antarctic ice sheets and shelves and contributions to sea-level rise: 1992-2002
+  lead: In Journal of Glaciology, 2005
+  article 'Zwally_et_al_2005
+    insert Zwally_et_al_2005_abstract
+
+  name: Overduin et al., 2012
+  title: Geoelectric observations of the degradation of nearshore submarine permafrost at Barrow (Alaskan Beaufort Sea)
+  lead: In Journal of Geophysical Research-Earth Surface, 2012
+  article 'Overduin_et_al_2012
+    insert Overduin_et_al_2012_abstract
+
+  name: Spreen et al., 2009
+  title: Fram Strait sea ice volume export estimated between 2003 and 2008 from satellite data
+  lead: In Geophysical Research Letters, 2009
+  article 'Spreen_et_al_2009
+    insert Spreen_et_al_2009_abstract
+
+  name: Abdalati et al., 2010
+  title: The ICESat-2 Laser Altimetry Mission
+  lead: In Proceedings of the IEEE, 2010
+  article 'Abdalati_et_al_2010
+    insert Abdalati_et_al_2010_abstract
+
+  name: Stammerjohn et al., 2008
+  title: Trends in Antarctic annual sea ice retreat and advance and their relation to El Nino-Southern Oscillation and Southern Annular Mode variability
+  lead: In Journal of Geophysical Research-Oceans, 2008
+  article 'Stammerjohn_et_al_2008
+    insert Stammerjohn_et_al_2008_abstract
+
+  name: Streletskiy et al., ?
+  title: 13 Years of Observations at Alaskan CALM Sites: Long-term Active Layer and Ground Surface Temperature Trends
+  ref 'Streletskiy_et_al_
+    insert Streletskiy_et_al__abstract
+
+  name: Ling and Zhang, 2003
+  title: Numerical simulation of permafrost thermal regime and talik development under shallow thaw lakes on the Alaskan Arctic Coastal Plain
+  lead: In Journal of Geophysical Research-Atmospheres, 2003
+  article 'Ling_and_Zhang_2003
+    insert Ling_and_Zhang_2003_abstract
+
+  name: Osterkamp, ?
+  title: Thermal State of Permafrost in Alaska During the Fourth Quarter of the Twentieth Century
+  lead: By Institute of Northern Engineering
+  ref 'Osterkamp_
+    insert Osterkamp__abstract
+
+  name: Massom and Stammerjohn, 2010
+  title: Antarctic sea ice change and variability - Physical and ecological implications
+  lead: In Polar Science, 2010
+  article 'Massom_and_Stammerjohn_2010
+    insert Massom_and_Stammerjohn_2010_abstract
+
+  name: Azam et al., 2012
+  title: From balance to imbalance: a shift in the dynamic behaviour of Chhota Shigri glacier, western Himalaya, India
+  lead: In Journal of Glaciology, 2012
+  article 'Azam_et_al_2012
+    insert Azam_et_al_2012_abstract
+
+  name: Christoffersen et al., 2011
+  title: Warming of waters in an East Greenland fjord prior to glacier retreat: mechanisms and connection to large-scale atmospheric conditions
+  lead: In Cryosphere, 2011
+  article 'Christoffersen_et_al_2011
+    insert Christoffersen_et_al_2011_abstract
+
+  name: Comiso et al., 2008
+  title: Accelerated decline in the Arctic Sea ice cover
+  lead: In Geophysical Research Letters, 2008
+  article 'Comiso_et_al_2008
+    insert Comiso_et_al_2008_abstract
+
+  name: Howat et al., 2011
+  title: Mass balance of Greenland's three largest outlet glaciers, 2000-2010
+  lead: In Geophysical Research Letters, 2011
+  article 'Howat_et_al_2011
+    insert Howat_et_al_2011_abstract
+
+  name: Marushchak et al., 2011
+  title: Hot spots for nitrous oxide emissions found in different types of permafrost peatlands
+  lead: In Global Change Biology, 2011
+  article 'Marushchak_et_al_2011
+    insert Marushchak_et_al_2011_abstract
+
+  name: Delaloye et al., 2011
+  title: Recent interannual variations of rock glacier creep in the European Alps
+  ref 'Delaloye_et_al_2011
+    insert Delaloye_et_al_2011_abstract
+
+  name: Berthier et al., 2010
+  title: Contribution of Alaskan glaciers to sea-level rise derived from satellite imagery
+  lead: In Nature Geoscience, 2010
+  article 'Berthier_et_al_2010
+    insert Berthier_et_al_2010_abstract
+
+  name: Young et al., 2011b
+  title: Response of a marine-terminating Greenland outlet glacier to abrupt cooling 8200 and 9300 years ago
+  lead: In Geophysical Research Letters, 2011
+  article 'Young_et_al_2011b
+    insert Young_et_al_2011b_abstract
+
+  name: Joughin et al., 2004
+  title: Large fluctuations in speed on Greenland's Jakobshavn Isbrae glacier
+  lead: In Nature, 2004
+  article 'Joughin_et_al_2004
+    insert Joughin_et_al_2004_abstract
+
+  name: Thomson et al., 2011
+  title: Glacier change on Axel Heiberg Island, Nunavut, Canada
+  lead: In Journal of Glaciology, 2011
+  article 'Thomson_et_al_2011
+    insert Thomson_et_al_2011_abstract
+
+  name: Khan et al., 2010b
+  title: Spread of ice mass loss into northwest Greenland observed by GRACE and GPS
+  lead: In Geophysical Research Letters, 2010
+  article 'Khan_et_al_2010b
+    insert Khan_et_al_2010b_abstract
+
+  name: Mitchell and Jones, 2005
+  title: An improved method of constructing a database of monthly climate observations and associated high-resolution grids
+  lead: In International Journal of Climatology, 2005
+  article 'Mitchell_and_Jones_2005
+    insert Mitchell_and_Jones_2005_abstract
+
+  name: Holland et al., 2008
+  title: Acceleration of Jakobshavn Isbrae triggered by warm subsurface ocean waters
+  lead: In Nature Geoscience, 2008
+  article 'Holland_et_al_2008
+    insert Holland_et_al_2008_abstract
+
+  name: Cavalieri and Parkinson, 2012
+  title: Arctic sea ice variability and trends, 1979-2010
+  lead: In The Cryosphere, 2012
+  article 'Cavalieri_and_Parkinson_2012
+    insert Cavalieri_and_Parkinson_2012_abstract
+
+  name: Scambos et al., 2004
+  title: Glacier acceleration and thinning after ice shelf collapse in the Larsen B embayment, Antarctica
+  lead: In Geophysical Research Letters, 2004
+  article 'Scambos_et_al_2004
+    insert Scambos_et_al_2004_abstract
+
+  name: Nghiem et al., 2007
+  title: Rapid reduction of Arctic perennial sea ice
+  lead: In Geophysical Research Letters, 2007
+  article 'Nghiem_et_al_2007
+    insert Nghiem_et_al_2007_abstract
+
+  name: Wadhams, 1990
+  title: Evidence for thinning of the Arctic ice cover north of Greenland
+  lead: In Nature, 1990
+  article 'Wadhams_1990
+    insert Wadhams_1990_abstract
+
+  name: Noetzli and Vonder Muehll, 2010
+  title: Permafrost in Switzerland 2006/2007 and 2007/2008
+  lead: By Glaciological Report (Permafrost) No. 8/9 of the Cryospheric Commission of the Swiss Academy of Sciences, 2010
+  report 'Noetzli_and_Vonder_Muehll_2010
+    insert Noetzli_and_Vonder_Muehll_2010_abstract
+
+  name: Leclercq and Oerlemans, 2012
+  title: Global and hemispheric temperature reconstruction from glacier length fluctuations
+  lead: In Climate Dynamics, 2012
+  article 'Leclercq_and_Oerlemans_2012
+    insert Leclercq_and_Oerlemans_2012_abstract
+
+  name: Kwok, 2004
+  title: Annual cycles of multiyear sea ice coverage of the Arctic Ocean: 1999-2003
+  lead: In Journal of Geophysical Research-Oceans, 2004
+  article 'Kwok_2004
+    insert Kwok_2004_abstract
+
+  name: Zwally and Giovinetto, 2011
+  title: Overview and Assessment of Antarctic Ice-Sheet Mass Balance Estimates: 1992-2009
+  lead: In Surveys in Geophysics, 2011
+  article 'Zwally_and_Giovinetto_2011
+    insert Zwally_and_Giovinetto_2011_abstract
+
+  name: Hughes, 1973
+  title: Is the West Antarctic ice sheet disintegrating?
+  lead: In Journal of Geophysical Research, 1973
+  article 'Hughes_1973
+    insert Hughes_1973_abstract
+
+  name: Foster et al., 2009
+  title: Seasonal snow extent and snow mass in South America using SMMR and SSM/I passive microwave data (1979-2006)
+  lead: In Remote Sensing of Environment, 2009
+  article 'Foster_et_al_2009
+    insert Foster_et_al_2009_abstract
+
+  name: Carrivick et al., 2012
+  title: Late-Holocene changes in character and behaviour of land-terminating glaciers on James Ross Island, Antarctica
+  lead: In Journal of Glaciology, 2012
+  article 'Carrivick_et_al_2012
+    insert Carrivick_et_al_2012_abstract
+
+  name: Solomon et al., 2008
+  title: Nearshore Ground Temperatures, Seasonal Ice Bonding and Permafrost Formation Within the Bottom-Fast Ice Zone, Mackenzie Delta, NWT
+  lead: By Institute of Northern Engineering, University of Alaska, Fairbanks, 2008
+  ref 'Solomon_et_al_2008
+    insert Solomon_et_al_2008_abstract
+
+  name: Phillips et al., 2010
+  title: Cryo-hydrologic warming: A potential mechanism for rapid thermal response of ice sheets
+  lead: In Geophysical Research Letters, 2010
+  article 'Phillips_et_al_2010
+    insert Phillips_et_al_2010_abstract
+
+  name: Laxon et al., 2013
+  title: CryoSat-2 estimates of Arctic sea ice thickness and volume
+  lead: In Geophyiscal Research Letters, 2013
+  article 'Laxon_et_al_2013
+    insert Laxon_et_al_2013_abstract
+
+  name: Rignot and Kanagaratnam, 2006
+  title: Changes in the velocity structure of the Greenland ice sheet
+  lead: In Science, 2006
+  article 'Rignot_and_Kanagaratnam_2006
+    insert Rignot_and_Kanagaratnam_2006_abstract
+
+  name: Whitehouse et al., 2012
+  title: A new glacial isostatic adjustment model for Antarctica: calibrated and tested using observations of relative sea-level change and present-day uplift rates
+  lead: In Geophysical Journal International, 2012
+  article 'Whitehouse_et_al_2012
+    insert Whitehouse_et_al_2012_abstract
+
+  name: Rachold et al., 2007
+  title: Near-shore Arctic Subsea Permafrost in Transition
+  lead: In EOS Transactions of the American Geophysical Union, 2007
+  article 'Rachold_et_al_2007
+    insert Rachold_et_al_2007_abstract
+
+  name: Choi et al., 2010
+  title: Changing Northern Hemisphere Snow Seasons
+  lead: In Journal of Climate, 2010
+  article 'Choi_et_al_2010
+    insert Choi_et_al_2010_abstract
+
+  name: Vincent et al., 2007
+  title: Climate warming revealed by englacial temperatures at Col du Dome (4250 m, Mont Blanc area)
+  lead: In Geophysical Research Letters, 2007
+  article 'Vincent_et_al_2007
+    insert Vincent_et_al_2007_abstract
+
+  name: Robinson et al., 1993
+  title: Global snow cover monitoring - An update
+  lead: In Bulletin of the American Meteorological Society, 1993
+  article 'Robinson_et_al_1993
+    insert Robinson_et_al_1993_abstract
+
+  name: Gerland et al., 2008
+  title: Decrease of sea ice thickness at Hopen, Barents Sea, during 1966-2007
+  lead: In Geophysical Research Letters, 2008
+  article 'Gerland_et_al_2008
+    insert Gerland_et_al_2008_abstract
+
+  name: Rabatel et al., 2005
+  title: Using remote-sensing data to determine equilibrium-line altitude and mass-balance time series: validation on three French glaciers, 1994-2002
+  lead: In Journal of Glaciology, 2005
+  article 'Rabatel_et_al_2005
+    insert Rabatel_et_al_2005_abstract
+
+  name: Melling, 2012
+  title: Sea-Ice Observation: Advances and Challenges
+  lead: In Arctic Climate Change - The ACSYS Decade and Beyond, 2012
+  booksec 'Melling_2012
+    insert Melling_2012_abstract
+
+  name: Ravanel et al., 2010
+  title: Rock falls in the Mont Blanc Massif in 2007 and 2008
+  lead: In Landslides, 2010
+  article 'Ravanel_et_al_2010
+    insert Ravanel_et_al_2010_abstract
+
+  name: Hudson, 2011
+  title: Estimating the global radiative impact of the sea ice-albedo feedback in the Arctic
+  lead: In Journal of Geophysical Research-Atmospheres, 2011
+  article 'Hudson_2011
+    insert Hudson_2011_abstract
+
+  name: Nick et al., 2009
+  title: Large-scale changes in Greenland outlet glacier dynamics triggered at the terminus
+  lead: In Nature Geoscience, 2009
+  article 'Nick_et_al_2009
+    insert Nick_et_al_2009_abstract
+
+  name: WGMS, 2009
+  title: Glacier Mass Balance Bulletin No. 10 (2006-2007)
+  lead: By ICSU (WDS) / IUGG (IACS) / UNEP / UNESCO / WMO, World Glacier Monitoring Service, 2009
+  report 'WGMS_2009
+    insert WGMS_2009_abstract
+
+  name: Machguth et al., 2009
+  title: Calculating distributed glacier mass balance for the Swiss Alps from regional climate model output: A methodical description and interpretation of the results
+  lead: In Journal of Geophysical Research-Atmospheres, 2009
+  article 'Machguth_et_al_2009
+    insert Machguth_et_al_2009_abstract
+
+  name: Gunter et al., 2009
+  title: A comparison of coincident GRACE and ICESat data over Antarctica
+  lead: In Journal of Geodesy, 2009
+  article 'Gunter_et_al_2009
+    insert Gunter_et_al_2009_abstract
+
+  name: Walsh and Chapman, 2001
+  title: 20th-century sea-ice variations from observational data
+  lead: In Annals of Glaciology, Vol 33, 2001
+  article 'Walsh_and_Chapman_2001
+    insert Walsh_and_Chapman_2001_abstract
+
+  name: Lopez-Moreno and Vicente-Serrano, 2007
+  title: Atmospheric circulation influence on the interannual variability of snow pack in the Spanish Pyrenees during the second half of the 20th century
+  lead: In Nordic Hydrology, 2007
+  article 'LopezMoreno_and_VicenteSerrano_2007
+    insert LopezMoreno_and_VicenteSerrano_2007_abstract
+
+  name: Ivins and James, 2005
+  title: Antarctic glacial isostatic adjustment: a new assessment
+  lead: In Antarctic Science, 2005
+  article 'Ivins_and_James_2005
+    insert Ivins_and_James_2005_abstract
+
+  name: Smith, 1998
+  title: Recent increase in the length of the melt season of perennial Arctic sea ice
+  lead: In Geophysical Research Letters, 1998
+  article 'Smith_1998
+    insert Smith_1998_abstract
+
+  name: Hirabayashi et al., 2013
+  title: Projection of glacier mass changes under a high-emission climate scenario using the global glacier model HYOGA2
+  lead: In Hydrological Research Letters, 2013
+  article 'Hirabayashi_et_al_2013
+    insert Hirabayashi_et_al_2013_abstract
+
+  name: Sole et al., 2011
+  title: Seasonal speedup of a Greenland marine-terminating outlet glacier forced by surface melt-induced changes in subglacial hydrology
+  lead: In Journal of Geophysical Research-Earth Surface, 2011
+  article 'Sole_et_al_2011
+    insert Sole_et_al_2011_abstract
+
+  name: Fernandes et al., 2009
+  title: Controls on Northern Hemisphere snow albedo feedback quantified using satellite Earth observations
+  lead: In Geophysical Research Letters, 2009
+  article 'Fernandes_et_al_2009
+    insert Fernandes_et_al_2009_abstract
+
+  name: Paul and Haeberli, 2008
+  title: Spatial variability of glacier elevation changes in the Swiss Alps obtained from two digital elevation models
+  lead: In Geophysical Research Letters, 2008
+  article 'Paul_and_Haeberli_2008
+    insert Paul_and_Haeberli_2008_abstract
+
+  name: Chen et al., 2007
+  title: Patagonia icefield melting observed by gravity recovery and climate experiment (GRACE)
+  lead: In Geophysical Research Letters, 2007
+  article 'Chen_et_al_2007
+    insert Chen_et_al_2007_abstract
+
+  name: Baur et al., 2009
+  title: GRACE-derived ice-mass variations over Greenland by accounting for leakage effects
+  lead: In Journal of Geophysical Research-Solid Earth, 2009
+  article 'Baur_et_al_2009
+    insert Baur_et_al_2009_abstract
+
+  name: Sorensen et al., 2011
+  title: Mass balance of the Greenland ice sheet (2003-2008) from ICESat data - the impact of interpolation, sampling and firn density
+  lead: In Cryosphere, 2011
+  article 'Sorensen_et_al_2011
+    insert Sorensen_et_al_2011_abstract
+
+  name: Kuipers Munneke et al., 2012
+  title: Insignificant change in Antarctic snowmelt volume since 1979
+  lead: In Geophyiscal Research Letters, 2012
+  article 'Kuipers_Munneke_et_al_2012
+    insert Kuipers_Munneke_et_al_2012_abstract
+
+  name: Cheng and Wu, 2007
+  title: Responses of permafrost to climate change and their environmental significance, Qinghai-Tibet Plateau
+  lead: In Journal of Geophysical Research, 2007
+  article 'Cheng_and_Wu_2007
+    insert Cheng_and_Wu_2007_abstract
+
+  name: Mazhitova and Kaverin, 2007
+  title: Thaw depth dynamics and soil surface subsidence at a Circumpolar Active Layer Monitoring (CALM) site in the East European Russian Arctic
+  lead: In Kriosfera Zemli, 2007
+  article 'Mazhitova_and_Kaverin_2007
+    insert Mazhitova_and_Kaverin_2007_abstract
+
+  name: Straneo et al., 2011
+  title: Impact of fjord dynamics and glacial runoff on the circulation near Helheim Glacier
+  lead: In Nature Geoscience, 2011
+  article 'Straneo_et_al_2011
+    insert Straneo_et_al_2011_abstract
+
+  name: Marty and Meister, 2012
+  title: Long-term snow and weather observations at Weissfluhjoch and its relation to other high-altitude observatories in the Alps
+  lead: In Theoretical and Applied Climatology, 2012
+  article 'Marty_and_Meister_2012
+    insert Marty_and_Meister_2012_abstract
+
+  name: Selmes et al., 2011
+  title: Fast draining lakes on the Greenland Ice Sheet
+  lead: In Geophysical Research Letters, 2011
+  article 'Selmes_et_al_2011
+    insert Selmes_et_al_2011_abstract
+
+  name: Gregory and Oerlemans, 1998
+  title: Simulated future sea-level rise due to glacier melt based on regionally and seasonally resolved temperature changes
+  lead: In Nature, 1998
+  article 'Gregory_and_Oerlemans_1998
+    insert Gregory_and_Oerlemans_1998_abstract
+
+  name: Blaszczyk et al., 2009
+  title: Tidewater glaciers of Svalbard: Recent changes and estimates of calving fluxes
+  lead: In Polish Polar Research, 2009
+  article 'Blaszczyk_et_al_2009
+    insert Blaszczyk_et_al_2009_abstract
+
+  name: Polyakov et al., 2010
+  title: Arctic Ocean Warming Contributes to Reduced Polar Ice Cap
+  lead: In Journal of Physical Oceanography, 2010
+  article 'Polyakov_et_al_2010
+    insert Polyakov_et_al_2010_abstract
+
+  name: WGMS, 1989
+  title: World glacier inventory - Status 1988
+  lead: By IAHS (ICSI) / UNEP / UNESCO, World Glacier Monitoring Service, 1989
+  report 'WGMS_1989
+    insert WGMS_1989_abstract
+
+  name: Kjaer et al., 2012
+  title: Aerial Photographs Reveal Late-20th-Century Dynamic Ice Loss in Northwestern Greenland
+  lead: In Science, 2012
+  article 'Kjaer_et_al_2012
+    insert Kjaer_et_al_2012_abstract
+
+  name: Fricker and Padman, 2012
+  title: Thirty years of elevation change on Antarctic Peninsula ice shelves from multimission satellite radar altimetry
+  lead: In Journal of Geophysical Research-Oceans, 2012
+  article 'Fricker_and_Padman_2012
+    insert Fricker_and_Padman_2012_abstract
+
+  name: Ettema et al., 2009
+  title: Higher surface mass balance of the Greenland ice sheet revealed by high-resolution climate modeling
+  lead: In Geophysical Research Letters, 2009
+  article 'Ettema_et_al_2009
+    insert Ettema_et_al_2009_abstract
+
+  name: Siegfried et al., 2011
+  title: High-Resolution Ground-Based GPS Measurements Show Intercampaign Bias in ICESat Elevation Data Near Summit, Greenland
+  lead: In Ieee Transactions on Geoscience and Remote Sensing, 2011
+  article 'Siegfried_et_al_2011
+    insert Siegfried_et_al_2011_abstract
+
+  name: Valt and Cianfarra, 2010
+  title: Recent snow cover variability in the Italian Alps
+  lead: In Cold Regions Science and Technology, 2010
+  article 'Valt_and_Cianfarra_2010
+    insert Valt_and_Cianfarra_2010_abstract
+
+  name: Ross et al., 2012
+  title: Steep reverse bed slope at the grounding line of the Weddell Sea sector in West Antarctica
+  lead: In Nature Geosci, 2012
+  article 'Ross_et_al_2012
+    insert Ross_et_al_2012_abstract
+
+  name: Li et al., 2012
+  title: Temporal and spatial variations of the active layer along the Qinghai-Tibet Highway in a permafrost region
+  lead: In Chinese Science Bulletin, 2012
+  article 'Li_et_al_2012a
+    insert Li_et_al_2012a_abstract
+
+  name: Shepherd and Wingham, 2007
+  title: Recent sea-level contributions of the Antarctic and Greenland ice sheets
+  lead: In Science, 2007
+  article 'Shepherd_and_Wingham_2007
+    insert Shepherd_and_Wingham_2007_abstract
+
+  name: Meese et al., 1994
+  title: The accumulation record from the Gisp2 Core as and indicator of climate change throughout the holocene
+  lead: In Science, 1994
+  article 'Meese_et_al_1994
+    insert Meese_et_al_1994_abstract
+
+  name: Vieira et al., 2010
+  title: Thermal State of Permafrost and Active-layer Monitoring in the Antarctic: Advances During the International Polar Year 2007-2009
+  lead: In Permafrost and Periglacial Processes, 2010
+  article 'Vieira_et_al_2010
+    insert Vieira_et_al_2010_abstract
+
+  name: Barry et al., 1979
+  title: Fast ice regimes of the Beaufort and Chukchi sea coasts, Alaska
+  lead: In Cold Regions Science and Technology, 1979
+  article 'Barry_et_al_1979
+    insert Barry_et_al_1979_abstract
+
+  name: Rosenau et al., 2013
+  title: Grounding line migration and high resolution calving dynamics of Jakobshavn Isbræ, West Greenland
+  lead: In Journal of  Geophysical Research, 2013
+  article 'Rosenau_et_al_2013
+    insert Rosenau_et_al_2013_abstract
+
+  name: Scambos et al., 2000
+  title: The link between climate warming and break-up of ice shelves in the Antarctic Peninsula
+  lead: In Journal of Glaciology, 2000
+  article 'Scambos_et_al_2000
+    insert Scambos_et_al_2000_abstract
+
+  name: Bindschadler et al., 2011
+  title: Getting around Antarctica: new high-resolution mappings of the grounded and freely-floating boundaries of the Antarctic ice sheet created for the International Polar Year
+  lead: In Cryosphere, 2011
+  article 'Bindschadler_et_al_2011
+    insert Bindschadler_et_al_2011_abstract
+
+  name: Hock et al., 2009
+  title: Mountain glaciers and ice caps around Antarctica make a large sea-level rise contribution
+  lead: In Geophysical Research Letters, 2009
+  article 'Hock_et_al_2009
+    insert Hock_et_al_2009_abstract
+
+  name: Moholdt et al., 2012
+  title: Recent contribution to sea-level rise from glaciers and ice caps in the Russian High Arctic
+  lead: In Geophysical Research Letters, 2012
+  article 'Moholdt_et_al_2012
+    insert Moholdt_et_al_2012_abstract
+
+  name: Pritchard and Vaughan, 2007
+  title: Widespread acceleration of tidewater glaciers on the Antarctic Peninsula
+  lead: In Journal of Geophysical Research-Earth Surface, 2007
+  article 'Pritchard_and_Vaughan_2007
+    insert Pritchard_and_Vaughan_2007_abstract
+
+  name: Kääb et al., 1997
+  title: Analysing the creep of mountain permafrost using high precision aerial photogrammetry: 25 years of monitoring Gruben Rock Glacier, Swiss Alps
+  lead: In Permafrost and Periglacial Processes, 1997
+  article 'Kb_et_al_1997
+    insert Kb_et_al_1997_abstract
+
+  name: Luckman and Murray, 2005
+  title: Seasonal variation in velocity before retreat of Jakobshavn Isbrae, Greenland
+  lead: In Geophysical Research Letters, 2005
+  article 'Luckman_and_Murray_2005
+    insert Luckman_and_Murray_2005_abstract
+
+  name: Schoof, 2007
+  title: Ice sheet grounding line dynamics: Steady states, stability, and hysteresis
+  lead: In Journal of Geophysical Research-Earth Surface, 2007
+  article 'Schoof_2007
+    insert Schoof_2007_abstract
+
+  name: Belchansky et al., 2004
+  title: Duration of the Arctic Sea ice melt season: Regional and interannual variability, 1979-2001
+  lead: In Journal of Climate, 2004
+  article 'Belchansky_et_al_2004
+    insert Belchansky_et_al_2004_abstract
+
+  name: Jia et al., 2011
+  title: Effect of glacio-static adjustment on the estimate of ice mass balance over Antarctic and uncertainties
+  lead: In Chinese Journal of Geophysics, 2011
+  article 'Jia_et_al_2011
+    insert Jia_et_al_2011_abstract
+
+  name: Weeks and Gow, 1978
+  title: Preferred crystal orientations in fast ice along margins of Arctic Ocean 
+  lead: In Journal of Geophysical Research-Oceans and Atmospheres, 1978
+  article 'Weeks_and_Gow_1978
+    insert Weeks_and_Gow_1978_abstract
+
+  name: Johannessen et al., 1999
+  title: Satellite evidence for an Arctic sea ice cover in transformation
+  lead: In Science, 1999
+  article 'Johannessen_et_al_1999
+    insert Johannessen_et_al_1999_abstract
+
+  name: DeLiberty et al., 2011
+  title: Estimating the annual cycle of sea-ice thickness and volume in the Ross Sea
+  lead: In Deep-Sea Research Part Ii-Topical Studies in Oceanography, 2011
+  article 'DeLiberty_et_al_2011
+    insert DeLiberty_et_al_2011_abstract
+
+  name: Thomas and Bentley, 1978
+  title: A model for Holocene retreat of the West Antarctic Ice Sheet
+  lead: In Quat. Res., 1978
+  article 'Thomas_and_Bentley_1978
+    insert Thomas_and_Bentley_1978_abstract
+
+  name: Benson et al., 2012
+  title: Extreme events, trends, and variability in Northern Hemisphere lake-ice phenology (1855-2005)
+  lead: In Climatic Change, 2012
+  article 'Benson_et_al_2012
+    insert Benson_et_al_2012_abstract
+
+  name: Hurrell, 1995
+  title: Decadal trends in the North-Atlantic oscillation - regional temperatures and precipitation
+  lead: In Science, 1995
+  article 'Hurrell_1995
+    insert Hurrell_1995_abstract
+
+  name: Marty, 2008
+  title: Regime shift of snow days in Switzerland
+  lead: In Geophysical Research Letters, 2008
+  article 'Marty_2008
+    insert Marty_2008_abstract
+
+  name: Green, 2011
+  title: Interannual and seasonal changes in the ice cover of glacial lakes in the Snowy Mountains of Australia
+  lead: In Journal of Mountain Science, 2011
+  article 'Green_2011
+    insert Green_2011_abstract
+
+  name: Massom et al., 2001
+  title: Snow on Antarctic Sea ice: a review of physical characteristics
+  lead: In Reviews of Geophysics, 2001
+  article 'Massom_et_al_2001
+    insert Massom_et_al_2001_abstract
+
+  name: Zhang et al., 1999
+  title: Statistics and characteristics of permafrost and ground ice distribution in the Northern Hemisphere
+  lead: In Polar Geography, 1999
+  article 'Zhang_et_al_1999
+    insert Zhang_et_al_1999_abstract
+
+  name: Osterkamp, 2005
+  title: The recent warming of permafrost in Alaska
+  lead: In Global Planet. Change, 2005
+  article 'Osterkamp_2005
+    insert Osterkamp_2005_abstract
+
+  name: Tarasov and Peltier, 2002
+  title: Greenland glacial history and local geodynamic consequences
+  lead: In Geophysical Journal International, 2002
+  article 'Tarasov_and_Peltier_2002
+    insert Tarasov_and_Peltier_2002_abstract
+
+  name: Wu and Zhang, 2010
+  title: Changes in active layer thickness over the Qinghai-Tibetan Plateau from 1995 to 2007
+  lead: In Journal of Geophysical Research-Atmospheres, 2010
+  article 'Wu_and_Zhang_2010
+    insert Wu_and_Zhang_2010_abstract
+
+  name: Hoelzle et al., 2011
+  title: Evidence of accelerated englacial warming in the Monte Rosa area, Switzerland/Italy
+  lead: In The Cryosphere, 2011
+  article 'Hoelzle_et_al_2011
+    insert Hoelzle_et_al_2011_abstract
+
+  name: Wingham et al., 2006
+  title: Mass balance of the Antarctic ice sheet
+  lead: In Philosophical Transactions of the Royal Society a-Mathematical Physical and Engineering Sciences, 2006
+  article 'Wingham_et_al_2006
+    insert Wingham_et_al_2006_abstract
+
+  name: van de Berg et al., 2006
+  title: Reassessment of the Antarctic surface mass balance using calibrated output of a regional atmospheric climate model
+  lead: In Journal of Geophysical Research-Atmospheres, 2006
+  article 'van_de_Berg_et_al_2006
+    insert van_de_Berg_et_al_2006_abstract
+
+  name: Shepherd et al., 2012
+  title: A Reconciled Estimate of Ice-Sheet Mass Balance
+  lead: In Science, 2012
+  article 'Shepherd_et_al_2012
+    insert Shepherd_et_al_2012_abstract
+
+  name: Boening et al., 2008
+  title: The response of the Antarctic Circumpolar Current to recent climate change
+  lead: In Nature Geoscience, 2008
+  article 'Boening_et_al_2008
+    insert Boening_et_al_2008_abstract
+
+  name: Rivera et al., 2012
+  title: Glacier responses to recent volcanic activity in Southern Chile
+  lead: In Environmental Research Letters, 2012
+  article 'Rivera_et_al_2012
+    insert Rivera_et_al_2012_abstract
+
+  name: Vaughan et al., 2003
+  title: Recent rapid regional climate warming on the Antarctic Peninsula
+  lead: In Climatic Change, 2003
+  article 'Vaughan_et_al_2003
+    insert Vaughan_et_al_2003_abstract
+
+  name: Benn et al., 2007
+  title: Calving processes and the dynamics of calving glaciers
+  lead: In Earth-Science Reviews, 2007
+  article 'Benn_et_al_2007
+    insert Benn_et_al_2007_abstract
+
+  name: Perovich et al., 2007
+  title: Increasing solar heating of the Arctic Ocean and adjacent seas, 1979-2005: Attribution and role in the ice-albedo feedback
+  lead: In Geophysical Research Letters, 2007
+  article 'Perovich_et_al_2007
+    insert Perovich_et_al_2007_abstract
+
+  name: Marzeion et al., 2012
+  title: Past and future sea-level change from the surface mass balance of glaciers
+  lead: In Cryosphere, 2012
+  article 'Marzeion_et_al_2012
+    insert Marzeion_et_al_2012_abstract
+
+  name: Tarnocai et al., 2009
+  title: Soil organic carbon pools in the northern circumpolar permafrost region
+  lead: In Global Biogeochemical Cycles, 2009
+  article 'Tarnocai_et_al_2009
+    insert Tarnocai_et_al_2009_abstract
+
+  name: Beltaos and Prowse, 2009
+  title: River-ice hydrology in a shrinking cryosphere
+  lead: In Hydrological Processes, 2009
+  article 'Beltaos_and_Prowse_2009
+    insert Beltaos_and_Prowse_2009_abstract
+
+  name: Velicogna and Wahr, 2006b
+  title: Acceleration of Greenland ice mass loss in spring 2004
+  lead: In Nature, 2006
+  article 'Velicogna_and_Wahr_2006b
+    insert Velicogna_and_Wahr_2006b_abstract
+
+  name: Zwally et al., 2002b
+  title: Variability of Antarctic sea ice 1979-1998
+  lead: In Journal of Geophysical Research, 2002
+  article 'Zwally_et_al_2002b
+    insert Zwally_et_al_2002b_abstract
+
+  name: Kargel et al., 2012
+  title: Greenland's shrinking ice cover: "fast times" but not that fast
+  lead: In Cryosphere, 2012
+  article 'Kargel_et_al_2012
+    insert Kargel_et_al_2012_abstract
+
+  name: Hanna et al., 2011
+  title: Greenland Ice Sheet surface mass balance 1870 to 2010 based on Twentieth Century Reanalysis, and links with global climate forcing
+  lead: In Journal of Geophysical Research, 2011
+  article 'Hanna_et_al_2011
+    insert Hanna_et_al_2011_abstract
+
+  name: Grebmeier et al., 2010
+  title: Biological response to recent Pacific Arctic sea ice retreats
+  lead: In EOS Transactions of the American Geophysical Union, 2010
+  article 'Grebmeier_et_al_2010
+    insert Grebmeier_et_al_2010_abstract
+
+  name: Nick et al., 2013
+  title: Future sea level rise from Greenland’s major outlet glaciers in a warming climate
+  lead: In Nature, 2013
+  article 'Nick_et_al_2013
+    insert Nick_et_al_2013_abstract
+
+  name: Jorgenson et al., 2006
+  title: Abrupt increase in permafrost degradation in Arctic Alaska
+  lead: In Geophysical Research Letters, 2006
+  article 'Jorgenson_et_al_2006
+    insert Jorgenson_et_al_2006_abstract
+
+  name: Luthcke et al., 2008
+  title: Recent glacier mass changes in the Gulf of Alaska region from GRACE mascon solutions
+  lead: In Journal of Glaciology, 2008
+  article 'Luthcke_et_al_2008
+    insert Luthcke_et_al_2008_abstract
+
+  name: Déry and Brown, 2007
+  title: Recent Northern Hemisphere snow cover extent trends and implications for the snow-albedo feedback
+  lead: In Geophysical Research Letters, 2007
+  article 'Dry_and_Brown_2007
+    insert Dry_and_Brown_2007_abstract
+
+  name: Schneider et al., 2012
+  title: An assessment and interpretation of the observed warming of West Antarctica in the austral spring
+  lead: In Climate Dynamics, 2012
+  article 'Schneider_et_al_2012
+    insert Schneider_et_al_2012_abstract
+
+  name: Schuur et al., 2009
+  title: The effect of permafrost thaw on old carbon release and net carbon exchange from tundra
+  lead: In Nature, 2009
+  article 'Schuur_et_al_2009
+    insert Schuur_et_al_2009_abstract
+
+  name: Holland et al., 2011
+  title: The air content of Larsen Ice Shelf
+  lead: In Geophysical Research Letters, 2011
+  article 'Holland_et_al_2011
+    insert Holland_et_al_2011_abstract
+
+  name: Joughin and Alley, 2011
+  title: Stability of the West Antarctic ice sheet in a warming world
+  lead: In Nature Geoscience, 2011
+  article 'Joughin_and_Alley_2011
+    insert Joughin_and_Alley_2011_abstract
+
+  name: Jacob et al., 2012
+  title: Recent contributions of glaciers and ice caps to sea level rise
+  lead: In Nature, 2012
+  article 'Jacob_et_al_2012
+    insert Jacob_et_al_2012_abstract
+
+  name: Polyakov et al., 2003
+  title: Long-term ice variability in Arctic marginal seas
+  lead: In Journal of Climate, 2003
+  article 'Polyakov_et_al_2003
+    insert Polyakov_et_al_2003_abstract
+
+  name: Griggs and Bamber, 2011
+  title: Antarctic ice-shelf thickness from satellite radar altimetry
+  lead: In Journal of Glaciology, 2011
+  article 'Griggs_and_Bamber_2011
+    insert Griggs_and_Bamber_2011_abstract
+
+  name: Maslanik et al., 2007
+  title: A younger, thinner Arctic ice cover: Increased potential for rapid, extensive sea-ice loss
+  lead: In Geophysical Research Letters, 2007
+  article 'Maslanik_et_al_2007
+    insert Maslanik_et_al_2007_abstract
+
+  name: Kozlovsky et al., 1977
+  title: Fast ice of the Eastern Antarctic (in Russian)
+  lead: In Proceedings of the Soviet Antarctic Expedition, 1977
+  article 'Kozlovsky_et_al_1977
+    insert Kozlovsky_et_al_1977_abstract
+
+  name: Alley and Anandakrishnan, 1995
+  title: Variations in melt-layer frequency in the GISP2 ice core: Implications for Holocene summer temperatures central Greenland
+  lead: In Annals of Glaciology, 1995
+  article 'Alley_and_Anandakrishnan_1995
+    insert Alley_and_Anandakrishnan_1995_abstract
+
+  name: Haeberli et al., 2006
+  title: Permafrost creep and rock glacier dynamics
+  lead: In Permafrost and Periglacial Processes, 2006
+  article 'Haeberli_et_al_2006
+    insert Haeberli_et_al_2006_abstract
+
+  name: Davies and Glasser, 2012
+  title: Accelerating shrinkage of Patagonian glaciers from the “Little Ice Age” (c. AD 1870) to 2011
+  lead: In Journal of Glaciology, 2012
+  article 'Davies_and_Glasser_2012
+    insert Davies_and_Glasser_2012_abstract
+
+  name: Giles et al., 2008
+  title: Fast-ice distribution in East Antarctica during 1997 and 1999 determined using RADARSAT data
+  lead: In Journal of Geophysical Research-Oceans, 2008
+  article 'Giles_et_al_2008a
+    insert Giles_et_al_2008a_abstract
+
+  name: Bahr et al., 2009
+  title: Sea-level rise from glaciers and ice caps: A lower bound
+  lead: In Geophysical Research Letters, 2009
+  article 'Bahr_et_al_2009
+    insert Bahr_et_al_2009_abstract
+
+  name: Marshall et al., 2006
+  title: The Impact of a Changing Southern Hemisphere Annular Mode on Antarctic Peninsula Summer Temperatures
+  lead: In Journal of Climate, 2006
+  article 'Marshall_et_al_2006
+    insert Marshall_et_al_2006_abstract
+
+  name: Gille, 2002
+  title: Warming of the Southern Ocean since the 1950s
+  lead: In Science, 2002
+  article 'Gille_2002
+    insert Gille_2002_abstract
+
+  name: Zhang, 2005
+  title: Influence of the seasonal snow cover on the ground thermal regime: An overview
+  lead: In Reviews of Geophysics, 2005
+  article 'Zhang_2005
+    insert Zhang_2005_abstract
+
+  name: Zeeberg and Forman, 2001
+  title: Changes in glacier extent on north Novaya Zemlya in the twentieth century
+  lead: In The Holocene, 2001
+  article 'Zeeberg_and_Forman_2001
+    insert Zeeberg_and_Forman_2001_abstract
+
+  name: Howat et al., 2007
+  title: Rapid changes in ice discharge from Greenland outlet glaciers
+  lead: In Science, 2007
+  article 'Howat_et_al_2007
+    insert Howat_et_al_2007_abstract
+
+  name: Shiklomanov et al., 2010
+  title: Decadal variations of active-layer thickness in moisture-controlled landscapes, Barrow, Alaska
+  lead: In Journal of Geophysical Research-Biogeosciences, 2010
+  article 'Shiklomanov_et_al_2010
+    insert Shiklomanov_et_al_2010_abstract
+
+  name: Gruber, 2012
+  title: Derivation and analysis of a high-resolution estimate of globalpermafrost zonation
+  lead: In The Cryosphere, 2012
+  article 'Gruber_2012
+    insert Gruber_2012_abstract
+
+  name: Parkinson and Comiso, 2013
+  title: On the 2012 record low Arctic sea ice cover: combined impact of preconditioning and an August storm
+  lead: In Geophysical Research Letters, 2013
+  article 'Parkinson_and_Comiso_2013
+    insert Parkinson_and_Comiso_2013_abstract
+
+  name: Hoffman et al., 2011
+  title: Links between acceleration, melting, and supraglacial lake drainage of the western Greenland Ice Sheet
+  lead: In Journal of Geophysical Research-Earth Surface, 2011
+  article 'Hoffman_et_al_2011
+    insert Hoffman_et_al_2011_abstract
+
+  name: Markus et al., 2009
+  title: Recent changes in Arctic sea ice melt onset, freezeup, and melt season length
+  lead: In Journal of Geophysical Research-Oceans, 2009
+  article 'Markus_et_al_2009
+    insert Markus_et_al_2009_abstract
+
+  name: Rabatel et al., 2013
+  title: Current state of glaciers in the tropical Andes: a multi-century perspective on glacier evolution and climate change.
+  lead: In The Cryosphere, 2013
+  article 'Rabatel_et_al_2013
+    insert Rabatel_et_al_2013_abstract
+
+  name: Romanovsky et al., 2010b
+  title: Permafrost Thermal State in the Polar Northern Hemisphere during the International Polar Year 2007-2009: a Synthesis
+  lead: In Permafrost and Periglacial Processes, 2010
+  article 'Romanovsky_et_al_2010b
+    insert Romanovsky_et_al_2010b_abstract
+
+  name: van den Broeke et al., 2009
+  title: Partitioning Recent Greenland Mass Loss
+  lead: In Science, 2009
+  article 'van_den_Broeke_et_al_2009
+    insert van_den_Broeke_et_al_2009_abstract
+
+  name: Murray et al., 2003
+  title: Is there a single surge mechanism? Contrasts in dynamics between glacier surges in Svalbard and other regions
+  lead: In Journal of Geophysical Research-Solid Earth, 2003
+  article 'Murray_et_al_2003
+    insert Murray_et_al_2003_abstract
+
+  name: Comiso and Nishio, 2008
+  title: Trends in the sea ice cover using enhanced and compatible AMSR-E, SSM/I, and SMMR data
+  lead: In Journal of Geophysical Research-Oceans, 2008
+  article 'Comiso_and_Nishio_2008
+    insert Comiso_and_Nishio_2008_abstract
+
+  name: Nerem and Wahr, 2011
+  title: Recent changes in the Earth's oblateness driven by Greenland and Antarctic ice mass loss
+  lead: In Geophysical Research Letters, 2011
+  article 'Nerem_and_Wahr_2011
+    insert Nerem_and_Wahr_2011_abstract
+
+  name: Pritchard et al., 2009
+  title: Extensive dynamic thinning on the margins of the Greenland and Antarctic ice sheets
+  lead: In Nature, 2009
+  article 'Pritchard_et_al_2009
+    insert Pritchard_et_al_2009_abstract
+
+  name: Callaghan et al., 2010
+  title: A new climate era in the sub-Arctic: Accelerating climate changes and multiple impacts
+  lead: In Geophysical Research Letters, 2010
+  article 'Callaghan_et_al_2010
+    insert Callaghan_et_al_2010_abstract
+
+  name: E et al., 2009
+  title: The sea level change from the Antarctic ice sheet based on GRACE
+  lead: In Chinese Journal of Geophysics-Chinese Edition, 2009
+  article 'E_et_al_2009
+    insert E_et_al_2009_abstract
+
+  name: Luthcke et al., 2006
+  title: Recent Greenland ice mass loss by drainage system from satellite gravity observations
+  lead: In Science, 2006
+  article 'Luthcke_et_al_2006
+    insert Luthcke_et_al_2006_abstract
+
+  name: Steig et al., 2009
+  title: Warming of the Antarctic ice-sheet surface since the 1957 International Geophysical Year
+  lead: In Nature, 2009
+  article 'Steig_et_al_2009
+    insert Steig_et_al_2009_abstract
+
+  name: Wahr, 2007
+  title: Time-variable gravity from satellites
+  lead: In Treatise on Geophysics, 2007
+  booksec 'Wahr_2007
+    insert Wahr_2007_abstract
+
+  name: Smith et al., 2012
+  title: Recent changes in climate and permafrost temperatures at forested and polar desert sites in northern Canada
+  lead: In Canadian Journal of Earth Sciences, 2012
+  article 'Smith_et_al_2012
+    insert Smith_et_al_2012_abstract
+
+  name: Mercer, 1978
+  title: West Antarctic ice sheet and CO2 greenhouse effect - threat of disaster
+  lead: In Nature, 1978
+  article 'Mercer_1978
+    insert Mercer_1978_abstract
+
+  name: Zhao et al., 2010
+  title: Thermal State of Permafrost and Active Layer in Central Asia during the International Polar Year
+  lead: In Permafrost and Periglacial Processes, 2010
+  article 'Zhao_et_al_2010
+    insert Zhao_et_al_2010_abstract
+
+  name: Kunkel et al., 2007
+  title: Trend identification in twentieth-century US snowfall: The challenges
+  lead: In Journal of Atmospheric and Oceanic Technology, 2007
+  article 'Kunkel_et_al_2007
+    insert Kunkel_et_al_2007_abstract
+
+  name: Li et al., 2008
+  title: Cryospheric change in China
+  lead: In Global and Planetary Change, 2008
+  article 'Li_et_al_2008
+    insert Li_et_al_2008_abstract
+
+  name: Krabill et al., 2000
+  title: Greenland ice sheet: High-elevation balance and peripheral thinning
+  lead: In Science, 2000
+  article 'Krabill_et_al_2000
+    insert Krabill_et_al_2000_abstract
+
+  name: Oerlemans et al., 2007
+  title: Reconstructing the glacier contribution to sea-level rise back to 1850
+  lead: In Cryosphere, 2007
+  article 'Oerlemans_et_al_2007
+    insert Oerlemans_et_al_2007_abstract
+
+  name: Xie et al., 2011
+  title: Sea-ice thickness distribution of the Bellingshausen Sea from surface measurements and ICESat altimetry
+  lead: In Deep-Sea Research Part Ii-Topical Studies in Oceanography, 2011
+  article 'Xie_et_al_2011
+    insert Xie_et_al_2011_abstract
+
+  name: Rignot et al., 2008
+  title: Recent Antarctic ice mass loss from radar interferometry and regional climate modelling
+  lead: In Nature Geoscience, 2008
+  article 'Rignot_et_al_2008a
+    insert Rignot_et_al_2008a_abstract
+
+  name: Drozdov et al., 2010
+  title: Changes in the temperature field and in the state of the geosystems within the territory of the Urengoy field during the last 35 years (1974-2008)
+  lead: In Earth&#39;s Cryosphere, 2010
+  article 'Drozdov_et_al_2010
+    insert Drozdov_et_al_2010_abstract
+
+  name: Bartholomew et al., 2011
+  title: Seasonal variations in Greenland Ice Sheet motion: Inland extent and behaviour at higher elevations
+  lead: In Earth and Planetary Science Letters, 2011
+  article 'Bartholomew_et_al_2011
+    insert Bartholomew_et_al_2011_abstract
+
+  name: Young et al., 2011
+  title: A dynamic early East Antarctic Ice Sheet suggested by ice-covered fjord landscapes
+  lead: In Nature, 2011
+  article 'Young_et_al_2011a
+    insert Young_et_al_2011a_abstract
+
+  name: Nesje et al., 2000
+  title: Is the North Atlantic Oscillation reflected in Scandinavian glacier mass balance records?
+  lead: In Journal of Quaternary Science, 2000
+  article 'Nesje_et_al_2000
+    insert Nesje_et_al_2000_abstract
+
+  name: Rastner et al., 2012
+  title: The first complete glacier inventory for entire Greenland
+  lead: In The Cryosphere, 2012
+  article 'Rastner_et_al_2012
+    insert Rastner_et_al_2012_abstract
+
+  name: Rignot and Thomas, 2002
+  title: Mass balance of polar ice sheets
+  lead: In Science, 2002
+  article 'Rignot_and_Thomas_2002
+    insert Rignot_and_Thomas_2002_abstract
+
+  name: Bolch et al., 2012
+  title: The State and Fate of Himalayan Glaciers
+  lead: In Science, 2012
+  article 'Bolch_et_al_2012
+    insert Bolch_et_al_2012_abstract
+
+  name: Jenkins, 2011
+  title: Convection-driven melting near the grounding lines of ice shelves and tidewater glaciers
+  lead: In Journal of Climate, 2011
+  article 'Jenkins_2011
+    insert Jenkins_2011_abstract
+
+  name: Boening et al., 2012
+  title: Snowfall-driven mass change on the East Antarctic ice sheet
+  lead: In Geophysical Research Letters, 2012
+  article 'Boening_et_al_2012
+    insert Boening_et_al_2012_abstract
+
+  name: Rignot and Jacobs, 2002
+  title: Rapid bottom melting widespread near Antarctic ice sheet grounding lines
+  lead: In Science, 2002
+  article 'Rignot_and_Jacobs_2002
+    insert Rignot_and_Jacobs_2002_abstract
+
+  name: Murray et al., 2010
+  title: Ocean regulation hypothesis for glacier dynamics in southeast Greenland and implications for ice sheet mass changes
+  lead: In Journal of Geophysical Research-Earth Surface, 2010
+  article 'Murray_et_al_2010
+    insert Murray_et_al_2010_abstract
+
+  name: Kwok, 2005
+  title: Variability of Nares Strait ice flux
+  lead: In Geophysical Research Letters, 2005
+  article 'Kwok_2005
+    insert Kwok_2005_abstract
+
+  name: Ewert et al., 2012
+  title: Volume and mass changes of the Greenland ice sheet inferred from ICESat and GRACE
+  lead: In Journal of Geodynamics, 2012
+  article 'Ewert_et_al_2012
+    insert Ewert_et_al_2012_abstract
+
+  name: Ridley et al., 2010
+  title: Thresholds for irreversible decline of the Greenland ice sheet
+  lead: In Climate Dynamics, 2010
+  article 'Ridley_et_al_2010
+    insert Ridley_et_al_2010_abstract
+
+  name: Haeberli et al., 2010
+  title: Mountain permafrost: development and challenges of a young research field
+  lead: In Journal of Glaciology, 2010
+  article 'Haeberli_et_al_2010
+    insert Haeberli_et_al_2010_abstract
+
+  name: Bromwich et al., 2011
+  title: An Assessment of Precipitation Changes over Antarctica and the Southern Ocean since 1989 in Contemporary Global Reanalyses
+  lead: In Journal of Climate, 2011
+  article 'Bromwich_et_al_2011
+    insert Bromwich_et_al_2011_abstract
+
+  name: Rignot et al., 2011
+  title: Ice Flow of the Antarctic Ice Sheet
+  lead: In Science, 2011
+  article 'Rignot_et_al_2011a
+    insert Rignot_et_al_2011a_abstract
+
+  name: Bliss et al., 2013
+  title: A new inventory of mountain glaciers and ice caps for the Antarctic periphery
+  lead: In Annals of Glaciology, 2013
+  article 'Bliss_et_al_2013
+    insert Bliss_et_al_2013_abstract
+
+  name: Ducklow et al., 2011
+  title: The marine system of the Western Antarctic Peninsula
+  lead: In Antarctica: An Extreme Environment in a Changing World, 2011
+  booksec 'Ducklow_et_al_2011
+    insert Ducklow_et_al_2011_abstract
+
+  name: Fedorov and Konstantinov, ?
+  title: Recent changes in ground temperature and the effect on permafrost landscapes in Central Yakutia
+  ref 'Fedorov_and_Konstantinov_
+    insert Fedorov_and_Konstantinov__abstract
+
+  name: Chen et al., 2006
+  title: Satellite gravity measurements confirm accelerated melting of Greenland ice sheet
+  lead: In Science, 2006
+  article 'Chen_et_al_2006
+    insert Chen_et_al_2006_abstract
+
+  name: Schiefer et al., 2007
+  title: Recent volume loss of British Columbian glaciers, Canada
+  lead: In Geophysical Research Letters, 2007
+  article 'Schiefer_et_al_2007
+    insert Schiefer_et_al_2007_abstract
+
+  name: Riva et al., 2009
+  title: Glacial Isostatic Adjustment over Antarctica from combined ICESat and GRACE satellite data
+  lead: In Earth and Planetary Science Letters, 2009
+  article 'Riva_et_al_2009
+    insert Riva_et_al_2009_abstract
+
+  name: Zdanowicz et al., 2012
+  title: Summer melt rates on Penny Ice Cap, Baffin Island: Past and recent trends and implications for regional climate
+  lead: In Journal of  Geophysical Research, 2012
+  article 'Zdanowicz_et_al_2012
+    insert Zdanowicz_et_al_2012_abstract
+
+  name: Lenaerts et al., 2012
+  title: A new, high resolution surface mass balance map of Antarctica (1979-2010) based on regional climate modeling
+  lead: In Geophysical Research Letters, 2012
+  article 'Lenaerts_et_al_2012
+    insert Lenaerts_et_al_2012_abstract
+
+  name: Stevens et al., 2010
+  title: Modeling ground thermal conditions and the limit of permafrost within the nearshore zone of the Mackenzie Delta, Canada
+  lead: In Journal of Geophysical Research-Earth Surface, 2010
+  article 'Stevens_et_al_2010
+    insert Stevens_et_al_2010_abstract
+
+  name: Rothrock and Wensnahan, 2007
+  title: The accuracy of sea ice drafts measured from US Navy submarines
+  lead: In Journal of Atmospheric and Oceanic Technology, 2007
+  article 'Rothrock_and_Wensnahan_2007
+    insert Rothrock_and_Wensnahan_2007_abstract
+
+  name: White et al., 2007
+  title: The arctic freshwater system: Changes and impacts
+  lead: In Journal of Geophysical Research-Biogeosciences, 2007
+  article 'White_et_al_2007
+    insert White_et_al_2007_abstract
+
+  name: Hall et al., 2013
+  title: Variability in the Surface Temperature and Melt Extent of the Greenland Ice Sheet from MODIS
+  lead: In Geophyiscal Research Letters, 2013
+  article 'Hall_et_al_2013
+    insert Hall_et_al_2013_abstract
+
+  name: Lemke et al., 2007
+  title: Observations: Changes in Snow, Ice and Frozen Ground
+  lead: In Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, 2007
+  booksec 'Lemke_et_al_2007
+    insert Lemke_et_al_2007_abstract
+
+  name: Markus and Cavalieri, 2000
+  title: An enhancement of the NASA Team sea ice algorithm
+  lead: In Ieee Transactions on Geoscience and Remote Sensing, 2000
+  article 'Markus_and_Cavalieri_2000
+    insert Markus_and_Cavalieri_2000_abstract
+
+  name: Wingham et al., 1998
+  title: Antarctic elevation change from 1992 to 1996
+  lead: In Science, 1998
+  article 'Wingham_et_al_1998
+    insert Wingham_et_al_1998_abstract
+
+  name: Das et al., 2008
+  title: Fracture propagation to the base of the Greenland Ice Sheet during supraglacial lake drainage
+  lead: In Science, 2008
+  article 'Das_et_al_2008
+    insert Das_et_al_2008_abstract
+
+  name: Van Everdingen, 1998
+  title: Multi-language glossary of permafrost and related ground-ice terms
+  lead: By National Snow and Ice Data Center / World Data Center for Glaciology, 1998
+  ref 'Van_Everdingen_1998
+    insert Van_Everdingen_1998_abstract
+
+  name: Sundal et al., 2011
+  title: Melt-induced speed-up of Greenland ice sheet offset by efficient subglacial drainage
+  lead: In Nature, 2011
+  article 'Sundal_et_al_2011
+    insert Sundal_et_al_2011_abstract
+
+  name: Nghiem et al., 2012
+  title: The extreme melt across the Greenland ice sheet in 2012
+  lead: In GRL, 2012
+  article 'Nghiem_et_al_2012
+    insert Nghiem_et_al_2012_abstract
+
+  name: Pelto, 2006
+  title: The current disequilibrium of North Cascade glaciers
+  lead: In Hydrological Processes, 2006
+  article 'Pelto_2006
+    insert Pelto_2006_abstract
+
+  name: Harig and Simons, 2012
+  title: Mapping Greenland’s mass loss in space and time
+  lead: In Proceedings of the National Academy of Sciences, 2012
+  article 'Harig_and_Simons_2012
+    insert Harig_and_Simons_2012_abstract
+
+  name: Hirabayashi et al., 2008
+  title: A 59-year (1948-2006) global near-surface meteorological data set for land surface models. Part I: Development of daily forcing and assessment of precipitation intensity
+  lead: In Hydrological Research Letters, 2008
+  article 'Hirabayashi_et_al_2008
+    insert Hirabayashi_et_al_2008_abstract
+
+  name: O&#39;Leary and Christoffersen, 2013
+  title: Calving on tidewater glaciers amplified by submarine frontal melting
+  lead: In Cryosphere, 2013
+  article 'OLeary_and_Christoffersen_2013
+    insert OLeary_and_Christoffersen_2013_abstract
+
+  name: Kinnard et al., 2011
+  title: Reconstructed changes in Arctic sea ice over the past 1,450 years
+  lead: In Nature, 2011
+  article 'Kinnard_et_al_2011
+    insert Kinnard_et_al_2011_abstract
+
+  name: Levermann et al., 2012
+  title: Kinematic first-order calving law implies potential for abrupt ice-shelf retreat
+  lead: In The Cryosphere, 2012
+  article 'Levermann_et_al_2012
+    insert Levermann_et_al_2012_abstract
+
+  name: Sanchez-Bayo and Green, 2013
+  title: Australian snowpack disappearing under the influence of global warming and solare activity
+  lead: In Arctic, Antarctic and Alpine Research, 2013
+  article 'SanchezBayo_and_Green_2013
+    insert SanchezBayo_and_Green_2013_abstract
+
+  name: Halsey et al., 1995
+  title: Disequilibrium response of permafrost in boreal continental western Canada to climate-change
+  lead: In Climatic Change, 1995
+  article 'Halsey_et_al_1995
+    insert Halsey_et_al_1995_abstract
+
+  name: Wadhams and Davis, 2000
+  title: Further evidence of ice thinning in the Arctic Ocean
+  lead: In Geophysical Research Letters, 2000
+  article 'Wadhams_and_Davis_2000
+    insert Wadhams_and_Davis_2000_abstract
+
+  name: Björnsson et al., 2013
+  title: Contribution of Icelandic ice caps to sea level rise: trends and variability since the Little Ice Age
+  lead: In Geophyiscal Research Letters, 2013
+  article 'Bjrnsson_et_al_2013
+    insert Bjrnsson_et_al_2013_abstract
+
+  name: Palmer et al., 2011
+  title: Seasonal speedup of the Greenland Ice Sheet linked to routing of surface water
+  lead: In Earth and Planetary Science Letters, 2011
+  article 'Palmer_et_al_2011
+    insert Palmer_et_al_2011_abstract
+
+  name: Druckenmiller et al., 2009
+  title: Toward an integrated coastal sea-ice observatory: System components and a case study at Barrow, Alaska
+  lead: In Cold Regions Science and Technology, 2009
+  article 'Druckenmiller_et_al_2009
+    insert Druckenmiller_et_al_2009_abstract
+
+  name: Allard et al., 1995
+  title: Recent cooling along the southern shore of the Hudson Strait, Quebec, Canada, documented from permafrost temperatuure-measurements
+  lead: In Arctic and Alpine Research, 1995
+  article 'Allard_et_al_1995
+    insert Allard_et_al_1995_abstract
+
+  name: Malkova, ?
+  title: The last twenty-five years of changes in permafrost temperature of the European Russian Arctic
+  ref 'Malkova_
+    insert Malkova__abstract
+
+  name: McGuire et al., 2009
+  title: Sensitivity of the carbon cycle in the Arctic to climate change
+  lead: In Ecological Monographs, 2009
+  article 'McGuire_et_al_2009
+    insert McGuire_et_al_2009_abstract
+
+  name: Giles et al., 2008b
+  title: Circumpolar thinning of Arctic sea ice following the 2007 record ice extent minimum
+  lead: In Geophysical Research Letters, 2008
+  article 'Giles_et_al_2008b
+    insert Giles_et_al_2008b_abstract
+
+  name: White and Peterson, 1996
+  title: An Antarctic circumpolar wave in surface pressure, wind, temperature and sea-ice extent
+  lead: In Nature, 1996
+  article 'White_and_Peterson_1996
+    insert White_and_Peterson_1996_abstract
+
+  name: Pritchard et al., 2012
+  title: Antarctic ice loss driven by ice-shelf melt
+  lead: In Nature, 2012
+  article 'Pritchard_et_al_2012
+    insert Pritchard_et_al_2012_abstract
+
+  name: Humbert et al., 2010
+  title: Deformation and failure of the ice bridge on the Wilkins Ice Shelf, Antarctica
+  lead: In Annals of Glaciology, 2010
+  article 'Humbert_et_al_2010
+    insert Humbert_et_al_2010_abstract
+
+  name: Box et al., 2009
+  title: Greenland Ice Sheet Surface Air Temperature Variability: 1840-2007
+  lead: In Journal of Climate, 2009
+  article 'Box_et_al_2009
+    insert Box_et_al_2009_abstract
+
+  name: Simpson et al., 2009
+  title: Calibrating a glaciological model of the Greenland ice sheet from the Last Glacial Maximum to present-day using field observations of relative sea level and ice extent
+  lead: In Quaternary Science Reviews, 2009
+  article 'Simpson_et_al_2009
+    insert Simpson_et_al_2009_abstract
+
+  name: Bjørk et al., 2012
+  title: An aerial view of 80 years of climate-related glacier fluctuations in southeast Greenland
+  lead: In Nature Geoscience, 2012
+  article 'Bjrk_et_al_2012
+    insert Bjrk_et_al_2012_abstract
+
+  name: Brooks et al., 2012
+  title: Quantifying Northern Hemisphere freshwater ice
+  lead: In Geophyiscal Research Letters, 2012
+  article 'Brooks_et_al_2012
+    insert Brooks_et_al_2012_abstract
+
+  name: Fretwell et al., 2013
+  title: Bedmap2: improved ice bed, surface and thickness datasets for Antarctica
+  lead: In The Cryosphere, 2013
+  article 'Fretwell_et_al_2013
+    insert Fretwell_et_al_2013_abstract
+
+  name: Yde and Knudsen, 2007
+  title: 20th-century glacier fluctuations on Disko Island (Qeqertarsuaq), Greenland
+  lead: In Annals of Glaciology, Vol 46, 2007, 2007
+  booksec 'Yde_and_Knudsen_2007
+    insert Yde_and_Knudsen_2007_abstract
+
+  name: Galton-Fenzi et al., 2012
+  title: A decade of change in the hydraulic connection between an Antarctic epishelf lake and the ocean
+  lead: In Journal of Glaciology, 2012
+  article 'GaltonFenzi_et_al_2012
+    insert GaltonFenzi_et_al_2012_abstract
+
+  name: Mahoney et al., 2007
+  title: How fast is landfast sea ice? A study of the attachment and detachment of nearshore ice at Barrow, Alaska
+  lead: In Cold Regions Science and Technology, 2007
+  article 'Mahoney_et_al_2007
+    insert Mahoney_et_al_2007_abstract
+
+  name: Yde and Pasche, 2010
+  title: Reconstructing climate change: Not all glaciers suitable. 
+  lead: In EOS, 2010
+  article 'Yde_and_Pasche_2010
+    insert Yde_and_Pasche_2010_abstract
+
+  name: Gardner et al., 2013
+  title: A reconcilied estimate of glacier contributions to sea level rise: 2003 to 2009
+  lead: In Science, 2013
+  article 'Gardner_et_al_2013
+    insert Gardner_et_al_2013_abstract
+
+  name: Barrett, 2013
+  title: Resolving views on Antarctic Neogene glacial history – the Sirius debate
+  lead: In Earth and Environmental Science Transactions of the Royal Society of Edinburgh, 2013
+  article 'Barrett_2013
+    insert Barrett_2013_abstract
+
+  name: Christiansen et al., 2012
+  title: Cryopsphere, Permafrost thermal state
+  lead: In Special Supplement to the Bulletin of the American Meteorological Society, Vol. 93, No. &amp;, July 2012., 2012
+  booksec 'Christiansen_et_al_2012
+    insert Christiansen_et_al_2012_abstract
+
+  name: Huss, 2012
+  title: Extrapolating glacier mass balance to the mountain-range scale: the European Alps 1900-2100
+  lead: In The Cryosphere, 2012
+  article 'Huss_2012
+    insert Huss_2012_abstract
+
+  name: Rignot et al., 2004
+  title: Accelerated ice discharge from the Antarctic Peninsula following the collapse of Larsen B ice shelf
+  lead: In Geophysical Research Letters, 2004
+  article 'Rignot_et_al_2004
+    insert Rignot_et_al_2004_abstract
+
+  name: Radić and Hock, 2010
+  title: Regional and global volumes of glaciers derived from statistical upscaling of glacier inventory data
+  lead: In Journal of Geophysical Research-Earth Surface, 2010
+  article 'Radi_and_Hock_2010
+    insert Radi_and_Hock_2010_abstract
+
+  name: Howat et al., 2008
+  title: Synchronous retreat and acceleration of southeast Greenland outlet glaciers 2000-06: ice dynamics and coupling to climate
+  lead: In Journal of Glaciology, 2008
+  article 'Howat_et_al_2008
+    insert Howat_et_al_2008_abstract
+
+  name: Romanovsky et al., 2010
+  title: Thermal State of Permafrost in Russia
+  lead: In Permafrost and Periglacial Processes, 2010
+  article 'Romanovsky_et_al_2010a
+    insert Romanovsky_et_al_2010a_abstract
+
+  name: Abdalati et al., 2004
+  title: Elevation changes of ice caps in the Canadian Arctic Archipelago
+  lead: In Journal of Geophysical Research-Earth Surface, 2004
+  article 'Abdalati_et_al_2004
+    insert Abdalati_et_al_2004_abstract
+
+  name: Rampal et al., 2009
+  title: Positive trend in the mean speed and deformation rate of Arctic sea ice, 1979-2007
+  lead: In Journal of Geophysical Research-Oceans, 2009
+  article 'Rampal_et_al_2009
+    insert Rampal_et_al_2009_abstract
+
+  name: Kwok and Rothrock, 2009
+  title: Decline in Arctic sea ice thickness from submarine and ICESat records: 1958-2008
+  lead: In Geophysical Research Letters, 2009
+  article 'Kwok_and_Rothrock_2009
+    insert Kwok_and_Rothrock_2009_abstract
+
+  name: Glazovsky and Macheret, 2006
+  title: Eurasian Arctic
+  lead: In Glaciation in north and central Eurasia in present time, 2006
+  booksec 'Glazovsky_and_Macheret_2006
+    insert Glazovsky_and_Macheret_2006_abstract
+
+  name: Shakhova et al., 2010
+  title: Geochemical and geophysical evidence of methane release over the East Siberian Arctic Shelf
+  lead: In Journal of Geophysical Research-Oceans, 2010
+  article 'Shakhova_et_al_2010a
+    insert Shakhova_et_al_2010a_abstract
+
+  name: Zuo and Oerlemans, 1997
+  title: Contribution of glacier melt to sea-level rise since AD 1865: a regionally differentiated calculation
+  lead: In Climate Dynamics, 1997
+  article 'Zuo_and_Oerlemans_1997
+    insert Zuo_and_Oerlemans_1997_abstract
+
+  name: Montes-Hugo et al., 2009
+  title: Recent Changes in Phytoplankton Communities Associated with Rapid Regional Climate Change Along the Western Antarctic Peninsula
+  lead: In Science, 2009
+  article 'MontesHugo_et_al_2009
+    insert MontesHugo_et_al_2009_abstract
+
+  name: Weertman, 1974
+  title: Stability of the junction of an ice sheet and an ice shelf
+  lead: In Journal of Glaciology, 1974
+  article 'Weertman_1974
+    insert Weertman_1974_abstract
+
+  name: Ivins et al., 2011
+  title: On-land ice loss and glacial isostatic adjustment at the Drake Passage: 2003-2009
+  lead: In Journal of Geophysical Research-Solid Earth, 2011
+  article 'Ivins_et_al_2011
+    insert Ivins_et_al_2011_abstract
+
+  name: Drobot and Anderson, 2001
+  title: An improved method for determining snowmelt onset dates over Arctic sea ice using scanning multichannel microwave radiometer and Special Sensor Microwave/Imager data
+  lead: In Journal of Geophysical Research-Atmospheres, 2001
+  article 'Drobot_and_Anderson_2001
+    insert Drobot_and_Anderson_2001_abstract
+
+  name: Brown and Coté, 1992
+  title: Interannual variability of landfast ice thickness in the Canadian High Arctic, 1950-89
+  lead: In Arctic, 1992
+  article 'Brown_and_Cot_1992
+    insert Brown_and_Cot_1992_abstract
+
+  name: Amundson et al., 2010
+  title: Ice melange dynamics and implications for terminus stability, Jakobshavn Isbrae Greenland
+  lead: In Journal of Geophysical Research-Earth Surface, 2010
+  article 'Amundson_et_al_2010
+    insert Amundson_et_al_2010_abstract
+
+  name: Holland and Kwok, 2012
+  title: Wind-driven trends in Antarctic sea ice motion
+  lead: In Nature Geoscience, 2012
+  article 'Holland_and_Kwok_2012
+    insert Holland_and_Kwok_2012_abstract
+
+  name: Vinje, 2001
+  title: Fram strait ice fluxes and atmospheric circulation: 1950-2000
+  lead: In Journal of Climate, 2001
+  article 'Vinje_2001
+    insert Vinje_2001_abstract
+
+  name: Joughin et al., 2008
+  title: Seasonal Speedup Along the Western Flank of the Greenland Ice Sheet
+  lead: In Science, 2008
+  article 'Joughin_et_al_2008a
+    insert Joughin_et_al_2008a_abstract
+
+  name: Callaghan et al., 2011
+  title: chapter 5,Changing Permafrost and its Impacts
+  lead: In Snow, Water, Ice and Permafrost in the Arctic (SWIPA), 2011
+  booksec 'Callaghan_et_al_2011
+    insert Callaghan_et_al_2011_abstract
+
+  name: Laxon et al., 2003
+  title: High interannual variability of sea ice thickness in the Arctic region
+  lead: In Nature, 2003
+  article 'Laxon_et_al_2003
+    insert Laxon_et_al_2003_abstract
+
+  name: Jacobs et al., 2011
+  title: Stronger ocean circulation and increased melting under Pine Island Glacier ice shelf
+  lead: In Nature Geoscience, 2011
+  article 'Jacobs_et_al_2011
+    insert Jacobs_et_al_2011_abstract
+
+  name: Fleming and Lambeck, 2004
+  title: Constraints on the Greenland Ice Sheet since the Last Glacial Maximum from sea-level observations and glacial-rebound models
+  lead: In Quaternary Science Reviews, 2004
+  article 'Fleming_and_Lambeck_2004
+    insert Fleming_and_Lambeck_2004_abstract
+
+  name: Guglielmin et al., 2011
+  title: Permafrost Thermal Regime from Two 30-m Deep Boreholes in Southern Victoria Land, Antarctica
+  lead: In Permafrost and Periglacial Processes, 2011
+  article 'Guglielmin_et_al_2011
+    insert Guglielmin_et_al_2011_abstract
+
+  name: Pollard and DeConto, 2009
+  title: Modelling West Antarctic ice sheet growth and collapse through the past five million years
+  lead: In Nature, 2009
+  article 'Pollard_and_DeConto_2009
+    insert Pollard_and_DeConto_2009_abstract
+
+  name: Zhang et al., 2005
+  title: Spatial and temporal variability in active layer thickness over the Russian Arctic drainage basin
+  lead: In Journal of Geophysical Research-Atmospheres, 2005
+  article 'Zhang_et_al_2005
+    insert Zhang_et_al_2005_abstract
+
+  name: Rothrock et al., 1999
+  title: Thinning of the Arctic sea-ice cover
+  lead: In Geophysical Research Letters, 1999
+  article 'Rothrock_et_al_1999
+    insert Rothrock_et_al_1999_abstract
+
+  name: Wu et al., 2012
+  title: Thermal state of the active layer and permafrost along the Qinghai-Xizang (Tibet) Railway from 2006 to 2010
+  lead: In Cryosphere, 2012
+  article 'Wu_et_al_2012
+    insert Wu_et_al_2012_abstract
+
+  name: Ma and Qin, 2012
+  title: Temporal-spatial characteristics of observed key parameters of snow cover in China during 1957-2009
+  lead: In Sciences in Cold and Arid Regions, 2012
+  article 'Ma_and_Qin_2012
+    insert Ma_and_Qin_2012_abstract
+
+  name: Jensen et al., 2007
+  title: Spatial Analysis of Ice Phenology Trends across the Laurentian Great Lakes Region during a Recent Warming Period
+  lead: In Limnology and Oceanography, 2007
+  article 'Jensen_et_al_2007
+    insert Jensen_et_al_2007_abstract
+
+  name: Flanner et al., 2007
+  title: Present-day climate forcing and response from black carbon in snow
+  lead: In Journal of Geophysical Research, 2007
+  article 'Flanner_et_al_2007
+    insert Flanner_et_al_2007_abstract
+
+  name: Cogley, 2009b
+  title: Geodetic and direct mass-balance measurements: comparison and joint analysis
+  lead: In Annals of Glaciology, 2009
+  article 'Cogley_2009b
+    insert Cogley_2009b_abstract
+
+  name: Klein and Kincaid, 2006
+  title: Retreat of glaciers on Puncak Jaya, Irian Jaya, determined from 2000 and 2002 IKONOS satellite images
+  lead: In Journal of Glaciology, 2006
+  article 'Klein_and_Kincaid_2006
+    insert Klein_and_Kincaid_2006_abstract
+
+  name: Holland et al., 2010
+  title: Ice and ocean processes in the Bellingshausen Sea, Antarctica
+  lead: In Journal of Geophysical Research-Oceans, 2010
+  article 'Holland_et_al_2010
+    insert Holland_et_al_2010_abstract
+
+  name: Tennant et al., 2012
+  title: Area change of glaciers in the Canadian Rocky Mountains, 1919 to 2006
+  lead: In Cryosphere, 2012
+  article 'Tennant_et_al_2012
+    insert Tennant_et_al_2012_abstract
+
+  name: Bodin et al., 2009
+  title: Two Decades of Responses (1986-2006) to Climate by the Laurichard Rock Glacier, French Alps
+  lead: In Permafrost and Periglacial Processes, 2009
+  article 'Bodin_et_al_2009
+    insert Bodin_et_al_2009_abstract
+
+  name: Prowse et al., 2011
+  title: Arctic Freshwater Ice and Its Climatic Role
+  lead: In Ambio, 2011
+  article 'Prowse_et_al_2011
+    insert Prowse_et_al_2011_abstract
+
+  name: Holland and Jenkins, 1999
+  title: Modeling thermodynamic ice-ocean interactions at the base of an ice shelf
+  lead: In Journal of Physical Oceanography, 1999
+  article 'Holland_and_Jenkins_1999
+    insert Holland_and_Jenkins_1999_abstract
+
+  name: Parkinson and Cavalieri, 2012
+  title: Antarctic Sea Ice Variability and Trends, 1979-2010
+  lead: In The Cryosphere, 2012
+  article 'Parkinson_and_Cavalieri_2012
+    insert Parkinson_and_Cavalieri_2012_abstract
+
+  name: van den Broeke et al., 2006
+  title: Snowfall in coastal West Antarctica much greater than previously assumed
+  lead: In Geophysical Research Letters, 2006
+  article 'van_den_Broeke_et_al_2006
+    insert van_den_Broeke_et_al_2006_abstract
+
+  name: Li et al., 2009
+  title: The Climatic Characteristics of the Maximum Seasonal Frozen Depth in the Tibetan Plateau
+  lead: In Journal of Glaciology and Geocryology, 2009
+  article 'Li_et_al_2009
+    insert Li_et_al_2009_abstract
+
+  name: Andresen et al., 2012
+  title: Rapid response of Helheim Glacier in Greenland to climate variability over the past century
+  lead: In Nature Geoscience, 2012
+  article 'Andresen_et_al_2012
+    insert Andresen_et_al_2012_abstract
+
+  name: Kaser et al., 2006
+  title: Mass balance of glaciers and ice caps: Consensus estimates for 1961-2004
+  lead: In Geophysical Research Letters, 2006
+  article 'Kaser_et_al_2006
+    insert Kaser_et_al_2006_abstract
+
+  name: Jones et al., 2009
+  title: Increase in the rate and uniformity of coastline erosion in Arctic Alaska
+  lead: In Geophysical Research Letters, 2009
+  article 'Jones_et_al_2009
+    insert Jones_et_al_2009_abstract
+
+  name: Costa et al., 2008
+  title: Upper ocean variability in west Antarctic Peninsula continental shelf waters as measured using instrumented seals
+  lead: In Deep-Sea Research Part Ii-Topical Studies in Oceanography, 2008
+  article 'Costa_et_al_2008
+    insert Costa_et_al_2008_abstract
+
+  name: Jones et al., 2012
+  title: Hemispheric and large-scale land-surface air temperature variations: An extensive revision and an update to 2010
+  lead: In Journal of Geophysical Research-Atmospheres, 2012
+  article 'Jones_et_al_2012
+    insert Jones_et_al_2012_abstract
+
+  name: Bolch et al., 2013
+  title: Mass loss of Greenland's glaciers and ice caps 2003-2008 revealed from ICESat data
+  lead: In Geophysical Research Letters, 2013
+  article 'Bolch_et_al_2013
+    insert Bolch_et_al_2013_abstract
+
+  name: Dmitrenko et al., 2011
+  title: Recent changes in shelf hydrography in the Siberian Arctic: Potential for subsea permafrost instability
+  lead: In Journal of Geophysical Research-Oceans, 2011
+  article 'Dmitrenko_et_al_2011
+    insert Dmitrenko_et_al_2011_abstract
+
+  name: Kwok, 2009
+  title: Outflow of Arctic Ocean Sea Ice into the Greenland and Barents Seas: 1979-2007
+  lead: In Journal of Climate, 2009
+  article 'Kwok_2009
+    insert Kwok_2009_abstract
+
+  name: Meier et al., 2012
+  title: A simple approach to providing a more consistent Arctic sea ice extent time series from the 1950s to present
+  lead: In Cryosphere, 2012
+  article 'Meier_et_al_2012
+    insert Meier_et_al_2012_abstract
+
+  name: Gardelle et al., 2012
+  title: Slight mass gain of Karakoram glaciers in the early twenty-first century
+  lead: In Nature Geoscience, 2012
+  article 'Gardelle_et_al_2012
+    insert Gardelle_et_al_2012_abstract
+
+  name: Kwok and Cunningham, 2010
+  title: Contribution of melt in the Beaufort Sea to the decline in Arctic multiyear sea ice coverage: 1993-2009
+  lead: In Geophysical Research Letters, 2010
+  article 'Kwok_and_Cunningham_2010
+    insert Kwok_and_Cunningham_2010_abstract
+
+  name: Velicogna and Wahr, 2006
+  title: Measurements of time-variable gravity show mass loss in Antarctica
+  lead: In Science, 2006
+  article 'Velicogna_and_Wahr_2006a
+    insert Velicogna_and_Wahr_2006a_abstract
+
+  name: Rignot et al., 2011b
+  title: Antarctic grounding line mapping from differential satellite radar interferometry
+  lead: In Geophysical Research Letters, 2011
+  article 'Rignot_et_al_2011b
+    insert Rignot_et_al_2011b_abstract
+
+  name: Shuman et al., 2011
+  title: 2001–2009 elevation and mass losses in the Larsen A and B embayments, Antarctic Peninsula
+  lead: In Journal of Glaciology, 2011
+  article 'Shuman_et_al_2011
+    insert Shuman_et_al_2011_abstract
+
+  name: Zwally et al., 2002
+  title: Surface melt-induced acceleration of Greenland ice-sheet flow
+  lead: In Science, 2002
+  article 'Zwally_et_al_2002a
+    insert Zwally_et_al_2002a_abstract
+
+  name: Rignot and Mouginot, 2012
+  title: Ice flow in Greenland for the International Polar Year 2008-2009
+  lead: In Geophysical Research Letters, 2012
+  article 'Rignot_and_Mouginot_2012
+    insert Rignot_and_Mouginot_2012_abstract
+
+  name: Rothrock et al., 2008
+  title: The decline in arctic sea-ice thickness: Separating the spatial, annual, and interannual variability in a quarter century of submarine data
+  lead: In Journal of Geophysical Research-Oceans, 2008
+  article 'Rothrock_et_al_2008
+    insert Rothrock_et_al_2008_abstract
+
+  name: Chen et al., 2011
+  title: Interannual variability of Greenland ice losses from satellite gravimetry
+  lead: In Journal of Geophysical Research-Solid Earth, 2011
+  article 'Chen_et_al_2011
+    insert Chen_et_al_2011_abstract
+
+  name: MacGregor et al., 2012
+  title: Widespread rifting and retreat of ice-shelf margins in the eastern Amundsen Sea Embayment between 1972 and 2011
+  lead: In Journal of Glaciology, 2012
+  article 'MacGregor_et_al_2012
+    insert MacGregor_et_al_2012_abstract
+
+  name: Padman et al., 2012
+  title: Oceanic controls on the mass balance of Wilkins Ice Shelf, Antarctica
+  lead: In Journal of Geophysical Research-Oceans, 2012
+  article 'Padman_et_al_2012
+    insert Padman_et_al_2012_abstract
+
+  name: Roer et al., ?
+  title: Observations and considerations on destabilizing active rock glaciers in the European Alps
+  ref 'Roer_et_al_
+    insert Roer_et_al__abstract
+
+  name: Pfeffer, 2011
+  title: Land Ice and Sea Level Rise A Thirty-Year Perspective
+  lead: In Oceanography, 2011
+  article 'Pfeffer_2011
+    insert Pfeffer_2011_abstract
+
+  name: Velicogna, 2009
+  title: Increasing rates of ice mass loss from the Greenland and Antarctic ice sheets revealed by GRACE
+  lead: In Geophysical Research Letters, 2009
+  article 'Velicogna_2009
+    insert Velicogna_2009_abstract
+
+  name: Thomas et al., 2011b
+  title: Accelerating ice loss from the fastest Greenland and Antarctic glaciers
+  lead: In Geophysical Research Letters, 2011
+  article 'Thomas_et_al_2011b
+    insert Thomas_et_al_2011b_abstract
+
+  name: Gruber and Haeberli, 2007
+  title: Permafrost in steep bedrock slopes and its temperature-related destabilization following climate change
+  lead: In Journal of Geophysical Research, 2007
+  article 'Gruber_and_Haeberli_2007
+    insert Gruber_and_Haeberli_2007_abstract
+
+  name: Bulygina et al., 2011
+  title: Changes in snow cover characteristics over Northern Eurasia since 1966
+  lead: In Environmental Research Letters, 2011
+  article 'Bulygina_et_al_2011
+    insert Bulygina_et_al_2011_abstract
+
+  name: Comiso, 2010
+  title: Polar Oceans from Space
+  lead: By Springer Publishing, 2010
+  book 'Comiso_2010
+    insert Comiso_2010_abstract
+
+  name: Simmonds et al., 2008
+  title: Arctic Climate Change as Manifest in Cyclone Behavior
+  lead: In Journal of Climate, 2008
+  article 'Simmonds_et_al_2008
+    insert Simmonds_et_al_2008_abstract
+
+  name: Rott et al., 2011
+  title: The imbalance of glaciers after disintegration of Larsen-B ice shelf, Antarctic Peninsula
+  lead: In Cryosphere, 2011
+  article 'Rott_et_al_2011
+    insert Rott_et_al_2011_abstract
+
+  name: Kääb et al., 2007
+  title: On the response of rockglacier creep to surface temperature increase
+  lead: In Global and Planetary Change, 2007
+  article 'Kb_et_al_2007
+    insert Kb_et_al_2007_abstract
+
+  name: Wendt et al., 2010
+  title: Recent ice-surface-elevation changes of Fleming Glacier in response to the removal of the Wordie Ice Shelf, Antarctic Peninsula
+  lead: In Annals of Glaciology, 2010
+  article 'Wendt_et_al_2010
+    insert Wendt_et_al_2010_abstract
+
+  name: Chapman and Walsh, 2007
+  title: A synthesis of Antarctic temperatures
+  lead: In Journal of Climate, 2007
+  article 'Chapman_and_Walsh_2007
+    insert Chapman_and_Walsh_2007_abstract
+
+  name: Vigdorchik, 1980
+  title: Arctic Pleistocene history and the development of submarine permafrost
+  lead: By Westview Press, 1980
+  book 'Vigdorchik_1980
+    insert Vigdorchik_1980_abstract
+
+  name: Smith et al., 2009
+  title: Active-Layer Characteristics and Summer Climatic Indices, Mackenzie Valley, Northwest Territories, Canada
+  lead: In Permafrost and Periglacial Processes, 2009
+  article 'Smith_et_al_2009
+    insert Smith_et_al_2009_abstract
+
+  name: Overduin and Kane, 2006
+  title: Frost boils and soil ice content: Field observations
+  lead: In Permafrost and Periglacial Processes, 2006
+  article 'Overduin_and_Kane_2006
+    insert Overduin_and_Kane_2006_abstract
+
+  name: Schoof, 2010
+  title: Ice-sheet acceleration driven by melt supply variability
+  lead: In Nature, 2010
+  article 'Schoof_2010
+    insert Schoof_2010_abstract
+
+  name: Burn and Kokelj, 2009
+  title: The Environment and Permafrost of the Mackenzie Delta Area
+  lead: In Permafrost and Periglacial Processes, 2009
+  article 'Burn_and_Kokelj_2009
+    insert Burn_and_Kokelj_2009_abstract
+
+  name: Chinn et al., 2005
+  title: Srecent glacier advances in Norway and New Zealand: A comparison of their glaciological and meteorological causes
+  lead: In Geografiska Annaler Series a-Physical Geography, 2005
+  article 'Chinn_et_al_2005
+    insert Chinn_et_al_2005_abstract
+
+  name: Shannon et al., 2012
+  title: Enhanced basal lubrication and the contribution of the Greenland ice sheet to future sea level rise 
+  lead: In Proceedings of the National Academy of Sciences, 2012
+  article 'Shannon_et_al_2012
+    insert Shannon_et_al_2012_abstract
+
+  name: Schrama and Wouters, 2011
+  title: Revisiting Greenland ice sheet mass loss observed by GRACE
+  lead: In Journal of Geophysical Research-Solid Earth, 2011
+  article 'Schrama_and_Wouters_2011
+    insert Schrama_and_Wouters_2011_abstract
+
+  name: King et al., 2009
+  title: A 4-decade record of elevation change of the Amery Ice Shelf, East Antarctica
+  lead: In Journal of Geophysical Research-Earth Surface, 2009
+  article 'King_et_al_2009
+    insert King_et_al_2009_abstract
+
+  name: Drucker et al., 2011
+  title: Sea ice production and export from coastal polynyas in the Weddell and Ross Seas
+  lead: In Geophysical Research Letters, 2011
+  article 'Drucker_et_al_2011
+    insert Drucker_et_al_2011_abstract
+
+  name: Fettweis et al., 2011
+  title: Melting trends over the Greenland ice sheet (1958–2009) from spaceborne microwave data and regional climate models
+  lead: In The Cryosphere, 2011
+  article 'Fettweis_et_al_2011
+    insert Fettweis_et_al_2011_abstract
+
+  name: Petkova et al., 2004
+  title: Snow cover variability and change in mountainous regions of Bulgaria, 1931-2000
+  lead: In Meteorologische Zeitschrift, 2004
+  article 'Petkova_et_al_2004
+    insert Petkova_et_al_2004_abstract
+
+  name: Luethi et al., 2010
+  title: Volume change reconstruction of Swiss glaciers from length change data
+  lead: In Journal of Geophysical Research-Earth Surface, 2010
+  article 'Luethi_et_al_2010
+    insert Luethi_et_al_2010_abstract
+
+  name: Buchardt et al., 2012
+  title: Investigating the past and recent delta18O-accumulation relationship seen in Greenland ice cores
+  lead: In Climate of the Past, 2012
+  article 'Buchardt_et_al_2012
+    insert Buchardt_et_al_2012_abstract
+
+  name: Cogley, 2009
+  title: A more complete version of the World Glacier Inventory
+  lead: In Annals of Glaciology, 2009
+  article 'Cogley_2009a
+    insert Cogley_2009a_abstract
+
+  name: Fyodorov-Davydov et al., ?
+  title: Seasonal Thaw of Soils in the North Yakutian Ecosystems
+  ref 'FyodorovDavydov_et_al_
+    insert FyodorovDavydov_et_al__abstract
+
+  name: Thompson and Wallace, 2000
+  title: Annular modes in the extratropical circulation. Part I: Month-to-month variability
+  lead: In Journal of Climate, 2000
+  article 'Thompson_and_Wallace_2000
+    insert Thompson_and_Wallace_2000_abstract
+
+  name: Cazenave et al., 2009
+  title: Sea level budget over 2003-2008: A reevaluation from GRACE space gravimetry, satellite altimetry and Argo
+  lead: In Global and Planetary Change, 2009
+  article 'Cazenave_et_al_2009
+    insert Cazenave_et_al_2009_abstract
+
+  name: Zhang et al., ?
+  title: Distribution of seasonally and perennially frozen ground in the Northern Hemisphere
+  lead: By A.A. Balkema, Lisse, the Netherlands
+  ref 'Zhang_et_al_
+    insert Zhang_et_al__abstract
+
+  name: Isaksen et al., 2011
+  title: Degrading mountain permafrost in southern Norway: spatial and temporal variability of mean ground temperatures, 1999-2009
+  lead: In Permafrost and Periglacial Processes, 2011
+  article 'Isaksen_et_al_2011
+    insert Isaksen_et_al_2011_abstract
+
+  name: Radić et al., 2013
+  title: Regional and global projections of 21st century glacier mass changes in response to climate scenarios from global climate models
+  lead: In Climate Dynamics, 2013
+  article 'Radi_et_al_2013
+    insert Radi_et_al_2013_abstract
+
+  name: Joughin et al., 2010
+  title: Sensitivity of 21st century sea level to ocean-induced thinning of Pine Island Glacier, Antarctica
+  lead: In Geophysical Research Letters, 2010
+  article 'Joughin_et_al_2010a
+    insert Joughin_et_al_2010a_abstract
+
+  name: Kwok et al., 2009
+  title: Thinning and volume loss of the Arctic Ocean sea ice cover: 2003-2008
+  lead: In Journal of Geophysical Research-Oceans, 2009
+  article 'Kwok_et_al_2009
+    insert Kwok_et_al_2009_abstract
+
+  name: Vasiliev et al., ?
+  title: Active Layer Monitoring in West Siberia under the CALM II Program
+  ref 'Vasiliev_et_al_
+    insert Vasiliev_et_al__abstract
+
+  name: Nicholls et al., 2012
+  title: Ocean circulation beneath Larsen C Ice Shelf, Antarctica from in situ observations
+  lead: In Geophysical Research Letters, 2012
+  article 'Nicholls_et_al_2012
+    insert Nicholls_et_al_2012_abstract
+
+  name: Nuth et al., 2010
+  title: Svalbard glacier elevation changes and contribution to sea level rise
+  lead: In Journal of Geophysical Research-Earth Surface, 2010
+  article 'Nuth_et_al_2010
+    insert Nuth_et_al_2010_abstract
+
+  name: Jenkins et al., 2010
+  title: Observations beneath Pine Island Glacier in West Antarctica and implications for its retreat
+  lead: In Nature Geoscience, 2010
+  article 'Jenkins_et_al_2010
+    insert Jenkins_et_al_2010_abstract
+
+  name: Daniault et al., 2011
+  title: The 1992-2009 transport variability of the East Greenland-Irminger Current at 60 degrees N
+  lead: In Geophysical Research Letters, 2011
+  article 'Daniault_et_al_2011
+    insert Daniault_et_al_2011_abstract
+
+  name: Haas et al., 2008
+  title: Reduced ice thickness in Arctic Transpolar Drift favors rapid ice retreat
+  lead: In Geophysical Research Letters, 2008
+  article 'Haas_et_al_2008
+    insert Haas_et_al_2008_abstract
+
+  name: Thibert et al., 2008
+  title: Glaciological and volumetric mass-balance measurements: error analysis over 51 years for Glacier de Sarennes, French Alps
+  lead: In Journal of Glaciology, 2008
+  article 'Thibert_et_al_2008
+    insert Thibert_et_al_2008_abstract
+
+  name: Leclercq et al., 2011
+  title: Estimating the Glacier Contribution to Sea-Level Rise for the Period 1800-2005
+  lead: In Surveys in Geophysics, 2011
+  article 'Leclercq_et_al_2011
+    insert Leclercq_et_al_2011_abstract
+
+  name: Moore and King, 2008
+  title: Antarctic ice mass balance estimates from GRACE: Tidal aliasing effects
+  lead: In Journal of Geophysical Research-Earth Surface, 2008
+  article 'Moore_and_King_2008
+    insert Moore_and_King_2008_abstract
+
+  name: Masiokas et al., 2010
+  title: Intra- to Multidecadal Variations of Snowpack and Streamflow Records in the Andes of Chile and Argentina between 30 degrees and 37 degrees S
+  lead: In Journal of Hydrometeorology, 2010
+  article 'Masiokas_et_al_2010
+    insert Masiokas_et_al_2010_abstract
+
+  name: Tedesco and Monaghan, 2009
+  title: An updated Antarctic melt record through 2009 and its linkages to high-latitude and tropical climate variability
+  lead: In Geophysical Research Letters, 2009
+  article 'Tedesco_and_Monaghan_2009
+    insert Tedesco_and_Monaghan_2009_abstract
+
+  name: Barrand et al., 2013
+  title: Trends in Antarctic Peninsula surface melting conditions from observations and regional climate modelling
+  lead: In Journal of Geophysical Research, 2013
+  article 'Barrand_et_al_2013
+    insert Barrand_et_al_2013_abstract
+
+  name: Sharkhuu et al., 2007
+  title: Permafrost monitoring in the Hovsgol mountain region, Mongolia
+  lead: In Journal of Geophysical Research-Earth Surface, 2007
+  article 'Sharkhuu_et_al_2007
+    insert Sharkhuu_et_al_2007_abstract
+
+  name: Flanner et al., 2011
+  title: Radiative forcing and albedo feedback from the Northern Hemisphere cryosphere between 1979 and 2008
+  lead: In Nature Geoscience, 2011
+  article 'Flanner_et_al_2011
+    insert Flanner_et_al_2011_abstract
+
+  name: Lewkowicz et al., 2011
+  title: Characteristics of Discontinuous Permafrost based on Ground Temperature Measurements and Electrical Resistivity Tomography, Southern Yukon, Canada
+  lead: In Permafrost and Periglacial Processes, 2011
+  article 'Lewkowicz_et_al_2011
+    insert Lewkowicz_et_al_2011_abstract
+
+  name: Cullen et al., 2013
+  title: A century of ice retreat on Kilimanjaro: the mapping reloaded
+  lead: In The Cryosphere, 2013
+  article 'Cullen_et_al_2013
+    insert Cullen_et_al_2013_abstract
+
+  name: Kopp et al., 2009
+  title: Probabilistic assessment of sea level during the last interglacial stage
+  lead: In Nature, 2009
+  article 'Kopp_et_al_2009
+    insert Kopp_et_al_2009_abstract
+
+  name: Hodgkins et al., 2002
+  title: Historical changes in lake ice-out dates as indicators of climate change in New England, 1850-2000
+  lead: In International Journal of Climate, 2002
+  article 'Hodgkins_et_al_2002
+    insert Hodgkins_et_al_2002_abstract
+
+  name: Christy, 2012
+  title: Searching for Information in 133 Years of California Snowfall Observations
+  lead: In Journal of Hydrometeorology, 2012
+  article 'Christy_2012
+    insert Christy_2012_abstract
+
+  name: Frauenfeld et al., 2004
+  title: Interdecadal changes in seasonal freeze and thaw depths in Russia
+  lead: In Journal of Geophysical Research, 2004
+  article 'Frauenfeld_et_al_2004
+    insert Frauenfeld_et_al_2004_abstract
+
+  name: Martinson et al., 2008
+  title: Western Antarctic Peninsula physical oceanography and spatio-temporal variability
+  lead: In Deep-Sea Research Part Ii-Topical Studies in Oceanography, 2008
+  article 'Martinson_et_al_2008
+    insert Martinson_et_al_2008_abstract
+
+  name: Quincey et al., 2011
+  title: Karakoram glacier surge dynamics
+  lead: In Geophysical Research Letters, 2011
+  article 'Quincey_et_al_2011
+    insert Quincey_et_al_2011_abstract
+
+  name: Sasgen et al., 2012
+  title: Timing and origin of recent regional ice-mass loss in Greenland
+  lead: In Earth and Planetary Science Letters, 2012
+  article 'Sasgen_et_al_2012
+    insert Sasgen_et_al_2012_abstract
+
+  name: Wadhams and Comiso, 1992
+  title: The ice thickness distribution inferred using remote sensing techniques
+  lead: In Microware Remote Sensing of Sea Ice, 1992
+  booksec 'Wadhams_and_Comiso_1992
+    insert Wadhams_and_Comiso_1992_abstract
+
+  name: Wadhams et al., 2011
+  title: Arctic sea ice thickness characteristics in winter 2004 and 2007 from submarine sonar transects
+  lead: In Journal of Geophysical Research-Oceans, 2011
+  article 'Wadhams_et_al_2011
+    insert Wadhams_et_al_2011_abstract
+
+  name: Worby et al., 2008
+  title: Thickness distribution of Antarctic sea ice
+  lead: In Journal of Geophysical Research-Oceans, 2008
+  article 'Worby_et_al_2008
+    insert Worby_et_al_2008_abstract
+
+  name: Willis et al., 2012
+  title: Ice Loss from the Southern Patagonian Icefield
+  lead: In Geophysical Research Letters, 2012
+  article 'Willis_et_al_2012
+    insert Willis_et_al_2012_abstract
+
+  name: Ramirez et al., 2001
+  title: Small glaciers disappearing in the tropical Andes: a case-study in Bolivia: Glaciar Chacaltaya (16 degrees S)
+  lead: In Journal of Glaciology, 2001
+  article 'Ramirez_et_al_2001
+    insert Ramirez_et_al_2001_abstract
+
+  name: Pfeffer, 2007
+  title: A simple mechanism for irreversible tidewater glacier retreat
+  lead: In Journal of Geophysical Research-Earth Surface, 2007
+  article 'Pfeffer_2007
+    insert Pfeffer_2007_abstract
+
+  name: Skaugen et al., 2012
+  title: Trends in snow water equivalent in Norway (1931-2009)
+  lead: In Hydrology Research, 2012
+  article 'Skaugen_et_al_2012
+    insert Skaugen_et_al_2012_abstract
+
+  name: Akerman and Johansson, 2008
+  title: Thawing permafrost and thicker active layers in sub-arctic Sweden
+  lead: In Permafrost and Periglacial Processes, 2008
+  article 'Akerman_and_Johansson_2008
+    insert Akerman_and_Johansson_2008_abstract
+
+  name: Overduin et al., 2007
+  title: Evolution and degradation of coastal and offshore permafrost in the Laptev and East Siberian Seas during the last climatic cycle
+  ref 'Overduin_et_al_2007
+    insert Overduin_et_al_2007_abstract
+
+  name: Dinniman et al., 2012
+  title: Sensitivity of Circumpolar Deep Water Transport and Ice Shelf Basal Melt along the West Antarctic Peninsula to Changes in the Winds
+  lead: In Journal of Climate, 2012
+  article 'Dinniman_et_al_2012
+    insert Dinniman_et_al_2012_abstract
+
+  name: Comiso, 2012
+  title: Large decadal decline in the Arctic multiyear ice cover
+  lead: In Journal of Climate, 2012
+  article 'Comiso_2012
+    insert Comiso_2012_abstract
+
+  name: Citterio et al., 2007
+  title: The fluctuations of Italian glaciers during the last century: A contribution to knowledge about Alpine glacier changes
+  lead: In Geografiska Annaler Series a-Physical Geography, 2007
+  article 'Citterio_et_al_2007
+    insert Citterio_et_al_2007_abstract
+
+  name: Jenkins and Doake, 1991
+  title: Ice-Ocean interaction on Ronne ice shelf, Antarctica 
+  lead: In Journal of Geophysical Research-Oceans, 1991
+  article 'Jenkins_and_Doake_1991
+    insert Jenkins_and_Doake_1991_abstract
+
+  name: Gordon et al., 2007
+  title: A possible link between the Weddell Polynya and the Southern Annular Mode
+  lead: In Journal of Climate, 2007
+  article 'Gordon_et_al_2007
+    insert Gordon_et_al_2007_abstract
+
+  name: Comiso, 2002
+  title: A rapidly declining perennial sea ice cover in the Arctic
+  lead: In Geophysical Research Letters, 2002
+  article 'Comiso_2002
+    insert Comiso_2002_abstract
+
+  name: Bulygina et al., 2009
+  title: Changes in snow cover over Northern Eurasia in the last few decades
+  lead: In Environmental Research Letters, 2009
+  article 'Bulygina_et_al_2009
+    insert Bulygina_et_al_2009_abstract
+
+  name: Bolch et al., 2010
+  title: Landsat-based inventory of glaciers in western Canada, 1985-2005
+  lead: In Remote Sensing of Environment, 2010
+  article 'Bolch_et_al_2010
+    insert Bolch_et_al_2010_abstract
+
+  name: Haas et al., 2011
+  title: Comparison of seasonal sea-ice thickness change in the Transpolar Drift observed by local ice mass-balance observations and floe-scale EM surveys
+  lead: In Annals of Glaciology, 2011
+  article 'Haas_et_al_2011
+    insert Haas_et_al_2011_abstract
+
+  name: Thomas et al., 2011
+  title: Widespread low rates of Antarctic glacial isostatic adjustment revealed by GPS observations
+  lead: In Geophysical Research Letters, 2011
+  article 'Thomas_et_al_2011a
+    insert Thomas_et_al_2011a_abstract
+
+  name: Mote, 2006
+  title: Climate-driven variability and trends in mountain snowpack in western North America
+  lead: In Journal of Climate, 2006
+  article 'Mote_2006
+    insert Mote_2006_abstract
+
+  name: Zemp et al., 2011
+  title: Extending glacier monitoring into the Little Ice Age and beyond
+  article 'Zemp_et_al_2011
+    insert Zemp_et_al_2011_abstract
+
+  name: Cogley et al., 2011
+  title: Glossary of Glacier Mass Balance and Related Terms
+  lead: By UNESCO-IHP, 2011
+  book 'Cogley_et_al_2011
+    insert Cogley_et_al_2011_abstract
+
+  name: Charrassin et al., 2008
+  title: Southern Ocean frontal structure and sea-ice formation rates revealed by elephant seals
+  lead: In Proceedings of the National Academy of Sciences of the United States of America, 2008
+  article 'Charrassin_et_al_2008
+    insert Charrassin_et_al_2008_abstract
+
+  name: Oberman, ?b
+  title: Long-term temperature regime of the Northeast European permafrost region during contemporary climate warming
+  lead: By The Northern Publisher
+  ref 'Oberman_b
+    insert Oberman_b_abstract
+
+  name: Comiso et al., 2011
+  title: Variability and trends in sea ice extent and ice production in the Ross Sea
+  lead: In Journal of Geophysical Research-Oceans, 2011
+  article 'Comiso_et_al_2011
+    insert Comiso_et_al_2011_abstract
+
+  name: Derksen and Brown, 2012
+  title: Spring snow cover extent reductions in the 2008-2012 period exceeding climate model projections
+  lead: In Geophysical Research Letters, 2012
+  article 'Derksen_and_Brown_2012
+    insert Derksen_and_Brown_2012_abstract
+
+  name: Xu et al., 2012
+  title: Numerical experiments on subaqueous melting of Greenland tidewater glaciers in response to ocean warming and enhanced subglacial discharge
+  lead: In Annals of Glaciology, 2012
+  article 'Xu_et_al_2012
+    insert Xu_et_al_2012_abstract
+
+  name: Wang et al., 2012
+  title: Temporal and spatial variability of Great Lakes ice cover, 1973-2010
+  lead: In Journal of Climate, 2012
+  article 'Wang_et_al_2012
+    insert Wang_et_al_2012_abstract
+
+  name: Joughin et al., 1999
+  title: Ice flow of Humboldt, Petermann and Ryder Gletscher, northern Greenland
+  lead: In Journal of Glaciology, 1999
+  article 'Joughin_et_al_1999
+    insert Joughin_et_al_1999_abstract
+
+  name: Tedesco et al., 2013
+  title: Evidence and analysis of 2012 Greenland records from spaceborne observations, a regional climate model and reanalysis data
+  lead: In The Cryosphere, 2013
+  article 'Tedesco_et_al_2013
+    insert Tedesco_et_al_2013_abstract
+
+  name: Ishikawa et al., ?
+  title: Thermal state of Mongolian permafrost
+  lead: By The Northern Oublisher
+  ref 'Ishikawa_et_al_
+    insert Ishikawa_et_al__abstract
+
+  name: Moholdt et al., 2010
+  title: Recent elevation changes of Svalbard glaciers derived from ICESat laser altimetry
+  lead: In Remote Sensing of Environment, 2010
+  article 'Moholdt_et_al_2010
+    insert Moholdt_et_al_2010_abstract
+
+  name: Barry and Gran, 2011
+  title: The Global Cryosphere: Past, Present and Future
+  lead: By Cambridge University Press, 2011
+  book 'Barry_and_Gran_2011
+    insert Barry_and_Gran_2011_abstract
+
+  name: Frauenfeld and Zhang, 2011
+  title: An observational 71-year history of seasonally frozen ground changes in the Eurasian high latitudes
+  lead: In Environmental Research Letters, 2011
+  article 'Frauenfeld_and_Zhang_2011
+    insert Frauenfeld_and_Zhang_2011_abstract
+
+  name: Doherty et al., 2010
+  title: Light-absorbing impurities in Arctic snow
+  lead: In Atmospheric Chemistry and Physics, 2010
+  article 'Doherty_et_al_2010
+    insert Doherty_et_al_2010_abstract
+
+  name: Grinsted, 2013
+  title: An estimate of global glacier volume
+  lead: In The Cryosphere, 2013
+  article 'Grinsted_2013
+    insert Grinsted_2013_abstract
+
+  name: Diolaiuti et al., 2012
+  title: Evidence of climate change impact upon glaciers’ recession within the Italian Alps - The case of Lombardy glaciers.
+  lead: In Theoretical Applied Climatology, 2012
+  article 'Diolaiuti_et_al_2012
+    insert Diolaiuti_et_al_2012_abstract
+
+  name: Jenkins and Jacobs, 2008
+  title: Circulation and melting beneath George VI Ice Shelf, Antarctica
+  lead: In Journal of Geophysical Research-Oceans, 2008
+  article 'Jenkins_and_Jacobs_2008
+    insert Jenkins_and_Jacobs_2008_abstract
+
+  name: Myers et al., 2009
+  title: Structure and variability of the West Greenland Current in Summer derived from 6 repeat standard sections
+  lead: In Progress in Oceanography, 2009
+  article 'Myers_et_al_2009
+    insert Myers_et_al_2009_abstract
+
+  name: Brunt et al., 2011
+  title: Antarctic ice-shelf calving triggered by the Honshu (Japan) earthquake and tsunami, March 2011
+  lead: In Journal of Glaciology, 2011
+  article 'Brunt_et_al_2011
+    insert Brunt_et_al_2011_abstract
+
+  name: Paulson et al., 2007
+  title: Inference of mantle viscosity from GRACE and relative sea level data
+  lead: In Geophysical Journal International, 2007
+  article 'Paulson_et_al_2007
+    insert Paulson_et_al_2007_abstract
+
+  name: Morris and Vaughan, 2003
+  title: Spatial and temporal variation of surface temperature on the Antarctic Peninsula and the limit of viability of ice shelves
+  lead: In Antarctic Peninsula Climate Variability: Historical and Paleoenvironmental Perspectives.  Antarctic Research Series, 79, 2003
+  booksec 'Morris_and_Vaughan_2003
+    insert Morris_and_Vaughan_2003_abstract
+
+  name: Schoeneich et al., 2010
+  title: Permafrost in France, 1st Report
+  lead: By Institut de Géographie Alpine, Université Joseph Fourier, 2010
+  report 'Schoeneich_et_al_2010
+    insert Schoeneich_et_al_2010_abstract
+
+  name: Ramillien et al., 2006
+  title: Interannual variations of the mass balance of the Antarctica and Greenland ice sheets from GRACE
+  lead: In Global and Planetary Change, 2006
+  article 'Ramillien_et_al_2006
+    insert Ramillien_et_al_2006_abstract
+
+  name: Schweiger et al., 2011
+  title: Uncertainty in modeled Arctic sea ice volume
+  lead: In Journal of Geophysical Research-Oceans, 2011
+  article 'Schweiger_et_al_2011
+    insert Schweiger_et_al_2011_abstract
+
+  name: Ishizaka, 2004
+  title: Climatic response of snow depth to recent warmer winter seasons in heavy-snowfall areas in Japan
+  lead: In Annals of Glaciology, Vol 38 2004, 2004
+  booksec 'Ishizaka_2004
+    insert Ishizaka_2004_abstract
+
+  name: Sannel and Kuhry, 2011
+  title: Warming-induced destabilization of peat plateau/thermokarst lake complexes
+  lead: In Journal of Geophysical Research-Biogeosciences, 2011
+  article 'Sannel_and_Kuhry_2011
+    insert Sannel_and_Kuhry_2011_abstract
+
+  name: Osterkamp, 2007
+  title: Characteristics of the recent warming of permafrost in Alaska
+  lead: In Journal of Geophysical Research-Earth Surface, 2007
+  article 'Osterkamp_2007
+    insert Osterkamp_2007_abstract
+
+  name: Cogley, 2012
+  title: Area of the ocean
+  lead: In Marine Geodesy, 2012
+  article 'Cogley_2012
+    insert Cogley_2012_abstract
+
+  name: Gardner et al., 2012
+  title: Accelerated contributions of Canada's Baffin and Bylot Island glaciers to sea level rise over the past half century
+  lead: In Cryosphere, 2012
+  article 'Gardner_et_al_2012
+    insert Gardner_et_al_2012_abstract
+
+  name: Rignot et al., 2003
+  title: Contribution of the Patagonia Icefields of South America to sea level rise
+  lead: In Science, 2003
+  article 'Rignot_et_al_2003
+    insert Rignot_et_al_2003_abstract
+
+  name: Kääb et al., 2012
+  title: Contrasting patterns of early twenty-first-century glacier mass change in the Himalayas
+  lead: In Nature, 2012
+  article 'Kb_et_al_2012
+    insert Kb_et_al_2012_abstract
+
+  name: Thomas et al., 2008b
+  title: A comparison of Greenland ice-sheet volume changes derived from altimetry measurements
+  lead: In Journal of Glaciology, 2008
+  article 'Thomas_et_al_2008b
+    insert Thomas_et_al_2008b_abstract
+
+  name: Arthern et al., 2010
+  title: In-situ measurements of Antarctic snow compaction, compared with predictions of models
+  lead: In Journal Of Geophysical Research, 2010
+  article 'Arthern_et_al_2010
+    insert Arthern_et_al_2010_abstract
+
+  name: Brewer, 1958
+  title: Some results of geothermal investigations of permafrost
+  article 'Brewer_1958
+    insert Brewer_1958_abstract
+
+  name: Zwally and Gloersen, 2008
+  title: Arctic sea ice surviving the summer melt: interannual variability and decreasing trend
+  lead: In Journal of Glaciology, 2008
+  article 'Zwally_and_Gloersen_2008
+    insert Zwally_and_Gloersen_2008_abstract
+
+  name: Shepherd et al., 2010
+  title: Recent loss of floating ice and the consequent sea level contribution
+  lead: In Geophysical Research Letters, 2010
+  article 'Shepherd_et_al_2010
+    insert Shepherd_et_al_2010_abstract
+
+  name: Kurtz and Markus, 2012
+  title: Satellite observations of Antarctic sea ice thickness and volume
+  lead: In Journal of Geophysical Research-Oceans, 2012
+  article 'Kurtz_and_Markus_2012
+    insert Kurtz_and_Markus_2012_abstract
+
+  name: Brown et al., 2010
+  title: A multi-data set analysis of variability and change in Arctic spring snow cover extent, 1967-2008
+  lead: In Journal of Geophysical Research-Atmospheres, 2010
+  article 'Brown_et_al_2010
+    insert Brown_et_al_2010_abstract
+
+  name: Kwok and Rothrock, 1999
+  title: Variability of Fram Strait ice flux and North Atlantic Oscillation
+  lead: In Journal of Geophysical Research-Oceans, 1999
+  article 'Kwok_and_Rothrock_1999
+    insert Kwok_and_Rothrock_1999_abstract
+
+  name: Van Ommen and Morgan, 2010
+  title: Snowfall increase in coastal East Antarctica linked with southwest Western Australian drought
+  lead: In Nature Geoscience, 2010
+  article 'Van_Ommen_and_Morgan_2010
+    insert Van_Ommen_and_Morgan_2010_abstract
+
+  name: Joughin et al., 2008b
+  title: Ice-front variation and tidewater behavior on Helheim and Kangerdlugssuaq Glaciers, Greenland
+  lead: In Journal of Geophysical Research-Earth Surface, 2008
+  article 'Joughin_et_al_2008b
+    insert Joughin_et_al_2008b_abstract
+
+  name: Bromwich et al., 2013
+  title: Central West Antarctica among the most rapidly warming regions on Earth
+  lead: In Nature Geoscience, 2013
+  article 'Bromwich_et_al_2013
+    insert Bromwich_et_al_2013_abstract
+
+  name: Citterio et al., 2009
+  title: Remote sensing of glacier change in West Greenland: accounting for the occurrence of surge-type glaciers
+  lead: In Annals of Glaciology, 2009
+  article 'Citterio_et_al_2009
+    insert Citterio_et_al_2009_abstract
+
+  name: Burn and Zhang, 2009
+  title: Permafrost and climate change at Herschel Island (Qikiqtaruq), Yukon Territory, Canada
+  lead: In Journal of Geophysical Research, 2009
+  article 'Burn_and_Zhang_2009
+    insert Burn_and_Zhang_2009_abstract
+
+  name: Derksen et al., 2012
+  title: Variability and change in the Canadian cryosphere
+  lead: In Climatic Change, 2012
+  article 'Derksen_et_al_2012
+    insert Derksen_et_al_2012_abstract
+
+  name: Frezzotti et al., 2012
+  title: A synthesis of the Antarctic Surface Mass Balance during the last eight centuries
+  lead: In The Cryosphere, 2012
+  article 'Frezzotti_et_al_2012
+    insert Frezzotti_et_al_2012_abstract
+
+  name: Zhou et al., 2000
+  title: Geocryology in China
+  lead: By Science Press, 2000
+  book 'Zhou_et_al_2000
+    insert Zhou_et_al_2000_abstract
+
+  name: Heid and Kääb, 2012
+  title: Repeat optical satellite images reveal widespread and long term decrease in land-terminating glacier speeds
+  lead: In The Cryosphere Discussions, 2012
+  article 'Heid_and_Kb_2012
+    insert Heid_and_Kb_2012_abstract
+
+  name: Matsuo and Heki, 2010
+  title: Time-variable ice loss in Asian high mountains from satellite gravimetry
+  lead: In Earth and Planetary Science Letters, 2010
+  article 'Matsuo_and_Heki_2010
+    insert Matsuo_and_Heki_2010_abstract
+
+  name: Latifovic and Pouliot, 2007
+  title: Analysis of climate change impacts on lake ice phenology in Canada using the historical satellite data record
+  lead: In Remote Sensing of Environment, 2007
+  article 'Latifovic_and_Pouliot_2007
+    insert Latifovic_and_Pouliot_2007_abstract
+
+  name: Coudrain et al., 2005
+  title: Glacier shrinkage in the Andes and consequences for water resources
+  lead: In Hydrological Sciences Journal-Journal Des Sciences Hydrologiques, 2005
+  article 'Coudrain_et_al_2005
+    insert Coudrain_et_al_2005_abstract
+
+  name: Tamura and Ohshima, 2011
+  title: Mapping of sea ice production in the Arctic coastal polynyas
+  lead: In Journal of Geophysical Research-Oceans, 2011
+  article 'Tamura_and_Ohshima_2011
+    insert Tamura_and_Ohshima_2011_abstract
+
+  name: Johnson et al., 2008
+  title: First exposure ages from the Amundsen Sea embayment, West Antarctica: The late quaternary context for recent thinning of Pine Island, Smith, and Pope Glaciers
+  lead: In Geology, 2008
+  article 'Johnson_et_al_2008
+    insert Johnson_et_al_2008_abstract
+
+  name: Gilbert et al., 2010
+  title: Atmospheric warming at a high-elevation tropical site revealed by englacial temperatures at Illimani, Bolivia (6340 m above sea level, 16 degrees S, 67 degrees W)
+  lead: In Journal of Geophysical Research, 2010
+  article 'Gilbert_et_al_2010
+    insert Gilbert_et_al_2010_abstract
+
+  name: Bamber et al., 2013
+  title: A new bed elevation dataset for Greenland
+  lead: In The Cryosphere, 2013
+  article 'Bamber_et_al_2013
+    insert Bamber_et_al_2013_abstract
+
+  name: Koch et al., 2009
+  title: Methanogenic community composition and anaerobic carbon turnover in submarine permafrost sediments of the Siberian Laptev Sea
+  lead: In Environmental Microbiology, 2009
+  article 'Koch_et_al_2009
+    insert Koch_et_al_2009_abstract
+
+  name: Schaefer et al., 2011
+  title: Amount and timing of permafrost carbon release in response to climate warming
+  lead: In Tellus Series B-Chemical and Physical Meteorology, 2011
+  article 'Schaefer_et_al_2011
+    insert Schaefer_et_al_2011_abstract
+
+  name: Peltier, 2004
+  title: Global glacial isostasy and the surface of the ice-age earth: The ice-5G (VM2) model and grace
+  lead: In Annual Review of Earth and Planetary Sciences, 2004
+  article 'Peltier_2004
+    insert Peltier_2004_abstract
+
+  name: Hulbe et al., 2008
+  title: Patterns of glacier response to disintegration of the Larsen B ice shelf, Antarctic Peninsula
+  lead: In Global and Planetary Change, 2008
+  article 'Hulbe_et_al_2008
+    insert Hulbe_et_al_2008_abstract
+
+  name: Doake and Vaughan, 1991
+  title: Rapid disintegration of the wordie ice shelf in response to atmospheric warming
+  lead: In Nature, 1991
+  article 'Doake_and_Vaughan_1991
+    insert Doake_and_Vaughan_1991_abstract
+
+  name: Carturan and Seppi, 2007
+  title: Recent mass balance results and morphological evolution of Careser glacier (Central Alps)
+  lead: In Geografia Fisica e Dinamica Quaternaria, 2007
+  article 'Carturan_and_Seppi_2007
+    insert Carturan_and_Seppi_2007_abstract
+
+  name: Joughin et al., 2012
+  title: Ice-Sheet Response to Oceanic Forcing
+  lead: In Science, 2012
+  article 'Joughin_et_al_2012
+    insert Joughin_et_al_2012_abstract
+
+  name: Meier, 1984
+  title: Contribution of small glaciers to global sea level
+  lead: In Science, 1984
+  article 'Meier_1984
+    insert Meier_1984_abstract
+
+  name: Shakhova et al., 2010b
+  title: Extensive Methane Venting to the Atmosphere from Sediments of the East Siberian Arctic Shelf
+  lead: In Science, 2010
+  article 'Shakhova_et_al_2010b
+    insert Shakhova_et_al_2010b_abstract
+
+  name: Nussbaumer et al., 2011
+  title: Historical glacier fluctuations of Jostedalsbreen and Folgefonna (southern Norway) reassessed by new pictorial and written evidence
+  lead: In Holocene, 2011
+  article 'Nussbaumer_et_al_2011
+    insert Nussbaumer_et_al_2011_abstract
+
+  name: Guglielmin and Cannone, 2012
+  title: A permafrost warming in a cooling Antarctica?
+  lead: In Climatic Change, 2012
+  article 'Guglielmin_and_Cannone_2012
+    insert Guglielmin_and_Cannone_2012_abstract
+
+  name: Gusmeroli et al., 2012
+  title: Twenty years of cold surface layer thinning at Storglaciären, sub-Arctic Sweden, 1989–2009
+  lead: In Journal of Glaciology, 2012
+  article 'Gusmeroli_et_al_2012
+    insert Gusmeroli_et_al_2012_abstract
+
+  name: Huss and Farinotti, 2012
+  title: Distributed ice thickness and volume of 180,000 glaciers around the globe
+  lead: In Journal of  Geophysical Research, 2012
+  article 'Huss_and_Farinotti_2012
+    insert Huss_and_Farinotti_2012_abstract
+
+  name: Kwok, 2007
+  title: Near zero replenishment of the Arctic multiyear sea ice cover at the end of 2005 summer
+  lead: In Geophysical Research Letters, 2007
+  article 'Kwok_2007
+    insert Kwok_2007_abstract
+
+  name: Motyka et al., 2003
+  title: Submarine melting at the terminus of a temperate tidewater glacier, LeConte Glacier, Alaska, USA
+  lead: In Annals of Glaciology, Vol 36, 2003
+  article 'Motyka_et_al_2003
+    insert Motyka_et_al_2003_abstract
+
+  name: Slobbe et al., 2009
+  title: Estimating the rates of mass change, ice volume change and snow volume change in Greenland from ICESat and GRACE data
+  lead: In Geophysical Journal International, 2009
+  article 'Slobbe_et_al_2009
+    insert Slobbe_et_al_2009_abstract
+
+  name: Thompson and Wallace, 1998
+  title: The Arctic Oscillation signature in the wintertime geopotential height and temperature fields
+  lead: In Geophysical Research Letters, 1998
+  article 'Thompson_and_Wallace_1998
+    insert Thompson_and_Wallace_1998_abstract
+
+  name: Khan et al., 2010
+  title: GPS measurements of crustal uplift near Jakobshavn Isbrae due to glacial ice mass loss
+  lead: In Journal of Geophysical Research-Solid Earth, 2010
+  article 'Khan_et_al_2010a
+    insert Khan_et_al_2010a_abstract
+
+  name: Zimov et al., 2006
+  title: Permafrost and the global carbon budget
+  lead: In Science, 2006
+  article 'Zimov_et_al_2006
+    insert Zimov_et_al_2006_abstract
+
+  name: Holzhauser et al., 2005
+  title: Glacier and lake-level variations in west-central Europe over the last 3500 years
+  lead: In Holocene, 2005
+  article 'Holzhauser_et_al_2005
+    insert Holzhauser_et_al_2005_abstract
+
+  name: Micu, 2009
+  title: Snow pack in the Romanian Carpathians under changing climatic conditions
+  lead: In Meteorology and Atmospheric Physics, 2009
+  article 'Micu_2009
+    insert Micu_2009_abstract
+
+  name: Thomas et al., 2006
+  title: Progressive increase in ice loss from Greenland
+  lead: In Geophysical Research Letters, 2006
+  article 'Thomas_et_al_2006
+    insert Thomas_et_al_2006_abstract
+
+  name: Tang et al., 2012
+  title: Using nonlinear programming to correct leakage and estimate mass change from GRACE observation and its application to Antarctica
+  lead: In Journal of Geophysical Research-Solid Earth, 2012
+  article 'Tang_et_al_2012
+    insert Tang_et_al_2012_abstract
+
+  name: Rignot et al., 2010
+  title: Rapid submarine melting of the calving faces of West Greenland glaciers
+  lead: In Nature Geoscience, 2010
+  article 'Rignot_et_al_2010
+    insert Rignot_et_al_2010_abstract
+
+  name: National Snow and Ice Data Center, 2013
+  title: http://nsidc.org/data/icesat/correction-to-product-surface-elevations.html
+  ref 'National_Snow_and_Ice_Data_Center_2013
+    insert National_Snow_and_Ice_Data_Center_2013_abstract
+
+  name: Takala et al., 2009
+  title: Detection of Snowmelt Using Spaceborne Microwave Radiometer Data in Eurasia From 1979 to 2007
+  lead: In Ieee Transactions on Geoscience and Remote Sensing, 2009
+  article 'Takala_et_al_2009
+    insert Takala_et_al_2009_abstract
+
+  name: Rignot et al., 2008b
+  title: Mass balance of the Greenland ice sheet from 1958 to 2007
+  lead: In Geophysical Research Letters, 2008
+  article 'Rignot_et_al_2008b
+    insert Rignot_et_al_2008b_abstract
+
+  name: Wingham et al., 2009
+  title: Spatial and temporal evolution of Pine Island Glacier thinning, 1995-2006
+  lead: In Geophysical Research Letters, 2009
+  article 'Wingham_et_al_2009
+    insert Wingham_et_al_2009_abstract
+
+  name: Jacobs et al., 1992
+  title: Melting of the ice shelves and the mass balance of Antarctica
+  lead: In Journal of Glaciology, 1992
+  article 'Jacobs_et_al_1992
+    insert Jacobs_et_al_1992_abstract
+
+  name: Bodin et al., 2010
+  title: Status and evolution of the cryosphere in the Andes of Santiago (Chile, 33.5 degrees S.)
+  lead: In Geomorphology, 2010
+  article 'Bodin_et_al_2010
+    insert Bodin_et_al_2010_abstract
+
+  name: Rayner et al., 2003
+  title: Global analyses of SST, sea ice and night marine air temperature since the late nineteenth century
+  lead: In Journal of  Geophysical Research, 2003
+  article 'Rayner_et_al_2003
+    insert Rayner_et_al_2003_abstract
+
+  name: Flament and Remy, 2012
+  title: Dynamic thinning of Antarctic glaciers from along-track repeat radar altimetry
+  lead: In Journal of Glaciology, 2012
+  article 'Flament_and_Remy_2012
+    insert Flament_and_Remy_2012_abstract
+
+  name: Stroeve et al., 2007
+  title: Arctic sea ice decline: Faster than forecast
+  lead: In Geophysical Research Letters, 2007
+  article 'Stroeve_et_al_2007
+    insert Stroeve_et_al_2007_abstract
+
+  name: Wouters et al., 2008
+  title: GRACE observes small-scale mass loss in Greenland
+  lead: In Geophysical Research Letters, 2008
+  article 'Wouters_et_al_2008
+    insert Wouters_et_al_2008_abstract
+
+  name: Zwally et al., 2011
+  title: Greenland ice sheet mass balance: distribution of increased mass loss with climate warming; 2003-07 versus 1992-2002
+  lead: In Journal of Glaciology, 2011
+  article 'Zwally_et_al_2011
+    insert Zwally_et_al_2011_abstract
+
+  name: Liu et al., 2010
+  title: InSAR measurements of surface deformation over permafrost on the North Slope of Alaska
+  lead: In Journal of Geophysical Research-Earth Surface, 2010
+  article 'Liu_et_al_2010
+    insert Liu_et_al_2010_abstract
+
+  name: Christiansen et al., 2010
+  title: The Thermal State of Permafrost in the Nordic Area during the International Polar Year 2007-2009
+  lead: In Permafrost and Periglacial Processes, 2010
+  article 'Christiansen_et_al_2010
+    insert Christiansen_et_al_2010_abstract
+
+  name: Shi et al., 2011
+  title: Mass change detection in Antarctic ice sheet using ICESat block analysis techniques from 2003 similar to 2008
+  lead: In Chinese Journal of Geophysics-Chinese Edition, 2011
+  article 'Shi_et_al_2011
+    insert Shi_et_al_2011_abstract
+
+  name: Monaghan et al., 2006
+  title: Recent trends in Antarctic snow accumulation from Polar MM5 simulations
+  lead: In Philosophical Transactions of the Royal Society a-Mathematical Physical and Engineering Sciences, 2006
+  article 'Monaghan_et_al_2006
+    insert Monaghan_et_al_2006_abstract
+
+  name: Yao et al., 2012
+  title: Different glacier status with atmospheric circulations in Tibetan Plateau and surroundings
+  lead: In Nature Climate Change, 2012
+  article 'Yao_et_al_2012
+    insert Yao_et_al_2012_abstract
+
+  name: Tedesco et al., 2009
+  title: Pan arctic terrestrial snowmelt trends (1979-2008) from spaceborne passive microwave data and correlation with the Arctic Oscillation
+  lead: In Geophysical Research Letters, 2009
+  article 'Tedesco_et_al_2009
+    insert Tedesco_et_al_2009_abstract
+
+  name: Wu and Zhang, 2008
+  title: Recent permafrost warming on the Qinghai-Tibetan plateau
+  lead: In Journal of Geophysical Research-Atmospheres, 2008
+  article 'Wu_and_Zhang_2008
+    insert Wu_and_Zhang_2008_abstract
+
+  name: van de Wal et al., 2008
+  title: Large and rapid melt-induced velocity changes in the ablation zone of the Greenland Ice Sheet
+  lead: In Science, 2008
+  article 'van_de_Wal_et_al_2008
+    insert van_de_Wal_et_al_2008_abstract
+
+  name: Leclercq et al., 2012
+  title: Brief communication - Historical glacier length changes in West Greenland
+  lead: In The Cryosphere, 2012
+  article 'Leclercq_et_al_2012
+    insert Leclercq_et_al_2012_abstract
+
+  name: Ding et al., 2011
+  title: Winter warming in West Antarctica caused by central tropical Pacific warming
+  lead: In Nature Geoscience, 2011
+  article 'Ding_et_al_2011
+    insert Ding_et_al_2011_abstract
+
+  name: Gille, 2008
+  title: Decadal-scale temperature trends in the Southern Hemisphere ocean
+  lead: In Journal of Climate, 2008
+  article 'Gille_2008
+    insert Gille_2008_abstract
+
+  name: Horwath and Dietrich, 2009
+  title: Signal and error in mass change inferences from GRACE: the case of Antarctica
+  lead: In Geophysical Journal International, 2009
+  article 'Horwath_and_Dietrich_2009
+    insert Horwath_and_Dietrich_2009_abstract
+
+  name: Parkinson, 2002
+  title: Trends in the length of the Southern Ocean sea-ice season, 1979-99
+  lead: In Annals of Glaciology, Vol 34, 2002, 2002
+  article 'Parkinson_2002
+    insert Parkinson_2002_abstract
+
+  name: Straneo et al., 2012
+  title: Characteristics of ocean waters reaching Greenland’s glaciers
+  lead: In Annals of Glaciology, 2012
+  article 'Straneo_et_al_2012
+    insert Straneo_et_al_2012_abstract
+
+  name: Stammerjohn et al., 2012
+  title: Regions of rapid sea ice change: An inter-hemispheric seasonal comparison
+  lead: In Geophysical Research Letters, 2012
+  article 'Stammerjohn_et_al_2012
+    insert Stammerjohn_et_al_2012_abstract
+
+  name: Spreen et al., 2011
+  title: Trends in Arctic sea ice drift and role of wind forcing: 1992-2009
+  lead: In Geophysical Research Letters, 2011
+  article 'Spreen_et_al_2011
+    insert Spreen_et_al_2011_abstract
+
+  name: Cavalieri et al., 1984
+  title: Determination of sea ice parameters with the Nimbus-7 SMMR
+  lead: In Journal of Geophysical Research-Atmospheres, 1984
+  article 'Cavalieri_et_al_1984
+    insert Cavalieri_et_al_1984_abstract
+
+  name: Oerlemans, 2001
+  title: Glaciers and Climate Change
+  lead: By AA Balkema Publishers, 2001
+  book 'Oerlemans_2001
+    insert Oerlemans_2001_abstract
+
+  name: Fraser et al., 2012
+  title: East Antarctic landfast sea ice distribution and variability, 2000-2008
+  lead: In Journal of Climate, 2012
+  article 'Fraser_et_al_2012
+    insert Fraser_et_al_2012_abstract
+
+  name: Box et al., 2012
+  title: Greenland ice sheet albedo feedback: thermodynamics and atmospheric drivers
+  lead: In Cryosphere, 2012
+  article 'Box_et_al_2012
+    insert Box_et_al_2012_abstract
+
+  name: Screen, 2011
+  title: Sudden increase in Antarctic sea ice: Fact or artifact?
+  lead: In Geophysical Research Letters, 2011
+  article 'Screen_2011
+    insert Screen_2011_abstract
+
+  name: Haeberli et al., 2007
+  title: Integrated monitoring of mountain glaciers as key indicators of global climate change: the European Alps
+  lead: In Annals of Glaciology, 2007
+  article 'Haeberli_et_al_2007
+    insert Haeberli_et_al_2007_abstract
+
+  name: Krabill et al., 2002
+  title: Aircraft laser altimetry measurement of elevation changes of the greenland ice sheet: technique and accuracy assessment
+  lead: In Journal of Geodynamics, 2002
+  article 'Krabill_et_al_2002
+    insert Krabill_et_al_2002_abstract
+
+  name: Massom et al., 2013
+  title: Change and variability in East Antarctic Sea Ice Seasonality, 1979/80-2009/10
+  lead: In PLoS ONE, 2013
+  article 'Massom_et_al_2013
+    insert Massom_et_al_2013_abstract
+
+  name: Masiokas et al., 2009
+  title: Glacier fluctuations in extratropical South America during the past 1000 years
+  lead: In Palaeogeography Palaeoclimatology Palaeoecology, 2009
+  article 'Masiokas_et_al_2009
+    insert Masiokas_et_al_2009_abstract
+
+  name: Rabatel et al., 2008
+  title: A chronology of the Little Ice Age in the tropical Andes of Bolivia (16 degrees S) and its implications for climate reconstruction
+  lead: In Quaternary Research, 2008
+  article 'Rabatel_et_al_2008
+    insert Rabatel_et_al_2008_abstract
+
+  name: Steig et al., 2012
+  title: Tropical forcing of Circumpolar Deep Water Inflow and outlet glacier thinning in the Amundsen Sea Embayment, West Antarctica
+  lead: In Annals of Glaciology, 2012
+  article 'Steig_et_al_2012
+    insert Steig_et_al_2012_abstract
+
+  name: Repo et al., 2009
+  title: Large N2O emissions from cryoturbated peat soil in tundra
+  lead: In Nature Geoscience, 2009
+  article 'Repo_et_al_2009
+    insert Repo_et_al_2009_abstract
+
+  name: Chen et al., 2009
+  title: Accelerated Antarctic ice loss from satellite gravity measurements
+  lead: In Nature Geoscience, 2009
+  article 'Chen_et_al_2009
+    insert Chen_et_al_2009_abstract
+
+  name: Pritchard et al., 2010
+  title: Understanding ice-sheet mass balance: progress in satellite altimetry and gravimetry
+  lead: In Journal of Glaciology, 2010
+  article 'Pritchard_et_al_2010
+    insert Pritchard_et_al_2010_abstract
+
+  name: Motyka et al., 2011
+  title: Submarine melting of the 1985 Jakobshavn Isbrae floating tongue and the triggering of the current retreat
+  lead: In Journal of Geophysical Research-Earth Surface, 2011
+  article 'Motyka_et_al_2011
+    insert Motyka_et_al_2011_abstract
+
+  name: Joughin et al., 2010b
+  title: Greenland flow variability from ice-sheet-wide velocity mapping
+  lead: In Journal of Glaciology, 2010
+  article 'Joughin_et_al_2010b
+    insert Joughin_et_al_2010b_abstract
+
+  name: Shepherd et al., 2003
+  title: Larsen ice shelf has progressively thinned
+  lead: In Science, 2003
+  article 'Shepherd_et_al_2003
+    insert Shepherd_et_al_2003_abstract
+
+  name: Peltier, 2009
+  title: Closure of the budget of global sea level rise over the GRACE era: the importance and magnitudes of the required corrections for global glacial isostatic adjustment
+  lead: In Quaternary Science Reviews, 2009
+  article 'Peltier_2009
+    insert Peltier_2009_abstract
+
+  name: Cook and Vaughan, 2010
+  title: Overview of areal changes of the ice shelves on the Antarctic Peninsula over the past 50 years
+  lead: In Cryosphere, 2010
+  article 'Cook_and_Vaughan_2010
+    insert Cook_and_Vaughan_2010_abstract
+
+    

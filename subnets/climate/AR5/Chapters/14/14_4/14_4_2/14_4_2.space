@@ -1,0 +1,15 @@
+
+public: ar5-14.4.2
+name: Section 14.4.2
+title: 14.4.2 - El Niño Changes over Recent Decades and in the Future
+section 14_4_2
+
+  |The amplitude modulation of {Glossary.*El_Nin_o_Southern_Oscillation ENSO} at longer time scales has been observed in reconstructed instrumental records, in {Glossary.*Proxy proxy} records and is also simulated by coupled {Glossary.*General_Circulation_Model GCMs}. During the past century, an increasing {Glossary.*Trend trend} in ENSO amplitude was also observed, possibly caused by a warming climate although other reconstructions in this data-sparse {Topics.*Regional_Climate region} dispute this trend. Future changes in ENSO depend on competing changes in coupled ocean–atmospheric {Glossary.*Feedback feedback}, and on the dynamical regime a given model is in. There is high confidence, however, that ENSO will remain the dominant mode of natural {Topics.*Climate_Variability climate variability} in the 21st century.
+
+
+  
+
+  insert SectionDoc
+
+
+    

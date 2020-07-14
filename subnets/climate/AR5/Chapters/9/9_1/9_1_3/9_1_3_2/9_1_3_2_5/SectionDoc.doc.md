@@ -1,0 +1,6 @@
+index: hide
+public: ar5-
+name: Section 9.1.3.2.5
+title: 9.1.3.2.5 - Land use/land cover change
+
+The impacts of land use and land cover change on the environment and climate are explicitly included as part of the Representative Concentration Pathways ({Glossary.*Representative_Concentration_Pathways RCPs}; cf. Chapters {Chapters.1} and {Chapters.12}) used for climate {Topics.*Climate_Projections projections} to be assessed in later chapters ({cite.9.'Moss_et_al_2010}). Several important types of land use and land cover change include effects of agriculture and changing agricultural practices, including the potential for widespread introduction of biofuel crops; the management of forests for preservation, wood harvest and production of woody biofuel {Glossary.*Stock stock}; and the global trends toward greater urbanization. {Glossary.*Earth_System_Model ESMs} include increasingly detailed treatments of crops and their interaction with the landscape ({cite.9.'Arora_and_Boer_2010}; {cite.9.'Smith_et_al_2010a}, 2010b), {Glossary.*Forest forest} management ({cite.9.'Bellassen_et_al_2010}, 2011) and the interactions between urban areas and the surrounding climate systems ({cite.9.'Oleson_et_al_2008a}).

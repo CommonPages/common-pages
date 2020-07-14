@@ -1,0 +1,10 @@
+index: hide
+public: ar5-
+name: Section 4.4.4.1.2
+title: 4.4.4.1.2 - Ocean thermal forcing
+
+Since {cite.1.'IPCC_2007 AR4}, observational evidence has contributed to medium confidence that the interaction between ocean waters and the periphery of large ice sheets plays a major role in present {Glossary.*Ice_sheet ice sheet} changes ({cite.4.'Holland_et_al_2008}; {cite.4.'Pritchard_et_al_2012}). Ocean waters provide the heat that can drive high melt rates beneath ice shelves ({cite.4.'Jacobs_et_al_1992}; {cite.4.'Holland_and_Jenkins_1999}; {cite.4.'Rignot_and_Jacobs_2002}; {cite.4.'Pritchard_et_al_2012}) and at marine-terminating {Glossary.*Glacier glacier} fronts ({cite.4.'Holland_et_al_2008}; {cite.4.'Rignot_et_al_2010}; {cite.4.'Jacobs_et_al_2011}).
+
+Ocean circulation delivers warm waters to ice sheets. Variations in wind patterns associated with the {Glossary.*North_Atlantic_Oscillation North Atlantic Oscillation} ({cite.4.'Jacobs_et_al_1992}; {cite.4.'Hurrell_1995}), and tropical circulations influencing West Antarctica ({cite.4.'Ding_et_al_2011}; {cite.4.'Steig_et_al_2012}), are probable drivers of increasing melt at some ice-sheet margins. In some parts of Antarctica, changes in the {Glossary.*Southern_Annular_Mode Southern Annular Mode} ({cite.4.'Thompson_and_Wallace_2000}, see Glossary) may also be important. Observations have established that warm waters of subtropical origin are present within several fjords in Greenland ({cite.4.'Holland_et_al_2008}; {cite.4.'Myers_et_al_2009}; {cite.4.'Straneo_et_al_2010}; {cite.4.'Christoffersen_et_al_2011}; {cite.4.'Daniault_et_al_2011}).
+
+Satellite records and in situ observations indicate warming of the Southern Ocean (see {Chapters.3 Chapter 3}) since the 1950s ({cite.4.'Gille_2002}, 2008). This warming is confirmed by data from robotic ocean buoys (Argo floats) ({cite.4.'Boening_et_al_2008}) but the observational record remains short and, close to Antarctica, there are only limited observations from ships ({cite.4.'Jacobs_et_al_2011}), short-duration moorings and data from instrumented seals ({cite.4.'Charrassin_et_al_2008}; {cite.4.'Costa_et_al_2008}).

@@ -1,0 +1,33 @@
+
+public: ar5-6.3.2.6
+name: Section 6.3.2.6
+title: 6.3.2.6 - Land Carbon Dioxide Sink
+section 6_3_2_6
+
+  |The {Topics.*Climate_System atmosphere}-to-land flux of {Glossary.*Carbon_dioxide CO2} corresponds to a net {Glossary.*Sink sink} of CO2 by all terrestrial ecosystems for the 1980s, 1990s and 2000s. A synthesis of regional contributions estimated a 1.7 PgC yr–1 sink in the NH regions above 20°N. The interannual variability of the residual land sink accounts for most of the interannual variability of the atmospheric CO2 growth rate.
+
+
+  apply FullText
+
+  
+
+  include
+    - 6_3_2_6_1
+    - 6_3_2_6_2
+    - 6_3_2_6_3
+    - 6_3_2_6_4
+    - 6_3_2_6_5
+    - 6_3_2_6_6
+
+  name: Section 6.3.2.6 - Full Text
+  path FullText
+    name: Global residual land sink and atmosphere-to-land carbon dioxide flux
+    step
+      include
+        - Chapters.6.6_3.6_3_2.6_3_2_6.6_3_2_6_1.SectionDoc
+        - Chapters.6.6_3.6_3_2.6_3_2_6.6_3_2_6_2.SectionDoc
+        - Chapters.6.6_3.6_3_2.6_3_2_6.6_3_2_6_3.SectionDoc
+        - Chapters.6.6_3.6_3_2.6_3_2_6.6_3_2_6_4.SectionDoc
+        - Chapters.6.6_3.6_3_2.6_3_2_6.6_3_2_6_5.SectionDoc
+        - Chapters.6.6_3.6_3_2.6_3_2_6.6_3_2_6_6.SectionDoc
+    

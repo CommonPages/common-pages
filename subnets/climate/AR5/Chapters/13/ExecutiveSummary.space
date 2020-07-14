@@ -1,0 +1,153 @@
+
+
+name: Chapter 13 - Conclusions
+lead: Formal conclusions presented in Chapter 13.
+conclusions ExecutiveSummary
+
+  insert text
+    | This chapter considers changes in global mean {Topics.*Sea_Level sea level}, regional sea level, sea level extremes, and waves. Confidence in {Topics.*Climate_Projections projections} of global {Glossary.*Mean_sea_level mean sea level} rise has increased since the Fourth Assessment Report ({cite.1.'IPCC_2007 AR4}) because of the improved physical understanding of the components of sea level, the improved agreement of process-based models with observations, and the inclusion of ice-sheet dynamical changes.
+
+  name: Past Sea Level Change
+
+  insert
+    - C1
+    - C2
+
+  name: Understanding of Sea Level Change
+
+  insert
+    - C3
+    - C4
+    - C5
+
+  name: The Earth’s Energy Budget
+
+  insert
+    - C6
+
+  name: Global Mean Sea Level Rise Projections
+
+  insert
+    - C7
+    - C8
+    - C9
+    - C10
+
+  name: Regional Sea Level Change Projections
+
+  insert
+    - C11
+
+  name: Projections of 21st Century Sea Level Extremes and Surface Waves
+
+  insert
+    - C12
+    - C13
+
+
+  index: hide
+  let C1
+    |<strong>Paleo {Topics.*Sea_Level sea level} records from warm periods during the last 3 million years indicate that global {Glossary.*Mean_sea_level mean sea level} has exceeded 5 m above present (very high confidence)1 when global mean temperature was up to 2°C warmer than pre-industrial (medium confidence).
+    |</strong> There is very high confidence that maximum global mean sea level during the last interglacial period (~129 to 116 ka) was, for several thousand years, at least 5 m higher than present and high confidence that it did not exceed 10 m above present, implying substantial contributions from the Greenland and Antarctic ice sheets. This change in sea level occurred in the context of different orbital {Topics.*Radiative_Forcing forcing} and with high latitude {Topics.*Surface_Temperature surface temperature}, averaged over several thousand years, at least 2°C warmer than present (high confidence)
+    |
+    |See: <em>Sections {Chapters.5.5_3.5_3_4 5.3.4} {Chapters.5.5_6.5_6_1 5.6.1}, {Chapters.5.5_6.5_6_2 5.6.2}, {Chapters.13.13_2.13_2_1 13.2.1}
+    |</em>
+
+  index: hide
+  let C2
+    |<strong>{Glossary.*Proxy Proxy} and instrumental {Topics.*Sea_Level sea level} data indicate a transition in the late 19th century to the early 20th century from relatively low mean rates of rise over the previous two millennia to higher rates of rise (high confidence). It is likely2 that the rate of global {Glossary.*Mean_sea_level mean sea level} rise has continued to increase since the early 20th century, with estimates that range from 0.000 [–0.002 to 0.002] mm yr–2 to 0.013 [0.007 to 0.019] mm yr–2.
+    |</strong> It is very likely that the global mean rate was 1.7 [1.5 to 1.9] mm yr–1 between 1901 and 2010 for a total sea level rise of 0.19 [0.17 to 0.21] m. Between 1993 and 2010, the rate was very likely higher at 3.2 [2.8 to 3.6] mm yr–1; similarly high rates likely occurred between 1920 and 1950.
+    |
+    |See: <em>Sections {Chapters.3.3_7.3_7_2 3.7.2} {Chapters.3.3_7.3_7_4 3.7.4}, {Chapters.5.5_6.5_6_3 5.6.3}, {Chapters.13.13_2.13_2_1 13.2.1}, {Chapters.13.13_2.13_2_2 13.2.2}, {'Figure_13_3 Figure 13.3}
+    |</em>
+
+  index: hide
+  let C3
+    |<strong>Ocean {Glossary.*Thermal_expansion thermal expansion} and {Glossary.*Glacier glacier} melting have been the dominant contributors to 20th century global mean {Topics.*Sea_Level sea level} rise.
+    |</strong> Observations since 1971 indicate that thermal expansion and glaciers (excluding Antarctic glaciers peripheral to the {Glossary.*Ice_sheet ice sheet}) explain 75% of the observed rise (high confidence). The contribution of the Greenland and Antarctic ice sheets has increased since the early 1990s, partly from increased outflow induced by warming of the immediately adjacent ocean. Natural and human-induced {Glossary.*Land_water_storage land water storage} changes have made only a small contribution; the rate of groundwater depletion has increased and now exceeds the rate of {Glossary.*Reservoir reservoir} impoundment. Since 1993, when observations of all sea level components are available, the sum of contributions equals the observed global {Glossary.*Mean_sea_level mean sea level} rise within {Topics.*Uncertainty uncertainties} (high confidence).
+    |
+    |See: <em>{Chapters.3 Chapter 3}, 4, {Chapters.13.13_3.13_3_6 Section 13.3.6}, {'Figure_13_4 Figure 13.4}, {'Table_13_1 Table 13.1}
+    |</em>
+
+  index: hide
+  let C4
+    |<strong>There is high confidence in {Topics.*Climate_Projections projections} of {Glossary.*Thermal_expansion thermal expansion} and Greenland surface mass balance, and medium confidence in projections of {Glossary.*Glacier glacier} mass loss and Antarctic surface mass balance.
+    |</strong> There has been substantial progress in ice-sheet modelling, particularly for Greenland. Process-based model calculations of contributions to past {Topics.*Sea_Level sea level change} from ocean thermal expansion, glacier mass loss and Greenland ice-sheet surface mass balance are consistent with available observational estimates of these contributions over recent decades. Ice-sheet flowline modelling is able to reproduce the observed acceleration of the main outlet glaciers in the Greenland {Glossary.*Ice_sheet ice sheet}, thus allowing estimates of the 21st century dynamical response (medium confidence). Significant challenges remain in the process-based projections of the dynamical response of marine-terminating glaciers and marine-based sectors of the Antarctic ice sheet. Alternative means of {Glossary.*Projection projection} of the Antarctic ice-sheet contribution (extrapolation within a statistical framework and informed judgement) provide medium confidence in a likely range. There is currently low confidence in projecting the onset of large-scale {Glossary.*Grounding_line grounding line} instability in the marine-based sectors of the Antarctic ice sheet.
+    |
+    |See: <em>{Chapters.13.13_3.13_3_1 Section 13.3.1} to 13.3.3, 13.4.3, 13.4.4
+    |</em>
+
+  index: hide
+  let C5
+    |<strong>The sum of {Glossary.*Thermal_expansion thermal expansion} simulated by Coupled {Topics.*Model_Intercomparison Model Intercomparison} Project phase 5 (CMIP5) {Topics.*Climate_System Atmosphere}–Ocean General Circulation Models ({Glossary.*Atmosphere_Ocean_General_Circulation_Model AOGCMs}), {Glossary.*Glacier glacier} mass loss computed by global glacier models using CMIP5 climate change simulations, and estimates of {Glossary.*Land_water_storage land water storage} explain 65% of the observed global mean {Topics.*Sea_Level sea level} rise for 1901–1990 and 90% for 1971–2010 and 1993–2010 (high confidence).
+    |</strong> When observed climate parameters are used, the glacier models indicate a larger Greenland peripheral glacier contribution in the first half of the 20th century such that the sum of thermal expansion, glacier mass loss and changes in land water storage and a small ongoing Antarctic ice-sheet contribution are within 20% of the observations throughout the 20th century. Model-based estimates of ocean thermal expansion and glacier contributions indicate that the greater rate of global {Glossary.*Mean_sea_level mean sea level} rise since 1993 is a response to {Topics.*Radiative_Forcing radiative forcing} (RF, both {Glossary.*Anthropogenic anthropogenic} and natural) and increased loss of ice-sheet mass and not part of a natural oscillation (medium confidence).
+    |
+    |See: <em>{Chapters.13.13_3.13_3_6 Section 13.3.6}, {'Figure_13_4 Figures 13.4}, 13.7, {'Table_13_1 Table 13.1}
+    |</em>
+
+  index: hide
+  let C6
+    |<strong>Independent estimates of effective {Topics.*Radiative_Forcing RF} of the climate system, the observed heat storage, and surface warming combine to give an {Topics.*Radiation_Budgets energy budget} for the Earth that is closed within {Topics.*Uncertainty uncertainties} (high confidence), and is consistent with the likely range of {Glossary.*Climate_sensitivity climate sensitivity}.
+    |</strong> The largest increase in the storage of heat in the climate system over recent decades has been in the oceans; this is a powerful observation for the {Glossary.*Detection_and_Attribution detection} and {Topics.*Attribution_of_Change attribution} of climate change.
+    |
+    |See: <em>{Box_3_1 Boxes 3.1}, 13.1
+    |</em>
+
+  index: hide
+  let C7
+    |<strong>It is very likely that the rate of global mean {Topics.*Sea_Level sea level} rise during the 21st century will exceed the rate observed during 1971– 2010 for all Representative Concentration Pathway (RCP) {Topics.*Scenarios scenarios} due to increases in ocean warming and loss of mass from glaciers and ice sheets. Projections of sea level rise are larger than in the {cite.1.'IPCC_2007 AR4}, primarily because of improved modeling of land-ice contributions. For the period 2081–2100, compared to 1986–2005, global {Glossary.*Mean_sea_level mean sea level} rise is likely (medium confidence) to be in the 5 to 95% range of {Topics.*Climate_Projections projections} from processbased models, which give 0.26 to 0.55 m for {Glossary.*RCP2_6 RCP2.6}, 0.32 to 0.63 m for RCP4.5, 0.33 to 0.63 m for RCP6.0, and 0.45 to 0.82 m for {Glossary.*RCP8_5 RCP8.5}. For RCP8.5, the rise by 2100 is 0.52 to 0.98 m with a rate during 2081–2100 of 8 to 16 mm yr–1.
+    |</strong> We have considered the evidence for higher projections and have concluded that there is currently insufficient evidence to evaluate the probability of specific levels above the assessed likely range. Based on current understanding, only the collapse of marine-based sectors of the Antarctic {Glossary.*Ice_sheet ice sheet}, if initiated, could cause global mean sea level to rise substantially above the likely range during the 21st century. This potential additional contribution cannot be precisely quantified but there is medium confidence that it would not exceed several tenths of a meter of sea level rise during the 21st century.
+    |
+    |See: <em>{Chapters.13.13_5.13_5_1 Section 13.5.1}, {'Table_13_5 Table 13.5}, {'Figure_13_10 Figures 13.10}, 13.11
+    |</em>
+
+  index: hide
+  let C8
+    |<strong>Some semi-empirical models project a range that overlaps the process-based likely range while others project a median and 95th percentile that are about twice as large as the processbased models. In nearly every case, the semi-empirical model 95th percentile is higher than the process-based likely range.
+    |</strong> Despite the successful calibration and evaluation of semi-empirical models against the observed 20th century {Topics.*Sea_Level sea level} record, there is no consensus in the scientific community about their reliability, and consequently low confidence in {Topics.*Climate_Projections projections} based on them.
+    |
+    |See: <em>Sections {Chapters.13.13_5.13_5_2 13.5.2} {Chapters.13.13_5.13_5_3 13.5.3}, {'Figure_13_12 Figure 13.12}
+    |</em>
+
+  index: hide
+  let C9
+    |<strong>It is virtually certain that global mean {Topics.*Sea_Level sea level} rise will continue beyond 2100, with sea level rise due to {Glossary.*Thermal_expansion thermal expansion} to continue for many centuries. The amount of longer term sea level rise depends on future {Topics.*Emissions emissions}.
+    |</strong> The few available process-based models that go beyond 2100 indicate global {Glossary.*Mean_sea_level mean sea level} rise above the pre-industrial level to be less than 1 m by 2300 for {Glossary.*Greenhouse_gas greenhouse gas} concentrations that peak and decline and remain below 500 ppm {Glossary.*Carbon_dioxide CO2}-eq, as in scenario {Glossary.*RCP2_6 RCP2.6}. For a {Topics.*Radiative_Forcing radiative forcing} that corresponds to above 700 ppm CO2-eq but below 1500 ppm, as in the scenario {Glossary.*RCP8_5 RCP8.5}, the projected rise is 1 m to more than 3 m (medium confidence). This assessment is based on medium confidence in the modelled contribution from thermal expansion and low confidence in the modelled contribution from ice sheets. The amount of ocean thermal expansion increases with global warming (0.2 to 0.6 m °C–1) but the rate of the {Glossary.*Glacier glacier} contribution decreases over time as their volume (currently 0.41 m {Glossary.*Sea_level_equivalent sea level equivalent}) decreases. Sea level rise of several meters could result from long-term mass loss by ice sheets (consistent with paleo data observations of higher sea levels during periods of warmer temperatures), but there is low confidence in these {Topics.*Climate_Projections projections}. Sea level rise of 1 to 3 m per degree of warming is projected if the warming is sustained for several millennia (low confidence).
+    |
+    |See: <em>{Chapters.13.13_5.13_5_4 Section 13.5.4}, Figures 13.4.3, 13.4.4
+    |</em>
+
+  index: hide
+  let C10
+    |<strong>The available evidence indicates that sustained global warming greater than a certain threshold above pre-industrial would lead to the near-complete loss of the Greenland {Glossary.*Ice_sheet ice sheet} over a millennium or more, causing a global mean {Topics.*Sea_Level sea level} rise of about 7 m.
+    |</strong> Studies with fixed ice-sheet topography indicate the threshold is greater than 2°C but less than 4°C (medium confidence) of global mean {Topics.*Surface_Temperature surface temperature} rise with respect to pre-industrial. The one study with a dynamical ice sheet suggests the threshold is greater than about 1°C (low confidence) global mean warming with respect to pre-industrial. We are unable to quantify a likely range. Whether or not a decrease in the Greenland ice sheet mass loss is irreversible depends on the duration and degree of exceedance of the threshold. Abrupt and irreversible ice loss from a potential instability of marine-based sectors of the Antarctic ice sheet in response to climate {Topics.*Radiative_Forcing forcing} is possible, but current evidence and understanding is insufficient to make a quantitative assessment.
+    |
+    |See: <em>Sections {Chapters.5.5_8 5.8} {Chapters.13.13_3 13.3}, {Chapters.13.13_4 13.4}
+    |</em>
+
+  index: hide
+  let C11
+    |<strong>It is very likely that in the 21st century and beyond, {Topics.*Sea_Level sea level change} will have a strong regional pattern, with some places experiencing significant deviations of local and regional {Glossary.*Sea_level_change sea level change} from the global mean change.
+    |</strong> Over decadal periods, the rates of regional sea level change as a result of {Topics.*Climate_Variability climate variability} can differ from the global average rate by more than 100% of the global average rate. By the end of the 21st century, it is very likely that over about 95% of the world ocean, regional sea level rise will be positive, and most regions that will experience a sea level fall are located near current and former glaciers and ice sheets. About 70% of the global coastlines are {Topics.*Climate_Projections projected} to experience a relative sea level change within 20% of the global {Glossary.*Mean_sea_level mean sea level} change.
+    |
+    |See: <em>{Chapters.13.13_6.13_6_5 Section 13.6.5}, {'Figure_13_18 Figures 13.18} to 13.22
+    |</em>
+
+  index: hide
+  let C12
+    |<strong>It is very likely that there will be a significant increase in the occurrence of future {Topics.*Sea_Level sea level} extremes in some regions by 2100, with a likely increase in the early 21st century.
+    |</strong> This increase will primarily be the result of an increase in {Glossary.*Mean_sea_level mean sea level} (high confidence), with the frequency of a particular sea level extreme increasing by an order of magnitude or more in some regions by the end of the 21st century. There is low confidence in {Topics.*Regional_Climate region}-specific {Topics.*Climate_Projections projections} of storminess and associated storm surges.
+    |
+    |See: <em>{Chapters.13.13_7.13_7_2 Section 13.7.2}, {'Figure_13_25 Figure 13.25}
+    |</em>
+
+  index: hide
+  let C13
+    |<strong>It is likely (medium confidence) that annual mean significant wave heights will increase in the Southern Ocean as a result of enhanced wind speeds.
+    |</strong> Southern Ocean generated swells are likely to affect heights, periods, and directions of waves in adjacent basins. It is very likely that wave heights and the duration of the wave season will increase in the Arctic Ocean as a result of reduced sea-ice extent. In general, there is low confidence in {Topics.*Regional_Climate region}-specific {Topics.*Climate_Projections projections} due to the low confidence in tropical and extratropical storm projections, and to the challenge of {Glossary.*Downscaling downscaling} future wind fields from coarse-{Glossary.*Resolution resolution} {Topics.*Climate_Modelling climate models}.
+    |
+    |See: <em>{Chapters.13.13_7.13_7_3 Section 13.7.3}; {'Figure_13_26 Figure 13.26}
+    |</em>
+
+
+    

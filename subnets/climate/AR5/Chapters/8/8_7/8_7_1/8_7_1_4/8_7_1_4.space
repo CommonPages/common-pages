@@ -1,0 +1,15 @@
+
+public: ar5-8.7.1.4
+name: Section 8.7.1.4
+title: 8.7.1.4 - Uncertainties and Limitations related to Global Warming Potential and Global Temperature change Potential
+section 8_7_1_4
+
+  |The uncertainty in the numerator of {Glossary.*Global_Warming_Potential GWP}; that is, the AGWPi is determined by {Topics.*Uncertainty uncertainties} in lifetimes and radiative efficiency. Inclusion of indirect effects increases uncertainties. For the reference gas {Glossary.*Carbon_dioxide CO2}, the uncertainty is dominated by uncertainties in the impulse response function (IRF) that describes the development in atmospheric concentration that follows from an {Topics.*Emissions emission} pulse. The same factors contribute to uncertainties in the GTP, with an additional contribution from the parameters describing the ocean heat {Glossary.*Uptake uptake} and {Glossary.*Climate_sensitivity climate sensitivity}.
+
+
+  
+
+  insert SectionDoc
+
+
+    

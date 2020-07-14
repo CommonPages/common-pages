@@ -1,0 +1,15 @@
+
+public: ar5-9.1.3.2.1
+name: Section 9.1.3.2.1
+title: 9.1.3.2.1 - Carbon cycle
+section 9_1_3_2_1
+
+  |The omission of internally consistent feedbacks among the physical, chemical and biogeochemical processes in the Earth’s climate system is a limitation of {Glossary.*Atmosphere_Ocean_General_Circulation_Model AOGCMs}. {Glossary.*Earth_System_Model ESMs} incorporate many of the important biogeochemical processes. Some of the most important enhancements are the addition of terrestrial and oceanic carbon cycles. Several ESMs now include coupled carbon and nitrogen cycles.
+
+
+  
+
+  insert SectionDoc
+
+
+    

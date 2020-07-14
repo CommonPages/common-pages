@@ -1,0 +1,25 @@
+
+public: ar5-13.3.3
+name: Section 13.3.3
+title: 13.3.3 - Greenland and Antarctic Ice Sheets
+section 13_3_3
+
+  |Observations indicate that the Greenland and Antarctic contributions to {Topics.*Sea_Level GMSL} has very likely increased for the budget period 1993–2010. {Glossary.*Regional_Climate_Model RCMs} indicate that Greenland {Glossary.*Ice_sheet ice sheet} SMB showed no significant {Glossary.*Trend trend} from the 1960s to the 1980s, then started becoming less positive (becoming less negative expressed as {Glossary.*Sea_level_equivalent SLE}) in the early 1990s, on average by 3% yr–1. We have medium confidence in model {Topics.*Climate_Projections projections} of a future Antarctic SMB increase, implying a negative contribution to GMSL rise.
+
+
+  apply FullText
+
+  
+
+  include
+    - 13_3_3_1
+    - 13_3_3_2
+
+  name: Section 13.3.3 - Full Text
+  path FullText
+    name: Observed Mass Balance
+    step
+      include
+        - Chapters.13.13_3.13_3_3.13_3_3_1.SectionDoc
+        - Chapters.13.13_3.13_3_3.13_3_3_2.SectionDoc
+    

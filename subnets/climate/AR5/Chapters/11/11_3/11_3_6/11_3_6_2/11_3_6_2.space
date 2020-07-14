@@ -1,0 +1,25 @@
+
+public: ar5-11.3.6.2
+name: Section 11.3.6.2
+title: 11.3.6.2 - Uncertainties in Future Natural Radiative Forcing and the Consequences for Near-term Climate
+section 11_3_6_2
+
+  |Explosive volcanic eruptions are the major cause of natural variations in {Topics.*Radiative_Forcing RF} on interannual to decadal time scales. The surface {Glossary.*Climate_response climate response} typically persists for a few years, but the subsurface ocean response can persist for decades or centuries, with consequences for {Topics.*Sea_Level sea level} rise. Possible future changes in solar irradiance could influence the rate at which global mean surface air temperature increases, but there is high confidence that this influence will be small in comparison to the influence of increasing concentrations of {Glossary.*Greenhouse_gas GHGs} in the {Topics.*Climate_System atmosphere}.
+
+
+  apply FullText
+
+  
+
+  include
+    - 11_3_6_2_1
+    - 11_3_6_2_2
+
+  name: Section 11.3.6.2 - Full Text
+  path FullText
+    name: The effects of future volcanic eruptions
+    step
+      include
+        - Chapters.11.11_3.11_3_6.11_3_6_2.11_3_6_2_1.SectionDoc
+        - Chapters.11.11_3.11_3_6.11_3_6_2.11_3_6_2_2.SectionDoc
+    

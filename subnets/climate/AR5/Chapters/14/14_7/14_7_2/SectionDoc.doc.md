@@ -1,0 +1,8 @@
+index: hide
+public: ar5-
+name: Section 14.7.2
+title: 14.7.2 - Pacific–North American Pattern
+
+The {Glossary.*Pacific_North_American_pattern PNA} pattern, as defined in {Box_2_5 Box 2.5}, {'Box_2_5_Table_1 Table 1} and portrayed in {Box_2_5 Box 2.5}, {'Box_2_5_Figure_2 Figure 2} is a prominent mode of atmospheric variability over the North Pacific and the North American land mass. This phenomenon exerts notable influences on the temperature and precipitation variability in these regions (e.g., {cite.14.'Nigam_2003}). The PNA pattern is related to {Glossary.*El_Nin_o_Southern_Oscillation ENSO} events in the tropical Pacific (see {Chapters.14.14_4 Section 14.4}), and also serves as a bridge linking ENSO and {Glossary.*North_Atlantic_Oscillation NAO} variability (see {cite.14.'Li_and_Lau_2012}). The data records indicate a significant positive {Glossary.*Trend trend} in the wintertime PNA index over the past 60 years (see {'Table_2_14 Table 2.14} and {Box_2_5 Box 2.5}, {'Box_2_5_Figure_1 Figure 1}).
+
+{cite.14.'Stoner_et_al_2009 Stoner et al. (2009)} have assessed the capability of 22 CMIP3 {Glossary.*General_Circulation_Model GCMs} in replicating the essential aspects of the observed PNA pattern. Their results indicate that a majority of the models overestimate the fraction of variance explained by the PNA pattern, and that the spatial characteristics of PNA patterns simulated in 14 of the 22 models are in good agreement with the observations. The model-{Topics.*Climate_Projections projected} future evolution of the PNA pattern has not yet been fully assessed and therefore confidence in its future development is low.

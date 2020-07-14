@@ -1,0 +1,27 @@
+
+public: ar5-2.4.1
+name: Section 2.4.1
+title: 2.4.1 - Land Surface Air Temperature
+section 2_4_1
+
+  |It is certain that globally averaged Land Surface Air Temperature ({Glossary.*Land_surface_air_temperature LSAT}) has risen. Several independently analyzed global and regional LSAT data products support this conclusion. It is virtually certain that maximum and minimum temperatures have increased.
+
+
+  apply FullText
+
+  
+
+  include
+    - 2_4_1_1
+    - 2_4_1_2
+    - 2_4_1_3
+
+  name: Section 2.4.1 - Full Text
+  path FullText
+    name: Large-Scale Records and Their Uncertainties
+    step
+      include
+        - Chapters.2.2_4.2_4_1.2_4_1_1.SectionDoc
+        - Chapters.2.2_4.2_4_1.2_4_1_2.SectionDoc
+        - Chapters.2.2_4.2_4_1.2_4_1_3.SectionDoc
+    

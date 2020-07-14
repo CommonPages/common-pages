@@ -1,0 +1,30 @@
+
+public: ar5-13.1
+name: Section 13.1
+title: 13.1 - Components and Models of Sea Level Change
+section 13_1
+
+  |The height of the ocean surface at any given location, or sea level, is measured either with respect to the surface of the solid Earth (relative sea level (RSL)) or a geocentric reference such as the reference ellipsoid (geocentric sea level). A temporal average for a given location, known as Mean Sea Level (MSL), is applied to remove shorter period variability. It is common to average MSL spatially to define global {Glossary.*Mean_sea_level mean sea level} (GMSL). The primary contributors to contemporary {Topics.*Sea_Level sea level change} are the expansion of the ocean as it warms and the transfer of water currently stored on land to the ocean, particularly from land ice. Results since the {cite.1.'IPCC_2007 AR4} show that for recent decades, sea level has continued to rise. This chapter provides a synthesis of past and contemporary {Glossary.*Sea_level_change sea level change} at global and regional scales.
+
+
+  apply FullText
+
+  
+
+  include
+    - 13_1_1
+    - 13_1_2
+    - 13_1_3
+    - 13_1_4
+
+  name: Section 13.1 - Full Text
+  path FullText
+    name: Introduction and Chapter Overview
+    step
+      include
+        - Chapters.13.13_1.13_1_1.SectionDoc
+        - Chapters.13.13_1.13_1_2.SectionDoc
+        - Chapters.13.13_1.13_1_3.SectionDoc
+        - Chapters.13.13_1.13_1_4.SectionDoc
+        - Chapters.13.13_1.13_1_4.13_1_4_1.SectionDoc
+    

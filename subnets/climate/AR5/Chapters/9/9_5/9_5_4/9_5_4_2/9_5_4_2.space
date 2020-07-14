@@ -1,0 +1,15 @@
+
+public: ar5-9.5.4.2
+name: Section 9.5.4.2
+title: 9.5.4.2 - Extreme Precipitation
+section 9_5_4_2
+
+  |For extreme precipitation, observational {Topics.*Uncertainty uncertainty} is much larger than for temperature, making model evaluation more challenging. In the extratropics, precipitation extremes in terms of 20-year return values simulated by CMIP3 and CMIP5 models compared relatively well with the observational data sets, with typical discrepancies in the 20% range. The CMIP5 models tend to simulate more intense precipitation and fewer consecutive wet days than the CMIP3, and thus are closer to the observationally based indices.
+
+
+  
+
+  insert SectionDoc
+
+
+    

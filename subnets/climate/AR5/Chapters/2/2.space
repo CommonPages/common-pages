@@ -1,0 +1,140 @@
+
+public: ar5-2
+name: Chapter 2
+title: Chapter 2 - Observations: Atmosphere and Surface
+lead: This chapter assesses the scientific literature on atmospheric and surface observations.
+chapterspace 2
+
+
+  import Figures._
+  import cite.2._
+
+  index: hide
+  title: Chapter 2 - Observations: Atmosphere and Surface
+  lead: This chapter assesses the scientific literature on atmospheric and surface observations.
+  chapterstory ChapterStory
+    |Global trends in {Glossary.*Greenhouse_gas GHGs} are indicative of the imbalance between sources and sinks in GHG budgets, and play an important role in {Topics.*Emissions emissions} verification on a global scale. {cite.1.'IPCC_2007 AR4} concluded that increasing {Glossary.*Burden atmospheric burdens} of {Topics.*The_Greenhouse_Effect well-mixed GHGs} resulted in a 9% increase in their {Topics.*Radiative_Forcing radiative forcing} from 1998 to 2005. Since 2005, the atmospheric abundances of many well-mixed GHGs increased further. It is certain that globally averaged near {Topics.*Surface_Temperature surface temperatures} have increased since the late 19th century. Each of the past three decades has been warmer than all the previous decades in the instrumental record, and the decade of the 2000s has been the warmest. New analyses continue to support the AR4 and SREX conclusions that since about 1950 it is very likely that the numbers of {Topics.*Extreme_Events cold days and nights} have decreased and the numbers of warm days and nights have increased overall on the global scale.
+    apply FullText
+
+    embed
+      - FAQ_2_1
+      - FAQ_2_2
+      - Box_2_1
+      - Box_2_2
+      - Box_2_3
+      - Box_2_4
+      - Box_2_5
+
+    include
+      - 2_1
+      - 2_2
+      - 2_3
+      - 2_4
+      - 2_5
+      - 2_6
+      - 2_7
+
+  apply FullText
+
+  
+
+  include
+    - 2_1
+    - 2_2
+    - 2_3
+    - 2_4
+    - 2_5
+    - 2_6
+    - 2_7
+
+  name: Chapter 2 - Full Text
+  path FullText
+    name: Introduction
+    step
+      include
+        - Chapters.2.2_1.SectionDoc
+    name: Well-Mixed Greenhouse Gases
+    step
+      include
+        - Chapters.2.2_2.2_2_1.SectionDoc
+        - Chapters.2.2_2.2_2_1.2_2_1_1.2_2_1_1_1.SectionDoc
+        - Chapters.2.2_2.2_2_1.2_2_1_1.2_2_1_1_2.SectionDoc
+        - Chapters.2.2_2.2_2_1.2_2_1_1.2_2_1_1_3.SectionDoc
+        - Chapters.2.2_2.2_2_1.2_2_1_1.2_2_1_1_4.SectionDoc
+        - Chapters.2.2_2.2_2_1.2_2_1_2.SectionDoc
+        - Chapters.2.2_2.2_2_2.SectionDoc
+        - Chapters.2.2_2.2_2_2.2_2_2_1.SectionDoc
+        - Chapters.2.2_2.2_2_2.2_2_2_2.SectionDoc
+        - Chapters.2.2_2.2_2_2.2_2_2_3.SectionDoc
+        - Chapters.2.2_2.2_2_2.2_2_2_4.SectionDoc
+        - Chapters.2.2_2.2_2_3.SectionDoc
+        - Chapters.2.2_2.2_2_3.2_2_3_1.SectionDoc
+        - Chapters.2.2_2.2_2_3.2_2_3_2.SectionDoc
+    name: Changes in Radiation Budgets
+    step
+      include
+        - Chapters.2.2_3.SectionDoc
+        - Chapters.2.2_3.2_3_1.SectionDoc
+        - Chapters.2.2_3.2_3_2.SectionDoc
+        - Chapters.2.2_3.2_3_3.2_3_3_1.SectionDoc
+        - Chapters.2.2_3.2_3_3.2_3_3_2.SectionDoc
+        - Chapters.2.2_3.2_3_3.2_3_3_3.SectionDoc
+    name: Large-Scale Records and Their Uncertainties
+    step
+      include
+        - Chapters.2.2_4.2_4_1.2_4_1_1.SectionDoc
+        - Chapters.2.2_4.2_4_1.2_4_1_2.SectionDoc
+        - Chapters.2.2_4.2_4_1.2_4_1_3.SectionDoc
+        - Chapters.2.2_4.2_4_2.SectionDoc
+        - Chapters.2.2_4.2_4_2.2_4_2_1.2_4_2_1_1.SectionDoc
+        - Chapters.2.2_4.2_4_2.2_4_2_1.2_4_2_1_2.SectionDoc
+        - Chapters.2.2_4.2_4_2.2_4_2_2.SectionDoc
+        - Chapters.2.2_4.2_4_3.SectionDoc
+        - Chapters.2.2_4.2_4_4.SectionDoc
+        - Chapters.2.2_4.2_4_4.2_4_4_1.SectionDoc
+        - Chapters.2.2_4.2_4_4.2_4_4_2.SectionDoc
+        - Chapters.2.2_4.2_4_4.2_4_4_3.SectionDoc
+        - Chapters.2.2_4.2_4_4.2_4_4_4.SectionDoc
+    name: Changes in Hydrological Cycle
+    step
+      include
+        - Chapters.2.2_5.SectionDoc
+        - Chapters.2.2_5.2_5_1.2_5_1_1.SectionDoc
+        - Chapters.2.2_5.2_5_1.2_5_1_2.SectionDoc
+        - Chapters.2.2_5.2_5_1.2_5_1_3.SectionDoc
+        - Chapters.2.2_5.2_5_2.SectionDoc
+        - Chapters.2.2_5.2_5_3.SectionDoc
+        - Chapters.2.2_5.2_5_4.SectionDoc
+        - Chapters.2.2_5.2_5_5.SectionDoc
+        - Chapters.2.2_5.2_5_5.2_5_5_1.SectionDoc
+        - Chapters.2.2_5.2_5_5.2_5_5_2.SectionDoc
+        - Chapters.2.2_5.2_5_5.2_5_5_3.SectionDoc
+        - Chapters.2.2_5.2_5_5.2_5_5_4.SectionDoc
+        - Chapters.2.2_5.2_5_6.2_5_6_1.SectionDoc
+        - Chapters.2.2_5.2_5_6.2_5_6_2.SectionDoc
+    name: Changes in Extreme Events
+    step
+      include
+        - Chapters.2.2_6.SectionDoc
+        - Chapters.2.2_6.2_6_1.SectionDoc
+        - Chapters.2.2_6.2_6_2.SectionDoc
+        - Chapters.2.2_6.2_6_2.2_6_2_1.SectionDoc
+        - Chapters.2.2_6.2_6_2.2_6_2_2.SectionDoc
+        - Chapters.2.2_6.2_6_2.2_6_2_3.SectionDoc
+        - Chapters.2.2_6.2_6_2.2_6_2_4.SectionDoc
+        - Chapters.2.2_6.2_6_3.SectionDoc
+        - Chapters.2.2_6.2_6_4.SectionDoc
+    name: Changes in Atmospheric Circulation and Patterns of Variability
+    step
+      include
+        - Chapters.2.2_7.SectionDoc
+        - Chapters.2.2_7.2_7_1.SectionDoc
+        - Chapters.2.2_7.2_7_2.SectionDoc
+        - Chapters.2.2_7.2_7_3.SectionDoc
+        - Chapters.2.2_7.2_7_4.SectionDoc
+        - Chapters.2.2_7.2_7_5.SectionDoc
+        - Chapters.2.2_7.2_7_6.2_7_6_1.SectionDoc
+        - Chapters.2.2_7.2_7_6.2_7_6_2.SectionDoc
+        - Chapters.2.2_7.2_7_7.SectionDoc
+        - Chapters.2.2_7.2_7_8.SectionDoc
+    

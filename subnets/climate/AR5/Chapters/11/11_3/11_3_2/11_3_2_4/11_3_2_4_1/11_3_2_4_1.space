@@ -1,0 +1,15 @@
+
+public: ar5-11.3.2.4.1
+name: Section 11.3.2.4.1
+title: 11.3.2.4.1 - Northern Hemisphere extratropical circulation
+section 11_3_2_4_1
+
+  |In the NH extratropics, some {Topics.*Climate_System Atmosphere}–Ocean General Circulation Models ({Glossary.*Atmosphere_Ocean_General_Circulation_Model AOGCMs}) indicate changes to atmospheric circulation from {Topics.*Radiative_Forcing anthropogenic forcing} by the mid-21st century, including a poleward shift of the jet streams and associated zonal mean {Glossary.*Storm_tracks storm tracks} and a strengthening of the Atlantic storm track. Consistent with this, the CMIP5 AOGCMs exhibit an {Glossary.*Ensemble ensemble} mean increase in the North Atlantic Oscillation ({Glossary.*North_Atlantic_Oscillation NAO}) and Northern Annular Model ({Glossary.*Northern_Annular_Mode NAM}) indices by 2050, especially in autumn and winter. However, there are reasons to be cautious over these near-term {Topics.*Climate_Projections projections}.
+
+
+  
+
+  insert SectionDoc
+
+
+    

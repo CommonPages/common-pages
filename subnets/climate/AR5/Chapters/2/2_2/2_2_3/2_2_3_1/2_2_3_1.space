@@ -1,0 +1,15 @@
+
+public: ar5-2.2.3.1
+name: Section 2.2.3.1
+title: 2.2.3.1 - Aerosol Optical Depth from Remote Sensing
+section 2_2_3_1
+
+  |{Glossary.*Aerosol Aerosol} Optical Depth (AOD) is an important parameter for evaluating aerosol–radiation interactions. Based on satellite and surface-based remote sensing it is very likely that AOD has decreased over Europe and the eastern USA since the mid 1990s and increased over eastern and southern Asia since 2000. AOD has been increasing over the Arabian Peninsula and decreasing over the North Atlantic Ocean.
+
+
+  
+
+  insert SectionDoc
+
+
+    

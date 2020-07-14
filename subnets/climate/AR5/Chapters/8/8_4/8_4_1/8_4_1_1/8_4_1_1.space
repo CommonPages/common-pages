@@ -1,0 +1,15 @@
+
+public: ar5-8.4.1.1
+name: Section 8.4.1.1
+title: 8.4.1.1 - Satellite Measurements of Total Solar Irradiance
+section 8_4_1_1
+
+  |Since 1978, several independent space-based instruments have directly measured the {Glossary.*Total_solar_irradiance TSI}. TSI variations of approximately 0.1% were observed between the maximum and minimum of the 11-year Solar Cycle. This variation is mainly due to an interplay between relatively dark {Glossary.*Sunspots sunspots}, bright faculae and bright network elements. A declining {Glossary.*Trend trend} since 1986 in solar minima is also observed.
+
+
+  
+
+  insert SectionDoc
+
+
+    

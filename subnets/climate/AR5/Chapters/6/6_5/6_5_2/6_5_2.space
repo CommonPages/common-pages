@@ -1,0 +1,30 @@
+
+public: ar5-6.5.2
+name: Section 6.5.2
+title: 6.5.2 - Carbon Cycle Processes Involved in Carbon Dioxide Removal Methods
+section 6_5_2
+
+  |This report assesses four proposed groups of {Glossary.*Carbon_Dioxide_Removal CDR} methods: Enhanced Carbon Sequestration by Land Ecosystems, Enhanced Carbon Sequestration in the Ocean, Accelerated {Glossary.*Weathering Weathering}, and {Glossary.*Direct_Air_Capture Direct Air Capture}.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 6_5_2_1
+    - 6_5_2_2
+    - 6_5_2_3
+    - 6_5_2_4
+
+  name: Section 6.5.2 - Full Text
+  path FullText
+    name: Carbon Cycle Processes Involved in Carbon Dioxide Removal Methods
+    step
+      include
+        - Chapters.6.6_5.6_5_2.SectionDoc
+        - Chapters.6.6_5.6_5_2.6_5_2_1.SectionDoc
+        - Chapters.6.6_5.6_5_2.6_5_2_2.SectionDoc
+        - Chapters.6.6_5.6_5_2.6_5_2_3.SectionDoc
+        - Chapters.6.6_5.6_5_2.6_5_2_4.SectionDoc
+    

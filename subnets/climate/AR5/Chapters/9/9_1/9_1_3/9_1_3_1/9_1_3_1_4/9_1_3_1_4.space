@@ -1,0 +1,15 @@
+
+public: ar5-9.1.3.1.4
+name: Section 9.1.3.1.4
+title: 9.1.3.1.4 - Sea ice
+section 9_1_3_1_4
+
+  |Most large-scale {Glossary.*Sea_ice sea ice} processes are well understood and well represented in models. However, important details of sea ice dynamics and deformation are not captured, especially at small scales. Many sea ice models now include some representation of sub-grid-scale thickness variations, along with a description of mechanical redistribution that converts thinner ice to thicker ice under deformation. Snow model development for sea ice has lagged behind terrestrial snow models. Many physical processes affecting the evolution of the snow pack still are not included in most {Topics.*Climate_Modelling climate models}.
+
+
+  
+
+  insert SectionDoc
+
+
+    

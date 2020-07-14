@@ -1,0 +1,33 @@
+
+public: ar5-3.8
+name: Section 3.8
+title: 3.8 - Ocean Biogeochemical Changes, Including Anthropogenic Ocean Acidification
+section 3_8
+
+  |Based on high agreement between independent estimates using different methods and data sets (e.g., oceanic carbon, oxygen, and transient tracer data), it is very likely that the global ocean inventory of {Glossary.*Anthropogenic anthropogenic} carbon (Cant) increased from 1994 to 2010.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 3_8_1
+    - 3_8_2
+    - 3_8_3
+    - 3_8_4
+    - 3_8_5
+
+  name: Section 3.8 - Full Text
+  path FullText
+    name: Ocean Biogeochemical Changes, Including Anthropogenic Ocean Acidification
+    step
+      include
+        - Chapters.3.3_8.SectionDoc
+        - Chapters.3.3_8.3_8_1.3_8_1_1.SectionDoc
+        - Chapters.3.3_8.3_8_1.3_8_1_2.SectionDoc
+        - Chapters.3.3_8.3_8_2.SectionDoc
+        - Chapters.3.3_8.3_8_3.SectionDoc
+        - Chapters.3.3_8.3_8_4.SectionDoc
+        - Chapters.3.3_8.3_8_5.SectionDoc
+    

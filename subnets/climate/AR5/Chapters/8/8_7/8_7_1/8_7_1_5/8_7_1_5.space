@@ -1,0 +1,15 @@
+
+public: ar5-8.7.1.5
+name: Section 8.7.1.5
+title: 8.7.1.5 - New Metric Concepts
+section 8_7_1_5
+
+  |New {Glossary.*Metric metric} concepts have been developed both to modify physical metrics to address shortcomings as well as to replace them with metrics that account for economic dimensions of problems to which metrics are applied. Modifications of the {Glossary.*Global_Warming_Potential GWP} and GTP for bioenergy (GWPbio, GTPbio) have been developed. New concepts have also been developed to capture information about regional patterns of responses and cancelling effects that are lost when global mean metrics are used. A number of new metrics have been developed to add economic dimensions to purely physically based metrics such as the GWP and GTP.
+
+
+  
+
+  insert SectionDoc
+
+
+    

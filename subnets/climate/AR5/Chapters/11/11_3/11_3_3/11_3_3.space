@@ -1,0 +1,27 @@
+
+public: ar5-11.3.3
+name: Section 11.3.3
+title: 11.3.3 - Near-term Projected Changes in the Ocean
+section 11_3_3
+
+  |In the absence of multiple major volcanic eruptions, it is very likely that globally averaged surface and depth-averaged temperatures averaged 2016–2035 will be warmer than those averaged over 1986–2005. Changes in sea surface salinity are expected in response to changes in precipitation, evaporation and {Glossary.*Runoff runoff}, as well as ocean circulation; in general, salty regions are expected to become saltier and fresh regions fresher. The AMOC is generally {Topics.*Climate_Projections projected} to weaken over the next century in response to increase in atmospheric GHG. However, the rate and magnitude of weakening is very uncertain.
+
+
+  apply FullText
+
+  
+
+  include
+    - 11_3_3_1
+    - 11_3_3_2
+    - 11_3_3_3
+
+  name: Section 11.3.3 - Full Text
+  path FullText
+    name: Temperature
+    step
+      include
+        - Chapters.11.11_3.11_3_3.11_3_3_1.SectionDoc
+        - Chapters.11.11_3.11_3_3.11_3_3_2.SectionDoc
+        - Chapters.11.11_3.11_3_3.11_3_3_3.SectionDoc
+    

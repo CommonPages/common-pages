@@ -1,0 +1,31 @@
+
+public: ar5-7.4.3
+name: Section 7.4.3
+title: 7.4.3 - Forcing Associated with Adjustments in Liquid Clouds
+section 7_4_3
+
+  |The adjustments giving rise to {Glossary.*Effective_radiative_forcing_due_to_aerosol_cloud_interactions ERFaci} are multi-faceted and are associated with both {Glossary.*Albedo albedo} and so-called ‘{Glossary.*Lifetime lifetime}’ effects. Observed effects generally include both the albedo effect and the adjustments, with few if any means of observing only one or the other in isolation. Since {cite.1.'IPCC_2007 AR4}, cloud resolving model simulation has begun to stress the importance of scale interactions when addressing {Glossary.*Aerosol aerosol}–cloud interactions.
+
+
+  apply FullText
+
+  
+
+  include
+    - 7_4_3_1
+    - 7_4_3_2
+    - 7_4_3_3
+    - 7_4_3_4
+
+  name: Section 7.4.3 - Full Text
+  path FullText
+    name: The Physical Basis for Adjustments in Liquid Clouds
+    step
+      include
+        - Chapters.7.7_4.7_4_3.7_4_3_1.SectionDoc
+        - Chapters.7.7_4.7_4_3.7_4_3_2.SectionDoc
+        - Chapters.7.7_4.7_4_3.7_4_3_2.7_4_3_2_1.SectionDoc
+        - Chapters.7.7_4.7_4_3.7_4_3_2.7_4_3_2_2.SectionDoc
+        - Chapters.7.7_4.7_4_3.7_4_3_3.SectionDoc
+        - Chapters.7.7_4.7_4_3.7_4_3_4.SectionDoc
+    

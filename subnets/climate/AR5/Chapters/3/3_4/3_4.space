@@ -1,0 +1,38 @@
+
+public: ar5-3.4
+name: Section 3.4
+title: 3.4 - Changes in Ocean Surface Fluxes
+section 3_4
+
+  |Uncertainties in air–sea heat flux data sets are too large to allow {Glossary.*Detection_and_Attribution detection} of the change in global mean net air–sea heat flux. The accuracy of {Topics.*Reanalysis reanalysis} and satellite observation based freshwater flux products is limited by changing data sources.
+
+
+  apply FullText
+
+  
+
+  include
+    - 3_4_1
+    - 3_4_2
+    - 3_4_3
+    - 3_4_4
+    - 3_4_5
+    - 3_4_6
+
+  name: Section 3.4 - Full Text
+  path FullText
+    name: Introduction
+    step
+      include
+        - Chapters.3.3_4.3_4_1.SectionDoc
+        - Chapters.3.3_4.3_4_2.3_4_2_1.SectionDoc
+        - Chapters.3.3_4.3_4_2.3_4_2_2.SectionDoc
+        - Chapters.3.3_4.3_4_2.3_4_2_3.SectionDoc
+        - Chapters.3.3_4.3_4_3.SectionDoc
+        - Chapters.3.3_4.3_4_4.SectionDoc
+        - Chapters.3.3_4.3_4_5.SectionDoc
+        - Chapters.3.3_4.3_4_5.3_4_5_1.SectionDoc
+        - Chapters.3.3_4.3_4_5.3_4_5_2.SectionDoc
+        - Chapters.3.3_4.3_4_5.3_4_5_3.SectionDoc
+        - Chapters.3.3_4.3_4_6.SectionDoc
+    

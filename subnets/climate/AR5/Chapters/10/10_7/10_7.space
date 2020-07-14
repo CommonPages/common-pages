@@ -1,0 +1,31 @@
+
+public: ar5-10.7
+name: Section 10.7
+title: 10.7 - Multi-century to Millennia Perspective
+section 10_7
+
+  |Evaluating the causes of climate change before the 20th century is important to test and improve our understanding of the role of internal and forced natural {Topics.*Climate_Variability climate variability} for the recent past. {Glossary.*Detection_and_Attribution Detection} and {Topics.*Attribution_of_Change attribution studies} strengthen results from {cite.1.'IPCC_2007 AR4} that {Topics.*Radiative_Forcing external forcing} contributed to {Topics.*Past_Climate past climate} variability and change prior to the 20th century. It is very unlikely that NH temperature variations from 1400 to 1850 can be explained by internal variability alone.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 10_7_1
+    - 10_7_2
+    - 10_7_3
+
+  name: Section 10.7 - Full Text
+  path FullText
+    name: Multi-century to Millennia Perspective
+    step
+      include
+        - Chapters.10.10_7.SectionDoc
+        - Chapters.10.10_7.10_7_1.SectionDoc
+        - Chapters.10.10_7.10_7_1.10_7_1_1.SectionDoc
+        - Chapters.10.10_7.10_7_1.10_7_1_2.SectionDoc
+        - Chapters.10.10_7.10_7_1.10_7_1_3.SectionDoc
+        - Chapters.10.10_7.10_7_2.SectionDoc
+        - Chapters.10.10_7.10_7_3.SectionDoc
+    

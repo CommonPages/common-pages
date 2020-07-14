@@ -1,0 +1,15 @@
+
+public: ar5-11.2.1.2
+name: Section 11.2.1.2
+title: 11.2.1.2 - Prognostic Predictability Studies
+section 11_2_1_2
+
+  |Prognostic {Glossary.*Predictability predictability} studies analyse the behaviour of models integrated forward in time from perturbed initial conditions.
+
+
+  
+
+  insert SectionDoc
+
+
+    

@@ -1,0 +1,15 @@
+
+public: ar5-7.6.4
+name: Section 7.6.4
+title: 7.6.4 - Effects of Aerosol–Cloud Interactions on Precipitation
+section 7_6_4
+
+  |{Glossary.*Aerosol Aerosol}–cloud interactions directly influence the cloud microphysical structure, and only indirectly (if at all) the net atmospheric heating rate. It is unclear whether changes in aerosol–cloud interactions arising from changes in the availability of {Glossary.*Cloud_condensation_nuclei CCN} or IN can affect, and possibly intensify, the evolution of individual precipitating cloud systems.
+
+
+  
+
+  insert SectionDoc
+
+
+    

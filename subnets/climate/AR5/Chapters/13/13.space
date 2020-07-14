@@ -1,0 +1,129 @@
+
+public: ar5-13
+name: Chapter 13
+title: Chapter 13 - Sea Level Change
+lead: This chapter considers changes in global mean sea level, regional sea level, sea level extremes, and waves.
+chapterspace 13
+
+
+  import Figures._
+  import cite.13._
+
+  index: hide
+  title: Chapter 13 - Sea Level Change
+  lead: This chapter considers changes in global mean sea level, regional sea level, sea level extremes, and waves.
+  chapterstory ChapterStory
+    |The primary contributors to contemporary {Topics.*Sea_Level sea level change} are the expansion of the ocean as it warms and the transfer of water currently stored on land to the ocean, particularly from land ice. Results since the {cite.1.'IPCC_2007 AR4} show that for recent decades, sea level has continued to rise. It is virtually certain that sea level will continue to rise during the 21st century and beyond. For all {Topics.*Scenarios scenarios}, the rate of 21st century GMSL rise is very likely to exceed the average rate during the 20th century. Sea level rise has already led to a significant increase in the return frequency of sea level extremes at many locations, and it is very likely that this will continue during the 21st century. For higher {Topics.*Emissions emission} scenarios and warmer temperatures, surface melting of the Greenland {Glossary.*Ice_sheet ice sheet} is {Topics.*Climate_Projections projected} to exceed {Glossary.*Accumulation accumulation}, leading to its long-term decay and a sea level rise of metres, consistent with paleo sea level data.
+    apply FullText
+
+    embed
+      - FAQ_13_1
+      - FAQ_13_2
+      - Box_13_1
+      - Box_13_2
+
+    include
+      - 13_1
+      - 13_2
+      - 13_3
+      - 13_4
+      - 13_5
+      - 13_6
+      - 13_7
+      - 13_8
+
+  apply FullText
+
+  
+
+  include
+    - 13_1
+    - 13_2
+    - 13_3
+    - 13_4
+    - 13_5
+    - 13_6
+    - 13_7
+    - 13_8
+
+  name: Chapter 13 - Full Text
+  path FullText
+    name: Introduction and Chapter Overview
+    step
+      include
+        - Chapters.13.13_1.13_1_1.SectionDoc
+        - Chapters.13.13_1.13_1_2.SectionDoc
+        - Chapters.13.13_1.13_1_3.SectionDoc
+        - Chapters.13.13_1.13_1_4.SectionDoc
+        - Chapters.13.13_1.13_1_4.13_1_4_1.SectionDoc
+    name: The Geological Record
+    step
+      include
+        - Chapters.13.13_2.13_2_1.SectionDoc
+        - Chapters.13.13_2.13_2_1.13_2_1_1.SectionDoc
+        - Chapters.13.13_2.13_2_1.13_2_1_2.SectionDoc
+        - Chapters.13.13_2.13_2_1.13_2_1_3.SectionDoc
+        - Chapters.13.13_2.13_2_1.13_2_1_4.SectionDoc
+        - Chapters.13.13_2.13_2_2.SectionDoc
+        - Chapters.13.13_2.13_2_2.13_2_2_1.SectionDoc
+        - Chapters.13.13_2.13_2_2.13_2_2_2.SectionDoc
+    name: Contributions to Global Mean Sea Level Rise During the Instrumental Period
+    step
+      include
+        - Chapters.13.13_3.SectionDoc
+        - Chapters.13.13_3.13_3_1.13_3_1_1.SectionDoc
+        - Chapters.13.13_3.13_3_1.13_3_1_2.SectionDoc
+        - Chapters.13.13_3.13_3_2.13_3_2_1.SectionDoc
+        - Chapters.13.13_3.13_3_2.13_3_2_2.SectionDoc
+        - Chapters.13.13_3.13_3_3.13_3_3_1.SectionDoc
+        - Chapters.13.13_3.13_3_3.13_3_3_2.SectionDoc
+        - Chapters.13.13_3.13_3_4.SectionDoc
+        - Chapters.13.13_3.13_3_5.SectionDoc
+        - Chapters.13.13_3.13_3_6.SectionDoc
+    name: Ocean Heat Uptake and Thermal Expansion
+    step
+      include
+        - Chapters.13.13_4.13_4_1.SectionDoc
+        - Chapters.13.13_4.13_4_2.SectionDoc
+        - Chapters.13.13_4.13_4_3.13_4_3_1.SectionDoc
+        - Chapters.13.13_4.13_4_3.13_4_3_2.SectionDoc
+        - Chapters.13.13_4.13_4_3.13_4_3_3.SectionDoc
+        - Chapters.13.13_4.13_4_4.13_4_4_1.SectionDoc
+        - Chapters.13.13_4.13_4_4.13_4_4_2.SectionDoc
+        - Chapters.13.13_4.13_4_4.13_4_4_3.SectionDoc
+        - Chapters.13.13_4.13_4_5.SectionDoc
+    name: Projections of Global Mean Sea Level Rise
+    step
+      include
+        - Chapters.13.13_5.SectionDoc
+        - Chapters.13.13_5.13_5_1.SectionDoc
+        - Chapters.13.13_5.13_5_2.SectionDoc
+        - Chapters.13.13_5.13_5_3.SectionDoc
+        - Chapters.13.13_5.13_5_4.SectionDoc
+        - Chapters.13.13_5.13_5_4.13_5_4_1.SectionDoc
+        - Chapters.13.13_5.13_5_4.13_5_4_2.SectionDoc
+    name: Regional Sea Level Changes
+    step
+      include
+        - Chapters.13.13_6.SectionDoc
+        - Chapters.13.13_6.13_6_1.SectionDoc
+        - Chapters.13.13_6.13_6_2.SectionDoc
+        - Chapters.13.13_6.13_6_3.SectionDoc
+        - Chapters.13.13_6.13_6_4.SectionDoc
+        - Chapters.13.13_6.13_6_4.13_6_4_1.SectionDoc
+        - Chapters.13.13_6.13_6_4.13_6_4_2.SectionDoc
+        - Chapters.13.13_6.13_6_5.SectionDoc
+        - Chapters.13.13_6.13_6_6.SectionDoc
+    name: Projections of 21st Century Sea Level Extremes and Waves
+    step
+      include
+        - Chapters.13.13_7.SectionDoc
+        - Chapters.13.13_7.13_7_1.SectionDoc
+        - Chapters.13.13_7.13_7_2.13_7_2_1.SectionDoc
+        - Chapters.13.13_7.13_7_2.13_7_2_2.SectionDoc
+        - Chapters.13.13_7.13_7_3.SectionDoc
+    name: Synthesis and Key Uncertainties
+    step
+      include
+        - Chapters.13.13_8.SectionDoc
+    

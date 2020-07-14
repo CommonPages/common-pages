@@ -1,0 +1,6 @@
+index: hide
+public: ar5-
+name: Section 7.3.3
+title: 7.3.3 - Progress and Gaps in Understanding Climate Relevant Aerosol Properties
+
+The climate effects of atmospheric {Glossary.*Aerosol aerosol} particles depend on their atmospheric distribution, along with their hygroscopicity, optical properties and ability to act as {Glossary.*Cloud_condensation_nuclei CCN} and IN. Key quantities for aerosol optical and cloud forming properties are the particle number size distribution, chemical composition, mixing state and morphology. These properties are determined by a complex interplay between their sources, atmospheric transformation processes and their removal from the {Topics.*Climate_System atmosphere} ({Chapters.7.7_3.7_3_2 Section 7.3.2}, Figures {'Figure_7_12 7.12} and {'Figure_7_16 7.16}). Since {cite.1.'IPCC_2007 AR4}, measurement of some of the key aerosol properties has been greatly improved in laboratory and field experiments using advanced instrumentation, which allows for instance the analysis of individual particles. These experimental studies have in turn stimulated improvement in the model representations of the aerosol physical, chemical and optical properties ({cite.7.'Ghan_and_Schwartz_2007}). We focus our assessment on some of the key issues where there has been progress since AR4.

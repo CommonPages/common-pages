@@ -1,0 +1,15 @@
+
+public: ar5-14.3.1.1
+name: Section 14.3.1.1
+title: 14.3.1.1 - Inter-Tropical Convergence Zone
+section 14_3_1_1
+
+  |The Inter-Tropical Convergence Zone ({Glossary.*Inter_Tropical_Convergence_Zone ITCZ}) is a zonal band of persistent low-level convergence, atmospheric {Glossary.*Convection convection}, and heavy rainfall. In CMIP5, seasonal mean rainfall is {Topics.*Climate_Projections projected} to increase on the equatorward flank of the ITCZ ({'Figure_14_9 Figure 14.9}). The co-migration of rainfall increase with the ITCZ is due to the wet-get-wetter effect while the equatorward displacement is due to the {Glossary.*Sea_Surface_Temperature SST} pattern effect.
+
+
+  
+
+  insert SectionDoc
+
+
+    

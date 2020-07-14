@@ -1,0 +1,27 @@
+
+public: ar5-9.5.3.3
+name: Section 9.5.3.3
+title: 9.5.3.3 - Atlantic Modes
+section 9_5_3_3
+
+  |CMIP3 and CMIP5 model simulations show total AMOC variability that is within the observational {Topics.*Uncertainty uncertainty}. A number of {Topics.*Climate_Modelling climate models} produced {Glossary.*Atlantic_Multi_decadal_Oscillation_Variability AMO}-like multidecadal variability in the North Atlantic linked to variability in the strength of the AMOC,  however simulated time scales range from 40 to 60 years, to a century or more. Virtually all CMIP models simulate AMMlike {Glossary.*Sea_Surface_Temperature SST} variability in their 20th century climate simulations, albeit with some spurious behaviour.
+
+
+  apply FullText
+
+  
+
+  include
+    - 9_5_3_3_1
+    - 9_5_3_3_2
+    - 9_5_3_3_3
+
+  name: Section 9.5.3.3 - Full Text
+  path FullText
+    name: Atlantic Meridional Overturning Circulation variability
+    step
+      include
+        - Chapters.9.9_5.9_5_3.9_5_3_3.9_5_3_3_1.SectionDoc
+        - Chapters.9.9_5.9_5_3.9_5_3_3.9_5_3_3_2.SectionDoc
+        - Chapters.9.9_5.9_5_3.9_5_3_3.9_5_3_3_3.SectionDoc
+    

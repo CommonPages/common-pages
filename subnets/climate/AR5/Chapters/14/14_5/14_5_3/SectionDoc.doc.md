@@ -1,0 +1,6 @@
+index: hide
+public: ar5-
+name: Section 14.5.3
+title: 14.5.3 - Assessment Summary
+
+Future boreal wintertime {Glossary.*North_Atlantic_Oscillation NAO} is very likely to exhibit large natural variations and {Glossary.*Trend trend} of similar magnitude to that observed in the past; is very likely to be differ quantitatively from individual {Topics.*Climate_Projections climate model projections}; is likely to become slightly more positive (on average) due to increases in {Glossary.*Greenhouse_gas GHGs}. The austral summer/autumn positive trend in {Glossary.*Southern_Annular_Mode SAM} is likely to weaken considerably as {Glossary.*Ozone ozone} depletion recovers through to the mid-21st century. There is medium confidence from recent studies that projected changes in NAO and SAM are sensitive to boundary processes, which are not yet well represented in many {Topics.*Climate_Modelling climate models} currently used for projections, for example, {Glossary.*Stratosphere stratosphere}-{Glossary.*Troposphere troposphere} interaction, ozone chemistry, solar {Topics.*Radiative_Forcing forcing} and atmospheric response to Arctic {Glossary.*Sea_ice sea ice} loss. There is low confidence in projections of other modes such as the NPO due to the small number of modelling studies.

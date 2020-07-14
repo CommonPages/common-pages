@@ -1,0 +1,15 @@
+
+public: ar5-12.4.5.4
+name: Section 12.4.5.4
+title: 12.4.5.4 - Runoff and Evaporation
+section 12_4_5_4
+
+  |In the {cite.1.'IPCC_2007 AR4}, 21st century model-{Topics.*Climate_Projections projected} {Glossary.*Runoff runoff} consistently showed decreases in many regions. The same general features appear in the CMIP5 {Glossary.*Ensemble ensemble} of {Glossary.*General_Circulation_Model GCMs} for all four {Glossary.*Representative_Concentration_Pathways RCPs} shown in {'Figure_12_24 Figure 12.24}. Annual mean surface evaporation in the models assessed in AR4 showed increases over most of the ocean and increases or decreases over land with largely the same pattern over land as increases and decreases in precipitation. Similar behaviour occurs in an ensemble of CMIP5 models.
+
+
+  
+
+  insert SectionDoc
+
+
+    

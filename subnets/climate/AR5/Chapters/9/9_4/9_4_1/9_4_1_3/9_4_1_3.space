@@ -1,0 +1,15 @@
+
+public: ar5-9.4.1.3
+name: Section 9.4.1.3
+title: 9.4.1.3 - Quantifying Model Performance with Metrics
+section 9_4_1_3
+
+  |Performance metrics were used to some extent in the Third Assessment Report ({cite.1.'IPCC_2001 TAR}) and the Fourth Assessment Report ({cite.1.'IPCC_2007 AR4}), and are expanded upon here. All CMIP3 and CMIP5 models capture the mean {Topics.*Surface_Temperature surface temperature} distribution quite well, with correlations above 0.95. Correlations for outgoing {Glossary.*Longwave_radiation longwave radiation} are somewhat lower. For precipitation and the TOA shortwave cloud {Glossary.*Radiative_effect radiative effect}, the correlations between models and observations are below 0.90, and there is considerable scatter among model results.
+
+
+  
+
+  insert SectionDoc
+
+
+    

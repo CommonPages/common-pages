@@ -1,0 +1,26 @@
+
+public: ar5-13.2.2
+name: Section 13.2.2
+title: 13.2.2 - The Instrumental Record (~1700–2012)
+section 13_2_2
+
+  |The instrumental record of {Topics.*Sea_Level sea level change} is mainly comprised of {Glossary.*Tide_gauge tide gauge} measurements over the past two to three centuries ({'Figure_13_3 Figures 13.3}b and 13.3c) and, since the early 1990s, of satellite-based radar altimeter measurements ({'Figure_13_3 Figure 13.3}d). It is very likely that the long-term {Glossary.*Trend trend} estimate in GMSL is 1.7 mm yr–1 between 1901 and 2010 for a total sea level rise of 0.19 m. The GMSL trend since 1993 is very likely higher compared to the mean rates over the 20th century, and it is likely that GMSL rose between 1920 and 1950 at a rate comparable to that observed since 1993.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 13_2_2_1
+    - 13_2_2_2
+
+  name: Section 13.2.2 - Full Text
+  path FullText
+    name: The Instrumental Record (~1700–2012)
+    step
+      include
+        - Chapters.13.13_2.13_2_2.SectionDoc
+        - Chapters.13.13_2.13_2_2.13_2_2_1.SectionDoc
+        - Chapters.13.13_2.13_2_2.13_2_2_2.SectionDoc
+    

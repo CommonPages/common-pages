@@ -1,0 +1,25 @@
+
+public: ar5-7.3.1
+name: Section 7.3.1
+title: 7.3.1 - Aerosols in the Present-Day Climate System
+section 7_3_1
+
+  |Atmospheric aerosols, whether natural or {Glossary.*Anthropogenic anthropogenic}, originate from two different pathways: {Topics.*Emissions emissions} of primary particulate matter and formation of secondary particulate matter from gaseous {Glossary.*Precursors precursors}. New and improved observational {Glossary.*Aerosol aerosol} data sets have emerged since {cite.1.'IPCC_2007 AR4}.
+
+
+  apply FullText
+
+  
+
+  include
+    - 7_3_1_1
+    - 7_3_1_2
+
+  name: Section 7.3.1 - Full Text
+  path FullText
+    name: Aerosol Formation and Aerosol Types
+    step
+      include
+        - Chapters.7.7_3.7_3_1.7_3_1_1.SectionDoc
+        - Chapters.7.7_3.7_3_1.7_3_1_2.SectionDoc
+    

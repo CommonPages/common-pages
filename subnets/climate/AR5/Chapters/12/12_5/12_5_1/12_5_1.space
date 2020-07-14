@@ -1,0 +1,15 @@
+
+public: ar5-12.5.1
+name: Section 12.5.1
+title: 12.5.1 - Representative Concentration Pathway Extensions
+section 12_5_1
+
+  |The CMIP5 intercomparison project includes simulations extending the four RCP {Topics.*Scenarios scenarios} to the year 2300. This allows exploring the longer-term {Glossary.*Climate_response climate response} to idealized GHG and aerosols {Topics.*Radiative_Forcing forcings}. The {Topics.*Climate_Projections projected} warming for 2281–2300, relative to 1986–2005, is 0.6°C for {Glossary.*RCP2_6 RCP2.6}, 2.5°C for RCP4.5, and 7.8°C for {Glossary.*RCP8_5 RCP8.5} (Figures {'Figure_12_3 12.3} and {'Figure_12_5 12.5}, {'Table_12_2 Table 12.2}).
+
+
+  
+
+  insert SectionDoc
+
+
+    

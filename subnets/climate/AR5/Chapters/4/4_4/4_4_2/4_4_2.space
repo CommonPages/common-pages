@@ -1,0 +1,33 @@
+
+public: ar5-4.4.2
+name: Section 4.4.2
+title: 4.4.2 - Changes in Mass of Ice Sheets
+section 4_4_2
+
+  |There is very high confidence that the Greenland {Glossary.*Ice_sheet ice sheet} has lost ice and contributed to {Topics.*Sea_Level sea level} rise over the last two decades. New methods since {cite.1.'IPCC_2007 AR4} indicate with high confidence that the Antarctic Peninsula is losing ice.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 4_4_2_1
+    - 4_4_2_2
+    - 4_4_2_3
+    - 4_4_2_4
+
+  name: Section 4.4.2 - Full Text
+  path FullText
+    name: Changes in Mass of Ice Sheets
+    step
+      include
+        - Chapters.4.4_4.4_4_2.SectionDoc
+        - Chapters.4.4_4.4_4_2.4_4_2_1.SectionDoc
+        - Chapters.4.4_4.4_4_2.4_4_2_1.4_4_2_1_1.SectionDoc
+        - Chapters.4.4_4.4_4_2.4_4_2_1.4_4_2_1_2.SectionDoc
+        - Chapters.4.4_4.4_4_2.4_4_2_1.4_4_2_1_3.SectionDoc
+        - Chapters.4.4_4.4_4_2.4_4_2_2.SectionDoc
+        - Chapters.4.4_4.4_4_2.4_4_2_3.SectionDoc
+        - Chapters.4.4_4.4_4_2.4_4_2_4.SectionDoc
+    

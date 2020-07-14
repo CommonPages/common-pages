@@ -1,0 +1,6 @@
+index: hide
+public: ar5-
+name: Section 4.4.4.2.5
+title: 4.4.4.2.5 - Iceberg calving
+
+{Glossary.*Calving Calving} of icebergs from marine-terminating glaciers and ice shelves is important in their overall mass balance, but the processes that initiate calving range from seasonal melt-driven processes ({cite.4.'Benn_et_al_2007}) to ocean swells and tsunamis ({cite.4.'MacAyeal_et_al_2006}; {cite.4.'Brunt_et_al_2011}), or the culmination of a response to gradual change ({cite.4.'Doake_et_al_1998}; {cite.4.'Scambos_et_al_2000}). Some of these processes show strong climate influence, while others do not. Despite arguments of rather limited progress in this area ({cite.4.'Pfeffer_2011}), there have been some recent advances ({cite.4.'Joughin_et_al_2008a}; {cite.4.'Blaszczyk_et_al_2009}; {cite.4.'Amundson_et_al_2010}; {cite.4.'Nick_et_al_2010}, 2013), and continental-scale {Glossary.*Ice_sheet ice sheet} models currently rely on improved parameterisations ({cite.4.'Alley_et_al_2008}; {cite.4.'Pollard_and_DeConto_2009}; {cite.4.'Levermann_et_al_2012}). Recently more realistic models have been developed allowing the dependence of calving and climate to be explicitly investigated (e.g., {cite.4.'Nick_et_al_2013}).

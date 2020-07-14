@@ -1,0 +1,15 @@
+
+public: ar5-9.6.1.2
+name: Section 9.6.1.2
+title: 9.6.1.2 - Regional-Scale Simulation by Atmospheric General Circulation Models
+section 9_6_1_2
+
+  |Stand-alone global atmospheric models (AGCMs) run at higher {Glossary.*Resolution resolution} than {Glossary.*Atmosphere_Ocean_General_Circulation_Model AOGCMs} provide complementary regional-scale climate information, sometimes referred to as ‘global {Glossary.*Downscaling downscaling}’. A number of advantages of high-resolution AGCMs have been identified, including improved regional precipitation and {Glossary.*Blocking blocking}.
+
+
+  
+
+  insert SectionDoc
+
+
+    

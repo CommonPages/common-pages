@@ -1,0 +1,25 @@
+
+public: ar5-3.8.1
+name: Section 3.8.1
+title: 3.8.1 - Carbon
+section 3_8_1
+
+  |The high agreement between multiple lines of independent evidence for increases in the ocean inventory of Cant underpins the conclusion that it is virtually certain that the ocean is sequestering {Glossary.*Anthropogenic anthropogenic} {Glossary.*Carbon_dioxide carbon dioxide} and very likely that the oceanic Cant inventory increased from 1994 to 2010.
+
+
+  apply FullText
+
+  
+
+  include
+    - 3_8_1_1
+    - 3_8_1_2
+
+  name: Section 3.8.1 - Full Text
+  path FullText
+    name: Ocean Uptake of Carbon
+    step
+      include
+        - Chapters.3.3_8.3_8_1.3_8_1_1.SectionDoc
+        - Chapters.3.3_8.3_8_1.3_8_1_2.SectionDoc
+    

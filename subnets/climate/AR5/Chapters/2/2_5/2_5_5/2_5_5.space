@@ -1,0 +1,30 @@
+
+public: ar5-2.5.5
+name: Section 2.5.5
+title: 2.5.5 - Tropospheric Humidity
+section 2_5_5
+
+  |Radiosonde, GPS and satellite observations of tropospheric water vapour indicate very likely increases at near global scales since the 1970s occurring at a rate that is generally consistent with the Clausius-Clapeyron relation (about 7% per degree Celsius) and the observed increase in atmospheric temperature.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 2_5_5_1
+    - 2_5_5_2
+    - 2_5_5_3
+    - 2_5_5_4
+
+  name: Section 2.5.5 - Full Text
+  path FullText
+    name: Tropospheric Humidity
+    step
+      include
+        - Chapters.2.2_5.2_5_5.SectionDoc
+        - Chapters.2.2_5.2_5_5.2_5_5_1.SectionDoc
+        - Chapters.2.2_5.2_5_5.2_5_5_2.SectionDoc
+        - Chapters.2.2_5.2_5_5.2_5_5_3.SectionDoc
+        - Chapters.2.2_5.2_5_5.2_5_5_4.SectionDoc
+    

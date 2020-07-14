@@ -1,0 +1,15 @@
+
+public: ar5-8.3.4.3
+name: Section 8.3.4.3
+title: 8.3.4.3 - Aerosol–Cloud Interactions
+section 8_3_4_3
+
+  |The RF by {Glossary.*Aerosol aerosol} effects on cloud {Glossary.*Albedo albedo} was previously referred to as the Twomey or cloud albedo effect. Although this RF can be calculated, no estimate of this {Topics.*Radiative_Forcing forcing} is given because it has heuristic value only and does not simply translate to the {Glossary.*Effective_radiative_forcing ERF} due to {Glossary.*Aerosol_cloud_interaction aerosol–cloud interaction}. The estimate of ERF due to aerosol–radiation and aerosol-cloud interaction is between –1.5 and –0.4 W m–2.
+
+
+  
+
+  insert SectionDoc
+
+
+    

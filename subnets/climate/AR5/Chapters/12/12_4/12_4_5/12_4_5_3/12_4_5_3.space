@@ -1,0 +1,15 @@
+
+public: ar5-12.4.5.3
+name: Section 12.4.5.3
+title: 12.4.5.3 - Soil Moisture
+section 12_4_5_3
+
+  |Near-surface {Glossary.*Soil_moisture soil moisture} is the net result of a suite of complex processes, and heterogeneous and difficult-to-characterize aboveground and belowground system properties. {'Figure_12_23 Figure 12.23} shows projected changes in surface soil moisture (upper 10 cm) in the CMIP5 {Glossary.*Ensemble ensemble} at the end of the 21st century. The broad patterns are moderately consistent across the {Glossary.*Representative_Concentration_Pathways RCPs}. The agreement among CMIP5 models and the consistency with other physical features of climate change indicate high confidence in certain regions where surface soils are projected to dry. There is little-to-no confidence anywhere in {Topics.*Climate_Projections projections} of moister surface soils.
+
+
+  
+
+  insert SectionDoc
+
+
+    

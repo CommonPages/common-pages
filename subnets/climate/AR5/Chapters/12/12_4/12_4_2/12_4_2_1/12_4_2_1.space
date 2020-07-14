@@ -1,0 +1,15 @@
+
+public: ar5-12.4.2.1
+name: Section 12.4.2.1
+title: 12.4.2.1 - Definition and Use
+section 12_4_2_1
+
+  |In this chapter we show geographical patterns of projected changes in climate variables according to specific {Topics.*Scenarios scenarios} and time horizons. Alternative scenarios and {Glossary.*Projection projection} times can be inferred from those shown by using some established approximation methods. ‘Pattern scaling’ is an approximation that has been explicitly suggested in the description of the {Glossary.*Representative_Concentration_Pathways RCPs} as a method for deriving impact-relevant regional {Topics.*Climate_Projections projections} for scenarios that have not been simulated by global and {Topics.*Regional_Climate regional climate} models. The robustness of temperature change patterns has been amply documented. The precipitation pattern was shown to scale linearly with global average temperature. Pattern scaling has not been as thoroughly explored for quantities other than average temperature and precipitation.
+
+
+  
+
+  insert SectionDoc
+
+
+    

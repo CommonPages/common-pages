@@ -1,0 +1,25 @@
+
+public: ar5-6.1.1
+name: Section 6.1.1
+title: 6.1.1 - Global Carbon Cycle Overview
+section 6_1_1
+
+  |The {Topics.*Carbon_Cycle Carbon Cycle} refers to the flow of carbon through the {Topics.*Climate_System atmosphere}, ocean, terrestrial and marine {Glossary.*Biosphere_terrestrial_and_marine biosphere} and lithosphere. Atmospheric {Glossary.*Carbon_dioxide CO2} represents the main atmospheric phase of the global carbon cycle. Fossil fuel extraction and combustion has resulted in the transfer of significant amounts of carbon from geological reservoirs to the {Glossary.*Atmosphere atmosphere}, thus causing an unprecedented, major human-induced perturbation in the carbon cycle. Methane ({Glossary.*Methane_CH4 CH4}) absorbs {Glossary.*Infrared_radiation infrared radiation} relatively stronger than CO2, but has a faster {Glossary.*Turnover_time_T turnover time}.
+
+
+  apply FullText
+
+  
+
+  include
+    - 6_1_1_1
+    - 6_1_1_2
+
+  name: Section 6.1.1 - Full Text
+  path FullText
+    name: Carbon Dioxide and the Global Carbon Cycle
+    step
+      include
+        - Chapters.6.6_1.6_1_1.6_1_1_1.SectionDoc
+        - Chapters.6.6_1.6_1_1.6_1_1_2.SectionDoc
+    

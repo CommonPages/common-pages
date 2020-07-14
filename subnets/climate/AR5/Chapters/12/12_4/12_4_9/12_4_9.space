@@ -1,0 +1,15 @@
+
+public: ar5-12.4.9
+name: Section 12.4.9
+title: 12.4.9 - Consistency and Main Differences Between Coupled Model Intercomparison Project Phase 3/ Coupled Model Intercomparison Project Phase 5 and Special Report on Emission Scenarios/ Representative Concentration Pathways
+section 12_4_9
+
+  |In the experiments collected under CMIP5, both models and scenario have changed with respect to CMIP3 making a comparison with earlier results and the scientific literature they generated complex. Similar temperature change {Topics.*Climate_Projections projections} by the end of the 21st century are obtained under {Glossary.*RCP8_5 RCP8.5} and SRES A1FI, RCP6 and SRES B2 and RCP4.5 and SRES B1. There remain large differences though in the transient trajectories, with rates of change slower or faster for the different pairs.
+
+
+  
+
+  insert SectionDoc
+
+
+    

@@ -1,0 +1,15 @@
+
+public: ar5-6.4.3.2
+name: Section 6.4.3.2
+title: 6.4.3.2 - Land Use Changes in Future Scenarios
+section 6_4_3_2
+
+  |{Glossary.*Earth_System_Model ESMs} and IAMs use a diversity of approaches for representing land use changes, including different land use classifications, parameter settings, and geographical scales. Among ESMs, and between IAMs and ESMs, assignment of meaningful {Topics.*Uncertainty uncertainty} ranges to present-day and future LULCC fluxes and states remains a critical knowledge gap with implications for compatible {Topics.*Emissions emissions} to achieve {Glossary.*Carbon_dioxide CO2} pathways.
+
+
+  
+
+  insert SectionDoc
+
+
+    

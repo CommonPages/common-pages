@@ -1,0 +1,15 @@
+
+public: ar5-10.3.1.2.1
+name: Section 10.3.1.2.1
+title: 10.3.1.2.1 - Tropospheric temperature change
+section 10_3_1_2_1
+
+  |It is virtually certain that globally the {Glossary.*Troposphere troposphere} has warmed since the mid-twentieth century. It is very unlikely that natural {Topics.*Radiative_Forcing forcings} alone could have caused the observed warming of tropospheric temperatures. Increasing {Glossary.*Greenhouse_gas GHGs} are the main cause for warming of the troposphere. This result is supported by a subsample of CMIP5 models that also suggest that the warming effect of well mixed GHGs is partly offset by the combined effects of reflecting aerosols and other forcings.
+
+
+  
+
+  insert SectionDoc
+
+
+    

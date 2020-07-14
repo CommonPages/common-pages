@@ -1,0 +1,26 @@
+
+public: ar5-12.3.2
+name: Section 12.3.2
+title: 12.3.2 - Implementation of Forcings in Coupled Model Intercomparison Project Phase 5 Experiments
+section 12_3_2
+
+  |The CMIP5 experimental protocol for long-term transient climate experiments prescribes a common basis for a comprehensive set of {Topics.*Radiative_Forcing anthropogenic forcing} agents acting as boundary conditions in three experimental phases—historical, {Glossary.*Representative_Concentration_Pathways RCPs} and ECPs. A novel feature within the CMIP5 experimental design is that experiments with prescribed {Glossary.*Anthropogenic anthropogenic} {Topics.*Emissions emissions} are included in addition to classical experiments with prescribed concentration pathways for {Topics.*The_Greenhouse_Effect WMGHGs}. Apart from the distinction between concentration-driven and emissions-driven protocols, a number of variations are present in the implementation of forcing agents listed in {'Table_12_1 Table 12.1}.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 12_3_2_1
+    - 12_3_2_2
+
+  name: Section 12.3.2 - Full Text
+  path FullText
+    name: Implementation of Forcings in Coupled Model Intercomparison Project Phase 5 Experiments
+    step
+      include
+        - Chapters.12.12_3.12_3_2.SectionDoc
+        - Chapters.12.12_3.12_3_2.12_3_2_1.SectionDoc
+        - Chapters.12.12_3.12_3_2.12_3_2_2.SectionDoc
+    

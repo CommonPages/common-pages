@@ -1,0 +1,37 @@
+
+public: ar5-3.3
+name: Section 3.3
+title: 3.3 - Changes in Salinity and Freshwater Content
+section 3_3
+
+  |Both positive and negative trends in ocean salinity and freshwater content have been observed throughout much of the ocean, both at the sea surface and in the ocean interior. While similar conclusions were reached in {cite.1.'IPCC_2007 AR4}, the recent studies summarized here, based on expanded data sets and new analysis approaches, provide high confidence in the assessment of trends in ocean salinity.
+
+
+  apply FullText
+
+  
+
+  include
+    - 3_3_1
+    - 3_3_2
+    - 3_3_3
+    - 3_3_4
+    - 3_3_5
+
+  name: Section 3.3 - Full Text
+  path FullText
+    name: Introduction
+    step
+      include
+        - Chapters.3.3_3.3_3_1.SectionDoc
+        - Chapters.3.3_3.3_3_2.SectionDoc
+        - Chapters.3.3_3.3_3_2.3_3_2_1.SectionDoc
+        - Chapters.3.3_3.3_3_2.3_3_2_2.SectionDoc
+        - Chapters.3.3_3.3_3_3.SectionDoc
+        - Chapters.3.3_3.3_3_3.3_3_3_1.SectionDoc
+        - Chapters.3.3_3.3_3_3.3_3_3_2.SectionDoc
+        - Chapters.3.3_3.3_3_3.3_3_3_3.SectionDoc
+        - Chapters.3.3_3.3_3_3.3_3_3_4.SectionDoc
+        - Chapters.3.3_3.3_3_4.SectionDoc
+        - Chapters.3.3_3.3_3_5.SectionDoc
+    

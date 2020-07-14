@@ -1,0 +1,15 @@
+
+public: ar5-7.4.4.4
+name: Section 7.4.4.4
+title: 7.4.4.4 - Advances in Process Level Understanding
+section 7_4_4_4
+
+  |Since {cite.1.'IPCC_2007 AR4}, research on ice-microphysical processes has been very active as evidenced by the abovementioned field experiments. Significant effort has been expended on heterogeneous freezing parameterizations employed in cloud or larger-scale models. Cloud resolving modeling of deep convective clouds points to the potential for {Glossary.*Aerosol aerosol}-related changes in cirrus anvils but the physical mechanisms involved and their influence on {Glossary.*Effective_radiative_forcing_due_to_aerosol_cloud_interactions ERFaci} are poorly understood, and their global impact is unclear.
+
+
+  
+
+  insert SectionDoc
+
+
+    

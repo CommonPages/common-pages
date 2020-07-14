@@ -1,0 +1,28 @@
+
+public: ar5-7.4.6
+name: Section 7.4.6
+title: 7.4.6 - Impact of Cosmic Rays on Aerosols and Clouds
+section 7_4_6
+
+  |Many studies have reported observations that link {Glossary.*Solar_activity solar activity} to particular aspects of the climate system. Various mechanisms have been proposed that could amplify relatively small variations in total solar irradiance, such as changes in stratospheric and tropospheric circulation induced by changes in the spectral solar irradiance or an effect of the flux of cosmic rays on clouds. Although some studies found statistically significant correlations between the cosmic ray flux and cloudiness at the regional scale, these correlations were generally weak. Correlations between cosmic ray flux and observed {Glossary.*Aerosol aerosol} or cloud properties do not prove to be robust.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 7_4_6_1
+    - 7_4_6_2
+    - 7_4_6_3
+
+  name: Section 7.4.6 - Full Text
+  path FullText
+    name: Impact of Cosmic Rays on Aerosols and Clouds
+    step
+      include
+        - Chapters.7.7_4.7_4_6.SectionDoc
+        - Chapters.7.7_4.7_4_6.7_4_6_1.SectionDoc
+        - Chapters.7.7_4.7_4_6.7_4_6_2.SectionDoc
+        - Chapters.7.7_4.7_4_6.7_4_6_3.SectionDoc
+    

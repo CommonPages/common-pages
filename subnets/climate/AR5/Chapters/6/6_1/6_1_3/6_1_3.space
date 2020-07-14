@@ -1,0 +1,25 @@
+
+public: ar5-6.1.3
+name: Section 6.1.3
+title: 6.1.3 - Connections Between Carbon and the Nitrogen and Oxygen Cycles
+section 6_1_3
+
+  |The biogeochemical cycles of nitrogen and carbon are tightly coupled. Before the Industrial Era, the creation of reactive nitrogen Nr occurred primarily through natural processes. During the last decades, the production of Nr by humans has been much greater than the natural production. Atmospheric oxygen is also tightly coupled with the global {Topics.*Carbon_Cycle carbon cycle}. As a consequence of the burning of fossil fuels, atmospheric O2 levels have been observed to decrease steadily over the last 20 years.
+
+
+  apply FullText
+
+  
+
+  include
+    - 6_1_3_1
+    - 6_1_3_2
+
+  name: Section 6.1.3 - Full Text
+  path FullText
+    name: Global Nitrogen Cycle Including Nitrous Oxide
+    step
+      include
+        - Chapters.6.6_1.6_1_3.6_1_3_1.SectionDoc
+        - Chapters.6.6_1.6_1_3.6_1_3_2.SectionDoc
+    

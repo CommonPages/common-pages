@@ -1,0 +1,29 @@
+
+public: ar5-6.4.8.2
+name: Section 6.4.8.2
+title: 6.4.8.2 - Other Biogeochemical Cycles and Processes Impacting Future Carbon Fluxes
+section 6_4_8_2
+
+  |Phosphorus, elevated surface {Glossary.*Ozone ozone}, iron deposition to oceans, and changes in the diffuse fraction of {Glossary.*Solar_radiation solar radiation} at the surface are discussed.
+
+
+  apply FullText
+
+  
+
+  include
+    - 6_4_8_2_1
+    - 6_4_8_2_2
+    - 6_4_8_2_3
+    - 6_4_8_2_4
+
+  name: Section 6.4.8.2 - Full Text
+  path FullText
+    name: Phosphorus
+    step
+      include
+        - Chapters.6.6_4.6_4_8.6_4_8_2.6_4_8_2_1.SectionDoc
+        - Chapters.6.6_4.6_4_8.6_4_8_2.6_4_8_2_2.SectionDoc
+        - Chapters.6.6_4.6_4_8.6_4_8_2.6_4_8_2_3.SectionDoc
+        - Chapters.6.6_4.6_4_8.6_4_8_2.6_4_8_2_4.SectionDoc
+    

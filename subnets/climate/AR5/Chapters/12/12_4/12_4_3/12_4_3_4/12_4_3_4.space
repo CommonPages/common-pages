@@ -1,0 +1,15 @@
+
+public: ar5-12.4.3.4
+name: Section 12.4.3.4
+title: 12.4.3.4 - Energy Budget
+section 12_4_3_4
+
+  |{Glossary.*Anthropogenic Anthropogenic} or natural perturbations to the climate system produce RFs that result in an imbalance in the global {Topics.*Radiation_Budgets energy budget} at the top of the {Topics.*Climate_System atmosphere} (TOA) and affect the {Topics.*Surface_Temperature global mean temperature} ({Chapters.12.12_3.12_3_3 Section 12.3.3}). CMIP5 models simulate a small increase of the energy imbalance at the TOA over the 20th century (see {Box_3_1 Box 3.1}, {Box_9_2 Box 9.2} and {Box_13_1 Box 13.1}). The future evolution of the imbalance is very different depending on the scenario ({'Figure_12_15 Figure 12.15}a).
+
+
+  
+
+  insert SectionDoc
+
+
+    

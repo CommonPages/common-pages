@@ -1,0 +1,15 @@
+
+public: ar5-7.2.2.2
+name: Section 7.2.2.2
+title: 7.2.2.2 - Global Models with Explicit Clouds
+section 7_2_2_2
+
+  |Since {cite.1.'IPCC_2007 AR4}, increasing computer power has led to three types of developments in global atmospheric models. First, models have been run with {Glossary.*Resolution resolution} that is higher than in the past, but not sufficiently high that cumulus clouds can be resolved explicitly. Second, models have been run with resolution high enough to resolve (or ‘permit’) large individual cumulus clouds over the entire globe. In a third approach, the parameterizations of global models have been replaced by embedded CRMs.
+
+
+  
+
+  insert SectionDoc
+
+
+    

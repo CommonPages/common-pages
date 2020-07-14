@@ -1,0 +1,15 @@
+
+public: ar5-10.3.3.2
+name: Section 10.3.3.2
+title: 10.3.3.2 - Northern Annular Mode/North Atlantic Oscillation
+section 10_3_3_2
+
+  |The positive {Glossary.*Trend trend} in the North Atlantic Oscillation ({Glossary.*North_Atlantic_Oscillation NAO}) discussed in the {cite.1.'IPCC_2007 AR4} has considerably weakened when evaluated up to 2011. Similar results apply to the closely related Northern Annular Mode ({Glossary.*Northern_Annular_Mode NAM}), with its upward trend over the past 60 years. While the circulation response to {Topics.*Radiative_Forcing anthropogenic forcing} may project onto the NAM, it is not entirely captured by the NAM index. Consistent with previous findings, a new study confirms that {Glossary.*Greenhouse_gas GHGs} tend to drive a positive NAM response in the CMIP5 models.
+
+
+  
+
+  insert SectionDoc
+
+
+    

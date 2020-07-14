@@ -1,0 +1,28 @@
+
+public: ar5-7.5.2
+name: Section 7.5.2
+title: 7.5.2 - Estimates of Radiative Forcing and Effective Radiative Forcing from Aerosol–Radiation Interactions
+section 7_5_2
+
+  |Observations can give useful constraints to aspects of the global {Glossary.*Radiative_forcing_due_to_aerosol_radiation_interactions RFari} but cannot measure it directly. To derive a best estimate and range for RFari we combine modelling and observationally based studies. {Glossary.*Effective_radiative_forcing_due_to_aerosol_radiation_interactions ERFari} adds the radiative effects from rapid adjustments onto RFari. The {Topics.*Uncertainty uncertainties} are added in quadrature to the estimate of RFari and rounded to give an overall assessment for ERFari. The species breakdown of RFari is less certain than the total RFari.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 7_5_2_1
+    - 7_5_2_2
+    - 7_5_2_3
+
+  name: Section 7.5.2 - Full Text
+  path FullText
+    name: Estimates of Radiative Forcing and Effective Radiative Forcing from Aerosol–Radiation Interactions
+    step
+      include
+        - Chapters.7.7_5.7_5_2.SectionDoc
+        - Chapters.7.7_5.7_5_2.7_5_2_1.SectionDoc
+        - Chapters.7.7_5.7_5_2.7_5_2_2.SectionDoc
+        - Chapters.7.7_5.7_5_2.7_5_2_3.SectionDoc
+    

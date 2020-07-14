@@ -1,0 +1,31 @@
+
+public: ar5-6.1
+name: Section 6.1
+title: 6.1 - Introduction
+section 6_1
+
+  |This chapter summarizes the scientific understanding of atmospheric budgets, variability and trends of the three major biogeochemical greenhouse gases, {Glossary.*Carbon_dioxide CO2}, {Glossary.*Methane_CH4 CH4} and {Glossary.*Nitrous_oxide_N2O N2O}.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 6_1_1
+    - 6_1_2
+    - 6_1_3
+
+  name: Section 6.1 - Full Text
+  path FullText
+    name: Introduction
+    step
+      include
+        - Chapters.6.6_1.SectionDoc
+        - Chapters.6.6_1.6_1_1.6_1_1_1.SectionDoc
+        - Chapters.6.6_1.6_1_1.6_1_1_2.SectionDoc
+        - Chapters.6.6_1.6_1_2.6_1_2_1.SectionDoc
+        - Chapters.6.6_1.6_1_2.6_1_2_2.SectionDoc
+        - Chapters.6.6_1.6_1_3.6_1_3_1.SectionDoc
+        - Chapters.6.6_1.6_1_3.6_1_3_2.SectionDoc
+    

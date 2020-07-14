@@ -1,0 +1,25 @@
+
+public: ar5-6.2.3
+name: Section 6.2.3
+title: 6.2.3 - Greenhouse Gas Changes over the Last Millennium
+section 6_2_3
+
+  |Atmospheric {Glossary.*Carbon_dioxide CO2} during the last millennium varied with a drop in atmospheric CO2 concentration around year 1600, followed by a CO2 increase during the 17th century. Recent high-{Glossary.*Resolution resolution} {Glossary.*Ice_core ice core} records confirm a {Glossary.*Methane_CH4 CH4} decrease in the late 16th century.
+
+
+  apply FullText
+
+  
+
+  include
+    - 6_2_3_1
+    - 6_2_3_2
+
+  name: Section 6.2.3 - Full Text
+  path FullText
+    name: A Decrease of Carbon Dioxide around Year 1600 and Possible Explanations for this Event
+    step
+      include
+        - Chapters.6.6_2.6_2_3.6_2_3_1.SectionDoc
+        - Chapters.6.6_2.6_2_3.6_2_3_2.SectionDoc
+    

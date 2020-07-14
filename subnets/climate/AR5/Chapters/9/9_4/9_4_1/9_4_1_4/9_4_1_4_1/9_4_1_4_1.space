@@ -1,0 +1,15 @@
+
+public: ar5-9.4.1.4.1
+name: Section 9.4.1.4.1
+title: 9.4.1.4.1 - Global surface temperature
+section 9_4_1_4_1
+
+  |{'Figure_9_8 Figure 9.8} compares the observational record of 20th century changes in global {Topics.*Surface_Temperature surface temperature} to that simulated by each CMIP5 and {Glossary.*Earth_System_Model_of_Intermediate_Complexity EMIC} model. The gradual warming evident in the observational record, particularly in the more recent decades, is also evident in the simulations, with the multi-model mean tracking the observed value closely over most of the century, and individual model results departing by less than about 0.5°C.
+
+
+  
+
+  insert SectionDoc
+
+
+    

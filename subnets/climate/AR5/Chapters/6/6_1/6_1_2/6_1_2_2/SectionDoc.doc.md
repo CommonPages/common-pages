@@ -1,0 +1,8 @@
+index: hide
+public: ar5-
+name: Section 6.1.2.2
+title: 6.1.2.2 - Methane Cycle
+
+After 1750, atmospheric {Glossary.*Methane_CH4 CH4} levels rose almost exponentially with time, reaching 1650 ppb by the mid-1980s and 1803 ppb by 2011. Between the mid-1980s and the mid-2000s the atmospheric growth of CH4 declined to nearly zero (see {Chapters.6.6_3.6_3_3.6_3_3_1 Section 6.3.3.1}, see also {Chapters.2 Chapter 2}). More recently since 2006, atmospheric CH4 is observed to increase again ({cite.6.'Rigby_et_al_2008}); however, it is unclear if this is a short-term fluctuation or a new regime for the CH4 cycle ({cite.6.'Dlugokencky_et_al_2009}).
+
+There is very high level of confidence that the atmospheric CH4 increase during the Industrial Era is caused by {Glossary.*Anthropogenic anthropogenic} activities. The massive increase in the number of ruminants ({cite.6.'Barnosky_2008}), the {Topics.*Emissions emissions} from fossil fuel extraction and use, the expansion of rice paddy agriculture and the emissions from landfills and waste are the dominant anthropogenic CH4 sources. Total anthropogenic sources contribute at present between 50 and 65% of the total CH4 sources (see {Chapters.6.6_3.6_3_3 Section 6.3.3}). The dominance of CH4 emissions located mostly in the NH (wetlands and anthropogenic emissions) is evidenced by the observed positive north–south gradient in CH4 concentrations ({'Figure_6_3 Figure 6.3}). Satellite-based CH4 concentration measurements averaged over the entire atmospheric column also indicate higher concentrations of CH4 above and downwind of densely populated and intensive agriculture areas where anthropogenic emissions occur ({cite.6.'Frankenberg_et_al_2011}).

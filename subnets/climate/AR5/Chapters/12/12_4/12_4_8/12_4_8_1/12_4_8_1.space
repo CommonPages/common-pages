@@ -1,0 +1,15 @@
+
+public: ar5-12.4.8.1
+name: Section 12.4.8.1
+title: 12.4.8.1 - Carbon Dioxide
+section 12_4_8_1
+
+  |As presented in {Chapters.12.12_3 Section 12.3}, the CMIP5 experimental design includes experiments driven either by {Topics.*Emissions emissions} or concentration. {'Figure_12_36 Figure 12.36} shows the simulated atmospheric {Glossary.*Carbon_dioxide CO2} and global average surface air temperature warming for the {Glossary.*RCP8_5 RCP8.5} emission driven simulations from the CMIP5 {Glossary.*Earth_System_Model ESMs}, compared to the concentration driven simulations from the same models. Global warming simulated by the E-driven runs show higher upper ends than when atmospheric CO2 concentration is prescribed.
+
+
+  
+
+  insert SectionDoc
+
+
+    

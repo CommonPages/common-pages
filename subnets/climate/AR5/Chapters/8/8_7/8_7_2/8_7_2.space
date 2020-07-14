@@ -1,0 +1,33 @@
+
+public: ar5-8.7.2
+name: Section 8.7.2
+title: 8.7.2 - Application of Metrics
+section 8_7_2
+
+  |Updated (A){Glossary.*Global_Warming_Potential GWP} and (A)GTP values for {Topics.*The_Greenhouse_Effect WMGHGs} are given in {'Table_8_7 Tables 8.7}, 8.A.1. {'Figure_8_32 Figure 8.32} shows global {Glossary.*Anthropogenic anthropogenic} {Topics.*Emissions emissions} of some selected components weighted by the GWP and GTP. These metrics are given for NTCFs in Table 8.A.3. {Topics.*Radiative_Forcing RF} per sector is also discussed.
+
+
+  apply FullText
+
+  
+
+  include
+    - 8_7_2_1
+    - 8_7_2_2
+    - 8_7_2_3
+    - 8_7_2_4
+
+  name: Section 8.7.2 - Full Text
+  path FullText
+    name: Metrics for Carbon Dioxide, Methane, Nitrous Oxide, Halocarbons and Related Compounds
+    step
+      include
+        - Chapters.8.8_7.8_7_2.8_7_2_1.SectionDoc
+        - Chapters.8.8_7.8_7_2.8_7_2_2.SectionDoc
+        - Chapters.8.8_7.8_7_2.8_7_2_2.8_7_2_2_1.SectionDoc
+        - Chapters.8.8_7.8_7_2.8_7_2_2.8_7_2_2_2.SectionDoc
+        - Chapters.8.8_7.8_7_2.8_7_2_2.8_7_2_2_3.SectionDoc
+        - Chapters.8.8_7.8_7_2.8_7_2_2.8_7_2_2_4.SectionDoc
+        - Chapters.8.8_7.8_7_2.8_7_2_3.SectionDoc
+        - Chapters.8.8_7.8_7_2.8_7_2_4.SectionDoc
+    

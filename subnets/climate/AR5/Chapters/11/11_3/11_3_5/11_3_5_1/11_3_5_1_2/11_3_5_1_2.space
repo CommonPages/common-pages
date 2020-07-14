@@ -1,0 +1,15 @@
+
+public: ar5-11.3.5.1.2
+name: Section 11.3.5.1.2
+title: 11.3.5.1.2 - Tropospheric and stratospheric O3
+section 11_3_5_1_2
+
+  |By 2100 tropospheric O3 decreases in {Glossary.*RCP2_6 RCP2.6}, 4.5 and 6.0 but increases in {Glossary.*RCP8_5 RCP8.5} due to {Glossary.*Methane_CH4 CH4} increases. Tropospheric O3 changes in the near term (2030–2040) are small, except for RCP8.5, which shows continued growth through to 2100 driven primarily by CH4 increases. Overall stratospheric O3 is expected to increase in the coming decades. By 2100 stratospheric O3 columns show a 5 to 7% increase above 2000 levels for all {Glossary.*Representative_Concentration_Pathways RCPs}, recovering to within 1% of the pre-{Glossary.*Ozone ozone} hole 1980 levels by 2050.
+
+
+  
+
+  insert SectionDoc
+
+
+    

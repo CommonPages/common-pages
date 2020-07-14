@@ -1,0 +1,15 @@
+
+public: ar5-8.2.2
+name: Section 8.2.2
+title: 8.2.2 - Global Chemistry Modelling in Coupled Model Intercomparison Project Phase 5
+section 8_2_2
+
+  |To assess the distributions of chemical species and their respective {Topics.*Radiative_Forcing RF}, many research groups participated in the Atmospheric Chemistry and Climate {Topics.*Model_Intercomparison Model Intercomparison} Project (ACCMIP). The ACCMIP simulations were defined to provide information on the long-term changes in atmospheric composition with a few, well-defined atmospheric simulations. They provide an estimate of the {Topics.*Uncertainty uncertainty} due to range of representation of physical and chemical processes in models, but do not incorporate uncertainty in {Topics.*Emissions emissions}.
+
+
+  
+
+  insert SectionDoc
+
+
+    

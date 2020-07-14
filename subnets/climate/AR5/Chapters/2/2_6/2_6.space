@@ -1,0 +1,34 @@
+
+public: ar5-2.6
+name: Section 2.6
+title: 2.6 - Changes in Extreme Events
+section 2_6
+
+  |{cite.1.'IPCC_2007 AR4} highlighted the importance of understanding changes in extreme climate events because of their disproportionate impact on society and ecosystems compared to changes in mean climate. New analyses continue to support the AR4 and SREX conclusions that since about 1950 it is very likely that the numbers of {Topics.*Extreme_Events cold days and nights} have decreased and the numbers of warm days and nights have increased overall on the global scale. It is unlikely that annual numbers of tropical storms, hurricanes and major hurricanes counts have increased over the past 100 years in the North Atlantic basin. It is virtually certain, however that there has been an increase in the frequency and intensity of the strongest tropical cyclones since the 1970s in that {Topics.*Regional_Climate region}.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 2_6_1
+    - 2_6_2
+    - 2_6_3
+    - 2_6_4
+
+  name: Section 2.6 - Full Text
+  path FullText
+    name: Changes in Extreme Events
+    step
+      include
+        - Chapters.2.2_6.SectionDoc
+        - Chapters.2.2_6.2_6_1.SectionDoc
+        - Chapters.2.2_6.2_6_2.SectionDoc
+        - Chapters.2.2_6.2_6_2.2_6_2_1.SectionDoc
+        - Chapters.2.2_6.2_6_2.2_6_2_2.SectionDoc
+        - Chapters.2.2_6.2_6_2.2_6_2_3.SectionDoc
+        - Chapters.2.2_6.2_6_2.2_6_2_4.SectionDoc
+        - Chapters.2.2_6.2_6_3.SectionDoc
+        - Chapters.2.2_6.2_6_4.SectionDoc
+    

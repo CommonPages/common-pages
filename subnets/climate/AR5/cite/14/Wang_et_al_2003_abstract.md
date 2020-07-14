@@ -1,0 +1,27 @@
+index: hide
+
+<div class="Citation">
+    <div class="Citation-thumb CitationThumb-linked"  data-href="http://cel.webofknowledge.com/InboundService.do?customersID=atyponcel&smartRedirect=yes&mode=FullRecord&IsProductCode=Yes&product=CEL&Init=Yes&Func=Frame&action=retrieve&SrcApp=literatum&SrcAuth=atyponcel&SID=7CNc3cIRaBKjGbSujFM&UT=WOS:000182108000006">
+      <img src="https://static.claimspace.cloud/climate-study-static/refs/thumbs/14/Wang_et_al_2003-thumb.png" />
+    </div>
+
+  <div class="Citation-body">
+    <div class="Citation-text">Wang, B. and Wu, R. G. and Li, T., 2003: Atmosphere-warm ocean interaction and its impacts on Asian-Australian monsoon variation. <span class="Article-journal">Journal of Climate, </span><span class="Article-volume">16, </span>1195-1211pp.</div>
+    <div class="Citation-links">
+      <div class="CitationLink" data-href="http://cel.webofknowledge.com/InboundService.do?customersID=atyponcel&smartRedirect=yes&mode=FullRecord&IsProductCode=Yes&product=CEL&Init=Yes&Func=Frame&action=retrieve&SrcApp=literatum&SrcAuth=atyponcel&SID=7CNc3cIRaBKjGbSujFM&UT=WOS:000182108000006">
+        <div class="CitationLink-icon CitationLink-Isi"></div>
+        <div class="CitationLink-text">Web of Science</div>
+      </div>
+      <div class="CitationLink" data-href="https://scholar.google.com/scholar?q=Atmosphere-warm+ocean+interaction+and+its+impacts+on+Asian-Australian+monsoon+variation">
+        <div class="CitationLink-icon CitationLink-Scholar"></div>
+        <div class="CitationLink-text">Google Scholar</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+Asian-Australian monsoon (A-AM) anomalies depend strongly on phases of El Nino (La Nina). Based on this distinctive feature, a method of extended singular value decomposition analysis was developed to analyze the changing characteristics of A-AM anomalies during El Nino (La Nina) from its development to decay. Two off-equatorial surface anticyclones dominate the A-AM anomalies during an El Nino one over the south Indian Ocean ( SIO) and the other over the western North Pacific ( WNP). The SIO anticyclone, which affects climate conditions over the Indian Ocean, eastern Africa, and India, originates during the summer of a growing El Nino, rapidly reaches its peak intensity in fall, and decays when El Nino matures. The WNP anticyclone, on the other hand, forms in fall, attains maximum intensity after El Nino matures, and persists through the subsequent spring and summer, providing a prolonged impact on the WNP and east Asian climate. The monsoon anomalies associated with a La Nina resemble those during an El Nino but with cyclonic anomalies. From the development summer to the decay summer of an El Nino (La Nina), the anomalous sea level pressure, low-level winds, and vertical motion tend to reverse their signs in the equatorial Indian and western Pacific Oceans (10degreesS- 20degreesN, 40degrees-160degreesE). This suggests that the tropospheric biennial oscillation is intimately linked to the turnabouts of El Nino and La Nina.  The remote El Nino forcing alone can explain neither the unusual amplification of the SIO anticyclone during a developing El Nino nor the maintenance of the WNP anticyclone during a decaying El Nino. The atmosphere-ocean conditions in the two anticyclone regions are similar, namely, a zonal sea surface temperature ( SST) dipole with cold water to the east and warm water to the west of the anticyclone center. These conditions result from positive feedback between the anomalous anticyclone and the SST dipole, which intensifies the coupled mode in the SIO during El Nino growth and maintains the coupled mode in the WNP during El Nino decay. The interactions in the two anticyclone regions share common wind evaporation/entrainment and cloud-radiation feedback processes but they differ with regard to the oceanic dynamics ( vertical and horizontal advection and thermocline adjustment by oceanic waves). The outcome of the interactions in both regions, however, depends crucially on the climatological surface winds. The SIO-coupled mode is triggered by El Nino-induced subsidence and alongshore winds off the coast of Sumatra. However, other independent El Nino local and remote forcing can also trigger this coupled mode.  The traditional view has regarded SST anomalies in the Indian and western Pacific Oceans as causing the A-AM variability. The present analysis suggests that the SST anomalies in these warm ocean regions are, to a large extent, a result of anomalous monsoons. Thus, the atmosphere-warm ocean interaction may significantly modify the impacts of remote El Nino forcing and should be regarded as one of the physical factors that determine the variability of the A-AM.  During the summer of El Nino development, the remote El Nino forcing plays a major role in the A-AM anomalies that exhibit obvious equatorial asymmetry. A tilted anticyclonic ridge originates in the Maritime Continent and extends to southern India, weakening the Indian monsoon while strengthening the WNP monsoon. Numerical modeling experiments suggest that the mean monsoon circulation enhances the equatorial Rossby wave response in the easterly vertical shear region of the Northern Hemisphere and creates the equatorial asymmetry.
+
+<div class="Citation-copy">
+
+</div>

@@ -1,0 +1,26 @@
+
+public: ar5-1.5
+name: Section 1.5
+title: 1.5 - Advances in Measurement and Modelling Capabilities
+section 1_5
+
+  |Since {cite.1.'IPCC_2007 AR4}, measurement capabilities have continued to advance. Progress has also been made with regard to observation of terrestrial Essential Climate Variables. Several developments have pushed the capabilities in modelling forward over recent years, following progress in the understanding of physical processes within the climate system.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 1_5_1
+    - 1_5_2
+
+  name: Section 1.5 - Full Text
+  path FullText
+    name: Advances in Measurement and Modelling Capabilities
+    step
+      include
+        - Chapters.1.1_5.SectionDoc
+        - Chapters.1.1_5.1_5_1.SectionDoc
+        - Chapters.1.1_5.1_5_2.SectionDoc
+    

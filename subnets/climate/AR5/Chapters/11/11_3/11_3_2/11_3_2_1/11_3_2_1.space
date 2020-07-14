@@ -1,0 +1,25 @@
+
+public: ar5-11.3.2.1
+name: Section 11.3.2.1
+title: 11.3.2.1 - Surface Temperature
+section 11_3_2_1
+
+  |{'Figure_11_9 Figure 11.9} (a) and (b) show CMIP5 {Topics.*Climate_Projections projections} of global mean surface air temperature under RCP4.5. The projected anomaly for the period 2016–2035 is 0.47°C to 1.00°C. It is very likely that {Glossary.*Anthropogenic anthropogenic} warming of surface air temperature over the next few decades will proceed more rapidly over land areas than over oceans, and that the warming over the Arctic in winter will be greater than the global mean warming over the same period.
+
+
+  apply FullText
+
+  
+
+  include
+    - 11_3_2_1_1
+    - 11_3_2_1_2
+
+  name: Section 11.3.2.1 - Full Text
+  path FullText
+    name: Global mean surface air temperature
+    step
+      include
+        - Chapters.11.11_3.11_3_2.11_3_2_1.11_3_2_1_1.SectionDoc
+        - Chapters.11.11_3.11_3_2.11_3_2_1.11_3_2_1_2.SectionDoc
+    

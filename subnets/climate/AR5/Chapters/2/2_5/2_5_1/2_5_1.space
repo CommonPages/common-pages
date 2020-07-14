@@ -1,0 +1,27 @@
+
+public: ar5-2.5.1
+name: Section 2.5.1
+title: 2.5.1 - Large-Scale Changes in Precipitation
+section 2_5_1
+
+  |{cite.1.'IPCC_2007 AR4} concluded that precipitation has generally increased over land north of 30°N over the period 1900–2005 but downward trends dominate the tropics since the 1970s. The overall linear {Glossary.*Trend trend} from 1900 to 2005 was positive but not statistically significant. Since AR4, existing data sets have been updated and a new data set developed, but confidence in precipitation change averaged over global land areas remains low.
+
+
+  apply FullText
+
+  
+
+  include
+    - 2_5_1_1
+    - 2_5_1_2
+    - 2_5_1_3
+
+  name: Section 2.5.1 - Full Text
+  path FullText
+    name: Global Land Areas
+    step
+      include
+        - Chapters.2.2_5.2_5_1.2_5_1_1.SectionDoc
+        - Chapters.2.2_5.2_5_1.2_5_1_2.SectionDoc
+        - Chapters.2.2_5.2_5_1.2_5_1_3.SectionDoc
+    

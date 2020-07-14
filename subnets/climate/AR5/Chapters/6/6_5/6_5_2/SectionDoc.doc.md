@@ -1,0 +1,10 @@
+index: hide
+public: ar5-
+name: Section 6.5.2
+title: 6.5.2 - Carbon Cycle Processes Involved in Carbon Dioxide Removal Methods
+
+The {Glossary.*Carbon_Dioxide_Removal CDR} methods listed in {'Table_6_14 Table 6.14} rely primarily on human management of {Topics.*Carbon_Cycle carbon cycle} processes to remove {Glossary.*Carbon_dioxide CO2}: (1) enhanced net biological {Glossary.*Uptake uptake} and subsequent {Glossary.*Sequestration sequestration} by land ecosystems, (2) enhanced biological production in ocean and subsequent sequestration in the ocean and (3) accelerated chemical {Glossary.*Weathering weathering} reactions over land and ocean. The exceptional CDR method is industrial {Glossary.*Direct_Air_Capture direct air capture} of CO2, for example, relying on chemistry methods. CO2 removed by CDR is expected to be stored in organic form on land and in inorganic form in ocean and geological reservoirs ({'Table_6_14 Table 6.14}). This management of the carbon cycle however has other implications on ecosystems and biogeochemical cycles. The principle of different CDR methods listed in {'Table_6_14 Table 6.14} is described below and the characteristics of some CDR methods are summarized in {'Table_6_15 Table 6.15}.
+
+{table:'Table_6_15}
+
+Some of the RCP {Topics.*Scenarios scenarios} used as a basis for future {Topics.*Climate_Projections projections} in this Assessment Report already include some CDR methods. To achieve the {Glossary.*RCP2_6 RCP2.6} CO2 peak and decline the IMAGE integrated assessment model simulates widespread implementation of BECCS technology to achieve globally negative {Topics.*Emissions emissions} after around 2080 (see {Chapters.6.6_4.6_4_3 Section 6.4.3}). RCP4.5 also assumes some use of BECCS to stabilise CO2 concentration by 2100. Therefore it should be noted that potentials for CDR assessed in this section cannot be seen as additional potential for CO2 removal from the low {Glossary.*Representative_Concentration_Pathways RCPs} as this is already included in those scenarios.

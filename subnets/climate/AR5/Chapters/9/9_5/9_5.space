@@ -1,0 +1,51 @@
+
+public: ar5-9.5
+name: Section 9.5
+title: 9.5 - Simulation of Variability and Extremes
+section 9_5
+
+  |The ability to simulate {Topics.*Climate_Variability climate variability}, both unforced internal variability and forced variability is an important complement to simulations of mean climate. This has implications for {Glossary.*Detection_and_Attribution detection} and {Topics.*Attribution_of_Change attribution studies}, as well as {Topics.*Climate_Projections projections} of {Topics.*Extreme_Events extreme events} under a warming climate. Most modes of interannual to interdecadal variability are now present in {Topics.*Climate_Modelling climate models}. The global distribution of temperature extremes appear to be represented well by CMIP3 and CMIP5 models. CMIP5 models tend to simulate more more realistic precipitation extremes than CMIP3. Year-to-year count variability of Atlantic hurricanes seem to be well simulated by modestly high {Glossary.*Resolution resolution} AGCMs forced by observed SSTs.
+
+
+  apply FullText
+
+  
+
+  include
+    - 9_5_1
+    - 9_5_2
+    - 9_5_3
+    - 9_5_4
+
+  name: Section 9.5 - Full Text
+  path FullText
+    name: Importance of Simulating Climate Variability
+    step
+      include
+        - Chapters.9.9_5.9_5_1.SectionDoc
+        - Chapters.9.9_5.9_5_2.9_5_2_1.SectionDoc
+        - Chapters.9.9_5.9_5_2.9_5_2_2.SectionDoc
+        - Chapters.9.9_5.9_5_2.9_5_2_3.SectionDoc
+        - Chapters.9.9_5.9_5_2.9_5_2_4.SectionDoc
+        - Chapters.9.9_5.9_5_3.SectionDoc
+        - Chapters.9.9_5.9_5_3.9_5_3_1.SectionDoc
+        - Chapters.9.9_5.9_5_3.9_5_3_2.SectionDoc
+        - Chapters.9.9_5.9_5_3.9_5_3_3.9_5_3_3_1.SectionDoc
+        - Chapters.9.9_5.9_5_3.9_5_3_3.9_5_3_3_2.SectionDoc
+        - Chapters.9.9_5.9_5_3.9_5_3_3.9_5_3_3_3.SectionDoc
+        - Chapters.9.9_5.9_5_3.9_5_3_4.9_5_3_4_1.SectionDoc
+        - Chapters.9.9_5.9_5_3.9_5_3_4.9_5_3_4_2.SectionDoc
+        - Chapters.9.9_5.9_5_3.9_5_3_4.9_5_3_4_3.SectionDoc
+        - Chapters.9.9_5.9_5_3.9_5_3_5.SectionDoc
+        - Chapters.9.9_5.9_5_3.9_5_3_5.9_5_3_5_1.SectionDoc
+        - Chapters.9.9_5.9_5_3.9_5_3_5.9_5_3_5_2.SectionDoc
+        - Chapters.9.9_5.9_5_3.9_5_3_6.SectionDoc
+        - Chapters.9.9_5.9_5_3.9_5_3_7.SectionDoc
+        - Chapters.9.9_5.9_5_3.9_5_3_8.SectionDoc
+        - Chapters.9.9_5.9_5_4.SectionDoc
+        - Chapters.9.9_5.9_5_4.9_5_4_1.SectionDoc
+        - Chapters.9.9_5.9_5_4.9_5_4_2.SectionDoc
+        - Chapters.9.9_5.9_5_4.9_5_4_3.SectionDoc
+        - Chapters.9.9_5.9_5_4.9_5_4_4.SectionDoc
+        - Chapters.9.9_5.9_5_4.9_5_4_5.SectionDoc
+    

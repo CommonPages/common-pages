@@ -1,0 +1,6 @@
+index: hide
+public: ar5-
+name: Section 8.4.1.4.1
+title: 8.4.1.4.1 - Impacts of ultraviolet variations on the stratosphere
+
+{Glossary.*Ozone Ozone} is the main gas involved in stratospheric radiative heating. Ozone production rate variations are largely due to solar UV irradiance changes ({cite.8.'HAIGH_1994}), with observations showing statistically significant variations in the upper {Glossary.*Stratosphere stratosphere} of 2 to 4% along the SC ({cite.8.'Soukharev_and_Hood_2006}). UV variations may also produce transport-induced ozone changes due to indirect effects on circulation ({cite.8.'Shindell_et_al_2006b}). In addition, statistically significant evidence for an 11-year variation in stratospheric temperature and zonal winds is {Topics.*Attribution_of_Change attributed} to UV radiation ({cite.8.'Frame_and_Gray_2010}). The direct UV heating of the background ozone is dominant and over twice as large as the ozone heating in the upper stratosphere and above, while indirect solar and {Glossary.*Terrestrial_radiation terrestrial radiation} through the SC-induced ozone change is dominant below about 5 hPa ({cite.8.'Shibata_and_Kodera_2005}). The {Topics.*Radiative_Forcing RF} due to solar-induced ozone changes is a small fraction of the solar RF discussed in {Chapters.8.8_4.8_4_1.8_4_1_1 Section 8.4.1.1} ({cite.8.'Gray_et_al_2009}).

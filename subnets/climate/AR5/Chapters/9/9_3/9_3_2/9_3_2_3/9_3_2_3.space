@@ -1,0 +1,15 @@
+
+public: ar5-9.3.2.3
+name: Section 9.3.2.3
+title: 9.3.2.3 - Relationship of Decadal and Longer-Term Simulations
+section 9_3_2_3
+
+  |The CMIP5 archive also includes a new class of decadal-{Topics.*Climate_Predictions prediction} experiments. The goal is to understand the relative roles of forced changes and {Topics.*Climate_Variability internal variability} in historical and near-term climate variables, and to assess the {Glossary.*Predictability predictability} that might be realized on decadal time scales. The same physical models are often used for both the short-term and long-term experiments.
+
+
+  
+
+  insert SectionDoc
+
+
+    

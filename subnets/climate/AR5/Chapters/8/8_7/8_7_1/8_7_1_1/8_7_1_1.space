@@ -1,0 +1,15 @@
+
+public: ar5-8.7.1.1
+name: Section 8.7.1.1
+title: 8.7.1.1 - Introduction
+section 8_7_1_1
+
+  |To quantify and compare the climate impacts of various {Topics.*Emissions emissions}, it is necessary to choose a climate parameter by which to measure the effects. This section provides an assessment that focuses on the scientific aspects and utility of emission metrics. We focus on the more well-known Global Warming Potential ({Glossary.*Global_Warming_Potential GWP}) and Global Temperature change Potential (GTP), though other concepts are also briefly discussed.
+
+
+  
+
+  insert SectionDoc
+
+
+    

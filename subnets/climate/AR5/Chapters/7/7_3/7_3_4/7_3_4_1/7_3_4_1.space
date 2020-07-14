@@ -1,0 +1,15 @@
+
+public: ar5-7.3.4.1
+name: Section 7.3.4.1
+title: 7.3.4.1 - Radiative Effects due to Aerosol–Radiation Interactions
+section 7_3_4_1
+
+  |The {Glossary.*Radiative_effect radiative effect} due to {Glossary.*Aerosol aerosol}–radiation interactions (REari), formerly known as direct radiative effect, is the change in radiative flux caused by the combined scattering and absorption of radiation by {Glossary.*Anthropogenic anthropogenic} and natural aerosols. Our knowledge of aerosol and environmental characteristics needed to quantify the REari at the global scale remains incomplete.
+
+
+  
+
+  insert SectionDoc
+
+
+    

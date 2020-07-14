@@ -1,0 +1,15 @@
+
+public: ar5-8.1.2
+name: Section 8.1.2
+title: 8.1.2 - Calculation of Radiative Forcing due to Concentration or Emission Changes
+section 8_1_2
+
+  |RF or {Glossary.*Effective_radiative_forcing ERF} estimates provide valuable insight into the relative and absolute contribution of various drivers to historical climate change. {Topics.*Scenarios Scenarios} of changing future {Topics.*Emissions emissions} and land use are also developed based on various assumptions about socioeconomic trends and societal choices. The {Topics.*Radiative_Forcing forcing} resulting from such scenarios is used to understand the drivers of potential future climate changes.
+
+
+  
+
+  insert SectionDoc
+
+
+    

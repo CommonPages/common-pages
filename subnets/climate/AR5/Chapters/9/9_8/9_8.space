@@ -1,0 +1,27 @@
+
+public: ar5-9.8
+name: Section 9.8
+title: 9.8 - Relating Model Performance to Credibility of Model Applications
+section 9_8
+
+  |Confidence in {Topics.*Climate_Projections climate model projections} is based on physical understanding of the climate system and its representation in {Topics.*Climate_Modelling climate models}, and on a demonstration of how well models represent a wide range of processes and climate characteristics on various {Glossary.*Spatial_and_temporal_scales spatial and temporal scales}. The models display a range of abilities to simulate climate characteristics, underlying processes, and phenomena. {'Figure_9_44 Figure 9.44} illustrates slight improvements in the representation of some of the modes of variability and climate phenomena, suggesting with medium confidence that models now better reproduce {Topics.*Climate_Variability internal variability}.
+
+
+  apply FullText
+
+  
+
+  include
+    - 9_8_1
+    - 9_8_2
+    - 9_8_3
+
+  name: Section 9.8 - Full Text
+  path FullText
+    name: Synthesis Assessment of Model Performance
+    step
+      include
+        - Chapters.9.9_8.9_8_1.SectionDoc
+        - Chapters.9.9_8.9_8_2.SectionDoc
+        - Chapters.9.9_8.9_8_3.SectionDoc
+    

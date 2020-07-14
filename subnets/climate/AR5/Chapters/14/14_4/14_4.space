@@ -1,0 +1,30 @@
+
+public: ar5-14.4
+name: Section 14.4
+title: 14.4 - El Niño-Southern Oscillation
+section 14_4
+
+  |The El Niño-{Glossary.*Southern_Oscillation Southern Oscillation} ({Glossary.*El_Nin_o_Southern_Oscillation ENSO}) is a coupled ocean–{Topics.*Climate_System atmosphere} phenomenon naturally occurring at the interannual time scale over the tropical Pacific. ENSO shows considerable inter-decadal modulations in amplitude and spatial pattern within the instrumental record. Models without changes in {Topics.*Radiative_Forcing external forcing} display similar modulations, and there is little consensus on whether the observed changes in ENSO are due to {Glossary.*External_forcing external forcing} or natural variability. There is high confidence that ENSO will remain the dominant mode of interannual variability with global influences in the 21st century, and due to changes in moisture availability ENSO-induced rainfall variability on regional scales will intensify.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 14_4_1
+    - 14_4_2
+    - 14_4_3
+    - 14_4_4
+
+  name: Section 14.4 - Full Text
+  path FullText
+    name: El Niño-Southern Oscillation
+    step
+      include
+        - Chapters.14.14_4.SectionDoc
+        - Chapters.14.14_4.14_4_1.SectionDoc
+        - Chapters.14.14_4.14_4_2.SectionDoc
+        - Chapters.14.14_4.14_4_3.SectionDoc
+        - Chapters.14.14_4.14_4_4.SectionDoc
+    

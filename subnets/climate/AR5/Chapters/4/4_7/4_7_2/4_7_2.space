@@ -1,0 +1,25 @@
+
+public: ar5-4.7.2
+name: Section 4.7.2
+title: 4.7.2 - Changes in Permafrost
+section 4_7_2
+
+  |In most regions, and at most sites, permafrost temperatures have increased during the past three decades. {Glossary.*Permafrost Permafrost} warming is mainly in response to increased air temperature and changing snow cover. Although most permafrost has been degrading since the {Glossary.*Little_Ice_Age Little Ice Age}, the {Glossary.*Trend trend} was relatively modest until the past two decades, during which the rate of degradation has increased in some regions.
+
+
+  apply FullText
+
+  
+
+  include
+    - 4_7_2_1
+    - 4_7_2_2
+
+  name: Section 4.7.2 - Full Text
+  path FullText
+    name: Permafrost Temperature
+    step
+      include
+        - Chapters.4.4_7.4_7_2.4_7_2_1.SectionDoc
+        - Chapters.4.4_7.4_7_2.4_7_2_2.SectionDoc
+    

@@ -1,0 +1,8 @@
+index: hide
+public: ar5-
+name: Section 2.5.5.4
+title: 2.5.5.4 - Reanalyses
+
+Using NCEP reanalyses for the period 1973–2007, {cite.2.'Paltridge_et_al_2009 Paltridge et al. (2009)} found negative trends in {Glossary.*Specific_humidity specific humidity} above 850 hPa over both the tropics and southern mid-latitudes, and above 600 hPa in the NH mid-latitudes. However, as noted in {cite.1.'IPCC_2007 AR4}, {Topics.*Reanalysis reanalysis} products suffer from time dependent biases and have been shown to simulate unrealistic trends and variability over the ocean ({cite.2.'Mears_et_al_2007}; {cite.2.'John_et_al_2009}) ({Box_2_3 Box 2.3}). Some reanalysis products do reproduce observed variability in low level humidity over land ({cite.2.'Simmons_et_al_2010}), more complete assesments of multiple reanalysis products yield substantially different and even opposing trends in free tropospheric specific humidity ({cite.2.'Chen_et_al_2008}; {cite.2.'Dessler_and_Davis_2010}). Consequently, reanalysis products are still considered to be unsuitable for the analysis of tropospheric water vapour trends ({cite.2.'Sherwood_et_al_2010}).
+
+In summary, radiosonde, GPS and satellite observations of tropospheric water vapour indicate very likely increases at near global scales since the 1970s occurring at a rate that is generally consistent with the Clausius-Clapeyron relation (about 7% per degree Celsius) and the observed increase in atmospheric temperature. Significant trends in tropospheric {Glossary.*Relative_humidity relative humidity} at large spatial scales have not been observed, with the exception of near-surface air over land where relative humidity has decreased in recent years ({Chapters.2.2_5.2_5_5 Section 2.5.5}).

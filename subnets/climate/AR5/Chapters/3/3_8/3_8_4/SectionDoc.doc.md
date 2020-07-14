@@ -1,0 +1,10 @@
+index: hide
+public: ar5-
+name: Section 3.8.4
+title: 3.8.4 - Nutrients
+
+Nutrient concentrations in the surface ocean surface are influenced by human impacts on coastal {Glossary.*Runoff runoff} and on atmospheric deposition, and by changing nutrient supply from the ocean’s interior into the mixed layer (for instance due to increased stratification). Changing nutrient distributions might influence the magnitude and variability of the ocean’s biological carbon pump.
+
+Globally, the manufacture of nitrogen fertilizers has continued to increase ({cite.3.'Galloway_et_al_2008}) accompanied by increasing eutrophication of coastal waters ({cite.3.'Diaz_and_Rosenberg_2008}; {cite.3.'Seitzinger_et_al_2010}; {cite.3.'Kim_et_al_2011}), which amplifies the drawdown of {Glossary.*Carbon_dioxide CO2} ({cite.3.'Borges_and_Gypens_2010}; {cite.3.'Provoost_et_al_2010}). In addition, atmospheric deposition of {Glossary.*Anthropogenic anthropogenic} fixed nitrogen may now account for up to about 3% of oceanic new production, and this nutrient {Glossary.*Source source} is {Topics.*Climate_Projections projected} to increase ({cite.3.'Duce_et_al_2008}).
+
+Satellite observations of chlorophyll reveal that oligotrophic provinces in four of the world’s major oceans expanded at average rates of 0.8 to 4.3% yr–1 from 1998 to 2006 ({cite.3.'Polovina_et_al_2008}; {cite.3.'Irwin_and_Oliver_2009}), consistent with a reduction in nutrient availability owing to increases in stratification. Model and observational studies suggest interannual and multi-decadal fluctuations in nutrients are coupled with variability of mode water and the {Glossary.*North_Atlantic_Oscillation NAO} in the Atlantic Ocean ({cite.3.'Cianca_et_al_2007}; Pérez et al., 2010), {Topics.*Climate_Variability climate modes} of variability in the Pacific Ocean ({cite.3.'Wong_et_al_2007}; Di Lorenzo et al., 2009), and variability of subtropical {Glossary.*Gyre gyre} circulation in the Indian Ocean (Á{cite.3.'lvarez_et_al_2011}). However, there are no published studies quantifying longterm trends in ocean nutrient concentrations.

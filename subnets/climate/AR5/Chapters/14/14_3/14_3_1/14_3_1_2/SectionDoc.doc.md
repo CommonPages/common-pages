@@ -1,0 +1,12 @@
+index: hide
+public: ar5-
+name: Section 14.3.1.2
+title: 14.3.1.2 - South Pacific Convergence Zone
+
+The South Pacific Convergence Zone ({Glossary.*South_Pacific_Convergence_Zone SPCZ}, {cite.14.'Widlansky_et_al_2011}) extends southeastward from the tropical western Pacific to French Polynesia and the SH mid-latitudes, contributing most of the yearly rainfall to the many South Pacific island nations under its influence. The SPCZ is most pronounced during austral summer (December, January and February (DJF)).
+
+Zonal and meridional {Glossary.*Sea_Surface_Temperature SST} gradients, trade wind strength, and subsidence over the eastern Pacific are important mechanisms for SPCZ orientation and variability ({cite.14.'Takahashi_and_Battisti_2007}; {cite.14.'Lintner_and_Neelin_2008}; {cite.14.'Vincent_et_al_2011}; {cite.14.'Widlansky_et_al_2011}). Many {Glossary.*General_Circulation_Model GCMs} simulate the SPCZ as lying east–west, giving a ‘double-{Glossary.*Inter_Tropical_Convergence_Zone ITCZ}’ structure and missing the southeastward orientation ({cite.14.'Brown_et_al_2012a}).
+
+The majority of CMIP models simulate increased austral summer mean precipitation in the SPCZ, with decreased precipitation at the eastern edge of the SPCZ ({cite.14.'Brown_et_al_2012a}; {cite.14.'Brown_et_al_2012b}). The position of the SPCZ varies on interannual to decadal time scales, shifting northeast in response to El Niño ({cite.14.'Folland_et_al_2002}; {cite.14.'Vincent_et_al_2011}). Strong El Niño events induce a zonally oriented SPCZ located well northeast of its average position, while more moderate {Glossary.*El_Nin_o_Southern_Oscillation ENSO} ({Chapters.14.14_4 Section 14.4}) events are associated with movement of the SPCZ to the northeast or southwest, without a change in its orientation.
+
+Models from both CMIP3 and CMIP5 that simulate the SPCZ well show a consistent tendency towards much more frequent zonally oriented SPCZ events in future ({cite.14.'Cai_et_al_2012b}). The mechanism appears to be associated with a reduction in near-equatorial meridional SST gradient, a robust feature of modelled SST response to {Topics.*Radiative_Forcing anthropogenic forcing} ({cite.14.'Widlansky_et_al_2013}). An increased frequency of zonally oriented SPCZ events would have major implications for {Topics.*Regional_Climate regional climate}, possibly leading to longer dry spells in the southwest Pacific.

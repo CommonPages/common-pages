@@ -1,0 +1,15 @@
+
+public: ar5-9.5.2.3
+name: Section 9.5.2.3
+title: 9.5.2.3 - Madden–Julian Oscillation
+section 9_5_2_3
+
+  |Simulation of the {Glossary.*Madden_Julian_Oscillation MJO} is still a challenge for {Topics.*Climate_Modelling climate models}. Even so, relative to CMIP3 there has been improvement in CMIP5 in simulating the eastward propagation of boreal winter MJO {Glossary.*Convection convection} from the Indian Ocean into the western Pacific and northward propagation during boreal summer. In addition there is evidence that models reproduce MJO characteristics in the east Pacific, and that, overall, there is improvement compared to previous generations of climate models.
+
+
+  
+
+  insert SectionDoc
+
+
+    

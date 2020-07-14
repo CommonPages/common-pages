@@ -1,0 +1,29 @@
+
+public: ar5-4.5
+name: Section 4.5
+title: 4.5 - Seasonal Snow
+section 4_5
+
+  |Snow is measured using a variety of instruments and techniques, and reported using several metrics. In most studies, a majority of sites experienced declines in various metrics of snow. New time series for Northern Hemisphere Snow Cover Extent show significant reductions over the past 90 years with most of the reductions occurring in the 1980s, with very high confidence.
+
+
+  apply FullText
+
+  
+
+  include
+    - 4_5_1
+    - 4_5_2
+    - 4_5_3
+    - 4_5_4
+
+  name: Section 4.5 - Full Text
+  path FullText
+    name: Background
+    step
+      include
+        - Chapters.4.4_5.4_5_1.SectionDoc
+        - Chapters.4.4_5.4_5_2.SectionDoc
+        - Chapters.4.4_5.4_5_3.SectionDoc
+        - Chapters.4.4_5.4_5_4.SectionDoc
+    

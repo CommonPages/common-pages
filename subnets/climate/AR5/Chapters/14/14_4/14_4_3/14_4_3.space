@@ -1,0 +1,15 @@
+
+public: ar5-14.4.3
+name: Section 14.4.3
+title: 14.4.3 - Teleconnections
+section 14_4_3
+
+  |There is little improvement in the CMIP5 {Glossary.*Ensemble ensemble} relative to CMIP3 in the amplitude and spatial correlation metrics of precipitation teleconnections in response to {Glossary.*El_Nin_o_Southern_Oscillation ENSO}. Scenario {Topics.*Climate_Projections projections} in CMIP3 and CMIP5 showed a systematic eastward shift in both El Niñoand {Glossary.*La_Nin_a La Niña}-induced {Glossary.*Teleconnection teleconnection} patterns over the extratropical NH. It is unclear whether the eastward shift of tropical {Glossary.*Convection convection} is related to longitudinal shifts in El Niño maximum {Glossary.*Sea_Surface_Temperature SST} anomalies or to changes in the mean state in the tropical Pacific.
+
+
+  
+
+  insert SectionDoc
+
+
+    

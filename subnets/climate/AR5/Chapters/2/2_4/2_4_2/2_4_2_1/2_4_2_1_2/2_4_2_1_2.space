@@ -1,0 +1,15 @@
+
+public: ar5-2.4.2.1.2
+name: Section 2.4.2.1.2
+title: 2.4.2.1.2 - Satellite SST data records
+section 2_4_2_1_2
+
+  |Satellite {Glossary.*Sea_Surface_Temperature SST} data sets are based on measuring electromagnetic radiation that left the ocean surface. They are generally less accurate than infared (IR) based SST data sets, but their superior coverage in areas of persistent cloudiness provides SST estimates where the IR record has none.
+
+
+  
+
+  insert SectionDoc
+
+
+    

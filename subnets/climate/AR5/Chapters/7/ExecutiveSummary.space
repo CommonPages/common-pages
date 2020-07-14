@@ -1,0 +1,145 @@
+
+
+name: Chapter 7 - Conclusions
+lead: Formal conclusions presented in Chapter 7.
+conclusions ExecutiveSummary
+
+  insert text
+    | Clouds and aerosols continue to contribute the largest {Topics.*Uncertainty uncertainty} to estimates and interpretations of the Earth’s changing {Topics.*Radiation_Budgets energy budget}. This chapter focuses on process understanding and considers observations, theory and models to assess how clouds and aerosols contribute and respond to climate change. The following conclusions are drawn.
+
+  name: Progress in Understanding
+
+  insert
+    - C1
+    - C2
+    - C3
+    - C4
+    - C5
+    - C6
+
+  name: Water Vapour, Cloud and Aerosol Feedbacks
+
+  insert
+    - C7
+    - C8
+
+  name: Quantification of climate forcings due to aerosols and clouds
+
+  insert
+    - C9
+    - C10
+    - C11
+
+  name: Geoengineering Using Solar Radiation Management Methods
+
+  insert
+    - C12
+    - C13
+
+
+  index: hide
+  let C1
+    |<strong>Many of the cloudiness and humidity changes simulated by {Topics.*Climate_Modelling climate models} in warmer climates are now understood as responses to large-scale circulation changes that do not appear to depend strongly on sub-grid scale model processes, increasing confidence in these changes.
+    |</strong> For example, {Topics.*Evidence_of_Change multiple lines of evidence} now indicate positive {Glossary.*Feedback feedback} contributions from circulation-driven changes in both the height of high clouds and the latitudinal distribution of clouds (medium to high confidence1). However, some aspects of the overall cloud response vary substantially among models, and these appear to depend strongly on sub-grid scale processes in which there is less confidence.
+    |
+    |See: <em>Sections {Chapters.7.7_2.7_2_4 7.2.4} {Chapters.7.7_2.7_2_5 7.2.5}, {Chapters.7.7_2.7_2_6 7.2.6}, {'Figure_7_11 Figure 7.11}
+    |</em>
+
+  index: hide
+  let C2
+    |<strong>Climate-relevant {Glossary.*Aerosol aerosol} processes are better understood, and climate-relevant aerosol properties better observed, than at the time of {cite.1.'IPCC_2007 AR4}.
+    |</strong> However, the representation of relevant processes varies greatly in global aerosol and {Topics.*Climate_Modelling climate models} and it remains unclear what level of sophistication is required to model their effect on climate. Globally, between 20 and 40% of aerosol optical depth (medium confidence) and between one quarter and two thirds of cloud condensation nucleus concentrations (low confidence) are of {Glossary.*Anthropogenic anthropogenic} origin.
+    |
+    |See: <em>{Chapters.7.7_3 Section 7.3}, {'Figure_7_12 Figures 7.12} to 7.15
+    |</em>
+
+  index: hide
+  let C3
+    |<strong>Cosmic rays enhance new particle formation in the free {Glossary.*Troposphere troposphere}, but the effect on the concentration of {Glossary.*Cloud_condensation_nuclei cloud condensation nuclei} is too weak to have any detectable climatic influence during a {Glossary.*Solar_11_year_cycle solar cycle} or over the last century (medium evidence, high agreement).
+    |</strong> No robust association between changes in cosmic rays and cloudiness has been identified. In the event that such an association existed, a mechanism other than cosmic ray-induced nucleation of new {Glossary.*Aerosol aerosol} particles would be needed to explain it.
+    |
+    |See: <em>{Chapters.7.7_4.7_4_6 Section 7.4.6}
+    |</em>
+
+  index: hide
+  let C4
+    |<strong>Recent research has clarified the importance of distinguishing forcing (instantaneous change in the radiative budget) and rapid adjustments (which modify the radiative budget indirectly through fast atmospheric and surface changes) from feedbacks (which operate through changes in climate variables that are mediated by a change in {Topics.*Surface_Temperature surface temperature}).
+    |</strong> Furthermore, one can distinguish between the traditional concept of {Topics.*Radiative_Forcing radiative forcing} (RF) and the relatively new concept of effective radiative forcing ({Glossary.*Effective_radiative_forcing ERF}) that also includes rapid adjustments. For aerosols one can further distinguish forcing processes arising from {Glossary.*Aerosol aerosol}–radiation interactions (ari) and aerosol–cloud interactions (aci).
+    |
+    |See: <em>{Chapters.7.7_1 Section 7.1}, {'Figure_7_1 Figures 7.1} to 7.3
+    |</em>
+
+  index: hide
+  let C5
+    |<strong>The quantification of cloud and convective effects in models, and of {Glossary.*Aerosol aerosol}–cloud interactions, continues to be a challenge. {Topics.*Climate_Modelling Climate models} are incorporating more of the relevant processes than at the time of {cite.1.'IPCC_2007 AR4}, but confidence in the representation of these processes remains weak.
+    |</strong> Cloud and aerosol properties vary at scales significantly smaller than those resolved in climate models, and cloud-scale processes respond to aerosol in nuanced ways at these scales. Until sub-grid scale parameterizations of clouds and aerosol– cloud interactions are able to address these issues, model estimates of aerosol–cloud interactions and their radiative effects will carry large {Topics.*Uncertainty uncertainties}. Satellite-based estimates of aerosol–cloud interactions remain sensitive to the treatment of meteorological influences on clouds and assumptions on what constitutes pre-industrial conditions.
+    |
+    |See: <em>Sections {Chapters.7.7_3 7.3} {Chapters.7.7_4 7.4}, {Chapters.7.7_5.7_5_3 7.5.3}, {Chapters.7.7_5.7_5_4 7.5.4}, {Chapters.7.7_6.7_6_4 7.6.4}, {'Figure_7_8 Figures 7.8}, 7.12, 7.16
+    |</em>
+
+  index: hide
+  let C6
+    |<strong>Precipitation and evaporation are expected to increase on average in a warmer climate, but also undergo global and regional adjustments to carbon dioxide ({Glossary.*Carbon_dioxide CO2}) and other {Topics.*Radiative_Forcing forcings} that differ from their warming responses. Moreover, there is high confidence that, as climate warms, extreme precipitation rates on for example, daily time scales will increase faster than the time average.
+    |</strong> Changes in average precipitation must remain consistent with changes in the net rate of cooling of the {Glossary.*Troposphere troposphere}, which is affected by its temperature but also by greenhouse gases ({Glossary.*Greenhouse_gas GHGs}) and aerosols. Consequently, while the increase in global mean precipitation would be 1.5 to 3.5% °C–1 due to {Topics.*Surface_Temperature surface temperature} change alone, warming caused by CO2 or absorbing aerosols results in a smaller sensitivity, even more so if it is partially offset by {Glossary.*Albedo albedo} increases. The complexity of land surface and atmospheric processes limits confidence in regional {Topics.*Climate_Projections projections} of precipitation change, especially over land, although there is a component of a ‘wet-get-wetter’ and ‘dry-get-drier’ response over oceans at the large scale. Changes in local extremes on daily and sub-daily time scales are strongly influenced by lower-tropospheric water vapour concentrations, and on average will increase by roughly 5 to 10% per degree Celsius of warming (medium confidence). {Glossary.*Aerosol Aerosol}–cloud interactions can influence the character of individual storms, but evidence for a systematic aerosol effect on storm or precipitation intensity is more limited and ambiguous.
+    |
+    |See: <em>Sections {Chapters.7.7_2.7_2_4 7.2.4} {Chapters.7.7_4 7.4}, {Chapters.7.7_6 7.6}, {'Figure_7_20 Figures 7.20}, 7.21
+    |</em>
+
+  index: hide
+  let C7
+    |<strong>The net {Glossary.*Feedback feedback} from water vapour and {Glossary.*Lapse_rate lapse rate} changes combined, as traditionally defined, is extremely likely2 positive (amplifying global climate changes). The sign of the net radiative feedback due to all cloud types is less certain but likely positive. {Topics.*Uncertainty Uncertainty} in the sign and magnitude of the {Glossary.*Cloud_feedback cloud feedback} is due primarily to continuing uncertainty in the impact of warming on low clouds.
+    |</strong> We estimate the water vapour plus lapse rate feedback3 to be +1.1 (+0.9 to +1.3) W m−2 °C−1 and the cloud feedback from all cloud types to be +0.6 (−0.2 to +2.0) W m–2 °C–1. These ranges are broader than those of {Topics.*Climate_Modelling climate models} to account for additional uncertainty associated with processes that may not have been accounted for in those models. The mean values and ranges in climate models are essentially unchanged since {cite.1.'IPCC_2007 AR4}, but are now supported by stronger indirect observational evidence and better process understanding, especially for water vapour. Low clouds contribute positive feedback in most models, but that behaviour is not well understood, nor effectively constrained by observations, so we are not confident that it is realistic.
+    |
+    |See: <em>Sections {Chapters.7.7_2.7_2_4 7.2.4} {Chapters.7.7_2.7_2_5 7.2.5}, {Chapters.7.7_2.7_2_6 7.2.6}, {'Figure_7_9 Figures 7.9} to 7.11
+    |</em>
+
+  index: hide
+  let C8
+    |<strong>{Glossary.*Aerosol Aerosol}–climate feedbacks occur mainly through changes in the {Glossary.*Source source} strength of natural aerosols or changes in the {Glossary.*Sink sink} efficiency of natural and {Glossary.*Anthropogenic anthropogenic} aerosols; a limited number of modelling studies have bracketed the {Glossary.*Feedback feedback} parameter within ±0.2 W m–2 °C–1 with low confidence.
+    |</strong> There is medium confidence for a weak dimethylsulphide–{Glossary.*Cloud_condensation_nuclei cloud condensation nuclei}–cloud {Glossary.*Albedo albedo} feedback due to a weak sensitivity of cloud condensation nuclei population to changes in dimethylsulphide {Topics.*Emissions emissions}.
+    |
+    |See: <em>{Chapters.7.7_3.7_3_5 Section 7.3.5}
+    |</em>
+
+  index: hide
+  let C9
+    |<strong>The {Glossary.*Effective_radiative_forcing ERF} due to {Glossary.*Aerosol aerosol}–radiation interactions that takes rapid adjustments into account ({Glossary.*Effective_radiative_forcing_due_to_aerosol_radiation_interactions ERFari}) is assessed to be –0.45 (–0.95 to +0.05) W m–2. The RF from absorbing aerosol on snow and ice is assessed separately to be +0.04 (+0.02 to +0.09) W m–2.
+    |</strong> Prior to adjustments taking place, the RF due to aerosol–radiation interactions ({Glossary.*Radiative_forcing_due_to_aerosol_radiation_interactions RFari}) is assessed to be –0.35 (–0.85 to +0.15) W m–2. The assessment for RFari is less negative than reported in {cite.1.'IPCC_2007 AR4} because of a re-evaluation of aerosol absorption. The {Topics.*Uncertainty uncertainty} estimate is wider but more robust, based on {Topics.*Evidence_of_Change multiple lines of evidence} from models, remotely sensed data, and ground-based measurements. Fossil fuel and biofuel emissions4 contribute to RFari via sulphate aerosol: –0.4 (–0.6 to –0.2) W m–2, black carbon ({Glossary.*Black_carbon BC}) aerosol: +0.4 (+0.05 to +0.8) W m–2, and primary and secondary {Glossary.*Organic_aerosol organic aerosol}: –0.12 (–0.4 to +0.1) W m–2. Additional RFari contributions occur via {Glossary.*Biomass biomass} burning emissions5: +0.0 (–0.2 to +0.2) W m–2, nitrate aerosol: –0.11 (–0.3 to –0.03) W m–2, and mineral dust: –0.1 (–0.3 to +0.1) W m–2 although the latter may not be entirely of {Glossary.*Anthropogenic anthropogenic} origin. While there is robust evidence for the existence of {Glossary.*Rapid_adjustment rapid adjustment} of clouds in response to aerosol absorption, these effects are multiple and not well represented in {Topics.*Climate_Modelling climate models}, leading to large uncertainty. Unlike in the last IPCC assessment, the RF from BC on snow and ice includes the effects on {Glossary.*Sea_ice sea ice}, accounts for more physical processes and incorporates evidence from both models and observations. This RF has a 2 to 4 times larger global mean {Topics.*Surface_Temperature surface temperature} change per unit {Topics.*Radiative_Forcing forcing} than a change in {Glossary.*Carbon_dioxide CO2}.
+    |
+    |See: <em>Sections {Chapters.7.7_3.7_3_4 7.3.4} {Chapters.7.7_5.7_5_2 7.5.2}, {'Figure_7_17 Figures 7.17}, 7.18
+    |</em>
+
+  index: hide
+  let C10
+    |<strong>The total {Glossary.*Effective_radiative_forcing ERF} due to aerosols ({Glossary.*Effective_radiative_forcing_due_to_aerosol_radiation_interactions ERFari}+aci, excluding the effect of absorbing {Glossary.*Aerosol aerosol} on snow and ice) is assessed to be –0.9 (–1.9 to –0.1) W m–2 with medium confidence.
+    |</strong> The ERFari+aci estimate includes rapid adjustments, such as changes to the cloud {Glossary.*Lifetime lifetime} and aerosol microphysical effects on mixed-phase, ice and convective clouds. This range was obtained from expert judgement guided by {Topics.*Climate_Modelling climate models} that include aerosol effects on mixed-phase and convective clouds in addition to liquid clouds, satellite studies and models that allow cloud-scale responses. This {Topics.*Radiative_Forcing forcing} can be much larger regionally but the global mean value is consistent with several new lines of evidence suggesting less negative estimates for the ERF due to aerosol–cloud interactions than in {cite.1.'IPCC_2007 AR4}.
+    |
+    |See: <em>Sections {Chapters.7.7_4 7.4} {Chapters.7.7_5.7_5_3 7.5.3}, {Chapters.7.7_5.7_5_4 7.5.4}, {'Figure_7_19 Figure 7.19}
+    |</em>
+
+  index: hide
+  let C11
+    |<strong>Persistent contrails from aviation contribute a RF of +0.01 (+0.005 to +0.03) W m–2 for year 2011, and the combined contrail and contrail-cirrus {Glossary.*Effective_radiative_forcing ERF} from aviation is assessed to be +0.05 (+0.02 to +0.15) W m–2.
+    |</strong> This {Topics.*Radiative_Forcing forcing} can be much larger regionally but there is now medium confidence that it does not produce observable regional effects on either the mean or diurnal range of {Topics.*Surface_Temperature surface temperature}.
+    |
+    |See: <em>{Chapters.7.7_2.7_2_7 Section 7.2.7}
+    |</em>
+
+  index: hide
+  let C12
+    |<strong>Theory, model studies and observations suggest that some Solar Radiation Management ({Glossary.*Solar_Radiation_Management SRM}) methods, if practicable, could substantially offset a global temperature rise and partially offset some other impacts of global warming, but the compensation for the climate change caused by {Glossary.*Greenhouse_gas GHGs} would be imprecise (high confidence).
+    |</strong> SRM methods are unimplemented and untested. Research on SRM is in its infancy, though it leverages understanding of how the climate responds to {Topics.*Radiative_Forcing forcing} more generally. The {Glossary.*Efficacy efficacy} of a number of SRM strategies was assessed, and there is medium confidence that stratospheric {Glossary.*Aerosol aerosol} SRM is scalable to counter the RF from increasing GHGs at least up to approximately 4 W m–2; however, the required injection rate of aerosol {Glossary.*Precursors precursors} remains very uncertain. There is no consensus on whether a similarly large RF could be achieved from cloud brightening SRM owing to {Topics.*Uncertainty uncertainties} in understanding and representation of aerosol–cloud interactions. It does not appear that land {Glossary.*Albedo albedo} change SRM can produce a large RF. Limited literature on other SRM methods precludes their assessment. Models consistently suggest that SRM would generally reduce climate differences compared to a world with elevated GHG concentrations and no SRM; however, there would also be residual regional differences in climate (e.g., temperature and rainfall) when compared to a climate without elevated GHGs.
+    |
+    |See: <em>Sections {Chapters.7.7_4.7_4_3 7.4.3} {Chapters.7.7_7 7.7}
+    |</em>
+
+  index: hide
+  let C13
+    |<strong>Numerous side effects, risks and shortcomings from {Glossary.*Solar_Radiation_Management SRM} have been identified.
+    |</strong> Several lines of evidence indicate that SRM would produce a small but significant decrease in global precipitation (with larger differences on regional scales) if the global {Glossary.*Surface_temperature surface temperature} were maintained. A number of side effects have been identified. One that is relatively well characterized is the {Glossary.*Likelihood likelihood} of modest polar stratospheric {Glossary.*Ozone ozone} depletion associated with stratospheric {Glossary.*Aerosol aerosol} SRM. There could also be other as yet unanticipated consequences. As long as GHG concentrations continued to increase, the SRM would require commensurate increase, exacerbating side effects. In addition, scaling SRM to substantial levels would carry the risk that if the SRM were terminated for any reason, there is high confidence that {Topics.*Surface_Temperature surface temperatures} would increase rapidly (within a decade or two) to values consistent with the GHG {Topics.*Radiative_Forcing forcing}, which would stress systems sensitive to the rate of climate change. Finally, SRM would not compensate for {Glossary.*Ocean_acidification ocean acidification} from increasing {Glossary.*Carbon_dioxide CO2}.
+    |
+    |See: <em>Sections {Chapters.7.7_6.7_6_3 7.6.3} {Chapters.7.7_7 7.7}, {'Figure_7_22 Figures 7.22} to 7.24
+    |</em>
+
+
+    

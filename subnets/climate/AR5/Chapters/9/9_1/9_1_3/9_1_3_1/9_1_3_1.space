@@ -1,0 +1,30 @@
+
+public: ar5-9.1.3.1
+name: Section 9.1.3.1
+title: 9.1.3.1 - Parameterizations
+section 9_1_3_1
+
+  |Parameterizations are included in all model components to represent processes that cannot be explicitly resolved; they are evaluated both in isolation and in the context of the full model. Since {cite.1.'IPCC_2007 AR4}, developments have been made in the parameterizations employed in each model component, but important limitations remain.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 9_1_3_1_1
+    - 9_1_3_1_2
+    - 9_1_3_1_3
+    - 9_1_3_1_4
+
+  name: Section 9.1.3.1 - Full Text
+  path FullText
+    name: Parameterizations
+    step
+      include
+        - Chapters.9.9_1.9_1_3.9_1_3_1.SectionDoc
+        - Chapters.9.9_1.9_1_3.9_1_3_1.9_1_3_1_1.SectionDoc
+        - Chapters.9.9_1.9_1_3.9_1_3_1.9_1_3_1_2.SectionDoc
+        - Chapters.9.9_1.9_1_3.9_1_3_1.9_1_3_1_3.SectionDoc
+        - Chapters.9.9_1.9_1_3.9_1_3_1.9_1_3_1_4.SectionDoc
+    

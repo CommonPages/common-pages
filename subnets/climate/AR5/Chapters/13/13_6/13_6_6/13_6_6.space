@@ -1,0 +1,15 @@
+
+public: ar5-13.6.6
+name: Section 13.6.6
+title: 13.6.6 - Uncertainties and Sensitivity to Ocean/Climate Model Formulations and Parameterizations
+section 13_6_6
+
+  |Sea level is a property of the ocean connected to nearly all dynamical and thermodynamical processes over the full ocean column, from the surface fluxes to the ocean bottom. Improvements in the skill of a {Topics.*Sea_Level sea level} {Glossary.*Projection projection} require (1) better parameterizations of unresolved physical processes, (2) improved numerical algorithms, (3) refined grid {Glossary.*Resolution resolution}, and (4) the elimination of obsolete assumptions. Even with a perfect ocean model, skill in sea level {Topics.*Climate_Projections projections} depends on skill of the coupled {Topics.*Climate_Modelling climate model} in which errors impacting sea level may originate from non-ocean components.
+
+
+  
+
+  insert SectionDoc
+
+
+    

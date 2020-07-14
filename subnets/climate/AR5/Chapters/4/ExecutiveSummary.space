@@ -1,0 +1,227 @@
+
+
+name: Chapter 4 - Conclusions
+lead: Formal conclusions presented in Chapter 4.
+conclusions ExecutiveSummary
+
+  insert text
+    | The {Topics.*Climate_System cryosphere}, comprising snow, river and lake ice, {Glossary.*Sea_ice sea ice}, glaciers, ice shelves and ice sheets, and {Glossary.*Frozen_ground frozen ground}, plays a major role in the Earth’s climate system through its impact on the surface {Topics.*Radiation_Budgets energy budget}, the {Glossary.*Water_cycle water cycle}, primary productivity, surface gas exchange and {Topics.*Sea_Level sea level}. The {Glossary.*Cryosphere cryosphere} is thus a fundamental control on the physical, biological and social environment over a large part of the Earth’s surface. Given that all of its components are inherently sensitive to temperature change over a wide range of time scales, the cryosphere is a natural integrator of {Topics.*Climate_Variability climate variability} and provides some of the most visible signatures of climate change.
+    | Since {cite.1.'IPCC_2007 AR4}, observational technology has improved and key time series of measurements have been lengthened, such that our identification and measurement of changes and trends in all components of the cryosphere has been substantially improved, and our understanding of the specific processes governing their responses has been refined. Since the AR4, observations show that there has been a continued net loss of ice from the cryosphere, although there are significant differences in the rate of loss between cryospheric components and regions. The major changes occurring to the cryosphere are as follows.
+
+  name: Sea Ice
+
+  insert
+    - C1
+    - C2
+    - C3
+    - C4
+    - C5
+
+  name: Glaciers
+
+  insert
+    - C6
+    - C7
+    - C8
+    - C9
+
+  name: Ice Sheets
+
+  insert
+    - C10
+    - C11
+    - C12
+    - C13
+    - C14
+    - C15
+
+  name: Snow Cover
+
+  insert
+    - C16
+    - C17
+
+  name: Freshwater Ice
+
+  insert
+    - C18
+
+  name: Frozen Ground
+
+  insert
+    - C19
+    - C20
+    - C21
+    - C22
+
+
+  index: hide
+  let C1
+    |<strong>Continuing the trends reported in {cite.1.'IPCC_2007 AR4}, the annual Arctic {Glossary.*Sea_ice sea ice} extent decreased over the period 1979–2012. The rate of this decrease was very likely1 between 3.5 and 4.1% per decade (0.45 to 0.51 million km2 per decade).
+    |</strong> The average decrease in decadal extent of Arctic sea ice has been most rapid in summer and autumn (high confidence2), but the extent has decreased in every season, and in every successive decade since 1979 (high confidence).
+    |
+    |See: <em>{Chapters.4.4_2.4_2_2 Section 4.2.2}, {'Figure_4_2 Figure 4.2}
+    |</em>
+
+  index: hide
+  let C2
+    |<strong>The extent of Arctic perennial and multi-year {Glossary.*Sea_ice sea ice} decreased between 1979 and 2012 (very high confidence).
+    |</strong> The perennial sea ice extent (summer minimum) decreased between 1979 and 2012 at 11.5 ± 2.1% per decade (0.73 to 1.07 million km2 per decade) (very likely) and the multi-year ice (that has survived two or more summers) decreased at a rate of 13.5 ± 2.5% per decade (0.66 to 0.98 million km2 per decade) (very likely).
+    |
+    |See: <em>{Chapters.4.4_2.4_2_2 Section 4.2.2}, {'Figure_4_4 Figures 4.4}, 4.6
+    |</em>
+
+  index: hide
+  let C3
+    |<strong>The average winter {Glossary.*Sea_ice sea ice} thickness within the Arctic Basin decreased between 1980 and 2008 (high confidence).
+    |</strong> The average decrease was likely between 1.3 and 2.3 m. High confidence in this assessment is based on observations from multiple sources: submarine, electro-magnetic (EM) probes, and satellite {Glossary.*Altimetry altimetry}, and is consistent with the decline in multi-year and perennial ice extent Satellite measurements made in the period 2010–2012 show a decrease in sea ice volume compared to those made over the period 2003–2008 (medium confidence). There is high confidence that in the Arctic, where the sea ice thickness has decreased, the sea ice drift speed has increased.
+    |
+    |See: <em>{Chapters.4.4_2.4_2_2 Section 4.2.2}, {'Figure_4_5 Figures 4.5}, 4.6
+    |</em>
+
+  index: hide
+  let C4
+    |<strong>It is likely that the annual period of surface melt on Arctic perennial {Glossary.*Sea_ice sea ice} lengthened by 5.7 ± 0.9 days per decade over the period 1979–2012.
+    |</strong> Over this period, in the {Topics.*Regional_Climate region} between the East Siberian Sea and the western Beaufort Sea, the duration of ice-free conditions increased by nearly 3 months.
+    |
+    |See: <em>{Chapters.4.4_2.4_2_2 Section 4.2.2}, {'Figure_4_6 Figure 4.6}
+    |</em>
+
+  index: hide
+  let C5
+    |<strong>It is very likely that the annual Antarctic {Glossary.*Sea_ice sea ice} extent increased at a rate of between 1.2 and 1.8% per decade (0.13 to 0.20 million km2 per decade) between 1979 and 2012.
+    |</strong> There was a greater increase in sea ice area, due to a decrease in the percentage of open water within the ice pack. There is high confidence that there are strong regional differences in this annual rate, with some regions increasing in extent/area and some decreasing.
+    |
+    |See: <em>{Chapters.4.4_2.4_2_3 Section 4.2.3}, {'Figure_4_7 Figure 4.7}
+    |</em>
+
+  index: hide
+  let C6
+    |<strong>Since {cite.1.'IPCC_2007 AR4}, almost all glaciers worldwide have continued to shrink as revealed by the time series of measured changes in {Glossary.*Glacier glacier} length, area, volume and mass (very high confidence).
+    |</strong> Measurements of glacier change have increased substantially in number since AR4. Most of the new data sets, along with a globally complete glacier inventory, have been derived from satellite remote sensing.
+    |
+    |See: <em>Sections {Chapters.4.4_3.4_3_1 4.3.1} {Chapters.4.4_3.4_3_3 4.3.3}, {'Figure_4_9 Figures 4.9}, 4.10, 4.11
+    |</em>
+
+  index: hide
+  let C7
+    |<strong>Between 2003 and 2009, most of the ice lost was from glaciers in Alaska, the Canadian Arctic, the periphery of the Greenland {Glossary.*Ice_sheet ice sheet}, the Southern Andes and the Asian Mountains (very high confidence).
+    |</strong> Together these regions account for more than 80% of the total ice loss.
+    |
+    |See: <em>{Chapters.4.4_3.4_3_3 Section 4.3.3}, {'Figure_4_11 Figure 4.11}, {'Table_4_4 Table 4.4}
+    |</em>
+
+  index: hide
+  let C8
+    |<strong>Total mass loss from all glaciers in the world, excluding those on the periphery of the ice sheets, was very likely 226 ± 135 Gt yr–1 ({Topics.*Sea_Level sea level} equivalent, 0.62 ± 0.37 mm yr–1) in the period 1971–2009, 275 ± 135 Gt yr–1 (0.76 ± 0.37 mm yr–1) in the period 1993–2009, and 301 ± 135 Gt yr–1 (0.83 ± 0.37 mm yr–1) between 2005 and 2009.
+    |</strong> 
+    |See: <em>{Chapters.4.4_3.4_3_3 Section 4.3.3}, {'Figure_4_12 Figure 4.12}, {'Table_4_5 Table 4.5}
+    |</em>
+
+  index: hide
+  let C9
+    |<strong>Current {Glossary.*Glacier glacier} extents are out of balance with current climatic conditions, indicating that glaciers will continue to shrink in the future even without further temperature increase (high confidence).
+    |</strong> 
+    |See: <em>{Chapters.4.4_3.4_3_3 Section 4.3.3}
+    |</em>
+
+  index: hide
+  let C10
+    |<strong>The Greenland {Glossary.*Ice_sheet ice sheet} has lost ice during the last two decades (very high confidence). Combinations of satellite and airborne remote sensing together with field data indicate with high confidence that the ice loss has occurred in several sectors and that large rates of mass loss have spread to wider regions than reported in {cite.1.'IPCC_2007 AR4}.
+    |</strong> 
+    |See: <em>Sections {Chapters.4.4_4.4_4_2 4.4.2} {Chapters.4.4_4.4_4_3 4.4.3}, {'Figure_4_13 Figures 4.13}, 4.15, 4.17
+    |</em>
+
+  index: hide
+  let C11
+    |<strong>The rate of ice loss from the Greenland {Glossary.*Ice_sheet ice sheet} has accelerated since 1992. The average rate has very likely increased from 34 [–6 to 74] Gt yr–1 over the period 1992–2001 ({Topics.*Sea_Level sea level} equivalent, 0.09 [–0.02 to 0.20] mm yr–1), to 215 [157 to 274] Gt yr–1 over the period 2002–2011 (0.59 [0.43 to 0.76] mm yr–1).
+    |</strong> 
+    |See: <em>{Chapters.4.4_4.4_4_3 Section 4.4.3}, {'Figure_4_15 Figures 4.15}, 4.17
+    |</em>
+
+  index: hide
+  let C12
+    |<strong>Ice loss from Greenland is partitioned in approximately similar amounts between surface melt and outlet {Glossary.*Glacier glacier} discharge (medium confidence), and both components have increased (high confidence). The area subject to summer melt has increased over the last two decades (high confidence).
+    |</strong> 
+    |See: <em>{Chapters.4.4_4.4_4_2 Section 4.4.2}
+    |</em>
+
+  index: hide
+  let C13
+    |<strong>The Antarctic {Glossary.*Ice_sheet ice sheet} has been losing ice during the last two decades (high confidence). There is very high confidence that these losses are mainly from the northern Antarctic Peninsula and the Amundsen Sea sector of West Antarctica, and high confidence that they result from the acceleration of outlet glaciers.
+    |</strong> 
+    |See: <em>Sections {Chapters.4.4_4.4_4_2 4.4.2} {Chapters.4.4_4.4_4_3 4.4.3}, {'Figure_4_14 Figures 4.14}, 4.16, 4.17
+    |</em>
+
+  index: hide
+  let C14
+    |<strong>The average rate of ice loss from Antarctica likely increased from 30 [–37 to 97] Gt yr–1 ({Topics.*Sea_Level sea level} equivalent, 0.08 [–0.10 to 0.27] mm yr–1) over the period 1992–2001, to 147 [72 to 221] Gt yr–1 over the period 2002–2011 (0.40 [0.20 to 0.61] mm yr–1).
+    |</strong> 
+    |See: <em>{Chapters.4.4_4.4_4_3 Section 4.4.3}, {'Figure_4_16 Figures 4.16}, 4.17
+    |</em>
+
+  index: hide
+  let C15
+    |<strong>In parts of Antarctica, floating ice shelves are undergoing substantial changes (high confidence).
+    |</strong> There is medium confidence that ice shelves are thinning in the Amundsen Sea {Topics.*Regional_Climate region} of West Antarctica, and medium confidence that this is due to high ocean heat flux. There is high confidence that ice shelves round the Antarctic Peninsula continue a long-term {Glossary.*Trend trend} of retreat and partial collapse that began decades ago.
+    |
+    |See: <em>Sections {Chapters.4.4_4.4_4_2 4.4.2} {Chapters.4.4_4.4_4_5 4.4.5}
+    |</em>
+
+  index: hide
+  let C16
+    |<strong>Snow cover extent has decreased in the Northern Hemisphere, especially in spring (very high confidence).
+    |</strong> Satellite records indicate that over the period 1967–2012, annual mean {Glossary.*Snow_cover_extent snow cover extent} decreased with statistical significance; the largest change, –53% [very likely, –40% to –66%], occurred in June. No months had statistically significant increases. Over the longer period, 1922–2012, data are available only for March and April, but these show a 7% [very likely, 4.5% to 9.5%] decline and a strong negative [–0.76] correlation with March–April 40°N to 60°N land temperature.
+    |
+    |See: <em>Sections {Chapters.4.4_5.4_5_2 4.5.2} {Chapters.4.4_5.4_5_3 4.5.3}
+    |</em>
+
+  index: hide
+  let C17
+    |<strong>Station observations of snow, nearly all of which are in the Northern Hemisphere, generally indicate decreases in spring, especially at warmer locations (medium confidence).
+    |</strong> Results depend on station elevation, period of record, and variable measured (e.g., snow depth or duration of snow season), but in almost every study surveyed, a majority of stations showed decreasing trends, and stations at lower elevation or higher average temperature were the most liable to show decreases. In the Southern Hemisphere, evidence is too limited to conclude whether changes have occurred.
+    |
+    |See: <em>Sections {Chapters.4.4_5.4_5_2 4.5.2} {Chapters.4.4_5.4_5_3 4.5.3}, {'Figure_4_19 Figures 4.19}, 4.20, 4.21
+    |</em>
+
+  index: hide
+  let C18
+    |<strong>The limited evidence available for freshwater (lake and river) ice indicates that ice duration is decreasing and average seasonal ice cover shrinking (low confidence).
+    |</strong> For 75 Northern Hemisphere lakes, for which trends were available for 150-, 100and 30-year periods ending in 2005, the most rapid changes were in the most recent period (medium confidence), with freeze-up occurring later (1.6 days per decade) and breakup earlier (1.9 days per decade). In the North American Great Lakes, the average duration of ice cover declined 71% over the period 1973–2010.
+    |
+    |See: <em>{Chapters.4.4_6 Section 4.6}
+    |</em>
+
+  index: hide
+  let C19
+    |<strong>{Glossary.*Permafrost Permafrost} temperatures have increased in most regions since the early 1980s (high confidence) although the rate of increase has varied regionally.
+    |</strong> The temperature increase for colder permafrost was generally greater than for warmer permafrost (high confidence).
+    |
+    |See: <em>{Chapters.4.4_7.4_7_2 Section 4.7.2}, {'Table_4_8 Table 4.8}, {'Figure_4_24 Figure 4.24}
+    |</em>
+
+  index: hide
+  let C20
+    |<strong>Significant {Glossary.*Permafrost permafrost} degradation has occurred in the Russian European North (medium confidence).
+    |</strong> There is medium confidence that, in this area, over the period 1975–2005, warm permafrost up to 15 m thick completely thawed, the southern limit of discontinuous permafrost moved north by up to 80 km and the boundary of continuous permafrost moved north by up to 50 km.
+    |
+    |See: <em>{Chapters.4.4_7.4_7_2 Section 4.7.2}
+    |</em>
+
+  index: hide
+  let C21
+    |<strong>In situ measurements and satellite data show that surface subsidence associated with degradation of ice-rich {Glossary.*Permafrost permafrost} occurred at many locations over the past two to three decades (medium confidence).
+    |</strong> 
+    |See: <em>{Chapters.4.4_7.4_7_4 Section 4.7.4}
+    |</em>
+
+  index: hide
+  let C22
+    |<strong>In many regions, the depth of seasonally {Glossary.*Frozen_ground frozen ground} has changed in recent decades (high confidence).
+    |</strong> In many areas since the 1990s, {Glossary.*Active_layer active layer} thicknesses increased by a few centimetres to tens of centimetres (medium confidence). In other areas, especially in northern North America, there were large interannual variations but few significant trends (high confidence). The thickness of the {Glossary.*Seasonally_frozen_ground seasonally frozen ground} in some non-{Glossary.*Permafrost permafrost} parts of the Eurasian continent likely decreased, in places by more than 30 cm from 1930 to 2000 (high confidence).
+    |
+    |See: <em>{Chapters.4.4_7.4_7_4 Section 4.7.4}
+    |</em>
+
+
+    

@@ -1,0 +1,43 @@
+
+public: ar5-10.3
+name: Section 10.3
+title: 10.3 - Atmosphere and Surface
+section 10_3
+
+  |Global Mean Surface Temperature ({Topics.*Surface_Temperature GMST}) warmed strongly over the period 1900–1940, followed by a period with little {Glossary.*Trend trend}, and strong warming since the mid-1970s. Since 1998 the trend in GMST has been small. {Glossary.*Detection_and_Attribution Detection} and {Topics.*Attribution_of_Change attribution studies} show robust detections of the effects of {Glossary.*Greenhouse_gas GHGs} and other {Topics.*Radiative_Forcing anthropogenic forcings} on the distinctive {Glossary.*Fingerprint fingerprint} of atmospheric temperature trends. It is extremely likely that {Topics.*Human_Influence human activities} caused more than half of the observed increase in GMST from 1951 to 2010. {Glossary.*Anthropogenic Anthropogenic} influence on climate has now been detected on all seven continents.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 10_3_1
+    - 10_3_2
+    - 10_3_3
+
+  name: Section 10.3 - Full Text
+  path FullText
+    name: Atmosphere and Surface
+    step
+      include
+        - Chapters.10.10_3.SectionDoc
+        - Chapters.10.10_3.10_3_1.SectionDoc
+        - Chapters.10.10_3.10_3_1.10_3_1_1.10_3_1_1_1.SectionDoc
+        - Chapters.10.10_3.10_3_1.10_3_1_1.10_3_1_1_2.SectionDoc
+        - Chapters.10.10_3.10_3_1.10_3_1_1.10_3_1_1_3.SectionDoc
+        - Chapters.10.10_3.10_3_1.10_3_1_1.10_3_1_1_4.SectionDoc
+        - Chapters.10.10_3.10_3_1.10_3_1_2.SectionDoc
+        - Chapters.10.10_3.10_3_1.10_3_1_2.10_3_1_2_1.SectionDoc
+        - Chapters.10.10_3.10_3_1.10_3_1_2.10_3_1_2_2.SectionDoc
+        - Chapters.10.10_3.10_3_1.10_3_1_2.10_3_1_2_3.SectionDoc
+        - Chapters.10.10_3.10_3_2.SectionDoc
+        - Chapters.10.10_3.10_3_2.10_3_2_1.SectionDoc
+        - Chapters.10.10_3.10_3_2.10_3_2_2.SectionDoc
+        - Chapters.10.10_3.10_3_2.10_3_2_3.SectionDoc
+        - Chapters.10.10_3.10_3_3.SectionDoc
+        - Chapters.10.10_3.10_3_3.10_3_3_1.SectionDoc
+        - Chapters.10.10_3.10_3_3.10_3_3_2.SectionDoc
+        - Chapters.10.10_3.10_3_3.10_3_3_3.SectionDoc
+        - Chapters.10.10_3.10_3_3.10_3_3_4.SectionDoc
+    

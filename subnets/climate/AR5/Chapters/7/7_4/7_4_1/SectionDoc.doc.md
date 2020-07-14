@@ -1,0 +1,10 @@
+index: hide
+public: ar5-
+name: Section 7.4.1
+title: 7.4.1 - Introduction and Overview of Progress Since AR4
+
+This section assesses our understanding of {Glossary.*Aerosol aerosol}–cloud interactions, emphasizing the ways in which {Glossary.*Anthropogenic anthropogenic} aerosol may be affecting the distribution and radiative properties of nonand weakly precipitating clouds. The idea that anthropogenic aerosol is changing cloud properties, thus contributing a substantial {Topics.*Radiative_Forcing forcing} to the climate system, has been addressed to varying degrees in all of the previous IPCC assessment reports.
+
+Since {cite.1.'IPCC_2007 AR4}, research has continued to articulate new pathways through which the aerosol may affect the radiative properties of clouds, as well as the intensity and spatial patterns of precipitation (e.g., {cite.7.'Rosenfeld_et_al_2008}). Progress can be identified on four fronts: (1) global-scale modelling now represents a greater diversity of aerosol–cloud interactions, and with greater internal consistency; (2) observational studies continue to document strong local correlations between aerosol and cloud properties or precipitation, but have become more quantitative and are increasingly identifying and addressing the methodological challenges associated with such correlations; (3) regional-scale modelling is increasingly being used to assess regional influences of aerosol on cloud field properties and precipitation; (4) fine-scale process models have begun to be used more widely, and among other things have shown how turbulent mixing, cloud and meso-scale circulations may buffer the effects of aerosol perturbations.
+
+This section focuses on the microphysics of aerosol–cloud interactions in liquid, mixed-phase and pure ice clouds. Their radiative implications are quantified in {Chapters.7.7_5 Section 7.5}. This section also includes a discussion of aerosol influences on light precipitation in shallow clouds but defers discussion of aerosol effects on more substantial precipitation from mixed-phase clouds to {Chapters.7.7_6.7_6_4 Section 7.6.4}.

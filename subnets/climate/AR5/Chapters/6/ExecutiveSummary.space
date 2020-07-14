@@ -1,0 +1,248 @@
+
+
+name: Chapter 6 - Conclusions
+lead: Formal conclusions presented in Chapter 6.
+conclusions ExecutiveSummary
+
+  insert text
+    | This chapter addresses the biogeochemical cycles of carbon dioxide ({Glossary.*Carbon_dioxide CO2}), methane ({Glossary.*Methane_CH4 CH4}) and nitrous oxide ({Glossary.*Nitrous_oxide_N2O N2O}). The three greenhouse gases ({Glossary.*Greenhouse_gas GHGs}) have increased in the {Topics.*Climate_System atmosphere} since pre-industrial times, and this increase is the main driving cause of climate change ({Chapters.10 Chapter 10}). CO2, CH4 and N2O altogether amount to 80% of the total {Topics.*Radiative_Forcing radiative forcing} from {Topics.*The_Greenhouse_Effect well-mixed GHGs} ({Chapters.8 Chapter 8}). The increase of CO2, CH4 and N2O is caused by {Glossary.*Anthropogenic anthropogenic} {Topics.*Emissions emissions} from the use of fossil fuel as a {Glossary.*Source source} of energy and from land use and land use changes, in particular agriculture. The observed change in the atmospheric concentration of CO2, CH4 and N2O results from the dynamic balance between anthropogenic emissions, and the perturbation of natural processes that leads to a partial removal of these gases from the {Glossary.*Atmosphere atmosphere}. Natural processes are linked to physical conditions, chemical reactions and biological transformations and they respond themselves to perturbed atmospheric composition and climate change. Therefore, the physical climate system and the biogeochemical cycles of CO2, CH4 and N2O are coupled. This chapter addresses the present human-caused perturbation of the biogeochemical cycles of CO2, CH4 and N2O, their variations in the past coupled to climate variations and their {Topics.*Climate_Projections projected} evolution during this century under future {Topics.*Scenarios scenarios}.
+
+  name: The Human-Caused Perturbation in the Industrial Era
+
+  insert
+    - C1
+    - C2
+    - C3
+    - C4
+    - C5
+    - C6
+    - C7
+    - C8
+
+  name: Before the Human-Caused Perturbation
+
+  insert
+    - C9
+    - C10
+
+  name: Future Projections
+
+  insert
+    - C11
+    - C12
+    - C13
+    - C14
+    - C15
+    - C16
+    - C17
+    - C18
+    - C19
+
+  name: Irreversible Long-Term Impacts of Human-Caused Emissions
+
+  insert
+    - C20
+    - C21
+    - C22
+
+  name: Geoengineering Methods and the Carbon Cycle
+
+  insert
+    - C23
+    - C24
+
+
+  index: hide
+  let C1
+    |<strong>{Glossary.*Carbon_dioxide CO2} increased by 40% from 278 ppm about 1750 to 390.5 ppm in 2011. During the same time interval, {Glossary.*Methane_CH4 CH4} increased by 150% from 722 ppb to 1803 ppb, and {Glossary.*Nitrous_oxide_N2O N2O} by 20% from 271 ppb to 324.2 ppb in 2011.
+    |</strong> It is unequivocal that the current concentrations of atmospheric CO2, CH4 and N2O exceed any level measured for at least the past 800,000 years, the period covered by ice cores. Furthermore, the average rate of increase of these three gases observed over the past century exceeds any observed rate of change over the previous 20,000 years.
+    |
+    |See: <em>Sections {Chapters.2.2_2 2.2} {Chapters.5.5_2 5.2}, {Chapters.6.6_1 6.1}, {Chapters.6.6_2 6.2}
+    |</em>
+
+  index: hide
+  let C2
+    |<strong>{Glossary.*Anthropogenic Anthropogenic} {Glossary.*Carbon_dioxide CO2} {Topics.*Emissions emissions} to the {Topics.*Climate_System atmosphere} were 555 ± 85 PgC (1 PgC = 1015 gC) between 1750 and 2011.
+    |</strong> Of this amount, fossil fuel combustion and cement production contributed 375 ± 30 PgC and {Topics.*Land_Use_Change land use change} (including {Glossary.*Deforestation deforestation}, {Glossary.*Afforestation afforestation} and {Glossary.*Reforestation reforestation}) contributed 180 ± 80 PgC.
+    |
+    |See: <em>{Chapters.6.6_3.6_3_1 Section 6.3.1}, {'Table_6_1 Table 6.1}
+    |</em>
+
+  index: hide
+  let C3
+    |<strong>With a very high level of confidence1, the increase in {Glossary.*Carbon_dioxide CO2} {Topics.*Emissions emissions} from fossil fuel burning and those arising from {Topics.*Land_Use_Change land use change} are the dominant cause of the observed increase in atmospheric CO2 concentration.
+    |</strong> About half of the emissions remained in the {Topics.*Climate_System atmosphere} (240 ± 10 PgC) since 1750. The rest was removed from the {Glossary.*Atmosphere atmosphere} by sinks and stored in the natural {Topics.*Carbon_Cycle carbon cycle} reservoirs. The ocean {Glossary.*Reservoir reservoir} stored 155 ± 30 PgC. Vegetation {Glossary.*Biomass biomass} and soils not affected by land use change stored 160 ± 90 PgC.
+    |
+    |See: <em>Sections {Chapters.6.6_1 6.1} {Chapters.6.6_3 6.3}, {Chapters.6.6_3.6_3_2.6_3_2_3 6.3.2.3}, {'Table_6_1 Table 6.1}, {'Figure_6_8 Figure 6.8}
+    |</em>
+
+  index: hide
+  let C4
+    |<strong>Carbon {Topics.*Emissions emissions} from fossil fuel combustion and cement production increased faster during the 2000–2011 period than during the 1990–1999 period.
+    |</strong> These emissions were 9.5 ± 0.8 PgC yr–1 in 2011, 54% above their 1990 level. {Glossary.*Anthropogenic Anthropogenic} net {Glossary.*Carbon_dioxide CO2} emissions from {Topics.*Land_Use_Change land use change} were 0.9 ± 0.8 PgC yr–1 throughout the past decade, and represent about 10% of the total anthropogenic CO2 emissions. It is more likely than not2 that net CO2 emissions from land use change decreased during 2000–2011 compared to 1990–1999.
+    |
+    |See: <em>{Chapters.6.6_3 Section 6.3}, {'Table_6_1 Table 6.1}, {'Table_6_2 Table 6.2}, {'Figure_6_8 Figure 6.8}
+    |</em>
+
+  index: hide
+  let C5
+    |<strong>Atmospheric {Glossary.*Carbon_dioxide CO2} concentration increased at an average rate of 2.0 ± 0.1 ppm yr–1 during 2002–2011. This decadal rate of increase is higher than during any previous decade since direct atmospheric concentration measurements began in 1958.
+    |</strong> Globally, the size of the combined natural land and ocean sinks of CO2 approximately followed the atmospheric rate of increase, removing 55% of the total {Glossary.*Anthropogenic anthropogenic} {Topics.*Emissions emissions} every year on average during 1958–2011.
+    |
+    |See: <em>{Chapters.6.6_3 Section 6.3}, {'Table_6_1 Table 6.1}
+    |</em>
+
+  index: hide
+  let C6
+    |<strong>After almost one decade of stable {Glossary.*Methane_CH4 CH4} concentrations since the late 1990s, atmospheric measurements have shown renewed CH4 concentrations growth since 2007.
+    |</strong> The drivers of this renewed growth are still debated. The methane budget for the decade of 2000– 2009 (bottom-up estimates) is 177 to 284 Tg(CH4) yr–1 for natural wetlands {Topics.*Emissions emissions}, 187 to 224 Tg(CH4) yr–1 for agriculture and waste (rice, animals and waste), 85 to 105 Tg(CH4) yr–1 for fossil fuel related emissions, 61 to 200 Tg(CH4) yr–1 for other natural emissions including, among other fluxes, geological, termites and fresh water emissions, and 32 to 39 Tg(CH4) yr–1 for {Glossary.*Biomass biomass} and biofuel burning (the range indicates the expanse of literature values). {Glossary.*Anthropogenic Anthropogenic} emissions account for 50 to 65% of total emissions. By including natural geological CH4 emissions that were not accounted for in previous budgets, the fossil component of the total CH4 emissions (i.e., anthropogenic emissions related to leaks in the fossil fuel industry and natural geological leaks) is now estimated to amount to about 30% of the total CH4 emissions (medium confidence). Climate driven fluctuations of CH4 emissions from natural wetlands are the main drivers of the global interannual variability of CH4 emissions (high confidence), with a smaller contribution from the variability in emissions from biomass burning during high fire years.
+    |
+    |See: <em>{Chapters.6.6_3.6_3_3 Section 6.3.3}, {'Figure_6_2 Figure 6.2}, {'Table_6_8 Table 6.8}
+    |</em>
+
+  index: hide
+  let C7
+    |<strong>The concentration of {Glossary.*Nitrous_oxide_N2O N2O} increased at a rate of 0.73 ± 0.03 ppb yr–1 over the last three decades.
+    |</strong> {Topics.*Emissions Emissions} of N2O to the {Topics.*Climate_System atmosphere} are mostly caused by nitrification and de-nitrification reactions of reactive nitrogen in soils and in the ocean. {Glossary.*Anthropogenic Anthropogenic} N2O emissions increased steadily over the last two decades and were 6.9 (2.7 to 11.1) TgN (N2O) yr–1 in 2006. Anthropogenic N2O emissions are 1.7 to 4.8 TgN (N2O) yr–1 from the application of nitrogenous fertilisers in agriculture, 0.2 to 1.8 TgN (N2O) yr–1 from fossil fuel use and industrial processes, 0.2 to 1.0 TgN (N2O) yr–1 from {Glossary.*Biomass biomass} burning (including biofuels) and 0.4 to 1.3 TgN (N2O) yr–1 from land emissions due to atmospheric {Glossary.*Nitrogen_deposition nitrogen deposition} (the range indicates expand of literature values). Natural N2O emissions derived from soils, oceans and a small atmospheric {Glossary.*Source source} are together 5.4 to 19.6 TgN (N2O) yr–1.
+    |
+    |See: <em>Sections {Chapters.6.6_3 6.3} {Chapters.6.6_3.6_3_4 6.3.4}, {'Figure_6_4 Figure 6.4}c, {'Figure_6_19 Figure 6.19}, {'Table_6_9 Table 6.9}
+    |</em>
+
+  index: hide
+  let C8
+    |<strong>The human-caused creation of reactive nitrogen in 2010 was at least two times larger than the rate of natural terrestrial creation.
+    |</strong> The human-caused creation of reactive nitrogen is dominated by the production of ammonia for fertiliser and industry, with important contributions from legume cultivation and combustion of fossil fuels. Once formed, reactive nitrogen can be transferred to waters and the {Topics.*Climate_System atmosphere}. In addition to {Glossary.*Nitrous_oxide_N2O N2O}, two important nitrogen compounds emitted to the {Glossary.*Atmosphere atmosphere} are NH3 and NOx both of which influence tropospheric O3 and aerosols through atmospheric chemistry. All of these effects contribute to {Topics.*Radiative_Forcing radiative forcing}. It is also likely that reactive {Glossary.*Nitrogen_deposition nitrogen deposition} over land currently increases natural {Glossary.*Carbon_dioxide CO2} sinks, in particular forests, but the magnitude of this effect varies between regions.
+    |
+    |See: <em>Sections {Chapters.6.6_1.6_1_3 6.1.3} {Chapters.6.6_3 6.3}, {Chapters.6.6_3.6_3_2.6_3_2_6.6_3_2_6_5 6.3.2.6.5}, {Chapters.6.6_3.6_3_4 6.3.4}, {Chapters.6.6_4.6_4_6 6.4.6}, {'Figure_6_4 Figures 6.4}a and 6.4b, {'Table_6_9 Table 6.9}, {Chapters.7 Chapter 7}
+    |</em>
+
+  index: hide
+  let C9
+    |<strong>During the last 7000 years prior to 1750, atmospheric {Glossary.*Carbon_dioxide CO2} from ice cores shows only very slow changes (increase) from 260 ppm to 280 ppm, in contrast to the human-caused increase of CO2 since pre-industrial times. The contribution of CO2 {Topics.*Emissions emissions} from early {Glossary.*Anthropogenic anthropogenic} land use is unlikely sufficient to explain the CO2 increase prior to 1750.
+    |</strong> Atmospheric {Glossary.*Methane_CH4 CH4} from ice cores increased by about 100 ppb between 5000 years ago and around 1750. About as likely as not, this increase can be {Topics.*Attribution_of_Change attributed} to early {Topics.*Human_Influence human activities} involving livestock, human-caused fires and rice cultivation.
+    |
+    |See: <em>{Chapters.6.6_2 Section 6.2}, Figures {'Figure_6_6 6.6} and {'Figure_6_7 6.7}
+    |</em>
+
+  index: hide
+  let C10
+    |<strong>Further back in time, during the past 800,000 years prior to 1750, atmospheric {Glossary.*Carbon_dioxide CO2} varied from 180 ppm during glacial (cold) up to 300 ppm during interglacial (warm) periods.
+    |</strong> This is well established from multiple {Glossary.*Ice_core ice core} measurements. Variations in atmospheric CO2 from glacial to interglacial periods were caused by decreased ocean carbon storage (500 to 1200 PgC), partly compensated by increased land carbon storage (300 to 1000 PgC).
+    |
+    |See: <em>{Chapters.6.6_2.6_2_1 Section 6.2.1}, {'Figure_6_5 Figure 6.5}
+    |</em>
+
+  index: hide
+  let C11
+    |<strong>With very high confidence, ocean carbon {Glossary.*Uptake uptake} of {Glossary.*Anthropogenic anthropogenic} {Glossary.*Carbon_dioxide CO2} {Topics.*Emissions emissions} will continue under all four Representative Concentration Pathways ({Glossary.*Representative_Concentration_Pathways RCPs}) through to 2100, with higher uptake corresponding to higher concentration pathways.
+    |</strong> The future evolution of the land carbon uptake is much more uncertain, with a majority of models projecting a continued net carbon uptake under all RCPs, but with some models simulating a net loss of carbon by the land due to the combined effect of climate change and {Topics.*Land_Use_Change land use change}. In view of the large spread of model results and incomplete process representation, there is low confidence on the magnitude of modelled future land carbon changes.
+    |
+    |See: <em>{Chapters.6.6_4.6_4_3 Section 6.4.3}, {'Figure_6_24 Figure 6.24}
+    |</em>
+
+  index: hide
+  let C12
+    |<strong>There is high confidence that climate change will partially offset increases in global land and ocean carbon sinks caused by rising atmospheric {Glossary.*Carbon_dioxide CO2}.
+    |</strong> Yet, there are regional differences among Climate Modelling Intercomparison Project Phase 5 (CMIP5) {Topics.*Climate_System Earth System} Models, in the response of ocean and land CO2 fluxes to climate. There is a high agreement between models that tropical ecosystems will store less carbon in a warmer climate. There is medium agreement between models that at high latitudes warming will increase land carbon storage, although none of the models account for decomposition of carbon in {Glossary.*Permafrost permafrost}, which may offset increased land carbon storage. There is high agreement between CMIP5 Earth System models that ocean warming and circulation changes will reduce the rate of carbon {Glossary.*Uptake uptake} in the Southern Ocean and North Atlantic, but that carbon uptake will nevertheless persist in those regions.
+    |
+    |See: <em>{Chapters.6.6_4.6_4_2 Section 6.4.2}, Figures {'Figure_6_21 6.21} and {'Figure_6_22 6.22}
+    |</em>
+
+  index: hide
+  let C13
+    |<strong>It is very likely, based on new experimental results ({Chapters.6.6_4.6_4_6.6_4_6_3 Section 6.4.6.3}) and modelling, that nutrient shortage will limit the effect of rising atmospheric {Glossary.*Carbon_dioxide CO2} on future land carbon sinks, for the four RCP {Topics.*Scenarios scenarios}.
+    |</strong> There is high confidence that low nitrogen availability will limit carbon storage on land, even when considering {Glossary.*Anthropogenic anthropogenic} {Glossary.*Nitrogen_deposition nitrogen deposition}. The role of phosphorus limitation is more uncertain. Models that combine nitrogen limitations with rising CO2 and changes in temperature and precipitation thus produce a systematically larger increase in {Topics.*Climate_Projections projected} future atmospheric CO2, for a given fossil fuel {Topics.*Emissions emissions} trajectory.
+    |
+    |See: <em>Sections {Chapters.6.6_4.6_4_6 6.4.6} {Chapters.6.6_4.6_4_6.6_4_6_3 6.4.6.3}, {Chapters.6.6_4.6_4_8.6_4_8_2 6.4.8.2}, {'Figure_6_35 Figure 6.35}
+    |</em>
+
+  index: hide
+  let C14
+    |<strong>Taking climate and {Topics.*Carbon_Cycle carbon cycle} feedbacks into account, we can quantify the fossil fuel {Topics.*Emissions emissions} compatible with the {Glossary.*Representative_Concentration_Pathways RCPs}. Between 2012 and 2100, the {Glossary.*RCP2_6 RCP2.6}, RCP4.5, RCP6.0, and {Glossary.*RCP8_5 RCP8.5} {Topics.*Scenarios scenarios} imply cumulative compatible {Glossary.*Fossil_fuel_emissions fossil fuel emissions} of 270 (140 to 410) PgC, 780 (595 to 1005) PgC, 1060 (840 to 1250) PgC and 1685 (1415 to 1910) PgC respectively
+    |</strong> (values quoted to nearest 5 PgC, range derived from CMIP5 model results). For RCP2.6, an average 50% (range 14 to 96%) emission reduction is required by 2050 relative to 1990 levels. By the end of the 21st century, about half of the models infer emissions slightly above zero, while the other half infer a net removal of {Glossary.*Carbon_dioxide CO2} from the {Topics.*Climate_System atmosphere}.
+    |
+    |See: <em>{Chapters.6.6_4.6_4_3 Section 6.4.3}, {'Table_6_12 Table 6.12}, {'Figure_6_25 Figure 6.25}
+    |</em>
+
+  index: hide
+  let C15
+    |<strong>There is high confidence that reductions in {Glossary.*Permafrost permafrost} extent due to warming will cause thawing of some currently frozen carbon. However, there is low confidence on the magnitude of carbon losses
+    |</strong> through {Glossary.*Carbon_dioxide CO2} and {Glossary.*Methane_CH4 CH4} {Topics.*Emissions emissions} to the {Glossary.*Atmosphere atmosphere}, with a range from 50 to 250 PgC between 2000 and 2100 under the {Glossary.*RCP8_5 RCP8.5} scenario. The CMIP5 {Topics.*Climate_System Earth System} Models did not include frozen carbon feedbacks.
+    |
+    |See: <em>{Chapters.6.6_4.6_4_3.6_4_3_4 Section 6.4.3.4}, {Chapters.12 Chapter 12}
+    |</em>
+
+  index: hide
+  let C16
+    |<strong>There is medium confidence that {Topics.*Emissions emissions} of {Glossary.*Methane_CH4 CH4} from wetlands are likely to increase under elevated {Glossary.*Carbon_dioxide CO2} and a warmer climate.
+    |</strong> But there is low confidence in quantitative {Topics.*Climate_Projections projections} of these changes. The {Glossary.*Likelihood likelihood} of the future release of CH4 from marine gas hydrates in response to seafloor warming is poorly understood. In the event of a significant release of CH4 from hydrates in the sea floor by the end of the 21st century, it is likely that subsequent emissions to the {Topics.*Climate_System atmosphere} would be in the form of CO2, due to CH4 oxidation in the water column.
+    |
+    |See: <em>{Chapters.6.6_4.6_4_7 Section 6.4.7}, {'Figure_6_37 Figure 6.37}
+    |</em>
+
+  index: hide
+  let C17
+    |<strong>It is likely that {Glossary.*Nitrous_oxide_N2O N2O} {Topics.*Emissions emissions} from soils will increase due to the increased demand for feed/food and the reliance of agriculture on nitrogen fertilisers.
+    |</strong> Climate warming will likely amplify agricultural and natural terrestrial N2O sources, but there is low confidence in quantitative {Topics.*Climate_Projections projections} of these changes.
+    |
+    |See: <em>{Chapters.6.6_4.6_4_6 Section 6.4.6}, {'Figure_6_32 Figure 6.32}
+    |</em>
+
+  index: hide
+  let C18
+    |<strong>It is virtually certain that the increased storage of carbon by the ocean will increase acidification in the future, continuing the observed trends of the past decades.
+    |</strong> {Glossary.*Ocean_acidification Ocean acidification} in the surface ocean will follow atmospheric {Glossary.*Carbon_dioxide CO2} while it will also increase in the deep ocean as CO2 continues to penetrate the abyss. The CMIP5 models consistently project worldwide increased ocean acidification to 2100 under all {Glossary.*Representative_Concentration_Pathways RCPs}. The corresponding decrease in surface ocean {Glossary.*pH pH} by the end of the 21st century is 0.065 (0.06 to 0.07) for {Glossary.*RCP2_6 RCP2.6}, 0.145 (0.14 to 0.15) for RCP4.5, 0.203 (0.20 to 0.21) for RCP6.0, and 0.31 (0.30 to 0.32) for {Glossary.*RCP8_5 RCP8.5} (range from CMIP5 models spread). Surface waters become seasonally corrosive to aragonite in parts of the Arctic and in some coastal upwelling systems within a decade, and in parts of the Southern Ocean within 1 to 3 decades in most {Topics.*Scenarios scenarios}. Aragonite undersaturation becomes widespread in these regions at atmospheric CO2 levels of 500 to 600 ppm.
+    |
+    |See: <em>{Chapters.6.6_4.6_4_4 Section 6.4.4}, Figures {'Figure_6_28 6.28} and {'Figure_6_29 6.29}
+    |</em>
+
+  index: hide
+  let C19
+    |<strong>It is very likely that the dissolved oxygen content of the ocean will decrease by a few percent during the 21st century.
+    |</strong> CMIP5 models suggest that this decrease in dissolved oxygen will predominantly occur in the subsurface mid-latitude oceans, caused by enhanced stratification, reduced {Glossary.*Ventilation ventilation} and warming. However, there is no consensus on the future development of the volume of hypoxic and suboxic waters in the open-ocean because of large {Topics.*Uncertainty uncertainties} in potential biogeochemical effects and in the evolution of tropical ocean dynamics.
+    |
+    |See: <em>{Chapters.6.6_4.6_4_5 Section 6.4.5}, {'Figure_6_30 Figure 6.30}
+    |</em>
+
+  index: hide
+  let C20
+    |<strong>With very high confidence, the physical, biogeochemical {Topics.*Carbon_Cycle carbon cycle} in the ocean and on land will continue to respond to climate change and rising atmospheric {Glossary.*Carbon_dioxide CO2} concentrations created during the 21st century.
+    |</strong> {Glossary.*Ocean_acidification Ocean acidification} will very likely continue in the future as long as the oceans take up atmospheric CO2. Committed land {Glossary.*Ecosystem ecosystem} carbon cycle changes will manifest themselves further beyond the end of the 21st century. In addition, it is virtually certain that large areas of {Glossary.*Permafrost permafrost} will experience thawing over multiple centuries. There is, however, low confidence in the magnitude of frozen carbon losses to the {Topics.*Climate_System atmosphere}, and the relative contributions of CO2 and {Glossary.*Methane_CH4 CH4} {Topics.*Emissions emissions}.
+    |
+    |See: <em>Sections {Chapters.6.6_4.6_4_4 6.4.4} {Chapters.6.6_4.6_4_9 6.4.9}, {Chapters.12 Chapter 12}
+    |</em>
+
+  index: hide
+  let C21
+    |<strong>The magnitude and sign of the response of the natural carbon reservoirs to changes in climate and rising {Glossary.*Carbon_dioxide CO2} vary substantially over different time scales.
+    |</strong> The response to rising CO2 is to increase cumulative land and ocean {Glossary.*Uptake uptake}, regardless of the time scale. The response to climate change is variable, depending of the {Topics.*Regional_Climate region} considered because of different responses of the underlying physical and biological mechanisms at different time scales.
+    |
+    |See: <em>{Chapters.6.6_4 Section 6.4}, {'Table_6_10 Table 6.10}, Figures {'Figure_6_14 6.14} and {'Figure_6_17 6.17}
+    |</em>
+
+  index: hide
+  let C22
+    |<strong>The removal of human-emitted {Glossary.*Carbon_dioxide CO2} from the {Topics.*Climate_System atmosphere} by natural processes will take a few hundred thousand years (high confidence).
+    |</strong> Depending on the RCP scenario considered, about 15 to 40% of emitted CO2 will remain in the {Glossary.*Atmosphere atmosphere} longer than 1,000 years. This very long time required by sinks to remove {Glossary.*Anthropogenic anthropogenic} CO2 makes climate change caused by elevated CO2 irreversible on human time scale.
+    |
+    |See: <em>{Box_6_1 Box 6.1}
+    |</em>
+
+  index: hide
+  let C23
+    |<strong>Unconventional ways to remove {Glossary.*Carbon_dioxide CO2} from the {Topics.*Climate_System atmosphere} on a large scale are termed Carbon Dioxide Removal ({Glossary.*Carbon_Dioxide_Removal CDR}) methods. CDR could in theory be used to reduce CO2 atmospheric concentrations but these methods have biogeochemical and technological limitations to their potential.
+    |</strong> Uncertainties make it difficult to quantify how much CO2 {Topics.*Emissions emissions} could be offset by CDR on a human time scale, although it is likely that CDR would have to be deployed at large-scale for at least one century to be able to significantly reduce atmospheric CO2. In addition, it is virtually certain that the removal of CO2 by CDR will be partially offset by outgassing of CO2 from the ocean and land ecosystems.
+    |
+    |See: <em>{Chapters.6.6_5 Section 6.5}, Figures {'Figure_6_39 6.39} and {'Figure_6_40 6.40}, {'Table_6_15 Table 6.15}, {Box_6_1 Box 6.1}, {FAQ_7_3 FAQ 7.3}
+    |</em>
+
+  index: hide
+  let C24
+    |<strong>The level of confidence on the side effects of {Glossary.*Carbon_Dioxide_Removal CDR} methods on carbon and other biogeochemical cycles is low.
+    |</strong> Some of the climatic and environmental effects of CDR methods are associated with altered surface {Glossary.*Albedo albedo} (for {Glossary.*Afforestation afforestation}), de-oxygenation and enhanced {Glossary.*Nitrous_oxide_N2O N2O} {Topics.*Emissions emissions} (for artificial ocean fertilisation). Solar Radiation Management ({Glossary.*Solar_Radiation_Management SRM}) methods ({Chapters.7 Chapter 7}) will not directly interfere with the effects of elevated {Glossary.*Carbon_dioxide CO2} on the {Topics.*Carbon_Cycle carbon cycle}, such as {Glossary.*Ocean_acidification ocean acidification}, but will impact carbon and other biogeochemical cycles through their climate effects.
+    |
+    |See: <em>Sections {Chapters.6.6_5.6_5_3 6.5.3} {Chapters.6.6_5.6_5_4 6.5.4}, {Chapters.7.7_7 7.7}, Tables {'Table_6_14 6.14} and {'Table_6_15 6.15}
+    |</em>
+
+
+    

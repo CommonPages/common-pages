@@ -1,0 +1,24 @@
+index: hide
+
+<div class="Citation">
+
+  <div class="Citation-body">
+    <div class="Citation-text">McGuire et al., 2012: An assessment of the carbon balance of Arctic tundra: comparisons among observations, process models, and atmospheric inversions. <span class="Article-journal">Biogeosciences, </span><span class="Article-volume">9, </span>3185-3204pp.</div>
+    <div class="Citation-links">
+      <div class="CitationLink" data-href="https://doi.org/10.5194/bg-9-3185-2012">
+        <div class="CitationLink-icon CitationLink-Doi"></div>
+        <div class="CitationLink-text">DOI</div>
+      </div>
+      <div class="CitationLink" data-href="https://scholar.google.com/scholar?q=10.5194/bg-9-3185-2012">
+        <div class="CitationLink-icon CitationLink-Scholar"></div>
+        <div class="CitationLink-text">Google Scholar</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+Although Arctic tundra has been estimated to cover only 8% of the global land surface, the large and potentially labile carbon pools currently stored in tundra soils have the potential for large emissions of carbon (C) under a warming climate. These emissions as radiatively active greenhouse gases in the form of both CO&lt;sub&gt;2&lt;/sub&gt; and CH&lt;sub&gt;4&lt;/sub&gt; could amplify global warming. Given the potential sensitivity of these ecosystems to climate change and the expectation that the Arctic will experience appreciable warming over the next century, it is important to assess whether responses of C exchange in tundra regions are likely to enhance or mitigate warming. In this study we compared analyses of C exchange of Arctic tundra between 1990 and 2006 among observations, regional and global applications of process-based terrestrial biosphere models, and atmospheric inversion models. Syntheses of flux observations and inversion models indicate that the annual exchange of CO&lt;sub&gt;2&lt;/sub&gt; between Arctic tundra and the atmosphere has large uncertainties that cannot be distinguished from neutral balance. The mean estimate from an ensemble of process-based model simulations suggests that Arctic tundra has acted as a sink for atmospheric CO&lt;sub&gt;2&lt;/sub&gt; in recent decades, but based on the uncertainty estimates it cannot be determined with confidence whether these ecosystems represent a weak or a strong sink. Tundra was 0.6 °C warmer in the 2000s compared to the 1990s. The central estimates of the observations, process-based models, and inversion models each identify stronger sinks in the 2000s compared with the 1990s. Some of the process models indicate that this occurred because net primary production increased more in response to warming than heterotrophic respiration. Similarly, the observations and the applications of regional process-based models suggest that CH&lt;sub&gt;4&lt;/sub&gt; emissions from Arctic tundra have increased from the 1990s to 2000s because of the sensitivity of CH&lt;sub&gt;4&lt;/sub&gt; emissions to warmer temperatures. Based on our analyses of the estimates from observations, process-based models, and inversion models, we estimate that Arctic tundra was a sink for atmospheric CO&lt;sub&gt;2&lt;/sub&gt; of 110 Tg C yr&lt;sup&gt;−1&lt;/sup&gt; (uncertainty between a sink of 291 Tg C yr&lt;sup&gt;−1&lt;/sup&gt; and a source of 80 Tg C yr&lt;sup&gt;−1&lt;/sup&gt;) and a source of CH&lt;sub&gt;4&lt;/sub&gt; to the atmosphere of 19 Tg C yr&lt;sup&gt;−1&lt;/sup&gt; (uncertainty between sources of 8 and 29 Tg C yr&lt;sup&gt;−1&lt;/sup&gt;). The suite of analyses conducted in this study indicate that it is important to reduce uncertainties in the observations, process-based models, and inversions in order to better understand the degree to which Arctic tundra is influencing atmospheric CO&lt;sub&gt;2&lt;/sub&gt; and CH&lt;sub&gt;4&lt;/sub&gt; concentrations. The reduction of uncertainties can be accomplished through (1) the strategic placement of more CO&lt;sub&gt;2&lt;/sub&gt; and CH&lt;sub&gt;4&lt;/sub&gt; monitoring stations to reduce uncertainties in inversions, (2) improved observation networks of ground-based measurements of CO&lt;sub&gt;2&lt;/sub&gt; and CH&lt;sub&gt;4&lt;/sub&gt; exchange to understand exchange in response to disturbance and across gradients of climatic and hydrological variability, and (3) the effective transfer of information from enhanced observation networks into process-based models to improve the simulation of CO&lt;sub&gt;2&lt;/sub&gt; and CH&lt;sub&gt;4&lt;/sub&gt; exchange from Arctic tundra to the atmosphere.
+
+<div class="Citation-copy">
+&copy; Copernicus GmbH, 2012
+</div>

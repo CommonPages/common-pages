@@ -1,0 +1,25 @@
+
+public: ar5-12.5.5.8
+name: Section 12.5.5.8
+title: 12.5.5.8 - Hydrologic Variability: Long-Term Droughts and Monsoonal Circulation
+section 12_5_5_8
+
+  |In southwest North America, {Topics.*Climate_Modelling climate models} project progressive aridification as part of a general drying and poleward expansion of the subtropical dry zones driven by rising {Glossary.*Greenhouse_gas GHGs}. Because of the very long {Glossary.*Lifetime lifetime} of the {Glossary.*Anthropogenic anthropogenic} atmospheric {Glossary.*Carbon_dioxide CO2} perturbation, such drying induced by global warming would be largely irreversible on millennium time scale. In the Sahara, abrupt vegetation changes of the {Glossary.*Younger_Dryas Younger Dryas} are linked with a rapid AMOC weakening which is considered very unlikely during the 21st century and unlikely beyond that as a consequence of global warming. In India, it is unlikely that an abrupt transition to the dry summer {Glossary.*Monsoon monsoon} regime will be triggered in the 21st century.
+
+
+  apply FullText
+
+  
+
+  include
+    - 12_5_5_8_1
+    - 12_5_5_8_2
+
+  name: Section 12.5.5.8 - Full Text
+  path FullText
+    name: Long-term Droughts
+    step
+      include
+        - Chapters.12.12_5.12_5_5.12_5_5_8.12_5_5_8_1.SectionDoc
+        - Chapters.12.12_5.12_5_5.12_5_5_8.12_5_5_8_2.SectionDoc
+    

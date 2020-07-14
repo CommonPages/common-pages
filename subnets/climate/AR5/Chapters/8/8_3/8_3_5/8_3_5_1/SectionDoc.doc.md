@@ -1,0 +1,8 @@
+index: hide
+public: ar5-
+name: Section 8.3.5.1
+title: 8.3.5.1 - Introduction
+
+{Glossary.*Anthropogenic Anthropogenic} land cover change has a direct impact on the Earth {Topics.*Radiation_Budgets radiation budget} through a change in the surface {Glossary.*Albedo albedo}. It also impacts the climate through modifications in the surface roughness, {Glossary.*Latent_heat_flux latent heat flux} and river {Glossary.*Runoff runoff}. In addition, human activity may change the {Glossary.*Water_cycle water cycle} through irrigation and power plant cooling, and also generate direct input of heat to the {Topics.*Climate_System atmosphere} by consuming energy. {Topics.*Land_Use_Change Land use change}, and in particular {Glossary.*Deforestation deforestation}, also has significant impacts on {Topics.*The_Greenhouse_Effect WMGHG} concentration, which are discussed in {Chapters.6.6_3.6_3_2.6_3_2_2 Section 6.3.2.2}. Potential geo-engineering techniques that aim at increasing the surface albedo are discussed in {Chapters.7.7_7.7_7_2.7_7_2_3 Section 7.7.2.3}.
+
+{cite.1.'IPCC_2007 AR4} referenced a large number of {Topics.*Radiative_Forcing RF} estimates resulting from a change in land cover albedo. It discussed the {Topics.*Uncertainty uncertainties} due to the {Glossary.*Reconstruction_of_climate_variable reconstruction} of historical vegetation, the characterization of present-day vegetation and the surface radiation processes. On this basis, AR4 gave a best estimate of RF relative to 1750 due to land use related surface albedo at –0.2 ± 0.2 W m–2 with a level of scientific understanding at medium-low.

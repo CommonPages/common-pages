@@ -1,0 +1,15 @@
+
+public: ar5-9.5.3.3.1
+name: Section 9.5.3.3.1
+title: 9.5.3.3.1 - Atlantic Meridional Overturning Circulation variability
+section 9_5_3_3_1
+
+  |At 26.5°N, CMIP3 and CMIP5 model simulations show total AMOC variability that is within the observational {Topics.*Uncertainty uncertainty}. However, the total AMOC is the sum of a wind-driven component and a mid-ocean geostrophic component. Models tend to overestimate the wind-driven variability and underestimate the mid-ocean geostrophic variability.
+
+
+  
+
+  insert SectionDoc
+
+
+    

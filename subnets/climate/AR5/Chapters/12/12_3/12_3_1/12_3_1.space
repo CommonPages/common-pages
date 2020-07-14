@@ -1,0 +1,30 @@
+
+public: ar5-12.3.1
+name: Section 12.3.1
+title: 12.3.1 - Description of Scenarios
+section 12_3_1
+
+  |Long-term climate change {Topics.*Climate_Projections projections} reflect how {Topics.*Human_Influence human activities} or natural effects could alter the climate over decades and centuries. In this context, defined {Topics.*Scenarios scenarios} are important to allow for coherent {Topics.*Climate_Modelling climate model} intercomparisons and synthesis. Some scenarios present a simple stylized future and are used for process understanding. More comprehensive scenarios are produced by Integrated Assessment Models (IAMs) as internally consistent sets of {Topics.*Emissions emissions} and socioeconomic assumptions. Here, we focus on the RCP scenarios used within the CMIP5 intercomparison exercise along with the {Glossary.*SRES_scenarios SRES scenarios} developed for the IPCC Third Assessment Report ({cite.1.'IPCC_2001 TAR}) but still widely used by the climate community.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 12_3_1_1
+    - 12_3_1_2
+    - 12_3_1_3
+    - 12_3_1_4
+
+  name: Section 12.3.1 - Full Text
+  path FullText
+    name: Description of Scenarios
+    step
+      include
+        - Chapters.12.12_3.12_3_1.SectionDoc
+        - Chapters.12.12_3.12_3_1.12_3_1_1.SectionDoc
+        - Chapters.12.12_3.12_3_1.12_3_1_2.SectionDoc
+        - Chapters.12.12_3.12_3_1.12_3_1_3.SectionDoc
+        - Chapters.12.12_3.12_3_1.12_3_1_4.SectionDoc
+    

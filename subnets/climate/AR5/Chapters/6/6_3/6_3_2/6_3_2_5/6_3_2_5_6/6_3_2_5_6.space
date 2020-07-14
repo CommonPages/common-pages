@@ -1,0 +1,15 @@
+
+public: ar5-6.3.2.5.6
+name: Section 6.3.2.5.6
+title: 6.3.2.5.6 - Model evaluation of global and regional ocean carbon balance
+section 6_3_2_5_6
+
+  |Ocean process-based {Topics.*Carbon_Cycle carbon cycle} models are capable of reproducing the mean air–sea fluxes of {Glossary.*Carbon_dioxide CO2} derived from pCO2 observations, including their general patterns and amplitude, the {Glossary.*Anthropogenic anthropogenic} {Glossary.*Uptake uptake} of CO2 and the regional distribution of air–sea fluxes.
+
+
+  
+
+  insert SectionDoc
+
+
+    

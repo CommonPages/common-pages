@@ -1,0 +1,36 @@
+
+public: ar5-13.6
+name: Section 13.6
+title: 13.6 - Regional Sea Level Changes
+section 13_6
+
+  |Regional {Topics.*Sea_Level sea level} changes may differ substantially from a global average, showing complex spatial patterns which result from ocean dynamical processes, movements of the sea floor, and changes in gravity due to {Glossary.*Water_mass water mass} redistribution in the climate system. The CMIP5 {Glossary.*Ensemble ensemble} indicates that regions showing an enhanced sea level toward the end of the 21st century coincide with those showing the largest {Topics.*Uncertainty uncertainty} ({'Figure_13_16 Figure 13.16}b). {'Figure_13_23 Figure 13.23} shows the combination of the natural variability (annual mean) and the CMIP5 {Topics.*Climate_Projections projected} sea level rise for the RCP4.5 scenario for a number of locations distributed around the world.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 13_6_1
+    - 13_6_2
+    - 13_6_3
+    - 13_6_4
+    - 13_6_5
+    - 13_6_6
+
+  name: Section 13.6 - Full Text
+  path FullText
+    name: Regional Sea Level Changes
+    step
+      include
+        - Chapters.13.13_6.SectionDoc
+        - Chapters.13.13_6.13_6_1.SectionDoc
+        - Chapters.13.13_6.13_6_2.SectionDoc
+        - Chapters.13.13_6.13_6_3.SectionDoc
+        - Chapters.13.13_6.13_6_4.SectionDoc
+        - Chapters.13.13_6.13_6_4.13_6_4_1.SectionDoc
+        - Chapters.13.13_6.13_6_4.13_6_4_2.SectionDoc
+        - Chapters.13.13_6.13_6_5.SectionDoc
+        - Chapters.13.13_6.13_6_6.SectionDoc
+    

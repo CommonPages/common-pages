@@ -1,0 +1,28 @@
+
+public: ar5-3.5.3
+name: Section 3.5.3
+title: 3.5.3 - Deep and Bottom Waters
+section 3_5_3
+
+  |Deep and bottom layers of the ocean are supplied by roughly equal volumes of dense water sinking in the northern North Atlantic and around Antarctica. As a whole, the Lower North Atlantic Deep Water in the North Atlantic cooled, while the Antarctic Bottom Water has warmed.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 3_5_3_1
+    - 3_5_3_2
+    - 3_5_3_3
+
+  name: Section 3.5.3 - Full Text
+  path FullText
+    name: Deep and Bottom Waters
+    step
+      include
+        - Chapters.3.3_5.3_5_3.SectionDoc
+        - Chapters.3.3_5.3_5_3.3_5_3_1.SectionDoc
+        - Chapters.3.3_5.3_5_3.3_5_3_2.SectionDoc
+        - Chapters.3.3_5.3_5_3.3_5_3_3.SectionDoc
+    

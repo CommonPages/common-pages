@@ -1,0 +1,15 @@
+
+public: ar5-13.1.2
+name: Section 13.1.2
+title: 13.1.2 - Fundamental Definitions and Concepts
+section 13_1_2
+
+  |The height of the ocean surface at any given location, or sea level, is measured either with respect to the surface of the solid Earth (relative sea level (RSL)) or a geocentric reference such as the reference ellipsoid (geocentric sea level). RSL is the more relevant quantity when considering the coastal impacts of {Topics.*Sea_Level sea level change}, and it has been measured using tide gauges during the past few centuries and estimated for longer time spans from geological records. Geocentric sea level has been measured over the past two decades using satellite {Glossary.*Altimetry altimetry}. A temporal average for a given location, known as Mean Sea Level (MSL), is applied to remove shorter period variability. It is common to average MSL spatially to define global {Glossary.*Mean_sea_level mean sea level} (GMSL).
+
+
+  
+
+  insert SectionDoc
+
+
+    

@@ -1,0 +1,45 @@
+
+public: ar5-4.4
+name: Section 4.4
+title: 4.4 - Ice Sheets
+section 4_4
+
+  |New observations have greatly improved our ability to identify and quantify change in the vast polar ice sheets of Antarctica and Greenland. There is very high confidence that the Greenland {Glossary.*Ice_sheet ice sheet} has lost ice and contributed to {Topics.*Sea_Level sea level} rise over the last two decades. New methods indicate with high confidence that the Antarctic Peninsula is also losing ice. Since {cite.1.'IPCC_2007 AR4}, many new observations indicate that changes in ice sheets can happen more rapidly than was previously recognised.
+
+
+  apply FullText
+
+  
+
+  include
+    - 4_4_1
+    - 4_4_2
+    - 4_4_3
+    - 4_4_4
+    - 4_4_5
+
+  name: Section 4.4 - Full Text
+  path FullText
+    name: Background
+    step
+      include
+        - Chapters.4.4_4.4_4_1.SectionDoc
+        - Chapters.4.4_4.4_4_2.SectionDoc
+        - Chapters.4.4_4.4_4_2.4_4_2_1.SectionDoc
+        - Chapters.4.4_4.4_4_2.4_4_2_1.4_4_2_1_1.SectionDoc
+        - Chapters.4.4_4.4_4_2.4_4_2_1.4_4_2_1_2.SectionDoc
+        - Chapters.4.4_4.4_4_2.4_4_2_1.4_4_2_1_3.SectionDoc
+        - Chapters.4.4_4.4_4_2.4_4_2_2.SectionDoc
+        - Chapters.4.4_4.4_4_2.4_4_2_3.SectionDoc
+        - Chapters.4.4_4.4_4_2.4_4_2_4.SectionDoc
+        - Chapters.4.4_4.4_4_3.SectionDoc
+        - Chapters.4.4_4.4_4_4.4_4_4_1.SectionDoc
+        - Chapters.4.4_4.4_4_4.4_4_4_1.4_4_4_1_1.SectionDoc
+        - Chapters.4.4_4.4_4_4.4_4_4_1.4_4_4_1_2.SectionDoc
+        - Chapters.4.4_4.4_4_4.4_4_4_2.4_4_4_2_1.SectionDoc
+        - Chapters.4.4_4.4_4_4.4_4_4_2.4_4_4_2_2.SectionDoc
+        - Chapters.4.4_4.4_4_4.4_4_4_2.4_4_4_2_3.SectionDoc
+        - Chapters.4.4_4.4_4_4.4_4_4_2.4_4_4_2_4.SectionDoc
+        - Chapters.4.4_4.4_4_4.4_4_4_2.4_4_4_2_5.SectionDoc
+        - Chapters.4.4_4.4_4_5.SectionDoc
+    

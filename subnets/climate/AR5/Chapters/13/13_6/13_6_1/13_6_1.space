@@ -1,0 +1,15 @@
+
+public: ar5-13.6.1
+name: Section 13.6.1
+title: 13.6.1 - Regional Sea Level Changes, Climate Modes and Forced Sea Level Response
+section 13_6_1
+
+  |Most of the regional {Topics.*Sea_Level sea level} changes observed during the recent {Glossary.*Altimetry altimetry} era or reconstructed during past decades from tide gauges appear to be {Glossary.*Steric steric}. Moreover, steric changes observed during the altimetry era appear to be primarily {Glossary.*Thermosteric thermosteric} in nature, although {Glossary.*Halosteric halosteric} effects, which can reduce or enhance thermosteric changes, are also important in some regions. Ocean models and ocean {Topics.*Reanalysis reanalysis}-based results as well as ocean circulation models without data assimilation confirm these results.
+
+
+  
+
+  insert SectionDoc
+
+
+    

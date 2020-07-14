@@ -1,0 +1,15 @@
+
+public: ar5-9.4.1.4.3
+name: Section 9.4.1.4.3
+title: 9.4.1.4.3 - Extratropical circulation
+section 9_4_1_4_3
+
+  |The {cite.1.'IPCC_2007 AR4} concluded that models, when forced with observed SSTs, are capable of producing the spatial distribution of {Glossary.*Storm_tracks storm tracks}, but generally show deficiencies in the numbers and depth of cyclones and the exact locations of the storm tracks. The ability to represent extratropical cyclones in {Topics.*Climate_Modelling climate models} has been improving, partly due to increases in horizontal {Glossary.*Resolution resolution}. Most studies have focussed on NH storm tracks. There is still a lack of information on SH storm track evaluation for the CMIP5 models.
+
+
+  
+
+  insert SectionDoc
+
+
+    

@@ -1,0 +1,15 @@
+
+public: ar5-1.2.2
+name: Section 1.2.2
+title: 1.2.2 - Key Concepts in Climate Science
+section 1_2_2
+
+  |Weather describes the conditions of the {Topics.*Climate_System atmosphere} at a certain place and time. Climate in a narrow sense is usually defined as the average weather. Changes in the {Glossary.*Atmosphere atmosphere}, land, ocean, {Glossary.*Biosphere_terrestrial_and_marine biosphere} and {Glossary.*Cryosphere cryosphere}—both natural and {Glossary.*Anthropogenic anthropogenic}—can perturb the Earth’s {Topics.*Radiation_Budgets radiation budget}, producing a {Topics.*Radiative_Forcing radiative forcing} (RF) that affects climate. Once a forcing is applied, complex internal feedbacks determine the eventual response of the climate system.
+
+
+  
+
+  insert SectionDoc
+
+
+    

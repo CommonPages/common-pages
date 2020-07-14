@@ -1,0 +1,30 @@
+
+public: ar5-2.2.2
+name: Section 2.2.2
+title: 2.2.2 - Near-Term Climate Forcers
+section 2_2_2
+
+  |Confidence in long-term stratospheric H2O trends is low. Global stratospheric {Glossary.*Ozone ozone} has declined. Trends in surface ozone show regional variability. Satellite and surface observations of ozone precursor gases and non-methane volatile organic carbons indicate strong regional differences in trends.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 2_2_2_1
+    - 2_2_2_2
+    - 2_2_2_3
+    - 2_2_2_4
+
+  name: Section 2.2.2 - Full Text
+  path FullText
+    name: Near-Term Climate Forcers
+    step
+      include
+        - Chapters.2.2_2.2_2_2.SectionDoc
+        - Chapters.2.2_2.2_2_2.2_2_2_1.SectionDoc
+        - Chapters.2.2_2.2_2_2.2_2_2_2.SectionDoc
+        - Chapters.2.2_2.2_2_2.2_2_2_3.SectionDoc
+        - Chapters.2.2_2.2_2_2.2_2_2_4.SectionDoc
+    

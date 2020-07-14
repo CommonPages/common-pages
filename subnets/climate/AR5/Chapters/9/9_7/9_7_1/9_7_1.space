@@ -1,0 +1,15 @@
+
+public: ar5-9.7.1
+name: Section 9.7.1
+title: 9.7.1 - Equilibrium Climate Sensitivity, Idealized Radiative Forcing, and Transient Climate Response in the Coupled Model Intercomparison Project Phase 5 Ensemble
+section 9_7_1
+
+  |In the {cite.1.'IPCC_2007 AR4}, the range in equilibrium {Glossary.*Climate_sensitivity climate sensitivity} of the CMIP3 models was 2.1°C to 4.4°C, and the single largest contributor to this spread was differences among modelled cloud feedbacks. This assessment carries over to the CMIP5 {Glossary.*Ensemble ensemble} without any substantial change. {'Table_9_5 Table 9.5} shows effective {Glossary.*Effective_radiative_forcing ERF}, ECS, TCR and {Glossary.*Feedback feedback} strengths for the CMIP5 ensemble. ECS and TCR vary across the ensemble by a factor of approximately 2. While every CMIP5 model whose heritage can be traced to CMIP3 shows some change in ECS, there is no discernible systematic tendency.
+
+
+  
+
+  insert SectionDoc
+
+
+    

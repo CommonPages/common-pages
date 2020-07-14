@@ -1,0 +1,3084 @@
+
+space 13
+
+  name: Pattyn et al., 2013
+  title: Grounding-line migration in plan-view marine ice-sheet models: results of the ice2sea MISMIP3d intercomparison
+  lead: In Journal of Glaciology, 2013
+  article 'Pattyn_et_al_2013
+    insert Pattyn_et_al_2013_abstract
+
+  name: Dobrynin et al., 2012
+  title: Evolution of the global wind wave climate in CMIP5 experiments
+  lead: In Geophysical Research Letters, 2012
+  article 'Dobrynin_et_al_2012
+    insert Dobrynin_et_al_2012_abstract
+
+  name: Rignot, 2008
+  title: Changes in West Antarctic ice stream dynamics observed with ALOS PALSAR data
+  lead: In Geophysical Research Letters, 2008
+  article 'Rignot_2008
+    insert Rignot_2008_abstract
+
+  name: Stammer et al., 2013
+  title: Causes for contemporary regional sea level changes
+  lead: In Annual Review of Marine Science, Vol 5, 2013
+  booksec 'Stammer_et_al_2013
+    insert Stammer_et_al_2013_abstract
+
+  name: Roberts et al., 2012
+  title: Melting ice sheets 400,000 yr ago raised sea level by 13 m: Past analogue for future trends
+  lead: In Earth and Planetary Science Letters, 2012
+  article 'Roberts_et_al_2012
+    insert Roberts_et_al_2012_abstract
+
+  name: Bales et al., 2009
+  title: Annual accumulation for Greenland updated using ice core data developed during 2000-2006 and analysis of daily coastal meteorological data
+  lead: In Journal of Geophysical Research-Atmospheres, 2009
+  article 'Bales_et_al_2009
+    insert Bales_et_al_2009_abstract
+
+  name: Hansen et al., 2011
+  title: Earth's energy imbalance and implications
+  lead: In Atmospheric Chemistry and Physics, 2011
+  article 'Hansen_et_al_2011
+    insert Hansen_et_al_2011_abstract
+
+  name: Charbit et al., 2008
+  title: Amount of CO2 emissions irreversibly leading to the total melting of Greenland
+  lead: In Geophysical Research Letters, 2008
+  article 'Charbit_et_al_2008
+    insert Charbit_et_al_2008_abstract
+
+  name: Seneviratne et al., 2012
+  title: Changes in Climate Extremes and Their Impacts on the Natural Physical Environment
+  lead: In Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation (SREX), 2012
+  article 'Seneviratne_et_al_2012
+    insert Seneviratne_et_al_2012_abstract
+
+  name: Di Lorenzo et al., 2010
+  title: Central Pacific El Niño and decadal climate change in the North Pacific Ocean
+  lead: In Nature Geoscience, 2010
+  article 'Di_Lorenzo_et_al_2010
+    insert Di_Lorenzo_et_al_2010_abstract
+
+  name: Church et al., 2011b
+  title: Revisiting the Earth's sea-level and energy budgets from 1961 to 2008
+  lead: In Geophysical Research Letters, 2011
+  article 'Church_et_al_2011b
+    insert Church_et_al_2011b_abstract
+
+  name: Chao et al., 2008
+  title: Impact of artificial reservoir water impoundment on global sea level
+  lead: In Science, 2008
+  article 'Chao_et_al_2008
+    insert Chao_et_al_2008_abstract
+
+  name: Boretti, 2013
+  title: Discussion of Christine C. Shepard, Vera N. Agostini, Ben Gilmer, Tashya Allen, Jeff Stone, William Brooks and Michael W. Beck. Reply: Evaluating alternative future sea-level rise scenarios, Natural Hazards, 2012 doi:10.1007/s11069-012-0160-2
+  lead: In Natural Hazards, 2013
+  article 'Boretti_2013
+    insert Boretti_2013_abstract
+
+  name: Lenton et al., 2008
+  title: Tipping elements in the Earth's climate system
+  lead: In Proceedings of the National Academy of Sciences of the United States of America, 2008
+  article 'Lenton_et_al_2008
+    insert Lenton_et_al_2008_abstract
+
+  name: Gomez et al., 2010
+  title: A new projection of sea level change in response to collapse of marine sectors of the Antarctic Ice Sheet
+  lead: In Geophysical Journal International, 2010
+  article 'Gomez_et_al_2010a
+    insert Gomez_et_al_2010a_abstract
+
+  name: Meier et al., 2007
+  title: Glaciers dominate eustatic sea-level rise in the 21st century
+  lead: In Science, 2007
+  article 'Meier_et_al_2007
+    insert Meier_et_al_2007_abstract
+
+  name: Martin and Adcroft, 2010
+  title: Parameterizing the fresh-water flux from land ice to ocean with interactive icebergs in a coupled climate model
+  lead: In Ocean Modelling, 2010
+  article 'Martin_and_Adcroft_2010
+    insert Martin_and_Adcroft_2010_abstract
+
+  name: Robinson et al., 2012
+  title: Multistability and critical thresholds of the Greenland ice sheet
+  lead: In Nature Climate Change, 2012
+  article 'Robinson_et_al_2012
+    insert Robinson_et_al_2012_abstract
+
+  name: Smith et al., 2010
+  title: Potential impact of sea level rise on coastal surges in southeast Louisiana
+  lead: In Ocean Engineering, 2010
+  article 'Smith_et_al_2010
+    insert Smith_et_al_2010_abstract
+
+  name: Vinogradov and Ponte, 2011
+  title: Low-frequency variability in coastal sea level from tide gauges and altimetry
+  lead: In Journal of Geophysical Research-Oceans, 2011
+  article 'Vinogradov_and_Ponte_2011
+    insert Vinogradov_and_Ponte_2011_abstract
+
+  name: Stammer, 2008
+  title: Response of the global ocean to Greenland and Antarctic ice melting
+  lead: In Journal of Geophysical Research - Oceans, 2008
+  article 'Stammer_2008
+    insert Stammer_2008_abstract
+
+  name: Straneo et al., 2010
+  title: Rapid circulation of warm subtropical waters in a major glacial fjord in East Greenland
+  lead: In Nature Geoscience, 2010
+  article 'Straneo_et_al_2010
+    insert Straneo_et_al_2010_abstract
+
+  name: Jevrejeva et al., 2008
+  title: Recent global sea level acceleration started over 200 years ago?
+  lead: In Geophysical Research Letters, 2008
+  article 'Jevrejeva_et_al_2008
+    insert Jevrejeva_et_al_2008_abstract
+
+  name: von Storch et al., 2008
+  title: Relationship between global mean sea-level and global mean temperature in a climate simulation of the past millennium
+  lead: In Ocean Dynamics, 2008
+  article 'von_Storch_et_al_2008
+    insert von_Storch_et_al_2008_abstract
+
+  name: Dyurgerov and Meier, 2005
+  title: Glaciers and the Changing Earth System: A 2004 Snapshot
+  lead: By Institute of Arctic and Alpine Research, University of Colorado, 2005
+  report 'Dyurgerov_and_Meier_2005
+    insert Dyurgerov_and_Meier_2005_abstract
+
+  name: Gregory et al., 2013b
+  title: Climate models without pre-industrial volcanic forcing underestimate historical ocean thermal expansion
+  lead: In Geophysical Research Letters, 2013
+  article 'Gregory_et_al_2013b
+    insert Gregory_et_al_2013b_abstract
+
+  name: Arendt et al., 2012
+  title: Randolph Glacier Inventory [v2.0]: A Dataset of Global Glacier Outlines. Global Land Ice Measurements from Space, Boulder Colorado, USA. Digital Media
+  article 'Arendt_et_al_2012
+    insert Arendt_et_al_2012_abstract
+
+  name: Vermeer and Rahmstorf, 2009
+  title: Global sea level linked to global temperature
+  lead: In Proceedings of the National Academy of Science, 2009
+  article 'Vermeer_and_Rahmstorf_2009
+    insert Vermeer_and_Rahmstorf_2009_abstract
+
+  name: Chambers et al., 2012
+  title: Is there a 60-year oscillation in global mean sea level?
+  lead: In Geophysical Research Letters, 2012
+  article 'Chambers_et_al_2012
+    insert Chambers_et_al_2012_abstract
+
+  name: Yin, 2012
+  title: Century to multi-century sea level rise projections from CMIP5 models
+  lead: In Geophysical Research Letters, 2012
+  article 'Yin_2012
+    insert Yin_2012_abstract
+
+  name: Kawase, 1987
+  title: Establishment of deep ocean circulation driven by deep-water
+  lead: In Journal of Physical Oceanography, 1987
+  article 'Kawase_1987
+    insert Kawase_1987_abstract
+
+  name: Lombard et al., 2005
+  title: Contribution of thermal expansion to present-day sea-level change revisited
+  lead: In Global and Planetary Change, 2005
+  article 'Lombard_et_al_2005a
+    insert Lombard_et_al_2005a_abstract
+
+  name: Lambeck and Nakiboglu, 1984
+  title: Recent global changes in sea level
+  lead: In Geophysical Research Letters, 1984
+  article 'Lambeck_and_Nakiboglu_1984
+    insert Lambeck_and_Nakiboglu_1984_abstract
+
+  name: Marčelja, 2010
+  title: The timescale and extent of thermal expansion of the global ocean due to climate change
+  lead: In Ocean Science, 2010
+  article 'Marelja_2010
+    insert Marelja_2010_abstract
+
+  name: Goelzer et al., 2011
+  title: Impact of Greenland and Antarctic ice sheet interactions on climate sensitivity
+  lead: In Climate Dynamics, 2011
+  article 'Goelzer_et_al_2011
+    insert Goelzer_et_al_2011_abstract
+
+  name: Driesschaert et al., 2007
+  title: Modeling the influence of Greenland ice sheet melting on the Atlantic meridional overturning circulation during the next millennia
+  lead: In Geophysical Research Letters, 2007
+  article 'Driesschaert_et_al_2007
+    insert Driesschaert_et_al_2007_abstract
+
+  name: Arthern et al., 2006
+  title: Antarctic snow accumulation mapped using polarization of 4.3-cm wavelength microwave emission
+  lead: In Journal of Geophysical Research-Atmospheres, 2006
+  article 'Arthern_et_al_2006
+    insert Arthern_et_al_2006_abstract
+
+  name: Lettenmaier and Milly, 2009
+  title: Land waters and sea level
+  lead: In Nature Geoscience, 2009
+  article 'Lettenmaier_and_Milly_2009
+    insert Lettenmaier_and_Milly_2009_abstract
+
+  name: Crowley, 2000
+  title: Causes of climate change over the past 1000 years
+  lead: In Science, 2000
+  article 'Crowley_2000
+    insert Crowley_2000_abstract
+
+  name: Loeb et al., 2009
+  title: Toward optimal closure of the earth's top-of-atmosphere radiation budget
+  lead: In Journal of Climate, 2009
+  article 'Loeb_et_al_2009
+    insert Loeb_et_al_2009_abstract
+
+  name: Machguth et al., 2013
+  title: The future sea-level rise contribution of Greenland’s glaciers and ice caps
+  lead: In Environmental Research Letters, 2013
+  article 'Machguth_et_al_2013
+    insert Machguth_et_al_2013_abstract
+
+  name: Schaeffer et al., 2012
+  title: Long-term sea-level rise implied by 1.5°C and 2°C warming levels
+  lead: In Nature Climate Change, 2012
+  article 'Schaeffer_et_al_2012
+    insert Schaeffer_et_al_2012_abstract
+
+  name: Vermaire et al., 2013
+  title: Arctic climate warming and sea ice declines lead to increased storm surge activity
+  lead: In Geophysical Research Letters, 2013
+  article 'Vermaire_et_al_2013
+    insert Vermaire_et_al_2013_abstract
+
+  name: Lorbacher et al., 2010
+  title: Regional patterns of sea level change related to interannual variability and multidecadal trends in the Atlantic meridional overturning circulation
+  lead: In Journal of Climate, 2010
+  article 'Lorbacher_et_al_2010
+    insert Lorbacher_et_al_2010_abstract
+
+  name: Pokhrel et al., 2013
+  title: Overestimated water storage Reply
+  lead: In Nature Geoscience, 2013
+  article 'Pokhrel_et_al_2013
+    insert Pokhrel_et_al_2013_abstract
+
+  name: Suzuki et al., 2005
+  title: Projection of future sea level and its variability in a high-resolution climate model: ocean processes and Greenland and Antarctic ice-melt contributions
+  lead: In Geophysical Research Letters, 2005
+  article 'Suzuki_et_al_2005
+    insert Suzuki_et_al_2005_abstract
+
+  name: Wada et al., 2010
+  title: Global depletion of groundwater resources
+  lead: In Geophysical Research Letters, 2010
+  article 'Wada_et_al_2010
+    insert Wada_et_al_2010_abstract
+
+  name: Hu et al., 2011
+  title: Effect of the potential melting of the Greenland Ice Sheet on the Meridional Overturning Circulation and global climate in the future
+  lead: In Deep-Sea Research Part Ii-Topical Studies in Oceanography, 2011
+  article 'Hu_et_al_2011
+    insert Hu_et_al_2011_abstract
+
+  name: Durand et al., 2009
+  title: Full Stokes modeling of marine ice sheets: influence of the grid size
+  lead: In Annals of Glaciology, 2009
+  article 'Durand_et_al_2009
+    insert Durand_et_al_2009_abstract
+
+  name: Mitrovica et al., 2009
+  title: The Sea-Level Fingerprint of West Antarctic Collapse
+  lead: In Science, 2009
+  article 'Mitrovica_et_al_2009
+    insert Mitrovica_et_al_2009_abstract
+
+  name: Held et al., 2010
+  title: Probing the fast and slow components of global warming by returning abruptly to preindustrial forcing
+  lead: In Journal of Climate, 2010
+  article 'Held_et_al_2010
+    insert Held_et_al_2010_abstract
+
+  name: Rignot et al., 2011
+  title: Acceleration of the contribution of the Greenland and Antarctic ice sheets to sea level rise
+  lead: In Geophysical Research Letters, 2011
+  article 'Rignot_et_al_2011
+    insert Rignot_et_al_2011_abstract
+
+  name: Gregory and Lowe, 2000
+  title: Predictions of global and regional sea-level rise using AOGCMs with and without flux adjustment
+  lead: In Geophysical Research Letters, 2000
+  article 'Gregory_and_Lowe_2000
+    insert Gregory_and_Lowe_2000_abstract
+
+  name: Harper et al., 2012
+  title: Greenland ice-sheet contribution to sea-level rise buffered by meltwater storage in firn
+  lead: In Nature, 2012
+  article 'Harper_et_al_2012
+    insert Harper_et_al_2012_abstract
+
+  name: Rahmstorf, 2007
+  title: A semi-empirical approach to projecting future sea-level rise
+  lead: In Science, 2007
+  article 'Rahmstorf_2007a
+    insert Rahmstorf_2007a_abstract
+
+  name: Hansen et al., 1985
+  title: Climate response times - dependence on climate sensitivity and ocean mixing
+  lead: In Science, 1985
+  article 'Hansen_et_al_1985
+    insert Hansen_et_al_1985_abstract
+
+  name: Olivié et al., 2012
+  title: Atmosphere response time scales estimated from AOGCM experiments
+  lead: In Journal of Climate, 2012
+  article 'Olivi_et_al_2012
+    insert Olivi_et_al_2012_abstract
+
+  name: Tamisiea et al., 2010
+  title: Impact of self attraction and loading on the annual cycle in sea level
+  lead: In Journal of Geophysical Research, 2010
+  article 'Tamisiea_et_al_2010
+    insert Tamisiea_et_al_2010_abstract
+
+  name: Fausto et al., 2009
+  title: Improving surface boundary conditions with focus on coupling snow densification and meltwater retention in large-scale ice-sheet models of Greenland
+  lead: In Journal of Glaciology, 2009
+  article 'Fausto_et_al_2009
+    insert Fausto_et_al_2009_abstract
+
+  name: Geoffroy et al., 2012
+  title: Quantifying the source of spread in climate change experiments
+  lead: In Geophysical Research Letters, 2012
+  article 'Geoffroy_et_al_2012
+    insert Geoffroy_et_al_2012_abstract
+
+  name: Rahmstorf et al., 2012
+  title: Testing the robustness of semi-empirical sea level projections
+  lead: In Climate Dynamics, 2012
+  article 'Rahmstorf_et_al_2012a
+    insert Rahmstorf_et_al_2012a_abstract
+
+  name: Knutti et al., 2008
+  title: Comment on "Heat capacity, time constant, and sensitivity of Earth's climate system'' by S. E. Schwartz
+  lead: In Journal of Geophysical Research-Atmospheres, 2008
+  article 'Knutti_et_al_2008
+    insert Knutti_et_al_2008_abstract
+
+  name: Stammer and Huttemann, 2008
+  title: Response of regional sea level to atmospheric pressure loading in a climate change scenario
+  lead: In Journal of Climate, 2008
+  article 'Stammer_and_Huttemann_2008
+    insert Stammer_and_Huttemann_2008_abstract
+
+  name: Christoffersen et al., 2011
+  title: Warming of waters in an East Greenland fjord prior to glacier retreat: mechanisms and connection to large-scale atmospheric conditions
+  lead: In The Cryosphere, 2011
+  article 'Christoffersen_et_al_2011
+    insert Christoffersen_et_al_2011_abstract
+
+  name: Lowe and Gregory, 2006
+  title: Understanding projections of sea level rise in a Hadley Centre coupled climate model
+  lead: In Journal of Geophysical Research-Oceans, 2006
+  article 'Lowe_and_Gregory_2006
+    insert Lowe_and_Gregory_2006_abstract
+
+  name: Grinsted et al., 2010
+  title: Reconstructing sea level from paleo and projected temperatures 200 to 2100 AD
+  lead: In Climate Dynamics, 2010
+  article 'Grinsted_et_al_2010
+    insert Grinsted_et_al_2010_abstract
+
+  name: Raymo et al., 2011
+  title: Departures from eustasy in Pliocene sea-level records
+  lead: In Nature Geoscience, 2011
+  article 'Raymo_et_al_2011
+    insert Raymo_et_al_2011_abstract
+
+  name: Lionello et al., 2008
+  title: The Mediterranean surface wave climate inferred from future scenario simulations
+  lead: In Global and Planetary Change, 2008
+  article 'Lionello_et_al_2008
+    insert Lionello_et_al_2008_abstract
+
+  name: Boretti, 2013b
+  title: Discussion of "Dynamic System Model to Predict Global Sea-Level Rise and Temperature Change" by Mustafa M. Aral, Jiabao Guan, and Biao Chang
+  lead: In Journal of Hydrologic Engineering, 2013
+  article 'Boretti_2013b
+    insert Boretti_2013b_abstract
+
+  name: Meinshausen et al., 2011
+  title: The RCP greenhouse gas concentrations and their extensions from 1765 to 2300
+  lead: In Climatic Change, 2011
+  article 'Meinshausen_et_al_2011
+    insert Meinshausen_et_al_2011_abstract
+
+  name: Vaughan et al., 1999
+  title: Reassessment of net surface mass balance in Antarctica
+  lead: In Journal of Climate, 1999
+  article 'Vaughan_et_al_1999
+    insert Vaughan_et_al_1999_abstract
+
+  name: Holland et al., 2008
+  title: Acceleration of Jakobshavn Isbrae triggered by warm subsurface ocean waters
+  lead: In Nature Geoscience, 2008
+  article 'Holland_et_al_2008
+    insert Holland_et_al_2008_abstract
+
+  name: Wang et al., 2008
+  title: The impact of climate change on storm surges over Irish waters
+  lead: In Ocean Modelling, 2008
+  article 'Wang_et_al_2008
+    insert Wang_et_al_2008_abstract
+
+  name: Levermann et al., 2005
+  title: Dynamic sea level changes following changes in the thermohaline circulation
+  lead: In Climate Dynamics, 2005
+  article 'Levermann_et_al_2005
+    insert Levermann_et_al_2005_abstract
+
+  name: Losch et al., 2004
+  title: How sensitive are coarse general circulation models to fundamental approximations in the equations of motion?
+  lead: In Journal of Physical Oceanography, 2004
+  article 'Losch_et_al_2004
+    insert Losch_et_al_2004_abstract
+
+  name: Scambos et al., 2004
+  title: Glacier acceleration and thinning after ice shelf collapse in the Larsen B embayment, Antarctica
+  lead: In Geophysical Research Letters, 2004
+  article 'Scambos_et_al_2004
+    insert Scambos_et_al_2004_abstract
+
+  name: Watson et al., 2010
+  title: Twentieth century constraints on sea level change and earthquake deformation at Macquarie Island
+  lead: In Geophysical Journal International, 2010
+  article 'Watson_et_al_2010
+    insert Watson_et_al_2010_abstract
+
+  name: Wake et al., 2009
+  title: Surface mass-balance changes of the Greenland ice sheet since 1866
+  lead: In Annals of Glaciology, 2009
+  article 'Wake_et_al_2009
+    insert Wake_et_al_2009_abstract
+
+  name: Morice et al., 2012
+  title: Quantifying uncertainties in global and regional temperature change using an ensemble of observational estimates: The HadCRUT4 data set
+  lead: In Journal of Geophysical Research-Atmospheres, 2012
+  article 'Morice_et_al_2012
+    insert Morice_et_al_2012_abstract
+
+  name: Riva et al., 2010
+  title: Sea-level fingerprint of continental water and ice mass change from GRACE
+  lead: In Geophysical Research Letters, 2010
+  article 'Riva_et_al_2010
+    insert Riva_et_al_2010_abstract
+
+  name: Legg et al., 2009
+  title: Improving oceanic overflow representation in climate models
+  lead: In Bulletin of the American Meteorological Society, 2009
+  article 'Legg_et_al_2009
+    insert Legg_et_al_2009_abstract
+
+  name: Gregory and Huybrechts, 2006
+  title: Ice-sheet contributions to future sea-level change
+  lead: In Philosophical Transactions of the Royal Society of London A, 2006
+  article 'Gregory_and_Huybrechts_2006
+    insert Gregory_and_Huybrechts_2006_abstract
+
+  name: Leuliette and Miller, 2009
+  title: Closing the sea level rise budget with altimetry, Argo, and GRACE
+  lead: In Geophysical Research Letters, 2009
+  article 'Leuliette_and_Miller_2009
+    insert Leuliette_and_Miller_2009_abstract
+
+  name: Ray and Douglas, 2011
+  title: Experiments in reconstructing twentieth-century sea levels
+  lead: In Progress in Oceanography, 2011
+  article 'Ray_and_Douglas_2011
+    insert Ray_and_Douglas_2011_abstract
+
+  name: Syvitski and Kettner, 2011
+  title: Sediment flux and the Anthropocene
+  lead: In Philosophical Transactions of the Royal Society of London A, 2011
+  article 'Syvitski_and_Kettner_2011
+    insert Syvitski_and_Kettner_2011_abstract
+
+  name: Bengtsson et al., 2011
+  title: Large-scale surface mass balance of ice sheets from a comprehensive atmosphere model
+  lead: In Surveys in Geophysics, 2011
+  article 'Bengtsson_et_al_2011
+    insert Bengtsson_et_al_2011_abstract
+
+  name: Gregory, 2000
+  title: Vertical heat transports in the ocean and their effect on time-dependent climate change
+  lead: In Climate Dynamics, 2000
+  article 'Gregory_2000
+    insert Gregory_2000_abstract
+
+  name: Zwally and Giovinetto, 2011
+  title: Overview and assessment of Antarctic Ice-Sheet mass balance estimates: 1992-2009
+  lead: In Surveys in Geophysics, 2011
+  article 'Zwally_and_Giovinetto_2011
+    insert Zwally_and_Giovinetto_2011_abstract
+
+  name: Meehl et al., 2011
+  title: Model-based evidence of deep-ocean heat uptake during surface-temperature hiatus periods
+  lead: In Nature Climate Change, 2011
+  article 'Meehl_et_al_2011
+    insert Meehl_et_al_2011_abstract
+
+  name: Domingues et al., 2008
+  title: Improved estimates of upper-ocean warming and multi-decadal sea-level rise
+  lead: In Nature, 2008
+  article 'Domingues_et_al_2008
+    insert Domingues_et_al_2008_abstract
+
+  name: Masters et al., 2012
+  title: Comparison of global mean sea level time series from TOPEX/Poseidon, Jason-1, and Jason-2
+  lead: In Marine Geodesy, 2012
+  article 'Masters_et_al_2012
+    insert Masters_et_al_2012_abstract
+
+  name: Phillips et al., 2010
+  title: Cryo-hydrologic warming: a potential mechanism for rapid thermal response of ice sheets
+  lead: In Geophysical Research Letters, 2010
+  article 'Phillips_et_al_2010
+    insert Phillips_et_al_2010_abstract
+
+  name: Huss et al., 2012
+  title: Conventional versus reference-surface mass balance
+  lead: In Journal of Glaciology, 2012
+  article 'Huss_et_al_2012
+    insert Huss_et_al_2012_abstract
+
+  name: Chylek et al., 2004
+  title: Global warming and the Greenland ice sheet
+  lead: In Climatic Change, 2004
+  article 'Chylek_et_al_2004
+    insert Chylek_et_al_2004_abstract
+
+  name: Ridley et al., 2005
+  title: Elimination of the Greenland ice sheet in a high CO2 climate
+  lead: In Journal of Climate, 2005
+  article 'Ridley_et_al_2005
+    insert Ridley_et_al_2005_abstract
+
+  name: Hunter, 2010
+  title: Estimating sea-level extremes under conditions of uncertain sea-level rise
+  lead: In Climatic Change, 2010
+  article 'Hunter_2010
+    insert Hunter_2010_abstract
+
+  name: Gehrels et al., 2005
+  title: Onset of recent rapid sea-level rise in the western Atlantic Ocean
+  lead: In Quaternary Science Reviews, 2005
+  article 'Gehrels_et_al_2005
+    insert Gehrels_et_al_2005_abstract
+
+  name: Nick et al., 2009
+  title: Large-scale changes in Greenland outlet glacier dynamics triggered at the terminus
+  lead: In Nature Geoscience, 2009
+  article 'Nick_et_al_2009
+    insert Nick_et_al_2009_abstract
+
+  name: Gower, 2010
+  title: Comment on "Response of the global ocean to Greenland and Antarctic ice melting" by D. Stammer
+  lead: In Journal of Geophysical Research-Oceans, 2010
+  article 'Gower_2010
+    insert Gower_2010_abstract
+
+  name: Johansson et al., 2013
+  title: Global sea level rise scenarios adapted to the Finnish coast
+  lead: In Journal of Marine Systems, 2013
+  article 'Johansson_et_al_2013
+    insert Johansson_et_al_2013_abstract
+
+  name: Douglas, 2001
+  title: Sea level change in the era of the recording tide gauge
+  lead: In Sea Level Rise, History and Consequences, 2001
+  article 'Douglas_2001
+    insert Douglas_2001_abstract
+
+  name: Vizcaíno et al., 2010
+  title: Climate modification by future ice sheet changes and consequences for ice sheet mass balance
+  lead: In Climate Dynamics, 2010
+  article 'Vizcano_et_al_2010
+    insert Vizcano_et_al_2010_abstract
+
+  name: Tebaldi et al., 2012
+  title: Modelling sea level rise impacts on storm surges along US coasts
+  lead: In Environmental Research Letters, 2012
+  article 'Tebaldi_et_al_2012
+    insert Tebaldi_et_al_2012_abstract
+
+  name: Morlighem et al., 2010
+  title: Spatial patterns of basal drag inferred using control methods from a full-Stokes and simpler models for Pine Island Glacier, West Antarctica
+  lead: In Geophysical Research Letters, 2010
+  article 'Morlighem_et_al_2010
+    insert Morlighem_et_al_2010_abstract
+
+  name: Box, 2002
+  title: Survey of Greenland instrumental temperature records: 1873-2001
+  lead: In International Journal of Climatology, 2002
+  article 'Box_2002
+    insert Box_2002_abstract
+
+  name: Harper et al., 2009
+  title: Developments in storm tide modelling and risk assessment in the Australian region
+  lead: In Natural Hazards, 2009
+  article 'Harper_et_al_2009
+    insert Harper_et_al_2009_abstract
+
+  name: Mernild et al., 2010
+  title: Greenland Ice Sheet Surface Mass-Balance Modeling in a 131-Yr Perspective, 1950-2080
+  lead: In Journal of Hydrometeorology, 2010
+  article 'Mernild_et_al_2010
+    insert Mernild_et_al_2010_abstract
+
+  name: Zickfeld et al., 2009
+  title: Setting cumulative emissions targets to reduce the risk of dangerous climate change
+  lead: In Proceedings of the National Academy of Sciences of the United States of America, 2009
+  article 'Zickfeld_et_al_2009
+    insert Zickfeld_et_al_2009_abstract
+
+  name: Carton et al., 2005
+  title: Sea level rise and the warming of the oceans in the Simple Ocean Data Assimilation (SODA) ocean reanalysis
+  lead: In Journal of Geophysical Research - Oceans, 2005
+  article 'Carton_et_al_2005
+    insert Carton_et_al_2005_abstract
+
+  name: Russell et al., 2000
+  title: Regional sea-level changes projected by the NASA/GISS atmosphere-ocean model
+  lead: In Climate Dynamics, 2000
+  article 'Russell_et_al_2000
+    insert Russell_et_al_2000_abstract
+
+  name: Bamber and Riva, 2010
+  title: The sea level fingerprint of recent ice mass fluxes
+  lead: In Cryosphere, 2010
+  article 'Bamber_and_Riva_2010
+    insert Bamber_and_Riva_2010_abstract
+
+  name: Santer et al., 2011
+  title: Separating signal and noise in atmospheric temperature changes: The importance of timescale
+  lead: In Journal of Geophysical Research-Atmospheres, 2011
+  article 'Santer_et_al_2011
+    insert Santer_et_al_2011_abstract
+
+  name: Gregory et al., 2006
+  title: Simulated global-mean sea-level changes over the last half-millennium
+  lead: In Journal of Climate, 2006
+  article 'Gregory_et_al_2006
+    insert Gregory_et_al_2006_abstract
+
+  name: Parker, 2013
+  title: Comment to M Lichter and D Felsenstein, Assessing the costs of sea-level rise and extreme flooding at the local level: A GIS-based approach
+  lead: In Ocean and Coastal Management, 2013
+  article 'Parker_2013a
+    insert Parker_2013a_abstract
+
+  name: Thompson et al., 2011
+  title: Sea-level oscillations during the last interglacial highstand recorded by Bahamas corals
+  lead: In Nature Geoscience, 2011
+  article 'Thompson_et_al_2011
+    insert Thompson_et_al_2011_abstract
+
+  name: Boretti, 2012
+  title: Is there any support in the long term tide gauge data to the claims that parts of Sydney will be swamped by rising sea levels?
+  lead: In Coastal Engineering, 2012
+  article 'Boretti_2012a
+    insert Boretti_2012a_abstract
+
+  name: Forster et al., 2013
+  title: Evaluating adjusted forcing and model spread for historical and future scenarios in the CMIP5 generation of climate models
+  lead: In Journal of Geophysical Research, 2013
+  article 'Forster_et_al_2013
+    insert Forster_et_al_2013_abstract
+
+  name: Box, 2013
+  title: Greenland ice sheet mass balance reconstruction. Part II: Surface mass balance (1840-2010)
+  lead: In Journal of Climate, 2013
+  article 'Box_2013
+    insert Box_2013_abstract
+
+  name: Milly et al., 2010
+  title: Terrestrial water-storage contributions to sea-level rise and variability
+  lead: In Understanding Sea-Level Rise and Variability, 2010
+  booksec 'Milly_et_al_2010
+    insert Milly_et_al_2010_abstract
+
+  name: Gehrels et al., 2012
+  title: Nineteenth and twentieth century sea-level changes in Tasmania and New Zealand
+  lead: In Earth and Planetary Science Letters, 2012
+  article 'Gehrels_et_al_2012
+    insert Gehrels_et_al_2012_abstract
+
+  name: Zhang and Church, 2012
+  title: Sea level trends, interannual and decadal variability in the Pacific Ocean
+  lead: In Geophysical Research Letters, 2012
+  article 'Zhang_and_Church_2012
+    insert Zhang_and_Church_2012_abstract
+
+  name: Conrad and Hager, 1997
+  title: Spatial variations in the rate of sea level rise caused by the present-day melting of glaciers and ice sheets
+  lead: In Geophysical Research Letters, 1997
+  article 'Conrad_and_Hager_1997
+    insert Conrad_and_Hager_1997_abstract
+
+  name: Yoshimori and Abe-Ouchi, 2012
+  title: Sources of spread in multi-model projections of the Greenland ice-sheet surface mass balance
+  lead: In Journal of Climate, 2012
+  article 'Yoshimori_and_AbeOuchi_2012
+    insert Yoshimori_and_AbeOuchi_2012_abstract
+
+  name: Warrick and Oerlemans, 1990
+  title: Sea level rise
+  lead: In Climate Change, The IPCC Scientific Assessment, 1990
+  article 'Warrick_and_Oerlemans_1990
+    insert Warrick_and_Oerlemans_1990_abstract
+
+  name: Walsh et al., 2011
+  title: Climate change impacts on tropical cyclones and extreme sea levels in the South Pacific – a regional assessment
+  lead: In Global and Planetary Change, 2011
+  article 'Walsh_et_al_2011
+    insert Walsh_et_al_2011_abstract
+
+  name: Ettema et al., 2009
+  title: Higher surface mass balance of the Greenland ice sheet revealed by high-resolution climate modeling
+  lead: In Geophysical Research Letters, 2009
+  article 'Ettema_et_al_2009
+    insert Ettema_et_al_2009_abstract
+
+  name: Francis et al., 2011
+  title: Ocean wave conditions in the Chukchi Sea from satellite and in situ observations
+  lead: In Geophysical Research Letters, 2011
+  article 'Francis_et_al_2011
+    insert Francis_et_al_2011_abstract
+
+  name: Shepherd and Wingham, 2007
+  title: Recent sea-level contributions of the Antarctic and Greenland ice sheets
+  lead: In Science, 2007
+  article 'Shepherd_and_Wingham_2007
+    insert Shepherd_and_Wingham_2007_abstract
+
+  name: Bamber and Aspinall, 2013
+  title: An expert judgement assessment of future sea level rise from the ice sheets
+  lead: In Nature Climate Change, 2013
+  article 'Bamber_and_Aspinall_2013
+    insert Bamber_and_Aspinall_2013_abstract
+
+  name: Sriver et al., 2012
+  title: Toward a physically plausible upper bound of sea-level rise projections
+  lead: In Climatic Change, 2012
+  article 'Sriver_et_al_2012
+    insert Sriver_et_al_2012_abstract
+
+  name: Manson and Solomon, 2007
+  title: Past and future forcing of Beaufort sea coastal change
+  lead: In Atmosphere-Ocean, 2007
+  article 'Manson_and_Solomon_2007
+    insert Manson_and_Solomon_2007_abstract
+
+  name: Greatbatch, 1994
+  title: A note on the representation of steric sea-levels in models that conserve volume rather than mass
+  lead: In Journal of Geophysical Research-Oceans, 1994
+  article 'Greatbatch_1994
+    insert Greatbatch_1994_abstract
+
+  name: Boretti, 2011
+  title: The measured rate of rise of sea levels is not increasing and climate models should be revised to match the experimental evidence
+  lead: In Royal Society Publishing eLetter, 2011
+  article 'Boretti_2011
+    insert Boretti_2011_abstract
+
+  name: Thoma et al., 2008
+  title: Modelling circumpolar deep water intrusions on the Amundsen Sea continental shelf, Antarctica
+  lead: In Geophysical Research Letters, 2008
+  article 'Thoma_et_al_2008
+    insert Thoma_et_al_2008_abstract
+
+  name: Krinner et al., 2008
+  title: Influence of oceanic boundary conditions in simulations of Antarctic climate and surface mass balance change during the coming century
+  lead: In Journal of Climate, 2008
+  article 'Krinner_et_al_2008
+    insert Krinner_et_al_2008_abstract
+
+  name: Gehrels et al., 2008
+  title: A 20th century acceleration of sea-level rise in New Zealand
+  lead: In Geophysical Research Letters, 2008
+  article 'Gehrels_et_al_2008
+    insert Gehrels_et_al_2008_abstract
+
+  name: Kohl and Stammer, 2008
+  title: Decadal sea level changes in the 50-year GECCO ocean synthesis
+  lead: In Journal of Climate, 2008
+  article 'Kohl_and_Stammer_2008
+    insert Kohl_and_Stammer_2008_abstract
+
+  name: Good et al., 2013
+  title: Abrupt CO2 experiments as tools for predicting and understanding CMIP5 representative concentration pathway projections
+  lead: In Climate Dynamics, 2013
+  article 'Good_et_al_2013
+    insert Good_et_al_2013_abstract
+
+  name: Boretti, 2012
+  title: Short term comparison of climate model predictions and satellite altimeter measurements of sea levels
+  lead: In Coastal Engineering, 2012
+  article 'Boretti_2012
+    insert Boretti_2012_abstract
+
+  name: Woodroffe et al., 2012
+  title: Mid-Pacific microatolls record sea-level stability over the past 5000 yr
+  lead: In Geology, 2012
+  article 'Woodroffe_et_al_2012
+    insert Woodroffe_et_al_2012_abstract
+
+  name: McInnes et al., 2009
+  title: A modelling approach for estimating the frequency of sea level extremes and the impact of climate change in southeast Australia
+  lead: In Natural Hazards, 2009
+  article 'McInnes_et_al_2009
+    insert McInnes_et_al_2009_abstract
+
+  name: Solgaard and Langen, 2012
+  title: Multistability of the Greenland ice sheet and the effects of an adaptive mass balance formulation
+  lead: In Climate Dynamics, 2012
+  article 'Solgaard_and_Langen_2012
+    insert Solgaard_and_Langen_2012_abstract
+
+  name: Fluckiger et al., 2006
+  title: Oceanic processes as potential trigger and amplifying mechanisms for Heinrich events
+  lead: In Paleoceanography, 2006
+  article 'Fluckiger_et_al_2006
+    insert Fluckiger_et_al_2006_abstract
+
+  name: Rahmstorf, 2007b
+  title: Response to comments on "A semi-empirical approach to projecting future sea-level rise"
+  lead: In Science, 2007
+  article 'Rahmstorf_2007b
+    insert Rahmstorf_2007b_abstract
+
+  name: Horton et al., 2008
+  title: Sea level rise projections for current generation CGCMs based on the semi-empirical method
+  lead: In Geophysical Research Letters, 2008
+  article 'Horton_et_al_2008
+    insert Horton_et_al_2008_abstract
+
+  name: Allan and Komar, 2006
+  title: Climate controls on US West Coast erosion processes
+  lead: In Journal of Coastal Research, 2006
+  article 'Allan_and_Komar_2006
+    insert Allan_and_Komar_2006_abstract
+
+  name: Price et al., 2011
+  title: Committed sea-level rise for the next century from Greenland ice sheet dynamics during the past decade
+  lead: In Proceedings of the National Academy of Sciences of the United States of America, 2011
+  article 'Price_et_al_2011
+    insert Price_et_al_2011_abstract
+
+  name: Yin et al., 2011
+  title: Different magnitudes of projected subsurface ocean warming around Greenland and Antarctica
+  lead: In Nature Geoscience, 2011
+  article 'Yin_et_al_2011
+    insert Yin_et_al_2011_abstract
+
+  name: Stenni et al., 2011
+  title: Expression of the bipolar see-saw in Antarctic climate records during the last deglaciation
+  lead: In Nature Geoscience, 2011
+  article 'Stenni_et_al_2011
+    insert Stenni_et_al_2011_abstract
+
+  name: Sallenger et al., 2012
+  title: Hotspot of accelerated sea-level rise on the Atlantic coast of North America
+  lead: In Nature Climate Change, 2012
+  article 'Sallenger_et_al_2012
+    insert Sallenger_et_al_2012_abstract
+
+  name: Kouketsu et al., 2011
+  title: Deep ocean heat content changes estimated from observation and reanalysis product and their influence on sea level change
+  lead: In Journal of Geophysical Research-Oceans, 2011
+  article 'Kouketsu_et_al_2011
+    insert Kouketsu_et_al_2011_abstract
+
+  name: Shepherd et al., 2012
+  title: A reconciled estimate of ice-sheet mass balance
+  lead: In Science, 2012
+  article 'Shepherd_et_al_2012
+    insert Shepherd_et_al_2012_abstract
+
+  name: Menéndez and Woodworth, 2010
+  title: Changes in extreme high water levels based on a quasi-global tide-gauge data set
+  lead: In Journal of Geophysical Research - Oceans, 2010
+  article 'Menndez_and_Woodworth_2010
+    insert Menndez_and_Woodworth_2010_abstract
+
+  name: Knutti and Tomassini, 2008
+  title: Constraints on the transient climate response from observed global temperature and ocean heat uptake
+  lead: In Geophysical Research Letters, 2008
+  article 'Knutti_and_Tomassini_2008
+    insert Knutti_and_Tomassini_2008_abstract
+
+  name: Ablain et al., 2009
+  title: A new assessment of the error budget of global mean sea level rate estimated by satellite altimetry over 1993–2008
+  lead: In Ocean Science, 2009
+  article 'Ablain_et_al_2009
+    insert Ablain_et_al_2009_abstract
+
+  name: Lempérière, 2006
+  title: The role of dams in the XXI century: achieving a sustainable development target
+  lead: In International Journal on Hydropower and Dams, 2006
+  article 'Lemprire_2006
+    insert Lemprire_2006_abstract
+
+  name: Otto et al., 2013
+  title: Energy budget contraints on climate response
+  lead: In Nature Geoscience, 2013
+  article 'Otto_et_al_2013
+    insert Otto_et_al_2013_abstract
+
+  name: Hanna et al., 2011
+  title: Greenland Ice Sheet surface mass balance 1870 to 2100 based on twentieth century reanalysis, and links with global climate forcing
+  lead: In Journal of Geophysical Research, 2011
+  article 'Hanna_et_al_2011
+    insert Hanna_et_al_2011_abstract
+
+  name: Johnson and Gruber, 2007
+  title: Decadal water mass variations along 20 W in the Northeastern Atlantic Ocean
+  lead: In Progress in Oceanography, 2007
+  article 'Johnson_and_Gruber_2007
+    insert Johnson_and_Gruber_2007_abstract
+
+  name: Box and Colgan, 2013
+  title: Greenland ice sheet mass balance reconstruction. Part III: Marine ice loss and total mass balance (1840-2010)
+  lead: In Journal of Climate, 2013
+  article 'Box_and_Colgan_2013
+    insert Box_and_Colgan_2013_abstract
+
+  name: Nick et al., 2013
+  title: Future sea-level rise from Greenland’s major outlet glaciers in a warming climate
+  lead: In Nature, 2013
+  article 'Nick_et_al_2013
+    insert Nick_et_al_2013_abstract
+
+  name: Meehl et al., 2007
+  title: Global climate projections
+  lead: In Climate Change 2007: The Physical Science Basis, 2007
+  booksec 'Meehl_et_al_2007
+    insert Meehl_et_al_2007_abstract
+
+  name: Hemer et al., 2013
+  title: Projected future changes in wind-wave climate in a multi-model ensemble
+  lead: In Nature Climate Change, 2013
+  article 'Hemer_et_al_2013
+    insert Hemer_et_al_2013_abstract
+
+  name: Wang et al., 2010
+  title: Dynamical versus statistical downscaling methods for ocean wave heights
+  lead: In International Journal of Climatology, 2010
+  article 'Wang_et_al_2010
+    insert Wang_et_al_2010_abstract
+
+  name: Mousavi et al., 2011
+  title: Global warming and hurricanes: the potential impact of hurricane intensification and sea level rise on coastal flooding
+  lead: In Climatic Change, 2011
+  article 'Mousavi_et_al_2011
+    insert Mousavi_et_al_2011_abstract
+
+  name: Levitus et al., 2005
+  title: Warming of the world ocean, 1955-2003
+  lead: In Geophysical Research Letters, 2005
+  article 'Levitus_et_al_2005
+    insert Levitus_et_al_2005_abstract
+
+  name: Radić and Hock, 2011
+  title: Regionally differentiated contribution of mountain glaciers and ice caps to future sea-level rise
+  lead: In Nature Geoscience, 2011
+  article 'Radi_and_Hock_2011
+    insert Radi_and_Hock_2011_abstract
+
+  name: Unnikrishnan et al., 2011
+  title: Tropical cyclones in the Bay of Bengal and extreme sea-level projections along the east coast of India in a future climate scenario
+  lead: In Current Science (India), 2011
+  article 'Unnikrishnan_et_al_2011
+    insert Unnikrishnan_et_al_2011_abstract
+
+  name: Joughin and Alley, 2011
+  title: Stability of the West Antarctic ice sheet in a warming world
+  lead: In Nature Geoscience, 2011
+  article 'Joughin_and_Alley_2011
+    insert Joughin_and_Alley_2011_abstract
+
+  name: Pardaens et al., 2011
+  title: A model study of factors influencing projected changes in regional sea level over the twenty-first century
+  lead: In Climate Dynamics, 2011
+  article 'Pardaens_et_al_2011a
+    insert Pardaens_et_al_2011a_abstract
+
+  name: Huybrechts et al., 2011
+  title: Response of the Greenland and Antarctic ice sheets to multi-millennial greenhouse warming in the earth system model of intermediate complexity LOVECLIM
+  lead: In Surveys in Geophysics, 2011
+  article 'Huybrechts_et_al_2011
+    insert Huybrechts_et_al_2011_abstract
+
+  name: Church et al., 2013
+  title: Evaluating the ability of process based models to project sea-level change
+  lead: In Environmental Research Letters, 2013
+  article 'Church_et_al_2013
+    insert Church_et_al_2013_abstract
+
+  name: Dupont and Alley, 2005
+  title: Assessment of the importance of ice-shelf buttressing to ice-sheet flow
+  lead: In Geophysical Research Letters, 2005
+  article 'Dupont_and_Alley_2005
+    insert Dupont_and_Alley_2005_abstract
+
+  name: Murphy et al., 2009
+  title: An observationally based energy balance for the Earth since 1950
+  lead: In Journal of Geophysical Research - Oceans, 2009
+  article 'Murphy_et_al_2009
+    insert Murphy_et_al_2009_abstract
+
+  name: Tamisiea, 2011
+  title: Ongoing glacial isostatic contributions to observations of sea level change
+  lead: In Geophysical Journal International, 2011
+  article 'Tamisiea_2011
+    insert Tamisiea_2011_abstract
+
+  name: Llovel et al., 2010
+  title: Regional and interannual variability in sea level over 2002-2009 based on satellite altimetry, Argo float data and GRACE ocean mass
+  lead: In Ocean Dynamics, 2010
+  article 'Llovel_et_al_2010
+    insert Llovel_et_al_2010_abstract
+
+  name: Quinn and Ponte, 2010
+  title: Uncertainty in ocean mass trends from GRACE
+  lead: In Geophysical Journal International, 2010
+  article 'Quinn_and_Ponte_2010
+    insert Quinn_and_Ponte_2010_abstract
+
+  name: Slangen et al., 2012
+  title: Towards regional projections of twenty-first century sea-level change based on IPCC SRES scenarios
+  lead: In Climate Dynamics, 2012
+  article 'Slangen_et_al_2012
+    insert Slangen_et_al_2012_abstract
+
+  name: Bamber et al., 2009
+  title: Reassessment of the potential sea-level rise from a collapse of the West Antarctic Ice Sheet
+  lead: In Science, 2009
+  article 'Bamber_et_al_2009
+    insert Bamber_et_al_2009_abstract
+
+  name: Mernild and Liston, 2012
+  title: Greenland freshwater runoff. Part II: Distribution and trends, 1960-2010
+  lead: In Journal of Climate, 2012
+  article 'Mernild_and_Liston_2012
+    insert Mernild_and_Liston_2012_abstract
+
+  name: Coles and Tawn, 1990
+  title: Statistics of coastal flood prevention
+  lead: In Philosophical Transactions of the Royal Society  A -Mathematical Physical and Engineering Sciences, 1990
+  article 'Coles_and_Tawn_1990
+    insert Coles_and_Tawn_1990_abstract
+
+  name: Bahr et al., 2009
+  title: Sea-level rise from glaciers and ice caps: a lower bound
+  lead: In Geophysical Research Letters, 2009
+  article 'Bahr_et_al_2009
+    insert Bahr_et_al_2009_abstract
+
+  name: Little et al., 2013b
+  title: Probabilistic framework for assessing the ice sheet contribution to sea level change
+  lead: In Proceedings of the National Academy of Sciences of the United States of America, 2013
+  article 'Little_et_al_2013b
+    insert Little_et_al_2013b_abstract
+
+  name: Andrade et al., 2007
+  title: Projecting future changes in wave climate and coastal response in Portugal by the end of the 21st century
+  lead: In Journal of Coastal Research, 2007
+  article 'Andrade_et_al_2007
+    insert Andrade_et_al_2007_abstract
+
+  name: Delworth et al., 2005
+  title: The impact of aerosols on simulated ocean temperature and heat content in the 20th century
+  lead: In Geophysical Research Letters, 2005
+  article 'Delworth_et_al_2005
+    insert Delworth_et_al_2005_abstract
+
+  name: Lombard et al., 2005b
+  title: Thermosteric sea level rise for the past 50 years; comparison with tide gauges and inference on water mass contribution
+  lead: In Global and Planetary Change, 2005
+  article 'Lombard_et_al_2005b
+    insert Lombard_et_al_2005b_abstract
+
+  name: Seddik et al., 2012
+  title: Simulations of the Greenland ice sheet 100 years into the future with the full Stokes model Elmer/Ice
+  lead: In Journal of Glaciology, 2012
+  article 'Seddik_et_al_2012
+    insert Seddik_et_al_2012_abstract
+
+  name: Beckley et al., 2010
+  title: Assessment of the Jason-2 Extension to the TOPEX/Poseidon, Jason-1 sea-surface height time series for global mean sea level monitoring
+  lead: In Marine Geodesy, 2010
+  article 'Beckley_et_al_2010
+    insert Beckley_et_al_2010_abstract
+
+  name: Gudmundsson et al., 2012
+  title: The stability of grounding lines on retrograde slopes
+  lead: In The Cryosphere Discussions, 2012
+  article 'Gudmundsson_et_al_2012
+    insert Gudmundsson_et_al_2012_abstract
+
+  name: van den Broeke et al., 2009
+  title: Partitioning recent Greenland mass loss
+  lead: In Science, 2009
+  article 'van_den_Broeke_et_al_2009
+    insert van_den_Broeke_et_al_2009_abstract
+
+  name: Bromwich et al., 2007
+  title: A tropospheric assessment of the ERA-40, NCEP, and JRA-25 global reanalyses in the polar regions
+  lead: In Journal of Geophysical Research-Atmospheres, 2007
+  article 'Bromwich_et_al_2007
+    insert Bromwich_et_al_2007_abstract
+
+  name: Hemer et al., 2012b
+  title: Projections of climate change-driven variations in the offshore wave climate off southeastern Australia
+  lead: In International Journal of Climatology, 2012
+  article 'Hemer_et_al_2012b
+    insert Hemer_et_al_2012b_abstract
+
+  name: Moberg et al., 2005
+  title: Highly variable Northern Hemisphere temperatures reconstructed from low- and high-resolution proxy data
+  lead: In Nature, 2005
+  article 'Moberg_et_al_2005
+    insert Moberg_et_al_2005_abstract
+
+  name: National Research Council, 2012
+  title: Sea-Level Rise for the Coasts of California, Oregon, and Washington: Past, Present, and Future
+  lead: By The National Academies Press, 2012
+  book 'National_Research_Council_2012
+    insert National_Research_Council_2012_abstract
+
+  name: Orlić and Pasarić, 2013
+  title: Semi-empirical versus process-based sea-level projections for the twenty-first century
+  lead: In Nature Climate Change, 2013
+  article 'Orli_and_Pasari_2013
+    insert Orli_and_Pasari_2013_abstract
+
+  name: Pritchard et al., 2009
+  title: Extensive dynamic thinning on the margins of the Greenland and Antarctic ice sheets
+  lead: In Nature, 2009
+  article 'Pritchard_et_al_2009
+    insert Pritchard_et_al_2009_abstract
+
+  name: Okumura et al., 2009
+  title: North Pacific climate response to freshwater forcing in the Subarctic North Atlantic: oceanic and atmospheric pathways
+  lead: In Journal of Climate, 2009
+  article 'Okumura_et_al_2009
+    insert Okumura_et_al_2009_abstract
+
+  name: Gouretski and Koltermann, 2007
+  title: How much is the ocean really warming?
+  lead: In Geophysical Research Letters, 2007
+  article 'Gouretski_and_Koltermann_2007
+    insert Gouretski_and_Koltermann_2007_abstract
+
+  name: Mercer, 1978
+  title: West Antarctic ice sheet and CO2 greenhouse effect: a threat of disaster
+  lead: In Nature, 1978
+  article 'Mercer_1978
+    insert Mercer_1978_abstract
+
+  name: Raper and Braithwaite, 2005
+  title: The potential for sea level rise: new estimates from glacier and ice cap area and volume distributions
+  lead: In Geophysical Research Letters, 2005
+  article 'Raper_and_Braithwaite_2005
+    insert Raper_and_Braithwaite_2005_abstract
+
+  name: Mikolajewicz et al., 2007
+  title: Long-term effects of anthropogenic CO2 emissions simulated with a complex earth system model
+  lead: In Climate Dynamics, 2007
+  article 'Mikolajewicz_et_al_2007a
+    insert Mikolajewicz_et_al_2007a_abstract
+
+  name: Bindoff et al., 2007
+  title: Observations: Oceanic climate change and sea level
+  lead: In Climate Change 2007: The Physical Science Basis, 2007
+  booksec 'Bindoff_et_al_2007
+    insert Bindoff_et_al_2007_abstract
+
+  name: Sterl et al., 2009
+  title: An ensemble study of extreme North Sea storm surges in a changing climate.
+  lead: In Ocean Science Discussions, 2009
+  article 'Sterl_et_al_2009
+    insert Sterl_et_al_2009_abstract
+
+  name: Fiedler and Conrad, 2010
+  title: Spatial variability of sea level rise due to water impoundment behind dams
+  lead: In Geophysical Research Letters, 2010
+  article 'Fiedler_and_Conrad_2010
+    insert Fiedler_and_Conrad_2010_abstract
+
+  name: Meehl et al., 2010
+  title: Decadal Prediction in the Pacific Region
+  lead: In Journal of Climate, 2010
+  article 'Meehl_et_al_2010
+    insert Meehl_et_al_2010_abstract
+
+  name: Kang et al., 2005
+  title: Patterns of recent sea level rise in the East/Japan Sea from satellite altimetry and in situ data
+  lead: In Journal of Geophysical Research-Oceans, 2005
+  article 'Kang_et_al_2005
+    insert Kang_et_al_2005_abstract
+
+  name: Adams et al., 2008
+  title: Southern California deep-water wave climate: characterization and application to coastal processes
+  lead: In Journal of Coastal Research, 2008
+  article 'Adams_et_al_2008
+    insert Adams_et_al_2008_abstract
+
+  name: Christensen et al., 2007
+  title: Regional climate projections
+  lead: In Climate Change, 2007: The Physical Science Basis, 2007
+  article 'Christensen_et_al_2007
+    insert Christensen_et_al_2007_abstract
+
+  name: Franco et al., 2013
+  title: Future projections of the Greenland ice sheet energy balance driving the surface melt
+  lead: In The Cryosphere, 2013
+  article 'Franco_et_al_2013
+    insert Franco_et_al_2013_abstract
+
+  name: Bittermann et al., 2013
+  title: Predictability of 20th century sea-level rise from past data
+  lead: In Environmental Research Letters, 2013
+  article 'Bittermann_et_al_2013
+    insert Bittermann_et_al_2013_abstract
+
+  name: Wunsch and Stammer, 1997
+  title: Atmospheric loading and the oceanic "inverted barometer" effect
+  lead: In Reviews of Geophysics, 1997
+  article 'Wunsch_and_Stammer_1997
+    insert Wunsch_and_Stammer_1997_abstract
+
+  name: Wada et al., 2012
+  title: Past and future contribution of global groundwater depletion to sea-level rise
+  lead: In Geophysical Research Letters, 2012
+  article 'Wada_et_al_2012
+    insert Wada_et_al_2012_abstract
+
+  name: Farneti et al., 2010
+  title: The role of mesoscale eddies in the rectification of the Southern Ocean response to climate change
+  lead: In Journal of Physical Oceanography, 2010
+  article 'Farneti_et_al_2010
+    insert Farneti_et_al_2010_abstract
+
+  name: Joughin et al., 2010
+  title: Sensitivity of 21st century sea level to ocean-induced thinning of Pine Island Glacier, Antarctica
+  lead: In Geophysical Research Letters, 2010
+  article 'Joughin_et_al_2010
+    insert Joughin_et_al_2010_abstract
+
+  name: Konikow, 2013
+  title: Comment on "Model estimates of sea-level change due to anthropogenic impacts on terrestrial water storage" by Pokhrel et al
+  lead: In Nature Geoscience, 2013
+  article 'Konikow_2013
+    insert Konikow_2013_abstract
+
+  name: Bjork et al., 2012
+  title: An aerial view of 80 years of climate-related glacier fluctuations in southeast Greenland
+  lead: In Nature Geoscience, 2012
+  article 'Bjork_et_al_2012
+    insert Bjork_et_al_2012_abstract
+
+  name: Parker, 2013b
+  title: Comment to Shepard, CC, Agostini, VN, Gilmer, B., Allen, T., Stone, J., Brooks, W., Beck, MW: Assessing future risk: quantifying the effects of sea level rise on storm surge risk for the southern shores of Long Island
+  lead: In Natural Hazards, 2013
+  article 'Parker_2013b
+    insert Parker_2013b_abstract
+
+  name: Jevrejeva et al., 2010
+  title: How will sea level respond to changes in natural and anthropogenic forcings by 2100?
+  lead: In Geophysical Research Letters, 2010
+  article 'Jevrejeva_et_al_2010
+    insert Jevrejeva_et_al_2010_abstract
+
+  name: Katsman et al., 2011
+  title: Exploring high-end scenarios for local sea level rise to develop flood protection strategies for a low-lying delta - the Netherlands as an example
+  lead: In Climate Dynamics, 2011
+  article 'Katsman_et_al_2011
+    insert Katsman_et_al_2011_abstract
+
+  name: Boening et al., 2012
+  title: The 2011 La Niña: so strong, the oceans fell
+  lead: In Geophysical Research Letters, 2012
+  article 'Boening_et_al_2012
+    insert Boening_et_al_2012_abstract
+
+  name: Raper et al., 2002
+  title: The role of climate sensitivity and ocean heat uptake on AOGCM transient temperature response
+  lead: In Journal of Climate, 2002
+  article 'Raper_et_al_2002
+    insert Raper_et_al_2002_abstract
+
+  name: Purkey and Johnson, 2010
+  title: Warming of global abyssal and deep southern ocean waters between the 1990s and 2000s: contributions to global heat and sea level rise budgets
+  lead: In Journal of Climate, 2010
+  article 'Purkey_and_Johnson_2010
+    insert Purkey_and_Johnson_2010_abstract
+
+  name: Ridley et al., 2010
+  title: Thresholds for irreversible decline of the Greenland ice sheet
+  lead: In Climate Dynamics, 2010
+  article 'Ridley_et_al_2010
+    insert Ridley_et_al_2010_abstract
+
+  name: Winguth et al., 2005
+  title: Centennial-scale interactions between the carbon cycle and anthropogenic climate change using a dynamic Earth system model
+  lead: In Geophysical Research Letters, 2005
+  article 'Winguth_et_al_2005
+    insert Winguth_et_al_2005_abstract
+
+  name: Schwartz, 2012
+  title: Determination of Earth's transient and equilibrium climate sensitivities from observations over the twentieth century: Strong dependence on assumed forcing
+  lead: In Surveys in Geophysics, 2012
+  article 'Schwartz_2012
+    insert Schwartz_2012_abstract
+
+  name: Langen et al., 2012
+  title: Self-inhibiting growth of the Greenland Ice Sheet
+  lead: In Geophysical Research Letters, 2012
+  article 'Langen_et_al_2012
+    insert Langen_et_al_2012_abstract
+
+  name: Bromwich et al., 2011
+  title: An assessment of precipitation changes over Antarctica and the Southern Ocean since 1989 in contemporary global reanalyses
+  lead: In Journal of Climate, 2011
+  article 'Bromwich_et_al_2011
+    insert Bromwich_et_al_2011_abstract
+
+  name: Raymo and Mitrovica, 2012
+  title: Collapse of polar ice sheets during the stage 11 interglacial
+  lead: In Nature, 2012
+  article 'Raymo_and_Mitrovica_2012
+    insert Raymo_and_Mitrovica_2012_abstract
+
+  name: Anschütz et al., 2009
+  title: Revisiting sites of the South Pole Queen Maud Land Traverses in East Antarctica: accumulation data from shallow firn cores
+  lead: In Journal of Geophysical Research-Atmospheres, 2009
+  article 'Anschtz_et_al_2009
+    insert Anschtz_et_al_2009_abstract
+
+  name: Connolley and Bracegirdle, 2007
+  title: An Antarctic assessment of IPCC AR4 coupled models
+  lead: In Geophysical Research Letters, 2007
+  article 'Connolley_and_Bracegirdle_2007
+    insert Connolley_and_Bracegirdle_2007_abstract
+
+  name: Polvani et al., 2011
+  title: Large cancellation, due to ozone recovery, of future Southern Hemisphere atmospheric circulation trends
+  lead: In Geophysical Research Letters, 2011
+  article 'Polvani_et_al_2011
+    insert Polvani_et_al_2011_abstract
+
+  name: Tsimplis et al., 2005
+  title: Mediterranean Sea level trends: Atmospheric pressure and wind contribution
+  lead: In Geophysical Research Letters, 2005
+  article 'Tsimplis_et_al_2005
+    insert Tsimplis_et_al_2005_abstract
+
+  name: Izaguirre et al., 2010
+  title: Extreme wave climate variability in southern Europe using satellite data
+  lead: In Journal of Geophysical Research - Oceans, 2010
+  article 'Izaguirre_et_al_2010
+    insert Izaguirre_et_al_2010_abstract
+
+  name: Washington et al., 2009
+  title: How much climate change can be avoided by mitigation?
+  lead: In Geophysical Research Letters, 2009
+  article 'Washington_et_al_2009
+    insert Washington_et_al_2009_abstract
+
+  name: Loeb et al., 2012
+  title: Observed changes in top-of-the-atmosphere radiation and upper-ocean heating consistent within uncertainty
+  lead: In Nature Geoscience, 2012
+  article 'Loeb_et_al_2012
+    insert Loeb_et_al_2012_abstract
+
+  name: Lenaerts et al., 2012
+  title: A new high-resolution surface mass balance map of Antarctica (1989-2009) based on regional atmospheric climate modeling
+  lead: In Geophysical Research Letters, 2012
+  article 'Lenaerts_et_al_2012
+    insert Lenaerts_et_al_2012_abstract
+
+  name: Dolan et al., 2011
+  title: Sensitivity of Pliocene ice sheets to orbital forcing
+  lead: In Palaeogeography Palaeoclimatology Palaeoecology, 2011
+  article 'Dolan_et_al_2011
+    insert Dolan_et_al_2011_abstract
+
+  name: Jenkins and Holland, 2007
+  title: Melting of floating ice and sea level rise
+  lead: In Geophysical Research Letters, 2007
+  article 'Jenkins_and_Holland_2007
+    insert Jenkins_and_Holland_2007_abstract
+
+  name: Marzeion et al., 2012b
+  title: Past and future sea-level changes from the surface mass balance of glaciers
+  lead: In The Cryosphere, 2012
+  article 'Marzeion_et_al_2012b
+    insert Marzeion_et_al_2012b_abstract
+
+  name: Li et al., 2013
+  title: Deep-ocean heat uptake and equilibrium climate response
+  lead: In Climate Dynamics, 2013
+  article 'Li_et_al_2013
+    insert Li_et_al_2013_abstract
+
+  name: Church and White, 2011
+  title: Sea-level rise from the late 19th to the early 21st century
+  lead: In Surveys in Geophysics, 2011
+  article 'Church_and_White_2011
+    insert Church_and_White_2011_abstract
+
+  name: Farneti and Gent, 2011
+  title: The effects of the eddy-induced advection coefficient in a coarse-resolution coupled climate model
+  lead: In Ocean Modelling, 2011
+  article 'Farneti_and_Gent_2011
+    insert Farneti_and_Gent_2011_abstract
+
+  name: Merrifield and Maltrud, 2011
+  title: Regional sea level trends due to a Pacific trade wind intensification
+  lead: In Geophysical Research Letters, 2011
+  article 'Merrifield_and_Maltrud_2011
+    insert Merrifield_and_Maltrud_2011_abstract
+
+  name: Masson-Delmotte et al., 2010
+  title: EPICA Dome C record of glacial and interglacial intensities
+  lead: In Quaternary Science Reviews, 2010
+  article 'MassonDelmotte_et_al_2010
+    insert MassonDelmotte_et_al_2010_abstract
+
+  name: Debernard and Røed, 2008
+  title: Future wind, wave and storm surge climate in the Northern Seas: a revisit
+  lead: In Tellus A, 2008
+  article 'Debernard_and_Red_2008
+    insert Debernard_and_Red_2008_abstract
+
+  name: Levermann et al., 2012
+  title: Potential climatic transitions with profound impact on Europe Review of the current state of six 'tipping elements of the climate system'
+  lead: In Climatic Change, 2012
+  article 'Levermann_et_al_2012
+    insert Levermann_et_al_2012_abstract
+
+  name: Oerlemans et al., 2011
+  title: Application of a minimal glacier model to Hansbreen, Svalbard
+  lead: In The Cryosphere, 2011
+  article 'Oerlemans_et_al_2011
+    insert Oerlemans_et_al_2011_abstract
+
+  name: Goosse et al., 2005
+  title: Internal and forced climate variability during the last millennium: a model-data comparison using ensemble simulations
+  lead: In Quaternary Science Reviews, 2005
+  article 'Goosse_et_al_2005
+    insert Goosse_et_al_2005_abstract
+
+  name: Van Ommen et al., 2004
+  title: Deglacial and Holocene changes in accumulation at Law Dome, East Antarctica
+  lead: In Annals of Glaciology, 2004
+  article 'Van_Ommen_et_al_2004
+    insert Van_Ommen_et_al_2004_abstract
+
+  name: Gleckler et al., 2006
+  title: Volcanoes and climate: Krakatoa's signature persists in the ocean
+  lead: In Nature, 2006
+  article 'Gleckler_et_al_2006a
+    insert Gleckler_et_al_2006a_abstract
+
+  name: Palmer et al., 2011
+  title: Importance of the deep ocean for estimating decadal changes in Earth's radiation balance
+  lead: In Geophysical Research Letters, 2011
+  article 'Palmer_et_al_2011
+    insert Palmer_et_al_2011_abstract
+
+  name: Hallberg and Gnanadesikan, 2006
+  title: The role of eddies in determining the structure and response of the wind-driven southern hemisphere overturning: Results from the Modeling Eddies in the Southern Ocean (MESO) project
+  lead: In Journal of Physical Oceanography, 2006
+  article 'Hallberg_and_Gnanadesikan_2006
+    insert Hallberg_and_Gnanadesikan_2006_abstract
+
+  name: Mori et al., 2013
+  title: Multi-model climate projections of ocean surface variables under different climate scenarios - Future change of waves, sea level, and wind
+  lead: In Ocean Engineering, 2013
+  article 'Mori_et_al_2013
+    insert Mori_et_al_2013_abstract
+
+  name: Church and White, 2006
+  title: A 20th century acceleration in global sea-level rise
+  lead: In Geophysical Research Letters, 2006
+  article 'Church_and_White_2006
+    insert Church_and_White_2006_abstract
+
+  name: Fan et al., 2013
+  title: Ocean warming effect on surface gravity wave climate change for the end of the 21st century
+  lead: In Journal of Climate, 2013
+  article 'Fan_et_al_2013
+    insert Fan_et_al_2013_abstract
+
+  name: Schoof, 2007b
+  title: Ice sheet grounding line dynamics: steady states, stability, and hysteresis
+  lead: In Journal of Geophysical Research-Earth Surface, 2007
+  article 'Schoof_2007b
+    insert Schoof_2007b_abstract
+
+  name: Nicholls et al., 2011
+  title: Sea-level rise and its possible impacts given a 'beyond 4 degrees C world' in the twenty-first century
+  lead: In Philosophical Transactions of the Royal Society of London A, 2011
+  article 'Nicholls_et_al_2011
+    insert Nicholls_et_al_2011_abstract
+
+  name: Gleckler et al., 2012
+  title: Human-induced global ocean warming on multidecadal timescales
+  lead: In Nature Climate Change, 2012
+  article 'Gleckler_et_al_2012
+    insert Gleckler_et_al_2012_abstract
+
+  name: Rae et al., 2012
+  title: Greenland ice sheet surface mass balance: evaluating simulations and making projections with regional climate models
+  lead: In The Cryosphere, 2012
+  article 'Rae_et_al_2012
+    insert Rae_et_al_2012_abstract
+
+  name: Church et al., 2001
+  title: Changes in sea level
+  lead: In Climate change 2001: The scientific basis. Contribution of Working Group I to the Third Assessment Report of the Intergovernmental Panel on Climate Change, 2001
+  article 'Church_et_al_2001
+    insert Church_et_al_2001_abstract
+
+  name: Goldberg et al., 2012
+  title: Investigation of land ice-ocean interaction with a fully coupled ice-ocean model: 2. Sensitivity to external forcings
+  lead: In Journal of Geophysical Research-Earth Surface, 2012
+  article 'Goldberg_et_al_2012
+    insert Goldberg_et_al_2012_abstract
+
+  name: Pritchard et al., 2012
+  title: Antarctic ice-sheet loss driven by basal melting of ice shelves
+  lead: In Nature, 2012
+  article 'Pritchard_et_al_2012
+    insert Pritchard_et_al_2012_abstract
+
+  name: Parker, 2013
+  title: Sea level trends at locations of the United States with more than 100 years of recording
+  lead: In Natural Hazards, 2013
+  article 'Parker_2013
+    insert Parker_2013_abstract
+
+  name: Bintanja et al., 2013
+  title: Important role for ocean warming and increased ice-shelf melt in Antarctic sea-ice expansion
+  lead: In Nature Geoscience, 2013
+  article 'Bintanja_et_al_2013
+    insert Bintanja_et_al_2013_abstract
+
+  name: Box et al., 2009
+  title: Greenland ice sheet surface air temperature variability: 1840-2007
+  lead: In Journal of Climate, 2009
+  article 'Box_et_al_2009
+    insert Box_et_al_2009_abstract
+
+  name: Box et al., 2013
+  title: Greenland ice sheet mass balance reconstruction. Part I: net snow accumulation (1600-2009)
+  lead: In Journal of Climate, 2013
+  article 'Box_et_al_2013
+    insert Box_et_al_2013_abstract
+
+  name: Mitrovica et al., 2011
+  title: On the robustness of predictions of sea-level fingerprints
+  lead: In Geophysical Journal International, 2011
+  article 'Mitrovica_et_al_2011
+    insert Mitrovica_et_al_2011_abstract
+
+  name: Crowley et al., 2003
+  title: Modeling ocean heat content changes during the last millennium
+  lead: In Geophysical Research Letters, 2003
+  article 'Crowley_et_al_2003
+    insert Crowley_et_al_2003_abstract
+
+  name: Leuliette and Willis, 2011
+  title: Balancing the sea level budget
+  lead: In Oceanography, 2011
+  article 'Leuliette_and_Willis_2011
+    insert Leuliette_and_Willis_2011_abstract
+
+  name: Hanna et al., 2005
+  title: Runoff and mass balance of the Greenland ice sheet: 1958-2003
+  lead: In Journal of Geophysical Research-Atmospheres, 2005
+  article 'Hanna_et_al_2005
+    insert Hanna_et_al_2005_abstract
+
+  name: Fretwell et al., 2013
+  title: Bedmap2: improved ice bed, surface and thickness datasets for Antarctica
+  lead: In The Cryosphere, 2013
+  article 'Fretwell_et_al_2013
+    insert Fretwell_et_al_2013_abstract
+
+  name: Hunter, 2012
+  title: A simple technique for estimating an allowance for uncertain sea-level rise
+  lead: In Climatic Change, 2012
+  article 'Hunter_2012
+    insert Hunter_2012_abstract
+
+  name: Kemp et al., 2011
+  title: Climate related sea-level variations over the past two millennia
+  lead: In Proceedings of the National Academy of Sciences of the United States of America, 2011
+  article 'Kemp_et_al_2011
+    insert Kemp_et_al_2011_abstract
+
+  name: Gardner et al., 2013
+  title: A reconciled estimate of glacier contributions to sea level rise: 2003 to 2009
+  lead: In Science, 2013
+  article 'Gardner_et_al_2013
+    insert Gardner_et_al_2013_abstract
+
+  name: Delworth and Knutson, 2000
+  title: Simulation of early 20th century global warming
+  lead: In Science, 2000
+  article 'Delworth_and_Knutson_2000
+    insert Delworth_and_Knutson_2000_abstract
+
+  name: Rignot et al., 2004
+  title: Accelerated ice discharge from the Antarctic Peninsula following the collapse of Larsen B ice shelf
+  lead: In Geophysical Research Letters, 2004
+  article 'Rignot_et_al_2004
+    insert Rignot_et_al_2004_abstract
+
+  name: Sahagian, 2000
+  title: Global physical effects of anthropogenic hydrological alterations: sea level and water redistribution
+  lead: In Global and Planetary Change, 2000
+  article 'Sahagian_2000
+    insert Sahagian_2000_abstract
+
+  name: Hellmer et al., 2012
+  title: Twenty-first-century warming of a large Antarctic ice-shelf cavity by a redirected coastal current
+  lead: In Nature, 2012
+  article 'Hellmer_et_al_2012
+    insert Hellmer_et_al_2012_abstract
+
+  name: Schewe et al., 2011
+  title: Climate change under a scenario near 1.5 °C of global warming: monsoon intensification, ocean warming and steric sea level rise
+  lead: In Earth System Dynamics, 2011
+  article 'Schewe_et_al_2011
+    insert Schewe_et_al_2011_abstract
+
+  name: Hay et al., 2013
+  title: Estimating the sources of global sea level rise with data assimilation techniques
+  lead: In Proceedings of the National Academy of Sciences of the United States of America, 2013
+  article 'Hay_et_al_2013
+    insert Hay_et_al_2013_abstract
+
+  name: Hanna et al., 2012
+  title: Recent warming in Greenland in a long-term instrumental (1881-2012) climatic context: I. Evaluation of surface air temperature records
+  lead: In Environmental Research Letters, 2012
+  article 'Hanna_et_al_2012
+    insert Hanna_et_al_2012_abstract
+
+  name: Spada et al., 2013
+  title: The gravitationally consistent sea-level fingerprint of future terrestrial ice loss
+  lead: In Geophysical Research Letters, 2013
+  article 'Spada_et_al_2013
+    insert Spada_et_al_2013_abstract
+
+  name: Menéndez et al., 2008
+  title: Variability of extreme wave heights in the northeast Pacific Ocean based on buoy measurements
+  lead: In Geophysical Research Letters, 2008
+  article 'Menndez_et_al_2008
+    insert Menndez_et_al_2008_abstract
+
+  name: Wunsch and Heimbach, 2007
+  title: Practical global oceanic state estimation
+  lead: In Physica D-Nonlinear Phenomena, 2007
+  article 'Wunsch_and_Heimbach_2007
+    insert Wunsch_and_Heimbach_2007_abstract
+
+  name: Nick et al., 2012
+  title: The response of Petermann Glacier, Greenland, to large calving events, and its future stability in the context of atmospheric and oceanic warming
+  lead: In Journal of Glaciology, 2012
+  article 'Nick_et_al_2012
+    insert Nick_et_al_2012_abstract
+
+  name: Syvitski et al., 2009
+  title: Sinking deltas due to human activities
+  lead: In Nature Geoscience, 2009
+  article 'Syvitski_et_al_2009
+    insert Syvitski_et_al_2009_abstract
+
+  name: Passchier, 2011
+  title: Linkages between East Antarctic Ice Sheet extent and Southern Ocean temperatures based on a Pliocene high-resolution record of ice-rafted debris off Prydz Bay, East Antarctica
+  lead: In Paleoceanography, 2011
+  article 'Passchier_2011
+    insert Passchier_2011_abstract
+
+  name: Hu et al., 2010
+  title: Influence of Bering Strait flow and North Atlantic circulation on glacial sea-level changes
+  lead: In Nature Geoscience, 2010
+  article 'Hu_et_al_2010
+    insert Hu_et_al_2010_abstract
+
+  name: Llovel et al., 2011
+  title: Terrestrial waters and sea level variations on interannual time scale
+  lead: In Global and Planetary Change, 2011
+  article 'Llovel_et_al_2011
+    insert Llovel_et_al_2011_abstract
+
+  name: Donnelly et al., 2004
+  title: Coupling instrumental and geological records of sea-level change: Evidence from southern New England of an increase in the rate of sea-level rise in the late 19th century
+  lead: In Geophysical Research Letters, 2004
+  article 'Donnelly_et_al_2004
+    insert Donnelly_et_al_2004_abstract
+
+  name: Yin et al., 2010
+  title: Spatial variability of sea level rise in twenty-first century projections
+  lead: In Journal of Climate, 2010
+  article 'Yin_et_al_2010
+    insert Yin_et_al_2010_abstract
+
+  name: Durack and Wijffels, 2010
+  title: Fifty-year trends in global ocean salinities and their relationship to broad-scale warming
+  lead: In Journal of Climate, 2010
+  article 'Durack_and_Wijffels_2010
+    insert Durack_and_Wijffels_2010_abstract
+
+  name: van Angelen et al., 2012
+  title: Sensitivity of Greenland ice sheet surface mass balance to surface albedo parameterization: a study with a regional climate model
+  lead: In The Cryosphere, 2012
+  article 'van_Angelen_et_al_2012
+    insert van_Angelen_et_al_2012_abstract
+
+  name: Woolf et al., 2002
+  title: Variability and predictability of the North Atlantic wave climate
+  lead: In Journal of Geophysical Research-Oceans, 2002
+  article 'Woolf_et_al_2002
+    insert Woolf_et_al_2002_abstract
+
+  name: Parizek et al., 2013
+  title: Dynamic (In)stability of Thwaites Glacier, West Antarctica
+  lead: In Journal of Geophysical Research-Earth Surface, 2013
+  article 'Parizek_et_al_2013
+    insert Parizek_et_al_2013_abstract
+
+  name: Greve, 2000
+  title: On the response of the Greenland ice sheet to greenhouse climate change
+  lead: In Climatic Change, 2000
+  article 'Greve_2000
+    insert Greve_2000_abstract
+
+  name: Weertman, 1974
+  title: Stability of the junction of an ice sheet and an ice shelf
+  lead: In Journal of Glaciology, 1974
+  article 'Weertman_1974
+    insert Weertman_1974_abstract
+
+  name: Fettweis et al., 2008
+  title: Estimation of the Greenland ice sheet surface mass balance for the 20th and 21st centuries
+  lead: In The Cryosphere, 2008
+  article 'Fettweis_et_al_2008
+    insert Fettweis_et_al_2008_abstract
+
+  name: Zickfeld et al., 2012
+  title: Is the climate response to CO2 emissions path dependent?
+  lead: In Geophysical Research Letters, 2012
+  article 'Zickfeld_et_al_2012
+    insert Zickfeld_et_al_2012_abstract
+
+  name: Gornitz, 2001
+  title: Impoundment, groundwater mining, and other hydrologic transformations: Impacts on global sea level rise
+  lead: In Sea Level Rise, History and Consequences, 2001
+  article 'Gornitz_2001
+    insert Gornitz_2001_abstract
+
+  name: Gregory, 2010
+  title: Long-term effect of volcanic forcing on ocean heat content
+  lead: In Geophysical Research Letters, 2010
+  article 'Gregory_2010
+    insert Gregory_2010_abstract
+
+  name: Chambers et al., 2004
+  title: Preliminary observations of global ocean mass variations with GRACE
+  lead: In Geophysical Research Letters, 2004
+  article 'Chambers_et_al_2004
+    insert Chambers_et_al_2004_abstract
+
+  name: Krinner et al., 2007
+  title: Simulated Antarctic precipitation and surface mass balance at the end of the twentieth and twenty-first centuries
+  lead: In Climate Dynamics, 2007
+  article 'Krinner_et_al_2007
+    insert Krinner_et_al_2007_abstract
+
+  name: McInnes et al., 2013
+  title: An assessment of current and future vulnerability to coastal inundation due to sea level extremes in Victoria, southeast Australia
+  lead: In International Journal of Climatology, 2013
+  article 'McInnes_et_al_2013
+    insert McInnes_et_al_2013_abstract
+
+  name: Dutton and Lambeck, 2012
+  title: Ice volume and sea level during the last interglacial
+  lead: In Science, 2012
+  article 'Dutton_and_Lambeck_2012
+    insert Dutton_and_Lambeck_2012_abstract
+
+  name: Foster and Rohling, 2013
+  title: Relationship between sea level and climate forcing by CO2 on geological timescales
+  lead: In Proceedings of the National Academy of Sciences of the United States of America, 2013
+  article 'Foster_and_Rohling_2013
+    insert Foster_and_Rohling_2013_abstract
+
+  name: Winkelmann et al., 2012
+  title: Increased future ice discharge from Antarctica owing to higher snowfall
+  lead: In Nature, 2012
+  article 'Winkelmann_et_al_2012
+    insert Winkelmann_et_al_2012_abstract
+
+  name: Jacobs et al., 2011
+  title: Stronger ocean circulation and increased melting under Pine Island Glacier ice shelf
+  lead: In Nature Geoscience, 2011
+  article 'Jacobs_et_al_2011
+    insert Jacobs_et_al_2011_abstract
+
+  name: Clarke et al., 2005
+  title: Effect of gravitational consistency and mass conservation on seasonal surface mass loading models
+  lead: In Geophysical Research Letters, 2005
+  article 'Clarke_et_al_2005
+    insert Clarke_et_al_2005_abstract
+
+  name: Pollard and DeConto, 2009
+  title: Modelling West Antarctic ice sheet growth and collapse through the past five million years
+  lead: In Nature, 2009
+  article 'Pollard_and_DeConto_2009
+    insert Pollard_and_DeConto_2009_abstract
+
+  name: Cogley, 2009b
+  title: Geodetic and direct mass-balance measurements: comparison and joint analysis
+  lead: In Annals of Glaciology, 2009
+  article 'Cogley_2009b
+    insert Cogley_2009b_abstract
+
+  name: von Schuckmann and Le Traon, 2011
+  title: How well can we derive Global Ocean Indicators from Argo data?
+  lead: In Ocean Science, 2011
+  article 'von_Schuckmann_and_Le_Traon_2011
+    insert von_Schuckmann_and_Le_Traon_2011_abstract
+
+  name: Holgate, 2007
+  title: On the decadal rates of sea level change during the twentieth century
+  lead: In Geophysical Research Letters, 2007
+  article 'Holgate_2007
+    insert Holgate_2007_abstract
+
+  name: MacAyeal et al., 2003
+  title: Catastrophic ice-shelf break-up by an ice-shelf-fragment- capsize mechanism
+  lead: In Journal of Glaciology, 2003
+  article 'MacAyeal_et_al_2003
+    insert MacAyeal_et_al_2003_abstract
+
+  name: Naish et al., 2009
+  title: Obliquity-paced Pliocene West Antarctic ice sheet oscillations
+  lead: In Nature, 2009
+  article 'Naish_et_al_2009
+    insert Naish_et_al_2009_abstract
+
+  name: van den Broeke et al., 2006
+  title: Snowfall in coastal West Antarctica much greater than previously assumed
+  lead: In Geophysical Research Letters, 2006
+  article 'van_den_Broeke_et_al_2006
+    insert van_den_Broeke_et_al_2006_abstract
+
+  name: Chambers, 2006
+  title: Evaluation of new GRACE time‐variable gravity data over the ocean
+  lead: In Geophysical Research Letters, 2006
+  article 'Chambers_2006
+    insert Chambers_2006_abstract
+
+  name: Kaser et al., 2006
+  title: Mass balance of glaciers and ice caps: Consensus estimates for 1961-2004
+  lead: In Geophysical Research Letters, 2006
+  article 'Kaser_et_al_2006
+    insert Kaser_et_al_2006_abstract
+
+  name: Stackhouse et al., 2010
+  title: Earth radiation budget at top-of-atmosphere
+  lead: In Bulletin of the American Meteorological Society, 2010
+  article 'Stackhouse_et_al_2010
+    insert Stackhouse_et_al_2010_abstract
+
+  name: Milne and Mitrovica, 1998
+  title: Postglacial sea-level change on a rotating Earth
+  lead: In Geophysical Journal International, 1998
+  article 'Milne_and_Mitrovica_1998
+    insert Milne_and_Mitrovica_1998_abstract
+
+  name: Huntington, 2008
+  title: Can we dismiss the effect of changes in land-based water storage on sea-level rise?
+  lead: In Hydrological Processes, 2008
+  article 'Huntington_2008
+    insert Huntington_2008_abstract
+
+  name: Farrell and Clark, 1976
+  title: On postglacial sea level
+  lead: In Geophysical Journal of the Royal Astronomical Society, 1976
+  article 'Farrell_and_Clark_1976
+    insert Farrell_and_Clark_1976_abstract
+
+  name: Johnson et al., 2007
+  title: Recent bottom water warming in the Pacific Ocean
+  lead: In Journal of Climate, 2007
+  article 'Johnson_et_al_2007
+    insert Johnson_et_al_2007_abstract
+
+  name: Lemieux-Dudon et al., 2010
+  title: Consistent dating for Antarctic and Greenland ice cores
+  lead: In Quaternary Science Reviews, 2010
+  article 'LemieuxDudon_et_al_2010
+    insert LemieuxDudon_et_al_2010_abstract
+
+  name: Ngo-Duc et al., 2005
+  title: Effects of land water storage on global mean sea level over the past half century
+  lead: In Geophysical Research Letters, 2005
+  article 'NgoDuc_et_al_2005
+    insert NgoDuc_et_al_2005_abstract
+
+  name: Banks and Gregory, 2006
+  title: Mechanisms of ocean heat uptake in a coupled climate model and the implications for tracer based predictions of ocean heat uptake
+  lead: In Geophysical Research Letters, 2006
+  article 'Banks_and_Gregory_2006
+    insert Banks_and_Gregory_2006_abstract
+
+  name: Hemer et al., 2012
+  title: Global dynamical projections of surface ocean wave climate for a future high greenhouse gas emission scenario
+  lead: In Ocean Modelling, 2012
+  article 'Hemer_et_al_2012a
+    insert Hemer_et_al_2012a_abstract
+
+  name: Swingedouw et al., 2008
+  title: Antarctic ice-sheet melting provides negative feedbacks on future climate warming
+  lead: In Geophysical Research Letters, 2008
+  article 'Swingedouw_et_al_2008
+    insert Swingedouw_et_al_2008_abstract
+
+  name: Dufresne and Bony, 2008
+  title: An assessment of the primary sources of spread of global warming estimates from coupled atmosphere-ocean models
+  lead: In Journal of Climate, 2008
+  article 'Dufresne_and_Bony_2008
+    insert Dufresne_and_Bony_2008_abstract
+
+  name: Shuman et al., 2011
+  title: 2001-2009 elevation and mass losses in the Larsen A and B embayments, Antarctic Peninsula
+  lead: In Journal of Glaciology, 2011
+  article 'Shuman_et_al_2011
+    insert Shuman_et_al_2011_abstract
+
+  name: Radic and Hock, 2010
+  title: Regional and global volumes of glaciers derived from statistical upscaling of glacier inventory data
+  lead: In Journal of Geophysical Research-Earth Surface, 2010
+  article 'Radic_and_Hock_2010
+    insert Radic_and_Hock_2010_abstract
+
+  name: Colberg and McInnes, 2012
+  title: The impact of future changes in weather patterns on extreme sea levels over southern Australia
+  lead: In Journal of Geophysical Research - Oceans, 2012
+  article 'Colberg_and_McInnes_2012
+    insert Colberg_and_McInnes_2012_abstract
+
+  name: Church et al., 2005
+  title: Significant decadal-scale impact of volcanic eruptions on sea level and ocean heat content
+  lead: In Nature, 2005
+  article 'Church_et_al_2005
+    insert Church_et_al_2005_abstract
+
+  name: Qiu and Chen, 2006
+  title: Decadal variability in the large-scale sea surface height field of the South Pacific Ocean: observations and causes
+  lead: In Journal of Physical Oceanography, 2006
+  article 'Qiu_and_Chen_2006
+    insert Qiu_and_Chen_2006_abstract
+
+  name: Giesen and Oerlemans, 2013
+  title: Climate-model induced differences in the 21st century global and regional glacier contributions to sea-level rise
+  lead: In Climate Dynamics, 2013
+  article 'Giesen_and_Oerlemans_2013
+    insert Giesen_and_Oerlemans_2013_abstract
+
+  name: Pfeffer et al., 2008
+  title: Kinematic constraints on glacier contributions to 21st-century sea-level rise
+  lead: In Science, 2008
+  article 'Pfeffer_et_al_2008
+    insert Pfeffer_et_al_2008_abstract
+
+  name: Rott et al., 2011
+  title: The imbalance of glaciers after disintegration of Larsen-B ice shelf, Antarctic Peninsula
+  lead: In The Cryosphere, 2011
+  article 'Rott_et_al_2011
+    insert Rott_et_al_2011_abstract
+
+  name: Ligtenberg et al., 2013
+  title: Future surface mass balance of the Antarctic ice sheet and its influence on sea level change, simulated by a regional atmospheric climate model
+  lead: In Climate Dynamics, 2013
+  article 'Ligtenberg_et_al_2013
+    insert Ligtenberg_et_al_2013_abstract
+
+  name: Graham et al., 2013
+  title: Multi-model projections of 21st century North Pacific winter wave climate under the IPCC A2 scenario
+  lead: In Climate Dynamics, 2013
+  article 'Graham_et_al_2013
+    insert Graham_et_al_2013_abstract
+
+  name: Rahmstorf et al., 2007
+  title: Recent climate observations compared to projections
+  lead: In Science, 2007
+  article 'Rahmstorf_et_al_2007
+    insert Rahmstorf_et_al_2007_abstract
+
+  name: Hemer et al., 2010
+  title: Variability and trends in the directional wave climate of the Southern Hemisphere
+  lead: In International Journal of Climatology, 2010
+  article 'Hemer_et_al_2010
+    insert Hemer_et_al_2010_abstract
+
+  name: Milly et al., 2003
+  title: Contribution of climate-driven change in continental water storage to recent sea-level rise
+  lead: In Proceedings of the National Academy of Sciences of the United States of America, 2003
+  article 'Milly_et_al_2003
+    insert Milly_et_al_2003_abstract
+
+  name: Levitus et al., 2009
+  title: Global ocean heat content 1955-2008 in light of recently revealed instrumentation problems
+  lead: In Geophysical Research Letters, 2009
+  article 'Levitus_et_al_2009
+    insert Levitus_et_al_2009_abstract
+
+  name: Wong et al., 2006
+  title: Reexamination of the observed decadal variability of the earth radiation budget using altitude-corrected ERBE/ERBS nonscanner WFOV data
+  lead: In Journal of Climate, 2006
+  article 'Wong_et_al_2006
+    insert Wong_et_al_2006_abstract
+
+  name: Hill et al., 2010
+  title: Sensitivity of the Greenland Ice Sheet to Pliocene sea surface temperatures
+  lead: In Stratigraphy, 2010
+  article 'Hill_et_al_2010
+    insert Hill_et_al_2010_abstract
+
+  name: Izaguirre et al., 2011
+  title: Global extreme wave height variability based on satellite data
+  lead: In Geophysical Research Letters, 2011
+  article 'Izaguirre_et_al_2011
+    insert Izaguirre_et_al_2011_abstract
+
+  name: Little et al., 2013
+  title: Upper bounds on twenty-first-century Antarctic ice loss assessed using a probabilistic framework
+  lead: In Nature Climate Change, 2013
+  article 'Little_et_al_2013a
+    insert Little_et_al_2013a_abstract
+
+  name: Easterling and Wehner, 2009
+  title: Is the climate warming or cooling?
+  lead: In Geophysical Research Letters, 2009
+  article 'Easterling_and_Wehner_2009
+    insert Easterling_and_Wehner_2009_abstract
+
+  name: Kopp et al., 2010
+  title: The impact of Greenland melt on local sea levels: a partially coupled analysis of dynamic and static equilibrium effects in idealized water-hosing experiments
+  lead: In Climatic Change, 2010
+  article 'Kopp_et_al_2010
+    insert Kopp_et_al_2010_abstract
+
+  name: Fettweis et al., 2011
+  title: Estimation of the sea level rise by 2100 resulting from changes in the surface mass balance of the Greenland ice sheet
+  lead: In Climate Change - Geophysical Foundations and Ecological Effects, 2011
+  article 'Fettweis_et_al_2011
+    insert Fettweis_et_al_2011_abstract
+
+  name: Brohan et al., 2006
+  title: Uncertainty estimates in regional and global observed temperature changes: A new data set from 1850
+  lead: In Journal of Geophysical Research-Atmospheres, 2006
+  article 'Brohan_et_al_2006
+    insert Brohan_et_al_2006_abstract
+
+  name: Bouttes et al., 2013
+  title: The reversibility of sea-level rise
+  lead: In Journal of Climate, 2013
+  article 'Bouttes_et_al_2013
+    insert Bouttes_et_al_2013_abstract
+
+  name: Marzeion et al., 2012
+  title: A minimal model for reconstructing interannual mass balance variability of glaciers in the European Alps
+  lead: In The Cryosphere, 2012
+  article 'Marzeion_et_al_2012a
+    insert Marzeion_et_al_2012a_abstract
+
+  name: Cogley, 2009
+  title: A more complete version of the World Glacier Inventory
+  lead: In Annals of Glaciology, 2009
+  article 'Cogley_2009a
+    insert Cogley_2009a_abstract
+
+  name: Jevrejeva et al., 2012b
+  title: Potential for bias in 21st century semiempirical sea level projections
+  lead: In Journal of Geophysical Research, 2012
+  article 'Jevrejeva_et_al_2012b
+    insert Jevrejeva_et_al_2012b_abstract
+
+  name: Cazenave et al., 2009
+  title: Sea level budget over 2003-2008: a reevaluation from GRACE space gravimetry, satellite altimetry and Argo
+  lead: In Global and Planetary Change, 2009
+  article 'Cazenave_et_al_2009
+    insert Cazenave_et_al_2009_abstract
+
+  name: Schmith et al., 2007
+  title: Comment on "A semi-empirical approach to projecting future sea-level rise".
+  lead: In Science, 2007
+  article 'Schmith_et_al_2007
+    insert Schmith_et_al_2007_abstract
+
+  name: Radić et al., 2013
+  title: Regional and global projections of the 21st century glacier mass changes in response to climate scenarios from global climate models
+  lead: In Climate Dynamics, 2013
+  article 'Radi_et_al_2013
+    insert Radi_et_al_2013_abstract
+
+  name: Schoof, 2007
+  title: Marine ice-sheet dynamics. Part 1. the case of rapid sliding
+  lead: In Journal of Fluid Mechanics, 2007
+  article 'Schoof_2007a
+    insert Schoof_2007a_abstract
+
+  name: Brierley et al., 2010
+  title: The impact of perturbations to ocean-model parameters on climate and climate change in a coupled model
+  lead: In Climate Dynamics, 2010
+  article 'Brierley_et_al_2010
+    insert Brierley_et_al_2010_abstract
+
+  name: Hansen et al., 2005
+  title: Earth's energy imbalance: confirmation and implications
+  lead: In Science, 2005
+  article 'Hansen_et_al_2005
+    insert Hansen_et_al_2005_abstract
+
+  name: Rugenstein et al., 2013
+  title: Northern high latitude heat budget decomposition and transient warming
+  lead: In Journal of Climate, 2013
+  article 'Rugenstein_et_al_2013
+    insert Rugenstein_et_al_2013_abstract
+
+  name: Jenkins et al., 2010
+  title: Observations beneath Pine Island Glacier in West Antarctica and implications for its retreat
+  lead: In Nature Geoscience, 2010
+  article 'Jenkins_et_al_2010
+    insert Jenkins_et_al_2010_abstract
+
+  name: Overeem et al., 2011
+  title: Sea ice loss enhances wave action at the Arctic coast
+  lead: In Geophysical Research Letters, 2011
+  article 'Overeem_et_al_2011
+    insert Overeem_et_al_2011_abstract
+
+  name: Moucha et al., 2008
+  title: Dynamic topography and long-term sea-level variations: there is no such thing as a stable continental platform
+  lead: In Earth and Planetary Science Letters, 2008
+  article 'Moucha_et_al_2008
+    insert Moucha_et_al_2008_abstract
+
+  name: Leclercq et al., 2011
+  title: Estimating the glacier contribution to sea-level rise for the period 1800-2005
+  lead: In Surveys in Geophysics, 2011
+  article 'Leclercq_et_al_2011
+    insert Leclercq_et_al_2011_abstract
+
+  name: Rignot et al., 2008
+  title: Recent Antarctic ice mass loss from radar interferometry and regional climate modelling
+  lead: In Nature Geoscience, 2008
+  article 'Rignot_et_al_2008
+    insert Rignot_et_al_2008_abstract
+
+  name: Barrand et al., 2013
+  title: Computing the volume response of the Antarctic Peninsula ice sheet to warming scenarios to 2200
+  lead: In Journal of Glaciology, 2013
+  article 'Barrand_et_al_2013
+    insert Barrand_et_al_2013_abstract
+
+  name: Pattyn et al., 2006
+  title: Role of transition zones in marine ice sheet dynamics
+  lead: In Journal of Geophysical Research-Earth Surface, 2006
+  article 'Pattyn_et_al_2006
+    insert Pattyn_et_al_2006_abstract
+
+  name: Cayan et al., 2008
+  title: Climate change projections of sea level extremes along the California coast
+  lead: In Climatic Change, 2008
+  article 'Cayan_et_al_2008
+    insert Cayan_et_al_2008_abstract
+
+  name: Chambers et al., 2010
+  title: Ocean mass from GRACE and glacial isostatic adjustment
+  lead: In Journal of Geophysical Research, 2010
+  article 'Chambers_et_al_2010
+    insert Chambers_et_al_2010_abstract
+
+  name: Semedo et al., 2013
+  title: Projection of global wave climate change towards the end of the 21st century
+  lead: In Journal of Climate, 2013
+  article 'Semedo_et_al_2013
+    insert Semedo_et_al_2013_abstract
+
+  name: Kopp et al., 2009
+  title: Probabilistic assessment of sea level during the last interglacial stage
+  lead: In Nature, 2009
+  article 'Kopp_et_al_2009
+    insert Kopp_et_al_2009_abstract
+
+  name: Pardaens et al., 2011b
+  title: Sea-level rise and impacts projections under a future scenario with large greenhouse gas emission reductions
+  lead: In Geophysical Research Letters, 2011
+  article 'Pardaens_et_al_2011b
+    insert Pardaens_et_al_2011b_abstract
+
+  name: Hanna et al., 2008
+  title: Increased runoff from melt from the Greenland Ice Sheet: A response to global warming
+  lead: In Journal of Climate, 2008
+  article 'Hanna_et_al_2008
+    insert Hanna_et_al_2008_abstract
+
+  name: Jay, 2009
+  title: Evolution of tidal amplitudes in the eastern Pacific Ocean
+  lead: In Geophysical Research Letters, 2009
+  article 'Jay_2009
+    insert Jay_2009_abstract
+
+  name: Bougamont et al., 2007
+  title: The impact of model physics on estimating the surface mass balance of the Greenland Ice Sheet
+  lead: In Geophysical Research Letters, 2007
+  article 'Bougamont_et_al_2007
+    insert Bougamont_et_al_2007_abstract
+
+  name: Goelzer et al., 2013
+  title: Sensitivity of Greenland ice sheet projections to model formulations
+  lead: In Journal of Glaciology, 2013
+  article 'Goelzer_et_al_2013
+    insert Goelzer_et_al_2013_abstract
+
+  name: Gillet-Chaulet et al., 2012
+  title: Greenland ice sheet contribution to sea-level rise from a new-generation ice-sheet model
+  lead: In The Cryosphere, 2012
+  article 'GilletChaulet_et_al_2012
+    insert GilletChaulet_et_al_2012_abstract
+
+  name: Sasgen et al., 2012
+  title: Timing and origin of recent regional ice-mass loss in Greenland
+  lead: In Earth and Planetary Science Letters, 2012
+  article 'Sasgen_et_al_2012
+    insert Sasgen_et_al_2012_abstract
+
+  name: Stammer et al., 2011
+  title: Response of a coupled ocean-atmosphere model to Greenland ice melting
+  lead: In Surveys in Geophysics, 2011
+  article 'Stammer_et_al_2011
+    insert Stammer_et_al_2011_abstract
+
+  name: Kopp et al., 2013
+  title: A probabilistic assessment of sea level variations within the last interglacial stage
+  lead: In Geophysical Journal International, 2013
+  article 'Kopp_et_al_2013
+    insert Kopp_et_al_2013_abstract
+
+  name: Boretti and Watson, 2012
+  title: The inconvenient truth: ocean Levels are not accelerating in Australia or over the world
+  lead: In Energy and Environment, 2012
+  article 'Boretti_and_Watson_2012
+    insert Boretti_and_Watson_2012_abstract
+
+  name: Han et al., 2010
+  title: Patterns of Indian Ocean sea-level change in a warming climate
+  lead: In Nature Geoscience, 2010
+  article 'Han_et_al_2010
+    insert Han_et_al_2010_abstract
+
+  name: Goldberg et al., 2009
+  title: Grounding line movement and ice shelf buttressing in marine ice sheets
+  lead: In Journal of Geophysical Research-Earth Surface, 2009
+  article 'Goldberg_et_al_2009
+    insert Goldberg_et_al_2009_abstract
+
+  name: Woth et al., 2006
+  title: Climate change and North Sea storm surge extremes: an ensemble study of storm surge extremes expected in a changed climate projected by four different regional climate models
+  lead: In Ocean Dynamics, 2006
+  article 'Woth_et_al_2006
+    insert Woth_et_al_2006_abstract
+
+  name: Fyke et al., 2010
+  title: Surface melting over ice shelves and ice sheets as assessed from modeled surface air temperatures
+  lead: In Journal of Climate, 2010
+  article 'Fyke_et_al_2010
+    insert Fyke_et_al_2010_abstract
+
+  name: Mikolajewicz et al., 2007b
+  title: Effect of ice sheet interactions in anthropogenic climate change simulations
+  lead: In Geophysical Research Letters, 2007
+  article 'Mikolajewicz_et_al_2007b
+    insert Mikolajewicz_et_al_2007b_abstract
+
+  name: Braithwaite and Olesen, 1989
+  title: Calculation of glacier ablation from air temperature, West Greenland
+  lead: In Glacier Fluctuations and Climatic Change, 1989
+  booksec 'Braithwaite_and_Olesen_1989
+    insert Braithwaite_and_Olesen_1989_abstract
+
+  name: Bahr and Radić, 2012
+  title: Significant contribution to total mass from very small glaciers
+  lead: In The Cryosphere, 2012
+  article 'Bahr_and_Radi_2012
+    insert Bahr_and_Radi_2012_abstract
+
+  name: Yin et al., 2009
+  title: Model projections of rapid sea-level rise on the northeast coast of the United States
+  lead: In Nature Geoscience, 2009
+  article 'Yin_et_al_2009
+    insert Yin_et_al_2009_abstract
+
+  name: Mori et al., 2010
+  title: Projection of extreme wave climate change under global warming
+  lead: In Hydrological Research Letters, 2010
+  article 'Mori_et_al_2010
+    insert Mori_et_al_2010_abstract
+
+  name: Jevrejeva et al., 2009
+  title: Anthropogenic forcing dominates sea level rise since 1850
+  lead: In Geophysical Research Letters, 2009
+  article 'Jevrejeva_et_al_2009
+    insert Jevrejeva_et_al_2009_abstract
+
+  name: Favier et al., 2012
+  title: A three-dimensional full Stokes model of the grounding line dynamics: effect of a pinning point beneath the ice shelf
+  lead: In The Cryosphere, 2012
+  article 'Favier_et_al_2012
+    insert Favier_et_al_2012_abstract
+
+  name: Gregory et al., 2013
+  title: Twentieth-century global-mean sea level rise: is the whole greater than the sum of the parts?
+  lead: In Journal of Climate, 2013
+  article 'Gregory_et_al_2013a
+    insert Gregory_et_al_2013a_abstract
+
+  name: Cazenave et al., 2012
+  title: Estimating ENSO influence on the global mean sea level, 1993-2010
+  lead: In Marine Geodesy, 2012
+  article 'Cazenave_et_al_2012
+    insert Cazenave_et_al_2012_abstract
+
+  name: Rahmstorf et al., 2012b
+  title: Comparing climate projections to observations up to 2011
+  lead: In Environmental Research Letters, 2012
+  article 'Rahmstorf_et_al_2012b
+    insert Rahmstorf_et_al_2012b_abstract
+
+  name: Ollivier et al., 2012
+  title: Envisat Ocean Altimeter Becoming Relevant for Mean Sea Level Trend Studies
+  lead: In Marine Geodesy, 2012
+  article 'Ollivier_et_al_2012
+    insert Ollivier_et_al_2012_abstract
+
+  name: Uotila et al., 2007
+  title: Changes in Antarctic net precipitation in the 21st century based on Intergovernmental Panel on Climate Change (IPCC) model scenarios
+  lead: In Journal of Geophysical Research-Atmospheres, 2007
+  article 'Uotila_et_al_2007
+    insert Uotila_et_al_2007_abstract
+
+  name: Stouffer, 2004
+  title: Time scales of climate response
+  lead: In Journal of Climate, 2004
+  article 'Stouffer_2004
+    insert Stouffer_2004_abstract
+
+  name: Levitus et al., 2001
+  title: Anthropogenic warming of Earth's climate system
+  lead: In Science, 2001
+  article 'Levitus_et_al_2001
+    insert Levitus_et_al_2001_abstract
+
+  name: Broerse et al., 2011
+  title: Ocean contribution to co-seismic crustal deformation and geoid anomalies: Application to the 2004 December 26 Sumatra-Andaman earthquake
+  lead: In Earth and Planetary Science Letters, 2011
+  article 'Broerse_et_al_2011
+    insert Broerse_et_al_2011_abstract
+
+  name: Gleckler et al., 2006b
+  title: Krakatoa lives: The effect of volcanic eruptions on ocean heat content and thermal expansion
+  lead: In Geophysical Research Letters, 2006
+  article 'Gleckler_et_al_2006b
+    insert Gleckler_et_al_2006b_abstract
+
+  name: Katsman et al., 2008
+  title: Climate scenarios of sea level rise for the northeast Atlantic Ocean: a study including the effects of ocean dynamics and gravity changes induced by ice melt
+  lead: In Climatic Change, 2008
+  article 'Katsman_et_al_2008
+    insert Katsman_et_al_2008_abstract
+
+  name: Genthon et al., 2009
+  title: Antarctic precipitation and climate-change predictions: horizontal resolution and margin vs plateau issues
+  lead: In Annals of Glaciology, 2009
+  article 'Genthon_et_al_2009
+    insert Genthon_et_al_2009_abstract
+
+  name: Church et al., 2011
+  title: Understanding and projecting sea level change
+  lead: In Oceanography, 2011
+  article 'Church_et_al_2011a
+    insert Church_et_al_2011a_abstract
+
+  name: Paulson et al., 2007
+  title: Inference of mantle viscosity from GRACE and relative sea level data
+  lead: In Geophysical Journal International, 2007
+  article 'Paulson_et_al_2007
+    insert Paulson_et_al_2007_abstract
+
+  name: Suzuki and Ishii, 2011
+  title: Regional distribution of sea level changes resulting from enhanced greenhouse warming in the Model for Interdisciplinary Research on Climate version 3.2
+  lead: In Geophysical Research Letters, 2011
+  article 'Suzuki_and_Ishii_2011
+    insert Suzuki_and_Ishii_2011_abstract
+
+  name: Huber and Knutti, 2012
+  title: Anthropogenic and natural warming inferred from changes in earth's energy balance
+  lead: In Nature Geoscience, 2012
+  article 'Huber_and_Knutti_2012
+    insert Huber_and_Knutti_2012_abstract
+
+  name: Boretti, 2012b
+  title: Discussion of Natalya N. Warner, Philippe E. Tissot, "Storm flooding sensitivity to sea level rise for Galveston Bay, Texas", Ocean Engineering 44 (2012), 23-32
+  lead: In Ocean Engineering, 2012
+  article 'Boretti_2012b
+    insert Boretti_2012b_abstract
+
+  name: Warrick et al., 1996
+  title: Changes in sea level
+  lead: In Climate Change 1995, The Science of Climate Change, 1996
+  article 'Warrick_et_al_1996
+    insert Warrick_et_al_1996_abstract
+
+  name: Weertman, 1961
+  title: Stability of Ice-Age ice sheets
+  lead: In Journal of Geophysical Research, 1961
+  article 'Weertman_1961
+    insert Weertman_1961_abstract
+
+  name: Vieli and Nick, 2011
+  title: Understanding and modelling rapid dynamic changes of tidewater outlet glaciers: issues and implications
+  lead: In Surveys in Geophysics, 2011
+  article 'Vieli_and_Nick_2011
+    insert Vieli_and_Nick_2011_abstract
+
+  name: Cogley, 2012
+  title: The Future of the World's Glaciers
+  lead: In Future Climates of the World, 2012
+  booksec 'Cogley_2012
+    insert Cogley_2012_abstract
+
+  name: Grabemann and Weisse, 2008
+  title: Climate change impact on extreme wave conditions in the North Sea: an ensemble study
+  lead: In Ocean Dynamics, 2008
+  article 'Grabemann_and_Weisse_2008
+    insert Grabemann_and_Weisse_2008_abstract
+
+  name: Geoffroy et al., 2013
+  title: Transient climate response in a two-box energy-balance model.  Part I: analytical solution and parameter calibration using CMIP5
+  lead: In Journal of Climate, 2013
+  article 'Geoffroy_et_al_2013
+    insert Geoffroy_et_al_2013_abstract
+
+  name: Pokhrel et al., 2012
+  title: Model estimates of sea-level change due to anthropogenic impacts on terrestrial water storage
+  lead: In Nature Geoscience, 2012
+  article 'Pokhrel_et_al_2012
+    insert Pokhrel_et_al_2012_abstract
+
+  name: Timmermann et al., 2010
+  title: Wind effects on past and future regional sea level trends in the Southern Indo-Pacific
+  lead: In Journal of Climate, 2010
+  article 'Timmermann_et_al_2010
+    insert Timmermann_et_al_2010_abstract
+
+  name: Brown et al., 2010
+  title: Surge modelling in the eastern Irish Sea: present and future storm impact
+  lead: In Ocean Dynamics, 2010
+  article 'Brown_et_al_2010
+    insert Brown_et_al_2010_abstract
+
+  name: Landerer et al., 2007
+  title: Regional dynamic and steric sea level change in response to the IPCC-A1B scenario
+  lead: In Journal of Physical Oceanography, 2007
+  article 'Landerer_et_al_2007
+    insert Landerer_et_al_2007_abstract
+
+  name: Lambeck et al., 1998
+  title: Tests of glacial rebound models for Fennoscandinavia based on instrumented sea- and lake-level records
+  lead: In Geophysical Journal International, 1998
+  article 'Lambeck_et_al_1998
+    insert Lambeck_et_al_1998_abstract
+
+  name: Hegerl et al., 2007
+  title: Understanding and attributing climate change
+  lead: In Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, 2007
+  article 'Hegerl_et_al_2007
+    insert Hegerl_et_al_2007_abstract
+
+  name: Hallberg et al., 2012
+  title: Sensitivity of 21st century global-mean steric sea level rise to ocean model formulation
+  lead: In Journal of Climate, 2012
+  article 'Hallberg_et_al_2012
+    insert Hallberg_et_al_2012_abstract
+
+  name: Cornford et al., 2013
+  title: Adaptive mesh, finite volume modeling of marine ice sheets
+  lead: In Journal of Computational Physics, 2013
+  article 'Cornford_et_al_2013
+    insert Cornford_et_al_2013_abstract
+
+  name: Meehl et al., 2005
+  title: How much more global warming and sea level rise?
+  lead: In Science, 2005
+  article 'Meehl_et_al_2005
+    insert Meehl_et_al_2005_abstract
+
+  name: Vizcaíno et al., 2008
+  title: Long-term ice sheet-climate interactions under anthropogenic greenhouse forcing simulated with a complex Earth System Model
+  lead: In Climate Dynamics, 2008
+  article 'Vizcano_et_al_2008
+    insert Vizcano_et_al_2008_abstract
+
+  name: Lionello et al., 2010
+  title: Extreme storm surge and wind wave climate scenario simulations at the Venetian littoral
+  lead: In Physics and Chemistry of the Earth, Parts A/B/C, 2010
+  article 'Lionello_et_al_2010
+    insert Lionello_et_al_2010_abstract
+
+  name: Bindschadler et al., 2013
+  title: Ice-sheet model sensitivities to environmental forcing and their use in projecting future sea level (The SeaRISE Project)
+  lead: In Journal of Glaciology, 2013
+  article 'Bindschadler_et_al_2013
+    insert Bindschadler_et_al_2013_abstract
+
+  name: Allen et al., 2009
+  title: Warming caused by cumulative carbon emissions towards the trillionth tonne
+  lead: In Nature, 2009
+  article 'Allen_et_al_2009
+    insert Allen_et_al_2009_abstract
+
+  name: Boretti, 2013
+  title: Discussion of J.A.G. Cooper, C. Lemckert, Extreme sea level rise and adaptation options for coastal resort cities: a qualitative assessment from the Gold Coast, Australia
+  lead: In Ocean and Coastal Management, 2013
+  article 'Boretti_2013a
+    insert Boretti_2013a_abstract
+
+  name: Clark and Lingle, 1977
+  title: Future sea-level changes due to West Antarctic ice sheet fluctuations
+  lead: In Nature, 1977
+  article 'Clark_and_Lingle_1977
+    insert Clark_and_Lingle_1977_abstract
+
+  name: Forest et al., 2008
+  title: Constraining climate model parameters from observed 20th century changes
+  lead: In Tellus A, 2008
+  article 'Forest_et_al_2008
+    insert Forest_et_al_2008_abstract
+
+  name: Lombard et al., 2009
+  title: Regional patterns of observed sea level change: insights from a 1/4A degrees global ocean/sea-ice hindcast
+  lead: In Ocean Dynamics, 2009
+  article 'Lombard_et_al_2009
+    insert Lombard_et_al_2009_abstract
+
+  name: Bamber et al., 2013
+  title: A new bed elevation dataset for Greenland
+  lead: In The Cryosphere, 2013
+  article 'Bamber_et_al_2013
+    insert Bamber_et_al_2013_abstract
+
+  name: Graversen et al., 2011
+  title: Greenland's contribution to global sea level rise by the end of the 21st century
+  lead: In Climate Dynamics, 2011
+  article 'Graversen_et_al_2011
+    insert Graversen_et_al_2011_abstract
+
+  name: Katsman and van Oldenborgh, 2011
+  title: Tracing the upper ocean's missing heat
+  lead: In Geophysical Research Letters, 2011
+  article 'Katsman_and_van_Oldenborgh_2011
+    insert Katsman_and_van_Oldenborgh_2011_abstract
+
+  name: Peltier, 2004
+  title: Global glacial isostasy and the surface of the ice-age earth: the ICE-5G (VM2) model and GRACE
+  lead: In Annual Review of Earth and Planetary Sciences, 2004
+  article 'Peltier_2004
+    insert Peltier_2004_abstract
+
+  name: Rasmussen et al., 2011
+  title: Surface mass balance, thinning and iceberg production, Columbia Glacier, Alaska, 1948-2007
+  lead: In Journal of Glaciology, 2011
+  article 'Rasmussen_et_al_2011
+    insert Rasmussen_et_al_2011_abstract
+
+  name: Kato, 2009
+  title: Interannual variability of the global radiation budget
+  lead: In Journal of Climate, 2009
+  article 'Kato_2009
+    insert Kato_2009_abstract
+
+  name: Alley et al., 2007
+  title: Effect of sedimentation on ice-sheet grounding-line stability
+  lead: In Science, 2007
+  article 'Alley_et_al_2007
+    insert Alley_et_al_2007_abstract
+
+  name: van de Berg et al., 2011
+  title: Significant contribution of insolation to Eemian melting of the Greenland ice sheet
+  lead: In Nature Geoscience, 2011
+  article 'van_de_Berg_et_al_2011
+    insert van_de_Berg_et_al_2011_abstract
+
+  name: Peltier and Tushingham, 1991
+  title: Influence of glacial isostatic-adjustment on tide gauge measurements of secular sea-level change
+  lead: In Journal of Geophysical Research-Solid Earth and Planets, 1991
+  article 'Peltier_and_Tushingham_1991
+    insert Peltier_and_Tushingham_1991_abstract
+
+  name: Franco et al., 2011
+  title: Present and future climates of the Greenland ice sheet according to the IPCC AR4 models
+  lead: In Climate Dynamics, 2011
+  article 'Franco_et_al_2011
+    insert Franco_et_al_2011_abstract
+
+  name: Huybrechts and De Wolde, 1999
+  title: The dynamic response of the Greenland and Antarctic ice sheets to multiple-century climatic warming
+  lead: In Journal of Climate, 1999
+  article 'Huybrechts_and_De_Wolde_1999
+    insert Huybrechts_and_De_Wolde_1999_abstract
+
+  name: Muhs et al., 2012
+  title: Sea-level history of past interglacial periods from uranium-series dating of corals, Curacao, Leeward Antilles islands
+  lead: In Quaternary Research, 2012
+  article 'Muhs_et_al_2012
+    insert Muhs_et_al_2012_abstract
+
+  name: Solomon et al., 2009
+  title: Irresversible climate change due to carbon dioxide emissions
+  lead: In Proceedings of the National Academy of Science, 2009
+  article 'Solomon_et_al_2009
+    insert Solomon_et_al_2009_abstract
+
+  name: Caires et al., ?
+  title: Past and future changes in North Sea extreme waves
+  ref 'Caires_et_al_
+    insert Caires_et_al__abstract
+
+  name: Meier, 1984
+  title: Contribution of small glaciers to global sea level
+  lead: In Science, 1984
+  article 'Meier_1984
+    insert Meier_1984_abstract
+
+  name: Hunter and Brown, 2013
+  title: Discussion of Boretti, A., ‘Is there any support in the long term tide gauge data to the claims that parts of Sydney will be swamped by rising sea levels?’
+  lead: In Coastal Engineering, 2013
+  article 'Hunter_and_Brown_2013
+    insert Hunter_and_Brown_2013_abstract
+
+  name: Griffies and Greatbatch, 2012
+  title: Physical processes that impact the evolution of global mean sea level in ocean climate models
+  lead: In Ocean Modelling, 2012
+  article 'Griffies_and_Greatbatch_2012
+    insert Griffies_and_Greatbatch_2012_abstract
+
+  name: Gregory and Forster, 2008
+  title: Transient climate response estimated from radiative forcing and observed temperature change
+  lead: In Journal of Geophysical Research - Atmospheres, 2008
+  article 'Gregory_and_Forster_2008
+    insert Gregory_and_Forster_2008_abstract
+
+  name: Gladstone et al., 2012
+  title: Calibrated prediction of Pine Island Glacier retreat during the 21st and 22nd centuries with a coupled flowline model
+  lead: In Earth and Planetary Science letters, 2012
+  article 'Gladstone_et_al_2012
+    insert Gladstone_et_al_2012_abstract
+
+  name: Fettweis et al., 2013
+  title: Estimating Greenland ice sheet surface mass balance contribution to future sea level rise using the regional atmospheric model MAR
+  lead: In The Cryosphere, 2013
+  article 'Fettweis_et_al_2013
+    insert Fettweis_et_al_2013_abstract
+
+  name: Gehrels et al., 2011
+  title: Using Holocene relative sea-level data to inform future sea-level predictions: An example from southwest England
+  lead: In Global and Planetary Change, 2011
+  article 'Gehrels_et_al_2011
+    insert Gehrels_et_al_2011_abstract
+
+  name: Moore et al., 2011
+  title: The historical global sea level budget
+  lead: In Annals of Glaciology, 2011
+  article 'Moore_et_al_2011
+    insert Moore_et_al_2011_abstract
+
+  name: Nidheesh et al., 2012
+  title: Decadal and long-term sea level variability in the tropical Indo-Pacific Ocean
+  lead: In Climate Dynamics, 2012
+  article 'Nidheesh_et_al_2012
+    insert Nidheesh_et_al_2012_abstract
+
+  name: Burgess et al., 2010
+  title: A spatially calibrated model of annual accumulation rate on the Greenland Ice Sheet (1958-2007)
+  lead: In Journal of Geophysical Research-Earth Surface, 2010
+  article 'Burgess_et_al_2010
+    insert Burgess_et_al_2010_abstract
+
+  name: Jevrejeva et al., 2006
+  title: Nonlinear trends and multiyear cycles in sea level records
+  lead: In Journal of Geophysical Research-Oceans, 2006
+  article 'Jevrejeva_et_al_2006
+    insert Jevrejeva_et_al_2006_abstract
+
+  name: Pardaens et al., 2003
+  title: Freshwater transports in HadCM3
+  lead: In Climate Dynamics, 2003
+  article 'Pardaens_et_al_2003
+    insert Pardaens_et_al_2003_abstract
+
+  name: Lambeck et al., 2012
+  title: The anatomy of interglacial sea levels: The relationship between sea levels and ice volumes during the Last Interglacial
+  lead: In Earth and Planetary Science Letters, 2012
+  article 'Lambeck_et_al_2012
+    insert Lambeck_et_al_2012_abstract
+
+  name: Perrette et al., 2013
+  title: A scaling approach to project regional sea level rise and its uncertainties
+  lead: In Earth System Dynamics, 2013
+  article 'Perrette_et_al_2013
+    insert Perrette_et_al_2013_abstract
+
+  name: Miller and Douglas, 2007
+  title: Gyre-scale atmospheric pressure variations and their relation to 19th and 20th century sea level rise
+  lead: In Geophysical Research Letters, 2007
+  article 'Miller_and_Douglas_2007
+    insert Miller_and_Douglas_2007_abstract
+
+  name: McInnes et al., 2011
+  title: Global climate model projected changes in 10 m wind due to anthropogenic climate change
+  lead: In Atmospheric Science Letters, 2011
+  article 'McInnes_et_al_2011
+    insert McInnes_et_al_2011_abstract
+
+  name: Muller et al., 2011
+  title: Secular trends in ocean tides: Observations and model results
+  lead: In Journal of Geophysical Research-Oceans, 2011
+  article 'Muller_et_al_2011
+    insert Muller_et_al_2011_abstract
+
+  name: Tett et al., 2007
+  title: The impact of natural and anthropogenic forcings on climate and hydrology since 1550
+  lead: In Climate Dynamics, 2007
+  article 'Tett_et_al_2007
+    insert Tett_et_al_2007_abstract
+
+  name: Held and Soden, 2006
+  title: Robust responses of the hydrological cycle to global warming
+  lead: In Journal of Climate, 2006
+  article 'Held_and_Soden_2006
+    insert Held_and_Soden_2006_abstract
+
+  name: Wang and Swail, 2006
+  title: Climate change signal and uncertainty in projections of ocean wave heights
+  lead: In Climate Dynamics, 2006
+  article 'Wang_and_Swail_2006
+    insert Wang_and_Swail_2006_abstract
+
+  name: Lambeck et al., 2004
+  title: Sea level in Roman time in the Central Mediterranean and implications for recent change
+  lead: In Earth and Planetary Science Letters, 2004
+  article 'Lambeck_et_al_2004
+    insert Lambeck_et_al_2004_abstract
+
+  name: Wang et al., 2009
+  title: Detection of external influence on trends of atmospheric storminess and northern oceans wave heights
+  lead: In Climate Dynamics, 2009
+  article 'Wang_et_al_2009
+    insert Wang_et_al_2009_abstract
+
+  name: Phillips et al., 2013
+  title: Evaluation of cryo-hydrologic warming as an explanation for increased ice velocities in the wet snow zone, Sermeq Avannarleq, West Greenland
+  lead: In Journal of Geophysical Research, 2013
+  article 'Phillips_et_al_2013
+    insert Phillips_et_al_2013_abstract
+
+  name: Rahmstorf and Ganopolski, 1999
+  title: Long-term global warming scenarios computed with an efficient coupled climate model
+  lead: In Climatic Change, 1999
+  article 'Rahmstorf_and_Ganopolski_1999
+    insert Rahmstorf_and_Ganopolski_1999_abstract
+
+  name: Meehl et al., 2012
+  title: Relative outcomes of climate change mitigation related to global temperature versus sea-level rise
+  lead: In Nature Climate Change, 2012
+  article 'Meehl_et_al_2012
+    insert Meehl_et_al_2012_abstract
+
+  name: Young et al., 2011
+  title: Global trends in wind speed and wave height
+  lead: In Science, 2011
+  article 'Young_et_al_2011
+    insert Young_et_al_2011_abstract
+
+  name: Schoof, 2011
+  title: Marine ice sheet dynamics. Part 2. A Stokes flow contact problem
+  lead: In Journal of Fluid Mechanics, 2011
+  article 'Schoof_2011
+    insert Schoof_2011_abstract
+
+  name: Körper et al., 2013
+  title: The effect of aggressive mitigation on sea level rise and sea ice changes
+  lead: In Climate Dynamics, 2013
+  article 'Krper_et_al_2013
+    insert Krper_et_al_2013_abstract
+
+  name: Blum and Roberts, 2009
+  title: Drowning of the Mississippi Delta due to insufficient sediment supply and global sea-level rise
+  lead: In Nature Geoscience, 2009
+  article 'Blum_and_Roberts_2009
+    insert Blum_and_Roberts_2009_abstract
+
+  name: White et al., 2005
+  title: Coastal and global averaged sea level rise for 1950 to 2000
+  lead: In Geophysical Research Letters, 2005
+  article 'White_et_al_2005
+    insert White_et_al_2005_abstract
+
+  name: Milne et al., 2009
+  title: Identifying the causes of sea-level change
+  lead: In Nature Geoscience, 2009
+  article 'Milne_et_al_2009
+    insert Milne_et_al_2009_abstract
+
+  name: Lowe et al., 2010
+  title: Past and future changes in extreme sea levels and waves
+  lead: In Understanding Sea-Level Rise and Variability, 2010
+  booksec 'Lowe_et_al_2010
+    insert Lowe_et_al_2010_abstract
+
+  name: Slangen and van de Wal, 2011
+  title: An assessment of uncertainties in using volume-area modelling for computing the twenty-first century glacier contribution to sea-level change
+  lead: In The Cryosphere, 2011
+  article 'Slangen_and_van_de_Wal_2011
+    insert Slangen_and_van_de_Wal_2011_abstract
+
+  name: Monaghan et al., 2006
+  title: Insignificant change in Antarctic snowfall since the International Geophysical Year
+  lead: In Science, 2006
+  article 'Monaghan_et_al_2006
+    insert Monaghan_et_al_2006_abstract
+
+  name: Goelzer et al., 2012
+  title: Millennial total sea-level commitments projected with the Earth system model of intermediate complexity LOVECLIM
+  lead: In Environmental Research Letters, 2012
+  article 'Goelzer_et_al_2012
+    insert Goelzer_et_al_2012_abstract
+
+  name: Leclercq et al., 2012
+  title: Brief communication "Historical glacier length changes in West Greenland"
+  lead: In The Cryosphere, 2012
+  article 'Leclercq_et_al_2012
+    insert Leclercq_et_al_2012_abstract
+
+  name: Ishii and Kimoto, 2009
+  title: Reevaluation of historical ocean heat content variations with time-varying XBT and MBT depth bias corrections
+  lead: In Journal of Oceanography, 2009
+  article 'Ishii_and_Kimoto_2009
+    insert Ishii_and_Kimoto_2009_abstract
+
+  name: Gehrels and Woodworth, 2013
+  title: When did modern rates of sea-level rise start?
+  lead: In Global and Planetary Change, 2013
+  article 'Gehrels_and_Woodworth_2013
+    insert Gehrels_and_Woodworth_2013_abstract
+
+  name: Konikow, 2011
+  title: Contribution of global groundwater depletion since 1900 to sea-level rise
+  lead: In Geophysical Research Letters, 2011
+  article 'Konikow_2011
+    insert Konikow_2011_abstract
+
+  name: Gent and Danabasoglu, 2011
+  title: Response to increasing southern hemisphere winds in CCSM4
+  lead: In Journal of Climate, 2011
+  article 'Gent_and_Danabasoglu_2011
+    insert Gent_and_Danabasoglu_2011_abstract
+
+  name: Bracegirdle et al., 2008
+  title: Antarctic climate change over the twenty first century
+  lead: In Journal of Geophysical Research-Atmospheres, 2008
+  article 'Bracegirdle_et_al_2008
+    insert Bracegirdle_et_al_2008_abstract
+
+  name: Lozier et al., 2010
+  title: Opposing decadal changes for the North Atlantic meridional overturning circulation
+  lead: In Nature Geoscience, 2010
+  article 'Lozier_et_al_2010
+    insert Lozier_et_al_2010_abstract
+
+  name: Zickfeld et al., 2013
+  title: Long-term climate change commitment and reversibility: An EMIC intercomparison
+  lead: In Journal of Climate, 2013
+  article 'Zickfeld_et_al_2013
+    insert Zickfeld_et_al_2013_abstract
+
+  name: Hindmarsh, 1993
+  title: Qualitative dynamics of marine ice sheets
+  lead: In Ice in the Climate System I, 1993
+  article 'Hindmarsh_1993
+    insert Hindmarsh_1993_abstract
+
+  name: Box et al., 2012
+  title: Greenland ice sheet albedo feedback: thermodynamics and atmospheric drivers
+  lead: In The Cryosphere, 2012
+  article 'Box_et_al_2012
+    insert Box_et_al_2012_abstract
+
+  name: Holgate et al., 2007
+  title: Comment on "A semi-empirical approach to projecting future sea-level rise"
+  lead: In Science, 2007
+  article 'Holgate_et_al_2007
+    insert Holgate_et_al_2007_abstract
+
+  name: Vellinga and Wood, 2008
+  title: Impacts of thermohaline circulation shutdown in the twenty-first century
+  lead: In Climatic Change, 2008
+  article 'Vellinga_and_Wood_2008
+    insert Vellinga_and_Wood_2008_abstract
+
+  name: Gillett et al., 2011
+  title: Ongoing climate change following a complete cessation of carbon dioxide emissions
+  lead: In Nature Geoscience, 2011
+  article 'Gillett_et_al_2011
+    insert Gillett_et_al_2011_abstract
+
+  name: Gehrels et al., 2006
+  title: Rapid sea-level rise in the North Atlantic Ocean since the first half of the nineteenth century
+  lead: In Holocene, 2006
+  article 'Gehrels_et_al_2006
+    insert Gehrels_et_al_2006_abstract
+
+  name: Biancamaria et al., 2011
+  title: Satellite-based high latitude snow volume trend, variability and contribution to sea level over 1989/2006
+  lead: In Global and Planetary Change, 2011
+  article 'Biancamaria_et_al_2011
+    insert Biancamaria_et_al_2011_abstract
+
+  name: Rignot, 2001
+  title: Evidence for rapid retreat and mass loss of Thwaites Glacier, West Antarctica
+  lead: In Journal of Glaciology, 2001
+  article 'Rignot_2001
+    insert Rignot_2001_abstract
+
+  name: Nerem et al., 2010
+  title: Estimating mean sea level change from the TOPEX and Jason altimeter missions
+  lead: In Marine Geodesy, 2010
+  article 'Nerem_et_al_2010
+    insert Nerem_et_al_2010_abstract
+
+  name: Lowe et al., 2009
+  title: UK Climate Projections science report: Marine and coastal projections
+  ref 'Lowe_et_al_2009
+    insert Lowe_et_al_2009_abstract
+
+  name: Cane, 1989
+  title: A mathmatical note on Kawase study of deep ocean
+  lead: In Journal of Physical Oceanography, 1989
+  article 'Cane_1989
+    insert Cane_1989_abstract
+
+  name: Jevrejeva et al., 2012
+  title: Sea level projections to AD 2500 with a new generation of climate change scenarios
+  lead: In Global and Planetary Change, 2012
+  article 'Jevrejeva_et_al_2012a
+    insert Jevrejeva_et_al_2012a_abstract
+
+  name: Church et al., 2010
+  title: Understanding Sea-Level Rise and Variability
+  article 'Church_et_al_2010
+    insert Church_et_al_2010_abstract
+
+  name: Kuhlbrodt and Gregory, 2012
+  title: Ocean heat uptake and its consequences for the magnitude of sea level rise and climate change
+  lead: In Geophysical Research Letters, 2012
+  article 'Kuhlbrodt_and_Gregory_2012
+    insert Kuhlbrodt_and_Gregory_2012_abstract
+
+  name: Vernon et al., 2013
+  title: Surface mass balance model intercomparison for the Greenland ice sheet
+  lead: In The Cryosphere, 2013
+  article 'Vernon_et_al_2013
+    insert Vernon_et_al_2013_abstract
+
+  name: Sokolov et al., 2010
+  title: Sensitivity of climate change projections to uncertainties in the estimates of observed changes in deep-ocean heat content
+  lead: In Climate Dynamics, 2010
+  article 'Sokolov_et_al_2010
+    insert Sokolov_et_al_2010_abstract
+
+  name: Good et al., 2011
+  title: A step-response simple climate model to reconstruct and interpret AOGCM projections
+  lead: In Geophysical Research Letters, 2011
+  article 'Good_et_al_2011
+    insert Good_et_al_2011_abstract
+
+  name: Lorbacher et al., 2012
+  title: Rapid barotrophic sea-level rise from ice-sheet melting scenarios
+  lead: In Journal of Geophysical Research, 2012
+  article 'Lorbacher_et_al_2012
+    insert Lorbacher_et_al_2012_abstract
+
+  name: Peltier, 2009
+  title: Closure of the budget of global sea level rise over the GRACE era: the importance and magnitudes of the required corrections for global glacial isostatic adjustment
+  lead: In Quaternary Science Reviews, 2009
+  article 'Peltier_2009
+    insert Peltier_2009_abstract
+
+  name: Hansen et al., 2007
+  title: Climate change and trace gases
+  lead: In Philosophical Transactions of the Royal Society of London A, 2007
+  article 'Hansen_et_al_2007
+    insert Hansen_et_al_2007_abstract
+
+  name: Charles et al., 2012
+  title: Climate change impact on waves in the Bay of Biscay, France
+  lead: In Ocean Dynamics, 2012
+  article 'Charles_et_al_2012
+    insert Charles_et_al_2012_abstract
+
+  name: Cook and Vaughan, 2010
+  title: Overview of areal changes of the ice shelves on the Antarctic Peninsula over the past 50 years
+  lead: In The Cryosphere, 2010
+  article 'Cook_and_Vaughan_2010
+    insert Cook_and_Vaughan_2010_abstract
+
+  name: Gomez et al., 2010b
+  title: Sea level as a stabilizing factor for marine-ice-sheet grounding lines
+  lead: In Nature Geoscience, 2010
+  article 'Gomez_et_al_2010b
+    insert Gomez_et_al_2010b_abstract
+
+  name: Mitrovica et al., 2001
+  title: Recent mass balance of polar ice sheets inferred from patterns of global sea-level change
+  lead: In Nature, 2001
+  article 'Mitrovica_et_al_2001
+    insert Mitrovica_et_al_2001_abstract
+
+    

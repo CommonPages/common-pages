@@ -1,0 +1,15 @@
+
+public: ar5-9.5.3.1
+name: Section 9.5.3.1
+title: 9.5.3.1 - Global Surface Temperature Multi-Decadal Variability
+section 9_5_3_1
+
+  |There is high confidence that models reproduce global and NH temperature variability on a wide range of time scales. The CMIP5 millennium simulations include natural and {Topics.*Radiative_Forcing anthropogenic forcings}. Significant differences between unforced and forced simulations are seen for time scale larger than 50 years, indicating the importance of forced variability at these time scales.
+
+
+  
+
+  insert SectionDoc
+
+
+    

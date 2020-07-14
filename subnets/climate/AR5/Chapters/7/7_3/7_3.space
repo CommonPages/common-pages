@@ -1,0 +1,43 @@
+
+public: ar5-7.3
+name: Section 7.3
+title: 7.3 - Aerosols
+section 7_3
+
+  |Aerosols play an important role in the climate system. Their processes and properties influence {Glossary.*Aerosol aerosol}–radiation and aerosol–cloud interactions. Since {cite.1.'IPCC_2007 AR4}, substantial progress has been made in our understanding of aerosol processes including nucleation and growth of nucleated particles. Measurement of some of the key aerosol properties has been greatly improved in laboratory and field experiments using advanced instrumentation.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 7_3_1
+    - 7_3_2
+    - 7_3_3
+    - 7_3_4
+    - 7_3_5
+
+  name: Section 7.3 - Full Text
+  path FullText
+    name: Aerosols
+    step
+      include
+        - Chapters.7.7_3.SectionDoc
+        - Chapters.7.7_3.7_3_1.7_3_1_1.SectionDoc
+        - Chapters.7.7_3.7_3_1.7_3_1_2.SectionDoc
+        - Chapters.7.7_3.7_3_2.7_3_2_1.SectionDoc
+        - Chapters.7.7_3.7_3_2.7_3_2_2.SectionDoc
+        - Chapters.7.7_3.7_3_3.SectionDoc
+        - Chapters.7.7_3.7_3_3.7_3_3_1.SectionDoc
+        - Chapters.7.7_3.7_3_3.7_3_3_2.SectionDoc
+        - Chapters.7.7_3.7_3_3.7_3_3_3.SectionDoc
+        - Chapters.7.7_3.7_3_3.7_3_3_4.SectionDoc
+        - Chapters.7.7_3.7_3_4.7_3_4_1.SectionDoc
+        - Chapters.7.7_3.7_3_4.7_3_4_2.SectionDoc
+        - Chapters.7.7_3.7_3_5.SectionDoc
+        - Chapters.7.7_3.7_3_5.7_3_5_1.SectionDoc
+        - Chapters.7.7_3.7_3_5.7_3_5_2.SectionDoc
+        - Chapters.7.7_3.7_3_5.7_3_5_3.SectionDoc
+        - Chapters.7.7_3.7_3_5.7_3_5_4.SectionDoc
+    

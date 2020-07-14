@@ -1,0 +1,30 @@
+
+public: ar5-9.4.4
+name: Section 9.4.4
+title: 9.4.4 - Land Surface, Fluxes and Hydrology
+section 9_4_4
+
+  |The modelling of snow and near-surface {Glossary.*Permafrost permafrost} (NSP) processes has received increased attention since the {cite.1.'IPCC_2007 AR4}. Despite difficulties, the CMIP5 multi-model {Glossary.*Ensemble ensemble} reproduces key features of the large-scale snow cover. Since the AR4 there has been continual development of offline Dynamic Global Vegetation Models (DGVMs). Another major innovation in the land component of {Glossary.*Earth_System_Model ESMs} since the AR4 is the inclusion of the effects of {Topics.*Land_Use_Change land use change} associated with the spread of agriculture, urbanization and {Glossary.*Deforestation deforestation}.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 9_4_4_1
+    - 9_4_4_2
+    - 9_4_4_3
+    - 9_4_4_4
+
+  name: Section 9.4.4 - Full Text
+  path FullText
+    name: Land Surface, Fluxes and Hydrology
+    step
+      include
+        - Chapters.9.9_4.9_4_4.SectionDoc
+        - Chapters.9.9_4.9_4_4.9_4_4_1.SectionDoc
+        - Chapters.9.9_4.9_4_4.9_4_4_2.SectionDoc
+        - Chapters.9.9_4.9_4_4.9_4_4_3.SectionDoc
+        - Chapters.9.9_4.9_4_4.9_4_4_4.SectionDoc
+    

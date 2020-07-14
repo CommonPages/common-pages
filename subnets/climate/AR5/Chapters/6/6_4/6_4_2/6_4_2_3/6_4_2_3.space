@@ -1,0 +1,26 @@
+
+public: ar5-6.4.2.3
+name: Section 6.4.2.3
+title: 6.4.2.3 - Regional Feedback Analysis
+section 6_4_2_3
+
+  |The linear {Glossary.*Feedback feedback} analysis with the β and γ metrics has been applied at the regional scale to future carbon {Glossary.*Uptake uptake}. Increased {Glossary.*Carbon_dioxide CO2} is {Topics.*Climate_Projections projected} by the CMIP5 models to increase oceanic CO2 sinks almost everywhere (positive β). Increased CO2 is projected by the CMIP5 models to increase land CO2 sinks everywhere (positive β).
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 6_4_2_3_1
+    - 6_4_2_3_2
+
+  name: Section 6.4.2.3 - Full Text
+  path FullText
+    name: Regional Feedback Analysis
+    step
+      include
+        - Chapters.6.6_4.6_4_2.6_4_2_3.SectionDoc
+        - Chapters.6.6_4.6_4_2.6_4_2_3.6_4_2_3_1.SectionDoc
+        - Chapters.6.6_4.6_4_2.6_4_2_3.6_4_2_3_2.SectionDoc
+    

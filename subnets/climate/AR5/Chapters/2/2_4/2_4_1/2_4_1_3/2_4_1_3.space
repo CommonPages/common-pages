@@ -1,0 +1,15 @@
+
+public: ar5-2.4.1.3
+name: Section 2.4.1.3
+title: 2.4.1.3 - Land Use Change and Urban Heat Island Effects
+section 2_4_1_3
+
+  |It is indisputable that Urban Heat Island ({Glossary.*Urban_heat_island UHI}) and Land Use Change (LULC) are real influences on raw temperature measurements. However, it is unlikely that any uncorrected UHI effects and LULC change effects have raised the estimated centennial globally averaged {Glossary.*Land_surface_air_temperature LSAT} trends by more than 10% of the reported {Glossary.*Trend trend}.
+
+
+  
+
+  insert SectionDoc
+
+
+    

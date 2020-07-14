@@ -1,0 +1,15 @@
+
+public: ar5-4.4.2.1.1
+name: Section 4.4.2.1.1
+title: 4.4.2.1.1 - Mass budget method
+section 4_4_2_1_1
+
+  |The mass budget method relies on estimating the difference between net surface balance over the {Glossary.*Ice_sheet ice sheet} (input) and perimeter ice discharge flux (output). Knowledge of perimeter fluxes has improved significantly since {cite.1.'IPCC_2007 AR4} for both ice sheets and velocity data. However, incomplete ice thickness mapping still causes {Topics.*Uncertainty uncertainties} in ice discharge.
+
+
+  
+
+  insert SectionDoc
+
+
+    

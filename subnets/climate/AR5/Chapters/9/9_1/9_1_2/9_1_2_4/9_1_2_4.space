@@ -1,0 +1,15 @@
+
+public: ar5-9.1.2.4
+name: Section 9.1.2.4
+title: 9.1.2.4 - Regional Climate Models
+section 9_1_2_4
+
+  |{Glossary.*Regional_Climate_Model Regional Climate Models} (RCMs) are limited-area models with representations of climate processes comparable to those in the atmospheric and land surface components of {Glossary.*Atmosphere_Ocean_General_Circulation_Model AOGCMs}, though typically run without interactive ocean and {Glossary.*Sea_ice sea ice}. RCMs are often used to dynamically ‘downscale’ global model simulations for some particular geographical {Topics.*Regional_Climate region} to provide more detailed information.
+
+
+  
+
+  insert SectionDoc
+
+
+    

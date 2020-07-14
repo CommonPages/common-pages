@@ -1,0 +1,55 @@
+
+public: ar5-6.4
+name: Section 6.4
+title: 6.4 - Projections of Future Carbon and Other Biogeochemical Cycles
+section 6_4
+
+  |For the future, the dominant cause of change is {Topics.*Emissions emissions}, rather than {Topics.*Carbon_Cycle carbon cycle} feedbacks. Global negative emissions are required to achieve a decline in {Topics.*Radiative_Forcing radiative forcing} by 2100. All models agree that strong emissions reductions are required to achieve this. With very high confidence, the physical, biogeochemical carbon cycle in the ocean and on land will continue to respond to climate change and rising atmospheric {Glossary.*Carbon_dioxide CO2} concentrations created during the 21st century.
+
+
+  apply FullText
+
+  
+
+  include
+    - 6_4_1
+    - 6_4_2
+    - 6_4_3
+    - 6_4_4
+    - 6_4_5
+    - 6_4_6
+    - 6_4_7
+    - 6_4_8
+    - 6_4_9
+
+  name: Section 6.4 - Full Text
+  path FullText
+    name: Introduction
+    step
+      include
+        - Chapters.6.6_4.6_4_1.SectionDoc
+        - Chapters.6.6_4.6_4_2.6_4_2_1.SectionDoc
+        - Chapters.6.6_4.6_4_2.6_4_2_2.SectionDoc
+        - Chapters.6.6_4.6_4_2.6_4_2_3.SectionDoc
+        - Chapters.6.6_4.6_4_2.6_4_2_3.6_4_2_3_1.SectionDoc
+        - Chapters.6.6_4.6_4_2.6_4_2_3.6_4_2_3_2.SectionDoc
+        - Chapters.6.6_4.6_4_3.6_4_3_1.SectionDoc
+        - Chapters.6.6_4.6_4_3.6_4_3_2.SectionDoc
+        - Chapters.6.6_4.6_4_3.6_4_3_3.SectionDoc
+        - Chapters.6.6_4.6_4_3.6_4_3_4.SectionDoc
+        - Chapters.6.6_4.6_4_4.SectionDoc
+        - Chapters.6.6_4.6_4_5.SectionDoc
+        - Chapters.6.6_4.6_4_6.6_4_6_1.SectionDoc
+        - Chapters.6.6_4.6_4_6.6_4_6_2.SectionDoc
+        - Chapters.6.6_4.6_4_6.6_4_6_3.SectionDoc
+        - Chapters.6.6_4.6_4_7.SectionDoc
+        - Chapters.6.6_4.6_4_7.6_4_7_1.SectionDoc
+        - Chapters.6.6_4.6_4_7.6_4_7_2.SectionDoc
+        - Chapters.6.6_4.6_4_7.6_4_7_3.SectionDoc
+        - Chapters.6.6_4.6_4_8.6_4_8_1.SectionDoc
+        - Chapters.6.6_4.6_4_8.6_4_8_2.6_4_8_2_1.SectionDoc
+        - Chapters.6.6_4.6_4_8.6_4_8_2.6_4_8_2_2.SectionDoc
+        - Chapters.6.6_4.6_4_8.6_4_8_2.6_4_8_2_3.SectionDoc
+        - Chapters.6.6_4.6_4_8.6_4_8_2.6_4_8_2_4.SectionDoc
+        - Chapters.6.6_4.6_4_9.SectionDoc
+    

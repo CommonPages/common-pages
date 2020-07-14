@@ -1,0 +1,27 @@
+
+public: ar5-2.4.2
+name: Section 2.4.2
+title: 2.4.2 - Sea Surface Temperature and Marine Air Temperature
+section 2_4_2
+
+  |Since {cite.1.'IPCC_2007 AR4} the availability of {Glossary.*Metadata metadata} has increased, data completeness has improved and a number of new sea {Topics.*Surface_Temperature surface temperature} ({Glossary.*Sea_Surface_Temperature SST}) products have been produced. It is certain that global average SSTs have increased since the beginning of the 20th century.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 2_4_2_1
+    - 2_4_2_2
+
+  name: Section 2.4.2 - Full Text
+  path FullText
+    name: Sea Surface Temperature and Marine Air Temperature
+    step
+      include
+        - Chapters.2.2_4.2_4_2.SectionDoc
+        - Chapters.2.2_4.2_4_2.2_4_2_1.2_4_2_1_1.SectionDoc
+        - Chapters.2.2_4.2_4_2.2_4_2_1.2_4_2_1_2.SectionDoc
+        - Chapters.2.2_4.2_4_2.2_4_2_2.SectionDoc
+    

@@ -1,0 +1,15 @@
+
+public: ar5-4.4.2.1.2
+name: Section 4.4.2.1.2
+title: 4.4.2.1.2 - Repeated altimetry
+section 4_4_2_1_2
+
+  |Satellite laser {Glossary.*Altimetry altimetry}, available for the first time from NASA’s ICESat satellite launched in 2003, has provided many new results since {cite.1.'IPCC_2007 AR4}. Early in 2013, NASA released an elevation correction for ICESat that is relevant to several studies cited in this chapter, but was provided too late to be included in those studies. However, there is high confidence that the substantive conclusions this chapter will not be affected by revisions of the ICESat data products.
+
+
+  
+
+  insert SectionDoc
+
+
+    

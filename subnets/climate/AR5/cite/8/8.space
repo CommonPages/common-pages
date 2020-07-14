@@ -1,0 +1,3096 @@
+
+space 8
+
+  name: Shindell et al., 2006
+  title: Simulations of preindustrial, present-day, and 2100 conditions in the NASA GISS composition and climate model G-PUCCINI
+  lead: In Atmospheric Chemistry and Physics, 2006
+  article 'Shindell_et_al_2006
+    insert Shindell_et_al_2006_abstract
+
+  name: Huang et al., 2011
+  title: DUST AND BLACK CARBON IN SEASONAL SNOW ACROSS NORTHERN CHINA
+  lead: In Bulletin of the American Meteorological Society, 2011
+  article 'Huang_et_al_2011
+    insert Huang_et_al_2011_abstract
+
+  name: Nair et al., 2007
+  title: Observational estimates of radiative forcing due to land use change in southwest Australia
+  lead: In Journal of Geophysical Research-Atmospheres, 2007
+  article 'Nair_et_al_2007
+    insert Nair_et_al_2007_abstract
+
+  name: Fischer et al., 2007
+  title: European climate response to tropical volcanic eruptions over the last half millennium
+  lead: In Geophysical Research Letters, 2007
+  article 'Fischer_et_al_2007
+    insert Fischer_et_al_2007_abstract
+
+  name: Lacis et al., 1990
+  title: Radiative forcing of climate by changes in the vertical-distribution of ozone
+  lead: In J. Geophys. Res., 1990
+  article 'Lacis_et_al_1990
+    insert Lacis_et_al_1990_abstract
+
+  name: Murphy and Fahey, 1994
+  title: An estimate of the flux of stratospheric reactive nitrogen and ozone into the troposphere
+  lead: In Journal of Geophysical Research-Atmospheres, 1994
+  article 'Murphy_and_Fahey_1994
+    insert Murphy_and_Fahey_1994_abstract
+
+  name: DICKINSON, 1975
+  title: SOLAR VARIABILITY AND LOWER ATMOSPHERE
+  lead: In Bulletin of the American Meteorological Society, 1975
+  article 'DICKINSON_1975
+    insert DICKINSON_1975_abstract
+
+  name: Johansson et al., 2006
+  title: The cost of using global warming potentials: Analysing the trade off between CO2, CH4 and N2O
+  lead: In Climatic Change, 2006
+  article 'Johansson_et_al_2006
+    insert Johansson_et_al_2006_abstract
+
+  name: Lu et al., 2011
+  title: Sulfur dioxide and primary carbonaceous aerosol emissions in China and India, 1996-2010
+  lead: In Atmospheric Chemistry and Physics, 2011
+  article 'Lu_et_al_2011
+    insert Lu_et_al_2011_abstract
+
+  name: Haywood and Schulz, 2007
+  title: Causes of the reduction in uncertainty in the anthropogenic radiative forcing of climate between IPCC (2001) and IPCC (2007)
+  lead: In Geophysical Research Letters, 2007
+  article 'Haywood_and_Schulz_2007
+    insert Haywood_and_Schulz_2007_abstract
+
+  name: Ball et al., 2012
+  title: Reconstruction of total solar irradiance 1974-2009
+  lead: In Astronomy &amp; Astrophysics, 2012
+  article 'Ball_et_al_2012
+    insert Ball_et_al_2012_abstract
+
+  name: Lu et al., 2012
+  title: The effects of different HITRAN versions on calculated long-wave radiation and uncertainty evaluation
+  lead: In Acta Meteorologica Sinica, 2012
+  article 'Lu_et_al_2012
+    insert Lu_et_al_2012_abstract
+
+  name: Blowers et al., 2007
+  title: Prediction of radiative forcing values for hydrofluoroethers using density functional theory methods
+  lead: In Journal of Geophysical Research-Atmospheres, 2007
+  article 'Blowers_et_al_2007
+    insert Blowers_et_al_2007_abstract
+
+  name: BALIUNAS and JASTROW, 1990
+  title: EVIDENCE FOR LONG-TERM BRIGHTNESS CHANGES OF SOLAR-TYPE STARS
+  lead: In Nature, 1990
+  article 'BALIUNAS_and_JASTROW_1990
+    insert BALIUNAS_and_JASTROW_1990_abstract
+
+  name: HAIGH, 1994
+  title: THE ROLE OF STRATOSPHERIC OZONE IN MODULATING THE SOLAR RADIATIVE FORCING OF CLIMATE
+  lead: In Nature, 1994
+  article 'HAIGH_1994
+    insert HAIGH_1994_abstract
+
+  name: Reisinger et al., 2011
+  title: Future changes in global warming potentials under representative concentration pathways
+  lead: In Environmental Research Letters, 2011
+  article 'Reisinger_et_al_2011
+    insert Reisinger_et_al_2011_abstract
+
+  name: Crutzen, 1973
+  title: DISCUSSION OF CHEMISTRY OF SOME MINOR CONSTITUENTS IN STRATOSPHERE AND TROPOSPHERE
+  lead: In Pure and Applied Geophysics, 1973
+  article 'Crutzen_1973
+    insert Crutzen_1973_abstract
+
+  name: Berntsen et al., 1997
+  title: Effects of anthropogenic emissions on tropospheric ozone and its radiative forcing
+  lead: In Journal of Geophysical Research-Atmospheres, 1997
+  article 'Berntsen_et_al_1997
+    insert Berntsen_et_al_1997_abstract
+
+  name: Persad et al., 2012
+  title: Tropical Tropospheric-Only Responses to Absorbing Aerosols
+  lead: In Journal of Climate, 2012
+  article 'Persad_et_al_2012
+    insert Persad_et_al_2012_abstract
+
+  name: Matthews et al., 2004
+  title: Natural and anthropogenic climate change: incorporating historical land cover change, vegetation dynamics and the global carbon cycle
+  lead: In Climate Dynamics, 2004
+  article 'Matthews_et_al_2004
+    insert Matthews_et_al_2004_abstract
+
+  name: Wilcox et al., 2012
+  title: Radiative forcing due to aviation water vapour emissions
+  lead: In Atmospheric Environment, 2012
+  article 'Wilcox_et_al_2012
+    insert Wilcox_et_al_2012_abstract
+
+  name: Wild, 2007
+  title: Modelling the global tropospheric ozone budget: exploring the variability in current models
+  lead: In Atmospheric Chemistry and Physics, 2007
+  article 'Wild_2007
+    insert Wild_2007_abstract
+
+  name: WMO, 2011
+  title: Scientific Assessment of Ozone Depletion: 2010
+  lead: By World Meteorological Organisation, 2011
+  report 'WMO_2011
+    insert WMO_2011_abstract
+
+  name: Zeng et al., 2010
+  title: Impact of stratospheric ozone recovery on tropospheric ozone and its budget
+  lead: In Geophysical Research Letters, 2010
+  article 'Zeng_et_al_2010
+    insert Zeng_et_al_2010_abstract
+
+  name: Oleson et al., 2010
+  title: Effects of white roofs on urban temperature in a global climate model
+  lead: In Geophysical Research Letters, 2010
+  article 'Oleson_et_al_2010
+    insert Oleson_et_al_2010_abstract
+
+  name: Henze et al., 2012
+  title: Spatially Refined Aerosol Direct Radiative Forcing Efficiencies
+  lead: In Environmental Science &amp; Technology, 2012
+  article 'Henze_et_al_2012
+    insert Henze_et_al_2012_abstract
+
+  name: Forster et al., 2011b
+  title: Stratospheric changes and climate, Chapter 4 in Scientific Assessment of Ozone Depletion: 2010
+  booksec 'Forster_et_al_2011b
+    insert Forster_et_al_2011b_abstract
+
+  name: Wang et al., 2013
+  title: Black carbon and other light-absorbing impurities in snow across Northern China
+  lead: In Journal of Geophysical Research: Atmospheres, 2013
+  article 'Wang_et_al_2013
+    insert Wang_et_al_2013_abstract
+
+  name: Booth et al., 2012
+  title: Aerosols implicated as a prime driver of twentieth-century North Atlantic climate variability
+  lead: In Nature, 2012
+  article 'Booth_et_al_2012
+    insert Booth_et_al_2012_abstract
+
+  name: Rottman, 2006
+  title: Measurement of total and spectral solar irradiance
+  lead: In Space Science Reviews, 2006
+  article 'Rottman_2006
+    insert Rottman_2006_abstract
+
+  name: Biasutti and Giannini, 2006
+  title: Robust Sahel drying in response to late 20th century forcings
+  lead: In Geophysical Research Letters, 2006
+  article 'Biasutti_and_Giannini_2006
+    insert Biasutti_and_Giannini_2006_abstract
+
+  name: Zhang et al., 2007
+  title: Detection of human influence on twentieth-century precipitation trends
+  lead: In Nature, 2007
+  article 'Zhang_et_al_2007
+    insert Zhang_et_al_2007_abstract
+
+  name: Frolicher et al., 2011
+  title: Sensitivity of atmospheric CO2 and climate to explosive volcanic eruptions
+  lead: In Biogeosciences, 2011
+  article 'Frolicher_et_al_2011
+    insert Frolicher_et_al_2011_abstract
+
+  name: UNEP, 2011
+  title: Near-term Climate Protection and Clean Air Benefits: Actions for Controlling Short-Lived Climate Forcers
+  lead: By United Nations Environment Programme (UNEP), 2011
+  report 'UNEP_2011
+    insert UNEP_2011_abstract
+
+  name: Holmes et al., 2011
+  title: Uncertainties in climate assessment for the case of aviation NO
+  lead: In Proceedings of the National Academy of Sciences of the United States of America, 2011
+  article 'Holmes_et_al_2011
+    insert Holmes_et_al_2011_abstract
+
+  name: Bala et al., 2007
+  title: Combined climate and carbon-cycle effects of large-scale deforestation
+  lead: In Proceedings of the National Academy of Sciences of the United States of America, 2007
+  article 'Bala_et_al_2007
+    insert Bala_et_al_2007_abstract
+
+  name: Wang and Penner, 2009
+  title: Aerosol indirect forcing in a global model with particle nucleation
+  lead: In Atmospheric Chemistry and Physics, 2009
+  article 'Wang_and_Penner_2009
+    insert Wang_and_Penner_2009_abstract
+
+  name: Prather et al., 2012
+  title: Reactive greenhouse gas scenarios: Systematic exploration of uncertainties and the role of atmospheric chemistry
+  lead: In Geophysical Research Letters, 2012
+  article 'Prather_et_al_2012
+    insert Prather_et_al_2012_abstract
+
+  name: Stenchikov et al., 2009
+  title: Volcanic signals in oceans
+  lead: In Journal of Geophysical Research-Atmospheres, 2009
+  article 'Stenchikov_et_al_2009
+    insert Stenchikov_et_al_2009_abstract
+
+  name: Willson and Mordvinov, 2003
+  title: Secular total solar irradiance trend during solar cycles 21-23
+  lead: In Geophysical Research Letters, 2003
+  article 'Willson_and_Mordvinov_2003
+    insert Willson_and_Mordvinov_2003_abstract
+
+  name: Hansen and Nazarenko, 2004
+  title: Soot climate forcing via snow and ice albedos
+  lead: In Proceedings of the National Academy of Sciences of the United States of America, 2004
+  article 'Hansen_and_Nazarenko_2004
+    insert Hansen_and_Nazarenko_2004_abstract
+
+  name: Wu et al., 2007
+  title: Why are there large differences between models in global budgets of tropospheric ozone?
+  lead: In Journal of Geophysical Research-Atmospheres, 2007
+  article 'Wu_et_al_2007
+    insert Wu_et_al_2007_abstract
+
+  name: Mercado et al., 2009
+  title: Impact of changes in diffuse radiation on the global land carbon sink
+  lead: In Nature, 2009
+  article 'Mercado_et_al_2009
+    insert Mercado_et_al_2009_abstract
+
+  name: Shindell et al., 2001
+  title: Solar forcing of regional climate change during the maunder minimum
+  lead: In Science, 2001
+  article 'Shindell_et_al_2001
+    insert Shindell_et_al_2001_abstract
+
+  name: Andersen et al., 2009
+  title: Atmospheric Chemistry of Sulfuryl Fluoride: Reaction with OH Radicals, CI Atoms and O3, Atmospheric Lifetime, IR Spectrum, and Global Warming Potential
+  lead: In Environmental Science &amp; Technology, 2009
+  article 'Andersen_et_al_2009
+    insert Andersen_et_al_2009_abstract
+
+  name: Andersen et al., 2010
+  title: Atmospheric Chemistry of HCF2O(CF2CF2O)(x)CF2H (x=2-4): Kinetics and Mechanisms of the Chlorine-Atom-Initiated Oxidation
+  lead: In Chemphyschem, 2010
+  article 'Andersen_et_al_2010
+    insert Andersen_et_al_2010_abstract
+
+  name: Levy, 1971
+  title: NORMAL ATMOSPHERE - LARGE RADICAL AND FORMALDEHYDE CONCENTRATIONS PREDICTED
+  lead: In Science, 1971
+  article 'Levy_1971
+    insert Levy_1971_abstract
+
+  name: Ban-Weiss et al., 2012
+  title: Dependence of climate forcing and response on the altitude of black carbon aerosols
+  lead: In Climate Dynamics, 2012
+  article 'BanWeiss_et_al_2012
+    insert BanWeiss_et_al_2012_abstract
+
+  name: Bond et al., 2013
+  title: Bounding the role of black carbon in the climate system: A scientific assessment
+  lead: In Journal of Geophysical Research: Atmospheres, 2013
+  article 'Bond_et_al_2013
+    insert Bond_et_al_2013_abstract
+
+  name: Carlton et al., 2010
+  title: To What Extent Can Biogenic SOA be Controlled?
+  lead: In Environmental Science &amp; Technology, 2010
+  article 'Carlton_et_al_2010
+    insert Carlton_et_al_2010_abstract
+
+  name: Andrews and Forster, 2008
+  title: CO2 forcing induces semi-direct effects with consequences for climate feedback interpretations
+  lead: In Geophysical Research Letters, 2008
+  article 'Andrews_and_Forster_2008
+    insert Andrews_and_Forster_2008_abstract
+
+  name: Gaillard et al., 2010
+  title: Holocene land-cover reconstructions for studies on land cover-climate feedbacks
+  lead: In Climate of the Past, 2010
+  article 'Gaillard_et_al_2010
+    insert Gaillard_et_al_2010_abstract
+
+  name: Joos et al., 2013
+  title: Carbon dioxide and climate impulse response functions for the computation of greenhouse gas metrics: a multi-model analysis
+  lead: In Atmos. Chem. Phys., 2013
+  article 'Joos_et_al_2013
+    insert Joos_et_al_2013_abstract
+
+  name: Johansson, 2012
+  title: Economics- and physical-based metrics for comparing greenhouse gases
+  lead: In Climatic Change, 2012
+  article 'Johansson_2012
+    insert Johansson_2012_abstract
+
+  name: Andrews et al., 2010
+  title: Precipitation, radiative forcing and global temperature change
+  lead: In Geophysical Research Letters, 2010
+  article 'Andrews_et_al_2010
+    insert Andrews_et_al_2010_abstract
+
+  name: Daniel and Solomon, 1998
+  title: On the climate forcing of carbon monoxide
+  lead: In Journal of Geophysical Research-Atmospheres, 1998
+  article 'Daniel_and_Solomon_1998
+    insert Daniel_and_Solomon_1998_abstract
+
+  name: Bradford, 2001
+  title: Global change - Time, money and tradeoffs
+  lead: In Nature, 2001
+  article 'Bradford_2001
+    insert Bradford_2001_abstract
+
+  name: Swingedouw et al., 2011
+  title: Natural forcing of climate during the last millennium: fingerprint of solar variability
+  lead: In Climate Dynamics, 2011
+  article 'Swingedouw_et_al_2011
+    insert Swingedouw_et_al_2011_abstract
+
+  name: Olivié et al., 2012
+  title: Atmosphere Response Time Scales Estimated from AOGCM Experiments
+  lead: In J. Climate, 2012
+  article 'Olivi_et_al_2012
+    insert Olivi_et_al_2012_abstract
+
+  name: Rigozo et al., 2010
+  title: Prediction of solar minimum and maximum epochs on the basis of spectral characteristics for the next millennium
+  lead: In Planetary and Space Science, 2010
+  article 'Rigozo_et_al_2010
+    insert Rigozo_et_al_2010_abstract
+
+  name: Robock et al., 2008
+  title: Regional climate responses to geoengineering with tropical and Arctic SO2 injections
+  lead: In Journal of Geophysical Research-Atmospheres, 2008
+  article 'Robock_et_al_2008
+    insert Robock_et_al_2008_abstract
+
+  name: Bathiany et al., 2010
+  title: Combined biogeophysical and biogeochemical effects of large-scale forest cover changes in the MPI earth system model
+  lead: In Biogeosciences, 2010
+  article 'Bathiany_et_al_2010
+    insert Bathiany_et_al_2010_abstract
+
+  name: Haigh, 1996
+  title: The Impact of Solar Variability on Climate
+  lead: In Science, 1996
+  article 'Haigh_1996
+    insert Haigh_1996_abstract
+
+  name: DeLand and Cebula, 2012
+  title: Solar UV variations during the decline of Cycle 23
+  lead: In Journal of Atmospheric and Solar-Terrestrial Physics, 2012
+  article 'DeLand_and_Cebula_2012
+    insert DeLand_and_Cebula_2012_abstract
+
+  name: Manne and Richels, 2001
+  title: An alternative approach to establishing trade-offs among greenhouse gases
+  lead: In Nature, 2001
+  article 'Manne_and_Richels_2001
+    insert Manne_and_Richels_2001_abstract
+
+  name: Philipona et al., 2009
+  title: How declining aerosols and rising greenhouse gases forced rapid warming in Europe since the 1980s
+  lead: In Geophysical Research Letters, 2009
+  article 'Philipona_et_al_2009
+    insert Philipona_et_al_2009_abstract
+
+  name: Meinshausen et al., 2011b
+  title: Emulating atmosphere-ocean and carbon cycle models with a simpler model, MAGICC6-Part 2: Applications
+  lead: In Atmospheric Chemistry and Physics, 2011
+  article 'Meinshausen_et_al_2011b
+    insert Meinshausen_et_al_2011b_abstract
+
+  name: Knutti et al., 2008
+  title: A review of uncertainties in global temperature projections over the twenty-first century
+  lead: In Journal of Climate, 2008
+  article 'Knutti_et_al_2008
+    insert Knutti_et_al_2008_abstract
+
+  name: Harrison and Ambaum, 2010
+  title: Observing Forbush decreases in cloud at Shetland
+  lead: In Journal of Atmospheric and Solar-Terrestrial Physics, 2010
+  article 'Harrison_and_Ambaum_2010
+    insert Harrison_and_Ambaum_2010_abstract
+
+  name: Taylor et al., 2011
+  title: Seasonal Variations of Climate Feedbacks in the NCAR CCSM3
+  lead: In Journal of Climate, 2011
+  article 'Taylor_et_al_2011
+    insert Taylor_et_al_2011_abstract
+
+  name: Fuglestvedt et al., 2003
+  title: Metrics of climate change: Assessing radiative forcing and emission indices
+  lead: In Climatic Change, 2003
+  article 'Fuglestvedt_et_al_2003
+    insert Fuglestvedt_et_al_2003_abstract
+
+  name: Shindell et al., 2013b
+  title: Radiative forcing in the ACCMIP historical and future climate simulations
+  lead: In Atmos. Chem. Phys., 2013
+  article 'Shindell_et_al_2013b
+    insert Shindell_et_al_2013b_abstract
+
+  name: Lockwood et al., 2009
+  title: the rise and fall of open solar flux during the current grand solar maximum
+  lead: In Astrophysical Journal, 2009
+  article 'Lockwood_et_al_2009
+    insert Lockwood_et_al_2009_abstract
+
+  name: Daniel et al., 2010
+  title: Options to accelerate ozone recovery: ozone and climate benefits
+  lead: In Atmospheric Chemistry and Physics, 2010
+  article 'Daniel_et_al_2010
+    insert Daniel_et_al_2010_abstract
+
+  name: Sitch et al., 2007
+  title: Indirect radiative forcing of climate change through ozone effects on the land-carbon sink
+  lead: In Nature, 2007
+  article 'Sitch_et_al_2007
+    insert Sitch_et_al_2007_abstract
+
+  name: Gusev, 2008
+  title: Temporal structure of the global sequence of volcanic eruptions: Order clustering and intermittent discharge rate
+  lead: In Physics of the Earth and Planetary Interiors, 2008
+  article 'Gusev_2008
+    insert Gusev_2008_abstract
+
+  name: Shine et al., 2003
+  title: An alternative to radiative forcing for estimating the relative importance of climate change mechanisms
+  lead: In Geophysical Research Letters, 2003
+  article 'Shine_et_al_2003
+    insert Shine_et_al_2003_abstract
+
+  name: Kratz, 2008
+  title: The sensitivity of radiative transfer calculations to the changes in the HITRAN database from 1982 to 2004
+  lead: In Journal of Quantitative Spectroscopy &amp; Radiative Transfer, 2008
+  article 'Kratz_2008
+    insert Kratz_2008_abstract
+
+  name: Worden et al., 2008
+  title: Satellite measurements of the clear-sky greenhouse effect from tropospheric ozone
+  lead: In Nature Geoscience, 2008
+  article 'Worden_et_al_2008
+    insert Worden_et_al_2008_abstract
+
+  name: Betts et al., 2007
+  title: Biogeophysical effects of land use on climate: Model simulations of radiative forcing and large-scale temperature change
+  lead: In Agricultural and Forest Meteorology, 2007
+  article 'Betts_et_al_2007
+    insert Betts_et_al_2007_abstract
+
+  name: Kravitz et al., 2011
+  title: Simulation and observations of stratospheric aerosols from the 2009 Sarychev volcanic eruption
+  lead: In Journal of Geophysical Research-Atmospheres, 2011
+  article 'Kravitz_et_al_2011
+    insert Kravitz_et_al_2011_abstract
+
+  name: Frame and Gray, 2010
+  title: The 11-Yr Solar Cycle in ERA-40 Data: An Update to 2008
+  lead: In Journal of Climate, 2010
+  article 'Frame_and_Gray_2010
+    insert Frame_and_Gray_2010_abstract
+
+  name: Hammitt et al., 1996
+  title: A welfare-based index for assessing environmental effects of greenhouse-gas emissions
+  lead: In Nature, 1996
+  article 'Hammitt_et_al_1996
+    insert Hammitt_et_al_1996_abstract
+
+  name: Archibald et al., 2011
+  title: Impacts of HO(x) regeneration and recycling in the oxidation of isoprene: Consequences for the composition of past, present and future atmospheres
+  lead: In Geophysical Research Letters, 2011
+  article 'Archibald_et_al_2011
+    insert Archibald_et_al_2011_abstract
+
+  name: Mahowald et al., 2010
+  title: Observed 20th century desert dust variability: impact on climate and biogeochemistry
+  lead: In Atmospheric Chemistry and Physics, 2010
+  article 'Mahowald_et_al_2010
+    insert Mahowald_et_al_2010_abstract
+
+  name: Merikanto et al., 2009
+  title: Impact of nucleation on global CCN
+  lead: In Atmospheric Chemistry and Physics, 2009
+  article 'Merikanto_et_al_2009
+    insert Merikanto_et_al_2009_abstract
+
+  name: Smith et al., 2013
+  title: Sensitivity of multi-gas climate policy to emission metrics
+  lead: In Climatic Change, 2013
+  article 'Smith_et_al_2013
+    insert Smith_et_al_2013_abstract
+
+  name: Marten and Newbold, 2012
+  title: Estimating the social cost of non-CO2 GHG emissions: Methane and nitrous oxide
+  lead: In Energy Policy, 2012
+  article 'Marten_and_Newbold_2012
+    insert Marten_and_Newbold_2012_abstract
+
+  name: Reilly et al., 1999
+  title: Multi-gas assessment of the Kyoto Protocol
+  lead: In Nature, 1999
+  article 'Reilly_et_al_1999
+    insert Reilly_et_al_1999_abstract
+
+  name: WARREN and WISCOMBE, 1980
+  title: A MODEL FOR THE SPECTRAL ALBEDO OF SNOW .2. SNOW CONTAINING ATMOSPHERIC AEROSOLS
+  lead: In Journal of the Atmospheric Sciences, 1980
+  article 'WARREN_and_WISCOMBE_1980
+    insert WARREN_and_WISCOMBE_1980_abstract
+
+  name: Fiore et al., 2009
+  title: Multimodel estimates of intercontinental source-receptor relationships for ozone pollution
+  lead: In Journal of Geophysical Research-Atmospheres, 2009
+  article 'Fiore_et_al_2009
+    insert Fiore_et_al_2009_abstract
+
+  name: Chang et al., 2009
+  title: Climate Responses to Direct Radiative Forcing of Anthropogenic Aerosols, Tropospheric Ozone, and Long-Lived Greenhouse Gases in Eastern China over 1951-2000
+  lead: In Advances in Atmospheric Sciences, 2009
+  article 'Chang_et_al_2009
+    insert Chang_et_al_2009_abstract
+
+  name: Shibata and Kodera, 2005
+  title: Simulation of radiative and dynamical responses of the middle atmosphere to the 11-year solar cycle
+  lead: In Journal of Atmospheric and Solar-Terrestrial Physics, 2005
+  article 'Shibata_and_Kodera_2005
+    insert Shibata_and_Kodera_2005_abstract
+
+  name: Logan, 1999
+  title: An analysis of ozonesonde data for the troposphere: Recommendations for testing 3-D models and development of a gridded climatology for tropospheric ozone
+  lead: In Journal of Geophysical Research-Atmospheres, 1999
+  article 'Logan_1999
+    insert Logan_1999_abstract
+
+  name: Volz and Kley, 1988
+  title: EVALUATION OF THE MONTSOURIS SERIES OF OZONE MEASUREMENTS MADE IN THE 19TH-CENTURY
+  lead: In Nature, 1988
+  article 'Volz_and_Kley_1988
+    insert Volz_and_Kley_1988_abstract
+
+  name: Voulgarakis and Shindell, 2010
+  title: Constraining the Sensitivity of Regional Climate with the Use of Historical Observations
+  lead: In Journal of Climate, 2010
+  article 'Voulgarakis_and_Shindell_2010
+    insert Voulgarakis_and_Shindell_2010_abstract
+
+  name: Fowler et al., 2009
+  title: Atmospheric composition change: Ecosystems-Atmosphere interactions
+  lead: In Atmospheric Environment, 2009
+  article 'Fowler_et_al_2009
+    insert Fowler_et_al_2009_abstract
+
+  name: Ravishankara et al., 2009
+  title: Nitrous Oxide (N2O): The Dominant Ozone-Depleting Substance Emitted in the 21st Century
+  lead: In Science, 2009
+  article 'Ravishankara_et_al_2009
+    insert Ravishankara_et_al_2009_abstract
+
+  name: Allan et al., 2007
+  title: Methane carbon isotope effects caused by atomic chlorine in the marine boundary layer: Global model results compared with Southern Hemisphere measurements
+  lead: In Journal of Geophysical Research-Atmospheres, 2007
+  article 'Allan_et_al_2007
+    insert Allan_et_al_2007_abstract
+
+  name: Eyring et al., 2010
+  title: Multi-model assessment of stratospheric ozone return dates and ozone recovery in CCMVal-2 models
+  lead: In Atmospheric Chemistry and Physics, 2010
+  article 'Eyring_et_al_2010a
+    insert Eyring_et_al_2010a_abstract
+
+  name: MacFarling Meure et al., 2006
+  title: Law Dome CO2, CH4 and N2O ice core records extended to 2000 years BP
+  lead: In Geophysical Research Letters, 2006
+  article 'MacFarling_Meure_et_al_2006
+    insert MacFarling_Meure_et_al_2006_abstract
+
+  name: Penner et al., 2006
+  title: Model intercomparison of indirect aerosol effects
+  lead: In Atmospheric Chemistry and Physics, 2006
+  article 'Penner_et_al_2006
+    insert Penner_et_al_2006_abstract
+
+  name: Horowitz, 2006
+  title: Past, present, and future concentrations of tropospheric ozone and aerosols: Methodology, ozone evaluation, and sensitivity to aerosol wet removal
+  lead: In Journal of Geophysical Research-Atmospheres, 2006
+  article 'Horowitz_2006
+    insert Horowitz_2006_abstract
+
+  name: Grewe, 2007
+  title: Impact of climate variability on tropospheric ozone
+  lead: In Science of the Total Environment, 2007
+  article 'Grewe_2007
+    insert Grewe_2007_abstract
+
+  name: Stenchikov et al., 2002
+  title: Arctic Oscillation response to the 1991 Mount Pinatubo eruption: Effects of volcanic aerosols and ozone depletion
+  lead: In Journal of Geophysical Research-Atmospheres, 2002
+  article 'Stenchikov_et_al_2002
+    insert Stenchikov_et_al_2002_abstract
+
+  name: McComas et al., 2008
+  title: Weaker solar wind from the polar coronal holes and the whole Sun
+  lead: In Geophysical Research Letters, 2008
+  article 'McComas_et_al_2008
+    insert McComas_et_al_2008_abstract
+
+  name: Gerlach, 2011
+  title: Volcanic versus anthropogenic carbon dioxide
+  lead: In Eos, 2011
+  article 'Gerlach_2011
+    insert Gerlach_2011_abstract
+
+  name: Hall and Lockwood, 2004
+  title: The chromospheric activity and variability of cycling and flat activity solar-analog stars
+  lead: In Astrophysical Journal, 2004
+  article 'Hall_and_Lockwood_2004
+    insert Hall_and_Lockwood_2004_abstract
+
+  name: Lee et al., 2010
+  title: Transport impacts on atmosphere and climate: Aviation
+  lead: In Atmospheric Environment, 2010
+  article 'Lee_et_al_2010
+    insert Lee_et_al_2010_abstract
+
+  name: Lawrence and Chase, 2010
+  title: Investigating the climate impacts of global land cover change in the community climate system model
+  lead: In International Journal of Climatology, 2010
+  article 'Lawrence_and_Chase_2010
+    insert Lawrence_and_Chase_2010_abstract
+
+  name: Joshi and Gregory, 2008
+  title: Dependence of the land-sea contrast in surface climate response on the nature of the forcing
+  lead: In Geophysical Research Letters, 2008
+  article 'Joshi_and_Gregory_2008
+    insert Joshi_and_Gregory_2008_abstract
+
+  name: Shine et al., 2007
+  title: Comparing the climate effect of emissions of short- and long-lived climate agents
+  lead: In Philosophical Transactions of the Royal Society a-Mathematical Physical and Engineering Sciences, 2007
+  article 'Shine_et_al_2007
+    insert Shine_et_al_2007_abstract
+
+  name: Myhre et al., 2011
+  title: Radiative forcing due to changes in ozone and methane caused by the transport sector
+  lead: In Atmospheric Environment, 2011
+  article 'Myhre_et_al_2011
+    insert Myhre_et_al_2011_abstract
+
+  name: Ye et al., 2012
+  title: Black carbon in seasonal snow across northern Xinjiang in northwestern China
+  lead: In Environmental Research Letters, 2012
+  article 'Ye_et_al_2012
+    insert Ye_et_al_2012_abstract
+
+  name: Forster et al., 2011
+  title: Evaluation of radiation scheme performance within chemistry climate models
+  lead: In Journal of Geophysical Research-Atmospheres, 2011
+  article 'Forster_et_al_2011a
+    insert Forster_et_al_2011a_abstract
+
+  name: Zhang et al., 2011
+  title: A study of the radiative forcing and global warming potentials of hydrofluorocarbons
+  lead: In Journal of Quantitative Spectroscopy &amp; Radiative Transfer, 2011
+  article 'Zhang_et_al_2011
+    insert Zhang_et_al_2011_abstract
+
+  name: Penner et al., 2011
+  title: Satellite methods underestimate indirect climate forcing by aerosols
+  lead: In Proceedings of the National Academy of Sciences of the United States of America, 2011
+  article 'Penner_et_al_2011
+    insert Penner_et_al_2011_abstract
+
+  name: Neely et al., 2013
+  title: Recent anthropogenic increases in SO2 from Asia have minimal impact on stratospheric aerosol
+  lead: In Geophysical Research Letters, 2013
+  article 'Neely_et_al_2013
+    insert Neely_et_al_2013_abstract
+
+  name: Zanchettin et al., 2012
+  title: Bi-decadal variability excited in the coupled ocean-atmosphere system by strong tropical volcanic eruptions
+  lead: In Climate Dynamics, 2012
+  article 'Zanchettin_et_al_2012
+    insert Zanchettin_et_al_2012_abstract
+
+  name: Schmidt et al., 2011
+  title: Climate forcing reconstructions for use in PMIP simulations of the last millennium (v1.0)
+  lead: In Geoscientific Model Development, 2011
+  article 'Schmidt_et_al_2011
+    insert Schmidt_et_al_2011_abstract
+
+  name: Thompson et al., 2011
+  title: Signatures of the Antarctic ozone hole in Southern Hemisphere surface climate change
+  lead: In Nature Geoscience, 2011
+  article 'Thompson_et_al_2011
+    insert Thompson_et_al_2011_abstract
+
+  name: Forster et al., 2013
+  title: Evaluating adjusted forcing and model spread for historical and future scenarios in the CMIP5 generation of climate models
+  lead: In Journal of Geophysical Research: Atmospheres, 2013
+  article 'Forster_et_al_2013
+    insert Forster_et_al_2013_abstract
+
+  name: Ammann and Naveau, 2010
+  title: A statistical volcanic forcing scenario generator for climate simulations
+  lead: In Journal of Geophysical Research-Atmospheres, 2010
+  article 'Ammann_and_Naveau_2010
+    insert Ammann_and_Naveau_2010_abstract
+
+  name: Naik et al., 2007
+  title: On the sensitivity of radiative forcing from biomass burning aerosols and ozone to emission location
+  lead: In Geophysical Research Letters, 2007
+  article 'Naik_et_al_2007
+    insert Naik_et_al_2007_abstract
+
+  name: Ackerley et al., 2011
+  title: Sensitivity of Twentieth-Century Sahel Rainfall to Sulfate Aerosol and CO2 Forcing
+  lead: In Journal of Climate, 2011
+  article 'Ackerley_et_al_2011
+    insert Ackerley_et_al_2011_abstract
+
+  name: Quaas et al., 2011
+  title: Which of satellite- or model-based estimates is closer to reality for aerosol indirect forcing?
+  lead: In Proceedings of the National Academy of Sciences of the United States of America, 2011
+  article 'Quaas_et_al_2011
+    insert Quaas_et_al_2011_abstract
+
+  name: Zarzycki and Bond, 2010
+  title: How much can the vertical distribution of black carbon affect its global direct radiative forcing?
+  lead: In Geophysical Research Letters, 2010
+  article 'Zarzycki_and_Bond_2010
+    insert Zarzycki_and_Bond_2010_abstract
+
+  name: Bonfils and Lobell, 2007
+  title: Empirical evidence for a recent slowdown in irrigation-induced cooling
+  lead: In Proceedings of the National Academy of Sciences of the United States of America, 2007
+  article 'Bonfils_and_Lobell_2007
+    insert Bonfils_and_Lobell_2007_abstract
+
+  name: Williams et al., 2001
+  title: The response of the climate system to the indirect effects of anthropogenic sulfate aerosol
+  lead: In Climate Dynamics, 2001
+  article 'Williams_et_al_2001
+    insert Williams_et_al_2001_abstract
+
+  name: Seinfeld and Pandis, 2006
+  title: Atmospheric chemistry and physics: from air pollution to climate change
+  lead: By Wiley, 2006
+  book 'Seinfeld_and_Pandis_2006
+    insert Seinfeld_and_Pandis_2006_abstract
+
+  name: Collins et al., 2013
+  title: Global and regional temperature-change potentials for near-term climate forcers
+  lead: In Atmos. Chem. Phys., 2013
+  article 'Collins_et_al_2013
+    insert Collins_et_al_2013_abstract
+
+  name: De Cara et al., 2008
+  title: The Global Warming Potential Paradox: Implications for the Design of Climate Policy
+  lead: In Design of Climate Policy, 2008
+  booksec 'De_Cara_et_al_2008
+    insert De_Cara_et_al_2008_abstract
+
+  name: Shindell et al., 2012
+  title: Simultaneously Mitigating Near-Term Climate Change and Improving Human Health and Food Security
+  lead: In Science, 2012
+  article 'Shindell_et_al_2012a
+    insert Shindell_et_al_2012a_abstract
+
+  name: Andrews et al., 2011
+  title: A regional and global analysis of carbon dioxide physiological forcing and its impact on climate
+  lead: In Climate Dynamics, 2011
+  article 'Andrews_et_al_2011
+    insert Andrews_et_al_2011_abstract
+
+  name: Lauer et al., 2007
+  title: Global model simulations of the impact of ocean-going ships on aerosols, clouds, and the radiation budget
+  lead: In Atmospheric Chemistry and Physics, 2007
+  article 'Lauer_et_al_2007
+    insert Lauer_et_al_2007_abstract
+
+  name: Shindell, 2012
+  title: Evaluation of the absolute regional temperature potential
+  lead: In Atmospheric Chemistry and Physics, 2012
+  article 'Shindell_2012
+    insert Shindell_2012_abstract
+
+  name: Carslaw et al., 2010
+  title: A review of natural aerosol interactions and feedbacks within the Earth system
+  lead: In Atmospheric Chemistry and Physics, 2010
+  article 'Carslaw_et_al_2010
+    insert Carslaw_et_al_2010_abstract
+
+  name: Rotstayn and Lohmann, 2002
+  title: Tropical rainfall trends and the indirect aerosol effect
+  lead: In Journal of Climate, 2002
+  article 'Rotstayn_and_Lohmann_2002
+    insert Rotstayn_and_Lohmann_2002_abstract
+
+  name: Miller et al., 2004
+  title: Surface radiative forcing by soil dust aerosols and the hydrologic cycle
+  lead: In Journal of Geophysical Research-Atmospheres, 2004
+  article 'Miller_et_al_2004
+    insert Miller_et_al_2004_abstract
+
+  name: Plattner et al., 2009
+  title: IPCC Expert Meeting on the Science of Alternative Metrics: Meeting Report.
+  lead: By IPCC Working Group I, Technical Support Unit, 2009
+  report 'Plattner_et_al_2009
+    insert Plattner_et_al_2009_abstract
+
+  name: Ming et al., 2007
+  title: Modeling the interactions between aerosols and liquid water clouds with a self-consistent cloud scheme in a general circulation model
+  lead: In Journal of the Atmospheric Sciences, 2007
+  article 'Ming_et_al_2007
+    insert Ming_et_al_2007_abstract
+
+  name: Goosse et al., 2006
+  title: The origin of the European "Medieval Warm Period"
+  lead: In Climate of the Past, 2006
+  article 'Goosse_et_al_2006
+    insert Goosse_et_al_2006_abstract
+
+  name: Quaas et al., 2009
+  title: Aerosol indirect effects - general circulation model intercomparison and evaluation with satellite data
+  lead: In Atmospheric Chemistry and Physics, 2009
+  article 'Quaas_et_al_2009
+    insert Quaas_et_al_2009_abstract
+
+  name: Miller et al., 2012
+  title: Abrupt onset of the Little Ice Age triggered by volcanism and sustained by sea-ice/ocean feedbacks
+  lead: In Geophysical Research Letters, 2012
+  article 'Miller_et_al_2012
+    insert Miller_et_al_2012_abstract
+
+  name: Kawase et al., 2010
+  title: Physical mechanism of long-term drying trend over tropical North Africa
+  lead: In Geophysical Research Letters, 2010
+  article 'Kawase_et_al_2010
+    insert Kawase_et_al_2010_abstract
+
+  name: Mulitza et al., 2010
+  title: Increase in African dust flux at the onset of commercial agriculture in the Sahel region
+  lead: In Nature, 2010
+  article 'Mulitza_et_al_2010
+    insert Mulitza_et_al_2010_abstract
+
+  name: Koffi et al., 2012
+  title: Application of the CALIOP layer product to evaluate the vertical distribution of aerosols estimated by global models: AeroCom phase I results
+  lead: In Journal of Geophysical Research-Atmospheres, 2012
+  article 'Koffi_et_al_2012
+    insert Koffi_et_al_2012_abstract
+
+  name: Robock, 2000
+  title: Volcanic eruptions and climate
+  lead: In Reviews of Geophysics, 2000
+  article 'Robock_2000
+    insert Robock_2000_abstract
+
+  name: Skeie et al., 2009
+  title: Global temperature change from the transport sectors: Historical development and future scenarios
+  lead: In Atmospheric Environment, 2009
+  article 'Skeie_et_al_2009
+    insert Skeie_et_al_2009_abstract
+
+  name: T., 2013
+  title: Nitrogen trifluoride global emissions estimated from updated atmospheric measurements
+  lead: In Proc. Natl. Acad. Sci. U.S.A, 2013
+  article 'T_2013
+    insert T_2013_abstract
+
+  name: Rotstayn and Penner, 2001
+  title: Indirect aerosol forcing, quasi forcing, and climate response
+  lead: In Journal of Climate, 2001
+  article 'Rotstayn_and_Penner_2001
+    insert Rotstayn_and_Penner_2001_abstract
+
+  name: Dewitte et al., 2004
+  title: Measurement and uncertainty of the long-term total solar irradiance trend
+  lead: In Solar Physics, 2004
+  article 'Dewitte_et_al_2004
+    insert Dewitte_et_al_2004_abstract
+
+  name: Stothers, 2007
+  title: Three centuries of observation of stratospheric transparency
+  lead: In Climatic Change, 2007
+  article 'Stothers_2007
+    insert Stothers_2007_abstract
+
+  name: Joos et al., 1996
+  title: An efficient and accurate representation of complex oceanic and biospheric models of anthropogenic carbon uptake
+  lead: In Tellus Series B-Chemical and Physical Meteorology, 1996
+  article 'Joos_et_al_1996
+    insert Joos_et_al_1996_abstract
+
+  name: Smith and Wigley, 2000
+  title: Global warming potentials: 1. Climatic implications of emissions reductions
+  lead: In Climatic Change, 2000
+  article 'Smith_and_Wigley_2000
+    insert Smith_and_Wigley_2000_abstract
+
+  name: Penn and Livingston, 2006
+  title: Temporal changes in sunspot umbral magnetic fields and temperatures
+  lead: In Astrophysical Journal, 2006
+  article 'Penn_and_Livingston_2006
+    insert Penn_and_Livingston_2006_abstract
+
+  name: Javadi et al., 2007
+  title: Atmospheric chemistry of 2-ethoxy-3,3,4,4,5-pentafluorotetra-hydro-2,5-bis[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl]-furan: Kinetics, mechanisms, and products of CL atom and OH radical initiated oxidation
+  lead: In Environmental Science &amp; Technology, 2007
+  article 'Javadi_et_al_2007
+    insert Javadi_et_al_2007_abstract
+
+  name: Conley et al., 2013
+  title: PORT, a CESM tool for the diagnosis of radiative forcing
+  lead: In Geosci. Model Dev., 2013
+  article 'Conley_et_al_2013
+    insert Conley_et_al_2013_abstract
+
+  name: Van Vuuren et al., 2008
+  title: Temperature increase of 21st century mitigation scenarios
+  lead: In Proceedings of the National Academy of Sciences of the United States of America, 2008
+  article 'Van_Vuuren_et_al_2008
+    insert Van_Vuuren_et_al_2008_abstract
+
+  name: Prather, 1998
+  title: Time scales in atmospheric chemistry: Coupled perturbations to N2O, NOy, and O3
+  lead: In Science, 1998
+  article 'Prather_1998
+    insert Prather_1998_abstract
+
+  name: Reisinger et al., 2013
+  title: Implications of alternative metrics for global mitigation costs and greenhouse gas emissions from agriculture
+  lead: In Climatic Change, 2013
+  article 'Reisinger_et_al_2013
+    insert Reisinger_et_al_2013_abstract
+
+  name: Voulgarakis et al., 2013
+  title: Analysis of present day and future OH and methane lifetime in the ACCMIP simulations
+  lead: In Atmos. Chem. Phys., 2013
+  article 'Voulgarakis_et_al_2013
+    insert Voulgarakis_et_al_2013_abstract
+
+  name: Andrews et al., 2012
+  title: Forcing, feedbacks and climate sensitivity in CMIP5 coupled atmosphere-ocean climate models
+  lead: In Geophysical Research Letters, 2012
+  article 'Andrews_et_al_2012a
+    insert Andrews_et_al_2012a_abstract
+
+  name: Mirme et al., 2010
+  title: Atmospheric sub-3 nm particles at high altitudes
+  lead: In Atm. Chem. Phys., 2010
+  article 'Mirme_et_al_2010
+    insert Mirme_et_al_2010_abstract
+
+  name: Cherubini et al., 2012
+  title: Application of probablity distributions to the modelleing of biogenic CO2 fluxes in life cycle assessment
+  lead: In Global Change Biology, 2012
+  article 'Cherubini_et_al_2012
+    insert Cherubini_et_al_2012_abstract
+
+  name: Young et al., 2013
+  title: Pre-industrial to end 21st century projections of tropospheric ozone from the Atmospheric Chemistry and Climate Model Intercomparison Project (ACCMIP)
+  lead: In Atmospheric Chemistry and Physics, 2013
+  article 'Young_et_al_2013
+    insert Young_et_al_2013_abstract
+
+  name: Solomon et al., 2011
+  title: The Persistently Variable "Background" Stratospheric Aerosol Layer and Global Climate Change
+  lead: In Science, 2011
+  article 'Solomon_et_al_2011
+    insert Solomon_et_al_2011_abstract
+
+  name: Dentener et al., 2006
+  title: The global atmospheric environment for the next generation
+  lead: In Environmental Science &amp; Technology, 2006
+  article 'Dentener_et_al_2006
+    insert Dentener_et_al_2006_abstract
+
+  name: Paynter and Ramaswamy, 2011
+  title: An assessment of recent water vapor continuum measurements upon longwave and shortwave radiative transfer
+  lead: In Journal of Geophysical Research-Atmospheres, 2011
+  article 'Paynter_and_Ramaswamy_2011
+    insert Paynter_and_Ramaswamy_2011_abstract
+
+  name: Sato et al., 1993
+  title: STRATOSPHERIC AEROSOL OPTICAL DEPTHS, 1850-1990
+  lead: In Journal of Geophysical Research-Atmospheres, 1993
+  article 'Sato_et_al_1993
+    insert Sato_et_al_1993_abstract
+
+  name: Bourassa et al., 2012
+  title: Large volcanic aerosol load in the stratosphere linked to Asian monsoon transport
+  lead: In Science, 2012
+  article 'Bourassa_et_al_2012
+    insert Bourassa_et_al_2012_abstract
+
+  name: Mann et al., 2005
+  title: Volcanic and solar forcing of the tropical Pacific over the past 1000 years
+  lead: In Journal of Climate, 2005
+  article 'Mann_et_al_2005
+    insert Mann_et_al_2005_abstract
+
+  name: Delaygue and Bard, 2011
+  title: An Antarctic view of Beryllium-10 and solar activity for the past millennium
+  lead: In Climate Dynamics, 2011
+  article 'Delaygue_and_Bard_2011
+    insert Delaygue_and_Bard_2011_abstract
+
+  name: Abreu et al., 2008
+  title: For how long will the current grand maximum of solar activity persist?
+  lead: In Geophysical Research Letters, 2008
+  article 'Abreu_et_al_2008
+    insert Abreu_et_al_2008_abstract
+
+  name: Hurst et al., 2011
+  title: Stratospheric water vapor trends over Boulder, Colorado: Analysis of the 30 year Boulder record
+  lead: In Journal of Geophysical Research-Atmospheres, 2011
+  article 'Hurst_et_al_2011
+    insert Hurst_et_al_2011_abstract
+
+  name: Reilly and Richards, 1993
+  title: CLIMATE-CHANGE DAMAGE AND THE TRACE-GAS-INDEX ISSUE
+  lead: In Environmental and Resource Economics, 1993
+  article 'Reilly_and_Richards_1993
+    insert Reilly_and_Richards_1993_abstract
+
+  name: Boucher, 2012
+  title: Comparison of physically- and economically-based CO2-equivalences for methane
+  lead: In Earth Syst. Dynam., 2012
+  article 'Boucher_2012
+    insert Boucher_2012_abstract
+
+  name: Lund et al., 2012
+  title: How much information is lost by using global-mean climate metrics? an example using the transport sector
+  lead: In Climatic Change, 2012
+  article 'Lund_et_al_2012
+    insert Lund_et_al_2012_abstract
+
+  name: DeAngelis et al., 2010
+  title: Evidence of enhanced precipitation due to irrigation over the Great Plains of the United States
+  lead: In Journal of Geophysical Research-Atmospheres, 2010
+  article 'DeAngelis_et_al_2010
+    insert DeAngelis_et_al_2010_abstract
+
+  name: Koch et al., 2011
+  title: Coupled Aerosol-Chemistry-Climate Twentieth-Century Transient Model Investigation: Trends in Short-Lived Species and Climate Responses
+  lead: In Journal of Climate, 2011
+  article 'Koch_et_al_2011
+    insert Koch_et_al_2011_abstract
+
+  name: Pongratz et al., 2008
+  title: A reconstruction of global agricultural areas and land cover for the last millennium
+  lead: In Global Biogeochemical Cycles, 2008
+  article 'Pongratz_et_al_2008
+    insert Pongratz_et_al_2008_abstract
+
+  name: Robock et al., 2009
+  title: Did the Toba volcanic eruption of similar to 74 ka BP produce widespread glaciation?
+  lead: In Journal of Geophysical Research-Atmospheres, 2009
+  article 'Robock_et_al_2009
+    insert Robock_et_al_2009_abstract
+
+  name: Chen et al., 2010
+  title: Global climate response to anthropogenic aerosol indirect effects: Present day and year 2100
+  lead: In Journal of Geophysical Research-Atmospheres, 2010
+  article 'Chen_et_al_2010
+    insert Chen_et_al_2010_abstract
+
+  name: Brovkin et al., 2010
+  title: Sensitivity of a coupled climate-carbon cycle model to large volcanic eruptions during the last millennium
+  lead: In Tellus Series B-Chemical and Physical Meteorology, 2010
+  article 'Brovkin_et_al_2010
+    insert Brovkin_et_al_2010_abstract
+
+  name: Hegg et al., 2009
+  title: Source Attribution of Black Carbon in Arctic Snow
+  lead: In Environmental Science &amp; Technology, 2009
+  article 'Hegg_et_al_2009
+    insert Hegg_et_al_2009_abstract
+
+  name: Reisinger et al., 2010
+  title: Uncertainties of global warming metrics: CO2 and CH4
+  lead: In Geophysical Research Letters, 2010
+  article 'Reisinger_et_al_2010
+    insert Reisinger_et_al_2010_abstract
+
+  name: Chung and Ramanathan, 2006
+  title: Weakening of North Indian SST gradients and the monsoon rainfall in India and the Sahel
+  lead: In Journal of Climate, 2006
+  article 'Chung_and_Ramanathan_2006
+    insert Chung_and_Ramanathan_2006_abstract
+
+  name: Thonicke et al., 2010
+  title: The influence of vegetation, fire spread and fire behaviour on biomass burning and trace gas emissions: results from a process-based model
+  lead: In Biogeosciences, 2010
+  article 'Thonicke_et_al_2010
+    insert Thonicke_et_al_2010_abstract
+
+  name: Pinto et al., 1989
+  title: Self-limiting physical and chemical effects in volcanic-eruption clouds
+  lead: In Journal of Geophysical Research-Atmospheres, 1989
+  article 'Pinto_et_al_1989
+    insert Pinto_et_al_1989_abstract
+
+  name: Timmreck, 2012
+  title: Modeling the climatic effects of large explosive volcanic eruptions
+  lead: In Wiley Interdisciplinary Reviews-Climate Change, 2012
+  article 'Timmreck_2012
+    insert Timmreck_2012_abstract
+
+  name: Meinshausen et al., 2011
+  title: The RCP greenhouse gas concentrations and their extensions from 1765 to 2300
+  lead: In Climatic Change, 2011
+  article 'Meinshausen_et_al_2011a
+    insert Meinshausen_et_al_2011a_abstract
+
+  name: Logan et al., 2012
+  title: Changes in ozone over Europe: Analysis of ozone measurements from sondes, regular aircraft (MOZAIC) and alpine surface sites
+  lead: In Journal of Geophysical Research-Atmospheres, 2012
+  article 'Logan_et_al_2012
+    insert Logan_et_al_2012_abstract
+
+  name: Shindell et al., 2013
+  title: Attribution of historical ozone forcing to anthropogenic emissions
+  lead: In Nature Clim. Change, 2013
+  article 'Shindell_et_al_2013a
+    insert Shindell_et_al_2013a_abstract
+
+  name: Long et al., 2009
+  title: Significant decadal brightening of downwelling shortwave in the continental United States
+  lead: In Journal of Geophysical Research-Atmospheres, 2009
+  article 'Long_et_al_2009
+    insert Long_et_al_2009_abstract
+
+  name: Hegglin and Shepherd, 2009
+  title: Large climate-induced changes in ultraviolet index and stratosphere-to-troposphere ozone flux
+  lead: In Nature Geoscience, 2009
+  article 'Hegglin_and_Shepherd_2009
+    insert Hegglin_and_Shepherd_2009_abstract
+
+  name: Taraborrelli et al., 2012
+  title: Hydroxyl radical buffered by isoprene oxidation over tropical forests
+  lead: In Nature Geoscience, 2012
+  article 'Taraborrelli_et_al_2012
+    insert Taraborrelli_et_al_2012_abstract
+
+  name: Lean, 2000
+  title: Evolution of the sun's spectral irradiance since the Maunder Minimum
+  lead: In Geophysical Research Letters, 2000
+  article 'Lean_2000
+    insert Lean_2000_abstract
+
+  name: Vernier et al., 2013
+  title: Comment on "Large Volcanic Aerosol Load in the Stratosphere Linked to Asian Monsoon Transport"
+  lead: In Science, 2013
+  article 'Vernier_et_al_2013
+    insert Vernier_et_al_2013_abstract
+
+  name: Ginoux et al., 2010
+  title: Identification of anthropogenic and natural dust sources using Moderate Resolution Imaging Spectroradiometer (MODIS) Deep Blue level 2 data
+  lead: In Journal of Geophysical Research-Atmospheres, 2010
+  article 'Ginoux_et_al_2010
+    insert Ginoux_et_al_2010_abstract
+
+  name: Skeie et al., 2011
+  title: Black carbon in the atmosphere and snow, from pre-industrial times until present
+  lead: In Atmospheric Chemistry and Physics, 2011
+  article 'Skeie_et_al_2011a
+    insert Skeie_et_al_2011a_abstract
+
+  name: Smith et al., 2012
+  title: Equivalence of greenhouse-gas emissions for peak temperature limits
+  lead: In Nature Clim. Change, 2012
+  article 'Smith_et_al_2012
+    insert Smith_et_al_2012_abstract
+
+  name: Lamarque et al., 2013
+  title: The Atmospheric Chemistry and Climate Model Intercomparison Project (ACCMIP): overview and description of models, simulations and climate diagnostics
+  lead: In Geosci. Model Dev., 2013
+  article 'Lamarque_et_al_2013
+    insert Lamarque_et_al_2013_abstract
+
+  name: Tanaka et al., 2013
+  title: Emission metrics under the 2°C climate stabilization
+  lead: In Climatic Change Letters, 2013
+  article 'Tanaka_et_al_2013
+    insert Tanaka_et_al_2013_abstract
+
+  name: Ziemke et al., 2011
+  title: A global climatology of tropospheric and stratospheric ozone derived from Aura OMI and MLS measurements
+  lead: In Atmospheric Chemistry and Physics, 2011
+  article 'Ziemke_et_al_2011
+    insert Ziemke_et_al_2011_abstract
+
+  name: Fuglestvedt et al., 2010
+  title: Transport impacts on atmosphere and climate: Metrics
+  lead: In Atmospheric Environment, 2010
+  article 'Fuglestvedt_et_al_2010
+    insert Fuglestvedt_et_al_2010_abstract
+
+  name: Textor et al., 2006
+  title: Analysis and quantification of the diversities of aerosol life cycles within AeroCom
+  lead: In Atmospheric Chemistry and Physics, 2006
+  article 'Textor_et_al_2006
+    insert Textor_et_al_2006_abstract
+
+  name: O&#39;Neill, 2000
+  title: The jury is still out on global warming potentials
+  lead: In Climatic Change, 2000
+  article 'ONeill_2000
+    insert ONeill_2000_abstract
+
+  name: Fortuin and Kelder, 1998
+  title: An ozone climatology based on ozonesonde and satellite measurements
+  lead: In Journal of Geophysical Research-Atmospheres, 1998
+  article 'Fortuin_and_Kelder_1998
+    insert Fortuin_and_Kelder_1998_abstract
+
+  name: Logan et al., 1981
+  title: TROPOSPHERIC CHEMISTRY - A GLOBAL PERSPECTIVE
+  lead: In Journal of Geophysical Research-Oceans and Atmospheres, 1981
+  article 'Logan_et_al_1981
+    insert Logan_et_al_1981_abstract
+
+  name: Hohne et al., 2011
+  title: Contributions of individual countries' emissions to climate change and their uncertainty
+  lead: In Climatic Change, 2011
+  article 'Hohne_et_al_2011
+    insert Hohne_et_al_2011_abstract
+
+  name: Tol et al., 2012
+  title: A unifying framework for metrics for aggregating the climate effect of different emissions
+  lead: In Environmental Research Letters, 2012
+  article 'Tol_et_al_2012
+    insert Tol_et_al_2012_abstract
+
+  name: Wenzler et al., 2009
+  title: Reconstructed and measured total solar irradiance: Is there a secular trend between 1978 and 2003?
+  lead: In Geophysical Research Letters, 2009
+  article 'Wenzler_et_al_2009
+    insert Wenzler_et_al_2009_abstract
+
+  name: de Noblet-Ducoudre et al., 2012
+  title: Determining Robust Impacts of Land-Use-Induced Land Cover Changes on Surface Climate over North America and Eurasia: Results from the First Set of LUCID Experiments
+  lead: In Journal of Climate, 2012
+  article 'de_NobletDucoudre_et_al_2012
+    insert de_NobletDucoudre_et_al_2012_abstract
+
+  name: Sarofim, 2012
+  title: The GTP of Methane: Modeling Analysis of Temperature Impacts of Methane and Carbon Dioxide Reductions
+  lead: In Environmental Modeling &amp; Assessment, 2012
+  article 'Sarofim_2012
+    insert Sarofim_2012_abstract
+
+  name: Muhle et al., 2009
+  title: Sulfuryl fluoride in the global atmosphere
+  lead: In Journal of Geophysical Research-Atmospheres, 2009
+  article 'Muhle_et_al_2009
+    insert Muhle_et_al_2009_abstract
+
+  name: Jacobson, 2012
+  title: Investigating cloud absorption effects: Global absorption properties of black carbon, tar balls, and soil dust in clouds and aerosols
+  lead: In Journal of Geophysical Research-Atmospheres, 2012
+  article 'Jacobson_2012
+    insert Jacobson_2012_abstract
+
+  name: Lockwood and Frohlich, 2008
+  title: Recent oppositely directed trends in solar climate forcings and the global mean surface air temperature. II. Different reconstructions of the total solar irradiance variation and dependence on response time scale
+  lead: In Proceedings of the Royal Society a-Mathematical Physical and Engineering Sciences, 2008
+  article 'Lockwood_and_Frohlich_2008
+    insert Lockwood_and_Frohlich_2008_abstract
+
+  name: Eliseev and Mokhov, 2011
+  title: Effect of including land-use driven radiative forcing of the surface albedo of land on climate response in the 16th-21st centuries
+  lead: In Izvestiya Atmospheric and Oceanic Physics, 2011
+  article 'Eliseev_and_Mokhov_2011
+    insert Eliseev_and_Mokhov_2011_abstract
+
+  name: Koch et al., 2009
+  title: Distinguishing Aerosol Impacts on Climate over the Past Century
+  lead: In Journal of Climate, 2009
+  article 'Koch_et_al_2009a
+    insert Koch_et_al_2009a_abstract
+
+  name: Ermolli et al., 2013
+  title: Recent variability of the solar spectral irradiance and its impact on climate modelling
+  lead: In Atmospheric Chemistry and Physics, 2013
+  article 'Ermolli_et_al_2013
+    insert Ermolli_et_al_2013_abstract
+
+  name: Lelieveld et al., 2008
+  title: Atmospheric oxidation capacity sustained by a tropical forest
+  lead: In Nature, 2008
+  article 'Lelieveld_et_al_2008
+    insert Lelieveld_et_al_2008_abstract
+
+  name: Koehler et al., 2013
+  title: Latitudinal variation of the effect of aviation NOx emissions on atmospheric ozone and methane and related climate metrics
+  lead: In Atmospheric Environment, 2013
+  article 'Koehler_et_al_2013
+    insert Koehler_et_al_2013_abstract
+
+  name: Fioletov et al., 2002
+  title: Global and zonal total ozone variations estimated from ground-based and satellite measurements: 1964-2000
+  lead: In Journal of Geophysical Research-Atmospheres, 2002
+  article 'Fioletov_et_al_2002
+    insert Fioletov_et_al_2002_abstract
+
+  name: Mickley et al., 2012
+  title: Regional warming from aerosol removal over the United States: Results from a transient 2010-2050 climate simulation
+  lead: In Atmospheric Environment, 2012
+  article 'Mickley_et_al_2012
+    insert Mickley_et_al_2012_abstract
+
+  name: Kravitz et al., 2010
+  title: Negligible climatic effects from the 2008 Okmok and Kasatochi volcanic eruptions
+  lead: In Journal of Geophysical Research-Atmospheres, 2010
+  article 'Kravitz_et_al_2010
+    insert Kravitz_et_al_2010_abstract
+
+  name: Morrill et al., 2011
+  title: The Solar Ultraviolet Spectrum Estimated Using the Mg II Index and Ca II K Disk Activity
+  lead: In Solar Physics, 2011
+  article 'Morrill_et_al_2011
+    insert Morrill_et_al_2011_abstract
+
+  name: Zhong et al., 2011
+  title: Centennial-scale climate change from decadally-paced explosive volcanism: a coupled sea ice-ocean mechanism
+  lead: In Climate Dynamics, 2011
+  article 'Zhong_et_al_2011
+    insert Zhong_et_al_2011_abstract
+
+  name: Ramanathan et al., 2005
+  title: Atmospheric brown clouds: Impacts on South Asian climate and hydrological cycle
+  lead: In Proceedings of the National Academy of Sciences of the United States of America, 2005
+  article 'Ramanathan_et_al_2005
+    insert Ramanathan_et_al_2005_abstract
+
+  name: van Vuuren et al., 2011
+  title: A special issue on the RCPs
+  lead: In Climatic Change, 2011
+  article 'van_Vuuren_et_al_2011
+    insert van_Vuuren_et_al_2011_abstract
+
+  name: Rogelj et al., 2011
+  title: Emission pathways consistent with a 2 degrees C global temperature limit
+  lead: In Nature Climate Change, 2011
+  article 'Rogelj_et_al_2011
+    insert Rogelj_et_al_2011_abstract
+
+  name: Kleinman et al., 2001
+  title: Sensitivity of ozone production rate to ozone precursors
+  lead: In Geophysical Research Letters, 2001
+  article 'Kleinman_et_al_2001
+    insert Kleinman_et_al_2001_abstract
+
+  name: Isaksen et al., 2009
+  title: Atmospheric composition change: Climate-Chemistry interactions
+  lead: In Atmospheric Environment, 2009
+  article 'Isaksen_et_al_2009
+    insert Isaksen_et_al_2009_abstract
+
+  name: Bourassa et al., 2013
+  title: Response to Comments on "Large Volcanic Aerosol Load in the Stratosphere Linked to Asian Monsoon Transport"
+  lead: In Science, 2013
+  article 'Bourassa_et_al_2013
+    insert Bourassa_et_al_2013_abstract
+
+  name: Zhang et al., 2008
+  title: The effects of line-wing cutoff in LBL integration on radiation calculations
+  lead: In Acta Meteorologica Sinica, 2008
+  article 'Zhang_et_al_2008
+    insert Zhang_et_al_2008_abstract
+
+  name: Shine et al., 2005
+  title: Scientific issues in the design of metrics for inclusion of oxides of nitrogen in global climate agreements
+  lead: In Proceedings of the National Academy of Sciences of the United States of America, 2005
+  article 'Shine_et_al_2005a
+    insert Shine_et_al_2005a_abstract
+
+  name: DERWENT et al., 2001
+  title: Transient behaviour of tropospheric ozone precursors in a global 3-D CTM and their indirect greenhouse effects
+  lead: In CLIMATIC CHANGE, 2001
+  article 'DERWENT_et_al_2001
+    insert DERWENT_et_al_2001_abstract
+
+  name: Bond et al., 2007
+  title: Historical emissions of black and organic carbon aerosol from energy-related combustion, 1850-2000
+  lead: In Global Biogeochemical Cycles, 2007
+  article 'Bond_et_al_2007
+    insert Bond_et_al_2007_abstract
+
+  name: Campra et al., 2008
+  title: Surface temperature cooling trends and negative radiative forcing due to land use change toward greenhouse farming in southeastern Spain
+  lead: In Journal of Geophysical Research-Atmospheres, 2008
+  article 'Campra_et_al_2008
+    insert Campra_et_al_2008_abstract
+
+  name: Russell et al., 2010
+  title: HOW UNPRECEDENTED A SOLAR MINIMUM?
+  lead: In Reviews of Geophysics, 2010
+  article 'Russell_et_al_2010
+    insert Russell_et_al_2010_abstract
+
+  name: Liao et al., 2006
+  title: Role of climate change in global predictions of future tropospheric ozone and aerosols
+  lead: In Journal of Geophysical Research-Atmospheres, 2006
+  article 'Liao_et_al_2006
+    insert Liao_et_al_2006_abstract
+
+  name: Fromm et al., 2013
+  title: Comment on "Large Volcanic Aerosol Load in the Stratosphere Linked to Asian Monsoon Transport"
+  lead: In Science, 2013
+  article 'Fromm_et_al_2013
+    insert Fromm_et_al_2013_abstract
+
+  name: Lockwood, 2010
+  title: Solar change and climate: an update in the light of the current exceptional solar minimum
+  lead: In Proceedings of the Royal Society a-Mathematical Physical and Engineering Sciences, 2010
+  article 'Lockwood_2010
+    insert Lockwood_2010_abstract
+
+  name: Plattner et al., 2008
+  title: Long-term climate commitments projected with climate-carbon cycle models
+  lead: In Journal of Climate, 2008
+  article 'Plattner_et_al_2008
+    insert Plattner_et_al_2008_abstract
+
+  name: Baasandorj et al., 2010
+  title: Rate Coefficients for the Gas-Phase Reaction of the Hydroxyl Radical with CH2 = CHF and CH2 = CF2
+  lead: In Journal of Physical Chemistry a, 2010
+  article 'Baasandorj_et_al_2010
+    insert Baasandorj_et_al_2010_abstract
+
+  name: Collins et al., 2006
+  title: Radiative forcing by well-mixed greenhouse gases: Estimates from climate models in the Intergovernmental Panel on Climate Change (IPCC) Fourth Assessment Report (AR4)
+  lead: In Journal of Geophysical Research-Atmospheres, 2006
+  article 'Collins_et_al_2006
+    insert Collins_et_al_2006_abstract
+
+  name: Peters et al., 2012
+  title: Aerosol indirect effects from shipping emissions: sensitivity studies with the global aerosol-climate model ECHAM-HAM
+  lead: In Atmospheric Chemistry and Physics, 2012
+  article 'Peters_et_al_2012
+    insert Peters_et_al_2012_abstract
+
+  name: Rajakumar et al., 2006
+  title: Rate coefficients for the reactions of OH with CF3CH2CH3 (HFC-263fb), CF3CHFCH2F (HFC-245eb), and CHF2CHFCHF2 (HFC-245ea) between 238 and 375 K
+  lead: In Journal of Physical Chemistry a, 2006
+  article 'Rajakumar_et_al_2006
+    insert Rajakumar_et_al_2006_abstract
+
+  name: Lee et al., 2013
+  title: Evaluation of preindustrial to present-day black carbon and its albedo forcing from Atmospheric Chemistry and Climate Model Intercomparison Project (ACCMIP)
+  lead: In Atmos. Chem. Phys., 2013
+  article 'Lee_et_al_2013
+    insert Lee_et_al_2013_abstract
+
+  name: Schmidt et al., 2012
+  title: Importance of tropospheric volcanic aerosol for indirect radiative forcing of climate
+  lead: In Atmos. Chem. Phys., 2012
+  article 'Schmidt_et_al_2012
+    insert Schmidt_et_al_2012_abstract
+
+  name: Bauer et al., 2007
+  title: Nitrate aerosols today and in 2030: a global simulation including aerosols and tropospheric ozone
+  lead: In Atmospheric Chemistry and Physics, 2007
+  article 'Bauer_et_al_2007
+    insert Bauer_et_al_2007_abstract
+
+  name: Harder et al., 2009
+  title: Trends in solar spectral irradiance variability in the visible and infrared
+  lead: In Geophysical Research Letters, 2009
+  article 'Harder_et_al_2009
+    insert Harder_et_al_2009_abstract
+
+  name: Fomin and Falaleeva, 2009
+  title: Recent progress in spectroscopy and its effect on line-by-line calculations for the validation of radiation codes for climate models
+  lead: In Atmos. Oceanic Opt., 2009
+  article 'Fomin_and_Falaleeva_2009
+    insert Fomin_and_Falaleeva_2009_abstract
+
+  name: Leibensperger et al., 2008
+  title: Sensitivity of US air quality to mid-latitude cyclone frequency and implications of 1980-2006 climate change
+  lead: In Atmospheric Chemistry and Physics, 2008
+  article 'Leibensperger_et_al_2008
+    insert Leibensperger_et_al_2008_abstract
+
+  name: Peters et al., 2011
+  title: The integrated global temperature change potential (iGTP) and relationships between emission metrics
+  lead: In Environmental Research Letters, 2011
+  article 'Peters_et_al_2011a
+    insert Peters_et_al_2011a_abstract
+
+  name: Koch and Del Genio, 2010
+  title: Black carbon semi-direct effects on cloud cover: review and synthesis
+  lead: In Atmospheric Chemistry and Physics, 2010
+  article 'Koch_and_Del_Genio_2010
+    insert Koch_and_Del_Genio_2010_abstract
+
+  name: Legras et al., 2010
+  title: A critical look at solar-climate relationships from long temperature series
+  lead: In Climate of the Past, 2010
+  article 'Legras_et_al_2010
+    insert Legras_et_al_2010_abstract
+
+  name: Shindell et al., 2011
+  title: Climate, health, agricultural and economic impacts of tighter vehicle-emission standards
+  lead: In Nature Climate Change, 2011
+  article 'Shindell_et_al_2011
+    insert Shindell_et_al_2011_abstract
+
+  name: Ramanathan and Carmichael, 2008
+  title: Global and regional climate changes due to black carbon
+  lead: In Nature Geoscience, 2008
+  article 'Ramanathan_and_Carmichael_2008
+    insert Ramanathan_and_Carmichael_2008_abstract
+
+  name: Gillett and Matthews, 2010
+  title: Accounting for carbon cycle feedbacks in a comparison of the global warming effects of greenhouse gases
+  lead: In Environmental Research Letters, 2010
+  article 'Gillett_and_Matthews_2010
+    insert Gillett_and_Matthews_2010_abstract
+
+  name: Lohila et al., 2010
+  title: Forestation of boreal peatlands: Impacts of changing albedo and greenhouse gas fluxes on radiative forcing
+  lead: In Journal of Geophysical Research-Biogeosciences, 2010
+  article 'Lohila_et_al_2010
+    insert Lohila_et_al_2010_abstract
+
+  name: Fry et al., 2012
+  title: The influence of ozone precursor emissions from four world regions on tropospheric composition and radiative climate forcing
+  lead: In Journal of Geophysical Research-Atmospheres, 2012
+  article 'Fry_et_al_2012
+    insert Fry_et_al_2012_abstract
+
+  name: Kirkby, 2007
+  title: Cosmic rays and climate
+  lead: In Surveys in Geophysics, 2007
+  article 'Kirkby_2007
+    insert Kirkby_2007_abstract
+
+  name: Fung et al., 1991
+  title: 3-DIMENSIONAL MODEL SYNTHESIS OF THE GLOBAL METHANE CYCLE
+  lead: In Journal of Geophysical Research-Atmospheres, 1991
+  article 'Fung_et_al_1991
+    insert Fung_et_al_1991_abstract
+
+  name: de la Torre et al., 2006
+  title: Solar influence on Northern Annular Mode spatial structure and QBO modulation
+  lead: In Particle Acceleration, Space Plasma Physics, Solar Radiation and the Earth&#39;s Atmosphere and Climate, 2006
+  article 'de_la_Torre_et_al_2006
+    insert de_la_Torre_et_al_2006_abstract
+
+  name: Kristjansson et al., 2005
+  title: Response of the climate system to aerosol direct and indirect forcing: Role of cloud feedbacks
+  lead: In Journal of Geophysical Research-Atmospheres, 2005
+  article 'Kristjansson_et_al_2005
+    insert Kristjansson_et_al_2005_abstract
+
+  name: Righi et al., 2011
+  title: Climate Impact of Biofuels in Shipping: Global Model Studies of the Aerosol Indirect Effect
+  lead: In Environmental Science &amp; Technology, 2011
+  article 'Righi_et_al_2011
+    insert Righi_et_al_2011_abstract
+
+  name: Myhre et al., 1998
+  title: New estimates of radiative forcing due to well mixed greenhouse gases
+  lead: In Geophysical Research Letters, 1998
+  article 'Myhre_et_al_1998
+    insert Myhre_et_al_1998_abstract
+
+  name: Weiss et al., 2008
+  title: Nitrogen trifluoride in the global atmosphere
+  lead: In Geophysical Research Letters, 2008
+  article 'Weiss_et_al_2008
+    insert Weiss_et_al_2008_abstract
+
+  name: Wright, 2004
+  title: Do we know of any Maunder minimum stars?
+  lead: In Astronomical Journal, 2004
+  article 'Wright_2004
+    insert Wright_2004_abstract
+
+  name: Kueppers et al., 2007
+  title: Irrigation cooling effect: Regional climate forcing by land-use change
+  lead: In Geophysical Research Letters, 2007
+  article 'Kueppers_et_al_2007
+    insert Kueppers_et_al_2007_abstract
+
+  name: Clark et al., 2007
+  title: Cross-tropopause fluxes of ozone using assimilation of MOZAIC observations in a global CTM
+  lead: In Tellus Series B-Chemical and Physical Meteorology, 2007
+  article 'Clark_et_al_2007
+    insert Clark_et_al_2007_abstract
+
+  name: Rothman, 2010
+  title: The evolution and impact of the HITRAN molecular spectroscopic database
+  lead: In Journal of Quantitative Spectroscopy &amp; Radiative Transfer, 2010
+  article 'Rothman_2010
+    insert Rothman_2010_abstract
+
+  name: Gregory and Webb, 2008
+  title: Tropospheric adjustment induces a cloud component in CO2 forcing
+  lead: In Journal of Climate, 2008
+  article 'Gregory_and_Webb_2008
+    insert Gregory_and_Webb_2008_abstract
+
+  name: Daniel et al., 2012
+  title: Limitations of single-basket trading: lessons from the Montreal Protocol for climate policy
+  lead: In Climatic Change, 2012
+  article 'Daniel_et_al_2012
+    insert Daniel_et_al_2012_abstract
+
+  name: Snow-Kropla et al., 2011
+  title: Cosmic rays, aerosol formation and cloud-condensation nuclei: sensitivities to model uncertainties
+  lead: In Atmospheric Chemistry and Physics, 2011
+  article 'SnowKropla_et_al_2011
+    insert SnowKropla_et_al_2011_abstract
+
+  name: van der Werf et al., 2010
+  title: Global fire emissions and the contribution of deforestation, savanna, forest, agricultural, and peat fires (1997-2009)
+  lead: In Atmospheric Chemistry and Physics, 2010
+  article 'van_der_Werf_et_al_2010
+    insert van_der_Werf_et_al_2010_abstract
+
+  name: Collins et al., 2010
+  title: How vegetation impacts affect climate metrics for ozone precursors
+  lead: In Journal of Geophysical Research-Atmospheres, 2010
+  article 'Collins_et_al_2010
+    insert Collins_et_al_2010_abstract
+
+  name: Jin et al., 2005
+  title: The footprint of urban areas on global climate as characterized by MODIS
+  lead: In Journal of Climate, 2005
+  article 'Jin_et_al_2005
+    insert Jin_et_al_2005_abstract
+
+  name: LEE et al., 1995
+  title: LONG-TERM TOTAL SOLAR IRRADIANCE VARIABILITY DURING SUNSPOT CYCLE-22
+  lead: In Journal of Geophysical Research-Space Physics, 1995
+  article 'LEE_et_al_1995
+    insert LEE_et_al_1995_abstract
+
+  name: Kvalevag et al., 2010
+  title: Anthropogenic land cover changes in a GCM with surface albedo changes based on MODIS data
+  lead: In International Journal of Climatology, 2010
+  article 'Kvalevag_et_al_2010
+    insert Kvalevag_et_al_2010_abstract
+
+  name: Haigh, 1999
+  title: A GCM study of climate change in response to the 11-year solar cycle
+  lead: In Quarterly Journal of the Royal Meteorological Society, 1999
+  article 'Haigh_1999
+    insert Haigh_1999_abstract
+
+  name: Myhre et al., 2013
+  title: Radiative forcing of the direct aerosol effect from AeroCom Phase II simulations
+  lead: In Atmospheric Chemistry and Physics, 2013
+  article 'Myhre_et_al_2013
+    insert Myhre_et_al_2013_abstract
+
+  name: Boucher et al., 2009
+  title: The indirect global warming potential and global temperature change potential due to methane oxidation
+  lead: In Environmental Research Letters, 2009
+  article 'Boucher_et_al_2009
+    insert Boucher_et_al_2009_abstract
+
+  name: Cox et al., 2008
+  title: Increasing risk of Amazonian drought due to decreasing aerosol pollution
+  lead: In Nature, 2008
+  article 'Cox_et_al_2008
+    insert Cox_et_al_2008_abstract
+
+  name: Stevenson and Derwent, 2009
+  title: Does the location of aircraft nitrogen oxide emissions affect their climate impact?
+  lead: In Geophysical Research Letters, 2009
+  article 'Stevenson_and_Derwent_2009
+    insert Stevenson_and_Derwent_2009_abstract
+
+  name: Antuña et al., 2003
+  title: Spatial and temporal variability of the stratospheric aerosol cloud produced by the 1991 Mount Pinatubo eruption
+  lead: In Journal of Geophysical Research-Atmospheres, 2003
+  article 'Antua_et_al_2003
+    insert Antua_et_al_2003_abstract
+
+  name: Bond et al., 2011
+  title: Quantifying immediate radiative forcing by black carbon and organic matter with the Specific Forcing Pulse
+  lead: In Atmospheric Chemistry and Physics, 2011
+  article 'Bond_et_al_2011
+    insert Bond_et_al_2011_abstract
+
+  name: Helama et al., 2010
+  title: Sub-Milankovitch solar forcing of past climates: Mid and late Holocene perspectives
+  lead: In Geological Society of America Bulletin, 2010
+  article 'Helama_et_al_2010
+    insert Helama_et_al_2010_abstract
+
+  name: Baasandorj et al., 2011
+  title: Atmospheric Chemistry of (Z)-CF3CH=CHCF3: OH Radical Reaction Rate Coefficient and Global Warming Potential
+  lead: In Journal of Physical Chemistry A, 2011
+  article 'Baasandorj_et_al_2011
+    insert Baasandorj_et_al_2011_abstract
+
+  name: Gregory, 2010
+  title: Long-term effect of volcanic forcing on ocean heat content
+  lead: In Geophysical Research Letters, 2010
+  article 'Gregory_2010
+    insert Gregory_2010_abstract
+
+  name: FOUKAL and LEAN, 1988
+  title: MAGNETIC MODULATION OF SOLAR LUMINOSITY BY PHOTOSPHERIC ACTIVITY
+  lead: In Astrophysical Journal, 1988
+  article 'FOUKAL_and_LEAN_1988
+    insert FOUKAL_and_LEAN_1988_abstract
+
+  name: Søvde et al., 2011
+  title: The HNO3 forming branch of the HO2 + NO reaction: pre-industrial-to-present trends in atmospheric species and radiative forcings
+  lead: In Atmospheric Chemistry and Physics, 2011
+  article 'Svde_et_al_2011
+    insert Svde_et_al_2011_abstract
+
+  name: Kaplan et al., 2011
+  title: Holocene carbon emissions as a result of anthropogenic land cover change
+  lead: In Holocene, 2011
+  article 'Kaplan_et_al_2011
+    insert Kaplan_et_al_2011_abstract
+
+  name: O&#39;Neill, 2003
+  title: Economics, natural science, and the costs of global warming potentials - An editorial comment
+  lead: In Climatic Change, 2003
+  article 'ONeill_2003
+    insert ONeill_2003_abstract
+
+  name: Pongratz et al., 2010
+  title: Biogeophysical versus biogeochemical climate response to historical anthropogenic land cover change
+  lead: In Geophysical Research Letters, 2010
+  article 'Pongratz_et_al_2010
+    insert Pongratz_et_al_2010_abstract
+
+  name: Rasch et al., 2008
+  title: An overview of geoengineering of climate using stratospheric sulphate aerosols
+  lead: In Philosophical Transactions of the Royal Society a-Mathematical Physical and Engineering Sciences, 2008
+  article 'Rasch_et_al_2008
+    insert Rasch_et_al_2008_abstract
+
+  name: Ruckstuhl et al., 2008
+  title: Aerosol and cloud effects on solar brightening and the recent rapid warming
+  lead: In Geophysical Research Letters, 2008
+  article 'Ruckstuhl_et_al_2008
+    insert Ruckstuhl_et_al_2008_abstract
+
+  name: Toon et al., 2008
+  title: Environmental consequences of nuclear war
+  lead: In Physics Today, 2008
+  article 'Toon_et_al_2008
+    insert Toon_et_al_2008_abstract
+
+  name: Shindell et al., 2006b
+  title: Solar and anthropogenic forcing of tropical hydrology
+  lead: In Geophysical Research Letters, 2006
+  article 'Shindell_et_al_2006b
+    insert Shindell_et_al_2006b_abstract
+
+  name: FAO, 2012
+  title: State of the World's forests.
+  lead: By Food and Agriculture Organization of the United Nations, 2012
+  report 'FAO_2012
+    insert FAO_2012_abstract
+
+  name: DANIEL et al., 1995
+  title: ON THE EVALUATION OF HALOCARBON RADIATIVE FORCING AND GLOBAL WARMING POTENTIALS
+  lead: In Journal of Geophysical Research-Atmospheres, 1995
+  article 'DANIEL_et_al_1995
+    insert DANIEL_et_al_1995_abstract
+
+  name: Lohmann et al., 2010
+  title: Total aerosol effect: radiative forcing or radiative flux perturbation?
+  lead: In Atmospheric Chemistry and Physics, 2010
+  article 'Lohmann_et_al_2010
+    insert Lohmann_et_al_2010_abstract
+
+  name: Andrews et al., 2012b
+  title: Sensitivity of an Earth system climate model to idealized radiative forcing
+  lead: In Geophysical Research Letters, 2012
+  article 'Andrews_et_al_2012b
+    insert Andrews_et_al_2012b_abstract
+
+  name: Zhang et al., 2005
+  title: A Comparison Between the Two Line-by-Line Integration Algorithms
+  lead: In Chinese Journal of Atmospheric Sciences, 2005
+  article 'Zhang_et_al_2005
+    insert Zhang_et_al_2005_abstract
+
+  name: Flanner et al., 2007
+  title: Present-day climate forcing and response from black carbon in snow
+  lead: In Journal of Geophysical Research-Atmospheres, 2007
+  article 'Flanner_et_al_2007
+    insert Flanner_et_al_2007_abstract
+
+  name: Kawase et al., 2011
+  title: Future changes in tropospheric ozone under Representative Concentration Pathways (RCPs)
+  lead: In Geophysical Research Letters, 2011
+  article 'Kawase_et_al_2011
+    insert Kawase_et_al_2011_abstract
+
+  name: Vial et al., 2013
+  title: On the interpretation of inter-model spread in CMIP5 climate sensitivity estimates
+  lead: In Climate Dynamics, 2013
+  article 'Vial_et_al_2013
+    insert Vial_et_al_2013_abstract
+
+  name: Leibensperger et al., 2012b
+  title: Climatic effects of 1950-2050 changes in US anthropogenic aerosols - Part 2: Climate response
+  lead: In Atmospheric Chemistry and Physics, 2012
+  article 'Leibensperger_et_al_2012b
+    insert Leibensperger_et_al_2012b_abstract
+
+  name: Schmalensee, 1993
+  title: Comparing Greenhouse gases for policy purposes.
+  lead: In The Energy Journal, 1993
+  article 'Schmalensee_1993
+    insert Schmalensee_1993_abstract
+
+  name: Myhre et al., 2005
+  title: Radiative effect of surface albedo change from biomass burning
+  lead: In Geophysical Research Letters, 2005
+  article 'Myhre_et_al_2005a
+    insert Myhre_et_al_2005a_abstract
+
+  name: Calvin et al., 2012
+  title: The role of Asia in mitigating climate change: Results from the Asia modeling exercise
+  lead: In Energy Economics, 2012
+  article 'Calvin_et_al_2012
+    insert Calvin_et_al_2012_abstract
+
+  name: Boucher and Haywood, 2001
+  title: On summing the components of radiative forcing of climate change
+  lead: In Climate Dynamics, 2001
+  article 'Boucher_and_Haywood_2001
+    insert Boucher_and_Haywood_2001_abstract
+
+  name: Shindell and Faluvegi, 2010
+  title: The net climate impact of coal-fired power plant emissions
+  lead: In Atmospheric Chemistry and Physics, 2010
+  article 'Shindell_and_Faluvegi_2010
+    insert Shindell_and_Faluvegi_2010_abstract
+
+  name: Lau et al., 2006
+  title: Asian summer monsoon anomalies induced by aerosol direct forcing: the role of the Tibetan Plateau
+  lead: In Climate Dynamics, 2006
+  article 'Lau_et_al_2006
+    insert Lau_et_al_2006_abstract
+
+  name: Jones et al., 2012
+  title: What influence will future solar activity changes over the 21st century have on projected global near-surface temperature changes?
+  lead: In Journal of Geophysical Research-Atmospheres, 2012
+  article 'Jones_et_al_2012
+    insert Jones_et_al_2012_abstract
+
+  name: Skeie et al., 2011b
+  title: Anthropogenic radiative forcing time series from pre-industrial times until 2010
+  lead: In Atmospheric Chemistry and Physics, 2011
+  article 'Skeie_et_al_2011b
+    insert Skeie_et_al_2011b_abstract
+
+  name: Friedlingstein et al., 2006
+  title: Climate-carbon cycle feedback analysis: Results from the C(4)MIP model intercomparison
+  lead: In Journal of Climate, 2006
+  article 'Friedlingstein_et_al_2006
+    insert Friedlingstein_et_al_2006_abstract
+
+  name: Boucher and Reddy, 2008
+  title: Climate trade-off between black carbon and carbon dioxide emissions
+  lead: In Energy Policy, 2008
+  article 'Boucher_and_Reddy_2008
+    insert Boucher_and_Reddy_2008_abstract
+
+  name: Gettelman et al., 1997
+  title: Mass fluxes of O3, CH4, N2O and CF2Cl2 in the lower stratosphere calculated from observational data
+  lead: In Journal of Geophysical Research-Atmospheres, 1997
+  article 'Gettelman_et_al_1997
+    insert Gettelman_et_al_1997_abstract
+
+  name: Son et al., 2009
+  title: Ozone hole and Southern Hemisphere climate change
+  lead: In Geophysical Research Letters, 2009
+  article 'Son_et_al_2009
+    insert Son_et_al_2009_abstract
+
+  name: Robock, 2010
+  title: New START, Eyjafjallajökull, and Nuclear Winter
+  lead: In Eos, 2010
+  article 'Robock_2010
+    insert Robock_2010_abstract
+
+  name: Wild, 2009
+  title: How well do IPCC-AR4/CMIP3 climate models simulate global dimming/brightening and twentieth-century daytime and nighttime warming?
+  lead: In Journal of Geophysical Research-Atmospheres, 2009
+  article 'Wild_2009
+    insert Wild_2009_abstract
+
+  name: Pechony and Shindell, 2010
+  title: Driving forces of global wildfires over the past millennium and the forthcoming century
+  lead: In Proceedings of the National Academy of Sciences of the United States of America, 2010
+  article 'Pechony_and_Shindell_2010
+    insert Pechony_and_Shindell_2010_abstract
+
+  name: Clarke and Noone, 1985
+  title: SOOT IN THE ARCTIC SNOWPACK - A CAUSE FOR PERTURBATIONS IN RADIATIVE-TRANSFER
+  lead: In Atmospheric Environment, 1985
+  article 'Clarke_and_Noone_1985
+    insert Clarke_and_Noone_1985_abstract
+
+  name: Gregory et al., 2004
+  title: A new method for diagnosing radiative forcing and climate sensitivity
+  lead: In Geophysical Research Letters, 2004
+  article 'Gregory_et_al_2004
+    insert Gregory_et_al_2004_abstract
+
+  name: Montzka et al., 2011
+  title: Non-CO2 greenhouse gases and climate change
+  lead: In Nature, 2011
+  article 'Montzka_et_al_2011
+    insert Montzka_et_al_2011_abstract
+
+  name: Ming et al., 2010
+  title: Two opposing effects of absorbing aerosols on global-mean precipitation
+  lead: In Geophysical Research Letters, 2010
+  article 'Ming_et_al_2010
+    insert Ming_et_al_2010_abstract
+
+  name: van der Molen et al., 2011
+  title: A dampened land use change climate response towards the tropics
+  lead: In Climate Dynamics, 2011
+  article 'van_der_Molen_et_al_2011
+    insert van_der_Molen_et_al_2011_abstract
+
+  name: Rypdal et al., 2009
+  title: Costs and global impacts of black carbon abatement strategies
+  lead: In Tellus Series B-Chemical and Physical Meteorology, 2009
+  article 'Rypdal_et_al_2009
+    insert Rypdal_et_al_2009_abstract
+
+  name: Jones et al., 2005
+  title: An AOGCM simulation of the climate response to a volcanic super-eruption
+  lead: In Climate Dynamics, 2005
+  article 'Jones_et_al_2005
+    insert Jones_et_al_2005_abstract
+
+  name: Schneider et al., 2009
+  title: Climate response to large, high-latitude and low-latitude volcanic eruptions in the Community Climate System Model
+  lead: In Journal of Geophysical Research-Atmospheres, 2009
+  article 'Schneider_et_al_2009
+    insert Schneider_et_al_2009_abstract
+
+  name: Iacono et al., 2008
+  title: Radiative forcing by long-lived greenhouse gases: Calculations with the AER radiative transfer models
+  lead: In Journal of Geophysical Research-Atmospheres, 2008
+  article 'Iacono_et_al_2008
+    insert Iacono_et_al_2008_abstract
+
+  name: Cofala et al., 2007
+  title: Scenarios of global anthropogenic emissions of air pollutants and methane until 2030
+  lead: In Atmospheric Environment, 2007
+  article 'Cofala_et_al_2007
+    insert Cofala_et_al_2007_abstract
+
+  name: Hsu and Prather, 2009
+  title: Stratospheric variability and tropospheric ozone
+  lead: In Journal of Geophysical Research-Atmospheres, 2009
+  article 'Hsu_and_Prather_2009
+    insert Hsu_and_Prather_2009_abstract
+
+  name: O&#39;ishi et al., 2009
+  title: Vegetation dynamics and plant CO2 responses as positive feedbacks in a greenhouse world
+  lead: In Geophysical Research Letters, 2009
+  article 'Oishi_et_al_2009
+    insert Oishi_et_al_2009_abstract
+
+  name: Bernier et al., 2011
+  title: Boreal lichen woodlands: A possible negative feedback to climate change in eastern North America
+  lead: In Agricultural and Forest Meteorology, 2011
+  article 'Bernier_et_al_2011
+    insert Bernier_et_al_2011_abstract
+
+  name: Bowman et al., 2009
+  title: Fire in the Earth System
+  lead: In Science, 2009
+  article 'Bowman_et_al_2009
+    insert Bowman_et_al_2009_abstract
+
+  name: Timmreck et al., 2010
+  title: Aerosol size confines climate response to volcanic super-eruptions
+  lead: In Geophysical Research Letters, 2010
+  article 'Timmreck_et_al_2010
+    insert Timmreck_et_al_2010_abstract
+
+  name: Ramaswamy et al., 2001
+  title: Radiative Forcing of Climate Change
+  lead: In Climate Change 2001: The Scientific Basis. Contribution of Working Group I to the Third Assessment Report of the Intergovernmental Panel on Climate Change, 2001
+  booksec 'Ramaswamy_et_al_2001
+    insert Ramaswamy_et_al_2001_abstract
+
+  name: Rigozo et al., 2001
+  title: Reconstruction of Wolf sunspot numbers on the basis of spectral characteristics and estimates of associated radio flux and solar wind parameters for the last millennium
+  lead: In Solar Physics, 2001
+  article 'Rigozo_et_al_2001
+    insert Rigozo_et_al_2001_abstract
+
+  name: Prather, 2002
+  title: Lifetimes of atmospheric species: Integrating environmental impacts
+  lead: In Geophysical Research Letters, 2002
+  article 'Prather_2002
+    insert Prather_2002_abstract
+
+  name: Arora and Montenegro, 2011
+  title: Small temperature benefits provided by realistic afforestation efforts
+  lead: In Nature Geoscience, 2011
+  article 'Arora_and_Montenegro_2011
+    insert Arora_and_Montenegro_2011_abstract
+
+  name: Davin et al., 2007
+  title: Impact of land cover change on surface climate: Relevance of the radiative forcing concept
+  lead: In Geophysical Research Letters, 2007
+  article 'Davin_et_al_2007
+    insert Davin_et_al_2007_abstract
+
+  name: Shine et al., 2005b
+  title: Alternatives to the global warming potential for comparing climate impacts of emissions of greenhouse gases
+  lead: In Climatic Change, 2005
+  article 'Shine_et_al_2005b
+    insert Shine_et_al_2005b_abstract
+
+  name: Gray et al., 2010
+  title: SOLAR INFLUENCES ON CLIMATE
+  lead: In Reviews of Geophysics, 2010
+  article 'Gray_et_al_2010
+    insert Gray_et_al_2010_abstract
+
+  name: Erlykin and Wolfendale, 2011
+  title: Cosmic ray effects on cloud cover and their relevance to climate change
+  lead: In Journal of Atmospheric and Solar-Terrestrial Physics, 2011
+  article 'Erlykin_and_Wolfendale_2011
+    insert Erlykin_and_Wolfendale_2011_abstract
+
+  name: Bowman et al., 2013
+  title: Evaluation of ACCMIP outgoing longwave radiation from tropospheric ozone using TES satellite observations
+  lead: In Atmos. Chem. Phys., 2013
+  article 'Bowman_et_al_2013
+    insert Bowman_et_al_2013_abstract
+
+  name: Shindell et al., 2008
+  title: Climate forcing and air quality change due to regional emissions reductions by economic sector
+  lead: In Atmospheric Chemistry and Physics, 2008
+  article 'Shindell_et_al_2008
+    insert Shindell_et_al_2008_abstract
+
+  name: Ammann and Naveau, 2003
+  title: Statistical analysis of tropical explosive volcanism occurrences over the last 6 centuries
+  lead: In Geophysical Research Letters, 2003
+  article 'Ammann_and_Naveau_2003
+    insert Ammann_and_Naveau_2003_abstract
+
+  name: Bekki et al., 1996
+  title: The role of microphysical and chemical processes in prolonging the climate forcing of the Toba eruption
+  lead: In Geophysical Research Letters, 1996
+  article 'Bekki_et_al_1996
+    insert Bekki_et_al_1996_abstract
+
+  name: Davin and de Noblet-Ducoudre, 2010
+  title: Climatic Impact of Global-Scale Deforestation: Radiative versus Nonradiative Processes
+  lead: In Journal of Climate, 2010
+  article 'Davin_and_de_NobletDucoudre_2010
+    insert Davin_and_de_NobletDucoudre_2010_abstract
+
+  name: Paulot et al., 2009
+  title: Unexpected Epoxide Formation in the Gas-Phase Photooxidation of Isoprene
+  lead: In Science, 2009
+  article 'Paulot_et_al_2009
+    insert Paulot_et_al_2009_abstract
+
+  name: Manning and Reisinger, 2011
+  title: Broader perspectives for comparing different greenhouse gases
+  lead: In Philosophical Transactions of the Royal Society a-Mathematical Physical and Engineering Sciences, 2011
+  article 'Manning_and_Reisinger_2011
+    insert Manning_and_Reisinger_2011_abstract
+
+  name: Holmes et al., 2013
+  title: Future methane, hydroxyl, and their uncertainties: key climate and emission parameters for future predictions
+  lead: In Atmospheric Chemistry and Physics, 2013
+  article 'Holmes_et_al_2013
+    insert Holmes_et_al_2013_abstract
+
+  name: Stevenson et al., 2006
+  title: Multimodel ensemble simulations of present-day and near-future tropospheric ozone
+  lead: In Journal of Geophysical Research-Atmospheres, 2006
+  article 'Stevenson_et_al_2006
+    insert Stevenson_et_al_2006_abstract
+
+  name: Crowley and Unterman, 2013
+  title: Technical details concerning development of a 1200 yr proxy index for global volcanism
+  lead: In Earth Syst. Sci. Data, 2013
+  article 'Crowley_and_Unterman_2013
+    insert Crowley_and_Unterman_2013_abstract
+
+  name: Cherubini et al., 2011
+  title: CO2 emissions from biomass combustion for bioenergy: atmospheric decay and contribution to global warming
+  lead: In Global Change Biology Bioenergy, 2011
+  article 'Cherubini_et_al_2011
+    insert Cherubini_et_al_2011_abstract
+
+  name: Mills et al., 2008
+  title: Massive global ozone loss predicted following regional nuclear conflict
+  lead: In Proceedings of the National Academy of Sciences of the United States of America, 2008
+  article 'Mills_et_al_2008
+    insert Mills_et_al_2008_abstract
+
+  name: Parrish et al., 2009
+  title: Increasing ozone in marine boundary layer inflow at the west coasts of North America and Europe
+  lead: In Atmospheric Chemistry and Physics, 2009
+  article 'Parrish_et_al_2009
+    insert Parrish_et_al_2009_abstract
+
+  name: Joshi and Jones, 2009
+  title: The climatic effects of the direct injection of water vapour into the stratosphere by large volcanic eruptions
+  lead: In Atmospheric Chemistry and Physics, 2009
+  article 'Joshi_and_Jones_2009
+    insert Joshi_and_Jones_2009_abstract
+
+  name: Frohlich, 2006
+  title: Solar irradiance variability since 1978 - Revision of the PMOD composite during solar cycle 21
+  lead: In Space Science Reviews, 2006
+  article 'Frohlich_2006
+    insert Frohlich_2006_abstract
+
+  name: Denman et al., 2007
+  title: Couplings Between Changes in the Climate System and Biogeochemistry
+  lead: In Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, 2007
+  booksec 'Denman_et_al_2007
+    insert Denman_et_al_2007_abstract
+
+  name: Peters et al., 2011b
+  title: Alternative "Global Warming" Metrics in Life Cycle Assessment: A Case Study with Existing Transportation Data
+  lead: In Environmental Science &amp; Technology, 2011
+  article 'Peters_et_al_2011b
+    insert Peters_et_al_2011b_abstract
+
+  name: Hansen et al., 2005
+  title: Efficacy of climate forcings
+  lead: In Journal of Geophysical Research-Atmospheres, 2005
+  article 'Hansen_et_al_2005
+    insert Hansen_et_al_2005_abstract
+
+  name: Feng and Zhao, 2009
+  title: Effect of changes of the HITRAN database on transmittance calculations in the near-infrared region
+  lead: In Journal of Quantitative Spectroscopy &amp; Radiative Transfer, 2009
+  article 'Feng_and_Zhao_2009
+    insert Feng_and_Zhao_2009_abstract
+
+  name: Gao et al., 2008
+  title: Volcanic forcing of climate over the past 1500 years: An improved ice core-based index for climate models
+  lead: In Journal of Geophysical Research-Atmospheres, 2008
+  article 'Gao_et_al_2008
+    insert Gao_et_al_2008_abstract
+
+  name: Pongratz et al., 2009
+  title: Radiative forcing from anthropogenic land cover change since AD 800
+  lead: In Geophysical Research Letters, 2009
+  article 'Pongratz_et_al_2009
+    insert Pongratz_et_al_2009_abstract
+
+  name: Hurtt et al., 2006
+  title: The underpinnings of land-use history: three centuries of global gridded land-use transitions, wood-harvest activity, and resulting secondary lands
+  lead: In Global Change Biology, 2006
+  article 'Hurtt_et_al_2006
+    insert Hurtt_et_al_2006_abstract
+
+  name: Ineson et al., 2011
+  title: Solar forcing of winter climate variability in the Northern Hemisphere.
+  lead: In Nature Geoscience, 2011
+  article 'Ineson_et_al_2011
+    insert Ineson_et_al_2011_abstract
+
+  name: McLandress et al., 2011
+  title: Separating the Dynamical Effects of Climate Change and Ozone Depletion. Part II Southern Hemisphere Troposphere
+  lead: In Journal of Climate, 2011
+  article 'McLandress_et_al_2011
+    insert McLandress_et_al_2011_abstract
+
+  name: Granier et al., 2011
+  title: Evolution of anthropogenic and biomass burning emissions of air pollutants at global and regional scales during the 1980-2010 period
+  lead: In Climatic Change, 2011
+  article 'Granier_et_al_2011
+    insert Granier_et_al_2011_abstract
+
+  name: Salby et al., 2012
+  title: Changes of the Antarctic ozone hole: Controlling mechanisms, seasonal predictability, and evolution
+  lead: In Journal of Geophysical Research-Atmospheres, 2012
+  article 'Salby_et_al_2012
+    insert Salby_et_al_2012_abstract
+
+  name: Steinhilber et al., 2009
+  title: Total solar irradiance during the Holocene
+  lead: In Geophysical Research Letters, 2009
+  article 'Steinhilber_et_al_2009
+    insert Steinhilber_et_al_2009_abstract
+
+  name: Özdoğan et al., 2013
+  title: Impacts of a nuclear war in South Asia on soybean and maize production in the Midwest United States
+  lead: In Climatic Change, 2013
+  article 'zdoan_et_al_2013
+    insert zdoan_et_al_2013_abstract
+
+  name: Koch et al., 2007
+  title: Global impacts of aerosols from particular source regions and sectors
+  lead: In Journal of Geophysical Research-Atmospheres, 2007
+  article 'Koch_et_al_2007
+    insert Koch_et_al_2007_abstract
+
+  name: Fuglestvedt et al., 2000
+  title: Climate implications of GWP-based reductions in greenhouse gas emissions
+  lead: In Geophysical Research Letters, 2000
+  article 'Fuglestvedt_et_al_2000
+    insert Fuglestvedt_et_al_2000_abstract
+
+  name: Osterman et al., 2008
+  title: Validation of Tropospheric Emission Spectrometer (TES) measurements of the total, stratospheric, and tropospheric column abundance of ozone
+  lead: In Journal of Geophysical Research-Atmospheres, 2008
+  article 'Osterman_et_al_2008
+    insert Osterman_et_al_2008_abstract
+
+  name: Anchukaitis et al., 2010
+  title: Influence of volcanic eruptions on the climate of the Asian monsoon region
+  lead: In Geophysical Research Letters, 2010
+  article 'Anchukaitis_et_al_2010
+    insert Anchukaitis_et_al_2010_abstract
+
+  name: Feng et al., 2007
+  title: Effect of the improvement of the HITIRAN database on the radiative transfer calculation
+  lead: In Journal of Quantitative Spectroscopy &amp; Radiative Transfer, 2007
+  article 'Feng_et_al_2007
+    insert Feng_et_al_2007_abstract
+
+  name: IPCC, 1996
+  title: Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories
+  ref 'IPCC_1996
+    insert IPCC_1996_abstract
+
+  name: Rotstayn et al., 2000
+  title: Precipitation changes in a GCM resulting from the indirect effects of anthropogenic aerosols
+  lead: In Geophysical Research Letters, 2000
+  article 'Rotstayn_et_al_2000
+    insert Rotstayn_et_al_2000_abstract
+
+  name: Shindell et al., 2010
+  title: Spatial scales of climate response to inhomogeneous radiative forcing
+  lead: In Journal of Geophysical Research-Atmospheres, 2010
+  article 'Shindell_et_al_2010
+    insert Shindell_et_al_2010_abstract
+
+  name: Dahlmann et al., 2011
+  title: Quantifying the contributions of individual NOx sources to the trend in ozone radiative forcing
+  lead: In Atmospheric Environment, 2011
+  article 'Dahlmann_et_al_2011
+    insert Dahlmann_et_al_2011_abstract
+
+  name: Lean and Deland, 2012
+  title: How Does the Sun's Spectrum Vary?
+  lead: In Journal of Climate, 2012
+  article 'Lean_and_Deland_2012
+    insert Lean_and_Deland_2012_abstract
+
+  name: Findell et al., 2007
+  title: Modeled impact of anthropogenic land cover change on climate
+  lead: In Journal of Climate, 2007
+  article 'Findell_et_al_2007
+    insert Findell_et_al_2007_abstract
+
+  name: Shine, 2009
+  title: The global warming potential-the need for an interdisciplinary retrial
+  lead: In Climatic Change, 2009
+  article 'Shine_2009
+    insert Shine_2009_abstract
+
+  name: Prather and Hsu, 2010
+  title: Coupling of Nitrous Oxide and Methane by Global Atmospheric Chemistry
+  lead: In Science, 2010
+  article 'Prather_and_Hsu_2010
+    insert Prather_and_Hsu_2010_abstract
+
+  name: Wild and Palmer, 2008
+  title: How sensitive is tropospheric oxidation to anthropogenic emissions?
+  lead: In Geophysical Research Letters, 2008
+  article 'Wild_and_Palmer_2008
+    insert Wild_and_Palmer_2008_abstract
+
+  name: Tanaka et al., 2009
+  title: Evaluating Global Warming Potentials with historical temperature
+  lead: In Climatic Change, 2009
+  article 'Tanaka_et_al_2009
+    insert Tanaka_et_al_2009_abstract
+
+  name: Self and Blake, 2008
+  title: Consequences of explosive supereruptions
+  lead: In Elements, 2008
+  article 'Self_and_Blake_2008
+    insert Self_and_Blake_2008_abstract
+
+  name: Jin et al., 2012
+  title: Post-fire changes in net shortwave radiation along a latitudinal gradient in boreal North America
+  lead: In Geophysical Research Letters, 2012
+  article 'Jin_et_al_2012
+    insert Jin_et_al_2012_abstract
+
+  name: Esper and Schweingruber, 2004
+  title: Large-scale treeline changes recorded in Siberia
+  lead: In Geophysical Research Letters, 2004
+  article 'Esper_and_Schweingruber_2004
+    insert Esper_and_Schweingruber_2004_abstract
+
+  name: Tilmes et al., 2012
+  title: Technical Note: Ozonesonde climatology between 1995 and 2011: description, evaluation and applications
+  lead: In Atmos. Chem. Phys., 2012
+  article 'Tilmes_et_al_2012
+    insert Tilmes_et_al_2012_abstract
+
+  name: Velders et al., 2009
+  title: The large contribution of projected HFC emissions to future climate forcing
+  lead: In Proceedings of the National Academy of Sciences of the United States of America, 2009
+  article 'Velders_et_al_2009
+    insert Velders_et_al_2009_abstract
+
+  name: Robock et al., 2007b
+  title: Climatic consequences of regional nuclear conflicts
+  lead: In Atmospheric Chemistry and Physics, 2007
+  article 'Robock_et_al_2007b
+    insert Robock_et_al_2007b_abstract
+
+  name: Randles and Ramaswamy, 2008
+  title: Absorbing aerosols over Asia: A Geophysical Fluid Dynamics Laboratory general circulation model sensitivity study of model response to aerosol optical depth and aerosol absorption
+  lead: In Journal of Geophysical Research-Atmospheres, 2008
+  article 'Randles_and_Ramaswamy_2008
+    insert Randles_and_Ramaswamy_2008_abstract
+
+  name: Myhre et al., 2007
+  title: Radiative forcing due to stratospheric water vapour from CH4 oxidation
+  lead: In Geophysical Research Letters, 2007
+  article 'Myhre_et_al_2007
+    insert Myhre_et_al_2007_abstract
+
+  name: Ashmore, 2005
+  title: Assessing the future global impacts of ozone on vegetation
+  lead: In Plant Cell and Environment, 2005
+  article 'Ashmore_2005
+    insert Ashmore_2005_abstract
+
+  name: Schmidt et al., 2010
+  title: The impact of the 1783-1784 AD Laki eruption on global aerosol formation processes and cloud condensation nuclei
+  lead: In Atmospheric Chemistry and Physics, 2010
+  article 'Schmidt_et_al_2010
+    insert Schmidt_et_al_2010_abstract
+
+  name: Barnes and Roy, 2008
+  title: Radiative forcing over the conterminous United States due to contemporary land cover land use albedo change
+  lead: In Geophysical Research Letters, 2008
+  article 'Barnes_and_Roy_2008
+    insert Barnes_and_Roy_2008_abstract
+
+  name: KANDLIKAR, 1995
+  title: THE RELATIVE ROLE OF TRACE GAS EMISSIONS IN GREENHOUSE ABATEMENT POLICIES
+  lead: In Energy Policy, 1995
+  article 'KANDLIKAR_1995
+    insert KANDLIKAR_1995_abstract
+
+  name: Ito and Penner, 2005
+  title: Historical emissions of carbonaceous aerosols from biomass and fossil fuel burning for the period 1870-2000
+  lead: In Global Biogeochemical Cycles, 2005
+  article 'Ito_and_Penner_2005
+    insert Ito_and_Penner_2005_abstract
+
+  name: COLLINS et al., 2002
+  title: The oxidation of organic compounds in the troposphere and their global warming potentials
+  lead: In CLIMATIC CHANGE, 2002
+  article 'COLLINS_et_al_2002
+    insert COLLINS_et_al_2002_abstract
+
+  name: Siddaway and Petelina, 2011
+  title: Transport and evolution of the 2009 Australian Black Saturday bushfire smoke in the lower stratosphere observed by OSIRIS on Odin
+  lead: In Journal of Geophysical Research-Atmospheres, 2011
+  article 'Siddaway_and_Petelina_2011
+    insert Siddaway_and_Petelina_2011_abstract
+
+  name: Engel et al., 2009
+  title: Age of stratospheric air unchanged within uncertainties over the past 30 years
+  lead: In Nature Geoscience, 2009
+  article 'Engel_et_al_2009
+    insert Engel_et_al_2009_abstract
+
+  name: den Elzen et al., 2005
+  title: Analysing countries' contribution to climate change: scientific and policy-related choices
+  lead: In Environmental Science &amp; Policy, 2005
+  article 'den_Elzen_et_al_2005
+    insert den_Elzen_et_al_2005_abstract
+
+  name: Godal and Fuglestvedt, 2002
+  title: Testing 100-year global warming potentials: Impacts on compliance costs and abatement profile
+  lead: In Climatic Change, 2002
+  article 'Godal_and_Fuglestvedt_2002
+    insert Godal_and_Fuglestvedt_2002_abstract
+
+  name: Myhre et al., 2005b
+  title: Radiative forcing due to anthropogenic vegetation change based on MODIS surface albedo data
+  lead: In Geophysical Research Letters, 2005
+  article 'Myhre_et_al_2005b
+    insert Myhre_et_al_2005b_abstract
+
+  name: Reddy and Boucher, 2007
+  title: Climate impact of black carbon emitted from energy consumption in the world's regions
+  lead: In Geophysical Research Letters, 2007
+  article 'Reddy_and_Boucher_2007
+    insert Reddy_and_Boucher_2007_abstract
+
+  name: Nagai et al., 2010
+  title: Post-Pinatubo Evolution and Subsequent Trend of the Stratospheric Aerosol Layer Observed by Mid-Latitude Lidars in Both Hemispheres
+  lead: In Sola, 2010
+  article 'Nagai_et_al_2010
+    insert Nagai_et_al_2010_abstract
+
+  name: WMO, 1999
+  title: Scientific Assessment of Ozone Depletion: 1998, Global Ozone Research and Monitoring Project
+  lead: By World Meteorological Organization, Report No. 44,, 1999
+  report 'WMO_1999
+    insert WMO_1999_abstract
+
+  name: Wild et al., 2001
+  title: Indirect long-term global radiative cooling from NOx emissions
+  lead: In Geophysical Research Letters, 2001
+  article 'Wild_et_al_2001
+    insert Wild_et_al_2001_abstract
+
+  name: Tsigaridis and Kanakidou, 2007
+  title: Secondary organic aerosol importance in the future atmosphere
+  lead: In Atmospheric Environment, 2007
+  article 'Tsigaridis_and_Kanakidou_2007
+    insert Tsigaridis_and_Kanakidou_2007_abstract
+
+  name: Jin and Roy, 2005
+  title: Fire-induced albedo change and its radiative forcing at the surface in northern Australia
+  lead: In Geophysical Research Letters, 2005
+  article 'Jin_and_Roy_2005
+    insert Jin_and_Roy_2005_abstract
+
+  name: Doutriaux-Boucher et al., 2009
+  title: Carbon dioxide induced stomatal closure increases radiative forcing via a rapid reduction in low cloud
+  lead: In Geophysical Research Letters, 2009
+  article 'DoutriauxBoucher_et_al_2009
+    insert DoutriauxBoucher_et_al_2009_abstract
+
+  name: Garcia et al., 2011
+  title: On the Determination of Age of Air Trends from Atmospheric Trace Species
+  lead: In Journal of the Atmospheric Sciences, 2011
+  article 'Garcia_et_al_2011
+    insert Garcia_et_al_2011_abstract
+
+  name: Stiller et al., 2012
+  title: Observed temporal evolution of global mean age of stratospheric air for the 2002 to 2010 period
+  lead: In Atmospheric Chemistry and Physics, 2012
+  article 'Stiller_et_al_2012
+    insert Stiller_et_al_2012_abstract
+
+  name: Doherty et al., 2010
+  title: Light-absorbing impurities in Arctic snow
+  lead: In Atmospheric Chemistry and Physics, 2010
+  article 'Doherty_et_al_2010
+    insert Doherty_et_al_2010_abstract
+
+  name: Heathfield et al., 1998
+  title: Integrated infrared absorption coefficients of several partially fluorinated ether compounds: CF3OCF2H, CF2HOCF2H, CH3OCF2CF2H, CH3OCF2CFClH, CH3CH2OCF2CF2H, CF3CH2OCF2CF2H AND CH2=CHCH2OCF2CF2H
+  lead: In Atmospheric Environment, 1998
+  article 'Heathfield_et_al_1998
+    insert Heathfield_et_al_1998_abstract
+
+  name: Aaheim et al., 2006
+  title: Costs savings of a flexible multi-gas climate policy
+  lead: In Energy Journal, 2006
+  article 'Aaheim_et_al_2006
+    insert Aaheim_et_al_2006_abstract
+
+  name: Perlwitz and Miller, 2010
+  title: Cloud cover increase with increasing aerosol absorptivity: A counterexample to the conventional semidirect aerosol effect
+  lead: In Journal of Geophysical Research-Atmospheres, 2010
+  article 'Perlwitz_and_Miller_2010
+    insert Perlwitz_and_Miller_2010_abstract
+
+  name: Pozzer et al., 2012
+  title: Effects of business-as-usual anthropogenic emissions on air quality
+  lead: In Atmos. Chem. Phys., 2012
+  article 'Pozzer_et_al_2012
+    insert Pozzer_et_al_2012_abstract
+
+  name: Ehhalt and Heidt, 1973
+  title: VERTICAL PROFILES OF CH4 IN TROPOSPHERE AND STRATOSPHERE
+  lead: In Journal of Geophysical Research, 1973
+  article 'Ehhalt_and_Heidt_1973
+    insert Ehhalt_and_Heidt_1973_abstract
+
+  name: Freckleton et al., 1998
+  title: Greenhouse gas radiative forcing: Effects of averaging and inhomogeneities in trace gas distribution
+  lead: In Quarterly Journal of the Royal Meteorological Society, 1998
+  article 'Freckleton_et_al_1998
+    insert Freckleton_et_al_1998_abstract
+
+  name: Azar and Johansson, 2012
+  title: On the relationship between metrics to compare greenhouse gases – the case of IGTP, GWP and SGTP
+  lead: In Earth Syst. Dynam., 2012
+  article 'Azar_and_Johansson_2012
+    insert Azar_and_Johansson_2012_abstract
+
+  name: Peeters et al., 2009
+  title: HO(x) radical regeneration in the oxidation of isoprene
+  lead: In Physical Chemistry Chemical Physics, 2009
+  article 'Peeters_et_al_2009
+    insert Peeters_et_al_2009_abstract
+
+  name: Xia and Robock, 2013
+  title: Impacts of a nuclear war in South Asia on rice production in Mainland China
+  lead: In Climatic Change, 2013
+  article 'Xia_and_Robock_2013
+    insert Xia_and_Robock_2013_abstract
+
+  name: Crook and Forster, 2011
+  title: A balance between radiative forcing and climate feedback in the modeled 20th century temperature response
+  lead: In Journal of Geophysical Research-Atmospheres, 2011
+  article 'Crook_and_Forster_2011
+    insert Crook_and_Forster_2011_abstract
+
+  name: Puma and Cook, 2010
+  title: Effects of irrigation on global climate during the 20th century
+  lead: In Journal of Geophysical Research-Atmospheres, 2010
+  article 'Puma_and_Cook_2010
+    insert Puma_and_Cook_2010_abstract
+
+  name: Takemura, 2012
+  title: Distributions and climate effects of atmospheric aerosols from the preindustrial era to 2100 along Representative Concentration Pathways (RCPs) simulated using the global aerosol model SPRINTARS
+  lead: In Atmospheric Chemistry and Physics, 2012
+  article 'Takemura_2012
+    insert Takemura_2012_abstract
+
+  name: Lee et al., 2011
+  title: Observed increase in local cooling effect of deforestation at higher latitudes
+  lead: In Nature, 2011
+  article 'Lee_et_al_2011
+    insert Lee_et_al_2011_abstract
+
+  name: Shindell et al., 2006
+  title: Role of tropospheric ozone increases in 20th-century climate change
+  lead: In Journal of Geophysical Research-Atmospheres, 2006
+  article 'Shindell_et_al_2006a
+    insert Shindell_et_al_2006a_abstract
+
+  name: Kirkby et al., 2011
+  title: Role of sulphuric acid, ammonia and galactic cosmic rays in atmospheric aerosol nucleation
+  lead: In Nature, 2011
+  article 'Kirkby_et_al_2011
+    insert Kirkby_et_al_2011_abstract
+
+  name: Koch et al., 2009b
+  title: Evaluation of black carbon estimations in global aerosol models
+  lead: In Atmospheric Chemistry and Physics, 2009
+  article 'Koch_et_al_2009b
+    insert Koch_et_al_2009b_abstract
+
+  name: Sharma et al., 2004
+  title: Long-term trends of the black carbon concentrations in the Canadian Arctic
+  lead: In Journal of Geophysical Research-Atmospheres, 2004
+  article 'Sharma_et_al_2004
+    insert Sharma_et_al_2004_abstract
+
+  name: Trenberth and Dai, 2007
+  title: Effects of Mount Pinatubo volcanic eruption on the hydrological cycle as an analog of geoengineering
+  lead: In Geophysical Research Letters, 2007
+  article 'Trenberth_and_Dai_2007
+    insert Trenberth_and_Dai_2007_abstract
+
+  name: Randel and Wu, 2007
+  title: A stratospheric ozone profile data set for 1979-2005: Variability, trends, and comparisons with column ozone data
+  lead: In Journal of Geophysical Research-Atmospheres, 2007
+  article 'Randel_and_Wu_2007
+    insert Randel_and_Wu_2007_abstract
+
+  name: Lee et al., 2009
+  title: The Influence of Solar Forcing on Tropical Circulation
+  lead: In Journal of Climate, 2009
+  article 'Lee_et_al_2009
+    insert Lee_et_al_2009_abstract
+
+  name: Cooper et al., 2010
+  title: Increasing springtime ozone mixing ratios in the free troposphere over western North America
+  lead: In Nature, 2010
+  article 'Cooper_et_al_2010
+    insert Cooper_et_al_2010_abstract
+
+  name: Shindell and Faluvegi, 2009
+  title: Climate response to regional radiative forcing during the twentieth century
+  lead: In Nature Geoscience, 2009
+  article 'Shindell_and_Faluvegi_2009
+    insert Shindell_and_Faluvegi_2009_abstract
+
+  name: Shindell et al., 2013
+  title: Interactive ozone and methane chemistry in GISS-E2 historical and future climate simulations
+  lead: In Atmos. Chem. Phys., 2013
+  article 'Shindell_et_al_2013
+    insert Shindell_et_al_2013_abstract
+
+  name: Wang et al., 2005
+  title: Modeling the sun's magnetic field and irradiance since 1713
+  lead: In Astrophysical Journal, 2005
+  article 'Wang_et_al_2005
+    insert Wang_et_al_2005_abstract
+
+  name: Fishman et al., 2010
+  title: An investigation of widespread ozone damage to the soybean crop in the upper Midwest determined from ground-based and satellite measurements
+  lead: In Atmospheric Environment, 2010
+  article 'Fishman_et_al_2010
+    insert Fishman_et_al_2010_abstract
+
+  name: Lauder et al., 2013
+  title: Offsetting methane emissions — An alternative to emission equivalence metrics
+  lead: In International Journal of Greenhouse Gas Control, 2013
+  article 'Lauder_et_al_2013
+    insert Lauder_et_al_2013_abstract
+
+  name: Bellouin et al., 2011
+  title: Aerosol forcing in the Climate Model Intercomparison Project (CMIP5) simulations by HadGEM2-ES and the role of ammonium nitrate
+  lead: In Journal of Geophysical Research-Atmospheres, 2011
+  article 'Bellouin_et_al_2011
+    insert Bellouin_et_al_2011_abstract
+
+  name: Bonfils et al., 2012
+  title: On the influence of shrub height and expansion on northern high latitude climate
+  lead: In Environmental Research Letters, 2012
+  article 'Bonfils_et_al_2012
+    insert Bonfils_et_al_2012_abstract
+
+  name: Fan et al., 2009
+  title: Understanding Changes in the Asian Summer Monsoon over the Past Millennium: Insights from a Long-Term Coupled Model Simulation
+  lead: In Journal of Climate, 2009
+  article 'Fan_et_al_2009
+    insert Fan_et_al_2009_abstract
+
+  name: Oreopoulos et al., 2012
+  title: The Continual Intercomparison of Radiation Codes: Results from Phase I
+  lead: In Journal of Geophysical Research-Atmospheres, 2012
+  article 'Oreopoulos_et_al_2012
+    insert Oreopoulos_et_al_2012_abstract
+
+  name: Mader et al., 2010
+  title: Evidence for the effectiveness of the Montreal Protocol to protect the ozone layer
+  lead: In Atmospheric Chemistry and Physics, 2010
+  article 'Mader_et_al_2010
+    insert Mader_et_al_2010_abstract
+
+  name: Boer and Yu, 2003
+  title: Climate sensitivity and response
+  lead: In Climate Dynamics, 2003
+  article 'Boer_and_Yu_2003
+    insert Boer_and_Yu_2003_abstract
+
+  name: Hallquist et al., 2009
+  title: The formation, properties and impact of secondary organic aerosol: current and emerging issues
+  lead: In Atmospheric Chemistry and Physics, 2009
+  article 'Hallquist_et_al_2009
+    insert Hallquist_et_al_2009_abstract
+
+  name: Krivova et al., 2010
+  title: Reconstruction of solar spectral irradiance since the Maunder minimum
+  lead: In Journal of Geophysical Research-Space Physics, 2010
+  article 'Krivova_et_al_2010
+    insert Krivova_et_al_2010_abstract
+
+  name: Vasekova et al., 2006
+  title: FTIR spectroscopy and radiative forcing of octafluorocyclobutane and octofluorocyclopentene
+  lead: In Journal of Quantitative Spectroscopy &amp; Radiative Transfer, 2006
+  article 'Vasekova_et_al_2006
+    insert Vasekova_et_al_2006_abstract
+
+  name: Shine et al., 2012
+  title: The Water Vapour Continuum: Brief History and Recent Developments
+  lead: In Surveys in Geophysics, 2012
+  article 'Shine_et_al_2012
+    insert Shine_et_al_2012_abstract
+
+  name: Struthers et al., 2011
+  title: The effect of sea ice loss on sea salt aerosol concentrations and the radiative balance in the Arctic
+  lead: In Atmospheric Chemistry and Physics, 2011
+  article 'Struthers_et_al_2011
+    insert Struthers_et_al_2011_abstract
+
+  name: Shindell et al., 2012b
+  title: Precipitation response to regional radiative forcing
+  lead: In Atmos. Chem. Phys., 2012
+  article 'Shindell_et_al_2012b
+    insert Shindell_et_al_2012b_abstract
+
+  name: Gray et al., 2009
+  title: Stratospheric Temperature and Radiative Forcing Response to 11-Year Solar Cycle Changes in Irradiance and Ozone
+  lead: In Journal of the Atmospheric Sciences, 2009
+  article 'Gray_et_al_2009
+    insert Gray_et_al_2009_abstract
+
+  name: Arora et al., 2013
+  title: Carbon-concentration and carbon-climate feedbacks in CMIP5 Earth system models
+  lead: In Journal of Climate, 2013
+  article 'Arora_et_al_2013
+    insert Arora_et_al_2013_abstract
+
+  name: Kravitz and Robock, 2011
+  title: Climate effects of high-latitude volcanic eruptions: Role of the time of year
+  lead: In Journal of Geophysical Research-Atmospheres, 2011
+  article 'Kravitz_and_Robock_2011
+    insert Kravitz_and_Robock_2011_abstract
+
+  name: Leibensperger et al., 2012
+  title: Climatic effects of 1950-2050 changes in US anthropogenic aerosols - Part 1: Aerosol trends and radiative forcing
+  lead: In Atmospheric Chemistry and Physics, 2012
+  article 'Leibensperger_et_al_2012a
+    insert Leibensperger_et_al_2012a_abstract
+
+  name: Haywood et al., 2010
+  title: Observations of the eruption of the Sarychev volcano and simulations using the HadGEM2 climate model
+  lead: In Journal of Geophysical Research-Atmospheres, 2010
+  article 'Haywood_et_al_2010
+    insert Haywood_et_al_2010_abstract
+
+  name: Bravo et al., 2010
+  title: Infrared absorption spectra, radiative efficiencies, and global warming potentials of perfluorocarbons: Comparison between experiment and theory
+  lead: In Journal of Geophysical Research-Atmospheres, 2010
+  article 'Bravo_et_al_2010
+    insert Bravo_et_al_2010_abstract
+
+  name: Wang et al., 2009
+  title: Impact of anthropogenic aerosols on Indian summer monsoon
+  lead: In Geophysical Research Letters, 2009
+  article 'Wang_et_al_2009
+    insert Wang_et_al_2009_abstract
+
+  name: Pitman et al., 2009
+  title: Uncertainties in climate responses to past land cover change: First results from the LUCID intercomparison study
+  lead: In Geophysical Research Letters, 2009
+  article 'Pitman_et_al_2009
+    insert Pitman_et_al_2009_abstract
+
+  name: Schaaf et al., 2002
+  title: First operational BRDF, albedo nadir reflectance products from MODIS
+  lead: In Remote Sensing of Environment, 2002
+  article 'Schaaf_et_al_2002
+    insert Schaaf_et_al_2002_abstract
+
+  name: Forster et al., 2005
+  title: Resolution of the uncertainties in the radiative forcing of HFC-134a
+  lead: In Journal of Quantitative Spectroscopy &amp; Radiative Transfer, 2005
+  article 'Forster_et_al_2005
+    insert Forster_et_al_2005_abstract
+
+  name: Robock et al., 2007
+  title: Nuclear winter revisited with a modern climate model and current nuclear arsenals: Still catastrophic consequences
+  lead: In Journal of Geophysical Research-Atmospheres, 2007
+  article 'Robock_et_al_2007a
+    insert Robock_et_al_2007a_abstract
+
+  name: Fletcher et al., 2009
+  title: Circulation responses to snow albedo feedback in climate change
+  lead: In Geophysical Research Letters, 2009
+  article 'Fletcher_et_al_2009
+    insert Fletcher_et_al_2009_abstract
+
+  name: Frohlich, 2009
+  title: Evidence of a long-term trend in total solar irradiance
+  lead: In Astronomy &amp; Astrophysics, 2009
+  article 'Frohlich_2009
+    insert Frohlich_2009_abstract
+
+  name: Rechid et al., 2009
+  title: Parameterization of snow-free land surface albedo as a function of vegetation phenology based on MODIS data and applied in climate modelling
+  lead: In Theoretical and Applied Climatology, 2009
+  article 'Rechid_et_al_2009
+    insert Rechid_et_al_2009_abstract
+
+  name: Eyring et al., 2010b
+  title: Sensitivity of 21st century stratospheric ozone to greenhouse gas scenarios
+  lead: In Geophysical Research Letters, 2010
+  article 'Eyring_et_al_2010b
+    insert Eyring_et_al_2010b_abstract
+
+  name: Rotenberg and Yakir, 2010
+  title: Contribution of Semi-Arid Forests to the Climate System
+  lead: In Science, 2010
+  article 'Rotenberg_and_Yakir_2010
+    insert Rotenberg_and_Yakir_2010_abstract
+
+  name: Unger et al., 2010
+  title: Attribution of climate forcing to economic sectors
+  lead: In Proceedings of the National Academy of Sciences of the United States of America, 2010
+  article 'Unger_et_al_2010
+    insert Unger_et_al_2010_abstract
+
+  name: Solanki and Krivova, 2004
+  title: Solar irradiance variations: From current measurements to long-term estimates
+  lead: In Solar Physics, 2004
+  article 'Solanki_and_Krivova_2004
+    insert Solanki_and_Krivova_2004_abstract
+
+  name: Thomason and Peter, 2006
+  title: Assessment of Stratospheric Aerosol Properties (ASAP)
+  report 'Thomason_and_Peter_2006
+    insert Thomason_and_Peter_2006_abstract
+
+  name: Kopp and Lean, 2011
+  title: A new, lower value of total solar irradiance: Evidence and climate significance
+  lead: In Geophysical Research Letters, 2011
+  article 'Kopp_and_Lean_2011
+    insert Kopp_and_Lean_2011_abstract
+
+  name: Deuber et al., 2013
+  title: Physico-economic evaluation of climate metrics: A conceptual framework
+  lead: In Environmental Science &amp; Policy, 2013
+  article 'Deuber_et_al_2013
+    insert Deuber_et_al_2013_abstract
+
+  name: Soukharev and Hood, 2006
+  title: Solar cycle variation of stratospheric ozone: Multiple regression analysis of long-term satellite data sets and comparisons with models
+  lead: In Journal of Geophysical Research-Atmospheres, 2006
+  article 'Soukharev_and_Hood_2006
+    insert Soukharev_and_Hood_2006_abstract
+
+  name: Smith and Balogh, 2008
+  title: Decrease in heliospheric magnetic flux in this solar minimum: Recent Ulysses magnetic field observations
+  lead: In Geophysical Research Letters, 2008
+  article 'Smith_and_Balogh_2008
+    insert Smith_and_Balogh_2008_abstract
+
+  name: Otterå et al., 2010
+  title: External forcing as a metronome for Atlantic multidecadal variability
+  lead: In Nature Geoscience, 2010
+  article 'Otter_et_al_2010
+    insert Otter_et_al_2010_abstract
+
+  name: Long and Collins, 2013
+  title: Quantifying global climate feedbacks, responses and forcing under abrupt and gradual CO2 forcing
+  lead: In Climate Dynamics, 2013
+  article 'Long_and_Collins_2013
+    insert Long_and_Collins_2013_abstract
+
+  name: Olsen et al., 2001
+  title: Stratospheric N2O–NOy system: Testing uncertainties in a three-dimensional framework
+  lead: In J. Geophys. Res., 2001
+  article 'Olsen_et_al_2001
+    insert Olsen_et_al_2001_abstract
+
+  name: Solomon, 1999
+  title: Stratospheric ozone depletion: A review of concepts and history
+  lead: In Reviews of Geophysics, 1999
+  article 'Solomon_1999
+    insert Solomon_1999_abstract
+
+  name: Bollasina et al., 2011
+  title: Anthropogenic Aerosols and the Weakening of the South Asian Summer Monsoon
+  lead: In Science, 2011
+  article 'Bollasina_et_al_2011
+    insert Bollasina_et_al_2011_abstract
+
+  name: Stevenson et al., 2013
+  title: Tropospheric ozone changes, radiative forcing and attribution to emissions in the Atmospheric Chemistry and Climate Model Intercomparison Project (ACCMIP)
+  lead: In Atmos. Chem. Phys., 2013
+  article 'Stevenson_et_al_2013
+    insert Stevenson_et_al_2013_abstract
+
+  name: Claussen et al., 2001
+  title: Biogeophysical versus biogeochemical feedbacks of large-scale land cover change
+  lead: In Geophysical Research Letters, 2001
+  article 'Claussen_et_al_2001
+    insert Claussen_et_al_2001_abstract
+
+  name: Ming et al., 2011
+  title: A Model Investigation of Aerosol-Induced Changes in Boreal Winter Extratropical Circulation
+  lead: In Journal of Climate, 2011
+  article 'Ming_et_al_2011
+    insert Ming_et_al_2011_abstract
+
+  name: Shindell et al., 2009
+  title: Improved Attribution of Climate Forcing to Emissions
+  lead: In Science, 2009
+  article 'Shindell_et_al_2009
+    insert Shindell_et_al_2009_abstract
+
+  name: Rypdal et al., 2005
+  title: Tropospheric ozone and aerosols in climate agreements: scientific and political challenges
+  lead: In Environmental Science &amp; Policy, 2005
+  article 'Rypdal_et_al_2005
+    insert Rypdal_et_al_2005_abstract
+
+  name: Houghton et al., 1990
+  title: Climate Change. The IPCC Scientific Assessment
+  report 'Houghton_et_al_1990
+    insert Houghton_et_al_1990_abstract
+
+  name: Stephens et al., 2004
+  title: On the radiative effects of dust on tropical convection
+  lead: In Geophysical Research Letters, 2004
+  article 'Stephens_et_al_2004
+    insert Stephens_et_al_2004_abstract
+
+  name: Lamarque et al., 2010
+  title: Historical (1850-2000) gridded anthropogenic and biomass burning emissions of reactive gases and aerosols: methodology and application
+  lead: In Atmospheric Chemistry and Physics, 2010
+  article 'Lamarque_et_al_2010
+    insert Lamarque_et_al_2010_abstract
+
+  name: Vernier et al., 2011
+  title: Major influence of tropical volcanic eruptions on the stratospheric aerosol layer during the last decade
+  lead: In Geophysical Research Letters, 2011
+  article 'Vernier_et_al_2011
+    insert Vernier_et_al_2011_abstract
+
+  name: Huijnen et al., 2010
+  title: The global chemistry transport model TM5: description and evaluation of the tropospheric chemistry version 3.0
+  lead: In Geoscientific Model Development, 2010
+  article 'Huijnen_et_al_2010
+    insert Huijnen_et_al_2010_abstract
+
+  name: Swann et al., 2012
+  title: Mid-latitude afforestation shifts general circulation and tropical precipitation
+  lead: In Proceedings of the National Academy of Sciences of the United States of America, 2012
+  article 'Swann_et_al_2012
+    insert Swann_et_al_2012_abstract
+
+  name: Jackson, 2009
+  title: Parallel Pursuit of Near-Term and Long-Term Climate Mitigation
+  lead: In Science, 2009
+  article 'Jackson_2009
+    insert Jackson_2009_abstract
+
+  name: Betts, 2000
+  title: Offset of the potential carbon sink from boreal forestation by decreases in surface albedo
+  lead: In Nature, 2000
+  article 'Betts_2000
+    insert Betts_2000_abstract
+
+  name: Schultz et al., 2008
+  title: Global wildland fire emissions from 1960 to 2000
+  lead: In Global Biogeochemical Cycles, 2008
+  article 'Schultz_et_al_2008
+    insert Schultz_et_al_2008_abstract
+
+  name: MacMynowski et al., 2011
+  title: The frequency response of temperature and precipitation in a climate model
+  lead: In Geophysical Research Letters, 2011
+  article 'MacMynowski_et_al_2011
+    insert MacMynowski_et_al_2011_abstract
+
+  name: Hoyle et al., 2011
+  title: A review of the anthropogenic influence on biogenic secondary organic aerosol
+  lead: In Atmospheric Chemistry and Physics, 2011
+  article 'Hoyle_et_al_2011
+    insert Hoyle_et_al_2011_abstract
+
+  name: Worden et al., 2011
+  title: Sensitivity of outgoing longwave radiative flux to the global vertical distribution of ozone characterized by instantaneous radiative kernels from Aura-TES
+  lead: In Journal of Geophysical Research-Atmospheres, 2011
+  article 'Worden_et_al_2011
+    insert Worden_et_al_2011_abstract
+
+  name: Forster and Shine, 1997
+  title: Radiative forcing and temperature trends from stratospheric ozone changes
+  lead: In Journal of Geophysical Research-Atmospheres, 1997
+  article 'Forster_and_Shine_1997
+    insert Forster_and_Shine_1997_abstract
+
+  name: Ming and Ramaswamy, 2012
+  title: Nonlocal component of radiative flux perturbation
+  lead: In Geophysical Research Letters, 2012
+  article 'Ming_and_Ramaswamy_2012
+    insert Ming_and_Ramaswamy_2012_abstract
+
+  name: Kasischke and Penner, 2004
+  title: Improving global estimates of atmospheric emissions from biomass burning
+  lead: In Journal of Geophysical Research-Atmospheres, 2004
+  article 'Kasischke_and_Penner_2004
+    insert Kasischke_and_Penner_2004_abstract
+
+  name: Lamarque et al., 2011
+  title: Global and regional evolution of short-lived radiatively-active gases and aerosols in the Representative Concentration Pathways
+  lead: In Climatic Change, 2011
+  article 'Lamarque_et_al_2011
+    insert Lamarque_et_al_2011_abstract
+
+  name: Berntsen and Fuglestvedt, 2008
+  title: Global temperature responses to current emissions from the transport sectors
+  lead: In Proceedings of the National Academy of Sciences of the United States of America, 2008
+  article 'Berntsen_and_Fuglestvedt_2008
+    insert Berntsen_and_Fuglestvedt_2008_abstract
+
+  name: Forster et al., 2007
+  title: Changes in Atmospheric Constituents and in Radiative Forcing
+  lead: In Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, 2007
+  booksec 'Forster_et_al_2007
+    insert Forster_et_al_2007_abstract
+
+  name: Zeng et al., 2008
+  title: Impact of climate change on tropospheric ozone and its global budgets
+  lead: In Atmospheric Chemistry and Physics, 2008
+  article 'Zeng_et_al_2008
+    insert Zeng_et_al_2008_abstract
+
+  name: Roscoe and Haigh, 2007
+  title: Influences of ozone depletion, the solar cycle and the QBO on the Southern Annular Mode
+  lead: In Quarterly Journal of the Royal Meteorological Society, 2007
+  article 'Roscoe_and_Haigh_2007
+    insert Roscoe_and_Haigh_2007_abstract
+
+  name: Kuroda and Kodera, 2005
+  title: Solar cycle modulation of the southern annular mode
+  lead: In Geophysical Research Letters, 2005
+  article 'Kuroda_and_Kodera_2005
+    insert Kuroda_and_Kodera_2005_abstract
+
+  name: Hansen et al., 2007
+  title: Climate simulations for 1880-2003 with GISS modelE
+  lead: In Climate Dynamics, 2007
+  article 'Hansen_et_al_2007
+    insert Hansen_et_al_2007_abstract
+
+  name: Blowers et al., 2008
+  title: Global warming potential predictions for hydrofluoroethers with two carbon atoms
+  lead: In Theoretical Chemistry Accounts, 2008
+  article 'Blowers_et_al_2008
+    insert Blowers_et_al_2008_abstract
+
+  name: Archibald et al., 2010
+  title: An isoprene mechanism intercomparison
+  lead: In Atmospheric Environment, 2010
+  article 'Archibald_et_al_2010
+    insert Archibald_et_al_2010_abstract
+
+  name: Marenco et al., 1994
+  title: EVIDENCE OF A LONG-TERM INCREASE IN TROPOSPHERIC OZONE FROM PIC DU MIDI DATA SERIES - CONSEQUENCES - POSITIVE RADIATIVE FORCING
+  lead: In Journal of Geophysical Research-Atmospheres, 1994
+  article 'Marenco_et_al_1994
+    insert Marenco_et_al_1994_abstract
+
+  name: Jacobson, 2010
+  title: Short-term effects of controlling fossil-fuel soot, biofuel soot and gases, and methane on climate, Arctic ice, and air pollution health
+  lead: In Journal of Geophysical Research-Atmospheres, 2010
+  article 'Jacobson_2010
+    insert Jacobson_2010_abstract
+
+  name: Deligne et al., 2010
+  title: Recurrence rates of large explosive volcanic eruptions
+  lead: In Journal of Geophysical Research-Solid Earth, 2010
+  article 'Deligne_et_al_2010
+    insert Deligne_et_al_2010_abstract
+
+    

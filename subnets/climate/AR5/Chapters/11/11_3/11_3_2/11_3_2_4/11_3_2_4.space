@@ -1,0 +1,27 @@
+
+public: ar5-11.3.2.4
+name: Section 11.3.2.4
+title: 11.3.2.4 - Atmospheric Circulation
+section 11_3_2_4
+
+  |In the NH extratropics, some {Topics.*Climate_System Atmosphere}–Ocean General Circulation Models ({Glossary.*Atmosphere_Ocean_General_Circulation_Model AOGCMs}) indicate changes to atmospheric circulation from {Topics.*Radiative_Forcing anthropogenic forcing} by the mid-21st century. Increases in {Glossary.*Greenhouse_gas GHGs}, and related dynamical processes, are {Topics.*Climate_Projections projected} to lead to poleward shifts in the annual mean position of Southern Hemisphere (SH) extratropical {Glossary.*Storm_tracks storm tracks} and winds. Increases in GHGs are also expected to lead to a poleward shift of the {Glossary.*Hadley_Circulation Hadley Circulation}. A warming of the tropics should lead to a weakening of the zonally asymmetric or {Glossary.*Walker_Circulation Walker Circulation}.
+
+
+  apply FullText
+
+  
+
+  include
+    - 11_3_2_4_1
+    - 11_3_2_4_2
+    - 11_3_2_4_3
+
+  name: Section 11.3.2.4 - Full Text
+  path FullText
+    name: Northern Hemisphere extratropical circulation
+    step
+      include
+        - Chapters.11.11_3.11_3_2.11_3_2_4.11_3_2_4_1.SectionDoc
+        - Chapters.11.11_3.11_3_2.11_3_2_4.11_3_2_4_2.SectionDoc
+        - Chapters.11.11_3.11_3_2.11_3_2_4.11_3_2_4_3.SectionDoc
+    

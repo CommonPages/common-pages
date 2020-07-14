@@ -1,0 +1,15 @@
+
+public: ar5-12.4.5.1
+name: Section 12.4.5.1
+title: 12.4.5.1 - Atmospheric Humidity
+section 12_4_5_1
+
+  |Atmospheric water vapour is the primary GHG in the {Topics.*Climate_System atmosphere}. Its changes affect all parts of the {Glossary.*Water_cycle water cycle}. However, the amount of water vapour is dominated by naturally occurring processes and not significantly affected directly by {Topics.*Human_Influence human activities}. Analysis of CMIP3 and CMIP5 models shows near-surface {Glossary.*Relative_humidity relative humidity} (RH) decreasing over most land areas as temperatures increase with the notable exception of parts of tropical Africa.
+
+
+  
+
+  insert SectionDoc
+
+
+    

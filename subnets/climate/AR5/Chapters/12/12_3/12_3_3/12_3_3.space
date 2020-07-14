@@ -1,0 +1,15 @@
+
+public: ar5-12.3.3
+name: Section 12.3.3
+title: 12.3.3 - Synthesis of Projected Global Mean Radiative Forcing for the 21st Century
+section 12_3_3
+
+  |Global mean {Topics.*Radiative_Forcing forcing} {Topics.*Climate_Projections projections} derived from {Topics.*Climate_Modelling climate models} exhibit a substantial range for the given RCP {Topics.*Scenarios scenarios} in concentration-driven experiments, contributing to the projected {Topics.*Surface_Temperature global mean temperature} range. Forcings derived from ACCMIP models for 2100 are systematically higher than those estimated from CMIP5 models for reasons that are not fully understood but are partly due to methodological differences. The multi-model mean estimate of combined {Glossary.*Anthropogenic anthropogenic} plus natural forcing from CMIP5 is consistent with indicative RCP forcing values at 2100 to within 0.2 to 0.4 W m–2.
+
+
+  
+
+  insert SectionDoc
+
+
+    

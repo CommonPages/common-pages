@@ -1,0 +1,6 @@
+index: hide
+public: ar5-
+name: Section 9.6.2
+title: 9.6.2 - Regional Climate Downscaling
+
+{Glossary.*Regional_Climate_Model Regional Climate Models} (RCMs) are applied over a limited-area domain with boundary conditions either from global reanalyses or global {Topics.*Climate_Modelling climate model} output. The use of RCMs for ‘dynamical {Glossary.*Downscaling downscaling}’ has grown since the {cite.1.'IPCC_2007 AR4}, their {Glossary.*Resolution resolution} has increased, process-descriptions have developed further, new components have been added, and coordinated experimentation has become more widespread ({cite.9.'Laprise_2008}; {cite.9.'Rummukainen_2010}). Statistical downscaling (SD) involves deriving empirical relationships linking large-scale atmospheric variables (predictors) and local/{Topics.*Regional_Climate regional climate} variables (predictands). These relationships may then be applied to equivalent predictors from global models. SD methods have also been applied to RCM output (e.g., {cite.9.'Boe_et_al_2007}; Déqué, 2007; {cite.9.'Segui_et_al_2010}; {cite.9.'Paeth_2011}; van Vliet et al., 2011). A significant constraint in a comprehensive evaluation of regional downscaling is that available studies often involve different methods, regions, periods and observational data for evaluation. Thus, evaluation results are difficult to generalize.

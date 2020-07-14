@@ -1,0 +1,15 @@
+
+public: ar5-9.7.2.4
+name: Section 9.7.2.4
+title: 9.7.2.4 - Relationship of Feedbacks to Modelled Climate Sensitivity
+section 9_7_2_4
+
+  |The ECS can be estimated from the ratio of {Topics.*Radiative_Forcing forcing} to the total climate {Glossary.*Feedback feedback} parameter. This approach is applicable to simulations in which the net radiative balance is much smaller than the forcing and hence the modelled climate system is essentially in equilibrium.
+
+
+  
+
+  insert SectionDoc
+
+
+    

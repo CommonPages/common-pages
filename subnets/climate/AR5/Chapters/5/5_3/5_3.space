@@ -1,0 +1,39 @@
+
+public: ar5-5.3
+name: Section 5.3
+title: 5.3 - Earth System Responses and Feedbacks at Global and Hemispheric Scales
+section 5_3
+
+  |The mean Northern Hemisphere temperature of the last 30 or 50 years very likely exceeded any previous 30 or 50-year mean during the past 800 years. Similar results are found for the Southern Hemisphere, albeit with lower confidence. It is very likely that the average rate of temperature change since the last {Glossary.*Deglaciation_glacial_termination deglaciation} falls within 0.3 to 0.8°C per thousand years. It is very likely that Equilibrium Climate Sensitivity (ECS) is greater than 1°C, and very unlikely that ECS exceeds 6°C.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 5_3_1
+    - 5_3_2
+    - 5_3_3
+    - 5_3_4
+    - 5_3_5
+
+  name: Section 5.3 - Full Text
+  path FullText
+    name: Earth System Responses and Feedbacks at Global and Hemispheric Scales
+    step
+      include
+        - Chapters.5.5_3.SectionDoc
+        - Chapters.5.5_3.5_3_1.SectionDoc
+        - Chapters.5.5_3.5_3_2.5_3_2_1.SectionDoc
+        - Chapters.5.5_3.5_3_2.5_3_2_2.SectionDoc
+        - Chapters.5.5_3.5_3_2.5_3_2_3.SectionDoc
+        - Chapters.5.5_3.5_3_3.SectionDoc
+        - Chapters.5.5_3.5_3_3.5_3_3_1.SectionDoc
+        - Chapters.5.5_3.5_3_3.5_3_3_2.SectionDoc
+        - Chapters.5.5_3.5_3_4.SectionDoc
+        - Chapters.5.5_3.5_3_5.SectionDoc
+        - Chapters.5.5_3.5_3_5.5_3_5_1.SectionDoc
+        - Chapters.5.5_3.5_3_5.5_3_5_2.SectionDoc
+        - Chapters.5.5_3.5_3_5.5_3_5_3.SectionDoc
+    

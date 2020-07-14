@@ -1,0 +1,15 @@
+
+public: ar5-7.2.3.1
+name: Section 7.2.3.1
+title: 7.2.3.1 - Challenges of Parameterization
+section 7_2_3_1
+
+  |The simulation of clouds in modern {Topics.*Climate_Modelling climate models} involves several parameterizations that must work in unison. These include {Glossary.*Parameterization parameterization} of turbulence, cumulus {Glossary.*Convection convection}, microphysical processes, radiative transfer and the resulting cloud amount (including the vertical overlap between different grid levels), as well as sub-grid scale transport of {Glossary.*Aerosol aerosol} and chemical species.
+
+
+  
+
+  insert SectionDoc
+
+
+    

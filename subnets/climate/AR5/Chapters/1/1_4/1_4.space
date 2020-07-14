@@ -1,0 +1,29 @@
+
+public: ar5-1.4
+name: Section 1.4
+title: 1.4 - Treatment of Uncertainties
+section 1_4
+
+  |Science always involves {Topics.*Uncertainty uncertainties}. The complexity of the climate system and the large range of processes involved, however, bring particular challenges. Readers are advised to pay close attention to the caveats and conditions that surround the results presented in this assessment. To help readers in this complex and subtle task, the IPCC draws on specific, calibrated language scales to express uncertainty, as well as specific procedures for the expression of uncertainty (see {'Table_1_2 Table 1.2}).
+
+
+  apply FullText
+
+  
+
+  include
+    - 1_4_1
+    - 1_4_2
+    - 1_4_3
+    - 1_4_4
+
+  name: Section 1.4 - Full Text
+  path FullText
+    name: Uncertainty in Environmental Science
+    step
+      include
+        - Chapters.1.1_4.1_4_1.SectionDoc
+        - Chapters.1.1_4.1_4_2.SectionDoc
+        - Chapters.1.1_4.1_4_3.SectionDoc
+        - Chapters.1.1_4.1_4_4.SectionDoc
+    

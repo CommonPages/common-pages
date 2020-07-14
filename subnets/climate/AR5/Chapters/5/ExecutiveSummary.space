@@ -1,0 +1,246 @@
+
+
+name: Chapter 5 - Conclusions
+lead: Formal conclusions presented in Chapter 5.
+conclusions ExecutiveSummary
+
+
+  name: Greenhouse-Gas Variations and Past Climate Responses
+
+  insert
+    - C1
+    - C2
+    - C3
+    - C4
+    - C5
+    - C6
+
+  name: Global Sea Level Changes During Past Warm Periods
+
+  insert
+    - C7
+    - C8
+    - C9
+
+  name: Observed Recent Climate Change in the Context of Interglacial Climate Variability
+
+  insert
+    - C10
+    - C11
+    - C12
+    - C13
+    - C14
+    - C15
+    - C16
+    - C17
+
+  name: Past Changes in Climate Modes
+
+  insert
+    - C18
+    - C19
+    - C20
+
+  name: Abrupt Climate Change and Irreversibility
+
+  insert
+    - C21
+    - C22
+    - C23
+    - C24
+
+
+  index: hide
+  let C1
+    |<strong>It is a fact that present-day (2011) concentrations of the atmospheric greenhouse gases ({Glossary.*Greenhouse_gas GHGs}) carbon dioxide ({Glossary.*Carbon_dioxide CO2}), methane ({Glossary.*Methane_CH4 CH4}) and nitrous oxide ({Glossary.*Nitrous_oxide_N2O N2O}) exceed the range of concentrations recorded in ice cores during the past 800,000 years.
+    |</strong> Past changes in atmospheric GHG concentrations can be determined with very high confidence1 from polar ice cores. Since {cite.1.'IPCC_2007 AR4} these records have been extended from 650,000 years to 800,000 years ago.
+    |
+    |See: <em>{Chapters.5.5_2.5_2_2 Section 5.2.2}
+    |</em>
+
+  index: hide
+  let C2
+    |<strong>With very high confidence, the current rates of {Glossary.*Carbon_dioxide CO2}, {Glossary.*Methane_CH4 CH4} and {Glossary.*Nitrous_oxide_N2O N2O} rise in atmospheric concentrations and the associated {Topics.*Radiative_Forcing radiative forcing} are unprecedented with respect to the highest {Glossary.*Resolution resolution} {Glossary.*Ice_core ice core} records of the last 22,000 years.
+    |</strong> There is medium confidence that the rate of change of the observed GHG rise is also unprecedented compared with the lower resolution records of the past 800,000 years.
+    |
+    |See: <em>{Chapters.5.5_2.5_2_2 Section 5.2.2}
+    |</em>
+
+  index: hide
+  let C3
+    |<strong>There is high confidence that changes in atmospheric {Glossary.*Carbon_dioxide CO2} concentration play an important role in {Glossary.*Glacial_interglacial_cycles glacial–interglacial cycles}.
+    |</strong> Although the primary driver of glacial–interglacial cycles lies in the seasonal and latitudinal distribution of incoming solar energy driven by changes in the geometry of the Earth’s orbit around the Sun (“orbital {Topics.*Radiative_Forcing forcing}”), reconstructions and simulations together show that the full magnitude of glacial–interglacial temperature and ice volume changes cannot be explained without accounting for changes in atmospheric CO2 content and the associated climate feedbacks. During the last {Glossary.*Deglaciation_glacial_termination deglaciation}, it is very likely2 that {Topics.*Surface_Temperature global mean temperature} increased by 3°C to 8°C. While the mean rate of global warming was very likely 0.3°C to 0.8°C per thousand years, two periods were marked by faster warming rates, likely between 1°C and 1.5°C per thousand years, although regionally and on shorter time scales higher rates may have occurred.
+    |
+    |See: <em>{Chapters.5.5_3.5_3_2 Section 5.3.2}
+    |</em>
+
+  index: hide
+  let C4
+    |<strong>New estimates of the equilibrium {Glossary.*Climate_sensitivity climate sensitivity} based on reconstructions and simulations of the {Glossary.*Last_Glacial_Maximum Last Glacial Maximum} (21,000 years to 19,000 years ago) show that values below 1°C as well as above 6°C for a doubling of atmospheric {Glossary.*Carbon_dioxide CO2} concentration are very unlikely.
+    |</strong> In some models climate sensitivity differs between warm and cold climates because of differences in the representation of cloud feedbacks.
+    |
+    |See: <em>{Chapters.5.5_3.5_3_3 Section 5.3.3}
+    |</em>
+
+  index: hide
+  let C5
+    |<strong>With medium confidence, global mean {Glossary.*Surface_temperature surface temperature} was significantly above pre-industrial levels during several past periods characterised by high atmospheric {Glossary.*Carbon_dioxide CO2} concentrations.
+    |</strong> During the mid-{Glossary.*Pliocene Pliocene} (3.3 to 3.0 million years ago), atmospheric CO2 concentrations between 350 ppm and 450 ppm (medium confidence) occurred when global mean {Topics.*Surface_Temperature surface temperatures} were 1.9°C to 3.6°C (medium confidence) higher than for pre-industrial climate ({Chapters.5.5_3.5_3_1 Section 5.3.1}). During the Early Eocene (52 to 48 million years ago), atmospheric CO2 concentrations exceeded ~1000 ppm (medium confidence) when global mean surface temperatures were 9°C to 14°C (medium confidence) higher than for pre-industrial conditions.
+    |
+    |See: <em>{Chapters.5.5_3.5_3_1 Section 5.3.1}
+    |</em>
+
+  index: hide
+  let C6
+    |<strong>New temperature reconstructions and simulations of {Topics.*Past_Climate past climates} show with high confidence polar amplification in response to changes in atmospheric {Glossary.*Carbon_dioxide CO2} concentration.
+    |</strong> For high CO2 climates such as the Early Eocene (52 to 48 million years ago) or mid-{Glossary.*Pliocene Pliocene} (3.3 to 3.0 million years ago), and low CO2 climates such as the {Glossary.*Last_Glacial_Maximum Last Glacial Maximum} (21,000 to 19,000 years ago), sea surface and land surface air temperature reconstructions and simulations show a stronger response to changes in atmospheric GHG concentrations at high latitudes as compared to the global average.
+    |
+    |See: <em>{Box_5_1 Box 5.1}, 5.3.1, 5.3.3
+    |</em>
+
+  index: hide
+  let C7
+    |<strong>The current rate of global mean {Topics.*Sea_Level sea level change}, starting in the late 19th-early 20th century, is, with medium confidence, unusually high in the context of centennial-scale variations of the last two millennia.
+    |</strong> The magnitude of centennial-scale global {Glossary.*Mean_sea_level mean sea level} variations did not exceed 25 cm over the past few millennia (medium confidence).
+    |
+    |See: <em>{Chapters.5.5_6.5_6_3 Section 5.6.3}
+    |</em>
+
+  index: hide
+  let C8
+    |<strong>There is very high confidence that the maximum global mean {Topics.*Sea_Level sea level} during the last interglacial period (129,000 to 116,000 years ago) was, for several thousand years, at least 5 m higher than present and high confidence that it did not exceed 10 m above present.
+    |</strong> The best estimate is 6 m higher than present. Based on {Glossary.*Ice_sheet ice sheet} model simulations consistent with elevation changes derived from a new Greenland {Glossary.*Ice_core ice core}, the Greenland ice sheet very likely contributed between 1.4 and 4.3 m {Glossary.*Sea_level_equivalent sea level equivalent}, implying with medium confidence a contribution from the Antarctic ice sheet to the global {Glossary.*Mean_sea_level mean sea level} during the last interglacial period.
+    |
+    |See: <em>{Chapters.5.5_6.5_6_2 Section 5.6.2}
+    |</em>
+
+  index: hide
+  let C9
+    |<strong>There is high confidence that global mean {Topics.*Sea_Level sea level} was above present during some warm intervals of the mid-{Glossary.*Pliocene Pliocene} (3.3 to 3.0 million years ago), implying reduced volume of polar ice sheets.
+    |</strong> The best estimates from various methods imply with high confidence that sea level has not exceeded +20 m during the warmest periods of the Pliocene, due to {Glossary.*Deglaciation_glacial_termination deglaciation} of the Greenland and West Antarctic ice sheets and areas of the East Antarctic {Glossary.*Ice_sheet ice sheet}.
+    |
+    |See: <em>{Chapters.5.5_6.5_6_1 Section 5.6.1}
+    |</em>
+
+  index: hide
+  let C10
+    |<strong>New temperature reconstructions and simulations of the warmest millennia of the last interglacial period (129,000 to 116,000 years ago) show with medium confidence that global mean annual {Topics.*Surface_Temperature surface temperatures} were never more than 2°C higher than pre-industrial.
+    |</strong> High latitude {Glossary.*Surface_temperature surface temperature}, averaged over several thousand years, was at least 2°C warmer than present (high confidence). Greater warming at high latitudes, seasonally and annually, confirm the importance of {Topics.*Climate_System cryosphere} feedbacks to the seasonal orbital {Topics.*Radiative_Forcing forcing}. During these periods, atmospheric GHG concentrations were close to the pre-industrial level.
+    |
+    |See: <em>{Chapters.5.5_3.5_3_4 Section 5.3.4}, {Box_5_1 Box 5.1}
+    |</em>
+
+  index: hide
+  let C11
+    |<strong>There is high confidence that annual mean surface warming since the 20th century has reversed long-term cooling trends of the past 5000 years in mid-to-high latitudes of the Northern Hemisphere (NH).
+    |</strong> New continentaland hemispheric-scale annual {Topics.*Surface_Temperature surface temperature} reconstructions reveal multi-millennial cooling trends throughout the past 5000 years. The last mid-to-high latitude cooling {Glossary.*Trend trend} persisted until the 19th century, and can be {Topics.*Attribution_of_Change attributed} with high confidence to orbital {Topics.*Radiative_Forcing forcing}, according to {Topics.*Climate_Modelling climate model} simulations.
+    |
+    |See: <em>{Chapters.5.5_5.5_5_1 Section 5.5.1}
+    |</em>
+
+  index: hide
+  let C12
+    |<strong>There is medium confidence from reconstructions that the current (1980–2012) summer {Glossary.*Sea_ice sea ice} retreat was unprecedented and sea {Topics.*Surface_Temperature surface temperatures} in the Arctic were anomalously high in the perspective of at least the last 1450 years.
+    |</strong> Lower than late 20th century summer Arctic sea ice cover is reconstructed and simulated for the period between 8000 and 6500 years ago in response to orbital {Topics.*Radiative_Forcing forcing}.
+    |
+    |See: <em>{Chapters.5.5_5.5_5_2 Section 5.5.2}
+    |</em>
+
+  index: hide
+  let C13
+    |<strong>There is high confidence that minima in NH extratropical {Glossary.*Glacier glacier} extent between 8000 and 6000 years ago were primarily due to high summer {Glossary.*Insolation insolation} (orbital {Topics.*Radiative_Forcing forcing}).
+    |</strong> The current glacier retreat occurs within a context of orbital forcing that would be favourable for NH glacier growth. If glaciers continue to reduce at current rates, most extratropical NH glaciers will shrink to their minimum extent, which existed between 8000 and 6000 years ago, within this century (medium confidence).
+    |
+    |See: <em>{Chapters.5.5_5.5_5_3 Section 5.5.3}
+    |</em>
+
+  index: hide
+  let C14
+    |<strong>For average annual NH temperatures, the period 1983–2012 was very likely the warmest 30-year period of the last 800 years (high confidence) and likely the warmest 30-year period of the last 1400 years (medium confidence).
+    |</strong> This is supported by comparison of instrumental temperatures with multiple reconstructions from a variety of {Glossary.*Proxy proxy} data and statistical methods, and is consistent with {cite.1.'IPCC_2007 AR4}. In response to solar, volcanic and {Glossary.*Anthropogenic anthropogenic} radiative changes, {Topics.*Climate_Modelling climate models} simulate multi-decadal temperature changes over the last 1200 years in the NH, that are generally consistent in magnitude and timing with reconstructions, within their {Topics.*Uncertainty uncertainty} ranges.
+    |
+    |See: <em>{Chapters.5.5_3.5_3_5 Section 5.3.5}
+    |</em>
+
+  index: hide
+  let C15
+    |<strong>Continental-scale {Topics.*Surface_Temperature surface temperature} reconstructions show, with high confidence, multi-decadal periods during the {Glossary.*Medieval_Climate_Anomaly Medieval Climate Anomaly} (950 to 1250) that were in some regions as warm as in the mid-20th century and in others as warm as in the late 20th century.
+    |</strong> With high confidence, these regional warm periods were not as synchronous across regions as the warming since the mid-20th century. Based on the comparison between reconstructions and simulations, there is high confidence that not only external orbital, solar and volcanic {Topics.*Radiative_Forcing forcing}, but also {Topics.*Climate_Variability internal variability}, contributed substantially to the spatial pattern and timing of {Glossary.*Surface_temperature surface temperature} changes between the Medieval Climate Anomaly and the {Glossary.*Little_Ice_Age Little Ice Age} (1450 to 1850).
+    |
+    |See: <em>Sections {Chapters.5.5_3.5_3_5.5_3_5_3 5.3.5.3} {Chapters.5.5_5.5_5_1 5.5.1}
+    |</em>
+
+  index: hide
+  let C16
+    |<strong>There is high confidence for droughts during the last millennium of greater magnitude and longer duration than those observed since the beginning of the 20th century in many regions.
+    |</strong> There is medium confidence that more megadroughts occurred in {Glossary.*Monsoon monsoon} Asia and wetter conditions prevailed in arid Central Asia and the South American monsoon {Topics.*Regional_Climate region} during the {Glossary.*Little_Ice_Age Little Ice Age} (1450 to 1850) compared to the {Glossary.*Medieval_Climate_Anomaly Medieval Climate Anomaly} (950 to 1250).
+    |
+    |See: <em>Sections {Chapters.5.5_5.5_5_4 5.5.4} and {Chapters.5.5_5.5_5_5 5.5.5}
+    |</em>
+
+  index: hide
+  let C17
+    |<strong>With high confidence, floods larger than those recorded since 1900 occurred during the past five centuries in northern and central Europe, western Mediterranean {Topics.*Regional_Climate region} and eastern Asia.
+    |</strong> There is medium confidence that modern large floods are comparable to or surpass historical floods in magnitude and/or frequency in the Near East, India and central North America.
+    |
+    |See: <em>{Chapters.5.5_5.5_5_5 Section 5.5.5}
+    |</em>
+
+  index: hide
+  let C18
+    |<strong>New results from high-{Glossary.*Resolution resolution} coral records document with high confidence that the El Niño-{Glossary.*Southern_Oscillation Southern Oscillation} ({Glossary.*El_Nin_o_Southern_Oscillation ENSO}) system has remained highly variable throughout the past 7000 years, showing no discernible evidence for an orbital modulation of ENSO.
+    |</strong> This is consistent with the weak reduction in mid-{Glossary.*Holocene Holocene} ENSO amplitude of only 10% simulated by the majority of {Topics.*Climate_Modelling climate models}, but contrasts with reconstructions reported in {cite.1.'IPCC_2007 AR4} that showed a reduction in ENSO variance during the first half of the Holocene.
+    |
+    |See: <em>{Chapters.5.5_4.5_4_1 Section 5.4.1}
+    |</em>
+
+  index: hide
+  let C19
+    |<strong>With high confidence, decadal and multi-decadal changes in the winter North Atlantic Oscillation index ({Glossary.*North_Atlantic_Oscillation NAO}) observed since the 20th century are not unprecedented in the context of the past 500 years.
+    |</strong> Periods of persistent negative or positive winter NAO phases, similar to those observed in the 1960s and 1990 to 2000s, respectively, are not unusual in the context of NAO reconstructions during at least the past 500 years.
+    |
+    |See: <em>{Chapters.5.5_4.5_4_2 Section 5.4.2}
+    |</em>
+
+  index: hide
+  let C20
+    |<strong>The increase in the strength of the observed summer {Glossary.*Southern_Annular_Mode Southern Annular Mode} since 1950 has been anomalous, with medium confidence, in the context of the past 400 years.
+    |</strong> No similar spatially coherent multi-decadal {Glossary.*Trend trend} can be detected in tree-ring indices from New Zealand, Tasmania and South America.
+    |
+    |See: <em>{Chapters.5.5_4.5_4_2 Section 5.4.2}
+    |</em>
+
+  index: hide
+  let C21
+    |<strong>With high confidence, the interglacial mode of the Atlantic Ocean {Glossary.*Meridional_Overturning_Circulation meridional overturning circulation} (AMOC) can recover from a short-term freshwater input into the subpolar North Atlantic.
+    |</strong> Approximately 8200 years ago, a sudden freshwater release occurred during the final stages of North America {Glossary.*Ice_sheet ice sheet} melting. {Glossary.*Paleoclimate Paleoclimate} observations and model results indicate, with high confidence, a marked reduction in the strength of the AMOC followed by a rapid recovery, within approximately 200 years after the perturbation.
+    |
+    |See: <em>{Chapters.5.5_8.5_8_2 Section 5.8.2}
+    |</em>
+
+  index: hide
+  let C22
+    |<strong>Confidence in the link between changes in North Atlantic climate and low-latitude precipitation patterns has increased since {cite.1.'IPCC_2007 AR4}.
+    |</strong> From new {Glossary.*Paleoclimate paleoclimate} reconstructions and modelling studies, there is very high confidence that reduced AMOC and the associated surface cooling in the North Atlantic {Topics.*Regional_Climate region} caused southward shifts of the Atlantic Intertropical Convergence Zone, and also affected the American (North and South), African and Asian {Glossary.*Monsoon monsoon} systems.
+    |
+    |See: <em>{Chapters.5.5_7 Section 5.7}
+    |</em>
+
+  index: hide
+  let C23
+    |<strong>It is virtually certain that orbital {Topics.*Radiative_Forcing forcing} will be unable to trigger widespread glaciation during the next 1000 years.
+    |</strong> {Glossary.*Paleoclimate Paleoclimate} records indicate that, for orbital configurations close to the present one, glacial inceptions only occurred for atmospheric {Glossary.*Carbon_dioxide CO2} concentrations significantly lower than pre-industrial levels. {Topics.*Climate_Modelling Climate models} simulate no glacial inception during the next 50,000 years if CO2 concentrations remain above 300 ppm.
+    |
+    |See: <em>{Chapters.5.5_8.5_8_3 Section 5.8.3}, {Box_6_2 Box 6.2}
+    |</em>
+
+  index: hide
+  let C24
+    |<strong>There is high confidence that the volumes of the Greenland and West Antarctic ice sheets were reduced during periods of the past few million years that were globally warmer than present.
+    |</strong> {Glossary.*Ice_sheet Ice sheet} model simulations and geological data suggest that the West Antarctic ice sheet is very sensitive to subsurface Southern Ocean warming and imply with medium confidence a West Antarctic ice sheet retreat if atmospheric {Glossary.*Carbon_dioxide CO2} concentration stays within or above the range of 350 ppm to 450 ppm for several millennia.
+    |
+    |See: <em>Sections {Chapters.5.5_3.5_3_1 5.3.1} {Chapters.5.5_6.5_6_1 5.6.1}, {Chapters.5.5_8.5_8_1 5.8.1}
+    |</em>
+
+
+    

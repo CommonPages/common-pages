@@ -1,0 +1,15 @@
+
+public: ar5-9.3.2.1
+name: Section 9.3.2.1
+title: 9.3.2.1 - Experiments Utilized for Model Evaluation
+section 9_3_2_1
+
+  |CMIP5 includes a much more comprehensive suite of {Topics.*Climate_Modelling model experiments} than was available in the preceding CMIP3 results assessed in the {cite.1.'IPCC_2007 AR4}. In addition to a better constrained specification of historical {Topics.*Radiative_Forcing forcing}, the CMIP5 collection also includes initialized decadal-length {Topics.*Climate_Predictions predictions} and long-term experiments using both {Glossary.*Earth_System_Model ESMs} and {Glossary.*Atmosphere_Ocean_General_Circulation_Model AOGCMs}.
+
+
+  
+
+  insert SectionDoc
+
+
+    

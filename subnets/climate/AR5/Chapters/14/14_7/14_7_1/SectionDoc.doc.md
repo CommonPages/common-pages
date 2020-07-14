@@ -1,0 +1,10 @@
+index: hide
+public: ar5-
+name: Section 14.7.1
+title: 14.7.1 - Pacific–South American Pattern
+
+The PSA pattern is a {Glossary.*Teleconnection teleconnection} from the tropics to SH extratropics through Rossby wave trains ({Box_2_5 Box 2.5}). This pattern induces atmospheric circulation anomalies over South America, affecting extreme precipitation ({cite.14.'Drumond_and_Ambrizzi_2005}; {cite.14.'Cunningham_and_Cavalcanti_2006}; {cite.14.'Muza_et_al_2009}; {cite.14.'Vasconcellos_and_Cavalcanti_2010}). PSA trends for recent decades depend on the choice of indices and are hence uncertain ({Chapters.2.2_7.2_7_8 Section 2.7.8}). The PSA pattern is reproduced in many model simulations (Solman and Le Treut, 2006; {cite.14.'Vera_and_Silvestri_2009}; {cite.14.'Bates_2010}; {cite.14.'Rodrigues_et_al_2011}; {cite.14.'Cavalcanti_and_Shimizu_2012}).
+
+The intensification and westward displacement of the PSA wave pattern in {Topics.*Climate_Projections projections} of CMIP3 may be related to the increase in frequency and intensity of positive {Glossary.*Sea_Surface_Temperature SST} anomalies in the tropical Pacific by the end of the 21st century (2081–2100, Junquas et al., 2012). These perturbations of the PSA characteristics are linked with changes in SACZ dipole precipitation and affect South America precipitation ({Chapters.14.14_3.14_3_1.14_3_1_3 Section 14.3.1.3}). The PSA pattern occurrence and implications for precipitation increase in the southeastern South America have been associated with the zonally asymmetric part of the global SST change in the equatorial Indian–western Pacific Oceans ({cite.14.'Junquas_et_al_2013}).
+
+Process understanding of the formation of the PSA gives medium confidence that future changes in the mean atmospheric circulation for austral summer will project on the PSA pattern thereby influencing the SACZ and precipitation over southeastern South America. However, the literature is not sufficient to assess more general changes in PSA, and confidence is low in its future projections.

@@ -1,0 +1,34 @@
+
+public: ar5-4.3
+name: Section 4.3
+title: 4.3 - Glaciers
+section 4_3
+
+  |Worldwide studies of {Glossary.*Glacier glacier} lengths reveal a largely homogeneous {Glossary.*Trend trend} of retreat. Total glacier area has decreased in all regions. The disappearance of more than 600 glaciers has been reported. Overall, there is very high confidence that globally, the mass loss from glaciers has increased since the 1960s.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 4_3_1
+    - 4_3_2
+    - 4_3_3
+
+  name: Section 4.3 - Full Text
+  path FullText
+    name: Glaciers
+    step
+      include
+        - Chapters.4.4_3.SectionDoc
+        - Chapters.4.4_3.4_3_1.SectionDoc
+        - Chapters.4.4_3.4_3_2.SectionDoc
+        - Chapters.4.4_3.4_3_2.4_3_2_1.SectionDoc
+        - Chapters.4.4_3.4_3_2.4_3_2_2.SectionDoc
+        - Chapters.4.4_3.4_3_2.4_3_2_3.SectionDoc
+        - Chapters.4.4_3.4_3_3.4_3_3_1.SectionDoc
+        - Chapters.4.4_3.4_3_3.4_3_3_2.SectionDoc
+        - Chapters.4.4_3.4_3_3.4_3_3_3.SectionDoc
+        - Chapters.4.4_3.4_3_3.4_3_3_4.SectionDoc
+    

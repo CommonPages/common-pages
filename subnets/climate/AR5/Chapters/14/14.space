@@ -1,0 +1,139 @@
+
+public: ar5-14
+name: Chapter 14
+title: Chapter 14 - Climate Phenomena and their Relevance for Future Regional Climate Change
+lead: This chapter assesses the scientific literature on projected changes in major climate phenomena and more specifically their relevance for future change in regional climates, contingent on global mean temperatures continue to rise.
+chapterspace 14
+
+
+  import Figures._
+  import cite.14._
+
+  index: hide
+  title: Chapter 14 - Climate Phenomena and their Relevance for Future Regional Climate Change
+  lead: This chapter assesses the scientific literature on projected changes in major climate phenomena and more specifically their relevance for future change in regional climates, contingent on global mean temperatures continue to rise.
+  chapterstory ChapterStory
+    |{Topics.*Regional_Climate Regional climates} are the complex outcome of local physical processes and the non-local responses to large-scale phenomena such as the El Niño-{Glossary.*Southern_Oscillation Southern Oscillation} ({Glossary.*El_Nin_o_Southern_Oscillation ENSO}) and other dominant modes of {Topics.*Climate_Variability climate variability}. Regional climate {Topics.*Climate_Projections projections} are generally more uncertain than projections of {Topics.*Surface_Temperature global mean temperature}. {'Table_14_2 Table 14.2} summarizes the assessed confidence in the ability of CMIP5 models to represent regional scale present-day climate, the main controlling phenomena for weather and climate in that region and the assessed resulting confidence in the future projections.
+    apply FullText
+
+    embed
+      - FAQ_14_1
+      - FAQ_14_2
+      - Box_14_1
+      - Box_14_2
+
+    include
+      - 14_1
+      - 14_2
+      - 14_3
+      - 14_4
+      - 14_5
+      - 14_6
+      - 14_7
+      - 14_8
+
+  apply FullText
+
+  
+
+  include
+    - 14_1
+    - 14_2
+    - 14_3
+    - 14_4
+    - 14_5
+    - 14_6
+    - 14_7
+    - 14_8
+
+  name: Chapter 14 - Full Text
+  path FullText
+    name: Introduction
+    step
+      include
+        - Chapters.14.14_1.SectionDoc
+        - Chapters.14.14_1.14_1_1.SectionDoc
+        - Chapters.14.14_1.14_1_2.SectionDoc
+        - Chapters.14.14_1.14_1_3.SectionDoc
+        - Chapters.14.14_1.14_1_4.SectionDoc
+    name: Monsoon Systems
+    step
+      include
+        - Chapters.14.14_2.SectionDoc
+        - Chapters.14.14_2.14_2_1.SectionDoc
+        - Chapters.14.14_2.14_2_2.SectionDoc
+        - Chapters.14.14_2.14_2_2.14_2_2_1.SectionDoc
+        - Chapters.14.14_2.14_2_2.14_2_2_2.SectionDoc
+        - Chapters.14.14_2.14_2_2.14_2_2_3.SectionDoc
+        - Chapters.14.14_2.14_2_2.14_2_2_4.SectionDoc
+        - Chapters.14.14_2.14_2_2.14_2_2_5.SectionDoc
+        - Chapters.14.14_2.14_2_3.SectionDoc
+        - Chapters.14.14_2.14_2_3.14_2_3_1.SectionDoc
+        - Chapters.14.14_2.14_2_3.14_2_3_2.SectionDoc
+        - Chapters.14.14_2.14_2_4.SectionDoc
+        - Chapters.14.14_2.14_2_5.SectionDoc
+    name: Convergence Zones
+    step
+      include
+        - Chapters.14.14_3.14_3_1.SectionDoc
+        - Chapters.14.14_3.14_3_1.14_3_1_1.SectionDoc
+        - Chapters.14.14_3.14_3_1.14_3_1_2.SectionDoc
+        - Chapters.14.14_3.14_3_1.14_3_1_3.SectionDoc
+        - Chapters.14.14_3.14_3_2.SectionDoc
+        - Chapters.14.14_3.14_3_3.SectionDoc
+        - Chapters.14.14_3.14_3_4.SectionDoc
+        - Chapters.14.14_3.14_3_5.SectionDoc
+    name: El Niño-Southern Oscillation
+    step
+      include
+        - Chapters.14.14_4.SectionDoc
+        - Chapters.14.14_4.14_4_1.SectionDoc
+        - Chapters.14.14_4.14_4_2.SectionDoc
+        - Chapters.14.14_4.14_4_3.SectionDoc
+        - Chapters.14.14_4.14_4_4.SectionDoc
+    name: Annular and Dipolar Modes
+    step
+      include
+        - Chapters.14.14_5.SectionDoc
+        - Chapters.14.14_5.14_5_1.SectionDoc
+        - Chapters.14.14_5.14_5_2.SectionDoc
+        - Chapters.14.14_5.14_5_3.SectionDoc
+    name: Tropical Cyclones
+    step
+      include
+        - Chapters.14.14_6.14_6_1.SectionDoc
+        - Chapters.14.14_6.14_6_1.14_6_1_1.SectionDoc
+        - Chapters.14.14_6.14_6_1.14_6_1_2.SectionDoc
+        - Chapters.14.14_6.14_6_2.SectionDoc
+        - Chapters.14.14_6.14_6_2.14_6_2_1.SectionDoc
+        - Chapters.14.14_6.14_6_2.14_6_2_2.SectionDoc
+        - Chapters.14.14_6.14_6_3.SectionDoc
+    name: Pacific–South American Pattern
+    step
+      include
+        - Chapters.14.14_7.14_7_1.SectionDoc
+        - Chapters.14.14_7.14_7_2.SectionDoc
+        - Chapters.14.14_7.14_7_3.SectionDoc
+        - Chapters.14.14_7.14_7_4.SectionDoc
+        - Chapters.14.14_7.14_7_5.SectionDoc
+        - Chapters.14.14_7.14_7_6.SectionDoc
+        - Chapters.14.14_7.14_7_7.SectionDoc
+    name: Overview
+    step
+      include
+        - Chapters.14.14_8.14_8_1.SectionDoc
+        - Chapters.14.14_8.14_8_2.SectionDoc
+        - Chapters.14.14_8.14_8_3.SectionDoc
+        - Chapters.14.14_8.14_8_4.SectionDoc
+        - Chapters.14.14_8.14_8_5.SectionDoc
+        - Chapters.14.14_8.14_8_6.SectionDoc
+        - Chapters.14.14_8.14_8_7.SectionDoc
+        - Chapters.14.14_8.14_8_8.SectionDoc
+        - Chapters.14.14_8.14_8_9.SectionDoc
+        - Chapters.14.14_8.14_8_10.SectionDoc
+        - Chapters.14.14_8.14_8_11.SectionDoc
+        - Chapters.14.14_8.14_8_12.SectionDoc
+        - Chapters.14.14_8.14_8_13.SectionDoc
+        - Chapters.14.14_8.14_8_14.SectionDoc
+        - Chapters.14.14_8.14_8_15.SectionDoc
+    

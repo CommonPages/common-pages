@@ -1,0 +1,15 @@
+
+public: ar5-9.4.2.1
+name: Section 9.4.2.1
+title: 9.4.2.1 - Simulation of Mean Temperature and Salinity Structure
+section 9_4_2_1
+
+  |Over most latitudes, at depths ranging from 200 m to 2000 m, the CMIP5 multi-model mean zonally averaged ocean temperature is too warm. Above 200 m, however, the CMIP5 (and CMIP3) multi-model mean is too cold. Zonal salinity errors exhibit a different pattern from those of the potential temperature.
+
+
+  
+
+  insert SectionDoc
+
+
+    

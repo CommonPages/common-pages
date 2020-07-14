@@ -1,0 +1,31 @@
+
+public: ar5-13.2
+name: Section 13.2
+title: 13.2 - Past Sea Level Change
+section 13_2
+
+  |Records of past {Topics.*Sea_Level sea level change} provide insight into the sensitivity of sea level to {Topics.*Past_Climate past climate} change as well as context for understanding current changes and evaluating {Topics.*Climate_Projections projected} changes. RSL records indicate that from ~7 to 3 thousand years ago, GMSL likely rose 2 to 3 m to near present-day levels. Based on local sea level records spanning the last 2000 years, there is medium confidence that fluctuations in GMSL during this interval have not exceeded ~ ±0.25 m on time scales of a few hundred years. The instrumental record of {Glossary.*Sea_level_change sea level change} ({'Figure_13_3 Figures 13.3}b and 13.3c) shows a total sea level rise of 0.19 m between 1901 and 2010. The GMSL {Glossary.*Trend trend} since 1993 is very likely higher compared to the mean rates over the 20th century.
+
+
+  apply FullText
+
+  
+
+  include
+    - 13_2_1
+    - 13_2_2
+
+  name: Section 13.2 - Full Text
+  path FullText
+    name: The Geological Record
+    step
+      include
+        - Chapters.13.13_2.13_2_1.SectionDoc
+        - Chapters.13.13_2.13_2_1.13_2_1_1.SectionDoc
+        - Chapters.13.13_2.13_2_1.13_2_1_2.SectionDoc
+        - Chapters.13.13_2.13_2_1.13_2_1_3.SectionDoc
+        - Chapters.13.13_2.13_2_1.13_2_1_4.SectionDoc
+        - Chapters.13.13_2.13_2_2.SectionDoc
+        - Chapters.13.13_2.13_2_2.13_2_2_1.SectionDoc
+        - Chapters.13.13_2.13_2_2.13_2_2_2.SectionDoc
+    

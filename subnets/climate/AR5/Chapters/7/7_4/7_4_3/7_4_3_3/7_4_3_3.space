@@ -1,0 +1,15 @@
+
+public: ar5-7.4.3.3
+name: Section 7.4.3.3
+title: 7.4.3.3 - Advances in Process Level Understanding
+section 7_4_3_3
+
+  |Central to {Glossary.*Effective_radiative_forcing_due_to_aerosol_cloud_interactions ERFaci} is the question of how susceptible is precipitation to droplet concentration, and by inference, to the available {Glossary.*Aerosol aerosol}. Since {cite.1.'IPCC_2007 AR4}, cloud resolving model simulation has begun to stress the importance of scale interactions when addressing aerosol–cloud interactions. Nevertheless, there remains a large gap between our process level understanding of aerosol–cloud–precipitation interactions and the ability of {Glossary.*General_Circulation_Model GCMs} to represent them.
+
+
+  
+
+  insert SectionDoc
+
+
+    

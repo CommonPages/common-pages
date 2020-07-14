@@ -1,0 +1,25 @@
+
+public: ar5-6.1.2
+name: Section 6.1.2
+title: 6.1.2 - Industrial Era
+section 6_1_2
+
+  |Humans produce energy by burning of fossil fuels, a process that is releasing large amounts of {Glossary.*Carbon_dioxide CO2} into the {Topics.*Climate_System atmosphere}. Another major {Glossary.*Source source} of anthropogenic CO2 {Topics.*Emissions emissions} is caused by changes in land use. {Glossary.*Anthropogenic Anthropogenic} land use changes have resulted in about 38% of the total ice-free land area being used for cropland and pasture. There is very high level of confidence that the atmospheric {Glossary.*Methane_CH4 CH4} increase during the Industrial Era is caused by anthropogenic activities.
+
+
+  apply FullText
+
+  
+
+  include
+    - 6_1_2_1
+    - 6_1_2_2
+
+  name: Section 6.1.2 - Full Text
+  path FullText
+    name: Carbon Dioxide and the Global Carbon Cycle
+    step
+      include
+        - Chapters.6.6_1.6_1_2.6_1_2_1.SectionDoc
+        - Chapters.6.6_1.6_1_2.6_1_2_2.SectionDoc
+    

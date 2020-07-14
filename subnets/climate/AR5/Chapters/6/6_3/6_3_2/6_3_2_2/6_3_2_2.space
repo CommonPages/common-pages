@@ -1,0 +1,15 @@
+
+public: ar5-6.3.2.2
+name: Section 6.3.2.2
+title: 6.3.2.2 - Net Land Use Change Carbon Dioxide Flux
+section 6_3_2_2
+
+  |{Glossary.*Carbon_dioxide CO2} is emitted to the {Topics.*Climate_System atmosphere} by land use and {Topics.*Land_Use_Change land use change} activities, in particular {Glossary.*Deforestation deforestation}, and taken up from the {Glossary.*Atmosphere atmosphere} by other land uses. Over the 1750–2011 period, cumulative net CO2 {Topics.*Emissions emissions} from land use change of 180 ± 80 PgC are estimated. The cumulative net CO2 emissions from land use change have been dominated by deforestation and other land use change in the mid-northern latitudes prior to 1980s, and in the tropics since the 1980s.
+
+
+  
+
+  insert SectionDoc
+
+
+    

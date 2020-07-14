@@ -1,0 +1,15 @@
+
+public: ar5-1.3.4.1
+name: Section 1.3.4.1
+title: 1.3.4.1 - Sea Level
+section 1_3_4_1
+
+  |Global mean {Topics.*Sea_Level sea level} is an important indicator of climate change. The previous assessments have all shown that observations indicate that the globally averaged sea level is rising. All of the previous IPCC assessments have {Topics.*Climate_Projections projected} that global sea level will continue to rise throughout this century. Observations show that the actual change is in the middle of projected changes from the prior assessments, and towards the higher end of the studies from {cite.1.'IPCC_2001 TAR} and {cite.1.'IPCC_2007 AR4}.
+
+
+  
+
+  insert SectionDoc
+
+
+    

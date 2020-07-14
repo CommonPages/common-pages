@@ -1,0 +1,27 @@
+index: hide
+
+<div class="Citation">
+    <div class="Citation-thumb CitationThumb-linked"  data-href="https://doi.org/10.1016/j.dsr.2005.06.018">
+      <img src="https://static.claimspace.cloud/climate-study-static/refs/thumbs/10/Mecking_et_al_2006-thumb.png" />
+    </div>
+
+  <div class="Citation-body">
+    <div class="Citation-text">Mecking, S. and Warner, M. J. and Bullister, J. L., 2006: Temporal changes in pCFC-12 ages and AOU along two hydrographic sections in the eastern subtropical North Pacific. <span class="Article-journal">Deep-Sea Research Part I: Oceanographic Research Papers, </span><span class="Article-volume">53, </span>169-187pp.</div>
+    <div class="Citation-links">
+      <div class="CitationLink" data-href="https://doi.org/10.1016/j.dsr.2005.06.018">
+        <div class="CitationLink-icon CitationLink-Doi"></div>
+        <div class="CitationLink-text">DOI</div>
+      </div>
+      <div class="CitationLink" data-href="https://scholar.google.com/scholar?q=10.1016/j.dsr.2005.06.018">
+        <div class="CitationLink-icon CitationLink-Scholar"></div>
+        <div class="CitationLink-text">Google Scholar</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+Changes in chlorofluorocarbon-12 (CFC-12) derived ventilation ages (pCFC-12 ages) and in apparent oxygen utilization (AOU) are investigated in the eastern subtropical North Pacific, where a portion of a 1991 WOCE cruise along 152°W was repeated in 1997 and a portion of a 1985 WOCE cruise along 24°N was repeated in 2000. The effects of mixing biases and possible gas undersaturations at the isopycnal outcrops are carefully examined during the calculation of pCFC-12 ages and oxygen utilization rates (                         OUR                         =                         AOU                         /                         age                      ). The most conspicuous and robust change observed in the data is an increase in pCFC-12 ages and in AOU that occurs at the subtropical–subpolar gyre boundary at 152°W and is centered at                                                                                     σ                                                                                       θ                                                                              =                         26.65                                                  kg                                                                                                             m                                                                                       -                               3                                                                           . pCFC-12 ages (including a correction for mixing biases) and AOU increased by as much as 5 years and                          40                                                  μ                         mol                                                                                                             kg                                                                                       -                               1                                                                            from 1991 to 1997 here, which corresponds to a change of about 40%. These data are in agreement with previous studies suggesting a reduction of ventilation in the subpolar gyre. A proposed mechanism for these changes is a reduction or cessation of the outcropping of the core isopycnal (                                                                                    σ                                                                                       θ                                                                              =                         26.65                                                  kg                                                                                                             m                                                                                       -                               3                                                                           ) that most likely occurred prior to 1991. Since mixing-bias-corrected pCFC-12 ages and AOU changed in approximately equal proportions, OURs close to the core isopycnal remained roughly constant. In contrast, OURs in the 24°N sections appear to have decreased off the coast of California from 1985 to 2000. The average OUR difference here reduces to                          <                         1                         μ                         mol                                                                                                             kg                                                                                       -                               1                                                                                                                                                                  yr                                                                                       -                               1                                                                            when a mixing-bias correction and gas saturations less than 100% (90% for CFC-12 and 95% for oxygen) are applied, but it remains significant at the 95% confidence level. A robust change in ventilation ages is not observed in the 24°N sections.
+
+<div class="Citation-copy">
+&copy; Elsevier BV, 2006
+</div>

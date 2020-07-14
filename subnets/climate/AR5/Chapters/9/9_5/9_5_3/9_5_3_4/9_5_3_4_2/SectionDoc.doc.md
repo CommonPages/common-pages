@@ -1,0 +1,10 @@
+index: hide
+public: ar5-
+name: Section 9.5.3.4.2
+title: 9.5.3.4.2 - Indian Ocean basin and dipole modes
+
+Indian Ocean {Glossary.*Sea_Surface_Temperature SST} displays a basin-wide warming following El Niño ({cite.9.'Klein_et_al_1999}). This Indian Ocean basin (IOB) mode peaks in boreal spring and persists through the following summer. Most CMIP5 models capture this IOB mode, an improvement over CMIP3 ({cite.9.'Du_et_al_2013}). However, only about half the CMIP5 models capture its long temporal persistence, and these models tend to simulate {Glossary.*El_Nin_o_Southern_Oscillation ENSO}-forced ocean Rossby waves in the tropical south Indian Ocean ({cite.9.'Zheng_et_al_2011}).
+
+The Indian Ocean zonal dipole mode ({Glossary.*Indian_Ocean_Dipole IOD}) ({cite.9.'Saji_et_al_1999}; {cite.9.'Webster_et_al_1999}) appears to be part of a hemispheric response to tropical atmospheric {Topics.*Radiative_Forcing forcing} ({cite.9.'Fauchereau_et_al_2003}; {cite.9.'Hermes_and_Reason_2005}). Most CMIP3 models are able to reproduce the general features of the IOD, including its phase lock onto the July to November season ({cite.9.'Saji_et_al_2006}). The modelled SST anomalies, however, tend to show too strong a westward extension along the equator in the eastern Indian Ocean. CMIP3 models exhibit considerable spread in IOD amplitude, some of which can be explained by differences in the strength of the simulated Bjerknes {Glossary.*Feedback feedback} ({cite.9.'Liu_et_al_2011}; {cite.9.'Cai_and_Cowan_2013}). No substantial change is seen in CMIP5 ({cite.9.'Weller_and_Cai_2013a}).
+
+Many models simulate the observed correlation between IOD and ENSO. The magnitude of this correlation varies substantially between models, but is apparently not tied to the amplitude of ENSO ({cite.9.'Saji_et_al_2006}). A subset of CMIP3 models show a spurious correlation with ENSO following the decay of ENSO events, instead of during the ENSO developing phase, possibly due to erroneous representation of oceanic pathways connecting the equatorial Pacific and Indian Oceans ({cite.9.'Cai_et_al_2011}).

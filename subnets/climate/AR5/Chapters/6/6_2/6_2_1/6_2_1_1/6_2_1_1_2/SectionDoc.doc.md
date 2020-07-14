@@ -1,0 +1,6 @@
+index: hide
+public: ar5-
+name: Section 6.2.1.1.2
+title: 6.2.1.1.2 - Lower sea surface temperatures
+
+Reconstructions of sea {Topics.*Surface_Temperature surface temperatures} (SSTs) during the {Glossary.*Last_Glacial_Maximum LGM} suggest that the global surface ocean was on average 3°C to 5°C cooler compared to the {Glossary.*Holocene Holocene}. Because the solubility of {Glossary.*Carbon_dioxide CO2} increases at colder temperature (Zeebe and Wolf-Gladrow, 2001), a colder glacial ocean will hold more carbon. However, {Topics.*Uncertainty uncertainty} in reconstructing the LGM pattern of ocean temperature, particularly in the tropics ({cite.6.'Archer_et_al_2000}; {cite.6.'Waelbroeck_et_al_2009}), together with problems in transforming this pattern to the {Glossary.*Resolution resolution} of models in light of the nonlinear nature of the CO2–temperature relationship ({cite.6.'Ridgwell_2001}), creates a large spread in modelled estimates, Most ocean {Glossary.*General_circulation general circulation} models (OGCM) {Topics.*Climate_Projections projections}, however, cluster more tightly and suggest that lower ocean temperatures contribute to lower CO2 values by 25 ppm during the LGM ({'Figure_6_5 Figure 6.5}).

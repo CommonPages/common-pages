@@ -1,0 +1,15 @@
+
+public: ar5-1.5.2
+name: Section 1.5.2
+title: 1.5.2 - Capabilities in Global Climate Modelling
+section 1_5_2
+
+  |Several developments have especially pushed the capabilities in modelling forward over recent years. There has been a continuing increase in horizontal and vertical {Glossary.*Resolution resolution}. Representations of {Topics.*Climate_System Earth system} processes are much more extensive and improved. {Glossary.*Ensemble Ensemble} techniques are being used more frequently, with larger samples and with different methods to generate the samples. Coordinated projects have been set up to generate and distribute large samples.
+
+
+  
+
+  insert SectionDoc
+
+
+    

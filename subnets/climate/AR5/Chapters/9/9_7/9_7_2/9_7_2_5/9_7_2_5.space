@@ -1,0 +1,15 @@
+
+public: ar5-9.7.2.5
+name: Section 9.7.2.5
+title: 9.7.2.5 - Relationship of Feedbacks to Uncertainty in Modelled Climate Sensitivity
+section 9_7_2_5
+
+  |Objective methods for perturbing uncertain model parameters to optimize performance relative to a set of observational metrics have shown a tendency toward an increase in the mean and a narrowing of the spread of estimated {Glossary.*Climate_sensitivity climate sensitivity}.
+
+
+  
+
+  insert SectionDoc
+
+
+    

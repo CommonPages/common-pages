@@ -1,0 +1,28 @@
+
+public: ar5-10.7.1
+name: Section 10.7.1
+title: 10.7.1 - Causes of Change in Large-Scale Temperature over the Past Millennium
+section 10_7_1
+
+  |A large fraction of temperature variance in the last millennium has been externally driven. The residual variability in {Topics.*Past_Climate past climate} that is not explained by changes in {Topics.*Radiative_Forcing RF} provides an estimate of {Topics.*Climate_Variability internal variability} for NH mean temperature. In all cases considered, the most recent 50-and 60-year {Glossary.*Trend trend} from instrumental data is far outside the range of any 50-year trend in residuals from reconstructions of NH mean temperature of the past millennium.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 10_7_1_1
+    - 10_7_1_2
+    - 10_7_1_3
+
+  name: Section 10.7.1 - Full Text
+  path FullText
+    name: Causes of Change in Large-Scale Temperature over the Past Millennium
+    step
+      include
+        - Chapters.10.10_7.10_7_1.SectionDoc
+        - Chapters.10.10_7.10_7_1.10_7_1_1.SectionDoc
+        - Chapters.10.10_7.10_7_1.10_7_1_2.SectionDoc
+        - Chapters.10.10_7.10_7_1.10_7_1_3.SectionDoc
+    

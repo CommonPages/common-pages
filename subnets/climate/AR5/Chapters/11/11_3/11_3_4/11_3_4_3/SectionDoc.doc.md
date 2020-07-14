@@ -1,0 +1,6 @@
+index: hide
+public: ar5-
+name: Section 11.3.4.3
+title: 11.3.4.3 - Near Surface Permafrost
+
+Virtually all near-term {Topics.*Climate_Projections projections} indicate a substantial amount of near-surface {Glossary.*Permafrost permafrost} degradation (typically taking place in the upper 2 to 3 m; see {cite.11.'Callaghan_et_al_2011 Callaghan et al. (2011)} and see glossary for detailed definition), and thaw depth deepening over much of the permafrost area ({cite.11.'Sushama_et_al_2006}; {cite.11.'Lawrence_et_al_2008}; {cite.11.'Guo_and_Wang_2012}). As discussed in more detail in {Chapters.12.12_4.12_4_6.12_4_6_2 Section 12.4.6.2}, these projections have increased credibility compared to the previous generation of models assessed in the {cite.1.'IPCC_2007 AR4} because current {Topics.*Climate_Modelling climate models} represent permafrost more accurately ({cite.11.'Alexeev_et_al_2007}; {cite.11.'Nicolsky_et_al_2007}; {cite.11.'Lawrence_et_al_2008}). The reduction in annual mean {Glossary.*Near_surface_permafrost near-surface permafrost} area for the 2016–2035 time period compared to the 1986–2005 reference period for the CMIP5 models ({cite.11.'Slater_and_Lawrence_2013}) for the NH for the four RCP {Topics.*Scenarios scenarios} is 21% ± 5% ({Glossary.*RCP2_6 RCP2.6}), 18% ± 6% (RCP4.5), 18% ± 3% (RCP6.0) and 20% ± 5% ({Glossary.*RCP8_5 RCP8.5}).

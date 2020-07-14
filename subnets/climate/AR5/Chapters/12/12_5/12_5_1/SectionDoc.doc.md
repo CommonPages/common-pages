@@ -1,0 +1,8 @@
+index: hide
+public: ar5-
+name: Section 12.5.1
+title: 12.5.1 - Representative Concentration Pathway Extensions
+
+The CMIP5 intercomparison project includes simulations extending the four RCP {Topics.*Scenarios scenarios} to the year 2300 (see {Chapters.12.12_3.12_3_1 Section 12.3.1}). This allows exploring the longer-term {Glossary.*Climate_response climate response} to idealized GHG and aerosols {Topics.*Radiative_Forcing forcings} (Meinshausen et al., 2011c). Continuing GHG {Topics.*Emissions emissions} beyond 2100 as in the {Glossary.*RCP8_5 RCP8.5} extension induces a total RF above 12 W m–2 by 2300, while sustaining negative emissions beyond 2100, as in the {Glossary.*RCP2_6 RCP2.6} extension, induces a total RF below 2 W m–2 by 2300. The {Topics.*Climate_Projections projected} warming for 2281–2300, relative to 1986–2005, is 0.6°C (range 0.0°C to 1.2°C) for RCP2.6, 2.5°C (range 1.5°C to 3.5°C) for RCP4.5, and 7.8°C (range 3.0°C to 12.6°C) for RCP8.5 (medium confidence, based on a limited number of CMIP5 simulations) (Figures {'Figure_12_3 12.3} and {'Figure_12_5 12.5}, {'Table_12_2 Table 12.2}).
+
+{Glossary.*Earth_System_Model_of_Intermediate_Complexity EMICs} simulations have been performed following the same CMIP5 protocol for the historical simulation and RCP scenarios extended to 2300 ({cite.12.'Zickfeld_et_al_2013}). These scenarios have been prolonged beyond 2300 to investigate longer-term commitment and {Glossary.*Irreversibility irreversibility} (see below). Up to 2300, projected warming and the reduction of the AMOC as simulated by the EMICs are similar to those simulated by the CMIP5 {Glossary.*Earth_System_Model ESMs} (Figures {'Figure_12_5 12.5} and {'Figure_12_42 12.42}).

@@ -1,0 +1,15 @@
+
+public: ar5-12.4.5.2
+name: Section 12.4.5.2
+title: 12.4.5.2 - Patterns of Projected Average Precipitation Changes
+section 12_4_5_2
+
+  |{'Figure_12_22 Figure 12.22} shows the CMIP5 multi-model average percentage change in seasonal mean precipitation in the middle of the 21st century, at the end of the 21st century and at the end of the 22nd century for the {Glossary.*RCP8_5 RCP8.5} scenario relative to the 1986–2005 average. There is high confidence that the contrast of seasonal mean precipitation between dry and wet regions will increase in a warmer climate over most of the globe although there may be regional exceptions to this general pattern. There is also high confidence that the contrast between wet and dry seasons will increase over most of the globe as temperatures increase.
+
+
+  
+
+  insert SectionDoc
+
+
+    

@@ -1,0 +1,15 @@
+
+public: ar5-9.1.2.2
+name: Section 9.1.2.2
+title: 9.1.2.2 - Earth System Models
+section 9_1_2_2
+
+  |{Topics.*Climate_System Earth System} Models ({Glossary.*Earth_System_Model ESMs}) are the current state-of-the-art models, and they expand on {Glossary.*Atmosphere_Ocean_General_Circulation_Model AOGCMs} to include representation of various biogeochemical cycles such as those involved in the {Topics.*Carbon_Cycle carbon cycle}, the sulphur cycle, or {Glossary.*Ozone ozone}. These models provide the most comprehensive tools available for simulating past and future response of the climate system to {Topics.*Radiative_Forcing external forcing}, in which biogeochemical feedbacks play an important role.
+
+
+  
+
+  insert SectionDoc
+
+
+    

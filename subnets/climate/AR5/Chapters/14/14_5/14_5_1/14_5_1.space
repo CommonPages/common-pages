@@ -1,0 +1,15 @@
+
+public: ar5-14.5.1
+name: Section 14.5.1
+title: 14.5.1 - Northern Modes
+section 14_5_1
+
+  |The {Glossary.*North_Atlantic_Oscillation NAO} is a well-established dipolar mode of {Topics.*Climate_Variability climate variability} having opposite variations in {Topics.*Sea_Level sea level} pressure between the Atlantic subtropical high and the Iceland/Arctic low. Over the North Pacific, there is a similar wintertime dipolar mode known as the NPO associated with north–south displacements of the Asian-Pacific jet stream and the Pacific storm track. {Topics.*Climate_Modelling Climate models} are generally able to simulate the gross features of NAO and NPO. {'Figure_14_16 Figures 14.16}a, b summarize the wintertime NAO and {Glossary.*Northern_Annular_Mode NAM} indices simulated by models participating in the CMIP5 experiment. The multi-model mean of the NAO and NAM indices are similar and exhibit small linear trends in agreement with those shown for the NAM index in {cite.1.'IPCC_2007 AR4}.
+
+
+  
+
+  insert SectionDoc
+
+
+    

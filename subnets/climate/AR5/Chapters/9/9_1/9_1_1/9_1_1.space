@@ -1,0 +1,15 @@
+
+public: ar5-9.1.1
+name: Section 9.1.1
+title: 9.1.1 - Scope and Overview of this Chapter
+section 9_1_1
+
+  |{Topics.*Climate_Modelling Climate models} are the primary tools available for investigating the response of the climate system to various {Topics.*Radiative_Forcing forcings}, for making {Topics.*Climate_Predictions climate predictions} on seasonal to decadal time scales and for making {Topics.*Climate_Projections projections of future climate} over the coming century and beyond. It is crucial therefore to evaluate the performance of these models. The direct approach to model evaluation is to compare model output with observations and analyze the resulting difference. In cases where observations are lacking, we resort to intercomparison of model results to provide at least some quantification of model {Topics.*Uncertainty uncertainty} via inter-{Glossary.*Model_spread model spread}.
+
+
+  
+
+  insert SectionDoc
+
+
+    

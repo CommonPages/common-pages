@@ -1,0 +1,15 @@
+
+public: ar5-11.3.3.1
+name: Section 11.3.3.1
+title: 11.3.3.1 - Temperature
+section 11_3_3_1
+
+  |Globally averaged surface and near-surface ocean temperatures are {Topics.*Climate_Projections projected} by {Glossary.*Atmosphere_Ocean_General_Circulation_Model AOGCMs} to warm over the early 21st century, in response to both present day atmospheric concentrations of {Glossary.*Greenhouse_gas GHGs} (‘committed warming’) and projected future changes in {Topics.*Radiative_Forcing RF}. In the absence of multiple major volcanic eruptions, it is very likely that globally averaged surface and depth-averaged temperatures averaged 2016–2035 will be warmer than those averaged over 1986–2005.
+
+
+  
+
+  insert SectionDoc
+
+
+    

@@ -1,0 +1,15 @@
+
+public: ar5-2.4.2.1.1
+name: Section 2.4.2.1.1
+title: 2.4.2.1.1 - In situ data records
+section 2_4_2_1_1
+
+  |Historically, most {Glossary.*Sea_Surface_Temperature SST} observations were obtained from moving ships. Early data were systematically cold biased. Improvements in the understanding of {Topics.*Uncertainty uncertainty} have been expedited by the use of {Glossary.*Metadata metadata} and the recovery of observer instructions and other related documents.
+
+
+  
+
+  insert SectionDoc
+
+
+    

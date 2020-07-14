@@ -1,0 +1,8 @@
+index: hide
+public: ar5-
+name: Section 4.7.3
+title: 4.7.3 - Subsea Permafrost
+
+Subsea permafrost is similar to its terrestrial counterpart, but lies beneath the coastal seas. And as with terrestrial permafrost, subsea permafrost is a substantial {Glossary.*Reservoir reservoir} and/or a confining layer for gas hydrates ({cite.4.'Koch_et_al_2009}). It is roughly estimated that subsea permafrost contains 2 to 65 Pg of {Glossary.*Methane_CH4 CH4} hydrate ({cite.4.'McGuire_et_al_2009}). Observations of gas release on the East Siberian Shelf and high methane concentrations in water-column and air above ({cite.4.'Shakhova_et_al_2010a}, 2010b) have led to the suggestion that permafrost thawing creates pathways for gas release.
+
+Subsea permafrost in the Arctic is generally relict terrestrial permafrost ({cite.4.'Vigdorchik_1980}), inundated after the last glaciation and now degrading under the overlying shelf sea. {Glossary.*Permafrost Permafrost} may, however, also form when the sea is shallow, permitting sediment freezing through bottom-fast winter {Glossary.*Sea_ice sea ice} ({cite.4.'Solomon_et_al_2008}; {cite.4.'Stevens_et_al_2010}). A 76-year record of bottom water temperature in the Laptev Sea ({cite.4.'Dmitrenko_et_al_2011}) showed warming of 2.1°C since 1985 in the nearshore zone (<10 m water depth), as lengthening summers reduced sea ice extent and increased solar heating. Degradation rates of the ice-bearing permafrost following inundation have been estimated to be 1 to 20 cm a–1 on the East Siberian Shelf ({cite.4.'Overduin_et_al_2007}) and 1 to 4 cm a–1 in the Alaskan Beaufort Sea ({cite.4.'Overduin_et_al_2012}).

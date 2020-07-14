@@ -1,0 +1,32 @@
+
+public: ar5-4.7
+name: Section 4.7
+title: 4.7 - Frozen Ground
+section 4_7
+
+  |Wherever the ground remains frozen for at least two consecutive years, it is called {Glossary.*Permafrost permafrost}. In most regions, and at most sites, permafrost temperatures have increased during the past three decades, mainly in response to increased air temperature and changing snow cover. Additionally, many observations across many regions have revealed trends in the thickness of the active laver ({Glossary.*Frozen_ground frozen ground} overlying permafrost) with high confidence.
+
+
+  apply FullText
+
+  
+
+  include
+    - 4_7_1
+    - 4_7_2
+    - 4_7_3
+    - 4_7_4
+
+  name: Section 4.7 - Full Text
+  path FullText
+    name: Background
+    step
+      include
+        - Chapters.4.4_7.4_7_1.SectionDoc
+        - Chapters.4.4_7.4_7_2.4_7_2_1.SectionDoc
+        - Chapters.4.4_7.4_7_2.4_7_2_2.SectionDoc
+        - Chapters.4.4_7.4_7_3.SectionDoc
+        - Chapters.4.4_7.4_7_4.SectionDoc
+        - Chapters.4.4_7.4_7_4.4_7_4_1.SectionDoc
+        - Chapters.4.4_7.4_7_4.4_7_4_2.SectionDoc
+    

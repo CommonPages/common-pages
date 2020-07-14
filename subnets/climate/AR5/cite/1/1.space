@@ -1,0 +1,796 @@
+
+space 1
+
+  name: Hansen et al., 2011
+  title: Earth’s energy imbalance and implications
+  lead: In Atmos. Chem. Phys., 2011
+  article 'Hansen_et_al_2011
+    insert Hansen_et_al_2011_abstract
+
+  name: Fujino et al., 2006
+  title: Multi-gas mitigation analysis on stabilization scenarios using aim global model
+  lead: In Energy Journal, 2006
+  article 'Fujino_et_al_2006
+    insert Fujino_et_al_2006_abstract
+
+  name: Seneviratne et al., 2012
+  title: Chapter 3: Changes in Climate Extremes and their Impacts on the Natural Physical Environment
+  lead: In SREX: Special Report on Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation, 2012
+  booksec 'Seneviratne_et_al_2012
+    insert Seneviratne_et_al_2012_abstract
+
+  name: IPCC, 2012
+  title: Procedures for the preparation, review, acceptance, adoption, approval and publication of IPCC reports. Appendix A to the Principles Governing IPCC Work
+  ref 'IPCC_2012a
+    insert IPCC_2012a_abstract
+
+  name: Houghton, 2003
+  title: Revised estimates of the annual net flux of carbon to the atmosphere from changes in land use and land management 1850-2000
+  lead: In Tellus Series B-Chemical and Physical Meteorology, 2003
+  article 'Houghton_2003
+    insert Houghton_2003_abstract
+
+  name: Patt and Schrag, 2003
+  title: Using specific language to describe risk and probability
+  lead: In Climatic Change, 2003
+  article 'Patt_and_Schrag_2003
+    insert Patt_and_Schrag_2003_abstract
+
+  name: Hawkins and Sutton, 2009
+  title: The Potential to Narrow Uncertainty in Regional Climate Predictions
+  lead: In Bulletin of the American Meteorological Society, 2009
+  article 'Hawkins_and_Sutton_2009
+    insert Hawkins_and_Sutton_2009_abstract
+
+  name: Masui et al., 2011
+  title: An emission pathway for stabilization at 6 Wm−2 radiative forcing
+  lead: In Climatic Change, 2011
+  article 'Masui_et_al_2011
+    insert Masui_et_al_2011_abstract
+
+  name: Lenton et al., 2008
+  title: Tipping elements in the Earth's climate system
+  lead: In Proceedings of the National Academy of Sciences of the United States of America, 2008
+  article 'Lenton_et_al_2008
+    insert Lenton_et_al_2008_abstract
+
+  name: Goosse et al., 2009
+  title: Consistent past half-century trends in the atmosphere, the sea ice and the ocean at high southern latitudes
+  lead: In Climate Dynamics, 2009
+  article 'Goosse_et_al_2009
+    insert Goosse_et_al_2009_abstract
+
+  name: Jevrejeva et al., 2008
+  title: Recent global sea level acceleration started over 200 years ago?
+  lead: In Geophysical Research Letters, 2008
+  article 'Jevrejeva_et_al_2008
+    insert Jevrejeva_et_al_2008_abstract
+
+  name: van Vuuren et al., 2007
+  title: Stabilizing greenhouse gas concentrations at low levels: an assessment of reduction strategies and costs
+  lead: In Climatic Change, 2007
+  article 'van_Vuuren_et_al_2007
+    insert van_Vuuren_et_al_2007_abstract
+
+  name: Kahneman et al., 1982
+  title: Judgment under Uncertainty: Heuristics and Biases
+  lead: By Cambridge University Press, 1982
+  ref 'Kahneman_et_al_1982
+    insert Kahneman_et_al_1982_abstract
+
+  name: Moss et al., 2010
+  title: The next generation of scenarios for climate change research and assessment
+  lead: In Nature, 2010
+  article 'Moss_et_al_2010
+    insert Moss_et_al_2010_abstract
+
+  name: Collins and Allen, 2002
+  title: Assessing the relative roles of initial and boundary conditions in interannual to decadal climate predictability
+  lead: In Journal of Climate, 2002
+  article 'Collins_and_Allen_2002
+    insert Collins_and_Allen_2002_abstract
+
+  name: Mernild et al., 2009
+  title: Greenland Ice Sheet surface mass-balance modelling and freshwater flux for 2007, and in a 1995-2007 perspective
+  lead: In Hydrological Processes, 2009
+  article 'Mernild_et_al_2009
+    insert Mernild_et_al_2009_abstract
+
+  name: InterAcademy Council, 2010
+  title: Climate Change Assessments
+  report 'InterAcademyCouncil_2010
+    insert InterAcademyCouncil_2010_abstract
+
+  name: Le Treut et al., 2007
+  title: Historical Overview of Climate Change
+  lead: In Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, 2007
+  booksec 'Le_Treut_et_al_2007
+    insert Le_Treut_et_al_2007_abstract
+
+  name: Smith and Wigley, 2006
+  title: Multi-gas forcing stabilization with Minicam
+  lead: In Energy Journal, 2006
+  article 'Smith_and_Wigley_2006
+    insert Smith_and_Wigley_2006_abstract
+
+  name: Brönnimann et al., 2008
+  title: A focus on climate during the past 100 years
+  lead: In Climate Variability and Extremes during the Past 100 Years, 2008
+  booksec 'Brnnimann_et_al_2008
+    insert Brnnimann_et_al_2008_abstract
+
+  name: Knutti et al., 2008
+  title: A review of uncertainties in global temperature projections over the twenty-first century
+  lead: In Journal of Climate, 2008
+  article 'Knutti_et_al_2008
+    insert Knutti_et_al_2008_abstract
+
+  name: Risbey and Kandlikar, 2007
+  title: Expressions of likelihood and confidence in the IPCC uncertainty assessment process
+  lead: In Climatic Change, 2007
+  article 'Risbey_and_Kandlikar_2007
+    insert Risbey_and_Kandlikar_2007_abstract
+
+  name: Allen et al., 2013
+  title: Test of a decadal climate forecast
+  lead: In Nature Geoscience, 2013
+  article 'Allen_et_al_2013
+    insert Allen_et_al_2013_abstract
+
+  name: Meinshausen et al., 2011
+  title: The RCP greenhouse gas concentrations and their extensions from 1765 to 2300
+  lead: In Climatic Change, 2011
+  article 'Meinshausen_et_al_2011
+    insert Meinshausen_et_al_2011_abstract
+
+  name: Thomson et al., 2011
+  title: RCP4.5: a pathway for stabilization of radiative forcing by 2100
+  lead: In Climatic Change, 2011
+  article 'Thomson_et_al_2011
+    insert Thomson_et_al_2011_abstract
+
+  name: Willis et al., 2010
+  title: Global Sea Level Rise Recent Progress and Challenges for the Decade to Come
+  lead: In Oceanography, 2010
+  article 'Willis_et_al_2010
+    insert Willis_et_al_2010_abstract
+
+  name: Morice et al., 2012
+  title: Quantifying uncertainties in global and regional temperature change using an ensemble of observational estimates: The HadCRUT4 data set
+  lead: In Journal of Geophysical Research-Atmospheres, 2012
+  article 'Morice_et_al_2012
+    insert Morice_et_al_2012_abstract
+
+  name: Morgan et al., 1990
+  title: Uncertainty: A Guide to Dealing with Uncertainty in Quantitative Risk and Policy Analysis.
+  lead: By Cambridge University Press, 1990
+  book 'Morgan_et_al_1990
+    insert Morgan_et_al_1990_abstract
+
+  name: Ray and Douglas, 2011
+  title: Experiments in reconstructing twentieth-century sea levels
+  lead: In Progress in Oceanography, 2011
+  article 'Ray_and_Douglas_2011
+    insert Ray_and_Douglas_2011_abstract
+
+  name: Riahi et al., 2007
+  title: Scenarios of long-term socio-economic and environmental development under climate stabilization
+  lead: In Technological Forecasting and Social Change, 2007
+  article 'Riahi_et_al_2007
+    insert Riahi_et_al_2007_abstract
+
+  name: Pennell and Reichler, 2011
+  title: On the Effective Number of Climate Models
+  lead: In Journal of Climate, 2011
+  article 'Pennell_and_Reichler_2011
+    insert Pennell_and_Reichler_2011_abstract
+
+  name: Folland et al., 2001
+  title: Observed Climate Variability and Change
+  lead: In Climate Change 2001: The Scientific Basis. Contribution of Working Group I to the Third Assessment Report of the Intergovernmental Panel on Climate Change, 2001
+  booksec 'Folland_et_al_2001
+    insert Folland_et_al_2001_abstract
+
+  name: Turner et al., 2009
+  title: Antarctic climate change and the environment
+  lead: By Scientific Committee on Antarctic Research, 2009
+  book 'Turner_et_al_2009
+    insert Turner_et_al_2009_abstract
+
+  name: Broomell and Budescu, 2009
+  title: Why Are Experts Correlated? Decomposing Correlations Between Judges
+  lead: In Psychometrika, 2009
+  article 'Broomell_and_Budescu_2009
+    insert Broomell_and_Budescu_2009_abstract
+
+  name: Knutti et al., 2005
+  title: Probabilistic climate change projections for CO2 stabilization profiles
+  lead: In Geophysical Research Letters, 2005
+  article 'Knutti_et_al_2005
+    insert Knutti_et_al_2005_abstract
+
+  name: Mann et al., 2008
+  title: Proxy-based reconstructions of hemispheric and global surface temperature variations over the past two millennia
+  lead: In Proceedings of the National Academy of Sciences of the United States of America, 2008
+  article 'Mann_et_al_2008
+    insert Mann_et_al_2008_abstract
+
+  name: Matthews and Weaver, 2010
+  title: Committed climate warming
+  lead: In Nature Geoscience, 2010
+  article 'Matthews_and_Weaver_2010
+    insert Matthews_and_Weaver_2010_abstract
+
+  name: Tietsche et al., 2011
+  title: Recovery mechanisms of Arctic summer sea ice
+  lead: In Geophysical Research Letters, 2011
+  article 'Tietsche_et_al_2011
+    insert Tietsche_et_al_2011_abstract
+
+  name: Warrick and Oerlemans, 1990
+  title: Sea Level Rise
+  lead: In Climate Change: The IPCC Scientific Assessment, 1990
+  booksec 'Warrick_and_Oerlemans_1990
+    insert Warrick_and_Oerlemans_1990_abstract
+
+  name: Lambert et al., 2008
+  title: Dust-climate couplings over the past 800,000 years from the EPICA Dome C ice core
+  lead: In Nature, 2008
+  article 'Lambert_et_al_2008
+    insert Lambert_et_al_2008_abstract
+
+  name: Ettema et al., 2009
+  title: Higher surface mass balance of the Greenland ice sheet revealed by high-resolution climate modeling
+  lead: In Geophysical Research Letters, 2009
+  article 'Ettema_et_al_2009
+    insert Ettema_et_al_2009_abstract
+
+  name: Smith et al., 2008
+  title: Improvements to NOAA’s Historical Merged Land-Ocean Surface Temperature Analysis (1880-2005)
+  lead: In J. Climate, 2008
+  article 'Smith_et_al_2008
+    insert Smith_et_al_2008_abstract
+
+  name: Taylor et al., 2012
+  title: An Overview of CMIP5 and the Experiment Design
+  lead: In Bulletin of the American Meteorological Society, 2012
+  article 'Taylor_et_al_2012
+    insert Taylor_et_al_2012_abstract
+
+  name: Hoelzle et al., 2011
+  title: Evidence of accelerated englacial warming in the Monte Rosa area, Switzerland/Italy
+  lead: In Cryosphere, 2011
+  article 'Hoelzle_et_al_2011
+    insert Hoelzle_et_al_2011_abstract
+
+  name: Meehl et al., 2007
+  title: Global Climate Projections
+  lead: In Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, 2007
+  booksec 'Meehl_et_al_2007
+    insert Meehl_et_al_2007_abstract
+
+  name: Cubasch et al., 2001
+  title: Projections of Future Climate Change
+  lead: In Climate Change 2001: The Scientific Basis. Contribution of Working Group I to the Third Assessment Report of the Intergovernmental Panel on Climate Change, 2001
+  booksec 'Cubasch_et_al_2001
+    insert Cubasch_et_al_2001_abstract
+
+  name: Hawkins and Sutton, 2011
+  title: The potential to narrow uncertainty in projections of regional precipitation change
+  lead: In Climate Dynamics, 2011
+  article 'Hawkins_and_Sutton_2011
+    insert Hawkins_and_Sutton_2011_abstract
+
+  name: SWIPA, 2011
+  title: Snow, Water, Ice and Permafrost in the Arctic. SWIPA 2011 Executive Summary
+  lead: By AMAP, 2011
+  ref 'SWIPA_2011
+    insert SWIPA_2011_abstract
+
+  name: Mastrandrea et al., 2010
+  title: Guidance Notes for Lead Authors of the IPCC Fifth Assessment Report on Consistent Treatment of Uncertainties
+  lead: By Available at http://www.ipcc.ch/ (accessed 07-10-2013), 2010
+  ref 'Mastrandrea_et_al_2010
+    insert Mastrandrea_et_al_2010_abstract
+
+  name: van Vuuren et al., 2011
+  title: The representative concentration pathways: an overview
+  lead: In Climatic Change, 2011
+  article 'van_Vuuren_et_al_2011a
+    insert van_Vuuren_et_al_2011a_abstract
+
+  name: Murphy et al., 2009
+  title: An observationally based energy balance for the Earth since 1950
+  lead: In Journal of Geophysical Research-Atmospheres, 2009
+  article 'Murphy_et_al_2009
+    insert Murphy_et_al_2009_abstract
+
+  name: Hansen et al., 2010
+  title: Global surface temperature change
+  lead: In Reviews of Geophysics, 2010
+  article 'Hansen_et_al_2010
+    insert Hansen_et_al_2010_abstract
+
+  name: Yip et al., 2011
+  title: A Simple, Coherent Framework for Partitioning Uncertainty in Climate Predictions
+  lead: In Journal of Climate, 2011
+  article 'Yip_et_al_2011
+    insert Yip_et_al_2011_abstract
+
+  name: IPCC, 2012b
+  title: Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation. Special Report of the Intergovernmental Panel on Climate Change
+  report 'IPCC_2012b
+    insert IPCC_2012b_abstract
+
+  name: IPCC, 2001
+  title: Climate Change 2001: The Scientific Basis. Contribution of Working Group I to the Third Assessment Report of the Intergovernmental Panel on Climate Change
+  lead: By Cambridge University Press, 2001
+  book 'IPCC_2001
+    insert IPCC_2001_abstract
+
+  name: Frame and Stone, 2013
+  title: Assessment of the first consensus prediction on climate change
+  lead: In Nature Clim. Change, 2013
+  article 'Frame_and_Stone_2013
+    insert Frame_and_Stone_2013_abstract
+
+  name: Moss and Schneider, 2000
+  title: Uncertainties in the IPCC TAR: Recommendations to lead authors for more consistent assessment and reporting. In: Guidance Papers on the Cross Cutting Issues of the Third Assessment Report of the IPCC
+  lead: By World Meteorological Organization, Geneva, 2000
+  ref 'Moss_and_Schneider_2000
+    insert Moss_and_Schneider_2000_abstract
+
+  name: GCOS, 2011
+  title: Systematic Observation Requirements for Satellite-based Products for Climate Supplemental details to the satellite-based component of the Implementation Plan for the Global Observing System for Climate in Support of the UNFCCC - 2011 Update, (GCOS-154) - December 2011
+  ref 'GCOS_2011
+    insert GCOS_2011_abstract
+
+  name: Trenberth et al., 2009
+  title: Earth's Global Energy Budget
+  lead: In Bulletin of the American Meteorological Society, 2009
+  article 'Trenberth_et_al_2009
+    insert Trenberth_et_al_2009_abstract
+
+  name: Kahneman and Tversky, 1979
+  title: Prospect Theory: An Analysis of Decision under Risk
+  lead: In Econometrica, 1979
+  article 'Kahneman_and_Tversky_1979
+    insert Kahneman_and_Tversky_1979_abstract
+
+  name: Pall et al., 2011
+  title: Anthropogenic greenhouse gas contribution to flood risk in England and Wales in autumn 2000
+  lead: In Nature, 2011
+  article 'Pall_et_al_2011
+    insert Pall_et_al_2011_abstract
+
+  name: IPCC, 2007
+  title: Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change (IPCC)
+  lead: By Cambridge University Press, 2007
+  book 'IPCC_2007
+    insert IPCC_2007_abstract
+
+  name: Peterson et al., 2008
+  title: Why weather and climate extremes matter.
+  lead: In Weather and Climate Extremes in a Changing Climate. Regions of Focus: North America, Hawaii, Caribbean, and U.S. Pacific Islands, 2008
+  booksec 'Peterson_et_al_2008
+    insert Peterson_et_al_2008_abstract
+
+  name: Byrne et al., 2010
+  title: Direct observations of basin-wide acidification of the North Pacific Ocean
+  lead: In Geophysical Research Letters, 2010
+  article 'Byrne_et_al_2010
+    insert Byrne_et_al_2010_abstract
+
+  name: Seneviratne et al., 2010
+  title: Investigating soil moisture-climate interactions in a changing climate: A review
+  lead: In Earth-Science Reviews, 2010
+  article 'Seneviratne_et_al_2010
+    insert Seneviratne_et_al_2010_abstract
+
+  name: IPCC, 1990
+  title: Climate Change: The IPCC Scientific Assessment
+  lead: By Cambridge University Press, 1990
+  book 'IPCC_1990
+    insert IPCC_1990_abstract
+
+  name: Lemke et al., 2007
+  title: Observations: Changes in Snow, Ice and Frozen Ground
+  lead: In Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, 2007
+  booksec 'Lemke_et_al_2007
+    insert Lemke_et_al_2007_abstract
+
+  name: Nghiem et al., 2012
+  title: The extreme melt across the Greenland ice sheet in 2012
+  lead: In Geophysical Research Letters, 2012
+  article 'Nghiem_et_al_2012
+    insert Nghiem_et_al_2012_abstract
+
+  name: Hansen et al., 2006
+  title: Global temperature change
+  lead: In Proceedings of the National Academy of Sciences of the United States of America, 2006
+  article 'Hansen_et_al_2006
+    insert Hansen_et_al_2006_abstract
+
+  name: Church and White, 2011
+  title: Sea-Level Rise from the Late 19th to the Early 21st Century
+  lead: In Surveys in Geophysics, 2011
+  article 'Church_and_White_2011
+    insert Church_and_White_2011_abstract
+
+  name: Huntingford et al., 2009
+  title: Contributions of carbon cycle uncertainty to future climate projection spread
+  lead: In Tellus Series B-Chemical and Physical Meteorology, 2009
+  article 'Huntingford_et_al_2009
+    insert Huntingford_et_al_2009_abstract
+
+  name: Midorikawa et al., 2010
+  title: Decreasing pH trend estimated from 25-yr time series of carbonate parameters in the western North Pacific
+  lead: In Tellus Series B-Chemical and Physical Meteorology, 2010
+  article 'Midorikawa_et_al_2010
+    insert Midorikawa_et_al_2010_abstract
+
+  name: Menne et al., 2012
+  title: An Overview of the Global Historical Climatology Network-Daily Database
+  lead: In Journal of Atmospheric and Oceanic Technology, 2012
+  article 'Menne_et_al_2012
+    insert Menne_et_al_2012_abstract
+
+  name: Wise et al., 2009
+  title: Implications of Limiting CO2 Concentrations for Land Use and Energy
+  lead: In Science, 2009
+  article 'Wise_et_al_2009
+    insert Wise_et_al_2009_abstract
+
+  name: CCSP, 2009
+  title: Best Practice Approaches for Characterizing, Communicating, and Incorporating Scientific Uncertainty in Climate Decision Making
+  lead: By U.S. Climate Change Science Program, 2009
+  book 'CCSP_2009
+    insert CCSP_2009_abstract
+
+  name: IPCC, 2000
+  title: IPCC Special Report on Emissions Scenarios. Prepared by Working Group III of the Intergovernmental Panel on Climate Change
+  report 'IPCC_2000
+    insert IPCC_2000_abstract
+
+  name: Willis et al., 2009
+  title: In Situ Data Biases and Recent Ocean Heat Content Variability
+  lead: In Journal of Atmospheric and Oceanic Technology, 2009
+  article 'Willis_et_al_2009
+    insert Willis_et_al_2009_abstract
+
+  name: Rahmstorf et al., 2012
+  title: Comparing climate projections to observations up to 2011
+  lead: In Environmental Research Letters, 2012
+  article 'Rahmstorf_et_al_2012
+    insert Rahmstorf_et_al_2012_abstract
+
+  name: Lüthi and Funk, 2001
+  title: Modelling heat flow in a cold, high-altitude glacier: interpretation of measurements from Colle Gnifetti, Swiss Alps
+  lead: In Journal of Glaciology, 2001
+  article 'Lthi_and_Funk_2001
+    insert Lthi_and_Funk_2001_abstract
+
+  name: Myhre et al., 1998
+  title: New estimates of radiative forcing due to well mixed greenhouse gases
+  lead: In Geophysical Research Letters, 1998
+  article 'Myhre_et_al_1998
+    insert Myhre_et_al_1998_abstract
+
+  name: Oreskes et al., 1994
+  title: Verification, Validation, and Confirmation of Numerical Models in the Earth Sciences
+  lead: In Science, 1994
+  article 'Oreskes_et_al_1994
+    insert Oreskes_et_al_1994_abstract
+
+  name: Armour et al., 2011
+  title: The reversibility of sea ice loss in a state-of-the-art climate model
+  lead: In Geophysical Research Letters, 2011
+  article 'Armour_et_al_2011
+    insert Armour_et_al_2011_abstract
+
+  name: Patt and Dessai, 2005
+  title: Communicating uncertainty: lessons learned and suggestions for climate change assessment
+  lead: In Comptes Rendu Geosciences, 2005
+  article 'Patt_and_Dessai_2005
+    insert Patt_and_Dessai_2005_abstract
+
+  name: AMAP, 2009
+  title: Summary – The Greenland Ice Sheet in a Changing Climate: Snow, Water, Ice and Permafrost in the Arctic (SWIPA)
+  lead: By Arctic Monitoring and Assessment Programme (AMAP), 2009
+  ref 'AMAP_2009
+    insert AMAP_2009_abstract
+
+  name: van Vuuren et al., 2011b
+  title: RCP2.6: exploring the possibility to keep global mean temperature increase below 2°C
+  lead: In Climatic Change, 2011
+  article 'van_Vuuren_et_al_2011b
+    insert van_Vuuren_et_al_2011b_abstract
+
+  name: Wigley, 2005
+  title: The Climate Change Commitment
+  lead: In Science, 2005
+  article 'Wigley_2005
+    insert Wigley_2005_abstract
+
+  name: Riahi et al., 2011
+  title: RCP 8.5-A scenario of comparatively high greenhouse gas emissions
+  lead: In Climatic Change, 2011
+  article 'Riahi_et_al_2011
+    insert Riahi_et_al_2011_abstract
+
+  name: Hijioka et al., 2008
+  title: Global GHG Emission Scenarios under GHG Concentration Stabilization Targets.
+  lead: In Journal of Global Environment Engineering, 2008
+  article 'Hijioka_et_al_2008
+    insert Hijioka_et_al_2008_abstract
+
+  name: Beerling and Royer, 2011
+  title: Convergent Cenozoic CO2 history
+  lead: In Nature Geoscience, 2011
+  article 'Beerling_and_Royer_2011
+    insert Beerling_and_Royer_2011_abstract
+
+  name: Wadhams, 2012
+  title: Arctic Ice Cover, Ice Thickness and Tipping Points
+  lead: In Ambio, 2012
+  article 'Wadhams_2012
+    insert Wadhams_2012_abstract
+
+  name: Arrhenius, 1896
+  title: On the influence of carbonic acid in the air upon the temperature of the ground.
+  lead: In Philos. Mag., 1896
+  article 'Arrhenius_1896
+    insert Arrhenius_1896_abstract
+
+  name: Zemp et al., 2009
+  title: Six decades of glacier mass-balance observations: a review of the worldwide monitoring network
+  lead: In Annals of Glaciology, 2009
+  article 'Zemp_et_al_2009
+    insert Zemp_et_al_2009_abstract
+
+  name: Easterling and Wehner, 2009
+  title: Is the climate warming or cooling?
+  lead: In Geophysical Research Letters, 2009
+  article 'Easterling_and_Wehner_2009
+    insert Easterling_and_Wehner_2009_abstract
+
+  name: Denman et al., 2007
+  title: Couplings Between Changes in the Climate System and Biogeochemistry
+  lead: In Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, 2007
+  booksec 'Denman_et_al_2007
+    insert Denman_et_al_2007_abstract
+
+  name: Kwok et al., 2009
+  title: Thinning and volume loss of the Arctic Ocean sea ice cover: 2003-2008
+  lead: In Journal of Geophysical Research-Oceans, 2009
+  article 'Kwok_et_al_2009
+    insert Kwok_et_al_2009_abstract
+
+  name: Church et al., 2011
+  title: Understanding and Projecting Sea Level Change
+  lead: In Oceanography, 2011
+  article 'Church_et_al_2011
+    insert Church_et_al_2011_abstract
+
+  name: Granier et al., 2011
+  title: Evolution of anthropogenic and biomass burning emissions of air pollutants at global and regional scales during the 1980-2010 period
+  lead: In Climatic Change, 2011
+  article 'Granier_et_al_2011
+    insert Granier_et_al_2011_abstract
+
+  name: Haas et al., 2008
+  title: Reduced ice thickness in Arctic Transpolar Drift favors rapid ice retreat
+  lead: In Geophysical Research Letters, 2008
+  article 'Haas_et_al_2008
+    insert Haas_et_al_2008_abstract
+
+  name: Steinhilber et al., 2009
+  title: Total solar irradiance during the Holocene
+  lead: In Geophysical Research Letters, 2009
+  article 'Steinhilber_et_al_2009
+    insert Steinhilber_et_al_2009_abstract
+
+  name: IPCC, 1996
+  title: Climate Change 1995: The Science of Climate Change. Contribution of Working Group I to the Second Assessment Report of the Intergovernmental Panel on Climate Change
+  lead: By Cambridge University Press, 1996
+  book 'IPCC_1996
+    insert IPCC_1996_abstract
+
+  name: Moss et al., ?
+  title: Towards New Scenarios for Analysis of Emissions, Climate Change, Impacts, and Response Strategies
+  lead: By Intergovernmental Panel on Climate Change
+  ref 'Moss_et_al_
+    insert Moss_et_al__abstract
+
+  name: GCOS, 2009
+  title: Progress Report on the Implementation of the Global Observing System for Climate in Support of the UNFCCC 2004-2008, GCOS-129 (WMO/TD-No. 1489; GOOS-173; GTOS-70)
+  ref 'GCOS_2009
+    insert GCOS_2009_abstract
+
+  name: Scott et al., 2009
+  title: Increased rate of acceleration on Pine Island Glacier strongly coupled to changes in gravitational driving stress
+  lead: In The Cryosphere, 2009
+  article 'Scott_et_al_2009
+    insert Scott_et_al_2009_abstract
+
+  name: Bretherton et al., 1990
+  title: Time-Dependent Greenhouse-Gas-Induced Climate Change
+  lead: In Climate Change: The IPCC Scientific Assessment, 1990
+  booksec 'Bretherton_et_al_1990
+    insert Bretherton_et_al_1990_abstract
+
+  name: Duarte et al., 2012
+  title: Commentary: Abrupt climate change in the Arctic
+  lead: In Nature Climate Change, 2012
+  article 'Duarte_et_al_2012
+    insert Duarte_et_al_2012_abstract
+
+  name: Baede et al., 2001
+  title: The Climate System: an Overview
+  lead: In Climate Change 2001: The Scientific Basis. Contribution of Working Group I to the Third Assessment Report of the Intergovernmental Panel on Climate Change, 2001
+  booksec 'Baede_et_al_2001
+    insert Baede_et_al_2001_abstract
+
+  name: Schimel et al., 1996
+  title: Radiative Forcing of Climate Change
+  lead: In Climate Change 1995: The Science of Climate Change, Contribution of Working Group I to the Second Assessment Report of the Intergovernmental Panel on Climate Change, 1996
+  booksec 'Schimel_et_al_1996
+    insert Schimel_et_al_1996_abstract
+
+  name: Lüthi et al., 2008
+  title: High-resolution carbon dioxide concentration record 650,000-800,000 years before present
+  lead: In Nature, 2008
+  article 'Lthi_et_al_2008
+    insert Lthi_et_al_2008_abstract
+
+  name: Covey et al., 2003
+  title: An overview of results from the Coupled Model Intercomparison Project
+  lead: In Global and Planetary Change, 2003
+  article 'Covey_et_al_2003
+    insert Covey_et_al_2003_abstract
+
+  name: Hansen et al., 1981
+  title: Climate impact of increasing atmospheric carbon dioxide
+  lead: In Science, 1981
+  article 'Hansen_et_al_1981
+    insert Hansen_et_al_1981_abstract
+
+  name: Budescu et al., 2009
+  title: Improving communication of uncertainty in the reports of the Intergovernmental Panel on Climate Change
+  lead: In Psychological Sci., 2009
+  article 'Budescu_et_al_2009
+    insert Budescu_et_al_2009_abstract
+
+  name: Hegerl et al., 2007
+  title: Understanding and Attributing Climate Change
+  lead: In Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, 2007
+  booksec 'Hegerl_et_al_2007
+    insert Hegerl_et_al_2007_abstract
+
+  name: Masson and Knutti, 2011
+  title: Climate model genealogy
+  lead: In Geophysical Research Letters, 2011
+  article 'Masson_and_Knutti_2011
+    insert Masson_and_Knutti_2011_abstract
+
+  name: Manning et al., 2004
+  title: IPCC Workshop on: Describing Scientific Uncertainties in Climate Change to Support Analysis of Risk and of Options
+  lead: By [IPCC Working Group I Technical Support Unit (ed.)]. Available at http://www.ipcc.ch/ (accessed 07-10-2013), 2004
+  ref 'Manning_et_al_2004
+    insert Manning_et_al_2004_abstract
+
+  name: Forest et al., 2008
+  title: Constraining climate model parameters from observed 20th century changes
+  lead: In Tellus A, 2008
+  article 'Forest_et_al_2008
+    insert Forest_et_al_2008_abstract
+
+  name: Cleveland, 1979
+  title: Robust Locally Weighted Regression and Smoothing Scatterplots
+  lead: In Journal of the American Statistical Association, 1979
+  article 'Cleveland_1979
+    insert Cleveland_1979_abstract
+
+  name: Kandlikar et al., 2005
+  title: Representing and communicating deep uncertainty in climate-change assessments
+  lead: In Comptes Rendus Geoscience, 2005
+  article 'Kandlikar_et_al_2005
+    insert Kandlikar_et_al_2005_abstract
+
+  name: Frame et al., 2006
+  title: Alternatives to stabilization scenarios
+  lead: In Geophysical Research Letters, 2006
+  article 'Frame_et_al_2006
+    insert Frame_et_al_2006_abstract
+
+  name: Foley et al., 2005
+  title: Global consequences of land use
+  lead: In Science, 2005
+  article 'Foley_et_al_2005
+    insert Foley_et_al_2005_abstract
+
+  name: Brunet and Jones, 2011
+  title: Data rescue initiatives: bringing historical climate data into the 21st century
+  lead: In Climate Research, 2011
+  article 'Brunet_and_Jones_2011
+    insert Brunet_and_Jones_2011_abstract
+
+  name: Peterson et al., 2012
+  title: Explaining Extreme Events of 2011 from a Climate Perspective
+  lead: In Bulletin of the American Meteorological Society, 2012
+  article 'Peterson_et_al_2012
+    insert Peterson_et_al_2012_abstract
+
+  name: Turner and Overland, 2009
+  title: Contrasting climate change in the two polar regions
+  lead: In Polar Research, 2009
+  article 'Turner_and_Overland_2009
+    insert Turner_and_Overland_2009_abstract
+
+  name: Tedesco, 2007
+  title: A new record in 2007 for melting in Greenland
+  lead: In EOS, Transactions American Geophysical Union, 2007
+  article 'Tedesco_2007
+    insert Tedesco_2007_abstract
+
+  name: Dlugokencky et al., 2009
+  title: Observational constraints on recent increases in the atmospheric CH4 burden
+  lead: In Geophysical Research Letters, 2009
+  article 'Dlugokencky_et_al_2009
+    insert Dlugokencky_et_al_2009_abstract
+
+  name: Kopp and Lean, 2011
+  title: A new, lower value of total solar irradiance: Evidence and climate significance
+  lead: In Geophysical Research Letters, 2011
+  article 'Kopp_and_Lean_2011
+    insert Kopp_and_Lean_2011_abstract
+
+  name: Zemp et al., 2008
+  title: Global glacier changes: facts and figures
+  lead: By United Nations Environment Programme and World Glacier Monitoring Service, 2008
+  ref 'Zemp_et_al_2008
+    insert Zemp_et_al_2008_abstract
+
+  name: JCGM, 2008
+  title: JCGM 100: 2008. GUM 1995 with minor corrections. Evaluation of measurement data — Guide to the expression of uncertainty in measurement
+  lead: By Joint Committee for Guides in Metrology, 2008
+  ref 'JCGM_2008
+    insert JCGM_2008_abstract
+
+  name: Hurtt et al., 2011
+  title: Harmonization of land-use scenarios for the period 1500-2100: 600 years of global gridded annual land-use transitions, wood harvest, and resulting secondary lands
+  lead: In Climatic Change, 2011
+  article 'Hurtt_et_al_2011
+    insert Hurtt_et_al_2011_abstract
+
+  name: Elkins and Dutton, 2010
+  title: Nitrous oxide and sulfur hexaflouride. Section in State of the Climate in 2009
+  lead: In Bulletin of the American Meteorological Society, 2010
+  article 'Elkins_and_Dutton_2010
+    insert Elkins_and_Dutton_2010_abstract
+
+  name: Zhang and Zwiers, 2012
+  title: Statistical indices for the diagnosing and detecting changes in extremes
+  lead: In Extremes in a Changing Climate: Detection, Analysis and Uncertainty, 2012
+  booksec 'Zhang_and_Zwiers_2012
+    insert Zhang_and_Zwiers_2012_abstract
+
+  name: Dee et al., 2011
+  title: The ERA-Interim reanalysis: configuration and performance of the data assimilation system
+  lead: In Quarterly Journal of the Royal Meteorological Society, 2011
+  article 'Dee_et_al_2011
+    insert Dee_et_al_2011_abstract
+
+  name: Lamarque et al., 2011
+  title: Global and regional evolution of short-lived radiatively-active gases and aerosols in the Representative Concentration Pathways
+  lead: In Climatic Change, 2011
+  article 'Lamarque_et_al_2011
+    insert Lamarque_et_al_2011_abstract
+
+  name: Forster et al., 2007
+  title: Changes in Atmospheric Constituents and in Radiative Forcing
+  lead: In Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, 2007
+  booksec 'Forster_et_al_2007
+    insert Forster_et_al_2007_abstract
+
+    

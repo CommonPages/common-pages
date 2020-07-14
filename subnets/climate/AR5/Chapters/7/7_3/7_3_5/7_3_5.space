@@ -1,0 +1,30 @@
+
+public: ar5-7.3.5
+name: Section 7.3.5
+title: 7.3.5 - Aerosol Responses to Climate Change and Feedback
+section 7_3_5
+
+  |The response of aerosols to climate change may constitute a {Glossary.*Feedback feedback} loop whereby climate processes amplify or dampen the initial perturbation. We assess here the relevance and strength of {Glossary.*Aerosol aerosol}–climate feedbacks in the context of future climate change {Topics.*Scenarios scenarios}.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 7_3_5_1
+    - 7_3_5_2
+    - 7_3_5_3
+    - 7_3_5_4
+
+  name: Section 7.3.5 - Full Text
+  path FullText
+    name: Aerosol Responses to Climate Change and Feedback
+    step
+      include
+        - Chapters.7.7_3.7_3_5.SectionDoc
+        - Chapters.7.7_3.7_3_5.7_3_5_1.SectionDoc
+        - Chapters.7.7_3.7_3_5.7_3_5_2.SectionDoc
+        - Chapters.7.7_3.7_3_5.7_3_5_3.SectionDoc
+        - Chapters.7.7_3.7_3_5.7_3_5_4.SectionDoc
+    

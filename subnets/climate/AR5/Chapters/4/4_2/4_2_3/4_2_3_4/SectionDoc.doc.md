@@ -1,0 +1,6 @@
+index: hide
+public: ar5-
+name: Section 4.2.3.4
+title: 4.2.3.4 - Timing of Sea Ice Advance, Retreat and Ice Season Duration
+
+In the Antarctic there are regionally different patterns of strong change in ice duration (>2 days yr–1). In the northeast and west Antarctic Peninsula and southern Bellingshausen Sea {Topics.*Regional_Climate region}, later ice advance (+61 ± 15 days), earlier retreat (–39 ± 13 days) and shorter duration (+100 ± 31 days, a {Glossary.*Trend trend} of –3.1 ± 1.0 days yr–1) occurred over the period 1979/1980–2010/2011 ({cite.4.'Stammerjohn_et_al_2012}). These changes have strong impacts on the marine {Glossary.*Ecosystem ecosystem} ({cite.4.'MontesHugo_et_al_2009}; {cite.4.'Ducklow_et_al_2011}). The opposite is true in the adjacent western Ross Sea, where substantial lengthening of the ice season of 79 ± 12 days has occurred (+2.5 ± 0.4 days yr–1) due to earlier advance (+42 ± 8 days) and later retreat (–37 ± 8 days). Patterns of change in the relatively narrow East Antarctic sector are generally of a lower magnitude and zonally complex, but in certain regions involve changes in the timing of {Glossary.*Sea_ice sea ice} advance and retreat of the order of ±1 to 2 days yr–1 (for the period 1979–2009) ({cite.4.'Massom_et_al_2013}).

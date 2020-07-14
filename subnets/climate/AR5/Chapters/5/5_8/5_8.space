@@ -1,0 +1,28 @@
+
+public: ar5-5.8
+name: Section 5.8
+title: 5.8 - Paleoclimate Perspective on Irreversibility in the Climate System
+section 5_8
+
+  |A change in climate is considered irreversible if the recovery timescale from this change due to natural processes is significantly longer than the time it takes for the change to occur. Modelling studies imply a possibility of irreversible changes in the climate-{Topics.*Climate_System cryosphere} system in the past and future.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 5_8_1
+    - 5_8_2
+    - 5_8_3
+
+  name: Section 5.8 - Full Text
+  path FullText
+    name: Paleoclimate Perspective on Irreversibility in the Climate System
+    step
+      include
+        - Chapters.5.5_8.SectionDoc
+        - Chapters.5.5_8.5_8_1.SectionDoc
+        - Chapters.5.5_8.5_8_2.SectionDoc
+        - Chapters.5.5_8.5_8_3.SectionDoc
+    

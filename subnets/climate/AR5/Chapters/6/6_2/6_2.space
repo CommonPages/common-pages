@@ -1,0 +1,41 @@
+
+public: ar5-6.2
+name: Section 6.2
+title: 6.2 - Variations in Carbon and Other Biogeochemical Cycles Before the Fossil Fuel Era
+section 6_2
+
+  |The {Topics.*Climate_System Earth System} mechanisms that were responsible for {Topics.*Past_Climate past variations} in atmospheric {Glossary.*Carbon_dioxide CO2}, {Glossary.*Methane_CH4 CH4}, and {Glossary.*Nitrous_oxide_N2O N2O} will probably operate in the future as well. Past archives of {Glossary.*Greenhouse_gas GHGs} and climate therefore provide useful knowledge. They show with very high confidence that the average rates of increase of CO2, CH4 and N2O are larger during the Industrial Era than during any comparable period of at least the past 22,000 years.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 6_2_1
+    - 6_2_2
+    - 6_2_3
+
+  name: Section 6.2 - Full Text
+  path FullText
+    name: Variations in Carbon and Other Biogeochemical Cycles Before the Fossil Fuel Era
+    step
+      include
+        - Chapters.6.6_2.SectionDoc
+        - Chapters.6.6_2.6_2_1.6_2_1_1.SectionDoc
+        - Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_1.SectionDoc
+        - Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_2.SectionDoc
+        - Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_3.SectionDoc
+        - Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_4.SectionDoc
+        - Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_5.SectionDoc
+        - Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_6.SectionDoc
+        - Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_7.SectionDoc
+        - Chapters.6.6_2.6_2_1.6_2_1_2.SectionDoc
+        - Chapters.6.6_2.6_2_1.6_2_1_3.SectionDoc
+        - Chapters.6.6_2.6_2_2.6_2_2_1.SectionDoc
+        - Chapters.6.6_2.6_2_2.6_2_2_1.6_2_2_1_1.SectionDoc
+        - Chapters.6.6_2.6_2_2.6_2_2_1.6_2_2_1_2.SectionDoc
+        - Chapters.6.6_2.6_2_2.6_2_2_2.SectionDoc
+        - Chapters.6.6_2.6_2_3.6_2_3_1.SectionDoc
+        - Chapters.6.6_2.6_2_3.6_2_3_2.SectionDoc
+    

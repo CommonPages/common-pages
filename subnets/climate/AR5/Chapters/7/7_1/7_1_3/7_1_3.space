@@ -1,0 +1,15 @@
+
+public: ar5-7.1.3
+name: Section 7.1.3
+title: 7.1.3 - Forcing, Rapid Adjustments and Feedbacks
+section 7_1_3
+
+  |Forcings associated with agents such as greenhouse gases ({Glossary.*Greenhouse_gas GHGs}) and aerosols act on global mean {Topics.*Surface_Temperature surface temperature} through the global radiative (energy) budget. Rapid adjustments (sometimes called rapid responses) arise when {Topics.*Radiative_Forcing forcing} agents, by altering flows of energy internal to the system, affect cloud cover or other components of the climate system and thereby alter the global budget indirectly. Feedbacks are associated with changes in climate variables that are mediated by a change in global mean {Glossary.*Surface_temperature surface temperature}; they contribute to amplify or damp global temperature changes via their impact on the radiative budget.
+
+
+  
+
+  insert SectionDoc
+
+
+    

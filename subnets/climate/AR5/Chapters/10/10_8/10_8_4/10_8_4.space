@@ -1,0 +1,15 @@
+
+public: ar5-10.8.4
+name: Section 10.8.4
+title: 10.8.4 - Earth System Properties
+section 10_8_4
+
+  |The ratio of warming to cumulative {Topics.*Emissions emissions}, the {Glossary.*Transient_climate_response_to_cumulative_CO2_emissions TCRE}, is assessed to be likely between 0.8°C and 2.5oC per 1000 PgC based on observational constraints. This implies that, for warming due to {Glossary.*Carbon_dioxide CO2} emissions alone to be likely less than 2°C at the time CO2 emissions cease, total cumulative emissions from all {Glossary.*Anthropogenic anthropogenic} sources over the entire industrial era would need to be limited to about 1000 PgC, or one trillion tonnes of carbon.
+
+
+  
+
+  insert SectionDoc
+
+
+    

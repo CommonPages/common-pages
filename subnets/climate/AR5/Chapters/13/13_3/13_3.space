@@ -1,0 +1,37 @@
+
+public: ar5-13.3
+name: Section 13.3
+title: 13.3 - Contributions to Global Mean Sea Level Rise During the Instrumental Period
+section 13_3
+
+  |The budget of GMSL rise is given in {'Table_13_1 Table 13.1} and {'Figure_13_7 Figure 13.7}. The evidence now available gives a clearer account of observed GMSL change than in previous IPCC assessments, in two respects. First, reasonable agreement can be demonstrated throughout the period since 1900 between GMSL rise as observed and as calculated from the sum of contributions. Second, when both models and observations are available, they are consistent within {Topics.*Uncertainty uncertainties}. These two advances give confidence in the 21st century {Topics.*Sea_Level sea level} {Topics.*Climate_Projections projections}.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 13_3_1
+    - 13_3_2
+    - 13_3_3
+    - 13_3_4
+    - 13_3_5
+    - 13_3_6
+
+  name: Section 13.3 - Full Text
+  path FullText
+    name: Contributions to Global Mean Sea Level Rise During the Instrumental Period
+    step
+      include
+        - Chapters.13.13_3.SectionDoc
+        - Chapters.13.13_3.13_3_1.13_3_1_1.SectionDoc
+        - Chapters.13.13_3.13_3_1.13_3_1_2.SectionDoc
+        - Chapters.13.13_3.13_3_2.13_3_2_1.SectionDoc
+        - Chapters.13.13_3.13_3_2.13_3_2_2.SectionDoc
+        - Chapters.13.13_3.13_3_3.13_3_3_1.SectionDoc
+        - Chapters.13.13_3.13_3_3.13_3_3_2.SectionDoc
+        - Chapters.13.13_3.13_3_4.SectionDoc
+        - Chapters.13.13_3.13_3_5.SectionDoc
+        - Chapters.13.13_3.13_3_6.SectionDoc
+    

@@ -1,0 +1,125 @@
+
+public: ar5-5
+name: Chapter 5
+title: Chapter 5 - Information from Paleoclimate Archives
+lead: This chapter assesses the information on past climate obtained prior to the instrumental period. The information is based on data from various paleoclimatic archives and on modelling of past climate.
+chapterspace 5
+
+
+  import Figures._
+  import cite.5._
+
+  index: hide
+  title: Chapter 5 - Information from Paleoclimate Archives
+  lead: This chapter assesses the information on past climate obtained prior to the instrumental period. The information is based on data from various paleoclimatic archives and on modelling of past climate.
+  chapterstory ChapterStory
+    |The {Topics.*Climate_System Earth system} has responded and will continue to respond to various {Topics.*Radiative_Forcing external forcings} (solar, volcanic and orbital) and to changes in atmospheric composition. Since {cite.1.'IPCC_2007 AR4}, there exists a wide range of new information on past changes in atmospheric composition, {Topics.*Sea_Level sea level}, {Topics.*Regional_Climate regional climates} including droughts and floods, as well as new results from internationally coordinated {Topics.*Climate_Modelling model experiments} on {Topics.*Past_Climate past climates}. The mean Northern Hemisphere temperature of the last 30 or 50 years very likely exceeded any previous 30 or 50-year mean during the past 800 years. Similar results are found for the Southern Hemisphere, albeit with lower confidence. It is very likely that the average rate of temperature change since the last {Glossary.*Deglaciation_glacial_termination deglaciation} falls within 0.3 to 0.8°C per thousand years.
+    apply FullText
+
+    embed
+      - FAQ_5_1
+      - FAQ_5_2
+      - Box_5_1
+      - Box_5_2
+      - Appendix_5_A
+
+    include
+      - 5_1
+      - 5_2
+      - 5_3
+      - 5_4
+      - 5_5
+      - 5_6
+      - 5_7
+      - 5_8
+      - 5_9
+
+  apply FullText
+
+  
+
+  include
+    - 5_1
+    - 5_2
+    - 5_3
+    - 5_4
+    - 5_5
+    - 5_6
+    - 5_7
+    - 5_8
+    - 5_9
+
+  name: Chapter 5 - Full Text
+  path FullText
+    name: Introduction
+    step
+      include
+        - Chapters.5.5_1.SectionDoc
+    name: Orbital Forcing
+    step
+      include
+        - Chapters.5.5_2.5_2_1.5_2_1_1.SectionDoc
+        - Chapters.5.5_2.5_2_1.5_2_1_2.SectionDoc
+        - Chapters.5.5_2.5_2_1.5_2_1_3.SectionDoc
+        - Chapters.5.5_2.5_2_2.5_2_2_1.SectionDoc
+        - Chapters.5.5_2.5_2_2.5_2_2_2.SectionDoc
+        - Chapters.5.5_2.5_2_2.5_2_2_3.SectionDoc
+    name: Earth System Responses and Feedbacks at Global and Hemispheric Scales
+    step
+      include
+        - Chapters.5.5_3.SectionDoc
+        - Chapters.5.5_3.5_3_1.SectionDoc
+        - Chapters.5.5_3.5_3_2.5_3_2_1.SectionDoc
+        - Chapters.5.5_3.5_3_2.5_3_2_2.SectionDoc
+        - Chapters.5.5_3.5_3_2.5_3_2_3.SectionDoc
+        - Chapters.5.5_3.5_3_3.SectionDoc
+        - Chapters.5.5_3.5_3_3.5_3_3_1.SectionDoc
+        - Chapters.5.5_3.5_3_3.5_3_3_2.SectionDoc
+        - Chapters.5.5_3.5_3_4.SectionDoc
+        - Chapters.5.5_3.5_3_5.SectionDoc
+        - Chapters.5.5_3.5_3_5.5_3_5_1.SectionDoc
+        - Chapters.5.5_3.5_3_5.5_3_5_2.SectionDoc
+        - Chapters.5.5_3.5_3_5.5_3_5_3.SectionDoc
+    name: Modes of Climate Variability
+    step
+      include
+        - Chapters.5.5_4.SectionDoc
+        - Chapters.5.5_4.5_4_1.SectionDoc
+        - Chapters.5.5_4.5_4_2.SectionDoc
+    name: Regional Changes During the Holocene
+    step
+      include
+        - Chapters.5.5_5.SectionDoc
+        - Chapters.5.5_5.5_5_1.5_5_1_1.SectionDoc
+        - Chapters.5.5_5.5_5_1.5_5_1_2.SectionDoc
+        - Chapters.5.5_5.5_5_1.5_5_1_3.SectionDoc
+        - Chapters.5.5_5.5_5_2.SectionDoc
+        - Chapters.5.5_5.5_5_3.SectionDoc
+        - Chapters.5.5_5.5_5_4.SectionDoc
+        - Chapters.5.5_5.5_5_5.SectionDoc
+    name: Past Changes in Sea Level
+    step
+      include
+        - Chapters.5.5_6.SectionDoc
+        - Chapters.5.5_6.5_6_1.SectionDoc
+        - Chapters.5.5_6.5_6_2.SectionDoc
+        - Chapters.5.5_6.5_6_2.5_6_2_1.SectionDoc
+        - Chapters.5.5_6.5_6_2.5_6_2_2.SectionDoc
+        - Chapters.5.5_6.5_6_2.5_6_2_3.SectionDoc
+        - Chapters.5.5_6.5_6_3.SectionDoc
+    name: Evidence and Processes of Abrupt Climate Change
+    step
+      include
+        - Chapters.5.5_7.SectionDoc
+    name: Paleoclimate Perspective on Irreversibility in the Climate System
+    step
+      include
+        - Chapters.5.5_8.SectionDoc
+        - Chapters.5.5_8.5_8_1.SectionDoc
+        - Chapters.5.5_8.5_8_2.SectionDoc
+        - Chapters.5.5_8.5_8_3.SectionDoc
+    name: Concluding Remarks
+    step
+      include
+        - Chapters.5.5_9.SectionDoc
+    

@@ -1,0 +1,34 @@
+
+public: ar5-5.5
+name: Section 5.5
+title: 5.5 - Regional Changes During the Holocene
+section 5_5
+
+  |Continental scale {Topics.*Surface_Temperature surface temperature} reconstructions from 950 to 1250 show multi-decadal periods that were in some regions as warm as in the mid-20th century and in others as warm as in the late 20th century. These regional warm periods were not as synchronous across regions as the warming since the mid 20th century. There is medium confidence that the current ice loss was unprecedented and that current SSTs in the Arctic were anomalously high at least in the context of the last 1450 years. There is high confidence that glaciers at times have been smaller than at the end of the 20th century in many regions.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 5_5_1
+    - 5_5_2
+    - 5_5_3
+    - 5_5_4
+    - 5_5_5
+
+  name: Section 5.5 - Full Text
+  path FullText
+    name: Regional Changes During the Holocene
+    step
+      include
+        - Chapters.5.5_5.SectionDoc
+        - Chapters.5.5_5.5_5_1.5_5_1_1.SectionDoc
+        - Chapters.5.5_5.5_5_1.5_5_1_2.SectionDoc
+        - Chapters.5.5_5.5_5_1.5_5_1_3.SectionDoc
+        - Chapters.5.5_5.5_5_2.SectionDoc
+        - Chapters.5.5_5.5_5_3.SectionDoc
+        - Chapters.5.5_5.5_5_4.SectionDoc
+        - Chapters.5.5_5.5_5_5.SectionDoc
+    

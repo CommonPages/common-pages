@@ -1,0 +1,30 @@
+
+public: ar5-8.3.2.4
+name: Section 8.3.2.4
+title: 8.3.2.4 - Other Well-mixed Greenhouse Gases
+section 8_3_2_4
+
+  |{Glossary.*Halocarbons Halocarbons} have made a significant contribution to the past rate of change of {Topics.*Radiative_Forcing RF}. Since the {Glossary.*Montreal_Protocol Montreal Protocol} and its amendments, the rate of change of RF from halocarbons has been much less, but still just positive. CFCs and HCFCs contribute approximately 11% of the {Topics.*The_Greenhouse_Effect WMGHG} RF. The RF of HFCs has close to doubled since {cite.1.'IPCC_2007 AR4}. Nitrogen trifluoride and sulfuryl fluoride both have rapidly increasing {Topics.*Emissions emissions} and high GWPs, but currently contribute little to {Glossary.*Anthropogenic anthropogenic} RF.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 8_3_2_4_1
+    - 8_3_2_4_2
+    - 8_3_2_4_3
+    - 8_3_2_4_4
+
+  name: Section 8.3.2.4 - Full Text
+  path FullText
+    name: Other Well-mixed Greenhouse Gases
+    step
+      include
+        - Chapters.8.8_3.8_3_2.8_3_2_4.SectionDoc
+        - Chapters.8.8_3.8_3_2.8_3_2_4.8_3_2_4_1.SectionDoc
+        - Chapters.8.8_3.8_3_2.8_3_2_4.8_3_2_4_2.SectionDoc
+        - Chapters.8.8_3.8_3_2.8_3_2_4.8_3_2_4_3.SectionDoc
+        - Chapters.8.8_3.8_3_2.8_3_2_4.8_3_2_4_4.SectionDoc
+    

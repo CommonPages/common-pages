@@ -1,0 +1,140 @@
+
+public: ar5-3
+name: Chapter 3
+title: Chapter 3 - Observations: Ocean
+lead: This chapter summarizes the observational evidence of change in the ocean, with an emphasis on basin-and global-scale changes relevant to climate.
+chapterspace 3
+
+
+  import Figures._
+  import cite.3._
+
+  index: hide
+  title: Chapter 3 - Observations: Ocean
+  lead: This chapter summarizes the observational evidence of change in the ocean, with an emphasis on basin-and global-scale changes relevant to climate.
+  chapterstory ChapterStory
+    |The ocean influences climate by storing and transporting large amounts of heat, freshwater, and carbon, and by exchanging these properties with the {Topics.*Climate_System atmosphere}. Changes have been observed in ocean properties of relevance to climate during the past 40 years, including temperature, salinity, {Topics.*Sea_Level sea level}, carbon, {Glossary.*pH pH}, and oxygen. It is virtually certain that the upper ocean warmed from 1971 to 2010, and that globally averaged sea level has risen over the 20th century. The observed patterns of change are consistent with changes in the surface ocean in response to climate change and variability, and with known physical and biogeochemical processes in the ocean, providing high confidence in this assessment.
+    apply FullText
+
+    embed
+      - FAQ_3_1
+      - FAQ_3_2
+      - FAQ_3_3
+      - Box_3_1
+      - Box_3_2
+      - Appendix_3_A
+
+    include
+      - 3_1
+      - 3_2
+      - 3_3
+      - 3_4
+      - 3_5
+      - 3_6
+      - 3_7
+      - 3_8
+      - 3_9
+
+  apply FullText
+
+  
+
+  include
+    - 3_1
+    - 3_2
+    - 3_3
+    - 3_4
+    - 3_5
+    - 3_6
+    - 3_7
+    - 3_8
+    - 3_9
+
+  name: Chapter 3 - Full Text
+  path FullText
+    name: Introduction
+    step
+      include
+        - Chapters.3.3_1.SectionDoc
+    name: Effects of Sampling on Ocean Heat Content Estimates
+    step
+      include
+        - Chapters.3.3_2.3_2_1.SectionDoc
+        - Chapters.3.3_2.3_2_2.SectionDoc
+        - Chapters.3.3_2.3_2_3.SectionDoc
+        - Chapters.3.3_2.3_2_4.SectionDoc
+        - Chapters.3.3_2.3_2_5.SectionDoc
+    name: Introduction
+    step
+      include
+        - Chapters.3.3_3.3_3_1.SectionDoc
+        - Chapters.3.3_3.3_3_2.SectionDoc
+        - Chapters.3.3_3.3_3_2.3_3_2_1.SectionDoc
+        - Chapters.3.3_3.3_3_2.3_3_2_2.SectionDoc
+        - Chapters.3.3_3.3_3_3.SectionDoc
+        - Chapters.3.3_3.3_3_3.3_3_3_1.SectionDoc
+        - Chapters.3.3_3.3_3_3.3_3_3_2.SectionDoc
+        - Chapters.3.3_3.3_3_3.3_3_3_3.SectionDoc
+        - Chapters.3.3_3.3_3_3.3_3_3_4.SectionDoc
+        - Chapters.3.3_3.3_3_4.SectionDoc
+        - Chapters.3.3_3.3_3_5.SectionDoc
+    name: Introduction
+    step
+      include
+        - Chapters.3.3_4.3_4_1.SectionDoc
+        - Chapters.3.3_4.3_4_2.3_4_2_1.SectionDoc
+        - Chapters.3.3_4.3_4_2.3_4_2_2.SectionDoc
+        - Chapters.3.3_4.3_4_2.3_4_2_3.SectionDoc
+        - Chapters.3.3_4.3_4_3.SectionDoc
+        - Chapters.3.3_4.3_4_4.SectionDoc
+        - Chapters.3.3_4.3_4_5.SectionDoc
+        - Chapters.3.3_4.3_4_5.3_4_5_1.SectionDoc
+        - Chapters.3.3_4.3_4_5.3_4_5_2.SectionDoc
+        - Chapters.3.3_4.3_4_5.3_4_5_3.SectionDoc
+        - Chapters.3.3_4.3_4_6.SectionDoc
+    name: Introduction
+    step
+      include
+        - Chapters.3.3_5.3_5_1.SectionDoc
+        - Chapters.3.3_5.3_5_2.3_5_2_1.SectionDoc
+        - Chapters.3.3_5.3_5_2.3_5_2_2.SectionDoc
+        - Chapters.3.3_5.3_5_3.SectionDoc
+        - Chapters.3.3_5.3_5_3.3_5_3_1.SectionDoc
+        - Chapters.3.3_5.3_5_3.3_5_3_2.SectionDoc
+        - Chapters.3.3_5.3_5_3.3_5_3_3.SectionDoc
+        - Chapters.3.3_5.3_5_4.SectionDoc
+    name: Global Observations of Ocean Circulation Variability
+    step
+      include
+        - Chapters.3.3_6.3_6_1.SectionDoc
+        - Chapters.3.3_6.3_6_2.SectionDoc
+        - Chapters.3.3_6.3_6_3.SectionDoc
+        - Chapters.3.3_6.3_6_4.SectionDoc
+        - Chapters.3.3_6.3_6_5.3_6_5_1.SectionDoc
+        - Chapters.3.3_6.3_6_5.3_6_5_2.SectionDoc
+        - Chapters.3.3_6.3_6_5.3_6_5_3.SectionDoc
+        - Chapters.3.3_6.3_6_6.SectionDoc
+    name: Introduction and Overview of Sea Level Measurements
+    step
+      include
+        - Chapters.3.3_7.3_7_1.SectionDoc
+        - Chapters.3.3_7.3_7_2.SectionDoc
+        - Chapters.3.3_7.3_7_3.SectionDoc
+        - Chapters.3.3_7.3_7_4.SectionDoc
+        - Chapters.3.3_7.3_7_5.SectionDoc
+        - Chapters.3.3_7.3_7_6.SectionDoc
+    name: Ocean Biogeochemical Changes, Including Anthropogenic Ocean Acidification
+    step
+      include
+        - Chapters.3.3_8.SectionDoc
+        - Chapters.3.3_8.3_8_1.3_8_1_1.SectionDoc
+        - Chapters.3.3_8.3_8_1.3_8_1_2.SectionDoc
+        - Chapters.3.3_8.3_8_2.SectionDoc
+        - Chapters.3.3_8.3_8_3.SectionDoc
+        - Chapters.3.3_8.3_8_4.SectionDoc
+        - Chapters.3.3_8.3_8_5.SectionDoc
+    name: Synthesis
+    step
+      include
+        - Chapters.3.3_9.SectionDoc
+    

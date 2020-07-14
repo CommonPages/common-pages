@@ -1,0 +1,51 @@
+
+public: ar5-14.8
+name: Section 14.8
+title: 14.8 - Future Regional Climate Change
+section 14_8
+
+  |{Topics.*Regional_Climate Regional climate} {Topics.*Climate_Projections projections} are generally more uncertain than projections of {Topics.*Surface_Temperature global mean temperature} but the sources of {Topics.*Uncertainty uncertainty} are similar yet differ in relative importance. Regional climate assessments incur additional uncertainty due to the cascade of uncertainty through the hierarchy of models needed to generate local information. {'Table_14_2 Table 14.2} summarizes the assessed confidence in the ability of CMIP5 models to represent regional scale present-day climate, the main controlling phenomena for weather and climate in that region and the assessed resulting confidence in the future projections.
+
+
+  apply FullText
+
+  
+
+  include
+    - 14_8_1
+    - 14_8_2
+    - 14_8_3
+    - 14_8_4
+    - 14_8_5
+    - 14_8_6
+    - 14_8_7
+    - 14_8_8
+    - 14_8_9
+    - 14_8_10
+    - 14_8_11
+    - 14_8_12
+    - 14_8_13
+    - 14_8_14
+    - 14_8_15
+
+  name: Section 14.8 - Full Text
+  path FullText
+    name: Overview
+    step
+      include
+        - Chapters.14.14_8.14_8_1.SectionDoc
+        - Chapters.14.14_8.14_8_2.SectionDoc
+        - Chapters.14.14_8.14_8_3.SectionDoc
+        - Chapters.14.14_8.14_8_4.SectionDoc
+        - Chapters.14.14_8.14_8_5.SectionDoc
+        - Chapters.14.14_8.14_8_6.SectionDoc
+        - Chapters.14.14_8.14_8_7.SectionDoc
+        - Chapters.14.14_8.14_8_8.SectionDoc
+        - Chapters.14.14_8.14_8_9.SectionDoc
+        - Chapters.14.14_8.14_8_10.SectionDoc
+        - Chapters.14.14_8.14_8_11.SectionDoc
+        - Chapters.14.14_8.14_8_12.SectionDoc
+        - Chapters.14.14_8.14_8_13.SectionDoc
+        - Chapters.14.14_8.14_8_14.SectionDoc
+        - Chapters.14.14_8.14_8_15.SectionDoc
+    

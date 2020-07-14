@@ -1,0 +1,15 @@
+
+public: ar5-9.2.1.1
+name: Section 9.2.1.1
+title: 9.2.1.1 - Evaluating the Overall Model Results
+section 9_2_1_1
+
+  |The most straightforward approach to evaluate models is to compare simulated quantities with corresponding observationally based estimates. A significant development since the {cite.1.'IPCC_2007 AR4} is the increased use of quantitative statistical measures, referred to as performance metrics. The use of such metrics simplifies synthesis and visualization of model performance and enables the quantitative assessment of model improvements over time.
+
+
+  
+
+  insert SectionDoc
+
+
+    

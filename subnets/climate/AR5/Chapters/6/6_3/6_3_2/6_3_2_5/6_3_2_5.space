@@ -1,0 +1,33 @@
+
+public: ar5-6.3.2.5
+name: Section 6.3.2.5
+title: 6.3.2.5 - Ocean Carbon Dioxide Sink
+section 6_3_2_5
+
+  |The {Glossary.*Uptake uptake} of {Glossary.*Anthropogenic anthropogenic} {Glossary.*Carbon_dioxide CO2} by the ocean is primarily a response to increasing CO2 in the {Topics.*Climate_System atmosphere}. Observational-based estimates for the global ocean inventory of anthropogenic carbon agree well among each other, with an average value of 155 ± 30 PgC of increased dissolved inorganic carbon for the period 1750–2011. Observations of the partial pressure of CO2 at the ocean surface (pCO2) show that ocean pCO2 has been increasing generally at about the same rate as CO2 in the {Glossary.*Atmosphere atmosphere}.
+
+
+  apply FullText
+
+  
+
+  include
+    - 6_3_2_5_1
+    - 6_3_2_5_2
+    - 6_3_2_5_3
+    - 6_3_2_5_4
+    - 6_3_2_5_5
+    - 6_3_2_5_6
+
+  name: Section 6.3.2.5 - Full Text
+  path FullText
+    name: Global ocean sink and decadal change
+    step
+      include
+        - Chapters.6.6_3.6_3_2.6_3_2_5.6_3_2_5_1.SectionDoc
+        - Chapters.6.6_3.6_3_2.6_3_2_5.6_3_2_5_2.SectionDoc
+        - Chapters.6.6_3.6_3_2.6_3_2_5.6_3_2_5_3.SectionDoc
+        - Chapters.6.6_3.6_3_2.6_3_2_5.6_3_2_5_4.SectionDoc
+        - Chapters.6.6_3.6_3_2.6_3_2_5.6_3_2_5_5.SectionDoc
+        - Chapters.6.6_3.6_3_2.6_3_2_5.6_3_2_5_6.SectionDoc
+    

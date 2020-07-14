@@ -1,0 +1,15 @@
+
+public: ar5-9.8.3
+name: Section 9.8.3
+title: 9.8.3 - Implications of Model Evaluation for Model Projections of Future Climate
+section 9_8_3
+
+  |Confidence in {Topics.*Climate_Projections climate model projections} is based on physical understanding of the climate system and its representation in {Topics.*Climate_Modelling climate models}, and on a demonstration of how well models represent a wide range of processes and climate characteristics on various {Glossary.*Spatial_and_temporal_scales spatial and temporal scales}. There are several encouraging examples of ‘emergent constraints’, which are relationships across an {Glossary.*Ensemble ensemble} of models between some aspect of {Topics.*Climate_System Earth System} sensitivity and an observable {Glossary.*Trend trend} or variation in the contemporary climate. On the other hand, many studies have failed to find strong relationships between observables and projections.
+
+
+  
+
+  insert SectionDoc
+
+
+    

@@ -1,0 +1,15 @@
+
+public: ar5-10.8.1
+name: Section 10.8.1
+title: 10.8.1 - Transient Climate Response
+section 10_8_1
+
+  |TCR was originally defined as the warming at the time of {Glossary.*Carbon_dioxide CO2} doubling in a 1% yr–1 increasing CO2 experiment. Like ECS, it can also be thought of as a generic property of the climate system that determines the global temperature response to any gradual increase in {Topics.*Radiative_Forcing RF}, taking place over an approximately 70-year time scale. We conclude that, on the basis of constraints provided by recent observed climate change, TCR is likely to lie in the range 1°C to 2.5°C and extremely unlikely to be greater than 3°C. This range for TCR is smaller than given at the time of {cite.1.'IPCC_2007 AR4}, due to the stronger observational constraints and the wider range of studies now available.
+
+
+  
+
+  insert SectionDoc
+
+
+    

@@ -1,0 +1,32 @@
+
+public: ar5-10.6.1
+name: Section 10.6.1
+title: 10.6.1 - Attribution of Changes in Frequency/ Occurrence and Intensity of Extremes
+section 10_6_1
+
+  |We assess that it is very likely that {Topics.*Human_Influence human influence} has contributed to the observed changes in the frequency and intensity of daily {Topics.*Extreme_Events temperature extremes} on the global scale since the mid-20th century. There is medium confidence that {Glossary.*Anthropogenic anthropogenic} forcing has contributed to a global scale intensification of heavy precipitation over the second half of the 20th century. There is not enough evidence to attibute increasing trends in droughts since the 1970s to {Topics.*Radiative_Forcing anthropogenic forcings}. An anthropogenic influence on extratropical cyclones has not been formally detected. Globally, there is low confidence in any long-term increases in tropical cyclone activity and we assess that there is low confidence in attributing global changes to any particular cause.
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 10_6_1_1
+    - 10_6_1_2
+    - 10_6_1_3
+    - 10_6_1_4
+    - 10_6_1_5
+
+  name: Section 10.6.1 - Full Text
+  path FullText
+    name: Attribution of Changes in Frequency/ Occurrence and Intensity of Extremes
+    step
+      include
+        - Chapters.10.10_6.10_6_1.SectionDoc
+        - Chapters.10.10_6.10_6_1.10_6_1_1.SectionDoc
+        - Chapters.10.10_6.10_6_1.10_6_1_2.SectionDoc
+        - Chapters.10.10_6.10_6_1.10_6_1_3.SectionDoc
+        - Chapters.10.10_6.10_6_1.10_6_1_4.SectionDoc
+        - Chapters.10.10_6.10_6_1.10_6_1_5.SectionDoc
+    

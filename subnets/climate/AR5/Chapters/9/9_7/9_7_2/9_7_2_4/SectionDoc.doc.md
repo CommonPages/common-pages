@@ -1,0 +1,6 @@
+index: hide
+public: ar5-
+name: Section 9.7.2.4
+title: 9.7.2.4 - Relationship of Feedbacks to Modelled Climate Sensitivity
+
+The ECS can be estimated from the ratio of forcing to the total climate {Glossary.*Feedback feedback} parameter. This approach is applicable to simulations in which the net radiative balance is much smaller than the forcing and hence the modelled climate system is essentially in equilibrium. This approach can also serve to check the internal consistency of estimates of the ECS, forcing, and feedback parameters obtained using independent methods. The relationship between ECS from {cite.9.'Andrews_et_al_2012 Andrews et al. (2012)} and estimates of ECS obtained from the ratio of {Topics.*Radiative_Forcing forcings} to feedbacks is shown in {'Figure_9_43 Figure 9.43}b. The forcings are estimated using both regression and fixed {Glossary.*Sea_Surface_Temperature SST} techniques ({cite.9.'Gregory_et_al_2004}; {cite.9.'Hansen_et_al_2005}) by {cite.9.'Andrews_et_al_2012 Andrews et al. (2012)} and the feedbacks are calculated using radiative kernels ({cite.9.'Soden_et_al_2008}). On average, the ECS from forcing to feedback ratios underestimate the ECS from {cite.9.'Andrews_et_al_2012 Andrews et al. (2012)} by 25% and 35%, or up to 50% for individual models, using fixed-SST and regression forcings, respectively.

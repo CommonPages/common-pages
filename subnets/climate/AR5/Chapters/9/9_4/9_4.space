@@ -1,0 +1,57 @@
+
+public: ar5-9.4
+name: Section 9.4
+title: 9.4 - Simulation of Recent and Longer-Term Records in Global Models
+section 9_4
+
+  |There is high confidence that large-scale patterns of {Topics.*Surface_Temperature surface temperature} are well simulated by the CMIP5 models. The model results for {Glossary.*Precipitable_water precipitable water} are within the {Topics.*Uncertainty uncertainties} of the observations. There is high confidence that the CMIP3 and CMIP5 models simulate the main physical and dynamical processes at play during transient ocean heat {Glossary.*Uptake uptake}, {Topics.*Sea_Level sea level} rise, and coupled {Topics.*Climate_Variability modes of variability}. The CMIP5 multi-model {Glossary.*Ensemble ensemble} exhibits improvements over CMIP3 in simulation of {Glossary.*Sea_ice sea ice} extent in both hemispheres.
+
+
+  apply FullText
+
+  
+
+  include
+    - 9_4_1
+    - 9_4_2
+    - 9_4_3
+    - 9_4_4
+    - 9_4_5
+    - 9_4_6
+
+  name: Section 9.4 - Full Text
+  path FullText
+    name: Atmosphere
+    step
+      include
+        - Chapters.9.9_4.9_4_1.SectionDoc
+        - Chapters.9.9_4.9_4_1.9_4_1_1.SectionDoc
+        - Chapters.9.9_4.9_4_1.9_4_1_2.SectionDoc
+        - Chapters.9.9_4.9_4_1.9_4_1_3.SectionDoc
+        - Chapters.9.9_4.9_4_1.9_4_1_4.SectionDoc
+        - Chapters.9.9_4.9_4_1.9_4_1_4.9_4_1_4_1.SectionDoc
+        - Chapters.9.9_4.9_4_1.9_4_1_4.9_4_1_4_2.SectionDoc
+        - Chapters.9.9_4.9_4_1.9_4_1_4.9_4_1_4_3.SectionDoc
+        - Chapters.9.9_4.9_4_1.9_4_1_4.9_4_1_4_4.SectionDoc
+        - Chapters.9.9_4.9_4_1.9_4_1_4.9_4_1_4_5.SectionDoc
+        - Chapters.9.9_4.9_4_1.9_4_1_5.SectionDoc
+        - Chapters.9.9_4.9_4_2.SectionDoc
+        - Chapters.9.9_4.9_4_2.9_4_2_1.SectionDoc
+        - Chapters.9.9_4.9_4_2.9_4_2_2.SectionDoc
+        - Chapters.9.9_4.9_4_2.9_4_2_3.9_4_2_3_1.SectionDoc
+        - Chapters.9.9_4.9_4_2.9_4_2_4.SectionDoc
+        - Chapters.9.9_4.9_4_2.9_4_2_5.9_4_2_5_1.SectionDoc
+        - Chapters.9.9_4.9_4_2.9_4_2_5.9_4_2_5_2.SectionDoc
+        - Chapters.9.9_4.9_4_2.9_4_2_5.9_4_2_5_3.SectionDoc
+        - Chapters.9.9_4.9_4_2.9_4_2_6.SectionDoc
+        - Chapters.9.9_4.9_4_3.SectionDoc
+        - Chapters.9.9_4.9_4_3.9_4_3_1.SectionDoc
+        - Chapters.9.9_4.9_4_4.SectionDoc
+        - Chapters.9.9_4.9_4_4.9_4_4_1.SectionDoc
+        - Chapters.9.9_4.9_4_4.9_4_4_2.SectionDoc
+        - Chapters.9.9_4.9_4_4.9_4_4_3.SectionDoc
+        - Chapters.9.9_4.9_4_4.9_4_4_4.SectionDoc
+        - Chapters.9.9_4.9_4_5.SectionDoc
+        - Chapters.9.9_4.9_4_6.9_4_6_1.SectionDoc
+        - Chapters.9.9_4.9_4_6.9_4_6_2.SectionDoc
+    

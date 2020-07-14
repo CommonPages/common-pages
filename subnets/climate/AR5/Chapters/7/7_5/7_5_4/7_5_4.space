@@ -1,0 +1,15 @@
+
+public: ar5-7.5.4
+name: Section 7.5.4
+title: 7.5.4 - Estimate of Effective Radiative Forcing from Aerosol–Cloud Interactions Alone
+section 7_5_4
+
+  |There is much less confidence associated with the estimate of {Glossary.*Effective_radiative_forcing_due_to_aerosol_cloud_interactions ERFaci} than with the estimate of {Glossary.*Effective_radiative_forcing_due_to_aerosol_radiation_interactions ERFari}+aci. Individual contributions of ERFari+aci are very difficult to disentangle. They can be isolated only if linearity of ERFari and ERFaci is assumed but there is no a priori reason why the ERFs should be additive. Nevertheless assuming additivity, ERFaci could be obtained as the difference between ERFari+aci and ERFari. This yields an ERFaci estimate of –0.45 W m–2.
+
+
+  
+
+  insert SectionDoc
+
+
+    

@@ -1,0 +1,15 @@
+
+public: ar5-13.6.4.1
+name: Section 13.6.4.1
+title: 13.6.4.1 - Dynamic Ocean Response to Cryospheric Freshwater Forcing
+section 13_6_4_1
+
+  |The addition of freshwater from glaciers and ice sheets to the ocean leads to an instantaneous increase in global mean {Topics.*Sea_Level sea level}, but because it is communicated around the ocean basins via a dynamical adjustment, it is not instantaneously globally uniform. The addition of freshwater to the ocean from melting of the Greenland {Glossary.*Ice_sheet ice sheet} results in an additional basin-wide {Glossary.*Steric steric} response of the North Atlantic within months and is communicated to the global ocean via boundary waves, equatorial Kelvin waves, and westward propagating baroclinic Rossby waves on decadal time scales. The combination of this dynamic sea level rise and the global {Glossary.*Mean_sea_level mean sea level} rise makes the northeastern North American coast vulnerable to some of the fastest and largest sea level rises during this century.
+
+
+  
+
+  insert SectionDoc
+
+
+    

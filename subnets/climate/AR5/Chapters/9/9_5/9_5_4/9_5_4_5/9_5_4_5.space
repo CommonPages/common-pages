@@ -1,0 +1,15 @@
+
+public: ar5-9.5.4.5
+name: Section 9.5.4.5
+title: 9.5.4.5 - Summary
+section 9_5_4_5
+
+  |There is medium evidence (i.e., a few multi-model studies) and high agreement that the global distribution of {Topics.*Extreme_Events temperature extremes} are represented well by CMIP3 and CMIP5 models. There is medium evidence and medium agreement that CMIP5 models tend to simulate more more realistic precipitation extremes than CMIP3. There is medium evidence and high agreement that year-to-year count variability of Atlantic hurricanes can be well simulated by modestly high {Glossary.*Resolution resolution} AGCMs forced by observed SSTs.
+
+
+  
+
+  insert SectionDoc
+
+
+    

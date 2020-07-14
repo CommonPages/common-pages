@@ -1,0 +1,184 @@
+
+
+name: Chapter 9 - Conclusions
+lead: Formal conclusions presented in Chapter 9.
+conclusions ExecutiveSummary
+
+
+  
+  insert
+    - C1
+    - C2
+    - C3
+    - C4
+    - C5
+    - C6
+    - C7
+    - C8
+    - C9
+    - C10
+    - C11
+    - C12
+    - C13
+    - C14
+    - C15
+    - C16
+    - C17
+    - C18
+    - C19
+
+
+  index: hide
+  let C1
+    |<strong>{Topics.*Climate_Modelling Climate models} have continued to be developed and improved since the {cite.1.'IPCC_2007 AR4}, and many models have been extended into {Topics.*Climate_System Earth System} models by including the representation of biogeochemical cycles important to climate change.
+    |</strong> These models allow for policy-relevant calculations such as the carbon dioxide ({Glossary.*Carbon_dioxide CO2}) {Topics.*Emissions emissions} compatible with a specified climate stabilization target. In addition, the range of climate variables and processes that have been evaluated has greatly expanded, and differences between models and observations are increasingly quantified using ‘performance metrics’. In this chapter, model evaluation covers simulation of the mean climate, of historical climate change, of variability on multiple time scales and of regional {Topics.*Climate_Variability modes of variability}. This evaluation is based on recent internationally coordinated model experiments, including simulations of historic and paleo climate, specialized experiments designed to provide insight into key climate processes and feedbacks and {Topics.*Regional_Climate regional climate} {Glossary.*Downscaling downscaling}. {'Figure_9_44 Figure 9.44} provides an overview of model capabilities as assessed in this chapter, including improvements, or lack thereof, relative to models assessed in the AR4. The chapter concludes with an assessment of recent work connecting model performance to the {Glossary.*Detection_and_Attribution detection} and {Topics.*Attribution_of_Change attribution} of climate change as well as to future {Topics.*Climate_Projections projections}.
+    |
+    |See: <em>Sections {Chapters.9.9_1.9_1_2 9.1.2} {Chapters.9.9_8.9_8_1 9.8.1}, {'Table_9_1 Table 9.1}, {'Figure_9_44 Figure 9.44}
+    |</em>
+
+  index: hide
+  let C2
+    |<strong>The ability of {Topics.*Climate_Modelling climate models} to simulate {Topics.*Surface_Temperature surface temperature} has improved in many, though not all, important aspects relative to the generation of models assessed in the {cite.1.'IPCC_2007 AR4}.
+    |</strong> There continues to be very high confidence1 that models reproduce observed large-scale mean {Glossary.*Surface_temperature surface temperature} patterns (pattern correlation of ~0.99), though systematic errors of several degrees are found in some regions, particularly over high topography, near the ice edge in the North Atlantic, and over regions of ocean upwelling near the equator. On regional scales (sub-continental and smaller), the confidence in model capability to simulate surface temperature is less than for the larger scales; however, regional biases are near zero on average, with intermodel spread of roughly ±3°C. There is high confidence that regional-scale surface temperature is better simulated than at the time of the AR4. Current models are also able to reproduce the large-scale patterns of temperature during the Last Glacial Maximum ({Glossary.*Last_Glacial_Maximum LGM}), indicating an ability to simulate a climate state much different from the present.
+    |
+    |See: <em>Sections {Chapters.9.9_4.9_4_1 9.4.1} {Chapters.9.9_6.9_6_1 9.6.1}, {'Figure_9_2 Figures 9.2}, 9.6, 9.39, 9.40
+    |</em>
+
+  index: hide
+  let C3
+    |<strong>There is very high confidence that models reproduce the general features of the global-scale annual mean {Topics.*Surface_Temperature surface temperature} increase over the historical period, including the more rapid warming in the second half of the 20th century, and the cooling immediately following large volcanic eruptions.
+    |</strong> Most simulations of the historical period do not reproduce the observed reduction in global mean surface warming {Glossary.*Trend trend} over the last 10 to 15 years. There is medium confidence that the trend difference between models and observations during 1998–2012 is to a substantial degree caused by {Topics.*Climate_Variability internal variability}, with possible contributions from {Topics.*Radiative_Forcing forcing} error and some models overestimating the response to increasing {Glossary.*Greenhouse_gas greenhouse gas} (GHG) forcing. Most, though not all, models overestimate the observed warming trend in the tropical {Glossary.*Troposphere troposphere} over the last 30 years, and tend to underestimate the long-term lower stratospheric cooling trend.
+    |
+    |See: <em>{Chapters.9.9_4.9_4_1 Section 9.4.1}, {Box_9_2 Box 9.2}, {'Figure_9_8 Figure 9.8}
+    |</em>
+
+  index: hide
+  let C4
+    |<strong>The simulation of large-scale patterns of precipitation has improved somewhat since the {cite.1.'IPCC_2007 AR4}, although models continue to perform less well for precipitation than for {Topics.*Surface_Temperature surface temperature}.
+    |</strong> The spatial pattern correlation between modelled and observed annual mean precipitation has increased from 0.77 for models available at the time of the AR4 to 0.82 for current models. At regional scales, precipitation is not simulated as well, and the assessment remains difficult owing to observational {Topics.*Uncertainty uncertainties}.
+    |
+    |See: <em>Sections {Chapters.9.9_4.9_4_1 9.4.1} {Chapters.9.9_6.9_6_1 9.6.1}, {'Figure_9_6 Figure 9.6}
+    |</em>
+
+  index: hide
+  let C5
+    |<strong>The simulation of clouds in {Topics.*Climate_Modelling climate models} remains challenging.
+    |</strong> There is very high confidence that {Topics.*Uncertainty uncertainties} in cloud processes explain much of the spread in modelled {Glossary.*Climate_sensitivity climate sensitivity}. However, the simulation of clouds in climate models has shown modest improvement relative to models available at the time of the {cite.1.'IPCC_2007 AR4}, and this has been aided by new evaluation techniques and new observations for clouds. Nevertheless, biases in cloud simulation lead to regional errors on cloud {Glossary.*Radiative_effect radiative effect} of several tens of watts per square meter.
+    |
+    |See: <em>Sections {Chapters.9.9_2.9_2_1 9.2.1} {Chapters.9.9_4.9_4_1 9.4.1}, {Chapters.9.9_7.9_7_2 9.7.2}, {'Figure_9_5 Figures 9.5}, 9.43
+    |</em>
+
+  index: hide
+  let C6
+    |<strong>Models are able to capture the general characteristics of {Glossary.*Storm_tracks storm tracks} and extratropical cyclones, and there is some evidence of improvement since the {cite.1.'IPCC_2007 AR4}.
+    |</strong> Storm track biases in the North Atlantic have improved slightly, but models still produce a storm track that is too zonal and underestimate cyclone intensity.
+    |
+    |See: <em>{Chapters.9.9_4.9_4_1 Section 9.4.1}
+    |</em>
+
+  index: hide
+  let C7
+    |<strong>Many models are able to reproduce the observed changes in upper ocean heat content from 1961 to 2005 with the multi-model mean time series falling within the range of the available observational estimates for most of the period.
+    |</strong> The ability of models to simulate ocean heat {Glossary.*Uptake uptake}, including variations imposed by large volcanic eruptions, adds confidence to their use in assessing the global {Topics.*Radiation_Budgets energy budget} and simulating the thermal component of {Topics.*Sea_Level sea level} rise.
+    |
+    |See: <em>{Chapters.9.9_4.9_4_2 Section 9.4.2}, {'Figure_9_17 Figure 9.17}
+    |</em>
+
+  index: hide
+  let C8
+    |<strong>The simulation of the tropical Pacific Ocean mean state has improved since the {cite.1.'IPCC_2007 AR4}, with a 30% reduction in the spurious westward extension of the cold tongue near the equator, a pervasive bias of coupled models.
+    |</strong> The simulation of the tropical Atlantic remains deficient with many models unable to reproduce the basic east–west temperature gradient.
+    |
+    |See: <em>{Chapters.9.9_4.9_4_2 Section 9.4.2}, {'Figure_9_14 Figure 9.14}
+    |</em>
+
+  index: hide
+  let C9
+    |<strong>Current {Topics.*Climate_Modelling climate models} reproduce the seasonal cycle of Arctic {Glossary.*Sea_ice sea ice} extent with a multi-model mean error of less than about 10% for any given month. There is robust evidence that the downward {Glossary.*Trend trend} in Arctic summer sea ice extent is better simulated than at the time of the {cite.1.'IPCC_2007 AR4}, with about one quarter of the simulations showing a trend as strong as, or stronger, than in observations over the satellite era (since 1979).
+    |</strong> There is a tendency for models to slightly overestimate sea ice extent in the Arctic (by about 10%) in winter and spring. In the Antarctic, the multi-model mean seasonal cycle agrees well with observations, but inter-{Glossary.*Model_spread model spread} is roughly double that for the Arctic. Most models simulate a small decreasing trend in Antarctic sea ice extent, albeit with large inter-model spread, in contrast to the small increasing trend in observations.
+    |
+    |See: <em>{Chapters.9.9_4.9_4_3 Section 9.4.3}, {'Figure_9_22 Figures 9.22}, 9.24
+    |</em>
+
+  index: hide
+  let C10
+    |<strong>Models are able to reproduce many features of the observed global and Northern Hemispher (NH) mean temperature variance on interannual to centennial time scales (high confidence), and most models are now able to reproduce the observed peak in variability associated with the El Niño (2to 7-year period) in the Tropical Pacific.
+    |</strong> The ability to assess variability from millennial simulations is new since the {cite.1.'IPCC_2007 AR4} and allows quantitative evaluation of model estimates of low-frequency {Topics.*Climate_Variability climate variability}. This is important when using {Topics.*Climate_Modelling climate models} to separate signal and noise in {Glossary.*Detection_and_Attribution detection} and {Topics.*Attribution_of_Change attribution studies} ({Chapters.10 Chapter 10}).
+    |
+    |See: <em>{Chapters.9.9_5.9_5_3 Section 9.5.3}, {'Figure_9_33 Figures 9.33}, 9.35
+    |</em>
+
+  index: hide
+  let C11
+    |<strong>Many important modes of {Topics.*Climate_Variability climate variability} and intraseasonal to seasonal phenomena are reproduced by models, with some improvements evident since the {cite.1.'IPCC_2007 AR4}.
+    |</strong> The statistics of the global {Glossary.*Monsoon monsoon}, the {Glossary.*North_Atlantic_Oscillation North Atlantic Oscillation}, the El Niño-{Glossary.*Southern_Oscillation Southern Oscillation} ({Glossary.*El_Nin_o_Southern_Oscillation ENSO}), the {Glossary.*Indian_Ocean_Dipole Indian Ocean Dipole} and the Quasi-Biennial Oscillation are simulated well by several models, although this assessment is tempered by the limited scope of analysis published so far, or by limited observations. There are also modes of variability that are not simulated well. These include modes of Atlantic Ocean variability of relevance to near term {Topics.*Climate_Projections projections} in {Chapters.11 Chapter 11} and ENSO teleconnections outside the tropical Pacific, of relevance to {Chapters.14 Chapter 14}. There is high confidence that the multi-model statistics of monsoon and ENSO have improved since the AR4. However, this improvement does not occur in all models, and process-based analysis shows that biases remain in the background state and in the strength of associated feedbacks.
+    |
+    |See: <em>{Chapters.9.9_5.9_5_3 Section 9.5.3}, {'Figure_9_32 Figures 9.32}, 9.35, 9.36
+    |</em>
+
+  index: hide
+  let C12
+    |<strong>There has been substantial progress since the {cite.1.'IPCC_2007 AR4} in the assessment of model simulations of extreme events.
+    |</strong> Based on assessment of a suite of indices, the inter-model range of simulated climate extremes is similar to the spread amongst observationally based estimates in most regions. In addition, changes in the frequency of extreme warm and {Topics.*Extreme_Events cold days and nights} over the second half of the 20th century are consistent between models and observations, with the {Glossary.*Ensemble ensemble} global mean time series generally falling within the range of observational estimates. The majority of models underestimate the sensitivity of extreme precipitation to temperature variability or trends, especially in the tropics, which implies that models may underestimate the {Topics.*Climate_Projections projected} increase in extreme precipitation in the future. Some high-{Glossary.*Resolution resolution} atmospheric models have been shown to reproduce observed year-to-year variability of Atlantic hurricane counts when forced with observed sea {Topics.*Surface_Temperature surface temperatures}, though so far only a few studies of this kind are available.
+    |
+    |See: <em>{Chapters.9.9_5.9_5_4 Section 9.5.4}, {'Figure_9_37 Figure 9.37}
+    |</em>
+
+  index: hide
+  let C13
+    |<strong>An important development since the {cite.1.'IPCC_2007 AR4} is the more widespread use of {Topics.*Climate_System Earth System} models, which include an interactive {Topics.*Carbon_Cycle carbon cycle}. In the majority of these models, the simulated global land and ocean carbon sinks over the latter part of the 20th century fall within the range of observational estimates.
+    |</strong> However, the regional patterns of carbon {Glossary.*Uptake uptake} and release are less well reproduced, especially for NH land where models systematically underestimate the {Glossary.*Sink sink} implied by atmospheric inversion techniques The ability of models to simulate carbon fluxes is important because these models are used to estimate ‘compatible {Topics.*Emissions emissions}’ ({Glossary.*Carbon_dioxide carbon dioxide} emission pathways compatible with a particular climate change target; see {Chapters.6 Chapter 6}).
+    |
+    |See: <em>{Chapters.9.9_4.9_4_5 Section 9.4.5}, {'Figure_9_27 Figure 9.27}
+    |</em>
+
+  index: hide
+  let C14
+    |<strong>The majority of {Topics.*Climate_System Earth System} models now include an interactive representation of aerosols, and make use of a consistent specification of {Glossary.*Anthropogenic anthropogenic} sulphur dioxide {Topics.*Emissions emissions}.
+    |</strong> However, {Topics.*Uncertainty uncertainties} in sulphur cycle processes and natural sources and sinks remain and so, for example, the simulated {Glossary.*Aerosol aerosol} optical depth over oceans ranges from 0.08 to 0.22 with roughly equal numbers of models overand under-estimating the satellite-estimated value of 0.12.
+    |
+    |See: <em>Sections {Chapters.9.9_1.9_1_2 9.1.2} {Chapters.9.9_4.9_4_6 9.4.6}, {'Table_9_1 Table 9.1}, {'Figure_9_29 Figure 9.29}
+    |</em>
+
+  index: hide
+  let C15
+    |<strong>Time-varying {Glossary.*Ozone ozone} is now included in the latest suite of models, either prescribed or calculated interactively.
+    |</strong> Although in some models there is only medium agreement with observed changes in total column ozone, the inclusion of time-varying stratospheric ozone constitutes a substantial improvement since the {cite.1.'IPCC_2007 AR4} where half of the models prescribed a constant climatology. As a result, there is robust evidence that the representation of climate {Topics.*Radiative_Forcing forcing} by stratospheric ozone has improved since the AR4.
+    |
+    |See: <em>{Chapters.9.9_4.9_4_1 Section 9.4.1}, {'Figure_9_10 Figure 9.10}
+    |</em>
+
+  index: hide
+  let C16
+    |<strong>Regional {Glossary.*Downscaling downscaling} methods are used to provide climate information at the smaller scales needed for many climate impact studies, and there is high confidence that downscaling adds value both in regions with highly variable topography and for various small-scale phenomena.
+    |</strong> Regional models necessarily inherit biases from the global models used to provide boundary conditions. Furthermore, the ability to systematically evaluate {Topics.*Regional_Climate regional climate} models, and statistical downscaling schemes, is hampered because coordinated intercomparison studies are still emerging. However, several studies have demonstrated that added value arises from higher {Glossary.*Resolution resolution} of stationary features like topography and coastlines, and from improved representation of small-scale processes like convective precipitation.
+    |
+    |See: <em>{Chapters.9.9_6.9_6_4 Section 9.6.4}
+    |</em>
+
+  index: hide
+  let C17
+    |<strong>{Topics.*Climate_System Earth system} Models of Intermediate Complexity ({Glossary.*Earth_System_Model_of_Intermediate_Complexity EMICs}) provide simulations of millennial time-scale climate change, and are used as tools to interpret and expand upon the results of more comprehensive models.
+    |</strong> Although they are limited in the scope and {Glossary.*Resolution resolution} of information provided, EMIC simulations of global mean {Topics.*Surface_Temperature surface temperature}, ocean heat content and {Topics.*Carbon_Cycle carbon cycle} response over the 20th century are consistent with the historical records and with more comprehensive models, suggesting that they can be used to provide calibrated {Topics.*Climate_Projections projections} of long-term transient {Glossary.*Climate_response climate response} and stabilization, as well as large ensembles and alternative, policy-relevant, {Topics.*Scenarios scenarios}.
+    |
+    |See: <em>Sections {Chapters.9.9_4.9_4_1 9.4.1} {Chapters.9.9_4.9_4_2 9.4.2}, {Chapters.9.9_4.9_4_5 9.4.5}, {'Figure_9_8 Figures 9.8}, 9.17, 9.27
+    |</em>
+
+  index: hide
+  let C18
+    |<strong>The Coupled {Topics.*Model_Intercomparison Model Intercomparison} Project Phase 5 (CMIP5) {Glossary.*Model_spread model spread} in equilibrium {Glossary.*Climate_sensitivity climate sensitivity} ranges from 2.1°C to 4.7°C and is very similar to the assessment in the {cite.1.'IPCC_2007 AR4}.
+    |</strong> No correlation is found between biases in global mean {Topics.*Surface_Temperature surface temperature} and {Glossary.*Equilibrium_climate_sensitivity equilibrium climate sensitivity}, and so mean temperature biases do not obviously affect the modelled response to GHG {Topics.*Radiative_Forcing forcing}. There is very high confidence that the primary factor contributing to the spread in equilibrium climate sensitivity continues to be the cloud {Glossary.*Feedback feedback}. This applies to both the modern climate and the {Glossary.*Last_Glacial_Maximum LGM}. There is likewise very high confidence that, consistent with observations, models show a strong positive correlation between tropospheric temperature and water vapour on regional to global scales, implying a positive water vapour feedback in both models and observations.
+    |
+    |See: <em>Sections {Chapters.9.9_4.9_4_1 9.4.1} {Chapters.9.9_7.9_7_2 9.7.2}, {'Figure_9_9 Figures 9.9}, 9.42, 9.43
+    |</em>
+
+  index: hide
+  let C19
+    |<strong>Climate and {Topics.*Climate_System Earth System} models are based on physical principles, and they reproduce many important aspects of observed climate. Both aspects contribute to our confidence in the models’ suitability for their application in {Glossary.*Detection_and_Attribution detection} and {Topics.*Attribution_of_Change attribution studies} ({Chapters.10 Chapter 10}) and for quantitative future {Topics.*Climate_Predictions predictions} and {Topics.*Climate_Projections projections} ({Chapters.11 Chapter 11} to 14).
+    |</strong> In general, there is no direct means of translating quantitative measures of past performance into confident statements about fidelity of future climate projections. However, there is increasing evidence that some aspects of observed variability or trends are well correlated with inter-model differences in model projections for quantities such as Arctic summertime {Glossary.*Sea_ice sea ice} trends, snow {Glossary.*Albedo albedo} {Glossary.*Feedback feedback}, and the carbon loss from tropical land. These relationships provide a way, in principle, to transform an observable quantity into a constraint on future projections, but the application of such constraints remains an area of emerging research. There has been substantial progress since the {cite.1.'IPCC_2007 AR4} in the methodology to assess the reliability of a multi-model {Glossary.*Ensemble ensemble}, and various approaches to improve the precision of multi-model projections are being explored. However, there is still no universal strategy for weighting the projections from different models based on their historical performance.
+    |
+    |See: <em>{Chapters.9.9_8.9_8_3 Section 9.8.3}, {'Figure_9_45 Figure 9.45}
+    |</em>
+
+
+    

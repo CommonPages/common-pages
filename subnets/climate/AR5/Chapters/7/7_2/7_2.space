@@ -1,0 +1,55 @@
+
+public: ar5-7.2
+name: Section 7.2
+title: 7.2 - Clouds
+section 7_2
+
+  |Since {cite.1.'IPCC_2007 AR4}, our understanding of clouds in the current climate from observations and process models have improved. There have also been advances in the representation of cloud processes in {Topics.*Climate_Modelling climate models}. Cloud, water vapour and {Glossary.*Lapse_rate lapse rate} feedbacks are better understood, as is the {Topics.*Radiative_Forcing RF} due to clouds induced by {Glossary.*Anthropogenic anthropogenic} processes (specifically aviation and irrigation).
+
+
+  apply FullText
+
+  insert SectionDoc
+
+  include
+    - 7_2_1
+    - 7_2_2
+    - 7_2_3
+    - 7_2_4
+    - 7_2_5
+    - 7_2_6
+    - 7_2_7
+
+  name: Section 7.2 - Full Text
+  path FullText
+    name: Clouds
+    step
+      include
+        - Chapters.7.7_2.SectionDoc
+        - Chapters.7.7_2.7_2_1.7_2_1_1.SectionDoc
+        - Chapters.7.7_2.7_2_1.7_2_1_2.SectionDoc
+        - Chapters.7.7_2.7_2_2.SectionDoc
+        - Chapters.7.7_2.7_2_2.7_2_2_1.SectionDoc
+        - Chapters.7.7_2.7_2_2.7_2_2_2.SectionDoc
+        - Chapters.7.7_2.7_2_3.7_2_3_1.SectionDoc
+        - Chapters.7.7_2.7_2_3.7_2_3_2.7_2_3_2_1.SectionDoc
+        - Chapters.7.7_2.7_2_3.7_2_3_2.7_2_3_2_2.SectionDoc
+        - Chapters.7.7_2.7_2_3.7_2_3_3.SectionDoc
+        - Chapters.7.7_2.7_2_3.7_2_3_4.SectionDoc
+        - Chapters.7.7_2.7_2_3.7_2_3_5.SectionDoc
+        - Chapters.7.7_2.7_2_4.SectionDoc
+        - Chapters.7.7_2.7_2_4.7_2_4_1.SectionDoc
+        - Chapters.7.7_2.7_2_4.7_2_4_2.SectionDoc
+        - Chapters.7.7_2.7_2_5.SectionDoc
+        - Chapters.7.7_2.7_2_5.7_2_5_1.SectionDoc
+        - Chapters.7.7_2.7_2_5.7_2_5_2.SectionDoc
+        - Chapters.7.7_2.7_2_5.7_2_5_3.SectionDoc
+        - Chapters.7.7_2.7_2_5.7_2_5_4.SectionDoc
+        - Chapters.7.7_2.7_2_5.7_2_5_5.SectionDoc
+        - Chapters.7.7_2.7_2_5.7_2_5_6.SectionDoc
+        - Chapters.7.7_2.7_2_5.7_2_5_7.SectionDoc
+        - Chapters.7.7_2.7_2_6.SectionDoc
+        - Chapters.7.7_2.7_2_7.SectionDoc
+        - Chapters.7.7_2.7_2_7.7_2_7_1.SectionDoc
+        - Chapters.7.7_2.7_2_7.7_2_7_2.SectionDoc
+    

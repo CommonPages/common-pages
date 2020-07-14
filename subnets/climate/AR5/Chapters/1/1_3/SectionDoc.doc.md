@@ -1,0 +1,12 @@
+index: hide
+public: ar5-
+name: Section 1.3
+title: 1.3 - Indicators of Climate Change
+
+There are many indicators of climate change. These include physical responses such as changes in the following: {Topics.*Surface_Temperature surface temperature}, atmospheric water vapour, precipitation, severe events, glaciers, ocean and land ice, and {Topics.*Sea_Level sea level}. Some key examples of such changes in important climate parameters are discussed in this section and all are assessed in much more detail in other chapters.
+
+As was done to a more limited extent in {cite.1.'IPCC_2007 AR4} (Le Treut et al., 2007), this section provides a test of the planetary-scale hypotheses of climate change against observations. In other words, how well do the {Topics.*Climate_Projections projections} used in the past assessments compare with observations to date? Seven additional years of observations are now available to evaluate earlier model projections. The projected range that was given in each assessment is compared to observations. The largest possible range of {Topics.*Scenarios scenarios} available for a specific variable for each of the previous assessment reports is shown in the figures.
+
+Based on the assessment of AR4, a number of the key climate and associated environmental parameters are presented in {'Figure_1_3 Figure 1.3}, which updates the similar figure in the Technical Summary (TS) of {cite.1.'IPCC_2001 IPCC (2001)}. This section discusses the recent changes in several indicators, while more thorough assessments for each of these indicators are provided in other chapters. Also shown in parentheses in {'Figure_1_3 Figure 1.3} are the chapter and section where those indicators of change are assessed in AR5.
+
+Note that projections presented in the IPCC assessments are not {Topics.*Climate_Predictions predictions} (see the Glossary in Annex III); the analyses in the discussion below only examine the short-term plausibility of the projections up to AR4, including the scenarios for future {Topics.*Emissions emissions} and the models used to simulate these scenarios in the earlier assessments. Model results from the Coupled {Topics.*Model_Intercomparison Model Intercomparison} Project Phase 5 (CMIP5) ({cite.1.'Taylor_et_al_2012}) used in AR5 are therefore not included in this section; Chapters {Chapters.11} and {Chapters.12} describe the projections from the new modelling studies. Note that none of the scenarios examined in the IPCC assessments were ever intended to be short-term predictors of change.

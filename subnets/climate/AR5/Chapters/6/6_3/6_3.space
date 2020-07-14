@@ -1,0 +1,52 @@
+
+public: ar5-6.3
+name: Section 6.3
+title: 6.3 - Evolution of Biogeochemical Cycles Since the Industrial Revolution
+section 6_3
+
+  |Since the beginning of the Industrial Era (1750), the concentration of {Glossary.*Carbon_dioxide CO2} in the {Topics.*Climate_System atmosphere} has increased by 40%. Atmospheric {Glossary.*Methane_CH4 CH4} concentration increased by a factor of 2.5, and the concentration of {Glossary.*Nitrous_oxide_N2O N2O} is currently 20% higher than pre-industrial levels.
+
+
+  apply FullText
+
+  
+
+  include
+    - 6_3_1
+    - 6_3_2
+    - 6_3_3
+    - 6_3_4
+
+  name: Section 6.3 - Full Text
+  path FullText
+    name: Carbon Dioxide Emissions and Their Fate Since 1750
+    step
+      include
+        - Chapters.6.6_3.6_3_1.SectionDoc
+        - Chapters.6.6_3.6_3_2.SectionDoc
+        - Chapters.6.6_3.6_3_2.6_3_2_1.SectionDoc
+        - Chapters.6.6_3.6_3_2.6_3_2_2.SectionDoc
+        - Chapters.6.6_3.6_3_2.6_3_2_3.SectionDoc
+        - Chapters.6.6_3.6_3_2.6_3_2_4.SectionDoc
+        - Chapters.6.6_3.6_3_2.6_3_2_5.6_3_2_5_1.SectionDoc
+        - Chapters.6.6_3.6_3_2.6_3_2_5.6_3_2_5_2.SectionDoc
+        - Chapters.6.6_3.6_3_2.6_3_2_5.6_3_2_5_3.SectionDoc
+        - Chapters.6.6_3.6_3_2.6_3_2_5.6_3_2_5_4.SectionDoc
+        - Chapters.6.6_3.6_3_2.6_3_2_5.6_3_2_5_5.SectionDoc
+        - Chapters.6.6_3.6_3_2.6_3_2_5.6_3_2_5_6.SectionDoc
+        - Chapters.6.6_3.6_3_2.6_3_2_6.6_3_2_6_1.SectionDoc
+        - Chapters.6.6_3.6_3_2.6_3_2_6.6_3_2_6_2.SectionDoc
+        - Chapters.6.6_3.6_3_2.6_3_2_6.6_3_2_6_3.SectionDoc
+        - Chapters.6.6_3.6_3_2.6_3_2_6.6_3_2_6_4.SectionDoc
+        - Chapters.6.6_3.6_3_2.6_3_2_6.6_3_2_6_5.SectionDoc
+        - Chapters.6.6_3.6_3_2.6_3_2_6.6_3_2_6_6.SectionDoc
+        - Chapters.6.6_3.6_3_3.SectionDoc
+        - Chapters.6.6_3.6_3_3.6_3_3_1.SectionDoc
+        - Chapters.6.6_3.6_3_3.6_3_3_2.SectionDoc
+        - Chapters.6.6_3.6_3_3.6_3_3_3.SectionDoc
+        - Chapters.6.6_3.6_3_3.6_3_3_4.SectionDoc
+        - Chapters.6.6_3.6_3_4.SectionDoc
+        - Chapters.6.6_3.6_3_4.6_3_4_1.SectionDoc
+        - Chapters.6.6_3.6_3_4.6_3_4_2.SectionDoc
+        - Chapters.6.6_3.6_3_4.6_3_4_3.SectionDoc
+    

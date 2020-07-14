@@ -1,0 +1,15 @@
+
+public: ar5-12.1
+name: Section 12.1
+title: 12.1 - Introduction
+section 12_1
+
+  |{Topics.*Climate_Projections Projections of future climate} change are not like weather forecasts. It is not possible to make deterministic, definitive {Topics.*Climate_Predictions predictions} of how climate will evolve over the next century and beyond. Nevertheless, as {Glossary.*Greenhouse_gas greenhouse gas} (GHG) concentrations continue to rise, we expect to see future changes to the climate system that are greater than those already observed and {Topics.*Attribution_of_Change attributed} to {Topics.*Human_Influence human activities}. This chapter assesses climate projections on time scales beyond the mid-21st century.
+
+
+  
+
+  insert SectionDoc
+
+
+    

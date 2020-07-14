@@ -1,0 +1,15 @@
+
+public: ar5-7.5.2.2
+name: Section 7.5.2.2
+title: 7.5.2.2 - Radiative Forcing by Species
+section 7_5_2_2
+
+  |The species breakdown of {Glossary.*Radiative_forcing_due_to_aerosol_radiation_interactions RFari} is less certain than the total RFari. Fossil fuel and biofuel {Topics.*Emissions emissions} contribute to RFari via sulphate {Glossary.*Aerosol aerosol}, {Glossary.*Black_carbon black carbon} aerosol, and primary and secondary {Glossary.*Organic_aerosol organic aerosol}. Additional RFari contributions are via {Glossary.*Biomass biomass} burning emissions, where black carbon and organic aerosol changes offset each other, and a contribution from mineral dust that may not be entirely {Glossary.*Anthropogenic anthropogenic} in origin. The sum of the RFari from these species agrees with, but is slightly weaker than, the best estimate of the better-constrained total RFari.
+
+
+  
+
+  insert SectionDoc
+
+
+    
