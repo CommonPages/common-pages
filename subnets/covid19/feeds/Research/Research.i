@@ -5469,7 +5469,7 @@ feed Research
       !c
 
     / June, 2020 - Cell
-    let !a self assert =  Significant CD4+ T cell responses were also directed against nsp3, nsp4, ORF3s, ORF7a, nsp12, and ORF8. These data suggest that a candidate COVID-19 vaccine consisting only of SARSCoV-2 spike would be capable of eliciting SARS-CoV-2-specific CD4+ T cell responses of similar representation to that of natural COVID-19 disease, but the data also indicate that there are many potential CD4+ T cell targets in SARS-CoV-2, and inclusion of additional SARS-CoV-2 structural antigens such as M and N would better mimic the natural SARS-CoV2-specific CD4+ T cell response observed in mild to moderate COVID-19 disease.
+    let !a self assert = Significant CD4+ T cell responses were also directed against nsp3, nsp4, ORF3s, ORF7a, nsp12, and ORF8. These data suggest that a candidate COVID-19 vaccine consisting only of SARSCoV-2 spike would be capable of eliciting SARS-CoV-2-specific CD4+ T cell responses of similar representation to that of natural COVID-19 disease, but the data also indicate that there are many potential CD4+ T cell targets in SARS-CoV-2, and inclusion of additional SARS-CoV-2 structural antigens such as M and N would better mimic the natural SARS-CoV2-specific CD4+ T cell response observed in mild to moderate COVID-19 disease.
 
     / June, 2020 - Cell
     let !b self assert = The spike protein was a target of human SARS-CoV-2 CD8+ T cell responses, but it is not dominant. SARS-CoV-2 M was just as strongly recognized, and significant reactivity was noted for other antigens, mostly nsp6, ORF3a, and N, which comprised nearly 50% of the total CD8+ T cell response, on average. Thus, these data indicate that candidate COVID-19 vaccines endeavoring to elicit CD8+ T cell responses against the spike protein will be eliciting a relatively narrow CD8+ T cell response compared to the natural CD8+ T cell response observed in mild to moderate COVID-19 disease.
@@ -8679,7 +8679,7 @@ feed Research
     # let !a self assert =
 
 
-  # epidemic, rate of transmission, herd immunity, asymptomatic, mitigation, preventive measures: contact tracing, quarantine
+  # epidemic, rate of transmission, herd immunity, asymptomatic, mitigation, preventive measures: contact tracing, quarantine, Results show that quarantine and contact tracing of symptomatic persons can be effective when the fraction of unidentified persons is low.
   // High Contagiousness and Rapid Spread of Severe Acute Respiratory Syndrome Coronavirus 2
   doi: https://doi.org/10.3201/eid2607.200282
   article 'Sanche_et_al_2020
