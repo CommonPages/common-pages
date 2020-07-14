@@ -1,6 +1,10 @@
 
 import assets.nlm.genemut._
 
+model Mutation
+  head = Mutation is an alteration in the nucleotide sequence of the genome of an organism, virus, or extrachromosomal DNA. Mutations result from errors during DNA replication, mitosis, and meiosis or other types of damage to DNA. They may also result from insertion or deletion of segments of DNA due to mobile genetic elements.
+  # https://en.wikipedia.org/wiki/Mutation
+
 /// A mutation is a change in the nucleotide sequence in a gene within a cell’s DNA, potentially altering the protein coded by that gene.
 model GeneMutation
   # https://en.wikipedia.org/wiki/Mutation

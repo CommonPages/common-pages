@@ -1,38 +1,69 @@
-/ Timeline
+/ Timeline & Origin
 subject module Timeline
-  head =
-  / Background
-  subject Background
-    head = History of Zoonotic Emergence of human coronaviruses is important in understanding the zoonosis relation to the orgin of SARS-CoV-2.
-    / Bats
+  head = In late 2019, a novel coronavirus strain now known as SARS-CoV2 emerged in China and quickly spread to more than 150 countries. SARS-CoV2 is the latest in a series of coronavirus outbreaks occuring in recent decades. Researches have proposed multiple theories as to the original source of the virus.
+
+  / Previous Coronavirus Epidemics
+  subject module Background
+    head = In recent decades there have been several notable events of bat-borne coronaviruses spilling over into human populations. Most notably, researchers have attributed both the 2002-2004 SARS epidemic and the 2012-2013 MERS epidemic to multiple recombination events involving bats.
+
+    face orig = History of Zoonotic Emergence of human coronaviruses is important in understanding the zoonosis relation to the orgin of SARS-CoV-2.
+
+    >>>
+      All viruses contain some form of genetic material which is subject to {*Mutation mutation} over time. Some mutations result in a more successful virus, creating new viral strands which flourish within specific host environments. When a virus favors a particular host species, that species is known as a {Reservoirs reservoir} for the virus.
+
+      Coronaviruses have been identified in numerious species. Among them, scientists have identified **bats** as the most prominent natural reservoir for viruses in the coronavirus family.
+    --
+      Bats
+    >>>
+      Coronaviruses are {RNAVirus RNA viruses}, which have been found to mutate at **faster rates** than other kinds of pathogens.
+    --
+      MutationRates
+    >>>
+      The large natural reservoir and fast rates of mutation in coraniviruses create the conditions for the evolution of many novel coronavirus strains. Some of these strains have the ability to survive in multiple host species. When humans come into close contact with bats, they may become infected with those strains which are randomly capable of surviving in humans. Coronaviruses which appear in humans as a result of **cross-species transmission** are known as **human coronaviruses**.
+    --
+      HumanCoronaviruses
+    >>>
+      There are many human coronaviruses, among which are the group of viruses known collectively as the common cold. However in recent decades there have been several outbreaks of more severe coronaviruses within human populations—notably, **SARS-CoV** and **MERS-CoV** (named after the illnesses caused by each virus: *Severe Acute Resepiratory Syndrom* and *Middle East Respiratory Syndrome* respectively).
+    --
+      SARS
+      MERS
+
+    / Bat Reservoirs of Coronaviruses
     subject Bats
-      head = Coronaviruses have been identified in bats. High contact rate with bats can enable the acquisition and spread of coronavirus
+      head = Coronaviruses are found in a diverse array of bat and bird species, which are believed to act as natural hosts. High contact rates among specific bat species enable the acquisition and spread of coronaviruses.
+      face orig = Coronaviruses have been identified in bats. High contact rate with bats can enable the acquisition and spread of coronavirus
       --
         'Wertheim_et_al_2013
         'Lin_et_al_2017
         'Baucells_et_al_2017
-    / Virus Mutation
-    subject Mutation
+
+    / Rates of Viral Mutation
+    subject MutationRates
       head = Rates of spontaneous mutation vary amply among viruses. RNA viruses mutate faster than DNA viruses, single-stranded viruses mutate faster than double-strand virus, and genome size appears to correlate negatively with mutation rate.
-      -- Mutation of virus
+      --
+        'Brook_et_al_2020
         'Sanjuán_et_al_2016
         'Sanjuán_et_al_2010
         'Duffy_et_al_2018
         'Elena_et_al_2005
+
     / Human Coronavirus
     subject HumanCoronaviruses
-      head = The routine nature of viral cross-species transmission in the coronavirus family brings up the question of the likelihood of another emergence event of a pathogenic human coronavirus and underscores the need to continue zoonotic surveillance
+      head = Cross-species viral transmission in the coronavirus family is routine. Researchers have drawn attention to the ongoing risk of coronavirus spillover events—particularly of bat-borne coronaviruses—into human populations.
       --
         'Graham_et_al_2010
         'Ren_et_al_2015
         'Corman_et_al_2018
         'Cui_et_al_2018
         'Wong_et_al_2019
-        'Ramadan_et_al_2019
-    / SARS Emergence
+
+    / SARS
+    // SARS Outbreak of 2002-2004
     subject SARS
-      head = The origin of the 2003 SARS epidemic and the 2004 mild SARS cases was probably a result of multiple recombination events.
-      -- SARS Emergence
+      head = The 2002–2004 SARS outbreak was an epidemic caused by severe SARS-CoV (or SARS-CoV-1), first identified in Foshan, Guangdong, China. The most recent studies into the virus's origin assert that the outbreak likely resulted from multiple recombination events from a number of SARSr-CoV ancestors in different horseshoe bat species.
+
+      face orig = The origin of the 2003 SARS epidemic and the 2004 mild SARS cases was probably a result of multiple recombination events.
+      --
         'Shi_et_al_2008
         'Shi_et_al_2008.!a
         'Luk_et_al_2019.!a
@@ -40,62 +71,18 @@ subject module Timeline
         'Li_et_al_2005
         'Hou_et_al_2010
 
-  / Origin
-  subject Origin
-    head = As of now, the original source of viral transmission to humans remains unclear. There are multiple theories related to natural origin, lab created, intermediate host recombination event and virus emergence from the Wuhan Market
+    / MERS
+    // MERS Outbreak of 2012-2013
+    subject MERS
+      head = The 2012-2013 MERS outbreak was an epidemic caused by MERS-CoV. MERS-CoV is a coronavirus believed to have originated in bats. However, humans are typically infected from camels, either during direct contact or indirectly.
+      --
+        'Ramadan_et_al_2019
 
-    / Genome Sequence
-    subject GenomeSequence
-      head = Genomic Analysis of SARS-CoV-2 suggest similarity with SARS-CoV and Bat being the natural reservoir of SARS-CoV-2.
-      --
-        'Brook_et_al_2020
-        'Chan_et_al_2020.!q
-        'Anderson_et_al_2020
-        'Ren_et_al_2020
-    / Origin of SARS-CoV-2
-    subject CovidOrigin
-      head = The original source of viral transmission to humans remains unclear weather COVID-19 has a natural origin or whether the strain became pathogenic before or after the spillover event or it is adapted to human in a lab without genetic engineering.
-      -- Origin of SARS-CoV2
-        'Ren_et_al_2020
-        'Anderson_et_al_2020
-        'Guo_et_al_2020
-        'Paraskevis_et_al_2020
-        'Li_et_al_05_19_2020
-        'Li_et_al_05_19_2020.!a
-        'Li_et_al_05_19_2020.!b
-        'Boni_et_al_03_31_2020
-        'Latinne_et_al_05_31_2020
-        'Zhou_et_al_06_08_2020
-        'Phan_et_al_2020
-    / Intermediate Host
-    subject IntermediateHost
-      head = Differences between the bat coronavirus sampled and SARS-CoV-2,  suggested that humans were infected via an intermediate host, speculating pangalions or civets to be the likely intermediate host. Although subsequent papers have ruled out the possibility of pangolian as an intermediate host.
-      -- Pangolin as Host
-        'Zhang_et_al_2020h
-      -- Civets as Host
-        'Wan_et_al_2020.!b
-      --
-        'Paraskevis_et_al_2020
-    / Phylogenetic Analysis
-    subject Phylogeny
-      head = Phylogenetic analysis reveal that the virus type most closely related to the bat coronavirus was abundant in Guangdong. Findings show that SARS-CoV-2 has not had legitimate recombination and suggests the source of the haplotype in the Huanan Market was imported from elsewhere.
-      --
-        'Zhang_et_al_2020i
-        'Ren_et_al_2020
-        'Chan_et_al_2020.!p
-    / Wuhan
-    subject Wuhan
-      head = Early association was observed between the first reported cases of COVID-19 and the Huanan seafood and wildlife market in Wuhan city. However, other research indicates that visitors may have introduced the virus to the market, which then facilitated spread of the infections.
-      -- Wuhan
-        'Zhou_et_al_2020
-        'Riou_et_al_01_24_2020
-        'Ji_et_al_2020
-        'Wang_et_al_2020c
-        'Chan_et_al_2020
+  / Timeline of SARS-CoV2 Epidemic
+  subject module Epidemic
+    head = In late 2019, a novel coronavirus strain now known as SARS-CoV2 first emerged in the Wuhan province of China. The virus subsequently spread to all provinces of China and to more than 150 other countries in Asia, Europe, North America, South America, Africa, and Oceania.
 
-  / Epidemic
-  subject Epidemic
-    head = The earliest case of infection currently known is dated back to 17 November 2019 or possibly 1 December 2019. The virus subsequently spread to all provinces of China and to more than 150 other countries in Asia, Europe, North America, South America, Africa, and Oceania. Human-to-human transmission of the virus has been confirmed in all these regions.
+    # face orig = The earliest case of infection currently known is dated back to 17 November 2019 or possibly 1 December 2019. The virus subsequently spread to all provinces of China and to more than 150 other countries in Asia, Europe, North America, South America, Africa, and Oceania. Human-to-human transmission of the virus has been confirmed in all these regions.
     --
       China
       DiamondPrincess
@@ -191,6 +178,62 @@ subject module Timeline
         'Gudbjartsson_et_al_2020.!j
         'Gudbjartsson_et_al_2020.!n
         'Gudbjartsson_et_al_2020.!o
+
+  / Origin of the SARS-CoV2
+  subject module Origin
+    head = Researches have proposed multiple theories as to the original source of human transmission of the SARS-CoV2 virus. Theories range from direct or indirect animal tranmission (involving bats, pangolins or civets) to spillover from a nearby laboratory.
+
+    / Genome Sequence
+    subject GenomeSequence
+      head = Genomic Analysis of SARS-CoV-2 suggest similarity with SARS-CoV and Bat being the natural reservoir of SARS-CoV-2.
+      --
+        'Chan_et_al_2020
+        # 'Chan_et_al_2020.!p
+        # 'Chan_et_al_2020.!q
+        'Anderson_et_al_2020
+        'Ren_et_al_2020
+
+    / Origin of SARS-CoV-2
+    subject CovidOrigin
+      head = The original source of viral transmission to humans remains unclear weather COVID-19 has a natural origin or whether the strain became pathogenic before or after the spillover event or it is adapted to human in a lab without genetic engineering.
+      -- Origin of SARS-CoV2
+        'Ren_et_al_2020
+        'Anderson_et_al_2020
+        'Guo_et_al_2020
+        'Paraskevis_et_al_2020
+        'Li_et_al_05_19_2020
+        'Li_et_al_05_19_2020.!a
+        'Li_et_al_05_19_2020.!b
+        'Boni_et_al_03_31_2020
+        'Latinne_et_al_05_31_2020
+        'Zhou_et_al_06_08_2020
+        'Phan_et_al_2020
+    / Intermediate Host
+    subject IntermediateHost
+      head = Differences between the bat coronavirus sampled and SARS-CoV-2,  suggested that humans were infected via an intermediate host, speculating pangolins or civets to be the likely intermediate host. Although subsequent papers have ruled out the possibility of pangolian as an intermediate host.
+      -- Pangolin as Host
+        'Zhang_et_al_2020h
+      -- Civets as Host
+        'Wan_et_al_2020.!b
+      --
+        'Paraskevis_et_al_2020
+    / Phylogenetic Analysis
+    subject Phylogeny
+      head = Phylogenetic analysis reveal that the virus type most closely related to the bat coronavirus was abundant in Guangdong. Findings show that SARS-CoV-2 has not had legitimate recombination and suggests the source of the haplotype in the Huanan Market was imported from elsewhere.
+      --
+        'Zhang_et_al_2020i
+        'Ren_et_al_2020
+        'Chan_et_al_2020.!p
+    / Wuhan
+    subject Wuhan
+      head = Early association was observed between the first reported cases of COVID-19 and the Huanan seafood and wildlife market in Wuhan city. However, other research indicates that visitors may have introduced the virus to the market, which then facilitated spread of the infections.
+      -- Wuhan
+        'Zhou_et_al_2020
+        'Riou_et_al_01_24_2020
+        'Ji_et_al_2020
+        'Wang_et_al_2020c
+        'Chan_et_al_2020
+
 / Virus
 subject module Virus
 

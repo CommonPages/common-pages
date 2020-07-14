@@ -25,6 +25,8 @@ import refs._
 import Research._
 import News._
 
+let *Mutation mean $os-life.cell.gene.Mutation
+
 
 # Mod 1: Virus (Biology, Virology)
 # Mod 2: Infectious Cycle (Physiology, Immunology)
