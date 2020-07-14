@@ -1,6 +1,6 @@
 
 public: ar5-13.2
-name: Section 13.2
+/ Section 13.2
 title: 13.2 - Past Sea Level Change
 section 13_2
 
@@ -11,21 +11,21 @@ section 13_2
 
   
 
-  include
-    - 13_2_1
-    - 13_2_2
+  --
+    13_2_1
+    13_2_2
 
-  name: Section 13.2 - Full Text
+  / Section 13.2 - Full Text
   path FullText
-    name: The Geological Record
+    / The Geological Record
     step
-      include
-        - Chapters.13.13_2.13_2_1.SectionDoc
-        - Chapters.13.13_2.13_2_1.13_2_1_1.SectionDoc
-        - Chapters.13.13_2.13_2_1.13_2_1_2.SectionDoc
-        - Chapters.13.13_2.13_2_1.13_2_1_3.SectionDoc
-        - Chapters.13.13_2.13_2_1.13_2_1_4.SectionDoc
-        - Chapters.13.13_2.13_2_2.SectionDoc
-        - Chapters.13.13_2.13_2_2.13_2_2_1.SectionDoc
-        - Chapters.13.13_2.13_2_2.13_2_2_2.SectionDoc
+      --
+        Chapters.13.13_2.13_2_1.SectionDoc
+        Chapters.13.13_2.13_2_1.13_2_1_1.SectionDoc
+        Chapters.13.13_2.13_2_1.13_2_1_2.SectionDoc
+        Chapters.13.13_2.13_2_1.13_2_1_3.SectionDoc
+        Chapters.13.13_2.13_2_1.13_2_1_4.SectionDoc
+        Chapters.13.13_2.13_2_2.SectionDoc
+        Chapters.13.13_2.13_2_2.13_2_2_1.SectionDoc
+        Chapters.13.13_2.13_2_2.13_2_2_2.SectionDoc
     

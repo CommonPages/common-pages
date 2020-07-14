@@ -1,6 +1,6 @@
 
 public: ar5-12.4.7
-name: Section 12.4.7
+/ Section 12.4.7
 title: 12.4.7 - Changes in the Ocean
 section 12_4_7
 
@@ -11,17 +11,17 @@ section 12_4_7
 
   
 
-  include
-    - 12_4_7_1
-    - 12_4_7_2
-    - 12_4_7_3
+  --
+    12_4_7_1
+    12_4_7_2
+    12_4_7_3
 
-  name: Section 12.4.7 - Full Text
+  / Section 12.4.7 - Full Text
   path FullText
-    name: Sea Surface Temperature, Salinity and Ocean Heat Content
+    / Sea Surface Temperature, Salinity and Ocean Heat Content
     step
-      include
-        - Chapters.12.12_4.12_4_7.12_4_7_1.SectionDoc
-        - Chapters.12.12_4.12_4_7.12_4_7_2.SectionDoc
-        - Chapters.12.12_4.12_4_7.12_4_7_3.SectionDoc
+      --
+        Chapters.12.12_4.12_4_7.12_4_7_1.SectionDoc
+        Chapters.12.12_4.12_4_7.12_4_7_2.SectionDoc
+        Chapters.12.12_4.12_4_7.12_4_7_3.SectionDoc
     

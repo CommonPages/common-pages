@@ -1,6 +1,6 @@
 
 public: ar5-11.3.5
-name: Section 11.3.5
+/ Section 11.3.5
 title: 11.3.5 - Projections for Atmospheric Composition and Air Quality to 2100
 section 11_3_5
 
@@ -11,22 +11,22 @@ section 11_3_5
 
   insert SectionDoc
 
-  include
-    - 11_3_5_1
-    - 11_3_5_2
+  --
+    11_3_5_1
+    11_3_5_2
 
-  name: Section 11.3.5 - Full Text
+  / Section 11.3.5 - Full Text
   path FullText
-    name: Projections for Atmospheric Composition and Air Quality to 2100
+    / Projections for Atmospheric Composition and Air Quality to 2100
     step
-      include
-        - Chapters.11.11_3.11_3_5.SectionDoc
-        - Chapters.11.11_3.11_3_5.11_3_5_1.SectionDoc
-        - Chapters.11.11_3.11_3_5.11_3_5_1.11_3_5_1_1.SectionDoc
-        - Chapters.11.11_3.11_3_5.11_3_5_1.11_3_5_1_2.SectionDoc
-        - Chapters.11.11_3.11_3_5.11_3_5_1.11_3_5_1_3.SectionDoc
-        - Chapters.11.11_3.11_3_5.11_3_5_2.SectionDoc
-        - Chapters.11.11_3.11_3_5.11_3_5_2.11_3_5_2_1.SectionDoc
-        - Chapters.11.11_3.11_3_5.11_3_5_2.11_3_5_2_2.SectionDoc
-        - Chapters.11.11_3.11_3_5.11_3_5_2.11_3_5_2_3.SectionDoc
+      --
+        Chapters.11.11_3.11_3_5.SectionDoc
+        Chapters.11.11_3.11_3_5.11_3_5_1.SectionDoc
+        Chapters.11.11_3.11_3_5.11_3_5_1.11_3_5_1_1.SectionDoc
+        Chapters.11.11_3.11_3_5.11_3_5_1.11_3_5_1_2.SectionDoc
+        Chapters.11.11_3.11_3_5.11_3_5_1.11_3_5_1_3.SectionDoc
+        Chapters.11.11_3.11_3_5.11_3_5_2.SectionDoc
+        Chapters.11.11_3.11_3_5.11_3_5_2.11_3_5_2_1.SectionDoc
+        Chapters.11.11_3.11_3_5.11_3_5_2.11_3_5_2_2.SectionDoc
+        Chapters.11.11_3.11_3_5.11_3_5_2.11_3_5_2_3.SectionDoc
     

@@ -1,6 +1,6 @@
 
 public: ar5-7.7
-name: Section 7.7
+/ Section 7.7
 title: 7.7 - Solar Radiation Management and Related Methods
 section 7_7
 
@@ -11,25 +11,25 @@ section 7_7
 
   
 
-  include
-    - 7_7_1
-    - 7_7_2
-    - 7_7_3
-    - 7_7_4
+  --
+    7_7_1
+    7_7_2
+    7_7_3
+    7_7_4
 
-  name: Section 7.7 - Full Text
+  / Section 7.7 - Full Text
   path FullText
-    name: Introduction
+    / Introduction
     step
-      include
-        - Chapters.7.7_7.7_7_1.SectionDoc
-        - Chapters.7.7_7.7_7_2.SectionDoc
-        - Chapters.7.7_7.7_7_2.7_7_2_1.SectionDoc
-        - Chapters.7.7_7.7_7_2.7_7_2_2.SectionDoc
-        - Chapters.7.7_7.7_7_2.7_7_2_3.SectionDoc
-        - Chapters.7.7_7.7_7_2.7_7_2_4.SectionDoc
-        - Chapters.7.7_7.7_7_3.SectionDoc
-        - Chapters.7.7_7.7_7_3.7_7_3_1.SectionDoc
-        - Chapters.7.7_7.7_7_3.7_7_3_2.SectionDoc
-        - Chapters.7.7_7.7_7_4.SectionDoc
+      --
+        Chapters.7.7_7.7_7_1.SectionDoc
+        Chapters.7.7_7.7_7_2.SectionDoc
+        Chapters.7.7_7.7_7_2.7_7_2_1.SectionDoc
+        Chapters.7.7_7.7_7_2.7_7_2_2.SectionDoc
+        Chapters.7.7_7.7_7_2.7_7_2_3.SectionDoc
+        Chapters.7.7_7.7_7_2.7_7_2_4.SectionDoc
+        Chapters.7.7_7.7_7_3.SectionDoc
+        Chapters.7.7_7.7_7_3.7_7_3_1.SectionDoc
+        Chapters.7.7_7.7_7_3.7_7_3_2.SectionDoc
+        Chapters.7.7_7.7_7_4.SectionDoc
     

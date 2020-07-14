@@ -4,8 +4,8 @@ name: Chapter 12 - Conclusions
 lead: Formal conclusions presented in Chapter 12.
 conclusions ExecutiveSummary
 
-  insert text
-    | This chapter assesses long-term {Topics.*Climate_Projections projections} of climate change for the end of the 21st century and beyond, where the forced signal depends on the scenario and is typically larger than the {Topics.*Climate_Variability internal variability} of the climate system. Changes are expressed with respect to a baseline period of 1986–2005, unless otherwise stated.
+  >>>
+    This chapter assesses long-term {Topics.*Climate_Projections projections} of climate change for the end of the 21st century and beyond, where the forced signal depends on the scenario and is typically larger than the {Topics.*Climate_Variability internal variability} of the climate system. Changes are expressed with respect to a baseline period of 1986–2005, unless otherwise stated.
 
   name: Scenarios, Ensembles and Uncertainties
 

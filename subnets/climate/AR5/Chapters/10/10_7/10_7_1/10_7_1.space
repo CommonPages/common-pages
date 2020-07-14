@@ -1,6 +1,6 @@
 
 public: ar5-10.7.1
-name: Section 10.7.1
+/ Section 10.7.1
 title: 10.7.1 - Causes of Change in Large-Scale Temperature over the Past Millennium
 section 10_7_1
 
@@ -11,18 +11,18 @@ section 10_7_1
 
   insert SectionDoc
 
-  include
-    - 10_7_1_1
-    - 10_7_1_2
-    - 10_7_1_3
+  --
+    10_7_1_1
+    10_7_1_2
+    10_7_1_3
 
-  name: Section 10.7.1 - Full Text
+  / Section 10.7.1 - Full Text
   path FullText
-    name: Causes of Change in Large-Scale Temperature over the Past Millennium
+    / Causes of Change in Large-Scale Temperature over the Past Millennium
     step
-      include
-        - Chapters.10.10_7.10_7_1.SectionDoc
-        - Chapters.10.10_7.10_7_1.10_7_1_1.SectionDoc
-        - Chapters.10.10_7.10_7_1.10_7_1_2.SectionDoc
-        - Chapters.10.10_7.10_7_1.10_7_1_3.SectionDoc
+      --
+        Chapters.10.10_7.10_7_1.SectionDoc
+        Chapters.10.10_7.10_7_1.10_7_1_1.SectionDoc
+        Chapters.10.10_7.10_7_1.10_7_1_2.SectionDoc
+        Chapters.10.10_7.10_7_1.10_7_1_3.SectionDoc
     

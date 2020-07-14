@@ -1,6 +1,6 @@
 
 public: ar5-13.7.2
-name: Section 13.7.2
+/ Section 13.7.2
 title: 13.7.2 - Projections of Sea Level Extremes
 section 13_7_2
 
@@ -11,15 +11,15 @@ section 13_7_2
 
   
 
-  include
-    - 13_7_2_1
-    - 13_7_2_2
+  --
+    13_7_2_1
+    13_7_2_2
 
-  name: Section 13.7.2 - Full Text
+  / Section 13.7.2 - Full Text
   path FullText
-    name: Recent Assessments of Projections of Sea Level Extremes
+    / Recent Assessments of Projections of Sea Level Extremes
     step
-      include
-        - Chapters.13.13_7.13_7_2.13_7_2_1.SectionDoc
-        - Chapters.13.13_7.13_7_2.13_7_2_2.SectionDoc
+      --
+        Chapters.13.13_7.13_7_2.13_7_2_1.SectionDoc
+        Chapters.13.13_7.13_7_2.13_7_2_2.SectionDoc
     

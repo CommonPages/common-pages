@@ -1,6 +1,6 @@
 
 public: ar5-9.5
-name: Section 9.5
+/ Section 9.5
 title: 9.5 - Simulation of Variability and Extremes
 section 9_5
 
@@ -11,41 +11,41 @@ section 9_5
 
   
 
-  include
-    - 9_5_1
-    - 9_5_2
-    - 9_5_3
-    - 9_5_4
+  --
+    9_5_1
+    9_5_2
+    9_5_3
+    9_5_4
 
-  name: Section 9.5 - Full Text
+  / Section 9.5 - Full Text
   path FullText
-    name: Importance of Simulating Climate Variability
+    / Importance of Simulating Climate Variability
     step
-      include
-        - Chapters.9.9_5.9_5_1.SectionDoc
-        - Chapters.9.9_5.9_5_2.9_5_2_1.SectionDoc
-        - Chapters.9.9_5.9_5_2.9_5_2_2.SectionDoc
-        - Chapters.9.9_5.9_5_2.9_5_2_3.SectionDoc
-        - Chapters.9.9_5.9_5_2.9_5_2_4.SectionDoc
-        - Chapters.9.9_5.9_5_3.SectionDoc
-        - Chapters.9.9_5.9_5_3.9_5_3_1.SectionDoc
-        - Chapters.9.9_5.9_5_3.9_5_3_2.SectionDoc
-        - Chapters.9.9_5.9_5_3.9_5_3_3.9_5_3_3_1.SectionDoc
-        - Chapters.9.9_5.9_5_3.9_5_3_3.9_5_3_3_2.SectionDoc
-        - Chapters.9.9_5.9_5_3.9_5_3_3.9_5_3_3_3.SectionDoc
-        - Chapters.9.9_5.9_5_3.9_5_3_4.9_5_3_4_1.SectionDoc
-        - Chapters.9.9_5.9_5_3.9_5_3_4.9_5_3_4_2.SectionDoc
-        - Chapters.9.9_5.9_5_3.9_5_3_4.9_5_3_4_3.SectionDoc
-        - Chapters.9.9_5.9_5_3.9_5_3_5.SectionDoc
-        - Chapters.9.9_5.9_5_3.9_5_3_5.9_5_3_5_1.SectionDoc
-        - Chapters.9.9_5.9_5_3.9_5_3_5.9_5_3_5_2.SectionDoc
-        - Chapters.9.9_5.9_5_3.9_5_3_6.SectionDoc
-        - Chapters.9.9_5.9_5_3.9_5_3_7.SectionDoc
-        - Chapters.9.9_5.9_5_3.9_5_3_8.SectionDoc
-        - Chapters.9.9_5.9_5_4.SectionDoc
-        - Chapters.9.9_5.9_5_4.9_5_4_1.SectionDoc
-        - Chapters.9.9_5.9_5_4.9_5_4_2.SectionDoc
-        - Chapters.9.9_5.9_5_4.9_5_4_3.SectionDoc
-        - Chapters.9.9_5.9_5_4.9_5_4_4.SectionDoc
-        - Chapters.9.9_5.9_5_4.9_5_4_5.SectionDoc
+      --
+        Chapters.9.9_5.9_5_1.SectionDoc
+        Chapters.9.9_5.9_5_2.9_5_2_1.SectionDoc
+        Chapters.9.9_5.9_5_2.9_5_2_2.SectionDoc
+        Chapters.9.9_5.9_5_2.9_5_2_3.SectionDoc
+        Chapters.9.9_5.9_5_2.9_5_2_4.SectionDoc
+        Chapters.9.9_5.9_5_3.SectionDoc
+        Chapters.9.9_5.9_5_3.9_5_3_1.SectionDoc
+        Chapters.9.9_5.9_5_3.9_5_3_2.SectionDoc
+        Chapters.9.9_5.9_5_3.9_5_3_3.9_5_3_3_1.SectionDoc
+        Chapters.9.9_5.9_5_3.9_5_3_3.9_5_3_3_2.SectionDoc
+        Chapters.9.9_5.9_5_3.9_5_3_3.9_5_3_3_3.SectionDoc
+        Chapters.9.9_5.9_5_3.9_5_3_4.9_5_3_4_1.SectionDoc
+        Chapters.9.9_5.9_5_3.9_5_3_4.9_5_3_4_2.SectionDoc
+        Chapters.9.9_5.9_5_3.9_5_3_4.9_5_3_4_3.SectionDoc
+        Chapters.9.9_5.9_5_3.9_5_3_5.SectionDoc
+        Chapters.9.9_5.9_5_3.9_5_3_5.9_5_3_5_1.SectionDoc
+        Chapters.9.9_5.9_5_3.9_5_3_5.9_5_3_5_2.SectionDoc
+        Chapters.9.9_5.9_5_3.9_5_3_6.SectionDoc
+        Chapters.9.9_5.9_5_3.9_5_3_7.SectionDoc
+        Chapters.9.9_5.9_5_3.9_5_3_8.SectionDoc
+        Chapters.9.9_5.9_5_4.SectionDoc
+        Chapters.9.9_5.9_5_4.9_5_4_1.SectionDoc
+        Chapters.9.9_5.9_5_4.9_5_4_2.SectionDoc
+        Chapters.9.9_5.9_5_4.9_5_4_3.SectionDoc
+        Chapters.9.9_5.9_5_4.9_5_4_4.SectionDoc
+        Chapters.9.9_5.9_5_4.9_5_4_5.SectionDoc
     

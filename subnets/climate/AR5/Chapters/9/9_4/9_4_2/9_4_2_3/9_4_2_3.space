@@ -1,6 +1,6 @@
 
 public: ar5-9.4.2.3
-name: Section 9.4.2.3
+/ Section 9.4.2.3
 title: 9.4.2.3 - Simulation of Circulation Features Important for Climate Response
 section 9_4_2_3
 
@@ -11,13 +11,13 @@ section 9_4_2_3
 
   
 
-  include
-    - 9_4_2_3_1
+  --
+    9_4_2_3_1
 
-  name: Section 9.4.2.3 - Full Text
+  / Section 9.4.2.3 - Full Text
   path FullText
-    name: Simulation of recent ocean circulation
+    / Simulation of recent ocean circulation
     step
-      include
-        - Chapters.9.9_4.9_4_2.9_4_2_3.9_4_2_3_1.SectionDoc
+      --
+        Chapters.9.9_4.9_4_2.9_4_2_3.9_4_2_3_1.SectionDoc
     

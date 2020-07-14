@@ -1,6 +1,6 @@
 
 public: ar5-13.3.2
-name: Section 13.3.2
+/ Section 13.3.2
 title: 13.3.2 - Glaciers
 section 13_3_2
 
@@ -11,15 +11,15 @@ section 13_3_2
 
   
 
-  include
-    - 13_3_2_1
-    - 13_3_2_2
+  --
+    13_3_2_1
+    13_3_2_2
 
-  name: Section 13.3.2 - Full Text
+  / Section 13.3.2 - Full Text
   path FullText
-    name: Observed
+    / Observed
     step
-      include
-        - Chapters.13.13_3.13_3_2.13_3_2_1.SectionDoc
-        - Chapters.13.13_3.13_3_2.13_3_2_2.SectionDoc
+      --
+        Chapters.13.13_3.13_3_2.13_3_2_1.SectionDoc
+        Chapters.13.13_3.13_3_2.13_3_2_2.SectionDoc
     

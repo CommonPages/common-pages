@@ -1,6 +1,6 @@
 
 public: ar5-13.4.3
-name: Section 13.4.3
+/ Section 13.4.3
 title: 13.4.3 - Greenland Ice Sheet
 section 13_4_3
 
@@ -11,17 +11,17 @@ section 13_4_3
 
   
 
-  include
-    - 13_4_3_1
-    - 13_4_3_2
-    - 13_4_3_3
+  --
+    13_4_3_1
+    13_4_3_2
+    13_4_3_3
 
-  name: Section 13.4.3 - Full Text
+  / Section 13.4.3 - Full Text
   path FullText
-    name: Surface Mass Balance Change
+    / Surface Mass Balance Change
     step
-      include
-        - Chapters.13.13_4.13_4_3.13_4_3_1.SectionDoc
-        - Chapters.13.13_4.13_4_3.13_4_3_2.SectionDoc
-        - Chapters.13.13_4.13_4_3.13_4_3_3.SectionDoc
+      --
+        Chapters.13.13_4.13_4_3.13_4_3_1.SectionDoc
+        Chapters.13.13_4.13_4_3.13_4_3_2.SectionDoc
+        Chapters.13.13_4.13_4_3.13_4_3_3.SectionDoc
     

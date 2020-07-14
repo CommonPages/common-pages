@@ -1,6 +1,6 @@
 
 public: ar5-10.8.2
-name: Section 10.8.2
+/ Section 10.8.2
 title: 10.8.2 - Constraints on Long-Term Climate Change and the Equilibrium Climate Sensitivity
 section 10_8_2
 
@@ -11,22 +11,22 @@ section 10_8_2
 
   insert SectionDoc
 
-  include
-    - 10_8_2_1
-    - 10_8_2_2
-    - 10_8_2_3
-    - 10_8_2_4
-    - 10_8_2_5
+  --
+    10_8_2_1
+    10_8_2_2
+    10_8_2_3
+    10_8_2_4
+    10_8_2_5
 
-  name: Section 10.8.2 - Full Text
+  / Section 10.8.2 - Full Text
   path FullText
-    name: Constraints on Long-Term Climate Change and the Equilibrium Climate Sensitivity
+    / Constraints on Long-Term Climate Change and the Equilibrium Climate Sensitivity
     step
-      include
-        - Chapters.10.10_8.10_8_2.SectionDoc
-        - Chapters.10.10_8.10_8_2.10_8_2_1.SectionDoc
-        - Chapters.10.10_8.10_8_2.10_8_2_2.SectionDoc
-        - Chapters.10.10_8.10_8_2.10_8_2_3.SectionDoc
-        - Chapters.10.10_8.10_8_2.10_8_2_4.SectionDoc
-        - Chapters.10.10_8.10_8_2.10_8_2_5.SectionDoc
+      --
+        Chapters.10.10_8.10_8_2.SectionDoc
+        Chapters.10.10_8.10_8_2.10_8_2_1.SectionDoc
+        Chapters.10.10_8.10_8_2.10_8_2_2.SectionDoc
+        Chapters.10.10_8.10_8_2.10_8_2_3.SectionDoc
+        Chapters.10.10_8.10_8_2.10_8_2_4.SectionDoc
+        Chapters.10.10_8.10_8_2.10_8_2_5.SectionDoc
     

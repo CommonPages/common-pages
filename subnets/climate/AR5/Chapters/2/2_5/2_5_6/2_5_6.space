@@ -1,6 +1,6 @@
 
 public: ar5-2.5.6
-name: Section 2.5.6
+/ Section 2.5.6
 title: 2.5.6 - Clouds
 section 2_5_6
 
@@ -11,15 +11,15 @@ section 2_5_6
 
   
 
-  include
-    - 2_5_6_1
-    - 2_5_6_2
+  --
+    2_5_6_1
+    2_5_6_2
 
-  name: Section 2.5.6 - Full Text
+  / Section 2.5.6 - Full Text
   path FullText
-    name: Surface Observations
+    / Surface Observations
     step
-      include
-        - Chapters.2.2_5.2_5_6.2_5_6_1.SectionDoc
-        - Chapters.2.2_5.2_5_6.2_5_6_2.SectionDoc
+      --
+        Chapters.2.2_5.2_5_6.2_5_6_1.SectionDoc
+        Chapters.2.2_5.2_5_6.2_5_6_2.SectionDoc
     

@@ -1,6 +1,6 @@
 
 public: ar5-8.1
-name: Section 8.1
+/ Section 8.1
 title: 8.1 - Radiative Forcing
 section 8_1
 
@@ -11,19 +11,19 @@ section 8_1
 
   insert SectionDoc
 
-  include
-    - 8_1_1
-    - 8_1_2
+  --
+    8_1_1
+    8_1_2
 
-  name: Section 8.1 - Full Text
+  / Section 8.1 - Full Text
   path FullText
-    name: Radiative Forcing
+    / Radiative Forcing
     step
-      include
-        - Chapters.8.8_1.SectionDoc
-        - Chapters.8.8_1.8_1_1.SectionDoc
-        - Chapters.8.8_1.8_1_1.8_1_1_1.SectionDoc
-        - Chapters.8.8_1.8_1_1.8_1_1_2.SectionDoc
-        - Chapters.8.8_1.8_1_1.8_1_1_3.SectionDoc
-        - Chapters.8.8_1.8_1_2.SectionDoc
+      --
+        Chapters.8.8_1.SectionDoc
+        Chapters.8.8_1.8_1_1.SectionDoc
+        Chapters.8.8_1.8_1_1.8_1_1_1.SectionDoc
+        Chapters.8.8_1.8_1_1.8_1_1_2.SectionDoc
+        Chapters.8.8_1.8_1_1.8_1_1_3.SectionDoc
+        Chapters.8.8_1.8_1_2.SectionDoc
     

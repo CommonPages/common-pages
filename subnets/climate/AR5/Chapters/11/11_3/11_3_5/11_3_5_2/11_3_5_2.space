@@ -1,6 +1,6 @@
 
 public: ar5-11.3.5.2
-name: Section 11.3.5.2
+/ Section 11.3.5.2
 title: 11.3.5.2 - Projections of Air Quality for the 21st Century
 section 11_3_5_2
 
@@ -11,18 +11,18 @@ section 11_3_5_2
 
   insert SectionDoc
 
-  include
-    - 11_3_5_2_1
-    - 11_3_5_2_2
-    - 11_3_5_2_3
+  --
+    11_3_5_2_1
+    11_3_5_2_2
+    11_3_5_2_3
 
-  name: Section 11.3.5.2 - Full Text
+  / Section 11.3.5.2 - Full Text
   path FullText
-    name: Projections of Air Quality for the 21st Century
+    / Projections of Air Quality for the 21st Century
     step
-      include
-        - Chapters.11.11_3.11_3_5.11_3_5_2.SectionDoc
-        - Chapters.11.11_3.11_3_5.11_3_5_2.11_3_5_2_1.SectionDoc
-        - Chapters.11.11_3.11_3_5.11_3_5_2.11_3_5_2_2.SectionDoc
-        - Chapters.11.11_3.11_3_5.11_3_5_2.11_3_5_2_3.SectionDoc
+      --
+        Chapters.11.11_3.11_3_5.11_3_5_2.SectionDoc
+        Chapters.11.11_3.11_3_5.11_3_5_2.11_3_5_2_1.SectionDoc
+        Chapters.11.11_3.11_3_5.11_3_5_2.11_3_5_2_2.SectionDoc
+        Chapters.11.11_3.11_3_5.11_3_5_2.11_3_5_2_3.SectionDoc
     

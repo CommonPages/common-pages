@@ -1,6 +1,6 @@
 
 public: ar5-10.5.1
-name: Section 10.5.1
+/ Section 10.5.1
 title: 10.5.1 - Sea Ice
 section 10_5_1
 
@@ -11,13 +11,13 @@ section 10_5_1
 
   
 
-  include
-    - 10_5_1_1
+  --
+    10_5_1_1
 
-  name: Section 10.5.1 - Full Text
+  / Section 10.5.1 - Full Text
   path FullText
-    name: Arctic and Antarctic Sea Ice
+    / Arctic and Antarctic Sea Ice
     step
-      include
-        - Chapters.10.10_5.10_5_1.10_5_1_1.SectionDoc
+      --
+        Chapters.10.10_5.10_5_1.10_5_1_1.SectionDoc
     

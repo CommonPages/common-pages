@@ -1,6 +1,6 @@
 
 public: ar5-9.1
-name: Section 9.1
+/ Section 9.1
 title: 9.1 - Climate Models and Their Characteristics
 section 9_1
 
@@ -11,35 +11,35 @@ section 9_1
 
   
 
-  include
-    - 9_1_1
-    - 9_1_2
-    - 9_1_3
+  --
+    9_1_1
+    9_1_2
+    9_1_3
 
-  name: Section 9.1 - Full Text
+  / Section 9.1 - Full Text
   path FullText
-    name: Scope and Overview of this Chapter
+    / Scope and Overview of this Chapter
     step
-      include
-        - Chapters.9.9_1.9_1_1.SectionDoc
-        - Chapters.9.9_1.9_1_2.SectionDoc
-        - Chapters.9.9_1.9_1_2.9_1_2_1.SectionDoc
-        - Chapters.9.9_1.9_1_2.9_1_2_2.SectionDoc
-        - Chapters.9.9_1.9_1_2.9_1_2_3.SectionDoc
-        - Chapters.9.9_1.9_1_2.9_1_2_4.SectionDoc
-        - Chapters.9.9_1.9_1_3.SectionDoc
-        - Chapters.9.9_1.9_1_3.9_1_3_1.SectionDoc
-        - Chapters.9.9_1.9_1_3.9_1_3_1.9_1_3_1_1.SectionDoc
-        - Chapters.9.9_1.9_1_3.9_1_3_1.9_1_3_1_2.SectionDoc
-        - Chapters.9.9_1.9_1_3.9_1_3_1.9_1_3_1_3.SectionDoc
-        - Chapters.9.9_1.9_1_3.9_1_3_1.9_1_3_1_4.SectionDoc
-        - Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_1.SectionDoc
-        - Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_2.SectionDoc
-        - Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_3.SectionDoc
-        - Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_4.SectionDoc
-        - Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_5.SectionDoc
-        - Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_6.SectionDoc
-        - Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_7.SectionDoc
-        - Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_8.SectionDoc
-        - Chapters.9.9_1.9_1_3.9_1_3_3.SectionDoc
+      --
+        Chapters.9.9_1.9_1_1.SectionDoc
+        Chapters.9.9_1.9_1_2.SectionDoc
+        Chapters.9.9_1.9_1_2.9_1_2_1.SectionDoc
+        Chapters.9.9_1.9_1_2.9_1_2_2.SectionDoc
+        Chapters.9.9_1.9_1_2.9_1_2_3.SectionDoc
+        Chapters.9.9_1.9_1_2.9_1_2_4.SectionDoc
+        Chapters.9.9_1.9_1_3.SectionDoc
+        Chapters.9.9_1.9_1_3.9_1_3_1.SectionDoc
+        Chapters.9.9_1.9_1_3.9_1_3_1.9_1_3_1_1.SectionDoc
+        Chapters.9.9_1.9_1_3.9_1_3_1.9_1_3_1_2.SectionDoc
+        Chapters.9.9_1.9_1_3.9_1_3_1.9_1_3_1_3.SectionDoc
+        Chapters.9.9_1.9_1_3.9_1_3_1.9_1_3_1_4.SectionDoc
+        Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_1.SectionDoc
+        Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_2.SectionDoc
+        Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_3.SectionDoc
+        Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_4.SectionDoc
+        Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_5.SectionDoc
+        Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_6.SectionDoc
+        Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_7.SectionDoc
+        Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_8.SectionDoc
+        Chapters.9.9_1.9_1_3.9_1_3_3.SectionDoc
     

@@ -1,6 +1,6 @@
 
 public: ar5-10.5.2
-name: Section 10.5.2
+/ Section 10.5.2
 title: 10.5.2 - Ice Sheets, Ice Shelves and Glaciers
 section 10_5_2
 
@@ -11,15 +11,15 @@ section 10_5_2
 
   
 
-  include
-    - 10_5_2_1
-    - 10_5_2_2
+  --
+    10_5_2_1
+    10_5_2_2
 
-  name: Section 10.5.2 - Full Text
+  / Section 10.5.2 - Full Text
   path FullText
-    name: Greenland and Antarctic Ice Sheets
+    / Greenland and Antarctic Ice Sheets
     step
-      include
-        - Chapters.10.10_5.10_5_2.10_5_2_1.SectionDoc
-        - Chapters.10.10_5.10_5_2.10_5_2_2.SectionDoc
+      --
+        Chapters.10.10_5.10_5_2.10_5_2_1.SectionDoc
+        Chapters.10.10_5.10_5_2.10_5_2_2.SectionDoc
     

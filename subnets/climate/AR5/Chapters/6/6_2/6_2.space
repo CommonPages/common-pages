@@ -1,6 +1,6 @@
 
 public: ar5-6.2
-name: Section 6.2
+/ Section 6.2
 title: 6.2 - Variations in Carbon and Other Biogeochemical Cycles Before the Fossil Fuel Era
 section 6_2
 
@@ -11,31 +11,31 @@ section 6_2
 
   insert SectionDoc
 
-  include
-    - 6_2_1
-    - 6_2_2
-    - 6_2_3
+  --
+    6_2_1
+    6_2_2
+    6_2_3
 
-  name: Section 6.2 - Full Text
+  / Section 6.2 - Full Text
   path FullText
-    name: Variations in Carbon and Other Biogeochemical Cycles Before the Fossil Fuel Era
+    / Variations in Carbon and Other Biogeochemical Cycles Before the Fossil Fuel Era
     step
-      include
-        - Chapters.6.6_2.SectionDoc
-        - Chapters.6.6_2.6_2_1.6_2_1_1.SectionDoc
-        - Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_1.SectionDoc
-        - Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_2.SectionDoc
-        - Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_3.SectionDoc
-        - Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_4.SectionDoc
-        - Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_5.SectionDoc
-        - Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_6.SectionDoc
-        - Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_7.SectionDoc
-        - Chapters.6.6_2.6_2_1.6_2_1_2.SectionDoc
-        - Chapters.6.6_2.6_2_1.6_2_1_3.SectionDoc
-        - Chapters.6.6_2.6_2_2.6_2_2_1.SectionDoc
-        - Chapters.6.6_2.6_2_2.6_2_2_1.6_2_2_1_1.SectionDoc
-        - Chapters.6.6_2.6_2_2.6_2_2_1.6_2_2_1_2.SectionDoc
-        - Chapters.6.6_2.6_2_2.6_2_2_2.SectionDoc
-        - Chapters.6.6_2.6_2_3.6_2_3_1.SectionDoc
-        - Chapters.6.6_2.6_2_3.6_2_3_2.SectionDoc
+      --
+        Chapters.6.6_2.SectionDoc
+        Chapters.6.6_2.6_2_1.6_2_1_1.SectionDoc
+        Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_1.SectionDoc
+        Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_2.SectionDoc
+        Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_3.SectionDoc
+        Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_4.SectionDoc
+        Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_5.SectionDoc
+        Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_6.SectionDoc
+        Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_7.SectionDoc
+        Chapters.6.6_2.6_2_1.6_2_1_2.SectionDoc
+        Chapters.6.6_2.6_2_1.6_2_1_3.SectionDoc
+        Chapters.6.6_2.6_2_2.6_2_2_1.SectionDoc
+        Chapters.6.6_2.6_2_2.6_2_2_1.6_2_2_1_1.SectionDoc
+        Chapters.6.6_2.6_2_2.6_2_2_1.6_2_2_1_2.SectionDoc
+        Chapters.6.6_2.6_2_2.6_2_2_2.SectionDoc
+        Chapters.6.6_2.6_2_3.6_2_3_1.SectionDoc
+        Chapters.6.6_2.6_2_3.6_2_3_2.SectionDoc
     

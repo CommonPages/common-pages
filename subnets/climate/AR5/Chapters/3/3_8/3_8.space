@@ -1,6 +1,6 @@
 
 public: ar5-3.8
-name: Section 3.8
+/ Section 3.8
 title: 3.8 - Ocean Biogeochemical Changes, Including Anthropogenic Ocean Acidification
 section 3_8
 
@@ -11,23 +11,23 @@ section 3_8
 
   insert SectionDoc
 
-  include
-    - 3_8_1
-    - 3_8_2
-    - 3_8_3
-    - 3_8_4
-    - 3_8_5
+  --
+    3_8_1
+    3_8_2
+    3_8_3
+    3_8_4
+    3_8_5
 
-  name: Section 3.8 - Full Text
+  / Section 3.8 - Full Text
   path FullText
-    name: Ocean Biogeochemical Changes, Including Anthropogenic Ocean Acidification
+    / Ocean Biogeochemical Changes, Including Anthropogenic Ocean Acidification
     step
-      include
-        - Chapters.3.3_8.SectionDoc
-        - Chapters.3.3_8.3_8_1.3_8_1_1.SectionDoc
-        - Chapters.3.3_8.3_8_1.3_8_1_2.SectionDoc
-        - Chapters.3.3_8.3_8_2.SectionDoc
-        - Chapters.3.3_8.3_8_3.SectionDoc
-        - Chapters.3.3_8.3_8_4.SectionDoc
-        - Chapters.3.3_8.3_8_5.SectionDoc
+      --
+        Chapters.3.3_8.SectionDoc
+        Chapters.3.3_8.3_8_1.3_8_1_1.SectionDoc
+        Chapters.3.3_8.3_8_1.3_8_1_2.SectionDoc
+        Chapters.3.3_8.3_8_2.SectionDoc
+        Chapters.3.3_8.3_8_3.SectionDoc
+        Chapters.3.3_8.3_8_4.SectionDoc
+        Chapters.3.3_8.3_8_5.SectionDoc
     

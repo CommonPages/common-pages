@@ -1,6 +1,6 @@
 
 public: ar5-12.4
-name: Section 12.4
+/ Section 12.4
 title: 12.4 - Projected Climate Change over the 21st Century
 section 12_4
 
@@ -11,48 +11,48 @@ section 12_4
 
   
 
-  include
-    - 12_4_1
-    - 12_4_2
-    - 12_4_3
-    - 12_4_4
-    - 12_4_5
-    - 12_4_6
-    - 12_4_7
-    - 12_4_8
-    - 12_4_9
+  --
+    12_4_1
+    12_4_2
+    12_4_3
+    12_4_4
+    12_4_5
+    12_4_6
+    12_4_7
+    12_4_8
+    12_4_9
 
-  name: Section 12.4 - Full Text
+  / Section 12.4 - Full Text
   path FullText
-    name: Projected Changes in Global Mean Temperature and Precipitation
+    / Projected Changes in Global Mean Temperature and Precipitation
     step
-      include
-        - Chapters.12.12_4.12_4_1.12_4_1_1.SectionDoc
-        - Chapters.12.12_4.12_4_1.12_4_1_2.SectionDoc
-        - Chapters.12.12_4.12_4_2.12_4_2_1.SectionDoc
-        - Chapters.12.12_4.12_4_2.12_4_2_2.SectionDoc
-        - Chapters.12.12_4.12_4_3.12_4_3_1.SectionDoc
-        - Chapters.12.12_4.12_4_3.12_4_3_2.SectionDoc
-        - Chapters.12.12_4.12_4_3.12_4_3_3.SectionDoc
-        - Chapters.12.12_4.12_4_3.12_4_3_4.SectionDoc
-        - Chapters.12.12_4.12_4_3.12_4_3_5.SectionDoc
-        - Chapters.12.12_4.12_4_4.SectionDoc
-        - Chapters.12.12_4.12_4_4.12_4_4_1.SectionDoc
-        - Chapters.12.12_4.12_4_4.12_4_4_2.SectionDoc
-        - Chapters.12.12_4.12_4_4.12_4_4_3.SectionDoc
-        - Chapters.12.12_4.12_4_5.SectionDoc
-        - Chapters.12.12_4.12_4_5.12_4_5_1.SectionDoc
-        - Chapters.12.12_4.12_4_5.12_4_5_2.SectionDoc
-        - Chapters.12.12_4.12_4_5.12_4_5_3.SectionDoc
-        - Chapters.12.12_4.12_4_5.12_4_5_4.SectionDoc
-        - Chapters.12.12_4.12_4_5.12_4_5_5.SectionDoc
-        - Chapters.12.12_4.12_4_6.12_4_6_1.SectionDoc
-        - Chapters.12.12_4.12_4_6.12_4_6_2.SectionDoc
-        - Chapters.12.12_4.12_4_7.12_4_7_1.SectionDoc
-        - Chapters.12.12_4.12_4_7.12_4_7_2.SectionDoc
-        - Chapters.12.12_4.12_4_7.12_4_7_3.SectionDoc
-        - Chapters.12.12_4.12_4_8.SectionDoc
-        - Chapters.12.12_4.12_4_8.12_4_8_1.SectionDoc
-        - Chapters.12.12_4.12_4_8.12_4_8_2.SectionDoc
-        - Chapters.12.12_4.12_4_9.SectionDoc
+      --
+        Chapters.12.12_4.12_4_1.12_4_1_1.SectionDoc
+        Chapters.12.12_4.12_4_1.12_4_1_2.SectionDoc
+        Chapters.12.12_4.12_4_2.12_4_2_1.SectionDoc
+        Chapters.12.12_4.12_4_2.12_4_2_2.SectionDoc
+        Chapters.12.12_4.12_4_3.12_4_3_1.SectionDoc
+        Chapters.12.12_4.12_4_3.12_4_3_2.SectionDoc
+        Chapters.12.12_4.12_4_3.12_4_3_3.SectionDoc
+        Chapters.12.12_4.12_4_3.12_4_3_4.SectionDoc
+        Chapters.12.12_4.12_4_3.12_4_3_5.SectionDoc
+        Chapters.12.12_4.12_4_4.SectionDoc
+        Chapters.12.12_4.12_4_4.12_4_4_1.SectionDoc
+        Chapters.12.12_4.12_4_4.12_4_4_2.SectionDoc
+        Chapters.12.12_4.12_4_4.12_4_4_3.SectionDoc
+        Chapters.12.12_4.12_4_5.SectionDoc
+        Chapters.12.12_4.12_4_5.12_4_5_1.SectionDoc
+        Chapters.12.12_4.12_4_5.12_4_5_2.SectionDoc
+        Chapters.12.12_4.12_4_5.12_4_5_3.SectionDoc
+        Chapters.12.12_4.12_4_5.12_4_5_4.SectionDoc
+        Chapters.12.12_4.12_4_5.12_4_5_5.SectionDoc
+        Chapters.12.12_4.12_4_6.12_4_6_1.SectionDoc
+        Chapters.12.12_4.12_4_6.12_4_6_2.SectionDoc
+        Chapters.12.12_4.12_4_7.12_4_7_1.SectionDoc
+        Chapters.12.12_4.12_4_7.12_4_7_2.SectionDoc
+        Chapters.12.12_4.12_4_7.12_4_7_3.SectionDoc
+        Chapters.12.12_4.12_4_8.SectionDoc
+        Chapters.12.12_4.12_4_8.12_4_8_1.SectionDoc
+        Chapters.12.12_4.12_4_8.12_4_8_2.SectionDoc
+        Chapters.12.12_4.12_4_9.SectionDoc
     

@@ -1,6 +1,6 @@
 
 public: ar5-13.5.4
-name: Section 13.5.4
+/ Section 13.5.4
 title: 13.5.4 - Long-term Scenarios
 section 13_5_4
 
@@ -11,16 +11,16 @@ section 13_5_4
 
   insert SectionDoc
 
-  include
-    - 13_5_4_1
-    - 13_5_4_2
+  --
+    13_5_4_1
+    13_5_4_2
 
-  name: Section 13.5.4 - Full Text
+  / Section 13.5.4 - Full Text
   path FullText
-    name: Long-term Scenarios
+    / Long-term Scenarios
     step
-      include
-        - Chapters.13.13_5.13_5_4.SectionDoc
-        - Chapters.13.13_5.13_5_4.13_5_4_1.SectionDoc
-        - Chapters.13.13_5.13_5_4.13_5_4_2.SectionDoc
+      --
+        Chapters.13.13_5.13_5_4.SectionDoc
+        Chapters.13.13_5.13_5_4.13_5_4_1.SectionDoc
+        Chapters.13.13_5.13_5_4.13_5_4_2.SectionDoc
     

@@ -1,6 +1,6 @@
 
 public: ar5-11.3.6
-name: Section 11.3.6
+/ Section 11.3.6
 title: 11.3.6 - Additional Uncertainties in Projections of Near-term Climate
 section 11_3_6
 
@@ -11,19 +11,19 @@ section 11_3_6
 
   insert SectionDoc
 
-  include
-    - 11_3_6_1
-    - 11_3_6_2
-    - 11_3_6_3
+  --
+    11_3_6_1
+    11_3_6_2
+    11_3_6_3
 
-  name: Section 11.3.6 - Full Text
+  / Section 11.3.6 - Full Text
   path FullText
-    name: Additional Uncertainties in Projections of Near-term Climate
+    / Additional Uncertainties in Projections of Near-term Climate
     step
-      include
-        - Chapters.11.11_3.11_3_6.SectionDoc
-        - Chapters.11.11_3.11_3_6.11_3_6_1.SectionDoc
-        - Chapters.11.11_3.11_3_6.11_3_6_2.11_3_6_2_1.SectionDoc
-        - Chapters.11.11_3.11_3_6.11_3_6_2.11_3_6_2_2.SectionDoc
-        - Chapters.11.11_3.11_3_6.11_3_6_3.SectionDoc
+      --
+        Chapters.11.11_3.11_3_6.SectionDoc
+        Chapters.11.11_3.11_3_6.11_3_6_1.SectionDoc
+        Chapters.11.11_3.11_3_6.11_3_6_2.11_3_6_2_1.SectionDoc
+        Chapters.11.11_3.11_3_6.11_3_6_2.11_3_6_2_2.SectionDoc
+        Chapters.11.11_3.11_3_6.11_3_6_3.SectionDoc
     

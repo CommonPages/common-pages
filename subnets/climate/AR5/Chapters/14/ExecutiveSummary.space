@@ -4,9 +4,9 @@ name: Chapter 14 - Conclusions
 lead: Formal conclusions presented in Chapter 14.
 conclusions ExecutiveSummary
 
-  insert text
-    | This chapter assesses the scientific literature on {Topics.*Climate_Projections projected} changes in major climate phenomena and more specifically their relevance for future change in regional climates, contingent on global mean temperatures continue to rise.
-    | {Topics.*Regional_Climate Regional climates} are the complex result of processes that vary strongly with location and so respond differently to changes in global-scale influences. The following large-scale climate phenomena are increasingly well simulated by {Topics.*Climate_Modelling climate models} and so provide a scientific basis for understanding and developing credibility in future regional climate change. A phenomenon is considered relevant to regional climate change if there is confidence that it has influence on the regional climate and there is confidence that the phenomenon will change, particularly under the Representative Concentration Pathway 4.5 (RCP4.5) or higher end {Topics.*Scenarios scenarios}. ({'Table_14_3 Table 14.3})
+  >>>
+    This chapter assesses the scientific literature on {Topics.*Climate_Projections projected} changes in major climate phenomena and more specifically their relevance for future change in regional climates, contingent on global mean temperatures continue to rise.
+    {Topics.*Regional_Climate Regional climates} are the complex result of processes that vary strongly with location and so respond differently to changes in global-scale influences. The following large-scale climate phenomena are increasingly well simulated by {Topics.*Climate_Modelling climate models} and so provide a scientific basis for understanding and developing credibility in future regional climate change. A phenomenon is considered relevant to regional climate change if there is confidence that it has influence on the regional climate and there is confidence that the phenomenon will change, particularly under the Representative Concentration Pathway 4.5 (RCP4.5) or higher end {Topics.*Scenarios scenarios}. ({'Table_14_3 Table 14.3})
 
   name: Monsoon Systems
 

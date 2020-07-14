@@ -1,6 +1,6 @@
 
 public: ar5-9.4.1.4
-name: Section 9.4.1.4
+/ Section 9.4.1.4
 title: 9.4.1.4 - Long-Term Global-Scale Changes
 section 9_4_1_4
 
@@ -11,22 +11,22 @@ section 9_4_1_4
 
   insert SectionDoc
 
-  include
-    - 9_4_1_4_1
-    - 9_4_1_4_2
-    - 9_4_1_4_3
-    - 9_4_1_4_4
-    - 9_4_1_4_5
+  --
+    9_4_1_4_1
+    9_4_1_4_2
+    9_4_1_4_3
+    9_4_1_4_4
+    9_4_1_4_5
 
-  name: Section 9.4.1.4 - Full Text
+  / Section 9.4.1.4 - Full Text
   path FullText
-    name: Long-Term Global-Scale Changes
+    / Long-Term Global-Scale Changes
     step
-      include
-        - Chapters.9.9_4.9_4_1.9_4_1_4.SectionDoc
-        - Chapters.9.9_4.9_4_1.9_4_1_4.9_4_1_4_1.SectionDoc
-        - Chapters.9.9_4.9_4_1.9_4_1_4.9_4_1_4_2.SectionDoc
-        - Chapters.9.9_4.9_4_1.9_4_1_4.9_4_1_4_3.SectionDoc
-        - Chapters.9.9_4.9_4_1.9_4_1_4.9_4_1_4_4.SectionDoc
-        - Chapters.9.9_4.9_4_1.9_4_1_4.9_4_1_4_5.SectionDoc
+      --
+        Chapters.9.9_4.9_4_1.9_4_1_4.SectionDoc
+        Chapters.9.9_4.9_4_1.9_4_1_4.9_4_1_4_1.SectionDoc
+        Chapters.9.9_4.9_4_1.9_4_1_4.9_4_1_4_2.SectionDoc
+        Chapters.9.9_4.9_4_1.9_4_1_4.9_4_1_4_3.SectionDoc
+        Chapters.9.9_4.9_4_1.9_4_1_4.9_4_1_4_4.SectionDoc
+        Chapters.9.9_4.9_4_1.9_4_1_4.9_4_1_4_5.SectionDoc
     

@@ -1,6 +1,6 @@
 
 public: ar5-9.6.1
-name: Section 9.6.1
+/ Section 9.6.1
 title: 9.6.1 - Global Models
 section 9_6_1
 
@@ -11,17 +11,17 @@ section 9_6_1
 
   
 
-  include
-    - 9_6_1_1
-    - 9_6_1_2
-    - 9_6_1_3
+  --
+    9_6_1_1
+    9_6_1_2
+    9_6_1_3
 
-  name: Section 9.6.1 - Full Text
+  / Section 9.6.1 - Full Text
   path FullText
-    name: Regional-Scale Simulation by Atmosphere–Ocean General Circulation Models
+    / Regional-Scale Simulation by Atmosphere–Ocean General Circulation Models
     step
-      include
-        - Chapters.9.9_6.9_6_1.9_6_1_1.SectionDoc
-        - Chapters.9.9_6.9_6_1.9_6_1_2.SectionDoc
-        - Chapters.9.9_6.9_6_1.9_6_1_3.SectionDoc
+      --
+        Chapters.9.9_6.9_6_1.9_6_1_1.SectionDoc
+        Chapters.9.9_6.9_6_1.9_6_1_2.SectionDoc
+        Chapters.9.9_6.9_6_1.9_6_1_3.SectionDoc
     

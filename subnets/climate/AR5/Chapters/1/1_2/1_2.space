@@ -1,6 +1,6 @@
 
 public: ar5-1.2
-name: Section 1.2
+/ Section 1.2
 title: 1.2 - Rationale and Key Concepts of the WGI Contribution
 section 1_2
 
@@ -11,17 +11,17 @@ section 1_2
 
   
 
-  include
-    - 1_2_1
-    - 1_2_2
-    - 1_2_3
+  --
+    1_2_1
+    1_2_2
+    1_2_3
 
-  name: Section 1.2 - Full Text
+  / Section 1.2 - Full Text
   path FullText
-    name: Setting the Stage for the Assessment
+    / Setting the Stage for the Assessment
     step
-      include
-        - Chapters.1.1_2.1_2_1.SectionDoc
-        - Chapters.1.1_2.1_2_2.SectionDoc
-        - Chapters.1.1_2.1_2_3.SectionDoc
+      --
+        Chapters.1.1_2.1_2_1.SectionDoc
+        Chapters.1.1_2.1_2_2.SectionDoc
+        Chapters.1.1_2.1_2_3.SectionDoc
     

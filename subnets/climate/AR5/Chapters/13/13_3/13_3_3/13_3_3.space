@@ -1,6 +1,6 @@
 
 public: ar5-13.3.3
-name: Section 13.3.3
+/ Section 13.3.3
 title: 13.3.3 - Greenland and Antarctic Ice Sheets
 section 13_3_3
 
@@ -11,15 +11,15 @@ section 13_3_3
 
   
 
-  include
-    - 13_3_3_1
-    - 13_3_3_2
+  --
+    13_3_3_1
+    13_3_3_2
 
-  name: Section 13.3.3 - Full Text
+  / Section 13.3.3 - Full Text
   path FullText
-    name: Observed Mass Balance
+    / Observed Mass Balance
     step
-      include
-        - Chapters.13.13_3.13_3_3.13_3_3_1.SectionDoc
-        - Chapters.13.13_3.13_3_3.13_3_3_2.SectionDoc
+      --
+        Chapters.13.13_3.13_3_3.13_3_3_1.SectionDoc
+        Chapters.13.13_3.13_3_3.13_3_3_2.SectionDoc
     

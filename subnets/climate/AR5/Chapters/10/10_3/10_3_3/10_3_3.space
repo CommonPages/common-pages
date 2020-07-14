@@ -1,6 +1,6 @@
 
 public: ar5-10.3.3
-name: Section 10.3.3
+/ Section 10.3.3
 title: 10.3.3 - Atmospheric Circulation and Patterns of Variability
 section 10_3_3
 
@@ -11,20 +11,20 @@ section 10_3_3
 
   insert SectionDoc
 
-  include
-    - 10_3_3_1
-    - 10_3_3_2
-    - 10_3_3_3
-    - 10_3_3_4
+  --
+    10_3_3_1
+    10_3_3_2
+    10_3_3_3
+    10_3_3_4
 
-  name: Section 10.3.3 - Full Text
+  / Section 10.3.3 - Full Text
   path FullText
-    name: Atmospheric Circulation and Patterns of Variability
+    / Atmospheric Circulation and Patterns of Variability
     step
-      include
-        - Chapters.10.10_3.10_3_3.SectionDoc
-        - Chapters.10.10_3.10_3_3.10_3_3_1.SectionDoc
-        - Chapters.10.10_3.10_3_3.10_3_3_2.SectionDoc
-        - Chapters.10.10_3.10_3_3.10_3_3_3.SectionDoc
-        - Chapters.10.10_3.10_3_3.10_3_3_4.SectionDoc
+      --
+        Chapters.10.10_3.10_3_3.SectionDoc
+        Chapters.10.10_3.10_3_3.10_3_3_1.SectionDoc
+        Chapters.10.10_3.10_3_3.10_3_3_2.SectionDoc
+        Chapters.10.10_3.10_3_3.10_3_3_3.SectionDoc
+        Chapters.10.10_3.10_3_3.10_3_3_4.SectionDoc
     

@@ -1,6 +1,6 @@
 
 public: ar5-11.3.2.5
-name: Section 11.3.2.5
+/ Section 11.3.2.5
 title: 11.3.2.5 - Atmospheric Extremes
 section 11_3_2_5
 
@@ -11,18 +11,18 @@ section 11_3_2_5
 
   insert SectionDoc
 
-  include
-    - 11_3_2_5_1
-    - 11_3_2_5_2
-    - 11_3_2_5_3
+  --
+    11_3_2_5_1
+    11_3_2_5_2
+    11_3_2_5_3
 
-  name: Section 11.3.2.5 - Full Text
+  / Section 11.3.2.5 - Full Text
   path FullText
-    name: Atmospheric Extremes
+    / Atmospheric Extremes
     step
-      include
-        - Chapters.11.11_3.11_3_2.11_3_2_5.SectionDoc
-        - Chapters.11.11_3.11_3_2.11_3_2_5.11_3_2_5_1.SectionDoc
-        - Chapters.11.11_3.11_3_2.11_3_2_5.11_3_2_5_2.SectionDoc
-        - Chapters.11.11_3.11_3_2.11_3_2_5.11_3_2_5_3.SectionDoc
+      --
+        Chapters.11.11_3.11_3_2.11_3_2_5.SectionDoc
+        Chapters.11.11_3.11_3_2.11_3_2_5.11_3_2_5_1.SectionDoc
+        Chapters.11.11_3.11_3_2.11_3_2_5.11_3_2_5_2.SectionDoc
+        Chapters.11.11_3.11_3_2.11_3_2_5.11_3_2_5_3.SectionDoc
     

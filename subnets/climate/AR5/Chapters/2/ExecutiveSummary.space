@@ -4,8 +4,8 @@ name: Chapter 2 - Conclusions
 lead: Formal conclusions presented in Chapter 2.
 conclusions ExecutiveSummary
 
-  insert text
-    | The evidence of climate change from observations of the {Topics.*Climate_System atmosphere} and surface has grown significantly during recent years. At the same time new improved ways of characterizing and quantifying {Topics.*Uncertainty uncertainty} have highlighted the challenges that remain for developing long-term global and {Topics.*Regional_Climate regional climate} quality data records. Currently, the observations of the {Glossary.*Atmosphere atmosphere} and surface indicate the following changes:
+  >>>
+    The evidence of climate change from observations of the {Topics.*Climate_System atmosphere} and surface has grown significantly during recent years. At the same time new improved ways of characterizing and quantifying {Topics.*Uncertainty uncertainty} have highlighted the challenges that remain for developing long-term global and {Topics.*Regional_Climate regional climate} quality data records. Currently, the observations of the {Glossary.*Atmosphere atmosphere} and surface indicate the following changes:
 
   name: Atmospheric Composition
 

@@ -1,6 +1,6 @@
 
 public: ar5-3.4.2
-name: Section 3.4.2
+/ Section 3.4.2
 title: 3.4.2 - Air–Sea Heat Fluxes
 section 3_4_2
 
@@ -11,17 +11,17 @@ section 3_4_2
 
   
 
-  include
-    - 3_4_2_1
-    - 3_4_2_2
-    - 3_4_2_3
+  --
+    3_4_2_1
+    3_4_2_2
+    3_4_2_3
 
-  name: Section 3.4.2 - Full Text
+  / Section 3.4.2 - Full Text
   path FullText
-    name: Turbulent Heat Fluxes and Evaporation
+    / Turbulent Heat Fluxes and Evaporation
     step
-      include
-        - Chapters.3.3_4.3_4_2.3_4_2_1.SectionDoc
-        - Chapters.3.3_4.3_4_2.3_4_2_2.SectionDoc
-        - Chapters.3.3_4.3_4_2.3_4_2_3.SectionDoc
+      --
+        Chapters.3.3_4.3_4_2.3_4_2_1.SectionDoc
+        Chapters.3.3_4.3_4_2.3_4_2_2.SectionDoc
+        Chapters.3.3_4.3_4_2.3_4_2_3.SectionDoc
     

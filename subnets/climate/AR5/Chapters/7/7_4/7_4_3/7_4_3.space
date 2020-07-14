@@ -1,6 +1,6 @@
 
 public: ar5-7.4.3
-name: Section 7.4.3
+/ Section 7.4.3
 title: 7.4.3 - Forcing Associated with Adjustments in Liquid Clouds
 section 7_4_3
 
@@ -11,21 +11,21 @@ section 7_4_3
 
   
 
-  include
-    - 7_4_3_1
-    - 7_4_3_2
-    - 7_4_3_3
-    - 7_4_3_4
+  --
+    7_4_3_1
+    7_4_3_2
+    7_4_3_3
+    7_4_3_4
 
-  name: Section 7.4.3 - Full Text
+  / Section 7.4.3 - Full Text
   path FullText
-    name: The Physical Basis for Adjustments in Liquid Clouds
+    / The Physical Basis for Adjustments in Liquid Clouds
     step
-      include
-        - Chapters.7.7_4.7_4_3.7_4_3_1.SectionDoc
-        - Chapters.7.7_4.7_4_3.7_4_3_2.SectionDoc
-        - Chapters.7.7_4.7_4_3.7_4_3_2.7_4_3_2_1.SectionDoc
-        - Chapters.7.7_4.7_4_3.7_4_3_2.7_4_3_2_2.SectionDoc
-        - Chapters.7.7_4.7_4_3.7_4_3_3.SectionDoc
-        - Chapters.7.7_4.7_4_3.7_4_3_4.SectionDoc
+      --
+        Chapters.7.7_4.7_4_3.7_4_3_1.SectionDoc
+        Chapters.7.7_4.7_4_3.7_4_3_2.SectionDoc
+        Chapters.7.7_4.7_4_3.7_4_3_2.7_4_3_2_1.SectionDoc
+        Chapters.7.7_4.7_4_3.7_4_3_2.7_4_3_2_2.SectionDoc
+        Chapters.7.7_4.7_4_3.7_4_3_3.SectionDoc
+        Chapters.7.7_4.7_4_3.7_4_3_4.SectionDoc
     

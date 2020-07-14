@@ -1,6 +1,6 @@
 
 public: ar5-4.3.2
-name: Section 4.3.2
+/ Section 4.3.2
 title: 4.3.2 - Methods to Measure Changes in Glacier Length, Area and Volume/Mass
 section 4_3_2
 
@@ -11,18 +11,18 @@ section 4_3_2
 
   insert SectionDoc
 
-  include
-    - 4_3_2_1
-    - 4_3_2_2
-    - 4_3_2_3
+  --
+    4_3_2_1
+    4_3_2_2
+    4_3_2_3
 
-  name: Section 4.3.2 - Full Text
+  / Section 4.3.2 - Full Text
   path FullText
-    name: Methods to Measure Changes in Glacier Length, Area and Volume/Mass
+    / Methods to Measure Changes in Glacier Length, Area and Volume/Mass
     step
-      include
-        - Chapters.4.4_3.4_3_2.SectionDoc
-        - Chapters.4.4_3.4_3_2.4_3_2_1.SectionDoc
-        - Chapters.4.4_3.4_3_2.4_3_2_2.SectionDoc
-        - Chapters.4.4_3.4_3_2.4_3_2_3.SectionDoc
+      --
+        Chapters.4.4_3.4_3_2.SectionDoc
+        Chapters.4.4_3.4_3_2.4_3_2_1.SectionDoc
+        Chapters.4.4_3.4_3_2.4_3_2_2.SectionDoc
+        Chapters.4.4_3.4_3_2.4_3_2_3.SectionDoc
     

@@ -1,8 +1,8 @@
 
 public: ar5-6
-name: Chapter 6
-title: Chapter 6 - Carbon and Other Biogeochemical Changes
-lead: This chapter addresses the biogeochemical cycles of carbon dioxide (CO2), methane (CH4) and nitrous oxide (N2O).
+/ Chapter 6
+// Chapter 6 - Carbon and Other Biogeochemical Changes
+/// This chapter addresses the biogeochemical cycles of carbon dioxide (CO2), methane (CH4) and nitrous oxide (N2O).
 chapterspace 6
 
 
@@ -10,141 +10,141 @@ chapterspace 6
   import cite.6._
 
   index: hide
-  title: Chapter 6 - Carbon and Other Biogeochemical Changes
-  lead: This chapter addresses the biogeochemical cycles of carbon dioxide (CO2), methane (CH4) and nitrous oxide (N2O).
+  // Chapter 6 - Carbon and Other Biogeochemical Changes
+  /// This chapter addresses the biogeochemical cycles of carbon dioxide (CO2), methane (CH4) and nitrous oxide (N2O).
   chapterstory ChapterStory
     |The {Topics.*Climate_System Earth System} mechanisms that were responsible for {Topics.*Past_Climate past variations} in atmospheric {Glossary.*Carbon_dioxide CO2}, {Glossary.*Methane_CH4 CH4}, and {Glossary.*Nitrous_oxide_N2O N2O} will probably operate in the future as well. Past archives of {Glossary.*Greenhouse_gas GHGs} and climate show with very high confidence that the average rates of increase of CO2, CH4 and N2O are larger during the Industrial Era than during any comparable period of at least the past 22,000 years. Since the beginning of the Industrial Era (1750), the concentration of CO2 in the {Glossary.*Atmosphere atmosphere} has increased by 40%. For the future, the dominant cause of change is {Topics.*Emissions emissions}, rather than {Topics.*Carbon_Cycle carbon cycle} feedbacks. Global negative emissions are required to achieve a decline in {Topics.*Radiative_Forcing radiative forcing} by 2100.
     apply FullText
 
-    embed
-      - FAQ_6_1
-      - FAQ_6_2
-      - Box_6_1
-      - Box_6_2
-      - Box_6_3
-      - Box_6_4
+    ---
+      FAQ_6_1
+      FAQ_6_2
+      Box_6_1
+      Box_6_2
+      Box_6_3
+      Box_6_4
 
-    include
-      - 6_1
-      - 6_2
-      - 6_3
-      - 6_4
-      - 6_5
+    --
+      6_1
+      6_2
+      6_3
+      6_4
+      6_5
 
   apply FullText
 
   
 
-  include
-    - 6_1
-    - 6_2
-    - 6_3
-    - 6_4
-    - 6_5
+  --
+    6_1
+    6_2
+    6_3
+    6_4
+    6_5
 
-  name: Chapter 6 - Full Text
+  / Chapter 6 - Full Text
   path FullText
-    name: Introduction
+    / Introduction
     step
-      include
-        - Chapters.6.6_1.SectionDoc
-        - Chapters.6.6_1.6_1_1.6_1_1_1.SectionDoc
-        - Chapters.6.6_1.6_1_1.6_1_1_2.SectionDoc
-        - Chapters.6.6_1.6_1_2.6_1_2_1.SectionDoc
-        - Chapters.6.6_1.6_1_2.6_1_2_2.SectionDoc
-        - Chapters.6.6_1.6_1_3.6_1_3_1.SectionDoc
-        - Chapters.6.6_1.6_1_3.6_1_3_2.SectionDoc
-    name: Variations in Carbon and Other Biogeochemical Cycles Before the Fossil Fuel Era
+      --
+        Chapters.6.6_1.SectionDoc
+        Chapters.6.6_1.6_1_1.6_1_1_1.SectionDoc
+        Chapters.6.6_1.6_1_1.6_1_1_2.SectionDoc
+        Chapters.6.6_1.6_1_2.6_1_2_1.SectionDoc
+        Chapters.6.6_1.6_1_2.6_1_2_2.SectionDoc
+        Chapters.6.6_1.6_1_3.6_1_3_1.SectionDoc
+        Chapters.6.6_1.6_1_3.6_1_3_2.SectionDoc
+    / Variations in Carbon and Other Biogeochemical Cycles Before the Fossil Fuel Era
     step
-      include
-        - Chapters.6.6_2.SectionDoc
-        - Chapters.6.6_2.6_2_1.6_2_1_1.SectionDoc
-        - Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_1.SectionDoc
-        - Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_2.SectionDoc
-        - Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_3.SectionDoc
-        - Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_4.SectionDoc
-        - Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_5.SectionDoc
-        - Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_6.SectionDoc
-        - Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_7.SectionDoc
-        - Chapters.6.6_2.6_2_1.6_2_1_2.SectionDoc
-        - Chapters.6.6_2.6_2_1.6_2_1_3.SectionDoc
-        - Chapters.6.6_2.6_2_2.6_2_2_1.SectionDoc
-        - Chapters.6.6_2.6_2_2.6_2_2_1.6_2_2_1_1.SectionDoc
-        - Chapters.6.6_2.6_2_2.6_2_2_1.6_2_2_1_2.SectionDoc
-        - Chapters.6.6_2.6_2_2.6_2_2_2.SectionDoc
-        - Chapters.6.6_2.6_2_3.6_2_3_1.SectionDoc
-        - Chapters.6.6_2.6_2_3.6_2_3_2.SectionDoc
-    name: Carbon Dioxide Emissions and Their Fate Since 1750
+      --
+        Chapters.6.6_2.SectionDoc
+        Chapters.6.6_2.6_2_1.6_2_1_1.SectionDoc
+        Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_1.SectionDoc
+        Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_2.SectionDoc
+        Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_3.SectionDoc
+        Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_4.SectionDoc
+        Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_5.SectionDoc
+        Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_6.SectionDoc
+        Chapters.6.6_2.6_2_1.6_2_1_1.6_2_1_1_7.SectionDoc
+        Chapters.6.6_2.6_2_1.6_2_1_2.SectionDoc
+        Chapters.6.6_2.6_2_1.6_2_1_3.SectionDoc
+        Chapters.6.6_2.6_2_2.6_2_2_1.SectionDoc
+        Chapters.6.6_2.6_2_2.6_2_2_1.6_2_2_1_1.SectionDoc
+        Chapters.6.6_2.6_2_2.6_2_2_1.6_2_2_1_2.SectionDoc
+        Chapters.6.6_2.6_2_2.6_2_2_2.SectionDoc
+        Chapters.6.6_2.6_2_3.6_2_3_1.SectionDoc
+        Chapters.6.6_2.6_2_3.6_2_3_2.SectionDoc
+    / Carbon Dioxide Emissions and Their Fate Since 1750
     step
-      include
-        - Chapters.6.6_3.6_3_1.SectionDoc
-        - Chapters.6.6_3.6_3_2.SectionDoc
-        - Chapters.6.6_3.6_3_2.6_3_2_1.SectionDoc
-        - Chapters.6.6_3.6_3_2.6_3_2_2.SectionDoc
-        - Chapters.6.6_3.6_3_2.6_3_2_3.SectionDoc
-        - Chapters.6.6_3.6_3_2.6_3_2_4.SectionDoc
-        - Chapters.6.6_3.6_3_2.6_3_2_5.6_3_2_5_1.SectionDoc
-        - Chapters.6.6_3.6_3_2.6_3_2_5.6_3_2_5_2.SectionDoc
-        - Chapters.6.6_3.6_3_2.6_3_2_5.6_3_2_5_3.SectionDoc
-        - Chapters.6.6_3.6_3_2.6_3_2_5.6_3_2_5_4.SectionDoc
-        - Chapters.6.6_3.6_3_2.6_3_2_5.6_3_2_5_5.SectionDoc
-        - Chapters.6.6_3.6_3_2.6_3_2_5.6_3_2_5_6.SectionDoc
-        - Chapters.6.6_3.6_3_2.6_3_2_6.6_3_2_6_1.SectionDoc
-        - Chapters.6.6_3.6_3_2.6_3_2_6.6_3_2_6_2.SectionDoc
-        - Chapters.6.6_3.6_3_2.6_3_2_6.6_3_2_6_3.SectionDoc
-        - Chapters.6.6_3.6_3_2.6_3_2_6.6_3_2_6_4.SectionDoc
-        - Chapters.6.6_3.6_3_2.6_3_2_6.6_3_2_6_5.SectionDoc
-        - Chapters.6.6_3.6_3_2.6_3_2_6.6_3_2_6_6.SectionDoc
-        - Chapters.6.6_3.6_3_3.SectionDoc
-        - Chapters.6.6_3.6_3_3.6_3_3_1.SectionDoc
-        - Chapters.6.6_3.6_3_3.6_3_3_2.SectionDoc
-        - Chapters.6.6_3.6_3_3.6_3_3_3.SectionDoc
-        - Chapters.6.6_3.6_3_3.6_3_3_4.SectionDoc
-        - Chapters.6.6_3.6_3_4.SectionDoc
-        - Chapters.6.6_3.6_3_4.6_3_4_1.SectionDoc
-        - Chapters.6.6_3.6_3_4.6_3_4_2.SectionDoc
-        - Chapters.6.6_3.6_3_4.6_3_4_3.SectionDoc
-    name: Introduction
+      --
+        Chapters.6.6_3.6_3_1.SectionDoc
+        Chapters.6.6_3.6_3_2.SectionDoc
+        Chapters.6.6_3.6_3_2.6_3_2_1.SectionDoc
+        Chapters.6.6_3.6_3_2.6_3_2_2.SectionDoc
+        Chapters.6.6_3.6_3_2.6_3_2_3.SectionDoc
+        Chapters.6.6_3.6_3_2.6_3_2_4.SectionDoc
+        Chapters.6.6_3.6_3_2.6_3_2_5.6_3_2_5_1.SectionDoc
+        Chapters.6.6_3.6_3_2.6_3_2_5.6_3_2_5_2.SectionDoc
+        Chapters.6.6_3.6_3_2.6_3_2_5.6_3_2_5_3.SectionDoc
+        Chapters.6.6_3.6_3_2.6_3_2_5.6_3_2_5_4.SectionDoc
+        Chapters.6.6_3.6_3_2.6_3_2_5.6_3_2_5_5.SectionDoc
+        Chapters.6.6_3.6_3_2.6_3_2_5.6_3_2_5_6.SectionDoc
+        Chapters.6.6_3.6_3_2.6_3_2_6.6_3_2_6_1.SectionDoc
+        Chapters.6.6_3.6_3_2.6_3_2_6.6_3_2_6_2.SectionDoc
+        Chapters.6.6_3.6_3_2.6_3_2_6.6_3_2_6_3.SectionDoc
+        Chapters.6.6_3.6_3_2.6_3_2_6.6_3_2_6_4.SectionDoc
+        Chapters.6.6_3.6_3_2.6_3_2_6.6_3_2_6_5.SectionDoc
+        Chapters.6.6_3.6_3_2.6_3_2_6.6_3_2_6_6.SectionDoc
+        Chapters.6.6_3.6_3_3.SectionDoc
+        Chapters.6.6_3.6_3_3.6_3_3_1.SectionDoc
+        Chapters.6.6_3.6_3_3.6_3_3_2.SectionDoc
+        Chapters.6.6_3.6_3_3.6_3_3_3.SectionDoc
+        Chapters.6.6_3.6_3_3.6_3_3_4.SectionDoc
+        Chapters.6.6_3.6_3_4.SectionDoc
+        Chapters.6.6_3.6_3_4.6_3_4_1.SectionDoc
+        Chapters.6.6_3.6_3_4.6_3_4_2.SectionDoc
+        Chapters.6.6_3.6_3_4.6_3_4_3.SectionDoc
+    / Introduction
     step
-      include
-        - Chapters.6.6_4.6_4_1.SectionDoc
-        - Chapters.6.6_4.6_4_2.6_4_2_1.SectionDoc
-        - Chapters.6.6_4.6_4_2.6_4_2_2.SectionDoc
-        - Chapters.6.6_4.6_4_2.6_4_2_3.SectionDoc
-        - Chapters.6.6_4.6_4_2.6_4_2_3.6_4_2_3_1.SectionDoc
-        - Chapters.6.6_4.6_4_2.6_4_2_3.6_4_2_3_2.SectionDoc
-        - Chapters.6.6_4.6_4_3.6_4_3_1.SectionDoc
-        - Chapters.6.6_4.6_4_3.6_4_3_2.SectionDoc
-        - Chapters.6.6_4.6_4_3.6_4_3_3.SectionDoc
-        - Chapters.6.6_4.6_4_3.6_4_3_4.SectionDoc
-        - Chapters.6.6_4.6_4_4.SectionDoc
-        - Chapters.6.6_4.6_4_5.SectionDoc
-        - Chapters.6.6_4.6_4_6.6_4_6_1.SectionDoc
-        - Chapters.6.6_4.6_4_6.6_4_6_2.SectionDoc
-        - Chapters.6.6_4.6_4_6.6_4_6_3.SectionDoc
-        - Chapters.6.6_4.6_4_7.SectionDoc
-        - Chapters.6.6_4.6_4_7.6_4_7_1.SectionDoc
-        - Chapters.6.6_4.6_4_7.6_4_7_2.SectionDoc
-        - Chapters.6.6_4.6_4_7.6_4_7_3.SectionDoc
-        - Chapters.6.6_4.6_4_8.6_4_8_1.SectionDoc
-        - Chapters.6.6_4.6_4_8.6_4_8_2.6_4_8_2_1.SectionDoc
-        - Chapters.6.6_4.6_4_8.6_4_8_2.6_4_8_2_2.SectionDoc
-        - Chapters.6.6_4.6_4_8.6_4_8_2.6_4_8_2_3.SectionDoc
-        - Chapters.6.6_4.6_4_8.6_4_8_2.6_4_8_2_4.SectionDoc
-        - Chapters.6.6_4.6_4_9.SectionDoc
-    name: Introduction to Carbon Dioxide Removal Methods
+      --
+        Chapters.6.6_4.6_4_1.SectionDoc
+        Chapters.6.6_4.6_4_2.6_4_2_1.SectionDoc
+        Chapters.6.6_4.6_4_2.6_4_2_2.SectionDoc
+        Chapters.6.6_4.6_4_2.6_4_2_3.SectionDoc
+        Chapters.6.6_4.6_4_2.6_4_2_3.6_4_2_3_1.SectionDoc
+        Chapters.6.6_4.6_4_2.6_4_2_3.6_4_2_3_2.SectionDoc
+        Chapters.6.6_4.6_4_3.6_4_3_1.SectionDoc
+        Chapters.6.6_4.6_4_3.6_4_3_2.SectionDoc
+        Chapters.6.6_4.6_4_3.6_4_3_3.SectionDoc
+        Chapters.6.6_4.6_4_3.6_4_3_4.SectionDoc
+        Chapters.6.6_4.6_4_4.SectionDoc
+        Chapters.6.6_4.6_4_5.SectionDoc
+        Chapters.6.6_4.6_4_6.6_4_6_1.SectionDoc
+        Chapters.6.6_4.6_4_6.6_4_6_2.SectionDoc
+        Chapters.6.6_4.6_4_6.6_4_6_3.SectionDoc
+        Chapters.6.6_4.6_4_7.SectionDoc
+        Chapters.6.6_4.6_4_7.6_4_7_1.SectionDoc
+        Chapters.6.6_4.6_4_7.6_4_7_2.SectionDoc
+        Chapters.6.6_4.6_4_7.6_4_7_3.SectionDoc
+        Chapters.6.6_4.6_4_8.6_4_8_1.SectionDoc
+        Chapters.6.6_4.6_4_8.6_4_8_2.6_4_8_2_1.SectionDoc
+        Chapters.6.6_4.6_4_8.6_4_8_2.6_4_8_2_2.SectionDoc
+        Chapters.6.6_4.6_4_8.6_4_8_2.6_4_8_2_3.SectionDoc
+        Chapters.6.6_4.6_4_8.6_4_8_2.6_4_8_2_4.SectionDoc
+        Chapters.6.6_4.6_4_9.SectionDoc
+    / Introduction to Carbon Dioxide Removal Methods
     step
-      include
-        - Chapters.6.6_5.6_5_1.SectionDoc
-        - Chapters.6.6_5.6_5_2.SectionDoc
-        - Chapters.6.6_5.6_5_2.6_5_2_1.SectionDoc
-        - Chapters.6.6_5.6_5_2.6_5_2_2.SectionDoc
-        - Chapters.6.6_5.6_5_2.6_5_2_3.SectionDoc
-        - Chapters.6.6_5.6_5_2.6_5_2_4.SectionDoc
-        - Chapters.6.6_5.6_5_3.SectionDoc
-        - Chapters.6.6_5.6_5_3.6_5_3_1.SectionDoc
-        - Chapters.6.6_5.6_5_3.6_5_3_2.SectionDoc
-        - Chapters.6.6_5.6_5_3.6_5_3_3.SectionDoc
-        - Chapters.6.6_5.6_5_4.SectionDoc
-        - Chapters.6.6_5.6_5_5.SectionDoc
+      --
+        Chapters.6.6_5.6_5_1.SectionDoc
+        Chapters.6.6_5.6_5_2.SectionDoc
+        Chapters.6.6_5.6_5_2.6_5_2_1.SectionDoc
+        Chapters.6.6_5.6_5_2.6_5_2_2.SectionDoc
+        Chapters.6.6_5.6_5_2.6_5_2_3.SectionDoc
+        Chapters.6.6_5.6_5_2.6_5_2_4.SectionDoc
+        Chapters.6.6_5.6_5_3.SectionDoc
+        Chapters.6.6_5.6_5_3.6_5_3_1.SectionDoc
+        Chapters.6.6_5.6_5_3.6_5_3_2.SectionDoc
+        Chapters.6.6_5.6_5_3.6_5_3_3.SectionDoc
+        Chapters.6.6_5.6_5_4.SectionDoc
+        Chapters.6.6_5.6_5_5.SectionDoc
     

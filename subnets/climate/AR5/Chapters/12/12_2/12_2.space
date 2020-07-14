@@ -1,6 +1,6 @@
 
 public: ar5-12.2
-name: Section 12.2
+/ Section 12.2
 title: 12.2 - Climate Model Ensembles and Sources of Uncertainty from Emissions to Projections
 section 12_2
 
@@ -11,19 +11,19 @@ section 12_2
 
   
 
-  include
-    - 12_2_1
-    - 12_2_2
-    - 12_2_3
-    - 12_2_4
+  --
+    12_2_1
+    12_2_2
+    12_2_3
+    12_2_4
 
-  name: Section 12.2 - Full Text
+  / Section 12.2 - Full Text
   path FullText
-    name: The Coupled Model Intercomparison Project Phase 5 and Other Tools
+    / The Coupled Model Intercomparison Project Phase 5 and Other Tools
     step
-      include
-        - Chapters.12.12_2.12_2_1.SectionDoc
-        - Chapters.12.12_2.12_2_2.SectionDoc
-        - Chapters.12.12_2.12_2_3.SectionDoc
-        - Chapters.12.12_2.12_2_4.SectionDoc
+      --
+        Chapters.12.12_2.12_2_1.SectionDoc
+        Chapters.12.12_2.12_2_2.SectionDoc
+        Chapters.12.12_2.12_2_3.SectionDoc
+        Chapters.12.12_2.12_2_4.SectionDoc
     

@@ -1,6 +1,6 @@
 
 public: ar5-5.5
-name: Section 5.5
+/ Section 5.5
 title: 5.5 - Regional Changes During the Holocene
 section 5_5
 
@@ -11,24 +11,24 @@ section 5_5
 
   insert SectionDoc
 
-  include
-    - 5_5_1
-    - 5_5_2
-    - 5_5_3
-    - 5_5_4
-    - 5_5_5
+  --
+    5_5_1
+    5_5_2
+    5_5_3
+    5_5_4
+    5_5_5
 
-  name: Section 5.5 - Full Text
+  / Section 5.5 - Full Text
   path FullText
-    name: Regional Changes During the Holocene
+    / Regional Changes During the Holocene
     step
-      include
-        - Chapters.5.5_5.SectionDoc
-        - Chapters.5.5_5.5_5_1.5_5_1_1.SectionDoc
-        - Chapters.5.5_5.5_5_1.5_5_1_2.SectionDoc
-        - Chapters.5.5_5.5_5_1.5_5_1_3.SectionDoc
-        - Chapters.5.5_5.5_5_2.SectionDoc
-        - Chapters.5.5_5.5_5_3.SectionDoc
-        - Chapters.5.5_5.5_5_4.SectionDoc
-        - Chapters.5.5_5.5_5_5.SectionDoc
+      --
+        Chapters.5.5_5.SectionDoc
+        Chapters.5.5_5.5_5_1.5_5_1_1.SectionDoc
+        Chapters.5.5_5.5_5_1.5_5_1_2.SectionDoc
+        Chapters.5.5_5.5_5_1.5_5_1_3.SectionDoc
+        Chapters.5.5_5.5_5_2.SectionDoc
+        Chapters.5.5_5.5_5_3.SectionDoc
+        Chapters.5.5_5.5_5_4.SectionDoc
+        Chapters.5.5_5.5_5_5.SectionDoc
     

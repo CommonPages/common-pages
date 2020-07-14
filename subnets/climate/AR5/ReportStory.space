@@ -1,39 +1,40 @@
 
 index: hide
-name: AR5
-title: The IPCC's Fifth Assessment Report
+/ AR5
+// The IPCC's Fifth Assessment Report
 reportstory ReportStory
   |Science now shows with 95 percent certainty that human activity is the dominant cause of observed warming since the mid-20th century. Warming in the climate system is {*Evidence_of_Change unequivocal}, with many of the observed changes unprecedented over decades to millennia: warming of the atmosphere and the ocean, diminishing snow and ice, rising sea levels and increasing concentrations of greenhouse gases. Each of the last three decades has been successively warmer at the Earth’s surface than any preceding decade since 1850. {*Climate_Modelling Climate models} project a continuation of global warming in the 21st century for all {Topics.*Scenarios scenarios}, with high confidence. Global warming exceeds 2°C within the 21st century under {Glossary.*RCP4_5_and_RCP6_0 RCP4.5, RCP6.0} and {Glossary.*RCP8_5 RCP8.5}. Temperature change above 2°C under {Glossary.*RCP2_6 RCP2.6} is unlikely but is assessed only with medium confidence.
 
 
 
-  include 1.ChapterStory
+  --
+    1.ChapterStory
 
-  name: Observations and Paleoclimate Information
-  include
+  / Observations and Paleoclimate Information
+  --
     - 2.ChapterStory
     - 3.ChapterStory
     - 4.ChapterStory
     - 5.ChapterStory
 
-  name: Process Understanding
-  include
+  / Process Understanding
+  --
     - 6.ChapterStory
     - 7.ChapterStory
 
-  name: From Forcing to Attribution of Climate Change
-  include
+  / From Forcing to Attribution of Climate Change
+  --
     - 8.ChapterStory
     - 9.ChapterStory
     - 10.ChapterStory
 
-  name: Future Climate Change, Predictability and Irreversibility
-  include
+  / Future Climate Change, Predictability and Irreversibility
+  --
     - 11.ChapterStory
     - 12.ChapterStory
 
-  name: Integration
-  include
+  / Integration
+  --
     - 13.ChapterStory
     - 14.ChapterStory
 

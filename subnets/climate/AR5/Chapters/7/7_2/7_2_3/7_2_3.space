@@ -1,6 +1,6 @@
 
 public: ar5-7.2.3
-name: Section 7.2.3
+/ Section 7.2.3
 title: 7.2.3 - Parameterization of Clouds in Climate Models
 section 7_2_3
 
@@ -11,22 +11,22 @@ section 7_2_3
 
   
 
-  include
-    - 7_2_3_1
-    - 7_2_3_2
-    - 7_2_3_3
-    - 7_2_3_4
-    - 7_2_3_5
+  --
+    7_2_3_1
+    7_2_3_2
+    7_2_3_3
+    7_2_3_4
+    7_2_3_5
 
-  name: Section 7.2.3 - Full Text
+  / Section 7.2.3 - Full Text
   path FullText
-    name: Challenges of Parameterization
+    / Challenges of Parameterization
     step
-      include
-        - Chapters.7.7_2.7_2_3.7_2_3_1.SectionDoc
-        - Chapters.7.7_2.7_2_3.7_2_3_2.7_2_3_2_1.SectionDoc
-        - Chapters.7.7_2.7_2_3.7_2_3_2.7_2_3_2_2.SectionDoc
-        - Chapters.7.7_2.7_2_3.7_2_3_3.SectionDoc
-        - Chapters.7.7_2.7_2_3.7_2_3_4.SectionDoc
-        - Chapters.7.7_2.7_2_3.7_2_3_5.SectionDoc
+      --
+        Chapters.7.7_2.7_2_3.7_2_3_1.SectionDoc
+        Chapters.7.7_2.7_2_3.7_2_3_2.7_2_3_2_1.SectionDoc
+        Chapters.7.7_2.7_2_3.7_2_3_2.7_2_3_2_2.SectionDoc
+        Chapters.7.7_2.7_2_3.7_2_3_3.SectionDoc
+        Chapters.7.7_2.7_2_3.7_2_3_4.SectionDoc
+        Chapters.7.7_2.7_2_3.7_2_3_5.SectionDoc
     

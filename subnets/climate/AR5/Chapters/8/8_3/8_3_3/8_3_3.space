@@ -1,6 +1,6 @@
 
 public: ar5-8.3.3
-name: Section 8.3.3
+/ Section 8.3.3
 title: 8.3.3 - Ozone and Stratospheric Water Vapour
 section 8_3_3
 
@@ -11,18 +11,18 @@ section 8_3_3
 
   insert SectionDoc
 
-  include
-    - 8_3_3_1
-    - 8_3_3_2
-    - 8_3_3_3
+  --
+    8_3_3_1
+    8_3_3_2
+    8_3_3_3
 
-  name: Section 8.3.3 - Full Text
+  / Section 8.3.3 - Full Text
   path FullText
-    name: Ozone and Stratospheric Water Vapour
+    / Ozone and Stratospheric Water Vapour
     step
-      include
-        - Chapters.8.8_3.8_3_3.SectionDoc
-        - Chapters.8.8_3.8_3_3.8_3_3_1.SectionDoc
-        - Chapters.8.8_3.8_3_3.8_3_3_2.SectionDoc
-        - Chapters.8.8_3.8_3_3.8_3_3_3.SectionDoc
+      --
+        Chapters.8.8_3.8_3_3.SectionDoc
+        Chapters.8.8_3.8_3_3.8_3_3_1.SectionDoc
+        Chapters.8.8_3.8_3_3.8_3_3_2.SectionDoc
+        Chapters.8.8_3.8_3_3.8_3_3_3.SectionDoc
     

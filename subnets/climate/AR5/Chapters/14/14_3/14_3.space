@@ -1,6 +1,6 @@
 
 public: ar5-14.3
-name: Section 14.3
+/ Section 14.3
 title: 14.3 - Tropical Phenomena
 section 14_3
 
@@ -11,24 +11,24 @@ section 14_3
 
   
 
-  include
-    - 14_3_1
-    - 14_3_2
-    - 14_3_3
-    - 14_3_4
-    - 14_3_5
+  --
+    14_3_1
+    14_3_2
+    14_3_3
+    14_3_4
+    14_3_5
 
-  name: Section 14.3 - Full Text
+  / Section 14.3 - Full Text
   path FullText
-    name: Convergence Zones
+    / Convergence Zones
     step
-      include
-        - Chapters.14.14_3.14_3_1.SectionDoc
-        - Chapters.14.14_3.14_3_1.14_3_1_1.SectionDoc
-        - Chapters.14.14_3.14_3_1.14_3_1_2.SectionDoc
-        - Chapters.14.14_3.14_3_1.14_3_1_3.SectionDoc
-        - Chapters.14.14_3.14_3_2.SectionDoc
-        - Chapters.14.14_3.14_3_3.SectionDoc
-        - Chapters.14.14_3.14_3_4.SectionDoc
-        - Chapters.14.14_3.14_3_5.SectionDoc
+      --
+        Chapters.14.14_3.14_3_1.SectionDoc
+        Chapters.14.14_3.14_3_1.14_3_1_1.SectionDoc
+        Chapters.14.14_3.14_3_1.14_3_1_2.SectionDoc
+        Chapters.14.14_3.14_3_1.14_3_1_3.SectionDoc
+        Chapters.14.14_3.14_3_2.SectionDoc
+        Chapters.14.14_3.14_3_3.SectionDoc
+        Chapters.14.14_3.14_3_4.SectionDoc
+        Chapters.14.14_3.14_3_5.SectionDoc
     

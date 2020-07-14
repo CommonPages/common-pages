@@ -1,6 +1,6 @@
 
 public: ar5-5.4
-name: Section 5.4
+/ Section 5.4
 title: 5.4 - Modes of Climate Variability
 section 5_4
 
@@ -11,16 +11,16 @@ section 5_4
 
   insert SectionDoc
 
-  include
-    - 5_4_1
-    - 5_4_2
+  --
+    5_4_1
+    5_4_2
 
-  name: Section 5.4 - Full Text
+  / Section 5.4 - Full Text
   path FullText
-    name: Modes of Climate Variability
+    / Modes of Climate Variability
     step
-      include
-        - Chapters.5.5_4.SectionDoc
-        - Chapters.5.5_4.5_4_1.SectionDoc
-        - Chapters.5.5_4.5_4_2.SectionDoc
+      --
+        Chapters.5.5_4.SectionDoc
+        Chapters.5.5_4.5_4_1.SectionDoc
+        Chapters.5.5_4.5_4_2.SectionDoc
     

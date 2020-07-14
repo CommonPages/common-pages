@@ -1,6 +1,6 @@
 
 public: ar5-14.5
-name: Section 14.5
+/ Section 14.5
 title: 14.5 - Annular and Dipolar Modes
 section 14_5
 
@@ -11,18 +11,18 @@ section 14_5
 
   insert SectionDoc
 
-  include
-    - 14_5_1
-    - 14_5_2
-    - 14_5_3
+  --
+    14_5_1
+    14_5_2
+    14_5_3
 
-  name: Section 14.5 - Full Text
+  / Section 14.5 - Full Text
   path FullText
-    name: Annular and Dipolar Modes
+    / Annular and Dipolar Modes
     step
-      include
-        - Chapters.14.14_5.SectionDoc
-        - Chapters.14.14_5.14_5_1.SectionDoc
-        - Chapters.14.14_5.14_5_2.SectionDoc
-        - Chapters.14.14_5.14_5_3.SectionDoc
+      --
+        Chapters.14.14_5.SectionDoc
+        Chapters.14.14_5.14_5_1.SectionDoc
+        Chapters.14.14_5.14_5_2.SectionDoc
+        Chapters.14.14_5.14_5_3.SectionDoc
     

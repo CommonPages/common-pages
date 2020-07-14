@@ -1,6 +1,6 @@
 
 public: ar5-13.2.1
-name: Section 13.2.1
+/ Section 13.2.1
 title: 13.2.1 - The Geological Record
 section 13_2_1
 
@@ -11,20 +11,20 @@ section 13_2_1
 
   insert SectionDoc
 
-  include
-    - 13_2_1_1
-    - 13_2_1_2
-    - 13_2_1_3
-    - 13_2_1_4
+  --
+    13_2_1_1
+    13_2_1_2
+    13_2_1_3
+    13_2_1_4
 
-  name: Section 13.2.1 - Full Text
+  / Section 13.2.1 - Full Text
   path FullText
-    name: The Geological Record
+    / The Geological Record
     step
-      include
-        - Chapters.13.13_2.13_2_1.SectionDoc
-        - Chapters.13.13_2.13_2_1.13_2_1_1.SectionDoc
-        - Chapters.13.13_2.13_2_1.13_2_1_2.SectionDoc
-        - Chapters.13.13_2.13_2_1.13_2_1_3.SectionDoc
-        - Chapters.13.13_2.13_2_1.13_2_1_4.SectionDoc
+      --
+        Chapters.13.13_2.13_2_1.SectionDoc
+        Chapters.13.13_2.13_2_1.13_2_1_1.SectionDoc
+        Chapters.13.13_2.13_2_1.13_2_1_2.SectionDoc
+        Chapters.13.13_2.13_2_1.13_2_1_3.SectionDoc
+        Chapters.13.13_2.13_2_1.13_2_1_4.SectionDoc
     

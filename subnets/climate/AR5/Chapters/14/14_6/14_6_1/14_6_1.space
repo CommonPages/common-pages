@@ -1,6 +1,6 @@
 
 public: ar5-14.6.1
-name: Section 14.6.1
+/ Section 14.6.1
 title: 14.6.1 - Tropical Cyclones
 section 14_6_1
 
@@ -11,16 +11,16 @@ section 14_6_1
 
   insert SectionDoc
 
-  include
-    - 14_6_1_1
-    - 14_6_1_2
+  --
+    14_6_1_1
+    14_6_1_2
 
-  name: Section 14.6.1 - Full Text
+  / Section 14.6.1 - Full Text
   path FullText
-    name: Tropical Cyclones
+    / Tropical Cyclones
     step
-      include
-        - Chapters.14.14_6.14_6_1.SectionDoc
-        - Chapters.14.14_6.14_6_1.14_6_1_1.SectionDoc
-        - Chapters.14.14_6.14_6_1.14_6_1_2.SectionDoc
+      --
+        Chapters.14.14_6.14_6_1.SectionDoc
+        Chapters.14.14_6.14_6_1.14_6_1_1.SectionDoc
+        Chapters.14.14_6.14_6_1.14_6_1_2.SectionDoc
     

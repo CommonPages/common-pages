@@ -1,6 +1,6 @@
 
 public: ar5-9.3
-name: Section 9.3
+/ Section 9.3
 title: 9.3 - Experimental Strategies in Support of Climate Model Evaluation
 section 9_3
 
@@ -11,17 +11,17 @@ section 9_3
 
   
 
-  include
-    - 9_3_1
-    - 9_3_2
+  --
+    9_3_1
+    9_3_2
 
-  name: Section 9.3 - Full Text
+  / Section 9.3 - Full Text
   path FullText
-    name: The Role of Model Intercomparisons
+    / The Role of Model Intercomparisons
     step
-      include
-        - Chapters.9.9_3.9_3_1.SectionDoc
-        - Chapters.9.9_3.9_3_2.9_3_2_1.SectionDoc
-        - Chapters.9.9_3.9_3_2.9_3_2_2.SectionDoc
-        - Chapters.9.9_3.9_3_2.9_3_2_3.SectionDoc
+      --
+        Chapters.9.9_3.9_3_1.SectionDoc
+        Chapters.9.9_3.9_3_2.9_3_2_1.SectionDoc
+        Chapters.9.9_3.9_3_2.9_3_2_2.SectionDoc
+        Chapters.9.9_3.9_3_2.9_3_2_3.SectionDoc
     

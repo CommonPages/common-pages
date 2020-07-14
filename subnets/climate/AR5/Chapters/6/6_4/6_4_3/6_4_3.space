@@ -1,6 +1,6 @@
 
 public: ar5-6.4.3
-name: Section 6.4.3
+/ Section 6.4.3
 title: 6.4.3 - Implications of the Future Projections for the Carbon Cycle and Compatible Emissions
 section 6_4_3
 
@@ -11,19 +11,19 @@ section 6_4_3
 
   
 
-  include
-    - 6_4_3_1
-    - 6_4_3_2
-    - 6_4_3_3
-    - 6_4_3_4
+  --
+    6_4_3_1
+    6_4_3_2
+    6_4_3_3
+    6_4_3_4
 
-  name: Section 6.4.3 - Full Text
+  / Section 6.4.3 - Full Text
   path FullText
-    name: The RCP Future Carbon Dioxide Concentration and Emissions Scenarios
+    / The RCP Future Carbon Dioxide Concentration and Emissions Scenarios
     step
-      include
-        - Chapters.6.6_4.6_4_3.6_4_3_1.SectionDoc
-        - Chapters.6.6_4.6_4_3.6_4_3_2.SectionDoc
-        - Chapters.6.6_4.6_4_3.6_4_3_3.SectionDoc
-        - Chapters.6.6_4.6_4_3.6_4_3_4.SectionDoc
+      --
+        Chapters.6.6_4.6_4_3.6_4_3_1.SectionDoc
+        Chapters.6.6_4.6_4_3.6_4_3_2.SectionDoc
+        Chapters.6.6_4.6_4_3.6_4_3_3.SectionDoc
+        Chapters.6.6_4.6_4_3.6_4_3_4.SectionDoc
     

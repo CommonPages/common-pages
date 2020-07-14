@@ -1,6 +1,6 @@
 
 public: ar5-5.2.1
-name: Section 5.2.1
+/ Section 5.2.1
 title: 5.2.1 - External Forcings
 section 5_2_1
 
@@ -11,17 +11,17 @@ section 5_2_1
 
   
 
-  include
-    - 5_2_1_1
-    - 5_2_1_2
-    - 5_2_1_3
+  --
+    5_2_1_1
+    5_2_1_2
+    5_2_1_3
 
-  name: Section 5.2.1 - Full Text
+  / Section 5.2.1 - Full Text
   path FullText
-    name: Orbital Forcing
+    / Orbital Forcing
     step
-      include
-        - Chapters.5.5_2.5_2_1.5_2_1_1.SectionDoc
-        - Chapters.5.5_2.5_2_1.5_2_1_2.SectionDoc
-        - Chapters.5.5_2.5_2_1.5_2_1_3.SectionDoc
+      --
+        Chapters.5.5_2.5_2_1.5_2_1_1.SectionDoc
+        Chapters.5.5_2.5_2_1.5_2_1_2.SectionDoc
+        Chapters.5.5_2.5_2_1.5_2_1_3.SectionDoc
     

@@ -1,6 +1,6 @@
 
 public: ar5-7.6
-name: Section 7.6
+/ Section 7.6
 title: 7.6 - Processes Underlying Precipitation Changes
 section 7_6
 
@@ -11,21 +11,21 @@ section 7_6
 
   
 
-  include
-    - 7_6_1
-    - 7_6_2
-    - 7_6_3
-    - 7_6_4
-    - 7_6_5
+  --
+    7_6_1
+    7_6_2
+    7_6_3
+    7_6_4
+    7_6_5
 
-  name: Section 7.6 - Full Text
+  / Section 7.6 - Full Text
   path FullText
-    name: Introduction
+    / Introduction
     step
-      include
-        - Chapters.7.7_6.7_6_1.SectionDoc
-        - Chapters.7.7_6.7_6_2.SectionDoc
-        - Chapters.7.7_6.7_6_3.SectionDoc
-        - Chapters.7.7_6.7_6_4.SectionDoc
-        - Chapters.7.7_6.7_6_5.SectionDoc
+      --
+        Chapters.7.7_6.7_6_1.SectionDoc
+        Chapters.7.7_6.7_6_2.SectionDoc
+        Chapters.7.7_6.7_6_3.SectionDoc
+        Chapters.7.7_6.7_6_4.SectionDoc
+        Chapters.7.7_6.7_6_5.SectionDoc
     

@@ -1,6 +1,6 @@
 
 public: ar5-5.8
-name: Section 5.8
+/ Section 5.8
 title: 5.8 - Paleoclimate Perspective on Irreversibility in the Climate System
 section 5_8
 
@@ -11,18 +11,18 @@ section 5_8
 
   insert SectionDoc
 
-  include
-    - 5_8_1
-    - 5_8_2
-    - 5_8_3
+  --
+    5_8_1
+    5_8_2
+    5_8_3
 
-  name: Section 5.8 - Full Text
+  / Section 5.8 - Full Text
   path FullText
-    name: Paleoclimate Perspective on Irreversibility in the Climate System
+    / Paleoclimate Perspective on Irreversibility in the Climate System
     step
-      include
-        - Chapters.5.5_8.SectionDoc
-        - Chapters.5.5_8.5_8_1.SectionDoc
-        - Chapters.5.5_8.5_8_2.SectionDoc
-        - Chapters.5.5_8.5_8_3.SectionDoc
+      --
+        Chapters.5.5_8.SectionDoc
+        Chapters.5.5_8.5_8_1.SectionDoc
+        Chapters.5.5_8.5_8_2.SectionDoc
+        Chapters.5.5_8.5_8_3.SectionDoc
     

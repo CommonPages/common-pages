@@ -1,6 +1,6 @@
 
 public: ar5-7.4.6
-name: Section 7.4.6
+/ Section 7.4.6
 title: 7.4.6 - Impact of Cosmic Rays on Aerosols and Clouds
 section 7_4_6
 
@@ -11,18 +11,18 @@ section 7_4_6
 
   insert SectionDoc
 
-  include
-    - 7_4_6_1
-    - 7_4_6_2
-    - 7_4_6_3
+  --
+    7_4_6_1
+    7_4_6_2
+    7_4_6_3
 
-  name: Section 7.4.6 - Full Text
+  / Section 7.4.6 - Full Text
   path FullText
-    name: Impact of Cosmic Rays on Aerosols and Clouds
+    / Impact of Cosmic Rays on Aerosols and Clouds
     step
-      include
-        - Chapters.7.7_4.7_4_6.SectionDoc
-        - Chapters.7.7_4.7_4_6.7_4_6_1.SectionDoc
-        - Chapters.7.7_4.7_4_6.7_4_6_2.SectionDoc
-        - Chapters.7.7_4.7_4_6.7_4_6_3.SectionDoc
+      --
+        Chapters.7.7_4.7_4_6.SectionDoc
+        Chapters.7.7_4.7_4_6.7_4_6_1.SectionDoc
+        Chapters.7.7_4.7_4_6.7_4_6_2.SectionDoc
+        Chapters.7.7_4.7_4_6.7_4_6_3.SectionDoc
     

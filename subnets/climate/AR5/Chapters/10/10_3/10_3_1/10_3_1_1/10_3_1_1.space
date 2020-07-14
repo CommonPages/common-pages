@@ -1,6 +1,6 @@
 
 public: ar5-10.3.1.1
-name: Section 10.3.1.1
+/ Section 10.3.1.1
 title: 10.3.1.1 - Surface (Air Temperature and Sea Surface Temperature)
 section 10_3_1_1
 
@@ -11,19 +11,19 @@ section 10_3_1_1
 
   
 
-  include
-    - 10_3_1_1_1
-    - 10_3_1_1_2
-    - 10_3_1_1_3
-    - 10_3_1_1_4
+  --
+    10_3_1_1_1
+    10_3_1_1_2
+    10_3_1_1_3
+    10_3_1_1_4
 
-  name: Section 10.3.1.1 - Full Text
+  / Section 10.3.1.1 - Full Text
   path FullText
-    name: Observations of surface temperature change
+    / Observations of surface temperature change
     step
-      include
-        - Chapters.10.10_3.10_3_1.10_3_1_1.10_3_1_1_1.SectionDoc
-        - Chapters.10.10_3.10_3_1.10_3_1_1.10_3_1_1_2.SectionDoc
-        - Chapters.10.10_3.10_3_1.10_3_1_1.10_3_1_1_3.SectionDoc
-        - Chapters.10.10_3.10_3_1.10_3_1_1.10_3_1_1_4.SectionDoc
+      --
+        Chapters.10.10_3.10_3_1.10_3_1_1.10_3_1_1_1.SectionDoc
+        Chapters.10.10_3.10_3_1.10_3_1_1.10_3_1_1_2.SectionDoc
+        Chapters.10.10_3.10_3_1.10_3_1_1.10_3_1_1_3.SectionDoc
+        Chapters.10.10_3.10_3_1.10_3_1_1.10_3_1_1_4.SectionDoc
     

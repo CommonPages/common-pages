@@ -1,6 +1,6 @@
 
 public: ar5-9.7
-name: Section 9.7
+/ Section 9.7
 title: 9.7 - Climate Sensitivity and Climate Feedbacks
 section 9_7
 
@@ -11,26 +11,26 @@ section 9_7
 
   insert SectionDoc
 
-  include
-    - 9_7_1
-    - 9_7_2
-    - 9_7_3
+  --
+    9_7_1
+    9_7_2
+    9_7_3
 
-  name: Section 9.7 - Full Text
+  / Section 9.7 - Full Text
   path FullText
-    name: Climate Sensitivity and Climate Feedbacks
+    / Climate Sensitivity and Climate Feedbacks
     step
-      include
-        - Chapters.9.9_7.SectionDoc
-        - Chapters.9.9_7.9_7_1.SectionDoc
-        - Chapters.9.9_7.9_7_2.SectionDoc
-        - Chapters.9.9_7.9_7_2.9_7_2_1.SectionDoc
-        - Chapters.9.9_7.9_7_2.9_7_2_2.SectionDoc
-        - Chapters.9.9_7.9_7_2.9_7_2_3.SectionDoc
-        - Chapters.9.9_7.9_7_2.9_7_2_4.SectionDoc
-        - Chapters.9.9_7.9_7_2.9_7_2_5.SectionDoc
-        - Chapters.9.9_7.9_7_3.SectionDoc
-        - Chapters.9.9_7.9_7_3.9_7_3_1.SectionDoc
-        - Chapters.9.9_7.9_7_3.9_7_3_2.SectionDoc
-        - Chapters.9.9_7.9_7_3.9_7_3_3.SectionDoc
+      --
+        Chapters.9.9_7.SectionDoc
+        Chapters.9.9_7.9_7_1.SectionDoc
+        Chapters.9.9_7.9_7_2.SectionDoc
+        Chapters.9.9_7.9_7_2.9_7_2_1.SectionDoc
+        Chapters.9.9_7.9_7_2.9_7_2_2.SectionDoc
+        Chapters.9.9_7.9_7_2.9_7_2_3.SectionDoc
+        Chapters.9.9_7.9_7_2.9_7_2_4.SectionDoc
+        Chapters.9.9_7.9_7_2.9_7_2_5.SectionDoc
+        Chapters.9.9_7.9_7_3.SectionDoc
+        Chapters.9.9_7.9_7_3.9_7_3_1.SectionDoc
+        Chapters.9.9_7.9_7_3.9_7_3_2.SectionDoc
+        Chapters.9.9_7.9_7_3.9_7_3_3.SectionDoc
     

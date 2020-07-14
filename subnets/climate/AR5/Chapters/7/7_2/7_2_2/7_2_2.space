@@ -1,6 +1,6 @@
 
 public: ar5-7.2.2
-name: Section 7.2.2
+/ Section 7.2.2
 title: 7.2.2 - Cloud Process Modelling
 section 7_2_2
 
@@ -11,16 +11,16 @@ section 7_2_2
 
   insert SectionDoc
 
-  include
-    - 7_2_2_1
-    - 7_2_2_2
+  --
+    7_2_2_1
+    7_2_2_2
 
-  name: Section 7.2.2 - Full Text
+  / Section 7.2.2 - Full Text
   path FullText
-    name: Cloud Process Modelling
+    / Cloud Process Modelling
     step
-      include
-        - Chapters.7.7_2.7_2_2.SectionDoc
-        - Chapters.7.7_2.7_2_2.7_2_2_1.SectionDoc
-        - Chapters.7.7_2.7_2_2.7_2_2_2.SectionDoc
+      --
+        Chapters.7.7_2.7_2_2.SectionDoc
+        Chapters.7.7_2.7_2_2.7_2_2_1.SectionDoc
+        Chapters.7.7_2.7_2_2.7_2_2_2.SectionDoc
     

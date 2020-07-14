@@ -1,6 +1,6 @@
 
 public: ar5-10.2
-name: Section 10.2
+/ Section 10.2
 title: 10.2 - Evaluation of Detection and Attribution Methodologies
 section 10_2
 
@@ -11,20 +11,20 @@ section 10_2
 
   insert SectionDoc
 
-  include
-    - 10_2_1
-    - 10_2_2
-    - 10_2_3
-    - 10_2_4
+  --
+    10_2_1
+    10_2_2
+    10_2_3
+    10_2_4
 
-  name: Section 10.2 - Full Text
+  / Section 10.2 - Full Text
   path FullText
-    name: Evaluation of Detection and Attribution Methodologies
+    / Evaluation of Detection and Attribution Methodologies
     step
-      include
-        - Chapters.10.10_2.SectionDoc
-        - Chapters.10.10_2.10_2_1.SectionDoc
-        - Chapters.10.10_2.10_2_2.SectionDoc
-        - Chapters.10.10_2.10_2_3.SectionDoc
-        - Chapters.10.10_2.10_2_4.SectionDoc
+      --
+        Chapters.10.10_2.SectionDoc
+        Chapters.10.10_2.10_2_1.SectionDoc
+        Chapters.10.10_2.10_2_2.SectionDoc
+        Chapters.10.10_2.10_2_3.SectionDoc
+        Chapters.10.10_2.10_2_4.SectionDoc
     

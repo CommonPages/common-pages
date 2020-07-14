@@ -1,8 +1,8 @@
 
 public: ar5-11
-name: Chapter 11
-title: Chapter 11 - Near-term Climate Change: Projections and Predictability
-lead: This chapter assesses the scientific literature describing expectations for near-term climate (present through mid-century)
+/ Chapter 11
+// Chapter 11 - Near-term Climate Change: Projections and Predictability
+/// This chapter assesses the scientific literature describing expectations for near-term climate (present through mid-century)
 chapterspace 11
 
 
@@ -10,89 +10,89 @@ chapterspace 11
   import cite.11._
 
   index: hide
-  title: Chapter 11 - Near-term Climate Change: Projections and Predictability
-  lead: This chapter assesses the scientific literature describing expectations for near-term climate (present through mid-century)
+  // Chapter 11 - Near-term Climate Change: Projections and Predictability
+  /// This chapter assesses the scientific literature describing expectations for near-term climate (present through mid-century)
   chapterstory ChapterStory
     |In the ‘near term’—the period from the present to mid-century—the {Glossary.*Climate_response climate response} to different {Topics.*Scenarios emissions scenarios} is generally similar. In the absence of major volcanic eruptions—which would cause significant but temporary cooling—and, assuming no significant future long term changes in solar irradiance, it is likely (>66% probability) that the {Topics.*Surface_Temperature GMST} anomaly for the period 2016–2035, relative to the reference period of 1986–2005 will be in the range 0.3°C to 0.7°C. The assessment here provides only a likely range for GMST. Possible reasons why the real world might depart from this range include: {Topics.*Radiative_Forcing RF} departs significantly from the RCP scenarios, due to either natural or {Glossary.*Anthropogenic anthropogenic} causes; processes that are poorly simulated in the CMIP5 models exert a significant influence on GMST.
     apply FullText
 
-    embed
-      - FAQ_11_1
-      - FAQ_11_2
-      - Box_11_1
-      - Box_11_2
+    ---
+      FAQ_11_1
+      FAQ_11_2
+      Box_11_1
+      Box_11_2
 
-    include
-      - 11_1
-      - 11_2
-      - 11_3
+    --
+      11_1
+      11_2
+      11_3
 
   apply FullText
 
   
 
-  include
-    - 11_1
-    - 11_2
-    - 11_3
+  --
+    11_1
+    11_2
+    11_3
 
-  name: Chapter 11 - Full Text
+  / Chapter 11 - Full Text
   path FullText
-    name: Introduction
+    / Introduction
     step
-      include
-        - Chapters.11.11_1.SectionDoc
-    name: Predictability Studies
+      --
+        Chapters.11.11_1.SectionDoc
+    / Predictability Studies
     step
-      include
-        - Chapters.11.11_2.11_2_1.11_2_1_1.SectionDoc
-        - Chapters.11.11_2.11_2_1.11_2_1_2.SectionDoc
-        - Chapters.11.11_2.11_2_1.11_2_1_3.SectionDoc
-        - Chapters.11.11_2.11_2_1.11_2_1_4.SectionDoc
-        - Chapters.11.11_2.11_2_2.11_2_2_1.SectionDoc
-        - Chapters.11.11_2.11_2_2.11_2_2_2.SectionDoc
-        - Chapters.11.11_2.11_2_3.11_2_3_1.SectionDoc
-        - Chapters.11.11_2.11_2_3.11_2_3_2.SectionDoc
-        - Chapters.11.11_2.11_2_3.11_2_3_3.SectionDoc
-        - Chapters.11.11_2.11_2_3.11_2_3_4.SectionDoc
-        - Chapters.11.11_2.11_2_3.11_2_3_5.SectionDoc
-    name: Introduction
+      --
+        Chapters.11.11_2.11_2_1.11_2_1_1.SectionDoc
+        Chapters.11.11_2.11_2_1.11_2_1_2.SectionDoc
+        Chapters.11.11_2.11_2_1.11_2_1_3.SectionDoc
+        Chapters.11.11_2.11_2_1.11_2_1_4.SectionDoc
+        Chapters.11.11_2.11_2_2.11_2_2_1.SectionDoc
+        Chapters.11.11_2.11_2_2.11_2_2_2.SectionDoc
+        Chapters.11.11_2.11_2_3.11_2_3_1.SectionDoc
+        Chapters.11.11_2.11_2_3.11_2_3_2.SectionDoc
+        Chapters.11.11_2.11_2_3.11_2_3_3.SectionDoc
+        Chapters.11.11_2.11_2_3.11_2_3_4.SectionDoc
+        Chapters.11.11_2.11_2_3.11_2_3_5.SectionDoc
+    / Introduction
     step
-      include
-        - Chapters.11.11_3.11_3_1.SectionDoc
-        - Chapters.11.11_3.11_3_1.11_3_1_1.SectionDoc
-        - Chapters.11.11_3.11_3_2.11_3_2_1.11_3_2_1_1.SectionDoc
-        - Chapters.11.11_3.11_3_2.11_3_2_1.11_3_2_1_2.SectionDoc
-        - Chapters.11.11_3.11_3_2.11_3_2_2.SectionDoc
-        - Chapters.11.11_3.11_3_2.11_3_2_3.SectionDoc
-        - Chapters.11.11_3.11_3_2.11_3_2_3.11_3_2_3_1.SectionDoc
-        - Chapters.11.11_3.11_3_2.11_3_2_3.11_3_2_3_2.SectionDoc
-        - Chapters.11.11_3.11_3_2.11_3_2_4.11_3_2_4_1.SectionDoc
-        - Chapters.11.11_3.11_3_2.11_3_2_4.11_3_2_4_2.SectionDoc
-        - Chapters.11.11_3.11_3_2.11_3_2_4.11_3_2_4_3.SectionDoc
-        - Chapters.11.11_3.11_3_2.11_3_2_5.SectionDoc
-        - Chapters.11.11_3.11_3_2.11_3_2_5.11_3_2_5_1.SectionDoc
-        - Chapters.11.11_3.11_3_2.11_3_2_5.11_3_2_5_2.SectionDoc
-        - Chapters.11.11_3.11_3_2.11_3_2_5.11_3_2_5_3.SectionDoc
-        - Chapters.11.11_3.11_3_3.11_3_3_1.SectionDoc
-        - Chapters.11.11_3.11_3_3.11_3_3_2.SectionDoc
-        - Chapters.11.11_3.11_3_3.11_3_3_3.SectionDoc
-        - Chapters.11.11_3.11_3_4.SectionDoc
-        - Chapters.11.11_3.11_3_4.11_3_4_1.SectionDoc
-        - Chapters.11.11_3.11_3_4.11_3_4_2.SectionDoc
-        - Chapters.11.11_3.11_3_4.11_3_4_3.SectionDoc
-        - Chapters.11.11_3.11_3_5.SectionDoc
-        - Chapters.11.11_3.11_3_5.11_3_5_1.SectionDoc
-        - Chapters.11.11_3.11_3_5.11_3_5_1.11_3_5_1_1.SectionDoc
-        - Chapters.11.11_3.11_3_5.11_3_5_1.11_3_5_1_2.SectionDoc
-        - Chapters.11.11_3.11_3_5.11_3_5_1.11_3_5_1_3.SectionDoc
-        - Chapters.11.11_3.11_3_5.11_3_5_2.SectionDoc
-        - Chapters.11.11_3.11_3_5.11_3_5_2.11_3_5_2_1.SectionDoc
-        - Chapters.11.11_3.11_3_5.11_3_5_2.11_3_5_2_2.SectionDoc
-        - Chapters.11.11_3.11_3_5.11_3_5_2.11_3_5_2_3.SectionDoc
-        - Chapters.11.11_3.11_3_6.SectionDoc
-        - Chapters.11.11_3.11_3_6.11_3_6_1.SectionDoc
-        - Chapters.11.11_3.11_3_6.11_3_6_2.11_3_6_2_1.SectionDoc
-        - Chapters.11.11_3.11_3_6.11_3_6_2.11_3_6_2_2.SectionDoc
-        - Chapters.11.11_3.11_3_6.11_3_6_3.SectionDoc
+      --
+        Chapters.11.11_3.11_3_1.SectionDoc
+        Chapters.11.11_3.11_3_1.11_3_1_1.SectionDoc
+        Chapters.11.11_3.11_3_2.11_3_2_1.11_3_2_1_1.SectionDoc
+        Chapters.11.11_3.11_3_2.11_3_2_1.11_3_2_1_2.SectionDoc
+        Chapters.11.11_3.11_3_2.11_3_2_2.SectionDoc
+        Chapters.11.11_3.11_3_2.11_3_2_3.SectionDoc
+        Chapters.11.11_3.11_3_2.11_3_2_3.11_3_2_3_1.SectionDoc
+        Chapters.11.11_3.11_3_2.11_3_2_3.11_3_2_3_2.SectionDoc
+        Chapters.11.11_3.11_3_2.11_3_2_4.11_3_2_4_1.SectionDoc
+        Chapters.11.11_3.11_3_2.11_3_2_4.11_3_2_4_2.SectionDoc
+        Chapters.11.11_3.11_3_2.11_3_2_4.11_3_2_4_3.SectionDoc
+        Chapters.11.11_3.11_3_2.11_3_2_5.SectionDoc
+        Chapters.11.11_3.11_3_2.11_3_2_5.11_3_2_5_1.SectionDoc
+        Chapters.11.11_3.11_3_2.11_3_2_5.11_3_2_5_2.SectionDoc
+        Chapters.11.11_3.11_3_2.11_3_2_5.11_3_2_5_3.SectionDoc
+        Chapters.11.11_3.11_3_3.11_3_3_1.SectionDoc
+        Chapters.11.11_3.11_3_3.11_3_3_2.SectionDoc
+        Chapters.11.11_3.11_3_3.11_3_3_3.SectionDoc
+        Chapters.11.11_3.11_3_4.SectionDoc
+        Chapters.11.11_3.11_3_4.11_3_4_1.SectionDoc
+        Chapters.11.11_3.11_3_4.11_3_4_2.SectionDoc
+        Chapters.11.11_3.11_3_4.11_3_4_3.SectionDoc
+        Chapters.11.11_3.11_3_5.SectionDoc
+        Chapters.11.11_3.11_3_5.11_3_5_1.SectionDoc
+        Chapters.11.11_3.11_3_5.11_3_5_1.11_3_5_1_1.SectionDoc
+        Chapters.11.11_3.11_3_5.11_3_5_1.11_3_5_1_2.SectionDoc
+        Chapters.11.11_3.11_3_5.11_3_5_1.11_3_5_1_3.SectionDoc
+        Chapters.11.11_3.11_3_5.11_3_5_2.SectionDoc
+        Chapters.11.11_3.11_3_5.11_3_5_2.11_3_5_2_1.SectionDoc
+        Chapters.11.11_3.11_3_5.11_3_5_2.11_3_5_2_2.SectionDoc
+        Chapters.11.11_3.11_3_5.11_3_5_2.11_3_5_2_3.SectionDoc
+        Chapters.11.11_3.11_3_6.SectionDoc
+        Chapters.11.11_3.11_3_6.11_3_6_1.SectionDoc
+        Chapters.11.11_3.11_3_6.11_3_6_2.11_3_6_2_1.SectionDoc
+        Chapters.11.11_3.11_3_6.11_3_6_2.11_3_6_2_2.SectionDoc
+        Chapters.11.11_3.11_3_6.11_3_6_3.SectionDoc
     

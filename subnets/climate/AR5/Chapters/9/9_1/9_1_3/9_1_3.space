@@ -1,6 +1,6 @@
 
 public: ar5-9.1.3
-name: Section 9.1.3
+/ Section 9.1.3
 title: 9.1.3 - Model Improvements
 section 9_1_3
 
@@ -11,29 +11,29 @@ section 9_1_3
 
   insert SectionDoc
 
-  include
-    - 9_1_3_1
-    - 9_1_3_2
-    - 9_1_3_3
+  --
+    9_1_3_1
+    9_1_3_2
+    9_1_3_3
 
-  name: Section 9.1.3 - Full Text
+  / Section 9.1.3 - Full Text
   path FullText
-    name: Model Improvements
+    / Model Improvements
     step
-      include
-        - Chapters.9.9_1.9_1_3.SectionDoc
-        - Chapters.9.9_1.9_1_3.9_1_3_1.SectionDoc
-        - Chapters.9.9_1.9_1_3.9_1_3_1.9_1_3_1_1.SectionDoc
-        - Chapters.9.9_1.9_1_3.9_1_3_1.9_1_3_1_2.SectionDoc
-        - Chapters.9.9_1.9_1_3.9_1_3_1.9_1_3_1_3.SectionDoc
-        - Chapters.9.9_1.9_1_3.9_1_3_1.9_1_3_1_4.SectionDoc
-        - Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_1.SectionDoc
-        - Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_2.SectionDoc
-        - Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_3.SectionDoc
-        - Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_4.SectionDoc
-        - Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_5.SectionDoc
-        - Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_6.SectionDoc
-        - Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_7.SectionDoc
-        - Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_8.SectionDoc
-        - Chapters.9.9_1.9_1_3.9_1_3_3.SectionDoc
+      --
+        Chapters.9.9_1.9_1_3.SectionDoc
+        Chapters.9.9_1.9_1_3.9_1_3_1.SectionDoc
+        Chapters.9.9_1.9_1_3.9_1_3_1.9_1_3_1_1.SectionDoc
+        Chapters.9.9_1.9_1_3.9_1_3_1.9_1_3_1_2.SectionDoc
+        Chapters.9.9_1.9_1_3.9_1_3_1.9_1_3_1_3.SectionDoc
+        Chapters.9.9_1.9_1_3.9_1_3_1.9_1_3_1_4.SectionDoc
+        Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_1.SectionDoc
+        Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_2.SectionDoc
+        Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_3.SectionDoc
+        Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_4.SectionDoc
+        Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_5.SectionDoc
+        Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_6.SectionDoc
+        Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_7.SectionDoc
+        Chapters.9.9_1.9_1_3.9_1_3_2.9_1_3_2_8.SectionDoc
+        Chapters.9.9_1.9_1_3.9_1_3_3.SectionDoc
     

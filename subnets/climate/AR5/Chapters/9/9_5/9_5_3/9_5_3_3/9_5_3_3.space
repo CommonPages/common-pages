@@ -1,6 +1,6 @@
 
 public: ar5-9.5.3.3
-name: Section 9.5.3.3
+/ Section 9.5.3.3
 title: 9.5.3.3 - Atlantic Modes
 section 9_5_3_3
 
@@ -11,17 +11,17 @@ section 9_5_3_3
 
   
 
-  include
-    - 9_5_3_3_1
-    - 9_5_3_3_2
-    - 9_5_3_3_3
+  --
+    9_5_3_3_1
+    9_5_3_3_2
+    9_5_3_3_3
 
-  name: Section 9.5.3.3 - Full Text
+  / Section 9.5.3.3 - Full Text
   path FullText
-    name: Atlantic Meridional Overturning Circulation variability
+    / Atlantic Meridional Overturning Circulation variability
     step
-      include
-        - Chapters.9.9_5.9_5_3.9_5_3_3.9_5_3_3_1.SectionDoc
-        - Chapters.9.9_5.9_5_3.9_5_3_3.9_5_3_3_2.SectionDoc
-        - Chapters.9.9_5.9_5_3.9_5_3_3.9_5_3_3_3.SectionDoc
+      --
+        Chapters.9.9_5.9_5_3.9_5_3_3.9_5_3_3_1.SectionDoc
+        Chapters.9.9_5.9_5_3.9_5_3_3.9_5_3_3_2.SectionDoc
+        Chapters.9.9_5.9_5_3.9_5_3_3.9_5_3_3_3.SectionDoc
     

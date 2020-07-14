@@ -1,6 +1,6 @@
 
 public: ar5-9.4.6
-name: Section 9.4.6
+/ Section 9.4.6
 title: 9.4.6 - Aerosol Burdens and Effects on Insolation
 section 9_4_6
 
@@ -11,15 +11,15 @@ section 9_4_6
 
   
 
-  include
-    - 9_4_6_1
-    - 9_4_6_2
+  --
+    9_4_6_1
+    9_4_6_2
 
-  name: Section 9.4.6 - Full Text
+  / Section 9.4.6 - Full Text
   path FullText
-    name: Recent Trends in Global Aerosol Burdens and Effects on Insolation
+    / Recent Trends in Global Aerosol Burdens and Effects on Insolation
     step
-      include
-        - Chapters.9.9_4.9_4_6.9_4_6_1.SectionDoc
-        - Chapters.9.9_4.9_4_6.9_4_6_2.SectionDoc
+      --
+        Chapters.9.9_4.9_4_6.9_4_6_1.SectionDoc
+        Chapters.9.9_4.9_4_6.9_4_6_2.SectionDoc
     

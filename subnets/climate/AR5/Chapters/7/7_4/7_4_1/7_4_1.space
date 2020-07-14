@@ -1,6 +1,6 @@
 
 public: ar5-7.4.1
-name: Section 7.4.1
+/ Section 7.4.1
 title: 7.4.1 - Introduction and Overview of Progress Since AR4
 section 7_4_1
 
@@ -11,20 +11,20 @@ section 7_4_1
 
   insert SectionDoc
 
-  include
-    - 7_4_1_1
-    - 7_4_1_2
-    - 7_4_1_3
-    - 7_4_1_4
+  --
+    7_4_1_1
+    7_4_1_2
+    7_4_1_3
+    7_4_1_4
 
-  name: Section 7.4.1 - Full Text
+  / Section 7.4.1 - Full Text
   path FullText
-    name: Introduction and Overview of Progress Since AR4
+    / Introduction and Overview of Progress Since AR4
     step
-      include
-        - Chapters.7.7_4.7_4_1.SectionDoc
-        - Chapters.7.7_4.7_4_1.7_4_1_1.SectionDoc
-        - Chapters.7.7_4.7_4_1.7_4_1_2.SectionDoc
-        - Chapters.7.7_4.7_4_1.7_4_1_3.SectionDoc
-        - Chapters.7.7_4.7_4_1.7_4_1_4.SectionDoc
+      --
+        Chapters.7.7_4.7_4_1.SectionDoc
+        Chapters.7.7_4.7_4_1.7_4_1_1.SectionDoc
+        Chapters.7.7_4.7_4_1.7_4_1_2.SectionDoc
+        Chapters.7.7_4.7_4_1.7_4_1_3.SectionDoc
+        Chapters.7.7_4.7_4_1.7_4_1_4.SectionDoc
     

@@ -1,6 +1,6 @@
 
 public: ar5-10.7
-name: Section 10.7
+/ Section 10.7
 title: 10.7 - Multi-century to Millennia Perspective
 section 10_7
 
@@ -11,21 +11,21 @@ section 10_7
 
   insert SectionDoc
 
-  include
-    - 10_7_1
-    - 10_7_2
-    - 10_7_3
+  --
+    10_7_1
+    10_7_2
+    10_7_3
 
-  name: Section 10.7 - Full Text
+  / Section 10.7 - Full Text
   path FullText
-    name: Multi-century to Millennia Perspective
+    / Multi-century to Millennia Perspective
     step
-      include
-        - Chapters.10.10_7.SectionDoc
-        - Chapters.10.10_7.10_7_1.SectionDoc
-        - Chapters.10.10_7.10_7_1.10_7_1_1.SectionDoc
-        - Chapters.10.10_7.10_7_1.10_7_1_2.SectionDoc
-        - Chapters.10.10_7.10_7_1.10_7_1_3.SectionDoc
-        - Chapters.10.10_7.10_7_2.SectionDoc
-        - Chapters.10.10_7.10_7_3.SectionDoc
+      --
+        Chapters.10.10_7.SectionDoc
+        Chapters.10.10_7.10_7_1.SectionDoc
+        Chapters.10.10_7.10_7_1.10_7_1_1.SectionDoc
+        Chapters.10.10_7.10_7_1.10_7_1_2.SectionDoc
+        Chapters.10.10_7.10_7_1.10_7_1_3.SectionDoc
+        Chapters.10.10_7.10_7_2.SectionDoc
+        Chapters.10.10_7.10_7_3.SectionDoc
     

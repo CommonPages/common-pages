@@ -1,6 +1,6 @@
 
 public: ar5-9.2.2
-name: Section 9.2.2
+/ Section 9.2.2
 title: 9.2.2 - Ensemble Approaches for Model Evaluation
 section 9_2_2
 
@@ -11,18 +11,18 @@ section 9_2_2
 
   insert SectionDoc
 
-  include
-    - 9_2_2_1
-    - 9_2_2_2
-    - 9_2_2_3
+  --
+    9_2_2_1
+    9_2_2_2
+    9_2_2_3
 
-  name: Section 9.2.2 - Full Text
+  / Section 9.2.2 - Full Text
   path FullText
-    name: Ensemble Approaches for Model Evaluation
+    / Ensemble Approaches for Model Evaluation
     step
-      include
-        - Chapters.9.9_2.9_2_2.SectionDoc
-        - Chapters.9.9_2.9_2_2.9_2_2_1.SectionDoc
-        - Chapters.9.9_2.9_2_2.9_2_2_2.SectionDoc
-        - Chapters.9.9_2.9_2_2.9_2_2_3.SectionDoc
+      --
+        Chapters.9.9_2.9_2_2.SectionDoc
+        Chapters.9.9_2.9_2_2.9_2_2_1.SectionDoc
+        Chapters.9.9_2.9_2_2.9_2_2_2.SectionDoc
+        Chapters.9.9_2.9_2_2.9_2_2_3.SectionDoc
     

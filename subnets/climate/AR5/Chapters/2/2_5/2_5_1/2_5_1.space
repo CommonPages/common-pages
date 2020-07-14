@@ -1,6 +1,6 @@
 
 public: ar5-2.5.1
-name: Section 2.5.1
+/ Section 2.5.1
 title: 2.5.1 - Large-Scale Changes in Precipitation
 section 2_5_1
 
@@ -11,17 +11,17 @@ section 2_5_1
 
   
 
-  include
-    - 2_5_1_1
-    - 2_5_1_2
-    - 2_5_1_3
+  --
+    2_5_1_1
+    2_5_1_2
+    2_5_1_3
 
-  name: Section 2.5.1 - Full Text
+  / Section 2.5.1 - Full Text
   path FullText
-    name: Global Land Areas
+    / Global Land Areas
     step
-      include
-        - Chapters.2.2_5.2_5_1.2_5_1_1.SectionDoc
-        - Chapters.2.2_5.2_5_1.2_5_1_2.SectionDoc
-        - Chapters.2.2_5.2_5_1.2_5_1_3.SectionDoc
+      --
+        Chapters.2.2_5.2_5_1.2_5_1_1.SectionDoc
+        Chapters.2.2_5.2_5_1.2_5_1_2.SectionDoc
+        Chapters.2.2_5.2_5_1.2_5_1_3.SectionDoc
     

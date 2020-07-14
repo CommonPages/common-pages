@@ -1,6 +1,6 @@
 
 public: ar5-13.6.4
-name: Section 13.6.4
+/ Section 13.6.4
 title: 13.6.4 - Response to Freshwater Forcing
 section 13_6_4
 
@@ -11,16 +11,16 @@ section 13_6_4
 
   insert SectionDoc
 
-  include
-    - 13_6_4_1
-    - 13_6_4_2
+  --
+    13_6_4_1
+    13_6_4_2
 
-  name: Section 13.6.4 - Full Text
+  / Section 13.6.4 - Full Text
   path FullText
-    name: Response to Freshwater Forcing
+    / Response to Freshwater Forcing
     step
-      include
-        - Chapters.13.13_6.13_6_4.SectionDoc
-        - Chapters.13.13_6.13_6_4.13_6_4_1.SectionDoc
-        - Chapters.13.13_6.13_6_4.13_6_4_2.SectionDoc
+      --
+        Chapters.13.13_6.13_6_4.SectionDoc
+        Chapters.13.13_6.13_6_4.13_6_4_1.SectionDoc
+        Chapters.13.13_6.13_6_4.13_6_4_2.SectionDoc
     

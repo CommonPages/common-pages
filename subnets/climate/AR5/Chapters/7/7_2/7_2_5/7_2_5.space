@@ -1,6 +1,6 @@
 
 public: ar5-7.2.5
-name: Section 7.2.5
+/ Section 7.2.5
 title: 7.2.5 - Cloud Feedbacks and Rapid Adjustments to Carbon Dioxide
 section 7_2_5
 
@@ -11,26 +11,26 @@ section 7_2_5
 
   insert SectionDoc
 
-  include
-    - 7_2_5_1
-    - 7_2_5_2
-    - 7_2_5_3
-    - 7_2_5_4
-    - 7_2_5_5
-    - 7_2_5_6
-    - 7_2_5_7
+  --
+    7_2_5_1
+    7_2_5_2
+    7_2_5_3
+    7_2_5_4
+    7_2_5_5
+    7_2_5_6
+    7_2_5_7
 
-  name: Section 7.2.5 - Full Text
+  / Section 7.2.5 - Full Text
   path FullText
-    name: Cloud Feedbacks and Rapid Adjustments to Carbon Dioxide
+    / Cloud Feedbacks and Rapid Adjustments to Carbon Dioxide
     step
-      include
-        - Chapters.7.7_2.7_2_5.SectionDoc
-        - Chapters.7.7_2.7_2_5.7_2_5_1.SectionDoc
-        - Chapters.7.7_2.7_2_5.7_2_5_2.SectionDoc
-        - Chapters.7.7_2.7_2_5.7_2_5_3.SectionDoc
-        - Chapters.7.7_2.7_2_5.7_2_5_4.SectionDoc
-        - Chapters.7.7_2.7_2_5.7_2_5_5.SectionDoc
-        - Chapters.7.7_2.7_2_5.7_2_5_6.SectionDoc
-        - Chapters.7.7_2.7_2_5.7_2_5_7.SectionDoc
+      --
+        Chapters.7.7_2.7_2_5.SectionDoc
+        Chapters.7.7_2.7_2_5.7_2_5_1.SectionDoc
+        Chapters.7.7_2.7_2_5.7_2_5_2.SectionDoc
+        Chapters.7.7_2.7_2_5.7_2_5_3.SectionDoc
+        Chapters.7.7_2.7_2_5.7_2_5_4.SectionDoc
+        Chapters.7.7_2.7_2_5.7_2_5_5.SectionDoc
+        Chapters.7.7_2.7_2_5.7_2_5_6.SectionDoc
+        Chapters.7.7_2.7_2_5.7_2_5_7.SectionDoc
     

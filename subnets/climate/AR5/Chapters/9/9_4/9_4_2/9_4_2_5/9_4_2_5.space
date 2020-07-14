@@ -1,6 +1,6 @@
 
 public: ar5-9.4.2.5
-name: Section 9.4.2.5
+/ Section 9.4.2.5
 title: 9.4.2.5 - Simulation of Tropical Mean State
 section 9_4_2_5
 
@@ -11,17 +11,17 @@ section 9_4_2_5
 
   
 
-  include
-    - 9_4_2_5_1
-    - 9_4_2_5_2
-    - 9_4_2_5_3
+  --
+    9_4_2_5_1
+    9_4_2_5_2
+    9_4_2_5_3
 
-  name: Section 9.4.2.5 - Full Text
+  / Section 9.4.2.5 - Full Text
   path FullText
-    name: Tropical Pacific Ocean
+    / Tropical Pacific Ocean
     step
-      include
-        - Chapters.9.9_4.9_4_2.9_4_2_5.9_4_2_5_1.SectionDoc
-        - Chapters.9.9_4.9_4_2.9_4_2_5.9_4_2_5_2.SectionDoc
-        - Chapters.9.9_4.9_4_2.9_4_2_5.9_4_2_5_3.SectionDoc
+      --
+        Chapters.9.9_4.9_4_2.9_4_2_5.9_4_2_5_1.SectionDoc
+        Chapters.9.9_4.9_4_2.9_4_2_5.9_4_2_5_2.SectionDoc
+        Chapters.9.9_4.9_4_2.9_4_2_5.9_4_2_5_3.SectionDoc
     

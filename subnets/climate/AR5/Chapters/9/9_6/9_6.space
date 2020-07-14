@@ -1,6 +1,6 @@
 
 public: ar5-9.6
-name: Section 9.6
+/ Section 9.6
 title: 9.6 - Downscaling and Simulation of Regional-Scale Climate
 section 9_6
 
@@ -11,28 +11,28 @@ section 9_6
 
   insert SectionDoc
 
-  include
-    - 9_6_1
-    - 9_6_2
-    - 9_6_3
-    - 9_6_4
-    - 9_6_5
-    - 9_6_6
+  --
+    9_6_1
+    9_6_2
+    9_6_3
+    9_6_4
+    9_6_5
+    9_6_6
 
-  name: Section 9.6 - Full Text
+  / Section 9.6 - Full Text
   path FullText
-    name: Downscaling and Simulation of Regional-Scale Climate
+    / Downscaling and Simulation of Regional-Scale Climate
     step
-      include
-        - Chapters.9.9_6.SectionDoc
-        - Chapters.9.9_6.9_6_1.9_6_1_1.SectionDoc
-        - Chapters.9.9_6.9_6_1.9_6_1_2.SectionDoc
-        - Chapters.9.9_6.9_6_1.9_6_1_3.SectionDoc
-        - Chapters.9.9_6.9_6_2.SectionDoc
-        - Chapters.9.9_6.9_6_2.9_6_2_1.SectionDoc
-        - Chapters.9.9_6.9_6_2.9_6_2_2.SectionDoc
-        - Chapters.9.9_6.9_6_3.SectionDoc
-        - Chapters.9.9_6.9_6_4.SectionDoc
-        - Chapters.9.9_6.9_6_5.SectionDoc
-        - Chapters.9.9_6.9_6_6.SectionDoc
+      --
+        Chapters.9.9_6.SectionDoc
+        Chapters.9.9_6.9_6_1.9_6_1_1.SectionDoc
+        Chapters.9.9_6.9_6_1.9_6_1_2.SectionDoc
+        Chapters.9.9_6.9_6_1.9_6_1_3.SectionDoc
+        Chapters.9.9_6.9_6_2.SectionDoc
+        Chapters.9.9_6.9_6_2.9_6_2_1.SectionDoc
+        Chapters.9.9_6.9_6_2.9_6_2_2.SectionDoc
+        Chapters.9.9_6.9_6_3.SectionDoc
+        Chapters.9.9_6.9_6_4.SectionDoc
+        Chapters.9.9_6.9_6_5.SectionDoc
+        Chapters.9.9_6.9_6_6.SectionDoc
     

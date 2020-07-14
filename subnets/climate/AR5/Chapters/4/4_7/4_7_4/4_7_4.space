@@ -1,6 +1,6 @@
 
 public: ar5-4.7.4
-name: Section 4.7.4
+/ Section 4.7.4
 title: 4.7.4 - Changes in Seasonally Frozen Ground
 section 4_7_4
 
@@ -11,16 +11,16 @@ section 4_7_4
 
   insert SectionDoc
 
-  include
-    - 4_7_4_1
-    - 4_7_4_2
+  --
+    4_7_4_1
+    4_7_4_2
 
-  name: Section 4.7.4 - Full Text
+  / Section 4.7.4 - Full Text
   path FullText
-    name: Changes in Seasonally Frozen Ground
+    / Changes in Seasonally Frozen Ground
     step
-      include
-        - Chapters.4.4_7.4_7_4.SectionDoc
-        - Chapters.4.4_7.4_7_4.4_7_4_1.SectionDoc
-        - Chapters.4.4_7.4_7_4.4_7_4_2.SectionDoc
+      --
+        Chapters.4.4_7.4_7_4.SectionDoc
+        Chapters.4.4_7.4_7_4.4_7_4_1.SectionDoc
+        Chapters.4.4_7.4_7_4.4_7_4_2.SectionDoc
     

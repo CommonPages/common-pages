@@ -1,6 +1,6 @@
 
 public: ar5-3.4.5
-name: Section 3.4.5
+/ Section 3.4.5
 title: 3.4.5 - Changes in Surface Waves
 section 3_4_5
 
@@ -11,18 +11,18 @@ section 3_4_5
 
   insert SectionDoc
 
-  include
-    - 3_4_5_1
-    - 3_4_5_2
-    - 3_4_5_3
+  --
+    3_4_5_1
+    3_4_5_2
+    3_4_5_3
 
-  name: Section 3.4.5 - Full Text
+  / Section 3.4.5 - Full Text
   path FullText
-    name: Changes in Surface Waves
+    / Changes in Surface Waves
     step
-      include
-        - Chapters.3.3_4.3_4_5.SectionDoc
-        - Chapters.3.3_4.3_4_5.3_4_5_1.SectionDoc
-        - Chapters.3.3_4.3_4_5.3_4_5_2.SectionDoc
-        - Chapters.3.3_4.3_4_5.3_4_5_3.SectionDoc
+      --
+        Chapters.3.3_4.3_4_5.SectionDoc
+        Chapters.3.3_4.3_4_5.3_4_5_1.SectionDoc
+        Chapters.3.3_4.3_4_5.3_4_5_2.SectionDoc
+        Chapters.3.3_4.3_4_5.3_4_5_3.SectionDoc
     

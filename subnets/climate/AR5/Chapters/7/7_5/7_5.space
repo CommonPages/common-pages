@@ -1,6 +1,6 @@
 
 public: ar5-7.5
-name: Section 7.5
+/ Section 7.5
 title: 7.5 - Radiative Forcing and Effective Radiative Forcing by Anthropogenic Aerosols
 section 7_5
 
@@ -11,22 +11,22 @@ section 7_5
 
   
 
-  include
-    - 7_5_1
-    - 7_5_2
-    - 7_5_3
-    - 7_5_4
+  --
+    7_5_1
+    7_5_2
+    7_5_3
+    7_5_4
 
-  name: Section 7.5 - Full Text
+  / Section 7.5 - Full Text
   path FullText
-    name: Introduction and Summary of AR4
+    / Introduction and Summary of AR4
     step
-      include
-        - Chapters.7.7_5.7_5_1.SectionDoc
-        - Chapters.7.7_5.7_5_2.SectionDoc
-        - Chapters.7.7_5.7_5_2.7_5_2_1.SectionDoc
-        - Chapters.7.7_5.7_5_2.7_5_2_2.SectionDoc
-        - Chapters.7.7_5.7_5_2.7_5_2_3.SectionDoc
-        - Chapters.7.7_5.7_5_3.SectionDoc
-        - Chapters.7.7_5.7_5_4.SectionDoc
+      --
+        Chapters.7.7_5.7_5_1.SectionDoc
+        Chapters.7.7_5.7_5_2.SectionDoc
+        Chapters.7.7_5.7_5_2.7_5_2_1.SectionDoc
+        Chapters.7.7_5.7_5_2.7_5_2_2.SectionDoc
+        Chapters.7.7_5.7_5_2.7_5_2_3.SectionDoc
+        Chapters.7.7_5.7_5_3.SectionDoc
+        Chapters.7.7_5.7_5_4.SectionDoc
     

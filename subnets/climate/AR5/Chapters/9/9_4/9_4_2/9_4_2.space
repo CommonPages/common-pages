@@ -1,6 +1,6 @@
 
 public: ar5-9.4.2
-name: Section 9.4.2
+/ Section 9.4.2
 title: 9.4.2 - Ocean
 section 9_4_2
 
@@ -11,26 +11,26 @@ section 9_4_2
 
   insert SectionDoc
 
-  include
-    - 9_4_2_1
-    - 9_4_2_2
-    - 9_4_2_3
-    - 9_4_2_4
-    - 9_4_2_5
-    - 9_4_2_6
+  --
+    9_4_2_1
+    9_4_2_2
+    9_4_2_3
+    9_4_2_4
+    9_4_2_5
+    9_4_2_6
 
-  name: Section 9.4.2 - Full Text
+  / Section 9.4.2 - Full Text
   path FullText
-    name: Ocean
+    / Ocean
     step
-      include
-        - Chapters.9.9_4.9_4_2.SectionDoc
-        - Chapters.9.9_4.9_4_2.9_4_2_1.SectionDoc
-        - Chapters.9.9_4.9_4_2.9_4_2_2.SectionDoc
-        - Chapters.9.9_4.9_4_2.9_4_2_3.9_4_2_3_1.SectionDoc
-        - Chapters.9.9_4.9_4_2.9_4_2_4.SectionDoc
-        - Chapters.9.9_4.9_4_2.9_4_2_5.9_4_2_5_1.SectionDoc
-        - Chapters.9.9_4.9_4_2.9_4_2_5.9_4_2_5_2.SectionDoc
-        - Chapters.9.9_4.9_4_2.9_4_2_5.9_4_2_5_3.SectionDoc
-        - Chapters.9.9_4.9_4_2.9_4_2_6.SectionDoc
+      --
+        Chapters.9.9_4.9_4_2.SectionDoc
+        Chapters.9.9_4.9_4_2.9_4_2_1.SectionDoc
+        Chapters.9.9_4.9_4_2.9_4_2_2.SectionDoc
+        Chapters.9.9_4.9_4_2.9_4_2_3.9_4_2_3_1.SectionDoc
+        Chapters.9.9_4.9_4_2.9_4_2_4.SectionDoc
+        Chapters.9.9_4.9_4_2.9_4_2_5.9_4_2_5_1.SectionDoc
+        Chapters.9.9_4.9_4_2.9_4_2_5.9_4_2_5_2.SectionDoc
+        Chapters.9.9_4.9_4_2.9_4_2_5.9_4_2_5_3.SectionDoc
+        Chapters.9.9_4.9_4_2.9_4_2_6.SectionDoc
     

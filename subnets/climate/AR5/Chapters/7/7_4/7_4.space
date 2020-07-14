@@ -1,6 +1,6 @@
 
 public: ar5-7.4
-name: Section 7.4
+/ Section 7.4
 title: 7.4 - Aerosol–Cloud Interactions
 section 7_4
 
@@ -11,41 +11,41 @@ section 7_4
 
   
 
-  include
-    - 7_4_1
-    - 7_4_2
-    - 7_4_3
-    - 7_4_4
-    - 7_4_5
-    - 7_4_6
+  --
+    7_4_1
+    7_4_2
+    7_4_3
+    7_4_4
+    7_4_5
+    7_4_6
 
-  name: Section 7.4 - Full Text
+  / Section 7.4 - Full Text
   path FullText
-    name: Introduction and Overview of Progress Since AR4
+    / Introduction and Overview of Progress Since AR4
     step
-      include
-        - Chapters.7.7_4.7_4_1.SectionDoc
-        - Chapters.7.7_4.7_4_1.7_4_1_1.SectionDoc
-        - Chapters.7.7_4.7_4_1.7_4_1_2.SectionDoc
-        - Chapters.7.7_4.7_4_1.7_4_1_3.SectionDoc
-        - Chapters.7.7_4.7_4_1.7_4_1_4.SectionDoc
-        - Chapters.7.7_4.7_4_2.7_4_2_1.SectionDoc
-        - Chapters.7.7_4.7_4_2.7_4_2_2.SectionDoc
-        - Chapters.7.7_4.7_4_2.7_4_2_3.SectionDoc
-        - Chapters.7.7_4.7_4_3.7_4_3_1.SectionDoc
-        - Chapters.7.7_4.7_4_3.7_4_3_2.SectionDoc
-        - Chapters.7.7_4.7_4_3.7_4_3_2.7_4_3_2_1.SectionDoc
-        - Chapters.7.7_4.7_4_3.7_4_3_2.7_4_3_2_2.SectionDoc
-        - Chapters.7.7_4.7_4_3.7_4_3_3.SectionDoc
-        - Chapters.7.7_4.7_4_3.7_4_3_4.SectionDoc
-        - Chapters.7.7_4.7_4_4.7_4_4_1.SectionDoc
-        - Chapters.7.7_4.7_4_4.7_4_4_2.SectionDoc
-        - Chapters.7.7_4.7_4_4.7_4_4_3.SectionDoc
-        - Chapters.7.7_4.7_4_4.7_4_4_4.SectionDoc
-        - Chapters.7.7_4.7_4_4.7_4_4_5.SectionDoc
-        - Chapters.7.7_4.7_4_5.SectionDoc
-        - Chapters.7.7_4.7_4_6.SectionDoc
-        - Chapters.7.7_4.7_4_6.7_4_6_1.SectionDoc
-        - Chapters.7.7_4.7_4_6.7_4_6_2.SectionDoc
-        - Chapters.7.7_4.7_4_6.7_4_6_3.SectionDoc
+      --
+        Chapters.7.7_4.7_4_1.SectionDoc
+        Chapters.7.7_4.7_4_1.7_4_1_1.SectionDoc
+        Chapters.7.7_4.7_4_1.7_4_1_2.SectionDoc
+        Chapters.7.7_4.7_4_1.7_4_1_3.SectionDoc
+        Chapters.7.7_4.7_4_1.7_4_1_4.SectionDoc
+        Chapters.7.7_4.7_4_2.7_4_2_1.SectionDoc
+        Chapters.7.7_4.7_4_2.7_4_2_2.SectionDoc
+        Chapters.7.7_4.7_4_2.7_4_2_3.SectionDoc
+        Chapters.7.7_4.7_4_3.7_4_3_1.SectionDoc
+        Chapters.7.7_4.7_4_3.7_4_3_2.SectionDoc
+        Chapters.7.7_4.7_4_3.7_4_3_2.7_4_3_2_1.SectionDoc
+        Chapters.7.7_4.7_4_3.7_4_3_2.7_4_3_2_2.SectionDoc
+        Chapters.7.7_4.7_4_3.7_4_3_3.SectionDoc
+        Chapters.7.7_4.7_4_3.7_4_3_4.SectionDoc
+        Chapters.7.7_4.7_4_4.7_4_4_1.SectionDoc
+        Chapters.7.7_4.7_4_4.7_4_4_2.SectionDoc
+        Chapters.7.7_4.7_4_4.7_4_4_3.SectionDoc
+        Chapters.7.7_4.7_4_4.7_4_4_4.SectionDoc
+        Chapters.7.7_4.7_4_4.7_4_4_5.SectionDoc
+        Chapters.7.7_4.7_4_5.SectionDoc
+        Chapters.7.7_4.7_4_6.SectionDoc
+        Chapters.7.7_4.7_4_6.7_4_6_1.SectionDoc
+        Chapters.7.7_4.7_4_6.7_4_6_2.SectionDoc
+        Chapters.7.7_4.7_4_6.7_4_6_3.SectionDoc
     

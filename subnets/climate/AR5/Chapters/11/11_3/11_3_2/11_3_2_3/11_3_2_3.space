@@ -1,6 +1,6 @@
 
 public: ar5-11.3.2.3
-name: Section 11.3.2.3
+/ Section 11.3.2.3
 title: 11.3.2.3 - The Water Cycle
 section 11_3_2_3
 
@@ -11,16 +11,16 @@ section 11_3_2_3
 
   insert SectionDoc
 
-  include
-    - 11_3_2_3_1
-    - 11_3_2_3_2
+  --
+    11_3_2_3_1
+    11_3_2_3_2
 
-  name: Section 11.3.2.3 - Full Text
+  / Section 11.3.2.3 - Full Text
   path FullText
-    name: The Water Cycle
+    / The Water Cycle
     step
-      include
-        - Chapters.11.11_3.11_3_2.11_3_2_3.SectionDoc
-        - Chapters.11.11_3.11_3_2.11_3_2_3.11_3_2_3_1.SectionDoc
-        - Chapters.11.11_3.11_3_2.11_3_2_3.11_3_2_3_2.SectionDoc
+      --
+        Chapters.11.11_3.11_3_2.11_3_2_3.SectionDoc
+        Chapters.11.11_3.11_3_2.11_3_2_3.11_3_2_3_1.SectionDoc
+        Chapters.11.11_3.11_3_2.11_3_2_3.11_3_2_3_2.SectionDoc
     

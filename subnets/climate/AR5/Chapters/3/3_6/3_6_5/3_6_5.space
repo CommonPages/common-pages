@@ -1,6 +1,6 @@
 
 public: ar5-3.6.5
-name: Section 3.6.5
+/ Section 3.6.5
 title: 3.6.5 - Water Exchange Between Ocean Basins
 section 3_6_5
 
@@ -11,17 +11,17 @@ section 3_6_5
 
   
 
-  include
-    - 3_6_5_1
-    - 3_6_5_2
-    - 3_6_5_3
+  --
+    3_6_5_1
+    3_6_5_2
+    3_6_5_3
 
-  name: Section 3.6.5 - Full Text
+  / Section 3.6.5 - Full Text
   path FullText
-    name: The Indonesian Throughflow
+    / The Indonesian Throughflow
     step
-      include
-        - Chapters.3.3_6.3_6_5.3_6_5_1.SectionDoc
-        - Chapters.3.3_6.3_6_5.3_6_5_2.SectionDoc
-        - Chapters.3.3_6.3_6_5.3_6_5_3.SectionDoc
+      --
+        Chapters.3.3_6.3_6_5.3_6_5_1.SectionDoc
+        Chapters.3.3_6.3_6_5.3_6_5_2.SectionDoc
+        Chapters.3.3_6.3_6_5.3_6_5_3.SectionDoc
     

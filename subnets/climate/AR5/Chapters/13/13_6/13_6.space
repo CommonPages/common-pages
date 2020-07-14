@@ -1,6 +1,6 @@
 
 public: ar5-13.6
-name: Section 13.6
+/ Section 13.6
 title: 13.6 - Regional Sea Level Changes
 section 13_6
 
@@ -11,26 +11,26 @@ section 13_6
 
   insert SectionDoc
 
-  include
-    - 13_6_1
-    - 13_6_2
-    - 13_6_3
-    - 13_6_4
-    - 13_6_5
-    - 13_6_6
+  --
+    13_6_1
+    13_6_2
+    13_6_3
+    13_6_4
+    13_6_5
+    13_6_6
 
-  name: Section 13.6 - Full Text
+  / Section 13.6 - Full Text
   path FullText
-    name: Regional Sea Level Changes
+    / Regional Sea Level Changes
     step
-      include
-        - Chapters.13.13_6.SectionDoc
-        - Chapters.13.13_6.13_6_1.SectionDoc
-        - Chapters.13.13_6.13_6_2.SectionDoc
-        - Chapters.13.13_6.13_6_3.SectionDoc
-        - Chapters.13.13_6.13_6_4.SectionDoc
-        - Chapters.13.13_6.13_6_4.13_6_4_1.SectionDoc
-        - Chapters.13.13_6.13_6_4.13_6_4_2.SectionDoc
-        - Chapters.13.13_6.13_6_5.SectionDoc
-        - Chapters.13.13_6.13_6_6.SectionDoc
+      --
+        Chapters.13.13_6.SectionDoc
+        Chapters.13.13_6.13_6_1.SectionDoc
+        Chapters.13.13_6.13_6_2.SectionDoc
+        Chapters.13.13_6.13_6_3.SectionDoc
+        Chapters.13.13_6.13_6_4.SectionDoc
+        Chapters.13.13_6.13_6_4.13_6_4_1.SectionDoc
+        Chapters.13.13_6.13_6_4.13_6_4_2.SectionDoc
+        Chapters.13.13_6.13_6_5.SectionDoc
+        Chapters.13.13_6.13_6_6.SectionDoc
     

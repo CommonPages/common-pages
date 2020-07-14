@@ -1,6 +1,6 @@
 
 public: ar5-2.6
-name: Section 2.6
+/ Section 2.6
 title: 2.6 - Changes in Extreme Events
 section 2_6
 
@@ -11,24 +11,24 @@ section 2_6
 
   insert SectionDoc
 
-  include
-    - 2_6_1
-    - 2_6_2
-    - 2_6_3
-    - 2_6_4
+  --
+    2_6_1
+    2_6_2
+    2_6_3
+    2_6_4
 
-  name: Section 2.6 - Full Text
+  / Section 2.6 - Full Text
   path FullText
-    name: Changes in Extreme Events
+    / Changes in Extreme Events
     step
-      include
-        - Chapters.2.2_6.SectionDoc
-        - Chapters.2.2_6.2_6_1.SectionDoc
-        - Chapters.2.2_6.2_6_2.SectionDoc
-        - Chapters.2.2_6.2_6_2.2_6_2_1.SectionDoc
-        - Chapters.2.2_6.2_6_2.2_6_2_2.SectionDoc
-        - Chapters.2.2_6.2_6_2.2_6_2_3.SectionDoc
-        - Chapters.2.2_6.2_6_2.2_6_2_4.SectionDoc
-        - Chapters.2.2_6.2_6_3.SectionDoc
-        - Chapters.2.2_6.2_6_4.SectionDoc
+      --
+        Chapters.2.2_6.SectionDoc
+        Chapters.2.2_6.2_6_1.SectionDoc
+        Chapters.2.2_6.2_6_2.SectionDoc
+        Chapters.2.2_6.2_6_2.2_6_2_1.SectionDoc
+        Chapters.2.2_6.2_6_2.2_6_2_2.SectionDoc
+        Chapters.2.2_6.2_6_2.2_6_2_3.SectionDoc
+        Chapters.2.2_6.2_6_2.2_6_2_4.SectionDoc
+        Chapters.2.2_6.2_6_3.SectionDoc
+        Chapters.2.2_6.2_6_4.SectionDoc
     

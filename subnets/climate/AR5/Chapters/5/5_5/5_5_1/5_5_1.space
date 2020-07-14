@@ -1,6 +1,6 @@
 
 public: ar5-5.5.1
-name: Section 5.5.1
+/ Section 5.5.1
 title: 5.5.1 - Temperature
 section 5_5_1
 
@@ -11,17 +11,17 @@ section 5_5_1
 
   
 
-  include
-    - 5_5_1_1
-    - 5_5_1_2
-    - 5_5_1_3
+  --
+    5_5_1_1
+    5_5_1_2
+    5_5_1_3
 
-  name: Section 5.5.1 - Full Text
+  / Section 5.5.1 - Full Text
   path FullText
-    name: Northern Hemisphere Mid to High Latitudes
+    / Northern Hemisphere Mid to High Latitudes
     step
-      include
-        - Chapters.5.5_5.5_5_1.5_5_1_1.SectionDoc
-        - Chapters.5.5_5.5_5_1.5_5_1_2.SectionDoc
-        - Chapters.5.5_5.5_5_1.5_5_1_3.SectionDoc
+      --
+        Chapters.5.5_5.5_5_1.5_5_1_1.SectionDoc
+        Chapters.5.5_5.5_5_1.5_5_1_2.SectionDoc
+        Chapters.5.5_5.5_5_1.5_5_1_3.SectionDoc
     

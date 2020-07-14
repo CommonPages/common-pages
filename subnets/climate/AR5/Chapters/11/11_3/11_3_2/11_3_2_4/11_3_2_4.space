@@ -1,6 +1,6 @@
 
 public: ar5-11.3.2.4
-name: Section 11.3.2.4
+/ Section 11.3.2.4
 title: 11.3.2.4 - Atmospheric Circulation
 section 11_3_2_4
 
@@ -11,17 +11,17 @@ section 11_3_2_4
 
   
 
-  include
-    - 11_3_2_4_1
-    - 11_3_2_4_2
-    - 11_3_2_4_3
+  --
+    11_3_2_4_1
+    11_3_2_4_2
+    11_3_2_4_3
 
-  name: Section 11.3.2.4 - Full Text
+  / Section 11.3.2.4 - Full Text
   path FullText
-    name: Northern Hemisphere extratropical circulation
+    / Northern Hemisphere extratropical circulation
     step
-      include
-        - Chapters.11.11_3.11_3_2.11_3_2_4.11_3_2_4_1.SectionDoc
-        - Chapters.11.11_3.11_3_2.11_3_2_4.11_3_2_4_2.SectionDoc
-        - Chapters.11.11_3.11_3_2.11_3_2_4.11_3_2_4_3.SectionDoc
+      --
+        Chapters.11.11_3.11_3_2.11_3_2_4.11_3_2_4_1.SectionDoc
+        Chapters.11.11_3.11_3_2.11_3_2_4.11_3_2_4_2.SectionDoc
+        Chapters.11.11_3.11_3_2.11_3_2_4.11_3_2_4_3.SectionDoc
     

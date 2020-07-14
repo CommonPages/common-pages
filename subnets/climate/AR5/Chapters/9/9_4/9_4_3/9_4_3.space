@@ -1,6 +1,6 @@
 
 public: ar5-9.4.3
-name: Section 9.4.3
+/ Section 9.4.3
 title: 9.4.3 - Sea Ice
 section 9_4_3
 
@@ -11,14 +11,14 @@ section 9_4_3
 
   insert SectionDoc
 
-  include
-    - 9_4_3_1
+  --
+    9_4_3_1
 
-  name: Section 9.4.3 - Full Text
+  / Section 9.4.3 - Full Text
   path FullText
-    name: Sea Ice
+    / Sea Ice
     step
-      include
-        - Chapters.9.9_4.9_4_3.SectionDoc
-        - Chapters.9.9_4.9_4_3.9_4_3_1.SectionDoc
+      --
+        Chapters.9.9_4.9_4_3.SectionDoc
+        Chapters.9.9_4.9_4_3.9_4_3_1.SectionDoc
     

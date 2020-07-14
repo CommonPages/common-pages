@@ -1,6 +1,6 @@
 
 public: ar5-11.3.5.1
-name: Section 11.3.5.1
+/ Section 11.3.5.1
 title: 11.3.5.1 - Reactive Greenhouse Gases and Aerosols
 section 11_3_5_1
 
@@ -11,18 +11,18 @@ section 11_3_5_1
 
   insert SectionDoc
 
-  include
-    - 11_3_5_1_1
-    - 11_3_5_1_2
-    - 11_3_5_1_3
+  --
+    11_3_5_1_1
+    11_3_5_1_2
+    11_3_5_1_3
 
-  name: Section 11.3.5.1 - Full Text
+  / Section 11.3.5.1 - Full Text
   path FullText
-    name: Reactive Greenhouse Gases and Aerosols
+    / Reactive Greenhouse Gases and Aerosols
     step
-      include
-        - Chapters.11.11_3.11_3_5.11_3_5_1.SectionDoc
-        - Chapters.11.11_3.11_3_5.11_3_5_1.11_3_5_1_1.SectionDoc
-        - Chapters.11.11_3.11_3_5.11_3_5_1.11_3_5_1_2.SectionDoc
-        - Chapters.11.11_3.11_3_5.11_3_5_1.11_3_5_1_3.SectionDoc
+      --
+        Chapters.11.11_3.11_3_5.11_3_5_1.SectionDoc
+        Chapters.11.11_3.11_3_5.11_3_5_1.11_3_5_1_1.SectionDoc
+        Chapters.11.11_3.11_3_5.11_3_5_1.11_3_5_1_2.SectionDoc
+        Chapters.11.11_3.11_3_5.11_3_5_1.11_3_5_1_3.SectionDoc
     

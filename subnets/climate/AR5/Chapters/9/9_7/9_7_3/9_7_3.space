@@ -1,6 +1,6 @@
 
 public: ar5-9.7.3
-name: Section 9.7.3
+/ Section 9.7.3
 title: 9.7.3 - Climate Sensitivity and Model Performance
 section 9_7_3
 
@@ -11,18 +11,18 @@ section 9_7_3
 
   insert SectionDoc
 
-  include
-    - 9_7_3_1
-    - 9_7_3_2
-    - 9_7_3_3
+  --
+    9_7_3_1
+    9_7_3_2
+    9_7_3_3
 
-  name: Section 9.7.3 - Full Text
+  / Section 9.7.3 - Full Text
   path FullText
-    name: Climate Sensitivity and Model Performance
+    / Climate Sensitivity and Model Performance
     step
-      include
-        - Chapters.9.9_7.9_7_3.SectionDoc
-        - Chapters.9.9_7.9_7_3.9_7_3_1.SectionDoc
-        - Chapters.9.9_7.9_7_3.9_7_3_2.SectionDoc
-        - Chapters.9.9_7.9_7_3.9_7_3_3.SectionDoc
+      --
+        Chapters.9.9_7.9_7_3.SectionDoc
+        Chapters.9.9_7.9_7_3.9_7_3_1.SectionDoc
+        Chapters.9.9_7.9_7_3.9_7_3_2.SectionDoc
+        Chapters.9.9_7.9_7_3.9_7_3_3.SectionDoc
     

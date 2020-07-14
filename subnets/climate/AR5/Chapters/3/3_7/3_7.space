@@ -1,6 +1,6 @@
 
 public: ar5-3.7
-name: Section 3.7
+/ Section 3.7
 title: 3.7 - Sea Level Change, Including Extremes
 section 3_7
 
@@ -11,23 +11,23 @@ section 3_7
 
   
 
-  include
-    - 3_7_1
-    - 3_7_2
-    - 3_7_3
-    - 3_7_4
-    - 3_7_5
-    - 3_7_6
+  --
+    3_7_1
+    3_7_2
+    3_7_3
+    3_7_4
+    3_7_5
+    3_7_6
 
-  name: Section 3.7 - Full Text
+  / Section 3.7 - Full Text
   path FullText
-    name: Introduction and Overview of Sea Level Measurements
+    / Introduction and Overview of Sea Level Measurements
     step
-      include
-        - Chapters.3.3_7.3_7_1.SectionDoc
-        - Chapters.3.3_7.3_7_2.SectionDoc
-        - Chapters.3.3_7.3_7_3.SectionDoc
-        - Chapters.3.3_7.3_7_4.SectionDoc
-        - Chapters.3.3_7.3_7_5.SectionDoc
-        - Chapters.3.3_7.3_7_6.SectionDoc
+      --
+        Chapters.3.3_7.3_7_1.SectionDoc
+        Chapters.3.3_7.3_7_2.SectionDoc
+        Chapters.3.3_7.3_7_3.SectionDoc
+        Chapters.3.3_7.3_7_4.SectionDoc
+        Chapters.3.3_7.3_7_5.SectionDoc
+        Chapters.3.3_7.3_7_6.SectionDoc
     

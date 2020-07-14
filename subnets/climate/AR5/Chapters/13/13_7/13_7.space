@@ -1,6 +1,6 @@
 
 public: ar5-13.7
-name: Section 13.7
+/ Section 13.7
 title: 13.7 - Projections of 21st Century Sea Level Extremes and Waves
 section 13_7
 
@@ -11,19 +11,19 @@ section 13_7
 
   insert SectionDoc
 
-  include
-    - 13_7_1
-    - 13_7_2
-    - 13_7_3
+  --
+    13_7_1
+    13_7_2
+    13_7_3
 
-  name: Section 13.7 - Full Text
+  / Section 13.7 - Full Text
   path FullText
-    name: Projections of 21st Century Sea Level Extremes and Waves
+    / Projections of 21st Century Sea Level Extremes and Waves
     step
-      include
-        - Chapters.13.13_7.SectionDoc
-        - Chapters.13.13_7.13_7_1.SectionDoc
-        - Chapters.13.13_7.13_7_2.13_7_2_1.SectionDoc
-        - Chapters.13.13_7.13_7_2.13_7_2_2.SectionDoc
-        - Chapters.13.13_7.13_7_3.SectionDoc
+      --
+        Chapters.13.13_7.SectionDoc
+        Chapters.13.13_7.13_7_1.SectionDoc
+        Chapters.13.13_7.13_7_2.13_7_2_1.SectionDoc
+        Chapters.13.13_7.13_7_2.13_7_2_2.SectionDoc
+        Chapters.13.13_7.13_7_3.SectionDoc
     

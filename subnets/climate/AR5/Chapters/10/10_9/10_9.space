@@ -1,6 +1,6 @@
 
 public: ar5-10.9
-name: Section 10.9
+/ Section 10.9
 title: 10.9 - Synthesis
 section 10_9
 
@@ -11,16 +11,16 @@ section 10_9
 
   insert SectionDoc
 
-  include
-    - 10_9_1
-    - 10_9_2
+  --
+    10_9_1
+    10_9_2
 
-  name: Section 10.9 - Full Text
+  / Section 10.9 - Full Text
   path FullText
-    name: Synthesis
+    / Synthesis
     step
-      include
-        - Chapters.10.10_9.SectionDoc
-        - Chapters.10.10_9.10_9_1.SectionDoc
-        - Chapters.10.10_9.10_9_2.SectionDoc
+      --
+        Chapters.10.10_9.SectionDoc
+        Chapters.10.10_9.10_9_1.SectionDoc
+        Chapters.10.10_9.10_9_2.SectionDoc
     

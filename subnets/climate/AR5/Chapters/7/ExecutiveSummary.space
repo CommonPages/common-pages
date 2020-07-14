@@ -4,8 +4,8 @@ name: Chapter 7 - Conclusions
 lead: Formal conclusions presented in Chapter 7.
 conclusions ExecutiveSummary
 
-  insert text
-    | Clouds and aerosols continue to contribute the largest {Topics.*Uncertainty uncertainty} to estimates and interpretations of the Earth’s changing {Topics.*Radiation_Budgets energy budget}. This chapter focuses on process understanding and considers observations, theory and models to assess how clouds and aerosols contribute and respond to climate change. The following conclusions are drawn.
+  >>>
+    Clouds and aerosols continue to contribute the largest {Topics.*Uncertainty uncertainty} to estimates and interpretations of the Earth’s changing {Topics.*Radiation_Budgets energy budget}. This chapter focuses on process understanding and considers observations, theory and models to assess how clouds and aerosols contribute and respond to climate change. The following conclusions are drawn.
 
   name: Progress in Understanding
 

@@ -1,6 +1,6 @@
 
 public: ar5-9.5.4
-name: Section 9.5.4
+/ Section 9.5.4
 title: 9.5.4 - Extreme Events
 section 9_5_4
 
@@ -11,22 +11,22 @@ section 9_5_4
 
   insert SectionDoc
 
-  include
-    - 9_5_4_1
-    - 9_5_4_2
-    - 9_5_4_3
-    - 9_5_4_4
-    - 9_5_4_5
+  --
+    9_5_4_1
+    9_5_4_2
+    9_5_4_3
+    9_5_4_4
+    9_5_4_5
 
-  name: Section 9.5.4 - Full Text
+  / Section 9.5.4 - Full Text
   path FullText
-    name: Extreme Events
+    / Extreme Events
     step
-      include
-        - Chapters.9.9_5.9_5_4.SectionDoc
-        - Chapters.9.9_5.9_5_4.9_5_4_1.SectionDoc
-        - Chapters.9.9_5.9_5_4.9_5_4_2.SectionDoc
-        - Chapters.9.9_5.9_5_4.9_5_4_3.SectionDoc
-        - Chapters.9.9_5.9_5_4.9_5_4_4.SectionDoc
-        - Chapters.9.9_5.9_5_4.9_5_4_5.SectionDoc
+      --
+        Chapters.9.9_5.9_5_4.SectionDoc
+        Chapters.9.9_5.9_5_4.9_5_4_1.SectionDoc
+        Chapters.9.9_5.9_5_4.9_5_4_2.SectionDoc
+        Chapters.9.9_5.9_5_4.9_5_4_3.SectionDoc
+        Chapters.9.9_5.9_5_4.9_5_4_4.SectionDoc
+        Chapters.9.9_5.9_5_4.9_5_4_5.SectionDoc
     

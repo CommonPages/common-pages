@@ -1,6 +1,6 @@
 
 public: ar5-12.3.2
-name: Section 12.3.2
+/ Section 12.3.2
 title: 12.3.2 - Implementation of Forcings in Coupled Model Intercomparison Project Phase 5 Experiments
 section 12_3_2
 
@@ -11,16 +11,16 @@ section 12_3_2
 
   insert SectionDoc
 
-  include
-    - 12_3_2_1
-    - 12_3_2_2
+  --
+    12_3_2_1
+    12_3_2_2
 
-  name: Section 12.3.2 - Full Text
+  / Section 12.3.2 - Full Text
   path FullText
-    name: Implementation of Forcings in Coupled Model Intercomparison Project Phase 5 Experiments
+    / Implementation of Forcings in Coupled Model Intercomparison Project Phase 5 Experiments
     step
-      include
-        - Chapters.12.12_3.12_3_2.SectionDoc
-        - Chapters.12.12_3.12_3_2.12_3_2_1.SectionDoc
-        - Chapters.12.12_3.12_3_2.12_3_2_2.SectionDoc
+      --
+        Chapters.12.12_3.12_3_2.SectionDoc
+        Chapters.12.12_3.12_3_2.12_3_2_1.SectionDoc
+        Chapters.12.12_3.12_3_2.12_3_2_2.SectionDoc
     

@@ -1,6 +1,6 @@
 
 public: ar5-14.6
-name: Section 14.6
+/ Section 14.6
 title: 14.6 - Large-scale Storm Systems
 section 14_6
 
@@ -11,21 +11,21 @@ section 14_6
 
   
 
-  include
-    - 14_6_1
-    - 14_6_2
-    - 14_6_3
+  --
+    14_6_1
+    14_6_2
+    14_6_3
 
-  name: Section 14.6 - Full Text
+  / Section 14.6 - Full Text
   path FullText
-    name: Tropical Cyclones
+    / Tropical Cyclones
     step
-      include
-        - Chapters.14.14_6.14_6_1.SectionDoc
-        - Chapters.14.14_6.14_6_1.14_6_1_1.SectionDoc
-        - Chapters.14.14_6.14_6_1.14_6_1_2.SectionDoc
-        - Chapters.14.14_6.14_6_2.SectionDoc
-        - Chapters.14.14_6.14_6_2.14_6_2_1.SectionDoc
-        - Chapters.14.14_6.14_6_2.14_6_2_2.SectionDoc
-        - Chapters.14.14_6.14_6_3.SectionDoc
+      --
+        Chapters.14.14_6.14_6_1.SectionDoc
+        Chapters.14.14_6.14_6_1.14_6_1_1.SectionDoc
+        Chapters.14.14_6.14_6_1.14_6_1_2.SectionDoc
+        Chapters.14.14_6.14_6_2.SectionDoc
+        Chapters.14.14_6.14_6_2.14_6_2_1.SectionDoc
+        Chapters.14.14_6.14_6_2.14_6_2_2.SectionDoc
+        Chapters.14.14_6.14_6_3.SectionDoc
     

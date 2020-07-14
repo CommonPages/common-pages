@@ -1,6 +1,6 @@
 
 public: ar5-13.4
-name: Section 13.4
+/ Section 13.4
 title: 13.4 - Projected Contributions to Global Mean Sea Level
 section 13_4
 
@@ -11,25 +11,25 @@ section 13_4
 
   
 
-  include
-    - 13_4_1
-    - 13_4_2
-    - 13_4_3
-    - 13_4_4
-    - 13_4_5
+  --
+    13_4_1
+    13_4_2
+    13_4_3
+    13_4_4
+    13_4_5
 
-  name: Section 13.4 - Full Text
+  / Section 13.4 - Full Text
   path FullText
-    name: Ocean Heat Uptake and Thermal Expansion
+    / Ocean Heat Uptake and Thermal Expansion
     step
-      include
-        - Chapters.13.13_4.13_4_1.SectionDoc
-        - Chapters.13.13_4.13_4_2.SectionDoc
-        - Chapters.13.13_4.13_4_3.13_4_3_1.SectionDoc
-        - Chapters.13.13_4.13_4_3.13_4_3_2.SectionDoc
-        - Chapters.13.13_4.13_4_3.13_4_3_3.SectionDoc
-        - Chapters.13.13_4.13_4_4.13_4_4_1.SectionDoc
-        - Chapters.13.13_4.13_4_4.13_4_4_2.SectionDoc
-        - Chapters.13.13_4.13_4_4.13_4_4_3.SectionDoc
-        - Chapters.13.13_4.13_4_5.SectionDoc
+      --
+        Chapters.13.13_4.13_4_1.SectionDoc
+        Chapters.13.13_4.13_4_2.SectionDoc
+        Chapters.13.13_4.13_4_3.13_4_3_1.SectionDoc
+        Chapters.13.13_4.13_4_3.13_4_3_2.SectionDoc
+        Chapters.13.13_4.13_4_3.13_4_3_3.SectionDoc
+        Chapters.13.13_4.13_4_4.13_4_4_1.SectionDoc
+        Chapters.13.13_4.13_4_4.13_4_4_2.SectionDoc
+        Chapters.13.13_4.13_4_4.13_4_4_3.SectionDoc
+        Chapters.13.13_4.13_4_5.SectionDoc
     

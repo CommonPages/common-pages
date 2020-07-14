@@ -1,6 +1,6 @@
 
 public: ar5-12.5.5.8
-name: Section 12.5.5.8
+/ Section 12.5.5.8
 title: 12.5.5.8 - Hydrologic Variability: Long-Term Droughts and Monsoonal Circulation
 section 12_5_5_8
 
@@ -11,15 +11,15 @@ section 12_5_5_8
 
   
 
-  include
-    - 12_5_5_8_1
-    - 12_5_5_8_2
+  --
+    12_5_5_8_1
+    12_5_5_8_2
 
-  name: Section 12.5.5.8 - Full Text
+  / Section 12.5.5.8 - Full Text
   path FullText
-    name: Long-term Droughts
+    / Long-term Droughts
     step
-      include
-        - Chapters.12.12_5.12_5_5.12_5_5_8.12_5_5_8_1.SectionDoc
-        - Chapters.12.12_5.12_5_5.12_5_5_8.12_5_5_8_2.SectionDoc
+      --
+        Chapters.12.12_5.12_5_5.12_5_5_8.12_5_5_8_1.SectionDoc
+        Chapters.12.12_5.12_5_5.12_5_5_8.12_5_5_8_2.SectionDoc
     

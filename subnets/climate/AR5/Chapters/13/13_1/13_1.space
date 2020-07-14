@@ -1,6 +1,6 @@
 
 public: ar5-13.1
-name: Section 13.1
+/ Section 13.1
 title: 13.1 - Components and Models of Sea Level Change
 section 13_1
 
@@ -11,20 +11,20 @@ section 13_1
 
   
 
-  include
-    - 13_1_1
-    - 13_1_2
-    - 13_1_3
-    - 13_1_4
+  --
+    13_1_1
+    13_1_2
+    13_1_3
+    13_1_4
 
-  name: Section 13.1 - Full Text
+  / Section 13.1 - Full Text
   path FullText
-    name: Introduction and Chapter Overview
+    / Introduction and Chapter Overview
     step
-      include
-        - Chapters.13.13_1.13_1_1.SectionDoc
-        - Chapters.13.13_1.13_1_2.SectionDoc
-        - Chapters.13.13_1.13_1_3.SectionDoc
-        - Chapters.13.13_1.13_1_4.SectionDoc
-        - Chapters.13.13_1.13_1_4.13_1_4_1.SectionDoc
+      --
+        Chapters.13.13_1.13_1_1.SectionDoc
+        Chapters.13.13_1.13_1_2.SectionDoc
+        Chapters.13.13_1.13_1_3.SectionDoc
+        Chapters.13.13_1.13_1_4.SectionDoc
+        Chapters.13.13_1.13_1_4.13_1_4_1.SectionDoc
     

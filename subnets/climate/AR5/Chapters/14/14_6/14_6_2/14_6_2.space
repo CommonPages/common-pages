@@ -1,6 +1,6 @@
 
 public: ar5-14.6.2
-name: Section 14.6.2
+/ Section 14.6.2
 title: 14.6.2 - Extratropical Cyclones
 section 14_6_2
 
@@ -11,16 +11,16 @@ section 14_6_2
 
   insert SectionDoc
 
-  include
-    - 14_6_2_1
-    - 14_6_2_2
+  --
+    14_6_2_1
+    14_6_2_2
 
-  name: Section 14.6.2 - Full Text
+  / Section 14.6.2 - Full Text
   path FullText
-    name: Extratropical Cyclones
+    / Extratropical Cyclones
     step
-      include
-        - Chapters.14.14_6.14_6_2.SectionDoc
-        - Chapters.14.14_6.14_6_2.14_6_2_1.SectionDoc
-        - Chapters.14.14_6.14_6_2.14_6_2_2.SectionDoc
+      --
+        Chapters.14.14_6.14_6_2.SectionDoc
+        Chapters.14.14_6.14_6_2.14_6_2_1.SectionDoc
+        Chapters.14.14_6.14_6_2.14_6_2_2.SectionDoc
     

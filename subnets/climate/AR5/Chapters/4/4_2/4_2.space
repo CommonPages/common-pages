@@ -1,6 +1,6 @@
 
 public: ar5-4.2
-name: Section 4.2
+/ Section 4.2
 title: 4.2 - Sea Ice
 section 4_2
 
@@ -11,33 +11,33 @@ section 4_2
 
   
 
-  include
-    - 4_2_1
-    - 4_2_2
-    - 4_2_3
+  --
+    4_2_1
+    4_2_2
+    4_2_3
 
-  name: Section 4.2 - Full Text
+  / Section 4.2 - Full Text
   path FullText
-    name: Background
+    / Background
     step
-      include
-        - Chapters.4.4_2.4_2_1.SectionDoc
-        - Chapters.4.4_2.4_2_2.SectionDoc
-        - Chapters.4.4_2.4_2_2.4_2_2_1.SectionDoc
-        - Chapters.4.4_2.4_2_2.4_2_2_2.SectionDoc
-        - Chapters.4.4_2.4_2_2.4_2_2_3.SectionDoc
-        - Chapters.4.4_2.4_2_2.4_2_2_4.SectionDoc
-        - Chapters.4.4_2.4_2_2.4_2_2_5.SectionDoc
-        - Chapters.4.4_2.4_2_2.4_2_2_6.SectionDoc
-        - Chapters.4.4_2.4_2_2.4_2_2_7.SectionDoc
-        - Chapters.4.4_2.4_2_2.4_2_2_8.SectionDoc
-        - Chapters.4.4_2.4_2_2.4_2_2_9.SectionDoc
-        - Chapters.4.4_2.4_2_3.SectionDoc
-        - Chapters.4.4_2.4_2_3.4_2_3_1.SectionDoc
-        - Chapters.4.4_2.4_2_3.4_2_3_2.SectionDoc
-        - Chapters.4.4_2.4_2_3.4_2_3_3.SectionDoc
-        - Chapters.4.4_2.4_2_3.4_2_3_4.SectionDoc
-        - Chapters.4.4_2.4_2_3.4_2_3_5.SectionDoc
-        - Chapters.4.4_2.4_2_3.4_2_3_6.SectionDoc
-        - Chapters.4.4_2.4_2_3.4_2_3_7.SectionDoc
+      --
+        Chapters.4.4_2.4_2_1.SectionDoc
+        Chapters.4.4_2.4_2_2.SectionDoc
+        Chapters.4.4_2.4_2_2.4_2_2_1.SectionDoc
+        Chapters.4.4_2.4_2_2.4_2_2_2.SectionDoc
+        Chapters.4.4_2.4_2_2.4_2_2_3.SectionDoc
+        Chapters.4.4_2.4_2_2.4_2_2_4.SectionDoc
+        Chapters.4.4_2.4_2_2.4_2_2_5.SectionDoc
+        Chapters.4.4_2.4_2_2.4_2_2_6.SectionDoc
+        Chapters.4.4_2.4_2_2.4_2_2_7.SectionDoc
+        Chapters.4.4_2.4_2_2.4_2_2_8.SectionDoc
+        Chapters.4.4_2.4_2_2.4_2_2_9.SectionDoc
+        Chapters.4.4_2.4_2_3.SectionDoc
+        Chapters.4.4_2.4_2_3.4_2_3_1.SectionDoc
+        Chapters.4.4_2.4_2_3.4_2_3_2.SectionDoc
+        Chapters.4.4_2.4_2_3.4_2_3_3.SectionDoc
+        Chapters.4.4_2.4_2_3.4_2_3_4.SectionDoc
+        Chapters.4.4_2.4_2_3.4_2_3_5.SectionDoc
+        Chapters.4.4_2.4_2_3.4_2_3_6.SectionDoc
+        Chapters.4.4_2.4_2_3.4_2_3_7.SectionDoc
     

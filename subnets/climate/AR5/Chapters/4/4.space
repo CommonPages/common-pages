@@ -1,8 +1,8 @@
 
 public: ar5-4
-name: Chapter 4
-title: Chapter 4 - Observations: Cryosphere
-lead: This chapter describes the current state of the cryosphere and its individual components, with a focus on recent improvements in understanding of the observed variability, changes and trends.
+/ Chapter 4
+// Chapter 4 - Observations: Cryosphere
+/// This chapter describes the current state of the cryosphere and its individual components, with a focus on recent improvements in understanding of the observed variability, changes and trends.
 chapterspace 4
 
 
@@ -10,128 +10,128 @@ chapterspace 4
   import cite.4._
 
   index: hide
-  title: Chapter 4 - Observations: Cryosphere
-  lead: This chapter describes the current state of the cryosphere and its individual components, with a focus on recent improvements in understanding of the observed variability, changes and trends.
+  // Chapter 4 - Observations: Cryosphere
+  /// This chapter describes the current state of the cryosphere and its individual components, with a focus on recent improvements in understanding of the observed variability, changes and trends.
   chapterstory ChapterStory
     |The {Glossary.*Cryosphere cryosphere} is the collective term for the components of the {Topics.*Climate_System Earth system} that contain a substantial fraction of water in the frozen state. The cryosphere is often referred to as a ‘natural thermometer’. It is not, however, simply a passive indicator of climate change; changes in each component of the cryosphere have a significant and lasting impact on physical, biological and social systems. For example, ice sheets and glaciers exert a major control on global {Topics.*Sea_Level sea level}. Observations show that the cryosphere has been in transition during the last few decades, characterized by a general decline in all components. The strong and significant changes reported in {cite.1.'IPCC_2007 AR4} have continued, and in many cases accelerated. The overall consistency in the negative changes, and the acceleration of these changes in recent decades, provides a strong signal of climate change.
     apply FullText
 
-    embed
-      - FAQ_4_1
-      - FAQ_4_2
-      - Box_4_1
-      - Appendix_4_A
+    ---
+      FAQ_4_1
+      FAQ_4_2
+      Box_4_1
+      Appendix_4_A
 
-    include
-      - 4_1
-      - 4_2
-      - 4_3
-      - 4_4
-      - 4_5
-      - 4_6
-      - 4_7
-      - 4_8
+    --
+      4_1
+      4_2
+      4_3
+      4_4
+      4_5
+      4_6
+      4_7
+      4_8
 
   apply FullText
 
   
 
-  include
-    - 4_1
-    - 4_2
-    - 4_3
-    - 4_4
-    - 4_5
-    - 4_6
-    - 4_7
-    - 4_8
+  --
+    4_1
+    4_2
+    4_3
+    4_4
+    4_5
+    4_6
+    4_7
+    4_8
 
-  name: Chapter 4 - Full Text
+  / Chapter 4 - Full Text
   path FullText
-    name: Introduction
+    / Introduction
     step
-      include
-        - Chapters.4.4_1.SectionDoc
-    name: Background
+      --
+        Chapters.4.4_1.SectionDoc
+    / Background
     step
-      include
-        - Chapters.4.4_2.4_2_1.SectionDoc
-        - Chapters.4.4_2.4_2_2.SectionDoc
-        - Chapters.4.4_2.4_2_2.4_2_2_1.SectionDoc
-        - Chapters.4.4_2.4_2_2.4_2_2_2.SectionDoc
-        - Chapters.4.4_2.4_2_2.4_2_2_3.SectionDoc
-        - Chapters.4.4_2.4_2_2.4_2_2_4.SectionDoc
-        - Chapters.4.4_2.4_2_2.4_2_2_5.SectionDoc
-        - Chapters.4.4_2.4_2_2.4_2_2_6.SectionDoc
-        - Chapters.4.4_2.4_2_2.4_2_2_7.SectionDoc
-        - Chapters.4.4_2.4_2_2.4_2_2_8.SectionDoc
-        - Chapters.4.4_2.4_2_2.4_2_2_9.SectionDoc
-        - Chapters.4.4_2.4_2_3.SectionDoc
-        - Chapters.4.4_2.4_2_3.4_2_3_1.SectionDoc
-        - Chapters.4.4_2.4_2_3.4_2_3_2.SectionDoc
-        - Chapters.4.4_2.4_2_3.4_2_3_3.SectionDoc
-        - Chapters.4.4_2.4_2_3.4_2_3_4.SectionDoc
-        - Chapters.4.4_2.4_2_3.4_2_3_5.SectionDoc
-        - Chapters.4.4_2.4_2_3.4_2_3_6.SectionDoc
-        - Chapters.4.4_2.4_2_3.4_2_3_7.SectionDoc
-    name: Glaciers
+      --
+        Chapters.4.4_2.4_2_1.SectionDoc
+        Chapters.4.4_2.4_2_2.SectionDoc
+        Chapters.4.4_2.4_2_2.4_2_2_1.SectionDoc
+        Chapters.4.4_2.4_2_2.4_2_2_2.SectionDoc
+        Chapters.4.4_2.4_2_2.4_2_2_3.SectionDoc
+        Chapters.4.4_2.4_2_2.4_2_2_4.SectionDoc
+        Chapters.4.4_2.4_2_2.4_2_2_5.SectionDoc
+        Chapters.4.4_2.4_2_2.4_2_2_6.SectionDoc
+        Chapters.4.4_2.4_2_2.4_2_2_7.SectionDoc
+        Chapters.4.4_2.4_2_2.4_2_2_8.SectionDoc
+        Chapters.4.4_2.4_2_2.4_2_2_9.SectionDoc
+        Chapters.4.4_2.4_2_3.SectionDoc
+        Chapters.4.4_2.4_2_3.4_2_3_1.SectionDoc
+        Chapters.4.4_2.4_2_3.4_2_3_2.SectionDoc
+        Chapters.4.4_2.4_2_3.4_2_3_3.SectionDoc
+        Chapters.4.4_2.4_2_3.4_2_3_4.SectionDoc
+        Chapters.4.4_2.4_2_3.4_2_3_5.SectionDoc
+        Chapters.4.4_2.4_2_3.4_2_3_6.SectionDoc
+        Chapters.4.4_2.4_2_3.4_2_3_7.SectionDoc
+    / Glaciers
     step
-      include
-        - Chapters.4.4_3.SectionDoc
-        - Chapters.4.4_3.4_3_1.SectionDoc
-        - Chapters.4.4_3.4_3_2.SectionDoc
-        - Chapters.4.4_3.4_3_2.4_3_2_1.SectionDoc
-        - Chapters.4.4_3.4_3_2.4_3_2_2.SectionDoc
-        - Chapters.4.4_3.4_3_2.4_3_2_3.SectionDoc
-        - Chapters.4.4_3.4_3_3.4_3_3_1.SectionDoc
-        - Chapters.4.4_3.4_3_3.4_3_3_2.SectionDoc
-        - Chapters.4.4_3.4_3_3.4_3_3_3.SectionDoc
-        - Chapters.4.4_3.4_3_3.4_3_3_4.SectionDoc
-    name: Background
+      --
+        Chapters.4.4_3.SectionDoc
+        Chapters.4.4_3.4_3_1.SectionDoc
+        Chapters.4.4_3.4_3_2.SectionDoc
+        Chapters.4.4_3.4_3_2.4_3_2_1.SectionDoc
+        Chapters.4.4_3.4_3_2.4_3_2_2.SectionDoc
+        Chapters.4.4_3.4_3_2.4_3_2_3.SectionDoc
+        Chapters.4.4_3.4_3_3.4_3_3_1.SectionDoc
+        Chapters.4.4_3.4_3_3.4_3_3_2.SectionDoc
+        Chapters.4.4_3.4_3_3.4_3_3_3.SectionDoc
+        Chapters.4.4_3.4_3_3.4_3_3_4.SectionDoc
+    / Background
     step
-      include
-        - Chapters.4.4_4.4_4_1.SectionDoc
-        - Chapters.4.4_4.4_4_2.SectionDoc
-        - Chapters.4.4_4.4_4_2.4_4_2_1.SectionDoc
-        - Chapters.4.4_4.4_4_2.4_4_2_1.4_4_2_1_1.SectionDoc
-        - Chapters.4.4_4.4_4_2.4_4_2_1.4_4_2_1_2.SectionDoc
-        - Chapters.4.4_4.4_4_2.4_4_2_1.4_4_2_1_3.SectionDoc
-        - Chapters.4.4_4.4_4_2.4_4_2_2.SectionDoc
-        - Chapters.4.4_4.4_4_2.4_4_2_3.SectionDoc
-        - Chapters.4.4_4.4_4_2.4_4_2_4.SectionDoc
-        - Chapters.4.4_4.4_4_3.SectionDoc
-        - Chapters.4.4_4.4_4_4.4_4_4_1.SectionDoc
-        - Chapters.4.4_4.4_4_4.4_4_4_1.4_4_4_1_1.SectionDoc
-        - Chapters.4.4_4.4_4_4.4_4_4_1.4_4_4_1_2.SectionDoc
-        - Chapters.4.4_4.4_4_4.4_4_4_2.4_4_4_2_1.SectionDoc
-        - Chapters.4.4_4.4_4_4.4_4_4_2.4_4_4_2_2.SectionDoc
-        - Chapters.4.4_4.4_4_4.4_4_4_2.4_4_4_2_3.SectionDoc
-        - Chapters.4.4_4.4_4_4.4_4_4_2.4_4_4_2_4.SectionDoc
-        - Chapters.4.4_4.4_4_4.4_4_4_2.4_4_4_2_5.SectionDoc
-        - Chapters.4.4_4.4_4_5.SectionDoc
-    name: Background
+      --
+        Chapters.4.4_4.4_4_1.SectionDoc
+        Chapters.4.4_4.4_4_2.SectionDoc
+        Chapters.4.4_4.4_4_2.4_4_2_1.SectionDoc
+        Chapters.4.4_4.4_4_2.4_4_2_1.4_4_2_1_1.SectionDoc
+        Chapters.4.4_4.4_4_2.4_4_2_1.4_4_2_1_2.SectionDoc
+        Chapters.4.4_4.4_4_2.4_4_2_1.4_4_2_1_3.SectionDoc
+        Chapters.4.4_4.4_4_2.4_4_2_2.SectionDoc
+        Chapters.4.4_4.4_4_2.4_4_2_3.SectionDoc
+        Chapters.4.4_4.4_4_2.4_4_2_4.SectionDoc
+        Chapters.4.4_4.4_4_3.SectionDoc
+        Chapters.4.4_4.4_4_4.4_4_4_1.SectionDoc
+        Chapters.4.4_4.4_4_4.4_4_4_1.4_4_4_1_1.SectionDoc
+        Chapters.4.4_4.4_4_4.4_4_4_1.4_4_4_1_2.SectionDoc
+        Chapters.4.4_4.4_4_4.4_4_4_2.4_4_4_2_1.SectionDoc
+        Chapters.4.4_4.4_4_4.4_4_4_2.4_4_4_2_2.SectionDoc
+        Chapters.4.4_4.4_4_4.4_4_4_2.4_4_4_2_3.SectionDoc
+        Chapters.4.4_4.4_4_4.4_4_4_2.4_4_4_2_4.SectionDoc
+        Chapters.4.4_4.4_4_4.4_4_4_2.4_4_4_2_5.SectionDoc
+        Chapters.4.4_4.4_4_5.SectionDoc
+    / Background
     step
-      include
-        - Chapters.4.4_5.4_5_1.SectionDoc
-        - Chapters.4.4_5.4_5_2.SectionDoc
-        - Chapters.4.4_5.4_5_3.SectionDoc
-        - Chapters.4.4_5.4_5_4.SectionDoc
-    name: Lake and River Ice
+      --
+        Chapters.4.4_5.4_5_1.SectionDoc
+        Chapters.4.4_5.4_5_2.SectionDoc
+        Chapters.4.4_5.4_5_3.SectionDoc
+        Chapters.4.4_5.4_5_4.SectionDoc
+    / Lake and River Ice
     step
-      include
-        - Chapters.4.4_6.SectionDoc
-    name: Background
+      --
+        Chapters.4.4_6.SectionDoc
+    / Background
     step
-      include
-        - Chapters.4.4_7.4_7_1.SectionDoc
-        - Chapters.4.4_7.4_7_2.4_7_2_1.SectionDoc
-        - Chapters.4.4_7.4_7_2.4_7_2_2.SectionDoc
-        - Chapters.4.4_7.4_7_3.SectionDoc
-        - Chapters.4.4_7.4_7_4.SectionDoc
-        - Chapters.4.4_7.4_7_4.4_7_4_1.SectionDoc
-        - Chapters.4.4_7.4_7_4.4_7_4_2.SectionDoc
-    name: Synthesis
+      --
+        Chapters.4.4_7.4_7_1.SectionDoc
+        Chapters.4.4_7.4_7_2.4_7_2_1.SectionDoc
+        Chapters.4.4_7.4_7_2.4_7_2_2.SectionDoc
+        Chapters.4.4_7.4_7_3.SectionDoc
+        Chapters.4.4_7.4_7_4.SectionDoc
+        Chapters.4.4_7.4_7_4.4_7_4_1.SectionDoc
+        Chapters.4.4_7.4_7_4.4_7_4_2.SectionDoc
+    / Synthesis
     step
-      include
-        - Chapters.4.4_8.SectionDoc
+      --
+        Chapters.4.4_8.SectionDoc
     

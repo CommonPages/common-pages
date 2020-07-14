@@ -1,6 +1,6 @@
 
 public: ar5-13.3
-name: Section 13.3
+/ Section 13.3
 title: 13.3 - Contributions to Global Mean Sea Level Rise During the Instrumental Period
 section 13_3
 
@@ -11,27 +11,27 @@ section 13_3
 
   insert SectionDoc
 
-  include
-    - 13_3_1
-    - 13_3_2
-    - 13_3_3
-    - 13_3_4
-    - 13_3_5
-    - 13_3_6
+  --
+    13_3_1
+    13_3_2
+    13_3_3
+    13_3_4
+    13_3_5
+    13_3_6
 
-  name: Section 13.3 - Full Text
+  / Section 13.3 - Full Text
   path FullText
-    name: Contributions to Global Mean Sea Level Rise During the Instrumental Period
+    / Contributions to Global Mean Sea Level Rise During the Instrumental Period
     step
-      include
-        - Chapters.13.13_3.SectionDoc
-        - Chapters.13.13_3.13_3_1.13_3_1_1.SectionDoc
-        - Chapters.13.13_3.13_3_1.13_3_1_2.SectionDoc
-        - Chapters.13.13_3.13_3_2.13_3_2_1.SectionDoc
-        - Chapters.13.13_3.13_3_2.13_3_2_2.SectionDoc
-        - Chapters.13.13_3.13_3_3.13_3_3_1.SectionDoc
-        - Chapters.13.13_3.13_3_3.13_3_3_2.SectionDoc
-        - Chapters.13.13_3.13_3_4.SectionDoc
-        - Chapters.13.13_3.13_3_5.SectionDoc
-        - Chapters.13.13_3.13_3_6.SectionDoc
+      --
+        Chapters.13.13_3.SectionDoc
+        Chapters.13.13_3.13_3_1.13_3_1_1.SectionDoc
+        Chapters.13.13_3.13_3_1.13_3_1_2.SectionDoc
+        Chapters.13.13_3.13_3_2.13_3_2_1.SectionDoc
+        Chapters.13.13_3.13_3_2.13_3_2_2.SectionDoc
+        Chapters.13.13_3.13_3_3.13_3_3_1.SectionDoc
+        Chapters.13.13_3.13_3_3.13_3_3_2.SectionDoc
+        Chapters.13.13_3.13_3_4.SectionDoc
+        Chapters.13.13_3.13_3_5.SectionDoc
+        Chapters.13.13_3.13_3_6.SectionDoc
     

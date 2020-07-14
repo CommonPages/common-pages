@@ -1,6 +1,6 @@
 
 public: ar5-6.4.6
-name: Section 6.4.6
+/ Section 6.4.6
 title: 6.4.6 - Future Trends in the Nitrogen Cycle and Impact on Carbon Fluxes
 section 6_4_6
 
@@ -11,17 +11,17 @@ section 6_4_6
 
   
 
-  include
-    - 6_4_6_1
-    - 6_4_6_2
-    - 6_4_6_3
+  --
+    6_4_6_1
+    6_4_6_2
+    6_4_6_3
 
-  name: Section 6.4.6 - Full Text
+  / Section 6.4.6 - Full Text
   path FullText
-    name: Projections for Formation of Reactive Nitrogen by Human Activity
+    / Projections for Formation of Reactive Nitrogen by Human Activity
     step
-      include
-        - Chapters.6.6_4.6_4_6.6_4_6_1.SectionDoc
-        - Chapters.6.6_4.6_4_6.6_4_6_2.SectionDoc
-        - Chapters.6.6_4.6_4_6.6_4_6_3.SectionDoc
+      --
+        Chapters.6.6_4.6_4_6.6_4_6_1.SectionDoc
+        Chapters.6.6_4.6_4_6.6_4_6_2.SectionDoc
+        Chapters.6.6_4.6_4_6.6_4_6_3.SectionDoc
     

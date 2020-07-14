@@ -1,6 +1,6 @@
 
 public: ar5-10.3
-name: Section 10.3
+/ Section 10.3
 title: 10.3 - Atmosphere and Surface
 section 10_3
 
@@ -11,33 +11,33 @@ section 10_3
 
   insert SectionDoc
 
-  include
-    - 10_3_1
-    - 10_3_2
-    - 10_3_3
+  --
+    10_3_1
+    10_3_2
+    10_3_3
 
-  name: Section 10.3 - Full Text
+  / Section 10.3 - Full Text
   path FullText
-    name: Atmosphere and Surface
+    / Atmosphere and Surface
     step
-      include
-        - Chapters.10.10_3.SectionDoc
-        - Chapters.10.10_3.10_3_1.SectionDoc
-        - Chapters.10.10_3.10_3_1.10_3_1_1.10_3_1_1_1.SectionDoc
-        - Chapters.10.10_3.10_3_1.10_3_1_1.10_3_1_1_2.SectionDoc
-        - Chapters.10.10_3.10_3_1.10_3_1_1.10_3_1_1_3.SectionDoc
-        - Chapters.10.10_3.10_3_1.10_3_1_1.10_3_1_1_4.SectionDoc
-        - Chapters.10.10_3.10_3_1.10_3_1_2.SectionDoc
-        - Chapters.10.10_3.10_3_1.10_3_1_2.10_3_1_2_1.SectionDoc
-        - Chapters.10.10_3.10_3_1.10_3_1_2.10_3_1_2_2.SectionDoc
-        - Chapters.10.10_3.10_3_1.10_3_1_2.10_3_1_2_3.SectionDoc
-        - Chapters.10.10_3.10_3_2.SectionDoc
-        - Chapters.10.10_3.10_3_2.10_3_2_1.SectionDoc
-        - Chapters.10.10_3.10_3_2.10_3_2_2.SectionDoc
-        - Chapters.10.10_3.10_3_2.10_3_2_3.SectionDoc
-        - Chapters.10.10_3.10_3_3.SectionDoc
-        - Chapters.10.10_3.10_3_3.10_3_3_1.SectionDoc
-        - Chapters.10.10_3.10_3_3.10_3_3_2.SectionDoc
-        - Chapters.10.10_3.10_3_3.10_3_3_3.SectionDoc
-        - Chapters.10.10_3.10_3_3.10_3_3_4.SectionDoc
+      --
+        Chapters.10.10_3.SectionDoc
+        Chapters.10.10_3.10_3_1.SectionDoc
+        Chapters.10.10_3.10_3_1.10_3_1_1.10_3_1_1_1.SectionDoc
+        Chapters.10.10_3.10_3_1.10_3_1_1.10_3_1_1_2.SectionDoc
+        Chapters.10.10_3.10_3_1.10_3_1_1.10_3_1_1_3.SectionDoc
+        Chapters.10.10_3.10_3_1.10_3_1_1.10_3_1_1_4.SectionDoc
+        Chapters.10.10_3.10_3_1.10_3_1_2.SectionDoc
+        Chapters.10.10_3.10_3_1.10_3_1_2.10_3_1_2_1.SectionDoc
+        Chapters.10.10_3.10_3_1.10_3_1_2.10_3_1_2_2.SectionDoc
+        Chapters.10.10_3.10_3_1.10_3_1_2.10_3_1_2_3.SectionDoc
+        Chapters.10.10_3.10_3_2.SectionDoc
+        Chapters.10.10_3.10_3_2.10_3_2_1.SectionDoc
+        Chapters.10.10_3.10_3_2.10_3_2_2.SectionDoc
+        Chapters.10.10_3.10_3_2.10_3_2_3.SectionDoc
+        Chapters.10.10_3.10_3_3.SectionDoc
+        Chapters.10.10_3.10_3_3.10_3_3_1.SectionDoc
+        Chapters.10.10_3.10_3_3.10_3_3_2.SectionDoc
+        Chapters.10.10_3.10_3_3.10_3_3_3.SectionDoc
+        Chapters.10.10_3.10_3_3.10_3_3_4.SectionDoc
     

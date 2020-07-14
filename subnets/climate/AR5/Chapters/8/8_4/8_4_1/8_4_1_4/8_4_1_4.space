@@ -1,6 +1,6 @@
 
 public: ar5-8.4.1.4
-name: Section 8.4.1.4
+/ Section 8.4.1.4
 title: 8.4.1.4 - Variations in Spectral Irradiance
 section 8_4_1_4
 
@@ -11,17 +11,17 @@ section 8_4_1_4
 
   
 
-  include
-    - 8_4_1_4_1
-    - 8_4_1_4_2
-    - 8_4_1_4_3
+  --
+    8_4_1_4_1
+    8_4_1_4_2
+    8_4_1_4_3
 
-  name: Section 8.4.1.4 - Full Text
+  / Section 8.4.1.4 - Full Text
   path FullText
-    name: Impacts of ultraviolet variations on the stratosphere
+    / Impacts of ultraviolet variations on the stratosphere
     step
-      include
-        - Chapters.8.8_4.8_4_1.8_4_1_4.8_4_1_4_1.SectionDoc
-        - Chapters.8.8_4.8_4_1.8_4_1_4.8_4_1_4_2.SectionDoc
-        - Chapters.8.8_4.8_4_1.8_4_1_4.8_4_1_4_3.SectionDoc
+      --
+        Chapters.8.8_4.8_4_1.8_4_1_4.8_4_1_4_1.SectionDoc
+        Chapters.8.8_4.8_4_1.8_4_1_4.8_4_1_4_2.SectionDoc
+        Chapters.8.8_4.8_4_1.8_4_1_4.8_4_1_4_3.SectionDoc
     

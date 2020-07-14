@@ -1,6 +1,6 @@
 
 public: ar5-5.3.3
-name: Section 5.3.3
+/ Section 5.3.3
 title: 5.3.3 - Last Glacial Maximum and Equilibrium Climate Sensitivity
 section 5_3_3
 
@@ -11,16 +11,16 @@ section 5_3_3
 
   insert SectionDoc
 
-  include
-    - 5_3_3_1
-    - 5_3_3_2
+  --
+    5_3_3_1
+    5_3_3_2
 
-  name: Section 5.3.3 - Full Text
+  / Section 5.3.3 - Full Text
   path FullText
-    name: Last Glacial Maximum and Equilibrium Climate Sensitivity
+    / Last Glacial Maximum and Equilibrium Climate Sensitivity
     step
-      include
-        - Chapters.5.5_3.5_3_3.SectionDoc
-        - Chapters.5.5_3.5_3_3.5_3_3_1.SectionDoc
-        - Chapters.5.5_3.5_3_3.5_3_3_2.SectionDoc
+      --
+        Chapters.5.5_3.5_3_3.SectionDoc
+        Chapters.5.5_3.5_3_3.5_3_3_1.SectionDoc
+        Chapters.5.5_3.5_3_3.5_3_3_2.SectionDoc
     

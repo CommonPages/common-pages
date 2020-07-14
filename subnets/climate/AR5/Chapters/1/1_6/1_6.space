@@ -1,6 +1,6 @@
 
 public: ar5-1.6
-name: Section 1.6
+/ Section 1.6
 title: 1.6 - Overview and Road Map to the Rest of the Report
 section 1_6
 
@@ -11,14 +11,14 @@ section 1_6
 
   insert SectionDoc
 
-  include
-    - 1_6_1
+  --
+    1_6_1
 
-  name: Section 1.6 - Full Text
+  / Section 1.6 - Full Text
   path FullText
-    name: Overview and Road Map to the Rest of the Report
+    / Overview and Road Map to the Rest of the Report
     step
-      include
-        - Chapters.1.1_6.SectionDoc
-        - Chapters.1.1_6.1_6_1.SectionDoc
+      --
+        Chapters.1.1_6.SectionDoc
+        Chapters.1.1_6.1_6_1.SectionDoc
     

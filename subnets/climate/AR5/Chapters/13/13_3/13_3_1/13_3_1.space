@@ -1,6 +1,6 @@
 
 public: ar5-13.3.1
-name: Section 13.3.1
+/ Section 13.3.1
 title: 13.3.1 - Thermal Expansion Contribution
 section 13_3_1
 
@@ -11,15 +11,15 @@ section 13_3_1
 
   
 
-  include
-    - 13_3_1_1
-    - 13_3_1_2
+  --
+    13_3_1_1
+    13_3_1_2
 
-  name: Section 13.3.1 - Full Text
+  / Section 13.3.1 - Full Text
   path FullText
-    name: Observed
+    / Observed
     step
-      include
-        - Chapters.13.13_3.13_3_1.13_3_1_1.SectionDoc
-        - Chapters.13.13_3.13_3_1.13_3_1_2.SectionDoc
+      --
+        Chapters.13.13_3.13_3_1.13_3_1_1.SectionDoc
+        Chapters.13.13_3.13_3_1.13_3_1_2.SectionDoc
     

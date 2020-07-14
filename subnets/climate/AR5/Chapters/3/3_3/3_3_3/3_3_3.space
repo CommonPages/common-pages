@@ -1,6 +1,6 @@
 
 public: ar5-3.3.3
-name: Section 3.3.3
+/ Section 3.3.3
 title: 3.3.3 - Regional Changes in Upper Ocean Salinity
 section 3_3_3
 
@@ -11,20 +11,20 @@ section 3_3_3
 
   insert SectionDoc
 
-  include
-    - 3_3_3_1
-    - 3_3_3_2
-    - 3_3_3_3
-    - 3_3_3_4
+  --
+    3_3_3_1
+    3_3_3_2
+    3_3_3_3
+    3_3_3_4
 
-  name: Section 3.3.3 - Full Text
+  / Section 3.3.3 - Full Text
   path FullText
-    name: Regional Changes in Upper Ocean Salinity
+    / Regional Changes in Upper Ocean Salinity
     step
-      include
-        - Chapters.3.3_3.3_3_3.SectionDoc
-        - Chapters.3.3_3.3_3_3.3_3_3_1.SectionDoc
-        - Chapters.3.3_3.3_3_3.3_3_3_2.SectionDoc
-        - Chapters.3.3_3.3_3_3.3_3_3_3.SectionDoc
-        - Chapters.3.3_3.3_3_3.3_3_3_4.SectionDoc
+      --
+        Chapters.3.3_3.3_3_3.SectionDoc
+        Chapters.3.3_3.3_3_3.3_3_3_1.SectionDoc
+        Chapters.3.3_3.3_3_3.3_3_3_2.SectionDoc
+        Chapters.3.3_3.3_3_3.3_3_3_3.SectionDoc
+        Chapters.3.3_3.3_3_3.3_3_3_4.SectionDoc
     

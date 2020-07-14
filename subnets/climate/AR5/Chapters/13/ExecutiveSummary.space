@@ -4,8 +4,8 @@ name: Chapter 13 - Conclusions
 lead: Formal conclusions presented in Chapter 13.
 conclusions ExecutiveSummary
 
-  insert text
-    | This chapter considers changes in global mean {Topics.*Sea_Level sea level}, regional sea level, sea level extremes, and waves. Confidence in {Topics.*Climate_Projections projections} of global {Glossary.*Mean_sea_level mean sea level} rise has increased since the Fourth Assessment Report ({cite.1.'IPCC_2007 AR4}) because of the improved physical understanding of the components of sea level, the improved agreement of process-based models with observations, and the inclusion of ice-sheet dynamical changes.
+  >>>
+    This chapter considers changes in global mean {Topics.*Sea_Level sea level}, regional sea level, sea level extremes, and waves. Confidence in {Topics.*Climate_Projections projections} of global {Glossary.*Mean_sea_level mean sea level} rise has increased since the Fourth Assessment Report ({cite.1.'IPCC_2007 AR4}) because of the improved physical understanding of the components of sea level, the improved agreement of process-based models with observations, and the inclusion of ice-sheet dynamical changes.
 
   name: Past Sea Level Change
 

@@ -1,6 +1,6 @@
 
 public: ar5-3.8.1
-name: Section 3.8.1
+/ Section 3.8.1
 title: 3.8.1 - Carbon
 section 3_8_1
 
@@ -11,15 +11,15 @@ section 3_8_1
 
   
 
-  include
-    - 3_8_1_1
-    - 3_8_1_2
+  --
+    3_8_1_1
+    3_8_1_2
 
-  name: Section 3.8.1 - Full Text
+  / Section 3.8.1 - Full Text
   path FullText
-    name: Ocean Uptake of Carbon
+    / Ocean Uptake of Carbon
     step
-      include
-        - Chapters.3.3_8.3_8_1.3_8_1_1.SectionDoc
-        - Chapters.3.3_8.3_8_1.3_8_1_2.SectionDoc
+      --
+        Chapters.3.3_8.3_8_1.3_8_1_1.SectionDoc
+        Chapters.3.3_8.3_8_1.3_8_1_2.SectionDoc
     

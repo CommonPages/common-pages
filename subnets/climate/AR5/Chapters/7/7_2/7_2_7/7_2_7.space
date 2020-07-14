@@ -1,6 +1,6 @@
 
 public: ar5-7.2.7
-name: Section 7.2.7
+/ Section 7.2.7
 title: 7.2.7 - Anthropogenic Sources of Moisture and Cloudiness
 section 7_2_7
 
@@ -11,16 +11,16 @@ section 7_2_7
 
   insert SectionDoc
 
-  include
-    - 7_2_7_1
-    - 7_2_7_2
+  --
+    7_2_7_1
+    7_2_7_2
 
-  name: Section 7.2.7 - Full Text
+  / Section 7.2.7 - Full Text
   path FullText
-    name: Anthropogenic Sources of Moisture and Cloudiness
+    / Anthropogenic Sources of Moisture and Cloudiness
     step
-      include
-        - Chapters.7.7_2.7_2_7.SectionDoc
-        - Chapters.7.7_2.7_2_7.7_2_7_1.SectionDoc
-        - Chapters.7.7_2.7_2_7.7_2_7_2.SectionDoc
+      --
+        Chapters.7.7_2.7_2_7.SectionDoc
+        Chapters.7.7_2.7_2_7.7_2_7_1.SectionDoc
+        Chapters.7.7_2.7_2_7.7_2_7_2.SectionDoc
     

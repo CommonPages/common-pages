@@ -1,6 +1,6 @@
 
 public: ar5-10.6.1
-name: Section 10.6.1
+/ Section 10.6.1
 title: 10.6.1 - Attribution of Changes in Frequency/ Occurrence and Intensity of Extremes
 section 10_6_1
 
@@ -11,22 +11,22 @@ section 10_6_1
 
   insert SectionDoc
 
-  include
-    - 10_6_1_1
-    - 10_6_1_2
-    - 10_6_1_3
-    - 10_6_1_4
-    - 10_6_1_5
+  --
+    10_6_1_1
+    10_6_1_2
+    10_6_1_3
+    10_6_1_4
+    10_6_1_5
 
-  name: Section 10.6.1 - Full Text
+  / Section 10.6.1 - Full Text
   path FullText
-    name: Attribution of Changes in Frequency/ Occurrence and Intensity of Extremes
+    / Attribution of Changes in Frequency/ Occurrence and Intensity of Extremes
     step
-      include
-        - Chapters.10.10_6.10_6_1.SectionDoc
-        - Chapters.10.10_6.10_6_1.10_6_1_1.SectionDoc
-        - Chapters.10.10_6.10_6_1.10_6_1_2.SectionDoc
-        - Chapters.10.10_6.10_6_1.10_6_1_3.SectionDoc
-        - Chapters.10.10_6.10_6_1.10_6_1_4.SectionDoc
-        - Chapters.10.10_6.10_6_1.10_6_1_5.SectionDoc
+      --
+        Chapters.10.10_6.10_6_1.SectionDoc
+        Chapters.10.10_6.10_6_1.10_6_1_1.SectionDoc
+        Chapters.10.10_6.10_6_1.10_6_1_2.SectionDoc
+        Chapters.10.10_6.10_6_1.10_6_1_3.SectionDoc
+        Chapters.10.10_6.10_6_1.10_6_1_4.SectionDoc
+        Chapters.10.10_6.10_6_1.10_6_1_5.SectionDoc
     

@@ -1,6 +1,6 @@
 
 public: ar5-12.4.6
-name: Section 12.4.6
+/ Section 12.4.6
 title: 12.4.6 - Changes in Cryosphere
 section 12_4_6
 
@@ -11,15 +11,15 @@ section 12_4_6
 
   
 
-  include
-    - 12_4_6_1
-    - 12_4_6_2
+  --
+    12_4_6_1
+    12_4_6_2
 
-  name: Section 12.4.6 - Full Text
+  / Section 12.4.6 - Full Text
   path FullText
-    name: Changes in Sea Ice Cover
+    / Changes in Sea Ice Cover
     step
-      include
-        - Chapters.12.12_4.12_4_6.12_4_6_1.SectionDoc
-        - Chapters.12.12_4.12_4_6.12_4_6_2.SectionDoc
+      --
+        Chapters.12.12_4.12_4_6.12_4_6_1.SectionDoc
+        Chapters.12.12_4.12_4_6.12_4_6_2.SectionDoc
     

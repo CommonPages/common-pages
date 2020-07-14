@@ -1,6 +1,6 @@
 
 public: ar5-3.5.3
-name: Section 3.5.3
+/ Section 3.5.3
 title: 3.5.3 - Deep and Bottom Waters
 section 3_5_3
 
@@ -11,18 +11,18 @@ section 3_5_3
 
   insert SectionDoc
 
-  include
-    - 3_5_3_1
-    - 3_5_3_2
-    - 3_5_3_3
+  --
+    3_5_3_1
+    3_5_3_2
+    3_5_3_3
 
-  name: Section 3.5.3 - Full Text
+  / Section 3.5.3 - Full Text
   path FullText
-    name: Deep and Bottom Waters
+    / Deep and Bottom Waters
     step
-      include
-        - Chapters.3.3_5.3_5_3.SectionDoc
-        - Chapters.3.3_5.3_5_3.3_5_3_1.SectionDoc
-        - Chapters.3.3_5.3_5_3.3_5_3_2.SectionDoc
-        - Chapters.3.3_5.3_5_3.3_5_3_3.SectionDoc
+      --
+        Chapters.3.3_5.3_5_3.SectionDoc
+        Chapters.3.3_5.3_5_3.3_5_3_1.SectionDoc
+        Chapters.3.3_5.3_5_3.3_5_3_2.SectionDoc
+        Chapters.3.3_5.3_5_3.3_5_3_3.SectionDoc
     

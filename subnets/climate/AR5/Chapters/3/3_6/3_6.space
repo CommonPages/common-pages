@@ -1,6 +1,6 @@
 
 public: ar5-3.6
-name: Section 3.6
+/ Section 3.6
 title: 3.6 - Changes in Ocean Circulation
 section 3_6
 
@@ -11,25 +11,25 @@ section 3_6
 
   
 
-  include
-    - 3_6_1
-    - 3_6_2
-    - 3_6_3
-    - 3_6_4
-    - 3_6_5
-    - 3_6_6
+  --
+    3_6_1
+    3_6_2
+    3_6_3
+    3_6_4
+    3_6_5
+    3_6_6
 
-  name: Section 3.6 - Full Text
+  / Section 3.6 - Full Text
   path FullText
-    name: Global Observations of Ocean Circulation Variability
+    / Global Observations of Ocean Circulation Variability
     step
-      include
-        - Chapters.3.3_6.3_6_1.SectionDoc
-        - Chapters.3.3_6.3_6_2.SectionDoc
-        - Chapters.3.3_6.3_6_3.SectionDoc
-        - Chapters.3.3_6.3_6_4.SectionDoc
-        - Chapters.3.3_6.3_6_5.3_6_5_1.SectionDoc
-        - Chapters.3.3_6.3_6_5.3_6_5_2.SectionDoc
-        - Chapters.3.3_6.3_6_5.3_6_5_3.SectionDoc
-        - Chapters.3.3_6.3_6_6.SectionDoc
+      --
+        Chapters.3.3_6.3_6_1.SectionDoc
+        Chapters.3.3_6.3_6_2.SectionDoc
+        Chapters.3.3_6.3_6_3.SectionDoc
+        Chapters.3.3_6.3_6_4.SectionDoc
+        Chapters.3.3_6.3_6_5.3_6_5_1.SectionDoc
+        Chapters.3.3_6.3_6_5.3_6_5_2.SectionDoc
+        Chapters.3.3_6.3_6_5.3_6_5_3.SectionDoc
+        Chapters.3.3_6.3_6_6.SectionDoc
     

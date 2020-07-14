@@ -1,6 +1,6 @@
 
 public: ar5-6.5.3
-name: Section 6.5.3
+/ Section 6.5.3
 title: 6.5.3 - Impacts of Carbon Dioxide Removal Methods on Carbon Cycle and Climate
 section 6_5_3
 
@@ -11,18 +11,18 @@ section 6_5_3
 
   insert SectionDoc
 
-  include
-    - 6_5_3_1
-    - 6_5_3_2
-    - 6_5_3_3
+  --
+    6_5_3_1
+    6_5_3_2
+    6_5_3_3
 
-  name: Section 6.5.3 - Full Text
+  / Section 6.5.3 - Full Text
   path FullText
-    name: Impacts of Carbon Dioxide Removal Methods on Carbon Cycle and Climate
+    / Impacts of Carbon Dioxide Removal Methods on Carbon Cycle and Climate
     step
-      include
-        - Chapters.6.6_5.6_5_3.SectionDoc
-        - Chapters.6.6_5.6_5_3.6_5_3_1.SectionDoc
-        - Chapters.6.6_5.6_5_3.6_5_3_2.SectionDoc
-        - Chapters.6.6_5.6_5_3.6_5_3_3.SectionDoc
+      --
+        Chapters.6.6_5.6_5_3.SectionDoc
+        Chapters.6.6_5.6_5_3.6_5_3_1.SectionDoc
+        Chapters.6.6_5.6_5_3.6_5_3_2.SectionDoc
+        Chapters.6.6_5.6_5_3.6_5_3_3.SectionDoc
     

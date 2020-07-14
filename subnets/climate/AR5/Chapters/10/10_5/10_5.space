@@ -1,6 +1,6 @@
 
 public: ar5-10.5
-name: Section 10.5
+/ Section 10.5
 title: 10.5 - Cryosphere
 section 10_5
 
@@ -11,19 +11,19 @@ section 10_5
 
   insert SectionDoc
 
-  include
-    - 10_5_1
-    - 10_5_2
-    - 10_5_3
+  --
+    10_5_1
+    10_5_2
+    10_5_3
 
-  name: Section 10.5 - Full Text
+  / Section 10.5 - Full Text
   path FullText
-    name: Cryosphere
+    / Cryosphere
     step
-      include
-        - Chapters.10.10_5.SectionDoc
-        - Chapters.10.10_5.10_5_1.10_5_1_1.SectionDoc
-        - Chapters.10.10_5.10_5_2.10_5_2_1.SectionDoc
-        - Chapters.10.10_5.10_5_2.10_5_2_2.SectionDoc
-        - Chapters.10.10_5.10_5_3.SectionDoc
+      --
+        Chapters.10.10_5.SectionDoc
+        Chapters.10.10_5.10_5_1.10_5_1_1.SectionDoc
+        Chapters.10.10_5.10_5_2.10_5_2_1.SectionDoc
+        Chapters.10.10_5.10_5_2.10_5_2_2.SectionDoc
+        Chapters.10.10_5.10_5_3.SectionDoc
     

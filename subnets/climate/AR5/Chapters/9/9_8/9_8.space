@@ -1,6 +1,6 @@
 
 public: ar5-9.8
-name: Section 9.8
+/ Section 9.8
 title: 9.8 - Relating Model Performance to Credibility of Model Applications
 section 9_8
 
@@ -11,17 +11,17 @@ section 9_8
 
   
 
-  include
-    - 9_8_1
-    - 9_8_2
-    - 9_8_3
+  --
+    9_8_1
+    9_8_2
+    9_8_3
 
-  name: Section 9.8 - Full Text
+  / Section 9.8 - Full Text
   path FullText
-    name: Synthesis Assessment of Model Performance
+    / Synthesis Assessment of Model Performance
     step
-      include
-        - Chapters.9.9_8.9_8_1.SectionDoc
-        - Chapters.9.9_8.9_8_2.SectionDoc
-        - Chapters.9.9_8.9_8_3.SectionDoc
+      --
+        Chapters.9.9_8.9_8_1.SectionDoc
+        Chapters.9.9_8.9_8_2.SectionDoc
+        Chapters.9.9_8.9_8_3.SectionDoc
     

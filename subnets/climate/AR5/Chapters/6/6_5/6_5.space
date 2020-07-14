@@ -1,6 +1,6 @@
 
 public: ar5-6.5
-name: Section 6.5
+/ Section 6.5
 title: 6.5 - Potential Effects of Carbon Dioxide Removal Methods and Solar Radiation Management on the Carbon Cycle
 section 6_5
 
@@ -11,28 +11,28 @@ section 6_5
 
   
 
-  include
-    - 6_5_1
-    - 6_5_2
-    - 6_5_3
-    - 6_5_4
-    - 6_5_5
+  --
+    6_5_1
+    6_5_2
+    6_5_3
+    6_5_4
+    6_5_5
 
-  name: Section 6.5 - Full Text
+  / Section 6.5 - Full Text
   path FullText
-    name: Introduction to Carbon Dioxide Removal Methods
+    / Introduction to Carbon Dioxide Removal Methods
     step
-      include
-        - Chapters.6.6_5.6_5_1.SectionDoc
-        - Chapters.6.6_5.6_5_2.SectionDoc
-        - Chapters.6.6_5.6_5_2.6_5_2_1.SectionDoc
-        - Chapters.6.6_5.6_5_2.6_5_2_2.SectionDoc
-        - Chapters.6.6_5.6_5_2.6_5_2_3.SectionDoc
-        - Chapters.6.6_5.6_5_2.6_5_2_4.SectionDoc
-        - Chapters.6.6_5.6_5_3.SectionDoc
-        - Chapters.6.6_5.6_5_3.6_5_3_1.SectionDoc
-        - Chapters.6.6_5.6_5_3.6_5_3_2.SectionDoc
-        - Chapters.6.6_5.6_5_3.6_5_3_3.SectionDoc
-        - Chapters.6.6_5.6_5_4.SectionDoc
-        - Chapters.6.6_5.6_5_5.SectionDoc
+      --
+        Chapters.6.6_5.6_5_1.SectionDoc
+        Chapters.6.6_5.6_5_2.SectionDoc
+        Chapters.6.6_5.6_5_2.6_5_2_1.SectionDoc
+        Chapters.6.6_5.6_5_2.6_5_2_2.SectionDoc
+        Chapters.6.6_5.6_5_2.6_5_2_3.SectionDoc
+        Chapters.6.6_5.6_5_2.6_5_2_4.SectionDoc
+        Chapters.6.6_5.6_5_3.SectionDoc
+        Chapters.6.6_5.6_5_3.6_5_3_1.SectionDoc
+        Chapters.6.6_5.6_5_3.6_5_3_2.SectionDoc
+        Chapters.6.6_5.6_5_3.6_5_3_3.SectionDoc
+        Chapters.6.6_5.6_5_4.SectionDoc
+        Chapters.6.6_5.6_5_5.SectionDoc
     

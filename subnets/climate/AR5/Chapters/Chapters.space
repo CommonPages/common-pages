@@ -1,32 +1,33 @@
 
 space Chapters
-  include 1
+  --
+    1
 
-  name: Observations and Paleoclimate Information
-  include
-    - 2
-    - 3
-    - 4
-    - 5
+  / Observations and Paleoclimate Information
+  --
+    2
+    3
+    4
+    5
 
-  name: Process Understanding
-  include
-    - 6
-    - 7
+  / Process Understanding
+  --
+    6
+    7
 
-  name: From Forcing to Attribution of Climate Change
-  include
-    - 8
-    - 9
-    - 10
+  / From Forcing to Attribution of Climate Change
+  --
+    8
+    9
+    10
 
-  name: Future Climate Change, Predictability and Irreversibility
-  include
-    - 11
-    - 12
+  / Future Climate Change, Predictability and Irreversibility
+  --
+    11
+    12
 
-  name: Integration
-  include
-    - 13
-    - 14
+  / Integration
+  --
+    13
+    14
     

@@ -1,6 +1,6 @@
 
 public: ar5-3.5
-name: Section 3.5
+/ Section 3.5
 title: 3.5 - Changes in Water-Mass Properties
 section 3_5
 
@@ -11,23 +11,23 @@ section 3_5
 
   
 
-  include
-    - 3_5_1
-    - 3_5_2
-    - 3_5_3
-    - 3_5_4
+  --
+    3_5_1
+    3_5_2
+    3_5_3
+    3_5_4
 
-  name: Section 3.5 - Full Text
+  / Section 3.5 - Full Text
   path FullText
-    name: Introduction
+    / Introduction
     step
-      include
-        - Chapters.3.3_5.3_5_1.SectionDoc
-        - Chapters.3.3_5.3_5_2.3_5_2_1.SectionDoc
-        - Chapters.3.3_5.3_5_2.3_5_2_2.SectionDoc
-        - Chapters.3.3_5.3_5_3.SectionDoc
-        - Chapters.3.3_5.3_5_3.3_5_3_1.SectionDoc
-        - Chapters.3.3_5.3_5_3.3_5_3_2.SectionDoc
-        - Chapters.3.3_5.3_5_3.3_5_3_3.SectionDoc
-        - Chapters.3.3_5.3_5_4.SectionDoc
+      --
+        Chapters.3.3_5.3_5_1.SectionDoc
+        Chapters.3.3_5.3_5_2.3_5_2_1.SectionDoc
+        Chapters.3.3_5.3_5_2.3_5_2_2.SectionDoc
+        Chapters.3.3_5.3_5_3.SectionDoc
+        Chapters.3.3_5.3_5_3.3_5_3_1.SectionDoc
+        Chapters.3.3_5.3_5_3.3_5_3_2.SectionDoc
+        Chapters.3.3_5.3_5_3.3_5_3_3.SectionDoc
+        Chapters.3.3_5.3_5_4.SectionDoc
     
