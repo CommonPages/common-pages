@@ -7,4 +7,3 @@ $os
 $idea
 $os-life-exp
 $in-life
-$climate
