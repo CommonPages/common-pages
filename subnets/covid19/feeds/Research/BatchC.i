@@ -248,8 +248,7 @@ ref 'Hoffmann_et_al_05_21_2020
 // Convalescent Plasma for COVID-19. A randomized clinical trial
 doi: https://doi.org/10.1101/2020.07.01.20139857
 ref 'Gharbharan_et_al_07_03_2020
-  head = The majority of the patients in the ConCOVID study already had high virus neutralizing antibodies titers on the day of study inclusion with titers comparable to the 115 recovered donors we screened for ConvP plasma donation. This made the design of the study unsuitable for its purpose of evaluating the clinical value of ConvP. These observations caused concerns about the potential benefit of convalescent plasma in the study population and after discussion with the data safety monitoring board, the study was discontinued. No statistically significant differences in mortality (aOR 0.95, CI 0.20 – 4.67, p=0.95) or improvement in the day-15 disease severity (aOR 1.30, CI 0.52 - 3.32, p=0.58) was observed when the study was suspended. This observation should trigger investigators to reconsider the design of current studies on ConvP for the treatment of patients with COVID-19.
-
+  head = The Convalescent-plasma-for-COVID (ConCOVID) study was a randomized trial comparing convalescent plasma with standard of care therapy in patients hospitalized for COVID-19 in the Netherlands. After discussion with the data safety monitoring board, the study was discontinued. No statistically significant differences in mortality or improvement in the day-15 disease severity was observed when the study was suspended.
 
   >>> Background
     After recovery from COVID-19, most patients have anti-SARS-CoV-2 neutralizing antibodies. Their convalescent plasma could be an inexpensive and widely available treatment for COVID-19.
@@ -263,19 +262,19 @@ ref 'Gharbharan_et_al_07_03_2020
   >>> Conclusion
     Most COVID-19 patients already have high neutralizing antibody titers at hospital admission. Screening for antibodies and prioritizing convalescent plasma to risk groups with recent symptom onset will be key to identify patients that may benefit from convalescent plasma.
 
-  -- exports
-    !a
-    !b
-    !c
-    !d
-    !e
-    !f
-    !g
-    !h
-    !i
-    !j
-    !k
-    !l
+  # -- exports
+  #   !a
+  #   !b
+  #   !c
+  #   !d
+  #   !e
+  #   !f
+  #   !g
+  #   !h
+  #   !i
+  #   !j
+  #   !k
+  #   !l
 
   / July, 2020 - MedRxiv
   let !a self assert = The trial was halted prematurely after 86 patients were enrolled. Although symptomatic for only 10 days (IQR 6-15) at the time of inclusion, 53 of 66 patients tested had anti-SARS-CoV-2 antibodies at baseline.
@@ -319,7 +318,7 @@ ref 'Gharbharan_et_al_07_03_2020
 // A New Method for Sampling and Detection of Exhaled Respiratory Virus Aerosols
 doi: https://doi.org/10.1086/523000
 ref 'Huynh_et_al_01_01_2008
-  head = This small study is the first to report direct detection of virus aerosols exhaled by infected individuals. The study reveals that breathing alone, for some people, is sufficient to aerosolize rhinovirus. In summary, we have revealed that a simple mask-like device can be used to sample exhaled respiratory bioaerosols for analysis by PCR. Preliminary experiments suggest that viral aerosols are common, and these findings support a greater role and diversity of opportunities for aerosol transmission. This study may provide a new method for screening populations for the presence of bioaerosols from the respiratory tract and permit new studies of microbial pathogenesis and transmission.
+  head = This small study is the first to report direct detection of virus aerosols exhaled by infected individuals. It reveals that breathing alone, for some people, is sufficient to aerosolize rhinovirus. In summary, we have revealed that a simple mask-like device can be used to sample exhaled respiratory bioaerosols for analysis by PCR.
 
   >>> Abstract
     We have developed a mask sampler for exhaled respiratory viruses. Among a group of 9 patients with cold symptoms who had virus-positive nasal mucus specimens, as analyzed by multiplexed polymerase chain reaction, virus-positive mask samples were obtained after coughing (20 times), talking (20 min), or breathing (20 min) from 6, 5, and 3 patients, respectively.
@@ -328,23 +327,15 @@ ref 'Huynh_et_al_01_01_2008
     !a
     !b
     !c
-    !d
-    !e
 
   / January, 2020 - Clin Infect Dis.
-  let !a self assert =  Of the 9 patients who had virus-positive mucus samples, 6 had ⩾1 virus-positive aerosol sample. Six patients had virus-positive samples from coughing, 5 from talking, and 3 from breathing.
+  let !a self assert = Our application provides a sampler that is intuitive to use, safe, simple, noninvasive, suitable for a wide range of age groups, easily stored, and inexpensive. Use of the sampler is safer for clinical staff than are current procedures that require handling of secretions.
 
   / January, 2020 - Clin Infect Dis.
-  let !b self assert = The aerosol sample from patient 6 tested positive for both rhinovirus and parainfluenza, although the mucus sample from this patient was only positive for rhinovirus. None of the asymptomatic subjects had a sample that tested positive for virus. There were no major differences in detection of viruses between male and female subject
+  let !b self assert = The combination of a mask with multiplexed PCR provides a tool with a wide range of applications in the diagnosis and management of respiratory infections.
 
   / January, 2020 - Clin Infect Dis.
-  let !c self assert = Of the 20 patients who had samples tested, 9 had virus-positive nasal mucus samples. Rhinovirus was detected in samples from 6 of 20 patients, influenza A virus was detected in samples from 2 of 9 patients, and parainfluenza virus 3 was detected in samples from 2 of 9 patients. Parainfluenza viruses 1 and 2, respiratory syncytial virus, and human metapneumovirus were not detected in any of the samples.
-
-  / January, 2020 - Clin Infect Dis.
-  let !d self assert = We evaluated electret to sample these bioaerosols, because it combines the characteristics of high collection efficiency for small droplets with little interference to breathing. To our knowledge, electret has not previously been used for sampling. Our application provides a sampler that is intuitive to use, safe, simple, noninvasive, suitable for a wide range of age groups, easily stored, and inexpensive. Use of the sampler is safer for clinical staff than are current procedures that require handling of secretions. The combination of a mask with multiplexed PCR provides a tool with a wide range of applications in the diagnosis and management of respiratory infections.
-
-  / January, 2020 - Clin Infect Dis.
-  let !e self assert = Although these results are preliminary, the potential applications of this method to explore aerosol transmission justify its early publication.
+  let !c self assert = Although these results are preliminary, the potential applications of this method to explore aerosol transmission justify its early publication.
 
 
 
@@ -352,7 +343,7 @@ ref 'Huynh_et_al_01_01_2008
 // Exhaled Mycobacterium tuberculosis output and detection of subclinical disease by face-mask sampling: prospective observational studies
 doi: https://doi.org/10.1016/S1473-3099(19)30707-8
 ref 'Williams_et_al_02_18_2020
-  head = Our findings show novel patterns of bacterial output and highlight the discordance between M tuberculosis output in breath and sputum. In particular, we have shown that over a 24-h sampling period, applied to patients with established sputum-positive disease, M tuberculosis is detected at least four times more frequently with face masks than in sputum samples. Moreover, we have shown the clinical effect of this increased level of detection in an active case-finding pilot study in which face-mask sampling achieved microbiological diagnosis of active tuberculosis from one sample up to 6 weeks before conventional sputum diagnosis, providing scope to interrupt possible transmission at an earlier stage of disease.
+  head = We have shown that over a 24-h sampling period, applied to patients with established sputum-positive disease, M tuberculosis is detected at least four times more frequently with face masks than in sputum samples. Moreover, we have shown the clinical effect of this increased level of detection in which face-mask sampling achieved microbiological diagnosis of active tuberculosis from one sample up to 6 weeks before conventional sputum diagnosis, providing scope to interrupt possible transmission at an earlier stage of disease.
 
   >>> Background
     Tuberculosis remains a global health challenge, with early diagnosis key to its reduction. Face-mask sampling detects exhaled Mycobacterium tuberculosis. We aimed to investigate bacillary output from patients with pulmonary tuberculosis and to assess the potential of face-mask sampling as a diagnostic method in active case-finding.
@@ -371,86 +362,18 @@ ref 'Williams_et_al_02_18_2020
     !b
     !c
     !d
-    !e
-    !f
-    !g
-    !h
-    !i
-    !j
-    !k
-    !l
-    !m
-    !n
-    !o
-    !p
-    !q
-    !r
-    !s
-    !t
-    !u
 
   / February, 2020 - Lancet Infect Dis
-  let !a self assert =  M tuberculosis was detected in 166 (86%) of 192 face-mask samples and 38 (21%) of 184 assessable sputum samples obtained over a 24-h period. Exhaled M tuberculosis output showed no diurnal pattern and did not associate with cough frequency, sputum bacillary content, or chest radiographic disease severity.
+  let !a self assert = Despite clinical and radiological features to suggest infectiousness, a few patients were identified who exhaled no detectable M tuberculosis over 24 h. By contrast, a similar proportion of patients in our cohort were identified as high variable producers, generating both the highest peak and total M tuberculosis output. These observations support the view that transmission risk between patients with pulmonary tuberculosis is heterogeneous.
 
   / February, 2020 - Lancet Infect Dis
-  let !b self assert = Eight participants were diagnosed prospectively with pulmonary tuberculosis, of whom six were exclusively face-mask positive at screening. Four of these participants (three of whom were HIV-positive) had normal findings on chest radiography but had treatment-responsive early tuberculosis-compatible lesions on PET-CT scans, with Xpert-positive sputum samples after 6 weeks.
+  let !b self assert = We saw no evidence that any of the traditional clinical markers of infectivity (eg, cough frequency, radiological characteristics, and bacillary content of sputum) were associated with either the pattern or quantity of longitudinal M tuberculosis output detected by face-mask sampling. Particular attention was given to discordance between detection of M tuberculosis in face-mask and sputum samples.
 
   / February, 2020 - Lancet Infect Dis
-  let !c self assert = we have presented the first longitudinal data of exhaled M tuberculosis over 24 h in patients with pulmonary tuberculosis. Despite clinical and radiological features to suggest infectiousness, a few patients were identified who exhaled no detectable M tuberculosis over 24 h. By contrast, a similar proportion of patients in our cohort were identified as high variable producers, generating both the highest peak and total M tuberculosis output. These observations support the view that transmission risk between patients with pulmonary tuberculosis is heterogeneous.
+  let !c self assert = We emphasise that our findings from this small-scale study cannot be considered to undermine the established view that transmission risk relates to bacillary burden in sputum at the population level. However, both the cough-aerosol sampling system studies (directly) and our data (by implication) do show discordance at the individual level.
 
   / February, 2020 - Lancet Infect Dis
-  let !d self assert =  Although we are unable to prove greater infectiousness of the high variable producer group, it is notable that the proportion of our cohort with this phenotype (two of 24) is comparable with the findings of Escombe and colleagues, who reported that 8·5% of patients in an HIV cohort were highly infectious to guinea pigs in a Riley design facility.
-
-  / February, 2020 - Lancet Infect Dis
-  let !e self assert = We did not record any evidence of a diurnal pattern in M tuberculosis production. Although hospitalisation could have disrupted natural rhythm, the diurnal pattern of cough that has been reported in previous studies was seen
-
-  / February, 2020 - Lancet Infect Dis
-  let !f self assert = We saw no evidence that any of the traditional clinical markers of infectivity (eg, cough frequency, radiological characteristics, and bacillary content of sputum) were associated with either the pattern or quantity of longitudinal M tuberculosis output detected by face-mask sampling. Particular attention was given to discordance between detection of M tuberculosis in face-mask and sputum samples.
-
-  / February, 2020 - Lancet Infect Dis
-  let !g self assert = For 43 sampling periods in which both face-mask and sputum samples were available, M tuberculosis levels were not correlated in pairwise comparisons and neither were cumulative 24-h M tuberculosis outputs. This absence of an association was also seen for M tuberculosis quantified by sputum microscopy, Xpert MTB/RIF grade, and time to positivity on liquid culture.
-
-  / February, 2020 - Lancet Infect Dis
-  let !h self assert = We emphasise that our findings from this small-scale study cannot be considered to undermine the established view that transmission risk relates to bacillary burden in sputum at the population level. However, both the cough-aerosol sampling system studies (directly) and our data (by implication) do show discordance at the individual level.
-
-  / February, 2020 - Lancet Infect Dis
-  let !i self assert = We noted no relation between cough frequency and longitudinal face-mask M tuberculosis output associated with individual sampling periods or cumulatively over 24 h. This dissociation was emphasised by our observation of 11 periods in six sleeping individuals during which time positive face-mask samples were obtained but no coughs were recorded, and six periods characterised by high cough frequency (more than five times the median cough frequency for the whole cohort) and no exhaled M tuberculosis output.
-
-  / February, 2020 - Lancet Infect Dis
-  let !j self assert = We do not know the particle size distribution contributing to the M tuberculosis signals detected by face-mask sampling, and inclusion droplets larger than those collected in the Fennelly and Patterson samplers could account for our result.
-
-  / February, 2020 - Lancet Infect Dis
-  let !k self assert = We found no association between total face-mask-detected M tuberculosis output and radiological measures of disease extent, including presence of cavities on chest radiography (p=0·52).
-
-  / February, 2020 - Lancet Infect Dis
-  let !l self assert = Further, no association was noted between face-mask-detected M tuberculosis output and measures of bacterial burden (acid-fast bacilli, Xpert MTB/RIF grade, or time to positivity on liquid culture) in baseline sputum samples. These findings remained consistent after the repeating analysis using RD9-normalised M tuberculosis signals from face-mask and sputum samples.
-
-  / February, 2020 - Lancet Infect Dis
-  let !m self assert = In our active case-finding pilot study, we cannot say whether DNA signals measured came from intact or disrupted M tuberculosis cells. Signals were quantified from pelleted whole bacteria, which makes signals coming from free DNA less likely, although we cannot comment on morphology or viability of these cells. Furthermore, we note that signals from viable bacteria reported in our previous face-mask sampling study are comparable to those detected in our active case-finding pilot study. Use of PMA to eliminate signals from residual DNA from dead cells might allow better discrimination in future
-
-  / February, 2020 - Lancet Infect Dis
-  let !n self assert = Nonetheless, our longitudinal study is the first to objectively and systematically record longitudinal frequency of spontaneous cough linked to M tuberculosis output in real time. Moreover, although the roles of larger expectorated droplets and airway secretions are unknown, bacillary content in face-mask samples possibly reflects the overall potential for airborne transmission.
-
-  / February, 2020 - Lancet Infect Dis
-  let !o self assert = In our longitudinal 24-h sampling study, face-mask sampling detected M tuberculosis more than four times more frequently than in sputum analyses. The main reason for this increase was that face-mask samples were obtained at every timepoint, whereas sputum was only available for just over a quarter of the sampling periods. In the active case-finding pilot study, although all patients produced sputum, face-mask sampling detected pulmonary tuberculosis with greater sensitivity than did both sputum and chest radiography, with sampling at one timepoint. Importantly, face-mask sampling detected disease at an earlier stage, supporting assessment in larger community-based studies as a means to affect onward transmission of infection and prospective tuberculosis control
-
-  / February, 2020 - Lancet Infect Dis
-  let !p self assert = Furthermore early detection (and subsequent treatment) of pulmonary tuberculosis, facilitated by face-mask sampling, could be a large benefit for preventing pulmonary impairment after tuberculosis, a major source of global pulmonary morbidity and disability.
-
-  / February, 2020 - Lancet Infect Dis
-  let !q self assert = Our detailed longitudinal characterisation of the face-mask-screened cohort provides strong evidence that participants with compatible symptoms of tuberculosis and a positive face-mask sample had active disease. Treatment was withheld in participants who were exclusively face-mask-positive at baseline until corroborating evidence for active tuberculosis was available.
-
-  / February, 2020 - Lancet Infect Dis
-  let !r self assert = Sputum sampling at 6 weeks identified M tuberculosis in four of five patients who had negative findings at baseline, suggesting at least some disease progression over this period to achieve this endpoint. Radiological assessment at this stage identified only subtle abnormalities in lung parenchyma on PET-CT, suggesting that 6 weeks after mask positivity, disease was still at a very early stage.
-
-  / February, 2020 - Lancet Infect Dis
-  let !s self assert = Although these observations support that sputum analysis can be positive with radiologically early disease, they emphasise the potential of even earlier intervention with face-mask sampling. Further studies offer the prospect to do detailed characterisation of the earliest stages of active tuberculosis to inform the pathophysiology of incipient disease.
-
-  / February, 2020 - Lancet Infect Dis
-  let !t self assert = Although we have not linked our detection of exhaled M tuberculosis signals to transmission, such an association is plausible (if not at least necessary) and we suggest that face-mask sampling has potential as a method to inform individual transmission risk. Further studies to characterise links between face-mask sample M tuberculosis burden and transmission are needed in settings with both high and low incidence of tuberculosis.
-
-  / February, 2020 - Lancet Infect Dis
-  let !u self assert = Face-mask sampling offers a new approach to understanding and diagnosing tuberculosis. It is simple, clinically compatible, can detect other target organisms,31 reliably yields a sample, and seems superior to sputum samples for detection of early tuberculosis disease. The approach shows potential for diagnosis and screening, particularly in difficult-to-reach communities. We are currently engaged in larger scale and community-based studies to determine the potential of this approach to enhance early diagnosis and transmission control in tuberculosis.
+  let !d self assert = Although these observations support that sputum analysis can be positive with radiologically early disease, they emphasise the potential of even earlier intervention with face-mask sampling.
 
 
 
@@ -458,33 +381,20 @@ ref 'Williams_et_al_02_18_2020
 // Inhale, then exhale: start afresh to diagnose Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) by non-invasive face-mask sampling technique.
 doi: https://doi.org/xyz
 ref 'Kanaujia_et_al_07_03_2020
-  head = Since the outbreak of SARS-CoV-2, researchers have been trying to develop an alternative method of sample collection. An alternative method is sampling from the mask of the patient. This approach will be advantageous, simple, safe, easy to use and non-invasive. The size of the respiratory droplet is from >5 to 10 μm in diameter and Edwards et al. demonstrated that during normal breathing many people generate a substantial number of aerosols ~150 nm in diameter. Hence, N95 masks can offer an easy adjunct for NP samples. This method will be a solution for the institutions that are suffering because of rising demand for Viral Transport Medium and swab sticks, and the requirement of trained medical personnel and personal protective equipment will also decrease.
-
+  head = An alternative method is sampling from the mask of the patient. This approach will be advantageous, simple, safe, easy to use and non-invasive. The size of the respiratory droplet is from >5 to 10 μm in diameter and Edwards et al. demonstrated that during normal breathing many people generate a substantial number of aerosols ~150 nm in diameter. Hence, N95 masks can offer an easy adjunct for NP samples.
   -- exports
     !a
     !b
     !c
-    !d
-    !e
-    !f
 
   / July, 2020 - Clinical Microbiology and Infection
-  let !a self assert = The N95 masks use charged electret fibres as the filtering medium, and in vitro experiments have demonstrated that they collect >95% of the aerosolized virus. Attempts have been made previously to collect virus aerosols by different methods, including impaction, impingers and gelatin or nucleopore air filters attached to air pumps. In 2008, Huynh et al., developed a novel prototype mask-like sampling device. It was made from impermeable and stretchable PVC. It contained an electret (25-mm diameter) opposite the nose and mouth region. This sampling device had low airflow resistance (15 mmH2O) at normal respiratory flows and was able to collect 80% of 0.52-µm latex particles (virus droplet representative). Hence, after sampling, electret can be easily removed, placed in RNA lysis buffer and PCR can be performed.
+  let !a self assert = The N95 masks use charged electret fibres as the filtering medium, and in vitro experiments have demonstrated that they collect >95% of the aerosolized virus. In 2008, Huynh et al., developed a novel prototype mask-like sampling device. It was made from impermeable and stretchable PVC. It contained an electret (25-mm diameter) opposite the nose and mouth region. This sampling device had low airflow resistance (15 mmH2O) at normal respiratory flows and was able to collect 80% of 0.52-µm latex particles (virus droplet representative). Hence, after sampling, electret can be easily removed, placed in RNA lysis buffer and PCR can be performed.
 
   / July, 2020 - Clinical Microbiology and Infection
-  let !b self assert = In a recent study from the University of Leicester by Williams et al., face-mask sampling offered an efficient and non-invasive method for detection of exhaled Mycobacterium tuberculosis, with a high sensitivity of 86·5%. This group is also working on the isolation of SARS-CoV-2 from the mask. In this simple technique, the person wears a face mask containing strips made of a gelatin sampling matrix for a duration of 30 minutes. These moist strips will trap the virus in the matrix and can then be preserved after drying out and used for virus isolation. The preserved strips can be directly transported to the laboratory, precluding the need for special storage before analysis. This method obviates the need for health-care workers, and no expertise is required to collect the samples
+  let !b self assert = In a recent study by Williams et al.,face-mask sampling offered an efficient and non-invasive method for detection of exhaled Mycobacterium tuberculosis, with a high sensitivity of 86·5%. In this simple technique, the person wears a face mask containing strips made of a gelatin sampling matrix for a duration of 30 minutes. These moist strips will trap the virus in the matrix and can then be preserved after drying out and used for virus isolation. The preserved strips can be directly transported to the laboratory, precluding the need for special storage before analysis. This method obviates the need for health-care workers, and no expertise is required to collect the samples
 
   / July, 2020 - Clinical Microbiology and Infection
-  let !c self assert = However, although these innovative approaches are promising tools, their efficiency needs to be confirmed by further studies. Standardization of the duration for which the patient needs to wear the mask is required as the proportion of virus droplets produced per hour in asymptomatic carriers or patients with a smaller viral load is not similar. It will also be relevant to think whether or not the sampling from the mask will provide us with a true representation of the ongoing pathogenies in the respiratory tract.
-
-  / July, 2020 - Clinical Microbiology and Infection
-  let !d self assert = The major limitation of this method is that it is patient-dependent. Non-compliance in a claustrophobic patient can limit the sensitivity of detection. Another concern is the storage of samples. An NP swab in Viral Transport Medium can be refrigerated at 2°C–8°C for 48 hours and at –70°C for a longer duration and has a shelf life of 5 years. Storage and shelf life of the mask with gelatin strips warrants more studies.
-
-  / July, 2020 - Clinical Microbiology and Infection
-  let !e self assert = Since the outbreak of SARS-CoV-2, researchers have been trying to develop an alternative method of sample collection. This approach will be advantageous, simple, safe, easy to use and non-invasive. A larger population can be sampled in less time and the method can be used for a wide range of age groups, especially children and asymptomatic and non-cooperative patients. Transportation of the masks would be easier than that of NP swabs as there is no risk of sample contamination or leakage. The cost of both the mask and Viral Transport Medium with swab are comparable ($2.50). The method of collection will be easier and less bio-hazardous waste will be generated.
-
-  / July, 2020 - Clinical Microbiology and Infection
-  let !f self assert = Also, other respiratory viruses can be detected from one sample using multiplex PCR, providing diagnosis for infections other than SARS-CoV-2. The sensitivity and specificity can be derived from further studies, which can compare the face-mask sampling to nasopharyngeal PCR. Even though studies are in the preliminary stages, this innovative approach is a breath of fresh air and provides a new insight for the future.
+  let !c self assert = The major limitation of this method is that it is patient-dependent. Non-compliance in a claustrophobic patient can limit the sensitivity of detection. Another concern is the storage of samples. An NP swab in Viral Transport Medium can be refrigerated at 2°C–8°C for 48 hours and at –70°C for a longer duration and has a shelf life of 5 years. Storage and shelf life of the mask with gelatin strips warrants more studies.
 
 
 
@@ -509,95 +419,32 @@ ref 'Dowell_et_al_09_01_2004
   -- exports
     !a
     !b
-    !c
-    !d
-    !e
-    !f
-    !g
-    !h
-    !i
-    !j
-    !m
-    !n
-  -- counter to fomite transmission/stability
-    !k
-    !l
 
   / September, 2004 - Clinical Infectious Diseases
-  let !a self assert = Twenty-six of 94 swab samples tested positive for viral RNA. Swab samples of respiratory secretions from each of the 4 patients examined tested positive by RT-PCR, as were 12 of 43 swabs from patient rooms and 10 of 47 swabs from other parts of the hospital, including the computer mouses at 2 nursing stations and the handrail of the public elevator.
+  let !a self assert = These data provide a reminder that surfaces can be easily contaminated, especially under stressful and chaotic situations. Surface contamination may occur by direct landing of droplets expelled during patient coughing or sneezing or as a result of indirect transfer from hands contaminated with excreted virus.
 
   / September, 2004 - Clinical Infectious Diseases
-  let !b self assert = Specimens from areas with patients with SARS in the most infectious phase of illness (days 5–15 after onset) were more likely to be RNA positive than were swab specimens from elsewhere (24 of 63 samples vs. 2 of 31 samples; P = .001).
-
-  / September, 2004 - Clinical Infectious Diseases
-  let !c self assert = We found evidence of SARS CoV contaminating a variety of environmental surfaces in some hospital settings but not others. These findings are consistent with observations from previous work with human coronaviruses that these agents can survive on dried inert surfaces and are consistent with proposals that contaminated fomites or hospital surfaces might contribute to spread
-
-  / September, 2004 - Clinical Infectious Diseases
-  let !d self assert = Surface contamination with infectious virus could explain transmission to health care workers who used appropriate barrier and airborne precautions when working directly with patients but not when working in other parts of the hospital, and it could explain some transmission to persons without close contact exposures to patients with SARS.
-
-  / September, 2004 - Clinical Infectious Diseases
-  let !e self assert = These data provide a reminder that surfaces can be easily contaminated, especially under stressful and chaotic situations. Surface contamination may occur by direct landing of droplets expelled during patient coughing or sneezing or as a result of indirect transfer from hands contaminated with excreted virus.
-
-  / September, 2004 - Clinical Infectious Diseases
-  let !f self assert = It also suggests that monitoring and reinforcing strict compliance with infection-control practices should be part of SARS prevention strategies. Additionally, the possibility of environmental contamination following emergency resuscitation procedures and other events where infection-control practices may not have been followed should be addressed.
-
-  / September, 2004 - Clinical Infectious Diseases
-  let !g self assert = The differences in the extent of surface contamination between the hospitals in Taiwan and Thailand are worth considering. The surfaces in the Taiwan hospital were swabbed at a chaotic time. The hospital had just been quarantined, and most ancillary and support services were not functioning; this is the type of setting in which one would expect that a breakdown in infection control might occur.
-
-  / September, 2004 - Clinical Infectious Diseases
-  let !h self assert = It is reassuring that no surfaces tested positive in the hospital in Thailand, perhaps implying that, in a nonchaotic setting, attention to standard quarantine procedures minimizes surface contamination.
-
-  / September, 2004 - Clinical Infectious Diseases
-  let !i self assert = It is, however, also possible that some of the differences in rates of PCR positivity may be due to patient-specific factors and not to differences in infection control practices. The surfaces swabbed in the Thailand hospital were located in an area that had only 1 SARS CoV—positive patient, who had died at day 18 after the onset of illness, a time when viral load would be expected to be low. In contrast, the surfaces swabbed in the Taiwan hospital were located in areas where a number of SARS CoV—infected patients with durations of illness of between 5 and 15 days, when viral shedding is expected to be at its peak, had received treatment.
-
-  / September, 2004 - Clinical Infectious Diseases
-  let !j self assert = In the early days after recognition of the outbreak in the Taiwan hospital, SARS and general infection control guidelines were not consistently applied, and if protective equipment, environmental controls, and appropriate hand hygiene had been consistently applied, it is likely that any impact from possible environmental contamination would have been minimized.
-
-  / September, 2004 - Clinical Infectious Diseases
-  let !k self assert = We emphasize that none of the specimens was culture positive, indicating the possibility that what we identified was noninfectious viral genome in many, most, or all of the cases. It is also possible that there was viable virus on the surfaces but that it failed to grow after the initial handling, inconsistent refrigeration, or prolonged shipping time to the laboratories in Atlanta and Taipei.
-
-  / September, 2004 - Clinical Infectious Diseases
-  let !l self assert = Although the number of surfaces contaminated outside of the areas associated with patients with SARS was low, we did detect virus in the public elevator, and there appeared to be more contamination of surfaces in the nursing stations on both the sixth and eighth floors of the hospital in Taiwan.
-
-  / September, 2004 - Clinical Infectious Diseases
-  let !m self assert = Comparisons of the proportion of swab samples that tested positive for SARS CoV should be interpreted with caution, because the selection of the type and number of surfaces to sample was done nonsystematically and in a chaotic environment and is therefore open to a variety of potential biases. Nevertheless, visitors and staff working in hospitals with patients who have SARS should be aware of the possibility of virus being present outside of the rooms of such patients, despite efforts to contain the spread.
-
-  / September, 2004 - Clinical Infectious Diseases
-  let !n self assert = Contamination of environmental surfaces may play a more important role in transmission than is currently appreciated, and the epidemiologic patterns associated with transmission from fomites, if clustered in patient-care areas with a high level of traffic, such as we found here, might be difficult to distinguish from the patterns predicted by person-to-person or large-droplet spread.
-
+  let !b self assert = Although the number of surfaces contaminated outside of the areas associated with patients with SARS was low, we did detect virus in the public elevator.
 
 
 # counter to fomite stability
 // Exaggerated risk of transmission of COVID-19 by fomites
 doi: https://doi.org/10.1016/S1473-3099(20)30561-2
 ref 'Goldman_et_al_07_03_2020
-  head = A clinically significant risk of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) transmission by fomites (inanimate surfaces or objects) has been assumed on the basis of studies that have little resemblance to real-life scenarios. In my opinion, the chance of transmission through inanimate surfaces is very small, and only in instances where an infected person coughs or sneezes on the surface, and someone else touches that surface soon after the cough or sneeze (within 1–2 h). I do not disagree with erring on the side of caution, but this can go to extremes not justified by the data.  I believe that fomites that have not been in contact with an infected carrier for many hours do not pose a measurable risk of transmission in non-hospital settings. A more balanced perspective is needed to curb excesses that become counterproductive.
-
+  head = A clinically significant risk of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) transmission by fomites (inanimate surfaces or objects) has been assumed on the basis of studies that have little resemblance to real-life scenarios.
   -- exports
     !a
     !b
     !c
-    !d
-    !e
-    !f
 
   / July, 2020 - Lancet Infect Dis
-  let !a self assert = A clinically significant risk of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) transmission by fomites (inanimate surfaces or objects) has been assumed on the basis of studies that have little resemblance to real-life scenarios.
+  let !a self assert = The longest survival (6 days) of severe acute respiratory syndrome coronavirus (SARS-CoV) on surfaces was done by placing a very large initial virus titre sample (10⁷ infectious virus particles) on the surface being tested. Another study that claimed survival of 4 days used a similarly large sample (10⁶ infectious virus particles) on the surface. A report by van Doremalen and colleagues found survival of both SARS-CoV and SARS-CoV-2 of up to 2 days (on surfaces) and 3 days (in aerosols generated in the laboratory), but again with a large inoculum (10⁵–10⁷ infectious virus particles per mL in aerosols, 10⁴ infectious virus particles on surfaces).
 
   / July, 2020 - Lancet Infect Dis
-  let !b self assert = The longest survival (6 days) of severe acute respiratory syndrome coronavirus (SARS-CoV) on surfaces was done by placing a very large initial virus titre sample (10⁷ infectious virus particles) on the surface being tested.  Another study that claimed survival of 4 days used a similarly large sample (10⁶ infectious virus particles) on the surface. A report by van Doremalen and colleagues found survival of both SARS-CoV and SARS-CoV-2 of up to 2 days (on surfaces) and 3 days (in aerosols generated in the laboratory), but again with a large inoculum (10⁵–10⁷ infectious virus particles per mL in aerosols, 10⁴ infectious virus particles on surfaces).
+  let !b self assert = By contrast, one study found human coronavirus 229E to survive for only 3 h, and human coronavirus OC43 to survive for 1 h, after drying on various surfaces including aluminum, sterile latex surgical gloves, and sterile sponges.
 
   / July, 2020 - Lancet Infect Dis
-  let !c self assert = None of these studies present scenarios akin to reallife situations. Although I did not find measurements of coronavirus quantities in aerosol droplets from patients, the amount of influenza virus RNA in aerosols has been measured, with a concentration equivalent to 10–100 viral particles in a droplet, with even fewer infectious influenza virus particles capable of growth in a plaque assay.
-
-  / July, 2020 - Lancet Infect Dis
-  let !d self assert = By contrast, one study found human coronavirus 229E to survive for only 3 h, and human coronavirus OC43 to survive for 1 h, after drying on various surfaces including aluminum, sterile latex surgical gloves, and sterile sponges.
-
-  / July, 2020 - Lancet Infect Dis
-  let !e self assert = In a study in which the authors tried to mimic actual conditions in which a surface might be contaminated by a patient, no viable SARS-CoV was detected on surfaces.
-
-  / July, 2020 - Lancet Infect Dis
-  let !f self assert = A 2020 literature review included most of the studies I have cited here (and others), but adds no new research, and in my view, does not critically evaluate previously published studies. I am not disputing the findings of these studies, only the applicability to real life. For example in the studies that used a sample of 10⁷, 10⁶, and 10⁴ particles of infectious virus on a small surface area,1–3 these concentrations are a lot higher than those in droplets in real-life situations, with the amount of virus actually deposited on surfaces likely to be several orders of magnitude smaller. Hence, a real life situation is better represented in the work of Dowell and colleagues in which no viable virus was found on fomites.
+  let !c self assert = In a study in which the authors tried to mimic actual conditions in which a surface might be contaminated by a patient, no viable SARS-CoV was detected on surfaces.
 
 
 
@@ -605,7 +452,7 @@ ref 'Goldman_et_al_07_03_2020
 // BCG vaccination policy and preventive chloroquine usage: do they have an impact on COVID-19 pandemic?
 doi: https://doi.org/10.1038/s41419-020-2720-9
 ref 'Sharma_et_al_07_08_2020
-  head = We have presented the data, suggesting that the BCG immunization correlates with lower incidence and gravity of the COVID-19 disease across different countries, even when the BCG immunization was performed in childhood. Although the matter of CQ and HCQ does not have the degree of numerical sophistication of BCG vaccination, it still deserves to be considered. Unfortunately, the literature on CQ and HCQ has so far exclusively dealt with their therapeutic role in patients affected by the COVID-19 infection, frequently in its advanced stages. In this contribution, we have instead emphasized the possible chemoprophylactic role of CQ and HCQ: even if the evidence for it is admittedly only circumstantial, such a role should be tested in appropriately designed trials.
+  head = We have presented the data, suggesting that the BCG immunization correlates with lower incidence and gravity of the COVID-19 disease across different countries, even when the BCG immunization was performed in childhood. The literature on CQ and HCQ has so far exclusively dealt in therapeutic role in  advanced stages. We have instead emphasized the possible chemoprophylactic role of CQ and HCQ: even if the evidence for it is admittedly only circumstantial.
 
   >>> Abstract
     Coronavirus disease 2019 (COVID-19) is a severe acute respiratory syndrome caused by Coronavirus 2 (SARS-CoV-2). In the light of its rapid global spreading, on 11 March 2020, the World Health Organization has declared it a pandemic. Interestingly, the global spreading of the disease is not uniform, but has so far left some countries relatively less affected. The reason(s) for this anomalous behavior are not fully understood, but distinct hypotheses have been proposed. Here we discuss the plausibility of two of them: the universal vaccination with Bacillus Calmette–Guerin (BCG) and the widespread use of the antimalarial drug chloroquine (CQ). Both have been amply discussed in the recent literature with positive and negative conclusions: we felt that a comprehensive presentation of the data available on them would be useful. The analysis of data for countries with over 1000 reported COVID-19 cases has shown that the incidence and mortality were higher in countries in which BCG vaccination is either absent or has been discontinued, as compared with the countries with universal vaccination. We have performed a similar analysis of the data available for CQ, a widely used drug in the African continent and in other countries in which malaria is endemic; we discuss it here because CQ has been used as the drug to treat COVID-19 patients. Several African countries no longer recommend it officially for the fight against malaria, due to the development of resistance to Plasmodium, but its use across the continent is still diffuse. Taken together, the data in the literature have led to the suggestion of a possible inverse correlation between BCG immunization and COVID-19 disease incidence and severity.
@@ -617,68 +464,55 @@ ref 'Sharma_et_al_07_08_2020
     !d
     !e
     !f
-    !g
-    !h
-    !i
-    !j
-    !k
-    !l
-    !m
-    !n
-    !o
-    !p
-    !q
+
+
+  # / July, 2020 - Cell Death & Disease
+  # let !a self assert = The analysis of data for countries with over 1000 reported COVID-19 cases has shown that the incidence and mortality were higher in countries in which BCG vaccination is either absent or has been discontinued, as compared with the countries with universal vaccination.
+
+  # / July, 2020 - Cell Death & Disease
+  # let !a self assert = The six major BCG strains, namely Pasteur 1173 P2, Danish 1331, Glaxo 1077 (derived from the Danish strain), Tokyo 172-1, Russia BCG-I, and Moreau RDJ, now account for >90% of the BCG vaccines employed worldwide 25. As five different strains of BCG were employed in different countries, we analyzed their correlative efficacy in protecting against COVID-19. Our data have shown that mixed and JAPAN strains seem superior to the DANISH strain.
+
+  # / July, 2020 - Cell Death & Disease
+  # let !c self assert = BCG exhibits efficacy against disseminated TB and meningitis in childhood26,27; currently, ~100 million children are vaccinated every year worldwide. However, the vaccine exhibits poor efficacy against adult pulmonary TB and several countries have, therefore, discontinued BCG immunization. Subsequently, BCG was shown to exhibit protective effects against leprosy, buruli ulcer, and several other diseases, including those not associated with mycobacteria. BCG is a potent immunomodulator, especially of the cell-mediated immunity, and is employed for the treatment of cancers such as that of the bladder. It is actually being tested for several other cancers. Recently, BCG was shown to exhibit efficacy against type I diabetes. This was first shown in mice in Edmonton in 1993, which also partially protects against sepsis and respiratory infections when given following early infection.
 
   / July, 2020 - Cell Death & Disease
-  let !a self assert = The analysis of data for countries with over 1000 reported COVID-19 cases has shown that the incidence and mortality were higher in countries in which BCG vaccination is either absent or has been discontinued, as compared with the countries with universal vaccination.
+  let !a self assert = The results show that countries without a universal BCG policy (such as Belgium, Italy, the United States, and the Netherlands) have increased incidence of COVID-19 (2810.9 ± 497.1 (mean ± SEM) per million) compared with countries with ongoing national BCG policy (570.9 ± 155.6 (mean ± SEM) per million). The incidence for countries that discontinued BCG vaccination was intermediate between these two groups (1844.67 ± 508.89 (mean ± SEM) per million).
 
   / July, 2020 - Cell Death & Disease
-  let !b self assert = The six major BCG strains, namely Pasteur 1173 P2, Danish 1331, Glaxo 1077 (derived from the Danish strain), Tokyo 172-1, Russia BCG-I, and Moreau RDJ, now account for >90% of the BCG vaccines employed worldwide 25. As five different strains of BCG were employed in different countries, we analyzed their correlative efficacy in protecting against COVID-19. Our data have shown that mixed and JAPAN strains seem superior to the DANISH strain.
+  let !b self assert = In terms of morbidity, the countries with a universal BCG policy exhibited the lowest number of deaths due to COVID-19 (92.4 ± 34.7 (mean ± SEM) per million), which is significantly lower than that for countries that discontinued universal BCG vaccination (104.5 ± 33.6 (mean ± SEM) per million) (p = 0.001, Mann–Whitney U-test). Countries with no BCG vaccination were most profoundly affected (186.1 ± 56.8 (mean ± SEM) per million). These results are in line with two previous reports.
+
+  # / July, 2020 - Cell Death & Disease
+  # let !f self assert = This type of analysis does not reflect the true impact of BCG against COVID-19. For example, a country with a higher percentage of population of elderly people may report more deaths than a country with a relatively younger population, simply because of increased comorbidities that worsen disease severity. Unfortunately, not enough public data are available to analyze the impact of such confounding factors.
+
+  # / July, 2020 - Cell Death & Disease
+  # let !g self assert = The results represent the distribution of disease incidence among different age groups for the three different types of countries, indicating three significant features as follows: (i) the disease incidence is very low for subjects <15 years of age and does not show significant dependence on the presence or absence of universal BCG vaccination policies. This is possibly due to high resistance of young people to symptomatic disease. (ii) The number of infected cases across the age groups is always higher for countries without universal BCG vaccination policy. (iii) The differences between countries with universal BCG vaccine policy and countries without such a policy increase and reach their peak for age groups 45–64 and 65–79 years. The difference in the number of confirmed cases in these age groups is ~550–600 per million of the population between countries with vs. without universal BCG vaccination policy.
+
+  # / July, 2020 - Cell Death & Disease
+  # let !h self assert = The reduction in disease incidence seems significant for countries without universal BCG vaccination policy, where the number of confirmed cases per million is quite high for the younger age groups.
+
+  # / July, 2020 - Cell Death & Disease
+  # let !j self assert = The results show that the distribution of fatal cases per million of people across different age groups for countries without mass vaccination and countries with discontinued mass vaccination are not significantly different (p = 0.41, Mann–Whitney U-test). With increasing age, the death toll increases for countries without or discontinued BCG vaccination programs. In comparison, the mortality is quite consistent and rises only slightly in the elderly population. Differences in the death toll between countries with or without a national BCG program thus suggest that BCG has a role in lowering the COVID-19 casualty by manifold.
+
+  # / July, 2020 - Cell Death & Disease
+  # let !k self assert = Although our results indicate a correlation between BCG vaccination and COVID-19 progression/mortality, one should also note that the confirmed cases to death ratio varies widely among the countries analyzed. This might be due to different strains of BCG used in these countries for an induced trained immunity.
 
   / July, 2020 - Cell Death & Disease
-  let !c self assert = BCG exhibits efficacy against disseminated TB and meningitis in childhood26,27; currently, ~100 million children are vaccinated every year worldwide. However, the vaccine exhibits poor efficacy against adult pulmonary TB and several countries have, therefore, discontinued BCG immunization. Subsequently, BCG was shown to exhibit protective effects against leprosy, buruli ulcer, and several other diseases, including those not associated with mycobacteria. BCG is a potent immunomodulator, especially of the cell-mediated immunity, and is employed for the treatment of cancers such as that of the bladder. It is actually being tested for several other cancers. Recently, BCG was shown to exhibit efficacy against type I diabetes. This was first shown in mice in Edmonton in 1993, which also partially protects against sepsis and respiratory infections when given following early infection.
+  let !c self assert = We found that countries adopting a mixture of different strains of the BCG vaccine such as South Korea and the Philippines reported a lower number of confirmed and fatal cases. The BCG-Denmark and BCG-Russia strains correlated poorly in terms of limiting the COVID-19 spread and casualty. Taken together, the bulk of the data of the analysis appear to be compatible with a correlation between BCG vaccination and susceptibility to COVID-19 disease.
 
   / July, 2020 - Cell Death & Disease
-  let !d self assert = To investigate the impact of BCG vaccination on the spread of COVID-19, we first classified countries into three groups following the data obtained from BCG ATLAS till 29 May 2020. The results show that countries without a universal BCG policy (such as Belgium, Italy, the United States, and the Netherlands) have increased incidence of COVID-19 (2810.9 ± 497.1 (mean ± SEM) per million) compared with countries with ongoing national BCG policy (570.9 ± 155.6 (mean ± SEM) per million). The incidence for countries that discontinued BCG vaccination was intermediate between these two groups (1844.67 ± 508.89 (mean ± SEM) per million).
+  let !d self assert = To this end, a discussion related to certain countries, which have performed very differently compared with other countries is essential. One such example is Brazil. Even if it is a country with universal BCG vaccination policy, the number of deaths due to COVID-19 is the highest among the countries with similar vaccination strategy. This could be due to the use of the BCG-Brazil strain, which has been found ineffective against COVID-19.
 
   / July, 2020 - Cell Death & Disease
-  let !e self assert = In terms of morbidity, the countries with a universal BCG policy exhibited the lowest number of deaths due to COVID-19 (92.4 ± 34.7 (mean ± SEM) per million), which is significantly lower than that for countries that discontinued universal BCG vaccination (104.5 ± 33.6 (mean ± SEM) per million) (p = 0.001, Mann–Whitney U-test). Countries with no BCG vaccination were most profoundly affected (186.1 ± 56.8 (mean ± SEM) per million). These results are in line with two previous reports.
+  let !e self assert = The case of Russia is probably similar, as the BCG strain used in Russia is probably also not effective against the coronavirus. A country that has done extremely well in restricting the COVID-19 spread is Australia. Although Australia has dropped its BCG program back in 1985, the number of incident and deaths due to COVID-19 are very low. This could be due to very low population density of Australia, which helped to restrict the spread of the virus effectively.
 
   / July, 2020 - Cell Death & Disease
-  let !f self assert = This type of analysis does not reflect the true impact of BCG against COVID-19. For example, a country with a higher percentage of population of elderly people may report more deaths than a country with a relatively younger population, simply because of increased comorbidities that worsen disease severity. Unfortunately, not enough public data are available to analyze the impact of such confounding factors.
+  let !f self assert = Similarly, the BCG vaccine, which is routinely administered to all newborns in Israel and was administered to immigrants with unknown vaccination records, showed no statistically significant difference in the susceptibility to the COVID-19 infection.
 
-  / July, 2020 - Cell Death & Disease
-  let !g self assert = The results represent the distribution of disease incidence among different age groups for the three different types of countries, indicating three significant features as follows: (i) the disease incidence is very low for subjects <15 years of age and does not show significant dependence on the presence or absence of universal BCG vaccination policies. This is possibly due to high resistance of young people to symptomatic disease. (ii) The number of infected cases across the age groups is always higher for countries without universal BCG vaccination policy. (iii) The differences between countries with universal BCG vaccine policy and countries without such a policy increase and reach their peak for age groups 45–64 and 65–79 years. The difference in the number of confirmed cases in these age groups is ~550–600 per million of the population between countries with vs. without universal BCG vaccination policy.
+  # / July, 2020 - Cell Death & Disease
+  # let !p self assert = We have performed a similar analysis of the data available for CQ, a widely used drug in the African continent and in other countries in which malaria is endemic. The possibility that the diffuse use of CQ and HCQ may possibly have a chemoprophylactic role in the populations that have so far been much less affected by the pandemic, e.g., those of most African countries or of India, could not be based on the accurate numerical analyses done for the BCG vaccination. However, although highly circumstantial, it should still be discussed, considering the still very diffuse consumption of CQ by populations in which malaria is still endemic.
 
-  / July, 2020 - Cell Death & Disease
-  let !h self assert = The reduction in disease incidence seems significant for countries without universal BCG vaccination policy, where the number of confirmed cases per million is quite high for the younger age groups.
-
-  / July, 2020 - Cell Death & Disease
-  let !i self assert = The consistently reduced disease incidence across all age groups for countries with a universal BCG policy is in line with the suggestion of an inverse correlation between the BCG vaccine and COVID-19. In comparison, a rise in disease incidence across all age groups for countries without a universal BCG policy substantiates the hypothesis that BCG immunization could be repurposed to provide a weapon to combat the COVID-19 pandemic.
-
-  / July, 2020 - Cell Death & Disease
-  let !j self assert = The results show that the distribution of fatal cases per million of people across different age groups for countries without mass vaccination and countries with discontinued mass vaccination are not significantly different (p = 0.41, Mann–Whitney U-test). With increasing age, the death toll increases for countries without or discontinued BCG vaccination programs. In comparison, the mortality is quite consistent and rises only slightly in the elderly population. Differences in the death toll between countries with or without a national BCG program thus suggest that BCG has a role in lowering the COVID-19 casualty by manifold.
-
-  / July, 2020 - Cell Death & Disease
-  let !k self assert = Although our results indicate a correlation between BCG vaccination and COVID-19 progression/mortality, one should also note that the confirmed cases to death ratio varies widely among the countries analyzed. This might be due to different strains of BCG used in these countries for an induced trained immunity.
-
-  / July, 2020 - Cell Death & Disease
-  let !l self assert = We found that countries adopting a mixture of different strains of the BCG vaccine such as South Korea and the Philippines reported a lower number of confirmed and fatal cases. The BCG-Denmark and BCG-Russia strains correlated poorly in terms of limiting the COVID-19 spread and casualty. Taken together, the bulk of the data of the analysis appear to be compatible with a correlation between BCG vaccination and susceptibility to COVID-19 disease.
-
-  / July, 2020 - Cell Death & Disease
-  let !m self assert = To this end, a discussion related to certain countries, which have performed very differently compared with other countries is essential. One such example is Brazil. Even if it is a country with universal BCG vaccination policy, the number of deaths due to COVID-19 is the highest among the countries with similar vaccination strategy. This could be due to the use of the BCG-Brazil strain, which has been found ineffective against COVID-19.
-
-  / July, 2020 - Cell Death & Disease
-  let !n self assert = The case of Russia is probably similar, as the BCG strain used in Russia is probably also not effective against the coronavirus. A country that has done extremely well in restricting the COVID-19 spread is Australia. Although Australia has dropped its BCG program back in 1985, the number of incident and deaths due to COVID-19 are very low. This could be due to very low population density of Australia, which helped to restrict the spread of the virus effectively. However, caution on the BCG matter is still necessary
-
-  / July, 2020 - Cell Death & Disease
-  let !o self assert = Similarly, the BCG vaccine, which is routinely administered to all newborns in Israel and was administered to immigrants with unknown vaccination records, showed no statistically significant difference in the susceptibility to the COVID-19 infection38. Although these two studies seem to impose a strict cautionary note on the preventive use of BCG, it must be noted that the latter study had been performed only on a population of a specific age group in a country that had used an unknown BCG strain. The significance of the Israel study is thus difficult to evaluate, in particular as certain BCG strains are more effective against the COVID-19.
-
-  / July, 2020 - Cell Death & Disease
-  let !p self assert = We have performed a similar analysis of the data available for CQ, a widely used drug in the African continent and in other countries in which malaria is endemic. The possibility that the diffuse use of CQ and HCQ may possibly have a chemoprophylactic role in the populations that have so far been much less affected by the pandemic, e.g., those of most African countries or of India, could not be based on the accurate numerical analyses done for the BCG vaccination. However, although highly circumstantial, it should still be discussed, considering the still very diffuse consumption of CQ by populations in which malaria is still endemic.
-
-  / July, 2020 - Cell Death & Disease
-  let !q self assert = However, caution should be taken, as observational clinical trials for HCQ in COVID-19 patients was not associated with either a greatly lowered or an increased risk of the composite end point of intubation or death also in association with azithromycin and in view of potential toxicity as well. On the other hand, as mentioned above, the negative results of the “Solidarity” international trial on HCQ21 have been indicated to be flawed. In any case, the “therapeutic” effect would not concern the discussion in this contribution, as we are considering its possible prophylactic role.
+  # / July, 2020 - Cell Death & Disease
+  # let !q self assert = However, caution should be taken, as observational clinical trials for HCQ in COVID-19 patients was not associated with either a greatly lowered or an increased risk of the composite end point of intubation or death also in association with azithromycin and in view of potential toxicity as well. On the other hand, as mentioned above, the negative results of the “Solidarity” international trial on HCQ21 have been indicated to be flawed. In any case, the “therapeutic” effect would not concern the discussion in this contribution, as we are considering its possible prophylactic role.
 
 
 
@@ -686,25 +520,25 @@ ref 'Sharma_et_al_07_08_2020
   // Isolation and Characterization of a Novel Bat Coronavirus Closely Related to the Direct Progenitor of Severe Acute Respiratory Syndrome Coronavirus
   doi: https://doi.org/10.1128/JVI.02582-15
   ref 'Yang_et_al_12_30_2015
-  head = We report the isolation and characterization of a novel bat coronavirus which is much closer to the severe acute respiratory syndrome coronavirus (SARS-CoV) in genomic sequence than others previously reported, particularly in its S gene. Cell entry and susceptibility studies indicated that this virus can use ACE2 as a receptor and infect animal and human cell lines. Our results provide further evidence of the bat origin of the SARS-CoV and highlight the likelihood of future bat coronavirus emergence in humans.
+  head = We report the isolation and characterization of a novel bat coronavirus which is much closer to the severe acute respiratory syndrome coronavirus (SARS-CoV) in genomic sequence than others previously reported, particularly in its S gene. Our results provide further evidence of the bat origin of the SARS-CoV and highlight the likelihood of future bat coronavirus emergence in humans.
 
   >>> Abstract
     We report the isolation and characterization of a novel bat coronavirus which is much closer to the severe acute respiratory syndrome coronavirus (SARS-CoV) in genomic sequence than others previously reported, particularly in its S gene. Cell entry and susceptibility studies indicated that this virus can use ACE2 as a receptor and infect animal and human cell lines. Our results provide further evidence of the bat origin of the SARS-CoV and highlight the likelihood of future bat coronavirus emergence in humans.
 
-  -- exports
-    !a
-    !b
-    !c
-    !d
-    !e
-    !f
-    !g
-    !h
-    !i
-    !j
-    !k
-    !l
-    !m
+  # -- exports
+  #   !a
+  #   !b
+  #   !c
+  #   !d
+  #   !e
+  #   !f
+  #   !g
+  #   !h
+  #   !i
+  #   !j
+  #   !k
+  #   !l
+  #   !m
 
   / December, 2015 - Journal of Virology
   let !a self assert = We report the isolation of a new SL-CoV strain, named bat SL-CoV WIV16. SL-CoV WIV16 was isolated from a single fecal sample of Rhinolophus sinicus, which was collected in Kunming, Yunnan Province, in July 2013. The full genomic sequence of SL-CoV WIV16 (GenBank accession number KT444582) was determined and contained 30,290 nucleotides (nt) and a poly(A) tail which is slightly larger than those of SARS-CoVs and other bat SL-CoVs.
@@ -751,17 +585,17 @@ ref 'Sharma_et_al_07_08_2020
   // SARS-CoV-2 and bat RaTG13 spike glycoprotein structures inform on virus evolution and furin-cleavage effects
   doi: https://doi.org/10.1038/s41594-020-0468-7
   ref 'Wrobel_et_al_07_09_2020
-  head = Together, our structural and biochemical data indicate that a bat virus, similar to RaTG13, would not be able to bind effectively to human ACE2 receptor and would be unlikely to infect humans directly. Given the modular nature of the human and bat S glycoproteins, and the number and structural locations of the amino-acid-sequence differences between them,  including a more stable precleavage form of human S and about 1,000-fold tighter binding of SARS-CoV-2 to human receptor. Our observations support the involvement of recombination between distinct coronavirus genomes in the generation of SARS-CoV-2. Furthermore, our study suggests that the presence of the furin-cleavage site in the S protein of SARS-CoV-2 facilitates the conformational change required for RBD exposure and binding to surface receptors.
+  head = Structural and biochemical data indicate that a bat virus, similar to RaTG13, would not be able to bind effectively to human ACE2 receptor and would be unlikely to infect humans directly. Our observations support the involvement of recombination between distinct coronavirus genomes in the generation of SARS-CoV-2.
 
   >>> Abstract
     SARS-CoV-2 is thought to have emerged from bats, possibly via a secondary host. Here, we investigate the relationship of spike (S) glycoprotein from SARS-CoV-2 with the S protein of a closely related bat virus, RaTG13. We determined cryo-EM structures for RaTG13 S and for both furin-cleaved and uncleaved SARS-CoV-2 S; we compared these with recently reported structures for uncleaved SARS-CoV-2 S. We also biochemically characterized their relative stabilities and affinities for the SARS-CoV-2 receptor ACE2. Although the overall structures of human and bat virus S proteins are similar, there are key differences in their properties, including a more stable precleavage form of human S and about 1,000-fold tighter binding of SARS-CoV-2 to human receptor. These observations suggest that cleavage at the furin-cleavage site decreases the overall stability of SARS-CoV-2 S and facilitates the adoption of the open conformation that is required for S to bind to the ACE2 receptor.
 
-  -- exports
-    !a
-    !b
-    !c
-    !d
-    !e
+  # -- exports
+  #   !a
+  #   !b
+  #   !c
+  #   !d
+  #   !e
 
   / July, 2020 - Nature Structural & Molecular Biology
   let !a self assert = Structure of protease-cleaved SARS-CoV-2 S glycoprotein: The observation here of a substantially populated (39%) intermediate form, in which one of the RBDs is disordered and two of NTDs have shifted, suggests that this conformation, which is possibly transient, will lead to a receptor-binding-competent form. Thus, we suspect that, in addition to its requirement for membrane fusion, efficient protease cleavage might be selected to ensure there is a higher proportion of S protein on the virus surface that is capable of binding to receptor.
@@ -805,7 +639,7 @@ ref 'Sharma_et_al_07_08_2020
   // Analysis of Genetic Host Response Risk Factors in Severe COVID-19 Patients
   doi: https://doi.org/xyz
   ref 'Taylor_et_al_06_20_2020
-  head = The variants we found in genes relating to immune response pathways and cytokine production cascades, were in equal proportions across all severe COVID-19 patients, regardless of their co-morbidities. This suggests that such variants are not associated with any specific co-morbidity, but are common amongst patients who develop severe COVID-19. Among the 68 severe COVID-19 risk-associated genes, we found several druggable protein targets and pathways. Nine are targeted by drugs that have reached at least Phase I clinical trials, and a further eight have active chemical starting points for novel drug development. Several of these targets were particularly enriched in specific co-morbidities, providing insights into shared pathological mechanisms underlying both the development of severe COVID-19, ARDS and these predisposing co-morbidities.
+  head = The variants we found in genes relating to immune response pathways and cytokine production cascades, were in equal proportions across all severe COVID-19 patients, regardless of their co-morbidities. We found many novel targets that are involved in key biological pathways associated with the development of severe COVID-19, including production of pro-inflammatory cytokines, endothelial cell dysfunction, lipid droplets, neurodegeneration and viral susceptibility factors.
 
   >>> Background
     Epidemiological studies indicate that as many as 20% of individuals who test positive for COVID-19 develop severe symptoms that can require hospitalization. These symptoms include low platelet count, severe hypoxia, increased inflammatory cytokines and reduced glomerular filtration rate. Additionally, severe COVID-19 is associated with several chronic co-morbidities, including cardiovascular disease, hypertension and type 2 diabetes mellitus. The identification of genetic risk factors that impact differential host responses to SARS-CoV-2, resulting in the development of severe COVID-19, is important in gaining greater understanding into the biological mechanisms underpinning life-threatening responses to the virus. These insights could be used in the identification of high-risk individuals and for the development of treatment strategies for these patients.
@@ -823,95 +657,81 @@ ref 'Sharma_et_al_07_08_2020
     !a
     !b
     !c
-  -- HOST RESPONSE FACTORS AND INFLAMMATION
+    !h
+  -- CARDIOVASCULAR DYSFUNCTION
     !d
-    !e
     !f
     !g
-  -- VASCULAR INFLAMMATION, AUTOPHAGY AND CARDIOVASCULAR DYSFUNCTION
-    !h
-    !i
-    !j
-    !k
-    !l
-    !m
-    !n
   -- Cancer
-    !o
-  -- NEURODEGENERATIVE DISEASE ASSOCIATIONS
-    !p
-    !q
+    !i
   -- ABO BLOOD-GROUP ASSOCIATION
-    !r
+    !j
   -- CALCIUM SIGNALLING PATHWAY
-    !s
-  -- LIPID DROPLET BIOLOGY
-    !t
-  -- Repurposing drugs
-    !u
+    !e
+    !k
+
+  # / June, 2020 - MedRxiv
+  # let !a self assert = Using a combinatorial (high-order epistasis) analysis approach, we identified 68 protein-coding genes that were highly associated with severe COVID-19. At the time of analysis, nine of these genes have been linked to differential response to SARS-CoV-2.
+
+  # / June, 2020 - MedRxiv
+  # let !b self assert = We also found many novel targets that are involved in key biological pathways associated with the development of severe COVID-19, including T cell regulation and host pathogenic responses, production of pro-inflammatory cytokines, endothelial cell dysfunction, lipid droplets, neurodegeneration and viral susceptibility factors.
 
   / June, 2020 - MedRxiv
-  let !a self assert = Using a combinatorial (high-order epistasis) analysis approach, we identified 68 protein-coding genes that were highly associated with severe COVID-19. At the time of analysis, nine of these genes have been linked to differential response to SARS-CoV-2.
+  let !a self assert = We identified twelve genes that are associated with host immune response to viral infections, including SARS-CoV-2. Variants in several of these genes have been associated with increased infectivity to these strains.
+
+  # / June, 2020 - MedRxiv
+  # let !d self assert = HOST RESPONSE FACTORS AND INFLAMMATION: From the number of genes we found relating to immune response pathways and cytokine production cascades. These variants were found in equal proportions across all severe COVID-19 patients, regardless of their co-morbidities. This suggests that variants in these genes may not be associated with any specific co-morbidity, but are common amongst many patients who develop severe COVID-19.
 
   / June, 2020 - MedRxiv
-  let !b self assert = We also found many novel targets that are involved in key biological pathways associated with the development of severe COVID-19, including T cell regulation and host pathogenic responses, production of pro-inflammatory cytokines, endothelial cell dysfunction, lipid droplets, neurodegeneration and viral susceptibility factors.
+  let !b self assert = Our analysis also revealed five genes regulating pro-inflammatory pathways such as necroptosis, reactive oxygen species (ROS) production and cytokine signalling. There were also six genes associated with severe COVID-19 patients that play central roles in lipid droplet biology, as well as having high expression in adipose tissue, correlating with serum lipid levels and coronary artery disease.
 
   / June, 2020 - MedRxiv
-  let !c self assert = We identified twelve genes that are associated with host immune response to viral infections, including SARS-CoV-2. Variants in several of these genes have been associated with increased infectivity to these strains.
+  let !c self assert = HOPX regulates a variety of different cellular processes, including cardiac development and myogenesis. It seems likely that patients who develop severe COVID-19 may have an inherent imbalance in these factors. Similarly, we identified SNP variants in ITK that were highly associated with severe COVID-19. High ITK expression is associated with Th2-driven diseases such as allergic asthma, causing pro-inflammatory cytokine production, eosinophil infiltration and production of mucus.
+
+  # / June, 2020 - MedRxiv
+  # let !g self assert = Whilst MLKL-induced necrosis may be useful in limiting viral replication, increased necroptosis can also lead to increased inflammation and tissue damage. SNP variants in MLKL could be predisposing patients to severe COVID-19 in one of two ways; with under-functioning protein resulting in poor viral clearance, or through over-expression and over-activation of the necroptotic inflammatory response resulting in organ damage. The SNP variant identified in MLKL was found in the highest scoring 20% of the significant genes in the severe COVID-19 dataset and is present in 251 cases. It is not highly associated with any of the most common co-morbidities found in this dataset.
+
+  # / June, 2020 - MedRxiv
+  # let !h self assert = In addition, our analysis revealed 12 more genes that may be implicated in the vascular complications seen in COVID-19. These are all highly expressed in the cardiovascular system, modulating cardiac function and endothelial cell homeostasis.
+
+  # / June, 2020 - MedRxiv
+  # let !i self assert = VASCULAR INFLAMMATION, AUTOPHAGY AND CARDIOVASCULAR DYSFUNCTION: Many of the risk-associated SNPs that we found that were related to these pathological pathways were found in severe COVID-19 patients who had at least one of these co-morbidities. However, we controlled for this effect by co-morbidity-matching these cases against the sepsis-free controls, meaning that these SNPs are not likely to be just be artefacts of the co-associated comorbidity, but a differentiating factor in the development of severe COVID-19 and ARDS.
 
   / June, 2020 - MedRxiv
-  let !d self assert = HOST RESPONSE FACTORS AND INFLAMMATION: From the number of genes we found relating to immune response pathways and cytokine production cascades, it is clear that patients who develop severe COVID-19 and ARDS may have innate genetic variants that prevent this balance from being struck. These variants were found in equal proportions across all severe COVID-19 patients, regardless of their co-morbidities. This suggests that variants in these genes may not be associated with any specific co-morbidity, but are common amongst many patients who develop severe COVID-19.
+  let !d self assert = Our analysis revealed that variants in IZKF2 were disproportionately co-associated with patients with hypertension.
 
   / June, 2020 - MedRxiv
-  let !e self assert = Our analysis also revealed five genes regulating pro-inflammatory pathways such as necroptosis, reactive oxygen species (ROS) production and cytokine signalling. There were also six genes associated with severe COVID-19 patients that play central roles in lipid droplet biology, as well as having high expression in adipose tissue, correlating with serum lipid levels and coronary artery disease.
+  let !e self assert = Although more research is required to fully understand the role of MCUB in severe COVID-19 pathogenesis, a decreased level of serum calcium has been suggested as a biomarker for increased COVID-19 severity and ARDS.
 
   / June, 2020 - MedRxiv
-  let !f self assert = HOPX regulates a variety of different cellular processes, including cardiac development and myogenesis. It seems likely that patients who develop severe COVID-19 may have an inherent imbalance in these factors. Similarly, we identified SNP variants in ITK that were highly associated with severe COVID-19. High ITK expression is associated with Th2-driven diseases such as allergic asthma, causing pro-inflammatory cytokine production, eosinophil infiltration and production of mucus.
+  let !f self assert = High levels of PKCβ result in increased vascular inflammation, endothelial dysfunction and oxidative stress, all of which have been found in patients with severe COVID-19.
 
   / June, 2020 - MedRxiv
-  let !g self assert = Whilst MLKL-induced necrosis may be useful in limiting viral replication, increased necroptosis can also lead to increased inflammation and tissue damage. SNP variants in MLKL could be predisposing patients to severe COVID-19 in one of two ways; with under-functioning protein resulting in poor viral clearance, or through over-expression and over-activation of the necroptotic inflammatory response resulting in organ damage. The SNP variant identified in MLKL was found in the highest scoring 20% of the significant genes in the severe COVID-19 dataset and is present in 251 cases. It is not highly associated with any of the most common co-morbidities found in this dataset.
+  let !g self assert = Our analysis identified CIDEA and a perilipin, PLIN4, as being highly associated with severe COVID-19 patients. SNPs in CIDEA were found in one of the highest proportions in severe COVID-19 patients, particularly in patients with cardiovascular and hypertensive diseases. This indicates that insulin resistance is a contributing factor to vascular inflammatory pathologies that may predispose patients to developing ARDS in response to SARS-CoV-2.
 
   / June, 2020 - MedRxiv
-  let !h self assert = In addition, our analysis revealed 12 more genes that may be implicated in the vascular complications seen in COVID-19. These are all highly expressed in the cardiovascular system, modulating cardiac function and endothelial cell homeostasis.
+  let !h self assert = Variants in GFRA1 are within the highest 10% of genes most associated with hypertensive patients in our case population.
 
   / June, 2020 - MedRxiv
-  let !i self assert = VASCULAR INFLAMMATION, AUTOPHAGY AND CARDIOVASCULAR DYSFUNCTION: Many of the risk-associated SNPs that we found that were related to these pathological pathways were found in severe COVID-19 patients who had at least one of these co-morbidities. However, we controlled for this effect by co-morbidity-matching these cases against the sepsis-free controls, meaning that these SNPs are not likely to be just be artefacts of the co-associated comorbidity, but a differentiating factor in the development of severe COVID-19 and ARDS.
+  let !i self assert = Amongst other cancer-associated genes, our analysis identified nine genes that regulate either the Wnt or β-catenin components of the Wnt/β-catenin pathway. Due to the significant number of genes found to regulate this pathway in our analysis, we believe that modulation of this pathway could be of benefit to a large number of patients who develop severe COVID-19. Except for KRAS and SLC9A9, all of the proteins encoded by these genes act as endogenous inhibitors of the pathway.
+
+  # / June, 2020 - MedRxiv
+  # let !p self assert = NEURODEGENERATIVE DISEASE ASSOCIATIONS: Our analysis identified a strong conserved signal for four genes that also confer greater risk of developing AD, including MAPT, the key gene underlying tau pathology. We also found three additional genes that were significant in a previous neurodegenerative disease study we performed.
+
+  # / June, 2020 - MedRxiv
+  # let !q self assert = We have also shown that increasing the activity of two of these genes in a mixed cell neuronal assay containing SOD1 reactive astrocytes significantly improves motor neurone survival. This could indicate shared biological pathways that drive both severe COVID-19 and neurodegeneration, potentially through pro-inflammatory, neurotoxic mechanisms. However, the SNP variants found in these genes were not highly enriched in the few severe COVID-19 patients who had been diagnosed with AD. This is likely due to the relatively low numbers of cases diagnosed with AD in UK Biobank as a whole.
 
   / June, 2020 - MedRxiv
-  let !j self assert = Helios (IZKF2) expression is used as a marker for regulatory T cells (Tregs), and therefore has an important role in self-tolerance and regulating autoimmunity. Decreased levels of Helios+ Tregs have been observed in patients with hypertension and rheumatoid arthritis, with lower expression levels correlating with increased inflammatory markers. Tregs may protect against hypertension by limiting vascular inflammation through suppression of effector T cells. Furthermore, our analysis revealed that variants in IZKF2 were disproportionately co-associated with patients with hypertension. This adds further evidence to the association between vascular inflammation, severe COVID-19 and cardiovascular hypertensive co-morbidities.
+  let !j self assert = ABO BLOOD-GROUP ASSOCIATION: We found that blood group A was significantly overrepresented in the cases compared to the sepsis-free controls (p=0.037) and all UK Biobank individuals (p=0.096), indicating that it confers a risk factor for developing severe COVID-19. On the other hand, blood group O was found in fewer severe COVID-19 cases (p=0.154) than the controls and the UK Biobank as a whole (p=0.05).
 
   / June, 2020 - MedRxiv
-  let !k self assert = MCUB encodes one of the pore-forming subunits of the mitochondrial Ca2+ uniporter (MCU). MCUB is a necessary part of a protective response against mitochondrial Ca2+ overload during cardiac injury and ischemia. Although more research is required to fully understand the role of MCUB in severe COVID-19 pathogenesis, a decreased level of serum calcium has been suggested as a biomarker for increased COVID-19 severity and ARDS.
+  let !k self assert = CALCIUM SIGNALLING PATHWAY: The gene cluster at 3p21.31 identified as a susceptibility locus for respiratory failure in COVID-19 contains several genes that are involved in calcium ion signalling, which may be responsible for driving severe COVID-19 responses in patients with variants in genes that regulate the expression and activity of this ion.
 
-  / June, 2020 - MedRxiv
-  let !l self assert = PKCβ (PRKCB) is a serine/threonine protein kinase that is activated by calcium. It has a range of functions, including B cell activation, endothelial cell proliferation and activation of apoptosis. We find that in our case population, the risk-associated SNP found in PRKCB was found in 165 severe COVID-19 cases (penetrance = 20.2%), and was present in 45% of patients with cardiovascular disease and 51% of patients with hypertension. High levels of PKCβ result in increased vascular inflammation, endothelial dysfunction and oxidative stress, all of which have been found in patients with severe COVID-19.
+  # / June, 2020 - MedRxiv
+  # let !t self assert = LIPID DROPLET BIOLOGY: We identified six genes associated with lipids and adipose tissue, with three genes directly involved in lipid droplet formation.
 
-  / June, 2020 - MedRxiv
-  let !m self assert = We also found genes, including CIDEA and PLIN4, that protect against insulin resistance (IR). IR results in increased cardiovascular inflammation and oxidative stress, contributing to atherosclerotic plaque formation and hypertension. High Cidea expression decreases circulating fatty acid levels by increasing the level of triglycerides stored in lipid droplets. This helps to protect against insulin resistance. Our analysis identified CIDEA and a perilipin, PLIN4, as being highly associated with severe COVID-19 patients. SNPs in CIDEA were found in one of the highest proportions in severe COVID-19 patients, particularly in patients with cardiovascular and hypertensive diseases. This indicates that insulin resistance is a contributing factor to vascular inflammatory pathologies that may predispose patients to developing ARDS in response to SARS-CoV-2.
-
-  / June, 2020 - MedRxiv
-  let !n self assert = Finally, variants in GFRA1 are within the highest 10% of genes most associated with hypertensive patients in our case population. GFRα1, encoded by GFRA1, plays a key role in glial cell line-derived neurotrophic factor (GDNF)-mediated signalling. GFRα1 induces autophagy via activation of the RET/AMPK signalling pathway independently from its interaction with GDNF.
-
-  / June, 2020 - MedRxiv
-  let !o self assert = Amongst other cancer-associated genes, our analysis identified nine genes that regulate either the Wnt or β-catenin components of the Wnt/β-catenin pathway.  Due to the significant number of genes found to regulate this pathway in our analysis, we believe that modulation of this pathway could be of benefit to a large number of patients who develop severe COVID-19. Except for KRAS and SLC9A9, all of the proteins encoded by these genes act as endogenous inhibitors of the pathway.
-
-  / June, 2020 - MedRxiv
-  let !p self assert = NEURODEGENERATIVE DISEASE ASSOCIATIONS: Our analysis identified a strong conserved signal for four genes that also confer greater risk of developing AD, including MAPT, the key gene underlying tau pathology. We also found three additional genes that were significant in a previous neurodegenerative disease study we performed. This unpublished study identified several gene variants in which were highly associated in cases with sporadic amyotrophic lateral sclerosis (ALS).
-
-  / June, 2020 - MedRxiv
-  let !q self assert = We have also shown that increasing the activity of two of these genes in a mixed cell neuronal assay containing SOD1 reactive astrocytes significantly improves motor neurone survival. This could indicate shared biological pathways that drive both severe COVID-19 and neurodegeneration, potentially through pro-inflammatory, neurotoxic mechanisms. However, the SNP variants found in these genes were not highly enriched in the few severe COVID-19 patients who had been diagnosed with AD. This is likely due to the relatively low numbers of cases diagnosed with AD in UK Biobank as a whole.
-
-  / June, 2020 - MedRxiv
-  let !r self assert = ABO BLOOD-GROUP ASSOCIATION: We found that blood group A was significantly overrepresented in the cases compared to the sepsis-free controls (p=0.037) and all UK Biobank individuals (p=0.096), indicating that it confers a risk factor for developing severe COVID-19. On the other hand, blood group O was found in fewer severe COVID-19 cases (p=0.154) than the controls and the UK Biobank as a whole (p=0.05). This supports the findings that having O blood group conferred a protective effect against developing respiratory failure during COVID-19.
-
-  / June, 2020 - MedRxiv
-  let !s self assert = CALCIUM SIGNALLING PATHWAY: Furthermore, the gene cluster at 3p21.31 identified as a susceptibility locus for respiratory failure in COVID-1958 contains several genes that are involved in calcium ion signalling; SLC6A29 is a regulator of calcium-dependent amino acid uptake, and CXCR9 and CCR9 act as a signalling molecules by increasing the level of intracellular Ca2+. This suggests that aberrant calcium ion signalling may be responsible for driving severe COVID-19 responses in patients with variants in genes that regulate the expression and activity of this ion. We intend to perform further analyses to confirm this hypothesis.
-
-  / June, 2020 - MedRxiv
-  let !t self assert = LIPID DROPLET BIOLOGY: We identified six genes associated with lipids and adipose tissue, with three genes directly involved in lipid droplet formation.
-
-  / June, 2020 - MedRxiv
-  let !u self assert = Out of the total 68 genes, nine are targeted by clinical candidates that have been evaluated in Phase I clinical trials and beyond. These could potentially form the basis of repurposing therapies, after evaluating factors such as safety and pharmacology data. A further eight targets have active chemistry in ChEMBL57, meaning they have active chemical starting points for novel drug development. We can also extend our search for repurposing candidates by looking into known gene interactions to find other more tractable targets in implicated in the same biological pathway.
+  # / June, 2020 - MedRxiv
+  # let !u self assert = Out of the total 68 genes, nine are targeted by clinical candidates that have been evaluated in Phase I clinical trials and beyond. These could potentially form the basis of repurposing therapies, after evaluating factors such as safety and pharmacology data. A further eight targets have active chemistry in ChEMBL57, meaning they have active chemical starting points for novel drug development. We can also extend our search for repurposing candidates by looking into known gene interactions to find other more tractable targets in implicated in the same biological pathway.
 
 
 
@@ -933,16 +753,16 @@ ref 'Sharma_et_al_07_08_2020
   >>> Conclusions
     We identified a 3p21.31 gene cluster as a genetic susceptibility locus in patients with Covid-19 with respiratory failure and confirmed a potential involvement of the ABO blood-group system.
 
-  -- exports
-    !a
-    !b
-    !c
-    !d
-    !e
-    !f
-    !g
-    !h
-    !i
+  # -- exports
+  #   !a
+  #   !b
+  #   !c
+  #   !d
+  #   !e
+  #   !f
+  #   !g
+  #   !h
+  #   !i
 
   / July, 2020 - The New England Journal of Medicine
   let !a self assert = We detected cross-replicating associations with rs11385942 at locus 3p21.31 and with rs657152 at locus 9q34.2, which were significant at the genomewide level (P<5×10−8) in the meta-analysis of the two case–control panels (odds ratio, 1.77; 95% confidence interval [CI], 1.48 to 2.11; P=1.15×10−10; and odds ratio, 1.32; 95% CI, 1.20 to 1.47; P=4.95×10−8, respectively).
@@ -977,7 +797,7 @@ ref 'Sharma_et_al_07_08_2020
   // The major genetic risk factor for severe COVID-19 is inherited from Neandertals
   doi: https://doi.org/10.1101/2020.07.03.186296
   ref 'Zeberg_et_al_07_03_2020
-  head = We show that the risk is conferred by a genomic segment of ~50 kb that is inherited from Neandertals and the Neandertal haplotype occurs at a frequency of ~30% in south Asia and ~8% in Europe. Among admixed Americans at 4% and at lower frequencies in East Asia. The highest frequency occurs in Bangladesh, where more than half the population (63%) carries at least one copy of the Neandertal risk variant and 13% is homozygous for the variant. The Neandertal variant may thus be a substantial contributor to COVID-19 risk in certain populations. Currently it is not known what feature in the Neandertal-derived region confers risk for severe COVID-19 and if the effects of any such feature is specific to current coronaviruses or indeed to any other pathogens. However, in the current pandemic, it is clear that gene flow from Neandertals has tragic consequences.
+  head = We show that the risk is conferred by a genomic segment of ~50 kb that is inherited from Neandertals and the Neandertal haplotype occurs at a frequency of ~30% in south Asia and ~8% in Europe.
 
   >>> Abstract
     A recent genetic association study (Ellinghaus et al. 2020) identified a gene cluster on chromosome 3 as a risk locus for respiratory failure in SARS-CoV-2. Recent data comprising 3,199 hospitalized COVID-19 patients and controls reproduce this and find that it is the major genetic risk factor for severe SARS-CoV-2 infection and hospitalization (COVID-19 Host Genetics Initiative). Here, we show that the risk is conferred by a genomic segment of ~50 kb that is inherited from Neandertals and occurs at a frequency of ~30% in south Asia and ~8% in Europe.
@@ -987,38 +807,33 @@ ref 'Sharma_et_al_07_08_2020
     !b
     !c
     !d
-    !e
-    !f
-    !g
-    !h
-    !i
+
+  # / July, 2020 - bioRxiv
+  # let !a self assert = An early study identified two genomic regions associated with severe COVID-19: one region on chromosome 3 containing six genes and one region on chromosome 9 that determines the ABO blood group.
 
   / July, 2020 - bioRxiv
-  let !a self assert = An early study identified two genomic regions associated with severe COVID-19: one region on chromosome 3 containing six genes and one region on chromosome 9 that determines the ABO blood group.
+  let !a self assert = A recently released dataset from the COVID-19 Host Genetics Initiative finds that the region on chromosome 3 is the only region significantly associated with severe COVID-19 at the genome-wide level while the signal from the region determining ABO-blood group is not replicated (The COVID-19 Host Genetics Initiative 2020).
+
+  # / July, 2020 - bioRxiv
+  # let !c self assert = The genetic variants which are associated with severe COVID-19 on chromosome 3 (chr3: 45,859,651-45,909,024, hg19) are all in high linkage disequilibrium (LD), i.e. they are all strongly associated with each other in the population (r2>0.99), and span 49.4 thousand bases (kb). A haplotype of such length could be due to positive selection, to an unusually low recombination rate in the region, or to that the haplotype entered the human population by gene flow from Neandertals or Denisovans that occurred some 40,000 to 60,000 years ago.
+
+  # / July, 2020 - bioRxiv
+  # let !d self assert = Positive selection seems unlikely at least under current conditions when the odds ratio for respiratory insufficiency upon SARS-CoV-2 for heterozygous carriers of the haplotype is 1.70 (95% CI, 1.27 to 2.26). The recombination rate in the region is not unusually low (0.53 cM/mb).
+  #
+  # / July, 2020 - bioRxiv
+  # let !e self assert = The previously identified lead risk insertion variant (rs11385942) is present in all 33 DNA fragments covering this this position in the Vindija 33.19 Neandertal, a ~50,000-old-old Neandertal from Croatia in southern Europe.
+
+  # / July, 2020 - bioRxiv
+  # let !f self assert = Of 14 single nucleotide variants in the 1000 Genomes Project that are in high LD (r2>0.99) with the insertion risk variant in Eurasian populations, 12 occur in a homozygous form in the Vindija 33.19 Neandertal. Four of these variants occur the “Altai” as well as in the Chagyrskaya 8 Neandertals, both of whom come from the Altai Mountains in southern Siberia and are ~120,000 and ~50,000 years old, respectively while none occur in the Denisovan genome. Thus, the risk haplotype is similar to the corresponding genomic region in the Neandertal from Croatia and less similar to the Neandertals from Siberia.
 
   / July, 2020 - bioRxiv
-  let !b self assert = A recently released dataset from the COVID-19 Host Genetics Initiative finds that the region on chromosome 3 is the only region significantly associated with severe COVID-19 at the genome-wide level while the signal from the region determining ABO-blood group is not replicated (The COVID-19 Host Genetics Initiative 2020).
+  let !b self assert = We exclude that the Neandertal-like haplotype derives from the common ancestor (p = 0.0009). It thus entered the modern human population from Neandertals. Its close relationship to the Croatian Vindija 33.19 Neandertal is compatible with that this Neandertal has been shown to be closer to the majority of the Neandertals who contributed DNA to present-day people than the other two Neandertals.
 
   / July, 2020 - bioRxiv
-  let !c self assert = The genetic variants which are associated with severe COVID-19 on chromosome 3 (chr3: 45,859,651-45,909,024, hg19) are all in high linkage disequilibrium (LD), i.e. they are all strongly associated with each other in the population (r2>0.99), and span 49.4 thousand bases (kb). A haplotype of such length could be due to positive selection, to an unusually low recombination rate in the region, or to that the haplotype entered the human population by gene flow from Neandertals or Denisovans that occurred some 40,000 to 60,000 years ago.
+  let !c self assert = We find that all risk haplotypes associated with the risk for severe COVID-19 form a clade with the three high-coverage Neandertal genomes. Within this clade, they are most closely related to the Vindija 33.19 Neandertal.
 
   / July, 2020 - bioRxiv
-  let !d self assert = Positive selection seems unlikely at least under current conditions when the odds ratio for respiratory insufficiency upon SARS-CoV-2 for heterozygous carriers of the haplotype is 1.70 (95% CI, 1.27 to 2.26). The recombination rate in the region is not unusually low (0.53 cM/mb). We therefore investigated whether the haplotype may have come from Neandertals or Denisovans.
-
-  / July, 2020 - bioRxiv
-  let !e self assert = The previously identified lead risk insertion variant (rs11385942) is present in all 33 DNA fragments covering this this position in the Vindija 33.19 Neandertal, a ~50,000-old-old Neandertal from Croatia in southern Europe (Prüfer et al. 2017).
-
-  / July, 2020 - bioRxiv
-  let !f self assert = Of 14 single nucleotide variants in the 1000 Genomes Project that are in high LD (r2>0.99) with the insertion risk variant in Eurasian populations, 12 occur in a homozygous form in the Vindija 33.19 Neandertal. Four of these variants occur the “Altai” as well as in the Chagyrskaya 8 Neandertals, both of whom come from the Altai Mountains in southern Siberia and are ~120,000 and ~50,000 years old, respectively while none occur in the Denisovan genome. Thus, the risk haplotype is similar to the corresponding genomic region in the Neandertal from Croatia and less similar to the Neandertals from Siberia.
-
-  / July, 2020 - bioRxiv
-  let !g self assert = The longer a present-day haplotype that shared with Neandertals is, the less likely this is to be the case as recombination in each generations will tend to break up haplotypes into smaller segments. Assuming a generational time of 29 years, the local recombination rate (0.53 cM/Mb), a split between Neandertals and modern humans of 550,000 years, and interbreeding between the two groups ~50,000 years ago, and using a published equation, we exclude that the Neandertal-like haplotype derives from the common ancestor (p = 0.0009). It thus entered the modern human population from Neandertals. Its close relationship to the Croatian Vindija 33.19 Neandertal is compatible with that this Neandertal has been shown to be closer to the majority of the Neandertals who contributed DNA to present-day people than the other two Neandertals.
-
-  / July, 2020 - bioRxiv
-  let !h self assert = A Neandertal DNA haplotype present in the genomes of people living today is expected to be more similar to a Neandertal genome than to other haplotypes in the current human population. We find that all risk haplotypes associated with the risk for severe COVID-19 form a clade with the three high-coverage Neandertal genomes. Within this clade, they are most closely related to the Vindija 33.19 Neandertal.
-
-  / July, 2020 - bioRxiv
-  let !i self assert = Among the individuals in the 1000 Genome Project, the Neanderthal-derived risk haplotypes is almost completely absent in Africa, consistent with that gene flow from Neandertals into African populations was limited and probably indirect (Chen et al. 2020).
+  let !d self assert = Among the individuals in the 1000 Genome Project, the Neanderthal-derived risk haplotypes is almost completely absent in Africa, consistent with that gene flow from Neandertals into African populations was limited and probably indirect.
 
 
 
@@ -1026,31 +841,31 @@ ref 'Sharma_et_al_07_08_2020
   // Exceptional diversity and selection pressure on SARS-CoV and SARS-CoV-2 host receptor in bats compared to other mammals
   doi: https://doi.org/10.1101/2020.04.20.051656
   ref 'Frank_et_al_04_20_2020
-  head = We find that the ACE2 gene is under strong selection pressure in bats, the group in which the progenitors of SARS-CoV and SARS-CoV-2 are hypothesized to have evolved, particularly in residues that contact SARS-CoV and SARS-CoV-2. We detect positive selection in non-bat mammals in ACE2 but in a smaller proportion of branches than in bats, without enrichment of selection in residues that contact SARS-CoV or SARS-CoV-2. Additionally, we evaluate similarity between humans and other species in residues that contact SARS-CoV or SARS-CoV-2, revealing potential susceptible species but also highlighting the difficulties of predicting spillover events. This work increases our understanding of the relationship between mammals, particularly bats, and coronaviruses, and provides data that can be used in functional studies of how host proteins are bound by SARS-CoV and SARS-CoV-2 strains.
+  head = We find that the ACE2 gene is under strong selection pressure in bats, the group in which the progenitors of SARS-CoV and SARS-CoV-2 are hypothesized to have evolved, particularly in residues that contact SARS-CoV and SARS-CoV-2. While its in a smaller proportion in non-bat mammals without enrichment of selection in residues.
 
   >>> Abstract
     Pandemics originating from pathogen transmission between animals and humans highlight the broader need to understand how natural hosts have evolved in response to emerging human pathogens and which groups may be susceptible to infection. Here, we investigate angiotensin-converting enzyme 2 (ACE2), the host protein bound by SARS-CoV and SARS-CoV-2. We find that the ACE2 gene is under strong selection pressure in bats, the group in which the progenitors of SARS-CoV and SARS-CoV-2 are hypothesized to have evolved, particularly in residues that contact SARS-CoV and SARS-CoV-2. We detect positive selection in non-bat mammals in ACE2 but in a smaller proportion of branches than in bats, without enrichment of selection in residues that contact SARS-CoV or SARS-CoV-2. Additionally, we evaluate similarity between humans and other species in residues that contact SARS-CoV or SARS-CoV-2, revealing potential susceptible species but also highlighting the difficulties of predicting spillover events. This work increases our understanding of the relationship between mammals, particularly bats, and coronaviruses, and provides data that can be used in functional studies of how host proteins are bound by SARS-CoV and SARS-CoV-2 strains.
 
-  -- exports
-    !a
-    !b
-    !c
-    !d
-    !e
-    !f
-    !g
-    !h
-    !i
-    !j
-    !k
-    !l
-    !m
-    !n
-    !o
-    !p
-    !q
-    !r
-    !s
+  # -- exports
+  #   !a
+  #   !b
+  #   !c
+  #   !d
+  #   !e
+  #   !f
+  #   !g
+  #   !h
+  #   !i
+  #   !j
+  #   !k
+  #   !l
+  #   !m
+  #   !n
+  #   !o
+  #   !p
+  #   !q
+  #   !r
+  #   !s
 
   / April, 2020 - bioRxiv
   let !a self assert = Mammals, particularly bats, are diverse at ACE2 contact residues for SARS-CoV and SARS62 CoV-2: In bats (N=96), we found a minimum of 64 unique amino acid sequences across the 24 amino acids and 49 across the 7 amino acids, while in other mammals (N=111), we found a minimum of 68 unique amino acid sequences across the 24 amino acids and 38 across the 7 amino acids.
@@ -1115,30 +930,30 @@ ref 'Sharma_et_al_07_08_2020
   // Single source of pangolin CoVs with a near identical Spike RBD to SARS-CoV-2
   doi: https://doi.org/10.1101/2020.07.07.184374
   ref 'Chan_et_al_07_07_2020
-  head = Our analysis points out that the two complete pangolin CoV genomes, GD_1 by Xiao et al. Nature2 and MP789 by Liu et al. PLoS Pathogen, were built primarily using the same metagenomic dataset published by Liu et al. Viruses in 2019. Due to the fact that both groups of authors have not made publicly available the gap-filling PCR sequences and other CoV sequences that were used to supplement each of their pangolin CoV genomes, it is not possible to independently assemble these genomes. Although there is only a single source of pangolin CoVs that share a near identical Spike RBD with SARS-CoV-2, and there is as yet no direct evidence of pangolins being an intermediate host of SARS-CoV-2, we would like to reinforce that pangolins and other trafficked animals should continue to be considered as carriers of infectious viruses with the potential to transmit into humans.1–3,5
+  head = Our analysis points out that the two complete pangolin CoV genomes, GD_1 by Xiao et al. and MP789 by Liu et al., were built primarily using the same metagenomic dataset published by Liu et al. in 2019. There is as yet no direct evidence of pangolins being an intermediate host of SARS-CoV-2, we would like to reinforce that pangolins and other trafficked animals should continue to be considered as carriers of infectious viruses with the potential to transmit into humans.
 
   >>> Abstract
     Multiple publications have independently described pangolin CoV genomes from the same batch of smuggled pangolins confiscated in Guangdong province in March, 2019. We analyzed the three metagenomic datasets that sampled this batch of pangolins and found that the two complete pangolin CoV genomes, GD_1 by Xiao et al. Nature and MP789 by Liu et al. PLoS Pathogens, were both built primarily using the 2019 dataset first described by Liu et al. Viruses. Other publications, such as Zhang et al. Current Biology and Lam et al. Nature, have also relied on this same dataset by Liu et al. Viruses for their assembly of pangolin CoV sequences and comparisons to SARS-CoV-2. To our knowledge, all of the published pangolin CoV genome sequences that share a nearly identical Spike receptor binding domain with SARS-CoV-2 originate from this single batch of smuggled pangolins. This raises the question of whether pangolins are truly reservoirs or hosts of SARS-CoV-2-related coronaviruses in the wild, or whether the pangolins may have contracted the CoV from another host species during trafficking. Our observations highlight the importance of requiring authors to publish their complete genome assembly pipeline and all contributing raw sequence data, particularly those supporting epidemiological investigations, in order to empower peer review and independent analysis of the sequence data.
 
-  -- exports
-    !a
-    !b
-    !c
-    !d
-    !e
-    !f
-    !g
-    !h
-    !i
-    !j
-    !k
-    !l
-    !m
-    !n
-    !o
-    !p
-    !q
-    !r
+  # -- exports
+  #   !a
+  #   !b
+  #   !c
+  #   !d
+  #   !e
+  #   !f
+  #   !g
+  #   !h
+  #   !i
+  #   !j
+  #   !k
+  #   !l
+  #   !m
+  #   !n
+  #   !o
+  #   !p
+  #   !q
+  #   !r
 
   / July, 2020 - bioRxiv
   let !a self assert = The Guangdong pangolin CoV, obtained from a batch of 21 smuggled pangolins in Guangdong province in March, 2019, was originally described in October, 2019 by Liu et al. Viruses. Since then, Liu et al. PLoS Pathogens, Xiao et al. Nature, Zhang et al. Current Biology, and Lam et al. Nature have each analyzed CoV sequences from this same batch of pangolins. In addition, Lam et al. describe CoVs from another batch of smuggled pangolins in Guangxi province; however, these Guangxi pangolin CoVs do not share such a high level of Spike RBD identity (only 86-87% amino acid identity) with SARS-CoV-2.
@@ -1200,46 +1015,47 @@ ref 'Sharma_et_al_07_08_2020
   // Broad Host Range of SARS-CoV-2 Predicted by Comparative and Structural Analysis of ACE2 in Vertebrates.
   doi: https://doi.org/10.1101/2020.04.16.045302
   ref 'Damas_et_al_04_18_2020
-  head = We predict that species scored as very high and high for SARS-CoV-2 S binding to ACE2 will have a high probability of becoming infected by the virus. While species having a medium score have some risk of infection, and species scored as very low and low are unlikely to be infected by SARS-CoV-2 via the ACE2 receptor. Furthermore, we cannot exclude the possibility that infection in any species occurs via another cellular receptor, as has been shown for other betacoronaviruses. Importantly, our predictions are based solely on in silico analyses and must be confirmed by direct experimental data. Until such time, other than for species in which SARS-CoV-2 infection has been demonstrated to occur using ACE2, we urge caution not to over-interpret the predictions made in the present study. This is especially important with regards to species, endangered or otherwise, in human care.
+  head = We utilized a unique dataset of 410 vertebrates, including 252 mammals, to study cross-species conservation of ACE2 and its likelihood to function as a SARS-CoV-2 receptor. Our results may lead to the identification of intermediate host species for SARS-CoV-2, justify the selection of animal models of COVID-19, and assist the conservation of animals both in native habitats and in human care.
 
   >>> Abstract
     The novel coronavirus SARS-CoV-2 is the cause of Coronavirus Disease-2019 (COVID-19). The main receptor of SARS-CoV-2, angiotensin I converting enzyme 2 (ACE2), is now undergoing extensive scrutiny to understand the routes of transmission and sensitivity in different species. Here, we utilized a unique dataset of 410 vertebrates, including 252 mammals, to study cross-species conservation of ACE2 and its likelihood to function as a SARS-CoV-2 receptor. We designed a five-category ranking score based on the conservation properties of 25 amino acids important for the binding between receptor and virus, classifying all species from very high to very low. Only mammals fell into the medium to very high categories, and only catarrhine primates in the very high category, suggesting that they are at high risk for SARS-CoV-2 infection. We employed a protein structural analysis to qualitatively assess whether amino acid changes at variable residues would be likely to disrupt ACE2/SARS-CoV-2 binding, and found the number of predicted unfavorable changes significantly correlated with the binding score. Extending this analysis to human population data, we found only rare (<0.1%) variants in 10/25 binding sites. In addition, we observed evidence of positive selection in ACE2 in multiple species, including bats. Utilized appropriately, our results may lead to the identification of intermediate host species for SARS-CoV-2, justify the selection of animal models of COVID-19, and assist the conservation of animals both in native habitats and in human care.
 
-  -- exports
-    !a
-    !b
-    !c
-    !d
-    !e
-    !f
-    !g
-    !h
-    !i
-    !j
-    !k
-    !l
-    !m
-    !n
-    !o
-    !p
-    !q
-    !s
-    !t
-    !u
-    !z
-    !aa
-    !ab
-  -- not civet or dogs
-    !ac
-  -- pangolians
-    !ad
-    !r
-  --
-    !ae
-    !af
-    !ag
-    !ah
-    !ai
+  # -- exports
+  #   !a
+  #   !b
+  #   !c
+  #   !d
+  #   !e
+  #   !f
+  #   !g
+  #   !h
+  #   !i
+  #   !j
+  #   !k
+  #   !l
+  #   !m
+  #   !n
+  #   !o
+  #   !p
+  #   !q
+  #   !s
+  #   !t
+  #   !u
+  #   !z
+  #   !aa
+  #   !ab
+  # -- not civet or dogs
+  #   !ac
+  # -- pangolians
+  #   !ad
+  #   !r
+  # --
+  #   !ae
+  #   !af
+  #   !ag
+  #   !ah
+  #   !ai
+  #   !aj
 
 
   / April, 2020 - bioRxiv
@@ -1347,13 +1163,16 @@ ref 'Sharma_et_al_07_08_2020
   / April, 2020 - bioRxiv
   let !ai self assert = While species ranked high or medium may be susceptible to infection based on the features of their ACE2 residues, pathological outcomes may be very different among species depending on other mechanisms that could affect virus replication and spread to target cells, tissues, and organs within the host. Nonetheless, our predictions provide a useful starting point for selection of appropriate animal models for COVID-19 research and for identification of species that may be at risk for human-to-animal or animal-to-animal transmissions by SARS-CoV-2. The approach we used for ACE2 can be extended to other cellular proteins known to be involved in coronavirus infection and immunity to better understand infection, transmission, inflammatory responses and disease progression.
 
+  / April, 2020 - bioRxiv
+  let !aj self assert = Furthermore, we cannot exclude the possibility that infection in any species occurs via another cellular receptor, as has been shown for other betacoronaviruses. Until such time, other than for species in which SARS-CoV-2 infection has been demonstrated to occur using ACE2, we urge caution not to over-interpret the predictions made in the present study. This is especially important with regards to species, endangered or otherwise, in human care.
+
 
 
   # source of sars-cov2 and novel pathogens, The Zoonotic Origins of SARS-CoV-2, recombination event
   // Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus.
   doi: https://doi.org/10.1371/journal.ppat.1006698
   ref 'Hu_et_al_11_30_2017
-  head = Our 5-year longitudinal study demonstrates that all building blocks of the pandemic SARS-CoV genome are present in bat SARSr-CoVs from a single location in Yunnan. Frequent recombination events have happened among those SARSr-CoVs in the same cave. While we cannot rule out the possibility that similar gene pools of SARSr-CoVs exist elsewhere, there is sufficient evidence that SARS-CoV most likely originated from horseshoe bats via recombination events among existing SARSr-CoVs. We have also revealed that various SARSr-CoVs capable of using human ACE2 are still circulating among bats in this region. Thus, the risk of spillover into people and emergence of a disease similar to SARS is possible. We propose continued monitoring of SARSr-CoV evolution at this and other sites, examination of human behavioral risk for infection and serological surveys, to determine if spillover is already occurring at these sites and to design intervention strategies to avoid future disease emergence.
+  head = Our 5-year longitudinal study demonstrates that all building blocks of the pandemic SARS-CoV genome are present in bat SARSr-CoVs from a single location in Yunnan. Frequent recombination events have happened among those SARSr-CoVs in the same cave. There is sufficient evidence that SARS-CoV most likely originated from horseshoe bats via recombination events among existing SARSr-CoVs. Various SARSr-CoVs capable of using human ACE2 are still circulating among bats in this region.
 
   >>> Abstract
     A large number of SARS-related coronaviruses (SARSr-CoV) have been detected in horseshoe bats since 2005 in different areas of China. However, these bat SARSr-CoVs show sequence differences from SARS coronavirus (SARS-CoV) in different genes (S, ORF8, ORF3, etc) and are considered unlikely to represent the direct progenitor of SARS-CoV. Herein, we report the findings of our 5-year surveillance of SARSr-CoVs in a cave inhabited by multiple species of horseshoe bats in Yunnan Province, China. The full-length genomes of 11 newly discovered SARSr-CoV strains, together with our previous findings, reveals that the SARSr-CoVs circulating in this single location are highly diverse in the S gene, ORF3 and ORF8. Importantly, strains with high genetic similarity to SARS-CoV in the hypervariable N-terminal domain (NTD) and receptor-binding domain (RBD) of the S1 gene, the ORF3 and ORF8 region, respectively, were all discovered in this cave. In addition, we report the first discovery of bat SARSr-CoVs highly similar to human SARS-CoV in ORF3b and in the split ORF8a and 8b. Moreover, SARSr-CoV strains from this cave were more closely related to SARS-CoV in the non-structural protein genes ORF1a and 1b compared with those detected elsewhere. Recombination analysis shows evidence of frequent recombination events within the S gene and around the ORF8 between these SARSr-CoVs. We hypothesize that the direct progenitor of SARS-CoV may have originated after sequential recombination events between the precursors of these SARSr-CoVs. Cell entry studies demonstrated that three newly identified SARSr-CoVs with different S protein sequences are all able to use human ACE2 as the receptor, further exhibiting the close relationship between strains in this cave and SARS-CoV. This work provides new insights into the origin and evolution of SARS-CoV and highlights the necessity of preparedness for future emergence of SARS-like diseases.
@@ -1370,104 +1189,97 @@ ref 'Sharma_et_al_07_08_2020
     !h
     !i
     !j
-    !k
-    !l
-    !m
-    !n
-    !o
-    !p
-    !q
-    !r
-    !s
-    !t
-    !u
-    !z
-    !aa
-    !ab
+
+
+  # / November, 2017 - PLOS Pathogens
+  # let !a self assert = We report the findings of our 5-year surveillance of SARSr-CoVs in a cave inhabited by multiple species of horseshoe bats in Yunnan Province, China. The full-length genomes of 11 newly discovered SARSr-CoV strains, together with our previous findings, reveals that the SARSr-CoVs circulating in this single location are highly diverse in the S gene, ORF3 and ORF8.
 
   / November, 2017 - PLOS Pathogens
-  let !a self assert = We report the findings of our 5-year surveillance of SARSr-CoVs in a cave inhabited by multiple species of horseshoe bats in Yunnan Province, China. The full-length genomes of 11 newly discovered SARSr-CoV strains, together with our previous findings, reveals that the SARSr-CoVs circulating in this single location are highly diverse in the S gene, ORF3 and ORF8.
+  let !a self assert = Importantly, strains with high genetic similarity to SARS-CoV in the hypervariable N-terminal domain (NTD) and receptor-binding domain (RBD) of the S1 gene, the ORF3 and ORF8 region, respectively, were all discovered in this cave. In addition, we report the first discovery of bat SARSr-CoVs highly similar to human SARS-CoV in ORF3b and in the split ORF8a and 8b. Moreover, SARSr-CoV strains from this cave were more closely related to SARS-CoV in the non-structural protein genes ORF1a and 1b compared with those detected elsewhere.
+
+  # / November, 2017 - PLOS Pathogens
+  # let !c self assert = Recombination analysis shows evidence of frequent recombination events within the S gene and around the ORF8 between these SARSr-CoVs.
+
+  # / November, 2017 - PLOS Pathogens
+  # let !d self assert = We hypothesize that the direct progenitor of SARS-CoV may have originated after sequential recombination events between the precursors of these SARSr-CoVs. Cell entry studies demonstrated that three newly identified SARSr-CoVs with different S protein sequences are all able to use human ACE2 as the receptor, further exhibiting the close relationship between strains in this cave and SARS-CoV. This work provides new insights into the origin and evolution of SARS-CoV and highlights the necessity of preparedness for future emergence of SARS-like diseases.
 
   / November, 2017 - PLOS Pathogens
-  let !b self assert = Importantly, strains with high genetic similarity to SARS-CoV in the hypervariable N-terminal domain (NTD) and receptor-binding domain (RBD) of the S1 gene, the ORF3 and ORF8 region, respectively, were all discovered in this cave. In addition, we report the first discovery of bat SARSr-CoVs highly similar to human SARS-CoV in ORF3b and in the split ORF8a and 8b. Moreover, SARSr-CoV strains from this cave were more closely related to SARS-CoV in the non-structural protein genes ORF1a and 1b compared with those detected elsewhere.
+  let !b self assert = These findings provide strong genetic evidence for the bat origin of SARS-CoV with regard to the S gene or ORF8. However, all of these SARSr-CoVs were distinct from SARS-CoV in at least one other gene, suggesting that none of them was the immediate progenitor of SARS-CoV. Moreover, these SARSr-CoVs were discovered in bat populations from physically distinct locations. The site of origin of the true progenitor of SARS-CoV and the evolutionary origin of SARS-CoV have until now remained elusive.
+
+  # / November, 2017 - PLOS Pathogens
+  # let !f self assert = We have identified a bat habitat potentially important for SARSr-CoV evolution where a series of recombination events have likely occurred among different SARSr-CoV strains, which provides new insights into the origin of SARS-CoV.
+
+  # / November, 2017 - PLOS Pathogens
+  # let !g self assert = SARSr-CoVs discovered in bats from neighboring areas of Guangdong to date have shown phylogenetic disparity from SARS-CoV especially in the S gene, suggesting SARS-CoV may have originated from another region. Our analysis of the phylogeny of SARS-CoVs and all known bat SARSr-CoVs using the nt sequence of their non-structural ORF1a and ORF1b genes, which constitute the majority of the genome, shows that SARSr-CoV evolution is strongly correlated with their geographical origin, but not host species.
 
   / November, 2017 - PLOS Pathogens
-  let !c self assert = Recombination analysis shows evidence of frequent recombination events within the S gene and around the ORF8 between these SARSr-CoVs.
+  let !c self assert = It is noteworthy that SARSr-CoVs detected in Yunnan are more closely related to SARS-CoV than strains from other regions in China. This finding implies that Yunnan, or southwestern China, is more likely to be the geographical source of SARS-CoV than other regions in China, but data from more extensive surveillance are yet needed to support this inference.
+
+  # / November, 2017 - PLOS Pathogens
+  # let !h self assert = In our longitudinal surveillance of SARSr-CoVs in a single cave in Yunnan where we discovered Rs3367, RsSHC014, WIV1 and WIV16, the CoV prevalence in fecal samples varied among different sampling time. Generally, a higher prevalence was observed in autumn (September and October) than in spring and early summer (April and May). This may be due to the establishment of a susceptible subpopulation of newborn bats which had not developed their own immunity after the parturition period
+
+  # / November, 2017 - PLOS Pathogens
+  # let !i self assert = Another factor may be the changes in the composition of bat species in the cave at different sampling dates. For example, in September 2012 when the CoV prevalence reached 51.3%, the majority of samples were from R. sinicus, but in May 2015 when only 3 out of the 145 samples tested positive, Aselliscus stoliczkanus was the predominant bat species in the cave
+
+  # / November, 2017 - PLOS Pathogens
+  # let !j self assert = We failed to amplify the RBD sequences from 15 of the 64 SARSr-CoV positive samples. Most of these samples had comparatively low viral concentration (< 107 copies/g), as revealed by our previous quantitative studies. The unsuccessful amplification of RBD in some samples with high viral concentration was probably because of the more divergent sequences in this region of these SARSr-CoV genomes.
 
   / November, 2017 - PLOS Pathogens
-  let !d self assert = We hypothesize that the direct progenitor of SARS-CoV may have originated after sequential recombination events between the precursors of these SARSr-CoVs. Cell entry studies demonstrated that three newly identified SARSr-CoVs with different S protein sequences are all able to use human ACE2 as the receptor, further exhibiting the close relationship between strains in this cave and SARS-CoV. This work provides new insights into the origin and evolution of SARS-CoV and highlights the necessity of preparedness for future emergence of SARS-like diseases.
+  let !d self assert = In this cave, we have now obtained full-length genome sequences of additional 11 novel SARSr-CoVs from bats. Our findings suggest the co-circulation of different bat SARSr-CoVs highly similar to SARS-CoV in the most variable S1 (NTD and RBD), ORF8 and ORF3 regions, respectively, in this single location. In the ORF1a, ORF1b, E, M and N genes, the SARSr-CoVs circulating in this cave also shared > 98% aa sequence identities with human/civet SARS-CoVs.
 
   / November, 2017 - PLOS Pathogens
-  let !e self assert = These findings provide strong genetic evidence for the bat origin of SARS-CoV with regard to the S gene or ORF8. However, all of these SARSr-CoVs were distinct from SARS-CoV in at least one other gene, suggesting that none of them was the immediate progenitor of SARS-CoV. Moreover, these SARSr-CoVs were discovered in bat populations from physically distinct locations. The site of origin of the true progenitor of SARS-CoV and the evolutionary origin of SARS-CoV have until now remained elusive.
+  let !e self assert = Furthermore, strains closely related to different representative bat SARSr-CoVs from other provinces (e.g. Rs672, HKU3 and Rf1) in the RBD region were also detected there. Therefore, this cave could be regarded as a rich gene pool of bat SARSr-CoVs, wherein concurrent circulation of a high diversity of SARSr-CoV strains has led to an unusually diverse assemblage of SARSr-CoVs.
 
   / November, 2017 - PLOS Pathogens
-  let !f self assert = We have identified a bat habitat potentially important for SARSr-CoV evolution where a series of recombination events have likely occurred among different SARSr-CoV strains, which provides new insights into the origin of SARS-CoV.
+  let !f self assert = More recently, we discovered WIV16 which had an RBD almost identical to WIV1’s but shared much higher similarity with SARS-CoV than WIV1 in the NTD region of S1, making it the closest SARSr-CoV to the epidemic strains identified to date.
 
   / November, 2017 - PLOS Pathogens
-  let !g self assert = SARSr-CoVs discovered in bats from neighboring areas of Guangdong to date have shown phylogenetic disparity from SARS-CoV especially in the S gene, suggesting SARS-CoV may have originated from another region. Our analysis of the phylogeny of SARS-CoVs and all known bat SARSr-CoVs using the nt sequence of their non-structural ORF1a and ORF1b genes, which constitute the majority of the genome, shows that SARSr-CoV evolution is strongly correlated with their geographical origin, but not host species. It is noteworthy that SARSr-CoVs detected in Yunnan are more closely related to SARS-CoV than strains from other regions in China. This finding implies that Yunnan, or southwestern China, is more likely to be the geographical source of SARS-CoV than other regions in China, but data from more extensive surveillance are yet needed to support this inference.
+  let !g self assert = In this study, we found a novel strain Rs4231 from the same location sharing almost identical NTD sequence with WIV16 but distinct from it in the RBD, with evidence of a recombination event. Our recombination analysis indicated that a recombination event may have taken place at the junction between the coding region of NTD and RBD in the Rs4231 and WIV1 genomes and resulted in WIV16.
 
   / November, 2017 - PLOS Pathogens
-  let !h self assert = In our longitudinal surveillance of SARSr-CoVs in a single cave in Yunnan where we discovered Rs3367, RsSHC014, WIV1 and WIV16, the CoV prevalence in fecal samples varied among different sampling time. Generally, a higher prevalence was observed in autumn (September and October) than in spring and early summer (April and May). This may be due to the establishment of a susceptible subpopulation of newborn bats which had not developed their own immunity after the parturition period
+  let !h self assert = Recombination at this genomic position also happened among other SARSr-CoVs relatively distant to SARS-CoV found in this location (e.g. Rs4081 and Rs4247, S5). The frequent recombination at this hotspot in the S gene increased the genetic diversity of SARSr-CoVs harbored in these bat populations and might have been responsible for the generation of the S gene of the direct progenitor strain of SARS-CoV.
 
   / November, 2017 - PLOS Pathogens
-  let !i self assert = Another factor may be the changes in the composition of bat species in the cave at different sampling dates. For example, in September 2012 when the CoV prevalence reached 51.3%, the majority of samples were from R. sinicus, but in May 2015 when only 3 out of the 145 samples tested positive, Aselliscus stoliczkanus was the predominant bat species in the cave
+  let !i self assert = The genomes of SARS-CoVs from patients during the early epidemic phase and civet SARS-CoVs all contained a single full-length ORF8. We have found that a number of bat SARSr-CoVs from this cave possessed a complete ORF8 highly similar to that of early human/civet SARS-CoV (>97% nt sequence identity), represented by strain Rf4092. This provided further evidence for the source of human SARS-CoV ORF8 in bats.
+
+  # / November, 2017 - PLOS Pathogens
+  # let !p self assert = In this study, we have discovered for the first time a bat SARSr-CoV with ORF8a and ORF8b highly similar to the later-phase human SARS-CoVs, though the split of ORF8 in the bat SARSr-CoV and that in human SARS-CoV were two independent events.
 
   / November, 2017 - PLOS Pathogens
-  let !j self assert = We failed to amplify the RBD sequences from 15 of the 64 SARSr-CoV positive samples. Most of these samples had comparatively low viral concentration (< 107 copies/g), as revealed by our previous quantitative studies. The unsuccessful amplification of RBD in some samples with high viral concentration was probably because of the more divergent sequences in this region of these SARSr-CoV genomes.
+  let !j self assert = Our recombination analysis suggests that this strain, Rs4084, likely acquired its ORF8 from Rf4092 through recombination, followed by the development of the 5-nt deletion which led to the splitting. It suggests that ORF8 region in bat SARSr-CoV genomes is prone to deletions as in human SARS-CoV.
 
-  / November, 2017 - PLOS Pathogens
-  let !k self assert = In this cave, we have now obtained full-length genome sequences of additional 11 novel SARSr-CoVs from bats. Our findings suggest the co-circulation of different bat SARSr-CoVs highly similar to SARS-CoV in the most variable S1 (NTD and RBD), ORF8 and ORF3 regions, respectively, in this single location. In the ORF1a, ORF1b, E, M and N genes, the SARSr-CoVs circulating in this cave also shared > 98% aa sequence identities with human/civet SARS-CoVs. Thus, all of the building blocks of the SARS-CoV genome were present in SARSr-CoVs from this single location in Yunnan during our sampling period. Furthermore, strains closely related to different representative bat SARSr-CoVs from other provinces (e.g. Rs672, HKU3 and Rf1) in the RBD region were also detected there. Therefore, this cave could be regarded as a rich gene pool of bat SARSr-CoVs, wherein concurrent circulation of a high diversity of SARSr-CoV strains has led to an unusually diverse assemblage of SARSr-CoVs.
+  # / November, 2017 - PLOS Pathogens
+  # let !r self assert =  Finally, the recombination analysis suggests that an ancestral strain of SARS-CoV SZ3 would have been generated if the recombination around ORF8 had occurred between the lineages that led to WIV16 and Rf4092.
 
-  / November, 2017 - PLOS Pathogens
-  let !l self assert = More recently, we discovered WIV16 which had an RBD almost identical to WIV1’s but shared much higher similarity with SARS-CoV than WIV1 in the NTD region of S1, making it the closest SARSr-CoV to the epidemic strains identified to date.
+  # / November, 2017 - PLOS Pathogens
+  # let !s self assert = Taken together, the evidence of recombination events among SARSr-CoVs harbored by bats in this single location suggests that the direct progenitor of SARS-CoV may have originated as a result of a series of recombination within the S gene and around ORF8. This could have been followed by the spillover from bats to civets and people either in the region, or during movement of infected animals through the wildlife trade. However, given the paucity of data on animal trade prior to the SARS outbreak, the likely high geographical sampling bias in bat surveillance for SARSr-CoVs in southern China, and the possibility that other caves harbor similar bat species assemblages and a rich diversity of SARSr-CoVs, a definite conclusion about the geographical origin of SARS-CoV cannot be drawn at this point.
 
-  / November, 2017 - PLOS Pathogens
-  let !m self assert = In this study, we found a novel strain Rs4231 from the same location sharing almost identical NTD sequence with WIV16 but distinct from it in the RBD, with evidence of a recombination event. Our recombination analysis indicated that a recombination event may have taken place at the junction between the coding region of NTD and RBD in the Rs4231 and WIV1 genomes and resulted in WIV16.
+  # / November, 2017 - PLOS Pathogens
+  # let !t self assert = R. sinicus are regarded as the primary natural host of SARS-CoV, as all SARSr-CoVs highly homologous to SARS-CoV in the S gene were predominantly found in this species. However, it is noted that two SARSr-CoVs previously reported from R. ferrumequinum showed the closest phylogenetic position to SARS-CoV in the ORF1a/1b trees. These strains were discovered in another location in Yunnan 80 km from the cave surveyed in the current study
 
-  / November, 2017 - PLOS Pathogens
-  let !n self assert = Recombination at this genomic position also happened among other SARSr-CoVs relatively distant to SARS-CoV found in this location (e.g. Rs4081 and Rs4247, S5 Fig). The frequent recombination at this hotspot in the S gene increased the genetic diversity of SARSr-CoVs harbored in these bat populations and might have been responsible for the generation of the S gene of the direct progenitor strain of SARS-CoV.
+  # / November, 2017 - PLOS Pathogens
+  # let !u self assert = This information also supports the speculation that SARS-CoV may have originated from this region. Nonetheless, since the correlation between the host species and the phylogeny of SARSr-CoV ORF1ab seems limited, more SARSr-CoV sequences need to be obtained from different Rhinolophus bat species in both locations in Yunnan, and from other locations in southern China. In particular, it will be important to assess whether R. ferrumequinum played a more important role in the evolution of SARS-CoV ORF1ab.
 
-  / November, 2017 - PLOS Pathogens
-  let !o self assert = The genomes of SARS-CoVs from patients during the early epidemic phase and civet SARS-CoVs all contained a single full-length ORF8. We have found that a number of bat SARSr-CoVs from this cave possessed a complete ORF8 highly similar to that of early human/civet SARS-CoV (>97% nt sequence identity), represented by strain Rf4092. This provided further evidence for the source of human SARS-CoV ORF8 in bats.
+  # / November, 2017 - PLOS Pathogens
+  # let !v self assert = In this study, we confirmed the use of human ACE2 as receptor of two novel SARSr-CoVs by using chimeric viruses with the WIV1 backbone replaced with the S gene of the newly identified SARSr-CoVs. Rs7327’s S protein varied from that of WIV1 and WIV16 at three aa residues in the receptor-binding motif, including one contact residue (aa 484) with human ACE2. This difference did not seem to affect its entry and replication efficiency in human ACE2-expressing cells.
 
-  / November, 2017 - PLOS Pathogens
-  let !p self assert = In this study, we have discovered for the first time a bat SARSr-CoV with ORF8a and ORF8b highly similar to the later-phase human SARS-CoVs, though the split of ORF8 in the bat SARSr-CoV and that in human SARS-CoV were two independent events.
+  # / November, 2017 - PLOS Pathogens
+  # let !w self assert = These results indicate that diverse variants of SARSr-CoV S protein without deletions in their RBD are able to use human ACE2. In contrast, our previous study revealed that the S protein of a R. sinicus SARSr-CoV with deletions (Rp3) failed to use human, civet and bat ACE2 for cell entry.
 
-  / November, 2017 - PLOS Pathogens
-  let !q self assert = Our recombination analysis suggests that this strain, Rs4084, likely acquired its ORF8 from Rf4092 through recombination, followed by the development of the 5-nt deletion which led to the splitting. It suggests that ORF8 region in bat SARSr-CoV genomes is prone to deletions as in human SARS-CoV [
+  # / November, 2017 - PLOS Pathogens
+  # let !x self assert = In this study, in addition to Rs4231 and Rs7327, we also constructed infectious clones with the S gene of Rs4081, Rf4075, Rs4085, Rs4235 and As6526, which all contained the deletions in their RBD. These 7 strains, plus Rs4874 and the previously studied WIV1 and RsSHC014, could represent all types of S variants of SARSr-CoVs in this location. However, none of the strains with deletions in the RBD could be rescued from Vero E6 cells. Therefore, the two distinct clades of SARSr-CoV S gene may represent the usage of different receptors in their bat hosts.
 
-  / November, 2017 - PLOS Pathogens
-  let !r self assert =  Finally, the recombination analysis suggests that an ancestral strain of SARS-CoV SZ3 would have been generated if the recombination around ORF8 had occurred between the lineages that led to WIV16 and Rf4092.
+  # / November, 2017 - PLOS Pathogens
+  # let !y self assert = The results indicate that the variants of bat SARSr-CoV ORF8 proteins may play a role in modulating ER stress by activating the ATF6 pathway. In addition, the ORF8a protein of SARS-CoV from the later phase has been demonstrated to induce apoptosis. In this study, we have found that the ORF8a protein of the newly identified SARSr-CoV Rs4084, which contained an 8-aa insertion compared with the SARS-CoV ORF8a, significantly triggered apoptosis in 293T cells as well.
 
-  / November, 2017 - PLOS Pathogens
-  let !s self assert = Taken together, the evidence of recombination events among SARSr-CoVs harbored by bats in this single location suggests that the direct progenitor of SARS-CoV may have originated as a result of a series of recombination within the S gene and around ORF8. This could have been followed by the spillover from bats to civets and people either in the region, or during movement of infected animals through the wildlife trade. However, given the paucity of data on animal trade prior to the SARS outbreak, the likely high geographical sampling bias in bat surveillance for SARSr-CoVs in southern China, and the possibility that other caves harbor similar bat species assemblages and a rich diversity of SARSr-CoVs, a definite conclusion about the geographical origin of SARS-CoV cannot be drawn at this point.
+  # / November, 2017 - PLOS Pathogens
+  # let !z self assert = Compared with the 154-aa ORF3b of SARS-CoV, the ORF3b proteins of all previously identified bat SARSr-CoVs were smaller in size due to the early translation termination. However, for the first time, we discovered an ORF3b without the C-terminal truncation in a bat SARSr-CoV, Rs7327, which differed from the ORF 3b of SARS-CoV GZ02 strain at only one aa residue.The SARS-CoV ORF3b antagonizes interferon function by modulating the activity of IFN regulatory factor 3
 
-  / November, 2017 - PLOS Pathogens
-  let !t self assert = R. sinicus are regarded as the primary natural host of SARS-CoV, as all SARSr-CoVs highly homologous to SARS-CoV in the S gene were predominantly found in this species. However, it is noted that two SARSr-CoVs previously reported from R. ferrumequinum showed the closest phylogenetic position to SARS-CoV in the ORF1a/1b trees. These strains were discovered in another location in Yunnan 80 km from the cave surveyed in the current study
+  # / November, 2017 - PLOS Pathogens
+  # let !aa self assert = Our previous studies also demonstrated that the ORF3b protein of a bat SARSr-CoV, termed Rm1, which was C-terminally truncated to 56 aa and shared 62% aa sequence identity with SARS-CoV, still displayed the IFN antagonist activity. It is very interesting to investigate in further studies whether Rs7327’s ORF3b and other versions of truncated ORF3b such as WIV1 and WIV16 also show IFN antagonism profiles.
 
-  / November, 2017 - PLOS Pathogens
-  let !u self assert = This information also supports the speculation that SARS-CoV may have originated from this region. Nonetheless, since the correlation between the host species and the phylogeny of SARSr-CoV ORF1ab seems limited, more SARSr-CoV sequences need to be obtained from different Rhinolophus bat species in both locations in Yunnan, and from other locations in southern China. In particular, it will be important to assess whether R. ferrumequinum played a more important role in the evolution of SARS-CoV ORF1ab.
-
-  / November, 2017 - PLOS Pathogens
-  let !v self assert =  In this study, we confirmed the use of human ACE2 as receptor of two novel SARSr-CoVs by using chimeric viruses with the WIV1 backbone replaced with the S gene of the newly identified SARSr-CoVs. Rs7327’s S protein varied from that of WIV1 and WIV16 at three aa residues in the receptor-binding motif, including one contact residue (aa 484) with human ACE2. This difference did not seem to affect its entry and replication efficiency in human ACE2-expressing cells.
-
-  / November, 2017 - PLOS Pathogens
-  let !w self assert = These results indicate that diverse variants of SARSr-CoV S protein without deletions in their RBD are able to use human ACE2. In contrast, our previous study revealed that the S protein of a R. sinicus SARSr-CoV with deletions (Rp3) failed to use human, civet and bat ACE2 for cell entry
-
-  / November, 2017 - PLOS Pathogens
-  let !x self assert = In this study, in addition to Rs4231 and Rs7327, we also constructed infectious clones with the S gene of Rs4081, Rf4075, Rs4085, Rs4235 and As6526, which all contained the deletions in their RBD. These 7 strains, plus Rs4874 and the previously studied WIV1 and RsSHC014, could represent all types of S variants of SARSr-CoVs in this location. However, none of the strains with deletions in the RBD could be rescued from Vero E6 cells. Therefore, the two distinct clades of SARSr-CoV S gene may represent the usage of different receptors in their bat hosts.
-
-  / November, 2017 - PLOS Pathogens
-  let !y self assert = The results indicate that the variants of bat SARSr-CoV ORF8 proteins may play a role in modulating ER stress by activating the ATF6 pathway. In addition, the ORF8a protein of SARS-CoV from the later phase has been demonstrated to induce apoptosis. In this study, we have found that the ORF8a protein of the newly identified SARSr-CoV Rs4084, which contained an 8-aa insertion compared with the SARS-CoV ORF8a, significantly triggered apoptosis in 293T cells as well.
-
-  / November, 2017 - PLOS Pathogens
-  let !z self assert = Compared with the 154-aa ORF3b of SARS-CoV, the ORF3b proteins of all previously identified bat SARSr-CoVs were smaller in size due to the early translation termination. However, for the first time, we discovered an ORF3b without the C-terminal truncation in a bat SARSr-CoV, Rs7327, which differed from the ORF 3b of SARS-CoV GZ02 strain at only one aa residue.The SARS-CoV ORF3b antagonizes interferon function by modulating the activity of IFN regulatory factor 3
-
-  / November, 2017 - PLOS Pathogens
-  let !aa self assert = Our previous studies also demonstrated that the ORF3b protein of a bat SARSr-CoV, termed Rm1, which was C-terminally truncated to 56 aa and shared 62% aa sequence identity with SARS-CoV, still displayed the IFN antagonist activity. It is very interesting to investigate in further studies whether Rs7327’s ORF3b and other versions of truncated ORF3b such as WIV1 and WIV16 also show IFN antagonism profiles.
-
-  / November, 2017 - PLOS Pathogens
-  let !ab self assert = Thus, the risk of spillover into people and emergence of a disease similar to SARS is possible. This is particularly important given that the nearest village to the bat cave we surveyed is only 1.1 km away, which indicates a potential risk of exposure to bats for the local residents.
+  # / November, 2017 - PLOS Pathogens
+  # let !ab self assert = Thus, the risk of spillover into people and emergence of a disease similar to SARS is possible. This is particularly important given that the nearest village to the bat cave we surveyed is only 1.1 km away, which indicates a potential risk of exposure to bats for the local residents.
 
 
 
@@ -1475,7 +1287,7 @@ ref 'Sharma_et_al_07_08_2020
   // A Genomic Perspective on the Origin and Emergence of SARS-CoV-2
   doi: https://doi.org/10.1016/j.cell.2020.03.035
   ref 'Zhang_et_al_03_26_2020
-  head = It seems inevitable that SARS-CoV-2 will become the fifth endemic coronavirus in the human population (along with HKU1, NL63, OC43, and 229E). Coronaviruses clearly have the capacity to jump species boundaries and adapt to new hosts, making it straightforward to predict that more will emerge in the future, although quite why coronaviruses possess this capacity in comparison to some other RNA viruses is unclear. Critically, the surveillance of animal coronaviruses should include animals other than bats, as the role of intermediate hosts is likely of major importance, providing a more direct pathway for the virus to emerge in humans. The simplest and most cost-effective way to reduce the risk of future outbreaks is to limit our exposure to animal pathogens as much as possible. Stronger action against the illegal wildlife trade and removing all mammalian (and perhaps avian) wildlife from wet markets will provide an important buffer.
+  head = Given that SARS-CoV-2 undoubtedly has a zoonotic origin, the link to such a “wet” market should come as no surprise. However, as not all of the early cases were market associated, it is possible that the emergence story is more complicated than first suspected.
 
   -- origin
     !a
@@ -1484,14 +1296,11 @@ ref 'Sharma_et_al_07_08_2020
     !f
     !g
     !h
-    !o
     !j
   -- not from wuhan market
-    !b
     !c
   -- natural origin
     !i
-    !l
   -- doubt to origin story
     !k
   -- Pangolian
@@ -1499,8 +1308,6 @@ ref 'Sharma_et_al_07_08_2020
   -- recombination
     !p
   -- mitigation or measures to look into
-    !n
-    !q
     !r
     !s
 
@@ -1508,17 +1315,17 @@ ref 'Sharma_et_al_07_08_2020
   / March, 2020 - Cell
   let !a self assert = From current data it is clear that the CFR for COVID-19 is substantially higher than that of seasonal influenza but lower than that of two closely related coronaviruses that have similarly recently emerged in humans. it is also evident that SARS-CoV-2 is more infectious than both SARS-CoV and MERS-CoV and that individuals can transmit the virus when asymptomatic or presymptomatic, although how frequently remains uncertain.
 
-  / March, 2020 - Cell
-  let !b self assert = Given that SARS-CoV-2 undoubtedly has a zoonotic origin, the link to such a “wet” market should come as no surprise. However, as not all of the early cases were market associated, it is possible that the emergence story is more complicated than first suspected.
+  # / March, 2020 - Cell
+  # let !b self assert = Given that SARS-CoV-2 undoubtedly has a zoonotic origin, the link to such a “wet” market should come as no surprise. However, as not all of the early cases were market associated, it is possible that the emergence story is more complicated than first suspected.
 
   / March, 2020 - Cell
   let !c self assert = Genome sequences of “environmental samples”—likely surfaces—from the market have now been obtained, and phylogenetic analysis reveals that they are very closely related to viruses sampled from the earliest Wuhan patients. While this again suggests that the market played an important role in virus emergence, it is not clear whether the samples were derived from people who inadvertently deposited infectious material or from animals or animal matter present at that location. Unfortunately, the apparent lack of direct animal sampling in the market may mean that it will be difficult, perhaps even impossible, to accurately identify any animal reservoir at this location.
 
   / March, 2020 - Cell
-  let !d self assert = We focused on a patient admitted to the Central Hospital of Wuhan on December 26, 2019, six days after the onset of symptoms. Fortunately, next-generation meta-transcriptomic sequencing enabled us to obtain a complete viral genome from this patient on January 5, 2020. Initial analysis revealed that the virus was closely related to those of SARS-like viruses (family Coronaviridae). This result was immediately reported to the relevant authorities, and an annotated version of the genome sequence (strain Wuhan-Hu-1) was submitted to NCBI/GenBank on the same day. Although the GenBank sequence (GenBank: MN908947) was the first of SARS-CoV-2 available, it was subsequently corrected to ensure its accuracy. With the help of Dr. Andrew Rambaut (University of Edinburgh), we released the genome sequence of the virus on the open access Virological website (http://virological.org/) early on January 11, 2020.
+  let !d self assert = We focused on a patient admitted to the Central Hospital of Wuhan on December 26, 2019, six days after the onset of symptoms. Fortunately, next-generation meta-transcriptomic sequencing enabled us to obtain a complete viral genome from this patient on January 5, 2020. Initial analysis revealed that the virus was closely related to those of SARS-like viruses (family Coronaviridae). Although the GenBank sequence (GenBank: MN908947) was the first of SARS-CoV-2 available, it was subsequently corrected to ensure its accuracy. With the help of Dr. Andrew Rambaut (University of Edinburgh), we released the genome sequence of the virus on the open access Virological website early on January 11, 2020.
 
   / March, 2020 - Cell
-  let !e self assert = Comparisons between SARS-CoV-2 and Other Coronaviruses: The earliest genomic genome sequence data made it clear that SARS-CoV-2 was a member of the genus Betacoronavirus and fell within a subgenus (Sarbecovirus) that includes SARS-CoV (MERS-CoV falls in a separate subgenus, Merbecovirus). Indeed, initial comparisons revealed that SARS-CoV-2 was approximately 79% similar to SARS-CoV at the nucleotide level. Of course, patterns of similarity vary greatly between genes, and SARS-CoV and SARS-CoV-2 exhibit only ∼72% nucleotide sequence similarity in the spike (S) protein, the key surface glycoprotein that interacts with host cell receptors.
+  let !e self assert = Initial comparisons revealed that SARS-CoV-2 was approximately 79% similar to SARS-CoV at the nucleotide level. Of course, patterns of similarity vary greatly between genes, and SARS-CoV and SARS-CoV-2 exhibit only ∼72% nucleotide sequence similarity in the spike (S) protein, the key surface glycoprotein that interacts with host cell receptors.
 
   / March, 2020 - Cell
   let !f self assert = Given these close evolutionary relationships, it is unsurprising that the genome structure of SARS-CoV-2 resembles those of other betacoronaviruses, with the gene order 5′-replicase ORF1ab-S-envelope(E)-membrane(M)-N-3′. The long replicase ORF1ab gene of SARS-CoV-2 is over 21 kb in length and contains 16 predicted non-structural proteins and a number of downstream open reading frames (ORFs) likely of similar function to those of SARS-CoV.
@@ -1536,25 +1343,25 @@ ref 'Sharma_et_al_07_08_2020
   let !j self assert = Although SARS-CoV and MERS-CoV are both closely related to SARS-CoV-2 and have bat reservoirs, the biological differences between these viruses are striking. As noted above, SARS-CoV-2 is markedly more infectious, resulting in very different epidemiological dynamics to those of SARS-CoV and MERS-CoV.
 
   / March, 2020 - Cell
-  let !k self assert = The Zoonotic Origins of SARS-CoV-2: Despite this, the exact role played by bats in the zoonotic origin of SARS-CoV-2 is not established. In particular, the bat viruses most closely related to SARS-CoV-2 were sampled from animals in Yunnan province, over 1,500 km from Wuhan. There are relatively few bat coronaviruses from Hubei province, and those that have been sequenced are relatively distant to SARS-CoV-2 in phylogenetic trees. The simple inference from this is that our sampling of bat viruses is strongly biased toward some geographical locations. This will need to be rectified in future studies.
+  let !k self assert = The exact role played by bats in the zoonotic origin of SARS-CoV-2 is not established. In particular, the bat viruses most closely related to SARS-CoV-2 were sampled from animals in Yunnan province, over 1,500 km from Wuhan. There are relatively few bat coronaviruses from Hubei province, and those that have been sequenced are relatively distant to SARS-CoV-2 in phylogenetic trees. The simple inference from this is that our sampling of bat viruses is strongly biased toward some geographical locations.
 
-  / March, 2020 - Cell
-  let !l self assert = In addition, although sequence similarity values of 96%–97% make it sound like the available bat viruses are very closely related to SARS-CoV-2, in reality this likely represents more than 20 years of sequence evolution (although the underlying molecular clock may tick at an uncertain rate if there was strong adaptive evolution of the virus in humans). It is therefore almost a certainty that more sampling will identify additional bat viruses that are even closer relatives of SARS-CoV-2.
+  # / March, 2020 - Cell
+  # let !l self assert = In addition, although sequence similarity values of 96%–97% make it sound like the available bat viruses are very closely related to SARS-CoV-2, in reality this likely represents more than 20 years of sequence evolution (although the underlying molecular clock may tick at an uncertain rate if there was strong adaptive evolution of the virus in humans). It is therefore almost a certainty that more sampling will identify additional bat viruses that are even closer relatives of SARS-CoV-2.
 
   / March, 2020 - Cell
   let !m self assert = To determine what these intermediate host species might be, it is imperative to perform a far wider sampling of animals from wet markets or that live close to human populations. This is highlighted by the recent discovery of viruses closely related to SARS-CoV-2 in Malayan pangolins (Manis javanica) illegally imported into southern China (Guangdong and Guangxi provinces).The Guangdong pangolin viruses are particularly closely related to SARS-CoV-2 in the RBD, containing all six of the six key mutations thought to shape binding to the ACE2 receptor and exhibiting 97% amino acid sequence similarity (although they are more divergent from SARS-CoV-2 in the remainder of the genome).
 
-  / March, 2020 - Cell
-  let !n self assert = Although pangolins are of great interest because of how frequently they are involved in illegal trafficking and their endangered status, that they carry a virus related to SARS-CoV-2 strongly suggests that a far greater diversity of related betacoronaviruses exists in a variety of mammalian species but has yet to be sampled.
+  # / March, 2020 - Cell
+  # let !n self assert = Although pangolins are of great interest because of how frequently they are involved in illegal trafficking and their endangered status, that they carry a virus related to SARS-CoV-2 strongly suggests that a far greater diversity of related betacoronaviruses exists in a variety of mammalian species but has yet to be sampled.
 
-  / March, 2020 - Cell
-  let !o self assert = It cannot be excluded that the virus acquired some of its key mutations during a period of “cryptic” spread in humans prior to its first detection in December 2019. Specifically, it is possible that the virus emerged earlier in human populations than envisaged (perhaps not even in Wuhan) but was not detected because asymptomatic infections, those with mild respiratory symptoms, and even sporadic cases of pneumonia were not visible to the standard systems used for surveillance and pathogen identification. During this period of cryptic transmission, the virus could have gradually acquired the key mutations, perhaps including the RBD and furin cleavage site insertions, that enabled it to adapt fully to humans.
+  # / March, 2020 - Cell
+  # let !o self assert = It cannot be excluded that the virus acquired some of its key mutations during a period of “cryptic” spread in humans prior to its first detection in December 2019. Specifically, it is possible that the virus emerged earlier in human populations than envisaged (perhaps not even in Wuhan) but was not detected because asymptomatic infections, those with mild respiratory symptoms, and even sporadic cases of pneumonia were not visible to the standard systems used for surveillance and pathogen identification. During this period of cryptic transmission, the virus could have gradually acquired the key mutations, perhaps including the RBD and furin cleavage site insertions, that enabled it to adapt fully to humans.
 
   / March, 2020 - Cell
   let !p self assert = Recombination is visible at multiple locations across the sarbevirus genome, including in the S protein, and in bat viruses closely related to SARS-CoV-2. For example, there is some evidence for recombination among SARS-CoV-2, RaTG13, and the Guangdong pangolin CoVs, and the genome of RmYN02 has similarly been widely impacted by recombination. However, trying to determine the exact pattern and genomic ancestry of recombination events is difficult, particularly as many of the recombinant regions may be small and are likely to change as we sample more viruses related to SARS-CoV-2.
 
-  / March, 2020 - Cell
-  let !q self assert = Ongoing Genomic Evolution of SARS-CoV-2: Given the high mutation rates that characterize RNA viruses, it is obvious that many more mutations will appear in the viral genome and that these will help us to track the spread of SARS-CoV-2. However, as the epidemic grows, our sample size of sequences will likely be so small relative to the total number of cases that it will be very difficult, if not impossible, to detect individual transmission chains. Caution must therefore always be exercised when attempting to infer exact transmission events.
+  # / March, 2020 - Cell
+  # let !q self assert = Ongoing Genomic Evolution of SARS-CoV-2: Given the high mutation rates that characterize RNA viruses, it is obvious that many more mutations will appear in the viral genome and that these will help us to track the spread of SARS-CoV-2. However, as the epidemic grows, our sample size of sequences will likely be so small relative to the total number of cases that it will be very difficult, if not impossible, to detect individual transmission chains. Caution must therefore always be exercised when attempting to infer exact transmission events.
 
   / March, 2020 - Cell
   let !r self assert = As an aside, although coronaviruses likely have lower mutation rates than other RNA viruses because of an inherent capacity for some proof-reading activity due to a 3′-to-5′ exoribonuclease, their long-term rates of nucleotide substitution (i.e., of molecular evolution) fall within the distribution of those seen in other RNA viruses.
@@ -1564,68 +1371,27 @@ ref 'Sharma_et_al_07_08_2020
 
 
 
-  # cross-neutralizing antibodies, origin, ACE2, Furin cleavage site, this paper is already done, check publisher
-  // Structure, Function, and Antigenicity of the SARS-CoV-2 Spike Glycoprotein.
-  doi: https://doi.org/10.1016/j.cell.2020.02.058
-  ref 'Walls_et_al_03_09_2020
-  head = SARS-CoV-2 uses ACE2 to enter target cells. We found that the SARS-CoV-2 S glycoprotein harbors a furin cleavage site at the boundary between the S1/S2 subunits, which is processed during biogenesis and sets this virus apart from SARS-CoV and SARS-related CoVs. We determined cryo-EM structures of the SARS-CoV-2 S ectodomain trimer, providing a blueprint for the design of vaccines and inhibitors of viral entry. Finally, we demonstrate that SARS-CoV S murine polyclonal antibodies potently inhibited SARS-CoV-2 S mediated entry into cells, indicating that cross-neutralizing antibodies targeting conserved S epitopes can be elicited upon vaccination.
-
-  >>> Summary
-    The emergence of SARS-CoV-2 has resulted in >90,000 infections and >3,000 deaths. Coronavirus spike (S) glycoproteins promote entry into cells and are the main target of antibodies. We show that SARS-CoV-2 S uses ACE2 to enter cells and that the receptor-binding domains of SARS-CoV-2 S and SARS-CoV S bind with similar affinities to human ACE2, correlating with the efficient spread of SARS-CoV-2 among humans. We found that the SARS-CoV-2 S glycoprotein harbors a furin cleavage site at the boundary between the S1/S2 subunits, which is processed during biogenesis and sets this virus apart from SARS-CoV and SARS-related CoVs. We determined cryo-EM structures of the SARS-CoV-2 S ectodomain trimer, providing a blueprint for the design of vaccines and inhibitors of viral entry. Finally, we demonstrate that SARS-CoV S murine polyclonal antibodies potently inhibited SARS-CoV-2 S mediated entry into cells, indicating that cross-neutralizing antibodies targeting conserved S epitopes can be elicited upon vaccination.
-
-  -- exports
-    !a
-    !b
-    !c
-    !d
-    !e
-
-  / March, 2020 - Cell
-  let !a self assert = We show that SARS-CoV-2 S uses ACE2 to enter cells and that the receptor-binding domains of SARS-CoV-2 S and SARS-CoV S bind with similar affinities to human ACE2, correlating with the efficient spread of SARS-CoV-2 among humans.
-
-  let !b self assert = SARS-CoV-2 Recognizes hACE2 with Comparable Affinity to SARS-CoV: We found that hACE2 bound to SARS-CoV-2 SB and SARS-CoV SB with respective equilibrium dissociation constants of 1.2 nM and 5.0 nM , and comparable kinetic rate constants, although the off-rate, were slightly higher for SARS-CoV SB. The affinity determined here for SARS-CoV SB binding to hACE2 is in line with prior studies and the tighter apparent interactions formed by SARS-CoV SB compared with the SARS-CoV S1 subunit or the SARS-CoV S trimer.
-
-  / March, 2020 - Cell
-  let !c self assert = The conservation of many key contact residues could explain the similar binding affinities of SARS-CoV-2 SB and SARS-CoV SB for hACE2. No mutations of residues predicted to contact hACE2 have been observed among SARS-CoV-2 S sequences available to date. However, we note that SARSr-CoV ZXC21 and ZC45, which harbor the most closely related S sequences after SARSr-CoV RaTG13, have a deletion in the RBD that could affect binding to hACE2 (between SARS-CoV-2 S residues 473–486). Collectively, these results suggest that SARS-CoV-2 is at least as well adapted to the hACE2 ortholog as the 2002–2003 epidemic strains of SARS-CoV, which could explain the efficient transduction efficiency mediated by their respective S glycoproteins and the current rapid SARS-CoV-2 transmission in humans.
-
-  / March, 2020 - Cell
-  let !d self assert = SARS-CoV S Elicits Neutralizing Abs Against SARS-CoV-2 S:  Mapping of the sequence conservation across multiple S sequences from the sarbecovirus subgenus underscores that the S2 fusion machinery is more conserved than the S1 subunit with the highest divergence found within SA and SB. These observations are in line with (1) the fact that some, but not all, of these viruses use ACE2 as entry receptor; and (2) that the S1 subunit is more exposed at the viral surface than the fusion machinery and is likely to be subject to a more stringent selection pressure from the immune system.
-
-  / March, 2020 - Cell
-  let !e self assert = We therefore investigated the ability of plasma from four mice immunized with a stabilized SARS-CoV S to inhibit SARS-CoV-2 S- and SARS-CoV S-mediated entry into target cells. All sera tested completely inhibited transduction of SARS-CoV S-MLV and reduced SARS-CoV-2 S-MLV transduction to ∼10% of control in VeroE6 cells. The elicitation of a heterotypic response blocking SARS-CoV-2 S-mediated entry into host cells concurs with the sequence and structural conservation of SARS-CoV-2 S and SARS-CoV S along with their comparable glycans shields and suggests that immunity against one virus of the sarbecovirus subgenus can potentially provide protection against related viruses.
-
-
-
   # the shared identity of critical AA sites between SARS-CoV-2 and GD Pangolin-CoV may be due to random mutations coupled with natural selection, rather than recombination, origin
   // On the origin and continuing evolution of SARS-CoV-2
   doi: https://doi.org/10.1093/nsr/nwaa036
   ref 'Tang_et_al_03_03_2020
-  head = Although the genomic analyses suggested that SARS-CoV-2 was closest to RaTG13, their difference at neutral sites (17%) was much higher than previously realized. Our results suggest that the development of new variations in functional sites in the receptor-binding domain (RBD) of the spike seen in SARS-CoV-2 and viruses from pangolin SARSr-CoVs are likely caused by natural selection besides recombination. Population genetic analyses of 103 SARS-CoV-2 genomes indicated that these viruses had two major lineages (designated L and S), that are well defined by two different SNPs that show nearly complete linkage across the viral strains sequenced to date. The L lineage (∼70%) was found to be more prevalent than the S lineage (∼30%) in the SARS-CoV-2 viruses we examined, our evolutionary analyses suggested the S appeared to be more related to coronaviruses in animals. The implication of these evolutionary changes on disease etiology remains unclear.
+  head = Our results suggest that the development of new variations in functional sites in the  RBD of the spike seen in SARS-CoV-2 and viruses from pangolin SARSr-CoVs are likely caused by natural selection besides recombination. Population genetic analyses of 103 SARS-CoV-2 genomes indicated that these viruses had two major lineages (designated L and S), that are well defined by two different SNPs that show nearly complete linkage across the viral strains sequenced to date.
 
   >>> Abstract
     The SARS-CoV-2 epidemic started in late December 2019 in Wuhan, China, and has since impacted a large portion of China and raised major global concern. Herein, we investigated the extent of molecular divergence between SARS-CoV-2 and other related coronaviruses. Although we found only 4% variability in genomic nucleotides between SARS-CoV-2 and a bat SARS-related coronavirus (SARSr-CoV; RaTG13), the difference at neutral sites was 17%, suggesting the divergence between the two viruses is much larger than previously estimated. Our results suggest that the development of new variations in functional sites in the receptor-binding domain (RBD) of the spike seen in SARS-CoV-2 and viruses from pangolin SARSr-CoVs are likely caused by natural selection besides recombination. Population genetic analyses of 103 SARS-CoV-2 genomes indicated that these viruses had two major lineages (designated L and S), that are well defined by two different SNPs that show nearly complete linkage across the viral strains sequenced to date. We found that L lineage was more prevalent than the S lineage within the limited patient samples we examined. The implication of these evolutionary changes on disease etiology remains unclear. These findings strongly underscores the urgent need for further comprehensive studies that combine viral genomic data, with epidemiological studies of coronavirus disease 2019 (COVID-19).
 
   -- exports
-    !a
     !b
     !c
     !d
-    !e
-    !g
-    !h
-    !i
   -- Pangolian- mutation rather than recombination event
     !f
     !k
   --
-    !j
-    !l
     !m
-    !n
-    !o
 
-  / March, 2020 - National Science Review
-  let !a self assert = Molecular phylogeny and divergence between SARS-CoV-2 and related coronaviruses: Most ORFs annotated from SARS-CoV-2 were found to be conserved in other viruses, except for ORF8 and ORF10. The protein sequence of SARS-CoV-2 ORF8 shared very low similarity with those sequences in SARS-CoV and BM48-31, and ORF10 had a premature stop codon in both SARS-CoV and BM48-31. A one-base deletion caused a frame-shift mutation in ORF10 of ZXC21.
+  # / March, 2020 - National Science Review
+  # let !a self assert = Molecular phylogeny and divergence between SARS-CoV-2 and related coronaviruses: Most ORFs annotated from SARS-CoV-2 were found to be conserved in other viruses, except for ORF8 and ORF10. The protein sequence of SARS-CoV-2 ORF8 shared very low similarity with those sequences in SARS-CoV and BM48-31, and ORF10 had a premature stop codon in both SARS-CoV and BM48-31. A one-base deletion caused a frame-shift mutation in ORF10 of ZXC21.
 
   / March, 2020 - National Science Review
   let !b self assert = The genome-wide phylogenetic tree indicated that SARS-CoV-2 was closest to RaTG13, followed by GD Pangolin SARSr-CoV, then by GX Pangolin SARSr-CoVs, then by ZC45 and ZXC21, then by human SARS-CoV, and finally by BM48-31.
@@ -1634,40 +1400,37 @@ ref 'Sharma_et_al_07_08_2020
   let !c self assert = Notably, we found that the nucleotide divergence at synonymous sites between SARS-CoV-2 and other viruses was much higher than previously anticipated. For example, although the overall genomic nucleotides differ ∼4% between SARS-CoV-2 and RaTG13, the genomic average dS was 0.17, which means the divergence at the neutral sites is 17% between these two viruses.
 
   / March, 2020 - National Science Review
-  let !d self assert = We found that the dS value varied considerably across genes in SARS-CoV-2 and the other viruses analyzed. In particular, the spike gene (S) consistently exhibited larger dS values than other genes. In each branch, the dS of spike was 2.29 ± 1.45 (mean ± SD) times as large as that of the other genes. This extremely elevated dS value of spike could be caused either by a high mutation rate or by natural selection that favors synonymous substitutions.
+  let !d self assert = We found that the dS value varied considerably across genes in SARS-CoV-2 and the other viruses analyzed. In particular, the spike gene (S) consistently exhibited larger dS values than other genes. This extremely elevated dS value of spike could be caused either by a high mutation rate or by natural selection that favors synonymous substitutions.
+
+  # / March, 2020 - National Science Review
+  # let !e self assert = Our codon usage bias analysis suggests the FOP of spike was only slightly higher than that of the genomic average (0.717 versus 0.698). Thus, we believe that the elevated synonymous substitution rate measured in spike is more likely caused by higher mutational rates; however, the underlying molecular mechanism remains unclear.
 
   / March, 2020 - National Science Review
-  let !e self assert = If positive selection is the driving force for the higher synonymous substation rate seen in spike, we expect the frequency of optimal codons (FOP) of spike to be different from that of other genes. However, our codon usage bias analysis suggests the FOP of spike was only slightly higher than that of the genomic average (0.717 versus 0.698). Thus, we believe that the elevated synonymous substitution rate measured in spike is more likely caused by higher mutational rates; however, the underlying molecular mechanism remains unclear.
+  let !f self assert = In summary, the shared identity of critical AA sites between SARS-CoV-2 and GD Pangolin-CoV may be due to random mutations coupled with natural selection, rather than recombination.
+
+  # / March, 2020 - National Science Review
+  # let !g self assert = Selective constraints and positive selection during the evolution of SARS-CoV-2 and related coronaviruses: The genome-wide ω value between SARS-CoV-2 and other viruses ranged from 0.044 to 0.124, indicative of strong negative selection on the nonsynonymous sites. In other words, 87.6% to 95.6% of the nonsynonymous mutations were removed by negative selection during viral evolution.
+
+  # / March, 2020 - National Science Review
+  # let !h self assert = A Bayes Empirical Bayes (BEB) analysis suggested that 10 AA sites showed strong signals of positive selection, and, interestingly, three of these were located in the RBD of spike, including at one critical site. Thus, although these coronaviruses were generally under very strong negative selection, positive selection was also responsible for the evolution of protein sequences.
+
+  # / March, 2020 - National Science Review
+  # let !i self assert = In total, we identified mutations in 149 sites across the 103 sequenced strains. Ancestral states for 43 synonymous, 83 non-synonymous, and two stop-gain mutations were unambiguously inferred. Most derived mutations were singletons (65.1% (28/43) of synonymous mutations and 84.3% (70/83) of nonsynonymous mutations), indicating either a recent origin or population growth.
+
+  # / March, 2020 - National Science Review
+  # let !j self assert = In general, the derived alleles of synonymous mutations were significantly skewed towards higher frequencies than those of nonsynonymous ones (P < 0.01, Wilcoxon rank-sum test) suggesting the nonsynonymous mutations tended to be selected against. However, 16.3% (7 out of 43) synonymous mutations, and one nonsynonymous (ORF8 (L84S, 28,144)) mutation had a derived frequency of ≥ 70% across the SARS-CoV-2 strains. The nonsynonymous mutations that had derived alleles in at least two SARS-CoV-2 strains affected six proteins: orf1ab (A117T, I1607V, L3606F, I6075T), S (H49Y, V367F), ORF3a (G251V), ORF7a (P34S), ORF8 (V62L, S84L), and N (S194L, S202N, P344S).
 
   / March, 2020 - National Science Review
-  let !f self assert = It seems very unlikely that SARS-CoV-2 originated from the GD Pangolin-CoV due to a very recent recombination event. Rather, it seems more likely that a high mutation rate in spike, coupled with strong natural selection, has shaped the identical functional AA residues between these two viruses, as proposed previously. Although these sites are maintained in SARS-CoV-2 and GD Pangolin-CoV, mutations may have changed the residues in the RaTG13 lineage after it diverged from SARS-CoV-2. In summary, the shared identity of critical AA sites between SARS-CoV-2 and GD Pangolin-CoV may be due to random mutations coupled with natural selection, rather than recombination.
+  let !k self assert = We did not find evidence of recombination between the SARS-CoV-2 strains. Although we found that L lineage was more prevalent than the S lineage within the limited patient samples we examined, the S lineage was evolutionarily more related to animal coronaviruses.
 
   / March, 2020 - National Science Review
-  let !g self assert = Selective constraints and positive selection during the evolution of SARS-CoV-2 and related coronaviruses: The genome-wide ω value between SARS-CoV-2 and other viruses ranged from 0.044 to 0.124, indicative of strong negative selection on the nonsynonymous sites. In other words, 87.6% to 95.6% of the nonsynonymous mutations were removed by negative selection during viral evolution.
+  let !m self assert = Furthermore, our mutational load analysis indicated that the L lineage had accumulated a significantly higher number of derived mutations than S lineage (P < 0.0001, Wilcoxon rank-sum test). These results support notions that two lineages of SARS-CoV-2 viruses may have experienced different selective pressures.
 
-  / March, 2020 - National Science Review
-  let !h self assert = A Bayes Empirical Bayes (BEB) analysis suggested that 10 AA sites showed strong signals of positive selection, and, interestingly, three of these were located in the RBD of spike, including at one critical site. Thus, although these coronaviruses were generally under very strong negative selection, positive selection was also responsible for the evolution of protein sequences. These putatively positively-selected sites deserve further functional studies.
+  # / March, 2020 - National Science Review
+  # let !n self assert = We found that the sequence of viruses isolated from one patient that lived in the United States on January 21 (USA_2020/01/21.a, GISAID ID: EPI_ISL_404253) had the genotype Y (C or T) at both positions 8,782 and 28,144, differing from the general trend of having either C or T. Although novel mutations could lead to this result, the most parsimonious explanation is that this patient may have been infected by both the L and S lineages.
 
-  / March, 2020 - National Science Review
-  let !i self assert = Mutations in 103 SARS-CoV-2 genomes: In total, we identified mutations in 149 sites across the 103 sequenced strains. Ancestral states for 43 synonymous, 83 non-synonymous, and two stop-gain mutations were unambiguously inferred. Most derived mutations were singletons (65.1% (28/43) of synonymous mutations and 84.3% (70/83) of nonsynonymous mutations), indicating either a recent origin or population growth.
-
-  / March, 2020 - National Science Review
-  let !j self assert = In general, the derived alleles of synonymous mutations were significantly skewed towards higher frequencies than those of nonsynonymous ones (P < 0.01, Wilcoxon rank-sum test) suggesting the nonsynonymous mutations tended to be selected against. However, 16.3% (7 out of 43) synonymous mutations, and one nonsynonymous (ORF8 (L84S, 28,144)) mutation had a derived frequency of ≥ 70% across the SARS-CoV-2 strains. The nonsynonymous mutations that had derived alleles in at least two SARS-CoV-2 strains affected six proteins: orf1ab (A117T, I1607V, L3606F, I6075T), S (H49Y, V367F), ORF3a (G251V), ORF7a (P34S), ORF8 (V62L, S84L), and N (S194L, S202N, P344S).
-
-  / March, 2020 - National Science Review
-  let !k self assert = Two major lineages of SARS-CoV-2 defined by two linked SNPs: We did not find evidence of recombination between the SARS-CoV-2 strains. However, we found that SNPs at location 8,782 (orf1ab: T8517C, synonymous) and 28,144 (ORF8: C251T, S84L) showed significant linkage, with an r2 value of 0.954 and a LOD value of 50.13. Among the 103 SARS-CoV-2 virus strains, 101 of them exhibited complete linkage between the two SNPs: 72 strains exhibited a ‘CT’ haplotype (defined as ‘L’ lineage because T28,144 is in the codon of Leucine) and 29 strains exhibited a ‘TC’ haplotype (defined as ‘S’ lineage because C28,144 is in the codon of Serine) at these two sites. Thus, we categorized the SARS-CoV-2 viruses into two major lineages with L being the major (∼70%) and S being the minor (∼30%).
-
-  / March, 2020 - National Science Review
-  let !l self assert = The evolutionary history of L and S lineages: Strikingly, nucleotides of the S lineage at sites 8,782 and 28,144 were identical to the orthologous sites in the most closely related viruses. Remarkably, both sites were highly conserved in other viruses as well. Hence, although the L lineage (∼70%) was more prevalent than the S lineage (∼30%) in the SARS-CoV-2 viruses we examined, the S lineage was evolutionarily more related to animal coronaviruses.
-
-  / March, 2020 - National Science Review
-  let !m self assert = Furthermore, our mutational load analysis indicated that the L lineage had accumulated a significantly higher number of derived mutations than S lineage (P < 0.0001, Wilcoxon rank-sum test). Whether the two lineages might have different rates in transmission or replication needs to be investigated in future studies. These results support notions that two lineages of SARS-CoV-2 viruses may have experienced different selective pressures. Of note, the above analyses were based on limited SARS-CoV-2 genomes that were collected from various locations with different time points
-
-  / March, 2020 - National Science Review
-  let !n self assert = Heteroplasmy of SARS-CoV-2 viruses in patients: We found that the sequence of viruses isolated from one patient that lived in the United States on January 21 (USA_2020/01/21.a, GISAID ID: EPI_ISL_404253) had the genotype Y (C or T) at both positions 8,782 and 28,144, differing from the general trend of having either C or T. Although novel mutations could lead to this result, the most parsimonious explanation is that this patient may have been infected by both the L and S lineages.
-
-  / March, 2020 - National Science Review
-  let !o self assert = We found 17 genomic sites that showed evidence of heteroplasmy of SARS-CoV-2 virus in five patients, but we did not find any other instances of the co-existence of L and S lineages in any patient. These findings point to the complexity of SARS-CoV-2 evolution. Further studies investigating how the different alleles of SARS-CoV-2 viruses compete with one and another will be of significant value.
+  # / March, 2020 - National Science Review
+  # let !o self assert = We found 17 genomic sites that showed evidence of heteroplasmy of SARS-CoV-2 virus in five patients, but we did not find any other instances of the co-existence of L and S lineages in any patient. These findings point to the complexity of SARS-CoV-2 evolution. Further studies investigating how the different alleles of SARS-CoV-2 viruses compete with one and another will be of significant value.
 
 
 
@@ -1675,32 +1438,31 @@ ref 'Sharma_et_al_07_08_2020
   // Phylogenetic analysis of the full-length SARS-CoV sequences: evidence for phylogenetic discordance in three genomic regions.
   doi: https://doi.org/10.1002/jmv.20187
   ref 'Magiorkinis_et_al_09_14_2004
-  head = Evidence based on Bayesian scanning plots and phylogenetic analysis using maximum likelihood (ML) and Bayesian methods indicates that SARS‐CoV, for the largest part of the genome (∼80%), is more closely related to Group II coronaviruses sequences, whereas in three regions in the ORF1ab gene it shows no apparent similarity to any of the previously characterized groups of coronaviruses, suggesting a distinct clustering with respect to Group II. This could be a result of ancient recombination events, altered adaptive evolution in different lineages, or a combination of both. We do not want to speculate which of these explanations is correct, since,it is not easy to discriminate with certainty between these two factors.
+  head = Evidence indicates that SARS‐CoV, for the largest part of the genome (∼80%), is more closely related to Group II coronaviruses sequences, whereas in three regions in the ORF1ab gene it shows no apparent similarity to any of the previously characterized groups of coronaviruses, suggesting a distinct clustering with respect to Group II. This could be a result of ancient recombination events, altered adaptive evolution in different lineages, or a combination of both.
+
+  # There is discordant phylogenetic clustering of SARS‐CoV and coronaviruses sequences, throughout the genome, compatible with either ancient recombination events or altered evolutionary rates in different lineages, or a combination of both.
 
   >>> Abstract
     The origin of the severe acute respiratory syndrome‐coronavirus (SARS‐CoV) remains unclear. Evidence based on Bayesian scanning plots and phylogenetic analysis using maximum likelihood (ML) and Bayesian methods indicates that SARS‐CoV, for the largest part of the genome (∼80%), is more closely related to Group II coronaviruses sequences, whereas in three regions in the ORF1ab gene it shows no apparent similarity to any of the previously characterized groups of coronaviruses. There is discordant phylogenetic clustering of SARS‐CoV and coronaviruses sequences, throughout the genome, compatible with either ancient recombination events or altered evolutionary rates in different lineages, or a combination of both.
 
-  -- exports
-    !a
-    !b
-    !c
-    !d
-    !e
+  # -- exports
+  #   !a
+  #   !b
+  #   !c
+  #   !d
+  #   !e
 
-  / September, 2004 - J. Med. Virol.
-  let !a self assert = The clustering between SARS-CoV and Group II is close to the root and probably reﬂects the evolutionary relationship between the ‘‘parental’’ se-quences, from which SARS-CoV originated, and GroupII.
+  # / September, 2004 - J. Med. Virol.
+  # let !a self assert = The clustering between SARS-CoV and Group II is close to the root and probably reﬂects the evolutionary relationship between the ‘‘parental’’ se-quences, from which SARS-CoV originated, and GroupII.
 
-  / September, 2004 - J. Med. Virol.
-  let !b self assert = It was found that in three distinct genomic regions (aa positions 3937–4309, 5612–5734, 6159–6284), SARS-CoV shows no apparent similarity with any of the coronavirus groups characterized previously. These ﬁndings provide a new insight, in addition to previous studies, where SARS-CoV was found not to be related signiﬁcantly to any of the three coronavirus groups, or was separated by a short internal branch from Group I and III.
+  # / September, 2004 - J. Med. Virol.
+  # let !b self assert = It was found that in three distinct genomic regions (aa positions 3937–4309, 5612–5734, 6159–6284), SARS-CoV shows no apparent similarity with any of the coronavirus groups characterized previously.
 
-  / September, 2004 - J. Med. Virol.
-  let !c self assert = Three recent analyses indicated that SARSCoV was related more closely to Group II in partialgenomic regions. On the other hand, several analyses have noted that though SARS CoV is close to Group II, it has a recombinant origin, but these analyses were based only on partial genomic regions, and did not include an exploratory analysis using a sliding window approach.
+  # / September, 2004 - J. Med. Virol.
+  # let !c self assert = Intriguingly, clustering of the SARS-CoV within Group II coronaviruses was not supported signiﬁcantly in regions spanning amino acid positions: 3937–4309 (920–1240), 5612–5734 (2480–2600), 6159–6284(3000–3120) (positions in reference to the murine hepatitis virus ORF1ab are indicated with their respective positions in reference to the alignment in the parentheses). In all cases, SARS-CoV was more closely related to Group I, whereas Group II/Group III–SARS-CoV/Group I nodes were separated by very small distances. Likelihood mapping in the above regions revealed that they contain sufﬁcient phylogenetic signal.Thus, according to the results of phylogenetic analysis,it is suggested that SARS-CoV provides a separate lineage in these three genomic regions.
 
-  / September, 2004 - J. Med. Virol.
-  let !d self assert = Intriguingly, clustering of the SARS-CoV within Group II coronaviruses was not supported signiﬁcantly in regions spanning amino acid positions: 3937–4309 (920–1240), 5612–5734 (2480–2600), 6159–6284(3000–3120) (positions in reference to the murine hepatitis virus ORF1ab are indicated with their respective positions in reference to the alignment in the parentheses). In all cases, SARS-CoV was more closely related to Group I, whereas Group II/Group III–SARS-CoV/Group I nodes were separated by very small distances. Likelihood mapping in the above regions revealed that they contain sufﬁcient phylogenetic signal.Thus, according to the results of phylogenetic analysis,it is suggested that SARS-CoV provides a separate lineage in these three genomic regions.
-
-  / September, 2004 - J. Med. Virol.
-  let !e self assert = Moreover, in region spanning amino acid positions 4373–4540(1300–1440), Bayesian inference suggested a signiﬁcant cluster between Group III and SARS-CoV, whereas this ﬁnding was not supported by the ML method. However, according to likelihood mapping analysis, the phylogenetic signal is very limited in this region; thus we cannot reliably infer the evolutionary relationships in this region.
+  # / September, 2004 - J. Med. Virol.
+  # let !d self assert = Moreover, in region spanning amino acid positions 4373–4540(1300–1440), Bayesian inference suggested a signiﬁcant cluster between Group III and SARS-CoV, whereas this ﬁnding was not supported by the ML method. However, according to likelihood mapping analysis, the phylogenetic signal is very limited in this region; thus we cannot reliably infer the evolutionary relationships in this region.
 
 
 
@@ -1708,64 +1470,59 @@ ref 'Sharma_et_al_07_08_2020
   // No evidence for increased transmissibility from recurrent mutations in SARS-CoV-2
   doi: https://doi.org/10.1101/2020.05.21.108506
   ref 'Dorp_et_al_06_30_2020
-  head = We do not identify a single recurrent mutation in this set convincingly associated with increased viral transmission. Instead, recurrent SARS-CoV-2 mutations currently in circulation appear to be evolutionary neutral. Recurrent mutations also seem primarily induced by the human immune system via host RNA editing, rather than being signatures of adaption to the novel human host. We find no evidence at this stage for the emergence of more transmissible lineages of SARS-CoV-2 due to recurrent mutations and highlight that the genomic diversity of the global SARS-CoV-2 population is currently still very limited. It is to be expected that SARS-CoV-2 will diverge into phenotypically different lineages as it establishes itself as an endemic human pathogen. However, there is no a priori reason to believe that this process will lead to the emergence of any lineage with increased transmission ability in its human host.
+  head = We do not identify a single recurrent mutation in this set convincingly associated with increased viral transmission. Instead, recurrent SARS-CoV-2 mutations currently in circulation appear to be evolutionary neutral. Recurrent mutations also seem primarily induced by the human immune system via host RNA editing, rather than being signatures of adaption to the novel human host.
 
   >>> Abstract
     The COVID-19 pandemic is caused by the coronavirus SARS-CoV-2, which jumped into the human population in late 2019 from a currently uncharacterised reservoir. Due to this extremely recent association with humans, SARS-CoV-2 may not yet be fully adapted to its human host. This has led to speculations that some lineages of SARS-CoV-2 may be evolving towards higher transmissibility. The most plausible candidate mutations under putative natural selection are those which have emerged repeatedly and independently (homoplasies). Here, we formally test whether any of the recurrent mutations that have been observed in SARS-CoV-2 to date are significantly associated with increased viral transmission. To do so, we developed a phylogenetic index to quantify the relative number of descendants in sister clades with and without a specific allele. We apply this index to a carefully curated set of recurrent mutations identified within a dataset of over 23,000 SARS-CoV-2 genomes isolated from patients worldwide. We do not identify a single recurrent mutation in this set convincingly associated with increased viral transmission. Instead, recurrent SARS-CoV-2 mutations currently in circulation appear to be evolutionary neutral. Recurrent mutations also seem primarily induced by the human immune system via host RNA editing, rather than being signatures of adaption to the novel human host. We find no evidence at this stage for the emergence of more transmissible lineages of SARS-CoV-2 due to recurrent mutations.
 
   -- exports
-    !a
-    !b
     !c
-    !d
     !e
-    !f
-    !g
     !h
     !i
-    !j
-    !k
     !l
-    !m
 
-  / June, 2020 - bioRxiv
-  let !a self assert =  Global diversity of SARS-CoV-2: No assemblies were found to deviate by more than 29 SNPs from the reference genome, Wuhan-Hu-1, which is consistent with the relatively recent emergence of SARS-CoV-2 towards the latter portion of 2019. We informally estimate the mutation rate over our alignment to 9.6 x 10-4 substitutions per site per year, which is consistent with previous rates estimated for SARS-CoV-2. This rate also falls in line with those observed in other coronaviruses, and is fairly unremarkable relative to other positive single-stranded RNA viruses, which do not have a viral proof-reading mechanism.
+  # / June, 2020 - bioRxiv
+  # let !a self assert = No assemblies were found to deviate by more than 29 SNPs from the reference genome, Wuhan-Hu-1, which is consistent with the relatively recent emergence of SARS-CoV-2 towards the latter portion of 2019. We informally estimate the mutation rate over our alignment to 9.6 x 10-4 substitutions per site per year, which is consistent with previous rates estimated for SARS-CoV-2. This rate also falls in line with those observed in other coronaviruses, and is fairly unremarkable relative to other positive single-stranded RNA viruses, which do not have a viral proof-reading mechanism.
 
-  / June, 2020 - bioRxiv
-  let !b self assert = Genetic diversity in the SARS-CoV-2 population remains moderate with an average pairwise SNP difference across isolates of 9.71 (3-19, 95% CI). This low number of mutations between any two viruses currently in circulation means that, to date, SARS-CoV-2 can be considered as a single essentially clonal lineage, notwithstanding taxonomic efforts to categorise extant diversity into sublineages.
+  # / June, 2020 - bioRxiv
+  # let !b self assert = Genetic diversity in the SARS-CoV-2 population remains moderate with an average pairwise SNP difference across isolates of 9.71 (3-19, 95% CI). This low number of mutations between any two viruses currently in circulation means that, to date, SARS-CoV-2 can be considered as a single essentially clonal lineage, notwithstanding taxonomic efforts to categorise extant diversity into sublineages.
 
   / June, 2020 - bioRxiv
   let !c self assert = Our dataset includes viruses sequenced from 86 countries, with a good temporal coverage. While some countries are far more densely sampled than others, the emerging picture is that fairly limited geographic structure is observed in the viruses in circulation in any one region. All major clades in the global diversity of SARS-CoV-2 are represented in various regions of the world, and the genomic diversity of SARS-CoV-2 in circulation in different continents is fairly uniform.
 
-  / June, 2020 - bioRxiv
-  let !d self assert = Distribution of recurrent mutations: As identified by previous studies, we recover evidence of strong mutational biases across the SARS-CoV-2 genome. A remarkably high proportion of CàU changes was observed relative to other types of SNPs and this pattern was observed at both non-homoplasic and homoplasic sites. Additionally, mutations involving cytosines were almost exclusively CàU mutations (98%) and the distributions of k-mers for homoplasic sites appeared markedly different compared to that across all variable positions. In particular, we observe an enrichment in CCA and TCT 3-mers containing a variable base in their central position, which are known APOBEC targets.
+  # / June, 2020 - bioRxiv
+  # let !d self assert = Distribution of recurrent mutations: As identified by previous studies, we recover evidence of strong mutational biases across the SARS-CoV-2 genome. A remarkably high proportion of CàU changes was observed relative to other types of SNPs and this pattern was observed at both non-homoplasic and homoplasic sites. Additionally, mutations involving cytosines were almost exclusively CàU mutations (98%) and the distributions of k-mers for homoplasic sites appeared markedly different compared to that across all variable positions. In particular, we observe an enrichment in CCA and TCT 3-mers containing a variable base in their central position, which are known APOBEC targets.
 
   / June, 2020 - bioRxiv
-  let !e self assert = Across our dataset we identified a total of 8,667 mutations, heavily enriched in CàU transitions, of which we identified 308 strongly supported recurrent mutations. Employing a newly devised index (Ratio of Homoplasic Offspring; RoHO) to test whether any of these mutations contribute to a change in transmission, we found no mutation was convincingly associated with a significant increase or decrease in transmissibility.
+  let !e self assert = Across our dataset we identified a total of 8,667 mutations, heavily enriched in CàU transitions, of which we identified 308 strongly supported recurrent mutations. We found no mutation was convincingly associated with a significant increase or decrease in transmissibility.
 
-  / June, 2020 - bioRxiv
-  let !f self assert = Signatures of transmission: Though, the fact that none of the 80 recurrent mutations in the SARS-CoV-2 population we identified as candidates for putative adaptation to its novel human host are statistically significantly associated to transmission suggests that the vast majority of mutations segregating at reasonable frequency are essentially neutral in the context of transmission and viral fitness. Instead the entire set of 80 recurrent mutations seem to fit an expectation for neutral evolution with respect to transmissibility, with a mean and median overall Log10RoHO score of -0.002 and and -0.06.
+  # / June, 2020 - bioRxiv
+  # let !f self assert = The vast majority of mutations segregating at reasonable frequency are essentially neutral in the context of transmission and viral fitness. Instead the entire set of 80 recurrent mutations seem to fit an expectation for neutral evolution with respect to transmissibility, with a mean and median overall Log10RoHO score of -0.002 and and -0.06.
 
-  / June, 2020 - bioRxiv
-  let !g self assert = Moreover, the distribution of individual site-specific RoHO scores is symmetrically distributed around 0 with 41/80 mean positive values and 39/80 negative ones. To summarise, none of the recurrent mutations in circulation to date in SARS-CoV-2, which we identified as candidates for putative adaptation to its novel human host, shows evidence of being associated to viral transmissibility.
+  # / June, 2020 - bioRxiv
+  # let !g self assert = Moreover, the distribution of individual site-specific RoHO scores is symmetrically distributed around 0 with 41/80 mean positive values and 39/80 negative ones. To summarise, none of the recurrent mutations in circulation to date in SARS-CoV-2, which we identified as candidates for putative adaptation to its novel human host, shows evidence of being associated to viral transmissibility.
 
   / June, 2020 - bioRxiv
   let !h self assert = A much discussed mutation in the context of demographic confounding is D614G, a nonsynonymous change in the SARS-CoV-2 Spike protein. The D614G mutation emerged early in the pandemic and is found at high frequency globally, with 16,677 assemblies carrying the derived allele in the data we analysed.
 
   / June, 2020 - bioRxiv
-  let !i self assert = The D614G mutation displays only three independent emergences that qualify for inclusion in our analyses. While this limits our power to detect a statistically significant association with transmissibility, the low number of recurrent mutations leading to the D614G allele suggests that, rather than being a driver a of transmission itself, it arose early and went up in frequency by hitchhiking with one of the deepest branches in the global phylogeny as the SARS-CoV-2 population expanded. In this context, it is of note that D614G is in linkage disequilibrium with two other derived mutations (nucleotide positions 3037 and 11,408) that have experienced highly similar expansions.
+  let !i self assert = The D614G mutation displays only three independent emergences that qualify for inclusion in our analyses. The low number of recurrent mutations leading to the D614G allele suggests that, rather than being a driver a of transmission itself, it arose early and went up in frequency by hitchhiking with one of the deepest branches in the global phylogeny as the SARS-CoV-2 population expanded. In this context, it is of note that D614G is in linkage disequilibrium with two other derived mutations (nucleotide positions 3037 and 11,408) that have experienced highly similar expansions.
 
-  / June, 2020 - bioRxiv
-  let !j self assert = All three mutations are found in around 72% of the genomes in our global SARS-CoV-2 alignment, and rarely occurin isolation with 99% (16,538/16,677) of genomes with the D614G mutation also carrying the derived alleles at the two other sites. Consistent with our findings that D614G is unlikely to be a large driver of viral transmission, our results support a wider narrative where the vast majority of mutations segregating at reasonably high frequency in SARS-CoV-2 are essentially neutral with respect to viral fitness.
+  # / June, 2020 - bioRxiv
+  # let !j self assert = All three mutations are found in around 72% of the genomes in our global SARS-CoV-2 alignment, and rarely occuring isolation with 99% (16,538/16,677) of genomes with the D614G mutation also carrying the derived alleles at the two other sites. Consistent with our findings that D614G is unlikely to be a large driver of viral transmission, our results support a wider narrative where the vast majority of mutations segregating at reasonably high frequency in SARS-CoV-2 are essentially neutral with respect to viral fitness.
 
-  / June, 2020 - bioRxiv
-  let !k self assert = Notably 66% of the detected mutations comprise nonsynonymous changes of which 38% derive from CàU transitions. This high compositional bias, as also detected in other studies, as well as in other members of the Coronaviridae, suggests that mutations observed in the SARS-CoV-2 genome are not solely the result of errors by the viral RNA polymerase during virus replication.
+  # / June, 2020 - bioRxiv
+  # let !k self assert = Notably 66% of the detected mutations comprise nonsynonymous changes of which 38% derive from CàU transitions. This high compositional bias, as also detected in other studies, as well as in other members of the Coronaviridae, suggests that mutations observed in the SARS-CoV-2 genome are not solely the result of errors by the viral RNA polymerase during virus replication.
 
-  / June, 2020 - bioRxiv
-  let !l self assert = APOBEC3 was shown to result in cytosine deamination but not hypermutation of HCoV-NL63 in vitro, which may suggest that additional biological processes play a role.
+  # / June, 2020 - bioRxiv
+  # let !l self assert = APOBEC3 was shown to result in cytosine deamination but not hypermutation of HCoV-NL63 in vitro, which may suggest that additional biological processes play a role.
 
-  / June, 2020 - bioRxiv
-  let !m self assert = We further acknowledge that the number of SARS-CoV-2 available at this stage of the pandemic, whilst extensive, still provides us only with moderate power to detect statistically significant associations with transmissibility for any individual recurrent mutation.
+  # / June, 2020 - bioRxiv
+  # let !m self assert = We further acknowledge that the number of SARS-CoV-2 available at this stage of the pandemic, whilst extensive, still provides us only with moderate power to detect statistically significant associations with transmissibility for any individual recurrent mutation.
+
+  # / June, 2020 - bioRxiv
+  # let !m self assert = It is to be expected that SARS-CoV-2 will diverge into phenotypically different lineages as it establishes itself as an endemic human pathogen. However, there is no a priori reason to believe that this process will lead to the emergence of any lineage with increased transmission ability in its human host.
 
 
 
@@ -1773,109 +1530,88 @@ ref 'Sharma_et_al_07_08_2020
   // Coast-to-Coast Spread of SARS-CoV-2 during the Early Epidemic in the United States
   doi: https://doi.org/10.1016/j.cell.2020.04.021
   ref 'Fauver_et_al_05_07_2020
-  head = Our phylogenetic analysis places the majority of these genomes with viruses sequenced from Washington state. By coupling our genomic data with domestic and international travel patterns, we show that early SARS-CoV-2 transmission in Connecticut was likely driven by domestic introductions. Moreover, the risk of domestic importation to Connecticut exceeded that of international importation by mid-March regardless of our estimated effects of federal travel restrictions. This study provides evidence of widespread sustained transmission of SARS-CoV-2 within the United States and highlights the critical need for local surveillance.
+  head = By coupling our genomic data with domestic and international travel patterns, we show that early SARS-CoV-2 transmission in Connecticut was likely driven by domestic introductions. Moreover, the risk of domestic importation to Connecticut exceeded that of international importation by mid-March regardless of our estimated effects of federal travel restrictions.
 
   >>> Summary
     The novel coronavirus SARS-CoV-2 was first detected in the Pacific Northwest region of the United States in January 2020, with subsequent COVID-19 outbreaks detected in all 50 states by early March. To uncover the sources of SARS-CoV-2 introductions and patterns of spread within the United States, we sequenced nine viral genomes from early reported COVID-19 patients in Connecticut. Our phylogenetic analysis places the majority of these genomes with viruses sequenced from Washington state. By coupling our genomic data with domestic and international travel patterns, we show that early SARS-CoV-2 transmission in Connecticut was likely driven by domestic introductions. Moreover, the risk of domestic importation to Connecticut exceeded that of international importation by mid-March regardless of our estimated effects of federal travel restrictions. This study provides evidence of widespread sustained transmission of SARS-CoV-2 within the United States and highlights the critical need for local surveillance.
 
-  -- exports
-    !a
-    !b
-    !c
-    !d
-    !e
-    !f
-    !g
-    !h
-    !i
-    !j
-    !k
-    !l
-    !m
+  # -- exports
+  #   !d
+  #   !h
 
-  / May, 2020 - Cell
-  let !a self assert = Phylogenetic Clustering of Connecticut SARS-CoV-2 Genomes Demonstrates Interstate Spread: Our phylogenetic analyses showed that the outbreak in Connecticut was caused by multiple virus introductions and that most of these viruses were related to those sequenced from other states rather than international locations.
+  # / May, 2020 - Cell
+  # let !a self assert = Our phylogenetic analyses showed that the outbreak in Connecticut was caused by multiple virus introductions and that most of these viruses were related to those sequenced from other states rather than international locations.
 
-  / May, 2020 - Cell
-  let !b self assert = Our first nine SARS-CoV-2 genomes clustered into three distinct phylogenetic clades, indicating multiple independent virus introductions into Connecticut. Our SARS-CoV-2 genome CT-Yale-001 clusters closely with other viruses sequenced from Asia (China), whereas the close genetic relatedness of genomes from Europe and Washington state in the clade that contains CT-Yale-006 makes it difficult to track the origins of this virus. Regardless, neither the CT-Yale-001 nor the CT-Yale-006 COVID-19 cases were travel-associated, which indicates that these patients were part of domestic transmission chains that stemmed from undetected introductions.
+  # / May, 2020 - Cell
+  # let !b self assert = Our first nine SARS-CoV-2 genomes clustered into three distinct phylogenetic clades, indicating multiple independent virus introductions into Connecticut. Our SARS-CoV-2 genome CT-Yale-001 clusters closely with other viruses sequenced from Asia (China), whereas the close genetic relatedness of genomes from Europe and Washington state in the clade that contains CT-Yale-006 makes it difficult to track the origins of this virus. Regardless, neither the CT-Yale-001 nor the CT-Yale-006 COVID-19 cases were travel-associated, which indicates that these patients were part of domestic transmission chains that stemmed from undetected introductions.
 
-  / May, 2020 - Cell
-  let !c self assert = Because of a paucity of SARS-CoV-2 genomes from other regions within the United States, we could not determine the exact domestic origin of these viruses in Connecticut. We also cannot yet determine whether the higher number of substitutions observed in CT-Yale-007 and CT-Yale-008 compared with the other Connecticut virus genomes within this clade was the result of multiple introductions or of significant undersampling.
+  # / May, 2020 - Cell
+  # let !c self assert = Because of a paucity of SARS-CoV-2 genomes from other regions within the United States, we could not determine the exact domestic origin of these viruses in Connecticut. We also cannot yet determine whether the higher number of substitutions observed in CT-Yale-007 and CT-Yale-008 compared with the other Connecticut virus genomes within this clade was the result of multiple introductions or of significant undersampling.
 
-  / May, 2020 - Cell
-  let !d self assert = However, given that seven of our nine Connecticut SARS-CoV-2 genomes fell within this clade versus the many other international clades, these were most likely the result of a common domestic source(s) rather than repeated international introductions. Importantly, our data indicate that, by early to mid-March, there had already been interstate spread during the early COVID-19 epidemic in the United States.
+  # / May, 2020 - Cell
+  # let !d self assert = However, given that seven of our nine Connecticut SARS-CoV-2 genomes fell within this clade versus the many other international clades, these were most likely the result of a common domestic source(s) rather than repeated international introductions. Importantly, our data indicate that, by early to mid-March, there had already been interstate spread during the early COVID-19 epidemic in the United States.
 
-  / May, 2020 - Cell
-  let !e self assert = Travel and Epidemiological Patterns Reveal Significant Domestic Importation Risk: We found that, because of the large volume of daily domestic air passengers, the dominant importation risk into the Connecticut region switched from international to domestic by early to mid-March.
+  # / May, 2020 - Cell
+  # let !e self assert = We found that, because of the large volume of daily domestic air passengers, the dominant importation risk into the Connecticut region switched from international to domestic by early to mid-March.
 
-  / May, 2020 - Cell
-  let !f self assert = By March 18, the five countries comprised 78% of reported non-United States cases, whereas the five states comprised 48% of reported domestic cases outside of Connecticut and New York.
+  # / May, 2020 - Cell
+  # let !f self assert = By March 18, the five countries comprised 78% of reported non-United States cases, whereas the five states comprised 48% of reported domestic cases outside of Connecticut and New York.
 
-  / May, 2020 - Cell
-  let !g self assert = We found that the daily domestic passenger volumes were ∼100 times greater than international in Hartford, ∼10 times greater in Boston, and ∼4 times greater in New York in our dataset
+  # / May, 2020 - Cell
+  # let !g self assert = We found that the daily domestic passenger volumes were ∼100 times greater than international in Hartford, ∼10 times greater in Boston, and ∼4 times greater in New York in our dataset
 
-  / May, 2020 - Cell
-  let !h self assert = By combining daily passenger volumes with COVID-19 prevalence at the travel route origin and accounting for differences in reporting rates, we found that the domestic and international SARS-CoV-2 importation risk started to increase dramatically at the beginning of March 2020. Without accounting for the effects of international travel restrictions, our estimated domestic importation risk from the selected five states surpassed the international importation risk by March 10.
+  # / May, 2020 - Cell
+  # let !h self assert = We found that the domestic and international SARS-CoV-2 importation risk started to increase dramatically at the beginning of March 2020. Without accounting for the effects of international travel restrictions, our estimated domestic importation risk from the selected five states surpassed the international importation risk by March 10.
 
-  / May, 2020 - Cell
-  let !i self assert = Because of the overall low prevalence of COVID-19 in China, we did not find any significant effects of travel restrictions from China that were enacted on February 1 (Data S3). Also, we did not find significant changes to the importation risk following travel restrictions from Iran on March 1, likely because of the relatively small number of passengers arriving from that country (Data S3). Although we did find a dramatic decrease in international importation risk following the restrictions on travel from Europe (March 13), this decrease occurred after our estimates of domestic travel importation risk had already surpassed that of international importation
+  # / May, 2020 - Cell
+  # let !i self assert = Because of the overall low prevalence of COVID-19 in China, we did not find any significant effects of travel restrictions from China that were enacted on February 1 (Data S3). Also, we did not find significant changes to the importation risk following travel restrictions from Iran on March 1, likely because of the relatively small number of passengers arriving from that country (Data S3). Although we did find a dramatic decrease in international importation risk following the restrictions on travel from Europe (March 13), this decrease occurred after our estimates of domestic travel importation risk had already surpassed that of international importation
 
-  / May, 2020 - Cell
-  let !j self assert = The dramatic rises in domestic and international importation risk preceded the state-wide COVID-19 outbreak in Connecticut, and the recent increase in risk of domestic importation may give rise to new outbreaks in the region.
-
-  / May, 2020 - Cell
-  let !k self assert = Although such variations may lower our domestic risk estimates, we also did not account for the large volumes of regional automobile and rail travel, especially along the corridor that connects Massachusetts, New York, New Jersey, Pennsylvania, and Washington D.C. to Connecticut. We do not believe that Connecticut is more closely connected to its neighbors than states in other regions of the country. Therefore, our risk estimates indicate that this interconnectedness will perpetuate the domestic spread of SARS-CoV-2 and that domestic spread will likely become the primary source of new infections in the United States.
-
-  / May, 2020 - Cell
-  let !l self assert = Our model demonstrates the urgent need to focus control efforts in the United States on preventing further domestic virus spread. As this epidemic progresses, domestic introductions of the virus could undermine control efforts in areas that have successfully mitigated local transmission. In China, local outbreak dynamics were highly correlated with travel between Wuhan and the outbreak dynamics therein during the early months of the epidemic. Similarly, if interstate introductions are not curtailed in the United States with improved surveillance measures, more robust diagnostic capabilities, and proper clinical care, quelling local transmission within states will be a Sisyphean task
-
-  / May, 2020 - Cell
-  let !m self assert = We therefore propose that a unified effort to detect and prevent new COVID-19 cases will be essential for mitigating the risk of future domestic outbreaks. Finally, state- and local-level policymakers must recognize that the health and well-being of their constituents are contingent on that of the nation. If spread between states is now occurring, as our results indicate, then the United States will struggle to control COVID-19 in the absence of a unified surveillance strategy.
-
+  # / May, 2020 - Cell
+  # let !j self assert = Although such variations may lower our domestic risk estimates, we also did not account for the large volumes of regional automobile and rail travel, especially along the corridor that connects Massachusetts, New York, New Jersey, Pennsylvania, and Washington D.C. to Connecticut. We do not believe that Connecticut is more closely connected to its neighbors than states in other regions of the country. Therefore, our risk estimates indicate that this interconnectedness will perpetuate the domestic spread of SARS-CoV-2 and that domestic spread will likely become the primary source of new infections in the United States.
 
 
   # phlyogeoraphy, transmission lineage
   // Accommodating individual travel history, global mobility, and unsampled diversity in phylogeography: a SARS-CoV-2 case study.
   doi: https://doi.org/10.1101/2020.06.22.165464
   ref 'Lemey_et_al_06_23_2020
-  head = We demonstrate that including travel history data for each SARS-CoV-2 genome yields more realistic reconstructions of virus spread, particularly when travelers from undersampled locations are included to mitigate sampling bias. We further explore methods to ameliorate the impact of sampling bias by augmenting the phylogeographic analysis with lineages from undersampled locations in the analyses. Our reconstructions reinforce specific transmission hypotheses suggested by the inclusion of travel history data, but also suggest alternative routes of virus migration that are plausible within the epidemiological context but are not apparent with current sampling efforts. Although further research is needed to fully examine the performance of our travel-aware phylogeographic analyses with unsampled diversity and to further improve them, they represent multiple new avenues for directly addressing the colossal issue of sample bias in phylogeographic inference.
+  head = We demonstrate that including travel history data for each SARS-CoV-2 genome yields more realistic reconstructions of virus spread, particularly when travelers from undersampled locations are included to mitigate sampling bias.
 
   >>> Abstract
     Spatiotemporal bias in genome sequence sampling can severely confound phylogeographic inference based on discrete trait ancestral reconstruction. This has impeded our ability to accurately track the emergence and spread of SARS-CoV-2, the virus responsible for the COVID-19 pandemic. Despite the availability of unprecedented numbers of SARS-CoV-2 genomes on a global scale, evolutionary reconstructions are hindered by the slow accumulation of sequence divergence over its relatively short transmission history. When confronted with these issues, incorporating additional contextual data may critically inform phylodynamic reconstructions. Here, we present a new approach to integrate individual travel history data in Bayesian phylogeographic inference and apply it to the early spread of SARS-CoV-2, while also including global air transportation data. We demonstrate that including travel history data for each SARS-CoV-2 genome yields more realistic reconstructions of virus spread, particularly when travelers from undersampled locations are included to mitigate sampling bias. We further explore methods to ameliorate the impact of sampling bias by augmenting the phylogeographic analysis with lineages from undersampled locations in the analyses. Our reconstructions reinforce specific transmission hypotheses suggested by the inclusion of travel history data, but also suggest alternative routes of virus migration that are plausible within the epidemiological context but are not apparent with current sampling efforts. Although further research is needed to fully examine the performance of our travel-aware phylogeographic analyses with unsampled diversity and to further improve them, they represent multiple new avenues for directly addressing the colossal issue of sample bias in phylogeographic inference.
 
   -- exports
-    !a
     !b
     !c
     !d
-    !e
     !f
-    !g
     !h
 
-  / June, 2020 - bioRxiv
-  let !a self assert = Travel history uncovers more realistic phylogeographic patterns: Regardless of what location data we use in the analyses, they consistently indicate that in this early stage, SARS-CoV-2 spread is shaped by air travel and not by geographic distance, and that there is strong asymmetric flow out of Hubei. Interestingly, this asymmetry is somewhat stronger for the analyses that incorporate travel locations compared to the analysis using only sampling locations. One explanation is that the majority of travellers were returning from Hubei, and adding this information contributes appropriately to the intensity of outflux from Hubei.
+  # / June, 2020 - bioRxiv
+  # let !a self assert = Regardless of what location data we use in the analyses, they consistently indicate that in this early stage, SARS-CoV-2 spread is shaped by air travel and not by geographic distance, and that there is strong asymmetric flow out of Hubei. Interestingly, this asymmetry is somewhat stronger for the analyses that incorporate travel locations compared to the analysis using only sampling locations. One explanation is that the majority of travellers were returning from Hubei, and adding this information contributes appropriately to the intensity of outflux from Hubei.
 
   / June, 2020 - bioRxiv
-  let !b self assert = We consider a case study involving the spatial path of a virus that was collected in Switzerland in February 2020 (EPI_ISL_413021). The Swiss virus is part of lineage B.1 and is positioned within a cluster of viruses primarily from Europe that has been the subject of controversy. The travel-aware reconstruction, which includes both sampling location and traveler’s location of origin, almost fully resolves the ancestry of the Swiss virus. The Swiss virus was imported from Italy, and not the Netherlands. The fact that this cluster contains five genomes from travellers returning from Italy to various countries, including Germany, Scotland, Mexico, Nigeria, and Brazil, is instrumental in positioning Italy at the root of this cluster and helps correct for Italy’s lack of data. The inclusion of genomes associated with a Hubei travel history also strengthens the original Hubei ancestry in the phylogeography, as trajectories appear to coalesce earlier in Hubei
+  let !b self assert = We consider a case study involving the spatial path of a virus that was collected in Switzerland in February 2020 (EPI_ISL_413021). The Swiss virus is part of lineage B.1 and is positioned within a cluster of viruses primarily from Europe. The Swiss virus was imported from Italy, and not the Netherlands. The fact that this cluster contains five genomes from travellers returning from Italy to various countries, including Germany, Scotland, Mexico, Nigeria, and Brazil, is instrumental in positioning Italy at the root of this cluster and helps correct for Italy’s lack of data.
 
   / June, 2020 - bioRxiv
   let !c self assert = Although the trajectory suggests an introduction into Italy from Germany, the support for this is not overwhelming and solely due to the single genome sample from Germany basal to the Italian cluster. We include another trajectory for a virus in this cluster from a Brazilian traveller (EPI_ISL_412964) returning from Italy that confirms the pattern inferred for the Swiss sample.
 
   / June, 2020 - bioRxiv
-  let !d self assert = In a second case study, we consider a virus from Australia sampled in February 2020 (EPI_ISL_412975). The virus is positioned within a clade of other closely related viruses from Australia (lineage B.4), some of which were sampled from travellers returning from Iran. Using sampling location alone does not provide any support for Iranian ancestry, since the data set does not include any genomes directly sampled from Iran. Using the locations of origin for the travellers does support Iranian ancestry, but with considerable ambiguity. However, the travel-aware reconstruction, including both sampling location and traveler’s location of origin, clearly supports an ancestry that includes Iran. This Iran-Australia case study provides an example where enforcing the travel location somewhat deeper in the evolutionary history (at return dates of the travellers) imparts more information that is critical for correctly reconstructing ancestral relationships.
+  let !d self assert = In a second case study, we consider a virus from Australia sampled in February 2020 (EPI_ISL_412975). The virus is positioned within a clade of other closely related viruses from Australia (lineage B.4), some of which were sampled from travellers returning from Iran. The travel-aware reconstruction clearly supports Iranian ancestry.
+
+  # / June, 2020 - bioRxiv
+  # let !e self assert = We add unsampled taxa for locations that are undersampled according to case counts (cfr. Methods), primarily for Hubei (n = 307), Italy (n = 47), Iran (n = 40), and South Korea (n = 30). In contrast to the reconstructions with no unsampled taxa, we now mainly observe a direct transition from Hubei to Italy (posterior probability = 0.88), implying that a second introduction from Hubei that is independent from the introduction into Germany may have seeded the Italian clade. This hypothesis arises from the inclusion of unsampled Hubei taxa that now cluster between the German virus and the Italian clade, even though the branch connecting the German genome to the Italian clade only represents a single substitution. The many unsampled Italian taxa that fall in this clade further reinforce its Italian ancestry.
 
   / June, 2020 - bioRxiv
-  let !e self assert = Unsampled diversity reinforces reconstructions informed by travel data and unveils alternative transmission hypotheses.: We add unsampled taxa for locations that are undersampled according to case counts (cfr. Methods), primarily for Hubei (n = 307), Italy (n = 47), Iran (n = 40), and South Korea (n = 30). In contrast to the reconstructions with no unsampled taxa, we now mainly observe a direct transition from Hubei to Italy (posterior probability = 0.88), implying that a second introduction from Hubei that is independent from the introduction into Germany may have seeded the Italian clade. This hypothesis arises from the inclusion of unsampled Hubei taxa that now cluster between the German virus and the Italian clade, even though the branch connecting the German genome to the Italian clade only represents a single substitution. The many unsampled Italian taxa that fall in this clade further reinforce its Italian ancestry.
+  let !f self assert = The inclusion of unsampled taxa also provides more resolution on the Hubei ancestry of the Iran-Australia case study in lineage B.4 (EPI_ISL_412975). Notably, this virus was sampled before the first report of COVID-19 in Iran on February 19th, but our reconstruction indicates that considerable diversification, and hence transmission, already took place prior to this report.
+
+  # / June, 2020 - bioRxiv
+  # let !g self assert = In addition to focusing on specific transmission patterns, we also summarize the overall dispersal dynamics in a way that marginalizes over plausible phylogenetic histories for the four different analyses we perform. While introductions from Hubei represent the dominant pattern when using sampling location only, this is far more pronounced for the other analyses. Using sampling location suggests unrealistic dispersal from locations such as Australia and The Netherlands that largely disappear in the other analyses, specifically when using travel history data without or with unsampled diversity.
 
   / June, 2020 - bioRxiv
-  let !f self assert = The inclusion of unsampled taxa also provides more resolution on the Hubei ancestry of the Iran-Australia case study in lineage B.4 (EPI_ISL_412975). The genomes from four Australian travellers returning from this country, one direct contact, another Australian genome without travel history, as well as a genome from a traveller returning from Iran to New Zealand are effectively embedded in unsampled Iranian diversity. The most basal virus in this clade is from a Canadian traveller returning from Iran. Although the basal nature of this virus is not well supported, there is good posterior support for the monophyly of all the sampled genomes in this clade. Notably, this virus was sampled before the first report of COVID-19 in Iran on February 19th, but our reconstruction indicates that considerable diversification, and hence transmission, already took place prior to this report.
+  let !h self assert = In the travel-aware analyses, European countries experience more introductions from Italy and to a lesser extent also more directly from Hubei.
 
-  / June, 2020 - bioRxiv
-  let !g self assert = In addition to focusing on specific transmission patterns, we also summarize the overall dispersal dynamics in a way that marginalizes over plausible phylogenetic histories for the four different analyses we perform. While introductions from Hubei represent the dominant pattern when using sampling location only, this is far more pronounced for the other analyses. Using sampling location suggests unrealistic dispersal from locations such as Australia and The Netherlands that largely disappear in the other analyses, specifically when using travel history data without or with unsampled diversity.
-
-  / June, 2020 - bioRxiv
-  let !h self assert = In the travel-aware analyses, European countries experience more introductions from Italy and to a lesser extent also more directly from Hubei. As also illustrated by the specific examples, the considerable number of secondary transmissions from Italy and Iran is revealed by using travel history data; the substantial addition of unsampled taxa from these relatively undersampled locations does not further contribute to this pattern. However, adding unsampled diversity from Hubei suggests that occasional introductions from other locations are more likely direct introductions from Hubei, such as introductions from Guangdong Province to Shandong Province, South Korea and Japan, and a supposedly Canadian introduction in the US.
+  # / June, 2020 - bioRxiv
+  # let !i self assert = Adding unsampled diversity from Hubei suggests that occasional introductions from other locations are more likely direct introductions from Hubei, such as introductions from Guangdong Province to Shandong Province, South Korea and Japan, and a supposedly Canadian introduction in the US.
 
 
 
@@ -1883,7 +1619,7 @@ ref 'Sharma_et_al_07_08_2020
   // Broad Cross-Species Infection of Cultured Cells by Bat HKU2-Related Swine Acute Diarrhea Syndrome Coronavirus and Identification of Its Replication in Murine Dendritic Cells In Vivo Highlight Its Potential for Diverse Interspecies Transmission
   doi: https://doi.org/10.1128/JVI.01448-19
   ref 'Yang_et_al_11_26_2019
-  head = These results provide important insights into the ecology of this bat-origin CoV, highlighting the possibility of its ability to jump interspecies barriers and the potential role of rodents as susceptible hosts in the field. Identification of the unknown SADS-CoV cellular receptor and further surveillance of other animal populations are needed to fully understand the biology of SADS-CoV.
+  head = The ability of SADS-CoV to replicate in various cells lines from a broad range of species and the unexpected tropism for murine DCs provide important insights into the biology of this bat-origin CoV, highlighting its possible ability to cross interspecies barriers and the potential role of rodents as susceptible hosts in the field.
 
   >>> Abstract
     Outbreaks of severe diarrhea in neonatal piglets in Guangdong, China, in 2017 resulted in the isolation and discovery of a novel swine enteric alphacoronavirus (SeACoV) derived from the species Rhinolophus bat coronavirus HKU2 (Y. Pan, X. Tian, P. Qin, B. Wang, et al., Vet Microbiol 211:15–21, 2017). SeACoV was later referred to as swine acute diarrhea syndrome CoV (SADS-CoV) by another group (P. Zhou, H. Fan, T. Lan, X.-L. Yang, et al., Nature 556:255–258, 2018). The present study was set up to investigate the potential species barriers of SADS-CoV in vitro and in vivo. We first demonstrated that SADS-CoV possesses a broad species tropism and is able to infect cell lines from diverse species, including bats, mice, rats, gerbils, hamsters, pigs, chickens, nonhuman primates, and humans. Trypsin contributes to but is not essential for SADS-CoV propagation in vitro. Furthermore, C57BL/6J mice were inoculated with the virus via oral or intraperitoneal routes. Although the mice exhibited only subclinical infection, they supported viral replication and prolonged infection in the spleen. SADS-CoV nonstructural proteins and double-stranded RNA were detected in splenocytes of the marginal zone on the edge of lymphatic follicles, indicating active replication of SADS-CoV in the mouse model. We identified that splenic dendritic cells (DCs) are the major targets of virus infection by immunofluorescence and flow cytometry approaches. Finally, we demonstrated that SADS-CoV does not utilize known CoV receptors for cellular entry. The ability of SADS-CoV to replicate in various cells lines from a broad range of species and the unexpected tropism for murine DCs provide important insights into the biology of this bat-origin CoV, highlighting its possible ability to cross interspecies barriers.
@@ -1892,51 +1628,42 @@ ref 'Sharma_et_al_07_08_2020
     !a
     !b
     !c
-    !d
-    !e
-    !f
-    !g
-    !h
-    !i
-    !j
-    !k
-    !l
 
   / November, 2019 - Journal of Virology
-  let !a self assert = As SADS-CoV probably originated from a bat SADSr-CoV derived from HKU2-CoV identified in Rhinolophus sinicus (Chinese horseshoe bats), we commenced testing viral susceptibility in two available bat cell lines, namely, BFK from Myotis daubentonii and Tb-1 from Tadarida brasiliensis. Although BFK cells did not support SADS-CoV replication, it replicated efficiently in Tb-1 cells, suggesting that other bat species in addition to horseshoe bats are likely susceptible to SADS-CoV infection.
+  let !a self assert = As SADS-CoV probably originated from a bat SADSr-CoV derived from HKU2-CoV identified in Rhinolophus sinicus (Chinese horseshoe bats), we tested viral susceptibility in two available bat cell lines, namely, BFK from Myotis daubentonii and Tb-1 from Tadarida brasiliensis. Although BFK cells did not support SADS-CoV replication, it replicated efficiently in Tb-1 cells, suggesting that other bat species in addition to horseshoe bats are likely susceptible to SADS-CoV infection.
 
   / November, 2019 - Journal of Virology
-  let !b self assert = We first demonstrated that SADS-CoV possesses a broad species tropism and is able to infect cell lines from diverse species, including bats, mice, rats, gerbils, hamsters, pigs, chickens, nonhuman primates, and humans including BHK-21, which is not susceptible to other known human CoVs, such as SARS-CoV and MERS-CoV, as well as three swine enteric CoVs, namely, PEDV, PDCoV, and TGEV. Trypsin contributes to but is not essential for SADS-CoV propagation in vitro.
+  let !b self assert = SADS-CoV possesses a broad species tropism and is able to infect cell lines from diverse species, including bats, mice, rats, gerbils, hamsters, pigs, chickens, nonhuman primates, and humans including BHK-21, which is not susceptible to other known human CoVs, such as SARS-CoV and MERS-CoV, as well as three swine enteric CoVs, namely, PEDV, PDCoV, and TGEV. As for the ability of SADS-CoV to grow efficiently in human cell lines, we should not underestimate the risk that this bat-origin CoV may “jump” from pigs to humans.
 
   / November, 2019 - Journal of Virology
   let !c self assert = Furthermore, C57BL/6J mice were inoculated with the virus via oral or intraperitoneal routes. Although the mice exhibited only subclinical infection, they supported viral replication and prolonged infection in the spleen. SADS-CoV nonstructural proteins and double-stranded RNA were detected in splenocytes of the marginal zone on the edge of lymphatic follicles, indicating active replication of SADS-CoV in the mouse model.
 
-  / November, 2019 - Journal of Virology
-  let !d self assert = The phenotype was also consistent with the replication kinetics in extracted splenocytes in vitro, in which viral genomic RNA peaked and plateaued at 72 hpi
+  # / November, 2019 - Journal of Virology
+  # let !d self assert = The phenotype was also consistent with the replication kinetics in extracted splenocytes in vitro, in which viral genomic RNA peaked and plateaued at 72 hpi
 
-  / November, 2019 - Journal of Virology
-  let !e self assert = These data collectively led to speculation that SADS-CoV favors splenic cells over other tissues. The most logical explanation for these tissue-specific discrepancies in virus replication is (i) target cells are more concentrated in the spleen and more sporadic in the intestine or (ii) splenic immune cells have enhanced expression of the unknown receptor(s) over intestinal cells. The animals were more susceptible to i.p. infection, resulting in higher virus replication in the distal section of the small intestine, large intestine, and spleen, and perhaps a delayed clearance of viral infection in the cecum, suggesting the important role of mucosal immunity for controlling early infection in SADS-CoV in mice.
+  # / November, 2019 - Journal of Virology
+  # let !e self assert = These data collectively led to speculation that SADS-CoV favors splenic cells over other tissues. The animals were more susceptible to i.p. infection, resulting in higher virus replication in the distal section of the small intestine, large intestine, and spleen, and perhaps a delayed clearance of viral infection in the cecum, suggesting the important role of mucosal immunity for controlling early infection in SADS-CoV in mice.
 
-  / November, 2019 - Journal of Virology
-  let !f self assert = It should be noted that mice (C57BL/6J mice in this study) may not be the optimal rodent species for SADS-CoV infection, as wild rats are more commonly seen in Chinese pig farms. In addition, other transmission routes may be considered.
+  # / November, 2019 - Journal of Virology
+  # let !f self assert = It should be noted that mice (C57BL/6J mice in this study) may not be the optimal rodent species for SADS-CoV infection, as wild rats are more commonly seen in Chinese pig farms. In addition, other transmission routes may be considered.
 
-  / November, 2019 - Journal of Virology
-  let !g self assert = We identified that splenic dendritic cells (DCs) are the major targets of virus infection by immunofluorescence and flow cytometry approaches. The previous evidences support our present results, showing that SADS-CoV can efficiently replicate in DCs.
+  # / November, 2019 - Journal of Virology
+  # let !g self assert = We identified that splenic dendritic cells (DCs) are the major targets of virus infection. SADS-CoV can efficiently replicate in DCs.
 
-  / November, 2019 - Journal of Virology
-  let !h self assert = Finally, we demonstrated that SADS-CoV does not utilize known CoV receptors for cellular entry.
+  # / November, 2019 - Journal of Virology
+  # let !h self assert = We demonstrated that SADS-CoV does not utilize known CoV receptors for cellular entry.
 
-  / November, 2019 - Journal of Virology
-  let !i self assert = Furthermore, this study gives us a novel inspiration that rodents may potentially serve as susceptible hosts for SADS-CoV in addition to bats and pigs. Of note, the species Rhinolophus bat α-CoV HKU2, including SADS-CoV, possesses unique S genes closely related to the betacoronavirus (β-CoV), in a manner similar to some globally distributed rodent α-CoVs, implying an unknown evolutionary connection between the bat α-CoV HKU2 and rodent α-CoVs. Future studies on identifying SADS-CoV-positive samples in rodents near pig farms are warranted to test this hypothesis.
+  # / November, 2019 - Journal of Virology
+  # let !i self assert = Furthermore, this study gives us a novel inspiration that rodents may potentially serve as susceptible hosts for SADS-CoV in addition to bats and pigs. Of note, the species Rhinolophus bat α-CoV HKU2, including SADS-CoV, possesses unique S genes closely related to the betacoronavirus (β-CoV), in a manner similar to some globally distributed rodent α-CoVs, implying an unknown evolutionary connection between the bat α-CoV HKU2 and rodent α-CoVs.
 
-  / November, 2019 - Journal of Virology
-  let !j self assert = In addition to rodents, we also measured the SADS-CoV susceptibility of cell lines from humans, monkeys, chickens, and dogs, revealing a remarkably broad spectrum of tropism. As for the ability of SADS-CoV to grow efficiently in human cell lines, we should not underestimate the risk that this bat-origin CoV may “jump” from pigs to humans.
+  # / November, 2019 - Journal of Virology
+  # let !j self assert = In addition to rodents, we also measured the SADS-CoV susceptibility of cell lines from humans, monkeys, chickens, and dogs, revealing a remarkably broad spectrum of tropism. As for the ability of SADS-CoV to grow efficiently in human cell lines, we should not underestimate the risk that this bat-origin CoV may “jump” from pigs to humans.
 
-  / November, 2019 - Journal of Virology
-  let !k self assert = Considering that SARS-CoV and MERS-CoV originated from bats and spread from one species to another through intermediate hosts (civets and camels, respectively), SADS-CoV may pose a similar risk to human health through transmission from pigs or other susceptible hosts.
+  # / November, 2019 - Journal of Virology
+  # let !k self assert = Considering that SARS-CoV and MERS-CoV originated from bats and spread from one species to another through intermediate hosts (civets and camels, respectively), SADS-CoV may pose a similar risk to human health through transmission from pigs or other susceptible hosts.
 
-  / November, 2019 - Journal of Virology
-  let !l self assert = The cell susceptibility study and testing of the overexpression of four known CoV receptors in nonsusceptible MDCK cells demonstrated that SADS-CoV might use a new receptor molecule that is conserved in bats, pigs, rodents, chickens, monkeys, and humans, indicating a low barrier to cross-species transmission. This is in line with the unusual feature of broad species tropism of SADS-CoV.
+  # / November, 2019 - Journal of Virology
+  # let !l self assert = The cell susceptibility study and testing of the overexpression of four known CoV receptors in nonsusceptible MDCK cells demonstrated that SADS-CoV might use a new receptor molecule that is conserved in bats, pigs, rodents, chickens, monkeys, and humans, indicating a low barrier to cross-species transmission. This is in line with the unusual feature of broad species tropism of SADS-CoV.
 
 
 
@@ -1944,56 +1671,46 @@ ref 'Sharma_et_al_07_08_2020
   // Transmission of Human Infection with Nipah Virus.
   doi: https://doi.org/10.1086/647951
   ref 'Luby_et_al_12_01_2009
-  head = The primary pathways of transmission from bats to people in Bangladesh are through contamination of raw date palm sap by bats with subsequent consumption by humans and through infection of domestic animals (cattle, pigs, and goats), presumably from consumption of food contaminated with bat saliva or urine with subsequent transmission to people. Approximately one-half of recognized Nipah case patients in Bangladesh developed their disease following person-to-person transmission of the virus. Efforts to prevent transmission should focus on decreasing bat access to date palm sap and reducing family members' and friends' exposure to infected patients' saliva.
+  head = The primary pathways of transmission from bats to people in Bangladesh are through contamination of raw date palm sap by bats with subsequent consumption by humans and through infection of domestic animals (cattle, pigs, and goats), presumably from consumption of food contaminated with bat saliva or urine with subsequent transmission to people. Approximately one-half of recognized Nipah case patients in Bangladesh developed their disease following person-to-person transmission of the virus.
 
   >>> Abstract
     Nipah virus (NiV) is a paramyxovirus whose reservoir host is fruit bats of the genus Pteropus . Occasionally the virus is introduced into human populations and causes severe illness characterized by encephalitis or respiratory disease. The first outbreak of NiV was recognized in Malaysia, but 8 outbreaks have been reported from Bangladesh since 2001. The primary pathways of transmission from bats to people in Bangladesh are through contamination of raw date palm sap by bats with subsequent consumption by humans and through infection of domestic animals (cattle, pigs, and goats), presumably from consumption of food contaminated with bat saliva or urine with subsequent transmission to people. Approximately one-half of recognized Nipah case patients in Bangladesh developed their disease following person-to-person transmission of the virus. Efforts to prevent transmission should focus on decreasing bat access to date palm sap and reducing family members' and friends' exposure to infected patients' saliva.
 
   -- exports
-    !a
-    !b
-    !c
-    !d
-    !e
-    !f
     !g
-    !h
-    !i
-    !j
-    !k
 
-  / December, 2009 - Clinical Infectious Diseases
-  let !a self assert = NiV Transmission from Bats to People: Epidemiological investigations in Bangladesh have identified three pathways of transmission of NiV from bats to people. The most frequently implicated route is ingestion of fresh date palm sap. Date palm sap is harvested from December through March, particularly in west central Bangladesh. A tap is cut into the tree trunk and sap flows slowly overnight into an open clay pot. Infrared camera studies confirm that P. giganteus bats frequently visit date palm sap trees and lick the sap during collection. NiV can survive for days on sugar-rich solutions such as fruit pulp.
+  # / December, 2009 - Clinical Infectious Diseases
+  # let !a self assert = Epidemiological investigations in Bangladesh have identified three pathways of transmission of NiV from bats to people. The most frequently implicated route is ingestion of fresh date palm sap. Date palm sap is harvested from December through March, particularly in west central Bangladesh. A tap is cut into the tree trunk and sap flows slowly overnight into an open clay pot. Infrared camera studies confirm that P. giganteus bats frequently visit date palm sap trees and lick the sap during collection. NiV can survive for days on sugar-rich solutions such as fruit pulp.
 
-  / December, 2009 - Clinical Infectious Diseases
-  let !b self assert = In the 2005 Nipah outbreak in Tangail District, Bangladesh, the only exposure significantly associated with illness was drinking raw date palm sap (64% of case patients vs 18% of control patients; odds ratio [OR], 7.9; 95% confidence interval [CI], 1.6–38; P=.01). Twenty-one of the 23 index NiV case patients recognized in Bangladesh developed their initial symptoms during the December through March date palm sap collection season.
+  # / December, 2009 - Clinical Infectious Diseases
+  # let !b self assert = In the 2005 Nipah outbreak in Tangail District, Bangladesh, the only exposure significantly associated with illness was drinking raw date palm sap (64% of case patients vs 18% of control patients; odds ratio [OR], 7.9; 95% confidence interval [CI], 1.6–38; P=.01). Twenty-one of the 23 index NiV case patients recognized in Bangladesh developed their initial symptoms during the December through March date palm sap collection season.
 
-  / December, 2009 - Clinical Infectious Diseases
-  let !c self assert = A second route of transmission for NiV from bats to people in Bangladesh is via domestic animals. Fruit bats commonly drop partially eaten saliva-laden fruit. Domestic animals in Bangladesh forage for such food. Date palm sap that is contaminated with bat feces and so is unfit for human consumption is also occasionally fed to domestic animals. The domestic animals may become infected with NiV, and shed the virus to other animals, including humans.
+  # / December, 2009 - Clinical Infectious Diseases
+  # let !c self assert = A second route of transmission for NiV from bats to people in Bangladesh is via domestic animals. Fruit bats commonly drop partially eaten saliva-laden fruit. Domestic animals in Bangladesh forage for such food. Date palm sap that is contaminated with bat feces and so is unfit for human consumption is also occasionally fed to domestic animals. The domestic animals may become infected with NiV, and shed the virus to other animals, including humans.
 
-  / December, 2009 - Clinical Infectious Diseases
-  let !d self assert = Contact with a sick cow in Meherpur, Bangladesh in 2001 was strongly associated with Nipah infection (OR, 7.9; 95% CI, 2.2–27.7; P=.001). A pig herd visited the community two weeks before the 2003 Nipah outbreak in Naogaon and contact with the pigs was associated with illness (OR, 6.1; 95% CI, 1.3–27.8; P=.007). In 2004, one family explained that they owned 2 goats that their son frequently played with. The goats became ill with fever, difficulty walking, walking in circles, and frothing at the mouth. The parents believe their son had contact with goat saliva while the goats were ill. Both goats died. Within 2 weeks of the goats' death, the child developed encephalitis that was confirmed to be Nipah by antibody testing. Third, some people may come into direct contact with NiV-infected bat secretions. In the Goalando outbreak in 2004, persons who climbed trees were more likely to develop NiV infection than were control patients (OR, 8.2; 95% CI, 1.3-∞).
+  # / December, 2009 - Clinical Infectious Diseases
+  # let !d self assert = Contact with a sick cow in Meherpur, Bangladesh in 2001 was strongly associated with Nipah infection (OR, 7.9; 95% CI, 2.2–27.7; P=.001). A pig herd visited the community two weeks before the 2003 Nipah outbreak in Naogaon and contact with the pigs was associated with illness (OR, 6.1; 95% CI, 1.3–27.8; P=.007). In 2004, one family explained that they owned 2 goats that their son frequently played with. The goats became ill with fever, difficulty walking, walking in circles, and frothing at the mouth. The parents believe their son had contact with goat saliva while the goats were ill. Both goats died. Within 2 weeks of the goats' death, the child developed encephalitis that was confirmed to be Nipah by antibody testing. Third, some people may come into direct contact with NiV-infected bat secretions. In the Goalando outbreak in 2004, persons who climbed trees were more likely to develop NiV infection than were control patients (OR, 8.2; 95% CI, 1.3-∞).
 
-  / December, 2009 - Clinical Infectious Diseases
-  let !e self assert = Person-to-Person Transmission: In a review of the 122 Nipah case patients identified in Bangladesh from 2001 through 2007, 62 (51%) developed illness after close contact with another Nipah patient. A small minority of patients infected with NiV (ie, 9 [7%] of 122 recognized cases) transmitted NiV to 62 other persons.
+  # / December, 2009 - Clinical Infectious Diseases
+  # let !e self assert = In a review of the 122 Nipah case patients identified in Bangladesh from 2001 through 2007, 62 (51%) developed illness after close contact with another Nipah patient. A small minority of patients infected with NiV (ie, 9 [7%] of 122 recognized cases) transmitted NiV to 62 other persons.
 
-  / December, 2009 - Clinical Infectious Diseases
-  let !f self assert = Respiratory secretions appear to be particularly important for person-to-person transmission of NiV. NiV RNA is readily identified in the saliva of infected patients. Anthropological investigations during the Faridpur outbreak highlighted multiple opportunities for the transfer of NiV contaminated saliva from a sick patient to care providers. In both the Faridpur outbreak in 2004 and the Thakurgaon outbreak in 2007, persons who were in a room when a Nipah patient was coughing or sneezing were at increased risk of Nipah virus infection. Across all recognized outbreaks in Bangladesh from 2001 through 2007, Nipah patients with respiratory symptoms were more likely to transmit Nipah.
+  # / December, 2009 - Clinical Infectious Diseases
+  # let !f self assert = Respiratory secretions appear to be particularly important for person-to-person transmission of NiV. NiV RNA is readily identified in the saliva of infected patients. Anthropological investigations during the Faridpur outbreak highlighted multiple opportunities for the transfer of NiV contaminated saliva from a sick patient to care providers. In both the Faridpur outbreak in 2004 and the Thakurgaon outbreak in 2007, persons who were in a room when a Nipah patient was coughing or sneezing were at increased risk of Nipah virus infection. Across all recognized outbreaks in Bangladesh from 2001 through 2007, Nipah patients with respiratory symptoms were more likely to transmit Nipah.
 
   / December, 2009 - Clinical Infectious Diseases
   let !g self assert = However, the pattern of the outbreaks in Bangladesh and India suggests that person-to-person transmission is more dependent on the characteristics of the occasional Nipah transmitter than a specific strain. If the NiV strain was central to person-to-person transmission, then secondary cases of NiV would be more likely to become NiV transmitters, than primary cases (because secondary cases would already have selected for strains predisposed to person-to-person transmission). However, in the review of 7 years of human Nipah infection in Bangladesh, secondary cases were no more or less likely to become Nipah transmitters than were primary cases.
 
-  / December, 2009 - Clinical Infectious Diseases
-  let !h self assert = The unidentified index case in Siliguri District Hospital infected 11 patients, 2 of whom infected an additional 33 patients. The 13 day duration of the outbreak at Medinova Hospital suggests 2 generations of transmission likely occurred there. Taken together, this pattern suggests 4 NiV transmitters propagated human infection across 4 generations. There were 67 cases (66 recognized plus the unidentified index case), 4 (5.9%) of whom became Nipah transmitters, a proportion very close to the 7% recognized in Bangladesh. This suggests that the virus strain responsible for this largest recognized person-to-person outbreak was not exceptional
+  # / December, 2009 - Clinical Infectious Diseases
+  # let !h self assert = Taken together, this pattern suggests 4 NiV transmitters propagated human infection across 4 generations. There were 67 cases (66 recognized plus the unidentified index case), 4 (5.9%) of whom became Nipah transmitters, a proportion very close to the 7% recognized in Bangladesh. This suggests that the virus strain responsible for this largest recognized person-to-person outbreak was not exceptional.
 
-  / December, 2009 - Clinical Infectious Diseases
-  let !i self assert = Exposures Not Associated with NiV Transmission: In Bangladesh, P. giganteus bats live in close proximity to human populations, often roosting in trees located in rural Bangladeshi villages. Thus, bat urine, intermittently laced with NiV, contaminates the immediate physical environment in many villages in Bangladesh. Yet in each of the 8 Nipah outbreaks investigated in Bangladesh, an association between living near a bat roost and infection with Nipah was looked for but was never found. This suggests that the quantity of viable virus shed in bat urine is too low to initiate clinically apparent infection in humans.
+  # / December, 2009 - Clinical Infectious Diseases
+  # let !i self assert = In each of the 8 Nipah outbreaks investigated in Bangladesh, an association between living near a bat roost and infection with Nipah was looked for but was never found. This suggests that the quantity of viable virus shed in bat urine is too low to initiate clinically apparent infection in humans.
 
-  / December, 2009 - Clinical Infectious Diseases
-  let !j self assert = Eating bat-bitten fruit is often suggested as a pathway of transmission for human Nipah infection. NiV was recovered from fruit dropped by Pteropus bats in Malaysia. It is the most commonly suggested pathway for NiV transmission from bats to domestic animals. In contrast to general environmental contamination with urine, punctured fruit contaminated with bat saliva may favor virus survival.
+  # / December, 2009 - Clinical Infectious Diseases
+  # let !j self assert = Eating bat-bitten fruit is often suggested as a pathway of transmission for human Nipah infection. NiV was recovered from fruit dropped by Pteropus bats in Malaysia. It is the most commonly suggested pathway for NiV transmission from bats to domestic animals. In contrast to general environmental contamination with urine, punctured fruit contaminated with bat saliva may favor virus survival.
 
-  / December, 2009 - Clinical Infectious Diseases
-  let !k self assert = The epidemiology of NiV transmission in Bangladesh suggests two avenues to prevent human disease. The first is limiting exposure of Bangladeshi villagers to NiV contaminated fresh date palm sap. A second area for targeted intervention is reducing the exposure of caretakers to the saliva of seriously ill persons. An important research priority is to identify approaches that can be consistently implemented in these low income settings where family members are caring for patients with severe respiratory and neurological disease. For example, family members who washed their hands with soap after caring for Nipah patients were significantly less likely to become infected. If such practices were widely adopted, they would lessen the risk of person-to-person transmission of NiV and other pathogens.
+  # / December, 2009 - Clinical Infectious Diseases
+  # let !k self assert = The epidemiology of NiV transmission in Bangladesh suggests two avenues to prevent human disease. The first is limiting exposure of Bangladeshi villagers to NiV contaminated fresh date palm sap. A second area for targeted intervention is reducing the exposure of caretakers to the saliva of seriously ill persons. An important research priority is to identify approaches that can be consistently implemented in these low income settings where family members are caring for patients with severe respiratory and neurological disease. For example, family members who washed their hands with soap after caring for Nipah patients were significantly less likely to become infected. If such practices were widely adopted, they would lessen the risk of person-to-person transmission of NiV and other pathogens.
 
 
 
@@ -2001,24 +1718,26 @@ ref 'Sharma_et_al_07_08_2020
   // Predicting the angiotensin converting enzyme 2 (ACE2) utilizing capability as the receptor of SARS-CoV-2.
   doi: https://doi.org/10.1016/j.micinf.2020.03.003
   ref 'Xiao_et_al_03_19_2020
-  head = We combined phylogenetic analysis and critical site marking to predict the utilizing capability of ACE2s from different animal species by SARS-CoV-2. We have shown that, besides currently confirmed ACE2s utilized by SARS-CoV-2, pangolin, cat, cow, buffalo, goat, sheep and pigeon ACE2s might be utilized by SARS-CoV-2, indicating potential interspecies transmission of the virus from bats to these animals and among these animals. Considering the widespread existing of these animals, some of them might serve as intermediate hosts for SARS-CoV-2, which called for the attention in disease control. However, these are still preliminary results predicted by sequence analysis which cannot accurately reflect the infection in the animals, and more laboratory and epidemiological investigation are required to uncover the true intermediate hosts of SARS-CoV-2.
+  head = We evaluated and ranked the receptor-utilizing capability of ACE2s from various species by phylogenetic clustering and sequence alignment with the currently known ACE2s utilized by SARS-CoV-2. Results predicted that SARS-CoV-2 tends to utilize ACE2s of various mammals, except murines, and some birds, such as pigeon. This prediction may help to screen the intermediate hosts of SARS-CoV-2.
 
   >>> Abstract
     SARS-CoV-2, the newly identified human coronavirus causing severe pneumonia pandemic, was probably originated from Chinese horseshoe bats. However, direct transmission of the virus from bats to humans is unlikely due to lack of direct contact, implying the existence of unknown intermediate hosts. Angiotensin converting enzyme 2 (ACE2) is the receptor of SARS-CoV-2, but only ACE2s of certain species can be utilized by SARS-CoV-2. Here, we evaluated and ranked the receptor-utilizing capability of ACE2s from various species by phylogenetic clustering and sequence alignment with the currently known ACE2s utilized by SARS-CoV-2. As a result, we predicted that SARS-CoV-2 tends to utilize ACE2s of various mammals, except murines, and some birds, such as pigeon. This prediction may help to screen the intermediate hosts of SARS-CoV-2.
 
   -- exports
     !a
-    !b
     !c
 
   / March, 2020 - Microbes and Infection
-  let !a self assert = To evaluate the homology of ACE2s in different species, we built a phylogenetic tree haboring ACE2s of 253 vertebrate species. This tree indicated that besides mammalia, ACE2s of aves and reprilia were more likely to be utilized by SARS-CoV-2 than other vertebrates. Among mammals, human ACE2 was clustered with bat, civet and swine ACE2s but not mouse ACE2, matching the previous report about the utilizing capability by SARS-CoV-2 of these ACE2s. Intriguingly, cat, pangolin, cow and goat ACE2s were also clustered with human ACE2.
+  let !a self assert = We built a phylogenetic tree haboring ACE2s of 253 vertebrate species- indicated that besides mammalia, ACE2s of aves and reprilia were more likely to be utilized by SARS-CoV-2 than other vertebrates. Among mammals, human ACE2 was clustered with bat, civet and swine ACE2s but not mouse ACE2. Intriguingly, cat, pangolin, cow and goat ACE2s were also clustered with human ACE2.
+
+  # / March, 2020 - Microbes and Infection
+  # let !b self assert = The ACE2s with final scores higher than 50 were considered to be potentially utilized by SARS-CoV-2, while those with scores less or equal to 50 were unlikely to be utilized by SARS-CoV-2. Excluding the animals unlikely contacted by people, pangolin, cat, cow, buffalo, goat and sheep ACE2 were ranked as the top mammals that could be potentially used by SARS-CoV-2, while murine ACE2s, such as mouse and rat ACE2s, got the lowest scores. As for birds, pigeon ACE2 reached the highest score of 70.
+
+  # / March, 2020 - Microbes and Infection
+  # let !c self assert = Though birds are not natural reserviors for currently know species of betacoronavirus, the classification of coronaviruses is based on the genome feature not the host range, and thus we could not exclude the possibility that new betacoronavirus may infect birds. Considering pigeons are food in many places around the world, more attention should be paid on the non-mammalian hosts of SARS-CoV-2.
 
   / March, 2020 - Microbes and Infection
-  let !b self assert = We established a marking system to evaluate the utilizing capability by SARS-CoV-2 of different ACE2s. The ACE2s with final scores higher than 50 were considered to be potentially utilized by SARS-CoV-2, while those with scores less or equal to 50 were unlikely to be utilized by SARS-CoV-2. Excluding the animals unlikely contacted by people, pangolin, cat, cow, buffalo, goat and sheep ACE2 were ranked as the top mammals that could be potentially used by SARS-CoV-2, while murine ACE2s, such as mouse and rat ACE2s, got the lowest scores. As for birds, pigeon ACE2 reached the highest score of 70. Though birds are not natural reserviors for currently know species of betacoronavirus, the classification of coronaviruses is based on the genome feature not the host range, and thus we could not exclude the possibility that new betacoronavirus may infect birds.
-
-  / March, 2020 - Microbes and Infection
-  let !c self assert = Considering pigeons are food in many places around the world, more attention should be paid on the non-mammalian hosts of SARS-CoV-2. ACE2 of Protobothrops mucrosquamatus (pallas pit viper), a common snake, got a score of 20, indicating that reprilia ACE2s were unlikely to be utilized by SARS-CoV-2.
+  let !c self assert = ACE2 of Protobothrops mucrosquamatus (pallas pit viper), a common snake, got a score of 20, indicating that reprilia ACE2s were unlikely to be utilized by SARS-CoV-2.
 
 
 
@@ -2026,40 +1745,43 @@ ref 'Sharma_et_al_07_08_2020
   // Genomic variations of COVID-19 suggest multiple outbreak sources of transmission.
   doi: https://doi.org/10.1101/2020.02.25.20027953
   ref 'Zhang_et_al_03_05_2020
-  head = Our results illustrate the presence of two major genotypes of SARS-CoV-2, suggesting of at least two, possibly three, major outbreak sources. The outbreak in the Huanan market may not be the initiation transmission of SARS-CoV-2 to human, and thus the location of initial transmission to humans remain to be determined. As most samples detected belong to Type II, it indicates that Type II is more transmissible. We identified three genomic variants that separate the two types of SARS-CoV-2. Our data suggest that two variants are linked to improved translation efficiency in Type II. The impacts of these genomic variants could be further evaluated by comparing the symptoms of patients infected by each type of viruses.
+  head = Our results illustrate the presence of two major genotypes of SARS-CoV-2: Type I(IA and IB),resembles the ancestral SARS-CoV-2 most and Type II, was likely evolved from Type I and predominant in the infections. The outbreak caused by the Type I virus should have occurred somewhere else, because the patients had no direct link to the market. It suggest that Type II SARS-CoV-2 was the source of the outbreak in the Wuhan Huanan market and it was likely originated from a super-spreader.
 
   >>> Abstract
     We examined 169 genomes of SARS-CoV-2 and found that they can be classified into two major genotypes, Type I and Type II. Type I can be further divided into Type IA and IB. Our phylogenetic analysis showed that the Type IA resembles the ancestral SARS-CoV-2 most. Type II was likely evolved from Type I and predominant in the infections. Our results suggest that Type II SARS-CoV-2 was the source of the outbreak in the Wuhan Huanan market and it was likely originated from a super-spreader. The outbreak caused by the Type I virus should have occurred somewhere else, because the patients had no direct link to the market. Furthermore, by analyzing three genomic sites that distinguish Type I and Type II strains, we found that synonymous changes at two of the three sites confer higher protein translational efficiencies in Type II strains than in Type I strains, which might explain why Type II strains are predominant, implying that Type II is more contagious (transmissible) than Type I. These findings could be valuable for the current epidemic prevention and control.
 
-  -- exports
-    !a
-    !b
-    !c
-    !d
-    !e
-    !f
-    !g
+  # -- exports
+  #   !a
+  #   !b
+  #   !c
+  #   !d
+  #   !e
+  #   !f
+  #   !g
+
+  # / March, 2020 - medRxiv
+  # let !a self assert = In most cases, different SARS-CoV-2 genomes only differ in 0 to 3 sites. A total number of 207 variable sites were identified. It shows that the amplitude of mutations is small, and their evolution history can be inferred from these variable sites.
+
+  # / March, 2020 - medRxiv
+  # let !b self assert = We examined 169 genomes of SARS-CoV-2 and found that they can be classified into two major genotypes, Type I and Type II. The genomes of the two types mainly differ at three sites, which are 8750, 28112, and 29063. Based on the nucleotide at the site 29063, the Type I strains can be further divided into Type IA and IB. The number of genomes belonging to Type IA, IB and II are 11, 37, and 121, respectively.
+
+  # / March, 2020 - medRxiv
+  # let !a self assert = Our phylogenetic analysis showed that Type IA resembles the most ancestral lineage of SARS-CoV-2, and Type IB was derived from Type IA by a new mutation at site 29063. In addition, Type II may have originated from a Type IB strain by accumulating mutations at sites 8750 and 28112 and predominant in the infections..
+
+  # / March, 2020 - medRxiv
+  # let !c self assert = We found that the three sites in Type IA and two in Type IB are identical to those in three bat viruses BatCoV RaTG13, bat-SL-CoVZC45 and bat-SL-CoVZXC21[2], suggesting that the Type I may be more closely related to the ancestral human-infecting strain than Type II.
+
+  # / March, 2020 - medRxiv
+  # let !d self assert = Two environmental samples isolated from the Huanan market (Wuhan/IVDC-HB-envF13-20 and 21) belong to Type II, and no samples from Type I have a direct link to the Huanan market (such as Wuhan/WH04/2020). These observations suggest that the outbreak in the Huanan market was triggered by the Type II virus and that the initial transmission of Type I viruses to humans might have occurred somewhere else in Wuhan, probably preceding the outbreak of Type II in the Huanan market.
 
   / March, 2020 - medRxiv
-  let !a self assert = In most cases, different SARS-CoV-2 genomes only differ in 0 to 3 sites. A total number of 207 variable sites were identified. It shows that the amplitude of mutations is small, and their evolution history can be inferred from these variable sites.
+  let !e self assert = In addition to the above-mentioned transmission sources, we also found that there are several large clades in Type II. The Group-1 of Type II are identical, suggesting they were likely originated from the same transmission source. Group-2 and Group-3 share at least one mutation, indicating that they shared the same transmission source. We speculate that each group was likely from a source of super transmission or super-spreader.
 
-  / March, 2020 - medRxiv
-  let !b self assert = We examined 169 genomes of SARS-CoV-2 and found that they can be classified into two major genotypes, Type I and Type II. The genomes of the two types mainly differ at three sites, which are 8750, 28112, and 29063. Based on the nucleotide at the site 29063, the Type I strains can be further divided into Type IA and IB. The number of genomes belonging to Type IA, IB and II are 11, 37, and 121, respectively.  Our phylogenetic analysis showed that the Type IA resembles the ancestral SARS-CoV-2 most. Type II was likely evolved from Type I and predominant in the infections.
+  # / March, 2020 - medRxiv
+  # let !f self assert = We found that synonymous changes at two of the three sites confer higher protein translational efficiencies in Type II strains than in Type I strains, which might explain how it might have enabled faster production of Type II virus particles, facilitated its spread, and led to its dominance in infections, implying that Type II is more contagious (transmissible) than Type I.
 
-  / March, 2020 - medRxiv
-  let !c self assert = We found that the three sites in Type IA and two in Type IB are identical to those in three bat viruses BatCoV RaTG13, bat-SL-CoVZC45 and bat-SL-CoVZXC21[2], suggesting that the Type I may be more closely related to the ancestral human-infecting strain than Type II. Therefore, in the principle of parsimony, Type IA resembles the most ancestral lineage of SARS-CoV-2, and Type IB was derived from Type IA by a new mutation at site 29063. In addition, Type II may have originated from a Type IB strain by accumulating mutations at sites 8750 and 28112.
-
-  / March, 2020 - medRxiv
-  let !d self assert = Two environmental samples isolated from the Huanan market (Wuhan/IVDC-HB-envF13-20 and 21) belong to Type II, and no samples from Type I have a direct link to the Huanan market (such as Wuhan/WH04/2020). These observations suggest that the outbreak in the Huanan market was triggered by the Type II virus and that the initial transmission of Type I viruses to humans might have occurred somewhere else in Wuhan, probably preceding the outbreak of Type II in the Huanan market. Our speculation is in line with earlier reports that 14 of the first reported 41 cases had no link to the Huanan market.
-
-  / March, 2020 - medRxiv
-  let !e self assert = In addition to the above-mentioned transmission sources, we also found that there are several large clades in Type II. The Group-1 of Type II are identical, suggesting they were likely originated from the same transmission source. Group-2 and Group-3 share at least one mutation, indicating that they shared the same transmission source. As only a small portion of SARS-CoV-2 isolates have been sequenced, the actual numbers of infected patients in each group are expected to be much larger. We speculate that each group was likely from a source of super transmission or super-spreader.
-
-  / March, 2020 - medRxiv
-  let !f self assert = Furthermore, by analyzing three genomic sites that distinguish Type I and Type II strains, we found that synonymous changes at two of the three sites confer higher protein translational efficiencies in Type II strains than in Type I strains, which might explain how it might have enabled faster production of Type II virus particles, facilitated its spread, and led to its dominance in infections, implying that Type II is more contagious (transmissible) than Type I. If our speculation is correct, this would provide guidelines for treating Type I and II patients differently.
-
-  / March, 2020 - medRxiv
-  let !g self assert = Particularly, some asymptomatic carriers have been recently found. It is worth examining whether these asymptomatic cases are enriched in Type I. With more sequencing data of SARS-CoV-2, we expect a more complete understanding of transmission history.
+  # / March, 2020 - medRxiv
+  # let !g self assert = Particularly, some asymptomatic carriers have been recently found. It is worth examining whether these asymptomatic cases are enriched in Type I. With more sequencing data of SARS-CoV-2, we expect a more complete understanding of transmission history.
 
 
 
@@ -2067,59 +1789,52 @@ ref 'Sharma_et_al_07_08_2020
   // Structural basis of receptor recognition by SARS-CoV-2
   doi: https://doi.org/10.1038/s41586-020-2179-y
   ref 'Shang_et_al_03_30_2020
-  head = In comparison with the SARS-CoV RBD, an ACE2-binding ridge in SARS-CoV-2 RBD has a more compact conformation; moreover, several residue changes in the SARS-CoV-2 RBD stabilize two virus-binding hotspots at the RBD–ACE2 interface. These structural features of SARS-CoV-2 RBD increase its ACE2-binding affinity. Additionally, we show that RaTG13, a bat coronavirus that is closely related to SARS-CoV-2, also uses human ACE2 as its receptor. The differences among SARS-CoV-2, SARS-CoV and RaTG13 in ACE2 recognition shed light on the potential animal-to-human transmission of SARS-CoV-2. This study provides guidance for intervention strategies that target SARS-CoV-2–ACE2 interactions.
+  head = The overall structural similarity in ACE2 binding by SARS-CoV-2 and SARS-CoV supports a close evolutionary relationship between the two viruses. Though, the structural features of SARS-CoV-2 RBD increase its ACE2-binding affinity. The differences among SARS-CoV-2, SARS-CoV and RaTG13 in ACE2 recognition shed light on the potential animal-to-human transmission of SARS-CoV-2.
 
   >>> Abstract
     A novel severe acute respiratory syndrome (SARS)-like coronavirus (SARS-CoV-2) recently emerged and is rapidly spreading in humans, causing COVID-19. A key to tackling this pandemic is to understand the receptor recognition mechanism of the virus, which regulates its infectivity, pathogenesis and host range. SARS-CoV-2 and SARS-CoV recognize the same receptor—angiotensin-converting enzyme 2 (ACE2)—in humans. Here we determined the crystal structure of the receptor-binding domain (RBD) of the spike protein of SARS-CoV-2 (engineered to facilitate crystallization) in complex with ACE2. In comparison with the SARS-CoV RBD, an ACE2-binding ridge in SARS-CoV-2 RBD has a more compact conformation; moreover, several residue changes in the SARS-CoV-2 RBD stabilize two virus-binding hotspots at the RBD–ACE2 interface. These structural features of SARS-CoV-2 RBD increase its ACE2-binding affinity. Additionally, we show that RaTG13, a bat coronavirus that is closely related to SARS-CoV-2, also uses human ACE2 as its receptor. The differences among SARS-CoV-2, SARS-CoV and RaTG13 in ACE2 recognition shed light on the potential animal-to-human transmission of SARS-CoV-2. This study provides guidance for intervention strategies that target receptor recognition by SARS-CoV-2.
 
-  -- exports
-    !a
-    !b
-    !c
-    !d
-    !f
-    !g
-  -- Origin
+  -- RaTG13
     !e
-    !h
     !i
   -- pangolian
     !j
-  -- therapeutics
-    !k
+
+  # / March, 2020 - Nature
+  # let !a self assert = The overall structure of the chimeric RBD–ACE2 complex is similar to that of the SARS-CoV RBD–ACE2 complex. Similar to the SARS-CoV RBM, SARS-CoV-2 RBM forms a gently concave surface with a ridge on one side; it binds to the exposed outer surface of the claw-like structure of ACE2. In comparison to the SARS-CoV RBM, the SARS-CoV-2 RBM forms a larger binding interface and more contacts with ACE2, The overall structural similarity in ACE2 binding by SARS-CoV-2 and SARS-CoV supports a close evolutionary relationship between the two viruses.
+
+  # / March, 2020 - Nature
+  # let !b self assert = A marked structural difference between the RBMs of SARS-CoV-2 and SARS-CoV is the conformation of the loops in the ACE2-binding ridge. Specifically, human and civet SARS-CoV strains and bat coronavirus Rs3367 all contain a three-residue motif proline-proline-alanine in this loop; the tandem prolines allow the loop to take a sharp turn. By contrast, SARS-CoV-2 and bat coronavirus RaTG13 both contain a four-residue motif glycine-valine/glutamine-glutamate/threonine-glycine; the two relatively bulky residues and two flexible glycines enable the loop to take a different conformation. Because of these structural differences, an additional main-chain hydrogen bond forms between Asn487 and Ala475 in the SARS-CoV-2 RBM, causing the ridge to take a more compact conformation and the loop containing Ala475 to move closer to ACE2.
+
+  # / March, 2020 - Nature
+  # let !c self assert = As a consequence, the ridge in the SARS-CoV-2 RBM forms more contacts with the N-terminal helix of ACE2. Moreover, compared with the corresponding Leu472 of the SARS-CoV RBM, Phe486 of the SARS-CoV-2 RBM points in a different direction and inserts into a hydrophobic pocket involving Met82, Leu79 and Tyr83 of ACE2. In comparison to the SARS-CoV RBM, these structural changes in the SARS-CoV-2 RBM are more favourable for ACE2 binding.
+
+  # / March, 2020 - Nature
+  # let !d self assert = To corroborate the structural observations, we characterized ACE2-binding affinities of the SARS-CoV-2 spike that contains mutations in critical ACE2-interacting residues. The SARS-CoV-2 spike contained one of the following RBM changes: 481–487 (481-NGVEGFN-487 in SARS-CoV-2 were mutated to TPPALN as in SARS-CoV), Q493N (Gln493 in SARS-CoV-2 was mutated to an asparagine as in human SARS-CoV), Q493Y (Gln493 in SARS-CoV-2 was mutated to a tyrosine as in bat RaTG13) and N501T (Asn501 in SARS-CoV-2 was mutated to a threonine as in human SARS-CoV). The results showed that all of these introduced mutations reduced the ACE2-binding affinity of the SARS-CoV-2 spike. They confirm that the structural features of the SARS-CoV-2 RBM, including the ACE2-binding ridge and the hotspots-stabilizing residues, all contribute to the high ACE2-binding affinity of SARS-CoV-2.
 
   / March, 2020 - Nature
-  let !a self assert = The overall structure of the chimeric RBD–ACE2 complex is similar to that of the SARS-CoV RBD–ACE2 complex. Similar to the SARS-CoV RBM, SARS-CoV-2 RBM forms a gently concave surface with a ridge on one side; it binds to the exposed outer surface of the claw-like structure of ACE2.  In comparison to the SARS-CoV RBM, the SARS-CoV-2 RBM forms a larger binding interface and more contacts with ACE2, The overall structural similarity in ACE2 binding by SARS-CoV-2 and SARS-CoV supports a close evolutionary relationship between the two viruses.
+  let !e self assert = The results showed that RaTG13 pseudovirus entry into the cells depends on ACE2. Additionally, RaTG13 spike was not cleaved on the pseudovirus surface. SARS-CoV-2 pseudovirus entry also depends on ACE2, but its spike was cleaved to S2 on the pseudovirus surface (probably because of a furin site insertion). We found that the RaTG13 spike was pulled down by ACE2. Therefore, similar to SARS-CoV-2, bat RaTG13 binds to human ACE2 and can use human ACE2 as its entry receptor, suggesting that RaTG13 may infect humans. Due to this, one possibility is that there is no intermediate host.
+
+  # / March, 2020 - Nature
+  # let !f self assert = Compared with SARS-CoV, the SARS-CoV-2 RBM contains structural changes in the ACE2-binding ridge, largely caused by a four-residue motif (residues 482–485: Gly-Val-Glu-Gly). This structural change allows the ridge to become more compact and form better contacts with the N-terminal helix of ACE2. In addition, Phe486 of the SARS-CoV-2 RBM inserts into a hydrophobic pocket. The corresponding residue in the SARS-CoV RBM is a leucine, which probably forms a weaker contact with ACE2 owing to its smaller side chain. Finally, both virus-binding hotspots are more stabilized at the RBM–ACE2 interface through interactions with the SARS-CoV-2 RBM. Neutralizing the charges of the lysines is key to the binding of coronavirus RBDs to ACE2. The SARS-CoV-2 RBM has evolved strategies to stabilize the two hotspots: Gln493 and Leu455 stabilize hotspot 31, whereas Asn501 stabilizes hotspot 353.
+
+  # / March, 2020 - Nature
+  # let !g self assert = Our biochemical data confirm that the SARS-CoV-2 RBD has a significantly higher ACE2-binding affinity than the SARS-CoV RBD and that the above structural features of the SARS-CoV-2 RBM contribute to the high ACE2-binding affinity of SARS-CoV-2 RBD. Thus, both structural and biochemical data reveal that the SARS-CoV-2 RBD recognizes ACE2 better than SARS-CoV RBD does.
+
+  # / March, 2020 - Nature
+  # let !h self assert = As with SARS-CoV-2, bat RaTG13 RBM contains a similar four-residue motif in the ACE2-binding ridge, supporting the notion that SARS-CoV-2 may have evolved from RaTG13 or a RaTG13-related bat coronavirus.
 
   / March, 2020 - Nature
-  let !b self assert = A marked structural difference between the RBMs of SARS-CoV-2 and SARS-CoV is the conformation of the loops in the ACE2-binding ridge. Specifically, human and civet SARS-CoV strains and bat coronavirus Rs3367 all contain a three-residue motif proline-proline-alanine in this loop; the tandem prolines allow the loop to take a sharp turn. By contrast, SARS-CoV-2 and bat coronavirus RaTG13 both contain a four-residue motif glycine-valine/glutamine-glutamate/threonine-glycine; the two relatively bulky residues and two flexible glycines enable the loop to take a different conformation. Because of these structural differences, an additional main-chain hydrogen bond forms between Asn487 and Ala475 in the SARS-CoV-2 RBM, causing the ridge to take a more compact conformation and the loop containing Ala475 to move closer to ACE2.
+  let !i self assert = The L486F, Y493Q and D501N residue changes from RaTG13 to SARS-CoV-2 enhance ACE2 recognition and may have facilitated the bat-to-human transmission of SARS-CoV-2. Leu455 contributes favourably to ACE2 recognition, and it is conserved between RaTG13 and SARS-CoV-2; its presence in the SARS-CoV-2 RBM may be important for the bat-to-human transmission of SARS-CoV-2. Nevertheless, the identified receptor-binding features of the SARS-CoV-2 RBM may have facilitated SARS-CoV-2 to transmit from bats to humans.
 
   / March, 2020 - Nature
-  let !c self assert = As a consequence, the ridge in the SARS-CoV-2 RBM forms more contacts with the N-terminal helix of ACE2. Moreover, compared with the corresponding Leu472 of the SARS-CoV RBM, Phe486 of the SARS-CoV-2 RBM points in a different direction and inserts into a hydrophobic pocket involving Met82, Leu79 and Tyr83 of ACE2. In comparison to the SARS-CoV RBM, these structural changes in the SARS-CoV-2 RBM are more favourable for ACE2 binding.
+  let !j self assert = Two coronaviruses, CoV-pangolin/GD and CoV-pangolin/GX, have been isolated from pangolins from two different locations in China: Guangdong (GD) and Guangxi (GX), respectively. The RBM of the CoV-pangolin/GD potentially recognizes human ACE2 well, whereas CoV-pangolin/GX does not. Hence, pangolins from Guangdong, but not pangolins from Guangxi, could potentially pass coronaviruses to humans. However, many other factors determine the cross-species transmission of coronaviruses, and the above analysis will need to be verified experimentally.
 
-  / March, 2020 - Nature
-  let !d self assert = To corroborate the structural observations, we characterized ACE2-binding affinities of the SARS-CoV-2 spike that contains mutations in critical ACE2-interacting residues. The SARS-CoV-2 spike contained one of the following RBM changes: 481–487 (481-NGVEGFN-487 in SARS-CoV-2 were mutated to TPPALN as in SARS-CoV), Q493N (Gln493 in SARS-CoV-2 was mutated to an asparagine as in human SARS-CoV), Q493Y (Gln493 in SARS-CoV-2 was mutated to a tyrosine as in bat RaTG13) and N501T (Asn501 in SARS-CoV-2 was mutated to a threonine as in human SARS-CoV). The results showed that all of these introduced mutations reduced the ACE2-binding affinity of the SARS-CoV-2 spike. They confirm that the structural features of the SARS-CoV-2 RBM, including the ACE2-binding ridge and the hotspots-stabilizing residues, all contribute to the high ACE2-binding affinity of SARS-CoV-2.
+  # / March, 2020 - Nature
+  # let !k self assert = The RBM of the CoV-pangolin/GD contains Leu455, the 482–485 loop, Phe486, Gln493 and Asn501, all of which are favourable for ACE2 recognition. The RBM of CoV-pangolin/GX contains Leu455 and the 482–485 loop, both of which are favourable for ACE2 recognition, and it also contains Leu486, Glu493 and Thr501, all of which are less favourable for ACE2 recognition.
 
-  / March, 2020 - Nature
-  let !e self assert = The results showed that RaTG13 pseudovirus entry into the cells depends on ACE2. Additionally, RaTG13 spike was not cleaved on the pseudovirus surface. SARS-CoV-2 pseudovirus entry also depends on ACE2, but its spike was cleaved to S2 on the pseudovirus surface (probably because of a furin site insertion). We found that the RaTG13 spike was pulled down by ACE2. Therefore, similar to SARS-CoV-2, bat RaTG13 binds to human ACE2 and can use human ACE2 as its entry receptor.
-
-  / March, 2020 - Nature
-  let !f self assert = Compared with SARS-CoV, the SARS-CoV-2 RBM contains structural changes in the ACE2-binding ridge, largely caused by a four-residue motif (residues 482–485: Gly-Val-Glu-Gly). This structural change allows the ridge to become more compact and form better contacts with the N-terminal helix of ACE2. In addition, Phe486 of the SARS-CoV-2 RBM inserts into a hydrophobic pocket. The corresponding residue in the SARS-CoV RBM is a leucine, which probably forms a weaker contact with ACE2 owing to its smaller side chain. Finally, both virus-binding hotspots are more stabilized at the RBM–ACE2 interface through interactions with the SARS-CoV-2 RBM. Neutralizing the charges of the lysines is key to the binding of coronavirus RBDs to ACE2. The SARS-CoV-2 RBM has evolved strategies to stabilize the two hotspots: Gln493 and Leu455 stabilize hotspot 31, whereas Asn501 stabilizes hotspot 353.
-
-  / March, 2020 - Nature
-  let !g self assert = Our biochemical data confirm that the SARS-CoV-2 RBD has a significantly higher ACE2-binding affinity than the SARS-CoV RBD and that the above structural features of the SARS-CoV-2 RBM contribute to the high ACE2-binding affinity of SARS-CoV-2 RBD. Thus, both structural and biochemical data reveal that the SARS-CoV-2 RBD recognizes ACE2 better than SARS-CoV RBD does.
-
-  / March, 2020 - Nature
-  let !h self assert = We found that bat RaTG13 uses human ACE2 as its receptor, suggesting that RaTG13 may infect humans. Second, as with SARS-CoV-2, bat RaTG13 RBM contains a similar four-residue motif in the ACE2-binding ridge, supporting the notion that SARS-CoV-2 may have evolved from RaTG13 or a RaTG13-related bat coronavirus. Third, the L486F, Y493Q and D501N residue changes from RaTG13 to SARS-CoV-2 enhance ACE2 recognition and may have facilitated the bat-to-human transmission of SARS-CoV-2. Fourth, Leu455 contributes favourably to ACE2 recognition, and it is conserved between RaTG13 and SARS-CoV-2; its presence in the SARS-CoV-2 RBM may be important for the bat-to-human transmission of SARS-CoV-2. Nevertheless, the identified receptor-binding features of the SARS-CoV-2 RBM may have facilitated SARS-CoV-2 to transmit from bats to humans.
-
-  / March, 2020 - Nature
-  let !i self assert = Because bat coronavirus RaTG13 binds to human ACE2, one possibility is that there is no intermediate host.
-
-  / March, 2020 - Nature
-  let !j self assert = Alternatively, pangolins have been proposed to be an intermediate host. Two coronaviruses, CoV-pangolin/GD and CoV-pangolin/GX, have been isolated from pangolins from two different locations in China: Guangdong (GD) and Guangxi (GX), respectively. The RBM of the CoV-pangolin/GD contains Leu455, the 482–485 loop, Phe486, Gln493 and Asn501, all of which are favourable for ACE2 recognition. The RBM of CoV-pangolin/GX contains Leu455 and the 482–485 loop, both of which are favourable for ACE2 recognition, and it also contains Leu486, Glu493 and Thr501, all of which are less favourable for ACE2 recognition. Therefore, CoV-pangolin/GD potentially recognizes human ACE2 well, whereas CoV-pangolin/GX does not. Hence, pangolins from Guangdong, but not pangolins from Guangxi, could potentially pass coronaviruses to humans. However, many other factors determine the cross-species transmission of coronaviruses, and the above analysis will need to be verified experimentally.
-
-  / March, 2020 - Nature
-  let !k self assert = Finally, this study helps to inform intervention strategies. First, neutralizing monoclonal antibodies that target the SARS-CoV-2 RBM can prevent the virus from binding to ACE2, and are therefore promising antiviral drugs. Our structure has laid out all of the functionally important epitopes in the SARS-CoV-2 RBM that can potentially be targeted by neutralizing antibody drugs. Thus, this study can help to guide the development and optimization of these antibody drugs. Second, the RBD itself can function as a subunit vaccine. The functionally important epitopes in the SARS-CoV-2 RBM that were identified in this study can guide structure-based design of highly efficacious RBD vaccines.
+  # / March, 2020 - Nature
+  # let !l self assert = Finally, this study helps to inform intervention strategies. First, neutralizing monoclonal antibodies that target the SARS-CoV-2 RBM can prevent the virus from binding to ACE2, and are therefore promising antiviral drugs. Our structure has laid out all of the functionally important epitopes in the SARS-CoV-2 RBM that can potentially be targeted by neutralizing antibody drugs. Thus, this study can help to guide the development and optimization of these antibody drugs. Second, the RBD itself can function as a subunit vaccine. The functionally important epitopes in the SARS-CoV-2 RBM that were identified in this study can guide structure-based design of highly efficacious RBD vaccines.
 
 
 
@@ -2127,85 +1842,72 @@ ref 'Sharma_et_al_07_08_2020
   // SARS-CoV-2 is well adapted for humans. What does this mean for re-emergence?
   doi: https://doi.org/10.1101/2020.05.01.073262
   ref 'Zhan_et_al_05_02_2020
-  head = Our observations suggest that by the time SARS-CoV-2 was first detected in late 2019, it was already pre-adapted to human transmission to an extent similar to late epidemic SARS-CoV. However, no precursors or branches of evolution stemming from a less human-adapted SARS-CoV-2-like virus have been detected. To look for clues regarding intermediate hosts, we analyze recent key findings- Importantly, the market samples are genetically identical to human SARS-CoV-2 isolates and were therefore most likely from human sources.The lack of definitive evidence to verify or rule out adaptation in an intermediate host species, humans, or a laboratory, means that we need to take precautions against each scenario to prevent re-emergence.
+  head = Our observations suggest that by the time SARS-CoV-2 was first detected in late 2019, it was already pre-adapted to human transmission to an extent similar to late epidemic than to early-to mid epidemic SARS-CoV. However, no precursors or branches of evolution stemming from a less human-adapted SARS-CoV-2-like virus have been detected. The market samples are genetically identical to human SARS-CoV-2 isolates and were therefore most likely from human sources.
 
   >>> Abstract
     In a side-by-side comparison of evolutionary dynamics between the 2019/2020 SARS-CoV-2 and the 2003 SARS-CoV, we were surprised to find that SARS-CoV-2 resembles SARS-CoV in the late phase of the 2003 epidemic after SARS-CoV had developed several advantageous adaptations for human transmission. Our observations suggest that by the time SARS-CoV-2 was first detected in late 2019, it was already pre-adapted to human transmission to an extent similar to late epidemic SARS-CoV. However, no precursors or branches of evolution stemming from a less human-adapted SARS-CoV-2-like virus have been detected. The sudden appearance of a highly infectious SARS-CoV-2 presents a major cause for concern that should motivate stronger international efforts to identify the source and prevent near future re-emergence. Any existing pools of SARS-CoV-2 progenitors would be particularly dangerous if similarly well adapted for human transmission. To look for clues regarding intermediate hosts, we analyze recent key findings relating to how SARS-CoV-2 could have evolved and adapted for human transmission, and examine the environmental samples from the Wuhan Huanan seafood market. Importantly, the market samples are genetically identical to human SARS-CoV-2 isolates and were therefore most likely from human sources. We conclude by describing and advocating for measured and effective approaches implemented in the 2002-2004 SARS outbreaks to identify lingering population(s) of progenitor virus.
 
   -- exports
-    !a
-    !b
-    !c
-    !d
-    !e
-    !f
     !g
-    !h
-    !i
     !j
-    !m
-    !n
-    !o
     !p
     !q
-    !r
   -- Pangalions not host
-    !k
     !l
 
-  / May, 2020 - bioRxiv
-  let !a self assert = SARS-CoV-2 exhibits low genetic diversity in contrast to SARS-CoV, which harbored considerable genetic diversity in its early-to-mid epidemic phase ; nucleotide diversity estimates across all sites, non-synonymous and synonymous, for each locus examined.
+  # / May, 2020 - bioRxiv
+  # let !a self assert = SARS-CoV-2 exhibits low genetic diversity in contrast to SARS-CoV, which harbored considerable genetic diversity in its early-to-mid epidemic phase. In comparison, SARS-CoV2 exhibits genetic diversity that is more similar to that of late epidemic SARS-CoV.
+
+  # / May, 2020 - bioRxiv
+  # let !b self assert = An examination of 43 SARS-CoV and 46 SARS-CoV-2 genomes revealed a striking difference in the number of substitutions over similar 3-month periods, with more genetic polymorphism in early-to-mid epidemic SARS-CoV compared to late epidemic SARS-CoV or SARS-CoV-2.
+
+  # / May, 2020 - bioRxiv
+  # let !c self assert = To rule out a subsampling artefact, we performed one hundred sampling experiments from all high-quality SARS-CoV-2 sequences on GISAID:The maximum tip-to-tip distance (number of substitutions between two genomes) of the early-to-mid epidemic SARS-CoV tree (~85 substitutions) was greater than that of all one hundred resampled SARS-CoV-2 trees (~15-25 substitutions; p < 0.01). Even by April 28, 2020, the SARS-CoV-2 genomes available on GISAID spanning 4 months exhibited modest genetic diversity as compared to early-to-mid epidemic SARS-CoV.
+
+  # / May, 2020 - bioRxiv
+  # let !d self assert = The SARS-CoV outbreak spanning November, 2002 to August, 2003 was estimated to result in 8,422 cases as compared to the more than 850,000 known SARS-CoV-2 cases by the end of March (and more than 3 million cases by the end of April). A considerable portion of SARS-CoV-2 cases are asymptomatic or mild, leading to an underestimation of the virus population size. Yet, early-to mid epidemic SARS-CoV, which was sampled from a more limited population in a more limited location, exhibits the most genetic diversity.
+
+  # / May, 2020 - bioRxiv
+  # let !e self assert = For the spike (S), Orf3a, and Orf1a genes, the dN and dS in SARS-CoV-2 is more similar to late epidemic than early-to-mid epidemic SARS-CoV. In comparison, the highly conserved Orf1b (encodes RNA-dependent RNA polymerase RdRp and helicase Hel), which did not undergo strong positive selection in SARS-CoV, exhibits similarly low dN across the three CoV groups.
+
+  # / May, 2020 - bioRxiv
+  # let !f self assert = In consideration that several therapies and antibodies in development target the SARS-CoV-2 S, it is important to track non-synonymous substitutions and predict the evolution of resistance. In contrast, the majority of the non-synonymous substitutions in SARS-CoV-2 S are distributed across the gene at low frequency and have not been reported to confer adaptive benefit. Yet, the SARS-CoV2 S has been demonstrated to bind more strongly to human ACE2 and has a superior plasma membrane fusion capacity compared to the SARS-CoV S.
 
   / May, 2020 - bioRxiv
-  let !b self assert = In comparison, SARS-CoV2 exhibits genetic diversity that is more similar to that of late epidemic SARS-CoV. In fact, the exceedingly high level of identity shared among SARS-CoV2 isolates makes it impractical to model site-wise selection pressure. As more mutations occur and, ideally, when SARS-CoV-2-like viruses from an intermediate host species are identified, it will become possible to model selection pressure as was done for SARS-CoV.
+  let !g self assert = The only site of notable entropy in the SARS-CoV-2 S, D614G, lies outside of the RBD and is not predicted to impact the structure or function of the protein. Its prevalence in international COVID-19 cases has been attributed to the substitution occurring early in the pandemic leading to a founder’s effect. There is no evidence of a more virulent strain of SARS-CoV-2 emerging despite passage through more than 3 million human hosts by the time of this analysis.
+
+  # / May, 2020 - bioRxiv
+  # let !i self assert = The pairwise comparisons of dN and dS, alongside a dearth of signs of emerging adaptive mutations, suggest that by the time SARS-CoV-2 was first detected in late 2019, it was already well adapted for human transmission to an extent more similar to late epidemic than to early-to mid epidemic SARS-CoV.
 
   / May, 2020 - bioRxiv
-  let !c self assert = An examination of 43 SARS-CoV and 46 SARS-CoV-2 genomes revealed a striking difference in the number of substitutions over similar 3-month periods, with more genetic polymorphism in early-to-mid epidemic SARS-CoV compared to late epidemic SARS-CoV or SARS-CoV-2.
+  let !j self assert = In comparison to the SARS-CoV epidemic, the SARS-CoV-2 epidemic appears to be missing an early phase during which the virus would be expected to accumulate adaptive mutations for human transmission. In the case of SARS-CoV, the less human-adapted SARS-CoV progenated multiple branches of evolution in both humans and animals. In contrast, SARS-CoV-2 appeared without peer in late 2019, suggesting that there was a single introduction of the human-adapted form of the virus into the human population. 
 
-  / May, 2020 - bioRxiv
-  let !d self assert = To rule out a subsampling artefact, we performed one hundred sampling experiments from all high-quality SARS-CoV-2 sequences on GISAID:The maximum tip-to-tip distance (number of substitutions between two genomes) of the early-to-mid epidemic SARS-CoV tree (~85 substitutions) was greater than that of all one hundred resampled SARS-CoV-2 trees (~15-25 substitutions; p < 0.01). Even by April 28, 2020, the SARS-CoV-2 genomes available on GISAID spanning 4 months exhibited modest genetic diversity as compared to early-to-mid epidemic SARS-CoV.
-
-  / May, 2020 - bioRxiv
-  let !e self assert = The SARS-CoV outbreak spanning November, 2002 to August, 2003 was estimated to result in 8,422 cases as compared to the more than 850,000 known SARS-CoV-2 cases by the end of March (and more than 3 million cases by the end of April). A considerable portion of SARS-CoV-2 cases are asymptomatic or mild, leading to an underestimation of the virus population size. Yet, early-tomid epidemic SARS-CoV, which was sampled from a more limited population in a more limited location, exhibits the most genetic diversity.
-
-  / May, 2020 - bioRxiv
-  let !f self assert = We proceeded to compare the evolutionary dynamics of SARS-CoV and SARS-CoV-2 in terms of the non-synonymous and synonymous substitution rates (dN and dS) in each gene: We sampled 50 SARS-CoV-2 genomes from each month of January, February, and March, 2020 from diverse locations in addition to Wuhan-Hu-1. For the spike (S), Orf3a, and Orf1a genes, the dN and dS in SARS-CoV-2 is more similar to late epidemic than early-to-mid epidemic SARS-CoV. In comparison, the highly conserved Orf1b (encodes RNA-dependent RNA polymerase RdRp and helicase Hel), which did not undergo strong positive selection in SARS-CoV, exhibits similarly low dN across the three CoV groups
-
-  / May, 2020 - bioRxiv
-  let !g self assert = In consideration that several therapies and antibodies in development target the SARS-CoV-2 S, it is important to track non-synonymous substitutions and predict the evolution of resistance. We analyzed the non-synonymous substitutions that occurred in the S of SARS-CoV and SARS-CoV2 over the course of each epidemic: In contrast, the majority of the non-synonymous substitutions in SARS-CoV-2 S are distributed across the gene at low frequency and have not been reported to confer adaptive benefit. Yet, the SARS-CoV2 S has been demonstrated to bind more strongly to human ACE2 and has a superior plasma membrane fusion capacity compared to the SARS-CoV S
-
-  / May, 2020 - bioRxiv
-  let !h self assert = The only site of notable entropy in the SARS-CoV-2 S, D614G, lies outside of the RBD and is not predicted to impact the structure or function of the protein. Its prevalence in international COVID-19 cases has been attributed to the substitution occurring early in the pandemic leading to a founder’s effect. There is no evidence of a more virulent strain of SARS-CoV-2 emerging despite passage through more than 3 million human hosts by the time of this analysis.
-
-  / May, 2020 - bioRxiv
-  let !i self assert = The pairwise comparisons of dN and dS, alongside a dearth of signs of emerging adaptive mutations, suggest that by the time SARS-CoV-2 was first detected in late 2019, it was already well adapted for human transmission to an extent more similar to late epidemic than to early-to mid epidemic SARS-CoV.
-
-  / May, 2020 - bioRxiv
-  let !j self assert = In comparison to the SARS-CoV epidemic, the SARS-CoV-2 epidemic appears to be missing an early phase during which the virus would be expected to accumulate adaptive mutations for human transmission. However, if this were the origin story of SARS-CoV-2, there is a surprising absence of precursors or branches emerging from a less recent, less adapted common ancestor among humans and animals. In the case of SARS-CoV, the less human-adapted SARS-CoV progenated multiple branches of evolution in both humans and animals. In contrast, SARS-CoV-2 appeared without peer in late 2019, suggesting that there was a single introduction of the human-adapted form of the virus into the human population. This has important implications regarding the risk of SARS-CoV-2 re-emergence in the near future and the severity of its consequences.
-
-  / May, 2020 - bioRxiv
-  let !k self assert = It is important to identify the route by which SARS-CoV-2 adapted for human transmission. However, there is presently little evidence to definitively support any particular scenario of SARS-CoV-2 adaptation. Did SARS-CoV-2 transmit across species into humans and circulate undetected for months prior to late 2019 while accumulating adaptive mutations? Or was SARS-CoV-2 already well adapted for humans while in bats or an intermediate species? More importantly, does this pool of human-adapted progenitor viruses still exist in animal populations? Even the possibility that a non-genetically-engineered precursor could have adapted to humans while being studied in a laboratory should be considered, regardless of how likely or unlikely.
+  # / May, 2020 - bioRxiv
+  # let !k self assert = It is important to identify the route by which SARS-CoV-2 adapted for human transmission. However, there is presently little evidence to definitively support any particular scenario of SARS-CoV-2 adaptation. Even the possibility that a non-genetically-engineered precursor could have adapted to humans while being studied in a laboratory should be considered, regardless of how likely or unlikely.
 
   / May, 2020 - bioRxiv
   let !l self assert = The most closely related pangolin CoV MP789 shares only 84.1% and 84.0% genome identity with Wuhan-Hu-1 and RaTG13, respectively. No evidence as yet points to the adaptation of SARS-CoV-2 for human infection in pangolins or the transmission of SARS-CoV-2 from pangolins to humans.
 
-  / May, 2020 - bioRxiv
-  let !m self assert = Although no sampled bat CoVs have been found to possess a SARS-CoV-2-like S RBD, these findings collectively suggest that some CoVs in nature are evolving S that can bind at an optimal level to the same receptor across diverse species, potentially by interfacing with highly conserved parts of the receptor. CoV sampling from more species - to avoid bias stemming from the focused scrutiny of Malayan pangolins - will provide us with a better grasp of the range of species that harbor CoVs with similar RBDs to SARS-CoV-2,as well as the natural diversity of bat CoVs.
+  # / May, 2020 - bioRxiv
+  # let !m self assert = Although no sampled bat CoVs have been found to possess a SARS-CoV-2-like S RBD, these findings collectively suggest that some CoVs in nature are evolving S that can bind at an optimal level to the same receptor across diverse species, potentially by interfacing with highly conserved parts of the receptor. CoV sampling from more species - to avoid bias stemming from the focused scrutiny of Malayan pangolins - will provide us with a better grasp of the range of species that harbor CoVs with similar RBDs to SARS-CoV-2,as well as the natural diversity of bat CoVs.
+
+  # / May, 2020 - bioRxiv
+  # let !n self assert = Phylogenetic tracking suggests that SARS-CoV-2 had been imported into the market by humans. In contrast to the thorough and swift animal sampling executed in response to the 2002-2004 SARS-CoV outbreaks to identify intermediate hosts, no animal sampling prior to the shut down and sanitization of the market was reported.
+
+  # / May, 2020 - bioRxiv
+  # let !o self assert = Details about the sampling are sparse: 515 out of 585 samples are environmental samples, and the other 70 were collected from wild animal vendors; it is unclear whether the latter samples are from animals, humans, and/or the environment. Only 4 of the samples, which were all environmental samples from the market, have passable coverage of SARS-CoV-2 genomes for analysis.
 
   / May, 2020 - bioRxiv
-  let !n self assert = There has been considerable debate among scientists and the public on whether SARS-CoV-2 originated from the Wuhan Huanan seafood market. The Chinese CDC’s website suggests that the virus originated from animals sold there. However, phylogenetic tracking suggests that SARS-CoV-2 had been imported into the market by humans. In contrast to the thorough and swift animal sampling executed in response to the 2002-2004 SARS-CoV outbreaks to identify intermediate hosts, no animal sampling prior to the shut down and sanitization of the market was reported. Details about the sampling are sparse: 515 out of 585 samples are environmental samples, and the other 70 were collected from wild animal vendors; it is unclear whether the latter samples are from animals, humans, and/or the environment. Only 4 of the samples, which were all environmental samples from the market, have passable coverage of SARS-CoV-2 genomes for analysis.
+  let !p self assert = The market samples did not form a separate cluster from the human SARS-CoV-2 genomes. We compared the market samples to the human WuhanHu-1 isolate, and discovered >99.9% genome identity, even at the S gene that has exhibited evidence of evolution in previous CoV zoonoses.
 
   / May, 2020 - bioRxiv
-  let !o self assert = Nonetheless, the market samples did not form a separate cluster from the human SARS-CoV-2 genomes. We compared the market samples to the human WuhanHu-1 isolate, and discovered >99.9% genome identity, even at the S gene that has exhibited evidence of evolution in previous CoV zoonoses.
+  let !q self assert = In the SARS-CoV outbreaks, >99.9% genome or S identity was only observed among isolates collected within a narrow window of time from within the same species. The human and civet isolates of the 2003/2004 outbreak, which were collected most closely in time and at the site of cross-species transmission, shared only up to 99.79% S identity. It is therefore unlikely for the January market isolates, which all share 99.9-100% genome and S identity with a December human SARS-CoV-2, to have originated from an intermediate animal host, particularly if the most recent common ancestor jumped into humans as early as October, 2019. The SARS-CoV-2 genomes in the market samples were most likely from humans infected with SARS-CoV-2 who were vendors or visitors at the market. If intermediate animal hosts were present at the market, no evidence remains in the genetic samples available.
 
-  / May, 2020 - bioRxiv
-  let !p self assert = In the SARS-CoV outbreaks, >99.9% genome or S identity was only observed among isolates collected within a narrow window of time from within the same species. The human and civet isolates of the 2003/2004 outbreak, which were collected most closely in time and at the site of cross-species transmission, shared only up to 99.79% S identity. It is therefore unlikely for the January market isolates, which all share 99.9-100% genome and S identity with a December human SARS-CoV-2, to have originated from an intermediate animal host, particularly if the most recent common ancestor jumped into humans as early as October, 2019. The SARS-CoV-2 genomes in the market samples were most likely from humans infected with SARS-CoV-2 who were vendors or visitors at the market. If intermediate animal hosts were present at the market, no evidence remains in the genetic samples available.
+  # / May, 2020 - bioRxiv
+  # let !r self assert = We would like to advocate for measured and effective approaches to identify any lingering population(s) of SARS-CoV-2 progenitor virus, particularly if these are similarly adept at human transmission. The response to the first SARS-CoV outbreak deployed the following strategies that were key to detecting SARS-CoV adaptation to humans and cross-species transmission, and could be re-applied in today’s outbreak to swiftly eliminate progenitor pools: (i) Sampling animals from markets, farms, and wild populations for SARS-CoV-2-like viruses.
 
-  / May, 2020 - bioRxiv
-  let !q self assert = We would like to advocate for measured and effective approaches to identify any lingering population(s) of SARS-CoV-2 progenitor virus, particularly if these are similarly adept at human transmission. The response to the first SARS-CoV outbreak deployed the following strategies that were key to detecting SARS-CoV adaptation to humans and cross-species transmission, and could be re-applied in today’s outbreak to swiftly eliminate progenitor pools: (i) Sampling animals from markets, farms, and wild populations for SARS-CoV-2-like viruses.
-
-  / May, 2020 - bioRxiv
-  let !r self assert = (ii) Checking human samples banked months before late 2019 for SARS-CoV-2-like viruses or SARS-CoV-2-reactive antibodies to detect precursors circulating in humans. In addition, sequencing more SARS-CoV-2 isolates from Wuhan, particularly early isolates if they still exist, could identify branches originating from a less human-adapted progenitor as was seen in the 2003 SARS-CoV outbreak. It would be curious if no precursors or branches of SARS-CoV-2 evolution are discovered in humans or animals. (iii) Evaluating the over- or underrepresentation of food handlers and animal traders among the index cases to determine if SARS-CoV-2 precursors may have been circulating in the animal trading community. While these investigations are conducted, it would be safer to more extensively limit human activity that leads to frequent or prolonged contact with wild animals and their habitats.
+  # / May, 2020 - bioRxiv
+  # let !s self assert = (ii) Checking human samples banked months before late 2019 for SARS-CoV-2-like viruses or SARS-CoV-2-reactive antibodies to detect precursors circulating in humans. In addition, sequencing more SARS-CoV-2 isolates from Wuhan, particularly early isolates if they still exist, could identify branches originating from a less human-adapted progenitor as was seen in the 2003 SARS-CoV outbreak. It would be curious if no precursors or branches of SARS-CoV-2 evolution are discovered in humans or animals. (iii) Evaluating the over- or underrepresentation of food handlers and animal traders among the index cases to determine if SARS-CoV-2 precursors may have been circulating in the animal trading community. While these investigations are conducted, it would be safer to more extensively limit human activity that leads to frequent or prolonged contact with wild animals and their habitats.
 
 
 
