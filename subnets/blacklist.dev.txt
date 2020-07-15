@@ -8,3 +8,15 @@ $idea
 $os-life-exp
 $in-life
 $climate
+$go2
+$pubmed
+$cancer
+$os-cancer
+$coronavirus
+$cancer-A
+$cancer-B
+$nccn
+$os-nsclc
+$nci
+$os-cancer-orig
+$wp
