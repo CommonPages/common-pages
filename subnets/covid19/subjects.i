@@ -242,52 +242,48 @@ subject module Virus
     head = Studies shows that SARS-CoV-2 has acquired mutations capable of substantially changing its pathogenicity. The genomic features may explain in part the infectiousness and transmissibility of SARS-CoV-2 in humans.
     -- Genetic Diversity
       'Phan_et_al_2020b
+      'Yao_et_al_04_23_2020
+      'Yao_et_al_04_23_2020.!a
       'Paraskevis_et_al_2020
-      'Paraskevis_et_al_2020.!a
-      'Paraskevis_et_al_2020.!b
-      'Paraskevis_et_al_2020.!c
       'Lu_et_at_2020
       'Lu_et_at_2020.!a
-      'Lu_et_at_2020.!b
-      'Lu_et_at_2020.!c
-      'Lu_et_at_2020.!d
-      'Yao_et_al_04_23_2020
-    -- Gene Expression
-      'King_et_al_2020
-      'King_et_al_2020.!a
 
   / Structure
   subject module Structure
     head = SARS-CoV-2 has four structural proteins, S (spike), E (envelope), M (membrane), and N (nucleocapsid) proteins; the N protein holds the RNA genome, and the S, E, and M proteins together create the viral envelope. Structure gives clue about the mechanism of cell entry, replication.
     --
+      'Domling_et_al_05_20_2020
       'Walls_et_al_2020
+      'Walls_et_al_2020.!a
       'Wrapp_et_al_2020
       'Coutard_et_al_2020
       'Benvenuto_et_al_2020
-      'Wan_et_al_2020
       'Gao_et_al_2020b
       'Gao_et_al_2020b.!a
       'Gao_et_al_2020b.!b
       'Hillen_et_al_05_15_2020
-      'Domling_et_al_05_20_2020
 
   / Entry and Replication
   subject module Entry
     head = SARS-CoV-2 uses the same cellular entry receptor, ACE2, as SARS-CoV. SARS-CoV-2 virion attaches to a target cell, the cell's protease TMPRSS2 cuts open the spike protein of the virus, exposing a fusion peptide in the S2 subunit, and the host receptor ACE2.
     >>> Replication
       The virion then releases RNA into the cell and forces the cell to produce and disseminate copies of the virus, which infect more cells.
-    -- ACE2 and TMPRSS2
+    -- ACE2 & TMPRSS2
       'Hoffman_et_al_2020
       'Matsuyama_et_al_2020
       'Stawiski_et_al_2020
-      'Wan_et_al_2020.!a
+      'Wan_et_al_2020
+    >>>
+      SARS CoV-2 can enter central nervous system through ACE-2 Receptor and can invade many organs including brain
+    --
       'Chen_et_al_05_19_2020
       'Puelles_et_al_05_13_2020
-      'Subbarao_et_al_05_19_2020.!d
       'Meinhardt_et_al_06_04_2020
+      'Subbarao_et_al_05_19_2020.!d
+    # S1 binding to Neuropilin may therefore contribute to viral entry
     -- Neuropilin
       'Daly_et_al_06_05_2020
-    -- Temperature Depence
+    -- Temperature Depence for Entry
       'Vkovski_et_al_2020
       'Vkovski_et_al_2020.!a
 
@@ -302,23 +298,22 @@ subject module Virus
         Viral RNA can be detected long after the disappearance of infectious virus.
       --
         'Woelfel_et_al_2020
-        'He_et_al_2020
+        'Atkinson_et_al_2020
+        'He_et_al_2020.!b
         'Wölfel_et_al_2020.!h
         'Woelfel_et_al_2020b.!e
-        'Atkinson_et_al_2020
         'Yang_et_al_2020
-        'Yang_et_al_2020.!a
-        'Yang_et_al_2020.!b
         'Xu_et_al_2020b
-        'Woelfel_et_al_2020
 
     / Viral Load
     subject ViralLoad
       head = Highest viral load in throat swabs at the time of symptom onset, and inferred that infectiousness peaked on or before symptom onset.
       --
         'Liu_et_al_2020c
-        'Joynt_et_al_2020
+        'Joynt_et_al_2020.!a
         'Zou_et_al_2020
+        'Zou_et_al_2020.!a
+        'He_et_al_2020
         'Woelfel_et_al_2020b.!b
         'Woelfel_et_al_2020b.!f
         'Kujawski_et_al_2020.!t
@@ -328,7 +323,6 @@ subject module Virus
         'Kim_et_al_2020b.!c
         'Kim_et_al_2020b.!d
         'Pan_et_al_2020b
-        'Puelles_et_al_05_13_2020
 
     --
       ViralShedding
@@ -345,18 +339,14 @@ subject module Virus
       head = SARS-CoV-2 can be present in the semen of patients with COVID-19, and SARS-CoV-2 may still be detected in semen of recovering patients.
       -- Semen
         'Li_et_al_2020d
-        'Woelfel_et_al_2020b.!h
-        'Woelfel_et_al_2020b.!i
 
     / Feces
     subject Feces
       head = Studies have found prolonged presence of SARS-CoV-2 viral RNA in fecal samples tho the research on its infectiousness is still ongoing.
       -- Feces
         'Wu_et_al_2020d
-        'Wu_et_al_2020d.!a
-        'Wu_et_al_2020d.!b
-        'Wu_et_al_2020d.!d
         'Pan_et_al_2020b.!f
+        'Woelfel_et_al_2020b.!i
 
   / Tranmission
   subject module Transmission
@@ -374,8 +364,6 @@ subject module Virus
         -- Tranmission
           'Santarpia_et_al_2020
           'Ong_et_al_2020
-          'Hamburger_et_al_1948
-          'Hamburger_et_al_1948.!j
       / Aerosol Transmission
       subject AerosolTransmission
         head = SARS-CoV-2 viral RNA in air has been detected in several studies. Study found that the majority of these viruses were associated with aerosols.
@@ -383,19 +371,14 @@ subject module Virus
           'van_Doremalen_et_al_2020
           'van_Doremalen_et_al_2020.!a
           'Lu_et_al_2020
-          'Somsen_et_al_05_27_2020.!a
-          'Somsen_et_al_05_27_2020.!b
-          'Somsen_et_al_05_27_2020.!c
-          'Somsen_et_al_05_27_2020.!d
-          'Somsen_et_al_05_27_2020.!e
-          'Johnson_et_al_10_05_2012
+          'Somsen_et_al_05_27_2020
           'Lin_et_al_01_26_2017
           'Johnson_et_al_06_21_2011
         -- Aerosol Transmission
-          'Asadi_et_al_2019
           'Allen_et_al_05_06_2020
-          'Lednicky_et_al_05_22_2020.!a
+          'Lednicky_et_al_05_22_2020
           'Miller_et_al_06_18_2020
+          'Asadi_et_al_2019
         -- Airborne Transmission
           'Allen_et_al_06_19_2020
           'Chia_et_al_05_29_2020
@@ -419,7 +402,7 @@ subject module Virus
         'Notari_et_al_2020
       -- Air Pollution
         'Wu_et_al_2020c
-      -- Humidity
+      -- Humidity dependence
         'Lin_et_al_12_30_2019
     subject module Settings
       head = Based on studies COVID-19 has more severe impact on indoor settings over outdoor settings.
@@ -433,12 +416,9 @@ subject module Virus
       subject IndoorTransmission
         head = Based on studies close contact in the family is the main transmission route of infection.
         -- Household Transmission
-          'Jing_et_al_2020.!a
-          'Jing_et_al_2020.!b
-          'Jing_et_al_2020.!c
-          'Jing_et_al_2020.!d
+          'Jing_et_al_2020.
           'Bi_et_al_04_27_2020.!g
-          'Bi_et_al_04_27_2020.!h
+        # Unedited - Indoor   
         -- Indoor Tranmission
           'Ji_et_al_2020
           'Peng-Li_et_al_2020
@@ -653,6 +633,9 @@ subject module Disease
       'Thoms_et_al_05_18_2020
       'Merad_et_al_05_06_2020
       'Melo_et_al_05_15_2020
+    >>> Affinity maturation is the process by which TFH cell-activated B cells produce antibodies with increased affinity for antigen during the course of an immune response.
+    -- Affinity Maturation
+      'King_et_al_2020
     -- Frontiers
       'Chen_et_al_2009
       'Zhao_et_al_2010
@@ -1188,6 +1171,9 @@ subject module Diagnostics
       'Blackwell_et_al_2009
       'Paul_et_al_2013
       'Nguyen_et_al_2020
+    -- Detection
+      'Yang_et_al_2020.!a
+      'Yang_et_al_2020.!b
 
 
 / Mitigation

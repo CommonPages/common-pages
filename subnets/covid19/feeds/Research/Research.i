@@ -1073,7 +1073,7 @@ feed Research
   // Detection of air and surface contamination by SARS-CoV-2 in hospital rooms of infected patients
   doi: https://doi.org/xyz
   ref 'Chia_et_al_05_29_2020
-    head = Air sampling of the AIIR environments of two COVID-19 patients (both day 5 of illness with high nasopharyngeal swab viral loads) detected the presence of SARS-CoV-2 particles sized 1–4 µm and >4 µm. The absence of any detection of SARS-CoV-2 in air samples of the third patient (day 9 of illness with lower nasopharyngeal viral load concentration) suggests that the presence of SARS-CoV-2 in the air is possibly highest in the first week of illness.
+    head =  Air sampling is performed in three of the 27 AIIRs in the general ward, and detects SARS-CoV-2 PCR-positive particles of sizes >4 µm and 1–4 µm in two rooms, despite these rooms having 12 air changes per hour.
 
     >>> Abstract
       Understanding the particle size distribution in the air and patterns of environmental contamination of SARS-CoV-2 is essential for infection prevention policies. Here we screen surface and air samples from hospital rooms of COVID-19 patients for SARS-CoV-2 RNA. Environmental sampling is conducted in three airborne infection isolation rooms (AIIRs) in the ICU and 27 AIIRs in the general ward. 245 surface samples are collected. 56.7% of rooms have at least one environmental surface contaminated. High touch surface contamination is shown in ten (66.7%) out of 15 patients in the first week of illness, and three (20%) beyond the first week of illness (p = 0.01, χ2 test). Air sampling is performed in three of the 27 AIIRs in the general ward, and detects SARS-CoV-2 PCR-positive particles of sizes >4 µm and 1–4 µm in two rooms, despite these rooms having 12 air changes per hour. This warrants further study of the airborne transmission potential of SARS-CoV-2.
@@ -1100,7 +1100,7 @@ feed Research
   // Transmission of SARS-CoV-2 by inhalation of respiratory aerosol in the Skagit Valley Chorale superspreading event
   doi: https://doi.org/10.1101/2020.06.15.20132027
   ref 'Miller_et_al_06_18_2020
-    head = After that rehearsal, 53 members of the SVC among 61 in attendance were confirmed or strongly suspected to have contracted COVID-19 and two died. Transmission by the airborne route is likely. Based on a conditional assumption that transmission during this outbreak was by inhalation of respiratory aerosol.
+    head = The results indicate an emission rate of the order of a thousand quanta per hour (mean [interquartile range] for this event = 970 [680-1190] quanta per hour) and demonstrate that the risk of infection is modulated by ventilation conditions, occupant density, and duration of shared presence with an infectious individual.
 
     >>> Abstract
       During the 2020 COVID-19 pandemic, an outbreak occurred following attendance of a symptomatic index case at a regular weekly rehearsal on 10 March of the Skagit Valley Chorale (SVC). After that rehearsal, 53 members of the SVC among 61 in attendance were confirmed or strongly suspected to have contracted COVID-19 and two died. Transmission by the airborne route is likely. It is vital to identify features of cases such as this so as to better understand the factors that promote superspreading events. Based on a conditional assumption that transmission during this outbreak was by inhalation of respiratory aerosol, we use the available evidence to infer the emission rate of airborne infectious quanta from the primary source. We also explore how the risk of infection would vary with several influential factors: the rates of removal of respiratory aerosol by ventilation; deposition onto surfaces; and viral decay. The results indicate an emission rate of the order of a thousand quanta per hour (mean [interquartile range] for this event = 970 [680-1190] quanta per hour) and demonstrate that the risk of infection is modulated by ventilation conditions, occupant density, and duration of shared presence with an infectious individual.
@@ -1182,7 +1182,7 @@ feed Research
   // Recognizing and controlling airborne transmission of SARS‐CoV‐2 in indoor environments
   doi: https://doi.org/10.1111/ina.12697
   ref 'Allen_et_al_06_19_2020
-    head = While the traditional distinction between “droplet” and “airborne” transmission of infectious disease has been useful for setting guidelines on the use of personal protective equipment, it has also established a false dichotomy in understanding the behavior of viruses in the air. Virus‐containing droplets that are released by breathing, talking, and coughing span a continuum of sizes, from 0.01 to hundreds of microns. It is impossible for someone to release “large droplets” (>5 microns) without also releasing smaller ones
+    head = We present three lines of evidence supporting the potential for airborne transmission and recommend steps to mitigate the risk in indoor environments.
 
     >>> Abstract
       Sharing indoor space has been confirmed as a major risk factor in transmission of SARS‐CoV‐2. A study of over 7000 cases found that all outbreaks involving three or more people occurred indoors.1 Thus, identifying the dominant modes of transmission is an urgent public health priority so that appropriate control strategies can be selected and deployed. Here, we present three lines of evidence supporting the potential for airborne transmission and recommend steps to mitigate the risk in indoor environments.
@@ -2602,7 +2602,7 @@ feed Research
   // Olfactory transmucosal SARS-CoV-2 invasion as port of Central Nervous System entry in COVID-19 patients
   doi: https://doi.org/10.1101/2020.06.04.135012
   article 'Meinhardt_et_al_06_04_2020
-    head = By precisely investigating and anatomically mapping oro- and pharyngeal regions and brains of 32 patients dying from COVID-19, we not only describe CNS infarction due to cerebral thromboembolism, but also demonstrate SARS-CoV-2 neurotropism. SARS-CoV-2 enters the nervous system via trespassing the neuro-mucosal interface in the olfactory mucosa by exploiting the close vicinity of olfactory mucosal and nervous tissue including delicate olfactory and sensitive nerve endings- thus explaining some of the well-documented neurological symptoms in COVID-19 patients including alterations of smell and taste perception. Subsequently, SARS-CoV-2 follows defined neuroanatomical structures, penetrating defined neuroanatomical areas, including the primary respiratory and cardiovascular control center in the medulla oblongata.
+    head = SARS-CoV-2 enters the nervous system via trespassing the neuro-mucosal interface in the olfactory mucosa by exploiting the close vicinity of olfactory mucosal and nervous tissue including delicate olfactory and sensitive nerve endings- thus explaining some of the well-documented neurological symptoms in COVID-19 patients including alterations of smell and taste perception. Subsequently, SARS-CoV-2 follows defined neuroanatomical structures, penetrating defined neuroanatomical areas, including the primary respiratory and cardiovascular control center in the medulla oblongata.
 
     >>> Abstract
       The newly identified severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) causes COVID-19, a pandemic respiratory disease presenting with fever, cough, and often pneumonia. Moreover, thromboembolic events throughout the body including the central nervous system (CNS) have been described. Given first indication for viral RNA presence in the brain and cerebrospinal fluid and in light of neurological symptoms in a large majority of COVID-19 patients, SARS-CoV-2-penetrance of the CNS is likely. By precisely investigating and anatomically mapping oro- and pharyngeal regions and brains of 32 patients dying from COVID-19, we not only describe CNS infarction due to cerebral thromboembolism, but also demonstrate SARS-CoV-2 neurotropism. SARS-CoV-2 enters the nervous system via trespassing the neuro-mucosal interface in the olfactory mucosa by exploiting the close vicinity of olfactory mucosal and nervous tissue including delicate olfactory and sensitive nerve endings. Subsequently, SARS-CoV-2 follows defined neuroanatomical structures, penetrating defined neuroanatomical areas, including the primary respiratory and cardiovascular control center in the medulla oblongata.
@@ -2654,7 +2654,7 @@ feed Research
   // Neuropilin-1 is a host factor for SARS-CoV-2 infection
   doi: https://doi.org/10.1101/2020.06.05.134114
   article 'Daly_et_al_06_05_2020
-    head =  Our data indicate that the SARS-CoV-2 S-protein binds to cell surface receptor NRP1 via the S1 CendR motif generated by the furin cleavage of S1/S2. This interaction promotes infection by SARS-CoV-2 in physiologically relevant cell lines widely used in the study of COVID-19. The molecular basis for the effect is unclear, but neuropilins are known to mediate the internalisation of CendR ligands through an endocytic process resembling macropinocytosis, and additionally serve as activators of receptor tyrosine kinases to mediate cell signalling. S1 binding to NRP1 may therefore contribute to viral entry and survival within the host cell.
+    head = SARS-CoV-2 S-protein binds to cell surface receptor NRP1 via the S1 CendR motif generated by the furin cleavage of S1/S2. The molecular basis for the effect is unclear, but neuropilins are known to mediate the internalisation of CendR ligands through an endocytic process resembling macropinocytosis, and additionally serve as activators of receptor tyrosine kinases to mediate cell signalling. S1 binding to NRP1 may therefore contribute to viral entry and survival within the host cell.
 
     >>> Abstract
       SARS-CoV-2 is the causative agent of COVID-19, a coronavirus disease that has infected more than 6.6 million people and caused over 390,000 deaths worldwide. The Spike (S) protein of the virus forms projections on the virion surface responsible for host cell attachment and penetration. This viral glycoprotein is synthesized as a precursor in infected cells and, to be active, must be cleaved to two associated polypeptides: S1 and S2. For SARS-CoV-2 the cleavage is catalysed by furin, a host cell protease, which cleaves the S protein precursor at a specific sequence motif that generates a polybasic Arg-Arg-Ala-Arg (RRAR) C-terminal sequence on S1. This sequence motif conforms to the C-end rule (CendR), which means that the C-terminal sequence may allow the protein to associate with cell surface neuropilin-1 (NRP1) and neuropilin-2 (NRP2) receptors. Here we demonstrate using immunoprecipitation, site-specific mutagenesis, structural modelling, and antibody blockade that, in addition to engaging the known receptor ACE2, S1 can bind to NRP1 through the canonical CendR mechanism. This interaction enhances infection by SARS-CoV-2 in cell culture. NRP1 thus serves as a host factor for SARS-CoV-2 infection, and provides a therapeutic target for COVID-19.
@@ -4558,7 +4558,7 @@ feed Research
   // Infectious SARS-CoV-2 in Feces of Patient with Severe COVID-19
   doi: https://doi.org/10.3201/eid2608.200681
   article 'Xiao_et_al_05_18_2020
-    head = Isolation of infectious SARS-CoV-2 in feces indicates the possibility of fecal–oral transmission or fecal–respiratory transmission through aerosolized feces. During the 2003 severe acute respiratory syndrome pandemic, 329 residents of a private housing estate in Hong Kong were infected; 42 died . Investigation of the building’s structure showed that faulty sewage pipelines led to aerosolization of contaminated feces, which was believed to be the source of infection.
+    head = Isolation of infectious SARS-CoV-2 in feces indicates the possibility of fecal–oral transmission or fecal–respiratory transmission through aerosolized feces.
 
     >>> Abstract
       Severe acute respiratory syndrome coronavirus 2 was isolated from feces of a patient in China with coronavirus disease who died. Confirmation of infectious virus in feces affirms the potential for fecal–oral or fecal–respiratory transmission and warrants further study.
@@ -4935,10 +4935,10 @@ feed Research
   // Re-thinking the Potential for Airborne Transmission of SARS-CoV-2
   doi: https://doi.org/10.20944/preprints202005.0126.v1
   article 'Allen_et_al_05_06_2020
-    head = SARS-CoV-2 viral RNA in air has been detected in several studies in hospitals, including at distances greater than 2 m from patients and in outdoor air in crowded areas near a hospital and a department store. One study found that the majority of these viruses were associated with aerosols (i.e., microscopic droplets) of diameter 2.5 microns and smaller, which can remain suspended in air for 2 hours or more
+    head = SARS-CoV-2 viral RNA in air has been detected in several studies in hospitals, including at distances greater than 2 m from patients and in outdoor air in crowded areas near a hospital and a department store. Study found that the majority of these viruses were associated with aerosols of diameter 2.5 microns and smaller, which can remain suspended in air for 2 hours or more
 
     >>> Abstract
-      Evidence for the potential for airborne transmission of SARS-CoV-19 continues to accumulate, with important implications for healthcare workers, as well as the general public. Three lines of evidence support this conclusion.s
+      Evidence for the potential for airborne transmission of SARS-CoV-19 continues to accumulate, with important implications for healthcare workers, as well as the general public. Three lines of evidence support this conclusion.
 
     -- exports
       !a
@@ -5041,7 +5041,7 @@ feed Research
   // Collection of SARS-CoV-2 Virus from the Air of a Clinic within a University Student Health Care Center and Analyses of the Viral Genomic Sequence
   doi: https://doi.org/10.4209/aaqr.2020.02.0202
   article 'Lednicky_et_al_05_22_2020
-    head = Environmental sampling may result in earlier detection of an (re-)emerging virus than the current practice relying on human specimens availed only after very sick patients start to report to clinics.
+    head = To determine whether the virus detected was viable (‘live’), attempts were made to isolate the virus in cell cultures. Virus-induced cytopathic effects (CPE) were observed within two days post-inoculation of Vero E6 cells with collection media from air samples; however, rtRT-PCR tests for SARS-CoV-2 vRNA from cell culture were negative.
 
     >>> Abstract
       The progression of COVID-19 worldwide can be tracked by identifying mutations within the genomic sequence of SARS-CoV-2 that occur as a function of time. Such efforts currently rely on sequencing the genome of SARS-CoV-2 in patient specimens (direct sequencing) or of virus isolated from patient specimens in cell cultures. A pilot SARS-CoV-2 air sampling study conducted at a clinic within a university student health care center detected the virus vRNA, with an estimated concentration of 0.87 virus genomes L–1 air. To determine whether the virus detected was viable (‘live’), attempts were made to isolate the virus in cell cultures. Virus-induced cytopathic effects (CPE) were observed within two days post-inoculation of Vero E6 cells with collection media from air samples; however, rtRT-PCR tests for SARS-CoV-2 vRNA from cell culture were negative. Instead, three other fast-growing human respiratory viruses were isolated and subsequently identified, illustrating the challenge in isolating SARS-CoV-2 when multiple viruses are present in a test sample. The complete SAR-CoV-2 genomic sequence was nevertheless determined by Sanger sequencing and most closely resembles SARS-CoV-2 genomes previously described in Georgia, USA. Results of this study illustrate the feasibility of tracking progression of the COVID-19 pandemic using environmental aerosol samples instead of human specimens. Collection of a positive sample from a distance more than 2 m away from the nearest patient traffic implies the virus was in an aerosol.
@@ -5056,7 +5056,7 @@ feed Research
   // Aerosolization of Ebola Virus Surrogates in Wastewater Systems
   doi: https://doi.org/10.1021/acs.est.6b04846
   article 'Lin_et_al_01_26_2017
-    head = These results show that toilets, aeration basins, and converging flows in sewer systems can generate aerosolized viruses to varying extents. While toilets generate a large number of aerosols, the total volume of liquid aerosolized is extremely small, so the chance of aerosolizing viruses upon flushing is expected to be low.
+    head = Toilets, aeration basins, and converging flows in sewer systems can generate aerosolized viruses to varying extents. While toilets generate a large number of aerosols, the total volume of liquid aerosolized is extremely small, so the chance of aerosolizing viruses upon flushing is expected to be low.
 
     >>> Abstract
       Recent studies have shown that Ebola virus can persist in wastewater. We evaluated the potential for Ebola virus surrogates to be aerosolized from three types of wastewater systems: toilets, a lab-scale model of an aeration basin, and a lab-scale model of converging sewer pipes. We measured the aerosol size distribution generated by each system, spiked Ebola virus surrogates (MS2 and Phi6) into each system, and determined the emission rate of viruses into the air. The number of aerosols released ranged from 105 to 107 per flush from the toilets or per minute from the lab-scale models, and the total volume of aerosols generated by these systems was ∼10–9 to 10–7 mL per flush or per minute in all cases. MS2 and Phi6, spiked into toilets at an initial concentration of 107 plaque-forming units per milliliter (PFU mL–1), were not detected in air after flushing. Airborne concentrations of MS2 and Phi6 were ∼20 PFU L–1 and ∼0.1 PFU L–1, respectively, in the chambers enclosing the aeration basin and sewer models. The corresponding emission rates of MS2 and Phi6 were 547 PFU min–1 and 3.8 PFU min–1, respectively, for the aeration basin and 79 PFU min–1 and 0.3 PFU min–1 for the sewer pipes.
@@ -5068,7 +5068,7 @@ feed Research
   // Lifting the Lid on Toilet Plume Aerosol: A Literature Review With Suggestions for Future Research
   doi: https://doi.org/10.1016/j.ajic.2012.04.330
   article 'Johnson_et_al_10_05_2012
-    head = Research suggests that toilet plume could play a contributory role in the transmission of infectious diseases. Additional research in multiple areas is warranted to assess the risks posed by toilet plume, especially within health care facilities.
+    head = Toilet plume could play a contributory role in the transmission of infectious diseases. Additional research in multiple areas is warranted to assess the risks posed by toilet plume, especially within health care facilities.
 
     >>> Background
       The potential risks associated with "toilet plume" aerosols produced by flush toilets is a subject of continuing study. This review examines the evidence regarding toilet plume bioaerosol generation and infectious disease transmission.
@@ -5573,18 +5573,9 @@ feed Research
 
     -- exports
       !a
-      !b
-      !c
 
     / April, 2020 - medRxiv
-    let !a self assert = The T22303G and A22301C mutations result in the same S247R mutation in the S protein, mapping to the existing structure revealed that this residue is located in a flexible loop region within the N-terminal domain of the S1 subunit of S protein, although the exact position of S247 could not be determined.
-
-    / April, 2020 - medRxiv
-    let !b self assert = Interestingly, the T22303G mutation was observed in 5 viral isolates, albeit in different proportions, indicating that this specific mutation was already present in the early days of pandemic, and probably in a significant number of people of Wuhan, despite the fact that it is still largely missing from current GISAID collection.
-
-    / April, 2020 - medRxiv
-    let !c self assert = The tri-nucleotide mutation in ZJU-11 is unexpected; we note that this specific viral isolate is quite potent in our viral load and CPE assay, and its patient remained positive for an astounding period of 45 days and was only recently discharged from the hospital. Investigating the functional impact of this tri-nucleotide mutation would be highly interesting.
-
+    let !a self assert = Viral isolates show significant variation in cytopathic effects and viral load, up to 270-fold differences, when infecting Vero-E6 cells. We observed intrapersonal variation and 6 different mutations in the spike glycoprotein (S protein), including 2 different SNVs that led to the same missense mutation.
 
 
   # Frontiers - Antiviral
@@ -5911,7 +5902,7 @@ feed Research
   // Viral load of SARS-CoV-2 in clinical samples
   doi: https://doi.org/10.1016/S1473-3099(20)30113-4
   article 'Pan_et_al_2020b
-    head = We report our findings from different types of clinical specimens collected from 82 infected individuals.
+    head = We report our findings from different types of clinical specimens collected from 82 infected individuals. The viral loads in throat swab and sputum samples peaked at around 5–6 days after symptom onset. Sputum samples generally showed higher viral loads than throat swab samples.
 
     -- exports
       !a
@@ -5922,7 +5913,7 @@ feed Research
       !f
 
     / February, 2020 - The Lancet
-    let !a self assert = Serial samples (throat swabs, sputum, urine, and stool) from two patients in Beijing were collected daily after their hospitalisation (patient 1, days 3–12 post-onset; patient 2, days 4–15 post-onset). These samples were examined by an N-gene-specific quantitative RT-PCR assay, as described elsewhere.  The viral loads in throat swab and sputum samples peaked at around 5–6 days after symptom onset, ranging from around 104 to 107 copies per mL during this time (figure A, B). This pattern of changes in viral load is distinct from the one observed in patients with SARS, which normally peaked at around 10 days after onset. Sputum samples generally showed higher viral loads than throat swab samples. No viral RNA was detected in urine or stool samples from these two patients.
+    let !a self assert = Serial samples (throat swabs, sputum, urine, and stool) from two patients in Beijing were collected daily after their hospitalisation (patient 1, days 3–12 post-onset; patient 2, days 4–15 post-onset). These samples were examined by an N-gene-specific quantitative RT-PCR assay, as described elsewhere.  The viral loads in throat swab and sputum samples peaked at around 5–6 days after symptom onset, ranging from around 104 to 107 copies per mL during this time. This pattern of changes in viral load is distinct from the one observed in patients with SARS, which normally peaked at around 10 days after onset. Sputum samples generally showed higher viral loads than throat swab samples. No viral RNA was detected in urine or stool samples from these two patients.
 
     / February, 2020 - The Lancet
     let !b self assert = We also studied respiratory samples (nasal [n=1] and throat swabs [n=67], and sputum [n=42]) collected from 80 individuals at different stages of infection. The viral loads ranged from 641 copies per mL to 1·34 × 1011 copies per mL, with a median of 7·99 × 104 in throat samples and 7·52 × 105 in sputum samples
@@ -5965,7 +5956,7 @@ feed Research
     let !a self assert = In Patient 1, we observed one example of moderate disease (shortness of breath and oxygen requirement up to 10 L/min) with corresponding radiograph findings and viral loads.
 
     / February, 2020 - J Korean Med Sci.
-    let !b self assert = First, unlike SARS-CoV infection,8 we found that viral load was highest during the early phase of the illness (3–5 days from first symptom onset, fever and myalgia were the only symptoms in Patient 1) and continued to decrease until the end of the second week. While she developed cough as well as shortness of breath and infiltration appeared on CXR at the end of first week of illness, the viral load already started to decrease at this phase. This may have a very important implication to determine the optimal time point for antiviral treatment intervention to prevent progression to severe disease.
+    let !b self assert = First, unlike SARS-CoV infection,8 we found that viral load was highest during the early phase of the illness (3–5 days from first symptom onset, fever and myalgia were the only symptoms in Patient 1) and continued to decrease until the end of the second week. While she developed cough as well as shortness of breath and infiltration appeared on CXR at the end of first week of illness, the viral load already started to decrease at this phase.
 
     / February, 2020 - J Korean Med Sci.
     let !c self assert = Second, the virus was detected from LRT specimens even before the development of LRT symptoms (cough, shortness of breath, and oxygen requirement) or visible infiltration on CXR. This may suggest that although the patient does not complain of any LRT symptoms, the virus is already there and causing insidious pathology, ultimately leading to LRT symptoms and chest infiltration later. However, the viral load starts to decrease in both URT and LRT specimens at the same time, which may puzzle the clinicians.
@@ -6161,7 +6152,7 @@ feed Research
   // Factors associated with prolonged viral RNA shedding in patients with COVID-19.
   doi: https://doi.org/10.1093/cid/ciaa351
   article 'Xu_et_al_2020b
-    head = This study is the first to document the risk factors associated with prolonged SARS-CoV-2 shedding in the respiratory tract among a cohort of patients with COVID-19. We found that the median duration from onset of symptoms to RNA clearance was 17 days. Male sex, delayed hospital admission, and invasive mechanical ventilation were independent risk factors for prolonged SARS-CoV-2 RNA shedding. These results reinforce guidance that hospital admission and treatments should be started as soon as possible in patients with COVID-19. Male patients need particular attention to prolonged viral RNA shedding, which might be associated with poor treatment outcomes. Understanding the virological dynamics during the process of illness should be helpful in the clinical management of patients with COVID-19.
+    head = We found that the median duration from onset of symptoms to RNA clearance was 17 days.   Male sex, delayed admission to hospital after illness onset, and invasive mechanical ventilation were associated with prolonged SARS-CoV-2 RNA shedding.
 
     >>> Background
       An outbreak of coronavirus disease 2019 (COVID-19) is becoming a public health emergency. Data are limited on the duration and host factors related to viral shedding.
@@ -8193,7 +8184,7 @@ feed Research
   // COVID-19 Outbreak Associated with Air Conditioning in Restaurant, Guangzhou, China, 2020
   doi: https://doi.org/10.3201/eid2607.200764
   article 'Lu_et_al_2020
-    head = Virus-laden small (<5 μm) aerosolized droplets can remain in the air and travel long distances, >1 m. Potential aerosol transmission of severe acute respiratory syndrome and Middle East respiratory syndrome viruses has been reported. However, none of the staff or other diners in restaurant X were infected. Moreover, the smear samples from the air conditioner were all nucleotide negative. This finding is less consistent with aerosol transmission. However, aerosols would tend to follow the airflow, and the lower concentrations of aerosols at greater distances might have been insufficient to cause infection in other parts of the restaurant.
+    head = Virus-laden small (<5 μm) aerosolized droplets can remain in the air and travel long distances, >1 m. To prevent the spread of the virus in restaurants, we recommend increasing the distance between tables and improving ventilation.
 
     >>> Abstract
       During January 26–February 10, 2020, an outbreak of 2019 novel coronavirus disease in an air-conditioned restaurant in Guangzhou, China, involved 3 family clusters. The airflow direction was consistent with droplet transmission. To prevent the spread of the virus in restaurants, we recommend increasing the distance between tables and improving ventilation.
@@ -8207,7 +8198,7 @@ feed Research
   // SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor
   doi: https://doi.org/10.1016/j.cell.2020.02.052
   article 'Hoffmann_et_al_2020
-    head = The present study provides evidence that host cell entry of SARSCoV-2 depends on the SARS-CoV receptor ACE2 and can be blocked by a clinically proven inhibitor of the cellular serine protease TMPRSS2, which is employed by SARS-CoV-2 for S protein priming. Moreover, it suggests that antibody responses raised against SARS-CoV could at least partially protect against SARSCoV-2 infection.
+    head = The present study reveals important commonalities between SARS-CoV-2 and SARS-CoV infection. It provides evidence that host cell entry of SARSCoV-2 depends on the SARS-CoV receptor ACE2 and can be blocked by a clinically proven inhibitor of the cellular serine protease TMPRSS2. Moreover, it suggests that antibody responses raised against SARS-CoV could at least partially protect against SARSCoV-2 infection.
 
     >>> Abstract
       The recent emergence of the novel, pathogenic SARS-coronavirus 2 (SARS-CoV-2) in China and its rapid national and international spread pose a global health emergency. Cell entry of coronaviruses depends on binding of the viral spike (S) proteins to cellular receptors and on S protein priming by host cell proteases. Unravelling which cellular factors are used by SARS-CoV-2 for entry might provide insights into viral transmission and reveal therapeutic targets. Here, we demonstrate that SARS-CoV-2 uses the SARS-CoV receptor ACE2 for entry and the serine protease TMPRSS2 for S protein priming. A TMPRSS2 inhibitor approved for clinical use blocked entry and might constitute a treatment option. Finally, we show that the sera from convalescent SARS patients cross-neutralized SARS-2- S-driven entry. Our results reveal important commonalities between SARS-CoV-2 and SARS-CoV infection and identify a potential target for antiviral intervention.
@@ -8219,13 +8210,13 @@ feed Research
   // Antibody repertoire and gene expression dynamics of diverse human B cell states during affinity maturation.
   doi:  https://doi.org/10.1101/2020.04.28.054775
   article 'King_et_al_2020
-    head =  By combining bulk antibody repertoire analysis with single-cell transcriptomics we have generated a detailed resource of the human GC response in a model secondary lymphoid tissue. This allowed us to define gene expression signatures of known and novel B cell states, most notably a population primed to undergo class switch recombination before entering the GC reaction. Whether a B cell undergoes class switch recombination at this stage then influences their capacity to undergo antibody-based selection within the GC and secondary activation as MBCs.
+    head =  We define unique gene expression and antibody repertoires of known and novel B cell states, including a pre-germinal centre state primed to undergo class switch recombination. We dissect antibody class-dependent gene expression of germinal centre and memory B cells to find that class switching prior to germinal centre entry dictates the capacity of B cells to undergo antibody-based selection and differentiate.
 
     >>> Abstract
       In response to antigen challenge, B cells clonally expand, undergo selection and differentiate to produce mature B cell subsets and high affinity antibodies. However, the interplay between dynamic B cell states and their antibody-based selection is challenging to decipher in primary human tissue. We have applied an integrated analysis of bulk and single-cell antibody repertoires paired with single-cell transcriptomics of human B cells undergoing affinity maturation. We define unique gene expression and antibody repertoires of known and novel B cell states, including a pre-germinal centre state primed to undergo class switch recombination. We dissect antibody class-dependent gene expression of germinal centre and memory B cells to find that class switching prior to germinal centre entry dictates the capacity of B cells to undergo antibody-based selection and differentiate. Together, our analyses provide unprecedented resolution into the gene expression and selection dynamics that shape B cell-mediated immunity.
 
-    -- exports
-      !a
+    # -- exports
+    #   !a
 
     / April, 2020 - bioRxiv
     let !a self assert = We have used pseudotemporal ordering to map the gene expression dynamics of both the early stages of B cell activation that correspond to antigen-dependent signalling through the BCR and the subsequent transition to a transcriptionally distinct preGC state, the latter of which is presumably under the regulation of cognate antigen-specific T helper cells.
@@ -8803,7 +8794,7 @@ feed Research
   // Aerosol Emission and Superemission During Human Speech Increase With Voice Loudness
   doi: https://doi.org/10.1038/s41598-019-38808-z
   article 'Asadi_et_al_2019
-    head = This paper shows that the rate of particle emission during normal human speech is positively correlated with the loudness (amplitude) of vocalization, ranging from approximately 1 to 50 particles per second (0.06 to 3 particles per cm3) for low to high amplitudes, regardless of the language spoken (English, Spanish, Mandarin, or Arabic). Furthermore, a small fraction of individuals behaves as “speech superemitters,” consistently releasing an order of magnitude more particles than their peers. Our data demonstrate that the phenomenon of speech superemission cannot be fully explained either by the phonic structures or the amplitude of the speech. These results suggest that other unknown physiological factors, varying dramatically among individuals, could affect the probability of respiratory infectious disease transmission, and also help explain the existence of superspreaders who are disproportionately responsible for outbreaks of airborne infectious disease.
+    head = Unknown physiological factors, varying dramatically among individuals, could affect the probability of respiratory infectious disease transmission, and also help explain the existence of superspreaders who are disproportionately responsible for outbreaks of airborne infectious disease.
 
     >>> Abstract
       Mechanistic hypotheses about airborne infectious disease transmission have traditionally emphasized the role of coughing and sneezing, which are dramatic expiratory events that yield both easily visible droplets and large quantities of particles too small to see by eye. Nonetheless, it has long been known that normal speech also yields large quantities of particles that are too small to see by eye, but are large enough to carry a variety of communicable respiratory pathogens. Here we show that the rate of particle emission during normal human speech is positively correlated with the loudness (amplitude) of vocalization, ranging from approximately 1 to 50 particles per second (0.06 to 3 particles per cm3) for low to high amplitudes, regardless of the language spoken (English, Spanish, Mandarin, or Arabic). Furthermore, a small fraction of individuals behaves as “speech superemitters,” consistently releasing an order of magnitude more particles than their peers. Our data demonstrate that the phenomenon of speech superemission cannot be fully explained either by the phonic structures or the amplitude of the speech. These results suggest that other unknown physiological factors, varying dramatically among individuals, could affect the probability of respiratory infectious disease transmission, and also help explain the existence of superspreaders who are disproportionately responsible for outbreaks of airborne infectious disease.
@@ -9121,7 +9112,7 @@ feed Research
     let !a self assert = Diagnostic testing suggests that simple throat swabs will provide sufficient sensitivity at this stage of infection. This is in stark contrast to SARS.
 
     / March, 2020 - Medrxiv
-    let !b self assert = Also, viral load differed considerably. In SARS, it took 7 to 10 days after onset until peak RNA concentrations (of up to 5x105 copies per swab) were reached. In the present study, peak concentrations were reached before day 5, and were more than 1000 times higher. Average viral load was 6.76x10E5 copies per swab during the first 5 days
+    let !b self assert = Viral load differed considerably. In SARS, it took 7 to 10 days after onset until peak RNA concentrations (of up to 5x105 copies per swab) were reached. In the present study, peak concentrations were reached before day 5, and were more than 1000 times higher. Average viral load was 6.76x10E5 copies per swab during the first 5 days
 
     / March, 2020 - Medrxiv
     let !c self assert = Successful live virus isolation from throat swabs is another striking difference from SARS, for which such isolation was rarely successful. Altogether, this suggests active virus replication in upper respiratory tract tissues, where only minimal ACE-2 expression is found and SARS-CoV is therefore not thought to replicate.
@@ -9133,7 +9124,7 @@ feed Research
     let !e self assert = The majority of patients in the present study seemed to be already beyond their shedding peak in upper respiratory tract samples when first tested, while shedding of infectious virus in sputum continued through the first week of symptoms. Together, these findings suggest a more efficient transmission of SARS-CoV-2 than SARS-CoV through active pharyngeal viral shedding at a time when symptoms are still mild and typical of upper respiratory tract infection.
 
     / March, 2020 - Medrxiv
-    let !f self assert = Later in the disease, COVID-19 then resembles SARS in terms of replication in the lower respiratory tract. Of note, the two patients who showed some symptoms of lung affection showed a prolonged viral load in sputum. Studies should look at the prognostic value of an increase of viral load beyond the end of week 1, potentially indicating aggravation of symptoms.
+    let !f self assert = Later in the disease, COVID-19 then resembles SARS in terms of replication in the lower respiratory tract. Of note, the two patients who showed some symptoms of lung affection showed a prolonged viral load in sputum.
 
     / March, 2020 - Medrxiv
     let !g self assert = One of the most interesting hypotheses to explain a potential extension of tropism to the throat is the presence of a polybasic furin-type cleavage site at the S1-S2 junction in the SARS-CoV-2 spike protein that is not present in SARS-CoV.
@@ -9203,7 +9194,7 @@ feed Research
   // Clinical Characteristics and Results of Semen Tests Among Men With Coronavirus Disease 2019
   doi: https://doi.org/10.1001/jamanetworkopen.2020.8292
   article 'Li_et_al_2020d
-    head = The sudy found that SARS-CoV-2 can be present in the semen of patients with COVID-19, and SARS-CoV-2 may still be detected in the semen of recovering patients. Owing to the imperfect blood-testes/deferens/epididymis barriers, SARS-CoV-2 might be seeded to the male reproductive tract, especially in the presence of systemic local inflammation
+    head = SARS-CoV-2 can be present in the semen of patients with COVID-19, and SARS-CoV-2 may still be detected in the semen of recovering patients. Owing to the imperfect blood-testes/deferens/epididymis barriers, SARS-CoV-2 might be seeded to the male reproductive tract, especially in the presence of systemic local inflammation
 
     -- exports
       !a
@@ -9668,7 +9659,7 @@ feed Research
   // Household Secondary Attack Rate of COVID-19 and Associated Determinants
   doi: https://doi.org/10.1101/2020.04.11.20056010
   article 'Jing_et_al_2020
-    head = We found that COVID-19 patients in their incubation period were at least as infectious as during their illness period. SARS-CoV-2 is more transmissible in households than SARS-CoV and MERS-CoV, and the elderly ≥60 years old are the most vulnerable to household transmission. Case finding and isolation alone may be inadequate to contain the pandemic and need to be used in conjunction with heightened restriction of human movement as implemented in Guangzhou.
+    head =  SARS-CoV-2 is more transmissible in households than SARS-CoV and MERS-CoV, and the elderly ≥60 years old are the most vulnerable to household transmission.
 
     >>> Background
       As of April 2, 2020, the global reported number of COVID-19 cases has crossed over 1 million with more than 55,000 deaths. The household transmissibility of SARS-CoV-2, the causative pathogen, remains elusive.
@@ -10779,7 +10770,7 @@ feed Research
   // Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding
   doi: https://doi.org/10.1016/S0140-6736(20)30251-8
   article 'Lu_et_at_2020
-    head = Our phylogenetic analysis of 2019-nCoV, sequenced from nine patients’ samples, showed that the virus belongs to the subgenus Sarbecovirus. 2019-nCoV was more similar to two bat-derived coronavirus strains, bat-SL-CoVZC45 and bat-SL-CoVZXC21, than to known human-infecting coronaviruses, including the virus that caused the SARS outbreak of 2003.
+    head = Phylogenetic analysis revealed that 2019-nCoV fell within the subgenus Sarbecovirus of the genus Betacoronavirus, with a relatively long branch length to its closest relatives bat-SL-CoVZC45 and bat-SL-CoVZXC21, and was genetically distinct from SARS-CoV.
 
     >>> Background
       In late December, 2019, patients presenting with viral pneumonia due to an unidentified microbial agent were reported in Wuhan, China. A novel coronavirus was subsequently identified as the causative pathogen, provisionally named 2019 novel coronavirus (2019-nCoV). As of Jan 26, 2020, more than 2000 cases of 2019-nCoV infection have been confirmed, most of which involved people living in or visiting Wuhan, and human-to-human transmission has been confirmed.
@@ -10800,7 +10791,7 @@ feed Research
       !d
 
     / Jan, 2020 - The Lancet
-    let !a self assert = As a typical RNA virus, the average evolutionary rate for coronaviruses is roughly 10–⁴ nucleotide substitutions per site per year,1 with mutations arising during every replication cycle. It is, therefore, striking that the sequences of 2019-nCoV from different patients described here were almost identical, with greater than 99·9% sequence identity. This finding suggests that 2019-nCoV originated from one source within a very short period and was detected relatively rapidly. However, as the virus transmits to more individuals, constant surveillance of mutations arising is needed.
+    let !a self assert = The sequences of 2019-nCoV from different patients described here were almost identical, with greater than 99·9% sequence identity. This finding suggests that 2019-nCoV originated from one source within a very short period and was detected relatively rapidly.
 
     / Jan, 2020 - The Lancet
     let !b self assert = Phylogenetic analysis showed that bat-derived coronaviruses fell within all five subgenera of the genus Betacoronavirus. Moreover, bat-derived coronaviruses fell in basal positions in the subgenus Sarbecovirus, with 2019-nCoV most closely related to bat-SL-CoVZC45 and bat-SL-CoVZXC21, which were also sampled from bats.
@@ -10815,7 +10806,7 @@ feed Research
   // Receptor Recognition by the Novel Coronavirus from Wuhan: an Analysis Based on Decade-Long Structural Studies of SARS Coronavirus
   doi: https://doi.org/10.1128/JVI.00127-20
   article 'Wan_et_al_2020
-    head = Compared to previously isolated SARS-CoV strains, 2019-nCoV likely uses human ACE2 less efficiently than human SARS-CoV (year 2002) but more efficiently than human SARS-CoV (year 2003). Because ACE2-binding affinity has been shown to be one of the most important determinants of SARS-CoV infectivity, 2019-nCoV has evolved the capability to infect humans and some capability to transmit among humans. Alarmingly, our data predict that a single N501T mutation (corresponding to the S487T mutation in SARS-CoV) may significantly enhance the binding affinity between 2019-nCoV RBD and human ACE2.
+    head = 2019-nCoV likely uses human ACE2 less efficiently than human SARS-CoV (year 2002) but more efficiently than human SARS-CoV (year 2003). 2019-nCoV has evolved the capability to infect humans and some capability to transmit among humans. Alarmingly, our data predict that a single N501T mutation (corresponding to the S487T mutation in SARS-CoV) may significantly enhance the binding affinity between 2019-nCoV RBD and human ACE2.
 
     >>> Abstract
       Recently, a novel coronavirus (2019-nCoV) has emerged from Wuhan, China, causing symptoms in humans similar to those caused by severe acute respiratory syndrome coronavirus (SARS-CoV). Since the SARS-CoV outbreak in 2002, extensive structural analyses have revealed key atomic-level interactions between the SARS-CoV spike protein receptor-binding domain (RBD) and its host receptor angiotensin-converting enzyme 2 (ACE2), which regulate both the cross-species and human-to-human transmissions of SARS-CoV. Here, we analyzed the potential receptor usage by 2019-nCoV, based on the rich knowledge about SARS-CoV and the newly released sequence of 2019-nCoV. First, the sequence of 2019-nCoV RBD, including its receptor-binding motif (RBM) that directly contacts ACE2, is similar to that of SARS-CoV, strongly suggesting that 2019-nCoV uses ACE2 as its receptor. Second, several critical residues in 2019-nCoV RBM (particularly Gln493) provide favorable interactions with human ACE2, consistent with 2019-nCoV’s capacity for human cell infection. Third, several other critical residues in 2019-nCoV RBM (particularly Asn501) are compatible with, but not ideal for, binding human ACE2, suggesting that 2019-nCoV has acquired some capacity for human-to-human transmission. Last, while phylogenetic analysis indicates a bat origin of 2019-nCoV, 2019-nCoV also potentially recognizes ACE2 from a diversity of animal species (except mice and rats), implicating these animal species as possible intermediate hosts or animal models for 2019-nCoV infections. These analyses provide insights into the receptor usage, cell entry, host cell infectivity and animal origin of 2019-nCoV and may help epidemic surveillance and preventive measures against 2019-nCoV.
@@ -10834,7 +10825,7 @@ feed Research
   // The 2019‐new coronavirus epidemic: Evidence for virus evolution
   doi: https://doi.org/10.1002/jmv.25688
   article 'Benvenuto_et_al_2020
-    head =  Fast unconstrained Bayesian approximation analysis shows that the nucleocapsid and the spike glycoprotein have some sites under positive pressure, whereas homology modeling revealed some molecular and structural differences between the viruses. The phylogenetic tree showed that 2019‐nCoV significantly clustered with bat SARS‐like coronavirus sequence isolated in 2015, whereas structural analysis revealed mutation in Spike Glycoprotein and nucleocapsid protein. From these results, the new 2019‐nCoV is distinct from SARS virus, probably trasmitted from bats after mutation conferring ability to infect humans.
+    head =  Nucleocapsid and the spike glycoprotein have some sites under positive pressure, whereas homology modeling revealed some molecular and structural differences between the viruses. 2019‐nCoV significantly clustered with bat SARS‐like coronavirus sequence isolated in 2015, whereas structural analysis revealed mutation in Spike Glycoprotein and nucleocapsid protein.
 
     >>> Abstract
       There is a worldwide concern about the new coronavirus 2019‐nCoV as a global public health threat. In this article, we provide a preliminary evolutionary and molecular epidemiological analysis of this new virus. A phylogenetic tree has been built using the 15 available whole genome sequences of 2019‐nCoV, 12 whole genome sequences of 2019‐nCoV, and 12 highly similar whole genome sequences available in gene bank (five from the severe acute respiratory syndrome, two from Middle East respiratory syndrome, and five from bat SARS‐like coronavirus). Fast unconstrained Bayesian approximation analysis shows that the nucleocapsid and the spike glycoprotein have some sites under positive pressure, whereas homology modeling revealed some molecular and structural differences between the viruses. The phylogenetic tree showed that 2019‐nCoV significantly clustered with bat SARS‐like coronavirus sequence isolated in 2015, whereas structural analysis revealed mutation in Spike Glycoprotein and nucleocapsid protein. From these results, the new 2019‐nCoV is distinct from SARS virus, probably trasmitted from bats after mutation conferring ability to infect humans.
@@ -11979,7 +11970,7 @@ feed Research
   // Full-genome evolutionary analysis of the novel corona virus (2019-nCoV) rejects the hypothesis of emergence as a result of a recent recombination event
   doi: https://doi.org/10.1016/j.meegid.2020.104212
   article 'Paraskevis_et_al_2020
-    head = Our study rejects the hypothesis of emergence as a result of a recent recombination event. Notably, the new coronavirus provides a new lineage for almost half of its genome, with no close genetic relationships to other viruses within the subgenus of sarbecovirus. This genomic part comprises half of the spike region encoding a multifunctional protein responsible also for virus entry into host cells.
+    head = The levels of genetic similarity between the 2019-nCoV and RaTG13 suggest that the latter does not provide the exact variant that caused the outbreak in humans, but the hypothesis that 2019-nCoV has originated from bats is very likely.
 
     >>> Background
       A novel coronavirus (2019-nCoV) associated with human to human transmission and severe human infection has been recently reported from the city of Wuhan in China. Our objectives were to characterize the genetic relationships of the 2019-nCoV and to search for putative recombination within the subgenus of sarbecovirus.
@@ -13746,7 +13737,7 @@ feed Research
   // Seasonality of Respiratory Viral Infections
   doi: https://doi.org/10.1146/annurev-virology-012420-022445
   article 'Moriyama_et_al_2020
-    head =  We review evidence of how outdoor and indoor climates are linked to the seasonality of viral respiratory infections. We further discuss determinants of host response in the seasonality of respiratory viruses by highlighting recent studies in the field.
+    head =  The two major contributing factors are the changes in environmental parameters and human behavior. Studies have revealed the effect of temperature and humidity on respiratory virus stability and transmission rates.
 
     >>> Abstract
       The seasonal cycle of respiratory viral diseases has been widely recognized for thousands of years, as annual epidemics of the common cold and influenza disease hit the human population like clockwork in the winter season in temperate regions. Moreover, epidemics caused by viruses such as severe acute respiratory syndrome coronavirus (SARS-CoV) and the newly emerging SARS-CoV-2 occur during the winter months. The mechanisms underlying the seasonal nature of respiratory viral infections have been examined and debated for many years. The two major contributing factors are the changes in environmental parameters and human behavior. Studies have revealed the effect of temperature and humidity on respiratory virus stability and transmission rates. More recent research highlights the importance of the environmental factors, especially temperature and humidity, in modulating host intrinsic, innate, and adaptive immune responses to viral infections in the respiratory tract. Here we review evidence of how outdoor and indoor climates are linked to the seasonality of viral respiratory infections. We further discuss determinants of host response in the seasonality of respiratory viruses by highlighting recent studies in the field.
@@ -14696,8 +14687,6 @@ feed Research
   article 'Liu_et_al_2020c
     head = Our data indicate that, patients with severe COVID-19 tend to have a high viral load and a long virus-shedding period. This finding suggests that the viral load of SARS-CoV-2 might be a useful marker for assessing disease severity and prognosis.
 
-
-
   # Shedding , AsymptomaticCarriers
   // Temporal dynamics in viral shedding and transmissibility of COVID-19
   doi: https://doi.org/10.1101/2020.03.15.20036707
@@ -14865,14 +14854,14 @@ feed Research
   // Enhanced isolation of SARS-CoV-2 by TMPRSS2-expressing cells
   doi: https://doi.org/10.1073/pnas.2002589117
   article 'Matsuyama_et_al_2020
-    head = Here, we show that a TMPRSS2-expressing VeroE6 cell line is highly susceptible to SARS-CoV-2 infection, making it useful for isolating and propagating SARS-CoV-2. Our results reveal that, in common with SARS- and Middle East respiratory syndrome-CoV, SARS-CoV-2 infection is enhanced by TMPRSS2.
+    head = TMPRSS2-expressing VeroE6 cell line is highly susceptible to SARS-CoV-2 infection, making it useful for isolating and propagating SARS-CoV-2. Our results reveal that, in common with SARS- and Middle East respiratory syndrome-CoV, SARS-CoV-2 infection is enhanced by TMPRSS2.
 
-    >>>
+    >>> Abstract
       A novel betacoronavirus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which caused a large respiratory outbreak in Wuhan, China in December 2019, is currently spreading across many countries globally. Here, we show that a TMPRSS2-expressing VeroE6 cell line is highly susceptible to SARS-CoV-2 infection, making it useful for isolating and propagating SARS-CoV-2. Our results reveal that, in common with SARS- and Middle East respiratory syndrome-CoV, SARS-CoV-2 infection is enhanced by TMPRSS2.
 
-    -- exports
-      !a
-      !b
+    # -- exports
+    #   !a
+    #   !b
 
     / March, 2020 - National Academy of Sciences
     let !a self assert = TMPRSS2-expressing cell lines are highly susceptible to SARS-CoV, MERS-CoV, and SARS-CoV-2, making the VeroE6/TMPRSS2 cell line a suitable contributor to the global surveillance of high-risk CoVs.
@@ -15334,16 +15323,16 @@ feed Research
   // The spike glycoprotein of the new coronavirus 2019-nCoV contains a furin-like cleavage site absent in CoV of the same clade
   doi: https://doi.org/10.1016/j.antiviral.2020.104742
   article 'Coutard_et_al_2020
-    head = We identified a peculiar furin-like cleavage site in the Spike protein of the 2019-nCoV, lacking in the other SARS-like CoVs. In this article, we discuss the possible functional consequences of this cleavage site in the viral cycle, pathogenicity and its potential implication in the development of antivirals.
+    head = A peculiar furin-like cleavage site in the Spike protein of the 2019-nCoV, lacking in the other SARS-like CoVs. The genomic sequence of 2019-nCoV indicates that the virus clusters with betacoronaviruses of lineage b. S-protein sequence has a specific furin-like cleavage site absent in lineage b CoV including SARS-CoV sequences.
 
     >>> Abstract
       In 2019, a new coronavirus (2019-nCoV) infecting Humans has emerged in Wuhan, China. Its genome has been sequenced and the genomic information promptly released. Despite a high similarity with the genome sequence of SARS-CoV and SARS-like CoVs, we identified a peculiar furin-like cleavage site in the Spike protein of the 2019-nCoV, lacking in the other SARS-like CoVs. In this article, we discuss the possible functional consequences of this cleavage site in the viral cycle, pathogenicity and its potential implication in the development of antivirals.
 
-    -- exports
-      !a
-      !b
-      !c
-      !d
+    # -- exports
+    #   !a
+    #   !b
+    #   !c
+    #   !d
 
     / February, 2020 -  Antiviral Research
     let !a self assert = The genomic sequence of 2019-nCoV indicates that the virus clusters with betacoronaviruses of lineage b.
@@ -15361,7 +15350,7 @@ feed Research
   // Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation
   doi: https://doi.org/10.1126/science.abb2507
   article 'Wrapp_et_al_2020
-    head = We find that the structure of 2019-nCoV S should enable the rapid development and evaluation of medical countermeasures to address the ongoing public health crisis.
+    head = We determined a 3.5-angstrom-resolution cryo–electron microscopy structure of the 2019-nCoV S trimer in the prefusion conformation. The predominant state of the trimer has one of the three receptor-binding domains (RBDs) rotated up in a receptor-accessible conformation.
 
     >>> Abstract
       The outbreak of a novel coronavirus (2019-nCoV) represents a pandemic threat that has been declared a public health emergency of international concern. The CoV spike (S) glycoprotein is a key target for vaccines, therapeutic antibodies, and diagnostics. To facilitate medical countermeasure development, we determined a 3.5-angstrom-resolution cryo–electron microscopy structure of the 2019-nCoV S trimer in the prefusion conformation. The predominant state of the trimer has one of the three receptor-binding domains (RBDs) rotated up in a receptor-accessible conformation. We also provide biophysical and structural evidence that the 2019-nCoV S protein binds angiotensin-converting enzyme 2 (ACE2) with higher affinity than does severe acute respiratory syndrome (SARS)-CoV S. Additionally, we tested several published SARS-CoV RBD-specific monoclonal antibodies and found that they do not have appreciable binding to 2019-nCoV S, suggesting that antibody cross-reactivity may be limited between the two RBDs. The structure of 2019-nCoV S should enable the rapid development and evaluation of medical countermeasures to address the ongoing public health crisis.
@@ -15775,13 +15764,13 @@ feed Research
   // Transmission Potential of SARS-CoV-2 in Viral Shedding Observed at the University of Nebraska Medical Center
   doi: https://doi.org/10.1101/2020.03.23.20039446
   article 'Santarpia_et_al_2020
-    head = During the initial isolation of 13 individuals confirmed positive with COVID-19 infection, air and surface samples were collected in eleven isolation rooms to examine viral shedding from isolated individuals. While all individuals were confirmed positive for SARS-CoV-2, symptoms and viral shedding to the environment varied considerably.
+    head = Our study indicates SARS-CoV-2 is shed to the environment as expired particles, during toileting, and through contact with fomites. Disease spread through both direct (droplet and person-to-person) as well as indirect contact (contaminated objects and airborne transmission) are indicated.
 
-    -- exports
-      !a
+    # -- exports
+    #   !a
 
-    / bioRxiv - March, 2020
-    let !a self assert = Our study indicates SARS-CoV-2 is shed to the environment as expired particles, during toileting, and through contact with fomites. Disease spread through both direct (droplet and person-to-person) as well as indirect contact (contaminated objects and airborne transmission) are indicated, supporting the use of airborne isolation precautions.
+    # / bioRxiv - March, 2020
+    # let !a self assert = Our study indicates SARS-CoV-2 is shed to the environment as expired particles, during toileting, and through contact with fomites. Disease spread through both direct (droplet and person-to-person) as well as indirect contact (contaminated objects and airborne transmission) are indicated, supporting the use of airborne isolation precautions.
 
   # Aerosol transmission
   // Aerodynamic Characteristics and RNA Concentration of SARS-CoV-2 Aerosol in Wuhan Hospitals during COVID-19 Outbreak
@@ -15824,7 +15813,7 @@ feed Research
   // Structure, Function, and Antigenicity of the SARS-CoV-2 Spike Glycoprotein
   doi: http://dx.doi.org/10.1016/j.cell.2020.02.058
   article 'Walls_et_al_2020
-    head = We found that the SARS-CoV-2 S glycoprotein harbors a furin cleavage site at the boundary between the S1/S2 subunits. We determined cryo-EM structures of the SARS-CoV-2 S ectodomain trimer. Finally, we demonstrate that SARS-CoV S murine polyclonal antibodies potently inhibited SARS-CoV-2 S mediated entry into cells.
+    head = SARS-CoV-2 S uses ACE2 to enter cells and that the receptor-binding domains of SARS-CoV-2 S and SARS-CoV S bind with similar affinities to human ACE2, correlating with the efficient spread of SARS-CoV-2 among humans.
 
     >>> Abstract
       The emergence of SARS-CoV-2 has resulted in >90,000 infections and >3,000 deaths. Coronavirus spike (S) glycoproteins promote entry into cells and are the main target of antibodies. We show that SARS-CoV-2 S uses ACE2 to enter cells and that the receptor-binding domains of SARS-CoV-2 S and SARS-CoV S bind with similar affinities to human ACE2, correlating with the efficient spread of SARS-CoV-2 among humans. We found that the SARS-CoV-2 S glycoprotein harbors a furin cleavage site at the boundary between the S1/S2 subunits, which is processed during biogenesis and sets this virus apart from SARS-CoV and SARS-related CoVs. We determined cryo-EM structures of the SARS-CoV-2 S ectodomain trimer, providing a blueprint for the design of vaccines and inhibitors of viral entry. Finally, we demonstrate that SARS-CoV S murine polyclonal antibodies potently inhibited SARS-CoV-2 S mediated entry into cells, indicating that cross-neutralizing antibodies targeting conserved S epitopes can be elicited upon vaccination.
@@ -15833,25 +15822,23 @@ feed Research
       !a
       !b
       !c
-      !d
+
 
     / Cell - 2020
-    let !a self assert = SARS-CoV-2 uses ACE2 to enter target cells.
+    let !a self assert = SARS-CoV-2 S glycoprotein harbors a furin cleavage site at the boundary between the S1/S2 subunits, which is processed during biogenesis and sets this virus apart from SARS-CoV and SARS-related CoVs.
 
     / Cell - 2020
-    let !b self assert = SARS-CoV-2 and SARS-CoV bind with similar affinities to ACE2.
+    let !b self assert = We determined cryo-EM structures of the SARS-CoV-2 S ectodomain trimer, providing a blueprint for the design of vaccines and inhibitors of viral entry.
 
     / Cell - 2020
-    let !c self assert = Structures of SARS-CoV-2 spike glycoprotein in two conformations.
+    let !c self assert = SARS-CoV S murine polyclonal antibodies potently inhibited SARS-CoV-2 S mediated entry into cells, indicating that cross-neutralizing antibodies targeting conserved S epitopes can be elicited upon vaccination.
 
-    / Cell - 2020
-    let !d self assert = SARS-CoV polyclonal antibodies inhibit SARS-CoV-2 spike-mediated entry into cells.
 
   # viability
   // Aerosol and surface stability of HCoV-19 (SARS-CoV-2) compared to SARS-CoV-1
   doi: https://doi.org/10.1056/NEJMc2004973
   article 'van_Doremalen_et_al_2020
-    head = Here, we analyze the aerosol and surface stability of HCoV-19 and compare it with SARS-CoV-1, the most closely related human coronavirus.2 We evaluated the stability of HCoV-19 and SARS-CoV-1 in aerosols and on different surfaces and estimated their decay rates using a Bayesian regression model
+    head = Here, we analyze the aerosol and surface stability of HCoV-19 and compare it with SARS-CoV-1, the most closely related human coronavirus. We evaluated the stability of HCoV-19 and SARS-CoV-1 in aerosols and on different surfaces and estimated their decay rates using a Bayesian regression model.
 
     -- Exports
       !a
@@ -15862,7 +15849,7 @@ feed Research
     let !a self assert = SARS-CoV-2 remained viable in aerosols throughout the duration of our experiment (3 hours).
 
     / New England Journal of Medicine - March, 2020
-    let !b self assert = ARS-CoV-2 was more stable on plastic and stainless steel than on copper and cardboard, and viable virus was detected up to 72 hours after application to these surfaces, although the virus titer was greatly reduced.
+    let !b self assert = SARS-CoV-2 was more stable on plastic and stainless steel than on copper and cardboard, and viable virus was detected up to 72 hours after application to these surfaces, although the virus titer was greatly reduced.
 
     / New England Journal of Medicine - March, 2020
     let !c self assert = On cardboard, no viable SARS-CoV-2 was measured after 24 hours.
@@ -15871,7 +15858,7 @@ feed Research
   // Clinical presentation and virological assessment of hospitalized cases of coronavirus disease 2019 in a travel-associated transmission cluster
   doi: https://doi.org/10.1101/2020.03.05.20030502
   article 'Woelfel_et_al_2020
-    head = The present study shows that COVID-19 can often present as a common cold-like illness. SARS-CoV-2 can actively replicate in the upper respiratory tract, and is shed for a prolonged time after symptoms end, including in stool. These findings suggest adjustments of current case definitions and re-evaluation of the prospects of outbreak containment.
+    head = SARS-CoV-2 can actively replicate in the upper respiratory tract, and is shed for a prolonged time after symptoms end, including in stool.
 
     -- Exports
       !a
@@ -15887,19 +15874,12 @@ feed Research
   doi: https://doi.org/10.1016/j.cell.2020.02.052
   citation: Hoffmann, Markus et al. Cell, Volume 0, Issue 0
   article 'Hoffman_et_al_2020
-    head = Here, we demonstrate that SARS-CoV-2 uses the SARS-CoV receptor ACE2 for entry and the serine protease TMPRSS2 for S protein priming. A TMPRSS2 inhibitor approved for clinical use blocked entry and might constitute a treatment option. Finally, we show that the sera from convalescent SARS patients cross-neutralized SARS-2-S-driven entry. Our results reveal important commonalities between SARS-CoV-2 and SARS-CoV infection and identify a potential target for antiviral intervention.
+    head = SARS-CoV-2 uses the SARS-CoV receptor ACE2 for host cell entry. The spike protein of SARS-CoV-2 is primed by TMPRSS2.
 
     -- exports
       !a
-      !b
-      !c
 
-    / Cell - March, 2020
-    let !a self assert = SARS-CoV-2 uses the SARS-CoV receptor ACE2 for host cell entry
-    / Cell - March, 2020
-    let !b self assert = The spike protein of SARS-CoV-2 is primed by TMPRSS2
-    / Cell - March, 2020
-    let !c self assert = Antibodies against SARS-CoV spike may offer some protection against SARS-CoV-2
+    let !a self assert = The sera from convalescent SARS patients cross-neutralized SARS-2-S-driven entry. Our results reveal important commonalities between SARS-CoV-2 and SARS-CoV infection and identify a potential target for antiviral intervention.
 
   # Tag - Transmission
   // Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient
@@ -15907,11 +15887,11 @@ feed Research
   article 'Ong_et_al_2020
     head = Significant environmental contamination by patients with SARS-CoV-2 through respiratory droplets and fecal shedding suggests the environment as a potential medium of transmission and supports the need for strict adherence to environmental and hand hygiene.
 
-    -- exports
-      !a
-
-    / JAMA Network - March, 2020
-    let !a self assert = Significant environmental contamination by patients with SARS-CoV-2 through respiratory droplets and fecal shedding suggests the environment as a potential medium of transmission
+    # -- exports
+    #   !a
+    #
+    # / JAMA Network - March, 2020
+    # let !a self assert = Significant environmental contamination by patients with SARS-CoV-2 through respiratory droplets and fecal shedding suggests the environment as a potential medium of transmission
 
   # Tag - Origin
   // A pneumonia outbreak associated with a new coronavirus of probable bat origin
