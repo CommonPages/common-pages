@@ -10,7 +10,9 @@ To download the database:
 
 To setup the hosts on your machine, run:
 
-  sudo ./app/setup
+  sudo ./app/install-hosts
+  ./app/install-atom
+  ./app/install-ide
 
 To install or update, run:
 
