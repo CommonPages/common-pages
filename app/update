@@ -1,0 +1,20 @@
+#!/bin/bash
+
+mkdir ./app/versions
+
+echo "Downloading latest application..."
+curl http://dist.claimspace.cloud/app/insight-app.tar --output ./app/versions/insight-app.tar
+
+echo "Removing old version..."
+rm -rf ./app/versions/current
+
+echo "Unzipping archive..."
+tar -xzvf ./app/versions/insight-app.tar -C ./app/versions/
+
+echo "Installing current version..."
+mv ./app/versions/data/dist-release ./app/versions/current
+
+echo
+echo "Done"
+echo
+echo "Run the application with: ./app/run"

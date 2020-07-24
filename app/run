@@ -1,0 +1,7 @@
+#!/bin/bash
+
+./app/versions/current/bin/insight-app \
+  -Dhttp.port=80 \
+  -Dapp.environment=author \
+  -J-Xmx3072m \
+  -J-Xms3072m

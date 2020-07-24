@@ -1,0 +1,21 @@
+
+Dependencies
+
+  - Java
+  - Git
+
+To download the database:
+
+  git clone https://github.com/jeffmagee/insight-db.git
+
+To setup the hosts on your machine, run:
+
+  sudo ./app/setup
+
+To install or update, run:
+
+  ./app/update
+
+When complete, run your server with:
+
+  ./app/run
