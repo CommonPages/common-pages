@@ -1,4 +1,0 @@
-INF [20200724-19:07:45.358] graph-client: buildRoute($covid19@claimspace.org/~, degrees=1): 1.seconds+49.milliseconds
-INF [20200724-19:07:45.979] graph-client: get($covid19@claimspace.org, degrees=1): 398.milliseconds
-INF [20200724-19:07:54.720] graph-client: get($covid19@claimspace.org, degrees=1): 315.milliseconds
-INF [20200724-19:07:58.720] graph-client: build($covid19@claimspace.org, degrees=3): 4.seconds+458.milliseconds
