@@ -58,42 +58,35 @@ ref 'Xiao_et_al_02_20_2020
 // Functional assessment of cell entry and receptor usage for SARS-CoV-2 and other lineage B betacoronaviruses
 doi: https://doi.org/10.1038/s41564-020-0688-y
 ref 'Letko_et_al_02_24_2020
-  head = These findings show that even though BHK cells expressing human ACE2 cells support full-length clade 1 spike entry, just having the RBD from a clade 1 virus was insufficient to mediate efficient entry. As seen in our previous experiments, protease treatment did not enhance pseudotype entry in the absence of host receptor.
+  head = These findings show that even though baby hamster kidney (BHK) cells expressing human ACE2 cells support full-length clade 1 spike entry, just having the RBD from a clade 1 virus was insufficient to mediate efficient entry. As seen in our experiments, protease treatment did not enhance pseudotype entry in the absence of host receptor. It alsoo confirm that human ACE2 is the receptor for the recently emerging SARS-CoV-2.
 
   >>> Abstract
     Over the past 20 years, several coronaviruses have crossed the species barrier into humans, causing outbreaks of severe, and often fatal, respiratory illness. Since SARS-CoV was first identified in animal markets, global viromics projects have discovered thousands of coronavirus sequences in diverse animals and geographic regions. Unfortunately, there are few tools available to functionally test these viruses for their ability to infect humans, which has severely hampered efforts to predict the next zoonotic viral outbreak. Here, we developed an approach to rapidly screen lineage B betacoronaviruses, such as SARS-CoV and the recent SARS-CoV-2, for receptor usage and their ability to infect cell types from different species. We show that host protease processing during viral entry is a significant barrier for several lineage B viruses and that bypassing this barrier allows several lineage B viruses to enter human cells through an unknown receptor. We also demonstrate how different lineage B viruses can recombine to gain entry into human cells, and confirm that human ACE2 is the receptor for the recently emerging SARS-CoV-2.
 
-  -- exports
-    !a
-    !b
   -- furin is more dispensable
     !c
-    !d
-  --
-    !e
-    !f
-    !g
+
+
+  # / February, 2020 - Nature Microbiology
+  # let !a self assert = We infected baby hamster kidney (BHK) cells expressing the receptor for SARS-CoV or empty vector and observed that only clade 1, which includes SARS-CoV, could enter cells transfected with human ACE2.
+
+  # / February, 2020 - Nature Microbiology
+  # let !b self assert = In the absence of exogenous protease, only clade 1 infected cells from African green monkey kidney, human gastrointestinal tract, human liver and porcine kidney, in agreement with previous studies. Surprisingly, exogenous protease enhanced entry of a subset of clade 2 spike chimeras in nonhuman primate, bat and human cells. Importantly, VSV-G-pseudotyped particles were able to produce luciferase signal in all cell lines tested in this study.
 
   / February, 2020 - Nature Microbiology
-  let !a self assert = ACE2 entry is lineage B clade 1 specific: All constructs exhibited similar levels of expression in producer cells and incorporation into VSV pseudotypes, except the chimera with BM48-31, which displayed somewhat reduced expression compared with the wild-type SARS spike. We then infected baby hamster kidney (BHK) cells expressing the receptor for SARS-CoV or empty vector and observed that only clade 1, which includes SARS-CoV, could enter cells transfected with human ACE2.
+  let !c self assert = Protease treatment only enhanced entry of clade 1 RBDs on cells expressing human ACE2, but not human DPP4 or APN. No entry was observed with clade 2 or 3 spikes, regardless of receptor or protease addition. In the absence of receptor, no entry was observed for any of the pseudotypes, suggesting that protease-mediated entry is receptor dependent.
 
-  / February, 2020 - Nature Microbiology
-  let !b self assert = Protease enhances clade 2 entry: In the absence of exogenous protease, only clade 1 infected cells from African green monkey kidney, human gastrointestinal tract, human liver and porcine kidney, in agreement with previous studies. Surprisingly, exogenous protease enhanced entry of a subset of clade 2 spike chimeras in nonhuman primate, bat and human cells. Importantly, VSV-G-pseudotyped particles were able to produce luciferase signal in all cell lines tested in this study.
+  # / February, 2020 - Nature Microbiology
+  # let !d self assert = The chimeric SARS–SARS-CoV-2 spike protein expressed was incorporated into particles similarly to other clade 1 chimeric spikes and was capable of entering cells expressing human ACE2, but not any of the other receptors tested.
 
-  / February, 2020 - Nature Microbiology
-  let !c self assert = Clade 2 entry is receptor dependent: Protease treatment only enhanced entry of clade 1 RBDs on cells expressing human ACE2, but not human DPP4 or APN. No entry was observed with clade 2 or 3 spikes, regardless of receptor or protease addition. Human DPP4—a receptor for the lineage C betacoronaviruses—only mediated entry of MERS-CoV, whereas APN only mediated entry of the alphacoronavirus HCoV-229E. In the absence of receptor, no entry was observed for any of the pseudotypes, suggesting that protease-mediated entry is receptor dependent.
+  # / February, 2020 - Nature Microbiology
+  # let !e self assert = Introducing the two loop deletions from clade 1 in clade 2 resulted in reduced spike expression, impaired pseudotype incorporation and loss of cell entry. Restoring these loops in clades 2 and 3 from the loops found in clade 1 did not enhance entry with ACE2 ( 2 → 1 and 3 → 1 (version 1)). Introducing all 14 ACE2 contact points in clade 2 or 3 also failed to restore ACE2 entry (2 → 1 and 3 → 1 (version 2)). Only replacing all 14 contact points and the surrounding amino acids (known as the receptor-binding motif (RBM)) led to increased ACE2 entry with clade 2 and 3 RBDs (2 → 1 (version 3) = clade 2 residues 322–400 + clade 1 residues 400–501; 3 → 1 (version 3) = clade 3 residues 322–385 + clade 1 residues 386–501).
 
-  / February, 2020 - Nature Microbiology
-  let !d self assert = Receptor usage of SARS-CoV-2: The chimeric SARS–SARS-CoV-2 spike protein expressed was incorporated into particles similarly to other clade 1 chimeric spikes and was capable of entering cells expressing human ACE2, but not any of the other receptors tested.
+  # / February, 2020 - Nature Microbiology
+  # let !f self assert = ll chimeric constructs expressed similarly, with the exception of the SARS–BM48-31 RBD chimera, which exhibited reduced expression and incorporation. Protease treatment enhanced entry of both the As6526 clade 2 RBD chimera and full-length spike into Huh cells. Protease treatment had no effect on either the BM48-31 clade 3 chimera or full-length spike. Taken together, these findings show that SARS lineage B RBD chimeras reflect the entry phenotype of full-length lineage B spikes.
 
-  / February, 2020 - Nature Microbiology
-  let !e self assert = Clade determinants for ACE2 usage: Introducing the two loop deletions from clade 1 in clade 2 resulted in reduced spike expression, impaired pseudotype incorporation and loss of cell entry. Restoring these loops in clades 2 and 3 from the loops found in clade 1 did not enhance entry with ACE2 ( 2 → 1 and 3 → 1 (version 1)). Introducing all 14 ACE2 contact points in clade 2 or 3 also failed to restore ACE2 entry (2 → 1 and 3 → 1 (version 2)). Only replacing all 14 contact points and the surrounding amino acids (known as the receptor-binding motif (RBM)) led to increased ACE2 entry with clade 2 and 3 RBDs (2 → 1 (version 3) = clade 2 residues 322–400 + clade 1 residues 400–501; 3 → 1 (version 3) = clade 3 residues 322–385 + clade 1 residues 386–501).
-
-  / February, 2020 - Nature Microbiology
-  let !f self assert = Full spike and RBD chimeras are comparable: ll chimeric constructs expressed similarly, with the exception of the SARS–BM48-31 RBD chimera, which exhibited reduced expression and incorporation. Protease treatment enhanced entry of both the As6526 clade 2 RBD chimera and full-length spike into Huh cells. Protease treatment had no effect on either the BM48-31 clade 3 chimera or full-length spike. Taken together, these findings show that SARS lineage B RBD chimeras reflect the entry phenotype of full-length lineage B spikes.
-
-  / February, 2020 - Nature Microbiology
-  let !g self assert = We replaced the RBD of full-length clade 2 and 3 spike with the consensus clade 1 RBD and tested pseudotypes on cells expressing ACE2. The clade 1 consensus RBD efficiently facilitated entry of both As6526 and BM48-31 spike only following protease treatment.
+  # / February, 2020 - Nature Microbiology
+  # let !g self assert = We replaced the RBD of full-length clade 2 and 3 spike with the consensus clade 1 RBD and tested pseudotypes on cells expressing ACE2. The clade 1 consensus RBD efficiently facilitated entry of both As6526 and BM48-31 spike only following protease treatment.
 
 
 
@@ -101,38 +94,34 @@ ref 'Letko_et_al_02_24_2020
 // Potential Therapeutic Targeting of Coronavirus Spike Glycoprotein Priming
 doi: https://doi.org/xyz
 ref 'Barile_et_al_05_22_2020
-  head = Using anthrax toxin as a model system, we show that in vivo inhibition of priming by pan-active serine protease inhibitors can be effective at suppressing toxicity. Hence, our studies should encourage further efforts in developing either pan-serine protease inhibitors or inhibitor cocktails to target SARS-CoV2 and potentially ward off future pandemics that could develop because of additional mutations in the S-protein priming sequence in coronaviruses.
+  head = Our studies should encourage further efforts in developing either pan-serine protease inhibitors or inhibitor cocktails to target SARS-CoV2 and potentially ward off future pandemics that could develop because of additional mutations in the S-protein priming sequence in coronaviruses.
 
   >>> Abstract
     Processing of certain viral proteins and bacterial toxins by host serine proteases is a frequent and critical step in virulence. The coronavirus spike glycoprotein contains three (S1, S2, and S2′) cleavage sites that are processed by human host proteases. The exact nature of these cleavage sites, and their respective processing proteases, can determine whether the virus can cross species and the level of pathogenicity. Recent comparisons of the genomes of the highly pathogenic SARS-CoV2 and MERS-CoV, with less pathogenic strains (e.g., Bat-RaTG13, the bat homologue of SARS-CoV2) identified possible mutations in the receptor binding domain and in the S1 and S2′ cleavage sites of their spike glycoprotein. However, there remains some confusion on the relative roles of the possible serine proteases involved for priming. Using anthrax toxin as a model system, we show that in vivo inhibition of priming by pan-active serine protease inhibitors can be effective at suppressing toxicity. Hence, our studies should encourage further efforts in developing either pan-serine protease inhibitors or inhibitor cocktails to target SARS-CoV2 and potentially ward off future pandemics that could develop because of additional mutations in the S-protein priming sequence in coronaviruses.
 
-  -- exports
-    !a
-    !b
+  -- virus structure
     !c
+  -- TMPRSS2 appeared more important than furin for the entry
+    !i
+  -- frontier meds
     !d
     !e
     !f
-    !g
-    !h
-    !i
-    !j
     !k
     !l
     !m
-    !n
 
-  / May, 2020 - Molecules
-  let !a self assert = Sequence Analyses of Priming Sequences in Spike Glycoproteins: The pathogenic coronaviruses appear to contain a furin consensus motif in either the S1 or S2′ sites. However, previous data in MERS-CoV (also containing putative furin cleavage sites in both S1 and S2) and SARS-CoV2 indicate that furin is more dispensable than TMPRSS2 for viral entry. While cleavage preferences of TMPRSS2 and other TMPRs are less defined compared to furin, their common consensus motifs follow the order R↓K > R↓R >> R↓X. These simple motifs are the result of the small size of the TMPRSS2 binding site, nearly identical to that of trypsin, compared with the larger binding pocket of furin.
+  # / May, 2020 - Molecules
+  # let !a self assert = The pathogenic coronaviruses appear to contain a furin consensus motif in either the S1 or S2′ sites. While cleavage preferences of TMPRSS2 and other TMPRs are less defined compared to furin, their common consensus motifs follow the order R↓K > R↓R >> R↓X. These simple motifs are the result of the small size of the TMPRSS2 binding site, nearly identical to that of trypsin, compared with the larger binding pocket of furin.
 
-  / May, 2020 - Molecules
-  let !b self assert = Mapping these putative TMPRSS2 cleavage sites in the S1 and S2′ sequences revealed that SARS-CoV2, in contrast with other strains, acquired both a furin and an additional TMPRSS2 efficient cleavage site. Indeed, trypsin (40% identity with TMPRSS2 in the catalytic domain and 90% identical in their binding sites) efficiently cleaves both the SARS-CoV2 S1 and S2′ peptides, although the first is more rapidly processed, likely due to the RR pair in its sequence.
+  # / May, 2020 - Molecules
+  # let !b self assert = Mapping these putative TMPRSS2 cleavage sites in the S1 and S2′ sequences revealed that SARS-CoV2, in contrast with other strains, acquired both a furin and an additional TMPRSS2 efficient cleavage site. Indeed, trypsin efficiently cleaves both the SARS-CoV2 S1 and S2′ peptides, although the first is more rapidly processed, likely due to the RR pair in its sequence.
 
   / May, 2020 - Molecules
   let !c self assert = These observations suggest that both proteases can efficiently and uniquely cleave the S1 site of the highly pathogenic SARS-CoV2. Because TMPRSS2 is abundant in the lungs while furin is more ubiquitously expressed in other organs, we speculate that the increased pathogenicity of SARS-CoV2 may be due to this acquired increased tropism. However, furin is also present intracellularly and may contribute to cleaving the S1 site at the viral egress. This could contribute to the delivery of already pre-primed viral particles that could then more readily infect other cells and organs and/or spread more easily from host to host.
 
   / May, 2020 - Molecules
-  let !d self assert = Cellular and In Vivo Inhibition of Priming Using a Model System: Using the three-dimensional structure of furin in complex with the irreversible inhibitor dec-RVKR-CMK we derived a reversible pan-serine protease inhibitor, compound 1, that can potently inhibit furin (IC50 9 nM) and hPC1/3 (IC50 3 nM). Given that hPC1/3 and furin share similar cleavage preferences, it may be advantageous, if not necessary, for any inhibitor to target both human proteases. Compound 1 is also likely a moderate inhibitor of TMPRSS2 simply based on its RR mimicking motif.
+  let !d self assert = Using the three-dimensional structure of furin in complex with the irreversible inhibitor dec-RVKR-CMK we derived a reversible pan-serine protease inhibitor, compound 1, that can potently inhibit furin (IC50 9 nM) and hPC1/3 (IC50 3 nM). Given that hPC1/3 and furin share similar cleavage preferences, it may be advantageous, if not necessary, for any inhibitor to target both human proteases. Compound 1 is also likely a moderate inhibitor of TMPRSS2 simply based on its RR mimicking motif.
 
   / May, 2020 - Molecules
   let !e self assert = Using trypsin as model enzyme (40% identity with TMPRSS2 in the catalytic domain and >90% identical in their binding sites), compound 1 can inhibit this enzyme at 10 µM. Conversely, the potent and irreversible TMPRSS2 inhibitor camostat is a poor furin inhibitor
@@ -140,17 +129,20 @@ ref 'Barile_et_al_05_22_2020
   / May, 2020 - Molecules
   let !f self assert = Similar to LF/PA anthrax toxin, SARS-CoV infects macrophages, as well as the airway epithelium. Hence, we monitored the ability of compound 1 to protect RAW macrophages from LF/PA-induced cell death. The agent protected RAW macrophages in a dose-dependent manner with EC50 in the low micromolar range indicating a robust cellular inhibition of various possible PA-activating serine proteases, including furin and, potentially, also TMPRSS2.
 
-  / May, 2020 - Molecules
-  let !g self assert = We then conducted preliminary ADME studies to assess the drug-like properties of selected agents to anticipate their use in vivo. To this end, we measured solubility (in PBS buffer, pH = 7.2, T = 25 °C, compound 1 is soluble at concentrations greater than 1 mM), plasma stability (>86% intact after 60 min incubation), and cell permeability (LogPe = −5.7; PAMPA method)
+  # / May, 2020 - Molecules
+  # let !g self assert = We then conducted preliminary ADME studies to assess the drug-like properties of selected agents to anticipate their use in vivo. To this end, we measured solubility (in PBS buffer, pH = 7.2, T = 25 °C, compound 1 is soluble at concentrations greater than 1 mM), plasma stability (>86% intact after 60 min incubation), and cell permeability (LogPe = −5.7; PAMPA method)
+
+  # / May, 2020 - Molecules
+  # let !h self assert = We evaluate the potential of systemic administration of a furin protease inhibitor to prevent priming, using the serine protease dependent anthrax toxin as a model system. In our experiments, a lethal dose of LF (100 µg) and PA (100 µg) anthrax toxins is administered I.V. in Balb/C mice. Using the toxemia rescue model, we designed an experiment in which groups were also injected with either a single dose 3mg/kg (I.P.) of compound 1, or two doses spaced by 2 h, or with vehicle control. All mice in the untreated group perished in roughly 33 h, in agreement with the published studies with this model, while a remarkable and significant increase in both median survival time (MST) and time to death (TTD) was observed in both groups treated with compound 1.
 
   / May, 2020 - Molecules
-  let !h self assert = We evaluate the potential of systemic administration of a furin protease inhibitor to prevent priming, using the serine protease dependent anthrax toxin as a model system. In our experiments, a lethal dose of LF (100 µg) and PA (100 µg) anthrax toxins is administered I.V. in Balb/C mice. Using the toxemia rescue model, we designed an experiment in which groups were also injected with either a single dose 3mg/kg (I.P.) of compound 1, or two doses spaced by 2 h, or with vehicle control. All mice in the untreated group perished in roughly 33 h, in agreement with the published studies with this model, while a remarkable and significant increase in both median survival time (MST) and time to death (TTD) was observed in both groups treated with compound 1.
+  let !i self assert = However, while the S2 site is conserved among various coronavirus strains, the S1 site in SARS-CoV2 contains a furin cleavage site. Most intriguingly, the unusual SARS-CoV2 S1 site may have also acquired an increased cleavage propensity for TMPRSS2. This may explain why TMPRSS2 appeared more important than furin for the entry of the surrogate SARS-CoV2 viral particles in cell.
 
-  / May, 2020 - Molecules
-  let !i self assert = However, while the S2 site is conserved among various coronavirus strains, the S1 site in SARS-CoV2 contains a furin cleavage site. The S1 sequence is located in an exposed unstructured loop in the structure of the SARS-CoV2 spike protein. As a result, no electron density was observed in this loop region in the recently reported Cryo-EM structure. Most intriguingly, the unusual SARS-CoV2 S1 site may have also acquired an increased cleavage propensity for TMPRSS2. This may explain why TMPRSS2 appeared more important than furin for the entry of the surrogate SARS-CoV2 viral particles in cell. However, while TMPRSS2 is abundant in the respiratory tract, furin is more ubiquitously found in many other organs; hence, acquisition of a furin cleavage site most likely increases the tropism and the pathogenicity of the strain.
+  # / May, 2020 - Molecules
+  # let !j self assert = However, while TMPRSS2 is abundant in the respiratory tract, furin is more ubiquitously found in many other organs; hence, acquisition of a furin cleavage site most likely increases the tropism and the pathogenicity of the strain.
 
-  / May, 2020 - Molecules
-  let !j self assert = The common mechanisms of cell trafficking mediated by furin cleavage by both viral fusion proteins and bacterial toxins is striking. For example, anthrax toxin, similar to SARS-CoV2, requires processing of the PA sequence RKKRST to chaperone the internalization of the LF toxin into macrophages. Intriguingly, much like the S1 of SARS-CoV2, the PA cleavage site also contains both furin-like and TMPRSS2-like proteases recognition sites, and it also invades macrophages, making a potentially good model system to study inhibition of priming in vivo.
+  # / May, 2020 - Molecules
+  # let !j self assert = The common mechanisms of cell trafficking mediated by furin cleavage by both viral fusion proteins and bacterial toxins is striking. For example, anthrax toxin, similar to SARS-CoV2, requires processing of the PA sequence RKKRST to chaperone the internalization of the LF toxin into macrophages. Intriguingly, much like the S1 of SARS-CoV2, the PA cleavage site also contains both furin-like and TMPRSS2-like proteases recognition sites, and it also invades macrophages, making a potentially good model system to study inhibition of priming in vivo.
 
   / May, 2020 - Molecules
   let !k self assert = These data clearly suggest that at least for anthrax toxin and likely for other pathogens including SARS-CoV2, furin-targeting pan protease inhibitors could be used as antiviral agents or be deployed prophylactically in emergency medicine in case of pandemic outbreaks in patients that are suspected or at risk of viral infection.
@@ -161,30 +153,21 @@ ref 'Barile_et_al_05_22_2020
   / May, 2020 - Molecules
   let !m self assert = Recently, camostat mesylate, a covalent TMPRSS2 inhibitor already clinically approved for other indications in Japan, has been proposed given that it partially blocked viral entry in surrogate cellular assays. However, we found that camostat mesylate did not appreciably inhibit furin, and while it may attenuate entry at relatively high concentrations (10–50 µM), in our opinion it would do little to prevent furin-mediated egress of partially primed (at S1 site), hence more virulent, SARS-CoV2 viral particles.
 
-  / May, 2020 - Molecules
-  let !n self assert = These development efforts are particularly significant especially for coronaviruses as no viable treatments or vaccines are currently available, and at the same time other future furin-like cross-species transmission in coronaviruses seems likely. Mutations of the cleavage site in either S1 or S2′ of coronavirus strains’ spike glycoprotein can be correlated with pathogenicity, increased tropism, and crossing zoonotic barriers. Unfortunately, one could envision several mutations in SARS-CoV2 (or any other coronavirus strain) that could transform these sequences into more efficient furin and/or dual furin and TMPRSS2 cleavable sites, hence increasing their pathogenicity, virulence, and potential for spread.
 
 
-
-# ORIGIN, FURIN CLEVAGE SITE
+# ORIGIN, FURIN CLEVAGE SITE,
 // SARS-CoV-2 strategically mimics proteolytic activation of human ENaC
 doi: https://doi.org/10.7554/eLife.58603
 ref 'Anand_et_al_05_26_2020
-  head = We report that SARS-CoV-2 has evolved a unique S1/S2 cleavage site, absent in any previous coronavirus sequenced, resulting in the striking mimicry of an identical FURIN-cleavable peptide on the human epithelial sodium channel α-subunit (ENaC-α,a protein critical for the homeostasis of airway surface liquid, whose misregulation is associated with respiratory conditions.) Genetic alteration of ENaC-α causes aldosterone dysregulation in patients, highlighting that the FURIN site is critical for activation of ENaC. Single cell RNA-seq from 66 studies shows significant overlap between expression of ENaC-α and the viral receptor ACE2 in cell types linked to the cardiovascular-renal-pulmonary pathophysiology of COVID-19. Evolution of SARS-CoV-2 into a global pandemic may be driven in part by its targeted mimicry of ENaC-α.
+  head = We report that SARS-CoV-2 has evolved a unique S1/S2 cleavage site, absent in any previous coronavirus sequenced, resulting in the striking mimicry of an identical FURIN-cleavable peptide on the human epithelial sodium channel α-subunit- ENaC-α (a protein critical for the homeostasis of airway surface liquid, whose misregulation is associated with respiratory conditions.) Evolution of SARS-CoV-2 into a global pandemic may be driven in part by its targeted mimicry of ENaC-α.
 
   >>> Abstract
     Molecular mimicry is an evolutionary strategy adopted by viruses to exploit the host cellular machinery. We report that SARS-CoV-2 has evolved a unique S1/S2 cleavage site, absent in any previous coronavirus sequenced, resulting in the striking mimicry of an identical FURIN-cleavable peptide on the human epithelial sodium channel α-subunit (ENaC-α). Genetic alteration of ENaC-α causes aldosterone dysregulation in patients, highlighting that the FURIN site is critical for activation of ENaC. Single cell RNA-seq from 66 studies shows significant overlap between expression of ENaC-α and the viral receptor ACE2 in cell types linked to the cardiovascular-renal-pulmonary pathophysiology of COVID-19. Triangulating this cellular characterization with cleavage signatures of 178 proteases highlights proteolytic degeneracy wired into the SARS-CoV-2 lifecycle. Evolution of SARS-CoV-2 into a global pandemic may be driven in part by its targeted mimicry of ENaC-α, a protein critical for the homeostasis of airway surface liquid, whose misregulation is associated with respiratory conditions.
 
-  -- exports
+  -- structure
     !a
+  -- origin
     !b
-    !c
-    !d
-    !e
-    !f
-    !g
-    !h
-    !i
 
   / May, 2020 - eLife Sciences
   let !a self assert = Comparing human-infecting SARS-CoV-2 with SARS-CoV strains, as well as with candidates of zoonotic origin (Pangolin-CoV and Bat-CoV RaTG13), shows that SARS-CoV-2 has evolved a unique sequence insertion at the S1/S2 site. Although the S protein of SARS-CoV-2 shares high sequence identity with the S proteins of Pangolin-CoV (92%) and Bat-CoV RaTG13 (97%), the furin insertion site seems to be uniquely acquired by SARS-CoV-2.
@@ -192,26 +175,30 @@ ref 'Anand_et_al_05_26_2020
   / May, 2020 - eLife Sciences
   let !b self assert = The resulting tribasic 8-mer peptide (RRARSVAS) on the SARS-CoV-2 S1/S2 site is conserved among 10,956 of 10,967 circulating strains deposited at GISAID, as of April 28, 2020. This peptide is also absent in over 13,000 non-COVID-19 coronavirus S-proteins from the VIPR database.
 
-  / May, 2020 - eLife Sciences
-  let !c self assert = Examining over 10 million peptides (8-mers) of 20,350 canonical human proteins from UniProtKB shows that the peptide of interest (RRARSVAS) is present exclusively in human ENaC-ɑ, also known as SCNN1A (p-value=4E-4). The location of this SARS-CoV-2 mimicked peptide in the ENaC-ɑ structure is in the extracellular domain. This suggests that the SARS-CoV-2 may have specifically evolved to mimic a human protease substrate.
+  # / May, 2020 - eLife Sciences
+  # let !c self assert = Examining over 10 million peptides (8-mers) of 20,350 canonical human proteins from UniProtKB shows that the peptide of interest (RRARSVAS) is present exclusively in human ENaC-ɑ, also known as SCNN1A (p-value=4E-4). The location of this SARS-CoV-2 mimicked peptide in the ENaC-ɑ structure is in the extracellular domain. This suggests that the SARS-CoV-2 may have specifically evolved to mimic a human protease substrate.
 
-  / May, 2020 - eLife Sciences
-  let !d self assert = It is conceivable that human ENaC activation may be compromised in SARS-CoV-2 infected cells, for instance by SARS-CoV-2 exploiting host FURIN for its own activation. The likely consequence would be low ENaC activity on the surface of the airways leading to compromised fluid reabsorption, an important lung pathology in COVID-19 patients with acute respiratory distress syndrome (ARDS). Indeed, the exact mechanism of SARS-CoV-2’s potential impact of ENaC activation needs to be investigated.
+  # / May, 2020 - eLife Sciences
+  # let !d self assert = It is conceivable that human ENaC activation may be compromised in SARS-CoV-2 infected cells, for instance by SARS-CoV-2 exploiting host FURIN for its own activation. The likely consequence would be low ENaC activity on the surface of the airways leading to compromised fluid reabsorption, an important lung pathology in COVID-19 patients with acute respiratory distress syndrome (ARDS). Indeed, the exact mechanism of SARS-CoV-2’s potential impact of ENaC activation needs to be investigated.
 
-  / May, 2020 - eLife Sciences
-  let !e self assert = Systematic single cell expression profiling of the ACE2 receptor and ENaC-ɑ was performed across human and mouse samples comprising ~1.3 million cells. Interestingly, ENaC-ɑ is expressed in the nasal epithelial cells, type II alveolar cells of the lungs, tongue keratinocytes, and colon enterocytes, which are all implicated in COVID-19 pathophysiology. Further, ACE2 and ENaC-ɑ are known to be expressed generally in the apical membranes of polarized epithelial cells. The overlap of the cell-types expressing ACE2 and ENaC-ɑ, and similar spatial distributions at the apical surfaces, suggest that SARS-CoV-2 may be leveraging the protease network responsible for ENaC cleavage.
+  # / May, 2020 - eLife Sciences
+  # let !e self assert = Systematic single cell expression profiling of the ACE2 receptor and ENaC-ɑ was performed across human and mouse samples comprising ~1.3 million cells. Interestingly, ENaC-ɑ is expressed in the nasal epithelial cells, typse II alveolar cells of the lungs, tongue keratinocytes, and colon enterocytes, which are all implicated in COVID-19 pathophysiology. Further, ACE2 and ENaC-ɑ are known to be expressed generally in the apical membranes of polarized epithelial cells. The overlap of the cell-types expressing ACE2 and ENaC-ɑ, and similar spatial distributions at the apical surfaces, suggest that SARS-CoV-2 may be leveraging the protease network responsible for ENaC cleavage.
 
-  / May, 2020 - eLife Sciences
-  let !f self assert = This shows that FURIN (PCSK3) has overall proteolytic similarity to select PCSK family members, specifically PCSK5 (0.99), PCSK7 (0.99), PCSK6 (0.99), PCSK4 (0.98), and PCSK2 (0.94) (Supplementary file 1b). It is also known that the protease PLG cleaves the ɣ-subunit of ENaC (ENaC-ɣ)(Passero et al., 2008).
+  # / May, 2020 - eLife Sciences
+  # let !f self assert = This shows that FURIN (PCSK3) has overall proteolytic similarity to select PCSK family members, specifically PCSK5 (0.99), PCSK7 (0.99), PCSK6 (0.99), PCSK4 (0.98), and PCSK2 (0.94). It is also known that the protease PLG cleaves the ɣ-subunit of ENaC (ENaC-ɣ).
 
-  / May, 2020 - eLife Sciences
-  let !g self assert = This analysis shows that FURIN is expressed with ACE2 and ENaC-ɑ in the colon (immature enterocytes, transit amplifying cells) and pancreas (ductal cells, acinar cells) of human tissues, as well as tongue (keratinocytes) of mouse tissues. PCSK5 and PCSK7 are broadly expressed across multiple cell types with ACE2 and ENaC-ɑ, making it a plausible broad-spectrum protease that may cleave the S1/S2 site. In humans, concomitant with ACE2 and ENaC-ɑ, PCSK6 appears to be expressed in cells from the intestines, pancreas, and lungs, whereas PCSK2 is noted to be co-expressed in the pancreas. It is worth noting that the extracellular proteases need not necessarily be expressed in the same cells as ACE2 and ENaC-ɑ.
+  # / May, 2020 - eLife Sciences
+  # let !g self assert = This analysis shows that FURIN is expressed with ACE2 and ENaC-ɑ in the colon (immature enterocytes, transit amplifying cells) and pancreas (ductal cells, acinar cells) of human tissues, as well as tongue (keratinocytes) of mouse tissues. PCSK5 and PCSK7 are broadly expressed across multiple cell types with ACE2 and ENaC-ɑ, making it a plausible broad-spectrum protease that may cleave the S1/S2 site.
 
-  / May, 2020 - eLife Sciences
-  let !h self assert = Among the PCSK family members with the potential to cleave the mimicked 8-mer peptide, it is intriguing that the same tissue can house multiple proteases and also that multiple tissues do share the same set of proteases.
+  # / May, 2020 - eLife Sciences
+  # let !h self assert = In humans, concomitant with ACE2 and ENaC-ɑ, PCSK6 appears to be expressed in cells from the intestines, pancreas, and lungs, whereas PCSK2 is noted to be co-expressed in the pancreas. It is worth noting that the extracellular proteases need not necessarily be expressed in the same cells as ACE2 and ENaC-ɑ.
 
-  / May, 2020 - eLife Sciences
-  let !i self assert =  Our findings emphasize that redundancy may be wired into the mechanisms of host proteolytic activation of SARS-CoV-2. This study should stimulate the design of experiments that confirm the working hypothesis generated by our unbiased and systematic computational analysis. The mimicry of a cleavable host peptide central to pulmonary, renal, and cardiovascular function provides a new perspective to the evolution of SARS-CoV-2 in causing a global coronavirus pandemic.
+  # / May, 2020 - eLife Sciences
+  # let !i self assert = Single cell RNA-seq from 66 studies shows significant overlap between expression of ENaC-α and the viral receptor ACE2 in cell types linked to the cardiovascular-renal-pulmonary pathophysiology of COVID-19.
+
+  # / May, 2020 - eLife Sciences
+  # let !j self assert = Among the PCSK family members with the potential to cleave the mimicked 8-mer peptide, it is intriguing that the same tissue can house multiple proteases and also that multiple tissues do share the same set of proteases.
+
 
 
 
@@ -219,7 +206,7 @@ ref 'Anand_et_al_05_26_2020
 // A Multibasic Cleavage Site in the Spike Protein of SARS-CoV-2 Is Essential for Infection of Human Lung Cells
 doi: https://doi.org/10.1016/j.molcel.2020.04.022
 ref 'Hoffmann_et_al_05_21_2020
-  head = The role of this multibasic cleavage site in SARS-CoV-2 infection is unknown. Here, we report that the cellular protease furin cleaves the spike protein at the S1/S2 site and that cleavage is essential for S-protein-mediated cell-cell fusion and entry into human lung cells. Moreover, optimizing the S1/S2 site increased cell-cell, but not virus-cell, fusion, suggesting that the corresponding viral variants might exhibit increased cell-cell spread and potentially altered virulence. Our results suggest that acquisition of a S1/S2 multibasic cleavage site was essential for SARS-CoV-2 infection of humans and identify furin as a potential target for therapeutic intervention.
+  head = We report that the cellular protease furin cleaves the spike protein at the S1/S2 site and that cleavage is essential for S-protein-mediated cell-cell fusion and entry into human lung cells. Moreover, optimizing the S1/S2 site increased cell-cell, but not virus-cell, fusion, suggesting that the corresponding viral variants might exhibit increased cell-cell spread and potentially altered virulence. Our results suggest that acquisition of a S1/S2 multibasic cleavage site was essential for SARS-CoV-2 infection of humans and identify furin as a potential target for therapeutic intervention.
 
   >>> Summary
     The pandemic coronavirus SARS-CoV-2 threatens public health worldwide. The viral spike protein mediates SARS-CoV-2 entry into host cells and harbors a S1/S2 cleavage site containing multiple arginine residues (multibasic) not found in closely related animal coronaviruses. However, the role of this multibasic cleavage site in SARS-CoV-2 infection is unknown. Here, we report that the cellular protease furin cleaves the spike protein at the S1/S2 site and that cleavage is essential for S-protein-mediated cell-cell fusion and entry into human lung cells. Moreover, optimizing the S1/S2 site increased cell-cell, but not virus-cell, fusion, suggesting that the corresponding viral variants might exhibit increased cell-cell spread and potentially altered virulence. Our results suggest that acquisition of a S1/S2 multibasic cleavage site was essential for SARS-CoV-2 infection of humans and identify furin as a potential target for therapeutic intervention.
@@ -227,20 +214,20 @@ ref 'Hoffmann_et_al_05_21_2020
   -- exports
     !a
     !b
+  -- frontier for meds
     !c
-    !d
 
   / May, 2020 - Molecular Cell
-  let !a self assert = The Multibasic S1/S2 Site in the Spike Protein of SARS-CoV-2 Is Required for Efficient Proteolytic Cleavage of the Spike Protein:  Exchange of the S1/S2 site of SARS-2-S against those of SARS-S and RaTG13-S abrogated cleavage, and this effect was also seen when the multibasic motif was deleted . Moreover, insertion of an additional arginine residue jointly with an alanine-to-lysine exchange at the S1/S2 site did not appreciably increase cleavability. Finally, insertion of the S1/S2 site of SARS-2-S into SARS-S increased S protein cleavability while insertion of the RaTG13 S1/S2 site did not. These results indicate that the presence of several arginine residues at the S1/S2 site is required for efficient SARS-2-S proteolytic processing in human cells and also confers high cleavability to SARS-S.
+  let !a self assert = The results indicate that the presence of several arginine residues at the S1/S2 site is required for efficient SARS-2-S proteolytic processing in human cells and also confers high cleavability to SARS-S.
 
   / May, 2020 - Molecular Cell
-  let !b self assert = Furin Cleaves the SARS-CoV-2 Spike Protein at the S1/S2 Site, and Cleavage Is Required for Efficient Cell-Cell Fusion: Finally, the addition of an arginine residue to the S1/S2 site of SARS-2-S jointly with alanine-to-lysine exchange strongly increased syncytium formation, indicating that viral variants with optimized S1/S2 sites might show augmented cell-cell spread and potentially altered pathogenicity. Thus, the S1/S2 site of SARS-2-S is required for cell-cell fusion, and this process can be augmented by adding basic residues to the S1/S2 site.
+  let !b self assert = The addition of an arginine residue to the S1/S2 site of SARS-2-S jointly with alanine-to-lysine exchange strongly increased syncytium formation, indicating that viral variants with optimized S1/S2 sites might show augmented cell-cell spread and potentially altered pathogenicity. Thus, the S1/S2 site of SARS-2-S is required for cell-cell fusion, and this process can be augmented by adding basic residues to the S1/S2 site.
 
   / May, 2020 - Molecular Cell
-  let !c self assert = We finally examined the importance of the S1/S2 site for S-protein-mediated virus-cell fusion. Blockade of SARS-2-S cleavage at the S1/S2 site (mutants SARS-2-S (SARS), SARS-2-S (RaTG), and SARS-2-S (delta)) abrogated entry into the TMPRSS2+ human lung cell line Calu-3, in which the cathepsin B/L-dependent S protein activation pathway is not sufficiently available. In contrast, entry into TMPRSS2− Vero cells, which is known to be cathepsin B/L dependent, was not affected by these mutations, in keeping with results reported by Walls and colleagues.
+  let !c self assert = Blockade of SARS-2-S cleavage at the S1/S2 site (mutants SARS-2-S (SARS), SARS-2-S (RaTG), and SARS-2-S (delta)) abrogated entry into the TMPRSS2+ human lung cell line Calu-3, in which the cathepsin B/L-dependent S protein activation pathway is not sufficiently available. In contrast, entry into TMPRSS2− Vero cells, which is known to be cathepsin B/L dependent, was not affected by these mutations.
 
-  / May, 2020 - Molecular Cell
-  let !d self assert = Cleavage of the SARS-CoV-2 Spike Protein at the S1/S2 Site Is Required for Viral Entry into Human Lung Cells: Optimization of the S1/S2 site did not increase entry into the cell lines tested; it slightly decreased entry into both Vero and Calu-3 cells, for, at present, unclear reasons. Finally, alterations of the S1/S2 site of SARS-S did not augment entry efficiency. Collectively, these results demonstrate that a multibasic S1/S2 site is essential for SARS-2-S-driven entry into human lung cells while a monobasic site is sufficient for SARS-S.
+  # / May, 2020 - Molecular Cell
+  # let !d self assert = Optimization of the S1/S2 site did not increase entry into the cell lines tested; it slightly decreased entry into both Vero and Calu-3 cells, for, at present, unclear reasons. Finally, alterations of the S1/S2 site of SARS-S did not augment entry efficiency. Collectively, these results demonstrate that a multibasic S1/S2 site is essential for SARS-2-S-driven entry into human lung cells while a monobasic site is sufficient for SARS-S.
 
 
 
@@ -1179,7 +1166,6 @@ ref 'Sharma_et_al_07_08_2020
 
   -- exports
     !a
-    !a
     !b
     !c
     !d
@@ -1847,8 +1833,9 @@ ref 'Sharma_et_al_07_08_2020
   >>> Abstract
     In a side-by-side comparison of evolutionary dynamics between the 2019/2020 SARS-CoV-2 and the 2003 SARS-CoV, we were surprised to find that SARS-CoV-2 resembles SARS-CoV in the late phase of the 2003 epidemic after SARS-CoV had developed several advantageous adaptations for human transmission. Our observations suggest that by the time SARS-CoV-2 was first detected in late 2019, it was already pre-adapted to human transmission to an extent similar to late epidemic SARS-CoV. However, no precursors or branches of evolution stemming from a less human-adapted SARS-CoV-2-like virus have been detected. The sudden appearance of a highly infectious SARS-CoV-2 presents a major cause for concern that should motivate stronger international efforts to identify the source and prevent near future re-emergence. Any existing pools of SARS-CoV-2 progenitors would be particularly dangerous if similarly well adapted for human transmission. To look for clues regarding intermediate hosts, we analyze recent key findings relating to how SARS-CoV-2 could have evolved and adapted for human transmission, and examine the environmental samples from the Wuhan Huanan seafood market. Importantly, the market samples are genetically identical to human SARS-CoV-2 isolates and were therefore most likely from human sources. We conclude by describing and advocating for measured and effective approaches implemented in the 2002-2004 SARS outbreaks to identify lingering population(s) of progenitor virus.
 
-  -- exports
+  -- D614G
     !g
+  --
     !j
     !p
     !q
@@ -1874,13 +1861,16 @@ ref 'Sharma_et_al_07_08_2020
   # let !f self assert = In consideration that several therapies and antibodies in development target the SARS-CoV-2 S, it is important to track non-synonymous substitutions and predict the evolution of resistance. In contrast, the majority of the non-synonymous substitutions in SARS-CoV-2 S are distributed across the gene at low frequency and have not been reported to confer adaptive benefit. Yet, the SARS-CoV2 S has been demonstrated to bind more strongly to human ACE2 and has a superior plasma membrane fusion capacity compared to the SARS-CoV S.
 
   / May, 2020 - bioRxiv
-  let !g self assert = The only site of notable entropy in the SARS-CoV-2 S, D614G, lies outside of the RBD and is not predicted to impact the structure or function of the protein. Its prevalence in international COVID-19 cases has been attributed to the substitution occurring early in the pandemic leading to a founder’s effect. There is no evidence of a more virulent strain of SARS-CoV-2 emerging despite passage through more than 3 million human hosts by the time of this analysis.
+  let !g self assert = The only site of notable entropy in the SARS-CoV-2 S, D614G, lies outside of the RBD and is not predicted to impact the structure or function of the protein. Its prevalence in international COVID-19 cases has been attributed to the substitution occurring early in the pandemic leading to a founder’s effect.
+
+  # / May, 2020 - bioRxiv
+  # let !g self assert = There is no evidence of a more virulent strain of SARS-CoV-2 emerging despite passage through more than 3 million human hosts by the time of this analysis.
 
   # / May, 2020 - bioRxiv
   # let !i self assert = The pairwise comparisons of dN and dS, alongside a dearth of signs of emerging adaptive mutations, suggest that by the time SARS-CoV-2 was first detected in late 2019, it was already well adapted for human transmission to an extent more similar to late epidemic than to early-to mid epidemic SARS-CoV.
 
   / May, 2020 - bioRxiv
-  let !j self assert = In comparison to the SARS-CoV epidemic, the SARS-CoV-2 epidemic appears to be missing an early phase during which the virus would be expected to accumulate adaptive mutations for human transmission. In the case of SARS-CoV, the less human-adapted SARS-CoV progenated multiple branches of evolution in both humans and animals. In contrast, SARS-CoV-2 appeared without peer in late 2019, suggesting that there was a single introduction of the human-adapted form of the virus into the human population. 
+  let !j self assert = In comparison to the SARS-CoV epidemic, the SARS-CoV-2 epidemic appears to be missing an early phase during which the virus would be expected to accumulate adaptive mutations for human transmission. In the case of SARS-CoV, the less human-adapted SARS-CoV progenated multiple branches of evolution in both humans and animals. In contrast, SARS-CoV-2 appeared without peer in late 2019, suggesting that there was a single introduction of the human-adapted form of the virus into the human population.
 
   # / May, 2020 - bioRxiv
   # let !k self assert = It is important to identify the route by which SARS-CoV-2 adapted for human transmission. However, there is presently little evidence to definitively support any particular scenario of SARS-CoV-2 adaptation. Even the possibility that a non-genetically-engineered precursor could have adapted to humans while being studied in a laboratory should be considered, regardless of how likely or unlikely.
@@ -1915,88 +1905,68 @@ ref 'Sharma_et_al_07_08_2020
   // The SARS-CoV-2 Spike Protein D614G Mutation Shows Increasing Dominance and May Confer a Structural Advantage to the Furin Cleavage Domain
   doi: https://doi.org/10.20944/preprints202005.0407.v1
   ref 'Tang_et_al_05_24_2020
-  head = The observed dominance and dramatic increase over time of the D614G mutation points to a competitive advantage. While the impact of the mutation on the mortality and morbidity of COVID-19 virus has yet to be determined, our analysis suggests a functional advantage offered by this single amino acid mutation in the SARS-CoV-2 S protein. Our homology modeling results suggest a potential mechanism whereby the D614G mutation may confer a competitive advantage at the furin binding domain that may contribute to the rise of the D614G SARS-CoV-2 mutant. The rise of the D614G mutation and its effect on the furin cleavage domain of the S protein suggests the mutation will have an important role in COVID-19 epidemiology and the design of therapeutic interventions.
+  head = Our homology modeling studies suggest a potential mechanism whereby the D614G mutation may confer a competitive advantage at the furin binding domain that may contribute to the rise of the D614G SARS-CoV-2 mutant.
 
   >>> Abstract
     We analyzed the SARS-CoV-2 spike (S) protein amino acid sequence extracted from 11,542 viral genomic sequences submitted to the Global Initiative on Sharing All Influenza Data (GISAID) database through April 27, 2020. Consistent with prior reports, we found a major S protein mutation, D614 to G614, that was represented in 56% of all the analyzed sequences. All other mutations combined were less than 10%. After parsing the data geographically, we found most of the Chinese patient samples showed D614 (97%). By contrast, most patient samples in many European countries showed G614 (51 to 88%). In the United States, the genotypic distribution in California and Washington was similar to Asian countries, while the distribution in other US states was comparable to Europe. We observed a dramatic increase in the frequency of G614 over time in multiple regions, surpassing D614 when both were present, suggesting G614 S protein virus outcompetes D614 S protein virus. To gain insight into the consequences of the D614G mutation, homology modeling using a multi-template threading mechanism with ab initio structural refinement was performed for a region of the S protein (S591 to N710) spanning the D614G mutation and the S1 furin cleavage site. Molecular models of this region containing D614 or G614 revealed a major difference in secondary structure at the furin domain (RRARS, R682 to S686). The D614 model predicted a random coil structure in the furin domain whereas the G614 model predicted an alpha helix. Critical residues in the cleavage domain of G614 model were found to better align with the PDB structure of a furin inhibitor. Thus, homology modeling studies suggest a potential mechanism whereby the D614G mutation may confer a competitive advantage at the furin binding domain that may contribute to the rise of the D614G SARS-CoV-2 mutant.
 
   -- exports
-    !a
     !b
-    !c
     !d
-    !e
-    !f
-    !g
-    !h
-    !i
-    !j
-    !k
-    !l
-    !m
-    !n
-    !o
-    !p
-    !q
-    !r
-    !s
+
+  # / May, 2020 - Preprints
+  # let !a self assert = Consistent with prior reports, we found a major S protein mutation, D614 to G614, that was represented in 56% of all the analyzed sequences. All other mutations combined were less than 10%. We noted the S protein amino acid sequence for 4,096 (35.49%) of the viral genomes sampled are identical to the Wuhan reference strain.
 
   / May, 2020 - Preprints
-  let !a self assert = Consistent with prior reports, we found a major S protein mutation, D614 to G614, that was represented in 56% of all the analyzed sequences. All other mutations combined were less than 10%.
+  let !b self assert = Among the mutations examined, we identified one mutation, a single amino acid substitution D614G, occurring in 6,477 sequences (56.12%). This mutation is well above all other mutations combined (8.39%) and surpasses the originating S protein sequence (35.49%) from the Wuhan reference strain.
 
-  / May, 2020 - Preprints
-  let !b self assert = Spectrum of mutations in the SARS-CoV-2 S protein amid pandemic: Along the entire S protein amino acid sequence, we identified mutations at a total of 107 positions. We noted the S protein amino acid sequence for 4,096 (35.49%) of the viral genomes sampled are identical to the Wuhan reference strain. Among the mutations examined, we identified one mutation, a single amino acid substitution D614G, occurring in 6,477 sequences (56.12%). This mutation is well above all other mutations combined (8.39%) and surpasses the originating S protein sequence (35.49%) from the Wuhan reference strain.
-
-  / May, 2020 - Preprints
-  let !c self assert = The next most prevalent mutations are P1263L (0.67%), L5F (0.51%), D936Y (0.37%), and G1124V (0.37%). A total of 102 remaining mutations comprise 6.47% of the sampled genomes in our study. These are scattered mutations of very low frequency (<0.3%), most are single amino acid substitutions, and they do not include the D614G mutation. In addition, there are also insertions and deletions (up to 4) of amino acids, but those represent a very small fraction (<0.05%) of the sequences analyzed (Supporting Information S1). The majority of the changes in the Wuhan S protein sequence are the D614G mutation. Both the Wuhan S and D614G mutant viruses appear to have stable S protein sequences.
+  # / May, 2020 - Preprints
+  # let !c self assert = The next most prevalent mutations are P1263L (0.67%), L5F (0.51%), D936Y (0.37%), and G1124V (0.37%). A total of 102 remaining mutations comprise 6.47% of the sampled genomes in our study. These are scattered mutations of very low frequency (<0.3%), most are single amino acid substitutions, and they do not include the D614G mutation. The majority of the changes in the Wuhan S protein sequence are the D614G mutation. Both the Wuhan S and D614G mutant viruses appear to have stable S protein sequences.
 
   / May, 2020 - Preprints
   let !d self assert = After parsing the data geographically, we found most of the Chinese patient samples showed D614 (97%). By contrast, most patient samples in many European countries showed G614 (51 to 88%). In the United States, the genotypic distribution in California and Washington was similar to Asian countries, while the distribution in other US states was comparable to Europe.
 
-  / May, 2020 - Preprints
-  let !e self assert = We observed a dramatic increase in the frequency of G614 over time in multiple regions, surpassing D614 when both were present, suggesting G614 S protein virus outcompetes D614 S protein virus.
+  # / May, 2020 - Preprints
+  # let !e self assert = We observed a dramatic increase in the frequency of G614 over time in multiple regions, surpassing D614 when both were present, suggesting G614 S protein virus outcompetes D614 S protein virus.
 
-  / May, 2020 - Preprints
-  let !f self assert = Molecular models of this region containing D614 or G614 revealed a major difference in secondary structure at the furin domain (RRARS, R682 to S686). The D614 model predicted a random coil structure in the furin domain whereas the G614 model predicted an alpha helix. Critical residues in the cleavage domain of G614 model were found to better align with the PDB structure of a furin inhibitor.
+  # / May, 2020 - Preprints
+  # let !f self assert = Molecular models of this region containing D614 or G614 revealed a major difference in secondary structure at the furin domain (RRARS, R682 to S686). The D614 model predicted a random coil structure in the furin domain whereas the G614 model predicted an alpha helix. Critical residues in the cleavage domain of G614 model were found to better align with the PDB structure of a furin inhibitor.
 
-  / May, 2020 - Preprints
-  let !g self assert = Consistent with reports from others, we have identified a major mutation in the S protein gene at position th 614. Interestingly, this mutant S protein appeared early in China (January 24 , 2020), and 4 days later appeared in Germany, but it was not widespread in the data until March where massive infection hit regions like Europe and the Northeastern United States. It is very likely that the virus with the D614G mutation that appeared in the first Chinese and German patients are related. The virus that infected the German patient coincided with the beginning of the spread throughout Europe.
+  # / May, 2020 - Preprints
+  # let !g self assert = Consistent with reports from others, we have identified a major mutation in the S protein gene at position th 614. Interestingly, this mutant S protein appeared early in China (January 24 , 2020), and 4 days later appeared in Germany, but it was not widespread in the data until March where massive infection hit regions like Europe and the Northeastern United States. It is very likely that the virus with the D614G mutation that appeared in the first Chinese and German patients are related. The virus that infected the German patient coincided with the beginning of the spread throughout Europe.
 
-  / May, 2020 - Preprints
-  let !h self assert = We have observed different frequencies of D614G mutation vs. Wuhan S in various parts of the world.The Wuhan reference sequence was first uploaded early in China and quickly established itself. Wuhan S also appeared early in Japan, California, Washington, and Canada. As of the last sample sequenced in the dataset for these areas, Wuhan S remained the predominant genotype. Frequencies for the Wuhan S and D614G sequences rose to equivalent levels in Wales at which point sampling ceased.
+  # / May, 2020 - Preprints
+  # let !h self assert = We have observed different frequencies of D614G mutation vs. Wuhan S in various parts of the world. The Wuhan reference sequence was first uploaded early in China and quickly established itself. Wuhan S also appeared early in Japan, California, Washington, and Canada. As of the last sample sequenced in the dataset for these areas, Wuhan S remained the predominant genotype. Frequencies for the Wuhan S and D614G sequences rose to equivalent levels in Wales at which point sampling ceased.
 
-  / May, 2020 - Preprints
-  let !i self assert = When the virus appeared in Europe, the D614G genotype spread very quickly and rapidly dominated that area. Wuhan S was also found in all European countries at significant levels. However, in multiple countries with similar sampling periods, and where D614G and Wuhan S arose at similar times, D614G became the dominant genotype. In France and Australia, where Wuhan S appeared at least 30 days before D614G, D614G became the predominant genotype at the end of the sampling period.
+  # / May, 2020 - Preprints
+  # let !i self assert = When the virus appeared in Europe, the D614G genotype spread very quickly and rapidly dominated that area. Wuhan S was also found in all European countries at significant levels. However, in multiple countries with similar sampling periods, and where D614G and Wuhan S arose at similar times, D614G became the dominant genotype. In France and Australia, where Wuhan S appeared at least 30 days before D614G, D614G became the predominant genotype at the end of the sampling period.
 
-  / May, 2020 - Preprints
-  let !j self assert = With regard to the United States, our data is generally consistent with reports that the virus was introduced on the East Coast from Europe and the West Coast from China. The earliest sequenced samples in California were predominantly Wuhan S, while the earliest sequenced samples in New York were predominantly D614G. Over time, both sequences appeared in the data across the United States. At the end of the sampling period, California and Washington were predominantly Wuhan S. However, Wuhan S had a much earlier start than D614G.
+  # / May, 2020 - Preprints
+  # let !j self assert = With regard to the United States, our data is generally consistent with reports that the virus was introduced on the East Coast from Europe and the West Coast from China. The earliest sequenced samples in California were predominantly Wuhan S, while the earliest sequenced samples in New York were predominantly D614G. Over time, both sequences appeared in the data across the United States. At the end of the sampling period, California and Washington were predominantly Wuhan S. However, Wuhan S had a much earlier start than D614G.
 
   / May, 2020 - Preprints
   let !k self assert = All 25 S protein sequences sampled from the Grand Princess cruise ship showed D614 and most were identical to Wuhan S. The relatively short time of transmission and occurrence within an enclosed space, suggest a founder effect.
 
-  / May, 2020 - Preprints
-  let !l self assert = By contrast, in 7 out of the 9 states evaluated where D614G and Wuhan S appeared at approximately the same time (Arizona, Minnesota, Virginia, Connecticut, New York, Wisconsin, Utah), D614G became the predominant genotype at the end of the sampling period.
+  # / May, 2020 - Preprints
+  # let !l self assert = By contrast, in 7 out of the 9 states evaluated where D614G and Wuhan S appeared at approximately the same time (Arizona, Minnesota, Virginia, Connecticut, New York, Wisconsin, Utah), D614G became the predominant genotype at the end of the sampling period.
 
-  / May, 2020 - Preprints
-  let !m self assert = Europe: Patient samples from all of the countries we examined from this region show D614G as the dominant sequence with the exception of Wales. A significant fraction (35% to 48%) of the samples from England, Wales, Netherland, Scotland, and Spain show Wuhan S.
+  # / May, 2020 - Preprints
+  # let !m self assert = Europe: Patient samples from all of the countries we examined from this region show D614G as the dominant sequence with the exception of Wales. A significant fraction (35% to 48%) of the samples from England, Wales, Netherland, Scotland, and Spain show Wuhan S.
+  #
+  # / May, 2020 - Preprints
+  # let !n self assert = Asia and Oceania: With Wuhan as the epicenter of the coronavirus outbreak, China ordered the lockdown of the city on January 29, 2020 followed by restrictions for the entire country. Viral sequences from most of the Chinese and all South Korean samples show the Wuhan S protein sequence. Other countries including Japan, Taiwan, India, and Australia have significant number of samples showing D614G (18% to 46%).
 
-  / May, 2020 - Preprints
-  let !n self assert = Asia and Oceania: With Wuhan as the epicenter of the coronavirus outbreak, China ordered the lockdown of the city on January 29, 2020 followed by restrictions for the entire country. Viral sequences from most of the Chinese and all South Korean samples show the Wuhan S protein sequence. Other countries including Japan, Taiwan, India, and Australia have significant number of samples showing D614G (18% to 46%).
+  # / May, 2020 - Preprints
+  # let !o self assert = Two models were created, D614 and G614, and a provocative result was observed in which the only significant change in structure is seen at the furin cleavage domain. This observation was confirmed by KSDSSP analysis. The D614G mutation creates an alpha helical structure at the furin cleavage domain.
 
-  / May, 2020 - Preprints
-  let !o self assert = The observed dominance and dramatic increase over time of the D614G mutation points to a competitive advantage. While the impact of the mutation on the mortality and morbidity of COVID-19 virus has yet to be determined, our analysis suggests a functional advantage offered by this single amino acid mutation in the SARS-CoV-2 S protein.
+  # / May, 2020 - Preprints
+  # let !p self assert = Comparing the alignments of the D614 vs. G614 cleavage domain to the inhibitor  it is observed that the orientation of the G614 P1 and P4 residues is closer to the orientation of the P1 and P4 residues of the inhibitor structure compared to D614. The closer a substrate is to the transition state orientation, the lower the energetic requirement for cleavage. Therefore, the cleavage of the G614-containing S protein is proposed to be energetically favored over the D614-containing S protein.
 
-  / May, 2020 - Preprints
-  let !p self assert = Two models were created, D614 and G614, and a provocative result was observed in which the only significant change in structure is seen at the furin cleavage domain. This observation was confirmed by KSDSSP analysis. The D614G mutation creates an alpha helical structure at the furin cleavage domain.
+  # / May, 2020 - Preprints
+  # let !q self assert = The D614G mutation may enhance cleavage of the S1 site on the S protein furin and thereby give an advantage to the G614 mutant for S protein processing.
 
-  / May, 2020 - Preprints
-  let !q self assert = The D614G mutation changes the orientation of critical residues in the furin cleavage domain: Comparing the alignments of the D614 vs. G614 cleavage domain to the inhibitor  it is observed that the orientation of the G614 P1 and P4 residues is closer to the orientation of the P1 and P4 residues of the inhibitor structure compared to D614. The closer a substrate is to the transition state orientation, the lower the energetic requirement for cleavage. Therefore, the cleavage of the G614-containing S protein is proposed to be energetically favored over the D614-containing S protein.
-
-  / May, 2020 - Preprints
-  let !r self assert = The D614G mutation aligns key residues more favorably within the active site of furin.: In our analysis, G614 simultaneously arranges the P1 arginine (R685) and P4 arginine (R682) with better proximity to their respective binding pockets. Admittedly, furin is a promiscuous enzyme with >1,000 protein substrates and while the orientation of P1 and P4 arginine’s are critical for cleavage, this does not exclude the involvement of adjacent amino acids. Our models predicted the cleavage domain resides in a flexible, solvent exposed loop. Furin cleavage domains are generally believed to reside in unstructured loops. However, there are no PDB structures of furin and a cleavable protein substrate. The D614G mutation may enhance cleavage of the S1 site on the S protein furin and thereby give an advantage to the G614 mutant for S protein processing.
-
-  / May, 2020 - Preprints
-  let !s self assert = The temporal progression of G614 shows a rapid rise in March in various regions but with different dynamics.
+  # / May, 2020 - Preprints
+  # let !r self assert = The temporal progression of G614 shows a rapid rise in March in various regions but with different dynamics.
 
 
 
@@ -2004,60 +1974,48 @@ ref 'Sharma_et_al_07_08_2020
   // The D614G mutation in the SARS-CoV-2 spike protein reduces S1 shedding and increases infectivity
   doi: https://doi.org/10.1101/2020.06.12.148726
   ref 'Zhang_et_al_06_12_2020
-  head = We observed that retroviruses pseudotyped with SG614 infected ACE2-expressing cells markedly more efficiently than those with SD614. This greater infectivity was correlated with less S1 shedding and greater incorporation of the S protein into the pseudovirion. Similar results were obtained using the virus-like particles produced with SARS-CoV-2 M, N, E, and S proteins. However, SG614 did not bind ACE2 more efficiently than SD614, and the pseudoviruses containing these S proteins were neutralized with comparable efficiencies by convalescent plasma. These results show SG614 is more stable than SD614, consistent with epidemiological data suggesting that viruses with SG614 transmit more efficiently.
+  head = We observed that retroviruses pseudotyped with SG614 (glycine) infected ACE2-expressing cells markedly more efficiently than those with SD614 (aspartic acid). This greater infectivity was correlated with less S1 shedding and greater incorporation of the S protein into the pseudovirion. These results show SG614 is more stable than SD614, consistent with epidemiological data suggesting that viruses with SG614 transmit more efficiently.
 
   >>> Abstract
     SARS coronavirus 2 (SARS-CoV-2) isolates encoding a D614G mutation in the viral spike (S) protein predominate over time in locales where it is found, implying that this change enhances viral transmission. We therefore compared the functional properties of the S proteins with aspartic acid (SD614) and glycine (SG614) at residue 614. We observed that retroviruses pseudotyped with SG614 infected ACE2-expressing cells markedly more efficiently than those with SD614. This greater infectivity was correlated with less S1 shedding and greater incorporation of the S protein into the pseudovirion. Similar results were obtained using the virus-like particles produced with SARS-CoV-2 M, N, E, and S proteins. However, SG614 did not bind ACE2 more efficiently than SD614, and the pseudoviruses containing these S proteins were neutralized with comparable efficiencies by convalescent plasma. These results show SG614 is more stable than SD614, consistent with epidemiological data suggesting that viruses with SG614 transmit more efficiently.
 
   -- exports
-    !a
-    !b
     !c
-    !d
-    !e
-    !f
-    !g
-    !h
-    !i
-    !j
-    !k
+
+
+  # / June, 2020 - bioRxiv
+  # let !a self assert = We observed that retroviruses pseudotyped with SG614 infected ACE2-expressing cells markedly more efficiently than those with SD614. This greater infectivity was correlated with less S1 shedding and greater incorporation of the S protein into the pseudovirion. Similar results were obtained using the virus-like particles produced with SARS-CoV-2 M, N, E, and S proteins.
+
+  # / June, 2020 - bioRxiv
+  # let !b self assert = However, SG614 did not bind ACE2 more efficiently than SD614, and the pseudoviruses containing these S proteins were neutralized with comparable efficiencies by convalescent plasma.
 
   / June, 2020 - bioRxiv
-  let !a self assert = We observed that retroviruses pseudotyped with SG614 infected ACE2-expressing cells markedly more efficiently than those with SD614. This greater infectivity was correlated with less S1 shedding and greater incorporation of the S protein into the pseudovirion. Similar results were obtained using the virus-like particles produced with SARS-CoV-2 M, N, E, and S proteins.
+  let !c self assert = This mutation with glycine at the residue 614 (G614) was previously detected to increase with an alarming speed. Our own analysis of the S-protein sequences showed a similar result: The G614 genotype was not detected in February (among 33 sequences) and observed at low frequency in March (26%), but increased rapidly by April (65%) and May (70%), indicating a transmission advantage over viruses with D614.
 
-  / June, 2020 - bioRxiv
-  let !b self assert = However, SG614 did not bind ACE2 more efficiently than SD614, and the pseudoviruses containing these S proteins were neutralized with comparable efficiencies by convalescent plasma. T
+  # / June, 2020 - bioRxiv
+  # let !d self assert = We observed PVG614 infected hACE2-293T cells with approximately 9-fold higher efficiency than did PVD614. This enhanced infectivity of PVG614 is not an artifact of PV titer normalization, as their titers are very similar.
 
-  / June, 2020 - bioRxiv
-  let !c self assert = This mutation with glycine at the residue 614 (G614) was previously detected to increase with an alarming speed. Our own analysis of the S-protein sequences available from the GenBank showed a similar result: The G614 genotype was not detected in February (among 33 sequences) and observed at low frequency in March (26%), but increased rapidly by April (65%) and May (70%), indicating a transmission advantage over viruses with D614.
+  # / June, 2020 - bioRxiv
+  # let !e self assert = The S1:S2 ratio is markedly greater in PVG614 compared to PVD614, indicating that glycine at residue 614 of SG614 stabilizes the interaction between the S1 and S2 domains, limiting S1 shedding. In addition, the total amount of the S protein in PVG614 is also much higher than that in PVD614, as indicated by a denser S2 band, even though the same number of pseudovirions was analyzed, as determined by quantitative PCR. Averages of several quantification show that the S1:S2 ratio of PVG614 is 3.5 times higher than that of PVD614.
 
-  / June, 2020 - bioRxiv
-  let !d self assert = We observed PVG614 infected hACE2-293T cells with approximately 9-fold higher efficiency than did PVD614. This enhanced infectivity of PVG614 is not an artifact of PV titer normalization, as their titers are very similar.
+  # / June, 2020 - bioRxiv
+  # let !f self assert = The S1:S2 ratio and total S protein on the virion was again much higher in the VLPs carrying SG614 (VLPG614) compared to those carrying SD614 (VLPD614). The S1:S2 ratio is 3.4 fold higher and the total S protein is nearly five fold enriched in VLPG614 compared to VLPD614. Thus, the D614G mutation enhances virus infection through two related mechanisms: It reduces S1 shedding and increases total S protein incorporated into the virion.
 
-  / June, 2020 - bioRxiv
-  let !e self assert = The mechanism with which SG614 increased virus infectivity: The S1:S2 ratio is markedly greater in PVG614 compared to PVD614, indicating that glycine at residue 614 of SG614 stabilizes the interaction between the S1 and S2 domains, limiting S1 shedding. In addition, the total amount of the S protein in PVG614 is also much higher than that in PVD614, as indicated by a denser S2 band, even though the same number of pseudovirions was analyzed, as determined by quantitative PCR. Averages of several quantification show that the S1:S2 ratio of PVG614 is 3.5 times higher than that of PVD614.
+  # / June, 2020 - bioRxiv
+  # let !g self assert = The ratio of Myc-tag to Flag-tag is higher in cells expressing SG614 than in cells expressing SD614. However, the Myc-tag/Flag-tag ratio is similar to the hACE2- NN-Ig/Flag-tag ratio, indicating that increased hACE2 binding to the SG614-expressing cells did not result from increased affinity of SG614 spikes to hACE2 or greater access to the RBD. Instead, these data show there is more S1 domain in the SG614-expressing cells, a result again consistent with the observation that the D614G mutation reduces S1 shedding.
 
-  / June, 2020 - bioRxiv
-  let !f self assert = The S1:S2 ratio and total S protein on the virion was again much higher in the VLPs carrying SG614 (VLPG614) compared to those carrying SD614 (VLPD614). The S1:S2 ratio is 3.4 fold higher and the total S protein is nearly five fold enriched in VLPG614 compared to VLPD614. Thus, the D614G mutation enhances virus infection through two related mechanisms: It reduces S1 shedding and increases total S protein incorporated into the virion.
+  # / June, 2020 - bioRxiv
+  # let !h self assert = PVD614 and PVG614 are similarly susceptible to neutralizing antisera, indicating that antibody-mediated control of viruses carrying SD614 and SG614 would be similar.
 
-  / June, 2020 - bioRxiv
-  let !g self assert = The ratio of Myc-tag to Flag-tag is higher in cells expressing SG614 than in cells expressing SD614. However, the Myc-tag/Flag-tag ratio is similar to the hACE2- NN-Ig/Flag-tag ratio, indicating that increased hACE2 binding to the SG614-expressing cells did not result from increased affinity of SG614 spikes to hACE2 or greater access to the RBD. Instead, these data show there is more S1 domain in the SG614-expressing cells, a result again consistent with the observation that the D614G mutation reduces S1 shedding.
+  # / June, 2020 - bioRxiv
+  # let !i self assert = An interesting question is why viruses carrying the more stable SG614 appear to be more transmissible without resulting in a major observable difference in disease severity. It is possible that higher levels of functional S protein observed with SG614 increase the chance of host-to-host transmission, but that other factors limit the rate and efficiency of intra-host replication. Alternatively, the loss of virion-associated S proteins observed with SD614 may be compensated by greater fusion efficiency with the destabilized S protein when the next target cell is adjacent in a host tissue. It is also possible that our ability to detect sequence changes at this early stage of the pandemic is simply greater than our ability to detect modest differences in pathogenesis.
 
-  / June, 2020 - bioRxiv
-  let !h self assert = PVD614 and PVG614 are similarly susceptible to neutralizing antisera, indicating that antibody-mediated control of viruses carrying SD614 and SG614 would be similar.
-
-  / June, 2020 - bioRxiv
-  let !i self assert = An interesting question is why viruses carrying the more stable SG614 appear to be more transmissible without resulting in a major observable difference in disease severity. It is possible that higher levels of functional S protein observed with SG614 increase the chance of host-to-host transmission, but that other factors limit the rate and efficiency of intra-host replication. Alternatively, the loss of virion-associated S proteins observed with SD614 may be compensated by greater fusion efficiency with the destabilized S protein when the next target cell is adjacent in a host tissue. It is also possible that our ability to detect sequence changes at this early stage of the pandemic is simply greater than our ability to detect modest differences in pathogenesis.
-
-  / June, 2020 - bioRxiv
-  let !j self assert =  The strong phenotypic difference we observe here between D614 and G614 suggests that more study on the impact of the D614G mutation on the course of disease is warranted.
-
-  / June, 2020 - bioRxiv
-  let !k self assert =  At some point in this process, the virus acquired a furin-cleavage site, allowing its S1/S2 boundary to be cleaved in virus producing cells. In contrast, the S1/S2 boundary of SARS-CoV-1, and indeed all SARSlike viruses isolated from bats, lack this polybasic site and are cleaved by TMPRSS2 or endosomal cathepsins in the target cells. Thus the greater stability we observe with SG614 would not be relevant to viruses lacking this site, but it appears to be strongly favored when a furin-cleavage site is present. Therefore, the D614G mutation may have emerged to compensate for this newly acquired furin site.
+  # / June, 2020 - bioRxiv
+  # let !j self assert = At some point in this process, the virus acquired a furin-cleavage site, allowing its S1/S2 boundary to be cleaved in virus producing cells. In contrast, the S1/S2 boundary of SARS-CoV-1, and indeed all SARSlike viruses isolated from bats, lack this polybasic site and are cleaved by TMPRSS2 or endosomal cathepsins in the target cells. Thus the greater stability we observe with SG614 would not be relevant to viruses lacking this site, but it appears to be strongly favored when a furin-cleavage site is present. Therefore, the D614G mutation may have emerged to compensate for this newly acquired furin site.
 
 
 
-  # S1/S2 FCS, have to complete this paper
+  # S1/S2 FCS,therapeutics
   // SARS-CoV-2 spike protein binds heparan sulfate in a length- and sequence-dependent manner
   doi: https://doi.org/10.1101/2020.05.10.087288
   ref 'Liu_et_al_05_10_2020
@@ -2074,7 +2032,7 @@ ref 'Sharma_et_al_07_08_2020
   let !a self assert = Surface plasma resonance (SPR) showed the SARS-CoV-2 spike protein binds with higher affinity to heparin (KD 55 nM) compared to the receptor binding domain (RBD, KD 1 µM) alone.
 
   / May, 2020 - bioRxiv
-  let !b self assert =  An octasaccharide composed of IdoA2S-GlcNS6S could inhibit spike-heparin interaction with an IC50 of 38 nM.
+  let !b self assert = An octasaccharide composed of IdoA2S-GlcNS6S could inhibit spike-heparin interaction with an IC50 of 38 nM.
 
 
 
@@ -2082,142 +2040,99 @@ ref 'Sharma_et_al_07_08_2020
   // Activation of the SARS coronavirus spike protein via sequential proteolytic cleavage at two distinct sites.
   doi: https://doi.org/10.1073/pnas.0809524106
   ref 'Belouzard_et_al_04_07_2009
-  head = We identify a proteolytic cleavage site within the SARS-CoV S2 domain (S2′, R797). Mutation of R797 specifically inhibited trypsin-dependent fusion in both cell–cell fusion and pseudovirion entry assays. We also introduced a furin cleavage site at both the S2′ cleavage site within S2 793-KPTKR-797 (S2′), as well as at the junction of S1 and S2. Introduction of a furin cleavage site at the S2′ position allowed trypsin-independent cell–cell fusion, which was strongly increased by the presence of a second furin cleavage site at the S1–S2 position. Taken together, these data suggest a novel priming mechanism for a viral fusion protein, with a critical proteolytic cleavage event on the SARS-CoV S protein at position 797 (S2′), acting in concert with the S1–S2 cleavage site to mediate membrane fusion and virus infectivity.
+  head = The data suggest a novel priming mechanism for a viral fusion protein, with a critical proteolytic cleavage event on the SARS-CoV S protein at position 797 (S2′), acting in concert with the S1–S2 cleavage site to mediate membrane fusion and virus infectivity.
 
   >>> Abstract
     The coronavirus spike protein (S) plays a key role in the early steps of viral infection, with the S1 domain responsible for receptor binding and the S2 domain mediating membrane fusion. In some cases, the S protein is proteolytically cleaved at the S1–S2 boundary. In the case of the severe acute respiratory syndrome coronavirus (SARS-CoV), it has been shown that virus entry requires the endosomal protease cathepsin L; however, it was also found that infection of SARS-CoV could be strongly induced by trypsin treatment. Overall, in terms of how cleavage might activate membrane fusion, proteolytic processing of the SARS-CoV S protein remains unclear. Here, we identify a proteolytic cleavage site within the SARS-CoV S2 domain (S2′, R797). Mutation of R797 specifically inhibited trypsin-dependent fusion in both cell–cell fusion and pseudovirion entry assays. We also introduced a furin cleavage site at both the S2′ cleavage site within S2 793-KPTKR-797 (S2′), as well as at the junction of S1 and S2. Introduction of a furin cleavage site at the S2′ position allowed trypsin-independent cell–cell fusion, which was strongly increased by the presence of a second furin cleavage site at the S1–S2 position. Taken together, these data suggest a novel priming mechanism for a viral fusion protein, with a critical proteolytic cleavage event on the SARS-CoV S protein at position 797 (S2′), acting in concert with the S1–S2 cleavage site to mediate membrane fusion and virus infectivity.
 
-  -- exports
-    !a
-    !b
-    !c
-    !d
-    !e
-    !f
-    !g
-    !h
-
-  / April, 2009 - PNAS
-  let !a self assert = Role of the S1–S2 Boundary in Trypsin-Mediated Activation of SARS-CoV S Membrane Fusion: Wild-type SARS-CoV S was readily cleaved at the S1–S2 boundary by trypsin, whereas the R667N mutant showed no detectable cleavage at this position. Vero E6 cells expressing the wild-type SARS-CoV S or the R667 mutant were treated with trypsin and processed for immunofluorescence microscopy to visualize syncytia formation. Syncytia formation for the R667N mutant was the same as for the wild-type protein.
-
-  / April, 2009 - PNAS
-  let !b self assert = The amount of fusion increased with the dose of trypsin for the wild-type protein, reaching a plateau at 2 μg/mL trypsin. The mutant R667N was still able to cause cell–cell fusion; however, the fusion was not as efficient as that observed for the wild-type protein (maximum fusion for the mutant was ≈50% of the fusion of the wild-type protein). These data suggest that although the R667 at the S1–S2 boundary does have some role in cleavage activation of SARS-CoV S-mediated membrane fusion, other residues are likely to have more critical roles.
-
-  / April, 2009 - PNAS
-  let !c self assert = Identification of Additional Cleavage Sites Within the Coronavirus S Protein.: Two cleavage products (65 kDa and 50 kDa) were clearly observed for the Beaudette strain, representing cleavage at S1–S2 as well as at S2′, whereas the M41 presented only a single cleaved product (65 kDa) due to cleavage at S1–S2. These data suggest that the second cleavage site can be present in the coronavirus S2 domain, which may have important properties for membrane fusion and virus entry.
-
-  / April, 2009 - PNAS
-  let !d self assert = IBV Beaudette was the only coronavirus for which the ProP server predicted a furin site clearly above threshold within S2. However, analysis of the SARS-CoV S protein (group 2b) revealed a relatively high cleavage potential by furin at the S2′ position, with very limited cleavage potential at the S1–S2 boundary, indicating the possibility of a cryptic cleavage site at the S2′ position. The S2′ site of SARS-CoV S comprises a dibasic motif K796, R797 that could be such a cleavage site, and so we decided to investigate the role of these 2 basic residues in the membrane fusion and entry of SARS-CoV.
-
-  / April, 2009 - PNAS
-  let !e self assert = Introduction of a Furin Site at S2′ Induces SARS-CoV S-Mediated Membrane Fusion: Data suggest that SARS-CoV can be proteolytically cleaved at the S2′ position to activate membrane fusion, and that cleavage at the S1–S2 boundary facilitates both cleavage at S2′ (797) and S2′-activated membrane fusion.
-
-  / April, 2009 - PNAS
-  let !f self assert = Mutation of R797 at SARS-CoV S2′ Inhibits Trypsin-Induced Membrane Fusion: These results show that mutation of both basic residues K796A/R797N strongly inhibited trypsin-induced membrane fusion activated by SARS-CoV S (2.5% ± 1.1%). Analysis of the role of each residue independently shows that mutation of K796 only partially affected the fusion induced by trypsin (79.5% ± 4.9%), whereas mutation of R797 completely blocked membrane fusion induced by trypsin (2.5% ± 0.8%). The mutation R667N (S1–S2) had limited fusion activity (48.8% ± 2.9%).
-
-  / April, 2009 - PNAS
-  let !g self assert = SARS-CoV S-Mediated Virus Entry Is Dependent on Cleavage at S2′, as Well as at the S1–S2 Boundary: The results show that mutation of the dibasic residues K796A, R797N completely inhibited trypsin-primed infection of the pseudoparticles, suggesting that these residues play a key role in SARS-CoV infection induced by trypsin. As expected, the effect of mutation K796A was weak (84.8% ± 14% of the wild-type level), but mutation of R797 induced a strong decrease of infection induced by trypsin (3.8% ± 2.3% of the wild-type level). Surprisingly, whereas mutation R667N decreased cell–cell fusion induced by trypsin by ≈50%, infection recovery induced by trypsin was strongly impaired (21.4% ± 10.6% of the wild type). This suggests that in the context of the virus infection, cleavage at the S1–S2 boundary may play a more important role than in cell–cell fusion.
-
-  / April, 2009 - PNAS
-  let !h self assert = The results show that the infection recovered by this mutant was substantially higher than infection recovered for the wild-type protein (216% ± 78%). We also assessed the effect of the R797N mutation on virus entry in the absence of endosomal acidification. This mutant showed no effect on transduction in the absence of NH4Cl and trypsin, indicating that R797 is not a critical residue for the endosomal route of SARS-CoV entry, which is presumably primed by cathepsin L cleavage.
+  # -- exports
+  #   !a
+  #   !b
+  #   !c
+  #   !d
+  #   !e
+  #   !f
+  #   !g
+  #   !h
+  #   !i
 
 
+  # / April, 2009 - PNAS
+  # let !a self assert = Mutation of R797 specifically inhibited trypsin-dependent fusion in both cell–cell fusion and pseudovirion entry assays. Wild-type SARS-CoV S was readily cleaved at the S1–S2 boundary by trypsin, whereas the R667N mutant showed no detectable cleavage at this position.
+
+  # / April, 2009 - PNAS
+  # let !b self assert = The amount of fusion increased with the dose of trypsin for the wild-type protein, reaching a plateau at 2 μg/mL trypsin. The mutant R667N was still able to cause cell–cell fusion; however, the fusion was not as efficient as that observed for the wild-type protein (maximum fusion for the mutant was ≈50% of the fusion of the wild-type protein). These data suggest that although the R667 at the S1–S2 boundary does have some role in cleavage activation of SARS-CoV S-mediated membrane fusion, other residues are likely to have more critical roles.
+
+  # / April, 2009 - PNAS
+  # let !c self assert = We also introduced a furin cleavage site at both the S2′ cleavage site within S2 793-KPTKR-797 (S2′), as well as at the junction of S1 and S2. Introduction of a furin cleavage site at the S2′ position allowed trypsin-independent cell–cell fusion, which was strongly increased by the presence of a second furin cleavage site at the S1–S2 position.
 
 
-  # the S1/S2 FCS exists in natural CoVs, but has not been observed in SARS-related-CoVs. Scientists tested introduction of FCS at R667 in SARS. Later discovered in MERS that FCS enables infection of more cell types. Now we know SARS2 FCS confers infection advantages. There is zero evidence that confirms that the SARS-CoV-2 S1/S2 PRRA(R) FCS arose naturally or artificially, but neither scenario can be ruled out. newly acquires furin-cleavage site, all SARSlike viruses isolated from bats lack this polybasic site and are cleaved by TMPRSS2 or endosomal cathepsins in the target cells
+  # / April, 2009 - PNAS
+  # let !d self assert = Two cleavage products (65 kDa and 50 kDa) were clearly observed for the Beaudette strain, representing cleavage at S1–S2 as well as at S2′, whereas the M41 presented only a single cleaved product (65 kDa) due to cleavage at S1–S2. These data suggest that the second cleavage site can be present in the coronavirus S2 domain, which may have important properties for membrane fusion and virus entry.
+
+  # / April, 2009 - PNAS
+  # let !e self assert = IBV Beaudette was the only coronavirus for which the ProP server predicted a furin site clearly above threshold within S2. However, analysis of the SARS-CoV S protein revealed a relatively high cleavage potential by furin at the S2′ position, with very limited cleavage potential at the S1–S2 boundary, indicating the possibility of a cryptic cleavage site at the S2′ position. The S2′ site of SARS-CoV S comprises a dibasic motif K796, R797 that could be such a cleavage site, and so we decided to investigate the role of these 2 basic residues in the membrane fusion and entry of SARS-CoV.
+
+  # / April, 2009 - PNAS
+  # let !f self assert = Data suggest that SARS-CoV can be proteolytically cleaved at the S2′ position to activate membrane fusion, and that cleavage at the S1–S2 boundary facilitates both cleavage at S2′ (797) and S2′-activated membrane fusion.
+
+  # / April, 2009 - PNAS
+  # let !g self assert = These results show that mutation of both basic residues K796A/R797N strongly inhibited trypsin-induced membrane fusion activated by SARS-CoV S (2.5% ± 1.1%). Analysis of the role of each residue independently shows that mutation of K796 only partially affected the fusion induced by trypsin (79.5% ± 4.9%), whereas mutation of R797 completely blocked membrane fusion induced by trypsin (2.5% ± 0.8%). The mutation R667N (S1–S2) had limited fusion activity (48.8% ± 2.9%).
+
+  # / April, 2009 - PNAS
+  # let !h self assert = The results show that mutation of the dibasic residues K796A, R797N completely inhibited trypsin-primed infection of the pseudoparticles, suggesting that these residues play a key role in SARS-CoV infection induced by trypsin. As expected, the effect of mutation K796A was weak (84.8% ± 14% of the wild-type level), but mutation of R797 induced a strong decrease of infection induced by trypsin (3.8% ± 2.3% of the wild-type level). Surprisingly, whereas mutation R667N decreased cell–cell fusion induced by trypsin by ≈50%, infection recovery induced by trypsin was strongly impaired (21.4% ± 10.6% of the wild type). This suggests that in the context of the virus infection, cleavage at the S1–S2 boundary may play a more important role than in cell–cell fusion.
+
+  # / April, 2009 - PNAS
+  # let !i self assert = The results show that the infection recovered by this mutant was substantially higher than infection recovered for the wild-type protein (216% ± 78%). We also assessed the effect of the R797N mutation on virus entry in the absence of endosomal acidification. This mutant showed no effect on transduction in the absence of NH4Cl and trypsin, indicating that R797 is not a critical residue for the endosomal route of SARS-CoV entry, which is presumably primed by cathepsin L cleavage.
+
+
+
+
+  # the S1/S2 FCS exists in natural CoVs, but has not been observed in SARS-related-CoVs. Scientists tested introduction of FCS at R667 in SARS. Later discovered in MERS that FCS enables infection of more cell types. Now we know SARS2 FCS confers infection advantages. There is zero evidence that confirms that the SARS-CoV-2 S1/S2 PRRA(R) FCS arose naturally or artificially, but neither scenario can be ruled out. newly acquires furin-cleavage site, all SARSlike viruses isolated from bats lack this polybasic site and are cleaved by TMPRSS2 or endosomal cathepsins in the target cells...
+  # doubt to the origin story, furin clevage,
   // Furin cleavage of the SARS coronavirus spike glycoprotein enhances cell–cell fusion but does not affect virion entry.
   doi: https://doi.org/10.1016/j.virol.2006.02.003
   ref 'Follis_et_al_07_05_2006
-  head = We show that furin cleavage at the modified R667 position generates discrete S1 and S2 subunits and potentiates membrane fusion activity. This effect on the cell–cell fusion activity by the S glycoprotein is not, however, reflected in the infectivity of pseudotyped lentiviruses bearing the cleaved glycoprotein. The lack of effect of furin cleavage on virion infectivity mirrors that observed in the normally cleaved S glycoprotein of the murine coronavirus and highlights an additional level of complexity in coronavirus entry.
+  head = We show that furin cleavage at the modified R667 position generates discrete S1 and S2 subunits and potentiates membrane fusion activity. The lack of effect of furin cleavage on virion infectivity mirrors that observed in the normally cleaved S glycoprotein of the murine coronavirus and highlights an additional level of complexity in coronavirus entry.
 
   >>> Abstract
     The fusogenic potential of Class I viral envelope glycoproteins is activated by proteloytic cleavage of the precursor glycoprotein to generate the mature receptor-binding and transmembrane fusion subunits. Although the coronavirus (CoV) S glycoproteins share membership in this class of envelope glycoproteins, cleavage to generate the respective S1 and S2 subunits appears absent in a subset of CoV species, including that responsible for the severe acute respiratory syndrome (SARS). To determine whether proteolytic cleavage of the S glycoprotein might be important for the newly emerged SARS-CoV, we introduced a furin recognition site at single basic residues within the putative S1–S2 junctional region. We show that furin cleavage at the modified R667 position generates discrete S1 and S2 subunits and potentiates membrane fusion activity. This effect on the cell–cell fusion activity by the S glycoprotein is not, however, reflected in the infectivity of pseudotyped lentiviruses bearing the cleaved glycoprotein. The lack of effect of furin cleavage on virion infectivity mirrors that observed in the normally cleaved S glycoprotein of the murine coronavirus and highlights an additional level of complexity in coronavirus entry.
 
-  -- exports
-    !a
-    !b
-    !c
-    !d
+  -- medicine frontier
     !e
-    !f
+  --
     !g
-    !h
-    !i
-    !j
-    !k
-    !l
-    !m
-    !n
-    !o
-    !p
-    !q
-    !r
-    !s
-    !t
-    !u
 
-  / July, 2006 - Virology
-  let !a self assert = We found that introduction of a synthetic furin recognition sequence at R667 in the putative S1–S2 junctional region enabled efficient cleavage of the S glycoprotein to generate discrete S1 and S2 subunits and markedly increased the ability of the spike complex to mediate cell–cell fusion.
 
-  / July, 2006 - Virology
-  let !b self assert = In the wild-type S glycoprotein, over-expression of furin cDNA made manifest a cleavage event that has not been otherwise observed, most likely at the naturally occurring sequence SLLR667. This exuberant cleavage likewise resulted in an increase in fusogenicity. Direct physical confirmation of cleavage at R667 is however lacking.
+  # / July, 2006 - Virology
+  # let !a self assert = We found that introduction of a synthetic furin recognition sequence at R667 in the putative S1–S2 junctional region enabled efficient cleavage of the S glycoprotein to generate discrete S1 and S2 subunits and markedly increased the ability of the spike complex to mediate cell–cell fusion.
 
-  / July, 2006 - Virology
-  let !c self assert = Although a synthetic peptide bearing the SLLR site was insensitive to furin cleavage in vitro, it is possible that this sequence may be recognized under some natural conditions. For instance, cleavage might take place on the extracellular virion, perhaps in specialized tissue environments or upon endocytosis.
-
-  / July, 2006 - Virology
-  let !d self assert = In our studies, we show a consistent correlation between furin cleavage at SLLR667 and an increased ability of the glycoprotein to mediate cell–cell fusion. By contrast, furin-mediated cleavage of the S glycoprotein at a more C-terminal recognition motif, RNTR761, does not appear to affect fusogenicity. Although cleavage at these sites has previously been reported, our studies demonstrate the importance of the SLLR667 cleavage in fusion competence of the S glycoprotein. This finding is in agreement with the evolutionary homology in this S1–S2 junctional region among CoV species
+  # / July, 2006 - Virology
+  # let !d self assert = In our studies, we show a consistent correlation between furin cleavage at SLLR667 and an increased ability of the glycoprotein to mediate cell–cell fusion. By contrast, furin-mediated cleavage of the S glycoprotein at a more C-terminal recognition motif, RNTR761, does not appear to affect fusogenicity. Although cleavage at these sites has previously been reported, our studies demonstrate the importance of the SLLR667 cleavage in fusion competence of the S glycoprotein. This finding is in agreement with the evolutionary homology in this S1–S2 junctional region among CoV species
 
   / July, 2006 - Virology
   let !e self assert = Interestingly, inhibition of furin activity by a peptidic furin inhibitor has recently been reported to prevent the cytopathic effect of SARS-CoV infection in cell culture. Nonetheless, other proteolytic enzymes have also been implicated in CoV entry. The recent finding that SARS-CoV entry can be blocked by a specific inhibitor of cathepsin L highlights the possible role of endosomal proteases. The multiple opportunities for proteolytic activation of the S glycoprotein in natural infection remain to be examined.
 
-  / July, 2006 - Virology
-  let !f self assert = Despite a reasonable correlation between proteolytic cleavage and membrane fusion activity in both the naturally cleaved and uncleaved S glycoproteins, the presence or absence of furin cleavage appears to have surprisingly little impact on the infectivity of the virion particle.
+  # / July, 2006 - Virology
+  # let !f self assert = Despite a reasonable correlation between proteolytic cleavage and membrane fusion activity in both the naturally cleaved and uncleaved S glycoproteins, the presence or absence of furin cleavage appears to have surprisingly little impact on the infectivity of the virion particle.
 
   / July, 2006 - Virology
-  let !g self assert = We demonstrate the converse—that pseudotyped virions bearing the cleaved HTVR glycoprotein are no more capable of mediating virion entry than those bearing the uncleaved wild-type S glycoprotein.
+  let !g self assert = The ability of the R667S mutant to promote cell–cell fusion was consistently reduced to 60% of wild-type levels. Fusion by the K672S mutant was largely unaffected. These results point to R667 as an important amino acid in the S glycoprotein and perhaps as a site susceptible to proteolytic cleavage.
 
-  / July, 2006 - Virology
-  let !h self assert = The recent finding that SARS-CoV entry is blocked by a specific inhibitor of the endosomal protease cathepsin L provides one plausible resolution to this conundrum : the cleavage critical for viral entry may take place unobserved upon endocytosis or during vesicular trafficking. Other cleavage events mediated by furin, while evolutionarily conserved and no doubt important, may serve supportive or even distinct functions. A similar paradigm has been proposed for entry by the Ebola filovirus. As in MHV, furin cleavage of the Ebola virus envelope glycoprotein precursor occurs in nature yet appears unnecessary for viral entry
+  # / July, 2006 - Virology
+  # let !h self assert = Insertion of furin recognition sites in the SARS-CoV S glycoprotein: These ese studies indicate that proteolytic cleavage of the SARS-CoV S glycoprotein can be achieved by the introduction of a furin recognition motif, especially at R667. The differences in the degree of cleavage between the two R667 mutants, and in SLLR, suggest specificity in the recognition of the engineered furin sites.
 
-  / July, 2006 - Virology
-  let !i self assert = Although further investigation of the role of endosomal proteases in viral entry will no doubt reveal additional detail to this novel mechanism for envelope glycoprotein activation, the function of the highly conserved furin cleavage site in the CoV life cycle remains unclear.
+  # / July, 2006 - Virology
+  # let !i self assert = The marked increase in fusogenicity in concert with proteolytic cleavage suggests strongly that proteolytic maturation of the CoV S glycoprotein impacts the ability of the glycoprotein to mediate membrane fusion.
 
-  / July, 2006 - Virology
-  let !j self assert = By this model, the extended heptad repeats in the group 1 viruses may facilitate formation of the six-helix bundle and membrane fusion, perhaps in compensation for the lack of furin cleavage. Biophysical and structural evidence for this suggestion is however lacking.
+  # / July, 2006 - Virology
+  # let !j self assert =  Proteolytic processing of the HTVR, HTR and SLLR glycoproteins was abrogated in the furin-deficient FD11 cell line. The S1 and S2 subunits were absent in FD11 cells, and S1 was not detected in the cell culture medium. These findings provide evidence that proteolytic cleavage in the furin-site-containing mutants is indeed mediated by the furin protease.
 
-  / July, 2006 - Virology
-  let !k self assert = Despite the lack of furin cleavage, these glycoproteins contain only the shorter heptad-repeat regions. The consequences of this exception for viral replication, pathogenesis and CoV ecology are unknown. Further studies of CoV entry and the role of proteolytic cleavage events in this process are likely to impact our understanding of CoV pathogenesis and our ability to respond to newly emerging CoVs.
+  # / July, 2006 - Virology
+  # let !k self assert = Consistent with this finding, only cells expressing the wild-type and K672S glycoproteins were able to shed S1 glycoprotein to the cell culture medium. These findings suggest that the furin-mediated cleavage event at R667 is disrupted by the substitution of serine and, importantly, is responsible for the generation of the S1 subunit in the wild-type and HTVR glycoproteins. By contrast, the larger S1-like fragment thought to represent cleavage at the RNTR site at position 758–761 was produced and shed by both the R667S and K672S mutants and by the wild-type glycoprotein.
 
-  / July, 2006 - Virology
-  let !l self assert = We find considerable sequence variation and deletion between the GxCx motif and the conserved S2 nonamer in the uncleaved group 1 CoV S glycoproteins. In FIPV and TGEV, the deletions remove all basic amino acids that might be used in furin- or trypsin-mediated cleavage. By contrast, one or more basic residues remain in the glycoproteins of SARS-CoV and the human CoVs 229E and NL63. The alignment for these human viruses highlights the single arginine at position 667 of the SARS-CoV S glycoprotein, which may signal a protease-sensitive site. Another basic residue in this region of the SARS-CoV glycoprotein (lysine 672) may likewise be relevant to protease recognition.
-
-  / July, 2006 - Virology
-  let !m self assert = Mutation at R667, but not K672, affects S-glycoprotein-mediated cell–cell fusion: The R667S and K672S mutations did not appear to alter the expression or glycosylation of the glycoproteins, and we too find no evidence of proteolytic cleavage to form S1 and S2 subunits. Interestingly, however, the ability of the R667S mutant to promote cell–cell fusion was consistently reduced to 60% of wild-type levels. Fusion by the K672S mutant was largely unaffected. These results point to R667 as an important amino acid in the S glycoprotein and perhaps as a site susceptible to proteolytic cleavage.
-
-  / July, 2006 - Virology
-  let !n self assert = Insertion of furin recognition sites in the SARS-CoV S glycoprotein: Taken together, these studies indicate that proteolytic cleavage of the SARS-CoV S glycoprotein can be achieved by the introduction of a furin recognition motif, especially at R667. The differences in the degree of cleavage between the two R667 mutants, and in SLLR, suggest specificity in the recognition of the engineered furin sites.
-
-  / July, 2006 - Virology
-  let !o self assert = HTVR is transported to the cell surface as the wild-type glycoprotein: Upon flow cytometric analysis, the population of positively staining cells was comparable in number and fluorescence intensity in both the wild-type and HTVR mutant, suggesting comparable transport and cell-surface expression of the two glycoproteins. Studies using recombinant soluble ACE2 failed to demonstrate significant differences in the capacity of the cell-surface glycoproteins to bind receptor.
-
-  / July, 2006 - Virology
-  let !p self assert = Membrane fusion activity of the furin-site-containing mutant glycoproteins: COS-7 cells expressing the HTVR glycoprotein were markedly enhanced in their ability to fuse with cells expressing the ACE2 receptor. In multiple experiments, this mutant generated 3- to 8-fold more syncytia than did the wild-type S glycoprotein. The HTR glycoprotein was also more fusogenic than the wild-type (1.8 fold), whereas the insertion in SLLR appeared to inhibit fusion. Discounting potential detrimental effects of the amino acid substitutions per se, the fusogenicity of the mutant glycoproteins generally correlated with the extent of proteolytic cleavage. Recombinant expression of ACE2 receptor was required in all cases for fusion. The marked increase in fusogenicity in concert with proteolytic cleavage suggests strongly that proteolytic maturation of the CoV S glycoprotein impacts the ability of the glycoprotein to mediate membrane fusion.
-
-  / July, 2006 - Virology
-  let !q self assert = Proteolytic cleavage of the mutant glycoproteins is mediated by furin protease: Proteolytic processing of the HTVR, HTR and SLLR glycoproteins was abrogated in the furin-deficient FD11 cell line. The S1 and S2 subunits were absent in FD11 cells, and S1 was not detected in the cell culture medium. These findings provide evidence that proteolytic cleavage in the furin-site-containing mutants is indeed mediated by the furin protease.
-
-  / July, 2006 - Virology
-  let !r self assert = The dramatic effects observed upon co-expression of furin in an experimental setting raise the possibility of cryptic cleavage events in the wild-type S glycoprotein under natural conditions. The ability of the co-expressed furin to cleave the wild-type glycoprotein to produce S1 and S2 subunits that co-migrate with those generated in the HTVR mutant lends credence to the suggestion that the S1–S2 junctional region defined by sequence alignment may contain vestigial or inefficiently utilized furin recognition sites.
-
-  / July, 2006 - Virology
-  let !s self assert = R667 is important for furin-mediated cleavage in the wild-type S glycoprotein: Consistent with this finding, only cells expressing the wild-type and K672S glycoproteins were able to shed S1 glycoprotein to the cell culture medium. These findings suggest that the furin-mediated cleavage event at R667 is disrupted by the substitution of serine and, importantly, is responsible for the generation of the S1 subunit in the wild-type and HTVR glycoproteins. By contrast, the larger S1-like fragment thought to represent cleavage at the RNTR site at position 758–761 was produced and shed by both the R667S and K672S mutants and by the wild-type glycoprotein.
-
-  / July, 2006 - Virology
-  let !t self assert = Enhanced cell–cell fusion activity does not translate to increased virion infectivity: Comparable levels of HIV Gag proteins p24 and p17 were found in pseudotyped particles bearing either co-S Δ19 or co-HTVR Δ19 glycoproteins. Importantly, comparable amounts of the two S glycoproteins were incorporated into the retroviral particles. Pseudotyped virions containing the HTVR glycoprotein were highly enriched in the cleaved subunits (S1 and S2) relative to the expressing cells, although the uncleaved form was also present. This enrichment is likely due to the exclusion of immature intracellular forms of the glycoprotein from the pseudotyped virion sample. As anticipated, no cleaved S glycoprotein products were observed in virions bearing the wild-type co-S Δ19 glycoprotein. Thus, the respective S glycoproteins are comparably and faithfully incorporated into pseudotyped virions.
-
-  / July, 2006 - Virology
-  let !u self assert = Despite the dramatic differences observed in assays of cell–cell fusion, pseudotyped virions bearing the co-S Δ19 or co-HTVR Δ19 glycoprotein were equally infectious. Expression of the ACE2 receptor remained essential for entry. Thus, the enhanced facility of the furin-cleaved HTVR glycoprotein to mediate membrane fusion is apparently not reflected in the overall process of virion entry. The disconnect between the membrane fusion activity of the S glycoprotein and its ability to mediate viral entry, demonstrated here in the normally uncleaved SARS-CoV S glycoprotein and previously in the normally cleaved glycoprotein of MHV, highlights unresolved complexities in the pathway used by CoVs to infect target cells.
+  # / July, 2006 - Virology
+  # let !l self assert = Despite the dramatic differences observed in assays of cell–cell fusion, pseudotyped virions bearing the co-S Δ19 or co-HTVR Δ19 glycoprotein were equally infectious. Expression of the ACE2 receptor remained essential for entry. Thus, the enhanced facility of the furin-cleaved HTVR glycoprotein to mediate membrane fusion is apparently not reflected in the overall process of virion entry. The disconnect between the membrane fusion activity of the S glycoprotein and its ability to mediate viral entry, demonstrated here in the normally uncleaved SARS-CoV S glycoprotein and previously in the normally cleaved glycoprotein of MHV, highlights unresolved complexities in the pathway used by CoVs to infect target cells.
 
 
 
@@ -2225,120 +2140,105 @@ ref 'Sharma_et_al_07_08_2020
   // A Novel Bat Coronavirus Closely Related to SARS-CoV-2 Contains Natural Insertions at the S1/S2 Cleavage Site of the Spike Protein
   doi: https://doi.org/10.1016/j.cub.2020.05.023
   ref 'Zhou_et_al_05_10_2020
-  head = RmYN02 shares 93.3% nucleotide identity with SARS-CoV-2 at the scale of the complete virus genome and 97.2% identity in the 1ab gene, in which it is the closest relative of SARS-CoV-2 reported to date. In contrast, RmYN02 showed low sequence identity (61.3%) to SARS-CoV-2 in the receptor-binding domain (RBD) and might not bind to angiotensin-converting enzyme 2 (ACE2). Critically, and in a similar manner to SARS-CoV-2, RmYN02 was characterized by the insertion of multiple amino acids at the junction site of the S1 and S2 subunits of the spike (S) protein. This provides strong evidence that such insertion events can occur naturally in animal betacoronaviruses.
+  head = We report a novel bat-derived coronavirus, denoted RmYN02, identified in Rhinolophus malayanus is the closest relative of SARSCoV-2 in the long 1ab replicase gene, although the virus itself has a complex history of recombination. The observation that RmYN02 contains an insertion of multiple amino acids at the S1/S2 cleavage site in the spike protein clearly indicates that events of this kind are a natural and expected component of coronavirus evolution.
 
   >>> Summary
     The unprecedented pandemic of pneumonia caused by a novel coronavirus, SARS-CoV-2, in China and beyond has had major public health impacts on a global scale. Although bats are regarded as the most likely natural hosts for SARS-CoV-2, the origins of the virus remain unclear. Here, we report a novel bat-derived coronavirus, denoted RmYN02, identified from a metagenomic analysis of samples from 227 bats collected from Yunnan Province in China between May and October 2019. Notably, RmYN02 shares 93.3% nucleotide identity with SARS-CoV-2 at the scale of the complete virus genome and 97.2% identity in the 1ab gene, in which it is the closest relative of SARS-CoV-2 reported to date. In contrast, RmYN02 showed low sequence identity (61.3%) to SARS-CoV-2 in the receptor-binding domain (RBD) and might not bind to angiotensin-converting enzyme 2 (ACE2). Critically, and in a similar manner to SARS-CoV-2, RmYN02 was characterized by the insertion of multiple amino acids at the junction site of the S1 and S2 subunits of the spike (S) protein. This provides strong evidence that such insertion events can occur naturally in animal betacoronaviruses.
 
   -- exports
     !a
-    !b
     !c
-    !f
-    !m
-    !n
-    !o
-  -- Pagolion
-    !d
     !e
-    !g
-    !h
-    !j
-  -- natural zoonotic origin
-    !i
+  -- Pagolion
+    !f
   -- recombination event
+    !g
+    !j
     !k
+  -- Natural event
+    !h
+  -- RmYN02 not pangolian
     !l
 
   / May, 2020 - Current Biology
-  let !a self assert = We report a novel bat-derived coronavirus, denoted RmYN02, identified from a metagenomic analysis of samples from 227 bats collected from Yunnan Province in China between May and October 2019. Notably, RmYN02 shares 93.3% nucleotide identity with SARS-CoV-2 at the scale of the complete virus genome and 97.2% identity in the 1ab gene, in which it is the closest relative of SARS-CoV-2 reported to date.
+  let !a self assert = RmYN02 shares 93.3% nucleotide identity with SARS-CoV-2 at the scale of the complete virus genome and 97.2% identity in the 1ab gene, in which it is the closest relative of SARS-CoV-2 reported to date.
+
+  # / May, 2020 - Current Biology
+  # let !b self assert = The sequence identity between RmYN01 and Cp/Yunnan2011 across the aligned regions was 96.9%, whereas that between RmYN01 and SARS-CoV-2 was only 79.7% across the aligned regions and 70.4% in the spike gene.
+
+  # / May, 2020 - Current Biology
+  # let !c self assert = In contrast, RmYN02 was closely related to SARS-CoV-2, exhibiting 93.3% nucleotide sequence identity, although it was less similar to SARS-CoV-2 than RaTG13 (96.1%) across the genome as a whole. RmYN02 and SARS-CoV-2 were extremely similar (>96% sequence identity) in most genomic regions (e.g., 1ab, 3a, E, 6, 7a, N, and 10). In particular, RmYN02 was 97.2% identical to SARS-CoV-2 in the longest encoding gene region, 1ab (21,285 nucleotides).
 
   / May, 2020 - Current Biology
-  let !b self assert = The sequence identity between RmYN01 and Cp/Yunnan2011 across the aligned regions was 96.9%, whereas that between RmYN01 and SARS-CoV-2 was only 79.7% across the aligned regions and 70.4% in the spike gene.
+  let !c self assert = RmYN02 exhibited far lower sequence identity to SARS-CoV-2 in the S gene (nucleotide 71.8%, amino acid 72.9%). Strikingly, RmYN02 only possessed 62.4% amino acid identity to SARS-CoV-2 in the receptor-binding domain (RBD) and might not bind to angiotensin-converting enzyme 2 (ACE2).
+
+  # / May, 2020 - Current Biology
+  # let !d self assert = RmYN02 exhibited far lower sequence identity to SARS-CoV-2 in the S gene (nucleotide 71.8%, amino acid 72.9%), compared to 97.4% amino acid identity between RaTG13 and SARS-CoV-2. Strikingly, RmYN02 only possessed 62.4% amino acid identity to SARS-CoV-2 in the RBD and might not bind to angiotensin-converting enzyme 2 (ACE2), whereas the pangolin beta-CoV from Guangdong had amino acid identity of 97.4%, and was the closest relative of SARS-CoV-2 in this region.
 
   / May, 2020 - Current Biology
-  let !c self assert = In contrast, RmYN02 was closely related to SARS-CoV-2, exhibiting 93.3% nucleotide sequence identity, although it was less similar to SARS-CoV-2 than RaTG13 (96.1%) across the genome as a whole. RmYN02 and SARS-CoV-2 were extremely similar (>96% sequence identity) in most genomic regions (e.g., 1ab, 3a, E, 6, 7a, N, and 10). In particular, RmYN02 was 97.2% identical to SARS-CoV-2 in the longest encoding gene region, 1ab (21,285 nucleotides).
+  let !e self assert = The amino acid deletions in RmYN02 RBD made two loops near the receptor binding site that are shorter than those in SARS-CoV-2 RBD. Importantly, the conserved disulfide bond in the external subdomain of SARS-CoV (PDB: 2DD8), SARS-CoV-2 (PDB: 6LZG), RaTG13, pangolin/MP789/2019, and pangolin/GX/P5L/2017 was missing in RmYN02. It is possible that the bat SARS-related CoVs with loop deletions, including RmYN02, ZXC21, and ZC45, use a currently unknown receptor.
 
   / May, 2020 - Current Biology
-  let !d self assert = RmYN02 exhibited far lower sequence identity to SARS-CoV-2 in the S gene (nucleotide 71.8%, amino acid 72.9%), compared to 97.4% amino acid identity between RaTG13 and SARS-CoV-2. Strikingly, RmYN02 only possessed 62.4% amino acid identity to SARS-CoV-2 in the RBD, whereas the pangolin beta-CoV from Guangdong had amino acid identity of 97.4%, and was the closest relative of SARS-CoV-2 in this region.
+  let !f self assert = In contrast, RaTG13, pangolin/MP789/2019, and pangolin/P5L/2017 did not have the deletions, and had similar conformations at their external domains, indicating that they may also use ACE2 as cell receptor, although with the exception of pangolin/MP789/2019, all exhibited amino acid variation to SARS-CoV-2. Indeed, the pangolin/MP789/2019 virus showed highly structural homology with SARS-CoV-2.
 
   / May, 2020 - Current Biology
-  let !e self assert = A similarity plot estimated using Simplot also revealed that RmYN02 was more similar to SARS-CoV-2 than RaTG13 in most genome regions. Again, in the RBD, the pangolin/MP789/2019 virus shared the highest sequence identity to SARS-CoV-2
+  let !g self assert = Pangolin/MP789/2019 possessed the identical amino acid residues to SARS-CoV-2 at all six positions. In contrast, RaTG13, RmYN02, and RmYN01 possessed the same amino acid residue as SARS-CoV-2 at only one of the six positions each (RaTG13, L455; RmYN02, Y505; RmYN01, Y505), despite RaTG13 being the closest relative in the spike protein. Such an evolutionary pattern is indicative of a complex combination of recombination and natural selection.
 
   / May, 2020 - Current Biology
-  let !f self assert = We analyzed the RBD of RmYN02, RaTG13, and the two pangolin beta-CoVs using homology modeling (S3 for sequence alignment). The amino acid deletions in RmYN02 RBD made two loops near the receptor binding site that are shorter than those in SARS-CoV-2 RBD. Importantly, the conserved disulfide bond in the external subdomain of SARS-CoV (PDB: 2DD8), SARS-CoV-2 (PDB: 6LZG), RaTG13, pangolin/MP789/2019, and pangolin/GX/P5L/2017 was missing in RmYN02. We speculate that these deletions may cause conformational variations and consequently reduce the binding of RmYN02 RBD with ACE2 or even cause non-binding. It is possible that the bat SARS-related CoVs with loop deletions, including RmYN02, ZXC21, and ZC45, use a currently unknown receptor.
+  let !h self assert = Notably, SARS-CoV-2 is characterized by a four-amino-acid insertion at the junction of S1 and S2, not observed in other lineage B beta-CoVs. This insertion, which represents a poly-basic (furin) cleavage site, is unique to SARS-CoV-2 and is present in all SARS-CoV-2 sequenced so far. The insertion of three residues, PAA, at the junction of S1 and S2 in RmYN02 is therefore of major importance. Although the inserted residues (and hence nucleotides) are not the same as those in RmYN02, and hence are indicative of an independent insertion event, that they are presented in wildlife (bats) strongly suggests that they are of natural origin and have likely been acquired by recombination. As such, these data are strongly suggestive of a natural zoonotic origin of SARS-CoV-2.
+
+  # / May, 2020 - Current Biology
+  # let !i self assert = We next performed a phylogenetic analysis of RmYN02, RaTG13, SARS-CoV-2, and the pangolin beta-CoVs. The pangolin beta-CoVs formed two well-supported sub-lineages, representing animal seized by anti-smuggling authorities in Guangxi (pangolin-CoV/GX) and Guangdong (pangolin-CoV/GD) provinces. However, whether pangolins are natural reservoirs for these viruses, or they acquired these viruses independently from bats or other wildlife, requires further sampling.
 
   / May, 2020 - Current Biology
-  let !g self assert = In contrast, RaTG13, pangolin/MP789/2019, and pangolin/P5L/2017 did not have the deletions, and had similar conformations at their external domains, indicating that they may also use ACE2 as cell receptor, although with the exception of pangolin/MP789/2019, all exhibited amino acid variation to SARS-CoV-2. Indeed, the pangolin/MP789/2019 virus showed highly structural homology with SARS-CoV-2.
+  let !j self assert = More notable was that RmYN02 was the closest relative of SARS-CoV-2 in most of the virus genome, although these two viruses were still separated from each other by a relatively long branch length. In the spike gene tree, SARS-CoV-2 clustered with RaTG13 and was distant from RmYN02, suggesting that the latter virus has experienced recombination in this gene.
 
   / May, 2020 - Current Biology
-  let !h self assert = Six amino acid residues at the RBD (L455, F486, Q493, S494, N501, and Y505) have been reported to be major determinants of efficient receptor binding of SARS-CoV-2 to ACE2. As noted above, and consistent with the homology modeling, pangolin/MP789/2019 possessed the identical amino acid residues to SARS-CoV-2 at all six positions. In contrast, RaTG13, RmYN02, and RmYN01 possessed the same amino acid residue as SARS-CoV-2 at only one of the six positions each (RaTG13, L455; RmYN02, Y505; RmYN01, Y505), despite RaTG13 being the closest relative in the spike protein. Such an evolutionary pattern is indicative of a complex combination of recombination and natural selection.
+  let !k self assert = In phylogeny of the RBD, SARS-CoV-2 was most closely related to pangolin-CoV/GD, with the bat viruses falling in more divergent positions, again indicative of recombination.
 
   / May, 2020 - Current Biology
-  let !i self assert = Notably, SARS-CoV-2 is characterized by a four-amino-acid insertion at the junction of S1 and S2, not observed in other lineage B beta-CoVs. This insertion, which represents a poly-basic (furin) cleavage site, is unique to SARS-CoV-2 and is present in all SARS-CoV-2 sequenced so far. The insertion of three residues, PAA, at the junction of S1 and S2 in RmYN02 is therefore of major importance. Although the inserted residues (and hence nucleotides) are not the same as those in RmYN02, and hence are indicative of an independent insertion event, that they are presented in wildlife (bats) strongly suggests that they are of natural origin and have likely been acquired by recombination. As such, these data are strongly suggestive of a natural zoonotic origin of SARS-CoV-2.
+  let !l self assert = Finally, phylogenetic analysis of the complete RNA-dependent RNA polymerase (RdRp) gene, revealed that RmYN02, RaTG13, and SARS-CoV-2 formed a well-supported sub-cluster distinct from the pangolin viruses. We confirmed the bat host of RmYN02, Rhinolophus malayanus, by analyzing the sequence of the cytochrome b (Cytb) gene from the NGS data; this revealed 100% sequence identity to a Rhinolophus malayanus isolate.
+
+  # / May, 2020 - Current Biology
+  # let !m self assert = Both Rhinolophus malayanus and Rhinolophus affinis are widely distributed in southwest China and southeast Asia. Generally, they do not migrate over long distances and are highly gregarious such that they are likely to live in the same caves, which might facilitate the exchange of viruses between them and the occurrence of recombination. Notably, RaTG13 was identified from anal swabs and RmYN02 was identified from feces, which is a simple, but feasible way for bats to spread the virus to other animals, especially species that can utilize cave environments.
 
   / May, 2020 - Current Biology
-  let !j self assert = We next performed a phylogenetic analysis of RmYN02, RaTG13, SARS-CoV-2, and the pangolin beta-CoVs. Consistent with previous research, the pangolin beta-CoVs formed two well-supported sub-lineages, representing animal seized by anti-smuggling authorities in Guangxi (pangolin-CoV/GX) and Guangdong (pangolin-CoV/GD) provinces. However, whether pangolins are natural reservoirs for these viruses, or they acquired these viruses independently from bats or other wildlife, requires further sampling
-
-  / May, 2020 - Current Biology
-  let !k self assert = More notable was that RmYN02 was the closest relative of SARS-CoV-2 in most of the virus genome, although these two viruses were still separated from each other by a relatively long branch length. In the spike gene tree, SARS-CoV-2 clustered with RaTG13 and was distant from RmYN02, suggesting that the latter virus has experienced recombination in this gene.
-
-  / May, 2020 - Current Biology
-  let !l self assert = In phylogeny of the RBD, SARS-CoV-2 was most closely related to pangolin-CoV/GD, with the bat viruses falling in more divergent positions, again indicative of recombination.
-
-  / May, 2020 - Current Biology
-  let !m self assert = Finally, phylogenetic analysis of the complete RNA-dependent RNA polymerase (RdRp) gene, which is often used in the phylogenetic analysis of RNA viruses, revealed that RmYN02, RaTG13, and SARS-CoV-2 formed a well-supported sub-cluster distinct from the pangolin viruses. We confirmed the bat host of RmYN02, Rhinolophus malayanus, by analyzing the sequence of the cytochrome b (Cytb) gene from the NGS data; this revealed 100% sequence identity to a Rhinolophus malayanus isolate.
-
-  / May, 2020 - Current Biology
-  let !n self assert = Both Rhinolophus malayanus and Rhinolophus affinis are widely distributed in southwest China and southeast Asia. Generally, they do not migrate over long distances and are highly gregarious such that they are likely to live in the same caves, which might facilitate the exchange of viruses between them and the occurrence of recombination. Notably, RaTG13 was identified from anal swabs and RmYN02 was identified from feces, which is a simple, but feasible way for bats to spread the virus to other animals, especially species that can utilize cave environments.
-
-  / May, 2020 - Current Biology
-  let !o self assert = Our study reaffirms that bats, particularly those of the genus Rhinolophus, are important natural reservoirs for coronaviruses and currently harbor the closest relatives of SARS-CoV-2, although this picture may change with increased wildlife sampling.
+  let !n self assert = Our study reaffirms that bats, particularly those of the genus Rhinolophus, are important natural reservoirs for coronaviruses and currently harbor the closest relatives of SARS-CoV-2, although this picture may change with increased wildlife sampling.
 
 
 
-  # doubt to the origin story, poly-basic (furin) cleavage site, the furin clevage, There is zero evidence that confirms that the SARS-CoV-2 S1/S2 PRRA(R) FCS arose naturally or artificially, but neither scenario can be ruled out. newly acquires furin-cleavage site, all SARSlike viruses isolated from bats lack this polybasic site and are cleaved by TMPRSS2 or endosomal cathepsins in the target cells
+  # doubt to the origin story, poly-basic (furin) cleavage site, the furin clevage, There is zero evidence that confirms that the SARS-CoV-2 S1/S2 PRRA(R) FCS arose naturally or artificially, but neither scenario can be ruled out. newly acquires furin-cleavage site, all SARSlike viruses isolated from bats lack this polybasic site and are cleaved by TMPRSS2 or endosomal cathepsins in the target cells, Vaccine frontier.
   // Identification of a common deletion in the spike protein of SARS-CoV-2
   doi: https://doi.org/10.1101/2020.03.31.015941
   ref 'Liu_et_al_04_02_2020
-  head = These data indicate (1) the deletion of QTQTN, at the flank of polybasic cleavage site, is likely benefit the SARS-CoV-2 replication or infection in vitro but under strong purification selection in vivo since it is rarely identified in clinical samples; (2) there could be a very efficient mechanism for deleting this region from viral genome as the variants losing 23585-23599 is commonly detected after two rounds of cell passage. The mechanistic explanation for this in vitro adaptation and in vivo purification processes (or reverse) that led to such genomic changes in SARSCoV-2 requires further work. Nonetheless, this study has provided valuable clues to aid further investigation of spike protein function and virus evolution. The deletion mutation identified in vitro isolation should be also noted for current vaccine development.
+  head = These data indicate the deletion of QTQTN, at the flank of polybasic cleavage site, is likely benefit the SARS-CoV-2 replication or infection in vitro but under strong purification selection in vivo since it is rarely identified in clinical samples; there could be a very efficient mechanism for deleting this region from viral genome as the variants losing 23585-23599 is commonly detected after two rounds of cell passage.
 
   >>> Abstract
     Two notable features have been identified in the SARS-CoV-2 genome: (1) the receptor binding domain of SARS-CoV-2; (2) a unique insertion of twelve nucleotide or four amino acids (PRRA) at the S1 and S2 boundary. For the first feature, the similar RBD identified in SARs-like virus from pangolin suggests the RBD in SARS-CoV-2 may already exist in animal host(s) before it transmitted into human. The left puzzle is the history and function of the insertion at S1/S2 boundary, which is uniquely identified in SARS-CoV-2. In this study, we identified two variants from the first Guangdong SARS-CoV-2 cell strain, with deletion mutations on polybasic cleavage site (PRRAR) and its flank sites. More extensive screening indicates the deletion at the flank sites of PRRAR could be detected in 3 of 68 clinical samples and half of 22 in vitro isolated viral strains. These data indicate (1) the deletion of QTQTN, at the flank of polybasic cleavage site, is likely benefit the SARS-CoV-2 replication or infection in vitro but under strong purification selection in vivo since it is rarely identified in clinical samples; (2) there could be a very efficient mechanism for deleting this region from viral genome as the variants losing 23585-23599 is commonly detected after two rounds of cell passage. The mechanistic explanation for this in vitro adaptation and in vivo purification processes (or reverse) that led to such genomic changes in SARSCoV-2 requires further work. Nonetheless, this study has provided valuable clues to aid further investigation of spike protein function and virus evolution. The deletion mutation identified in vitro isolation should be also noted for current vaccine development.
 
-  -- exports
-    !a
-    !b
-    !c
-    !d
-    !e
-    !f
-    !g
+  -- RmYN02
     !h
 
-  / April, 2020 - bioRxiv
-  let !a self assert = We identified two variants from the first Guangdong SARS-CoV-2 cell strain, with deletion mutations on polybasic cleavage site (PRRAR) and its flank sites. More extensive screening indicates the deletion at the flank sites of PRRAR could be detected in 3 of 68 clinical samples and half of 22 in vitro isolated viral strains.
+  # / April, 2020 - bioRxiv
+  # let !a self assert = We identified two variants from the first Guangdong SARS-CoV-2 cell strain, with deletion mutations on polybasic cleavage site (PRRAR) and its flank sites. More extensive screening indicates the deletion at the flank sites of PRRAR could be detected in 3 of 68 clinical samples and half of 22 in vitro isolated viral strains.
+
+  # / April, 2020 - bioRxiv
+  # let !b self assert = These data indicate (1) the deletion of QTQTN, at the flank of polybasic cleavage site, is likely benefit the SARS-CoV-2 replication or infection in vitro but under strong purification selection in vivo since it is rarely identified in clinical samples; (2) there could be a very efficient mechanism for deleting this region from viral genome as the variants losing 23585-23599 is commonly detected after two rounds of cell passage.
+
+  # / April, 2020 - bioRxiv
+  # let !c self assert = We found there were two variants in cell-isolated viral strain with deletions at (1) 23585–23599, flanking the polybasic cleavage site, resulting in a QTQTN deletion in spike protein (one amino acid before thepolybasic cleavage site) and (2) 23596–23617, including the polybasic cleavage site and the 6 nucleotides 5’ of the cleavage site, resulted in a NSPRRAR deletion that included the polybasic cleavage site.
+
+  # / April, 2020 - bioRxiv
+  # let !d self assert = Variant sites were called by using iVar7 with depth >=20 as a threshold. With this method, 10 of 21 cell isolate strains have different ratios of variants (>10%) with deletion at the flank of the polybasic cleavage site (deletion at 23585–23599). One has the variant with deletion on the polybasic cleavage site (deletion at 23596–23617). The deletion is commonly identified in cell isolated strains: the strains with a relative higher ratio of this deletion were dispersed in the phylogenetic tree suggesting the deletion mutation was not restricted to a specific genetic lineage of SARS-CoV-2 viruses.
+
+  # / April, 2020 - bioRxiv
+  # let !e self assert = There were 68 SARS-CoV-2 genomes with sequencing average depth >=20 at the sites neighboring 23585. The variants with the deletion at 23585-23599 were found in 3 (6%) of clinical samples with ratios ranging from 8.8–32.8% indicating this deletion may also occur in vivo infections even though the rate was extremely low compared to the results from in vitro. To date, there are no genome sequences deposited in public dataset having this deletion.
+
+  # / April, 2020 - bioRxiv
+  # let !f self assert = For SARs-CoV-1, strong positive selection has been identified in the spike coding sequence and deletions in the other gene segment at the early stage but not the late stage of the epidemic, suggesting the adaptive pressures operated on the SARS-CoV-1 genome at the beginning of the epidemic. This result also indicates the SARs-CoV-1 may not well established in the human population at the early stage when it first transmitted from an intermediate animal host. For SARs-CoV-2, the virus presents high infectivity and efficient transmission capability among the human population since it is firstly identified. Genetic changes related with viral fitness of SARs-CoV-2 require further epidemiological investigation and functional experiments.
 
   / April, 2020 - bioRxiv
-  let !b self assert = These data indicate (1) the deletion of QTQTN, at the flank of polybasic cleavage site, is likely benefit the SARS-CoV-2 replication or infection in vitro but under strong purification selection in vivo since it is rarely identified in clinical samples; (2) there could be a very efficient mechanism for deleting this region from viral genome as the variants losing 23585-23599 is commonly detected after two rounds of cell passage.
-
-  / April, 2020 - bioRxiv
-  let !c self assert = Nonetheless, this study has provided valuable clues to aid further investigation of spike protein function and virus evolution. The deletion mutation identified in vitro isolation should be also noted for current vaccine development.
-
-  / April, 2020 - bioRxiv
-  let !d self assert = Identification of deletions in SARS-CoV-2 spike protein: After mapping to the SARS-CoV-2 reference genome (MN908947.3), we found there were two variants in cell-isolated viral strain with deletions at (1) 23585–23599, flanking the polybasic cleavage site, resulting in a QTQTN deletion in spike protein (one amino acid before thepolybasic cleavage site) and (2) 23596–23617, including the polybasic cleavage site and the 6 nucleotides 5’ of the cleavage site, resulted in a NSPRRAR deletion that included the polybasic cleavage site.
-
-  / April, 2020 - bioRxiv
-  let !e self assert = Variant sites were called by using iVar7 with depth >=20 as a threshold. With this method, 10 of 21 cell isolate strains have different ratios of variants (>10%) with deletion at the flank of the polybasic cleavage site (deletion at 23585–23599). One has the variant with deletion on the polybasic cleavage site (deletion at 23596–23617). To find out whether the deletion on 23585–23599 was restricted in a specific genetic lineage, we next investigated the phylogenetic relationship of these strains and first 014 strain described above. The deletion is commonly identified in cell isolated strains: the strains with a relative higher ratio of this deletion were dispersed in the phylogenetic tree suggesting the deletion mutation was not restricted to a specific genetic lineage of SARS-CoV-2 viruses.
-
-  / April, 2020 - bioRxiv
-  let !f self assert = Screening for deletion variants in original clinical samples: There were 68 SARS-CoV-2 genomes with sequencing average depth >=20 at the sites neighboring 23585. The variants with the deletion at 23585-23599 were found in 3 (6%) of clinical samples with ratios ranging from 8.8–32.8% indicating this deletion may also occur in vivo infections even though the rate was extremely low compared to the results from in vitro. To date, there are no genome sequences deposited in public dataset having this deletion. However, this did not mean this variant did not exist in currently released sequences since most of the variants with a lower ratio would be discarded when generating the final consensus sequences.
-
-  / April, 2020 - bioRxiv
-  let !g self assert = The spike protein of coronaviruses plays a important role in viral infectivity, transmissibility and, antigenicity. Therefore, the genetic character of the spike protein in SARs-CoV-2 would shed light on its origin and evolution. For SARs-CoV-1, strong positive selection has been identified in the spike coding sequence and deletions in the other gene segment at the early stage but not the late stage of the epidemic, suggesting the adaptive pressures operated on the SARS-CoV-1 genome at the beginning of the epidemic. This result also indicates the SARs-CoV-1 may not well established in the human population at the early stage when it first transmitted from an intermediate animal host. For SARs-CoV-2, the virus presents high infectivity and efficient transmission capability among the human population since it is firstly identified. Genetic changes related with viral fitness of SARs-CoV-2 require further epidemiological investigation and functional experiments.
-
-  / April, 2020 - bioRxiv
-  let !h self assert = Notably, a recently reported SARs-like strain RmYN02, which is phylogenetically related to a SARS-CoV-2, also has a deletion at the QTQT site. This raises another possible scenario, which is that SARS-CoV-2-like viruses in animals may not have QTQTN in their spike protein and a variant with this insertion occurred upon virus transmission into humans. The mechanistic explanation and functional significance of these genomic changes in SARS-CoV-2 requires further work.
+  let !h self assert = Notably, a recently reported SARs-like strain RmYN02, which is phylogenetically related to a SARS-CoV-2, also has a deletion at the QTQT site. This raises another possible scenario, which is that SARS-CoV-2-like viruses in animals may not have QTQTN in their spike protein and a variant with this insertion occurred upon virus transmission into humans.
 
 
 
@@ -2346,48 +2246,48 @@ ref 'Sharma_et_al_07_08_2020
   // Functional Analysis of Potential Cleavage Sites in the MERS-coronavirus Spike Protein
   doi: https://doi.org/10.1038/s41598-018-34859-w
   ref 'Kleine-Weber_et_al_11_09_2018
-  head = Our data support the concept that pre-cleavage of MERS-S at the S1/S2 site by furin promotes subsequent S protein activation by TMPRSS2. However, pre-cleavage was not essential for S protein activation by TMPRSS2 and Caco-2 cell entry driven by a MERS-S variant lacking pre-cleavage was still TMPRSS2 dependent. Moreover, our results suggest that the S2′ site, specifically the second arginine, is important for efficient S protein activation by TMPRSS2 and indicate that cathepsin L but not TMPRSS2 can employ alternative sites for S protein activation. Collective, our results advance our understanding of the proteases facilitating S protein activation and of their cleavage sites within the S protein.
+  head = Our data support the concept that pre-cleavage of MERS-S at the S1/S2 site by furin promotes subsequent S protein activation by TMPRSS2. However, pre-cleavage was not essential for S protein activation by TMPRSS2 and Caco-2 cell entry driven by a MERS-S variant lacking pre-cleavage was still TMPRSS2 dependent. Moreover, our results suggest that the S2′ site, specifically the second arginine, is important for efficient S protein activation by TMPRSS2 and indicate that cathepsin L but not TMPRSS2 can employ alternative sites for S protein activation.
 
   >>> Abstract
     The Middle East respiratory syndrome-related coronavirus (MERS-CoV) can cause severe disease and has pandemic potential. Therefore, development of antiviral strategies is an important task. The activation of the viral spike protein (S) by host cell proteases is essential for viral infectivity and the responsible enzymes are potential therapeutic targets. The cellular proteases furin, cathepsin L and TMPRSS2 can activate MERS-S and may cleave the S protein at two distinct sites, termed S1/S2 and S2′. Moreover, a potential cathepsin L cleavage site in MERS-S has been reported. However, the relative importance of these sites for MERS-S activation is incompletely understood. Here, we used mutagenic analysis and MERS-S-bearing vectors to study the contribution of specific cleavage sites to S protein-driven entry. We found that an intact S1/S2 site was only required for efficient entry into cells expressing endogenous TMPRSS2. In keeping with a previous study, pre-cleavage at the S1/S2 motif (RSVR) was important although not essential for subsequent MERS-S activation by TMPRSS2, and indirect evidence was obtained that this motif is processed by a protease depending on an intact RXXR motif, most likely furin. In contrast, the S2′ site (RSAR) was required for robust viral entry into all cell lines tested and the integrity of one of the two arginines was sufficient for efficient entry. These findings suggest that cleavage at S2′ is carried out by proteases recognizing a single arginine, most likely TMPRSS2 and cathepsin L. Finally, mutation of the proposed cathepsin L site did not impact viral entry and double mutation of S1/S2 and S2′ site was compatible with cathepsin L- but not TMPRSS2-dependent host cell entry, indicating that cathepsin L can process the S protein at auxiliary sites. Collectively, our results indicate a rigid sequence requirement for S protein activation by TMPRSS2 but not cathepsin L.
 
-  -- exports
-    !a
-    !b
-    !c
-    !d
-    !e
-    !f
-    !g
-    !h
-    !i
+  # -- exports
+  #   !a
+  #   !b
+  #   !c
+  #   !d
+  #   !e
+  #   !f
+  #   !g
+  #   !h
+  #   !i
 
-  / November, 2018 - Scientific Reports
-  let !a self assert = We found that an intact S1/S2 site was only required for efficient entry into cells expressing endogenous TMPRSS2.
+  # / November, 2018 - Scientific Reports
+  # let !a self assert = We found that an intact S1/S2 site was only required for efficient entry into cells expressing endogenous TMPRSS2.
 
-  / November, 2018 - Scientific Reports
-  let !b self assert = In keeping with a previous study, pre-cleavage at the S1/S2 motif (RSVR) was important although not essential for subsequent MERS-S activation by TMPRSS2, and indirect evidence was obtained that this motif is processed by a protease depending on an intact RXXR motif, most likely furin. In contrast, the S2′ site (RSAR) was required for robust viral entry into all cell lines tested and the integrity of one of the two arginines was sufficient for efficient entry.
+  # / November, 2018 - Scientific Reports
+  # let !b self assert = In keeping with a previous study, pre-cleavage at the S1/S2 motif (RSVR) was important although not essential for subsequent MERS-S activation by TMPRSS2, and indirect evidence was obtained that this motif is processed by a protease depending on an intact RXXR motif, most likely furin. In contrast, the S2′ site (RSAR) was required for robust viral entry into all cell lines tested and the integrity of one of the two arginines was sufficient for efficient entry.
 
-  / November, 2018 - Scientific Reports
-  let !c self assert = Our data support the concept that pre-cleavage of MERS-S at the S1/S2 site by furin promotes subsequent S protein activation by TMPRSS2. However, pre-cleavage was not essential for S protein activation by TMPRSS2 and Caco-2 cell entry driven by a MERS-S variant lacking pre-cleavage was still TMPRSS2 dependent. Moreover, our results suggest that the S2′ site, specifically the second arginine, is important for efficient S protein activation by TMPRSS2 and indicate that cathepsin L but not TMPRSS2 can employ alternative sites for S protein activation. Collective, our results advance our understanding of the proteases facilitating S protein activation and of their cleavage sites within the S protein.
+  # / November, 2018 - Scientific Reports
+  # let !c self assert = Our data support the concept that pre-cleavage of MERS-S at the S1/S2 site by furin promotes subsequent S protein activation by TMPRSS2. However, pre-cleavage was not essential for S protein activation by TMPRSS2 and Caco-2 cell entry driven by a MERS-S variant lacking pre-cleavage was still TMPRSS2 dependent. Moreover, our results suggest that the S2′ site, specifically the second arginine, is important for efficient S protein activation by TMPRSS2 and indicate that cathepsin L but not TMPRSS2 can employ alternative sites for S protein activation. Collective, our results advance our understanding of the proteases facilitating S protein activation and of their cleavage sites within the S protein.
 
-  / November, 2018 - Scientific Reports
-  let !d self assert = The wt S protein and all S protein mutants analyzed were readily incorporated into VSV particles, although some variations between particle preparations were observed. Uncleaved as well as cleaved forms of the S protein were detected in particles, with the exception of mutants with altered S1/S2 site, which exclusively incorporated uncleaved S protein. Thus, alteration of the S1/S2, cathepsin L and S2′ sites is compatible with particle incorporation of the S protein and only mutation of S1/S2 site abrogates S protein processing in particle producing cells.
+  # / November, 2018 - Scientific Reports
+  # let !d self assert = The wt S protein and all S protein mutants analyzed were readily incorporated into VSV particles, although some variations between particle preparations were observed. Uncleaved as well as cleaved forms of the S protein were detected in particles, with the exception of mutants with altered S1/S2 site, which exclusively incorporated uncleaved S protein. Thus, alteration of the S1/S2, cathepsin L and S2′ sites is compatible with particle incorporation of the S protein and only mutation of S1/S2 site abrogates S protein processing in particle producing cells.
 
-  / November, 2018 - Nature
-  let !e self assert = All cell lines analyzed as well as lung tissue expressed cathepsin L and furin mRNA, in keeping with the previously documented broad expression of these enzymes27,28, although cathepsin L levels in Vero E6 cells were relatively low. In contrast, robust levels of TMPRSS2 mRNA were only found in Caco-2 cells and lung tissue, again in agreement with published data29. Finally, all cell lines and lung tissue were positive for DPP4 mRNA, with Caco-2 cells expressing the highest levels, and transfection of DPP4 expression plasmid revealed that the low amounts of endogenous DPP4 in 293T cells limit the efficiency of S protein driven entry.
+  # / November, 2018 - Nature
+  # let !e self assert = All cell lines analyzed as well as lung tissue expressed cathepsin L and furin mRNA, in keeping with the previously documented broad expression of these enzymes27,28, although cathepsin L levels in Vero E6 cells were relatively low. In contrast, robust levels of TMPRSS2 mRNA were only found in Caco-2 cells and lung tissue, again in agreement with published data29. Finally, all cell lines and lung tissue were positive for DPP4 mRNA, with Caco-2 cells expressing the highest levels, and transfection of DPP4 expression plasmid revealed that the low amounts of endogenous DPP4 in 293T cells limit the efficiency of S protein driven entry.
 
-  / November, 2018 - Scientific Reports
-  let !f self assert = Pre-cleavage at S1/S2 promoted but was not essential for subsequent S protein activation by TMPRSS2, although it should be stated that TMPRSS2 levels in the transiently transfected 293T cells examined here might exceed those in lung tissue. Moreover, residual entry of the S1/S2 mutant into Caco-2 cells was not facilitated by cathepsin L, as one would have expected from previous work with Calu-3 and Huh7/TMPRSS2 cells16, but remained TMPRSS2 dependent. Whether these discrepancies reflect cell line specific differences remains to be determined.
+  # / November, 2018 - Scientific Reports
+  # let !f self assert = Pre-cleavage at S1/S2 promoted but was not essential for subsequent S protein activation by TMPRSS2, although it should be stated that TMPRSS2 levels in the transiently transfected 293T cells examined here might exceed those in lung tissue. Moreover, residual entry of the S1/S2 mutant into Caco-2 cells was not facilitated by cathepsin L, as one would have expected from previous work with Calu-3 and Huh7/TMPRSS2 cells16, but remained TMPRSS2 dependent. Whether these discrepancies reflect cell line specific differences remains to be determined.
 
-  / November, 2018 - Scientific Reports
-  let !g self assert = It is noteworthy that Caco-2 cell entry driven by the S protein of SARS-CoV also relied on TMPRSS2 while entry driven by the glycoprotein of Ebola virus, which is known to depend on cathepsin B and cathepsin L activity, was blocked by the cathepsin B/L inhibitor MDL28170. Thus, active cathepsin L seems to be expressed in Caco-2 cells. Finally, our results suggest that the second arginine at the S2′ site might be essential for MERS-S activation by TMPRSS2, since mutation of this residue markedly reduced S protein-driven entry into Caco-2 cells, while mutation of the first arginine did not diminish entry efficiency.
+  # / November, 2018 - Scientific Reports
+  # let !g self assert = It is noteworthy that Caco-2 cell entry driven by the S protein of SARS-CoV also relied on TMPRSS2 while entry driven by the glycoprotein of Ebola virus, which is known to depend on cathepsin B and cathepsin L activity, was blocked by the cathepsin B/L inhibitor MDL28170. Thus, active cathepsin L seems to be expressed in Caco-2 cells. Finally, our results suggest that the second arginine at the S2′ site might be essential for MERS-S activation by TMPRSS2, since mutation of this residue markedly reduced S protein-driven entry into Caco-2 cells, while mutation of the first arginine did not diminish entry efficiency.
 
-  / November, 2018 - Scientific Reports
-  let !h self assert = Efficient MERS-S-driven entry into Vero E6, 293T and 293T+DPP4 cells was facilitated by cathepsin L and was largely independent of the S1/S2 site but required an intact S2′ site, in keeping with cleavage of this site being required for liberation of the N-terminus of the fusion peptide in the S2 subunit.
+  # / November, 2018 - Scientific Reports
+  # let !h self assert = Efficient MERS-S-driven entry into Vero E6, 293T and 293T+DPP4 cells was facilitated by cathepsin L and was largely independent of the S1/S2 site but required an intact S2′ site, in keeping with cleavage of this site being required for liberation of the N-terminus of the fusion peptide in the S2 subunit.
 
-  / November, 2018 - Scientific Reports
-  let !i self assert = These findings suggest that cleavage at S2′ is carried out by proteases recognizing a single arginine, most likely TMPRSS2 and cathepsin L. Finally, mutation of the proposed cathepsin L site did not impact viral entry and double mutation of S1/S2 and S2′ site was compatible with cathepsin L- but not TMPRSS2-dependent host cell entry, indicating that cathepsin L can process the S protein at auxiliary sites. Collectively, our results indicate a rigid sequence requirement for S protein activation by TMPRSS2 but not cathepsin L.
+  # / November, 2018 - Scientific Reports
+  # let !i self assert = These findings suggest that cleavage at S2′ is carried out by proteases recognizing a single arginine, most likely TMPRSS2 and cathepsin L. Finally, mutation of the proposed cathepsin L site did not impact viral entry and double mutation of S1/S2 and S2′ site was compatible with cathepsin L- but not TMPRSS2-dependent host cell entry, indicating that cathepsin L can process the S protein at auxiliary sites. Collectively, our results indicate a rigid sequence requirement for S protein activation by TMPRSS2 but not cathepsin L.
 
 
 
@@ -2395,73 +2295,37 @@ ref 'Sharma_et_al_07_08_2020
   // Attenuated SARS-CoV-2 Variants With Deletions at the S1/S2 Junction
   doi: https://doi.org/10.1080/22221751.2020.1756700
   ref 'Lau_et_al_05_04_2020
-  head = Through plaque purification of Vero-E6 cultured SARS-CoV-2, we found a series of variants which contain 15-30-bp deletions (Del-mut) or point mutations respectively at the S1/S2 junction. Examination of the original clinical specimen from which the isolate was derived, and 26 additional SARS-CoV-2 positive clinical specimens, failed to detect these variants. Infection of hamsters shows that one of the variants (Del-mut-1) which carries deletion of 10 amino acids (30bp) does not cause the body weight loss or more severe pathological changes in the lungs that is associated with wild type virus infection.
+  head = We observed a series of deleted mutants (Del-muts) and point mutation variants in Vero-E6 cell cultures of a clinical isolate. In a challenging trial in hamsters, Del-mut-1 variant in infected hamsters does not cause the body weight loss or more severe pathological changes in the lungs that is associated with wild type virus infection. It would be important to screen the prevalence of these variants in asymptomatic infected cases, and a potential as an attenuated vaccine or laboratory tool.
 
   >>> Abstract
     The emergence of SARS-CoV-2 has led to the current global coronavirus pandemic and more than one million infections since December 2019. The exact origin of SARS-CoV-2 remains elusive, but the presence of a distinct motif in the S1/S2 junction region suggests the possible acquisition of cleavage site(s) in the spike protein that promoted cross-species transmission. Through plaque purification of Vero-E6 cultured SARS-CoV-2, we found a series of variants which contain 15-30-bp deletions (Del-mut) or point mutations respectively at the S1/S2 junction. Examination of the original clinical specimen from which the isolate was derived, and 26 additional SARS-CoV-2 positive clinical specimens, failed to detect these variants. Infection of hamsters shows that one of the variants (Del-mut-1) which carries deletion of 10 amino acids (30bp) does not cause the body weight loss or more severe pathological changes in the lungs that is associated with wild type virus infection. We suggest that the unique cleavage motif promoting SARS-CoV-2 infection in humans may be under strong selective pressure, given that replication in permissive Vero-E6 cells leads to the loss of this adaptive function. It would be important to screen the prevalence of these variants in asymptomatic infected cases. The potential of the Del-mut variants as an attenuated vaccine or laboratory tool should be evaluated.
 
-  -- exports
-    !a
-    !b
-    !c
-    !d
-    !e
-    !f
+  -- therpeutics frontiers
     !g
-    !h
+
+  # / May, 2020 - Emerging Microbes & Infections
+  # let !a self assert = We found multiple variants containing in-frame deletions from 15 to 30 nucleotides and point mutations in the S1/S2 junction. One of the variants contains an in-frame 30-bp deletion which spanned genome coordinates 2035–2064 of the spike region in all small plaque-forming viruses sequenced (Del-mut-1), while no deletion was found in isolates that formed large plaques (WT). Besides this 30-bp deletion, no other deletion or mutation was found in Del-mut-1. Sequence alignment of amino acids shows that this 30-bp deletion is located at the S1/S2 junction. Notably, this deletion removes the PRRA motif from the S1/S2 junction region of the spike protein.
+
+  # / May, 2020 - Emerging Microbes & Infections
+  # let !b self assert = We could not detect this variant in the original clinical specimen from which this isolate was cultured, nor from another 26 clinical specimens confirmed to be positive for SARS-CoV-2. Interestingly, deletion of these 30 base pairs appears to enhance Del-mut-1 variant growth in the mixed population and promote stability through multiple passages in Vero-E6, but not in other human cell lines.
+
+  # / May, 2020 - Emerging Microbes & Infections
+  # let !c self assert = The emergence of attenuated Del-mut variants in Vero-E6 cells suggests that in permissive conditions the host-adaptive function(s) associated with the junction of S1 and S2 that promote replication in humans were not required, leading to the deletion of variable length of motif (5-10-aa or 15-30-bp) from the region.
+
+  # / May, 2020 - Emerging Microbes & Infections
+  # let !d self assert = We challenged four hamsters in each group with WT SARS-CoV-2 or the Del-mut-1 strain (1.5 × 105 pfu). Hamsters infected with WT virus began to lose body weight starting from day 1 post-infection, but this seems to stabilize from day 3 post-infection. In contrast, no apparent body weight loss was observed in hamsters infected with the Del-mut strain.
+
+  # / May, 2020 - Emerging Microbes & Infections
+  # let !e self assert = The histopathological analysis shows that while both WT and Del-mut-1 viruses cause infection in hamsters, the WT virus causes more extensive alveolar wall destruction, alveolar space haemorrhage and mononuclear cell infiltration in the lungs of infected animals. Examination of virus titres in the tracheal and lung tissues confirm that wild type virus replicates more efficiently than the Del-mut-1 variant in infected hamsters
+
+  # / May, 2020 - Emerging Microbes & Infections
+  # let !f self assert = The examination of Del-mut-1 variant virus isolated from infected hamsters did not detect restoration of the deleted 30-bp sequence. Continued passage of Del-mut-1 variant indicates that the mutant virus is stable and increasing population along the passages in Vero-E6 cells, supporting the contention that the acquired function of the S1/S2 junction insertion is only needed for non-permissive replication.
 
   / May, 2020 - Emerging Microbes & Infections
-  let !a self assert = We found multiple variants containing in-frame deletions from 15 to 30 nucleotides and point mutations in the S1/S2 junction. One of the variants contains an in-frame 30-bp deletion which spanned genome coordinates 2035–2064 of the spike region in all small plaque-forming viruses sequenced (Del-mut-1), while no deletion was found in isolates that formed large plaques (WT). Besides this 30-bp deletion, no other deletion or mutation was found in Del-mut-1. Sequence alignment of amino acids shows that this 30-bp deletion is located at the S1/S2 junction. Notably, this deletion removes the PRRA motif from the S1/S2 junction region of the spike protein.
+  let !g self assert = Given its inability to cause severe disease in an animal model, and dependent on safety testing, this attenuated Del-mut-1 variant may prove to be useful for conducting drug screening research or functional studies on SARS-CoV-2 in laboratories where a high-level biosafety facility is not available. The potential of the Del-mut variants as an attenuated vaccine or laboratory tool should be evaluated.
 
-  / May, 2020 - Emerging Microbes & Infections
-  let !b self assert = We could not detect this variant in the original clinical specimen from which this isolate was cultured, nor from another 26 clinical specimens confirmed to be positive for SARS-CoV-2. Interestingly, deletion of these 30 base pairs appears to enhance Del-mut-1 variant growth in the mixed population and promote stability through multiple passages in Vero-E6, but not in other human cell lines.
-
-  / May, 2020 - Emerging Microbes & Infections
-  let !c self assert = The emergence of attenuated Del-mut variants in Vero-E6 cells suggests that in permissive conditions the host-adaptive function(s) associated with the junction of S1 and S2 that promote replication in humans were not required, leading to the deletion of variable length of motif (5-10-aa or 15-30-bp) from the region. Of course, it still possible that that the Deletion-mutants and other variants exist in humans as well, since only very limited numbers of clinical specimens have been screened in this study. It is also possible the level of mutant virus in clinical specimens was too low to be detected by our method. As many infections are reported to be mild or even asymptomatic and are not recognized, it would be extremely important to screen for the presence of different variants circulating in people with different degrees of symptoms, including asymptomatic subjects.
-
-  / May, 2020 - Emerging Microbes & Infections
-  let !d self assert = We challenged four hamsters in each group with WT SARS-CoV-2 or the Del-mut-1 strain (1.5 × 105 pfu). Hamsters infected with WT virus began to lose body weight starting from day 1 post-infection, but this seems to stabilize from day 3 post-infection. In contrast, no apparent body weight loss was observed in hamsters infected with the Del-mut strain.
-
-  / May, 2020 - Emerging Microbes & Infections
-  let !e self assert = The histopathological analysis shows that while both WT and Del-mut-1 viruses cause infection in hamsters, the WT virus causes more extensive alveolar wall destruction, alveolar space haemorrhage and mononuclear cell infiltration in the lungs of infected animals. Examination of virus titres in the tracheal and lung tissues confirm that wild type virus replicates more efficiently than the Del-mut-1 variant in infected hamsters
-
-  / May, 2020 - Emerging Microbes & Infections
-  let !f self assert = Notably, the examination of Del-mut-1 variant virus isolated from infected hamsters did not detect restoration of the deleted 30-bp sequence. Continued passage of Del-mut-1 variant indicates that the mutant virus is stable and increasing population along the passages in Vero-E6 cells, supporting the contention that the acquired function of the S1/S2 junction insertion is only needed for non-permissive replication.
-
-  / May, 2020 - Emerging Microbes & Infections
-  let !g self assert = Given its inability to cause severe disease in an animal model, and dependent on safety testing, this attenuated Del-mut-1 variant may prove to be useful for conducting drug screening research or functional studies on SARS-CoV-2 in laboratories where a high-level biosafety facility is not available.
-
-  / May, 2020 - Emerging Microbes & Infections
-  let !h self assert = We suggest that the unique cleavage motif promoting SARS-CoV-2 infection in humans may be under strong selective pressure, given that replication in permissive Vero-E6 cells leads to the loss of this adaptive function. It would be important to screen the prevalence of these variants in asymptomatic infected cases. The potential of the Del-mut variants as an attenuated vaccine or laboratory tool should be evaluated.
-
-
-
-  # doubt to the origin story, furin clevage, There is zero evidence that confirms that the SARS-CoV-2 S1/S2 PRRA(R) FCS arose naturally or artificially, but neither scenario can be ruled out.newly acquires furin-cleavage site, all SARSlike viruses isolated from bats lack this polybasic site and are cleaved by TMPRSS2 or endosomal cathepsins in the target cells
-  // Furin cleavage of the SARS coronavirus spike glycoprotein enhances cell–cell fusion but does not affect virion entry
-  doi: https://doi.org/10.1016/j.virol.2006.02.003
-  ref 'Follis_et_al_07_05_2006
-  head = We show that furin cleavage at the modified R667 position generates discrete S1 and S2 subunits and potentiates membrane fusion activity. This effect on the cell–cell fusion activity by the S glycoprotein is not, however, reflected in the infectivity of pseudotyped lentiviruses bearing the cleaved glycoprotein. The lack of effect of furin cleavage on virion infectivity mirrors that observed in the normally cleaved S glycoprotein of the murine coronavirus and highlights an additional level of complexity in coronavirus entry.
-
-  >>> Abstract
-    The fusogenic potential of Class I viral envelope glycoproteins is activated by proteloytic cleavage of the precursor glycoprotein to generate the mature receptor-binding and transmembrane fusion subunits. Although the coronavirus (CoV) S glycoproteins share membership in this class of envelope glycoproteins, cleavage to generate the respective S1 and S2 subunits appears absent in a subset of CoV species, including that responsible for the severe acute respiratory syndrome (SARS). To determine whether proteolytic cleavage of the S glycoprotein might be important for the newly emerged SARS-CoV, we introduced a furin recognition site at single basic residues within the putative S1–S2 junctional region. We show that furin cleavage at the modified R667 position generates discrete S1 and S2 subunits and potentiates membrane fusion activity. This effect on the cell–cell fusion activity by the S glycoprotein is not, however, reflected in the infectivity of pseudotyped lentiviruses bearing the cleaved glycoprotein. The lack of effect of furin cleavage on virion infectivity mirrors that observed in the normally cleaved S glycoprotein of the murine coronavirus and highlights an additional level of complexity in coronavirus entry.
-
-  -- exports
-    !a
-    !b
-    !c
-    !d
-
-  / July, 2006 - Virology
-  let !a self assert = In our studies, we show a consistent correlation between furin cleavage at SLLR667 and an increased ability of the glycoprotein to mediate cell–cell fusion. By contrast, furin-mediated cleavage of the S glycoprotein at a more C-terminal recognition motif, RNTR761, does not appear to affect fusogenicity. Although cleavage at these sites has previously been reported, our studies demonstrate the importance of the SLLR667 cleavage in fusion competence of the S glycoprotein. This finding is in agreement with the evolutionary homology in this S1–S2 junctional region among CoV species (Fig. 1).
-
-  / July, 2006 - Virology
-  let !b self assert =  Despite a reasonable correlation between proteolytic cleavage and membrane fusion activity in both the naturally cleaved and uncleaved S glycoproteins, the presence or absence of furin cleavage appears to have surprisingly little impact on the infectivity of the virion particle. MHV virions that contain significant mutations in the furin-recognition site are not proteolytically cleaved yet remain infectious and pathogenic. Here, we demonstrate the converse—that pseudotyped virions bearing the cleaved HTVR glycoprotein are no more capable of mediating virion entry than those bearing the uncleaved wild-type S glycoprotein.
-
-  / July, 2006 - Virology
-  let !c self assert = Although further investigation of the role of endosomal proteases in viral entry will no doubt reveal additional detail to this novel mechanism for envelope glycoprotein activation, the function of the highly conserved furin cleavage site in the CoV life cycle remains unclear. In this regard, it is worthwhile to note another trait of the CoV S glycoproteins that is phylogenetically linked to the presence or absence of the furin cleavage site.
-
-  / July, 2006 - Virology
-  let !d self assert = It is of interest, then, that the S glycoproteins of the SARS-CoV and its related CoVs represent an exception to this rule in the other CoVs. Despite the lack of furin cleavage, these glycoproteins contain only the shorter heptad-repeat regions. The consequences of this exception for viral replication, pathogenesis and CoV ecology are unknown. Further studies of CoV entry and the role of proteolytic cleavage events in this process are likely to impact our understanding of CoV pathogenesis and our ability to respond to newly emerging CoVs.
+  # / May, 2020 - Emerging Microbes & Infections
+  # let !h self assert = We suggest that the unique cleavage motif promoting SARS-CoV-2 infection in humans may be under strong selective pressure, given that replication in permissive Vero-E6 cells leads to the loss of this adaptive function. It would be important to screen the prevalence of these variants in asymptomatic infected cases.
 
 
 
@@ -2469,28 +2333,28 @@ ref 'Sharma_et_al_07_08_2020
   // Pangolins Lack IFIH1/MDA5, a Cytoplasmic RNA Sensor That Initiates Innate Immune Defense Upon Coronavirus Infection
   doi: https://doi.org/10.3389/fimmu.2020.00939
   ref 'Fischer_et_al_05_08_2020
-  head = These results suggest that the innate immune response to viruses differs significantly between pangolins and other mammals, including humans. We put forward the hypothesis that loss of IFIH1 and ZBP1 provided an evolutionary advantage by reducing inflammation-induced damage to host tissues and thereby contributed to a switch from resistance to tolerance of viral infections in pangolins.
+  head = Pangolins are another group of mammals with evolutionarily downregulated defense against a subset of viruses, namely those sensed by IFIH1/MDA5 or ZBP1 in other species. The loss of IFIH1 and ZBP1 provided an evolutionary advantage by reducing inflammation-induced damage to host tissues and thereby contributed to a switch from resistance to tolerance of infections by certain RNA viruses, including coronaviruses in pangolins.
 
   >>> Abstract
     Zoonotic infections are an imminent threat to human health. Pangolins were recently identified as carriers and intermediate hosts of coronaviruses. Previous research has shown that infection with coronaviruses activates an innate immune response upon sensing of viral RNA by interferon-induced with helicase C domain 1 (IFIH1), also known as MDA5. Here, we performed a comparative genomics study of RNA sensor genes in three species of pangolins. DDX58/RIG-I, a sensor of cytoplasmic viral RNA and toll-like receptors (TLR) 3, 7, and 8, which bind RNA in endosomes, are conserved in pangolins. By contrast, IFIH1 a sensor of intracellular double-stranded RNA, has been inactivated by mutations in pangolins. Likewise, Z-DNA-binding protein (ZBP1), which senses both Z-DNA and Z-RNA, has been lost during the evolution of pangolins. These results suggest that the innate immune response to viruses differs significantly between pangolins and other mammals, including humans. We put forward the hypothesis that loss of IFIH1 and ZBP1 provided an evolutionary advantage by reducing inflammation-induced damage to host tissues and thereby contributed to a switch from resistance to tolerance of viral infections in pangolins.
 
-  -- exports
-    !a
-    !b
-    !c
-    !d
+  -- therapeutics frontiers
+    !e
+
+  # / May, 2020 - Front. Immunol.
+  # let !a self assert = We performed a comparative genomics study of RNA sensor genes in three species of pangolins. DDX58/RIG-I, a sensor of cytoplasmic viral RNA and toll-like receptors (TLR) 3, 7, and 8, which bind RNA in endosomes, are conserved in pangolins. By contrast, IFIH1 a sensor of intracellular double-stranded RNA, has been inactivated by mutations in pangolins. Likewise, Z-DNA-binding protein (ZBP1), which senses both Z-DNA and Z-RNA, has been lost during the evolution of pangolins.
+
+  # / May, 2020 - Front. Immunol.
+  # let !b self assert = Detailed comparative analysis of exon 1 showed the presence of multiple frameshift mutations and in-frame stop codons in the IFIH1 genes of Malayan, Chinese and tree pangolins. One of the frameshift mutations and one premature stop mutation are shared by all three species, suggesting that these mutations have already been present in their last common ancestor that lived more than 20 million years ago.
+
+  # / May, 2020 - Front. Immunol.
+  # let !c self assert = In contrast to IFIH1 and ZBP1, the genes encoding the intracellular RNA sensor RIG-I, i.e., DExD/H-box helicase 58 (DDX58), and TLR3, TLR7, and TLR8 which control the sensing of RNA in endosomes and a series of other genes involved in antiviral signaling and defense, such as MAVS, RIPK3, MLKL, SKIV2L, OAS2, RNASEL, and EIF2AK2 (PKR) do not contain disruptive mutations and therefore appear to be intact in the Malayan pangolin (M. javanica). DDX58 contains in-frame stop codons and frameshift mutations in the tree pangolin (M. tricuspis) but not in the Chinese pangolin (M. pentadactyla), suggesting that the tree pangolin lacks functional DDX58/RIG-I in addition to the two intracellular RNA sensors (IFIH1 and ZBP1) absent in all pangolins.
+
+  # / May, 2020 - Front. Immunol.
+  # let !d self assert = We screened the genomes of mammals from diverse phylogenetic lineages for functional copies of ZBP1, IFIH1 and other RNA sensor genes. Mapping the presence or absence of these genes onto the phylogenetic tree suggested that loss of both ZBP1 and IFIH1 occurred in the pangolin lineages soon after divergence from the lineage leading to Carnivora (represented by cat, dog and bear). Other genes implicated in anti-RNA-viral defense are conserved in the selected set of species.
 
   / May, 2020 - Front. Immunol.
-  let !a self assert = We performed a comparative genomics study of RNA sensor genes in three species of pangolins. DDX58/RIG-I, a sensor of cytoplasmic viral RNA and toll-like receptors (TLR) 3, 7, and 8, which bind RNA in endosomes, are conserved in pangolins. By contrast, IFIH1 a sensor of intracellular double-stranded RNA, has been inactivated by mutations in pangolins. Likewise, Z-DNA-binding protein (ZBP1), which senses both Z-DNA and Z-RNA, has been lost during the evolution of pangolins.
-
-  / May, 2020 - Front. Immunol.
-  let !b self assert = Detailed comparative analysis of exon 1 showed the presence of multiple frameshift mutations and in-frame stop codons in the IFIH1 genes of Malayan, Chinese and tree pangolins. One of the frameshift mutations and one premature stop mutation are shared by all three species, suggesting that these mutations have already been present in their last common ancestor that lived more than 20 million years ago.
-
-  / May, 2020 - Front. Immunol.
-  let !c self assert = In contrast to IFIH1 and ZBP1, the genes encoding the intracellular RNA sensor RIG-I, i.e., DExD/H-box helicase 58 (DDX58), and TLR3, TLR7, and TLR8 which control the sensing of RNA in endosomes and a series of other genes involved in antiviral signaling and defense, such as MAVS, RIPK3, MLKL, SKIV2L, OAS2, RNASEL, and EIF2AK2 (PKR) do not contain disruptive mutations and therefore appear to be intact in the Malayan pangolin (M. javanica). DDX58 contains in-frame stop codons and frameshift mutations in the tree pangolin (M. tricuspis) but not in the Chinese pangolin (M. pentadactyla), suggesting that the tree pangolin lacks functional DDX58/RIG-I in addition to the two intracellular RNA sensors (IFIH1 and ZBP1) absent in all pangolins.
-
-  / May, 2020 - Front. Immunol.
-  let !d self assert = Pangolins Have Lost IFIH1 and ZBP1 After Their Evolutionary Divergence From Other Mammalian Lineages: We screened the genomes of mammals from diverse phylogenetic lineages for functional copies (devoid of frameshift mutations and premature in-frame stop codons) of ZBP1, IFIH1 and other RNA sensor genes. Mapping the presence or absence of these genes onto the phylogenetic tree suggested that loss of both ZBP1 and IFIH1 occurred in the pangolin lineages soon after divergence from the lineage leading to Carnivora (represented by cat, dog and bear). Other genes implicated in anti-RNA-viral defense are conserved in the selected set of species.
+  let !e self assert = While genetic suppression of IFIH1/MDA5 and ZBP1-dependent pathways had neutral or beneficial effects in the evolution of pangolins, pharmaceutical suppression of IFIH1/MDA5 and ZBP1-dependent signaling may be beneficial for human patients with overreactions to viral nucleic acids.
 
 
 
@@ -2498,49 +2362,44 @@ ref 'Sharma_et_al_07_08_2020
   // Coronavirus testing indicates transmission risk increases along wildlife supply chains for human consumption in Viet Nam, 2013-2014
   doi: https://doi.org/10.1101/2020.06.05.098590
   ref 'Huong_et_al_06_17_2020
-  head = Significant findings of this study are the high proportion of coronavirus positive animals and the increasing proportion of positives found along the rodent trade supply chain from the capture site to restaurants. The transit of multiple animal species through the supply chain offers opportunities for inter- and intra-species mixing. Overcrowding and close confinement of live animals in cages results in increased animal contact, likely leading to stress. All this suggests maximal risk for end consumers and likely underpins the mechanisms of zoonotic spillover to people.
+  head = Our study found high proportion of coronavirus positive animals and increasing proportion of positives were found along the rodent trade supply chain. Our analysis indicates either mixing of animal excreta in the environment or interspecies transmission of coronaviruses, as both bat and avian coronaviruses were detected in rodent feces in the trade. This, likely underpins the mechanisms of zoonotic spillover to people.
+
 
   >>> Abstract
     Outbreaks of emerging coronaviruses in the past two decades and the current pandemic of a novel coronavirus (SARS-CoV-2) that emerged in China highlight the importance of this viral family as a zoonotic public health threat. To gain a better understanding of coronavirus presence and diversity in wildlife at wildlife-human interfaces in three southern provinces in Viet Nam 2013-2014, we used consensus Polymerase Chain Reactions to detect coronavirus sequences. In comparison to previous studies, we observed high proportions of positive samples among field rats (34.0%, 239/702) destined for human consumption and insectivorous bats in guano farms (74.8%, 234/313) adjacent to human dwellings. Most notably among field rats, the odds of coronavirus RNA detection significantly increased along the supply chain from field rats sold by traders (reference group; 20.7% positivity, 39/188) by a factor of 2.2 for field rats sold in large markets (32.0%, 116/363) and 10.0 for field rats sold and served in restaurants (55.6%, 84/151). Coronaviruses were detected in the majority of wildlife farms (60.7%, 17/28) and in the Malayan porcupines (6.0%, 20/331) and bamboo rats (6.3%, 6/96) that are farmed. We identified six known coronaviruses in bats and rodents, clustered in three Coronaviridae genera, including the Alpha-, Beta-, and Gammacoronaviruses. Our analysis also suggested either mixing of animal excreta in the environment or interspecies transmission of coronaviruses, as both bat and avian coronaviruses were detected in rodent feces in the trade. The mixing of multiple coronaviruses, and their apparent amplification along the wildlife supply chain into restaurants, suggests maximal risk for end consumers and likely underpins the mechanisms of zoonotic spillover to people.
 
   -- exports
     !a
-    !b
     !c
-    !d
-    !e
     !f
-    !g
 
   / June, 2020 - bioRxiv
   let !a self assert = In comparison to previous studies, we observed high proportions of positive samples among field rats (34.0%, 239/702) and somewhat higher among farmed rodents (6.3%) destined for human consumption and insectivorous bats in guano farms (74.8%, 234/313) adjacent to human dwellings.
 
-  / June, 2020 - bioRxiv
-  let !b self assert = Most notably among field rats, the odds of coronavirus RNA detection significantly increased along the supply chain from field rats sold by traders (reference group; 20.7% positivity, 39/188) by a factor of 2.2 for field rats sold in large markets (32.0%, 116/363) and 10.0 for field rats sold and served in restaurants (55.6%, 84/151).
+  # / June, 2020 - bioRxiv
+  # let !b self assert = Most notably among field rats, the odds of coronavirus RNA detection significantly increased along the supply chain from field rats sold by traders (reference group; 20.7% positivity, 39/188) by a factor of 2.2 for field rats sold in large markets (32.0%, 116/363) and 10.0 for field rats sold and served in restaurants (55.6%, 84/151).
 
   / June, 2020 - bioRxiv
   let !c self assert = Coronaviruses were detected in the majority of wildlife farms (60.7%, 17/28) and in the Malayan porcupines (6.0%, 20/331) and bamboo rats (6.3%, 6/96) that are farmed. We identified six known coronaviruses in bats and rodents, clustered in three Coronaviridae genera, including the Alpha-, Beta-, and Gammacoronaviruses.
 
-  / June, 2020 - bioRxiv
-  let !d self assert = Our analysis also suggested either mixing of animal excreta in the environment or interspecies transmission of coronaviruses, as both bat and avian coronaviruses were detected in rodent feces in the trade.
+  # / June, 2020 - bioRxiv
+  # let !d self assert = Our analysis also suggested either mixing of animal excreta in the environment or interspecies transmission of coronaviruses, as both bat and avian coronaviruses were detected in rodent feces in the trade.
 
-  / June, 2020 - bioRxiv
-  let !e self assert = The amplification of coronavirus along the supply chain may be associated with season as field rats were significantly more positive in the wet season. Rattus argentiventer generally reproduce year-round in Viet Nam, but are particularly abundant in the wet season (May through October) following the rice harvest when an abundance of food supports the population increase. If these seasonal population increases affect density dependent contact, there could be increased coronavirus prevalence and shedding in wild field rats during certain times of the year, which could then be further amplified along the trade.
+  # / June, 2020 - bioRxiv
+  # let !e self assert = The amplification of coronavirus along the supply chain may be associated with season as field rats were significantly more positive in the wet season. Rattus argentiventer generally reproduce year-round in Viet Nam, but are particularly abundant in the wet season (May through October) following the rice harvest when an abundance of food supports the population increase. If these seasonal population increases affect density dependent contact, there could be increased coronavirus prevalence and shedding in wild field rats during certain times of the year, which could then be further amplified along the trade.
 
   / June, 2020 - bioRxiv
   let !f self assert = The field rats were co-infected with the Longquan aa coronavirus and the murine coronaviruses, both of which are from the Lineage A (Embecovirus) Betacoronavirus genus. Co429 infections with multiple coronaviruses deserve particular attention as this co-occurrence may facilitate viral recombination leading to the emergence of new viruses.
 
-  / June, 2020 - bioRxiv
-  let !g self assert = At the very least, we conclude that rodents in the field and farmed rodent supply chains are being exposed to coronaviruses from rodents, bats, and birds and perhaps creating opportunities for coronavirus recombination events, which may lead to viruses that could spill over into humans. Repeated and more direct individual sampling of these species at these interfaces would be useful to determine if viral sharing was occurring versus environmental contamination of samples.
-
+  # / June, 2020 - bioRxiv
+  # let !g self assert = We conclude that rodents in the field and farmed rodent supply chains are being exposed to coronaviruses from rodents, bats, and birds and perhaps creating opportunities for coronavirus recombination events, which may lead to viruses that could spill over into humans.
 
 
   # probability of pangolian being the host
   // Pangolins and bats living together in underground burrows in Lopé National Park, Gabon
   doi: https://doi.org/10.1111/aje.12759
   ref 'Lehmann_et_al_06_17_2020
-  head = The fact that both giant and white‐bellied pangolins in Lopé, Central Gabon, use burrows that are inhabited by several species of bats illustrates that there is frequent opportunity for pangolins to be exposed to bat‐borne viruses. Pangolins are also commonly found in game meat markets in Gabon and are sometimes sold alive demonstrating risk of viral infection to humans. Until the links between bat, pangolin and human coronaviruses are better understood we suggest that Gabon takes steps to stop people capturing, handling or eating wild bats or wild pangolins. In this respect, wildlife researchers should conduct a detailed serological survey of the giant pangolin burrows ecosystem.
-
+  head = The fact that both giant and white‐bellied pangolins in Lopé, Central Gabon, use burrows that are inhabited by several species of bats illustrates that there is frequent opportunity for pangolins to be exposed to bat‐borne viruses. Pangolins are also commonly found in game meat markets in Gabon and are sometimes sold alive demonstrating risk of viral infection to humans.
 
   # / June, 2020 - African Journal of Ecology
   # let !a self assert =
@@ -2551,7 +2410,7 @@ ref 'Sharma_et_al_07_08_2020
   // Cross-Reactivity of T Cells and Its Role in the Immune System
   doi: https://doi.org/10.1615/CritRevImmunol.v32.i4.50
   ref 'Petrova_et_al_02_20_2012
-  head = T-cell receptors recognize peptides presented by the major histocompatibility complex (MHC) on the surface of antigen-presenting cells (APC). The ability of the T-cell receptor (TCR) to recognize more than one peptide-MHC structure defines cross-reactivity. However, quantifying the phenomenon has been difficult, and its immunological importance remains unknown. In this review, we examined the cases for and against an important role for cross reactivity. We argue that it may be an essential feature of the immune system from the point of view of biological robustness.
+  head = The ability of the T-cell receptor (TCR) to recognize more than one peptide-MHC structure defines cross-reactivity. There are a number of rational arguments for cross-reactivity. However, quantifying the phenomenon has been difficult, and its immunological importance remains unknown.
 
   >>> Abstract
     T-cell receptors recognize peptides presented by the major histocompatibility complex (MHC) on the surface of antigen-presenting cells (APC). The ability of the T-cell receptor (TCR) to recognize more than one peptide-MHC structure defines cross-reactivity. Cross-reactivity is a documented phenomenon of the immune system whose importance is still under investigation. There are a number of rational arguments for cross-reactivity. These include the discrepancy between the theoretical high number of pathogen-derived peptides and the lower diversity of the T-cell repertoire, the need for recognition of escape variants, and the intrinsic low affinity of this receptor−ligand pair. However, quantifying the phenomenon has been difficult, and its immunological importance remains unknown. In this review, we examined the cases for and against an important role for cross reactivity. We argue that it may be an essential feature of the immune system from the point of view of biological robustness.
@@ -2562,101 +2421,85 @@ ref 'Sharma_et_al_07_08_2020
 
 
 
-  # T-cell epitopes, HLA peptides, vaccine design, T-cells, immunity, immunology, virology,cross-reactivity, Ask about the publisher, Club with 723,725, 726
+  # T-cell epitopes, HLA peptides, vaccine design, T-cells, immunity, immunology, virology,cross-reactivity, Ask about the publisher, Club with 723,725, 726, development of prophylactic and therapeutic vaccination frontier
   // SARS-CoV-2 T-cell epitopes define heterologous and COVID-19-induced T-cell recognition
   doi: https://doi.org/10.21203/rs.3.rs-35331/v1
   ref 'Nelde_et_al_06_16_2020
-  head = This is the first work identifying and characterizing SARS-CoV-2-specific and cross-reactive HLA class I and HLA-DR T-cell epitopes in SARS-CoV-2 convalescents (n = 180) as well as unexposed individuals (n = 185) and confirming their relevance for immunity and COVID-19 disease course. SARS-CoV-2-specific T-cell epitopes enabled detection of post-infectious T-cell immunity, even in seronegative convalescents. Cross-reactive SARS-CoV-2 T-cell epitopes revealed preexisting T-cell responses in 81% of unexposed individuals, and validation of similarity to common cold human coronaviruses provided a functional basis for postulated heterologous immunity in SARS-CoV-2 infection.
+  head = Intensity of T-cell responses and recognition rate of T-cell epitopes was significantly higher in the convalescent donors compared to unexposed individuals, suggesting that not only expansion, but also diversity spread of SARS-CoV-2 T-cell responses occur upon active infection. Whereas anti-SARS-CoV-2 antibody levels were associated with severity of symptoms in our SARS-CoV-2 donors, intensity of T-cell responses did not negatively affect COVID-19 severity. Rather, diversity of SARS-CoV-2 T-cell responses was increased in case of mild symptoms of COVID-19, providing evidence that development of immunity requires recognition of multiple SARS-CoV-2 epitopes.
 
   >>> Abstract
-    The SARS-CoV-2 pandemic calls for the rapid development of diagnostic, preventive, and therapeutic approaches. CD4+ and CD8+ T cell-mediated immunity is central for control of and protection from viral infections[1-3]. A prerequisite to characterize T-cell immunity, but also for the development of vaccines and immunotherapies, is the identification of the exact viral T-cell epitopes presented on human leukocyte antigens (HLA)[2-8]. This is the first work identifying and characterizing SARS-CoV-2-specific and cross-reactive HLA class I and HLA-DR T-cell epitopes in SARS-CoV-2 convalescents (n = 180) as well as unexposed individuals (n = 185) and confirming their relevance for immunity and COVID-19 disease course. SARS-CoV-2-specific T-cell epitopes enabled detection of post-infectious T-cell immunity, even in seronegative convalescents. Cross-reactive SARS-CoV-2 T-cell epitopes revealed preexisting T-cell responses in 81% of unexposed individuals, and validation of similarity to common cold human coronaviruses provided a functional basis for postulated heterologous immunity[9] in SARS-CoV-2 infection[10,11]. Intensity of T-cell responses and recognition rate of T-cell epitopes was significantly higher in the convalescent donors compared to unexposed individuals, suggesting that not only expansion, but also diversity spread of SARS-CoV-2 T-cell responses occur upon active infection. Whereas anti-SARS-CoV-2 antibody levels were associated with severity of symptoms in our SARS-CoV-2 donors, intensity of T-cell responses did not negatively affect COVID-19 severity. Rather, diversity of SARS-CoV-2 T-cell responses was increased in case of mild symptoms of COVID-19, providing evidence that development of immunity requires recognition of multiple SARS-CoV-2 epitopes.
+    The SARS-CoV-2 pandemic calls for the rapid development of diagnostic, preventive, and therapeutic approaches. CD4+ and CD8+ T cell-mediated immunity is central for control of and protection from viral infections. A prerequisite to characterize T-cell immunity, but also for the development of vaccines and immunotherapies, is the identification of the exact viral T-cell epitopes presented on human leukocyte antigens (HLA). This is the first work identifying and characterizing SARS-CoV-2-specific and cross-reactive HLA class I and HLA-DR T-cell epitopes in SARS-CoV-2 convalescents (n = 180) as well as unexposed individuals (n = 185) and confirming their relevance for immunity and COVID-19 disease course. SARS-CoV-2-specific T-cell epitopes enabled detection of post-infectious T-cell immunity, even in seronegative convalescents. Cross-reactive SARS-CoV-2 T-cell epitopes revealed preexisting T-cell responses in 81% of unexposed individuals, and validation of similarity to common cold human coronaviruses provided a functional basis for postulated heterologous immunity in SARS-CoV-2 infection. Intensity of T-cell responses and recognition rate of T-cell epitopes was significantly higher in the convalescent donors compared to unexposed individuals, suggesting that not only expansion, but also diversity spread of SARS-CoV-2 T-cell responses occur upon active infection. Whereas anti-SARS-CoV-2 antibody levels were associated with severity of symptoms in our SARS-CoV-2 donors, intensity of T-cell responses did not negatively affect COVID-19 severity. Rather, diversity of SARS-CoV-2 T-cell responses was increased in case of mild symptoms of COVID-19, providing evidence that development of immunity requires recognition of multiple SARS-CoV-2 epitopes.
 
   -- exports
-    !a
-    !b
-    !c
     !d
-    !e
     !f
-    !g
-    !h
-    !i
+  -- vaccine / therapeutic frontier
+    !e
 
-  / June, 2020 - Research Square
-  let !a self assert = Intensity of T-cell responses and recognition rate of T-cell epitopes was significantly higher in the convalescent donors compared to unexposed individuals, suggesting that not only expansion, but also diversity spread of SARS-CoV-2 T-cell responses occur upon active infection.
+  # / June, 2020 - Research Square
+  # let !a self assert = Intensity of T-cell responses and recognition rate of T-cell epitopes was significantly higher in the convalescent donors compared to unexposed individuals, suggesting that not only expansion, but also diversity spread of SARS-CoV-2 T-cell responses occur upon active infection.
 
-  / June, 2020 - Research Square
-  let !b self assert = Whereas anti-SARS-CoV-2 antibody levels were associated with severity of symptoms in our SARS-CoV-2 donors, intensity of T-cell responses did not negatively affect COVID-19 severity. This is of high relevance for the design of vaccines, as it provides evidence that disease aggravating effects might not hamper the development of prophylactic and therapeutic vaccination approaches aiming to induce SARS-CoV-2-specific T-cell responses.
+  # / June, 2020 - Research Square
+  # let !b self assert = Whereas anti-SARS-CoV-2 antibody levels were associated with severity of symptoms in our SARS-CoV-2 donors, intensity of T-cell responses did not negatively affect COVID-19 severity. This is of high relevance for the design of vaccines, as it provides evidence that disease aggravating effects might not hamper the development of prophylactic and therapeutic vaccination approaches aiming to induce SARS-CoV-2-specific T-cell responses.
 
-  / June, 2020 - Research Square
-  let !c self assert = Diversity of SARS-CoV-2 T-cell responses was increased in case of mild symptoms of COVID-19, providing evidence that development of immunity requires recognition of multiple SARS-CoV-2 epitopes.
+  # / June, 2020 - Research Square
+  # let !c self assert = Diversity of SARS-CoV-2 T-cell responses was increased in case of mild symptoms of COVID-19, providing evidence that development of immunity requires recognition of multiple SARS-CoV-2 epitopes.
 
   / June, 2020 - Research Square
   let !d self assert = Our SARS-CoV-2-specific T- cell epitopes, which are not recognized by T cells of unexposed donors, allowed for detection of specific T-cell responses even in donors without antibody responses, thereby providing evidence for T-cell immunity upon infection.
 
   / June, 2020 - Research Square
-  let !e self assert = In line with previous data on acute and chronic viral infection, our data indicate an important role of SARS-CoV-2 CD4+ T-cell responses in the natural course of infection, with the identification of multiple dominant HLA class-DR T-cell epitopes that elicit more frequent and intense immune response in SARS donors compared to the HLA class I T-cell epitopes. This guides selection of T-cell epitopes for vaccine design, also in light of the dependency of protective antibody responses on CD4+ T cell help.
+  let !e self assert = Our data indicate an important role of SARS-CoV-2 CD4+ T-cell responses in the natural course of infection, with the identification of multiple dominant HLA class-DR T-cell epitopes that elicit more frequent and intense immune response in SARS donors compared to the HLA class I T-cell epitopes. This guides selection of T-cell epitopes for vaccine design, also in light of the dependency of protective antibody responses on CD4+ T cell help.
 
   / June, 2020 - Research Square
   let !f self assert = Our finding that also in mainly non-hospitalized patients with a mild disease course high level antibody responses are associated with more severe symptoms of COVID-19 is in line with recent data on the correlation of antibody titers with disease severity in hospitalized patients.
 
-  / June, 2020 - Research Square
-  let !g self assert = In contrast to the intensity of the T-cell response, recognition rates of SARS-CoV-2 T-cell epitopes by individual donors were lower in individuals with more severe COVID-19 symptoms. This observation, together with our data on increased T-cell epitope recognition rates after SARS-CoV-2 infection compared to preexisting T-cell responses in unexposed individuals and reports  from other active or chronic viral infections associating diversity of T-cell response with anti- viral defense, provide evidence that natural development and vaccine-based induction of immunity to SARS-CoV-2 requires recognition of multiple SARS-CoV-2 epitopes.
+  # / June, 2020 - Research Square
+  # let !g self assert = In contrast to the intensity of the T-cell response, recognition rates of SARS-CoV-2 T-cell epitopes by individual donors were lower in individuals with more severe COVID-19 symptoms. This observation, together with our data on increased T-cell epitope recognition rates after SARS-CoV-2 infection compared to preexisting T-cell responses in unexposed individuals and reports from other active or chronic viral infections associating diversity of T-cell response with anti- viral defense, provide evidence that natural development and vaccine-based induction of immunity to SARS-CoV-2 requires recognition of multiple SARS-CoV-2 epitopes.
 
-  / June, 2020 - Research Square
-  let !h self assert = Association of SARS-CoV-2-directed antibody and T-cell responses with clinical characteristics in COVID-19: Neither the intensity of SARS-CoV-2-specific nor of cross-reactive T-cell responses to HLA class I or HLA-DR EC correlated with disease severity. Rather, diversity of T-cell responses in terms of recognition rate of SARS-CoV-2 T-cell epitopes was decreased in patients with more severe COVID-19 symptoms, providing evidence that development of protective immunity requires recognition of multiple SARS- CoV-2 epitopes.
+  # / June, 2020 - Research Square
+  # let !h self assert = Neither the intensity of SARS-CoV-2-specific nor of cross-reactive T-cell responses to HLA class I or HLA-DR EC correlated with disease severity. Rather, diversity of T-cell responses in terms of recognition rate of SARS-CoV-2 T-cell epitopes was decreased in patients with more severe COVID-19 symptoms, providing evidence that development of protective immunity requires recognition of multiple SARS- CoV-2 epitopes.
 
-  / June, 2020 - Research Square
-  let !i self assert = Together, the specific and cross-reactive SARS-CoV-2 T-cell epitopes identified in this work enable the identification of heterologous and post-infectious T-cell immunity and facilitate the development of diagnostic, preventive, and therapeutic measures for COVID-19.
+  # / June, 2020 - Research Square
+  # let !i self assert = Together, the specific and cross-reactive SARS-CoV-2 T-cell epitopes identified in this work enable the identification of heterologous and post-infectious T-cell immunity and facilitate the development of diagnostic, preventive, and therapeutic measures for COVID-19.
 
 
 
-  # counter to pangolians being a host, Sunda pangolins are incidental rather than reservoir hosts of coronaviruses, Supports our hypothesis all this time that the Guangdong pangolins had contracted their CoV during the smuggling process
+  # counter to pangolians being a host, Sunda pangolins are incidental rather than reservoir hosts of coronaviruses, Supports our hypothesis all this time that the Guangdong pangolins had contracted their CoV during the smuggling process, PANGOLAIN NOT HOST
   // No evidence of coronaviruses or other potentially zoonotic viruses in Sunda pangolins (Manis javanica) entering the wildlife trade via Malaysia.
   doi: https://doi.org/10.1101/2020.06.19.158717
   ref 'Lee_et_al_06_19_2020
-  head = In light of recent reports of coronaviruses including a SARS-CoV-2 related virus in Sunda pangolins in China, the lack of any coronavirus detection in our ‘upstream’ market chain samples suggests that these detections in ‘downstream’ animals more plausibly reflect exposure to infected humans, wildlife or other animals within the wildlife trade network. While confirmatory serologic studies are needed, it is likely that Sunda pangolins are incidental rather than reservoir hosts of coronaviruses. Our findings further support the importance of ending the trade in wildlife globally.
+  head = The lack of any coronavirus detection in our ‘upstream’ market chain samples (cohort of animals yet to enter or just entering the illegal trade network) suggests that these detections in ‘downstream’ animals (cohorts confiscated at their destination in China) more plausibly reflect exposure to infected humans, wildlife or other animals within the wildlife trade network. While confirmatory serologic studies are needed, it is likely that Sunda pangolins are incidental rather than reservoir hosts of coronaviruses.
 
   >>> Abstract
     The legal and illegal trade in wildlife for food, medicine and other products is a globally significant threat to biodiversity that is also responsible for the emergence of pathogens that threaten human and livestock health and our global economy. Trade in wildlife likely played a role in the origin of COVID-19, and viruses closely related to SARS-CoV-2 have been identified in bats and pangolins, both traded widely. To investigate the possible role of pangolins as a source of potential zoonoses, we collected throat and rectal swabs from 334 Sunda pangolins (Manis javanica) confiscated in Peninsular Malaysia and Sabah between August 2009 and March 2019. Total nucleic acid was extracted for viral molecular screening using conventional PCR protocols used to routinely identify known and novel viruses in extensive prior sampling (>50,000 mammals). No sample yielded a positive PCR result for any of the targeted viral families – Coronaviridae, Filoviridae, Flaviviridae, Orthomyxoviridae and Paramyxoviridae. In light of recent reports of coronaviruses including a SARS-CoV-2 related virus in Sunda pangolins in China, the lack of any coronavirus detection in our ‘upstream’ market chain samples suggests that these detections in ‘downstream’ animals more plausibly reflect exposure to infected humans, wildlife or other animals within the wildlife trade network. While confirmatory serologic studies are needed, it is likely that Sunda pangolins are incidental hosts of coronaviruses. Our findings further support the importance of ending the trade in wildlife globally.
 
   -- exports
-    !a
-    !b
-    !c
-    !d
     !e
-    !f
-    !g
-    !h
-    !i
+
+  # / June, 2020 - bioRxiv
+  # let !a self assert = A total of 334 Sunda pangolins were screened: 289 in Peninsular Malaysia (confiscated n=286; wildrescued n=3), and 45 in Sabah state (confiscated n=40; wild-rescued n=5). No sample yielded a positive PCR result for any member of the targeted virus families, either in Peninsular Malaysia (95% CI 0.0-0.01) or in Sabah (95% CI 0.0-0.08).
+
+  # / June, 2020 - bioRxiv
+  # let !b self assert = Our negative findings across five viral families associated with emerging and re-emerging zoonotic diseases in recent decades contrast with reports of the detection of parainfluenza virus (Wang et al.,2018), coronaviruses and Sendai virus (Liu et al., 2019; Zhang et al., 2020), and SARSr-CoVs (Lam et al., 2020; Xiao et al., 2020) in Sunda pangolins.
+
+  # / June, 2020 - bioRxiv
+  # let !c self assert = The most parsimonious explanation for the contrast between our findings and the discovery of SARSr-CoVs in Sunda pangolins by (Liu et al.,2019; Liu et al., 2020; Lam et al., 2020, Xiao et al., 2020, Zhang et al., 2020) is the nature of the sampled population: our samples were drawn from an ‘upstream’ cohort of animals yet to enter or just entering the illegal trade network, whereas all others were drawn from ‘downstream’ cohorts confiscated at their destination in China.
+
+  # / June, 2020 - bioRxiv
+  # let !d self assert = During the wildlife trade transits, which often includes movement through other Southeast Asian countries, animals are often housed together in groups from disparate geographic regions, and often with other species, giving opportunity for viral transmission among and within species. The housing of some of the animals in rehabilitation centers in China would also allow for exposure to coronaviruses from other groups or species.
 
   / June, 2020 - bioRxiv
-  let !a self assert = A total of 334 Sunda pangolins were screened: 289 in Peninsular Malaysia (confiscated n=286; wildrescued n=3), and 45 in Sabah state (confiscated n=40; wild-rescued n=5). No sample yielded a positive PCR result for any member of the targeted virus families, either in Peninsular Malaysia (95% CI 0.0-0.01) or in Sabah (95% CI 0.0-0.08).
+  let !e self assert = In natural wildlife reservoir hosts, SARSr-CoVs appear to cause little if any clinical signs, and this is supported by the limited laboratory infections so far carried out (Watanabe et al., 2010). The reports of clinical illness and pathology associated with coronavirus infection in pangolins (Liu et al., 2019; Xiao et al.,2020), are unlikely in a reservoir host.
 
-  / June, 2020 - bioRxiv
-  let !b self assert = Our negative findings across five viral families associated with emerging and re-emerging zoonotic diseases in recent decades contrast with reports of the detection of parainfluenza virus (Wang et al.,2018), coronaviruses and Sendai virus (Liu et al., 2019; Zhang et al., 2020), and SARSr-CoVs (Lam et al., 2020; Xiao et al., 2020) in Sunda pangolins.
+  # / June, 2020 - bioRxiv
+  # let !f self assert = Our microsatellite DNA fragment analysis suggests that confiscated pangolins from Peninsular Malaysia and Sabah were taken from Malaysia, Brunei or Indonesia, however further analysis of pangolins from the neighbouring countries is required to confirm the results. They were confiscated at holding facilities, ports or borders prior to shipment, and had not yet been exposed to multiple potential sources of infection, unlike the confiscated animals in China reported by Xiao et al., (2020) and Lam et al., (2020).
 
-  / June, 2020 - bioRxiv
-  let !c self assert = The most parsimonious explanation for the contrast between our findings and the discovery of SARSr-CoVs in Sunda pangolins by (Liu et al.,2019; Liu et al., 2020; Lam et al., 2020, Xiao et al., 2020, Zhang et al., 2020) is the nature of the sampled population: our samples were drawn from an ‘upstream’ cohort of animals yet to enter or just entering the illegal trade network, whereas all others were drawn from ‘downstream’ cohorts confiscated at their destination in China.
+  # / June, 2020 - bioRxiv
+  # let !g self assert = An array of pathogens and infections have been observed in wet markets, in wildlife, in humans  and in domestic animals. In comparison to wildlife screened from the wild and from farms, wildlife in markets have a much higher chance of exposure to pathogens and disease spillover. These findings highlight the importance of carefully and systemically ending the trade in wildlife and improving biosecurity to avoid having wet markets where wild animals are mixing with farmed animals and humans.
 
-  / June, 2020 - bioRxiv
-  let !d self assert = During the wildlife trade transits, which often includes movement through other Southeast Asian countries, animals are often housed together in groups from disparate geographic regions, and often with other species, giving opportunity for viral transmission among and within species. The housing of some of the animals in rehabilitation centers in China would also allow for exposure to coronaviruses from other groups or species.
-
-  / June, 2020 - bioRxiv
-  let !e self assert =  In natural wildlife reservoir hosts, SARSr-CoVs appear to cause little if any clinical signs, and this is supported by the limited laboratory infections so far carried out (Watanabe et al., 2010). The reports of clinical illness and pathology associated with coronavirus infection in pangolins (Liu et al., 2019; Xiao et al.,2020), are unlikely in a reservoir host.
-
-  / June, 2020 - bioRxiv
-  let !f self assert = Our microsatellite DNA fragment analysis suggests that confiscated pangolins from Peninsular Malaysia and Sabah were taken from Malaysia, Brunei or Indonesia, however further analysis of pangolins from the neighbouring countries is required to confirm the results. They were confiscated at holding facilities, ports or borders prior to shipment, and had not yet been exposed to multiple potential sources of infection, unlike the confiscated animals in China reported by Xiao et al., (2020) and Lam et al., (2020).
-
-  / June, 2020 - bioRxiv
-  let !g self assert = An array of pathogens and infections have been observed in wet markets, in wildlife (Dong et al., 2007; Cantlay et al., 2017), in humans (Xu et al., 2004) and in domestic animals (Karesh et al., 2005). In comparison to wildlife screened from the wild (Poon et al., 2004) and from farms (Tu et al., 2004; Kan et al., 2005), wildlife in markets have a much higher chance of exposure to pathogens and disease spillover. These findings highlight the importance of carefully and systemically ending the trade in wildlife and improving biosecurity to avoid having wet markets where wild animals are mixing with farmed animals and humans.
-
-  / June, 2020 - bioRxiv
-  let !h self assert = Our findings suggest that pangolins that have not entered the illegal wildlife trade pose no threat to human health. While the detection of SARS-CoV-2 like viruses in some trade-rescued pangolins suggests a parallel with traded civets (Parguma larvata) in the emergence of SARS-CoV (Guan et al., 2003), any role as an intermediate host in the transmission of SARS-CoV-2 from a putative natural bat host to humans is yet to be established.
-
-  / June, 2020 - bioRxiv
-  let !i self assert = Serological studies in pre-trade pangolins will shed further light on any role of pangolins as hosts of SARS CoV2-related viruses. All pangolin species face known and significant threats to their survival in nature and require active conservation efforts to ensure their enduring existence for future generations.
+  # / June, 2020 - bioRxiv
+  # let !h self assert = Our findings suggest that pangolins that have not entered the illegal wildlife trade pose no threat to human health. While the detection of SARS-CoV-2 like viruses in some trade-rescued pangolins suggests a parallel with traded civets (Parguma larvata) in the emergence of SARS-CoV (Guan et al., 2003), any role as an intermediate host in the transmission of SARS-CoV-2 from a putative natural bat host to humans is yet to be established.
 
 
 
@@ -2664,7 +2507,8 @@ ref 'Sharma_et_al_07_08_2020
   // Isolation and Characterization of 2019-nCoV-like Coronavirus from Malayan Pangolins
   doi: https://doi.org/10.1101/2020.02.17.951335
   ref 'Xiao_et_al_02_20_2020
-  head = In the present study, we have provided virological, serological and histopathological evidence for the virulence of Pangolin-CoV and the potential pangolins as the zoonotic reservoir of 2019-nCoV-like coronaviruses. In addition, as the RBD of pangolin-CoV is virtually identical to that of 2019-nCoV, and has strong binding ability to human ACE2, Pangolin-CoV presents a potential future threat to public health. The broad binding range of pangolin ACE2 to RBD of S proteins reaffirms the potential of pangolins as the intermediate host of SARSr-CoV. Findings in the study support the call for stronger ban of illegal pangolin trade.
+  head = The RBD of pangolin-CoV is virtually identical to that of 2019-nCoV, and has strong binding ability to human ACE2, Pangolin-CoV presents a potential future threat to public health. The broad binding range of pangolin ACE2 to RBD of S proteins reaffirms the potential of pangolins as the intermediate host of SARSr-CoV.
+
 
   >>> Abstract
     The outbreak of 2019-nCoV in the central Chinese city of Wuhan at the end of 2019 poses unprecedent public health challenges to both China and the rest world1. The new coronavirus shares high sequence identity to SARS-CoV and a newly identified bat coronavirus. While bats may be the reservoir host for various coronaviruses, whether 2019-nCoV has other hosts is still ambiguous. In this study, one coronavirus isolated from Malayan pangolins showed 100%, 98.2%, 96.7% and 90.4% amino acid identity with 2019-nCoV in the E, M, N and S genes, respectively. In particular, the receptor-binding domain of the S protein of the Pangolin-CoV is virtually identical to that of 2019-nCoV, with one amino acid difference. Comparison of available genomes suggests 2019-nCoV might have originated from the recombination of a Pangolin-CoV-like virus with a Bat-CoV-RaTG13-like virus. Infected pangolins showed clinical signs and histopathological changes, and the circulating antibodies reacted with the S protein of 2019-nCoV. The isolation of a coronavirus that is highly related to 2019-nCoV in the pangolins suggests that these animals have the potential to act as the intermediate host of 2019-nCoV. The newly identified coronavirus in the most-trafficked mammal could represent a continuous threat to public health if wildlife trade is not effectively controlled.
@@ -2673,14 +2517,12 @@ ref 'Sharma_et_al_07_08_2020
     !a
     !b
     !c
-    !d
     !e
-    !f
     !g
     !h
-    !i
-    !j
-    !k
+  -- Recombination
+    !d
+  --
     !l
 
   / February, 2020 - bioRxiv
@@ -2698,8 +2540,8 @@ ref 'Sharma_et_al_07_08_2020
   / February, 2020 - bioRxiv
   let !e self assert = Infected pangolins showed clinical signs and histopathological changes, and the circulating antibodies reacted with the S protein of 2019-nCoV.
 
-  / February, 2020 - bioRxiv
-  let !f self assert = We obtained the lung tissues from four Chinese pangolins (Manis pentadactyla) and 25 Malayan pangolins (Manis javanica) that were collected from a wildlife rescue center during March-December 2019, and analyzed for SARSr-CoV using RT-PCR with primers targeting a conservative region of β CoV. RNA from 17 of the 25 Malayan pangolins generated the expected PCR product, while RNA from the Chinese pangolins failed to amplify.
+  # / February, 2020 - bioRxiv
+  # let !f self assert = We obtained the lung tissues from four Chinese pangolins (Manis pentadactyla) and 25 Malayan pangolins (Manis javanica) that were collected from a wildlife rescue center during March-December 2019, and analyzed for SARSr-CoV using RT-PCR with primers targeting a conservative region of β CoV. RNA from 17 of the 25 Malayan pangolins generated the expected PCR product, while RNA from the Chinese pangolins failed to amplify.
 
   / February, 2020 - bioRxiv
   let !g self assert = In the analysis of plasma samples from eight of the Malayan pangolins using a double-antigen sandwich ELISA designed for the detection of IgG and IgM antibodies against with 2019-nCoV, one sample reacted strongly with an OD450 value of 2.12 (cutoff value: 0.11). The plasma remained positive at the dilution of 1:80, suggesting that the pangolin was naturally infected a 2019-nCoV-like virus.
@@ -2707,14 +2549,14 @@ ref 'Sharma_et_al_07_08_2020
   / February, 2020 - bioRxiv
   let !h self assert = RT-PCR analysis of the viral culture using five sets of primers targeting the spike (S) and RdRp genes produced the expected PCR products in three of them. The PCR products had ~84.5% and 92.2% nucleotide sequence identity to the partial S and RdRp genes of 2019-nCoV, respectively.
 
-  / February, 2020 - bioRxiv
-  let !i self assert = The topologies mostly showed clustering of Pangolin-CoV with 2019-nCoV and Bat SARSr-CoV RaTG13, with 2019-nCoV and Bat SARSr-CoV RaTG13 forming a subclade within the cluster. In the phylogenetic analysis of RBD region of the S gene, however, Pangolin-CoV and 2019-nCoV grouped together.
+  # / February, 2020 - bioRxiv
+  # let !i self assert = The topologies mostly showed clustering of Pangolin-CoV with 2019-nCoV and Bat SARSr-CoV RaTG13, with 2019-nCoV and Bat SARSr-CoV RaTG13 forming a subclade within the cluster. In the phylogenetic analysis of RBD region of the S gene, however, Pangolin-CoV and 2019-nCoV grouped together.
 
-  / February, 2020 - bioRxiv
-  let !j self assert = The RBD of the S protein of SARS-CoV bands ACE2 from humans and civets efficiently. In addition, it appears to be capable of binding ACE2 of pangolins. This is also the case for the Bat-CoV-RaTG13. In contrast, the S proteins of 2019-nCoV and Pangolin-CoV can potentially recognize ACE2 of only humans and pangolins  Therefore, ACE2 proteins of humans and pangolins can probably recognize the S proteins of all four SARSr-CoV viruses, while the ACE2 of civets can probably only recognize the S proteins of SARS-CoV and Bat-CoV-RaTG13.
+  # / February, 2020 - bioRxiv
+  # let !j self assert = The RBD of the S protein of SARS-CoV binds ACE2 from humans and civets efficiently. In addition, it appears to be capable of binding ACE2 of pangolins. This is also the case for the Bat-CoV-RaTG13. In contrast, the S proteins of 2019-nCoV and Pangolin-CoV can potentially recognize ACE2 of only humans and pangolins. Therefore, ACE2 proteins of humans and pangolins can probably recognize the S proteins of all four SARSr-CoV viruses, while the ACE2 of civets can probably only recognize the S proteins of SARS-CoV and Bat-CoV-RaTG13.
 
-  / February, 2020 - bioRxiv
-  let !k self assert = Pangolins and bats are both nocturnal animals, eat insects, and share overlapping ecological niches, which make pangolins the ideal intermediate host for some SARSr-CoV. Therefore, more systematic and long-term monitoring of other SARSr-CoV in pangolins and other related animals should be implemented to identify the potential animal source of 2019-nCoV in the current outbreak.
+  # / February, 2020 - bioRxiv
+  # let !k self assert = Pangolins and bats are both nocturnal animals, eat insects, and share overlapping ecological niches, which make pangolins the ideal intermediate host for some SARSr-CoV. Therefore, more systematic and long-term monitoring of other SARSr-CoV in pangolins and other related animals should be implemented to identify the potential animal source of 2019-nCoV in the current outbreak.
 
   / February, 2020 - bioRxiv
   let !l self assert = The SARSr-CoV virus identified in pangolins in the present study is genetically related to 2019-nCoV, but is unlikely directly linked to the outbreak because of the substantial sequence differences between 2019-nCoV and Pangolin-CoV.
@@ -2725,32 +2567,34 @@ ref 'Sharma_et_al_07_08_2020
   // Identifying SARS-CoV-2-related coronaviruses in Malayan pangolins
   doi: https://doi.org/10.1038/s41586-020-2169-0
   ref 'Lam_et_al_03_26_2020
-  head = The discovery of multiple lineages of pangolin coronavirus and their similarity to SARS-CoV-2 suggests that pangolins should be considered as possible hosts in the emergence of new coronaviruses and should be removed from wet markets to prevent zoonotic transmission.
+  head = We report the identification of SARS-CoV-2-related coronaviruses in Malayan pangolins (Manis javanica) seized in anti-smuggling operations in southern China. Metagenomic sequencing identified pangolin-associated coronaviruses that belong to two sub-lineages of SARS-CoV-2-related coronaviruses, including one that exhibits strong similarity in the receptor-binding domain to SARS-CoV-2. Pangolins should be considered as possible hosts in the emergence of new coronaviruses and should be removed from wet markets to prevent zoonotic transmission.
 
   >>> Abstract
     The ongoing outbreak of viral pneumonia in China and across the world is associated with a new coronavirus, SARS-CoV-21. This outbreak has been tentatively associated with a seafood market in Wuhan, China, where the sale of wild animals may be the source of zoonotic infection2. Although bats are probable reservoir hosts for SARS-CoV-2, the identity of any intermediate host that may have facilitated transfer to humans is unknown. Here we report the identification of SARS-CoV-2-related coronaviruses in Malayan pangolins (Manis javanica) seized in anti-smuggling operations in southern China. Metagenomic sequencing identified pangolin-associated coronaviruses that belong to two sub-lineages of SARS-CoV-2-related coronaviruses, including one that exhibits strong similarity in the receptor-binding domain to SARS-CoV-2. The discovery of multiple lineages of pangolin coronavirus and their similarity to SARS-CoV-2 suggests that pangolins should be considered as possible hosts in the emergence of new coronaviruses and should be removed from wet markets to prevent zoonotic transmission.
 
   -- exports
-    !a
     !b
     !c
     !d
-    !e
     !f
+  -- RECOMBINATION
     !g
     !h
+  --
     !i
+  -- convergent evolution rather than recombination
     !j
-    !k
-    !l
+  -- doubt of pangolin being host
     !m
+  --
     !n
+    !o
+
+  # / March, 2020 - Nature
+  # let !a self assert = We report the identification of SARS-CoV-2-related coronaviruses in Malayan pangolins (Manis javanica) seized in anti-smuggling operations in southern China. Metagenomic sequencing identified pangolin-associated coronaviruses that belong to two sub-lineages of SARS-CoV-2-related coronaviruses, including one that exhibits strong similarity in the receptor-binding domain to SARS-CoV-2.
 
   / March, 2020 - Nature
-  let !a self assert = We report the identification of SARS-CoV-2-related coronaviruses in Malayan pangolins (Manis javanica) seized in anti-smuggling operations in southern China. Metagenomic sequencing identified pangolin-associated coronaviruses that belong to two sub-lineages of SARS-CoV-2-related coronaviruses, including one that exhibits strong similarity in the receptor-binding domain to SARS-CoV-2.
-
-  / March, 2020 - Nature
-  let !b self assert = Notably, high-throughput sequencing of the RNA of these samples revealed the presence of coronaviruses in 6 out of 43 samples (2 lung samples, 2 intestinal samples, 1 lung–intestine mixed sample and 1 blood sample from 5 individual pangolins). With the sequence read data, and by filling gaps with amplicon sequencing, we were able to obtain six complete or near complete genome sequences—denoted GX/P1E, GX/P2V, GX/P3B, GX/P4L, GX/P5E and GX/P5L—that fall into the SARS-CoV-2 lineage (within the genus Betacoronavirus of the Coronaviridae) in a phylogenetic analysis.
+  let !b self assert = High-throughput sequencing of the RNA of these samples revealed the presence of coronaviruses in 6 out of 43 samples (2 lung samples, 2 intestinal samples, 1 lung–intestine mixed sample and 1 blood sample from 5 individual pangolins). We were able to obtain six complete or near complete genome sequences—denoted GX/P1E, GX/P2V, GX/P3B, GX/P4L, GX/P5E and GX/P5L—that fall into the SARS-CoV-2 lineage (within the genus Betacoronavirus of the Coronaviridae) in a phylogenetic analysis.
 
   / March, 2020 - Nature
   let !c self assert = The genome sequence of the virus isolate (GX/P2V) has a very high similarity (99.83–99.92%) to the five sequences that were obtained through the metagenomic sequencing of the raw samples, and all samples have similar genomic organizations to SARS-CoV-2, with eleven predicted open-reading frames (ORFs).
@@ -2758,8 +2602,8 @@ ref 'Sharma_et_al_07_08_2020
   / March, 2020 - Nature
   let !d self assert = We conducted further qPCR testing on another batch of archived pangolin samples collected between May and July 2018. Among the 19 samples (9 intestine tissues, 10 lung tissues) tested from 12 animals, 3 lung tissue samples from 3 individual pangolins were positive for coronavirus.
 
-  / March, 2020 - Nature
-  let !e self assert = In addition to the animals from Guangxi, after the start of the SARS-CoV-2 outbreak researchers of the Guangzhou Customs Technology Center re-examined five archived pangolin samples (two skin swabs, two unknown tissue samples and one scale) obtained in anti-smuggling operations performed in March 2019. Following high-throughput sequencing, the scale sample was found to contain coronavirus reads, and from these data we assembled a partial genome sequence of 21,505 bp (denoted as GD/P2S), representing approximately 72% of the SARS-CoV-2 genome. Notably, this virus sequence, obtained from a pangolin scale sample, may in fact be derived from contaminants of other infected tissues.
+  # / March, 2020 - Nature
+  # let !e self assert = In addition to the animals from Guangxi, after the start of the SARS-CoV-2 outbreak researchers of the Guangzhou Customs Technology Center re-examined five archived pangolin samples (two skin swabs, two unknown tissue samples and one scale) obtained in anti-smuggling operations performed in March 2019. Following high-throughput sequencing, the scale sample was found to contain coronavirus reads, and from these data we assembled a partial genome sequence of 21,505 bp (denoted as GD/P2S), representing approximately 72% of the SARS-CoV-2 genome. Notably, this virus sequence, obtained from a pangolin scale sample, may in fact be derived from contaminants of other infected tissues.
 
   / March, 2020 - Nature
   let !f self assert = These pangolin coronavirus genomes have 85.5% to 92.4% sequence similarity to SARS-CoV-2, and represent two sub-lineages of SARS-CoV-2-related viruses in the phylogenetic tree, one of which (comprising GD/P1L and GD/P2S) is very closely related to SARS-CoV-2.
@@ -2776,17 +2620,20 @@ ref 'Sharma_et_al_07_08_2020
   / March, 2020 - Nature
   let !j self assert = Notably, a phylogenetic analysis of synonymous sites only from the RBD revealed that the topological position of the Guangdong pangolin is consistent with that of the remainder of the viral genome, rather than being the closest relative of SARS-CoV-2. Therefore, it is possible that the amino acid similarity between the RBD of the Guangdong pangolin coronaviruses and SARS-CoV-2 is due to selectively mediated convergent evolution rather than recombination, although it is difficult to differentiate between these scenarios on the basis of the current data. This observation is consistent with the fact that the sequence similarity of ACE2 is higher between humans and pangolins (84.8%) than between humans and bats (80.8–81.4% for Rhinolophus sp.)
 
-  / March, 2020 - Nature
-  let !k self assert = The occurrence of recombination and/or convergent evolution further highlights the role that intermediate animal hosts have in the emergence of viruses that can infect humans.
+  # / March, 2020 - Nature
+  # let !k self assert = The occurrence of recombination and/or convergent evolution further highlights the role that intermediate animal hosts have in the emergence of viruses that can infect humans.
+
+  # / March, 2020 - Nature
+  # let !l self assert = All of the pangolin coronaviruses identified to date lack the insertion of a polybasic (furin-like) S1/S2 cleavage site in the spike protein that distinguishes human SARS-CoV-2 from related betacoronaviruses (including RaTG13) and that may have helped to facilitate the emergence and rapid spread of SARS-CoV-2 through human populations.
 
   / March, 2020 - Nature
-  let !l self assert = All of the pangolin coronaviruses identified to date lack the insertion of a polybasic (furin-like) S1/S2 cleavage site in the spike protein that distinguishes human SARS-CoV-2 from related betacoronaviruses (including RaTG13) and that may have helped to facilitate the emergence and rapid spread of SARS-CoV-2 through human populations.
+  let !m self assert = On the basis of the current data it cannot be excluded that pangolins acquired their SARS-CoV-2-related viruses independently from bats or another animal host. Therefore, their role in the emergence of human SARS-CoV-2 remains to be confirmed. In this context, it is noteworthy that both lineages of pangolin coronaviruses were obtained from trafficked Malayan pangolins, which originated from Southeast Asia, and that there is a marked lack of knowledge of the viral diversity maintained by this species in regions in which it is indigenous.
 
   / March, 2020 - Nature
-  let !m self assert = On the basis of the current data it cannot be excluded that pangolins acquired their SARS-CoV-2-related viruses independently from bats or another animal host. Therefore, their role in the emergence of human SARS-CoV-2 remains to be confirmed. In this context, it is noteworthy that both lineages of pangolin coronaviruses were obtained from trafficked Malayan pangolins, which originated from Southeast Asia, and that there is a marked lack of knowledge of the viral diversity maintained by this species in regions in which it is indigenous. Furthermore, the extent of virus transmission in pangolin populations should be investigated further. However, the repeated occurrence of infections with SARS-CoV-2-related coronaviruses in Guangxi and Guangdong provinces suggests that this animal may have an important role in the community ecology of coronaviruses.
+  let !n self assert = The repeated occurrence of infections with SARS-CoV-2-related coronaviruses in Guangxi and Guangdong provinces suggests that this animal may have an important role in the community ecology of coronaviruses.
 
   / March, 2020 - Nature
-  let !n self assert = Although the epidemiology, pathogenicity, interspecies infectivity and transmissibility of coronaviruses in pangolins remains to be studied, the data presented here strongly suggests that handling these animals requires considerable caution and their sale in wet markets should be strictly prohibited. Further surveillance of pangolins in their natural environment in China and Southeast Asia are necessary to understand their role in the emergence of coronaviruses and the risk of future zoonotic transmissions.
+  let !o self assert = Although the epidemiology, pathogenicity, interspecies infectivity and transmissibility of coronaviruses in pangolins remains to be studied, the data presented here strongly suggests that handling these animals requires considerable caution and their sale in wet markets should be strictly prohibited.
 
 
 
@@ -2794,7 +2641,7 @@ ref 'Sharma_et_al_07_08_2020
   // Are pangolins the intermediate host of the 2019 novel coronavirus (SARS-CoV-2)?
   doi: https://doi.org/10.1371/journal.ppat.1008421
   ref 'Liu_et_al_05_14_2020
-  head = In this study, we assembled the genomes of coronaviruses identified in sick pangolins and our results showed that pangolin-CoV-2020 is genetically associated with both SARS-CoV-2 and a group of bat coronaviruses. There is a high sequence identity between pangolin-CoV-2020 and SARS-CoV-2. However, phylogenetic analyses and a special amino acid sequence in the S gene of SARS-CoV-2 did not support the hypothesis of SARS-CoV-2 arising directly from the pangolin-CoV-2020.
+  head = In this study, we assembled the complete genome of a coronavirus identified in 3 sick Malayan pangolins and our results showed that pangolin-CoV-2020 is genetically associated with both SARS-CoV-2 and a group of bat coronaviruses. There is a high sequence identity between pangolin-CoV-2020 and SARS-CoV-2. However, phylogenetic analyses and a special amino acid sequence in the S gene of SARS-CoV-2 did not support the hypothesis of SARS-CoV-2 arising directly from the pangolin-CoV-2020.
 
   >>> Abstract
     The outbreak of a novel corona Virus Disease 2019 (COVID-19) in the city of Wuhan, China has resulted in more than 1.7 million laboratory confirmed cases all over the world. Recent studies showed that SARS-CoV-2 was likely originated from bats, but its intermediate hosts are still largely unknown. In this study, we assembled the complete genome of a coronavirus identified in 3 sick Malayan pangolins. The molecular and phylogenetic analyses showed that this pangolin coronavirus (pangolin-CoV-2020) is genetically related to the SARS-CoV-2 as well as a group of bat coronaviruses but do not support the SARS-CoV-2 emerged directly from the pangolin-CoV-2020. Our study suggests that pangolins are natural hosts of Betacoronaviruses. Large surveillance of coronaviruses in pangolins could improve our understanding of the spectrum of coronaviruses in pangolins. In addition to conservation of wildlife, minimizing the exposures of humans to wildlife will be important to reduce the spillover risks of coronaviruses from wild animals to humans.
@@ -2807,18 +2654,21 @@ ref 'Sharma_et_al_07_08_2020
     !e
     !f
     !g
-    !h
     !i
+  -- Recombination
     !j
+  --
     !k
     !l
-    !m
 
   / May, 2020 - PLOS Pathogens
   let !a self assert = The molecular and phylogenetic analyses showed that this pangolin coronavirus (pangolin-CoV-2020) is genetically related to the SARS-CoV-2 as well as a group of bat coronaviruses but do not support the SARS-CoV-2 emerged directly from the pangolin-CoV-2020.
 
   / May, 2020 - PLOS Pathogens
-  let !b self assert = In March and July of 2019, we detected Betacoronaviruses in three individuals from two sets of smuggled Malayan pangolins (Manis javanica) (n = 27) that were intercepted by Guangdong customs. Through metagenomic sequencing and de novo assembling, we recovered 38 contigs ranging from 380 to 3,377 nucleotides, and the nucleotide sequence identity among the contigs from these three samples were 99.54%. Thus, we pooled sequences from three samples and assembled the draft genome of this pangolin origin coronavirus. After that, gap filling with amplicon sequencing was conducted to obtain a nearly full genome sequence. This pangolin-CoV-2020 genome (Genbank No.: MT121216) was found to be comprised of 29,521 nucleotides.
+  let !b self assert = In March and July of 2019, we detected Betacoronaviruses in three individuals from two sets of smuggled Malayan pangolins (Manis javanica) (n = 27) that were intercepted by Guangdong customs. Through metagenomic sequencing and de novo assembling, we recovered 38 contigs ranging from 380 to 3,377 nucleotides, and the nucleotide sequence identity among the contigs from these three samples were 99.54%.
+
+  # / May, 2020 - PLOS Pathogens
+  # let !b self assert = After that, gap filling with amplicon sequencing was conducted to obtain a nearly full genome sequence. This pangolin-CoV-2020 genome (Genbank No.: MT121216) was found to be comprised of 29,521 nucleotides.
 
   / May, 2020 - PLOS Pathogens
   let !c self assert = Strikingly, genomic analyses suggested the pangolin-CoV-2020 has a high identity with both SARS-CoV-2 and Bat-CoV-RaTG13, the proposed origin of SARS-CoV-2. The nucleotide sequence identity between pangolin-CoV-2020 and SARS-CoV-2 was 90.32%, whereas the protein sequence identity for individual proteins can be up to 100%. The nucleotide sequence identity between pangolin-CoV-2020 and Bat-CoV-RaTG13 was 90.24%, while that for the corresponding regions between SARS-CoV-2 and Bat-CoV-RaTG13 was 96.18%
@@ -2835,8 +2685,8 @@ ref 'Sharma_et_al_07_08_2020
   / May, 2020 - PLOS Pathogens
   let !g self assert = These results support that pangolin-CoV-2020 and SARS-CoV-2 share the same angiotensin-converting enzyme 2 (ACE2) receptor. Further analyses suggested that there was one variation (Gln498) between the RBM of pangolin-CoV-2020 and that of SARS-CoV-2 but conserved in all other key residues being associated with receptor binding (Gly482, Val483, Glu484, Gly485, Phe486, Gln493, Leu455, Asn501), suggesting a potential binding affinity between pangolin-CoV-2020 and human ACE2 receptor.
 
-  / May, 2020 - PLOS Pathogens
-  let !h self assert = On the other hand, unlike RBD, the nucleotide and amino acid sequence identity of NTD (N-terminal domain) were only 66.2% and 63.1% identical between pangolin-CoV-2020 and SARS-CoV-2. However, a loci Arg408 from the RBD core of SARS-CoV-2 could form a hydrogen bond with human ACE2 was conserved in pangolin-CoV-2020.
+  # / May, 2020 - PLOS Pathogens
+  # let !h self assert = On the other hand, unlike RBD, the nucleotide and amino acid sequence identity of NTD (N-terminal domain) were only 66.2% and 63.1% identical between pangolin-CoV-2020 and SARS-CoV-2. However, a loci Arg408 from the RBD core of SARS-CoV-2 could form a hydrogen bond with human ACE2 was conserved in pangolin-CoV-2020.
 
   / May, 2020 - PLOS Pathogens
   let !i self assert = Both pangolin-CoV-2020 and Bat-CoV-RaTG13 lack an S1/S2 cleavage site (~680–690 aa) whereas SARS-CoV-2 possesses.
@@ -2850,31 +2700,29 @@ ref 'Sharma_et_al_07_08_2020
   / May, 2020 - PLOS Pathogens
   let !l self assert = Similar tree topologies were observed for the encoding ORFs of RNA-dependent RNA polymerase (RdRp gene) and other genes. At the genomic level, SARS-CoV-2 was also genetically closer to Bat-CoV-RaTG13 than pangolin-CoV-2020.
 
-  / May, 2020 - PLOS Pathogens
-  let !m self assert = Large surveillance of coronaviruses in pangolins could improve our understanding of the spectrum of coronaviruses in pangolins. In addition to conservation of wildlife, minimizing the exposures of humans to wildlife will be important to reduce the spillover risks of coronaviruses from wild animals to humans.
+  # / May, 2020 - PLOS Pathogens
+  # let !m self assert = Large surveillance of coronaviruses in pangolins could improve our understanding of the spectrum of coronaviruses in pangolins. In addition to conservation of wildlife, minimizing the exposures of humans to wildlife will be important to reduce the spillover risks of coronaviruses from wild animals to humans.
 
 
 
   # Pangolians probable host, origin, There is only the one batch of pangolins carrying this interesting CoV. Did they get it from animals in co-captivity? Or did they get it from the human smugglers over weeks-months in captivity?
-  // Viral Metagenomics Revealed Sendai Virus and Coronavirus Infection of Malayan Pangolins ( Manis javanica)
+  // Viral Metagenomics Revealed Sendai Virus and Coronavirus Infection of Malayan Pangolins (Manis javanica)
   doi: https://doi.org/10.3390/v11110979
   ref 'Liu_et_al_10_24_2019
-  head = To date, this is the first metagenomic study of virus diversity in pangolins in China. This study expands our understanding of the viral diversity in endangered species and the capability of directly or indirectly crossing over into other mammals. We found high viral diversity of dead Malayan pangolins, and the Sendai virus and Coronavirus may be the dominant pathogens responsible for their death. The Sendai virus showed a close relationship between the Malayan pangolin and the strain isolated from humans, whereas Coronavirus sequences showed a high species diversity.
+  head = To date, this is the first metagenomic study of virus diversity in pangolins in China. We found high viral diversity of dead Malayan pangolins, and the Sendai virus and Coronavirus may be the dominant pathogens responsible for their death. The Sendai virus showed a close relationship between the Malayan pangolin and the strain isolated from humans, whereas Coronavirus sequences showed a high species diversity.
 
   >>> Abstract
     Pangolins are endangered animals in urgent need of protection. Identifying and cataloguing the viruses carried by pangolins is a logical approach to evaluate the range of potential pathogens and help with conservation. This study provides insight into viral communities of Malayan Pangolins (Manis javanica) as well as the molecular epidemiology of dominant pathogenic viruses between Malayan Pangolin and other hosts. A total of 62,508 de novo assembled contigs were constructed, and a BLAST search revealed 3600 ones (≥300 nt) were related to viral sequences, of which 68 contigs had a high level of sequence similarity to known viruses, while dominant viruses were the Sendai virus and Coronavirus. This is the first report on the viral diversity of pangolins, expanding our understanding of the virome in endangered species, and providing insight into the overall diversity of viruses that may be capable of directly or indirectly crossing over into other mammals
 
-  -- exports
-    !a
-    !b
+  -- Pangolins
     !c
     !d
 
-  / October, 2019 - Viruses
-  let !a self assert = A total of 62,508 de novo assembled contigs were constructed, and a BLAST search revealed 3600 ones (≥300 nt) were related to viral sequences, of which 68 contigs had a high level of sequence similarity to known viruses, while dominant viruses were the Sendai virus and Coronavirus.
+  # / October, 2019 - Viruses
+  # let !a self assert = A total of 62,508 de novo assembled contigs were constructed, and a BLAST search revealed 3600 ones (≥300 nt) were related to viral sequences, of which 68 contigs had a high level of sequence similarity to known viruses, while dominant viruses were the Sendai virus and Coronavirus.
 
-  / October, 2019 - Viruses
-  let !b self assert = This is the first report of a wild pangolin dying possibly due to Sendai virus infection, which further broadens the Sendai virus infection host spectrum. Because of the lack of healthy individuals as a control, we could not figure out whether the Sendai virus carried by pangolins was caused by infection from other hosts or was inherited.
+  # / October, 2019 - Viruses
+  # let !b self assert = This is the first report of a wild pangolin dying possibly due to Sendai virus infection, which further broadens the Sendai virus infection host spectrum. Because of the lack of healthy individuals as a control, we could not figure out whether the Sendai virus carried by pangolins was caused by infection from other hosts or was inherited.
 
   / October, 2019 - Viruses
   let !c self assert = Besides the Sendai virus, Coronaviruses were also detected as potential pathogens of Malayan pangolins. The phylogeny of Coronavirus sequences assembled and strains from four Coronavirus genera demonstrated complex genetic relationships and high species diversity of the Coronavirus in Malayan pangolins.
@@ -2911,7 +2759,7 @@ ref 'Sharma_et_al_07_08_2020
   let !a self assert = IgG prevalence was 89.8% (95% CI 88.2-91.3%) in COVID-19 patients, 4.0% (95% CI 3.4-4.7%) in healthcare providers, 4.6 (95% CI 4.3-4.9 %) in general workers, and 1.0% in other patients (p all <0.001 for comparisons with COVID-19 patients).
 
   / June, 2020 - medRxiv
-  let !b self assert = IgG prevalence increased significantly by age among healthcare workers and general workers. ). IgG prevalence increased significantly by age among healthcare providers, and was 2.8% in those <30 years old, 9.6% in those 60-69 years old and 10.0% in those ≥70 years old (p<0.001 for trend). IgG prevalence also increased significantly by age among general workers.
+  let !b self assert = IgG prevalence increased significantly by age among healthcare workers and general workers. IgG prevalence increased significantly by age among healthcare providers, and was 2.8% in those <30 years old, 9.6% in those 60-69 years old and 10.0% in those ≥70 years old (p<0.001 for trend). IgG prevalence also increased significantly by age among general workers.
 
   / June, 2020 - medRxiv
   let !c self assert = Prevalence of IgM antibodies to SARS-CoV-2 was 31.4% in COVID-19 patients, 1.5% in healthcare providers, 1.3% in general workers, and 0.2% in other patients.
@@ -2925,33 +2773,34 @@ ref 'Sharma_et_al_07_08_2020
   // Clinical and immunological assessment of asymptomatic SARS-CoV-2 infection
   doi: https://doi.org/10.1038/s41591-020-0965-6
   ref 'Xin-Long_et_al_06_18_2020
-  head = These data suggest that asymptomatic individuals had a weaker immune response to SARS-CoV-2 infection. The reduction in IgG and neutralizing antibody levels in the early convalescent phase might have implications for immunity strategy and serological surveys.
+  head = We studied the clinical features and immune responses of asymptomatic individuals infected with SARS-CoV-2. Our data suggest that asymptomatic individuals had a weaker immune response to SARS-CoV-2 infection. The reduction in IgG and neutralizing antibody levels in the early convalescent phase might have implications for immunity strategy and serological surveys.
 
   >>> Abstract
     The clinical features and immune responses of asymptomatic individuals infected with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) have not been well described. We studied 37 asymptomatic individuals in the Wanzhou District who were diagnosed with RT–PCR-confirmed SARS-CoV-2 infections but without any relevant clinical symptoms in the preceding 14 d and during hospitalization. Asymptomatic individuals were admitted to the government-designated Wanzhou People’s Hospital for centralized isolation in accordance with policy1. The median duration of viral shedding in the asymptomatic group was 19 d (interquartile range (IQR), 15–26 d). The asymptomatic group had a significantly longer duration of viral shedding than the symptomatic group (log-rank P = 0.028). The virus-specific IgG levels in the asymptomatic group (median S/CO, 3.4; IQR, 1.6–10.7) were significantly lower (P = 0.005) relative to the symptomatic group (median S/CO, 20.5; IQR, 5.8–38.2) in the acute phase. Of asymptomatic individuals, 93.3% (28/30) and 81.1% (30/37) had reduction in IgG and neutralizing antibody levels, respectively, during the early convalescent phase, as compared to 96.8% (30/31) and 62.2% (23/37) of symptomatic patients. Forty percent of asymptomatic individuals became seronegative and 12.9% of the symptomatic group became negative for IgG in the early convalescent phase. In addition, asymptomatic individuals exhibited lower levels of 18 pro- and anti-inflammatory cytokines. These data suggest that asymptomatic individuals had a weaker immune response to SARS-CoV-2 infection. The reduction in IgG and neutralizing antibody levels in the early convalescent phase might have implications for immunity strategy and serological surveys.
 
   -- exports
-    !a
     !b
     !c
     !d
-    !e
     !f
 
-  / June, 2020 - Nature Medicine
-  let !a self assert = The median duration of viral shedding in the asymptomatic group was 19 d (interquartile range (IQR), 15–26 d). The asymptomatic group had a significantly longer duration of viral shedding than the symptomatic group (log-rank P = 0.028).
+  # / June, 2020 - Nature Medicine
+  # let !a self assert = The median duration of viral shedding in the asymptomatic group was 19 d (interquartile range (IQR), 15–26 d). The asymptomatic group had a significantly longer duration of viral shedding than the symptomatic group (log-rank P = 0.028).
 
   / June, 2020 - Nature Medicine
-  let !b self assert = Virus-specific IgG and IgM in asymptomatic individuals: In the asymptomatic group, 81.1% (30/37) tested positive for IgG, and 83.8% (31/37) of the symptomatic group tested positive for IgG approximately 3–4 weeks after exposure. Moreover, 62.2% (23/37) of the asymptomatic group were positive for IgM, whereas 78.4% (29/37) of the symptomatic group were IgM positive. Interestingly, IgG levels in the symptomatic group (median S/CO, 20.5; IQR, 5.8–38.2) were significantly higher than those in the asymptomatic group (median S/CO, 3.4; IQR, 1.6–10.7) in the acute phase (the period when the viral RNA can be found in a respiratory specimen) (P = 0.005).
+  let !b self assert = In the asymptomatic group, 81.1% (30/37) tested positive for IgG, and 83.8% (31/37) of the symptomatic group tested positive for IgG approximately 3–4 weeks after exposure. Moreover, 62.2% (23/37) of the asymptomatic group were positive for IgM, whereas 78.4% (29/37) of the symptomatic group were IgM positive.
 
   / June, 2020 - Nature Medicine
-  let !c self assert = Of asymptomatic individuals, 93.3% (28/30) and 81.1% (30/37) had reduction in IgG and neutralizing antibody levels, respectively, during the early convalescent phase, as compared to 96.8% (30/31) and 62.2% (23/37) of symptomatic patients.
+  let !c self assert = Interestingly, IgG levels in the symptomatic group (median S/CO, 20.5; IQR, 5.8–38.2) were significantly higher than those in the asymptomatic group (median S/CO, 3.4; IQR, 1.6–10.7) in the acute phase (the period when the viral RNA can be found in a respiratory specimen) (P = 0.005).
+
+  # / June, 2020 - Nature Medicine
+  # let !c self assert = Of asymptomatic individuals, 93.3% (28/30) and 81.1% (30/37) had reduction in IgG and neutralizing antibody levels, respectively, during the early convalescent phase, as compared to 96.8% (30/31) and 62.2% (23/37) of symptomatic patients.
 
   / June, 2020 - Nature Medicine
   let !d self assert = In this study, we observed that IgG levels and neutralizing antibodies in a high proportion of individuals who recovered from SARS-CoV-2 infection start to decrease within 2–3 months after infection.
 
-  / June, 2020 - Nature Medicine
-  let !e self assert = 40.0% (12/30) of asymptomatic individuals became seronegative and 12.9% (4/31) of the symptomatic group became negative for IgG in the early convalescent phase.
+  # / June, 2020 - Nature Medicine
+  # let !e self assert = 40.0% (12/30) of asymptomatic individuals became seronegative and 12.9% (4/31) of the symptomatic group became negative for IgG in the early convalescent phase.
 
   / June, 2020 - Nature Medicine
   let !f self assert = In addition, asymptomatic individuals exhibited lower levels of 18 pro- and anti-inflammatory cytokines.
@@ -2965,113 +2814,107 @@ ref 'Sharma_et_al_07_08_2020
   head = The observation that plasma neutralizing activity is low in most convalescent individuals, but that recurrent anti-SARS-CoV-2 RBD antibodies with potent neutralizing activity can be found in individuals with unexceptional plasma neutralizing activity suggests that humans are intrinsically capable of generating anti-RBD antibodies that potently neutralize SARS-CoV-2. Thus, vaccines that selectively and efficiently induce antibodies targeting the SARS-CoV-2 RBD may be especially effective.
 
   >>> Abstract
-    During the COVID-19 pandemic, SARS-CoV-2 infected millions of people and claimed hundreds of thousands of lives. Virus entry into cells depends on the receptor binding domain (RBD) of the SARS-CoV-2 spike protein (S). Although there is no vaccine, it is likely that antibodies will be essential for protection. However, little is known about the human antibody response to SARS-CoV-21–5. Here we report on 149 COVID-19 convalescent individuals. Plasmas collected an average of 39 days after the onset of symptoms had variable half-maximal pseudovirus neutralizing titres: less than 1:50 in 33% and below 1:1,000 in 79%, while only 1% showed titres above 1:5,000. Antibody sequencing revealed expanded clones of RBD-specific memory B cells expressing closely related antibodies in different individuals. Despite low plasma titres, antibodies to three distinct epitopes on RBD neutralized at half-maximal inhibitory concentrations (IC50 values) as low as single digit nanograms per millitre. Thus, most convalescent plasmas obtained from individuals who recover from COVID-19 do not contain high levels of neutralizing activity. Nevertheless, rare but recurring RBD-specific antibodies with potent antiviral activity were found in all individuals tested, suggesting that a vaccine designed to elicit such antibodies could be broadly effective.
+    During the COVID-19 pandemic, SARS-CoV-2 infected millions of people and claimed hundreds of thousands of lives. Virus entry into cells depends on the receptor binding domain (RBD) of the SARS-CoV-2 spike protein (S). Although there is no vaccine, it is likely that antibodies will be essential for protection. However, little is known about the human antibody response to SARS-CoV-2. Here we report on 149 COVID-19 convalescent individuals. Plasmas collected an average of 39 days after the onset of symptoms had variable half-maximal pseudovirus neutralizing titres: less than 1:50 in 33% and below 1:1,000 in 79%, while only 1% showed titres above 1:5,000. Antibody sequencing revealed expanded clones of RBD-specific memory B cells expressing closely related antibodies in different individuals. Despite low plasma titres, antibodies to three distinct epitopes on RBD neutralized at half-maximal inhibitory concentrations (IC50 values) as low as single digit nanograms per millitre. Thus, most convalescent plasmas obtained from individuals who recover from COVID-19 do not contain high levels of neutralizing activity. Nevertheless, rare but recurring RBD-specific antibodies with potent antiviral activity were found in all individuals tested, suggesting that a vaccine designed to elicit such antibodies could be broadly effective.
 
   -- exports
-    !a
-    !b
-    !c
     !d
     !e
     !f
-    !g
-    !h
-    !i
-    !j
-    !k
-    !l
 
-  / June, 2020 - Nature
-  let !a self assert = Plasmas collected an average of 39 days after the onset of symptoms had variable half-maximal pseudovirus neutralizing titres: less than 1:50 in 33% and below 1:1,000 in 79%, while only 1% showed titres above 1:5,000.
+  # / June, 2020 - Nature
+  # let !a self assert = Plasmas collected an average of 39 days after the onset of symptoms had variable half-maximal pseudovirus neutralizing titres: less than 1:50 in 33% and below 1:1,000 in 79%, while only 1% showed titres above 1:5,000.
 
-  / June, 2020 - Nature
-  let !b self assert = Antibody sequencing revealed expanded clones of RBD-specific memory B cells expressing closely related antibodies in different individuals.
+  # / June, 2020 - Nature
+  # let !b self assert = Antibody sequencing revealed expanded clones of RBD-specific memory B cells expressing closely related antibodies in different individuals.
 
-  / June, 2020 - Nature
-  let !c self assert = Despite low plasma titres, antibodies to three distinct epitopes on RBD neutralized at half-maximal inhibitory concentrations (IC50 values) as low as single digit nanograms per millitre.
+  # / June, 2020 - Nature
+  # let !c self assert = Despite low plasma titres, antibodies to three distinct epitopes on RBD neutralized at half-maximal inhibitory concentrations (IC50 values) as low as single digit nanograms per millitre.
 
   / June, 2020 - Nature
   let !d self assert = Anti-RBD IgM titers were negatively correlated with duration of symptoms and the timing of sample collection. Anti-RBD IgG levels were modestly correlated to age, and the severity of symptoms including hospitalization. Interestingly, females had lower anti-RBD and -S IgG titers than males.
 
   / June, 2020 - Nature
-  let !e self assert = Hospitalized individuals with longer symptom duration showed slightly higher average levels of neutralizing activity than non-hospitalized individuals (p=0.0495). Finally, we observed a significant difference in neutralizing activity between males and females (p=0.0031). The difference between males and females was consistent with higher anti-RBD and -S IgG titers in males, and could not be attributed to age, severity, timing of sample collection relative to onset of symptoms or duration of symptoms.
+  let !e self assert = Hospitalized individuals with longer symptom duration showed slightly higher average levels of neutralizing activity than non-hospitalized individuals (p=0.0495).
 
   / June, 2020 - Nature
-  let !f self assert = The average number of V genes nucleotide mutations for IGH and IGL was 4.2 and 2.8, respectively, which is lower than in antibodies cloned from individuals suffering from chronic infections such as Hepatitis B or HIV-1, and similar to antibodies derived from primary malaria infection or non-antigen-enriched circulating IgG memory cells. Among other antibody features, IGH CDR3 length was indistinguishable from the reported norm and hydrophobicity was below average.
+  let !f self assert = We observed a significant difference in neutralizing activity between males and females (p=0.0031). The difference between males and females was consistent with higher anti-RBD and -S IgG titers in males, and could not be attributed to age, severity, timing of sample collection relative to onset of symptoms or duration of symptoms.
 
-  / June, 2020 - Nature
-  let !g self assert = As is the case with other human pathogens, there were expanded clones of viral antigen binding B cells in all COVID-19 individuals tested. Overall, 32.2% of the recovered IGH and IGL sequences were from clonally expanded B cells (range 21.8-57.4%across individuals). Antibodies that shared specific combinations of IGHV and IGLV genes in different individuals comprised 14% ofall the clonal sequences. Remarkably, the amino acid sequences of some antibodies found in different individuals were nearly identical . For example, antibodies expressed by clonally expanded B cells with IGHV1-58/IGKV3-20 and IGHV3-30-3/ IGKV1-39 found repeatedly in different individuals had amino acid.
+  # / June, 2020 - Nature
+  # let !g self assert = The average number of V genes nucleotide mutations for IGH and IGL was 4.2 and 2.8, respectively, which is lower than in antibodies cloned from individuals suffering from chronic infections such as Hepatitis B or HIV-1, and similar to antibodies derived from primary malaria infection or non-antigen-enriched circulating IgG memory cells. Among other antibody features, IGH CDR3 length was indistinguishable from the reported norm and hydrophobicity was below average.
 
-  / June, 2020 - Nature
-  let !h self assert = ELISA assays showed that 95% (89 out of 94) of the antibodies tested including clonal and unique sequences bound to the SARS-CoV-2 RBD with an average half-maximal effective concentration (EC50) of 6.9 ng/mL. A fraction of these (7 out of 77 that were tested, or 9%) cross-reacted with the RBD of SARS-CoV with EC50s below 1μg/mL. No significant cross-reactivity was noted to the RBDs of MERS HCoV-OC43, HCoV-229E or HCoV-NL63.
+  # / June, 2020 - Nature
+  # let !h self assert = As is the case with other human pathogens, there were expanded clones of viral antigen binding B cells in all COVID-19 individuals tested. Overall, 32.2% of the recovered IGH and IGL sequences were from clonally expanded B cells (range 21.8-57.4% across individuals). Antibodies that shared specific combinations of IGHV and IGLV genes in different individuals comprised 14% ofall the clonal sequences. Remarkably, the amino acid sequences of some antibodies found in different individuals were nearly identical . For example, antibodies expressed by clonally expanded B cells with IGHV1-58/IGKV3-20 and IGHV3-30-3/ IGKV1-39 found repeatedly in different individuals had amino acid.
 
-  / June, 2020 - Nature
-  let !i self assert = Among 89 RBD binding antibodies tested, we found 52 that neutralized SARS-CoV-2 pseudovirus with nanogram per milliliter half-maximal inhibitory concentrations (IC50s) ranging from 3 to 709. A subset of the most potent of these antibodies were also tested against authentic SARS-CoV-2 and neutralized with IC50s of less than 5 ng/ml. Only two of the antibodies which cross-reacted with the RBD of SARS-CoV showed significant neutralizing activity against SARS-CoV pseudovirus.
+  # / June, 2020 - Nature
+  # let !i self assert = ELISA assays showed that 95% (89 out of 94) of the antibodies tested including clonal and unique sequences bound to the SARS-CoV-2 RBD with an average half-maximal effective concentration (EC50) of 6.9 ng/mL. A fraction of these (7 out of 77 that were tested, or 9%) cross-reacted with the RBD of SARS-CoV with EC50s below 1μg/mL. No significant cross-reactivity was noted to the RBDs of MERS HCoV-OC43, HCoV-229E or HCoV-NL63.
 
-  / June, 2020 - Nature
-  let !j self assert = Post neutralizing antibodies were found in individuals irrespective of their plasma NT50s. For example, C121, C144, and C135 with IC50s of 1.64, 2.55 and 2.98 ng/mL against authentic SARS-CoV-2, respectively, were obtained from individuals COV107, COV47, and COV72 whose plasma NT50 values were of 297, 10,433 and 3,138, respectively. Finally, clones of antibodies with shared IGHV and IGLV genes were among the best neutralizers, e.g., antibody C002 composed of IGHV3-30/IGKV1-39 is shared by the 2 donors with the best plasma neutralizing activity. We conclude that even individuals with modest plasma neutralizing activity harbor rare IgG memory B cells that produce potent SARS-CoV-2 neutralizing antibodies.
+  # / June, 2020 - Nature
+  # let !j self assert = Among 89 RBD binding antibodies tested, we found 52 that neutralized SARS-CoV-2 pseudovirus with nanogram per milliliter half-maximal inhibitory concentrations (IC50s) ranging from 3 to 709. A subset of the most potent of these antibodies were also tested against authentic SARS-CoV-2 and neutralized with IC50s of less than 5 ng/ml. Only two of the antibodies which cross-reacted with the RBD of SARS-CoV showed significant neutralizing activity against SARS-CoV pseudovirus.
 
-  / June, 2020 - Nature
-  let !k self assert = The antibodies tested comprised 3 groups, all of which differ in their binding properties from CR3022, an antibody that neutralizes SARS-CoV and binds to, but does not neutralize SARS-CoV-2. Representatives of each of the 3 groups include: C144 and C101 in Group 1; C121 and C009 in Group 2; C135 in Group 3. All of these antibodies can bind after CR3022. Groups 1 and 2 also bind after Group 3, and Groups 1 and 2 differ in that Group 1 can bind after Group 2 but not vice versa. We conclude that similar to SARS-CoV, there are multiple distinct neutralizing epitopes on the RBD of SARS-CoV-2.
+  # / June, 2020 - Nature
+  # let !k self assert = Post neutralizing antibodies were found in individuals irrespective of their plasma NT50s. For example, C121, C144, and C135 with IC50s of 1.64, 2.55 and 2.98 ng/mL against authentic SARS-CoV-2, respectively, were obtained from individuals COV107, COV47, and COV72 whose plasma NT50 values were of 297, 10,433 and 3,138, respectively.
 
-  / June, 2020 - Nature
-  let !l self assert = We conclude that the IgG memory response to the SARS-CoV-2 RBD is rich in recurrent and clonally expanded antibody sequences.
+  # / June, 2020 - Nature
+  # let !l self assert = Finally, clones of antibodies with shared IGHV and IGLV genes were among the best neutralizers, e.g., antibody C002 composed of IGHV3-30/IGKV1-39 is shared by the 2 donors with the best plasma neutralizing activity. We conclude that even individuals with modest plasma neutralizing activity harbor rare IgG memory B cells that produce potent SARS-CoV-2 neutralizing antibodies.
+
+  # / June, 2020 - Nature
+  # let !m self assert = The antibodies tested comprised 3 groups, all of which differ in their binding properties from CR3022, an antibody that neutralizes SARS-CoV and binds to, but does not neutralize SARS-CoV-2. Representatives of each of the 3 groups include: C144 and C101 in Group 1; C121 and C009 in Group 2; C135 in Group 3. All of these antibodies can bind after CR3022. Groups 1 and 2 also bind after Group 3, and Groups 1 and 2 differ in that Group 1 can bind after Group 2 but not vice versa. We conclude that similar to SARS-CoV, there are multiple distinct neutralizing epitopes on the RBD of SARS-CoV-2.
+
+  # / June, 2020 - Nature
+  # let !n self assert = We conclude that the IgG memory response to the SARS-CoV-2 RBD is rich in recurrent and clonally expanded antibody sequences.
 
 
 
-  # FACE MASK, airborne transmission, public policy, humidity, PM2.5
+  # FACE MASK, airborne transmission, public policy, humidity, PM2.5, many scientist were questioning this paper.
   // Identifying airborne transmission as the dominant route for the spread of COVID-19
   doi: https://doi.org/10.1073/pnas.2009637117
   ref 'Zhang_et_al_06_11_2020
-  head = Our study shows that airborne transmission, particularly via nascent aerosols from human atomization, is highly virulent and represents the dominant route to spread the disease. We conclude that wearing of face masks in public corresponds to the most effective means to prevent interhuman transmission, and this inexpensive practice, in conjunction with simultaneous social distancing, quarantine, and contact tracing, represents the most likely fighting opportunity to stop the COVID-19 pandemic, prior to the development of a vaccine. Our work also highlights the fact that sound science is essential in decision-making for the current and future public health pandemics.
+  head = Our results show that the airborne transmission route, particularly via nascent aerosols from human atomization, is highly virulent and dominant for the spread of COVID-19. Our analysis reveals that the difference with and without mandated face covering represents the determinant in shaping the pandemic trends. This protective measure alone significantly reduced the number of infections. Other mitigation measures, such as social distancing implemented in the United States, are insufficient by themselves in protecting the public.
 
   >>> Abstract
     Various mitigation measures have been implemented to fight the coronavirus disease 2019 (COVID-19) pandemic, including widely adopted social distancing and mandated face covering. However, assessing the effectiveness of those intervention practices hinges on the understanding of virus transmission, which remains uncertain. Here we show that airborne transmission is highly virulent and represents the dominant route to spread the disease. By analyzing the trend and mitigation measures in Wuhan, China, Italy, and New York City, from January 23 to May 9, 2020, we illustrate that the impacts of mitigation measures are discernable from the trends of the pandemic. Our analysis reveals that the difference with and without mandated face covering represents the determinant in shaping the pandemic trends in the three epicenters. This protective measure alone significantly reduced the number of infections, that is, by over 78,000 in Italy from April 6 to May 9 and over 66,000 in New York City from April 17 to May 9. Other mitigation measures, such as social distancing implemented in the United States, are insufficient by themselves in protecting the public. We conclude that wearing of face masks in public corresponds to the most effective means to prevent interhuman transmission, and this inexpensive practice, in conjunction with simultaneous social distancing, quarantine, and contact tracing, represents the most likely fighting opportunity to stop the COVID-19 pandemic. Our work also highlights the fact that sound science is essential in decision-making for the current and future public health pandemics.
 
-  -- exports
-    !a
-    !b
-    !c
-    !d
-    !e
-    !f
   -- Airborne Transmission
-    !g
     !h
     !i
+    !l
+    !m
+    !n
   -- PM2.5 levels
     !j
   -- humidity
     !k
-  --
-    !l
-  -- public policy
-    !m
-    !n
-    !o
+  -- A Policy Perspective
     !p
-    !q
+    !r
+
+
+  # / June, 2020 - PNAS
+  # let !a self assert = Our analysis indicates that face covering reduced the number of infections by over 78,000 in Italy from April 6 to May 9 and by over 66,000 in NYC from April 17 to May 9.
+
+  # / June, 2020 - PNAS
+  # let !a self assert = In addition, varying the correlation from 15 d to 30 d prior to the onset of the implementation reveals little difference in the projection for both places, because of the high correlation coefficients. Notably, the trends of the infection curves in Italy and NYC contrast to those in the world and in the United States, which show little deviation from the linearity due to the non implementation of face-covering measures globally and nationally, respectively.
+
+  # / June, 2020 - PNAS
+  # let !b self assert = The inability of social distancing, quarantine, and isolation alone to curb the spread of COVID-19 is also evident from the linearity of the infection curve prior to the onset of the face-covering rule in Italy on April 6 and in NYC on April 17. Hence, the difference made by implementing face covering significantly shapes the pandemic trends worldwide.
+
+  # / June, 2020 - PNAS
+  # let !c self assert = We further compared the numbers of daily new cases between NYC and the United States (excluding the data in NYC) from March 1 to May 9. The decreasing rate in the daily new infections in NYC with mandated face covering is in sharp contrast to that in the United States with only social-distancing and stay-at-home measures, further confirming the importance of face covering in intervening the virus transmission.
+
+  # / June, 2020 - PNAS
+  # let !d self assert = While similar quarantine, isolation, and city lockdown measures were also implemented on March 9 in Italy after the country became the second epicenter, the curve of infections has yet to show complete flattening. In the United States, guidelines for social distancing, quarantine, and isolation were issued by the federal government on March 16, and stay-at-home orders were implemented by many state and local governments starting, for example, on March 19 and April 3 and on March 22 in NYC. The social distancing measures implemented in the United States include staying at least 6 feet away from other people, no gathering in groups, staying out of crowded places, and avoiding mass gatherings. Obviously, the continuous rise in the US infected numbers casts doubt on the effectiveness of those preventive measures alone. In contrast to China, wearing of face masks was not mandated and was unpopular in most of the western world during the early outbreak of the pandemic.
 
   / June, 2020 - PNAS
-  let !a self assert = Understanding the Impacts of Face Covering: Our analysis indicates that face covering reduced the number of infections by over 78,000 in Italy from April 6 to May 9 and by over 66,000 in NYC from April 17 to May 9. In addition, varying the correlation from 15 d to 30 d prior to the onset of the implementation reveals little difference in the projection for both places, because of the high correlation coefficients. Notably, the trends of the infection curves in Italy and NYC contrast to those in the world and in the United States, which show little deviation from the linearity due to the non implementation of face-covering measures globally and nationally, respectively.
+  let !e self assert = With measures implemented in the United States seemingly comparable to those in China, social distancing, quarantine, and isolation exhibited little impact on stopping the spreading of the disease in the United States, as reflected by the linearity from April 1 to May 9. It is possible, however, that these measures likely alter the slope of the infection curve, that is, by reducing the rate of infections during the early stage of the pandemic.
 
-  / June, 2020 - PNAS
-  let !b self assert = The inability of social distancing, quarantine, and isolation alone to curb the spread of COVID-19 is also evident from the linearity of the infection curve prior to the onset of the face-covering rule in Italy on April 6 and in NYC on April 17. Hence, the difference made by implementing face covering significantly shapes the pandemic trends worldwide.
+  # / June, 2020 - PNAS
+  # let !f self assert = Notably, the recommended physical separation for social distancing is beneficial to prevent direct contact transmission but is insufficient (without face masks) to protect inhalation of virus-bearing aerosols (or even small droplets at intermediate proximity), owing to rapid air mixing.
 
-  / June, 2020 - PNAS
-  let !c self assert = We further compared the numbers of daily new cases between NYC and the United States (excluding the data in NYC) from March 1 to May 9. The decreasing rate in the daily new infections in NYC with mandated face covering is in sharp contrast to that in the United States with only social-distancing and stay-at-home measures, further confirming the importance of face covering in intervening the virus transmission.
+  # / June, 2020 - PNAS
+  # let !g self assert = Specifically, while the WHO and the US Centers for Disease Control and Prevention (CDC) have emphasized the prevention of contact transmission, both WHO and CDC have largely ignored the importance of the airborne transmission route. The current mitigation measures, such as social distancing, quarantine, and isolation implemented in the United States, are insufficient by themselves in protecting the public.
 
-  / June, 2020 - PNAS
-  let !d self assert = While similar quarantine, isolation, and city lockdown measures were also implemented on March 9 in Italy after the country became the second epicenter, the curve of infections has yet to show complete flattening. In the United States, guidelines for social distancing, quarantine, and isolation were issued by the federal government on March 16, and stay-at-home orders were implemented by many state and local governments starting, for example, on March 19 and April 3 and on March 22 in NYC. The social distancing measures implemented in the United States include staying at least 6 feet away from other people, no gathering in groups, staying out of crowded places, and avoiding mass gatherings. Obviously, the continuous rise in the US infected numbers casts doubt on the effectiveness of those preventive measures alone. In contrast to China, wearing of face masks was not mandated and was unpopular in most of the western world during the early outbreak of the pandemic.
-
-  / June, 2020 - PNAS
-  let !e self assert = With measures implemented in the United States seemingly comparable to those in China, social distancing, quarantine, and isolation exhibited little impact on stopping the spreading of the disease in the United States, as reflected by the linearity from April 1 to May 9. It is possible, however, that these measures likely alter the slope of the infection curve, that is, by reducing the rate of infections during the early stage of the pandemic. Notably, the recommended physical separation for social distancing is beneficial to prevent direct contact transmission but is insufficient (without face masks) to protect inhalation of virus-bearing aerosols (or even small droplets at intermediate proximity), owing to rapid air mixing.
-
-  / June, 2020 - PNAS
-  let !f self assert = Specifically, while the WHO and the US Centers for Disease Control and Prevention (CDC) have emphasized the prevention of contact transmission, both WHO and CDC have largely ignored the importance of the airborne transmission route. The current mitigation measures, such as social distancing, quarantine, and isolation implemented in the United States, are insufficient by themselves in protecting the public.
-
-  / June, 2020 - PNAS
-  let !g self assert = Dominant Airborne Transmission: With social distancing, quarantine, and isolation in place worldwide and in the United States since the beginning of April, airborne transmission represents the only viable route for spreading the disease, when mandated face covering is not implemented. Similarly, airborne transmission also contributes dominantly to the linear increase in the infection prior to the onset of mandated face covering in Italy and NYC. Hence, the unique function of face covering to block atomization and inhalation of virus-bearing aerosols accounts for the significantly reduced infections in China, Italy, and NYC, indicating that airborne transmission of COVID-19 represents the dominant route for infection.
+  # / June, 2020 - PNAS
+  # let !g self assert = With social distancing, quarantine, and isolation in place worldwide and in the United States since the beginning of April, airborne transmission represents the only viable route for spreading the disease, when mandated face covering is not implemented. Similarly, airborne transmission also contributes dominantly to the linear increase in the infection prior to the onset of mandated face covering in Italy and NYC. Hence, the unique function of face covering to block atomization and inhalation of virus-bearing aerosols accounts for the significantly reduced infections in China, Italy, and NYC, indicating that airborne transmission of COVID-19 represents the dominant route for infection.
 
   / June, 2020 - PNAS
   let !h self assert = Within an enclosed environment, virus-bearing aerosols from human atomization are readily accumulated, and elevated levels of airborne viruses facilitate transmission from person to person. Transmission of airborne viruses in open air is subject to dilution, although virus accumulation still occurs due to stagnation under polluted urban conditions
@@ -3086,22 +2929,28 @@ ref 'Sharma_et_al_07_08_2020
   let !k self assert = While the humidity effect on viral surviving is uncertain, the conditions during the outbreaks in Wuhan, Rome, and NYC correspond to high RH yet low absolute humidity because of low temperature. Early experimental work showed remarkable survival for the analogous coronavirus MERS-CoV at the RH level characteristic of the COVID-19 outbreaks in Wuhan, Rome, and NYC. For comparison, indoor temperature and RH typically range from 21 °C to 27 °C and 20 to 70%, respectively.
 
   / June, 2020 - PNAS
-  let !l self assert = Of particular importance are the considerations that render airborne SARS-CoV-2 the most efficient among all transmission routes. Even with normal nasal breathing, inhalation of virus-bearing aerosols results in deep and continuous deposition into the human respiratory tract, and this transmission route typically requires a low dose. Also, airborne viruses have great mobility and sufficiently long surviving time for dispersion, and residents situated in densely populated environments are highly vulnerable. In addition, nascent micrometer-size aerosols produced from coughing/sneezing of infected people have the potential of containing many viruses, particularly for asymptomatic carriers.
+  let !l self assert = Of particular importance are the considerations that render airborne SARS-CoV-2 the most efficient among all transmission routes. Even with normal nasal breathing, inhalation of virus-bearing aerosols results in deep and continuous deposition into the human respiratory tract, and this transmission route typically requires a low dose.
 
   / June, 2020 - PNAS
-  let !m self assert = A Policy Perspective: In the United States, social distancing and stay-at-home measures, in conjunction with hand sanitizing, were implemented during the early stage of the pandemic (March 16). These measures minimized short-range contact transmission but did not prevent long-range airborne transmission, responsible for the inefficient containing of the pandemic in the United States. Mandated face covering, such as those implemented in China, Italy, and NYC, effectively prevented airborne transmission by blocking atomization and inhalation of virus-bearing aerosols and contact transmission by blocking viral shedding of droplets.
+  let !m self assert = Also, airborne viruses have great mobility and sufficiently long surviving time for dispersion, and residents situated in densely populated environments are highly vulnerable.
 
   / June, 2020 - PNAS
-  let !n self assert = A Policy Perspective: While the combined face-covering and social distancing measures offered dual protection against the virus transmission routes, the timing and sequence in implementing the measures also exhibited distinct outcomes during the pandemic. For example, social distancing measures, including city lockdown and stay-at-home orders, were implemented well before face covering was mandated in Italy and NYC, and this sequence left an extended window (28 d in Italy and 32 d in NYC) for largely uninterrupted airborne transmission to spread the disease. The simultaneous implementation of face covering and social distancing, such as that undertaken in China, was most optimal, and this configuration, in conjunction with extensive testing and contact tracing, was responsible for the curve flattening in China
+  let !n self assert = In addition, nascent micrometer-size aerosols produced from coughing/sneezing of infected people have the potential of containing many viruses, particularly for asymptomatic carriers.
+
+  # / June, 2020 - PNAS
+  # let !o self assert = In the United States, social distancing and stay-at-home measures, in conjunction with hand sanitizing, were implemented during the early stage of the pandemic (March 16). These measures minimized short-range contact transmission but did not prevent long-range airborne transmission, responsible for the inefficient containing of the pandemic in the United States. Mandated face covering, such as those implemented in China, Italy, and NYC, effectively prevented airborne transmission by blocking atomization and inhalation of virus-bearing aerosols and contact transmission by blocking viral shedding of droplets.
 
   / June, 2020 - PNAS
-  let !o self assert = Also, there likely existed remnants of virus transmission after the implementation of regulatory measures, because of circumstances when the measures were not practical or were disobeyed and/or imperfection of the measures.
+  let !p self assert = While the combined face-covering and social distancing measures offered dual protection against the virus transmission routes, the timing and sequence in implementing the measures also exhibited distinct outcomes during the pandemic. For example, social distancing measures, including city lockdown and stay-at-home orders, were implemented well before face covering was mandated in Italy and NYC, and this sequence left an extended window (28 d in Italy and 32 d in NYC) for largely uninterrupted airborne transmission to spread the disease. The simultaneous implementation of face covering and social distancing, such as that undertaken in China, was most optimal, and this configuration, in conjunction with extensive testing and contact tracing, was responsible for the curve flattening in China
+
+  # / June, 2020 - PNAS
+  # let !p self assert = Also, there likely existed remnants of virus transmission after the implementation of regulatory measures, because of circumstances when the measures were not practical or were disobeyed and/or imperfection of the measures.
+
+  # / June, 2020 - PNAS
+  # let !q self assert = However, it is implausible that the limitations of mitigation measures alone contributed dominantly to the global pandemic trend, as exemplified by the success in China. Our work suggests that the failure in containing the propagation of COVID-19 pandemic worldwide is largely attributed to the unrecognized importance of airborne virus transmission.
 
   / June, 2020 - PNAS
-  let !p self assert = However, it is implausible that the limitations of mitigation measures alone contributed dominantly to the global pandemic trend, as exemplified by the success in China. Our work suggests that the failure in containing the propagation of COVID-19 pandemic worldwide is largely attributed to the unrecognized importance of airborne virus transmission.
-
-  / June, 2020 - PNAS
-  let !q self assert = It is also important to emphasize that sound science should be effectively communicated to policy makers and should constitute the prime foundation in decision-making amid this pandemic. Implementing policies without a scientific basis could lead to catastrophic consequences, particularly in light of attempts to reopen the economy in many countries. Clearly, integration between science and policy is crucial to formulation of effective emergency responses by policy makers and preparedness by the public for the current and future public health pandemics.
+  let !r self assert = It is also important to emphasize that sound science should be effectively communicated to policy makers and should constitute the prime foundation in decision-making amid this pandemic. Implementing policies without a scientific basis could lead to catastrophic consequences, particularly in light of attempts to reopen the economy in many countries. Clearly, integration between science and policy is crucial to formulation of effective emergency responses by policy makers and preparedness by the public for the current and future public health pandemics.
 
 
 
@@ -3110,52 +2959,47 @@ ref 'Sharma_et_al_07_08_2020
   // Airborne SARS-CoV-2 is Rapidly Inactivated by Simulated Sunlight
   doi: https://doi.org/10.1093/infdis/jiaa334
   ref 'Schuit_et_al_06_11_2020
-  head = The present study provides the first data on the influence of relative humidity, simulated sunlight, and suspension matrix on the survival of SARS-CoV-2 in aerosols and suggests that sunlight may be an important factor influencing the risk of aerosol transmission of disease. These data, in conjunction with studies on the epidemiology of COVID-19, aerosol sampling studies in clinical settings, and studies on the infectious dose of SARS-CoV-2, may be useful to better understand the potential for this virus to spread via the aerosol route.
+  head = This study examined the effect of simulated sunlight, relative humidity, and suspension matrix on the stability of SARS-CoV-2 in aerosols. Both simulated sunlight and matrix significantly affected the decay rate of the virus. Relative humidity alone did not affect the decay rate; however, minor interactions between relative humidity and the other factors were observed. These results suggest that the potential for aerosol transmission of SARS-CoV-2 may be dependent on environmental conditions, particularly sunlight.
 
   >>> Abstract
     Aerosols represent a potential route of transmission of COVID-19. This study examined the effect of simulated sunlight, relative humidity, and suspension matrix on the stability of SARS-CoV-2 in aerosols. Both simulated sunlight and matrix significantly affected the decay rate of the virus. Relative humidity alone did not affect the decay rate; however, minor interactions between relative humidity and the other factors were observed. Decay rates in simulated saliva, under simulated sunlight levels representative of late winter/early fall and summer were 0.121±0.017 min-1 (90% loss: 19 minutes) and 0.379±0.072 min-1 (90% loss: 6 minutes), respectively. The mean decay rate without simulated sunlight across all relative humidity levels was 0.008±0.011 min-1 (90% loss: 125 minutes). These results suggest that the potential for aerosol transmission of SARS-CoV-2 may be dependent on environmental conditions, particularly sunlight. These data may be useful to inform mitigation strategies to minimize the potential for aerosol transmission.
 
   -- exports
-    !a
-    !b
-    !c
-    !d
     !e
     !f
-    !g
-    !h
-    !i
-    !j
+
+  # / June, 2020 - The Journal of Infectious Diseases
+  # let !a self assert = Both simulated sunlight and matrix significantly affected the decay rate of the virus. Relative humidity alone did not affect the decay rate; however, minor interactions between relative humidity and the other factors were observed.
+
+  # / June, 2020 - The Journal of Infectious Diseases
+  # let !b self assert = Decay rates in simulated saliva, under simulated sunlight levels representative of late winter/early fall and summer were 0.121±0.017 min-1 (90% loss: 19 minutes) and 0.379±0.072 min-1 (90% loss: 6 minutes), respectively. The mean decay rate without simulated sunlight across all relative humidity levels was 0.008±0.011 min-1 (90% loss: 125 minutes).
+
+  # / June, 2020 - The Journal of Infectious Diseases
+  # let !c self assert = Average decay constants for infectivity ranged from near zero for tests without simulated sunlight to 0.48 min-1, or 38%/min, for tests with high-intensity simulated sunlight at 70% relative humidity. Stepwise regression analysis demonstrated that kInfectivity was dependent on the simulated sunlight intensity and the suspension matrix (P<0.0001 and P=.0004, respectively), but not relative humidity (P=0.0946). Interactions between suspension matrix and simulated sunlight intensity (P<0.0001), suspension matrix and relative humidity (P=0.0017), and simulated sunlight intensity and relative humidity (P=0.0463), were also significant. While the effect of suspension matrix was statistically significant, the magnitude of the effect of simulated sunlight was much greater, as suggested by a greater standardized regression coefficient (-0.117 for simulated sunlight vs. 0.022 for matrix). The overall adjusted r2 for the model was 0.88.
+
+  # / June, 2020 - The Journal of Infectious Diseases
+  # let !d self assert = The present study examined the influence of simulated sunlight and relative humidity on the stability of SARS-CoV-2 in aerosols generated from virus suspended in either simulated saliva or culture medium at 20°C. Simulated sunlight rapidly inactivated the virus in aerosols in either suspension matrix, with half-lives of less than 6 minutes and 90% of the virus inactivated in less than 20 minutes for all simulated sunlight levels tested.
 
   / June, 2020 - The Journal of Infectious Diseases
-  let !a self assert = Both simulated sunlight and matrix significantly affected the decay rate of the virus. Relative humidity alone did not affect the decay rate; however, minor interactions between relative humidity and the other factors were observed.
+  let !e self assert = There was a small but statistically significant reduction in decay rate under high-intensity sunlight when the virus was suspended in culture medium compared to simulated saliva, suggesting that the matrix in which the virus is suspended may also be an important factor to consider when examining the persistence of SARS-CoV-2 in an aerosol.
 
   / June, 2020 - The Journal of Infectious Diseases
-  let !b self assert = Decay rates in simulated saliva, under simulated sunlight levels representative of late winter/early fall and summer were 0.121±0.017 min-1 (90% loss: 19 minutes) and 0.379±0.072 min-1 (90% loss: 6 minutes), respectively. The mean decay rate without simulated sunlight across all relative humidity levels was 0.008±0.011 min-1 (90% loss: 125 minutes).
+  let !f self assert = The present study is the first to demonstrate that simulated sunlight, with UVA and UVB levels similar to natural sunlight, is also able to inactivate airborne coronaviruses.
 
-  / June, 2020 - The Journal of Infectious Diseases
-  let !c self assert = Average decay constants for infectivity ranged from near zero for tests without simulated sunlight to 0.48 min-1, or 38%/min, for tests with high-intensity simulated sunlight at 70% relative humidity. Stepwise regression analysis demonstrated that kInfectivity was dependent on the simulated sunlight intensity and the suspension matrix (P<0.0001 and P=.0004, respectively), but not relative humidity (P=0.0946). Interactions between suspension matrix and simulated sunlight intensity (P<0.0001), suspension matrix and relative humidity (P=0.0017), and simulated sunlight intensity and relative humidity (P=0.0463), were also significant. While the effect of suspension matrix was statistically significant, the magnitude of the effect of simulated sunlight was much greater, as suggested by a greater standardized regression coefficient (-0.117 for simulated sunlight vs. 0.022 for matrix). The overall adjusted r2 for the model was 0.88.
+  # / June, 2020 - The Journal of Infectious Diseases
+  # let !f self assert = It should be noted that many additional factors beyond the relative stability of the virus in an aerosol contribute to the potential for aerosol transmission of disease. These include the amount of virus present in an aerosol, the size and infectious dose of aerosol particles, the distance and airflow dynamics between infected and uninfected individuals, the presence of mitigation measures such as personal protective equipment.
 
-  / June, 2020 - The Journal of Infectious Diseases
-  let !d self assert = The present study examined the influence of simulated sunlight and relative humidity on the stability of SARS-CoV-2 in aerosols generated from virus suspended in either simulated saliva or culture medium at 20°C. Simulated sunlight rapidly inactivated the virus in aerosols in either suspension matrix, with half-lives of less than 6 minutes and 90% of the virus inactivated in less than 20 minutes for all simulated sunlight levels tested.
+  # / June, 2020 - The Journal of Infectious Diseases
+  # let !g self assert = Relative humidity alone did not significantly affect decay of the virus, although there were interactions identified between relative humidity and the other factors. However, the magnitude of these interactions was minor compared to the magnitude of the effect of simulated sunlight. The half-lives estimated from the mean decay constants across all relative humidity levels without simulated sunlight present were 55 and 86 minutes for aerosols generated from virus suspended inculture medium and simulated saliva, respectively.
 
-  / June, 2020 - The Journal of Infectious Diseases
-  let !e self assert = There was a  small but statistically significant reduction in decay rate under high-intensity sunlight when the virus was suspended in culture medium compared to simulated saliva, suggesting that the matrix in which the virus is suspended may also be an important factor to consider when examining the persistence of SARS-CoV-2 in an aerosol.
+  # / June, 2020 - The Journal of Infectious Diseases
+  # let !h self assert = The half-life from the present study for culture medium is similar to the value of 1.1 hours reported recently for SARS-CoV-2 in darkness and 65% relative humidity. The prolonged persistence of SARS-CoV-2 under conditions representative of indoor environments highlights the need for additional studies to better understand the potential sources of aerosols and viral load present in these settings.
 
-  / June, 2020 - The Journal of Infectious Diseases
-  let !f self assert = The present study is the first to demonstrate that simulated sunlight, with UVA and UVB levels similar to natural sunlight, is also able to inactivate airborne coronaviruses. It should be noted that many additional factors beyond the relative stability of the virus in an aerosol contribute to the potential for aerosol transmission of disease. These include the amount of virus present in an aerosol, the size and infectious dose of aerosol particles, the distance and airflow dynamics between infected and uninfected individuals, the presence of mitigation measures such as personal protective equipment.
+  # / June, 2020 - The Journal of Infectious Diseases
+  # let !i self assert = It has been previously reported that other coronaviruses were significantly less stable at higher relative humidities, with the half-life for human coronavirus 229E decreasing from 67.3 ± 8.2 hours to 3.3 ± 0.2 hours for relative humidity levels of 50 and 80%, respectively. While a similar effect was not observed for SARS-CoV-2 in the present study, it is possible that the shorter test durations used in the present study precluded detection of this effect of relative humidity. It is possible that additional tests of longer duration without simulated sunlight would allow a better assessment of the effect of relative humidity on SARS-CoV-2 in aerosols, but the results of the present study suggest that any such effect would be relatively minor in comparison to the effect of sunlight.
 
-  / June, 2020 - The Journal of Infectious Diseases
-  let !g self assert = Relative humidity alone did not significantly affect decay of the virus, although there were interactions identified between relative humidity and the other factors. However, the magnitude of these interactions was minor compared to the magnitude of the effect of simulated sunlight. The half-lives estimated from the mean decay constants across all relative humidity levels without simulated sunlight present were 55 and 86 minutes for aerosols generated from virus suspended inculture medium and simulated saliva, respectively.
-
-  / June, 2020 - The Journal of Infectious Diseases
-  let !h self assert = The half-life from the present study for culture medium is similar to the value of 1.1 hours reported recently for SARS-CoV-2 in darkness and 65% relative humidity. The prolonged persistence of SARS-CoV-2 under conditions representative of indoor environments highlights the need for additional studies to better understand the potential sources of aerosols and viral load present in these settings.
-
-  / June, 2020 - The Journal of Infectious Diseases
-  let !i self assert = It has been previously reported that other coronaviruses were significantly less stable at higher relative humidities, with the half-life for human coronavirus 229E decreasing from 67.3 ± 8.2 hours to 3.3 ± 0.2 hours for relative humidity levels of 50 and 80%, respectively. While a similar effect was not observed for SARS-CoV-2 in the present study, it is possible that the shorter test durations used in the present study precluded detection of this effect of relative humidity. It is possible that additional tests of longer duration without simulated sunlight would allow a better assessment of the effect of relative humidity on SARS-CoV-2 in aerosols, but the results of the present study suggest that any such effect would be relatively minor in comparison to the effect of sunlight.
-
-  / June, 2020 - The Journal of Infectious Diseases
-  let !j self assert = It was necessary to concentrate the viral stock used in the present study to ensure that quantifiable concentrations of virus were present in aerosols. However, the addition of the concentrated viral stock to the simulated saliva significantly altered the properties of the simulated saliva, specifically the fractional solids and protein content. Thus, while a small difference in decay was observed between the simulated saliva and culture medium in the presence of simulated sunlight, it is possible that the viral suspension diluted in simulated saliva is not representative of the composition of expelled particles in infected individuals.
+  # / June, 2020 - The Journal of Infectious Diseases
+  # let !j self assert = It was necessary to concentrate the viral stock used in the present study to ensure that quantifiable concentrations of virus were present in aerosols. However, the addition of the concentrated viral stock to the simulated saliva significantly altered the properties of the simulated saliva, specifically the fractional solids and protein content. Thus, while a small difference in decay was observed between the simulated saliva and culture medium in the presence of simulated sunlight, it is possible that the viral suspension diluted in simulated saliva is not representative of the composition of expelled particles in infected individuals.
 
 
 
@@ -3163,7 +3007,7 @@ ref 'Sharma_et_al_07_08_2020
   // Lifting the Lid on Toilet Plume Aerosol: A Literature Review With Suggestions for Future Research
   doi: https://doi.org/10.1016/j.ajic.2012.04.330
   ref 'Johnson_et_al_10_08_2012
-  head = Contaminated toilets have been clearly shown to produce large droplet and droplet nuclei bioaerosols during flushing, and research suggests that this toilet plume could play an important role in the transmission of infectious diseases for which the pathogen is shed in feces or vomit. The possible role of toilet plume in airborne transmission of norovirus, SARS, and pandemic influenza is of particular interest. Additional research is needed to assess the exposure risk posed by toilet flush bioaerosols in health care facilities.
+  head = Contaminated toilets have been clearly shown to produce large droplet and droplet nuclei bioaerosols during flushing, and research suggests that this toilet plume could play an important role in the transmission of infectious diseases for which the pathogen is shed in feces or vomit. The possible role of toilet plume in airborne transmission of norovirus, SARS, and pandemic influenza is of particular interest.
 
   >>> Background
     The potential risks associated with “toilet plume” aerosols produced by flush toilets is a subject of continuing study. This review examines the evidence regarding toilet plume bioaerosol generation and infectious disease transmission.
@@ -3180,7 +3024,6 @@ ref 'Sharma_et_al_07_08_2020
   -- exports
     !a
     !b
-    !c
     !d
 
   / October, 2012 - Am J Infect Control.
@@ -3189,18 +3032,22 @@ ref 'Sharma_et_al_07_08_2020
   / October, 2012 - Am J Infect Control.
   let !b self assert = It may be concluded from the above that flush toilets produce substantial quantities of toilet plume aerosol capable of entraining microorganisms at least as large as bacteria, that sufficiently small microbe-laden droplets will evaporate to form droplet nuclei bioaerosols small enough to be inhaled deep into the lung, and that these bioaerosols may remain viable in the air for extended periods and travel with air currents. Production of these bioaerosols during multiple flushes after contamination suggests a long-term potential for a contaminated toilet to be an infectious bioaerosol generator.
 
-  / October, 2012 - Am J Infect Control.
-  let !c self assert = A report on the 2003 SARS outbreak in Hong Kongs Amoy Gardens apartment complex concluded that exposure and disease propagation was likely due to virus-laden aerosols originating in the sanitary system. The system was contaminated with SARS CoV when the index patient, who was suffering from diarrhea, visited one of the apartments and used the toilet. Sewer drain bioaerosol was believed to be drawn through dry floor drain U-tube traps into the bathrooms of other apartments by bathroom exhaust fans, and some may have then been exhausted to the outside of the multistory building and carried upward to other apartments. Prevailing winds were thought to be responsible for carrying the infectious aerosol to nearby buildings where cases also occurred.
+  # / October, 2012 - Am J Infect Control.
+  # let !c self assert = A report on the 2003 SARS outbreak in Hong Kongs Amoy Gardens apartment complex concluded that exposure and disease propagation was likely due to virus-laden aerosols originating in the sanitary system.
+
+  # / October, 2012 - Am J Infect Control.
+  # let !c self assert = The system was contaminated with SARS CoV when the index patient, who was suffering from diarrhea, visited one of the apartments and used the toilet. Sewer drain bioaerosol was believed to be drawn through dry floor drain U-tube traps into the bathrooms of other apartments by bathroom exhaust fans, and some may have then been exhausted to the outside of the multistory building and carried upward to other apartments. Prevailing winds were thought to be responsible for carrying the infectious aerosol to nearby buildings where cases also occurred.
 
   / October, 2012 - Am J Infect Control.
-  let !d self assert = Studies suggest that SARS CoV droplet nuclei bioaerosols produced from contaminated sewage may have been highly infectious for significant periods and over long distances. Because the infectious waste, whether feces or vomit, is most concentrated in the toilet bowl and substantial quantities of aerosol are known to be produced during flushing, it might reasonably be expected that infectious SARS CoV droplet nuclei bioaerosol would also be produced during toilet flushing. To date, however, this has not been either experimentally or epidemiologically demonstrated.
+  let !d self assert = Studies suggest that SARS CoV droplet nuclei bioaerosols produced from contaminated sewage may have been highly infectious for significant periods and over long distances. To date, however, this has not been either experimentally or epidemiologically demonstrated.
+
 
 
   # transmission via toilet flushing of aerosols
   // Viral Contamination of Aerosol and Surfaces Through Toilet Use in Health Care and Other Settings
   doi: https://doi.org/10.1016/j.ajic.2014.03.026
   ref 'xyz_et_al_05_09_2014
-  head = The data collected in our study confirm that toilets are an important source of viral contamination, mainly in health care settings, where disinfection can have a crucial role in preventing virus spread. A very important source of contamination from toilets seems to be droplets coming from toilet flush and settling on surfaces, as demonstrated by the high correspondence between the HAdV strains found in water and on surfaces. Nevertheless, another important mechanism of diffusion is hands, which cause the high amount of contamination observed for door handles and flushing buttons, confirming the importance of handwashing and disinfection for infection control.
+  head = Our study confirms that toilets are an important source of viral contamination. A very important source of contamination from toilets seems to be droplets coming from toilet flush and settling on surfaces, as demonstrated by the high correspondence between the HAdV strains found in water and on surfaces. Another important mechanism of diffusion is hands, which cause the high amount of contamination observed for door handles and flushing buttons, confirming the importance of handwashing and disinfection for infection control.
 
   >>> Background
     The airborne spreading of enteric viruses can occur through the aerosol and droplets produced by toilet flushing. These can contaminate the surrounding environment, but few data exist to estimate the risk of exposure and infection. For this reason environmental monitoring of air and selected surfaces was carried out in 2 toilets of an office building and in 3 toilets of a hospital before and after cleaning operations.
@@ -3217,66 +3064,53 @@ ref 'Sharma_et_al_07_08_2020
 
 
   -- exports
-    !a
-    !b
-    !c
-    !d
-    !e
-    !f
     !g
-    !h
-    !i
-    !j
-    !k
-    !l
-    !m
     !n
-    !o
 
-  / May, 2020 - Am J Infect Control.
-  let !a self assert = Viruses were detected on 135 surfaces (78% of the total tested), in 35 aerosol samples (81%), and in 17 water samples (89%). Among the researched viruses only HAdV, TTV, and NoV GII were revealed. In particular HAdV was found on 121 surfaces (70%) and in 31 air samples (72%); TTV was detected on 54 surfaces (31%) and in 7 air samples (16%). Both viruses were detected on 24% of the surface samples and in 7% the of air samples. NoV GII was detected on only 1 hospital surface sample.
+  # / May, 2020 - Am J Infect Control.
+  # let !a self assert = Viruses were detected on 135 surfaces (78% of the total tested), in 35 aerosol samples (81%), and in 17 water samples (89%). Among the researched viruses only HAdV, TTV, and NoV GII were revealed. In particular HAdV was found on 121 surfaces (70%) and in 31 air samples (72%); TTV was detected on 54 surfaces (31%) and in 7 air samples (16%). Both viruses were detected on 24% of the surface samples and in 7% the of air samples. NoV GII was detected on only 1 hospital surface sample.
 
-  / May, 2020 - Am J Infect Control.
-  let !b self assert = The surface total positivity was 82% in the hospital and 71% in offices; aerosol sample viral presence was 85% and 75% in hospital and office samples, respectively, without significant differences between samples for each matrix.
+  # / May, 2020 - Am J Infect Control.
+  # let !b self assert = The surface total positivity was 82% in the hospital and 71% in offices; aerosol sample viral presence was 85% and 75% in hospital and office samples, respectively, without significant differences between samples for each matrix.
 
-  / May, 2020 - Am J Infect Control.
-  let !c self assert = Regarding aerosol contamination, 21 samples (77%) from the hospital setting were positive for HAdV only, 4 samples (15%) were positive for TTV only, and 2 samples (7%) were positive for both virus types. For the office samples the frequencies were: 10 samples (62%) positive for HAdV only, 3 samples (18%) positive for TTV only, and 1 (6%) sample tested positive for both. The only significant difference between hospital and offices settings was the total percentage of samples exhibiting HAdV contamination, which was higher in hospital samples
+  # / May, 2020 - Am J Infect Control.
+  # let !c self assert = Regarding aerosol contamination, 21 samples (77%) from the hospital setting were positive for HAdV only, 4 samples (15%) were positive for TTV only, and 2 samples (7%) were positive for both virus types. For the office samples the frequencies were: 10 samples (62%) positive for HAdV only, 3 samples (18%) positive for TTV only, and 1 (6%) sample tested positive for both. The only significant difference between hospital and offices settings was the total percentage of samples exhibiting HAdV contamination, which was higher in hospital samples
 
-  / May, 2020 - Am J Infect Control.
-  let !d self assert = A significant difference was found also between the frequencies of air samples positive for TVBC over the limits allowed for low contamination areas according French normative recommendations. No differences were found between HAdV positivity in water samples from hospital and office settings.
+  # / May, 2020 - Am J Infect Control.
+  # let !d self assert = A significant difference was found also between the frequencies of air samples positive for TVBC over the limits allowed for low contamination areas according French normative recommendations. No differences were found between HAdV positivity in water samples from hospital and office settings.
 
-  / May, 2020 - Am J Infect Control.
-  let !e self assert = The most contaminated surfaces were door handles (66%) followed by flushing buttons (62%), toilet seats (59%), and toilet covers (52%). Nevertheless, no significant differences were found among these areas for HAdV and TTV positivity.
+  # / May, 2020 - Am J Infect Control.
+  # let !e self assert = The most contaminated surfaces were door handles (66%) followed by flushing buttons (62%), toilet seats (59%), and toilet covers (52%). Nevertheless, no significant differences were found among these areas for HAdV and TTV positivity.
 
-  / May, 2020 - Am J Infect Control.
-  let !f self assert = Thirty-two office samples and 48 hospital samples were obtained both before and after cleaning. The frequency of TTV positivity on surfaces decreased after cleaning, both in offices and the hospital, although the difference was not always statistically significant. We found neither setting had samples over the limits set for detection after disinfection. For TVBC at both sites, no samples over limits were detected after disinfection. Surprisingly, the frequency of HAdV positivity increased on surfaces after cleaning, although not significantly
+  # / May, 2020 - Am J Infect Control.
+  # let !f self assert = Thirty-two office samples and 48 hospital samples were obtained both before and after cleaning. The frequency of TTV positivity on surfaces decreased after cleaning, both in offices and the hospital, although the difference was not always statistically significant. We found neither setting had samples over the limits set for detection after disinfection. For TVBC at both sites, no samples over limits were detected after disinfection. Surprisingly, the frequency of HAdV positivity increased on surfaces after cleaning, although not significantly.
 
   / May, 2020 - Am J Infect Control.
   let !g self assert = In several cases the same adenovirus strain was concurrently found in all matrices. Bacterial counts were unrelated to viral presence and cleaning did not seem to substantially reduce contamination.
 
-  / May, 2020 - Am J Infect Control.
-  let !h self assert = HAdV titers and relations with TVBC: HAdV titers in offices were 3.9 × 104 ± 1,921 genome copies (GC)/m3 in air, 91 ± 31 GC/cm2 on surfaces, and 1.2 × 107 ± 5 GC/mL in water. In the hospital, the corresponding titers were 5.8 × 106 ± 5,712 GC/m3, 483 ± 53 GC/cm2, and 6.6 × 107 ± 668 GC/mL, all significantly (P < .01) higher than in offices. Such values were not related to the corresponding TVBC values in offices (147 ± 251 CFU/m3 in air and 1.44 ± 5 CFU/cm2 on surfaces) or in the hospital (293 ± 209 CFU/m3 in air and 1 ± 5 CFU/cm2 on surfaces).
+  # / May, 2020 - Am J Infect Control.
+  # let !h self assert = HAdV titers and relations with TVBC: HAdV titers in offices were 3.9 × 104 ± 1,921 genome copies (GC)/m3 in air, 91 ± 31 GC/cm2 on surfaces, and 1.2 × 107 ± 5 GC/mL in water. In the hospital, the corresponding titers were 5.8 × 106 ± 5,712 GC/m3, 483 ± 53 GC/cm2, and 6.6 × 107 ± 668 GC/mL, all significantly (P < .01) higher than in offices. Such values were not related to the corresponding TVBC values in offices (147 ± 251 CFU/m3 in air and 1.44 ± 5 CFU/cm2 on surfaces) or in the hospital (293 ± 209 CFU/m3 in air and 1 ± 5 CFU/cm2 on surfaces).
 
-  / May, 2020 - Am J Infect Control.
-  let !i self assert = The geometric means of viral titers on specific surfaces were not significantly different. Viral titers were 270 ± 40 GC/cm2 for the door, 144 ± 60 GC/cm2 for the flushing button, 222 ± 44 GC/cm2 for the toilet seat, and 312 ± 63 GC/cm2 for the toilet cover.
+  # / May, 2020 - Am J Infect Control.
+  # let !i self assert = The geometric means of viral titers on specific surfaces were not significantly different. Viral titers were 270 ± 40 GC/cm2 for the door, 144 ± 60 GC/cm2 for the flushing button, 222 ± 44 GC/cm2 for the toilet seat, and 312 ± 63 GC/cm2 for the toilet cover.
 
-  / May, 2020 - Am J Infect Control.
-  let !j self assert = No significant differences were found between HAdV titers before and after cleaning; however, in accordance with the frequency of positive data, the values seemed to increase following disinfection in hospital. On the contrary, the TVBC values were significantly reduced after cleaning.
+  # / May, 2020 - Am J Infect Control.
+  # let !j self assert = No significant differences were found between HAdV titers before and after cleaning; however, in accordance with the frequency of positive data, the values seemed to increase following disinfection in hospital. On the contrary, the TVBC values were significantly reduced after cleaning.
 
-  / May, 2020 - Am J Infect Control.
-  let !k self assert = Viral identification and HAdV infectivity: Viral presence was confirmed by sequencing the amplified nucleic acids, which also allowed identification of detected viruses. In offices where only HAdVs were detected, 18 different strains were found, belonging to 12 genotypes. Genotype 5 was found most often (detected in 17 samples), followed by the genotype 1 (detected in 7 samples). Eight strains were simultaneously detected in separate samples collected from the same toilet on the same sampling date; the frequency of this correspondence (number of sampling days with correspondence/total number of sampling days) between air and surfaces was 25% and between water and surfaces was 50%.
+  # / May, 2020 - Am J Infect Control.
+  # let !k self assert = Viral presence was confirmed by sequencing the amplified nucleic acids, which also allowed identification of detected viruses. In offices where only HAdVs were detected, 18 different strains were found, belonging to 12 genotypes. Genotype 5 was found most often (detected in 17 samples), followed by the genotype 1 (detected in 7 samples). Eight strains were simultaneously detected in separate samples collected from the same toilet on the same sampling date; the frequency of this correspondence (number of sampling days with correspondence/total number of sampling days) between air and surfaces was 25% and between water and surfaces was 50%.
 
-  / May, 2020 - Am J Infect Control.
-  let !l self assert = In the hospital, 20 different strains of HAdV, belonging to 12 genotypes and 14 strains of TTV, were found. Sixteen strains of HAdV and 1 strain of TTV were simultaneously detected in separate samples collected from the same toilet on the same sampling date. The frequency of correspondence (as previously defined) was 77% between water and surfaces, 44% between water and air, and 22% among the 3 matrices.
+  # / May, 2020 - Am J Infect Control.
+  # let !l self assert = In the hospital, 20 different strains of HAdV, belonging to 12 genotypes and 14 strains of TTV, were found. Sixteen strains of HAdV and 1 strain of TTV were simultaneously detected in separate samples collected from the same toilet on the same sampling date. The frequency of correspondence (as previously defined) was 77% between water and surfaces, 44% between water and air, and 22% among the 3 matrices.
 
-  / May, 2020 - Am J Infect Control.
-  let !m self assert = The other viruses we investigated were almost absent: only 1 sample was found to be positive for NoV GII and no NoV GI, EV, RV, or HRV were detected. A possible explanation of this observation can be the different epidemiologic diffusion of these agents.
+  # / May, 2020 - Am J Infect Control.
+  # let !m self assert = The other viruses we investigated were almost absent: only 1 sample was found to be positive for NoV GII and no NoV GI, EV, RV, or HRV were detected. A possible explanation of this observation can be the different epidemiologic diffusion of these agents.
 
   / May, 2020 - Am J Infect Control.
   let !n self assert = In some studies the PCR positivity of surface and air samples has been confirmed by cell culture but, here, none of the HAdV PCR-positive samples were confirmed as infective.
 
-  / May, 2020 - Am J Infect Control.
-  let !o self assert = When comparing the results of the virologic analysis of surfaces before and after disinfection, the HAdV positivity and titers seem to increase even if not significantly, whereas the values of TVBC decrease, mainly in the hospital. The reason for this contradiction seems to be the interference of dirtiness on PCR enzymes, as demonstrated by our experiments on artificially contaminated surfaces, as well as previous studies. We can conclude that molecular data on surfaces before disinfection are affected by underestimation due to interference by organic substances on PCR and data obtained after disinfection are affected by overestimation due to the detection of noninfective DNA. Thus, the validity of TVBC abatement for predicting virus removal should be assessed through further investigation.
+  # / May, 2020 - Am J Infect Control.
+  # let !o self assert = When comparing the results of the virologic analysis of surfaces before and after disinfection, the HAdV positivity and titers seem to increase even if not significantly, whereas the values of TVBC decrease, mainly in the hospital. The reason for this contradiction seems to be the interference of dirtiness on PCR enzymes, as demonstrated by our experiments on artificially contaminated surfaces, as well as previous studies. We can conclude that molecular data on surfaces before disinfection are affected by underestimation due to interference by organic substances on PCR and data obtained after disinfection are affected by overestimation due to the detection of noninfective DNA. Thus, the validity of TVBC abatement for predicting virus removal should be assessed through further investigation.
 
 
 
@@ -3284,7 +3118,7 @@ ref 'Sharma_et_al_07_08_2020
   // The Potential Spread of Infection Caused by Aerosol Contamination of Surfaces After Flushing a Domestic Toilet
   doi: https://doi.org/10.1111/j.1365-2672.2005.02610.x
   ref 'Barker_et_al_06_16_2005
-  head = In this investigation, we were able to show when simulating loose stool that material deposited both on the sidewalls and in the bowl water were involved in the dissemination of micro‐organisms into the air and onto surrounding surfaces. In addition, these studies suggested that splashing or aerosol generation during toilet flushing may spread virus particles onto contact surfaces such as the toilet seat or flush handle. Combined with our experimental data we believe that the potential spread of enteric disease by contact with surfaces in bathrooms harbouring pathogens cannot be ignored and must be regarded as a serious infection risk. Air‐borne contamination could help to explain the high level of secondary spread of norovirus, within closed communities.
+  head = In this investigation, we were able to show when simulating loose stool that material deposited both on the sidewalls and in the bowl water were involved in the dissemination of micro‐organisms into the air and onto surrounding surfaces. Sequential flushing resulted in further distribution of micro‐organisms into the air although the numbers declined after each flush. Serratia adhering to the sidewalls, as well as free‐floating organisms in the toilet water, were responsible for the formation of bacterial aerosols.
 
   >>> Aims
     To determine the level of aerosol formation and fallout within a toilet cubicle after flushing a toilet contaminated with indicator organisms at levels required to mimic pathogen shedding during infectious diarrhoea.
@@ -3296,50 +3130,43 @@ ref 'Sharma_et_al_07_08_2020
     Although a single flush reduced the level of micro‐organisms in the toilet bowl water when contaminated at concentrations reflecting pathogen shedding, large numbers of micro‐organisms persisted on the toilet bowl surface and in the bowl water which were disseminated into the air by further flushes.
 
   -- exports
-    !a
-    !b
-    !c
-    !d
-    !e
-    !f
-    !g
-    !h
-    !i
-    !j
     !k
 
-  / June, 2005 - J Appl Microbiology
-  let !a self assert = After seeding there was a high level of contamination on the porcelain surfaces both under the rim and on the sides of the bowl. After a single flush there was a reduction of 2·0–3·0 log cycles cm−2 for surface attached organisms. The number of micro‐organisms in the bowl water was reduced by 2·0–3·0 log cycles ml−1 after the first flush and following a second flush, a further reduction of c. 2·0 log cycles ml−1 was achieved.
+  # / June, 2005 - J Appl Microbiology
+  # let !a self assert = After seeding there was a high level of contamination on the porcelain surfaces both under the rim and on the sides of the bowl. After a single flush there was a reduction of 2·0–3·0 log cycles cm−2 for surface attached organisms. The number of micro‐organisms in the bowl water was reduced by 2·0–3·0 log cycles ml−1 after the first flush and following a second flush, a further reduction of c. 2·0 log cycles ml−1 was achieved.
+
+  # / June, 2005 - J Appl Microbiology
+  # let !b self assert = Micro‐organisms in the air were at the highest level immediately after the first flush (mean values, 1370 CFU m−3 for Serratia and 2420 PFU m−3 for MS2 page).
+
+  # / June, 2005 - J Appl Microbiology
+  # let !c self assert = Sequential flushing resulted in further distribution of micro‐organisms into the air although the numbers declined after each flush. Serratia adhering to the sidewalls, as well as free‐floating organisms in the toilet water, were responsible for the formation of bacterial aerosols.
+
+  # / June, 2005 - J Appl Microbiology
+  # let !d self assert = One minute after the first flush c. 1370 CFU m−3 of Serratia were detected but 30 and 60 min thereafter, the air count had declined by 20‐ and 100‐fold respectively. In contrast, when the toilet was flushed after first disinfecting and neutralizing the bowl water, the concentration in the air 1 min after flushing was c. 350 CFU m−3. These data demonstrates that both the bacteria attached to the sidewalls and those present in the bowl water contribute to the aerosol formation.
+
+  # / June, 2005 - J Appl Microbiology
+  # let !e self assert = MS2 bacteriophage was also released into air after toilet flushing with levels of contamination about twice that for bacteria, with 2240 PFU m−3 of virus particles detected in the air after the first flush. The air counts for both bacteria and viruses may have been considerably higher as a single‐sieve impactor is known to be inefficient at capturing small particle sizes. Darlow and Bale (1959) estimated that c. 80% of air‐borne particles released after flushing a toilet seeded with a liquid culture containing Serratia were probably <4 μ m. It is possible that our air sampling technique did not detect particles of <5 μ m which are likely to remain suspended in the air for several hours but could, nevertheless, eventually settle onto surfaces.
+
+  # / June, 2005 - J Appl Microbiology
+  # let !f self assert = Closing the toilet lid had little effect in reducing the number of bacteria released into the air which was c. 1000 CFU m−3 after the first flush. Although splashes would probably have been contained by closing the lid, there was a gap of 15 mm between the top of the porcelain rim and the seat, and also a gap between the seat and the lid of 12 mm which would allow aerosols to escape into the room
+
+  # / June, 2005 - J Appl Microbiology
+  # let !g self assert = Sequential flushing of the seeded toilet resulted in prolonged air‐borne transmission but with decreasing numbers of bacteria. Compared with the number of bacteria released into the air after the first flush, a second flush resulted in a threefold decrease and after the third flush the numbers had declined by almost 10‐fold. The decline in air‐borne bacteria correlated with the decreasing numbers present in the bowl water.
+
+  # / June, 2005 - J Appl Microbiology
+  # let !h self assert = The number of Serratia detected on the porcelain surfaces remained fairly constant after the initial flush showing that the organism had adhered to the surface. After applying the inoculum there was widespread contamination of the sidewalls; Serratia surface counts ranged from 104 to >105 CFU cm−2. Although flushing reduced the initial level of colonization by about 2 log cycles, c. 103 CFU cm−2 persisted on the surfaces despite repeated flushing. When the bowl water was disinfected and neutralized prior to flushing it did not alter the level of bacteria attached to the sidewalls. Thus the bacteria surviving on the sidewalls are unlikely to have been derived from the bowl water splashing back onto the walls as the toilet was flushed.
+
+  # / June, 2005 - J Appl Microbiology
+  # let !i self assert = We also found that the recess under the rim of the toilet was heavily colonized with the test organisms. In contrast, we found that after the initial seed inoculum was flushed from the sidewalls the numbers on the surface remained constant for several days of normal toilet use and thorough cleaning and disinfection using a toilet brush was required to remove the marker organisms to undetectable levels.
+
+  # / June, 2005 - J Appl Microbiology
+  # let !j self assert = Thirty minutes after flushing the toilet surface contamination was detected at various locations surrounding the toilet. The highest level of surface contamination was closet to the aerosol source, at the toilet seat level, however, the marker organisms were also found on the cistern and on a shelf, 41 and 83 cm above the toilet seat respectively. The particles captured by the settle plates were likely have been >20 μ m because these are known to settle within a relatively short period compared with smaller‐sized particles which can remain suspended for several hours.
 
   / June, 2005 - J Appl Microbiology
-  let !b self assert = Micro‐organisms in the air were at the highest level immediately after the first flush (mean values, 1370 CFU m−3 for Serratia and 2420 PFU m−3 for MS2 page).
+  let !k self assert = Our results support earlier studies that there is a risk that pathogens contaminating bathroom surfaces could spread to other family members. Organisms may be picked up by the clean hands of an uninfected person and cause infection, either by direct transfer from surface‐to‐hand‐to‐mouth, or transfer by handling ready‐to‐eat foods. Air‐borne contamination could help to explain the high level of secondary spread of norovirus, within closed communities.
 
-  / June, 2005 - J Appl Microbiology
-  let !c self assert = Sequential flushing resulted in further distribution of micro‐organisms into the air although the numbers declined after each flush. Serratia adhering to the sidewalls, as well as free‐floating organisms in the toilet water, were responsible for the formation of bacterial aerosols.
-
-  / June, 2005 - J Appl Microbiology
-  let !d self assert = One minute after the first flush c. 1370 CFU m−3 of Serratia were detected but 30 and 60 min thereafter, the air count had declined by 20‐ and 100‐fold respectively. In contrast, when the toilet was flushed after first disinfecting and neutralizing the bowl water, the concentration in the air 1 min after flushing was c. 350 CFU m−3. These data demonstrates that both the bacteria attached to the sidewalls and those present in the bowl water contribute to the aerosol formation.
-
-  / June, 2005 - J Appl Microbiology
-  let !e self assert = MS2 bacteriophage was also released into air after toilet flushing with levels of contamination about twice that for bacteria, with 2240 PFU m−3 of virus particles detected in the air after the first flush. The air counts for both bacteria and viruses may have been considerably higher as a single‐sieve impactor is known to be inefficient at capturing small particle sizes. Darlow and Bale (1959) estimated that c. 80% of air‐borne particles released after flushing a toilet seeded with a liquid culture containing Serratia were probably <4 μ m. It is possible that our air sampling technique did not detect particles of <5 μ m which are likely to remain suspended in the air for several hours but could, nevertheless, eventually settle onto surfaces.
-
-  / June, 2005 - J Appl Microbiology
-  let !f self assert = Closing the toilet lid had little effect in reducing the number of bacteria released into the air which was c. 1000 CFU m−3 after the first flush. Although splashes would probably have been contained by closing the lid, there was a gap of 15 mm between the top of the porcelain rim and the seat, and also a gap between the seat and the lid of 12 mm which would allow aerosols to escape into the room
-
-  / June, 2005 - J Appl Microbiology
-  let !g self assert = Sequential flushing of the seeded toilet resulted in prolonged air‐borne transmission but with decreasing numbers of bacteria. Compared with the number of bacteria released into the air after the first flush, a second flush resulted in a threefold decrease and after the third flush the numbers had declined by almost 10‐fold. The decline in air‐borne bacteria correlated with the decreasing numbers present in the bowl water.
-
-  / June, 2005 - J Appl Microbiology
-  let !h self assert = The number of Serratia detected on the porcelain surfaces remained fairly constant after the initial flush showing that the organism had adhered to the surface. After applying the inoculum there was widespread contamination of the sidewalls; Serratia surface counts ranged from 104 to >105 CFU cm−2. Although flushing reduced the initial level of colonization by about 2 log cycles, c. 103 CFU cm−2 persisted on the surfaces despite repeated flushing. When the bowl water was disinfected and neutralized prior to flushing it did not alter the level of bacteria attached to the sidewalls. Thus the bacteria surviving on the sidewalls are unlikely to have been derived from the bowl water splashing back onto the walls as the toilet was flushed.
-
-  / June, 2005 - J Appl Microbiology
-  let !i self assert = We also found that the recess under the rim of the toilet was heavily colonized with the test organisms. The rim is an area of the toilet where limescale often accumulates, which aids bacterial retention and it can be difficult to clean effectively even with a toilet cleaner and scrubbing brush. In contrast, we found that after the initial seed inoculum was flushed from the sidewalls the numbers on the surface remained constant for several days of normal toilet use and thorough cleaning and disinfection using a toilet brush was required to remove the marker organisms to undetectable levels.
-
-  / June, 2005 - J Appl Microbiology
-  let !j self assert = Thirty minutes after flushing the toilet surface contamination was detected at various locations surrounding the toilet.The highest level of surface contamination was closet to the aerosol source, at the toilet seat level, however, the marker organisms were also found on the cistern and on a shelf, 41 and 83 cm above the toilet seat respectively. The particles captured by the settle plates were likely have been >20 μ m because these are known to settle within a relatively short period compared with smaller‐sized particles which can remain suspended for several hours.
-
-  / June, 2005 - J Appl Microbiology
-  let !k self assert = Our results support earlier studies that there is a risk that pathogens contaminating bathroom surfaces could spread to other family members. Organisms may be picked up by the clean hands of an uninfected person and cause infection, either by direct transfer from surface‐to‐hand‐to‐mouth, or transfer by handling ready‐to‐eat foods. The number of bacteria/viruses found in the toilet or on surrounding surfaces must be compared with the infectious dose. Although bacteria may multiply if they contaminate food and reach levels required for infection, clearly this does not happen with viruses. Nevertheless, many faecal–oral pathogens such as norovirus, rotavirus, Campylobacter and E. coli 0157 have infective doses as low as 10–100 micro‐organisms and we speculate that surface‐to‐hand‐to‐mouth transfer could occur with the levels of contamination that we found on the surfaces surrounding the toilet.
+  # / June, 2005 - J Appl Microbiology
+  # let !k self assert = The number of bacteria/viruses found in the toilet or on surrounding surfaces must be compared with the infectious dose. Nevertheless, many faecal–oral pathogens such as norovirus, rotavirus, Campylobacter and E. coli 0157 have infective doses as low as 10–100 micro‐organisms and we speculate that surface‐to‐hand‐to‐mouth transfer could occur with the levels of contamination that we found on the surfaces surrounding the toilet.
 
 
 
@@ -3347,7 +3174,7 @@ ref 'Sharma_et_al_07_08_2020
   // Potential for Aerosolization of Clostridium Difficile After Flushing Toilets: The Role of Toilet Lids in Reducing Environmental Contamination Risk
   doi: https://doi.org/10.1016/j.jhin.2011.08.010
   ref 'Best_et_al_12_05_2011
-  head = Our results demonstrate that if lids are fitted to current models they will very likely become contaminated upon flushing. It is already known that C. difficile may spread markedly in hospitals. Lidless conventional toilets increase the risk of C. difficile environmental contamination, and thus we suggest that their use is discouraged, particularly in settings where CDI is common.
+  head = Our data suggest that lidless conventional toilets increase the risk of Clostridium difficile aerosolization and surrounding environmental contamination and thus transmission of bacteria. Our results also demonstrate that if lids are fitted to current models they will very likely become contaminated upon flushing. It also highlights the imperative for hand washing after toilet use, and frequent cleaning to remove contamination.
 
   >>> Background
     Toilet facilities in healthcare settings vary widely, but patient toilets are commonly shared and do not have lids. When a toilet is flushed without the lid closed, aerosol production may lead to surface contamination within the toilet environment.
@@ -3365,145 +3192,107 @@ ref 'Sharma_et_al_07_08_2020
     Lidless conventional toilets increase the risk of C. difficile environmental contamination, and we suggest that their use is discouraged, particularly in settings where CDI is common.
 
   -- exports
-    !a
-    !b
-    !c
-    !d
-    !e
-    !f
-    !g
     !h
-    !i
+
+
+  # / December, 2011 - The Journal of Hospital Infection
+  # let !a self assert = The highest levels of C. difficile were recovered immediately following flushing, and then declined 8-fold after 60 min and a further 3-fold after 90 min.
+
+  # / December, 2011 - The Journal of Hospital Infection
+  # let !b self assert = The highest bacterial counts were detected from air sampled at the height of the toilet seat; however, it was still possible to recover C. difficile at heights of 10 cm and 25 cm above the toilet seat, demonstrating that water turbulence created during flushing can force droplets out of the toilet bowl and into the air.
+
+  # / December, 2011 - The Journal of Hospital Infection
+  # let !c self assert = Closing the toilet seat lid markedly reduced the number of C. difficile recovered from air after flushing; there was a 10-fold reduction in recovered bacteria from air sampled at seat level. Low numbers of C. difficile were still recovered following flushing with the lid closed, suggesting that organisms were still aerosolized, most likely being forced out through gaps between the top of the toilet bowl and seat, and between the lid and the seat (15 and 10 mm, respectively).
+
+  # / December, 2011 - The Journal of Hospital Infection
+  # let !d self assert = C. difficile was recovered on settle plates placed on the floor, cistern and toilet seat during the 90 min after flushing, demonstrating that relatively large droplets are released and that these then contaminate the immediate environment.
+
+  # / December, 2011 - The Journal of Hospital Infection
+  # let !e self assert = The mean numbers of droplets emitted upon flushing by the lidless toilets in clinical areas were 15–47, depending on design. C. difficile aerosolization and surrounding environmental contamination occur when a lidless toilet is flushed.
+
+  # / December, 2011 - The Journal of Hospital Infection
+  # let !f self assert = Closing the toilet seat lid was shown to prevent such large droplet aerosolization, as C. difficile was not recovered on any settle plates under such conditions.
+
+  # / December, 2011 - The Journal of Hospital Infection
+  # let !g self assert = We have recently demonstrated that C. difficile aerosolization occurs commonly in patients with CDI, especially early in disease. We found that C. difficile spore-bearing particles fall ∼1 m in 15 min. This suggests that the majority of the C. difficile recovered on the settle plates in the present study was due to relatively quick deposition of C. difficile spores following flushing. Thus, surfaces can become rapidly seeded with C. difficile after toilet flushing (without a closed lid). Importantly, the resilient nature of spores means that only very frequent cleaning could be expected to remove such environmental contamination, especially in the context of repeated toilet use.
+
+  # / December, 2011 - The Journal of Hospital Infection
+  # let !h self assert = Shared toilets are commonplace within a hospital environment and our data suggest that lidless toilets could be a vehicle for C. difficile contamination and thus transmission of bacteria.
 
   / December, 2011 - The Journal of Hospital Infection
-  let !a self assert = We simulated an episode of C. difficile diarrhoea when there is likely to be heavy contamination of both the internal toilet bowl and water. We used an inoculum of C. difficile spores representative of the average bacterial load present in CDI. The highest levels of C. difficile were recovered immediately following flushing, and then declined 8-fold after 60 min and a further 3-fold after 90 min.
+  let !h self assert = Although patients with known CDI should use either a dedicated toilet or commode, this may not happen early in the course of symptoms, and because patients may prefer to use shared toilets in preference to a commode. Other patients may also excrete high numbers of C. difficile (asymptomatic carriers, especially those with diarrhoea due to other causes) and may be an inadvertent source of toilet environment contamination. We speculate that such contamination could permit transmission of C. difficile from asymptomatic carriers, and thus explain some CDI cases where no apparent linked CDI cases are found.
 
-  / December, 2011 - The Journal of Hospital Infection
-  let !b self assert = The highest bacterial counts were detected from air sampled at the height of the toilet seat; however, it was still possible to recover C. difficile at heights of 10 cm and 25 cm above the toilet seat, demonstrating that water turbulence created during flushing can force droplets out of the toilet bowl and into the air.
-
-  / December, 2011 - The Journal of Hospital Infection
-  let !c self assert = Closing the toilet seat lid markedly reduced the number of C. difficile recovered from air after flushing; there was a 10-fold reduction in recovered bacteria from air sampled at seat level. Low numbers of C. difficile were still recovered following flushing with the lid closed, suggesting that organisms were still aerosolized, most likely being forced out through gaps between the top of the toilet bowl and seat, and between the lid and the seat (15 and 10 mm, respectively).
-
-  / December, 2011 - The Journal of Hospital Infection
-  let !d self assert = C. difficile was recovered on settle plates placed on the floor, cistern and toilet seat during the 90 min after flushing, demonstrating that relatively large droplets are released and that these then contaminate the immediate environment.
-
-  / December, 2011 - The Journal of Hospital Infection
-  let !e self assert = The mean numbers of droplets emitted upon flushing by the lidless toilets in clinical areas were 15–47, depending on design. C. difficile aerosolization and surrounding environmental contamination occur when a lidless toilet is flushed.
-
-  / December, 2011 - The Journal of Hospital Infection
-  let !f self assert = Closing the toilet seat lid was shown to prevent such large droplet aerosolization, as C. difficile was not recovered on any settle plates under such conditions.
-
-  / December, 2011 - The Journal of Hospital Infection
-  let !g self assert = We have recently demonstrated that C. difficile aerosolization occurs commonly in patients with CDI, especially early in disease. We found that C. difficile spore-bearing particles fall ∼1 m in 15 min. This suggests that the majority of the C. difficile recovered on the settle plates in the present study was due to relatively quick deposition of C. difficile spores following flushing. Thus, surfaces can become rapidly seeded with C. difficile after toilet flushing (without a closed lid). Importantly, the resilient nature of spores means that only very frequent cleaning could be expected to remove such environmental contamination, especially in the context of repeated toilet use.
-
-  / December, 2011 - The Journal of Hospital Infection
-  let !h self assert = Shared toilets are commonplace within a hospital environment and our data suggest that lidless toilets could be a vehicle for C. difficile contamination and thus transmission of bacteria. Although patients with known CDI should use either a dedicated toilet or commode, this may not happen early in the course of symptoms, and because patients may prefer to use shared toilets in preference to a commode. Other patients may also excrete high numbers of C. difficile (asymptomatic carriers, especially those with diarrhoea due to other causes) and may be an inadvertent source of toilet environment contamination. We speculate that such contamination could permit transmission of C. difficile from asymptomatic carriers, and thus explain some CDI cases where no apparent linked CDI cases are found.
-
-  / December, 2011 - The Journal of Hospital Infection
-  let !i self assert = The scope for environmental seeding associated with toilet flushing highlights the imperative for hand washing after toilet use, and frequent cleaning to remove contamination. Toilets with improved design that do not create aerosols are desirable
-
+  # / December, 2011 - The Journal of Hospital Infection
+  # let !i self assert = The scope for environmental seeding associated with toilet flushing highlights the imperative for hand washing after toilet use, and frequent cleaning to remove contamination.
 
 
   # transmission via toilet flushing of aerosols, airborne transmission
   // Emission strength of airborne pathogens during toilet flushing
   doi: https://doi.org/10.1111/ina.12406
   ref 'Lai_et_al_07_06_2017
-  head = This paper highlights the need for greater concern over the transmission via toilet flushing of aerosols containing pathogenic organisms, which poses particular for the immunocompromised, children and the elderly. First, atomization energy notably influenced droplet and bacterial emission. Second, the total droplet concentration under HP was approximately 21 times that at HT. Third, in the HP, LP and HT conditions, (1) droplet concentration and pathogen emission were positively correlated, and (2) pathogen emission and bacterial size were negatively correlated. Finally, in all flushing conditions the emission strength of S. epidermidis was greatest, followed by E. coli and then P. alcaligenes. Finally, our findings also imply that a cistern tank design is preferable to a flushometer design with respect to aerosol generation.
+  head = Flushing was activated by a flushometer operated at two pressure levels, 400 kP a (high pressure [HP ]) and 200 kP a (low pressure [LP ]), and by a water cistern tank placed 95 cm (high tank [HT ]) and 46 cm (low tank [LT ]) above the toilet seat. The emission strength in the HP condition was statistically greater than that in the LP condition, whereas the cistern tank system produced less emissions than the flushometer system, and tank height was not found to be a sensitive parameter. Finally, our findings also imply that a cistern tank design is preferable to a flushometer design with respect to aerosol generation.
 
   >>> Abstract
     The flushing of toilets generates contaminated aerosols, the transmission of which may cause the spread of disease, particularly in the immunocompromised or the elderly. This study investigated the emission strength of three types of airborne bacteria, namely Staphylococcus epidermidis , Escherichia coli, and Pseudomonas alcaligenes , during toilet flushing in a custom‐built toilet under a controlled environment. Flushing was activated by a flushometer operated at two pressure levels, 400 kP a (high pressure [HP ]) and 200 kP a (low pressure [LP ]), and by a water cistern tank placed 95 cm (high tank [HT ]) and 46 cm (low tank [LT ]) above the toilet seat. The pathogens emitted by the first flush were calculated, with the correlations between airborne pathogen emissions and droplet concentration (HP , r =0.944, P <.001; LP , r =0.803, P <.001, HT , r =0.885, P <.05) and bacterial size (HP , r =−0.919, P <.001; LP , r =−0.936, P <.001; HT , r =−0.967, P <.05) in the different conditions then tested. The emission strength in the HP condition was statistically greater than that in the LP condition, whereas the cistern tank system produced less emissions than the flushometer system, and tank height was not found to be a sensitive parameter.
 
-  -- exports
-    !a
-    !b
-    !c
-    !d
-    !e
-    !f
-    !g
-    !h
-    !i
-    !j
+  # -- exports
+  #   !a
+  #   !b
+  #   !c
+  #   !d
+  #   !e
+  #   !f
+  #   !g
+  #   !h
+  #   !i
+  #   !j
 
-  / July, 2017 - Indoor Air
-  let !a self assert = Flushing was activated by a flushometer operated at two pressure levels, 400 kP a (high pressure [HP ]) and 200 kP a (low pressure [LP ]), and by a water cistern tank placed 95 cm (high tank [HT ]) and 46 cm (low tank [LT ]) above the toilet seat. The pathogens emitted by the first flush were calculated, with the correlations between airborne pathogen emissions and droplet concentration (HP , r =0.944, P <.001; LP , r =0.803, P <.001, HT , r =0.885, P <.05) and bacterial size (HP , r =−0.919, P <.001; LP , r =−0.936, P <.001; HT , r =−0.967, P <.05) in the different conditions then tested.
+  # / July, 2017 - Indoor Air
+  # let !a self assert = Flushing was activated by a flushometer operated at two pressure levels, 400 kP a (high pressure [HP ]) and 200 kP a (low pressure [LP ]), and by a water cistern tank placed 95 cm (high tank [HT ]) and 46 cm (low tank [LT ]) above the toilet seat. The pathogens emitted by the first flush were calculated, with the correlations between airborne pathogen emissions and droplet concentration (HP , r =0.944, P <.001; LP , r =0.803, P <.001, HT , r =0.885, P <.05) and bacterial size (HP , r =−0.919, P <.001; LP , r =−0.936, P <.001; HT , r =−0.967, P <.05) in the different conditions then tested.
 
-  / July, 2017 - Indoor Air
-  let !b self assert = The emission strength in the HP condition was statistically greater than that in the LP condition, whereas the cistern tank system produced less emissions than the flushometer system, and tank height was not found to be a sensitive parameter.
+  # / July, 2017 - Indoor Air
+  # let !b self assert = The emission strength in the HP condition was statistically greater than that in the LP condition, whereas the cistern tank system produced less emissions than the flushometer system, and tank height was not found to be a sensitive parameter.
 
-  / July, 2017 - Indoor Air
-  let !c self assert = Aerosol droplet concentrations and emission strength: Two salient points can be observed. First, the flushometer system produced a significantly higher droplet concentration than the tank system regardless of the water pressure or tank height. Second, emission was detected immediately after flushing was activated, and it took less than 15 seconds for the droplet concentration to increase to peak level.
+  # / July, 2017 - Indoor Air
+  # let !c self assert = Two salient points can be observed. First, the flushometer system produced a significantly higher droplet concentration than the tank system regardless of the water pressure or tank height. Second, emission was detected immediately after flushing was activated, and it took less than 15 seconds for the droplet concentration to increase to peak level.
 
-  / July, 2017 - Indoor Air
-  let !d self assert = The water pressure for the cistern tank was 4.9 and 9.8 kPa for the LT and HT conditions, respectively, whereas that for the flushometer was 200 and 400 kPa. Hence, the pressure produced by the cistern tank was, at most, 5% (9.8/200) of that produced by the flushometer, which suggests that cistern systems create much less energy for the atomization of droplets, and thus generate significantly fewer droplets.
+  # / July, 2017 - Indoor Air
+  # let !d self assert = The water pressure for the cistern tank was 4.9 and 9.8 kPa for the LT and HT conditions, respectively, whereas that for the flushometer was 200 and 400 kPa. Hence, the pressure produced by the cistern tank was, at most, 5% (9.8/200) of that produced by the flushometer, which suggests that cistern systems create much less energy for the atomization of droplets, and thus generate significantly fewer droplets.
 
-  / July, 2017 - Indoor Air
-  let !e self assert = It can be seen that the total emission strength in the HP condition was approximately 3.6, 21.0, and 19.8 times greater than that in the LP, HT, and LT conditions, respectively. These results are comparable to those published by Johnston et al.,14 who found the highest number of droplets, that is, 145 000, to be yielded by a flushometer operating at >350 kPa among the four flushing mechanisms they tested. However, that droplet number is only approximately half that found in the present study. The discrepancy may be attributable to their neglect of droplet loss inside the bowl. Their working pressure was also less than 400 kPa, and the different particle counters used in the two studies may also have affected the concentration results. Nonetheless, the two measurements are in fairly good agreement.
+  # / July, 2017 - Indoor Air
+  # let !e self assert = It can be seen that the total emission strength in the HP condition was approximately 3.6, 21.0, and 19.8 times greater than that in the LP, HT, and LT conditions, respectively. These results are comparable to those published by Johnston et al.,14 who found the highest number of droplets, that is, 145 000, to be yielded by a flushometer operating at >350 kPa among the four flushing mechanisms they tested. However, that droplet number is only approximately half that found in the present study. The discrepancy may be attributable to their neglect of droplet loss inside the bowl. Their working pressure was also less than 400 kPa, and the different particle counters used in the two studies may also have affected the concentration results. Nonetheless, the two measurements are in fairly good agreement.
 
-  / July, 2017 - Indoor Air
-  let !f self assert = Size‐resolved aerosol concentrations: The ratio of the average droplet emission strength was calculated. The HP to LP ratios for 0.3‐0.6 μm, 0.6‐10 μm, 1.5‐10 μm, and 2‐10 μm were 3.9, 2.3, 1.3, and 1.6, respectively, which are in line with the ratio of 3.6 for the total concentration. The magnitude of the ratios for the cistern tanks was very different. For droplet diameters in the range of 0.3‐0.6 μm, the HP/HT droplet emission ratio was 29.2 times, whereas that for those ranging from 0.6 to 10 μm, 1.5 to 10 μm, and 2 to 10 μm were 7.8, 10.2, and 6.8, respectively. Hence, compared with the flushometer, the droplet emission concentration produced by the cistern tank was only 3.4% for droplets sized ≤0.6 μm, whereas it ranged from 10% to 14% for droplets ≥1.5 μm. This finding has important implications, showing that an exposure risk still exists even for tank flushing (with a low degree of atomization energy) with a low level of total droplet emissions.
+  # / July, 2017 - Indoor Air
+  # let !f self assert = Size‐resolved aerosol concentrations: The ratio of the average droplet emission strength was calculated. The HP to LP ratios for 0.3‐0.6 μm, 0.6‐10 μm, 1.5‐10 μm, and 2‐10 μm were 3.9, 2.3, 1.3, and 1.6, respectively, which are in line with the ratio of 3.6 for the total concentration. The magnitude of the ratios for the cistern tanks was very different. For droplet diameters in the range of 0.3‐0.6 μm, the HP/HT droplet emission ratio was 29.2 times, whereas that for those ranging from 0.6 to 10 μm, 1.5 to 10 μm, and 2 to 10 μm were 7.8, 10.2, and 6.8, respectively. Hence, compared with the flushometer, the droplet emission concentration produced by the cistern tank was only 3.4% for droplets sized ≤0.6 μm, whereas it ranged from 10% to 14% for droplets ≥1.5 μm. This finding has important implications, showing that an exposure risk still exists even for tank flushing (with a low degree of atomization energy) with a low level of total droplet emissions.
 
-  / July, 2017 - Indoor Air
-  let !g self assert = Pathogen emission strength of first flush: The emission strength of S. epidermidis was statistically greater than that of E. coli and P. alcaligenes in the HP (P <.05) and LP (P <.05) conditions, respectively. For all three bacteria, the emission strength under HP was statistically greater than that under LP: S. epidermidis (P <.001), E. coli (P <.05), and P. alcaligenes (P <.001). The strengths recorded under HP were almost double those recorded under LP. For E. coli tested in the HT and LT scenarios, the respective CFU results were very low. As similarly low or even lower CFU results were anticipated for P. alcaligenes , only the HP and LP scenarios were tested.
+  # / July, 2017 - Indoor Air
+  # let !g self assert = Pathogen emission strength of first flush: The emission strength of S. epidermidis was statistically greater than that of E. coli and P. alcaligenes in the HP (P <.05) and LP (P <.05) conditions, respectively. For all three bacteria, the emission strength under HP was statistically greater than that under LP: S. epidermidis (P <.001), E. coli (P <.05), and P. alcaligenes (P <.001). The strengths recorded under HP were almost double those recorded under LP. For E. coli tested in the HT and LT scenarios, the respective CFU results were very low. As similarly low or even lower CFU results were anticipated for P. alcaligenes , only the HP and LP scenarios were tested.
+  #
+  # / July, 2017 - Indoor Air
+  # let !h self assert = It can be seen that there was a positive correlation between the droplet and pathogen concentrations in the HP, LP, and HT conditions, whereas a non‐intuitive result was obtained for LT, that is, the emission strength was higher than in the HT condition. The exact reason for this result is unclear, but may be attributable to the very low concentration of aerosols in the HT and LT conditions. The explanation is further clouded by the highly complex water flow (atomization process).
 
-  / July, 2017 - Indoor Air
-  let !h self assert = It can be seen that there was a positive correlation between the droplet and pathogen concentrations in the HP, LP, and HT conditions, whereas a non‐intuitive result was obtained for LT, that is, the emission strength was higher than in the HT condition. The exact reason for this result is unclear, but may be attributable to the very low concentration of aerosols in the HT and LT conditions. The explanation is further clouded by the highly complex water flow (atomization process).
+  # / July, 2017 - Indoor Air
+  # let !i self assert = It can be inferred from these results that low flushing pressure is better in practice than high pressure. However, additional factors such as refilling time and cleaning performance also need to be considered, and hence, the best level of in‐use flushing pressure for minimizing the generation of emissions cannot be determined solely on the basis of these results. In practice, an overly low pressure may be insufficient to remove the waste adhering to the bowl surface, which raises issues of hygiene.
 
-  / July, 2017 - Indoor Air
-  let !i self assert = It can be inferred from these results that low flushing pressure is better in practice than high pressure. However, additional factors such as refilling time and cleaning performance also need to be considered, and hence, the best level of in‐use flushing pressure for minimizing the generation of emissions cannot be determined solely on the basis of these results. In practice, an overly low pressure may be insufficient to remove the waste adhering to the bowl surface, which raises issues of hygiene.
-
-  / July, 2017 - Indoor Air
-  let !j self assert = This paper also highlights the need for greater concern over the transmission via toilet flushing of aerosols containing pathogenic organisms, which poses particular for the immunocompromised, children and the elderly. Finally, our findings also imply that a cistern tank design is preferable to a flushometer design with respect to aerosol generation.
+  # / July, 2017 - Indoor Air
+  # let !j self assert = This paper also highlights the need for greater concern over the transmission via toilet flushing of aerosols containing pathogenic organisms, which poses particular for the immunocompromised, children and the elderly. Finally, our findings also imply that a cistern tank design is preferable to a flushometer design with respect to aerosol generation.
 
 
 
   // Contributions of maternal and fetal antiviral immunity in congenital disease
   doi: https://doi.org/10.1126/science.aaz1960
   ref 'Yockey_et_al_05_08_2020
-  head =
+  head = In this review, we examine fetal and maternal immune defense mechanisms that mediate resistance against viral infections and discuss the range of syndromes that ensue when such mechanisms fail, from fetal developmental defects to establishment of chronic infection. Further, we highlight the role of maternal immune activation, or uncontrolled inflammation triggered by viral infections during pregnancy, and its potential downstream pathological effects, including tissue damage and fetal demise.
 
-  -- exports
-    !a
+  >>> Abstract
+    Viral infections during pregnancy can have devastating consequences on pregnancy outcomes, fetal development, and maternal health. In this review, we examine fetal and maternal immune defense mechanisms that mediate resistance against viral infections and discuss the range of syndromes that ensue when such mechanisms fail, from fetal developmental defects to establishment of chronic infection. Further, we highlight the role of maternal immune activation, or uncontrolled inflammation triggered by viral infections during pregnancy, and its potential downstream pathological effects, including tissue damage and fetal demise. Insights into the respective contributions of direct viral toxicity versus fetal and maternal immune responses that underlie the pathogenesis of congenital disease will guide future treatment strategies.
 
-  / May, 2020 - Science
-  let !a self assert =
+  # -- exports
+  #   !a
 
-  / May, 2020 - Science
-  let !a self assert =
+  # / May, 2020 - Science
+  # let !a self assert =
 
-  / May, 2020 - Science
-  let !a self assert =
-
-  / May, 2020 - Science
-  let !a self assert =
-
-  / May, 2020 - Science
-  let !a self assert =
-
-  / May, 2020 - Science
-  let !a self assert =
-
-  / May, 2020 - Science
-  let !a self assert =
-
-  / May, 2020 - Science
-  let !a self assert =
-
-
-  / May, 2020 - Science
-  let !a self assert =
-
-  / May, 2020 - Science
-  let !a self assert =
-
-  / May, 2020 - Science
-  let !a self assert =
-
-  / May, 2020 - Science
-  let !a self assert =
-
-  / May, 2020 - Science
-  let !a self assert =
 
 
 
@@ -3511,8 +3300,7 @@ ref 'Sharma_et_al_07_08_2020
   // Rapid Expert Consultation on SARS-CoV-2 Survival in Relation to Temperature and Humidity and Potential for Seasonality for the COVID-19 Pandemic (April 7, 2020)
   doi: https://doi.org/10.17226/25771
   ref 'Droegemeier_et_al_04_07_2020
-  head = The aim of this rapid expert consultation is to provide scientifically grounded principles that are relevant to decision making about the potential for seasonal variation of SARS-CoV-2.
-
+  head = The aim of this rapid expert consultation is to provide scientifically grounded principles concerning survival of the SARS-CoV2 virus in relation to temperature and humidity and potential for seasonal reduction and resurgence in cases.
 
   # / April, 2020 - National Academies of Sciences, Engineering, and Medicine
   # let !a self assert =
@@ -3523,21 +3311,19 @@ ref 'Sharma_et_al_07_08_2020
   // Stability of SARS-CoV-2 in different environmental conditions
   doi: https://doi.org/10.1016/S2666-5247(20)30003-3
   ref 'Chin_et_al_04_02_2020
-  head = We also found that SARS-CoV-2 is extremely stable in a wide range of pH values at room temperature (pH 3–10). SARS-CoV-2 can be highly stable in a favourable environment, but it is also susceptible to standard disinfection methods.
+  head = We found that SARS-CoV-2 is extremely stable in a wide range of pH values at room temperature (pH 3–10). SARS-CoV-2 can be highly stable in a favourable environment, but it is also susceptible to standard disinfection methods.
 
   -- exports
-    !a
     !b
     !c
     !d
-    !e
     !f
 
-  / April, 2020 - The Lancet Microbe
-  let !a self assert = With respect to temperature, using a starting suspension of 6.7 log TCID50/ml in virus transport medium, the virus is highly stable at 4°C, but sensitive to heat. At 4°C there was only a 0.7-log unit reduction at the end of 14 days of incubation in this medium; at 22°C, a 3-log unit reduction after 7 days, and no detection at 14 days; and at 37°C, a 3-log unit reduction after 1 day and no virus detected afterward. No virus was detected after 30 minutes at 56°C or after 5 minutes at 70°C.
+  # / April, 2020 - The Lancet Microbe
+  # let !a self assert = With respect to temperature, using a starting suspension of 6.7 log TCID50/ml in virus transport medium, the virus is highly stable at 4°C, but sensitive to heat. At 4°C there was only a 0.7-log unit reduction at the end of 14 days of incubation in this medium; at 22°C, a 3-log unit reduction after 7 days, and no detection at 14 days; and at 37°C, a 3-log unit reduction after 1 day and no virus detected afterward. No virus was detected after 30 minutes at 56°C or after 5 minutes at 70°C.
 
   / April, 2020 - The Lancet Microbe
-  let !b self assert = We further investigated the stability of this virus on different surfaces. Briefly, a 5 µL droplet of virus culture (~7·8 log unit of TCID50 per mL) was pipetted on a surface (appendix p 1; ~cm2 per piece) and left at room temperature (22°C) with a relative humidity of around 65%. The inoculated objects retrieved at desired time-points were immediately soaked with 200 µL of virus transport medium for 30 mins to elute the virus. Therefore, this recovery of virus does not necessarily reflect the potential to pick up the virus from casual contact. No infectious virus could be recovered from printing and tissue papers after a 3-hour incubation, whereas no infectious virus could be detected from treated wood and cloth on day 2.
+  let !b self assert = We further investigated the stability of this virus on different surfaces. Briefly, a 5 µL droplet of virus culture (~7·8 log unit of TCID50 per mL) was pipetted on a surface (appendix p 1; ~cm2 per piece) and left at room temperature (22°C) with a relative humidity of around 65%. No infectious virus could be recovered from printing and tissue papers after a 3-hour incubation, whereas no infectious virus could be detected from treated wood and cloth on day 2.
 
   / April, 2020 - The Lancet Microbe
   let !c self assert = By contrast, SARS-CoV-2 was more stable on smooth surfaces. No infectious virus could be detected from treated smooth surfaces on day 4 (glass and banknote) or day 7 (stainless steel and plastic).
@@ -3545,8 +3331,8 @@ ref 'Sharma_et_al_07_08_2020
   / April, 2020 - The Lancet Microbe
   let !d self assert = Strikingly, a detectable level of infectious virus could still be present on the outer layer of a surgical mask on day 7 (~0·1% of the original inoculum). Interestingly, a biphasic decay of infectious SARS-CoV-2 could be found in samples recovered from these smooth surfaces.
 
-  / April, 2020 - The Lancet Microbe
-  let !e self assert = 39 representative non-infectious samples tested positive by RT-PCR, showing thatnon-infectious viruses could still be recovered by the eluents.
+  # / April, 2020 - The Lancet Microbe
+  # let !e self assert = 39 representative non-infectious samples tested positive by RT-PCR, showing that non-infectious viruses could still be recovered by the eluents.
 
   / April, 2020 - The Lancet Microbe
   let !f self assert = We also tested the virucidal effects of disinfectants by adding 15 µL of SARS-CoV-2 culture (~7·8 log unit of TCID50 per mL) to 135 µL of various disinfectants at working concentration. With the exception of a 5-min incubation with hand soap, no infectious virus could be detected after a 5-min incubation at room temperature (22°C).
@@ -3557,59 +3343,63 @@ ref 'Sharma_et_al_07_08_2020
   // High Temperature and High Humidity Reduce the Transmission of COVID-19
   doi: http://dx.doi.org/10.2139/ssrn.3551767
   ref 'Wang_et_al_03_10_2020
-  head = Our study found robust negative associations between temperature as well as humidity and COVID-19 transmission before the large-scale public-health interventions in China and the U.S. Moreover, the temperature has a consistent influence on the effective reproductive number, R values, for both Chinese cities and U.S. counties; relative humidity also has consistent effects across the two countries. Our study concludes that after the lockdowns in China and the U.S., temperature and relative humidity still play an important role in reducing the R values but to a less extent. Given the notion that the non-intervened R values are around 2.5 to 3, only weather factors cannot make the R values below their critical condition of R<1, under which the epidemic diminishes gradually. Therefore, public health intervention such as social distancing is crucial to block the transmission of COVID-19 even in summer.
+  head = Our study found robust negative associations between temperature as well as humidity and COVID-19 transmission before the large-scale public-health interventions in China and the U.S. Moreover, the temperature has a consistent influence on the R values, for both Chinese cities and U.S. counties; relative humidity also has consistent effects across the two countries. Our study concludes that after the lockdowns in China and the U.S., temperature and relative humidity still play an important role in reducing the R values but to a less extent.
 
   >>> Abstract
     With the ongoing global pandemic of COVID-19, a question is whether the coming summer in the northern hemisphere will reduce the transmission intensity of COVID-19 with increased humidity and temperature. In this paper, we investigate this problem using the data from the cases with symptom-onset dates from January 19 to February 10, 2020 for 100 Chinese cities, and cases with confirmed dates from March 15 to April 25 for 1,005 U.S. counties. Statistical analysis is performed to assess the relationship between the transmissibility of COVID-19 and the temperature/humidity, by controlling for various demographic, socio-economic, geographic, healthcare and policy factors and correcting for cross-sectional correlation. We find a similar influence of the temperature and relative humidity on effective reproductive number (R values) of COVID-19 for both China and the U.S. before lockdown in both countries: one-degree Celsius increase in temperature reduces R value by about 0.023 (0.026 (95% CI [-0.0395,-0.0125]) in China and 0.020 (95% CI [-0.0311, -0.0096]) in the U.S.), and one percent relative humidity rise reduces R value by 0.0078 (0.0076 (95% CI [-0.0108,-0.0045]) in China and 0.0080 (95% CI [-0.0150,-0.0010]) in the U.S.). If assuming a 30 degree and 25 percent increase in temperature and relative humidity from winter to summer in the northern hemisphere, we expect the R values to decline about 0.89 (0.69 by temperature and 0.20 by humidity). Moreover, after the lockdowns in China and the U.S., temperature and relative humidity still play an important role in reducing the R values but to a less extent. Given the notion that the non-intervened R values are around 2.5 to 3, only weather factors cannot make the R values below their critical condition of R<1, under which the epidemic diminishes gradually. Therefore, public health intervention such as social distancing is crucial to block the transmission of COVID-19 even in summer.
 
 
-  -- exports
+  -- weather
     !a
-    !b
     !c
     !d
-    !e
-  -- mitigation
+    !i
+  -- transmission/ R value/ SOCIO ECO FACTORS
     !f
     !g
-  --
     !h
-    !i
+    !l
+  -- policies
     !j
-    !k
 
   / March, 2020 - SSRN
   let !a self assert = Our study suggests that the arrival of summer and rainy season in the northern hemisphere can potentially reduce the transmissibility of the COVID-19, but it is unlikely that the COVID-19 pandemic will “automatically” diminish when summer comes, because temperature and humidity alone are not sufficient to make the R value less than the critical value of 1 based on their effect estimates.
 
-  / March, 2020 - SSRN
-  let !b self assert = We find a similar influence of the temperature and relative humidity on effective reproductive number (R values) of COVID-19 for both China and the U.S. before lockdown in both countries: one-degree Celsius increase in temperature reduces R value by about 0.023 (0.026 (95% CI [-0.0395,-0.0125]) in China and 0.020 (95% CI [-0.0311, -0.0096]) in the U.S.), and one percent relative humidity rise reduces R value by 0.0078 (0.0076 (95% CI [-0.0108,-0.0045]) in China and 0.0080 (95% CI [-0.0150,-0.0010]) in the U.S.).
+  # / March, 2020 - SSRN
+  # let !b self assert = We find a similar influence of the temperature and relative humidity on effective reproductive number (R values) of COVID-19 for both China and the U.S. before lockdown in both countries: one-degree Celsius increase in temperature reduces R value by about 0.023 (0.026 (95% CI [-0.0395,-0.0125]) in China and 0.020 (95% CI [-0.0311, -0.0096]) in the U.S.), and one percent relative humidity rise reduces R value by 0.0078 (0.0076 (95% CI [-0.0108,-0.0045]) in China and 0.0080 (95% CI [-0.0150,-0.0010]) in the U.S.).
 
   / March, 2020 - SSRN
   let !c self assert = If assuming a 30 degree and 25 percent increase in temperature and relative humidity from winter to summer in the northern hemisphere, we expect the R values to decline about 0.89 (0.69 by temperature and 0.20 by humidity).
 
   / March, 2020 - SSRN
-  let !d self assert = If all other conditions are held fixed, it is impossible to lower down the R value to 1 by just temperature and relative humidity, based on the fact that the initial R0 value is about 2.5 to 3. Thus, from winter to summer, the R values decline one third at most. According to the results of both the U.S. and China, in order to lower down the R value to 1 from the R value of 3, the temperature would have to increase by 87°C or the relative humidity would have to increase by 256 percent, if all other conditions are held fixed. Therefore, public health intervention is still necessary to block the transmission of COVID-19 even in summer. Particularly, as shown in this paper, lockdowns, constraints on human mobility, increase in hospital beds, etc. can effectively reduce the transmissibility of COVID-19.
+  let !d self assert = If all other conditions are held fixed, it is impossible to lower down the R value to 1 by just temperature and relative humidity, based on the fact that the initial R0 value is about 2.5 to 3. Therefore, public health intervention is still necessary to block the transmission of COVID-19 even in summer. Particularly, lockdowns, constraints on human mobility, increase in hospital beds, etc. can effectively reduce the transmissibility of COVID-19.
+
+  # / March, 2020 - SSRN
+  # let !e self assert = After lockdown, the temperature and relative humidity also present negative relationships with R values for both countries. For China, its statistically significant (with p values lower than 0.05), and one-degree Celsius increase in temperature and one percent increase in relative humidity reduce R values by 0.0209 (95% CI [-0.0378, -0.0041]) and 0.0054 (95% CI [-0.0104, -0.0004]), respectively. For the U.S. the estimated effects of the temperature and relative humidity on R values are still negative but no longer statistically significant (with p values 0.141 and 0.073, respectively).
 
   / March, 2020 - SSRN
-  let !e self assert = After lockdown, the temperature and relative humidity also present negative relationships with R values for both countries. For China, its statistically significant (with p values lower than 0.05), and one-degree Celsius increase in temperature and one percent increase in relative humidity reduce R values by 0.0209 (95% CI [-0.0378, -0.0041]) and 0.0054 (95% CI [-0.0104, -0.0004]), respectively. For the U.S. the estimated effects of the temperature and relative humidity on R values are still negative but no longer statistically significant (with p values 0.141 and 0.073, respectively). The less influence from weather conditions is very likely caused by the stay-at-home policy during the lockdown periods, and hence people expose less to the outdoor weather. Therefore, we rely more on the estimates of the weather-transmissibility relationship before the lockdowns in both countries.
+  let !e self assert = In China, before the lockdowns, in cities with higher levels of population density, the virus spreads faster than that in less crowded cities due to more possible contacts among people. One thousand people per square kilometer rise in population density is associated with a 0.1188 (95% CI [0.0573, 0.1803]) increase in the R value before lockdown.
 
   / March, 2020 - SSRN
-  let !f self assert = In China, before the lockdowns, in cities with higher levels of population density, the virus spreads faster than that in less crowded cities due to more possible contacts among people. One thousand people per square kilometer rise in population density is associated with a 0.1188 (95% CI [0.0573, 0.1803]) increase in the R value before lockdown. Cities in China with more doctors have a smaller transmission intensity, since the infected are treated in hospitals and hence unable to transmit to others. Particularly, one thousand more doctors are associated with a 0.0058 [-0.0090, -0.0025] decrease in the R value during the overall time period; the influence of doctor number is greater before lockdown with a coefficient of 0.0109 (95% CI [-0.0163, -0.0056])).
+  let !f self assert = Cities in China with more doctors have a smaller transmission intensity, since the infected are treated in hospitals and hence unable to transmit to others. Particularly, one thousand more doctors are associated with a 0.0058 [-0.0090, -0.0025] decrease in the R value during the overall time period; the influence of doctor number is greater before lockdown with a coefficient of 0.0109 (95% CI [-0.0163, -0.0056]).
 
   / March, 2020 - SSRN
-  let !g self assert = In the U.S., theres a strong relationship between R value and the number of ICU beds per capita after lockdown, with a p value at 0.001; every unit increase in ICU bed per 10,000 population decreases the R value by 0.0110 (95% CI [-0.0171, -0.0049]). Whats more, counties with more people over 65 years old have lower R values, but the magnitude is small, i.e. one percent increase in fraction of aged over 65 is associated with a 0.0092 (95% CI [-0.0135, -0.00498]) decrease in R value in the overall time period.
+  let !g self assert = In the U.S., theres a strong relationship between R value and the number of ICU beds per capita after lockdown, with a p value at 0.001; every unit increase in ICU bed per 10,000 population decreases the R value by 0.0110 (95% CI [-0.0171, -0.0049]).
 
   / March, 2020 - SSRN
-  let !h self assert = For the U.S. counties, relative humidity and absolute humidity are almost equivalent in explaining the variation of the R value (12.57% vs. 12.55%), while absolute humidity does achieve a higher significance level (p-value of 0.00001) compared to relative humidity (p-value of 0.019) before lockdown. However, the coefficient of absolute humidity is not statistically significant for Chinese cities (p-value of 0.312).
+  let !h self assert = Counties in U.S. with more people over 65 years old have lower R values, but the magnitude is small, i.e. one percent increase in fraction of aged over 65 is associated with a 0.0092 decrease in R value in the overall time period.
 
   / March, 2020 - SSRN
-  let !i self assert = In China, the health emergency policies on January 24, 2020 lowered the average R value from 2.1174 (95% CI [1.5699,2.6649]) to 0.8084 (95% CI [0.5334,1.0833]), which corresponds to a more than 60% drop. In the U.S., the regression results of the data as of April 25 show that although the R value has not decreased to less than 1, the lockdown policies have reduced the average R value by nearly half, from 2.1970 (95% CI [1.6631,2.7309]) to 1.1837 (95% CI [1.1687,1.1985])
+  let !i self assert = For the U.S. counties, relative humidity and absolute humidity are almost equivalent in explaining the variation of the R value (12.57% vs. 12.55%), while absolute humidity does achieve a higher significance level (p-value of 0.00001) compared to relative humidity (p-value of 0.019) before lockdown. However, the coefficient of absolute humidity is not statistically significant for Chinese cities (p-value of 0.312).
 
   / March, 2020 - SSRN
-  let !j self assert = Regression results show that before the lockdown, 1% decrease of BMI drop is associated with a decrease of R value by 0.004093 (95% CI [-0.00683, -0.001356]). After the lockdown, the BMI drop does not significantly affect R value. A possible reason is that the BMI variations across cities are quite small (all in quite low levels) after the lockdown, as the paces of intervention in different Chinese cities are quite similar. Overall, the negative relationship before lockdown may also imply that the rapid response to infectious disease risks is crucial.
+  let !j self assert = In China, the health emergency policies on January 24, 2020 lowered the average R value from 2.1174 to 0.8084, which corresponds to a more than 60% drop. In the U.S., the regression results of the data as of April 25 show that although the R value has not decreased to less than 1, the lockdown policies have reduced the average R value by nearly half, from 2.1970 to 1.1837.
+
+  # / March, 2020 - SSRN
+  # let !k self assert = Regression results show that before the lockdown, 1% decrease of BMI drop is associated with a decrease of R value by 0.004093. After the lockdown, the BMI drop does not significantly affect R value.
 
   / March, 2020 - SSRN
-  let !k self assert = For the U.S., we use the M50 index, the fraction of daily median of maximum moving distance over that in the normal time (workdays between February 17 and March 7), as the proxy of mobility. It has a positive relationship with R value for both overall and after lockdown time period with p-values lower than 0.01, which demonstrates that counties with more social movements would have higher R values than others.
+  let !l self assert = For the U.S., we use the M50 index, the fraction of daily median of maximum moving distance over that in the normal time (workdays between February 17 and March 7), as the proxy of mobility. It has a positive relationship with R value for both overall and after lockdown time period with p-values lower than 0.01, which demonstrates that counties with more social movements would have higher R values than others.
 
 
 
@@ -3617,28 +3407,25 @@ ref 'Sharma_et_al_07_08_2020
   // No Evidence for Temperature-Dependence of the COVID-19 Epidemic
   doi: https://doi.org/10.1101/2020.03.29.20046706
   ref 'Jamil_et_al_04_19_2020
-  head = These results suggest that, contrary to prior assessments, the spread rate of the COVID-19 pandemic is temperature-independent, it is transmitting in countries with warm weather. This signifying that there is little hope for relief as temperatures in the northern hemisphere increase, and that poor nations with weak health systems in tropical regions, such as African, are at great risk. Therefore, in order to reduce transmission, it’s important to employ strong lockdown, social distancing and testing and tracking policies.
+  head = Our results show that there is no evidence that spread rates decline with temperatures above 20 degrees Celcius. This suggests that the COVID-19 disease is unlikely to behave as a seasonal respiratory virus.
 
   >>> Abstract
     The pandemic of the COVID-19 disease extended from China across the north-temperate zone, and more recently to the tropics and southern hemisphere. We find no evidence that spread rates decline with temperatures above 20 oC, suggesting that the COVID-19 disease is unlikely to behave as a seasonal respiratory virus.
 
-  -- exports
-    !a
-    !b
-    !c
-    !d
+  # -- exports
+  #   !d
 
-  / April, 2020 - MedRxiv
-  let !a self assert = Epidemiological data consisting in the rate of increase in accumulated diagnosed cases among nations (global) shows  ranging from 1% day-1 to 23.8 % day-1 92, with an average of 9.82± 0.39 % day-1 93 (Figure 1, Figure S1A), and apparent Rt of 1.27 ± 0.02).
+  # / April, 2020 - MedRxiv
+  # let !a self assert = Epidemiological data consisting in the rate of increase in accumulated diagnosed cases among nations (global) shows ranging from 1% day-1 to 23.8 % day-1 92, with an average of 9.82± 0.39 % day-1 93, and apparent Rt of 1.27 ± 0.02).
 
-  / April, 2020 - MedRxiv
-  let !b self assert = Surprisingly, y and Rt across Chinese provinces (mean ± SE = 1.3 ± 0.28 % day-1 95 and 0.96 ± 0.02) were well below those of other nations (mean ± SE = 19.82± 0.39 % day-1 96 and 1.27 ± 0.02), possibly because much faster confinement of the Chinese population did not allow for the potential exponential rates under uncontrolled conditions to be realized. The broad variability in realized y and Rt between nations (global) and provinces (China) largely reflects differences in detection likelihood along with the timing and rigour of adoption of confinement measures.
+  # / April, 2020 - MedRxiv
+  # let !b self assert = Surprisingly, y and Rt across Chinese provinces (mean ± SE = 1.3 ± 0.28 % day-1 95 and 0.96 ± 0.02) were well below those of other nations (mean ± SE = 19.82± 0.39 % day-1 96 and 1.27 ± 0.02), possibly because much faster confinement of the Chinese population did not allow for the potential exponential rates under uncontrolled conditions to be realized. The broad variability in realized y and Rt between nations (global) and provinces (China) largely reflects differences in detection likelihood along with the timing and rigour of adoption of confinement measures.
 
-  / April, 2020 - MedRxiv
-  let !c self assert = The relationship between y and Rt and Tavg shows no evidence for a reduced spread rate with warming, unlike analyses based on previous data. A number of nations with Tavg > 20 o 103 C, including subtropical and tropical (Brazil, Cuba, UAE, Saudi Arabia, India and Panama), and southern-hemisphere (Peru, Argentina, Indonesia) nations, support y and Rt above the median values of 9.6% day-1 and 1.23, respectively. However, the same analysis conducted one weeks ago (15th March), did provide some evidence for low y and Rt for Tavg > 20 o 107 C.
+  # / April, 2020 - MedRxiv
+  # let !c self assert = The relationship between y and Rt and Tavg shows no evidence for a reduced spread rate with warming, unlike analyses based on previous data. A number of nations with Tavg > 20 o 103 C, including subtropical and tropical (Brazil, Cuba, UAE, Saudi Arabia, India and Panama), and southern-hemisphere (Peru, Argentina, Indonesia) nations, support y and Rt above the median values of 9.6% day-1 and 1.23, respectively. However, the same analysis conducted one weeks ago (15th March), did provide some evidence for low y and Rt for Tavg > 20 o 107 C.
 
-  / April, 2020 - MedRxiv
-  let !d self assert = Our updated results show, however, that this apparent temperature-dependence was confounded with a prevailing zonal pattern of spread across the north-temperate zone, possibly reflecting the main patterns of human mobility, which delayed arrival of the epidemics to the southern hemisphere and the tropics.
+  # / April, 2020 - MedRxiv
+  # let !d self assert = Our updated results show that this apparent temperature-dependence was confounded with a prevailing zonal pattern of spread across the north-temperate zone, possibly reflecting the main patterns of human mobility, which delayed arrival of the epidemics to the southern hemisphere and the tropics.
 
 
 
@@ -3646,56 +3433,58 @@ ref 'Sharma_et_al_07_08_2020
   // Climate affects global patterns of COVID-19 early outbreak dynamics
   doi: https://doi.org/10.1101/2020.03.23.20040501
   ref 'Ficetola_et_al_04_20_2020
-  head = Temperature and humidity strongly impact the variation of the growth rate of Covid-19 cases across the globe. The strong relationship between local climate and Covid-19 growth rates suggests the possibility of seasonal variation in the spatial pattern of outbreaks, with temperate regions of the Southern Hemisphere becoming at particular risk of severe outbreaks during the austral autumn-winter. Nevertheless, in the absence of containment actions growth rates can be substantial even in warm climates. Stringent containment measures remain thus pivotal to mitigate the impacts of SARS-Cov-2 infections worldwide.
+  head = The strong relationship between local climate and Covid-19 growth rates suggests the possibility of seasonal variation in the spatial pattern of outbreaks, with temperate regions of the Southern Hemisphere becoming at particular risk of severe outbreaks during the austral autumn-winter. Nevertheless, in the absence of containment actions, growth rates can be substantial even in warm climates. Relationships between Covid-19 and climate were robust to the potential confounding effects of air pollution and socio-economic variables, including population size, density and health expenditure.
 
   >>> Abstract
     Environmental factors, including seasonal climatic variability, can strongly impact on spatio-temporal patterns of infectious disease outbreaks, but relationships between Covid-19 dynamics and climate remain controversial. We assessed the impact of temperature and humidity on the global patterns of Covid-19 early outbreak dynamics during January-March 2020. Here we show that Covid-19 growth rates peaked in temperate regions of the Northern Hemisphere with mean temperature of ~5 C, and specific humidity of 4-6 g/m3 during the outbreak period, while they were lower both in warmer/wetter and colder/dryer regions. Relationships between Covid-19 and climate were robust to the potential confounding effects of air pollution and socio-economic variables, including population size, density and health expenditure. The strong relationship between local climate and Covid-19 growth rates suggests the possibility of seasonal variation in the spatial pattern of outbreaks, with temperate regions of the Southern Hemisphere becoming at particular risk of severe outbreaks during the austral autumn-winter.
 
-  -- exports
-    !a
-    !b
-    !c
-    !d
-    !e
-    !f
-    !g
-    !h
-    !i
-    !j
-    !k
+  # -- exports
+  #   !a
+  #   !c
+  #   !l
+  # -- COUNTER TO weather
+  #   !c
+  #   !i
+  # -- socio eco factors
+  #   !d
+  #   !j
+  #   !k
 
-  / April, 2020 - MedRxiv
-  let !a self assert = We show that Covid-19 growth rates peaked in temperate regions of the Northern Hemisphere with mean temperature of ~5 C, and specific humidity of 4-6 g/m3 during the outbreak period, while they were lower both in warmer/wetter and colder/dryer regions.
+  # / April, 2020 - MedRxiv
+  # let !a self assert = We show that Covid-19 growth rates peaked in temperate regions of the Northern Hemisphere with mean temperature of ~5 C, and specific humidity of 4-6 g/m3 during the outbreak period, while they were lower both in warmer/wetter and colder/dryer regions.
 
-  / April, 2020 - MedRxiv
-  let !b self assert = Relationships between Covid-19 and climate were robust to the potential confounding effects of air pollution and socio-economic variables, including population size, density and health expenditure.
+  # / April, 2020 - MedRxiv
+  # let !b self assert = Relationships between Covid-19 and climate were robust to the potential confounding effects of air pollution and socio-economic variables, including population size, density and health expenditure.
 
-  / April, 2020 - MedRxiv
-  let !c self assert = Covid-19 growth rates showed high variability at the global scale. The observed daily growth rate during the exponential phase was on average 0.28 (SD = 0.13), and ranged from 0.06 (West Bank and Gaza, Singapore) to 0.72 (Denmark). The highest growth rates were observed in temperate regions of the Northern Hemisphere, although fast growth also occurred in some warm climates, notably in Brazil, Indonesia and the Philippines, suggesting that no area of the world is exempt from SARS-Cov-2 infection risk.
+  # / April, 2020 - MedRxiv
+  # let !c self assert = Covid-19 growth rates showed high variability at the global scale. The observed daily growth rate during the exponential phase was on average 0.28 (SD = 0.13), and ranged from 0.06 (West Bank and Gaza, Singapore) to 0.72 (Denmark). The highest growth rates were observed in temperate regions of the Northern Hemisphere, although fast growth also occurred in some warm climates, notably in Brazil, Indonesia and the Philippines, suggesting that no area of the world is exempt from SARS-Cov-2 infection risk.
 
-  / April, 2020 - MedRxiv
-  let !d self assert = Covid-19 growth rate was strongly related to a combination of climatic and socioeconomic variables. Furthermore, growth rate was faster in regions with large human population size (F1,74 = 27.5, P < 0.001) and high health expenditure (F1,52 = 8.9, P = 0.004). Models not including temperature and population size showed very limited support, suggesting that these variables were major drivers of spatial variation of Covid-19 growth rate.
+  # / April, 2020 - MedRxiv
+  # let !d self assert = Covid-19 growth rate was strongly related to a combination of climatic and socioeconomic variables. Furthermore, growth rate was faster in regions with large human population size (F1,74 = 27.5, P < 0.001) and high health expenditure (F1,52 = 8.9, P = 0.004). Models not including temperature and population size showed very limited support, suggesting that these variables were major drivers of spatial variation of Covid-19 growth rate.
 
-  / April, 2020 - MedRxiv
-  let !e self assert = Human population density and air pollution were never included in models with high support, suggesting that they play a relatively minor role in determining Covid-19 growth rates, at least at the coarse spatial scale of this study.
+  # / April, 2020 - MedRxiv
+  # let !e self assert = Human population density and air pollution were never included in models with high support, suggesting that they play a relatively minor role in determining Covid-19 growth rates, at least at the coarse spatial scale of this study.
 
-  / April, 2020 - MedRxiv
-  let !f self assert = This model also confirmed the faster growth in regions with largest populations and highest health expenditure, but showed a slightly poorer fit to the data compared to the model including temperature.
+  # / April, 2020 - MedRxiv
+  # let !f self assert = This model also confirmed the faster growth in regions with largest populations and highest health expenditure, but showed a slightly poorer fit to the data compared to the model including temperature.
 
-  / April, 2020 - MedRxiv
-  let !g self assert = The decrease of Covid-19 growth rate in warm and humid climates can be explained by two non-exclusive processes. First, coronavirus persistence outside the organisms decreases at high temperature, medium-high humidity, and under sunlight, even though they can survive several hours at temperatures >30° C 5,24, implying that high ambient temperatures are not enough to quickly inactivate the infection. Second, host susceptibility can be higher in cold and dry environments, for instance because of a slower mucociliary clearance, or a decreased host immune function under harsher conditions.
+  # / April, 2020 - MedRxiv
+  # let !g self assert = The decrease of Covid-19 growth rate in warm and humid climates can be explained by two non-exclusive processes. First, coronavirus persistence outside the organisms decreases at high temperature, medium-high humidity, and under sunlight, even though they can survive several hours at temperatures >30° C 5,24, implying that high ambient temperatures are not enough to quickly inactivate the infection. Second, host susceptibility can be higher in cold and dry environments, for instance because of a slower mucociliary clearance, or a decreased host immune function under harsher conditions.
 
-  / April, 2020 - MedRxiv
-  let !h self assert = The projected Covid-19 growth rates based on March temperatures showed very favorable conditions for disease spread in most temperate regions of the Northern Hemisphere, and matched well with the observed spatial distribution of Covid-19 growth rates during the January-March global outbreak. The expected seasonal variation in temperatures during the next months could results in slightly less suitable conditions for Covid-19 spread in these areas, while disease spread could accelerate in large areas of the Southern Hemisphere, including south America, south Africa, eastern Australia and New Zealand, and at the high latitudes of the Northern hemisphere. Nevertheless, uncertainty in projections was substantial and, in absence of severe containment actions, projected growth rates remained consistently high (daily projected r ≥ 0.15) in most areas of the world, including many tropical countries.
+  # / April, 2020 - MedRxiv
+  # let !h self assert = The projected Covid-19 growth rates based on March temperatures showed very favorable conditions for disease spread in most temperate regions of the Northern Hemisphere, and matched well with the observed spatial distribution of Covid-19 growth rates during the January-March global outbreak. The expected seasonal variation in temperatures during the next months could results in slightly less suitable conditions for Covid-19 spread in these areas, while disease spread could accelerate in large areas of the Southern Hemisphere, including south America, south Africa, eastern Australia and New Zealand, and at the high latitudes of the Northern hemisphere.
 
-  / April, 2020 - MedRxiv
-  let !i self assert = Nevertheless, the huge variation of Covid-19 growth rates among regions with similar climate highlights that diverse and complex social and demographic factors, as well as stochasticity, may strongly contribute to the severity of Covid-19 outbreaks. The potential socio-economic drivers of Covid-19 outbreak are many. Even if we did not try to model the spatial spread of the disease across regions, we included several parameters representing account socio-economic factors.
+  # / April, 2020 - MedRxiv
+  # let !i self assert = Nevertheless, uncertainty in projections was substantial and, in absence of severe containment actions, projected growth rates remained consistently high (daily projected r ≥ 0.15) in most areas of the world, including many tropical countries.
 
-  / April, 2020 - MedRxiv
-  let !j self assert = Furthermore, growth rate was faster in regions with higher health expenditure, possibly because of more efficient early reporting and/or faster diagnosis of Covid-19 cases. However, the different socio-economic factors were strongly correlated. Areas with high health expenditure are also inhabited by more people older than 65 years, and a linear combination of human population and health expenditure predicts very well international trade of goods and services. Assessing the specific impact of these factors is challenging and was beyond the aim of this study.
+  # / April, 2020 - MedRxiv
+  # let !j self assert = The huge variation of Covid-19 growth rates among regions with similar climate highlights that diverse and complex social and demographic factors, as well as stochasticity, may strongly contribute to the severity of Covid-19 outbreaks. The potential socio-economic drivers of Covid-19 outbreak are many.
+  #
+  # / April, 2020 - MedRxiv
+  # let !k self assert = Furthermore, growth rate was faster in regions with higher health expenditure, possibly because of more efficient early reporting and/or faster diagnosis of Covid-19 cases. However, the different socio-economic factors were strongly correlated. Areas with high health expenditure are also inhabited by more people older than 65 years, and a linear combination of human population and health expenditure predicts very well international trade of goods and services.
 
-  / April, 2020 - MedRxiv
-  let !k self assert =  Nevertheless, the role of climate remained consistent even when controlling for different combinations of socio-economic factors, suggesting that unaccounted processes should not bias our results and implying that climate can contribute to explain variability in global patterns of Covid-19 growth rates. It is also possible that future analyses based on more recent, expanded datasets will not reveal major climatic effects on Covid-19 growth rates, because the worldwide enforcement of severe containment actions strongly limits the natural spread potential of the disease, thus fading associations between climate and disease dynamics.
+  # / April, 2020 - MedRxiv
+  # let !l self assert = It is also possible that future analyses based on more recent, expanded datasets will not reveal major climatic effects on Covid-19 growth rates, because the worldwide enforcement of severe containment actions strongly limits the natural spread potential of the disease, thus fading associations between climate and disease dynamics.
 
 
 
@@ -3709,23 +3498,19 @@ ref 'Sharma_et_al_07_08_2020
     In absence of empirical research data, there has been considerable speculative hypothesis on the relationship between climatic factors (such as temperature and humidity) and the incidence of Covid-19. This study analyzed the data from 310 regions across 116 countries that reported confirmed cases of Covid-19 by March 12, 2020, and found that temperature, humidity, and wind speed were inversely associated with the incidence rate of Covid-19 after adjusting for the regional and temporal trend in the incidence of Covid-19, columnar density of ozone, precipitation probability, sea-level air-pressure, and length of daytime.
 
   -- exports
-    !a
-    !b
-    !c
-    !d
     !e
 
-  / March, 2020 - MedRxiv
-  let !a self assert = Overall, the incidence of Covid-19 increased by 11% (adjusted IRR: 1.11, 95% CI: 1.10-11, P<0.001) per day after adjusting for all the variables listed above (dew point and cloud over were initially considered, but later excluded due to multicollinearity).
+  # / March, 2020 - MedRxiv
+  # let !a self assert = Overall, the incidence of Covid-19 increased by 11% (adjusted IRR: 1.11, 95% CI: 1.10-11, P<0.001) per day after adjusting for all the variables listed above (dew point and cloud over were initially considered, but later excluded due to multicollinearity).
 
-  / March, 2020 - MedRxiv
-  let !b self assert = In the adjusted model, daily maximum temperature, relative humidity, and wind speed were associated with a lower incidence of Covid-19. There was an inverse association between Covid-19 incidence and 14-day lagged UV index (but not with the concurrent or the 7-day lagged data).
+  # / March, 2020 - MedRxiv
+  # let !b self assert = In the adjusted model, daily maximum temperature, relative humidity, and wind speed were associated with a lower incidence of Covid-19. There was an inverse association between Covid-19 incidence and 14-day lagged UV index (but not with the concurrent or the 7-day lagged data).
 
-  / March, 2020 - MedRxiv
-  let !c self assert = Our finding of an inverse relationship between temperature (and humidity) and the incidence of Covid-19 may suggest a cold and dry environment more favourable condition for virus survival, as was proposed for other coronavirus such as SARS-CoV and MERS-CoV.
+  # / March, 2020 - MedRxiv
+  # let !c self assert = Our finding of an inverse relationship between temperature (and humidity) and the incidence of Covid-19 may suggest a cold and dry environment more favourable condition for virus survival, as was proposed for other coronavirus such as SARS-CoV and MERS-CoV.
 
-  / March, 2020 - MedRxiv
-  let !d self assert = An inverse association with wind speed may indicate a shorter suspending time in the air due to dilution and removal of Covid-19.
+  # / March, 2020 - MedRxiv
+  # let !d self assert = An inverse association with wind speed may indicate a shorter suspending time in the air due to dilution and removal of Covid-19.
 
   / March, 2020 - MedRxiv
   let !e self assert =  An inverse association with a higher UV index would suggest viral destruction at higher temperature, but the association did not hold with the concurrent or 7-day UV index.
@@ -3736,21 +3521,18 @@ ref 'Sharma_et_al_07_08_2020
   // COVID-19 transmission in Mainland China is associated with temperature and humidity: a time-series analysis
   doi: https://doi.org/10.1101/2020.03.30.20044099
   ref 'Qi_et_al_03_20_2020
-  head = Our study suggests that both daily temperature and relative humidity influenced the occurrence of COVID-19 in Hubei province and in some other provinces. However, the association between COVID-19 and AT and ARH across the provinces was not consistent. We found spatial heterogeneity of COVID-19 incidence, as well as its relationship with daily AT and ARH, among provinces in Mainland China. The reasons for the inconsistency in the impact of meteorological factors on COVID-19 among provinces needs further study
+  head = Our study suggests that both daily temperature and relative humidity influenced the occurrence of COVID-19 in Hubei province and in some other provinces. However, the association between COVID-19 and average temperature (AT) and relative humidity (ARH) across the provinces was not consistent. There were spatial and temporal heterogeneities in COVID-19 occurrence, which could be attributed to meteorological factors (daily AT and ARH) as well as interventions measures across provinces.
 
   >>> Abstract
     COVID-19 has become a pandemic. The influence of meteorological factors on the transmission and spread of COVID-19 if of interest. This study sought to examine the associations of daily average temperature (AT) and relative humidity (ARH) with the daily count of COVID-19 cases in 30 Chinese provinces (in Hubei from December 1, 2019 to February 11, 2020 and in other provinces from January 20, 2020 to Februarys 11, 2020). A Generalized Additive Model (GAM) was fitted to quantify the province-specific associations between meteorological variables and the daily cases of COVID-19 during the study periods. In the model, the 14-day exponential moving averages (EMAs) of AT and ARH, and their interaction were included with time trend and health-seeking behavior adjusted. Their spatial distributions were visualized. AT and ARH showed significantly negative associations with COVID-19 with a significant interaction between them (0.04, 95% confidence interval: 0.004-0.07) in Hubei. Every 1°C increase in the AT led to a decrease in the daily confirmed cases by 36% to 57% when ARH was in the range from 67% to 85.5%. Every 1% increase in ARH led to a decrease in the daily confirmed cases by 11% to 22% when AT was in the range from 5.04°C to 8.2°C. However, these associations were not consistent throughout Mainland China.
 
   -- exports
-    !a
     !b
     !c
-    !d
-    !e
-    !f
 
-  / March, 2020 - MedRxiv
-  let !a self assert = A novel finding of this study is the significant interaction between ARH and AT, and COVID-19 transmission. In Hubei province, the interaction between ARH and AT was found to have a positive effect on transmission (0.04, 95% CI: 0.004–0.07). Increased AT (ARH) led to a decreased effect of ARH (AT) on the incidence of COVID-19 in Hubei province. The exact mechanism of the interaction is unclear. One probable reason might be that a combination of low AT and humidity make the nasal mucosa prone to small ruptures, creating opportunities for virus invasion.
+
+  # / March, 2020 - MedRxiv
+  # let !a self assert = A novel finding of this study is the significant interaction between ARH and AT, and COVID-19 transmission. In Hubei province, the interaction between ARH and AT was found to have a positive effect on transmission (0.04, 95% CI: 0.004–0.07). Increased AT (ARH) led to a decreased effect of ARH (AT) on the incidence of COVID-19 in Hubei province.
 
   / March, 2020 - MedRxiv
   let !b self assert = Every 1°C increase in the AT led to a decrease in the daily confirmed cases by 36% to 57% when ARH was in the range from 67% to 85.5%.
@@ -3758,14 +3540,14 @@ ref 'Sharma_et_al_07_08_2020
   / March, 2020 - MedRxiv
   let !c self assert = Every 1% increase in ARH led to a decrease in the daily confirmed cases by 11% to 22% when AT was in the range from 5.04°C to 8.2°C. However, these associations were not consistent throughout Mainland China.
 
-  / March, 2020 - MedRxiv
-  let !d self assert =  With ARH fixed at its 25th, 50th, and 75th percentiles, AT showed a negative association with COVID-19, with the IRRs being 0.43 (95% CI: 0.25–0.73), 0.5 (95% CI: 0.32–0.78), and 0.64 (95% CI: 0.43–0.94), respectively. Similarly, there was a negative relationship between ARH and COVID-19 with the AT fixed at its 25th, 50th, and 75th percentiles. The IRRs here were 0.78 (95% CI: 0.69–0.89), 0.84 (95% CI: 0.75–0.93), and 0.89 (95% CI: 0.8–1).
+  # / March, 2020 - MedRxiv
+  # let !d self assert = With ARH fixed at its 25th, 50th, and 75th percentiles, AT showed a negative association with COVID-19, with the IRRs being 0.43 (95% CI: 0.25–0.73), 0.5 (95% CI: 0.32–0.78), and 0.64 (95% CI: 0.43–0.94), respectively. Similarly, there was a negative relationship between ARH and COVID-19 with the AT fixed at its 25th, 50th, and 75th percentiles. The IRRs here were 0.78 (95% CI: 0.69–0.89), 0.84 (95% CI: 0.75–0.93), and 0.89 (95% CI: 0.8–1).
 
-  / March, 2020 - MedRxiv
-  let !e self assert = Unlike Hubei province, other provinces including Henan, Anhui, and Chongqing had a positive relationship between ARH and COVID-19.
+  # / March, 2020 - MedRxiv
+  # let !e self assert = Unlike Hubei province, other provinces including Henan, Anhui, and Chongqing had a positive relationship between ARH and COVID-19.
 
-  / March, 2020 - MedRxiv
-  let !f self assert = The effects of AT and ARH showed spatial heterogeneity and there are several possible reasons. The between-region variability of meteorological factors is likely the main reason for the heterogeneity of effects. Small sample size in some provinces leads to model instability and invalid estimates. Most of the daily count of confirmed cases in provinces other than Hubei included in our models (68.6%)[26] were identified as imported cases from Hubei province or cases having a close contact with imported cases for the study period. Meteorological factors mainly affect COVID-19 transmission by affecting the survival of the coronavirus in the environment, and we assume that the coronavirus was unlikely to exist in the environment in other provinces, where most cases were imported during the study period. The intervention measures are expected to also have an important impact on the associations between meteorological factors and the transmission of the virus.
+  # / March, 2020 - MedRxiv
+  # let !f self assert = The effects of AT and ARH showed spatial heterogeneity and there are several possible reasons. The between-region variability of meteorological factors is likely the main reason for the heterogeneity of effects. Small sample size in some provinces leads to model instability and invalid estimates. Most of the daily count of confirmed cases in provinces other than Hubei included in our models (68.6%)[26] were identified as imported cases from Hubei province or cases having a close contact with imported cases for the study period. Meteorological factors mainly affect COVID-19 transmission by affecting the survival of the coronavirus in the environment, and we assume that the coronavirus was unlikely to exist in the environment in other provinces, where most cases were imported during the study period. The intervention measures are expected to also have an important impact on the associations between meteorological factors and the transmission of the virus.
 
 
 
@@ -3773,135 +3555,142 @@ ref 'Sharma_et_al_07_08_2020
   // Decoding the evolution and transmissions of the novel pneumonia coronavirus (SARS-CoV-2) using the whole genomic data
   doi: https://doi.org/10.24272/j.issn.2095-8137.2020.022
   ref 'Yu_et_al_05_18_2020
-  head = Forty non-synonymous substitutions are potentially associated with virus adaptation. No combinations were detected. The 58 haplotypes (31 found in samples from China and 31 from outside China) were identified in 93 viral genomes under study and could be classified into five groups. By applying the reported bat coronavirus genome (bat-RaTG13-CoV) as the outgroup, we found that haplotypes H13 and H38 might be considered as ancestral haplotypes, and later H1 was derived from the intermediate haplotype H3. The population size of the SARS-CoV-2 was estimated to have undergone a recent expansion on 06 January 2020, and an early expansion on 08 December 2019. Furthermore, phyloepidemiologic approaches have recovered specific directions of human-to-human transmissions and the potential sources for international infected cases.
+  head = The 58 haplotypes were identified in 93 viral genomes. We found that haplotypes H13 and H38 might be considered as ancestral haplotypes, and later H1 was derived from the intermediate haplotype H3. The population size of the SARS-CoV-2 was estimated to have undergone a recent expansion on 06 January 2020, and an early expansion on 08 December 2019. Phyloepidemiologic approaches have recovered specific directions of human-to-human transmissions and the potential sources for international infected cases.
 
   >>> Abstract
     The outbreak of COVID-19 started in mid-December 2019 in Wuhan, China. Up to 29 February 2020, SARS-CoV-2 (HCoV-19 / 2019-nCoV) had infected more than 85 000 people in the world. In this study, we used 93 complete genomes of SARS-CoV-2 from the GISAID EpiFluTM database to investigate the evolution and human-to-human transmissions of SARS-CoV-2 in the first two months of the outbreak. We constructed haplotypes of the SARS-CoV-2 genomes, performed phylogenomic analyses and estimated the potential population size changes of the virus. The date of population expansion was calculated based on the expansion parameter tau (τ) using the formula t=τ/2u. A total of 120 substitution sites with 119 codons, including 79 non-synonymous and 40 synonymous substitutions, were found in eight coding-regions in the SARS-CoV-2 genomes. Forty non-synonymous substitutions are potentially associated with virus adaptation. No combinations were detected. The 58 haplotypes (31 found in samples from China and 31 from outside China) were identified in 93 viral genomes under study and could be classified into five groups. By applying the reported bat coronavirus genome (bat-RaTG13-CoV) as the outgroup, we found that haplotypes H13 and H38 might be considered as ancestral haplotypes, and later H1 was derived from the intermediate haplotype H3. The population size of the SARS-CoV-2 was estimated to have undergone a recent expansion on 06 January 2020, and an early expansion on 08 December 2019. Furthermore, phyloepidemiologic approaches have recovered specific directions of human-to-human transmissions and the potential sources for international infected cases.
 
   -- exports
-    !a
     !b
     !c
-    !d
-    !e
-    !f
+  --
     !g
-    !h
-    !i
-    !j
+  -- The population size of SARS-CoV-2
     !k
-    !l
+  -- Evolutionary relationships of SARS-CoV-2 haplotypes:
     !m
-  -- The Huanan Seafood Wholesale Market/origin/phlogeny
     !n
+  --
     !o
+  -- The Huanan Seafood Wholesale Market boosted human-to-human transmission at an early stage:
     !p
     !q
     !r
+  -- not from wuhan market
     !s
     !t
     !u
-    !z
-    !ab
-  -- origin
-    !ac
-  --
-    !v
-    !w
-    !x
-    !y
-    !aa
+  -- haplotype in the Huanan Market was imported from elsewhere
     !ad
+  -- origin- rejected recombination
+    !ae
+  -- Regional and worldwide circulation and spread:
+    !y
+
+  # / May, 2020 - Zoological Research
+  # let !a self assert = Genome size of SARS-CoV-2 varied from 29 782 bp to 29 903 bp. The aligned matrix was 29 910 bp in length, including 140 variable sites. The CDS regions contained 120 substitution sites, which were classified as 58 haplotypes. Nucleotide diversity (Pi) was 0.15×10−3±0.02×10−3 (standard deviation, SD, hereafter). Haplotype diversity (Hd) was 0.953±0.016 (SD) and variance of Hd was 0.26×10−3.
 
   / May, 2020 - Zoological Research
-  let !a self assert = Genomic variations of SARS-CoV-2: Genome size of SARS-CoV-2 varied from 29 782 bp to 29 903 bp. The aligned matrix was 29 910 bp in length, including 140 variable sites. The CDS regions contained 120 substitution sites, which were classified as 58 haplotypes. Nucleotide diversity (Pi) was 0.15×10−3±0.02×10−3 (standard deviation, SD, hereafter). Haplotype diversity (Hd) was 0.953±0.016 (SD) and variance of Hd was 0.26×10−3.
+  let !b self assert = A total of 120 substitution sites with 119 codons, including 79 non-synonymous (65.83%) and 40 synonymous (33.61%) substitutions, were found in eight coding-regions in the SARS-CoV-2 genomes. Forty non-synonymous substitutions (50.63%) changed the biochemical properties of the amino acid (AA), and are therefore potentially associated with virus adaptation.
 
   / May, 2020 - Zoological Research
-  let !b self assert = A total of 120 substitution sites with 119 codons, including 79 non-synonymous (65.83%) and 40 synonymous (33.61%) substitutions, were found in eight coding-regions in the SARS-CoV-2 genomes. Forty non-synonymous substitutions (50.63%) changed the biochemical properties of the amino acid (AA), and are therefore potentially associated with virus adaptation. The current samplings showed that the H1 haplotype has been found in 19 patients, but most haplotypes were just sequenced once, suggesting that the haplotype H1 was rapidly circulated at an early stage of human-to-human transmissions.
+  let !c self assert = The current samplings showed that the H1 haplotype has been found in 19 patients, but most haplotypes were just sequenced once, suggesting that the haplotype H1 was rapidly circulated at an early stage of human-to-human transmissions.
+
+  # / May, 2020 - Zoological Research
+  # let !d self assert = In comparisons with published genomes of SARS-CoV and MERS-CoV, genomic variations of SARS-CoV-2 are still low, without evident recombination sites/regions (Rm=2, P=1.0) at this time.
+
+  # / May, 2020 - Zoological Research
+  # let !e self assert = Estimation of the substitution rates using 90 genomes of SARS-CoV-2 showed that the rate for SARS-CoV-2 was close to or lower than the rates for MERS-CoV and SARS-CoV. Due to the mild symptoms and low mortality, the immune systems of the infected humans may provide a suitable environment for propagation of SARS-CoV-2. SARS-CoV-2 is highly infectious and is able to infect humans not only through the mucous membranes of the nose and mouth, but also use the mucous membranes in the eyes which may boost regional circulation and large-scale spread.
+
+  # / May, 2020 - Zoological Research
+  # let !f self assert = Of the 93 genomes of SARS-CoV-2, 39 (41.93%) were from infected patients in 11 countries outside China and encoded 31 haplotypes (Hd=0.987±0.009 (SD), Pi=0.16×10–3±0.01×10–3), with 27 nationally/regionally private haplotypes. The 54 genomes (58.07%) from China also encoded 31 haplotypes (Hd=0.906±0.001 (SD), Pi=0.14×10–3±0.03×10–3).
 
   / May, 2020 - Zoological Research
-  let !c self assert = In comparisons with published genomes of SARS-CoV and MERS-CoV, genomic variations of SARS-CoV-2 are still low, without evident recombination sites/regions (Rm=2, P=1.0) at this time. According to the collection dates of the sequenced samples, haplotypes H1 and H3 were found in two samples at intervals of more than 30 days, and multiple samples over 20 days.
+  let !g self assert = A proportion Z-test showed significant differences in haplotype diversity of samples between China and other countries (χ2=4.024, df=1, P<0.05). The high haplotype diversity found in samples from other countries may be because the sampling dates were mostly after 22 January 2020, while those in China were before this date. In addition, the low level of radiation exposure on long-distance international flights may have accelerated mutation rates of SARS-CoV-2.
+
+  # / May, 2020 - Zoological Research
+  # let !h self assert = The population size of SARS-CoV-2 was rapidly increasing. The population of SARS-CoV-2 underwent sudden expansion (τ=2.887, Sum of Squared deviation, SSD=0.541×10–3, P=0.88, Harpendings Raggedness index, R=0.010, P=0.88). The calculated expansion was 28.72 days (95% Confident Interval: 12.29–54.36 days) ago.
+
+  # / May, 2020 - Zoological Research
+  # let !i self assert = Of the 93 genomes, the latest one was sampled on 03 February 2020, so the estimated expansion date was on 06 January 2020 (95% CI: 11 December 2019–22 January 2020), which may be related to the New Year holiday.
+
+  # / May, 2020 - Zoological Research
+  # let !j self assert = Before 06 January 2020, 129 patients were identified as SARS-CoV-2 infected through field investigations. Of 22 genomes (17.05% of 129 patients) sequenced before 06 January 2020 in Wuhan, China, 13 haplotypes (22.41% of 58 haplotypes) were recovered, which were H1 and its derived descendant haplotypes, and H3.
 
   / May, 2020 - Zoological Research
-  let !d self assert = Estimation of the substitution rates using 90 genomes of SARS-CoV-2 showed that the rate for SARS-CoV-2 was close to or lower than the rates for MERS-CoV and SARS-CoV. Due to the mild symptoms and low mortality, the immune systems of the infected humans may provide a suitable environment for propagation of SARS-CoV-2. SARS-CoV-2 is highly infectious and is able to infect humans not only through the mucous membranes of the nose and mouth, but also use the mucous membranes in the eyes which may boost regional circulation and large-scale spread.
+  let !k self assert = Mismatch distribution analysis of the 22 genomes before 06 January 2020 also showed a sudden population expansion of SARS-CoV-2. This earlier population expansion time was estimated at 28.38 days before 05 January 2020, which was the latest sampling date of the 22 genomes. This earlier expansion date was thus estimated to have occurred on 08 December 2019, when there was only one infected patient officially reported. This suggests that SARS-CoV-2 might have already circulated widely among humans in Wuhan before December 2019, probably beginning in mid to late November.
+
+  # / May, 2020 - Zoological Research
+  # let !l self assert = Evolutionary relationships of SARS-CoV-2 haplotypes: Phylogenetic networks showed that the 58 haplotypes were clustered into two main clades. Clade I included 19 haplotypes and Clade II included 39 haplotypes. The outgroup bat-RaTG13-CoV was connected to Clade I, supposed to be an ancestral clade for Clade II. The long branches of H15 and H17 correspond to an excessive amount of mutations, which are possibly affected by sequencing errors, but this is still to be determined.
+
+  # / May, 2020 - Zoological Research
+  # let !m self assert = Three different datasets were used to infer evolutionary networks, which consistently supported H13 and H38 as the potentially ancestral haplotypes, i.e., the outgroup bat-RaTG13-CoV could connect to both H13 and H38, or H38 alone, or through a medium vector mv1 (an intermediate host or the first infected humans) connected to both H13 and H38 by single mutations at positions 18067 (S, synonymous substitution) and/or 29102 (S), referring to the numbering of the alignment length 29 910 bp.
+
+  # / May, 2020 - Zoological Research
+  # let !k self assert = The H1, H3, and H13 were three core haplotypes, so that Groups A–C were recognized using them as the central (i.e., ancestral super-spreader) haplotypes. Groups D and E were recognized based on two new super-spreader haplotypes, H56 and a medium vector mv2, which was a hypothesized (often ancestral) haplotype not sampled in the current samples. These two groups can be also treated as subgroups of Group C.
+
+  # / May, 2020 - Zoological Research
+  # let !k self assert = Moreover, the SH-like approximate likelihood ratio test further enhanced the phylogenetic relationship retrieved from 58 haplotypes, that either H13 or H38 (with H45) appeared in the basal lineages, although it was difficult to distinguish which one, H13 or H38, originated earlier.
+
+  # / May, 2020 - Zoological Research
+  # let !n self assert = In the network, four satellite haplotypes and H35 connected to H13 (Group A), and nine satellite haplotypes and H38+H45 and H50 connected to H3 (Group B). The connections between the H3 and H1 are two mutations at positions 8789 (S) and 28151 (NS, non-synonymous substitution), the latter mutation changed both residues and the biochemical properties of the AA. This biochemical change may be associated with the infectivity of SARS-CoV-2.
+
+  # / May, 2020 - Zoological Research
+  # let !m self assert = The H1 haplotype, the most abundant, included 19 samples, while 26 satellite haplotypes and H40+(H43 and H47) haplotypes are directly derived from H1 (Group C). Moreover, five haplotypes of Group D and four haplotypes of Group E were also derived from H1.
 
   / May, 2020 - Zoological Research
-  let !e self assert = Of the 93 genomes of SARS-CoV-2, 39 (41.93%) were from infected patients in 11 countries outside China and encoded 31 haplotypes (Hd=0.987±0.009 (SD), Pi=0.16×10–3±0.01×10–3), with 27 nationally/regionally private haplotypes. The 54 genomes (58.07%) from China also encoded 31 haplotypes (Hd=0.906±0.001 (SD), Pi=0.14×10–3±0.03×10–3). A proportion Z-test showed significant differences in haplotype diversity of samples between China and other countries (χ2=4.024, df=1, P<0.05). The high haplotype diversity found in samples from other countries may be because the sampling dates were mostly after 22 January 2020, while those in China were before this date. In addition, the low level of radiation exposure on long-distance international flights may have accelerated mutation rates of SARS-CoV-2.
+  let !o self assert = Phylogenetic networks showed that bat-RaTG13-CoV was nested with Group B in Clade I, and Clade II tends to be derived from Clade I, i.e., H1 and its descendant haplotypes were new mutants from an ancestral haplotype in Clade I. The rooted network suggested two potential evolutionary paths of available haplotypes that can be from H13 through H3 to H1 and H38, or from H38 through H3 to H1 and H13. Both scenarios suggested that H3 might be the ancestral haplotype of H1.
 
   / May, 2020 - Zoological Research
-  let !f self assert = Population size expansion of SARS-CoV-2: The population size of SARS-CoV-2 was rapidly increasing. Mismatch distribution analysis using Arlequin strongly supported that the population of SARS-CoV-2 underwent sudden expansion (τ=2.887, Sum of Squared deviation, SSD=0.541×10–3, P=0.88, Harpendings Raggedness index, R=0.010, P=0.88). The calculated expansion was 28.72 days (95% Confident Interval: 12.29–54.36 days) ago.
+  let !p self assert = H13 was only recovered from five Shenzhen (Guangdong Province) samples, including patient 2 of the familial cluster. Two derived haplotypes were also only found in Shenzhen of Guangdong Province (H14 from the grandson of patient 2), and the other three haplotypes were found in three samples from Japan and one sample from Arizona in the United States.
 
   / May, 2020 - Zoological Research
-  let !g self assert = Of the 93 genomes, the latest one was sampled on 03 February 2020, so the estimated expansion date was on 06 January 2020 (95% CI: 11 December 2019–22 January 2020), which may be related to the New Year holiday. Before 06 January 2020, 129 patients were identified as SARS-CoV-2 infected through field investigations. Of 22 genomes (17.05% of 129 patients) sequenced before 06 January 2020 in Wuhan, China, 13 haplotypes (22.41% of 58 haplotypes) were recovered, which were H1 and its derived descendant haplotypes, and H3. Coincidentally, the China CDC (Chinese Center for Disease Control and Prevention) started to activate a Level-2 emergency response on 06 January 2020. The China CDC’s emergency response greatly reduced public activities and travel, and might have reduced the local circulation and large-scale spread in the following weeks of January.
+  let !q self assert = According to an epidemiological study, the Shenzhen family could have been infected during their visit to Wuhan. This suggests that H13 might have originated from Wuhan. Genetically, haplotypes of Group A have links to only Wuhan haplotype H3 (only EPI_ISL_406801). It is possible that H13 was newly derived from H3 and did not spread in Wuhan, or that three repatriated Japanese might be infected by an unknown source of H13 in Wuhan, China or somewhere else, or that no samples have been sequenced yet.
 
   / May, 2020 - Zoological Research
-  let !h self assert = Mismatch distribution analysis of the 22 genomes before 06 January 2020 also showed a sudden population expansion of SARS-CoV-2 at an earlier stage of transmission (τ=2.818, SSD=0.010, P=0.41, R=0.046, P=0.57, Tajima’s D=–2.241, P<0.001; Fus Fs=–7.834, P<0.001). This earlier population expansion time was estimated at 28.38 days (95% CI: 12.00–54.36 days) before 05 January 2020, which was the latest sampling date of the 22 genomes. This earlier expansion date was thus estimated to have occurred on 08 December 2019 (95% CI: 13 November 2019–26 December 2019), when there was only one infected patient officially reported. This suggests that SARS-CoV-2 might have already circulated widely among humans in Wuhan before December 2019, probably beginning in mid to late November.
+  let !r self assert = H38 has three genomes from the same patient, who was the first identified infected patient in the United States. This patient might have been infected while visiting his family in Wuhan, China, or was infected in some other place. The original source of H38 can be explained as that of H13, which can be also derived from H3, and the derived H45 was from a Chongqing patient who was reported as working in Wuhan and had no link to the Huanan Market.
 
   / May, 2020 - Zoological Research
-  let !i self assert = Evolutionary relationships of SARS-CoV-2 haplotypes: Phylogenetic networks showed that the 58 haplotypes were clustered into two main clades. Clade I included 19 haplotypes and Clade II included 39 haplotypes. The outgroup bat-RaTG13-CoV was connected to Clade I, supposed to be an ancestral clade for Clade II. The long branches of H15 and H17 correspond to an excessive amount of mutations, which are possibly affected by sequencing errors, but this is still to be determined.
+  let !s self assert = The H3 haplotype has only one sample from Wuhan, which was not linked to the Huanan Market, and the other samples in this group were from outside of Wuhan. Noteworthily, all the samples from the Market belonged to H1 or its derived haplotypes (H2, H8-H12) indicating that there were circulated infections within the market in the short term.
 
   / May, 2020 - Zoological Research
-  let !j self assert = Three different datasets were used to infer evolutionary networks, which consistently supported H13 and H38 as the potentially ancestral haplotypes, i.e., the outgroup bat-RaTG13-CoV could connect to both H13 and H38, or H38 alone, or through a medium vector mv1 (an intermediate host or the first infected humans) connected to both H13 and H38 by single mutations at positions 18067 (S, synonymous substitution) and/or 29102 (S), referring to the numbering of the alignment length 29 910 bp
+  let !t self assert = In this study, evolutionary relationships indicated that H1 and its descendant haplotypes from the Market should be derived from H3. H3 mutated to the H1 by two substitutions, and none of the currently available Market samples encoded H3, suggesting that H3 might have originated and spread outside of the Market before an early stage of population expansion.
 
   / May, 2020 - Zoological Research
-  let !k self assert = The H1, H3, and H13 were three core haplotypes, so that Groups A–C were recognized using them as the central (i.e., ancestral super-spreader) haplotypes. Groups D and E were recognized based on two new super-spreader haplotypes, H56 and a medium vector mv2, which was a hypothesized (often ancestral) haplotype not sampled in the current samples. These two groups can be also treated as subgroups of Group C. Moreover, the SH-like approximate likelihood ratio test further enhanced the phylogenetic relationship retrieved from 58 haplotypes, that either H13 or H38 (with H45) appeared in the basal lineages, although it was difficult to distinguish which one, H13 or H38, originated earlier.
+  let !u self assert = The non-synonymous mutation from H3 to H1 might have enhanced the infectiousness of SARS-CoV-2, and a functional characterization should be performed to confirm this speculation. It is possible that SARS-CoV-2 in the Market had been transmitted from other places, or at least, that the Market did not host the original source of SARS-CoV-2. As the first identified infected patients had no link to the Market.
+
+  # / May, 2020 - Zoological Research
+  # let !v self assert = Due to insufficient sampling from Wuhan in the currently available samples, it is not clear whether H3 never appeared in the Market, or H1 was quickly derived from H3 to adapt in the Market.
+
+  # / May, 2020 - Zoological Research
+  # let !w self assert = Of the 54 genomes from patients in China, Chongqing (3 samples), Guangdong (18), Hubei (22), Taiwan (2), and Zhejiang (4) have more than two samples, and the other five provinces have one sample. Hubei (Wuhan) samples dated from 24 December 2019 to 05 January 2020 encoded 13 haplotypes, belonging to Groups C (H1 and 11 satellite haplotypes) and B (only H3). These relationships indicated a rapid transmission and circulation of SARS-CoV-2 in Wuhan at an early stage of human-to-human transmissions.
+
+  # / May, 2020 - Zoological Research
+  # let !x self assert = H1 (no satellite haplotypes) and H3 are the ancestors of haplotypes outside of Wuhan/Hubei because most of early confirmed patients might have history in Wuhan or Hubei. Eighteen Guangdong samples, collected from 10–23 January 2020, encoded 15 haplotypes, belonging to Groups A, C, and E, showing that there were multiple sources imported into Guangdong. Three haplotypes (H14, H15, and H17) may have evolved locally, indicating that human-to-human transmissions happened when SARS-CoV-2 initially spread to Shenzhen in Guangdong Province. Two samples from Taiwan Province, China, encoded H3 and H24 in Groups B and D, respectively, and three samples from Chongqing encoded H1, H40, and H45 in Groups B and C, respectively. There were two sources imported into these two provinces. Four Zhejiang samples encoded H1 and H24 in Group C, which might be only imported from the source of the H1 haplotype.
 
   / May, 2020 - Zoological Research
-  let !l self assert = In the network, four satellite haplotypes and H35 connected to H13 (Group A), and nine satellite haplotypes and H38+H45 and H50 connected to H3 (Group B). The connections between the H3 and H1 are two mutations at positions 8789 (S) and 28151 (NS, non-synonymous substitution), the latter mutation changed both residues and the biochemical properties of the AA. This biochemical change may be associated with the infectivity of SARS-CoV-2. The H1 haplotype, the most abundant, included 19 samples, while 26 satellite haplotypes and H40+(H43 and H47) haplotypes are directly derived from H1 (Group C). Moreover, five haplotypes of Group D and four haplotypes of Group E were also derived from H1.
+  let !y self assert = The samples outside China encoded 31 haplotypes belonging to Groups A–E. Of these, 27 haplotypes are private by regional samplings, only two samples from Thailand were the H1 haplotype, one each from Australia and Belgium were the H3 haplotype, one from the United States was the H19 haplotype, and one from Singapore was the H40 haplotype.
+
+  # / May, 2020 - Zoological Research
+  # let !z self assert = Twelve samples, encoding 10 haplotypes, were from patients in five countries in Asia. Six haplotypes linked to H1, and two each linked to H3 and H1, respectively, indicating the 12 patients were infected by different sources. Human-to-human transmissions may have happened from patients with H53 to H52 haplotypes in Tokyo, Japan. Five Australian samples, encoding six haplotypes in Groups B, C, and D, were from patients of three states. Patients with H3, H25 and H26, and with H55 were in Groups B and C, respectively, and human-to-human transmission might have happened from the patients with H25 to H26, who were in a same tour group in Queensland. The connection between the patients with H56 and H27 is not clear. One possibility is that there was an intermediary spreader with H56, who also transmitted SARS-CoV-2 to other patients in France, the United States, and Taiwan Province of China. 18 European samples, encoding 7 haplotypes, were from patients in 4 countries.
+
+  # / May, 2020 - Zoological Research
+  # let !aa self assert = The patients in England were reported as a household transmission from H28 to H29. The patients in France may have been infected by three different sources, i.e., H44 was linked to H1, H43 might link to H40 (in Chongqing, Singapore or somewhere else), and H30 might link to an intermediary spreader with H56. Of the 13 genomes from the United States, three were from the same patient in Washington encoding the same haplotype H38, while the other ten samples encoded eight haplotypes, covering all five groups, so the sources of infections are complicated. There is no evidence of human-to-human transmission in the United States from these 11 cases. To clarify the exact origins of these haplotypes outside China, we need more epidemiological investigative efforts and more SARS-CoV-2 genomic data from patients at the early stage of transmissions.
+
+  # / May, 2020 - Zoological Research
+  # let !ab self assert = Evolutionary analyses suggested that the source of the H1 haplotype in the Huanan Market was imported from elsewhere, as has been suggested by other researchers.
+
+  # / May, 2020 - Zoological Research
+  # let !ac self assert = The rooted network suggested that H13 and H38 should be ancestral haplotypes that connected to the outgroup bat-RaTG13-CoV through a hypothesized intermediate haplotype. The most common ancestral haplotype was missed because the currently available samples do not include the first identified infected patient and other patients from early December, and because of the relatively high mutation rate of the viral genome. If there are any frozen samples from those patients, it would be worth doing genomic sequencing for phyloepidemiologic study to help to locate the birthplace of SARS-CoV-2. Meanwhile, we expect that the H13 and H38 haplotypes might be found in some samples from infected patients in Wuhan or in other places across the world if more samples are sequenced in future.
 
   / May, 2020 - Zoological Research
-  let !m self assert = The Huanan Seafood Wholesale Market boosted human-to-human transmission at an early stage: Phylogenetic networks showed that bat-RaTG13-CoV was nested with Group B in Clade I, and Clade II tends to be derived from Clade I, i.e., H1 and its descendant haplotypes were new mutants from an ancestral haplotype in Clade I. The rooted network suggested two potential evolutionary paths of available haplotypes that can be from H13 through H3 to H1 and H38, or from H38 through H3 to H1 and H13. Both scenarios suggested that H3 might be the ancestral haplotype of H1.
+  let !ad self assert = The confirmed patients from the Huanan Market shared the common ancestral haplotype H1, indicating they might be infected from a common source, who may have been a super-spreader in the market. This approach has recovered potentially specific directions of human-to-human transmission in the Shenzhen family (H13 → H14), the Queensland tour group (H25 → H26), the England family (H28 → H29), and the Japanese (H53 → H52). We suspect that there were super-spreaders mediating the spread of SARS-CoV-2 at the early stage of transmissions.
 
   / May, 2020 - Zoological Research
-  let !n self assert = H13 was only recovered from five Shenzhen (Guangdong Province) samples, including patient 2 of the familial cluster. Two derived haplotypes were also only found in Shenzhen of Guangdong Province (H14 from the grandson of patient 2), and the other three haplotypes were found in three samples from Japan and one sample from Arizona in the United States.
+  let !ae self assert = Our findings showed that SARS-CoV-2 has not had legitimate recombination. Thus, the haplotype-based phyloepidemiologic analyses provide a powerful way to understand the evolution of SARS-CoV-2 at the very early stage of transmission when reverse mutations and illegitimate recombination are rare. In our analysis, recombination is rejected but the outgroup bat-RaTG13-CoV is relatively highly diverged from SARS-CoV-2 haplotypes, which may affect the phyloepidemiologic analyses.
 
-  / May, 2020 - Zoological Research
-  let !o self assert = According to an epidemiological study, the Shenzhen family could have been infected during their visit to Wuhan. This suggests that H13 might have originated from Wuhan. Genetically, haplotypes of Group A have links to only Wuhan haplotype H3 (only EPI_ISL_406801). It is possible that H13 was newly derived from H3 and did not spread in Wuhan, or that three repatriated Japanese might be infected by an unknown source of H13 in Wuhan, China or somewhere else, or that no samples have been sequenced yet.
-
-  / May, 2020 - Zoological Research
-  let !p self assert = H38 has three genomes from the same patient, who was the first identified infected patient in the United States. This patient might have been infected while visiting his family in Wuhan, China, or was infected in some other place. The original source of H38 can be explained as that of H13, which can be also derived from H3, and the derived H45 was from a Chongqing patient who was reported as working in Wuhan and had no link to the Huanan Market.
-
-  / May, 2020 - Zoological Research
-  let !q self assert = The H3 haplotype has only one sample from Wuhan, which was not linked to the Huanan Market, and the other samples in this group were from outside of Wuhan. Noteworthily, all the samples from the Market belonged to H1 or its derived haplotypes (H2, H8-H12) indicating that there were circulated infections within the market in the short term.
-
-  / May, 2020 - Zoological Research
-  let !r self assert = In this study, evolutionary relationships indicated that H1 and its descendant haplotypes from the Market should be derived from H3. H3 mutated to the H1 by two substitutions, and none of the currently available Market samples encoded H3, suggesting that H3 might have originated and spread outside of the Market before an early stage of population expansion.
-
-  / May, 2020 - Zoological Research
-  let !s self assert = The non-synonymous mutation from H3 to H1 might have enhanced the infectiousness of SARS-CoV-2, and a functional characterization should be performed to confirm this speculation. It is possible that SARS-CoV-2 in the Market had been transmitted from other places, or at least, that the Market did not host the original source of SARS-CoV-2. As the first identified infected patients had no link to the Market.
-
-  / May, 2020 - Zoological Research
-  let !t self assert = It is possible that infected humans transmitted the H1 haplotype of SARS-CoV-2 to workers or sellers in the market, after which it rapidly circulated there due to its special surroundings. The crowded market boosted SARS-CoV-2 transmissions to buyers and spread it to the whole city in early December 2019, corresponding to the estimated population expansion time. Due to insufficient sampling from Wuhan in the currently available samples, it is not clear whether H3 never appeared in the Market, or H1 was quickly derived from H3 to adapt in the Market.
-
-  / May, 2020 - Zoological Research
-  let !u self assert = Regional and worldwide circulation and spread: Of the 54 genomes from patients in China, Chongqing (3 samples), Guangdong (18), Hubei (22), Taiwan (2), and Zhejiang (4) have more than two samples, and the other five provinces have one sample. Hubei (Wuhan) samples dated from 24 December 2019 to 05 January 2020 encoded 13 haplotypes, belonging to Groups C (H1 and 11 satellite haplotypes) and B (only H3). These relationships indicated a rapid transmission and circulation of SARS-CoV-2 in Wuhan at an early stage of human-to-human transmissions.
-
-  / May, 2020 - Zoological Research
-  let !v self assert = H1 (no satellite haplotypes) and H3 are the ancestors of haplotypes outside of Wuhan/Hubei because most of early confirmed patients might have history in Wuhan or Hubei. Eighteen Guangdong samples, collected from 10–23 January 2020, encoded 15 haplotypes, belonging to Groups A, C, and E, showing that there were multiple sources imported into Guangdong. Three haplotypes (H14, H15, and H17) may have evolved locally, indicating that human-to-human transmissions happened when SARS-CoV-2 initially spread to Shenzhen in Guangdong Province. Two samples from Taiwan Province, China, encoded H3 and H24 in Groups B and D, respectively, and three samples from Chongqing encoded H1, H40, and H45 in Groups B and C, respectively. There were two sources imported into these two provinces. Four Zhejiang samples encoded H1 and H24 in Group C, which might be only imported from the source of the H1 haplotype.
-
-  / May, 2020 - Zoological Research
-  let !w self assert = The samples outside China encoded 31 haplotypes belonging to Groups A–E. Of these, 27 haplotypes are private by regional samplings, only two samples from Thailand were the H1 haplotype, one each from Australia and Belgium were the H3 haplotype, one from the United States was the H19 haplotype, and one from Singapore was the H40 haplotype.
-
-  / May, 2020 - Zoological Research
-  let !x self assert = Twelve samples, encoding 10 haplotypes, were from patients in five countries in Asia. Six haplotypes linked to H1, and two each linked to H3 and H1, respectively, indicating the 12 patients were infected by different sources. Human-to-human transmissions may have happened from patients with H53 to H52 haplotypes in Tokyo, Japan. Five Australian samples, encoding six haplotypes in Groups B, C, and D, were from patients of three states. Patients with H3, H25 and H26, and with H55 were in Groups B and C, respectively, and human-to-human transmission might have happened from the patients with H25 to H26, who were in a same tour group in Queensland. The connection between the patients with H56 and H27 is not clear. One possibility is that there was an intermediary spreader with H56, who also transmitted SARS-CoV-2 to other patients in France, the United States, and Taiwan Province of China. 18 European samples, encoding 7 haplotypes, were from patients in 4 countries.
-
-  / May, 2020 - Zoological Research
-  let !y self assert = The patients in England were reported as a household transmission from H28 to H29. The patients in France may have been infected by three different sources, i.e., H44 was linked to H1, H43 might link to H40 (in Chongqing, Singapore or somewhere else), and H30 might link to an intermediary spreader with H56. Of the 13 genomes from the United States, three were from the same patient in Washington encoding the same haplotype H38, while the other ten samples encoded eight haplotypes, covering all five groups, so the sources of infections are complicated. There is no evidence of human-to-human transmission in the United States from these 11 cases. To clarify the exact origins of these haplotypes outside China, we need more epidemiological investigative efforts and more SARS-CoV-2 genomic data from patients at the early stage of transmissions.
-
-  / May, 2020 - Zoological Research
-  let !z self assert = Phylogenetic approaches provide insights into the epidemiology of SARS-CoV-2: Evolutionary analyses suggested that the source of the H1 haplotype in the Huanan Market was imported from elsewhere, as has been suggested by other researchers.
-
-  / May, 2020 - Zoological Research
-  let !aa self assert = The rooted network suggested that H13 and H38 should be ancestral haplotypes that connected to the outgroup bat-RaTG13-CoV through a hypothesized intermediate haplotype. The most common ancestral haplotype was missed because the currently available samples do not include the first identified infected patient and other patients from early December, and because of the relatively high mutation rate of the viral genome. If there are any frozen samples from those patients, it would be worth doing genomic sequencing for phyloepidemiologic study to help to locate the birthplace of SARS-CoV-2. Meanwhile, we expect that the H13 and H38 haplotypes might be found in some samples from infected patients in Wuhan or in other places across the world if more samples are sequenced in future. This will be very helpful in the search for the original sources of SARS-CoV-2, because both H13 and H38 tend to be ancestral haplotypes.
-
-  / May, 2020 - Zoological Research
-  let !ab self assert = For example, the confirmed patients from the Huanan Market shared the common ancestral haplotype H1, indicating they might be infected from a common source, who may have been a super-spreader in the market. This approach has recovered potentially specific directions of human-to-human transmission in the Shenzhen family (H13 → H14), the Queensland tour group (H25 → H26), the England family (H28 → H29), and the Japanese (H53 → H52). It is possible that some infections could link to Wuhan or Hubei directly or indirectly, because the patients claimed connections to Wuhan or Hubei, but for some of them it is not clear exactly where they were infected. We suspect that there were super-spreaders mediating the spread of SARS-CoV-2 at the early stage of transmissions.
-
-  / May, 2020 - Zoological Research
-  let !ac self assert = Our findings showed that SARS-CoV-2 has not had legitimate recombination. Thus, the haplotype-based phyloepidemiologic analyses provide a powerful way to understand the evolution of SARS-CoV-2 at the very early stage of transmission when reverse mutations and illegitimate recombination are rare. In our analysis, recombination is rejected but the outgroup bat-RaTG13-CoV is relatively highly diverged from SARS-CoV-2 haplotypes, which may affect the phyloepidemiologic analyses.
-
-  / May, 2020 - Zoological Research
-  let !ad self assert = Based on the estimated mutation rate of current SARS-CoV-2 viruses, the reverse mutations should be 6×10−3 (0.92×10−3×0.92×10−3 per site per year×29 358 sites×2/12 year), with a neglectable influence on our result. But our observations leave one important question: why are ancestral haplotypes, like H13 and H38, less frequent than H1? It is highly possible that H1 acquired adaptive mutations, such as NS of site 28151, from H3 or H13 (and/or H38), evolved in an independent circulation after they jumped into intermediate hosts or directly transmitted to humans, which should be investigated in future studies if more early genome datasets are available. The exact original sources of H13 and H38 will stay as unsolved mysteries if the early stage samples were not preserved.
+  # / May, 2020 - Zoological Research
+  # let !af self assert = Based on the estimated mutation rate of current SARS-CoV-2 viruses, the reverse mutations should be 6×10−3 (0.92×10−3×0.92×10−3 per site per year×29 358 sites×2/12 year), with a neglectable influence on our result. But our observations leave one important question: why are ancestral haplotypes, like H13 and H38, less frequent than H1? It is highly possible that H1 acquired adaptive mutations, such as NS of site 28151, from H3 or H13 (and/or H38), evolved in an independent circulation after they jumped into intermediate hosts or directly transmitted to humans, which should be investigated in future studies if more early genome datasets are available. The exact original sources of H13 and H38 will stay as unsolved mysteries if the early stage samples were not preserved.
 
 
 
@@ -3909,52 +3698,51 @@ ref 'Sharma_et_al_07_08_2020
   // Estimating the effects of non-pharmaceutical interventions on COVID-19 in Europe
   doi: https://doi.org/10.1038/s41586-020-2405-7
   ref 'Flaxman_et_al_06_08_2020
-  head = We estimate that, for all the countries we consider, current interventions have been sufficient to drive the reproduction number 𝑅𝑡 below 1 (probability 𝑅𝑡< 1.0 is 99.9%) and achieve epidemic control. We estimate that, across all 11 countries, between 12 and 15 million individuals have been infected with SARS-CoV-2 up to 4th May, representing between 3.2% and 4.0% of the population. Our results show that major non-pharmaceutical interventions and lockdown in particular have had a large effect on reducing transmission. Continued intervention should be considered to keep transmission of SARS-CoV-2 under control.
+  head = Given the observed infection fatality ratios and the epidemiology of COVID-19, major non-pharmaceutical interventions and lockdown in particular have had a large effect on reducing transmission. In all countries in this study we find that these interventions have reduced the reproduction number below one and have contained their epidemics at the current time. When looking at simplistic counterfactuals over the whole epidemic the number of potential deaths averted is substantial.
 
   >>> Abstract
     Following the emergence of a novel coronavirus1 (SARS-CoV-2) and its spread outside of China, Europe has experienced large epidemics. In response, many European countries have implemented unprecedented non-pharmaceutical interventions such as closure of schools and national lockdowns. We study the impact of major interventions across 11 European countries for the period from the start of COVID-19 until the 4th of May 2020 when lockdowns started to be lifted. Our model calculates backwards from observed deaths to estimate transmission that occurred several weeks prior, allowing for the time lag between infection and death. We use partial pooling of information between countries with both individual and shared effects on the reproduction number. Pooling allows more information to be used, helps overcome data idiosyncrasies, and enables more timely estimates. Our model relies on fixed estimates of some epidemiological parameters such as the infection fatality rate, does not include importation or subnational variation and assumes that changes in the reproduction number are an immediate response to interventions rather than gradual changes in behavior. Amidst the ongoing pandemic, we rely on death data that is incomplete, with systematic biases in reporting, and subject to future consolidation. We estimate that, for all the countries we consider, current interventions have been sufficient to drive the reproduction number 𝑅𝑡 below 1 (probability 𝑅𝑡< 1.0 is 99.9%) and achieve epidemic control. We estimate that, across all 11 countries, between 12 and 15 million individuals have been infected with SARS-CoV-2 up to 4th May, representing between 3.2% and 4.0% of the population. Our results show that major non-pharmaceutical interventions and lockdown in particular have had a large effect on reducing transmission. Continued intervention should be considered to keep transmission of SARS-CoV-2 under control.
 
   -- exports
     !a
-    !b
-    !c
-    !d
-    !e
-    !f
-    !g
-    !h
-    !i
-    !j
+    !k
+    !l
 
   / June, 2020 - Nature
-  let !a self assert = In Italy, our results suggest that, cumulatively, 2.8 [2.2-3.5] million people have been infected as of May 4th, giving an attack rate of 4.6% [3.6%-5.8%] of the population. In Spain, which has also experienced a large number of deaths we estimate 5.5% of the population (2.6 [2.1-3.3] million people) have been infected to date. Germany, the most populous country in our study, is estimated to have one of the lowest attack rates at 0.85% with 710,000 [550,000-930,000] people infected. Belgium has the highest estimated attack rates of 8% followed by Spain with 5.5%. While there have still been few reliable national serological studies5, initial small scale surveys in Austria and Denmark are closely aligned with our estimates. A much larger study in Spain is very closely aligned with our estimates. These initial results, to some extent, validate our choice of infection fatality rate.
+  let !a self assert = In Italy, our results suggest that, cumulatively, 2.8 million people have been infected as of May 4th, giving an attack rate of 4.6% of the population. In Spain, which has also experienced a large number of deaths we estimate 5.5% of the population have been infected to date. Germany, the most populous country in our study, is estimated to have one of the lowest attack rates at 0.85% with 710,000 people infected. Belgium has the highest estimated attack rates of 8% followed by Spain with 5.5%.
+
+  # / June, 2020 - Nature
+  # let !b self assert = We estimate large reductions in the reproduction number Rt in response to the combined non-pharmaceutical interventions. Our results, which are driven more by countries with advanced epidemics and larger numbers of deaths, suggest that these interventions have together had a substantial impact on transmission, as measured by changes in the estimated Rt.
+
+  # / June, 2020 - Nature
+  # let !c self assert = At the time of this study we find current estimates of Rt to range from a posterior mean of 0.44 [0.26 – 0.61] for Norway to a posterior mean of 0.82 [0.73 – 0.93] for Belgium, with an average of 0.66 across the 11 countries, an 82% reduction compared to the pre-intervention values.
+
+  # / June, 2020 - Nature
+  # let !d self assert = For all countries we find the current reproduction number significantly below 1. Overall, we can conclude that current interventions have been sufficient to drive the reproduction number Rt below 1 (probability Rt < 1.0 is 99.9% across all countries we consider) and achieve epidemic control. These conclusions are corroborated by individual country studies from a similar period see (France, Spain, Germany and the UK), which arrive at very similar estimates despite different methodologies and data.
+
+  # / June, 2020 - Nature
+  # let !e self assert = Saljie et al 2020 estimate an Rt of 0.67 (we estimate 0.68) for France using hospitalization records, and the Robert Koch Institute for Germany reports Rt of 0.76 (we estimate 0.71) using electronically notified cases. The retrospective stability of our model is variable when the implementations of interventions are very dissimilar; an example of this is seen in Sweden, where interventions were dissimilar to other countries and led to large uncertainty initially.
+
+  # / June, 2020 - Nature
+  # let !f self assert = Our model uncertainty is also dependent on the magnitude of Rt; this occurs because infections are a nonlinear function of Rt and are sensitive to small increases. Uncertainty shrinks greatly when Rt is reduced. Examples of this effect are seen in all countries but is most pronounced in Belgium and France which show large uncertainty in the number of infections in the early epidemic. Our choice of parameterizing Rt using piecewise constant functions means that we cannot capture fine scale variation that could be achieved by using additional covariates.
+
+  # / June, 2020 - Nature
+  # let !g self assert = Lockdown has an identifiable large impact on transmission (81% [75%- 87%] reduction). The close spacing of interventions in time mean the individual effects of the other interventions are not identifiable.
+
+  # / June, 2020 - Nature
+  # let !h self assert = Our partial pooling model requires only one country to provide a signal for the impact of a given intervention, and then this effect is shared across all countries. While this sharing can potentially lead to initial over/under estimation of intervention impact, it also means that a consistent signal for all countries can be estimated before that signal is presented in an individual countries data. Therefore, this sharing is potentially useful for early warning by leveraging what happens in other countries with older data to inform those with newer data.
+
+  # / June, 2020 - Nature
+  # let !i self assert =  We find that, across 11 countries, since the beginning of the epidemic, 3,100,000 [2,800,000- 3,500,000] deaths have been averted due to interventions.
+
+  # / June, 2020 - Nature
+  # let !j self assert = The counterfactual model without interventions is illustrative only and reflects our model assumptions. We do not account for changes in behavior; in reality even in the absence of government interventions we would expect Rt to decrease and therefore would overestimate deaths in the no-intervention model. Conversely, we do not consider the impact on the infection fatality rate as a result of an overwhelmed health system in which patients may not be able to access critical care facilities, which would underestimate the number of counterfactual deaths. In the Supplementary Material we show counterfactuals under differing assumptions of the generation distribution and onset-to-death distribution and all scenarios broadly show the same trends. Given this agreement in differing scenarios we believe our estimates for the counterfactual deaths averted to be plausible.
 
   / June, 2020 - Nature
-  let !b self assert = We estimate large reductions in the reproduction number Rt in response to the combined non-pharmaceutical interventions. Our results, which are driven more by countries with advanced epidemics and larger numbers of deaths, suggest that these interventions have together had a substantial impact on transmission, as measured by changes in the estimated Rt.
+  let !k self assert = We estimate that there have been many more infections than are currently reported. The high level of under-ascertainment of infections that we estimate here is likely due to the focus on testing in hospital settings which misses milder or asymptomatic cases in the community.
 
   / June, 2020 - Nature
-  let !c self assert = At the time of this study we find current estimates of Rt to range from a posterior mean of 0.44 [0.26 – 0.61] for Norway to a posterior mean of 0.82 [0.73 – 0.93] for Belgium, with an average of 0.66 across the 11 countries, an 82% reduction compared to the pre-intervention values.
-
-  / June, 2020 - Nature
-  let !d self assert = For all countries we find the current reproduction number significantly below 1. Overall, we can conclude that current interventions have been sufficient to drive the reproduction number Rt below 1 (probability Rt < 1.0 is 99.9% across all countries we consider) and achieve epidemic control. These conclusions are corroborated by individual country studies from a similar period see (France, Spain, Germany and the UK), which arrive at very similar estimates despite different methodologies and data.
-
-  / June, 2020 - Nature
-  let !e self assert = Saljie et al 2020 estimate an Rt of 0.67 (we estimate 0.68) for France using hospitalization records, and the Robert Koch Institute for Germany reports Rt of 0.76 (we estimate 0.71) using electronically notified cases. The retrospective stability of our model is variable when the implementations of interventions are very dissimilar; an example of this is seen in Sweden, where interventions were dissimilar to other countries and led to large uncertainty initially.
-
-  / June, 2020 - Nature
-  let !f self assert = Our model uncertainty is also dependent on the magnitude of Rt; this occurs because infections are a nonlinear function of Rt and are sensitive to small increases. Uncertainty shrinks greatly when Rt is reduced. Examples of this effect are seen in all countries but is most pronounced in Belgium and France which show large uncertainty in the number of infections in the early epidemic. Our choice of parameterizing Rt using piecewise constant functions means that we cannot capture fine scale variation that could be achieved by using additional covariates.
-
-  / June, 2020 - Nature
-  let !g self assert = Lockdown has an identifiable large impact on transmission (81% [75%- 87%] reduction). The close spacing of interventions in time mean the individual effects of the other interventions are not identifiable.
-
-  / June, 2020 - Nature
-  let !h self assert = Our partial pooling model requires only one country to provide a signal for the impact of a given intervention, and then this effect is shared across all countries. While this sharing can potentially lead to initial over/under estimation of intervention impact, it also means that a consistent signal for all countries can be estimated before that signal is presented in an individual countries data. Therefore, this sharing is potentially useful for early warning by leveraging what happens in other countries with older data to inform those with newer data.
-
-  / June, 2020 - Nature
-  let !i self assert =  By comparing the deaths predicted under the model with no interventions to the deaths predicted in our intervention model, we calculated the total deaths averted in our study period. We find that, across 11 countries, since the beginning of the epidemic, 3,100,000 [2,800,000- 3,500,000] deaths have been averted due to interventions.
-
-  / June, 2020 - Nature
-  let !j self assert = The counterfactual model without interventions is illustrative only and reflects our model assumptions. We do not account for changes in behavior; in reality even in the absence of government interventions we would expect Rt to decrease and therefore would overestimate deaths in the no-intervention model. Conversely, we do not consider the impact on the infection fatality rate as a result of an overwhelmed health system in which patients may not be able to access critical care facilities, which would underestimate the number of counterfactual deaths. In the Supplementary Material we show counterfactuals under differing assumptions of the generation distribution and onset-to-death distribution and all scenarios broadly show the same trends. Given this agreement in differing scenarios we believe our estimates for the counterfactual deaths averted to be plausible.
+  let !l self assert = We estimate that only a relatively small minority of individuals in each country have been infected. Our estimates imply that the populations in Europe are not close to herd immunity (~70% if R0 is 3.814). Further, with Rt values below 1 in all countries, the rate of acquisition of herd immunity will slow down rapidly.
 
 
 
@@ -3962,7 +3750,7 @@ ref 'Sharma_et_al_07_08_2020
   // Sex differences in immune responses to SARS-CoV-2 that underlie disease outcomes
   doi: https://doi.org/10.1101/2020.06.06.20123414
   ref 'Takahashi_et_al_06_09_2020
-  head = These data indicate key differences in the baseline immune capabilities in men and women during the early phase of SARS-COV-2 infection, and suggest a potential immunological underpinning of the distinct mechanisms of disease progression between sexes. These analyses also provide a potential basis for taking sex-dependent approaches to prognosis, prevention, care, and therapy for patient with COVID19.
+  head = Our data indicates key differences in the baseline immune capabilities in men and women during the early phase of SARS-COV-2 infection, and suggest a potential immunological underpinning of the distinct mechanisms of disease progression between sexes. These analyses also provide a potential basis for taking sex-dependent approaches to prognosis, prevention, care, and therapy for patient with COVID19.
 
   >>> Abstract
     A growing body of evidence indicates sex differences in the clinical outcomes of coronavirus disease 2019 (COVID-19)1-4. However, whether immune responses against SARS-CoV-2 differ between sexes, and whether such differences explain male susceptibility to COVID-19, is currently unknown. In this study, we examined sex differences in viral loads, SARS-CoV-2-specific antibody titers, plasma cytokines, as well as blood cell phenotyping in COVID-19 patients. By focusing our analysis on patients with mild to moderate disease who had not received immunomodulatory medications, our results revealed that male patients had higher plasma levels of innate immune cytokines and chemokines including IL-8, IL-18, and CCL5, along with more robust induction of non-classical monocytes. In contrast, female patients mounted significantly more robust T cell activation than male patients during SARS-CoV-2 infection, which was sustained in old age. Importantly, we found that a poor T cell response negatively correlated with patients age and was predictive of worse disease outcome in male patients, but not in female patients. Conversely, higher innate immune cytokines in female patients associated with worse disease progression, but not in male patients. These findings reveal a possible explanation underlying observed sex biases in COVID-19, and provide important basis for the development of sex-based approach to the treatment and care of men and women with COVID-19.
@@ -3977,9 +3765,11 @@ ref 'Sharma_et_al_07_08_2020
     !g
     !h
     !i
+  -- Therapeutics frontiers
+    !j
 
   / June, 2020 - medRxiv
-  let !a self assert = In this study, we examined sex differences in viral loads, SARS-CoV-2-specific antibody titers, plasma cytokines, as well as blood cell phenotyping in COVID-19 patients. By focusing our analysis on patients with mild to moderate disease who had not received immunomodulatory medications, our results revealed that male patients had higher plasma levels of innate immune cytokines and chemokines including IL-8, IL-18, and CCL5, along with more robust induction of non-classical monocytes.
+  let !a self assert = By focusing our analysis on patients with mild to moderate disease who had not received immunomodulatory medications, our results revealed that male patients had higher plasma levels of innate immune cytokines and chemokines including IL-8, IL-18, and CCL5, along with more robust induction of non-classical monocytes.
 
   / June, 2020 - medRxiv
   let !b self assert = T cell responses were more robustly activated in female patients compared to male patients. In particular, activated CD8 T cells were significantly elevated only in female patients but not in male patients over healthy volunteers.
@@ -3994,23 +3784,26 @@ ref 'Sharma_et_al_07_08_2020
   let !e self assert = There was no significant difference in nasal or saliva viral RNA load, although women had lower mean viral load than men.
 
   / June, 2020 - medRxiv
-  let !f self assert = We found robust increase in ncMono in the male patients compared with female patients, while female patients had elevated intMono. ncMono patrol the endothelium in search of injury, and secrete inflammatory cytokines in response to infection, activate endothelial cells, and support the secondary recruitment of neutrophils.
+  let !f self assert = We found robust increase in ncMono in the male patients compared with female patients, while female patients had elevated intMono.
 
   / June, 2020 - medRxiv
-  let !g self assert = In contrast to the higher levels of innate cytokines, we found poor T cell activation in males with less induction of CD8 cells expressing CD38 and HLA-DR, two classical T cell activation markers. Studies have shown that this population exhibits high effector functions, such as proliferation, cytotoxicity, and cytokine production, and this subpopulation of activated CD8+ T cells performs an important function during acute viral infections, contributing to viral control. In fact, in our cohort, the male patients who progressed in disease severity had lower levels of CD38+ HLA-DR+ CD8 T cells at the first collection. In male patients, loss of activated T cells correlated with old age.
+  let !g self assert = In contrast to the higher levels of innate cytokines, we found poor T cell activation in males with less induction of CD8 cells expressing CD38 and HLA-DR, two classical T cell activation markers. Studies have shown that this population exhibits high effector functions, such as proliferation, cytotoxicity, and cytokine production, and this subpopulation of activated CD8+ T cells performs an important function during acute viral infections, contributing to viral control.
 
   / June, 2020 - medRxiv
-  let !h self assert = And of particular importance, we found that activation as well as IFNγ expression of CD8 T cells significantly decline along with age in male patients, while this correlation was not observed in female patients.
+  let !h self assert = In our cohort, the male patients who progressed in disease severity had lower levels of CD38+ HLA-DR+ CD8 T cells at the first collection. In male patients, loss of activated T cells correlated with old age.
 
   / June, 2020 - medRxiv
-  let !i self assert = Collectively, these data suggest that vaccines and therapies to elevate T cell immune response to SARS-CoV-2 might be warranted for male patients, while female patients might benefit from therapies that dampen innate immune activation early during disease. In summary, our data collectively suggest that the immune landscape in COVID-19 patients is considerably different between the sexes, and these differences may underlie heightened disease susceptibility in men.
+  let !i self assert = We found that activation as well as IFNγ expression of CD8 T cells significantly decline along with age in male patients, while this correlation was not observed in female patients.
+
+  / June, 2020 - medRxiv
+  let !j self assert = Collectively, these data suggest that vaccines and therapies to elevate T cell immune response to SARS-CoV-2 might be warranted for male patients, while female patients might benefit from therapies that dampen innate immune activation early during disease.
 
 
 
   // Stability of SARS-CoV-2 Phylogenies
   doi: https://doi.org/10.1101/2020.06.08.141127
   ref 'Turakhia_et_al_06_09_2020
-  head = Building on the SARS-CoV-2 Genome Browser at UCSC, we present a toolkit to compare, analyze and combine SARS-CoV-2 phylogenies, find and remove potential sequencing errors and establish a widely shared, stable clade structure for a more accurate scientific inference and discourse.
+  head = Building on the SARS-CoV-2 Genome Browser, we present a toolkit to compare, analyze and combine SARS-CoV-2 phylogenies, find and remove potential sequencing errors and establish a widely shared, stable clade structure for a more accurate scientific inference and discourse.
 
   >>> Abstract
     The SARS-CoV-2 pandemic has led to unprecedented, nearly real-time genetic tracing due to the rapid community sequencing response. Researchers immediately leveraged these data to infer the evolutionary relationships among viral samples and to study key biological questions, including whether host viral genome editing and recombination are features of SARS-CoV-2 evolution. This global sequencing effort is inherently decentralized and must rely on data collected by many labs using a wide variety of molecular and bioinformatic techniques. There is thus a strong possibility that systematic errors associated with lab-specific practices affect some sequences in the repositories. We find that some recurrent mutations in reported SARS-CoV-2 genome sequences have been observed predominantly or exclusively by single labs, co-localize with commonly used primer binding sites and are more likely to affect the protein coding sequences than other similarly recurrent mutations. We show that their inclusion can affect phylogenetic inference on scales relevant to local lineage tracing, and make it appear as though there has been an excess of recurrent mutation and/or recombination among viral lineages. We suggest how samples can be screened and problematic mutations removed. We also develop tools for comparing and visualizing differences among phylogenies and we show that consistent clade- and tree-based comparisons can be made between phylogenies produced by different groups. These will facilitate evolutionary inferences and comparisons among phylogenies produced for a wide array of purposes. Building on the SARS-CoV-2 Genome Browser at UCSC, we present a toolkit to compare, analyze and combine SARS-CoV-2 phylogenies, find and remove potential sequencing errors and establish a widely shared, stable clade structure for a more accurate scientific inference and discourse.
@@ -4025,23 +3818,14 @@ ref 'Sharma_et_al_07_08_2020
   // Preliminary analysis of SARS-CoV-2 importation & establishment of UK transmission lineages
   doi: https://doi.org/xyz
   ref 'Pybus_et_al_06_08_2020
-  head = This is an initial descriptive summary of the genetic structure of the UK epidemic. Here we provide estimates of trends through time in the number and sources of SARS-CoV-2 introductions into the UK. We obtain these estimates by combining data on the numbers of inbound travellers to the UK, estimated numbers of infections worldwide, and large-scale virus genome sequencing undertaken by the COG-UK consortium. We have detected 1356 transmission lineages in the UK to date. For methodological reasons this is likely to be an underestimate of the actual number of times the virus has been introduced to the UK with subsequent onwards transmission. Our preliminary analysis provides a platform for evaluating future trends in virus introduction, however it does not attempt to measure the relative contributions to the UK epidemic of importation versus local transmission, nor model the possible impact of public health interventions on virus introduction.
+  head = The intensive sequencing of SARS-CoV-2 genomes reveals a high frequency of virus importations that led to onward transmission within the UK. We have detected 1356 transmission lineages in the UK to date. Both the rate and source of virus importations fluctuate rapidly through time. We expect that similar trends in SARS-CoV-2 importation also occurred in other countries and regions that are highly connected by international travel, although these trends may be less apparent if fewer virus genomes are generated from those locations.
 
   -- exports
     !a
     !b
-    !c
     !d
-    !e
-    !f
-    !g
     !h
     !i
-    !j
-    !k
-    !l
-    !m
-    !n
 
   / June, 2020 - Annals of the New York Academy of Sciences
   let !a self assert = We detect >1300 independently-introduced transmission lineages. However we expect this number to be an under-estimate. The rate and source of introduction of SARS-CoV-2 lineages into the UK changed substantially and rapidly through time. The rate peaked in mid-March and most introductions occurred during March 2020.
@@ -4049,38 +3833,41 @@ ref 'Sharma_et_al_07_08_2020
   / June, 2020 - Annals of the New York Academy of Sciences
   let !b self assert = Establishment of new transmission lineages rose and fell sharply in March. We estimate that ≈34% of detected UK transmission lineages arrived via inbound travel from Spain, ≈29% from France, ≈14% from Italy, and ≈23% from other countries. The relative contributions of these locations were highly dynamic.
 
-  / June, 2020 - Annals of the New York Academy of Sciences
-  let !c self assert = These are statistical estimates based on combining the phylogeny with travel data. Standard phylogeographic analysis was precluded by a lack of virus genetic variation and high variation in genomic sampling among countries.
+  # / June, 2020 - Annals of the New York Academy of Sciences
+  # let !c self assert = These are statistical estimates based on combining the phylogeny with travel data. Standard phylogeographic analysis was precluded by a lack of virus genetic variation and high variation in genomic sampling among countries.
 
   / June, 2020 - Annals of the New York Academy of Sciences
   let !d self assert = The speed of detection of UK transmission lineages via genome sequencing has increased through time. Many UK transmission lineages now appear to be very rare or extinct, as they have not been detected by genome sequencing for >4 weeks, most likely as a result of the interventions such as social distancing that led to reductions in the numbers of new cases.
 
-  / June, 2020 - Annals of the New York Academy of Sciences
-  let !e self assert = The increasing rates and shifting source locations of SARS-CoV-2 importation were not fully captured by early contact tracing.
+  # / June, 2020 - Annals of the New York Academy of Sciences
+  # let !e self assert = The increasing rates and shifting source locations of SARS-CoV-2 importation were not fully captured by early contact tracing.
+
+  # / June, 2020 - Annals of the New York Academy of Sciences
+  # let !f self assert = The TMRCAs of the majority of UK transmission lineages are dated to mid-to-late March (median=25th March, interquartile range = 17th March-1st April). It is important to note that these times represent the date of the first detected transmission event in each lineage, not the virus importation date.
+
+  # / June, 2020 - Annals of the New York Academy of Sciences
+  # let !g self assert = We can use the TMRCA values to estimate the genomic “detection lag” for each UK transmission lineage, which represents the length of time that a transmission lineage went undetected before it was first sampled by genome sequencing. This detection lag has decreased through time as the cumulative number of UK virus genomes generated by the COG-UK project has increased.
 
   / June, 2020 - Annals of the New York Academy of Sciences
-  let !f self assert = The “importation date” of each UK transmission lineage is the date that an infectious inbound traveller entered the UK. The TMRCAs of the majority of UK transmission lineages are dated to mid-to-late March (median=25th March, interquartile range = 17th March-1st April). It is important to note that these times represent the date of the first detected transmission event in each lineage, not the virus importation date.
+  let !h self assert = Our finding shows how the composition of UK transmission lineages has changed through time. In early March the epidemic mostly comprised lineages that had been newly-detected for the first time, whilst by late April most transmission lineages had not been detected by genomic sampling for more than a week.
 
   / June, 2020 - Annals of the New York Academy of Sciences
-  let !g self assert = We can use the TMRCA values to estimate the genomic “detection lag” for each UK transmission lineage, which represents the length of time that a transmission lineage went undetected before it was first sampled by genome sequencing. This detection lag has decreased through time as the cumulative number of UK virus genomes generated by the COG-UK project has increased.
+  let !i self assert = Our finding shows how the number of inbound travellers and global SARS-CoV-2 prevalence changed through time. In early March there was a high volume of arrivals into the UK, however the countries from which most of these arrivals originated had comparatively small numbers of active infections. Towards the end of March the situation was reversed with large epidemics in many countries but a low volume of international arrivals. The mid-March peak in importation occurred because moderate levels of inbound travel coincided with highly active transmission in several European countries.
 
-  / June, 2020 - Annals of the New York Academy of Sciences
-  let !h self assert =  Our finding shows how the composition of UK transmission lineages has changed through time. In early March the epidemic mostly comprised lineages that had been newly-detected for the first time, whilst by late April most transmission lineages had not been detected by genomic sampling for more than a week.
+  # / June, 2020 - Annals of the New York Academy of Sciences
+  # let !j self assert = This estimated importation intensity (EII) to the UK rises rapidly in early March, peaks around 15th March, then quickly declines to a low level in April.
 
-  / June, 2020 - Annals of the New York Academy of Sciences
-  let !i self assert = Our finding shows how the number of inbound travellers and global SARS-CoV-2 prevalence changed through time. Until the beginning of March, the UK received ≈1.75m inbound travellers per week. This baseline increases by ≈10% at the end of the February half-term school holidays and varies predictably according to the day of the week. The number of inbound passengers fell rapidly and continuously after 8th March, leading to a ≈95% reduction in inward international travel by the beginning of April that has been maintained. The UK government advised against all non-essential overseas travel on 17th March and advised British travellers overseas to return to the UK on 23rd March. The estimated global prevalence of SARS-CoV-2 rose rapidly in March. Notably there was a period in mid-March when inbound travel to the UK was still substantial and coincided with high numbers of active cases elsewhere.
+  # / June, 2020 - Annals of the New York Academy of Sciences
+  # let !k self assert = Using a statistical model we estimate the duration of the importation lag to be 10.7 days on average for all transmission lineages. However, the importation lag is expected to be shorter for large transmission lineages because the earliest transmission events within a lineage are much more likely to be observed if the lineage is well sampled.
 
-  / June, 2020 - Annals of the New York Academy of Sciences
-  let !j self assert = This estimated importation intensity (EII) to the UK rises rapidly in early March, peaks around 15th March, then quickly declines to a low level in April.
+  # / June, 2020 - Annals of the New York Academy of Sciences
+  # let !l self assert = The estimated lag is 11.9 days for lineages of 2-5 genomes, 9.4 days for lineages of 6-15 genomes and 4.2 days for lineages >15 genomes. The latter value (4.2 days) is our best estimate of the duration between arrival of an inbound infected passenger and the first onward transmission event in the UK, and is similar to the estimated serial interval of SARS-CoV-2.
 
-  / June, 2020 - Annals of the New York Academy of Sciences
-  let !k self assert = Using a statistical model we estimate the duration of the importation lag to be 10.7 days on average for all transmission lineages. However, the importation lag is expected to be shorter for large transmission lineages because the earliest transmission events within a lineage are much more likely to be observed if the lineage is well sampled.
+  # / June, 2020 - Annals of the New York Academy of Sciences
+  # let !m self assert = By combining this statistical lag model with the estimated TMRCAs we estimate that 80% of the importation events that give rise to detectable UK transmission lineages occurred between 28th February and 29th March 2020 (the remaining 20% of imports occurred before or after these dates).
 
-  / June, 2020 - Annals of the New York Academy of Sciences
-  let !l self assert = Our data supports this: the estimated lag is 11.9 days for lineages of 2-5 genomes, 9.4 days for lineages of 6-15 genomes and 4.2 days for lineages >15 genomes. The latter value (4.2 days) is our best estimate of the duration between arrival of an inbound infected passenger and the first onward transmission event in the UK, and is similar to the estimated serial interval of SARS-CoV-2. By combining this statistical lag model with the estimated TMRCAs we estimate that 80% of the importation events that give rise to detectable UK transmission lineages occurred between 28th February and 29th March 2020 (the remaining 20% of imports occurred before or after these dates).
+  # / June, 2020 - Annals of the New York Academy of Sciences
+  # let !n self assert = In early March there was a high volume of arrivals into the UK, however the countries from which most of these arrivals originated had comparatively small numbers of active infections. Towards the end of March the situation was reversed with large epidemics in many countries but a low volume of international arrivals. The mid-March peak in importation occurred because moderate levels of inbound travel coincided with highly active transmission in several European countries.
 
-  / June, 2020 - Annals of the New York Academy of Sciences
-  let !m self assert = The EII is highly dynamic because it is the product of two values (number of inbound travellers and epidemic size in countries of embarkation) that vary over orders of magnitude within a matter of weeks. In early March there was a high volume of arrivals into the UK, however the countries from which most of these arrivals originated had comparatively small numbers of active infections. Towards the end of March the situation was reversed with large epidemics in many countries but a low volume of international arrivals. The mid-March peak in importation occurred because moderate levels of inbound travel coincided with highly active transmission in several European countries.
-
-  / June, 2020 - Annals of the New York Academy of Sciences
-  let !n self assert = In summary, intensive sequencing of SARS-CoV-2 genomes reveals a high frequency of virus importations that led to onward transmission within the UK. Both the rate and source of virus importations fluctuate rapidly through time. We expect that similar trends in SARS-CoV-2 importation also occurred in other countries and regions that are highly connected by international travel, although these trends may be less apparent if fewer virus genomes are generated from those locations. The relative contributions of SARS-CoV-2 importation and local transmission to early epidemic growth in each country therefore warrants further investigation. These dynamics should be taken into account when planning and modelling future public health actions in the context of international travel.
+  # / June, 2020 - Annals of the New York Academy of Sciences
+  # let !o self assert = In summary, intensive sequencing of SARS-CoV-2 genomes reveals a high frequency of virus importations that led to onward transmission within the UK. Both the rate and source of virus importations fluctuate rapidly through time. We expect that similar trends in SARS-CoV-2 importation also occurred in other countries and regions that are highly connected by international travel, although these trends may be less apparent if fewer virus genomes are generated from those locations. The relative contributions of SARS-CoV-2 importation and local transmission to early epidemic growth in each country therefore warrants further investigation. These dynamics should be taken into account when planning and modelling future public health actions in the context of international travel.
