@@ -1361,21 +1361,20 @@ feed Research
   // COVID-19 is an emergent disease of aging
   doi: https://doi.org/10.1101/2020.04.15.20060095
   ref 'Santesmasses_et_al_04_15_2020
-    head = Our study establishes COVID-19 as an emergent disease of aging. This conclusion is based on (i) an exponential growth of its CFR with age, (ii) the COVID-19 mortality rate doubling time approaching that of all-cause human mortality, (iii) higher mortality in men than in women, (iv) strong association with pre-existing age-related diseases, (v) COVID-19 being a subset of all-cause pneumonia, which is itself a disease of aging, and (vi) an age-related increase in the SARS-CoV-2 receptor mRNA expression in the lungs of non-ventilator subjects. Together, this puts COVID-19 in line with the archetypical diseases of aging, such as type II diabetes, cancer, Alzheimer’s disease, and cardiovascular diseases.
+    head = Our study establishes COVID-19 as an emergent disease of aging. This conclusion is based on (i) an exponential growth of its CFR with age, (ii) the COVID-19 mortality rate doubling time approaching that of all-cause human mortality, (iii) higher mortality in men than in women, (iv) strong association with pre-existing age-related diseases, (v) COVID-19 being a subset of all-cause pneumonia, which is itself a disease of aging, and (vi) an age-related increase in the SARS-CoV-2 receptor mRNA expression in the lungs of non-ventilator subjects.
 
     >>> Abstract
       COVID-19 is an ongoing pandemic caused by the SARS-CoV-2 coronavirus that poses one of the greatest challenges to public health in recent years. SARS-CoV-2 is highly contagious and often leads to severe viral pneumonia with respiratory failure and death in the elderly and subjects with pre-existing conditions, but the reason for this age dependence is unclear. Here, we found that the case fatality rate for COVID-19 grows exponentially with age in Italy, Spain, South Korea, and China, with the doubling time approaching that of all-cause human mortality. In addition, men and those with multiple age-related diseases are characterized by increased mortality. Moreover, similar mortality patterns were found for all-cause pneumonia. We further report that the gene expression of ACE2, the SARS-CoV-2 receptor, grows in the lung with age, except for subjects on a ventilator. Together, our findings establish COVID-19 as an emergent disease of aging, and age and age-related diseases as its major risk factors. In turn, this suggests that COVID-19, and deadly respiratory diseases in general, may be targeted, in addition to therapeutic approaches that affect specific pathways, by approaches that target the aging process.
 
     -- exports
       !a
-      !b
       !c
 
     / April, 2020 - medRxiv
-    let !a self assert = Our finding of an elevated age-related expression of ACE2 in the lungs of subjects with non-ventilator deaths may provide a clue. ACE2 is the site for the entry of SARS-CoV-2 into the cell. An age-related increase in the expression of this gene, together with the depletion of antiviral defenses, would naturally support a higher damaging effect of the coronavirus in the lung. It should be noted, however, that while ACE2 specifically promotes SARS-coronavirus infections, it also protects lungs from injury.
+    let !a self assert = Our finding of an elevated age-related expression of ACE2 in the lungs of subjects with non-ventilator deaths may provide a clue. An age-related increase in the expression of this gene, together with the depletion of antiviral defenses, would naturally support a higher damaging effect of the coronavirus in the lung. It should be noted, however, that while ACE2 specifically promotes SARS-coronavirus infections, it also protects lungs from injury.
 
-    / April, 2020 - medRxiv
-    let !b self assert = In addition, various tissues harbor different ACE2 gene expression levels and may account for complications other than pneumonia, such as diarrhea observed in a small sample of COVID-19 positive patients. At the protein level, lung and its alveolar type II cells were found to have low or undetectable ACE2 protein levels. Interestingly, ventilator cases showed no increase in ACE2 expression with age. The main difference between ventilator and non-ventilator cases is in the young subjects, wherein the expression of ACE2 in the ventilator cases is higher. The implications of variable expression patterns of ACE2 mRNA and protein across ages, tissues, and ventilator cases should be investigated in further studies.
+    # / April, 2020 - medRxiv
+    # let !b self assert = In addition, various tissues harbor different ACE2 gene expression levels and may account for complications other than pneumonia, such as diarrhea observed in a small sample of COVID-19 positive patients. At the protein level, lung and its alveolar type II cells were found to have low or undetectable ACE2 protein levels. Interestingly, ventilator cases showed no increase in ACE2 expression with age. The main difference between ventilator and non-ventilator cases is in the young subjects, wherein the expression of ACE2 in the ventilator cases is higher. The implications of variable expression patterns of ACE2 mRNA and protein across ages, tissues, and ventilator cases should be investigated in further studies.
 
     / April, 2020 - medRxiv
     let !c self assert = Vaccines are less efficient in the elderly, leading to a high rate of infections even in vaccinated individuals. For example, the yearly influenza vaccine is only 40% to 60% efficient in older individuals. Therefore, targeting ACE2 may be viewed as both an immediate and a long-term strategy. However, as the case fatality rate grows with age, it should be possible to also adjust the pace of aging thereby targeting COVID-19. There are plenty of candidates for such a strategy.
@@ -2125,7 +2124,7 @@ feed Research
   // Type III Interferons: Balancing Tissue Tolerance and Resistance to Pathogen Invasion
   doi: https://doi.org/10.1084/jem.20190295
   article 'Broggi_et_al_01_06_2020
-    head = In summary, what we know about IFN-λ biology positions these cytokines as frontline defenses that protect our mucosal barriers from viral threats and contribute to the maintenance of an efficient barrier by finely modulating the immune response. Here, we discuss recent findings that establish the unique capacity of IFN-λ to act at the barriers of the host to balance tissue tolerance and immune resistance against viral and bacterial challenges. Further study of IFN-λ–specific signaling and of the nuances of IFN-λs direct and indirect modulation of inflammation is warranted to comprehend the full potential of IFN-λ.
+    head = Here, we discuss recent findings that establish the unique capacity of IFN-λ (Type III Interferons) to act at the barriers of the host to balance tissue tolerance and immune resistance against viral and bacterial challenges.
 
     >>> Abstract
       Type III IFNs, or IFN-λ, are the newest members of the IFN family and were long believed to play roles that were redundant with those of type I IFNs. However, IFN-λ displays unique traits that delineate them as primary protectors of barrier integrity at mucosal sites. This unique role stems both from the restricted expression of IFN-λ receptor, confined to epithelial cells and to a limited pool of immune cells, and from unique immunomodulatory properties of IFN-λ. Here, we discuss recent findings that establish the unique capacity of IFN-λ to act at the barriers of the host to balance tissue tolerance and immune resistance against viral and bacterial challenges.
@@ -2139,7 +2138,7 @@ feed Research
   // Pathological inflammation in patients with COVID-19: a key role for monocytes and macrophages
   doi: https://doi.org/10.1080/22221751.2020.1732837
   article 'Merad_et_al_05_06_2020
-    head = We describe the potentially pathological roles of macrophages during SARS-CoV-2 infection and discuss ongoing and prospective therapeutic strategies to modulate macrophage activation in patients with COVID-19. The exact drivers of pathological inflammation in COVID-19 remain to be identified, but it is crucial that we establish the pathways involved in the different stages of the inflammatory response to SARS-CoV-2 and determine the contribution of these pathways to ultimate disease outcome. The results of these studies should help identify not only the most relevant immunomodulatory strategies but also the optimal timing of such immunomodulatory interventions to maximize therapeutic effect.
+    head =  Macrophages are a population of innate immune cells that sense and respond to microbial threats by producing inflammatory molecules that eliminate pathogens and promote tissue repair. Here we describe the potentially pathological roles of macrophages during SARS-CoV-2 infection and discuss ongoing and prospective therapeutic strategies to modulate macrophage activation in patients with COVID-19.
 
     >>> Abstract
       The COVID-19 pandemic caused by infection with SARS-CoV-2 has led to more than 200,000 deaths worldwide. Several studies have now established that the hyperinflammatory response induced by SARS-CoV-2 is a major cause of disease severity and death in infected patients. Macrophages are a population of innate immune cells that sense and respond to microbial threats by producing inflammatory molecules that eliminate pathogens and promote tissue repair. However, a dysregulated macrophage response can be damaging to the host, as is seen in the macrophage activation syndrome induced by severe infections, including in infections with the related virus SARS-CoV. Here we describe the potentially pathological roles of macrophages during SARS-CoV-2 infection and discuss ongoing and prospective therapeutic strategies to modulate macrophage activation in patients with COVID-19.
@@ -2516,7 +2515,7 @@ feed Research
   // Presenting Characteristics, Comorbidities, and Outcomes Among 5700 Patients Hospitalized With COVID-19 in the New York City Area
   doi: https://doi.org/10.1001/jama.2020.6775
   article 'Richardson_et_al_04_22_2020
-    head = This study represents the first large case series of sequentially hospitalized patients with confirmed COVID-19 in the New York City area, US. Older persons, men, and those with pre-existing hypertension and/or diabetes were highly prevalent in this case series and the pattern was similar to data reported from China. However, mortality rates in this case series were significantly lower, possibly due to differences in thresholds for hospitalization. This study reported mortality rates only for patients with definite outcomes (discharge or death), and longer-term study may find different mortality rates as different segments of the population are infected. The findings of high mortality rates among ventilated patients are similar to smaller case series reports of critically ill patients in the US.
+    head = This study represents the first large case series of sequentially hospitalized patients with confirmed COVID-19 in the New York City area, US. Older persons, men, and those with pre-existing hypertension and/or diabetes were highly prevalent in this case series and the pattern was similar to data reported from China. However, mortality rates in this case series were significantly lower, possibly due to differences in thresholds for hospitalization.
 
     >>> Importance
       There is limited information describing the presenting characteristics and outcomes of US patients requiring hospitalization for coronavirus disease 2019 (COVID-19).
@@ -2565,7 +2564,7 @@ feed Research
     let !c self assert = The first test for COVID-19 was positive in 5517 patients (96.8%), while 183 patients (3.2%) had a negative first test and positive repeat test. The rate of co-infection with another respiratory virus for those tested was 2.1% (42/1996).  The rate of respiratory virus co-infection was 2.1%.
 
     / April, 2020 - JAMA
-    let !d self assert = Among the 3066 patients who remained hospitalized at the final study follow-up date (median age, 65 years [IQR 54-75]), the median follow-up at time of censoring was 4.5 days (IQR, 2.4-8.1). Mortality was 0% (0/20) for male and female patients younger than 20 years. Mortality rates were higher for male compared with female patients at every 10-year age interval older than 20 years.
+    let !d self assert = Among the 3066 patients who remained hospitalized at the final study follow-up date, the median follow-up at time of censoring was 4.5 days. Mortality was 0% (0/20) for male and female patients younger than 20 years. Mortality rates were higher for male compared with female patients at every 10-year age interval older than 20 years.
 
     / April, 2020 - JAMA
     let !e self assert = Outcomes for Patients Who Were Discharged or Died: Among the 2634 patients who were discharged or had died at the study end point, during hospitalization, 373 (14.2%) were treated in the ICU, 320 (12.2%) received invasive mechanical ventilation, 81 (3.2%) were treated with kidney replacement therapy, and 553 (21%) died
@@ -2602,7 +2601,7 @@ feed Research
   // Olfactory transmucosal SARS-CoV-2 invasion as port of Central Nervous System entry in COVID-19 patients
   doi: https://doi.org/10.1101/2020.06.04.135012
   article 'Meinhardt_et_al_06_04_2020
-    head = SARS-CoV-2 enters the nervous system via trespassing the neuro-mucosal interface in the olfactory mucosa by exploiting the close vicinity of olfactory mucosal and nervous tissue including delicate olfactory and sensitive nerve endings- thus explaining some of the well-documented neurological symptoms in COVID-19 patients including alterations of smell and taste perception. Subsequently, SARS-CoV-2 follows defined neuroanatomical structures, penetrating defined neuroanatomical areas, including the primary respiratory and cardiovascular control center in the medulla oblongata.
+    head = SARS-CoV-2 enters the nervous system via trespassing the neuro-mucosal interface in the olfactory mucosa by exploiting the close vicinity of olfactory mucosal and nervous tissue including delicate olfactory and sensitive nerve endings. Subsequently, SARS-CoV-2 follows defined neuroanatomical structures, penetrating defined neuroanatomical areas, including the primary respiratory and cardiovascular control center in the medulla oblongata.
 
     >>> Abstract
       The newly identified severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) causes COVID-19, a pandemic respiratory disease presenting with fever, cough, and often pneumonia. Moreover, thromboembolic events throughout the body including the central nervous system (CNS) have been described. Given first indication for viral RNA presence in the brain and cerebrospinal fluid and in light of neurological symptoms in a large majority of COVID-19 patients, SARS-CoV-2-penetrance of the CNS is likely. By precisely investigating and anatomically mapping oro- and pharyngeal regions and brains of 32 patients dying from COVID-19, we not only describe CNS infarction due to cerebral thromboembolism, but also demonstrate SARS-CoV-2 neurotropism. SARS-CoV-2 enters the nervous system via trespassing the neuro-mucosal interface in the olfactory mucosa by exploiting the close vicinity of olfactory mucosal and nervous tissue including delicate olfactory and sensitive nerve endings. Subsequently, SARS-CoV-2 follows defined neuroanatomical structures, penetrating defined neuroanatomical areas, including the primary respiratory and cardiovascular control center in the medulla oblongata.
@@ -3558,7 +3557,7 @@ feed Research
   // The ABO blood group locus and a chromosome 3 gene cluster associate with SARS-CoV-2 respiratory failure in an Italian-Spanish genome-wide association analysis
   doi: https://doi.org/10.1101/2020.05.31.20114991
   article 'Ellinghaus_et_al_06_02_2020
-    head = Using a pragmatic approach with simplified inclusion criteria and a complementary team of clinicians at the European Covid-19 epicenters in Italy and Spain and available German and Norwegian scientists, we were able to perform a complete GWAS for Covid-19 respiratory failure in about two months. We detected cross-replicating associations with rs11385942 at chromosome 3p21.31 and rs657152 at 9q34, which were genome-wide significant (P<5×10-8) in the meta-analysis of both study panels. Our data aligns with the suggestions that blood group O is associated with lower risk compared with non-O blood groups whereas blood group A is associated with higher risk of acquiring Covid-19 compared with non-A blood groups.
+    head = We were able to perform a complete GWAS for Covid-19 respiratory failure in about two months. We detected cross-replicating associations with rs11385942 at chromosome 3p21.31 and rs657152 at 9q34, which were genome-wide significant (P<5×10-8) in the meta-analysis of both study panels. Identified variants may help guide targeted exploration of severe Covid-19 pathophysiology.
 
     >>> Background
       Respiratory failure is a key feature of severe Covid-19 and a critical driver of mortality, but for reasons poorly defined affects less than 10% of SARS-CoV-2 infected patients.
@@ -3574,29 +3573,24 @@ feed Research
 
     -- exports
       !a
-      !b
-      !c
-      !d
-      !e
-      !f
+
+    # / June, 2020 - medRxiv
+    # let !z self assert = We found two loci to be associated with Covid-19 induced respiratory failure with genomewide significance (P<5×10-8) in the meta-analysis, the rs11385942 insertion-deletion GA/A SNP at chromosome 3p21.31, ORmeta 1.77 (95% CI,1.48 to 2.11), P=1.14×10-10 and the rs657152 A/C SNP at 9q34.2, ORmeta 1.32 (95% CI, 1.20 to 1.47), P=4.95×10-8. Both loci showed nominally significant association in both the Spanish and Italian sub-analysis.
 
     / June, 2020 - medRxiv
-    let !a self assert = We found two loci to be associated with Covid-19 induced respiratory failure with genomewide significance (P<5×10-8) in the meta-analysis, the rs11385942 insertion-deletion GA/A SNP at chromosome 3p21.31, ORmeta 1.77 (95% CI,1.48 to 2.11), P=1.14×10-10 and the rs657152 A/C SNP at 9q34.2, ORmeta 1.32 (95% CI, 1.20 to 1.47), P=4.95×10-8. Both loci showed nominally significant association in both the Spanish and Italian sub-analysis.
+    let !a self assert =  Our data aligns with the suggestions that blood group O is associated with lower risk compared with non-O blood groups whereas blood group A is associated with higher risk of acquiring Covid-19 compared with non-A blood groups.
 
-    / June, 2020 - medRxiv
-    let !b self assert = At 9q34.2 the association signal was restricted to the ABO blood group gene. Accordingly, the distribution of ABO blood groups, as predicted from combinations of genotypes of three different SNPs was skewed in Covid-19 patients with respiratory failure compared with controls, with higher risk for A-positive individuals (meta-analysis result OR=1.45, 95% CI, 1.20 to 1.75, P=1.48×10-4) and a protective effect for blood group O (meta-analysis result: OR=0.65, 95% CI, 0.53 to 0.79, P=1.06×10-5). Both associations and effect directions were consistent in the separate Spain-only and Italian-only case-control analysis. We found no difference in blood group distribution between patients receiving oxygen supplementation only vs. mechanical ventilation of any kind.
-
-    / June, 2020 - medRxiv
-    let !c self assert = Our data thus aligns with the suggestions that blood group O is associated with lower risk compared with non-O blood groups whereas blood group A is associated with higher risk of acquiring Covid-19 compared with non-A blood groups. Unlike for Chromosome 3, we found no difference between patients receiving oxygen supplementation only and those with mechanical ventilation any kind. However, it should be noted that the lead SNP at the ABO locus in our study (rs657152) has been associated with elevated interleukin-6 (IL6) levels in childhood obesity in previous GWAS27, providing a hypothetical link to the established association of elevated IL-6 with severity and mortality of Covid-19.
-
-    / June, 2020 - medRxiv
-    let !d self assert = We found that the frequency of the risk allele GA of the lead SNP, rs11385942, was higher in patients with mechanical ventilation compared with those receiving oxygen supplementation only with an OR=1.70, 95% CI, 1.27 to 2.26, P=0.00033, in the unadjusted analysis. Available database entries suggest that the frequency of the risk allele of rs11385942 varies between populations world-wide and is monomorphic in China
-
-    / June, 2020 - medRxiv
-    let !e self assert = Since several viral infections are known to be controlled by genetic variation at the HLA complex at chromosome 6p21, we scrutinized the extended HLA region (chr6:25-34Mb). There were no SNP or allele associations signals at the HLA complex meeting neither genome-wide nor suggestive association significance threshold of P=1×10-5. Furthermore, we found no significant differences in allelic distribution between patients with oxygen supplementation only and those with mechanical ventilation of any kind (assessed by direct HLA typing, data not shown).
-
-    / June, 2020 - medRxiv
-    let !f self assert =  Furthermore, genetic variation at the ABO locus has previously been associated with a number of procoagulant markers such as von Willebrand factor and Factor VIII, and the potential relationship between our genetic findings and the significant coagulopathy that is observed in severe Covid-19 warrants further attention.
+    # / June, 2020 - medRxiv
+    # let !c self assert = Our data thus aligns with the suggestions that blood group O is associated with lower risk compared with non-O blood groups whereas blood group A is associated with higher risk of acquiring Covid-19 compared with non-A blood groups. Unlike for Chromosome 3, we found no difference between patients receiving oxygen supplementation only and those with mechanical ventilation any kind. However, it should be noted that the lead SNP at the ABO locus in our study (rs657152) has been associated with elevated interleukin-6 (IL6) levels in childhood obesity in previous GWAS27, providing a hypothetical link to the established association of elevated IL-6 with severity and mortality of Covid-19.
+    #
+    # / June, 2020 - medRxiv
+    # let !d self assert = We found that the frequency of the risk allele GA of the lead SNP, rs11385942, was higher in patients with mechanical ventilation compared with those receiving oxygen supplementation only with an OR=1.70, 95% CI, 1.27 to 2.26, P=0.00033, in the unadjusted analysis. Available database entries suggest that the frequency of the risk allele of rs11385942 varies between populations world-wide and is monomorphic in China
+    #
+    # / June, 2020 - medRxiv
+    # let !e self assert = Since several viral infections are known to be controlled by genetic variation at the HLA complex at chromosome 6p21, we scrutinized the extended HLA region (chr6:25-34Mb). There were no SNP or allele associations signals at the HLA complex meeting neither genome-wide nor suggestive association significance threshold of P=1×10-5. Furthermore, we found no significant differences in allelic distribution between patients with oxygen supplementation only and those with mechanical ventilation of any kind (assessed by direct HLA typing, data not shown).
+    #
+    # / June, 2020 - medRxiv
+    # let !f self assert =  Furthermore, genetic variation at the ABO locus has previously been associated with a number of procoagulant markers such as von Willebrand factor and Factor VIII, and the potential relationship between our genetic findings and the significant coagulopathy that is observed in severe Covid-19 warrants further attention.
 
 
   # Origin, Bat, background, pangolian less likely to be the origin. !d - Pangolin
@@ -3699,7 +3693,7 @@ feed Research
   // Estimating The Infection Fatality Rate Among Symptomatic COVID-19 Cases In The United States
   doi: https://doi.org/10.1377/hlthaff.2020.00455
   article 'Basu_et_al_05_07_2020
-    head = Using data through April 20, 2020, we fit a statistical model to COVID-19 case fatality rates over time at the US county level to estimate the COVID-19 IFR among symptomatic cases (IFR-S) as time goes to infinity. The IFR-S in the US was estimated to be 1.3% (95% central credible interval: 0.6% to 2.1%). County-specific rates varied from 0.5% to 3.6%. The overall IFR for COVID-19 should be lower when we account for cases that remain and recover without symptoms. Substantial variation across patient demographics likely exists and should be the focus of future studies.
+    head = The IFR-S in the US was estimated to be 1.3%. County-specific rates varied from 0.5% to 3.6%. The overall IFR for COVID-19 should be lower when we account for cases that remain and recover without symptoms.
 
     >>> Abstract
       Knowing the infection fatality rate (IFR) of SARS-CoV and SARS-CoV-2 infections is essential for the fight against the COVID-19 pandemic. Using data through April 20, 2020, we fit a statistical model to COVID-19 case fatality rates over time at the US county level to estimate the COVID-19 IFR among symptomatic cases (IFR-S) as time goes to infinity. The IFR-S in the US was estimated to be 1.3% (95% central credible interval: 0.6% to 2.1%). County-specific rates varied from 0.5% to 3.6%. The overall IFR for COVID-19 should be lower when we account for cases that remain and recover without symptoms. When used with other estimating approaches, our model and our estimates can help disease and policy modelers to obtain more accurate predictions for the epidemiology of the disease and the impact of alternative policy levers to contain this pandemic. The model could also be used with future epidemics to get an early sense of the magnitude of symptomatic infection at the population-level before more direct estimates are available. Substantial variation across patient demographics likely exists and should be the focus of future studies.
@@ -4041,7 +4035,7 @@ feed Research
     let !c self assert = A mild COVID-19 severity category was recorded in 412 (52%) patients, with 96 (12%) patients not requiring hospital admission. 315 (39%) patients required oxygen, and 53 (7%) patients received intensive therapy unit (ITU) level care. Of these 53 patients, six (11%) were discharged, 23 (43%) died and 24 (45%) were either still in ITU or did not have a final recorded outcome.
 
     / May, 2020 - The Lancet
-    let !d self assert = 226 (28%) patients died, with reports stating that the death was principally attributable to COVID-19 in most patients (211 [93%]). Compared with the rest of the cancer cohort, patients who died were significantly older (median 73·0 years vs 66·0 years; p<0·001), more were male (146 [33%] of 449) than female (80 [20%] of 349), and those who died also displayed higher rates of comorbidities compared with those who did not, including cardiovascular disease (21% vs 11%; p<0·001) and hypertension (41% vs 27%; p<0·001). Patients who died were also more likely to present with symptoms of shortness of breath (57% vs 32%; p<0·001).
+    let !d self assert = 226 patients died, with reports stating that the death was principally attributable to COVID-19 in most patients. Compared with the rest of the cancer cohort, patients who died were significantly older, more were male than female, and those who died also displayed higher rates of comorbidities compared with those who did not, including cardiovascular disease and hypertension.
 
     / May, 2020 - The Lancet
     let !e self assert = Across the cohort, 172 (22%) patients were reported by sites as having their anticancer treatments interrupted because of the COVID-19 pandemic, although, the exact nature of this interruption was not captured in this study.
@@ -4101,7 +4095,7 @@ feed Research
     let !a self assert = Following weighting, 12.5% were estimated reactive and following further adjustment for test characteristics, estimated cumulative incidence was 14.0% (95% CI: 13.3-14.7%), corresponding to 2,139,300 (95% CI: 2,035,800-2,242,800) infection-experienced adults in NYS through approximately March 29. In sensitivity analyses at the extremes of test characteristics, cumulative incidence ranged from 9.8% (95% CI: [9.1-10.5%]) to 15.0% (95% CI: [14.3-15.7%]), representing a total of 1,494,700 (95% CI: [1,391,800-1,597600]) to 2,286,600 (95% CI: [2,178,200-2,395,100]) adults in NYS.
 
     / May, 2020 - MedRxiv
-    let !b self assert = Cumulative incidence was higher among males (14.8%, 95% CI: [13.8-15.8%]) than females (13.3%, 95% CI: [12.4-14.2%], p=0.03), with males comprising 50.3% of adult infections.
+    let !b self assert = Cumulative incidence was higher among males than females, with males comprising 50.3% of adult infections.
 
     / May, 2020 - MedRxiv
     let !c self assert = This differed significantlyby race and ethnicity, with Hispanic/Latino (29.2%, 95% CI: 27.2-31.2%), non-Hispanic black/African American (20.2% [95% CI, 18.1-22.3%]), and non-Hispanic Asian (12.4%, 95% CI: [9.4- 15.4%]) adults having higher cumulative incidence than non-Hispanic white adults (8.1%, 95% CI: [7.4- 8.7%], p<.0001). Given these differences, Hispanics comprised the plurality (36.6%) of infection experienced adults.
@@ -4113,10 +4107,10 @@ feed Research
     let !e self assert = We observed regional heterogeneity in cumulative incidence, ranging from 22.7% (95% CI: 21.5%-24.0%) in NYC residents, to 16.1% (95% CI: 13.2-19.0%) and 13.2% (11.4-15.1%) in the respective metropolitan areas of Westchester/Rockland Counties and Long Island, to 3.6% (95% CI: [3.0-4.1]) in ROS (p<0.0001).
 
     / May, 2020 - MedRxiv
-    let !f self assert = Demographic patterns were heterogenous by region. Males had significantly higher cumulative incidence in all regions outside of, but not within NYC. The patterns of racial disparity observed statewide were similar and statistically significant within NYC, Westchester/Rockland, and Long Island, but not in ROS. In each of the former 3 regions, Hispanic/Latino persons represented >37% of infection-experienced adults, whereas in the latter non-Hispanic whites comprised a majority of infection-experienced adults (79.4%).
+    let !f self assert = The patterns of racial disparity observed statewide were similar and statistically significant within NYC, Westchester/Rockland, and Long Island, but not in ROS. In each of the former 3 regions, Hispanic/Latino persons represented >37% of infection-experienced adults, whereas in the latter non-Hispanic whites comprised a majority of infection-experienced adults (79.4%).
 
     / May, 2020 - MedRxiv
-    let !g self assert = An estimated 8.9%(95% CI: 8.4-9.3%) of infections in NYS were diagnosed as of April 9th 2020.Males (9.4%, 95% CI: 8.8-10.1%) had higher diagnosis levels than females (8.2%, 95% CI: 7.7-8.8%)). Those ≥55 years were most likely to be diagnosed (11.3%, 95% CI: 10.4-12.2%). Diagnosis rates in NYC (7.1%, 95% CI: 6.7-7.5%) and ROS (7.5%, 95% CI: 6.4-8.9%) were about half those observed in the other regions. Considering the May 8 upper-bound for diagnoses, a maximum of 15.7% (95% CI: 15.0-16.5%) of overall infections could have been diagnosed, with similar patterns observed across levels of each factor.
+    let !g self assert = An estimated 8.9% of infections in NYS were diagnosed as of April 9th 2020. Males had higher diagnosis levels than females. Those ≥55 years were most likely to be diagnosed.
 
 
   # DNA vaccine
@@ -4296,10 +4290,10 @@ feed Research
     let !a self assert = We find that 3.6% of infected individuals are hospitalized (95% CrI: 2.1–5.6), ranging from 0.2% (95% CrI: 0.1–0.2) in females under <20ya to 45.9% (95% CrI: 27.2–70.9) in males >80ya. Once hospitalized, on average 19.0% (95% CrI: 18.7–19.4%) patients enter ICU after a mean delay of 1.5 days. We observe an increasing probability of entering ICU with age—however, this drops for those >70ya.
 
     / April, 2020 - Science
-    let !b self assert = Overall, 18.1% (95% CrI: 17.8–18.4) of hospitalized individuals go on to die. The overall probability of death among those infected (the Infection Fatality Ratio, IFR) is 0.7% (95% CrI: 0.4–1.0), ranging from 0.001% in those under 20ya to 10.1% (95% CrI: 6.0–15.6) in those >80ya. Our estimate of overall IFR is similar to other recent studies that found values of between 0.5 and 0.7% for the Chinese epidemic.
+    let !b self assert = Overall, 18.1% of hospitalized individuals go on to die. The overall probability of death among those infected (the Infection Fatality Ratio, IFR) is 0.7%, ranging from 0.001% in those under 20ya to 10.1% in those >80ya. Our estimate of overall IFR is similar to other recent studies that found values of between 0.5 and 0.7% for the Chinese epidemic.
 
     / April, 2020 - Science
-    let !c self assert = We find men have a consistently higher risk than women of hospitalization (RR 1.25, 95% CrI: 1.22–1.29), ICU admission once hospitalized (RR: 1.61, 95% CrI: 1.56–1.67) and death following hospitalization (RR: 1.47, 95% CrI: 1.42–1.53).
+    let !c self assert = We find men have a consistently higher risk than women of hospitalization, ICU admission once hospitalized and death following hospitalization.
 
     / April, 2020 - Science
     let !d self assert = We find that the basic reproductive number R0 prior to the implementation of the lockdown was 2.90 (95% CrI: 2.80–2.99). The lockdown resulted in a 77% (95% CI: 76–78) reduction in transmission, with the reproduction number R dropping to 0.67 (95% CrI: 0.65–0.68).
@@ -4589,10 +4583,13 @@ feed Research
   // Estimating excess 1-year mortality associated with the COVID-19 pandemic according to underlying conditions and age: a population-based cohort study
   doi: https://doi.org/10.1016/S0140-6736(20)30854-0
   article 'Banerjee_et_al_05_12_2020
-    head = If the relative risk of COVID-19 on mortality over 1 year were 1·2 (ie, the same magnitude as the winter vs summer mortality excess) then the number of excess deaths would be zero when one in 100000 individuals are infected (full suppression scenario), 7350 when one in ten are infected (mitigate scenario), and 58798 when eight in ten are infected (do nothing scenario). However, if the relative risk is doubled to 2·0, then there would be 36749 deaths in the mitigation scenario and 293991 deaths in the do nothing scenario. These results should inform targeting of those at highest risk for a range of preventive interventions.
+    head = We included 3862012 individuals. We estimated that more than 20% of the study population are in the high-risk category. 1-year mortality in the high-risk population was estimated to be 4·46%.
 
-    # / May, 2020 - The Lancet
-    # let !a self assert =
+    -- exports
+      !a
+
+    / May, 2020 - The Lancet
+    let !a self assert = In a full suppression scenario in the UK population, we estimated that there would be two excess deaths (vs baseline deaths) with an RR of 1·5, four with an RR of 2·0, and seven with an RR of 3·0. In a mitigation scenario, we estimated 18374 excess deaths with an RR of 1·5, 36 749 with an RR of 2·0, and 73498 with an RR of 3·0. In a do nothing scenario, we estimated 146 996 excess deaths with an RR of 1·5, 293 991 with an RR of 2·0, and 587982 with an RR of 3·0.
 
   # Immune Response
   // Structural basis for translational shutdown and immune evasion by the Nsp1 protein of SARS-CoV-2
@@ -4822,7 +4819,7 @@ feed Research
     let !a self assert = After SARS-CoV-2 infection, the hACE2-experssing mice showed apparent interstitial pneumonia with inflammatory cell infiltration. Severe pneumonia in mice was accompanied by fibroplasia, organization, congestion, and oedema with hyaline membrane formation. Some alveolar cells were dissolved and necrotic, and some terminal bronchioles were blocked.
 
     / April, 2020 - Cell
-    let !b self assert = The surviving mice generated low titres of neutralisation antibodies (1:10 to 1:40). The reinfection with much higher titres of virus (7*105 TCID50 SARS-CoV-2) only caused mild pneumonia in the surviving mice. In contrast, the naïve-infected mice had severe disease with much higher viral RNA copies in the lung and brain tissues. It is unclear that the neutralising antibody or humoral immunity caused the observed protection.
+    let !b self assert = The surviving mice generated low titres of neutralisation antibodies. The reinfection with much higher titres of virus only caused mild pneumonia in the surviving mice. In contrast, the naïve-infected mice had severe disease with much higher viral RNA copies in the lung and brain tissues. It is unclear that the neutralising antibody or humoral immunity caused the observed protection.
 
 
   # Public Policy
@@ -4842,7 +4839,7 @@ feed Research
   // Deep immune profiling of COVID-19 patients reveals patient heterogeneity and distinct immunotypes with implications for therapeutic interventions
   doi: https://doi.org/10.1101/2020.05.20.106401
   article 'Mathew_et_al_05_23_2020
-    head = The ability to connect immune features not only to disease severity at the time of sampling but also to the trajectory of disease severity change over time. Using correlative analyses, we observed relationships between features of the different immunotypes, patient comorbidities, and clinical features of COVID-19 disease. By integrating ∼200 immune features with extensive clinical data, disease severity scores, and temporal changes, we were able to build an integrated computational model that connected patient immune response phenotype to disease severity.
+    head = Using correlative analyses, we observed relationships between features of the different immunotypes, patient comorbidities, and clinical features of COVID-19 disease. By integrating ∼200 immune features with extensive clinical data, disease severity scores, and temporal changes, we were able to build an integrated computational model that connected patient immune response phenotype to disease severity.
 
     >>> Abstract
       COVID-19 has become a global pandemic. Immune dysregulation has been implicated, but immune responses remain poorly understood. We analyzed 71 COVID-19 patients compared to recovered and healthy subjects using high dimensional cytometry. Integrated analysis of ∼200 immune and >30 clinical features revealed activation of T cell and B cell subsets, but only in some patients. A subgroup of patients had T cell activation characteristic of acute viral infection and plasmablast responses could reach >30% of circulating B cells. However, another subgroup had lymphocyte activation comparable to uninfected subjects. Stable versus dynamic immunological signatures were identified and linked to trajectories of disease severity change. These analyses identified three “immunotypes” associated with poor clinical trajectories versus improving health. These immunotypes may have implications for therapeutics and vaccines.
@@ -4889,7 +4886,7 @@ feed Research
   // Susceptibility to and transmission of COVID-19 amongst children and adolescents compared with adults: a systematic review and meta-analysis
   doi: https://doi.org/10.1101/2020.05.20.20108126
   article 'Viner_et_al_05_24_2020
-    head = Data from contact-tracing studies suggest there is preliminary evidence that children and young people have lower susceptibility for SARS-CoV-2 infection. Meta-analysis of these studies found the pooled odds ratio for testing positive in children compared with adults was 0.44 (0.29, 0.69), meaning those under approximately age 18-20 years had a 56% lower odds of infection than adults.
+    head = Data from contact-tracing studies suggest there is preliminary evidence that children and young people have lower susceptibility for SARS-CoV-2 infection. Meta-analysis of these studies found the pooled odds ratio for testing positive in children compared with adults was 0.44, meaning those under approximately age 18-20 years had a 56% lower odds of infection than adults.
 
     >>> Background
       The degree to which children and young people are infected by and transmit the SARS-CoV-2 virus is unclear. Clinical series and testing cohorts based upon screening of symptomatic cases provide biased estimates of susceptibility in children. The role of children and young people in transmission of SARS-CoV-2 is dependent on susceptibility, symptoms, viral load, social contact patterns and behaviour.
@@ -5324,7 +5321,7 @@ feed Research
   // Description of COVID-19 in HIV-infected individuals: a single-centre, prospective cohort
   doi: https://doi.org/10.1016/S2352-3018(20)30164-8
   article 'Vizcarra_et_al_05_28_2020
-    head = Our findings highlight the increased prevalence of comorbidities in HIV–SARS-CoV-2 co-infected individuals, particularly hypertension, high BMI, diabetes, chronic kidney disease, and chronic liver disease, compared with people with SARS-CoV-2 monoinfection or people with HIV monoinfection. This observation might reflect different opportunities for hospital consultation for individuals with comorbidities, since they are usually considered to be at high risk of adverse outcomes.
+    head = HIV-infected individuals should not be considered to be protected from SARS-CoV-2 infection or to have lower risk of severe disease. Generally, they should receive the same treatment approach applied to the general population.
 
     >>> Background
       Information about incidence, clinical characteristics, and outcomes of HIV-infected individuals with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection is scarce. We characterised individuals with COVID-19 among a cohort of HIV-infected adults in Madrid.
@@ -5551,7 +5548,7 @@ feed Research
   // Evidence for host-dependent RNA editing in the transcriptome of SARS-CoV-2
   doi: https://doi.org/10.1101/2020.03.02.973255
   article 'Giorgio_et_al_04_27_2020
-    head = If these enzymes are relevant in the host response to Coronavirus infection, a deletion polymorphism quite common in the Chinese population, encompassing the end of APOBEC3A and most of APOBEC3B could play a role in the spread of the infection.
+    head = We identify nucleotide changes that may be signatures of RNA editing: Adenosine-to-Inosine changes from ADAR deaminases and Cytosine-to-Uracil changes from APOBEC ones. Our results thus suggest that both APOBECs and ADARs are involved in Coronavirus genome editing, a process that may shape the fate of both virus and patient.
 
     >>> Abstract
       The COVID-19 outbreak has become a global health risk and understanding the response of the host to the SARS-CoV-2 virus will help to contrast the disease. Editing by host deaminases is an innate restriction process to counter viruses, and it is not yet known whether it operates against Coronaviruses. Here we analyze RNA sequences from bronchoalveolar lavage fluids derived from infected patients. We identify nucleotide changes that may be signatures of RNA editing: Adenosine-to-Inosine changes from ADAR deaminases and Cytosine-to-Uracil changes from APOBEC ones. A mutational analysis of genomes from different strains of human-hosted Coronaviridae reveals mutational patterns compatible to those observed in the transcriptomic data. Our results thus suggest that both APOBECs and ADARs are involved in Coronavirus genome editing, a process that may shape the fate of both virus and patient.
@@ -5698,7 +5695,7 @@ feed Research
   // Estimating the overdispersion in COVID-19 transmission using outbreak sizes outside China
   doi: https://doi.org/10.12688/wellcomeopenres.15842.1
   article 'Endo_et_al_04_09_2020
-    head = Our model suggested a high degree of individual-level variation in the transmission of COVID-19. Within the current consensus range of R0 (2-3), the overdispersion parameter k of a negative-binomial distribution was estimated to be around 0.1 (median estimate 0.1; 95% CrI: 0.05-0.2 for R0 = 2.5), suggesting that 80% of secondary transmissions may have been caused by a small fraction of infectious individuals (~10%). A joint estimation yielded likely ranges for R0 and k (95% CrIs: R0 1.4-12; k 0.04-0.2); however, the upper bound of R0 was not well informed by the model and data, which did not notably differ from that of the prior distribution.
+    head = Our model suggested a high degree of individual-level variation in the transmission of COVID-19. Within the current consensus range of R0 (2-3), the overdispersion parameter k of a negative-binomial distribution was estimated to be around 0.1, suggesting that 80% of secondary transmissions may have been caused by a small fraction of infectious individuals (~10%).
 
     >>> Background
       A novel coronavirus disease (COVID-19) outbreak has now spread to a number of countries worldwide. While sustained transmission chains of human-to-human transmission suggest high basic reproduction number R0, variation in the number of secondary transmissions (often characterised by so-called superspreading events) may be large as some countries have observed fewer local transmissions than others.
@@ -5822,7 +5819,7 @@ feed Research
 
 
     / May, 2020 - medRxiv
-    let !a self assert = Death from COVID-19 was strongly associated with: being male (hazard ratio 1.99, 95%CI 1.88-2.10); older age and deprivation (both with a strong gradient); uncontrolled diabetes (HR 2.36 95% CI 2.18-2.56); severe asthma (HR 1.25 CI 1.08-1.44); and various other prior medical conditions.
+    let !a self assert = In this study, Death from COVID-19 was strongly associated with: being male; older age and deprivation; uncontrolled diabetes; severe asthma; and various other prior medical conditions.
 
     / May, 2020 - medRxiv
     let !b self assert = Compared to people with ethnicity recorded as white, black people were at higher risk of death, with only partial attenuation in hazard ratios from the fully adjusted model (age-sex adjusted HR 2.17 95% CI 1.84-2.57; fully adjusted HR 1.71 95% CI 1.44-2.02); with similar findings for Asian people (age-sex adjusted HR 1.95 95% CI 1.73-2.18; fully adjusted HR 1.62 95% CI 1.43-1.82).
@@ -5988,7 +5985,7 @@ feed Research
   // Characteristics and outcomes of 21 critically ill patients with COVID-19 in Washington state
   doi: https://doi.org/10.1001/jama.2020.4326
   article 'Arentz_et_al_2020
-    head = This study represents the first description of critically ill patients infected with SARS-CoV-2 in the US. These patients had a high rate of ARDS and a high risk of death, similar to published data from China.2 However, this case series adds insight into the presentation and early outcomes in this population and demonstrates poor short-term outcomes among patients requiring mechanical ventilation.
+    head = This study represents the first description of critically ill patients infected with SARS-CoV-2 in the US. These patients had a high rate of ARDS and a high risk of death, similar to published data from China. However, this case series adds insight into the presentation and early outcomes in this population and demonstrates poor short-term outcomes among patients requiring mechanical ventilation.
 
     -- exports
       !a
@@ -6029,7 +6026,7 @@ feed Research
   // First mildly ill, non-hospitalized case of coronavirus disease 2019 (COVID-19) without viral transmission in the United States—Maricopa County, Arizona,
   doi: https://doi.org/10.1093/cid/ciaa374
   article 'Scott_et_al_2020
-    head = We summarize the public health investigation, contact tracing, and serial SARS-CoV-2 testing results of the first mildly ill, non-hospitalized U.S. case of COVID-19. Among 16 identified contacts, 10 with high-risk contact did not demonstrate viral transmission of SARS-CoV-2 based on serial SARS-CoV-2 testing, and 6 contacts who were not tested for SARS-CoV-2 did not develop any symptom consistent with COVID-19 during post-exposure symptom monitoring. Notably, 1 contact had intimate contact with the case for >36 hours while his clinical specimens tested positive for SARS-CoV-2. This report demonstrates that SARS-CoV-2 can cause mild illness with a relatively high viral load, and not transmit the infection to close contacts. This case investigation suggests COVID-19 illness severity could correlate with SARS-CoV-2 infectivity.
+    head = We summarize the public health investigation, contact tracing, and serial SARS-CoV-2 testing results of the first mildly ill, non-hospitalized U.S. case of COVID-19.
 
     >>> Background
       Coronavirus disease 2019 (COVID-19) causes a range of illness severity. Mild illness has been reported, but whether illness severity correlates with infectivity is unknown. We describe the public health investigation of a mildly ill, non-hospitalized COVID-19 case who traveled to China.
@@ -6221,7 +6218,7 @@ feed Research
   // Clinical and virologic characteristics of the first 12 patients with coronavirus disease 2019 (COVID-19) in the United States
   doi: https://doi.org/10.1038/s41591-020-0877-5
   article 'Kujawski_et_al_2020
-    head = Characterization of the first 12 COVID-19 patients identified in the United States provides insight into the epidemiology, clinical characteristics and natural history of SARS-CoV-2 infection. Although duration of infectiousness is unclear, these early data show viable virus can be cultured readily from upper respiratory tract specimens soon after illness onset; further studies on infectious period and risk factors for transmission are needed. Clinicians should anticipate that some patients may worsen in the second week of illness, but appropriate monitoring of these patients will present challenges as healthcare systems work to meet the increasing demands.
+    head = Characterization of the first 12 COVID-19 patients identified in the United States provides insight into the epidemiology, clinical characteristics and natural history of SARS-CoV-2 infection. Clinicians should anticipate that some patients may worsen in the second week of illness, but appropriate monitoring of these patients will present challenges as healthcare systems work to meet the increasing demands.
 
     >>> Abstract
       Data on the detailed clinical progression of COVID-19 in conjunction with epidemiological and virological characteristics are limited. In this case series, we describe the first 12 US patients confirmed to have COVID-19 from 20 January to 5 February 2020, including 4 patients described previously. Respiratory, stool, serum and urine specimens were submitted for SARS-CoV-2 real-time reverse-transcription polymerase chain reaction (rRT-PCR) testing, viral culture and whole genome sequencing. Median age was 53 years (range: 21–68); 8 patients were male. Common symptoms at illness onset were cough (n = 8) and fever (n = 7). Patients had mild to moderately severe illness; seven were hospitalized and demonstrated clinical or laboratory signs of worsening during the second week of illness. No patients required mechanical ventilation and all recovered. All had SARS-CoV-2 RNA detected in respiratory specimens, typically for 2–3 weeks after illness onset. Lowest real-time PCR with reverse transcription cycle threshold values in the upper respiratory tract were often detected in the first week and SARS-CoV-2 was cultured from early respiratory specimens. These data provide insight into the natural history of SARS-CoV-2. Although infectiousness is unclear, highest viral RNA levels were identified in the first week of illness. Clinicians should anticipate that some patients may worsen in the second week of illness.
@@ -6318,7 +6315,7 @@ feed Research
   // PCR Assays Turned Positive in 25 Discharged COVID-19 Patients
   doi: https://doi.org/10.1093/cid/ciaa398
   article 'Yuan_et_al_2020
-    head = According to our study, it is probably that two negative RT-PCR tests 24 hours apart may not be sufficient for viral clearance evaluation. Repeated viral RT-PCR testing separated by prolonged duration like 48 hours is essential to assure that virus has actually cleared and the discharged patients no longer transmitted the virus. On the other hand, we suggest that some immunological parameters such as D-dimer and absolute lymphocyte count, and even antibody test should be combined with RT-PCR negative test as additional measures to assure that infected patients have completely recovered and can be released from quarantine.
+    head = It seems that there was a fluctuating period between the apparent improvement in the hospital and full recovery from the virus. It is probable that 2 negative RT-PCR tests 24 hours apart may not be sufficient for viral clearance evaluation. Repeated viral RT-PCR testing separated by prolonged duration, such as 48 hours, is essential to ensure that the virus has actually cleared and the discharged patients no longer can transmit the virus.
 
     >>> Abstract
       We report the observation that 14.5% of COVID-19 patients had positive RT-PCR testing again after discharge. We describe correlations between laboratory parameters and treatment duration (r= -0.637; p=0.002) and time to virus recrudescence (r= 0.52; p=0.008) respectively, suggesting the need for additional measures to confirm illness resolution in COVID-19 patients.
@@ -6477,7 +6474,7 @@ feed Research
     let !p self assert = As long as resource limitations in testing and PPE exist, we believe that time-since symptom resolution and test-based strategies should continue to coexist and complement one another. Healthcare workers, who may have easier access to testing and who may be most crucial to get back to work quicker might benefit by test-based clearance, particularly if the Ct value is considered.
 
     / May, 2020 - Clinical Infectious Diseases
-    let !q self assert = It should be recognized that certain populations may tend to remain infectious for longer showed that older patients were more likely to have prolonged positive results and presumably longer infectivity. Severe disease is also a risk factor for longer viral shedding. Larger studies that account for potential confounding are necessary to determine viral shedding dynamics in different populations, including those who are immunocompromised or treated with immunomodulatory agents. For now, test-based clearance may be preferred for these patients. Having both time- and test-based guidelines enables clinicians to select based on the patient and setting.
+    let !q self assert = It should be recognized that certain populations may tend to remain infectious for longer showed that older patients were more likely to have prolonged positive results and presumably longer infectivity. Severe disease is also a risk factor for longer viral shedding.
 
 
   # BCG, Trained immunity, innate immunity
@@ -6580,13 +6577,13 @@ feed Research
     let !b self assert = The most common initial symptoms of coronavirus disease 2019 (Covid-19) are fever, cough, fatigue, anorexia, myalgias, and diarrhea. Severe illness usually begins approximately 1 week after the onset of symptoms. Dyspnea is the most common symptom of severe disease and is often accompanied by hypoxemia. A striking feature of Covid-19 is the rapid progression of respiratory failure soon after the onset of dyspnea and hypoxemia.
 
     / May, 2020 - The New England Journal of Medicine
-    let !c self assert = Patients with severe Covid-19 commonly meet the criteria for the acute respiratory distress syndrome (ARDS), which is defined as the acute onset of bilateral infiltrates, severe hypoxemia, and lung edema that is not fully explained by cardiac failure or fluid overload. The majority of patients with severe Covid-19 have lymphopenia, and some have disorders of the central or peripheral nervous system. Severe Covid-19 may also lead to acute cardiac, kidney, and liver injury, in addition to cardiac arrhythmias, rhabdomyolysis, coagulopathy, and shock. These organ failures may be associated with a cytokine release syndrome characterized by high fevers, thrombocytopenia, hyperferritinemia, and elevation of other inflammatory markers.
+    let !c self assert = Patients with severe Covid-19 commonly meet the criteria for the acute respiratory distress syndrome (ARDS), which is defined as the acute onset of bilateral infiltrates, severe hypoxemia, and lung edema that is not fully explained by cardiac failure or fluid overload. The majority of patients with severe Covid-19 have lymphopenia, and some have disorders of the central or peripheral nervous system.
 
     / May, 2020 - The New England Journal of Medicine
-    let !d self assert = For epidemiologic purposes, severe Covid-19 in adults is defined as dyspnea, a respiratory rate of 30 or more breaths per minute, a blood oxygen saturation of 93% or less, a ratio of the partial pressure of arterial oxygen to the fraction of inspired oxygen (Pao2:Fio2) of less than 300 mm Hg, or infiltrates in more than 50% of the lung field within 24 to 48 hours from the onset of symptoms.
+    let !d self assert = Severe Covid-19 may also lead to acute cardiac, kidney, and liver injury, in addition to cardiac arrhythmias, rhabdomyolysis, coagulopathy, and shock. These organ failures may be associated with a cytokine release syndrome characterized by high fevers, thrombocytopenia, hyperferritinemia, and elevation of other inflammatory markers.
 
     / May, 2020 - The New England Journal of Medicine
-    let !e self assert = In a large cohort of patients with Covid-19, 81% had mild disease, 14% had severe disease, and 5% became critically ill with organ failure; the mortality in the critically ill group was 49%. The majority of critically ill patients with Covid-19 receive prolonged mechanical ventilation.
+    let !e self assert = In a large cohort of patients with Covid-19, 81% had mild disease, 14% had severe disease, and 5% became critically ill with organ failure; the mortality in the critically ill group was 49%.
 
     / May, 2020 - The New England Journal of Medicine
     let !f self assert = People with chronic health conditions such as cardiovascular disease, diabetes mellitus, and obesity are more likely to become critically ill from Covid-19. The incidence of critical illness is also higher among men than among women and higher among persons older than 65 years of age than among younger persons. However, healthy persons of any age can become critically ill with Covid-19. A hallmark of the Covid-19 pandemic is the sudden appearance of an unprecedented number of critically ill patients in a small geographic area.
@@ -6697,7 +6694,7 @@ feed Research
   // Clustering and superspreading potential of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infections in Hong Kong
   doi: https://doi.org/10.21203/rs.3.rs-29548/v1
   article 'Adam_et_al_2020
-    head = Given a superspreading threshold of 6-8 secondary cases, we identified 5-7 probable superspreading events and evidence of substantial overdispersion in transmissibility, and estimated that 20% of cases were responsible for 80% of local transmission. Among terminal cluster cases, 27% (45/167) ended in quarantine. Social exposures produced a greater number of secondary cases compared to family or work exposures (p<0.001) while delays between symptom onset and isolation did not reliably predict the number of individual secondary cases or resulting cluster sizes. Public health authorities should focus on rapid tracing and quarantine of contacts, along with physical distancing to prevent superspreading events in high-risk social environments.
+    head = Given a superspreading threshold of 6-8 secondary cases, we identified 5-7 probable superspreading events and evidence of substantial overdispersion in transmissibility, and estimated that 20% of cases were responsible for 80% of local transmission.
 
     >>> Abstract
       Superspreading events have characterised previous epidemics of severe acute respiratory syndrome coronavirus (SARS-CoV) and Middle East respiratory syndrome coronavirus (MERS-CoV) infections. Using contact tracing data, we identified and characterized SARS-CoV-2 clusters in Hong Kong. Given a superspreading threshold of 6-8 secondary cases, we identified 5-7 probable superspreading events and evidence of substantial overdispersion in transmissibility, and estimated that 20% of cases were responsible for 80% of local transmission. Among terminal cluster cases, 27% (45/167) ended in quarantine. Social exposures produced a greater number of secondary cases compared to family or work exposures (p<0.001) while delays between symptom onset and isolation did not reliably predict the number of individual secondary cases or resulting cluster sizes. Public health authorities should focus on rapid tracing and quarantine of contacts, along with physical distancing to prevent superspreading events in high-risk social environments.
@@ -6975,7 +6972,7 @@ feed Research
   // A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster
   doi: https://doi.org/10.1016/S0140-6736(20)30154-9
   article 'Chan_et_al_2020
-    head = In this study, we report the findings of five patients in a family cluster who presented with unexplained pneumonia after a visit to Wuhan. Phylogenetic analysis of genetic sequences from these patients were done. Our findings are consistent with person-to-person transmission of this novel coronavirus in hospital and family settings, and the reports of infected travellers in other geographical regions.
+    head = We report the findings of five patients in a family cluster who presented with unexplained pneumonia after a visit to Wuhan. Phylogenetic analysis of genetic sequences from these patients were done. Our findings are consistent with person-to-person transmission of this novel coronavirus in hospital and family settings, and the reports of infected travellers in other geographical regions.
 
     >>> Background
       An ongoing outbreak of pneumonia associated with a novel coronavirus was reported in Wuhan city, Hubei province, China. Affected patients were geographically linked with a local wet market as a potential source. No data on person-to-person or nosocomial transmission have been published to date.
@@ -7035,7 +7032,7 @@ feed Research
     let !h self assert = Many of the epidemiological, clinical, laboratory, and radiological features of this novel coronavirus pneumonia were similar to those of SARS patients in 2003. The incubation period of the Wuhan pneumonia appeared similar to that of SARS. The attack rate is rather high, up to 83% if we included the five patients (patients 1, 2, 3, 4, and 5) with unexplained ground-glass radiological changes of the lungs on CT scan as the case definition in this family outbreak after visiting Wuhan.
 
     / January, 2020 - The Lancet
-    let !i self assert = A rather unexpected finding from the lung CT scan of patient 5, which was done on the insistence by the nervous parents, also showed ground-glass pneumonic changes. Patient 5 was later confirmed virologically to have an asymptomatic infection. Notably, patients 3 and 4 were afebrile at presentation to our hospital. These cryptic cases of walking pneumonia might serve as a possible source to propagate the outbreak. Further studies on the epidemiological significance of these asymptomatic cases are warranted.
+    let !i self assert = A rather unexpected finding from the lung CT scan of patient 5, which was done on the insistence by the nervous parents, also showed ground-glass pneumonic changes. Patient 5 was later confirmed virologically to have an asymptomatic infection.
 
     / January, 2020 - The Lancet
     let !j self assert = Patient 4, who had a history of chronic sinusitis, might have a bacterial superinfection because he had a productive cough instead of a dry cough. He also had a high white blood cell count, although the bacterial test was negative.
@@ -7167,7 +7164,7 @@ feed Research
   // High SARS-CoV-2 Attack Rate Following Exposure at a Choir Practice — Skagit County, Washington, March 2020
   doi: https://dx.doi.org/10.15585/mmwr.mm6919e6
   article 'Hamner_et_al_2020
-    head = This outbreak of COVID-19 with a high secondary attack rate indicates that SARS-CoV-2 might be highly transmissible in certain settings, including group singing events. This underscores the importance of physical distancing, including maintaining at least 6 feet between persons, avoiding group gatherings and crowded places, and wearing cloth face coverings in public settings where other social distancing measures are difficult to maintain during this pandemic. If this is not feasible, washing hands often, covering coughs and sneezes, staying home when ill, and frequently cleaning and disinfecting high-touch surfaces remain critical to reducing transmission The choir mitigated further spread by quickly communicating to its members and notifying SCPH of a cluster of cases on March 18. When first contacted by SCPH during March 18–20, nearly all persons who attended the practice reported they were already self-isolating or quarantining.
+    head = Following a 2.5-hour choir practice attended by 61 persons, including a symptomatic index patient, 32 confirmed and 20 probable secondary COVID-19 cases occurred (attack rate = 53.3% to 86.7%); three patients were hospitalized, and two died. Transmission was likely facilitated by close proximity (within 6 feet) during practice and augmented by the act of singing.
 
     -- exports
       !a
@@ -7208,7 +7205,7 @@ feed Research
   // Excess mortality from Covid-19. Weekly excess death rates by age and sex for Sweden.
   doi: https://doi.org/10.1101/2020.05.10.20096909
   article 'Modig_et_al_2020
-    head = From the first week of April and onwards, the death rates at all ages above 60 are higher than those in previous years in Sweden. The pattern shows that persons above age 80 are dis-proportionally more affected, and that men suffer higher levels of excess mortality than women. Currently this excess mortality corresponds to a decline in remaining life expectancy of 3 and 2 years for men and women respectively. What consequences the pandemic will eventually have on life expectancy will be determined by a complex interplay of several factors. Until now, the Covid-19 pandemic however has already caused a health burden that reached historic extents on the total mortality of the Swedish population.
+    head = Persons above age 80 are dis-proportionally more affected, and men suffer higher levels of excess mortality than women at all ages with 75% higher death rates for males and 50% higher for females. Current excess mortality corresponds to a decline in remaining life expectancy of 3 years for men and 2 years for women.
 
     >>> Objectives
       Mortality from Covid-19 is monitored in detail both within as well as between countries with different strategies against the virus. However, death counts and relative risks based on crude numbers can be misleading. Instead, age specific death rates should be used for comparability. Given the difficulty of ascertainment of Covid-19 specific deaths, excess all-cause mortality is currently more appropriate for comparisons. By estimating age- and sex-specific death rates we aim to get more accurate estimates of the excess mortality attributed to Covid-19, as well as the difference between men and women in Sweden.
@@ -7411,7 +7408,7 @@ feed Research
   // Effects of Vitamin D3 Supplementation on Epigenetic Aging in Overweight and Obese African Americans With Suboptimal Vitamin D Status: A Randomized Clinical Trial
   doi: https://doi.org/10.1093/gerona/gly223
   article 'Chen_et_al_2019
-    head = DNAm age estimated by either Horvath clock or Hannum clock was highly correlated with chronological age in African Americans with suboptimal vitamin D status at the baseline. Vitamin D3 supplementation decreased DNA methylation aging. More specifically, the epigenetic aging was significantly decreased by 4,000 IU/d vitamin D3 supplementation according to the Horvath clock, and 2,000 IU/d was more effective according to the Hannum clock. Moreover, serum 25 (OH)D levels were only negatively associated with DNA methylation aging measured by the Horvath clock.
+    head = Our results suggest that vitamin D supplementation may slow down Horvath epigenetic aging. But the effect on Hannum epigenetic aging is not conclusive.
 
     >>> Background
       We have previously shown that vitamin D supplementation increases telomerase activity, suggesting an anti-aging effect. In this study, we aim to test the hypothesis that vitamin D supplementation would slow down epigenetic aging, a new marker of biological aging.
@@ -7459,7 +7456,7 @@ feed Research
   // Vitamin D receptor activation regulates microglia polarization and oxidative stress in spontaneously hypertensive rats and angiotensin II-exposed microglial cells: Role of renin-angiotensin system
   doi: https://doi.org/10.1016/j.redox.2019.101295
   article 'Cui_et_al_2019
-    head = Our data showed that calcitriol treatment induced VDR expression and inhibited neural death in the prefrontal cortex of SHR. Sustained calcitriol administration also inhibited microglia M1 polarization, but enhanced M2 polarization, accompanied with decreased expression of proinflammatory cytokines. We then further explored the potential mechanisms and showed that SHR exhibited overactivated classical RAS with increased expression of angiotensin II (Ang II) receptor type 1 (AT1), angiotensin converting enzyme (ACE) and Ang II production, whereas the counteracting arm of traditional RAS, ACE2/Ang(1–7)/MasR, was impaired in the SHR brain.
+    head = Vitamin D (VitD) is recently recognized as a pleiotropic hormone with strong neuroprotective properties.  This study aims to evaluate whether VitD can modulate brain RAS. Our findings indicate the involvement of ACE2/Ang(1–7)/MasR pathway in the neuroprotective mechanisms of VitD in the hypertensive brain.
 
     >>> Abstract
       Hypertension is one of the major predisposing factors for neurodegenerative disease characterized with activated renin-angiotensin system (RAS) in both periphery and brain. Vitamin D (VitD) is recently recognized as a pleiotropic hormone with strong neuroprotective properties. While multiple lines of evidence suggest that VitD can act on RAS, the evidence concerning the crosstalk between VitD and RAS in the brain is limited. Therefore, this study aims to evaluate whether VitD can modulate brain RAS to trigger neuroprotective actions in the brain of spontaneously hypertensive rats (SHR). Our data showed that calcitriol treatment induced VDR expression and inhibited neural death in the prefrontal cortex of SHR. Sustained calcitriol administration also inhibited microglia M1 polarization, but enhanced M2 polarization, accompanied with decreased expression of proinflammatory cytokines. We then further explored the potential mechanisms and showed that SHR exhibited overactivated classical RAS with increased expression of angiotensin II (Ang II) receptor type 1 (AT1), angiotensin converting enzyme (ACE) and Ang II production, whereas the counteracting arm of traditional RAS, ACE2/Ang(1–7)/MasR, was impaired in the SHR brain. Calcitriol nonsignificantly suppressed AT1 and ACE but markedly reduced Ang II formation. Intriguingly, calcitriol exerted pronouncedly impact on ACE2/Ang(1–7)/MasR axis with enhanced expression of ACE2, MasR and Ang(1–7) generation. Meanwhile, calcitriol ameliorated the overactivation of NADPH-oxidase (Nox), the downstream of RAS, in SHR, and also mitigated oxidative stress. In microglial (BV2) cells, we further found that calcitriol induced ACE2 and MasR with no significant impact on ACE and AT1. In accordance, calcitriol also attenuated Ang II-induced Nox activation and ROS production, and shifted the microglia polarization from M1 to M2 phenotype. However, co-treatment with A779, a specific MasR antagonist, abrogated the antioxidant and neuroimmune modulating actions of VitD. These findings strongly indicate the involvement of ACE2/Ang(1–7)/MasR pathway in the neuroprotective mechanisms of VitD in the hypertensive brain.
@@ -7478,7 +7475,7 @@ feed Research
   // Vitamin D alleviates lipopolysaccharide-induced acute lung injury via regulation of the renin-angiotensin system
   doi: https://doi.org/10.3892/mmr.2017.7546
   article 'Xu_et_al_2017
-    head = ALI is a feature of LPS-induced sepsis, therefore, the present study employed a LPS-induced sepsis model to investigate the function of vitamin D in ALI. The results demonstrated that LPS stimulation led to lung cell death and increased vascular permeability, which may partially occur by inducing the expression of renin, ACE, Ang II and AT1R, and inhibiting ACE2 expression. However, in vivo and in vitro results indicated that a vitamin D agonist, calcitriol, significantly alleviated LPS-induced ALI to protect lungs.
+    head = ALI is a feature of LPS-induced sepsis, therefore, the present study employed a LPS-induced sepsis model to investigate the function of vitamin D in ALI. LPS stimulation led to lung cell death and increased vascular permeability, which may partially occur by inducing the expression of renin, ACE, Ang II and AT1R, and inhibiting ACE2 expression. However, in vivo and in vitro results indicated that a vitamin D agonist, calcitriol, significantly alleviated LPS-induced ALI to protect lungs.
 
     >>> Abstract
       Acute lung injury (ALI) and acute respiratory distress syndrome (ARDS) are the clinical manifestations of severe lung damage and respiratory failure. ALI and ARDS result are associated with high mortality in patients. At present, no effective treatments for ALI and ARDS exist. It is established that vitamin D exhibits anti-inflammatory effects, however, the specific effect of vitamin D on ALI remains largely unknown. The aim of the present study was to investigate whether, and by which mechanism, vitamin D alleviates lipopolysaccharide (LPS)-induced ALI. The results demonstrated that a vitamin D agonist, calcitriol, exhibited a beneficial effect on LPS-induced ALI in rats; calcitriol pretreatment significantly improved LPS-induced lung permeability, as determined using Evans blue dye. Results from reverse transcription-quantitative polymerase chain reaction, western blotting and ELISA analysis demonstrated that calcitriol also modulated the expression of members of the renin-angiotensin system (RAS), including angiotensin (Ang) I-converting enzymes (ACE and ACE2), renin and Ang II, which indicates that calcitriol may exert protective effects on LPS-induced lung injury, at least partially, by regulating the balance between the expression of members of the RAS. The results of the present study may provide novel targets for the future treatment of ALI.
@@ -7634,7 +7631,7 @@ feed Research
   // Vitamin D Supplementation Could Possibly Improve Clinical Outcomes of Patients Infected with Coronavirus-2019 (COVID-19)
   doi: http://dx.doi.org/10.2139/ssrn.3571484
   article 'Alipio_et_al_2020
-    head = Of the 212 cases of COVID-19, majority had ordinary clinical outcome. Mean serum 25(OH)D level was 23.8 ng/ml. Serum 25(OH)D level was lowest in critical cases, but highest in mild cases. Serum 25(OH)D levels were statistically significant among clinical outcomes. Majority had insufficient Vitamin D status, most of them were not severe. Vitamin D status is significantly associated with clinical outcomes.
+    head = Of the 212 cases of COVID-19, majority had ordinary clinical outcome. Mean serum 25(OH)D level was 23.8 ng/ml. Serum 25(OH)D level was lowest in critical cases, but highest in mild cases. Serum 25(OH)D levels were statistically significant among clinical outcomes. Majority had insufficient Vitamin D status, most of them were not severe.
 
     >>> Abstract
       The rapid spread of COVID-19 in many areas of the world calls for preventive health measures. Although basic guidelines on infection control are suggested, treatment has remained the best choice to avert mortality. However, for the time being, there are no known vaccines for the disease. In this paper, a multinomial logistic regression was used to predict clinical outcomes of patients infected with COVID-19 based on 25-hydroxyvitamin D [25(OH)D] levels, the barometer for Vitamin D status. A retrospective multicentre study of 212 cases with laboratory-confirmed infection of SARS-CoV-2 was conducted. Data pertaining to clinical features and serum 25(OH)D levels were extracted from the medical records. For statistical analysis, Mann-Whitney U and χ² tests were used to compare differences in the clinical outcomes. Multinomial logistic regression was used to explore the association between serum 25(OH)D level and clinical outcomes of the cases. Frequency and percentage were used for categorical variables. Mean was used for continuous variables. A p-value below 0.01 was considered statistically significant. Of the 212 cases of COVID-19, majority had ordinary clinical outcome. Mean serum 25(OH)D level was 23.8 ng/ml. Serum 25(OH)D level was lowest in critical cases, but highest in mild cases. Serum 25(OH)D levels were statistically significant among clinical outcomes. Majority had insufficient Vitamin D status, most of them were not severe. Vitamin D status is significantly associated with clinical outcomes. A multinomial logistic regression analysis reported that for each standard deviation increase in serum 25(OH)D, the odds of having a mild clinical outcome rather than a severe outcome were approximately 7.94 times (OR=0.126, p<0.001) while interestingly, the odds of having a mild clinical outcome rather than a critical outcome were approximately 19.61 times (OR=0.051, p<0.001). The results suggest that an increase in serum 25(OH)D level in the body could either improve clinical outcomes or mitigate worst (severe to critical) outcomes, while a decrease in serum 25(OH)D level in the body could worsen clinical outcomes of COVID-2019 patients. In conclusion, this study provides substantial information to clinicians and health policy-makers. Vitamin D supplementation could possibly improve clinical outcomes of patients infected with COVID-19. Further research should conduct randomized controlled trials and large population studies to evaluate this recommendation.
@@ -7643,7 +7640,7 @@ feed Research
       !a
 
     / April, 2020 - SSRN
-    let !a self assert = The results suggest that an increase in serum 25(OH)D level in the body could either improve clinical outcomes or mitigate worst (severe to critical) outcomes, while a decrease in serum 25(OH)D level in the body could worsen clinical outcomes of COVID-2019 patients. In conclusion, this study provides substantial information to clinicians and health policy-makers. Vitamin D supplementation could possibly improve clinical outcomes of patients infected with COVID-19.
+    let !a self assert = The results suggest that an increase in serum 25(OH)D level in the body could either improve clinical outcomes or mitigate worst (severe to critical) outcomes, while a decrease in serum 25(OH)D level in the body could worsen clinical outcomes of COVID-2019 patients. Vitamin D supplementation could possibly improve clinical outcomes of patients infected with COVID-19.
 
 
   # Variant Population - Blood Type
@@ -7752,7 +7749,7 @@ feed Research
     let !a self assert = When testing the specificity S1 or its RBD for detecting SARS-CoV-2 antibodies, none of the sera form the validation cohorts showed any reactivity; except for SARS-CoV patients sera. This - not-unexpected - cross-reactivity resulted from the high degree of similarity between the S1 and RBD of the SARS-CoV and SARS-CoV-2.
 
     / March, 2020 - Emerging Infectious Diseases
-    let !b self assert = We made use of the high degree of similarity between the SARS-CoV and SARS-CoV-2 proteins for the development of our inhouse N ELISA, where we used SARS-CoV N (90% similar to SARSCoV-2) as an antigen. The N-ELISA could detect SARS-CoV-2-specific antibodies with high specificity and sensitivity. Using the three different validated ELISAs, we found that antibody levels were higher following the severe infection compared to the mild ones; similar findings has been reported earlier for MERS-CoV
+    let !b self assert = We made use of the high degree of similarity between the SARS-CoV and SARS-CoV-2 proteins for the development of our inhouse N ELISA, where we used SARS-CoV N (90% similar to SARSCoV-2) as an antigen. The N-ELISA could detect SARS-CoV-2-specific antibodies with high specificity and sensitivity. We found that antibody levels were higher following the severe infection compared to the mild ones; similar findings has been reported earlier for MERS-CoV
 
     / March, 2020 - Emerging Infectious Diseases
     let !c self assert = We further validated beta-versions of an IgA and an IgG S1 commercial ELISA in two different labs. While the IgA-based ELISA showed higher sensitivity than the IgG-based ELISA, the opposite was true for the specificity where the IgG ELISA was more specific than the IgA ELISA.
@@ -7932,7 +7929,7 @@ feed Research
   // Alert for non‐respiratory symptoms of Coronavirus Disease 2019 (COVID‐19) patients in epidemic period: A case report of familial cluster with three asymptomatic COVID‐19 patients
   doi: https://doi.org/10.1002/jmv.25776
   article 'Lu_et_al_2020b
-    head = This case report of familial cluster highlighted the importance of rigorous epidemiological investigation again. The first patient in this familial cluster developed urticaria but without respiratory symptoms and fever. The rash gradually subsided after treatment in our dermatology department. When this urticaria patient came to the hospital for further consultation, our disease control expert repeatedly verified the epidemiological investigation records, and finally found suspicious clues from the close contacts with this patient.
+    head = We reported the screening, clinical feathers, and treatment process of a family cluster involving three COVID‐19 patients. The discovery of the first asymptomatic carrier in this family cluster depends on the repeated and comprehensive epidemiological investigation by disease control experts.
 
     >>> Abstract
       At present, Coronavirus Disease 2019 (COVID‐19) is rampaging around the world. However, asymptomatic carriers intensified the difficulty of prevention and management. Here we reported the screening, clinical feathers, and treatment process of a family cluster involving three COVID‐19 patients. The discovery of the first asymptomatic carrier in this family cluster depends on the repeated and comprehensive epidemiological investigation by disease control experts. In addition, the combination of multiple detection methods can help clinicians find asymptomatic carriers as early as possible. In conclusion, the prevention and control experience of this family cluster showed that comprehensive rigorous epidemiological investigation and combination of multiple detection methods were of great value for the detection of hidden asymptomatic carriers.
@@ -7944,7 +7941,7 @@ feed Research
   // Analysis on Cluster Cases of COVID-19 in Tianjin
   doi: https://doi.org/10.3760/cma.j.cn112338-20200225-00165
   article 'Liu_et_al_2020h
-    head = Total of 115 COVID-19 cases were reported in in 33 clusters in Tianjin. Clusters can be classified as following: 28 familial clusters (71 cases), 1 work place cluster (10 cases), 3 transport vehicle clusters (8 cases) and 1 public place cluster (26 cases). Fourteen familial clusters were caused by the cases from the working place or public place clusters. Numbers of secondary cases of family clusters were 1-7, the median number was 7.The interval from onset to diagnosis for the first case was longer than those of other cases in the familial clusters (Z=-2.406, P= 0.016).
+    head = Total of 115 COVID-19 cases were reported in in 33 clusters in Tianjin. Clusters can be classified as following: 28 familial clusters (71 cases), 1 work place cluster (10 cases), 3 transport vehicle clusters (8 cases) and 1 public place cluster (26 cases). Fourteen familial clusters were caused by the cases from the working place or public place clusters. Numbers of secondary cases of family clusters were 1-7, the median number was 7.
 
     >>> Objective
       To understand the characteristics of clusters of COVID-19 cases in Tianjin, and provide epidemiological evidence for the prevention and control of COVID-19.
@@ -8066,7 +8063,7 @@ feed Research
   // Estimating the Asymptomatic Proportion of 2019 Novel Coronavirus onboard the Princess Cruises Ship, 2020
   doi: https://doi.org/10.1101/2020.02.20.20025866
   article 'Mizumoto_et_al_2020
-    head = Our estimated asymptomatic proportion is at 17.9% (95% CrI: 15.5%–20.2%), which overlaps with a recently derived estimate of 33.3% (95% CI: 8.3%–58.3%) from data of Japanese citizens evacuated from Wuhan. Considering the similarity in viral loads and the high possibility of potent transmission potential, the high proportion of asymptomatic infections has significant public health implications.
+    head = We conducted statistical modeling analysis to derive the delay-adjusted asymptomatic proportion of the positive COVID-19 infections onboard the Princess Cruises ship along with the timeline of infections. We estimated the asymptomatic proportion at 17.9% (95% CrI: 15.5%-20.2%), with most of the infections occurring before the start of the 2-week quarantine.
 
     >>> Abstract
       The potential infectiousness of asymptomatic COVID-19 cases together with a substantial fraction of asymptomatic infections among all infections, have been highlighted in clinical studies. We conducted statistical modeling analysis to derive the delay-adjusted asymptomatic proportion of the positive COVID-19 infections onboard the Princess Cruises ship along with the timeline of infections. We estimated the asymptomatic proportion at 17.9% (95% CrI: 15.5%-20.2%), with most of the infections occurring before the start of the 2-week quarantine.
@@ -8387,7 +8384,7 @@ feed Research
   // Coagulation disorders in coronavirus infected patients: COVID-19, SARS-CoV-1, MERS-CoV and lessons from the past
   doi: https://doi.org/10.1016/j.jcv.2020.104362
   article 'Giannis_et_al_2020
-    head = The dysregulation of the coagulation cascade and the subsequent formation of intra-alveolar or systemic fibrin clots are prominent findings in coronavirus infections associated with severe respiratory disease, and have been demonstrated in both humans and animal models. They can be attributed to the prothrombotic response, which attempts to prevent diffuse alveolar hemorrhage, but can instead result in overt clot formation with detrimental effects in patient recovery and survival.
+    head = Thrombotic complications seem to emerge as an important issue in patients infected with COVID-19. Preliminary reports on COVID-19 patients’ clinical and laboratory findings include thrombocytopenia, elevated D-dimer, prolonged prothrombin time, and disseminated intravascular coagulation.
 
     >>> Abstract
       Coronavirus disease 2019 (COVID-19) or severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), a novel coronavirus strain disease, has recently emerged in China and rapidly spread worldwide. This novel strain is highly transmittable and severe disease has been reported in up to 16% of hospitalized cases. More than 600,000 cases have been confirmed and the number of deaths is constantly increasing. COVID-19 hospitalized patients, especially those suffering from severe respiratory or systemic manifestations, fall under the spectrum of the acutely ill medical population, which is at increased venous thromboembolism risk. Thrombotic complications seem to emerge as an important issue in patients infected with COVID-19. Preliminary reports on COVID-19 patients’ clinical and laboratory findings include thrombocytopenia, elevated D-dimer, prolonged prothrombin time, and disseminated intravascular coagulation. As the pandemic is spreading and the whole picture is yet unknown, we highlight the importance of coagulation disorders in COVID-19 infected patients and review relevant data of previous coronavirus epidemics caused by the severe acute respiratory syndrome coronavirus 1 (SARS-CoV-1) and the Middle East Respiratory Syndrome coronavirus (MERS-CoV).
@@ -8414,7 +8411,7 @@ feed Research
   // Cardiovascular Complications in COVID-19
   doi: https://doi.org/10.1016/j.ajem.2020.04.048
   article 'Long_et_al_2020
-    head = COVID-19 is associated with a number of cardiovascular complications, including myocardial injury and myocarditis, AMI, heart failure, dysrhythmias, and VTE. Some of the medications utilized to treat COVID-19 also have potential cardiac complications.
+    head = COVID-19 can result in systemic inflammation, multiorgan dysfunction, and critical illness. The cardiovascular system is also affected, with complications including myocardial injury, myocarditis, acute myocardial infarction, heart failure, dysrhythmias, and venous thromboembolic events.
 
     >>> Background
       The coronavirus disease of 2019 (COVID-19) is caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). While systemic inflammation and pulmonary complications can result in significant morbidity and mortality, cardiovascular complications may also occur.
@@ -8747,7 +8744,7 @@ feed Research
   // Human leukocyte antigen susceptibility map for SARS-CoV-2
   doi: https://doi.org/10.1128/JVI.00510-20
   article 'Nguyen_et_al_2020
-    head = We found that HLA-B*46:01 had the fewest predicted binding peptides for SARS-CoV-2, suggesting individuals with this allele may be particularly vulnerable to COVID-19, as they were previously shown to be for SARS. Conversely, we found that HLA-B*15:03 showed the greatest capacity to present highly conserved SARS-CoV-2 peptides that are shared among common human coronaviruses, suggesting it could enable cross-protective T-cell based immunity. Finally, we report global distributions of HLA types with potential epidemiological ramifications in the setting of the current pandemic. Based on our study, we think variation in HLA genes is part of the explanation for the huge differences in infection severity in many COVID-19 patients. These differences in the HLA genes are probably not the only genetic factor that affects severity of COVID-19, but they may be a significant piece of the puzzle.
+    head = We report global distributions of HLA types with potential epidemiological ramifications in the setting of the current pandemic. We found that HLA-B*46:01 had the fewest predicted binding peptides for SARS-CoV-2, suggesting individuals with this allele may be particularly vulnerable to COVID-19. Conversely, we found that HLA-B*15:03 showed the greatest capacity to present highly conserved SARS-CoV-2 peptides that are shared among common human coronaviruses, suggesting it could enable cross-protective T-cell based immunity.
 
     >>> Abstract
       Genetic variability across the three major histocompatibility complex (MHC) class I genes (human leukocyte antigen [lsqb]HLA[rsqb] A, B, and C) may affect susceptibility to and severity of severe acute respiratory syndrome 2 (SARS-CoV-2), the virus responsible for coronavirus disease 2019 (COVID-19). We execute a comprehensive in silico analysis of viral peptide-MHC class I binding affinity across 145 HLA -A, -B, and -C genotypes for all SARS-CoV-2 peptides. We further explore the potential for cross-protective immunity conferred by prior exposure to four common human coronaviruses. The SARS-CoV-2 proteome is successfully sampled and presented by a diversity of HLA alleles. However, we found that HLA-B*46:01 had the fewest predicted binding peptides for SARS-CoV-2, suggesting individuals with this allele may be particularly vulnerable to COVID-19, as they were previously shown to be for SARS (Lin M, Tseng H-K, Trejaut JA, Lee H-L, Loo J-H, Chu C-C, Chen P-J, Su Y-W, Lim KH, Tsai Z-U, Lin R-Y, Lin R-S, Huang C-H. BMC Med Genet 4:9. 2003.). Conversely, we found that HLA-B*15:03 showed the greatest capacity to present highly conserved SARS-CoV-2 peptides that are shared among common human coronaviruses, suggesting it could enable cross-protective T-cell based immunity. Finally, we report global distributions of HLA types with potential epidemiological ramifications in the setting of the current pandemic.
@@ -8757,37 +8754,43 @@ feed Research
 
     -- exports
       !a
-      !b
-      !c
-      !d
-      !e
-      !f
-      !g
-      !h
 
     / April, 2020 - Journal of Virology
-    let !a self assert = We show that individual HLA, haplotype, and full genotype variability likely influence the capacity to respond to SARS-CoV-2 infection, and we note certain alleles in particular - HLA-B*46:01 that could be associated with more severe infection, as previously shown with SARS-CoV also.
+    let !a self assert = Understanding how variation in HLA may affect the course of COVID-19 could help identify individuals at higher risk from the disease. HLA typing can be fast and inexpensive. Pairing HLA typing with COVID-19 testing where feasible could improve assessment of viral severity in the population.
 
-    / April, 2020 - Journal of Virology
-    let !b self assert = Indeed, we further compare SARS-CoV and SARS-CoV-2 peptide presentation and note a high degree of similarity between the two across HLA types.We found similarities in how effective alleles were at identifying SARS and SARS-CoV-2. If an HLA allele appeared to be bad at recognizing SARS-CoV-2, it was also bad at recognizing SARS.
+    # -- exports
+    #   !a
+    #   !b
+    #   !c
+    #   !d
+    #   !e
+    #   !f
+    #   !g
+    #   !h
 
-    / April, 2020 - Journal of Virology
-    let !c self assert = We identify HLA -B*46:01 as the HLA allele with the fewest predicted binding peptides for SARS-CoV-2. We performed the same analyses for the closely related SARS-CoV proteome and similarly note that HLA-B*46:01 was predicted to present the fewest SARS-CoV peptides, keeping with previous clinical data associating this allele with severe disease.
-
-    / April, 2020 - Journal of Virology
-    let !d self assert = Acknowledging the challenges inferring cross-protective immunity among closely related peptides, we confined attention exclusively to identical peptide matches. In total, 564 such 8 to 12 peptides were found to share 100% identity with corresponding 115 OC43, HKU1, NL63, and 229E sequences (467, 460, 179, and 157 peptides, respectively)
-
-    / April, 2020 - Journal of Virology
-    let !e self assert = We found that 122 alleles HLA-A*02:02, HLA-B*15:03, and HLA-C*12:03 were the top presenters of conserved 123 peptides. Conversely, we note that 56 different HLA alleles demonstrated no appreciable 124 binding affinity (<500nM) to any of the conserved SARS-CoV-2 peptides, suggesting a 125 concomitant lack of potential for cross-protective immunity from other human coronaviruses. We note, in particular, HLA-B*46:01 is among these alleles.
-
-    / April, 2020 - Journal of Virology
-    let !f self assert = Finally, this is the first study to report global distributions of HLA types and haplotypes with potential epidemiological ramifications in the setting of the current pandemic. we specifically highlight the global distributions of the three best presenting (A*02:02, B*15:03, C*12:03) and three of the worst presenting (A*25:01, B*46:01,150 C*01:02) HLA-A, -B, and -C alleles. We found that in general, there is no correlation between the HLA allelic frequency in the population and allelic capacity to bind SARS-CoV or SARS-CoV-2 peptides, irrespective of estimated timing of peptide production during the viral replication cycle.
-
-    / April, 2020 - Journal of Virology
-    let !g self assert = We then identified 3,382 individuals with full HLA genotype data and noted wide variability in their capacity to present peptides from the SARS-CoV-2 proteome, albeit with a small minority of individuals at either extreme.
-
-    / April, 2020 - Journal of Virology
-    let !h self assert = Based on our study, we think variation in HLA genes is part of the explanation for the huge differences in infection severity in many COVID-19 patients. These differences in the HLA genes are probably not the only genetic factor that affects severity of COVID-19, but they may be a significant piece of the puzzle. It is important to further study how HLA types can clinically affect COVID-19 severity and to test these predictions using real cases. Understanding how variation in HLA types may affect the clinical course of COVID-19 could help identify individuals at higher risk from the disease.
+    # / April, 2020 - Journal of Virology
+    # let !a self assert = We show that individual HLA, haplotype, and full genotype variability likely influence the capacity to respond to SARS-CoV-2 infection, and we note certain alleles in particular - HLA-B*46:01 that could be associated with more severe infection, as previously shown with SARS-CoV also.
+    #
+    # / April, 2020 - Journal of Virology
+    # let !b self assert = Indeed, we further compare SARS-CoV and SARS-CoV-2 peptide presentation and note a high degree of similarity between the two across HLA types.We found similarities in how effective alleles were at identifying SARS and SARS-CoV-2. If an HLA allele appeared to be bad at recognizing SARS-CoV-2, it was also bad at recognizing SARS.
+    #
+    # / April, 2020 - Journal of Virology
+    # let !c self assert = We identify HLA -B*46:01 as the HLA allele with the fewest predicted binding peptides for SARS-CoV-2. We performed the same analyses for the closely related SARS-CoV proteome and similarly note that HLA-B*46:01 was predicted to present the fewest SARS-CoV peptides, keeping with previous clinical data associating this allele with severe disease.
+    #
+    # / April, 2020 - Journal of Virology
+    # let !d self assert = Acknowledging the challenges inferring cross-protective immunity among closely related peptides, we confined attention exclusively to identical peptide matches. In total, 564 such 8 to 12 peptides were found to share 100% identity with corresponding 115 OC43, HKU1, NL63, and 229E sequences (467, 460, 179, and 157 peptides, respectively)
+    #
+    # / April, 2020 - Journal of Virology
+    # let !e self assert = We found that 122 alleles HLA-A*02:02, HLA-B*15:03, and HLA-C*12:03 were the top presenters of conserved 123 peptides. Conversely, we note that 56 different HLA alleles demonstrated no appreciable 124 binding affinity (<500nM) to any of the conserved SARS-CoV-2 peptides, suggesting a 125 concomitant lack of potential for cross-protective immunity from other human coronaviruses. We note, in particular, HLA-B*46:01 is among these alleles.
+    #
+    # / April, 2020 - Journal of Virology
+    # let !f self assert = Finally, this is the first study to report global distributions of HLA types and haplotypes with potential epidemiological ramifications in the setting of the current pandemic. we specifically highlight the global distributions of the three best presenting (A*02:02, B*15:03, C*12:03) and three of the worst presenting (A*25:01, B*46:01,150 C*01:02) HLA-A, -B, and -C alleles. We found that in general, there is no correlation between the HLA allelic frequency in the population and allelic capacity to bind SARS-CoV or SARS-CoV-2 peptides, irrespective of estimated timing of peptide production during the viral replication cycle.
+    #
+    # / April, 2020 - Journal of Virology
+    # let !g self assert = We then identified 3,382 individuals with full HLA genotype data and noted wide variability in their capacity to present peptides from the SARS-CoV-2 proteome, albeit with a small minority of individuals at either extreme.
+    #
+    # / April, 2020 - Journal of Virology
+    # let !h self assert = Based on our study, we think variation in HLA genes is part of the explanation for the huge differences in infection severity in many COVID-19 patients. These differences in the HLA genes are probably not the only genetic factor that affects severity of COVID-19, but they may be a significant piece of the puzzle. It is important to further study how HLA types can clinically affect COVID-19 severity and to test these predictions using real cases. Understanding how variation in HLA types may affect the clinical course of COVID-19 could help identify individuals at higher risk from the disease.
 
 
   # Aerosol Emission
@@ -8956,7 +8959,7 @@ feed Research
   // High Contagiousness and Rapid Spread of Severe Acute Respiratory Syndrome Coronavirus 2
   doi: https://doi.org/10.3201/eid2607.200282
   article 'Sanche_et_al_2020
-    head = In this study, we estimated several basic epidemiologic parameters, including the incubation period (4.2 days), a time dependent duration from symptom onset to hospitalization (changing from 5.5 days in early January to 1.5 days in late January outside Hubei Province), and the time from symptom onset to death (16.1 days). By using 2 distinct approaches, we estimated the growth rate of the early outbreak in Wuhan to be 0.21–0.30 per day (a doubling time of 2.3–3.3 days), suggesting a much faster rate of spread than initially measured.  Assuming a serial interval of 6–9 days, we calculated a median R0 value of 5.7 (95% CI 3.8–8.9).
+    head = We estimated several basic epidemiologic parameters, including the incubation period (4.2 days), a time dependent duration from symptom onset to hospitalization (changing from 5.5 days in early January to 1.5 days in late January outside Hubei Province), and the time from symptom onset to death (16.1 days). We estimated the growth rate of the early outbreak in Wuhan to be 0.21–0.30 per day (a doubling time of 2.3–3.3 days). Assuming a serial interval of 6–9 days, we calculated a median R0 value of 5.7 (95% CI 3.8–8.9).
 
     >>> Abstract
       Severe acute respiratory syndrome coronavirus 2 is the causative agent of the 2019 novel coronavirus disease pandemic. Initial estimates of the early dynamics of the outbreak in Wuhan, China, suggested a doubling time of the number of infected persons of 6–7 days and a basic reproductive number (R0) of 2.2–2.7. We collected extensive individual case reports across China and estimated key epidemiologic parameters, including the incubation period. We then designed 2 mathematical modeling approaches to infer the outbreak dynamics in Wuhan by using high-resolution domestic travel and infection data. Results show that the doubling time early in the epidemic in Wuhan was 2.3–3.3 days. Assuming a serial interval of 6–9 days, we calculated a median R0 value of 5.7 (95% CI 3.8–8.9). We further show that active surveillance, contact tracing, quarantine, and early strong social distancing efforts are needed to stop transmission of the virus.
@@ -8971,7 +8974,7 @@ feed Research
       !g
 
     / April, 2020 - Emerging Infectious Diseases
-    let !a self assert = Our estimate of the time from initial exposure to symptom onset (i.e., the incubation period) is 4.2 days (95% CI 3.5–5.1 days). The time from symptom onset to hospitalization showed evidence of time dependence. Before January 18, the time from symptom onset to hospitalization was 5.5 days (95% CI 4.6–6.6 days), whereas after January 18, the duration shortened significantly to 1.5 days (95% CI 1.2–1.9 days) (p<0.001 by Mann–Whitney U test).
+    let !a self assert = Our estimate of the time from initial exposure to symptom onset (i.e., the incubation period) is 4.2 days (95% CI 3.5–5.1 days). The time from symptom onset to hospitalization showed evidence of time dependence. Before January 18, the time from symptom onset to hospitalization was 5.5 days (95% CI 4.6–6.6 days), whereas after January 18, the duration shortened significantly to 1.5 days (95% CI 1.2–1.9 days).
 
     / April, 2020 - Emerging Infectious Diseases
     let !b self assert = We also found that the time from initial hospital admittance to discharge was 11.5 days (95% CI 8.0–17.3 days) and from initial hospital admittance to death was 11.2 days (95% CI 8.7–14.9 days). The time from symptom onset to death was estimated to be 16.1 days (95% CI 13.1–20.2 days).
@@ -9152,7 +9155,7 @@ feed Research
   // Hyperinflammatory shock in children during COVID-19 pandemic
   doi: https://doi.org/10.1016/S0140-6736(20)31094-1
   article 'Riphagen_et_al_2020
-    head =  The present study shows that COVID-19 can often present as a common cold-like illness. SARS-CoV-2 can actively replicate in the upper respiratory tract, and is shed for a prolonged time after symptoms end, including in stool. These findings suggest adjustments of current case definitions and re-evaluation of the prospects of outbreak containment.
+    head =  We noted an unprecedented cluster of eight children with hyperinflammatory shock, showing features similar to atypical Kawasaki disease. Clinical presentations were similar, with unrelenting fever (38–40°C), variable rash, conjunctivitis, peripheral oedema, and generalised extremity pain with significant gastrointestinal symptoms.
 
     -- exports
       !a
@@ -9278,7 +9281,7 @@ feed Research
   // An Outbreak of Influenza aboard a Commercial Airliner
   doi: https://doi.org/10.1093/oxfordjournals.aje.a112781
   article 'Moser_et_al_1979
-    head = A jet airliner with 54 persons aboard was delayed on the ground for three hours because of engine failure during a takeoff attempt. Most passengers stayed on the airplane during the delay. Within 72 hours, 72 per cent of the passengers became III with symptoms of cough, fever, fatigue, headache, sore throat and myalgia. One passenger, the apparent Index case, was III on the airplane, and the clinical attack rate among the others varied with the amount of time spent aboard. Virus antigenlcally similar to A/Texas/1/77 (H3N2) was Isolated from 8 of 31 passengers cultured, and 20 of 22 ill persons tested had serologlc evidence of infection with this virus. The airplane ventilation system was inoperative during the delay and this may account for the high attack rate.
+    head = A jet airliner with 54 persons aboard was delayed on the ground for three hours. Most passengers stayed on the airplane during the delay. Within 72 hours, 72 per cent of the passengers became III with symptoms of cough, fever, fatigue, headache, sore throat and myalgia. The airplane ventilation system was inoperative during the delay and this may account for the high attack rate.
 
     -- exports
       !a
@@ -9804,7 +9807,7 @@ feed Research
     let !g self assert = Compared with the outbreak in Beijing where effective SARS control was delayed for several weeks, stringent transmission control measures in Tianjin started sooner (i.e. 4 days) after the index case was identified. As a result, there were fewer community transmissions in Tianjin and a large proportion of SARS cases occurred within medical settings. The number of cases from Hospital P accounted for 51-4 % of the SARS cases in Tianjin.
 
     / December, 2005 - Epidemiol. Infect
-    let !h self assert = The term SARS super-spreader has been used to describe certain individuals who have been implicated in spreading SARS to numerous other individuals. SARS super-spreaders were noticed in several SARS outbreaks in 2003. The SARS outbreak in Tianjin as described in this paper seems typical of an outbreak associated with super-spreaders. While it is not clear whether super-spreaders are associated with more contagious viral strains or simply a result of unprotected natural transmission, it highlights the critical importance of early intervention in controlling SARS transmission.
+    let !h self assert = The SARS outbreak in Tianjin as described in this paper seems typical of an outbreak associated with super-spreaders. While it is not clear whether super-spreaders are associated with more contagious viral strains or simply a result of unprotected natural transmission, it highlights the critical importance of early intervention in controlling SARS transmission.
 
     / December, 2005 - Epidemiol. Infect
     let !i self assert = Finally, this study only describes the outbreak in Hospital P. Most of the SARS cases in Tianjin occurred in this hospital. Thus, this study reflects one major component of the outbreak of SARS in Tianjin, providing a snapshot of a SARS outbreak in one hospital. Our findings add to our understanding of disease control, which may help us to better prepare to confront other emerging diseases in the future.
@@ -9875,7 +9878,7 @@ feed Research
   // Superspreading and the effect of individual variation on disease emergence
   doi: https://doi.org/10.1038/nature04153
   article 'Lloyd-Smith_et_al_2005
-    head = The central role of R0 in epidemic analysis is unassailable, but our findings show that emerging disease outbreaks cannot be fully understood if individual variation in infectiousness is neglected. Examination of other population processes dependent on small numbers of individuals may yield similar insights. Our findings also indicate that superspreading is a normal feature of disease spread, and to frame ongoing discussion we propose a rigorous definition for superspreading events and a method to predict their frequency.
+    head = Our findings indicate that superspreading is a normal feature of disease spread, and to frame ongoing discussion we propose a rigorous definition for superspreading events and a method to predict their frequency.
 
     >>> Abstract
       Population-level analyses often use average quantities to describe heterogeneous systems, particularly when variation does not arise from identifiable groups. A prominent example, central to our current understanding of epidemic spread, is the basic reproductive number, R0, which is defined as the mean number of infections caused by an infected individual in a susceptible population. Population estimates of R0 can obscure considerable individual variation in infectiousness, as highlighted during the global emergence of severe acute respiratory syndrome (SARS) by numerous ‘superspreading events’ in which certain individuals infected unusually large numbers of secondary cases. For diseases transmitted by non-sexual direct contacts, such as SARS or smallpox, individual variation is difficult to measure empirically, and thus its importance for outbreak dynamics has been unclear. Here we present an integrated theoretical and statistical analysis of the influence of individual variation in infectiousness on disease emergence. Using contact tracing data from eight directly transmitted diseases, we show that the distribution of individual infectiousness around R0 is often highly skewed. Model predictions accounting for this variation differ sharply from average-based approaches, with disease extinction more likely and outbreaks rarer but more explosive. Using these models, we explore implications for outbreak control, showing that individual-specific control measures outperform population-wide measures. Moreover, the dramatic improvements achieved through targeted control policies emphasize the need to identify predictive correlates of higher infectiousness. Our findings indicate that superspreading is a normal feature of disease spread, and to frame ongoing discussion we propose a rigorous definition for superspreading events and a method to predict their frequency.
@@ -9923,7 +9926,7 @@ feed Research
   // Outbreak of Tuberculosis among Regular Patrons of a Neighborhood Bar
   doi: https://doi.org/10.1056/NEJM199507273330404
   article 'Kline_et_al_1995
-    head = We report an outbreak caused by nonresidential exposure at a neighborhood bar. A highly infectious person with cavitary tuberculosis spent much of his time at the bar for several months. He became increasingly symptomatic, yet remained untreated and without a diagnosis. Mental health problems and chronic alcoholism effectively blocked his access to health care. The result was an outbreak of tuberculosis among those who frequented the bar. The outbreak had a substantial impact on community health, contributing 35 percent of all new active cases of tuberculosis in Minneapolis during 1992.
+    head = A highly infectious person with cavitary tuberculosis spent much of his time at the bar for several months. The result was an outbreak of tuberculosis among those who frequented the bar. The outbreak had a substantial impact on community health, contributing 35 percent of all new active cases of tuberculosis in Minneapolis during 1992.
 
     >>> Background
       Outbreaks of tuberculosis have been reported in prisons, nursing homes, urban homeless shelters, and other crowded settings. We report a nonresidential outbreak of tuberculosis that originated in a neighborhood bar.
@@ -9992,7 +9995,7 @@ feed Research
   // Heterogeneities in the transmission of infectious agents: implications for the design of control programs.
   doi: https://doi.org/10.1073/pnas.94.1.338
   article 'Woolhouse_et_al_1997
-    head = From an analysis of the distributions of measures of transmission rates among hosts, we identify an empirical relationship suggesting that, typically, 20% of the host population contributes at least 80% of the net transmission potential, as measured by the basic reproduction number, R0. This is an example of a statistical pattern known as the 20/80 rule. The rule applies to a variety of disease systems, including vector-borne parasites and sexually transmitted pathogens. The rule implies that control programs targeted at the “core” 20% group are potentially highly effective and, conversely, that programs that fail to reach all of this group will be much less effective than expected in reducing levels of infection in the population as a whole.
+    head = From an analysis of the distributions of measures of transmission rates among hosts, we identify an empirical relationship suggesting that, typically, 20% of the host population contributes at least 80% of the net transmission potential, as measured by the basic reproduction number, R0. This is an example of a statistical pattern known as the 20/80 rule. The rule applies to a variety of disease systems, including vector-borne parasites and sexually transmitted pathogens.
 
     -- exports
       !a
@@ -10029,21 +10032,23 @@ feed Research
   // Perspectives on the basic reproductive ratio
   doi: https://doi.org/10.1098/rsif.2005.0042
   article 'Heffernan_et_al_2007
-    head =  In this paper we give a brief overview of common methods of formulating R0 and surrogate threshold parameters from deterministic, non-structured models. We also review common means of estimating R0 from epidemiological data. Finally, we survey the recent use of R0 in assessing emerging diseases, such as severe acute respiratory syndrome and avian influenza, a number of recent livestock diseases, and vector-borne diseases malaria, dengue and West Nile virus.
+    head = R0 is estimated in order to gauge the relative risk associated with a pathogen. These estimates are then used to compare the transmissibility of the disease to other well-known (and better understood) pathogens. Some time is needed to accrue sufficient incidence data for these estimates of R0, and typically, R0 is only quantified after the epidemic has run its course, or is at least well established.
 
     >>> Abstract
       The basic reproductive ratio, R0, is defined as the expected number of secondary infections arising from a single individual during his or her entire infectious period, in a population of susceptibles. This concept is fundamental to the study of epidemiology and within-host pathogen dynamics. Most importantly, R0 often serves as a threshold parameter that predicts whether an infection will spread. Related parameters which share this threshold behaviour, however, may or may not give the true value of R0. In this paper we give a brief overview of common methods of formulating R0 and surrogate threshold parameters from deterministic, non-structured models. We also review common means of estimating R0 from epidemiological data. Finally, we survey the recent use of R0 in assessing emerging diseases, such as severe acute respiratory syndrome and avian influenza, a number of recent livestock diseases, and vector-borne diseases malaria, dengue and West Nile virus.
 
+    -- exports
+      !a
 
-    # / June, 2007 - Journal of the Royal Society Interface
-    # let !a self assert =
+    / June, 2007 - Journal of the Royal Society Interface
+    let !a self assert =  A numerical estimate of R0 for a specific disease does not, in and of itself, inform public health measures. These values are instead used to justify severe or costly control, or less severe, more sustainable measures
 
 
   # superspreader
   // Super-spreaders in infectious diseases.
   doi: https://doi.org/10.1016/j.ijid.2010.06.020
   article 'Stein_et_al_2011
-    head = The analysis of SARS transmission, and reports from other outbreaks, unveil a complex scenario in which super-spreading events are shaped by multiple factors, including co-infection with another pathogen, immune suppression, changes in airflow dynamics, delayed hospital admission, misdiagnosis, and inter-hospital transfers. Predicting and identifying super-spreaders open significant medical and public health challenges, and represent important facets of infectious disease management and pandemic preparedness plans.
+    head = The analysis of SARS transmission, and reports from other outbreaks, unveil a complex scenario in which super-spreading events are shaped by multiple factors, including co-infection with another pathogen, immune suppression, changes in airflow dynamics, delayed hospital admission, misdiagnosis, and inter-hospital transfers.
 
     >>> Summary
       Early studies that explored host-pathogen interactions assumed that infected individuals within a population have equal chances of transmitting the infection to others. Subsequently, in what became known as the 20/80 rule, a small percentage of individuals within any population was observed to control most transmission events. This empirical rule was shown to govern inter-individual transmission dynamics for many pathogens in several species, and individuals who infect disproportionately more secondary contacts, as compared to most others, became known as super-spreaders. Studies conducted in the wake of the severe acute respiratory syndrome (SARS) pandemic revealed that, in the absence of super-spreading events, most individuals infect few, if any, secondary contacts. The analysis of SARS transmission, and reports from other outbreaks, unveil a complex scenario in which super-spreading events are shaped by multiple factors, including co-infection with another pathogen, immune suppression, changes in airflow dynamics, delayed hospital admission, misdiagnosis, and inter-hospital transfers. Predicting and identifying super-spreaders open significant medical and public health challenges, and represent important facets of infectious disease management and pandemic preparedness plans.
@@ -10057,18 +10062,18 @@ feed Research
   // An Analysis of 38 Pregnant Women with COVID-19, Their Newborn Infants, and Maternal-Fetal Transmission of SARS-CoV-2: Maternal Coronavirus Infections and Pregnancy Outcomes
   doi: https://doi.org/10.5858/arpa.2020-0901-SA
   article 'Schwartz_et_al_2020
-    head = This analysis reveals that unlike coronavirus infections of pregnant women caused by SARS and MERS, in these 38 pregnant women COVID-19 did not lead to maternal deaths. Importantly, and similar to pregnancies with SARS and MERS, there were no confirmed cases of intrauterine transmission of SARS-CoV-2 from mothers with COVID-19 to their fetuses. All neonatal specimens tested, including in some cases placentas, were negative by rt-PCR for SARS-CoV-2.
+    head = At this point in the global pandemic of COVID-19 infection there is no evidence that SARSCoV-2 undergo intrauterine or transplacental transmission from infected pregnant women to their fetuses.
 
     >>> Abstract
       The emergence of a novel coronavirus, termed SARS-CoV-2, and the potentially life-threating respiratory disease that it can produce, COVID-19, has rapidly spread across the globe creating a massive public health problem. Previous epidemics of many emerging viral infections have typically resulted in poor obstetrical outcomes including maternal morbidity and mortality, maternal-fetal transmission of the virus, and perinatal infections and death. This communication reviews the effects of two previous coronavirus infections - severe acute respiratory syndrome (SARS) caused by SARS-CoV and Middle East respiratory syndrome (MERS) caused by MERS-CoV - on pregnancy outcomes. In addition, it analyzes literature describing 38 pregnant women with COVID-19 and their newborns in China to assess the effects of SARS-CoV-2 on the mothers and infants including clinical, laboratory and virologic data, and the transmissibility of the virus from mother to fetus. This analysis reveals that unlike coronavirus infections of pregnant women caused by SARS and MERS, in these 38 pregnant women COVID-19 did not lead to maternal deaths. Importantly, and similar to pregnancies with SARS and MERS, there were no confirmed cases of intrauterine transmission of SARS-CoV-2 from mothers with COVID-19 to their fetuses. All neonatal specimens tested, including in some cases placentas, were negative by rt-PCR for SARS-CoV-2. At this point in the global pandemic of COVID-19 infection there is no evidence that SARSCoV-2 undergo intrauterine or transplacental transmission from infected pregnant women to their fetuses. Analysis of additional cases is necessary to determine if this remains true.
 
-    -- exports
-     !a
-     !b
-     !c
-     !d
-     !e
-     !f
+    # -- exports
+    #  !a
+    #  !b
+    #  !c
+    #  !d
+    #  !e
+    #  !f
 
     / March, 2020 - Arch Pathol Lab Med
     let !a self assert = In this analysis of the detailed published reports of 38 pregnant women with COVID-19, of whom 37 had rt-PCR-confirmed SARS-CoV-2 infection, there were no cases of either severe pneumonia or maternal deaths.
@@ -10125,7 +10130,7 @@ feed Research
   // Universal Screening for SARS-CoV-2 in Women Admitted for Delivery
   doi: https://doi.org/10.1056/NEJMc2009316
   article 'Sutton_et_al_2020
-    head = Our use of universal SARS-CoV-2 testing in all pregnant patients presenting for delivery revealed that at this point in the pandemic in New York City, most of the patients who were positive for SARS-CoV-2 at delivery were asymptomatic, and more than one of eight asymptomatic patients who were admitted to the labor and delivery unit were positive for SARS-CoV-2. Although this prevalence has limited generalizability to geographic regions with lower rates of infection, it underscores the risk of Covid-19 among asymptomatic obstetrical patients. Moreover, the true prevalence of infection may be underreported because of false negative results of tests to detect SARS-CoV-2.
+    head = Most of the patients who were positive for SARS-CoV-2 at delivery were asymptomatic, and more than one of eight asymptomatic patients who were admitted to the labor and delivery unit were positive for SARS-CoV-2. Although this prevalence has limited generalizability to geographic regions with lower rates of infection, it underscores the risk of Covid-19 among asymptomatic obstetrical patients.
 
     -- exports
      !a
@@ -10213,13 +10218,13 @@ feed Research
     let !b self assert = Likewise, patients with a BMI >35 and aged <60 years were 2.2 (95% CI 1.7-2.9, p<.0001) and 3.6 (95% CI 2.5-5.3, p=<.0001) times more likely to be admitted to acute and critical care compared to patients in the same age category who had BMI <30.
 
     / April, 2020 - Clinical Infectious Diseases
-    let !c self assert = The BMI range of individuals in this study appears representative of the nation. There is geographic variation in reported mortality, as South Korea, China and Italy report case fatality rates of 0.8, 2.3 and 7.2, respectively and regional risk factors such as prevalence of smoking, pollution or aging population has been cited. Unfortunately, obesity in people <60 years is a newly identified epidemiologic risk factor which may contribute to increased morbidity rates experienced in the US.
+    let !c self assert = There is geographic variation in reported mortality, as South Korea, China and Italy report case fatality rates of 0.8, 2.3 and 7.2, respectively and regional risk factors such as prevalence of smoking, pollution or aging population has been cited. Unfortunately, obesity in people <60 years is a newly identified epidemiologic risk factor which may contribute to increased morbidity rates experienced in the US.
 
   # Tag - Obesity, Cormorbidconditions
   // High prevalence of obesity in severe acute respiratory syndrome coronavirus‐2 (SARS‐CoV‐2) requiring invasive mechanical ventilation
   doi: https://doi.org/10.1002/oby.22831
   article 'Simonnet_et_al_2020
-    head = This cohort study showed that obesity is a factor in disease severity of SARS-CoV2, having greatest impact in patients with a BMI ≥35 kg/m2. Patients with obesity and especially those with severe obesity should take extra measures to avoid COVID-19 contamination by enforcing prevention during the current pandemic.
+    head = The present study showed a high frequency of obesity among patients admitted in intensive care for SARS‐CoV‐2. Disease severity increased with BMI. Obesity is a risk factor for SARS‐CoV‐2 severity requiring increased attention to preventive measures in susceptible individuals.
 
     >>> Objective
       The Covid‐19 pandemic is rapidly spreading worldwide, notably in Europe and North America, where obesity is highly prevalent. The relation between obesity and severe acute respiratory syndrome coronavirus‐2 (SARS‐CoV‐2) has not been fully documented.
@@ -10272,10 +10277,10 @@ feed Research
     let !c self assert = In the COVID-NET catchment population, approximately 49% of residents are male and 51% of residents are female, whereas 54% of COVID-19-associated hospitalizations occurred in males and 46% occurred in females. These data suggest that males may be disproportionately affected by COVID-19 compared with females.
 
     / April, 2020 - Morbidity and Mortality Weekly Report.
-    let !d self assert = Similarly, in the COVID-NET catchment population, approximately 59% of residents are white, 18% are black, and 14% are Hispanic; however, among 580 hospitalized COVID-19 patients with race/ethnicity data, approximately 45% were white, 33% were black, and 8% were Hispanic, suggesting that black populations might be disproportionately affected by COVID-19
+    let !d self assert = In the COVID-NET catchment population, approximately 59% of residents are white, 18% are black, and 14% are Hispanic; however, among 580 hospitalized COVID-19 patients with race/ethnicity data, approximately 45% were white, 33% were black, and 8% were Hispanic, suggesting that black populations might be disproportionately affected by COVID-19
 
     / April, 2020 - Morbidity and Mortality Weekly Report.
-    let !e self assert = Among hospitalized COVID-19 patients, hypertension prevalence was 50% (range across age groups = 18%–73%), and obesity prevalence was 48% (range across age groups = 41%–59%). In addition, the prevalences of several underlying conditions identified through COVID-NET were similar to those for hospitalized influenza patients identified through FluSurv-NET during influenza seasons 2014–15 through 2018–19: 41%–51% of patients had cardiovascular disease (excluding hypertension), 39%–45% had chronic metabolic disease, 33%–40% had obesity, and 29%–31% had chronic lung disease (6). Data on hypertension are not collected by FluSurv-NET.
+    let !e self assert = Among hospitalized COVID-19 patients, hypertension prevalence was 50%, and obesity prevalence was 48%.
 
     / April, 2020 - Morbidity and Mortality Weekly Report.
     let !f self assert = Among women aged 15–49 years hospitalized with COVID-19 and identified through COVID-NET, 9% were pregnant, which is similar to an estimated 9.9% of the general population of women aged 15–44 years who are pregnant at any given time based on 2010 data.†† Similar to other reports from the United States (9) and China (1), these findings indicate that a high proportion of U.S. patients hospitalized with COVID-19 are older and have underlying medical conditions.
@@ -10336,7 +10341,7 @@ feed Research
   // Elevated exhaustion levels and reduced functional diversity of T cells in peripheral blood may predict severe progression in COVID-19 patients
   doi: https://doi.org/10.1038/s41423-020-0401-3
   article 'Zheng_et_al_2020b
-    head = The data indicate that COVID-19, similar to some chronic infections, damages the function of CD4+ T cells and promotes excessive activation and possibly subsequent exhaustion of CD8+ T cells. Together, these perturbations of T cell subsets may eventually diminish host antiviral immunity. It also indicates that SARS-CoV-2 may possess a unique immune pathology compared to other coronaviruses.
+    head = COVID-19, similar to some chronic infections, damages the function of CD4+ T cells and promotes excessive activation and possibly subsequent exhaustion of CD8+ T cells. Together, these perturbations of T cell subsets may eventually diminish host antiviral immunity. It also indicates that SARS-CoV-2 may possess a unique immune pathology compared to other coronaviruses.
 
     -- exports
       !a
@@ -10386,7 +10391,7 @@ feed Research
   // SARS-CoV-2 Infection of the Placenta
   doi: https://doi.org/10.1101/2020.04.30.20083907
   article 'Hosier_et_al_2020
-    head = These findings suggest that Covid-19 may have contributed to placental inflammation that ultimately resulted in early-onset preeclampsia and worsening maternal disease.
+    head = This case demonstrates, for the first time, SARS-CoV-2 invasion of the placenta, highlighting the potential for severe morbidity among pregnant women with Covid-19.
 
     >>> Abstract
       Background: The effects of Covid-19 in pregnancy remain relatively unknown. We present a case of second trimester pregnancy with symptomatic Covid-19 complicated by severe preeclampsia and placental abruption. Methods: We analyzed placenta for the presence of SARS-CoV-2 through molecular and immunohistochemical assays and by and electron microscopy, and we measured the maternal antibody response in blood to this infection. Results: SARS-CoV-2 localized predominantly to syncytiotrophoblast cells at the maternal-fetal interface of the placenta. Histological examination of the placenta revealed a dense macrophage infiltrate, but no evidence for vasculopathy typically associated with preeclampsia. Conclusion: This case demonstrates, for the first time, SARS-CoV-2 invasion of the placenta, highlighting the potential for severe morbidity among pregnant women with Covid-19.
@@ -10566,10 +10571,10 @@ feed Research
       !d
 
     / April, 2020 - JAMA
-    let !a self assert = Among the 32 583 confirmed COVID-19 cases, females had a higher rate of confirmed cases compared with males, but males were more likely to have severe or critical illness. This is consistent with previous reports from China suggesting a higher crude fatality rate among men compared with women (2.8% vs 1.7%), and another study in critically ill patients demonstrating that more men were affected (67%) than women (33%).
+    let !a self assert = Among the 32583 confirmed COVID-19 cases, females had a higher rate of confirmed cases compared with males, but males were more likely to have severe or critical illness. This is consistent with previous reports from China suggesting a higher crude fatality rate among men compared with women (2.8% vs 1.7%), and another study in critically ill patients demonstrating that more men were affected (67%) than women (33%).
 
     / April, 2020 - JAMA
-    let !b self assert = Although the reasons for these differences are unknown, it is possible that men were more likely to be current smokers and had a higher proportion of comorbid conditions, which might worsen their prognosis.
+    let !b self assert = Females had a higher rate of confirmed cases compared with males, but males were more likely to have severe or critical illness. Although the reasons for these differences are unknown, it is possible that men were more likely to be current smokers and had a higher proportion of comorbid conditions, which might worsen their prognosis.
 
     / April, 2020 - JAMA
     let !c self assert = The rate of cases in health care workers was substantially higher than in the general population between January 11 and February 1, indicating a high risk of nosocomial infection. This might be due to lower awareness and inadequate use of personal protective equipment in the early periods in this study, and later a severe shortage of medical resources.
@@ -10727,7 +10732,7 @@ feed Research
   // Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China
   doi: https://doi.org/10.1016/S0140-6736(20)30183-5
   article 'Huang_et_al_2020
-    head = 27 (66%) patients had direct exposure to Huanan seafood market. Market exposure was similar between the patients with ICU care (nine [69%]) and those with non-ICU care (18 [64%]). The symptom onset date of the first patient identified was Dec 1, 2019. None of his family members developed fever or any respiratory symptoms. No epidemiological link was found between the first patient and later cases.
+    head = 27 (66%) patients had direct exposure to Huanan seafood market. Market exposure was similar between the patients with ICU care (nine [69%]) and those with non-ICU care (18 [64%]). The symptom onset date of the first patient identified was Dec 1, 2019. No epidemiological link was found between the first patient and later cases.
 
     >>> Background
       A recent cluster of pneumonia cases in Wuhan, China, was caused by a novel betacoronavirus, the 2019 novel coronavirus (2019-nCoV). We report the epidemiological, clinical, laboratory, and radiological characteristics and treatment and clinical outcomes of these patients.
@@ -10745,7 +10750,7 @@ feed Research
       !a
 
     / Feb, 2020 - The Lancet
-    let !a self assert = We report here a cohort of 41 patients with laboratoryconfirmed 2019-nCoV infection. Patients had serious, sometimes fatal, pneumonia and were admitted to the designated hospital in Wuhan, China, by Jan 2, 2020. Clinical presentations greatly resemble SARS-CoV. Patients with severe illness developed ARDS and required ICU admission and oxygen therapy. The time between hospital admission and ARDS was as short as 2 days. At this stage, the mortality rate is high for 2019-nCoV, because six (15%) of 41 patients in this cohort died.
+    let !a self assert = 41 admitted hospital patients had been identified as having laboratory-confirmed 2019-nCoV infection. Most of the infected patients were men ; less than half had underlying diseases, including diabetes, hypertension, and cardiovascular disease. Complications include pneumonia, ARDS, acute cardiac injury and secondary infection.
 
 
   # Origin Wuhan
@@ -10889,7 +10894,7 @@ feed Research
   // COVID-19 illness in native and immunosuppressed states: A clinical–therapeutic staging proposal
   doi: https://doi.org/10.1016/j.healun.2020.03.012
   article 'Siddiqi_et_al_2020
-    head = The initial stage occurs at the time of inoculation and early establishment of disease. For most people, this involves an incubation period associated with mild and often non-specific symptoms, such as malaise, fever, and a dry cough.
+    head = It seems that there are 2 distinct but overlapping pathologic subsets; the first triggered by the virus itself and the second by the host response. Whether in native state, immunoquiescent state as in the elderly, or immunosuppressed state as in heart transplantation, the disease tends to present and follow these 2 phases, albeit in different levels of severity.
 
     -- exports
       !a
@@ -10928,7 +10933,7 @@ feed Research
   // Superspreading SARS Events, Beijing, 2003
   doi: https://dx.doi.org/10.3201/eid1002.030732
   article 'Shen_et_al_2004
-    head = Our investigation highlights several features of SARS transmission observed in multiple outbreaks, including the central role of hospitals in disease transmission, the difficulty in distinguishing SARS from other clinical symptoms, and the danger associated with delayed case detection and isolation. Our investigation suggests that superspreading was related to both the environment (e.g., hospitals where large numbers of contacts occur) and host (patients who were older and had more severe illness).
+    head = Our investigation highlights several features of SARS transmission observed in multiple outbreaks, including the central role of hospitals in disease transmission, the difficulty in distinguishing SARS from other clinical symptoms, and the danger associated with delayed case detection and isolation. Our investigation suggests that superspreading was related to both the environment and host.
 
     >>> Abstract
       Superspreading events were pivotal in the global spread of severe acute respiratory syndrome (SARS). We investigated superspreading in one transmission chain early in Beijing’s epidemic. Superspreading was defined as transmission of SARS to at least eight contacts. An index patient with onset of SARS 2 months after hospital admission was the source of four generations of transmission to 76 case-patients, including 12 healthcare workers and several hospital visitors. Four (5%) case circumstances met the superspreading definition. Superspreading appeared to be associated with older age (mean 56 vs. 44 years), case fatality (75% vs. 16%, p = 0.02, Fisher exact test), number of close contacts (36 vs. 0.37) and attack rate among close contacts (43% vs. 18.5%, p < 0.025). Delayed recognition of SARS in a hospitalized patient permitted transmission to patients, visitors, and healthcare workers. Older age and number of contacts merit investigation in future studies of superspreading.
@@ -11560,7 +11565,7 @@ feed Research
     let !c self assert = The possible reasons for the discrepancy after January 25 might be the low proportion of children exposed early in the outbreak; early detection for children who had had close contact with persons with diagnosed or suspected cases after strict control measures were conducted comprehensively; and difficult identification of the relatively milder clinical signs and symptoms in young patients than in infected adults (6), especially in the setting of limited resources in the early phase of the outbreak in Wuhan.
 
     / March, 2020 - Emerg Infect Dis
-    let !d self assert = We explored the incubation periods for 58 case-patients with definite exposure and detailed investigation information. The estimated mean incubation periods were 6.1 (range 1–16) days among 33 case-patients who had had close contact with symptomatic confirmed case-patients and 6.0 (range 1–15) days among 25 case-patients who had traveled to Wuhan and stayed <1 day over the previous 3 weeks. Estimated incubation periods were consistent with those previously reported
+    let !d self assert = We explored the incubation periods for 58 case-patients with definite exposure and detailed investigation information. The estimated mean incubation periods were 6.1 (range 1–16) days among 33 case-patients who had had close contact with symptomatic confirmed case-patients and 6.0 (range 1–15) days among 25 case-patients who had traveled to Wuhan and stayed <1 day over the previous 3 weeks.
 
     / March, 2020 - Emerg Infect Dis
     let !e self assert = Among 12 clusters of single intracluster transmission cases, 15 case-patients were infected within 5.5 days of the mean interval between illness onset of the infector and illness onset of the infectee. Among 56 clusters of single co-exposure cases, the mean interval of symptom onset between the primary and second case-patient within a cluster was 3.1 days, and the mean interval of symptom onset between the primary and last case-patient within a cluster was 3.6 days
@@ -11840,7 +11845,7 @@ feed Research
   // Clinical and immunologic features in severe and moderate Coronavirus Disease 2019
   doi: https://doi.org/10.1172/JCI137244
   article 'Chen_et_al_2020d
-    head = The SARS-CoV-2 infection induced cytokine storm and lymphopenia, particularly a decrease in CD4+ and CD8+ T cell counts, as well as suppressed IFN-γ production by CD4+ T cells, which might be correlated with disease severity of COVID-19. These potential immunological markers may be of importance due to their correlation with disease severity in COVID-19.
+    head = The SARS-CoV-2 infection may affect primarily T lymphocytes, particularly CD4+ and CD8+ T cells, resulting in a decrease in numbers as well as IFN-γ production by CD4+ T cells. These potential immunological markers may be of importance because of their correlation with disease severity in COVID-19.
 
     >>> Background
       Since December 2019, an outbreak of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) emerged in Wuhan, and is now becoming a global threat. We aimed to delineate and compare the immunological features of severe and moderate COVID-19.
@@ -12231,8 +12236,11 @@ feed Research
     >>> Interpretation
       The 2019-nCoV infection was of clustering onset, is more likely to affect older males with comorbidities, and can result in severe and even fatal respiratory diseases such as acute respiratory distress syndrome. In general, characteristics of patients who died were in line with the MuLBSTA score, an early warning model for predicting mortality in viral pneumonia. Further investigation is needed to explore the applicability of the MuLBSTA score in predicting the risk of mortality in 2019-nCoV infection.
 
-    # / January, 2020 - ScienceDirect
-    # let !a self assert =
+    -- exports
+      !a
+
+    / January, 2020 - ScienceDirect
+    let !a self assert = Patients had clinical manifestations of fever, cough, shortness of breath , muscle ache, confusion, headache, sore throat, rhinorrhoea, chest pain, diarrhoea, and nausea and vomiting. Patients showed bilateral pneumonia, patients showed multiple mottling and ground-glass opacity, and one patient had pneumothorax.
 
   # Tag - Chronically Ill - Comorbidit conditions
   // Comorbidity and its impact on 1,590 patients with COVID-19 in China: A Nationwide Analysis
@@ -12953,7 +12961,7 @@ feed Research
   // SARS-CoV-2 infection in 86 healthcare workers in two Dutch hospitals in March 2020
   doi: https://doi.org/10.1101/2020.03.23.20041913
   article 'Kluytmans_et_al_2020
-    head = The paper observation confirms the insidious nature of SARS-CoV-2 spread, given the high prevalence of mild clinical presentations that may go undetected. We therefore suggest adjusting the currently used case-definition for suspected COVID-19 in HCWs(Health care workers) by taking fever as one of the possible symptoms and not as a required symptom. Further improvement of the sensitivity of COVID-19 detection in HCWs can be achieved by adding severe myalgia and general malaise to the case definition.
+    head = Within two weeks after the first Dutch case was detected, a substantial proportion of HCWs with fever or respiratory symptoms were infected with SARS-CoV-2, probably caused by acquisition of the virus in the community during the early phase of local spread. The high prevalence of mild clinical presentations, frequently not including fever, asks for less stringent use of the currently recommended case-definition for suspected COVID-19.
 
     -- exports
       !a
@@ -13089,7 +13097,16 @@ feed Research
   // Estimates of the severity of coronavirus disease 2019: a model-based analysis
   doi: https://doi.org/10.1016/S1473-3099(20)30243-7
   article 'Verity_et_al_2020
-    head = Using data on 24 deaths that occurred in mainland China and 165 recoveries outside of China, we estimated the mean duration from onset of symptoms to death to be 17·8 days  and to hospital discharge to be 24·7 days
+    head = We estimated the mean duration from onset of symptoms to death to be 17·8 days and to hospital discharge to be 24·7 days. We obtained a best estimate of the case fatality ratio in China of 1·38% with substantially higher ratios in older age groups in those aged <60 years vs 6·4% in those aged ≥60 up to 13·4%  in those aged 80 years or older.
+
+    >>> Background
+      In the face of rapidly changing data, a range of case fatality ratio estimates for coronavirus disease 2019 (COVID-19) have been produced that differ substantially in magnitude. We aimed to provide robust estimates, accounting for censoring and ascertainment biases.
+    >>> Methods
+      We collected individual-case data for patients who died from COVID-19 in Hubei, mainland China (reported by national and provincial health commissions to Feb 8, 2020), and for cases outside of mainland China (from government or ministry of health websites and media reports for 37 countries, as well as Hong Kong and Macau, until Feb 25, 2020). These individual-case data were used to estimate the time between onset of symptoms and outcome (death or discharge from hospital). We next obtained age-stratified estimates of the case fatality ratio by relating the aggregate distribution of cases to the observed cumulative deaths in China, assuming a constant attack rate by age and adjusting for demography and age-based and location-based under-ascertainment. We also estimated the case fatality ratio from individual line-list data on 1334 cases identified outside of mainland China. Using data on the prevalence of PCR-confirmed cases in international residents repatriated from China, we obtained age-stratified estimates of the infection fatality ratio. Furthermore, data on age-stratified severity in a subset of 3665 cases from China were used to estimate the proportion of infected individuals who are likely to require hospitalisation.
+    >>> Findings
+      Using data on 24 deaths that occurred in mainland China and 165 recoveries outside of China, we estimated the mean duration from onset of symptoms to death to be 17·8 days (95% credible interval [CrI] 16·9–19·2) and to hospital discharge to be 24·7 days (22·9–28·1). In all laboratory confirmed and clinically diagnosed cases from mainland China (n=70117), we estimated a crude case fatality ratio (adjusted for censoring) of 3·67% (95% CrI 3·56–3·80). However, after further adjusting for demography and under-ascertainment, we obtained a best estimate of the case fatality ratio in China of 1·38% (1·23–1·53), with substantially higher ratios in older age groups (0·32% [0·27–0·38] in those aged <60 years vs 6·4% [5·7–7·2] in those aged ≥60 years), up to 13·4% (11·2–15·9) in those aged 80 years or older. Estimates of case fatality ratio from international cases stratified by age were consistent with those from China (parametric estimate 1·4% [0·4–3·5] in those aged <60 years [n=360] and 4·5% [1·8–11·1] in those aged ≥60 years [n=151]). Our estimated overall infection fatality ratio for China was 0·66% (0·39–1·33), with an increasing profile with age. Similarly, estimates of the proportion of infected individuals likely to be hospitalised increased with age up to a maximum of 18·4% (11·0–37·6) in those aged 80 years or older.
+    >>> Interpretation
+      These early estimates give an indication of the fatality ratio across the spectrum of COVID-19 disease and show a strong age gradient in risk of death.
 
     -- exports
       !a
@@ -13105,7 +13122,7 @@ feed Research
   // Similarity in Case Fatality Rates (CFR) of COVID-19/SARS-COV-2 in Italy and China
   doi: https://doi.org/10.3855/jidc.12600
   article 'Porcheddu_et_al_2020
-    head = It will be important to develop point-of-care devices to aid clinicians in stratifying elderly patients as early as possible to determine the potential level of care they will require to improve their chances of survival from COVID-19 disease.
+    head = Comparison between case fatality rates in China and Italy are identical at 2.3. Additionally, deaths are similar in both countries with fatalities in mostly the elderly with known comorbidities.
 
     >>> Abstract
       As of 28 February 2020, Italy had 888 cases of SARS-CoV-2 infections, with most cases in Northern Italy in the Lombardia and Veneto regions. Travel-related cases were the main source of COVID-19 cases during the early stages of the current epidemic in Italy. The month of February, however, has been dominated by two large clusters of outbreaks in Northern Italy, south of Milan, with mainly local transmission the source of infections. Contact tracing has failed to identify patient zero in one of the outbreaks. As of 28 February 2020, twenty-one cases of COVID-19 have died. Comparison between case fatality rates in China and Italy are identical at 2.3. Additionally, deaths are similar in both countries with fatalities in mostly the elderly with known comorbidities. It will be important to develop point-of-care devices to aid clinicians in stratifying elderly patients as early as possible to determine the potential level of care they will require to improve their chances of survival from COVID-19 disease.
@@ -13408,9 +13425,9 @@ feed Research
 
   # Tag - Blood coagulation, Diagnosis, Treatment
   // Prevalence of venous thromboembolism in patients with severe novel coronavirus pneumonia
-  doi: https://doi.org/10.1101/2020.03.17.20037713
+  doi: https://doi.org/10.1111/jth.14830
   article 'Cui_et_al_2020
-    head = The incidence of VTE in patients with severe NCP is 25% (20/81), which may be related to poor prognosis .The significant increase of D-dimer in severe NCP patients is a good index for identifying high-risk groups of VTE.
+    head = The incidence of VTE (venous thromboembolism) in patients with severe NCP is 25% (20/81), which may be related to poor prognosis .The significant increase of D-dimer in severe NCP patients is a good index for identifying high-risk groups of VTE.
 
     -- exports
       !a
@@ -13532,7 +13549,10 @@ feed Research
   // Difference of coagulation features between severe pneumonia induced by SARS-CoV2 and non-SARS-CoV2
   doi:  https://doi.org/10.1007/s11239-020-02105-8
   article 'Yin_et_al_2020
-    head = Patients with severe pneumonia induced by SARS-CoV2 had higher platelet count than those induced by non-SARS-CoV2, and only the former with markedly elevated D-dimer may beneft from anticoagulant therapy mainly with LMWH. Further prospective studies are needed to confrm these results
+    head = Coagulopathy may be found in quite a lot patients with severe pneumonia. Patients with severe pneumonia induced by SARS-CoV2 had higher platelet count than those induced by non-SARS-CoV2, and only the former with markedly elevated D-dimer may beneft from anticoagulant therapy.
+
+    >>> Abstract
+      Severe coronavirus disease 2019 (COVID-19) is commonly complicated with coagulopathy, the difference of coagulation features between severe pneumonia induced by SARS-CoV2 and non-SARS-CoV2 has not been analyzed. Coagulation results and clinical features of consecutive patients with severe pneumonia induced by SARS-CoV2 (COVID group) and non-SARS-CoV2 (non-COVID group) in Tongji hospital were retrospectively analyzed and compared. Whether patients with elevated D-dimer could benefit from anticoagulant treatment was evaluated. There were 449 COVID patients and 104 non-COVID patients enrolled into the study. The 28-day mortality in COVID group was approximately twofold of mortality in non-COVID group (29.8% vs. 15.4%, P = 0.003), COVID group were older (65.1 ± 12.0 vs. 58.4 ± 18.0, years, P < 0.001) and with higher platelet count (215 ± 100 vs. 188 ± 98, ×109/L, P = 0.015), comparing to non-COVID group. The 28-day mortality of heparin users were lower than nonusers In COVID group with D-dimer > 3.0 μg/mL (32.8% vs. 52.4%, P = 0.017). Patients with severe pneumonia induced by SARS-CoV2 had higher platelet count than those induced by non-SARS-CoV2, and only the former with markedly elevated D-dimer may benefit from anticoagulant treatment.
 
     -- exports
       !a
@@ -13557,7 +13577,7 @@ feed Research
   // Substituting Angiotensin-(1-7) to Prevent Lung Damage in SARSCoV2 Infection?
   doi: http://doi.org/10.1161/CIRCULATIONAHA.120.047297
   article 'Peiró_et_al_2020
-    head = This paper would like to suggest that during viral infection increasing the Ang-(1-7) concentration might be vital for protecting from endothelial cell activation and lung damage. The use of Ang-(1-7) or one of its mimetics should be considered among other strategies to prevent damage in high risk patients.
+    head = During viral infection increasing the Ang-(1-7) concentration might be vital for protecting from endothelial cell activation and lung damage. The use of Ang-(1-7) or one of its mimetics should be considered among other strategies to prevent damage in high risk patients.
 
     -- exports
       !a
@@ -13577,7 +13597,7 @@ feed Research
   // Effect of Renin-Angiotensin System Blockage in Patients with Acute Respiratory Distress Syndrome: A Retrospective Case Control Study
   doi:  https://doi.org/10.4266/kjccm.2016.00976
   article 'Kim_et_al_2017
-    head = The role of ACE inhibitor in the lungs is not well understood. We therefore conducted this study to elucidate the effect of renin-angiotensin system (RAS) blockage on the prognosis of patients with ARDS.
+    head = The RAS inhibitor group required a longer duration of mechanical ventilation and longer ICU stay. In survival analysis, the RAS inhibitor group showed better survival rates than the non-RAS group.
 
     >>> Results
       A total of 182 patients were included in the study. Thirty-seven patients (20.3%) took ACE inhibitor or angiotensin receptor blocker (ARB) during ICU admission, and 145 (79.7%) did not; both groups showed similar severity scores. In the ICU, mortality was 45.9% in the RAS inhibitor group and 58.6% in the non-RAS inhibitor group (P = 0.166). The RAS inhibitor group required a longer duration of mechanical ventilation (29.5 vs. 19.5, P = 0.013) and longer ICU stay (32.1 vs. 20.2 days, P < 0.001). In survival analysis, the RAS inhibitor group showed better survival rates than the non-RAS group (P < 0.001).
@@ -13639,7 +13659,7 @@ feed Research
   // Coronavirus Disease 2019 (COVID-19) Infection and Renin Angiotensin System Blockers
   doi: http://doi.org/10.1001/jamacardio.2020.1282
   article 'Bavishi_et_al_2020
-    head = This paper outlines the mechanisms by which ACEIs/ARBs may be of benefit in those with COVID-19, what the current recommendations are for their use in infected patients, and suggested areas for further research.
+    head = We outlines the mechanisms by which ACEIs/ARBs may be of benefit in those with COVID-19, what the current recommendations are for their use in infected patients, and suggested areas for further research.
 
     -- exports
       !a
@@ -13675,7 +13695,7 @@ feed Research
   // Renin–Angiotensin–Aldosterone System Inhibitors in Patients with Covid-19
   doi: http://doi.org/10.1056/NEJMsr2005760
   article 'Vaduganathan_et_al_2020
-    head = One or another of these drugs might be harmful or increase the risk of infection is only a hypothesis, and that there are other (equally plausible) hypotheses that this might not be the case or that some of them might actually beneficial. Abrupt withdrawal of RAAS inhibitors in high-risk patients, including those who have heart failure or have had myocardial infarction, may result in clinical instability and adverse health outcomes.Until further data are available, we think that RAAS inhibitors should be continued in patients in otherwise stable condition who are at risk for, being evaluated for, or with Covid-19.
+    head = Abrupt withdrawal of RAAS inhibitors in high-risk patients, including those who have heart failure or have had myocardial infarction, may result in clinical instability and adverse health outcomes.Until further data are available, we think that RAAS inhibitors should be continued in patients in otherwise stable condition who are at risk for, being evaluated for, or with Covid-19.
 
 
     -- exports
@@ -13697,7 +13717,7 @@ feed Research
     let !b self assert =  It is important to note that the plasma ACE2 level may not be a reliable indicator of the activity of the full-length membrane-bound form, in part because ACE2 is shed from the membrane, a process that appears to be separately regulated by an endogenous inhibitor.
 
     / March, 2020 - The New England journal of Medicine
-    let !c self assert = data showing the effects of ACE inhibitors, ARBs, and other RAAS inhibitors on lung-specific expression of ACE2 in experimental animal models and in humans are lacking. Furthermore, even if RAAS inhibitors modify ACE2 levels or activity (or both) in target tissue beds, clinical data are lacking to indicate whether this would in turn facilitate greater engagement and entry of SARS-CoV-2 spike protein
+    let !c self assert = Data showing the effects of ACE inhibitors, ARBs, and other RAAS inhibitors on lung-specific expression of ACE2 in experimental animal models and in humans are lacking. Furthermore, even if RAAS inhibitors modify ACE2 levels or activity (or both) in target tissue beds, clinical data are lacking to indicate whether this would in turn facilitate greater engagement and entry of SARS-CoV-2 spike protein
 
     / March, 2020 - The New England journal of Medicine
     let !d self assert = It has been postulated but unproven that unabated angiotensin II activity may be in part responsible for organ injury in Covid-19
@@ -13731,7 +13751,8 @@ feed Research
       !a
 
     / March, 2020 - The Lancet Respiratory medicine
-    let !a self assert = Based on a PubMed search on Feb 28, 2020, we did not find any evidence to suggest that antihypertensive calcium channel blockers increased ACE2 expression or activity, therefore these could be a suitable alternative treatment in these patients.
+    let !a self assert = We did not find any evidence to suggest that antihypertensive calcium channel blockers increased ACE2 expression or activity, therefore these could be a suitable alternative treatment in these patients.
+
 
   # Tag - Weather Influence
   // Seasonality of Respiratory Viral Infections
@@ -14216,7 +14237,7 @@ feed Research
   // Study of the lymphocyte change between COVID-19 and non-COVID-19 pneumonia cases suggesting other factors besides uncontrolled inflammation contributed to multi-organ injury
   doi: https://doi.org/10.1101/2020.02.19.20024885
   article 'Zheng_et_al_2020
-    head = The study indicates significantly different clinical features between 2019-nCoV-caused and non-2019-nCoV-caused pneumonia, especially in terms of lymphocytopenia and organ injury. Notably, correlation analysis demonstrates that tissue damage in COVID-19 patients is attributed to virus infection itself rather than uncontrolled inflammatory responses ("cytokine storm"). These findings provide new insights for developing efficient therapeutic strategies against COVID-19 infection.
+    head = The study indicates significantly different clinical features between 2019-nCoV-caused and non-2019-nCoV-caused pneumonia, especially in terms of lymphocytopenia and organ injury. Tissue damage in COVID-19 patients is attributed to virus infection itself rather than uncontrolled inflammatory responses ("cytokine storm").
 
     -- exports
       !a
@@ -14429,7 +14450,7 @@ feed Research
   // Fully human single-domain antibodies against SARS-CoV-2
   doi: https://doi.org/10.1101/2020.03.30.015990
   article 'Wu_et_al_2020b
-    head = This study develop a versatile platform for rapid isolation of fully human single-domain antibodies, and confirm its feasibility of using them as ideal alternatives to camelid nanobodies. Antibody n3130 was 266 found to potently neutralize both pseudotyped and live virus. These antibodies may represent promising candidates for prophylaxis and therapy of COVID-19, and also serve as reagents to facilitate the vaccine development.
+    head = The panning using SARS-CoV-2 RBD and S1 as antigens resulted in the identification of antibodies targeting five types of neutralizing or non-neutralizing epitopes on SARS-CoV-2 RBD. These fully human single-domain antibodies bound specifically to SARS-CoV-2 RBD with subnanomolar to low nanomolar affinities.
 
     >>> Abstract
       The COVID-19 pandemic is spreading rapidly, highlighting the urgent need for an efficient approach to rapidly develop therapeutics and prophylactics against SARS-CoV-2. We describe here the development of a phage-displayed single-domain antibody library by grafting naïve CDRs into framework regions of an identified human germline IGHV allele. This enabled the isolation of high-affinity single-domain antibodies of fully human origin. The panning using SARS-CoV-2 RBD and S1 as antigens resulted in the identification of antibodies targeting five types of neutralizing or non-neutralizing epitopes on SARS-CoV-2 RBD. These fully human single-domain antibodies bound specifically to SARS-CoV-2 RBD with subnanomolar to low nanomolar affinities. Some of them were found to potently neutralize pseudotyped and live virus, and therefore may represent promising candidates for prophylaxis and therapy of COVID-19. This study also reports unique immunogenic profile of SARS-CoV-2 RBD compared to that of SARS-CoV and MERS-CoV, which may have important implications for the development of effective vaccines against SARS-CoV-2.
@@ -14734,7 +14755,7 @@ feed Research
   // Estimation of SARS-CoV-2 mortality during the early stages of an epidemic: a modelling study in Hubei, China and northern Italy
   doi: https://doi.org/10.1101/2020.03.04.20031104
   article 'Hauser_et_al_2020
-    head =  This research developed a mechanistic approach to correct the crude CFR for bias due to right-censoring and preferential ascertainment and provide adjusted estimates of mortality due to SARS-CoV-2 infection by age group and according to symptom status. The steep increase in mortality among people aged 60 years and older, reaching extremely high values in people aged 80 years and older is of concern.
+    head =  We fitted our transmission model to surveillance data from Hubei province (1 January to 11 February 2020) and northern Italy (8 February to 3 March 2020). Overall mortality among all symptomatic and asymptomatic infections was estimated to be 3.0% in Hubei province and 3.3% in northern Italy. Mortality increased with age; we estimate that among 80+ year olds, 39.0% in Hubei province and 89.0% in northern Italy dies or will die.
 
     >>> Abstract
       Background. The epidemic of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) that originated in Wuhan, China in late 2019 is now pandemic. Reliable estimates of death from coronavirus disease 2019 (COVID-19) are essential to guide control efforts and to plan health care system requirements. The objectives of this study are to: 1) simulate the transmission dynamics of SARS-CoV-2 using publicly available surveillance data; 2) give estimates of SARS-CoV-2 mortality adjusted for bias in the two regions with the world's highest numbers of confirmed Covid-19 deaths: Hubei province, China and northern Italy. Method and Findings. We developed an age-stratified susceptible-exposed-infected-removed (SEIR) compartmental model describing the dynamics of transmission and mortality during the SARS-CoV-2 epidemic. Our model accounts for two biases; preferential ascertainment of severe cases and delayed mortality (right-censoring). We fitted our transmission model to surveillance data from Hubei province (1 January to 11 February 2020) and northern Italy (8 February to 3 March 2020). Overall mortality among all symptomatic and asymptomatic infections was estimated to be 3.0% (95% credible interval: 2.6-3.4%) in Hubei province and 3.3% (2.0-4.7%) in northern Italy. Mortality increased with age; we estimate that among 80+ year olds, 39.0% (95%CrI: 31.1-48.9%) in Hubei province and 89.0% (95%CrI: 56.2-99.6%) in northern Italy dies or will die. Limitations are that the model requires data recorded by date of onset and that sex-disaggregated mortality was not available. Conclusions. We developed a mechanistic approach to correct the crude CFR for bias due to right-censoring and preferential ascertainment and provide adjusted estimates of mortality due to SARS-CoV-2 infection by age group. While specific to the situation in Hubei, China and northern Italy during these periods, these findings will help the mitigation efforts and planning of resources as other regions prepare for SARS-CoV-2 epidemics.
@@ -14757,7 +14778,8 @@ feed Research
   // Estimating the infection and case fatality ratio for COVID-19 using age-adjusted data from the outbreak on the Diamond Princess cruise ship
   doi: https://doi.org/10.1101/2020.03.05.20031773
   article 'Russell_et_al_2020
-    head = Our analysis shows the importance of adjusting for delays from confirmation to outcome in real-time estimates of fatality risk, and the benefits of combining datasets alongside appropriate age adjustments to provide early insights into COVID-19 severity.
+    head = We estimated case and infection fatality ratios (CFR, IFR) for COVID-19 on the Diamond Princess ship as 2.3% and 1.2%. Comparing deaths onboard with expected deaths based on naive CFR estimates using China data, we estimate IFR and CFR in China to be 0.5% and 1.1% respectively.
+
     >>> Abstract
       Adjusting for delay from confirmation-to-death, we estimated case and infection fatality ratios (CFR, IFR) for COVID-19 on the Diamond Princess ship as 2.3% (0.75%-5.3%) and 1.2% (0.38-2.7%). Comparing deaths onboard with expected deaths based on naive CFR estimates using China data, we estimate IFR and CFR in China to be 0.5% (95% CI: 0.2-1.2%) and 1.1% (95% CI: 0.3-2.4%) respectively.
 
@@ -14771,7 +14793,7 @@ feed Research
   // "Possible Vertical Transmission of SARS-CoV-2 From an Infected Mother to Her Newborn
   doi: https://doi.org/doi:10.1001/jama.2020.4621
   article 'Dong_et_al_2020
-    head = We report a newborn with elevated IgM antibodies to SARS-CoV-2 born to a mother with COVID-19.
+    head = We report a newborn with elevated IgM antibodies to SARS-CoV-2 born to a mother with COVID-19. IgM antibodies are not transferred to the fetus via the placenta. The infant potentially could have been exposed for 23 days from the time of the mother’s diagnosis of COVID-19 to delivery.
 
     >>> Abstract
       Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is highly infectious, with multiple possible routes of transmission. Controversy exists regarding whether SARS-CoV-2 can be transmitted in utero from an infected mother to her infant before birth. A series of 9 pregnant women found no mother-child transmission. We report a newborn with elevated IgM antibodies to SARS-CoV-2 born to a mother with coronavirus disease 2019 (COVID-19).
@@ -14784,7 +14806,7 @@ feed Research
   // Coronavirus Infections in Children Including COVID-19
   doi: https://doi.org/10.1097/INF.0000000000002660
   article 'Zimmermann_et_al_2020
-    head = In this review, we summarize epidemiologic, clinical and diagnostic findings, as well as treatment and prevention options for common circulating and novel CoVs infections in humans with a focus on infections in children.
+    head = Preliminary evidence suggests children are just as likely as adults to become infected with SARS-CoV-2 but are less likely to be symptomatic or develop severe symptoms.
 
     >>> Abstract
       Coronaviruses (CoVs) are a large family of enveloped, single-stranded, zoonotic RNA viruses. Four CoVs commonly circulate among humans: HCoV2-229E, -HKU1, -NL63 and -OC43. However, CoVs can rapidly mutate and recombine leading to novel CoVs that can spread from animals to humans. The novel CoVs severe acute respiratory syndrome coronavirus (SARS-CoV) emerged in 2002 and Middle East respiratory syndrome coronavirus (MERS-CoV) in 2012. The 2019 novel coronavirus (SARS-CoV-2) is currently causing a severe outbreak of disease (termed COVID-19) in China and multiple other countries, threatening to cause a global pandemic. In humans, CoVs mostly cause respiratory and gastrointestinal symptoms. Clinical manifestations range from a common cold to more severe disease such as bronchitis, pneumonia, severe acute respiratory distress syndrome, multi-organ failure and even death. SARS-CoV, MERS-CoV and SARS-CoV-2 seem to less commonly affect children and to cause fewer symptoms and less severe disease in this age group compared with adults, and are associated with much lower case-fatality rates. Preliminary evidence suggests children are just as likely as adults to become infected with SARS-CoV-2 but are less likely to be symptomatic or develop severe symptoms. However, the importance of children in transmitting the virus remains uncertain. Children more often have gastrointestinal symptoms compared with adults. Most children with SARS-CoV present with fever, but this is not the case for the other novel CoVs. Many children affected by MERS-CoV are asymptomatic. The majority of children infected by novel CoVs have a documented household contact, often showing symptoms before them. In contrast, adults more often have a nosocomial exposure. In this review, we summarize epidemiologic, clinical and diagnostic findings, as well as treatment and prevention options for common circulating and novel CoVs infections in humans with a focus on infections in children.
@@ -14807,7 +14829,7 @@ feed Research
   // Estimating clinical severity of COVID-19 from the transmission dynamics in Wuhan, China
   doi: https://doi.org/10.1038/s41591-020-0822-7
   article 'Wu_et_al_2020
-    head = A key public health priority during the emergence of a novel pathogen is estimating clinical severity, which requires properly adjusting for the case ascertainment rate and the delay between symptoms onset and death. Using public and published information, we estimate that the overall symptomatic case fatality risk (the probability of dying after developing symptoms) of COVID-19 in Wuhan was 1.4% (0.9–2.1%).
+    head = We estimate that the overall symptomatic case fatality risk of COVID-19 in Wuhan was 1.4% which is substantially lower than both the corresponding crude or naïve confirmed case fatality risk and the approximator of deaths/deaths + recoveries as of 29 February 2020.
 
     >>>
       As of 29 February 2020 there were 79,394 confirmed cases and 2,838 deaths from COVID-19 in mainland China. Of these, 48,557 cases and 2,169 deaths occurred in the epicenter, Wuhan. A key public health priority during the emergence of a novel pathogen is estimating clinical severity, which requires properly adjusting for the case ascertainment rate and the delay between symptoms onset and death. Using public and published information, we estimate that the overall symptomatic case fatality risk (the probability of dying after developing symptoms) of COVID-19 in Wuhan was 1.4% (0.9–2.1%), which is substantially lower than both the corresponding crude or naïve confirmed case fatality risk (2,169/48,557 = 4.5%) and the approximator of deaths/deaths + recoveries (2,169/2,169 + 17,572 = 11%) as of 29 February 2020. Compared to those aged 30–59 years, those aged below 30 and above 59 years were 0.6 (0.3–1.1) and 5.1 (4.2–6.1) times more likely to die after developing symptoms. The risk of symptomatic infection increased with age (for example, at ~4% per year among adults aged 30–60 years).
@@ -15427,7 +15449,7 @@ feed Research
   // Cigarette smoke triggers the expansion of a subpopulation of respiratory epithelial cells that express the SARS-CoV-2 receptor ACE2
   doi: https://doi.org/10.1101/2020.03.28.013672
   article 'Smith_et_al_2020
-    head = The factors mediating fatal SARS-CoV-2 infections are poorly understood. Here, we show that cigarette smoke causes a dose-dependent upregulation of Angiotensin Converting Enzyme 2 (ACE2), the SARS-CoV-2 receptor, in rodent and human lungs.
+    head = ACE2 is expressed in a subset of epithelial cells that line the respiratory tract, including goblet cells, club cells, and alveolar type 2 cells. We show that cigarette smoke causes a dose-dependent upregulation of ACE2, the SARS-CoV-2 receptor, in rodent and human lungs. In contrast, quitting smoking causes a decrease in lung ACE2 levels.
 
     >>> Abstract
       The coronavirus SARS-CoV-2 has infected more than 600,000 people and has overwhelmed hospital systems around the world. However, the factors mediating fatal SARS-CoV-2 infections are poorly understood. Here, we show that cigarette smoke causes a dose-dependent upregulation of Angiotensin Converting Enzyme 2 (ACE2), the SARS-CoV-2 receptor, in rodent and human lungs. Using single-cell sequencing data, we demonstrate that ACE2 is expressed in a subset of epithelial cells that line the respiratory tract, including goblet cells, club cells, and alveolar type 2 cells. Chronic smoke exposure triggers a protective expansion of mucus-secreting goblet cells and a concomitant increase in ACE2 expression. In contrast, quitting smoking causes a decrease in lung ACE2 levels. Taken together, these results may partially explain why smokers are particularly likely to develop severe SARS-CoV-2 infections, and they suggest that quitting smoking could lessen coronavirus susceptibility.

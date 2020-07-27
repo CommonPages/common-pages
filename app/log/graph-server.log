@@ -1,0 +1,91 @@
+INF [20200727-01:19:30.401] graph-server: [mono] partial recompile available for $covid19...
+INF [20200727-01:19:44.024] graph-server: 
+INF [20200727-01:19:44.024] graph-server: 
+INF [20200727-01:19:44.024] graph-server: Successfully compiled 6 authors, 1 subnets, 1 vnets: 
+INF [20200727-01:19:44.024] graph-server: 
+INF [20200727-01:19:44.024] graph-server:   Version: Staged(ebec0332bd7dff97b356fa94727f2a7866c61708)
+INF [20200727-01:19:44.024] graph-server:   ---------------------------------------------------------
+INF [20200727-01:19:44.024] graph-server: 
+INF [20200727-01:19:44.024] graph-server:   Authors: 0.seconds,
+INF [20200727-01:19:44.024] graph-server:   Manifest: 71.milliseconds
+INF [20200727-01:19:44.024] graph-server:   Ast: 2.seconds+502.milliseconds
+INF [20200727-01:19:44.024] graph-server:   CI Ast: 0.seconds
+INF [20200727-01:19:44.024] graph-server:   Link: 528.milliseconds
+INF [20200727-01:19:44.024] graph-server:   Xref: 0.seconds
+INF [20200727-01:19:44.024] graph-server:   Linked Ast: 0.seconds
+INF [20200727-01:19:44.024] graph-server:   Annotations: 0.seconds
+INF [20200727-01:19:44.024] graph-server:   Route: 237.milliseconds
+INF [20200727-01:19:44.024] graph-server:   Index: 58.milliseconds
+INF [20200727-01:19:44.024] graph-server:   Derived Edge: 205.milliseconds
+INF [20200727-01:19:44.024] graph-server:   Properties: 4.seconds+213.milliseconds
+INF [20200727-01:19:44.024] graph-server:   -----------------------------------
+INF [20200727-01:19:44.024] graph-server:   Total: 7.seconds+823.milliseconds
+INF [20200727-01:19:44.024] graph-server: 
+INF [20200727-01:19:44.024] graph-server:   Memory Before: 361.3 MiB
+INF [20200727-01:19:44.024] graph-server:   Memory After: 1012.9 MiB
+INF [20200727-01:19:44.024] graph-server:   GC Before/After?: true
+INF [20200727-01:19:44.024] graph-server:   -----------------------------------
+INF [20200727-01:19:44.024] graph-server:   Estimated Memory: 21.3 MiB
+INF [20200727-01:19:44.024] graph-server:   Estimated Garbage: 630.3 MiB
+INF [20200727-01:19:44.024] graph-server:         
+INF [20200727-02:34:22.232] graph-server: [mono] partial recompile available for $covid19...
+INF [20200727-02:34:32.413] graph-server: 
+INF [20200727-02:34:32.413] graph-server: 
+INF [20200727-02:34:32.413] graph-server: Successfully compiled 6 authors, 1 subnets, 1 vnets: 
+INF [20200727-02:34:32.413] graph-server: 
+INF [20200727-02:34:32.413] graph-server:   Version: Staged(beca2f3d6b6079f964ab646604099f97da5f18f2)
+INF [20200727-02:34:32.413] graph-server:   ---------------------------------------------------------
+INF [20200727-02:34:32.413] graph-server: 
+INF [20200727-02:34:32.413] graph-server:   Authors: 0.seconds,
+INF [20200727-02:34:32.413] graph-server:   Manifest: 55.milliseconds
+INF [20200727-02:34:32.413] graph-server:   Ast: 2.seconds+412.milliseconds
+INF [20200727-02:34:32.413] graph-server:   CI Ast: 0.seconds
+INF [20200727-02:34:32.413] graph-server:   Link: 708.milliseconds
+INF [20200727-02:34:32.413] graph-server:   Xref: 0.seconds
+INF [20200727-02:34:32.413] graph-server:   Linked Ast: 0.seconds
+INF [20200727-02:34:32.413] graph-server:   Annotations: 0.seconds
+INF [20200727-02:34:32.413] graph-server:   Route: 305.milliseconds
+INF [20200727-02:34:32.413] graph-server:   Index: 61.milliseconds
+INF [20200727-02:34:32.413] graph-server:   Derived Edge: 217.milliseconds
+INF [20200727-02:34:32.413] graph-server:   Properties: 3.seconds+840.milliseconds
+INF [20200727-02:34:32.413] graph-server:   -----------------------------------
+INF [20200727-02:34:32.413] graph-server:   Total: 7.seconds+601.milliseconds
+INF [20200727-02:34:32.413] graph-server: 
+INF [20200727-02:34:32.413] graph-server:   Memory Before: 347.0 MiB
+INF [20200727-02:34:32.413] graph-server:   Memory After: 951.9 MiB
+INF [20200727-02:34:32.413] graph-server:   GC Before/After?: true
+INF [20200727-02:34:32.413] graph-server:   -----------------------------------
+INF [20200727-02:34:32.413] graph-server:   Estimated Memory: 604.9 MiB
+INF [20200727-02:34:32.413] graph-server:   Estimated Garbage: 0.0 B
+INF [20200727-02:34:32.413] graph-server:         
+INF [20200727-02:41:54.946] graph-server: [mono] no recompile required...
+INF [20200727-16:34:10.318] graph-server: [mono] partial recompile available for $covid19...
+INF [20200727-16:34:20.898] graph-server: 
+INF [20200727-16:34:20.898] graph-server: 
+INF [20200727-16:34:20.898] graph-server: Successfully compiled 6 authors, 1 subnets, 1 vnets: 
+INF [20200727-16:34:20.898] graph-server: 
+INF [20200727-16:34:20.898] graph-server:   Version: Staged(02cf2ffe5b52ba7908ad7393a10e35616e28a60c)
+INF [20200727-16:34:20.898] graph-server:   ---------------------------------------------------------
+INF [20200727-16:34:20.898] graph-server: 
+INF [20200727-16:34:20.898] graph-server:   Authors: 0.seconds,
+INF [20200727-16:34:20.898] graph-server:   Manifest: 66.milliseconds
+INF [20200727-16:34:20.898] graph-server:   Ast: 1.seconds+512.milliseconds
+INF [20200727-16:34:20.898] graph-server:   CI Ast: 0.seconds
+INF [20200727-16:34:20.898] graph-server:   Link: 685.milliseconds
+INF [20200727-16:34:20.898] graph-server:   Xref: 0.seconds
+INF [20200727-16:34:20.898] graph-server:   Linked Ast: 0.seconds
+INF [20200727-16:34:20.898] graph-server:   Annotations: 0.seconds
+INF [20200727-16:34:20.898] graph-server:   Route: 133.milliseconds
+INF [20200727-16:34:20.898] graph-server:   Index: 71.milliseconds
+INF [20200727-16:34:20.898] graph-server:   Derived Edge: 63.milliseconds
+INF [20200727-16:34:20.898] graph-server:   Properties: 4.seconds+959.milliseconds
+INF [20200727-16:34:20.898] graph-server:   -----------------------------------
+INF [20200727-16:34:20.898] graph-server:   Total: 7.seconds+494.milliseconds
+INF [20200727-16:34:20.898] graph-server: 
+INF [20200727-16:34:20.898] graph-server:   Memory Before: 372.7 MiB
+INF [20200727-16:34:20.898] graph-server:   Memory After: 1010.5 MiB
+INF [20200727-16:34:20.898] graph-server:   GC Before/After?: true
+INF [20200727-16:34:20.898] graph-server:   -----------------------------------
+INF [20200727-16:34:20.898] graph-server:   Estimated Memory: 637.8 MiB
+INF [20200727-16:34:20.898] graph-server:   Estimated Garbage: 0.0 B
+INF [20200727-16:34:20.898] graph-server:         
