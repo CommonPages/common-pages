@@ -1,0 +1,10 @@
+
+id: "$os-figures"
+name: "Figures"
+lead: "Figures from OpenStax"
+description: "Figures from OpenStax"
+network: "claimspace.org"
+authors:
+  - "@openstax"
+authorize:
+use:

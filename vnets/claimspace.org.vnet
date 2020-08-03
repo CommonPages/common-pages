@@ -8,6 +8,7 @@ hosts:
   - claimspace.test
 subnets:
   - "$climate"
+  - "$os-figures"
   - "$os-life"
   - "$os-cancer"
   - "$cancer"

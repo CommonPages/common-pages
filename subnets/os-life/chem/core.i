@@ -49,7 +49,7 @@ model Atoms
 
 /// In the human body, atoms are constantly reacting with other atoms to form and to break down more complex substances. The "electron shell" is key to how atoms participate in such reactions.
 model ElectronShell
-  insert $os-ap.1.1_2.1_2_1.1_2_1_3
+  # insert $os-ap.1.1_2.1_2_1.1_2_1_3
 
 /// A bond is a weak or strong electrical attraction that holds atoms in the same vicinity.
 model Bond

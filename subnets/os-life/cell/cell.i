@@ -8,7 +8,7 @@ module cell
     Functions
 
   >>>
-    {image-left:$os-ap.Figures.'Figure_3_2_1} The human body develops from a single fertilized egg cell into a complex organism containing trillions of cells. During this developmental process, early, undifferentiated cells {CellularDifferentiation differentiate} and become specialized in their structure and function. These different cell types form specialized {tissue tissues} that work in concert to perform all of the functions necessary for the living organism.
+    {image-left:$os-figures.ApFigures.'Figure_3_2_1} The human body develops from a single fertilized egg cell into a complex organism containing trillions of cells. During this developmental process, early, undifferentiated cells {CellularDifferentiation differentiate} and become specialized in their structure and function. These different cell types form specialized {tissue tissues} that work in concert to perform all of the functions necessary for the living organism.
 
   --
     membrane

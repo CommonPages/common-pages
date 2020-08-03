@@ -2,4 +2,4 @@
 index: hide
 . partial
 
-  import $os-ap.Figures._
+  import $os-figures.ApFigures._

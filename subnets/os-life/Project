@@ -18,6 +18,4 @@ authors:
   - "@openstax"
 authorize:
 use:
-  - "$os-ap"
-  - "$os-bio"
-  - "$os-chem"
+  - "$os-figures"
