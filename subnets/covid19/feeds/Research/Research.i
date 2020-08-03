@@ -37,6 +37,7 @@ feed Research
       'Zeberg_et_al_07_03_2020
       'Chan_et_al_07_07_2020
       'Follis_et_al_07_05_2006
+      'Riva_et_al_07_24_2020
       'Houlihan_et_al_07_09_2020
       'Richard_et_al_07_08_2020
       'Harbourt_et_al_07_03_2020
@@ -4559,6 +4560,31 @@ feed Research
 
 
   #
+  # A trial paper on known drugs.
+  // Discovery of SARS-CoV-2 antiviral drugs through large-scale compound repurposing
+  doi: https://doi.org/10.1038/s41586-020-2577-1
+  ref 'Riva_et_al_07_24_2020
+    head = Identifies 13 known drugs which harbour the viral replications with known dose effect relationships.
+
+    >>> Abstract
+      The emergence of the novel SARS coronavirus 2 (SARS-CoV-2) in 2019 has triggered an ongoing global pandemic of severe pneumonia-like disease designated as coronavirus disease 2019 (COVID-19)1. The development of a vaccine is likely to require at least 12-18 months, and the typical timeline for approval of a novel antiviral therapeutic can exceed 10 years. Thus, repurposing of known drugs could significantly accelerate the deployment of novel therapies for COVID-19. Towards this end, we profiled a library of known drugs encompassing approximately 12,000 clinical-stage or FDA-approved small molecules. We report the identification of 100 molecules that inhibit viral replication, including 21 known drugs that exhibit dose response relationships. Of these, thirteen were found to harbor effective concentrations likely commensurate with achievable therapeutic doses in patients, including the PIKfyve kinase inhibitor apilimod2–4, and the cysteine protease inhibitors MDL-28170, Z LVG CHN2, VBY-825, and ONO 5334. Notably, MDL-28170, ONO 5334, and apilimod were found to antagonize viral replication in human iPSC-derived pneumocyte-like cells, and the PIKfyve inhibitor also demonstrated antiviral efficacy in a primary human lung explant model. Since most of the molecules identified in this study have already advanced into the clinic, the known pharmacological and human safety profiles of these compounds will enable accelerated preclinical and clinical evaluation of these drugs for the treatment of COVID-19.
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / July, 2020 - Nature
+    let !a self assert =
+
+    / July, 2020 - Nature
+    let !b self assert =
+
+    / July, 2020 - Nature
+    let !c self assert =
+
+
+
   // Antibody cocktail to SARS-CoV-2 spike protein prevents rapid mutational escape seen with individual antibodies
   doi: https://doi.org/10.1126/science.abd0831
   ref 'Baum_et_al_06_11_2020

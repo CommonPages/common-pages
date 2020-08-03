@@ -36,10 +36,6 @@ subject module Timeline
         'Wertheim_et_al_2013
         'Lin_et_al_2017
         'Baucells_et_al_2017
-        'Yang_et_al_11_26_2019
-        'Hu_et_al_11_30_2017
-        'Frank_et_al_04_20_2020
-        'Yang_et_al_12_30_2015
 
     / Rates of Viral Mutation
     subject MutationRates
@@ -60,9 +56,7 @@ subject module Timeline
         'Corman_et_al_2018
         'Cui_et_al_2018
         'Wong_et_al_2019
-      # Not a coronavirus. Here virus jumped from Bats to humans in Bangladesh
-      -- Nipah Virus
-        'Luby_et_al_12_01_2009
+
     / SARS
     // SARS Outbreak of 2002-2004
     subject SARS
@@ -76,8 +70,6 @@ subject module Timeline
         'Holmes_et_al_2004
         'Li_et_al_2005
         'Hou_et_al_2010
-        'Magiorkinis_et_al_09_14_2004
-
 
     / MERS
     // MERS Outbreak of 2012-2013
@@ -158,7 +150,6 @@ subject module Timeline
         'Rosenberg_et_al_05_08_2020
         'Reiche_et_al_05_29_2020
         'Rosenberg_et_al_05_29_2020
-        'Fauver_et_al_05_07_2020
     / Europe
     subject Europe
       head = Early cases were associated with chinese origin, who had travelled to France from China around mid-January, 2020.
@@ -185,15 +176,6 @@ subject module Timeline
         'Gudbjartsson_et_al_2020.!j
         'Gudbjartsson_et_al_2020.!n
         'Gudbjartsson_et_al_2020.!o
-        'Pybus_et_al_06_08_2020
-        'Lemey_et_al_06_23_2020
-      --
-        'Turakhia_et_al_06_09_2020
-      # D614G
-      --
-        'Zhang_et_al_06_12_2020.!c
-        'Tang_et_al_05_24_2020.!b
-        'Tang_et_al_05_24_2020.!d
 
   / Origin of the SARS-CoV2
   subject module Origin
@@ -203,110 +185,52 @@ subject module Timeline
     subject GenomeSequence
       head = Genomic Analysis of SARS-CoV-2 suggest similarity with SARS-CoV and Bat being the natural reservoir of SARS-CoV-2.
       --
-        'Chan_et_al_2020.!p
+        'Chan_et_al_2020
+        # 'Chan_et_al_2020.!p
+        # 'Chan_et_al_2020.!q
+        'Anderson_et_al_2020
         'Ren_et_al_2020
-      # SARS CoV also used ACE-2. Was originated from Bats
-      --
-        'Guo_et_al_2020.!c
-        'Anderson_et_al_2020.!c
 
     / Origin of SARS-CoV-2
     subject CovidOrigin
       head = The original source of viral transmission to humans remains unclear weather COVID-19 has a natural origin or whether the strain became pathogenic before or after the spillover event or it is adapted to human in a lab without genetic engineering.
-
-      # We need to mention RATG13 , RmYN02, Pangolin-CoV strain has x y z % similarities with SARS-CoV-2.
       -- Origin of SARS-CoV2
+        'Ren_et_al_2020
         'Anderson_et_al_2020
-        'Anderson_et_al_2020.!d
-        'Guo_et_al_2020.!a
-        'Guo_et_al_2020.!b
+        'Guo_et_al_2020
         'Paraskevis_et_al_2020
+        'Li_et_al_05_19_2020
+        'Li_et_al_05_19_2020.!a
+        'Li_et_al_05_19_2020.!b
         'Boni_et_al_03_31_2020
         'Latinne_et_al_05_31_2020
         'Zhou_et_al_06_08_2020
-        'Zhou_et_al_06_08_2020.!a
-        'Phan_et_al_2020.!a
-        'Phan_et_al_2020.!b
-        'Paraskevis_et_al_2020
-        'Tang_et_al_03_03_2020
-        'Zhang_et_al_03_26_2020
-      # RaTG13
-      --
-        'Shang_et_al_03_30_2020
-        'Shang_et_al_03_30_2020.!e
-        'Wrobel_et_al_07_09_2020
-      # RmYN02
-      --
-        'Zhou_et_al_05_10_2020
-
-      # Doubt story - There is zero evidence that confirms that the SARS-CoV-2 S1/S2 PRRA(R) FCS arose naturally or artificially, but neither scenario can be ruled out. This virus is very well adapted to humans. Suggesting that first few cases on wuhan came through a human rather than zoonosis.
-      --
-        'Kleine-Weber_et_al_11_09_2018
-        'Liu_et_al_04_02_2020
-        'Liu_et_al_04_02_2020.!h
-        'Follis_et_al_07_05_2006
-        'Belouzard_et_al_04_07_2009
-        'Zhan_et_al_05_02_2020
-        'Zhang_et_al_03_26_2020.!c
-        'Chan_et_al_07_07_2020
-
-
-      #  'Chan_et_al_07_07_2020 - Link this paper to show IntermediateHost doubt story
-
+        'Phan_et_al_2020
     / Intermediate Host
     subject IntermediateHost
       head = Differences between the bat coronavirus sampled and SARS-CoV-2,  suggested that humans were infected via an intermediate host, speculating pangolins or civets to be the likely intermediate host. Although subsequent papers have ruled out the possibility of pangolian as an intermediate host.
-      --
-        'Li_et_al_05_19_2020
-        'Boni_et_al_03_31_2020.!a
-        'Boni_et_al_03_31_2020.!b
-        'Xiao_et_al_03_19_2020
-        'Damas_et_al_04_18_2020
-      # 'Li_et_al_05_19_2020.!a
-      # Smuggling Route can come as content
       -- Pangolin as Host
         'Zhang_et_al_2020h
-        'Liu_et_al_05_14_2020
-        'Liu_et_al_05_14_2020.!j
-        'Lam_et_al_03_26_2020
-        'Xiao_et_al_02_20_2020
-        'Lehmann_et_al_06_17_2020
-        'Shang_et_al_03_30_2020.!j
-        'Tang_et_al_03_03_2020
-      # Pangolins are able to carry coronavirus without getting effected too much
-      --
-        'Fischer_et_al_05_08_2020
-      # Counter
-      --
-        'Lee_et_al_06_19_2020
-        'Chan_et_al_07_07_2020
-      # Pre SARS-CoV2 study shows that Malayan pangolin carries coronavirus
-      --
-        'Liu_et_al_10_24_2019
       -- Civets as Host
         'Wan_et_al_2020.!b
-      -- Other possible carriers
-        'Huong_et_al_06_17_2020
-        'Yang_et_al_11_26_2019
-
+      --
+        'Paraskevis_et_al_2020
     / Phylogenetic Analysis
     subject Phylogeny
       head = Phylogenetic analysis reveal that the virus type most closely related to the bat coronavirus was abundant in Guangdong. Findings show that SARS-CoV-2 has not had legitimate recombination and suggests the source of the haplotype in the Huanan Market was imported from elsewhere.
-
-      # Zhang_et_al_2020i can go in TranmissionLineage.. chan_et shows phylogeny of 5 patients of Wuhan (early) and its related to RaTG13
       --
         'Zhang_et_al_2020i
+        'Ren_et_al_2020
         'Chan_et_al_2020.!p
-        'Yu_et_al_05_18_2020
     / Wuhan
     subject Wuhan
       head = Early association was observed between the first reported cases of COVID-19 and the Huanan seafood and wildlife market in Wuhan city. However, other research indicates that visitors may have introduced the virus to the market, which then facilitated spread of the infections.
       -- Wuhan
         'Zhou_et_al_2020
         'Riou_et_al_01_24_2020
-        'Chan_et_al_2020
+        'Ji_et_al_2020
         'Wang_et_al_2020c
-        'Zhang_et_al_03_05_2020
+        'Chan_et_al_2020
 
 / Virus
 subject module Virus
@@ -321,11 +245,6 @@ subject module Virus
       'Paraskevis_et_al_2020
       'Lu_et_at_2020
       'Lu_et_at_2020.!a
-      'Dorp_et_al_06_30_2020
-    -- D614G mutation
-      'Zhang_et_al_06_12_2020
-      'Tang_et_al_05_24_2020
-      'Dorp_et_al_06_30_2020.!h
 
   / Structure
   subject module Structure
@@ -341,8 +260,6 @@ subject module Virus
       'Gao_et_al_2020b.!a
       'Gao_et_al_2020b.!b
       'Hillen_et_al_05_15_2020
-      'Anderson_et_al_2020.!c
-      'Liu_et_al_05_10_2020
 
 
   / Entry and Replication
@@ -372,9 +289,6 @@ subject module Virus
   / Shedding
   subject module Shedding
     head = Viral shedding may begin 2 to 3 days before the appearance of the first symptoms. Duration of the viral shedding varies signifcantly and may depend on severity.
-
-    >>>
-      Viral shedding is a phenomena of shedding SARS-Cov-2 from a body to outside the body.
 
     / Viral Shedding
     subject ViralShedding
@@ -435,52 +349,23 @@ subject module Virus
 
   / Tranmission
   subject module Transmission
-    head = ABC
-
-    >>>
-      Human-to-human transmission of SARS-CoV-2 has been confirmed. Transmission occurs primarily via respiratory droplets from coughs and sneezes. Indirect contact via contaminated surfaces is another possible cause of infection.
-    --
-      Routes
-    --
-      Environment
-    --
-      AsymptomaticTransmission
-    --
-      Superspreaders
-    --
-      Ro
-    --
-      HumanAnimalTransmission
-
+    head = Human-to-human transmission of SARS-CoV-2 has been confirmed. Transmission occurs primarily via respiratory droplets from coughs and sneezes. Indirect contact via contaminated surfaces is another possible cause of infection.
     / Routes
     subject module Routes
-      head = Human to Human contact and Indirect contact via contaminated surfaces is cause of infection. Faecal-oral and Aerosol routes are also suspected to transmit the virus.
-
+      head = Human to Human contact and Indirect contact via contaminated surfaces is a cause of infection. Faecal-oral and Aerosol routes are also suspected to transmit the virus.
       / Surface Transmission
       subject SurfaceTransmission
-        head =  Research indicates that the virus may remain viable on plastic and stainless steel for up to 3 days, on cardboard for upto 1 day and on copper for about 4 hours.
-
+        head =  Research indicates that the virus may remain viable on plastic  and stainless steel for up to three days, but does not survive on cardboard for more than one day or on copper for more than four hours
         -- Viability
           'van_Doremalen_et_al_2020
           'van_Doremalen_et_al_2020.!b
           'van_Doremalen_et_al_2020.!c
-          'Doremalen_et_al_03_17_2020.!a
-          'Harbourt_et_al_07_03_2020
-          'Harbourt_et_al_07_03_2020.!a
-          'Harbourt_et_al_07_03_2020.!b
-          'Harbourt_et_al_07_03_2020.!c
-          'Chin_et_al_04_02_2020
-          'Verani_et_al_05_09_2014
-        # Counter for viability / Stability
-        --
-          'Goldman_et_al_07_03_2020
-          'Dowell_et_al_09_01_2004
         -- Tranmission
           'Santarpia_et_al_2020
           'Ong_et_al_2020
       / Aerosol Transmission
       subject AerosolTransmission
-        head = SARS-CoV-2 viral RNA in air has been detected in several studies and remain vialble upto "x" hrs. Study found that the majority of these viruses were associated with aerosols.
+        head = SARS-CoV-2 viral RNA in air has been detected in several studies. Study found that the majority of these viruses were associated with aerosols.
         -- Viability
           'van_Doremalen_et_al_2020
           'van_Doremalen_et_al_2020.!a
@@ -488,27 +373,14 @@ subject module Virus
           'Somsen_et_al_05_27_2020
           'Lin_et_al_01_26_2017
           'Johnson_et_al_06_21_2011
-          'Doremalen_et_al_03_17_2020
-        -- Aerosol Activation in Toilet
-          'Lai_et_al_07_06_2017
-          'Best_et_al_12_05_2011
-          'Barker_et_al_06_16_2005
-          'Johnson_et_al_10_08_2012
         -- Aerosol Transmission
           'Allen_et_al_05_06_2020
           'Lednicky_et_al_05_22_2020
           'Miller_et_al_06_18_2020
           'Asadi_et_al_2019
-          'Stadnytskyi_et_al_06_02_2020
-          'Vuorinen_et_al_05_31_2020
-        # Close Enviornment
         -- Airborne Transmission
           'Allen_et_al_06_19_2020
           'Chia_et_al_05_29_2020
-          'Shen_et_al_04_03_2020
-          'Ma_et_al_06_02_2020
-          'Richard_et_al_07_08_2020
-          'Zhang_et_al_06_11_2020
         -- Dispute not Airborne
           'Cheng_et_al_06_08_2020
       / Fecal Transmission
@@ -519,128 +391,90 @@ subject module Virus
           'Lin_et_al_01_26_2017
           'Xiao_et_al_05_18_2020
           'Wu_et_al_2020d
-      / Animal to Human Tranmission
-      subject AnimaltohumanTransmission
-        head = Modes of trasmission from Animal to Human
 
-    / Environmental Settings
+    / Environment
     subject module Environment
       head = Studies suggest that temperature has impact on tranmission of COVID-19. Low temperature is beneficial to viral tranmission.
-      --
-        WeatherConditions
-        Settings
-      / Weather Conditions
-      subject WeatherConditions
-        -- Weather Influence
-          'want_et_at_2020
-          'luo_et_al_2020
-          'Moriyama_et_al_2020
-          'Notari_et_al_2020
-          'Ficetola_et_al_04_20_2020
-        -- Humidity & Temperature dependence
-          'Lin_et_al_12_30_2019
-          'Qi_et_al_03_20_2020
-          'Islam_et_al_03_31_2020
-          'Wang_et_al_03_10_2020
-          'Droegemeier_et_al_04_07_2020
-        # Counter to temperature dependence
+      -- Weather Influence
+        'want_et_at_2020
+        'luo_et_al_2020
+        'Moriyama_et_al_2020
+        'Notari_et_al_2020
+      -- Air Pollution
+        'Wu_et_al_2020c
+      -- Humidity dependence
+        'Lin_et_al_12_30_2019
+    subject module Settings
+      head = Based on studies COVID-19 has more severe impact on indoor settings over outdoor settings.
+      / Nosocomial Transmission
+      subject HospitalTransmission
+        head = SARS-CoV-2 viral RNA in air has been detected in several studies in hospitals, including at distances greater than 2 m from patients and in outdoor air in crowded areas near a hospital
         --
-          'Jamil_et_al_04_19_2020
-        -- Air Pollution
-          'Wu_et_al_2020c
-      # Find a better word
-      / Settings
-      subject module Settings
-        head = Based on studies COVID-19 has more severe impact on indoor settings over outdoor settings.
-        / Nosocomial Transmission
-        subject HospitalTransmission
-          head = SARS-CoV-2 viral RNA in air has been detected in several studies in hospitals, including at distances greater than 2 m from patients and in outdoor air in crowded areas near a hospital
-          --
-            'Horve_et_al_06_28_2020
-            'Liu_et_al_2020bb
-            'Pan_et_al_2020.!c
-            'Houlihan_et_al_07_09_2020
-        / Indoor Tranmission
-        subject IndoorTransmission
-          head = Based on studies close contact in the family is the main transmission route of infection.
-          -- Household Transmission
-            'Jing_et_al_2020
-            'Bi_et_al_04_27_2020.!g
-            'Peng-Li_et_al_2020
-            'Liu_et_al_2020g
-          # Unedited - Indoor
-          -- Indoor Tranmission
-            'Chan_et_al_2020
-            'Qian_et_al_2020
-            'Nishiura_et_al_2020c
-            'Leclerc_et_al_05_01_2020
-            'Allen_et_al_06_19_2020
-            'Ji_et_al_2020
-            'Liu_et_al_2020g.!a
-            'Liu_et_al_2020h
-            'Lu_et_al_2020b
-            'Mcmichael_et_al_2020
-            'Mcmichael_et_al_2020.!a
-            'Pung_et_al_2020
-            'Wu_et_al_2020e
-        / Outdoor Transmission
-        subject OutdoorTransmission
-          head = Based on data collected so far, Outdoor Tranmission is possible but seems to be rare.
-          --
-            'Qian_et_al_2020.!h
-        / Airline Transmission
-        subject AirlineTransmission
-          head = The transmission routes in air cabins are probably the close contact route and the formite route.
-          --
-            'Lei_et_al_01_06_2020
-            'Moser_et_al_1979
-            'Olsen_et_al_2003
-            'Colizza_et_al_2006
+          'Liu_et_al_2020bb
+          'Pan_et_al_2020.!c
+      / Indoor Tranmission
+      subject IndoorTransmission
+        head = Based on studies close contact in the family is the main transmission route of infection.
+        -- Household Transmission
+          'Jing_et_al_2020
+          'Bi_et_al_04_27_2020.!g
+          'Peng-Li_et_al_2020
+          'Liu_et_al_2020g
+        # Unedited - Indoor
+        -- Indoor Tranmission
+          'Chan_et_al_2020
+          'Qian_et_al_2020
+          'Nishiura_et_al_2020c
+          'Leclerc_et_al_05_01_2020
+          'Allen_et_al_06_19_2020
+          'Ji_et_al_2020
+          'Liu_et_al_2020g.!a
+          'Liu_et_al_2020h
+          'Lu_et_al_2020b
+          'Mcmichael_et_al_2020
+          'Mcmichael_et_al_2020.!a
+          'Pung_et_al_2020
+          'Wu_et_al_2020e
+      / Outdoor Transmission
+      subject OutdoorTransmission
+        head = Based on data collected so far, Outdoor Tranmission is possible but seems to be rare.
+        --
+          'Qian_et_al_2020.!h
+      / Airline Transmission
+      subject AirlineTransmission
+        head = The transmission routes in air cabins are probably the close contact route and the formite route.
+        --
+          'Lei_et_al_01_06_2020
+          'Moser_et_al_1979
+          'Olsen_et_al_2003
+          'Colizza_et_al_2006
 
     / Asymtomatic Tranmission
     subject AsymptomaticTransmission
       head = People can transmit the virus without showing symptoms, but it is unclear how often this happens.
-
-      # Distinction between pre-symptomatic vs asymptomatic... Link AsymptomaticPhase...
-      >>>
-        By speech, touching your face, contact
       --
         'Nishiura_et_al_2020
         'Lavezzo_et_al_2020
         'Russell_et_al_2020.!a
         'Dong_et_al_2020b
         'He_et_al_2020.!a
-
     / Superspreader
     subject Superspreaders
-      head = Superspreaders are particular types of people and particular events/congregations which are highly probable to spread the infection very widely.
-
-      >>>
-        Previous studies on superspeading events.
-      # foundational concept
-      --
-        Contextsuperspreader
-      / Past studies on Superspreader
-      subject Contextsuperspreader
-        -- Context
-          'Lloyd-Smith_et_al_2005
-          'Woolhouse_et_al_1997
-        # Examples of Superspreading events
-        -- Superspreading in SARS
-          'Lee_et_al_2003.!a
-          'Shen_et_al_2004
-          'Stein_et_al_2011
-          'Wang_et_al_2005.!h
-        -- Superspreading in TB
-          'Kline_et_al_1995
-      >>>
-        Based on studies the Wuhan market was the site of an early superspreading event.
+      head =  Based on studies the Wuhan market was the site of an early superspreading event. Subsequent research also shows evidence of 20/80 rule of transmission. Model studies have emphasized to include to transmission heterogeneity to accurately portray pathogen dynamics.
+      -- Context
+        'Lloyd-Smith_et_al_2005
+        'Woolhouse_et_al_1997
+      # Examples of Superspreading events
+      -- Superspreading in SARS
+        'Lee_et_al_2003.!a
+        'Shen_et_al_2004
+        'Stein_et_al_2011
+        'Wang_et_al_2005.!h
+      -- Superspreading in TB
+        'Kline_et_al_1995
       -- Superspreading Events of COVID-19
         'Hoehl_et_al_2020
         'Hamner_et_al_2020
-      >>>
-        Subsequent research also shows evidence of 20/80 rule of transmission. Model studies have emphasized to include to transmission heterogeneity to accurately portray pathogen dynamics.
-
       -- Overdispersion & 80/20 Rule of COVID-19
         'Adam_et_al_2020
         'Adam_et_al_2020.!a
@@ -673,7 +507,6 @@ subject module Virus
       --
         'Sun_et_al_2020
         'Chen_et_al_2020b
-
 / Disease
 subject module Disease
 
@@ -702,7 +535,6 @@ subject module Disease
       'Mizumoto_et_al_2020
       'Nishiura_et_al_2020
       'Graham_et_al_05_16_2020.!b
-      'Robbiani_et_al_06_18_2020
     # Some Examples of asymptomatic + Presymptomatic cases -
     --
       'Chan_et_al_2020.!i
@@ -738,6 +570,7 @@ subject module Disease
       'Siddiqi_et_al_2020.!e
       'Siddiqi_et_al_2020.!f
       'Siddiqi_et_al_2020.!g
+
   / Immune Reponse
   subject ImmuneResponse
     head = Clinical Laboratory findings suggest an underline immunopathology. Additionally people with COVID-19 and ARDS have classic serum biomarkers of Cytokine release syndrome.
@@ -759,13 +592,6 @@ subject module Disease
       'Thoms_et_al_05_18_2020
       'Merad_et_al_05_06_2020
       'Melo_et_al_05_15_2020
-      'Takahashi_et_al_06_09_2020
-      'Robbiani_et_al_06_18_2020
-      'Xin-Long_et_al_06_18_2020
-    # T-Cell Response
-    --
-      'Nelde_et_al_06_16_2020
-
     >>>
       Affinity maturation is the process by which TFH cell-activated B cells produce antibodies with increased affinity for antigen during the course of an immune response.
     -- Affinity Maturation
@@ -782,6 +608,7 @@ subject module Disease
       'Niwa_et_al_10_15_2018
       'Okba_et_al_2020.!b
       'Broggi_et_al_01_06_2020
+
   / Complications
   subject module Complications
     head = Complications may include pneumonia, ARDS, multi-organ failure, coagulopathy, Cytokine storm, septic shock, neurologic manifestations, endothelitis. Few recent studies report children developing paediatric multisystem inflammatory syndrome.
@@ -910,7 +737,6 @@ subject module Disease
         'Rosenberg_et_al_05_29_2020.!b
         'Lee_et_al_05_28_2020.!d
         'Richardson_et_al_04_22_2020.!d
-        'Takahashi_et_al_06_09_2020
       -- Increased IL-6 levels is associated with disease severity
         'DelValle_et_al_05_30_2020.!e
         # There is also supportive evidence of estrogen and a need for clinical trials, as these downregulate TMPRSS2.
@@ -930,14 +756,11 @@ subject module Disease
     subject PregnantWomen
       head = Studies reveal that in pregnant women COVID-19 did not lead to maternal deaths. Research has shown no confirmed cases of vertical transmission of SARS-CoV-2 from mothers with COVID-19 to their fetuses though recent case reports demonstrate SARS-CoV-2 infection of the placenta.
 
-      >>>
-        Studies which shows no vertical tranmission
       --
         'Favre_et_al_2020
         'Sutton_et_al_2020
         'Schwartz_et_al_2020
-      >>>
-        Studies which shows vertical tranmission / Infection on placenta
+      # Case for vertical tranmission / Infection on placenta
       --
         'Dong_et_al_2020
         'Hosier_et_al_2020
@@ -1030,12 +853,6 @@ subject module Disease
         'Bhattacharyya_et_al_2020.!e
         'Bhattacharyya_et_al_2020.!f
         'Bhattacharyya_et_al_2020.!g
-      -- Genetic Risk
-        'Zeberg_et_al_07_03_2020
-        'Ellinghaus_et_al_06_17_2020
-        'Taylor_et_al_06_20_2020
-
-        # 'Taylor_et_al_06_20_2020 can get connected to bloodtype and CoMorbidConditions
 
     / Co-Morbid Conditions
     subject module CoMorbidConditions
@@ -1099,7 +916,6 @@ subject module Disease
       --
         'Zhao_et_al_2020b
         'Ellinghaus_et_al_06_02_2020.!a
-        'Ellinghaus_et_al_06_17_2020
 
 
     / Ethnicity
@@ -1156,10 +972,6 @@ subject module Disease
         'Lv_et_al_06_02_2020
         'Wu_et_al_2020b
         'Jiang_et_al_2020
-      # T-Cell and Cross Reactivity papers here (Prior Immunity)
-      --
-        'Nelde_et_al_06_16_2020
-        'Petrova_et_al_02_20_2012
       >>>
         IgM antibodies to SARS-CoV-2 are generally detectable several days after initial infection, although levels over the course of infection are not well characterized.IgG antibodies generally become detectable 10–14 days after infection, sometimes earlier, and normally peak around 28 days after infection onset.
       -- SARS CoV-2 IgM and IgG
@@ -1167,10 +979,6 @@ subject module Disease
         'Zhao_et_al_2020.!a
         'Zhao_et_al_2020.!b
         'Zhao_et_al_2020.!c
-      -- IgG is not long lasting
-        'Liu_et_al_06_16_2020
-        'Robbiani_et_al_06_18_2020
-        'Xin-Long_et_al_06_18_2020
       >>>
         Studies of antibodies on other coronaviruses.
       -- MERS
@@ -1320,6 +1128,7 @@ subject module Diagnostics
       'Yang_et_al_2020.!a
       'Yang_et_al_2020.!b
 
+
 / Mitigation
 subject module Mitigation
   / Infection Prevention
@@ -1347,12 +1156,8 @@ subject module Mitigation
         'Bae_et_al_04_06_2020
         'Strasser_et_al_05_22_2020
         'Chu_et_al_06_01_2020
-        'Stutt_et_al_06_10_2020
-      -- Efficiency of Mask
-        'Konda_et_al_06_18_2020
       -- Virus Inactivation in Face Mask
         'Rockey_et_al_06_23_2020
-        'Ou_et_al_06_04_2020
       -- PPE
         'Ling_et_al_2020.!b
       -- Gloves
@@ -1542,10 +1347,6 @@ subject module Mitigation
       'Zhang_et_al_04_29_2020
     -- Model to prevent 2nd outbreak in China
       'Zhang_et_al_2020b
-    >>>
-      Mitigation measures in Europe
-    -- Europe
-      'Flaxman_et_al_06_08_2020
     -- Italy
       'Lavezzo_et_al_2020.!a
     -- France
@@ -1656,7 +1457,6 @@ subject module Remediation
             'Hegarty_et_al_2020
             'ONeill_et_al_2020
             'Rousseau_et_al_06_20_2020
-            'Sharma_et_al_07_08_2020
           -- Counter
             'Hamiel_et_al__05_13_2020
         subject MMR
@@ -1682,12 +1482,6 @@ subject module Remediation
         'Weng_et_al_05_19_2020
         'Robbiani_et_al_05_22_2020
         'Lv_et_al_06_02_2020
-        'Brouwer_et_al_06_10_2020
-        'Rogers_et_al_06_11_2020
-        'Baum_et_al_06_11_2020
-        'Robbiani_et_al_06_18_2020
-        'Lau_et_al_05_04_2020
-
   subject module Therapeutics
     head = Researchers have developed drug catalog which showed that there were potential interactions between the virus, human cells and these existing drugs or compounds. They have identified strong treatment leads and mechanisms that effects and alleviate the severity of COVID-19.
     subject module Antivirals
@@ -1777,7 +1571,6 @@ subject module Remediation
               'Cortegiani_et_al_2020
               'Wang_et_al_2020
               'Li_et_al_2020
-              'Sharma_et_al_07_08_2020
             -- Hydroxychloroquine
               'Liu_et_al_2020b
               'Yao_et_al_2020
@@ -1823,7 +1616,6 @@ subject module Remediation
           'Marano_et_al_2016
         -- Limitations
           'Wong_et_al_2010
-          'Robbiani_et_al_06_18_2020
       / Cytokine Inhibitors
       subject CytokineInhibitors
         head = Cytokine inhibitors decreases the synthesis of cytokines and their concentration in free active form. They can also interfere with the signaling of cytokine receptors and block their interaction with specific receptors.
@@ -1947,6 +1739,11 @@ subject module Remediation
     / Frontiers
     subject  Frontiers
       head = Knowledge of these studies is important to understand the development of therapeutics.
+
+      >>>
+        random text {ViralShedding shedding} is linked to cancer.
+      -- 13 new Drugs
+        'Riva_et_al_07_24_2020
       -- Immune Reponse of Bats
         'Xie_et_al_2018
         'Zhang_et_al_2013
@@ -2021,9 +1818,6 @@ subject module Remediation
         'Feldmann_et_al_04_09_2020.!a
       -- Targets for repurposing drugs
         'Gordon_et_al_04_30_2020
-      -- Inhibiting the binding site
-        'Liu_et_al_05_10_2020
-
   / Clinical Management
   subject module ClinicalRecommendation
     head = Studies and research recommending management of patients with COVID-19 are extrapolated from experience. Guidelines are intended to meet the needs of frontline clinicians and it promotes a multi-disciplinary approach for caring of COVID-19 patients, including those with mild, moderate, severe, and critical disease. Intension is not to replace specialist consultation or clinical protocols but rather to strengthen clinical management of patients.
@@ -2109,6 +1903,7 @@ subject module Remediation
       head =
       --
         'Bastier_et_al_2015
+
     / Patients with CoMorbid Conditions
     subject CoMorbidConditionsb
       -- To avoid complications
@@ -2124,12 +1919,8 @@ subject module Remediation
         Patients with such comorbidities are commonly treated with renin angiotensin system blockers, such as angiotensin-converting enzyme inhibitors (ACEIs) or angiotensin receptor blockers (ARBs). However, the use of ACEIs/ARBs in patients with COVID-19 or at risk of COVID-19 infection is currently a subject of intense debate.
       --
         'Bavishi_et_al_2020
-    / Viral infections during Pregnancy
-    subject Pregnanancy
-      --
-        'Yockey_et_al_05_08_2020
 
-/ Public Policy
+
 subject module PublicPolicy
   -- SocialBehavior
     'Bavel_et_al_2020
@@ -2156,5 +1947,3 @@ subject module PublicPolicy
     'Adam_et_al_2020.!h
     'Adam_et_al_2020.!i
     'Adam_et_al_2020.!j
-  -- Mitigation
-    'Zhang_et_al_06_11_2020.!r
