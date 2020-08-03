@@ -389,7 +389,7 @@ model module foundations
     head = Epidemiology deals with the spread and possible control of a particular disease or health-condition in a community, & could help in shaping PublicPolicy to manage the situation.
 
     >>>
-      The scale of spread in the community can be of varied degree, and we call them as outbreak(link), epidemic(link) or pandemic(link). {PublicPolicy}
+      The scale of spread in the community can be of varied degree, and we call them as outbreak(link), epidemic(link) or pandemic(link). {subjects.PublicPolicy}
     --
       ScaleCommunitySpread
     #   Outbreak

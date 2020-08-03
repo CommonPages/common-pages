@@ -14,7 +14,7 @@ import foundations.CoV2._
 # import claims.Diagnostics
 # import claims.Timeline
 # import claims.Timeline.Origin
-import Timeline.Origin
+import subjects.Timeline.Origin
 
 import feeds.Research
 import feeds.News
