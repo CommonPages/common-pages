@@ -486,6 +486,10 @@ model module foundations
 
       model Pandemic
         head = Pandemic is a wider spread of a disease in multiple communities/ regions (often across the globe).
+      / Fomite or contaminated surface
+      model ContaminatedSurface
+        head = Any surface (inanimate surfaces or objects) which is likely to have pathogens with a potential to cause an infection. Often, the pathogens do not last beyond a particular duration depending upon the nature of the surface. These are also called Fomites.
+
 
   model module CoV2
 

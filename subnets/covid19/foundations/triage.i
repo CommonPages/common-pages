@@ -27,3 +27,6 @@ index: hide
 
   model Asepsis
     head = Asepsis is the state of being free from disease-causing micro-organisms (such as pathogenic bacteria, viruses, pathogenic fungi, and parasites).
+
+  model ContaminatedSurface
+    head = Any surface which is likely to have pathogens with a potential to cause an infection. Often, the pathogens do not last beyond a particular duration depending upon the nature of the surface.

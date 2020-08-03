@@ -441,26 +441,37 @@ subject module Virus
       Human-to-human transmission of SARS-CoV-2 has been confirmed. Transmission occurs primarily via respiratory droplets from coughs and sneezes. Indirect contact via contaminated surfaces is another possible cause of infection.
     --
       Routes
+      # independent
     --
       Environment
+      # together
     --
       AsymptomaticTransmission
+      # independent
     --
       Superspreaders
+      # with Ayush and Sangeeta
     --
       Ro
+      # with Ayush and Sangeeta
     --
       HumanAnimalTransmission
+      # independent
 
     / Routes
     subject module Routes
       head = Human to Human contact and Indirect contact via contaminated surfaces is cause of infection. Faecal-oral and Aerosol routes are also suspected to transmit the virus.
-
+      >>>
+        Human to Human contact and Indirect contact via contaminated surfaces is cause of infection. Faecal-oral and Aerosol routes are also suspected to transmit the virus. {ViralShedding Shedding} of SARS Cov-2 can happen in multiple modes, and all these can be potential route of transmission of the virus.
       / Surface Transmission
       subject SurfaceTransmission
-        head =  Research indicates that the virus may remain viable on plastic and stainless steel for up to 3 days, on cardboard for upto 1 day and on copper for about 4 hours.
+        head =  SARS CoV-2 can be transmitted to a human when s/he touches his/her face after touching a {ContaminatedSurface contaminated surface}.
+        >>>
+          This potential is high especially pronounced among surfaces which are frequently touched by a wide range of people.
+        >>>
+           Research indicates that the virus may remain viable on plastic and stainless steel for up to 3 days, on cardboard for upto 1 day and on copper for about 4 hours.
 
-        -- Viability
+        -- Neutral (later refine)
           'van_Doremalen_et_al_2020
           'van_Doremalen_et_al_2020.!b
           'van_Doremalen_et_al_2020.!c
@@ -471,13 +482,15 @@ subject module Virus
           'Harbourt_et_al_07_03_2020.!c
           'Chin_et_al_04_02_2020
           'Verani_et_al_05_09_2014
-        # Counter for viability / Stability
-        --
-          'Goldman_et_al_07_03_2020
-          'Dowell_et_al_09_01_2004
-        -- Tranmission
+          'Dowell_et_al_09_01_2004.!b
           'Santarpia_et_al_2020
           'Ong_et_al_2020
+        # Counter for viability / Stability
+        >>>
+          Whereas there are arguments which call such studies exaggerated  as these were in lab-based conditions and far from real-life conditions.
+        --
+          'Goldman_et_al_07_03_2020
+
       / Aerosol Transmission
       subject AerosolTransmission
         head = SARS-CoV-2 viral RNA in air has been detected in several studies and remain vialble upto "x" hrs. Study found that the majority of these viruses were associated with aerosols.
@@ -489,11 +502,6 @@ subject module Virus
           'Lin_et_al_01_26_2017
           'Johnson_et_al_06_21_2011
           'Doremalen_et_al_03_17_2020
-        -- Aerosol Activation in Toilet
-          'Lai_et_al_07_06_2017
-          'Best_et_al_12_05_2011
-          'Barker_et_al_06_16_2005
-          'Johnson_et_al_10_08_2012
         -- Aerosol Transmission
           'Allen_et_al_05_06_2020
           'Lednicky_et_al_05_22_2020
@@ -501,6 +509,8 @@ subject module Virus
           'Asadi_et_al_2019
           'Stadnytskyi_et_al_06_02_2020
           'Vuorinen_et_al_05_31_2020
+        --
+          AerosolToilet
         # Close Enviornment
         -- Airborne Transmission
           'Allen_et_al_06_19_2020
@@ -511,17 +521,30 @@ subject module Virus
           'Zhang_et_al_06_11_2020
         -- Dispute not Airborne
           'Cheng_et_al_06_08_2020
+        / Aerosol Activation in Toilet
+        subject AerosolToilet
+          --
+            'Lai_et_al_07_06_2017
+            'Best_et_al_12_05_2011
+            'Barker_et_al_06_16_2005
+            'Johnson_et_al_10_08_2012
       / Fecal Transmission
       subject FaecalTransmission
-        head = Viral RNA has also been found in stool samples of infected individual.
+        head = Viral RNA has been found in stool samples of infected individuals. However, these being infectious is yet to be established conclusively.
+        >>>
+          Aerosolization through toilet flushing can possibly transmit the virus. For more refer {AerosolToilet}
         --
-          'Johnson_et_al_10_05_2012
-          'Lin_et_al_01_26_2017
           'Xiao_et_al_05_18_2020
           'Wu_et_al_2020d
+          'Lin_et_al_01_26_2017
+          'Johnson_et_al_10_05_2012
+
       / Animal to Human Tranmission
       subject AnimaltohumanTransmission
         head = Modes of trasmission from Animal to Human
+        # Bats, Pangolins, Pets, Rodents, Animals which carry these virus.
+      >>>
+        Viral RNA can be detected long after the disappearance of infectious virus. However, if these are infectious is yet to be established.
 
     / Environmental Settings
     subject module Environment
