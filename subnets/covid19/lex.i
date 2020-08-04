@@ -21,6 +21,9 @@ import feeds.News
 import feeds.Revisions
 
 import Research._
+import Research.July2020._
+import Research.June2020._
+
 import News._
 
 let *Mutation mean $os-life.cell.gene.Mutation
