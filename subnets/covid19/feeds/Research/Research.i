@@ -12016,14 +12016,14 @@ feed Research
   // Antibody testing will enhance the power and accuracy of COVID-19-prevention trials
   doi: https://doi.org/10.1038/s41591-020-0887-3
   article 'Lipsitch_et_al_2020
-    head = While accurate serological tests are still in development, trialists have a window of opportunity for obtaining blood from trial participants and banking it in anticipation of having such tests in the near future. It is essential that this opportunity be taken in order to maximize the scientific value of the information that these trials provide.
+    head = Clinical trials are being set up at a rapid rate to test various approaches to preventing COVID-19. Getting fully interpretable and unbiased results from these trials depends on serological testing of participants at baseline and at the end of the trial.
 
     >>> Abstract
       Researchers starting clinical trials of prevention measures for COVID-19 have a unique window of opportunity for collecting blood from the participants, at baseline and at the end of the trial, to be able to incorporate critical data into their analysis once serological tests for the causative coronavirus become available.
 
 
-    # / April, 2020 -  Nat Med
-    #  let !a self assert =
+    / April, 2020 -  Nat Med
+    let !a self assert = While accurate serological tests are still in development, trialists have a window of opportunity for obtaining blood from trial participants and banking it in anticipation of having such tests in the near future. It is essential that this opportunity be taken in order to maximize the scientific value of the information that these trials provide.
 
   # Entry to host, Temperature Dependency
   // Disparate temperature-dependent virus – host dynamics for SARS-CoV-2 and SARS-CoV in the human respiratory epithelium
@@ -14490,7 +14490,7 @@ feed Research
   // Sero-Prevalence and Incidence of A/H1N1 2009 Influenza Infection in Scotland in Winter 2009–2010
   doi: https://doi.org/10.1371/journal.pone.0020358
   article 'McLeish_et_al_2011
-    head = Sero-prevalence overall (out of 1563 sample) in the adult population of Scotland is estimated to have been at least 44%  by early 2010. This would be expected to generate a significant degree of herd immunity and so, in the absence of significant change in the antigenicity of the virus, protect the population from a major epidemic of A/H1N1 2009 in the 2010–2011 influenza season.
+    head = We estimate that almost half the adult population of Scotland were sero-positive for A/H1N1 2009 influenza by early 2010 and that the majority of these individuals (except in the oldest age classes) sero-converted as a result of natural infection with A/H1N1 2009.
 
     >>> Background
       Sero-prevalence is a valuable indicator of prevalence and incidence of A/H1N1 2009 infection. However, raw sero-prevalence data must be corrected for background levels of cross-reactivity (i.e. imperfect test specificity) and the effects of immunisation programmes
@@ -14511,7 +14511,8 @@ feed Research
   // Neutralising antibodies to SARS coronavirus 2 in Scottish blood donors - a pilot study of the value of serology to determine population exposure
   doi: https://doi.org/10.1101/2020.04.13.20060467
   article 'Thompson_et_al_2020
-    head = The raw seroprevalence estimates obtained in the current study of blood donors  in Scotland were 0/500 and 6/500 at two sampling points in mid-March 2020. These estimates reflect the prior exposure to SARS-CoV-2 in this blood donor population over the preceding weeks.
+    head = We performed a serological study of blood donors in Scotland between the 17th of March and the 18th of May to detect neutralising antibodies to SARS-CoV-2 as a marker of past infection and epidemic progression. Our data indicate that sero-surveys of blood banks can serve as a useful tool for tracking the emergence and progression of an epidemic like the current SARS-CoV-2 outbreak.
+
 
     >>> Abstract
       Background. The extent of spread of SARS coronavirus 2 (SARS-CoV-2) in the UK and elsewhere is unknown because typically only symptomatic individuals are diagnosed. We performed a serological study of recent blood donors in Scotland to detect antibodies to SARS-CoV-2 as a marker of past infection. Methods. A pseudotyped SARS-CoV-2 virus microneutralisation assay was used to detect neutralising antibodies to SARS-CoV-2. The study group comprised samples from 1000 blood donors collected in Scotland during March, 2020. Controls were collected from 100 donors in Scotland during 2019. Findings. All samples collected on the 17th March, 2020 (n=500) were negative in the pseudotyped SARS-CoV-2 virus microneutralisation assay. Neutralising antibodies were detected in 5 of the 500 samples collected 21st to 23rd March; one further sample was reactive in an anti-spike ELISA. Interpretation. Although we cannot use the rise in numbers seropositive to infer the contemporary seroprevalence or the growth rate of the epidemic, we note that they are consistent with frequency of reported diagnosed infections and SARS-CoV-2-associated deaths reported in that time period in Scotland, given that seroconversion takes up to 2-3 weeks. It should also be noted that blood donors are not representative of the general population; in particular, those with a history of recent respiratory infections are deferred. Finally, it is unknown what proportion of infected individuals seroconvert and become reactive in the assays used. Serial follow up studies are needed to track infection and seroconversion in this and other similar populations However, these data indicate that sero-surveys of blood banks can serve as a useful tool for tracking the emergence and progression of an epidemic like the current SARS-CoV-2 outbreak.
@@ -14637,7 +14638,7 @@ feed Research
   // Evaluation of nine commercial SARS-CoV-2 immunoassays
   doi: https://doi.org/10.1101/2020.04.09.20056325
   article 'Lassaunière_et_al_2020
-    head = Three commercial CE-marked ELISA assays for detecting SARS-CoV-2 antibodies were evaluated using 30 serum samples from PCR-positive cases with SARS-CoV-2 and 82 control serum samples. Twenty nine of the 30 cases (97%) were positive for SARS-CoV-2-specific antibodies by at least one of the three ELISA assays. In one case, only a positive IgA result was detected, while in another case antibody responses were negative by all tests.
+    head = This study evaluated the sensitivity and specificity of nine commercially available serological tests. The results showed 100% specificity for the Wantai SARS-CoV-2 Total Antibody ELISA, 93% for the Euroimmun IgA ELISA, and 96% for the Euroimmun IgG ELISA with sensitivities of 90%, 90%, and 65%, respectively.
 
     >>> Abstract
       Due to urgency and demand, numerous severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) immunoassays are rapidly being developed and placed on the market with limited validation on clinical samples. Thorough validation of serological tests are required to facilitate their use in the accurate diagnosis of SARS-CoV-2 infection, confirmation of molecular results, contact tracing, and epidemiological studies. This study evaluated the sensitivity and specificity of nine commercially available serological tests. These included three enzyme-linked immunosorbent assays (ELISAs) and six point-of-care (POC) lateral flow tests. The assays were validated using serum samples from: i) SARS-CoV-2 PCR-positive patients with a documented first day of disease; ii) archived sera obtained from healthy individuals before the emergence of SARS-CoV-2 in China; iii) sera from patients with acute viral respiratory tract infections caused by other coronaviruses or non-coronaviruses; and iv) sera from patients positive for dengue virus, cytomegalovirus and Epstein Barr virus. The results showed 100% specificity for the Wantai SARS-CoV-2 Total Antibody ELISA, 93% for the Euroimmun IgA ELISA, and 96% for the Euroimmun IgG ELISA with sensitivities of 90%, 90%, and 65%, respectively. The overall performance of the POC tests according to manufacturer were in the rank order of AutoBio Diagnostics > Dynamiker Biotechnology = CTK Biotech > Artron Laboratories > Acro Biotech ≥ Hangzhou Alltest Biotech. Overall, these findings will facilitate selection of serological assays for the detection SARS-CoV-2-specific antibodies towards diagnosis as well as sero-epidemiological and vaccine development studies.
@@ -18279,7 +18280,8 @@ feed Research
   // Global profiling of SARS-CoV-2 specific IgG/ IgM responses of convalescents using a proteome microarray
   doi: https://doi.org/10.1101/2020.03.20.20039495
   article 'Jiang_et_al_2020
-    head = Both protein N and S1 are suitable for diagnostics, while S1 purified from mammalian cell may possess better specificity. Significant antibody responses were identified for ORF9b and NSP5. We showed that the level of S1 IgG positively correlate to age and the level of LDH while negatively correlate to Ly%.
+    head = To enable the global understanding of SARS-CoV-2 specific IgG/ IgM responses, a SARS-CoV-2 proteome microarray with 18 out of the 28 predicted proteins was constructed. The results suggest that at the convalescent phase 100% of patients had IgG/ IgM responses to SARS-CoV-2, especially to protein N, S1 but not S2. This study presents the first whole picture of the SARS-CoV-2 specific IgG/ IgM responses, and provides insights to develop precise immuno-diagnostics, effective treatment and vaccine.
+
 
     -- exports
       !a

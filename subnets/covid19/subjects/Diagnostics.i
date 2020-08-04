@@ -6,25 +6,25 @@ subject module Diagnostics
     / Serology
     subject Serology
       head = Serological tests detect antibodies produced by the body in response to infection. It can measure neutralizing antibodies and binding antibodies. Antibody serosurveys are being conducted to monitor trends in the prevalence of the novel coronavirus.
+      >>>
+        Some Serology Tests have higher sensitivity than others. The clinical sensitivity of IgM for early diagnosis of COVID-19 is currently unclear.
+        SARS-CoV-2-specific IgM does not consistently appear before its IgG counterpart.
+        Some studies reporting detection of SARS-CoV 2 spike protein-specific IgG before IgM.
+        Since the appearance of antibodies is time dependent, diagnosis of COVID-19 by serological methods is limited to patients with a longer duration of illness.
       --
-        'McLeish_et_al_2011
-        'McLeish_et_al_2011.!a
+        'Lassaunière_et_al_2020
+      >>>
+         S1 and N proteins are the dominant antigens of SARSCoV-2 that elicit both IgG and IgM antibodies.
+      -- Immuno-Diagnostics
         'Jiang_et_al_2020
-        'Netto_et_al_2017
         'Stadlbauer_et_al_2020
-        'Mcintosh_et_al_1970
-        'Zhang_et_al_2020g
         'Amanat_et_al_2020
-        'Amanat_et_al_2020.!c
         'Amanat_et_al_2020.!f
-        'Lassaunière_et_al_2020.!a
-        'Lassaunière_et_al_2020.!b
-        'Lassaunière_et_al_2020.!c
-        'Lassaunière_et_al_2020.!d
-        'Lassaunière_et_al_2020.!e
-        'Thompson_et_al_2020
-        'Thompson_et_al_2020.!a
-        'Lipsitch_et_al_2020
+      >>>
+          Serology is effective after IgM and IgG appears on host
+      --
+        'Zhang_et_al_2020g
+      --
         'Okba_et_al_2020
         'Wu_et_al_04_20_2020
         'Muruato_et_al_05_22_2020
@@ -32,11 +32,36 @@ subject module Diagnostics
         'Watson_et_al_05_12_2020
         'Sethuraman_et_al_05_06_2020
         'Weissleder_et_al_06_03_2020
-        'Lassaunière_et_al_2020
-      -- Seroprevalence
-        'Salje_et_al_04_20_2020.!j
-        'Stringhini_et_al_05_06_2020
-        'Wang-To_et_al_06_03_2020
+
+      --
+        Seroprevalence
+
+      # >>>
+      #   The complement fixation test is an immunological medical test that can be used to detect the presence of either specific antibody or specific antigen in a patient's serum, based on whether complement fixation occurs. It is used to diagnose infections, particularly with microbes that are not easily detected by culture methods... Clinical diagnostics labs CF has been largely superseded by other serological methods such as ELISA and by DNA-based methods of pathogen detection, particularly PCR.
+      # -- Complement Fixing
+      #   'Mcintosh_et_al_1970
+
+      / Seroprevalence
+      subject Seroprevalence
+        -- Seroprevalence
+          'Thompson_et_al_2020
+        -- Seroprevalence study in France, Switzerland and China
+          'Salje_et_al_04_20_2020.!j
+          'Stringhini_et_al_05_06_2020
+          'Wang-To_et_al_06_03_2020
+        >>>
+          Large scale serosurveys (community level) can be beneficial
+        --
+          'Lipsitch_et_al_2020
+          'Lipsitch_et_al_2020.!a
+        -- Seroprevalance Studies on other infectious disease
+          'McLeish_et_al_2011
+        # Herd Immunity happened in Zika Virus
+        --
+          'Netto_et_al_2017
+
+
+
     / Rt-PCR and PCR testing
     subject PCR
       head = rRT-PCR uses RNA testing of respiratory secretions collected using nasopharyngeal swab, which detects the presence of viral RNA fragments; nasal swab or sputum sample may also be used. Saliva as a non-invasive specimen for detection is also being researched.
