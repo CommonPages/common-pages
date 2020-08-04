@@ -1,5 +1,7 @@
 / Treatment and Vaccine
 subject module Remediation
+
+  —
   subject module Vaccines
     head =  At the moment, no vaccine has completed clinical trials, there are multiple efforts in progress to develop a vaccine against COVID-19.
     subject module Prospects
@@ -104,8 +106,11 @@ subject module Remediation
 
   subject module Therapeutics
     head = Researchers have developed drug catalog which showed that there were potential interactions between the virus, human cells and these existing drugs or compounds. They have identified strong treatment leads and mechanisms that effects and alleviate the severity of COVID-19.
+
     subject module Antivirals
       head = Scientist have identified several antiviral drugs and compounds with potential to treat COVID-19. Clinical Trials are on-going.
+
+      —
       / Polymerase Inhibitors
       subject PolymeraseInhibitors
         head = The RNA-dependent RNA polymerase (RdRp) is the central component of coronaviral replication and transcription machinery. Polymerase Inhibitors works by inhibiting the activity of RdRp. They often have broad-spectrum possessing activity against multiple related virus species.
@@ -128,6 +133,8 @@ subject module Remediation
           head = Safety and clinical efficacy of EIDD-2801 has not been establish yet, though if trials are successful, this drug may be useful oral option in high-risk outpatients.
           --
             'Sheahan_et_al_2020
+
+      —
       / Protease Inhibitors
       subject ProteaseInhibitor
         head = Protease inhibitors are widely used to treat HIV/AIDS and hepatitis C. Protease inhibitors prevent viral replication by selectively binding to viral proteases and blocking proteolytic cleavage of protein precursors that are necessary for the production of infectious viral particles.
@@ -160,6 +167,8 @@ subject module Remediation
             'Musarrat_et_al_05_06_2020
             'Lee_et_al_05_12_2020
             'Ohashi_et_al_04_15_2020
+
+      —
       / Entry Inhibitors
       subject EntryInhibitors
         head = Entry inhibitors interferes with the binding, fusion and entry to a human cell. By blocking this step in virus replication cycle, such agents could slow the progression of infection of SARS-CoV-2.
@@ -175,12 +184,15 @@ subject module Remediation
             'Batlle_et_al_2020
             'Fukushi_et_al_2005
             'Monteil_et_al_2020
+
       / Additonal Host Targeting Compounds
       subject HostTargetingCompounds
         head = Host Targeting compounds might work to inhibit multiple viruses, as many viruses rely on on similar host factors and pathways. Compared to other drugs they may have a higher risk of cellular toxicity.
+
         / Endosomal Trafficking Inhibitors
         subject EndosomalTraffickingInhibitors
           head = Endocytic pathway and the autophagy process plays a role in viral entry and replication. The endocytic pathway including endosome and lysosome has become important targets for development of therapeutic strategies in combating diseases caused by CoVs.
+
           / Chloroquine and Hydroxychloroquine
           subject Chloroquine
             head = Chloroquine / hydroxychloroquine has not been formally approved through clinical trials,and its use was withdrawn as a possible treatment for COVID-19 infection when it proved to have no benefit. These drugs, which are normally used to treat arthritis, should therefore only be used within the context of a controlled clinical trial.
@@ -200,12 +212,15 @@ subject module Remediation
               'Li_et_al_2020
             -- Hydroxychloroquine with Azithromycin
               'Gautret_et_al_2020
+
           / Niclosamide
           subject Niclosamide
             head = Studies have shown that Niclosamide consistently displayed significant inhibitory activity in vitro and is being studied in planned clinical trial. Though its bioavailability remains uncertain.
             --
               'Xu_et_al_2020
               'Li_et_al_2020
+
+        —
         # subject HostProteaseInhibitors
         / Miscellaneous Additonal Host Targets
         subject MiscellaneousAdditonalHostTargets
@@ -214,6 +229,8 @@ subject module Remediation
             'Rossignol_et_al_2014
             'Wu_et_al_2004
             'Li_et_al_2020
+
+    —
     / Immune-Based Therapy
     subject module HostModifiers
       head = Immune based therapy is the treatment of disease by activating or suppressing the immune system. Several immune-based therapies that are directed at modifying the course of COVID-19 are currently under investigation. These agents may target the virus or modulate the immune response.
@@ -312,6 +329,8 @@ subject module Remediation
           'Shaabani_et_al_2020.!g
           'Shaabani_et_al_2020.!h
           'Shaabani_et_al_2020.!i
+
+    —
     / Anti-Inflammatories
     subject module AntiInflammatories
       head = Anti-Inflammatories drugs reduces inflammation or swelling. There has been heavy debate on the use of anti-inflammatory drugs in the treatment of SARS-CoV-2 infection.
@@ -358,6 +377,8 @@ subject module Remediation
         --
           'Llor_et_al_2013
           'Voiriot_et_al_2019
+
+    —
     / Frontiers
     subject  Frontiers
       head = Knowledge of these studies is important to understand the development of therapeutics.
@@ -438,6 +459,7 @@ subject module Remediation
       -- Inhibiting the binding site
         'Liu_et_al_05_10_2020
 
+  —
   / Clinical Management
   subject module ClinicalRecommendation
     head = Studies and research recommending management of patients with COVID-19 are extrapolated from experience. Guidelines are intended to meet the needs of frontline clinicians and it promotes a multi-disciplinary approach for caring of COVID-19 patients, including those with mild, moderate, severe, and critical disease. Intension is not to replace specialist consultation or clinical protocols but rather to strengthen clinical management of patients.

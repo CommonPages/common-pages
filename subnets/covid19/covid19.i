@@ -23,13 +23,13 @@
   foundations
 
 -- Claims
-  subjects.Timeline
-  subjects.Virus
-  subjects.Disease
-  subjects.Diagnostics
-  subjects.Mitigation
-  subjects.Remediation
-  subjects.PublicPolicy
+  Timeline
+  Virus
+  Disease
+  Diagnostics
+  Mitigation
+  Remediation
+  PublicPolicy
 
 -- Feeds
   feeds.Research

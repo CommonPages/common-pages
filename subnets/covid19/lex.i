@@ -14,7 +14,7 @@ import foundations.CoV2._
 # import claims.Diagnostics
 # import claims.Timeline
 # import claims.Timeline.Origin
-import subjects.Timeline.Origin
+import Timeline.Origin
 
 import feeds.Research
 import feeds.News
@@ -23,6 +23,13 @@ import feeds.Revisions
 import Research._
 import Research.July2020._
 import Research.June2020._
+import Research.May2020._
+import Research.April2020._
+import Research.March2020._
+import Research.February2020._
+import Research.January2020._
+import Research.2019._
+import Research.Pre2019._
 
 import News._
 
