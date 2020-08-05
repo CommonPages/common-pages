@@ -15,19 +15,22 @@ subject module Diagnostics
         'Lassaunière_et_al_2020
       >>>
          S1 and N proteins are the dominant antigens of SARSCoV-2 that elicit both IgG and IgM antibodies.
-      -- Immuno-Diagnostics
+      -- Immuno-Diagnostics , Immunoassy
         'Jiang_et_al_2020
         'Stadlbauer_et_al_2020
         'Amanat_et_al_2020
         'Amanat_et_al_2020.!f
+        'Okba_et_al_2020
+        'Muruato_et_al_05_22_2020
       >>>
-          Serology is effective after IgM and IgG appears on host
+        Serology is effective after IgM and IgG appears on host
       --
         'Zhang_et_al_2020g
+      >>>
+        Using Serology to detect Asymptomatic Cases
       --
-        'Okba_et_al_2020
         'Wu_et_al_04_20_2020
-        'Muruato_et_al_05_22_2020
+      --
         'Weissleder_et_al_06_03_2020
         'Watson_et_al_05_12_2020
         'Sethuraman_et_al_05_06_2020
@@ -59,8 +62,6 @@ subject module Diagnostics
         # Herd Immunity happened in Zika Virus
         --
           'Netto_et_al_2017
-
-
 
     / Rt-PCR and PCR testing
     subject PCR
