@@ -15,6 +15,42 @@ feed July2020
     'Mulligan_et_al_07_06_2020
     'Morris_et_al_07_02_2020
 
+  #
+  // Aerosol and surface contamination of SARS-CoV-2 observed in quarantine and isolation care
+  doi: https://doi.org/10.1038/s41598-020-69286-3
+  ref 'Santarpia_et_al_07_2020
+    head = The study points to nature of viral shedding for patients in quarantine and the results indicate airborne spread of the virus.
+
+    >>> Abstract
+      The novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) originated in Wuhan, China in late 2019, and its resulting coronavirus disease, COVID-19, was declared a pandemic by the World Health Organization on March 11, 2020. The rapid global spread of COVID-19 represents perhaps the most significant public health emergency in a century. As the pandemic progressed, a continued paucity of evidence on routes of SARS-CoV-2 transmission has resulted in shifting infection prevention and control guidelines between classically-defined airborne and droplet precautions. During the initial isolation of 13 individuals with COVID-19 at the University of Nebraska Medical Center, we collected air and surface samples to examine viral shedding from isolated individuals. We detected viral contamination among all samples, supporting the use of airborne isolation precautions when caring for COVID-19 patients.
+    -- exports
+      !a
+      !b
+      !c
+
+    / Aerosol and surface contamination of SARS-CoV-2, July, 2020 - Nature
+    let !a self assert = data indicate significant environmental contamination in rooms where patients infected with SARS-CoV-2 are housed and cared for, regardless of the degree of symptoms or acuity of illness.
+
+    / Aerosol and surface contamination of SARS-CoV-2, July, 2020 - Nature
+    let !b self assert = the lack of a strong relationship between environmental contamination and body temperature reaffirms the fact that shedding of viral RNA is not necessarily linked to clinical signs of illness.
+
+    / Aerosol and surface contamination of SARS-CoV-2, July, 2020 - Nature
+    let !c self assert = SARS-CoV-2 environmental contamination around COVID-19 patients is extensive, and hospital IPC procedures should account for the risk of fomite, and potentially airborne, transmission of the virus.
+
+
+  / Single-shot Ad26 vaccine protects against SARS-CoV-2 in rhesus macaques
+  doi: https://doi.org/10.1038/s41586-020-2607-z
+  ref 'Mercado_et_al_07_2020
+    head = Provides data on trials of a single-shot vector based vaccine in animals. The data showed positive results for 5 out of 6 monkeys with minimal to no virus replication in the sample. The vaccine provided complete or near-complete protection against the SARS Cov-2 challege in the monkey. The clinical trials as ongoing when the study was reported.
+    >>> Abstract
+      A safe and effective vaccine for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) may be required to end the coronavirus disease 2019 (COVID-19) pandemic1–8. For global deployment and pandemic control, a vaccine that requires only a single immunization would be optimal. Here we show the immunogenicity and protective efficacy of a single dose of adenovirus serotype 26 (Ad26) vector-based vaccines expressing the SARS-CoV-2 spike (S) protein in nonhuman primates. Fifty-two rhesus macaques were immunized with Ad26 vectors encoding S variants or sham control and were challenged with SARS-CoV-2 by the intranasal and intratracheal routes9,10. The optimal Ad26 vaccine induced robust neutralizing antibody responses and provided complete or near-complete protection in bronchoalveolar lavage and nasal swabs following SARS-CoV-2 challenge. Vaccine-elicited neutralizing antibody titres correlated with protective efficacy, suggesting an immune correlate of protection. These data demonstrate robust single-shot vaccine protection against SARS-CoV-2 in nonhuman primates. The optimal Ad26 vector-based vaccine for SARS-CoV-2, termed Ad26.COV2.S, is currently being evaluated in clinical trials.
+
+    -- exports
+      !a
+
+    / Single-shot AD26 vector based vaccine, July, 2020 - Nature
+    let !a self assert = Ad26-S.PP induced robust NAb responses after a single immunization and provided complete protection against SARS-CoV-2 challenge in 5 of 6 animals, whereas one animal had low levels of virus in NS... data suggest minimal to no virus replication in the Ad26-S. PP vaccinated animals following SARS-Cov-2 challenge.
+
   # doi is not working, Convalescent Plasma
   // Convalescent Plasma for COVID-19. A randomized clinical trial
   doi: https://doi.org/10.1101/2020.07.01.20139857
