@@ -281,6 +281,7 @@ subject module Virus
             'Bi_et_al_04_27_2020.!g
             'Peng-Li_et_al_2020
             'Liu_et_al_2020g
+            'Wang_et_al_04_10_2020
           # Unedited - Indoor
           -- Indoor Tranmission
             'Chan_et_al_2020
@@ -296,6 +297,9 @@ subject module Virus
             'Mcmichael_et_al_2020.!a
             'Pung_et_al_2020
             'Wu_et_al_2020e
+            'Ghinai_et_al_04_17_2020
+          -- Restaurant
+            'Lu_et_al_04_02_2020
         / Outdoor Transmission
         subject OutdoorTransmission
           head = Based on data collected so far, Outdoor Tranmission is possible but seems to be rare.

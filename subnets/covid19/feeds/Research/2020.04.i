@@ -1,6 +1,9 @@
 / April, 2020
 feed April2020
   --
+    'Ghinai_et_al_04_17_2020
+    'Lu_et_al_04_02_2020
+    'Wang_et_al_04_10_2020
     'Frank_et_al_04_20_2020
     'Damas_et_al_04_18_2020
     'Liu_et_al_04_02_2020
@@ -101,6 +104,73 @@ feed April2020
     'Franklin_et_al_2020
     'Sheahan_et_al_2020
     'Berg_et_al_2020
+
+
+  #
+
+  # outdoor, wet market
+  // Wet markets—a continuing source of severe acute respiratory syndrome and influenza?
+  doi: https://doi.org/10.1016/S0140-6736(03)15329-9
+  ref 'Webster_et_al_01_17_2004
+    head = Wet markets—a could be a continuing source of severe acute respiratory syndrome and influenza.
+
+
+    / January, 2004 - The Lancet
+    let !a self assert =
+
+
+
+  # funeral, birthdays, Indoor
+  // Community Transmission of SARS-CoV-2 at Two Family Gatherings — Chicago, Illinois, February–March 2020
+  doi: http://dx.doi.org/10.15585/mmwr.mm6915e1
+  ref 'Ghinai_et_al_04_17_2020
+    head = Investigation of COVID-19 cases in Chicago identified a cluster of 16 confirmed or probable cases, including three deaths, likely resulting from one introduction. Extended family gatherings including a funeral and a birthday party likely facilitated transmission of SARS-CoV-2 in this cluster.
+
+
+    / April, 2020 - MMWR
+    let !a self assert =
+
+
+
+  # Indoortransmission, restaurant
+  // COVID-19 Outbreak Associated with Air Conditioning in Restaurant, Guangzhou, China, 2020
+  doi: https://10.3201/eid2607.200764
+  ref 'Lu_et_al_04_02_2020
+    head = During January 26–February 10, 2020, an outbreak of 2019 novel coronavirus disease in an air-conditioned restaurant in Guangzhou, China, involved 3 family clusters. We conclude that in this outbreak, droplet transmission was prompted by air-conditioned ventilation. The key factor for infection was the direction of the airflow.
+
+
+    # / April, 2020 - Emerging Infectious Diseases
+    # let !a self assert =
+
+
+
+  # Indoortransmission, householdtransmission
+  // Household transmission of SARS-CoV-2
+  doi: https://doi.org/10.1016/j.jinf.2020.03.040
+  ref 'Wang_et_al_04_10_2020
+    head = We report the epidemic data of 85 households with confirmed SARS-CoV-2 infected members in Wuhan City. SARS-CoV-2 induced a secondary transmission rate of 30% among household members, which is much higher than SARS-CoV and MERS-CoV did.
+
+    >>> Background
+      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has caused an epidemic in China and many other countries. Many infected clusters have been found within familial households, but the data about secondary transmission among household contacts is limited.
+
+    >>> Methods
+      In this retrospective case series, we enrolled 85 patients infected with SARS-CoV-2 and their household members in Wuhan. Patients were confirmed infected with SARS-CoV-2 by real-time reverse transcription polymerase chain reaction (RT-PCR) assays on throat swabs. Epidemiological, clinical and laboratory data of the household members were collected.
+
+    >>> Results
+      There were 155 close contacts in total. 104 contacts received RT-PCR assays, with 47 (30%) positive cases and 57 (37%) negative cases. 51 (33%) cases did not received RT-PCR tests for they showed no symptoms of pneumonia during the 2 weeks of quarantine. The infection rate of close contacts was 38% for households with 1 contact, 50% for households with 2 contacts, and 31% for households with 3 contacts.
+
+    >>> Conclusions
+      The rate of secondary transmission among household contacts of patients with SARS-CoV-2 infection was 30%. Our data provide insight into the rate of secondary transmission of SARS-CoV-2 in home.
+
+    -- exports
+      !a
+      !b
+
+    / April, 2020 - Journal of Infection
+    let !a self assert = The infection rate of close contacts was 38% for households with 1 contact, 50% for households with 2 contacts, and 31% for households with 3 contacts.
+
+    / April, 2020 - Journal of Infection
+    let !b self assert = The infection rate of children was 7%, whereas the infection rate of male adults was 45%.
 
 
   # Host range, bats, origin
