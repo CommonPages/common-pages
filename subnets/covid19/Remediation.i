@@ -196,6 +196,7 @@ subject module Remediation
           / Chloroquine and Hydroxychloroquine
           subject Chloroquine
             head = Chloroquine / hydroxychloroquine has not been formally approved through clinical trials,and its use was withdrawn as a possible treatment for COVID-19 infection when it proved to have no benefit. These drugs, which are normally used to treat arthritis, should therefore only be used within the context of a controlled clinical trial.
+
             -- Chloroquine
               'Savarino_et_al_2003
               'Davis_et_al_2003
@@ -204,14 +205,36 @@ subject module Remediation
               'Wang_et_al_2020
               'Li_et_al_2020
               'Sharma_et_al_07_08_2020
+              'Xiao_et_al_04_20_2020
+              'Huang_et_al_04_01_2020
+              'Ducharme_et_al_10_1996
             -- Hydroxychloroquine
               'Liu_et_al_2020b
               'Yao_et_al_2020
               'Mahevas_et_al_2020
               'Geleris_et_al_05_27_2020
               'Li_et_al_2020
+              'Clementi_et_al_03_31_2020
+              'Magagnoli_et_al_04_23_2020
+              'Tang_et_al_05_07_2020
+              'Mahévas_et_al_05_14_2020
+              'Horbt_et_al_07_15_2020
+              'Skipper_et_al_16_07_2020
+              'Cavalcanti_et_al_07_23_2020
+              'Mitja_et_al_07_26_2020
+              'Boulware_et_al_08_06_2020
             -- Hydroxychloroquine with Azithromycin
               'Gautret_et_al_2020
+            -- Side Effects
+              'Weniger_et_al_1979
+              'Joyce_et_al_19_12_2012
+            # Generic Drugs papers stating Hydroxychloroquine and Choloroquine can have antiviral efficacy against SARS-CoV-2
+            --
+              'Jeon_et_al_03_28_2020
+              'Touret_et_al_04_05_2020
+            -- On-going clinical trials
+              'Barnabas_et_al_06_03_2020
+              'González_et_al_07_02_2020  
 
           / Niclosamide
           subject Niclosamide

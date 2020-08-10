@@ -156,6 +156,9 @@ feed Pre2019
   -- Jan, 2013
     'Zhang_et_al_2013
 
+  -- Dec, 2012
+    'Joyce_et_al_19_12_2012
+
   -- Nov, 2012
     'Qian_et_al_11_06_2012
 
@@ -365,9 +368,40 @@ feed Pre2019
 
   #
 
+  # outdoor, wet market
+  // Wet markets—a continuing source of severe acute respiratory syndrome and influenza?
+  doi: https://doi.org/10.1016/S0140-6736(03)15329-9
+  ref 'Webster_et_al_01_17_2004
+    head = Wet markets—a could be a continuing source of severe acute respiratory syndrome and influenza.
 
 
-  #
+    / January, 2004 - The Lancet
+    let !a self assert =
+
+  // Clinical Pharmacokinetics and Metabolism of Chloroquine
+  doi: https://doi.org/10.2165/00003088-199631040-00003
+  ref 'Ducharme_et_al_10_1996
+    head = This paper presents the current state of knowledge on chloroquine disposition, with special emphasis on stereoselectivity and microsomal metabolism. In addition, the impact of the patient’s physiopathological status and ethnic origin on chloroquine pharmacokinetics is discussed.
+
+    / Oct, 1996 - Clin Pharmacokinet
+    let !a self assert =
+
+
+  # Side effects, Hydroxychloroquine - Binds to Receptors and can cause damage
+  // Hydroxychloroquine cardiotoxicity presenting as a rapidly evolving biventricular cardiomyopathy: key diagnostic features and literature review
+  doi: https://doi.org/10.1177/2048872612471215
+  ref 'Joyce_et_al_19_12_2012
+    head = Cardiotoxicity is a rare but serious complication of hydroxychloroquine. We describe typical clinical, echocardiographic, and histological features of this rare condition. Hydroxychloroquine cardiotoxicity can be fatal, particularly if irreversible histopathological changes have occurred prior to drug discontinuation.
+
+    >>> Abstract
+      Cardiotoxicity is a rare but serious complication of hydroxychloroquine, a 4-aminoquinoline increasingly used in the treatment of rheumatological disorders. We describe typical clinical, echocardiographic, and histological features of this rare condition according to the currently available literature, illustrated with a recent new biopsy-proven case of hydroxychloroquine cardiotoxicity in a 52-year-old female with rheumatoid arthritis. Presentation in this case was of a rapidly progressive decompensated biventricular cardiomyopathy associated with recurrent biomarker elevations, conduction system disease, and possibly neuromyotoxicity. Death occurred suddenly 2 months after diagnosis despite drug discontinuation and clinical improvement. The potential role of cardiac magnetic resonance delayed gadolinium enhancement imaging in the prognosis of this toxic cardiomyopathy is also introduced. This case-based literature review highlights that, although rare, hydroxychloroquine cardiotoxicity can be fatal, particularly if irreversible histopathological changes have occurred prior to drug discontinuation. Given this, regular screening with 12-lead electrocardiography and transthoracic echocardiography to detect conduction system disease and/or biventricular morphological or functional changes should be considered in hydroxychloroquine-treated patients in addition to recommended ophthalmological screening.
+
+
+    / December, 2012 - European Heart Journal: Acute Cardiovascular Care
+    let !a self assert =
+
+
+  # Hydroxychloroquine
   // Review of Side Effects and Toxicity of Chloroquine
   doi: https://apps.who.int/iris/handle/10665/65773
   article 'Weniger_et_al_1979

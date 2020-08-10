@@ -112,6 +112,34 @@ feed March2020
     'Ong_et_al_2020
 
 
+  #
+
+  # Hydroxychloroquine
+  // Combined prophylactic and therapeutic use maximizes hydroxychloroquine anti-SARS-CoV-2 effects in vitro
+  doi: https://doi.org/10.1101/2020.03.29.014407
+  ref 'Clementi_et_al_03_31_2020
+    head = Anti-SARS-CoV2 activity of hydroxychloroquine concentration is maximized only when administered before and after the infection of Vero E6 cells. Only a combined prophylactic and therapeutic use of hydroxychloroquine may be effective in limiting viral replication.
+
+    >>> Abstract
+      While the SARS-CoV-2 pandemic is hardly hitting the world, it is of extreme importance that significant in vitro observations guide the quick set up of clinical trials. In this study, we evidence that the anti-SARS-CoV2 activity of a clinically achievable hydroxychloroquine concentration is maximized only when administered before and after the infection of Vero E6 cells. This strongly suggests that only a combined prophylactic and therapeutic use of hydroxychloroquine may be effective in limiting viral replication in patients.
+
+    / March, 2020 - bioRxiv
+    let !a self assert =
+
+
+  # Hydroxychloroquine / Antiviral - In vitro efficacy stats
+  // Identification of antiviral drug candidates against SARS-CoV-2 from FDA-approved drugs
+  doi: https://doi.org/10.1101/2020.03.20.999730
+  ref 'Jeon_et_al_03_28_2020
+    head = A panel of 48 FDA-approved drugs that have been pre-selected by an assay of SARS-CoV was screened to identify potential antiviral drug candidates against SARS-CoV-2 infection. We found a total of 24 drugs which exhibited antiviral efficacy against SARS-CoV-2.
+
+    >>> Abstract
+      COVID-19 is an emerging infectious disease and was recently declared as a pandemic by WHO. Currently, there is no vaccine or therapeutic available for this disease. Drug repositioning represents the only feasible option to address this global challenge and a panel of 48 FDA-approved drugs that have been pre-selected by an assay of SARS-CoV was screened to identify potential antiviral drug candidates against SARS-CoV-2 infection. We found a total of 24 drugs which exhibited antiviral efficacy (0.1 μM < IC50 < 10 μM) against SARS-CoV-2. In particular, two FDA-approved drugs - niclosamide and ciclesonide – were notable in some respects. These drugs will be tested in an appropriate animal model for their antiviral activities. In near future, these already FDA-approved drugs could be further developed following clinical trials in order to provide additional therapeutic options for patients with COVID-19.
+
+    / March, 2020 - bioRxiv
+    let !a self assert =
+
+
   # check publisher, origin
   // A Genomic Perspective on the Origin and Emergence of SARS-CoV-2
   doi: https://doi.org/10.1016/j.cell.2020.03.035

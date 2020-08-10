@@ -16,6 +16,132 @@ feed July2020
     'Morris_et_al_07_02_2020
 
   #
+
+  # Hydroxychloroquine
+  // Hydroxychloroquine efficacy and safety in preventing SARS-CoV-2 infection and COVID-19 disease severity during pregnancy (COVID-Preg): a structured summary of a study protocol for a randomised placebo controlled trial
+  doi: https://doi.org/10.1186/s13063-020-04557-y
+  ref 'González_et_al_07_02_2020
+    head = This is a randomized placebo controlled trial including 714 pregnant women with the main objectives of assessing the safety and efficacy of oral hydroxychloroquine in reducing maternal viral shedding and preventing incident SARS-CoV-2 infection and disease severity.
+
+
+    / July, 2020 - Trials
+    let !a self assert =
+
+  # Hydroxychloroquine
+  // A Cluster-Randomized Trial of Hydroxychloroquine as Prevention of Covid-19 Transmission and Disease
+  doi: https://doi.org/xyz
+  ref 'Mitja_et_al_07_26_2020
+    head =  Postexposure therapy with HCQ did not prevent SARS-CoV-2 disease and infection in healthy individuals exposed to a PCR-positive case. Our findings do not support HCQ as postexposure prophylaxis for Covid-19.
+
+    >>> Background
+      Current strategies for preventing severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infections are limited to non-pharmacological interventions. Hydroxychloroquine (HCQ) has been proposed as a postexposure therapy to prevent Coronavirus disease 2019 (Covid-19) but definitive evidence is lacking.
+    >>> Methods
+      We conducted an open-label, cluster-randomized trial including asymptomatic contacts exposed to a PCR-positive Covid-19 case in Catalonia, Spain. Clusters were randomized to receive no specific therapy (control arm) or HCQ 800mg once, followed by 400mg daily for 6 days (intervention arm). The primary outcome was PCR-confirmed symptomatic Covid-19 within 14 days. The secondary outcome was SARS-CoV-2 infection, either symptomatically compatible or a PCR-positive result regardless of symptoms. Adverse events (AEs) were assessed up to 28 days.
+    >>> Results
+      The analysis included 2,314 healthy contacts of 672 Covid-19 index cases identified between Mar 17 and Apr 28, 2020. A total of 1,198 were randomly allocated to usual care and 1,116 to HCQ therapy. There was no significant difference in the primary outcome of PCR-confirmed, symptomatic Covid-19 disease (6.2% usual care vs. 5.7% HCQ; risk ratio 0.89 [95% confidence interval 0.54-1.46]), nor evidence of beneficial effects on prevention of SARS-CoV-2 transmission (17.8% usual care vs. 18.7% HCQ). The incidence of AEs was higher in the intervention arm than in the control arm (5.9% usual care vs 51.6% HCQ), but no treatment-related serious AEs were reported.
+    >>> Conclusions
+      Postexposure therapy with HCQ did not prevent SARS-CoV-2 disease and infection in healthy individuals exposed to a PCR-positive case. Our findings do not support HCQ as postexposure prophylaxis for Covid-19.
+
+
+    / July, 2020 - medRxiv
+    let !a self assert =
+
+
+  # Hydroxychloroquine
+  // Hydroxychloroquine for Early Treatment of Adults with Mild Covid-19: A Randomized-Controlled Trial
+  doi: https://doi.org/10.1093/cid/ciaa1009
+  ref 'Mitjà_et_al_07_16_2020
+    head =
+
+    >>> Background:
+      No therapeutics have yet been proven effective for the treatment of mild-illness caused by SARS-CoV-2. We aimed to determine whether early treatment with hydroxychloroquine (HCQ) would be more efficacious than no-treatment for outpatients with mild Covid-19.
+
+    >>> Methods:
+      We conducted a multicenter, open label, randomized controlled trial in Catalonia (Spain) between March 17, and May 26, 2020. Eligible Covid-19 cases were non-hospitalized adult patients with recently confirmed SARS-CoV-2 infection and less than five days of symptoms. Patients were assigned to receive HCQ (800 mg on day 1, followed by 400 mg once daily for 6 days) or no antiviral treatment (not-placebo controlled). Study outcomes were the reduction of viral RNA load in nasopharyngeal swabs up to 7 days after treatment start, patient disease progression using the WHO scale up to 28 days, and time to complete resolution of symptoms. Adverse events were assessed up to 28 days.
+
+    >>> Results:
+      A total of 293 patients were eligible for intention-to-treat analysis: 157 in the control arm and 136 in the intervention arm. The mean age was 41.6 years (SD 12.6), mean viral load at baseline was 7.90 (SD 1.82) Log10 copies/mL, and median time from symptom onset to randomization was 3 days. No significant differences were found in the mean reduction of viral load at day 3 (-1.41 vs. -1.41 Log10 copies/mL in the control and intervention arm, respectively; difference 0.01 [95% CI -0.28;0.29]) or at day 7 (-3.37 vs. -3.44; d -0.07 [-0.44;0.29]). This treatment regimen did not reduce risk of hospitalization (7.1%, control vs. 5.9%, intervention; RR 0.75 [0.32;1.77]) nor shortened the time to complete resolution of symptoms (12 days, control vs. 10 days, intervention; p = 0.38). No relevant treatment-related AEs were reported.
+
+    >>> Conclusions:
+      In patients with mild Covid-19, no benefit was observed with HCQ beyond the usual care.
+
+    / July, 2020 - Clin Infec Dis
+    let !a self assert =
+
+
+  # Hydroxychloroquine
+  // Hydroxychloroquine with or without Azithromycin in Mild-to-Moderate Covid-19
+  doi: https://doi.org/10.1056/NEJMoa2019014
+  ref 'Cavalcanti_et_al_07_23_2020
+    head = Among patients hospitalized with mild-to-moderate Covid-19, the use of hydroxychloroquine, alone or with azithromycin, did not improve clinical status at 15 days as compared with standard care.
+
+    >>> BACKGROUND
+      Hydroxychloroquine and azithromycin have been used to treat patients with coronavirus disease 2019 (Covid-19). However, evidence on the safety and efficacy of these therapies is limited.
+    >>> METHODS
+      We conducted a multicenter, randomized, open-label, three-group, controlled trial involving hospitalized patients with suspected or confirmed Covid-19 who were receiving either no supplemental oxygen or a maximum of 4 liters per minute of supplemental oxygen. Patients were randomly assigned in a 1:1:1 ratio to receive standard care, standard care plus hydroxychloroquine at a dose of 400 mg twice daily, or standard care plus hydroxychloroquine at a dose of 400 mg twice daily plus azithromycin at a dose of 500 mg once daily for 7 days. The primary outcome was clinical status at 15 days as assessed with the use of a seven-level ordinal scale (with levels ranging from one to seven and higher scores indicating a worse condition) in the modified intention-to-treat population (patients with a confirmed diagnosis of Covid-19). Safety was also assessed.
+    >>> RESULTS
+      A total of 667 patients underwent randomization; 504 patients had confirmed Covid-19 and were included in the modified intention-to-treat analysis. As compared with standard care, the proportional odds of having a higher score on the seven-point ordinal scale at 15 days was not affected by either hydroxychloroquine alone (odds ratio, 1.21; 95% confidence interval [CI], 0.69 to 2.11; P=1.00) or hydroxychloroquine plus azithromycin (odds ratio, 0.99; 95% CI, 0.57 to 1.73; P=1.00). Prolongation of the corrected QT interval and elevation of liver-enzyme levels were more frequent in patients receiving hydroxychloroquine, alone or with azithromycin, than in those who were not receiving either agent.
+    >>> CONCLUSIONS
+      Among patients hospitalized with mild-to-moderate Covid-19, the use of hydroxychloroquine, alone or with azithromycin, did not improve clinical status at 15 days as compared with standard care.
+
+    / July, 2020 - NEJM
+    let !a self assert =
+
+
+  # Hydroxychloroquine
+  // Hydroxychloroquine in Nonhospitalized Adults With Early COVID-19: A Randomized Trial
+  doi: https://doi.org/10.7326/M20-4207
+  ref 'Skipper_et_al_16_07_2020
+    head = Hydroxychloroquine did not substantially reduce symptom severity in outpatients with early, mild COVID-19.
+
+    >>> Background:
+      No effective oral therapy exists for early coronavirus disease 2019 (COVID-19).
+
+    >>> Objective:
+      To investigate whether hydroxychloroquine could reduce COVID-19 severity in adult outpatients.
+
+    >>> Design:
+      Randomized, double-blind, placebo-controlled trial conducted from 22 March through 20 May 2020. (ClinicalTrials.gov: NCT04308668).
+
+    >>> Setting:
+      Internet-based trial across the United States and Canada (40 states and 3 provinces).
+
+    >>> Participants:
+      Symptomatic, nonhospitalized adults with laboratory-confirmed COVID-19 or probable COVID-19 and high-risk exposure within 4 days of symptom onset.
+
+    >>> Intervention:
+      Oral hydroxychloroquine (800 mg once, followed by 600 mg in 6 to 8 hours, then 600 mg daily for 4 more days) or masked placebo. Measures: Symptoms and severity at baseline and then at days 3, 5, 10, and 14 using a 10-point visual analogue scale. The primary end point was change in overall symptom severity over 14 days.
+
+    >>> Results:
+      Of 491 patients randomly assigned to a group, 423 contributed primary end point data. Of these, 341 (81%) had laboratory-confirmed infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) or epidemiologically linked exposure to a person with laboratory-confirmed infection; 56% (236 of 423) were enrolled within 1 day of symptoms starting. Change in symptom severity over 14 days did not differ between the hydroxychloroquine and placebo groups (difference in symptom severity: relative, 12%; absolute, -0.27 points [95% CI, -0.61 to 0.07 points]; P = 0.117). At 14 days, 24% (49 of 201) of participants receiving hydroxychloroquine had ongoing symptoms compared with 30% (59 of 194) receiving placebo (P = 0.21). Medication adverse effects occurred in 43% (92 of 212) of participants receiving hydroxychloroquine versus 22% (46 of 211) receiving placebo (P < 0.001). With placebo, 10 hospitalizations occurred (2 non-COVID-19-related), including 1 hospitalized death. With hydroxychloroquine, 4 hospitalizations occurred plus 1 nonhospitalized death (P = 0.29).
+
+    >>> Limitations:
+      Only 58% of participants received SARS-CoV-2 testing because of severe U.S. testing shortages.
+
+    >>> Conclusion:
+      Hydroxychloroquine did not substantially reduce symptom severity in outpatients with early, mild COVID-19.
+
+    / July, 2020 - Ann Intern Med
+    let !a self assert =
+
+  # Hydroxychloroquine
+  // Effect of Hydroxychloroquine in Hospitalized Patients with COVID-19: Preliminary results from a multi-centre, randomized, controlled trial.
+  doi: https://doi.org/10.1101/2020.07.15.20151852
+  ref 'Horbt_et_al_07_15_2020
+    head = In patients hospitalized with COVID-19, hydroxychloroquine was not associated with reductions in 28-day mortality but was associated with an increased length of hospital stay and increased risk of progressing to invasive mechanical ventilation or death.
+
+    >>> Background:
+      Hydroxychloroquine and chloroquine have been proposed as treatments for coronavirus disease 2019 (COVID-19) on the basis of in vitro activity, uncontrolled data, and small randomized studies. Methods: The Randomised Evaluation of COVID-19 therapy (RECOVERY) trial is a randomized, controlled, open-label, platform trial comparing a range of possible treatments with usual care in patients hospitalized with COVID-19. We report the preliminary results for the comparison of hydroxychloroquine vs. usual care alone. The primary outcome was 28-day mortality.
+    >>> Results:
+      1561 patients randomly allocated to receive hydroxychloroquine were compared with 3155 patients concurrently allocated to usual care. Overall, 418 (26.8%) patients allocated hydroxychloroquine and 788 (25.0%) patients allocated usual care died within 28 days (rate ratio 1.09; 95% confidence interval [CI] 0.96 to 1.23; P=0.18). Consistent results were seen in all pre-specified subgroups of patients. Patients allocated to hydroxychloroquine were less likely to be discharged from hospital alive within 28 days (60.3% vs. 62.8%; rate ratio 0.92; 95% CI 0.85-0.99) and those not on invasive mechanical ventilation at baseline were more likely to reach the composite endpoint of invasive mechanical ventilation or death (29.8% vs. 26.5%; risk ratio 1.12; 95% CI 1.01-1.25). There was no excess of new major cardiac arrhythmia.
+
+    >>> Conclusions:
+      In patients hospitalized with COVID-19, hydroxychloroquine was not associated with reductions in 28-day mortality but was associated with an increased length of hospital stay and increased risk of progressing to invasive mechanical ventilation or death.
+
+    / July, 2020 - medRxiv
+    let !a self assert =
+
+  # Aerosol
   // Aerosol and surface contamination of SARS-CoV-2 observed in quarantine and isolation care
   doi: https://doi.org/10.1038/s41598-020-69286-3
   ref 'Santarpia_et_al_07_2020

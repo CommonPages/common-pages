@@ -108,18 +108,7 @@ feed April2020
 
   #
 
-  # outdoor, wet market
-  // Wet markets—a continuing source of severe acute respiratory syndrome and influenza?
-  doi: https://doi.org/10.1016/S0140-6736(03)15329-9
-  ref 'Webster_et_al_01_17_2004
-    head = Wet markets—a could be a continuing source of severe acute respiratory syndrome and influenza.
-
-
-    / January, 2004 - The Lancet
-    let !a self assert =
-
-
-
+  
   # funeral, birthdays, Indoor
   // Community Transmission of SARS-CoV-2 at Two Family Gatherings — Chicago, Illinois, February–March 2020
   doi: http://dx.doi.org/10.15585/mmwr.mm6915e1
@@ -131,7 +120,6 @@ feed April2020
     let !a self assert =
 
 
-
   # Indoortransmission, restaurant
   // COVID-19 Outbreak Associated with Air Conditioning in Restaurant, Guangzhou, China, 2020
   doi: https://10.3201/eid2607.200764
@@ -141,7 +129,6 @@ feed April2020
 
     # / April, 2020 - Emerging Infectious Diseases
     # let !a self assert =
-
 
 
   # Indoortransmission, householdtransmission
@@ -172,6 +159,80 @@ feed April2020
     / April, 2020 - Journal of Infection
     let !b self assert = The infection rate of children was 7%, whereas the infection rate of male adults was 45%.
 
+  # endosomial pH modification would limit the processing of the Spike protein by endosomal proteases and in turn bloke the virus entry mediated by membrane fusion process. - Hydroxychloroquine
+  // In vitro screening of a FDA approved chemical library reveals potential inhibitors of SARS-CoV-2 replication
+  doi: https://doi.org/10.1101/2020.04.03.023846
+  ref 'Touret_et_al_04_05_2020
+    head =  We screened 1,520 approved drugs in an infected cell-based assay. 90 compounds were identified. By providing new information on molecules inhibiting SARS-CoV-2 replication in vitro, this study could contribute to the short-term repurposing of drugs against Covid-19.
+
+    >>> Abstract
+      A novel coronavirus, named SARS-CoV-2, emerged in 2019 from Hubei region in China and rapidly spread worldwide. As no approved therapeutics exists to treat Covid-19, the disease associated to SARS-Cov-2, there is an urgent need to propose molecules that could quickly enter into clinics. Repurposing of approved drugs is a strategy that can bypass the time consuming stages of drug development. In this study, we screened the Prestwick Chemical Library® composed of 1,520 approved drugs in an infected cell-based assay. 90 compounds were identified. The robustness of the screen was assessed by the identification of drugs, such as Chloroquine derivatives and protease inhibitors, already in clinical trials. The hits were sorted according to their chemical composition and their known therapeutic effect, then EC50 and CC50 were determined for a subset of compounds. Several drugs, such as Azithromycine, Opipramol, Quinidine or Omeprazol present antiviral potency with 2<EC50<20µM. By providing new information on molecules inhibiting SARS-CoV-2 replication in vitro, this study could contribute to the short-term repurposing of drugs against Covid-19.
+
+
+    / April, 2020 - bioRxiv
+    let !a self assert =
+
+
+  # Hydroxychloroquine
+  // Outcomes of hydroxychloroquine usage in United States veterans hospitalized with Covid-19
+  doi: https://doi.org/10.1101/2020.04.16.20065920
+  ref 'Magagnoli_et_al_04_23_2020
+    head = We found no evidence that use of hydroxychloroquine, either with or without azithromycin, reduced the risk of mechanical ventilation in patients hospitalized with Covid-19. An association of increased overall mortality was identified in patients treated with hydroxychloroquine alone.
+
+    >>> BACKGROUND:
+      Despite limited and conflicting data on the use of hydroxychloroquine in patients with Covid-19, the U.S. Food and Drug Administration has authorized the emergency use of this drug when clinical trials are unavailable or infeasible. Hydroxychloroquine, alone or in combination with azithromycin, is being widely used in Covid-19 therapy based on anecdotal and limited observational evidence.
+    >>> METHODS:
+      We performed a retrospective analysis of data from patients hospitalized with confirmed SARS-CoV-2 infection in all United States Veterans Health Administration medical centers until April 11, 2020. Patients were categorized based on their exposure to hydroxychloroquine alone (HC) or with azithromycin (HC+AZ) as treatments in addition to standard supportive management for Covid-19. The two primary outcomes were death and the need for mechanical ventilation. We determined the association between treatment and the primary outcomes using competing risk hazard regression adjusting for clinical characteristics via propensity scores. Discharge and death were taken into account as competing risks and subdistribution hazard ratios are presented.
+
+    >>> RESULTS:
+      A total of 368 patients were evaluated (HC, n=97; HC+AZ, n=113; no HC, n=158). Rates of death in the HC, HC+AZ, and no HC groups were 27.8%, 22.1%, 11.4%, respectively. Rates of ventilation in the HC, HC+AZ, and no HC groups were 13.3%, 6.9%, 14.1%, respectively. Compared to the no HC group, the risk of death from any cause was higher in the HC group (adjusted hazard ratio, 2.61; 95% CI, 1.10 to 6.17; P=0.03) but not in the HC+AZ group (adjusted hazard ratio, 1.14; 95% CI, 0.56 to 2.32; P=0.72). The risk of ventilation was similar in the HC group (adjusted hazard ratio, 1.43; 95% CI, 0.53 to 3.79; P=0.48) and in the HC+AZ group (adjusted hazard ratio, 0.43; 95% CI, 0.16 to 1.12; P=0.09), compared to the no HC group.
+    >>> CONCLUSIONS:
+      In this study, we found no evidence that use of hydroxychloroquine, either with or without azithromycin, reduced the risk of mechanical ventilation in patients hospitalized with Covid-19. An association of increased overall mortality was identified in patients treated with hydroxychloroquine alone. These findings highlight the importance of awaiting the results of ongoing prospective, randomized, controlled studies before widespread adoption of these drugs.
+
+
+    / April, 2020 - medRxiv
+    let !a self assert =
+
+
+  # Hydroxychloroquine
+  // Treating COVID-19 with Chloroquine
+  doi: https://doi.org/10.1093/jmcb/mjaa014
+  ref 'Huang_et_al_04_01_2020
+    head = In sum, our preliminary results suggest that Chloroquine could be an effective and inexpensive option among many proposed therapies, e.g. Lopinavir/Ritonavir. In the absence of a specific cure, old drugs such as Chloroquine may be repurposed to fight this novel disease and save lives worldwide.
+
+
+    / April, 2020 - J Mol Cell Biol
+    let !a self assert =
+
+  # Hydroxychloroquine - Randomized Trails
+  // Effect of High vs Low Doses of Chloroquine Diphosphate as Adjunctive Therapy for Patients Hospitalized With Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Infection: A Randomized Clinical Trial
+  doi: https://doi.org/10.1001/jamanetworkopen.2020.8857
+  ref 'Xiao_et_al_04_20_2020
+    head = The preliminary findings of this study suggest that the higher CQ dosage should not be recommended for critically ill patients with COVID-19 because of its potential safety hazards, especially when taken concurrently with azithromycin and oseltamivir.
+
+    >>> Importance
+      There is no specific antiviral therapy recommended for coronavirus disease 2019 (COVID-19). In vitro studies indicate that the antiviral effect of chloroquine diphosphate (CQ) requires a high concentration of the drug.
+
+    >>> Objective
+      To evaluate the safety and efficacy of 2 CQ dosages in patients with severe COVID-19.
+
+    >>> Design, Setting, and Participants
+      This parallel, double-masked, randomized, phase IIb clinical trial with 81 adult patients who were hospitalized with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection was conducted from March 23 to April 5, 2020, at a tertiary care facility in Manaus, Brazilian Amazon.
+
+    >>> Interventions
+      Patients were allocated to receive high-dosage CQ (ie, 600 mg CQ twice daily for 10 days) or low-dosage CQ (ie, 450 mg twice daily on day 1 and once daily for 4 days).
+
+    >>>  Main Outcomes and Measures
+      Primary outcome was reduction in lethality by at least 50% in the high-dosage group compared with the low-dosage group. Data presented here refer primarily to safety and lethality outcomes during treatment on day 13. Secondary end points included participant clinical status, laboratory examinations, and electrocardiogram results. Outcomes will be presented to day 28. Viral respiratory secretion RNA detection was performed on days 0 and 4.
+
+    >>> Results
+      Out of a predefined sample size of 440 patients, 81 were enrolled (41 [50.6%] to high-dosage group and 40 [49.4%] to low-dosage group). Enrolled patients had a mean (SD) age of 51.1 (13.9) years, and most (60 [75.3%]) were men. Older age (mean [SD] age, 54.7 [13.7] years vs 47.4 [13.3] years) and more heart disease (5 of 28 [17.9%] vs 0) were seen in the high-dose group. Viral RNA was detected in 31 of 40 (77.5%) and 31 of 41 (75.6%) patients in the low-dosage and high-dosage groups, respectively. Lethality until day 13 was 39.0% in the high-dosage group (16 of 41) and 15.0% in the low-dosage group (6 of 40). The high-dosage group presented more instance of QTc interval greater than 500 milliseconds (7 of 37 [18.9%]) compared with the low-dosage group (4 of 36 [11.1%]). Respiratory secretion at day 4 was negative in only 6 of 27 patients (22.2%).
+
+    >>>  Conclusions and Relevance
+      The preliminary findings of this study suggest that the higher CQ dosage should not be recommended for critically ill patients with COVID-19 because of its potential safety hazards, especially when taken concurrently with azithromycin and oseltamivir. These findings cannot be extrapolated to patients with nonsevere COVID-19.
+
+    / April, 2020 - JAMA
+    let !a self assert =
 
   # Host range, bats, origin
   // Exceptional diversity and selection pressure on SARS-CoV and SARS-CoV-2 host receptor in bats compared to other mammals

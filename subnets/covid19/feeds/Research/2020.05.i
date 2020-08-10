@@ -1,6 +1,7 @@
 / May, 2020
 feed May2020
   --
+    'Tang_et_al_05_07_2020
     'Barile_et_al_05_22_2020
     'Anand_et_al_05_26_2020
     'Hoffmann_et_al_05_21_2020
@@ -112,6 +113,60 @@ feed May2020
     'Li_et_al_2020d
     'Hosier_et_al_2020
 
+  #
+
+  # Hydroxychloroquine
+  // Hydroxychloroquine in patients mainly with mild to moderate COVID-19: an open-label, randomized, controlled trial
+  doi: https://doi.org/10.1101/2020.04.10.20060558
+  ref 'Tang_et_al_05_07_2020
+    head =  The administration of Hydroxychloroquine (HCQ) did not result in a significantly higher negative conversion probability than Standard-of-care alone in patients mainly hospitalized with persistent mild to moderate COVID-19. Adverse events were higher in HCQ recipients than in HCQ non-recipients.
+
+    >>> Objectives
+      To assess the efficacy and safety of hydroxychloroquine (HCQ) plus standard-of-care (SOC) compared with SOC alone in adult patients with COVID-19. Design Multicenter, open-label, randomized controlled trial. Setting 16 government-designated COVID-19 treatment centers in China through 11 to 29 in February 2020. Participants 150 patients hospitalized with laboratory-confirmed COVID-19 were included in the intention to treat analysis. 75 patients were assigned to HCQ plus SOC and 75 to SOC alone.
+
+    >>> Interventions
+      HCQ was administrated with a loading dose of 1, 200 mg daily for three days followed by a maintained dose of 800 mg daily for the remaining days (total treatment duration: 2 or 3 weeks for mild/moderate or severe patients, respectively).
+    >>> Main outcome measures
+      The primary outcome was whether participants had a negative conversion of SARS-CoV-2 by 28 days, and was analyzed according to the intention-to-treat principle. Adverse events were analyzed in the safety population in which HCQ recipients were participants who actually received at least one dose of HCQ and HCQ non-recipients were those actually managed with SOC alone.
+    >>> Results
+      Among 150 patients, 148 were with mild to moderate disease and 2 were with severe disease. The mean days (±standard deviation, min to max) from symptoms onset to randomization was 16.6 (±10.5 days, 3 to 41 days). The negative conversion probability by 28 days in SOC plus HCQ group was 85.4% (95% confidence interval (CI) 73.8% to 93.8%), similar to that in the SOC group 81.3% (95%CI 71.2% to 89.6%). Between-group difference was 4.1% (95%CI -10.3% to 18.5%). In the safety population, adverse events were recorded in 7 (8.8%) HCQ non-recipients (N=80) and in 21 (30%) HCQ recipients (N=70). The most common adverse event in the HCQ recipients was diarrhea, reported in 7 (10%) patients. Two HCQ recipients reported serious adverse events.
+    >>> Conclusions
+      The administration of HCQ did not result in a significantly higher negative conversion probability than SOC alone in patients mainly hospitalized with persistent mild to moderate COVID-19. Adverse events were higher in HCQ recipients than in HCQ non-recipients.
+
+    / May, 2020 - medRxiv
+    let !a self assert =
+
+  // Clinical efficacy of hydroxychloroquine in patients with covid-19 pneumonia who require oxygen: observational comparative study using routine care data
+  doi: https://doi.org/10.1136/bmj.m1844
+  ref 'Mahévas_et_al_05_14_2020
+    head = 84 patients who received hydroxychloroquine within 48 hours of admission to hospital were compared with 89 patients who did not receive hydroxychloroquine. The results of this study do not support its use in patients admitted to hospital with covid-19 who require oxygen.
+
+    >>> Objective:
+      To assess the effectiveness of hydroxychloroquine in patients admitted to hospital with coronavirus disease 2019 (covid-19) pneumonia who require oxygen.
+
+    >>> Design:
+      Comparative observational study using data collected from routine care.
+
+    >>> Setting:
+      Four French tertiary care centres providing care to patients with covid-19 pneumonia between 12 March and 31 March 2020.
+
+    >>> Participants:
+      181 patients aged 18-80 years with documented severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pneumonia who required oxygen but not intensive care.
+
+    >>> Interventions:
+      Hydroxychloroquine at a dose of 600 mg/day within 48 hours of admission to hospital (treatment group) versus standard care without hydroxychloroquine (control group).
+
+    >>> Main outcome measures:
+      The primary outcome was survival without transfer to the intensive care unit at day 21. Secondary outcomes were overall survival, survival without acute respiratory distress syndrome, weaning from oxygen, and discharge from hospital to home or rehabilitation (all at day 21). Analyses were adjusted for confounding factors by inverse probability of treatment weighting.
+
+    >>> Results:
+      In the main analysis, 84 patients who received hydroxychloroquine within 48 hours of admission to hospital (treatment group) were compared with 89 patients who did not receive hydroxychloroquine (control group). Eight additional patients received hydroxychloroquine more than 48 hours after admission. In the weighted analyses, the survival rate without transfer to the intensive care unit at day 21 was 76% in the treatment group and 75% in the control group (weighted hazard ratio 0.9, 95% confidence interval 0.4 to 2.1). Overall survival at day 21 was 89% in the treatment group and 91% in the control group (1.2, 0.4 to 3.3). Survival without acute respiratory distress syndrome at day 21 was 69% in the treatment group compared with 74% in the control group (1.3, 0.7 to 2.6). At day 21, 82% of patients in the treatment group had been weaned from oxygen compared with 76% in the control group (weighted risk ratio 1.1, 95% confidence interval 0.9 to 1.3). Eight patients in the treatment group (10%) experienced electrocardiographic modifications that required discontinuation of treatment.
+
+    >>> Conclusions:
+      Hydroxychloroquine has received worldwide attention as a potential treatment for covid-19 because of positive results from small studies. However, the results of this study do not support its use in patients admitted to hospital with covid-19 who require oxygen.
+
+    / May, 2020 - BMJ
+    let !a self assert =
 
 
   # Anthrax toxin; protecting antigen; furin; TMPRSS2, therapeutics, serine protease inhibitor, medicine frontier, origin
