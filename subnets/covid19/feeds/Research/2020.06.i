@@ -54,11 +54,21 @@ feed June2020
   #
 
 
-  # On-going Clinical study - Hydroxychloroquine 
+  # Hydroxychloroquine
+  // Controlled, double-blind, randomized trial to assess the efficacy and safety of hydroxychloroquine chemoprophylaxis in SARS CoV2 infection in healthcare personnel in the hospital setting: A structured summary of a study protocol for a randomised controlled trial
+  doi: https://doi.org/10.1186/s13063-020-04400-4
+  ref 'Lavín_et_al_06_03_2020
+    head = There is no accepted chemoprophylaxis but hydroxychloroquine is known to inhibit the coronavirus in vitro. Our hypothesis is that oral administration of hydroxychloroquine to healthcare professionals can reduce the incidence and prevalence of infection as well as its severity
+
+    / June, 2020 - Trials
+    let !a self assert =
+
+
+  # On-going Clinical study - Hydroxychloroquine
   // Efficacy of hydroxychloroquine for post-exposure prophylaxis to prevent severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection among adults exposed to coronavirus disease (COVID-19): a structured summary of a study protocol for a randomised controlled trial
   doi: https://doi.org/10.1186/s13063-020-04446-4
   ref 'Barnabas_et_al_06_03_2020
-    head = This is a clinical study to test the efficacy of Hydroxychloroquine. This study will enroll up to 2000 asymptomatic men and women 18 to 80 years of age (inclusive) who are close contacts of persons with laboratory-confirmed SARS-CoV-2 or clinically suspected COVID-19.
+    head = This is a clinical study to test the efficacy of Hydroxychloroquine started at March 21, anticipated end date is September 30, 2020. This study will enroll up to 2000 asymptomatic men and women 18 to 80 years of age (inclusive) who are close contacts of persons with laboratory-confirmed SARS-CoV-2 or clinically suspected COVID-19.
 
 
     / June, 2020 - Trials

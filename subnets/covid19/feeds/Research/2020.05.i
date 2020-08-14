@@ -1,6 +1,7 @@
 / May, 2020
 feed May2020
   --
+    'Roldan_et_al_05_13_2020
     'Tang_et_al_05_07_2020
     'Barile_et_al_05_22_2020
     'Anand_et_al_05_26_2020
@@ -114,6 +115,24 @@ feed May2020
     'Hosier_et_al_2020
 
   #
+
+  # Hydroxychloroquine
+  // The possible mechanisms of action of 4-aminoquinolines (chloroquine/hydroxychloroquine) against Sars-Cov-2 infection (COVID-19): A role for iron homeostasis?
+  doi: https://doi.org/10.1016/j.phrs.2020.104904
+  ref 'Roldan_et_al_05_13_2020
+    head = We suggest to use CQ/HCQ CQ beyond 5–10 days of treatment in patients with COVID-19 according to the hypothesis that their utility can extend also after ending Sars-Cov-2 high replication phase and considering also the possibility of a reactivation of the infection
+
+    -- exports
+      !a
+      !b
+
+
+    / May, 2020 - Pharmacological Research
+    let !a self assert = CQ/HCQ are likely to have a direct antiviral action stopping viral infection in several steps.
+
+    / May, 2020 - Pharmacological Research
+    let !b self assert = CQ/HCQ are likely to have a hypothetical ability to attenuate the progression of COVID-19 to severe disease exploiting its inflammatory mechanisms,  but also through its potential anti-thrombotic effect.
+
 
   # Hydroxychloroquine
   // Hydroxychloroquine in patients mainly with mild to moderate COVID-19: an open-label, randomized, controlled trial

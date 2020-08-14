@@ -863,7 +863,7 @@ feed February2020
   // Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro
   doi: https://doi.org/10.1038/s41422-020-0282-0
   article 'Wang_et_al_2020
-    head = In this study, we evaluated the antiviral efficiency of five FAD-approved drugs including ribavirin, penciclovir, nitazoxanide, nafamostat, chloroquine and two well-known broad-spectrum antiviral drugs remdesivir and favipiravir against a clinical isolate of 2019-nCoV in vitro. Our findings reveal that remdesivir and chloroquine are highly effective in the control of 2019-nCoV infection in vitro.
+    head = We evaluated the antiviral efficiency ribavirin, penciclovir, nitazoxanide, nafamostat, chloroquine and antiviral drugs remdesivir and favipiravir against a clinical isolate of 2019-nCoV in vitro. Our findings reveal that remdesivir and chloroquine are highly effective in the control of 2019-nCoV infection in vitro.
 
     -- exports
       !a

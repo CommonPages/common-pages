@@ -2575,13 +2575,24 @@ feed March2020
   // Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an openlabel non-randomized clinical trial
   doi: https://doi.org/10.1016/j.ijantimicag.2020.105949
   article 'Gautret_et_al_2020
-    head = Chloroquine and hydroxychloroquine have been found to be efficient on SARS-CoV-2, and reported to be efficient in Chinese COV-19 patients. We evaluate the role of hydroxychloroquine on respiratory viral loads.
+    head = hydroxychloroquine treatment is significantly associated with viral load reduction/disappearance in COVID-19 patients and its effect is reinforced by azithromycin.
 
-    -- exports
-      !a
+    >>> Background
+      Chloroquine and hydroxychloroquine have been found to be efficient on SARS-CoV-2, and reported to be efficient in Chinese COV-19 patients. We evaluate the effect of hydroxychloroquine on respiratory viral loads.
+
+    >>> Patients and methods
+      French Confirmed COVID-19 patients were included in a single arm protocol from early March to March 16th, to receive 600mg of hydroxychloroquine daily and their viral load in nasopharyngeal swabs was tested daily in a hospital setting. Depending on their clinical presentation, azithromycin was added to the treatment. Untreated patients from another center and cases refusing the protocol were included as negative controls. Presence and absence of virus at Day6-post inclusion was considered the end point.
+
+    >>> Results
+      Six patients were asymptomatic, 22 had upper respiratory tract infection symptoms and eight had lower respiratory tract infection symptoms.
+      Twenty cases were treated in this study and showed a significant reduction of the viral carriage at D6-post inclusion compared to controls, and much lower average carrying duration than reported in the litterature for untreated patients. Azithromycin added to hydroxychloroquine was significantly more efficient for virus elimination.
+
+    >>> Conclusion
+      Despite its small sample size, our survey shows that hydroxychloroquine treatment is significantly associated with viral load reduction/disappearance in COVID-19 patients and its effect is reinforced by azithromycin.
+
 
     / March, 2020 -  International Journal of Antimicrobial
-    let !a self assert = Despite its small sample size our survey shows that hydroxychloroquine treatment is significantly associated with viral load reduction/disappearance in COVID-19 patients and its effect is reinforced by azithromycin.
+    let !a self assert =
 
 
   # Lopinavir
@@ -2618,7 +2629,7 @@ feed March2020
   // A systematic review on the efficacy and safety of chloroquine for the treatment of COVID-19
   doi: https://doi.org/10.1016/j.jcrc.2020.03.005
   article 'Cortegiani_et_al_2020
-    head = As of this time, there is no known effective pharmaceutical treatment for COVID-19, although it is much needed for patient contracting the severe form of the disease. The aim of this systematic review was to summarize the evidence regarding chloroquine for the treatment of COVID-19.
+    head = We included six articles and 23 ongoing clinical trials in China. Chloroquine seems to be effective in limiting the replication of SARS-CoV-2 in vitro.
 
     -- exports
       !a

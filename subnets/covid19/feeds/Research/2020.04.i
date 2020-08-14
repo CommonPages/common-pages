@@ -108,7 +108,22 @@ feed April2020
 
   #
 
-  
+
+
+  # Hydroxychloroquine
+  // Optimizing Hydroxychloroquine Dosing for Patients With COVID‐19: An Integrative Modeling Approach for Effective Drug Repurposing
+  doi: https://doi.org/10.1002/cpt.1856
+  ref 'Cremades_et_al_04_14_2020
+    head = We provide rationale for range of high‐dose HCQ regimens to be used for most effective treatment of patients with COVID‐19 and in the upcoming clinical trials. Low doses of HCQ (e.g., 400 mg q.d.) might not offer substantial benefit.
+
+    >>> Abstract
+      Hydroxychloroquine (HCQ) is a promising candidate for Coronavirus disease of 2019 (COVID‐19) treatment. The optimal dosing of HCQ is unknown. Our goal was to integrate historic and emerging pharmacological and toxicity data to understand safe and efficacious HCQ dosing strategies for COVID‐19 treatment. The data sources included were (i) longitudinal clinical, pharmacokinetic (PK), and virologic data from patients with severe acute respiratory syndrome‐2 (SARS‐CoV‐2) infection who received HCQ with or without azithromycin (n  = 116), (ii) in vitro viral replication data and SARS‐CoV‐2 viral load inhibition by HCQ, (iii) a population PK model of HCQ, and (iv) a model relating chloroquine PKs to corrected QT (QTc) prolongation. A mechanistic PK/virologic/QTc model for HCQ was developed and externally validated to predict SARS‐CoV‐2 rate of viral decline and QTc prolongation. SARS‐CoV‐2 viral decline was associated with HCQ PKs (P  < 0.001). The extrapolated patient half‐maximal effective concentration (EC50) was 4.7 µM, comparable to the reported in vitro EC50s. HCQ doses > 400 mg b.i.d. for ≥5 days were predicted to rapidly decrease viral loads, reduce the proportion of patients with detectable SARS‐CoV‐2 infection, and shorten treatment courses, compared with lower dose (≤ 400 mg daily) regimens. However, HCQ doses > 600 mg b.i.d. were also predicted to prolong QTc intervals. This prolongation may have clinical implications warranting further safety assessment. Due to COVID‐19's variable natural history, lower dose HCQ regimens may be indistinguishable from controls. Evaluation of higher HCQ doses is needed to ensure adequate safety and efficacy.
+
+
+    / April, 2020 - Clin. Pharmacol. Ther.
+    let !a self assert =
+
+
   # funeral, birthdays, Indoor
   // Community Transmission of SARS-CoV-2 at Two Family Gatherings — Chicago, Illinois, February–March 2020
   doi: http://dx.doi.org/10.15585/mmwr.mm6915e1
@@ -198,7 +213,7 @@ feed April2020
   // Treating COVID-19 with Chloroquine
   doi: https://doi.org/10.1093/jmcb/mjaa014
   ref 'Huang_et_al_04_01_2020
-    head = In sum, our preliminary results suggest that Chloroquine could be an effective and inexpensive option among many proposed therapies, e.g. Lopinavir/Ritonavir. In the absence of a specific cure, old drugs such as Chloroquine may be repurposed to fight this novel disease and save lives worldwide.
+    head = Chloroquine could be an effective and inexpensive option among many proposed therapies, e.g. Lopinavir/Ritonavir. In the absence of a specific cure, old drugs such as Chloroquine may be repurposed to fight this novel disease and save lives worldwide.
 
 
     / April, 2020 - J Mol Cell Biol
@@ -675,16 +690,16 @@ feed April2020
   // A SARS-CoV-2 protein interaction map reveals targets for drug repurposing
   doi: https://doi.org/10.1038/s41586-020-2286-9
   ref 'Gordon_et_al_04_30_2020
-    head = To devise therapeutic strategies to counteract SARS-CoV-2 infection and the associated COVID-19 (Coronavirus Disease 2019) pathology, it is crucial to understand how this coronavirus hijacks the host during infection, and to apply this knowledge towards developing new drugs and repurposing existing ones.
+    head = We cloned, tagged and expressed 26 of the 29 SARS-CoV-2 proteins in human cells and identified the human proteins that physically associated with each of the SARS-CoV-2 proteins. We identify 66 druggable human proteins or host factors targeted by 69 compounds
 
     >>> Abstract
       The novel coronavirus SARS-CoV-2, the causative agent of COVID-19 respiratory disease, has infected over 2.3 million people, killed over 160,000, and caused worldwide social and economic disruption1,2. There are currently no antiviral drugs with proven clinical efficacy, nor are there vaccines for its prevention, and these efforts are hampered by limited knowledge of the molecular details of SARS-CoV-2 infection. To address this, we cloned, tagged and expressed 26 of the 29 SARS-CoV-2 proteins in human cells and identified the human proteins physically associated with each using affinity-purification mass spectrometry (AP-MS), identifying 332 high-confidence SARS-CoV-2-human protein-protein interactions (PPIs). Among these, we identify 66 druggable human proteins or host factors targeted by 69 compounds (29 FDA-approved drugs, 12 drugs in clinical trials, and 28 preclinical compounds). Screening a subset of these in multiple viral assays identified two sets of pharmacological agents that displayed antiviral activity: inhibitors of mRNA translation and predicted regulators of the Sigma1 and Sigma2 receptors. Further studies of these host factor targeting agents, including their combination with drugs that directly target viral enzymes, could lead to a therapeutic regimen to treat COVID-19.
 
-    -- exports
-       !a
-       !b
-       !c
-       !d
+    # -- exports
+    #    !a
+    #    !b
+    #    !c
+    #    !d
 
     / April, 2020 - Nature
     let !a self assert =  We have identified 332 high-confidence SARS-CoV-2-human PPIs connected to multiple biological processes, including protein trafficking, translation, transcription and ubiquitination regulation. Against these targets we found 69 ligands, including FDA approved drugs, compounds in clinical trials, and preclinical compounds.
@@ -2715,7 +2730,7 @@ feed April2020
   // No evidence of clinical efficacy of hydroxychloroquine in patients hospitalized for COVID-19 infection with oxygen requirement: results of a study using routinely collected data to emulate a target trial
   doi: https://doi.org/10.1101/2020.04.10.20060699
   article 'Mahevas_et_al_2020
-    head = We report a comparative study that uses real-world data collected from routine care to assess the efficacy and safety of HCQ in a population of 181 patients hospitalised for COVID19 hypoxemic pneumonia. We found that HCQ treatment at 600 mg/day added to standard of care was not associated with a reduction of admissions to ICUs or death 7 days after hospital admission, compared to standard of care alone. The rate of ARDS did not decrease either.
+    head =  This study included 181 patients with SARS-CoV-2 pneumonia; 84 received HCQ and 97 did not. These results do not support the use of HCQ in patients hospitalised for documented SARS-CoV-2-positive hypoxic pneumonia.
 
     >>> Background
       Treatments are urgently needed to prevent respiratory failure and deaths from coronavirus disease 2019 (COVID-19). Hydroxychloroquine (HCQ) has received worldwide attention because of positive results from small studies.
@@ -2728,8 +2743,6 @@ feed April2020
 
     >>> Interpretation
        These results do not support the use of HCQ in patients hospitalised for documented SARS-CoV-2-positive hypoxic pneumonia.
-
-
 
     # / April, 2020 - medRxiv
     # let !a self assert =

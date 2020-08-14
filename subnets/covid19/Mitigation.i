@@ -76,7 +76,6 @@ subject module Mitigation
         'Fu_et_al_2017
         'gracia_et_al_2017
         'gracia_et_al_2017b
-        
     / Quarantine
     subject Quarantine
       head = Studies state that voluntary individual quarantine and voluntary active monitoring of contacts are core disease control strategies for emerging infectious diseases such as COVID-19.
@@ -93,7 +92,6 @@ subject module Mitigation
         'Sanche_et_al_2020.!f
         'Chan_et_al_2020.!r
         'Bi_et_al_04_27_2020.!k
-
     / Social Distancing
     subject SocialDistancing
       head = Research suggest that social distancing and population behavioural changes—that have a social and economic impact that is less disruptive than total lockdown—can meaningfully control COVID-19.
@@ -106,7 +104,6 @@ subject module Mitigation
         'Lavezzo_et_al_2020.!e
       -- Six-foot rule
         'Feigin_et_al_1982
-
     / School Closure
     subject SchoolClosure
       head = Based on studies, Earlier schools were closed, the lower the number of excess death in past epidemics
@@ -118,7 +115,6 @@ subject module Mitigation
         'Kawano_et_al_2015
         'Ciavarella_et_al_2016
         'Cowling_et_al_2020.!d
-
     / Contact Tracing
     subject ContactTracing
       head = Testing and Tracing is an effective strategy at the start of an outbreak when there are just a few chains of transmission of the disease. Countries that persisted with expanded and rigorous testing and tracing have fared better with lower death rates than those which did not.
@@ -129,7 +125,6 @@ subject module Mitigation
         'Jing_et_al_2020.!a
         'Sanche_et_al_2020.!f
         'Bi_et_al_04_27_2020.!i
-
     / Ventilation
     subject Ventilation
       head = Appropriate building engineering controls such as effective ventilation, possibly enhanced by particle filtration and air disinfection, avoiding air recirculation and avoiding overcrowding. Such measures can contribute to infection control goals.
@@ -146,7 +141,6 @@ subject module Mitigation
         'Allen_et_al_06_19_2020.!e
         'Allen_et_al_06_19_2020.!f
         'Allen_et_al_06_19_2020.!g
-
     / Hospital Mitigation
     subject Nosocomial
       head = Several mitigation measures are being used by hospitals to minimize the chance of exposure to healthcare workers and to protect high-risk population within the hospitals. Mitigation measures adopted, includes the promoting the use of everyday preventive actions.

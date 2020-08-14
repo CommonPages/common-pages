@@ -18,6 +18,53 @@ feed July2020
   #
 
   # Hydroxychloroquine
+  // Hydroxychloroquine-mediated inhibition of SARS-CoV-2 entry is attenuated by TMPRSS2
+  doi: https://doi.org/10.1101/2020.07.22.216150
+  ref 'Ou_et_al_07_22_2020
+    head = These studies identify functional differences between SARS-CoV-1 and -2 entry processes, and provide a mechanistic explanation for the limited in vivo utility of hydroxychloroquine as a treatment for COVID-19.
+
+    >>> Abstract
+      Hydroxychloroquine, used to treat malaria and some autoimmune disorders, potently inhibits viral infection of SARS coronavirus (SARS-CoV-1) and SARS-CoV-2 in cell-culture studies. However, human clinical trials of hydroxychloroquine failed to establish its usefulness as treatment for COVID-19. This compound is known to interfere with endosomal acidification necessary to the proteolytic activity of cathepsins. Following receptor binding and endocytosis, cathepsin L can cleave the SARS-CoV-1 and SARS-CoV-2 spike (S) proteins, thereby activating membrane fusion for cell entry. The plasma membrane-associated protease TMPRSS2 can similarly cleave these S proteins and activate viral entry at the cell surface. Here we show that the SARS-CoV-2 entry process is more dependent than that of SARS-CoV-1 on TMPRSS2 expression. This difference can be reversed when the furin-cleavage site of the SARS-CoV-2 S protein is ablated. We also show that hydroxychloroquine efficiently blocks viral entry mediated by cathepsin L, but not by TMPRSS2, and that a combination of hydroxychloroquine and a clinically-tested TMPRSS2 inhibitor prevents SARS-CoV-2 infection more potently than either drug alone. These studies identify functional differences between SARS-CoV-1 and -2 entry processes, and provide a mechanistic explanation for the limited in vivo utility of hydroxychloroquine as a treatment for COVID-19.
+
+    -- exports
+      !a
+      !b
+
+    / July, 2020 - bioRxiv
+    let !a self assert = Hydroxychloroquine is known to interfere with endosomal acidification necessary to the proteolytic activity of cathepsins.
+
+    / July, 2020 - bioRxiv
+    let !b self assert = Hydroxychloroquine efficiently blocks viral entry mediated by cathepsin L, but not by TMPRSS2, and that a combination of hydroxychloroquine and a clinically-tested TMPRSS2 inhibitor prevents SARS-CoV-2 infection more potently than either drug alone.
+
+  # Hydroxychloroquine
+  // Treatment with hydroxychloroquine, azithromycin, and combination in patients hospitalized with COVID-19
+  doi: https://doi.org/10.1016/j.ijid.2020.06.099
+  ref 'Arshad_et_al_07_01_2020
+    head = When controlling for COVID-19 risk factors, treatment with hydroxychloroquine alone and in combination with azithromycin was associated with reduction in COVID-19 associated mortality.
+
+    >>> Significance
+      The United States is in an acceleration phase of the COVID-19 pandemic. Currently there is no known effective therapy or vaccine for treatment of SARS-CoV-2, highlighting urgency around identifying effective therapies.
+    >>> Objective
+      The purpose of this study was to evaluate the role of hydroxychloroquine therapy alone and in combination with azithromycin in hospitalized patients positive for COVID-19.
+    >>> Design
+      Multi-center retrospective observational study.
+    >>> Setting
+      The Henry Ford Health System (HFHS) in Southeast Michigan: large six hospital integrated health system; the largest of hospitals is an 802-bed quaternary academic teaching hospital in urban Detroit, Michigan.
+    >>> Participants
+      Consecutive patients hospitalized with a COVID-related admission in the health system from March 10, 2020 to May 2, 2020 were included. Only the first admission was included for patients with multiple admissions. All patients evaluated were 18 years of age and older and were treated as inpatients for at least 48 h unless expired within 24 h.
+    >>> Exposure
+      Receipt of hydroxychloroquine alone, hydroxychloroquine in combination with azithromycin, azithromycin alone, or neither.
+    >>> Main outcome
+      The primary outcome was in-hospital mortality.
+    >>>  Results
+      Of 2,541 patients, with a median total hospitalization time of 6 days (IQR: 4–10 days), median age was 64 years (IQR:53–76 years), 51% male, 56% African American, with median time to follow-up of 28.5 days (IQR:3–53). Overall in-hospital mortality was 18.1% (95% CI:16.6%–19.7%); by treatment: hydroxychloroquine + azithromycin, 157/783 (20.1% [95% CI: 17.3%–23.0%]), hydroxychloroquine alone, 162/1202 (13.5% [95% CI: 11.6%–15.5%]), azithromycin alone, 33/147 (22.4% [95% CI: 16.0%–30.1%]), and neither drug, 108/409 (26.4% [95% CI: 22.2%–31.0%]). Primary cause of mortality was respiratory failure (88%); no patient had documented torsades de pointes. From Cox regression modeling, predictors of mortality were age>65 years (HR:2.6 [95% CI:1.9–3.3]), white race (HR:1.7 [95% CI:1.4–2.1]), CKD (HR:1.7 [95%CI:1.4–2.1]), reduced O2 saturation level on admission (HR:1.5 [95%CI:1.1–2.1]), and ventilator use during admission (HR: 2.2 [95%CI:1.4–3.3]). Hydroxychloroquine provided a 66% hazard ratio reduction, and hydroxychloroquine + azithromycin 71% compared to neither treatment (p < 0.001).
+    >>>  Conclusions and relevance
+      In this multi-hospital assessment, when controlling for COVID-19 risk factors, treatment with hydroxychloroquine alone and in combination with azithromycin was associated with reduction in COVID-19 associated mortality. Prospective trials are needed to examine this impact.
+
+    / July, 2020 - International Journal of Infectious Diseases
+    let !a self assert =
+
+  # Hydroxychloroquine
   // Hydroxychloroquine efficacy and safety in preventing SARS-CoV-2 infection and COVID-19 disease severity during pregnancy (COVID-Preg): a structured summary of a study protocol for a randomised placebo controlled trial
   doi: https://doi.org/10.1186/s13063-020-04557-y
   ref 'González_et_al_07_02_2020
@@ -287,7 +334,7 @@ feed July2020
   // BCG vaccination policy and preventive chloroquine usage: do they have an impact on COVID-19 pandemic?
   doi: https://doi.org/10.1038/s41419-020-2720-9
   ref 'Sharma_et_al_07_08_2020
-    head = We have presented the data, suggesting that the BCG immunization correlates with lower incidence and gravity of the COVID-19 disease across different countries, even when the BCG immunization was performed in childhood. The literature on CQ and HCQ has so far exclusively dealt in therapeutic role in  advanced stages. We have instead emphasized the possible chemoprophylactic role of CQ and HCQ: even if the evidence for it is admittedly only circumstantial.
+    head = We have presented the evidence available in the literature that has led to the suggestion of the possible effects of two factors, BCG vaccination and exposure to CQ, on the susceptibility to the COVID-19 infection.
 
     >>> Abstract
       Coronavirus disease 2019 (COVID-19) is a severe acute respiratory syndrome caused by Coronavirus 2 (SARS-CoV-2). In the light of its rapid global spreading, on 11 March 2020, the World Health Organization has declared it a pandemic. Interestingly, the global spreading of the disease is not uniform, but has so far left some countries relatively less affected. The reason(s) for this anomalous behavior are not fully understood, but distinct hypotheses have been proposed. Here we discuss the plausibility of two of them: the universal vaccination with Bacillus Calmette–Guerin (BCG) and the widespread use of the antimalarial drug chloroquine (CQ). Both have been amply discussed in the recent literature with positive and negative conclusions: we felt that a comprehensive presentation of the data available on them would be useful. The analysis of data for countries with over 1000 reported COVID-19 cases has shown that the incidence and mortality were higher in countries in which BCG vaccination is either absent or has been discontinued, as compared with the countries with universal vaccination. We have performed a similar analysis of the data available for CQ, a widely used drug in the African continent and in other countries in which malaria is endemic; we discuss it here because CQ has been used as the drug to treat COVID-19 patients. Several African countries no longer recommend it officially for the fight against malaria, due to the development of resistance to Plasmodium, but its use across the continent is still diffuse. Taken together, the data in the literature have led to the suggestion of a possible inverse correlation between BCG immunization and COVID-19 disease incidence and severity.

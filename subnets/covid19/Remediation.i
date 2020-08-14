@@ -195,46 +195,138 @@ subject module Remediation
 
           / Chloroquine and Hydroxychloroquine
           subject Chloroquine
-            head = Chloroquine / hydroxychloroquine has not been formally approved through clinical trials,and its use was withdrawn as a possible treatment for COVID-19 infection when it proved to have no benefit. These drugs, which are normally used to treat arthritis, should therefore only be used within the context of a controlled clinical trial.
+            head = Chloroquine / hydroxychloroquine has not been formally approved through clinical trials,and its use was withdrawn as a possible treatment for COVID-19 infection when it proved to have no benefit. These drugs, should therefore only be used within the context of a controlled clinical trial.
 
-            -- Chloroquine
-              'Savarino_et_al_2003
-              'Davis_et_al_2003
-              'Vincent_et_al_2005
-              'Cortegiani_et_al_2020
-              'Wang_et_al_2020
-              'Li_et_al_2020
-              'Sharma_et_al_07_08_2020
-              'Xiao_et_al_04_20_2020
-              'Huang_et_al_04_01_2020
-              'Ducharme_et_al_10_1996
-            -- Hydroxychloroquine
-              'Liu_et_al_2020b
-              'Yao_et_al_2020
-              'Mahevas_et_al_2020
-              'Geleris_et_al_05_27_2020
-              'Li_et_al_2020
-              'Clementi_et_al_03_31_2020
-              'Magagnoli_et_al_04_23_2020
-              'Tang_et_al_05_07_2020
-              'Mahévas_et_al_05_14_2020
-              'Horbt_et_al_07_15_2020
-              'Skipper_et_al_16_07_2020
-              'Cavalcanti_et_al_07_23_2020
-              'Mitja_et_al_07_26_2020
-              'Boulware_et_al_08_06_2020
-            -- Hydroxychloroquine with Azithromycin
-              'Gautret_et_al_2020
-            -- Side Effects
-              'Weniger_et_al_1979
-              'Joyce_et_al_19_12_2012
-            # Generic Drugs papers stating Hydroxychloroquine and Choloroquine can have antiviral efficacy against SARS-CoV-2
+            # Need editing
+            >>>
+              Chloroquine is an antimalarial with in vitro activity against several viruses including coronaviruses. Hydroxychloroquine, an analogue of chloroquine, is used to treat autoimmune diseases, such as systemic lupus erythematosus and rheumatoid arthritis. In general, hydroxychloroquine has fewer and less severe toxicities and fewer drug-drug interactions than chloroquine. Hydroxychloroquine may have greater in vitro inhibitory activity than chloroquine.
+
+
+            >>>
+              {'Genericpaper Several drugs} and {'Gordon_et_al_04_30_2020 compounds} has been indentified which can repurposed to fight Covid-19. Based on past studies Hydroxychloroquine and Choloroquine seemed to show efficacy against {'HcqSARS SARS} and {'HcqMERS MERS}
+
+
             --
-              'Jeon_et_al_03_28_2020
-              'Touret_et_al_04_05_2020
-            -- On-going clinical trials
-              'Barnabas_et_al_06_03_2020
-              'González_et_al_07_02_2020  
+              Hcqinvitro
+              HcqEfficacy
+              Hcqtrials
+              Hcqsideeffects
+              Hcqrecommendation
+
+            >>>
+              ## Rationale
+              These drugs are suspected to act as an inhibitor of acidification within cellular endosomes, thereby interfering with an early post-entry step of virus replication.
+              The lack of efficacy likely reflects the fact that at standard dosages, CQ and HCQ do not achieve sufficiently high inhibitory drug levels and because cytoplasmic entry of SARS-CoV-2 appears to be dependent primarily on the membrane based enzyme TMPRSS2 rather than on endosomal fusion and acidification
+            --
+              Hcqmechanism
+            --
+              HcqFrontiers
+
+            / Drugs against Covid 19
+            line 'Genericpaper
+              head = 24 repurposed
+              > 'Jeon_et_al_03_28_2020
+              > 'Touret_et_al_04_05_2020
+              > 'Li_et_al_2020
+              > 'Huang_et_al_04_01_2020
+
+            / Hydroxychloroquine against SARS
+            line 'HcqSARS
+              > 'Keyaerts_et_al_10_08_2004
+              > 'Vincent_et_al_2005
+              > 'Barnard_et_al_10_01_2006
+              > 'Barnard_et_al_10_01_2006.!a
+
+            / Hydroxychloroquine against MERS
+            line 'HcqMERS
+              > 'Dyall_et_al_07_15_2014
+              > 'Dyall_et_al_07_15_2014.!a
+              > 'Dyall_et_al_07_15_2014.!b
+              > 'Wilde_et_al_07_15_2014
+
+            / Lab In Vitro studies
+            subject Hcqinvitro
+              head = CQ and hydroxychloroquine (HCQ) have inhibitory activity in vitro. Choloroquine seems to be effective in limiting the replication of SARS-CoV-2
+              -- In Vitro studies
+                'Wang_et_al_2020
+                'Liu_et_al_2020b
+                'Yao_et_al_2020
+                'Clementi_et_al_03_31_2020
+              -- Stops Replication
+                'Cortegiani_et_al_2020
+
+            / Hydroxychloroquine Efficacy
+            subject HcqEfficacy
+              head = Observational studies and case series shows HCQ was associated with reduction in mortality
+              -- Hydroxychloroquine with Azithromycin
+                'Gautret_et_al_2020
+              -- Shows Reduction in Mortality
+                'Arshad_et_al_07_01_2020
+
+            / Hydroxychloroquine Trials
+            subject Hcqtrials
+              head = The safety and efficacy of chloroquine and hydroxychloroquine have been evaluated in randomized clinical trials. Use of hydroxychloroquine has shown no evidence of benefit in patients with COVID-19.
+
+              --
+                'Geleris_et_al_05_27_2020
+                'Magagnoli_et_al_04_23_2020
+                'Tang_et_al_05_07_2020
+                'Mahévas_et_al_05_14_2020
+                'Horbt_et_al_07_15_2020
+                'Skipper_et_al_16_07_2020
+                'Cavalcanti_et_al_07_23_2020
+                'Mitja_et_al_07_26_2020
+                'Boulware_et_al_08_06_2020
+                'Mahevas_et_al_2020
+
+              >>>
+                There are serveral on going {'Hcqongoing Randomised clinical trails}. The {'Xiao_et_al_04_20_2020 study} was discontinued early when preliminary results showed higher rates of mortality and QTc prolongation in the high-dose chloroquine group.
+
+              / On-going clinical trials
+              line 'Hcqongoing
+                > 'Lavín_et_al_06_03_2020
+                > 'Barnabas_et_al_06_03_2020
+                > 'González_et_al_07_02_2020
+
+            # dysrhythmias, prolong the QTc interval, cardiotoxicity
+            / Side Effects of Hydroxychloroquine
+            subject Hcqsideeffects
+              head = Reports have documented x y z side effects
+              -- Side Effects
+                'Weniger_et_al_1979
+                'Davis_et_al_2003
+                'Joyce_et_al_19_12_2012
+
+            / Clinical Recommendation
+            subject Hcqrecommendation
+              head = High-dose chloroquin (600 mg twice daily for 10 days) has been associated with more severe toxicities than lower-dose chloroquine (450 mg twice daily for 1 day, followed by 450 mg once daily for 4 days).
+              -- Clinical Recommendation
+                'Roldan_et_al_05_13_2020
+                'Cremades_et_al_04_14_2020
+                'Xiao_et_al_04_20_2020
+
+            / Mechanism of Hydroxychloroquine and Chloroquine
+            subject Hcqmechanism
+              head = Both chloroquine and hydroxychloroquine increase the endosomal pH, inhibiting fusion of SARS-CoV-2 and the host cell membranes. In vitro, both chloroquine and hydroxychloroquine may block the transport of SARS-CoV-2 from early endosomes to endolysosomes, which may be required for release of the viral genome.
+              --
+                'Roldan_et_al_05_13_2020.!a
+                'Roldan_et_al_05_13_2020.!b
+                'Savarino_et_al_2003
+                'Savarino_et_al_2003.!a
+                'Ducharme_et_al_10_1996
+                'Ou_et_al_07_22_2020
+                'Ou_et_al_07_22_2020.!a
+                'Ou_et_al_07_22_2020.!b
+              -- HCQ Frontiers
+                'Tett_et_al_06_27_1989
+                'Ducharme_et_al_10_31_1996
+                'Lim_et_al_03_19_2009
+
+            / Frontiers
+            subject HcqFrontiers
+              head = The possible chemoprophylactic (preventing COVID-19) role of CQ and HCQ should be considered and tested.
+              --
+                'Sharma_et_al_07_08_2020
 
           / Niclosamide
           subject Niclosamide

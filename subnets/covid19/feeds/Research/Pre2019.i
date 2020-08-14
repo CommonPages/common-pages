@@ -368,15 +368,111 @@ feed Pre2019
 
   #
 
-  # outdoor, wet market
-  // Wet markets—a continuing source of severe acute respiratory syndrome and influenza?
-  doi: https://doi.org/10.1016/S0140-6736(03)15329-9
-  ref 'Webster_et_al_01_17_2004
-    head = Wet markets—a could be a continuing source of severe acute respiratory syndrome and influenza.
+  # Hydroxychloroquine
+  // Pharmacokinetics of hydroxychloroquine and its clinical implications in chemoprophylaxis against malaria caused by Plasmodium vivax
+  doi: https://doi.org/10.1128/aac.00339-08
+  ref 'Lim_et_al_03_19_2009
+    head = We evaluated the pharmacokinetics (PK) of HCQ and its metabolites and the relationship between the PK of HCQ and the effect of treatment of HCQ on vivax malaria in South Koreans.
 
+    >>> Abstract
+      Hydroxychloroquine (HCQ) is an antimalarial drug used as chemoprophylaxis against malaria caused by Plasmodium vivax in the Republic of Korea Army (ROKA). In this study, we evaluated the pharmacokinetics (PK) of HCQ and its metabolites and the relationship between the PK of HCQ and the effect of treatment of HCQ on vivax malaria in South Koreans. Three PK studies of HCQ were conducted with 91 healthy subjects and patients with vivax malaria. Plasma concentrations were analyzed by noncompartmental and mixed-effect modeling approaches. A two-compartment model with first-order absorption best described the data. The clearance and the central and peripheral volumes of distribution were 15.5 liters/h, 733 liters, and 1,630 liters, respectively. We measured the plasma concentrations of HCQ in patients with prophylactic failure of HCQ and compared them with the prediction intervals of the simulated concentrations for HCQ from the final PK model built in this study. In 71% of the patients with prophylactic failure, the plasma concentrations of HCQ were below the lower bounds of the 95% prediction interval, while only 8% of them showed higher levels than the upper bounds of the 95% prediction interval. We report that a significant cause of prophylactic failure among the individuals in ROKA was ascribed to plasma concentrations of HCQ lower than those predicted by the PK model. However, prophylactic failure despite sufficient plasma concentrations of HCQ was confirmed in several individuals, warranting continued surveillance to monitor changes in the HCQ susceptibility of Plasmodium vivax in the Republic of Korea.
 
-    / January, 2004 - The Lancet
+    -- exports
+      !a
+
+    / March, 2009 - American Society for Microbiology Journals
     let !a self assert =
+
+  # Hydroxychloroquine
+  // Clinical pharmacokinetics and metabolism of chloroquine. Focus on recent advancements
+  doi: https://doi.org/10.2165/00003088-199631040-00003
+  ref 'Ducharme_et_al_10_31_1996
+    head = This paper presents the current state of knowledge on chloroquine disposition, with special emphasis on stereoselectivity and microsomal metabolism. In addition, the impact of the patient's physiopathological status and ethnic origin on chloroquine pharmacokinetics is discussed.
+
+    >>> Abstract
+      This paper presents the current state of knowledge on chloroquine disposition, with special emphasis on stereoselectivity and microsomal metabolism. In addition, the impact of the patient's physiopathological status and ethnic origin on chloroquine pharmacokinetics is discussed. In humans, chloroquine concentrations decline multiexponentially. The drug is extensively distributed, with a volume of distribution of 200 to 800 L/kg when calculated from plasma concentrations and 200 L/kg when estimated from whole blood data (concentrations being 5 to 10 times higher). Chloroquine is 60% bound to plasma proteins and equally cleared by the kidney and liver. Following administration chloroquine is rapidly dealkylated via cytochrome P450 enzymes (CYP) into the pharmacologically active desethylchloroquine and bisdesethylchloroquine. Desethylchloroquine and bisdesethylchloroquine concentrations reach 40 and 10% of chloroquine concentrations, respectively; both chloroquine and desethylchloroquine concentrations decline slowly, with elimination half-lives of 20 to 60 days. Both parent drug and metabolite can be detected in urine months after a single dose. In vitro and in vivo, chloroquine and desethylchloroquine competitively inhibit CYP2D1/6-mediated reactions. Limited in vitro studies and preliminary data from clinical experiments and observations point to CYP3A and CYP2D6 as the 2 major isoforms affected by or involved in chloroquine metabolism. In vitro efficacy studies did not detect any difference in potency between chloroquine enantiomers but, in vivo in rats, S(+)-chloroquine had a lower dose that elicited 50% of the maximal effect (ED950) than that of R(-)-chloroquine. Stereoselectivity in chloroquine body disposition could be responsible for this discrepancy. Chloroquine binding to plasma proteins is stereoselective, favouring S(+)-chloroquine (67% vs 35% for the R-enantiomer). Hence, unbound plasma concentrations are higher for R(-)-chloroquine. Following separate administration of the individual enantiomers, R(-)-chloroquine reached higher and more sustained blood concentrations. The shorter half-life of S(+)-chloroquine appears secondary to its faster clearance. Blood concentrations of the S(+)-forms of desethylchloroquine always exceeded those of the R(-)-forms, pointing to a preferential metabolism of S(+)-chloroquine.
+
+
+    / Oct, 1996 - Clin Pharmacokinet
+    let !a self assert =
+
+  # Hydroxychloroquine
+  // Bioavailability of hydroxychloroquine tablets in healthy volunteers
+  doi: https://dx.doi.org/10.1111%2Fj.1365-2125.1989.tb03439.x
+  ref 'Tett_et_al_06_27_1989
+    head = Five healthy volunteers received, in a randomised crossover design study, a oral tablet and an intravenous infusion of racemic hydroxychloroquine. A period of 6 months is required to achieve 96% of steady-state levels of hydroxychloroquine.
+
+    >>> Abstract
+      1. Five healthy volunteers received, in a randomised crossover design study, a 155 mg oral tablet and an intravenous infusion of 155 mg racemic hydroxychloroquine (200 mg hydroxychloroquine sulphate) to assess the bioavailability of the commercially available tablet (Plaquenil, Winthrop Laboratories, Australia).
+      2. The terminal elimination half-life of hydroxychloroquine is more than 40 days, thus blood and urine samples were collected for 5 months following each dose to characterise adequately the terminal elimination phase and obtain accurate estimates of the areas under the concentration-time curves.
+      3. The mean (+/- s.d.) fraction of the oral dose absorbed, estimated from the blood and urine data, was 0.74 (+/- 0.13). A wide range of estimates of the fraction of the oral dose absorbed was calculated from the plasma data (0.41 - 1.53), reflecting the difficulties of accurate measurement of hydroxychloroquine in plasma.
+      4. A period of 6 months is required to achieve 96% of steady-state levels of hydroxychloroquine with the usual once daily, oral dosage regimen. Pharmacokinetic factors may thus be partly responsible for the delayed action of the drug in rheumatic conditions.
+      5. Haemodialysis will not aid in the case of oral overdose with hydroxychloroquine. Although the proportionate increase in clearance may be large, the increase in the fraction of the dose excreted will be negligible. The extensive sequestration of the drug by tissues limits effectiveness of haemodialysis.
+
+    -- exports
+      !a
+
+    / June, 1989 - Br J Clin Pharmacol.
+    let !a self assert = Haemodialysis will not aid in the case of oral overdose with hydroxychloroquine. The extensive sequestration of the drug by tissues limits effectiveness of hemodialysis.
+
+  # Hydroxychloroquine
+  // Screening of an FDA-Approved Compound Library Identifies Four Small-Molecule Inhibitors of Middle East Respiratory Syndrome Coronavirus Replication in Cell Culture
+  doi: https://doi.org/10.1128/AAC.03011-14
+  ref 'Wilde_et_al_07_15_2014
+    head = We have screened a library of 348 FDA-approved drugs for anti-MERS-CoV activity in cell culture. We identified four compounds (chloroquine, chlorpromazine, loperamide, and lopinavir) inhibiting MERS-CoV replication in the low micromolar range.
+
+    >>> Abstract
+      Coronaviruses can cause respiratory and enteric disease in a wide variety of human and animal hosts. The 2003 outbreak of severe acute respiratory syndrome (SARS) first demonstrated the potentially lethal consequences of zoonotic coronavirus infections in humans. In 2012, a similar previously unknown coronavirus emerged, Middle East respiratory syndrome coronavirus (MERS-CoV), thus far causing over 650 laboratory-confirmed infections, with an unexplained steep rise in the number of cases being recorded over recent months. The human MERS fatality rate of ∼30% is alarmingly high, even though many deaths were associated with underlying medical conditions. Registered therapeutics for the treatment of coronavirus infections are not available. Moreover, the pace of drug development and registration for human use is generally incompatible with strategies to combat emerging infectious diseases. Therefore, we have screened a library of 348 FDA-approved drugs for anti-MERS-CoV activity in cell culture. If such compounds proved sufficiently potent, their efficacy might be directly assessed in MERS patients. We identified four compounds (chloroquine, chlorpromazine, loperamide, and lopinavir) inhibiting MERS-CoV replication in the low-micromolar range (50% effective concentrations [EC50s], 3 to 8 μM). Moreover, these compounds also inhibit the replication of SARS coronavirus and human coronavirus 229E. Although their protective activity (alone or in combination) remains to be assessed in animal models, our findings may offer a starting point for treatment of patients infected with zoonotic coronaviruses like MERS-CoV. Although they may not necessarily reduce viral replication to very low levels, a moderate viral load reduction may create a window during which to mount a protective immune response.
+
+    / July, 2014 - American Society of Microbiology
+    let !a self assert =
+
+  # MERS
+  // Repurposing of Clinically Developed Drugs for Treatment of Middle East Respiratory Syndrome Coronavirus Infection
+  doi: https://doi.org/10.1128/AAC.03036-14
+  ref 'Dyall_et_al_07_15_2014
+    head = A library of 290 compounds was screened for antiviral activity against MERS-CoV and SARS-CoV. In total, 27 compounds with activity against both MERS-CoV and SARS-CoV were identified.
+
+    >>> Abstract
+      Outbreaks of emerging infections present health professionals with the unique challenge of trying to select appropriate pharmacologic treatments in the clinic with little time available for drug testing and development. Typically, clinicians are left with general supportive care and often untested convalescent-phase plasma as available treatment options. Repurposing of approved pharmaceutical drugs for new indications presents an attractive alternative to clinicians, researchers, public health agencies, drug developers, and funding agencies. Given the development times and manufacturing requirements for new products, repurposing of existing drugs is likely the only solution for outbreaks due to emerging viruses. In the studies described here, a library of 290 compounds was screened for antiviral activity against Middle East respiratory syndrome coronavirus (MERS-CoV) and severe acute respiratory syndrome coronavirus (SARS-CoV). Selection of compounds for inclusion in the library was dependent on current or previous FDA approval or advanced clinical development. Some drugs that had a well-defined cellular pathway as target were included. In total, 27 compounds with activity against both MERS-CoV and SARS-CoV were identified. The compounds belong to 13 different classes of pharmaceuticals, including inhibitors of estrogen receptors used for cancer treatment and inhibitors of dopamine receptor used as antipsychotics. The drugs identified in these screens provide new targets for in vivo studies as well as incorporation into ongoing clinical studies.
+
+    -- exports
+      !a
+      !b
+
+    / July, 2014 - American Society for Microbiology Journals
+    let !a self assert = Overall, we identified several pharmaceutical classes of drugs that could be beneficial for treatment of coronaviral infections. Interestingly, chlorpromazine hydrochloride and chloroquine diphosphate were also identified.
+
+    / July, 2014 - American Society for Microbiology Journals
+    let !b self assert = These drugs appear to target host factors rather than viral proteins specifically, and treatment of viral infections in patients aimed at host factors could reconfigure overt manifestations of viral pathogenesis into a less virulent subclinical infection and lower adverse disease outcome
+
+
+  # Hydroxychloroquine
+  // In vitro inhibition of severe acute respiratory syndrome coronavirus by chloroquine
+  doi: https://dx.doi.org/10.1016%2Fj.bbrc.2004.08.085
+  ref 'Keyaerts_et_al_10_08_2004
+    head = We report on chloroquine, a 4-amino-quinoline, as an effective inhibitor of the replication of the SARS-CoV in vitro. Chloroquine, may be considered for immediate use in the prevention and treatment of SARS-CoV infections.
+
+    >>> Abstract
+      We report on chloroquine, a 4-amino-quinoline, as an effective inhibitor of the replication of the severe acute respiratory syndrome coronavirus (SARS-CoV) in vitro. Chloroquine is a clinically approved drug effective against malaria. We tested chloroquine phosphate for its antiviral potential against SARS-CoV-induced cytopathicity in Vero E6 cell culture. Results indicate that the IC50 of chloroquine for antiviral activity (8.8 ± 1.2 μM) was significantly lower than its cytostatic activity; CC50 (261.3 ± 14.5 μM), yielding a selectivity index of 30. The IC50 of chloroquine for inhibition of SARS-CoV in vitro approximates the plasma concentrations of chloroquine reached during treatment of acute malaria. Addition of chloroquine to infected cultures could be delayed for up to 5 h postinfection, without an important drop in antiviral activity. Chloroquine, an old antimalarial drug, may be considered for immediate use in the prevention and treatment of SARS-CoV infections.
+
+    / February, 2020 - bioRxiv
+    let !a self assert =
+
+  # Hydroxychloroquine - SARS
+  // Evaluation of immunomodulators, interferons and known in vitro SARS-coV inhibitors for inhibition of SARS-coV replication in BALB/c mice
+  doi: https://doi.org/10.1177/095632020601700505
+  ref 'Barnard_et_al_10_01_2006
+    head = Compounds approved for therapeutic use and in vitro inhibitors of SARS-CoV were evaluated for inhibition in the mouse SARS-CoV replication model.
+
+    >>> Abstract
+      Compounds approved for therapeutic use and in vitro inhibitors of severe acute respiratory syndrome coronavirus (SARS-CoV) were evaluated for inhibition in the mouse SARS-CoV replication model. A hybrid interferon, interferon alpha (IFN-α) B/D, and a mismatched double-stranded (ds) RNA interferon (IFN) inducer, Ampligen® (poly I:poly C124), were the only compounds that potently inhibited virus titres in the lungs of infected mice as assessed by CPE titration assays. When mice were dosed intraperitoneally (i.p.) with IFN-α B/D once daily for 3 days beginning 4 h after virus exposure, SARS-CoV replication in the lungs of infected mice was reduced by 1 log10 at 10,000 and 32,000 IU; at the highest dose of 100,000 IU, virus lung titres were below detectable limits. Ampligen® used i.p. at 10 mg/kg 4 h prior to virus exposure also reduced virus lung titres to below detectable limits. Nelfinavir, β-D-N4-hydroxycytidine, calpain inhibitor VI, 3-deazaneplanocin A and Alferon® (human leukocyte IFN-α-n3) did not significantly reduce lung virus titres in mice. Anti-inflammatory agents, chloroquine, amodiaquin and pentoxifylline, were also inactive in vivo, suggesting that although they may be useful in ameliorating the hyperinflammatory response induced by the virus infection, they will not significantly reduce the replication of the virus, the inducer of inflammatory response. Thus, anti-inflammatory agents may only be useful in treating virus lung infections if used in combination with agents that inhibit virus replication. In summary, the data suggest that induction of IFN by mismatched dsRNA or actual treatment with exogenous IFN-α can inhibit SARS-CoV replication in the lungs of mice.
+
+    -- exports
+      !a
+
+    / October, 2006 - Antiviral Chemistry and Chemotherapy
+    let !a self assert = Anti-inflammatory agents chloroquine were inactive in vivo, suggesting that although they may be useful in ameliorating the hyperinflammatory response induced by the virus infection, they will not significantly reduce the replication of the virus, the inducer of inflammatory response.
 
   // Clinical Pharmacokinetics and Metabolism of Chloroquine
   doi: https://doi.org/10.2165/00003088-199631040-00003
@@ -4752,7 +4848,7 @@ feed Pre2019
   // Effects of chloroquine on viral infections: an old drug against today's diseases
   doi: https://doi.org/10.1016/S1473-3099(03)00806-5
   article 'Savarino_et_al_2003
-    head = We review the available information on the effects of chloroquine on viral infections, raising the question of whether this old drug may experience a revival in the clinical management of viral diseases such as AIDS and severe acute respiratory syndrome, which afflict mankind in the era of globalisation.
+    head = Chloroquine has interesting biochemical properties that might be applied against some viral infections. Chloroquine exerts direct antiviral effects, inhibiting pH-dependent steps of the replication of several viruses including coronaviruses.
 
     >>> Abstract
       Chloroquine is a 9-aminoquinoline known since 1934. Apart from its well-known antimalarial effects, the drug has interesting biochemical properties that might be applied against some viral infections. Chloroquine exerts direct antiviral effects, inhibiting pH-dependent steps of the replication of several viruses including members of the flaviviruses, retroviruses, and coronaviruses. Its best-studied effects are those against HIV replication, which are being tested in clinical trials. Moreover, chloroquine has immunomodulatory effects, suppressing the production/release of tumour necrosis factor α and interleukin 6, which mediate the inflammatory complications of several viral diseases. We review the available information on the effects of chloroquine on viral infections, raising the question of whether this old drug may experience a revival in the clinical management of viral diseases such as AIDS and severe acute respiratory syndrome, which afflict mankind in the era of globalisation.
@@ -4761,7 +4857,7 @@ feed Pre2019
       !a
 
     / November, 2003 -  The Lancet, Infectious Diseases
-    let !a self assert = Cloroquine has an exceptionally broad spectrum of antimicrobial activity that could be exploited in many infections. Results obtained in the prophylaxis of Q fever indicate that chloroquine/hydroxychloroquine can be successfully used in the clinical management of infections other than malaria. As regards viral diseases, what is clear is that the drug has antiviral and immunomodulatory effects that warrant particular consideration.
+    let !a self assert = Chloroquine has immunomodulatory effects, suppressing the production/release of tumour necrosis factor α and interleukin 6, which mediate the inflammatory complications of several viral diseases.
 
   # Remdesivir
   // Broad-spectrum antiviral GS-5734 inhibits both epidemic and zoonotic coronaviruses
