@@ -28,3 +28,12 @@ subject module PublicPolicy
     'Adam_et_al_2020.!j
   -- Mitigation
     'Zhang_et_al_06_11_2020.!r
+  -- School reopening
+    'Levinson_et_al_07_29_2020
+  -- Slums
+    'Corburn_et_al_04_24_2020
+    'Riley_et_al_03_07_2007
+    'Mahabir_et_al_09_22_2016
+  -- Indoor air/ Building and Environment
+    'Nwanaji-Enwerem_et_al_07_08_2020
+    'Dietz_et_al_05_05_2020

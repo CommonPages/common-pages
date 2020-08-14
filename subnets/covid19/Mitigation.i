@@ -27,6 +27,9 @@ subject module Mitigation
         'Strasser_et_al_05_22_2020
         'Chu_et_al_06_01_2020
         'Stutt_et_al_06_10_2020
+        'Setti_et_al_04_23_2020
+      -- use of face mask lead to no secondary transmission
+        'Hendrix_et_al_07_14_2020
       -- Efficiency of Mask
         'Konda_et_al_06_18_2020
       -- Virus Inactivation in Face Mask
@@ -101,9 +104,10 @@ subject module Mitigation
         'Cowling_et_al_2020.!b
         'Cowling_et_al_2020.!c
         'Mossong_et_al_2008.!b
-        'Lavezzo_et_al_2020.!e
+        'Lavezzo_et_al_04_18_2020.!e
       -- Six-foot rule
         'Feigin_et_al_1982
+        'Setti_et_al_04_23_2020
     / School Closure
     subject SchoolClosure
       head = Based on studies, Earlier schools were closed, the lower the number of excess death in past epidemics
@@ -115,13 +119,14 @@ subject module Mitigation
         'Kawano_et_al_2015
         'Ciavarella_et_al_2016
         'Cowling_et_al_2020.!d
+        'Levinson_et_al_07_29_2020
     / Contact Tracing
     subject ContactTracing
       head = Testing and Tracing is an effective strategy at the start of an outbreak when there are just a few chains of transmission of the disease. Countries that persisted with expanded and rigorous testing and tracing have fared better with lower death rates than those which did not.
       --
         'Ferretti_et_al_2020
         'J_et_al_2020.!f
-        'Lavezzo_et_al_2020.!f
+        'Lavezzo_et_al_04_18_2020.!f
         'Jing_et_al_2020.!a
         'Sanche_et_al_2020.!f
         'Bi_et_al_04_27_2020.!i
@@ -141,6 +146,11 @@ subject module Mitigation
         'Allen_et_al_06_19_2020.!e
         'Allen_et_al_06_19_2020.!f
         'Allen_et_al_06_19_2020.!g
+        'Liu_et_al_03_10_2020
+      -- Building and Environment
+        'Nwanaji-Enwerem_et_al_07_08_2020
+        'Dietz_et_al_05_05_2020
+        'Amoatey_et_al_05_12_2020
     / Hospital Mitigation
     subject Nosocomial
       head = Several mitigation measures are being used by hospitals to minimize the chance of exposure to healthcare workers and to protect high-risk population within the hospitals. Mitigation measures adopted, includes the promoting the use of everyday preventive actions.
@@ -226,7 +236,7 @@ subject module Mitigation
     -- Europe
       'Flaxman_et_al_06_08_2020
     -- Italy
-      'Lavezzo_et_al_2020.!a
+      'Lavezzo_et_al_04_18_2020.!a
     -- France
       'Salje_et_al_04_20_2020
     -- UK

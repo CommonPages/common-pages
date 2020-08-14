@@ -148,11 +148,19 @@ subject module Virus
       HumanAnimalTransmission
       # independent
 
+
     / Routes
     subject module Routes
       head = Human to Human contact and Indirect contact via contaminated surfaces is cause of infection. Faecal-oral and Aerosol routes are also suspected to transmit the virus.
       >>>
         Human to Human contact and Indirect contact via contaminated surfaces is cause of infection. Faecal-oral and Aerosol routes are also suspected to transmit the virus. {ViralShedding Shedding} of SARS Cov-2 can happen in multiple modes, and all these can be potential route of transmission of the virus.
+
+      --
+        SurfaceTransmission
+        AerosolTransmission
+        FaecalTransmission
+        AnimaltohumanTransmission
+
       / Surface Transmission
       subject SurfaceTransmission
         head =  SARS CoV-2 can be transmitted to a human when s/he touches his/her face after touching a {ContaminatedSurface contaminated surface}.
@@ -175,6 +183,8 @@ subject module Virus
           'Dowell_et_al_09_01_2004.!b
           'Santarpia_et_al_2020
           'Ong_et_al_2020
+          'Santarpia_et_al_07_29_2020
+          'Liu_et_al_03_10_2020.!b
         # Counter for viability / Stability
         >>>
           Whereas there are arguments which call such studies exaggerated  as these were in lab-based conditions and far from real-life conditions.
@@ -199,6 +209,13 @@ subject module Virus
           'Asadi_et_al_2019
           'Stadnytskyi_et_al_06_02_2020
           'Vuorinen_et_al_05_31_2020
+          'Santarpia_et_al_07_29_2020
+          'Liu_et_al_03_10_2020
+        -- Mechanism/ Common pathogen exchange pathways and mechanisms
+          'Wang_et_al_04_05_2011
+          'Morawska_et_al_06_09_2006
+          'Dietz_et_al_05_05_2020
+          'Setti_et_al_04_23_2020
         --
           AerosolToilet
         # Close Enviornment
@@ -218,6 +235,7 @@ subject module Virus
             'Best_et_al_12_05_2011
             'Barker_et_al_06_16_2005
             'Johnson_et_al_10_08_2012
+            'Liu_et_al_03_10_2020.!c
       / Fecal Transmission
       subject FaecalTransmission
         head = Viral RNA has been found in stool samples of infected individuals. However, these being infectious is yet to be established conclusively.
@@ -265,6 +283,7 @@ subject module Virus
       / Settings
       subject module Settings
         head = Based on studies COVID-19 has more severe impact on indoor settings over outdoor settings.
+        
         / Nosocomial Transmission
         subject HospitalTransmission
           head = SARS-CoV-2 viral RNA in air has been detected in several studies in hospitals, including at distances greater than 2 m from patients and in outdoor air in crowded areas near a hospital
@@ -273,7 +292,9 @@ subject module Virus
             'Liu_et_al_2020bb
             'Pan_et_al_2020.!c
             'Houlihan_et_al_07_09_2020
-        / Indoor Tranmission
+            'Santarpia_et_al_07_29_2020
+            'Liu_et_al_03_10_2020
+        / Indoor Tranmission/ Indoor Settings
         subject IndoorTransmission
           head = Based on studies close contact in the family is the main transmission route of infection.
           -- Household Transmission
@@ -282,6 +303,13 @@ subject module Virus
             'Peng-Li_et_al_2020
             'Liu_et_al_2020g
             'Wang_et_al_04_10_2020
+            'Xu_et_al_03_30_2020
+            'Huang_et_al_02_28_2020
+            'Liu_et_al_03_12_2020
+            'Qian_et_al_03_23_2020
+            'Yu_et_al_02_18_2020
+            'Zhang_et_al_03_27_2020
+            'Qiu_et_al_03_05_2020
           # Unedited - Indoor
           -- Indoor Tranmission
             'Chan_et_al_2020
@@ -298,9 +326,44 @@ subject module Virus
             'Pung_et_al_2020
             'Wu_et_al_2020e
             'Ghinai_et_al_04_17_2020
-          -- Restaurant
+            'Pung_et_al_03_28_2020
+            'Yamagishi_et_al_06_11_2020
+            'Nishiura_et_al_03_03_2020
+            'Nwanaji-Enwerem_et_al_07_08_2020
+          -- Restaurant/ Nightclubs
             'Lu_et_al_04_02_2020
-        / Outdoor Transmission
+            'Kang_et_al_07_07_2020
+          -- Gyms
+            'Jang_et_al_05_15_2020
+            'Andrade_et_al_05_07_2018
+          -- Transmission reports
+            'Lewis_et_al_06_24_2020
+            'Furuse_et_al_06_10_2020
+            'Tobolowsky_et_al_05_01_2020
+            'Ju-Kim_et_al_04_08_2020
+            'Qian_et_al_03_17_2020
+            'Yang_et_al_03_08_2020
+            'Leclerc_et_al_06_05_2020
+          -- Public transport
+            'Zhao_et_al_01_30_2020
+            'Zheng_et_al_03_14_2020
+          -- School transmission
+            'Stein-Zamir_et_al_07_21_2020
+            'Heavey_et_al_05_25_2020
+            'Yung_et_al_06_25_2020
+            'Levinson_et_al_07_29_2020.!a
+          -- Hair salon
+            'Hendrix_et_al_07_14_2020
+          -- Longterm Care facilities
+            'Hoxha_et_al_07_03_2020
+          -- Municipality
+            'Lavezzo_et_al_04_18_2020
+          -- Religious Gatherings
+            'Thuan-Hoang_et_al_08_28_2018
+          -- Customs, traditions and social environmental factors
+            'Amoatey_et_al_05_12_2020
+
+        / Outdoor Transmission/ Outdoor Settings
         subject OutdoorTransmission
           head = Based on data collected so far, Outdoor Tranmission is possible but seems to be rare.
           --
@@ -313,6 +376,27 @@ subject module Virus
             'Moser_et_al_1979
             'Olsen_et_al_2003
             'Colizza_et_al_2006
+            'Olsen_et_al_12_18_2003
+            'Kenyon_et_al_04_11_1996
+            'Hickman_et_al_03_22_1995
+
+        / Wet Markets and Meat processing plants
+        subject WetMarkets
+          head = Wet markets could be the possible route of transmission.
+          --
+            'Webster_et_al_01_17_2004
+          -- Poultry
+            'Dhingra_et_al_06_05_2018
+
+
+        / Slums
+        subject Slums
+          head = Little is known about the spectrum and burden of disease morbidity in urban slums of the world. With 1 billion people currently estimated to live in such communities, this neglected population has become a major reservoir for a wide spectrum of health conditions.
+          --
+            'Corburn_et_al_04_24_2020
+            'Riley_et_al_03_07_2007
+            'Mahabir_et_al_09_22_2016
+
 
     / Asymtomatic Tranmission
     subject AsymptomaticTransmission
@@ -323,10 +407,14 @@ subject module Virus
         By speech, touching your face, contact
       --
         'Nishiura_et_al_2020
-        'Lavezzo_et_al_2020
         'Russell_et_al_2020.!a
         'Dong_et_al_2020b
         'He_et_al_2020.!a
+      -- Reports
+        'Qian_et_al_03_23_2020
+        'Zhang_et_al_03_27_2020
+        'Hoxha_et_al_07_03_2020
+        'Lavezzo_et_al_04_18_2020
 
     / Superspreader
     subject Superspreaders

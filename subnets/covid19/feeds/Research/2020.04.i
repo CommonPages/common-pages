@@ -65,7 +65,7 @@ feed April2020
     'Sanche_et_al_2020
     'Gudbjartsson_et_al_2020
     'Jing_et_al_2020
-    'Lavezzo_et_al_2020
+    'Lavezzo_et_al_04_18_2020
     'Sutton_et_al_2020
     'Lighter_et_al_2020
     'Simonnet_et_al_2020
@@ -1838,7 +1838,7 @@ feed April2020
   // Aerodynamic analysis of SARS-CoV-2 in two Wuhan hospitals
   doi: https://doi.org/10.1038/s41586-020-2271-3
   article 'Liu_et_al_2020bb
-    head = We found that some medical staff areas initially had high concentrations of viral RNA with aerosol size distributions showing peaks in submicrometre and/or supermicrometre regions, but these levels were reduced to undetectable levels after implementation of rigorous sanitization procedures.
+    head = Although we have not established the infectivity of the virus detected in these hospital areas, we propose that SARS-CoV-2 may have the potential to be transmitted through aerosols. Room ventilation, open space, sanitization of protective apparel, and proper use and disinfection of toilet areas can effectively limit the concentration of SARS-CoV-2 RNA in aerosols.
 
     >>> Abstract
       The ongoing COVID-19 outbreak has spread rapidly on a global scale. While the transmission of SARS-CoV-2 via human respiratory droplets and direct contact is clear, the potential for aerosol transmission is poorly understood1–3. This study investigated the aerodynamic nature of SARS-CoV-2 by measuring viral RNA in aerosols in different areas of two Wuhan hospitals during the COVID-19 outbreak in February and March 2020. The concentration of SARS-CoV-2 RNA in aerosols detected in isolation wards and ventilated patient rooms was very low, but it was elevated in the patients’ toilet areas. Levels of airborne SARS-CoV-2 RNA in the majority of public areas was undetectable except in two areas prone to crowding, possibly due to infected carriers in the crowd. We found that some medical staff areas initially had high concentrations of viral RNA with aerosol size distributions showing peaks in submicrometre and/or supermicrometre regions, but these levels were reduced to undetectable levels after implementation of rigorous sanitization procedures. Although we have not established the infectivity of the virus detected in these hospital areas, we propose that SARS-CoV-2 may have the potential to be transmitted via aerosols. Our results indicate that room ventilation, open space, sanitization of protective apparel, and proper use and disinfection of toilet areas can effectively limit the concentration of SARS-CoV-2 RNA in aerosols. Future work should explore the infectivity of aerosolized virus.
@@ -2323,8 +2323,8 @@ feed April2020
   # epidemic or pandemic?, asymptomatic, contact tracing and lockdown, non pharmaceutical interventions, kids
   // Suppression of COVID-19 outbreak in the municipality of Vo, Italy
   doi: https://doi.org/10.1101/2020.04.17.20053157
-  article 'Lavezzo_et_al_2020
-    head = This study sheds new light on the frequency of asymptomatic SARS-CoV-2 infection and their infectivity (as measured by the viral load) and provides new insights into its transmission dynamics, the duration of viral load detectability and the efficacy of the implemented control measures.
+  article 'Lavezzo_et_al_04_18_2020
+    head = 42.5% of all confirmed SARS-CoV-2 infections across the two surveys were asymptomatic. Our study sheds light on frequency of asymptomatic SARS-CoV-2 infection and their infectivity and provides new insights into its transmission dynamics, the duration of viral load detectability and the efficacy of the implemented control measures.
 
     >>> Abstract
       On the 21st of February 2020 a resident of the municipality of Vo, a small town near Padua, died of pneumonia due to SARS-CoV-2 infection. This was the first COVID-19 death detected in Italy since the emergence of SARS-CoV-2 in the Chinese city of Wuhan, Hubei province. In response, the regional authorities imposed the lockdown of the whole municipality for 14 days. We collected information on the demography, clinical presentation, hospitalization, contact network and presence of SARS-CoV-2 infection in nasopharyngeal swabs for 85.9% and 71.5% of the population of Vo at two consecutive time points. On the first survey, which was conducted around the time the town lockdown started, we found a prevalence of infection of 2.6% (95% confidence interval (CI) 2.1-3.3%). On the second survey, which was conducted at the end of the lockdown, we found a prevalence of 1.2% (95% CI 0.8-1.8%). Notably, 43.2% (95% CI 32.2-54.7%) of the confirmed SARS-CoV-2 infections detected across the two surveys were asymptomatic. The mean serial interval was 6.9 days (95% CI 2.6-13.4). We found no statistically significant difference in the viral load (as measured by genome equivalents inferred from cycle threshold data) of symptomatic versus asymptomatic infections (p-values 0.6 and 0.2 for E and RdRp genes, respectively, Exact Wilcoxon-Mann-Whitney test). Contact tracing of the newly infected cases and transmission chain reconstruction revealed that most new infections in the second survey were infected in the community before the lockdown or from asymptomatic infections living in the same household. This study sheds new light on the frequency of asymptomatic SARS-CoV-2 infection and their infectivity (as measured by the viral load) and provides new insights into its transmission dynamics, the duration of viral load detectability and the efficacy of the implemented control measures.

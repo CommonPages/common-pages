@@ -20,9 +20,9 @@ subject module Disease
     --
       'Du_et_al_2020
       'Zou_et_al_2020
-      'Lavezzo_et_al_2020
-      'Lavezzo_et_al_2020.!b
-      'Lavezzo_et_al_2020.!c
+      'Lavezzo_et_al_04_18_2020
+      'Lavezzo_et_al_04_18_2020.!b
+      'Lavezzo_et_al_04_18_2020.!c
       'Mizumoto_et_al_2020
       'Nishiura_et_al_2020
       'Graham_et_al_05_16_2020.!b
