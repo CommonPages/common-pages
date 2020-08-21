@@ -47,7 +47,7 @@ feed January2020
   // A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster
   doi: https://doi.org/10.1016/S0140-6736(20)30154-9
   article 'Chan_et_al_2020
-    head = We report the findings of five patients in a family cluster who presented with unexplained pneumonia after a visit to Wuhan. Phylogenetic analysis of genetic sequences from these patients were done. Our findings are consistent with person-to-person transmission of this novel coronavirus in hospital and family settings, and the reports of infected travellers in other geographical regions.
+    head = We report the findings of five patients in a family cluster who presented with unexplained pneumonia after a visit to Wuhan, and an additional family member who did not travel to Wuhan. Person-to-person transmission and intercity spread of 2019-nCoV by air travel are possible, supporting reports of infected Chinese travellers from Wuhan being detected in other geographical regions.
 
     >>> Background
       An ongoing outbreak of pneumonia associated with a novel coronavirus was reported in Wuhan city, Hubei province, China. Affected patients were geographically linked with a local wet market as a potential source. No data on person-to-person or nosocomial transmission have been published to date.
@@ -73,68 +73,40 @@ feed January2020
       !i
       !j
       !k
-      !l
-      !m
-      !n
-      !o
-      !p
-      !q
-      !r
 
 
    / January, 2020 - The Lancet
-    let !a self assert =  Of six family members who travelled to Wuhan, five were identified as infected with the novel coronavirus. Additionally, one family member, who did not travel to Wuhan, became infected with the virus after several days of contact with four of the family members. None of the family members had contacts with Wuhan markets or animals, although two had visited a Wuhan hospital.
+    let !a self assert = Of six family members who travelled to Wuhan, five were identified as infected with the novel coronavirus. Additionally, one family member, who did not travel to Wuhan, became infected with the virus after several days of contact with four of the family members. None of the family members had contacts with Wuhan markets or animals, although two had visited a Wuhan hospital.
 
     / January, 2020 - The Lancet
-    let !b self assert = We report here a familial cluster of unexplained pneumonia due to 2019-nCoV. Six of seven family members had radiological changes of viral pneumonia, among whom five (patients 1, 2, 4, 5, and 7) tested positive for 2019-nCoV by RT-PCR. Five patients (patients 1, 2, 3, 4, and 7) had associated symptoms at the time of presentation.
+    let !b self assert = Complete genome sequences of the two strains from patients 2 and 5 showed almost complete nucleotide identity with each other, and were closest to the bat SARS-related coronaviruses reported in 2018.
 
     / January, 2020 - The Lancet
-    let !c self assert = Complete genome sequences of the two strains from patients 2 and 5 showed almost complete nucleotide identity with each other, and were closest to the bat SARS-related coronaviruses reported in 2018.
+    let !c self assert = Five family members (aged 36–66 years) presented with fever, upper or lower respiratory tract symptoms, or diarrhoea, or a combination of these 3–6 days after exposure. They presented to our hospital (The University of Hong Kong-Shenzhen Hospital, Shenzhen) 6–10 days after symptom onset. They and one asymptomatic child (aged 10 years) had radiological ground-glass lung opacities
 
     / January, 2020 - The Lancet
-    let !d self assert = Five family members (aged 36–66 years) presented with fever, upper or lower respiratory tract symptoms, or diarrhoea, or a combination of these 3–6 days after exposure. They presented to our hospital (The University of Hong Kong-Shenzhen Hospital, Shenzhen) 6–10 days after symptom onset. They and one asymptomatic child (aged 10 years) had radiological ground-glass lung opacities
+    let !d self assert = Older patients (aged >60 years) with comorbidities had more systemic symptoms, extensive radiological ground-glass lung changes, lymphopenia, thrombocytopenia, and increased C-reactive protein and lactate dehydrogenase levels. The multifocal ground-glass changes on lung CT scan were typical of viral pneumonia. Their lung involvement was also more diffuse and extensive than those of the younger patients, whose blood test results were largely normal.
 
     / January, 2020 - The Lancet
-    let !e self assert = Older patients (aged >60 years) with comorbidities had more systemic symptoms, extensive radiological ground-glass lung changes, lymphopenia, thrombocytopenia, and increased C-reactive protein and lactate dehydrogenase levels. The multifocal ground-glass changes on lung CT scan were typical of viral pneumonia. Their lung involvement was also more diffuse and extensive than those of the younger patients, whose blood test results were largely normal.
+    let !e self assert = Many of the epidemiological, clinical, laboratory, and radiological features of this novel coronavirus pneumonia were similar to those of SARS patients in 2003. The incubation period of the Wuhan pneumonia appeared similar to that of SARS. The attack rate is rather high, up to 83% if we included the five patients (patients 1, 2, 3, 4, and 5) with unexplained ground-glass radiological changes of the lungs on CT scan as the case definition in this family outbreak after visiting Wuhan.
 
     / January, 2020 - The Lancet
-    let !f self assert = The nasopharyngeal or throat swabs of these six patients were negative for known respiratory microbes by point-of-care multiplex RT-PCR, but five patients (four adults and the child) were RT-PCR positive for genes encoding the internal RNA-dependent RNA polymerase and surface Spike protein of this novel coronavirus, which were confirmed by Sanger sequencing.
+    let !f self assert = A rather unexpected finding from the lung CT scan of patient 5, which was done on the insistence by the nervous parents, also showed ground-glass pneumonic changes. Patient 5 was later confirmed virologically to have an asymptomatic infection.
 
     / January, 2020 - The Lancet
-    let !g self assert =  These findings suggested that person-to-person transmission and intercity spread of 2019-nCoV by air travel are possible, supporting reports of infected Chinese travellers from Wuhan being detected in other geographical regions.
+    let !g self assert = Sputum samples were available for testing from patients 5 and 7. The cycle threshold values of the sputum samples were 8–13 cycles earlier than those of throat swabs, indicating higher viral loads detected in the lower respiratory tract. This finding is consistent with the observations in patients with MERS who had higher viral loads in lower respiratory tract samples than in upper respiratory tract samples.
 
     / January, 2020 - The Lancet
-    let !h self assert = Many of the epidemiological, clinical, laboratory, and radiological features of this novel coronavirus pneumonia were similar to those of SARS patients in 2003. The incubation period of the Wuhan pneumonia appeared similar to that of SARS. The attack rate is rather high, up to 83% if we included the five patients (patients 1, 2, 3, 4, and 5) with unexplained ground-glass radiological changes of the lungs on CT scan as the case definition in this family outbreak after visiting Wuhan.
+    let !h self assert = Unlike our patients in the 2003 SARS outbreak, we found no evidence of viral shedding in urine and faeces in these six patients.
 
     / January, 2020 - The Lancet
-    let !i self assert = A rather unexpected finding from the lung CT scan of patient 5, which was done on the insistence by the nervous parents, also showed ground-glass pneumonic changes. Patient 5 was later confirmed virologically to have an asymptomatic infection.
+    let !i self assert = Phylogenetic analysis of these five patients' RT-PCR amplicons and two full genomes by next-generation sequencing showed that this is a novel coronavirus, which is closest to the bat severe acute respiatory syndrome (SARS)-related coronaviruses found in Chinese horseshoe bats.
 
     / January, 2020 - The Lancet
-    let !j self assert = Patient 4, who had a history of chronic sinusitis, might have a bacterial superinfection because he had a productive cough instead of a dry cough. He also had a high white blood cell count, although the bacterial test was negative.
+    let !j self assert = The full virus genome had about an 89% nucleotide identity with bat-SL-CoVZC45, which makes it a new species. Moreover, the Spike protein of our virus has an 84% nucleotide identity with the bat-SL-CoVZC45 coronavirus and an 78% nucleotide identity with the human SARS coronavirus. Although substantial genetic differences exist between this and other betacoronaviruses, cross reactions in RT-PCR or antibody assays for SARS or other betacoronaviruses are possible if the primers and antigenic epitopes are not carefully chosen, as previously reported.
 
     / January, 2020 - The Lancet
-    let !k self assert = Interestingly, the two younger adults (patients 3 and 4) initially had diarrhoea, which was also reported in 10·6% (15 of 142) of our SARS patients at presentation;18 however, the subsequent faecal samples of patients 3 and 4 that were collected 9–10 days after symptom onset were negative for the virus after the diarrhoea had long subsided.
-
-    / January, 2020 - The Lancet
-    let !l self assert = On microbiological testing, we did not find any evidence of other known respiratory viral or bacterial infections, but specific RT-PCR assays for two widely separated genome targets—the highly conserved RdRp and the highly variable S genes—were positive for this novel 2019-nCoV. Two complete genome sequences of this novel coronavirus were recovered from the nasopharyngeal swab of patient 2 and the sputum sample of patient 5 with an earlier cycle threshold value indicating a higher viral load.
-
-    / January, 2020 - The Lancet
-    let !m self assert = Patient 2 had more underlying comorbidities and clinical features and radiological findings of more severe disease than the other patients included here. Moreover, the serum sample of patient 2 was also positive for 2019-nCoV, which might indicate some virus spillover from the more severely infected lung into the systemic circulation, as previously reported in patients with SARS
-
-    / January, 2020 - The Lancet
-    let !n self assert = Sputum samples were available for testing from patients 5 and 7. The cycle threshold values of the sputum samples were 8–13 cycles earlier than those of throat swabs, indicating higher viral loads detected in the lower respiratory tract. This finding is consistent with the observations in patients with MERS who had higher viral loads in lower respiratory tract samples than in upper respiratory tract samples.
-
-    / January, 2020 - The Lancet
-    let !o self assert = Unlike our patients in the 2003 SARS outbreak, we found no evidence of viral shedding in urine and faeces in these six patients. However, improved systematic serial collection and testing of an increased number of such samples is warranted.
-
-    / January, 2020 - The Lancet
-    let !p self assert = Phylogenetic analysis of these five patients' RT-PCR amplicons and two full genomes by next-generation sequencing showed that this is a novel coronavirus, which is closest to the bat severe acute respiatory syndrome (SARS)-related coronaviruses found in Chinese horseshoe bats.
-
-    / January, 2020 - The Lancet
-    let !q self assert = The full virus genome had about an 89% nucleotide identity with bat-SL-CoVZC45, which makes it a new species. Moreover, the Spike protein of our virus has an 84% nucleotide identity with the bat-SL-CoVZC45 coronavirus and an 78% nucleotide identity with the human SARS coronavirus. Although substantial genetic differences exist between this and other betacoronaviruses, cross reactions in RT-PCR or antibody assays for SARS or other betacoronaviruses are possible if the primers and antigenic epitopes are not carefully chosen, as previously reported.
-
-    / January, 2020 - The Lancet
-    let !r self assert = As shown in this study, it is still crucial to isolate patients and trace and quarantine contacts as early as possible because asymptomatic infection appears possible (as shown in one of our patients), educate the public on both food and personal hygiene, and alert health-care workers on compliance to infection control to prevent super-spreading events. Unlike the 2003 SARS outbreak, the improved surveillance network and laboratory capability of China was able to recognise this outbreak within a few weeks and announced the virus genome sequences that would allow the development of rapid diagnostic tests and efficient epidemiological control.
+    let !k self assert = As shown in this study, it is still crucial to isolate patients and trace and quarantine contacts as early as possible because asymptomatic infection appears possible (as shown in one of our patients), educate the public on both food and personal hygiene, and alert health-care workers on compliance to infection control to prevent super-spreading events.
 
 
   # UV light

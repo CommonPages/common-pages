@@ -4,6 +4,7 @@ subject module PublicPolicy
   -- SocialBehavior
     'Bavel_et_al_2020
     'Reyna_et_al_06_02_2020
+    'Rosés_et_al_04_21_2020
   -- Mental Health
     'Kantor_et_al_05_28_2020
   -- Community level antibody testing
@@ -37,3 +38,11 @@ subject module PublicPolicy
   -- Indoor air/ Building and Environment
     'Nwanaji-Enwerem_et_al_07_08_2020
     'Dietz_et_al_05_05_2020
+  -- Low and Middle Income Countries
+    'Hopman_et_al_05_16_2020
+  -- Public space
+    'Rosés_et_al_04_21_2020
+  -- Homeless Population
+    'Tsai_et_al_03_11_2020
+  -- Police force
+    'Kokane_et_al_06_16_2020

@@ -1834,11 +1834,12 @@ feed April2020
 
 
   # DEDUPE(Liu_et_al_2020bb)
-  # Aerosol, Nosocomial
+  # Aerosol, Nosocomial, airborne, toilet
   // Aerodynamic analysis of SARS-CoV-2 in two Wuhan hospitals
   doi: https://doi.org/10.1038/s41586-020-2271-3
   article 'Liu_et_al_2020bb
     head = Although we have not established the infectivity of the virus detected in these hospital areas, we propose that SARS-CoV-2 may have the potential to be transmitted through aerosols. Room ventilation, open space, sanitization of protective apparel, and proper use and disinfection of toilet areas can effectively limit the concentration of SARS-CoV-2 RNA in aerosols.
+
 
     >>> Abstract
       The ongoing COVID-19 outbreak has spread rapidly on a global scale. While the transmission of SARS-CoV-2 via human respiratory droplets and direct contact is clear, the potential for aerosol transmission is poorly understood1–3. This study investigated the aerodynamic nature of SARS-CoV-2 by measuring viral RNA in aerosols in different areas of two Wuhan hospitals during the COVID-19 outbreak in February and March 2020. The concentration of SARS-CoV-2 RNA in aerosols detected in isolation wards and ventilated patient rooms was very low, but it was elevated in the patients’ toilet areas. Levels of airborne SARS-CoV-2 RNA in the majority of public areas was undetectable except in two areas prone to crowding, possibly due to infected carriers in the crowd. We found that some medical staff areas initially had high concentrations of viral RNA with aerosol size distributions showing peaks in submicrometre and/or supermicrometre regions, but these levels were reduced to undetectable levels after implementation of rigorous sanitization procedures. Although we have not established the infectivity of the virus detected in these hospital areas, we propose that SARS-CoV-2 may have the potential to be transmitted via aerosols. Our results indicate that room ventilation, open space, sanitization of protective apparel, and proper use and disinfection of toilet areas can effectively limit the concentration of SARS-CoV-2 RNA in aerosols. Future work should explore the infectivity of aerosolized virus.
@@ -1847,7 +1848,7 @@ feed April2020
       !a
 
     / April, 2020 - Nature
-    let !a self assert = Although we have not established the infectivity of the virus detected in these hospital areas, we propose that SARS-CoV-2 may have the potential to be transmitted via aerosols. Our results indicate that room ventilation, open space, sanitization of protective apparel, and proper use and disinfection of toilet areas can effectively limit the concentration of SARS-CoV-2 RNA in aerosols.
+    let !a self assert = Overall, the risks of infection are low in well-ventilated or open public venues, but do reinforce the importance of avoiding crowded gatherings.
 
 
   # Clinicalcharacteristics

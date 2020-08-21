@@ -93,7 +93,7 @@ subject module Mitigation
         'Jing_et_al_2020.!l
         'Woelfel_et_al_2020b.!i
         'Sanche_et_al_2020.!f
-        'Chan_et_al_2020.!r
+        'Chan_et_al_2020.!k
         'Bi_et_al_04_27_2020.!k
     / Social Distancing
     subject SocialDistancing
@@ -147,10 +147,13 @@ subject module Mitigation
         'Allen_et_al_06_19_2020.!f
         'Allen_et_al_06_19_2020.!g
         'Liu_et_al_03_10_2020
+        'Morawska_et_al_04_10_2020.!a
+        'Somsen_et_al_05_20_2020
       -- Building and Environment
         'Nwanaji-Enwerem_et_al_07_08_2020
         'Dietz_et_al_05_05_2020
         'Amoatey_et_al_05_12_2020
+        'Holmberg_et_al_05_19_2003
     / Hospital Mitigation
     subject Nosocomial
       head = Several mitigation measures are being used by hospitals to minimize the chance of exposure to healthcare workers and to protect high-risk population within the hospitals. Mitigation measures adopted, includes the promoting the use of everyday preventive actions.
@@ -180,9 +183,19 @@ subject module Mitigation
         'J_et_al_2020.!h
         'J_et_al_2020.!j
         'Pan_et_al_2020.!e
-        'Liu_et_al_2020bb.!a
+        'Liu_et_al_2020bb
         'Somsen_et_al_05_27_2020.!f
         'Liu_et_al_2020
+      -- Dental practice
+        'Izzetti_et_al_04_17_2020
+        'Peng_et_al_03_03_2020
+
+    / Indoor Mitigation
+    subject Indoormitigation
+      head =
+      -- Gyms
+        'Dominski_et_al_07_17_2020
+
     / Sewage
     subject Sewage
       head = There are compelling research that SARS-CoV-2 is detected in sewage and could be a sensitive surveillance system and early warning tool of COVID-19 outbreak dynamics.

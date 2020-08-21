@@ -38,6 +38,12 @@ subject module Virus
   / Entry and Replication
   subject module Entry
     head = SARS-CoV-2 uses the same cellular entry receptor, ACE2, as SARS-CoV. SARS-CoV-2 virion attaches to a target cell, the cell's protease TMPRSS2 cuts open the spike protein of the virus, exposing a fusion peptide in the S2 subunit, and the host receptor ACE2.
+
+    >>> Entry to host
+      SARS-Cov2 enters human body through nose and mouth, however entry through eyes is still unclear.
+    -- Through eyes, nose, mouth
+      'Ho_et_al_06_16_2020
+
     >>> Replication
       The virion then releases RNA into the cell and forces the cell to produce and disseminate copies of the virus, which infect more cells.
     -- ACE2 & TMPRSS2
@@ -154,12 +160,15 @@ subject module Virus
       head = Human to Human contact and Indirect contact via contaminated surfaces is cause of infection. Faecal-oral and Aerosol routes are also suspected to transmit the virus.
       >>>
         Human to Human contact and Indirect contact via contaminated surfaces is cause of infection. Faecal-oral and Aerosol routes are also suspected to transmit the virus. {ViralShedding Shedding} of SARS Cov-2 can happen in multiple modes, and all these can be potential route of transmission of the virus.
-
+      >>>
+        Viral RNA can be detected long after the disappearance of infectious virus. However, if these are infectious is yet to be established.
       --
         SurfaceTransmission
         AerosolTransmission
         FaecalTransmission
         AnimaltohumanTransmission
+        MechanicalTransmission
+
 
       / Surface Transmission
       subject SurfaceTransmission
@@ -211,11 +220,16 @@ subject module Virus
           'Vuorinen_et_al_05_31_2020
           'Santarpia_et_al_07_29_2020
           'Liu_et_al_03_10_2020
+          'Liu_et_al_2020bb
+
         -- Mechanism/ Common pathogen exchange pathways and mechanisms
           'Wang_et_al_04_05_2011
           'Morawska_et_al_06_09_2006
           'Dietz_et_al_05_05_2020
           'Setti_et_al_04_23_2020
+          'Jankovic_et_al_06_25_2020
+          'Somsen_et_al_05_20_2020
+
         --
           AerosolToilet
         # Close Enviornment
@@ -226,6 +240,8 @@ subject module Virus
           'Ma_et_al_06_02_2020
           'Richard_et_al_07_08_2020
           'Zhang_et_al_06_11_2020
+          'Jayaweera_et_al_06_10_2020
+          'Morawska_et_al_04_10_2020
         -- Dispute not Airborne
           'Cheng_et_al_06_08_2020
         / Aerosol Activation in Toilet
@@ -251,8 +267,13 @@ subject module Virus
       subject AnimaltohumanTransmission
         head = Modes of trasmission from Animal to Human
         # Bats, Pangolins, Pets, Rodents, Animals which carry these virus.
-      >>>
-        Viral RNA can be detected long after the disappearance of infectious virus. However, if these are infectious is yet to be established.
+
+      / Mechanical Transmission
+      subject MechanicalTransmission
+        head = Mechanical transmission means the transfer of pathogens from an infected host or a contaminated substrate to the suspectible host, where a biological association between the pathogen and vector is not necessary.
+        -- Cockraches and Houseflies
+          'Dehghani_et_al_03_24_2020
+
 
     / Environmental Settings
     subject module Environment
@@ -283,7 +304,7 @@ subject module Virus
       / Settings
       subject module Settings
         head = Based on studies COVID-19 has more severe impact on indoor settings over outdoor settings.
-        
+
         / Nosocomial Transmission
         subject HospitalTransmission
           head = SARS-CoV-2 viral RNA in air has been detected in several studies in hospitals, including at distances greater than 2 m from patients and in outdoor air in crowded areas near a hospital
@@ -294,6 +315,7 @@ subject module Virus
             'Houlihan_et_al_07_09_2020
             'Santarpia_et_al_07_29_2020
             'Liu_et_al_03_10_2020
+            'Jayaweera_et_al_06_10_2020.!b
         / Indoor Tranmission/ Indoor Settings
         subject IndoorTransmission
           head = Based on studies close contact in the family is the main transmission route of infection.
@@ -310,6 +332,8 @@ subject module Virus
             'Yu_et_al_02_18_2020
             'Zhang_et_al_03_27_2020
             'Qiu_et_al_03_05_2020
+            'Li_et_al_04_17_2020
+            'Chaw_et_al_07_10_2020
           # Unedited - Indoor
           -- Indoor Tranmission
             'Chan_et_al_2020
@@ -326,16 +350,16 @@ subject module Virus
             'Pung_et_al_2020
             'Wu_et_al_2020e
             'Ghinai_et_al_04_17_2020
-            'Pung_et_al_03_28_2020
             'Yamagishi_et_al_06_11_2020
             'Nishiura_et_al_03_03_2020
             'Nwanaji-Enwerem_et_al_07_08_2020
           -- Restaurant/ Nightclubs
             'Lu_et_al_04_02_2020
             'Kang_et_al_07_07_2020
-          -- Gyms
+          -- Gyms/ Sports/ Exercise
             'Jang_et_al_05_15_2020
             'Andrade_et_al_05_07_2018
+            'Brlek_et_al_06_19_2020
           -- Transmission reports
             'Lewis_et_al_06_24_2020
             'Furuse_et_al_06_10_2020
@@ -344,24 +368,41 @@ subject module Virus
             'Qian_et_al_03_17_2020
             'Yang_et_al_03_08_2020
             'Leclerc_et_al_06_05_2020
+            'Hijnen_et_al_05_11_2020
+            'Szablewski_et_al_08_07_2020
+            'Tariq_et_al_02_20_2020
+            'Shim_et_al_03_17_2020
           -- Public transport
             'Zhao_et_al_01_30_2020
             'Zheng_et_al_03_14_2020
           -- School transmission
             'Stein-Zamir_et_al_07_21_2020
-            'Heavey_et_al_05_25_2020
+            'Heavey_et_al_05_28_2020
             'Yung_et_al_06_25_2020
             'Levinson_et_al_07_29_2020.!a
+            'Fontanet_et_al_04_23_2020
           -- Hair salon
             'Hendrix_et_al_07_14_2020
           -- Longterm Care facilities
             'Hoxha_et_al_07_03_2020
           -- Municipality
             'Lavezzo_et_al_04_18_2020
-          -- Religious Gatherings
+          -- Religious Gatherings/ Mass Gatherings
             'Thuan-Hoang_et_al_08_28_2018
+            'Sassano_et_al_05_29_2020
+            'Chaw_et_al_07_10_2020
           -- Customs, traditions and social environmental factors
             'Amoatey_et_al_05_12_2020
+          -- Police force
+            'Kokane_et_al_06_16_2020
+          -- Dental Practice
+            'Izzetti_et_al_04_17_2020
+            'Peng_et_al_03_03_2020
+          -- Frontiers
+            'Aliverti_et_al_06_2016
+            'Carlisle_et_al_02_20_2020
+            'Murphy_et_al_06_21_2008
+            'Andrade_et_al_11_02_2017
 
         / Outdoor Transmission/ Outdoor Settings
         subject OutdoorTransmission
@@ -443,6 +484,7 @@ subject module Virus
       -- Superspreading Events of COVID-19
         'Hoehl_et_al_2020
         'Hamner_et_al_2020
+        'Kwok_et_al_05_21_2020
       >>>
         Subsequent research also shows evidence of 20/80 rule of transmission. Model studies have emphasized to include to transmission heterogeneity to accurately portray pathogen dynamics.
 
@@ -451,6 +493,8 @@ subject module Virus
         'Adam_et_al_2020.!a
         'Miller_et_al_2020b.!b
         'Endo_et_al_04_09_2020
+
+
 
     / R<sub>0</sub>
     subject Ro
@@ -466,6 +510,8 @@ subject module Virus
         'Bi_et_al_04_27_2020.!l
         'Bi_et_al_04_27_2020.!m
         'Bi_et_al_04_27_2020.!n
+        'Shim_et_al_03_17_2020
+        'Tariq_et_al_02_20_2020
       >>>
         Dispersion factor k number indicates how often an illness occurs and where potential clusters appear. As with the rate of R, it's better to have a low value for k. That would indicate that the potential for distribution is small and the infection can be traced back to a few people or even a single person. But scientists have yet to work out the dispersion factor k for the novel coronavirus.
       # Overdispersion & 80/20 Rule of COVID-19 correlates with superspreading

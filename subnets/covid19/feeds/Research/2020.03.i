@@ -789,11 +789,12 @@ feed March2020
     let !d self assert = We noted some cross reactivity in both ELISAs with serum samples from the same two HCoV-OC43 patients that cross reacted in a MERS-CoV S1 IgG ELISA despite the different antigen coated.
 
 
-  # Indoor - Singapore Origin
+  # prolonged close contact, indirect transmission, fomites and shared food, cluster transmission, 36 ppl
   // Investigation of three clusters of COVID-19 in Singapore: implications for surveillance and response measures
   doi: https://doi.org/10.1016/S0140-6736(20)30528-6
   article 'Pung_et_al_2020
-    head = As of Feb 15, 2020, 36 cases of COVID-19 were linked epidemiologically to the first three clusters of circumscribed local transmission in Singapore. 425 close contacts were quarantined. Direct or prolonged close contact was reported among affected individuals, although indirect transmission (eg, via fomites and shared food) could not be excluded.
+    head = 36 cases of COVID-19 were linked epidemiologically to the first three clusters of circumscribed local transmission in Singapore (a Chinese tour group, company conference, and a church). Direct or prolonged close contact was reported among affected individuals, although indirect transmission (eg, via fomites and shared food) could not be excluded.
+
 
     >>> Background
       Three clusters of coronavirus disease 2019 (COVID-19) linked to a tour group from China, a company conference, and a church were identified in Singapore in February, 2020.
@@ -811,7 +812,7 @@ feed March2020
       !a
 
     / March, 2020 - Lancet
-    let !a self assert = SARS-CoV-2 is transmissible in community settings, and local clusters of COVID-19 are expected in countries with high travel volume from China before the lockdown of Wuhan and institution of travel restrictions. Enhanced surveillance and contact tracing is essential to minimise the risk of widespread transmission in the community.
+    let !a self assert = This finding highlights the importance of emphasising personal and hand hygiene as a key public-health message that countries should adopt.
 
 
   # Epidemic

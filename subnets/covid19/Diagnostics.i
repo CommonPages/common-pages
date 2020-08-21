@@ -52,6 +52,7 @@ subject module Diagnostics
           'Salje_et_al_04_20_2020.!j
           'Stringhini_et_al_05_06_2020
           'Wang-To_et_al_06_03_2020
+          'Fontanet_et_al_04_23_2020
         >>>
           Large scale serosurveys (community level) can be beneficial
         --

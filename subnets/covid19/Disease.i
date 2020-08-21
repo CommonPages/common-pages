@@ -244,6 +244,7 @@ subject module Disease
 
       --
         'Pan_et_al_2020.!b
+        'Fontanet_et_al_04_23_2020.!a
       >>>
         Higher ACE2 level is associated with disease severity
       --

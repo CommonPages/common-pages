@@ -204,7 +204,7 @@ subject module Timeline
     subject GenomeSequence
       head = Genomic Analysis of SARS-CoV-2 suggest similarity with SARS-CoV and Bat being the natural reservoir of SARS-CoV-2.
       --
-        'Chan_et_al_2020.!p
+        'Chan_et_al_2020.!i
         'Ren_et_al_2020
       # SARS CoV also used ACE-2. Was originated from Bats
       --
@@ -297,7 +297,7 @@ subject module Timeline
       # Zhang_et_al_2020i can go in TranmissionLineage.. chan_et shows phylogeny of 5 patients of Wuhan (early) and its related to RaTG13
       --
         'Zhang_et_al_2020i
-        'Chan_et_al_2020.!p
+        'Chan_et_al_2020.!i
         'Yu_et_al_05_18_2020
     / Wuhan
     subject Wuhan
