@@ -120,6 +120,8 @@ subject module Mitigation
         'Ciavarella_et_al_2016
         'Cowling_et_al_2020.!d
         'Levinson_et_al_07_29_2020
+      -- School Reopening
+        'Gaffney_et_al_08_21_2020
     / Contact Tracing
     subject ContactTracing
       head = Testing and Tracing is an effective strategy at the start of an outbreak when there are just a few chains of transmission of the disease. Countries that persisted with expanded and rigorous testing and tracing have fared better with lower death rates than those which did not.

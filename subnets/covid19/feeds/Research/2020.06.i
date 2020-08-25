@@ -937,7 +937,7 @@ feed June2020
       !b
       !c
       !d
-      
+
     / June, 2020 - Annals of the New York Academy of Sciences
     let !a self assert = It follows that the adoption of this simple technology ought to be re-evaluated in countries where facemask use is not being encouraged. Within the parameter regimes tested, the models also show that, if COVID-19 is to be controlled or eradicated, early lock-down combined with facemask adoption by close to 100% by the public needs to occur. This, of course, does not exclude the implementation of other management interventions, such as widespread testing and contact tracing.
     / June, 2020 - Annals of the New York Academy of Sciences - arguing for use of facemasks inspite of lack of direct evidence for Covid19
@@ -1047,20 +1047,18 @@ feed June2020
     let !c self assert = We believe the focus on cloth masks should center around lower pressure differentials that can be sustained practically in unfitted cloth masks. One approach would then be to depart from traditional designs to significantly increase the area of the cloth to increase net airflow while not overly exerting the face seal.
 
 
-  # Tranmission - Aersol - Superspreading Events? (but no claim just example)
+  # 53 ppl, aerosol transmission, ventilation, choir, secondary attack rate- Superspreading Events? (but no claim just example)
   // Transmission of SARS-CoV-2 by inhalation of respiratory aerosol in the Skagit Valley Chorale superspreading event
   doi: https://doi.org/10.1101/2020.06.15.20132027
   ref 'Miller_et_al_06_18_2020
-    head = The results indicate an emission rate of the order of a thousand quanta per hour (mean [interquartile range] for this event = 970 [680-1190] quanta per hour) and demonstrate that the risk of infection is modulated by ventilation conditions, occupant density, and duration of shared presence with an infectious individual.
+    head = 53 of the 61 members of the SVC contracted COVID-19 and two died. One person is the presumed index case. The secondary infection attack rate is in the range 53-87%. Inhalation of respiratory aerosol most likely dominated infection transmission during this event, as other modes of transmission are unlikely to account for the high secondary attack rate.
 
     >>> Abstract
       During the 2020 COVID-19 pandemic, an outbreak occurred following attendance of a symptomatic index case at a regular weekly rehearsal on 10 March of the Skagit Valley Chorale (SVC). After that rehearsal, 53 members of the SVC among 61 in attendance were confirmed or strongly suspected to have contracted COVID-19 and two died. Transmission by the airborne route is likely. It is vital to identify features of cases such as this so as to better understand the factors that promote superspreading events. Based on a conditional assumption that transmission during this outbreak was by inhalation of respiratory aerosol, we use the available evidence to infer the emission rate of airborne infectious quanta from the primary source. We also explore how the risk of infection would vary with several influential factors: the rates of removal of respiratory aerosol by ventilation; deposition onto surfaces; and viral decay. The results indicate an emission rate of the order of a thousand quanta per hour (mean [interquartile range] for this event = 970 [680-1190] quanta per hour) and demonstrate that the risk of infection is modulated by ventilation conditions, occupant density, and duration of shared presence with an infectious individual.
 
-    -- exports
-      !a
-
     / June, 2020 - medRxiv
-    let !a self assert =  We use the available evidence to infer the emission rate of airborne infectious quanta from the primary source. We also explore how the risk of infection would vary with several influential factors: the rates of removal of respiratory aerosol by ventilation; deposition onto surfaces; and viral decay. The results indicate an emission rate of the order of a thousand quanta per hour (mean [interquartile range] for this event = 970 [680-1190] quanta per hour) and demonstrate that the risk of infection is modulated by ventilation conditions, occupant density, and duration of shared presence with an infectious individual.
+    let !a self assert =
+
 
 
   # Face Mask - Humidity and deposition for viral inactivation

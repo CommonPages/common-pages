@@ -297,6 +297,7 @@ subject module Disease
       head = Studies show that long-term average exposure to air pollution (fine particulate matter-PM 2.5) increases vulnerability to experiencing the most severe Covid-19 outcomes
       --
         'Wu_et_al_2020c
+        'Setti_et_al_04_17_2020
 
     / Vitamin D
     subject VitaminD
@@ -436,6 +437,7 @@ subject module Disease
         'Rosenberg_et_al_05_29_2020.!f
         'DelValle_et_al_05_30_2020.!f
         'Van-Dorn_et_al_04_18_2020.!a
+        'Gaffney_et_al_08_21_2020
 
   / Case Fatality Rate & Mortality Rate
   subject module Fatality
