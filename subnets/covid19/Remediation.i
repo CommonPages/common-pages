@@ -199,18 +199,20 @@ subject module Remediation
 
             # Need editing
             >>>
-              Chloroquine is an antimalarial with in vitro activity against several viruses including coronaviruses. Hydroxychloroquine, an analogue of chloroquine, is used to treat autoimmune diseases, such as systemic lupus erythematosus and rheumatoid arthritis. In general, hydroxychloroquine has fewer and less severe toxicities and fewer drug-drug interactions than chloroquine. Hydroxychloroquine may have greater in vitro inhibitory activity than chloroquine.
-
+              Chloroquine is an antimalarial with in vitro activity against several viruses including coronaviruses. Hydroxychloroquine, an analogue of chloroquine, is used to treat autoimmune diseases, such as systemic lupus erythematosus and rheumatoid arthritis. In general, hydroxychloroquine has fewer and less severe toxicities and fewer drug-drug interactions than chloroquine. Hydroxychloroquine may have greater in vitro inhibitory activity than chloroquine. Based on past studies Hydroxychloroquine and Choloroquine seemed to show efficacy against {'HcqSARS SARS} and {'HcqMERS MERS}
 
             >>>
-              {'Genericpaper Several drugs} and {'Gordon_et_al_04_30_2020 compounds} has been indentified which can repurposed to fight Covid-19. Based on past studies Hydroxychloroquine and Choloroquine seemed to show efficacy against {'HcqSARS SARS} and {'HcqMERS MERS}
-
+              {'Genericpaper Several drugs} and {'Gordon_et_al_04_30_2020 compounds} has been indentified which can repurposed to fight Covid-19.
 
             --
               Hcqinvitro
+            --
               HcqEfficacy
+            --
               Hcqtrials
+            --
               Hcqsideeffects
+            --  
               Hcqrecommendation
 
             >>>
@@ -255,7 +257,7 @@ subject module Remediation
               -- Stops Replication
                 'Cortegiani_et_al_2020
 
-            / Hydroxychloroquine Efficacy
+            / Observational Studies
             subject HcqEfficacy
               head = Observational studies and case series shows HCQ was associated with reduction in mortality
               -- Hydroxychloroquine with Azithromycin
@@ -263,9 +265,15 @@ subject module Remediation
               -- Shows Reduction in Mortality
                 'Arshad_et_al_07_01_2020
 
-            / Hydroxychloroquine Trials
+              -- Systematic Review showcasing reduction in viral load but also increase in mortality
+                'Yang_et_al_06_14_2020
+
+            / Randomized Trials
             subject Hcqtrials
               head = The safety and efficacy of chloroquine and hydroxychloroquine have been evaluated in randomized clinical trials. Use of hydroxychloroquine has shown no evidence of benefit in patients with COVID-19.
+
+              >>>
+                There are serveral on going {'Hcqongoing Randomised clinical trails}. The {'Xiao_et_al_04_20_2020 study} was discontinued early when preliminary results showed higher rates of mortality and QTc prolongation in the high-dose chloroquine group.
 
               --
                 'Geleris_et_al_05_27_2020
@@ -279,8 +287,10 @@ subject module Remediation
                 'Boulware_et_al_08_06_2020
                 'Mahevas_et_al_2020
 
-              >>>
-                There are serveral on going {'Hcqongoing Randomised clinical trails}. The {'Xiao_et_al_04_20_2020 study} was discontinued early when preliminary results showed higher rates of mortality and QTc prolongation in the high-dose chloroquine group.
+              -- Systematic Reviews of Observational study and trials
+                'Singh_et_al_05_12_2020
+
+
 
               / On-going clinical trials
               line 'Hcqongoing

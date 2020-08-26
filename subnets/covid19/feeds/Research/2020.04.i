@@ -108,6 +108,97 @@ feed April2020
 
   #
 
+  
+
+  # Nosocomial Tranmission and Mitigatin !a
+  // Transmission of COVID-19 to Health Care Personnel During Exposures to a Hospitalized Patient - Solano County, California, February 2020
+  doi: https://doi.org/10.15585/mmwr.mm6915e5
+  ref 'Heinzerling_et_al_04_14_2020
+    head = Among 121 HCP exposed to a patient with unrecognized COVID-19, 43 became symptomatic and were tested for SARS-CoV-2, of whom three had positive test results; all three had unprotected patient contact. Exposures while performing physical examinations or during nebulizer treatments were more common among HCP with COVID-19.
+
+    >>> Abstract
+      On February 26, 2020, the first U.S. case of community-acquired coronavirus disease 2019 (COVID-19) was confirmed in a patient hospitalized in Solano County, California (1). The patient was initially evaluated at hospital A on February 15; at that time, COVID-19 was not suspected, as the patient denied travel or contact with symptomatic persons. During a 4-day hospitalization, the patient was managed with standard precautions and underwent multiple aerosol-generating procedures (AGPs), including nebulizer treatments, bilevel positive airway pressure (BiPAP) ventilation, endotracheal intubation, and bronchoscopy. Several days after the patient's transfer to hospital B, a real-time reverse transcription-polymerase chain reaction (real-time RT-PCR) test for SARS-CoV-2 returned positive. Among 121 hospital A health care personnel (HCP) who were exposed to the patient, 43 (35.5%) developed symptoms during the 14 days after exposure and were tested for SARS-CoV-2; three had positive test results and were among the first known cases of probable occupational transmission of SARS-CoV-2 to HCP in the United States. Little is known about specific risk factors for SARS-CoV-2 transmission in health care settings. To better characterize and compare exposures among HCP who did and did not develop COVID-19, standardized interviews were conducted with 37 hospital A HCP who were tested for SARS-CoV-2, including the three who had positive test results. Performing physical examinations and exposure to the patient during nebulizer treatments were more common among HCP with laboratory-confirmed COVID-19 than among those without COVID-19; HCP with COVID-19 also had exposures of longer duration to the patient. Because transmission-based precautions were not in use, no HCP wore personal protective equipment (PPE) recommended for COVID-19 patient care during contact with the index patient. Health care facilities should emphasize early recognition and isolation of patients with possible COVID-19 and use of recommended PPE to minimize unprotected, high-risk HCP exposures and protect the health care workforce.
+
+
+    -- exports
+      !a
+
+    / April, 2020 - MMWR Early Release
+    let !a self assert = Unprotected, prolonged patient contact, as well as certain exposures, including some aerosol-generating procedures, were associated with SARS-CoV-2 infection in HCP. Early recognition and isolation of patients with possible infection and recommended PPE use can help minimize unprotected, high-risk HCP exposures and protect the health care workforce.
+
+
+  # Nosocomial Tranmission
+  // SARS-CoV-2 infection in health care workers: a retrospective analysis and a model study
+  doi: https://doi.org/10.1101/2020.03.29.20047159
+  ref 'Sr_et_al_04_01_2020
+    head = Risk factors and transmission models of COVID-19 among HCWs were analyzed and constructed. Poor sleep quality and high working pressure were positively associated with high risks of COVID-19. A novel IBM of COVID-19 transmission is suitable for simulating different outbreak patterns in a hospital setting.
+
+    >>> Background
+      There had been a preliminary occurrence of human-to-human transmissions between healthcare workers (HCWs), but risk factors in the susceptibility for COVID-19, and infection patterns among HCWs have largely remained unknown.
+    >>> Methods
+      Retrospective data collection on demographics, lifestyles, contact status with infected subjects for 118 HCWs (include 12 COVID-19 HCWs) from a single-center. Sleep quality and working pressure were evaluated by Pittsburgh Sleep Quality Index (PSQI) and The Nurse Stress Index (NSI), respectively. Follow-up duration was from Dec 25, 2019, to Feb 15, 2020. Risk factors and transmission models of COVID-19 among HCWs were analyzed and constructed.
+    >>> Findings
+      A high proportion of COVID-19 HCWs had engaged in night shift-work (75.0% vs. 40.6%) and felt they were working under pressure (66.7% vs. 32.1%) than uninfected HCWs. COVID-19 HCWs had higher total scores of PSQI and NSI than uninfected HCWs. Furthermore, these scores were both positively associated with COVID-19 risk. An individual-based model (IBM) estimated the outbreak duration among HCWs in a non-typical COVID-19 ward at 62-80 days and the basic reproduction number =1.27 [1.06, 1.61]. By reducing the average contact rate per HCW by a 1.35 factor and susceptibility by a 1.40 factor, we can avoid an outbreak of the basic case among HCWs.
+    >>> Interpretation
+      Poor sleep quality and high working pressure were positively associated with high risks of COVID-19. A novel IBM of COVID-19 transmission is suitable for simulating different outbreak patterns in a hospital setting.
+
+    -- exports
+      !a
+
+    / February, 2020 - bioRxiv
+    let !a self assert =
+
+
+  # Serology , Contact Tracing , !a - Transmission - church and family gathering
+  // Connecting clusters of COVID-19: an epidemiological and serological investigation
+  doi: https://doi.org/10.1016/S1473-3099(20)30273-5
+  ref 'Yong_et_al_04_21_2020
+    head =  SARS-CoV-2 serological analysis, in addition to use of traditional epidemiological methods, was important in establishing links among locally transmitted COVID-19 cases and tracing the transmission chain to an imported source.
+
+    >>> Background
+      Elucidation of the chain of disease transmission and identification of the source of coronavirus disease 2019 (COVID-19) infections are crucial for effective disease containment. We describe an epidemiological investigation that, with use of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) serological assays, established links between three clusters of COVID-19.
+    >>> Methods
+      In Singapore, active case-finding and contact tracing were undertaken for all COVID-19 cases. Diagnosis for acute disease was confirmed with RT-PCR testing. When epidemiological information suggested that people might have been nodes of disease transmission but had recovered from illness, SARS-CoV-2 IgG serology testing was used to establish past infection.
+    >>> Findings
+      Three clusters of COVID-19, comprising 28 locally transmitted cases, were identified in Singapore; these clusters were from two churches (Church A and Church B) and a family gathering. The clusters in Church A and Church B were linked by an individual from Church A (A2), who transmitted SARS-CoV-2 infection to the primary case from Church B (F1) at a family gathering they both attended on Jan 25, 2020. All cases were confirmed by RT-PCR testing because they had active disease, except for A2, who at the time of testing had recovered from their illness and tested negative. This individual was eventually diagnosed with past infection by serological testing. ELISA assays showed an optical density of more than 1·4 for SARS-CoV-2 nucleoprotein and receptor binding domain antigens in titres up to 1/400, and viral neutralisation was noted in titres up to 1/320.
+    >>> Interpretation
+      Development and application of a serological assay has helped to establish connections between COVID-19 clusters in Singapore. Serological testing can have a crucial role in identifying convalescent cases or people with milder disease who might have been missed by other surveillance methods.
+
+    -- exports
+      !a
+      !b
+
+    / April, 2020 - The Lancet
+    let !a self assert = Three clusters of COVID-19, comprising 28 locally transmitted cases, were identified in Singapore; these clusters were from two churches and a family gathering.
+
+    / April, 2020 - The Lancet
+    let !b self assert = Our findings suggest that COVID-19 is largely transmitted by close contact, particularly when contact occurs over a prolonged period and in close congregation.
+
+  # Asymptomatic Tranmission , Children Tranmission
+  // Cluster of Coronavirus Disease 2019 (COVID-19) in the French Alps, February 2020
+  doi: https://doi.org/10.1093/cid/ciaa424
+  ref 'Danis_et_al_04_11_2020
+    head = The investigation of this cluster of COVID-19 in France indicated the occurrence of 1 asymptomatic infection with similar viral load as a symptomatic case, suggesting a transmission potential of asymptomatic cases.
+
+    >>> Background
+      On 7 February 2020, French Health authorities were informed of a confirmed case of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in an Englishman infected in Singapore who had recently stayed in a chalet in the French Alps. We conducted an investigation to identify secondary cases and interrupt transmission.
+
+    >>> Methods
+      We defined as a confirmed case a person linked to the chalet with a positive reverse-transcription polymerase chain reaction sample for SARS-CoV-2.
+
+    >>> Results
+      The index case stayed 4 days in the chalet with 10 English tourists and a family of 5 French residents; SARS-CoV-2 was detected in 5 individuals in France, 6 in England (including the index case), and 1 in Spain (overall attack rate in the chalet: 75%). One pediatric case, with picornavirus and influenza A coinfection, visited 3 different schools while symptomatic. One case was asymptomatic, with similar viral load as that of a symptomatic case. Seven days after the first cases were diagnosed, 1 tertiary case was detected in a symptomatic patient with from the chalet a positive endotracheal aspirate; all previous and concurrent nasopharyngeal specimens were negative. Additionally, 172 contacts were monitored; all contacts tested for SARS-CoV-2 (N = 73) were negative.
+
+    >>> Conclusions
+      The occurrence in this cluster of 1 asymptomatic case with similar viral load as a symptomatic patient suggests transmission potential of asymptomatic individuals. The fact that an infected child did not transmit the disease despite close interactions within schools suggests potential different transmission dynamics in children. Finally, the dissociation between upper and lower respiratory tract results underscores the need for close monitoring of the clinical evolution of suspected cases of coronavirus disease 2019.
+
+
+    -- exports
+      !a
+
+    / April, 2020 - Clinical Infectious Diseases
+    let !a self assert =  The occurrence of a case in a child, coinfected with other respiratory viruses, who did not transmit the disease despite interactions with his classmates suggests that children might not be an important source of transmission of this novel virus.
+
 
 
   # Hydroxychloroquine

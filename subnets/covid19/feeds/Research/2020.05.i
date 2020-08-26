@@ -116,6 +116,134 @@ feed May2020
 
   #
 
+  # Nosocomial - No Aersol - Surface 
+  // Environmental contamination by SARS-CoV-2 in a designated hospital for coronavirus disease 2019
+  doi: https://doi.org/10.1016/j.ajic.2020.05.003
+  ref 'Wu_et_al_05_11_2020
+    head = SARS-CoV-2 RNA was not detected in the air in a designated hospital for COVID-19. Environmental surface in medical areas was frequently contaminated. Strict environmental surface disinfection and enhanced hand hygiene were recommended.
+
+    >>> Background
+      Coronavirus disease 2019 (COVID-19) is characterized by risk of nosocomial transmission; however, the extent of environmental contamination and its potential contribution of environmental contamination to SARS-CoV-2 transmission are poorly understood. This study aimed to investigate whether environmental contamination may play a role in SARS-CoV-2 transmission.
+
+    >>>  Methods
+      Air samples were collected by natural precipitation, and environmental surface samples were collected by conventional surface swabbing. SARS-CoV-2 RNA detection was performed using reverse transcription polymerase chain reaction.
+
+    >>> Results
+      Viral RNA was not detected in the 44 air samples. The positive rates in 200 environmental surface samples in medical areas (24.83%) was higher than that in living quarters (3.64%), with a significant difference (P < .05). The positive rates were 25.00% and 37.50% for the general isolation ward and intensive care unit, respectively, and no significant difference was observed between them (P = .238). The top 5 sampling sites with a positive rate in medical areas were beepers (50.00%), water machine buttons (50.00%), elevator buttons (42.86%), computer mouses (40.00%), and telephones (40.00%).
+
+    >>> Conclusions
+      Most of the touchable surfaces in the designated hospital for COVID-19 were heavily contaminated, suggesting that the environment is a potential medium of disease transmission. These results emphasize the need for strict environmental surface hygiene practices and enhanced hand hygiene to prevent the spread of the virus.
+
+    -- exports
+      !a
+
+    / May, 2020 - American Journal of Infection Control
+    let !a self assert =
+
+
+  # Transmission , Contact Tracing
+  // Enhanced Contact Investigations for Nine Early Travel-Related Cases of SARS-CoV-2 in the United States
+  doi: https://doi.org/10.1101/2020.04.27.20081901
+  ref 'Burke_et_al_05_03_2020
+    head = Close contacts of nine early travel-related cases in the United States were identified and underwent active monitoring. The enhanced contact tracing investigations undertaken identified two cases of secondary transmission, both spouses.
+
+    >>> Background
+      Coronavirus disease 2019 (COVID-19), the respiratory disease caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), was first identified in Wuhan, China and has since become pandemic. As part of initial response activities in the United States, enhanced contact investigations were conducted to enable early identification and isolation of additional cases and to learn more about risk factors for transmission.
+    >>> Methods
+      Close contacts of nine early travel-related cases in the United States were identified. Close contacts meeting criteria for active monitoring were followed, and selected individuals were targeted for collection of additional exposure details and respiratory samples. Respiratory samples were tested for SARS-CoV-2 by real-time reverse transcription polymerase chain reaction (RT-PCR) at the Centers for Disease Control and Prevention.
+    >>> Results
+      There were 404 close contacts who underwent active monitoring in the response jurisdictions; 338 had at least basic exposure data, of whom 159 had at least 1 set of respiratory samples collected and tested. Across all known close contacts under monitoring, two additional cases were identified; both secondary cases were in spouses of travel-associated case patients. The secondary attack rate among household members, all of whom had at least 1 respiratory sample tested, was 13% (95% CI: 4 - 38%).
+    >>> Conclusions
+      The enhanced contact tracing investigations undertaken around nine early travel-related cases of COVID-19 in the United States identified two cases of secondary transmission, both spouses. Rapid detection and isolation of the travel-associated case patients, enabled by public awareness of COVID-19 among travelers from China, may have mitigated transmission risk among close contacts of these cases.
+
+
+    -- exports
+      !a
+
+    / May, 2020 - medRxiv
+    let !a self assert = Rapid detection and isolation of the travel-associated case patients, enabled by public awareness of COVID-19 among travelers from China, may have mitigated transmission risk among close contacts of these cases.
+
+
+  # Close Contact
+  // Epidemiological characteristics of infection in COVID-19 close contacts in Ningbo city
+  doi: https://doi.org/10.3760/cma.j.cn112338-20200304-00251
+  ref 'Chen_et_al_05_10_2020
+    head = The infection rate of close contacts of COVID-19 cases is high, and isolation medical observation measures should be implemented in strict accordance with the close contact management plan.
+
+    >>> Objective
+      To estimate the infection rate of close contacts of COVID-19 cases, and to evaluate the risk of COVID-19 under different exposure conditions.
+    >>> Methods
+      A prospective study was used to conduct continuous quarantine medical observations of close contacts of people infected with COVID-19, collect epidemiological, clinical manifestations, and laboratory test data to estimate the infection rate of close contacts under different exposures.
+    >>> Results
+      The epidemiological curve of COVID-19 in Ningbo showed persistent human-to-human characteristics. A total of 2 147 close contacts were tracked and investigated. The total infection rate was 6.15%. The infection rates of confirmed cases and positive contacts were 6.30% and 4.11%, respectively. The difference was not statistically significant (P>0.05). Among close contacts of different relationships, friends/pilgrims (22.31%), family members (18.01%), and relatives (4.73%) have a higher infection rate, and close contacts of medical staff were not infected. Differences in infection rates among the close contacts were statistically significant (P<0.005). Living with the case (13.26%), taking the same transportation (11.91%), and dining together (7.18%) are high risk factors for infection. Cross-infection in the hospital should not be ignored (1.94%). The median of incubation period is 5 days.
+    >>> Conclusion
+      The infection rate of close contacts of COVID-19 cases is high, and isolation medical observation measures should be implemented in strict accordance with the close contact management plan.
+
+    -- exports
+      !a
+
+    / February, 2020 - bioRxiv
+    let !a self assert =
+
+
+  # Hydroxychloroquine
+  // A review on possible modes of action of chloroquine/hydroxychloroquine: repurposing against SAR-CoV-2 (COVID-19) pandemic
+  doi: https://doi.org/10.1016/j.ijantimicag.2020.106028
+  ref 'Tripathy_et_al_05_22_2020
+    head = CQ/HCQ has diverse modes of action. One or more diverse mechanisms might work against viral infections and reduce mortality.
+
+    >>> Abstract
+      Chloroquine (CQ) and its analogue hydroxychloroquine (HCQ) have long been used worldwide as frontline drugs for the treatment and prophylaxis of human malaria. Since the first reported cases in Wuhan, China, in late December 2019, humans have been under threat from coronavirus disease 2019 (COVID-19) caused by the novel coronavirus SARS-CoV-2 (previously known as 2019-nCoV), subsequently declared a pandemic. While the world is searching for expedited approval for a vaccine, which may be only preventative and not a cure, physicians and country leaders are considering several concerted clinical trials suggesting that the age-old antimalarial drugs CQ/HCQ could be a potent therapeutic against COVID-19. Based on accumulating scientific reports, here we highlight the possible modes of action of CQ/HCQ that could justify its use against viral infections. Considering the global health crisis of the COVID-19 pandemic, the option of repurposing old drugs, e.g. CQ/HCQ, particularly HCQ, for the treatment of SARS-CoV-2 infection could be a good choice. CQ/HCQ has diverse modes of action, including alteration of the acidic environment inside lysosomes and late endosomes, preventing endocytosis, exosome release and phagolysosomal fusion, and inhibition of the host cytokine storm. One or more diverse mechanisms might work against viral infections and reduce mortality. As there is no cure for COVID-19, clinical testing of HCQ is urgently required to determine its potency against SARS-CoV-2, as this is the currently available treatment option. There remains a need to find other innovative drug candidates as possible candidates to enter clinical evaluation and testing.
+
+
+    -- exports
+      !a
+
+    / May, 2020 - International Journal of Antimicrobial Agents
+    let !a self assert = The diverse mechanism includes alteration of the acidic environment inside lysosomes and late endosomes, preventing endocytosis, exosome release and phagolysosomal fusion, and inhibition of the host cytokine storm.
+
+  # Hydroxychloroquine
+  // Systematic Review and Meta-analysis of the Effectiveness and Safety of Hydroxychloroquine in COVID-19.
+  doi: https://doi.org/10.1101/2020.05.07.20093831
+  ref 'Yang_et_al_06_14_2020
+    head = HCQ with or without azithromycin (AZI) showed benefits in viral clearance of SARS-CoV-2 and a reduction in progression rate. However, the use of HCQ was associated with increased mortality in COVID-19 patients.
+
+    >>> Backgrounds
+      Since COVID-19 outbreak, various agents have been tested but no proven effective therapies have been identified. This has led to a lot of controversies among associated researches. Hence, in order to address the issue of using hydroxychloroquine (HCQ) in treating COVID-19 patients, we conducted a systematic review and meta-analysis.
+    >>> Methods
+      A thorough search was carried out to find relevant studies in MEDLINE, medRxiv, PubMed, Cochrane Database, China Academic Journals Full-text Database and Web of Science. Two investigators independently reviewed 274 abstracts and 23 articles. The trials which evaluated HCQ for treatment of COVID-19 were included for this systematic review. Two investigators assessed quality of the studies and data extraction was done by one reviewer and cross checked by the other.
+    >>> Results
+      Five trials involving 677 patients were included while conducting the meta-analysis. Compared with the control group, HCQ with or without azithromycin (AZI) showed benefits in viral clearance of SARS-CoV-2 (odds ratio (OR) 1.95, 95% CI 0.19-19.73) and a reduction in progression rate (OR 0.89, 95% CI 0.58-1.37), but without demonstrating any statistical significance. This systematic review has also suggested a possible synergistic effect of the combination therapy which included HCQ and AZI. However, the use of HCQ was associated with increased mortality in COVID-19 patients.
+    >>> Conclusions
+      The use of HCQ with or without AZI for treatment of COVID-19 patients, seems to be effective. The combination of HCQ and AZI has shown synergistic effects. However, mortality rate was increased when the treatment was conducted with HCQ.
+
+
+    / May, 2020 - medRxiv
+    let !a self assert =
+
+  #
+  // Hydroxychloroquine in patients with COVID-19: A Systematic Review and meta-analysis
+  doi: https://doi.org/10.1016/j.dsx.2020.05.017
+  ref 'Singh_et_al_05_12_2020
+    head = While no benefit on viral clearance demonstrated by HCQ compared to the control in patients with COVID-19, a significant 2-fold increase in mortality with the HCQ warrants its use.
+
+    >>> Backgrounds and aims
+      The role of hydroxychloroquine (HCQ) in the treatment of COVID-19 is not fully known. We studied the efficacy of HCQ compared to the control in COVID-19 subjects on - a. viral clearance measured by reverse transcriptase polymerase chain reaction (RT-PCR) and, b. death due to all cause.
+
+    >>> Methods
+      PubMed, Scopus, Cochrane and MedRxiv database were searched using the specific keywords up to April 30, 2020. Studies that met our objectives were assessed for the risk of bias applying various tools as indicated. Three studies each that reported the outcome of viral clearance by RT-PCR and death due to all cause, were meta-analyzed by applying inverse variance-weighted averages of logarithmic risk ratio (RR) using a random effects model. Heterogeneity and publication bias were assessed using the I2 statistic and funnel plots, respectively.
+
+    >>> Results
+      Meta-analysis of 3 studies (n = 210) on viral clearance assessed by RT-PCR showed no benefit (RR, 1.05; 95% CI, 0.79 to 1.38; p = 0.74), although with a moderate heterogeneity (I2 = 61.7%, p = 0.07). While meta-analysis of 3 studies (n = 474) showed a significant increase in death with HCQ, compared to the control (RR, 2.17; 95% 1.32 to 3.57; p = 0.002), without any heterogeneity (I2 = 0.0%, p = 0.43).
+
+    >>> Conclusions
+      No benefit on viral clearance but a significant increase in mortality was observed with HCQ compared to control in patients with COVID-19.
+
+
+
+    / May, 2020 - Diabetes & Metabolic Syndrome: Clinical Research & Reviews
+    let !a self assert =
+
   # Hydroxychloroquine
   // The possible mechanisms of action of 4-aminoquinolines (chloroquine/hydroxychloroquine) against Sars-Cov-2 infection (COVID-19): A role for iron homeostasis?
   doi: https://doi.org/10.1016/j.phrs.2020.104904

@@ -27,6 +27,8 @@ subject module Mitigation
         'Strasser_et_al_05_22_2020
         'Chu_et_al_06_01_2020
         'Stutt_et_al_06_10_2020
+        'Chu_et_al_06_01_2020
+        'Chu_et_al_06_01_2020.!a
         'Setti_et_al_04_23_2020
       -- use of face mask lead to no secondary transmission
         'Hendrix_et_al_07_14_2020
@@ -105,6 +107,7 @@ subject module Mitigation
         'Cowling_et_al_2020.!c
         'Mossong_et_al_2008.!b
         'Lavezzo_et_al_04_18_2020.!e
+        'Chu_et_al_06_01_2020
       -- Six-foot rule
         'Feigin_et_al_1982
         'Setti_et_al_04_23_2020
@@ -226,6 +229,7 @@ subject module Mitigation
         'Flaxman_et_al_2020.!c
         'Flaxman_et_al_2020.!d
         'Flaxman_et_al_2020.!e
+
   / Country Based Mitigation Measures
   subject CountriesMitigation
     head = Country based mitigation measures incorporated by various countries provides valuable insights on effectiveness of several containment measures.

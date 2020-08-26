@@ -17,6 +17,33 @@ feed July2020
 
   #
 
+  # Aersol and Surface Transmission, Nosocomial
+  // Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020
+  doi: https://doi.org/10.3201/eid2607.200885
+  ref 'Guo_et_al_07_26_2020
+    head = We tested air and surface samples. Contamination was greater in intensive care units than general wards. Virus was widely distributed on floors, computer mice, trash cans, and sickbed handrails and was detected in air ≈4 m from patients.
+
+    >>> Abstract
+      To determine distribution of severe acute respiratory syndrome coronavirus 2 in hospital wards in Wuhan, China, we tested air and surface samples. Contamination was greater in intensive care units than general wards. Virus was widely distributed on floors, computer mice, trash cans, and sickbed handrails and was detected in air ≈4 m from patients.
+
+    / July, 2020 - Emerg Infect Dis
+    let !a self assert =
+
+
+  # Environmental Route - waste water, Sewage
+  // An updated min-review on environmental route of the SARS-CoV-2 transmission
+  doi: https://doi.org/10.1016/j.ecoenv.2020.111015
+  ref 'Hoseinzadeh_et_al_07_09_2020
+    head = We describes the SARS-CoV-2 paths of contagion such as drinking water, solid waste, sewer water, ambient air, and the rest of emerging likely paths. ACE2 as a cellular doorway for SARS-CoV-2 entrance can suggest us identifying novel paths of SARS-CoV-2 transmission.
+
+    >>> Abstract
+      The risk of newly emerging diseases is constantly present in a world where changes occur significantly in climatic, commercial, and ecological conditions, in addition to the development of biomedical investigations in new situations. An epidemic respiratory disease instigated by a new coronavirus was initially identified in and has resulted in the current global dissemination. This viral strain and its related disease has been termed “SARS-CoV-2” and “coronavirus disease 2019” (abbreviated “COVID-19” or “2019-nCoV”), respectively, which is transmitted simply between individuals. The World Health Organization (WHO) announced the COVID-19 outburst as a pandemic on March 11, which necessitates a cooperative endeavour globally for mitigating the spread of COVID-19.
+      The absence of previous, and minimum present-day information, particularly concerning the path of contagion have precluded the control of this disease. The present article, therefore, describes the SARS-CoV-2 paths of contagion such as drinking water, solid waste, sewer water, ambient air, and the rest of emerging likely paths.
+
+
+    / July, 2020 - Ecotoxicology and Environmental Safety
+    let !a self assert =
+
   # Hydroxychloroquine
   // Hydroxychloroquine-mediated inhibition of SARS-CoV-2 entry is attenuated by TMPRSS2
   doi: https://doi.org/10.1101/2020.07.22.216150

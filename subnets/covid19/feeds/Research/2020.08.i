@@ -1,6 +1,37 @@
 / August, 2020
 feed August2020
-  
+  --
+    'Boulware_et_al_08_06_2020
+
+
+  # Nosocomial
+  // Toilets dominate environmental detection of severe acute respiratory syndrome coronavirus 2 in a hospital
+  doi: https://doi.org/10.1016/j.scitotenv.2020.141710
+  ref 'Ding_et_al_08_15_2020
+    head = 107 surface samples, 46 air samples, two exhaled condensate samples, and two expired air samples were collected within and beyond four three-bed isolation rooms. The fecal-derived aerosols in patients' toilets contained most of the detected SARS-CoV-2, highlighting the importance of surface and hand hygiene for intervention.
+
+    >>> Abstract
+      Respiratory and fecal aerosols play confirmed and suspected roles, respectively, in transmitting severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). An extensive environmental sampling campaign of both toilet and non-toilet environments was performed in a dedicated hospital building for patients with coronavirus disease 2019 (COVID-19), and the associated environmental factors were analyzed. In total, 107 surface samples, 46 air samples, two exhaled condensate samples, and two expired air samples were collected within and beyond four three-bed isolation rooms. The data of the COVID-19 patients were collected. The building environmental design and the cleaning routines were reviewed. Field measurements of airflow and CO2 concentrations were conducted. The 107 surface samples comprised 37 from toilets, 34 from other surfaces in isolation rooms, and 36 from other surfaces outside the isolation rooms in the hospital. Four of these samples were positive, namely two ward door handles, one bathroom toilet seat cover, and one bathroom door handle. Three were weakly positive, namely one bathroom toilet seat, one bathroom washbasin tap lever, and one bathroom ceiling exhaust louver. Of the 46 air samples, one collected from a corridor was weakly positive. The two exhaled condensate samples and the two expired air samples were negative. The fecal-derived aerosols in patients' toilets contained most of the detected SARS-CoV-2 in the hospital, highlighting the importance of surface and hand hygiene for intervention.
+
+    -- exports
+      !a
+
+    / August, 2020 - Science of The Total Environment
+    let !a self assert =
+
+  # Presymptomatic Tranmission
+  // SARS-CoV-2 Transmission from Presymptomatic Meeting Attendee, Germany
+  doi: 10.3201/eid2608.201235
+  ref 'Hijnen_et_al_08_08_2020
+    head = Presymptomatic attendee with SARS-CoV-2 infected at least 11 of 13 other participants. Our findings suggest hand shaking and face-to-face contact as possible modes of transmission.
+
+    >>> Abstract
+      During a meeting in Munich, Germany, a presymptomatic attendee with severe acute respiratory syndrome coronavirus 2 infected at least 11 of 13 other participants. Although 5 participants had no or mild symptoms, 6 had typical coronavirus disease, without dyspnea. Our findings suggest hand shaking and face-to-face contact as possible modes of transmission.
+
+    / August, 2020 - bioRxiv
+    let !a self assert =
+
+
   # Hydroxychloroquine
   // A Randomized Trial of Hydroxychloroquine as Postexposure Prophylaxis for Covid-19
   doi: https://doi.org/10.1056/NEJMoa2016638

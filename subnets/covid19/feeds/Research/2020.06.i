@@ -53,6 +53,109 @@ feed June2020
 
   #
 
+  # Nosocomial
+  // Risk of nosocomial transmission of coronavirus disease 2019: an experience in a general ward setting in Hong Kong
+  doi: https://doi.org/10.1016/j.jhin.2020.03.036
+  ref 'Wong_et_al_06_01_2020
+    head =  Our findings suggest that SARS-CoV-2 is not spread by an airborne route, and nosocomial transmissions can be prevented through vigilant basic infection control measures, including wearing of surgical masks, hand and environmental hygiene.
+
+    >>> Background
+      Coronavirus disease 2019 (COVID-19) was first reported in Wuhan in December 2019 and has rapidly spread across different cities within and outside China. Hong Kong started to prepare for COVID-19 on 31st December 2019 and infection control measures in public hospitals were tightened to limit nosocomial transmission within healthcare facilities. However, the recommendations on the transmission-based precautions required for COVID-19 in hospital settings vary from droplet and contact precautions, to contact and airborne precautions with placement of patients in airborne infection isolation rooms.
+
+    >>> Aim
+      To describe an outbreak investigation of a patient with COVID-19 who was nursed in an open cubicle of a general ward before the diagnosis was made.
+
+    >>> Method
+      Contacts were identified and risk categorized as 'close' or 'casual' for decisions on quarantine and/or medical surveillance. Respiratory specimens were collected from contacts who developed fever, and/or respiratory symptoms during the surveillance period and were tested for SARS-CoV-2.
+
+    >>> Findings
+      A total of 71 staff and 49 patients were identified from contact tracing, seven staff and 10 patients fulfilled the criteria of 'close contact'. At the end of 28-day surveillance, 76 tests were performed on 52 contacts and all were negative, including all patient close contacts and six of the seven staff close contacts. The remaining contacts were asymptomatic throughout the surveillance period.
+
+    >>> Conclusion
+      Our findings suggest that SARS-CoV-2 is not spread by an airborne route, and nosocomial transmissions can be prevented through vigilant basic infection control measures, including wearing of surgical masks, hand and environmental hygiene.
+
+    -- exports
+      !a
+
+    / June, 2020 - The Journal of hospital Infection
+    let !a self assert =
+
+
+  # Transmission
+  // Recreational waters – A potential transmission route for SARS-CoV-2 to humans?
+  doi: https://doi.org/10.1016/j.scitotenv.2020.140122
+  ref 'Cahill_et_al_06_11_2020
+    head = SARS-CoV-2 virus has been detected in both faecal and wastewater samples across the globe. Further research is warranted to investigate both viability and infectivity of this novel virus in wastewater and in receiving water bodies.
+
+    >>> Abstract
+      Coronavirus disease 2019 (COVID-19), the respiratory illness caused by the novel virus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which has lead to high morbidity and mortality rates worldwide, has been causing major public health concerns since first detected in late 2019. Following identification of novel pathogens, questions in relation to dissemination of the pathogen and transmission routes begin to emerge. This rapidly spreading SARS-CoV-2 virus has been detected in both faecal and wastewater samples across the globe, highlighting the potential for faecal-oral transmission of the virus. As a result, concerns regarding the transmission of the virus in the environment and the risk associated with contracting the virus in recreational waters, particularly where inadequately treated wastewater is discharged, have been emerging in recent weeks. This paper highlights the need for further research to be carried out to investigate the presence, infectivity and viability of this newly identified SARS-CoV-2 virus in wastewater effluent and receiving recreational waters.
+
+    -- exports
+      !a
+
+    / June, 2020 - Science of The Total Environment
+    let !a self assert =
+
+  #  Close Contact
+  // A Cluster of Novel Coronavirus Disease 2019 Infections Indicating Person-to-Person Transmission Among Casual Contacts From Social Gatherings: An Outbreak Case-Contact Investigation
+  doi: https://doi.org/10.1093/ofid/ofaa231
+  ref 'Shen_et_al_06_12_2020
+    head = We report several transmission events to both close and casual contacts. Transmission efficiency among close contacts was higher than among casual contacts.
+
+    >>> Background
+      Severe acute respiratory syndrome coronavirus 2, the pathogen causing novel coronavirus disease of 2019 (COVID-19), efficiently spreads from person to person in close contact settings. Transmission among casual contacts in settings such as during social gatherings is not well understood.
+
+    >>> Methods
+      We report several transmission events to both close and casual contacts from a cluster of 7 COVID-19 cases occurring from mid-January to early February 2020. A total of 539 social and family contacts of the index patient’s, including members of a 2-day wedding and a family party, were contacted and screened through epidemiologic surveys. The clinical progression of all cases is described.
+
+    >>> Results
+      We estimate the secondary attack rate among close contacts to be 29% (2 of 7) and for the casual contacts to be 0.6% (3 of 473). The incubation period of our case cluster was 4–12 days (median, 7 days).
+
+    >>> Conclusions
+      Transmission efficiency among close contacts was higher than among casual contacts; however, transmission from second-generation cases may help spread the virus during the incubation period.
+
+    -- exports
+      !a
+
+    / June, 2020 - Open Forum Infectious Diseases
+    let !a self assert = Person-to-person transmission among casual contacts can and does occur at social gatherings with congregation of large groups of susceptible individuals. More importantly, from an individual perspective, the attack rate from casual contact was much lower than through close contact.
+
+  # Transmission Cluster - Household, Close contact, Shared food, Public transport , Airline , Malls
+  // A Comparison of Infection Venues of COVID-19 Case Clusters in Northeast China
+  doi: https://dx.doi.org/10.3390%2Fijerph17113955
+  ref 'Zhao_et_al_06_03_2020
+    head = This study analysed the epidemic situations in various areas in the three provinces of Northeast China and the effects of various types of infection location on identified COVID-19 clusters.
+
+    >>> Abstract
+      The world has been suffering from the COVID-19 pandemic since late 2019. In this study, we compared various types of infection locations in which COVID-19 cases clustered, based on the data from three adjacent provinces in Northeast China. The collected data include all officially reported cases in this area until 8 March 2020. We explored the associations between the cases and the frequency of infection locations. The COVID-19 epidemic situation was worse in Heilongjiang Province than in Liaoning and Jilin Provinces. Most clustered cases occurred in individual families and/or between relatives. The transmission in public venues served as a hub for transmitting the disease to other families and results in new clusters. The public transport spread the infection over long distances by transporting infected individuals, and most infections did not seem to occur within vehicles. This field study shows the effect of indoor environments on SARS-CoV-2 transmission and our data may be useful in developing guidance for future disease prevention and control.
+
+    -- exports
+      !a
+
+    / June, 2020 - Int J Environ Res Public Health
+    let !a self assert =
+
+  # Face Mask and Social Distancing >1m
+  // Physical distancing, face masks, and eye protection to prevent person-to-person transmission of SARS-CoV-2 and COVID-19: a systematic review and meta-analysis
+  doi: https://doi.org/10.1016/S0140-6736(20)31142-9
+  ref 'Chu_et_al_06_01_2020
+    head = We investigate the optimum distance for avoiding person-to-person virus transmission and assess the use of face masks and eye protection Transmission was lower with physical distancing of 1 m or more, compared with less than 1 m.
+
+    >>> Background
+      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) causes COVID-19 and is spread person-to-person through close contact. We aimed to investigate the effects of physical distance, face masks, and eye protection on virus transmission in health-care and non-health-care (eg, community) settings.
+    >>> Methods
+      We did a systematic review and meta-analysis to investigate the optimum distance for avoiding person-to-person virus transmission and to assess the use of face masks and eye protection to prevent transmission of viruses. We obtained data for SARS-CoV-2 and the betacoronaviruses that cause severe acute respiratory syndrome, and Middle East respiratory syndrome from 21 standard WHO-specific and COVID-19-specific sources. We searched these data sources from database inception to May 3, 2020, with no restriction by language, for comparative studies and for contextual factors of acceptability, feasibility, resource use, and equity. We screened records, extracted data, and assessed risk of bias in duplicate. We did frequentist and Bayesian meta-analyses and random-effects meta-regressions. We rated the certainty of evidence according to Cochrane methods and the GRADE approach. This study is registered with PROSPERO, CRD42020177047.
+    >>> Findings
+      Our search identified 172 observational studies across 16 countries and six continents, with no randomised controlled trials and 44 relevant comparative studies in health-care and non-health-care settings (n=25 697 patients). Transmission of viruses was lower with physical distancing of 1 m or more, compared with a distance of less than 1 m (n=10 736, pooled adjusted odds ratio [aOR] 0·18, 95% CI 0·09 to 0·38; risk difference [RD] −10·2%, 95% CI −11·5 to −7·5; moderate certainty); protection was increased as distance was lengthened (change in relative risk [RR] 2·02 per m; pinteraction=0·041; moderate certainty). Face mask use could result in a large reduction in risk of infection (n=2647; aOR 0·15, 95% CI 0·07 to 0·34, RD −14·3%, −15·9 to −10·7; low certainty), with stronger associations with N95 or similar respirators compared with disposable surgical masks or similar (eg, reusable 12–16-layer cotton masks; pinteraction=0·090; posterior probability >95%, low certainty). Eye protection also was associated with less infection (n=3713; aOR 0·22, 95% CI 0·12 to 0·39, RD −10·6%, 95% CI −12·5 to −7·7; low certainty). Unadjusted studies and subgroup and sensitivity analyses showed similar findings.
+    >>> Interpretation
+      The findings of this systematic review and meta-analysis support physical distancing of 1 m or more and provide quantitative estimates for models and contact tracing to inform policy. Optimum use of face masks, respirators, and eye protection in public and health-care settings should be informed by these findings and contextual factors. Robust randomised trials are needed to better inform the evidence for these interventions, but this systematic appraisal of currently best available evidence might inform interim guidance.
+
+    -- exports
+      !a
+
+    / June, 2020 - The Lancet
+    let !a self assert = Face mask use could result in a large reduction in risk of infection. Eye protection also was associated with less infection
+
 
   # Hydroxychloroquine
   // Controlled, double-blind, randomized trial to assess the efficacy and safety of hydroxychloroquine chemoprophylaxis in SARS CoV2 infection in healthcare personnel in the hospital setting: A structured summary of a study protocol for a randomised controlled trial
@@ -955,7 +1058,7 @@ feed June2020
   // Exhaled breath is a significant source of SARS-CoV-2 emission
   doi: https://doi.org/10.1101/2020.05.31.20115154
   ref 'Ma_et_al_06_02_2020
-    head = 35 COVID-19 subjects were recruited; Exhaled breath condensate (EBC), air samples and surface swabs were collected and analyzed for SARS-CoV-2 using RT-PCR. EBC samples had the highest positive rate, followed by surface swabs, and air samples.
+    head = 35 COVID-19 subjects were recruited; Exhaled breath condensate (EBC), air samples and surface swabs were collected and analyzed for SARS-CoV-2 using RT-PCR. EBC samples had the highest positive rate, followed by surface swabs, and air samples. Airborne transmission of SARS-CoV-2 plays a major role in COVID-19 spread, especially during the early stages of the disease.
 
     >>> Abstract
       Despite notable efforts in airborne SARS-CoV-2 detection, no clear evidence has emerged to show how SARS-CoV-2 is emitted into the environments. Here, 35 COVID-19 subjects were recruited; exhaled breath condensate (EBC), air samples and surface swabs were collected and analyzed for SARS-CoV-2 using reverse transcription-polymerase chain reaction (RT-PCR). EBC samples had the highest positive rate (16.7%, n=30), followed by surface swabs (5.4%, n=242), and air samples (3.8%, n=26). COVID-19 patients were shown to exhale SARS-CoV-2 into the air at an estimated rate of 103-105 RNA copies/min; while toilet and floor surfaces represented two important SARS-CoV-2 reservoirs. Our results imply that airborne transmission of SARS-CoV-2 plays a major role in COVID-19 spread, especially during the early stages of the disease.
@@ -1895,7 +1998,7 @@ feed June2020
   # Face masks, N95, discuss with AYUSH- c, d, e, f
   // Physical distancing, face masks, and eye protection to prevent person-to-person transmission of SARS-CoV-2 and COVID-19: a systematic review and meta-analysis
   doi: https://doi.org/10.1016/S0140-6736(20)31142-9
-  article 'Chu_et_al_06_01_2020
+  article 'Chu_et_al_06_01_2020b
     head = The findings of this systematic review and meta-analysis support that physical distancing of at least 1 m is strongly associated with protection, but distances of up to 2 m might be more effective. Although direct evidence is limited, the optimum use of face masks, in particular N95 or similar respirators in health-care settings and 12–16-layer cotton or surgical masks in the community, could depend on contextual factors; action is needed at all levels to address the paucity of better evidence. Eye protection might provide additional benefits.
 
     >>> Background
