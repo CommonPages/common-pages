@@ -4,6 +4,35 @@ feed August2020
     'Boulware_et_al_08_06_2020
 
 
+  # Side effects Hydroxychloroquine
+  // Safety of hydroxychloroquine in COVID-19 and other diseases: a systematic review and meta-analysis of 53 randomized trials
+  doi: https://doi.org/10.1007/s00228-020-02962-5
+  ref 'Chen_et_al_08_11_2020
+    head = We identified 53 eligible studies involving 5496 patients. HCQ is associated with more total AEs (Adverse Effects), gastrointestinal AEs, and skin and subcutaneous tissue AEs compared with placebo or no intervention in the overall population.
+
+    >>> Objectives
+      The purpose of this study was to evaluate the safety of HCQ in the treatment of COVID-19 and other diseases by performing a systematic review and meta-analysis.
+
+    >>> Methods
+      Randomized controlled trials (RCTs) reporting the safety of HCQ in PubMed, Embase, and Cochrane Library were retrieved starting from the establishment of the database till June 5, 2020. Literature screening, data extraction, and assessment of risk bias were performed independently by two reviewers.
+
+    >>> Results
+      We identified 53 eligible studies involving 5496 patients. The meta-analysis indicated that the risk of adverse effects (AEs) in the HCQ group was significantly increased compared with that in the control group (RD 0.05, 95%CI, 0.02 to 0.07, P = 0.0002), and the difference was also statistically significant in the COVID-19 subgroup (RD 0.15, 95%CI, 0.07 to 0.23, P = 0.0002) as well as in the subgroup for other diseases (RD 0.03, 95%CI, 0.01 to 0.04, P = 0.003).
+
+    >>> Conclusions
+      HCQ is associated with a high total risk of AEs compared with the placebo or no intervention in the overall population. Given the small number of COVID-19 participants included, we should be cautious regarding the conclusion stating that HCQ is linked with an increase incidence of AEs in patients with COVID-19, which we hope to confirm in the future through well-designed and larger sample size studies.
+
+    -- exports
+      !a
+      !b
+
+    / August, 2020 - European Journal of Clinical Pharmacology
+    let !a self assert =  The risks of gastrointestinal AEs, skin and subcutaneous tissue disorders AEs, and treatment discontinuation due to AEs in the HCQ group were higher than in the control group. It is worth mentioning that patients treated with HCQ did not have a significantly increased risk of ophthalmic AEs, cardiac AEs, and total SAEs compared to those who were not treated with HCQ.
+
+    / August, 2020 - European Journal of Clinical Pharmacology
+    let !b self assert = There were two SAEs reported in the HCQ group, one being erythema multiforme and the other one being acute generalized erythematous pustulosis, while none were reported in the control group. Previous studies revealed that skin ADRs generally occurred 5~14 days after the beginning of HCQ therapy, and the rash was characterized as lichen-like, urticaria or simply rash. Additionally, the symptoms were generally mild, which could be relieved after withdrawal of therapy
+
+
   # Nosocomial
   // Toilets dominate environmental detection of severe acute respiratory syndrome coronavirus 2 in a hospital
   doi: https://doi.org/10.1016/j.scitotenv.2020.141710

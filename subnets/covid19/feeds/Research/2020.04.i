@@ -108,7 +108,49 @@ feed April2020
 
   #
 
-  
+  # Hydroxychloroquine
+  // A systematic review of the prophylactic role of chloroquine and hydroxychloroquine in coronavirus disease‐19 (COVID‐19)
+  doi: https://doi.org/10.1111/1756-185X.13842
+  ref 'Shah_et_al_04_13_2020
+    head = A total of 45 articles were screened and 5 (3 in vitro pre‐clinical studies and 2 clinical opinions) were included to evaluate the prophylactic role of CQ or HCQ on SARS‐CoV‐2. Although pre‐clinical results are promising, to date there is a dearth of evidence to support the efficacy of CQ or HCQ in preventing COVID‐19.
+
+    >>> Objective
+      The pandemic coronavirus disease‐19 (COVID‐19) has pushed the global healthcare system to a crisis and amounted to a huge economic burden. Different drugs for prophylaxis against COVID‐19 including chloroquine (CQ) or hydroxychloroquine (HCQ) have been tried. This study was performed to systematically review the role of CQ and HCQ in preventing the spread of COVID‐19.
+
+    >>> Methods
+      PubMed, EMBASE, ClinicalTrials.gov, International Clinical Trials Registry Platform and Cochrane Library databases were searched for studies that evaluated the prophylactic role of CQ or HCQ on SARS‐CoV‐2 (pre‐clinical studies) or COVID‐19 (clinical studies) until 30 March 2020. The available literature was critically appraised.
+
+    >>> Results
+      A total of 45 articles were screened and 5 (3 in vitro pre‐clinical studies and 2 clinical opinions) were included. The pre‐clinical studies showed the prophylactic effects of CQ and HCQ against SARS‐CoV‐2. On the other hand, the clinical opinions advocated the prophylactic use of CQ and HCQ against COVID‐19. However, no original clinical studies on the prophylactic role of CQ or HCQ on COVID‐19 were available.
+
+    >>> Conclusion
+      Although pre‐clinical results are promising, to date there is a dearth of evidence to support the efficacy of CQ or HCQ in preventing COVID‐19. Considering potential safety issues and the likelihood of imparting a false sense of security, prophylaxis with CQ or HCQ against COVID‐19 needs to be thoroughly evaluated in observational studies or high‐quality randomized controlled studies.
+
+    / April, 2020 - International Journal of Rheumatic Diseases
+    let !a self assert =
+
+
+  # Hydroxychloroquine - Prophylaxis
+  // Hydroxychloroquine and ivermectin: A synergistic combination for COVID-19 chemoprophylaxis and treatment?
+  doi: https://doi.org/10.1016/j.jaad.2020.04.017
+  ref 'Patri_et_al_04_10_2020
+    head = We hypothesize that HCQ and ivermectin may show a consequential and synergistic action if administered simultaneously both for chemoprophylaxis and treatment of COVID-19.
+
+
+    / April, 2020 - Jounral of American Academy of Dermatology
+    let !a self assert =
+
+  # Hydroxychloroquine
+  // Perspectives on repositioning chloroquine and hydroxychloroquine for the treatment of Covid-19
+  doi: https://dx.doi.org/10.24911/SJP.106-1587122398
+  ref 'Adeel_et_al_04_20_2020
+    head = CQ is cheap, stable under field conditions and has been well tolerated as an antimalarial. This experience could be adapted to deploy CQ or HCQ for prophylaxis or treatment of COVID19. We are presenting the current status of evidence for using CQ and HCQ against COVID19.
+
+    >>> Abstract
+      Coronavirus disease 2019 (COVID-19) is now spreading as a pandemic ravaging the whole world. In the absence of a vaccine and an effective antiviral chemotherapy, there is currently an intense global interest in repositioning chloroquine (CQ) and its derivative hydroxychloroquine (HCQ) to combat the pandemic. CQ has been used for decades for the treatment and prophylaxis against malaria in endemic countries. It is readily available and has also been manufactured in these countries. CQ is cheap, stable under field conditions and has been well tolerated as an antimalarial. This experience could be adapted to deploy CQ or HCQ for prophylaxis or treatment of COVID19 if strong evidence could be generated for these uses. We believe that well-designed drug trials should be initiated in malaria-endemic countries, taking into account the local context of the epidemic and the capacity of the health system in combating it. In this paper, we are presenting the current status of evidence for using CQ and HCQ against COVID19.
+
+    / April, 2020 - Sudanese Journal of Paediatrics
+    let !a self assert =
 
   # Nosocomial Tranmission and Mitigatin !a
   // Transmission of COVID-19 to Health Care Personnel During Exposures to a Hospitalized Patient - Solano County, California, February 2020
@@ -778,6 +820,7 @@ feed April2020
 
 
   # Therapeutics - Can be used in knowledge base # frontiers
+  / Compound against Covid19
   // A SARS-CoV-2 protein interaction map reveals targets for drug repurposing
   doi: https://doi.org/10.1038/s41586-020-2286-9
   ref 'Gordon_et_al_04_30_2020

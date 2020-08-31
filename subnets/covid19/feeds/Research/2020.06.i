@@ -53,6 +53,22 @@ feed June2020
 
   #
 
+  # Hydroxychloroquine - Narrative Paper for rationale? 
+  // Hydroxychloroquine and Covid-19: A Cellular and Molecular Biology Based Update
+  doi: https://doi.org/10.1007/s12291-020-00900-x
+  ref 'Pal_et_al_06_10_2020
+    head = In this review, we will study the cellular and molecular aspects of hydroxychloroquine, which had driven its use in Covid-19 patients, as well as its chemistry and pharmacokinetics along with clinical trials going on worldwide using hydroxychloroquine against Covid-19.
+
+    >>> Abstract
+      As the time for finding a definitive and safe cure as a vaccine for novel Corona Virus Disease 2019 (Covid-19) is still far, there is need to study in depth about the other potential drugs, which can save millions of lives due to Covid-19 pandemic. Right at the center of the debate is the use of drug “Hydroxychloroquine” as a prophylaxis as well as a treatment strategy against Covid-19 in conjunction with azithromycin. In this review, we will study the cellular and molecular aspects of hydroxychloroquine, which had driven its use in Covid-19 patients, as well as its chemistry and pharmacokinetics along with clinical trials going on worldwide using hydroxychloroquine against Covid-19.
+
+    -- exports
+      !a
+
+    / June, 2020 - Indian Journal of Clinical Biochemistry
+    let !a self assert = At the molecular level, hydroxychloroquine affects the activity of lysosomes and in turn autophagy and disrupts lysosomal membrane stability. At the cellular level also, the precise mode of action of hydroxychloroquine is yet to be delineated. Based upon current understanding, hydroxychloroquine has been shown to inhibit immune system activation.
+
+
   # Nosocomial
   // Risk of nosocomial transmission of coronavirus disease 2019: an experience in a general ward setting in Hong Kong
   doi: https://doi.org/10.1016/j.jhin.2020.03.036

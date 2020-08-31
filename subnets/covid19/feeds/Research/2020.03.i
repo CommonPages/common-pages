@@ -114,7 +114,31 @@ feed March2020
 
   #
 
-  # Social Distancing , Tracing 
+  # Hydroxychloroquine
+  // COVID-19: a recommendation to examine the effect of hydroxychloroquine in preventing infection and progression
+  doi: https://doi.org/10.1093/jac/dkaa114
+  ref 'Zhou_et_al_03_20_2020
+    head =  We propose that HCQ could serve as a better therapeutic approach than CQ for the treatment of SARS-CoV-2 infection.
+
+    >>> Abstract
+      A novel coronavirus disease (COVID-19), caused by infection with SARS-CoV-2, has swept across 31 provinces in China and over 40 countries worldwide. The transition from first symptoms to acute respiratory distress syndrome (ARDS) is highly likely to be due to uncontrolled cytokine release. There is an urgent need to identify safe and effective drugs for treatment. Chloroquine (CQ) exhibits a promising inhibitory effect. However, the clinical use of CQ can cause severe side effects. We propose that hydroxychloroquine (HCQ), which exhibits an antiviral effect highly similar to that of CQ, could serve as a better therapeutic approach. HCQ is likely to attenuate the severe progression of COVID-19, inhibiting the cytokine storm by suppressing T cell activation. It has a safer clinical profile and is suitable for those who are pregnant. It is cheaper and more readily available in China. We herein strongly urge that clinical trials are performed to assess the preventive effects of HCQ in both disease infection and progression.
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / March, 2020 - Journal of Antimicrobial Chemotherapy
+    let !a self assert = HCQ is likely to attenuate the severe progression of COVID-19 through inhibiting the cytokine storm by reducing CD154 expression in T cells
+
+    / March, 2020 - Journal of Antimicrobial Chemotherapy
+    let !b self assert = HCQ may confer a similar antiviral effect at both pre- and post- infection stages, as found with CQ
+
+    / March, 2020 - Journal of Antimicrobial Chemotherapy
+    let !c self assert = HCQ has fewer side effects, is safe in pregnancy and is cheaper and more highly available in China. 
+
+
+  # Social Distancing , Tracing
   // High transmissibility of COVID-19 near symptom onset
   doi: https://doi.org/10.1101/2020.03.18.20034561
   ref 'Cheng_et_al_03_19_2020

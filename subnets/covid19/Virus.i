@@ -226,7 +226,6 @@ subject module Virus
           'Ahlawat_et_al_07_21_2020
           'Guenther_et_al_07_23_2020
           'Li_et_al_04_22_2020
-
         -- Mechanism/ Common pathogen exchange pathways and mechanisms
           'Wang_et_al_04_05_2011
           'Morawska_et_al_06_09_2006
@@ -237,7 +236,6 @@ subject module Virus
           'Chen_et_al_08_01_2020
           'Zhang_et_al_04_07_2020
           'Bourouiba_et_al_03_26_2020
-
         --
           AerosolToilet
         # Close Enviornment
@@ -612,8 +610,6 @@ subject module Virus
         'Adam_et_al_2020.!a
         'Miller_et_al_2020b.!b
         'Endo_et_al_04_09_2020
-
-
 
 
     / R<sub>0</sub>

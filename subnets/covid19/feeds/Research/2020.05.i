@@ -116,7 +116,7 @@ feed May2020
 
   #
 
-  # Nosocomial - No Aersol - Surface 
+  # Nosocomial - No Aersol - Surface
   // Environmental contamination by SARS-CoV-2 in a designated hospital for coronavirus disease 2019
   doi: https://doi.org/10.1016/j.ajic.2020.05.003
   ref 'Wu_et_al_05_11_2020
@@ -179,9 +179,6 @@ feed May2020
     >>> Conclusion
       The infection rate of close contacts of COVID-19 cases is high, and isolation medical observation measures should be implemented in strict accordance with the close contact management plan.
 
-    -- exports
-      !a
-
     / February, 2020 - bioRxiv
     let !a self assert =
 
@@ -221,7 +218,7 @@ feed May2020
     / May, 2020 - medRxiv
     let !a self assert =
 
-  #
+  # Hydroxychloroquine
   // Hydroxychloroquine in patients with COVID-19: A Systematic Review and meta-analysis
   doi: https://doi.org/10.1016/j.dsx.2020.05.017
   ref 'Singh_et_al_05_12_2020
@@ -238,8 +235,6 @@ feed May2020
 
     >>> Conclusions
       No benefit on viral clearance but a significant increase in mortality was observed with HCQ compared to control in patients with COVID-19.
-
-
 
     / May, 2020 - Diabetes & Metabolic Syndrome: Clinical Research & Reviews
     let !a self assert =

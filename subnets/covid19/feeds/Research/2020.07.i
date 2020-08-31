@@ -17,6 +17,40 @@ feed July2020
 
   #
 
+  # Hydroxychloroquine
+  // Molecular Insights on Potential Combination of Mapk Inhibitors Together with HCQ and HCQs Analogs in Viral Infection
+  doi: https://doi.org/10.20944/preprints202007.0201.v1
+  ref 'Mohanta_et_al_07_10_2020
+    head = Understanding the MAPK (Mitogen Activated Protein Kinase) cascade mechanisms in sustaining infection may be relevant for this pandemic. Moreover, any knowledge we can add to the correlation between MAPK cascade and HCQ could pave the way to new molecular approaches to this severe disease.
+
+    / July, 2020 - Molecular Biology
+    let !a self assert =
+
+  # Hydroxychloroquine
+  // High doses of hydroxychloroquine do not affect viral clearance in patients with SARS‐CoV‐2 infection
+  doi: https://doi.org/10.1111/eci.13358
+  ref 'Taramasso_et_al_07_23_2020
+    head = In our study, a relevant proportion of patients with COVID‐19 did not achieve rapid viral clearance after 7‐day course of high dose of Hydroxychloroquine treatment.
+
+    / July, 2020 - European Journal of Clinical Investigation
+    let !a self assert =
+
+  # Hydroxychloroquine
+  // Chloroquine and hydroxychloroquine in coronavirus disease 2019 (COVID-19). Facts, fiction and the hype: a critical appraisal
+  doi: https://doi.org/10.1016/j.ijantimicag.2020.106101
+  ref 'Khuroo_et_al_07_17_2020
+    head = Hydroxychloroquine has been used as a desperate attempt for prophylaxis and treatment of COVID-19. The drug has wide-ranging drug interactions and potential cardiotoxicity. Indiscriminate unsupervised use can expose the public to serious adverse drug effects.
+
+    >>> Abstract
+      The coronavirus infection (COVID-19) has turned into a global catastrophe and there is an intense search for effective drug therapy. Of all the potential therapies, chloroquine and hydroxychloroquine have been the focus of tremendous public attention. Both drugs have been used in the treatment and prophylaxis of malaria. Long-term use of hydroxychloroquine is the cornerstone in the treatment of several auto-immune disorders. There is convincing evidence that hydroxychloroquine has strong in vitro antiviral activity against SARS-CoV-2. A few small uncontrolled trials and several anecdotal reports have shown conflicting results of such drug therapy in COVID-19. However, the results of preliminary large-scale randomized controlled trials have failed to show any survival benefit of such drug therapy in COVID-19. Despite the lack of such evidence, hydroxychloroquine has been used as a desperate attempt for prophylaxis and treatment of COVID-19. The drug has wide-ranging drug interactions and potential cardiotoxicity. Indiscriminate unsupervised use can expose the public to serious adverse drug effects.
+
+    -- exports
+      !a
+
+    / July, 2020 - Elsevier
+    let !a self assert =
+
+
   # Aersol and Surface Transmission, Nosocomial
   // Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020
   doi: https://doi.org/10.3201/eid2607.200885
