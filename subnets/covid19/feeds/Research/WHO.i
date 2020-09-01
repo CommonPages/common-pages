@@ -1,0 +1,1140 @@
+feed WHO
+  #
+
+
+  #
+  // DUMMY TITLE
+  doi: https://doi.org/xyz
+  ref 'Xiao_et_al_12_02_2016
+    head =
+
+    -- exports
+      !a
+
+    / December, 2016 - bioRxiv
+    let !a self assert =
+
+  #
+  // DUMMY TITLE
+  doi: https://doi.org/xyz
+  ref 'Xiao_et_al_12_02_2016
+    head =
+
+    -- exports
+      !a
+
+    / December, 2016 - bioRxiv
+    let !a self assert =
+
+
+  #
+  // DUMMY TITLE
+  doi: https://doi.org/xyz
+  ref 'Xiao_et_al_12_02_2016
+    head =
+
+    -- exports
+      !a
+
+    / December, 2016 - bioRxiv
+    let !a self assert =
+
+
+
+  # asymptomatic, family cluster, household
+  // Asymptomatic cases in a family cluster with SARS-CoV-2 infection.
+  doi: https://doi.org/10.1016/S1473-3099(20)30114-6
+  ref 'Pan_et_al_02_19_2020
+    head = In this family cluster, although all individuals tested positive for SARS-CoV-2 infection on qRT-PCR, only patient 1 (35-year-old man) showed clinical symptoms, decreased lymphocyte count, and abnormal chest CT images. By contrast, the other two family members—a 33-year-old woman (patient 2) and a 3-year-old boy (patient 3)—were both asymptomatic, with normal lymphocyte counts and chest CT images but positive qRT-PCR results.
+
+    / February, 2020 - Lancet Infect Dis.
+    let !a self assert =
+
+
+
+  # asymptomatictransmission, contact tracing, AsymptomaticPhase
+  // Characterization of an asymptomatic cohort of SARS-COV2 infected individuals outside of Wuhan, China
+  doi: https://doi.org/10.1093/cid/ciaa629
+  ref 'Wang_et_al_05_22_2020
+    head = A portion of asymptomatic individuals were capable of transmitting the virus to others. Given the frequency and potential infectiousness of asymptomatic infections, testing of traced contacts is essential.
+
+    >>> Purpose
+      We aimed to further clarify the epidemiological and clinical characteristics of asymptomatic severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infections.
+
+    >>> Methods
+      We identified close contacts of confirmed coronavirus disease 2019 (COVID-19) cases in northeast Chongqing, China, who were confirmed by real-time reverse transcription polymerase chain reaction-positive (RT-PCR+). We stratified this cohort by normal vs abnormal findings on chest computed tomography (CT) and compared the strata regarding comorbidities, demographics, laboratory findings, viral transmission and other factors.
+
+    >>> Results
+      Between January 2020 and March 2020, we identified and hospitalized 279 RT-PCR+ contacts of COVID-19 patients. 63 (23%) remained asymptomatic until discharge; 29 had abnormal and 34 had normal chest CT findings. The mean cohort age was 39.3 years, and 87.3% had no comorbidities. Mean time to diagnosis after close contact with a COVID-19 index patient was 16.0 days, and it was 13.4 days and 18.7 days for those with abnormal and normal CT findings, respectively (P < .05). Nine patients (14.3%) transmitted the virus to others; 4 and 5 were in the abnormal and normal CT strata, respectively. The median length of time for nucleic acid to turn negative was 13 days compared with 10.4 days in those with normal chest CT scans (P < .05).
+
+    >>> Conclusions
+      A portion of asymptomatic individuals were capable of transmitting the virus to others. Given the frequency and potential infectiousness of asymptomatic infections, testing of traced contacts is essential. Studies of the impact of treatment of asymptomatic RT-PCR+ individuals on disease progression and transmission should be undertaken.
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / May, 2020 -  Clin Infect Dis.
+    let !a self assert = Mean time to diagnosis after close contact with a COVID-19 index patient was 16.0 days with a maximum of 29 days, and it was 13.4 days and 18.7 days for those with abnormal and normal CT findings, respectively. This suggests that RT-PCR screening should be undertaken even if an individual shows no symptoms more than 14 days after close contact with an infected person.
+
+    / May, 2020 -  Clin Infect Dis.
+    let !b self assert = The median length of time for nucleic acid to turn negative was 13 days compared with 10.4 days in those with normal chest CT scans.
+
+    / May, 2020 -  Clin Infect Dis.
+    let !c self assert = Young individuals with normal immune function and without comorbidities are more likely to become asymptomatically infected.
+
+
+
+  # 7 clusters, presymptomatic transmission, Singapore, date check
+  // Presymptomatic Transmission of SARS-CoV-2 — Singapore, January 23–March 16, 2020
+  doi: http://dx.doi.org/10.15585/mmwr.mm6914e1
+  ref 'Wei_et_al_04_01_2020
+    head = Investigation of all 243 cases of COVID-19 identified seven clusters of cases in which presymptomatic transmission is the most likely explanation for the occurrence of secondary cases. Public health officials conducting contact tracing should strongly consider including a period before symptom onset to account for the possibility of presymptomatic transmission. The potential for presymptomatic transmission underscores the importance of social distancing, including the avoidance of congregate settings, to reduce COVID-19 spread.
+
+    / April, 2020 - MMWR Early Release
+    let !a self assert =
+
+
+
+  #  Taiwan, secondary attack rate, household
+  // Contact Tracing Assessment of COVID-19 Transmission Dynamics in Taiwan and Risk at Different Exposure Periods Before and After Symptom Onset.
+  doi: https://doi.org/10.1001/jamainternmed.2020.2020
+  ref 'Cheng_et_al_05_01_2020
+    head = High transmissibility of COVID-19 before and immediately after symptom onset suggests that finding and isolating symptomatic patients alone may not suffice to contain the epidemic, and more generalized measures may be required, such as social distancing.
+
+    >>> Importance
+      The dynamics of coronavirus disease 2019 (COVID-19) transmissibility are yet to be fully understood. Better understanding of the transmission dynamics is important for the development and evaluation of effective control policies.
+
+    >>> Objective
+      To delineate the transmission dynamics of COVID-19 and evaluate the transmission risk at different exposure window periods before and after symptom onset.
+
+    >>> Design, Setting, and Participants
+      This prospective case-ascertained study in Taiwan included laboratory-confirmed cases of COVID-19 and their contacts. The study period was from January 15 to March 18, 2020. All close contacts were quarantined at home for 14 days after their last exposure to the index case. During the quarantine period, any relevant symptoms (fever, cough, or other respiratory symptoms) of contacts triggered a COVID-19 test. The final follow-up date was April 2, 2020.
+
+    >>> Main Outcomes and Measures
+      Secondary clinical attack rate (considering symptomatic cases only) for different exposure time windows of the index cases and for different exposure settings (such as household, family, and health care).
+
+    >>> Results
+      We enrolled 100 confirmed patients, with a median age of 44 years (range, 11-88 years), including 56 men and 44 women. Among their 2761 close contacts, there were 22 paired index-secondary cases. The overall secondary clinical attack rate was 0.7% (95% CI, 0.4%-1.0%). The attack rate was higher among the 1818 contacts whose exposure to index cases started within 5 days of symptom onset (1.0% [95% CI, 0.6%-1.6%]) compared with those who were exposed later (0 cases from 852 contacts; 95% CI, 0%-0.4%). C The attack rate was higher among household (4.6% [95% CI, 2.3%-9.3%]) and nonhousehold (5.3% [95% CI, 2.1%-12.8%]) family contacts than that in health care or other settings. The attack rates were higher among those aged 40 to 59 years (1.1% [95% CI, 0.6%-2.1%]) and those aged 60 years and older (0.9% [95% CI, 0.3%-2.6%]).
+
+    >>> Conclusions and Relevance
+      In this study, high transmissibility of COVID-19 before and immediately after symptom onset suggests that finding and isolating symptomatic patients alone may not suffice to contain the epidemic, and more generalized measures may be required, such as social distancing.
+
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+
+    / May, 2020 - JAMA Intern Med.
+    let !a self assert = Among their 2761 close contacts, there were 22 paired index-secondary cases. The overall secondary clinical attack rate was 0.7%.
+
+    / May, 2020 - JAMA Intern Med.
+    let !b self assert = The attack rate was higher among the 1818 contacts whose exposure to index cases started within 5 days of symptom onset (1.0% [95% CI, 0.6%-1.6%]) compared with those who were exposed later (0 cases from 852 contacts; 95% CI, 0%-0.4%).
+
+    / May, 2020 - JAMA Intern Med.
+    let !c self assert = The attack rate was higher among household (4.6% [95% CI, 2.3%-9.3%]) and nonhousehold (5.3% [95% CI, 2.1%-12.8%]) family contacts than that in health care or other settings.
+
+    / May, 2020 - JAMA Intern Med.
+    let !d self assert = The attack rates were higher among those aged 40 to 59 years (1.1% [95% CI, 0.6%-2.1%]) and those aged 60 years and older (0.9% [95% CI, 0.3%-2.6%]).
+
+
+  # couldn't find content
+  // Medical Face Masks -Requirements and Test Methods.
+  doi: https://www.en-standard.eu/une-en-14683-2019-ac-2019-medical-face-masks-requirements-and-test-methods/
+  ref 'EuropeanStandards_2019
+    head =
+
+    / 2019 - European Standards
+    let !a self assert =
+
+
+
+  # Bacterial Filtration Efficiency, Eye And Face Protective Equipment, Health Care Facilities, Medical Face Masks
+  // Specification for Performance of Materials Used in Medical Face Masks.
+  doi: https://doi.org/10.1520/F2100-19E01
+  ref 'ASTMInternational_2019
+    head = This specification covers the classifications, performance requirements, and test methods for the materials used in the construction of medical face masks that are used in health care services such as surgery and patient care.
+
+    >>> Abstract
+      This specification covers the classifications, performance requirements, and test methods for the materials used in the construction of medical face masks that are used in health care services such as surgery and patient care. Medical face mask material performance is based on testing for bacterial filtration efficiency, differential pressure, sub-micron particulate filtration efficiency, resistance to penetration by synthetic blood, and flammability. This specification does not address all aspects of medical face mask design and performance, the effectiveness of medical face mask designs as related to the barrier and breathability properties, and respiratory protection, which may be necessary for some health care services.
+
+
+    / 2019 - ASTM International.
+    let !a self assert =
+
+
+  # guideline
+  // National Institute for Occupational Safety and Health (NIOSH). NIOSH Guide to the Selection and Use of Particulate Respirators.
+  doi: https://www.cdc.gov/niosh/docs/96-101/default.html
+  ref 'NIOSH_01_1996
+    head = This guide was designed to explain the new regulation and to provide valuable information for selecting and using the new respirators certified by NIOSH.
+
+    / January, 1996 -  Department of Health and Human Services (DHHS) NIOSH
+    let !a self assert =
+
+
+
+  # Masks (protective clothing), Protective clothing, Breathing apparatus, Respirators, Air filters, Filters, Safety devices, Marking, Particulate air pollutants, Particulate materials
+  // Respiratory protective devices-Filtering half masks to protect against particles Requirements, testing, marking
+  doi: https://shop.bsigroup.com/ProductDetail?pid=000000000030178264
+  ref 'BSI_06_15_2001
+    head =  This European Standard specifies minimum requirements for filtering half masks as respiratory protective devices to protect against particles except for escape purposes. Laboratory and practical performance tests are included for the assessment of compliance with the requirements.
+
+
+    / June, 2001 - BSI
+    let !a self assert =
+
+
+
+  # SSC guideline
+  // Surviving Sepsis Campaign (SSC). Guidelines on the Management of Critically Ill Adults with Coronavirus Disease 2019 (COVID-19).
+  doi: https://www.sccm.org/SurvivingSepsisCampaign/Guidelines/COVID-19
+  ref 'SSCM_03_20_2020
+    head = The SSC COVID-19 subcommittee panel (36 experts from 12 countries) issued 53 statements based on the available evidence, four of which are best practices based on high-quality evidence.
+
+
+    / March, 2020 - Mount Prospect: Society for Critical Care Medicine
+    let !a self assert =
+
+
+
+  # nonsomical mitigation
+  // Infectious Diseases Society of America Guidelines on Infection Prevention for Health Care Personnel Caring for Patients with Suspected or Known COVID-19.
+  doi: https://doi.org/10.1093/cid/ciaa1063
+  ref 'Lynch_et_al_06_27_2020
+    head = Using a combination of direct and indirect evidence, the panel was able to provide recommendations for eight specific questions on the use of PPE for HCP providing care for patients with suspected or known COVID-19. Where evidence was lacking, attempts were made to provide potential avenues for investigation. There remain significant gaps in the understanding of the transmission dynamics of SARS-CoV-2 and PPE recommendations may need to be modified in response to new evidence.
+
+    >>> Background
+      SARS-CoV-2 is a highly transmissible virus that can infect health care personnel and patients in health care settings. Specific care activities, in particular aerosol-generating procedures, may have a higher risk of transmission. The rapid emergence and global spread of SARS-CoV-2 has created significant challenges in health care facilities, particularly with severe shortages of personal protective equipment (PPE) used to protect health care personnel (HCP). Evidence-based recommendations for what PPE to use in conventional, contingency and crisis standards of care are needed. Where evidence is lacking, the development of specific research questions can help direct funders and investigators.
+
+    >>> Objective
+      Develop evidence-based rapid guidelines intended to support HCP in their decisions about infection prevention when caring for patients with suspected or known COVID-19.
+
+    >>> Methods
+      IDSA formed a multidisciplinary guideline panel including front-line clinicians, infectious disease specialists, experts in infection control and guideline methodologists with representation from the disciplines of preventive care, public health, medical microbiology, pediatrics, critical care medicine and gastroenterology.  The process followed a rapid recommendation checklist. The panel prioritized questions and outcomes. Then a systematic review of the peer-reviewed and grey literature was conducted. The Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach was used to assess the certainty of evidence and make recommendations.
+
+    >>> Results
+      The IDSA guideline panel agreed on eight recommendations and provided narrative summaries of other interventions undergoing evaluations.
+
+    >>> Conclusions
+      Using a combination of direct and indirect evidence, the panel was able to provide recommendations for eight specific questions on the use of PPE for HCP providing care for patients with suspected or known COVID-19. Where evidence was lacking, attempts were made to provide potential avenues for investigation. There remain significant gaps in the understanding of the transmission dynamics of SARS-CoV-2 and PPE recommendations may need to be modified in response to new evidence.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / July, 2020 - Clinical Infectious Diseases
+    let !a self assert = In conventional settings, HCP caring for confirmed or suspected COVID-19 patients use a surgical mask or a N95 or higher-grade respirator (such as an N99 or PAPR). Use of masks or respirators must be in conjunction with other recommended PPE and appropriate hand hygiene. Because of the risk of serious harm, the panel recommends that health care personnel not be exposed to suspected or confirmed COVID-19 patients without a mask or respirator
+
+    / July, 2020 - Clinical Infectious Diseases
+    let !b self assert = There is conflicting indirect and experimental evidence on the importance of double gloving as a component of appropriate PPE when caring for a patient with suspected or known COVID-19.
+
+    / July, 2020 - Clinical Infectious Diseases
+    let !c self assert = Current guidance on PPE endorses the use of shoe covers when there is concern for splash risk from fluids that may contain pathogens.
+
+    / July, 2020 - Clinical Infectious Diseases
+    let !d self assert = When an AGP is being performed on a patient with suspected or known COVID-19, all involved HCP should wear an N95 or higher-level respirator, in addition to a gown, gloves and eye protection.
+
+    / July, 2020 - Clinical Infectious Diseases
+    let !e self assert = During a contingency or crisis situation with shortages of N95 respirators, reprocessed N95 respirators are to be reused instead of using surgical masks as part of appropriate PPE when health care personnel involved in AGPs in patients with suspected or known COVID-19.
+
+    / July, 2020 - Clinical Infectious Diseases
+    let !f self assert = Should extended or reuse of a N95 respirator become necessary in a contingency or crisis setting (i.e., N95 respirator shortage), HCP should place some type of barrier (face shield or surgical mask) over the N95 respirator while performing AGPs to reduce contamination of the N95 respirator. Either extended use or reuse strategies are preferred to a surgical mask alone when performing AGPs. These recommendations are based on indirect evidence suggesting that masks/respirators are frequently contaminated during AGPs and direct evidence suggesting that HCP routinely touch masks/respirators while wearing.
+
+
+
+  # Limitation, N95, surgical masks
+  // Effectiveness of N95 respirators versus surgical masks against influenza: A systematic review and meta-analysis
+  doi: https://doi.org/10.1111/jebm.12381
+  ref 'Long_et_al_03_13_2020
+    head = There were no statistically significant differences in preventing laboratory‐confirmed influenza, laboratory‐confirmed respiratory viral infections, laboratory‐confirmed respiratory infection and influenza‐like illness using N95 respirators and surgical masks. It suggests that N95 respirators should not be recommended for general public and nonhigh‐risk medical staff those are not in close contact with influenza patients or suspected patients.
+
+    >>> Objective
+      Previous meta‐analyses concluded that there was insufficient evidence to determine the effect of N95 respirators. We aimed to assess the effectiveness of N95 respirators versus surgical masks for prevention of influenza by collecting randomized controlled trials (RCTs).
+
+    >>> Methods
+      We searched PubMed, EMbase and The Cochrane Library from the inception to January 27, 2020 to identify relevant systematic reviews. The RCTs included in systematic reviews were identified. Then we searched the latest published RCTs from the above three databases and searched ClinicalTrials.gov for unpublished RCTs. Two reviewers independently extracted the data and assessed risk of bias. Meta‐analyses were conducted to calculate pooled estimates by using RevMan 5.3 software.
+
+    >>> Results
+      A total of six RCTs involving 9 171 participants were included. There were no statistically significant differences in preventing laboratory‐confirmed influenza (RR = 1.09, 95% CI 0.92‐1.28, P > .05), laboratory‐confirmed respiratory viral infections (RR = 0.89, 95% CI 0.70‐1.11), laboratory‐confirmed respiratory infection (RR = 0.74, 95% CI 0.42‐1.29) and influenzalike illness (RR = 0.61, 95% CI 0.33‐1.14) using N95 respirators and surgical masks. Meta‐analysis indicated a protective effect of N95 respirators against laboratory‐confirmed bacterial colonization (RR = 0.58, 95% CI 0.43‐0.78).
+
+    >>> Conclusion
+      The use of N95 respirators compared with surgical masks is not associated with a lower risk of laboratory‐confirmed influenza. It suggests that N95 respirators should not be recommended for general public and nonhigh‐risk medical staff those are not in close contact with influenza patients or suspected patients.
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / March, 2020 -  J Evid Based Med.
+    let !a self assert = It should be noted that the surgical masks are primarily designed to protect the environment from the wearer, whereas the respirators are supposed to protect the wearer from the environment.
+
+    / March, 2020 -  J Evid Based Med.
+    let !b self assert = Using N95 respirators is likely to result in discomfort, for example, headaches. A previous study reported that there was an inverse relationship between the level of compliance with wearing an N95 respirator and the risk of clinical respiratory illness. It is difficult to ensure high compliance due to this discomfort of N95 respirators in all studies.
+
+    / March, 2020 -  J Evid Based Med.
+    let !c self assert = N95 respirators provided a protective effect against laboratory‐confirmed bacterial colonization.
+
+
+
+  # WHO guideline
+  // Community-based health care, including outreach and campaigns, in the context of the COVID-19 pandemic.
+  doi: https://www.who.int/publications/i/item/community-based-health-care-including-outreach-and-campaigns-in-the-context-of-the-covid-19-pandemic
+  ref 'Who_05_05_2020
+    head = This joint WHO, UNICEF and IFRC guidance addresses the role of community-based health care in the pandemic context. It includes practical recommendations for decision makers to help keep communities and health workers safe, to sustain essential services at the community level, and to ensure an effective response to COVID-19.
+
+    / May, 2020 - Guidance from IFRC, WHO and UNICEF
+    let !a self assert =
+
+
+
+
+  # Face masks, eye protection, person distancing
+  // Physical interventions to interrupt or reduce the spread of respiratory viruses. Part 1 - Face masks, eye protection and person distancing: systematic review and meta-analysis
+  doi: https://doi.org/10.1101/2020.03.30.20047217
+  ref 'Jefferson_et_al_04_07_2020
+    head = Most included trials had poor design, reporting and sparse events. There was insufficient evidence to provide a recommendation on the use of facial barriers without other measures. We found insufficient evidence for a difference between surgical masks and N95 respirators and limited evidence to support effectiveness of quarantine. Based on observational evidence from the previous SARS epidemic, we recommend the use of masks combined with other measures.
+
+
+    >>> OBJECTIVE
+      To examine the effectiveness of eye protection, face masks, or person distancing on interrupting or reducing the spread of respiratory viruses.
+
+    >>> DESIGN
+      Update of a Cochrane review that included a meta-analysis of observational studies during the SARS outbreak of 2003.
+
+    >>> DATA SOURCES
+      Eligible trials from the previous review; search of Cochrane Central Register of Controlled Trials, PubMed, Embase and CINAHL from October 2010 up to 1 April 2020; and forward and backward citation analysis.
+
+    >>> DATA SELECTION
+      Randomised and cluster-randomised trials of people of any age, testing the use of eye protection, face masks, or person distancing against standard practice, or a similar physical barrier. Outcomes included any acute respiratory illness and its related consequences.
+
+    >>> DATA EXTRACTION AND ANALYSIS
+      Six authors independently assessed risk of bias using the Cochrane tool and extracted data. We used a generalised inverse variance method for pooling using a random-effects model and reported results with risk ratios and 95% Confidence Intervals (CI).
+
+    >>> RESULTS
+      We included 15 randomised trials investigating the effect of masks (14 trials) in healthcare workers and the general population and of quarantine (1 trial). We found no trials testing eye protection. Compared to no masks there was no reduction of influenza-like illness (ILI) cases (Risk Ratio 0.93, 95%CI 0.83 to 1.05) or influenza (Risk Ratio 0.84, 95%CI 0.61-1.17) for masks in the general population, nor in healthcare workers (Risk Ratio 0.37, 95%CI 0.05 to 2.50). There was no difference between surgical masks and N95 respirators: for ILI (Risk Ratio 0.83, 95%CI 0.63 to 1.08), for influenza (Risk Ratio 1.02, 95%CI 0.73 to 1.43). Harms were poorly reported and limited to discomfort with lower compliance. The only trial testing quarantining workers with household ILI contacts found a reduction in ILI cases, but increased risk of quarantined workers contracting influenza. All trials were conducted during seasonal ILI activity.
+
+    >>> CONCLUSIONS
+      Most included trials had poor design, reporting and sparse events. There was insufficient evidence to provide a recommendation on the use of facial barriers without other measures. We found insufficient evidence for a difference between surgical masks and N95 respirators and limited evidence to support effectiveness of quarantine. Based on observational evidence from the previous SARS epidemic included in the previous version of our Cochrane review we recommend the use of masks combined with other measures.
+
+
+    / April, 2020 - medRxiv
+    let !a self assert =
+
+
+
+  # DISCUSS this paper with AYUSH, Its already done in Research.i
+  # // Physical distancing, face masks, and eye protection to prevent person-to-person transmission of SARS-CoV-2 and COVID-19: a systematic review and meta-analysis
+  # doi: https://doi.org/10.1016/S0140-6736(20)31142-9
+  # article 'Chu_et_al_06_01_2020
+  #   head =
+  #
+  #   / June, 2016 - The Lancet
+  #   let !a self assert =
+
+
+  # healthcare workers; N95 mask; occupational; PPE; SARS;rubber gloves
+  // Adverse skin reactions to personal protective equipment against severe acute respiratory syndrome--a descriptive study in Singapore.
+  doi: https://doi.org/10.1111/j.1600-0536.2006.00953.x
+  ref 'Foo_et_al_10_06_2006
+    head = Staff who used masks regularly reported acne, facial itch, and rash from N95 mask use. A few cases reported pigmentation with mask use. Skin reactions to gloves included complaints of dry skin, itch, and rash. The use of PPE is associated with high rates of adverse skin reactions.
+
+    >>> Abstract
+      Severe acute respiratory syndrome (SARS) was first recognized in February 2003. It is the first severe and readily transmissible new disease to emerge in the 21st century. Healthcare workers in affected countries were exposed to the regular use of personal protective equipment (PPE) such as the N95 mask, gloves, and gowns. Our aim was to study the prevalence of adverse skin reactions to PPE among healthcare workers in Singapore during the SARS outbreak. Healthcare staff in the National Skin Centre and Tan Tock Seng Hospital were surveyed using questionnaires. Of those asked to participate, 322 (94.7%) agreed. 14.3% of the respondents were doctors, 73.0% nurses, and 12.7% other ancillary staff. Mean age of respondents was 32.4 years, with the majority being women (85.7%) and Chinese (53.7%). 109 (35.5%) of the 307 staff who used masks regularly reported acne (59.6%), facial itch (51.4%), and rash (35.8%) from N95 mask use. 64 (21.4%) of the 299 who used gloves regularly reported dry skin (73.4%), itch (56.3%), and rash (37.5%). The use of PPE is associated with high rates of adverse skin reactions. There is a need to find suitable alternatives for affected staff and to encourage awareness among staff of the role of dermatologists in their care.
+
+
+    / October, 2006 - Contact Dermatitis
+    let !a self assert =
+
+
+
+  # N95 respirators, medical masks, health care workers
+  // Respirators vs Medical Masks for Preventing Influenza Among Health Care Personnel: A Randomized Clinical Trial.
+  doi: https://doi.org/10.1001/jama.2019.11645
+  ref 'RadonovichJr_et_al_09_03_2019
+    head = Among 2862 randomized health care personnel in this trial, there was no significant difference in the incidence of laboratory-confirmed influenza among health care personnel with the use of N95 respirators (8.2%) vs medical masks (7.2%).
+
+
+    >>> Importance
+      Clinical studies have been inconclusive about the effectiveness of N95 respirators and medical masks in preventing health care personnel (HCP) from acquiring workplace viral respiratory infections.
+
+    >>> Objective
+      To compare the effect of N95 respirators vs medical masks for prevention of influenza and other viral respiratory infections among HCP.
+
+    >>> Design, Setting, and Participants
+      A cluster randomized pragmatic effectiveness study conducted at 137 outpatient study sites at 7 US medical centers between September 2011 and May 2015, with final follow-up in June 2016. Each year for 4 years, during the 12-week period of peak viral respiratory illness, pairs of outpatient sites (clusters) within each center were matched and randomly assigned to the N95 respirator or medical mask groups.
+
+    >>> Interventions
+      Overall, 1993 participants in 189 clusters were randomly assigned to wear N95 respirators (2512 HCP-seasons of observation) and 2058 in 191 clusters were randomly assigned to wear medical masks (2668 HCP-seasons) when near patients with respiratory illness.
+
+    >>> Main Outcomes and Measures
+      The primary outcome was the incidence of laboratory-confirmed influenza. Secondary outcomes included incidence of acute respiratory illness, laboratory-detected respiratory infections, laboratory-confirmed respiratory illness, and influenzalike illness. Adherence to interventions was assessed.
+
+    >>> Results
+      Among 2862 randomized participants (mean [SD] age, 43 [11.5] years; 2369 [82.8%]) women), 2371 completed the study and accounted for 5180 HCP-seasons. There were 207 laboratory-confirmed influenza infection events (8.2% of HCP-seasons) in the N95 respirator group and 193 (7.2% of HCP-seasons) in the medical mask group (difference, 1.0%, [95% CI, −0.5% to 2.5%]; P = .18) (adjusted odds ratio [OR], 1.18 [95% CI, 0.95-1.45]). There were 1556 acute respiratory illness events in the respirator group vs 1711 in the mask group (difference, −21.9 per 1000 HCP-seasons [95% CI, −48.2 to 4.4]; P = .10); 679 laboratory-detected respiratory infections in the respirator group vs 745 in the mask group (difference, −8.9 per 1000 HCP-seasons, [95% CI, −33.3 to 15.4]; P = .47); 371 laboratory-confirmed respiratory illness events in the respirator group vs 417 in the mask group (difference, −8.6 per 1000 HCP-seasons [95% CI, −28.2 to 10.9]; P = .39); and 128 influenzalike illness events in the respirator group vs 166 in the mask group (difference, −11.3 per 1000 HCP-seasons [95% CI, −23.8 to 1.3]; P = .08). In the respirator group, 89.4% of participants reported “always” or “sometimes” wearing their assigned devices vs 90.2% in the mask group.
+
+    >>> Conclusions and Relevance
+      Among outpatient health care personnel, N95 respirators vs medical masks as worn by participants in this trial resulted in no significant difference in the incidence of laboratory-confirmed influenza.
+
+
+    / September, 2019 - JAMA.
+    let !a self assert =
+
+
+
+  # PPE
+  // Rational use of personal protective equipment for coronavirus disease (COVID-19) and considerations during severe shortages.
+  doi: https://www.who.int/publications/i/item/rational-use-of-personal-protective-equipment-for-coronavirus-disease-(covid-19)-and-considerations-during-severe-shortages
+  ref 'Who_06_2020d
+    head = This document summarizes WHO recommendations for the rational use of personal protective equipment (PPE), in health care and community settings, including the handling of cargo. It is intended for those involved in the distribution and management of PPE, as well as public health authorities and individuals in health care and community settings to understand when PPE use is most appropriate.
+
+    -- exports
+      !a
+
+    / April, 2020 - World Health Organization (WHO)
+    let !a self assert =
+
+
+
+  #
+  // The World Health Report 2006 - working together for health
+  doi: https://www.who.int/whr/2006/en/
+  ref 'Who_2006
+    head = The report contains an expert assessment of the current crisis in the global health workforce-focusing on all stages of the health workers' career lifespan from entry to health training, to job recruitment through to retirement. It lays out a ten-year action plan in which countries can build their health workforces, with the support of global partners, starting immediately.
+
+
+    / The World Health Report 2006 - Geneva: World Health Organization
+    let !a self assert =
+
+
+
+
+  # facemasks, hospitals
+  / Universal Masking in Hospitals in the Covid-19 Era
+  doi: https://doi.org/10.1056/NEJMc2020836
+  ref 'Klompas_et_al_06_03_2020
+    head = This correspondence clarifies the author's statement in their Perspective article that “wearing a mask outside health care facilities offers little, if any, protection from infection," that some people are citing as support for discrediting widespread masking. We intended this statement to apply to passing encounters in public spaces, not sustained interactions within closed environments. We therefore strongly support the calls of public health agencies for all people to wear masks when circumstances compel them to be within 6 ft of others for sustained periods.
+
+    / June, 2020 - N Engl J Med.
+    let !a self assert =
+
+
+
+  # E-RCP, PAPR, personal protective system
+  // Contamination: a comparison of 2 personal protective systems
+  doi: https://doi.org/10.1503/cmaj.060094
+  ref 'Zamora_et_al_08_01_2006
+    head = Participants wearing enhanced respiratory and contact precautions (E-RCP) were more likely to experience contamination of their skin and base clothing layer. Those wearing powered air-purifying respirator (PAPR) required significantly more time to don and remove the ensemble and violated donning procedures more frequently.
+
+    >>> Background
+      The purpose of this study was to examine the difference in self-contamination rates and levels of contact and droplet protection associated with enhanced respiratory and contact precautions (E-RCP) and a personal protective system that included a full body suit, personal protective equipment and a powered air-purifying respirator (PAPR).
+
+    >>> Methods
+      In this prospective, randomized, controlled crossover study, 50 participants donned and removed E-RCP and PAPR in random order. Surrogate contamination consisted of fluorescein solution and ultraviolet (UV) light– detectable paste, which was applied after each ensemble was donned. A blinded evaluator inspected participants for contamination using a UV lamp after removal of each ensemble. Areas of contamination were counted and measured in square centimetres. Donning and removal violations were recorded. The primary end point was the presence of any contamination on the skin or base clothing layer.
+
+    >>> Results
+      Participants wearing E-RCP were more likely to experience skin and base-clothing contamination; their contamination episodes measuring ≥ 1 cm2 were more frequent, and they had larger total areas of contamination (all p < 0.0001). The anterior neck, forearms, wrists and hands were the likeliest zones for contamination. Participants donning PAPR committed more donning procedure violations (p = 0.0034). Donning and removing the PAPR system took longer than donning and removing E-RCP garments (p < 0.0001).
+
+    >>> Interpretation
+      Participants wearing E-RCP were more likely to experience contamination of their skin and base clothing layer. Those wearing PAPR required significantly more time to don and remove the ensemble and violated donning procedures more frequently.
+
+
+    / August, 2006 - CMAJ
+    let !a self assert =
+
+
+  # healthcare workers, PPE, gloves
+  // Assessment of Healthcare Worker Protocol Deviations and Self-Contamination During Personal Protective Equipment Donning and Doffing.
+  doi: https://doi.org/10.1017/ice.2017.121
+  ref 'Kwon_et_al_06_13_2017
+    head = Protocol deviations were common during both Ebola virus disease (EVD) and contact precautions (CP) PPE doffing, and some deviations during EVD PPE doffing were committed by the HCW doffing assistant and/or the trained observer. Self-contamination was common. PPE donning/doffing are complex and deserve additional study.
+
+    >>> OBJECTIVE
+      To evaluate healthcare worker (HCW) risk of self-contamination when donning and doffing personal protective equipment (PPE) using fluorescence and MS2 bacteriophage.
+
+    >>> DESIGN
+      Prospective pilot study.
+
+    >>> SETTING
+      Tertiary-care hospital.
+
+    >>> PARTICIPANTS
+      A total of 36 HCWs were included in this study: 18 donned/doffed contact precaution (CP) PPE and 18 donned/doffed Ebola virus disease (EVD) PPE.
+
+    >>> INTERVENTIONS
+      HCWs donned PPE according to standard protocols. Fluorescent liquid and MS2 bacteriophage were applied to HCWs. HCWs then doffed their PPE. After doffing, HCWs were scanned for fluorescence and swabbed for MS2. MS2 detection was performed using reverse transcriptase PCR. The donning and doffing processes were videotaped, and protocol deviations were recorded.
+
+    >>> RESULTS
+      Overall, 27% of EVD PPE HCWs and 50% of CP PPE HCWs made ≥1 protocol deviation while donning, and 100% of EVD PPE HCWs and 67% of CP PPE HCWs made ≥1 protocol deviation while doffing (P=.02). The median number of doffing protocol deviations among EVD PPE HCWs was 4, versus 1 among CP PPE HCWs. Also, 15 EVD PPE protocol deviations were committed by doffing assistants and/or trained observers. Fluorescence was detected on 8 EVD PPE HCWs (44%) and 5 CP PPE HCWs (28%), most commonly on hands. MS2 was recovered from 2 EVD PPE HCWs (11%) and 3 CP PPE HCWs (17%).
+
+    >>> CONCLUSIONS
+      Protocol deviations were common during both EVD and CP PPE doffing, and some deviations during EVD PPE doffing were committed by the HCW doffing assistant and/or the trained observer. Self-contamination was common. PPE donning/doffing are complex and deserve additional study.
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / June, 2017 - Infect Control Hosp Epidemiol.
+    let !a self assert = Boot-cover removal was particularly problematic. HCWs struggled to balance their legs in the air or rest their legs on their scrubs without contaminating themselves, and left-handed HCWs struggled to use righthanded scissors. All 3 left-handed EVD PPE HCWs made ≥1protocol deviation during boot-cover removal. Many HCWs touched their scrubs with their shoes or gown, both potentially contaminated, during boot-cover removal and shoe disinfection.
+
+    / June, 2017 - Infect Control Hosp Epidemiol.
+    let !b self assert = Hand hygiene and glove removal protocol deviations were common during doffing of both EVD and CP PPE (67% and 39% of HCWs made ≥1 error, respectively). During EVD PPE doffing, common protocol deviations included touching outer gloves with inner gloved hands and touching the outside of gloves with bare hands.
+
+    / June, 2017 - Infect Control Hosp Epidemiol.
+    let !c self assert = Common CP PPE doffing protocol deviations included touching the front of the gown with bare hands or allowing the contaminated gown to brush against scrubs while disposing. Possibly, HCWs may be unaware that specific guidelines exist for donning/doffing CP precautions.
+
+
+
+  # dibromodicyanobutane, surgical masks, healthcare workers, contact dermatitis, cant find doi and date
+  // Surgical mask contact dermatitis and epidemiology of contact dermatitis in healthcare workers
+  doi: https://doi.org/xyz
+  ref 'Badri_et_al_09_2017
+    head = In this article a case is presented to illustrate important aspects of contact dermatitis in healthcare workers, particularly surgical face-mask contact dermatitis.The article further explores dibromodicyanobutane as a known cause of allergic contact dermatitis (ACD).
+
+    >>> Abstract
+      Although contact dermatitis in healthcare workers is common, there are very few case reports about surgical mask dermatitis. Contact dermatitis due to N95 masks during the severe acute respiratory syndrome (SARS) pandemic has been documented in a few studies. It has been attributed to free formaldehyde which was confirmed to be present in certain types of N95 mask. None of the cases studied was found to be related to dibromodicyanobutane, which is found predominantly as a preservative in detergents used in the healthcare environment. In this article a case is presented to illustrate important aspects of contact dermatitis in healthcare workers, particularly surgical face-mask contact dermatitis. The article further explores dibromodicyanobutane as a known cause of allergic contact dermatitis (ACD).
+
+
+    / September, 2017 - Current Allergy & Clinical Immunology
+    let !a self assert =
+
+
+  # Facemask, cloth mask, respirators,
+  // Inconveniences due to the use of face masks during the COVID-19 pandemic: a survey study of 876 young people
+  doi: https://doi.org/10.1111/dth.13567
+  ref 'Matusiak_et_al_05_14_2020
+    head = Wearing surgical masks showed significantly lower risk for the development of most common bothersome issues (difficulty in breathing, warming/sweating, glasses misting up, slurred speech, and itch.) Cloth masks use was related to higher risk of difficulty in breathing, warming/sweating, glasses misting up, slurred speech, and itch. Respirators were found to be at increased risk only for glasses misting up.
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / May, 2020 - Dermatologic Therapy
+    let !a self assert = Skin reactions were quite common, including among others, itch, redness/erythema, rash, xerosis, burning, and pain/prickling.
+
+    / May, 2020 - Dermatologic Therapy
+    let !b self assert = Adverse reactions to PPE were mostly reported in health care workers (HCW)
+
+    / May, 2020 - Dermatologic Therapy
+    let !c self assert = Based on our results with a special focus on the tolerance of the face masks, we postulate to use professional surgical masks, if possible, for general public during viral pandemic.
+
+
+
+  # randomized trials, cloth masks, medical masks, HCWs, limitation of cloth masks
+  // A cluster randomised trial of cloth masks compared with medical masks in healthcare workers.
+  doi: https://doi.org/10.1136/bmjopen-2014-006577
+  ref 'MacIntyre1_et_al_04_22_2015
+    head = The results caution against the use of cloth masks. Moisture retention, reuse of cloth masks and poor filtration may result in increased risk of infection. As a precautionary measure, cloth masks should not be recommended for HCWs, particularly in high-risk situations.
+
+    >>> Objective
+      The aim of this study was to compare the efficacy of cloth masks to medical masks in hospital healthcare workers (HCWs). The null hypothesis is that there is no difference between medical masks and cloth masks.
+
+    >>> Setting
+      14 secondary-level/tertiary-level hospitals in Hanoi, Vietnam.
+
+    >>> Participants
+      1607 hospital HCWs aged ≥18 years working full-time in selected high-risk wards.
+
+    >>> Intervention
+      Hospital wards were randomised to: medical masks, cloth masks or a control group (usual practice, which included mask wearing). Participants used the mask on every shift for 4 consecutive weeks.
+
+    >>> Main outcome measure
+      Clinical respiratory illness (CRI), influenza-like illness (ILI) and laboratory-confirmed respiratory virus infection.
+
+    >>> Results
+      The rates of all infection outcomes were highest in the cloth mask arm, with the rate of ILI statistically significantly higher in the cloth mask arm (relative risk (RR)=13.00, 95% CI 1.69 to 100.07) compared with the medical mask arm. Cloth masks also had significantly higher rates of ILI compared with the control arm. An analysis by mask use showed ILI (RR=6.64, 95% CI 1.45 to 28.65) and laboratory-confirmed virus (RR=1.72, 95% CI 1.01 to 2.94) were significantly higher in the cloth masks group compared with the medical masks group. Penetration of cloth masks by particles was almost 97% and medical masks 44%.
+
+    >>> Conclusions
+      This study is the first RCT of cloth masks, and the results caution against the use of cloth masks. This is an important finding to inform occupational health and safety. Moisture retention, reuse of cloth masks and poor filtration may result in increased risk of infection. Further research is needed to inform the widespread use of cloth masks globally. However, as a precautionary measure, cloth masks should not be recommended for HCWs, particularly in high-risk situations, and guidelines need to be updated.
+
+
+    / April, 2015 - BMJ Open
+    let !a self assert =
+
+
+
+  # Facemasks, household transmission, randomized trials, Limitation
+  // Surgical mask to prevent influenza transmission in households: a cluster randomized trial.
+  doi: https://doi.org/10.1371/journal.pone.0013998
+  ref 'Canini_et_al_11_17_2010
+    head = Although our findings did not suggest that face masks could prevent transmission of influenza in households, the lack of statistical power prevents us to draw a formal conclusion as to exclude that face masks could nevertheless have a substantial effect.
+
+
+    >>> Background
+      Facemasks and respirators have been stockpiled during pandemic preparedness. However, data on their effectiveness for limiting transmission are scarce. We evaluated the effectiveness of facemask use by index cases for limiting influenza transmission by large droplets produced during coughing in households.
+
+    >>> Methodology and Principal Findings
+      A cluster randomized intervention trial was conducted in France during the 2008–2009 influenza season. Households were recruited during a medical visit of a household member with a positive rapid influenza A test and symptoms lasting less than 48 hours. Households were randomized either to the mask or control group for 7 days. In the intervention arm, the index case had to wear a surgical mask from the medical visit and for a period of 5 days. The trial was initially intended to include 372 households but was prematurely interrupted after the inclusion of 105 households (306 contacts) following the advice of an independent steering committee. We used generalized estimating equations to test the association between the intervention and the proportion of household contacts who developed an influenza-like illness during the 7 days following the inclusion. Influenza-like illness was reported in 24/148 (16.2%) of the contacts in the intervention arm and in 25/158 (15.8%) of the contacts in the control arm and the difference between arms was 0.40% (95%CI: −10% to 11%, P = 1.00). We observed a good adherence to the intervention. In various sensitivity analyses, we did not identify any trend in the results suggesting effectiveness of facemasks.
+
+    >>> Conclusion
+      This study should be interpreted with caution since the lack of statistical power prevents us to draw formal conclusion regarding effectiveness of facemasks in the context of a seasonal epidemic.
+
+    / November, 2010 -  PLoS One
+    let !a self assert =
+
+
+
+  # facemask, randomized trial
+  // Cluster randomised controlled trial to examine medical mask use as source control for people with respiratory illness.
+  doi: https://doi.org/10.1136/bmjopen-2016-012330
+  ref 'MacIntyre_et_al_12_02_2016
+    head = The study indicates a potential benefit of medical masks for source control, but is limited by small sample size and low secondary attack rates. Larger trials are needed to confirm efficacy of medical masks as source control.
+
+    >>> Rationale
+      Medical masks are commonly used by sick individuals with influenza-like illness (ILI) to prevent spread of infections to others, but clinical efficacy data are absent.
+
+    >>> Objective
+      Determine whether medical mask use by sick individuals with ILI protects well contacts from related respiratory infections.
+
+    >>> Setting
+      6 major hospitals in 2 districts of Beijing, China.
+
+    >>> Design
+      Cluster randomised controlled trial.
+
+    >>> Participants
+      245 index cases with ILI.
+
+    >>> Intervention
+      Index cases with ILI were randomly allocated to medical mask (n=123) and control arms (n=122). Since 43 index cases in the control arm also used a mask during the study period, an as-treated post hoc analysis was performed by comparing outcomes among household members of index cases who used a mask (mask group) with household members of index cases who did not use a mask (no-mask group).
+
+    >>> Main outcome measure
+      Primary outcomes measured in household members were clinical respiratory illness, ILI and laboratory-confirmed viral respiratory infection.
+
+    >>> Results
+      In an intention-to-treat analysis, rates of clinical respiratory illness (relative risk (RR) 0.61, 95% CI 0.18 to 2.13), ILI (RR 0.32, 95% CI 0.03 to 3.13) and laboratory-confirmed viral infections (RR 0.97, 95% CI 0.06 to 15.54) were consistently lower in the mask arm compared with control, although not statistically significant. A post hoc comparison between the mask versus no-mask groups showed a protective effect against clinical respiratory illness, but not against ILI and laboratory-confirmed viral respiratory infections.
+
+    >>> Conclusions
+      The study indicates a potential benefit of medical masks for source control, but is limited by small sample size and low secondary attack rates. Larger trials are needed to confirm efficacy of medical masks as source control.
+
+
+    / December, 2016 - BMJ Open
+    let !a self assert =
+
+
+
+  # facemasks, hand hygiene, household transmission, influenza
+  // Facemasks and hand hygiene to prevent influenza transmission in households: a cluster randomized trial.
+  doi: https://doi.org/10.7326/0003-4819-151-7-200910060-00142
+  ref 'Cowling_et_al_10_06_2009
+    head = Hand hygiene and facemasks seemed to prevent household transmission of influenza virus when implemented within 36 hours of index patient symptom onset. These findings suggest that nonpharmaceutical interventions are important for mitigation of pandemic and interpandemic influenza.
+
+    >>> Background
+      Few data are available about the effectiveness of nonpharmaceutical interventions for preventing influenza virus transmission.
+
+    >>> Objective
+      To investigate whether hand hygiene and use of facemasks prevents household transmission of influenza.
+
+    >>> Design
+      Cluster randomized, controlled trial. Randomization was computer generated; allocation was concealed from treating physicians and clinics and implemented by study nurses at the time of the initial household visit. Participants and personnel administering the interventions were not blinded to group assignment. (ClinicalTrials.gov registration number: NCT00425893)
+
+    >>> Setting
+      Households in Hong Kong.
+
+    >>> Patients
+      407 people presenting to outpatient clinics with influenza-like illness who were positive for influenza A or B virus by rapid testing (index patients) and 794 household members (contacts) in 259 households.
+
+    >>> Intervention
+      Lifestyle education (control) (134 households), hand hygiene (136 households), or surgical facemasks plus hand hygiene (137 households) for all household members.
+
+    >>> Measurements
+      Influenza virus infection in contacts, as confirmed by reverse-transcription polymerase chain reaction (RT-PCR) or diagnosed clinically after 7 days.
+
+    >>> Results
+      Sixty (8%) contacts in the 259 households had RT-PCR–confirmed influenza virus infection in the 7 days after intervention. Hand hygiene with or without facemasks seemed to reduce influenza transmission, but the differences compared with the control group were not significant. In 154 households in which interventions were implemented within 36 hours of symptom onset in the index patient, transmission of RT-PCR–confirmed infection seemed reduced, an effect attributable to fewer infections among participants using facemasks plus hand hygiene (adjusted odds ratio, 0.33 [95% CI, 0.13 to 0.87]). Adherence to interventions varied.
+
+    >>> Limitation
+      The delay from index patient symptom onset to intervention and variable adherence may have mitigated intervention effectiveness.
+
+    >>> Conclusion
+      Hand hygiene and facemasks seemed to prevent household transmission of influenza virus when implemented within 36 hours of index patient symptom onset. These findings suggest that nonpharmaceutical interventions are important for mitigation of pandemic and interpandemic influenza.
+
+
+    / October, 2009 - Ann Intern Med.
+    let !a self assert =
+
+
+  # facemasks, public policy- assertions, mass gatherings
+  // Uptake and effectiveness of facemask against respiratory infections at mass gatherings: a systematic review
+  doi:https://doi.org/10.1016/j.ijid.2016.03.023
+  ref 'Barasheed_et_al_03_29_2016
+    head = The use of facemask among attendees of a particular MG (Hajj) remains almost steady with negligible increase throughout the last decade with an average uptake of 50%. Facemasks seem to be beneficial against certain respiratory infections during Hajj but not definitively proven.
+
+    >>> Objectives
+      The risk of acquisition and transmission of respiratory infections is high among attendees of mass gatherings (MGs). Currently used interventions have limitations yet the role of facemask in preventing those infections at MG has not been systematically reviewed. We have conducted a systematic review to synthesise evidence about the uptake and effectiveness of facemask against respiratory infections in MGs.
+
+    >>> Methods
+      A comprehensive literature search was conducted according to the preferred reporting items for systematic reviews and meta-analyses (PRISMA) guidelines using major electronic databases such as, Medline, EMBASE, SCOPUS and CINAHL.
+
+    >>> Results
+      Of 25 studies included, the pooled sample size was 12710 participants from 55 countries aged 11 to 89 years, 37% were female. The overall uptake of facemask ranged from 0.02% to 92.8% with an average of about 50%. Only 13 studies examined the effectiveness of facemask, and their pooled estimate revealed significant protectiveness against respiratory infections (relative risk [RR] = 0.89, 95% CI: 0.84-0.94, p < 0.01), but the study end points varied widely.
+
+    >>> Conclusion
+      A modest proportion of attendees of MGs use facemask, the practice is more widespread among health care workers. Facemask use seems to be beneficial against certain respiratory infections at MGs but its effectiveness against specific infection remains unproven.
+
+    -- exports
+      !a
+      !b
+
+    / March, 2016 - Int J Infect Dis.
+    let !a self assert = A few studies showed that providing educational session on protective measures against respiratory infections (including facemask) before Hajj was associated with significantly higher uptake of facemasks among pilgrims. Abdin et al and Barasheed et al revealed a higher uptake of facemask among groups who were provided with sufficient quantity of free facemask (81.3% versus 33.6%, and 76% versus 12% respectively).
+
+    / March, 2016 - Int J Infect Dis.
+    let !b self assert = Uptake of non-pharmaceutical measures during the pandemic influenza A (H1N1) of 2009 found that participants of Asian origin (e.g. Japan) had the higher facemask uptake (71%) compared to the uptake of participants of Western or Latin American origin. Presence of several peaks of influenza seasons in some Asian countries, overcrowding, dense smog and air pollution in many cities may explain the higher uptake of facemask among people from Asian countries.
+
+
+
+  # no date, SARS, secondary transmission, tertiary transmission, nonsomical
+  // SARS transmission, risk factors, and prevention in Hong Kong.
+  doi: https://doi.org/10.3201/eid1004.030628
+  ref 'Lau_et_al_04_2004
+    head = Frequent mask use in public venues, frequent hand washing, and disinfecting the living quarters were significant protective factors. In Hong Kong, therefore, community-acquired infection did not make up most transmissions, and public health measures have contributed substantially to the control of the SARS epidemic.
+
+    >>> Abstract
+      We analyzed information obtained from 1,192 patients with probable severe acute respiratory syndrome (SARS) reported in Hong Kong. Among them, 26.6% were hospital workers, 16.1% were household members of SARS patients and had probable secondary infections, 14.3% were Amoy Garden residents, 4.9% were inpatients, and 20.1% were contacts of SARS patients who were not family members. The remaining 347 case-patients (29.1%) did not have “known” sources of infection. Excluding those <16 years of age, 330 patients with cases from “undefined” sources were used in a 1:2 matched case-control study. Multivariate analysis of this case-control study showed that having visited mainland China, hospitals, or the Amoy Gardens were risk factors (odds ratio [OR] 1.95 to 7.63). In addition, frequent mask use in public venues, frequent hand washing, and disinfecting the living quarters were significant protective factors (OR 0.36 to 0.58). In Hong Kong, therefore, community-acquired infection did not make up most transmissions, and public health measures have contributed substantially to the control of the SARS epidemic.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+
+    / April, 2004 - Emerg Infect Dis.
+    let !a self assert = Of the 1,192 participants in this study, approximately 16.1% had probable secondary or tertiary transmission occurring within the household, 26.6% were hospital workers with nosocomial infections, 14.3% were Amoy Gardens patients, and 4.9% were cross-infected inpatients.
+
+    / April, 2004 - Emerg Infect Dis.
+    let !b self assert = Multivariate analysis of this case-control study showed that having visited mainland China, hospitals, or the Amoy Gardens were risk factors (odds ratio [OR] 1.95 to 7.63).
+
+    / April, 2004 - Emerg Infect Dis.
+    let !c self assert = The proportion of unknown community-acquired SARS infection among all SARS cases in this study was considerably lower than the proportion of nosocomial infection, which suggests that preventing hospital outbreaks is essential.
+
+    / April, 2004 - Emerg Infect Dis.
+    let !d self assert = Of the 330 undefined transmissions, 44.2% of the transmissions occurred through hospital visitors. Therefore, the severity of future outbreaks, if any, would depend on the ability of the hospital system to control hospital cross-infection and infection of visitors.
+
+
+
+  # 41 index cases, facemasks, hand hygiene,
+  // The role of facemasks and hand hygiene in the prevention of influenza transmission in households: results from a cluster randomised trial; Berlin, Germany,
+  doi: https://doi.org/10.1186/1471-2334-12-26
+  ref 'Suess_et_al_01_26_2012
+    head =  Household transmission of influenza can be reduced by the use of NPI, such as facemasks and intensified hand hygiene, when implemented early and used diligently. Concerns about acceptability and tolerability of the interventions should not be a reason against their recommendation.
+
+    >>> Background
+      Previous controlled studies on the effect of non-pharmaceutical interventions (NPI) - namely the use of facemasks and intensified hand hygiene - in preventing household transmission of influenza have not produced definitive results. We aimed to investigate efficacy, acceptability, and tolerability of NPI in households with influenza index patients.
+
+    >>> Methods
+      We conducted a cluster randomized controlled trial during the pandemic season 2009/10 and the ensuing influenza season 2010/11. We included households with an influenza positive index case in the absence of further respiratory illness within the preceding 14 days. Study arms were wearing a facemask and practicing intensified hand hygiene (MH group), wearing facemasks only (M group) and none of the two (control group). Main outcome measure was laboratory confirmed influenza infection in a household contact. We used daily questionnaires to examine adherence and tolerability of the interventions.
+
+    >>> Results
+      We recruited 84 households (30 control, 26 M and 28 MH households) with 82, 69 and 67 household contacts, respectively. In 2009/10 all 41 index cases had a influenza A (H1N1) pdm09 infection, in 2010/11 24 had an A (H1N1) pdm09 and 20 had a B infection. The total secondary attack rate was 16% (35/218). In intention-to-treat analysis there was no statistically significant effect of the M and MH interventions on secondary infections. When analysing only households where intervention was implemented within 36 h after symptom onset of the index case, secondary infection in the pooled M and MH groups was significantly lower compared to the control group (adjusted odds ratio 0.16, 95% CI, 0.03-0.92). In a per-protocol analysis odds ratios were significantly reduced among participants of the M group (adjusted odds ratio, 0.30, 95% CI, 0.10-0.94). With the exception of MH index cases in 2010/11 adherence was good for adults and children, contacts and index cases.
+
+    >>> Conclusions
+      Results suggest that household transmission of influenza can be reduced by the use of NPI, such as facemasks and intensified hand hygiene, when implemented early and used diligently. Concerns about acceptability and tolerability of the interventions should not be a reason against their recommendation.
+
+    / January, 2012 -  BMC Infect Dis.
+    let !a self assert =
+
+
+
+  # face masks, pets, cockroaches, rodents, SARS, no date
+  // Risk factors for SARS among persons without known contact with SARS patients, Beijing, China.
+  doi: https://doi.org/10.3201/eid1002.030730
+  ref 'Wu_et_al_02_2004
+    head = Clinical SARS was associated with visits to fever clinics supports Beijing’s strategy of closing clinics with poor infection-control measures. Our finding that mask use lowered the risk for disease supports the community’s use of this strategy.
+
+
+    >>> Abstract
+      Most cases of severe acute respiratory syndrome (SARS) have occurred in close contacts of SARS patients. However, in Beijing, a large proportion of SARS cases occurred in persons without such contact. We conducted a case-control study in Beijing that compared exposures of 94 unlinked, probable SARS patients with those of 281 community-based controls matched for age group and sex. Case-patients were more likely than controls to have chronic medical conditions or to have visited fever clinics (clinics at which possible SARS patients were separated from other patients), eaten outside the home, or taken taxis frequently. The use of masks was strongly protective. Among 31 case-patients for whom convalescent-phase (>21 days) sera were available, 26% had immunoglobulin G to SARS-associated coronavirus. Our finding that clinical SARS was associated with visits to fever clinics supports Beijing’s strategy of closing clinics with poor infection-control measures. Our finding that mask use lowered the risk for disease supports the community’s use of this strategy.
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / February, 2004 - Emerg Infect Dis.
+    let !a self assert = We found that consistently washing hands upon returning home was associated with a reduced risk for clinical SARS by univariate but not multivariate analysis.
+
+    / February, 2004 - Emerg Infect Dis.
+    let !b self assert = We sought evidence to address the community fear that household rodents and cockroaches might be perpetuating disease-transmission cycles and found that household rodents and cockroaches were not associated with a risk for clinical SARS.
+
+    / February, 2004 - Emerg Infect Dis.
+    let !c self assert = Our finding that pet owners had a lower risk for clinical SARS can help dispel fears that domestic pets were causing disease transmission in Beijing.
+
+
+
+  # Facemask, Hajj, no date
+  // Pilot Randomised Controlled Trial to Test Effectiveness of Facemasks in Preventing Influenza-like Illness Transmission among Australian Hajj Pilgrims in 2011.
+  doi: https://doi.org/10.2174/1871526514666141021112855
+  ref 'Barasheed_et_al_03_2014
+    head = Based on developing syndromic influenza-like illness (ILI), less contacts became symptomatic in the ‘mask’ tents compared to the ‘control’ tents (31% vs 53%). A positive association was found between the duration of facemask use and protection against ILI (3% of pilgrims who used facemasks for more than eight hours developed ILI while 43% of those who used masks for eight hours or less reported ILI.)
+
+    >>> Abstract
+      Studies to determine the effectiveness of facemasks in preventing influenza have been inconclusive, largely due to small sample size. The Hajj pilgrimage, where the incidence of influenza and other respiratory infections is high, provides an excellent opportunity to test the effectiveness of facemasks against syndromic and laboratory-confirmed infections. Hence, a pilot study was conducted among Australian pilgrims to assess the feasibility of such a large-scale trial in the coming years. At the 2011 Hajj, tents were randomised to ‘supervised mask use’ versus ‘no supervised mask use’. Pilgrims with ILI symptoms for ≤3 days were recruited as ‘cases’ and those who slept within 2 meters of them as ‘contacts’. Surgical facemasks were provided to cases and contacts in the ‘mask’ tents, but not in the ‘control’ tents. Pilgrims in both groups were given diaries to record their respiratory symptoms. Nasal or pharyngeal swabs were collected from the cases and contacts with ILI for point-of-care and nucleic acid tests. A total of 22 tents were randomised to ‘mask’ (n=12) or ‘control’ (n=10). There were 164 pilgrims recruited; 75 in ‘mask’ and 89 in ‘control’ group. Mask use compliance was 76% in the ‘mask’ group and 12% in the ‘control’ group. Based on developing syndromic ILI, less contacts became symptomatic in the ‘mask’ tents compared to the ‘control’ tents (31% versus 53%, p= 0.04). However, laboratory results did not show any difference between the two groups. This pilot study shows that a large trial to assess the effectiveness of facemasks use at Hajj is feasible.
+
+    -- exports
+      !a
+      !b
+
+    / March, 2014 -  Infect Disord Drug Targets.
+    let !a self assert = Australian pilgrims in the ‘mask’ group of 76% was much higher than that reported for pilgrims in general during the influenza pandemic year 2009 (8%) and in 2013 (0.02%) as assessed in a photographic frame study. This implies that pilgrims would comply with mask use if clearly recommended and the purpose explained.
+
+    / March, 2014 -  Infect Disord Drug Targets.
+    let !b self assert = The main reason given for not wearing facemasks was discomfort, especially at night during sleep.
+
+
+
+
+  # influenza, masks, washing hands, Limitation
+  // Mask use, hand hygiene, and seasonal influenza-like illness among young adults: a randomized intervention trial
+  doi: https://doi.org/10.1086/650396
+  ref 'Aiello_et_al_02_15_2010
+    head = Face masks and hand hygiene combined may reduce respiratory illnesses in shared living settings and mitigate the impact of the influenza A(H1N1) pandemic. Neither face mask use and hand hygiene nor face mask use alone was associated with a significant reduction in the rate of influenza-like illness (ILI) cumulatively.
+
+    >>> Background
+      During the influenza A(H1N1) pandemic, antiviral prescribing was limited, vaccines were not available early, and the effectiveness of nonpharmaceutical interventions (NPIs) was uncertain. Our study examined whether use of face masks and hand hygiene reduced the incidence of influenza-like illness (ILI).
+
+    >>> Methods
+      A randomized intervention trial involving 1437 young adults living in university residence halls during the 2006–2007 influenza season was designed. Residence halls were randomly assigned to 1 of 3 groups—face mask use, face masks with hand hygiene, or control— for 6 weeks. Generalized models estimated rate ratios for clinically diagnosed or survey-reported ILI weekly and cumulatively.
+
+    >>> Results
+      We observed significant reductions in ILI during weeks 4–6 in the mask and hand hygiene group, compared with the control group, ranging from 35% (confidence interval [CI], 9%–53%) to 51% (CI, 13%–73%), after adjusting for vaccination and other covariates. Face mask use alone showed a similar reduction in ILI compared with the control group, but adjusted estimates were not statistically significant. Neither face mask use and hand hygiene nor face mask use alone was associated with a significant reduction in the rate of ILI cumulatively.
+
+    >>> Conclusions
+      These findings suggest that face masks and hand hygiene may reduce respiratory illnesses in shared living settings and mitigate the impact of the influenza A(H1N1) pandemic.
+
+
+    / February, 2010 - The Journal of Infectious Diseases
+    let !a self assert =
+
+
+
+  # Facemasks, hand hygiene, randomized trial, influenza
+  // Facemasks, hand hygiene, and influenza among young adults: a randomized intervention trial
+  doi: https://doi.org/10.1371/journal.pone.0029744
+  ref 'Aiello_et_al_01_25_2012
+    head = Face masks and hand hygiene combined may reduce the rate of influenza-like illness (ILI) and confirmed influenza in community settings. These non-pharmaceutical measures should be recommended in crowded settings at the start of an influenza pandemic. Masks alone did not provide a benefit.
+
+
+    >>> Abstract
+      Limited vaccine availability and the potential for resistance to antiviral medications have led to calls for establishing the efficacy of non-pharmaceutical measures for mitigating pandemic influenza. Our objective was to examine if the use of face masks and hand hygiene reduced rates of influenza-like illness (ILI) and laboratory-confirmed influenza in the natural setting. A cluster-randomized intervention trial was designed involving 1,178 young adults living in 37 residence houses in 5 university residence halls during the 2007–2008 influenza season. Participants were assigned to face mask and hand hygiene, face mask only, or control group during the study. Discrete-time survival models using generalized estimating equations to estimate intervention effects on ILI and confirmed influenza A/B infection over a 6-week study period were examined. A significant reduction in the rate of ILI was observed in weeks 3 through 6 of the study, with a maximum reduction of 75% during the final study week (rate ratio [RR] = 0.25, [95% CI, 0.07 to 0.87]). Both intervention groups compared to the control showed cumulative reductions in rates of influenza over the study period, although results did not reach statistical significance. Generalizability limited to similar settings and age groups. Face masks and hand hygiene combined may reduce the rate of ILI and confirmed influenza in community settings. These non-pharmaceutical measures should be recommended in crowded settings at the start of an influenza pandemic.
+
+
+    / January, 2012 - PLoS One
+    let !a self assert =
+
+
+
+  # olfactory, ageusia
+  // Self-reported olfactory and taste disorders in SARS-CoV-2 patients: a cross-sectional study
+  doi: https://doi.org/10.1093/cid/ciaa330
+  ref 'Giacomelli_et_al_03_26_2020
+    head = Our survey shows that OTDs are fairly frequent in patients with SARS-CoV-2 infection and may precede the onset of full-blown clinical disease.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+
+    / March, 2020 -  Clin Infect Dis.
+    let !a self assert = Taste alterations were more frequently (91%) before hospitalization, whereas after hospitalization taste and olfactory alteration appeared with equal frequency.
+
+    / March, 2020 -  Clin Infect Dis.
+    let !b self assert = Females reported OTDs more frequently than males.
+
+    / March, 2020 -  Clin Infect Dis.
+    let !c self assert = Patients with at least 1 OTD were younger than those without (median, 56 years)
+
+    / March, 2020 -  Clin Infect Dis.
+    let !d self assert = Olfactory and taste disorders are well known to be related with a wide range of viral infections. SARS-CoV has demonstrated in a mice model a transneural penetration through the olfactory bulb. Moreover, angiotensinconverting enzyme 2 receptor, which is used by SARS-CoV-2 to bind and penetrate into the cell, is widely expressed on the epithelial cells of the mucosa of the oral cavity. These findings could explain the underlying pathogenetic mechanism of taste and olfactory disorders in SARS-CoV-2 infection.
+
+
+
+  # anosmia, olfactory, ageusia, gustatory
+  // The Prevalence of Olfactory and Gustatory Dysfunction in COVID-19 Patients: A Systematic Review and Metaanalysis
+  doi: https://doi.org/10.1177/0194599820926473
+  ref 'Tong_et_al_05_05_2020
+    head = Olfactory and gustatory dysfunction are common in patients with COVID-19 and may represent early symptoms in the clinical course of infection. Increased awareness of this fact may encourage earlier diagnosis and treatment of COVID-19, as well as heighten vigilance for viral spread.
+
+    >>> Objective
+      To determine the pooled global prevalence of olfactory and gustatory dysfunction in patients with the 2019 novel coronavirus (COVID-19).
+
+    >>> Data Sources
+      Literature searches of PubMed, Embase, and Scopus were conducted on April 19, 2020, to include articles written in English that reported the prevalence of olfactory or gustatory dysfunction in COVID-19 patients.
+
+    >>> Review Methods
+      Search strategies developed for each database contained keywords such as anosmia, dysgeusia, and COVID-19. Resulting articles were imported into a systematic review software and underwent screening. Data from articles that met inclusion criteria were extracted and analyzed. Meta-analysis using pooled prevalence estimates in a random-effects model were calculated.
+
+    >>> Results
+      Ten studies were analyzed for olfactory dysfunction (n = 1627), demonstrating 52.73% (95% CI, 29.64%-75.23%) prevalence among patients with COVID-19. Nine studies were analyzed for gustatory dysfunction (n = 1390), demonstrating 43.93% (95% CI, 20.46%-68.95%) prevalence. Subgroup analyses were conducted for studies evaluating olfactory dysfunction using nonvalidated and validated instruments and demonstrated 36.64% (95% CI, 18.31%-57.24%) and 86.60% (95% CI, 72.95%-95.95%) prevalence, respectively.
+
+    >>> Conclusions
+      Olfactory and gustatory dysfunction are common symptoms in patients with COVID-19 and may represent early symptoms in the clinical course of infection. Increased awareness of this fact may encourage earlier diagnosis and treatment, as well as heighten vigilance for viral transmission. To our knowledge, this is the first meta-analysis to report on the prevalence of these symptoms in COVID-19 patients.
+
+
+    / May, 2020 - Otolaryngol Head Neck Surg.
+    let !a self assert =
+
+
+
+  # This paper is already done in research.i
+  # // Epidemiology of Covid-19 in a Long-Term Care Facility in King County, Washington
+  # doi: https://doi.org/10.1056/NEJMoa2005412
+  # ref 'Mcmichael_et_al_05_21_2020
+
+
+    # / May, 2020 - N Engl J Med
+    # let !a self assert =
+
+
+  # older people
+  // Atypical presentation of COVID-19 in a frail older person
+  doi: https://doi.org/10.1093/ageing/afaa068
+  ref 'Tay_et_al_04_20_2020
+    head = Clinicians must be aware of the possibility of COVID-19 presenting non-specifically, including with delirium, particularly with signs suggesting infection, so cases are not missed when they fall outside current diagnostic and management guidelines.
+
+    >>> Abstract
+      Common symptoms of pandemic coronavirus disease (COVID-19) include fever and cough. We describe a 94-year-old man with well-controlled schizoaffective disorder, who presented with non-specific and atypical symptoms: delirium, low-grade pyrexia and abdominal pain. He was given antibiotics for infection of unknown source, subsequently refined to treatment for community-acquired pneumonia. Despite active treatment, he deteriorated with oxygen desaturation and tachypnoea. A repeat chest X-ray showed widespread opacification. A postmortem throat swab identified COVID-19 infection. He was treated in
+      three wards over 5 days with no infection control precautions. This has implications for the screening, assessment and isolation of frail older people to COVID-specific clinical facilities and highlights the potential for spread among healthcare professionals and other patients.
+
+
+    / April, 2020 - Age and Ageing
+    let !a self assert =
+
+
+  # facemasks
+  // Coronavirus disease (COVID-19) advice for the public: When and how to use masks
+  doi: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks
+  ref 'Who_06_2020c
+    head = This document provides advice to the public on when and how to use masks, recommended fabric mask materials and composition and how to wear a mask safely. It is updated based on the new scientific findings as the the epidemic evolves.
+
+    / WHO advice for the public: When and how to use masks
+    let !a self assert =
+
+
+
+  # older people, Invariable population
+  // Information Note COVID-19 and NCDs. Geneva: World Health Organization. 2020
+  doi: https://www.who.int/publications/m/item/covid-19-and-ncds
+  ref 'Who_06_2020b
+    head = Older people and people with pre- existing non-communicable diseases (NCDs), such as heart diseases, diabetes, respiratory conditions appear to be more susceptible to becoming severely ill with the virus. This information note informs about the risk factors, technical guidance: Patient management and tips for people living with or affected by NCDs
+
+
+    / WHO information note on Covid19 and NCDs
+    let !a self assert =
+
+
+
+  # can't find this in the net- unpublished
+  # / Public use of masks as source control during the COVID-19 pandemic: key considerations from social science.
+  # doi: https://doi.org/xyz
+  # ref
+  #   head =
+  #
+  #   -- exports
+  #     !a
+  #
+  #   / February, 2020 - bioRxiv
+  #   let !a self assert =
+
+
+
+  # personal protective equipment,  N95, disinfection,  aerosol, ask assertion- AYUSH
+  // Can N95 Respirators Be Reused after Disinfection? How Many Times?
+  doi: https://doi.org/10.1021/acsnano.0c03597
+  ref 'Liao_et_al_05_05_2020
+    head = We found that heat (≤85 °C) under various humidities (≤100% relative humidity, RH) was the most promising, nondestructive method for the preservation of filtration properties in meltblown fabrics as well as N95-grade respirators. Ultraviolet (UV) irradiation was able to withstand 10 cycles of treatment and showed small degradation by 20 cycles. Treatments involving liquids and vapors require caution, as steam, alcohol, chlorine-based solutions, or soaps all may lead to degradation of the filtration efficiency, leaving the user vulnerable to the viral aerosols.
+
+    >>> Abstract
+      The coronavirus disease 2019 (COVID-19) pandemic has led to a major shortage of N95 respirators, which are essential for protecting healthcare professionals and the general public who may come into contact with the virus. Thus, it is essential to determine how we can reuse respirators and other personal protective equipment in these urgent times. We investigated multiple commonly used disinfection schemes on media with particle filtration efficiency of 95%. Heating was recently found to inactivate the virus in solution within 5 min at 70 °C and is among the most scalable, user-friendly methods for viral disinfection. We found that heat (≤85 °C) under various humidities (≤100% relative humidity, RH) was the most promising, nondestructive method for the preservation of filtration properties in meltblown fabrics as well as N95-grade respirators. At 85 °C, 30% RH, we were able to perform 50 cycles of heat treatment without significant changes in the filtration efficiency. At low humidity or dry conditions, temperatures up to 100 °C were not found to alter the filtration efficiency significantly within 20 cycles of treatment. Ultraviolet (UV) irradiation was a secondary choice, which was able to withstand 10 cycles of treatment and showed small degradation by 20 cycles. However, UV can potentially impact the material strength and subsequent sealing of respirators. Finally, treatments involving liquids and vapors require caution, as steam, alcohol, and household bleach all may lead to degradation of the filtration efficiency, leaving the user vulnerable to the viral aerosols.
+
+    -- exports
+      !a
+
+    / May, 2020 - ACS Nano
+    let !a self assert = At 85 °C, 30% RH, we were able to perform 50 cycles of heat treatment without significant changes in the filtration efficiency. At low humidity or dry conditions, temperatures up to 100 °C were not found to alter the filtration efficiency significantly within 20 cycles of treatment.
+
+
+
+  # Pressure drop, Anti-Yellow Sand Masks, Quarantine Masks, Medical Masks, General Masks, and Handkerchiefs
+  // Comparison of Filtration Efficiency and Pressure Drop in Anti-Yellow Sand Masks, Quarantine Masks, Medical Masks, General Masks, and Handkerchiefs
+  doi: https://doi.org/10.4209/aaqr.2013.06.0201
+  ref 'Jung_et_al_08_28_2013
+    head = All tested quarantine masks satisfied the Korean Food and Drug Administration (KFDA) criterion of 6%. Six-ninths and four-sevenths of the anti-yellow sand masks for adults and children satisfied the criterion of 20%, respectively. Medical masks, general masks, and handkerchiefs were found to provide little protection against respiratory aerosols.
+
+
+    >>> Abstract
+      Particulate respirators have been used in both general environments and in the workplace. Despite the existence of certified respirators for workers, no strict regulations exist for masks worldwide. The aims of this study were to evaluate the filter efficiency of various mask types using the Korean Food and Drug Administration (KFDA) [similar to the European Union (EU) protocol] and the National Institute for Occupational Safety and Health (NIOSH) protocol and to compare the test results. We tested a total of 44 mask brands of four types (anti-yellow sand, medical, quarantine, general) and handkerchiefs with a TSI 8130 Automatic Filter Tester. A wide variation of penetration and pressure drops was observed by mask types. The overall mean penetration and pressure drop of all tested masks were respectively 35.6 ± 34.7%, 2.7 ± 1.4 mm H2O with the KFDA protocol, and 35.1 ± 35.7%, 10.6 ± 5.88 mm H2O with the NIOSH protocol. All tested quarantine masks satisfied the KFDA criterion of 6%. Six-ninths and four-sevenths of the anti-yellow sand masks for adults and children satisfied the criterion of 20%, respectively. Medical masks, general masks, and handkerchiefs were found to provide little protection against respiratory aerosols.
+
+    -- exports
+      !a
+
+    / August, 2013 - Aerosol Air Qual. Res.
+    let !a self assert = The overall mean penetration and pressure drop of all tested masks were respectively 35.6 ± 34.7%, 2.7 ± 1.4 mm H2O with the KFDA protocol, and 35.1 ± 35.7%, 10.6 ± 5.88 mm H2O with the NIOSH protocol.
+
+
+  # Limitation of Cloth masks
+  // Simple Respiratory Protection—Evaluation of the Filtration Performance of Cloth Masks and Common Fabric Materials Against 20–1000 nm Size Particles
+  doi: https://doi.org/10.1093/annhyg/meq044
+  ref 'Rengasamy_et_al_06_28_2010
+    head = Common fabric materials may provide marginal respiratory protection against nanoparticles including those in the size ranges of virus-containing particles in exhaled breath.
+
+    >>> Abstract
+      A shortage of disposable filtering facepiece respirators can be expected during a pandemic respiratory infection such as influenza A. Some individuals may want to use common fabric materials for respiratory protection because of shortage or affordability reasons. To address the filtration performance of common fabric materials against nano-size particles including viruses, five major categories of fabric materials including sweatshirts, T-shirts, towels, scarves, and cloth masks were tested for polydisperse and monodisperse aerosols (20–1000 nm) at two different face velocities (5.5 and 16.5 cm s−1) and compared with the penetration levels for N95 respirator filter media. The results showed that cloth masks and other fabric materials tested in the study had 40–90% instantaneous penetration levels against polydisperse NaCl aerosols employed in the National Institute for Occupational Safety and Health particulate respirator test protocol at 5.5 cm s−1. Similarly, varying levels of penetrations (9–98%) were obtained for different size monodisperse NaCl aerosol particles in the 20–1000 nm range. The penetration levels of these fabric materials against both polydisperse and monodisperse aerosols were much higher than the penetrations for the control N95 respirator filter media. At 16.5 cm s−1 face velocity, monodisperse aerosol penetrations slightly increased, while polydisperse aerosol penetrations showed no significant effect except one fabric mask with an increase. Results obtained in the study show that common fabric materials may provide marginal protection against nanoparticles including those in the size ranges of virus-containing particles in exhaled breath.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / June, 2010 - The Annals of Occupational Hygiene
+    let !a self assert = Cloth masks and other fabric materials tested in the study had 40–90% instantaneous penetration levels when challenged with polydisperse NaCl aerosols employed in the NIOSH particulate respirator test protocol at a face velocity of 5.5 cm s−1.
+
+    / June, 2010 - The Annals of Occupational Hygiene
+    let !b self assert = The Hanes sweatshirt showed less penetration levels against polydisperse aerosols at 5.5 cm s−1 face velocity compared to other fabric materials. Similarly, monodisperse aerosol penetration values for particles <60 nm size were less for Hanes sweatshirt. However, the penetration values for >60 nm size particles were higher similar to the penetrations for other sweatshirts and the reason for the discrepancy is not clear.
+
+    / June, 2010 - The Annals of Occupational Hygiene
+    let !c self assert = The filtration performance of the towels (Aquis, Pinzon, and Pem America) and one scarf (Walmart) against <100 nm size monodisperse aerosol particles was relatively better than the other fabric materials. Moreover, filtration performance of the fabric materials showed no correlation with the airflow resistance levels.
+
+    / June, 2010 - The Annals of Occupational Hygiene
+    let !d self assert = Filtration of polydisperse aerosol particles was effective by 100% cotton fabrics in one case, while 100% polyester, 100% cotton, or cotton/polyester combination was better for nanoparticle (<100 nm) range.
+
+    / June, 2010 - The Annals of Occupational Hygiene
+    let !e self assert = Fabric materials may provide respiratory protection levels (i.e. total inward leakage) similar to the levels obtained using some surgical masks, which have been measured to be <10.
+
+    / June, 2010 - The Annals of Occupational Hygiene
+    let !f self assert = The penetration levels for these fabric materials against polydisperse, as well as monodisperse aerosols, were much higher than the values for the control N95 respirator filter media but were in the range found for some surgical masks in previous studies. A poor filtration performance is expected for improvised fabric materials because these materials are not designed for respiratory protection.
+
+
+
+  # limitation of Cloth mask; Filtration efficiency; Pressure drop; Particulate matter
+  // Evaluation of Filtration Performance Efficiency of Commercial Cloth Masks.
+  doi: https://doi.org/10.5668/JEHS.2015.41.3.203
+  ref 'Jang_et_al_06_28_2015
+    head = The filtration efficiencies of the five cloth masks were below 30% and did not improve greatly by increasing the number of layers. After a single washing, their performances decreased. Considering the above and other issues identified with cloth masks, such as poor fit and stretched fibers through use, people should not expect protection against particulate matters from the cloth masks on the market.
+
+    >>> Objectives
+      This study was designed to evaluate the filtration efficiencies and pressure drops of five commercial cloth masks (4 plate type, 1 cup type) in comparison to the performance of a class 1 disposable respirator (reference respirator). A further objective was to evaluate the effects of the number of layers and wash treatment independently on filtration efficiencies and pressure drops. Methods: Polydisperse NaCl aerosols were generated in an aerosol chamber and their concentrations were measured by an optical particle counter (OPC) in the size range of 0.3∼10μm (five channels).
+
+    >>> Results
+      The filtration efficiencies of the five cloth masks and the reference respirator were D: 9.5%, C: 18.5%, E: 23.6%, A: 28.5%, B: 29.7% and R: 91.1%, respectively, and the pressure drops through them were C, D: 0.8 Pa, E: 1.7 Pa, B: 6.4 Pa, A: 42.7 Pa and R: 19.3 Pa, respectively. The filtration efficiencies of the cloth masks and reference respirator were below the class 1 respirator criterion (≥94.0) of the Ministry of Employment and Labor (MOEL) and Ministry of Food and Drug Safety (MFDS). The pressure drops satisfied the class 1 respirator criterion (≤70Pa) of MOEL and MFDS. When the cloth masks were folded into two and four layers, the filtration efficiencies of cloth masks A, B, C, D (plate type) increased 1.7-4.6 times, and 2.3-6.8 times, respectively, compared to the efficiencies of the same products in a single layer. Pressure drops increased as the number of layers was increased. The filtration efficiency of cloth mask E with a liner was 1.3 times higher than that of the same mask without a liner, and the pressure drop was lower in the no-liner configuration. After a single washing, the filtration efficiencies of all the cloth mask products decreased 1.04-4.0 times compared to those of the same products intact. For the cloth masks C and E, their filtration efficiencies were significantly decreased after washing (p<0.05). The pressure drops of all cloth masks were 1.2-2.0 times lower after washing.
+
+    >>> Conclusions
+      The filtration efficiencies of the five cloth masks were below 30% and did not improve greatly by increasing the number of layers. After a single washing, their performances decreased. Considering the above and other issues identified with cloth masks, such as poor fit and stretched fibers through use, people should not expect protection against particulate matters from the cloth masks on the market.
+
+    -- exports
+     !a
+     !b
+     !c
+     !d
+     !e
+
+    / June, 2015 - Korea Journal of Environmental Health Sciences
+    let !a self assert = The filtration efficiency of cloth mask E with a liner was 1.3 times higher than that of the same mask without a liner, and the pressure drop was lower in the no-liner configuration.
+
+    / June, 2015 - Korea Journal of Environmental Health Sciences
+    let !b self assert =  After a single washing, the filtration efficiencies of all the cloth mask products decreased 1.04-4.0 times compared to those of the same products intact. For the cloth masks C and E, their filtration efficiencies were significantly decreased after washing (p<0.05). The pressure drops of all cloth masks were 1.2-2.0 times lower after washing.
+
+    / June, 2015 - Korea Journal of Environmental Health Sciences
+    let !c self assert = When the cloth masks were folded into two and four layers, the filtration efficiencies of cloth masks A, B, C, D (plate type) increased 1.7-4.6 times, and 2.3-6.8 times, respectively, compared to the efficiencies of the same products in a single layer.
+
+    / June, 2015 - Korea Journal of Environmental Health Sciences
+    let !d self assert = Pressure drops increased as the number of layers was increased.
+
+    / June, 2015 - Korea Journal of Environmental Health Sciences
+    let !e self assert = The filtration efficiencies of the cloth masks and reference respirator were below the class 1 respirator criterion (≥ 94.0) of the Ministry of Employment and Labor (MOEL) and Ministry of Food and Drug Safety (MFDS). The pressure drops satisfied the class 1 respirator criterion (≤70Pa) of MOEL and MFDS.
+
+
+
+  # Aerosol, Filtration, Nanofibers
+  // Application of nanofibers to improve the filtration efficiency of the most penetrating aerosol particles in fibrous filters
+  doi: https://doi.org/10.1016/j.ces.2006.07.022
+  ref 'Podgórski_et_al_07_18_2006
+    head = The use of nanofibrous media should be very favorable solution to filter out submicrometersized aerosol particles, especially these ones which penetrate the most through conventional filters composed of microfibers. Simultaneously, the theory predicts that the MPPS can be significantly reduced with the use of nanofibrous media.
+
+
+    >>> Abstract
+      Conventional, mechanical fibrous filters made of microfibers exhibit a local minimum of fractional collection efficiency in the aerosol particle size-range between 100 and 500 nm, which is called the most penetrating particle size (MPPS). Simple theoretical calculations predict that this efficiency may be significantly increased using nanofibrous media. The main objective of this paper is an experimental verification of these expectations and simultaneously checking whether this anticipated gain in the filtration efficiency is not overpaid with an excessive pressure drop. For this purpose we developed a modified melt-blown technology, which allowed us to produce filters composed of micrometer as well as nanometer sized fibers. One conventional microfibrous filter and five nanofibrous filters were examined. The complete structural characteristics, pressure drop and efficiency of removal of aerosol particles with diameters 10–500 nm were determined for all media. The results of the experiments confirmed that using nanofibrous filters a significant growth of filtration efficiency for the MPPS range can be achieved and the pressure drop rises moderately. Simultaneously, we noticed a shift of the MPPS towards smaller particles. Consequently, the quality factor for bilayer systems composed of a microfibrous support and a nanofibrous facial layer was considerably higher than this one for a conventional microfibrous filter alone. Additionally, it was found that utilization of many-layer nanofibrous filters combined with a single microfibrous backing layer is even more profitable from the quality factor standpoint. Comparing experimental results with theoretical calculations based on the single-fiber theory we concluded that for microfibrous filters a fairly good agreement can be obtained if the resistance-equivalent fiber diameter is used in calculations instead of the mean count diameter determined from the SEM images analysis; in the latter case, filtration efficiency computed theoretically is slightly overestimated. This is even more evident for nanofibrous media, suggesting that in such case a structural filter inhomogeneity has a strong influence on the filter efficiency and its resistance and one should strive for minimization of this effect manufacturing nanofibrous filters as homogeneous as possible. We can finally conclude that fibrous filters containing nanofibers, which are produced using the melt-blown technique, are very promising and economic tools to enhance filtration of the most penetrating aerosol particles.
+
+    -- exports
+      !a
+      !b
+
+    / July, 2006 - Chemical Engineeering Science
+    let !a self assert = The minimum value of the quality factor determined for a combination of microfibrous backing layer and the best (from the QF criterion viewpoint) nanofibrous layer (NL4) was 2.6 times greater than the minimum value of QF for two layers of microfibrous support.
+
+    / July, 2006 - Chemical Engineeering Science
+    let !b self assert = Additionally, it was found that utilization of many-layer nanofibrous filters combined with a single microfibrous backing layer is even more profitable from the quality factor standpoint.
+
+
+
+  # face masks, aerosols, cloth filtration efficiency, cloth masks, public eductaion
+  // Household materials selection for homemade cloth face coverings and their filtration efficiency enhancement with triboelectric charging.
+  doi: https://doi.org/10.1021/acs.nanolett.0c02211
+  ref 'Zhao_et_al_06_02_2020
+    head = Common fabrics of cotton, polyester, nylon, and silk had filtration efficiency of 5–25%, polypropylene spunbond had filtration efficiency 6–10%, and paper-based products had filtration efficiency of 10–20%. An advantage of polypropylene spunbond is that it can be simply triboelectrically charged to enhance the filtration efficiency (from 6 to >10%) without any increase in pressure (stable overnight and in humid environments).
+
+
+    >>> Abstract
+      The COVID-19 pandemic is currently causing a severe disruption and shortage in the global supply chain of necessary personal protective equipment (e.g., N95 respirators). The U.S. CDC has recommended use of household cloth by the general public to make cloth face coverings as a method of source control. We evaluated the filtration properties of natural and synthetic materials using a modified procedure for N95 respirator approval. Common fabrics of cotton, polyester, nylon, and silk had filtration efficiency of 5–25%, polypropylene spunbond had filtration efficiency 6–10%, and paper-based products had filtration efficiency of 10–20%. An advantage of polypropylene spunbond is that it can be simply triboelectrically charged to enhance the filtration efficiency (from 6 to >10%) without any increase in pressure (stable overnight and in humid environments). Using the filtration quality factor, fabric microstructure, and charging ability, we are able to provide an assessment of suggested fabric materials for homemade facial coverings.
+
+    -- exports
+      !a
+
+    / June, 2020 - Nano Lett.
+    let !a self assert = When designing new facial coverings for community use, it is advisible to make users aware of this risk and to design cloth face coverings with pressure drop across the covering is as low as possible (with filtration efficiency as high as possible), otherwise air contaminants (particulates, viruses, infectious droplets, etc.) will preferentially flow through gaps and leaks at the skin and cloth contact points limiting any effectiveness of filtration in a de facto form of respiratory protection.
+
+
+
+  # hand Hygiene
+  // Your 5 Moments for Hand Hygiene. Geneva: World Health Organization; 2020
+  doi: https://www.who.int/infection-prevention/campaigns/clean-hands/5moments/en/
+  ref 'Who_06_2006
+    head = The My 5 Moments for Hand Hygiene approach defines the key moments when health-care workers should perform hand hygiene. This evidence-based, field-tested, user-centred approach is designed to be easy to learn, logical and applicable in a wide range of settings.
+
+    / WHO guidelines on hand hygiene in health care
+    let !a self assert =
+
+
+
+  #
+  // Reusability of Facemasks During an Influenza Pandemic: Facing the Flu, 2006
+  doi: https://doi.org/10.17226/11637
+  ref 'Bailar_et_al_2006
+    head = This report offers findings and recommendations (from pertinent literature, manufacturers, researchers, and medical specialists) based on the evidence, pointing to actions that are appropriate now and to lines of research that can better inform future decisions.
+
+    -- exports
+      !a
+
+    / 2006 - National Academies Press
+    let !a self assert = Recently, in response to acute N95 mask shortages, multiple strategies for mask sterilization have been proposed and studied, including exposure to ultraviolet (UV) germicidal irradiation, vaporized hydrogen peroxide, moist heat, ethylene oxide, and gamma irradiation.
+
+
+
+  # facemasks, surgical masks, respirators
+  // Particle Size-Selective Assessment of Protection of European Standard FFP Respirators and Surgical Masks against Particles-Tested with Human Subjects
+  doi: https://doi.org/10.1155/2016/8572493
+  ref 'Hwang_et_al_03_07_2016
+    head = The protection factors of filtering facepiece respirators (FFRs) were 11.5 to 15.9 times greater than those of surgical masks. The minimum protection factors (PFs) were observed for particles between 0.263 and 0.384 μm. No significant difference in PF results was found among FFP respirator categories and particle size. A strong association between fit factors and protection factors was found.
+
+    >>> Abstract
+      This study was conducted to investigate the protection of disposable filtering half-facepiece respirators of different grades against particles between 0.093 and 1.61 μm. A personal sampling system was used to particle size-selectively assess the protection of respirators. The results show that about 10.9% of FFP2 respirators and 28.2% of FFP3 respirators demonstrate assigned protection factors (APFs) below 10 and 20, which are the levels assigned for these respirators by the British Standard. On average, the protection factors of FFP respirators were 11.5 to 15.9 times greater than those of surgical masks. The minimum protection factors (PFs) were observed for particles between 0.263 and 0.384 μm. No significant difference in PF results was found among FFP respirator categories and particle size. A strong association between fit factors and protection factors was found. The study indicates that FFP respirators may not achieve the expected protection level and the APFs may need to be revised for these classes of respirators.
+
+    -- exports
+      !a
+
+
+    / March, 2016 - Journal of Healthcare Engineering
+    let !a self assert = About 18.3% of the tested FFP2 respirators had PFs <10, and ~41.7% of the tested FFP3 respirators had PFs <20, indicating that the European standard for APF of 10 for FFP2 respirators and 20 for FFP3 respirators may overestimate the actual protection offered by these respirators against particles in the size range of 0.093–1.61 μm. The assigned protection factors (APFs) may need to be revised for these classes of respirators.

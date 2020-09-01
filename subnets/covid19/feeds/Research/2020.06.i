@@ -53,7 +53,7 @@ feed June2020
 
   #
 
-  # Hydroxychloroquine - Narrative Paper for rationale? 
+  # Hydroxychloroquine - Narrative Paper for rationale?
   // Hydroxychloroquine and Covid-19: A Cellular and Molecular Biology Based Update
   doi: https://doi.org/10.1007/s12291-020-00900-x
   ref 'Pal_et_al_06_10_2020
@@ -2011,11 +2011,11 @@ feed June2020
     let !i self assert = Interestingly, we observed some cross-reactivity of plasma from SARS-CoV-2-immunized mice to both the SARS-CoV S ectodomain (p < 4e−5, two-tailed t test) and the SARS-CoV RBD (p < 0.006, two-tailed t test), as well as plasma from SARS-CoV-infected mice to the SARS-CoV-2 S ectodomain (p < 0.005, two-tailed t test) but not to the RBD. Of note, the absence of detectable binding of plasma from SARS-CoV-infected mice to SARS-CoV-2 RBD could be due to the overall weak cross-reactive antibody response to SARS-CoV-2, as indicated by the relatively weak binding to the CoV-2 S ectodomain (OD450 ranges from 0.3 to 0.8). The lack of detectable binding of plasma from SARS-CoV-immunized mice to either SARS-CoV-2 S ectodomain or RBD (p > 0.5, two-tailed t test) could be due to the overall low antibody response.
 
 
-  # Face masks, N95, discuss with AYUSH- c, d, e, f
+  # Face masks, N95,
   // Physical distancing, face masks, and eye protection to prevent person-to-person transmission of SARS-CoV-2 and COVID-19: a systematic review and meta-analysis
   doi: https://doi.org/10.1016/S0140-6736(20)31142-9
-  article 'Chu_et_al_06_01_2020b
-    head = The findings of this systematic review and meta-analysis support that physical distancing of at least 1 m is strongly associated with protection, but distances of up to 2 m might be more effective. Although direct evidence is limited, the optimum use of face masks, in particular N95 or similar respirators in health-care settings and 12–16-layer cotton or surgical masks in the community, could depend on contextual factors; action is needed at all levels to address the paucity of better evidence. Eye protection might provide additional benefits.
+  article 'Chu_et_al_06_01_2020
+    head = Physical distancing of at least 1 m is strongly associated with protection, but distances of up to 2 m might be more effective. The optimum use of face masks- N95 or similar respirators in health-care settings and 12–16-layer cotton or surgical masks in the community, could depend on contextual factors. Eye protection might provide additional benefits.
 
     >>> Background
       Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) causes COVID-19 and is spread person-to-person through close contact. We aimed to investigate the effects of physical distance, face masks, and eye protection on virus transmission in health-care and non-health-care (eg, community) settings.
@@ -2034,35 +2034,16 @@ feed June2020
       !a
       !b
       !c
-      !d
-      !e
-      !f
-      !g
-      !h
+
 
     / June, 2020 - The Lancet
-    let !a self assert = Our search identified 172 observational studies across 16 countries and six continents, with no randomised controlled trials and 44 relevant comparative studies in health-care and non-health-care settings (n=25 697 patients). Transmission of viruses was lower with physical distancing of 1 m or more, compared with a distance of less than 1 m (n=10 736, pooled adjusted odds ratio [aOR] 0·18, 95% CI 0·09 to 0·38; risk difference [RD] −10·2%, 95% CI −11·5 to −7·5; moderate certainty); protection was increased as distance was lengthened (change in relative risk [RR] 2·02 per m; pinteraction=0·041; moderate certainty).
+    let !a self assert = Our findings continued to support the ideas not only that masks in general are associated with a large reduction in risk of infection from SARS-CoV-2, SARS-CoV, and MERS-CoV but also that N95 or similar respirators might be associated with a larger degree of protection from viral infection than disposable medical masks or reusable multilayer (12–16-layer) cotton masks.
 
     / June, 2020 - The Lancet
-    let !b self assert = Face mask use could result in a large reduction in risk of infection (n=2647; aOR 0·15, 95% CI 0·07 to 0·34, RD −14·3%, −15·9 to −10·7; low certainty), with stronger associations with N95 or similar respirators compared with disposable surgical masks or similar (eg, reusable 12–16-layer cotton masks; pinteraction=0·090; posterior probability >95%, low certainty).
+    let !b self assert = Our findings suggest it plausible that even in the absence of aerosolisation, respirators might be simply more effective than masks at preventing infection.
 
     / June, 2020 - The Lancet
-    let !c self assert = Indeed, the association with protection from infection was more pronounced with N95 or similar respirators (aOR 0·04, 95% CI 0·004 to 0·30) compared with other masks (aOR 0·33, 95% CI 0·17 to 0·61; pinteraction=0·090; moderate credibility subgroup effect). The interaction was also seen when additionally adjusting for three studies that clearly reported aerosol-generating procedures (pinteraction=0·048). Supportive evidence for this interaction was also seen in within-study comparisons (eg, N95 had a stronger protective association compared with surgical masks or 12–16-layer cotton masks); both N95 and surgical masks also had a stronger association with protection versus single-layer masks.
-
-    / June, 2020 - The Lancet
-    let !d self assert = Minimally informing (25% influence with or without four-fold smaller mean effect size) the most recent and rigorous meta-analysis of the effectiveness of N95 respirators versus medical masks in randomised trials (OR 0·76, 95% CI 0·54–1·06) with the effect-modification seen in this meta-analysis on COVID-19 (ratio of aORs 0·14, 95% CI 0·02–1·05) continued to support a stronger association of protection from COVID-19, SARS, or MERS with N95 or similar respirators versus other face masks (posterior probability for RR <1, 100% and 95%, respectively).
-
-    / June, 2020 - The Lancet
-    let !e self assert = Our findings continued to support the ideas not only that masks in general are associated with a large reduction in risk of infection from SARS-CoV-2, SARS-CoV, and MERS-CoV but also that N95 or similar respirators might be associated with a larger degree of protection from viral infection than disposable medical masks or reusable multilayer (12–16-layer) cotton masks. Nevertheless, in view of the limitations of these data, we did not rate the certainty of effect as high. Our findings accord with those of a cluster randomised trial showing a potential benefit of continuous N95 respirator use over medical masks against seasonal viral infections.
-
-    / June, 2020 - The Lancet
-    let !f self assert = In this respect, some of the masks studied in our review were reusable 12–16-layer cotton or gauze masks. At the moment, although there is consensus that SARS-CoV-2 mainly spreads through large droplets and contact, debate continues about the role of aerosol, but our meta-analysis provides evidence (albeit of low certainty) that respirators might have a stronger protective effect than surgical masks. Nevertheless, our findings suggest it plausible that even in the absence of aerosolisation, respirators might be simply more effective than masks at preventing infection.
-
-    / June, 2020 - The Lancet
-    let !g self assert = Eye protection also was associated with less infection (n=3713; aOR 0·22, 95% CI 0·12 to 0·39, RD −10·6%, 95% CI −12·5 to −7·7; low certainty).
-
-    / June, 2020 - The Lancet
-    let !h self assert = These data also suggest that wearing face masks protects people (both health-care workers and the general public) against infection by these coronaviruses, and that eye protection could confer additional benefit. However, none of these interventions afforded complete protection from infection, and their optimum role might need risk assessment and several contextual considerations. No randomised trials were identified for these interventions in COVID-19, SARS, or MERS.
+    let !c self assert = Eye protection also was associated with less infection.
 
 
   # genome frontier, blood group O, epidemic

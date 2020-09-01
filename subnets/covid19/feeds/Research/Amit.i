@@ -156,6 +156,8 @@
       / February 2009 - Emerging infectious diseases - facemasks might be potentially useful
       let !b self assert = we found that distributing masks during seasonal winter influenza outbreaks is an ineffective control measure characterized by low adherence, results indicate the potential efficacy of masks in contexts where a larger adherence may be expected,
 
+
+
     // “Therapeutic” facemasks
     doi: https://doi.org/10.1016/j.mehy.2020.109855
     ref 'gupta_2020

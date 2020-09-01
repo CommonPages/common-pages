@@ -88,7 +88,6 @@ feed May2020
     'Bullard_et_al_05_22_2020
     'Howard_et_al_05_13_2020
     'Saini_et_al_2020
-    'Leclerc_et_al_05_01_2020
     'Williamson_et_al_05_07_2020
     'Dingens_et_al_2020
     'Goldman-Israelow_et_al_05_27_2020
@@ -3316,28 +3315,6 @@ feed May2020
     # / May, 2020 - The Lancet
     # let !a self assert =
 
-
-  # Indoor
-  // What settings have been linked to SARS-CoV-2 transmission clusters?
-  doi: https://doi.org/10.12688/wellcomeopenres.15889.1
-  article 'Leclerc_et_al_05_01_2020
-    head = We found many examples of SARS-CoV-2 clusters linked to a wide range of mostly indoor settings. Few reports came from schools, many from households, and an increasing number were reported in hospitals and elderly care settings across Europe.
-
-    >>> Background
-      Concern about the health impact of novel coronavirus SARS-CoV-2 has resulted in widespread enforced reductions in people’s movement (“lockdowns”). However, there are increasing concerns about the severe economic and wider societal consequences of these measures. Some countries have begun to lift some of the rules on physical distancing in a stepwise manner, with differences in what these “exit strategies” entail and their timeframes. The aim of this work was to inform such exit strategies by exploring the types of indoor and outdoor settings where transmission of SARS-CoV-2 has been reported to occur and result in clusters of cases. Identifying potential settings that result in transmission clusters allows these to be kept under close surveillance and/or to remain closed as part of strategies that aim to avoid a resurgence in transmission following the lifting of lockdown measures.
-
-    >>> Methods
-      We performed a systematic review of available literature and media reports to find settings reported in peer reviewed articles and media with these characteristics. These sources are curated and made available in an editable online database.
-
-    >>> Results
-      We found many examples of SARS-CoV-2 clusters linked to a wide range of mostly indoor settings. Few reports came from schools, many from households, and an increasing number were reported in hospitals and elderly care settings across Europe.
-
-
-    >>> Conclusion
-      We identified possible places that are linked to clusters of COVID-19 cases and could be closely monitored and/or remain closed in the first instance following the progressive removal of lockdown restrictions. However, in part due to the limits in surveillance capacities in many settings, the gathering of information such as cluster sizes and attack rates is limited in several ways: inherent recall bias, biased media reporting and missing data.
-
-    # / May, 2020 - Welcome Open Research
-    # let !a self assert =
 
 
   # Variant Population - Gender, ethnicity

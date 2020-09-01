@@ -135,8 +135,8 @@ subject module Timeline
         'Kim_et_al_2020
         'Lim_et_al_2020
         'Park_et_al_2020
-        'Shim_et_al_2020
-        'Shim_et_al_2020.!a
+        'Shim_et_al_03_17_2020
+        'Shim_et_al_03_17_2020.!a
     / Singapore
     subject Singapore
       head = As of Feb 15, 2020, 36 cases of COVID-19 were linked epidemiologically to the first three clusters of circumscribed local transmission in Singapore.

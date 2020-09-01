@@ -196,6 +196,7 @@ subject module Virus
           'Liu_et_al_03_10_2020.!b
           'Bean_et_al_07_01_2020
           'Xu_et_al_04_14_2020
+          'Carraturo_et_al_06_09_2020
         # Counter for viability / Stability
         >>>
           Whereas there are arguments which call such studies exaggerated  as these were in lab-based conditions and far from real-life conditions.
@@ -236,6 +237,9 @@ subject module Virus
           'Chen_et_al_08_01_2020
           'Zhang_et_al_04_07_2020
           'Bourouiba_et_al_03_26_2020
+          'Jones_et_al_08_25_2020
+          'Luoma_et_al_07_07_2008
+
         --
           AerosolToilet
         # Close Enviornment
@@ -251,6 +255,7 @@ subject module Virus
           'Wei_et_al_09_02_2016
         -- Dispute not Airborne
           'Cheng_et_al_06_08_2020
+          'Carraturo_et_al_06_09_2020
         / Aerosol Activation in Toilet
         subject AerosolToilet
           --
@@ -269,6 +274,8 @@ subject module Virus
           'Wu_et_al_2020d
           'Lin_et_al_01_26_2017
           'Johnson_et_al_10_05_2012
+        -- Sewage
+          'Carraturo_et_al_06_09_2020
 
       / Animal to Human Tranmission
       subject AnimaltohumanTransmission
@@ -309,6 +316,7 @@ subject module Virus
         -- Air Pollution
           'Wu_et_al_2020c
           'Setti_et_al_04_17_2020
+          'Carraturo_et_al_06_09_2020
       # Find a better word
       / Settings
       subject module Settings
@@ -334,8 +342,6 @@ subject module Virus
           -- Indoor Tranmission
             'Chan_et_al_2020
             'Qian_et_al_2020
-            'Nishiura_et_al_2020c
-            'Leclerc_et_al_05_01_2020
             'Allen_et_al_06_19_2020
             'Ji_et_al_2020
             'Liu_et_al_2020g.!a
@@ -350,6 +356,7 @@ subject module Virus
             'Nishiura_et_al_03_03_2020
             'Nwanaji-Enwerem_et_al_07_08_2020
             'Ahlawat_et_al_07_21_2020
+            'Leclerc_et_al_06_05_2020
 
           --
             HouseholdTransmission
@@ -391,6 +398,7 @@ subject module Virus
               'Chaw_et_al_07_10_2020
               'Tong_et_al_03_09_2020
               'Lewis_et_al_08_16_2020
+              'Burke_et_al_05_03_2020
 
           / Restaurant/ Nightclubs
           subject RestaurantsTransmission
@@ -503,6 +511,7 @@ subject module Virus
             head =
             -- Meat Processing Plants
               'Guenther_et_al_07_23_2020
+              'Dyal_et_al_05_08_2020
 
           / Frontiers
           subject Frontiers
@@ -530,6 +539,7 @@ subject module Virus
             'Olsen_et_al_12_18_2003
             'Kenyon_et_al_04_11_1996
             'Hickman_et_al_03_22_1995
+            'Yang_et_al_03_30_2020
 
         / Wet Markets and Meat processing plants
         subject WetMarkets

@@ -111,6 +111,7 @@ subject module Mitigation
       -- Six-foot rule
         'Feigin_et_al_1982
         'Setti_et_al_04_23_2020
+        'Jones_et_al_08_25_2020
     / School Closure
     subject SchoolClosure
       head = Based on studies, Earlier schools were closed, the lower the number of excess death in past epidemics
@@ -153,7 +154,6 @@ subject module Mitigation
         'Allen_et_al_06_19_2020.!g
         'Liu_et_al_03_10_2020
         'Morawska_et_al_04_10_2020.!a
-        'Somsen_et_al_05_20_2020
       -- Building and Environment
         'Nwanaji-Enwerem_et_al_07_08_2020
         'Dietz_et_al_05_05_2020
@@ -200,6 +200,8 @@ subject module Mitigation
       head =
       -- Gyms
         'Dominski_et_al_07_17_2020
+      -- Meat and Poultry Processing Plants
+        'Dyal_et_al_05_08_2020
 
     / Sewage
     subject Sewage
