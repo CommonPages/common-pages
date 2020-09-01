@@ -69,7 +69,7 @@ feed June2020
     let !a self assert = At the molecular level, hydroxychloroquine affects the activity of lysosomes and in turn autophagy and disrupts lysosomal membrane stability. At the cellular level also, the precise mode of action of hydroxychloroquine is yet to be delineated. Based upon current understanding, hydroxychloroquine has been shown to inhibit immune system activation.
 
 
-  # Nosocomial
+  # Nosocomial - Dispute Not airborne
   // Risk of nosocomial transmission of coronavirus disease 2019: an experience in a general ward setting in Hong Kong
   doi: https://doi.org/10.1016/j.jhin.2020.03.036
   ref 'Wong_et_al_06_01_2020
@@ -144,9 +144,6 @@ feed June2020
 
     >>> Abstract
       The world has been suffering from the COVID-19 pandemic since late 2019. In this study, we compared various types of infection locations in which COVID-19 cases clustered, based on the data from three adjacent provinces in Northeast China. The collected data include all officially reported cases in this area until 8 March 2020. We explored the associations between the cases and the frequency of infection locations. The COVID-19 epidemic situation was worse in Heilongjiang Province than in Liaoning and Jilin Provinces. Most clustered cases occurred in individual families and/or between relatives. The transmission in public venues served as a hub for transmitting the disease to other families and results in new clusters. The public transport spread the infection over long distances by transporting infected individuals, and most infections did not seem to occur within vehicles. This field study shows the effect of indoor environments on SARS-CoV-2 transmission and our data may be useful in developing guidance for future disease prevention and control.
-
-    -- exports
-      !a
 
     / June, 2020 - Int J Environ Res Public Health
     let !a self assert =

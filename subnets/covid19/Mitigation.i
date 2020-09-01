@@ -97,6 +97,7 @@ subject module Mitigation
         'Sanche_et_al_2020.!f
         'Chan_et_al_2020.!k
         'Bi_et_al_04_27_2020.!k
+        'Cheng_et_al_03_19_2020
     / Social Distancing
     subject SocialDistancing
       head = Research suggest that social distancing and population behavioural changes—that have a social and economic impact that is less disruptive than total lockdown—can meaningfully control COVID-19.
@@ -108,6 +109,7 @@ subject module Mitigation
         'Mossong_et_al_2008.!b
         'Lavezzo_et_al_04_18_2020.!e
         'Chu_et_al_06_01_2020
+        'Cheng_et_al_03_19_2020
       -- Six-foot rule
         'Feigin_et_al_1982
         'Setti_et_al_04_23_2020
@@ -191,6 +193,7 @@ subject module Mitigation
         'Liu_et_al_2020bb
         'Somsen_et_al_05_27_2020.!f
         'Liu_et_al_2020
+        'Heinzerling_et_al_04_14_2020.!a
       -- Dental practice
         'Izzetti_et_al_04_17_2020
         'Peng_et_al_03_03_2020

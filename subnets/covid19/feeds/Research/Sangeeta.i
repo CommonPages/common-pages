@@ -14,7 +14,7 @@ feed Sangeeta
     / February, 2020 - bioRxiv
     let !a self assert =
 
-    
+
   # Disinfection, Wastewater, Airborne, counter to airbourne
   // Persistence of SARS-CoV-2 in the environment and COVID-19 transmission risk from environmental matrices and surfaces
   doi: https://doi.org/10.1016/j.envpol.2020.115010
@@ -117,8 +117,6 @@ feed Sangeeta
 
     / August, 2020 - BMJ
     let !a self assert =
-
-
 
   # 9 ppl, 2 secondary rate, household, spouse, Outbreak, Close contact, USA
   // Enhanced Contact Investigations for Nine Early Travel-Related Cases of SARS-CoV-2 in the United States

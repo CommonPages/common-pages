@@ -197,6 +197,7 @@ subject module Virus
           'Bean_et_al_07_01_2020
           'Xu_et_al_04_14_2020
           'Carraturo_et_al_06_09_2020
+          'Guo_et_al_07_26_2020
         # Counter for viability / Stability
         >>>
           Whereas there are arguments which call such studies exaggerated  as these were in lab-based conditions and far from real-life conditions.
@@ -214,6 +215,7 @@ subject module Virus
           'Lin_et_al_01_26_2017
           'Johnson_et_al_06_21_2011
           'Doremalen_et_al_03_17_2020
+          'Guo_et_al_07_26_2020
         -- Aerosol Transmission
           'Allen_et_al_05_06_2020
           'Lednicky_et_al_05_22_2020
@@ -253,9 +255,12 @@ subject module Virus
           'Jayaweera_et_al_06_10_2020
           'Morawska_et_al_04_10_2020
           'Wei_et_al_09_02_2016
+          'Hoseinzadeh_et_al_07_09_2020
         -- Dispute not Airborne
           'Cheng_et_al_06_08_2020
           'Carraturo_et_al_06_09_2020
+          'Wong_et_al_06_01_2020
+          'Wu_et_al_05_11_2020
         / Aerosol Activation in Toilet
         subject AerosolToilet
           --
@@ -264,6 +269,7 @@ subject module Virus
             'Barker_et_al_06_16_2005
             'Johnson_et_al_10_08_2012
             'Liu_et_al_03_10_2020.!c
+            'Ding_et_al_08_15_2020
       / Fecal Transmission
       subject FaecalTransmission
         head = Viral RNA has been found in stool samples of infected individuals. However, these being infectious is yet to be established conclusively.
@@ -276,6 +282,8 @@ subject module Virus
           'Johnson_et_al_10_05_2012
         -- Sewage
           'Carraturo_et_al_06_09_2020
+          'Hoseinzadeh_et_al_07_09_2020
+          'Cahill_et_al_06_11_2020
 
       / Animal to Human Tranmission
       subject AnimaltohumanTransmission
@@ -334,11 +342,16 @@ subject module Virus
             'Liu_et_al_03_10_2020
             'Jayaweera_et_al_06_10_2020.!b
             'Lai_et_al_05_21_2020
+            'Sr_et_al_04_01_2020
+            'Heinzerling_et_al_04_14_2020
+            'Wong_et_al_06_01_2020
+            'Guo_et_al_07_26_2020
+            'Wu_et_al_05_11_2020
+            'Ding_et_al_08_15_2020
+
         / Indoor Tranmission/ Indoor Settings
         subject IndoorTransmission
           head = Based on studies close contact in the family is the main transmission route of infection.
-
-          # Unedited - Indoor
           -- Indoor Tranmission
             'Chan_et_al_2020
             'Qian_et_al_2020
@@ -360,6 +373,7 @@ subject module Virus
 
           --
             HouseholdTransmission
+            CloseContact
             RestaurantsTransmission
             GymsTransmission
             TransmissionReports
@@ -431,6 +445,7 @@ subject module Virus
               'Szablewski_et_al_08_07_2020
               'Tariq_et_al_02_20_2020
               'Shim_et_al_03_17_2020
+              'Zhao_et_al_06_03_2020
 
           / Public transport
           subject PublicTransport
@@ -475,6 +490,8 @@ subject module Virus
               'Thuan-Hoang_et_al_08_28_2018
               'Sassano_et_al_05_29_2020
               'Chaw_et_al_07_10_2020
+            -- Churh
+              'Yong_et_al_04_21_2020.!a
 
           / Customs, traditions and social environmental factors
           subject Customs
@@ -522,12 +539,19 @@ subject module Virus
               'Murphy_et_al_06_21_2008
               'Andrade_et_al_11_02_2017
 
+          / Close Contact
+          subject CloseContact
+            --
+              'Chen_et_al_05_10_2020
+              'Shen_et_al_06_12_2020
+              'Yong_et_al_04_21_2020.!b
 
         / Outdoor Transmission/ Outdoor Settings
         subject OutdoorTransmission
           head = Based on data collected so far, Outdoor Tranmission is possible but seems to be rare.
           --
             'Qian_et_al_2020.!h
+
         / Airline Transmission
         subject AirlineTransmission
           head = The transmission routes in air cabins are probably the close contact route and the formite route.
@@ -553,7 +577,6 @@ subject module Virus
           -- Poultry
             'Dhingra_et_al_06_05_2018
 
-
         / Slums
         subject Slums
           head = Little is known about the spectrum and burden of disease morbidity in urban slums of the world. With 1 billion people currently estimated to live in such communities, this neglected population has become a major reservoir for a wide spectrum of health conditions.
@@ -575,6 +598,7 @@ subject module Virus
         'Russell_et_al_2020.!a
         'Dong_et_al_2020b
         'He_et_al_2020.!a
+        'Danis_et_al_04_11_2020
       -- Reports
         'Qian_et_al_03_23_2020
         'Zhang_et_al_03_27_2020
