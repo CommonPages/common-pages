@@ -976,7 +976,7 @@ feed Sangeeta
 
   # Airborne transmission, mitigation- a
   // Airborne transmission of SARS-CoV-2: The world should face the reality.
-  doi: 10.1016/j.envint.2020.105730
+  doi: https://doi.org/10.1016/j.envint.2020.105730
   ref 'Morawska_et_al_04_10_2020
     head = Based on the trend in the increase of infections, and understanding the basic science of viral infection spread, we strongly believe that the virus is likely to be spreading through the air. Science explains the mechanisms of such transport and there is evidence that this is a significant route of infection in indoor environments.
 

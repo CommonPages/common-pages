@@ -141,28 +141,6 @@ feed May2020
     let !a self assert =
 
 
-  # Transmission , Contact Tracing
-  // Enhanced Contact Investigations for Nine Early Travel-Related Cases of SARS-CoV-2 in the United States
-  doi: https://doi.org/10.1101/2020.04.27.20081901
-  ref 'Burke_et_al_05_03_2020
-    head = Close contacts of nine early travel-related cases in the United States were identified and underwent active monitoring. The enhanced contact tracing investigations undertaken identified two cases of secondary transmission, both spouses.
-
-    >>> Background
-      Coronavirus disease 2019 (COVID-19), the respiratory disease caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), was first identified in Wuhan, China and has since become pandemic. As part of initial response activities in the United States, enhanced contact investigations were conducted to enable early identification and isolation of additional cases and to learn more about risk factors for transmission.
-    >>> Methods
-      Close contacts of nine early travel-related cases in the United States were identified. Close contacts meeting criteria for active monitoring were followed, and selected individuals were targeted for collection of additional exposure details and respiratory samples. Respiratory samples were tested for SARS-CoV-2 by real-time reverse transcription polymerase chain reaction (RT-PCR) at the Centers for Disease Control and Prevention.
-    >>> Results
-      There were 404 close contacts who underwent active monitoring in the response jurisdictions; 338 had at least basic exposure data, of whom 159 had at least 1 set of respiratory samples collected and tested. Across all known close contacts under monitoring, two additional cases were identified; both secondary cases were in spouses of travel-associated case patients. The secondary attack rate among household members, all of whom had at least 1 respiratory sample tested, was 13% (95% CI: 4 - 38%).
-    >>> Conclusions
-      The enhanced contact tracing investigations undertaken around nine early travel-related cases of COVID-19 in the United States identified two cases of secondary transmission, both spouses. Rapid detection and isolation of the travel-associated case patients, enabled by public awareness of COVID-19 among travelers from China, may have mitigated transmission risk among close contacts of these cases.
-
-
-    -- exports
-      !a
-
-    / May, 2020 - medRxiv
-    let !a self assert = Rapid detection and isolation of the travel-associated case patients, enabled by public awareness of COVID-19 among travelers from China, may have mitigated transmission risk among close contacts of these cases.
-
 
   # Close Contact
   // Epidemiological characteristics of infection in COVID-19 close contacts in Ningbo city

@@ -571,7 +571,6 @@ subject module Virus
         'Hoxha_et_al_07_03_2020
         'Lavezzo_et_al_04_18_2020
         'Kimball_et_al_04_03_2020
-        'Hijnen_et_al_08_08_2020
 
     / Superspreader
     subject Superspreaders
