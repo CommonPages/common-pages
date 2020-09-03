@@ -32,6 +32,7 @@
   PublicPolicy
   PublicSpace
   Facemask
+  Transmission
 
 -- Feeds
   feeds.Research
