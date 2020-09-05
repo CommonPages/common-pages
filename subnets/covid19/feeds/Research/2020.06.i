@@ -53,6 +53,57 @@ feed June2020
 
   #
 
+  # Household 
+  // SARS-CoV-2 in environmental samples of quarantined households
+  doi: https://doi.org/10.1101/2020.05.28.20114041
+  ref 'Döhla_et_al_06_02_2020
+    head = The domestic environment predominantly does not seem to pose a high risk for transmission of SARS-CoV-2. Surfaces in the domestic environment did not show a high contamination rate, whereas the detection of viral RNA in wastewater of washbasins, showers and toilets showed a significantly higher contamination with SARS-CoV-2.
+
+    >>> Abstract
+      The role of environmental transmission of SARS-CoV-2 remains unclear. Particularly the close contact of persons living together or cohabitating in domestic quarantine could result in high risk for exposure to the virus within the households. Therefore, the aim of this study was to investigate the whereabouts of the virus and whether useful precautions to prevent the dissemination can be given. 21 households under quarantine conditions were randomly selected for this study. All persons living in each household were recorded in terms of age, sex and time of household quarantine. Throat swabs for analysis were obtained from all adult individuals and most of the children. Air, wastewater samples and surface swabs (commodities) were obtained and analysed by RT-PCR. Positive swabs were cultivated to analyse for viral infectivity. 26 of all 43 tested adults (60.47 %) tested positive by RT-PCR. All 15 air samples were PCR-negative. 10 of 66 wastewater samples were positive for SARS-CoV-2 (15.15 %) as well as 4 of 119 object samples (3.36 %). No statistically significant correlation between PCR-positive environmental samples and the extent of infection spread inside the household could be observed. No infectious virus could be isolated under cell culture conditions. As we cannot rule out transmission through surfaces, hygienic behavioural measures are important in the households of SARS-CoV-2 infected individuals to avoid potential transmission through surfaces. The role of the domestic environment, in particular the wastewater load in washbasins and showers, in the transmission of SARS CoV-2 should be further clarified.
+
+    -- exports
+      !a
+
+    / June, 2020 - medRxiv
+    let !a self assert =
+
+
+  # Close contact . Indirect Tranmission
+  // Indirect Virus Transmission in Cluster of COVID-19 Cases, Wenzhou, China, 2020
+  doi: https://dx.doi.org/10.3201%2Feid2606.200412
+  ref 'Cai_et_al_06_26_2020
+    head = Low intensity transmission occurred without prolonged close contact in this mall; that is, the virus spread by indirect transmission.
+
+    >>> Abstract
+      To determine possible modes of virus transmission, we investigated a cluster of coronavirus disease cases associated with a shopping mall in Wenzhou, China. Data indicated that indirect transmission of the causative virus occurred, perhaps resulting from virus contamination of common objects, virus aerosolization in a confined space, or spread from asymptomatic infected persons.
+
+
+    / June, 2020 - Emerging Infectious Disease
+    let !a self assert =
+
+  # Social Distancing
+  // Impact of Timing of and Adherence to Social Distancing Measures on COVID-19 Burden in the US: A Simulation Modeling Approach
+  doi: https://doi.org/10.1101/2020.06.07.20124859
+  ref 'Alagoz_et_al_06_09_2020
+    head = Timing of social distancing and adherence level had a major effect on COVID-19 occurrence. Implementing social distancing measures on March 5, 2020 instead of March 12, 2020 would have reduced the total number of confirmed cases from 191,984 to 43,968 as of May 30, whereas a 1-week delay in implementing such measures could have increased the number of confirmed cases to 1,299,420.
+
+    >>> Background
+      Across the U.S., various social distancing measures were implemented to control COVID-19 pandemic. However, there is uncertainty in the effectiveness of such measures for specific regions with varying population demographics and different levels of adherence to social distancing. The objective of this paper is to determine the impact of social distancing measures in unique regions.
+
+    >>> Methods
+      We developed COVid-19 Agent-based simulation Model (COVAM), an agent-based simulation model (ABM) that represents the social network and interactions among the people in a region considering population demographics, limited testing availability, imported infections from outside of the region, asymptomatic disease transmission, and adherence to social distancing measures. We adopted COVAM to represent COVID-19-associated events in Dane County, Wisconsin, Milwaukee metropolitan area, and New York City (NYC). We used COVAM to evaluate the impact of three different aspects of social distancing: 1) Adherence to social distancing measures; 2) timing of implementing social distancing; and 3) timing of easing social distancing.
+
+    >>> Results
+      We found that the timing of social distancing and adherence level had a major effect on COVID-19 occurrence. For example, in NYC, implementing social distancing measures on March 5, 2020 instead of March 12, 2020 would have reduced the total number of confirmed cases from 191,984 to 43,968 as of May 30, whereas a 1-week delay in implementing such measures could have increased the number of confirmed cases to 1,299,420. Easing social distancing measures on June 1, 2020 instead of June 15, 2020 in NYC would increase the total number of confirmed cases from 275,587 to 379,858 as of July 31.
+
+    >>> Conclusion
+      The timing of implementing social distancing measures, adherence to the measures, and timing of their easing have major effects on the number of COVID-19 cases.
+
+
+    / June, 2020 - medRxiv
+    let !a self assert =
+
   # Hydroxychloroquine - Narrative Paper for rationale?
   // Hydroxychloroquine and Covid-19: A Cellular and Molecular Biology Based Update
   doi: https://doi.org/10.1007/s12291-020-00900-x

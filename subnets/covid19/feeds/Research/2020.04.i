@@ -108,6 +108,68 @@ feed April2020
 
   #
 
+  
+  # 6 Feet rule - Aerosol
+  // Airborne or Droplet Precautions for Health Workers Treating Coronavirus Disease 2019?
+  doi: https://doi.org/10.1093/infdis/jiaa189
+  ref 'Bahl_et_al_04_16_2020
+    head = Evidence base for current guidelines is sparse, and the available data do not support the 1- to 2-meter (≈3–6 feet) rule of spatial separation. Of 10 studies on horizontal droplet distance, 8 showed droplets travel more than 2 meters (≈6 feet), in some cases up to 8 meters (≈26 feet).
+
+    >>> Abstract
+      Cases of coronavirus disease 2019 (COVID-19) have been reported in more than 200 countries. Thousands of health workers have been infected, and outbreaks have occurred in hospitals, aged care facilities, and prisons. The World Health Organization (WHO) has issued guidelines for contact and droplet precautions for healthcare workers caring for suspected COVID-19 patients, whereas the US Centers for Disease Control and Prevention (CDC) has initially recommended airborne precautions. The 1- to 2-meter (≈3–6 feet) rule of spatial separation is central to droplet precautions and assumes that large droplets do not travel further than 2 meters (≈6 feet). We aimed to review the evidence for horizontal distance traveled by droplets and the guidelines issued by the WHO, CDC, and European Centre for Disease Prevention and Control on respiratory protection for COVID-19. We found that the evidence base for current guidelines is sparse, and the available data do not support the 1- to 2-meter (≈3–6 feet) rule of spatial separation. Of 10 studies on horizontal droplet distance, 8 showed droplets travel more than 2 meters (≈6 feet), in some cases up to 8 meters (≈26 feet). Several studies of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) support aerosol transmission, and 1 study documented virus at a distance of 4 meters (≈13 feet) from the patient. Moreover, evidence suggests that infections cannot neatly be separated into the dichotomy of droplet versus airborne transmission routes. Available studies also show that SARS-CoV-2 can be detected in the air, and remain viable 3 hours after aerosolization. The weight of combined evidence supports airborne precautions for the occupational health and safety of health workers treating patients with COVID-19.
+
+    -- exports
+      !a
+
+    / April, 2020 - The Journal of Infectious Diseases
+    let !a self assert = Infections cannot neatly be separated into the dichotomy of droplet versus airborne transmission routes.
+
+
+  # Ventilation - Airborne
+  // Airborne route and bad use of ventilation systems as non-negligible factors in SARS-CoV-2 transmission
+  doi: https://doi.org/10.1016/j.mehy.2020.109781
+  ref 'Correia_et_al_04_25_2020
+    head = The authors address HVAC (Heating, Ventilation and Air Conditioning Systems) as major source for indoor and environmental contamination that can explain the swift viral spread. The confirmation of such way of transmission can constitute a major shift in the battle against the pandemic.
+
+    >>> Abstract
+      The world is facing a pandemic of unseen proportions caused by a corona virus named SARS-CoV-2 with unprecedent worldwide measures being taken to tackle its contagion. Person-to-person transmission is accepted but WHO only considers aerosol transmission when procedures or support treatments that produce aerosol are performed. Transmission mechanisms are not fully understood and there is evidence for an airborne route to be considered, as the virus remains viable in aerosols for at least 3 h and that mask usage was the best intervention to prevent infection.
+      Heating, Ventilation and Air Conditioning Systems (HVAC) are used as a primary infection disease control measure. However, if not correctly used, they may contribute to the transmission/spreading of airborne diseases as proposed in the past for SARS.
+      The authors believe that airborne transmission is possible and that HVAC systems when not adequately used may contribute to the transmission of the virus, as suggested by descriptions from Japan, Germany, and the Diamond Princess Cruise Ship. Previous SARS outbreaks reported at Amoy Gardens, Emergency Rooms and Hotels, also suggested an airborne transmission.
+      Further studies are warranted to confirm our hypotheses but the assumption of such way of transmission would cause a major shift in measures recommended to prevent infection such as the disseminated use of masks and structural changes to hospital and other facilities with HVAC systems.
+
+    -- exports
+      !a
+
+    / April, 2020 - Medical Hypotheses
+    let !a self assert =
+
+  # Modes - Mobile Phones
+  // Mobile phones represent a pathway for microbial transmission: A scoping review
+  doi: https://doi.org/10.1016/j.tmaid.2020.101704
+  ref 'Olsen_et_al_04_28_2020
+    head = Fundamentally, mobile phones harbour a diverse range of species of microorganisms including antibiotic-resistant organisms which pose a risk to human health, both in the health care system and the broader community.
+
+    >>> Background
+      Mobile phones have become an integral part of modern society. As possible breeding grounds for microbial organisms, these constitute a potential global public health risk for microbial transmission.
+
+    >>> Objective
+      Scoping review of literature examining microbial's presence on mobile phones in both health care (HC) and community settings.
+
+    >>> Methods
+      A search (PubMed&GoogleScholar) was conducted from January 2005–December 2019 to identify English language studies. Studies were included if samples from mobile phones were tested for bacteria, fungi, and/or viruses; and if the sampling was carried out in any HC setting, and/or within the general community. Any other studies exploring mobile phones that did not identify specific microorganisms were excluded.
+
+    >>> Results
+      A total of 56 studies were included (from 24 countries). Most studies identified the presence of bacteria (54/56), while 16 studies reported the presence of fungi. One study focused solely on RNA viruses. Staphylococcus aureus, and Coagulase-Negative Staphylococci were the most numerous identified organisms present on mobile phones. These two species and Escherichia coli were present in over a third of studies both in HC and community samples. Methicillin-resistant S. aureus, Acinetobacter sp., and Bacillus sp. were present in over a third of the studies in HC settings.
+
+    >>> Conclusions
+      While this scoping review of literature regarding microbial identification on mobile phones in HC and community settings did not directly address the issue of SARS-CoV-2 responsible for COVID-19, this work exposes the possible role of mobile phones as a ‘Trojan horse’ contributing to the transmission of microbial infections in epidemics and pandemics.
+
+    -- exports
+      !a
+
+    / April, 2020 - Travel Medicine and Infectious Disease
+    let !a self assert =
+
   # Hydroxychloroquine
   // A systematic review of the prophylactic role of chloroquine and hydroxychloroquine in coronavirus disease‐19 (COVID‐19)
   doi: https://doi.org/10.1111/1756-185X.13842

@@ -35,6 +35,55 @@ feed 2019
   -- Jan, 2019
     'Chen_et_al_2019
 
+  #
+
+  # Droplet Size, Mention Assertions
+  // The size and the duration of air-carriage of respiratory droplets and droplet-nuclei
+  doi: https://doi.org/10.1017/S0022172400019288
+  ref 'Duguid_et_al_05_15_2009
+    head = The sizes of the droplets and droplet-nuclei produced by sneezing, by coughing and by speaking, were studied by the microscopic measurement
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / May, 2009 - Epidemiology & Infection
+    let !a self assert =  The sizes of the droplets and droplet-nuclei produced by sneezing, by coughing and by speaking, were studied by the microscopic measurement of 12,000 droplet stain-marks found on slides exposed directly to mouth-spray, and of 21,000 stain-containing droplet-nuclei recovered from the air on to oiled slides exposed in the slit sampler.
+
+    / May, 2009 - Epidemiology & Infection
+    let !b self assert = From these measurements it was calculated that the original diameters of the respiratory droplets ranged from 1 to 2000 μ, that 95 % were between 2 and 100 μ and that the most common were between 4 and 8 μ. Similar size distributions were exhibited by the droplets produced in sneezing, in coughing and in speaking, except that, in the case of sneezing, the smaller droplets were relatively more numerous.
+
+    / May, 2009 - Epidemiology & Infection
+    let !c self assert =  The respiratory droplet-nuclei were found to range in diameter from ¼ to 42 μ; 97 % had diameters between ½ and 12μ; the commonest diameter was between 1 and 2 μ.
+
+    / May, 2009 - Epidemiology & Infection
+    let !d self assert = The proportion of droplets of each size which will contain bacteria, whether commensal or pathogenic, is determined by the size of the droplets and by the numbers of bacteria in the secretions atomized. Calculations made on the basis of the size distributions obtained in this investigation indicated that few of the smaller droplets, and thus few of the droplet-nuclei, are likely to contain pathogenic organisms. Droplet-spray is unlikely to give rise directly to true airborne infection unless very large numbers of pathogenic organisms are present in the secretions of the anterior mouth.
+
+    / May, 2009 - Epidemiology & Infection
+    let !e self assert = The persistence of droplet-nuclei in the air of a 1700 cu.ft. room and of a 70 cu.ft. chamber was investigated by sampling the air with the slit sampler at intervals following sneezing.
+
+    / May, 2009 - Epidemiology & Infection
+    let !f self assert = When the air was not artificially disturbed by a fan, the time taken for the disappearance from the air of 90% of the bacteria-carrying droplet-nuclei varied from 30 to 60 min.; the nuclei larger than 8 μ in diameter usually disappeared within 20 min., and the nuclei larger than 4 μ within 90 min.; the smaller nuclei, few of which contained bacteria, remained airborne for much longer periods, on one occasion for at least 30 hr. When a fan was run throughout the experiment, the nuclei disappeared from the air much more rapidly.
+
+
+  # Aerosol
+  // Recognition of aerosol transmission of infectious agents: a commentary
+  doi: https://doi.org/10.1186/s12879-019-3707-y
+  ref 'Xiao_et_al_02_20_2020
+    head = The potential for airborne transmission is much more dependent on various host, viral and environmental factors
+
+    >>> Abstract
+      Although short-range large-droplet transmission is possible for most respiratory infectious agents, deciding on whether the same agent is also airborne has a potentially huge impact on the types (and costs) of infection control interventions that are required.
+      The concept and definition of aerosols is also discussed, as is the concept of large droplet transmission, and airborne transmission which is meant by most authors to be synonymous with aerosol transmission, although some use the term to mean either large droplet or aerosol transmission.
+      However, these terms are often used confusingly when discussing specific infection control interventions for individual pathogens that are accepted to be mostly transmitted by the airborne (aerosol) route (e.g. tuberculosis, measles and chickenpox). It is therefore important to clarify such terminology, where a particular intervention, like the type of personal protective equipment (PPE) to be used, is deemed adequate to intervene for this potential mode of transmission, i.e. at an N95 rather than surgical mask level requirement.
+      With this in mind, this review considers the commonly used term of ‘aerosol transmission’ in the context of some infectious agents that are well-recognized to be transmissible via the airborne route. It also discusses other agents, like influenza virus, where the potential for airborne transmission is much more dependent on various host, viral and environmental factors, and where its potential for aerosol transmission may be underestimated.
+
+    / Jan, 2019 - BMC Infect Dis
+    let !a self assert =
 
   # Environment - Tranmission - Humidity
   // Humidity-Dependent Decay of Viruses, but Not Bacteria, in Aerosols and Droplets Follows Disinfection Kinetics

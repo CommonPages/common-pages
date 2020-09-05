@@ -368,6 +368,203 @@ feed Pre2019
 
   #
 
+  # Airline - Airborne
+  // Experimental and numerical investigation of airflow and contaminant transport in an airliner cabin mockup
+  doi: https://doi.org/10.1016/j.buildenv.2008.01.012
+  ref 'Zhang_et_al_02_20_2008
+    head = The present study analyzed the similarities and differences of transport and dispersion between the gaseous and particulate contaminants. The sub-micron-sized heavy particles behaved like the passive gas contaminant in the cabin except in the region near the source position because the diffusivity can be different.
+
+    >>> Abstract
+      The study of airflow and contaminant transport in airliner cabins is very important for creating a comfortable and healthy environment. This paper shows the results of such a study by conducting experimental measurements and numerical simulations of airflow and contaminant transport in a section of half occupied, twin-aisle cabin mockup. The air velocity and air temperature were measured by ultrasonic and omni-directional anemometers. A gaseous contaminant was simulated by a tracer gas, sulfur hexafluoride or SF6, and measured by a photo-acoustic multi-gas analyzer. A particulate contaminant was simulated by 0.7 μm di-ethyl-hexyl-sebacat (DEHS) particles and measured by an optical particle sizer. The numerical simulations used the Reynolds averaged Navier–Stokes equations based on the RNG k–ε model to solve the air velocity, air temperature, and gas contaminant concentration; and employed a Lagrangian method to model the particle transport. The numerical results quantitatively agreed with the experimental data while some remarkable differences exist in airflow distributions. Both the experimental measurements and computer simulations were not free from errors. A complete and accurate validation for a complicated cabin environment is challenging and difficult.
+
+
+    / February, 2008 - Building and Environment
+    let !a self assert =
+
+
+  # Aerosol Flight Tranmission
+  // Modeling the Fate of Expiratory Aerosols and the Associated Infection Risk in an Aircraft Cabin Environment
+  doi: https://doi.org/10.1080/02786820802641461
+  ref 'Wan_et_al_02_25_2009
+    head = The transport and deposition of polydispersed expiratory aerosols in an aircraft cabin were simulated. Passengers seated within one row from the index patient are subject to contact risks that are one to two orders of magnitude higher than are passengers seated further away.
+
+    >>> Abstract
+      The transport and deposition of polydispersed expiratory aerosols in an aircraft cabin were simulated using a Lagrangian-based model validated by experiments conducted in an aircraft cabin mockup. Infection risk by inhalation was estimated using the aerosol dispersion data and a model was developed to estimate the risk of infection by contact. The environmental control system (ECS) in a cabin creates air circulation mainly in the lateral direction, making lateral dispersions of aerosols much faster than longitudinal dispersions. Aerosols with initial sizes under 28 μm in diameter can stay airborne for comparatively long periods and are favorable for airborne transport. Using influenza data as an example, the estimated risk of infection by inhalation are at least two orders of magnitude higher than the risk of infection by contact. An increase in the supply airflow rate enhances ventilation removal and the dispersion of these aerosols. It reduces the risk of infection by inhalation for passengers seated within one row and one column from the index patient but it increases the risk for passengers seated further away. The deposition fraction increases with aerosol size. The ECS supply airflow rate has insignificant impact on the deposition behavior of these large aerosols, making the impact on the risk of infection by contact insignificant. Comparatively, the contact behavior of passengers is highly influential to the contact infection risk. Passengers seated within one row from the index patient are subject to contact risks that are one to two orders of magnitude higher than are passengers seated further away.
+
+    / February, 2009 - Aerosol Science and Technology
+    let !a self assert =
+
+
+  # Aersol Influenza
+  // Influenza virus in human exhaled breath: an observational study
+  doi: https://doi.org/10.1371/journal.pone.0002691
+  ref 'Fabian_et_al_07_16_2008
+    head = Influenza virus may be contained in fine particles generated during tidal breathing, and add to the body of literature suggesting that fine particle aerosols may play a role in influenza transmission.
+
+    >>> Background
+      Recent studies suggest that humans exhale fine particles during tidal breathing but little is known of their composition, particularly during infection.
+
+    >>> Methodology/principal findings
+      We conducted a study of influenza infected patients to characterize influenza virus and particle concentrations in their exhaled breath. Patients presenting with influenza-like-illness, confirmed influenza A or B virus by rapid test, and onset within 3 days were recruited at three clinics in Hong Kong, China. We collected exhaled breath from each subject onto Teflon filters and measured exhaled particle concentrations using an optical particle counter. Filters were analyzed for influenza A and B viruses by quantitative polymerase chain reaction (qPCR). Twelve out of thirteen rapid test positive patients provided exhaled breath filter samples (7 subjects infected with influenza B virus and 5 subjects infected with influenza A virus). We detected influenza virus RNA in the exhaled breath of 4 (33%) subjects--three (60%) of the five patients infected with influenza A virus and one (14%) of the seven infected with influenza B virus. Exhaled influenza virus RNA generation rates ranged from <3.2 to 20 influenza virus RNA particles per minute. Over 87% of particles exhaled were under 1 microm in diameter.
+
+    >>> Conclusions
+      These findings regarding influenza virus RNA suggest that influenza virus may be contained in fine particles generated during tidal breathing, and add to the body of literature suggesting that fine particle aerosols may play a role in influenza transmission.
+
+    / July, 2008 - Plos One
+    let !a self assert =
+
+  # Aerosol Size
+  // Size distribution and sites of origin of droplets expelled from the human respiratory tract during expiratory activities
+  doi: https://doi.org/10.1016/j.jaerosci.2008.11.002
+  ref 'Morawska_et_al_11_18_2008
+    head = A new expiratory droplet investigation system (EDIS) was used to conduct the most comprehensive program of study to date, of the dilution corrected droplet size distributions produced during different respiratory activities.
+
+    >>> Abstract
+      A new expiratory droplet investigation system (EDIS) was used to conduct the most comprehensive program of study to date, of the dilution corrected droplet size distributions produced during different respiratory activities.
+      Distinct physiological processes were responsible for specific size distribution modes. The majority of particles for all activities were produced in one or more modes, with diameters below 0.8 μm at average concentrations up to 0.75 cm−3. These particles occurred at varying concentrations, during all respiratory activities, including normal breathing. A second mode at 1.8 μm was produced during all activities, but at lower concentrations of up to 0.14 cm−3.
+      Speech produced additional particles in modes near 3.5 and 5 μm. These two modes became most pronounced during sustained vocalization, producing average concentrations of 0.04 and 0.16 cm−3, respectively, suggesting that the aerosolization of secretions lubricating the vocal chords is a major source of droplets in terms of number.
+      For the entire size range examined of 0.3–20 μm, average particle number concentrations produced during exhalation ranged from 0.1 cm−3 for breathing to 1.1 cm−3 for sustained vocalization.
+      Non-equilibrium droplet evaporation was not detectable for particles between 0.5 and 20 μm, implying that evaporation to the equilibrium droplet size occurred within 0.8 s.
+
+
+    / November, 2008 - Jounral of Aersol Science
+    let !a self assert =
+
+  # Droplet size
+  // The Size Distribution of Droplets in the Exhaled Breath of Healthy Human Subjects
+  doi: https://doi.org/10.1089/jam.1997.10.105
+  ref 'Papineni_et_al_01_30_2009
+    head = Exhaled droplets from human subjects performing four respiratory actions (mouth breathing, nose breathing, coughing, talking) were measured. Coughing produced the largest droplet concentrations and nose breathing the least, although considerable intersubject variability was observed.
+
+    >>> Abstract
+      Droplets carried in exhaled breath may carry microorganisms capable of transmitting disease over both short and long distances. The size distribution of such droplets will influence the type of organisms that may be carried as well as strategies for controlling airborne infection. The aim of this study was to characterize the size distribution of droplets exhaled by healthy individuals. Exhaled droplets from human subjects performing four respiratory actions (mouth breathing, nose breathing, coughing, talking) were measured by both an optical particle counter (OPC) and an analytical transmission electron microscope (AEM). The OPC indicated a preponderance of particles less than 1 μ, although larger particles were also found. Measurements with the AEM confirmed the existence of larger sized droplets in the exhaled breath. In general, coughing produced the largest droplet concentrations and nose breathing the least, although considerable intersubject variability was observed.
+
+    -- exports
+      !a
+
+    / Jan, 2009 - Journal of Aerosol Medicine
+    let !a self assert =
+
+  # Droplet
+  // A Sneeze
+  doi: https://doi.org/10.1056/NEJMicm1501197
+  ref 'Bourouiba_et_al_08_25_2016
+    head = The largest droplets rapidly settle within 1 to 2 m away from the person. The smaller and evaporating droplets are trapped in the turbulent puff cloud, remain suspended, and, over the course of seconds to a few minutes, can travel the dimensions of a room and land up to 6 to 8 m away.
+
+    / August, 2020 - NEJM
+    let !a self assert =
+
+  # SARS - Aerosol
+  // Evidence of Airborne Transmission of the Severe Acute Respiratory Syndrome Virus
+  doi: https://doi.org/10.1056/NEJMoa032867
+  ref 'Yu_et_al_04_22_2004
+    head = Airborne spread of the virus appears to explain this large community outbreak of SARS, and future efforts at prevention and control must take into consideration the potential for airborne spread of this virus.
+
+    >>> BACKGROUND
+      There is uncertainty about the mode of transmission of the severe acute respiratory syndrome (SARS) virus. We analyzed the temporal and spatial distributions of cases in a large community outbreak of SARS in Hong Kong and examined the correlation of these data with the three-dimensional spread of a virus-laden aerosol plume that was modeled using studies of airflow dynamics.
+
+    >>> METHODS
+      We determined the distribution of the initial 187 cases of SARS in the Amoy Gardens housing complex in 2003 according to the date of onset and location of residence. We then studied the association between the location (building, floor, and direction the apartment unit faced) and the probability of infection using logistic regression. The spread of the airborne, virus-laden aerosols generated by the index patient was modeled with the use of airflow-dynamics studies, including studies performed with the use of computational fluid-dynamics and multizone modeling.
+
+    >>> RESULTS
+      The curves of the epidemic suggested a common source of the outbreak. All but 5 patients lived in seven buildings (A to G), and the index patient and more than half the other patients with SARS (99 patients) lived in building E. Residents of the floors at the middle and upper levels in building E were at a significantly higher risk than residents on lower floors; this finding is consistent with a rising plume of contaminated warm air in the air shaft generated from a middle-level apartment unit. The risks for the different units matched the virus concentrations predicted with the use of multizone modeling. The distribution of risk in buildings B, C, and D corresponded well with the three-dimensional spread of virus-laden aerosols predicted with the use of computational fluid-dynamics modeling.
+
+    >>> CONCLUSIONS
+      Airborne spread of the virus appears to explain this large community outbreak of SARS, and future efforts at prevention and control must take into consideration the potential for airborne spread of this virus.
+
+    / April, 2004 - NEJM
+    let !a self assert =
+
+  # Aersol Mechanism
+  // Factors involved in the aerosol transmission of infection and control of ventilation in healthcare premises
+  doi: https://doi.org/10.1016/j.jhin.2006.05.022
+  ref 'Tang_et_al_08_17_2006
+    head = Aim of this review is to describe the factors involved in: (1) the generation of an infectious aerosol, (2) the transmission of infectious droplets or droplet nuclei from this aerosol, and (3) the potential for inhalation of such droplets or droplet nuclei by a susceptible host.
+
+    >>> Abstract
+      The epidemics of severe acute respiratory syndrome (SARS) in 2003 highlighted both short- and long-range transmission routes, i.e. between infected patients and healthcare workers, and between distant locations. With other infections such as tuberculosis, measles and chickenpox, the concept of aerosol transmission is so well accepted that isolation of such patients is the norm. With current concerns about a possible approaching influenza pandemic, the control of transmission via infectious air has become more important. Therefore, the aim of this review is to describe the factors involved in: (1) the generation of an infectious aerosol, (2) the transmission of infectious droplets or droplet nuclei from this aerosol, and (3) the potential for inhalation of such droplets or droplet nuclei by a susceptible host. On this basis, recommendations are made to improve the control of aerosol-transmitted infections in hospitals as well as in the design and construction of future isolation facilities.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / August, 2006 - J Hosp Infect.
+    let !a self assert = Droplets generated by talking, laughing, coughing and sneezing potentially lead to the generation of an infectious aerosol.
+
+    / August, 2006 - J Hosp Infect.
+    let !b self assert = The survival of such aerosolized pathogens depends upon environmental conditions, such as temperature and RH, both of which can vary with the season and the indoor building environment.
+
+    / August, 2006 - J Hosp Infect.
+    let !c self assert = Such aerosols can be transmitted over short and long distances. Short-range transmission occurs over a distance of <1 m between individuals and is mediated mainly by the interaction of breathing zones of individuals. Long-range transmission occurs between distant locations and is primarily governed by air flows driven by pressure differences generated by ventilation systems, open windows and doors, movement of people or temperature differences.
+
+    / August, 2006 - J Hosp Infect.
+    let !d self assert = Agents able to transmit infection over long distances can almost always transmit infection over short ranges and through direct contact. In addition, large droplets may become small droplets then droplet nuclei via the process of evaporation. This may explain why some infectious agents, normally only associated with short-range transmission, may occasionally cause outbreaks over greater distances.
+
+    / August, 2006 - J Hosp Infect.
+    let !e self assert = Whether an individual acquires an infection depends on the final inhaled pathogen dose and the host's immune response.
+
+  # Tranmission - SARS - Droplet
+  // Cluster of SARS among Medical Students Exposed to Single Patient, Hong Kong
+  doi: https://dx.doi.org/10.3201%2Feid1002.030452
+  ref 'Wong_et_al_02_10_2004
+    head =  Proximity to the index case-patient was associated with transmission, which is consistent with droplet spread. Transmission through fomites or small aerosols cannot be ruled out.
+
+    >>> Abstract
+      We studied transmission patterns of severe acute respiratory syndrome (SARS) among medical students exposed exclusively to the first SARS patient in the Prince of Wales Hospital in Hong Kong, before his illness was recognized. We conducted a retrospective cohort study of 66 medical students who visited the index patient’s ward, including 16 students with SARS and 50 healthy students. The risk of contracting SARS was sevenfold greater among students who definitely visited the index case’s cubicle than in those who did not (10/27 [41%] versus 1/20 [5%], relative risk [RR] 7.4; 95% confidence interval [CI] 1.0 to 53.3). Illness rates increased directly with proximity of exposure to the index case. However, four of eight students who were in the same cubicle, but were not within 1 m of the index case-patient, contracted SARS. Proximity to the index case-patient was associated with transmission, which is consistent with droplet spread. Transmission through fomites or small aerosols cannot be ruled out.
+
+    / February, 2004 - Emerg Infect Dis
+    let !a self assert =
+
+  # Airborne
+  // Extensive Viable Middle East Respiratory Syndrome (MERS) Coronavirus Contamination in Air and Surrounding Environment in MERS Isolation Wards
+  doi: https://doi.org/10.1093/cid/ciw239
+  ref 'Kim_et_al_08_01_2016
+    head = The presence of MERS-CoV was confirmed by RT-PCR of viral cultures of 4 of 7 air samples. These data provide experimental evidence for extensive viable MERS-CoV contamination of the air and surrounding materials
+
+    >>> Background
+      The largest outbreak of Middle East respiratory syndrome coronavirus (MERS-CoV) outside the Middle East occurred in South Korea in 2015 and resulted in 186 laboratory-confirmed infections, including 36 (19%) deaths. Some hospitals were considered epicenters of infection and voluntarily shut down most of their operations after nearly half of all transmissions occurred in hospital settings. However, the ways that MERS-CoV is transmitted in healthcare settings are not well defined.
+
+    >>> Methods
+      We explored the possible contribution of contaminated hospital air and surfaces to MERS transmission by collecting air and swabbing environmental surfaces in 2 hospitals treating MERS-CoV patients. The samples were tested by viral culture with reverse transcription polymerase chain reaction (RT-PCR) and immunofluorescence assay (IFA) using MERS-CoV Spike antibody, and electron microscopy (EM).
+
+    >>> Results
+      The presence of MERS-CoV was confirmed by RT-PCR of viral cultures of 4 of 7 air samples from 2 patients' rooms, 1 patient's restroom, and 1 common corridor. In addition, MERS-CoV was detected in 15 of 68 surface swabs by viral cultures. IFA on the cultures of the air and swab samples revealed the presence of MERS-CoV. EM images also revealed intact particles of MERS-CoV in viral cultures of the air and swab samples.
+
+    >>> Conclusions
+      These data provide experimental evidence for extensive viable MERS-CoV contamination of the air and surrounding materials in MERS outbreak units. Thus, our findings call for epidemiologic investigation of the possible scenarios for contact and airborne transmission, and raise concern regarding the adequacy of current infection control procedures.
+
+    / August, 2016 - Clin Infect Dis
+    let !a self assert =
+
+  # Tranmission Modes
+  // Violent expiratory events: on coughing and sneezing
+  doi: https://doi.org/10.1017/jfm.2014.88
+  ref 'Bourouiba_et_al_04_25_2004
+    head = Direct observation of sneezing and coughing events reveals that such flows are multiphase turbulent buoyant clouds with suspended droplets of various sizes. Our study highlights the importance of the multiphase nature of respiratory clouds.
+
+    >>> Abstract
+      Violent respiratory events such as coughs and sneezes play a key role in transferring respiratory diseases between infectious and susceptible individuals. We present the results of a combined experimental and theoretical investigation of the fluid dynamics of such violent expiratory events. Direct observation of sneezing and coughing events reveals that such flows are multiphase turbulent buoyant clouds with suspended droplets of various sizes. Our observations guide the development of an accompanying theoretical model of pathogen-bearing droplets interacting with a turbulent buoyant momentum puff. We develop in turn discrete and continuous models of droplet fallout from the cloud in order to predict the range of pathogens. According to the discrete fallout model droplets remain suspended in the cloud until their settling speed matches that of the decelerating cloud. A continuous fallout model is developed by adapting models of sedimentation from turbulent fluids. The predictions of our theoretical models are tested against data gathered from a series of analogue experiments in which a particle-laden cloud is ejected into a relatively dense ambient. Our study highlights the importance of the multiphase nature of respiratory clouds, specifically the suspension of the smallest drops by circulation within the cloud, in extending the range of respiratory pathogens.
+
+
+    / April, 2004 - Cambridge University Press
+    let !a self assert =
+
+  # Temperature and Humidity - Context
+  // Effects of air temperature and relative humidity on coronavirus survival on surfaces
+  doi: https://doi.org/10.1128/AEM.02291-09
+  ref 'Casanova_et_al_04_21_2010
+    head = When high numbers of viruses are deposited, TGEV (transmissible gastroenteritis virus) and MHV (mouse hepatitis virus)  may survive for days on surfaces at ATs (air temperature) and RHs (relative humidity) typical of indoor environments.
+
+    >>> Abstract
+      Assessment of the risks posed by severe acute respiratory syndrome (SARS) coronavirus (SARS-CoV) on surfaces requires data on survival of this virus on environmental surfaces and on how survival is affected by environmental variables, such as air temperature (AT) and relative humidity (RH). The use of surrogate viruses has the potential to overcome the challenges of working with SARS-CoV and to increase the available data on coronavirus survival on surfaces. Two potential surrogates were evaluated in this study; transmissible gastroenteritis virus (TGEV) and mouse hepatitis virus (MHV) were used to determine effects of AT and RH on the survival of coronaviruses on stainless steel. At 4 degrees C, infectious virus persisted for as long as 28 days, and the lowest level of inactivation occurred at 20% RH. Inactivation was more rapid at 20 degrees C than at 4 degrees C at all humidity levels; the viruses persisted for 5 to 28 days, and the slowest inactivation occurred at low RH. Both viruses were inactivated more rapidly at 40 degrees C than at 20 degrees C. The relationship between inactivation and RH was not monotonic, and there was greater survival or a greater protective effect at low RH (20%) and high RH (80%) than at moderate RH (50%). There was also evidence of an interaction between AT and RH. The results show that when high numbers of viruses are deposited, TGEV and MHV may survive for days on surfaces at ATs and RHs typical of indoor environments. TGEV and MHV could serve as conservative surrogates for modeling exposure, the risk of transmission, and control measures for pathogenic enveloped viruses, such as SARS-CoV and influenza virus, on health care surfaces.
+
+
+    / April, 2010 - American Society for Microbiology Journals
+    let !a self assert =
+
   # Hydroxychloroquine
   // Pharmacokinetics of hydroxychloroquine and its clinical implications in chemoprophylaxis against malaria caused by Plasmodium vivax
   doi: https://doi.org/10.1128/aac.00339-08

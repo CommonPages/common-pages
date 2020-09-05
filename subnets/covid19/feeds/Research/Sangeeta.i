@@ -1510,7 +1510,7 @@ feed Sangeeta
     -- exports
       !a
 
-    / July, 2020 - n
+    / July, 2020 - nature
     let !a self assert = Covid-19 outbreaks in high schools in France, Israel, and New Zealand did not extend to nearby elementary schools, which suggests that susceptibility, infectiousness, or both are lower among younger children.
 
 

@@ -110,6 +110,7 @@ subject module Mitigation
         'Lavezzo_et_al_04_18_2020.!e
         'Chu_et_al_06_01_2020
         'Cheng_et_al_03_19_2020
+        'Doung-ngern_et_al_08_14_2020
       -- Six-foot rule
         'Feigin_et_al_1982
         'Setti_et_al_04_23_2020
@@ -265,6 +266,8 @@ subject module Mitigation
       'Salje_et_al_04_20_2020
     -- UK
       'Davies_et_al_06_02_2020
+    -- Thailand
+      'Doung-ngern_et_al_08_14_2020  
   / Herd Immunity
   subject HerdImmunity
     head = Epidemiological and immunological factors, such as population structure, variation in transmission dynamics, and waning immunity, have important implications in the context of herd immunity. Currently, they are difficult to estimate given the limited data available.

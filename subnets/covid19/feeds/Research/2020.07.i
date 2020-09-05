@@ -17,6 +17,64 @@ feed July2020
 
   #
 
+  # Surface and Aersol Viability
+  // Investigating SARS-CoV-2 surface and air contamination in an acute healthcare setting during the peak of the COVID-19 pandemic in London
+  doi: https://doi.org/10.1093/cid/ciaa905
+  ref 'Zhou_et_al_07_08_2020
+    head = Viral RNA was detected on surfaces and in air in public areas of the hospital but was more likely to be found in areas immediately occupied by COVID-19 patients than in other areas.
+
+    >>> Background
+      Evaluation of SARS-CoV-2 surface and air contamination during the COVID-19 pandemic in London.
+
+    >>> Methods
+      We performed this prospective cross-sectional observational study in a multi-site London hospital. Air and surface samples were collected from seven clinical areas, occupied by patients with COVID-19, and a public area of the hospital. Three or four 1.0 m3 air samples were collected in each area using an active air sampler. Surface samples were collected by swabbing items in the immediate vicinity of each air sample. SARS-CoV-2 was detected by RT-qPCR and viral culture; the limit of detection for culturing SARS-CoV-2 from surfaces was determined.
+
+    >>> Results
+      Viral RNA was detected on 114/218 (52.3%) of surfaces and 14/31 (38.7%) air samples but no virus was cultured. The proportion of surface samples contaminated with viral RNA varied by item sampled and by clinical area. Viral RNA was detected on surfaces and in air in public areas of the hospital but was more likely to be found in areas immediately occupied by COVID-19 patients than in other areas (67/105 (63.8%) vs. 29/64 (45.3%) (odds ratio 0.5, 95% confidence interval 0.2-0.9, p=0.025, Chi squared test)). The high PCR Ct value for all samples (>30) indicated that the virus would not be culturable.
+
+    >>> Conclusions
+      Our findings of extensive viral RNA contamination of surfaces and air across a range of acute healthcare settings in the absence of cultured virus underlines the potential risk from environmental contamination in managing COVID-19, and the need for effective use of PPE, physical distancing, and hand/surface hygiene.
+
+    -- exports
+      !a
+      !b
+
+    / July, 2020 - Clinical Infectious Diseases
+    let !a self assert = We did not identify viable virus on any surface or air sample.
+
+    / July, 2020 - Clinical Infectious Diseases
+    let !b self assert =  Surface contamination was detected on a range of items, especially computer keyboards, chairs, and alcohol dispensers.
+
+
+
+  # Aersol viability? or Mechanism !b - Aersol Mitigation in public places
+  // Impulse dispersion of aerosols during singing and speaking
+  doi: https://doi.org/10.1101/2020.07.21.20158832
+  ref 'Echternach_et_al_07_24_2020
+    head = The impulse spreading of aerosols from singing a text reach distances to the front of up to 1.4m in a short amount of time. The distance of dispersion of singing a text is comparable to reading a text rather than singing only on a single vowel.
+
+    >>> Abstract
+      Group singing events have been linked to several outbreaks of infection during the CoVID-19 pandemic, leading to singing activities being banned in many areas across the globe. This link between singing and infection rates supports the possibility that aerosols are partly responsible for person-to-person infection. In contrast to droplets, the smaller aerosol particles do not fall to the ground within a short distance after being expelled by e.g. a singer. Aerosol particles hover and spread via convection in the environmental air. According to the super-spreading theory, choir singing and loud talking (theater and presentations) during rehearsals or performances may constitute a high risk of infectious virus transmission to large numbers of people. Thus, it is essential to define the safety distances between singers in super-spreading situations. The aim of this study is to investigate the impulse dispersion of aerosols during singing and speaking in comparison to breathing and coughing. Ten professional singers (5 males and 5 females) of the Bavarian Radio Chorus performed 9 tasks including singing a phrase of Beethovens 9th symphony, to the original German text. The inhaled air volume was marked with small aerosol particles produced via a commercial e-cigarette. The expelled aerosol cloud was recorded with three high definition TV cameras from different perspectives. Afterwards, the dimensions and dynamics of the aerosol cloud was measured by segmenting the video footage at every time point. While the median expansion was below 1m, the aerosol cloud was expelled up to 1.4m in the singing direction for individual subjects. Consonants produced larger distances of aerosol expulsion than vowels. The dispersion in the lateral and vertical dimension was less pronounced than the forward direction. After completion of each task, the cloud continued to distribute in the air increasing its dimensions. Consequently, we propose increasing the current recommendations of many governmental councils for choirs or singing at religious services from 1.5m to the front and 1m to the side to a distance between choir singers of 2m to the front and 1.5m to the sides.
+
+    -- exports
+      !a
+      !b
+
+    / July, 2020 - medRxiv
+    let !a self assert = Coughing also revealed much greater distances, with a mean of 1.3m and maximum of 1.9m.
+
+    / July, 2020 - medRxiv
+    let !b self assert = Distances of 1.5m between persons in the frontal direction which are sometimes recommended for protection during choir rehearsals or at religious services should be increased to a distance of at least 2m which could be estimated borderline.
+
+  # Airline Mitigation
+  // Infection Prevention and Control in Aviation during COVID-19 Pandemic—A Qualitative Study
+  doi: https://dx.doi.org/10.2139/ssrn.3654127
+  ref 'Chen_et_al_07_30_2020
+    head = This study proposed a series of countermeasures to infection prevention and control of COVID-19 in aviation involving rating COVID-19 symptoms by scanning a QR code to identify suspected patients, principles of diet preparation, avoiding the peak time of dinning during flight, management of lavatory and demonstrated personal protection procedures for medical staff performing tasks during flight.
+
+    / July, 2020 - SSRN
+    let !a self assert =
+
   # Hydroxychloroquine
   // Molecular Insights on Potential Combination of Mapk Inhibitors Together with HCQ and HCQs Analogs in Viral Infection
   doi: https://doi.org/10.20944/preprints202007.0201.v1

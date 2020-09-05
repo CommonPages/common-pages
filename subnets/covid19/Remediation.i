@@ -201,27 +201,26 @@ subject module Remediation
               In general, hydroxychloroquine has fewer and less severe toxicities and fewer drug-drug interactions than chloroquine and may have greater in vitro inhibitory activity than chloroquine. Based on past studies Hydroxychloroquine and Chloroquine seemed to inhibit  {'HcqSARS SARS} and {'HcqMERS MERS} in-vitro.
             >>>
               Hydroxychloroquine and Chloroquine are among {'Genericpaper Several drugs} and {'Gordon_et_al_04_30_2020 compounds} which has been indentified which can repurposed to fight Covid-19.
-            >>>
-              Some researchers have also suggested Choloroquine or Hydroxychloroquine as potential option for {HcqProphylactic Prophylactic}
+
             --
               Hcqinvitro
+
             >>>
-              Some observational studies on use of **Hydroxychloroquine** with or without **Azithromycin**  shows reduction in COVID-19 associated mortality.
+               Hydroxychloroquine as Treatment content here
+
             --
-              HcqEfficacy
+              HydroxychloroquineasTreatment
+
             >>>
-              While some observational studies have shown no benefits or greater risk of mortality
+              Some researchers have also suggested Choloroquine or Hydroxychloroquine as potential option for Prophylactic
+
             --
-              HcqnoEfficacy
-            >>>
-              A well-blinded **Randomised Controlled Trial** (RCT) is often considered the gold standard for clinical trials. Blinded RCT are commonly used to test the efficacy of medical interventions and may additionally provide information about adverse effects, such as drug reactions. However, RCT **failed** to show any **clinical or virological benefit** from the use of Hydroxychloroquine or Chloroquine
-            --
-              Hcqtrials
+              HcqProphylactic
+
             >>>
               Use of Choloroquine and Hydroxychloroquine have shown several **side effects**. One {'Xiao_et_al_04_20_2020 study} was discontinued early when preliminary results showed higher rates of mortality and **QTc prolongation** in the high-dose chloroquine group.
             --
               Hcqsideeffects
-
 
             >>>
               ## Rationale
@@ -269,52 +268,82 @@ subject module Remediation
               -- Stops Replication
                 'Cortegiani_et_al_2020
 
-            / Observational Studies which shows efficacy
-            subject HcqEfficacy
-              head = HCQ with or without Azithromycin is associated with reduction in viral load and mortality.
-              -- Hydroxychloroquine with Azithromycin
-                'Gautret_et_al_2020
-              -- Shows Reduction in Mortality
-                'Arshad_et_al_07_01_2020
-              -- Systematic Review showcasing reduction in viral load but also increase in mortality
-                'Yang_et_al_06_14_2020
-
-            / Observational Studies which shows no efficacy
-            subject HcqnoEfficacy
-              head = Increased Mortality or increased risk of death was identified in patients treated with Hydroxychloroquine alone. No benefit of viral clearance was also observed.
+            / Hydroxychloroquine as Treatment
+            subject HydroxychloroquineasTreatment
+              head = RCT
+              >>>
+                Some observational studies on use of **Hydroxychloroquine** with or without **Azithromycin**  shows reduction in COVID-19 associated mortality.
               --
-                'Geleris_et_al_05_27_2020
-                'Magagnoli_et_al_04_23_2020
-                'Mahévas_et_al_05_14_2020
-                'Mahevas_et_al_2020
-                'Taramasso_et_al_07_23_2020
-              -- Meta Analysis of Studies
-                'Singh_et_al_05_12_2020
+                HcqEfficacy
+              >>>
+                While some observational studies have shown no benefits or greater risk of mortality
+              --
+                HcqnoEfficacy
+              >>>
+                A well-blinded **Randomised Controlled Trial** (RCT) is often considered the gold standard for clinical trials. Blinded RCT are commonly used to test the efficacy of medical interventions and may additionally provide information about adverse effects, such as drug reactions. However, RCT **failed** to show any **clinical or virological benefit** from the use of Hydroxychloroquine or Chloroquine
+              --
+                Hcqtrials
+
+              / Observational Studies which shows efficacy
+              subject HcqEfficacy
+                head = HCQ with or without Azithromycin is associated with reduction in viral load and mortality.
+                -- Hydroxychloroquine with Azithromycin
+                  'Gautret_et_al_2020
+                -- Shows Reduction in Mortality
+                  'Arshad_et_al_07_01_2020
+                -- Systematic Review showcasing reduction in viral load but also increase in mortality
+                  'Yang_et_al_06_14_2020
+
+              / Observational Studies which shows no efficacy
+              subject HcqnoEfficacy
+                head = Increased Mortality or increased risk of death was identified in patients treated with Hydroxychloroquine alone. No benefit of viral clearance was also observed.
+                --
+                  'Geleris_et_al_05_27_2020
+                  'Magagnoli_et_al_04_23_2020
+                  'Mahévas_et_al_05_14_2020
+                  'Mahevas_et_al_2020
+                  'Taramasso_et_al_07_23_2020
+                -- Meta Analysis of Studies
+                  'Singh_et_al_05_12_2020
+
+              / Randomized Controlled Trials
+              subject Hcqtrials
+                head = Use of hydroxychloroquine has shown no evidence of benefit in patients with COVID-19. Postexposure Prophylaxis didn't prevent SARS-CoV-2 disease and infection.
+
+                >>>
+                  There are serveral on going {'Hcqongoing Randomised clinical trails}.
+                  The safety and efficacy of chloroquine and hydroxychloroquine have been evaluated in randomized clinical trials.
+                --
+                  'Tang_et_al_05_07_2020
+                  'Horbt_et_al_07_15_2020
+                  'Skipper_et_al_16_07_2020
+                  'Cavalcanti_et_al_07_23_2020
+                / On-going clinical trials
+                line 'Hcqongoing
+                  > 'Lavín_et_al_06_03_2020
+                  > 'Barnabas_et_al_06_03_2020
+                  > 'González_et_al_07_02_2020
+
+            / Hydroxychloroquine as Phrophylactic
+            subject HcqProphylactic
+              head = The possible chemoprophylactic (preventing COVID-19) role of CQ and HCQ should be considered and tested.
+              --
+                'Sharma_et_al_07_08_2020
+                'Adeel_et_al_04_20_2020
+                'Patri_et_al_04_10_2020
+              --
+                'Clementi_et_al_03_31_2020
+              -- Warning against unsupervised usage as Prophylaxis
+                'Khuroo_et_al_07_17_2020
               >>>
                 No Evidence to support the efficacy of CQ or HCQ in preventing COVID‐19.
               --
                 'Shah_et_al_04_13_2020
-
-            / Randomized Controlled Trials
-            subject Hcqtrials
-              head = Use of hydroxychloroquine has shown no evidence of benefit in patients with COVID-19. Postexposure Prophylaxis didn't prevent SARS-CoV-2 disease and infection.
-
               >>>
-                There are serveral on going {'Hcqongoing Randomised clinical trails}.
-                The safety and efficacy of chloroquine and hydroxychloroquine have been evaluated in randomized clinical trials.
-              --
-                'Tang_et_al_05_07_2020
-                'Horbt_et_al_07_15_2020
-                'Skipper_et_al_16_07_2020
-                'Cavalcanti_et_al_07_23_2020
+                Randomised Trials suggesting no Prophylaxis
               -- As Prophylaxis
                 'Boulware_et_al_08_06_2020
                 'Mitja_et_al_07_26_2020
-              / On-going clinical trials
-              line 'Hcqongoing
-                > 'Lavín_et_al_06_03_2020
-                > 'Barnabas_et_al_06_03_2020
-                > 'González_et_al_07_02_2020
 
             / Side Effects of Hydroxychloroquine
             subject Hcqsideeffects
@@ -324,14 +353,6 @@ subject module Remediation
                 'Davis_et_al_2003
                 'Joyce_et_al_19_12_2012
                 'Chen_et_al_08_11_2020
-
-            / Clinical Recommendation
-            subject Hcqrecommendation
-              head = High-dose chloroquine(600mg twice daily) is not recommend for the treatment of COVID-19.
-              -- Clinical Recommendation
-                'Roldan_et_al_05_13_2020
-                'Cremades_et_al_04_14_2020
-                'Xiao_et_al_04_20_2020
 
             / Mechanism of Hydroxychloroquine and Chloroquine
             subject Hcqmechanism
@@ -356,17 +377,14 @@ subject module Remediation
               -- Understanding Mapk Inhibitors
                 'Mohanta_et_al_07_10_2020
 
-            / Hydroxychloroquine as Phrophylactic
-            subject HcqProphylactic
-              head = The possible chemoprophylactic (preventing COVID-19) role of CQ and HCQ should be considered and tested.
-              --
-                'Sharma_et_al_07_08_2020
-                'Adeel_et_al_04_20_2020
-                'Patri_et_al_04_10_2020
-              --
-                'Clementi_et_al_03_31_2020
-              -- Warning against unsupervised usage as Prophylaxis
-                'Khuroo_et_al_07_17_2020
+            / Clinical Recommendation
+            subject Hcqrecommendation
+              head = High-dose chloroquine(600mg twice daily) is not recommend for the treatment of COVID-19.
+              -- Clinical Recommendation
+                'Roldan_et_al_05_13_2020
+                'Cremades_et_al_04_14_2020
+                'Xiao_et_al_04_20_2020
+
 
           / Niclosamide
           subject Niclosamide

@@ -4,6 +4,69 @@ feed August2020
     'Boulware_et_al_08_06_2020
 
 
+  #
+
+  // Respiratory virus RNA is detectable in airborne and droplet particles
+  doi: https://doi.org/10.1002/jmv.23698
+  ref 'Gralton_et_al_08_19_2013
+    head = Individuals with symptomatic respiratory viral infections produce both large and small particles carrying viral RNA on coughing and breathing.
+
+    >>> Abstract
+      Aerosol transmission routes of respiratory viruses have been classified by the WHO on the basis of equilibrium particle size. Droplet transmission is associated with particles sized >5 µm in diameter and airborne transmission is associated with particles sized ≤5 µm in diameter. Current infection control measures for respiratory viruses are directed at preventing droplet transmission, although epidemiological evidence suggests concurrent airborne transmission also occurs. Understanding the size of particles carrying viruses can be used to inform infection control procedures and therefore reduce virus transmission. This study determined the size of particles carrying respiratory viral RNA produced on coughing and breathing by 12 adults and 41 children with symptomatic respiratory infections. A modified six-stage Andersen Sampler collected expelled particles. Each stage was washed to recover samples for viral RNA extraction. Influenza A and B, parainfluenza 1, 2 and 3, respiratory syncytial virus (RSV), human metapneumovirus and human rhinoviruses (hRV) were detected using RT-PCR. On breathing, 58% of participants produced large particles (>5 µm) containing viral RNA and 80% produced small particles (≤5 µm) carrying viral RNA. On coughing, 57% of participants produced large particles containing viral RNA and 82% produced small particles containing viral RNA. Forty five percent of participants produced samples positive for hRV viral RNA and 26% of participants produced samples positive for viral RNA from parainfluenza viruses. This study demonstrates that individuals with symptomatic respiratory viral infections produce both large and small particles carrying viral RNA on coughing and breathing.
+
+    -- exports
+      !a
+
+    / August, 2013 - J Med Virol.
+    let !a self assert =
+
+  # Airborne Context
+  // The role of particle size in experimental air-borne infection.
+  doi: https://doi.org/10.1093/oxfordjournals.aje.a119459
+  ref 'Sonkin_et_al_05_01_1951
+    head = With increasing B.M.D. (bacterial median diameter) the Ct required to produce infections of the lower respiratory tract increased much more steeply than the Ct required to give infection of the upper respiratory tract.
+
+    >>> Abstract :
+      Groups of mice were exposed to bacterial clouds obtained by spraying cultures of a Group C streptococcus or a Type 1 pneumococcus from a radial jet atomizer. The size of the bacteria-carrying particles was altered by adjustment of the atomizer and by incorporation of various amounts of glycerol in the spray suspension. The animals were exposed in a chamber through which the infected air was passing, and the air was sampled with a cascade impactor and an impinger in series to determine the " bacterial median diameter " (B.M.D.) of the inhaled particles. The dose of bacteria to which the animals were exposed was expressed as the product of the bacterial concentration in the air and the time of exposure (Ct), and the LCt50 was the dose that gave rise to fatal infections in 50 per cent. of mice.
+      With the Group C streptococcus the LCt50 increased with increase in the B.M.D. In one series of experiments the LCtBO was 6×103 when the B.M.D. was 0.97 µ, and 1 × 108 with a B.M.D. of 12.0 µ. Small particles were necessary to produce lung lesions, but with all but the largest-particle clouds, lung lesions were produced more readily than upper respiratory tract lesions. With increasing B.M.D. the Ct required to produce infections of the lower respiratory tract increased much more steeply than the Ct required to give infection of the upper respiratory tract.
+
+    / May, 1951 - American Journal of Hygiene
+    let !a self assert =
+
+  # Mitigatin
+  // Associations between Wearing Masks, Washing Hands, and Social Distancing Practices, and Risk of COVID-19 Infection in Public: A Cohort-Based Case-Control Study in Thailand
+  doi: https://dx.doi.org/10.2139/ssrn.3633162
+  ref 'Doung-ngern_et_al_08_14_2020
+    head = Our findings support consistently wearing masks, washing hands, and social distancing in public to protect against COVID-19 infections. Combining measures could substantially reduce infections in Thailand.
+
+
+    >>> Background:
+      Effectiveness of personal protective measure against COVID-19 infection is largely unknown.
+
+    >>> Methods:
+      We conducted a retrospective case-control study, using a cohort of contact tracing records in Thailand. A total of 1,050 asymptomatic contacts of COVID-19 patients between 1 and 31 March 2020 were retrospectively interviewed by phone about their protective measures against COVID-19 infection. Cases were defined as asymptomatic contacts who were diagnosed with COVID-19 by 21 April 2020. Multilevel mixed-effect logistic regression models were used
+
+    >>> Findings:
+      Overall, 211 (20%) were diagnosed with COVID-19 by 21 Apr 2020 (case group) while 839 (80%) were not (control group). Fourteen percent of cases (29/210) and 24% of controls (198/823) reported wearing either non-medical or medical masks all the time during the contact period. Wearing masks all the time (adjusted odds ratio [aOR] 0.23; 95%CI 0.09-0.60) was independently associated with lower risk of COVID-19 infection compared to not wearing masks, while wearing masks sometimes (aOR 0.87; 95%CI 0.41-1.84) was not. Shortest distance of contact >1 meter (aOR 0.15; 95%CI 0.04-0.63), duration of close contact ≤15 minutes (aOR 0.24; 95%CI 0.07-0.90) and washing hands often (aOR 0.33; 95%CI 0.13-0.87) were significantly associated with lower risk of infection. Sharing a cigarette (aOR 3.47; 95%CI 1.09-11.02) was associated with higher risk of infection. Those who wore masks all the time were more likely to wash hands and practice social distancing. We estimated that if everyone wore a mask all the time, washed hands often, did not share a dish, cup or cigarette, maintained distances >1 meter and spent ≤15 minutes with close contacts, cases would have been reduced by 84%.
+
+    >>> Interpretation:
+      Our findings support consistently wearing masks, washing hands, and social distancing in public to protect against COVID-19 infections. Combining measures could substantially reduce infections in Thailand.
+
+
+    / August, 2020 - SSRN
+    let !a self assert =
+
+  # Ventilation - Air conditioning system - Public Policy
+  // Air conditioning system usage and SARS-CoV-2 transmission dynamics in Iran
+  doi: https://dx.doi.org/10.1016%2Fj.mehy.2020.110164
+  ref 'Xiao_et_al_08_05_2020
+    head = Cooling systems could contribute to the spread of SARS-CoV-2 in Iran. Besides creating air circulation in closed environments, these systems also reduce air humidity, which promotes the spread of virus-laden micro-droplets. We urgently advise health policy makers to regard the role of ventilation systems in the guidelines for controlling the epidemic.
+
+
+    / August, 2020 - Med Hypotheses
+    let !a self assert =
+
+
   # Side effects Hydroxychloroquine
   // Safety of hydroxychloroquine in COVID-19 and other diseases: a systematic review and meta-analysis of 53 randomized trials
   doi: https://doi.org/10.1007/s00228-020-02962-5

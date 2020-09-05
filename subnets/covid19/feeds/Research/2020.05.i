@@ -115,6 +115,82 @@ feed May2020
 
   #
 
+  
+
+  # Droplet Mechanism
+  // Visualizing Speech-Generated Oral Fluid Droplets with Laser Light Scattering
+  doi: https://doi.org/10.1056/NEJMc2007800
+  ref 'Anfinrud_et_al_04_15_2020
+    head = We provide visual evidence of speech-generated droplets and to qualitatively describe the effect of a damp cloth cover over the mouth to curb the emission of droplets.
+
+    / April, 2020 - NEJM
+    let !a self assert =
+
+
+  # Aersol
+  // Consideration of the Aerosol Transmission for COVID‐19 and Public Health
+  doi: https://doi.org/10.1111/risa.13500
+  ref 'Anderson_et_al_05_01_2020
+    head = Three lines of reasoning provide a weight of evidence that aerosol transmission is an important pathway of disease communication and may be significant for the transmission and control of SARS‐CoV‐2.
+
+    >>> Abstract
+      This article analyzes the available evidence to address airborne, aerosol transmission of the SARS‐CoV‐2. We review and present three lines of evidence: case reports of transmission for asymptomatic individuals in association with studies that show that normal breathing and talking produce predominantly small droplets of the size that are subject to aerosol transport; limited empirical data that have recorded aerosolized SARS‐CoV‐2 particles that remain suspended in the air for hours and are subject to transport over distances including outside of rooms and intrabuilding, and the broader literature that further supports the importance of aerosol transmission of infectious diseases. The weight of the available evidence warrants immediate attention to address the significance of aerosols and implications for public health protection.
+
+    -- exports
+      !a
+      !b
+      !c
+
+    / May, 2020 - Risk Analysis
+    let !a self assert = Case reports of asymptomatic individuals passing on SAR‐CoV‐2 to infect others in association with studies that show that normal breathing, talking, etc. produce small droplets in the size range of predominantly <1 µm that are subject to aerosol transport.
+
+    / May, 2020 - Risk Analysis
+    let !b self assert = Limited empirical data that have recorded aerosolized SARS‐CoV‐2 and SARS‐CoV‐1 particles that remain suspended in the air for hours and as such are subject to transport over long distances including outside of rooms and intra‐building.
+
+    / May, 2020 - Risk Analysis
+    let !c self assert = Support from the broader literature that reports the importance of aerosol transmission of infectious diseases and explores survival time and distances, concentrations of infectious agent, the effects of temperature and humidity, and implications of dose delivery of various particle sizes to the respiratory tract.
+
+  # Airborne
+  // Is there an airborne component to the transmission of COVID-19? : a quantitative analysis study
+  doi: https://doi.org/10.1101/2020.05.22.20109991
+  ref 'Beggs_et_al_05_26_2020
+    head = Those sharing enclosed spaces with infectors for long periods may be at risk of contracting COVID-19 by the aerosol route, even when practicing social distancing.
+
+    >>> Objectives
+      While COVID-19 is known to be spread by respiratory droplets (which travel <2m horizontally), much less is known about its transmission via aerosols, which can become airborne and widely distributed throughout room spaces. In order to quantify the risk posed by COVID-19 infectors exhaling respiratory aerosols in enclosed spaces, we undertook a computer modelling study to simulate transmission in an office building.
+    >>>  Methods
+      Respiratory droplet data from four published datasets were analysed to quantify the number and volume of droplets <100μm diameter produced by a typical cough and speaking event (i.e. counting from 1 to 100). This was used in a stochastic model to simulate (10000 simulations) the number of respiratory particles, originating from a COVID-19 infector, that would be inhaled in one hour by a susceptible individual practicing socially distancing in a 4 x 4 x 2.5m office space. Several scenarios were simulated that mimicked the presence of both symptomatic and asymptomatic COVID-19 infectors.
+    >>>  Results
+      On average, each cough and speaking event produced similar numbers of droplets <100μm diameter (median range = 971.9-1013.4). Computer simulations (ventilation rate=2AC/h) revealed that sharing the office space with a symptomatic COVID-19 infector (4 coughs and 10 speaking events per hour) for one hour resulted in the inhalation of 16.9 (25-75th range = 8.1-33.9) aerosolised respiratory droplets, equating to about 280-1190 particles inhaled over a 35-hour working week. Sharing with an asymptomatic infector (10 speaking events per hour) resulted in the about 196-875 particles inhaled over 35 hours.
+    >>> Conclusions
+      Given that live SARS-CoV-2 virions are known to be shed in high concentrations from the nasal cavity of both symptomatic and asymptomatic COVID-19 patients, the results suggest that those sharing enclosed spaces with infectors for long periods may be at risk of contracting COVID-19 by the aerosol route, even when practicing social distancing.
+
+    -- exports
+      !a
+
+    / May, 2020 - medRxiv
+    let !a self assert =
+
+  # Surface Viability
+  // Environmental sampling for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) during a coronavirus disease (COVID-19) outbreak aboard a commercial cruise ship
+  doi: https://doi.org/10.1101/2020.05.02.20088567
+  ref 'Yamagishi_et_al_05_08_2020
+    head = The environment around the COVID-19 cases was extensively contaminated from SARS-CoV-2 during COVID-19 outbreak in the cruise ship. Transmission risk of SARS-CoV-2 from symptomatic and asymptomatic patients seems to be similar and the environmental surface could involve viral transmission through direct contact.
+
+    >>> Background
+      A COVID-19 outbreak occurred in a cruise ship with 3711 passengers and crew in 2020. This study is to test the hypothesis that environmental surfaces played important roles in transmission for SARS-CoV-2 during this outbreak.
+    >>> Methods
+      We sampled environmental surfaces including air from common areas in the cruise ship and cabins in which confirmed COVID-19 cases and non-cases had stayed after they left the cabins. We tested the samples for SARS-CoV-2 by rt-PCR and conducted viral isolation.
+    >>> Findings
+      Of 601 samples tested, SARS-CoV-2 RNA was detected from 58 samples (10%) from case-cabins from which they left 1-17 days before sampling, but not from non-case-cabins. Except for one sample from an air hood in a corridor, SARS-CoV-2 RNA was not detected from samples in common areas. SARS-CoV-2 RNA was not detected from all 14 air samples. RNA was most often detected on the floor around toilet in the bathroom (39%, 13/33, cycle quantification (Cq): 26.21-37.62) and bed pillow (34%, 11/32, Cq: 34.61-38.99). There was no difference in the detection proportion between cabins for symptomatic (15%, 28/189, Cq: 29.79-38.86) and asymptomatic cases (21%, 28/131, Cq: 26.21-38.99). No SARS-CoV-2 virus was isolated from any of the samples. I
+    >>> nterpretation
+      The environment around the COVID-19 cases was extensively contaminated from SARS-CoV-2 during COVID-19 outbreak in the cruise ship. Transmission risk of SARS-CoV-2 from symptomatic and asymptomatic patients seems to be similar and the environmental surface could involve viral transmission through direct contact.
+
+
+    / May, 2020 - medRxiv
+    let !a self assert =
+
+
   # Nosocomial - No Aersol - Surface
   // Environmental contamination by SARS-CoV-2 in a designated hospital for coronavirus disease 2019
   doi: https://doi.org/10.1016/j.ajic.2020.05.003
