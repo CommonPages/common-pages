@@ -1502,7 +1502,7 @@ feed Pre2019
   // Detection of air and surface contamination by SARS-CoV-2 in hospital rooms of infected patients
   doi: https://doi.org/xyz
   ref 'Chia_et_al_05_29_2020
-    head =  Air sampling is performed in three of the 27 AIIRs in the general ward, and detects SARS-CoV-2 PCR-positive particles of sizes >4 µm and 1–4 µm in two rooms, despite these rooms having 12 air changes per hour.
+    head = Air sampling is performed in three of the 27 AIIRs in the general ward, and detects SARS-CoV-2 PCR-positive particles of sizes >4 µm and 1–4 µm in two rooms, despite these rooms having 12 air changes per hour.
 
     >>> Abstract
       Understanding the particle size distribution in the air and patterns of environmental contamination of SARS-CoV-2 is essential for infection prevention policies. Here we screen surface and air samples from hospital rooms of COVID-19 patients for SARS-CoV-2 RNA. Environmental sampling is conducted in three airborne infection isolation rooms (AIIRs) in the ICU and 27 AIIRs in the general ward. 245 surface samples are collected. 56.7% of rooms have at least one environmental surface contaminated. High touch surface contamination is shown in ten (66.7%) out of 15 patients in the first week of illness, and three (20%) beyond the first week of illness (p = 0.01, χ2 test). Air sampling is performed in three of the 27 AIIRs in the general ward, and detects SARS-CoV-2 PCR-positive particles of sizes >4 µm and 1–4 µm in two rooms, despite these rooms having 12 air changes per hour. This warrants further study of the airborne transmission potential of SARS-CoV-2.
@@ -1511,6 +1511,7 @@ feed Pre2019
       !a
       !b
       !c
+      !d
 
     / May, 2020 - Nature Communications
     let !a self assert = Surface sampling revealed that the PCR-positivity high-touch surfaces was associated with nasopharyngeal viral loads and peaked at approximately day 4–5 of symptoms.
@@ -1522,7 +1523,9 @@ feed Pre2019
     let !c self assert = In a limited number of AIIR environments, our current study involving individual COVID-19 patients not undergoing aerosol-generating procedures suggests that SARS-CoV-2 can be shed in the air from a patient in particles sized between 1 and 4 microns. Even though particles in this size range have the potential to linger longer in the air, more data on viability and infectiousness of the virus would be required to confirm the potential airborne spread of SARS-CoV-2.
 
     / May, 2020 - Nature Communications
-    let !d self assert = Additionally, the concentrations of SARS-CoV-2 in the air and high-touch surfaces could be highest during the first week of COVID-19 illness. Further work is urgently needed to examine these findings in larger numbers and different settings to better understand the factors affecting air and surface spread of SARS-CoV-2 and inform effective infection prevention policies.
+    let !d self assert = Additionally, the concentrations of SARS-CoV-2 in the air and high-touch surfaces could be highest during the first week of COVID-19 illness.
+
+
 
   # Tocilizumab
   // Tocilizumab Treatment for Cytokine Release Syndrome in Hospitalized COVID-19 Patients: Survival and Clinical Outcomes

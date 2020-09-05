@@ -1,6 +1,16 @@
 feed Sangeeta
 
   #
+  // DUMMY TITLE
+  doi: https://doi.org/xyz
+  ref 'Xiao_et_al_02_20_2020
+    head =
+
+    -- exports
+      !a
+
+    / February, 2020 - bioRxiv
+    let !a self assert =
 
   #
   // DUMMY TITLE
@@ -13,6 +23,330 @@ feed Sangeeta
 
     / February, 2020 - bioRxiv
     let !a self assert =
+
+  #
+
+  // DUMMY TITLE
+  doi: https://doi.org/xyz
+  ref 'Xiao_et_al_02_20_2020
+    head =
+
+    -- exports
+      !a
+
+    / February, 2020 - bioRxiv
+    let !a self assert =
+
+
+  #
+
+  // DUMMY TITLE
+  doi: https://doi.org/xyz
+  ref 'Xiao_et_al_02_20_2020
+    head =
+
+    -- exports
+      !a
+
+    / February, 2020 - bioRxiv
+    let !a self assert =
+
+  #
+
+  // DUMMY TITLE
+  doi: https://doi.org/xyz
+  ref 'Xiao_et_al_02_20_2020
+    head =
+
+    -- exports
+      !a
+
+    / February, 2020 - bioRxiv
+    let !a self assert =
+
+  #
+
+
+  // DUMMY TITLE
+  doi: https://doi.org/xyz
+  ref 'Xiao_et_al_02_20_2020
+    head =
+
+    -- exports
+      !a
+
+    / February, 2020 - bioRxiv
+    let !a self assert =
+
+  #
+
+  // Mass Testing for SARS-CoV-2 in 16 Prisons and Jails — Six Jurisdictions, United States, April–May 2020
+  doi: http://dx.doi.org/10.15585/mmwr.mm6933a3
+  ref 'Hagan_et_al_08_21_2020
+    head =
+
+    -- exports
+      !a
+
+    / August, 2020 - MMWR
+    let !a self assert =
+
+
+
+  #
+  // Characterization of Aerosols Generated During Patient Care Activities
+  doi: https://doi.org/xyz
+  ref 'Xiao_et_al_02_20_2020
+    head =
+
+    -- exports
+      !a
+
+    / February, 2020 - bioRxiv
+    let !a self assert =
+
+
+  #
+  // Estimation of airborne viral emission: Quanta emission rate of SARS-CoV-2 for infection risk assessment
+  doi: https://doi.org/xyz
+  ref 'Xiao_et_al_02_20_2020
+    head =
+
+    -- exports
+      !a
+
+    / February, 2020 - bioRxiv
+    let !a self assert =
+
+
+
+  #
+  // Transmission of COVID-19 virus by droplets and aerosols: A critical review on the unresolved dichotomy
+  doi: https://doi.org/xyz
+  ref 'Xiao_et_al_02_20_2020
+    head =
+
+    -- exports
+      !a
+
+    / February, 2020 - bioRxiv
+    let !a self assert =
+
+
+
+  # MECHANISM
+  // A Rosetta Stone for Understanding Infectious Drops and Aerosols
+  doi: https://doi.org/10.1093/jpids/piaa079
+  ref 'Milton_et_al_07_24_2020
+    head = The vocabulary used in exposure science and industrial hygiene to describe aerosols and their respiratory tract deposition does not correspond well to the way the terms “respiratory droplets” and “aerosols” are frequently used by the medical infectious disease community. The resulting communication difficulty hampers effective and timely collaborative efforts. The aim of this document is to come to a better and ultimately transdisciplinary understanding of the modes of respiratory infection transmission.
+
+
+    / July, 2020 - Journal of the Pediatric Infectious Diseases Society
+    let !a self assert =
+
+
+
+  # mitigation, hospitals and health-care buildings, nonsomical
+  // COVID-19: mitigating transmission via wastewater plumbing systems
+  doi: https://doi.org/10.1016/S2214-109X(20)30112-1
+  ref 'Gormley_et_al_03_23_2020
+    head = The potential for a substantial viral load within the wastewater plumbing system (and therefore the main sewer system), in combination with the potential for airborne transmission due to aerosolisation of the virus, calls for wastewater plumbing systems to be considered as a potential transmission pathway for COVID-19. The interconnectedness of the wastewater plumbing network can facilitate exposure to SARS-CoV-2 within, or even between, buildings. This is of particular concern in high-risk transmission settings such as hospitals and health-care buildings.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    # / March, 2020 - The Lancet Global Health
+    # let !a self assert = The interconnectedness of the wastewater plumbing network, the sensitivity of the system to factors such as overuse, underuse, high temperatures, and high concentrations of infected people raise concerns over the practice of self isolation and the use of hospital wards as quarantine areas.
+
+    / March, 2020 - The Lancet Global Health
+    let !a self assert = High concentrations of infected people contribute to a higher viral load in the system, thus leading to a higher risk of disease spread. Self-isolation can lead to a greater number of infected people in a building and potential system overuse. The use of hospital wards as quarantine areas is also a concern because of the interconnectedness of the whole system.
+
+    / March, 2020 - The Lancet Global Health
+    let !b self assert = Do not ignore unexplained foul smells in bathrooms, kitchens, or wash areas.
+
+    / March, 2020 - The Lancet Global Health
+    let !c self assert = Make sure that all water appliances in bathrooms and kitchens are fitted with a functioning U-blends.
+
+    / March, 2020 - The Lancet Global Health
+    let !d self assert = To prevent the loss of the water trap seal within a U-bend, open a tap on all water appliances for at least 5 s twice a day (morning and evening) paying special attention to floor drains in bathrooms and wet rooms.
+
+    / March, 2020 - The Lancet Global Health
+    let !e self assert = If the wastewater pipework from an appliance appears to be disconnected or open, seal it immediately (ie, use an elastic rubber glove to cover the end; a plastic bag and some tape will suffice, ensuring the bag has no holes).
+
+    / March, 2020 - The Lancet Global Health
+    let !f self assert = If there appears to be any crack or leak in pipework, seal with tape or glue. Continuously monitor whole system performance (for large or tall buildings).
+
+
+
+  #
+  // Violent expiratory events: on coughing and sneezing.
+  doi: https://doi.org/10.1017/jfm.2014.88
+  ref 'Bourouiba_et_al_02_24_2014
+    head = Our study highlights the importance of the multiphase nature of respiratory clouds, specifically the suspension of the smallest drops by circulation within the cloud, in extending the range of respiratory pathogens.
+
+
+    >>> Abstract
+      Violent respiratory events such as coughs and sneezes play a key role in transferring respiratory diseases between infectious and susceptible individuals. We present the results of a combined experimental and theoretical investigation of the fluid dynamics of such violent expiratory events. Direct observation of sneezing and coughing events reveals that such flows are multiphase turbulent buoyant clouds with suspended droplets of various sizes. Our observations guide the development of an accompanying theoretical model of pathogen-bearing droplets interacting with a turbulent buoyant momentum puff. We develop in turn discrete and continuous models of droplet fallout from the cloud in order to predict the range of pathogens. According to the discrete fallout model droplets remain suspended in the cloud until their settling speed matches that of the decelerating cloud. A continuous fallout model is developed by adapting models of sedimentation from turbulent fluids. The predictions of our theoretical models are tested against data gathered from a series of analogue experiments in which a particle-laden cloud is ejected into a relatively dense ambient. Our study highlights the importance of the multiphase nature of respiratory clouds, specifically the suspension of the smallest drops by circulation within the cloud, in extending the range of respiratory pathogens.
+
+    / March, 2014 - Journal of Fluid Mechanics
+    let !a self assert =
+
+
+
+  # mitigation, airplane,
+  // Routes of transmission of influenza A H1N1, SARS CoV, and norovirus in air cabin: Comparative analyses
+  doi: https://doi.org/10.1111/ina.12445
+  ref 'Lei_et_al_12_15_2017
+    head = Our identification of the dominated routes, that is the close contact route (large droplet) for influenza, the fomite route for norovirus, and all 3 routes for SARS CoV, suggested the relative importance of different environment intervention for different infectious diseases in air cabins and probably also in other indoor environments. For minimizing in‐flight fomite transmission, the aisle seatbacks and toilets should be cleaned and disinfected effectively.
+
+    >>> Abstract
+      Identifying the exact transmission route(s) of infectious diseases in indoor environments is a crucial step in developing effective intervention strategies. In this study, we proposed a comparative analysis approach and built a model to simulate outbreaks of 3 different in‐flight infections in a similar cabin environment, that is, influenza A H1N1, severe acute respiratory syndrome (SARS) coronavirus (CoV), and norovirus. The simulation results seemed to suggest that the close contact route was probably the most significant route (contributes 70%, 95% confidence interval [CI]: 67%‐72%) in the in‐flight transmission of influenza A H1N1 transmission; as a result, passengers within 2 rows of the index case had a significantly higher infection risk than others in the outbreak (relative risk [RR]: 13.4, 95% CI: 1.5‐121.2, P = .019). For SARS CoV, the airborne, close contact, and fomite routes contributed 21% (95% CI: 19%‐23%), 29% (95% CI: 27%‐31%), and 50% (95% CI: 48%‐53%), respectively. For norovirus, the simulation results suggested that the fomite route played the dominant role (contributes 85%, 95% CI: 83%‐87%) in most cases; as a result, passengers in aisle seats had a significantly higher infection risk than others (RR: 9.5, 95% CI: 1.2‐77.4, P = .022). This work highlighted a method for using observed outbreak data to analyze the roles of different infection transmission routes.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+
+
+    / December, 2017 - Indoor Air
+    let !a self assert = Different transmission routes of infection led to different spatial patterns of secondary cases, so passengers within 2 rows of the index case in the influenza A H1N1 outbreak and passengers in aisle seats in the in‐flight norovirus outbreak had a significantly higher infection risk than others.
+
+    / December, 2017 - Indoor Air
+    let !b self assert =  For influenza A H1N1, due to the high inactivation rate on environmental surfaces and hands, in most cases, the total infection risk via fomite route is much lower than that via airborne route and close contact route.
+
+    / December, 2017 - Indoor Air
+    let !c self assert = The study by Teunis et al indicated that the infection probability of the droplet route (ie, close contact) and the aerosol route (ie, the airborne route) in a poorly ventilated room is approximately equal.
+
+    / December, 2017 - Indoor Air
+    let !d self assert =The air change rate and efficiency of the HEPA filter are relatively high in the aircraft ventilation system than other typical indoor environments, so that the airborne pathogens can be removed effectively. In most reported in‐flight influenza A H1N1 outbreaks, the attack rate is low (1%‐5%), but in the seasonal influenza A outbreak in March 1977, when the air conditioning system of a commercial airliner was shut down due to a malfunctioning engine, the attack rate reached 72%
+
+    / December, 2017 - Indoor Air
+    let !e self assert = SARS CoV has a much lower inactivation rate on environmental surfaces and skin, which is probably why the fomite route is more important in SARS CoV transmission than that in influenza A H1N1 transmission.
+
+
+
+  # Ventilation, Temperature, mechanism
+  // Prediction of natural ventilation in buildings with large openings
+  doi: https://doi.org/10.1016/S0360-1323(99)00011-6
+  ref 'Li_et_al_02_08_1999
+    head = A basic and consistent pressure-based formulation is firstly revisited for natural ventilation of multi-zone buildings with multiple openings for both buoyancy and wind-driven flows.  A simple and easy implementation method is then presented for the simplest situation of bi-directional flows,, i.e. the temperature in each zone is uniform. A reasonable agreement has been found between the results predicted by the pressure-based formulation and those predicted by the analytical solutions and Computational Fluid Dynamics (CFD) methods.
+
+
+    >>> Abstract
+      This paper first presents a consistent pressure-based formulation for natural ventilation of single-zone and multi-zone buildings with multiple openings. Pressure-based multi-zone formulation is made easier to implement by introducing an auxiliary concept of external pressure, which allows all the formulas to be presented in an integrated form. Multi-zone situations considered include vertically interconnected zones, and horizontally interconnected zones with same heights and dierent heights. The formulation includes the combined effect of wind, thermal buoyancy and mechanical ventilation, and it can be used for both external and internal large openings. A simple and easy implementation method was then presented. Single-zone and multi-zone analytical solutions are revisited or developed by the pressure-based formulations and used for the validation of the implementation method. A CFD method is also used to cross-check the implementation method in a single-zone building with very large external openings. A reasonable agreement has been found between the results predicted by the pressure-based formulation and those predicted by the analytical solutions and CFD methods.
+
+
+    / February, 1999 - Building and Environment
+    let !a self assert =
+
+
+
+  # 9 infected patients,fecal aerosol transmission, close contact, travel, toilet, china, mitigation
+  // Probable Evidence of Fecal Aerosol Transmission of SARS-CoV-2 in a High-Rise Building
+  doi: https://doi.org/10.7326/M20-0928
+  ref 'Kang_et_al_09_01_2020
+    head = We report an outbreak of 9 confirmed cases of COVID-19 between 26 January 2020 and 13 February 2020 in 3 vertically aligned flats in a high-rise building (block X) in Guangzhou, China, during a period of social distancing. The infection source for patients in flat 2502 and 2702 was probably the master bathroom of flat 1502, and virus-containing fecal aerosols were probably produced in the associated vertical stack during toilet flushing after use by the index patients. Wastewater plumbing systems, particularly those in high-rise buildings, deserve closer investigation, both immediately in the context of SARS-CoV-2 and in the long term, because they may be a reservoir for other harmful pathogens.
+
+    >>> Background
+      The role of fecal aerosols in the transmission of severe acute respiratory syndrome coronavirus 2 has been suspected.
+
+    >>> Objective
+      To investigate the temporal and spatial distributions of 3 infected families in a high-rise apartment building and examine the associated environment variables to verify the role of fecal aerosols.
+
+    >>> Design
+      Epidemiologic survey and quantitative reverse transcriptase polymerase chain reaction analyses on throat swabs from the participants; 237 surface and air samples from 11 of the 83 flats in the building, public areas, and building drainage systems; and tracer gas released into bathrooms as a surrogate for virus-laden aerosols in the drainage system.
+
+    >>> Setting
+      A high-rise apartment building in Guangzhou, China.
+
+    >>> Participants
+      9 infected patients, 193 other residents of the building, and 24 members of the building's management staff.
+
+    >>> Measurements
+      Locations of infected flats and positive environmental samples, and spread of virus-laden aerosols.
+
+    >>> Results
+      9 infected patients in 3 families were identified. The first family had a history of travel to the coronavirus disease 2019 (COVID-19) epicenter Wuhan, whereas the other 2 families had no travel history and a later onset of symptoms. No evidence was found for transmission via the elevator or elsewhere. The families lived in 3 vertically aligned flats connected by drainage pipes in the master bathrooms. Both the observed infections and the locations of positive environmental samples are consistent with the vertical spread of virus-laden aerosols via these stacks and vents.
+
+    >>> Limitation
+      Inability to determine whether the water seals were dried out in the flats of the infected families.
+
+    >>> Conclusion
+      On the basis of circumstantial evidence, fecal aerosol transmission may have caused the community outbreak of COVID-19 in this high-rise building.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    # / September, 2020 - Annals of Internal Medicine
+    # let !a self assert = 3 other block X residents - shared the elevators with at least 1 family A member, but none had become infected. Residents who used the elevator after members of family A might also have been exposed via fomites or recirculated air inside the elevator, but the exposure risks for the infected and noninfected families were not substantially different.
+
+    / September, 2020 - Annals of Internal Medicine
+    let !a self assert = Dried floor drains have been a common hygiene issue that has led to vertical transmission of SARS-CoV-1 and SARS-CoV-2 in similar high-rise apartment buildings in southern China. In 2003, fecal aerosols were found to transmit SARS-CoV-1 to more than 300 residents in the Amoy Gardens outbreak.
+
+    / September, 2020 - Annals of Internal Medicine
+    let !b self assert = These bioaerosols probably entered some master bathrooms through dried-out floor or bathtub drains, generated during toilet flushing and then spread via the drainage stacks and vents with minimum dilution. This behavior differs from that of expired jets or puffs in open space, where the concentration of virus-containing droplets rapidly decreases as the distance from infected persons increases, because of jets or puffs mixing with room air. The concentration of virus in drainage pipes can remain very high even after the virus travels a long distance. These bioaerosols might be inhaled directly by a bathroom's occupants or be deposited on room surfaces, which might later be touched by occupants. With positive surface samples in the 2 master bathrooms (1502 and 1602), a possibility exists of surface contamination by aerosols and subsequent mucous membrane infection, rather than inhalation.
+
+    / September, 2020 - Annals of Internal Medicine
+    let !c self assert = To prevent such transmission, bioaerosols can be controlled at the source by avoiding any potential gas leaks from the drainage system to indoor spaces. For example, to block fecal aerosol transmission, drainage traps, such as U-shaped water traps, should not be allowed to dry out. Adequate hygiene in sanitary drainage is known to prevent the transmission of diarrheal diseases by the fecal–oral route.
+
+    / September, 2020 - Annals of Internal Medicine
+    let !d self assert = Adequate hygiene in sanitary drainage is known to prevent the transmission of diarrheal diseases by the fecal–oral route. Our study also indirectly suggests the importance of bathroom ventilation and hygiene, because toilet flushing may generate fecal aerosols.
+
+    / September, 2020 - Annals of Internal Medicine
+    let !e self assert = In addition to the buoyancy effect, the suction flow rate for each flat depends on the negative pressure in its bathroom. Negative pressure may be caused by the use of an exhaust fan or by a northerly wind that creates a wake flow when the bathroom has a window onto a balcony. The occupants in flats 2502 and 2702 never open the window of their master bathrooms, and the use of an exhaust fan might create a negative pressure and impose a higher fecal aerosol infiltration risk compared with the master bathrooms in other flats. Computational fluid dynamics simulations showed that the negative pressure in the flats may be as high as 16.8 Pa. 
+
+    / September, 2020 - Annals of Internal Medicine
+    let !f self assert = Most upper -02 flats with dried-out traps probably have a similar risk for infection if the wind or fan pressures are similar when the buoyancy (chimney) effect is absent. 
+
+
+
+  # no mask, Dinner, Toilet, Trip, temple, Travel, Bus, China, Outdoor, Air Condition,Close contact, Outbreak, Spouse, Airborne
+  // Community Outbreak Investigation of SARS-CoV-2 Transmission Among Bus Riders in Eastern China
+  doi: https://doi.org/10.1001/jamainternmed.2020.5225
+  ref 'Shen_et_al_09_01_2020
+    head = In this cohort study of 128 individuals who rode 1 of 2 buses and attended a worship event, those who rode a bus with air recirculation and with a patient with COVID-19 had an increased risk of SARS-CoV-2 infection compared with those who rode a different bus. Airborne spread of SARS-CoV-2 seems likely to have contributed to the high attack rate in the exposed bus. Future efforts at prevention and control must consider the potential for airborne spread of the virus.
+
+    >>> Importance
+      Evidence of whether severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus that causes coronavirus disease 2019 (COVID-19), can be transmitted as an aerosol (ie, airborne) has substantial public health implications.
+
+    >>> Objective
+      To investigate potential transmission routes of SARS-CoV-2 infection with epidemiologic evidence from a COVID-19 outbreak.
+
+    >>> Design, Setting, and Participants
+      This cohort study examined a community COVID-19 outbreak in Zhejiang province. On January 19, 2020, 128 individuals took 2 buses (60 [46.9%] from bus 1 and 68 [53.1%] from bus 2) on a 100-minute round trip to attend a 150-minute worship event. The source patient was a passenger on bus 2. We compared risks of SARS-CoV-2 infection among at-risk individuals taking bus 1 (n = 60) and bus 2 (n = 67 [source patient excluded]) and among all other individuals (n = 172) attending the worship event. We also divided seats on the exposed bus into high-risk and low-risk zones according to the distance from the source patient and compared COVID-19 risks in each zone. In both buses, central air conditioners were in indoor recirculation mode.
+
+    >>> Main Outcomes and Measures
+      SARS-CoV-2 infection was confirmed by reverse transcription polymerase chain reaction or by viral genome sequencing results. Attack rates for SARS-CoV-2 infection were calculated for different groups, and the spatial distribution of individuals who developed infection on bus 2 was obtained.
+
+    >>> Results
+      Of the 128 participants, 15 (11.7%) were men, 113 (88.3%) were women, and the mean age was 58.6 years. On bus 2, 24 of the 68 individuals (35.3% [including the index patient]) received a diagnosis of COVID-19 after the event. Meanwhile, none of the 60 individuals in bus 1 were infected. Among the other 172 individuals at the worship event, 7 (4.1%) subsequently received a COVID-19 diagnosis. Individuals in bus 2 had a 34.3% (95% CI, 24.1%-46.3%) higher risk of getting COVID-19 compared with those in bus 1 and were 11.4 (95% CI, 5.1-25.4) times more likely to have COVID-19 compared with all other individuals attending the worship event. Within bus 2, individuals in high-risk zones had moderately, but nonsignificantly, higher risk for COVID-19 compared with those in the low-risk zones. The absence of a significantly increased risk in the part of the bus closer to the index case suggested that airborne spread of the virus may at least partially explain the markedly high attack rate observed.
+
+    >>> Conclusions and Relevance
+      In this cohort study and case investigation of a community outbreak of COVID-19 in Zhejiang province, individuals who rode a bus to a worship event with a patient with COVID-19 had a higher risk of SARS-CoV-2 infection than individuals who rode another bus to the same event. Airborne spread of SARS-CoV-2 seems likely to have contributed to the high attack rate in the exposed bus. Future efforts at prevention and control must consider the potential for airborne spread of the virus.
+
+
+    -- exports
+      !a
+      !b
+
+    / September, 2020 - JAMA Intern Med.
+    let !a self assert = Passengers sitting closer to the index patient on the exposed bus did not have statistically higher risks of COVID-19 as those sitting further away. If COVID-19 transmission occurred solely through close contact or respiratory droplets during this outbreak, the risk of COVID-19 would likely be associated with distance from the index patient, and high-risk zones on the bus would have more infected cases.
+
+    / September, 2020 - JAMA Intern Med.
+    let !b self assert = These data suggest that forced, circulating air might play an important role in airborne spread of the virus, and gatherings in enclosed settings with minimal air ventilation should be limited
+
 
 
   # Disinfection, Wastewater, Airborne, counter to airbourne

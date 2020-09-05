@@ -134,7 +134,7 @@ subject module Mitigation
       head = Testing and Tracing is an effective strategy at the start of an outbreak when there are just a few chains of transmission of the disease. Countries that persisted with expanded and rigorous testing and tracing have fared better with lower death rates than those which did not.
       --
         'Ferretti_et_al_2020
-        'J_et_al_2020.!f
+        'Liu_et_al_03_03_2020.!f
         'Lavezzo_et_al_04_18_2020.!f
         'Jing_et_al_2020.!a
         'Sanche_et_al_2020.!f
@@ -187,9 +187,8 @@ subject module Mitigation
         'Ling_et_al_2020.!b
         'Ling_et_al_2020.!c
         'Ling_et_al_2020.!d
-        'J_et_al_2020.!g
-        'J_et_al_2020.!h
-        'J_et_al_2020.!j
+        'Liu_et_al_03_03_2020.!h
+        'Liu_et_al_03_03_2020.!j
         'Pan_et_al_2020.!e
         'Liu_et_al_2020bb
         'Somsen_et_al_05_27_2020.!f
@@ -240,7 +239,7 @@ subject module Mitigation
   subject CountriesMitigation
     head = Country based mitigation measures incorporated by various countries provides valuable insights on effectiveness of several containment measures.
     -- China
-      'J_et_al_2020.!i
+      'Liu_et_al_03_03_2020.!i
       'Pan_et_al_2020
       'Pan_et_al_2020.!d
       'Pan_et_al_2020.!e

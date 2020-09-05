@@ -113,7 +113,7 @@ feed July2020
   // Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020
   doi: https://doi.org/10.3201/eid2607.200885
   ref 'Guo_et_al_07_26_2020
-    head = We tested air and surface samples. Contamination was greater in intensive care units than general wards. Virus was widely distributed on floors, computer mice, trash cans, and sickbed handrails and was detected in air ≈4 m from patients.
+    head = Environmental contamination was greater in intensive care units than general wards. Virus was widely distributed in the air and on floors, computer mice, trash cans, and sickbed handrails and was detected in air ≈4 m from patients.
 
     >>> Abstract
       To determine distribution of severe acute respiratory syndrome coronavirus 2 in hospital wards in Wuhan, China, we tested air and surface samples. Contamination was greater in intensive care units than general wards. Virus was widely distributed on floors, computer mice, trash cans, and sickbed handrails and was detected in air ≈4 m from patients.

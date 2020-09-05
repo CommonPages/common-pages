@@ -1,43 +1,587 @@
 feed WHO
   #
-
-
   #
   // DUMMY TITLE
   doi: https://doi.org/xyz
-  ref 'Xiao_et_al_12_02_2016
+  ref 'Xiao_et_al_02_20_2020
     head =
 
     -- exports
       !a
 
-    / December, 2016 - bioRxiv
+    / February, 2020 - bioRxiv
     let !a self assert =
-
   #
+
   // DUMMY TITLE
   doi: https://doi.org/xyz
-  ref 'Xiao_et_al_12_02_2016
+  ref 'Xiao_et_al_02_20_2020
     head =
 
     -- exports
       !a
 
-    / December, 2016 - bioRxiv
+    / February, 2020 - bioRxiv
     let !a self assert =
 
 
   #
-  // DUMMY TITLE
+  // Infection prevention and control of epidemic and pandemic-prone respiratory infections in health care
+  doi: https://www.who.int/csr/bioriskreduction/infection_control/publication/en/
+  ref 'Who_04_2014
+    head = The guidelines provides recommendations, best practices and principles for non-pharmacological aspects of infection prevention and control (IPC) for acute respiratory infections (ARI) in health care, with special emphasis on ARI that can present as epidemics or pandemics. The guidelines are intended to help policy-makers, administrators and health-care workers to prioritize effective IPC measures.
+
+
+    / April, 2014 - World Health Organisation
+    let !a self assert =
+
+
+
+  # WHO guidance on infection prevention and control (IPC) strategies
+  // Infection prevention and control during health care when COVID-19 is suspected: interim guidance
+  doi: https://www.who.int/publications-detail/infection-prevention-and-control-during-health-care-when-novel-coronavirus-(ncov)-infection-is-suspected-20200125
+    ref 'Who_03_19_2020
+    head = This is the first edition of guidance on infection prevention and control (IPC) strategies for use when infection with a novel coronavirus (2019-nCoV) is suspected. It is intended for healthcare workers (HCWs), healthcare managers and IPC teams at the facility level but it is also relevant for the national and district/provincial level. WHO will update these recommendations as new information becomes available.
+
+
+    / March, 2020 - World Health Organisation
+    let !a self assert =
+
+
+
+  # WHO interim guidance
+  // Infection prevention and control for long-term care facilities in the context of COVID-19: interim guidance.
+  doi: https://www.who.int/publications-detail/infection-prevention-and-control-for-long-term-care-facilities-in-the-context-of-covid-19
+  ref 'Who_06_29_2020
+    head = This document provides interim guidance on infection prevention and control (IPC) strategies during health care when coronavirus disease (COVID-19) is suspected or confirmed. It is intended for health workers, including health-care managers and IPC teams at the facility level, but it is also relevant for the national and district/provincial levels.
+
+
+    / June, 2020 - World Health Organisation
+    let !a self assert =
+
+
+
+  # WHO Guidance
+  // Home care for patients with COVID-19 presenting with mild symptoms and management of contacts: interim guidance.
+  doi: https://apps.who.int/iris/handle/10665/331133
+  ref 'Who_02_04_2020
+    head = This rapid advice is intended to guide public health and infection prevention and control (IPC) professionals, healthcare managers and healthcare workers (HCWs) when addressing issues related to home care for patients with suspected COVID-19 infection who present with mild symptoms and when managing contacts. This guidance is based on evidence about COVID-19 infection and the feasibility of implementing IPC measures at home.
+
+
+    / February, 2020 - World Health Organisation
+    let !a self assert =
+
+
+
+  # community transmission, intrafamily transmission, China- PAPER IS ALREADY DONE IN RESEARCH.I, DISCUSS ASSERTION I AND J-  'J_et_al_2020- PAST REF
+  # // Community Transmission of Severe Acute Respiratory Syndrome Coronavirus 2, Shenzhen, China, 2020.
+  # doi: https://doi.org/10.3201/eid2606.200239
+  # ref 'Liu_et_al_03_03_2020
+  #   head =
+  #
+  #   >>> Abstract
+  #     Since early January 2020, after the outbreak of coronavirus infection in Wuhan, China, ≈365 confirmed cases have been reported in Shenzhen, China. The mode of community and intrafamily transmission is threatening residents in Shenzhen. Strategies to strengthen prevention and interruption of these transmissions should be urgently addressed.
+  #
+  #
+  #   / February, 2020 - Emerg Infect Dis.
+  #   let !a self assert =
+
+
+
+  # paper already done in research.i
+  # // A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster
+  # doi: https://doi.org/xyz
+  # ref 'Chan_et_al_01_24_2020
+  #   head =
+  #
+  #   / February, 2020 - bioRxiv
+  #   let !a self assert =
+
+
+
+  # China, epidemology, transmission
+  // Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia
+  doi: https://doi.org/10.1056/NEJMoa2001316
+  ref 'Li_et_al_03_26_2020
+    head = The cases of NCIP have been doubling in size approximately every 7.4 days in Wuhan at this stage. Human-to-human transmission among close contacts has occurred since the middle of December 2019 and spread out gradually within a month after that.
+
+    >>> Background
+      The initial cases of novel coronavirus (2019-nCoV)–infected pneumonia (NCIP) occurred in Wuhan, Hubei Province, China, in December 2019 and January 2020. We analyzed data on the first 425 confirmed cases in Wuhan to determine the epidemiologic characteristics of NCIP.
+
+    >>> Methods
+      We collected information on demographic characteristics, exposure history, and illness timelines of laboratory-confirmed cases of NCIP that had been reported by January 22, 2020. We described characteristics of the cases and estimated the key epidemiologic time-delay distributions. In the early period of exponential growth, we estimated the epidemic doubling time and the basic reproductive number.
+
+    >>> Results
+      Among the first 425 patients with confirmed NCIP, the median age was 59 years and 56% were male. The majority of cases (55%) with onset before January 1, 2020, were linked to the Huanan Seafood Wholesale Market, as compared with 8.6% of the subsequent cases. The mean incubation period was 5.2 days (95% confidence interval [CI], 4.1 to 7.0), with the 95th percentile of the distribution at 12.5 days. In its early stages, the epidemic doubled in size every 7.4 days. With a mean serial interval of 7.5 days (95% CI, 5.3 to 19), the basic reproductive number was estimated to be 2.2 (95% CI, 1.4 to 3.9).
+
+    >>> Conclusions
+      On the basis of this information, there is evidence that human-to-human transmission has occurred among close contacts since the middle of December 2019. Considerable efforts to reduce transmission will be required to control outbreaks if similar dynamics apply elsewhere. Measures to prevent or reduce transmission should be implemented in populations at risk. (Funded by the Ministry of Science and Technology of China and others.)
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+
+    / March, 2020 - N Engl J Med
+    let !a self assert = The majority of cases (55%) with onset before January 1, 2020, were linked to the Huanan Seafood Wholesale Market, as compared with 8.6% of the subsequent cases.
+
+    / March, 2020 - N Engl J Med
+    let !b self assert = The mean incubation period was 5.2 days (95% confidence interval [CI], 4.1 to 7.0), with the 95th percentile of the distribution at 12.5 days.
+
+    / March, 2020 - N Engl J Med
+    let !c self assert = In its early stages, the epidemic doubled in size every 7.4 days. With a mean serial interval of 7.5 days (95% CI, 5.3 to 19), the basic reproductive number was estimated to be 2.2 (95% CI, 1.4 to 3.9).
+
+    / March, 2020 - N Engl J Med
+    let !d self assert = Few of the early cases occurred in children, and almost half the 425 cases were in adults 60 years of age or older,
+
+    / March, 2020 - N Engl J Med
+    let !e self assert = Super-spreading events have not yet been identified for NCIP, but they could become a feature as the epidemic progresses.
+
+    / March, 2020 - N Engl J Med
+    let !f self assert = Although delays between the onset of illness and seeking medical attention were generally short, with 27% of patients seeking attention within 2 days after onset, delays to hospitalization were much longer, with 89% of patients not being hospitalized until at least day 5 of illness. This indicates the difficulty in identifying and isolating cases at an earlier stage of disease.
+
+    / March, 2020 - N Engl J Med
+    let !g self assert = Our preliminary estimate of the incubation period distribution provides important evidence to support a 14-day medical observation period or quarantine for exposed persons. Our estimate was based on information from 10 cases and is somewhat imprecise; it would be important for further studies to provide more information on this distribution.
+
+
+
+  # paper already done in research.i
+  # // Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China.
+  # doi: https://doi.org/10.1016/S0140-6736(20)30183-5
+  # ref 'Huang_et_al_04_24_2020
+  #   head =
+  #
+  #   / February, 2020 - bioRxiv
+  #   let !a self assert =
+
+
+
+  # USA, person to person transmission
+  // Active Monitoring of Persons Exposed to Patients with Confirmed COVID-19 — United States, January–February 2020
   doi: https://doi.org/xyz
-  ref 'Xiao_et_al_12_02_2016
-    head =
+  ref 'Burke_et_al_03_03_2020
+    head = Among the first 10 patients with travel-related confirmed COVID-19 reported in the United States, a total of 445 persons who had close contact with one of the 10 patients on or after the date of the patient’s symptom onset were identified. Despite intensive follow-up, no sustained person-to-person transmission of symptomatic SARS-CoV-2 was observed in the United States among the close contacts of the first 10 persons with diagnosed travel-related COVID-19.
+
+
+    / March, 2020 - MMWR Early Release
+    let !a self assert =
+
+
+
+  # WHO, transmission from symptomatic, pre-symptomatic and asymptomatic people
+  // Coronavirus disease 2019 (COVID-19) Situation Report – 73.
+  doi: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf?sfvrsn=5ae25bc7_6
+  ref 'Who_04_02_2020
+    head = This report summarize what has been reported about transmission of the COVID-19 virus, and provide a brief overview of available evidence on transmission from symptomatic, pre-symptomatic and asymptomatic people infected with COVID-19. WHO regularly monitors all emerging evidence about this critical topic and will provide an update as more information becomes available.
+
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / April, 2020 - World Health Organization
+    let !a self assert = COVID-19 is primarily transmitted from symptomatic people to others who are in close contact through respiratory droplets, by direct contact with infected persons, or by contact with contaminated objects and surfaces.
+
+    / April, 2020 - World Health Organization
+    let !b self assert = Shedding of the COVID-19 virus is highest in upper respiratory tract (nose and throat) early in the course of the disease.8-11 That is, within the first 3 days from onset of symptoms. Preliminary data suggests that people may be more contagious around the time of symptom onset as compared to later on in the disease.
+
+    / April, 2020 - World Health Organization
+    let !c self assert = Pre-symptomatic transmission: The incubation period for COVID-19, which is the time between exposure to the virus (becoming infected) and symptom onset, is on average 5-6 days, however can be up to 14 days. During this period, also known as the “presymptomatic” period, some infected persons can be contagious. Therefore, transmission from a pre-symptomatic case can occur before symptom onset.
+
+    / April, 2020 - World Health Organization
+    let !d self assert = In a small number of case reports and studies, pre-symptomatic transmission has been documented through contact tracing efforts and enhanced investigation of clusters of confirmed cases. This is supported by data suggesting that some people can test positive for COVID-19 from 1-3 days before they develop symptoms. Thus, it is possible that people infected with COVID-19 could transmit the virus before significant symptoms develop. It is important to recognize that pre-symptomatic transmission still requires the virus to be spread via infectious droplets or through touching contaminated surfaces.
+
+    / April, 2020 - World Health Organization
+    let !e self assert = There are few reports of laboratory-confirmed cases who are truly asymptomatic, and to date, there has been no documented asymptomatic transmission. This does not exclude the possibility that it may occur. Asymptomatic cases have been reported as part of contact tracing efforts in some countries.
+
+
+
+  # Hongkong, mitigation, Nosocomial
+  // Escalating infection control response to the rapidly evolving epidemiology of the coronavirus disease 2019 (COVID-19) due to SARS-CoV-2 in Hong Kong.
+  doi: https://doi.org/10.1017/ice.2020.58
+  ref 'Cheng_et_al_03_05_2020
+    head = A bundled approach of active and enhanced laboratory surveillance, early airborne infection isolation, rapid molecular diagnostic testing, and contact tracing for healthcare workers (HCWs) with unprotected exposure in the hospitals was implemented and these measures were able to prevent nosocomial transmission of SARS-CoV-2.
+
+    >>> Objective
+      To describe the infection control preparedness measures undertaken for coronavirus disease (COVID-19) due to SARS-CoV-2 (previously known as 2019 novel coronavirus) in the first 42 days after announcement of a cluster of pneumonia in China, on December 31, 2019 (day 1) in Hong Kong.
+
+    >>> Methods
+      A bundled approach of active and enhanced laboratory surveillance, early airborne infection isolation, rapid molecular diagnostic testing, and contact tracing for healthcare workers (HCWs) with unprotected exposure in the hospitals was implemented. Epidemiological characteristics of confirmed cases, environmental samples, and air samples were collected and analyzed.
+
+    >>> Results
+      From day 1 to day 42, 42 of 1,275 patients (3.3%) fulfilling active (n = 29) and enhanced laboratory surveillance (n = 13) were confirmed to have the SARS-CoV-2 infection. The number of locally acquired case significantly increased from 1 of 13 confirmed cases (7.7%, day 22 to day 32) to 27 of 29 confirmed cases (93.1%, day 33 to day 42; P < .001). Among them, 28 patients (66.6%) came from 8 family clusters. Of 413 HCWs caring for these confirmed cases, 11 (2.7%) had unprotected exposure requiring quarantine for 14 days. None of these was infected, and nosocomial transmission of SARS-CoV-2 was not observed. Environmental surveillance was performed in the room of a patient with viral load of 3.3 × 106 copies/mL (pooled nasopharyngeal and throat swabs) and 5.9 × 106 copies/mL (saliva), respectively. SARS-CoV-2 was identified in 1 of 13 environmental samples (7.7%) but not in 8 air samples collected at a distance of 10 cm from the patient’s chin with or without wearing a surgical mask.
+
+    >>> Conclusion
+      Appropriate hospital infection control measures was able to prevent nosocomial transmission of SARS-CoV-2.
+
+    -- exports
+      !a
+      !b
+
+    / March, 2020 - Infect Control Hosp Epidemiol.
+    let !a self assert = SARS-CoV-2 was identified in 1 of 13 environmental samples (7.7%) but not in 8 air samples collected at a distance of 10 cm from the patient’s chin with or without wearing a surgical mask.
+
+    / March, 2020 - Infect Control Hosp Epidemiol.
+    let !b self assert = Of 413 HCWs caring for these confirmed cases, 11 (2.7%) had unprotected exposure requiring quarantine for 14 days. None of these was infected, and nosocomial transmission of SARS-CoV-2 was not observed.
+
+
+  # this paper is already done
+  # // Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient.
+  # doi: https://doi.org/10.1001/jama.2020.3227
+  # ref 'Ong_et_al_03_04_2020
+  #   head = Significant environmental contamination by patients with SARS-CoV-2 through respiratory droplets and fecal shedding suggests the environment as a potential medium of transmission and supports the need for strict adherence to environmental and hand hygiene.
+  #
+  #
+  #   / March, 2020 - JAMA
+  #   let !a self assert =
+
+
+
+  # aerosol, surface, nonsomical
+  # // Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020.
+  # doi: https://doi.org/10.3201/eid2607.200885
+  # ref 'Guo_et_al_04_10_2020
+  #   head = Environmental contamination was greater in intensive care units than general wards. Virus was widely distributed in the air and on floors, computer mice, trash cans, and sickbed handrails and was detected in air ≈4 m from patients.
+  #
+  #   >>> Abstract
+  #     To determine distribution of severe acute respiratory syndrome coronavirus 2 in hospital wards in Wuhan, China, we tested air and surface samples. Contamination was greater in intensive care units than general wards. Virus was widely distributed on floors, computer mice, trash cans, and sickbed handrails and was detected in air ≈4 m from patients.
+  #
+  #   / April, 2020 - Emerging Infectious Diseases
+  #   let !a self assert =
+
+
+
+  # paper is done in PRE2019.i
+  # // Detection of air and surface contamination by SARS-CoV-2 in hospital rooms of infected patients
+  # doi: https://doi.org/xyz
+  # ref 'Chia_et_al_05_29_2020
+  #   head =
+  #
+  #   / February, 2020 - bioRxiv
+  #   let !a self assert =
+
+
+
+  # toilet, fomite, respiration, direct transmission (droplet and person-to-person), indirect transmission, Nonsomical, Nebraska, USA
+  // Transmission Potential of SARS-CoV-2 in Viral Shedding Observed at the University of Nebraska Medical Center.
+  doi: https://doi.org/10.1101/2020.03.23.20039446
+  ref 'Santarpia_et_al_06_03_2020
+    head = Many commonly used items, toilet facilities, and air samples had evidence of viral contamination, indicating that SARS-CoV-2 is shed to the environment as expired particles, during toileting, and through contact with fomites. Disease spread through both direct (droplet and person-to-person) as well as indirect contact (contaminated objects and airborne transmission) are indicated, supporting the use of airborne isolation precautions.
+
+    >>> Abstract
+      Lack of evidence on SARS-CoV-2 transmission dynamics has led to shifting isolation guidelines between airborne and droplet isolation precautions. During the initial isolation of 13 individuals confirmed positive with COVID-19 infection, air and surface samples were collected in eleven isolation rooms to examine viral shedding from isolated individuals. While all 15 individuals were confirmed positive for SARS-CoV-2, symptoms and viral shedding to the environment varied considerably. Many commonly used items, toilet facilities, and air samples had evidence of viral contamination, indicating that SARS-CoV-2 is shed to the environment as expired particles, during toileting, and through contact with fomites. Disease spread through both direct (droplet and person-to-person) as well as indirect contact (contaminated objects and 20 airborne transmission) are indicated, supporting the use of airborne isolation precautions.
+
+
+    / June, 2020 - medRxiv
+    let !a self assert =
+
+
+
+  # nonsomical, Iran, airborne- counter
+  // A field indoor air measurement of SARS-CoV-2 in the patient rooms of the largest hospital in Iran.
+  doi: https://doi.org/10.1016/j.scitotenv.2020.138401
+  ref 'Faridi_et_al_07_10_2020
+    head = We investigated ten air samples of patient rooms with confirmed COVID-19 in the largest clinical hospital in Iran. All air samples which were collected 2 to 5 m from the patients' beds with confirmed COVID-19 were negative.
+
+    >>> Abstract
+      The coronavirus disease 2019 (COVID-19) emerged in Wuhan city, China, in late 2019 and has rapidly spread throughout the world. The major route of transmission of SARS-CoV-2 is in contention, with the airborne route a likely transmission pathway for carrying the virus within indoor environments. Until now, there has been no evidence for detection of airborne severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and this may have implication for the potential spread of the COVID-19. We investigated the air of patient rooms with confirmed COVID-19 in the largest hospital in Iran, on March 17, 2020. To collect the SARS-CoV-2 particles, ten air samples were collected into the sterile standard midget impingers containing 20 mL DMEM with 100 μg/mL streptomycin, 100 U/mL penicillin and 1% antifoam reagent for 1 h. Besides, indoor particle number concentrations, CO2, relative humidity and temperature were recorded throughout the sampling duration. Viral RNA was extracted from samples taken from the impingers and Reverse-Transcription PCR (RT-PCR) was applied to confirm the positivity of collected samples based on the virus genome sequence. Fortunately, in this study all air samples which were collected 2 to 5 m from the patients' beds with confirmed COVID-19 were negative. Despite we indicated that all air samples were negative, however, we suggest further in vivo experiments should be conducted using actual patient cough, sneeze and breath aerosols in order to show the possibility of generation of the airborne size carrier aerosols and the viability fraction of the embedded virus in those carrier aerosols.
+
+
+    / July, 2020 - Science of the Total Environment
+    let !a self assert =
+
+
+
+  # paper already done in Research.i
+  # // Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1
+  # doi: https://doi.org/xyz
+  # ref 'Doremalen_et_al_03_17_2020
+  #   head =
+  #
+  #
+  #   / February, 2020 - bioRxiv
+  #   let !a self assert =
+
+
+
+  # aerosol, Viability
+  // Comparative dynamic aerosol efficiencies of three emergent coronaviruses and the unusual persistence of SARS-CoV-2 in aerosol suspensions.
+  doi: https://doi.org/10.1101/2020.04.13.20063784
+  ref 'Fears_et_al_04_18_2020
+    head = Virus is remarkably resilient in aerosol form with its ability to maintain infectivity when suspended in aerosols for up to 16 hours.
+
+    >>> Abstract
+      The emergent coronavirus, designated severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2), is a zoonotic pathogen that has demonstrated remarkable transmissibility in the human population and is the etiological agent of a current global pandemic called COVID-19. We measured the dynamic (short-term) aerosol efficiencies of SARS-CoV-2 and compared the efficiencies with two other emerging coronaviruses, SARS-CoV (emerged in 2002) and Middle Eastern respiratory syndrome CoV (MERS-CoV; emerged starting in 2012). We also quantified the long-term persistence of SARS-CoV-2 and its ability to maintain infectivity when suspended in aerosols for up to 16 hours.
+
+
+    / April, 2020 - medRxiv
+    let !a self assert =
+
+
+
+  # mitigation
+  // Symptom-Based Strategy to Discontinue Isolation for Persons with COVID-19.
+  doi: https://www.cdc.gov/coronavirus/2019-ncov/hcp/duration-isolation.html
+  ref 'CDC_2020
+    head = Accumulating evidence supports ending isolation and precautions for persons with COVID-19 using a symptom-based strategy. This update incorporates recent evidence to inform the duration of isolation and precautions recommended to prevent transmission of SARS-CoV-2 to others, while limiting unnecessary prolonged isolation and unnecessary use of laboratory testing resources.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+      !j
+      !k
+      !l
+      !m
+
+
+    / Centers for Disease Control and Prevention
+    let !a self assert = Concentrations of SARS-CoV-2 RNA measured in upper respiratory specimens decline after onset of symptoms.
+
+    / Centers for Disease Control and Prevention
+    let !b self assert = It was estimated that 88% and 95% of their specimens no longer yielded replication-competent virus after 10 and 15 days, respectively, following symptom onset.
+
+    / Centers for Disease Control and Prevention
+    let !c self assert = A large contact tracing study demonstrated that high-risk household and hospital contacts did not develop infection if their exposure to a case patient started 6 days or more after the case patient’s illness onset.
+
+    / Centers for Disease Control and Prevention
+    let !d self assert = Although replication-competent virus was not isolated 3 weeks after symptom onset, recovered patients can continue to have SARS-CoV-2 RNA detected in their upper respiratory specimens for up to 12 weeks. Investigation of 285 “persistently positive” persons, which included 126 persons who had developed recurrent symptoms, found no secondary infections among 790 contacts attributable to contact with these case patients. Efforts to isolate replication-competent virus from 108 of these case patients were unsuccessful.
+
+    / Centers for Disease Control and Prevention
+    let !e self assert = Specimens from patients who recovered from an initial COVID-19 illness and subsequently developed new symptoms and retested positive by RT-PCR did not have replication-competent virus detected. The risk of reinfection may be lower in the first 3 months after initial infection, based on limited evidence from another betacoronavirus (HCoV-OC43), the genus to which SARS-CoV-2 belongs.
+
+    / Centers for Disease Control and Prevention
+    let !f self assert = Currently, 6 months after the emergence of SARS-CoV-2, there have been no confirmed cases of SARS-CoV-2 reinfection. However, the number of areas where sustained infection pressure has been maintained, and therefore reinfections would be most likely observed, remains limited.
+
+    / Centers for Disease Control and Prevention
+    let !g self assert = Serologic or other correlates of immunity have not yet been established.
+
+    / Centers for Disease Control and Prevention
+    let !h self assert = For most persons with COVID-19 illness, isolation and precautions can generally be discontinued 10 days after symptom onset and resolution of fever for at least 24 hours, without the use of fever-reducing medications, and with improvement of other symptoms.
+
+    / Centers for Disease Control and Prevention
+    let !i self assert = A limited number of persons with severe illness may produce replication-competent virus beyond 10 days that may warrant extending duration of isolation and precautions for up to 20 days after symptom onset; consider consultation with infection control experts.
+
+    / Centers for Disease Control and Prevention
+    let !j self assert = For persons who never develop symptoms, isolation and other precautions can be discontinued 10 days after the date of their first positive RT-PCR test for SARS-CoV-2 RNA.
+
+    / Centers for Disease Control and Prevention
+    let !k self assert = Role of PCR testing to discontinue isolation or precautions: For persons who are severely immunocompromised, a test-based strategy could be considered in consultation with infectious diseases experts. For all others, a test-based strategy is no longer recommended except to discontinue isolation or precautions earlier than would occur under the strategy outlined in Part 1, above.
+
+    / Centers for Disease Control and Prevention
+    let !l self assert = For persons previously diagnosed with symptomatic COVID-19 who remain asymptomatic after recovery, retesting is not recommended within 3 months after the date of symptom onset for the initial COVID-19 infection.
+
+    / Centers for Disease Control and Prevention
+    let !m self assert = Serologic testing should not be used to establish the presence or absence of SARS-CoV-2 infection or reinfection.
+
+
+
+  # paper is already done in Research.i - the date and month is not written in ref- discuss with ayush
+  # // Virological assessment of hospitalized patients with COVID-2019.
+  # doi: https://doi.org/xyz
+  # ref 'Wölfel_et_al_04_01_2020
+  #   head =
+  #
+  #   -- exports
+  #     !a
+  #
+  #   / February, 2020 - bioRxiv
+  #   let !a self assert =
+
+
+
+  # paper already done in Sangeeta.i
+  # // A Familial Cluster of Infection Associated With the 2019 Novel Coronavirus Indicating Possible Person-to-Person Transmission During the Incubation Period.
+  # doi: https://doi.org/xyz
+  # ref 'Yu_et_al_02_18_2020
+  #   head =
+  #
+  #   / February, 2020 - bioRxiv
+  #   let !a self assert =
+
+
+
+  #
+  //  The Incubation Period of Coronavirus Disease 2019 (COVID-19) From Publicly Reported Confirmed Cases: Estimation and Application.
+  doi: https://doi.org/10.7326/M20-0504
+  ref 'Lauer_et_al_05_05_2020
+    head = This work provides additional evidence for a median incubation period for COVID-19 of approximately 5 days, similar to SARS. Our results support current proposals for the length of quarantine or active monitoring of persons potentially exposed to SARS-CoV-2, although longer monitoring periods might be justified in extreme cases.
+
+    >>> Background
+      A novel human coronavirus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), was identified in China in December 2019. There is limited support for many of its key epidemiologic features, including the incubation period for clinical disease (coronavirus disease 2019 [COVID-19]), which has important implications for surveillance and control activities.
+
+    >>> Objective
+      To estimate the length of the incubation period of COVID-19 and describe its public health implications.
+
+    >>> Design
+      Pooled analysis of confirmed COVID-19 cases reported between 4 January 2020 and 24 February 2020.
+
+    >>> Setting
+      News reports and press releases from 50 provinces, regions, and countries outside Wuhan, Hubei province, China.
+
+    >>> Participants
+      Persons with confirmed SARS-CoV-2 infection outside Hubei province, China.
+
+    >>> Measurements
+      Patient demographic characteristics and dates and times of possible exposure, symptom onset, fever onset, and hospitalization.
+
+    >>> Results
+      There were 181 confirmed cases with identifiable exposure and symptom onset windows to estimate the incubation period of COVID-19. The median incubation period was estimated to be 5.1 days (95% CI, 4.5 to 5.8 days), and 97.5% of those who develop symptoms will do so within 11.5 days (CI, 8.2 to 15.6 days) of infection. These estimates imply that, under conservative assumptions, 101 out of every 10 000 cases (99th percentile, 482) will develop symptoms after 14 days of active monitoring or quarantine.
+
+    >>> Limitation
+      Publicly reported cases may overrepresent severe cases, the incubation period for which may differ from that of mild cases.
+
+    >>> Conclusion
+      This work provides additional evidence for a median incubation period for COVID-19 of approximately 5 days, similar to SARS. Our results support current proposals for the length of quarantine or active monitoring of persons potentially exposed to SARS-CoV-2, although longer monitoring periods might be justified in extreme cases.
+
+
+    / May, 2020 - Ann Intern Med.
+    let !a self assert =
+
+
+
+
+  # paper already done in Sangeeta.i, check the date
+  # // Asymptomatic and Presymptomatic SARSCoV-2 Infections in Residents of a Long-Term Care Skilled Nursing Facility - King County, Washington
+  # doi: https://doi.org/xyz
+  # ref 'Kimball_et_al_04_03_2020
+  #   head =
+  #
+  #   / February, 2020 - bioRxiv
+  #   let !a self assert =
+
+
+
+  # secondary cases, presymptomatic stage
+  # // Temporal dynamics in viral shedding and transmissibility of COVID-19.
+  # doi: https://doi.org/10.1038/s41591-020-0869-5
+  # ref 'He_et_al_04_15_2020
+  #   head = We observed the highest viral load in throat swabs at the time of symptom onset, and inferred that infectiousness peaked on or before symptom onset. We estimated that 44% of secondary cases were infected during the index cases’ presymptomatic stage, in settings with substantial household clustering, active case finding and quarantine outside the home.
+  #
+  #   >>> Abstract
+  #     We report temporal patterns of viral shedding in 94 patients with laboratory-confirmed COVID-19 and modeled COVID-19 infectiousness profiles from a separate sample of 77 infector–infectee transmission pairs. We observed the highest viral load in throat swabs at the time of symptom onset, and inferred that infectiousness peaked on or before symptom onset. We estimated that 44% (95% confidence interval, 30–57%) of secondary cases were infected during the index cases’ presymptomatic stage, in settings with substantial household clustering, active case finding and quarantine outside the home. Disease control measures should be adjusted to account for probable substantial presymptomatic transmission.
+  #
+  #   / April, 2020 - Nature Medicine
+  #   let !a self assert =
+
+
+
+  # asymptomatic, community transmission
+  // Estimating the extent of true asymptomatic COVID-19 and its potential for community transmission: systematic review and metaanalysis.
+  doi: https://doi.org/10.1101/2020.05.10.20097543
+  ref 'Byambasuren_et_al_06_04_2020
+    head = Our estimates of the proportion of asymptomatic cases and their transmission rates suggest that asymptomatic spread is unlikely to be a major driver of clusters or community transmission of infection, but the extent for pre-symptomatic and minor symptomatic transmission remains unknown.
+
+
+    >>> Background
+      The prevalence of true asymptomatic COVID-19 cases is critical to policy makers considering the effectiveness of mitigation measures against the SARS-CoV-2 pandemic. We aimed to synthesize all available research on the asymptomatic rates and transmission rates where possible.
+
+    >>> Methods
+      We searched PubMed, Embase, Cochrane COVID-19 trials, and Europe PMC (which covers pre-print platforms such as MedRxiv). We included primary studies reporting on asymptomatic prevalence where: (a) the sample frame includes at-risk population, and (b) there was sufficiently long follow up to identify pre-symptomatic cases. Meta-analysis used fixed effect and random effects models. We assessed risk of bias by combination of questions adapted from risk of  bias tools for prevalence and diagnostic accuracy studies.
+
+    >>> Results
+      We screened 998 articles and included nine low risk-of-bias studies from six countries that
+      tested 21,035 at-risk people, of which 559 were positive and 83 were asymptomatic. Diagnosis in all
+      studies was confirmed using a RT-qPCR test. The proportion of asymptomatic cases ranged from 4%
+      to 41%. Meta-analysis (fixed effect) found that the proportion of asymptomatic cases was 15% (95%
+      CI: 12% - 18%) overall; higher in non-aged care 16% (13% - 19%), and lower in long-term aged care
+      8% (3% - 18%). Four studies provided direct evidence of forward transmission of the infection by
+      asymptomatic cases but suggested considerably lower rates than symptomatic cases.
+
+    >>> Discussion
+      Our estimates of the prevalence of asymptomatic COVID-19 cases and asymptomatic transmission rates are lower than many highly publicized studies, but still sufficient to warrant policy attention. Further robust epidemiological evidence is urgently needed, including in sub-populations such as children, to better understand the importance of asymptomatic cases for driving spread of the pandemic.
+
+    / June, 2020 - bioRxiv
+    let !a self assert =
+
+
+
+  # 26 staff people, presymptomatic, nursing facility
+  // Presymptomatic SARS-CoV-2 Infections and Transmission in a Skilled Nursing Facility.
+  doi: https://doi.org/10.1056/NEJMoa2008457
+  ref 'Arons_et_al_03_28_2020
+    head = Rapid and widespread transmission of SARS-CoV-2 was demonstrated in this skilled nursing facility. More than half of residents with positive test results were asymptomatic at the time of testing and most likely contributed to transmission. Infection-control strategies focused solely on symptomatic residents were not sufficient to prevent transmission after SARS-CoV-2 introduction into this facility.
+
+    >>> Background
+      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection can spread rapidly within skilled nursing facilities. After identification of a case of Covid-19 in a skilled nursing facility, we assessed transmission and evaluated the adequacy of symptom-based screening to identify infections in residents.
+
+    >>> Methods
+      We conducted two serial point-prevalence surveys, 1 week apart, in which assenting residents of the facility underwent nasopharyngeal and oropharyngeal testing for SARS-CoV-2, including real-time reverse-transcriptase polymerase chain reaction (rRT-PCR), viral culture, and sequencing. Symptoms that had been present during the preceding 14 days were recorded. Asymptomatic residents who tested positive were reassessed 7 days later. Residents with SARS-CoV-2 infection were categorized as symptomatic with typical symptoms (fever, cough, or shortness of breath), symptomatic with only atypical symptoms, presymptomatic, or asymptomatic.
+
+    >>> Results
+      Twenty-three days after the first positive test result in a resident at this skilled nursing facility, 57 of 89 residents (64%) tested positive for SARS-CoV-2. Among 76 residents who participated in point-prevalence surveys, 48 (63%) tested positive. Of these 48 residents, 27 (56%) were asymptomatic at the time of testing; 24 subsequently developed symptoms (median time to onset, 4 days). Samples from these 24 presymptomatic residents had a median rRT-PCR cycle threshold value of 23.1, and viable virus was recovered from 17 residents. As of April 3, of the 57 residents with SARS-CoV-2 infection, 11 had been hospitalized (3 in the intensive care unit) and 15 had died (mortality, 26%). Of the 34 residents whose specimens were sequenced, 27 (79%) had sequences that fit into two clusters with a difference of one nucleotide.
+
+    >>> Conclusions
+      Rapid and widespread transmission of SARS-CoV-2 was demonstrated in this skilled nursing facility. More than half of residents with positive test results were asymptomatic at the time of testing and most likely contributed to transmission. Infection-control strategies focused solely on symptomatic residents were not sufficient to prevent transmission after SARS-CoV-2 introduction into this facility.
+
+    / March, 2020 - N Engl J Med.
+    let !a self assert =
+
+
+
+  # close contacts, household
+  // Modes of contact and risk of transmission in COVID-19 among close contacts.
+  doi: https://doi.org/10.1101/2020.03.24.20042606
+  ref 'Luo_et_al_03_26_2020
+    head = The proportion of asymptomatic and mild infections account for almost half of the confirmed cases among close contacts. The household contacts were the main transmission mode, and clinically more severe cases were more likely to pass the infection to their close contacts. The secondary cases were clinically milder than those of source cases.
+
+
+    >>> Background
+      Rapid spread of SARS-CoV-2 in Wuhan prompted heightened surveillance in Guangzhou and elsewhere in China. Modes of contact and risk of transmission among close contacts have not been well estimated.
+
+    >>> Methods
+      We included 4950 closes contacts from Guangzhou, and extracted data including modes of contact, laboratory testing, clinical characteristics of confirmed cases and source cases. We used logistic regression analysis to explore the risk factors associated with infection of close contacts.
+
+    >>> Results
+      Among 4950 closes contacts, the median age was 38.0 years, and males accounted for 50.2% (2484). During quarantine period, 129 cases (2.6%) were diagnosed, with 8 asymptomatic (6.2%), 49 mild (38.0%), and 5 (3.9%) severe to critical cases. The sensitivity of throat swab was 71.32% and 92.19% at first to second PCR test. Among different modes of contact, household contacts were the most dangerous in catching with infection of COVID-19, with an incidence of 10.2%. As the increase of age for close contacts and severity of source cases, the incidence of COVID-19 presented an increasing trend from 1.8% (0-17 years) to 4.2% (60 or over years), and from 0.33% for asymptomatic, 3.3% for mild, to 6.2% for severe and critical source cases, respectively. Manifestation of expectoration in source cases was also highly associated with an increased risk of infection in their close contacts (13.6%). Secondary cases were in general clinically milder and were less likely to have common symptoms than those of source cases.
+
+    >>> Conclusions
+      In conclusion, the proportion of asymptomatic and mild infections account for almost half of the confirmed cases among close contacts. The household contacts were the main transmission mode, and clinically more severe cases were more likely to pass the infection to their close contacts. Generally, the secondary cases were clinically milder than those of source cases.
+
+
+    / March, 2020 - MedRxiv
+    let !a self assert =
+
+
+
+  # close contacts, asymptomatic, young people, infectious cycle
+  // Clinical characteristics of 24 asymptomatic infections with COVID-19 screened among close contacts in Nanjing, China
+  doi: https://doi.org/10.1007/s11427-020-1661-4
+  ref 'Hu_et_al_03_04_2020
+    head = We observed a typical asymptomatic transmission to the cohabiting family members, which even caused severe COVID-19 pneumonia. Overall, the asymptomatic carriers identified from close contacts were prone to be mildly ill during hospitalization. The communicable period could be up to three weeks and the communicated patients could develop severe illness.
+
+    >>> Abstract
+      Previous studies have showed clinical characteristics of patients with the 2019 novel coronavirus disease (COVID-19) and the evidence of person-to-person transmission. Limited data are available for asymptomatic infections. This study aims to present the clinical characteristics of 24 cases with asymptomatic infection screened from close contacts and to show the transmission potential of asymptomatic COVID-19 virus carriers. Epidemiological investigations were conducted among all close contacts of COVID-19 patients (or suspected patients) in Nanjing, Jiangsu Province, China, from Jan 28 to Feb 9, 2020, both in clinic and in community. Asymptomatic carriers were laboratory-confirmed positive for the COVID-19 virus by testing the nucleic acid of the pharyngeal swab samples. Their clinical records, laboratory assessments, and chest CT scans were reviewed. As a result, none of the 24 asymptomatic cases presented any obvious symptoms while nucleic acid screening. Five cases (20.8%) developed symptoms (fever, cough, fatigue, etc.) during hospitalization. Twelve (50.0%) cases showed typical CT images of ground-glass chest and 5 (20.8%) presented stripe shadowing in the lungs. The remaining 7 (29.2%) cases showed normal CT image and had no symptoms during hospitalization. These 7 cases were younger (median age: 14.0 years; P=0.012) than the rest. None of the 24 cases developed severe COVID-19 pneumonia or died. The median communicable period, defined as the interval from the first day of positive nucleic acid tests to the first day of continuous negative tests, was 9.5 days (up to 21 days among the 24 asymptomatic cases). Through epidemiological investigation, we observed a typical asymptomatic transmission to the cohabiting family members, which even caused severe COVID-19 pneumonia. Overall, the asymptomatic carriers identified from close contacts were prone to be mildly ill during hospitalization. However, the communicable period could be up to three weeks and the communicated patients could develop severe illness. These results highlighted the importance of close contact tracing and longitudinally surveillance via virus nucleic acid tests. Further isolation recommendation and continuous nucleic acid tests may also be recommended to the patients discharged.
 
     -- exports
       !a
 
-    / December, 2016 - bioRxiv
-    let !a self assert =
+    / March, 2020 - Science China Life Sciences
+    let !a self assert = We found that young cases (<15 years old) were prone to be asymptomatic even during hospitalization and to have a normal CT image, which partially suggested that nucleic acid testing would be crucial to identify asymptomatic infections in young close contacts.
+
+
+
+  # this paper is done in Sangeeta.i
+  # // A family cluster of SARS-CoV-2 infection involving 11 patients in Nanjing, China.
+  # doi: https://doi.org/xyz
+  # ref 'Huang_et_al_02_28_2020
+  #   head =
+  #
+  #   / December, 2016 - bioRxiv
+  #   let !a self assert =
 
 
 
@@ -52,7 +596,7 @@ feed WHO
 
 
 
-  # asymptomatictransmission, contact tracing, AsymptomaticPhase
+  # asymptomatictransmission, contact tracing, AsymptomaticPhase, nonsomical
   // Characterization of an asymptomatic cohort of SARS-COV2 infected individuals outside of Wuhan, China
   doi: https://doi.org/10.1093/cid/ciaa629
   ref 'Wang_et_al_05_22_2020
@@ -75,7 +619,7 @@ feed WHO
       !b
       !c
 
-    / May, 2020 -  Clin Infect Dis.
+    / May, 2020 - Clin Infect Dis.
     let !a self assert = Mean time to diagnosis after close contact with a COVID-19 index patient was 16.0 days with a maximum of 29 days, and it was 13.4 days and 18.7 days for those with abnormal and normal CT findings, respectively. This suggests that RT-PCR screening should be undertaken even if an individual shows no symptoms more than 14 days after close contact with an infected person.
 
     / May, 2020 -  Clin Infect Dis.

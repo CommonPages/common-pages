@@ -11,7 +11,7 @@ subject module Disease
       'Tindale_et_al_2020
       'Nishiura_et_al_2020
       'Linton_et_al_2020
-      'J_et_al_2020.!d
+      'Liu_et_al_03_03_2020.!d
       'Sanche_et_al_2020.!a
 
   / Asymtomatic & Presymptomatic Phase

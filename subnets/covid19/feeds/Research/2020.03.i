@@ -41,7 +41,7 @@ feed March2020
     'Zhang_et_al_2020h
     'Shen_et_al_2020
     'Das_et_al_2020
-    'J_et_al_2020
+    'Liu_et_al_03_03_2020
     'Han_et_al_2020
     'Chen_et_al_2020d
     'Guo_et_al_2020
@@ -108,7 +108,7 @@ feed March2020
     'van_Doremalen_et_al_2020
     'Woelfel_et_al_2020
     'Hoffman_et_al_2020
-    'Ong_et_al_2020
+    
 
 
   #
@@ -134,7 +134,7 @@ feed March2020
     let !b self assert = HCQ may confer a similar antiviral effect at both pre- and post- infection stages, as found with CQ
 
     / March, 2020 - Journal of Antimicrobial Chemotherapy
-    let !c self assert = HCQ has fewer side effects, is safe in pregnancy and is cheaper and more highly available in China. 
+    let !c self assert = HCQ has fewer side effects, is safe in pregnancy and is cheaper and more highly available in China.
 
 
   # Social Distancing , Tracing
@@ -657,6 +657,8 @@ feed March2020
 
     / March, 2020 - NEJM
     let !a self assert = SARS-CoV-2 was more stable on plastic and stainless steel than on copper and cardboard, and viable virus was detected up to 72 hours after application to these surfaces, although the virus titer was greatly reduced (after 72 hours on plastic and after 48 hours on stainless steel).
+
+
 
   # Clinical Recommendation - Hyperinflammation
   // Immunosuppression for hyperinflammation in COVID-19: a double-edged sword?
@@ -1441,8 +1443,8 @@ feed March2020
   # Epidemic , Community Transmission, Mitigation
   // Community Transmission of Severe Acute Respiratory Syndrome Coronavirus 2, Shenzhen, China, 2020.
   doi: http://doi.org/10.3201/eid2606.200239
-  article 'J_et_al_2020
-    head = Based on this epidemiologic analysis, we found that COVID-19 has become endemic to Shenzhen, China. We suspect that community transmission and intrafamily transmission have potentially become the new transmission modes in the city. Also, nosocomial infection and transmission might pose a potential risk for COVID-19 control.
+  article 'Liu_et_al_03_03_2020
+    head = We found that COVID-19 has become endemic to Shenzhen, China. We suspect that community transmission and intrafamily transmission have potentially become the new transmission modes in the city. Also, nosocomial infection and transmission might pose a potential risk for COVID-19 control.
 
     >>> Abstract
       Since early January 2020, after the outbreak of 2019 novel coronavirus infection in Wuhan, China, ≈365 confirmed cases have been reported in Shenzhen, China. The mode of community and intrafamily transmission is threatening residents in Shenzhen. Strategies to strengthen prevention and interruption of these transmissions should be urgently addressed.
@@ -1450,11 +1452,9 @@ feed March2020
     -- exports
       !a
       !b
-      !c
       !d
       !e
       !f
-      !g
       !h
       !i
       !j
@@ -1466,19 +1466,16 @@ feed March2020
     let !b self assert = We found a sharply increasing proportion of infected children (from 2% before January 24 to 13% for January 25–February 5; p<0.001), implying that increased exposure for children and intrafamily transmission might contribute substantially to the epidemic.  Although substantially higher after January 25, 2020, the proportion of infected children in our study before January 24, 2020, was similar to the proportions reported.
 
     / March, 2020 - Emerg Infect Dis
-    let !c self assert = The possible reasons for the discrepancy after January 25 might be the low proportion of children exposed early in the outbreak; early detection for children who had had close contact with persons with diagnosed or suspected cases after strict control measures were conducted comprehensively; and difficult identification of the relatively milder clinical signs and symptoms in young patients than in infected adults (6), especially in the setting of limited resources in the early phase of the outbreak in Wuhan.
-
-    / March, 2020 - Emerg Infect Dis
-    let !d self assert = We explored the incubation periods for 58 case-patients with definite exposure and detailed investigation information. The estimated mean incubation periods were 6.1 (range 1–16) days among 33 case-patients who had had close contact with symptomatic confirmed case-patients and 6.0 (range 1–15) days among 25 case-patients who had traveled to Wuhan and stayed <1 day over the previous 3 weeks.
+    let !d self assert = The estimated mean incubation periods were 6.1 (range 1–16) days among 33 case-patients who had had close contact with symptomatic confirmed case-patients and 6.0 (range 1–15) days among 25 case-patients who had traveled to Wuhan and stayed <1 day over the previous 3 weeks.
 
     / March, 2020 - Emerg Infect Dis
     let !e self assert = Among 12 clusters of single intracluster transmission cases, 15 case-patients were infected within 5.5 days of the mean interval between illness onset of the infector and illness onset of the infectee. Among 56 clusters of single co-exposure cases, the mean interval of symptom onset between the primary and second case-patient within a cluster was 3.1 days, and the mean interval of symptom onset between the primary and last case-patient within a cluster was 3.6 days
 
     / March, 2020 - Emerg Infect Dis
-    let !f self assert = With continuous implementation of strict control measures, we observed a shortened span (median days declining from 3 to 1; p<0.001) between illness onset and hospital visits for case-patients. This finding may result from strict infection control management (e.g., early screening for suspected cases, monitoring for close-contact persons, and improved health consciousness of the general population).
+    let !f self assert = With continuous implementation of strict control measures, we observed a shortened span (median days declining from 3 to 1) between illness onset and hospital visits for case-patients. This finding may result from strict infection control management (e.g., early screening for suspected cases, monitoring for close-contact persons, and improved health consciousness of the general population).
 
-    / March, 2020 - Emerg Infect Dis
-    let !g self assert = To control the infection, confirmed case-patients should be separated and managed centrally; thus, the government has designated special hospitals to admit patients with suspected or confirmed cases. Nevertheless, as of February 5, to our knowledge, 1 case of a healthcare worker having been infected has been reported; an emergency nurse from a nondesignated hospital became ill on January 26, 2020, a total of 8 days after having been in close contact with a confirmed case-patient in the outpatient setting.
+    # / March, 2020 - Emerg Infect Dis
+    # let !g self assert = To control the infection, confirmed case-patients should be separated and managed centrally; thus, the government has designated special hospitals to admit patients with suspected or confirmed cases.
 
     / March, 2020 - Emerg Infect Dis
     let !h self assert = We found that only 13%–15% of patients with confirmed cases went to the designated hospital first during the epidemic period. This finding means that a substantial number of case-patients visited >1 nondesignated hospital before they were admitted to the designated hospital, which increases the risk for nosocomial infection.
@@ -2320,11 +2317,12 @@ feed March2020
     head = Our data indicate that, patients with severe COVID-19 tend to have a high viral load and a long virus-shedding period. This finding suggests that the viral load of SARS-CoV-2 might be a useful marker for assessing disease severity and prognosis.
 
 
-  # Shedding , AsymptomaticCarriers
+  # Shedding , AsymptomaticCarriers, secondary cases, presymptomatic stage
   // Temporal dynamics in viral shedding and transmissibility of COVID-19
   doi: https://doi.org/10.1101/2020.03.15.20036707
   article 'He_et_al_2020
-    head = We report temporal patterns of viral shedding in 94 laboratory-confirmed COVID-19 patients and modelled COVID-19 infectiousness profile from a separate sample of 77 infector-infectee transmission pairs. We observed the highest viral load in throat swabs at the time of symptom onset, and inferred that infectiousness peaked on or before symptom onset.
+    head = We observed the highest viral load in throat swabs at the time of symptom onset, and inferred that infectiousness peaked on or before symptom onset. We estimated that 44% of secondary cases were infected during the index cases’ presymptomatic stage, in settings with substantial household clustering, active case finding and quarantine outside the home.
+
 
     -- exports
       !a
@@ -2987,10 +2985,10 @@ feed March2020
     let !a self assert = The sera from convalescent SARS patients cross-neutralized SARS-2-S-driven entry. Our results reveal important commonalities between SARS-CoV-2 and SARS-CoV infection and identify a potential target for antiviral intervention.
 
 
-  # Tag - Transmission
+  # droplets, fecal, fomite transmission, nonsomical
   // Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient
   doi: https://doi.org/10.1001/jama.2020.3227
-  article 'Ong_et_al_2020
+  article 'Ong_et_al_03_04_2020
     head = Significant environmental contamination by patients with SARS-CoV-2 through respiratory droplets and fecal shedding suggests the environment as a potential medium of transmission and supports the need for strict adherence to environmental and hand hygiene.
 
     # -- exports

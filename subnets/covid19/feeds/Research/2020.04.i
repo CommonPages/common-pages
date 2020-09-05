@@ -3326,7 +3326,7 @@ feed April2020
     let !g self assert = Active replication in the throat was confrmed by viral replicative RNA intermediates in throat samples. Sequence-distinct virus populations were consistently detected in throat and lung samples from the same patient, proving independent replication
 
     / April, 2020 - Nature
-    let !h self assert = Shedding of viral RNA from sputum outlasted the end of symptoms. The prolonged viral shedding in sputum is relevant not only for hospital infection control, but also for discharge management.  Based on the present findings, early discharge with ensuing home isolation could be chosen for patients who are beyond day 10 of symptoms with less than 100,000 viral RNA copies per ml of sputum. Both criteria predict that there is little residual risk of infectivity, based on cell culture.
+    let !h self assert = Shedding of viral RNA from sputum outlasted the end of symptoms. The prolonged viral shedding in sputum is relevant not only for hospital infection control, but also for discharge management. Based on the present findings, early discharge with ensuing home isolation could be chosen for patients who are beyond day 10 of symptoms with less than 100,000 viral RNA copies per ml of sputum. Both criteria predict that there is little residual risk of infectivity, based on cell culture.
 
     / April, 2020 - Nature
     let !i self assert = Seroconversion in 50% of patients occurred by day 7, and in all by day 14. but was not followed by a rapid decline in viral load.

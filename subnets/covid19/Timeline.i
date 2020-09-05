@@ -112,10 +112,9 @@ subject module Timeline
         'Phan_et_al_2020
         'Zhu_et_al_2020
         'Huang_et_al_2020
-        'J_et_al_2020
-        'J_et_al_2020.!a
-        'J_et_al_2020.!b
-        'J_et_al_2020.!c
+        'Liu_et_al_03_03_2020
+        'Liu_et_al_03_03_2020.!a
+        'Liu_et_al_03_03_2020.!b
         'Bi_et_al_2020
         'Wu_et_al_2020.!a
         'Wu_et_al_2020e
