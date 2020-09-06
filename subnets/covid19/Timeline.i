@@ -141,7 +141,7 @@ subject module Timeline
       head = As of Feb 15, 2020, 36 cases of COVID-19 were linked epidemiologically to the first three clusters of circumscribed local transmission in Singapore.
       --
         'Young_et_al_2020
-        'Pung_et_al_2020
+        'Pung_et_al_03_28_2020
     / Iran
     subject Iran
       head = Phylogenetic analyses of whole-genome sequencing data identified a distinct SARS-CoV-2 clade linked to travellers returning from Iran to Australia and New Zealand.

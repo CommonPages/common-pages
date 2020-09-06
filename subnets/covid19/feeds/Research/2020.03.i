@@ -18,7 +18,7 @@ feed March2020
     'Arentz_et_al_2020
     'Zhao_et_al_2020b
     'Okba_et_al_2020
-    'Pung_et_al_2020
+    'Pung_et_al_03_28_2020
     'Park_et_al_2020
     'Moriarty_et_al_2020
     'Lu_et_al_2020b
@@ -108,7 +108,7 @@ feed March2020
     'van_Doremalen_et_al_2020
     'Woelfel_et_al_2020
     'Hoffman_et_al_2020
-    
+
 
 
   #
@@ -808,7 +808,7 @@ feed March2020
   # prolonged close contact, indirect transmission, fomites and shared food, cluster transmission, 36 ppl
   // Investigation of three clusters of COVID-19 in Singapore: implications for surveillance and response measures
   doi: https://doi.org/10.1016/S0140-6736(20)30528-6
-  article 'Pung_et_al_2020
+  article 'Pung_et_al_03_28_2020
     head = 36 cases of COVID-19 were linked epidemiologically to the first three clusters of circumscribed local transmission in Singapore (a Chinese tour group, company conference, and a church). Direct or prolonged close contact was reported among affected individuals, although indirect transmission (eg, via fomites and shared food) could not be excluded.
 
 

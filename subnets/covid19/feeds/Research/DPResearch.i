@@ -62,25 +62,23 @@ feed DPResearch
   #  ------------
 
   ## Airborne, Aerosol, speech
-  doi: https://dx.doi.org/10.1080%2F02786826.2020.1749229
   // The coronavirus pandemic and aerosols: Does COVID-19 transmit via expiratory particles?
+  doi: https://dx.doi.org/10.1080%2F02786826.2020.1749229
   ref 'Asadi_et_al_04_01_2020
     head = This systematically reviews and argues for a possibility of aersol-based transmission in COVID-19
     >>> Abstract
-      - Asymptomatic and pre-symptomatic individuals, by definition, do not cough or sneeze to any appreciable extent. This leaves direct or indirect contact modes and aerosol transmission as the main possible modes of transmission.
-      - Less attention has focused on aerosol transmission, but there are important reasons to suspect it plays a role in the high transmissibility of COVID-19.
-      - Estimating the actual probability of transmission due to this cloud requires information from two traditionally distinct disciplines: virology and aerosol science. In regard to virology, information is required about the average viral titer in the respiratory fluid and the emitted aerosol particles, as well as the minimum infectious dose for COVID-19 in susceptible individuals.
-      - Even if these details about virus production and infectiousness were known with perfect accuracy, however, it is also necessary to calculate how these particles move through the air to a susceptible individual. This is where transport analysis and aerosol science are paramount.
+      Asymptomatic and pre-symptomatic individuals, by definition, do not cough or sneeze to any appreciable extent. This leaves direct or indirect contact modes and aerosol transmission as the main possible modes of transmission.
+      Less attention has focused on aerosol transmission, but there are important reasons to suspect it plays a role in the high transmissibility of COVID-19.
+      Estimating the actual probability of transmission due to this cloud requires information from two traditionally distinct disciplines: virology and aerosol science. In regard to virology, information is required about the average viral titer in the respiratory fluid and the emitted aerosol particles, as well as the minimum infectious dose for COVID-19 in susceptible individuals.
+      Even if these details about virus production and infectiousness were known with perfect accuracy, however, it is also necessary to calculate how these particles move through the air to a susceptible individual. This is where transport analysis and aerosol science are paramount.
 
-      - Clearly there are many complicated unknowns, which in general have stymied definitive assessment of the role of aerosols in airborne disease transmission. But given the large numbers of expiratory particles known to be emitted during breathing and speech, and given the clearly high transmissibility of COVID-19, a plausible and important hypothesis is that a face-to-face conversation with an asymptomatic infected individual, even if both individuals take care not to touch, might be adequate to transmit COVID-19.
+      Clearly there are many complicated unknowns, which in general have stymied definitive assessment of the role of aerosols in airborne disease transmission. But given the large numbers of expiratory particles known to be emitted during breathing and speech, and given the clearly high transmissibility of COVID-19, a plausible and important hypothesis is that a face-to-face conversation with an asymptomatic infected individual, even if both individuals take care not to touch, might be adequate to transmit COVID-19.
 
-      - The aerosol science community needs to step up and tackle the current challenge presented by COVID-19, and also help better prepare us for inevitable future pandemics.
+      The aerosol science community needs to step up and tackle the current challenge presented by COVID-19, and also help better prepare us for inevitable future pandemics.
     >>> Notes
       Indeed, Asadi et al. (2019) paid more attention to the particle’s number and to the size distribution of aerosol emissions occurring during human speech, discovering a high variability among individuals
-    -- exports
-      !a
 
-    / February, 2020 - bioRxiv
+    / March, 2020 - bioRxiv
     let !a self assert =
 
   #  ------------
@@ -127,8 +125,8 @@ feed DPResearch
   #  ------------
 
   ##tags
-  doi: https://doi.org/xyz
-  // Title of the Paper
+  // Prediction of Spatial and Temporal Distribution of Expiratory Droplets in an Aircraft Cabin
+  doi: https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1055&context=ihpbc
   ref 'Gupta_et_al_2010
     head = A study investigating the unsteady transport of droplets exhaled by an index passenger in an aircraft cabin
     >>> Abstract

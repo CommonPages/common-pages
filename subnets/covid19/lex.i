@@ -32,7 +32,8 @@ import Research.January2020._
 import Research.2019._
 import Research.Pre2019._
 import Research.Sangeeta._
-
+import Research.DPResearch._
+import Research.WHO._
 
 import News._
 
