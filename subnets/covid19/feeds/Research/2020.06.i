@@ -1090,11 +1090,11 @@ feed June2020
     # let !a self assert =
 
 
-  # FaceMask
+  # FaceMask, mathematical modeling
   // A modelling framework to assess the likely effectiveness of facemasks in combination with ‘lock-down’ in managing the COVID-19 pandemic
   doi: https://doi.org/10.1098/rspa.2020.0376
   ref 'Stutt_et_al_06_10_2020
-    head = Both of our models show that, under a wide range of plausible parameter conditions, facemask use by the public could significantly reduce the rate of COVID-19 spread, prevent further disease waves and allow less stringent lock-down regimes. The effect is greatest when 100% of the public wear facemasks.
+    head = The mathematical models developed show that, under a wide range of plausible parameter conditions, facemask use by the public could significantly reduce the rate of COVID-19 spread, prevent further disease waves and allow less stringent lock-down regimes. The effect is greatest when 100% of the public wear facemasks.
 
     >>> Abstract
       COVID-19 is characterized by an infectious pre-symptomatic period, when newly infected individuals can unwittingly infect others. We are interested in what benefits facemasks could offer as a non-pharmaceutical intervention, especially in the settings where high-technology interventions, such as contact tracing using mobile apps or rapid case detection via molecular tests, are not sustainable. Here, we report the results of two mathematical models and show that facemask use by the public could make a major contribution to reducing the impact of the COVID-19 pandemic. Our intention is to provide a simple modelling framework to examine the dynamics of COVID-19 epidemics when facemasks are worn by the public, with or without imposed ‘lock-down’ periods. Our results are illustrated for a number of plausible values for parameter ranges describing epidemiological processes and mechanistic properties of facemasks, in the absence of current measurements for these values. We show that, when facemasks are used by the public all the time (not just from when symptoms first appear), the effective reproduction number, Re, can be decreased below 1, leading to the mitigation of epidemic spread. Under certain conditions, when lock-down periods are implemented in combination with 100% facemask use, there is vastly less disease spread, secondary and tertiary waves are flattened and the epidemic is brought under control. The effect occurs even when it is assumed that facemasks are only 50% effective at capturing exhaled virus inoculum with an equal or lower efficiency on inhalation. Facemask use by the public has been suggested to be ineffective because wearers may touch their faces more often, thus increasing the probability of contracting COVID-19. For completeness, our models show that facemask adoption provides population-level benefits, even in circumstances where wearers are placed at increased risk. At the time of writing, facemask use by the public has not been recommended in many countries, but a recommendation for wearing face-coverings has just been announced for Scotland. Even if facemask use began after the start of the first lock-down period, our results show that benefits could still accrue by reducing the risk of the occurrence of further COVID-19 waves. We examine the effects of different rates of facemask adoption without lock-down periods and show that, even at lower levels of adoption, benefits accrue to the facemask wearers. These analyses may explain why some countries, where adoption of facemask use by the public is around 100%, have experienced significantly lower rates of COVID-19 spread and associated deaths. We conclude that facemask use by the public, when used in combination with physical distancing or periods of lock-down, may provide an acceptable way of managing the COVID-19 pandemic and re-opening economic activity. These results are relevant to the developed as well as the developing world, where large numbers of people are resource poor, but fabrication of home-made, effective facemasks is possible. A key message from our analyses to aid the widespread adoption of facemasks would be: ‘my mask protects you, your mask protects me’.
@@ -1107,11 +1107,11 @@ feed June2020
 
     / June, 2020 - Annals of the New York Academy of Sciences
     let !a self assert = It follows that the adoption of this simple technology ought to be re-evaluated in countries where facemask use is not being encouraged. Within the parameter regimes tested, the models also show that, if COVID-19 is to be controlled or eradicated, early lock-down combined with facemask adoption by close to 100% by the public needs to occur. This, of course, does not exclude the implementation of other management interventions, such as widespread testing and contact tracing.
-    / June, 2020 - Annals of the New York Academy of Sciences - arguing for use of facemasks inspite of lack of direct evidence for Covid19
+    / Arguing for use of facemasks inspite of lack of direct evidence for Covid19
     let !b self assert = We argue that the lack of experimental population-based data on facemask use cannot be equated with facemask ineffectiveness, particularly when it is accepted that patients with other respiratory diseases such as influenza have been recommended to wear facemasks to limit virus-particle-laden droplet spread.
     / June, 2020 - Annals of the New York Academy of Sciences
     let !c self assert = Models show that under a wide range of plausible parameter conditions, facemask use by the public could significantly reduce the rate of COVID-19 spread, prevent further disease waves and allow less stringent lock-down regimes. The effect is greatest when 100% of the public wear facemasks.
-    / June, 2020 - Annals of the New York Academy of Sciences
+    / Facemasks and lock-down combination can be beneficial
     let !d self assert = A combination of facemask wearing and lock-down periods implemented together is indicated to provide a better solution to the COVID-19 pandemic than either in isolation.
 
 
@@ -1197,12 +1197,16 @@ feed June2020
   // Correction to Aerosol Filtration Efficiency of Common Fabrics Used in Respiratory Cloth Masks
   doi: https://doi.org/10.1021/acsnano.0c04676
   ref 'Konda_et_al_06_18_2020
-    head = The N95 respirators are designed and engineered to capture more than 95% of particles at 300 nm, at 343/245 Pa (inhalation/exhalation) pressure drops and 85 L/min flow. Our studies, focused on cloth masks, are carried out at reduced pressure drops (2–13 Pa) and significantly lower flow rates where diffusional flow is expected to control transport across the fabrics.
+    head = The N95 respirators are designed and engineered to capture more than 95% of particles at 300 nm, at 343/245 Pa (inhalation/exhalation) pressure drops and 85 L/min flow. Our studies, focused on cloth masks, are carried out at reduced pressure drops (2–13 Pa) and significantly lower flow rates where diffusional flow is expected to control transport across the fabrics. We find that the use of cloth masks can potentially provide significant protection against the transmission of particles in the aerosol size range.
 
-    # -- exports
-    #   !a
-    #   !b
-    #   !c
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
 
     / June, 2020 - American Chemical Society
     let !a self assert = Considering this, and additionally noting the large error bars for the N95 measurements in the <300 nm range (as discussed in the paper), conclusions and comparisons (with cloth fabrics) from our data regarding the N95 and surgical mask performance should not be drawn. Our pressure drops may be more appropriate to what unfitted cloth masks will likely experience under real-life conditions due to leakage around the edges. Pressure drop measurements for manikin fitted N95s and surgical masks have varied from 20 to 40 Pa and from 1 to 18 Pa
@@ -1212,6 +1216,17 @@ feed June2020
 
     / June, 2020 - American Chemical Society
     let !c self assert = We believe the focus on cloth masks should center around lower pressure differentials that can be sustained practically in unfitted cloth masks. One approach would then be to depart from traditional designs to significantly increase the area of the cloth to increase net airflow while not overly exerting the face seal.
+    / Efficacy of cotton, natural silk and chiffon
+    let !d self assert = We find that cotton, natural silk, and chiffon can provide good protection, typically above 50% in the entire 10 nm to 6.0 μm range, provided they have a tight weave. Higher threads per inch cotton with tighter weaves resulted in better filtration efficiencies. Likely the highly tangled fibrous nature of the batting aids in the superior performance at small particle sizes. Materials such as silk and chiffon are particularly effective (considering their sheerness) at excluding particles in the nanoscale regime (<∼100 nm), likely due to electrostatic effects that result in charge transfer with nanoscale aerosol particles
+
+    / Combined cloths as a design principle
+    let !e self assert = As a result, we found that hybrid combinations of cloths such as high threads-per-inch cotton along with silk, chiffon, or flannel can provide broad filtration coverage across both the nanoscale (<300 nm) and micron scale (300 nm to 6 μm) range, likely due to the combined effects of electrostatic and physical filtering.
+
+    / Leakages and fit reduce the mask filtration efficacy
+    let !f self assert = Leakages around the mask area can degrade efficiencies by ∼50% or more, pointing out the importance of “fit”. Opportunities for future studies include cloth mask design for better “fit” and the role of factors such as humidity (arising from exhalation) and the role of repeated use and washing of cloth masks.
+
+    /Well made cloth masks
+    let !g self assert = We find that the use of cloth masks can potentially provide significant protection against the transmission of particles in the aerosol size range.
 
 
   # 53 ppl, aerosol transmission, ventilation, choir, secondary attack rate- Superspreading Events? (but no claim just example)
@@ -1244,7 +1259,7 @@ feed June2020
     / June, 2020 - medRxiv
     let !a self assert =  We also observed that inactivation was strongly influenced by the deposition solution. Dried virus droplets in cell culture media were inactivated significantly more than in any other deposition solution (PBS, PBS + BSA, saliva). These findings suggest that virus inactivation may be vastly overestimated when using culture media as the deposition solution in surface disinfection studies. We suggest the use of deposition solutions more similar to human saliva or respiratory fluid in virus inactivation experiments to ensure representative results.
 
-    / June, 2020 - medRxiv
+    / Study on reusability of N95 masks
     let !b self assert = Hospitals and other healthcare settings can expect extensive virus inactivation of N95 respirators through heat treatment for at least 30 minutes at 72°C or 82°C and RH above 50%. High humidity heat treatment is particularly appealing as it can be readily adapted and scaled to a range of settings, from health care facilities to private residences. Further, implementation is equally suitable for healthcare systems or individuals without access to specialized equipment, including those in low- to middle- income countries. These results provide timely and useful information for efficacious N95 respirator decontamination, enabling reuse when necessary due to shortages.
 
 
@@ -2083,6 +2098,20 @@ feed June2020
       !b
       !c
 
+<<<<<<< HEAD
+=======
+    / Facemask efficacy to reduce risk of infection
+    let !b self assert = Face mask use could result in a large reduction in risk of infection, with stronger associations with N95 or similar respirators compared with disposable surgical masks or similar (eg, reusable 12–16-layer cotton masks).
+
+    / June, 2020 - The Lancet
+    let !c self assert = Indeed, the association with protection from infection was more pronounced with N95 or similar respirators (aOR 0·04, 95% CI 0·004 to 0·30) compared with other masks (aOR 0·33, 95% CI 0·17 to 0·61; pinteraction=0·090; moderate credibility subgroup effect). The interaction was also seen when additionally adjusting for three studies that clearly reported aerosol-generating procedures (pinteraction=0·048). Supportive evidence for this interaction was also seen in within-study comparisons (eg, N95 had a stronger protective association compared with surgical masks or 12–16-layer cotton masks); both N95 and surgical masks also had a stronger association with protection versus single-layer masks.
+
+    / June, 2020 - The Lancet
+    let !d self assert = Minimally informing (25% influence with or without four-fold smaller mean effect size) the most recent and rigorous meta-analysis of the effectiveness of N95 respirators versus medical masks in randomised trials (OR 0·76, 95% CI 0·54–1·06) with the effect-modification seen in this meta-analysis on COVID-19 (ratio of aORs 0·14, 95% CI 0·02–1·05) continued to support a stronger association of protection from COVID-19, SARS, or MERS with N95 or similar respirators versus other face masks (posterior probability for RR <1, 100% and 95%, respectively).
+
+    / June, 2020 - The Lancet
+    let !e self assert = Our findings continued to support the ideas not only that masks in general are associated with a large reduction in risk of infection from SARS-CoV-2, SARS-CoV, and MERS-CoV but also that N95 or similar respirators might be associated with a larger degree of protection from viral infection than disposable medical masks or reusable multilayer (12–16-layer) cotton masks. Nevertheless, in view of the limitations of these data, we did not rate the certainty of effect as high. Our findings accord with those of a cluster randomised trial showing a potential benefit of continuous N95 respirator use over medical masks against seasonal viral infections.
+>>>>>>> dev.08.19
 
     / June, 2020 - The Lancet
     let !a self assert = Our findings continued to support the ideas not only that masks in general are associated with a large reduction in risk of infection from SARS-CoV-2, SARS-CoV, and MERS-CoV but also that N95 or similar respirators might be associated with a larger degree of protection from viral infection than disposable medical masks or reusable multilayer (12–16-layer) cotton masks.

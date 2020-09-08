@@ -467,11 +467,11 @@ feed 2019
     let !l self assert = Identifying DIC as a critical event following inflammasome and pyroptosis opens a direction in studying inflammasome and pyroptosis, as current understanding of the inflammasome function is limited to inflammatory response.
 
 
-  # Face Mask
+  # Face Mask, Mathematical modeling
   // Modeling the Effectiveness of Respiratory Protective Devices in Reducing Influenza Outbreak
   doi: https://doi.org/10.1111/risa.13181
   article 'Yan_et_al_2019
-    head = In this article, a risk assessment model previously developed in general form was used to estimate the effectiveness of different types of protective equipment in reducing the rate of infection in an influenza outbreak.
+    head = In this article, a simulation of a mathematical model that was previously developed in general form was used to estimate the effectiveness of different types of protective equipment in reducing the rate of infection in an influenza outbreak.
 
     >>> Abstract
       Outbreaks of influenza represent an important health concern worldwide. In many cases, vaccines are only partially successful in reducing the infection rate, and respiratory protective devices (RPDs) are used as a complementary countermeasure. In devising a protection strategy against influenza for a given population, estimates of the level of protection afforded by different RPDs is valuable. In this article, a risk assessment model previously developed in general form was used to estimate the effectiveness of different types of protective equipment in reducing the rate of infection in an influenza outbreak. It was found that a 50% compliance in donning the device resulted in a significant (at least 50% prevalence and 20% cumulative incidence) reduction in risk for fitted and unfitted N95 respirators, high‐filtration surgical masks, and both low‐filtration and high‐filtration pediatric masks. An 80% compliance rate essentially eliminated the influenza outbreak. The results of the present study, as well as the application of the model to related influenza scenarios, are potentially useful to public health officials in decisions involving resource allocation or education strategies.
@@ -479,7 +479,7 @@ feed 2019
     -- exports
       !a
 
-    / March, 2019 - Wiley
+    / Modelling effectiveness of respiratory protective devices
     let !a self assert = In our model of influenza outbreak, we found that a 50% compliance in donning a respiratory protective device resulted in a significant reduction in risk for fitted and unfitted N95 respirators, high‐filtration surgical masks, and both low‐filtration and high‐filtration pediatric masks. An 80% compliance rate essentially eliminated the influenza outbreak.
 
 

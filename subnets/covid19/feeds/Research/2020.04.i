@@ -1349,7 +1349,7 @@ feed April2020
     let !b self assert = The surviving mice generated low titres of neutralisation antibodies. The reinfection with much higher titres of virus only caused mild pneumonia in the surviving mice. In contrast, the naïve-infected mice had severe disease with much higher viral RNA copies in the lung and brain tissues. It is unclear that the neutralising antibody or humoral immunity caused the observed protection.
 
 
-  # Protective Equipments - Mask - Limitations
+  # Protective Equipments - Mask - Limitations, counter claim
   // Effectiveness of Surgical and Cotton Masks in Blocking SARS–CoV-2: A Controlled Comparison in 4 Patients
   doi: https://doi.org/10.7326/M20-1342
   article 'Bae_et_al_04_06_2020
@@ -2478,6 +2478,7 @@ feed April2020
       !i
       !j
       !k
+      !k1
       !l
 
     / April, 2020 - MedRxiv
@@ -2512,7 +2513,8 @@ feed April2020
 
     / April, 2020 - MedRxiv
     let !k self assert = We are the first to quantify the infectivity of COVID-19 patients during their incubation period using contact-tracing data, but qualitative evidence has been noted before. In our unpublished analysis of a separate dataset of case clusters in China, the mean serial interval (time between symptom onsets of a primary and a secondary  case) was shorter than the mean incubation period, suggesting that infectivity during the incubation period is not trivial. This finding has a profound implication on prevention and control strategies, e.g., the necessity of testing asymptomatic close contacts of COVID-19 cases, and the importance of wearing facial mask regardless of symptoms in order to curb the pandemic.
-
+    / Infectivity from asymptomatic carriers is not trivial
+    let !k1 self assert = Data indicates that infectivity during the incubation period is not trivial, which in turn implies the necessity of testing asymptomatic close contacts of COVID-19 cases, and the importance of wearing facial mask regardless of symptoms in order to curb the pandemic.
     / April, 2020 - MedRxiv
     let !l self assert = We estimated the local reproductive number to be relatively low, around 0.48, which is consistent with the average level of. We projected that, without isolation of cases and their contacts, the local reproductive number would have been about 30% higher to reach 0.62 in our primary analysis setting. This moderate effect of isolation is partly due to high infectivity during the incubation period, that is, many secondary cases had been infected before or shortly after the symptom onset of the primary cases before the primary cases were identified and isolated. This observation also implies that the low reproductive number in Guangzhou possibly resulted more from policies restricting human movement, limiting the number of contacts of COVID-19 cases during their entire infectious period including the incubation period, than from the detection and isolation of cases and close contacts.
 

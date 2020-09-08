@@ -1,44 +1,336 @@
+/ Facemasks
 subject module Facemask
-  >>> What is a facemask?
-    A covering of the face can be called as a facemask. But there exists a variety of coverings from a N95 mask to a simple hankercheif. But we make a distinction between the various types of facemasks. There are three major type of facemasks which we can look at.
-    The first category is the most common one: facemasks made with simple cloth. These typically have single to multiple layers of clothing which are cover the breathing area of the user (definition).
-    The second category is the surgical mask. This is slightly better than the ClothFaceMask. (definition)
-    Finally, the third category is the respirators, which typically includes the commercial masks like N95_mask. (definition)
-    It should be noted that the surgical masks are primarily designed to protect the environment from the wearer, whereas the respirators are supposed to protect the wearer from the environment.
-    `balazy_et_al_2006.!b
+  head = A covering of the face can be called as a facemask. But there exists a variety of overings from a N95 mask to a simple hankercheif. But we make a distinction between the various types of facemasks. This page provides the readers with scientifically supported summaries regarding various questions and themes concerning use of facemasks to counter the Covid19 pandemic. Various aspects of the facemasks are covered supported by peer-reviewed scientific articles.
+  >>>
+    {image:'Figure_facemask_cartoon}
+  --
+    Typefacemask
+    Whyfacemask
+    Whofacemask
+    Designfacemask
+    Timelinefacemask
 
-    We can ask the following questions at a population level. (i) How effective and how frequently would facemasks need to be used by the public to ‘flatten the disease progress curve’? (ii) How effective are facemasks at reducing the free-living SARS-CoV-2 inoculum and transmission rates? (iii) How does the timing of the implementation of lock-down periods and facemask adoption by the public influence the models' outcomes?
+  ########## End of include; contents begin
 
-    `Stutt_et_al_06_10_2020
+  / What are the different types of facemasks?
+  subject Typefacemask
+    head = There are three major type of facemasks which we can look at.
 
-# used for single lines
+    --
+      Clothmask
 
-   >>> Is wearing the facemask useful?
-    Should we wear face masks or not? What is the evidence in favour or not in favour of wearing masks in public spaces? Because of the complex nature of the Covid19 spread, there is no single cause of the transmission between persons (!!clm). But breathing water droplets which have the virus has been determined to be one of the causes (!!clm). So the The premise of protection from infected persons wearing a mask is simple: wearing a face mask will reduce the spread of respiratory droplets containing viruses
-    #{`fischer_et_al_08_2020.!a}. #Though research is still ongoing to determine whether the virus can be transmitted in an airborne manner. (dispute) There are several studies, both theoretical and empirical that tested the efficacy of these types of masks in different conditions. Though studies in real-world settings that look at the efficacy of facemasks are lacking (!!clm).
+      Medicalmask
 
-  >>> Theoretical studies
-    These typically look at the mathematical modeling of the spread of the virus with certain   assumptions. Typically they look at use of facemasks as the parameter to study the spread of virus in a typical population (!!clm).
+      Respiratorsmask
 
-  >>> Empirical studies
-    These type of studies typically look at the efficacy of facemasks in standard laboratory conditions. These typically include measurements about the number of particles that pass through the facemasks when they are exposed to the virus under standard conditions (!!clm).
-    Though few studies on human subjects exist they found that the N95 respirator provides approximately nine times greater protection than a surgical mask and is clearly a better option in protecting against infection (!!clm).
+    ########## End of include; contents begin
 
-   >>> Executive summaries
+    subject Clothmask
+      head = The first category is the most common one: facemasks made with simple cloth. These typically have single to multiple layers of clothing which are cover the breathing area of the user. These simple masks are not regulated for their efficacy. A well designed and fitted cloth mask can also provide substantial protection against infection.
 
-    Given that one of the possibility of getting infection is from breathing water droplets, wearing of masks can reduce the chances of getting an infection (!!clm). The different types of facemasks described above vary in their efficacy to protect the user from getting infected (!!clm). The respirators, when properly used provide the best protection (!!clm). While, cloth facemasks or surgical masks might not provide any protection, or very little protection to the users from getting infected (!!clm). And most studies indicate that wearing facemasks is only one of the steps in combating the spread of the virus (!!clm). The use of the facemasks has to be along with other measures like social distancing and handwashing (!!clm) makes them more effective. A study has found that facemasks and hand hygiene were correlated with a 35–51% reduction in influenza-like illness (!!clm).
+      --
+        Efficacy
 
-  >>> Advantages of wearing facemasks
+        Risks
 
-    Even then wearing of any type of facemask has advantages (!!clm). The effectiveness of the masks not only depends upon the type of mask and quality but also proper usage (!!clm).
+        Reuse
 
-    Studies have shown that wearing of a facemask by a Covid19 positive person reduces the viral shedding (!!clm). Thus wearing of facemasks helps in reducing/preventing community spread (!!clm).
+        Policy
 
-    If facemasks are implemented for both infected and uninfected individuals, the cumulative number of infected cases is reduced (!!clm).
+      ########## End of include; contents begin
 
-    The initial viral load during getting an infection has shown to be correlated to the severity of the infection (!!clm). Wearing any type of mask reduces this load and hence is useful (!!clm).
+      subject Efficacy
+        head = This section discusses the studies based on the efficacy of clothmasks.
+        --
+          Therapeutic
 
-    The sooner an epidemic is recognized and masks are implemented, the bigger the reduction in the number of cases will be, the epidemic is sensitive to the delay in implementing masks (!!clm).
+          Economic
 
-  >>> Problems with facemasks
-    Some people may have breathing difficulties when they are wearing facemasks (!!clm). In real world settings the masks may be worn incorrectly and not worn at all.
+          Logistic
+
+          Studies
+
+          ########## End of include; contents begin
+
+        subject Therapeutic
+
+        subject Economic
+
+        subject Logistic
+
+        subject Studies
+
+          --
+            Theoretical
+
+            Empirical
+        ########## End of include; contents begin
+          subject Theoretical
+
+          subject Empirical
+
+      subject Risks
+
+      subject Reuse
+
+      subject Policy
+
+
+    subject Medicalmask
+      head = The second category is the {'Surgicalmask Surgical/Medical Mask}. This is better than the clothmask as it has undergone regulatory tests. Medical masks are regulated medical devices and categorized under Personal Protective Equipment (PPE).
+      >>>
+        {image:'Figure_Surgical_Mask}
+      --
+        Efficacy
+
+        Risks
+
+        Reuse
+
+        Policy
+
+      ########## End of include; contents begin
+      / Surgical Masks
+      line 'Surgicalmask
+        head = Medical masks (also called as surgical masks) are defined as surgical or procedure masks that are flat or pleated; they are affixed to the head with straps that go around the ears or head or both. Their performance characteristics are tested according to a set of standardized test methods. Till 1970s most of the surgical masks were resuable cotton masks and since then they are mostly single use disposable masks
+        #'lai_et_al_2012
+        > 'WHO_06_2020
+        > 'Belkin_1997.!a
+        > 'Strasser_et_al_05_22_2020
+
+      subject Efficacy
+
+        --
+
+        Theoretical
+
+        Empirical
+
+          ########## End of include; contents begin
+
+        subject Theoretical
+
+        subject Empirical
+
+        #############
+
+      subject Risks
+
+      subject Reuse
+
+      subject Policy
+
+
+
+    subject Respiratorsmask
+
+      --
+        N95mask
+
+        Otherrespirators
+
+      subject N95mask
+
+        --
+
+          Efficacy
+
+          Risks
+
+          Reuse
+
+          Policy
+
+        ########## End of include; contents begin
+
+        subject Efficacy
+
+          --
+
+            Theoretical
+
+            Empirical
+
+          ########## End of include; contents begin
+
+          subject Theoretical
+
+          subject Empirical
+
+        subject Risks
+
+        subject Reuse
+
+        subject Policy
+
+      ############
+
+      subject Otherrespirators
+
+    subject Maskcomparison
+
+
+  / Why should we use facemasks?
+  subject Whyfacemask
+
+    --
+      SpreadMechanism
+
+      GeneralBenefits
+
+      GeneralRisks
+
+    ########## End of include; contents begin
+
+    subject SpreadMechanism
+
+    subject GeneralBenefits
+
+      --
+        Prevention
+
+        Protection
+
+        Othermeasures
+
+      ########## End of include; contents begin
+
+      subject Prevention
+
+      subject Protection
+
+      subject Othermeasures
+
+    subject GeneralRisks
+
+      --
+
+        Improperuse
+
+        Reuse
+
+        Physiological
+
+        Complacence
+
+        Pyschological
+
+      ########## End of include; contents begin
+
+      subject Improperuse
+
+      subject Reuse
+
+      subject Physiological
+
+      subject Complacence
+
+      subject Pyschological
+
+
+
+    #######################
+  / Who should wear a face mask?
+  subject Whofacemask
+    head = Who among us has a need for wearing a facemask? Though the opinion on this issue has undergone revisions, currently the consensus seems to be that everyone should wear a mask. In this section we look at the evidence and recommendations of various studies in this regard. We look at four major categories:
+    --
+      GeneralPublic
+
+      MedicalProfessionals
+
+      Caregivers
+
+      Symptomatic
+
+    ########## End of include; contents begin
+    / General Public
+    subject GeneralPublic
+      head = This category includes all people who are not infected or are not involved in any type of front line medical professionals.
+
+
+
+    subject MedicalProfessionals
+
+    subject Caregivers
+
+    subject Symptomatic
+
+  #############################
+
+  subject Designfacemask
+
+    --
+
+      Fabrics
+
+      Layers
+
+      Making
+
+      Fitting
+
+      Homemade
+
+      Industrial
+
+    ########## End of include; contents begin
+
+    subject Fabrics
+
+    subject Layers
+
+    subject Making
+
+    subject Fitting
+
+    subject Homemade
+
+    subject Industrial
+
+  #######################
+
+  subject Timelinefacemask
+
+    --
+
+    2019Dec
+
+    2020Jan
+
+    2020Feb
+
+    2020Mar
+
+    2020Apr
+
+    2020May
+
+    2020Jun
+
+    2020Jul
+
+    2020Aug
+
+    2020Sep
+
+    ########## End of include; contents begin
+
+    subject 2019Dec
+
+    subject 2020Jan
+
+    subject 2020Feb
+
+    subject 2020Mar
+
+    subject 2020Apr
+
+    subject 2020May
+
+    subject 2020Jun
+
+    subject 2020Jul
+
+    subject 2020Aug
+
+    subject 2020Sep

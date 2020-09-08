@@ -1611,7 +1611,7 @@ feed Sangeeta
     head = Among 139 clients exposed to two symptomatic hair stylists with confirmed COVID-19 while both the stylists and the clients wore face masks, no symptomatic secondary cases were reported; among 67 clients tested for SARS-CoV-2, all test results were negative.
 
     / July, 2020 - MMWR Early Release
-    let !a self assert =
+    let !a self assert = 
 
 
 

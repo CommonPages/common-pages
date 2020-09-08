@@ -5106,7 +5106,7 @@ feed Pre2019
     / April, 2003 - Annals of pharmacotherapy
     let !a self assert = For drugs with a narrow therapeutic index such as chloroquine, recommended dosing regimens should be respected, and adequate information sources must be available where such drugs are dispensed by untrained personnel.
 
-  # Face Mask
+  # Face Mask, systematic review, counter claim
   // The use of masks and respirators to prevent transmission of influenza: a systematic review of the scientific evidence.
   doi: https://doi.org/10.1111/j.1750-2659.2011.00307.x
   article 'Reza_et_al_2011
@@ -5121,7 +5121,7 @@ feed Pre2019
       !c
       !d
 
-    / December, 2011 -  Wiley
+    / Facemask use and efficacy on protection against infleunza infection
     let !a self assert = In our review of mask and respirator effectiveness in reducing the transmission of influenza, none of the studies established a conclusive relationship between mask/respirator use and protection against influenza infection.
 
     / December, 2011 -  Wiley
@@ -5130,10 +5130,10 @@ feed Pre2019
     / December, 2011 -  Wiley
     let !c self assert = There is a limited evidence base to support the use of masks and/or respirators in healthcare or community settings.
 
-    / December, 2011 -  Wiley
+    / Mask wearing alone is not enough
     let !d self assert = Mask use is best undertaken as part of a package of personal protection, especially including hand hygiene in both home and healthcare settings. Early initiation and correct and consistent wearing of masks/respirators may improve their effectiveness.
 
-  # Facemasks
+  # Facemasks, Mathematical modeling
   // Mathematical Modeling of the Effectiveness of Facemasks in Reducing the Spread of Novel Influenza A (H1N1)
   doi: https://doi.org/10.1371/journal.pone.0009018
   article 'Tracht_et_al_2010
@@ -5150,7 +5150,7 @@ feed Pre2019
     / February, 2010 -  Plos one
     let !a self assert = If N95 respirators are only 20% effective in reducing susceptibility and infectivity, only 10% of the population would have to wear them to reduce the number of influenza A (H1N1) cases by 20%.
 
-    / February, 2010 -  Plos one
+    / Results of mathematical modelling of H1N1 virus spread and the use of facemasks
     let !b self assert = We can conclude from our model that, if worn properly, facemasks are an effective intervention strategy in reducing the spread of pandemic (H1N1) 2009.
 
   # Frontiers

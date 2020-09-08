@@ -1658,6 +1658,7 @@ feed March2020
       !c
       !d
       !e
+      !f
 
     / March, 2020 - Dryad
     let !a self assert = Our study demonstrates detection of human seasonal coronaviruses in exhaled breath, including the detection of OC43 and HKU1 from respiratory droplets and NL63, OC43 and HKU1 from aerosols.
@@ -1673,7 +1674,8 @@ feed March2020
 
     / March, 2020 - Dryad
     let !e self assert = Our results also indicate that there could be considerable heterogeneity in contagiousness of individuals with coronavirus and influenza virus infections.
-
+    / Surgical masks prevent transmission of Corona viruses
+    let !f self assert = Our results indicate that surgical facemasks could prevent transmission of human coronaviruses and influenza viruses from symptomatic individuals.
 
   # Incubation Period, Quarantine
   // Transmission of corona virus disease 2019 during the incubation period may lead to a quarantine loophole
