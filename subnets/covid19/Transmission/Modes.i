@@ -12,7 +12,7 @@ subject module Modes
   / Direct
   subject module Direct
     head =
-    
+
     / Person to Person
     subject module Persontoperson
       head = Person to Person
@@ -254,6 +254,10 @@ subject module Modes
   / Indirect Transmission
   subject module Indirect
     head =
+    --
+      Fomites
+      MucousContact
+      Fecal
 
     / Different Surfaces can carry active virus
     subject Fomites
@@ -318,6 +322,13 @@ subject module Modes
   / Other Modes
   subject module OtherModes
     head =
+    --
+      Zoonosis
+      Poultry
+      OtherAnimals
+      MechanicalTransmission
+      MultipleModes
+      Travelhistory
 
     / Zoonosis
     subject Zoonosis

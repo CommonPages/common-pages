@@ -1,10 +1,26 @@
 / Settings
 subject module Settings
-  head = Settings 
+  head = Settings
+  --
+    GenericLocation
+  --
+    Events
+  --
+    EnvironmentalConditions
+  --
+    OtherConditions
+  --
+    GeographicLocation
 
   / Generic Location
   subject module GenericLocation
     head =
+    --
+      IndoorLocation
+      OutdoorLocation
+      AnimalMarket_Farms
+      OtherGenericLocations
+
 
     / Indoor Location
     subject module IndoorLocation
@@ -453,6 +469,14 @@ subject module Settings
   / Events
   subject module Events
     head =
+    --
+      Ceremonies
+      Festivals
+      Dinner
+      ConcertChoir
+      FormalEvents
+      LiesureEvents
+      SuperspreadingEvents
 
     / Ceremonies
     subject Ceremonies
@@ -587,6 +611,12 @@ subject module Settings
   / Environmental Conditions
   subject module EnvironmentalConditions
     head =
+    --
+      Ventilation
+      HumidityTemperature
+      AirCondition
+      HeatwaveSeason
+      ParticulateMatter
 
     / Ventilation
     subject Ventilation
@@ -670,6 +700,13 @@ subject module Settings
   / Other Condtions
   subject module OtherConditions
     head =
+    --
+      NoMask
+      NoPPE
+      CulturalConditions
+      ProfessionalActivities
+      PoliceForce
+      DentalPractice
 
     / No Mask
     subject NoMask
@@ -722,6 +759,16 @@ subject module Settings
   / Geographic Location
   subject module GeographicLocation
     head =
+    --
+      WuhanHospital
+      China
+      India
+      TheUS
+      SouthKorea
+      Japan
+      Singapore
+      TheUK
+      Taiwan
 
     / Wuhan Hospital
     subject WuhanHospital
