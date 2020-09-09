@@ -32,16 +32,11 @@ import Research.January2020._
 import Research.2019._
 import Research.Pre2019._
 import Research.Sangeeta._
-<<<<<<< HEAD
 import Research.DPResearch._
 import Research.WHO._
-=======
 import Research.Amit._
->>>>>>> dev.08.19
-
 import News._
 import Figures._
-
 
 let *Mutation mean $os-life.cell.gene.Mutation
 

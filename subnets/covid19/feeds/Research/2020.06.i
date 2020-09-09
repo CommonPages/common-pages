@@ -53,7 +53,7 @@ feed June2020
 
   #
 
-  # Household 
+  # Household
   // SARS-CoV-2 in environmental samples of quarantined households
   doi: https://doi.org/10.1101/2020.05.28.20114041
   ref 'Döhla_et_al_06_02_2020
@@ -1225,7 +1225,7 @@ feed June2020
     / Leakages and fit reduce the mask filtration efficacy
     let !f self assert = Leakages around the mask area can degrade efficiencies by ∼50% or more, pointing out the importance of “fit”. Opportunities for future studies include cloth mask design for better “fit” and the role of factors such as humidity (arising from exhalation) and the role of repeated use and washing of cloth masks.
 
-    /Well made cloth masks
+    / Well made cloth masks
     let !g self assert = We find that the use of cloth masks can potentially provide significant protection against the transmission of particles in the aerosol size range.
 
 
@@ -2097,21 +2097,6 @@ feed June2020
       !a
       !b
       !c
-
-<<<<<<< HEAD
-=======
-    / Facemask efficacy to reduce risk of infection
-    let !b self assert = Face mask use could result in a large reduction in risk of infection, with stronger associations with N95 or similar respirators compared with disposable surgical masks or similar (eg, reusable 12–16-layer cotton masks).
-
-    / June, 2020 - The Lancet
-    let !c self assert = Indeed, the association with protection from infection was more pronounced with N95 or similar respirators (aOR 0·04, 95% CI 0·004 to 0·30) compared with other masks (aOR 0·33, 95% CI 0·17 to 0·61; pinteraction=0·090; moderate credibility subgroup effect). The interaction was also seen when additionally adjusting for three studies that clearly reported aerosol-generating procedures (pinteraction=0·048). Supportive evidence for this interaction was also seen in within-study comparisons (eg, N95 had a stronger protective association compared with surgical masks or 12–16-layer cotton masks); both N95 and surgical masks also had a stronger association with protection versus single-layer masks.
-
-    / June, 2020 - The Lancet
-    let !d self assert = Minimally informing (25% influence with or without four-fold smaller mean effect size) the most recent and rigorous meta-analysis of the effectiveness of N95 respirators versus medical masks in randomised trials (OR 0·76, 95% CI 0·54–1·06) with the effect-modification seen in this meta-analysis on COVID-19 (ratio of aORs 0·14, 95% CI 0·02–1·05) continued to support a stronger association of protection from COVID-19, SARS, or MERS with N95 or similar respirators versus other face masks (posterior probability for RR <1, 100% and 95%, respectively).
-
-    / June, 2020 - The Lancet
-    let !e self assert = Our findings continued to support the ideas not only that masks in general are associated with a large reduction in risk of infection from SARS-CoV-2, SARS-CoV, and MERS-CoV but also that N95 or similar respirators might be associated with a larger degree of protection from viral infection than disposable medical masks or reusable multilayer (12–16-layer) cotton masks. Nevertheless, in view of the limitations of these data, we did not rate the certainty of effect as high. Our findings accord with those of a cluster randomised trial showing a potential benefit of continuous N95 respirator use over medical masks against seasonal viral infections.
->>>>>>> dev.08.19
 
     / June, 2020 - The Lancet
     let !a self assert = Our findings continued to support the ideas not only that masks in general are associated with a large reduction in risk of infection from SARS-CoV-2, SARS-CoV, and MERS-CoV but also that N95 or similar respirators might be associated with a larger degree of protection from viral infection than disposable medical masks or reusable multilayer (12–16-layer) cotton masks.
