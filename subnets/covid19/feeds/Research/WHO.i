@@ -28,7 +28,7 @@ feed WHO
   #
   // Infection prevention and control of epidemic and pandemic-prone respiratory infections in health care
   doi: https://www.who.int/csr/bioriskreduction/infection_control/publication/en/
-  ref 'Who_04_2014
+  ref 'WHO_04_2014
     head = The guidelines provides recommendations, best practices and principles for non-pharmacological aspects of infection prevention and control (IPC) for acute respiratory infections (ARI) in health care, with special emphasis on ARI that can present as epidemics or pandemics. The guidelines are intended to help policy-makers, administrators and health-care workers to prioritize effective IPC measures.
 
 
@@ -40,7 +40,7 @@ feed WHO
   # WHO guidance on infection prevention and control (IPC) strategies
   // Infection prevention and control during health care when COVID-19 is suspected: interim guidance
   doi: https://www.who.int/publications-detail/infection-prevention-and-control-during-health-care-when-novel-coronavirus-(ncov)-infection-is-suspected-20200125
-    ref 'Who_03_19_2020
+    ref 'WHO_03_19_2020
     head = This is the first edition of guidance on infection prevention and control (IPC) strategies for use when infection with a novel coronavirus (2019-nCoV) is suspected. It is intended for healthcare workers (HCWs), healthcare managers and IPC teams at the facility level but it is also relevant for the national and district/provincial level. WHO will update these recommendations as new information becomes available.
 
 
@@ -52,7 +52,7 @@ feed WHO
   # WHO interim guidance
   // Infection prevention and control for long-term care facilities in the context of COVID-19: interim guidance.
   doi: https://www.who.int/publications-detail/infection-prevention-and-control-for-long-term-care-facilities-in-the-context-of-covid-19
-  ref 'Who_06_29_2020
+  ref 'WHO_06_29_2020
     head = This document provides interim guidance on infection prevention and control (IPC) strategies during health care when coronavirus disease (COVID-19) is suspected or confirmed. It is intended for health workers, including health-care managers and IPC teams at the facility level, but it is also relevant for the national and district/provincial levels.
 
 
@@ -64,7 +64,7 @@ feed WHO
   # WHO Guidance
   // Home care for patients with COVID-19 presenting with mild symptoms and management of contacts: interim guidance.
   doi: https://apps.who.int/iris/handle/10665/331133
-  ref 'Who_02_04_2020
+  ref 'WHO_02_04_2020
     head = This rapid advice is intended to guide public health and infection prevention and control (IPC) professionals, healthcare managers and healthcare workers (HCWs) when addressing issues related to home care for patients with suspected COVID-19 infection who present with mild symptoms and when managing contacts. This guidance is based on evidence about COVID-19 infection and the feasibility of implementing IPC measures at home.
 
 
@@ -175,7 +175,7 @@ feed WHO
   # WHO, transmission from symptomatic, pre-symptomatic and asymptomatic people
   // Coronavirus disease 2019 (COVID-19) Situation Report – 73.
   doi: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf?sfvrsn=5ae25bc7_6
-  ref 'Who_04_02_2020
+  ref 'WHO_04_02_2020
     head = This report summarize what has been reported about transmission of the COVID-19 virus, and provide a brief overview of available evidence on transmission from symptomatic, pre-symptomatic and asymptomatic people infected with COVID-19. WHO regularly monitors all emerging evidence about this critical topic and will provide an update as more information becomes available.
 
 
@@ -831,7 +831,7 @@ feed WHO
   # WHO guideline
   // Community-based health care, including outreach and campaigns, in the context of the COVID-19 pandemic.
   doi: https://www.who.int/publications/i/item/community-based-health-care-including-outreach-and-campaigns-in-the-context-of-the-covid-19-pandemic
-  ref 'Who_05_05_2020
+  ref 'WHO_05_05_2020
     head = This joint WHO, UNICEF and IFRC guidance addresses the role of community-based health care in the pandemic context. It includes practical recommendations for decision makers to help keep communities and health workers safe, to sustain essential services at the community level, and to ensure an effective response to COVID-19.
 
     / May, 2020 - Guidance from IFRC, WHO and UNICEF
@@ -931,12 +931,10 @@ feed WHO
     / September, 2019 - JAMA.
     let !a self assert =
 
-
-
   # PPE
   // Rational use of personal protective equipment for coronavirus disease (COVID-19) and considerations during severe shortages.
   doi: https://www.who.int/publications/i/item/rational-use-of-personal-protective-equipment-for-coronavirus-disease-(covid-19)-and-considerations-during-severe-shortages
-  ref 'Who_06_2020d
+  ref 'WHO_06_2020d
     head = This document summarizes WHO recommendations for the rational use of personal protective equipment (PPE), in health care and community settings, including the handling of cargo. It is intended for those involved in the distribution and management of PPE, as well as public health authorities and individuals in health care and community settings to understand when PPE use is most appropriate.
 
     -- exports
@@ -950,7 +948,7 @@ feed WHO
   #
   // The World Health Report 2006 - working together for health
   doi: https://www.who.int/whr/2006/en/
-  ref 'Who_2006
+  ref 'WHO_2006
     head = The report contains an expert assessment of the current crisis in the global health workforce-focusing on all stages of the health workers' career lifespan from entry to health training, to job recruitment through to retirement. It lays out a ten-year action plan in which countries can build their health workforces, with the support of global partners, starting immediately.
 
 
@@ -1458,7 +1456,7 @@ feed WHO
   # facemasks
   // Coronavirus disease (COVID-19) advice for the public: When and how to use masks
   doi: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks
-  ref 'Who_06_2020c
+  ref 'WHO_06_2020c
     head = This document provides advice to the public on when and how to use masks, recommended fabric mask materials and composition and how to wear a mask safely. It is updated based on the new scientific findings as the the epidemic evolves.
 
     / WHO advice for the public: When and how to use masks
@@ -1469,7 +1467,7 @@ feed WHO
   # older people, Invariable population
   // Information Note COVID-19 and NCDs. Geneva: World Health Organization. 2020
   doi: https://www.who.int/publications/m/item/covid-19-and-ncds
-  ref 'Who_06_2020b
+  ref 'WHO_06_2020b
     head = Older people and people with pre- existing non-communicable diseases (NCDs), such as heart diseases, diabetes, respiratory conditions appear to be more susceptible to becoming severely ill with the virus. This information note informs about the risk factors, technical guidance: Patient management and tips for people living with or affected by NCDs
 
 
@@ -1645,7 +1643,7 @@ feed WHO
   # hand Hygiene
   // Your 5 Moments for Hand Hygiene. Geneva: World Health Organization; 2020
   doi: https://www.who.int/infection-prevention/campaigns/clean-hands/5moments/en/
-  ref 'Who_06_2006
+  ref 'WHO_06_2006
     head = The My 5 Moments for Hand Hygiene approach defines the key moments when health-care workers should perform hand hygiene. This evidence-based, field-tested, user-centred approach is designed to be easy to learn, logical and applicable in a wide range of settings.
 
     / WHO guidelines on hand hygiene in health care
