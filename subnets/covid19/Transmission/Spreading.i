@@ -1,11 +1,21 @@
 
 / Spreading
 subject module Spreading
-  head = Spreading 
+  head = Spreading
+  --
+    TransmissionOrder
+  --
+    TransmissionScale
+  --
+    TransmissionNature
 
   / Transmission Order
-  subject TranmissionOrder
+  subject TransmissionOrder
     head =
+    --
+      PrimaryTrans
+      SecondaryTrans
+      HigherOrderTrans
 
     / Primary Transmission
     subject PrimaryTrans
@@ -51,9 +61,17 @@ subject module Spreading
   / Tranmission Scale
   subject TransmissionScale
     head =
+    --
+      CloseContactOnly
+      HouseholdFamilySpouse
+      Cluster
+      Outbreak
+      LocalImported
+      Lessthan5people
 
     / Close Contact Only
     subject CloseContactOnly
+      head =
       --
       'Wang_et_al_04_10_2020
       'Nishiura_et_al_03_03_2020
@@ -246,6 +264,11 @@ subject module Spreading
 
   / Tranmission Nature
   subject TransmissionNature
+    head =
+    --
+      PresymptomaticTrans
+      AsymptomaticTrans
+      SymptomaticTrans
 
     # subject DuringIncubation
     / Presymptomatic Transmission

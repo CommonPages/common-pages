@@ -4,7 +4,7 @@ subject module TransMechanism
 
   / Frontiers
   subject Frontiers
-    head = Frontiers 
+    head = Frontiers
     -- Frontiers (unsorted)
       'Aliverti_et_al_06_2016
       'Carlisle_et_al_02_20_2020
