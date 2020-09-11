@@ -78,8 +78,9 @@ feed Sangeeta
     / February, 2020 - bioRxiv
     let !a self assert =
 
-  #
 
+
+  #
   // Mass Testing for SARS-CoV-2 in 16 Prisons and Jails — Six Jurisdictions, United States, April–May 2020
   doi: http://dx.doi.org/10.15585/mmwr.mm6933a3
   ref 'Hagan_et_al_08_21_2020
@@ -134,6 +135,169 @@ feed Sangeeta
 
 
 
+  #
+  // Unlocking the surge in demand for personal and protective equipment (PPE) and improvised face coverings arising from coronavirus disease (COVID-19) pandemic – Implications for efficacy, re-use and sustainable waste management
+  doi: https://doi.org/10.1016/j.scitotenv.2020.142259
+  ref 'Rowan_et_al_09_10_2020
+    head =
+
+    >>> Abstract
+      Currently, there is no effective vaccine for tackling the ongoing COVID-19 pandemic caused by SARS-CoV-2 with the occurrence of repeat waves of infection frequently stretching hospital resources beyond capacity. Disease countermeasures rely upon preventing person-to-person transmission of SARS-CoV2 so as to protect front-line healthcare workers (HCWs). COVID-19 brings enormous challenges in terms of sustaining the supply chain for single-use-plastic personal and protective equipment (PPE). Post-COVID-19, the changes in medical practice will drive high demand for PPE. Important countermeasures for preventing COVID-19 transmission include mitigating potential high risk aerosol transmission in healthcare setting using medical PPE (such as filtering facepiece respirators (FFRs)) and the appropriate use of face coverings by the general public that carries a lower transmission risk. PPE reuse is a potential short term solution during COVID-19 pandemic where there is increased evidence for effective deployment of reprocessing methods such as vaporized hydrogen peroxide (30 to 35% VH2OH) used alone or combined with ozone, ultraviolet light at 254 nm (2000 mJ/cm2) and moist heat (60 °C at high humidity for 60 min). Barriers to PPE reuse include potentially trust and acceptance by HCWs. Efficacy of face coverings are influenced by the appropriate wearing to cover the nose and mouth, type of material used, number of layers, duration of wearing, and potentially superior use of ties over ear loops. Insertion of a nose clip into cloth coverings may help with maintaining fit. Use of 60 °C for 60 min (such as, use of domestic washing machine and spin dryer) has been advocated for face covering decontamination. Risk of virus infiltration in improvised face coverings is potentially increased by duration of wearing due to humidity, liquid diffusion and virus retention. Future sustained use of PPE will be influenced by the availability of recyclable PPE and by innovative biomedical waste management.
+
+    -- exports
+      !a
+
+    / September, 2020 - Science of the Total Environment
+    let !a self assert =
+
+
+
+  # community, healthcare workers, sick patients, Cloth mask, medical mask not effective, aerosolisation. nonsomical, 1–2 m of distance- not effective, droplets, airborne
+  // A rapid systematic review of the efficacy of face masks and respirators against coronaviruses and other respiratory transmissible viruses for the community, healthcare workers and sick patients
+  doi: https://doi.org/10.1016/j.ijnurstu.2020.103629
+  ref 'MacIntyre_et_al_04_21_2020
+    head = In the community, masks appeared to be effective with and without hand hygiene, and both together are more protective. Randomised controlled trials in health care workers showed that respirators, if worn continually during a shift, were effective but not if worn intermittently. Medical masks were not effective, and cloth masks even less effective. When used by sick patients randomised controlled trials suggested protection of well contacts.
+
+    >>> Background
+      The pandemic of COVID-19 is growing, and a shortage of masks and respirators has been reported globally. Policies of health organizations for healthcare workers are inconsistent, with a change in policy in the US for universal face mask use. The aim of this study was to review the evidence around the efficacy of masks and respirators for healthcare workers, sick patients and the general public.
+
+    >>> Methods
+      A systematic review of randomized controlled clinical trials on use of respiratory protection by healthcare workers, sick patients and community members was conducted. Articles were searched on Medline and Embase using key search terms.
+
+    >>> Results
+      A total of 19 randomised controlled trials were included in this study – 8 in community settings, 6 in healthcare settings and 5 as source control. Most of these randomised controlled trials used different interventions and outcome measures. In the community, masks appeared to be effective with and without hand hygiene, and both together are more protective. Randomised controlled trials in health care workers showed that respirators, if worn continually during a shift, were effective but not if worn intermittently. Medical masks were not effective, and cloth masks even less effective. When used by sick patients randomised controlled trials suggested protection of well contacts.
+
+    >>> Conclusion
+      The study suggests that community mask use by well people could be beneficial, particularly for COVID-19, where transmission may be pre-symptomatic. The studies of masks as source control also suggest a benefit, and may be important during the COVID-19 pandemic in universal community face mask use as well as in health care settings. Trials in healthcare workers support the use of respirators continuously during a shift. This may prevent health worker infections and deaths from COVID-19, as aerosolisation in the hospital setting has been documented.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / April, 2020 - International Journal of Nursing Studies
+    let !a self assert = For COVID-19 specifically, the growing body of evidence showing aerosolisation of the virus in the hospital ward highlights the risk of inadvertent exposure for healthcare workers and supports the use of airborne precautions at all times on the ward.
+
+    / April, 2020 - International Journal of Nursing Studies
+    let !b self assert = The rule of 1–2 m of spatial separation is not based on good evidence, with most research showing that droplets can travel further than 2 m, and that infections cannot be neatly separated into droplet and airborne.
+
+    / April, 2020 - International Journal of Nursing Studies
+    let !c self assert = Universal face mask use is likely to have the most impact on epidemic growth in the community, given the high risk of asymptomatic and pre-symptomatic transmission
+
+    / April, 2020 - International Journal of Nursing Studies
+    let !d self assert = The evidence suggests protection by masks in high transmission settings such as household and college settings, especially if used early, in some trials if combined with hand hygiene and if wearers are compliant. If masks protect in high transmission settings, they should also protect in crowded public spaces, including workplaces, buses, trains, planes and other closed settings.
+
+    / April, 2020 - International Journal of Nursing Studies
+    let !e self assert = Targeted use of respirator protected against bacterial and droplet infections, but not against viral infections, suggesting viral infections may be more likely to be airborne in the hospital setting (MacIntyre et al., 2017 ).
+
+
+
+  # no benefits of facemasks, counter to using facemask, hand washing, hand hygiene, general public, community
+  // Response to ‘MacIntyre et al., 2020: A rapid systematic review of the efficacy of face masks and respirators against coronaviruses and other respiratory transmissible viruses for the community, healthcare workers and sick patient
+  doi: https://dx.doi.org/10.1016%2Fj.ijnurstu.2020.103750
+  ref 'Haslam_et_al_08_19_2020
+    head = Of the seven separate randomized studies MacIntyre and Chughtai include in their review, none of them show a benefit of face mask use in the community to prevent the incidence of respiratory viruses, and the results of the sub-analyses are equivocal, sometimes suggesting that masks prevent virus transmission but other times increase transmission. There is little evidence to show that face masks prevent influenza and influenza-like illnesses.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+
+    / August, 2020 - International Journal of Nursing Studies
+    let !a self assert = In the MacIntyre et al. (2020) study, there was no beneficial effect of wearing face masks in the intention-to-treat population. The review reports that in the subgroup of people who were adherent, face masks were beneficial, but adherence was low (<30% by day five), resulting in a biased sample. Any difference seen may be because people who wore the face masks were notably different in other ways than those who did not wear them.
+
+    / August, 2020 - International Journal of Nursing Studies
+    let !b self assert = The two studies by Cowling et al., 2009, 2008 are actually preliminary and final results of the same study, which did not find any difference between masks plus hand hygiene and any of the other groups (hand hygiene or control group) in the primary analysis. They did do a sub-analysis, and they did find that both the hand hygiene group and the masks plus hand hygiene had less influenza (confirmed by PCR) than doing nothing (no difference between the two intervention groups), but when considering clinical symptoms, there was more influenza-like illness in the face mask group than in the hand hygiene only group. This suggests that face masks could actually increase virus transmission.
+
+    / August, 2020 - International Journal of Nursing Studies
+    let !c self assert = Study by Aiello et al. (2010) there was no difference in rates of influenza-like illness between the face mask only group and the control group. However, there was a trend towards lower influenza-like illness with the addition of handwashing (in addition to masks), suggesting that it is the handwashing and not the masks that are lowering influenza rates.
+
+    / August, 2020 - International Journal of Nursing Studies
+    let !d self assert = In the study by Aiello et al. (2012) the use of face masks plus hand hygiene was no better at reducing rates of influenza-like illness than hand hygiene alone in the cumulative analysis. If looking at individual weeks, only the face mask plus hand hygiene group had significantly lower rates of illness in the later weeks, not the face mask only group, suggesting that it is the handwashing and not the masks that are lowering influenza rates.
+
+    / August, 2020 - International Journal of Nursing Studies
+    let !e self assert = Larson et al. (2010) did not find a significant benefit among the face mask and hand hygiene groups (there was no face mask only group) in incident rates of influenza. They did find a benefit in reducing the secondary attack rate, but they also reported that the hand hygiene group (not the face mask group) had fewer people in the household with influenza symptoms.
+
+    / August, 2020 - International Journal of Nursing Studies
+    let !f self assert = Simmerman et al. (2011) likewise, did not find any reduction in influenza from the use of face masks or handwashing. In fact, they found a higher rate of influenza-like illness among both the handwashing group and the handwashing group plus face masks than in the control group.
+
+    / August, 2020 - International Journal of Nursing Studies
+    let !g self assert = Suess et al. (2012) did not find any differences in incident influenza or secondary attack rates in the overall analysis. They did do many sub-analyses, but caution should be practiced when interpreting the results, considering the experiment-wise error, which can lead to spurious results when multiplicity of testing is being done. The Sues et al., study is a good example of this when some of the sub-analyses indicate that face masks are beneficial in reducing incident influenza, but in other sub-analyses, it is the hand hygiene and not face masks that appear to reduce incident influenza.
+
+
+
+  # surgical  masks, respirator drawbacks
+  // Respirators and surgical facemasks for COVID-19: implications for MRI
+  doi: https://doi.org/10.1016/j.crad.2020.03.029
+  ref 'Murray_et_al_04_07_2020
+    head = This study has shown that respirators used for COVID-19 protection have not been tested for MR (Magnetic Resonance) safety. Several commercially available respirators contain ferromagnetic components, and are thus regarded as “MRI unsafe”. Surgical masks offer a WHO approved safe alternative for MR staff in an MRI environment.
+
+     / April, 2020 - Clinical Radiology
+     let !a self assert =
+
+
+  # Effectives, Whofacemask, types of facemasks, surgical, faceshields
+  // Considerations for Wearing Masks
+  doi: http://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover.html
+  ref 'CDC_08_07_2020
+    head = This document provides considerations for wearing masks that will help slow the spread of Covid19: Effectives of masks, who should and should not wear a mask, fleasibility and adaptations, masks with exhalation valves or vents, faceshields and surgical masks.
+
+    / August, 2020 - CDC
+    let !a self assert =
+
+
+
+  # homemade masks, cotton fabric, design, clothmask, ask ayush about the date
+  // How to Make Masks
+  doi: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-to-make-cloth-face-covering.html
+  ref 'CDC_07_06_2020
+    head = This document provides tutorial on how to make homemade masks using washable, breathable fabric.
+
+    / July, 2020 - CDC
+    let !a self assert =
+
+
+
+
+  # viral inoculum, asymptomatic infection, GeneralBenefits
+  // Masks Do More Than Protect Others During COVID-19: Reducing the Inoculum of SARS-CoV-2 to Protect the Wearer
+  doi: https://doi.org/10.1007/s11606-020-06067-8
+  ref 'Gandhi_et_al_07_31_2020
+    head = Our theory is based on the likelihood of masking reducing the viral inoculum to which the mask-wearer is exposed, leading to higher rates of mild or asymptomatic infection with COVID-19. This could lead to greater community-level immunity and slower spread as we await a vaccine.
+
+    >>> Abstract
+      Although the benefit of population-level public facial masking to protect others during the COVID-19 pandemic has received a great deal of attention, we discuss for one of the first times the hypothesis that universal masking reduces the “inoculum” or dose of the virus for the mask-wearer, leading to more mild and asymptomatic infection manifestations. Masks, depending on type, filter out the majority of viral particles, but not all. We first discuss the near-century-old literature around the viral inoculum and severity of disease (conceptualized as the LD50 or lethal dose of the virus). We include examples of rising rates of asymptomatic infection with population-level masking, including in closed settings (e.g., cruise ships) with and without universal masking. Asymptomatic infections may be harmful for spread but could actually be beneficial if they lead to higher rates of exposure. Exposing society to SARS-CoV-2 without the unacceptable consequences of severe illness with public masking could lead to greater community-level immunity and slower spread as we await a vaccine. This theory of viral inoculum and mild or asymptomatic disease with SARS-CoV-2 in light of population-level masking has received little attention so this is one of the first perspectives to discuss the evidence supporting this theory.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / July, 2020 - Journal of General Internal Medicine
+    let !a self assert = A report from a pediatric hemodialysis unit in Indiana, where all patients and staff were masked, demonstrated that staff rapidly developed antibodies to SARS-CoV-2 after exposure to a single symptomatic patient with COVID-19. In the setting of masking, however, none of the new infections was symptomatic.
+
+    / July, 2020 - Journal of General Internal Medicine
+    let !b self assert = In a recent outbreak in a seafood processing plant in Oregon where all workers were issued masks each day at work, the rate of asymptomatic infection among the 124 infected was 95%.
+
+    / July, 2020 - Journal of General Internal Medicine
+    let !c self assert = An outbreak in a Tyson chicken plant in Arkansas with masking also showed a 95% asymptomatic rate of infection.
+
+    / July, 2020 - Journal of General Internal Medicine
+    let !d self assert = Countries accustomed to masking since the 2003 SARS-CoV pandemic, including Japan, Hong Kong, Taiwan, Thailand, South Korea, and Singapore, and those who newly embraced masking early on in the COVID-19 pandemic, such as the Czech Republic, have fared well in terms of rates of severe illness and death.
+
+    / July, 2020 - Journal of General Internal Medicine
+    let !e self assert = When cases have resurged in these areas with population-based masking upon re-opening (e.g., South Korea, Singapore, Hong Kong, Taiwan), the case-fatality rate has remained low, which is suggestive of this viral inoculum theory.
+
+
+
   # MECHANISM
   // A Rosetta Stone for Understanding Infectious Drops and Aerosols
   doi: https://doi.org/10.1093/jpids/piaa079
@@ -183,12 +347,10 @@ feed Sangeeta
 
 
 
-  # do with aysuh
   // Violent expiratory events: on coughing and sneezing.
   doi: https://doi.org/10.1017/jfm.2014.88
   ref 'Bourouiba_et_al_02_24_2014
     head = Our study highlights the importance of the multiphase nature of respiratory clouds, specifically the suspension of the smallest drops by circulation within the cloud, in extending the range of respiratory pathogens.
-
 
     >>> Abstract
       Violent respiratory events such as coughs and sneezes play a key role in transferring respiratory diseases between infectious and susceptible individuals. We present the results of a combined experimental and theoretical investigation of the fluid dynamics of such violent expiratory events. Direct observation of sneezing and coughing events reveals that such flows are multiphase turbulent buoyant clouds with suspended droplets of various sizes. Our observations guide the development of an accompanying theoretical model of pathogen-bearing droplets interacting with a turbulent buoyant momentum puff. We develop in turn discrete and continuous models of droplet fallout from the cloud in order to predict the range of pathogens. According to the discrete fallout model droplets remain suspended in the cloud until their settling speed matches that of the decelerating cloud. A continuous fallout model is developed by adapting models of sedimentation from turbulent fluids. The predictions of our theoretical models are tested against data gathered from a series of analogue experiments in which a particle-laden cloud is ejected into a relatively dense ambient. Our study highlights the importance of the multiphase nature of respiratory clouds, specifically the suspension of the smallest drops by circulation within the cloud, in extending the range of respiratory pathogens.
@@ -1611,7 +1773,7 @@ feed Sangeeta
     head = Among 139 clients exposed to two symptomatic hair stylists with confirmed COVID-19 while both the stylists and the clients wore face masks, no symptomatic secondary cases were reported; among 67 clients tested for SARS-CoV-2, all test results were negative.
 
     / July, 2020 - MMWR Early Release
-    let !a self assert = 
+    let !a self assert =
 
 
 
