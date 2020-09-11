@@ -6,6 +6,29 @@ feed August2020
 
   #
 
+  # Hydroxychloroquine
+  // Low-dose Hydroxychloroquine Therapy and Mortality in Hospitalized Patients with COVID-19: A Nationwide Observational Study of 8075 Participants
+  doi: https://doi.org/10.1016/j.ijantimicag.2020.106144
+  ref 'PharmD_et_al_08_24_2020
+    head = Compared to supportive care only, low-dose HCQ monotherapy was independently associated with lower mortality in hospitalized patients with COVID-19 diagnosed and treated early or later after symptom onset.
+
+    >>> Background
+      Hydroxychloroquine (HCQ) has been largely used and investigated as therapy of COVID-19 across various settings, at total dose usually ranging from 2400 mg to 9600 mg. In Belgium, off-label use of low-dose HCQ (2400 mg in total over five days) was recommended for hospitalized patients with COVID-19.
+
+    >>> Methods
+      We conducted a retrospective analysis of in-hospital mortality in the Belgian national COVID-19 hospital surveillance data. Patients treated either with HCQ alone and supportive care (HCQ group) were compared to patients treated with supportive care only (no-HCQ group) using a competing risks proportional hazards regression with discharge alive as competing risk, adjusted for demographic and clinical features with robust standard errors.
+
+    >>> Results
+      Of 8075 patients with complete discharge data on 24th of May and diagnosed before the 1st of May, 4542 received HCQ in monotherapy and 3533 were in the no-HCQ group. Death was reported in 804/4542 (17.7%) and 957/3533 (27.1%), respectively. In the multivariable analysis, the mortality was lower in the HCQ group compared to the no-HCQ group (adjusted hazard ratio [HR] 0.684, 95% confidence interval [CI] 0.617–0.758). Compared to the no-HCQ group, mortality in the HCQ group was reduced both in patients diagnosed ≤ 5 days (n=3975) and > 5 days (n=3487) after symptom onset (adjusted HR 0.701, 95% CI 0.617–0.796 and adjusted HR 0.647, 95% CI 0.525–0.797, respectively).
+
+    >>> Conclusions
+      Compared to supportive care only, low-dose HCQ monotherapy was independently associated with lower mortality in hospitalized patients with COVID-19 diagnosed and treated early or later after symptom onset.
+
+    / August, 2020 - International Journal of Antimicrobial Agents
+    let !a self assert =
+
+
+  # Airborne
   // Respiratory virus RNA is detectable in airborne and droplet particles
   doi: https://doi.org/10.1002/jmv.23698
   ref 'Gralton_et_al_08_19_2013

@@ -53,6 +53,58 @@ feed June2020
 
   #
 
+  # Hydroxychloroquine - Mortality
+  // Risk Factors for Mortality in Patients with COVID-19 in New York City
+  doi: https://doi.org/10.1007/s11606-020-05983-z
+  ref 'Mikami_et_al_06_30_2020
+    head = Older age, male sex, hypotension, tachypnea, hypoxia, impaired renal function, elevated D-dimer, and elevated troponin were associated with increased in-hospital mortality and hydroxychloroquine use was associated with decreased in-hospital mortality.
+
+    >>> Background
+      New York City emerged as an epicenter of the coronavirus disease 2019 (COVID-19) pandemic.
+
+    >>> Objective
+      To describe the clinical characteristics and risk factors associated with mortality in a large patient population in the USA.
+
+    >>> Design
+      Retrospective cohort study.
+
+    >>> Participants
+      6493 patients who had laboratory-confirmed COVID-19 with clinical outcomes between March 13 and April 17, 2020, who were seen in one of the 8 hospitals and/or over 400 ambulatory practices in the New York City metropolitan area
+
+    >>> Main Measures
+      Clinical characteristics and risk factors associated with in-hospital mortality.
+
+    >>> Key Results
+      A total of 858 of 6493 (13.2%) patients in our total cohort died: 52/2785 (1.9%) ambulatory patients and 806/3708 (21.7%) hospitalized patients. Cox proportional hazard regression modeling showed an increased risk of in-hospital mortality associated with age older than 50 years (hazard ratio [HR] 2.34, CI 1.47–3.71), systolic blood pressure less than 90 mmHg (HR 1.38, CI 1.06–1.80), a respiratory rate greater than 24 per min (HR 1.43, CI 1.13–1.83), peripheral oxygen saturation less than 92% (HR 2.12, CI 1.56–2.88), estimated glomerular filtration rate less than 60 mL/min/1.73m2 (HR 1.80, CI 1.60–2.02), IL-6 greater than 100 pg/mL (HR 1.50, CI 1.12–2.03), D-dimer greater than 2 mcg/mL (HR 1.19, CI 1.02–1.39), and troponin greater than 0.03 ng/mL (HR 1.40, CI 1.23–1.62). Decreased risk of in-hospital mortality was associated with female sex (HR 0.84, CI 0.77–0.90), African American race (HR 0.78 CI 0.65–0.95), and hydroxychloroquine use (HR 0.53, CI 0.41–0.67).
+
+    >>> Conclusions
+      Among patients with COVID-19, older age, male sex, hypotension, tachypnea, hypoxia, impaired renal function, elevated D-dimer, and elevated troponin were associated with increased in-hospital mortality and hydroxychloroquine use was associated with decreased in-hospital mortality.
+
+    / June, 2020 - J GEN INTERN MED
+    let !a self assert =
+
+  # Hydroxychloroquine
+  // Outcomes of 3,737 COVID-19 patients treated with hydroxychloroquine/azithromycin and other regimens in Marseille, France: A retrospective analysis
+  doi: https://doi.org/10.1016/j.tmaid.2020.101791
+  ref 'Lagier_et_al_06_25_2020
+    head = Early isolation and early treatment of COVID-19 patients, with at least 3 days of HCQ-AZ lead to a significantly better clinical outcome and a faster viral load reduction than other treatments.
+
+    >>> Background
+      In our institute in Marseille, France, we initiated early and massive screening for coronavirus disease 2019 (COVID-19). Hospitalization and early treatment with hydroxychloroquine and azithromycin (HCQ-AZ) was proposed for the positive cases.
+
+    >>> Methods
+      We retrospectively report the clinical management of 3,737 screened patients, including 3,119 (83.5%) treated with HCQ-AZ (200 mg of oral HCQ, three times daily for ten days and 500 mg of oral AZ on day 1 followed by 250 mg daily for the next four days, respectively) for at least three days and 618 (16.5%) patients treated with other regimen (“others”). Outcomes were death, transfer to the intensive care unit (ICU), ≥10 days of hospitalization and viral shedding.
+
+    >>> Results
+      The patients’ mean age was 45 (sd 17) years, 45% were male, and the case fatality rate was 0.9%. We performed 2,065 low-dose computed tomography (CT) scans highlighting lung lesions in 592 of the 991 (59.7%) patients with minimal clinical symptoms (NEWS score = 0). A discrepancy between spontaneous dyspnoea, hypoxemia and lung lesions was observed. Clinical factors (age, comorbidities, NEWS-2 score), biological factors (lymphocytopenia; eosinopenia; decrease in blood zinc; and increase in D-dimers, lactate dehydrogenase, creatinine phosphokinase, troponin and C-reactive protein) and moderate and severe lesions detected in low-dose CT scans were associated with poor clinical outcome. Treatment with HCQ-AZ was associated with a decreased risk of transfer to ICU or death (Hazard ratio (HR) 0.18 0.11–0.27), decreased risk of hospitalization ≥10 days (odds ratios 95% CI 0.38 0.27–0.54) and shorter duration of viral shedding (time to negative PCR: HR 1.29 1.17–1.42). QTc prolongation (>60 ms) was observed in 25 patients (0.67%) leading to the cessation of treatment in 12 cases including 3 cases with QTc> 500 ms. No cases of torsade de pointe or sudden death were observed.
+
+    >>> Conclusion
+      Although this is a retrospective analysis, results suggest that early diagnosis, early isolation and early treatment of COVID-19 patients, with at least 3 days of HCQ-AZ lead to a significantly better clinical outcome and a faster viral load reduction than other treatments.
+
+
+    / June, 2020 - Travel Medicine and Infectious Disease
+    let !a self assert =
+
   # Household
   // SARS-CoV-2 in environmental samples of quarantined households
   doi: https://doi.org/10.1101/2020.05.28.20114041

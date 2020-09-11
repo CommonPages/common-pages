@@ -206,10 +206,13 @@ subject module Remediation
               Hcqinvitro
 
             >>>
-               Hydroxychloroquine as Treatment content here
+               Some clinical studies suggest using Hydroxychloroquine with or without Azithromycin while some studies caution its use against COVID-19
 
             --
               HydroxychloroquineasTreatment
+
+            --
+              Hydroxychloroquine
 
             >>>
               Some researchers have also suggested Choloroquine or Hydroxychloroquine as potential option for Prophylactic
@@ -270,7 +273,7 @@ subject module Remediation
 
             / Hydroxychloroquine as Treatment
             subject HydroxychloroquineasTreatment
-              head = RCT
+              head = Observational Studies, Randomized Controlled trial of Hydroxychloroquine with or without Azithromycin
               >>>
                 Some observational studies on use of **Hydroxychloroquine** with or without **Azithromycin**  shows reduction in COVID-19 associated mortality.
               --
@@ -287,12 +290,16 @@ subject module Remediation
               / Observational Studies which shows efficacy
               subject HcqEfficacy
                 head = HCQ with or without Azithromycin is associated with reduction in viral load and mortality.
-                -- Hydroxychloroquine with Azithromycin
+                -- Reduction in viral load with Azithromycin
                   'Gautret_et_al_2020
+                  'Lagier_et_al_06_25_2020
                 -- Shows Reduction in Mortality
                   'Arshad_et_al_07_01_2020
+                  'Mikami_et_al_06_30_2020
+                  'PharmD_et_al_08_24_2020
                 -- Systematic Review showcasing reduction in viral load but also increase in mortality
                   'Yang_et_al_06_14_2020
+
 
               / Observational Studies which shows no efficacy
               subject HcqnoEfficacy
@@ -326,24 +333,28 @@ subject module Remediation
 
             / Hydroxychloroquine as Phrophylactic
             subject HcqProphylactic
-              head = The possible chemoprophylactic (preventing COVID-19) role of CQ and HCQ should be considered and tested.
+              head =
+
+              >>>
+                The possible chemoprophylactic (preventing COVID-19) role of Chloroquine and Hydroxychloroquine should be considered and tested.
               --
                 'Sharma_et_al_07_08_2020
                 'Adeel_et_al_04_20_2020
                 'Patri_et_al_04_10_2020
-              --
                 'Clementi_et_al_03_31_2020
-              -- Warning against unsupervised usage as Prophylaxis
-                'Khuroo_et_al_07_17_2020
               >>>
-                No Evidence to support the efficacy of CQ or HCQ in preventing COVID‐19.
+                So far, No Evidence to support the efficacy of CQ or HCQ in preventing COVID‐19.
               --
                 'Shah_et_al_04_13_2020
               >>>
-                Randomised Trials suggesting no Prophylaxis
-              -- As Prophylaxis
+                Randomised Trials not supporting use of CQ or HCQ as prophylaxis
+              --
                 'Boulware_et_al_08_06_2020
                 'Mitja_et_al_07_26_2020
+              >>>
+                Warning against unsupervised usage as Prophylaxis
+              --
+                'Khuroo_et_al_07_17_2020
 
             / Side Effects of Hydroxychloroquine
             subject Hcqsideeffects

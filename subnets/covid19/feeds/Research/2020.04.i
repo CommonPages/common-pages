@@ -108,7 +108,7 @@ feed April2020
 
   #
 
-  
+
   # 6 Feet rule - Aerosol
   // Airborne or Droplet Precautions for Health Workers Treating Coronavirus Disease 2019?
   doi: https://doi.org/10.1093/infdis/jiaa189
