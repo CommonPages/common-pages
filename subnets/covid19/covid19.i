@@ -19,6 +19,10 @@
 # >>> Full Revision History
 #   Find the complete revision history in the COVID-19 portal's {Revisions revision feed}.
 
+
+-- Narratives
+  narratives.WHO.FaceMasks
+
 -- Concepts
   foundations
 
