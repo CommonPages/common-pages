@@ -532,7 +532,7 @@ feed WHO
 
 
 
-  # close contacts, household
+  # 27 close contacts, household
   // Modes of contact and risk of transmission in COVID-19 among close contacts.
   doi: https://doi.org/10.1101/2020.03.24.20042606
   ref 'Luo_et_al_03_26_2020
@@ -557,7 +557,7 @@ feed WHO
 
 
 
-  # close contacts, asymptomatic, young people, infectious cycle
+  # 28 close contacts, asymptomatic, young people, infectious cycle
   // Clinical characteristics of 24 asymptomatic infections with COVID-19 screened among close contacts in Nanjing, China
   doi: https://doi.org/10.1007/s11427-020-1661-4
   ref 'Hu_et_al_03_04_2020
@@ -574,7 +574,7 @@ feed WHO
 
 
 
-  # this paper is done in Sangeeta.i
+  # 29 this paper is done in Sangeeta.i
   # // A family cluster of SARS-CoV-2 infection involving 11 patients in Nanjing, China.
   # doi: https://doi.org/xyz
   # ref 'Huang_et_al_02_28_2020
@@ -585,7 +585,7 @@ feed WHO
 
 
 
-  # asymptomatic, family cluster, household
+  # 30 asymptomatic, family cluster, household
   // Asymptomatic cases in a family cluster with SARS-CoV-2 infection.
   doi: https://doi.org/10.1016/S1473-3099(20)30114-6
   ref 'Pan_et_al_02_19_2020
@@ -596,7 +596,7 @@ feed WHO
 
 
 
-  # asymptomatictransmission, contact tracing, AsymptomaticPhase, nonsomical
+  # 31 asymptomatictransmission, contact tracing, AsymptomaticPhase, nonsomical
   // Characterization of an asymptomatic cohort of SARS-COV2 infected individuals outside of Wuhan, China
   doi: https://doi.org/10.1093/cid/ciaa629
   ref 'Wang_et_al_05_22_2020
@@ -630,7 +630,7 @@ feed WHO
 
 
 
-  # 7 clusters, presymptomatic transmission, Singapore, date check
+  # 32, 7 clusters, presymptomatic transmission, Singapore, date check
   // Presymptomatic Transmission of SARS-CoV-2 — Singapore, January 23–March 16, 2020
   doi: http://dx.doi.org/10.15585/mmwr.mm6914e1
   ref 'Wei_et_al_04_01_2020

@@ -21,10 +21,14 @@
     -- exports
       !a
       !b
-    / Aug 2020 Science Advances
+      !c
+
+    / The basic premise of face mask use
     let !a self assert = The premise of protection from infected persons wearing a mask is simple: wearing a face mask will reduce the spread of respiratory droplets containing viruses.
+    / Neck fleece is not suitable to stop spread of aerosols
     let !b self assert = Speaking through some masks (particularly the neck fleece) seemed to disperse the largest droplets into a multitude of smaller droplets and considering that smaller particles are airborne longer than large droplets (larger droplets sink faster), the use of such a mask might be counterproductive
-    let !c self assert = rhe performance of the valved N95 mask is likely affected by the exhalation valve, which opens for strong outwards airflow. While the valve does not compromise the protection of the wearer, it can decrease protection of persons surrounding the wearer.
+    / Exhalation valve in N95 mask might increase aerosol spread
+    let !c self assert = The performance of the valved N95 mask is likely affected by the exhalation valve, which opens for strong outwards airflow. While the valve does not compromise the protection of the wearer, it can decrease protection of persons surrounding the wearer.
   # add first to
 
   // The Evolution of the Surgical Mask: Filtering Efficiency Versus Effectiveness
@@ -62,19 +66,28 @@
     let !c self assert = To be fully effective, continuous wearing of a medical mask by health workers, throughout their entire shift, should be implemented along with other measures to reinforce frequent hand hygiene and physical distancing among health workers in shared and crowded places where mask use may be unfeasible such as cafeterias, dressing rooms, etc.
     / WHO advisory on use of Facemasks - disadvantages
     let !d self assert = self-contamination due to the manipulation of the mask by contaminated hands; potential self-contamination that can occur if medical masks are not changed when wet, soiled or damaged; possible development of facial skin lesions, irritant dermatitis or worsening acne, when used frequently for long hours;• masks may be uncomfortable to wear; false sense of security, leading to potentially less adherence to well recognized preventive measures such as physical distancing and hand hygiene; risk of droplet transmission and of splashes to the eyes if mask wearing is not combined with eye protection; disadvantages for or difficulty wearing them by specific vulnerable populations such as those with mental health disorders, developmental disabilities, the deaf and hard of hearing community, and children; difficulty wearing them in hot and humid environments.
+
+
+    / WHO advisory on use of Facemasks - type of clothing
+    let !e1 self assert = The selection of material is an important first step as the filtration (barrier) and breathability varies depending on the fabric. Filtration efficiency is dependent on the tightness of the weave, fibre or thread diameter, and, in the case of non- woven materials, the manufacturing process (spunbond, meltblown, electrostatic charging).(49, 72) The filtration of cloth fabrics and masks has been shown to vary between 0.7% and 60%.(73, 74) The higher the filtration efficiency the more of a barrier provided by the fabric.
+
+
     / WHO advisory on use of Facemasks - layers of clothing
     let !e self assert = Fabric cloths (e.g., nylon blends and 100% polyester) when folded into two layers, provides 2-5 times increased filtration efficiency compared to a single layer of the same cloth, and filtration efficiency increases 2-7 times if it is folded into 4 layers.(75) Masks made of cotton handkerchiefs alone should consist of at least 4 layers, but have achieved only 13% filtration efficiency.(73) Very porous materials, such as gauze, even with multiple layers will not provide sufficient filtration; only 3% filtration efficiency.
     / WHO advisory on use of Facemasks - number and type of layers
     let !f self assert = A minimum of three layers is required for non-medical masks, depending on the fabric used. Choose water-absorbing (hydrophilic) materials or fabrics for the internal layers, to readily absorb droplets, combined with an external synthetic material that does not easily absorb liquid (hydrophobic).
+
     / WHO advisory on use of Facemasks - mask maintainance
     let !g self assert = Masks should only be used by one person. All masks should be changed if wet or visibly soiled; a wet mask should not be worn for an extended period of time. Remove the mask without touching the front of the mask, do not touch the eyes or mouth after mask removal. Either discard the mask or place it in a sealable bag where it is kept until it can be washed and cleaned. Perform hand hygiene immediately afterwards. Non-medical masks should be washed frequently and handled carefully, so as not to contaminate other items.
 
     / WHO advisory on use of Facemasks - mask washing
 
     let !h self assert =  Wash in warm hot water, 60°C, with soap or laundry detergent. Where hot water is not available, wash mask with soap/detergent at room temperature water, followed by either i) boiling mask for one minute OR ii) soak mask in 0.1% chlorine for one minute then thoroughly rinse mask with room temperature water, to avoid any toxic residual of chlorine.
+
     / WHO advisory on use of Facemasks - who should wear a masks
 
     let !i self assert = Health workers when not performing (Aerosol generating procedures) AGPs should wear medical mask, when performing AGP should wear a respirator. Suspected Covid 19 or person with mild symptoms should wear a medical mask as much as possible; the mask should be changed at least once daily. Persons who cannot tolerate a medical mask should rigorously apply respiratory hygiene. Caregivers or those who are sharing living space with suspected COVID-19 person wear a medical mask when in the same room as the affected person;
+
 
 
   // Effectiveness of facemasks to reduce exposure hazards for airborne infections among general populations
