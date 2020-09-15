@@ -113,6 +113,26 @@ feed March2020
 
   #
 
+  # Face Mask use, Policy - Relevant in timeline?
+  // COVID-19: Facemask use prevalence in international airports in Asia, Europe and the Americas, March 2020
+  doi: https://doi.org/10.1016/j.tmaid.2020.101637
+  ref 'Elachola_et_al_03_20_2020
+    head = We assessed the prevalence of facemask use among persons seen in four international airports in Asia, Europe, and the Americas. We found that, facemask use rate measured in airport settings was the highest in Asia, followed by South America, and the lowest in the USA.
+
+    / March, 2020 - Travel Medicine and Infectious Disease
+    let !a self assert =
+
+
+  # Policy Face Mask
+  // Rational use of face masks in the COVID-19 pandemic
+  doi: https://doi.org/10.1016/S2213-2600(20)30134-X
+  ref 'Feng_et_al_03_20_2020
+    head = We compared face mask use recommendations by different health authorities. It is time for governments and public health agencies to make rational recommendations on appropriate face mask use to complement their recommendations on other preventive measures, such as hand hygiene
+
+
+    / March, 2020 - The Lancet
+    let !a self assert =
+
   # Hydroxychloroquine
   // COVID-19: a recommendation to examine the effect of hydroxychloroquine in preventing infection and progression
   doi: https://doi.org/10.1093/jac/dkaa114

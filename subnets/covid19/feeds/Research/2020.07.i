@@ -17,6 +17,46 @@ feed July2020
 
   #
 
+  # Mask and Respirators for HCW
+  // Risk of SARS-CoV-2 transmission by aerosols, the rational use of masks, and protection of healthcare workers from COVID-19
+  doi: https://doi.org/10.1186/s13756-020-00763-0
+  ref 'Sommerstein_et_al_07_06_2020
+    head = Respirators are suggested for certain defined procedures with higher transmission risk. Importantly, masking is only one component of the infection control bundle including hand hygiene. Current data provide sufficient evidence for protection of HCW to patients and self by surgical masks.
+
+    >>> Objectives
+      To determine the risk of SARS-CoV-2 transmission by aerosols, to provide evidence on the rational use of masks, and to discuss additional measures important for the protection of healthcare workers from COVID-19.
+
+    >>> Methods
+      Literature review and expert opinion.
+
+    >>> Short conclusion
+      SARS-CoV-2, the pathogen causing COVID-19, is considered to be transmitted via droplets rather than aerosols, but droplets with strong directional airflow support may spread further than 2 m. High rates of COVID-19 infections in healthcare-workers (HCWs) have been reported from several countries. Respirators such as filtering face piece (FFP) 2 masks were designed to protect HCWs, while surgical masks were originally intended to protect patients (e.g., during surgery). Nevertheless, high quality standard surgical masks (type II/IIR according to European Norm EN 14683) appear to be as effective as FFP2 masks in preventing droplet-associated viral infections of HCWs as reported from influenza or SARS. So far, no head-to-head trials with these masks have been published for COVID-19. Neither mask type completely prevents transmission, which may be due to inappropriate handling and alternative transmission pathways. Therefore, compliance with a bundle of infection control measures including thorough hand hygiene is key. During high-risk procedures, both droplets and aerosols may be produced, reason why respirators are indicated for these interventions.
+
+    -- exports
+      !a
+      !b
+
+    / July, 2020 - Antimicrob Resist Infect Control
+    let !a self assert = High quality standard surgical masks appear to be as effective as FFP (filtering face piece) 2 masks in preventing droplet-associated viral infections of HCWs as reported from influenza or SARS.
+
+    / July, 2020 - Antimicrob Resist Infect Control
+    let !b self assert = During high-risk procedures, both droplets and aerosols may be produced, reason why respirators are indicated for these interventions.
+
+  # Mask Efficacy , Policy, Clothmask
+  // Face Masks Against COVID-19: An Evidence Review
+  doi: https://doi.org/10.20944/preprints202004.0203.v1
+  ref 'Howard_et_al_02_20_2020
+    head =  We synthesize the relevant literature to inform multiple areas: 1) transmission characteristics of COVID-19, 2) filtering characteristics and efficacy of masks, 3) estimated population impacts of widespread community mask use, and 4) sociological considerations for policies concerning mask-wearing.
+
+    >>>
+      The science around the use of masks by the general public to impede COVID-19 transmission is advancing rapidly. Policymakers need guidance on how masks should be used by the general population to combat the COVID-19 pandemic. Here, we synthesize the relevant literature to inform multiple areas: 1) transmission characteristics of COVID-19, 2) filtering characteristics and efficacy of masks, 3) estimated population impacts of widespread community mask use, and 4) sociological considerations for policies concerning mask-wearing. A primary route of transmission of COVID-19 is likely via small respiratory droplets, and is known to be transmissible from presymptomatic and asymptomatic individuals. Reducing disease spread requires two things: first, limit contacts of infected individuals via physical distancing and contact tracing with appropriate quarantine, and second, reduce the transmission probability per contact by wearing masks in public, among other measures. The preponderance of evidence indicates that mask wearing reduces the transmissibility per contact by reducing transmission of infected droplets in both laboratory and clinical contexts. Public mask wearing is most effective at stopping spread of the virus when compliance is high. The decreased transmissibility could substantially reduce the death toll and economic impact while the cost of the intervention is low. Thus we recommend the adoption of public cloth mask wearing, as an effective form of source control, in conjunction with existing hygiene, distancing, and contact tracing strategies. We recommend that public officials and governments strongly encourage the use of widespread face masks in public, including the use of appropriate regulation.
+
+    -- exports
+      !a
+
+    / July, 2020 - PrePrints
+    let !a self assert = We recommend the adoption of public cloth mask wearing, as an effective form of source control, in conjunction with existing hygiene, distancing, and contact tracing strategies.
+
   # Surface and Aersol Viability
   // Investigating SARS-CoV-2 surface and air contamination in an acute healthcare setting during the peak of the COVID-19 pandemic in London
   doi: https://doi.org/10.1093/cid/ciaa905

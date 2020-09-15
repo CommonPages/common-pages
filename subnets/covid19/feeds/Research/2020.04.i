@@ -108,6 +108,44 @@ feed April2020
 
   #
 
+  # Mask and Respirators Benefits 
+  // A rapid systematic review of the efficacy of face masks and respirators against coronaviruses and other respiratory transmissible viruses for the community, healthcare workers and sick patients
+  doi: https://doi.org/10.1016/j.ijnurstu.2020.103629
+  ref 'Maclntyre_et_al_04_30_2020
+    head = Community mask use by well people could be beneficial, where transmission may be pre-symptomatic. Trials in healthcare workers support the use of respirators continuously during a shift.
+
+    >>> Background
+      The pandemic of COVID-19 is growing, and a shortage of masks and respirators has been reported globally. Policies of health organizations for healthcare workers are inconsistent, with a change in policy in the US for universal face mask use. The aim of this study was to review the evidence around the efficacy of masks and respirators for healthcare workers, sick patients and the general public.
+
+    >>> Methods
+      A systematic review of randomized controlled clinical trials on use of respiratory protection by healthcare workers, sick patients and community members was conducted. Articles were searched on Medline and Embase using key search terms.
+
+    >>> Results
+      A total of 19 randomised controlled trials were included in this study – 8 in community settings, 6 in healthcare settings and 5 as source control. Most of these randomised controlled trials used different interventions and outcome measures. In the community, masks appeared to be effective with and without hand hygiene, and both together are more protective. Randomised controlled trials in health care workers showed that respirators, if worn continually during a shift, were effective but not if worn intermittently. Medical masks were not effective, and cloth masks even less effective. When used by sick patients randomised controlled trials suggested protection of well contacts.
+
+    >>> Conclusion
+      The study suggests that community mask use by well people could be beneficial, particularly for COVID-19, where transmission may be pre-symptomatic. The studies of masks as source control also suggest a benefit, and may be important during the COVID-19 pandemic in universal community face mask use as well as in health care settings. Trials in healthcare workers support the use of respirators continuously during a shift. This may prevent health worker infections and deaths from COVID-19, as aerosolisation in the hospital setting has been documented.
+
+    -- exports
+      !a
+
+    / April, 2020 - International Journal of Nursing Studies
+    let !a self assert =
+
+
+  # Face Mask
+  // To mask or not to mask: Modeling the potential for face mask use by the general public to curtail the COVID-19 pandemic
+  doi: https://dx.doi.org/10.1016%2Fj.idm.2020.04.001
+  ref 'Eikenberry_et_al_04_21_2020
+    head = We develop a compartmental model for assessing the community-wide impact of mask. The community-wide benefits are likely to be greatest when face masks are used in conjunction with other non-pharmaceutical practices (such as social-distancing), and when adoption is nearly universal (nation-wide) and compliance is high.
+
+    >>> Abstract
+      Face mask use by the general public for limiting the spread of the COVID-19 pandemic is controversial, though increasingly recommended, and the potential of this intervention is not well understood. We develop a compartmental model for assessing the community-wide impact of mask use by the general, asymptomatic public, a portion of which may be asymptomatically infectious. Model simulations, using data relevant to COVID-19 dynamics in the US states of New York and Washington, suggest that broad adoption of even relatively ineffective face masks may meaningfully reduce community transmission of COVID-19 and decrease peak hospitalizations and deaths. Moreover, mask use decreases the effective transmission rate in nearly linear proportion to the product of mask effectiveness (as a fraction of potentially infectious contacts blocked) and coverage rate (as a fraction of the general population), while the impact on epidemiologic outcomes (death, hospitalizations) is highly nonlinear, indicating masks could synergize with other non-pharmaceutical measures. Notably, masks are found to be useful with respect to both preventing illness in healthy persons and preventing asymptomatic transmission. Hypothetical mask adoption scenarios, for Washington and New York state, suggest that immediate near universal (80%) adoption of moderately (50%) effective masks could prevent on the order of 17–45% of projected deaths over two months in New York, while decreasing the peak daily death rate by 34–58%, absent other changes in epidemic dynamics. Even very weak masks (20% effective) can still be useful if the underlying transmission rate is relatively low or decreasing: In Washington, where baseline transmission is much less intense, 80% adoption of such masks could reduce mortality by 24–65% (and peak deaths 15–69%), compared to 2–9% mortality reduction in New York (peak death reduction 9–18%). Our results suggest use of face masks by the general public is potentially of high value in curtailing community transmission and the burden of the pandemic. The community-wide benefits are likely to be greatest when face masks are used in conjunction with other non-pharmaceutical practices (such as social-distancing), and when adoption is nearly universal (nation-wide) and compliance is high.
+
+
+    / April, 2020 - Infect Dis Model
+    let !a self assert =
+
 
   # 6 Feet rule - Aerosol
   // Airborne or Droplet Precautions for Health Workers Treating Coronavirus Disease 2019?

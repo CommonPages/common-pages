@@ -6,6 +6,64 @@ feed August2020
 
   #
 
+  # Decontamination of Mask
+  // Microwave- and Heat-Based Decontamination of N95 Filtering Facepiece Respirators: A Systematic Review
+  doi: https://doi.org/10.1016/j.jhin.2020.08.016
+  ref 'Gertsman_et_al_08_22_2020
+    head = Microwave irradiation and heat may be safe and effective viral decontamination options for N95 FFR reuse during critical shortages. The evidence does not support autoclaving or high-heat (>90oC) approaches. Physical degradation may be an issue for certain mask models, and more real-world evidence on fit is needed.
+
+    >>> Background
+      In pandemics such as COVID-19, shortages of personal protective equipment are common. One solution may be to decontaminate equipment such as facemasks for reuse.
+
+    >>> Aim
+      To collect and synthesize existing information on decontamination of N95 filtering facepiece respirators (FFRs) using microwave and heat-based treatments, with special attention to impact on mask function (aerosol penetration, airflow resistance), fit, and physical traits.
+
+    >>> Methods
+      A systematic review (PROSPERO CRD42020177036) of literature available from Medline, Embase, Global Health, and other sources was conducted. Records were screened independently by two reviewers, and data was extracted from studies that reported on effects of microwave- or heat-based decontamination on N95 FFR performance, fit, physical traits, and/or reductions in microbial load.
+
+    >>> Findings
+      Thirteen studies were included that used dry/moist microwave irradiation, heat, or autoclaving. All treatment types reduced pathogen load by a log10 reduction factor of at least three when applied for sufficient duration (>30s microwave, >60 min dry heat), with most studies assessing viral pathogens. Mask function (aerosol penetration <5% and airflow resistance <25mmH2O) was preserved after all treatments except autoclaving. Fit was maintained for most N95 models, though all treatment types caused observable physical damage to at least one model.
+
+    >>> Conclusions
+      Microwave irradiation and heat may be safe and effective viral decontamination options for N95 FFR reuse during critical shortages. The evidence does not support autoclaving or high-heat (>90oC) approaches. Physical degradation may be an issue for certain mask models, and more real-world evidence on fit is needed.
+
+    -- exports
+      !a
+
+    / August, 2020 - Journal of Hospital Infection
+    let !a self assert =
+
+
+  # Face Mask - Oncology Clinics
+  // Face masks in radiation oncology clinics: based on evidence or source of mistakes?
+  doi: https://doi.org/10.1007/s12032-020-01403-8
+  ref 'Klement_et_al_08_01_2020
+    head = Potential risks associated with wearing masks, such as the risk of confounding patients, outweigh any benefits of such a policy for which evidence of protection from COVID-19 is generally weak. For asymptomatic patients, wearing masks in addition to hygiene standards will not provide additional protection of others and should be cautioned against.
+
+    >>> Abstract
+      We here express our concern about a general decree to let patients wear face masks in radiation oncology clinics. We believe that potential risks associated with wearing masks, such as the risk of confounding patients, outweigh any benefits of such a policy for which evidence of protection from COVID-19 is generally weak. For asymptomatic patients, wearing masks in addition to hygiene standards will not provide additional protection of others and should be cautioned against.
+
+    / August, 2020 - Med Oncol
+    let !a self assert =
+
+  # Low Mortality with mask adoption - Face Mask
+  // Association of country-wide coronavirus mortality with demographics, testing, lockdowns, and public wearing of masks. Update August 4, 2020.
+  doi: https://doi.org/10.1101/2020.05.22.20109231
+  ref 'Leffler_et_al_08_05_2020
+    head = Societal norms and government policies supporting the wearing of masks by the public, as well as international travel controls, are independently associated with lower per-capita mortality from COVID-19.
+
+    >>> Purpose
+      To determine sources of variation between countries in per-capita mortality from COVID-19 (caused by the SARS-CoV-2 virus). Methods. Potential predictors of per-capita coronavirus-related mortality in 200 countries by May 9, 2020 were examined, including age, sex, obesity prevalence, temperature, urbanization, smoking, duration of infection, lockdowns, viral testing, contact tracing policies, and public mask-wearing norms and policies. Multivariable linear regression analysis was performed.
+    >>> Results
+      In univariate analyses, the prevalence of smoking, per-capita gross domestic product, urbanization, and colder average country temperature were positively associated with coronavirus-related mortality. In a multivariable analysis of 196 countries, the duration of infection in the country, and the proportion of the population 60 years of age or older were positively associated with per-capita mortality, while duration of mask-wearing by the public was negatively associated with mortality (all p<0.001). International travel restrictions and a lower prevalence of obesity were independently associated with mortality in a model which controlled for testing policy. Internal lockdown requirements and viral testing policies and levels were not associated with mortality. The association of contact tracing policy with mortality approached statistical significance (p=0.06). In countries with cultural norms or government policies supporting public mask-wearing, per-capita coronavirus mortality increased on average by just 15.8% each week, as compared with 62.1% each week in remaining countries.
+    >>> Conclusions
+      Societal norms and government policies supporting the wearing of masks by the public, as well as international travel controls, are independently associated with lower per-capita mortality from COVID-19.
+
+    / February, 2020 - bioRxiv
+    let !a self assert =
+
+
+
   # Hydroxychloroquine
   // Low-dose Hydroxychloroquine Therapy and Mortality in Hospitalized Patients with COVID-19: A Nationwide Observational Study of 8075 Participants
   doi: https://doi.org/10.1016/j.ijantimicag.2020.106144

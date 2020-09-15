@@ -115,7 +115,77 @@ feed May2020
 
   #
 
-  
+  # Cloth Mask 
+  // Textile Masks and Surface Covers-A Spray Simulation Method and a "Universal Droplet Reduction Model" Against Respiratory Pandemics
+  doi: https://doi.org/10.3389/fmed.2020.00260
+  ref 'Palacios_et_al_05_27_2020
+    head = We assessed household textiles to quantify their potential as effective environmental droplet barriers. All textiles reduced the number of droplets reaching surfaces, when used as single layers. When used as double-layers, textiles were as effective as medical mask/surgical-cloth materials.
+
+    >>> Abstract
+      The main form of COVID-19 transmission is via "oral-respiratory droplet contamination" (droplet: very small drop of liquid) produced when individuals talk, sneeze, or cough. In hospitals, health-care workers wear facemasks as a minimum medical "droplet precaution" to protect themselves. Due to the shortage of masks during the pandemic, priority is given to hospitals for their distribution. As a result, the availability/use of medical masks is discouraged for the public. However, for asymptomatic individuals, not wearing masks in public could easily cause the spread of COVID-19. The prevention of "environmental droplet contamination" (EnvDC) from coughing/sneezing/speech is fundamental to reducing transmission. As an immediate solution to promote "public droplet safety," we assessed household textiles to quantify their potential as effective environmental droplet barriers (EDBs). The synchronized implementation of a universal "community droplet reduction solution" is discussed as a model against COVID-19. Using a bacterial-suspension spray simulation model of droplet ejection (mimicking a sneeze), we quantified the extent by which widely available clothing fabrics reduce the dispersion of droplets onto surfaces within 1.8 m, the minimum distance recommended for COVID-19 "social distancing." All textiles reduced the number of droplets reaching surfaces, restricting their dispersion to <30 cm, when used as single layers. When used as double-layers, textiles were as effective as medical mask/surgical-cloth materials, reducing droplet dispersion to <10 cm, and the area of circumferential contamination to ~0.3%. The synchronized implementation of EDBs as a "community droplet reduction solution" (i.e., face covers/scarfs/masks and surface covers) will reduce COVID-19 EnvDC and thus the risk of transmitting/acquiring COVID-19.
+
+    -- exports
+      !a
+
+    / May, 2020 - Front Med
+    let !a self assert =
+
+
+  # Surgical mask vs cotton mask
+  // Medical mask versus cotton mask for preventing respiratory droplet transmission in micro environments
+  doi: https://doi.org/10.1016/j.scitotenv.2020.139510
+  ref 'Ho_et_al_05_18_2020
+    head = Four 1-hour repeated measurements of particles with a size range of 20–1000 nm temperature and relatively humidity, and cough/sneeze counts per hour were conducted for each volunteer. There was no significant difference in NC0.02–1 or cough/sneeze counts between volunteers with medical masks and cotton masks in a bedroom or a car.
+
+    >>> Abstract
+      The objective of this study was to investigate whether cotton mask worn by respiratory infection person could suppress respiratory droplet levels compared to medical mask. We recruited adult volunteers with confirmed influenza and suspected cases of coronavirus disease 2019 (COVID-19) to wear medical masks and self-designed triple-layer cotton masks in a regular bedroom and a car with air conditioning. Four 1-hour repeated measurements (two measurements for bedroom the others for car) of particles with a size range of 20–1000 nm measured by number concentrations (NC0.02–1), temperature and relatively humidity, and cough/sneeze counts per hour were conducted for each volunteer. The paired t-tests were used for within-group comparisons in a bedroom and in a car. The results showed that there was no significant difference in NC0.02–1 or cough/sneeze counts between volunteers with medical masks and cotton masks in a bedroom or a car. We concluded that the cotton mask could be a potential substitute for medical mask for respiratory infection person in microenvironment with air conditioning. Healthy people may daily use cotton mask in the community since cotton mask is washable and reusable.
+
+    -- exports
+      !a
+
+    / May, 2020 - Science of The Total Environment
+    let !a self assert = Cotton mask could be a potential substitute for medical mask for respiratory infection person in microenvironment with air conditioning. Healthy people may daily use cotton mask in the community since cotton mask is washable and reusable.
+
+
+  # Surgical Mask - In Vivo Studies
+  // Surgical Mask Partition Reduces the Risk of Noncontact Transmission in a Golden Syrian Hamster Model for Coronavirus Disease 2019 (COVID-19)
+  doi: https://doi.org/10.1093/cid/ciaa644
+  ref 'Chan_et_al_05_30_2020
+    head = Noncontact transmission was found in 66.7% (10/15) of exposed naive hamsters. SARS-CoV-2 could be transmitted by respiratory droplets or airborne droplet nuclei which could be reduced by surgical mask partition in the hamster model.
+
+    >>> Background
+      Coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is believed to be mostly transmitted by medium- to large-sized respiratory droplets, although airborne transmission may be possible in healthcare settings involving aerosol-generating procedures. Exposure to respiratory droplets can theoretically be reduced by surgical mask usage. However, there is a lack of experimental evidence supporting surgical mask usage for prevention of COVID-19.
+
+    >>> Methods
+      We used a well-established golden Syrian hamster SARS-CoV-2 model. We placed SARS-CoV-2-challenged index hamsters and naive hamsters into closed system units each comprising 2 different cages separated by a polyvinyl chloride air porous partition with unidirectional airflow within the isolator. The effect of a surgical mask partition placed between the cages was investigated. Besides clinical scoring, hamster specimens were tested for viral load, histopathology, and viral nucleocapsid antigen expression.
+
+    >>> Results
+      Noncontact transmission was found in 66.7% (10/15) of exposed naive hamsters. Surgical mask partition for challenged index or naive hamsters significantly reduced transmission to 25% (6/24, P = .018). Surgical mask partition for challenged index hamsters significantly reduced transmission to only 16.7% (2/12, P = .019) of exposed naive hamsters. Unlike the severe manifestations of challenged hamsters, infected naive hamsters had lower clinical scores, milder histopathological changes, and lower viral nucleocapsid antigen expression in respiratory tract tissues.
+
+    >>> Conclusions
+      SARS-CoV-2 could be transmitted by respiratory droplets or airborne droplet nuclei which could be reduced by surgical mask partition in the hamster model. This is the first in vivo experimental evidence to support the possible benefit of surgical mask in prevention of COVID-19 transmission, especially when masks were worn by infected individuals.
+
+    -- exports
+      !a
+
+    / May, 2020 - Clinical Infectious Diseases
+    let !a self assert =
+
+
+  # Methods to evaluate efficacy of mask
+  // Quantitative Method for Comparative Assessment of Particle Filtration Efficiency of Fabric Masks as Alternatives to Standard Surgical Masks for PPE
+  doi: https://doi.org/10.1101/2020.04.17.20069567
+  ref 'Mueller_et_al_05_18_2020
+    head = A rapid testing protocol is presented for evaluation of loose-fitting type masks to provide quantitative, intercomparable data for particle removal efficacy of masks made with different types of fabrics and with different designs/fits, independently providing an assessment of the quality of the mask fit and the material used.
+
+    >>> Abstract
+      In response to the COVID-19 pandemic, cloth masks are being used to control the spread of virus, but the efficacy of these loose-fitting masks is not well known. Here, tools and methods typically used to assess tight-fitting respirators were modified to quantify the efficacy of community- and commercially-produced fabric masks as PPE. Two particle counters concurrently sample ambient air and air inside the masks; mask performance is evaluated by mean particle removal efficiency and statistical variability when worn as designed and with a nylon overlayer, to independently assess fit and material. Worn as designed both commercial surgical masks and cloth masks had widely varying effectiveness (53-75% and 28-90% filtration efficiency, respectively). Most surgical-style masks improved with the nylon overlayer, indicating poor fit. This rapid testing method uses widely available hardware, requires only a few calculations from collected data, and provides both a holistic and aspect-wise evaluation of mask performance.
+
+    -- exports
+      !a
+
+    / May, 2020 - medRxiv
+    let !a self assert = Worn as designed both commercial surgical masks and cloth masks had widely varying effectiveness (53-75% and 28-90% filtration efficiency, respectively). Most surgical-style masks improved with the nylon overlayer, indicating poor fit.
 
   # Droplet Mechanism
   // Visualizing Speech-Generated Oral Fluid Droplets with Laser Light Scattering

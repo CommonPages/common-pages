@@ -53,6 +53,53 @@ feed June2020
 
   #
 
+  // A physicist's approach to COVID-19 transmission via expiratory droplets
+  doi: https://doi.org/10.1016/j.mehy.2020.109997
+  ref 'Carelli_et_al_06_17_2020
+    head = The intermediate dimensioned droplets are proved to be changed into aerosol, losing their water content and becoming seriously contagious, but in their initial phase they could be easily caught by a simple surgical mask. The actual efficiency of FFP (filtering face piece) 3 masks has been examined and found to be lower than expected.
+
+    >>> Abstract
+      In this paper, a physicist's approach is given to support the necessity to wear surgical masks during the COVID-19 pandemics; they have become compulsory in Eastern countries, while in Western countries they are still an optional. My thesis is supported and described on the basis of a physicist's model which studies the droplets behavior when emitted by the respiratory apparatus of an infected person, symptomatic or not. The intermediate dimensioned droplets are proved to be changed into aerosol, losing their water content and becoming seriously contagious, but in their initial phase they could be easily caught by a simple surgical mask. The actual efficiency of FFP3 masks has been examined and found to be lower than expected.
+
+    -- exports
+      !a
+
+    / June, 2020 - Medical Hypotheses
+    let !a self assert =
+
+  # PPE in hospital
+  // Use of personal protective equipment against coronavirus disease 2019 by healthcare professionals in Wuhan, China: cross sectional study
+  doi: https://doi.org/10.1136/bmj.m2195
+  ref 'Liu_et_al_06_10_2020
+    head = All 420 study participants had direct contact with patients and performed at least one aerosol generating procedure. None of the participants reported covid-19 related symptoms. Healthcare systems must give priority to the procurement and distribution of personal protective equipment, and provide adequate training to healthcare professionals in its use.
+
+    >>> Objective
+      To examine the protective effects of appropriate personal protective equipment for frontline healthcare professionals who provided care for patients with coronavirus disease 2019 (covid-19).
+
+    >>> Design
+      Cross sectional study.
+
+    >>> Setting
+      Four hospitals in Wuhan, China.
+
+    >>> Participants
+      420 healthcare professionals (116 doctors and 304 nurses) who were deployed to Wuhan by two affiliated hospitals of Sun Yat-sen University and Nanfang Hospital of Southern Medical University for 6-8 weeks from 24 January to 7 April 2020. These study participants were provided with appropriate personal protective equipment to deliver healthcare to patients admitted to hospital with covid-19 and were involved in aerosol generating procedures. 77 healthcare professionals with no exposure history to covid-19 and 80 patients who had recovered from covid-19 were recruited to verify the accuracy of antibody testing.
+
+    >>> Main outcome measures
+      Covid-19 related symptoms (fever, cough, and dyspnoea) and evidence of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection, defined as a positive test for virus specific nucleic acids in nasopharyngeal swabs, or a positive test for IgM or IgG antibodies in the serum samples.
+
+    >>> Results
+      The average age of study participants was 35.8 years and 68.1% (286/420) were women. These study participants worked 4-6 hour shifts for an average of 5.4 days a week; they worked an average of 16.2 hours each week in intensive care units. All 420 study participants had direct contact with patients with covid-19 and performed at least one aerosol generating procedure. During the deployment period in Wuhan, none of the study participants reported covid-19 related symptoms. When the participants returned home, they all tested negative for SARS-CoV-2 specific nucleic acids and IgM or IgG antibodies (95% confidence interval 0.0 to 0.7%).
+
+    >>> Conclusion
+      Before a safe and effective vaccine becomes available, healthcare professionals remain susceptible to covid-19. Despite being at high risk of exposure, study participants were appropriately protected and did not contract infection or develop protective immunity against SARS-CoV-2. Healthcare systems must give priority to the procurement and distribution of personal protective equipment, and provide adequate training to healthcare professionals in its use.
+
+    -- exports
+      !a
+
+    / June, 2020 - BMJ
+    let !a self assert =
+
   # Hydroxychloroquine - Mortality
   // Risk Factors for Mortality in Patients with COVID-19 in New York City
   doi: https://doi.org/10.1007/s11606-020-05983-z
@@ -1249,7 +1296,10 @@ feed June2020
   // Correction to Aerosol Filtration Efficiency of Common Fabrics Used in Respiratory Cloth Masks
   doi: https://doi.org/10.1021/acsnano.0c04676
   ref 'Konda_et_al_06_18_2020
-    head = The N95 respirators are designed and engineered to capture more than 95% of particles at 300 nm, at 343/245 Pa (inhalation/exhalation) pressure drops and 85 L/min flow. Our studies, focused on cloth masks, are carried out at reduced pressure drops (2–13 Pa) and significantly lower flow rates where diffusional flow is expected to control transport across the fabrics. We find that the use of cloth masks can potentially provide significant protection against the transmission of particles in the aerosol size range.
+    head = Combinations of various commonly available fabrics used in cloth masks can potentially provide significant protection against the transmission of aerosol particles. Improper fit can result in over a 60% decrease in the filtration efficiency.
+
+    >>> Abstract
+      The emergence of a pandemic affecting the respiratory system can result in a significant demand for face masks. This includes the use of cloth masks by large sections of the public, as can be seen during the current global spread of COVID-19. However, there is limited knowledge available on the performance of various commonly available fabrics used in cloth masks. Importantly, there is a need to evaluate filtration efficiencies as a function of aerosol particulate sizes in the 10 nm to 10 μm range, which is particularly relevant for respiratory virus transmission. We have carried out these studies for several common fabrics including cotton, silk, chiffon, flannel, various synthetics, and their combinations. Although the filtration efficiencies for various fabrics when a single layer was used ranged from 5 to 80% and 5 to 95% for particle sizes of <300 nm and >300 nm, respectively, the efficiencies improved when multiple layers were used and when using a specific combination of different fabrics. Filtration efficiencies of the hybrids (such as cotton-silk, cotton-chiffon, cotton-flannel) was >80% (for particles <300 nm) and >90% (for particles >300 nm). We speculate that the enhanced performance of the hybrids is likely due to the combined effect of mechanical and electrostatic-based filtration. Cotton, the most widely used material for cloth masks performs better at higher weave densities (i.e., thread count) and can make a significant difference in filtration efficiencies. Our studies also imply that gaps (as caused by an improper fit of the mask) can result in over a 60% decrease in the filtration efficiency, implying the need for future cloth mask design studies to take into account issues of "fit" and leakage, while allowing the exhaled air to vent efficiently. Overall, we find that combinations of various commonly available fabrics used in cloth masks can potentially provide significant protection against the transmission of aerosol particles.
 
     -- exports
       !a

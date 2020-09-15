@@ -368,7 +368,88 @@ feed Pre2019
 
   #
 
-  
+  # Virus deactivation in Mask
+  // Universal and reusable virus deactivation system for respiratory protection
+  doi: https://doi.org/10.1038/srep39956
+  ref 'Quan_et_al_01_04_2017
+    head = We report the development of a universal, reusable virus deactivation system by functionalization of the main fibrous filtration unit of surgical mask with sodium chloride salt. Salt-coated filters proved highly effective in deactivating influenza viruses.
+
+    >>> Abstract
+      Aerosolized pathogens are a leading cause of respiratory infection and transmission. Currently used protective measures pose potential risk of primary/secondary infection and transmission. Here, we report the development of a universal, reusable virus deactivation system by functionalization of the main fibrous filtration unit of surgical mask with sodium chloride salt. The salt coating on the fiber surface dissolves upon exposure to virus aerosols and recrystallizes during drying, destroying the pathogens. When tested with tightly sealed sides, salt-coated filters showed remarkably higher filtration efficiency than conventional mask filtration layer, and 100% survival rate was observed in mice infected with virus penetrated through salt-coated filters. Viruses captured on salt-coated filters exhibited rapid infectivity loss compared to gradual decrease on bare filters. Salt-coated filters proved highly effective in deactivating influenza viruses regardless of subtypes and following storage in harsh environmental conditions. Our results can be applied in obtaining a broad-spectrum, airborne pathogen prevention device in preparation for epidemic and pandemic of respiratory diseases.
+
+    / January, 2017 - Sci Rep
+    let !a self assert =
+
+  # Home Made Mask
+  // Professional and Home-Made Face Masks Reduce Exposure to Respiratory Infections among the General Population
+  doi: https://dx.doi.org/10.1371%2Fjournal.pone.0002618
+  ref 'Sande_et_al_07_09_2008
+    head = Any type of general mask use is likely to decrease viral exposure and infection risk on a population level, in spite of imperfect fit and imperfect adherence, personal respirators providing most protection. Masks worn by patients may not offer as great a degree of protection against aerosol transmission.
+
+    >>> Background
+      Governments are preparing for a potential influenza pandemic. Therefore they need data to assess the possible impact of interventions. Face-masks worn by the general population could be an accessible and affordable intervention, if effective when worn under routine circumstances.
+
+    >>> Methodology
+      We assessed transmission reduction potential provided by personal respirators, surgical masks and home-made masks when worn during a variety of activities by healthy volunteers and a simulated patient.
+
+    >>> Principal Findings
+      All types of masks reduced aerosol exposure, relatively stable over time, unaffected by duration of wear or type of activity, but with a high degree of individual variation. Personal respirators were more efficient than surgical masks, which were more efficient than home-made masks. Regardless of mask type, children were less well protected. Outward protection (mask wearing by a mechanical head) was less effective than inward protection (mask wearing by healthy volunteers).
+
+    >>> Conclusions/Significance
+      Any type of general mask use is likely to decrease viral exposure and infection risk on a population level, in spite of imperfect fit and imperfect adherence, personal respirators providing most protection. Masks worn by patients may not offer as great a degree of protection against aerosol transmission.
+
+    -- exports
+      !a
+      !b
+
+    / July, 2008 - PLoS One
+    let !a self assert = Personal respirators were more efficient than surgical masks, which were more efficient than home-made masks.
+
+    / July, 2008 - PLoS One
+    let !b self assert = Outward protection (mask wearing by a mechanical head) was less effective than inward protection (mask wearing by healthy volunteers).
+
+  # decontamination of mask
+  // A simple decontamination approach using hydrogen peroxide vapour for Bacillus anthracis spore inactivation
+  doi: https://dx.doi.org/10.1111%2Fjam.13284
+  ref 'Wood_et_al_10_23_2016
+    head = Four- to seven-day exposures to low levels of HPV (hydrogen peroxide Vapour) were effective in inactivating B. anthracis spores on multiple materials.
+
+    >>> Aims:
+      To evaluate the use of relatively low levels of hydrogen peroxide vapour (HPV) for the inactivation of Bacillus anthracis spores within an indoor environment.
+
+    >>> Methods and Results:
+      Laboratory-scale decontamination tests were conducted using bacterial spores of both B. anthracis Ames and Bacillus atrophaeus inoculated onto several types of materials. Pilot-scale tests were also conducted using a larger chamber furnished as an indoor office. Commercial off-the-shelf (COTS) humidifiers filled with aqueous solutions of 3 or 8% hydrogen peroxide (H2O2) were used to generate the HPV inside the mock office. The spores were exposed to HPV for periods ranging from 8 h up to 1 week.
+
+    >>> Conclusions:
+      Four- to seven-day exposures to low levels of HPV (average air concentrations of approx. 5–10 parts per million) were effective in inactivating B. anthracis spores on multiple materials. The HPV can be generated with COTS humidifiers and household H2O2 solutions. With the exception of one test/material, B. atrophaeus spores were equally or more resistant to HPV inactivation compared to those from B. anthracis Ames.
+
+    / October, 2016 - J Appl Microbiol
+    let !a self assert =
+
+  # Homemade Mask / Clothmask
+  // Testing the Efficacy of Homemade Masks: Would They Protect in an Influenza Pandemic?
+  doi: https://dx.doi.org/10.1017%2Fdmp.2013.43
+  ref 'Davies_et_al_05_22_2013
+    head = Surgical mask was 3 times more effective in blocking transmission than the homemade mask. Homemade mask should only be considered as a last resort to prevent droplet transmission from infected individuals, but it would be better than no protection.
+
+    >>> Objective
+      This study examined homemade masks as an alternative to commercial face masks.
+
+    >>> Methods
+      Several household materials were evaluated for the capacity to block bacterial and viral aerosols. Twenty-one healthy volunteers made their own face masks from cotton t-shirts; the masks were then tested for fit. The number of microorganisms isolated from coughs of healthy volunteers wearing their homemade mask, a surgical mask, or no mask was compared using several air-sampling techniques.
+
+    >>> Results
+      The median-fit factor of the homemade masks was one-half that of the surgical masks. Both masks significantly reduced the number of microorganisms expelled by volunteers, although the surgical mask was 3 times more effective in blocking transmission than the homemade mask.
+
+    >>> Conclusion
+      Our findings suggest that a homemade mask should only be considered as a last resort to prevent droplet transmission from infected individuals, but it would be better than no protection.
+
+    -- exports
+      !a
+
+    / May, 2013 - Disaster Med Public Health Prep
+    let !a self assert =
+
 
   # Airline - Airborne
   // Experimental and numerical investigation of airflow and contaminant transport in an airliner cabin mockup
