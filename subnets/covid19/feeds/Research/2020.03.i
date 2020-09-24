@@ -113,6 +113,21 @@ feed March2020
 
   #
 
+  # Ocular Transmission
+  // Role of the Eye in Transmitting Human Coronavirus: What We Know and What We Do Not Know
+  doi: https://doi.org/10.20944/preprints202003.0271.v2
+  ref 'Sun_et_al_03_24_2020
+    head = Pathogens exposed to the eye might be transported to nasal and nasopharyngeal mucosa by constant tear rinsing through lacrimal duct, and then cause respiratory tract infection.
+
+    >>> Abstract
+      The outbreak of recently identified 2019 novel coronavirus (2019-nCOV) infection has become a world-wide health threat. Currently, more information is needed for further understanding the transmission, clinical characteristics, and infection control procedures of 2019-nCOV. Recently, the role of the eye in transmitting 2019-nCOV has been intensively discussed. Previous investigations about other high infectious human COVs, that is, severe acute respiratory syndrome coronavirus (SARS-CoV) and the Middle East respiratory syndrome coronavirus (MERS-CoV), may provide helpful information. In this review, we describe the genomics and morphology of human CoVs, the epidemiology, systemic and ophthalmic manifestations, mechanisms of human CoVs infection, and infection control procedures. The role of the eye in the transmission of SARS-CoV and 2019-nCOV is discussed. Although the conjunctiva is directly exposed to extraocular pathogens, and the mucosa of ocular surface and upper respiratory tract is connected by nasolacrimal duct and share same entry receptors for some respiratory viruses. The eye is rarely involved in human CoVs infection, conjunctivitis is quite rare in patients with SARS-CoV and 2019-nCoV infection, and COV RNA positive rate by RT-PCR test in tears and conjunctival secretions from patients with SARS-CoV and 2019-nCoV infection is also very low, which imply that the eye is neither a preferred organ of human COVs infection, nor is a preferred gateway of entry for human COVs to infect respiratory tract. However, pathogens exposed to the ocular surface might be transported to nasal and nasopharyngeal mucosa by constant tear rinsing through lacrimal duct, and then cause respiratory tract infection. Considering close doctor-patient contact is quite common in ophthalmic practice which are apt to transmit human COVs by droplets and fomites, hand hygiene and personal protection are still highly recommended for health care workers to avoid hospital-related viral transmission during ophthalmic practice.
+
+    -- exports
+      !a
+
+    / March, 2020 - Pre-Prints
+    let !a self assert = Due to low sensitivity of Rt-PCR current negative RT-PCR results can not exclude the possibility of presence of SARS-CoV and 2019- nCoV in tears and conjunctival secretions.
+
   # Face Mask use, Policy - Relevant in timeline?
   // COVID-19: Facemask use prevalence in international airports in Asia, Europe and the Americas, March 2020
   doi: https://doi.org/10.1016/j.tmaid.2020.101637
@@ -936,7 +951,7 @@ feed March2020
   // Estimating the Asymptomatic Proportion of 2019 Novel Coronavirus onboard the Princess Cruises Ship, 2020
   doi: https://doi.org/10.1101/2020.02.20.20025866
   article 'Mizumoto_et_al_2020
-    head = We conducted statistical modeling analysis to derive the delay-adjusted asymptomatic proportion of the positive COVID-19 infections onboard the Princess Cruises ship along with the timeline of infections. We estimated the asymptomatic proportion at 17.9% (95% CrI: 15.5%-20.2%), with most of the infections occurring before the start of the 2-week quarantine.
+    head = We conducted statistical modeling analysis to derive the delay-adjusted asymptomatic proportion of the positive COVID-19 infections onboard the Princess Cruises ship along with the timeline of infections. We estimated the asymptomatic proportion at 17.9%, with most of the infections occurring before the start of the 2-week quarantine.
 
     >>> Abstract
       The potential infectiousness of asymptomatic COVID-19 cases together with a substantial fraction of asymptomatic infections among all infections, have been highlighted in clinical studies. We conducted statistical modeling analysis to derive the delay-adjusted asymptomatic proportion of the positive COVID-19 infections onboard the Princess Cruises ship along with the timeline of infections. We estimated the asymptomatic proportion at 17.9% (95% CrI: 15.5%-20.2%), with most of the infections occurring before the start of the 2-week quarantine.
@@ -1091,7 +1106,7 @@ feed March2020
   // Clinical presentation and virological assessment of hospitalized cases of coronavirus disease 2019 in a travel-associated transmission cluster
   doi: https://doi.org/10.1101/2020.03.05.20030502
   article 'Woelfel_et_al_2020b
-    head = The present study shows that COVID-19 can often present as a common cold-like illness. SARS-CoV-2 can actively replicate in the upper respiratory tract, and is shed for a prolonged time after symptoms end, including in stool. These findings suggest adjustments of current case definitions and re-evaluation of the prospects of outbreak containment.
+    head = The present study shows that COVID-19 can often present as a common cold-like illness. SARS-CoV-2 can actively replicate in the upper respiratory tract, and is shed for a prolonged time after symptoms end, including in stool.
 
     >>> Abstract
       Background: In coronavirus disease 2019 (COVID-19), current case definitions presume mainly lower respiratory tract infection. However, cases seen outside the epicenter of the epidemic may differ in their overall clinical appearance due to more sensitive case finding. Methods: We studied viral load courses by RT-PCR in oro- and nasopharyngeal swabs, sputum, stool, blood, and urine in nine hospitalized cases. Infectious virus was detected by cell culture. Active replication was demonstrated by analysis of viral subgenomic replicative intermediates. Serology including neutralization testing was done to characterize immune response. Results: Seven cases had upper respiratory tract disease. Lower respiratory tract symptoms seen in two cases were limited. Clinical sensitivity of RT-PCR on swabs taken on days 1-5 of symptoms was 100%, with no differences comparing swab and sputum samples taken simultaneously. Average viral load was 6.76x10E5 copies per swab during the first 5 days. Live virus isolates were obtained from swabs during the first week of illness. Proof of active viral replication in upper respiratory tract tissues was obtained by detection of subgenomic viral RNA. Shedding of viral RNA from sputum outlasted the end of symptoms. Seroconversion occurred after about one week. Conclusions: The present study shows that COVID-19 can often present as a common cold-like illness. SARS-CoV-2 can actively replicate in the upper respiratory tract, and is shed for a prolonged time after symptoms end, including in stool. These findings suggest adjustments of current case definitions and re-evaluation of the prospects of outbreak containment.
@@ -1576,7 +1591,7 @@ feed March2020
     let !c self assert = The most common clinical manifestations at onset of illness included fever, cough, fatigue, and myalgia. Severe cases more frequently had dyspnea and developed acute respiratory distress syndrome.
 
     / March, 2020 - J Clin Invest.
-    let !d self assert = Additionally, we noted that SARS-CoV-2 infection can cause a significant reduction in circulating lymphocytes and T cell subsets. Although the proportions of T cell subsets in peripheral blood remained within the normal range in most patients, decreased CD4+ and CD8+ T cell counts below the LLN were considerably frequent in both severe and moderate cases. More importantly, the number of CD4+ and CD8+ T cells was markedly lower in severe cases than moderate cases.
+    let !d self assert = SARS-CoV-2 infection can cause a significant reduction in circulating lymphocytes and T cell subsets. Although the proportions of T cell subsets in peripheral blood remained within the normal range in most patients, decreased CD4+ and CD8+ T cell counts below the LLN were considerably frequent in both severe and moderate cases. More importantly, the number of CD4+ and CD8+ T cells was markedly lower in severe cases than moderate cases.
 
     / March, 2020 - J Clin Invest.
     let !e self assert = A cytokine storm was exhibited in nearly all these populations; the only currently available histological examination of a severe case who died of SARS-CoV-2 demonstrated lung interstitial mononuclear inflammatory infiltrates, dominated by lymphocytes, and multinucleated syncytial cells with atypical enlarged pneumocytes in the intra-alveolar spaces
@@ -1724,7 +1739,7 @@ feed March2020
   // Transmission interval estimates suggest pre-symptomatic spread of COVID-19
   doi: https://doi.org/10.1101/2020.03.03.20029983
   article 'Tindale_et_al_2020
-    head = Based on this paper's studies, The estimated mean incubation period for COVID-19 was 4.9 days (ranging from 0.8 to 11.1 days). The infectious curve showed that in 73.0% of the secondary cases, their date of getting infected was before symptom onset of the first-generation cases, particularly in the last three days of the incubation period.
+    head = The estimated mean incubation period for COVID-19 was 4.9 days (ranging from 0.8 to 11.1 days). 73.0% of the secondary cases, their date of getting infected was before symptom onset of the first-generation cases. Transmission of COVID-9 occurs among close contacts during the incubation period, which may lead to a quarantine loophole.
 
     >>> Abstract
       The ongoing outbreak of novel corona virus disease 2019 (COVID-19) in Wuhan, China, is arousing international concern. This study evaluated whether and when the infected but asymptomatic cases during the incubation period could infect others. Methods: We collected data on demographic characteristics, exposure history, and symptom onset day of the confirmed cases, which had been announced by the Chinese local authorities. We evaluated the potential of transmission during the incubation period in 50 infection clusters, including 124 cases. All the secondary cases had a history of contact with their first-generation cases prior to symptom onset. Results: The estimated mean incubation period for COVID-19 was 4.9 days (95% confidence interval [CI], 4.4 to 5.4) days, ranging from 0.8 to 11.1 days (2.5th to 97.5th percentile). The observed mean and standard deviation (SD) of serial interval was 4.1±3.3 days, with the 2.5th and 97.5th percentiles at -1 and 13 days. The infectious curve showed that in 73.0% of the secondary cases, their date of getting infected was before symptom onset of the first-generation cases, particularly in the last three days of the incubation period. Conclusions: The results indicated the transmission of COVID-9 occurs among close contacts during the incubation period, which may lead to a quarantine loophole. Strong and effective countermeasures should be implemented to prevent or mitigate asymptomatic transmission during the incubation period in populations at high risk.
@@ -1823,15 +1838,24 @@ feed March2020
   // SARS-CoV-2 infection in 86 healthcare workers in two Dutch hospitals in March 2020
   doi: https://doi.org/10.1101/2020.03.23.20041913
   article 'Kluytmans_et_al_2020
-    head = Within two weeks after the first Dutch case was detected, a substantial proportion of HCWs with fever or respiratory symptoms were infected with SARS-CoV-2, probably caused by acquisition of the virus in the community during the early phase of local spread. The high prevalence of mild clinical presentations, frequently not including fever, asks for less stringent use of the currently recommended case-definition for suspected COVID-19.
+    head = Thirteen-hundred fifty-three (14%) of 9,705 HCWs employed were tested, 86 (6%) of whom were infected with SARS-CoV-2. Most HCWs suffered from relatively mild disease and only 46 (53%) reported fever. Seventy-nine (92%) HCWs met a case definition of fever and/or coughing and/or shortness of breath.
 
-    -- exports
-      !a
-      !b
-      !c
-      !d
-      !e
-      !f
+    >>> Background
+      On February 27, 2020, the first patient with COVID-19 was reported in the Netherlands. During the following weeks, nine healthcare workers (HCWs) were diagnosed with COVID-19 in two Dutch teaching hospitals, eight of whom had no history of travel to China or Northern-Italy. A low-threshold screening regimen was implemented to determine the prevalence and clinical presentation of COVID-19 among HCWs in these two hospitals.
+    >>> Methods
+      HCWs who suffered from fever or respiratory symptoms were voluntarily tested for SARS-CoV-2 by real-time reverse-transcriptase PCR on oropharyngeal samples. Structured interviews were conducted to document symptoms for all HCWs with confirmed COVID-19.
+    >>> Findings
+      Thirteen-hundred fifty-three (14%) of 9,705 HCWs employed were tested, 86 (6%) of whom were infected with SARS-CoV-2. Most HCWs suffered from relatively mild disease and only 46 (53%) reported fever. Seventy-nine (92%) HCWs met a case definition of fever and/or coughing and/or shortness of breath. None of the HCWs identified through the screening reported a travel history to China or Northern Italy, and 3 (3%) reported to have been exposed to an inpatient known with COVID-19 prior to the onset of symptoms.
+    >>> Interpretation
+      Within two weeks after the first Dutch case was detected, a substantial proportion of HCWs with fever or respiratory symptoms were infected with SARS-CoV-2, probably caused by acquisition of the virus in the community during the early phase of local spread. The high prevalence of mild clinical presentations, frequently not including fever, asks for less stringent use of the currently recommended case-definition for suspected COVID-19.
+
+    # -- exports
+    #   !a
+    #   !b
+    #   !c
+    #   !d
+    #   !e
+    #   !f
 
     / March, 2020 - medRxiv
     let !a self assert = Two weeks after the first Dutch patient with COVID-19 was reported, the prevalence of COVID-19 in HCWs with fever or respiratory symptoms in two Dutch hospitals in the southern part of the Netherlands was 6%.This unexpected high prevalence supported the hypothesis of hidden community spread of SARS-CoV-2 and is considered a minimal estimate of the prevalence in all HCWs at the time of screening.
@@ -2354,7 +2378,7 @@ feed March2020
     let !a self assert = We estimated that 44% of transmission could occur before first symptoms of the index. Disease control measures should be adjusted to account for probable substantial pre-symptomatic transmission.
 
     / March, 2020 - MedRixiv
-    let !b self assert = Our modeling analysis suggests that viral shedding may begin 2-3 days before showing first symptoms. After symptom onset, viral loads decreased monotonically, consistent with a recent study of 17 patients from another hospital in Guangdong. Infectiousness profile may more closely resemble that of influenza than of SARS.
+    let !b self assert = Viral shedding may begin 2-3 days before showing first symptoms. After symptom onset, viral loads decreased monotonically, consistent with a recent study of 17 patients from another hospital in Guangdong. Infectiousness profile may more closely resemble that of influenza than of SARS.
 
 
   # Shedding - PCR

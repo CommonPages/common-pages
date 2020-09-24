@@ -1,6 +1,6 @@
 / Treatment with Hydroxychloroquine
 subject module Hydroxychloroquine
-  head = Based on clinical studies Low Dose use of Hydroxychloroquine is associated with lower mortality
+  head = Based on clinical studies Low Dose use of Hydroxychloroquine is associated with lower mortality. Moderate dose has shown efficacy but also increased mortality. Higher dose is associated with higher mortality and complications 
 
   >>>
     Studies with use of Low dose Hydroxychloroquine with or withouth Azithromycin have shown reduction in mortality
@@ -17,7 +17,7 @@ subject module Hydroxychloroquine
 
   --
     HighDoseHCQ
-    
+
   --
     MetaAnalysisHCQ
 

@@ -366,7 +366,44 @@ feed Pre2019
   -- May, 1948
     'Hamburger_et_al_1948
 
-  #
+  # Cloth Mask vs Surgical Mask
+  // Evaluating the efficacy of cloth facemasks in reducing particulate matter exposure
+  doi: https://doi.org/10.1038/jes.2016.42
+  ref 'Shakaya_et_al_06_17_2016
+    head = Cloth masks are only marginally beneficial in protecting individuals from particles<2.5 μm. Compared with cloth masks, disposable surgical masks are more effective in reducing particulate exposure.
+
+    >>> Abstract
+      Inexpensive cloth masks are widely used in developing countries to protect from particulate pollution albeit limited data on their efficacy exists. This study examined the efficiency of four types of masks (three types of cloth masks and one type of surgical mask) commonly worn in the developing world. Five monodispersed aerosol sphere size (30, 100, and 500 nm, and 1 and 2.5 μm) and diluted whole diesel exhaust was used to assess facemask performance. Among the three cloth mask types, a cloth mask with an exhaust valve performed best with filtration efficiency of 80–90% for the measured polystyrene latex (PSL) particle sizes. Two styles of commercially available fabric masks were the least effective with a filtration efficiency of 39–65% for PSL particles, and they performed better as the particle size increased. When the cloth masks were tested against lab-generated whole diesel particles, the filtration efficiency for three particle sizes (30, 100, and 500 nm) ranged from 15% to 57%. Standard N95 mask performance was used as a control to compare the results with cloth masks, and our results suggest that cloth masks are only marginally beneficial in protecting individuals from particles<2.5 μm. Compared with cloth masks, disposable surgical masks are more effective in reducing particulate exposure.
+
+    -- exports
+      !a
+
+    / August, 2016 - Journal of exposure science & environmental epidemiology
+    let !a self assert =
+
+  #  Leak - Facemask
+  // Smaller facemasks for positive pressure ventilation in preterm infants: A randomised trial
+  doi: https://doi.org/10.1016/j.resuscitation.2018.12.005
+  ref 'O'Currain_et_al_12_17_2018
+    head = Smaller facemasks did not reduce mask leak in preterm facemask ventilation. All facemasks had high leak, particularly in infants ≤26 weeks’ gestation.
+
+    >>> Aim
+      Facial measurements of preterm infants indicate that standard diameter facemasks used during positive pressure ventilation are too large, which may lead to mask leak and compromise resuscitation. We aimed to determine whether the use of a facemask that better complies with the dimensions of preterm faces, compared with a standard facemask, reduces facemask leak.
+
+    >>> Methods
+      Parallel group, randomised controlled trial. Preterm infants ≤32 weeks’ gestation receiving facemask ventilation prior to intubation in the neonatal intensive care unit, and those 28–32+6 weeks’ receiving facemask ventilation in the delivery room were eligible. Infants were randomised to receive ventilation via a standard (50 mm) (control), or a smaller (35 mm or 42 mm) diameter facemask (intervention), stratified by gestation (≤26 weeks’; 35 mm, 27–32+6; 42 mm). The primary outcome was leak between the mask and the infants face.
+
+    >>> Results
+      Of 298 eligible infants, 139 were randomised and 131 were included in the final analysis; 66 in the intervention group and 65 in the control group. The median (IQR) leak was 42% (13–69%) in the intervention group compared with 39% (22–66%) in the control group P = 0.43. The median (IQR) lowest oxygen saturation was similar in both groups [intervention 70% (34–93%) vs. control 71% (40–93%) P = 0.75]. One infant crossed over from the intervention to the control group due to poor response to ventilation with the intervention facemask.
+
+    >>>  Conclusions
+      Smaller facemasks did not reduce mask leak in preterm facemask ventilation. All facemasks had high leak, particularly in infants ≤26 weeks’ gestation.
+
+    -- exports
+      !a
+
+    / December, 2018 - Resuscitation
+    let !a self assert =
 
   # Virus deactivation in Mask
   // Universal and reusable virus deactivation system for respiratory protection
@@ -2507,7 +2544,7 @@ feed Pre2019
   // Evaluating the accuracy of different respiratory specimens in the laboratory diagnosis and monitoring the viral shedding of 2019-nCoV infections
   doi: https://doi.org/10.1101/2020.02.11.20021493
   article 'Yang_et_al_2020
-    head = Viral RNAs could be detected in all the lower respiratory tract of severe cases, but not the mild cases. CT scan of cases 02, 07 and 13 showed typical viral pneumonia with ground glass opacity, while no viral RNAs were detected in first three or all the upper respiratory samples.
+    head = Viral RNAs could be detected in all the lower respiratory tract of severe cases, but not the mild cases. CT scan of three cases showed typical viral pneumonia with ground glass opacity, while no viral RNAs were detected in first three or all the upper respiratory samples.
 
     >>> Methods:
       Respiratory samples including nasal swabs, throat swabs, sputum and bronchoalveolar lavage fluid (BALF) were collected from Guangdong CDC confirmed NCP patients, and viral RNAs were detected using a CFDA approved detection kit. Results were analyzed in combination with sample collection date and clinical information
@@ -4230,7 +4267,7 @@ feed Pre2019
   // Incubation periods of acute respiratory viral infections: a systematic review
   doi: https://doi.org/10.1016/S1473-3099(09)70069-6
   article 'Lessler_et_al_2013
-    head = This paper has combined published empirical data to provide estimates of the incubation period for nine important respiratory viruses.
+    head = Median incubation period to be 5·6 days for adenovirus, 3·2 days for human coronavirus, 4·0 days for SARS, 1·4 days for influenza A, 0·6 days for influenza B, 12·5 days for measles, 2·6 days for parainfluenza, 4·4 days for respiratory syncytial virus, and 1·9 days for rhinovirus. 
 
     >>> Abstract
       Knowledge of the incubation period is essential in the investigation and control of infectious disease, but statements of incubation period are often poorly referenced, inconsistent, or based on limited data. In a systematic review of the literature on nine respiratory viral infections of public-health importance, we identified 436 articles with statements of incubation period and 38 with data for pooled analysis. We fitted a log-normal distribution to pooled data and found the median incubation period to be 5·6 days (95% CI 4·8–6·3) for adenovirus, 3·2 days (95% CI 2·8–3·7) for human coronavirus, 4·0 days (95% CI 3·6–4·4) for severe acute respiratory syndrome coronavirus, 1·4 days (95% CI 1·3–1·5) for influenza A, 0·6 days (95% CI 0·5–0·6) for influenza B, 12·5 days (95% CI 11·8–13·3) for measles, 2·6 days (95% CI 2·1–3·1) for parainfluenza, 4·4 days (95% CI 3·9–4·9) for respiratory syncytial virus, and 1·9 days (95% CI 1·4–2·4) for rhinovirus. When using the incubation period, it is important to consider its full distribution: the right tail for quarantine policy, the central regions for likely times and sources of infection, and the full distribution for models used in pandemic planning. Our estimates combine published data to give the detail necessary for these and other applications.
@@ -4245,7 +4282,7 @@ feed Pre2019
   // The reachability of contagion in temporal contact networks: how disease latency can exploit the rhythm of human behavior
   doi: https://doi.org/10.1186/s12879-018-3117-6
   article 'Colman_et_al_2018
-    head = The rate of contact between individuals fluctuates periodically in time with the cycles of human social activity. The impact of infectious disease is maximized when timing of infectiousness is synchronized with these temporal dynamics.
+    head = The reproductive potential of pathogens is linked inextricably to the host social behavior required for transmission.
 
     >>> Background
       The symptoms of many infectious diseases influence their host to withdraw from social activity limiting their potential to spread. Successful transmission therefore requires the onset of infectiousness to coincide with a time when the host is socially active. Since social activity and infectiousness are both temporal phenomena, we hypothesize that diseases are most pervasive when these two processes are synchronized.

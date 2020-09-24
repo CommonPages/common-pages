@@ -15,7 +15,90 @@ feed July2020
     'Mulligan_et_al_07_06_2020
     'Morris_et_al_07_02_2020
 
-  #
+  # Genetic Diversity
+  // Tracking Changes in SARS-CoV-2 Spike: Evidence that D614G Increases Infectivity of the COVID-19 Virus
+  doi: https://dx.doi.org/10.1016%2Fj.cell.2020.06.043
+  ref 'Korber_et_al_07_03_2020
+    head = Dynamic tracking of variant frequencies revealed a recurrent pattern of G614 increase at multiple geographic levels. The shift occurred even in local epidemics where the original D614 form was well established prior to introduction of the G614 variant. G614 variant may have a fitness advantage. G614 variant grows to a higher titer as pseudotyped virions.
+
+    >>> Abstract
+      A SARS-CoV-2 variant carrying the Spike protein amino acid change D614G has become the most prevalent form in the global pandemic. Dynamic tracking of variant frequencies revealed a recurrent pattern of G614 increase at multiple geographic levels: national, regional, and municipal. The shift occurred even in local epidemics where the original D614 form was well established prior to introduction of the G614 variant. The consistency of this pattern was highly statistically significant, suggesting that the G614 variant may have a fitness advantage. We found that the G614 variant grows to a higher titer as pseudotyped virions. In infected individuals, G614 is associated with lower RT-PCR cycle thresholds, suggestive of higher upper respiratory tract viral loads, but not with increased disease severity. These findings illuminate changes important for a mechanistic understanding of the virus and support continuing surveillance of Spike mutations to aid with development of immunological interventions.
+
+    -- exports
+      !a
+
+    / July, 2020 - Cell
+    let !a self assert = G614 is associated with lower RT-PCR cycle thresholds, suggestive of higher upper respiratory tract viral loads, but not with increased disease severity.
+
+  # Filteration - Respirator mask
+  // Using surgical wrapping material for the fabrication of respirator masks
+  doi: https://doi.org/10.1371/journal.pone.0236239
+  ref 'Vrielink_et_al_02_20_2020
+    head = We report that the Halyard Quickcheck H300 surgical wrapping material, which is commonly available in most hospitals for use in sterilizing surgical instruments, provides high filtration efficiency for all three particle sizes measured.
+
+    >>> Abstract
+      Given the current shortage of respirator masks and the resulting lack of personal protective equipment for use by clinical staff, we examined bottom-up solutions that would allow hospitals to fabricate respirator masks that: (i) meet requirements in terms of filtering capacities, (ii) are easy to produce rapidly and locally, and (iii) can be constructed using materials commonly available in hospitals worldwide. We found that Halyard H300 material used for wrapping of surgical instruments and routinely available in hospitals, met these criteria. Specifically, three layers of material achieved a filter efficiency of 94%, 99%, and 100% for 0.3 μm, 0.5 μm, and 3.0 μm particles, respectively; importantly, these values are close to the efficiency provided by FFP2 and N95 masks. After re-sterilization up to 5 times, the filter’s efficiency remains sufficiently high for use as an FFP1 respirator mask. Finally, using only one layer of the material satisfies the criteria for use as a ‘surgical mask’. This material can therefore be used to help protect hospital staff and other healthcare professionals who require access to high quality masks but lack commercially available solutions.
+
+    -- exports
+      !a
+
+    / July, 2020 - Plos One
+    let !a self assert =  The wrapping material provides high splash resistance; although this is not a requirement for respirator masks, this property helps protect against transmission due to coughing and sneezing. After several sterilization rounds, the masks were suitable for use as FFP1 respirators.
+
+  # Public Policy - Africa
+  // Knowledge, attitude, and perceptions towards the 2019 Coronavirus Pandemic: A bi-national survey in Africa
+  doi: https://doi.org/10.1371/journal.pone.0236918
+  ref 'Hager_et_al_07_29_2020
+    head = The majority of the respondents had a satisfactory knowledge of the disease. The majority of the respondents (96%) practiced self-isolation and social-distancing but only 36% follow all health recommendations. An apprehensive understanding of the current status in Africa through studies like KAP is crucial to avoid Africa being the next epicenter of the pandemic.
+
+    >>> Abstract
+      The current Coronavirus (COVID-19) pandemic has impacted and changed lives on a global scale since its emergence and spread from China in late 2019. It has caused millions of infections, and thousands of deaths worldwide. However, the control of this pandemic still remains unachievable in many African countries including Egypt and Nigeria, despite the application of some strict preventive and control measures. Therefore, this study assessed the knowledge, attitude, and perceptions of Egyptians and Nigerians towards the COVID-19 pandemic. This study was designed as a cross-sectional community-based questionnaire survey in both countries. Participants’ demography, knowledge, attitude, and perceptions towards the COVID-19 outbreak were obtained using a convenience sampling technique. Data collected were subjected to descriptive statistics and logistic regression analysis. A total of 1437 respondents were included in this preliminary report. The mean knowledge score was 14.7±2.3. The majority of the respondents (61.6%) had a satisfactory knowledge of the disease. Age (18–39 years), education (College/bachelors), and background of respondents were factors influencing knowledge levels. The attitude of most respondents (68.9%) towards instituted preventive measures was satisfactory with an average attitude score of 6.9 ± 1.2. The majority of the respondents (96%) practiced self-isolation and social-distancing but only 36% follow all health recommendations. The perception of most respondents (62.1%) on the global efforts at controlling the virus and preventing further spread was satisfactory with an average score of 10.9 ± 2.7. Only 22% of the respondents were satisfied with their country’s handling of the pandemic. An apprehensive understanding of the current status in Africa through studies like KAP is crucial to avoid Africa being the next epicenter of the pandemic. For the populace to follow standard infection prevention and control measures adequately, governments need to gain the trust of citizens by strengthening the health systems and improving surveillance activities in detecting cases, to offer the optimum health services to their communities.
+
+    -- exports
+      !a
+
+    / July, 2020 - Plos One
+    let !a self assert =
+
+  # Mediical Mask efficiency Screening
+  // An accessible method for screening aerosol filtration identifies poor-performing commercial masks and respirators
+  doi: https://doi.org/10.1038/s41370-020-0258-7
+  ref 'Schiling_et_al_07_27_2020
+    head = A number of commercially available masks in hospital inventories perform similarly to N95 masks for aerosol filtration of 0.2 μm and above, but there is a range of masks with relatively lower & poorer filtration efficiencies.  All masks functioned acceptably for breathability
+
+    >>> Background
+      The COVID-19 pandemic has presented an acute shortage of regulation-tested masks. Many of the alternatives available to hospitals have not been certified, leaving uncertainty about their ability to properly protect healthcare workers from SARS-CoV-2 transmission.
+
+    >>>  Objective
+      For situations where regulatory methods are not accessible, we present experimental methods to evaluate mask filtration and breathability quickly via cost-effective approaches (e.g., ~$2000 USD) that could be replicated in communities of need without extensive infrastructure. We demonstrate the need for screening by evaluating an existing diverse inventory of masks/respirators from a local hospital.
+
+    >>>  Methods
+      Two experimental approaches are presented to examine both aerosol filtration and flow impedance (i.e., breathability). For one of the approaches (“quick assessment”), screening for appropriate filtration could be performed under 10 min per mask, on average. Mask fit tests were conducted in tandem but are not the focus of this study.
+
+    >>>  Results
+      Tests conducted of 47 nonregulation masks reveal variable performance. A number of commercially available masks in hospital inventories perform similarly to N95 masks for aerosol filtration of 0.2 μm and above, but there is a range of masks with relatively lower filtration efficiencies (e.g., <90%) and a subset with poorer filtration (e.g., <70%). All masks functioned acceptably for breathability, and impedance was not correlated with filtration efficiency.
+
+    >>>  Significance
+      With simplified tests, organizations with mask/respirator shortages and uncertain inventories can make informed decisions about use and procurement.
+
+    -- exports
+      !a
+
+    / July, 2020 - J Expo Sci Environ Epidemiol
+    let !a self assert =
+
+  # Home Made Mask - Materials
+  // Filtration performances of non-medical materials as candidates for manufacturing facemasks and respirators
+  doi: https://doi.org/10.1016/j.ijheh.2020.113582
+  ref 'Hao_et_al_07_21_2020
+    head = We studied the influences of face velocity, number of filter material layers, and the size-dependent filtration efficiency. Several layers of household air filters can achieve similar filtration performance compared to N95 materials. The information will be crucial for healthcare personnel and the general public in manufacturing homemade face masks.
+
+    >>> Abstract
+      The recent outbreak of the coronavirus disease (COVID-19) is causing a shortage of personal protective equipment (PPE) in different countries around the world. Because the coronavirus can transmit through droplets and aerosols, facemasks and N95 respirators that require complex certification, are urgently needed. Given the situation, the U.S. Centers for Disease Control and Prevention (CDC) recommends that “in settings where facemasks are not available, healthcare personnel might use homemade masks (e.g., bandana, scarf) for the care of patients with COVID-19 as a last resort.” Although aerosols and droplets can be removed through the fibers of fabrics through a series of filtration mechanisms, their filtration performances have not been evaluated in detail. Moreover, there are a series of non-medical materials available on the market, such as household air filters, coffee filters, and different types of fabrics, which may be useful when facemasks and respirators are not available. In this study, we comprehensively evaluated the overall and size-dependent filtration performances of non-medical materials. The experiments were conducted under different face velocities to study its influence on size-dependent filtration performances. The flow resistance across these filter materials is measured as an indicator of the breathability of the materials. The results illustrate that multiple layers of household air filters are able to achieve similar filtration efficiencies compared to the N95 material without causing a significant increase in flow resistance. Considering that these air filters may shed micrometer fibers during the cutting and folding processes, it is recommended that these filters should be inserted in multiple layers of fabrics when manufacturing facemasks or respirators.
+
+
+    / July, 2020 - International Journal of hygiene
+    let !a self assert =
 
   # Mask and Respirators for HCW
   // Risk of SARS-CoV-2 transmission by aerosols, the rational use of masks, and protection of healthcare workers from COVID-19

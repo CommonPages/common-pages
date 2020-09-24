@@ -3,88 +3,148 @@ subject module Virus
 
   / Genetics
   subject module Genetics
-    head = Studies shows that SARS-CoV-2 has acquired mutations capable of substantially changing its pathogenicity. The genomic features may explain in part the infectiousness and transmissibility of SARS-CoV-2 in humans.
-    -- Genetic Diversity
-      'Phan_et_al_2020b
-      'Yao_et_al_04_23_2020
-      'Yao_et_al_04_23_2020.!a
-      'Paraskevis_et_al_2020
+    head = SARS-CoV-2 has acquired mutations capable of substantially changing its pathogenicity.
+
+    #  All genome [Sequence](https:www.google.com)
+    -- Genetic Similarities with Bat Coronaviruses
       'Lu_et_at_2020
       'Lu_et_at_2020.!a
+      'Benvenuto_et_al_2020
+    -- Evidence of change in its pathogenicity
+      'Yao_et_al_04_23_2020
+      'Yao_et_al_04_23_2020.!a
+    -- Mutation & Genetic Diversity
+      'Phan_et_al_2020b
+      'Paraskevis_et_al_2020
       'Dorp_et_al_06_30_2020
     -- D614G mutation
+      'Dorp_et_al_06_30_2020.!h
       'Zhang_et_al_06_12_2020
       'Tang_et_al_05_24_2020
-      'Dorp_et_al_06_30_2020.!h
+    >>>
+      In July 2020, scientists report that a more infectious SARS-CoV-2 variant with spike protein variant G614 has replaced D614 as the dominant form in the pandemic
+    -- G614
+      'Korber_et_al_07_03_2020
 
   / Structure
   subject module Structure
-    head = SARS-CoV-2 has four structural proteins, S (spike), E (envelope), M (membrane), and N (nucleocapsid) proteins; the N protein holds the RNA genome, and the S, E, and M proteins together create the viral envelope. Structure gives clue about the mechanism of cell entry, replication.
-    --
-      'Domling_et_al_05_20_2020
-      'Walls_et_al_2020
-      'Walls_et_al_2020.!a
-      'Wrapp_et_al_2020
-      'Coutard_et_al_2020
-      'Benvenuto_et_al_2020
-      'Gao_et_al_2020b
-      'Gao_et_al_2020b.!a
-      'Gao_et_al_2020b.!b
-      'Hillen_et_al_05_15_2020
-      'Anderson_et_al_2020.!c
-      'Liu_et_al_05_10_2020
+    head = SARS-CoV-2 has four structural proteins, known as the S (spike), E (envelope), M (membrane), and N (nucleocapsid) proteins & 16–17 non-structural proteins (ns1 to ns17)
 
+    --
+      StructuralProtein
+    --
+      'Figure_Virus_Structure
+    --
+      SpikeProtein
+    --
+      NonStructuralProtein
+
+
+    / Structural Protien
+    subject StructuralProtein
+      head = SARS-CoV-2 has four structural proteins, known as the S (spike), E (envelope), M (membrane), and N (nucleocapsid) proteins.
+      >>>
+        The N protein holds the RNA genome, and the S, E, and M proteins together create the {ViralEnvelope viral envelope}.
+      --
+        'Domling_et_al_05_20_2020
+
+    / Spike Protein
+    subject SpikeProtein
+      head = The Spike Protein, is responsible for allowing SARS-CoV-2 to attach and fuse with memebranes of host cell; specifically, its S1 subunit catalyzes attachment, the S2 subunit fusion.
+      --
+        'Anderson_et_al_2020.!c
+        'Walls_et_al_2020
+        'Walls_et_al_2020.!a
+        'Wrapp_et_al_2020
+        'Coutard_et_al_2020
+        'Liu_et_al_05_10_2020
+
+    / Non Structural Protein
+    subject NonStructuralProtein
+      head = SARS-CoV-2 genome encodes 16–17 non-structural proteins (ns1 to ns17), such as 3-chymotrypsin-like protease (3CLpro), papain-like protease (PLpro), helicase, and RNA-dependent RNA polymerase (RdRp).
+      --
+        'Gao_et_al_2020b
+        'Hillen_et_al_05_15_2020
 
   / Entry and Replication
   subject module Entry
-    head = SARS-CoV-2 uses the same cellular entry receptor, ACE2, as SARS-CoV. SARS-CoV-2 virion attaches to a target cell, the cell's protease TMPRSS2 cuts open the spike protein of the virus, exposing a fusion peptide in the S2 subunit, and the host receptor ACE2.
+    head = SARS-CoV-2 uses ACE2 receptor to enter host.
 
-    >>> Entry to host
-      SARS-Cov2 enters human body through nose and mouth, however entry through eyes is still unclear.
-    -- Through eyes, nose, mouth
-      'Ho_et_al_06_16_2020
-
-    >>> Replication
-      The virion then releases RNA into the cell and forces the cell to produce and disseminate copies of the virus, which infect more cells.
-    -- ACE2 & TMPRSS2
-      'Hoffman_et_al_2020
-      'Matsuyama_et_al_2020
-      'Stawiski_et_al_2020
-      'Wan_et_al_2020
-    >>>
-      SARS CoV-2 can enter central nervous system through ACE-2 Receptor and can invade many organs including brain
     --
-      'Chen_et_al_05_19_2020
-      'Puelles_et_al_05_13_2020
-      'Meinhardt_et_al_06_04_2020
-      'Subbarao_et_al_05_19_2020.!d
-    # S1 binding to Neuropilin may therefore contribute to viral entry
-    -- Neuropilin
-      'Daly_et_al_06_05_2020
-    -- Temperature Depence for Entry
-      'Vkovski_et_al_2020
-      'Vkovski_et_al_2020.!a
+      EntrytoHost
+    --
+      ACE2&TMPRSS2
+    --
+      Replication
+    --
+      EntrytoOrgans
+    --
+      Neuropilin
+    --
+      TemperatureDependency
 
-  / Shedding
-  subject module Shedding
-    head = Viral shedding may begin 2 to 3 days before the appearance of the first symptoms. Duration of the viral shedding varies signifcantly and may depend on severity.
 
-    >>>
-      Viral shedding is a phenomena of shedding SARS-Cov-2 from a body to outside the body.
-
-    / Viral Shedding
-    subject ViralShedding
-      head = Based on studies SARS-CoV-2 can actively replicate in upper respiratory tract, and is shed for a prolonged time after symptoms end, including in stool.
-      >>>
-        Viral RNA can be detected long after the disappearance of infectious virus.
+    / Entry to Host
+    subject EntrytoHost
+      head = SARS-Cov2 enters human body through nose and mouth, however entry through eyes is still unclear.
       --
-        'Woelfel_et_al_2020
-        'Atkinson_et_al_2020
-        'He_et_al_2020.!b
-        'Wölfel_et_al_2020.!h
-        'Woelfel_et_al_2020b.!e
-        'Yang_et_al_2020
-        'Xu_et_al_2020b
+        'Sungnak_et_al_04_23_2020
+        'Sungnak_et_al_04_23_2020.!a
+        'Gengler_et_al_02_20_2020
+        'Gengler_et_al_02_20_2020.!a
+      -- Ocular Transmission
+        'Ho_et_al_06_16_2020
+      >>>
+        SARS‐CoV‐2 infection via the ocular route is hypothesized to occur via drainage of virus‐laden tears into the nasal cavity through the nasolacrimal duct
+      --
+        'Sun_et_al_03_24_2020
+        'Sun_et_al_03_24_2020.!a
+
+    / ACE2 and TMPRSS2
+    subject ACE2&TMPRSS2
+      head = SARS-CoV-2 uses the same cellular entry receptor, ACE2, as SARS-CoV. SARS-CoV-2 virion attaches to a target cell, the cell's protease TMPRSS2 cuts open the spike protein of the virus, exposing a fusion peptide in the S2 subunit, and the host receptor ACE2.
+      -- ACE2 & TMPRSS2
+        'Hoffman_et_al_2020
+        'Matsuyama_et_al_2020
+        'Wan_et_al_2020
+
+    / Replication
+    subject Replication
+      head = The virion then releases RNA into the cell and forces the cell to produce and disseminate copies of the virus, which infect more cells.
+      --
+        'Figure_Virus_Replication
+
+    / Entry to Organs
+    subject EntrytoOrgans
+      head = SARS CoV-2 can enter central nervous system through ACE-2 Receptor and can invade many organs including brain
+      --
+        'Chen_et_al_05_19_2020
+        'Puelles_et_al_05_13_2020
+        'Meinhardt_et_al_06_04_2020
+        'Subbarao_et_al_05_19_2020.!d
+
+    / Neuropilin
+    subject Neuropilin
+      head = S1 binding to Neuropilin may therefore contribute to viral entry
+      --
+        'Daly_et_al_06_05_2020
+
+    / Temperature Dependency
+    subject TemperatureDependency
+      head =
+      --
+        'Vkovski_et_al_2020
+
+  / Viral Load & Shedding
+  subject module Shedding
+    head =
+
+    --
+      ViralLoad
+    >>>
+      Viral shedding may begin 2 to 3 days before the appearance of the first symptoms. Duration of the viral shedding varies signifcantly and may depend on severity.
+    --
+      ViralShedding
 
     / Viral Load
     subject ViralLoad
@@ -105,29 +165,39 @@ subject module Virus
         'Kim_et_al_2020b.!d
         'Pan_et_al_2020b
 
-    --
-      ViralShedding
-    --
-      ViralLoad
-    >>>
-      Some studies have found that SARS-CoV-2 can be present in Semen and Feces
-    --
-      Semen
-      Feces
+    / Viral Shedding
+    subject ViralShedding
+      head = Based on studies SARS-CoV-2 can actively replicate in upper respiratory tract, and is shed for a prolonged time after symptoms end, including in stool.
+      >>>
+        Viral RNA can be detected long after the disappearance of infectious virus.
+      --
+        'Woelfel_et_al_2020
+        'Atkinson_et_al_2020
+        'He_et_al_2020.!b
+        'Woelfel_et_al_2020b
+        'Yang_et_al_2020
+        'Xu_et_al_2020b
+        'Liu_et_al_2020c
 
-    / Semen
-    subject Semen
-      head = SARS-CoV-2 can be present in the semen of patients with COVID-19, and SARS-CoV-2 may still be detected in semen of recovering patients.
-      -- Semen
-        'Li_et_al_2020d
+      >>>
+        Some studies have found that SARS-CoV-2 can be present in Semen and Feces
+      --
+        Semen
+        Feces
 
-    / Feces
-    subject Feces
-      head = Studies have found prolonged presence of SARS-CoV-2 viral RNA in fecal samples tho the research on its infectiousness is still ongoing.
-      -- Feces
-        'Wu_et_al_2020d
-        'Pan_et_al_2020b.!f
-        'Woelfel_et_al_2020b.!i
+      / Semen
+      subject Semen
+        head = SARS-CoV-2 can be present in the semen of patients with COVID-19, and SARS-CoV-2 may still be detected in semen of recovering patients.
+        -- Semen
+          'Li_et_al_2020d
+
+      / Feces
+      subject Feces
+        head = Studies have found prolonged presence of SARS-CoV-2 viral RNA in fecal samples tho the research on its infectiousness is still ongoing.
+        -- Feces
+          'Wu_et_al_2020d
+          'Pan_et_al_2020b.!f
+          'Woelfel_et_al_2020b.!i
 
   # / Tranmission
   # subject module Transmission

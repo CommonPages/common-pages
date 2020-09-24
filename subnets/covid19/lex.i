@@ -10,6 +10,7 @@ import foundations.Immunology._
 import foundations.Epidemiology._
 import foundations.Medicine._
 import foundations.CoV2._
+import foundations.triage._
 
 # import claims.Diagnostics
 # import claims.Timeline

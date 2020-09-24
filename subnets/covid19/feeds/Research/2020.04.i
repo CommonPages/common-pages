@@ -108,7 +108,70 @@ feed April2020
 
   #
 
-  # Mask and Respirators Benefits 
+  # Entry through nose
+  // Sinonasal pathophysiology of SARS‐CoV‐2 and COVID‐19: A systematic review of the current evidence
+  doi: https://dx.doi.org/10.1002%2Flio2.384
+  ref 'Gengler_et_al_02_20_2020
+    head = The sinonasal tract may be an important site of infection while sinonasal viral shedding may be an important transmission mechanism—including HAI. Anosmia without nasal obstruction may be a highly specific indicator of COVID‐19.
+
+    >>> Objective
+      The ongoing pandemic of coronavirus disease (2019 coronavirus disease [COVID‐19]), caused by the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS‐CoV‐2) virus, is highly contagious with high morbidity and mortality. The role of the nasal and paranasal sinus cavities is increasingly recognized for COVID‐19 symptomatology and transmission. We therefore conducted a systematic review, synthesizing existing scientific evidence about sinonasal pathophysiology in COVID‐19.
+
+    >>> Methods
+      Systematic searches were performed of all indexed studies in PubMed/Medline and Cochrane databases through 28 March 2020 and studies searchable on preprints.com (including ArXiv and Scilit repositories) through 30 March 2020. Data extraction focused on sinonasal pathophysiology in COVID‐19.
+
+    >>> Results
+      A total of 19 studies were identified. The sinonasal cavity may be a major site of infection by SARS‐CoV‐2, where susceptibility genes required for infection are expressed at high levels and may be modulated by environmental and host factors. Viral shedding appears to be highest from the nose, therefore reflecting a major source for transmission. This has been highlighted by multiple reports of health care‐associated infection (HAI) during rhinologic procedures, which are now consequently considered to be high risk for SARS‐CoV‐2 transmission to health care workers. While sinonasal symptomatology, such as rhinorrhea or congestion, appears to be a rarer symptom of COVID‐19, anosmia without nasal obstruction is reported as highly specific predictor of COVID‐19+ patients.
+
+    >>> Conclusion
+      Sinonasal pathophysiology is increasingly important in our understanding of COVID‐19. The sinonasal tract may be an important site of infection while sinonasal viral shedding may be an important transmission mechanism—including HAI. Anosmia without nasal obstruction may be a highly specific indicator of COVID‐19.
+
+
+
+    -- exports
+      !a
+
+    / April, 2020 - Laryngoscope Investig Otolaryngol
+    let !a self assert = Infection by SARS‐CoV‐2 may occur via inhaled particles as small as aerosol (less than 5 μm in size) up to droplets (measuring greater than 20 μm in size), or by direct inoculation of the respiratory epithelium (ie, touching a surface with live virus and then touching one's face).
+
+  # Entry through Nose
+  // SARS-CoV-2 entry factors are highly expressed in nasal epithelial cells together with innate immune genes
+  doi: https://doi.org/10.1038/s41591-020-0868-6
+  ref 'Sungnak_et_al_04_23_2020
+    head = We explored multiple scRNA-seq datasets generated within the Human Cell Atlas (HCA) consortium and other resources and found that the SARS-CoV-2 entry receptor ACE2 and viral entry-associated protease TMPRSS2 are highly expressed in nasal goblet and ciliated cells.
+
+    >>> Abstract
+      We investigated SARS-CoV-2 potential tropism by surveying expression of viral entry-associated genes in single-cell RNA-sequencing data from multiple tissues from healthy human donors. We co-detected these transcripts in specific respiratory, corneal and intestinal epithelial cells, potentially explaining the high efficiency of SARS-CoV-2 transmission. These genes are co-expressed in nasal epithelial cells with genes involved in innate immunity, highlighting the cells’ potential role in initial viral infection, spread and clearance. The study offers a useful resource for further lines of inquiry with valuable clinical samples from COVID-19 patients and we provide our data in a comprehensive, open and user-friendly fashion at www.covid19cellatlas.org.
+
+    -- exports
+      !a
+
+    / April, 2020 - Nature
+    let !a self assert = These cells as loci of original infection and possible reservoirs for dissemination within and between individuals.
+
+  # Who should wear Mask - Policy
+  // Facemask shortage and the novel coronavirus disease (COVID-19) outbreak: Reflections on public health measures
+  doi: https://doi.org/10.1016/j.eclinm.2020.100329
+  ref 'Wu_et_al_04_03_2020
+    head = Implementing a universal facemask wearing policy in the whole of China could lead to severe facemask shortage. Governments should monitor domestic facemask supplies and give priority to healthcare workers. The risk of asymptomatic transmission and facemask shortages should be carefully evaluated before introducing a universal facemask wearing.
+
+    >>> Background
+      A novel coronavirus disease (COVID-19) outbreak due to the severe respiratory syndrome coronavirus (SARS-CoV-2) infection occurred in China in late December 2019. Facemask wearing with proper hand hygiene is considered an effective measure to prevent SARS-CoV-2 transmission, but facemask wearing has become a social concern due to the global facemask shortage. China is the major facemask producer in the world, contributing to 50% of global production. However, a universal facemask wearing policy would put an enormous burden on the facemask supply.
+
+    >>> Methods
+      We performed a policy review concerning facemasks using government websites and mathematical modelling shortage analyses based on data obtained from the National Health Commission (NHC), the Ministry of Industry and Information Technology (MIIT), the Centre for Disease Control and Prevention (CDC), and General Administration of Customs (GAC) of the People's Republic of China. Three scenarios with respect to wearing facemasks were considered: (1) a universal facemask wearing policy implementation in all regions of mainland China; (2) a universal facemask wearing policy implementation only in the epicentre (Hubei province, China); and (3) no implementation of a universal facemask wearing policy.
+
+    >>> Findings
+      Regardless of different universal facemask wearing policy scenarios, facemask shortage would occur but eventually end during our prediction period (from 20 Jan 2020 to 30 Jun 2020). The duration of the facemask shortage described in the scenarios of a country-wide universal facemask wearing policy, a universal facemask wearing policy in the epicentre, and no universal facemask wearing policy were 132, seven, and four days, respectively. During the prediction period, the largest daily facemask shortages were predicted to be 589·5, 49·3, and 37·5 million in each of the three scenarios, respectively. In any scenario, an N95 mask shortage was predicted to occur on 24 January 2020 with a daily facemask shortage of 2·2 million.
+
+    >>> Interpretation
+      Implementing a universal facemask wearing policy in the whole of China could lead to severe facemask shortage. Without effective public communication, a universal facemask wearing policy could result in societal panic and subsequently, increase the nationwide and worldwide demand for facemasks. These increased demands could cause a facemask shortage for healthcare workers and reduce the effectiveness of outbreak control in the affected regions, eventually leading to a pandemic. To fight novel infectious disease outbreaks, such as COVID-19, governments should monitor domestic facemask supplies and give priority to healthcare workers. The risk of asymptomatic transmission and facemask shortages should be carefully evaluated before introducing a universal facemask wearing policy in high-risk regions. Public health measures aimed at improving hand hygiene and effective public communication should be considered along with the facemask policy.
+
+    / April, 2020 - E Clinical Medicine
+    let !a self assert =
+
+
+  # Mask and Respirators Benefits
   // A rapid systematic review of the efficacy of face masks and respirators against coronaviruses and other respiratory transmissible viruses for the community, healthcare workers and sick patients
   doi: https://doi.org/10.1016/j.ijnurstu.2020.103629
   ref 'Maclntyre_et_al_04_30_2020
@@ -1453,7 +1516,7 @@ feed April2020
   // The spatial and cell-type distribution of SARS-CoV-2 receptor ACE2 in human and mouse brain
   doi: https://doi.org/10.1101/2020.04.07.030650
   article 'Chen_et_al_05_19_2020
-    head = Our results reveal an outline of ACE2 or Ace2 distribution in the human and mouse brain, which indicates the brain infection of SARS-CoV-2 may be capable to infection the brain and result in serious CNS symptoms in COVID-19 patients. The finding of high ACE2 expression of in central glial substance and brain ventricles suggest two potential novel routes for the SARS-CoV-2 entering the CSF and/or spreading around the brain.
+    head = Our results reveal an outline of ACE2  distribution in the human and mouse brain, which indicates the brain infection of SARS-CoV-2 may be capable to infection the brain and result in serious CNS symptoms in COVID-19 patients. The finding of high ACE2 expression of in central glial substance and brain ventricles suggest two potential novel routes for the SARS-CoV-2 entering the CSF and/or spreading around the brain.
 
     >>> Abstract
       By engaging angiotensin-converting enzyme 2 (ACE2 or Ace2), the novel pathogenic SARS-coronavirus 2 (SARS-CoV-2) may invade host cells in many organs, including the brain. However, the distribution of ACE2 in the brain is still obscure. Here we investigated the ACE2 expression in the brain by analyzing data from publicly available brain transcriptome databases. According to our spatial distribution analysis, ACE2 was relatively highly expressed in some important brain areas, such as the substantia nigra and brain ventricles. According to our cell-type distribution analysis, the expression of ACE2 were found in many neurons (both excitatory and inhibitory neurons) and some non-neuron cells (mainly astrocytes and oligodendrocytes) in human middle temporal gyrus and posterior cingulate cortex, but the ACE2-expressing cells was none in the prefrontal cortex and very few in the hippocampus. Except for the additional high expression of Ace2 in the olfactory bulb areas for spatial distribution as well as in the pericytes and endothelial cells for cell-type distribution, the distribution of Ace2 in mouse brain was similar to that in the human brain. Thus, our results reveal an outline of ACE2/Ace2 distribution in the human and mouse brain, which indicates the brain infection of SARS-CoV-2 may be capable to result in serious central nervous system symptoms in coronavirus disease 2019 (COVID-19) patients.
@@ -1497,7 +1560,7 @@ feed April2020
   // Patient-derived mutations impact pathogenicity of SARS-CoV-2
   doi: https://doi.org/10.1101/2020.04.14.20060160
   article 'Yao_et_al_04_23_2020
-    head = A diverse collection of mutations was identified in the 11 viral isolates, including two sets of founding mutations for two major clusters of viruses currently infecting the world population. In addition, 19 of the 31 identified mutations are novel, despite the relatively early sampling dates, indicating that the true diversity of the viral strains is still largely underappreciated.
+    head = We report functional characterizations of 11 patient-derived viral isolates, all of which have at least one mutation. We observed intrapersonal variation and 6 different mutations in the spike glycoprotein (S protein), including 2 different SNVs that led to the same missense mutation.
 
     >>> Abstract
       The sudden outbreak of the severe acute respiratory syndrome-coronavirus (SARS-CoV-2) has spread globally with more than 1,300,000 patients diagnosed and a death toll of 70,000. Current genomic survey data suggest that single nucleotide variants (SNVs) are abundant. However, no mutation has been directly linked with functional changes in viral pathogenicity. Here we report functional characterizations of 11 patient-derived viral isolates, all of which have at least one mutation. Importantly, these viral isolates show significant variation in cytopathic effects and viral load, up to 270-fold differences, when infecting Vero-E6 cells. We observed intrapersonal variation and 6 different mutations in the spike glycoprotein (S protein), including 2 different SNVs that led to the same missense mutation. Therefore, we provide direct evidence that the SARS-CoV-2 has acquired mutations capable of substantially changing its pathogenicity.
@@ -1506,7 +1569,7 @@ feed April2020
       !a
 
     / April, 2020 - medRxiv
-    let !a self assert = Viral isolates show significant variation in cytopathic effects and viral load, up to 270-fold differences, when infecting Vero-E6 cells. We observed intrapersonal variation and 6 different mutations in the spike glycoprotein (S protein), including 2 different SNVs that led to the same missense mutation.
+    let !a self assert = We provide direct evidence that the SARS-CoV-2 has acquired mutations capable of substantially changing its pathogenicity.
 
 
   # Serological Testing
@@ -1982,20 +2045,16 @@ feed April2020
   // Structure of the RNA-dependent RNA polymerase from COVID-19 virus
   doi: https://doi.org/10.1126/science.abb7498
   article 'Gao_et_al_2020b
-    head = The structure of the COVID-19 virus nsp12 contains a right-hand RdRp domain (residues S367 to F920) and a nidovirus-specific N-terminal extension domain (residues D60 to R249) that adopts a nidovirus RdRp-associated nucleotidyltransferase (NiRAN) (10) architecture.
+    head = We report the cryo–electron microscopy structure of COVID-19 virus full-length nsp12 in complex with cofactors nsp7 and nsp8 at 2.9-angstrom resolution. In addition to the conserved architecture of the polymerase core of the viral polymerase family, nsp12 possesses a newly identified β-hairpin domain at its N terminus.
 
     >>> Abstract
       A novel coronavirus [severe acute respiratory syndrome–coronavirus 2 (SARS-CoV-2)] outbreak has caused a global coronavirus disease 2019 (COVID-19) pandemic, resulting in tens of thousands of infections and thousands of deaths worldwide. The RNA-dependent RNA polymerase [(RdRp), also named nsp12] is the central component of coronaviral replication and transcription machinery, and it appears to be a primary target for the antiviral drug remdesivir. We report the cryo–electron microscopy structure of COVID-19 virus full-length nsp12 in complex with cofactors nsp7 and nsp8 at 2.9-angstrom resolution. In addition to the conserved architecture of the polymerase core of the viral polymerase family, nsp12 possesses a newly identified β-hairpin domain at its N terminus. A comparative analysis model shows how remdesivir binds to this polymerase. The structure provides a basis for the design of new antiviral therapeutics that target viral RdRp.
 
-    -- exports
-      !a
-      !b
-
-    / April, 2020 - Science
-    let !a self assert = The polymerase domain and NiRAN domain are connected by an interface domain (residues A250 to R365). An additional N-terminal β hairpin (residues D29 to K50), built with the guidance of an unambiguous cryo-EM map, inserts into the groove clamped by the NiRAN domain and the palm subdomain in the RdRp domain.
-
-    / April, 2020 - Science
-    let !b self assert = The nsp7-nsp8 pair shows a conserved structure similar to that of the SARS-CoV nsp7-nsp8 pair. The orientation of the N-terminal helix of the separate nsp8 monomer bound to nsp12 is shifted compared with that in the nsp7-nsp8 pair. The 13 additional amino acid residues resolved at the N-terminal of nsp8 show that the long shaft of its well-known golf club shape is bent.
+    # / April, 2020 - Science
+    # let !a self assert = The polymerase domain and NiRAN domain are connected by an interface domain (residues A250 to R365). An additional N-terminal β hairpin (residues D29 to K50), built with the guidance of an unambiguous cryo-EM map, inserts into the groove clamped by the NiRAN domain and the palm subdomain in the RdRp domain.
+    #
+    # / April, 2020 - Science
+    # let !b self assert = The nsp7-nsp8 pair shows a conserved structure similar to that of the SARS-CoV nsp7-nsp8 pair. The orientation of the N-terminal helix of the separate nsp8 monomer bound to nsp12 is shifted compared with that in the nsp7-nsp8 pair. The 13 additional amino acid residues resolved at the N-terminal of nsp8 show that the long shaft of its well-known golf club shape is bent.
 
 
   # Shedding
@@ -2055,13 +2114,12 @@ feed April2020
   // Disparate temperature-dependent virus – host dynamics for SARS-CoV-2 and SARS-CoV in the human respiratory epithelium
   doi: https://doi.org/10.1101/2020.04.27.062315
   article 'Vkovski_et_al_2020
-    head = SARS-CoV-2, in contrast to SARS-CoV, replicated more efficiently at temperatures encountered in the upper respiratory tract, and displayed higher sensitivity to type I and type III IFNs than SARS-CoV. Time-resolved transcriptome analysis highlighted a temperature-dependent induction of IFN-mediated antiviral response, whose amplitude inversely correlated with the replication kinetic efficiencies of both SARS-CoV-2 and SARS-CoV at temperatures found in the upper and lower respiratory tract.
+    head = We provide crucial insights of the profound impact of ambient temperatures on viral replication and associated pivotal virus - host interaction dynamics. SARS-CoV-2, in contrast to SARS-CoV, replicated more efficiently at temperatures encountered in the upper respiratory tract, and displayed higher sensitivity to type I and type III IFNs than SARS-CoV.
 
     >>> Abstract
       The human conductive respiratory tract spans a long anatomical distance and represents an important barrier to constrain invading respiratory pathogens. The disparate ambient temperatures found in the upper and lower respiratory tract have been demonstrated to influence the replication kinetics of common cold viruses as well as the associated host responses. Here, we employed the human airway epithelial cell (hAEC) culture model to investigate the impact of ambient temperatures found in the upper and lower respiratory tract, 33°C and 37°C, respectively, on the viral replication kinetics and host innate immune response dynamics during SARS-CoV-2 and SARS-CoV infections. Strikingly, SARS-CoV-2, in contrast to SARS-CoV, replicated more efficiently at temperatures encountered in the upper respiratory tract, and displayed higher sensitivity to type I and type III IFNs than SARS-CoV. Time-resolved transcriptome analysis highlighted a temperature-dependent induction of IFN-mediated antiviral response, whose amplitude inversely correlated with the replication kinetic efficiencies of both SARS-CoV-2 and SARS-CoV at temperatures found in the upper and lower respiratory tract. Altogether, these data reflect clinical features of SARS-CoV-2 and SARS-CoV and subsequently, their associated human-to-human transmission efficiencies. They provide crucial insights of the profound impact of ambient temperatures on viral replication and associated pivotal virus - host interaction dynamics. This knowledge can be exploited for the development of novel intervention strategies against SARS-CoV-2.
 
-    -- exports
-      !a
+
 
     / April, 2020 - bioRxiv
     let !a self assert = Altogether, these data reflect clinical features of SARS-CoV-2 and SARS-CoV and subsequently, their associated human-to-human transmission efficiencies. They provide crucial insights of the profound impact of ambient temperatures on viral replication and associated pivotal virus - host interaction dynamics.
@@ -2365,7 +2423,7 @@ feed April2020
   // High Contagiousness and Rapid Spread of Severe Acute Respiratory Syndrome Coronavirus 2
   doi: https://doi.org/10.3201/eid2607.200282
   article 'Sanche_et_al_2020
-    head = We estimated several basic epidemiologic parameters, including the incubation period (4.2 days), a time dependent duration from symptom onset to hospitalization (changing from 5.5 days in early January to 1.5 days in late January outside Hubei Province), and the time from symptom onset to death (16.1 days). We estimated the growth rate of the early outbreak in Wuhan to be 0.21–0.30 per day (a doubling time of 2.3–3.3 days). Assuming a serial interval of 6–9 days, we calculated a median R0 value of 5.7 (95% CI 3.8–8.9).
+    head = We estimated incubation period (4.2 days), a time dependent duration from symptom onset to hospitalization (changing from 5.5 days in early January to 1.5 days in late January), and the time from symptom onset to death (16.1 days). We estimated the growth rate of the early outbreak in Wuhan to be 0.21–0.30 per day (a doubling time of 2.3–3.3 days). Assuming a serial interval of 6–9 days, we calculated a median R0 value of 5.7.
 
     >>> Abstract
       Severe acute respiratory syndrome coronavirus 2 is the causative agent of the 2019 novel coronavirus disease pandemic. Initial estimates of the early dynamics of the outbreak in Wuhan, China, suggested a doubling time of the number of infected persons of 6–7 days and a basic reproductive number (R0) of 2.2–2.7. We collected extensive individual case reports across China and estimated key epidemiologic parameters, including the incubation period. We then designed 2 mathematical modeling approaches to infer the outbreak dynamics in Wuhan by using high-resolution domestic travel and infection data. Results show that the doubling time early in the epidemic in Wuhan was 2.3–3.3 days. Assuming a serial interval of 6–9 days, we calculated a median R0 value of 5.7 (95% CI 3.8–8.9). We further show that active surveillance, contact tracing, quarantine, and early strong social distancing efforts are needed to stop transmission of the virus.
@@ -2383,7 +2441,7 @@ feed April2020
     let !a self assert = Our estimate of the time from initial exposure to symptom onset (i.e., the incubation period) is 4.2 days (95% CI 3.5–5.1 days). The time from symptom onset to hospitalization showed evidence of time dependence. Before January 18, the time from symptom onset to hospitalization was 5.5 days (95% CI 4.6–6.6 days), whereas after January 18, the duration shortened significantly to 1.5 days (95% CI 1.2–1.9 days).
 
     / April, 2020 - Emerging Infectious Diseases
-    let !b self assert = We also found that the time from initial hospital admittance to discharge was 11.5 days (95% CI 8.0–17.3 days) and from initial hospital admittance to death was 11.2 days (95% CI 8.7–14.9 days). The time from symptom onset to death was estimated to be 16.1 days (95% CI 13.1–20.2 days).
+    let !b self assert = We also found that the time from initial hospital admittance to discharge was 11.5 days  and from initial hospital admittance to death was 11.2 days . The time from symptom onset to death was estimated to be 16.1 days.
 
     / April, 2020 - Emerging Infectious Diseases
     let !c self assert = By using 2 distinct approaches, the analysis suggest that although there exist uncertainties depending on the level of surveillance, the exponential growth rate of the outbreak is probably 0.21–0.3/day. This estimation is much higher than previous reports, in which the growth rate was estimated to be 0.1–0.14/day.
@@ -2579,7 +2637,7 @@ feed April2020
     let !a self assert = On the first survey, which was conducted around the time the town lockdown started, we found a prevalence of infection of 2.6% (95% confidence interval (CI) 2.1-3.3%). On the second survey, which was conducted at the end of the lockdown, we found a prevalence of 1.2% (95% CI 0.8-1.8%).
 
     / April, 2020 - MedRxiv
-    let !b self assert = Notably, 43.2% (95% CI 32.2-54.7%) of the confirmed SARS-CoV-2 infections detected across the two surveys were asymptomatic.
+    let !b self assert = Notably, 43.2% of the confirmed SARS-CoV-2 infections detected across the two surveys were asymptomatic.
 
     / April, 2020 - MedRxiv
     let !c self assert = Among confirmed SARS-CoV-2 infections, we did not observe significant differences in the frequency of asymptomatic infection in the different age groups.
@@ -3129,7 +3187,7 @@ feed April2020
   // Full-genome evolutionary analysis of the novel corona virus (2019-nCoV) rejects the hypothesis of emergence as a result of a recent recombination event
   doi: https://doi.org/10.1016/j.meegid.2020.104212
   article 'Paraskevis_et_al_2020
-    head = The levels of genetic similarity between the 2019-nCoV and RaTG13 suggest that the latter does not provide the exact variant that caused the outbreak in humans, but the hypothesis that 2019-nCoV has originated from bats is very likely.
+    head = The levels of genetic similarity between the 2019-nCoV and RaTG13 suggest that the latter does not provide the exact variant that caused the outbreak in humans, but the hypothesis that 2019-nCoV has originated from bats is very likely. 2019-nCov is not-mosaic consisting in almost half of its genome of a distinct lineage within the betacoronavirus.
 
     >>> Background
       A novel coronavirus (2019-nCoV) associated with human to human transmission and severe human infection has been recently reported from the city of Wuhan in China. Our objectives were to characterize the genetic relationships of the 2019-nCoV and to search for putative recombination within the subgenus of sarbecovirus.
@@ -3526,7 +3584,7 @@ feed April2020
   // Human ACE2 receptor polymorphisms predict SARS-CoV-2 susceptibility
   doi: https://doi.org/10.1101/2020.04.07.024752
   article 'Stawiski_et_al_2020
-    head = In this study, we have analyzed ACE2 protein-altering variants in a large cohort of human population groups and identified polymorphisms that either likely protect or render individuals more susceptible to the virus. Understanding these changes at the molecular level, combined with the genotype and epidemiological data will allow the elucidation of population risk profiles and also help advance therapeutics such as a rationally designed soluble ACE2 receptor for treatment of COVID-19.
+    head = We have analyzed ACE2 protein-altering variants in a large cohort of human population groups and identified polymorphisms that either likely protect or render individuals more susceptible to the virus. Understanding these changes at the molecular level, combined with the genotype and epidemiological data will allow the elucidation of population risk profiles and also help advance therapeutics such as a rationally designed soluble ACE2 receptor for treatment of COVID-19.
 
     -- exports
       !a

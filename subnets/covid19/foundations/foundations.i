@@ -165,6 +165,7 @@ model module foundations
     model ViralShedding
       head = Viral shedding refers to the expulsion and release of virus progeny following successful reproduction during a host-cell infection. The term is used to refer to shedding from a single cell, shedding from one part of the body into another part of the body, and shedding from bodies into the environment.
 
+
     model Transmission
       head = Transmission is the passing of a pathogen causing communicable disease from an infected host individual or group to a particular individual or group, regardless of whether the other individual was previously infected.
 

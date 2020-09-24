@@ -1265,6 +1265,9 @@ subject module Transmission
         'Murphy_et_al_06_21_2008
         'Andrade_et_al_11_02_2017
 
+      -- Ayush Edits from Past paper (Unsorted)
+        'Colman_et_al_2018  
+
     / Superspreader
     subject Superspreaders
       head = Superspreaders are particular types of people and particular events/congregations which are highly probable to spread the infection very widely.

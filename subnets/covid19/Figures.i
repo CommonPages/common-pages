@@ -34,3 +34,17 @@ space Figures
   height: 417
   caption: A simple face mask.
   image 'Figure_Simple_Mask
+
+  name: Figure:
+  url: https://www.ncbi.nlm.nih.gov/books/NBK554776/bin/Covid__Replication.jpg
+  width: 640
+  height: 417
+  caption: SARS-CoV-2 Replication
+  image 'Figure_Virus_Replication
+
+  name: Figure:
+  url: https://www.ncbi.nlm.nih.gov/books/NBK554776/bin/SARS-CoV__2__Structure.jpg
+  width: 640
+  height: 417
+  caption: SARS-CoV-2 Structure
+  image 'Figure_Virus_Structure 

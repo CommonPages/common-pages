@@ -1,3 +1,5 @@
+. tmp
+
 # += This document is an update of the guidance published on 6 April 2020 and includes updated scientific evidence relevant to the use of masks for preventing transmission of Coronavirus disease 2019 (COVID-19) as well as practical considerations.
 #
 # += The main differences from the previous version include the following:

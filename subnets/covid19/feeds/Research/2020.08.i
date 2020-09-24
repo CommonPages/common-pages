@@ -2,9 +2,84 @@
 feed August2020
   --
     'Boulware_et_al_08_06_2020
-    
+
 
   #
+
+  # Why Face Mask 
+  // Mask or no mask for COVID-19: A public health and market study
+  doi: https://doi.org/10.1371/journal.pone.0237691
+  ref 'Li_et_al_08_14_2020
+    head = Our study evaluate the potential impact of the utilization of normal medical masks in public to combat the COVID-19. Wearing a face mask can be effectively combined with social distancing to flatten the epidemic curve. Wearing a mask presents a rational way to implement as an NPI to combat COVID-19.
+
+    >>> Abstract
+      Efficient strategies to contain the coronavirus disease 2019 (COVID-19) pandemic are peremptory to relieve the negatively impacted public health and global economy, with the full scope yet to unfold. In the absence of highly effective drugs, vaccines, and abundant medical resources, many measures are used to manage the infection rate and avoid exhausting limited hospital resources. Wearing masks is among the non-pharmaceutical intervention (NPI) measures that could be effectively implemented at a minimum cost and without dramatically disrupting social practices. The mask-wearing guidelines vary significantly across countries. Regardless of the debates in the medical community and the global mask production shortage, more countries and regions are moving forward with recommendations or mandates to wear masks in public. Our study combines mathematical modeling and existing scientific evidence to evaluate the potential impact of the utilization of normal medical masks in public to combat the COVID-19 pandemic. We consider three key factors that contribute to the effectiveness of wearing a quality mask in reducing the transmission risk, including the mask aerosol reduction rate, mask population coverage, and mask availability. We first simulate the impact of these three factors on the virus reproduction number and infection attack rate in a general population. Using the intervened viral transmission route by wearing a mask, we further model the impact of mask-wearing on the epidemic curve with increasing mask awareness and availability. Our study indicates that wearing a face mask can be effectively combined with social distancing to flatten the epidemic curve. Wearing a mask presents a rational way to implement as an NPI to combat COVID-19. We recognize our study provides a projection based only on currently available data and estimates potential probabilities. As such, our model warrants further validation studies.
+
+    -- exports
+      !a
+
+    / August, 2020 - Plos One
+    let !a self assert =
+
+  # Dust Mask
+  // Evaluation of wearing comfort of dust masks
+  doi: https://doi.org/10.1371/journal.pone.0237848
+  ref 'Choi_et_al_08_20_2020
+    head = This study presents a technique to quantify the wearing comfort of dust masks. We present a comprehensive evaluation of the performance of dust masks in terms of not only the filtering performance but also the wearing comfort. Our study suggests some design principles for dust mask filters, auxiliary electric fans, and check valves.
+
+    >>> Abstract
+      Dust masks are widely used to prevent the inhalation of particulate matter into the human respiratory organs in polluted air environments. The filter of a dust mask inherently obstructs the natural respiratory air flows, and this flow resistance is mainly responsible for the discomfort experienced when wearing a dust mask. In atmospheric conditions seriously contaminated with fine dust, it is recommended that common citizens wear a dust mask in their everyday lives, yet many people are reluctant to wear a dust mask owing to the discomfort experienced when wearing it for a long time. Understanding of physical reasons for the discomfort is thus crucial in designing a dust mask, but remains far from clear. This study presents a technique to quantify the wearing comfort of dust masks. By developing a respiration simulator to measure the pressure loss across a dust mask, we assessed the energy costs to overcome flow resistance when breathing through various types of dust masks. The energy cost for a single inhalation varies with the mask type in a range between 0 and 10 mJ. We compared the results with the survey results of 40 people about the wearing comfort of the dust masks, which revealed that the wearing comfort crucially depends on the energy cost required for air inhalation though the dust mask. Using the measured energy cost during inhalation as a parameter to quantify the wearing comfort, we present a comprehensive evaluation of the performance of dust masks in terms of not only the filtering performance but also the wearing comfort. Our study suggests some design principles for dust mask filters, auxiliary electric fans, and check valves.
+
+    -- exports
+      !a
+
+    / August, 2020 - Plos One
+    let !a self assert =
+
+  # Mask Filters - New method for developing mask
+  // Salt coatings functionalize inert membranes into high-performing filters against infectious respiratory diseases
+  doi: https://doi.org/10.1038/s41598-020-70623-9
+  ref 'Rubino_et_al_08_17_2020
+    head = Conventional technologies have several drawbacks (i.e., cross-infection risk, filtration efficiency improvements limited by difficulty in breathing, and no safe reusability). We developed an antimicrobial respiratory protective system with high filtering performance and improved breathability levels compared to regular masks.
+
+    >>> Abstract
+      Respiratory protection is key in infection prevention of airborne diseases, as highlighted by the COVID-19 pandemic for instance. Conventional technologies have several drawbacks (i.e., cross-infection risk, filtration efficiency improvements limited by difficulty in breathing, and no safe reusability), which have yet to be addressed in a single device. Here, we report the development of a filter overcoming the major technical challenges of respiratory protective devices. Large-pore membranes, offering high breathability but low bacteria capture, were functionalized to have a uniform salt layer on the fibers. The salt-functionalized membranes achieved high filtration efficiency as opposed to the bare membrane, with differences of up to 48%, while maintaining high breathability (> 60% increase compared to commercial surgical masks even for the thickest salt filters tested). The salt-functionalized filters quickly killed Gram-positive and Gram-negative bacteria aerosols in vitro, with CFU reductions observed as early as within 5 min, and in vivo by causing structural damage due to salt recrystallization. The salt coatings retained the pathogen inactivation capability at harsh environmental conditions (37 °C and a relative humidity of 70%, 80% and 90%). Combination of these properties in one filter will lead to the production of an effective device, comprehensibly mitigating infection transmission globally.
+
+    -- exports
+      !a
+
+    / August, 2020 - Scientific Reports
+    let !a self assert =
+
+  # Mask while Coughing and Sneezing
+  // Universal trends in human cough airflows at large distances
+  doi: https://doi.org/10.1063/5.0021666
+  ref 'Simha_et_al_08_25_2020
+    head = Voluntary coughs from five test subjects were analyzed. Without masks, the airflow from coughs is capable of traversing at least 1.5 m–3.0 m. A disposable surgical mask greatly reduces this distance to between 0.5 m and 1.5 m. N95 masks have the best effectiveness and completely contain the horizontal spread to between 0.1 m and 0.25 m.
+
+    >>> ABSTRACT
+      Coughs are one of the primary means of transmission of diseases such as influenza and SARS-CoV-2 (COVID-19). Disease spreading occurs by the expulsion of pathogen containing aerosol droplets. Fine droplets can pass through layers of masks and are carried away by the exhaled airflow unlike larger droplets that settle down due to gravity. Hence, it is important to quantitatively assess the maximum distance of travel of typical human coughs with and without different types of masks. Even though near field data are available near the mouth, far field data are scarce. In this study, the schlieren method that is a highly sensitive, non-intrusive flow visualization technique is used. It can directly image weak density gradients produced by coughs. An assessment of different methods of covering the mouth while coughing is arrived at by using observations from high speed schlieren images. The effectiveness of coughing into the elbow is examined. The velocity of propagation of coughs and the distance of propagation with and without masks are quantified. It is also found that normalizing the distance–velocity profiles causes all the data to collapse onto a universal non-dimensional curve irrespective of the usage of different types of masks or test subjects. Visualization of cough flow fields and analysis of experimental data reveal that the flow physics is governed by the propagation of viscous vortex rings.
+
+
+    -- exports
+      !a
+
+    / August, 2020 - Physics of Fluids
+    let !a self assert =  Long sleeve that covers the elbow substantially reduces the ejection of the cough airflow into the environment compared to coughing into a bare elbow.
+
+
+  # Side Effects of Facemask while Exercising
+  // COVID-19: Electrophysiological mechanisms underlying sudden cardiac death during exercise with facemasks
+  doi: https://doi.org/10.1016/j.mehy.2020.110177
+  ref 'Lee_et_al_08_11_2020
+    head = Exercise with facemasks may increase the risk of ventricular tachycardia/ventricular fibrillation (VT/VF) leading to SCD via the development of acute and/or intermittent hypoxia and hypercapnia. We discuss the potential underlying mechanisms including increases in adrenergic stimulation and oxidative stress leading to electrophysiological abnormalities that promote arrhythmias via non-reentrant and reentrant mechanisms.
+
+    >>> Abstract
+      The mandatory use of facemasks is a public health measure implemented by various countries in response to the novel coronavirus disease 19 (COVID-19) pandemic. However, there have been case reports of sudden cardiac death (SCD) with the wearing of facemasks during exercise. In this paper, we hypothesize that exercise with facemasks may increase the risk of ventricular tachycardia/ventricular fibrillation (VT/VF) leading to SCD via the development of acute and/or intermittent hypoxia and hypercapnia. We discuss the potential underlying mechanisms including increases in adrenergic stimulation and oxidative stress leading to electrophysiological abnormalities that promote arrhythmias via non-reentrant and reentrant mechanisms. Given the interplay of multiple variables contributing to the increased arrhythmic risk, we advise avoidance of a facemask during high intensity exercise, or if wearing of a mask is mandatory, exercise intensity should remain low to avoid precipitation of lethal arrhythmias. However, we cannot exclude the possibility of an arrhythmic substrate even with low intensity exercise especially in those with established chronic cardiovascular disease in whom baseline electrophysiological abnormalities may be found.
+
+
+    / August, 2020 - Medical Hypotheses
+    let !a self assert =
 
   # Decontamination of Mask
   // Microwave- and Heat-Based Decontamination of N95 Filtering Facepiece Respirators: A Systematic Review
@@ -26,9 +101,6 @@ feed August2020
 
     >>> Conclusions
       Microwave irradiation and heat may be safe and effective viral decontamination options for N95 FFR reuse during critical shortages. The evidence does not support autoclaving or high-heat (>90oC) approaches. Physical degradation may be an issue for certain mask models, and more real-world evidence on fit is needed.
-
-    -- exports
-      !a
 
     / August, 2020 - Journal of Hospital Infection
     let !a self assert =

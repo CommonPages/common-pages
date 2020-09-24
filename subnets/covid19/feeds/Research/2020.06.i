@@ -53,6 +53,40 @@ feed June2020
 
   #
 
+  # Limitations of PPE ?
+  // Impact of Personal Protective Equipment on Surgical Performance During the COVID-19 Pandemic
+  doi: https://doi.org/10.1007/s00268-020-05648-2
+  ref 'Benitez_et_al_06_20_2020
+    head = Surgeons perceived impediment for both visibility and communication, and other non-technical skills while using PPE on emergency surgery in COVID-19 patients. Their perceived lack of protection and comfort and increased fatigue may have inhibited their optimal surgical performance. More attention should be placed in the design of more user-friendly equipment, given the possibility of a second wave of the pandemic.
+
+    >>> Background
+      The Severe Acute Respiratory Syndrome Coronavirus 2 pandemic has exposed surgeons to hazardous working conditions, imposing the need for personal protective equipment (PPE) use during surgery. The use of such equipment may affect their non-technical skills, augment fatigue, and affect performance. This study aimed to assess the surgeons’ perceptions of the impact of wearing PPE during emergency surgery throughout the pandemic.
+
+    >>> Methods
+      An international cooperation group conducted an anonymous online survey among surgeons from over 30 countries, to assess perceptions about the impact of PPE use on non-technical skills, overall comfort, decision making, and surgical performance during emergency surgery on COVID-19 patients.
+
+    >>> Results
+      Responses to the survey (134) were received from surgeons based on 26 countries. The vast majority (72%) were males. More than half of the respondents (54%) felt that their surgical performance was hampered with PPE. Visual impairment was reported by 63%, whereas 54% had communication impediments. Less than half (48%) felt protected with the use of PPE, and the same proportion perceived that the use of such equipment influenced their decision making. Decreased overall comfort was cited by 66%, and 82% experienced increased surgical fatigue.
+
+    >>> Conclusions
+      Surgeons perceived impediment for both visibility and communication, and other non-technical skills while using PPE on emergency surgery in COVID-19 patients. Their perceived lack of protection and comfort and increased fatigue may have inhibited their optimal surgical performance. More attention should be placed in the design of more user-friendly equipment, given the possibility of a second wave of the pandemic.
+
+    / June, 2020 - World J Surg
+    let !a self assert =
+
+  # Facemask Limitations while Exercising
+  // “Exercise with facemask; Are we handling a devil's sword?” – A physiological hypothesis
+  doi: https://doi.org/10.1016/j.mehy.2020.110002
+  ref 'Chandrashekar_et_al_06_22_2020
+    head = Exercising with facemasks may reduce available Oxygen and increase air trapping preventing substantial carbon dioxide exchange. The hypercapnic hypoxia may potentially increase acidic environment, cardiac overload, anaerobic metabolism and renal overload, which may substantially aggravate the underlying pathology of established chronic diseases.
+
+    >>> Abstract
+      Straying away from a sedentary lifestyle is essential, especially in these troubled times of a global pandemic to reverse the ill effects associated with the health risks as mentioned earlier. In the view of anticipated effects on immune system and prevention against influenza and Covid-19, globally moderate to vigorous exercises are advocated wearing protective equipment such as facemasks. Though WHO supports facemasks only for Covid-19 patients, healthy “social exercisers” too exercise strenuously with customized facemasks or N95 which hypothesized to pose more significant health risks and tax various physiological systems especially pulmonary, circulatory and immune systems. Exercising with facemasks may reduce available Oxygen and increase air trapping preventing substantial carbon dioxide exchange. The hypercapnic hypoxia may potentially increase acidic environment, cardiac overload, anaerobic metabolism and renal overload, which may substantially aggravate the underlying pathology of established chronic diseases. Further contrary to the earlier thought, no evidence exists to claim the facemasks during exercise offer additional protection from the droplet transfer of the virus. Hence, we recommend social distancing is better than facemasks during exercise and optimal utilization rather than exploitation of facemasks during exercise.
+
+    / June, 2020 - Medical Hypotheses
+    let !a self assert =
+
+  # Surgical Mask - Aerosol
   // A physicist's approach to COVID-19 transmission via expiratory droplets
   doi: https://doi.org/10.1016/j.mehy.2020.109997
   ref 'Carelli_et_al_06_17_2020
@@ -499,7 +533,7 @@ feed June2020
   // No evidence for increased transmissibility from recurrent mutations in SARS-CoV-2
   doi: https://doi.org/10.1101/2020.05.21.108506
   ref 'Dorp_et_al_06_30_2020
-    head = We do not identify a single recurrent mutation in this set convincingly associated with increased viral transmission. Instead, recurrent SARS-CoV-2 mutations currently in circulation appear to be evolutionary neutral. Recurrent mutations also seem primarily induced by the human immune system via host RNA editing, rather than being signatures of adaption to the novel human host.
+    head = Recurrent SARS-CoV-2 mutations currently in circulation appear to be evolutionary neutral. Recurrent mutations also seem primarily induced by the human immune system via host RNA editing, rather than being signatures of adaption to the novel human host. We find no evidence at this stage for the emergence of more transmissible lineages of SARS-CoV-2 due to recurrent mutations.
 
     >>> Abstract
       The COVID-19 pandemic is caused by the coronavirus SARS-CoV-2, which jumped into the human population in late 2019 from a currently uncharacterised reservoir. Due to this extremely recent association with humans, SARS-CoV-2 may not yet be fully adapted to its human host. This has led to speculations that some lineages of SARS-CoV-2 may be evolving towards higher transmissibility. The most plausible candidate mutations under putative natural selection are those which have emerged repeatedly and independently (homoplasies). Here, we formally test whether any of the recurrent mutations that have been observed in SARS-CoV-2 to date are significantly associated with increased viral transmission. To do so, we developed a phylogenetic index to quantify the relative number of descendants in sister clades with and without a specific allele. We apply this index to a carefully curated set of recurrent mutations identified within a dataset of over 23,000 SARS-CoV-2 genomes isolated from patients worldwide. We do not identify a single recurrent mutation in this set convincingly associated with increased viral transmission. Instead, recurrent SARS-CoV-2 mutations currently in circulation appear to be evolutionary neutral. Recurrent mutations also seem primarily induced by the human immune system via host RNA editing, rather than being signatures of adaption to the novel human host. We find no evidence at this stage for the emergence of more transmissible lineages of SARS-CoV-2 due to recurrent mutations.
@@ -600,7 +634,7 @@ feed June2020
   // The D614G mutation in the SARS-CoV-2 spike protein reduces S1 shedding and increases infectivity
   doi: https://doi.org/10.1101/2020.06.12.148726
   ref 'Zhang_et_al_06_12_2020
-    head = We observed that retroviruses pseudotyped with SG614 (glycine) infected ACE2-expressing cells markedly more efficiently than those with SD614 (aspartic acid). This greater infectivity was correlated with less S1 shedding and greater incorporation of the S protein into the pseudovirion. These results show SG614 is more stable than SD614, consistent with epidemiological data suggesting that viruses with SG614 transmit more efficiently.
+    head = SG614 is more stable than SD614, consistent with epidemiological data suggesting that viruses with SG614 transmit more efficiently.
 
     >>> Abstract
       SARS coronavirus 2 (SARS-CoV-2) isolates encoding a D614G mutation in the viral spike (S) protein predominate over time in locales where it is found, implying that this change enhances viral transmission. We therefore compared the functional properties of the S proteins with aspartic acid (SD614) and glycine (SG614) at residue 614. We observed that retroviruses pseudotyped with SG614 infected ACE2-expressing cells markedly more efficiently than those with SD614. This greater infectivity was correlated with less S1 shedding and greater incorporation of the S protein into the pseudovirion. Similar results were obtained using the virus-like particles produced with SARS-CoV-2 M, N, E, and S proteins. However, SG614 did not bind ACE2 more efficiently than SD614, and the pseudoviruses containing these S proteins were neutralized with comparable efficiencies by convalescent plasma. These results show SG614 is more stable than SD614, consistent with epidemiological data suggesting that viruses with SG614 transmit more efficiently.

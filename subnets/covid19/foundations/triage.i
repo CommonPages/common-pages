@@ -30,3 +30,15 @@ index: hide
 
   model ContaminatedSurface
     head = Any surface which is likely to have pathogens with a potential to cause an infection. Often, the pathogens do not last beyond a particular duration depending upon the nature of the surface.
+
+  / Spillover Event
+  model SpilloverEvent
+    head = Spillover event, occurs when a reservoir population with a high pathogen prevalence comes into contact with a novel host population. The pathogen is transmitted from the reservoir population and may or may not be transmitted within the host population.
+
+  link: https://en.wikipedia.org/wiki/Phylogenetic_tree
+  model PhylogeneticTree
+    head = A phylogenetic tree is a branching diagram showing the evolutionary relationships among various biological species or other entities—their phylogeny based upon similarities and differences in their physical or genetic characteristics.
+
+  / Viral Envelope
+  model ViralEnvelope
+    head = A viral envelope is the outermost layer of many types of viruses. It protects the genetic material in their life-cycle when traveling between host cells. Not all viruses have envelopes.

@@ -3,57 +3,58 @@ subject module Disease
 
   / Incubation Period
   subject IncubationPeriod
-    head = The incubation period of the virus is the time between the exposure and the display of symptoms. Current information suggests that the incubation period ranges from 1 to 14 days.
-    -- Context
-      'Colman_et_al_2018
+    head =  Incubation period ranges from 1 to 14 days.
+    -- IncubationPeriod of other Respiratory Viral infection
       'Lessler_et_al_2013
-    --
+    -- COVID-19
       'Tindale_et_al_2020
       'Nishiura_et_al_2020
       'Linton_et_al_2020
       'Liu_et_al_03_03_2020.!d
-      'Sanche_et_al_2020.!a
+      'Sanche_et_al_2020
 
   / Asymtomatic & Presymptomatic Phase
   subject AsymptomaticPhase
     head = A minority of cases do not develop noticeable symptoms at any point in time. These asymptomatic carriers tend not to get tested, and their role in transmission is not fully known.
-    --
+    -- Asymtomatic People can cause transmission and can have high viral load
+      'Nishiura_et_al_2020
       'Du_et_al_2020
       'Zou_et_al_2020
       'Lavezzo_et_al_04_18_2020
-      'Lavezzo_et_al_04_18_2020.!b
-      'Lavezzo_et_al_04_18_2020.!c
+    -- Examples of asymptomatic + Presymptomatic cases
       'Mizumoto_et_al_2020
-      'Nishiura_et_al_2020
-      'Graham_et_al_05_16_2020.!b
-      'Robbiani_et_al_06_18_2020
-    # Some Examples of asymptomatic + Presymptomatic cases -
-    --
-      'Chan_et_al_2020.!i
-      'He_et_al_2020.!a
+      'Lavezzo_et_al_04_18_2020.!b
+      'He_et_al_2020
       'Sutton_et_al_2020.!b
       'Pan_et_al_2020b.!d
+      'Graham_et_al_05_16_2020.!b
+
   / Symptomatic Phase
   subject SymptomaticPhase
     head = Fever is the most common symptom. Other symptoms include cough, loss of appetite, fatigue, shortness of breath, sputum production, and myalgia. Additional symptoms such as loss of smell and taste, skin rash, neurological manifestations have also been reported.
 
-    # separate papers with less common symptoms / Unusual symptoms that patients have presented.
-    --
+    >>>
+      Different Symptoms of SARS-CoV-2
+    -- Common symptoms
       'Berlin_et_al_2020.!b
+    -- Severe Covid-19
       'Berlin_et_al_2020.!c
       'Berlin_et_al_2020.!d
+    -- Hyposmia
       'Ragona_et_al_2020
-      'Kluytmans_et_al_2020
-      'Chen_et_al_2020d.!c
-      'Recalcati_et_al_2020
-      'Joob_et_al_2020
-      'Sanche_et_al_2020.!b
+    -- Neuro Invasion
       'Zubair_et_al_05_29_2020
       'Chen_et_al_05_19_2020
       'Meinhardt_et_al_06_04_2020
-
-    # Phases of Symptoms to severity
-    --
+    -- Skin Manifestations
+      'Recalcati_et_al_2020
+      'Joob_et_al_2020
+    >>>
+      Various Reports on symptoms of Covid-19 patients
+    -- Reports of Symptomatic Cases
+      'Kluytmans_et_al_2020
+      'Chen_et_al_2020d.!c
+    -- Symptomatic Stages
       'Siddiqi_et_al_2020
       'Siddiqi_et_al_2020.!a
       'Siddiqi_et_al_2020.!b
@@ -62,6 +63,9 @@ subject module Disease
       'Siddiqi_et_al_2020.!e
       'Siddiqi_et_al_2020.!f
       'Siddiqi_et_al_2020.!g
+    -- Duration Symptomatic Phase
+      'Sanche_et_al_2020.!b
+
   / Immune Reponse
   subject ImmuneResponse
     head = Clinical Laboratory findings suggest an underline immunopathology. Additionally people with COVID-19 and ARDS have classic serum biomarkers of Cytokine release syndrome.
@@ -106,6 +110,7 @@ subject module Disease
       'Niwa_et_al_10_15_2018
       'Okba_et_al_2020.!b
       'Broggi_et_al_01_06_2020
+
   / Complications
   subject module Complications
     head = Complications may include pneumonia, ARDS, multi-organ failure, coagulopathy, Cytokine storm, septic shock, neurologic manifestations, endothelitis. Few recent studies report children developing paediatric multisystem inflammatory syndrome.

@@ -115,7 +115,28 @@ feed May2020
 
   #
 
-  # Cloth Mask 
+  // Efficacy of slit lamp breath shields
+  doi: https://doi.org/10.1038/s41433-020-0940-y
+  ref 'Poostchi_et_al_05_12_2020
+    head = We sought to examine the efficacy of facemasks and standard and augmented slit lamp breath shields using a breathing simulator. We found that the barriers we tested were all effective at reducing transmission of particles > 3 μm. The surgical facemask and large shield offered the best protection, while the small standard shield seemed to be effective for larger particles.
+
+    / May, 2020 - Nature
+    let !a self assert =
+
+  # Bio-Based Facemask
+  // The need for fully bio-based facemasks to counter coronavirus outbreaks: A perspective
+  doi: https://doi.org/10.1016/j.scitotenv.2020.139611
+  ref 'Das_et_al_05_22_2020
+    head = Utilisation of sustainable raw materials to develop bio-based masks is needed. Electrospun and compression moulded gluten can be used to develop bio-based masks. Gluten masks can be made flame retardant by adding <10 wt% of lanosol.
+
+    >>> Abstract
+      The onset of coronavirus pandemic has sparked a shortage of facemasks in almost all nations. Without this personal protective equipment, healthcare providers, essential workers, and the general public are exposed to the risk of infection. In light of the aforementioned, it is critical to balance the supply and demand for masks. COVID-19 will also ensure that masks are always considered as an essential commodity in future pandemic preparedness. Moreover, billions of facemasks are produced from petrochemicals derived raw materials, which are non-degradable upon disposal after their single use, thus causing environmental pollution and damage. The sustainable way forward is to utilise raw materials that are side-stream products of local industries to develop facemasks having equal or better efficiency than the conventional ones. In this regard, wheat gluten biopolymer, which is a by-product or co-product of cereal industries, can be electrospun into nanofibre membranes and subsequently carbonised at over 700 °C to form a network structure, which can simultaneously act as the filter media and reinforcement for gluten-based masks. In parallel, the same gluten material can be processed into cohesive thin films using plasticiser and hot press. Additionally, lanosol, a naturally-occurring substance, imparts fire (V-0 rating in vertical burn test), and microbe resistance in gluten plastics. Thus, thin films of flexible gluten with very low amounts of lanosol (<10 wt%) can be bonded together with the carbonised mat and shaped by thermoforming to create the facemasks. The carbon mat acting as the filter can be attached to the masks through adapters that can also be made from injection moulded gluten. The creation of these masks could simultaneously be effective in reducing the transmittance of infectious diseases and pave the way for environmentally benign sustainable products.
+
+    / May, 2020 - Science of Total environment
+    let !a self assert =
+
+
+  # Cloth Mask
   // Textile Masks and Surface Covers-A Spray Simulation Method and a "Universal Droplet Reduction Model" Against Respiratory Pandemics
   doi: https://doi.org/10.3389/fmed.2020.00260
   ref 'Palacios_et_al_05_27_2020
@@ -693,7 +714,7 @@ feed May2020
   // The SARS-CoV-2 Spike Protein D614G Mutation Shows Increasing Dominance and May Confer a Structural Advantage to the Furin Cleavage Domain
   doi: https://doi.org/10.20944/preprints202005.0407.v1
   ref 'Tang_et_al_05_24_2020
-    head = Our homology modeling studies suggest a potential mechanism whereby the D614G mutation may confer a competitive advantage at the furin binding domain that may contribute to the rise of the D614G SARS-CoV-2 mutant.
+    head = Homology modeling studies suggest a potential mechanism whereby the D614G mutation may confer a competitive advantage at the furin binding domain that may contribute to the rise of the D614G SARS-CoV-2 mutant.
 
     >>> Abstract
       We analyzed the SARS-CoV-2 spike (S) protein amino acid sequence extracted from 11,542 viral genomic sequences submitted to the Global Initiative on Sharing All Influenza Data (GISAID) database through April 27, 2020. Consistent with prior reports, we found a major S protein mutation, D614 to G614, that was represented in 56% of all the analyzed sequences. All other mutations combined were less than 10%. After parsing the data geographically, we found most of the Chinese patient samples showed D614 (97%). By contrast, most patient samples in many European countries showed G614 (51 to 88%). In the United States, the genotypic distribution in California and Washington was similar to Asian countries, while the distribution in other US states was comparable to Europe. We observed a dramatic increase in the frequency of G614 over time in multiple regions, surpassing D614 when both were present, suggesting G614 S protein virus outcompetes D614 S protein virus. To gain insight into the consequences of the D614G mutation, homology modeling using a multi-template threading mechanism with ab initio structural refinement was performed for a region of the S protein (S591 to N710) spanning the D614G mutation and the S1 furin cleavage site. Molecular models of this region containing D614 or G614 revealed a major difference in secondary structure at the furin domain (RRARS, R682 to S686). The D614 model predicted a random coil structure in the furin domain whereas the G614 model predicted an alpha helix. Critical residues in the cleavage domain of G614 model were found to better align with the PDB structure of a furin inhibitor. Thus, homology modeling studies suggest a potential mechanism whereby the D614G mutation may confer a competitive advantage at the furin binding domain that may contribute to the rise of the D614G SARS-CoV-2 mutant.
@@ -2720,7 +2741,7 @@ feed May2020
     let !c self assert = The signal transduction that follows drives production of cytokines that activate antiviral gene expression programs in neighboring cells. They also recruit additional innate and adaptive immune cells with diverse roles in antiviral immunity, tissue repair, and homeostasis. Dysregulation of the innate immune response contributes to the cytokine storm seen in severe influenza A/H5N1 and SARS-CoV-2 infection.
 
     / May, 2020 - Immunity
-    let !d self assert = The physiological role of ACE2 is in regulation of blood pressure; ACE2 metabolizes angiotensin II, a vasoconstrictor, to generate angiotensins 1−7, which are vasodilators. Cells lining the mucosal surfaces of the nose and lungs are endowed with ACE2, which facilitates infection of the respiratory tract. However, ACE2 is also expressed on cells in many other tissues, including the endothelium, heart, gut, and kidneys, making these organs susceptible to infection by the virus.
+    let !d self assert = Cells lining the mucosal surfaces of the nose and lungs are endowed with ACE2, which facilitates infection of the respiratory tract. However, ACE2 is also expressed on cells in many other tissues, including the endothelium, heart, gut, and kidneys, making these organs susceptible to infection by the virus.
 
   # Entry
   // Multiorgan and Renal Tropism of SARS-CoV-2
@@ -3143,7 +3164,7 @@ feed May2020
     let !a self assert = Twenty-seven days after the first death and 21 days after the first resident tested positive, we found 126 (40%) of nursing home residents were SARS-CoV-2 positive and 54 (43%) positive residents were asymptomatic. Three of 70 asymptomatic staff (4%) representing various roles in the care home were also positive for SARS-CoV-2.
 
     / May, 2020 - medRxiv
-    let !b self assert = A striking finding of our investigation was that 60% of SARS-CoV-2 positive residents were either asymptomatic or only had atypical symptoms for COVID-19 during the two weeks prior to testing. This was also true of many residents in the days leading up to death indicating that even in severe COVID-19, fever and cough were commonly absent. A novel finding was the strong association between anorexia SARS-CoV-2 positivity in addition to cough/breathlessness.
+    let !b self assert = A striking finding of our investigation was that 60% of SARS-CoV-2 positive residents were either asymptomatic or only had atypical symptoms for COVID-19 during the two weeks prior to testing.
 
     / May, 2020 - medRxiv
     let !c self assert = During the course of our outbreak investigation, public health policy evolved as the impact of COVID-19 in nursing homes became apparent. Our results support the need for a policy of universal and systematic testing coupled with a high level of surveillance to ensure the policy is implemented effectively. A regime that involves repeated testing is required because of the potential for asymptomatic residents being infected with SARS-CoV2 within one week, as we have demonstrated.
@@ -3718,7 +3739,7 @@ feed May2020
   // Severe Covid-19
   doi: https://doi.org/10.1056/NEJMcp2009575
   article 'Berlin_et_al_2020
-    head = For the patient described in the vignette, the most important aspect of care is careful monitoring of his respiratory status to determine whether endotracheal intubation is appropriate. If mechanical ventilation is initiated, the clinician should adhere to a lung-protective ventilation strategy by limiting the plateau pressure and tidal volumes. Deep sedation with neuromuscular blocking agents and prone positioning should be considered if refractory hypoxemia develops. Anticoagulants should be administered to prevent thrombosis. Preliminary data support the use of remdesivir if available. Rigorous adherence to infection-control practices is essential at all times. Given the high risk of complications from severe Covid-19, clinicians should work with patients and families to establish appropriate goals of care at the earliest possible time.
+    head = This Journal feature begins with a case vignette highlighting a common clinical problem. Evidence supporting various strategies is then presented, followed by a review of formal guidelines, when they exist. The article ends with the authors’ clinical recommendations.
 
     -- exports
       !a
