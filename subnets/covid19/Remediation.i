@@ -457,9 +457,14 @@ subject module Remediation
           'Siddiqi_et_al_2020.!g
           'Kimmig_et_al_05_20_2020
           'Conti_et_al_03_14_2020
+          'DelValle_et_al_05_30_2020.!a1
           'DelValle_et_al_05_30_2020.!r
           'DelValle_et_al_05_30_2020.!s
           'Zhang_et_al_2020e
+        -- Context on IL-6 levels being high in aging
+          'Franceschi_et_al_2006.!a
+          'Franceschi_et_al_2006.!b
+          'Franceschi_et_al_2006.!c
         -- Siltuximab
           'Gritti_et_al_06_20_2020
         -- Bruton tyrosine kinase inhibitor
@@ -483,7 +488,7 @@ subject module Remediation
 
       / Interferons
       subject Interferons
-        head = Interferons have been suggested as a potential treatment for COVID-19 because of their in vitro and in vivo antiviral properties.  Data suggests that proteins produced by SARS-CoV-2 down-regulates host innate immunity and early use of Interferons could be beneficial when innate immunity is needed.
+        head = Interferons have been suggested as a potential treatment for COVID-19 because of their in vitro and in vivo antiviral properties. Data suggests that proteins produced by SARS-CoV-2 down-regulates host innate immunity and early use of Interferons could be beneficial when innate immunity is needed.
         --
           'Vanderheiden_et_al_05_20_2020
           'Vanderheiden_et_al_05_20_2020.!a
@@ -492,6 +497,8 @@ subject module Remediation
           'Pillai_et_al_2016
           'Niwa_et_al_10_15_2018
           'Felgenhauer_et_al_06_25_2020
+        -- Impaired Interferon Signaling in Dendritic Cells From Older Donors
+          'Qian_et_al_2011
         >>>
            Studies have shown that ISG15 inhibits viral replication and can modulate the host damage and repair response, immune response and other host signalling pathways
         -- ISG15
@@ -642,6 +649,10 @@ subject module Remediation
         'Gordon_et_al_04_30_2020
       -- Inhibiting the binding site
         'Liu_et_al_05_10_2020
+      -- targeting pDC (plasmacytoid dendritic cells) for immune modulation to enhance vaccine efficacy in healthy elderly populations.
+        'Jing_et_al_2009
+      --
+        'Takahashi_et_al_06_09_2020.!j
 
   —
   / Clinical Management
@@ -721,6 +732,7 @@ subject module Remediation
         'Ferreira_et_al_04_19_2020
         'Richardson_et_al_04_22_2020.!f
         'Richardson_et_al_04_22_2020.!l
+        'Richardson_et_al_04_22_2020.!g
       -- Side effects
         'Dreyfuss_et_al_1998
         'Soni_et_al_2008

@@ -23,7 +23,7 @@ subject module TransMechanism
     -- Overdispersion & 80/20 Rule of COVID-19
       'Adam_et_al_2020
       'Adam_et_al_2020.!a
-      'Miller_et_al_2020b.!b
+      'Miller_et_al_2020b
       'Endo_et_al_04_09_2020
     -- Latest papers on Superspread
       'Pung_et_al_03_28_2020

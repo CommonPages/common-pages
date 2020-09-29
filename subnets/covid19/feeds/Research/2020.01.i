@@ -113,13 +113,11 @@ feed January2020
   // AlGaN Deep-Ultraviolet Light-Emitting Diodes Grown on SiC Substrates
   doi: https://doi.org/10.1021/acsphotonics.9b00600
   article 'SaifAddin_et_al_2020
-    head = We estimate the improved LEE by semiempirical calculations to be 33% (without encapsulation). This work establishes UV LEDs grown on SiC substrates as a viable architecture to large-area, high-brightness, and high-power UV LEDs.
+    head = The disinfection industry would greatly benefit from efficient, robust, high-power deep-ultraviolet light-emitting diodes (UV–C LEDs). This work establishes UV LEDs grown on SiC substrates as a viable architecture to large-area, high-brightness, and high-power UV LEDs.
 
     >>> Abstract
       The disinfection industry would greatly benefit from efficient, robust, high-power deep-ultraviolet light-emitting diodes (UV–C LEDs). However, the performance of UV–C AlGaN LEDs is limited by poor light-extraction efficiency (LEE) and the presence of a large density of threading dislocations. We demonstrate high power AlGaN LEDs grown on SiC with high LEE and low threading dislocation density. We employ a crack-free AlN buffer layer with low threading dislocation density and a technique to fabricate thin-film UV LEDs by removing the SiC substrate, with a highly selective SF6 etch. The LEDs (278 nm) have a turn-on voltage of 4.3 V and a CW power of 8 mW (82 mW/mm2) and external quantum efficiency (EQE) of 1.8% at 95 mA. KOH submicron roughening of the AlN surface (nitrogen-polar) and improved p-contact reflectivity are found to be effective in improving the LEE of UV light. We estimate the improved LEE by semiempirical calculations to be 33% (without encapsulation). This work establishes UV LEDs grown on SiC substrates as a viable architecture to large-area, high-brightness, and high-power UV LEDs.
 
-    -- exports
-      !a
 
     / January, 2020 - ACS Photonics
     let !a self assert = The LEDs (278 nm) have a turn-on voltage of 4.3 V and a CW power of 8 mW (82 mW/mm2) and external quantum efficiency (EQE) of 1.8% at 95 mA. KOH submicron roughening of the AlN surface (nitrogen-polar) and improved p-contact reflectivity are found to be effective in improving the LEE of UV light.
@@ -235,9 +233,37 @@ feed January2020
 
     -- exports
       !a
+      !b
+      !c
+      !d
+      !e
+      !f
 
     / January, 2020 - ScienceDirect
     let !a self assert = Patients had clinical manifestations of fever, cough, shortness of breath , muscle ache, confusion, headache, sore throat, rhinorrhoea, chest pain, diarrhoea, and nausea and vomiting. Patients showed bilateral pneumonia, patients showed multiple mottling and ground-glass opacity, and one patient had pneumothorax.
+
+    / January, 2020 - ScienceDirect
+    let !b self assert = Mortality of the 99 included patients infected by 2019-nCoV was 11%.
+
+    / January, 2020 - ScienceDirect
+    let !c self assert = We observed a greater number of men than women in the 99 cases of 2019-nCoV infection. MERS-CoV and SARS-CoV have also been found to infect more males than females. The reduced susceptibility of females to viral infections could be attributed to the protection from X chromosome and sex hormones, which play an important role in innate and adaptive immunit
+
+    / January, 2020 - ScienceDirect
+    let !d self assert = Some patients, especially severely ill ones, had co-infections of bacteria and fungi. Common bacterial cultures of patients with secondary infections included A baumannii, K pneumoniae, A flavus, C glabrata, and C albicans. For severe mixed infections, in addition to the virulence factors of pathogens, the host's immune status is also one of the important factors
+
+    / January, 2020 - ScienceDirect
+    let !e self assert = When populations with low immune function, such as older people, diabetics, people with HIV infection, people with long-term use of immunosuppressive agents, and pregnant women, are infected with 2019-nCoV, prompt administration of antibiotics to prevent infection and strengthening of immune support treatment might reduce complications and mortality.
+
+    / January, 2020 - ScienceDirect
+    let !f self assert = The absolute value of lymphocytes in most patients was reduced. This result suggests that 2019-nCoV might mainly act on lymphocytes, especially T lymphocytes, as does SARS-CoV.
+
+    / January, 2020 - ScienceDirect
+    let !g self assert = Some studies suggest that a substantial decrease in the total number of lymphocytes indicates that coronavirus consumes many immune cells and inhibits the body's cellular immune function. Damage to T lymphocytes might be an important factor leading to exacerbations of patients. The low absolute value of lymphocytes could be used as a reference index in the diagnosis of new coronavirus infections in the clinic.
+
+    / January, 2020 - ScienceDirect
+    let !h self assert = Use of intravenous immunoglobulin is recommended to enhance the ability of anti-infection for severely ill patients and steroids (methylprednisolone 1–2 mg/kg per day) are recommended for patients with ARDS, for as short a duration of treatment as possible.
+
+
 
 
   # Tag- BCG vaccine

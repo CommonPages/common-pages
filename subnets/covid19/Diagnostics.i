@@ -80,6 +80,11 @@ subject module Diagnostics
       -- Cycle Threshold Value
         'Bullard_et_al_05_22_2020
         'Tom_et_al_2020
+        'Tom_et_al_2020.!c
+        'Tom_et_al_2020.!e
+        'Tom_et_al_2020.!f
+        'Tom_et_al_2020.!h
+        'Tom_et_al_2020.!l
         'Chen_et_al_02_08_2020.!c
       -- Use of Saliva as detection
         'Wyllie_et_al_2020
@@ -99,6 +104,7 @@ subject module Diagnostics
         'Woloshin_et_al_06_05_2020
         'Xiao_et_al_2020
         'Lan_et_al_2020
+        'Tom_et_al_2020.!d
     / CT Scan
     subject CT
       head = Chest CT imaging may also be helpful for diagnosis in individuals where there is a high suspicion of infection based on symptoms and risk factors. There is an increasing body of evidence that suggests chest CT could prove useful in the clinical pathway in diagnosing COVID-19.
@@ -142,3 +148,5 @@ subject module Diagnostics
     -- Detection
       'Yang_et_al_2020.!a
       'Yang_et_al_2020.!b
+    -- lymphocytes as a reference index- diagnosis of covid19
+      'Chen_et_al_2020c.!g

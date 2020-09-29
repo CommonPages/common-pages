@@ -488,6 +488,7 @@ feed Pre2019
     let !a self assert =
 
 
+
   # Airline - Airborne
   // Experimental and numerical investigation of airflow and contaminant transport in an airliner cabin mockup
   doi: https://doi.org/10.1016/j.buildenv.2008.01.012
@@ -1987,7 +1988,7 @@ feed Pre2019
   // Estimating the burden of SARS-CoV-2 in France
   doi: https://doi.org/10.1126/science.abc3517
   article 'Salje_et_al_04_20_2020
-    head = This study shows the massive impact the French lockdown had on SARS-CoV-2 transmission. Our modeling approach has allowed us to estimate underlying probabilities of infection, hospitalization and death, which is essential for the interpretation of COVID-19 surveillance data. The forecasts we provide can inform lockdown exit strategies. Our estimates of a low level of immunity against SARS-CoV-2 indicates that efficient control measures that limit transmission risk will have to be maintained beyond the 11 May 2020 to avoid a rebound of the epidemic.
+    head = We forecast that 2.9 million people will have been infected by 11 May, representing 4.4% of the population—a value inadequate for herd immunity. This indicates that efficient control measures that limit transmission risk will have to be maintained beyond 11 May 2020 to avoid a rebound of the pandemic.
 
     >>> Abstract
       France has been heavily affected by the SARS-CoV-2 epidemic and went into lockdown on the 17 March 2020. Using models applied to hospital and death data, we estimate the impact of the lockdown and current population immunity. We find 3.6% of infected individuals are hospitalized and 0.7% die, ranging from 0.001% in those <20 years of age (ya) to 10.1% in those >80ya. Across all ages, men are more likely to be hospitalized, enter intensive care, and die than women. The lockdown reduced the reproductive number from 2.90 to 0.67 (77% reduction). By 11 May 2020, when interventions are scheduled to be eased, we project 2.8 million (range: 1.8–4.7) people, or 4.4% (range: 2.8–7.2) of the population, will have been infected. Population immunity appears insufficient to avoid a second wave if all control measures are released at the end of the lockdown.
@@ -1997,16 +1998,14 @@ feed Pre2019
       !b
       !c
       !d
-      !e
       !f
       !g
       !h
       !i
       !j
-      !k
 
     / April, 2020 - Science
-    let !a self assert = We find that 3.6% of infected individuals are hospitalized (95% CrI: 2.1–5.6), ranging from 0.2% (95% CrI: 0.1–0.2) in females under <20ya to 45.9% (95% CrI: 27.2–70.9) in males >80ya. Once hospitalized, on average 19.0% (95% CrI: 18.7–19.4%) patients enter ICU after a mean delay of 1.5 days. We observe an increasing probability of entering ICU with age—however, this drops for those >70ya.
+    let !a self assert = We find that 3.6% of infected individuals are hospitalized, ranging from 0.2% in females under <20ya to 45.9% in males >80ya. Once hospitalized, on average 19.0% patients enter ICU after a mean delay of 1.5 days. We observe an increasing probability of entering ICU with age—however, this drops for those >70ya.
 
     / April, 2020 - Science
     let !b self assert = Overall, 18.1% of hospitalized individuals go on to die. The overall probability of death among those infected (the Infection Fatality Ratio, IFR) is 0.7%, ranging from 0.001% in those under 20ya to 10.1% in those >80ya. Our estimate of overall IFR is similar to other recent studies that found values of between 0.5 and 0.7% for the Chinese epidemic.
@@ -2015,10 +2014,10 @@ feed Pre2019
     let !c self assert = We find men have a consistently higher risk than women of hospitalization, ICU admission once hospitalized and death following hospitalization.
 
     / April, 2020 - Science
-    let !d self assert = We find that the basic reproductive number R0 prior to the implementation of the lockdown was 2.90 (95% CrI: 2.80–2.99). The lockdown resulted in a 77% (95% CI: 76–78) reduction in transmission, with the reproduction number R dropping to 0.67 (95% CrI: 0.65–0.68).
+    let !d self assert = We find that the basic reproductive number R0 prior to the implementation of the lockdown was 2.90. The lockdown resulted in a 77% reduction in transmission, with the reproduction number R dropping to 0.67.
 
-    / April, 2020 - Science
-    let !e self assert = By 11 May 2020, when interventions are scheduled to be eased, we project 2.8 million (range: 1.8–4.7) people, or 4.4% (range: 2.8–7.2) of the French population, will have been infected. This proportion will be 9.9% (range: 6.6–15.7) in Ile-de-France, which includes Paris, and 9.1% (range: 6.0–14.6) in Grand Est, the two most affected regions of the country.
+    # / April, 2020 - Science
+    # let !e self assert = By 11 May 2020, when interventions are scheduled to be eased, we project 2.8 million people, or 4.4% of the French population, will have been infected. This proportion will be 9.9% in Ile-de-France, which includes Paris, and 9.1% (range: 6.0–14.6) in Grand Est, the two most affected regions of the country.
 
     / April, 2020 - Science
     let !f self assert = Assuming a basic reproductive number of R0 = 3.0, it would require around 65% of the population to be immune for the epidemic to be controlled by immunity alone. Our results therefore strongly suggest that, without a vaccine, herd immunity on its own will be insufficient to avoid a second wave at the end of the lockdown. Efficient control measures need to be maintained beyond the 11 May.
@@ -2035,8 +2034,8 @@ feed Pre2019
     / April, 2020 - Science
     let !j self assert = A seroprevalence of 3% (range: 0–3%) has been estimated among blood donors in Hauts-de-France, which is consistent with our model predictions (range: 1–3%) for this population if we account for a 10-day delay for seroconversion. Future additional serological data will help further refine estimates of the proportion of the population infected.
 
-    / April, 2020 - Science
-    let !k self assert = While we focus on deaths occurring in hospitals, there are also non-hospitalized COVID-19 deaths, including >9000 in retirement homes in France. We explicitly removed retirement home population from our analyses as transmission dynamics may be different in these closed populations. This means our estimates of immunity in the general population are unaffected by deaths in retirement homes, however, in the event of large numbers of non-hospitalized deaths in the wider community, we would underestimate the proportion of the population infected. Analyses of excess death will be important to explore these issues.
+    # / April, 2020 - Science
+    # let !k self assert = While we focus on deaths occurring in hospitals, there are also non-hospitalized COVID-19 deaths, including >9000 in retirement homes in France. We explicitly removed retirement home population from our analyses as transmission dynamics may be different in these closed populations. This means our estimates of immunity in the general population are unaffected by deaths in retirement homes, however, in the event of large numbers of non-hospitalized deaths in the wider community, we would underestimate the proportion of the population infected. Analyses of excess death will be important to explore these issues.
 
 
   # Inflight Tranmission
@@ -2210,7 +2209,7 @@ feed Pre2019
     let !a self assert = Staff who used masks, gowns, and handwashing were less likely to develop SARS than those who did not use them, but the association for gloves was not significant. 69 staff who reported use of all four measures were not infected, whereas all 13 infected staff had omitted at least one of the measures (p=0·0224).
 
     / May, 2003 - The Lancet
-    let !b self assert = Fewer staff who wore masks (p=0·0001), gowns (p=0·006), and washed their hands (p=0·047) became infected compared with those who didnt, but stepwise logistic regression was significant only for masks (p=0·011).
+    let !b self assert = Fewer staff who wore masks, gowns, and washed their hands became infected compared with those who didnt, but stepwise logistic regression was significant only for masks.
 
     / May, 2003 - The Lancet
     let !c self assert = The staff who wore surgical masks and N95 masks were significantly associated with non-infection, but this was not seen for paper masks. The finding that paper masks did not significantly reduce the risk is not unexpected. Such masks, being easily wet with saliva, are never recommended as a precaution against droplets
@@ -2389,7 +2388,7 @@ feed Pre2019
   // Large-Scale in Silico and Microarray-Based Identification of Direct 1,25-Dihydroxyvitamin D3 Target Genes
   doi: https://doi.org/10.1210/me.2005-0106
   article 'Wang_et_al_2005b
-    head = 1α,25-Dihydroxyvitamin D3 [1,25(OH)2D3] regulates calcium homeostasis and controls cellular differentiation and proliferation. 1,25(OH)2D3 is also a modulator of the immune responses, consistent with broad expression of the vitamin D receptor (VDR) in cells of the immune system and the capacity of 1,25(OH)2D3 to regulate cellular differentiation.
+    head = 1α, 25-Dihydroxyvitamin D3 [1,25(OH)2D3] regulates calcium homeostasis and controls cellular differentiation and proliferation.,25(OH)2D3 is also a modulator of the immune responses, consistent with broad expression of the vitamin D receptor (VDR) in cells of the immune system and the capacity of 1,25(OH)2D3 to regulate cellular differentiation.
 
     >>> Abstract
       1α,25-Dihydroxyvitamin D3 [1,25(OH)2D3] regulates calcium homeostasis and controls cellular differentiation and proliferation. The vitamin D receptor (VDR) is a ligand-regulated transcription factor that recognizes cognate vitamin D response elements (VDREs) formed by direct or everted repeats of PuG(G/T)TCA motifs separated by 3 or 6 bp (DR3 or ER6). Here, we have identified direct 1,25(OH)2D3 target genes by combining 35,000+ gene microarrays and genome-wide screens for consensus DR3 and ER6 elements, and DR3 elements containing single nucleotide substitutions. We find that the effect of a nucleotide substitution on VDR binding in vitro does not predict VDRE function in vivo, because substitutions that disrupted binding in vitro were found in several functional elements. Hu133A microarray analyses, performed with RNA from human SCC25 cells treated with 1,25(OH)2D3 and protein synthesis inhibitor cycloheximide, identified more than 900 regulated genes. VDREs lying within −10 to +5 kb of 5′-ends were assigned to 65% of these genes, and VDR binding was confirmed to several elements in vivo. A screen of the mouse genome identified more than 3000 conserved VDREs, and 158 human genes containing conserved elements were 1,25(OH2)D3-regulated on Hu133A microarrays. These experiments also revealed 16 VDREs in 11 of 12 genes induced more than 10-fold in our previous microarray study, five elements in the human gene encoding the epithelial calcium channel TRPV6, as well as novel 1,25(OH2)D3 target genes implicated in regulation of cell cycle progression. The combined approaches used here thus provide numerous insights into the direct target genes underlying the broad physiological actions of 1,25(OH)2D3.
@@ -2607,7 +2606,7 @@ feed Pre2019
   // Far-UVC light: A new tool to control the spread of airborne-mediated microbial diseases
   doi: https://doi.org/10.1038/s41598-018-21058-w
   article 'Welch_et_al_2018
-    head = We have developed an approach to UV-based sterilization using single-wavelength far-UVC light generated by filtered excilamps, which selectively inactivate microorganisms, but does not produce biological damage to exposed mammalian cells and tissues
+    head = We show for the first time that far-UVC efficiently inactivates airborne aerosolized viruses, with a very low dose of 2 mJ/cm2 of 222-nm light inactivating >95% of aerosolized H1N1 influenza virus. It does not produce biological damage to exposed mammalian cells and tissues
 
     >>> Abstract
       Airborne-mediated microbial diseases such as influenza and tuberculosis represent major public health challenges. A direct approach to prevent airborne transmission is inactivation of airborne pathogens, and the airborne antimicrobial potential of UVC ultraviolet light has long been established; however, its widespread use in public settings is limited because conventional UVC light sources are both carcinogenic and cataractogenic. By contrast, we have previously shown that far-UVC light (207–222 nm) efficiently inactivates bacteria without harm to exposed mammalian skin. This is because, due to its strong absorbance in biological materials, far-UVC light cannot penetrate even the outer (non living) layers of human skin or eye; however, because bacteria and viruses are of micrometer or smaller dimensions, far-UVC can penetrate and inactivate them. We show for the first time that far-UVC efficiently inactivates airborne aerosolized viruses, with a very low dose of 2 mJ/cm2 of 222-nm light inactivating >95% of aerosolized H1N1 influenza virus. Continuous very low dose-rate far-UVC light in indoor public locations is a promising, safe and inexpensive tool to reduce the spread of airborne-mediated microbial diseases.
@@ -2723,7 +2722,7 @@ feed Pre2019
   // Vaccine Effects on Heterogeneity in Susceptibility and Implications for Population Health Management
   doi: https://doi.org/10.1128/mBio.00796-17
   article 'Langwig_et_al_2017
-    head = Our data emphasize the importance of incorporating heterogeneity in susceptibility in estimates of control measure efficacy. Inclusion of this variance will help to improve prediction and allow for better management of infectious diseases of humans and wildlife.
+    head = Our data emphasize the importance of incorporating heterogeneity in susceptibility in estimates of control measure efficacy. Inclusion of this variance will help to improve prediction of vaccine effectiveness, provide insight into how vaccination shapes population susceptibility and have broad applicability to human, wildlife, and ecosystem health.
 
     >>> Abstract
       Heterogeneity in host susceptibility is a key determinant of infectious disease dynamics but is rarely accounted for in assessment of disease control measures. Understanding how susceptibility is distributed in populations, and how control measures change this distribution, is integral to predicting the course of epidemics with and without interventions. Using multiple experimental and modeling approaches, we show that rainbow trout have relatively homogeneous susceptibility to infection with infectious hematopoietic necrosis virus and that vaccination increases heterogeneity in susceptibility in a nearly all-or-nothing fashion. In a simple transmission model with an R0 of 2, the highly heterogeneous vaccine protection would cause a 35 percentage-point reduction in outbreak size over an intervention inducing homogenous protection at the same mean level. More broadly, these findings provide validation of methodology that can help to reduce biases in predictions of vaccine impact in natural settings and provide insight into how vaccination shapes population susceptibility.
@@ -2732,18 +2731,15 @@ feed Pre2019
       Differences among individuals influence transmission and spread of infectious diseases as well as the effectiveness of control measures. Control measures, such as vaccines, may provide leaky protection, protecting all hosts to an identical degree, or all-or-nothing protection, protecting some hosts completely while leaving others completely unprotected. This distinction can have a dramatic influence on disease dynamics, yet this distribution of protection is frequently unaccounted for in epidemiological models and estimates of vaccine efficacy. Here, we apply new methodology to experimentally examine host heterogeneity in susceptibility and mode of vaccine action as distinct components influencing disease outcome. Through multiple experiments and new modeling approaches, we show that the distribution of vaccine effects can be robustly estimated. These results offer new experimental and inferential methodology that can improve predictions of vaccine effectiveness and have broad applicability to human, wildlife, and ecosystem health.
 
     -- exports
-      !a
       !b
       !c
       !d
       !e
-      !f
-      !g
       !h
       !i
 
-    / November, 2017 - American Society for Microbiology
-    let !a self assert = Unvaccinated hosts had more homogeneous susceptibility, with probability of infection increasing sharply with pathogen dose. We also found that two viral strains of equivalent fitnesses nearly independently sorted among unvaccinated hosts, confirming thenull model of primarily homogeneous susceptibility in this group.
+    # / November, 2017 - American Society for Microbiology
+    # let !a self assert = Unvaccinated hosts had more homogeneous susceptibility, with probability of infection increasing sharply with pathogen dose. We also found that two viral strains of equivalent fitnesses nearly independently sorted among unvaccinated hosts, confirming the null model of primarily homogeneous susceptibility in this group.
 
     / November, 2017 - American Society for Microbiology
     let !b self assert = Heterogeneity in infectiousness can modify disease dynamics, but importantly must be correlated with susceptibility, contacts, or other parameters (e.g., mortality from disease) to influence the size of epidemics. This is because the mean of the distribution will be identical among infected cohorts unless other model parameters preferentially remove or add individuals that change this mean (e.g., individuals that are more infectious die before they transmit).
@@ -2755,13 +2751,13 @@ feed Pre2019
     let !d self assert = Excluding heterogeneity in susceptibility from epidemic models had a significant impact on disease dynamics. Using a polarized mode of vaccine action resulted in fewer infected individuals under a wide range of R0 values, whereas homogeneous protection led to all hosts becoming infected for R0 values of 6. While the fraction of hosts infected will depend on particular parameter estimates, and we have not exhausted all parameter combinations and shape possibilities, this study provides further evidence that heterogeneous susceptibility decreases the size of epidemics. This is because the polarized mode of vaccine action greatly reduced the susceptibility of a fraction of individuals, nearly completely protecting them against infection.
 
     / November, 2017 - American Society for Microbiology
-    let !e self assert = Transitions of susceptible individuals into the infected class occurred nonuniformly, with the most susceptible individuals first becoming infected, leaving increasingly resistant individuals in the susceptible class as the epidemic progressed. Conversely, the homogeneous model assumed that the susceptibility of all individuals was identical and therefore did not allow for the effect of cohort selection.The discrete all-or-nothing model overestimated vaccine protection compared to the experimentally derived distribution of vaccine protection. This further emphasizes that empirical estimates of vaccine protection can vastly improve epidemiological predictions and provide insight into vaccine programs.
+    let !e self assert = Transitions of susceptible individuals into the infected class occurred nonuniformly, with the most susceptible individuals first becoming infected, leaving increasingly resistant individuals in the susceptible class as the epidemic progressed. Conversely, the homogeneous model assumed that the susceptibility of all individuals was identical and therefore did not allow for the effect of cohort selection. The discrete all-or-nothing model overestimated vaccine protection compared to the experimentally derived distribution of vaccine protection. This further emphasizes that empirical estimates of vaccine protection can vastly improve epidemiological predictions and provide insight into vaccine programs.
 
-    / November, 2017 - American Society for Microbiology
-    let !f self assert = We provide a method for separating natural heterogeneity in susceptibility from changes in susceptibility due to vaccination, assuming that natural and vaccine-induced susceptibilities are independent. It is important to note that we did not explore all possible probability distributions, and the fit of different probability distributions is difficult to distinguish from our data
+    # / November, 2017 - American Society for Microbiology
+    # let !f self assert = We provide a method for separating natural heterogeneity in susceptibility from changes in susceptibility due to vaccination, assuming that natural and vaccine-induced susceptibilities are independent. It is important to note that we did not explore all possible probability distributions, and the fit of different probability distributions is difficult to distinguish from our data
 
-    / November, 2017 - American Society for Microbiology
-    let !g self assert = Rainbow trout lines used in this experiment have been selectively bred for disease resistance, among other traits, due to the importance of IHNV in disease outbreaks in aquaculture. It is possible that selective breeding may have contributed to decreased variation in susceptibility if hosts with lower susceptibility were selected from a population with greater variance. If selection is strongly directional and uncorrelated with other traits, susceptibility to a specific pathogen would be predicted to decrease and become more homogeneous over time, just as mean susceptibility decreases over the course of an epidemic
+    # / November, 2017 - American Society for Microbiology
+    # let !g self assert = Rainbow trout lines used in this experiment have been selectively bred for disease resistance, among other traits, due to the importance of IHNV in disease outbreaks in aquaculture. It is possible that selective breeding may have contributed to decreased variation in susceptibility if hosts with lower susceptibility were selected from a population with greater variance. If selection is strongly directional and uncorrelated with other traits, susceptibility to a specific pathogen would be predicted to decrease and become more homogeneous over time, just as mean susceptibility decreases over the course of an epidemic
 
     / November, 2017 - American Society for Microbiology
     let !h self assert = Genetic variation is an important determinant of pathogen transmission and spread, and our results offer potential insight into the mechanism by which pathogens may spread more easily through homogeneous host populations. However, more research is needed to determine whether natural selection by pathogens might also select for relatively homogeneous susceptibility, given that hosts naturally exposed to pathogens likely experience more significant tradeoffs than hosts that have undergone purifying artificial selection.
@@ -2779,8 +2775,11 @@ feed Pre2019
     >>> Abstract
       The spread of infectious disease through communities depends fundamentally on the underlying patterns of contacts between individuals. Generally, the more contacts one individual has, the more vulnerable they are to infection during an epidemic. Thus, outbreaks disproportionately impact the most highly connected demographics. Epidemics can then lead, through immunization or removal of individuals, to sparser networks that are more resistant to future transmission of a given disease. Using several classes of contact networks—Poisson, scale-free and small-world—we characterize the structural evolution of a network due to an epidemic in terms of frailty (the degree to which highly connected individuals are more vulnerable to infection) and interference (the extent to which the epidemic cuts off connectivity among the susceptible population that remains following an epidemic). The evolution of the susceptible network over the course of an epidemic differs among the classes of networks; frailty, relative to interference, accounts for an increasing component of network evolution on networks with greater variance in contacts. The result is that immunization due to prior epidemics can provide greater community protection than random vaccination on networks with heterogeneous contact patterns, while the reverse is true for highly structured populations.
 
-    # / August, 2006 - The Royal Society
-    # let !a self assert =
+    -- exports
+      !a
+
+    / August, 2006 - The Royal Society
+    let !a self assert = Generally, the more contacts one individual has, the more vulnerable they are to infection during an epidemic. Thus, outbreaks disproportionately impact the most highly connected demographics. Epidemics can then lead, through immunization or removal of individuals, to sparser networks that are more resistant to future transmission of a given disease.
 
 
   # therapeutics
@@ -3031,40 +3030,43 @@ feed Pre2019
     head = Within a six-day period N. meningitidis serogroup C disease occurred in five children from the same elementary-school classroom and in two siblings of one child. This unprecedented outbreak prompted an investigation into the factors that may have contributed to the spread of the disease among schoolmates. The evidence suggested that close contact in the classroom may have been a major factor.
 
     -- exports
-      !a
-      !b
-      !c
       !d
       !e
       !f
       !g
+      !h
+
+    # / November, 1982 - N Engl J Med
+    # let !a self assert = N. meningitidis was recovered from the throats of 71 (12 per cent) of the children (66 of the children at school on February 5, plus the 5 affected children). Thirty-one (44 per cent) of the isolates were serogroup C. The overall meningococcal carriage rate was 13 per cent; the schoolwide carriage rate for serogroup-C organisms was 6 per cent.
+    #
+    # / November, 1982 - N Engl J Med
+    # let !b self assert = N. meningitidis serogroup C was recovered from the throats of 8 (36 per cent) of 22 children in the index classroom (Room A-9). The highest carriage rate was in Room A-13; cultures from 7 (41 per cent) of 17 children in this room grew N. meningitidis. Only four of the seven isolates were serogroup C. The carriage rates in the two rooms adjacent to the affected classroom (Rooms A-8 and A-10) were 10.5 and 11.7 per cent, respectively. These rates were comparable to the schoolwide carriage rate for N. meningitidis
+
+    # / November, 1982 - N Engl J Med
+    # let !c self assert = The carriage rates for any serogroup and for serogroup C, specifically, were significantly higher in the annex than in the main school building (P<0.0001 and P = 0.013, respectively, by the chi-square test).
 
     / November, 1982 - N Engl J Med
-    let !a self assert = N. meningitidis was recovered from the throats of 71 (12 per cent) of the children (66 of the children at school on February 5, plus the 5 affected children). Thirty-one (44 per cent) of the isolates were serogroup C. The overall meningococcal carriage rate was 13 per cent; the schoolwide carriage rate for serogroup-C organisms was 6 per cent.
+    let !d self assert = Classrooms with mid-chair to mid- chair distances of less than 102 cm had statistically higher rates of carriage or illness.
 
     / November, 1982 - N Engl J Med
-    let !b self assert = N. meningitidis serogroup C was recovered from the throats of 8 (36 per cent) of 22 children in the index classroom (Room A-9). The highest carriage rate was in Room A-13; cultures from 7 (41 per cent) of 17 children in this room grew N. meningitidis. Only four of the seven isolates were serogroup C. The carriage rates in the two rooms adjacent to the affected classroom (Rooms A-8 and A-10) were 10.5 and 11.7 per cent, respectively. These rates were comparable to the schoolwide carriage rate for N. meningitidis
+    let !e self assert = All the affected children were girls who sat next to each other or near each other on one side of the index classroom.
 
     / November, 1982 - N Engl J Med
-    let !c self assert = The carriage rates for any serogroup and for serogroup C, specifically, were significantly higher in the annex than in the main school building (P<0.0001 and P = 0.013, respectively, by the chi-square test).
+    let !f self assert = Singing in the school glee club, tutoring other classmates, and attending a special reading class were not associated with increased risk of illness. Affected children and carriers did not spend more time — in or out of school with other affected children or carriers than with unaffected children or noncarriers.
 
     / November, 1982 - N Engl J Med
-    let !d self assert = The seating arrangement in each classroom of the annex was examined, and the distance from the middle of one chair to the middle of the next (the distance from one childs nose to anothers) was measured and recorded (Table 2). The mid-chair to mid-chair distance in both the affected childrens classroom (Room A-9) and the classroom with the second highest carriage rate of serogroup C N. meningitidis in the annex (Room A-13) was less than 102 cm. Mid-chair to mid-chair distances in the other classrooms in the annex were between 106.7 and 157.5 cm (Table 2) (P<0.0001 by the chi-square test).
+    let !g self assert = Contact at lunch with the index case or with one of the carriers was associated with carriage or illness (P = 0.026 and 0.054, respectively). Contact with the other four affected children and sharing food were not associated statistically with carriage.
 
     / November, 1982 - N Engl J Med
-    let !e self assert = In the affected childrens classroom the boys were seated on one side of the room, and the girls were seated on the other, separated by a 1.5-m aisle. All the children with meningococcal disease and two other carriers were girls who were seated in the center of the section of the room reserved for the girls. The mid-chair to mid-chair distance on this side of the room was 78.7 cm.
+    let !h self assert = The ventilation (heating and cooling) system in all the classrooms in the annex were self-contained, thus precluding airborne transmission of N. meningitidis by these systems of classroom to classroom. Cultures from the heating and air-conditioning units and their filters failed to grow N. meningitidis.
 
-    / November, 1982 - N Engl J Med
-    let !f self assert = Singing in the school glee club, tutoring other classmates, and attending a special reading class were not associated with increased risk of illness. Affected children and carriers did not spend more time — in or out of school with other affected children or carriers than with unaffected children or noncarriers. Contact at lunch with the index case or with one of the carriers was associated with carriage or illness (P = 0.026 and 0.054, respectively, by two-tailed Fishers exact test). Contact with the other four affected children and sharing food were not associated statistically with carriage
 
-    / November, 1982 - N Engl J Med
-    let !g self assert = The ventilation (heating and cooling) system in all the classrooms in the annex were self-contained, thus precluding airborne transmission of N. meningitidis by these systems of classroom to classroom. Cultures from the heating and air-conditioning units and their filters failed to grow N. meningitidis.
 
   # handwashing, physical interventions, infection control, disinfecting high-touch surfaces
   // Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review
   doi: https://doi.org/10.1136/bmj.39393.510347.BE
   article 'Jefferson_et_al_2008
-    head = In this systematic review we found that physical barriers such as handwashing, wearing a mask, and isolation of potentially infected patients were effective in preventing the spread of respiratory virus infections.
+    head = We found that physical barriers such as handwashing, wearing a mask, and isolation of potentially infected patients were effective in preventing the spread of respiratory virus infections.
 
     >>> Objective
       To systematically review evidence for the effectiveness of physical interventions to interrupt or reduce the spread of respiratory viruses.
@@ -3078,38 +3080,23 @@ feed Pre2019
     >>> Conclusion
       Routine long term implementation of some physical measures to interrupt or reduce the spread of respiratory viruses might be difficult but many simple and low cost interventions could be useful in reducing the spread.
 
-    -- exports
-      !a
-      !b
-      !c
-      !d
-      !e
-      !f
 
     / January, 2008 - BMJ
-    let !a self assert = The most impressive effects came from high quality cluster randomised trials in preventing the spread of respiratory virus into the community using hygienic measures aimed at younger children. One study reported a significant decrease in respiratory illness in children up to age 24 months (relative risk 0.90, 95% confidence interval 0.83 to 0.97), although the decrease was not significant in older children (0.95, 0.89 to 1.01).w11 Another study reported a 50% (95% confidence interval 65% to 34%) lower incidence of pneumonia in children aged less than 5 years in a developing country. Additional benefit from reduced transmission to other household members is broadly supported by the results of other study designs although the potential for confounding is greater.
+    let !a self assert = The most impressive effects came from high quality cluster randomised trials in preventing the spread of respiratory virus into the community using hygienic measures aimed at younger children. One study reported a significant decrease in respiratory illness in children up to age 24 months, although the decrease was not significant in older children. Another study reported a 50% lower incidence of pneumonia in children aged less than 5 years in a developing country.
 
     / January, 2008 - BMJ
     let !b self assert = Meta-analysis of six case-control studies assessed the impact of public health measures to curb the spread of the SARS epidemic in China, Singapore, and Vietnam in 2003. The data suggest that implementing barriers to transmission, isolation, and hygienic measures are effective and relatively cheap interventions to contain epidemics of respiratory viruses, such as SARS, with estimates of effect ranging from 55% to 91%: washing hands more than 10 times daily (odds ratio 0.45, 95% confidence interval 0.36 to 0.57, NNT=4, 95% confidence interval 3.65 to 5.52); wearing masks (0.32, 0.25 to 0.40, NNT=6, 4.54 to 8.03); wearing N95 masks (0.09, 0.03 to 0.30, NNT=3, 2.37 to 4.06); wearing gloves (0.43, 0.29 to 0.65, NNT=5, 4.15 to 15.41); wearing gowns (0.23, 0.14 to 0.37, NNT=5, 3.37 to 7.12); and handwashing, masks, gloves, and gowns combined (0.09, 0.02 to 0.35, NNT=3, 2.66 to 4.97).
 
     / January, 2008 - BMJ
-    let !c self assert = The incremental effect of adding virucidals or antiseptics to normal handwashing to decrease the spread of respiratory disease remains uncertain.
-
-    / January, 2008 - BMJ
-    let !d self assert =  Evidence was limited for the superior effectiveness of barrier devices to droplets such as the N95 masks (respirators with 95% filtration capability against non-oily particulate aerosols) over simple surgical masks.
-
-    / January, 2008 - BMJ
-    let !e self assert = One case-control study concluded that handwashing needs to be carried out more than 10 times daily to be effective. One study,w25 in a military training setting, reported a need to wash hands more than four times daily. During one month of the respiratory syncytical virus “season” on a ward containing 22 cribs, one study reported that 5350 gowns and 4850 masks were used.
-
-    / January, 2008 - BMJ
-    let !f self assert = The lack of proper evaluation of global measures such as screening at entry ports and social distancing prevent firm conclusions being drawn.
+    let !c self assert = One case-control study concluded that handwashing needs to be carried out more than 10 times daily to be effective. One study, in a military training setting, reported a need to wash hands more than four times daily. During one month of the respiratory syncytical virus “season” on a ward containing 22 cribs, one study reported that 5350 gowns and 4850 masks were used.
 
 
-  # handwashing, physical interventions, infection control, military hygiene,respiratory tract infections
+
+  # handwashing, physical interventions, infection control, military hygiene, respiratory tract infections
   // Handwashing and respiratory illness among young adults in military training.
   doi: https://doi.org/10.1016/S0749-3797(01)00323-3
   article 'Ryan_et_al_2001
-    head =  The implementation of this simple handwashing program in a Navy training camp was associated with a marked reduction in the incidence of outpatient respiratory illness that was sustained over a 2-year period. Despite its success, maintenance of the handwashing program has been challenging in the time-constrained setting of military training.
+    head = The implementation of this simple handwashing program in a Navy training camp was associated with a marked reduction in the incidence of outpatient respiratory illness that was sustained over a 2-year period. Despite its success, maintenance of the handwashing program has been challenging in the time-constrained setting of military training.
 
     >>> Objectives
       In response to increasing concerns about respiratory illness in military recruits, a simple handwashing program was developed and evaluated at a large Navy training center.
@@ -3123,11 +3110,11 @@ feed Pre2019
     >>> Conclusions
       Implementation of a handwashing program in this population of healthy young adults was associated with a marked reduction in outpatient visits for respiratory illness. Despite its success, maintenance of the handwashing program has been challenging in the time-constrained setting of military training.
 
-    -- exports
-      !a
-      !b
-      !c
-      !d
+    # -- exports
+    #   !a
+    #   !b
+    #   !c
+    #   !d
 
     / August, 2001 - American Journal of Preventive Medicine
     let !a self assert = The overall rate of illness in 1997 and 1998 (23.4 cases per 1000 person-weeks) was 45% lower than the average rate in the preceding year (42.5 cases per 1000 person-weeks). The difference was statistically significant when evaluated by chi-square testing (p,0.001).
@@ -3141,11 +3128,13 @@ feed Pre2019
     / August, 2001 - American Journal of Preventive Medicine
     let !d self assert = Almost half (49%) of survey respondents reported challenges with washing hands during recruit training. Among those who cited challenges, 81% reported that there was not enough time to wash hands, 31% reported that there were not enough sinks, and 28% reported that there was not enough soap to wash hands well during basic training.
 
+
+
   # epidemiological and clinical data, superspreader, index patient, nosocomial spread
   // The SARS outbreak in a general hospital in Tianjin, China – the case of super-spreader
   doi: https://doi.org/10.1017/S095026880500556X
   article 'Wang_et_al_2005
-    head =  In this report we summarized the results from an epidemiological investigation of a SARS outbreak in a hospital in Tianjin, between April and May 2003. We collected epidemiological and clinical data on 111 suspect and probable cases of SARS associated with the outbreak. Transmission chain and outbreak clusters were investigated. The outbreak was single sourced and had eight clusters. All SARS cases in the hospital were traced to a single patient who directly infected 33 people.
+    head = We collected epidemiological and clinical data on 111 suspect and probable cases of SARS associated with the outbreak (between April and May 2003). The outbreak was single sourced and had eight clusters. All SARS cases in the hospital were traced to a single patient who directly infected 33 people.
 
     >>> Abstract
       Severe acute respiratory syndrome (SARS) is a newly emerged infectious disease with a high case-fatality rate and devastating socio-economic impact. In this report we summarized the results from an epidemiological investigation of a SARS outbreak in a hospital in Tianjin, between April and May 2003. We collected epidemiological and clinical data on 111 suspect and probable cases of SARS associated with the outbreak. Transmission chain and outbreak clusters were investigated. The outbreak was single sourced and had eight clusters. All SARS cases in the hospital were traced to a single patient who directly infected 33 people. The patients ranged from 16 to 82 years of age (mean age 38·5 years); 38·7% were men. The overall case fatality in the SARS outbreak was 11·7% (13/111). The outbreak lasted around 4 weeks after the index case was identified. SARS is a highly contagious condition associated with substantial case fatality; an outbreak can result from one patient in a relatively short period. However, stringent public health measures seemed to be effective in breaking the disease transmission chain.
@@ -3159,7 +3148,6 @@ feed Pre2019
       !f
       !g
       !h
-      !i
 
     / December, 2005 - Epidemiol. Infect
     let !a self assert = Outbreak in Tianjin was initiated by a single patient from Beijing. The index case was treated in three hospitals in Tianjin and infected a large number of persons. In Hospital P alone, 33 SARS patients were directly infected by the index case.
@@ -3185,15 +3173,15 @@ feed Pre2019
     / December, 2005 - Epidemiol. Infect
     let !h self assert = The SARS outbreak in Tianjin as described in this paper seems typical of an outbreak associated with super-spreaders. While it is not clear whether super-spreaders are associated with more contagious viral strains or simply a result of unprotected natural transmission, it highlights the critical importance of early intervention in controlling SARS transmission.
 
-    / December, 2005 - Epidemiol. Infect
-    let !i self assert = Finally, this study only describes the outbreak in Hospital P. Most of the SARS cases in Tianjin occurred in this hospital. Thus, this study reflects one major component of the outbreak of SARS in Tianjin, providing a snapshot of a SARS outbreak in one hospital. Our findings add to our understanding of disease control, which may help us to better prepare to confront other emerging diseases in the future.
+    # / December, 2005 - Epidemiol. Infect
+    # let !i self assert = Finally, this study only describes the outbreak in Hospital P. Most of the SARS cases in Tianjin occurred in this hospital. Thus, this study reflects one major component of the outbreak of SARS in Tianjin, providing a snapshot of a SARS outbreak in one hospital. Our findings add to our understanding of disease control, which may help us to better prepare to confront other emerging diseases in the future.
 
 
   # superspreader, clinical characteristics, clinical and laboratory features on presentation that were associated with the adverse clinical outcome of respiratory failure requiring care in the ICU or death, SARS, Nosocomial spread, index patient
   // A Major Outbreak of Severe Acute Respiratory Syndrome in Hong Kong
   doi: https://doi.org/10.1056/NEJMoa030685
   article 'Lee_et_al_2003
-    head = We report an outbreak in our hospital of a deadly pneumonia, which caused rapid deterioration of pulmonary function requiring ICU admission in 23.2 percent of cases and mechanical ventilation in 13.8 percent. Within a period of less than two months, SARS has become a global health problem, prompting the WHO to issue a global alert for the first time in more than a decade.
+    head = We report an outbreak in the Prince of Wales Hospital, Hong Kong. The patients were either health care workers in a medical ward of the hospital or persons who had a history of contact with an index patient or exposure to the same medical ward. Our findings suggest SARS is a serious respiratory illness that led to significant morbidity and mortality in our cohort.
 
     >>> Background
       There has been an outbreak of the severe acute respiratory syndrome (SARS) worldwide. We report the clinical, laboratory, and radiologic features of 138 cases of suspected SARS during a hospital outbreak in Hong Kong.
@@ -3218,6 +3206,7 @@ feed Pre2019
       !h
       !i
       !j
+      !k
 
     / May, 2003 - N Engl J Med
     let !a self assert = SARS developed in 69 health care workers and 16 medical students, all with unremarkable medical histories, after exposure at work in the medical ward for men where our index patient was hospitalized. The high infectivity was also demonstrated by the fact that there were 26 tertiary cases, which included family members of the infected health care workers.
@@ -3229,25 +3218,28 @@ feed Pre2019
     let !c self assert = In our cohort, most of the common bacterial pathogens were ruled out, in addition to viral diseases such as influenza and respiratory syncytial virus infection. Moreover, lack of a response to the initial antimicrobial treatment we provided led to the suspicion that we were dealing with a novel virus that causes lower respiratory tract infection.
 
     / May, 2003 - N Engl J Med
-    let !d self assert = In the first 138 cases, we have identified several cardinal symptoms of SARS. Besides fever, chills, and rigor, which were present in more than 70 percent of cases, cough was present in more than 50 percent and dizziness in more than 40 percent of cases. Rigor may represent the viremic phase of the disease, which subsided gradually as the illness progressed. In addition, moderate lymphopenia and its subsequent progression, thrombocytopenia, a prolonged activated partial-thromboplastin time, elevated lactate dehydrogenase and creatine kinase levels, and elevated alanine aminotransferase levels were prevalent in the early phase of the illness in our cohort; all these findings are quite different from those associated with pneumonia caused by usual bacterial pathogens. Although these symptoms and laboratory findings are nonspecific, the constellation of these features should alert medical practitioners to the possibility of SARS.
+    let !d self assert = In the first 138 cases, we have identified several cardinal symptoms of SARS. Besides fever, chills, and rigor, which were present in more than 70 percent of cases, cough was present in more than 50 percent and dizziness in more than 40 percent of cases. Rigor may represent the viremic phase of the disease, which subsided gradually as the illness progressed. In addition, moderate lymphopenia and its subsequent progression, thrombocytopenia, a prolonged activated partial-thromboplastin time, elevated lactate dehydrogenase and creatine kinase levels, and elevated alanine aminotransferase levels were prevalent in the early phase of the illness in our cohort; all these findings are quite different from those associated with pneumonia caused by usual bacterial pathogens.
 
     / May, 2003 - N Engl J Med
-    let !e self assert = We have also found that the chest radiograph offers an important diagnostic clue to this condition. Typically, our patients presented with unilateral, predominantly peripheral areas of consolidation. After approximately one week, it progressed rapidly to bilateral patchy consolidation, and the extent of the lung opacities was correlated with the deterioration in respiratory function. In cases in which plain chest radiographs appeared normal in the presence of a high spiking fever and lymphopenia, CT of the thorax was a sensitive imaging approach for the diagnosis. The characteristic finding on CT was bilateral peripheral air-space ground-glass consolidation mimicking that in bronchiolitis obliterans with organizing pneumonia.
+    let !e self assert = We have also found that the chest radiograph offers an important diagnostic clue to this condition. In cases in which plain chest radiographs appeared normal in the presence of a high spiking fever and lymphopenia, CT of the thorax was a sensitive imaging approach for the diagnosis. The characteristic finding on CT was bilateral peripheral air-space ground-glass consolidation mimicking that in bronchiolitis obliterans with organizing pneumonia.
 
     / May, 2003 - N Engl J Med
-    let !f self assert = In fact, the similarity of this radiographic picture to that of bronchiolitis obliterans with organizing pneumonia and the similarity of the histologic features to those of early ARDS in postmortem studies have prompted us to use corticosteroids in combination with ribavirin for the treatment of SARS. In ARDS and particularly in bronchiolitis obliterans with organizing pneumonia, corticosteroid therapy has been used with some success.7 The majority of our cohort appeared to have a response to corticosteroid therapy, in addition to ribavirin, with resolution of fever and lung opacities within two weeks.
+    let !f self assert = In fact, the similarity of this radiographic picture to that of bronchiolitis obliterans with organizing pneumonia and the similarity of the histologic features to those of early ARDS in postmortem studies have prompted us to use corticosteroids in combination with ribavirin for the treatment of SARS. The majority of our cohort appeared to have a response to corticosteroid therapy, in addition to ribavirin, with resolution of fever and lung opacities within two weeks.
 
     / May, 2003 - N Engl J Med
-    let !g self assert = In this study, we were able to identify some clinical and laboratory features on presentation that were associated with the adverse clinical outcome of respiratory failure requiring care in the ICU or death. Univariate analyses showed that advanced age, male sex, a high neutrophil count, a high peak creatine kinase level, high initial and peak lactate dehydrogenase levels, and a low serum sodium level were associated with an adverse outcome.
+    let !g self assert = Univariate analyses showed that advanced age, male sex, a high neutrophil count, a high peak creatine kinase level, high initial and peak lactate dehydrogenase levels, and a low serum sodium level were associated with an adverse outcome.
 
     / May, 2003 - N Engl J Med
     let !h self assert = Only advanced age, a high neutrophil count, and a high peak lactate dehydrogenase level were independent predictors. Since high lactate dehydrogenase levels are often seen in association with tissue damage, we propose that this finding indicates more extensive lung injury. The significant association between a high neutrophil count and an adverse outcome remains to be explained.
 
     / May, 2003 - N Engl J Med
-    let !i self assert = A total of 32 patients (23.2 percent) were admitted to the intensive care unit; 5 patients died, all of whom had coexisting conditions (in our analyses, coexisting illness was not correlated with a poor outcome, probably because of the small number of such patients). In a multivariate analysis, the independent predictors of an adverse outcome were advanced age (odds ratio per decade of life, 1.80; 95 percent confidence interval, 1.16 to 2.81; P=0.009), a high peak lactate dehydrogenase level (odds ratio per 100 U per liter, 2.09; 95 percent confidence interval, 1.28 to 3.42; P=0.003), and an absolute neutrophil count that exceeded the upper limit of the normal range on presentation (odds ratio, 1.60; 95 percent confidence interval, 1.03 to 2.50; P=0.04).
+    let !i self assert = A total of 32 patients (23.2 percent) were admitted to the intensive care unit; 5 patients died, all of whom had coexisting conditions (in our analyses, coexisting illness was not correlated with a poor outcome, probably because of the small number of such patients).
 
     / May, 2003 - N Engl J Med
-    let !j self assert = SARS has already become a global health hazard, and its high infectivity is alarming. The discovery of the infective agent and studies of its behavior are crucial to an understanding of this new disease. A reliable, rapid diagnostic test, based on blood samples or nasopharyngeal aspirates, is of great importance in the future management of this disease. Until such a diagnostic test is available, a clear picture of its clinical presentation will help physicians be on the alert for this condition. Early recognition, prompt isolation, and appropriate therapy are the keys in combating this deadly infection.
+    let !j self assert = In a multivariate analysis, the independent predictors of an adverse outcome were advanced age, a high peak lactate dehydrogenase level, and an absolute neutrophil count that exceeded the upper limit of the normal range on presentation.
+
+    / May, 2003 - N Engl J Med
+    let !k self assert = A reliable, rapid diagnostic test, based on blood samples or nasopharyngeal aspirates, is of great importance in the future management of this disease.  Early recognition, prompt isolation, and appropriate therapy are the keys in combating this deadly infection.
 
 
   # heterogenoustransmission, superspreader, emerging disease epidemiology, Social networks, Realization of targeted control measures requires a better understanding of factors determining individual infectiousness.
@@ -3373,14 +3365,6 @@ feed Pre2019
   article 'Woolhouse_et_al_1997
     head = From an analysis of the distributions of measures of transmission rates among hosts, we identify an empirical relationship suggesting that, typically, 20% of the host population contributes at least 80% of the net transmission potential, as measured by the basic reproduction number, R0. This is an example of a statistical pattern known as the 20/80 rule. The rule applies to a variety of disease systems, including vector-borne parasites and sexually transmitted pathogens.
 
-    -- exports
-      !a
-      !b
-      !c
-      !d
-      !e
-      !f
-      !g
 
     / January, 1997 - The National Academy of Sciences of the USA
     let !a self assert = The results suggest that heterogeneities in contact rates lead to consistent and substantial increases in the value of R0, by factors in the range 2 to 4 for vector-borne infections and considerably higher for STDs. This may well apply to other infectious agents where “contact” is less easy to quantify. In practice, additional heterogeneities are also likely to contribute to the effects on R0.
@@ -3523,7 +3507,7 @@ feed Pre2019
   // Association of Public Health Interventions With the Epidemiology of the COVID-19 Outbreak in Wuhan, China
   doi: http://doi.org/10.1001/jama.2020.6130
   article 'Pan_et_al_2020
-    head = In this cohort study, the number of incident COVID-19 cases, rates of confirmed cases, and Rt were reduced and the outbreak was under improved control in Wuhan after implementation of multifaceted public health measures (including but not limited to intensive intracity and intercity traffic restriction, social distancing measures, home confinement and centralized quarantine, and improvement of medical resources).
+    head = In this cohort study, the institution of interventions including cordons sanitaire, traffic restriction, social distancing, home quarantine, centralized quarantine, and universal symptom survey was temporally associated with reduced effective reproduction number of SARS-CoV-2 (secondary transmission) and the number of confirmed cases per day across age groups, sex, and geographic regions.
 
     >>> Objective
       To evaluate the association of public health interventions with the epidemiological features of the COVID-19 outbreak in Wuhan by 5 periods according to key events and interventions.
@@ -3542,24 +3526,26 @@ feed Pre2019
 
     -- exports
       !a
-      !b
       !c
       !d
+      !e
 
     / April, 2020 - JAMA
     let !a self assert = Among the 32583 confirmed COVID-19 cases, females had a higher rate of confirmed cases compared with males, but males were more likely to have severe or critical illness. This is consistent with previous reports from China suggesting a higher crude fatality rate among men compared with women (2.8% vs 1.7%), and another study in critically ill patients demonstrating that more men were affected (67%) than women (33%).
 
-    / April, 2020 - JAMA
-    let !b self assert = Females had a higher rate of confirmed cases compared with males, but males were more likely to have severe or critical illness. Although the reasons for these differences are unknown, it is possible that men were more likely to be current smokers and had a higher proportion of comorbid conditions, which might worsen their prognosis.
+    # / April, 2020 - JAMA
+    # let !b self assert = Females had a higher rate of confirmed cases compared with males, but males were more likely to have severe or critical illness. Although the reasons for these differences are unknown, it is possible that men were more likely to be current smokers and had a higher proportion of comorbid conditions, which might worsen their prognosis.
 
     / April, 2020 - JAMA
     let !c self assert = The rate of cases in health care workers was substantially higher than in the general population between January 11 and February 1, indicating a high risk of nosocomial infection. This might be due to lower awareness and inadequate use of personal protective equipment in the early periods in this study, and later a severe shortage of medical resources.
 
     / April, 2020 - JAMA
-    let !d self assert = In a city with 10 million residents, mitigation measures, such as traffic restriction, cancellation of social gatherings, and home quarantine, were associated with a reduction in the degree of transmission. However, despite these interventions, the confirmed case rate continued to increase in the third period, perhaps in part due to shortages of pharmaceuticals and medical equipment and delayed diagnosis and access to medical treatment. Without rapid diagnosis, the risk of cross-infection in hospitals was high and patients likely continued to infect family members and close contacts. It has been reported that about 80% of the cluster transmission occurred in families in China.
+    let !d self assert = Mitigation measures, such as traffic restriction, cancellation of social gatherings, and home quarantine, were associated with a reduction in the degree of transmission. However, despite these interventions, the confirmed case rate continued to increase in the third period, perhaps in part due to shortages of pharmaceuticals and medical equipment and delayed diagnosis and access to medical treatment. Without rapid diagnosis, the risk of cross-infection in hospitals was high and patients likely continued to infect family members and close contacts. It has been reported that about 80% of the cluster transmission occurred in families in China.
 
     / April, 2020 - JAMA
     let !e self assert = Centralized quarantine of patients and close contacts appears to have been associated with a reduction in in-hospital, household, and community transmission. Between February 16 and 18, the government further initiated a door-to-door and individual-to-individual universal symptom survey to single out presumptive cases in the community, which was associated with further reductions in the spread of COVID-19 in Wuhan.
+
+
 
   # Serology Surveys
   // Sero-Prevalence and Incidence of A/H1N1 2009 Influenza Infection in Scotland in Winter 2009–2010
@@ -3661,7 +3647,8 @@ feed Pre2019
   // Social Contacts and Mixing Patterns Relevant to the Spread of Infectious Diseases
   doi: http://doi.org/10.1371/journal.pmed.0050074
   article 'Mossong_et_al_2008
-    head = One of the most important findings of this study is that the age and intensity patterns of contact are remarkably similar across different European countries even though the average number of contacts recorded differed. This similarity implies that the results may well be applicable to other European countries, and that the initial phase of spread of newly emerging infections in susceptible populations, such as SARS was in 2003, is likely to be very similar across Europe and in countries with similar social structures.
+    head = The age and intensity patterns of contact are remarkably similar across different European countries even though the average number of contacts recorded differed. This similarity implies that the results may well be applicable to other European countries, and that the initial phase of spread of newly emerging infections in susceptible populations, such as SARS, is likely to be very similar across Europe and in countries with similar social structures.
+
 
     >>> Background
       Mathematical modelling of infectious diseases transmitted by the respiratory or close-contact route (e.g., pandemic influenza) is increasingly being used to determine the impact of possible interventions. Although mixing patterns are known to be crucial determinants for model outcome, researchers often rely on a priori contact assumptions with little or no empirical basis. We conducted a population-based prospective survey of mixing patterns in eight European countries using a common paper-diary methodology.
@@ -3674,13 +3661,22 @@ feed Pre2019
 
     -- exports
       !a
-      !b
+      !c
+      !d
 
     / March, 2008 - PLoS Med
-    let !a self assert = Another major insight gained from our study comes from the observation that the contacts made by children and adolescents are more assortative than contacts made by other age groups. That is, most of the individuals contacted by children and teenagers are of very similar age, and these contacts tend to be of long duration. This pattern is likely to be the main reason why children and teenagers are and have been an important conduit for the initial spread of closecontact infections in general and for influenza in particular
+    let !a self assert = The contacts made by children and adolescents are more assortative than contacts made by other age groups. That is, most of the individuals contacted by children and teenagers are of very similar age, and these contacts tend to be of long duration. This pattern is likely to be the main reason why children and teenagers are and have been an important conduit for the initial spread of close contact infections in general and for influenza in particular.
+
+    # / March, 2008 - PLoS Med
+    # let !b self assert = One of the major assumptions behind our approach is that talking with or touching another person constitutes the main at-risk events for transmitting infectious diseases.
 
     / March, 2008 - PLoS Med
-    let !b self assert = One of the major assumptions behind our approach is that talking with or touching another person constitutes the main at-risk events for transmitting infectious diseases.
+    let !c self assert = Our results suggest that if efforts concentrate on locating contacts in the home, school, workplace, and leisure settings, on average more than 80% of all contacts would be found.
+
+    / March, 2008 - PLoS Med
+    let !d self assert = Preliminary modelling indicates that 5- to 19-year-olds are expected to suffer the highest incidence during the initial epidemic phase of an emerging infection transmitted through social contacts measured here when the population is completely susceptible.
+
+
 
   # Social Network
   // Networks and epidemic models
@@ -3712,7 +3708,7 @@ feed Pre2019
   // Herd immunity and herd effect: new insights and definitions
   doi: https://doi.org/10.1023/A:1007626510002
   article 'John_et_al_2000
-    head = Herd effect may in general be defined as the change (reduction) in the incidence of infection or disease in the un-intervened segment of a susceptible population due to the intervention in the rest of the population, compared to the incidence in the absence of intervention in the entire population. However, we have focused on the herd effect of immunisation programmes in this paper and we recommend that the term be qualified by the nature of intervention when appropriate (as due to early diagnosis and treatment, mass treatment etc). In ordinary use, when not qualified, herd effect will be taken as due to herd immunity.
+    head = This paper aims at providing a clear understanding of the phenomena herd immunity and herd effect and their relationships which will help improve the design of effective and effcient immunisation programmes aimed at control, elimination or eradication of vaccine preventable infectious diseases.
 
     >>> Abstract
       The term herd immunity has been used by various authors to conform to different definitions. Earlier this situation had been identified but not corrected. We propose that it should have precise meaning for which purpose a new definition is offered: “the proportion of subjects with immunity in a given population”. This definition dissociates herd immunity from the indirect protection observed in the unimmunised segment of a population in which a large proportion is immunised, for which the term ‘herd effect’ is proposed. It is defined as: “the reduction of infection or disease in the unimmunised segment as a result of immunising a proportion of the population”. Herd immunity can be measured by testing a sample of the population for the presence of the chosen immune parameter. Herd effect can be measured by quantifying the decline in incidence in the unimmunised segment of a population in which an immunisation programme is instituted. Herd immunity applies to immunisation or infection, human to human transmitted or otherwise. On the other hand, herd effect applies to immunisation or other health interventions which reduce the probability of transmission, confined to infections transmitted human to human, directly or via vector. The induced herd immunity of a given vaccine exhibits geographic variation as it depends upon coverage and efficacy of the vaccine, both of which can vary geographically. Herd effect is determined by herd immunity as well as the force of transmission of the corresponding infection. Clear understanding of these phenomena and their relationships will help improve the design of effective and efficient immunisation programmes aimed at control, elimination or eradication of vaccine preventable infectious diseases.
@@ -3722,9 +3718,9 @@ feed Pre2019
 
   # Herd Immunity
   // “Herd Immunity”: A Rough Guide
-  doi: https://doi.org/xyz
+  doi: https://doi.org/10.1093/cid/cir007
   article 'Fine_et_al_2011
-    head = Much of the early theoretical work on herd immunity assumed that vaccines induce solid immunity against infection and that populations mix at random, consistent with the simple herd immunity threshold for random vaccination of Vc = (1−1/R0), using the symbol Vc (Critical Vaccination Level) for the critical minimum proportion to be vaccinated (assuming 100% vaccine effectiveness).
+    head = We provide brief historical, epidemiologic, theoretical, and pragmatic public health perspectives on this concept.
 
     >>>
       The term “herd immunity” is widely used but carries a variety of meanings. Some authors use it to describe the proportion immune among individuals in a population. Others use it with reference to a particular threshold proportion of immune individuals that should lead to a decline in incidence of infection. Still others use it to refer to a pattern of immunity that should protect a population from invasion of a new infection. A common implication of the term is that the risk of infection among susceptible individuals in a population is reduced by the presence and proximity of immune individuals (this is sometimes referred to as “indirect protection” or a “herd effect”). We provide brief historical, epidemiologic, theoretical, and pragmatic public health perspectives on this concept.
@@ -3735,27 +3731,34 @@ feed Pre2019
       !c
       !d
       !e
+      !f
 
     / April, 2011 - Clinical Infectious Diseases
     let !a self assert = Consider a population consisting of 2 groups, high and low risk, and suppose that each high-risk case infects 5 high-risk individuals and each low-risk case infects 1 low-risk individual. Here, R0 = 5, so Vc = 80%. Because the high-risk group is responsible for any increase in incidence, outbreaks could in theory be prevented by vaccinating 80% of the high-risk group alone, thus <80% of the entire population.
 
     / April, 2011 - Clinical Infectious Diseases
-    let !b self assert =  If vaccination protects only a proportion E among those vaccinated (E standing for effectiveness against infection transmission, in the field), then the critical vaccination coverage level should be Vc=(1− 1/R0)/E. We can see from this that if E is <(1− 1/R0) it would be impossible to eliminate an infection even by vaccinating the whole population.Similarly, waning vaccine-induced immunity demands higher levels of coverage or regular booster vaccination.
+    let !b self assert = If vaccination protects only a proportion E among those vaccinated (E standing for effectiveness against infection transmission, in the field), then the critical vaccination coverage level should be Vc=(1− 1/R0)/E. We can see from this that if E is <(1− 1/R0) it would be impossible to eliminate an infection even by vaccinating the whole population. Similarly, waning vaccine-induced immunity demands higher levels of coverage or regular booster vaccination.
 
     / April, 2011 - Clinical Infectious Diseases
-    let !c self assert = Although the mathematics to describe heterogeneous mixing are complex, the critical threshold remains: Vc = (1− 1/R0)/E, except that R0 is no longer a simple function of the average number of contacts of individuals. Instead, R0 is a measure of the average number of secondary cases generated by a “typical” infectious person [14]. This average depends on how the various groups interact and can be calculated from a matrix describing how infection spreads within and between groups. Interactions are often observed to be more frequent within than between groups, in which case the most highly connected groups will dominate transmission, resulting in a higher value of R0, and a larger vaccination threshold than would be obtained by assuming that all individuals display average behavior.
+    let !c self assert = Although the mathematics to describe heterogeneous mixing are complex, the critical threshold remains: Vc = (1− 1/R0)/E, except that R0 is no longer a simple function of the average number of contacts of individuals. Instead, R0 is a measure of the average number of secondary cases generated by a “typical” infectious person. This average depends on how the various groups interact and can be calculated from a matrix describing how infection spreads within and between groups. Interactions are often observed to be more frequent within than between groups, in which case the most highly connected groups will dominate transmission, resulting in a higher value of R0, and a larger vaccination threshold than would be obtained by assuming that all individuals display average behavior.
 
     / April, 2011 - Clinical Infectious Diseases
-    let !d self assert = Selective vaccination of groups that are important in transmission can slow transmission in general populations or reduce incidence among population segments that may be at risk of severe consequences of infection. Schools play an important role in community transmission of influenza viruses, and thus there has been discussion of slowing transmission either by closing schools or by vaccinating schoolchildren. Selective vaccination of schoolchildren against influenza was policy in Japan during the 1990s and was shown to have reduced morbidity and mortality among the elderly
+    let !d self assert = Selective vaccination of groups that are important in transmission can slow transmission in general populations or reduce incidence among population segments that may be at risk of severe consequences of infection. Schools play an important role in community transmission of influenza viruses, and thus there has been discussion of slowing transmission either by closing schools or by vaccinating schoolchildren. Selective vaccination of schoolchildren against influenza was policy in Japan during the 1990s and was shown to have reduced morbidity and mortality among the elderly.
 
     / April, 2011 - Clinical Infectious Diseases
-    let !e self assert = A nonrandom distribution of vaccine can be ineffective even in a behaviorally homogeneous population, if it results in clusters of unvaccinated individuals; such groups are vulnerable to outbreaks.Social clustering among parents who decide not to vaccinate their children can result in groups of children in which vaccination levels are well below the herd immunity threshold [27]. The same effect is found in religious communities that eschew vaccination [28, 29]; though they form only a small proportion of the population, the fact that they often mix selectively with other members of the same community means that they are at an elevated risk of infection
+    let !e self assert = A nonrandom distribution of vaccine can be ineffective even in a behaviorally homogeneous population, if it results in clusters of unvaccinated individuals; such groups are vulnerable to outbreaks. Social clustering among parents who decide not to vaccinate their children can result in groups of children in which vaccination levels are well below the herd immunity threshold. The same effect is found in religious communities that eschew vaccination; though they form only a small proportion of the population, the fact that they often mix selectively with other members of the same community means that they are at an elevated risk of infection.
+
+    / April, 2011 - Clinical Infectious Diseases
+    let !f self assert = Much of the early theoretical work on herd immunity assumed that vaccines induce solid immunity against infection and that populations mix at random, consistent with the simple herd immunity threshold for random vaccination of Vc = (1−1/R0), using the symbol Vc (Critical Vaccination Level) for the critical minimum proportion to be vaccinated (assuming 100% vaccine effectiveness).
+
+
+
 
   # Mitigation
   // Efficient and quick inactivation of SARS coronavirus and other microbes exposed to the surfaces of some metal catalysts.
   doi: https://www.ncbi.nlm.nih.gov/pubmed/16131020
   article 'Han_et_al_2005
-    head = Exposures to the surfaces of Ag/Al2O3 and Cu/Al2O3 destroy the replication and propagation abilities of SARS-CoV, baculovirus and E. coli. Inactivation ability of metal catalysts needs to interact with air, utilizing oxygen molecules in air. Efficiently killing viruses and bacteria on the surfaces of the two metal catalysts has a promising potential for air-disinfection in hospitals, communities, and households.
+    head = Exposures to the surfaces of two metal catalysts - Ag/Al2O3 and Cu/Al2O3 destroy the replication and propagation abilities of SARS-CoV, baculovirus and E. coli. Efficiently killing viruses and bacteria on the surfaces of the two metal catalysts has a promising potential for air-disinfection in hospitals, communities, and households.
 
     >>> Abstract
       To study the two metal catalysts Ag/Al2O3 and Cu/Al2O3 that interdict the transmission pathway for SARS and other respiratory infectious diseases. Two metal catalysts Ag/Al2O3 and Cu/Al2O3 were pressed into wafers. One hundred microL 10(6) TCID50/mL SARS-CoV, 100 microL 10(6) PFU/mL recombinant baculovirus expressing hamster's prion protein (haPrP) protein and roughly 10(6) E. coli were slowly dropped onto the surfaces of the catalyst wafers and exposed for 5 and 20 min, respectively. After eluted from the surfaces of wafers, the infectivity of viruses and propagation of bacteria were measured. The expression of PrP protein was determined by Western blot. The morphological changes of bacteria were observed by electronic microscopy. After exposure to the catalysts surfaces for 5 and 20 min, the infectivity of SARS-CoV in Vero cells and baculovirus in Sf9 cells dropped down to a very low and undetectable level, and no colony was detected using bacteria culture method. The expression of haPrP protein reduced to 21.8% in the preparation of Sf9 cells infected with recombinant baculovirus exposed for 5 min and was undetectable exposed for 20 min. Bacterial membranes seemed to be cracked and the cytoplasm seemed to be effluent from cell bodies. Exposures to the surfaces of Ag/Al2O3 and Cu/Al2O3 destroy the replication and propagation abilities of SARS-CoV, baculovirus and E. coli. Inactivation ability of metal catalysts needs to interact with air, utilizing oxygen molecules in air. Efficiently killing viruses and bacteria on the surfaces of the two metal catalysts has a promising potential for air-disinfection in hospitals, communities, and households.
@@ -3764,11 +3767,13 @@ feed Pre2019
     # / July, 2005 - Biomedical and Environmental Sciences
     # let !a self assert =
 
+
+
   # Mitigation in Hospital - Copper
   // Copper Surfaces Reduce the Rate of Healthcare-Acquired Infections in the Intensive Care Unit
   doi: https://doi.org/10.1086/670207
   article 'Salgado_et_al_2015
-    head = Patients cared for in ICU rooms with copper alloy surfaces had a significantly lower rate of incident HAI (Healthcare-acquired infections) and/or colonization with MRSA (methicillin-resistant Staphylococcus aureus) or VRE (vancomycin-resistant Enterococcus) than did patients treated in standard rooms. Additional studies are needed to determine the clinical effect of copper alloy surfaces in additional patient populations and settings. - lowers infection rates
+    head = Patients cared for in ICU rooms with copper alloy surfaces had a significantly lower rate of incident HAI (Healthcare-acquired infections) and/or colonization with MRSA (methicillin-resistant Staphylococcus aureus) or VRE (vancomycin-resistant Enterococcus) than did patients treated in standard rooms.
 
     # / Jan, 2015 - Infection Control & Hospital Epidemiology
     # let !a self assert =
@@ -3777,7 +3782,7 @@ feed Pre2019
   // Environmental contamination makes an important contribution to hospital infection
   doi: https://doi.org/10.1016/S0195-6701(07)60015-2
   article 'Boyce_et_al_2007
-    head =  A number of studies have documented that healthcare workers may contaminate their hands or gloves by touching contaminated environmental surfaces, and that hands or gloves become contaminated with numbers of organisms that are likely to result in transmission to patients. Pathogens may also be transferred directly from contaminated surfaces to susceptible patients.
+    head = A number of studies have documented that healthcare workers may contaminate their hands or gloves by touching contaminated environmental surfaces, and that hands or gloves become contaminated with numbers of organisms that are likely to result in transmission to patients. Pathogens may also be transferred directly from contaminated surfaces to susceptible patients.
 
     -- exports
       !a
@@ -3788,30 +3793,32 @@ feed Pre2019
     let !a self assert = There is an increasing body of evidence that cleaning or disinfection of the environment can reduce transmission of healthcare-associated pathogens.
 
     / June, 2007 - Journal of hospital infection
-    let !b self assert =  Because routine cleaning of equipment items and other high-touch surfaces does not always remove pathogens from contaminated surfaces, improved methods of disinfecting the hospital environment are needed.
+    let !b self assert = Because routine cleaning of equipment items and other high-touch surfaces does not always remove pathogens from contaminated surfaces, improved methods of disinfecting the hospital environment are needed.
 
     / June, 2007 - Journal of hospital infection
     let !c self assert = Preliminary studies suggest that hydrogen peroxide vapour technology deserves further evaluation as a method for decontamination of the environment in healthcare settings.
 
 
 
-  # Community Mitigation - Copper
+  # Community Mitigation - Copper, DISCUSS WITH AYUSH
   // Inactivation of Influenza A Virus on Copper versus Stainless Steel Surfaces
   doi: https://doi.org/10.1128/AEM.01139-06
   article 'Noyce_et_al_2007
-    head = Influenza A virus particles (2 × 106) were inoculated onto copper or stainless steel and incubated at 22°C at 50 to 60% relative humidity. Infectivity of survivors was determined by utilizing a defined monolayer with fluorescent microscopy analysis. After incubation for 24 h on stainless steel, 500,000 virus particles were still infectious. After incubation for 6 h on copper, only 500 particles were active.
+    head = Influenza A virus particles (2 × 106) were inoculated onto copper or stainless steel and incubated at 22°C at 50 to 60% relative humidity. After incubation for 24 h on stainless steel, 500,000 virus particles were still infectious. After incubation for 6 h on copper, only 500 particles were active. Simply replacing steel fittings with copper will not prevent the transmission of influenza.
 
-    -- exports
-      !a
+    # -- exports
+    #   !a
+    #
+    # / April, 2007 - Appl Environ Microbiol
+    # let !a self assert = Simply replacing steel fittings with copper will not prevent the transmission of influenza. However, the current study shows that copper surfaces may contribute to the number of control barriers able to reduce transmission of the virus, particularly in facilities, such as schools and health care units, where viral contamination has the ability to cause serious infection.
 
-    / April, 2007 - Appl Environ Microbiol
-    let !a self assert = Simply replacing steel fittings with copper will not prevent the transmission of influenza. However, the current study shows that copper surfaces may contribute to the number of control barriers able to reduce transmission of the virus, particularly in facilities, such as schools and health care units, where viral contamination has the ability to cause serious infection.
+
 
   #  Copper  - Mitigation
   // Potential effectiveness of copper surfaces in reducing health care-associated infection rates in a pediatric intensive and intermediate care unit: A nonrandomized controlled trial
   doi: https://doi.org/10.1016/j.ajic.2016.03.053
   article 'Dessauer_et_al_2016
-    head = Exposure of pediatric patients to copper-surfaced objects in the closed environment of the intensive care unit resulted in decreased HAI(Health care-associated Infections) rates when compared with noncopper exposure; however, the RRR (Relative-Risk reduction) was not statistically significant. The clinical effect size warrants further consideration of this intervention as a component of a systems-based approach to control HAIs.
+    head = Exposure of pediatric patients to copper-surfaced objects in the closed environment of the intensive care unit resulted in decreased HAI(Health care-associated Infections) rates when compared with noncopper exposure; however, the RRR (Relative-Risk reduction) was not statistically significant.
 
     >>> BACKGROUND
       Studies have consistently shown that copper alloyed surfaces decrease the burden of microorganisms in health care environments. This study assessed whether copper alloy surfaces decreased hospital-associated infections in pediatric intensive and intermediate care units.
@@ -3833,7 +3840,7 @@ feed Pre2019
   // From Laboratory Research to a Clinical Trial: Copper Alloy Surfaces Kill Bacteria and Reduce Hospital-Acquired Infections
   doi: https://doi.org/10.1177/1937586715592650
   article 'Michels_et_al_2015
-    head = Bacteria die on copper alloy surfaces in both the laboratory and the hospital rooms. Infection rates were lowered in those hospital rooms containing copper components. Thus, based on the presented information, the placement of copper alloy components, in the built environment, may have the potential to reduce not only hospital-acquired infections but also patient treatment costs.
+    head = Bacteria die on copper alloy surfaces in both the laboratory and the hospital rooms. Infection rates were lowered in those hospital rooms containing copper components. The placement of copper alloy components, in the built environment, may have the potential to reduce not only hospital-acquired infections but also patient treatment costs.
 
     >>> Background
       There are indications that bacteria found on frequently touched environmental surfaces play a role in infection transmission.
@@ -3858,22 +3865,21 @@ feed Pre2019
     let !b self assert = The cost of treating an HAI ranges from $28,400 to $33,800 per patient. Installing copper on 10 percent of surfaces cost $52,000 and prevented 14 infections over the course of the 338-day study. If you take the lower end of the HAI treatment cost ($28,400), then those 14 prevented infections saved a total of $397,600, or $1,176 a day.
 
 
-  # Viability Copper
+  # Viability Copper, discuss assertion c and remove from subjects
   // Human Coronavirus 229E Remains Infectious on Common Touch Surface Materials
   doi: http://doi.org/10.1128/mBio.01697-15
   article 'Sarah_et_al_2015
-    head = We report here that pathogenic human coronavirus 229E remained infectious in a human lung cell culture model following at least 5 days of persistence on a range of common nonbiocidal surface materials, including polytetrafluoroethylene (Teflon; PTFE), polyvinyl chloride (PVC), ceramic tiles, glass, silicone rubber, and stainless steel.
+    head = Pathogenic human coronavirus 229E remained infectious in a human lung cell culture model following at least 5 days of persistence on a range of common nonbiocidal surface materials, including Teflon, PVC, ceramic tiles, glass, silicone rubber, and stainless steel. It was rapidly inactivated on a range of copper alloys and Cu/Zn brasses were very effective at lower copper concentration.
 
     >>> Abstract
       The evolution of new and reemerging historic virulent strains of respiratory viruses from animal reservoirs is a significant threat to human health. Inefficient human-to-human transmission of zoonotic strains may initially limit the spread of transmission, but an infection may be contracted by touching contaminated surfaces. Enveloped viruses are often susceptible to environmental stresses, but the human coronaviruses responsible for severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS) have recently caused increasing concern of contact transmission during outbreaks. We report here that pathogenic human coronavirus 229E remained infectious in a human lung cell culture model following at least 5 days of persistence on a range of common nonbiocidal surface materials, including polytetrafluoroethylene (Teflon; PTFE), polyvinyl chloride (PVC), ceramic tiles, glass, silicone rubber, and stainless steel. We have shown previously that noroviruses are destroyed on copper alloy surfaces. In this new study, human coronavirus 229E was rapidly inactivated on a range of copper alloys (within a few minutes for simulated fingertip contamination) and Cu/Zn brasses were very effective at lower copper concentration. Exposure to copper destroyed the viral genomes and irreversibly affected virus morphology, including disintegration of envelope and dispersal of surface spikes. Cu(I) and Cu(II) moieties were responsible for the inactivation, which was enhanced by reactive oxygen species generation on alloy surfaces, resulting in even faster inactivation than was seen with nonenveloped viruses on copper. Consequently, copper alloy surfaces could be employed in communal areas and at any mass gatherings to help reduce transmission of respiratory viruses from contaminated surfaces and protect the public health.
 
     -- exports
-      !a
       !b
       !c
 
-    / Oct, 2015 - American Society for Microbiology
-    let !a self assert = Noroviruses are destroyed on copper alloy surfaces. In this new study, human coronavirus 229E was rapidly inactivated on a range of copper alloys (within a few minutes for simulated fingertip contamination) and Cu/Zn brasses were very effective at lower copper concentration.
+    # / Oct, 2015 - American Society for Microbiology
+    # let !a self assert = Noroviruses are destroyed on copper alloy surfaces. In this new study, human coronavirus 229E was rapidly inactivated on a range of copper alloys (within a few minutes for simulated fingertip contamination) and Cu/Zn brasses were very effective at lower copper concentration.
 
     / Oct, 2015 - American Society for Microbiology
     let !b self assert = Exposure to copper destroyed the viral genomes and irreversibly affected virus morphology, including disintegration of envelope and dispersal of surface spikes.
@@ -4267,7 +4273,7 @@ feed Pre2019
   // Incubation periods of acute respiratory viral infections: a systematic review
   doi: https://doi.org/10.1016/S1473-3099(09)70069-6
   article 'Lessler_et_al_2013
-    head = Median incubation period to be 5·6 days for adenovirus, 3·2 days for human coronavirus, 4·0 days for SARS, 1·4 days for influenza A, 0·6 days for influenza B, 12·5 days for measles, 2·6 days for parainfluenza, 4·4 days for respiratory syncytial virus, and 1·9 days for rhinovirus. 
+    head = Median incubation period to be 5·6 days for adenovirus, 3·2 days for human coronavirus, 4·0 days for SARS, 1·4 days for influenza A, 0·6 days for influenza B, 12·5 days for measles, 2·6 days for parainfluenza, 4·4 days for respiratory syncytial virus, and 1·9 days for rhinovirus.
 
     >>> Abstract
       Knowledge of the incubation period is essential in the investigation and control of infectious disease, but statements of incubation period are often poorly referenced, inconsistent, or based on limited data. In a systematic review of the literature on nine respiratory viral infections of public-health importance, we identified 436 articles with statements of incubation period and 38 with data for pooled analysis. We fitted a log-normal distribution to pooled data and found the median incubation period to be 5·6 days (95% CI 4·8–6·3) for adenovirus, 3·2 days (95% CI 2·8–3·7) for human coronavirus, 4·0 days (95% CI 3·6–4·4) for severe acute respiratory syndrome coronavirus, 1·4 days (95% CI 1·3–1·5) for influenza A, 0·6 days (95% CI 0·5–0·6) for influenza B, 12·5 days (95% CI 11·8–13·3) for measles, 2·6 days (95% CI 2·1–3·1) for parainfluenza, 4·4 days (95% CI 3·9–4·9) for respiratory syncytial virus, and 1·9 days (95% CI 1·4–2·4) for rhinovirus. When using the incubation period, it is important to consider its full distribution: the right tail for quarantine policy, the central regions for likely times and sources of infection, and the full distribution for models used in pandemic planning. Our estimates combine published data to give the detail necessary for these and other applications.
@@ -4416,7 +4422,10 @@ feed Pre2019
   // High Zika Virus Seroprevalence in Salvador, Northeastern Brazil Limits the Potential for Further Outbreaks
   doi: http://doi.org/10.1128/mBio.01390-17
   article 'Netto_et_al_2017
-    head = Our data corroborate ZIKV-associated congenital disease and an association of low SES and ZIKV infection and suggest that population immunity caused cessation of the outbreak. Similar studies from other areas will be required to determine the fate of the American ZIKV outbreak.
+    head = We demonstrate rapid spread of ZIKV in Salvador, Brazil, and infection rates exceeding 60%. We provide evidence for the link between ZIKV and microcephaly, report that ZIKV predominantly affects geographic areas with low socioeconomic status, and show that population immunity likely caused cessation of the outbreak.
+
+    >>> Abstract
+      During 2015 to 2016, Brazil reported more Zika virus (ZIKV) cases than any other country, yet population exposure remains unknown. Serological studies of ZIKV are hampered by cross-reactive immune responses against heterologous viruses. We conducted serosurveys for ZIKV, dengue virus (DENV), and Chikungunya virus (CHIKV) in 633 individuals prospectively sampled during 2015 to 2016, including microcephaly and non-microcephaly pregnancies, HIV-infected patients, tuberculosis patients, and university staff in Salvador in northeastern Brazil using enzyme-linked immunosorbent assays (ELISAs) and plaque reduction neutralization tests. Sera sampled retrospectively during 2013 to 2015 from 277 HIV-infected patients were used to assess the spread of ZIKV over time. Individuals were georeferenced, and sociodemographic indicators were compared between ZIKV-positive and -negative areas and areas with and without microcephaly cases. Epidemiological key parameters were modeled in a Bayesian framework. ZIKV seroprevalence increased rapidly during 2015 to 2016, reaching 63.3% by 2016 (95% confidence interval [CI], 59.4 to 66.8%), comparable to the seroprevalence of DENV (75.7%; CI, 69.4 to 81.1%) and higher than that of CHIKV (7.4%; CI, 5.6 to 9.8%). Of 19 microcephaly pregnancies, 94.7% showed ZIKV IgG antibodies, compared to 69.3% of 257 non-microcephaly pregnancies (P = 0.017). Analyses of sociodemographic data revealed a higher ZIKV burden in low socioeconomic status (SES) areas. High seroprevalence, combined with case data dynamics allowed estimates of the basic reproduction number R0 of 2.1 (CI, 1.8 to 2.5) at the onset of the outbreak and an effective reproductive number Reff of <1 in subsequent years. Our data corroborate ZIKV-associated congenital disease and an association of low SES and ZIKV infection and suggest that population immunity caused cessation of the outbreak. Similar studies from other areas will be required to determine the fate of the American ZIKV outbreak.
 
     -- exports
       !a
@@ -4426,22 +4435,22 @@ feed Pre2019
       !e
 
     / Oct, 2017 - American Society for Microbiology
-    let !a self assert = Epidemiological key parameters were modeled in a Bayesian framework. ZIKV seroprevalence increased rapidly during 2015 to 2016, reaching 63.3% by 2016 (95% confidence interval [CI], 59.4 to 66.8%), comparable to the seroprevalence of DENV (75.7%; CI, 69.4 to 81.1%) and higher than that of CHIKV (7.4%; CI, 5.6 to 9.8%)
+    let !a self assert = Epidemiological key parameters were modeled in a Bayesian framework. ZIKV seroprevalence increased rapidly during 2015 to 2016, reaching 63.3% by 2016, comparable to the seroprevalence of DENV and higher than that of CHIKV.
 
     / Oct, 2017 - American Society for Microbiology
-    let !b self assert = Of 19 microcephaly pregnancies, 94.7% showed ZIKV IgG antibodies, compared to 69.3% of 257 non-microcephaly pregnancies (P 0.017)
+    let !b self assert = Of 19 microcephaly pregnancies, 94.7% showed ZIKV IgG antibodies, compared to 69.3% of 257 non-microcephaly pregnancies.
 
     / Oct, 2017 - American Society for Microbiology
     let !c self assert = Analyses of sociodemographic data revealed a higher ZIKV burden in low socioeconomic status (SES) areas.
 
     / Oct, 2017 - American Society for Microbiology
-    let !d self assert = The estimated basic reproduction number (R0) for ZIKV was 2.1 (CI, 1.8 to 2.5) at the onset of the outbreak with, on average, 2.0% (CI, 1.8 to 2.2%) of ZIKV infections reported in the national surveillance system. Projecting the model forward into 2016 suggested a continued decline in transmission despite the return of peak arbovirus Due to the lack of susceptible individuals, the effective reproductive number (Reff) was not predicted to exceed one in subsequent years, a condition required for another ZIKV epidemic wave.
+    let !d self assert = The estimated basic reproduction number (R0) for ZIKV was 2.1 at the onset of the outbreak with, on average, 2.0% of ZIKV infections reported in the national surveillance system. Projecting the model forward into 2016 suggested a continued decline in transmission despite the return of peak arbovirus Due to the lack of susceptible individuals, the effective reproductive number (Reff) was not predicted to exceed one in subsequent years, a condition required for another ZIKV epidemic wave.
 
     / Oct, 2017 - American Society for Microbiology
-    let !e self assert = The estimated basic reproduction number (R0) for ZIKV was 2.1 (CI, 1.8 to 2.5) at the onset of the outbreak with, on average, 2.0% (CI, 1.8 to 2.2%) of ZIKV infections reported in the national surveillance system. Projecting the model forward into 2016 suggested a continued decline in transmission despite the return of peak arbovirus. Due to the lack of susceptible individuals, the effective reproductive number (Reff) was not predicted to exceed one in subsequent years, a condition required for another ZIKV epidemic wave
+    let !e self assert = The estimated basic reproduction number (R0) for ZIKV was 2.1 at the onset of the outbreak with, on average, 2.0% of ZIKV infections reported in the national surveillance system. Projecting the model forward into 2016 suggested a continued decline in transmission despite the return of peak arbovirus. Due to the lack of susceptible individuals, the effective reproductive number (Reff) was not predicted to exceed one in subsequent years, a condition required for another ZIKV epidemic wave
 
-    / Oct, 2017 - American Society for Microbiology
-    let !f self assert = The limitation of ZIKV spread due to community protective immunity is probably analogous to CHIKV, because both viruses show limited antigenic variability. Consistent with our data, CHIKV infection rates exceeding 60% have been associated with the cessation of outbreak activity. In Africa and probably in Asia as well, CHIKV can emerge cyclically from nonhuman primate reservoirs upon replenishment of sufficient numbers of susceptible individuals. Whether ZIKV can establish a sylvatic transmission cycle in Latin America thus requires urgent investigation.
+    # / Oct, 2017 - American Society for Microbiology
+    # let !f self assert = The limitation of ZIKV spread due to community protective immunity is probably analogous to CHIKV, because both viruses show limited antigenic variability. Consistent with our data, CHIKV infection rates exceeding 60% have been associated with the cessation of outbreak activity. In Africa and probably in Asia as well, CHIKV can emerge cyclically from nonhuman primate reservoirs upon replenishment of sufficient numbers of susceptible individuals. Whether ZIKV can establish a sylvatic transmission cycle in Latin America thus requires urgent investigation.
 
 
   # Tag - Seroprevalance, Testing
@@ -4481,37 +4490,58 @@ feed Pre2019
   // Inflamm‐aging: An Evolutionary Perspective on Immunosenescence
   doi: https://doi.org/10.1111/j.1749-6632.2000.tb06651.x
   article 'Franceschi_et_al_2006
-    head = The beneficial effects of inflammation devoted to the neutralization of dangerous/harmful agents early in life and in adulthood become detrimental late in life in a period largely not foreseen by evolution, according to the antagonistic pleiotropy theory of aging.
+    head = “Inflamm‐aging,” is provoked by a continuous antigenic load and stress. Thus, the beneficial effect of the defense system network (innate immunity, stress, and inflammation), devoted to the neutralization of dangerous/harmful agents early in life and in adulthood, turns out to be detrimental late in life, in a period largely not foreseen by evolution. Similar phenomena have been predicted by evolutionary geneticists who proposed the theory of antagonistic pleiotropy.
 
     >>> Abstract
       In this paper we extend the “network theory of aging,” and we argue that a global reduction in the capacity to cope with a variety of stressors and a concomitant progressive increase in proinflammatory status are major characteristics of the aging process. This phenomenon, which we will refer to as “inflamm‐aging,” is provoked by a continuous antigenic load and stress. On the basis of evolutionary studies, we also argue that the immune and the stress responses are equivalent and that antigens are nothing other than particular types of stressors. We also propose to return macrophage to its rightful place as central actor not only in the inflammatory response and immunity, but also in the stress response. The rate of reaching the threshold of proinflammatory status over which diseases/disabilities ensue and the individual capacity to cope with and adapt to stressors are assumed to be complex traits with a genetic component. Finally, we argue that the persistence of inflammatory stimuli over time represents the biologic background (first hit) favoring the susceptibility to age‐related diseases/disabilities. A second hit (absence of robust gene variants and/or presence of frail gene variants) is likely necessary to develop overt organ‐specific age‐related diseases having an inflammatory pathogenesis, such as atherosclerosis, Alzheimer's disease, osteoporosis, and diabetes. Following this perspective, several paradoxes of healthy centenarians (increase of plasma levels of inflammatory cytokines, acute phase proteins, and coagulation factors) are illustrated and explained. In conclusion, the beneficial effects of inflammation devoted to the neutralization of dangerous/harmful agents early in life and in adulthood become detrimental late in life in a period largely not foreseen by evolution, according to the antagonistic pleiotropy theory of aging.
 
-    # / Jan, 2006 - The New york academy of Sciences
-    #  let !a self assert =
+    -- exports
+      !a
+      !b
+      !c
+
+    / Jan, 2006 - The New york academy of Sciences
+    let !a self assert = The plasma levels of IL-6 are low or undetectable in most young people and start to increase in healthy people at about 50–60 years of age. Accordingly, stimulated peripheral blood lymphocytes (PBL) from aged people produce higher levels of IL-6 than do PBL from young subjects.
+
+    / Jan, 2006 - The New york academy of Sciences
+    let !b self assert = The well established increase with age of IL-6 plasma levels appears to be unexpectedly present in both persons who enjoyed successful aging and those who suffered pathological aging. This increase continues with age, until the extreme limit of human life, and high levels of IL-6 are found in a high percentage of centenarians in good shape. In these subjects other proteins, such as acute phase proteins, lipoprotein a (Lp(a)), fibrinogen and other coagulation factors, and proinflammatory cytokines are similarly increased.
+
+    / Jan, 2006 - The New york academy of Sciences
+    let !c self assert = In sharp contrast, high levels of IL-6 have been referred to as the most powerful predictors of morbidity and mortality in the elderly.
+
+
 
   # Tag - Old age
   // Aging is associated with a numerical and functional decline in plasmacytoid dendritic cells, whereas myeloid dendritic cells are relatively unaltered in human peripheral blood
   doi: https://doi.org/10.1016/j.humimm.2009.07.005
   article 'Jing_et_al_2009
-    head = Low-grade chronic inflammation in individuals that commonly occurs during aging can also dull the ability of the innate and adaptive immune responses.
+    head = Aging was associated with decline in pDC (plasmacytoid dendritic cells), but not mDC (myeloid dendritic cells), in healthy young versus elderly subject group comparisons, while declining health in the elderly can profoundly impact mDC negatively. Because of the importance of pDC for antiviral responses, the age-related changes in pDC likely contribute to the impaired immune response to viral infections in elderly persons, especially when combined with the mDC dysfunction occurring in those with compromised health. These findings support the strategy of targeting pDC for immune modulation to enhance vaccine efficacy in healthy elderly populations.
 
     >>> Abstract
       Dendritic cells (DC) are potent antigen-presenting cells that initiate and regulate T-cell responses. In this study, the numbers and functional cytokine secretions of plasmacytoid and myeloid DC (pDC and mDC, respectively) in peripheral blood from young and elderly subjects were compared. Overall, pDC numbers in peripheral blood were lower in healthy elderly compared with healthy young subjects (p = 0.016). In response to influenza virus stimulation, isolated pDC from healthy elderly subjects secreted less interferon (IFN)–α compared with those from healthy young subjects. The decline in IFN-α secretion was associated with a reduced proportion of pDC that expressed Toll-like receptor–7 or Toll-like receptor-9. In contrast, there was little difference in the numbers and cytokine secretion function between healthy young and healthy elderly subjects (p = 0.82). However, in peripheral blood from frail elderly subjects, the numbers of mDC were severely depleted as compared with either healthy young or elderly subjects (p = 0.014 and 0.007, respectively). Thus, aging was associated with the numerical and functional decline in pDC, but not mDC, in healthy young versus elderly subject group comparisons, while declining health in the elderly can profoundly impact mDC negatively. Because of the importance of pDC for antiviral responses, the age-related changes in pDC likely contribute to the impaired immune response to viral infections in elderly persons, especially when combined with the mDC dysfunction occurring in those with compromised health.
 
-    # / Oct, 2009 - Human Immunology
-    # let !a self assert =
+    -- exports
+      !a
+
+    / Oct, 2009 - Human Immunology
+    let !a self assert = Low-grade chronic inflammation in individuals that commonly occurs during aging can also dull the ability of the innate and adaptive immune responses.
+
+
 
   # Tag - Old Age
   // Impaired Interferon Signaling in Dendritic Cells From Older Donors Infected In Vitro With West Nile Virus
   doi: https://doi.org/10.1093/infdis/jir048
   article 'Qian_et_al_2011
-    head = Monocytes from older individuals produce less interferon in response to viral infection.
+    head = Induction of type I IFN is a key feature of the innate immune antiviral response. Our results identify deficits in critical regulatory pathways in the antiviral response that may contribute to the enhanced susceptibility to viral infections observed in aging.
 
     >>> Abstract
       West Nile virus (WNV), a mosquito-borne, single-stranded RNA flavivirus, causes significant human morbidity and mortality in the older population; thus, we investigated the effects of aging on infection with WNV in dendritic cells (DCs). We infected DCs with WNV in vitro and quantified cytokines and chemokines (type I IFN and CXCL10), pathogen recognition receptors RIG-I, and Toll-like receptors 3 and 7. The production of type I IFN was significantly lower in DCs from older donors, compared with younger donors. Although we observed no significant age-related difference in expression or nuclear translocation of signaling molecules in initial antiviral responses, DCs from older donors have diminished induction of late-phase responses (eg, STAT1, IRF7, and IRF1), suggesting defective regulation of type I IFN. Our results identify deficits in critical regulatory pathways in the antiviral response that may contribute to the enhanced susceptibility to viral infections observed in aging.
 
-    # / May, 2011 - The Journal of Infectious Diseases,
-    # let !a self assert =
+    -- exports
+      !a
+
+    / May, 2011 - The Journal of Infectious Diseases,
+    let !a self assert = Monocytes from older individuals produce less interferon in response to viral infection.
 
 
   # Tag - Convalent Plasma Limitations
@@ -4628,7 +4658,7 @@ feed Pre2019
       !g
 
     / May, 2012 - American Society for Microbiology Journals
-    let !a self assert = Our study showed that environmental PV surveillance is a very sensitive tool. In the case of high vaccination coverage of 95% with 1% naturally immune and 4% seronegative individuals, assuming that 100 persons are infected with an average shedding of 200 g feces per day, our data indicate that with a population size of 37,000 and an average sewage volume per day of 2.18E7 liters, approximately 25 polioviruses could be detected in 1 liter of sewage.Due to the ability to detect these numbers of polioviruses in sewage, this scenario would lead to an informative environmental poliovirus surveillance system.
+    let !a self assert = Our study showed that environmental PV surveillance is a very sensitive tool. In the case of high vaccination coverage of 95% with 1% naturally immune and 4% seronegative individuals, assuming that 100 persons are infected with an average shedding of 200 g feces per day, our data indicate that with a population size of 37,000 and an average sewage volume per day of 2.18E7 liters, approximately 25 polioviruses could be detected in 1 liter of sewage. Due to the ability to detect these numbers of polioviruses in sewage, this scenario would lead to an informative environmental poliovirus surveillance system.
 
     / May, 2012 - American Society for Microbiology Journals
     let !b self assert = In second plausible scenario (in a Bible Belt community) with a vaccination coverage of 60%, 8% naturally immune individuals, and 32% seronegative individuals, when 100 individuals are infected, approximately 750 polioviruses could be detected in 1 liter of sewage.
@@ -4643,10 +4673,12 @@ feed Pre2019
     let !e self assert = We observed one virus peak in feces and two (possibly three) peaks in sewage for poliovirus type 1, 3, or both. The secondary peak in sewage on day 22 may indicate secondary transmission in the exposed population, although rules of hygiene were given to prevent the household spread of OPV. This again shows the usefulness of environmental surveillance in addition to other types of poliovirus surveillance
 
     / May, 2012 - American Society for Microbiology Journals
-    let !f self assert = The issue of whether poliovirus levels indicate the level of poliovirus circulation in the population is multifactorial. At which phase of infection did an individual’s poliovirus enter the sewage? What was the specific immune status of the individual? What was the general immune status of the exposed individual? It is difficult to evaluate the sensitivity of environmental surveillance in the case of wild-type poliovirus outbreaks
+    let !f self assert = The issue of whether poliovirus levels indicate the level of poliovirus circulation in the population is multifactorial. At which phase of infection did an individual’s poliovirus enter the sewage? What was the specific immune status of the individual? What was the general immune status of the exposed individual? It is difficult to evaluate the sensitivity of environmental surveillance in the case of wild-type poliovirus outbreaks.
 
     / May, 2012 - American Society for Microbiology Journals
     let !g self assert = We have established that in our elderly study population, the variation in the number of virus particles shed by the individual was highly dependent on the presence or absence of a memory response.
+
+
 
   # Tag - antiviral, treatments, Niclosamide, SARS
   // Inhibition of severe acute respiratory syndrome coronavirus replication by niclosamide.
@@ -4802,32 +4834,57 @@ feed Pre2019
   // A Bayesian dynamic model for influenza surveillance
   doi: http://doi.org/10.1002/sim.2566
   article 'Sebastiani_et_al_2006
-    head = By integrating these data sources into a dynamic model, we identify in children and infants presenting to the pediatric emergency department with respiratory syndromes an early indicator of impending influenza morbidity and mortality.
+    head = We integrated the four data sources that are monitored for influenza surveillance into a dynamic  model. Our findings suggest that children with respiratory syndromes seen at the ED (emergency department) act as sentinels for surges in influenza morbidity and mortality and that active surveillance of pediatric populations could become an important component of the influenza surveillanc effort.
 
-    -- exports
-      !a
 
     / April, 2006 - HHS Public Access
     let !a self assert = Our findings suggest that children with respiratory syndromes seen at the ED act as sentinels for surges in influenza morbidity and mortality and that active surveillance of pediatric populations could become an important component of the influenza surveillanc effort.
+
+
 
   # Tags - School closure
   // Substantial Impact of School Closure on the Transmission Dynamics during the Pandemic Flu H1N1-2009 in Oita, Japan
   doi: https://doi.org/10.1371/journal.pone.0144839
   article 'Kawano_et_al_2015
-    head = The effect of school closure showed :  the number of infected students decreased by about 24% at its peak, and the number of cumulative infected students decreased by about 8.0%.
+    head = School closure was an effective intervention for mitigating the spread of influenza and should be implemented for more than 4 days. School closure has a remarkable impact on decreasing the number of infected students at the peak, but it does not substantially decrease the total number of infected students.
+
+    >>> Background
+      School closure is considered as an effective measure to prevent pandemic influenza. Although Japan has implemented many class, grade, and whole school closures during the early stage of the pandemic 2009, the effectiveness of such a school closure has not been analysed appropriately. In addition, analysis based on evidence or data from a large population has yet to be performed. We evaluated the preventive effect of school closure against the pandemic (H1N1) 2009 and examined efficient strategies of reactive school closure.
+
+    >>> Materials and Methods
+      Data included daily reports of reactive school closures and the number of infected students in the pandemic in Oita City, Japan. We used a regression model that incorporated a time delay to analyse the daily data of school closure based on a time continuous susceptible-exposed-infected-removed model of infectious disease spread. The delay was due to the time-lag from transmission to case reporting. We simulated the number of students infected daily with and without school closure and evaluated the effectiveness.
+
+    >>> Results
+      The model with a 3-day delay from transmission to reporting yielded the best fit using R2 (the coefficient of determination). This result suggests that the recommended period of school closure is more than 4 days. Moreover, the effect of school closure in the simulation of school closure showed the following: the number of infected students decreased by about 24% at its peak, and the number of cumulative infected students decreased by about 8.0%.
+
+    >>> Conclusions
+      School closure was an effective intervention for mitigating the spread of influenza and should be implemented for more than 4 days. School closure has a remarkable impact on decreasing the number of infected students at the peak, but it does not substantially decrease the total number of infected students.
 
     -- exports
       !a
 
     / December, 2015 - Plos One
-    let !a self assert = School closure was an effective intervention for mitigating the spread of influenza and should be implemented for more than 4 days. School closure has a remarkable impact on decreasing the number of infected students at the peak, but it does not substantially decrease the total number of infected students.
+    let !a self assert = The effect of school closure in the simulation of school closure showed the following: the number of infected students decreased by about 24% at its peak, and the number of cumulative infected students decreased by about 8.0%.
 
 
   # Tags - School closure
   // School closure policies at municipality level for mitigating influenza spread: a modelbased evaluation
   doi: https://doi.org/10.1186/s12879-016-1918-z
   article 'Ciavarella_et_al_2016
-    head = Our simulation results suggest that reactive school closure policies based on student absenteeism can be highly effective in mitigating influenza spread in the case of pandemics/epidemics characterized by features (e.g., reproduction number and age-specific susceptibility to infection)
+    head = Our simulation results suggest that reactive school closure policies based on student absenteeism are applicable in real-world situations and can be highly effective in mitigating influenza spread in the case of pandemics/epidemics characterized by features (e.g., reproduction number and age-specific susceptibility to infection) comparable to the 2009 H1N1 pandemic.
+
+
+    >>> Background
+      Nearly every year Influenza affects most countries worldwide and the risk of a new pandemic is always present. Therefore, influenza is a major concern for public health. School-age individuals are often the most affected group, suggesting that the inclusion in preparedness plans of school closure policies may represent an option for influenza mitigation. However, their applicability remains uncertain and their implementation should carefully be weighed on the basis of cost-benefit considerations.
+
+    >>> Methods
+      We developed an individual-based model for influenza transmission integrating data on sociodemography and time use of the Italian population, face-to-face contacts in schools, and influenza natural history. The model was calibrated on the basis of epidemiological data from the 2009 influenza pandemic and was used to evaluate the effectiveness of three reactive school closure strategies, all based on school absenteeism.
+
+    >>> Results
+      In the case of a new influenza pandemic sharing similar features with the 2009 H1N1 pandemic, gradual school closure strategies (i.e., strategies closing classes first, then grades or the entire school) could lead to attack rate reduction up to 20–25 % and to peak weekly incidence reduction up to 50–55 %, at the cost of about three school weeks lost per student. Gradual strategies are quite stable to variations in the start of policy application and to the threshold on student absenteeism triggering class (and school) closures. In the case of a new influenza pandemic showing different characteristics with respect to the 2009 H1N1 pandemic, we found that the most critical features determining the effectiveness of school closure policies are the reproduction number and the age-specific susceptibility to infection, suggesting that these two epidemiological quantities should be estimated early on in the spread of a new pandemic for properly informing response planners.
+
+    >>> Conclusions
+      Our results highlight a potential beneficial effect of reactive gradual school closure policies in mitigating influenza spread, conditioned on the effort that decision makers are willing to afford. Moreover, the suggested strategies are solely based on routinely collected and easily accessible data (such as student absenteeism irrespective of the cause and ILI incidence) and thus they appear to be applicable in real world situations.
 
     -- exports
       !a
@@ -4840,18 +4897,44 @@ feed Pre2019
     let !b self assert = Reducing the uncertainty in the estimates of reproduction number and age-specific susceptibility to infection is essential in order to support policy makers in the design of optimal response plans.
 
 
+
   # Tags - School closure
   // Strategies for mitigating an influenza pandemic
   doi: https://doi.org/10.1038/nature04795
   article 'Fergusion_et_al_2006
-    head = This paper shows that if school closure is reactive (waiting for first case and then closing 100% of schools), with moderately transmissible virus, cumulative cases decline 26% & epidemic
+    head = Household quarantine is potentially the most effective social distance measure, but only if compliance with the policy is good. Reactive school closure has limited impact on overall attack rates, but can enhance other policies. For the high transmissibility scenario only policies using >99% border controls can delay spread by enough to enable pandemic vaccine to reduce attack rates substantially.
 
     >>> Abstract
-      Development of strategies for mitigating the severity of a new influenza pandemic is now a top global public health priority. Influenza prevention and containment strategies can be considered under the broad categories of antiviral, vaccine and non-pharmaceutical (case isolation, household quarantine, school or workplace closure, restrictions on travel) measures. Mathematical models are powerful tools for exploring this complex landscape of intervention strategies and quantifying the potential costs and benefits of different options. Here we use a large-scale epidemic simulation6 to examine intervention options should initial containment of a novel influenza outbreak fail, using Great Britain and the United States as examples. We find that border restrictions and/or internal travel restrictions are unlikely to delay spread by more than 2–3 weeks unless more than 99% effective. School closure during the peak of a pandemic can reduce peak attack rates by up to 40%, but has little impact on overall attack rates, whereas case isolation or household quarantine could have a significant impact, if feasible. Treatment of clinical cases can reduce transmission, but only if antivirals are given within a day of symptoms starting. Given enough drugs for 50% of the population, household-based prophylaxis coupled with reactive school closure could reduce clinical attack rates by 40–50%. More widespread prophylaxis would be even more logistically challenging but might reduce attack rates by over 75%. Vaccine stockpiled in advance of a pandemic could significantly reduce attack rates even if of low efficacy. Estimates of policy effectiveness will change if the characteristics of a future pandemic strain differ substantially from those seen in past pandemics.
+      Development of strategies for mitigating the severity of a new influenza pandemic is now a top global public health priority. Influenza prevention and containment strategies can be considered under the broad categories of antiviral, vaccine and non-pharmaceutical (case isolation, household quarantine, school or workplace closure, restrictions on travel) measures. Mathematical models are powerful tools for exploring this complex landscape of intervention strategies and quantifying the potential costs and benefits of different options. Here we use a large-scale epidemic simulation to examine intervention options should initial containment of a novel influenza outbreak fail, using Great Britain and the United States as examples. We find that border restrictions and/or internal travel restrictions are unlikely to delay spread by more than 2–3 weeks unless more than 99% effective. School closure during the peak of a pandemic can reduce peak attack rates by up to 40%, but has little impact on overall attack rates, whereas case isolation or household quarantine could have a significant impact, if feasible. Treatment of clinical cases can reduce transmission, but only if antivirals are given within a day of symptoms starting. Given enough drugs for 50% of the population, household-based prophylaxis coupled with reactive school closure could reduce clinical attack rates by 40–50%. More widespread prophylaxis would be even more logistically challenging but might reduce attack rates by over 75%. Vaccine stockpiled in advance of a pandemic could significantly reduce attack rates even if of low efficacy. Estimates of policy effectiveness will change if the characteristics of a future pandemic strain differ substantially from those seen in past pandemics.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
 
 
     / April, 2006 - Nature
-    let !a self assert =
+    let !a self assert = School closure during the peak of a pandemic can reduce peak attack rates by up to 40%, but has little impact on overall attack rates, whereas case isolation or household quarantine could have a significant impact, if feasible.
+
+    / April, 2006 - Nature
+    let !b self assert = Treatment of clinical cases can reduce transmission, but only if antivirals are given within a day of symptoms starting.
+
+    / April, 2006 - Nature
+    let !c self assert = Given enough drugs for 50% of the population, household-based prophylaxis coupled with reactive school closure could reduce clinical attack rates by 40–50%. More widespread prophylaxis would be even more logistically challenging but might reduce attack rates by over 75%.
+
+    / April, 2006 - Nature
+    let !d self assert = Vaccine stockpiled in advance of a pandemic could significantly reduce attack rates even if of low efficacy.
+
+    / April, 2006 - Nature
+    let !e self assert = We find that border restrictions and/or internal travel restrictions are unlikely to delay spread by more than 2–3 weeks unless more than 99% effective.
+
+    / April, 2006 - Nature
+    let !f self assert = The magnitude of the impact of border controls is governed by the rate at which global infection prevalence increases. A tenfold reduction in numbers of visitors delays arrival of infection for approximately as long as it takes global prevalence to increase tenfold to compensate—12.5 days using the global model assumed here.
+
+
 
   # Tags - School Clousre , Social Network
   // Nonpharmaceutical Interventions Implemented by US Cities During the 1918-1919 Influenza Pandemic
@@ -4859,8 +4942,23 @@ feed Pre2019
   article 'Market_et_al_2007
     head = The earlier that schools were closed (ideally even in advance of outbreaks) the lower the number of excess deaths in 43 US cities during the 1918 Influenza pandemic. The longer that school closings and other non-pharmaceutical interventions (NPI) were applied in each of 43 US cities during the 1918 influenza pandemic, the lower was the ultimate mortality rate.
 
-    >>> Abstract : Results
+    >>> Context
+      A critical question in pandemic influenza planning is the role nonpharmaceutical interventions might play in delaying the temporal effects of a pandemic, reducing the overall and peak attack rate, and reducing the number of cumulative deaths. Such measures could potentially provide valuable time for pandemic-strain vaccine and antiviral medication production and distribution. Optimally, appropriate implementation of nonpharmaceutical interventions would decrease the burden on health care services and critical infrastructure.
+
+    >>> Objectives
+      To examine the implementation of nonpharmaceutical interventions for epidemic mitigation in 43 cities in the continental United States from September 8, 1918, through February 22, 1919, and to determine whether city-to-city variation in mortality was associated with the timing, duration, and combination of nonpharmaceutical interventions; altered population susceptibility associated with prior pandemic waves; age and sex distribution; and population size and density.
+
+    >>> Design and Setting
+      Historical archival research, and statistical and epidemiological analyses. Nonpharmaceutical interventions were grouped into 3 major categories: school closure; cancellation of public gatherings; and isolation and quarantine.
+
+    >>> Main Outcome Measures
+      Weekly excess death rate (EDR); time from the activation of nonpharmaceutical interventions to the first peak EDR; the first peak weekly EDR; and cumulative EDR during the entire 24-week study period.
+
+    >>> Results
       There were 115 340 excess pneumonia and influenza deaths (EDR, 500/100 000 population) in the 43 cities during the 24 weeks analyzed. Every city adopted at least 1 of the 3 major categories of nonpharmaceutical interventions. School closure and public gathering bans activated concurrently represented the most common combination implemented in 34 cities (79%); this combination had a median duration of 4 weeks (range, 1-10 weeks) and was significantly associated with reductions in weekly EDR. The cities that implemented nonpharmaceutical interventions earlier had greater delays in reaching peak mortality (Spearman r = −0.74, P < .001), lower peak mortality rates (Spearman r = 0.31, P = .02), and lower total mortality (Spearman r = 0.37, P = .008). There was a statistically significant association between increased duration of nonpharmaceutical interventions and a reduced total mortality burden (Spearman r = −0.39, P = .005).
+
+    >>> Conclusions
+      These findings demonstrate a strong association between early, sustained, and layered application of nonpharmaceutical interventions and mitigating the consequences of the 1918-1919 influenza pandemic in the United States. In planning for future severe influenza pandemics, nonpharmaceutical interventions should be considered for inclusion as companion measures to developing effective vaccines and medications for prophylaxis and treatment.
 
     / August, 2007 - JAMA
     let !a self assert =
@@ -4869,40 +4967,55 @@ feed Pre2019
   // Spread of Pathogens in the Patient Transfer Network of US Hospitals
   doi: https://doi.org/10.1007/978-3-319-60240-0_33
   article 'gracia_et_al_2017b
-    head = Understanding the structure and dynamics of the hospital transfer network for the spread of real infections has a number of important implications. Empirical data could be used, either periodically or perhaps even in real time to map networks of patient movement in the US health care system, and this network could then be used monitor the spread of nosocomial and other infections in the network.
+    head = We investigate the temporal network of transfers of Medicare patients across US hospitals over a 2-year period. Approximately 2% of hospitals as sensors, chosen based on their network in-degree, with an activation time of 7 days results in optimal performance for this early warning system, enabling the early detection of 80% of the C. difficile. cases with the hospitals in the sensor set activated for only a fraction of 40% of the time.
+
     >>> Abstract
       Antibiotic-resistant organisms, an increasing source of morbidity and mortality, have a natural reservoir in hospitals, and recent estimates suggest that almost 2 million people develop hospital-acquired infections each year in the US alone. We investigate the temporal network of transfers of Medicare patients across US hospitals over a 2-year period to learn about the possible role of hospital-to-hospital transfers of patients in the spread of infections. We analyze temporal, geographical, and topological properties of the transfer network and show that this network may serve as a substrate for the spread of infections. Finally, we study different strategies for the early detection of incipient epidemics on the temporal transfer network as a function of activation time of a subset of sensor hospitals. We find that using approximately 2% of hospitals as sensors, chosen based on their network in-degree, with an activation time of 7 days results in optimal performance for this early warning system, enabling the early detection of 80% of the C. difficile. cases with the hospitals in the sensor set activated for only a fraction of 40% of the time.
 
-    -- exports
-      !a
 
     / June, 2017 - Social, Cultural, and Behavioral Modeling.
     let !a self assert = The actual structure and flow pattern of patients across US hospitals confers certain specific vulnerabilities and defenses, regardless of the biology of the pathogen per se, placing theoretical bounds on any effective containment strategy directed at a contagious pathogen.
+
 
 
   # Tag - Social Network
   // Influence of a patient transfer network of US inpatient facilities on the incidence of nosocomial infections
   doi: https://doi.org/10.1038/s41598-017-02245-7
   article 'gracia_et_al_2017
-    head = We studied a network defined by the transfer of a large number of Medicare patients across 5,667 US facilities over a 2-year period. We found the transfer network to be strongly bound by geography with 90% of all transfers spanning a distance less than 200 km.
+    head =  We studied a network defined by the transfer of a large number of Medicare patients across 5,667 US facilities over a 2-year period. We observed a positive correlation among mean C. difficile incidences between facilities and their network neighbors. This association was significantly stronger with a hospital’s network neighbors than with nearby non-connected hospitals across a wide range of geographic distances.
 
     >>> Abstract
       Antibiotic-resistant bacterial infections are a substantial source of morbidity and mortality and have a common reservoir in inpatient settings. Transferring patients between facilities could be a mechanism for the spread of these infections. We wanted to assess whether a network of hospitals, linked by inpatient transfers, contributes to the spread of nosocomial infections and investigate how network structure may be leveraged to design efficient surveillance systems. We construct a network defined by the transfer of Medicare patients across US inpatient facilities using a 100% sample of inpatient discharge claims from 2006–2007. We show the association between network structure and C. difficile incidence, with a 1% increase in a facility’s C. difficile incidence being associated with a 0.53% increase in C. difficile incidence of neighboring facilities. Finally, we used network science methods to determine the facilities to monitor to maximize surveillance efficiency. An optimal surveillance strategy for selecting “sensor” hospitals, based on their network position, detects 80% of the C. difficile infections using only 2% of hospitals as sensors. Selecting a small fraction of facilities as “sensors” could be a cost-effective mechanism to monitor emerging nosocomial infections.
 
-    # / June, 2017 - Scientific Reports
-    # let !a self assert =
+    -- exports
+      !a
+
+    / June, 2017 - Scientific Reports
+    let !a self assert = An optimal surveillance strategy for selecting “sensor” hospitals, based on their network position, detects 80% of the C. difficile infections using only 2% of hospitals as sensors. Selecting a small fraction of facilities as “sensors” could be a cost-effective mechanism to monitor emerging nosocomial infections.
+
 
   # Tag - Social network
   // Dueling biological and social contagions
   doi: https://doi.org/10.1038/srep43634
   article 'Fu_et_al_2017
-    head = This study used detailed data about the parallel spread of a biological contagion (H1N1 flu) and a social contagion (vaccination behavior or social distancing) to show how human behavior(s) might accelerate or slow spread of a pathogen
+    head = The model considers how the spread of behavior coevolves with the spread of disease and that the interaction of these two contagions: biological contagion (H1N1 flu) and a social contagion (vaccination behavior or social distancing) plays a critical role in the course of their spread and the resulting implications for public health interventions or marketing. The size of epidemics is much more sensitive to the extent to which people copy one another’s vaccination behavior.
 
     >>> Abstract
       Numerous models explore how a wide variety of biological and social phenomena spread in social networks. However, these models implicitly assume that the spread of one phenomenon is not affected by the spread of another. Here, we develop a model of “dueling contagions”, with a particular illustration of a situation where one is biological (influenza) and the other is social (flu vaccination). We apply the model to unique time series data collected during the 2009 H1N1 epidemic that includes information about vaccination, flu, and face-to-face social networks. The results show that well-connected individuals are more likely to get vaccinated, as are people who are exposed to friends who get vaccinated or are exposed to friends who get the flu. Our dueling contagion model suggests that other epidemiological models may be dramatically underestimating the R0 of contagions. It also suggests that the rate of vaccination contagion may be even more important than the biological contagion in determining the course of the disease. These results suggest that real world and online platforms that make it easier to see when friends have been vaccinated (personalized vaccination campaigns) and when they get the flu (personalized flu warnings) could have a large impact on reducing the severity of epidemics. They also suggest possible benefits from understanding the coevolution of many kinds of dueling contagions.
 
+    -- exports
+    !a
+    !b
+    !c
+
     / March, 2017 - Scientific Reports
-    let !a self assert =
+    let !a self assert = Central individuals not only perceive earlier warning signs regarding biological contagion – they are also more likely to be exposed to friends who have gotten vaccinated. Both of these tendencies increase the likelihood that central individuals will get vaccinated sooner, and, if the social contagion outpaces the biological contagion, it could paradoxically reduce the rate of flu in central individuals compared to those at the periphery of the network.
+
+    / March, 2017 - Scientific Reports
+    let !b self assert = In our data, there were 21 subjects who became sick with flu despite receiving flu shots earlier, confirming that the vaccines are not completely effective at containing novel strains. But perhaps more importantly, they may exacerbate fears of vaccines since they provide the friends of the affected with first-hand evidence of vaccination failure that may spread from person to person and have a large impact on future vaccination rates.
+
+    / March, 2017 - Scientific Reports
+    let !c self assert = Organizations charged with monitoring and predicting the course of disease should incorporate behavioral contagion into their models. They should also explore interventions that increase the visibility of friend outcomes and behaviors to exploit peer effects for the mitigation of epidemics. The key is to use social contagions to fight biological contagions, helping the former to outstrip the latter.
 
 
 
@@ -4910,25 +5023,26 @@ feed Pre2019
   // Social Network Sensors for Early Detection of Contagious Outbreaks
   doi: https://doi.org/10.1371/journal.pone.0012948
   article 'Christakis_et_al_2010
-    head = This study describe methods that can be used to provide early detection of outbreaks and it could also be used to monitor targeted populations of any size, in real time.
+    head = This study proposes the method of simply monitoring the friends of randomly selected individuals that could be used to provide early detection of contagious outbreaks and it could also be used to monitor targeted populations of any size, in real time. The method could in principle be generalized to other biological, psychological, informational, or behavioral contagions that spread in networks.
 
     >>> Abstract
       Current methods for the detection of contagious outbreaks give contemporaneous information about the course of an epidemic at best. It is known that individuals near the center of a social network are likely to be infected sooner during the course of an outbreak, on average, than those at the periphery. Unfortunately, mapping a whole network to identify central individuals who might be monitored for infection is typically very difficult. We propose an alternative strategy that does not require ascertainment of global network structure, namely, simply monitoring the friends of randomly selected individuals. Such individuals are known to be more central. To evaluate whether such a friend group could indeed provide early detection, we studied a flu outbreak at Harvard College in late 2009. We followed 744 students who were either members of a group of randomly chosen individuals or a group of their friends. Based on clinical diagnoses, the progression of the epidemic in the friend group occurred 13.9 days (95% C.I. 9.9–16.6) in advance of the randomly chosen group (i.e., the population as a whole). The friend group also showed a significant lead time (p<0.05) on day 16 of the epidemic, a full 46 days before the peak in daily incidence in the population as a whole. This sensor method could provide significant additional time to react to epidemics in small or large populations under surveillance. The amount of lead time will depend on features of the outbreak and the network at hand. The method could in principle be generalized to other biological, psychological, informational, or behavioral contagions that spread in networks.
 
     -- exports
-      !a
       !b
       !c
 
 
-    / September, 2010 - Plos one
-    let !a self assert = With respect to flu, models assessing the impact of prophylactic vaccination in a metropolis such as New York City suggest that vaccinating even one third of the population would save lives and shorten the course of the epidemic, but only if implemented a month earlier than usual.
+    # / September, 2010 - Plos one
+    # let !a self assert = With respect to flu, models assessing the impact of prophylactic vaccination in a metropolis such as New York City suggest that vaccinating even one third of the population would save lives and shorten the course of the epidemic, but only if implemented a month earlier than usual.
 
     / September, 2010 - Plos one
     let !b self assert = A health service at a university (or other institution) could empanel a sample of subjects who are nominated as friends and who agree to be passively monitored for their health care use (e.g., in the form of visits to health care facilities); a spike in cases in this group could be read as a warning of an impending outbreak.
 
     / September, 2010 - Plos one
     let !c self assert = The ability to detect outbreaks early, and how early it might do so, will depend on intrinsic properties of the thing that is spreading (e.g., the biology of the pathogen); how this thing is measured; the nature of the population, including the overall prevalence of susceptible or affected individuals; the number of people empanelled into the sensor group; the topology of the network and other factors, such as whether the outbreak modifies the structure of the network as it spreads.
+
+
 
   # Tag - Remdesivir
   // Coronavirus Susceptibility to the Antiviral Remdesivir (GS-5734) Is Mediated by the Viral Polymerase and the Proofreading Exoribonuclease
@@ -5230,7 +5344,7 @@ feed Pre2019
   // The use of masks and respirators to prevent transmission of influenza: a systematic review of the scientific evidence.
   doi: https://doi.org/10.1111/j.1750-2659.2011.00307.x
   article 'Reza_et_al_2011
-    head = There are limited data on the use of masks and respirators to reduce transmission of influenza. A systematic review was undertaken to help inform pandemic influenza guidance in the United Kingdom.
+    head = None of the studies established a conclusive relationship between mask/respirator use and protection against influenza infection. Some evidence suggests that mask use is best undertaken as part of a package of personal protection especially hand hygiene in both home and healthcare settings. Early initiation and correct and consistent wearing of masks/respirators may improve their effectiveness.
 
     >>> Abstract
       There are limited data on the use of masks and respirators to reduce transmission of influenza. A systematic review was undertaken to help inform pandemic influenza guidance in the United Kingdom. The initial review was performed in November 2009 and updated in June 2010 and January 2011. Inclusion criteria included randomised controlled trials and quasi‐experimental and observational studies of humans published in English with an outcome of laboratory‐confirmed or clinically‐diagnosed influenza and other viral respiratory infections. There were 17 eligible studies. Six of eight randomised controlled trials found no significant differences between control and intervention groups (masks with or without hand hygiene; N95/P2 respirators). One household trial found that mask wearing coupled with hand sanitiser use reduced secondary transmission of upper respiratory infection/influenza‐like illness/laboratory‐confirmed influenza compared with education; hand sanitiser alone resulted in no reduction. One hospital‐based trial found a lower rate of clinical respiratory illness associated with non‐fit‐tested N95 respirator use compared with medical masks. Eight of nine retrospective observational studies found that mask and/or respirator use was independently associated with a reduced risk of severe acute respiratory syndrome (SARS). Findings, however, may not be applicable to influenza and many studies were suboptimal. None of the studies established a conclusive relationship between mask/respirator use and protection against influenza infection. Some evidence suggests that mask use is best undertaken as part of a package of personal protection especially hand hygiene. The effectiveness of masks and respirators is likely linked to early, consistent and correct usage.
@@ -5238,40 +5352,30 @@ feed Pre2019
     -- exports
       !a
       !b
-      !c
-      !d
 
-    / Facemask use and efficacy on protection against infleunza infection
-    let !a self assert = In our review of mask and respirator effectiveness in reducing the transmission of influenza, none of the studies established a conclusive relationship between mask/respirator use and protection against influenza infection.
 
     / December, 2011 -  Wiley
-    let !b self assert = Eight of nine retrospective observational studies found that mask and/or respirator use was independently associated with a reduced risk of severe acute respiratory syndrome (SARS).
+    let !a self assert = Eight of nine retrospective observational studies found that mask and/or respirator use was independently associated with a reduced risk of severe acute respiratory syndrome (SARS).
 
     / December, 2011 -  Wiley
-    let !c self assert = There is a limited evidence base to support the use of masks and/or respirators in healthcare or community settings.
+    let !b self assert = There is a limited evidence base to support the use of masks and/or respirators in healthcare or community settings.
 
-    / Mask wearing alone is not enough
-    let !d self assert = Mask use is best undertaken as part of a package of personal protection, especially including hand hygiene in both home and healthcare settings. Early initiation and correct and consistent wearing of masks/respirators may improve their effectiveness.
+
+
 
   # Facemasks, Mathematical modeling
   // Mathematical Modeling of the Effectiveness of Facemasks in Reducing the Spread of Novel Influenza A (H1N1)
   doi: https://doi.org/10.1371/journal.pone.0009018
   article 'Tracht_et_al_2010
-    head = Little research has been done to quantify the impact of using facemasks in reducing the spread of disease. We construct and analyze a mathematical model for a population in which some people wear facemasks during the pandemic and quantify impact of these masks on the spread of influenza.
+    head = The results show that if N95 respirators are only 20% effective in reducing susceptibility and infectivity, only 10% of the population would have to wear them to reduce the number of influenza A (H1N1) cases by 20%. If worn properly, facemasks are an effective intervention strategy in reducing the spread of pandemic (H1N1) 2009.
 
     >>> Abstract
       On June 11, 2009, the World Health Organization declared the outbreak of novel influenza A (H1N1) a pandemic. With limited supplies of antivirals and vaccines, countries and individuals are looking at other ways to reduce the spread of pandemic (H1N1) 2009, particularly options that are cost effective and relatively easy to implement. Recent experiences with the 2003 SARS and 2009 H1N1 epidemics have shown that people are willing to wear facemasks to protect themselves against infection; however, little research has been done to quantify the impact of using facemasks in reducing the spread of disease. We construct and analyze a mathematical model for a population in which some people wear facemasks during the pandemic and quantify impact of these masks on the spread of influenza. To estimate the parameter values used for the effectiveness of facemasks, we used available data from studies on N95 respirators and surgical facemasks. The results show that if N95 respirators are only 20% effective in reducing susceptibility and infectivity, only 10% of the population would have to wear them to reduce the number of influenza A (H1N1) cases by 20%. We can conclude from our model that, if worn properly, facemasks are an effective intervention strategy in reducing the spread of pandemic (H1N1) 2009.
 
 
-    -- exports
-      !a
-      !b
-
     / February, 2010 -  Plos one
-    let !a self assert = If N95 respirators are only 20% effective in reducing susceptibility and infectivity, only 10% of the population would have to wear them to reduce the number of influenza A (H1N1) cases by 20%.
+    let !a self assert =
 
-    / Results of mathematical modelling of H1N1 virus spread and the use of facemasks
-    let !b self assert = We can conclude from our model that, if worn properly, facemasks are an effective intervention strategy in reducing the spread of pandemic (H1N1) 2009.
 
   # Frontiers
   // The Egyptian Rousette Genome Reveals Unexpected Features of Bat Antiviral Immunity
@@ -5517,14 +5621,13 @@ feed Pre2019
     / Journal of Virology - October, 2009
     let !d self assert = SARS-CoV infection induces an enhanced virus-specific T-cell response in the lungs.
 
+
   # Prospects - SARS Cov
   // Inactivation of the coronavirus that induces severe acute respiratory syndrome, SARS-CoV.
   doi: https://doi.org/10.1016/j.jviromet.2004.06.006
   article 'Darnell_et_al_2004
-    head =  We describe the kinetics of viral inactivation methods, which will allow research with SARS-CoV containing materials, that are rendered non-infectious, to be conducted at reduced safety levels.
+    head = We describe the kinetics of viral inactivation methods, SARS-CoV was inactivated by ultraviolet light (UV) at 254 nm, heat treatment of 65 °C or greater, alkaline (pH > 12) or acidic (pH < 3) conditions, formalin and glutaraldehyde treatments.
 
-    -- Exports
-      !a
 
     / Journal of Virological Methods - September, 2004
-    let !a self assert = SARS-CoV was inactivated by ultraviolet light (UV) at 254 nm, heat treatment of 65 °C or greater, alkaline (pH > 12) or acidic (pH < 3) conditions, formalin and glutaraldehyde treatments.
+    let !a self assert =

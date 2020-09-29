@@ -1078,15 +1078,11 @@ feed June2020
   // Sex differences in immune responses to SARS-CoV-2 that underlie disease outcomes
   doi: https://doi.org/10.1101/2020.06.06.20123414
   ref 'Takahashi_et_al_06_09_2020
-    head = We examined sex differences in viral loads, SARS-CoV-2-specific antibody titers, plasma cytokines, as well as blood cell phenotyping in COVID-19 patients. Our findings reveal a possible explanation underlying observed sex biases in COVID-19, and provide important basis for the development of sex-based approach to the treatment and care of men and women with COVID-19.
+    head = Male patients have higher levels of key innate immune cytokines and it is not associated with  worse disease progression, while in the female patients it is. Female COVID-19 patients induce more robust T cell response than male patients, which was sustained in old age. Poor T cell response negatively correlated with patients age and was predictive of worse disease outcome in male patients, but not in female patients.
 
     >>> Abstract
       A growing body of evidence indicates sex differences in the clinical outcomes of coronavirus disease 2019 (COVID-19)1-4. However, whether immune responses against SARS-CoV-2 differ between sexes, and whether such differences explain male susceptibility to COVID-19, is currently unknown. In this study, we examined sex differences in viral loads, SARS-CoV-2-specific antibody titers, plasma cytokines, as well as blood cell phenotyping in COVID-19 patients. By focusing our analysis on patients with mild to moderate disease who had not received immunomodulatory medications, our results revealed that male patients had higher plasma levels of innate immune cytokines and chemokines including IL-8, IL-18, and CCL5, along with more robust induction of non-classical monocytes. In contrast, female patients mounted significantly more robust T cell activation than male patients during SARS-CoV-2 infection, which was sustained in old age. Importantly, we found that a poor T cell response negatively correlated with patients age and was predictive of worse disease outcome in male patients, but not in female patients. Conversely, higher innate immune cytokines in female patients associated with worse disease progression, but not in male patients. These findings reveal a possible explanation underlying observed sex biases in COVID-19, and provide important basis for the development of sex-based approach to the treatment and care of men and women with COVID-19.
 
-    -- exports
-      !a
-      !b
-      !c
     -- Therapeutics frontiers
       !j
     #   !c
@@ -1099,14 +1095,14 @@ feed June2020
     # -- Therapeutics frontiers
     #   !j
 
-    / June, 2020 - medRxiv
-    let !a self assert = Male patients had higher plasma levels of innate immune cytokines and chemokines including IL-8, IL-18, and CCL5, along with more robust induction of non-classical monocytes.
-
-    / June, 2020 - medRxiv
-    let !b self assert = Female patients mounted significantly more robust T cell activation than male patients during SARS-CoV-2 infection, which was sustained in old age. Poor T cell response negatively correlated with patients age and was predictive of worse disease outcome in male patients, but not in female patients.
-
-    / June, 2020 - medRxiv
-    let !c self assert = Higher innate immune cytokines in female patients associated with worse disease progression, but not in male patients.
+    # / June, 2020 - medRxiv
+    # let !a self assert = Male patients had higher plasma levels of innate immune cytokines and chemokines including IL-8, IL-18, and CCL5, along with more robust induction of non-classical monocytes.
+    #
+    # / June, 2020 - medRxiv
+    # let !b self assert = Female patients mounted significantly more robust T cell activation than male patients during SARS-CoV-2 infection, which was sustained in old age. Poor T cell response negatively correlated with patients age and was predictive of worse disease outcome in male patients, but not in female patients.
+    #
+    # / June, 2020 - medRxiv
+    # let !c self assert = Higher innate immune cytokines in female patients associated with worse disease progression, but not in male patients.
 
     # / June, 2020 - medRxiv
     # let !c self assert = Importantly, we found that a poor T cell response negatively correlated with patients age and was predictive of worse disease outcome in male patients, but not in female patients. Conversely, higher innate immune cytokines in female patients associated with worse disease progression, but not in male patients.
@@ -1131,7 +1127,7 @@ feed June2020
     #
 
     / June, 2020 - medRxiv
-    let !j self assert = Collectively, these data suggest that vaccines and therapies to elevate T cell immune response to SARS-CoV-2 might be warranted for male patients, while female patients might benefit from therapies that dampen innate immune activation early during disease.
+    let !j self assert = These data suggest that vaccines and therapies to elevate T cell immune response to SARS-CoV-2 might be warranted for male patients, while female patients might benefit from therapies that dampen innate immune activation early during disease.
 
 
   #
@@ -1240,10 +1236,13 @@ feed June2020
 
     / June, 2020 - Annals of the New York Academy of Sciences
     let !a self assert = It follows that the adoption of this simple technology ought to be re-evaluated in countries where facemask use is not being encouraged. Within the parameter regimes tested, the models also show that, if COVID-19 is to be controlled or eradicated, early lock-down combined with facemask adoption by close to 100% by the public needs to occur. This, of course, does not exclude the implementation of other management interventions, such as widespread testing and contact tracing.
+
     / Arguing for use of facemasks inspite of lack of direct evidence for Covid19
     let !b self assert = We argue that the lack of experimental population-based data on facemask use cannot be equated with facemask ineffectiveness, particularly when it is accepted that patients with other respiratory diseases such as influenza have been recommended to wear facemasks to limit virus-particle-laden droplet spread.
+
     / June, 2020 - Annals of the New York Academy of Sciences
     let !c self assert = Models show that under a wide range of plausible parameter conditions, facemask use by the public could significantly reduce the rate of COVID-19 spread, prevent further disease waves and allow less stringent lock-down regimes. The effect is greatest when 100% of the public wear facemasks.
+
     / Facemasks and lock-down combination can be beneficial
     let !d self assert = A combination of facemask wearing and lock-down periods implemented together is indicated to provide a better solution to the COVID-19 pandemic than either in isolation.
 
@@ -1307,23 +1306,24 @@ feed June2020
     >>> Abstract
       This study aims to evaluate the filtration performance of three commercially available (3M 8210 respirator, Halyard 48207 surgical mask, and 3M 1820 procedure mask) and two alternative face mask and respirator materials (Halyard H600 sterilization wrap and Cummins EX101) after selected decontamination treatments, including isopropanol (IPA) treatments (soaking or spraying), ultraviolet germicidal irradiation (UVGI), and heat treatments (dry heat at 77 °C or steam heat). Both IPA soaking and spraying removed most electrostatic charges on all four electret materials (three commercial and one alternative), causing significant deterioration of filtration efficiency to unacceptable level. The other non-electret alternative material sustained its N95-grade performance after both IPA soaking and spraying treatments, demonstrating the possible application of IPA disinfection for non-electret alternative respirator/mask materials. UVGI preserved the filtration of all three commercially available respirator/mask materials after up to 10 treatments, suggesting it can be a possible decontamination method for hospital and clinic use without compromising respirator/mask performance. The considerations of the practical implementation of this method was discussed. Between the two heat treatment methods tested, dry heat showed better compatibility with electret material by sustaining both filtration efficiency and fit (tested on commercial respirator only), although adding moisture was reported in favor of virus inactivation. Heat treatment is easily accessible method for general publics to implement at home, while it is recommended to maintain the moisture level below saturation. Comparing to size-integrated method, the size-resolved fractional efficiency measurement technique, although more time consuming, proved to be a better method for evaluating respirator/mask filtration performance after decontaminations by providing more sensitive detection of performance degradation and the capability of distinguishing charge loss to other mechanisms causing efficiency deterioration. Detailed descriptions are provided in methodology part to emphasize the cares needed for an appropriate efficiency evaluation. The limited results in this study on worn masks made of alternative sterilization wrap indicated possible performance degradation of electret material caused by normal human wearing activities, suggesting the need of assessing respirator/mask decontamination strategy by testing practically worn-and-decontaminated/reused samples instead of unworn only-decontaminated counterparts.
 
-    -- exports
-      !a
 
     / June, 2020 - Journal of Aersol Science
     let !a self assert = Steam heat treatment for 30 min was found to cause charge loss on 3M 1820 procedure mask and Halyard 48207 surgical masks, which led to efficiency deterioration after 5 or 10 cycles. Although similar efficiency decay was not observed on 3M 8210 N95 respirators, the respirators’ fit factor decreased with steam heat treatment cycles and dropped below 100 (fail) after 5 cycles.
 
     / June, 2020 - Journal of Aersol Science
-    let !b self assert =  As an easily accessible method, heat treatment can be implemented by general publics in household setting, but our results suggested to keep the moisture level below saturation if masks made of electret materials are decontaminated. Both IPA soaking and spraying caused significant performance deterioration of all electrically charged materials, including the three commercial respirators/masks and Halyard H600 sterilization wrap, by largely removing charges from material surface.
+    let !b self assert = As an easily accessible method, heat treatment can be implemented by general publics in household setting, but our results suggested to keep the moisture level below saturation if masks made of electret materials are decontaminated.
 
     / June, 2020 - Journal of Aersol Science
-    let !c self assert = No change of material integrity or structure was observed on any combination of filter materials and decontamination methods tested, suggesting the stability of electrical charge is the major factor (together with facial fit) that limits the ability of a material being decontaminated and reused for multiple times. Non-electret filter materials (e.g. EX101), therefore, pose their advantages of wider compatibility with a variety of decontamination methods so more attention can be put on retaining the fit and the functionality of other auxiliary components (e.g., straps, nosepiece, etc.).
+    let !c self assert = Both IPA soaking and spraying caused significant performance deterioration of all electrically charged materials, including the three commercial respirators/masks and Halyard H600 sterilization wrap, by largely removing charges from material surface.
 
     / June, 2020 - Journal of Aersol Science
-    let !d self assert = When used for evaluating decontaminated respirators/masks, this method is capable of distinguishing efficiency degradation due to charge loss from that caused by structure or integrity deterioration, which is not otherwise possible by a size integrated method.
+    let !d self assert = No change of material integrity or structure was observed on any combination of filter materials and decontamination methods tested, suggesting the stability of electrical charge is the major factor (together with facial fit) that limits the ability of a material being decontaminated and reused for multiple times. Non-electret filter materials (e.g. EX101), therefore, pose their advantages of wider compatibility with a variety of decontamination methods so more attention can be put on retaining the fit and the functionality of other auxiliary components (e.g., straps, nosepiece, etc.).
 
     / June, 2020 - Journal of Aersol Science
-    let !e self assert = The current study focused on the filtration performance of the filter materials, with fit testing conducted only on N95 respirators with selected decontamination methods. With more loose-fitting masks being used by frontline healthcare workers, assessing the facial fit performance of these face masks, which is equally important to material filtration testing, has become urgently needed and requires more immediate efforts.
+    let !e self assert = When used for evaluating decontaminated respirators/masks, this method is capable of distinguishing efficiency degradation due to charge loss from that caused by structure or integrity deterioration, which is not otherwise possible by a size integrated method.
+
+    / June, 2020 - Journal of Aersol Science
+    let !f self assert = The current study focused on the filtration performance of the filter materials, with fit testing conducted only on N95 respirators with selected decontamination methods. With more loose-fitting masks being used by frontline healthcare workers, assessing the facial fit performance of these face masks, which is equally important to material filtration testing, has become urgently needed and requires more immediate efforts.
 
 
   # Face Mask
@@ -1352,6 +1352,7 @@ feed June2020
 
     / June, 2020 - American Chemical Society
     let !c self assert = We believe the focus on cloth masks should center around lower pressure differentials that can be sustained practically in unfitted cloth masks. One approach would then be to depart from traditional designs to significantly increase the area of the cloth to increase net airflow while not overly exerting the face seal.
+
     / Efficacy of cotton, natural silk and chiffon
     let !d self assert = We find that cotton, natural silk, and chiffon can provide good protection, typically above 50% in the entire 10 nm to 6.0 μm range, provided they have a tight weave. Higher threads per inch cotton with tighter weaves resulted in better filtration efficiencies. Likely the highly tangled fibrous nature of the batting aids in the superior performance at small particle sizes. Materials such as silk and chiffon are particularly effective (considering their sheerness) at excluding particles in the nanoscale regime (<∼100 nm), likely due to electrostatic effects that result in charge transfer with nanoscale aerosol particles
 
@@ -1359,7 +1360,8 @@ feed June2020
     let !e self assert = As a result, we found that hybrid combinations of cloths such as high threads-per-inch cotton along with silk, chiffon, or flannel can provide broad filtration coverage across both the nanoscale (<300 nm) and micron scale (300 nm to 6 μm) range, likely due to the combined effects of electrostatic and physical filtering.
 
     / Leakages and fit reduce the mask filtration efficacy
-    let !f self assert = Leakages around the mask area can degrade efficiencies by ∼50% or more, pointing out the importance of “fit”. Opportunities for future studies include cloth mask design for better “fit” and the role of factors such as humidity (arising from exhalation) and the role of repeated use and washing of cloth masks.
+    let !f self assert = Leakages around the mask area can degrade efficiencies by ∼50% or more, pointing out the importance of “fit”.
+    # Opportunities for future studies include cloth mask design for better “fit” and the role of factors such as humidity (arising from exhalation) and the role of repeated use and washing of cloth masks.
 
     / Well made cloth masks
     let !g self assert = We find that the use of cloth masks can potentially provide significant protection against the transmission of particles in the aerosol size range.
@@ -1379,21 +1381,20 @@ feed June2020
 
 
 
-  # Face Mask - Humidity and deposition for viral inactivation
+  # Face Mask - Humidity and deposition for viral inactivation, Resue, decontamination strategies for N95 respirators
   // Humidity and deposition solution play a critical role in virus inactivation by heat treatment on N95 respirators
   doi: https://doi.org/10.1101/2020.06.22.20137448
   ref 'Rockey_et_al_06_23_2020
-    head =  Our work demonstrates the virus inactivation efficacy of heat and humidity treatments for N95 respirator decontamination. The USFDA’s recommended 6-log10 inactivation of viruses was easily achievable for bacteriophages MS2 and phi6 with this heat392 humidity paradigm. Likewise, although we were limited by the dynamic range of our assays, the more clinically relevant virus surrogates, MHV and IAV, resulted in at least 3-log10 inactivation under the same conditions. Low (< 25%) RH treatments at the same temperatures were not as effective.
+    head = Elevated RH was essential for effective heat inactivation. Furthermore, deposition of viruses in host cell culture media greatly enhanced virus inactivation by heat and humidity compared to other deposition solutions such as phosphate buffered saline, phosphate buffered saline with bovine serum albumin, and human saliva.
 
     >>> Abstract
       Supply shortages of N95 respirators during the coronavirus disease 2019 (COVID-19) pandemic have motivated institutions to develop feasible and effective N95 respirator reuse strategies. In particular, heat decontamination is a treatment method that scales well and can be implemented in settings with variable or limited resources. Prior studies using multiple inactivation methods, however, have often focused on a single virus under narrowly defined conditions, making it difficult to develop guiding principles for inactivating emerging or difficult-to-culture viruses. We systematically explored how temperature, humidity, and virus deposition solutions impact the inactivation of viruses deposited and dried on N95 respirator coupons. We exposed four virus surrogates across a range of structures and phylogenies, including two bacteriophages (MS2 and phi6), a mouse coronavirus (murine hepatitis virus, MHV), and a recombinant human influenza A virus subtype H3N2 (IAV), to heat treatment for 30 minutes in multiple deposition solutions across several temperatures and relative humidities (RH). We observed that elevated RH was essential for effective heat inactivation of all four viruses tested. For heat treatments between 72°C and 82°C, RH greater than 50% resulted in > 6-log10 inactivation of bacteriophages and RH greater than 25% resulted in > 3.5-log10 inactivation of MHV and IAV. Furthermore, deposition of viruses in host cell culture media greatly enhanced virus inactivation by heat and humidity compared to other deposition solutions such as phosphate buffered saline, phosphate buffered saline with bovine serum albumin, and human saliva. Past and future heat treatment methods or technologies must therefore explicitly account for deposition solutions as a factor that will strongly influence observed virus inactivation rates. Overall, our data set can inform the design and validation of effective heat-based decontamination strategies for N95 respirators and other porous surfaces, especially for emerging or low-titer viruses that may be of immediate public health concern such as SARS-CoV-2.
 
     -- exports
-      !a
       !b
 
     / June, 2020 - medRxiv
-    let !a self assert =  We also observed that inactivation was strongly influenced by the deposition solution. Dried virus droplets in cell culture media were inactivated significantly more than in any other deposition solution (PBS, PBS + BSA, saliva). These findings suggest that virus inactivation may be vastly overestimated when using culture media as the deposition solution in surface disinfection studies. We suggest the use of deposition solutions more similar to human saliva or respiratory fluid in virus inactivation experiments to ensure representative results.
+    let !a self assert = We also observed that inactivation was strongly influenced by the deposition solution. Dried virus droplets in cell culture media were inactivated significantly more than in any other deposition solution (PBS, PBS + BSA, saliva). These findings suggest that virus inactivation may be vastly overestimated when using culture media as the deposition solution in surface disinfection studies. We suggest the use of deposition solutions more similar to human saliva or respiratory fluid in virus inactivation experiments to ensure representative results.
 
     / Study on reusability of N95 masks
     let !b self assert = Hospitals and other healthcare settings can expect extensive virus inactivation of N95 respirators through heat treatment for at least 30 minutes at 72°C or 82°C and RH above 50%. High humidity heat treatment is particularly appealing as it can be readily adapted and scaled to a range of settings, from health care facilities to private residences. Further, implementation is equally suitable for healthcare systems or individuals without access to specialized equipment, including those in low- to middle- income countries. These results provide timely and useful information for efficacious N95 respirator decontamination, enabling reuse when necessary due to shortages.
@@ -1452,19 +1453,34 @@ feed June2020
       !g
 
     / June, 2020 - Indoor Air
-    let !a self assert = Thus, transmission that is purported to occur via the spray of large droplets could in fact be occurring through inhalation of much smaller droplets at close range. In fact, a physics‐based simulation suggests that the majority of exposure at close range occurs by inhalation of small droplets rather than by contact with large droplets that land on the mouth, nose, and eyes, unless the people are closer than 30 cm or the droplets are very large
+    let !a self assert = Virus‐containing droplets that are released by breathing, talking, and coughing span a continuum of sizes, from 0.01 to hundreds of microns. It is impossible for someone to release “large droplets” (>5 microns) without also releasing smaller ones. Thus, transmission that is purported to occur via the spray of large droplets could in fact be occurring through inhalation of much smaller droplets at close range. In fact, a physics‐based simulation suggests that the majority of exposure at close range occurs by inhalation of small droplets rather than by contact with large droplets that land on the mouth, nose, and eyes, unless the people are closer than 30 cm or the droplets are very large.
 
     / June, 2020 - Indoor Air
-    let !b self assert = Increasing outdoor air ventilation rates above current minimums
+    let !h self assert = One study found that the majority of these viruses was associated with microscopic droplets (ie, aerosols) of diameter 2.5 microns and smaller, which can remain suspended in air for 2 hours or more. Another detected SARS‐COV‐2 in aerosols in the size range of 1‐4 microns. Furthermore, viral RNA has been detected on the surfaces of an air exhaust outlet and fan, places where direct transfer from an infected person could not occur.
 
     / June, 2020 - Indoor Air
-    let !c self assert = Using high‐efficiency filtration for recirculated air (MERV 13 or greater)
+    let !i self assert = The finding that SARS‐COV‐2 in fine aerosols (<5 microns) has a half‐life of 1 hour in terms of infectivity raises the possibility that some airborne virus is infectious.
 
     / June, 2020 - Indoor Air
-    let !d self assert = Verifying that sensitive areas, such as bathrooms and rooms where infected patients are cared for in hospitals and senior homes, are negatively pressurized relative to adjacent areas
+    let !j self assert = Concluding that transmission of SARS‐COV‐2 can occur via large droplet spray requires an assumption that the virus survives in such droplets. It is also reasonable, then, to assume the same for virus survival in aerosols. This is supported by empirical evidence. Previous studies have shown that other viruses survive equally well, if not better, in suspended aerosols compared to large droplets on surfaces.
 
     / June, 2020 - Indoor Air
-    let !e self assert = Managing air flow direction and speed to prevent spread of aerosols across occupants
+    let !k self assert = A study on patients with confirmed influenza infection has shown that infectious virus in aerosols smaller than 5 microns can be released by regular breathing and talking, without coughing. This is of concern because high shedding of infectious SARS‐CoV‐2 in the throat has been reported in individuals with no or mild symptoms.
+
+    / June, 2020 - Indoor Air
+    let !l self assert = These ventilation‐focused engineering controls must be supported by strategies that address fomite transmission because viruses in droplets and aerosols that have settled on the floor and other surfaces can be resuspended in air, where they can lead to inhalation exposure to the virus. Cleaning surfaces using vacuums with HEPA filtration and frequently cleaning and disinfecting surfaces are strategies that may also help reduce secondary airborne transmission.
+
+    / June, 2020 - Indoor Air
+    let !b self assert = Increasing outdoor air ventilation rates above current minimums.
+
+    / June, 2020 - Indoor Air
+    let !c self assert = Using high‐efficiency filtration for recirculated air (MERV 13 or greater).
+
+    / June, 2020 - Indoor Air
+    let !d self assert = Verifying that sensitive areas, such as bathrooms and rooms where infected patients are cared for in hospitals and senior homes, are negatively pressurized relative to adjacent areas.
+
+    / June, 2020 - Indoor Air
+    let !e self assert = Managing air flow direction and speed to prevent spread of aerosols across occupants.
 
     / June, 2020 - Indoor Air
     let !f self assert = Consideration of additional technological controls, such as UV germicidal irradiation and portable air purification, in areas and situations where typical building‐level controls are not sufficient.
@@ -2076,7 +2092,8 @@ feed June2020
   // Effects of non-pharmaceutical interventions on COVID-19 cases, deaths, and demand for hospital services in the UK: a modelling study
   doi: https://doi.org/10.1016/S2468-2667(20)30133-X
   article 'Davies_et_al_06_02_2020
-    head = Using an age-structured transmission dynamic model, we explored different scenarios for COVID-19 transmission and control in the general population of the UK. We found that moderate interventions lasting for 12 weeks, such as school closures, self-isolation of symptomatic individuals, or shielding of older people, would probably not have been sufficient to control the epidemic and to avoid far exceeding available ICU capacity, even when these measures were used in combination. In particular, school closures had little effect in our projections, despite our model accounting for substantial asymptomatic transmission among children However, we estimated that a scenario in which more intense lockdown measures were implemented for shorter periods, against a general background of physical distancing measures, might be able to keep projected case numbers at a level that would not overwhelm the health system.
+    head = Moderate interventions lasting for 12 weeks, such as school closures, self-isolation of symptomatic individuals, or shielding of older people, would probably not have been sufficient to control the epidemic and to avoid far exceeding available ICU capacity, even when these measures were used in combination. In particular, school closures had little effect in our projections, despite our model accounting for substantial asymptomatic transmission among children.
+
 
     >>> Background
       Non-pharmaceutical interventions have been implemented to reduce transmission of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in the UK. Projecting the size of an unmitigated epidemic and the potential effect of different control measures has been crucial to support evidence-based policy making during the early stages of the epidemic. This study assesses the potential impact of different control measures for mitigating the burden of COVID-19 in the UK.
@@ -2092,8 +2109,6 @@ feed June2020
 
     -- exports
       !a
-      !b
-      !c
       !d
       !e
       !f
@@ -2101,10 +2116,8 @@ feed June2020
       !h
       !i
       !j
-      !k
       !l
       !m
-      !n
       !o
       !p
       !q
@@ -2113,11 +2126,11 @@ feed June2020
     / June, 2020 - The Lancet
     let !a self assert = We found that the four base interventions were each likely to decrease R0, but not sufficiently to prevent ICU demand from exceeding health service capacity. The combined intervention was more effective at reducing R0, but only lockdown periods were sufficient to bring R0 near or below 1
 
-    / June, 2020 - The Lancet
-    let !b self assert = The most stringent lockdown scenario resulted in a projected 120 000 cases (46 000–700 000) and 50 000 deaths (9300–160 000). Intensive interventions with lockdown periods would need to be in place for a large proportion of the coming year to prevent health-care demand exceeding availability.
+    # / June, 2020 - The Lancet
+    # let !b self assert = The most stringent lockdown scenario resulted in a projected 120 000 cases (46 000–700 000) and 50 000 deaths (9300–160 000). Intensive interventions with lockdown periods would need to be in place for a large proportion of the coming year to prevent health-care demand exceeding availability.
 
-    / June, 2020 - The Lancet
-    let !c self assert = We projected that an unmitigated COVID-19 epidemic would result in a median 23 million (95% PI 13–30) clinical cases in the UK up to December, 2021. Under this scenario, 85% (95% PI 57–95) of the population would be infected with SARS-CoV-2, with 42% (32–51) of those infected showing clinical symptoms.
+    # / June, 2020 - The Lancet
+    # let !c self assert = We projected that an unmitigated COVID-19 epidemic would result in a median 23 million (95% PI 13–30) clinical cases in the UK up to December, 2021. Under this scenario, 85% (95% PI 57–95) of the population would be infected with SARS-CoV-2, with 42% (32–51) of those infected showing clinical symptoms.
 
     / June, 2020 - The Lancet
     let !d self assert = The unmitigated CFR was 1·5% (1·3–1·7) and the unmitigated infection-fatality ratio was 0·63% (0·45–0·79). In turn, this would result in a projected 350 000 deaths (170 000–480 000) directly attributable to COVID-19, without accounting for any potential increase in the CFR caused by exceeding hospital capacity.
@@ -2138,19 +2151,19 @@ feed June2020
     let !i self assert = Examining the simulated dynamics at a county level shows that the timing of local epidemics can vary among counties, and highlights that epidemics at a local level are predicted to peak more sharply than they do across the entire UK
 
     / June, 2020 - The Lancet
-    let !j self assert = When only a single, 12-week intervention is deployed, our projections also showed that instead of centring measures over the unmitigated peak of cases, it was preferable to trigger the intervention later to reduce the total health burden. This is because the introduction of control measures itself shifts the peak later in time—ie, by flattening the curve of the epidemic—and therefore the optimal timing of the intervention is also delayed. In particular, the most effective timing for introduction of measures could involve a delay of as much as 4 weeks. However, optimally timing an intervention could be more difficult in practice than these scenarios suggest, since here they are run with complete knowledge of when the simulated peak would occur in the absence of any intervention.
+    let !j self assert = In particular, the most effective timing for introduction of measures could involve a delay of as much as 4 weeks. However, optimally timing an intervention could be more difficult in practice than these scenarios suggest, since here they are run with complete knowledge of when the simulated peak would occur in the absence of any intervention.
+
+    # / June, 2020 - The Lancet
+    # let !k self assert = When varying adherence to interventions among counties, median outcomes were similar but less certain: where projections showed 14 million (95% PI 6·2–21) cases and 200 000 deaths (80 000–290 000) by December, 2021, without between-county variation, they showed 14 million (6·0–21) cases and 200 000 deaths (77 000–300 000) with county-level variation
 
     / June, 2020 - The Lancet
-    let !k self assert = When varying adherence to interventions among counties, median outcomes were similar but less certain: where projections showed 14 million (95% PI 6·2–21) cases and 200 000 deaths (80 000–290 000) by December, 2021, without between-county variation, they showed 14 million (6·0–21) cases and 200 000 deaths (77 000–300 000) with county-level variation
+    let !l self assert =  A more general reduction in leisure contacts by 75% was estimated to have a more substantial impact on the epidemic, reducing cases by 1·9 million (0·37–4·6) up to Sept 1. In other words, while banning spectator sports might have decreased the total number of cases, we estimated that other potential policies relating to leisure activities would probably be more effective.
 
     / June, 2020 - The Lancet
-    let !l self assert = Although yearly attendance at sporting events is high (75·1 million spectators per year30), even if we assume that people make the equivalent of their mean daily physical contacts at such events (ie, five contacts per person, to make a total of 375 million), this number is very low relative to the number of yearly contacts that occur outside the context of sporting events (269 billion). A more general reduction in leisure contacts by 75% was estimated to have a more substantial impact on the epidemic, reducing cases by 1·9 million (0·37–4·6) up to Sept 1. In other words, while banning spectator sports might have decreased the total number of cases, we estimated that other potential policies relating to leisure activities would probably be more effective.
+    let !m self assert = Specifically, closing schools reduced deaths from 120 000 to 65 000 and reduced peak ICU beds required from 53 000  to 29 000  up to July 20, but introducing one additional contact per weekday between children and older individuals for all children increased deaths to 79 000 (160–290 000) and increased peak ICU beds required to 35 000 (560–160 000) up to July 20
 
-    / June, 2020 - The Lancet
-    let !m self assert = Specifically, closing schools reduced deaths from 120 000 (95% PI 380–270 000) to 65 000 (150–260 000) and reduced peak ICU beds required from 53 000 (190–170 000) to 29 000 (580–140 000) up to July 20, but introducing one additional contact per weekday between children and older individuals for all children increased deaths to 79 000 (160–290 000) and increased peak ICU beds required to 35 000 (560–160 000) up to July 20
-
-    / June, 2020 - The Lancet
-    let !n self assert = When modelling the likely impact of the proposed intensive interventions strategy, we found implementation of these measures had the potential to delay the peak of the epidemic by 7 weeks (95% PI 1–49), from 12 weeks (9–20) to 19 weeks (10–69) after the start of community transmission, and to reduce the total number of deaths by half. Despite this substantial reduction in burden, the projections still showed a large number of cases (1·9–20 million), and a large number of ICU beds (8300–130 000) occupied during the peak of the epidemic. Indeed, we projected that ICU bed capacity could be exceeded by five times or more for several weeks. While we did not explicitly predict the impact of this on mortality rates, this would almost certainly lead to a substantially increased CFR.
+    # / June, 2020 - The Lancet
+    # let !n self assert = When modelling the likely impact of the proposed intensive interventions strategy, we found implementation of these measures had the potential to delay the peak of the epidemic by 7 weeks (95% PI 1–49), from 12 weeks (9–20) to 19 weeks (10–69) after the start of community transmission, and to reduce the total number of deaths by half. Despite this substantial reduction in burden, the projections still showed a large number of cases (1·9–20 million), and a large number of ICU beds (8300–130 000) occupied during the peak of the epidemic. Indeed, we projected that ICU bed capacity could be exceeded by five times or more for several weeks. While we did not explicitly predict the impact of this on mortality rates, this would almost certainly lead to a substantially increased CFR.
 
     / June, 2020 - The Lancet
     let !o self assert = We found that adding periods of lockdown to the intensive interventions scenario, to be triggered when ICU beds required for patients with COVID-19 exceeded a threshold of either 1000, 2000, or 5000 beds nationally, would still result in a high number of ICU beds being occupied, but at much lower levels than the scenario without lockdowns

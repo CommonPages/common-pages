@@ -571,7 +571,7 @@ feed February2020
   // COVID-19: A critical care perspective informed by lessons learnt from other viral epidemics
   doi: https://doi.org/10.1016/j.accpm.2020.02.002
   article 'Ling_et_al_2020
-    head = ICU HCW(Healthcare workers) are at particularly high risk of nosocomial transmission because of potential exposure to aerosolised respiratory secretions during intubation, tracheal suctioning, bronchoscopy and respiratory circuit disconnection, as well as environmental contamination.
+    head = ICU HCW (Healthcare workers) are at particularly high risk of nosocomial transmission because of potential exposure to aerosolised respiratory secretions during intubation, tracheal suctioning, bronchoscopy and respiratory circuit disconnection, as well as environmental contamination.
 
     >>> Abstract
       The world is closely watching the outbreak of respiratory illness associated with the novel beta coronavirus SARS-CoV-2. The first cases were reported in Wuhan, Hubei Province, China. At the time of writing the number of reported cases of the resulting disease, COVID-19, is already over 64,000 and shows no immediate signs of stabilisation. Although the majority remain in Wuhan and Hubei province, cases have been reported in all provinces of China and over 27 countries across the globe. The aim of this editorial is to review the management of critically ill patients with COVID-19 infection.

@@ -46,15 +46,12 @@ subject module Disease
       'Zubair_et_al_05_29_2020
       'Chen_et_al_05_19_2020
       'Meinhardt_et_al_06_04_2020
-    -- Skin Manifestations
-      'Recalcati_et_al_2020
-      'Joob_et_al_2020
-    >>>
-      Various Reports on symptoms of Covid-19 patients
-    -- Reports of Symptomatic Cases
-      'Kluytmans_et_al_2020
-      'Chen_et_al_2020d.!c
-    -- Symptomatic Stages
+    -- SARS
+      'Lee_et_al_2003.!d
+      'Lee_et_al_2003.!e
+
+    # Phases of Symptoms to severity
+    --
       'Siddiqi_et_al_2020
       'Siddiqi_et_al_2020.!a
       'Siddiqi_et_al_2020.!b
@@ -190,10 +187,10 @@ subject module Disease
       / Children
       subject Children
         head = Children and young people have lower susceptibility to SARS-CoV-2, with a lower odds of being an infected contact. Few recent studies have reported some children developing paediatric multisystem inflammatory syndrome.
-        --
+        -- Children and young people have lower susceptibility to SARS-CoV-2 and their role in transmission SARS-CoV-2 remains uncertain.
           'Zimmermann_et_al_2020
-          'Gudbjartsson_et_al_2020
           'Viner_et_al_05_24_2020
+          'Gudbjartsson_et_al_2020
         -- Complications
           'Riphagen_et_al_2020
       / Elderly
@@ -206,6 +203,9 @@ subject module Disease
           'Tom_et_al_2020.!q
           'Rosenberg_et_al_05_29_2020.!g
           'Lee_et_al_05_28_2020.!d
+          'Chen_et_al_2020c.!e
+        -- lymphocytes count lower for progressively older age groups
+          'Richardson_et_al_04_22_2020.!k
         >>>
           Higher level of cytokine on elderly is associated more severity
         --
@@ -220,6 +220,9 @@ subject module Disease
           'Porcheddu_et_al_2020
           'Onder_et_al_2020
           'Salje_et_al_04_20_2020.!b
+          'Richardson_et_al_04_22_2020.!d
+          'Richardson_et_al_04_22_2020.!g
+          'Richardson_et_al_04_22_2020.!k
         -- Context
           'Franceschi_et_al_2006
           'Jing_et_al_2009
@@ -232,6 +235,7 @@ subject module Disease
       --
         'Chen_et_al_2020d.!a
         'Chen_et_al_2020c
+        'Chen_et_al_2020c.!c
         'Pan_et_al_2020.!a
         'Simonnet_et_al_2020.!b
         'Williamson_et_al_05_07_2020.!a
@@ -239,16 +243,17 @@ subject module Disease
         'Rosenberg_et_al_05_29_2020.!b
         'Lee_et_al_05_28_2020.!d
         'Richardson_et_al_04_22_2020.!d
-        'Takahashi_et_al_06_09_2020
       -- Increased IL-6 levels is associated with disease severity
         'DelValle_et_al_05_30_2020.!e
+      -- Higher levels of key innate immune cytokines not associated with worse disease progression
+        'Takahashi_et_al_06_09_2020
         # There is also supportive evidence of estrogen and a need for clinical trials, as these downregulate TMPRSS2.
     / Smokers
     subject Smokers
       head = According to scientific reviews smokers are more likely to require intensive care or die compared to non-smokers.
 
       --
-        'Pan_et_al_2020.!b
+        # 'Pan_et_al_2020.!b
         'Fontanet_et_al_04_23_2020.!a
       >>>
         Higher ACE2 level is associated with disease severity
@@ -404,6 +409,7 @@ subject module Disease
           'Li_et_al_2020c.!b
           'DelValle_et_al_05_30_2020.!g
           'Li_et_al_05_29_2020
+          'Richardson_et_al_04_22_2020.!l
         >>>
           The expression of ACE2 is substantially increased in patients with type 1 or type 2 diabetes, who are treated with ACE inhibitors and angiotensin II type-I receptor blockers (ARBs).
         --
@@ -415,6 +421,7 @@ subject module Disease
           'Li_et_al_2020c.!b
           'Lee_et_al_05_28_2020.!d
           'DelValle_et_al_05_30_2020.!g
+          'Richardson_et_al_04_22_2020.!n
         >>>
           Hypertension is treated with ACE inhibitors and ARBs, which results in an upregulation of ACE2
         --
@@ -437,7 +444,7 @@ subject module Disease
     subject Ethnicity
       head = Case Reports from US shows, a greater proportion of deaths due to COVID-19 have occurred among African Americans. Similar issues affect Native American and Latino communities.
       --
-        'Williamson_et_al_05_07_2020.!b
+        'Williamson_et_al_05_07_2020
         'Rosenberg_et_al_05_29_2020.!c
         'Rosenberg_et_al_05_29_2020.!f
         'DelValle_et_al_05_30_2020.!f
@@ -451,6 +458,7 @@ subject module Disease
       'Wu_et_al_2020
       'Porcheddu_et_al_2020
       'Onder_et_al_2020
+      'Onder_et_al_2020.!a
       'Remuzzi_et_al_2020
       'Pan_et_al_2020.!a
       'Lighter_et_al_2020

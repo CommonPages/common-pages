@@ -58,11 +58,12 @@ subject module Transmission
               'van_Doremalen_et_al_2020
               'van_Doremalen_et_al_2020.!a
               'Lu_et_al_2020
-              'Somsen_et_al_05_27_2020
               'Lin_et_al_01_26_2017
               'Johnson_et_al_06_21_2011
               'Doremalen_et_al_03_17_2020
               'Guo_et_al_07_26_2020
+            -- Small droplets produced during speech and coughing- viability
+              'Somsen_et_al_05_27_2020
             -- Aerosol Transmission
               'Allen_et_al_05_06_2020
               'Lednicky_et_al_05_22_2020
@@ -76,6 +77,12 @@ subject module Transmission
               'Ahlawat_et_al_07_21_2020
               'Guenther_et_al_07_23_2020
               'Li_et_al_04_22_2020
+              'Allen_et_al_06_19_2020.!h
+              'Allen_et_al_06_19_2020.!i
+              'Allen_et_al_06_19_2020.!j
+            -- released by regular breathing and talking, without coughing
+              'Allen_et_al_06_19_2020.!a
+              'Allen_et_al_06_19_2020.!k
             -- Latest papers on Aerosol
               'Lu_et_al_2020
               'Hendrix_et_al_07_14_2020
@@ -1234,6 +1241,7 @@ subject module Transmission
           'Dong_et_al_2020b
           'He_et_al_2020.!a
           'Danis_et_al_04_11_2020
+          'Liu_et_al_2020
         -- Reports
           'Qian_et_al_03_23_2020
           'Zhang_et_al_03_27_2020
@@ -1246,6 +1254,7 @@ subject module Transmission
           'Jang_et_al_05_15_2020
           'Hoxha_et_al_07_03_2020
           'Anfinrud_04_06_2020
+
       subject SymptomaticTrans
         --
           'Lewis_et_al_06_24_2020
@@ -1297,7 +1306,7 @@ subject module Transmission
       -- Overdispersion & 80/20 Rule of COVID-19
         'Adam_et_al_2020
         'Adam_et_al_2020.!a
-        'Miller_et_al_2020b.!b
+        'Miller_et_al_2020b
         'Endo_et_al_04_09_2020
       -- Latest papers on Superspread
         'Pung_et_al_03_28_2020

@@ -67,16 +67,6 @@ feed Sangeeta
   #
 
 
-  // DUMMY TITLE
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
-
-    -- exports
-      !a
-
-    / February, 2020 - bioRxiv
-    let !a self assert =
 
 
 
@@ -119,6 +109,18 @@ feed Sangeeta
     / February, 2020 - bioRxiv
     let !a self assert =
 
+  #
+  // Estimation of airborne viral emission: Quanta emission rate of SARS-CoV-2 for infection risk assessment
+  doi: https://doi.org/xyz
+  ref 'Swennen_et_al_04_04_2020
+    head =
+
+    -- exports
+      !a
+
+    / April, 2020 - bioRxiv
+    let !a self assert =
+
 
 
   #
@@ -134,21 +136,170 @@ feed Sangeeta
     let !a self assert =
 
 
-
   #
+  // Facial Masking for Covid-19 — Potential for “Variolation” as We Await a Vaccine
+  doi: https://doi.org/10.1056/NEJMp2026913
+  ref 'Gandhi_et_al_09_08_2020
+    head = Universal facial masking might help reduce the severity of disease and ensure that a greater proportion of new infections are asymptomatic. If this hypothesis is borne out, universal masking could become a form of “variolation” that would generate immunity and thereby slow the spread of the virus in the United States and elsewhere, as we await a vaccine.
+
+    / September, 2020 - The New England Journal of Medicine
+    let !a self assert =
+
+
+
+  # engineering design, public health, Fabric mask, reuse
+  // From containment to harm reduction from SARS-CoV-2: a fabric mask for enhanced effectiveness, comfort, and compliance.
+  doi: https://doi.org/10.1080/00405000.2020.1805971
+  ref 'Park_et_al_08_12_2020
+    head = We demonstrate the realization of a fabric mask that is form-fitting, customizable, washable, and could be worn continuously and routinely over extended periods of time by individuals and therefore could serve as an effective means to reduce the harm from SARS-CoV-2.
+
+    >>> Abstract
+      Although the COVID-19 pandemic shows no signs of abating, public health strategies have transitioned from containment to harm reduction. In light of this paradigm shift, it is critical that individuals take steps to prevent the spread of SARS-CoV-2, the virus that causes COVID-19. In the United States, the CDC recommends that individuals wear face coverings in public places, such as grocery stores. As lockdowns are being phased out around the world, authorities are requiring the use of such masks in public places while maintaining social distance. Individuals (including healthcare professionals outside of their clinical settings) and manufacturers are following the CDC’s recommendation. But, many currently available masks are not form-fitting, are not customizable, and are uncomfortable with even short-term use, thereby undercutting their effectiveness. Moreover, because cotton absorbs and retains the moisture found in an exhaled breath masks made of cotton have the potential to increase the wearer’s risk of infection. Thus, as we shift to harm reduction and social distancing measures relax, it is imperative that these shortcomings in fabric masks are addressed and that is the motivation for this research. The overall objective of the research is to design, develop, and test a fabric mask that is effective while being comfortable during continuous use over long periods of time. As the first step in the design process, we reviewed the modes of transmission of SARS-CoV-2 virus. We analyzed a medical mask and a fabric mask in the market and identified their shortcomings. We carried out an in-depth analysis of user needs and developed the performance requirements of the proposed mask. We defined the architecture of the mask comprising the following principal components: Barrier, Form-Fitting, Positioning, and Fastening. We tested and evaluated candidate materials for the components and developed the design specifications and construction details for the mask. We produced the mask and carried out subjective testing on a user in a typical workplace setting; we demonstrated that the mask was form-fitting, customizable, washable, and could be worn continuously and routinely over extended periods of time by individuals and therefore could serve as an effective means to reduce the harm from SARS-CoV-2.
+
+
+    / August, 2020 - The Journal of Textile Institute
+    let !a self assert =
+
+
+  # policy, public health, general benefits, general public
+  // The facemask in public and healthcare workers: a need, not a belief
+  doi: https://doi.org/10.1016/j.puhe.2020.05.009
+  ref 'Sergi_et_al_05_13_2020
+    head = All citizens should wear a mask. Although strict isolation and social distancing measures can flatten the infectious curve, the use of facemask needs to be encouraged and facilitated where the 6-feet social distancing cannot be implemented because of physical barriers. Preservation of N95 respirators for high-risk, aerosol-generating procedures in this pandemic should be considered when in short supply, but surgical facemasks should be provided to everybody.
+
+
+    / May, 2020 - Public Health
+    let !a self assert =
+
+
+  # Custom-made 3D-printed face masks, Typefacemask, shortage
+  // Custom-made 3D-printed face masks in case of pandemic crisis situations with a lack of commercially available FFP2/3 masks.
+  doi: https://doi.org/10.1016/j.ijom.2020.03.015
+  ref 'Swennen_et_al_04_04_2020
+    head = This PoC illustrates that 3D printing of individualized 3D face masks in combination with FFP2/3 filter membranes is feasible and may prove a valid alternative resource. However, there are no data on virological validation, of either the individual fitting or the disinfection process and the number of times the face mask can safely be reused with new filter membranes and headbands.
+
+    >>> Abstract
+      In the case of pandemic crisis situations, a crucial lack of protective material such as protective face masks for healthcare professionals can occur. A proof of concept (PoC) and prototype are presented, demonstrating a reusable custom-made three-dimensionally (3D) printed face mask based on materials and techniques (3D imaging and 3D printing) with global availability. The individualized 3D protective face mask consists of two 3D-printed reusable polyamide composite components (a face mask and a filter membrane support) and two disposable components (a head fixation band and a filter membrane). Computer-aided design (CAD) was used to produce the reusable components of the 3D face mask based on individual facial scans, which were acquired using a new-generation smartphone with two cameras and a face scanning application. 3D modelling can easily be done by CAD designers worldwide with free download software. The disposable non-woven melt-blown filter membrane is globally available from industrial manufacturers producing FFP2/3 protective masks for painting, construction, agriculture, and the textile industry. Easily available Velcro fasteners were used as a disposable head fixation band. A cleaning and disinfection protocol is proposed. Leakage and virological testing of the reusable components of the 3D face mask, following one or several disinfection cycles, has not yet been performed and is essential prior to its use in real-life situations. This PoC should allow the reader to consider making and/or virologically testing the described custom-made 3D-printed face masks worldwide.
+
+
+    / April, 2020 - International Journal of Oral & Maxillofacial Surgery
+    let !a self assert =
+
+
+  # policy
+  // Use of facemasks during the COVID-19 pandemic.
+  doi: https://doi.org/10.1016/S2213-2600(20)30352-0
+  ref 'Schünemann_et_al_08_03_2020
+    head = The current best evidence includes the possibility of important relative and absolute benefits of wearing a facemask. Depending on the pandemic situation in a given geographical setting, the desirable consequences of wearing a facemask may or may not outweigh the undesirable consequences.
+
+    -- exports
+      !a
+
+    / August, 2020 - The Lancet Respiratory Medicine
+    let !a self assert = In highly populated areas that have high infection rates—eg, USA, India, Brazil, or South Africa—the use of masks will probably outweigh any potential downsides.
+
+
+
+  # Facemask shortage, Public health intervention, Universal facemask wearing policy
+  // Facemask shortage and the novel coronavirus disease (COVID-19) outbreak: Reflections on public health measures.
+  doi: https://doi.org/10.1016/j.eclinm.2020.100329
+  ref 'Wu_et_al_04_02_2020
+    head = We provide a summary of the public health measures by the Chinese government concerning facemasks. Facemasks shortage, particularly for N95, would occur regardless of the implementation of a universal facemask wearing policy. The facemask shortage could be much more severe if a universal facemask wearing policy was implemented in the whole of China rather than the most severely affected areas. The shortage of N95 facemask were not alleviated under the existing public health measures.
+
+    >>> Background
+      A novel coronavirus disease (COVID-19) outbreak due to the severe respiratory syndrome coronavirus (SARS-CoV-2) infection occurred in China in late December 2019. Facemask wearing with proper hand hygiene is considered an effective measure to prevent SARS-CoV-2 transmission, but facemask wearing has become a social concern due to the global facemask shortage. China is the major facemask producer in the world, contributing to 50% of global production. However, a universal facemask wearing policy would put an enormous burden on the facemask supply.
+
+    >>> Methods
+      We performed a policy review concerning facemasks using government websites and mathematical modelling shortage analyses based on data obtained from the National Health Commission (NHC), the Ministry of Industry and Information Technology (MIIT), the Centre for Disease Control and Prevention (CDC), and General Administration of Customs (GAC) of the People's Republic of China. Three scenarios with respect to wearing facemasks were considered: (1) a universal facemask wearing policy implementation in all regions of mainland China; (2) a universal facemask wearing policy implementation only in the epicentre (Hubei province, China); and (3) no implementation of a universal facemask wearing policy.
+
+    >>> Findings
+      Regardless of different universal facemask wearing policy scenarios, facemask shortage would occur but eventually end during our prediction period (from 20 Jan 2020 to 30 Jun 2020). The duration of the facemask shortage described in the scenarios of a country-wide universal facemask wearing policy, a universal facemask wearing policy in the epicentre, and no universal facemask wearing policy were 132, seven, and four days, respectively. During the prediction period, the largest daily facemask shortages were predicted to be 589·5, 49·3, and 37·5 million in each of the three scenarios, respectively. In any scenario, an N95 mask shortage was predicted to occur on 24 January 2020 with a daily facemask shortage of 2·2 million.
+
+    >>> Interpretation
+      Implementing a universal facemask wearing policy in the whole of China could lead to severe facemask shortage. Without effective public communication, a universal facemask wearing policy could result in societal panic and subsequently, increase the nationwide and worldwide demand for facemasks. These increased demands could cause a facemask shortage for healthcare workers and reduce the effectiveness of outbreak control in the affected regions, eventually leading to a pandemic. To fight novel infectious disease outbreaks, such as COVID-19, governments should monitor domestic facemask supplies and give priority to healthcare workers. The risk of asymptomatic transmission and facemask shortages should be carefully evaluated before introducing a universal facemask wearing policy in high-risk regions. Public health measures aimed at improving hand hygiene and effective public communication should be considered along with the facemask policy.
+
+    -- exports
+      !a
+      !b
+
+    / April, 2020 - EClinical Medicine
+    let !a self assert = The risk of asymptomatic transmission and facemask shortages should be carefully evaluated before introducing a universal facemask wearing policy in high-risk regions.
+
+    / April, 2020 - EClinical Medicine
+    let !b self assert = Public health measures aimed at improving hand hygiene and effective public communication should be considered along with the facemask policy.
+
+
+
+  # Public health ethics, Air pollution, policy, community, air pollution disasters
+  // Facemask use for community protection from air pollution disasters: An ethical overview and framework to guide agency decision making
+  doi: https://doi.org/10.1016/j.ijdrr.2019.101376
+  ref 'McDonald_et_al_10_31_2019
+    head = This paper develops an ethical decision-making framework to assist agency deliberations. The framework consists of eight questions framed around ethical values, and a decision-making tree  which agencies can follow through the process from planning, to policy development and enactment and, finally, action in a crisis.
+
+    >>> Abstract
+      Disasters involving severe air pollution episodes create a pressing public health issue. During such emergencies, there may be pressure on agencies to provide solutions to protect affected communities. One possible intervention to reduce exposure during such crises is facemasks. Ethical values need to be considered as part of any decision-making process to assess whether to provide advice on, recommend and/or distribute any public health intervention. In this paper, we use principles from public health ethics to analyse the critical ethical issues that relate to agencies providing advice on, recommending and/or distributing facemasks in air pollution disasters, given a lack of evidence of both the specific risk of some polluting events or the effectiveness of facemasks in community settings. The need for reflection on the ethical issues raised by the possible recommendation/use of facemasks to mitigate potential health issues arising from air pollution disasters is critical as communities progressively seek personal interventions to manage perceived and actual risks. This paper develops an ethical decision-making framework to assist agency deliberations. We argue that clarity around decision-making by agencies, after using this framework, may help increase trust about the intervention and solidarity within and between populations affected by these disasters and the agencies who support public health or provide assistance during disasters.
+
+    / October, 2019 - International Journal of Disaster Risk Reduction
+    let !a self assert =
+
+
+  # recharge, reuse, N95mask, emphirical
+  // Recharging and rejuvenation of decontaminated N95 masks featured.
+  doi: https://doi.org/10.1063/5.0023940
+  ref 'Hossain_et_al_09_08_2020
+    head = Our results suggest that it is possible to recharge the masks post-sterilization and recover filtration efficiency.
+
+    >>> Abstract
+      N95 respirators comprise a critical part of the personal protective equipment used by frontline health-care workers and are typically meant for one-time usage. However, the recent COVID-19 pandemic has resulted in a serious shortage of these masks leading to a worldwide effort to develop decontamination and re-use procedures. A major factor contributing to the filtration efficiency of N95 masks is the presence of an intermediate layer of charged polypropylene electret fibers that trap particles through electrostatic or electrophoretic effects. This charge can degrade when the mask is used. Moreover, simple decontamination procedures (e.g., use of alcohol) can degrade any remaining charge from the polypropylene, thus severely impacting the filtration efficiency post-decontamination. In this report, we summarize our results on the development of a simple laboratory setup allowing measurement of charge and filtration efficiency in N95 masks. In particular, we propose and show that it is possible to recharge the masks post-decontamination and recover filtration efficiency.
+
+    / September, 2020 - Physics of Fluids
+    let !a self assert =
+
+
+
+  # Face coverings, Reuse, Sustainability, facemask,  economic. logistics
   // Unlocking the surge in demand for personal and protective equipment (PPE) and improvised face coverings arising from coronavirus disease (COVID-19) pandemic – Implications for efficacy, re-use and sustainable waste management
   doi: https://doi.org/10.1016/j.scitotenv.2020.142259
   ref 'Rowan_et_al_09_10_2020
-    head =
+    head = Social marketing will inform attitudes, barriers and acceptance of PPE reuse by healthcare workers. Post-COVID-19, the changes in medical practice will drive high demand for PPE. Sustainable PPE, made from bioplastics, will facilitate effective waste management and inform technology disruption.
 
     >>> Abstract
       Currently, there is no effective vaccine for tackling the ongoing COVID-19 pandemic caused by SARS-CoV-2 with the occurrence of repeat waves of infection frequently stretching hospital resources beyond capacity. Disease countermeasures rely upon preventing person-to-person transmission of SARS-CoV2 so as to protect front-line healthcare workers (HCWs). COVID-19 brings enormous challenges in terms of sustaining the supply chain for single-use-plastic personal and protective equipment (PPE). Post-COVID-19, the changes in medical practice will drive high demand for PPE. Important countermeasures for preventing COVID-19 transmission include mitigating potential high risk aerosol transmission in healthcare setting using medical PPE (such as filtering facepiece respirators (FFRs)) and the appropriate use of face coverings by the general public that carries a lower transmission risk. PPE reuse is a potential short term solution during COVID-19 pandemic where there is increased evidence for effective deployment of reprocessing methods such as vaporized hydrogen peroxide (30 to 35% VH2OH) used alone or combined with ozone, ultraviolet light at 254 nm (2000 mJ/cm2) and moist heat (60 °C at high humidity for 60 min). Barriers to PPE reuse include potentially trust and acceptance by HCWs. Efficacy of face coverings are influenced by the appropriate wearing to cover the nose and mouth, type of material used, number of layers, duration of wearing, and potentially superior use of ties over ear loops. Insertion of a nose clip into cloth coverings may help with maintaining fit. Use of 60 °C for 60 min (such as, use of domestic washing machine and spin dryer) has been advocated for face covering decontamination. Risk of virus infiltration in improvised face coverings is potentially increased by duration of wearing due to humidity, liquid diffusion and virus retention. Future sustained use of PPE will be influenced by the availability of recyclable PPE and by innovative biomedical waste management.
 
     -- exports
       !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+
 
     / September, 2020 - Science of the Total Environment
-    let !a self assert =
+    let !a self assert = Efficacy of face coverings are influenced by the appropriate wearing to cover the nose and mouth, type of material used, number of layers, duration of wearing, and potentially superior use of ties over ear loops. Insertion of a nose clip into cloth coverings may help with maintaining fit.
+
+    / September, 2020 - Science of the Total Environment
+    let !b self assert = Risk of virus infiltration in improvised face coverings is potentially increased by duration of wearing due to humidity, liquid diffusion and virus retention.
+
+    / September, 2020 - Science of the Total Environment
+    let !c self assert = Hydrogen peroxide in vapour (VH2OH), used alone or combined with ozone, has been used for high-throughput decontamination and reuse of complex PPE such as important filtering facepiece respirators (FFRs), such as the popular N95 respirator.
+
+    / September, 2020 - Science of the Total Environment
+    let !d self assert = Ultraviolet (UV) light procedures, particularly using UVC wavelength, have also been reported as potentially appropriate decontamination technology for PPE, but this technology is unlikely to inactivate SARS-CoV-2 if this virus penetrates lower layers of material of FFRs where they would be hidden from the UV.
+
+    / September, 2020 - Science of the Total Environment
+    let !e self assert = Moist heating at 60°C to 70°C combined with high humidity for 60 min is also a promising decontaminating procedure for PPE as it would also enable scalability and high-throughput processing.
+
+    / September, 2020 - Science of the Total Environment
+    let !f self assert = Use of microwave generated steam would not provide scale for PPE decontamination. Physical irradiation technologies, such as gamma and electron beam, along with ethylene oxide, are not suitable for PPE reprocessing.
+
+    / September, 2020 - Science of the Total Environment
+    let !g self assert = SARS-CoV-2 will tolerated cold weather, such as 4°C (refrigeration), better and survival beyond 14 days on materials, which has implications for environmental wearing of masks and face cloths as we enter the winder flu season.
+
+    / September, 2020 - Science of the Total Environment
+    let !h self assert = Use of a washing machine and spin dryer (60 °C for 60 min) with detergent is likely to decontaminate SARS-CoV-2 on contaminated face cloths where the risk of contamination by this virus is low.
 
 
 
@@ -613,6 +764,8 @@ feed Sangeeta
 
     / August, 2020 - BMJ
     let !a self assert =
+
+
 
   # 9 ppl, 2 secondary rate, household, spouse, Outbreak, Close contact, USA
   // Enhanced Contact Investigations for Nine Early Travel-Related Cases of SARS-CoV-2 in the United States

@@ -191,6 +191,8 @@ feed March2020
     / March, 2020 - medRxiv
     let !a self assert =
 
+
+
   # Hydroxychloroquine
   // Combined prophylactic and therapeutic use maximizes hydroxychloroquine anti-SARS-CoV-2 effects in vitro
   doi: https://doi.org/10.1101/2020.03.29.014407
@@ -1115,9 +1117,7 @@ feed March2020
       !a
       !b
       !c
-      !d
       !e
-      !f
       !g
       !h
       !i
@@ -1135,14 +1135,14 @@ feed March2020
     / March, 2020 - Medrxiv
     let !c self assert = Successful live virus isolation from throat swabs is another striking difference from SARS, for which such isolation was rarely successful. Altogether, this suggests active virus replication in upper respiratory tract tissues, where only minimal ACE-2 expression is found and SARS-CoV is therefore not thought to replicate.
 
-    / March, 2020 - Medrxiv
-    let !d self assert = Whereas proof of replication by histopathology is awaited, extended tissue tropism of SARSCoV-2 with replication in the throat is strongly supported by our studies of sgRNA transcribing cells in throat swab samples, particularly during the first 5 days of symptoms. Striking additional evidence for independent replication in the throat is provided by sequence findings in one patient who consistently showed a distinct virus in her throat as opposed to the lung.
+    # / March, 2020 - Medrxiv
+    # let !d self assert = Whereas proof of replication by histopathology is awaited, extended tissue tropism of SARSCoV-2 with replication in the throat is strongly supported by our studies of sgRNA transcribing cells in throat swab samples, particularly during the first 5 days of symptoms. Striking additional evidence for independent replication in the throat is provided by sequence findings in one patient who consistently showed a distinct virus in her throat as opposed to the lung.
 
     / March, 2020 - Medrxiv
     let !e self assert = The majority of patients in the present study seemed to be already beyond their shedding peak in upper respiratory tract samples when first tested, while shedding of infectious virus in sputum continued through the first week of symptoms. Together, these findings suggest a more efficient transmission of SARS-CoV-2 than SARS-CoV through active pharyngeal viral shedding at a time when symptoms are still mild and typical of upper respiratory tract infection.
 
-    / March, 2020 - Medrxiv
-    let !f self assert = Later in the disease, COVID-19 then resembles SARS in terms of replication in the lower respiratory tract. Of note, the two patients who showed some symptoms of lung affection showed a prolonged viral load in sputum.
+    # / March, 2020 - Medrxiv
+    # let !f self assert = Later in the disease, COVID-19 then resembles SARS in terms of replication in the lower respiratory tract. Of note, the two patients who showed some symptoms of lung affection showed a prolonged viral load in sputum.
 
     / March, 2020 - Medrxiv
     let !g self assert = One of the most interesting hypotheses to explain a potential extension of tropism to the throat is the presence of a polybasic furin-type cleavage site at the S1-S2 junction in the SARS-CoV-2 spike protein that is not present in SARS-CoV.
@@ -1311,7 +1311,7 @@ feed March2020
   // Report 13: Estimating the number of infections and the impact of non-pharmaceutical interventions on COVID-19 in 11 European countries.
   doi: https://doi.org/10.25561/77731
   article 'Flaxman_et_al_2020
-    head = With current interventions remaining in place to at least the end of March, we estimate that interventions across all 11 countries will have averted 59,000 deaths up to 31 March [95% credible interval 21,000-120,000]. Many more deaths will be averted through ensuring that interventions remain in place until transmission drops to low levels.
+    head = Major non-pharmaceutical interventions have had a substantial impact in reducing transmission in countries with more advanced epidemics. It is too early to be sure whether similar reductions will be seen in countries at earlier stages of their epidemic. It is therefore critical that the current interventions remain in place and trends in cases and deaths are closely monitored in the coming days and weeks to provide reassurance that transmission of SARS-Cov-2 is slowing.
 
     >>> Abstract
       Following the emergence of a novel coronavirus (SARS-CoV-2) and its spread outside of China, Europe is now experiencing large epidemics. In response, many European countries have implemented unprecedented non-pharmaceutical interventions including case isolation, the closure of schools and universities, banning of mass gatherings and/or public events, and most recently, widescale social distancing including local and national lockdowns. In this report, we use a semi-mechanistic Bayesian hierarchical model to attempt to infer the impact of these interventions across 11 European countries. Our methods assume that changes in the reproductive number – a measure of transmission - are an immediate response to these interventions being implemented rather than broader gradual changes in behaviour. Our model estimates these changes by calculating backwards from the deaths observed over time to estimate transmission that occurred several weeks prior, allowing for the time lag between infection and death. One of the key assumptions of the model is that each intervention has the same effect on the reproduction number across countries and over time. This allows us to leverage a greater amount of data across Europe to estimate these effects. It also means that our results are driven strongly by the data from countries with more advanced epidemics, and earlier interventions, such as Italy and Spain. We find that the slowing growth in daily reported deaths in Italy is consistent with a significant impact of interventions implemented several weeks earlier. In Italy, we estimate that the effective reproduction number, Rt, dropped to close to 1 around the time of lockdown (11th March), although with a high level of uncertainty. Overall, we estimate that countries have managed to reduce their reproduction number. Our estimates have wide credible intervals and contain 1 for countries that have implemented all interventions considered in our analysis. This means that the reproduction number may be above or below this value. With current interventions remaining in place to at least the end of March, we estimate that interventions across all 11 countries will have averted 59,000 deaths up to 31 March [95% credible interval 21,000-120,000]. Many more deaths will be averted through ensuring that interventions remain in place until transmission drops to low levels. We estimate that, across all 11 countries between 7 and 43 million individuals have been infected with SARS-CoV-2 up to 28th March, representing between 1.88% and 11.43% of the population. The proportion of the population infected to date – the attack rate - is estimated to be highest in Spain followed by Italy and lowest in Germany and Norway, reflecting the relative stages of the epidemics. Given the lag of 2-3 weeks between when transmission changes occur and when their impact can be observed in trends in mortality, for most of the countries considered here it remains too early to be certain that recent interventions have been effective. If interventions in countries at earlier stages of their epidemic, such as Germany or the UK, are more or less effective than they were in the countries with advanced epidemics, on which our estimates are largely based, or if interventions have improved or worsened over time, then our estimates of the reproduction number and deaths averted would change accordingly. It is therefore critical that the current interventions remain in place and trends in cases and deaths are closely monitored in the coming days and weeks to provide reassurance that transmission of SARS-Cov-2 is slowing.
@@ -1320,8 +1320,8 @@ feed March2020
       !a
       !b
       !c
-      !d
       !e
+      !f
 
     / March, 2020 - Imperial College COVID-19 Response Team
     let !a self assert = We estimate that, across all 11 countries between 7 and 43 million individuals have been infected with SARS-CoV-2 up to 28th March, representing between 1.88% and 11.43% of the population. The proportion of the population infected to date – the attack rate - is estimated to be highest in Spain followed by Italy and lowest in Germany and Norway, reflecting the relative stages of the epidemics.
@@ -1332,11 +1332,14 @@ feed March2020
     / March, 2020 - Imperial College COVID-19 Response Team
     let !c self assert = Despite this, only a small minority of individuals in each country have been infected, with an attack rate on average of 4.9% [1.9%-11%] with considerable variation between countries Our estimates imply that the populations in Europe are not close to herd immunity (~50-75% if R0 is 2-4). Further, with Rt values dropping substantially, the rate of acquisition of herd immunity will slow down rapidly. This implies that the virus will be able to spread rapidly should interventions be lifted.
 
-    / March, 2020 - Imperial College COVID-19 Response Team
-    let !d self assert = We estimate that major non-pharmaceutical interventions have had a substantial impact on the timevarying reproduction numbers in countries where there has been time to observe intervention effects on trends in deaths (Italy, Spain). If adherence in those countries has changed since that initial period, then our forecast of future deaths will be affected accordingly: increasing adherence over time will have resulted in fewer deaths and decreasing adherence in more deaths. Similarly, our estimates of the impact of interventions in other countries should be viewed with caution if the same interventions have achieved different levels of adherence than was initially the case in Italy and Spain.
+    # / March, 2020 - Imperial College COVID-19 Response Team
+    # let !d self assert = We estimate that major non-pharmaceutical interventions have had a substantial impact on the timevarying reproduction numbers in countries where there has been time to observe intervention effects on trends in deaths (Italy, Spain). If adherence in those countries has changed since that initial period, then our forecast of future deaths will be affected accordingly: increasing adherence over time will have resulted in fewer deaths and decreasing adherence in more deaths. Similarly, our estimates of the impact of interventions in other countries should be viewed with caution if the same interventions have achieved different levels of adherence than was initially the case in Italy and Spain.
 
     / March, 2020 - Imperial College COVID-19 Response Team
     let !e self assert = The counterfactual model for Italy suggests that despite mounting pressure on health systems, interventions have averted a health care catastrophe where the number of new deaths would have been 3.7 times higher (38,000 deaths averted) than currently observed. Even in the UK, much earlier in its epidemic, the recent interventions are forecasted to avert 370 total deaths up to 31 of March.
+
+    / March, 2020 - Imperial College COVID-19 Response Team
+    let !f self assert = We find that the slowing growth in daily reported deaths in Italy is consistent with a significant impact of interventions implemented several weeks earlier. In Italy, we estimate that the effective reproduction number, Rt, dropped to close to 1 around the time of lockdown (11th March), although with a high level of uncertainty.
 
 
   # Origin
@@ -1682,7 +1685,7 @@ feed March2020
   // Respiratory virus shedding in exhaled breath and efficacy of face masks
   doi: https://doi.org/10.5061/dryad.w9ghx3fkt
   article 'Leung_et_al_2020
-    head = Surgical facemasks could prevent transmission of human coronaviruses and influenza viruses from symptomatic individuals.
+    head = Our results indicate that surgical facemasks could prevent transmission of human coronaviruses and influenza viruses from symptomatic individuals.
 
     >>> Abstract
       We identified seasonal human coronaviruses, influenza viruses and rhinoviruses in the exhaled breath and coughs of children and adults with acute respiratory illness. Surgical face masks significantly reduced detection of influenza virus RNA in respiratory droplets and coronavirus RNA in aerosols, with a marginally significant reduction in coronavirus RNA in respiratory droplets. Our results indicate that surgical facemasks could prevent transmission of human coronaviruses and influenza viruses from symptomatic individuals.
@@ -1691,26 +1694,20 @@ feed March2020
       !a
       !b
       !c
-      !d
-      !e
-      !f
 
     / March, 2020 - Dryad
-    let !a self assert = Our study demonstrates detection of human seasonal coronaviruses in exhaled breath, including the detection of OC43 and HKU1 from respiratory droplets and NL63, OC43 and HKU1 from aerosols.
+    let !a self assert = Given the high collection efficiency of the G-II and given that each exhaled breath collection was conducted for 30 min, this might imply that prolonged close contact would be required for transmission to occur, even if transmission was primarily via aerosols, as has been described for rhinovirus colds20
 
     / March, 2020 - Dryad
-    let !b self assert = Viral RNA was identified from respiratory droplets and aerosols for all three viruses, including 30%, 26% and 28% of respiratory droplets and 40%, 35% and 56% of aerosols collected while not wearing a face mask, from coronavirus, influenza virus and rhinovirus-infected participants, respectively (Table 1b). In particular for coronavirus, we identified OC43 and HKU1 from both respiratory droplets and aerosols, but only identified NL63 from aerosols and not from respiratory droplets
+    let !b self assert = Our results also indicate that there could be considerable heterogeneity in contagiousness of individuals with coronavirus and influenza virus infections.
+
+    # / Surgical masks prevent transmission of Corona viruses
+    # let !f self assert = Our results indicate that surgical facemasks could prevent transmission of human coronaviruses and influenza viruses from symptomatic individuals.
 
     / March, 2020 - Dryad
-    let !c self assert = Among the samples collected without a face mask, we found that the majority of participants with influenza virus and coronavirus infection did not shed detectable virus in respiratory droplets or aerosols, whereas for rhinovirus we detected virus in aerosols in 19 of 34 (56%) participants (compared to 4 of 10 (40%) for influenza and 8 of 23 (35%) for coronavirus). For those who did shed virus in respiratory droplets and aerosols, viral load in both tended to be low
+    let !c self assert = Surgical face masks significantly reduced detection of influenza virus RNA in respiratory droplets and coronavirus RNA in aerosols, with a marginally significant reduction in coronavirus RNA in respiratory droplets.
 
-    / March, 2020 - Dryad
-    let !d self assert = Given the high collection efficiency of the G-II (ref. 19) and given that each exhaled breath collection was conducted for 30 min, this might imply that prolonged close contact would be required for transmission to occur, even if transmission was primarily via aerosols, as has been described for rhinovirus colds20
 
-    / March, 2020 - Dryad
-    let !e self assert = Our results also indicate that there could be considerable heterogeneity in contagiousness of individuals with coronavirus and influenza virus infections.
-    / Surgical masks prevent transmission of Corona viruses
-    let !f self assert = Our results indicate that surgical facemasks could prevent transmission of human coronaviruses and influenza viruses from symptomatic individuals.
 
   # Incubation Period, Quarantine
   // Transmission of corona virus disease 2019 during the incubation period may lead to a quarantine loophole
@@ -1929,7 +1926,7 @@ feed March2020
   // Case-Fatality Rate and Characteristics of Patients Dying in Relation to COVID-19 in Italy
   doi: https://doi.org/doi:10.1001/jama.2020.4683
   article 'Onder_et_al_2020
-    head = COVID-19 is more lethal in older patients, so the older age distribution in Italy may explain, in part, Italy’s higher case-fatality rate compared with that of other countries.
+    head = Italy has a high proportion of older patients with confirmed COVID-19 infection and that the older population in Italy may partly explain differences in cases and case-fatality rates among countries. Within Italy, COVID-19 deaths are mainly observed among older, male patients who also have multiple comorbidities.
 
     -- exports
       !a
@@ -1942,37 +1939,37 @@ feed March2020
     let !b self assert = The distribution of cases is very different in the 2 countries: individuals aged 70 years or older represent 37.6% of cases in Italy and only 11.9% in China. In addition, a relevant number of cases in Italy are in people aged 90 years or older (n = 687), and this age group has a very high fatality rate (22.7%); data on cases in those aged 90 years or older were not reported in China.
 
 
+
   # Tag - Old age
   // Estimates of the severity of coronavirus disease 2019: a model-based analysis
   doi: https://doi.org/10.1016/S1473-3099(20)30243-7
   article 'Verity_et_al_2020
-    head = We estimated the mean duration from onset of symptoms to death to be 17·8 days and to hospital discharge to be 24·7 days. We obtained a best estimate of the case fatality ratio in China of 1·38% with substantially higher ratios in older age groups in those aged <60 years vs 6·4% in those aged ≥60 up to 13·4%  in those aged 80 years or older.
+    head = A best estimate of the case fatality ratio in China of 1·38% with substantially higher ratios in older age groups 0·32% in those aged <60 years vs 6·4% in those aged ≥60 years, up to 13·4% in those aged 80 years or older.
 
     >>> Background
       In the face of rapidly changing data, a range of case fatality ratio estimates for coronavirus disease 2019 (COVID-19) have been produced that differ substantially in magnitude. We aimed to provide robust estimates, accounting for censoring and ascertainment biases.
+
     >>> Methods
       We collected individual-case data for patients who died from COVID-19 in Hubei, mainland China (reported by national and provincial health commissions to Feb 8, 2020), and for cases outside of mainland China (from government or ministry of health websites and media reports for 37 countries, as well as Hong Kong and Macau, until Feb 25, 2020). These individual-case data were used to estimate the time between onset of symptoms and outcome (death or discharge from hospital). We next obtained age-stratified estimates of the case fatality ratio by relating the aggregate distribution of cases to the observed cumulative deaths in China, assuming a constant attack rate by age and adjusting for demography and age-based and location-based under-ascertainment. We also estimated the case fatality ratio from individual line-list data on 1334 cases identified outside of mainland China. Using data on the prevalence of PCR-confirmed cases in international residents repatriated from China, we obtained age-stratified estimates of the infection fatality ratio. Furthermore, data on age-stratified severity in a subset of 3665 cases from China were used to estimate the proportion of infected individuals who are likely to require hospitalisation.
+
     >>> Findings
       Using data on 24 deaths that occurred in mainland China and 165 recoveries outside of China, we estimated the mean duration from onset of symptoms to death to be 17·8 days (95% credible interval [CrI] 16·9–19·2) and to hospital discharge to be 24·7 days (22·9–28·1). In all laboratory confirmed and clinically diagnosed cases from mainland China (n=70117), we estimated a crude case fatality ratio (adjusted for censoring) of 3·67% (95% CrI 3·56–3·80). However, after further adjusting for demography and under-ascertainment, we obtained a best estimate of the case fatality ratio in China of 1·38% (1·23–1·53), with substantially higher ratios in older age groups (0·32% [0·27–0·38] in those aged <60 years vs 6·4% [5·7–7·2] in those aged ≥60 years), up to 13·4% (11·2–15·9) in those aged 80 years or older. Estimates of case fatality ratio from international cases stratified by age were consistent with those from China (parametric estimate 1·4% [0·4–3·5] in those aged <60 years [n=360] and 4·5% [1·8–11·1] in those aged ≥60 years [n=151]). Our estimated overall infection fatality ratio for China was 0·66% (0·39–1·33), with an increasing profile with age. Similarly, estimates of the proportion of infected individuals likely to be hospitalised increased with age up to a maximum of 18·4% (11·0–37·6) in those aged 80 years or older.
+
     >>> Interpretation
       These early estimates give an indication of the fatality ratio across the spectrum of COVID-19 disease and show a strong age gradient in risk of death.
 
     -- exports
-      !a
       !b
 
     / March, 2020 - ScienceDirect
-    let !a self assert =  A best estimate of the case fatality ratio in China of 1·38% with substantially higher ratios in older age groups (0·32% [0·27–0·38] in those aged <60 years vs 6·4% [5·7–7·2] in those aged ≥60 years), up to 13·4% (11·2–15·9) in those aged 80 years or older.
-
-    / March, 2020 - ScienceDirect
-    let !b self assert =  Our estimated overall infection fatality ratio for China was 0·66% (0·39–1·33), with an increasing profile with age. Similarly, estimates of the proportion of infected individuals likely to be hospitalised increased with age up to a maximum of 18·4% (11·0–37·6) in those aged 80 years or older.
+    let !b self assert = We estimated the mean duration from onset of symptoms to death to be 17·8 days and to hospital discharge to be 24·7 days.
 
 
   # Tag - SARS-CoV-2 on Wastewater/Sewage
   // Presence of SARS-Coronavirus-2 in sewage
   doi: https://doi.org/10.1101/2020.03.29.20045880
   article 'Medeema_et_al_2020
-    head = This is the first report of detection of SARS-CoV-2 in sewage.  The detection of fragments of two genes of SARS-CoV-2 in sewage of multiple WWTP and the temporal pattern of detection that aligns with the emergence of the epidemic in the Netherlands provide compelling evidence that SARS-CoV-2 is detected in sewage.
+    head = This is the first report of detection of SARS-CoV-2 in sewage. The detection of fragments of two genes of SARS-CoV-2 in sewage of multiple WWTP and the temporal pattern of detection that aligns with the emergence of the epidemic in the Netherlands provide compelling evidence that SARS-CoV-2 is detected in sewage.
 
     -- exports
       !a
@@ -1984,7 +1981,7 @@ feed March2020
       !g
 
     / March, 2020 - medRxiv
-    let !a self assert =  The results of the samples of February 6, 2020, three weeks before the first case was reported in The Netherlands on Feb 27, showed no positive signals for primer sets N1-3 and E
+    let !a self assert = The results of the samples of February 6, 2020, three weeks before the first case was reported in The Netherlands on Feb 27, showed no positive signals for primer sets N1-3 and E
 
     / March, 2020 - medRxiv
     let !b self assert = The samples of March 4 and 5, one week into the epidemic with 38 and 82 COVID-19 cases reported through the health surveillance system, respectively19, showed a positive signal for the N1 primer/probe set in sewage samples of four of the 6 WWTP sampled.
@@ -2452,7 +2449,7 @@ feed March2020
   // Coronavirus Infections in Children Including COVID-19
   doi: https://doi.org/10.1097/INF.0000000000002660
   article 'Zimmermann_et_al_2020
-    head = Preliminary evidence suggests children are just as likely as adults to become infected with SARS-CoV-2 but are less likely to be symptomatic or develop severe symptoms.
+    head = Preliminary evidence suggests children are just as likely as adults to become infected with SARS-CoV-2 but are less likely to be symptomatic or develop severe symptoms. However, the importance of children in transmitting the virus remains uncertain.
 
     >>> Abstract
       Coronaviruses (CoVs) are a large family of enveloped, single-stranded, zoonotic RNA viruses. Four CoVs commonly circulate among humans: HCoV2-229E, -HKU1, -NL63 and -OC43. However, CoVs can rapidly mutate and recombine leading to novel CoVs that can spread from animals to humans. The novel CoVs severe acute respiratory syndrome coronavirus (SARS-CoV) emerged in 2002 and Middle East respiratory syndrome coronavirus (MERS-CoV) in 2012. The 2019 novel coronavirus (SARS-CoV-2) is currently causing a severe outbreak of disease (termed COVID-19) in China and multiple other countries, threatening to cause a global pandemic. In humans, CoVs mostly cause respiratory and gastrointestinal symptoms. Clinical manifestations range from a common cold to more severe disease such as bronchitis, pneumonia, severe acute respiratory distress syndrome, multi-organ failure and even death. SARS-CoV, MERS-CoV and SARS-CoV-2 seem to less commonly affect children and to cause fewer symptoms and less severe disease in this age group compared with adults, and are associated with much lower case-fatality rates. Preliminary evidence suggests children are just as likely as adults to become infected with SARS-CoV-2 but are less likely to be symptomatic or develop severe symptoms. However, the importance of children in transmitting the virus remains uncertain. Children more often have gastrointestinal symptoms compared with adults. Most children with SARS-CoV present with fever, but this is not the case for the other novel CoVs. Many children affected by MERS-CoV are asymptomatic. The majority of children infected by novel CoVs have a documented household contact, often showing symptoms before them. In contrast, adults more often have a nosocomial exposure. In this review, we summarize epidemiologic, clinical and diagnostic findings, as well as treatment and prevention options for common circulating and novel CoVs infections in humans with a focus on infections in children.
@@ -2461,15 +2458,19 @@ feed March2020
       !a
       !b
       !c
+      !d
 
     / March, 2020 - The Pediatric Infectious Disease Journal
     let !a self assert = SARS-CoV, MERS-CoV and SARS-CoV-2 infections seem to affect children less commonly and less severely as compared with adults. This might be because children are less frequently exposed to the main sources of transmission (which until now has been disproportionally nosocomial) or because they are less exposed to animals. However, it could also be that children are less frequently symptomatic or have less severe symptoms and are therefore less often tested, leading to an underestimate of the true numbers infected.
 
     / March, 2020 - The Pediatric Infectious Disease Journal
-    let !b self assert = The importance of children in transmitting the virus remains uncertain. The majority of children infected by a novel CoVs reported thus far have a documented household contact, often showing symptoms before them, suggesting the possibility that children are not an important reservoir for novel CoVs.
+    let !b self assert = The majority of children infected by a novel CoVs reported thus far have a documented household contact, often showing symptoms before them, suggesting the possibility that children are not an important reservoir for novel CoVs.
 
     / March, 2020 - The Pediatric Infectious Disease Journal
     let !c self assert = To date, no deaths in children have been reported for SARS-CoV or SARS-CoV-2, except (in the case of the former) for infants of mothers who were infected during pregnancy.
+
+    / March, 2020 - The Pediatric Infectious Disease Journal
+    let !d self assert = Children more often have gastrointestinal symptoms compared with adults. Most children with SARS-CoV present with fever, but this is not the case for the other novel CoVs. Many children affected by MERS-CoV are asymptomatic.
 
 
   # Old age, epidemics
@@ -2721,9 +2722,6 @@ feed March2020
     >>> Abstract
       There is an urgent need to project how transmission of the novel betacoronavirus SARS-CoV-2 will unfold in coming years. These dynamics will depend on seasonality, the duration of immunity, and the strength of cross-immunity to/from the other human coronaviruses. Using data from the United States, we measured how these factors affect transmission of human betacoronaviruses HCoV-OC43 and HCoV-HKU1. We then built a mathematical model to simulate transmission of SARS-CoV-2 through the year 2025. We project that recurrent wintertime outbreaks of SARS-CoV-2 will probably occur after an initial pandemic wave. We summarize the full range of plausible transmission scenarios and identify key data still needed to distinguish between them, most importantly longitudinal serological studies to determine the duration of immunity to SARS-CoV-2.
 
-    -- exports
-      !a
-
     / March, 2020 - Medrxiv
     let !a self assert = We project that recurrent wintertime outbreaks of SARS-CoV-2 will probably occur after an initial pandemic wave.
 
@@ -2732,7 +2730,7 @@ feed March2020
   // What is required to prevent a second major outbreak of the novel coronavirus SARS-CoV-2 upon lifting the metropolitan-wide quarantine of Wuhan city, China
   doi: https://doi.org/10.1101/2020.03.24.20042374
   article 'Zhang_et_al_2020b
-    head = The Chinese government implemented a metropolitan-wide quarantine of Wuhan city on 23rd January 2020 to curb the epidemic of the coronavirus COVID-19. Lifting of this quarantine is imminent. We constructed a compartmental dynamic model to forecast the trend of the COVID-19 epidemic at different quarantine lifting dates and investigated the impact of different rates of public contact and facial mask usage on the epidemic.
+    head = It was possible to lift the quarantine and control the epidemic, but only if specific measures such as sustaining high facial mask usage and limiting the public contact rate remained in place. Otherwise, the epidemic will recur either from residual cases in Wuhan or imported cases from elsewhere when the transport links resume. Adopting and maximising other methods such as testing, contact tracing, and frequent hand washing would also reduce the probability of a second epidemic.
 
     >>> Abstract
       Background: The Chinese government implemented a metropolitan-wide quarantine of Wuhan city on 23rd January 2020 to curb the epidemic of the coronavirus COVID-19. Lifting of this quarantine is imminent. We modelled the effects of two key health interventions on the epidemic when the quarantine is lifted. Method: We constructed a compartmental dynamic model to forecast the trend of the COVID-19 epidemic at different quarantine lifting dates and investigated the impact of different rates of public contact and facial mask usage on the epidemic. Results: We estimated that at the end of the epidemic, a total of 65,572 (46,156-95,264) individuals would be infected by the virus, among which 16,144 (14,422-23,447, 24.6%) would be infected through public contacts, 45,795 (32,390-66,395, 69.7%) through household contact, 3,633 (2,344-5,865, 5.5%) through hospital contacts (including 783 (553-1,134) non-COVID-19 patients and 2,850 (1,801-4,981) medical staff members). A total of 3,262 (1,592-6,470) would die of COVID-19 related pneumonia in Wuhan. For an early lifting date (21st March), facial mask needed to be sustained at a relatively high rate (≥85%) if public contacts were to recover to 100% of the pre-quarantine level. In contrast, lifting the quarantine on 18th April allowed public person-to-person contact adjusted back to the pre-quarantine level with a substantially lower level of facial mask usage (75%). However, a low facial mask usage (<50%) combined with an increased public contact (>100%) would always lead a significant second outbreak in most quarantine lifting scenarios. Lifting the quarantine on 25th April would ensure a smooth decline of the epidemics regardless of the combinations of public contact rates and facial mask usage. Conclusion: The prevention of a second epidemic is viable after the metropolitan-wide quarantine is lifted but requires a sustaining high facial mask usage and a low public contact rate.
@@ -2823,6 +2821,7 @@ feed March2020
   article 'Ferretti_et_al_2020
     head = We analyzed key parameters of epidemic spread to estimate the contribution of different transmission routes and determine requirements for case isolation and contact-tracing needed to stop the epidemic. We conclude that viral spread is too fast to be contained by manual contact tracing, but could be controlled if this process was faster, more efficient and happened at scale.
 
+
     >>> Abstract
       The newly emergent human virus SARS-CoV-2 is resulting in high fatality rates and incapacitated health systems. Preventing further transmission is a priority. We analyzed key parameters of epidemic spread to estimate the contribution of different transmission routes and determine requirements for case isolation and contact-tracing needed to stop the epidemic. We conclude that viral spread is too fast to be contained by manual contact tracing, but could be controlled if this process was faster, more efficient and happened at scale. A contact-tracing App which builds a memory of proximity contacts and immediately notifies contacts of positive cases can achieve epidemic control if used by enough people. By targeting recommendations to only those at risk, epidemics could be contained without need for mass quarantines (‘lock-downs’) that are harmful to society. We discuss the ethical requirements for an intervention of this kind.
 
@@ -2837,20 +2836,22 @@ feed March2020
   // Cigarette smoke triggers the expansion of a subpopulation of respiratory epithelial cells that express the SARS-CoV-2 receptor ACE2
   doi: https://doi.org/10.1101/2020.03.28.013672
   article 'Smith_et_al_2020
-    head = ACE2 is expressed in a subset of epithelial cells that line the respiratory tract, including goblet cells, club cells, and alveolar type 2 cells. We show that cigarette smoke causes a dose-dependent upregulation of ACE2, the SARS-CoV-2 receptor, in rodent and human lungs. In contrast, quitting smoking causes a decrease in lung ACE2 levels.
+    head = Cigarette smokers harbor consistently higher levels of ACE2 in their respiratory tracts. This upregulation is likely mediated by the expansion of ACE2+ secretory cells caused by chronic smoke exposure. Furthermore, quitting smoking causes a decrease in lung ACE2 levels, it is possible that giving up cigarettes may reduce susceptibility to deadly COVID-19.
 
     >>> Abstract
       The coronavirus SARS-CoV-2 has infected more than 600,000 people and has overwhelmed hospital systems around the world. However, the factors mediating fatal SARS-CoV-2 infections are poorly understood. Here, we show that cigarette smoke causes a dose-dependent upregulation of Angiotensin Converting Enzyme 2 (ACE2), the SARS-CoV-2 receptor, in rodent and human lungs. Using single-cell sequencing data, we demonstrate that ACE2 is expressed in a subset of epithelial cells that line the respiratory tract, including goblet cells, club cells, and alveolar type 2 cells. Chronic smoke exposure triggers a protective expansion of mucus-secreting goblet cells and a concomitant increase in ACE2 expression. In contrast, quitting smoking causes a decrease in lung ACE2 levels. Taken together, these results may partially explain why smokers are particularly likely to develop severe SARS-CoV-2 infections, and they suggest that quitting smoking could lessen coronavirus susceptibility.
 
-    -- exports
-      !a
-      !b
 
     / March, 2020 - BioRxiv
-    let !a self assert = Cigarette smoke causes a dose-dependent upregulation of Angiotensin Converting Enzyme 2 (ACE2), the SARS-CoV-2 receptor, in rodent and human lungs.
+    let !a self assert = SARS-CoV-2 primarily relies on the serine protease TMPRSS2 but can also utilize an alternate pathway involving Cathepsin B/L in TMPRSS2-negative cells. Interestingly, we observed that Cathepsin B expression, but not TMPRSS2 or Cathepsin L expression, was consistently increased in mice and humans exposed to cigarette smoke. In a metaanalysis across the trachea, large airways, and small airways, Cathepsin B was in the top 11% of genes dysregulated in the respiratory tract of cigarette smokers. Thus, smoking can upregulate both the coronavirus receptor as well as a protease that SARS-CoV-2 is capable of using for viral activation.
 
     / March, 2020 - BioRxiv
-    let !b self assert = Smokers are particularly likely to develop severe SARS-CoV-2 infections, and quitting smoking could lessen coronavirus susceptibility.
+    let !b self assert = Our combined analysis demonstrates that ACE2 is expressed in the mammalian lung epithelium, and is present at particularly high levels in secretory club and goblet cells as well as in alveolar type 2 cells.
+
+    / March, 2020 - BioRxiv
+    let !c self assert = We found that exposure to interferons resulted in a significant upregulation of ACE2 expression. IFN-a, IFN-b, and IFN-g treatment increased ACE2 expression in tracheal cells, while only IFN-a and IFN-b affected ACE2 in small airway cells. The results identify ACE2 as an interferon-regulated gene and suggest a potential mechanism by which inflammatory stimuli could facilitate SARS-CoV-2 infections.
+
+
 
 # Tag - Pandemic
   // Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV2)
@@ -2935,9 +2936,6 @@ feed March2020
   article 'Liu_et_al_2020
     head = Room ventilation, open space, proper use and disinfection of toilet can effectively limit aerosol transmission of SARS-CoV-2. Gathering of crowds with asymptomatic carriers is a potential source of airborne SARS-CoV-2. The virus aerosol deposition on protective apparel or floor surface and their subsequent resuspension is a potential transmission pathway and effective sanitization is critical in minimizing aerosol transmission of SARS-CoV-2.
 
-    -- Exports
-      !a
-      !b
 
     / bioRxiv - March, 2020
     let !a self assert = Room ventilation, open space, proper use and disinfection of toilet can effectively limit aerosol transmission of SARS-CoV-2. Gathering of crowds with asymptomatic carriers is a potential source of airborne SARS-CoV-2.

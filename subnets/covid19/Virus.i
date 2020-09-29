@@ -156,7 +156,6 @@ subject module Virus
         'Zou_et_al_2020.!a
         'He_et_al_2020
         'Woelfel_et_al_2020b.!b
-        'Woelfel_et_al_2020b.!f
         'Kujawski_et_al_2020.!t
         'Kujawski_et_al_2020.!u
         'Kim_et_al_2020b
@@ -711,7 +710,7 @@ subject module Virus
   #     -- Overdispersion & 80/20 Rule of COVID-19
   #       'Adam_et_al_2020
   #       'Adam_et_al_2020.!a
-  #       'Miller_et_al_2020b.!b
+  #       'Miller_et_al_2020b
   #       'Endo_et_al_04_09_2020
   #
   #

@@ -114,7 +114,6 @@ feed May2020
     'Hosier_et_al_2020
 
   #
-
   // Efficacy of slit lamp breath shields
   doi: https://doi.org/10.1038/s41433-020-0940-y
   ref 'Poostchi_et_al_05_12_2020
@@ -145,8 +144,6 @@ feed May2020
     >>> Abstract
       The main form of COVID-19 transmission is via "oral-respiratory droplet contamination" (droplet: very small drop of liquid) produced when individuals talk, sneeze, or cough. In hospitals, health-care workers wear facemasks as a minimum medical "droplet precaution" to protect themselves. Due to the shortage of masks during the pandemic, priority is given to hospitals for their distribution. As a result, the availability/use of medical masks is discouraged for the public. However, for asymptomatic individuals, not wearing masks in public could easily cause the spread of COVID-19. The prevention of "environmental droplet contamination" (EnvDC) from coughing/sneezing/speech is fundamental to reducing transmission. As an immediate solution to promote "public droplet safety," we assessed household textiles to quantify their potential as effective environmental droplet barriers (EDBs). The synchronized implementation of a universal "community droplet reduction solution" is discussed as a model against COVID-19. Using a bacterial-suspension spray simulation model of droplet ejection (mimicking a sneeze), we quantified the extent by which widely available clothing fabrics reduce the dispersion of droplets onto surfaces within 1.8 m, the minimum distance recommended for COVID-19 "social distancing." All textiles reduced the number of droplets reaching surfaces, restricting their dispersion to <30 cm, when used as single layers. When used as double-layers, textiles were as effective as medical mask/surgical-cloth materials, reducing droplet dispersion to <10 cm, and the area of circumferential contamination to ~0.3%. The synchronized implementation of EDBs as a "community droplet reduction solution" (i.e., face covers/scarfs/masks and surface covers) will reduce COVID-19 EnvDC and thus the risk of transmitting/acquiring COVID-19.
 
-    -- exports
-      !a
 
     / May, 2020 - Front Med
     let !a self assert =
@@ -185,9 +182,6 @@ feed May2020
 
     >>> Conclusions
       SARS-CoV-2 could be transmitted by respiratory droplets or airborne droplet nuclei which could be reduced by surgical mask partition in the hamster model. This is the first in vivo experimental evidence to support the possible benefit of surgical mask in prevention of COVID-19 transmission, especially when masks were worn by infected individuals.
-
-    -- exports
-      !a
 
     / May, 2020 - Clinical Infectious Diseases
     let !a self assert =
@@ -2110,32 +2104,25 @@ feed May2020
     let !b self assert = There was 1 case of severe disease (mechanical ventilation or intensive care unit admission) in each group, and no deaths were reported.
 
 
-  # IL-6, IL-8, TNF-α, and IL-1β, Cytokine storms, frontiers, prospects, cytokine blockers, diagnostics frontiers
+  # IL-6, IL-8, TNF-α, and IL-1β, Cytokine storms, frontiers, prospects, cytokine blockers, diagnostics frontiers- SHOULD WE MAKE IL- 8 AND TNF - BE MADE IN REMEDIATION
   // An inflammatory cytokine signature helps predict COVID-19 severity and death
   doi: https://doi.org/10.1101/2020.05.28.20115758
   article 'DelValle_et_al_05_30_2020
-    head =  Our observations indicate that cytokine patterns are predictive of COVID-19 survival and mortality, independently of demographics, comorbidities, but also of standard clinical biomarkers of diseases severity, including laboratory and clinical factors. We propose that serum IL-6 and TNF-a levels should be considered in the management and treatment of COVID-19 patients to stratify prospective clinical trials, guide resource allocation and inform therapeutic options. We also propose that patients with high IL-6 and TNF-a levels should be assessed for combinatorial blockade of pathogenic inflammation in this disease.
+    head = COVID-19 is associated with high levels of all four (IL-6, IL-8, TNF-α, and IL-1β) cytokines at presentation. Our observations indicate that cytokine patterns are predictive of COVID-19 survival and mortality, independently of demographics, comorbidities, but also of standard clinical biomarkers of diseases severity, including laboratory and clinical factors.
+
 
     >>> Abstract
       The COVID-19 pandemic caused by infection with Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) has led to more than 100,000 deaths in the United States. Several studies have revealed that the hyper-inflammatory response induced by SARS-CoV-2 is a major cause of disease severity and death in infected patients. However, predictive biomarkers of pathogenic inflammation to help guide targetable immune pathways are critically lacking. We implemented a rapid multiplex cytokine assay to measure serum IL-6, IL-8, TNF-α, and IL-1β in hospitalized COVID-19 patients upon admission to the Mount Sinai Health System in New York. Patients (n=1484) were followed up to 41 days (median 8 days) and clinical information, laboratory test results and patient outcomes were collected. In 244 patients, cytokine measurements were repeated over time, and effect of drugs could be assessed. Kaplan-Meier methods were used to compare survival by cytokine strata, followed by Cox regression models to evaluate the independent predictive value of baseline cytokines. We found that high serum IL-6, IL-8, and TNF-α levels at the time of hospitalization were strong and independent predictors of patient survival. Importantly, when adjusting for disease severity score, common laboratory inflammation markers, hypoxia and other vitals, demographics, and a range of comorbidities, IL-6 and TNF-α serum levels remained independent and significant predictors of disease severity and death. We propose that serum IL-6 and TNF-α levels should be considered in the management and treatment of COVID-19 patients to stratify prospective clinical trials, guide resource allocation and inform therapeutic options. We also propose that patients with high IL-6 and TNF-α levels should be assessed for combinatorial blockade of pathogenic inflammation in this disease.
 
     -- exports
-      !a
-      !b
-      !c
-      !d
+      !a1
+      !a2
+      !a3
       !e
       !f
       !g
-      !h
-      !i
       !j
-      !k
-      !l
       !m
-      !n
-      !o
-      !p
       !q
       !r
       !s
@@ -2143,16 +2130,25 @@ feed May2020
       !u
 
     / May, 2020 - MedRxiv
-    let !a self assert =  We found that high serum IL-6, IL-8, and TNFa levels at the time of hospitalization were strong and independent predictors of patient survival.
+    let !a self assert = We found that high serum IL-6, IL-8, and TNFa levels at the time of hospitalization were strong and independent predictors of patient survival.
 
     / May, 2020 - MedRxiv
-    let !b self assert = Importantly, when adjusting for disease severity score, common laboratory inflammation markers, hypoxia and other vitals, demographics, and a range of comorbidities, IL-6 and TNF-a serum levels remained independent and significant predictors of disease severity and death.
+    let !a1 self assert = We found that IL-6 was one of the most robust prognostic markers of survival, eclipsing or outperforming CRP, D-dimer, and ferritin after adjusting for the demographic features and comorbidities. It remained independently associated with severity and predictive of outcome when including information about ventilation and end organ damage.
 
     / May, 2020 - MedRxiv
-    let !c self assert = We found that IL-6, IL-8, and TNF-a were significantly elevated in COVID-19 serum compared to healthy donor serum or plasma isolated from CAR-T cell treated patients with no CRS. The four cytokines assessed had different detection ranges, with IL-6 having the most dynamic profile, followed by IL-8, and TNF-a. In line with previous reports, IL-1b levels were mostly low or at the limit of detection (even though controls worked as expected).
+    let !a2 self assert = Elevated TNF-a, known to contribute to organ damage, was also a strong predictor of poor outcome even after adjusting for other risk factors such as age, sex, hypoxia, disease severity scoring based on clinical assessment, and IL-6.
 
     / May, 2020 - MedRxiv
-    let !d self assert = We hypothesized that cytokines are elevated in COVID-19 patients compared to healthy donors and non-CRS CAR-T treated patients due to SARS-CoV-2 infection. Despite similar comorbidities, cytokine levels in this subset of patients were significantly lower compared to patients that tested positive for SARS-CoV-2 infection.
+    let !a3 self assert = Our cytokine panel also included IL-8, which showed association with survival time even though it was eclipsed by other severity factors after multivariate adjustments, and IL-1b which was poorly detected and as a result had only marginal predictive value.
+
+    # / May, 2020 - MedRxiv
+    # let !b self assert = Importantly, when adjusting for disease severity score, common laboratory inflammation markers, hypoxia and other vitals, demographics, and a range of comorbidities, IL-6 and TNF-a serum levels remained independent and significant predictors of disease severity and death.
+
+    # / May, 2020 - MedRxiv
+    # let !c self assert = We found that IL-6, IL-8, and TNF-a were significantly elevated in COVID-19 serum compared to healthy donor serum or plasma isolated from CAR-T cell treated patients with no CRS. The four cytokines assessed had different detection ranges, with IL-6 having the most dynamic profile, followed by IL-8, and TNF-a. In line with previous reports, IL-1b levels were mostly low or at the limit of detection (even though controls worked as expected).
+
+    # / May, 2020 - MedRxiv
+    # let !d self assert = We hypothesized that cytokines are elevated in COVID-19 patients compared to healthy donors and non-CRS CAR-T treated patients due to SARS-CoV-2 infection. Despite similar comorbidities, cytokine levels in this subset of patients were significantly lower compared to patients that tested positive for SARS-CoV-2 infection.
 
     / May, 2020 - MedRxiv
     let !e self assert = Men had higher levels of IL-6 than women, but no sex differences were observed for the other three cytokines. With increased age brackets (<50, 50-70, >70 years old), levels of IL-6, IL-8, and TNF-a increased and the same was observed for age when assessed as a continuous variable.
@@ -2161,34 +2157,37 @@ feed May2020
     let !f self assert = There was no association of any cytokine measured with body mass index, however, there is an increased prevalence of obesity in our studied population. Smoking and race/ethnicity showed weak but significant univariate associations with IL-6, IL-1b, and/or TNF-a which were not confirmed after adjusting for the other covariates, except for IL-1b and TNF-a which remained significantly higher when comparing Hispanics to African Americans.
 
     / May, 2020 - MedRxiv
-    let !g self assert =  We found that TNF-a and IL-8 were significantly increased in patients with chronic kidney disease (CKD), diabetes, and hypertension, while TNF-a was also increased in those with congestive heart failure, based on univariate analyses. IL-6 and IL-8 were elevated in patients with a history of atrial fibrillation. No associations were found between cytokines and active cancer, asthma, COPD, HIV, and sleep apnea.
+    let !g self assert = We found that TNF-a and IL-8 were significantly increased in patients with chronic kidney disease (CKD), diabetes, and hypertension, while TNF-a was also increased in those with congestive heart failure, based on univariate analyses. IL-6 and IL-8 were elevated in patients with a history of atrial fibrillation. No associations were found between cytokines and active cancer, asthma, COPD, HIV, and sleep apnea.
+
+    # / May, 2020 - MedRxiv
+    # let !h self assert = Time to ELLA testing from time of hospital admission did not impact the cytokine levels, meaning whether patients were tested for cytokines immediately upon admission or later (as will be discussed in the longitudinal follow-up section) did not impact the level of cytokines. Therefore, this time difference was not considered as a potential confounder.
+
+    # / May, 2020 - MedRxiv
+    # let !i self assert = We confirmed that CKD was the only comorbidity significantly associated with elevated cytokine levels, while elevated TNF-a in patients with diabetes and hypertension were explained by other variables. From demographics, age and sex (for IL-6) remained significantly associated with cytokine levels as seen in univariate analyses.
 
     / May, 2020 - MedRxiv
-    let !h self assert = Time to ELLA testing from time of hospital admission did not impact the cytokine levels, meaning whether patients were tested for cytokines immediately upon admission or later (as will be discussed in the longitudinal follow-up section) did not impact the level of cytokines. Therefore, this time difference was not considered as a potential confounder.
+    let !j self assert = We found that only age and CKD were significantly associated with increased risk of death from COVID-19.
 
-    / May, 2020 - MedRxiv
-    let !i self assert = Using multivariable regression models, we confirmed that CKD was the only comorbidity significantly associated with elevated cytokine levels, while elevated TNF-a in patients with diabetes and hypertension were explained by other variables. From demographics, age and sex (for IL-6) remained significantly associated with cytokine levels as seen in univariate analyses.
+    # / May, 2020 - MedRxiv
+    # let !j1 self assert = We found that each cytokine could predict the overall survival of patients, based on the first available measurement following hospital admission. Each cytokine was independently predictive of overall survival, after adjusting for demographics and comorbidities, i.e., sex, age, race/ethnicity, smoking, CKD, hypertension, asthma, congestive heart failure.
 
-    / May, 2020 - MedRxiv
-    let !j self assert = We found that only age and CKD were significantly associated with increased risk of death from COVID-19. We found that each cytokine could predict the overall survival of patients, based on the first available measurement following hospital admission. Each cytokine was independently predictive of overall survival, after adjusting for demographics and comorbidities, i.e., sex, age, race/ethnicity, smoking, CKD, hypertension, asthma, congestive heart failure.
+    # / May, 2020 - MedRxiv
+    # let !k self assert = When considering all cytokines together in the model, for their relative independence, all but IL-1b remained significant, even after adjustment for demographics and comorbidities. This confirmed the relative independence of each cytokine tested, with only age (50-70 vs. >70); <50 vs. >70: 0.24, IL-6 HR 2.27, IL-8 (HR 1.48), and TNF-a (HR 1.50) remaining significantly associated with decreased survival after adjustments (respectively p<0.0001, p<0.0001, p=0.0076, p=0.0105).
 
-    / May, 2020 - MedRxiv
-    let !k self assert = When considering all cytokines together in the model, for their relative independence, all but IL-1b remained significant, even after adjustment for demographics and comorbidities. This confirmed the relative independence of each cytokine tested, with only age (50-70 vs. >70, HR 0.55 [0.42-0.72]; <50 vs. >70: 0.24 [0.15-0.41]), IL-6 (HR 2.27 [1.65-3.12], IL-8 (HR 1.48 [1.11- 1.97]), and TNF-a (HR 1.50 [1.10-2.05]) remaining significantly associated with decreased survival after adjustments (respectively p<0.0001, p<0.0001, p=0.0076, p=0.0105).
-
-    / May, 2020 - MedRxiv
-    let !l self assert = As additional validation, we also performed this analysis using a competing risk model, in which patients discharged alive were considered competing events and patients in hospital were censored, and found the same conclusion, where high IL-6, IL-8, and TNF-a remained significantly associated with worse outcome regardless of demographics and comorbidities (not shown).
+    # / May, 2020 - MedRxiv
+    # let !l self assert = As additional validation, we also performed this analysis using a competing risk model, in which patients discharged alive were considered competing events and patients in hospital were censored, and found the same conclusion, where high IL-6, IL-8, and TNF-a remained significantly associated with worse outcome regardless of demographics and comorbidities (not shown).
 
     / May, 2020 - MedRxiv
     let !m self assert = We first tested whether the 4 tested cytokine levels were associated with known inflammation markers CRP, D-dimer, and ferritin, and found strong correlations in all cytokine with each measurement, with IL-6 and IL-1b additionally associated with fever. In addition, IL-6 and IL-8 levels were closely correlated with severity scale, which takes into account lung imaging and use of ventilation and end organ damage, while TNF-a did not distinguish moderate vs. severe COVID-19 presentation, but instead was only increased with end organ damage.
 
-    / May, 2020 - MedRxiv
-    let !n self assert = Looking at the predictive value of cytokines on survival after adjusting for levels of CRP, D-dimer, ferritin, and all comorbidities, IL-6 and IL-8 remained independently predictive of survival, therefore showing additive value to these known markers (not shown). However, when including additional severity metrics, severity scoring, IL-8 was no longer independent from other variables, likely because it was eclipsed by stronger measurements which follows a similar pattern.
+    # / May, 2020 - MedRxiv
+    # let !n self assert = Looking at the predictive value of cytokines on survival after adjusting for levels of CRP, D-dimer, ferritin, and all comorbidities, IL-6 and IL-8 remained independently predictive of survival, therefore showing additive value to these known markers (not shown). However, when including additional severity metrics, severity scoring, IL-8 was no longer independent from other variables, likely because it was eclipsed by stronger measurements which follows a similar pattern.
 
-    / May, 2020 - MedRxiv
-    let !o self assert = Using unsupervised analyses, neutrophils, white blood cells, CRP, ferritin, D-dimer, LDH, and low O2 saturation were co-clustering with all cytokines except TNF-a, which was more closely correlated with markers of tissue damage like creatinin.
+    # / May, 2020 - MedRxiv
+    # let !o self assert = Using unsupervised analyses, neutrophils, white blood cells, CRP, ferritin, D-dimer, LDH, and low O2 saturation were co-clustering with all cytokines except TNF-a, which was more closely correlated with markers of tissue damage like creatinin.
 
-    / May, 2020 - MedRxiv
-    let !p self assert = We conclude that IL-6 and TNF-a are independently predictive of patient outcomes in terms of both disease severity and survival. Even after stratifying for risk factors with the strongest p value, i.e. severity score, O2 saturation, and age, IL-6 and TNF-a remained independently predictive of survival.
+    # / May, 2020 - MedRxiv
+    # let !p self assert = We conclude that IL-6 and TNF-a are independently predictive of patient outcomes in terms of both disease severity and survival. Even after stratifying for risk factors with the strongest p value, i.e. severity score, O2 saturation, and age, IL-6 and TNF-a remained independently predictive of survival.
 
     / May, 2020 - MedRxiv
     let !q self assert = Interestingly, the COVID-19-related cytokine response was quite distinct from the traditional cytokine storm associated with sepsis and CAR-T cells, with sustained elevated cytokine levels over days and weeks, and relative absence of coordination among them. This raises possibilities of honing on mitigation strategies with anti-cytokine treatments, though which one(s) and the window of opportunity for their use remain to be established. Guiding such therapies based on mechanistic association with cytokine levels could provide a rational approach.
@@ -2200,10 +2199,11 @@ feed May2020
     let !s self assert = Interestingly, off-label treatment with the anti-IL-6R monoclonal antibody tocilizumab, which was given in a subset of patients with progressive respiratory failure with marked systemic inflammation, showed that patients who received this drug started with elevated IL-6 levels, and then had a transient increase in serum IL-6, which has previously been explained by disrupted clearance following drug saturation of the IL-6 receptor. This transient elevation was only observed for IL-6, not IL-8, while TNF-a appeared gradually decrease following therapy.
 
     / May, 2020 - MedRxiv
-    let !t self assert = Other treatments such as corticosteroids and remdesivir showed, respectively, a rapid and gradual reduction in IL-6 over time compared to patients who did not receive these drugs, but no effect on TNF-a, while hydroxychloroquine, acetaminophen, or anti-coagulants did not clearly appear to alter cytokine levels.The clinical outcome of patients stratified based on IL-6 levels will need to be confirmed in prospective randomized trials.
+    let !t self assert = Other treatments such as corticosteroids and remdesivir showed, respectively, a rapid and gradual reduction in IL-6 over time compared to patients who did not receive these drugs, but no effect on TNF-a, while hydroxychloroquine, acetaminophen, or anti-coagulants did not clearly appear to alter cytokine levels. The clinical outcome of patients stratified based on IL-6 levels will need to be confirmed in prospective randomized trials.
 
     / May, 2020 - MedRxiv
     let !u self assert = Early cytokine measurements are reliable predictors of outcome and therefore raise the critical importance of using serum cytokine levels for treatment decisions. The predictive value of these cytokines may help to inform therapeutic interventions to determine which individuals are likely to develop respiratory failure, end organ damage, and death. Cytokine levels can serve to evaluate appropriateness for pharmacotherapy with available or experimental agents and to select optimal trial designs to disrupt the underlying inflammatory milieu. A prediction model built on cytokine levels early in disease may serve to inform health care allocation and prioritization of individuals at highest risk.
+
 
 
   # Variant population, cancer patients, mortality
@@ -2263,7 +2263,7 @@ feed May2020
   // Cumulative incidence and diagnosis of SARS-CoV-2 infection in New York
   doi: https://doi.org/10.1101/2020.05.25.20113050
   article 'Rosenberg_et_al_05_29_2020
-    head =  Over 2 million adults were infected through late March 2020, with substantial variations by subpopulations. As this remains below herd immunity thresholds and as the epidemic grows in other regions of the country, this study offers a potential model for other jurisdictions to monitor their epidemic. Estimates of cumulative incidence can be combined with diagnostic totals, or other epidemic markers such as mortality, to provide a holistic epidemic view during a time of unprecedented pandemic and to best craft high-impact approaches to prevention, containment, treatment and mitigation.
+    head = Over 2 million adult NYS residents were infected through the end of March. Our findings estimate the extent of transmission of and community experience with SARS-CoV-2, particularly in the NYC metropolitan region. Despite large numbers of persons acquiring SARS-CoV-2, this represents only 14.0% of adult residents, suggesting that, even in this COVID-19 epicenter, the epidemic is substantially below the ~70% US herd immunity threshold.
 
     >>> Importance
       New York State (NYS) is an epicenter of the United States' COVID-19 epidemic. Reliable estimates of cumulative incidence of SARS-CoV-2 infection in the population are critical to tracking the extent of transmission and informing policies, but US data are lacking, in part because societal closure complicates study conduct.
@@ -2293,7 +2293,6 @@ feed May2020
       Over 2 million adults were infected through late March 2020, with substantial variations by subpopulations. As this remains below herd immunity thresholds, monitoring, testing, and contact tracing remain essential public health strategies.
 
     -- exports
-      !a
       !b
       !c
       !d
@@ -2301,20 +2300,20 @@ feed May2020
       !f
       !g
 
-    / May, 2020 - MedRxiv
-    let !a self assert = Following weighting, 12.5% were estimated reactive and following further adjustment for test characteristics, estimated cumulative incidence was 14.0% (95% CI: 13.3-14.7%), corresponding to 2,139,300 (95% CI: 2,035,800-2,242,800) infection-experienced adults in NYS through approximately March 29. In sensitivity analyses at the extremes of test characteristics, cumulative incidence ranged from 9.8% (95% CI: [9.1-10.5%]) to 15.0% (95% CI: [14.3-15.7%]), representing a total of 1,494,700 (95% CI: [1,391,800-1,597600]) to 2,286,600 (95% CI: [2,178,200-2,395,100]) adults in NYS.
+    # / May, 2020 - MedRxiv
+    # let !a self assert = Following weighting, 12.5% were estimated reactive and following further adjustment for test characteristics, estimated cumulative incidence was 14.0% (95% CI: 13.3-14.7%), corresponding to 2,139,300 (95% CI: 2,035,800-2,242,800) infection-experienced adults in NYS through approximately March 29. In sensitivity analyses at the extremes of test characteristics, cumulative incidence ranged from 9.8% (95% CI: [9.1-10.5%]) to 15.0% (95% CI: [14.3-15.7%]), representing a total of 1,494,700 (95% CI: [1,391,800-1,597600]) to 2,286,600 (95% CI: [2,178,200-2,395,100]) adults in NYS.
 
     / May, 2020 - MedRxiv
     let !b self assert = Cumulative incidence was higher among males than females, with males comprising 50.3% of adult infections.
 
     / May, 2020 - MedRxiv
-    let !c self assert = This differed significantlyby race and ethnicity, with Hispanic/Latino (29.2%, 95% CI: 27.2-31.2%), non-Hispanic black/African American (20.2% [95% CI, 18.1-22.3%]), and non-Hispanic Asian (12.4%, 95% CI: [9.4- 15.4%]) adults having higher cumulative incidence than non-Hispanic white adults (8.1%, 95% CI: [7.4- 8.7%], p<.0001). Given these differences, Hispanics comprised the plurality (36.6%) of infection experienced adults.
+    let !c self assert = This differed significantlyby race and ethnicity, with Hispanic/Latino (29.2%) non-Hispanic black/African American (20.2%), and non-Hispanic Asian (12.4%) adults having higher cumulative incidence than non-Hispanic white adults (8.1%). Given these differences, Hispanics comprised the plurality (36.6%) of infection experienced adults.
 
     / May, 2020 - MedRxiv
-    let !d self assert = Significant differences were also observed by age (p=0.0002), ranging from highest levels among persons 45-54 years old (16.0%, 95% CI: [14.6-17.5%]) to lowest among persons ≥55 years (12.1% [95% CI: 11.2-13.1%]).
+    let !d self assert = Significant differences were also observed by age, ranging from highest levels among persons 45-54 years old (16.0%) to lowest among persons ≥55 years (12.1%).
 
     / May, 2020 - MedRxiv
-    let !e self assert = We observed regional heterogeneity in cumulative incidence, ranging from 22.7% (95% CI: 21.5%-24.0%) in NYC residents, to 16.1% (95% CI: 13.2-19.0%) and 13.2% (11.4-15.1%) in the respective metropolitan areas of Westchester/Rockland Counties and Long Island, to 3.6% (95% CI: [3.0-4.1]) in ROS (p<0.0001).
+    let !e self assert = We observed regional heterogeneity in cumulative incidence, ranging from 22.7% in NYC residents, to 16.1% and 13.2% in the respective metropolitan areas of Westchester/Rockland Counties and Long Island, to 3.6%.
 
     / May, 2020 - MedRxiv
     let !f self assert = The patterns of racial disparity observed statewide were similar and statistically significant within NYC, Westchester/Rockland, and Long Island, but not in ROS. In each of the former 3 regions, Hispanic/Latino persons represented >37% of infection-experienced adults, whereas in the latter non-Hispanic whites comprised a majority of infection-experienced adults (79.4%).
@@ -2946,7 +2945,7 @@ feed May2020
   // Susceptibility to and transmission of COVID-19 amongst children and adolescents compared with adults: a systematic review and meta-analysis
   doi: https://doi.org/10.1101/2020.05.20.20108126
   article 'Viner_et_al_05_24_2020
-    head = Data from contact-tracing studies suggest there is preliminary evidence that children and young people have lower susceptibility for SARS-CoV-2 infection. Meta-analysis of these studies found the pooled odds ratio for testing positive in children compared with adults was 0.44, meaning those under approximately age 18-20 years had a 56% lower odds of infection than adults.
+    head = There is preliminary evidence that children and young people have lower susceptibility to SARS-CoV-2, with a 56% lower odds of being an infected contact. There is weak evidence that children and young people play a lesser role in transmission of SARS-CoV-2 at a population level.
 
     >>> Background
       The degree to which children and young people are infected by and transmit the SARS-CoV-2 virus is unclear. Clinical series and testing cohorts based upon screening of symptomatic cases provide biased estimates of susceptibility in children. The role of children and young people in transmission of SARS-CoV-2 is dependent on susceptibility, symptoms, viral load, social contact patterns and behaviour.
@@ -3033,7 +3032,7 @@ feed May2020
   // How can airborne transmission of COVID-19 indoors be minimised?
   doi: https://doi.org/10.1016/j.envint.2020.105832
   article 'Morawska_et_al_05_27_2020
-    head = Inhaling small airborne droplets is probable as a third route of infection. Existing evidence is sufficiently strong to warrant engineering controls (ventilation,particle filtration, air disinfection, avoiding air recirculation and overcrowding) targeting airborne transmission as part of an overall strategy to limit infection risk indoors.
+    head = Inhaling small airborne droplets is probable as a third route of infection. Existing evidence is sufficiently strong to warrant engineering controls (ventilation, particle filtration, air disinfection, avoiding air recirculation and overcrowding) targeting airborne transmission as part of an overall strategy to limit infection risk indoors.
 
     >>> Abstract
       During the rapid rise in COVID-19 illnesses and deaths globally, and notwithstanding recommended precautions, questions are voiced about routes of transmission for this pandemic disease. Inhaling small airborne droplets is probable as a third route of infection, in addition to more widely recognized transmission via larger respiratory droplets and direct contact with infected people or contaminated surfaces. While uncertainties remain regarding the relative contributions of the different transmission pathways, we argue that existing evidence is sufficiently strong to warrant engineering controls targeting airborne transmission as part of an overall strategy to limit infection risk indoors. Appropriate building engineering controls include sufficient and effective ventilation, possibly enhanced by particle filtration and air disinfection, avoiding air recirculation and avoiding overcrowding. Often, such measures can be easily implemented and without much cost, but if only they are recognised as significant in contributing to infection control goals. We believe that the use of engineering controls in public buildings, including hospitals, shops, offices, schools, kindergartens, libraries, restaurants, cruise ships, elevators, conference rooms or public transport, in parallel with effective application of other controls (including isolation and quarantine, social distancing and hand hygiene), would be an additional important measure globally to reduce the likelihood of transmission and thereby protect healthcare workers, patients and the general public.
@@ -3058,10 +3057,10 @@ feed May2020
     let !d self assert = Particulate filters and disinfection equipment in recirculated air streams can  reduce this risk, but they need to be purposely designed to control risk of airborne infection and need regular service to maintain their effectiveness. Many systems are designed for filters that are intended to remove larger particles that may affect the functioning of equipment and that are not effective at removing small, sub micrometre or micrometre size particles associated with adverse health effects.
 
     / May, 2020 - Environment International
-    let !e self assert = In environments where it is difficult to improve  ventilation, the addition  of  local air cleaning or disinfection devices, such as germicidal ultraviolet (GUV, or UVGI - ultraviolet germicidal irradiation) may offer benefits.
+    let !e self assert = In environments where it is difficult to improve ventilation, the addition  of  local air cleaning or disinfection devices, such as germicidal ultraviolet (GUV, or UVGI - ultraviolet germicidal irradiation) may offer benefits.
 
-    / May, 2020 - Environment International
-    let !f self assert = To avoid over-crowding, e.g. pupils sitting at every other desk in school classrooms, or customers at every other table in restaurants, or every other seat in public transport, cinemas, etc.
+    # / May, 2020 - Environment International
+    # let !f self assert = To avoid over-crowding, e.g. pupils sitting at every other desk in school classrooms, or customers at every other table in restaurants, or every other seat in public transport, cinemas, etc.
 
 
 
@@ -3459,7 +3458,7 @@ feed May2020
     let !c self assert = In conclusion, the SARS-CoV-2/COVID-19 pandemic represents a dynamic situation where decisions and policy must be guided by evidence. Our study showed no positive viral cultures with a Ct greater than 24 or STT greater than 8 days. The odds of a positive culture were decreased by 32% for each unit increase in Ct. This data, if confirmed, may help guide isolation, contact tracing, and testing guidelines.
 
 
-  # Face Mask
+  # Face Mask, cloth mask, mask shortage, general public,nonmedical mask
   // Face Masks Against COVID-19: An Evidence Review
   doi: https://doi.org/10.20944/preprints202004.0203.v2
   article 'Howard_et_al_05_13_2020
@@ -3467,12 +3466,14 @@ feed May2020
 
     >>> Abstract
       The science around the use of masks by the general public to impede COVID-19 transmission is advancing rapidly. Policymakers need guidance on how masks should be used by the general population to combat the COVID-19 pandemic. Here,we develop an analytical framework to examine an overlooked aspect of mask usage: masks as source-control targeting egress from the wearer with benefits at the population-level, rather than as PPE used for ingress control for health-care workers with focus on individual outcomes. We consider and synthesize the relevant literature to inform multiple areas: 1) transmission characteristics of COVID-19, 2) filtering characteristics and efficacy of masks, 3) estimated population impacts of widespread community mask use, and 4) sociological considerations for policies concerning mask-wearing. A primary route of transmission of COVID-19 is likely via respiratory droplets, and is known to be transmissible from presymptomatic and asymptomatic individuals. Reducing disease spread requires two things: first, limit contacts of infected individuals via physical distancing and other measures, and second, reduce the transmission probability per contact. The preponderance of evidence indicates that mask wearing reduces the transmissibility per contact by reducing transmission of infected droplets in both laboratory and clinical contexts. Public mask wearing is most effective at reducing spread of the virus when compliance is high. The decreased transmissibility could substantially reduce the death toll and economic impact while the cost of the intervention is low. Given the current shortages of medical masks we recommend the adoption of public cloth mask wearing, as an effective form of source control for now, in conjunction with existing hygiene, distancing, and contact tracing strategies. We recommend that public officials and governments strongly encourage the use of widespread face masks in public, including the use of appropriate regulation.
+
     -- exports
       !a
       !b
 
     / Evidence in favour of wearing masks to reduce transmission
     let !a self assert = The preponderance of evidence indicates that mask wearing reduces the transmissibility per contact by reducing transmission of infected droplets in both laboratory and clinical contexts.
+
     / Should everyone wear masks? Even cloth masks?
     let !b self assert = Given the current shortages of medical masks we recommend the adoption of public cloth mask wearing, as an effective form of source control for now, in conjunction with existing hygiene, distancing, and contact tracing strategies. We recommend that public officials and governments strongly encourage the use of widespread face masks in public, including the use of appropriate regulation.
 
@@ -3493,35 +3494,40 @@ feed May2020
   // OpenSAFELY: factors associated with COVID-19-related hospital death in the linked electronic health records of 17 million adult NHS patients.
   doi: https://doi.org/10.1101/2020.05.06.20092999
   article 'Williamson_et_al_05_07_2020
-    head =  Most comorbidities we studied were associated with increased risk, including cardiovascular disease, diabetes, respiratory disease including asthma, obesity, history of haematological malignancy or recent other cancer, kidney, liver, neurological and autoimmune conditions. People from Asian and black groups had a substantially higher risk of death from COVID-19, only partially attributable to co-morbidity, deprivation or other risk factors. Deprivation is also a major risk factor, which was only partly attributable to co-morbidity or other risk factors.
+    head = Most comorbidities we studied were associated with increased risk, including cardiovascular disease, diabetes, respiratory disease including asthma, obesity, history of haematological malignancy or recent other cancer, kidney, liver, neurological and autoimmune conditions. People from Asian and black groups had a substantially higher risk of death from COVID-19, only partially attributable to co-morbidity, deprivation or other risk factors.
 
     >>> Background
       Establishing who is at risk from a novel rapidly arising cause of death, and why, requires a new approach to epidemiological research with very large datasets and timely data. Working on behalf of NHS England we therefore set out to deliver a secure and pseudonymised analytics platform inside the data centre of a major primary care electronic health records vendor establishing coverage across detailed primary care records for a substantial proportion of all patients in England. The following results are preliminary.
+
     >>> Data sources
       Primary care electronic health records managed by the electronic health record vendor TPP, pseudonymously linked to patient-level data from the COVID-19 Patient Notification System (CPNS) for death of hospital inpatients with confirmed COVID-19, using the new OpenSAFELY platform.
+
     >>> Population
       17,425,445 adults.
+
     >>> Time period
       1st Feb 2020 to 25th April 2020.
+
     >>> Primary outcome
       Death in hospital among people with confirmed COVID-19.
+
     >>> Methods
       Cohort study analysed by Cox-regression to generate hazard ratios: age and sex adjusted, and multiply adjusted for co-variates selected prospectively on the basis of clinical interest and prior findings.
+
     >>> Results
       There were 5683 deaths attributed to COVID-19. In summary after full adjustment, death from COVID-19 was strongly associated with: being male (hazard ratio 1.99, 95%CI 1.88-2.10); older age and deprivation (both with a strong gradient); uncontrolled diabetes (HR 2.36 95% CI 2.18-2.56); severe asthma (HR 1.25 CI 1.08-1.44); and various other prior medical conditions. Compared to people with ethnicity recorded as white, black people were at higher risk of death, with only partial attenuation in hazard ratios from the fully adjusted model (age-sex adjusted HR 2.17 95% CI 1.84-2.57; fully adjusted HR 1.71 95% CI 1.44-2.02); with similar findings for Asian people (age-sex adjusted HR 1.95 95% CI 1.73-2.18; fully adjusted HR 1.62 95% CI 1.43-1.82).
+
     >>> Conclusions
       We have quantified a range of clinical risk factors for death from COVID-19, some of which were not previously well characterised, in the largest cohort study conducted by any country to date. People from Asian and black groups are at markedly increased risk of in-hospital death from COVID-19, and contrary to some prior speculation this is only partially attributable to pre-existing clinical risk factors or deprivation; further research into the drivers of this association is therefore urgently required. Deprivation is also a major risk factor with, again, little of the excess risk explained by co-morbidity or other risk factors. The findings for clinical risk factors are concordant with policies in the UK for protecting those at highest risk. Our OpenSAFELY platform is rapidly adding further NHS patients' records; we will update and extend these results regularly.
 
     -- exports
       !a
-      !b
-
 
     / May, 2020 - medRxiv
     let !a self assert = In this study, Death from COVID-19 was strongly associated with: being male; older age and deprivation; uncontrolled diabetes; severe asthma; and various other prior medical conditions.
 
-    / May, 2020 - medRxiv
-    let !b self assert = Compared to people with ethnicity recorded as white, black people were at higher risk of death, with only partial attenuation in hazard ratios from the fully adjusted model (age-sex adjusted HR 2.17 95% CI 1.84-2.57; fully adjusted HR 1.71 95% CI 1.44-2.02); with similar findings for Asian people (age-sex adjusted HR 1.95 95% CI 1.73-2.18; fully adjusted HR 1.62 95% CI 1.43-1.82).
+    # / May, 2020 - medRxiv
+    # let !b self assert = Compared to people with ethnicity recorded as white, black people were at higher risk of death, with only partial attenuation in hazard ratios from the fully adjusted model (age-sex adjusted HR 2.17 95% CI 1.84-2.57; fully adjusted HR 1.71 95% CI 1.44-2.02); with similar findings for Asian people (age-sex adjusted HR 1.95 95% CI 1.73-2.18; fully adjusted HR 1.62 95% CI 1.43-1.82).
 
 
   # Serology Surveys
@@ -3597,14 +3603,13 @@ feed May2020
 
 
   # testing, Reinfection
-  // To Interpret the SARS-CoV-2 Test, Consider the Cycle Threshold Value
+  // To Interpret the SARS-CoV-2 Test, Consider the Cycle Threshold Value.
   doi: https://doi.org/10.1093/cid/ciaa619
   article 'Tom_et_al_2020
-    head =  Currently, diagnosis, screening, and surveillance depend on a SARS-CoV-2 reverse transcriptase quantitative PCR (RT-qPCR) test and results are generally reported to the ordering physician as positive or negative. However, the test does provide a measure of the viral load in the sample, in what is called the cycle threshold (Ct) value. We suggest that reporting this Ct value, or a calculate viral load, can aid in interpretation and clinical decisions. We discuss the merits of PCR tests and other approaches such as time since symptom resolution based approaches for removing individuals from isolation.
+    head = Prolonged positive SARS-CoV-2 RT-qPCR results raise questions about the sufficiency and sustainability of current isolation guidelines. We suggest that the cycle threshold (Ct) value from positive test results, when interpreted in context, can help to refine clinical decision making.
 
     -- exports
       !a
-      !b
       !c
       !d
       !e
@@ -3613,41 +3618,36 @@ feed May2020
       !h
       !i
       !j
-      !k
       !l
-      !m
-      !n
-      !o
-      !p
       !q
 
 
     / May, 2020 - Clinical Infectious Diseases
-    let !a self assert = Xiao et al. report that SARS-CoV-2 RT-qPCR results can remain positive up to five weeks after onset of symptoms. The authors studied RT-qPCR results from 56 hospitalized patients with mild to moderate COVID-19 disease. Each patient received four to seven tests over several weeks after symptom onset. The percentage of positive results declined from 100% in week one to 89.3%, 66.1%, 32.1%, 5.4%, and 0% in weeks two, three, four, five, and six, respectively. The median time from symptom onset to negative testing was 24 days. Prolonged positive test results were associated with older age and comorbid diabetes or hypertension. Additionally, there were four patients with two consecutive negative test results who later tested positive again. A limitation is that the test reports did not report out Ct values, which would have provided valuable information about the amount of viral RNA in the samples, important particularly later in the course of infection.
+    let !a self assert = Xiao et al. report that SARS-CoV-2 RT-qPCR results can remain positive up to five weeks after onset of symptoms. The authors studied RT-qPCR results from 56 hospitalized patients with mild to moderate COVID-19 disease. Prolonged positive test results were associated with older age and comorbid diabetes or hypertension. Additionally, there were four patients with two consecutive negative test results who later tested positive again. A limitation is that the test reports did not report out Ct values, which would have provided valuable information about the amount of viral RNA in the samples, important particularly later in the course of infection.
 
     / May, 2020 - Clinical Infectious Diseases
-    let !b self assert = Prevention (CDC) suggest one of two approaches for discontinuing isolation, one based on time since symptom onset and resolution, and the other centred on two negative tests at least 24 hours apart. The first approach assumes a person is generally no longer transmitting virus 10 days after symptom resolution. This approach is test-sparing and is particularly useful when resources are scarce or in the outpatient setting where repeat testing is onerous. When testing is available, decisions to lift isolation rely heavily on negative PCR tests to define a patient as no longer infectious. However, if a positive PCR test is intended to mean infectivity, then this approach may not be optimal. Closer examination of what the test results mean clinically, particularly when results are from RNA quantities near the lower limit of detection of the assay, could help guide clinical and public health strategies.
+    let !b self assert = When testing is available, decisions to lift isolation rely heavily on negative PCR tests to define a patient as no longer infectious. However, if a positive PCR test is intended to mean infectivity, then this approach may not be optimal. Closer examination of what the test results mean clinically, particularly when results are from RNA quantities near the lower limit of detection of the assay, could help guide clinical and public health strategies.
 
     / May, 2020 - Clinical Infectious Diseases
-    let !c self assert = The SARS-CoV-2 RT-qPCR test provides real-time quantification by first reverse transcribing SARS-CoV-2 RNA into DNA (RT step), and then performing qPCR where a fluorescence signal increases proportionally to the amount of amplified nucleic acid, enabling accurate quantitation of the RNA in the sample. If the fluorescence reaches a specified threshold within a certain number of PCR cycles (Ct value), the sample is considered a positive result. The Ct value is inversely related to the viral load and every ~3.3 increase in the Ct value reflects a 10-fold reduction in starting material. Many qPCR assays involve a Ct cutoff of 40 to consider the test positive, allowing detection of very few starting RNA molecules.
+    let !c self assert = The Ct value is inversely related to the viral load and every ~3.3 increase in the Ct value reflects a 10-fold reduction in starting material. Many qPCR assays involve a Ct cutoff of 40 to consider the test positive, allowing detection of very few starting RNA molecules.
 
     / May, 2020 - Clinical Infectious Diseases
     let !d self assert = This high sensitivity for viral RNA can be helpful for initial diagnosis. However, reporting as a binary positive or negative result removes useful information that could inform clinical decision making.
 
     / May, 2020 - Clinical Infectious Diseases
-    let !e self assert =  Following complete resolution of symptoms, people can have prolonged positive SARSCoV-2 RT-PCR test results, potentially for weeks, as Xiao et al report. At these late time points,the Ct value is often very high, representing presence of very low copies of viral RNA. In these cases, where viral RNA copies in the sample may be fewer than 100, results are reported to the clinician simply as positive. This leaves the clinician with little choice but to interpret the results no differently than for a sample from someone who is floridly positive and where RNA copies routinely reach 100 million or more.
+    let !e self assert = Following complete resolution of symptoms, people can have prolonged positive SARSCoV-2 RT-PCR test results, potentially for weeks, as Xiao et al report. At these late time points,the Ct value is often very high, representing presence of very low copies of viral RNA. In these cases, where viral RNA copies in the sample may be fewer than 100, results are reported to the clinician simply as positive. This leaves the clinician with little choice but to interpret the results no differently than for a sample from someone who is floridly positive and where RNA copies routinely reach 100 million or more.
 
     / May, 2020 - Clinical Infectious Diseases
     let !f self assert = A positive RT-qPCR result may not necessarily mean the person is still infectious or that they still have any meaningful disease. First, the RNA could be from nonviable or killed virus. Live virus is often isolable only during the first week of symptoms but not after day 8, even with positive RT-qPCR tests. Second, there may need to be a minimum amount of viable virus for onward transmission.
 
     / May, 2020 - Clinical Infectious Diseases
-    let !g self assert =  For infection control purposes, the utility of the assay is greatest when identifying people who are floridly positive and at risk of further transmission. Particularly when testing in the absence of symptoms for COVID-19, we believe that reporting the Ct value or range could help to better inform clinical decisions.
+    let !g self assert = For infection control purposes, the utility of the assay is greatest when identifying people who are floridly positive and at risk of further transmission. Particularly when testing in the absence of symptoms for COVID-19, we believe that reporting the Ct value or range could help to better inform clinical decisions.
 
     / May, 2020 - Clinical Infectious Diseases
     let !h self assert = We propose that for inpatients whose symptoms have fully resolved and two tests over 24 hours apart are either negative or close to the Ct cutoff (i.e. Ct >34), they likely do not have meaningful or transmissible disease, and thus do not need to be retested. This would conserve valuable testing capacity, reagents, and PPE.
 
     / May, 2020 - Clinical Infectious Diseases
-    let !i self assert =  Furthermore, the clinician could take the Ct results in context and determine when the patient can discontinue isolation. This could shorten duration of isolation and for healthcare workers and other essential workers would provide a more evidence-based, testing-informed pathway for more rapid return to work. Taking the Ct value into account may also help justify symptom-based strategies recommended by the CDC including time-since-illness-onset and time-since-symptom-resolution based approaches (i.e.lifting of isolation after ten days following resolution of symptoms.)
+    let !i self assert = Furthermore, the clinician could take the Ct results in context and determine when the patient can discontinue isolation. This could shorten duration of isolation and for healthcare workers and other essential workers would provide a more evidence-based, testing-informed pathway for more rapid return to work. Taking the Ct value into account may also help justify symptom-based strategies recommended by the CDC including time-since-illness-onset and time-since-symptom-resolution based approaches (i.e.lifting of isolation after ten days following resolution of symptoms.)
 
     / May, 2020 - Clinical Infectious Diseases
     let !j self assert = Lastly, there may be implications for public health screening, enabling contact tracers to focus on persons most likely to be infectious. This will become increasingly important as asymptomatic screening expands.
@@ -3656,16 +3656,13 @@ feed May2020
     let !k self assert = The Ct value could be high as a result of early disease and the Ct value would have to be considered in clinical context. A person with a high Ct value tested early in the disease course might be or become infectious and this would present as a significant decrease in Ct value 24 hours following the first test.
 
     / May, 2020 - Clinical Infectious Diseases
-    let !l self assert = A patient with resolved symptoms and two Ct values both close to the cutoff is likely recovering and no longer infectious. Evidence from both viral isolation and contact tracing studies support a short, early period of transmissibility.
+    let !l self assert = A patient with resolved symptoms and two Ct values both close to the cutoff is likely recovering and no longer infectious.
 
     / May, 2020 - Clinical Infectious Diseases
-    let !m self assert = By accounting for the Ct value in context, RT-qPCR results can be used in a way that is personalized, highly sensitive, and also more specific.
+    let !m self assert = By accounting for the Ct value in context, RT-qPCR results can be used in a way that is personalized, highly sensitive, and also more specific. To implement this, the actual Ct values could be reported along with reference ranges or converted to viral load and or categorized as high, medium, or low.
 
     / May, 2020 - Clinical Infectious Diseases
-    let !n self assert = To implement this, the actual Ct values could be reported along with reference ranges or converted to viral load and or categorized as high, medium, or low.
-
-    / May, 2020 - Clinical Infectious Diseases
-    let !o self assert = Repeat testing over 24 hours is not always feasible and is always resource heavy when testing islimited. Time since symptom onset or time since symptom resolution based approaches may be as or more useful in many situations. As more detailed data emerge and provide increased certainty about the length of infectivity, there may be discussion about shifting entirely to these time-based criteria.
+    let !o self assert = Repeat testing over 24 hours is not always feasible and is always resource heavy when testing is limited. Time since symptom onset or time since symptom resolution based approaches may be as or more useful in many situations. As more detailed data emerge and provide increased certainty about the length of infectivity, there may be discussion about shifting entirely to these time-based criteria.
 
     / May, 2020 - Clinical Infectious Diseases
     let !p self assert = As long as resource limitations in testing and PPE exist, we believe that time-since symptom resolution and test-based strategies should continue to coexist and complement one another. Healthcare workers, who may have easier access to testing and who may be most crucial to get back to work quicker might benefit by test-based clearance, particularly if the Ct value is considered.
@@ -3849,14 +3846,13 @@ feed May2020
   // Full genome viral sequences inform patterns of SARS-CoV-2 spread into and within Israel
   doi: https://doi.org/10.1101/2020.05.21.20104521
   article 'Miller_et_al_2020b
-    head = Overall, our findings highlight the use of genomic data to effectively track the spread of an emerging virus using phylogenetic and phylodynamic approaches that have been developed to study viral outbreaks. We have hereby succeeded in tracking the main transmission chains that led to SARS-CoV-2 spread in Israel, and applied phylodynamic analysis to infer key epidemiological parameters governing its spread. Our results suggest that superspreading events are a main feature of SARS-CoV-2 spread, suggesting that focused measures to reduce contacts of select individuals/social events could dramatically mitigate viral spread. Finally our results highlight how global connectivity allows for massive introductions of a virus, and emphasize how border control and shelter-in-place restrictionsare crucial for halting viral spread.
+    head = Returning travelers from the U.S. contributed dramatically more to viral spread relative to their proportion in incoming infected travelers. We estimate R0 dropped from 2-2.6 down to about 0.7 following shelter-in-place restrictions, quarantine, and social distancing, enforcing their effectiveness. High levels of transmission heterogeneity was indicated in SARS-CoV-2 spread, with between 1-10% of infected individuals resulting in 80% of secondary infections.
 
     >>> Abstract
       Full genome sequences are increasingly used to track the geographic spread and transmission dynamics of viral pathogens. Here, with a focus on Israel, we sequenced 212 SARS-CoV-2 sequences and use them to perform a comprehensive analysis to trace the origins and spread of the virus. A phylogenetic analysis including thousands of globally sampled sequences allowed us to infer multiple independent introductions into Israel, followed by local transmission. Returning travelers from the U.S. contributed dramatically more to viral spread relative to their proportion in incoming infected travelers. Using phylodynamic analysis, we estimated that the basic reproduction number of the virus was initially around ~2.0-2.6, dropping by two-thirds following the implementation of social distancing measures. A comparison between reported and model-estimated case numbers indicated high levels of transmission heterogeneity in SARS-CoV-2 spread, with between 1-10% of infected individuals resulting in 80% of secondary infections. Overall, our findings underscore the ability of this virus to efficiently transmit between and within countries, as well as demonstrate the effectiveness of social distancing measures for reducing its spread.
 
     -- exports
       !a
-      !b
       !c
       !d
       !e
@@ -3865,19 +3861,19 @@ feed May2020
       !h
 
     / May, 2020 - Medrxiv
-    let !a self assert = With a focus on Israel, we sequenced 212 SARS-CoV-2 sequences and use them to perform a comprehensive analysis to trace the origins and spread of the virus. We found multiple introductions into Israel from both the U.S and Europe, the latter including mainly the U.K., France and Belgium. Over 70% of the clade introductions into Israel (confidence intervals ranging from ~50% to ~80%, see Methods) were inferred to have occurred from the U.S., while the remaining were mainly from Europe. During the entire epidemic in Israel, very close monitoring of all incoming infected travelers was imposed, and reports show that only ~27% of infected returning travelers were from the U.S. Moreover, this suggests that had flights from the U.S. been arrested at the same time that flights from Europe were arrested (between February 26 and March 4, instead of by March 9), a substantial fraction of the transmission chains in Israel would have been prevented.
+    let !a self assert = We found multiple introductions into Israel from both the U.S and Europe, the latter including mainly the U.K., France and Belgium. Over 70% of the clade introductions into Israel were inferred to have occurred from the U.S., while the remaining were mainly from Europe. Reports show that only ~27% of infected returning travelers were from the U.S. Moreover, this suggests that had flights from the U.S. been arrested at the same time that flights from Europe were arrested (between February 26 and March 4, instead of by March 9), a substantial fraction of the transmission chains in Israel would have been prevented.
+
+    # / May, 2020 - Medrxiv
+    # let !b self assert = Our phylodynamic analysis indicates that between 5-9% of infections are responsible for 80% of secondary infections; with lower assumed levels of case reporting, between 1-5% of infections would be responsible for this 80% of secondary infections.
 
     / May, 2020 - Medrxiv
-    let !b self assert = Super-spreading is a feature of viral spread: Specifically, if we assume almost complete case reporting, our phylodynamic analysis indicates that between 5-9% of infections are responsible for 80% of secondary infections; with lower assumed levels of case reporting, between 1-5% of infections would be responsible for this 80% of secondary infections.
-
-    / May, 2020 - Medrxiv
-    let !c self assert =  Under the most extreme scenario (1% superspreaders) we find cumulative incidence of ~1% of Israeli population, and this is our upper bound estimate. Far from herd immunity.
+    let !c self assert = Under the most extreme scenario (1% superspreaders) we find cumulative incidence of ~1% of Israeli population, and this is our upper bound estimate. Far from herd immunity.
 
     / May, 2020 - Medrxiv
     let !d self assert = We estimate R0 dropped from 2-2.6 down to about 0.7 following shelter-in-place restrictions, quarantine, and social distancing, enforcing their effectiveness.
 
     / May, 2020 - Medrxiv
-    let !e self assert = A total of 224 unique single nucleotide variants (SNVs) were identified between the Wuhanreference sequence and this set of sequences from Israel. Of these SNVs (single nucleotide variants), 141 were non-synonymous, 72 were synonymous, and the remaining 11 were in noncoding regions. One of the most abundantly detected SNVs was a non-synonymous variant D614G found in the spike protein, which was present in 90% of the sequences. This variant has generated much interest as it has been reported to potentially increase the transmissibility of the virus.
+    let !e self assert = A total of 224 unique single nucleotide variants (SNVs) were identified between the Wuhan reference sequence and this set of sequences from Israel. Of these SNVs (single nucleotide variants), 141 were non-synonymous, 72 were synonymous, and the remaining 11 were in noncoding regions. One of the most abundantly detected SNVs was a non-synonymous variant D614G found in the spike protein, which was present in 90% of the sequences. This variant has generated much interest as it has been reported to potentially increase the transmissibility of the virus.
 
     / May, 2020 - Medrxiv
     let !f self assert = We also found five different high confidence genomic deletions, spanning between one and eighteen nucleotides, each of which was found in one to two samples. Three of these five deletions occurred in multiples of three and were in-frame deletions or affected non-coding regions. Of the remaining two deletions, deletion 3 spanned ten nucleotides, and likely prevents the translation of ORF7a. Deletion 4 occurred at the end of ORF8 and causes the replacement of the last amino acid with an additional five amino acids. Notably, an 81 nt in-frame deletion in ORF7a has been previously reported (Holland, et al. 2020), as has been a 382 nt deletion in ORF8, suggesting that the virus is to some extent tolerant to deletions in these ORFs.
@@ -3911,7 +3907,7 @@ feed May2020
       !j
 
     / May, 2020 - Epidemiology
-    let !a self assert = Our results indicate 5-7 probable SSEs in Hong Kong, and substantial  individual heterogeneity in the transmissibility of SARS-CoV-2 infection (Table 1; k=0.45, 95%: 0.30 – 0.72) and therefore potential for future superspreading, albeit less than SARS-CoV and MERS-CoV (k=0.16 and 0.26 respectively).
+    let !a self assert = Our results indicate 5-7 probable SSEs in Hong Kong, and substantial individual heterogeneity in the transmissibility of SARS-CoV-2 infection and therefore potential for future superspreading, albeit less than SARS-CoV and MERS-CoV.
 
     / May, 2020 - Epidemiology
     let !b self assert = We estimated that approximately 20% of cases were responsible for 80% of all SARS-CoV-2 transmission in Hong Kong. These results however should be interpreted in the context of constrained community transmission given moderate levels of physical distancing currently practiced in Hong Kong, including school closures, some adults working at home, cancellation of mass gatherings, as well as improved hygiene and universal mask wearing.
@@ -3920,38 +3916,41 @@ feed May2020
     let !c self assert = Superspreading is considered a function of both variations in individual transmissibility and individual susceptibility or exposure. Our results show that the number of individual secondary cases was significantly higher within social settings such as bars and restaurants compared to family or work exposures (p<0.001). This is certainly due to the greater numbers of contacts expected in such settings. Targeted interventions should therefore focus on reducing extreme numbers of social contacts at high-risk venues such as bars, nightclubs and restaurants, which also appear at increased risk of SSE, either via closures or physical distancing policies, both of which currently remain implemented in Hong Kong.
 
     / May, 2020 - Epidemiology
-    let !d self assert = Previous modelling has suggested that reduced delays between symptom onset and isolation are important indicators for the control of SARS-CoV-2 outbreaks however this did not appear to play a major role in Hong Kong: in our analysis, delay from symptom onset to isolation were not associated with the number of individual secondary cases, nor the final cluster size. In contrast, for SARS-CoV various epidemics in 2003, due to delayed viral shedding among cases (highest approximately seven days after symptom onset), delays in case isolation adversely affected disease control efforts.
+    let !d self assert = Previous modelling has suggested that reduced delays between symptom onset and isolation are important indicators for the control of SARS-CoV-2 outbreaks however this did not appear to play a major role in Hong Kong: in our analysis, delay from symptom onset to isolation were not associated with the number of individual secondary cases, nor the final cluster size.
 
     / May, 2020 - Epidemiology
     let !e self assert = Public health authorities should focus on rapid tracing and quarantine of contacts, along with physical distancing to prevent superspreading events in high-risk social environments.
 
     / May, 2020 - Epidemiology
-    let !f self assert = Given a coefficient of variation of 2.5 from our study this roughly corresponds to an adjusted herd immunity threshold of 20%, which is consistent with our estimate that 20% of individuals are responsible for 80% of transmission in Hong Kong. This compares to a herd-immunity threshold of 60-70% via vaccine-acquired immunity. The real-world effects of naturally acquired herd immunity however should be further studies and measured with serology along with the progressive easing of restrictions.
+    let !f self assert = Given a coefficient of variation of 2.5 from our study this roughly corresponds to an adjusted herd immunity threshold of 20%, which is consistent with our estimate that 20% of individuals are responsible for 80% of transmission in Hong Kong. This compares to a herd-immunity threshold of 60-70% via vaccine-acquired immunity.
 
     / May, 2020 - Epidemiology
     let !g self assert = For COVID-19, confirmation and isolation of symptomatic cases will have a limited effect on reducing overall SARS-CoV-2 transmission in the community unless done very quickly, noting the growing body of evidence of substantial transmission during the pre-symptomatic and early symptomatic period.
 
     / May, 2020 - Epidemiology
-    let !h self assert = In Hong Kong, the average delay to isolation was 5.6 days for cluster cases, and by this time most onwards transmission had perhaps already occurred. The most important public health measures therefore are likely to be case identification followed by rapid and parallel (e.g. before contacts are confirmed as cases) contact tracing and quarantine. Some degree of intermittent physical distancing may also be required to supress potential local transmission from unidentified infections and pre-symptomatic transmission, but must necessarily be balanced with the social, economic and educational costs associated with such policies.
+    let !h self assert = In Hong Kong, the average delay to isolation was 5.6 days for cluster cases, and by this time most onwards transmission had perhaps already occurred. The most important public health measures therefore are likely to be case identification followed by rapid and parallel (e.g. before contacts are confirmed as cases) contact tracing and quarantine.
+
+    / May, 2020 - Epidemiology
+    let !h1 self assert =  Some degree of intermittent physical distancing may also be required to supress potential local transmission from unidentified infections and pre-symptomatic transmission, but must necessarily be balanced with the social, economic and educational costs associated with such policies.
 
     / May, 2020 - Epidemiology
     let !i self assert = Secondly, our results also suggest a potential caveat: despite evidence supporting rapid contact tracing and the effectiveness of quarantine, in our analysis, most chains of transmission did not terminate in quarantine. This however must be interpreted in the context of moderate physical distancing in Hong Kong as highlighted previously, rather than a suggestion that quarantine was not essential.
 
     / May, 2020 - Epidemiology
-    let !j self assert = In the absence of non-pharmaceutical interventions such as physical distancing implemented in Hong Kong, the potential for SSEs is likely greater than observed in our study. Assuming local elimination is not possible, disease control efforts should focus on rapid tracing and quarantine of confirmed contacts, along with the implementation of physical distancing policies or closures targeting high292 risk social exposures such as bars, nightclubs and restaurants to prevent the occurrence of SSEs. Given the long right-hand tail of the distribution of individual reproductive numbers, preventing SSEs would have a considerable effect in reducing the overall reproductive number. In lieu of an effective vaccine, theseresults have significant implications for the control of COVID-19 and public health measures such as physical distancing and the relaxation of lockdowns around the world.
+    let !j self assert = In the absence of non-pharmaceutical interventions such as physical distancing implemented in Hong Kong, the potential for SSEs is likely greater than observed in our study. Assuming local elimination is not possible, disease control efforts should focus on rapid tracing and quarantine of confirmed contacts, along with the implementation of physical distancing policies or closures targeting high risk social exposures such as bars, nightclubs and restaurants to prevent the occurrence of SSEs.
 
 
   # public policy, mitigation, non-pharmaceutical interventions, social distancing, hygiene, contact tracing
   // Effect of non-pharmaceutical interventions to contain COVID-19 in China
   doi: https://doi.org/10.1038/s41586-020-2293-x
   article 'Lai_et_al_2020b
-    head = From a public health standpoint, our results highlight that countries should consider proactively planning NPIs and relevant resources for containment and mitigation, given how the earlier implementation of NPIs could have lead to significant reductions in size of the outbreak in China. The results here also provide guidance for countries as to the likely effectiveness of different NPIs at different stages of an outbreak. Suspected and confirmed cases should be identified, diagnosed, isolated and reported as early as possible to control the source of infection, and the implementation of cordon sanitaires or travel restrictions for significantly affected areas may prevent seeding the virus to wider regions. Reducing contact and increasing social distance, together with improved personal hygiene can protect vulnerable populations and mitigate COVID-19 spread at the community level, and these interventions should be promoted throughout the outbreak to avoid resurgence.
+    head = Our results highlight that countries should consider proactively planning NPIs and relevant resources for containment and mitigation, and to the likely effectiveness of different NPIs at different stages of an outbreak. Reducing contact and increasing social distance, together with improved personal hygiene can protect vulnerable populations and mitigate COVID-19 spread at the community level, and these interventions should be promoted throughout the outbreak to avoid resurgence.
+
 
     >>> Abstract
       On March 11, 2020, the World Health Organization declared COVID-19 a pandemic1. The outbreak containment strategies in China based on non-pharmaceutical interventions (NPIs) appear to be effective2, but quantitative research is still needed to assess the efficacy of NPIs and their timings3. Using epidemiological and anonymised human movement data4,5, here we develop a modelling framework that uses daily travel networks to simulate different outbreak and intervention scenarios across China. We estimated that there were a total of 114,325 COVID-19 cases (interquartile range 76,776 - 164,576) in mainland China as of February 29, 2020. Without NPIs, the COVID-19 cases would likely have shown a 67-fold increase (interquartile range 44 - 94) by February 29, 2020, with the effectiveness of different interventions varying. The early detection and isolation of cases was estimated to have prevented more infections than travel restrictions and contact reductions, but combined NPIs achieved the strongest and most rapid effect. The lifting of travel restrictions since February 17, 2020 does not appear to lead to an increase in cases across China if the social distancing interventions can be maintained, even at a limited level of 25% reduction on average through late April. Our findings contribute to an improved understanding of NPIs on COVID-19 and to inform response efforts across the World.
 
     -- exports
-      !a
       !b
       !c
       !d
@@ -3961,28 +3960,27 @@ feed May2020
       !h
       !i
       !j
-      !k
+
+    # / May, 2020 - Nature
+    # let !a self assert = Reconstruction of COVID-19 spread: The estimated epidemics and peaks were consistent with patterns of reported data by onset date, with high correlations between daily estimates and reported data found across time and regions. The overall correlation between the number of estimated cases and the reported number by province, as of February 29, 2020, was also significant (p<0.001, R2 =0.86), with a high sensitivity (91%, 280/308) and specificity (69%, 22/32) in predicting cities with or without COVID-19 cases.
 
     / May, 2020 - Nature
-    let !a self assert =  Reconstruction of COVID-19 spread: The estimated epidemics and peaks were consistent with patterns of reported data by onset date, with high correlations between daily estimates and reported data found across time and regions. The overall correlation between the number of estimated cases and the reported number by province, as of February 29, 2020, was also significant (p<0.001, R2 =0.86), with a high sensitivity (91%, 280/308) and specificity (69%, 22/32) in predicting cities with or without COVID-19 cases.
+    let !b self assert = Without NPIs, as of February 29, the number of COVID-19 cases would increase rapidly across China, with a 51-fold (IQR 33 - 71) increase in Wuhan, a 92-fold (58 - 133) increase in other cities in Hubei, and a 125-fold (77 - 180) increase in other provinces.
 
     / May, 2020 - Nature
-    let !b self assert = Quantifying the effect of different NPIs: Without NPIs, as of February 29, the number of COVID-19 cases wouldincrease rapidly across China, with a 51-fold (IQR 33 - 71) increase in Wuhan, a 92-fold (58 - 133) increase in other cities in Hubei, and a 125-fold (77 - 180) increase in other provinces.
+    let !c self assert = However, the apparent effectiveness of different interventions varied. The lockdown of Wuhan might not have prevented the seeding of the virus from the city, as the travel ban was put in place at the latter stages of pre-CNY population movement out of the city. Nevertheless, if inter-city travel restrictions were not implemented, cities and provinces outside of Wuhan would have received more cases from Wuhan, and the affected geographic range would have expanded to the remote western areas of China.
 
     / May, 2020 - Nature
-    let !c self assert =  However, the apparent effectiveness of different interventions varied. The lockdown of Wuhan might not have prevented the seeding of the virus from the city, as the travel ban was put in place at the latter stages of pre-CNY population movement out of the city. Nevertheless, if inter-city travel restrictions were not implemented, cities and provinces outside of Wuhan would have received more cases from Wuhan, and the affected geographic range would have expanded to the remote western areas of China.
+    let !d self assert = Generally, the early detection and isolation of cases was estimated to quickly and substantially prevent more infections than contact reduction and social distancing across the country (5-fold versus 2.6-fold). However, without the intervention of contact reductions, in the longer term, the epidemics would increase exponentially across regions. Therefore, combined NPIs would achieve the strongest and most rapid effect on COVID-19 outbreak containment, with about a one-week interval from NPIs to epidemic peak.
 
     / May, 2020 - Nature
-    let !d self assert =  Generally, the early detection and isolation of cases was estimated to quickly and substantially prevent more infections than contact reduction and social distancing across the country (5-fold versus 2.6-fold). However, without the intervention of contact reductions, in the longer term, the epidemics would increase exponentially across regions. Therefore, combinedNPIs would achieve the strongest and most rapid effect on COVID-19 outbreak containment, with about a one-week interval from NPIs to epidemic peak.
+    let !e self assert = If interventions in China could have been conducted one week, two weeks, or three weeks earlier, cases could have been dramatically reduced by 66% (IQR 50% - 82%), 86% (81% - 90%), or 95% (93% - 97%), respectively. The geographical range of affected areas would also shrink from 308 cities to 192, 130, and 61 cities, respectively. However, if NPIs were conducted one week, two weeks, or three weeks later than they were, cases may have shown a 3-fold (IQR 2 - 4), 7-fold (5 - 10), or 18-fold (11 - 26) increase, respectively.
 
     / May, 2020 - Nature
-    let !e self assert = Intervention timings: If interventions in China could have been conducted one week, two weeks, or three weeks earlier, cases could have been dramatically reduced by 66% (IQR 50% - 82%), 86% (81% - 90%), or 95% (93% - 97%), respectively. The geographical range of affected areas would also shrink from 308 cities to 192, 130, and 61 cities, respectively. However, if NPIs were conducted one week, two weeks, or three weeks later than they were, cases may have shown a 3-fold (IQR 2 - 4), 7-fold (5 - 10), or 18-fold (11 - 26) increase, respectively.
+    let !f self assert = If population contact resumed to the normal levels seen in previous years, the lifting of travel restrictions since February 17 might cause case numbers to rise again  Accordingly, our simulations suggest that maintaining social distancing at even a limited degree (e.g. 25% contact reduction on average) through late April would help ensure control of COVID-19 in epicentres like Wuhan.
 
     / May, 2020 - Nature
-    let !f self assert = The lifting of travel restrictions: However, if population contact resumed to the normal levels seen in previous years, the lifting of travel restrictions since February 17 might cause case numbers to rise again  Accordingly, our simulations suggest that maintaining social distancing at even a limited degree (e.g. 25% contact reduction on average) through late April would help ensure control of COVID-19 in epicentres like Wuhan. Our estimates were sensitive to the basic reproduction number (R0), with a higher and later peak of epidemics and longer time needed to contain the outbreak under a higher R0. Sensitivity analyses also suggested that our model could have robustly measured relative changes in the efficacy of interventions under different epidemiological parameters and transmission senarios.
-
-    / May, 2020 - Nature
-    let !g self assert = Our findings show that combined NPIs substantially reduced COVID-19 transmission across China. Earlier implementation of NPIs could have significantly reduced the magnitude and geographical range of the outbreak, but equally, a delayed response would have lead to a larger outbreak. Chinas aggressive, multifaceted response is likely to have prevented a far worse situation, which would have accelerated spread globally. The lessons drawn from China provide robust evidence andprovide a preparation window and fighting chance for containing the spread and mi
+    let !g self assert = Our findings show that combined NPIs substantially reduced COVID-19 transmission across China. Earlier implementation of NPIs could have significantly reduced the magnitude and geographical range of the outbreak, but equally, a delayed response would have lead to a larger outbreak. Chinas aggressive, multifaceted response is likely to have prevented a far worse situation, which would have accelerated spread globally.
 
     / May, 2020 - Nature
     let !h self assert = Our results suggest three key points. First, they support and validate the idea that population movement and close contact has a major role in the spread of COVID-19 within and beyond China. As the lockdown of Wuhan happened at the latter stages of the pre-CNY movement, travel restrictions did not halt the seeding of the virus from Wuhan, but did prevent cases being exported from Wuhan to a wider area.
@@ -3993,8 +3991,8 @@ feed May2020
     / May, 2020 - Nature
     let !j self assert = Third, given travel and work resuming in China, the country should consider at least the partial continuation of NPIs to ensure that the COVID-19 outbreak is sustainably controlled for the first wave of this outbreak. For example, early case identification and isolation should be maintained, which may also help to prevent and delay the arrival of a second wave, considering the increasing numbers of cases imported from other countries and the presence of asymptomatic or subclinical infections found in China.
 
-    / May, 2020 - Nature
-    let !k self assert = The analyses presented here represent the most comprehensive study yet in which the effect of NPIs on COVID-19 transmission has been quantitatively assessed. The model framework accounts for daily interactions of populations, interventions between and within cities, as well as the inherent statistical uncertainty associated with a paucity of epidemiological parameters, before and after the implementation of interventions. The network-based SEIR model is methodologically robust and built on the basic SEIR models previously used to predict COVID-19 transmission in its early stages. Considering delays in case reporting, our approach can be used for rapid, ongoing estimation of the effectiveness of various NPIs in different countries for outbreakcontrol decision-making.
+    # / May, 2020 - Nature
+    # let !k self assert = The analyses presented here represent the most comprehensive study yet in which the effect of NPIs on COVID-19 transmission has been quantitatively assessed. The model framework accounts for daily interactions of populations, interventions between and within cities, as well as the inherent statistical uncertainty associated with a paucity of epidemiological parameters, before and after the implementation of interventions. The network-based SEIR model is methodologically robust and built on the basic SEIR models previously used to predict COVID-19 transmission in its early stages. Considering delays in case reporting, our approach can be used for rapid, ongoing estimation of the effectiveness of various NPIs in different countries for outbreakcontrol decision-making.
 
 
   # ConvalescentPlasma
@@ -4333,7 +4331,7 @@ feed May2020
 
     # Early Mitigation/Contaiment in China
     / May, 2020 - Nat Rev Phys
-    let !a self assert = We took two approaches to the analysis. The first exploited natural variation in the distribution of COVID-19 cases, and in the type and timing of interventions. On the basis of statistical tests of association carried out with general linear models, we found that the unprecedented Wuhan city travel ban (affecting 11 million people) slowed the dispersal of infection to other cities by 3 days, delaying epidemic growth elsewhere in China.
+    let !a self assert = On the basis of statistical tests of association carried out with general linear models, we found that the unprecedented Wuhan city travel ban (affecting 11 million people) slowed the dispersal of infection to other cities by 3 days, delaying epidemic growth elsewhere in China.
 
     / May, 2020 - Nat Rev Phys
     let !b self assert = We found, too, that Chinese cities that pre-emptively implemented control measures — such as suspending intra-city public transport, closing entertainment venues and banning public gatherings — reported in the first week of their outbreaks one-third fewer cases than cities that started control later.
@@ -4350,11 +4348,11 @@ feed May2020
 
     # Contact Tracing and Isolation
     / May, 2020 - Nat Rev Phys
-    let !f self assert = Our group recently modelled a classical intervention against infectious diseases: contact tracing and isolation, in which the contacts of known cases are found, and, if they show symptoms, are isolated quickly. Doing so therefore decreases the average number of new infections that each infected person creates, a quantity modellers call the reproduction number. By developing a model for this system, we were able to determine what fraction of a case’s contacts must be found and isolated to control a new outbreak, based on the best-possible information on transmission and disease available at that time.
+    let !f self assert = Our group recently modelled a classical intervention against infectious diseases: contact tracing and isolation, through this we were able to determine what fraction of a case’s contacts must be found and isolated to control a new outbreak, based on the best-possible information on transmission and disease available at that time.
 
     # Antibody test
     / May, 2020 - Nat Rev Phys
-    let !g self assert =  Integrating seroepidemiological data into transmission models can greatly reduce the uncertainty in the parameter estimates of clinical severity and transmission dynamics. At the time of writing, serological tests for COVID-19 are being developed and validated. Long-term longitudinal serological follow-up of recovered individuals is crucial for characterizing the underlying immunodynamics. For instance, it can reveal the strength and duration of protective immunity and thus the probability of reinfection.
+    let !g self assert = Integrating seroepidemiological data into transmission models can greatly reduce the uncertainty in the parameter estimates of clinical severity and transmission dynamics. Long-term longitudinal serological follow-up of recovered individuals is crucial for characterizing the underlying immunodynamics,  it can reveal the strength and duration of protective immunity and thus the probability of reinfection.
 
     / May, 2020 - Nat Rev Phys
     let !h self assert = Large-scale serosurveys should be conducted regularly and prospectively planned over the course of the different waves of the pandemic and beyond to provide serological data from different age groups.
@@ -4379,51 +4377,43 @@ feed May2020
   // The disease-induced herd immunity level for Covid-19 is substantially lower than the classical herd immunity level
   doi: https://doi.org/10.1101/2020.05.06.20093336
   article 'Britton_et_al_2020
-    head = The present study highlights that the disease-induced herd immunity level may be substantially lower then the classical herd immunity level. Our illustration indicates a reduction from 60% down to 43% (assuming R0 = 2.5) but this should be interpreted as an illustration, rather than an exact value or even a best estimate.
+    head = Disease-induced herd immunity level (hD=43%) may be substantially lower then the classical herd immunity level (hC=1-1/2.5=60%) assuming R0 = 2.5. Consequently, a lower fraction infected is required for herd immunity to appear. The underlying reason is that when immunity is induced by disease spreading, the proportion infected in groups with high contact rates is greater than that in groups with low contact rates. Consequently, disease-induced immunity is stronger than when immunity is uniformly distributed in the community as in the classical herd immunity level.
 
     >>> Abstract
       Most countries are suffering severely from the ongoing covid-19 pandemic despite various levels of preventive measures. A common question is if and when a country or region will reach herd immunity h. The classical herd immunity level hC is defined as hC=1-1/R0, where R0 is the basic reproduction number, for covid-19 estimated to lie somewhere in the range 2.2-3.5 depending on country and region. It is shown here that the disease-induced herd immunity level hD, after an outbreak has taken place in a country/region with a set of preventive measures put in place, is actually substantially smaller than hC. As an illustration we show that if R0=2.5 in an age-structured community with mixing rates fitted to social activity studies, and also categorizing individuals into three categories: low active, average active and high active, and where preventive measures affect all mixing rates proportionally, then the disease-induced herd immunity level is hD=43% rather than hC=1-1/2.5=60%. Consequently, a lower fraction infected is required for herd immunity to appear. The underlying reason is that when immunity is induced by disease spreading, the proportion infected in groups with high contact rates is greater than that in groups with low contact rates. Consequently, disease-induced immunity is stronger than when immunity is uniformly distributed in the community as in the classical herd immunity level.
 
-    -- exports
-      !a
-      !b
-      !c
-      !d
-      !e
-      !f
-      !g
-      !h
 
-    / May, 2020 - MedRxiv
-    let !a self assert = We show that if R0=2.5 in an age-structured community with mixing rates fitted to social activity studies, and also categorizing individuals into three categories: low active, average active and high active, and where preventive measures affect all mixing rates proportionally, then the disease-induced herd immunity level is hD=43% rather than hC=1-1/2.5=60%.Consequently, a lower fraction infected is required for herd immunity to appear.
+    # / May, 2020 - MedRxiv
+    # let !a self assert = We show that if R0=2.5 in an age-structured community with mixing rates fitted to social activity studies, and also categorizing individuals into three categories: low active, average active and high active, and where preventive measures affect all mixing rates proportionally, then the disease-induced herd immunity level is hD=43% rather than hC=1-1/2.5=60%.Consequently, a lower fraction infected is required for herd immunity to appear.
 
-    / May, 2020 - MedRxiv
-    let !b self assert = The underlying reason is that when immunity is induced by disease spreading, the proportion infected in groups with igh contact rates is greater than that in groups with low contact rates. Consequently, disease-induced immunity is stronger than when immunity is uniformly distributed in the community as in the classical herd immunity level.
+    # / May, 2020 - MedRxiv
+    # let !b self assert = The underlying reason is that when immunity is induced by disease spreading, the proportion infected in groups with igh contact rates is greater than that in groups with low contact rates. Consequently, disease-induced immunity is stronger than when immunity is uniformly distributed in the community as in the classical herd immunity level.
 
-    / May, 2020 - MedRxiv
-    let !c self assert = As illustrated in our results section, differences in social activity plays a greater role in reducing the disease-induced herd immunity level than inhomogeneous agegroup mixing. Thus models not having such features will see smaller difference between hD and hC.Our choice to have 50% having average activity, 25% having half and 25% having double activity is of course very arbitrary. An important future task is hence to determine how size of differences in social activity within age groups. The more social heterogeneity there is between groups, the bigger difference between hD and hC.
+    # / May, 2020 - MedRxiv
+    # let !c self assert = Differences in social activity plays a greater role in reducing the disease-induced herd immunity level than in homogeneous age group mixing. Thus models not having such features will see smaller difference between hD and hC. The more social heterogeneity there is between groups, the bigger difference between hD and hC.
 
-    / May, 2020 - MedRxiv
-    let !d self assert = An assumption of our model is that preventive measures acted proportionally on all contact rates. This may not always hold. For example, most countries have a pronounced ambition to protect elderly (and other risk groups), which does not obey this assumption. Again, we expect the effect would be to lower the disease-induced immunity level had this type of preventive measure been considered, because the oldest age group is the one having fewest contacts
+    # / May, 2020 - MedRxiv
+    # let !d self assert = An assumption of our model is that preventive measures acted proportionally on all contact rates. This may not always hold. For example, most countries have a pronounced ambition to protect elderly (and other risk groups), which does not obey this assumption. Again, we expect the effect would be to lower the disease-induced immunity level had this type of preventive measure been considered, because the oldest age group is the one having fewest contacts
 
-    / May, 2020 - MedRxiv
-    let !e self assert = Observed that the first three curves (no, light, moderate preventive measures) in our model,  see no (strong) second wave of outbreak once preventive measures are lifted – it is only the curve corresponding to highest preventive measures that has a severe second wave. when restrictions are lifted. Note that also the yellow curve, having overall fraction infected well below the classical herd immunity level hC = 60% is protected by herd immunity since no second wave appears. This clearly illustrates that the disease-induced herd immunity level hC is well below 60% – it is 43%
+    # / May, 2020 - MedRxiv
+    # let !e self assert = Observed that the first three curves (no, light, moderate preventive measures) in our model,  see no (strong) second wave of outbreak once preventive measures are lifted – it is only the curve corresponding to highest preventive measures that has a severe second wave. when restrictions are lifted. Note that also the yellow curve, having overall fraction infected well below the classical herd immunity level hC = 60% is protected by herd immunity since no second wave appears. This clearly illustrates that the disease-induced herd immunity level hC is well below 60% – it is 43%
 
-    / May, 2020 - MedRxiv
-    let !f self assert = An interesting observation is that the purple curve ends up with a higher overall fraction infected even though it had more restrictions than those of the yellow. The explanation is that this epidemic was further from completion when sanctions were lifted.
+    # / May, 2020 - MedRxiv
+    # let !f self assert = An interesting observation is that the purple curve ends up with a higher overall fraction infected even though it had more restrictions than those of the yellow. The explanation is that this epidemic was further from completion when sanctions were lifted.
 
-    / May, 2020 - MedRxiv
-    let !g self assert = There are of course other more efficient exit-strategies than to lift all restrictions simultaneously. In fact, most countries are currently employing a gradual lifting of preventive measures. Such slower lifting of preventive measures will avoid seeing the type of overshoot illustrated by the purple curve, which results in a greater fraction infected than the yellow curve, even though the latter has milder restrictions. The effect of such gradual lifting of restrictions will result in the final fraction infected reaching close to the disease-induced herd immunity level
+    # / May, 2020 - MedRxiv
+    # let !g self assert = There are of course other more efficient exit-strategies than to lift all restrictions simultaneously. In fact, most countries are currently employing a gradual lifting of preventive measures. Such slower lifting of preventive measures will avoid seeing the type of overshoot illustrated by the purple curve, which results in a greater fraction infected than the yellow curve, even though the latter has milder restrictions. The effect of such gradual lifting of restrictions will result in the final fraction infected reaching close to the disease-induced herd immunity level
 
-    / May, 2020 - MedRxiv
-    let !h self assert = The current model took age cohorts and social activity levels into account. However, more complex and realistic models have many other types of heterogeneities: for instance increased spreading within households (of different sizes) or within schools and workplaces; and spatial aspects with rural areas having lower contact rates than metropolitan regions.It seems reasonable to assume that most such additional heterogeneities will have the effect of lowering the disease-induced immunity level hDS even further, in that high spreading environments (metropolitan regions, large households, big workplaces, ...) will have a higher fraction infected thus resulting in immunity being concentrated even more on highly active individuals. Some complex models do not categorize individuals into different activity levels, or the related feature in an underlying social network with varying numberof acquaintances.
+    # / May, 2020 - MedRxiv
+    # let !h self assert = The current model took age cohorts and social activity levels into account. However, more complex and realistic models have many other types of heterogeneities: for instance increased spreading within households (of different sizes) or within schools and workplaces; and spatial aspects with rural areas having lower contact rates than metropolitan regions. It seems reasonable to assume that most such additional heterogeneities will have the effect of lowering the disease-induced immunity level hDS even further, in that high spreading environments (metropolitan regions, large households, big workplaces, ...) will have a higher fraction infected thus resulting in immunity being concentrated even more on highly active individuals. Some complex models do not categorize individuals into different activity levels, or the related feature in an underlying social network with varying numberof acquaintances.
 
 
   # herd immunity, herd immunity model, pandemic control, heterogenity in host susceptibility
   // Individual variation in susceptibility or exposure to SARS-CoV-2 lowers the herd immunity threshold
   doi: https://doi.org/10.1101/2020.04.27.20081893
   article 'Gomes_et_al_2020
-    head = This paper demonstrates that individual variation in susceptibility or exposure (connectivity) accelerates the acquisition of immunity in populations. More susceptible and more connected individuals have a higher propensity to be infected and thus are likely to become immune earlier. Due to this selective immunisation, heterogeneous populations require less infections to cross their herd immunity thresholds than homogeneous (or not sufficiently heterogeneous) models would suggest. We integrate continuous distributions of susceptibility or connectivity in otherwise basic epidemic models for COVID-19 and show that as the coefficient of variation increases from 0 to 4, the herd immunity threshold declines from over 60% to less than 10%. Measures of individual variation are urgently needed to narrow the estimated ranges of herd immunity thresholds and plan accordingly.
+    head = Models that curtail individual variation in susceptibility or exposure to infection overestimate epidemic sizes and herd immunity thresholds. This paper demonstrates that individual variation in susceptibility or exposure (connectivity) accelerates the acquisition of immunity in populations. More susceptible and more connected individuals have a higher propensity to be infected and thus are likely to become immune earlier. Our model shows that as the coefficient of variation increases from 0 to 4, the herd immunity threshold declines from over 60% to less than 10%.
+
 
     >>> Abstract
       As severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) spreads, the susceptible subpopulation is depleted causing the incidence of new cases to decline. Variation in individual susceptibility or exposure to infection exacerbates this effect. Individuals that are more susceptible or more exposed tend to be infected earlier, depleting the susceptible subpopulation of those who are at higher risk of infection. This selective depletion of susceptibles intensifies the deceleration in incidence. Eventually, susceptible numbers become low enough to prevent epidemic growth or, in other words, the herd immunity threshold (HIT) is reached. Although estimates vary, simple calculations suggest that herd immunity to SARS-CoV-2 requires 60-70% of the population to be immune. By fitting epidemiological models that allow for heterogeneity to SARS-CoV-2 outbreaks across the globe, we show that variation in susceptibility or exposure to infection reduces these estimates. Accurate measurements of heterogeneity are therefore of paramount importance in controlling the COVID-19 pandemic.
@@ -4432,56 +4422,50 @@ feed May2020
       !a
       !b
       !c
-      !d
-      !e
-      !f
       !g
-      !h
-      !i
 
     / May, 2020 - MedRxiv
     let !a self assert = Individual variation in risk of acquiring infection is under selection by the force of infection, whether individual differences are due to biological susceptibility, physical exposure, or a combination of the two traits. Selection results in the removal of the most at-risk individuals from the susceptible pool as they become infected and eventually recover (some die). This selective acquisition of infection and immunity results simultaneously in decelerated epidemic growth and accelerated induction of immunity in the population.
 
     / May, 2020 - MedRxiv
-    let !b self assert = In idealised scenarios of vaccines delivered at random and individuals mixing at random, herd immunity thresholds are given by a simple formula (1 − 1⁄R0!) which, in the case of SARS-CoV-2, suggests that 60-70% of the population should be immunised to halt spread considering estimates of R0! between 2.5 and 3. A crucial caveat in exporting these calculations to immunization by natural infection, is that natural infection does not occur at random.
+    let !b self assert = In idealised scenarios of vaccines delivered at random and individuals mixing at random, herd immunity thresholds are given by a simple formula (1 − 1⁄R0) which, in the case of SARS-CoV-2, suggests that 60-70% of the population should be immunised to halt spread considering estimates of R0 between 2.5 and 3. A crucial caveat in exporting these calculations to immunization by natural infection, is that natural infection does not occur at random.
 
     / May, 2020 - MedRxiv
     let !c self assert = Individuals who are more susceptible or more exposed are more prone to be infected and become immune earlier, which lowers the threshold. The herd immunity threshold declines sharply when coefficients of variation increase from 0 to 2 and remains below 20% for more variable populations.
 
-    / May, 2020 - MedRxiv
-    let !d self assert = We searched the literature or estimates of individual variation in propensity to acquire or transmit COVID-19 or other infectious diseases and overlaid the findings as vertical lines in Figure 3. Most CV estimates are comprised between 2 and 4, a range where naturally acquired immunity to SARS-CoV-2 may place populations over the herd immunity threshold once as few as 10-20% of its individuals are immune. This depends, however, on which specific transmission traits are variable.
+    # / May, 2020 - MedRxiv
+    # let !d self assert =  Most CV estimates are comprised between 2 and 4, a range where naturally acquired immunity to SARS-CoV-2 may place populations over the herd immunity threshold once as few as 10-20% of its individuals are immune. This depends, however, on which specific transmission traits are variable.
+
+    # / May, 2020 - MedRxiv
+    # let !e self assert = Heterogeneity in the transmission of respiratory infections has traditionally focused on variation in exposure summarised into age-structured contact matrices. Besides overlooking differences in susceptibility given exposure, the aggregation of individuals into age groups curtails coefficients of variation with important downstream implications. Popular models based on contact matrices use a coefficient of variation around 0.9 and perform similarly to our scenarios for CV = 1. Supported by existing estimates across infectious diseases, we argue that CV is generally higher and prognostics more optimistic than currently assumed. However plausible, this needs to be confirmed for the current COVID-19 pandemic and, given its relevance to policy decisions, it should be set as a priority
+
+    # / May, 2020 - MedRxiv
+    # let !f self assert = Variation in infectiousness was critical to attribute the scarce and explosive outbreaks to superspreaders when the SARS-CoV-1 emerged in 2002, but infectiousness does not respond to selection as susceptibility or exposure do. Models with or without individual variation in infectiousness perform equivalently when implemented deterministically and only differ due to stochasticity in an entirely different phenomenon to that presented in this paper. Among the estimates of individual variation plotted in Figure 3, those corresponding to SARS-CoV viruses have been described as variation in individual infectiousness, but the way authors describe superspreaders is suggestive that higher infectiousness stems from higher connectivity with other individuals, who may be susceptible displayed in Figure 2, with CV = 3 for exposure to infection.
 
     / May, 2020 - MedRxiv
-    let !e self assert = Heterogeneity in the transmission of respiratory infections has traditionally focused on variation in exposure summarised into age-structured contact matrices. Besides overlooking differences in susceptibility given exposure, the aggregation of individuals into age groups curtails coefficients of variation with important downstream implications. Popular models based on contact matrices use a coefficient of variation around 0.9 and perform similarly to our scenarios for CV = 1. Supported by existing estimates across infectious diseases, we argue that CV is generally higher and prognostics more optimistic than currently assumed. However plausible, this needs to be confirmed for the current COVID-19 pandemic and, given its relevance to policy decisions, it should be set as a priority
+    let !g self assert = Interventions themselves have potential to manipulate individual variation. Current social distancing measures may be argued to either increase or decrease variation in exposure, depending on the compliance of highly-susceptible or highly-connected individuals in relation to the average. A deep understanding of these patterns is crucial not only to develop more accurate predictive models, but also to refine control strategies and to interpret data resulting from ongoing serological surveys
 
-    / May, 2020 - MedRxiv
-    let !f self assert = Variation in infectiousness was critical to attribute the scarce and explosive outbreaks to superspreaders when the SARS-CoV-1 emerged in 2002, but infectiousness does not respond to selection as susceptibility or exposure do. Models with or without individual variation in infectiousness perform equivalently when implemented deterministically and only differ due to stochasticity in an entirely different phenomenon to that presented in this paper. Among the estimates of individual variation plotted in Figure 3, those corresponding to SARS-CoV viruses have been described as variation in individual infectiousness, but the way authors describe superspreaders is suggestive that higher infectiousness stems from higher connectivity with other individuals, who may be susceptible displayed in Figure 2, with CV = 3 for exposure to infection.
+    # / May, 2020 - MedRxiv
+    # let !h self assert = Most CV estimates are  comprised between 2 and 4, a range where naturally acquired immunity to SARS-CoV-2 may place populations over the herd immunity threshold once as few as 10-20% of its individuals are immune. This depends, however, on which specific transmission traits are variable.
 
-    / May, 2020 - MedRxiv
-    let !g self assert = Interventions themselves have potential to manipulate individual variation.Current social distancing measures may be argued to either increase or decrease variation in exposure, depending on the compliance of highly-susceptible or highly-connected individuals in relation to the average. A deep understanding of these patterns is crucial not only to develop more accurate predictive models, but also to refine control strategies and to interpret data resulting from ongoing serological surveys
-
-    / May, 2020 - MedRxiv
-    let !h self assert = Most CV estimates are  comprised between 2 and 4, a range where naturally acquired immunity to SARS-CoV-2 may place populations over the herd immunity threshold once as few as 10-20% of its individuals are immune. This depends, however, on which specific transmission traits are variable.
-
-    / May, 2020 - MedRxiv
-    let !i self assert = On the one hand, if CV is very low, the most stringent control measures would need to be continued for suppression of the epidemic. The other side of that coin is a scenario where keeping only the mildest control measures (protecting the elderly to reduce mortality rates) is optimal. It would therefore be imperative to conduct longitudinal serological studies in representative samples of the population, as control measures are relaxed. Given a percent positivity in an initial survey, the speed at which that figure increases after control measures are eased would reveal what the most likely value of CV is, and simultaneously advise which control measures should be enforced.
+    # / May, 2020 - MedRxiv
+    # let !i self assert = On the one hand, if CV is very low, the most stringent control measures would need to be continued for suppression of the epidemic. The other side of that coin is a scenario where keeping only the mildest control measures (protecting the elderly to reduce mortality rates) is optimal. It would therefore be imperative to conduct longitudinal serological studies in representative samples of the population, as control measures are relaxed. Given a percent positivity in an initial survey, the speed at which that figure increases after control measures are eased would reveal what the most likely value of CV is, and simultaneously advise which control measures should be enforced.
 
 
   # Kids, complications
   // Hyperinflammatory shock in children during COVID-19 pandemic
   doi: https://doi.org/10.1016/S0140-6736(20)31094-1
   article 'Riphagen_et_al_2020
-    head =  We noted an unprecedented cluster of eight children with hyperinflammatory shock, showing features similar to atypical Kawasaki disease. Clinical presentations were similar, with unrelenting fever (38–40°C), variable rash, conjunctivitis, peripheral oedema, and generalised extremity pain with significant gastrointestinal symptoms.
+    head = We noted an unprecedented cluster of eight children with hyperinflammatory shock, showing features similar to atypical Kawasaki disease. Clinical presentations were similar, with unrelenting fever (38–40°C), variable rash, conjunctivitis, peripheral oedema, and generalised extremity pain with significant gastrointestinal symptoms.
 
-    -- exports
-      !a
-      !b
-      !c
-      !d
-      !e
-      !f
-      !g
-      !h
+    # -- exports
+    #   !a
+    #   !b
+    #   !c
+    #   !e
+    #   !f
+    #   !g
+    #   !h
 
     / May, 2020 - The Lancet
     let !a self assert = Clinical presentations were similar, with unrelenting fever (38–40°C), variable rash, conjunctivitis, peripheral oedema, and generalised extremity pain with significant gastrointestinal symptoms. All progressed to warm, vasoplegic shock, refractory to volume resuscitation and eventually requiring noradrenaline and milrinone for haemodynamic support.

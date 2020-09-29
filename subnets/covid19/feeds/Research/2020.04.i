@@ -30,7 +30,6 @@ feed April2020
     'Smith_et_al_04_26_2020
     'Chen_et_al_04_06_2020
     'Jiang_et_al_04_27_2020
-    'Bae_et_al_04_06_2020
     'King_et_al_04_24_2020
     'Ferreira_et_al_04_19_2020
     'Chen_et_al_05_19_2020
@@ -963,23 +962,27 @@ feed April2020
   // COVID-19 is an emergent disease of aging
   doi: https://doi.org/10.1101/2020.04.15.20060095
   ref 'Santesmasses_et_al_04_15_2020
-    head = Our study establishes COVID-19 as an emergent disease of aging. This conclusion is based on (i) an exponential growth of its CFR with age, (ii) the COVID-19 mortality rate doubling time approaching that of all-cause human mortality, (iii) higher mortality in men than in women, (iv) strong association with pre-existing age-related diseases, (v) COVID-19 being a subset of all-cause pneumonia, which is itself a disease of aging, and (vi) an age-related increase in the SARS-CoV-2 receptor mRNA expression in the lungs of non-ventilator subjects.
+    head = Our study establishes COVID-19 as an emergent disease of aging and age and age-related diseases as its major risk factors. Targeting the aging process itself can be a viable orthogonal strategy against COVID-19 and other deadly respiratory diseases.
 
     >>> Abstract
       COVID-19 is an ongoing pandemic caused by the SARS-CoV-2 coronavirus that poses one of the greatest challenges to public health in recent years. SARS-CoV-2 is highly contagious and often leads to severe viral pneumonia with respiratory failure and death in the elderly and subjects with pre-existing conditions, but the reason for this age dependence is unclear. Here, we found that the case fatality rate for COVID-19 grows exponentially with age in Italy, Spain, South Korea, and China, with the doubling time approaching that of all-cause human mortality. In addition, men and those with multiple age-related diseases are characterized by increased mortality. Moreover, similar mortality patterns were found for all-cause pneumonia. We further report that the gene expression of ACE2, the SARS-CoV-2 receptor, grows in the lung with age, except for subjects on a ventilator. Together, our findings establish COVID-19 as an emergent disease of aging, and age and age-related diseases as its major risk factors. In turn, this suggests that COVID-19, and deadly respiratory diseases in general, may be targeted, in addition to therapeutic approaches that affect specific pathways, by approaches that target the aging process.
 
     -- exports
-      !a
       !c
+      !d
 
     / April, 2020 - medRxiv
-    let !a self assert = Our finding of an elevated age-related expression of ACE2 in the lungs of subjects with non-ventilator deaths may provide a clue. An age-related increase in the expression of this gene, together with the depletion of antiviral defenses, would naturally support a higher damaging effect of the coronavirus in the lung. It should be noted, however, that while ACE2 specifically promotes SARS-coronavirus infections, it also protects lungs from injury.
+    let !a self assert = Our finding of an elevated age-related expression of ACE2 in the lungs of subjects with non-ventilator deaths may provide a clue. An age-related increase in the expression of ACE2, together with the depletion of antiviral defenses, would naturally support a higher damaging effect of the coronavirus in the lung. It should be noted, however, that while ACE2 specifically promotes SARS-coronavirus infections, it also protects lungs from injury.
 
     # / April, 2020 - medRxiv
     # let !b self assert = In addition, various tissues harbor different ACE2 gene expression levels and may account for complications other than pneumonia, such as diarrhea observed in a small sample of COVID-19 positive patients. At the protein level, lung and its alveolar type II cells were found to have low or undetectable ACE2 protein levels. Interestingly, ventilator cases showed no increase in ACE2 expression with age. The main difference between ventilator and non-ventilator cases is in the young subjects, wherein the expression of ACE2 in the ventilator cases is higher. The implications of variable expression patterns of ACE2 mRNA and protein across ages, tissues, and ventilator cases should be investigated in further studies.
 
     / April, 2020 - medRxiv
-    let !c self assert = Vaccines are less efficient in the elderly, leading to a high rate of infections even in vaccinated individuals. For example, the yearly influenza vaccine is only 40% to 60% efficient in older individuals. Therefore, targeting ACE2 may be viewed as both an immediate and a long-term strategy. However, as the case fatality rate grows with age, it should be possible to also adjust the pace of aging thereby targeting COVID-19. There are plenty of candidates for such a strategy.
+    let !c self assert = Vaccines are less efficient in the elderly, leading to a high rate of infections even in vaccinated individuals. For example, the yearly influenza vaccine is only 40% to 60% efficient in older individuals. Therefore, targeting ACE2 may be viewed as both an immediate and a long-term strategy. However, as the case fatality rate grows with age, it should be possible to also adjust the pace of aging thereby targeting COVID-19.
+
+    / April, 2020 - medRxiv
+    let !d self assert = We further report that the gene expression of ACE2, the SARS-CoV-2 receptor, grows in the lung with age, except for subjects on a ventilator.
+
 
 
   # Therapeutics - Can be used in knowledge base # frontiers
@@ -1131,7 +1134,7 @@ feed April2020
   // Epidemiology and transmission of COVID-19 in 391 cases and 1286 of their close contacts in Shenzhen, China: a retrospective cohort study
   doi: https://doi.org/10.1016/S1473-3099(20)30287-5
   article 'Bi_et_al_04_27_2020
-    head = Our data on cases as well as their infected and uninfected close contacts provide key insights into the epidemiology of SARS-CoV-2. This analysis shows that isolation and contact tracing reduce the time during which cases are infectious in the community, thereby reducing the R. The overall impact of isolation and contact tracing, however, is uncertain and highly dependent on the number of asymptomatic cases. Moreover, children are at a similar risk of infection to the general population, although less likely to have severe symptoms; hence they should be considered in analyses of transmission and control.
+    head = This analysis shows that isolation and contact tracing reduce the time during which cases are infectious in the community, thereby reducing the R. The overall impact of isolation and contact tracing, however, is uncertain and highly dependent on the number of asymptomatic cases. Moreover, children are at a similar risk of infection to the general population, although less likely to have severe symptoms; hence they should be considered in analyses of transmission and control.
 
     >>> Background
       Rapid spread of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in Wuhan, China, prompted heightened surveillance in Shenzhen, China. The resulting data provide a rare opportunity to measure key metrics of disease course, transmission, and the impact of control measures.
@@ -1146,14 +1149,9 @@ feed April2020
       Our data on cases as well as their infected and uninfected close contacts provide key insights into the epidemiology of SARS-CoV-2. This analysis shows that isolation and contact tracing reduce the time during which cases are infectious in the community, thereby reducing the R. The overall impact of isolation and contact tracing, however, is uncertain and highly dependent on the number of asymptomatic cases. Moreover, children are at a similar risk of infection to the general population, although less likely to have severe symptoms; hence they should be considered in analyses of transmission and control.
 
     -- exports
-      !a
-      !b
       !c
-      !d
       !e
-      !f
       !g
-      !h
       !i
       !j
       !k
@@ -1161,38 +1159,41 @@ feed April2020
       !m
       !n
 
-    / April, 2020 - The Lancet Infectious Diseases
-    let !a self assert = The mean age of the population was 45 years, and 307 (79%) of 391 cases were adults aged 30–69 years. and balanced between males (n=187) and females (n=204).At the time of first clinical assessment, most cases were mild (102 [26%] of 391) or moderate (254 [65%] of 391), and only 35 (9%) were severe. 330 (84%) of 391 cases had fever at the time of initial assessment, while 25 (6%) of 391 had no signs or symptoms.
+    # / April, 2020 - The Lancet Infectious Diseases
+    # let !a self assert = The mean age of the population was 45 years, and 307 (79%) of 391 cases were adults aged 30–69 years. and balanced between males (n=187) and females (n=204).At the time of first clinical assessment, most cases were mild (102 [26%] of 391) or moderate (254 [65%] of 391), and only 35 (9%) were severe. 330 (84%) of 391 cases had fever at the time of initial assessment, while 25 (6%) of 391 had no signs or symptoms.
 
-    / April, 2020 - The Lancet Infectious Diseases
-    let !b self assert = Compared to cases with mild symptoms, those with severe symptoms had a 41% (95% CI 24–60) longer time to recovery. As of Feb 22, 2020, three cases had died. These deaths occurred 35–44 days from symptom onset and 27–33 days from confirmation; 225 had recovered (median time to recovery 21 days; 95% CI 20–22).
+    # / April, 2020 - The Lancet Infectious Diseases
+    # let !b self assert = Compared to cases with mild symptoms, those with severe symptoms had a 41% (95% CI 24–60) longer time to recovery. As of Feb 22, 2020, three cases had died. These deaths occurred 35–44 days from symptom onset and 27–33 days from confirmation; 225 had recovered (median time to recovery 21 days; 95% CI 20–22).
 
     / April, 2020 - The Lancet Infectious Diseases
     let !c self assert = A larger proportion of cases detected through symptom-based surveillance were male (161 [55%] of 292 vs 24 [28%] of 87) and aged 20–69 years (266 [91%] of 292 vs 65 [75%] of 87) than were those detected through contact-based surveillance.
 
-    / April, 2020 - The Lancet Infectious Diseases
-    let !d self assert = At the time of the first clinical assessment, 25 (29%) of 87 cases in the contact-based surveillance group did not have fever, and 17 (20%) of 87 had no symptoms. By contrast, 258 (88%) of 292 in the symptom-based surveillance group had fever, and only eight reported no symptoms.
+    # / April, 2020 - The Lancet Infectious Diseases
+    # let !d self assert = At the time of the first clinical assessment, 25 (29%) of 87 cases in the contact-based surveillance group did not have fever, and 17 (20%) of 87 had no symptoms. By contrast, 258 (88%) of 292 in the symptom-based surveillance group had fever, and only eight reported no symptoms.
 
     / April, 2020 - The Lancet Infectious Diseases
     let !e self assert = In multiple logistic regression, male sex was associated with severe symptoms (odds ratio [OR] 2·5 [95% CI 1·1–6·1]). The probability of severe symptoms increased slightly with age, although only individuals aged 60–69 years had a significantly increased risk compared with the reference category, individuals aged 50–59 years (OR 3·4 [95% 1·4–9·5]).
 
-    / April, 2020 - The Lancet Infectious Diseases
-    let !f self assert = Cases were isolated on average 4·6 days (95% CI 4·1–5·0) after developing symptoms; contact tracing reduced this by 1·9 days (95% CI 1·1–2·7).
+    # / April, 2020 - The Lancet Infectious Diseases
+    # let !f self assert = Cases were isolated on average 4·6 days (95% CI 4·1–5·0) after developing symptoms; contact tracing reduced this by 1·9 days (95% CI 1·1–2·7).
 
     / April, 2020 - The Lancet Infectious Diseases
     let !g self assert = Household contacts and those travelling with a case were at higher risk of infection (odds ratio 6·27 [95% CI 1·49–26·33] for household contacts and 7·06 [1·43–34·91] for those travelling with a case) than other close contacts.
 
-    / April, 2020 - The Lancet
-    let !h self assert = Assuming those with a missing test result were uninfected, we found that the secondary attack rate was 11·2% (95% CI 9·1–13·8) among household contacts and 6·6% (5·4–8·1) overall (the secondary attack rate increased to 14·9% [12·1–18·2] among household contacts and 9·7% [7·9–11·8] overall if those with missing results were removed from the denominator). In multiple conditional logistic regression analysis of contact types, household contact (OR 6·3; 95% CI 1·5–26·3) and travelling together (OR 7·1; 1·4–34·9) were significantly associated with infection. Reporting contact that occurred often was also associated with increased risk of infection compared with moderate-frequency contact (OR 8·8; 95% CI 2·6–30·1; table 3).
+    # / April, 2020 - The Lancet
+    # let !h self assert = Assuming those with a missing test result were uninfected, we found that the secondary attack rate was 11·2% (95% CI 9·1–13·8) among household contacts and 6·6% (5·4–8·1) overall (the secondary attack rate increased to 14·9% [12·1–18·2] among household contacts and 9·7% [7·9–11·8] overall if those with missing results were removed from the denominator). In multiple conditional logistic regression analysis of contact types, household contact (OR 6·3; 95% CI 1·5–26·3) and travelling together (OR 7·1; 1·4–34·9) were significantly associated with infection. Reporting contact that occurred often was also associated with increased risk of infection compared with moderate-frequency contact (OR 8·8; 95% CI 2·6–30·1; table 3).
+
+    # / April, 2020 - The Lancet Infectious Diseases
+    # let !i self assert = Cases detected through symptom-based surveillance were confirmed on average 5·5 days (95% CI 5·0–5·9) after symptom onset, whereas those detected by contact-based surveillance were confirmed on average 3·2 days (95% CI 2·7–3·8) after symptom onset. 17 (5%) of 342 cases with a known onset date and start date of quarantine were isolated before developing symptoms. Among those isolated after developing symptoms, the symptom-based surveillance group was, on average, isolated 4·6 days (95% CI 4·1–5·0) after symptom onset, whereas the contact-based surveillance group was isolated 2·7 days (2·1–3·3) after symptom onset. Hence, contact-based surveillance was associated with a 2·3-day (95% CI 1·5–3·0) decrease in time to confirmation and a 1·9-day (1·1–2·7) decrease in time to isolation.
 
     / April, 2020 - The Lancet Infectious Diseases
-    let !i self assert = Cases detected through symptom-based surveillance were confirmed on average 5·5 days (95% CI 5·0–5·9) after symptom onset (figure 2, appendix 2 p 2), whereas those detected by contact-based surveillance were confirmed on average 3·2 days (95% CI 2·7–3·8) after symptom onset. 17 (5%) of 342 cases with a known onset date and start date of quarantine were isolated before developing symptoms. Among those isolated after developing symptoms, the symptom-based surveillance group was, on average, isolated 4·6 days (95% CI 4·1–5·0) after symptom onset, whereas the contact-based surveillance group was isolated 2·7 days (2·1–3·3) after symptom onset. Hence, contact-based surveillance was associated with a 2·3-day (95% CI 1·5–3·0) decrease in time to confirmation and a 1·9-day (1·1–2·7) decrease in time to isolation.
+    let !i self assert = Contact-based surveillance was associated with a 2·3-day (95% CI 1·5–3·0) decrease in time to confirmation and a 1·9-day (1·1–2·7) decrease in time to isolation.
 
     / April, 2020 - The Lancet Infectious Diseases
     let !j self assert = We observed some indication of elevated attack rates in older age groups. Notably, the rate of infection in children younger than 10 years (7·4%) was similar to the population average (6·6%). There was no significant association between probability of infection and age of the index case.
 
     / April, 2020 - The Lancet Infectious Diseases
-    let !k self assert = 95% of secondary cases were expected to develop symptoms within 14·3 days (95% CI 11·1–17·6) of their infector. This estimate includes the effect of isolation on truncating the serial interval. Stratified results show that if the infected individual was isolated less than 3 days after infection the average serial interval was 3·6 days, increasing to 8·1 days if the infected individual was isolated on the third day after symptom onset or later.
+    let !k self assert = 95% of secondary cases were expected to develop symptoms within 14·3 days of their infector. This estimate includes the effect of isolation on truncating the serial interval. Stratified results show that if the infected individual was isolated less than 3 days after infection the average serial interval was 3·6 days, increasing to 8·1 days if the infected individual was isolated on the third day after symptom onset or later.
 
     / April, 2020 - The Lancet Infectious Diseases
     let !l self assert = The mean number of secondary cases caused by each index case (ie, the observed reproductive number, R), was 0·4 (95% CI 0·3–0·5). The distribution of individual R values was highly over-dispersed, with 80% of infections being caused by 8·9% (95% CI 3·5–10·8) of cases (negative binomial dispersion parameter 0·58; 95% CI 0·35–1·18).
@@ -1201,7 +1202,8 @@ feed April2020
     let !m self assert = We found that if the mean infectious day is greater than 5 days, then it might be possible to bring R below one in cases detected by symptom-based surveillance, and the same can be accomplished by contact-based surveillance if the mean infectious day is greater than 3 days (appendix 2 p 9). For the impact of passive surveillance alone to achieve our observed R of 0·4, we projected that the mean infectious day must be at least 5·5 days (and likely greater) after symptom onset.
 
     / April, 2020 - The Lancet Infectious Diseases
-    let !n self assert = Even if transmission is completely eliminated in the group captured by surveillance (eg, if we could get perfect surveillance on the day of symptom onset), assuming R0=2·6, the cases captured by surveillance must, if not isolated, be expected to cause 61% of onward transmission to achieve local elimination by surveillance and isolation alone
+    let !n self assert = Even if transmission is completely eliminated in the group captured by surveillance (eg, if we could get perfect surveillance on the day of symptom onset), assuming R0=2·6, the cases captured by surveillance must, if not isolated, be expected to cause 61% of onward transmission to achieve local elimination by surveillance and isolation alone.
+
 
 
   # clinical characteristics, epidemic, mortality rate, old ppl
@@ -1239,12 +1241,8 @@ feed April2020
       !e
       !f
       !g
-      !h
-      !i
-      !j
       !k
       !l
-      !m
       !n
 
     / April, 2020 - JAMA
@@ -1254,13 +1252,13 @@ feed April2020
     let !b self assert = At triage, 1734 patients (30.7%) were febrile, 986 (17.3%) had a respiratory rate greater than 24 breaths/min, and 1584 (27.8%) received supplemental oxygen.
 
     / April, 2020 - JAMA
-    let !c self assert = The first test for COVID-19 was positive in 5517 patients (96.8%), while 183 patients (3.2%) had a negative first test and positive repeat test. The rate of co-infection with another respiratory virus for those tested was 2.1% (42/1996).  The rate of respiratory virus co-infection was 2.1%.
+    let !c self assert = The first test for COVID-19 was positive in 5517 patients (96.8%), while 183 patients (3.2%) had a negative first test and positive repeat test. The rate of co-infection with another respiratory virus for those tested was 2.1% (42/1996). The rate of respiratory virus co-infection was 2.1%.
 
     / April, 2020 - JAMA
     let !d self assert = Among the 3066 patients who remained hospitalized at the final study follow-up date, the median follow-up at time of censoring was 4.5 days. Mortality was 0% (0/20) for male and female patients younger than 20 years. Mortality rates were higher for male compared with female patients at every 10-year age interval older than 20 years.
 
     / April, 2020 - JAMA
-    let !e self assert = Outcomes for Patients Who Were Discharged or Died: Among the 2634 patients who were discharged or had died at the study end point, during hospitalization, 373 (14.2%) were treated in the ICU, 320 (12.2%) received invasive mechanical ventilation, 81 (3.2%) were treated with kidney replacement therapy, and 553 (21%) died
+    let !e self assert = Among the 2634 patients who were discharged or had died at the study end point, during hospitalization, 373 (14.2%) were treated in the ICU, 320 (12.2%) received invasive mechanical ventilation, 81 (3.2%) were treated with kidney replacement therapy, and 553 (21%) died.
 
     / April, 2020 - JAMA
     let !f self assert = As of April 4, 2020, for patients requiring mechanical ventilation (n = 1151, 20.2%), 38 (3.3%) were discharged alive, 282 (24.5%) died, and 831 (72.2%) remained in hospital.
@@ -1268,14 +1266,14 @@ feed April2020
     / April, 2020 - JAMA
     let !g self assert = Mortality rates for those who received mechanical ventilation in the 18-to-65 and older-than-65 age groups were 76.4% and 97.2%, respectively. Mortality rates for those in the 18-to-65 and older-than-65 age groups who did not receive mechanical ventilation were 1.98% and 26.6%, respectively. There were no deaths in the younger-than-18 age group.
 
-    / April, 2020 - JAMA
-    let !h self assert = The overall length of stay was 4.1 days (IQR, 2.3-6.8). The median postdischarge follow-up time was 4.4 days (IQR, 2.2-9.3). A total of 45 patients (2.2%) were readmitted during the study period. The median time to readmission was 3 days (IQR, 1.0-4.5).
+    # / April, 2020 - JAMA
+    # let !h self assert = The overall length of stay was 4.1 days. The median postdischarge follow-up time was 4.4 days. A total of 45 patients (2.2%) were readmitted during the study period. The median time to readmission was 3 days.
 
-    / April, 2020 - JAMA
-    let !i self assert = Of the patients who were discharged or had died at the study end point, 436 (16.6%) were younger than age 50 with a score of 0 on the Charlson Comorbidity Index, of whom 9 died.
+    # / April, 2020 - JAMA
+    # let !i self assert = Of the patients who were discharged or had died at the study end point, 436 (16.6%) were younger than age 50 with a score of 0 on the Charlson Comorbidity Index, of whom 9 died.
 
-    / April, 2020 - JAMA
-    let !j self assert = For both patients discharged alive and those who died, the percentage of patients who were treated in the ICU or received invasive mechanical ventilation was increased for the 18-to-65 age group compared with the older-than-65 years age group
+    # / April, 2020 - JAMA
+    # let !j self assert = For both patients discharged alive and those who died, the percentage of patients who were treated in the ICU or received invasive mechanical ventilation was increased for the 18-to-65 age group compared with the older-than-65 years age group
 
     / April, 2020 - JAMA
     let !k self assert = For patients discharged alive, the lowest absolute lymphocyte count during hospital course was lower for progressively older age groups. For patients discharged alive, the readmission rates and the percentage of patients discharged to a facility (such as a nursing home or rehabilitation), as opposed to home, increased for progressively older age groups.
@@ -1283,8 +1281,8 @@ feed April2020
     / April, 2020 - JAMA
     let !l self assert = Of the patients who died, those with diabetes were more likely to have received invasive mechanical ventilation or care in the ICU compared with those who did not have diabetes. Of the patients who died, those with hypertension were less likely to have received invasive mechanical ventilation or care in the ICU compared with those without hypertension. The percentage of patients who developed acute kidney injury was increased in the subgroups with diabetes compared with subgroups without those conditions.
 
-    / April, 2020 - JAMA
-    let !m self assert = Angiotensin-Converting Enzyme Inhibitor and Angiotensin II Receptor Blocker Use: Of the patients taking an ACEi at home, 91 (48.1%) continued taking an ACEi while in the hospital and the remainder discontinued this type of medication during their hospital visit. Of the patients taking an ARB at home, 136 (50.1%) continued taking an ARB while in the hospital and the remainder discontinued taking this type of medication during their hospital visit. Of patients who were not prescribed an ACEi or ARB at home, 49 started treatment with an ACEi and 58 started treatment with an ARB during their hospitalization.
+    # / April, 2020 - JAMA
+    # let !m self assert = Of the patients taking an ACEi at home, 91 (48.1%) continued taking an ACEi while in the hospital and the remainder discontinued this type of medication during their hospital visit. Of the patients taking an ARB at home, 136 (50.1%) continued taking an ARB while in the hospital and the remainder discontinued taking this type of medication during their hospital visit. Of patients who were not prescribed an ACEi or ARB at home, 49 started treatment with an ACEi and 58 started treatment with an ARB during their hospitalization.
 
     / April, 2020 - JAMA
     let !n self assert = Mortality rates for patients with hypertension not taking an ACEi or ARB, taking an ACEi, and taking an ARB were 26.7%, 32.7%, and 30.6%, respectively.
@@ -1323,35 +1321,31 @@ feed April2020
   // Changes in contact patterns shape the dynamics of the COVID-19 outbreak in China
   doi: https://doi.org/10.1126/science.abb8001
   article 'Zhang_et_al_04_29_2020
-    head = Daily contacts were reduced 7-8-fold during the COVID-19 social distancing period, with most interactions restricted to the household. We find that children 0-14 years are less susceptible to SARS-CoV-2 infection than adults 15-64 years of age (odds ratio 0.34, 95%CI 0.24-0.49), while in contrast, individuals over 65 years are more susceptible to infection (odds ratio 1.47, 95%CI: 1.12-1.92). Based on these data, we build a transmission model to study the impact of social distancing and school closure on transmission. We find that social distancing alone, as implemented in China during the outbreak, is sufficient to control COVID-19. While proactive school closures cannot interrupt transmission on their own, they can reduce peak incidence by 40-60% and delay the epidemic.
+    head = The model showed that once people reduced their average daily contacts from 14 to 20 down to 2, transmission rapidly fell below the epidemic threshold. Preemptive school closures helped to reduce transmission, although alone they would not prevent a COVID-19 outbreak. Limiting human mixing to within households appeared to be the most effective measure.
 
     >>> Abstract
       Intense non-pharmaceutical interventions were put in place in China to stop transmission of the novel coronavirus disease (COVID-19). As transmission intensifies in other countries, the interplay between age, contact patterns, social distancing, susceptibility to infection, and COVID-19 dynamics remains unclear. To answer these questions, we analyze contact surveys data for Wuhan and Shanghai before and during the outbreak and contact tracing information from Hunan Province. Daily contacts were reduced 7-8-fold during the COVID-19 social distancing period, with most interactions restricted to the household. We find that children 0-14 years are less susceptible to SARS-CoV-2 infection than adults 15-64 years of age (odds ratio 0.34, 95%CI 0.24-0.49), while in contrast, individuals over 65 years are more susceptible to infection (odds ratio 1.47, 95%CI: 1.12-1.92). Based on these data, we build a transmission model to study the impact of social distancing and school closure on transmission. We find that social distancing alone, as implemented in China during the outbreak, is sufficient to control COVID-19. While proactive school closures cannot interrupt transmission on their own, they can reduce peak incidence by 40-60% and delay the epidemic.
 
-    -- exports
-      !a
-      !b
-      !c
-      !d
-      !e
-      !f
-      !g
-      !h
-      !i
-      !j
-      !k
+    # -- exports
+    #   !b
+    #   !c
+    #   !d
+    #   !e
+    #   !f
+    #   !g
+    #   !i
+
+    # / April, 2020 - Science
+    # let !a self assert = We analyzed a total of 1,245 contacts reported by 636 study participants in Wuhan, and 1,296 contacts reported by 557 participants in Shanghai. In Wuhan, the average daily number of contacts per participant was significantly reduced from 14.6 for the baseline period (weighted mean contacts by age structure: 14.0) to 2.0 for the outbreak period (weighted mean contacts by age structure: 1.9) (p<0.001). The reduction in contacts was significant for all stratifications by sex, age group, type of profession, and household size (Table 1). A larger reduction was observed in Shanghai, where the average daily number of contacts declined from 18.8 (weighted mean contacts by age structure: 19.8) to 2.3 (weighted mean contacts by age structure: 2.1). Although an average individual in Shanghai reported more contacts than one in Wuhan on a regular weekday, this difference essentially disappeared during the COVID-19 outbreak period.
 
     / April, 2020 - Science
-    let !a self assert = We analyzed a total of 1,245 contacts reported by 636 study participants in Wuhan, and 1,296 contacts reported by 557 participants in Shanghai. In Wuhan, the average daily number of contacts per participant was significantly reduced from 14.6 for the baseline period (weighted mean contacts by age structure: 14.0) to 2.0 for the outbreak period (weighted mean contacts by age structure: 1.9) (p<0.001). The reduction in contacts was significant for all stratifications by sex, age group, type of profession, and household size (Table 1). A larger reduction was observed in Shanghai, where the average daily number of contacts declined from 18.8 (weighted mean contacts by age structure: 19.8) to 2.3 (weighted mean contacts by age structure: 2.1). Although an average individual in Shanghai reported more contacts than one in Wuhan on a regular weekday, this difference essentially disappeared during the COVID-19 outbreak period.
+    let !b self assert = Overall, contacts during the outbreak mostly occurred at home with household members (94.1% in Wuhan and 78.5% in Shanghai). These findings are consistent with trends in within-city mobility data, which indicate an 86.9% drop in Wuhan and 74.5% in Shanghai between early January and early February. Such a large decrease in internal mobility is consistent with most of contacts occurring in the household during the outbreak period. Of note, the strict social distancing measures implemented in Wuhan and Shanghai did not entirely zero out contacts in the workplace, as essential workers continued to perform their activities.
 
     / April, 2020 - Science
-    let !b self assert =  Overall, contacts during the outbreak mostly occurred at home with household members (94.1% in Wuhan and 78.5% in Shanghai). These findings are consistent with trends in within-city mobility data, which indicate an 86.9% drop in Wuhan and 74.5% in Shanghai between early January and early February. Such a large decrease in internal mobility is consistent with most of contacts occurring in the household during the outbreak period. Of note, the strict social distancing measures implemented in Wuhan and Shanghai did not entirely zero out contacts in the workplace, as essential workers continued to perform their activities.
+    let !c self assert = We found that susceptibility to SARS-CoV2 infection increased with age. Young individuals (aged 0-14 years) had a lower risk of infection than individual aged 15-64 years. In contrast, older individuals aged 65 years and over had a higher risk of infection than adults 15-64 years. These findings are in contrast with a previous study in Shenzhen, where susceptibility to infection did not change with age.
 
     / April, 2020 - Science
-    let !c self assert = We found that susceptibility to SARS-CoV2 infection increased with age. Young individuals (aged 0-14 years) had a lower risk of infection than individual aged 15-64 years [OR=0.34 (95%CI: 0.24-0.49), p-value<0.0001]. In contrast, older individuals aged 65 years and over had a higher risk of infection than adults 15-64 years [OR=1.47 (95%CI: 1.12-1.92), p-value=0.005]. These findings are in contrast with a previous study in Shenzhen, where susceptibility to infection did not change with age.
-
-    / April, 2020 - Science
-    let !d self assert = In the early phases of COVID-19 spread in Wuhan, before interventions were put in place, R0 values were estimated to range between 2.0 and 3.5 (12–18). In this analysis, we extended this range from 1 to 4 for the baseline period (i.e., before interventions). We find that the considerable changes of mixing patterns observed in Wuhan and Shanghai during the social distancing period led to a drastic decrease in R0. This finding is robust to relaxing assumptions about age differences in susceptibility to infection; the epidemic is still well controlled if SARS-CoV-2 infection is assumed to be equally likely in all age groups. We also performed sensitivity analyses regarding possible recall and compliance biases of self-reported contacts as well as the definition of contact (i.e., considering only contacts lasting more than 5 min). The results are consistent with those reported here.
+    let !d self assert = In the early phases of COVID-19 spread in Wuhan, before interventions were put in place, R0 values were estimated to range between 2.0 and 3.5. We find that the considerable changes of mixing patterns observed in Wuhan and Shanghai during the social distancing period led to a drastic decrease in R0.
 
     / April, 2020 - Science
     let !e self assert = In an uncontrolled epidemic (without intervention measures, travel restrictions, or spontaneous behavioral responses of the population), and for R0 in the range 2-3, we estimate the mean infection attack rate to be in the range 53%-92% after a year of SARS-CoV-2 circulation, with slight variation between Wuhan and Shanghai. These estimates should be considered as an upper bound of the infection attack rate as they are based on a compartmental model that does not account for high clustering of contacts (e.g., repeated contacts among household members).
@@ -1360,19 +1354,20 @@ feed April2020
     let !f self assert = If we consider a scenario where social distancing measures are implemented early on, as the new virus emerges, the estimated R0 remains under the epidemic threshold and thus the epidemic cannot take off in either location. Furthermore, we estimate that the magnitude of interventions implemented in Wuhan and Shanghai would have been enough to block transmission for an R0 before the interventions up to ~6 in Wuhan and ~7.8 in Shanghai.
 
     / April, 2020 - Science
-    let !g self assert = Our modeling approach indicates that limiting contact patterns to those observed during vacations would interrupt transmission for baseline R0 up to 1.5. Removing all school contacts would do the same for baseline R0 up to 1.2. If we apply these interventions to a COVID-19 scenario, assuming a baseline R0 of 2 - 3.5, we can achieve a noticeable decrease in infection attack rate and peak incidence, and a delay in the epidemic, but transmission is not interrupted. For instance, for baseline R0=2.5 and assuming a vacation mixing pattern, the mean peak daily incidence is reduced by about 64%. In the corresponding scenario where school contacts are removed, we estimate a reduction of about 42%.
+    let !g self assert = Our modeling approach indicates that limiting contact patterns to those observed during vacations would interrupt transmission for baseline R0 up to 1.5. Removing all school contacts would do the same for baseline R0 up to 1.2. If we apply these interventions to a COVID-19 scenario, assuming a baseline R0 of 2 - 3.5, we can achieve a noticeable decrease in infection attack rate and peak incidence, and a delay in the epidemic, but transmission is not interrupted.
 
-    / April, 2020 - Science
-    let !h self assert = Overall, school-based closure policies are not sufficient to entirely prevent a COVID-19 outbreak, but they can impact disease dynamics, and hence hospital surge capacity. It is important to stress that individuals aged 5-19 years in Shanghai represent 9.5% of the population (19), markedly lower than the mean in China [16.8% (19)] and other countries [including Western countries; e.g., 19.7% in the US
+    # / April, 2020 - Science
+    # let !h self assert = Overall, school-based closure policies are not sufficient to entirely prevent a COVID-19 outbreak, but they can impact disease dynamics, and hence hospital surge capacity. It is important to stress that individuals aged 5-19 years in Shanghai represent 9.5% of the population, markedly lower than the mean in China [16.8% (19)] and other countries [including Western countries; e.g., 19.7% in the US
 
     / April, 2020 - Science
     let !i self assert = In our simulation model, we estimated the effect of social distancing alone; combining social distancing with other interventions would have a synergistic effect to even further reduce transmission. It is likely that population wide social distancing, case-based strategies, and decontamination efforts, all contributed to achieve control in Wuhan and Shanghai, and their effect is difficult to separate out in retrospective observational studies.
 
-    / April, 2020 - Science
-    let !j self assert = Modeling results may underestimate the effect of social distancing interventions as our results concentrate on number of contacts and ignore the type of social interactions (e.g., increased distance between individuals while in contact, or use of face mask), which may have changed due increased awareness of the population. Finally, it is worth noting that our school closure simulations are not meant to formulate a full intervention strategy, which would require identification of epidemic triggers to initiate closures and evaluation of different durations of intervention
+    # / April, 2020 - Science
+    # let !j self assert = Modeling results may underestimate the effect of social distancing interventions as our results concentrate on number of contacts and ignore the type of social interactions (e.g., increased distance between individuals while in contact, or use of face mask), which may have changed due increased awareness of the population. Finally, it is worth noting that our school closure simulations are not meant to formulate a full intervention strategy, which would require identification of epidemic triggers to initiate closures and evaluation of different durations of intervention
 
-    / April, 2020 - Science
-    let !k self assert = Our study provides evidence that the interventions put in place in Wuhan and Shanghai, and the resulting changes in human behavior, drastically decreased daily contacts, essentially reducing them to household interactions. This leads to a dramatic reduction of SARS-CoV-2 transmission. As lockdown measures are put in place in other locations, human mixing patterns in the outbreak period could be captured by data on within-household contacts, which are available for several countries around the world. Moving forward, it will be particularly important to design targeted strategies for long-term control of COVID-19, including school- and work-based control strategies, along with large scale testing and contact tracing. Research should concentrate on refining age-specific estimates of susceptibility to infection, disease, and infectiousness, which are instrumental to evaluating the impact of these strategies.
+    # / April, 2020 - Science
+    # let !k self assert = Our study provides evidence that the interventions put in place in Wuhan and Shanghai, and the resulting changes in human behavior, drastically decreased daily contacts, essentially reducing them to household interactions. This leads to a dramatic reduction of SARS-CoV-2 transmission. As lockdown measures are put in place in other locations, human mixing patterns in the outbreak period could be captured by data on within-household contacts, which are available for several countries around the world.
+
 
 
   #  Potential medicine, cytokone inhibitor- FRONTIER
@@ -1450,55 +1445,48 @@ feed April2020
     let !b self assert = The surviving mice generated low titres of neutralisation antibodies. The reinfection with much higher titres of virus only caused mild pneumonia in the surviving mice. In contrast, the naïve-infected mice had severe disease with much higher viral RNA copies in the lung and brain tissues. It is unclear that the neutralising antibody or humoral immunity caused the observed protection.
 
 
-  # Protective Equipments - Mask - Limitations, counter claim
-  // Effectiveness of Surgical and Cotton Masks in Blocking SARS–CoV-2: A Controlled Comparison in 4 Patients
-  doi: https://doi.org/10.7326/M20-1342
-  article 'Bae_et_al_04_06_2020
-    head = In conclusion, both surgical and cotton masks seem to be ineffective in preventing the dissemination of SARS–CoV-2 from the coughs of patients with COVID-19 to the environment and external mask surface.
-
-    -- exports
-      !a
-      !b
-
-    / April, 2020 - Annals of internal medicine
-    let !a self assert = Of note, we found greater contamination on the outer than the inner mask surfaces. Although it is possible that virus particles may cross from the inner to the outer surface because of the physical pressure of swabbing, we swabbed the outer surface before the inner surface.
-
-    / April, 2020 - Annals of internal medicine
-    let !b self assert = A turbulent jet due to air leakage around the mask edge could contaminate the outer surface. Alternatively, the small aerosols of SARS–CoV-2 generated during a high-velocity cough might penetrate the masks. However, this hypothesis may only be valid if the coughing patients did not exhale any large-sized particles, which would be expected to be deposited on the inner surface despite high velocity.
+  # Protective Equipments - Mask - Limitations, counter claim - THIS PAPER HAS BEEN RETRACTED
+  # // Effectiveness of Surgical and Cotton Masks in Blocking SARS–CoV-2: A Controlled Comparison in 4 Patients
+  # doi: https://doi.org/10.7326/M20-1342
+  # article 'Bae_et_al_04_06_2020
+  #   head = In conclusion, both surgical and cotton masks seem to be ineffective in preventing the dissemination of SARS–CoV-2 from the coughs of patients with COVID-19 to the environment and external mask surface.
+  #
+  #   -- exports
+  #     !a
+  #     !b
+  #
+  #   / April, 2020 - Annals of internal medicine
+  #   let !a self assert = Of note, we found greater contamination on the outer than the inner mask surfaces. Although it is possible that virus particles may cross from the inner to the outer surface because of the physical pressure of swabbing, we swabbed the outer surface before the inner surface.
+  #
+  #   / April, 2020 - Annals of internal medicine
+  #   let !b self assert = A turbulent jet due to air leakage around the mask edge could contaminate the outer surface. Alternatively, the small aerosols of SARS–CoV-2 generated during a high-velocity cough might penetrate the masks. However, this hypothesis may only be valid if the coughing patients did not exhale any large-sized particles, which would be expected to be deposited on the inner surface despite high velocity.
 
 
   #  Protective equipment - Gloves
   // Bacterial Transfer To Fingertips During Sequential Surface Contacts With And Without Gloves
   doi: https://doi.org/10.1111/ina.12682
   article 'King_et_al_04_24_2020
-    head = This study presents an investigation into the loading of viable E. coli on fingers following sequential contacts with a contaminated plastic surface with gloved and un-gloved hands. Transfer efficiency with a smooth plastic surface for both gloved and un-gloved hands was higher than current literature suggests.
+    head = Transfer efficiency for bare skin was higher than for gloved hands. Gloves showed decreasing loads on fingers during sequential contacts suggestive of transfer from finger-to-surface and should not be used for multiple patient care or cleaning episodes.
 
     >>> Abstract
       Bacterial transmission from contaminated surfaces via hand contact plays a critical role in disease spread. However, the fomite‐to‐finger transfer efficiency of microorganisms during multiple sequential surface contacts with and without gloves has not been formerly investigated.
       We measured the quantity of Escherichia coli on fingertips of participants after one‐to‐eight sequential contacts with inoculated plastic coupons with and without nitrile gloves. A Bayesian approach was used to develop a mechanistic model of pathogen accretion to examine finger loading as a function of the difference between E. coli on surfaces and fingers. We used the model to determine the coefficient of transfer efficiency (λ), and influence of swabbing efficiency and finger area.
       Results showed λ for bare skin was higher (49%, 95%CI=32‐72%) than for gloved hands (30%, CI=17‐49%). Microbial load tended towards a dynamic equilibrium after four and six contacts for gloved hands and bare skin, respectively. Individual differences between volunteers’ hands had a negligible effect compared with use of gloves (p <0.01). Gloves reduced loading by 4.7% (CI=‐12%‐21%) over bare skin contacts whilst 20% of participants accrued more microorganisms on gloved hands. This was due to poor fitting, which created a larger finger surface area than bare hands.
 
-    -- exports
-      !a
-      !b
-      !c
-      !d
-      !e
 
     / April, 2020 - International Journal of Indoor Environment and Health
-    let !a self assert = Gloves show lower burden only 80% of the time but on average burden on gloves is 5% lower than un-gloved hands. The individual effect on CFU loading from variation in participant variability is modest in comparison to the use of gloves. Therefore, choosing the correct glove size to avoid excess fabric accruing pathogens is critical in ensuring lower risk.
+    let !a self assert = Gloves show lower burden only 80% of the time but on average burden on gloves is 5% lower than un-gloved hands. The individual effect on CFU (colony-forming unit) loading from variation in participant variability is modest in comparison to the use of gloves. Therefore, choosing the correct glove size to avoid excess fabric accruing pathogens is critical in ensuring lower risk.
 
     / April, 2020 - International Journal of Indoor Environment and Health
-    let !b self assert = The mean CFU burden on gloves peaks at five contacts compared with six for un-gloved hands before stabilising through either equal transfer (up and down) or failed transfer from surface to finger. While in this study we demonstrate that less drastic changes in concentration occur after only 4 contacts, every contact with a surface could be the first exposure to a pathogen, making hand hygiene and the use of gloves important continued practices. Gloves showed decreasing loads on fingers during sequential contacts suggestive of transfer from finger-to-surface and should not be used for multiple patient care or cleaning episodes.
+    let !b self assert = The mean CFU (colony-forming unit) burden on gloves peaks at five contacts compared with six for un-gloved hands before stabilising through either equal transfer (up and down) or failed transfer from surface to finger. While in this study we demonstrate that less drastic changes in concentration occur after only 4 contacts, every contact with a surface could be the first exposure to a pathogen, making hand hygiene and the use of gloves important continued practices.
 
     / April, 2020 - International Journal of Indoor Environment and Health
-    let !c self assert = The ABC method provides a novel, accessible and flexible method for parameter estimation. Transfer efficiency that best represents this experimental data set, estimated using the ABC model, was higher with bare skin (49%, 95% confidence interval CI=32-72%) than gloved hands (30%, CI=17-49%) highlighting high variability arising from latent variables.
+    let !c self assert = Transfer efficiency is an important parameter in contact infection transmission models.
 
     / April, 2020 - International Journal of Indoor Environment and Health
-    let !d self assert = Repeated measures ANOVA should be avoided for computing the crossed random effects of individual participants and a linear mixed effects model should be used in instead.
+    let !d self assert = Finger surface area is increased by gloves that do not fit well, and this encourages the acquisition of microorganisms. Gloves should be the correct size and fingers should fit snugly.
 
-    / April, 2020 - International Journal of Indoor Environment and Health
-    let !e self assert = Parameter estimation has a significant effect on simulated transfer efficiency. Cfu loadings from surface to fingertip transfer is not a Gaussian distribution and hence care should be taken in using data from surface contact studies in infection risk assessments. An incorrect assumption about the distribution of the data may lead to inappropriate recommendations or interpretations especially after modelling multiple surface contacts where artificial inflation of the central tendency might occ
+
 
 
   # Complications - Sepsis
@@ -2132,7 +2120,6 @@ feed April2020
   article 'Liu_et_al_2020bb
     head = Although we have not established the infectivity of the virus detected in these hospital areas, we propose that SARS-CoV-2 may have the potential to be transmitted through aerosols. Room ventilation, open space, sanitization of protective apparel, and proper use and disinfection of toilet areas can effectively limit the concentration of SARS-CoV-2 RNA in aerosols.
 
-
     >>> Abstract
       The ongoing COVID-19 outbreak has spread rapidly on a global scale. While the transmission of SARS-CoV-2 via human respiratory droplets and direct contact is clear, the potential for aerosol transmission is poorly understood1–3. This study investigated the aerodynamic nature of SARS-CoV-2 by measuring viral RNA in aerosols in different areas of two Wuhan hospitals during the COVID-19 outbreak in February and March 2020. The concentration of SARS-CoV-2 RNA in aerosols detected in isolation wards and ventilated patient rooms was very low, but it was elevated in the patients’ toilet areas. Levels of airborne SARS-CoV-2 RNA in the majority of public areas was undetectable except in two areas prone to crowding, possibly due to infected carriers in the crowd. We found that some medical staff areas initially had high concentrations of viral RNA with aerosol size distributions showing peaks in submicrometre and/or supermicrometre regions, but these levels were reduced to undetectable levels after implementation of rigorous sanitization procedures. Although we have not established the infectivity of the virus detected in these hospital areas, we propose that SARS-CoV-2 may have the potential to be transmitted via aerosols. Our results indicate that room ventilation, open space, sanitization of protective apparel, and proper use and disinfection of toilet areas can effectively limit the concentration of SARS-CoV-2 RNA in aerosols. Future work should explore the infectivity of aerosolized virus.
 
@@ -2141,6 +2128,9 @@ feed April2020
 
     / April, 2020 - Nature
     let !a self assert = Overall, the risks of infection are low in well-ventilated or open public venues, but do reinforce the importance of avoiding crowded gatherings.
+
+    / April, 2020 - Nature
+    let !b self assert = We found that some medical staff areas initially had high concentrations of viral RNA with aerosol size distributions showing peaks in submicrometre and/or supermicrometre regions, but these levels were reduced to undetectable levels after implementation of rigorous sanitization procedures.
 
 
   # Clinicalcharacteristics
@@ -2379,7 +2369,7 @@ feed April2020
   // Beyond R0: Heterogeneity in secondary infections and probabilistic epidemic forecasting
   doi: https://doi.org/10.1101/2020.02.10.20021725
   article 'Dufresne_et_al_2020
-    head = This paper reiterates that when accounting for the full distribution of secondary cases caused by an infected individual, there is no direct relationship between R0 and the size of an outbreak. We also stress that both R0 and the full secondary case distribution are not properties of the disease itself, but are instead set by properties of the pathogen, the host population and the context of the outbreak. Nevertheless, we provide a straightforward methodology for translating estimates of transmission heterogeneity into epidemic forecasts. Altogether, predicting outbreak size based on early data is an incredibly complex challenge but one that is increasingly within reach due to new mathematical analyses and faster communication of public health data.
+    head = This paper reiterates that when accounting for the full distribution of secondary cases caused by an infected individual, there is no direct relationship between R0 and the size of an outbreak. We also stress that both R0 and the full secondary case distribution are not properties of the disease itself, but are instead set by properties of the pathogen, the host population and the context of the outbreak. Our work highlights the critical need for contact tracing during emerging infectious disease outbreaks and the need to look beyond R0 when predicting epidemic size.
 
     >>> Abstract
       The basic reproductive number --- R0 --- is one of the most common and most commonly misapplied numbers in public health. Although often used to compare outbreaks and forecast pandemic risk, this single number belies the complexity that two different pathogens can exhibit, even when they have the same R0. Here, we show how to predict outbreak size using estimates of the distribution of secondary infections, leveraging both its average R0 and the underlying heterogeneity. To do so, we reformulate and extend a classic result from random network theory (Newman2001) that relies on contact tracing data to simultaneously determine the first moment (R0) and the higher moments (representing the heterogeneity) in the distribution of secondary infections. Further, we show the different ways in which this framework can be implemented in the data-scarce reality of emerging pathogens. Lastly, we demonstrate that without data on the heterogeneity in secondary infections for emerging infectious diseases like COVID-19, the uncertainty in outbreak size ranges dramatically. %, in the case of COVID-19 from 10-70\% of susceptible individuals. Taken together, our work highlights the critical need for contact tracing during emerging infectious disease outbreaks and the need to look beyond R0 when predicting epidemic size.
@@ -2387,43 +2377,45 @@ feed April2020
     -- exports
       !a
       !b
-      !c
-      !d
       !e
       !f
       !g
-      !h
+
 
     / April, 2020 - MedRxiv
     let !a self assert = Our main analysis shows that not only is R0 insufficient in fully determining the final size of an outbreak, but having a larger outbreak with a lower R0 is relatively easy considering the randomness associated with most transmission events and the heterogeneity of physical contacts.
 
     / April, 2020 - MedRxiv
-    let !b self assert = The Kermack and McKendrick formulation consistently and significantly over-predicts the outbreak size across six different pathogens where we could find confidence interval estimates for R0 and for the negative binomial over-dispersion parameter (k). Our approach produces estimates of the total outbreak size, which are consistent with outbreaks where no vaccine was available (smallpox in unvaccinated populations, the 1918 influenza pandemic, and school children prior to the availability of the 2009 H1N1 vaccine).
+    let !b self assert = We demonstrate that without data on the heterogeneity in secondary infections for emerging infectious diseases like COVID-19, the uncertainty in outbreak size ranges dramatically. %, in the case of COVID-19 from 10-70\% of susceptible individuals.
+
+    # / April, 2020 - MedRxiv
+    # let !b self assert = The Kermack and McKendrick formulation consistently and significantly over-predicts the outbreak size across six different pathogens where we could find confidence interval estimates for R0 and for the negative binomial over-dispersion parameter (k). Our approach produces estimates of the total outbreak size, which are consistent with outbreaks where no vaccine was available (smallpox in unvaccinated populations, the 1918 influenza pandemic, and school children prior to the availability of the 2009 H1N1 vaccine).
+
+    # / April, 2020 - MedRxiv
+    # let !c self assert = Clearly, once interventions are put in place and/or substantial behavioral change occurs, all methods that do not account for these effects will over-estimate the total outbreak size. Nevertheless, our approach provides a much more reasoned estimate of the total risk to any given population, and predictions very close to the most recent seropositivity estimates for the COVID-19 outbreak in a German Municipality and in obstetrical patients presenting for delivery, as well as for SARS among wild animal handlers (other smaller estimates correspond to health-care workers)
+
+    # / April, 2020 - MedRxiv
+    # let !d self assert = Higher moments of the distribution of secondary cases can lead a disease with a lower R0 to invade more easily a population and to reach a larger final outbreak size than a disease with a higher R0. Taking into account the contribution of these higher moments also yields better estimates for the final size of outbreaks, as we now show.
 
     / April, 2020 - MedRxiv
-    let !c self assert = Clearly, once interventions are put in place and/or substantial behavioral change occurs, all methods that do not account for these effects will over-estimate the total outbreak size. Nevertheless, our approach provides a much more reasoned estimate of the total risk to any given population, and predictions very close to the most recent seropositivity estimates for the COVID-19 outbreak in a German Municipality and in obstetrical patients presenting for delivery, as well as for SARS among wild animal handlers (other smaller estimates correspond to health-care workers)
+    let !e self assert = In practice, three types of data could potentially be used in real time to improve predictions by considering secondary case heterogeneity. First, contact tracing data whose objective is to identify people who may have come into contact with an infectious individual. Both for generating accurate predictions of epidemic risk and controlling the outbreak, it is vital to begin contact tracing before numerous transmission chains become widely distributed across space.
 
     / April, 2020 - MedRxiv
-    let !d self assert = Higher moments of the distribution of secondary cases can lead a disease with a lower R0 to invade more easily a population and to reach a larger final outbreak size than a disease with a higher R0. Taking into account the contribution of these higher moments also yields better estimates for the final size of outbreaks, as we now show.
+    let !f self assert = Second, viral genome sequences provide information on both the timing of the outbreak and structure of secondary cases. For example, methods exist to reconstruct transmission trees for sampled sequences using simple mutational models to construct a likelihood for a specific transmission tree and translate coalescent rates into key epidemiological parameters.
 
     / April, 2020 - MedRxiv
-    let !e self assert = In practice, three types of data could potentially be used in real time to improve predictions by considering secondary case heterogeneity. First, contact tracing data whose objective is to identify people who may have come into contact with an infectious individual. While mostly a preventive measure to identify cases before complications, it directly informs us about potential secondary cases caused by a single individual, and therefore provides us with an estimate for G1(x). Both for generating accurate predictions of epidemic risk and controlling the outbreak, it is vital to begin contact tracing before numerous transmission chains become widely distributed across space.
+    let !g self assert = Third, early incidence data can be leveraged to infer parameters of the secondary case distribution through comparison with simulations. Comparing the output of agent-based simulations with reported incidence can be used to effectively sample a joint posterior distribution over R0 and dispersion parameter k.
 
-    / April, 2020 - MedRxiv
-    let !f self assert = Second, viral genome sequences provide information on both the timing of the outbreak [40] and structure of secondary cases. For example, methods exist to reconstruct transmission trees for sampled sequences using simple mutational models to construct a likelihood for a specific transmission tree [42, 43] and translate coalescent rates into key epidemiological parameters. Despite the potential for genome sequencing to revolutionize outbreak response, the global public health community still struggles to coordinate data sharing across international borders, between academic researchers, and with private companies.
+    # / April, 2020 - MedRxiv
+    # let !h self assert = As for COVID-19, how the width of the confidence interval on our prediction for the final outbreak size mostly stems from uncertainty in the heterogeneity of secondary infections; i.e., the dispersion parameter k. With limited heterogeneity, our predictions would have been closer to classic mass-action forecasts and the current pandemic of COVID-19 would likely have been a consequence of not only R0, but of the homogeneity of secondary infections: each new cases steadily leading to additional infections. Thankfully, with recent large estimates for its heterogeneity, the observed transmission could be mostly maintained by so-called “super-spreading events”, which could be easier to manage with contact tracing, screening and infection control.
 
-    / April, 2020 - MedRxiv
-    let !g self assert = Third, early incidence data can be leveraged to infer parameters of the secondary case distribution through comparison with simulations. Comparing the output of agent-based simulations with reported incidence can be used to effectively sample a joint posterior distribution over R0 and dispersion parameter k. Most importantly, these simulations need not be run over long periods of time to predict final outbreak size. Instead, they only need to be run over enough early data to infer the parameter estimates that are then fed into our network model to compute the final outbreak size.
-
-    / April, 2020 - MedRxiv
-    let !h self assert = As for COVID-19, how the width of the confidence interval on our prediction for the final outbreak size mostly stems from uncertainty in the heterogeneity of secondary infections; i.e., the dispersion parameter k. With limited heterogeneity, our predictions would have been closer to classic mass-action forecasts and the current pandemic of COVID-19 would likely have been a consequence of not only R0, but of the homogeneity of secondary infections: each new cases steadily leading to additional infections. Thankfully, with recent large estimates for its heterogeneity, the observed transmission could be mostly maintained by so-called “super-spreading events”, which could be easier to manage with contact tracing, screening and infection control.
 
 
   # epidemic, rate of transmission, herd immunity, asymptomatic, mitigation, preventive measures: contact tracing, quarantine, Results show that quarantine and contact tracing of symptomatic persons can be effective when the fraction of unidentified persons is low.
   // High Contagiousness and Rapid Spread of Severe Acute Respiratory Syndrome Coronavirus 2
   doi: https://doi.org/10.3201/eid2607.200282
   article 'Sanche_et_al_2020
-    head = We estimated incubation period (4.2 days), a time dependent duration from symptom onset to hospitalization (changing from 5.5 days in early January to 1.5 days in late January), and the time from symptom onset to death (16.1 days). We estimated the growth rate of the early outbreak in Wuhan to be 0.21–0.30 per day (a doubling time of 2.3–3.3 days). Assuming a serial interval of 6–9 days, we calculated a median R0 value of 5.7.
+    head = We estimated incubation period (4.2 days). Results show that the doubling time early in the epidemic in Wuhan was 2.3-3.3 days. Assuming a serial interval of 6-9 days, we calculated a median R0 value of 5.7. We further show that active surveillance, contact tracing, quarantine, and early strong social distancing efforts are needed to stop transmission of the virus.
 
     >>> Abstract
       Severe acute respiratory syndrome coronavirus 2 is the causative agent of the 2019 novel coronavirus disease pandemic. Initial estimates of the early dynamics of the outbreak in Wuhan, China, suggested a doubling time of the number of infected persons of 6–7 days and a basic reproductive number (R0) of 2.2–2.7. We collected extensive individual case reports across China and estimated key epidemiologic parameters, including the incubation period. We then designed 2 mathematical modeling approaches to infer the outbreak dynamics in Wuhan by using high-resolution domestic travel and infection data. Results show that the doubling time early in the epidemic in Wuhan was 2.3–3.3 days. Assuming a serial interval of 6–9 days, we calculated a median R0 value of 5.7 (95% CI 3.8–8.9). We further show that active surveillance, contact tracing, quarantine, and early strong social distancing efforts are needed to stop transmission of the virus.
@@ -2435,7 +2427,6 @@ feed April2020
       !d
       !e
       !f
-      !g
 
     / April, 2020 - Emerging Infectious Diseases
     let !a self assert = Our estimate of the time from initial exposure to symptom onset (i.e., the incubation period) is 4.2 days (95% CI 3.5–5.1 days). The time from symptom onset to hospitalization showed evidence of time dependence. Before January 18, the time from symptom onset to hospitalization was 5.5 days (95% CI 4.6–6.6 days), whereas after January 18, the duration shortened significantly to 1.5 days (95% CI 1.2–1.9 days).
@@ -2450,13 +2441,13 @@ feed April2020
     let !d self assert = We found R0 is likely to be 5.7 given our current state of knowledge, with a broad 95% CI (3.8–8.9). Among many factors, the lack of awareness of this new pathogen and the Lunar New Year travel and gathering in early and mid-January 2020 might or might not play a role in the high R0.
 
     / April, 2020 - Emerging Infectious Diseases
-    let !e self assert = The R0 values we estimated have important implications for predicting the effects of pharmaceutical and nonpharmaceutical interventions. For example, the threshold for combined vaccine efficacy and herd immunity needed for disease extinction is calculated as 1 – 1/R0. At R0 = 2.2, this threshold is only 55%. But at R0 = 5.7, this threshold rises to 82% (i.e., >82% of the population has to be immune, through either vaccination or prior infection, to achieve herd immunity to stop transmission).
+    let !e self assert = The threshold for combined vaccine efficacy and herd immunity needed for disease extinction is calculated as 1 – 1/R0. At R0 = 2.2, this threshold is only 55%. But at R0 = 5.7, this threshold rises to 82% (i.e., >82% of the population has to be immune, through either vaccination or prior infection, to achieve herd immunity to stop transmission).
 
     / April, 2020 - Emerging Infectious Diseases
     let !f self assert = Results show that quarantine and contact tracing of symptomatic persons can be effective when the fraction of unidentified persons is low. However, when 20% of transmission is driven by unidentified infected persons, high levels of social distancing efforts will be needed to contain the virus, highlighting the importance of early and effective surveillance, contact tracing, and quarantine.
 
-    / April, 2020 - Emerging Infectious Diseases
-    let !g self assert = Future field, laboratory, and modeling studies aimed to address the unknowns, such as the fraction of asymptomatic persons, the extent of their transmissibility depending on symptom severity, the time when persons become infectious, and the existence of superspreaders are needed to accurately predict the impact of various control strategies.
+    # / April, 2020 - Emerging Infectious Diseases
+    # let !g self assert = Future field, laboratory, and modeling studies aimed to address the unknowns, such as the fraction of asymptomatic persons, the extent of their transmissibility depending on symptom severity, the time when persons become infectious, and the existence of superspreaders are needed to accurately predict the impact of various control strategies.
 
 
   # Self-isolation, quarantining, and other social-distancing- related to slow spread, early spread in UK, kids, females, geographical distribution of clades, pandemic, transmission, Haplotype analysis of the contact tracing network
@@ -2548,7 +2539,7 @@ feed April2020
   // Household Secondary Attack Rate of COVID-19 and Associated Determinants
   doi: https://doi.org/10.1101/2020.04.11.20056010
   article 'Jing_et_al_2020
-    head =  SARS-CoV-2 is more transmissible in households than SARS-CoV and MERS-CoV, and the elderly ≥60 years old are the most vulnerable to household transmission.
+    head = SARS-CoV-2 is more transmissible in households than SARS-CoV and MERS-CoV, and the elderly ≥60 years old are the most vulnerable to household transmission. Case finding and isolation alone may be inadequate to contain the pandemic and need to be used in conjunction with heightened restriction of human movement as implemented in Guangzhou.
 
     >>> Background
       As of April 2, 2020, the global reported number of COVID-19 cases has crossed over 1 million with more than 55,000 deaths. The household transmissibility of SARS-CoV-2, the causative pathogen, remains elusive.
@@ -2563,63 +2554,59 @@ feed April2020
       SARS-CoV-2 is more transmissible in households than SARS-CoV and MERS-CoV, and the elderly ≥60 years old are the most vulnerable to household transmission. Case finding and isolation alone may be inadequate to contain the pandemic and need to be used in conjunction with heightened restriction of human movement as implemented in Guangzhou.
 
     -- exports
-      !a
       !b
-      !c
-      !d
       !e
-      !f
-      !g
       !h
-      !i
-      !j
-      !k
       !k1
       !l
 
+    # / April, 2020 - MedRxiv
+    # let !a self assert = A total of 195 unrelated clusters with 212 primary cases, 137 nonprimary (secondary or tertiary) cases and 1938 uninfected close contacts were traced. We estimated the household SAR to be 13.8% (95% CI: 11.1-17.0%) if household contacts are defined as all close relatives and 19.3% (95% CI: 15.5-23.9%) if household contacts only include those at the same residential address as the cases, assuming a mean incubation period of 4 days and a maximum infectious period of 13 days.
+
+    # Secondary attack rate
     / April, 2020 - MedRxiv
-    let !a self assert =  A total of 195 unrelated clusters with 212 primary cases, 137 nonprimary (secondary or tertiary) cases and 1938 uninfected close contacts were traced. We estimated the household SAR to be 13.8% (95% CI: 11.1-17.0%) if household contacts are defined as all close relatives and 19.3% (95% CI: 15.5-23.9%) if household contacts only include those at the same residential address as the cases, assuming a mean incubation period of 4 days and a maximum infectious period of 13 days.
+    let !b self assert = Within households, the non-primary attack rate was much lower in contacts <20 years group, 5.26%, as compared to 13.72% and 17.69% in 20-59 year olds and ≥60 year olds, respectively. A similar age trend was observed among non-household contacts, but the differences were not of statistical significance. There was no gender difference in the non-primary attack rates, for both inside and outside the household.
+
+    # / April, 2020 - MedRxiv
+    # let !c self assert = The overall non-primary attack rates are 12.6% and 3.06% among household and nonhousehold contacts, respectively.
+
+    # / April, 2020 - MedRxiv
+    # let !d self assert = Most cases were found in the densely populated districts (56% of the total population in Guangzhou) including Yuexiu, Liwan, Haizhu, Tianhe and Baiyun. Three clusters with 5 or more secondary cases (not counting tertiary or further generations) were observed, one in each of Yuexiu, Haizhu and Baiyun districts, and all primary cases in these clusters were imported. The longest transmission chain had three subsequent generations from the primary case, which occurred in Panyu district. Five other clusters had two subsequent generations. The reported residential locations of primary and nonprimary cases within the same clusters are mostly identical, but non-household non-primary cases might live far from the primary cases. Most transmissions occurred between household members
 
     / April, 2020 - MedRxiv
-    let !b self assert = Within households, the non-primary attack rate was much lower in contacts <20 years group, 5.26% (95% CI 2.43, 9.76%), as compared to 13.72% (95% CI 10.68, 17.24%) and 17.69% (95% CI: 11.89, 24.83%) in 20-59 year olds and ≥60 year olds, respectively (p-values <0.005). A similar age trend was observed among non-household contacts, but the differences were not of statistical significance.There was no gender difference in the non-primary attack rates, for both inside and outside the household.
+    let !e self assert = COVID-19 cases were at least as infectious during their incubation period as during their illness. On average, a COVID-19 case infected 0.48 close contacts. Had isolation not been implemented, this number increases to 0.62. The effective reproductive number in Guangzhou dropped from above 1 to below 0.5 in about 1 week.
 
-    / April, 2020 - MedRxiv
-    let !c self assert = The overall non-primary attack rates are 12.6% and 3.06% among household and nonhousehold contacts, respectively.
+    # / April, 2020 - MedRxiv
+    # let !f self assert = When household contact is defined based on close relatives, we estimate the household SAR as 13.8% (95% CI: 11.1-17.0%) and the non-household SAR as 7.1% (95% CI: 4.7-10.6%), had there been no case isolation. A longer incubation periods is associated with a slightly lower, whereas a longer infectious period is associated with a slightly higher, SAR estimate. The household SAR varies from 12% to 17%, and the non-household SAR varied from 6% to 9%.
 
-    / April, 2020 - MedRxiv
-    let !d self assert = Most cases were found in the densely populated districts (56% of the total population in Guangzhou) including Yuexiu, Liwan, Haizhu, Tianhe and Baiyun. Three clusters with 5 or more secondary cases (not counting tertiary or further generations) were observed, one in each of Yuexiu, Haizhu and Baiyun districts, and all primary cases in these clusters were imported. The longest transmission chain had three subsequent generations from the primary case, which occurred in Panyu district. Five other clusters had two subsequent generations. The reported residential locations of primary and nonprimary cases within the same clusters are mostly identical, but non-household non-primary cases might live far from the primary cases. Most transmissions occurred between household members
-
-    / April, 2020 - MedRxiv
-    let !e self assert = COVID-19 cases were at least as infectious during their incubation period as during their illness. On average, a COVID-19 case infected 0.48 (95% CI: 0.39-0.58) close contacts. Had isolation not been implemented, this number increases to 0.62 (95% CI: 0.51- 0.75). The effective reproductive number in Guangzhou dropped from above 1 to below 0.5 in about 1 week.
-
-    / April, 2020 - MedRxiv
-    let !f self assert = When household contact is defined based on close relatives, we estimate the household SAR as 13.8% (95% CI: 11.1-17.0%) and the non-household SAR as 7.1% (95% CI: 4.7-10.6%), had there been no case isolation. A longer incubation periods is associated with a slightly lower, whereas a longer infectious period is associated with a slightly higher, SAR estimate. The household SAR varies from 12% to 17%, and the non-household SAR varied from 6% to 9%.
-
-    / April, 2020 - MedRxiv
-    let !g self assert = The local R based on observed contact frequencies of primary cases was estimated to be 0.48 (0.39, 0.58), which is insensitive to the setting for the incubation and infectious periods. In other words, a typical case infected 0.48 individuals on average in Guangzhou, implying an inefficient transmission of the disease under the control measures. The projected local R, had there been no quarantine of cases, was estimated as 0.62 (0.51-0.75). High estimates of projected local R were associated with short incubation and longer infectious periods
+    # / April, 2020 - MedRxiv
+    # let !g self assert = The local R based on observed contact frequencies of primary cases was estimated to be 0.48 (0.39, 0.58), which is insensitive to the setting for the incubation and infectious periods. In other words, a typical case infected 0.48 individuals on average in Guangzhou, implying an inefficient transmission of the disease under the control measures. The projected local R, had there been no quarantine of cases, was estimated as 0.62 (0.51-0.75). High estimates of projected local R were associated with short incubation and longer infectious periods.
 
     / April, 2020 - MedRxiv
     let !h self assert = The daily transmission probability during the incubation period tends to be similar to that during the illness period, with an estimated odds ratio (OR) of 1.13 (0.59-2.18); however, the difference is much wider when longer incubation periods were assumed.
 
-    / April, 2020 - MedRxiv
-    let !i self assert = Individuals ≥60 years old were the most susceptible group to COVID-19. In comparison to the elderly group (≥60 years old), the odds of infection is 0.27 (0.13-0.55) in the youngest group (<20 years old) and 0.8 (95% CI: 0.54-1.20) in the younger adult group (20-59 years old). These age effects on susceptibility are insensitive to the assumptions about the natural history of disease. Cases <60 years old were slightly less infectious than those ≥60 years old, with ORs varying in the range of 0.73- 0.79 but not significantly different.
+    # / April, 2020 - MedRxiv
+    # let !i self assert = Individuals ≥60 years old were the most susceptible group to COVID-19. In comparison to the elderly group (≥60 years old), the odds of infection is 0.27 (0.13-0.55) in the youngest group (<20 years old) and 0.8 (95% CI: 0.54-1.20) in the younger adult group (20-59 years old). These age effects on susceptibility are insensitive to the assumptions about the natural history of disease. Cases <60 years old were slightly less infectious than those ≥60 years old, with ORs varying in the range of 0.73- 0.79 but not significantly different.
 
-    / April, 2020 - MedRxiv
-    let !j self assert = Restricting household contacts to those who were living at the same address as the primary case led to higher SAR estimates among household contacts, 16.4-23.4%, but lower SAR estimates among the non-household contacts under the various settings of the natural history of disease. Under the setting of the shortest incubation and infectious periods, the SAR was estimated as 19.3% (95% CI: 15.51-23.86%). The age effects and the relative infectivity of the illness period vs. the incubation period remained qualitatively similar.
+    # / April, 2020 - MedRxiv
+    # let !j self assert = Restricting household contacts to those who were living at the same address as the primary case led to higher SAR estimates among household contacts, 16.4-23.4%, but lower SAR estimates among the non-household contacts under the various settings of the natural history of disease. Under the setting of the shortest incubation and infectious periods, the SAR was estimated as 19.3% (95% CI: 15.51-23.86%). The age effects and the relative infectivity of the illness period vs. the incubation period remained qualitatively similar.
 
-    / April, 2020 - MedRxiv
-    let !k self assert = We are the first to quantify the infectivity of COVID-19 patients during their incubation period using contact-tracing data, but qualitative evidence has been noted before. In our unpublished analysis of a separate dataset of case clusters in China, the mean serial interval (time between symptom onsets of a primary and a secondary  case) was shorter than the mean incubation period, suggesting that infectivity during the incubation period is not trivial. This finding has a profound implication on prevention and control strategies, e.g., the necessity of testing asymptomatic close contacts of COVID-19 cases, and the importance of wearing facial mask regardless of symptoms in order to curb the pandemic.
+    # / April, 2020 - MedRxiv
+    # let !k self assert = In our unpublished analysis of a separate dataset of case clusters in China, the mean serial interval (time between symptom onsets of a primary and a secondary  case) was shorter than the mean incubation period, suggesting that infectivity during the incubation period is not trivial. This finding has a profound implication on prevention and control strategies, e.g., the necessity of testing asymptomatic close contacts of COVID-19 cases, and the importance of wearing facial mask regardless of symptoms in order to curb the pandemic.
+
     / Infectivity from asymptomatic carriers is not trivial
     let !k1 self assert = Data indicates that infectivity during the incubation period is not trivial, which in turn implies the necessity of testing asymptomatic close contacts of COVID-19 cases, and the importance of wearing facial mask regardless of symptoms in order to curb the pandemic.
+
     / April, 2020 - MedRxiv
-    let !l self assert = We estimated the local reproductive number to be relatively low, around 0.48, which is consistent with the average level of. We projected that, without isolation of cases and their contacts, the local reproductive number would have been about 30% higher to reach 0.62 in our primary analysis setting. This moderate effect of isolation is partly due to high infectivity during the incubation period, that is, many secondary cases had been infected before or shortly after the symptom onset of the primary cases before the primary cases were identified and isolated. This observation also implies that the low reproductive number in Guangzhou possibly resulted more from policies restricting human movement, limiting the number of contacts of COVID-19 cases during their entire infectious period including the incubation period, than from the detection and isolation of cases and close contacts.
+    let !l self assert = Low reproductive number in Guangzhou possibly resulted more from policies restricting human movement, limiting the number of contacts of COVID-19 cases during their entire infectious period including the incubation period, than from the detection and isolation of cases and close contacts.
+
 
 
   # epidemic or pandemic?, asymptomatic, contact tracing and lockdown, non pharmaceutical interventions, kids
   // Suppression of COVID-19 outbreak in the municipality of Vo, Italy
   doi: https://doi.org/10.1101/2020.04.17.20053157
   article 'Lavezzo_et_al_04_18_2020
-    head = 42.5% of all confirmed SARS-CoV-2 infections across the two surveys were asymptomatic. Our study sheds light on frequency of asymptomatic SARS-CoV-2 infection and their infectivity and provides new insights into its transmission dynamics, the duration of viral load detectability and the efficacy of the implemented control measures.
+    head = 42.5% of all confirmed SARS-CoV-2 infections across the two surveys were asymptomatic. Our study sheds new light on the frequency of asymptomatic SARS-CoV-2 infection and their infectivity (as measured by the viral load) and provides new insights into its transmission dynamics, the duration of viral load detectability and demonstrates that combining early active case detection and social distancing the transmission of SARS-CoV-2 was effectively suppressed in Vo.
 
     >>> Abstract
       On the 21st of February 2020 a resident of the municipality of Vo, a small town near Padua, died of pneumonia due to SARS-CoV-2 infection. This was the first COVID-19 death detected in Italy since the emergence of SARS-CoV-2 in the Chinese city of Wuhan, Hubei province. In response, the regional authorities imposed the lockdown of the whole municipality for 14 days. We collected information on the demography, clinical presentation, hospitalization, contact network and presence of SARS-CoV-2 infection in nasopharyngeal swabs for 85.9% and 71.5% of the population of Vo at two consecutive time points. On the first survey, which was conducted around the time the town lockdown started, we found a prevalence of infection of 2.6% (95% confidence interval (CI) 2.1-3.3%). On the second survey, which was conducted at the end of the lockdown, we found a prevalence of 1.2% (95% CI 0.8-1.8%). Notably, 43.2% (95% CI 32.2-54.7%) of the confirmed SARS-CoV-2 infections detected across the two surveys were asymptomatic. The mean serial interval was 6.9 days (95% CI 2.6-13.4). We found no statistically significant difference in the viral load (as measured by genome equivalents inferred from cycle threshold data) of symptomatic versus asymptomatic infections (p-values 0.6 and 0.2 for E and RdRp genes, respectively, Exact Wilcoxon-Mann-Whitney test). Contact tracing of the newly infected cases and transmission chain reconstruction revealed that most new infections in the second survey were infected in the community before the lockdown or from asymptomatic infections living in the same household. This study sheds new light on the frequency of asymptomatic SARS-CoV-2 infection and their infectivity (as measured by the viral load) and provides new insights into its transmission dynamics, the duration of viral load detectability and the efficacy of the implemented control measures.
@@ -2630,8 +2617,8 @@ feed April2020
       !c
       !d
       !e
-      !f
-      !g
+      !h
+      !i
 
     / April, 2020 - MedRxiv
     let !a self assert = On the first survey, which was conducted around the time the town lockdown started, we found a prevalence of infection of 2.6% (95% confidence interval (CI) 2.1-3.3%). On the second survey, which was conducted at the end of the lockdown, we found a prevalence of 1.2% (95% CI 0.8-1.8%).
@@ -2646,13 +2633,20 @@ feed April2020
     let !d self assert = We found that none of the children who took part in the study tested positive for SARS-CoV-2 infection at either survey had a positive swab, despite at least 13 of them living together with infected family members. This is particularly intriguing in the light of the very high observed odd ratio for adults to become infected when living together with SARS-CoV-2 positive family members. However, this result does not mean that children cannot be infected by SARS-CoV-2.
 
     / April, 2020 - MedRxiv
-    let !e self assert = The analysis of the contacts of the 8 new infections identified in the second survey, where we found that one had a history of close contact with asymptomatic individuals and two lived in the same household with asymptomatic relatives, suggests that asymptomatic infections can transmit the virus. The observation that the viral load (as measured by genome equivalents inferred from cycle threshold data) in asymptomatic infections does not significantly differ from that of symptomatic infections (p values 0.6 and 0.2 for E and RdRp genes, respectively, Exact Wilcoxon-Mann-Whitney test) further corroborates this hypothesis and the high frequency of asymptomatic infection detected across the surveys poses clear challenges for the control of COVID-19 in the absence of strict social distancing measures.
+    let !e self assert = The analysis of the contacts of the 8 new infections identified in the second survey, where we found that one had a history of close contact with asymptomatic individuals and two lived in the same household with asymptomatic relatives, suggests that asymptomatic infections can transmit the virus.
+
+    # / April, 2020 - MedRxiv
+    # let !f self assert = Analysis of the transmission chains showed that clusters of infection occurred in the early phases of the epidemic and produced initial estimates of the effective reproduction number of mean 3.0 (95% CI 2.5-3.5). Contact tracing of the newly infected cases and transmission chain reconstruction also revealed that most new infections in the second survey were infected in the community before the lockdown or from asymptomatic infections living in the same household.
+
+    # / April, 2020 - MedRxiv
+    # let !g self assert = Our results suggest that average durations of virus detectability in swabs between 4 and 8 days match more closely the observed prevalence of infection than longer durations). This estimate is consistent with the observed distribution of the time from symptoms onset to confirmation which has mean 5.7 days (95% CI 1.6 – 12.3). The mean serial interval was 6.9 days (95% CI 2.6-13.4).
 
     / April, 2020 - MedRxiv
-    let !f self assert = Analysis of the transmission chains showed that clusters of infection occurred in the early phases of the epidemic and produced initial estimates of the effective reproduction number of mean 3.0 (95% CI 2.5-3.5). Contact tracing of the newly infected cases and transmission chain reconstruction also revealed that most new infections in the second survey were infected in the community before the lockdown or from asymptomatic infections living in the same household.
+    let !h self assert = The observation that the viral load (as measured by genome equivalents inferred from cycle threshold data) in asymptomatic infections does not significantly differ from that of symptomatic infections (p values 0.6 and 0.2 for E and RdRp genes, respectively) further corroborates this hypothesis and the high frequency of asymptomatic infection detected across the surveys poses clear challenges for the control of COVID-19 in the absence of strict social distancing measures.
 
     / April, 2020 - MedRxiv
-    let !g self assert = Our results suggest that average durations of virus detectability in swabs between 4 and 8 days match more closely the observed prevalence of infection than longer durations). This estimate is consistent with the observed distribution of the time from symptoms onset to confirmation which has mean 5.7 days (95% CI 1.6 – 12.3). The mean serial interval was 6.9 days (95% CI 2.6-13.4).
+    let !i self assert = At least 4.4% (95% CrI 3.6-5.3%) of the population of Vo’ was exposed to SARS-CoV-2
+
 
 
   # Tag - Asymtomatic, presymptomatic, PregnantWomen, Frontiers, Pregnancy, Estrogen, Endocrine-related targets may drive treatments, androgen-driven TMPRSS2 expression among men may explain the sex discrepancy, Supportive evidence for estrogen continues to mount from women tested at childbirth, Estrogen receptor agonists- We need clinical trials for these in COVID19. These downregulate a protease critical for entry & replication of SARS-CoV-2 -- TMPRSS2, no death in pregnant woman
@@ -2940,7 +2934,7 @@ feed April2020
   // Impact assessment of non-pharmaceutical interventions against coronavirus disease 2019 and influenza in Hong Kong: an observational study
   doi: https://doi.org/10.1016/S2468-2667(20)30090-6
   article 'Cowling_et_al_2020
-    head = Our findings suggest that the package of public health interventions (including border entry restrictions, quarantine and isolation of cases and contacts, and population behaviour changes, such as social distancing and personal protective measures) that Hong Kong has implemented since late January, 2020, is associated with reduced spread of COVID-19.
+    head = Non-pharmaceutical interventions (including border restrictions, quarantine and isolation, social distancing, and changes in population behaviour) were associated with reduced transmission of COVID-19 in Hong Kong, and are also likely to have substantially reduced influenza transmission in early February, 2020.
 
     >>> Background
       A range of public health measures have been implemented to suppress local transmission of coronavirus disease 2019 (COVID-19) in Hong Kong. We examined the effect of these interventions and behavioural changes of the public on the incidence of COVID-19, as well as on influenza virus infections, which might share some aspects of transmission dynamics with COVID-19.
@@ -2956,21 +2950,13 @@ feed April2020
 
     -- exports
       !a
-      !b
-      !c
-      !d
 
     / April, 2020 - The Lancet
-    let !a self assert = Our findings strongly suggest that social distancing and population behavioural changes—that have a social and economic impact that is less disruptive than total lockdown—can meaningfully control COVID-19.
+    let !a self assert = Without a strengthening of social distancing measures, local infections are likely to continue to occur, given that the effective reproduction number is approximately 1 or slightly higher than 1. Travel measures and testing, tracing, and treating efforts are particularly important in maintaining suppression, although these measures will be increasingly difficult to implement as case numbers increase.
 
-    / April, 2020 - The Lancet
-    let !b self assert = Without a strengthening of social distancing measures, local infections are likely to continue to occur, given that the effective reproduction number is approximately 1 or slightly higher than 1. Travel measures and testing, tracing, and treating efforts are particularly important in maintaining suppression, although these measures will be increasingly difficult to implement as case numbers increase.
+    # / April, 2020 - The Lancet
+    # let !b self assert = The estimated 44% reduction in influenza transmission in the general community in February, 2020, was much greater than the estimated 10–15% reduction in transmission associated with school closures alone during the 2009 pandemic, and the 16% reduction in transmission of influenza B associated with school closures during the 2017–18 winter in Hong Kong. We therefore estimate that the other social distancing measures and avoidance behaviours have had a  substantial effect on influenza transmission in addition to the effect of school closures.
 
-    / April, 2020 - The Lancet
-    let !c self assert = In addition to the identification of cases with isolation, contact tracing, and quarantine, social distancing has also likely played an important role in suppressing transmission.
-
-    / April, 2020 - The Lancet
-    let !d self assert = The estimated 44% reduction in influenza transmission in the general community in February, 2020, was much greater than the estimated 10–15% reduction in transmission associated with school closures alone during the 2009 pandemic,18 and the 16% reduction in transmission of influenza B associated with school closures during the 2017–18 winter in Hong Kong.
 
 
   # Frontiers - Cytokine Storm
@@ -3103,17 +3089,16 @@ feed April2020
 
     -- exports
       !a
-      !b
-      !c
+
 
     / April, 2020 - Quantitative Biology
     let !a self assert = We also find that to be successful, age-targeted mitigations may have to be strict. Our scenarios modeling moderate mitigations on the restricted group fare quite poorly.
 
-    / April, 2020 - Quantitative Biology
-    let !b self assert = We also find that if only moderate mitigations are possible on the population subject to mitigations, then the discrete set of age-targeted mitigations we considered fared poorly.
+    # / April, 2020 - Quantitative Biology
+    # let !b self assert = We also find that if only moderate mitigations are possible on the population subject to mitigations, then the discrete set of age-targeted mitigations we considered fared poorly.
 
-    / April, 2020 - Quantitative Biology
-    let !c self assert = We view our modeling as demonstrating a qualitative point: strict age-targeted mitigations can have a powerful effect on mortality and ICU utilization. We expect that public policy motivated by this kind of finding would have to be responsive; for example, by relaxing restrictions on larger and large groups conservatively, while monitoring the progress of the epidemic.
+    # / April, 2020 - Quantitative Biology
+    # let !c self assert = We view our modeling as demonstrating a qualitative point: strict age-targeted mitigations can have a powerful effect on mortality and ICU utilization. We expect that public policy motivated by this kind of finding would have to be responsive; for example, by relaxing restrictions on larger and large groups conservatively, while monitoring the progress of the epidemic.
 
 
   # ConvalescentPlasma
@@ -3347,26 +3332,22 @@ feed April2020
     let !c self assert = The rapid test was substantially inferior to the RT-qPCR testing and should therefore neither be used for individual risk assessment nor for decisions on public health measures. As there is an urgent need for a sufficient rapid testing system for SARS-CoV-2, an antigen-based system may therefore be more appropriate. We recommend accelerating the development and evaluation of effective point-of-care testing systems.
 
 
-  # Tag - Epidemiological model, Quarantine
+  # Tag - Epidemiological model, Quarantine, DISCUSS WITH AYUSH
   // Quantifying the effect of quarantine control in Covid-19 infectious spread using machine learning
   doi: https://doi.org/10.1101/2020.04.03.20052084
   article 'Dandekar_et_al_2020
-    head = The results show a generally strong correlation between strengthening of the quarantine controls, i.e. increasing Q(t) as learnt by the neural network model; actions taken by the regions’ respective governments; and decrease of the effective reproduction number Rt.
+    head = We focus our analysis on four locales: Wuhan, Italy, South Korea and the United States of America, and compare the role played by the quarantine and isolation measures. The countries in which rapid government interventions and strict public health measures for quarantine and isolation were implemented were successful in halting the spread of infection and prevent it from exploding exponentially.
 
-    -- exports
-      !a
-      !b
-      !c
-      !d
-      !e
-      !f
-      !g
-
-    / April, 2020 - medRxiv
-    let !a self assert = A comparative analysis of the quarantine strength function Q(t) learned by the neural network for different countries reveals that Wuhan had the highest magnitude and South Korea had the highest growth rate of Q(t). This can be attributed to the stringent government interventions and strict public health measures including immediate isolation and quarantine impositions in Wuhan and South Korea. This eventually resulted in the halting of infection spread and a corresponding Rt < 1 within a month for Wuhan (Figure 2c) and within 20 days for South Korea (figure 6c) after the first signs of a pandemic were recognized.
+    # -- exports
+    #   !a
+    #   !c
+    #   !d
+    #   !e
+    #   !f
+    #   !g
 
     / April, 2020 - medRxiv
-    let !b self assert = A comparative analysis of the quarantine strength function Q(t) learned by the neural network for different countries reveals that Wuhan had the highest magnitude and South Korea had the highest growth rate of Q(t). This can be attributed to the stringent government interventions and strict public health measures including immediate isolation and quarantine impositions in Wuhan and South Korea. This eventually resulted in the halting of infection spread and a corresponding Rt < 1 within a month for Wuhan (Figure 2c) and within 20 days for South Korea (figure 6c) after the first signs of a pandemic were recognized.
+    let !a self assert = A comparative analysis of the quarantine strength function Q(t) learned by the neural network for different countries reveals that Wuhan had the highest magnitude and South Korea had the highest growth rate of Q(t). This can be attributed to the stringent government interventions and strict public health measures including immediate isolation and quarantine impositions in Wuhan and South Korea. This eventually resulted in the halting of infection spread and a corresponding Rt < 1 within a month for Wuhan and within 20 days for South Korea (figure 6c) after the first signs of a pandemic were recognized.
 
     / April, 2020 - medRxiv
     let !c self assert = It is reported that the infected case count stagnated nation-wide in China by the beginning of March (Cyranoski 2020) and in South Korea by the end of March (Fisher & Sang-Hun 2020); which eventually led to a stagnation in the quarantine interventions employed in these countries. This is in general qualitative agreement with our forecasting results which show a plateau in Q(t) and Rt at Rt < 1.
@@ -3378,10 +3359,11 @@ feed April2020
     let !e self assert = Owing to the relaxed quarantine and isolation policies in the US in its initial stages post the infection spread, our model converges to Q(t) ≈ 0.4 − 0.6  which is the smallest compared to other regions. Even though the effective Rt is still greater than 1 as of April 1 2020, its growth has started to show a decreasing trend and we expect the infection to start showing stagnation with Rt < 1 by 20 April 2020 if the current US policies continue without change. At its peak, we forecast the infected count to reach approximately 600,000 before stagnation, again assuming no change in US policies.
 
     / April, 2020 - medRxiv
-    let !f self assert = Our mixed model analysis for USA, employing Q(t) learnt from the models of Wuhan, Italy and South Korea in the USA model starting from 1 April 2020, reveals that stronger quarantine policies might lead to an accelerated plateauing in the infected case count, as shown in Figure 10a, and subsequently smaller infected case count.
+    let !f self assert = Our mixed model analysis for USA, employing Q(t) learnt from the models of Wuhan, Italy and South Korea in the USA model starting from 1 April 2020, reveals that stronger quarantine policies might lead to an accelerated plateauing in the infected case count, and subsequently smaller infected case count.
 
     / April, 2020 - medRxiv
-    let !g self assert = On the other hand,in agreement with National Institute of Allergy and Infectious Diseases estimates (Miller 2020), we forecast that relaxing or abandoning the quarantine policies gradually over the period of the next 17 days may well lead to ∼ 1 million infections without any stagnation in the infected case count by mid April 2020.
+    let !g self assert = We forecast that relaxing or abandoning the quarantine policies gradually over the period of the next 17 days may well lead to ∼ 1 million infections without any stagnation in the infected case count by mid April 2020.
+
 
 
   # Tag - Reinfection, Testing, shedding
@@ -3508,7 +3490,7 @@ feed April2020
   // SARS-CoV-2 in wastewater: potential health risk, but also data source
   doi: https://doi.org/10.1016/S2468-1253(20)30087-X
   article 'Lodder_et_al_2020
-    head = Since the first publications reporting the detection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in faeces, it became clear that human wastewater might contain the novel coronavirus. Our findings indicate that wastewater could be a sensitive surveillance system and early warning tool, as was previously shown for poliovirus.To our knowledge, this detection in the Netherlands is the first report of SARS-CoV-2 in wastewater.
+    head = Our findings indicate that wastewater could be a sensitive surveillance system and early warning tool, as was previously shown for poliovirus. To our knowledge, this detection in the Netherlands is the first report of SARS-CoV-2 in wastewater.
 
     -- exports
       !a
