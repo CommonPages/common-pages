@@ -74,3 +74,17 @@ subject module TransMechanism
     --
       'Sun_et_al_2020
       'Chen_et_al_2020b
+
+  # To read
+    # 'Xiao_et_al_02_20_2020	Recognition of aerosol transmission of infectious agents: a commentary. 
+    # 'Bourouiba_et_al_04_25_2004	Violent expiratory events: on coughing and sneezing.
+    # 'Duguid_et_al_05_15_2009
+    # 'Tang_et_al_08_17_2006
+    # 'Anfinrud_et_al_04_15_2020
+    # 'Gralton_et_al_08_19_2013
+    # 'Sonkin_et_al_05_01_1951 (Viral Load)
+    # 'Anderson_et_al_05_01_2020	Consideration of the Aerosol Transmission for COVID‐19 and Public Health.
+    # 'Echternach_et_al_07_24_2020	Impulse dispersion of aerosols during singing and speaking
+    # 'Chen_et_al_08_01_2020	Short-range airborne route dominates exposure of respiratory infection during close contact
+    # 'Ma_et_al_06_02_2020	Exhaled breath is a significant source of SARS-CoV-2 emission
+    # 'Casanova_et_al_04_21_2020	Effects of air temperature and relative humidity on coronavirus survival on surfaces (optional)

@@ -56,6 +56,9 @@ subject module Settings
         'Tariq_et_al_02_20_2020
         'Shim_et_al_03_17_2020
         'Zhao_et_al_06_03_2020
+      --
+        HouseholdLocation
+        MultiusePublicPlace
 
       / Household Location
       subject HouseholdLocation
@@ -103,8 +106,8 @@ subject module Settings
       / Multiuse Public Place
       subject MultiusePublicPlace
         head =
-        --
-          'Kang_et_al_07_07_2020
+        # --
+        #   'Kang_et_al_07_07_2020
 
         / Hospital
         subject HospitalNosocomial

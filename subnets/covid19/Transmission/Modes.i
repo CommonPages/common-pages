@@ -16,6 +16,8 @@ subject module Modes
     / Person to Person
     subject module Persontoperson
       head = Person to Person
+      # -- Processed papers
+
       -- Latest papers on person to person
         'Zheng_et_al_03_14_2020
         'Liu_et_al_03_12_2020
@@ -259,9 +261,8 @@ subject module Modes
       MucousContact
       Fecal
 
-    / Different Surfaces can carry active virus
     subject Fomites
-      head =
+      head = Different Surfaces can carry active virus
       -- Neutral (later refine)
         'van_Doremalen_et_al_2020
         'van_Doremalen_et_al_2020.!b
