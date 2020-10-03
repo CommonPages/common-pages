@@ -6,7 +6,7 @@ feed August2020
 
   #
 
-  # Why Face Mask 
+  # Why Face Mask, efficacy, model,
   // Mask or no mask for COVID-19: A public health and market study
   doi: https://doi.org/10.1371/journal.pone.0237691
   ref 'Li_et_al_08_14_2020
@@ -36,7 +36,7 @@ feed August2020
     / August, 2020 - Plos One
     let !a self assert =
 
-  # Mask Filters - New method for developing mask
+  # Mask Filters, design, New method for developing mask
   // Salt coatings functionalize inert membranes into high-performing filters against infectious respiratory diseases
   doi: https://doi.org/10.1038/s41598-020-70623-9
   ref 'Rubino_et_al_08_17_2020
@@ -51,7 +51,7 @@ feed August2020
     / August, 2020 - Scientific Reports
     let !a self assert =
 
-  # Mask while Coughing and Sneezing
+  # facemask, efficacy, surgical mask, n95 mask, Coughing and Sneezing
   // Universal trends in human cough airflows at large distances
   doi: https://doi.org/10.1063/5.0021666
   ref 'Simha_et_al_08_25_2020
@@ -68,7 +68,7 @@ feed August2020
     let !a self assert =  Long sleeve that covers the elbow substantially reduces the ejection of the cough airflow into the environment compared to coughing into a bare elbow.
 
 
-  # Side Effects of Facemask while Exercising
+  # risks, Facemask, Exercising
   // COVID-19: Electrophysiological mechanisms underlying sudden cardiac death during exercise with facemasks
   doi: https://doi.org/10.1016/j.mehy.2020.110177
   ref 'Lee_et_al_08_11_2020
@@ -81,7 +81,7 @@ feed August2020
     / August, 2020 - Medical Hypotheses
     let !a self assert =
 
-  # Decontamination of Mask
+  # Decontamination of Mask, reuse,
   // Microwave- and Heat-Based Decontamination of N95 Filtering Facepiece Respirators: A Systematic Review
   doi: https://doi.org/10.1016/j.jhin.2020.08.016
   ref 'Gertsman_et_al_08_22_2020
@@ -102,11 +102,11 @@ feed August2020
     >>> Conclusions
       Microwave irradiation and heat may be safe and effective viral decontamination options for N95 FFR reuse during critical shortages. The evidence does not support autoclaving or high-heat (>90oC) approaches. Physical degradation may be an issue for certain mask models, and more real-world evidence on fit is needed.
 
-    / August, 2020 - Journal of Hospital Infection
-    let !a self assert =
+    / N95 mask reuse
+    let !a self assert = Microwave irradiation and heat may be safe and effective viral decontamination options for N95 FFR reuse during critical shortages. The evidence does not support autoclaving or high-heat (>90oC) approaches. Physical degradation may be an issue for certain mask models, and more real-world evidence on fit is needed.
 
 
-  # Face Mask - Oncology Clinics
+  # Face Mask, Oncology Clinics, risks,
   // Face masks in radiation oncology clinics: based on evidence or source of mistakes?
   doi: https://doi.org/10.1007/s12032-020-01403-8
   ref 'Klement_et_al_08_01_2020

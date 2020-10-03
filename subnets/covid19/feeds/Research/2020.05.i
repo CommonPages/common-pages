@@ -122,7 +122,7 @@ feed May2020
     / May, 2020 - Nature
     let !a self assert =
 
-  # Bio-Based Facemask
+  # Bio-Based, face mask , design,
   // The need for fully bio-based facemasks to counter coronavirus outbreaks: A perspective
   doi: https://doi.org/10.1016/j.scitotenv.2020.139611
   ref 'Das_et_al_05_22_2020
@@ -135,7 +135,7 @@ feed May2020
     let !a self assert =
 
 
-  # Cloth Mask
+  # Cloth Mask, efficacy, aerosols
   // Textile Masks and Surface Covers-A Spray Simulation Method and a "Universal Droplet Reduction Model" Against Respiratory Pandemics
   doi: https://doi.org/10.3389/fmed.2020.00260
   ref 'Palacios_et_al_05_27_2020

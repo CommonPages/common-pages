@@ -366,7 +366,7 @@ feed Pre2019
   -- May, 1948
     'Hamburger_et_al_1948
 
-  # Cloth Mask vs Surgical Mask
+  # Cloth Mask, Surgical Mask, comparison, efficacy
   // Evaluating the efficacy of cloth facemasks in reducing particulate matter exposure
   doi: https://doi.org/10.1038/jes.2016.42
   ref 'Shakaya_et_al_06_17_2016
@@ -381,7 +381,7 @@ feed Pre2019
     / August, 2016 - Journal of exposure science & environmental epidemiology
     let !a self assert =
 
-  #  Leak - Facemask
+  #  Face masks, children, efficacy
   // Smaller facemasks for positive pressure ventilation in preterm infants: A randomised trial
   doi: https://doi.org/10.1016/j.resuscitation.2018.12.005
   ref 'O'Currain_et_al_12_17_2018
@@ -403,9 +403,9 @@ feed Pre2019
       !a
 
     / December, 2018 - Resuscitation
-    let !a self assert =
+    let !a self assert = Even smaller facemasks had high leaks when used with infants.
 
-  # Virus deactivation in Mask
+  # Virus deactivation in Mask, surgical mask, reuse
   // Universal and reusable virus deactivation system for respiratory protection
   doi: https://doi.org/10.1038/srep39956
   ref 'Quan_et_al_01_04_2017

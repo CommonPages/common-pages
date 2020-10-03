@@ -148,7 +148,7 @@ feed April2020
     / April, 2020 - Nature
     let !a self assert = These cells as loci of original infection and possible reservoirs for dissemination within and between individuals.
 
-  # Who should wear Mask - Policy
+  # Who should wear Mask, Policy, 
   // Facemask shortage and the novel coronavirus disease (COVID-19) outbreak: Reflections on public health measures
   doi: https://doi.org/10.1016/j.eclinm.2020.100329
   ref 'Wu_et_al_04_03_2020
@@ -191,8 +191,8 @@ feed April2020
     -- exports
       !a
 
-    / April, 2020 - International Journal of Nursing Studies
-    let !a self assert =
+    / Community mask use is beneficial
+    let !a self assert = The study suggests that community mask use by well people could be beneficial, particularly for COVID-19, where transmission may be pre-symptomatic. The studies of masks as source control also suggest a benefit, and may be important during the COVID-19 pandemic in universal community face mask use as well as in health care settings.
 
 
   # Face Mask
@@ -204,9 +204,21 @@ feed April2020
     >>> Abstract
       Face mask use by the general public for limiting the spread of the COVID-19 pandemic is controversial, though increasingly recommended, and the potential of this intervention is not well understood. We develop a compartmental model for assessing the community-wide impact of mask use by the general, asymptomatic public, a portion of which may be asymptomatically infectious. Model simulations, using data relevant to COVID-19 dynamics in the US states of New York and Washington, suggest that broad adoption of even relatively ineffective face masks may meaningfully reduce community transmission of COVID-19 and decrease peak hospitalizations and deaths. Moreover, mask use decreases the effective transmission rate in nearly linear proportion to the product of mask effectiveness (as a fraction of potentially infectious contacts blocked) and coverage rate (as a fraction of the general population), while the impact on epidemiologic outcomes (death, hospitalizations) is highly nonlinear, indicating masks could synergize with other non-pharmaceutical measures. Notably, masks are found to be useful with respect to both preventing illness in healthy persons and preventing asymptomatic transmission. Hypothetical mask adoption scenarios, for Washington and New York state, suggest that immediate near universal (80%) adoption of moderately (50%) effective masks could prevent on the order of 17–45% of projected deaths over two months in New York, while decreasing the peak daily death rate by 34–58%, absent other changes in epidemic dynamics. Even very weak masks (20% effective) can still be useful if the underlying transmission rate is relatively low or decreasing: In Washington, where baseline transmission is much less intense, 80% adoption of such masks could reduce mortality by 24–65% (and peak deaths 15–69%), compared to 2–9% mortality reduction in New York (peak death reduction 9–18%). Our results suggest use of face masks by the general public is potentially of high value in curtailing community transmission and the burden of the pandemic. The community-wide benefits are likely to be greatest when face masks are used in conjunction with other non-pharmaceutical practices (such as social-distancing), and when adoption is nearly universal (nation-wide) and compliance is high.
 
+    -- exports
+      !a
+      !b
+      !c
+      !d
 
-    / April, 2020 - Infect Dis Model
-    let !a self assert =
+
+    / Masks help reduce community transmission
+    let !a self assert =  Model simulations, using data relevant to COVID-19 dynamics in the US states of New York and Washington, suggest that broad adoption of even relatively ineffective face masks may meaningfully reduce community transmission of COVID-19 and decrease peak hospitalizations and deaths.
+    / Masks can synergize with other non-pharmaceutical measures
+    let !b self assert =  Moreover, mask use decreases the effective transmission rate in nearly linear proportion to the product of mask effectiveness (as a fraction of potentially infectious contacts blocked) and coverage rate (as a fraction of the general population), while the impact on epidemiologic outcomes (death, hospitalizations) is highly nonlinear, indicating masks could synergize with other non-pharmaceutical measures.
+    / Masks are helpful in preventing illness and aymptomatic transmission
+    let !c self assert =  Notably, masks are found to be useful with respect to both preventing illness in healthy persons and preventing asymptomatic transmission.
+    / Best results of masks when used with other measures and high compliance
+    let !d self assert =  The community-wide benefits are likely to be greatest when face masks are used in conjunction with other non-pharmaceutical practices (such as social-distancing), and when adoption is nearly universal (nation-wide) and compliance is high.
 
 
   # 6 Feet rule - Aerosol

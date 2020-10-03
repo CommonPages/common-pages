@@ -142,11 +142,21 @@ feed March2020
   // Rational use of face masks in the COVID-19 pandemic
   doi: https://doi.org/10.1016/S2213-2600(20)30134-X
   ref 'Feng_et_al_03_20_2020
-    head = We compared face mask use recommendations by different health authorities. It is time for governments and public health agencies to make rational recommendations on appropriate face mask use to complement their recommendations on other preventive measures, such as hand hygiene
+    head = We compared face mask use recommendations by different health authorities. It is time for governments and public health agencies to make rational recommendations on appropriate face mask use to complement their recommendations on other preventive measures, such as hand hygiene.
+
+    -- exports
+      !a
+      !b
+      !c
 
 
-    / March, 2020 - The Lancet
-    let !a self assert =
+    / Universal mask usage prevents discrimination
+    let !a self assert = However, there is an essential distinction between absence of evidence and evidence of absence. Evidence that face masks can provide effective protection against respiratory infections in the community is scarce, as acknowledged in recommendations from the UK and Germany. However, face masks are widely used by medical workers as part of droplet precautions when caring for patients with respiratory infections. It would be reasonable to suggest vulnerable individuals avoid crowded areas and use surgical face masks rationally when exposed to high-risk areas. As evidence suggests COVID-19 could be transmitted before symptom onset, community transmission might be reduced if everyone, including people who have been infected but are asymptomatic and contagious, wear face masks.
+    / Universal mask usage prevents discrimination
+    let !c self assert = One advantage of universal use of face masks is that it prevents discrimination of individuals who wear masks when unwell because everybody is wearing a mask.
+    / Mask usage prevents potential asymptomatic or presymptomatic transmission
+    let !b self assert = Perhaps it would also be rational to recommend that people in quarantine wear face masks if they need to leave home for any reason, to prevent potential asymptomatic or presymptomatic transmission.
+
 
   # Hydroxychloroquine
   // COVID-19: a recommendation to examine the effect of hydroxychloroquine in preventing infection and progression

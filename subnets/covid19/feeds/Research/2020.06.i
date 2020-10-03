@@ -71,8 +71,14 @@ feed June2020
     >>> Conclusions
       Surgeons perceived impediment for both visibility and communication, and other non-technical skills while using PPE on emergency surgery in COVID-19 patients. Their perceived lack of protection and comfort and increased fatigue may have inhibited their optimal surgical performance. More attention should be placed in the design of more user-friendly equipment, given the possibility of a second wave of the pandemic.
 
-    / June, 2020 - World J Surg
-    let !a self assert =
+    -- exports
+      !a
+      !b
+
+    / Risks of using PPE during surgery by medical professionals
+    let !a self assert = Surgeons perceived impediment for both visibility and communication, and other non-technical skills while using PPE on emergency surgery in COVID-19 patients. Their perceived lack of protection and comfort and increased fatigue may have inhibited their optimal surgical performance.
+    / Better Design of facemasks should be considered for medical professionals to prevent fatigue
+    let !b self assert = Their perceived lack of protection and comfort and increased fatigue may have inhibited their optimal surgical performance. More attention should be placed in the design of more user-friendly equipment, given the possibility of a second wave of the pandemic.
 
   # Facemask Limitations while Exercising
   // “Exercise with facemask; Are we handling a devil's sword?” – A physiological hypothesis
@@ -86,7 +92,7 @@ feed June2020
     / June, 2020 - Medical Hypotheses
     let !a self assert =
 
-  # Surgical Mask - Aerosol
+  # Surgical Mask, Aerosols,
   // A physicist's approach to COVID-19 transmission via expiratory droplets
   doi: https://doi.org/10.1016/j.mehy.2020.109997
   ref 'Carelli_et_al_06_17_2020
@@ -99,9 +105,10 @@ feed June2020
       !a
 
     / June, 2020 - Medical Hypotheses
-    let !a self assert =
+    let !a self assert = The intermediate dimensioned droplets are proved to be changed into aerosol, losing their water content and becoming seriously contagious, but in their initial phase they could be easily caught by a simple surgical mask. The actual efficiency of FFP3 masks has been examined and found to be lower than expected.
 
-  # PPE in hospital
+  # PPE in hospital,
+
   // Use of personal protective equipment against coronavirus disease 2019 by healthcare professionals in Wuhan, China: cross sectional study
   doi: https://doi.org/10.1136/bmj.m2195
   ref 'Liu_et_al_06_10_2020
@@ -1344,13 +1351,13 @@ feed June2020
       !f
       !g
 
-    / June, 2020 - American Chemical Society
+    / Comparison of N95 and surgical mask
     let !a self assert = Considering this, and additionally noting the large error bars for the N95 measurements in the <300 nm range (as discussed in the paper), conclusions and comparisons (with cloth fabrics) from our data regarding the N95 and surgical mask performance should not be drawn. Our pressure drops may be more appropriate to what unfitted cloth masks will likely experience under real-life conditions due to leakage around the edges. Pressure drop measurements for manikin fitted N95s and surgical masks have varied from 20 to 40 Pa and from 1 to 18 Pa
 
-    / June, 2020 - American Chemical Society
+    / Cloth masks efficiency and air flow
     let !b self assert = While our cloth efficiencies measured are high, they are at significantly lower airflows. The strategy for cloth mask design would therefore be to increase the effective mask surface area significantly without increasing the seal perimeter in order to increase airflow, while retaining a low differential pressure, and a high filtration efficiency.
 
-    / June, 2020 - American Chemical Society
+    / Cloth masks and pressure differentials
     let !c self assert = We believe the focus on cloth masks should center around lower pressure differentials that can be sustained practically in unfitted cloth masks. One approach would then be to depart from traditional designs to significantly increase the area of the cloth to increase net airflow while not overly exerting the face seal.
 
     / Efficacy of cotton, natural silk and chiffon

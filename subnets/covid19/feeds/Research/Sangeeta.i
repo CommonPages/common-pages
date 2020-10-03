@@ -189,7 +189,7 @@ feed Sangeeta
   # policy
   // Use of facemasks during the COVID-19 pandemic.
   doi: https://doi.org/10.1016/S2213-2600(20)30352-0
-  ref 'Schünemann_et_al_08_03_2020
+  ref 'Schunemann_et_al_08_03_2020
     head = The current best evidence includes the possibility of important relative and absolute benefits of wearing a facemask. Depending on the pandemic situation in a given geographical setting, the desirable consequences of wearing a facemask may or may not outweigh the undesirable consequences.
 
     -- exports
@@ -230,7 +230,7 @@ feed Sangeeta
 
 
 
-  # Public health ethics, Air pollution, policy, community, air pollution disasters
+  # Public health ethics, Air pollution, policy, community, air pollution disasters, face masks
   // Facemask use for community protection from air pollution disasters: An ethical overview and framework to guide agency decision making
   doi: https://doi.org/10.1016/j.ijdrr.2019.101376
   ref 'McDonald_et_al_10_31_2019
@@ -239,11 +239,11 @@ feed Sangeeta
     >>> Abstract
       Disasters involving severe air pollution episodes create a pressing public health issue. During such emergencies, there may be pressure on agencies to provide solutions to protect affected communities. One possible intervention to reduce exposure during such crises is facemasks. Ethical values need to be considered as part of any decision-making process to assess whether to provide advice on, recommend and/or distribute any public health intervention. In this paper, we use principles from public health ethics to analyse the critical ethical issues that relate to agencies providing advice on, recommending and/or distributing facemasks in air pollution disasters, given a lack of evidence of both the specific risk of some polluting events or the effectiveness of facemasks in community settings. The need for reflection on the ethical issues raised by the possible recommendation/use of facemasks to mitigate potential health issues arising from air pollution disasters is critical as communities progressively seek personal interventions to manage perceived and actual risks. This paper develops an ethical decision-making framework to assist agency deliberations. We argue that clarity around decision-making by agencies, after using this framework, may help increase trust about the intervention and solidarity within and between populations affected by these disasters and the agencies who support public health or provide assistance during disasters.
 
-    / October, 2019 - International Journal of Disaster Risk Reduction
-    let !a self assert =
+    / Ethical issues reagarding facemask usage
+    let !a self assert = We argue that clarity around decision-making by agencies, after using this framework, may help increase trust about the intervention and solidarity within and between populations affected by these disasters and the agencies who support public health or provide assistance during disasters.
 
 
-  # recharge, reuse, N95mask, emphirical
+  # recharge, reuse, N95mask, empirical
   // Recharging and rejuvenation of decontaminated N95 masks featured.
   doi: https://doi.org/10.1063/5.0023940
   ref 'Hossain_et_al_09_08_2020
@@ -257,7 +257,7 @@ feed Sangeeta
 
 
 
-  # Face coverings, Reuse, Sustainability, facemask,  economic. logistics
+  # Face coverings, Reuse, Sustainability, facemask,  economics, logistics
   // Unlocking the surge in demand for personal and protective equipment (PPE) and improvised face coverings arising from coronavirus disease (COVID-19) pandemic – Implications for efficacy, re-use and sustainable waste management
   doi: https://doi.org/10.1016/j.scitotenv.2020.142259
   ref 'Rowan_et_al_09_10_2020
@@ -277,19 +277,19 @@ feed Sangeeta
       !h
 
 
-    / September, 2020 - Science of the Total Environment
+    / Factors affecting the fit of the face masks
     let !a self assert = Efficacy of face coverings are influenced by the appropriate wearing to cover the nose and mouth, type of material used, number of layers, duration of wearing, and potentially superior use of ties over ear loops. Insertion of a nose clip into cloth coverings may help with maintaining fit.
 
     / September, 2020 - Science of the Total Environment
     let !b self assert = Risk of virus infiltration in improvised face coverings is potentially increased by duration of wearing due to humidity, liquid diffusion and virus retention.
 
-    / September, 2020 - Science of the Total Environment
+    / Hydrogen peroxide for reuse of N95
     let !c self assert = Hydrogen peroxide in vapour (VH2OH), used alone or combined with ozone, has been used for high-throughput decontamination and reuse of complex PPE such as important filtering facepiece respirators (FFRs), such as the popular N95 respirator.
 
-    / September, 2020 - Science of the Total Environment
+    / UV may not be efective for mask reuse
     let !d self assert = Ultraviolet (UV) light procedures, particularly using UVC wavelength, have also been reported as potentially appropriate decontamination technology for PPE, but this technology is unlikely to inactivate SARS-CoV-2 if this virus penetrates lower layers of material of FFRs where they would be hidden from the UV.
 
-    / September, 2020 - Science of the Total Environment
+    / Heating for mask reuse
     let !e self assert = Moist heating at 60°C to 70°C combined with high humidity for 60 min is also a promising decontaminating procedure for PPE as it would also enable scalability and high-throughput processing.
 
     / September, 2020 - Science of the Total Environment
@@ -298,7 +298,7 @@ feed Sangeeta
     / September, 2020 - Science of the Total Environment
     let !g self assert = SARS-CoV-2 will tolerated cold weather, such as 4°C (refrigeration), better and survival beyond 14 days on materials, which has implications for environmental wearing of masks and face cloths as we enter the winder flu season.
 
-    / September, 2020 - Science of the Total Environment
+    / Washing cloth for reuse
     let !h self assert = Use of a washing machine and spin dryer (60 °C for 60 min) with detergent is likely to decontaminate SARS-CoV-2 on contaminated face cloths where the risk of contamination by this virus is low.
 
 
@@ -416,7 +416,7 @@ feed Sangeeta
 
 
 
-  # viral inoculum, asymptomatic infection, GeneralBenefits
+  # viral inoculum, asymptomatic infection, GeneralBenefits, face masks,
   // Masks Do More Than Protect Others During COVID-19: Reducing the Inoculum of SARS-CoV-2 to Protect the Wearer
   doi: https://doi.org/10.1007/s11606-020-06067-8
   ref 'Gandhi_et_al_07_31_2020

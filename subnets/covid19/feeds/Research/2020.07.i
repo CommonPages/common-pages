@@ -30,7 +30,7 @@ feed July2020
     / July, 2020 - Cell
     let !a self assert = G614 is associated with lower RT-PCR cycle thresholds, suggestive of higher upper respiratory tract viral loads, but not with increased disease severity.
 
-  # Filteration - Respirator mask
+  # Filtration, Respirators,  mask, design,
   // Using surgical wrapping material for the fabrication of respirator masks
   doi: https://doi.org/10.1371/journal.pone.0236239
   ref 'Vrielink_et_al_02_20_2020
@@ -60,7 +60,7 @@ feed July2020
     / July, 2020 - Plos One
     let !a self assert =
 
-  # Mediical Mask efficiency Screening
+  # Medical Mask, efficacy, Screening
   // An accessible method for screening aerosol filtration identifies poor-performing commercial masks and respirators
   doi: https://doi.org/10.1038/s41370-020-0258-7
   ref 'Schiling_et_al_07_27_2020
@@ -87,7 +87,7 @@ feed July2020
     / July, 2020 - J Expo Sci Environ Epidemiol
     let !a self assert =
 
-  # Home Made Mask - Materials
+  # Home Made Mask, Materials, efficacy,
   // Filtration performances of non-medical materials as candidates for manufacturing facemasks and respirators
   doi: https://doi.org/10.1016/j.ijheh.2020.113582
   ref 'Hao_et_al_07_21_2020
@@ -100,7 +100,7 @@ feed July2020
     / July, 2020 - International Journal of hygiene
     let !a self assert =
 
-  # Mask and Respirators for HCW
+  # Mask and Respirators for HCW, medical professionals, aerosols, efficacy, Surgical masks
   // Risk of SARS-CoV-2 transmission by aerosols, the rational use of masks, and protection of healthcare workers from COVID-19
   doi: https://doi.org/10.1186/s13756-020-00763-0
   ref 'Sommerstein_et_al_07_06_2020

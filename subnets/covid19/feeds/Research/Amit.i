@@ -55,12 +55,26 @@
       !g
       !h
       !i
+      !j
+      !k
+      !l
+      !m
+      !n
+      !o
+      !p
+      !q
+      !r
+      !s
+      !t
+
 
     # there is an interesting table on page 7 which tells in which situations general public should  be encouraged to wear which type of masks and their advantages
 
-    / WHO advisory on use of Facemasks
+    / WHO advisory on use of Facemasks - transmission of Covid19
+
     let !a self assert = Current evidence suggests that most transmission of COVID- 19 is occurring from symptomatic people to others in close contact, when not wearing appropriate PPE.
-    / WHO advisory on use of Facemasks
+
+    / WHO advisory on use of Facemasks - viral load before onset of symptoms
     let !b self assert = People who develop symptoms appear to have higher viral loads on or just prior to the day of symptom onset, relative to later on in their infection.
     / WHO advisory on use of Facemasks - medical professionals
     let !c self assert = To be fully effective, continuous wearing of a medical mask by health workers, throughout their entire shift, should be implemented along with other measures to reinforce frequent hand hygiene and physical distancing among health workers in shared and crowded places where mask use may be unfeasible such as cafeterias, dressing rooms, etc.
@@ -88,8 +102,45 @@
 
     let !i self assert = Health workers when not performing (Aerosol generating procedures) AGPs should wear medical mask, when performing AGP should wear a respirator. Suspected Covid 19 or person with mild symptoms should wear a medical mask as much as possible; the mask should be changed at least once daily. Persons who cannot tolerate a medical mask should rigorously apply respiratory hygiene. Caregivers or those who are sharing living space with suspected COVID-19 person wear a medical mask when in the same room as the affected person;
 
+    / WHO advisory on use of Facemasks - mode of transfers
+
+    let !j self assert = Viable virus has been isolated from specimens of pre-symptomatic and asymptomatic individuals, suggesting, therefore, that people who do not have symptoms may be able transmit the virus to others.
+
+    / WHO Advisory on use of Facemasks - Health workers
+    let !k self assert = in the absence of AGPs, WHO recommends that health workers providing direct care to COVID-19 patients, should wear a medical mask (in addition to other PPE that are part of droplet and contact precautions);
+
+    / WHO Advisory on use of Facemasks - Health Workers
+    let !l self assert = in care settings for COVID-19 patients where AGPs are performed (e.g. COVID-19 intensive and semi- intensive care units), WHO recommends that health workers should wear a respirator (N95 or FFP2 or FFP3 standard, or equivalent)
+
+    / WHO Advisory on use of Facemasks - AGP list
+    let !m self assert = The WHO list of AGPs includes: tracheal intubation, non-invasive ventilation, tracheotomy, cardiopulmonary resuscitation, manual ventilation before intubation, bronchoscopy, sputum induction induced by using nebulized hypertonic saline, and autopsy procedures.
+
+    / WHO Advisory on use of Facemasks - information that should be communicated to general public
+    let !n self assert = clearly communicate the purpose of wearing a mask, where, when, how and what type of mask should be worn. Explain what wearing a mask may achieve and what it will not achieve, and communicate clearly that this is one part of a package of measures along with hand hygiene, physical distancing and other measures that are all necessary and all reinforce each other; inform/train people on when and how to use masks safely, i.e. put on, wear, remove, clean and dispose; consider the feasibility of use, supply/access issues, social and psychological acceptance (of both wearing and not wearing different types of masks in different contexts); continue gathering scientific data and evidence on the effectiveness of mask use (including different types and makes as well as other face covers such as scarves) in non-health care settings; evaluate the impact (positive, neutral or negative) of using masks in the general population (including behavioral and social sciences).
+
+    / WHO Advisory on the use of Facemasks - clothmasks
+    let !o self assert = The lower filtration and breathability standardized requirements, and overall expected performance, indicate that the use of non-medical masks, made of woven fabrics such as cloth, and/or non-woven fabrics, should only be considered for source control (used by infected persons) in community settings and not for prevention.  They can be used ad-hoc for specific activities (e.g., while on public transport when physical distancing cannot be maintained), and their use should always be accompanied by frequent hand hygiene and physical distancing.
+
+    / WHO Advisory on the use of Facemasks - Fabric selection
+
+    let !p self assert = Choose materials that capture particles and droplets but remain easy to breathe through. Avoid stretchy material for making masks as they provide lower filtration efficiency during use and are sensitive to washing at high temperatures. Fabrics that can support high temperatures (60° or more) are preferable
+
+    / WHO Advisory on the use of Facemasks - Face shields
+    let !q self assert = In the context of non-medical mask shortage, face shields may be considered as an alternative noting that they are inferior to mask with respect to prevention of droplet transmission. If face shields are to be used, ensure proper design to cover the sides of the face and below the chin. In addition, they may be easier to wear for individuals with limited compliance with medical masks (such as those with mental health disorders, developmental disabilities, deaf and hard of hearing community and children).
+
+    / WHO Advisory on the use of Facemasks - use of medical masks by he community
+    let !r self assert = The use of medical masks in the community may divert this critical resource from the health workers and others who need them the most. In settings where medical masks are in short supply, ** medical masks should be reserved for health workers and at-risk individuals when indicated **.
+
+    / WHO Advisory on the use of facemasks -- symptomatic Persons
+    let !s self assert = Wear a medical mask, self-isolate, and seek medical advice as soon as they start to feel unwell with potential symptoms of COVID-19, even if symptoms are mild.
+
+    / WHO Advisory on the use of facemasks -- all people
+    let !t self assert = In the context of the COVID-19 pandemic, it is recommended that all persons, regardless of whether they are using masks or not, should: avoid groups of people and crowded spaces (follow local advice); maintain physical distance of at least 1 metre (3.3 feet) from other persons, especially from those with respiratory symptoms (e.g. coughing, sneezing); perform hand hygiene frequently, using an alcohol-based handrub if hands are not visibly dirty or soap and water; use respiratory hygiene i.e. cover their nose and mouth with a bent elbow or paper tissue when coughing or sneezing, dispose of the tissue immediately after use, and perform hand hygiene; refrain from touching their mouth, nose, and eyes.
 
 
+
+
+  # Empirical study, facemasks,
   // Effectiveness of facemasks to reduce exposure hazards for airborne infections among general populations
   doi: 10.1098/rsif.2011.0537
   ref 'Lai_et_al_2012
@@ -98,8 +149,16 @@
     -- exports
       !a
 
-    / May 2012 - Journal of the Royal Society Interface
-    let !a self assert =  It was observed that fully sealed facemasks provide the highest protection, while the least protective was the normal wearing. It was also observed that the reduction of exposure decreases with increasing emission velocity and emission duration, and with decreasing separation distance between source and susceptible manikins.
+    / Facemask efficacy - effect of sealing
+    let !a self assert =  It was observed that fully sealed facemasks provide the highest protection, while the least protective was the normal wearing.
+
+    / Facemask efficacy - effect of emission velocity and distance
+    let !b self assert = It was also observed that the reduction of exposure decreases with increasing emission velocity and emission duration, and with decreasing separation distance between source and susceptible manikins.
+
+
+
+
+
 
   // In vivo protective performance of N95 respirator and surgical facemask
   doi: https://doi.org/10.1002/ajim.20395
@@ -108,9 +167,12 @@
 
     -- exports
       !a
+      !b
 
-    / November 2006 Am J Industrial Medicine
+    / Efficiency of surgical masks
     let !a self assert = Surgical masks can provide in‐vivo filtration protection of 95% filtration efficiency. N95 respirators provide higher in‐vivo filtration efficiency of 97% with significant reduction of air permeability and water vapor permeability.
+    / Efficiency of N95 Masks
+    let !b self assert = N95 respirators provide higher in‐vivo filtration efficiency of 97% with significant reduction of air permeability and water vapor permeability.
 
   // Professional and Home-Made Face Masks Reduce Exposure to Respiratory Infections among the General Population
   doi: https://doi.org/10.1371/journal.pone.0002618
@@ -133,8 +195,9 @@
       !a
       !b
 
-    / March 2006 - Am J of Infection Control
+    /  Respirator and surgical mask efficacy
     let !a self assert = The N95 filtering face piece respirators may not provide the expected protection level against small virions. Some surgical masks may let a significant fraction of airborne viruses penetrate through their filters, providing very low protection against aerosolized infectious agents in the size range of 10 to 80 nm.
+    / Surgical masks, respirators and their purpose
     let !b self assert = It should be noted that the surgical masks are primarily designed to protect the environment from the wearer, whereas the respirators are supposed to protect the wearer from the environment.
 
   // Behind the mask. Journey through an epidemic: some observations of contrasting public health responses to SARS
@@ -147,11 +210,11 @@
       !b
       !c
 
-    / March 2003 - Epidemiology & Community Health - differences to East West
+    / Facemask - differences to East West
     let !a self assert = One of the differences apparent between the response to SARS in the East and the West has been perceptions on the use and value of masks as means of personal protection against the infection.
-    / March 2003 - Epidemiology & Community Health - mask as symbolism
+    / Facemask as a symbol
     let !b self assert = the mask became to SARS what the condom symbolised for HIV/AIDS.
-    / March 2003 - Epidemiology & Community Health - personal control and mask symbolism
+    / Personal control and mask symbolism
     let !c self assert = efforts to improve perception of public health risks can assist the management of major communicable disease incidents by empowering the general public and strengthening perceptions of personal control. Active and empowered involvement of the general public in implementing and cooperating with public health control measures supported by national and international authorities has clearly helped to bring SARS under control. Perhaps it is this perception of the importance of personal and collective responsibility by members of the public that the mask symbolises best and the public health contribution of this symbolism should be remembered for future emerging infections.
 
 
@@ -164,9 +227,9 @@
       !a
       !b
 
-    / February 2009 - Emerging infectious diseases - facemasks not effective
+    / Facemasks not effective for control, but may reduce risk of clinical infections
     let !a self assert = Although our study suggests that community use of face masks is unlikely to be an effective control policy for seasonal respiratory diseases, adherent mask users had a significant reduction in the risk for clinical infection.
-    / February 2009 - Emerging infectious diseases - facemasks might be potentially useful
+    / Facemasks might be potentially useful only when large adherence
     let !b self assert = we found that distributing masks during seasonal winter influenza outbreaks is an ineffective control measure characterized by low adherence, results indicate the potential efficacy of masks in contexts where a larger adherence may be expected,
 
 
@@ -204,6 +267,44 @@
 
     -- exports
       !a
+      !b
+      !c
+      !policy1
+      !policy
 
     / April 2020 SSRN
-    let !a self assert =
+
+    let !a self assert =  We provide strongly suggestive evidence from cross-country data that facemask use slows the growth rate of cases and deaths. This complements extant scientific data on mask usage.
+
+    / Seemingly healthy people can spread the diseases
+
+    let !b self assert = Thus, seemingly healthy people (asymptomatic), including young people, are spreading the virus by transmitting it to others.
+
+    / Economic usecase for cloth face masks even with low prevention rate
+
+    let !c self assert = Our economic analysis suggests that that even if masks are far less effective than the evidence above suggests, the potential benefits are substantial. If masks reduce the transmission rate of the virus by only 10%, epidemiological models suggest that hundreds of thousands of deaths could be prevented globally,11 creating trillions of dollars in economic value.
+
+    / Policy recommendation on use of homemade cloth Facemasks
+
+    let !policy self assert = Politicians should be wearing cloth masks in public at all times. If these masks are obviously homemade, this will emphasize the pro-social benefits of protecting both healthcare workers (who need commercial masks) and the public at large. Emphasizing that mask wearing is a complement to other social distancing measures, not a substitute. Mask wearers who violate social distancing recommendations continue to place themselves and others at high risk. Supporting or requiring mask-wearing in essential services such as grocery stores where employees have many contacts in a day. Emphasizing that one of the main goals of mask wearing is to protect others.
+
+    / Policy recommendation on use of homemade cloth Facemasks
+
+    let !policy1 self assert =  Reaching out to visible persons such as media members and strongly encouraging them to do the same. Encouraging and demonstrating the correct production and use of homemade masks. Providing public health messages with mask-making instructions and instructions on fit. Mask users should also be instructed to wash hands after removing masks and wash or dispose of masks after repeated use. Partnering with non-medical mask industry to provide free or reduced-price cloth masks to everyone.
+
+  // Testing the Efficacy of Homemade Masks: Would They Protect in an Influenza Pandemic?
+  doi: https://dx.doi.org/10.1017%2Fdmp.2013.43
+  ref 'Davies_et_al_2013
+    head = This study examined homemade masks as an alternative to commercial face masks. Methods: Several household materials were evaluated for the capacity to block bacterial and viral aerosols. Twenty-one healthy volunteers made their own face masks from cotton t-shirts; the masks were then tested for fit. The number of microorganisms isolated from coughs of healthy volunteers wearing their homemade mask, a surgical mask, or no mask was compared using several air-sampling techniques. Results: The median-fit factor of the homemade masks was one-half that of the surgical masks. Both masks significantly reduced the number of microorganisms expelled by volunteers, although the surgical mask was 3 times more effective in blocking transmission than the homemade mask. Conclusion: Our findings suggest that a homemade mask should only be considered as a last resort to prevent droplet transmission from infected individuals, but it would be better than no protection.
+
+    -- exports
+      !a
+
+    / Any mask better than no protection
+    let !a self assert = Our findings suggest that a homemade mask should only be considered as a last resort to prevent droplet transmission from infected individuals, but it would be better than no protection.
+
+
+  // Estimating the Extent of True Asymptomatic COVID-19 and Its Potential for Community Transmission: Systematic Review and Meta-Analysis
+  doi: http://dx.doi.org/10.2139/ssrn.3586675
+  ref 'Byambasuren_et_al_2020
+    head = The prevalence of true asymptomatic COVID-19 cases is critical to policy makers considering the effectiveness of mitigation measures against the SARS-CoV-2 pandemic. We aimed to synthesise all available research on the asymptomatic rates. We searched PubMed, Embase, Cochrane COVID 19 trials, and European PMC for pre-print platforms such as MedRxiv, Research Square, and F1000 Research. We screened 571 articles and included five studies from three countries that include 599 COVID-19 cases and 9,297 contacts. The proportion of asymptomatic cases ranged from 6% to 41%. Conclusion: Our meta-analytic estimates of the prevalence of asymptomatic COVID-19 cases are lower than many highly publicized studies, but still substantial. Further robust epidemiological evidence is urgently needed, including in sub-populations such as children, to better understand the importance of asymptomatic cases for driving spread of the pandemic.

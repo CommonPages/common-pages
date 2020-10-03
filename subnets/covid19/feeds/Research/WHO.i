@@ -25,7 +25,7 @@ feed WHO
     let !a self assert =
 
 
-  #
+  # 1
   // Infection prevention and control of epidemic and pandemic-prone respiratory infections in health care
   doi: https://www.who.int/csr/bioriskreduction/infection_control/publication/en/
   ref 'WHO_04_2014
@@ -36,11 +36,11 @@ feed WHO
     let !a self assert =
 
 
-
+  # 2
   # WHO guidance on infection prevention and control (IPC) strategies
   // Infection prevention and control during health care when COVID-19 is suspected: interim guidance
   doi: https://www.who.int/publications-detail/infection-prevention-and-control-during-health-care-when-novel-coronavirus-(ncov)-infection-is-suspected-20200125
-    ref 'WHO_03_19_2020
+  ref 'WHO_03_19_2020
     head = This is the first edition of guidance on infection prevention and control (IPC) strategies for use when infection with a novel coronavirus (2019-nCoV) is suspected. It is intended for healthcare workers (HCWs), healthcare managers and IPC teams at the facility level but it is also relevant for the national and district/provincial level. WHO will update these recommendations as new information becomes available.
 
 
@@ -48,7 +48,7 @@ feed WHO
     let !a self assert =
 
 
-
+  # 3
   # WHO interim guidance
   // Infection prevention and control for long-term care facilities in the context of COVID-19: interim guidance.
   doi: https://www.who.int/publications-detail/infection-prevention-and-control-for-long-term-care-facilities-in-the-context-of-covid-19
@@ -60,7 +60,7 @@ feed WHO
     let !a self assert =
 
 
-
+  # 4
   # WHO Guidance
   // Home care for patients with COVID-19 presenting with mild symptoms and management of contacts: interim guidance.
   doi: https://apps.who.int/iris/handle/10665/331133
@@ -72,7 +72,7 @@ feed WHO
     let !a self assert =
 
 
-
+  # 5
   # community transmission, intrafamily transmission, China- PAPER IS ALREADY DONE IN RESEARCH.I, DISCUSS ASSERTION I AND J-  'J_et_al_2020- PAST REF
   # // Community Transmission of Severe Acute Respiratory Syndrome Coronavirus 2, Shenzhen, China, 2020.
   # doi: https://doi.org/10.3201/eid2606.200239
@@ -87,7 +87,7 @@ feed WHO
   #   let !a self assert =
 
 
-
+  # 6
   # paper already done in research.i
   # // A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster
   # doi: https://doi.org/xyz
@@ -98,7 +98,7 @@ feed WHO
   #   let !a self assert =
 
 
-
+  # 7
   # China, epidemology, transmission
   // Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia
   doi: https://doi.org/10.1056/NEJMoa2001316
@@ -125,6 +125,7 @@ feed WHO
       !e
       !f
       !g
+      !h
 
     / March, 2020 - N Engl J Med
     let !a self assert = The majority of cases (55%) with onset before January 1, 2020, were linked to the Huanan Seafood Wholesale Market, as compared with 8.6% of the subsequent cases.
@@ -147,22 +148,24 @@ feed WHO
     / March, 2020 - N Engl J Med
     let !g self assert = Our preliminary estimate of the incubation period distribution provides important evidence to support a 14-day medical observation period or quarantine for exposed persons. Our estimate was based on information from 10 cases and is somewhat imprecise; it would be important for further studies to provide more information on this distribution.
 
+    / Human to human transfer
+    let !h self assert = On the basis of this information, there is evidence that human-to-human transmission has occurred among close contacts since the middle of December 2019.
 
-
+  # 8
   # paper already done in research.i
   # // Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China.
   # doi: https://doi.org/10.1016/S0140-6736(20)30183-5
-  # ref 'Huang_et_al_04_24_2020
+  # ref 'Huang_et_al_2020
   #   head =
   #
   #   / February, 2020 - bioRxiv
   #   let !a self assert =
 
 
-
+  # 9
   # USA, person to person transmission
   // Active Monitoring of Persons Exposed to Patients with Confirmed COVID-19 — United States, January–February 2020
-  doi: https://doi.org/xyz
+  doi: https://www.cdc.gov/mmwr/volumes/69/wr/mm6909e1.htm
   ref 'Burke_et_al_03_03_2020
     head = Among the first 10 patients with travel-related confirmed COVID-19 reported in the United States, a total of 445 persons who had close contact with one of the 10 patients on or after the date of the patient’s symptom onset were identified. Despite intensive follow-up, no sustained person-to-person transmission of symptomatic SARS-CoV-2 was observed in the United States among the close contacts of the first 10 persons with diagnosed travel-related COVID-19.
 
@@ -171,7 +174,7 @@ feed WHO
     let !a self assert =
 
 
-
+  # 10
   # WHO, transmission from symptomatic, pre-symptomatic and asymptomatic people
   // Coronavirus disease 2019 (COVID-19) Situation Report – 73.
   doi: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf?sfvrsn=5ae25bc7_6
@@ -198,11 +201,11 @@ feed WHO
     / April, 2020 - World Health Organization
     let !d self assert = In a small number of case reports and studies, pre-symptomatic transmission has been documented through contact tracing efforts and enhanced investigation of clusters of confirmed cases. This is supported by data suggesting that some people can test positive for COVID-19 from 1-3 days before they develop symptoms. Thus, it is possible that people infected with COVID-19 could transmit the virus before significant symptoms develop. It is important to recognize that pre-symptomatic transmission still requires the virus to be spread via infectious droplets or through touching contaminated surfaces.
 
-    / April, 2020 - World Health Organization
+    / No documented case of asymptomatic transmission till April 2020
     let !e self assert = There are few reports of laboratory-confirmed cases who are truly asymptomatic, and to date, there has been no documented asymptomatic transmission. This does not exclude the possibility that it may occur. Asymptomatic cases have been reported as part of contact tracing efforts in some countries.
 
 
-
+  # 11
   # Hongkong, mitigation, Nosocomial
   // Escalating infection control response to the rapidly evolving epidemiology of the coronavirus disease 2019 (COVID-19) due to SARS-CoV-2 in Hong Kong.
   doi: https://doi.org/10.1017/ice.2020.58
@@ -231,7 +234,7 @@ feed WHO
     / March, 2020 - Infect Control Hosp Epidemiol.
     let !b self assert = Of 413 HCWs caring for these confirmed cases, 11 (2.7%) had unprotected exposure requiring quarantine for 14 days. None of these was infected, and nosocomial transmission of SARS-CoV-2 was not observed.
 
-
+  # 12
   # this paper is already done
   # // Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient.
   # doi: https://doi.org/10.1001/jama.2020.3227
@@ -243,7 +246,7 @@ feed WHO
   #   let !a self assert =
 
 
-
+  # 13
   # aerosol, surface, nonsomical
   # // Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020.
   # doi: https://doi.org/10.3201/eid2607.200885
@@ -257,7 +260,7 @@ feed WHO
   #   let !a self assert =
 
 
-
+  # 14
   # paper is done in PRE2019.i
   # // Detection of air and surface contamination by SARS-CoV-2 in hospital rooms of infected patients
   # doi: https://doi.org/xyz
@@ -268,7 +271,7 @@ feed WHO
   #   let !a self assert =
 
 
-
+  # 15
   # toilet, fomite, respiration, direct transmission (droplet and person-to-person), indirect transmission, Nonsomical, Nebraska, USA
   // Transmission Potential of SARS-CoV-2 in Viral Shedding Observed at the University of Nebraska Medical Center.
   doi: https://doi.org/10.1101/2020.03.23.20039446
@@ -279,11 +282,13 @@ feed WHO
       Lack of evidence on SARS-CoV-2 transmission dynamics has led to shifting isolation guidelines between airborne and droplet isolation precautions. During the initial isolation of 13 individuals confirmed positive with COVID-19 infection, air and surface samples were collected in eleven isolation rooms to examine viral shedding from isolated individuals. While all 15 individuals were confirmed positive for SARS-CoV-2, symptoms and viral shedding to the environment varied considerably. Many commonly used items, toilet facilities, and air samples had evidence of viral contamination, indicating that SARS-CoV-2 is shed to the environment as expired particles, during toileting, and through contact with fomites. Disease spread through both direct (droplet and person-to-person) as well as indirect contact (contaminated objects and 20 airborne transmission) are indicated, supporting the use of airborne isolation precautions.
 
 
-    / June, 2020 - medRxiv
-    let !a self assert =
+    / Mechanisms of spread - including toilets and fomites
+    let !a self assert = Many commonly used items, toilet facilities, and air samples had evidence of viral contamination, indicating that SARS-CoV-2 is shed to the environment as expired particles, during toileting, and through contact with fomites.
+    / Evidence for fomite and airborne transmission
+    let !b self assert = Disease spread through both direct (droplet and person-to-person) as well as indirect contact (contaminated objects and 20 airborne transmission) are indicated, supporting the use of airborne isolation precautions.
 
 
-
+  # 16
   # nonsomical, Iran, airborne- counter
   // A field indoor air measurement of SARS-CoV-2 in the patient rooms of the largest hospital in Iran.
   doi: https://doi.org/10.1016/j.scitotenv.2020.138401
@@ -294,11 +299,11 @@ feed WHO
       The coronavirus disease 2019 (COVID-19) emerged in Wuhan city, China, in late 2019 and has rapidly spread throughout the world. The major route of transmission of SARS-CoV-2 is in contention, with the airborne route a likely transmission pathway for carrying the virus within indoor environments. Until now, there has been no evidence for detection of airborne severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and this may have implication for the potential spread of the COVID-19. We investigated the air of patient rooms with confirmed COVID-19 in the largest hospital in Iran, on March 17, 2020. To collect the SARS-CoV-2 particles, ten air samples were collected into the sterile standard midget impingers containing 20 mL DMEM with 100 μg/mL streptomycin, 100 U/mL penicillin and 1% antifoam reagent for 1 h. Besides, indoor particle number concentrations, CO2, relative humidity and temperature were recorded throughout the sampling duration. Viral RNA was extracted from samples taken from the impingers and Reverse-Transcription PCR (RT-PCR) was applied to confirm the positivity of collected samples based on the virus genome sequence. Fortunately, in this study all air samples which were collected 2 to 5 m from the patients' beds with confirmed COVID-19 were negative. Despite we indicated that all air samples were negative, however, we suggest further in vivo experiments should be conducted using actual patient cough, sneeze and breath aerosols in order to show the possibility of generation of the airborne size carrier aerosols and the viability fraction of the embedded virus in those carrier aerosols.
 
 
-    / July, 2020 - Science of the Total Environment
-    let !a self assert =
+    / Possible range of Covid19 air spread
+    let !a self assert = Air samples from 2-5 meters from the partient's beds were Covid19 negative, though possibility of airborne transmission cannot be denied.
 
 
-
+  # 17
   # paper already done in Research.i
   # // Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1
   # doi: https://doi.org/xyz
@@ -310,7 +315,7 @@ feed WHO
   #   let !a self assert =
 
 
-
+  # 18
   # aerosol, Viability
   // Comparative dynamic aerosol efficiencies of three emergent coronaviruses and the unusual persistence of SARS-CoV-2 in aerosol suspensions.
   doi: https://doi.org/10.1101/2020.04.13.20063784
@@ -325,7 +330,7 @@ feed WHO
     let !a self assert =
 
 
-
+  # 19
   # mitigation
   // Symptom-Based Strategy to Discontinue Isolation for Persons with COVID-19.
   doi: https://www.cdc.gov/coronavirus/2019-ncov/hcp/duration-isolation.html
@@ -388,7 +393,7 @@ feed WHO
     let !m self assert = Serologic testing should not be used to establish the presence or absence of SARS-CoV-2 infection or reinfection.
 
 
-
+  # 20
   # paper is already done in Research.i - the date and month is not written in ref- discuss with ayush
   # // Virological assessment of hospitalized patients with COVID-2019.
   # doi: https://doi.org/xyz
@@ -402,7 +407,7 @@ feed WHO
   #   let !a self assert =
 
 
-
+  # 21
   # paper already done in Sangeeta.i
   # // A Familial Cluster of Infection Associated With the 2019 Novel Coronavirus Indicating Possible Person-to-Person Transmission During the Incubation Period.
   # doi: https://doi.org/xyz
@@ -414,7 +419,7 @@ feed WHO
 
 
 
-  #
+  # 22
   //  The Incubation Period of Coronavirus Disease 2019 (COVID-19) From Publicly Reported Confirmed Cases: Estimation and Application.
   doi: https://doi.org/10.7326/M20-0504
   ref 'Lauer_et_al_05_05_2020
@@ -448,12 +453,12 @@ feed WHO
       This work provides additional evidence for a median incubation period for COVID-19 of approximately 5 days, similar to SARS. Our results support current proposals for the length of quarantine or active monitoring of persons potentially exposed to SARS-CoV-2, although longer monitoring periods might be justified in extreme cases.
 
 
-    / May, 2020 - Ann Intern Med.
-    let !a self assert =
+    / Incubation period of about 5 days for Covid19.
+    let !a self assert = The median incubation period for COVID-19 of approximately 5 days, similar to SARS.
 
 
 
-
+  # 23
   # paper already done in Sangeeta.i, check the date
   # // Asymptomatic and Presymptomatic SARSCoV-2 Infections in Residents of a Long-Term Care Skilled Nursing Facility - King County, Washington
   # doi: https://doi.org/xyz
@@ -464,7 +469,7 @@ feed WHO
   #   let !a self assert =
 
 
-
+  # 24
   # secondary cases, presymptomatic stage
   # // Temporal dynamics in viral shedding and transmissibility of COVID-19.
   # doi: https://doi.org/10.1038/s41591-020-0869-5
@@ -478,7 +483,7 @@ feed WHO
   #   let !a self assert =
 
 
-
+  # 25
   # asymptomatic, community transmission
   // Estimating the extent of true asymptomatic COVID-19 and its potential for community transmission: systematic review and metaanalysis.
   doi: https://doi.org/10.1101/2020.05.10.20097543
@@ -505,11 +510,11 @@ feed WHO
       Our estimates of the prevalence of asymptomatic COVID-19 cases and asymptomatic transmission rates are lower than many highly publicized studies, but still sufficient to warrant policy attention. Further robust epidemiological evidence is urgently needed, including in sub-populations such as children, to better understand the importance of asymptomatic cases for driving spread of the pandemic.
 
     / June, 2020 - bioRxiv
-    let !a self assert =
+    let !a self assert = Estimates of asymptomatic transfer are lower, but still might be consderable.
 
 
-
-  # 26 staff people, presymptomatic, nursing facility
+  # 26
+  # staff people, presymptomatic, nursing facility
   // Presymptomatic SARS-CoV-2 Infections and Transmission in a Skilled Nursing Facility.
   doi: https://doi.org/10.1056/NEJMoa2008457
   ref 'Arons_et_al_03_28_2020
@@ -527,12 +532,12 @@ feed WHO
     >>> Conclusions
       Rapid and widespread transmission of SARS-CoV-2 was demonstrated in this skilled nursing facility. More than half of residents with positive test results were asymptomatic at the time of testing and most likely contributed to transmission. Infection-control strategies focused solely on symptomatic residents were not sufficient to prevent transmission after SARS-CoV-2 introduction into this facility.
 
-    / March, 2020 - N Engl J Med.
-    let !a self assert =
+    / Just focusing on symptomatic patients for prevention may not be enough
+    let !a self assert = More than half of residents with positive test results were asymptomatic at the time of testing and most likely contributed to transmission. Infection-control strategies focused solely on symptomatic residents were not sufficient to prevent transmission after SARS-CoV-2 introduction into this facility.
 
 
-
-  # 27 close contacts, household
+  # 27
+  # close contacts, household
   // Modes of contact and risk of transmission in COVID-19 among close contacts.
   doi: https://doi.org/10.1101/2020.03.24.20042606
   ref 'Luo_et_al_03_26_2020
@@ -553,11 +558,11 @@ feed WHO
 
 
     / March, 2020 - MedRxiv
-    let !a self assert =
+    let !a self assert = The proportion of asymptomatic and mild infections account for almost half of the confirmed cases among close contacts.
 
 
-
-  # 28 close contacts, asymptomatic, young people, infectious cycle
+  # 28
+  # close contacts, asymptomatic, young people, infectious cycle
   // Clinical characteristics of 24 asymptomatic infections with COVID-19 screened among close contacts in Nanjing, China
   doi: https://doi.org/10.1007/s11427-020-1661-4
   ref 'Hu_et_al_03_04_2020
@@ -573,8 +578,8 @@ feed WHO
     let !a self assert = We found that young cases (<15 years old) were prone to be asymptomatic even during hospitalization and to have a normal CT image, which partially suggested that nucleic acid testing would be crucial to identify asymptomatic infections in young close contacts.
 
 
-
-  # 29 this paper is done in Sangeeta.i
+  # 29
+  # this paper is done in Sangeeta.i
   # // A family cluster of SARS-CoV-2 infection involving 11 patients in Nanjing, China.
   # doi: https://doi.org/xyz
   # ref 'Huang_et_al_02_28_2020
@@ -584,8 +589,8 @@ feed WHO
   #   let !a self assert =
 
 
-
-  # 30 asymptomatic, family cluster, household
+  # 30
+  # asymptomatic, family cluster, household
   // Asymptomatic cases in a family cluster with SARS-CoV-2 infection.
   doi: https://doi.org/10.1016/S1473-3099(20)30114-6
   ref 'Pan_et_al_02_19_2020
@@ -595,8 +600,8 @@ feed WHO
     let !a self assert =
 
 
-
-  # 31 asymptomatictransmission, contact tracing, AsymptomaticPhase, nonsomical
+  # 31
+  # asymptomatictransmission, contact tracing, AsymptomaticPhase, nonsomical
   // Characterization of an asymptomatic cohort of SARS-COV2 infected individuals outside of Wuhan, China
   doi: https://doi.org/10.1093/cid/ciaa629
   ref 'Wang_et_al_05_22_2020
@@ -629,8 +634,8 @@ feed WHO
     let !c self assert = Young individuals with normal immune function and without comorbidities are more likely to become asymptomatically infected.
 
 
-
-  # 32, 7 clusters, presymptomatic transmission, Singapore, date check
+  # 32
+  #  7 clusters, presymptomatic transmission, Singapore, date check
   // Presymptomatic Transmission of SARS-CoV-2 — Singapore, January 23–March 16, 2020
   doi: http://dx.doi.org/10.15585/mmwr.mm6914e1
   ref 'Wei_et_al_04_01_2020
@@ -640,8 +645,8 @@ feed WHO
     let !a self assert =
 
 
-
-  #  Taiwan, secondary attack rate, household
+  # 33
+  # Taiwan, secondary attack rate, household
   // Contact Tracing Assessment of COVID-19 Transmission Dynamics in Taiwan and Risk at Different Exposure Periods Before and After Symptom Onset.
   doi: https://doi.org/10.1001/jamainternmed.2020.2020
   ref 'Cheng_et_al_05_01_2020
@@ -671,6 +676,7 @@ feed WHO
       !b
       !c
       !d
+      !e
 
     / May, 2020 - JAMA Intern Med.
     let !a self assert = Among their 2761 close contacts, there were 22 paired index-secondary cases. The overall secondary clinical attack rate was 0.7%.
@@ -684,8 +690,11 @@ feed WHO
     / May, 2020 - JAMA Intern Med.
     let !d self assert = The attack rates were higher among those aged 40 to 59 years (1.1% [95% CI, 0.6%-2.1%]) and those aged 60 years and older (0.9% [95% CI, 0.3%-2.6%]).
 
+    / Only isolating symptomatic patients may not be sufficiently
+    let !e self assert = In this study, high transmissibility of COVID-19 before and immediately after symptom onset suggests that finding and isolating symptomatic patients alone may not suffice to contain the epidemic, and more generalized measures may be required, such as social distancing.
 
-  # couldn't find content
+  # 34
+  # couldn't find content, standards
   // Medical Face Masks -Requirements and Test Methods.
   doi: https://www.en-standard.eu/une-en-14683-2019-ac-2019-medical-face-masks-requirements-and-test-methods/
   ref 'EuropeanStandards_2019
@@ -695,8 +704,8 @@ feed WHO
     let !a self assert =
 
 
-
-  # Bacterial Filtration Efficiency, Eye And Face Protective Equipment, Health Care Facilities, Medical Face Masks
+  # 35
+  # Bacterial Filtration Efficiency, Eye And Face Protective Equipment, Health Care Facilities, Medical Face Masks, standards
   // Specification for Performance of Materials Used in Medical Face Masks.
   doi: https://doi.org/10.1520/F2100-19E01
   ref 'ASTMInternational_2019
@@ -709,8 +718,8 @@ feed WHO
     / 2019 - ASTM International.
     let !a self assert =
 
-
-  # guideline
+  # 36
+  # guideline, standards
   // National Institute for Occupational Safety and Health (NIOSH). NIOSH Guide to the Selection and Use of Particulate Respirators.
   doi: https://www.cdc.gov/niosh/docs/96-101/default.html
   ref 'NIOSH_01_1996
@@ -720,8 +729,8 @@ feed WHO
     let !a self assert =
 
 
-
-  # Masks (protective clothing), Protective clothing, Breathing apparatus, Respirators, Air filters, Filters, Safety devices, Marking, Particulate air pollutants, Particulate materials
+  # 37
+  # Masks (protective clothing), Protective clothing, Breathing apparatus, Respirators, Air filters, Filters, Safety devices, Marking, Particulate air pollutants, Particulate materials, standards
   // Respiratory protective devices-Filtering half masks to protect against particles Requirements, testing, marking
   doi: https://shop.bsigroup.com/ProductDetail?pid=000000000030178264
   ref 'BSI_06_15_2001
@@ -732,8 +741,8 @@ feed WHO
     let !a self assert =
 
 
-
-  # SSC guideline
+  # 38
+  # SSC guideline, standards
   // Surviving Sepsis Campaign (SSC). Guidelines on the Management of Critically Ill Adults with Coronavirus Disease 2019 (COVID-19).
   doi: https://www.sccm.org/SurvivingSepsisCampaign/Guidelines/COVID-19
   ref 'SSCM_03_20_2020
@@ -744,8 +753,8 @@ feed WHO
     let !a self assert =
 
 
-
-  # nonsomical mitigation
+  # 39
+  # nonsomical mitigation, caretakers, MedicalProfessionals
   // Infectious Diseases Society of America Guidelines on Infection Prevention for Health Care Personnel Caring for Patients with Suspected or Known COVID-19.
   doi: https://doi.org/10.1093/cid/ciaa1063
   ref 'Lynch_et_al_06_27_2020
@@ -774,7 +783,7 @@ feed WHO
       !e
       !f
 
-    / July, 2020 - Clinical Infectious Diseases
+    / Surgical masks or respirators to be used in conjunction with other PPE and hygiene measures
     let !a self assert = In conventional settings, HCP caring for confirmed or suspected COVID-19 patients use a surgical mask or a N95 or higher-grade respirator (such as an N99 or PAPR). Use of masks or respirators must be in conjunction with other recommended PPE and appropriate hand hygiene. Because of the risk of serious harm, the panel recommends that health care personnel not be exposed to suspected or confirmed COVID-19 patients without a mask or respirator
 
     / July, 2020 - Clinical Infectious Diseases
@@ -783,17 +792,17 @@ feed WHO
     / July, 2020 - Clinical Infectious Diseases
     let !c self assert = Current guidance on PPE endorses the use of shoe covers when there is concern for splash risk from fluids that may contain pathogens.
 
-    / July, 2020 - Clinical Infectious Diseases
+    / AGP Mask and  PPE measures
     let !d self assert = When an AGP is being performed on a patient with suspected or known COVID-19, all involved HCP should wear an N95 or higher-level respirator, in addition to a gown, gloves and eye protection.
 
-    / July, 2020 - Clinical Infectious Diseases
+    / Reuse of N95 masks recommended when they are in shortage
     let !e self assert = During a contingency or crisis situation with shortages of N95 respirators, reprocessed N95 respirators are to be reused instead of using surgical masks as part of appropriate PPE when health care personnel involved in AGPs in patients with suspected or known COVID-19.
 
-    / July, 2020 - Clinical Infectious Diseases
+    / Adding surgical masks or faceshields to reduce contamination of N95
     let !f self assert = Should extended or reuse of a N95 respirator become necessary in a contingency or crisis setting (i.e., N95 respirator shortage), HCP should place some type of barrier (face shield or surgical mask) over the N95 respirator while performing AGPs to reduce contamination of the N95 respirator. Either extended use or reuse strategies are preferred to a surgical mask alone when performing AGPs. These recommendations are based on indirect evidence suggesting that masks/respirators are frequently contaminated during AGPs and direct evidence suggesting that HCP routinely touch masks/respirators while wearing.
 
 
-
+  # 40
   # Limitation, N95, surgical masks
   // Effectiveness of N95 respirators versus surgical masks against influenza: A systematic review and meta-analysis
   doi: https://doi.org/10.1111/jebm.12381
@@ -817,17 +826,17 @@ feed WHO
       !b
       !c
 
-    / March, 2020 -  J Evid Based Med.
+    / Difference between purpose of surgical masks and respirators
     let !a self assert = It should be noted that the surgical masks are primarily designed to protect the environment from the wearer, whereas the respirators are supposed to protect the wearer from the environment.
 
-    / March, 2020 -  J Evid Based Med.
+    / Difficulties associated with N95 masks
     let !b self assert = Using N95 respirators is likely to result in discomfort, for example, headaches. A previous study reported that there was an inverse relationship between the level of compliance with wearing an N95 respirator and the risk of clinical respiratory illness. It is difficult to ensure high compliance due to this discomfort of N95 respirators in all studies.
 
-    / March, 2020 -  J Evid Based Med.
+    / N95 masks are effective
     let !c self assert = N95 respirators provided a protective effect against laboratory‐confirmed bacterial colonization.
 
 
-
+  # 53
   # WHO guideline
   // Community-based health care, including outreach and campaigns, in the context of the COVID-19 pandemic.
   doi: https://www.who.int/publications/i/item/community-based-health-care-including-outreach-and-campaigns-in-the-context-of-the-covid-19-pandemic
@@ -839,7 +848,7 @@ feed WHO
 
 
 
-
+  # 41
   # Face masks, eye protection, person distancing
   // Physical interventions to interrupt or reduce the spread of respiratory viruses. Part 1 - Face masks, eye protection and person distancing: systematic review and meta-analysis
   doi: https://doi.org/10.1101/2020.03.30.20047217
@@ -868,12 +877,17 @@ feed WHO
     >>> CONCLUSIONS
       Most included trials had poor design, reporting and sparse events. There was insufficient evidence to provide a recommendation on the use of facial barriers without other measures. We found insufficient evidence for a difference between surgical masks and N95 respirators and limited evidence to support effectiveness of quarantine. Based on observational evidence from the previous SARS epidemic included in the previous version of our Cochrane review we recommend the use of masks combined with other measures.
 
+    -- exports
+      !a
+      !b
 
-    / April, 2020 - medRxiv
-    let !a self assert =
+    / No difference between surgical masks and N95 masks
+    let !a self assert = We found insufficient evidence for a difference between surgical masks and N95 respirators and limited evidence to support effectiveness of quarantine.
+    / Use of facemasks with other Measures
+    let !b self assert = Based on observational evidence from the previous SARS epidemic included in the previous version of our Cochrane review we recommend the use of masks combined with other measures.
 
 
-
+  # 42
   # DISCUSS this paper with AYUSH, Its already done in Research.i
   # // Physical distancing, face masks, and eye protection to prevent person-to-person transmission of SARS-CoV-2 and COVID-19: a systematic review and meta-analysis
   # doi: https://doi.org/10.1016/S0140-6736(20)31142-9
@@ -883,7 +897,7 @@ feed WHO
   #   / June, 2016 - The Lancet
   #   let !a self assert =
 
-
+  # 43
   # healthcare workers; N95 mask; occupational; PPE; SARS;rubber gloves
   // Adverse skin reactions to personal protective equipment against severe acute respiratory syndrome--a descriptive study in Singapore.
   doi: https://doi.org/10.1111/j.1600-0536.2006.00953.x
@@ -898,7 +912,7 @@ feed WHO
     let !a self assert =
 
 
-
+  # 44
   # N95 respirators, medical masks, health care workers
   // Respirators vs Medical Masks for Preventing Influenza Among Health Care Personnel: A Randomized Clinical Trial.
   doi: https://doi.org/10.1001/jama.2019.11645
@@ -926,11 +940,14 @@ feed WHO
 
     >>> Conclusions and Relevance
       Among outpatient health care personnel, N95 respirators vs medical masks as worn by participants in this trial resulted in no significant difference in the incidence of laboratory-confirmed influenza.
+    -- export
+      !a
 
 
-    / September, 2019 - JAMA.
-    let !a self assert =
+    / No significant difference in medical masks and N95 respirators among healthcare personnel
+    let !a self assert = N95 respirators vs medical masks as worn by participants in this trial resulted in no significant difference in the incidence of laboratory-confirmed influenza.
 
+  # 45
   # PPE
   // Rational use of personal protective equipment for coronavirus disease (COVID-19) and considerations during severe shortages.
   doi: https://www.who.int/publications/i/item/rational-use-of-personal-protective-equipment-for-coronavirus-disease-(covid-19)-and-considerations-during-severe-shortages
@@ -945,7 +962,7 @@ feed WHO
 
 
 
-  #
+  # 46
   // The World Health Report 2006 - working together for health
   doi: https://www.who.int/whr/2006/en/
   ref 'WHO_2006
@@ -957,8 +974,8 @@ feed WHO
 
 
 
-
-  # facemasks, hospitals
+  # 47
+  # facemasks, hospitals, public spaces
   / Universal Masking in Hospitals in the Covid-19 Era
   doi: https://doi.org/10.1056/NEJMc2020836
   ref 'Klompas_et_al_06_03_2020
@@ -968,7 +985,7 @@ feed WHO
     let !a self assert =
 
 
-
+  # 48
   # E-RCP, PAPR, personal protective system
   // Contamination: a comparison of 2 personal protective systems
   doi: https://doi.org/10.1503/cmaj.060094
@@ -991,7 +1008,7 @@ feed WHO
     / August, 2006 - CMAJ
     let !a self assert =
 
-
+  # 49
   # healthcare workers, PPE, gloves
   // Assessment of Healthcare Worker Protocol Deviations and Self-Contamination During Personal Protective Equipment Donning and Doffing.
   doi: https://doi.org/10.1017/ice.2017.121
@@ -1034,10 +1051,10 @@ feed WHO
     let !c self assert = Common CP PPE doffing protocol deviations included touching the front of the gown with bare hands or allowing the contaminated gown to brush against scrubs while disposing. Possibly, HCWs may be unaware that specific guidelines exist for donning/doffing CP precautions.
 
 
-
+  # 50
   # dibromodicyanobutane, surgical masks, healthcare workers, contact dermatitis, cant find doi and date
   // Surgical mask contact dermatitis and epidemiology of contact dermatitis in healthcare workers
-  doi: https://doi.org/xyz
+  doi:  https://hdl.handle.net/10520/EJC-c3ca4ee66
   ref 'Badri_et_al_09_2017
     head = In this article a case is presented to illustrate important aspects of contact dermatitis in healthcare workers, particularly surgical face-mask contact dermatitis.The article further explores dibromodicyanobutane as a known cause of allergic contact dermatitis (ACD).
 
@@ -1048,8 +1065,8 @@ feed WHO
     / September, 2017 - Current Allergy & Clinical Immunology
     let !a self assert =
 
-
-  # Facemask, cloth mask, respirators,
+  # 51
+  # Facemask, cloth mask, respirators, risk, problems
   // Inconveniences due to the use of face masks during the COVID-19 pandemic: a survey study of 876 young people
   doi: https://doi.org/10.1111/dth.13567
   ref 'Matusiak_et_al_05_14_2020
@@ -1070,7 +1087,7 @@ feed WHO
     let !c self assert = Based on our results with a special focus on the tolerance of the face masks, we postulate to use professional surgical masks, if possible, for general public during viral pandemic.
 
 
-
+  # 52
   # randomized trials, cloth masks, medical masks, HCWs, limitation of cloth masks
   // A cluster randomised trial of cloth masks compared with medical masks in healthcare workers.
   doi: https://doi.org/10.1136/bmjopen-2014-006577
@@ -1103,7 +1120,7 @@ feed WHO
     let !a self assert =
 
 
-
+  # 54
   # Facemasks, household transmission, randomized trials, Limitation
   // Surgical mask to prevent influenza transmission in households: a cluster randomized trial.
   doi: https://doi.org/10.1371/journal.pone.0013998
@@ -1124,7 +1141,7 @@ feed WHO
     let !a self assert =
 
 
-
+  # 55
   # facemask, randomized trial
   // Cluster randomised controlled trial to examine medical mask use as source control for people with respiratory illness.
   doi: https://doi.org/10.1136/bmjopen-2016-012330
@@ -1157,13 +1174,14 @@ feed WHO
 
     >>> Conclusions
       The study indicates a potential benefit of medical masks for source control, but is limited by small sample size and low secondary attack rates. Larger trials are needed to confirm efficacy of medical masks as source control.
+    -- exports
+      !a
+
+    / Medical masks have benefits
+    let !a self assert = Study indicates rates of clinical respiratory illness , ILI  and laboratory-confirmed viral infections were consistently lower in the group with medical masks as compared with control (no masks), although not statistically significant. A post hoc comparison between the mask versus no-mask groups showed a protective effect against clinical respiratory illness, but not against ILI and laboratory-confirmed viral respiratory infections.
 
 
-    / December, 2016 - BMJ Open
-    let !a self assert =
-
-
-
+  # 56
   # facemasks, hand hygiene, household transmission, influenza
   // Facemasks and hand hygiene to prevent influenza transmission in households: a cluster randomized trial.
   doi: https://doi.org/10.7326/0003-4819-151-7-200910060-00142
@@ -1199,12 +1217,14 @@ feed WHO
 
     >>> Conclusion
       Hand hygiene and facemasks seemed to prevent household transmission of influenza virus when implemented within 36 hours of index patient symptom onset. These findings suggest that nonpharmaceutical interventions are important for mitigation of pandemic and interpandemic influenza.
+    -- exports
+      !a
 
 
-    / October, 2009 - Ann Intern Med.
-    let !a self assert =
+    / Efficacy of hand hygiene and medical masks
+    let !a self assert = Hand hygiene and facemasks seemed to prevent household transmission of influenza virus when implemented within 36 hours of index patient symptom onset.
 
-
+  # 57
   # facemasks, public policy- assertions, mass gatherings
   // Uptake and effectiveness of facemask against respiratory infections at mass gatherings: a systematic review
   doi:https://doi.org/10.1016/j.ijid.2016.03.023
@@ -1234,7 +1254,7 @@ feed WHO
     let !b self assert = Uptake of non-pharmaceutical measures during the pandemic influenza A (H1N1) of 2009 found that participants of Asian origin (e.g. Japan) had the higher facemask uptake (71%) compared to the uptake of participants of Western or Latin American origin. Presence of several peaks of influenza seasons in some Asian countries, overcrowding, dense smog and air pollution in many cities may explain the higher uptake of facemask among people from Asian countries.
 
 
-
+  # 58
   # no date, SARS, secondary transmission, tertiary transmission, nonsomical
   // SARS transmission, risk factors, and prevention in Hong Kong.
   doi: https://doi.org/10.3201/eid1004.030628
@@ -1263,7 +1283,7 @@ feed WHO
     let !d self assert = Of the 330 undefined transmissions, 44.2% of the transmissions occurred through hospital visitors. Therefore, the severity of future outbreaks, if any, would depend on the ability of the hospital system to control hospital cross-infection and infection of visitors.
 
 
-
+  # 59
   # 41 index cases, facemasks, hand hygiene,
   // The role of facemasks and hand hygiene in the prevention of influenza transmission in households: results from a cluster randomised trial; Berlin, Germany,
   doi: https://doi.org/10.1186/1471-2334-12-26
@@ -1282,11 +1302,11 @@ feed WHO
     >>> Conclusions
       Results suggest that household transmission of influenza can be reduced by the use of NPI, such as facemasks and intensified hand hygiene, when implemented early and used diligently. Concerns about acceptability and tolerability of the interventions should not be a reason against their recommendation.
 
-    / January, 2012 -  BMC Infect Dis.
-    let !a self assert =
+    / Household infections can be reduced by use of facemasks
+    let !a self assert = Results suggest that household transmission of influenza can be reduced by the use of NPI, such as facemasks and intensified hand hygiene, when implemented early and used diligently. Concerns about acceptability and tolerability of the interventions should not be a reason against their recommendation.
 
 
-
+  # 60
   # face masks, pets, cockroaches, rodents, SARS, no date
   // Risk factors for SARS among persons without known contact with SARS patients, Beijing, China.
   doi: https://doi.org/10.3201/eid1002.030730
@@ -1312,7 +1332,7 @@ feed WHO
     let !c self assert = Our finding that pet owners had a lower risk for clinical SARS can help dispel fears that domestic pets were causing disease transmission in Beijing.
 
 
-
+  # 61
   # Facemask, Hajj, no date
   // Pilot Randomised Controlled Trial to Test Effectiveness of Facemasks in Preventing Influenza-like Illness Transmission among Australian Hajj Pilgrims in 2011.
   doi: https://doi.org/10.2174/1871526514666141021112855
@@ -1334,7 +1354,7 @@ feed WHO
 
 
 
-
+  # 62
   # influenza, masks, washing hands, Limitation
   // Mask use, hand hygiene, and seasonal influenza-like illness among young adults: a randomized intervention trial
   doi: https://doi.org/10.1086/650396
@@ -1358,7 +1378,7 @@ feed WHO
     let !a self assert =
 
 
-
+  # 63
   # Facemasks, hand hygiene, randomized trial, influenza
   // Facemasks, hand hygiene, and influenza among young adults: a randomized intervention trial
   doi: https://doi.org/10.1371/journal.pone.0029744
@@ -1374,7 +1394,7 @@ feed WHO
     let !a self assert =
 
 
-
+  # 64
   # olfactory, ageusia
   // Self-reported olfactory and taste disorders in SARS-CoV-2 patients: a cross-sectional study
   doi: https://doi.org/10.1093/cid/ciaa330
@@ -1400,7 +1420,7 @@ feed WHO
     let !d self assert = Olfactory and taste disorders are well known to be related with a wide range of viral infections. SARS-CoV has demonstrated in a mice model a transneural penetration through the olfactory bulb. Moreover, angiotensinconverting enzyme 2 receptor, which is used by SARS-CoV-2 to bind and penetrate into the cell, is widely expressed on the epithelial cells of the mucosa of the oral cavity. These findings could explain the underlying pathogenetic mechanism of taste and olfactory disorders in SARS-CoV-2 infection.
 
 
-
+  # 65
   # anosmia, olfactory, ageusia, gustatory
   // The Prevalence of Olfactory and Gustatory Dysfunction in COVID-19 Patients: A Systematic Review and Metaanalysis
   doi: https://doi.org/10.1177/0194599820926473
@@ -1427,17 +1447,17 @@ feed WHO
     let !a self assert =
 
 
-
+  # 66
   # This paper is already done in research.i
   # // Epidemiology of Covid-19 in a Long-Term Care Facility in King County, Washington
   # doi: https://doi.org/10.1056/NEJMoa2005412
-  # ref 'Mcmichael_et_al_05_21_2020
+  # ref 'Mcmichael_et_al_2020
 
 
     # / May, 2020 - N Engl J Med
     # let !a self assert =
 
-
+  # 67
   # older people
   // Atypical presentation of COVID-19 in a frail older person
   doi: https://doi.org/10.1093/ageing/afaa068
@@ -1452,8 +1472,8 @@ feed WHO
     / April, 2020 - Age and Ageing
     let !a self assert =
 
-
-  # facemasks
+  # 68
+  # facemasks, children,
   // Coronavirus disease (COVID-19) advice for the public: When and how to use masks
   doi: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks
   ref 'WHO_06_2020c
@@ -1463,7 +1483,7 @@ feed WHO
     let !a self assert =
 
 
-
+  # 69
   # older people, Invariable population
   // Information Note COVID-19 and NCDs. Geneva: World Health Organization. 2020
   doi: https://www.who.int/publications/m/item/covid-19-and-ncds
@@ -1475,21 +1495,22 @@ feed WHO
     let !a self assert =
 
 
+  # 70
+  # can't find this in the net- unpublished,
+  # uncommeting this so that when it is called in the narrative it does not lead to an error
+  / Public use of masks as source control during the COVID-19 pandemic: key considerations from social science.
+  doi:
+  ref 'WHO_05_26_2020
+    head = Public use of masks as source control during the COVID-19 pandemic: key considerations from social science.
 
-  # can't find this in the net- unpublished
-  # / Public use of masks as source control during the COVID-19 pandemic: key considerations from social science.
-  # doi: https://doi.org/xyz
-  # ref
-  #   head =
-  #
-  #   -- exports
-  #     !a
-  #
-  #   / February, 2020 - bioRxiv
-  #   let !a self assert =
+    # -- exports
+    #   !a
+    #
+    # / February, 2020 - bioRxiv
+    # let !a self assert =
 
 
-
+  # 72
   # personal protective equipment,  N95, disinfection,  aerosol, ask assertion- AYUSH
   // Can N95 Respirators Be Reused after Disinfection? How Many Times?
   doi: https://doi.org/10.1021/acsnano.0c03597
@@ -1502,11 +1523,11 @@ feed WHO
     -- exports
       !a
 
-    / May, 2020 - ACS Nano
+    / N95 mask reuse
     let !a self assert = At 85 °C, 30% RH, we were able to perform 50 cycles of heat treatment without significant changes in the filtration efficiency. At low humidity or dry conditions, temperatures up to 100 °C were not found to alter the filtration efficiency significantly within 20 cycles of treatment.
 
 
-
+  # 73
   # Pressure drop, Anti-Yellow Sand Masks, Quarantine Masks, Medical Masks, General Masks, and Handkerchiefs
   // Comparison of Filtration Efficiency and Pressure Drop in Anti-Yellow Sand Masks, Quarantine Masks, Medical Masks, General Masks, and Handkerchiefs
   doi: https://doi.org/10.4209/aaqr.2013.06.0201
@@ -1523,7 +1544,7 @@ feed WHO
     / August, 2013 - Aerosol Air Qual. Res.
     let !a self assert = The overall mean penetration and pressure drop of all tested masks were respectively 35.6 ± 34.7%, 2.7 ± 1.4 mm H2O with the KFDA protocol, and 35.1 ± 35.7%, 10.6 ± 5.88 mm H2O with the NIOSH protocol.
 
-
+  # 74
   # Limitation of Cloth masks
   // Simple Respiratory Protection—Evaluation of the Filtration Performance of Cloth Masks and Common Fabric Materials Against 20–1000 nm Size Particles
   doi: https://doi.org/10.1093/annhyg/meq044
@@ -1541,7 +1562,7 @@ feed WHO
       !e
       !f
 
-    / June, 2010 - The Annals of Occupational Hygiene
+    / Filtration efficacy of cloth masks
     let !a self assert = Cloth masks and other fabric materials tested in the study had 40–90% instantaneous penetration levels when challenged with polydisperse NaCl aerosols employed in the NIOSH particulate respirator test protocol at a face velocity of 5.5 cm s−1.
 
     / June, 2010 - The Annals of Occupational Hygiene
@@ -1560,7 +1581,7 @@ feed WHO
     let !f self assert = The penetration levels for these fabric materials against polydisperse, as well as monodisperse aerosols, were much higher than the values for the control N95 respirator filter media but were in the range found for some surgical masks in previous studies. A poor filtration performance is expected for improvised fabric materials because these materials are not designed for respiratory protection.
 
 
-
+  # 75
   # limitation of Cloth mask; Filtration efficiency; Pressure drop; Particulate matter
   // Evaluation of Filtration Performance Efficiency of Commercial Cloth Masks.
   doi: https://doi.org/10.5668/JEHS.2015.41.3.203
@@ -1599,11 +1620,11 @@ feed WHO
     let !e self assert = The filtration efficiencies of the cloth masks and reference respirator were below the class 1 respirator criterion (≥ 94.0) of the Ministry of Employment and Labor (MOEL) and Ministry of Food and Drug Safety (MFDS). The pressure drops satisfied the class 1 respirator criterion (≤70Pa) of MOEL and MFDS.
 
 
-
+  # 76
   # Aerosol, Filtration, Nanofibers
   // Application of nanofibers to improve the filtration efficiency of the most penetrating aerosol particles in fibrous filters
   doi: https://doi.org/10.1016/j.ces.2006.07.022
-  ref 'Podgórski_et_al_07_18_2006
+  ref 'Podgorski_et_al_07_18_2006
     head = The use of nanofibrous media should be very favorable solution to filter out submicrometersized aerosol particles, especially these ones which penetrate the most through conventional filters composed of microfibers. Simultaneously, the theory predicts that the MPPS can be significantly reduced with the use of nanofibrous media.
 
 
@@ -1621,7 +1642,7 @@ feed WHO
     let !b self assert = Additionally, it was found that utilization of many-layer nanofibrous filters combined with a single microfibrous backing layer is even more profitable from the quality factor standpoint.
 
 
-
+  # 77
   # face masks, aerosols, cloth filtration efficiency, cloth masks, public eductaion
   // Household materials selection for homemade cloth face coverings and their filtration efficiency enhancement with triboelectric charging.
   doi: https://doi.org/10.1021/acs.nanolett.0c02211
@@ -1639,7 +1660,7 @@ feed WHO
     let !a self assert = When designing new facial coverings for community use, it is advisible to make users aware of this risk and to design cloth face coverings with pressure drop across the covering is as low as possible (with filtration efficiency as high as possible), otherwise air contaminants (particulates, viruses, infectious droplets, etc.) will preferentially flow through gaps and leaks at the skin and cloth contact points limiting any effectiveness of filtration in a de facto form of respiratory protection.
 
 
-
+  # 80
   # hand Hygiene
   // Your 5 Moments for Hand Hygiene. Geneva: World Health Organization; 2020
   doi: https://www.who.int/infection-prevention/campaigns/clean-hands/5moments/en/
@@ -1651,7 +1672,7 @@ feed WHO
 
 
 
-  #
+  # 78
   // Reusability of Facemasks During an Influenza Pandemic: Facing the Flu, 2006
   doi: https://doi.org/10.17226/11637
   ref 'Bailar_et_al_2006
@@ -1664,7 +1685,7 @@ feed WHO
     let !a self assert = Recently, in response to acute N95 mask shortages, multiple strategies for mask sterilization have been proposed and studied, including exposure to ultraviolet (UV) germicidal irradiation, vaporized hydrogen peroxide, moist heat, ethylene oxide, and gamma irradiation.
 
 
-
+  # 79
   # facemasks, surgical masks, respirators
   // Particle Size-Selective Assessment of Protection of European Standard FFP Respirators and Surgical Masks against Particles-Tested with Human Subjects
   doi: https://doi.org/10.1155/2016/8572493
@@ -1680,3 +1701,137 @@ feed WHO
 
     / March, 2016 - Journal of Healthcare Engineering
     let !a self assert = About 18.3% of the tested FFP2 respirators had PFs <10, and ~41.7% of the tested FFP3 respirators had PFs <20, indicating that the European standard for APF of 10 for FFP2 respirators and 20 for FFP3 respirators may overestimate the actual protection offered by these respirators against particles in the size range of 0.093–1.61 μm. The assigned protection factors (APFs) may need to be revised for these classes of respirators.
+
+
+  # 71
+  # Added for completion of references, the document is in French
+  //  Masque barrière. Guide d’exigence minimales, de méthode d’essais, de confection et d’usage.
+  doi: https://masques-barrieres.afnor.org/home/TelechargementS76?culture=fr-FR
+  ref 'AFNOR_2020
+    head =
+
+
+  ############ WHO Advise on facemasks for childrens
+
+  # 30 already #54 above
+  # // Surgical mask to prevent influenza transmission in households: a cluster randomized trial.
+  # doi: https://doi.org/10.1371/journal.pone.0013998
+  # ref 'Canini_et_al_11_17_2010
+
+  # 31
+  # hany hygiene, face masks, children, NPIs
+  // Hand Hygiene, Mask-Wearing Behaviors and Its Associated Factors during the COVID-19 Epidemic: A Cross-Sectional Study among Primary School Students in Wuhan, China
+  doi: https://doi.org/10.3390/ijerph17082893
+  ref 'Chen_et_al_2020_04_22
+    head =  Although the emphasis on behaviors of hand-washing and mask-wearing was repeated during the pandemic of Coronavirus Disease 2019 (COVID-19), not everyone paid enough attention to this. A descriptive statistic was used to make sense of the status of hand hygiene and mask-wearing among primary school students in Wuhan, China. 42.05% of the primary school students showed a good behavior of hand-washing, while 51.60% had a good behavior of mask-wearing. Gender, grade, out-going history, father’s occupation, mother’s educational background, and the time filling out the survey were significantly associated with hand hygiene, whereas grade, mother’s educational background, and residence were associated with mask-wearing. The behaviors of hand-washing and mask-wearing among primary school students were influenced by gender, grade, and other factors, therefore, parents should make efforts of behavior guidance whereas governments should enlarge medium publicity.
+
+    -- exports
+      !a
+      !b
+      !c
+
+
+
+    / Gender differences in hand hygiene among primary school childrens
+    let !a self assert = girls showed 1.12 times the possibility of excellent hand-washing compared with boys in this study.
+
+    / Benefits of Hand hygiene
+    let !b self assert = hand hygiene education is remarkably beneficial in preventing infectious diseases, especially for young children in primary schools.
+    / Correlations for hand hygiene
+    let !b1 self assert = Gender, grade, outgoing history, father’s occupation, mother’s educational background and time filling out the survey were significantly associated with better hand hygiene.
+
+    / Mask wearing as an effective measure
+    let !c self assert = At present, westerners generally opposed mask-wearing by normal people, but the experience in China and South Korea showed that mask-wearing was an effective measure.
+
+    / Correlations for face mask wearing
+    let !c1 self assert = Grade, mother’s educational background, and residence were significantly associated with better mask-wearing behavior.
+
+  #38
+  // Assessment of the Wearability of Facemasks against Air Pollution in Primary School-Aged Children in London
+  doi: https://doi.org/10.3390/ijerph17113935
+    head =  Facemasks are one form of protection but, to be effective, they need to filter out airborne pollutants, fit the face well and be wearable. In this pilot study, we assess the perceived wearability of three facemasks marketed in the UK as being designed to protect children against exposure to air pollution. Twenty-four primary school children wore each facemask during a standardised walking and running activity. After each activity, the children were asked to rate facemask wearability in terms of parameters, such as perceived comfort, hotness, breathability and fit. At the end of the trial, the children compared and identified their preferred facemask. The results show children’s perceptions of facemasks are highly affected by the facemask’s design, hotness and perceived breathability. By making children’s facemasks more appealing, breathable, cooler and improving their fit, wearability may be improved.
+
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+
+
+
+    / Main complaint about face masks by childrens
+    let !a self assert = The main complaint about the facemasks was the children’s faces becoming too hot, particularly during the running activity.
+
+    / Breathability lowest rated wearability criteria by the childrens
+    let !b self assert = In this study, for all masks, breathability was one of the lowest rated wearability criteria (i.e., the children perceived the masks to negatively affect their ability to breathe).
+
+    / Appearance of the face masks
+    let !c self assert =  This suggests appearance is an important factor to consider in designing wearable facemasks for both children and young adults. However, the children found none of the masks to be embarrassing to wear and this also concurs with the results in people aged 13+ in Japa
+
+    / Caveats for the studying
+    let !d self assert = Due to limited time and resources in this pilot study, only three masks were assessed, for a short period of time, the sample size was small and children’s face size and shape were not measured. Therefore, the results may not be generalizable to all children, all face masks that may be marketed for use by children, or the durations for which they may be worn. This study also only focused on the wearability of facemasks; other factors that impact the usage of facemasks were not considered, for example, cost, storage and cleaning (of reusable masks).
+
+  # 37
+  # face masks, public perception, acceptance, npi, children, schools
+  // Using Nonpharmaceutical Interventions to Prevent Influenza Transmission in Elementary School Children: Parent and Teacher Perspectives
+  doi: 10.1097/01.PHH.0000346007.66898.67
+    head = Objectives: Schools act as “amplifying sites” for the spread of infectious diseases, outbreaks, and pandemics. This project assessed which nonpharmaceutical interventions (NPIs) are most acceptable to parents and teachers of school children in grades K-5 to K-8 in Pittsburgh public schools. Results: General etiquette practices such as covering coughs, handwashing, and using hand sanitizer were highly acceptable to both groups, while masks and gloves were not. Conclusions: The success of an NPI or a set of NPIs depends on both its efficacy and the feasibility of implementing it with relevant populations. If masks, gloves, and other more intrusive NPIs are to be used in community settings during a severe influenza season or pandemic, it is clear that there is significant preparatory work needed to increase acceptability on the part of the adults. Without such acceptance, it is highly unlikely that children and their supervising adults will participate.
+
+    -- exports
+      !a
+
+    / Preparatory work is needed for NPI acceptance in general publics
+    let !a self assert = If masks, gloves, and other more intrusive NPIs are to be used in community settings during a severe influenza season or pandemic, it is clear that there is significant preparatory work needed to increase acceptability on the part of the adults. Without such acceptance, it is highly unlikely that children and their supervising adults will participate.
+
+
+  # 36
+  // Feasibility of elementary school children’s use of hand gel and facemasks during influenza season
+  doi: https://doi.org/10.1111/j.1750-2659.2010.00142.x
+    head = Background: The feasibility of non‐pharmacologic interventions to prevent influenza’s spread in schools is not well known. Objectives: To determine the acceptability of, adherence with, and barriers to the use of hand gel and facemasks in elementary schools. Patients and Methods: Intervention: We provided hand gel and facemasks to 20 teachers and their students over 4 weeks. Gel use was promoted for the first 2 weeks; mask use was promoted for the second 2 weeks. Results Few barriers to gel use were identified; barriers to mask use were difficulty reading facial expressions and physical discomfort. Conclusions: Hand gel use is a feasible strategy in elementary schools. Acceptability and adherence with facemasks was low, but some students and teachers did use facemasks for 2 weeks, and most teachers would use masks in their classroom in a pandemic.
+
+    -- exports
+      !a
+      !b
+
+    / Acceptability of the use of handgels and facemasks in schools
+    let !a self assert = we found that regular hand gel use is acceptable to teachers and students and adherence with its use is high. Facemask use was less acceptable and adherence with use was low.
+
+    / Low acceptability of face masks usage
+    let !b self assert = Our finding of low acceptability of and adherence with facemask use among teachers and students is not surprising, given that recent studies in households and healthcare settings showed that children, adults, and even healthcare workers were unwilling to wear facemasks during a seasonal influenza epidemic
+
+  # 35
+  # cloth face mask, efficacy, surgical mask,
+  // Professional and Home-Made Face Masks Reduce Exposure to Respiratory Infections among the General Population
+  doi: https://doi.org/10.1371/journal.pone.0002618
+    head = Background: Governments are preparing for a potential influenza pandemic. Therefore they need data to assess the possible impact of interventions. Face-masks worn by the general population could be an accessible and affordable intervention, if effective when worn under routine circumstances.
+    >>>  Methodology:
+      We assessed transmission reduction potential provided by personal respirators, surgical masks and home-made masks when worn during a variety of activities by healthy volunteers and a simulated patient.
+    >>> Principal Findings:
+      All types of masks reduced aerosol exposure, relatively stable over time, unaffected by duration of wear or type of activity, but with a high degree of individual variation. Personal respirators were more efficient than surgical masks, which were more efficient than home-made masks. Regardless of mask type, children were less well protected. Outward protection (mask wearing by a mechanical head) was less effective than inward protection (mask wearing by healthy volunteers).
+
+    >>> Conclusions/Significance
+      Any type of general mask use is likely to decrease viral exposure and infection risk on a population level, in spite of imperfect fit and imperfect adherence, personal respirators providing most protection. Masks worn by patients may not offer as great a degree of protection against aerosol transmission.
+
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / Type of masks matters
+    let !a self assert = In our experiments, the main determinant of the magnitude of protection factors measured by masks was the type of mask, which can be seen as a proxy for potential reduction in infectious disease transmission. The duration of wear and the type of activity did not have a significant impact on exposure reduction. Thus, the expected superior protection conferred by a professional FFP2 mask compared to a surgical mask or a home-made mask was maintained when these FFP2 masks were worn by healthy lay people in spite of the increased risk of a poor fit and significant behavioural leakage.
+
+    / Chilren and masks
+    let !b self assert = Children were significantly less protected from exposure than adults, which might be related to an inferior fit of the masks on their smaller faces.
+
+    / Stability of masks over times
+    let !c self assert =  the protection conferred by each of the masks appeared stable over time and was not dependent on activity. This suggests that leakage associated with suboptimal fit and compliance was stable over time. The tendency towards improved protection of the poorer fitting masks with increased activities such as reading, might be attributable to reduced leakage when breathing through the mouth rather than the nose, which could give some overpressure and thus reduce inward leakage.
+
+    / Masks are beneficial
+    let !d self assert =  overall these experiments show that significant protection against influenza transmission upon exposure can be conveyed also for lay people, including children, in spite of imperfect fit and imperfect adherence.
+
+    / Home made Masks
+    let !e self assert = It is also clear that home-made masks such as teacloths may still confer a significant degree of protection, albeit less strong than surgical masks or FFP2 masks. Home made masks however would not suffer from limited supplies, and would not need additional resources to provide at large scale. Home made masks, and to a lesser degree surgical masks, are unlikely to confer much protection against transmission of small particles like droplet nuclei, but as the reproduction number of influenza may not be very high a small reduction in transmissibility of the virus may be sufficient for reducing the reproduction number to a value smaller than 1 and thus extinguishing the epidemic.
