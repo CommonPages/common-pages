@@ -1920,13 +1920,9 @@ feed May2020
       We firstly showed that COVID‐19 patients with newly diagnosed diabetes had the highest risk of all‐cause mortality compared with COVID‐19 patients with known diabetes, hyperglycemia and normal glucose. Patients with COVID‐19 need to be under surveillance for blood glucose screening.
 
     -- exports
-      !a
-      !b
       !c
       !d
       !e
-      !f
-      !g
 
     / May, 2020 - Diabetes, Obesity and Metabolism
     let !a self assert = Patients with newly diagnosed diabetes had the highest percentage to be admitted to the ICU (11.7%) and require IMV (11.7%), followed by patients with known diabetes (4.1%; 9.2%) and patients with hyperglycemia (6.2%; 4.7%), compared with patients with normal glucose (1.5%; 2.3%), respectively.
@@ -1935,10 +1931,10 @@ feed May2020
     let !b self assert = The multivariable‐adjusted hazard ratio of mortality among COVID‐19 patients with normal glucose was 1.00. Relative to normal glucose, all-cause mortality increased in hyperglycemia (HR 3.29; 95% confidence interval [CI] 0.65-16.6), newly diagnosed diabetes (HR 9.42; 95% CI 2.18-40.7), and known diabetes (HR 4.63; 95% CI 1.02-21.0), after adjusting for age, sex, smoking, systolic blood pressure and total cholesterol. After further adjustment for using antihypertensive drugs, using lipid-lowering agents, admission to ICU, and using IMV, these associations did not change; however HR of mortality for known  diabetes became  higher than that for newly diagnosed diabetes after additional adjustment for using glucose-lowering drugs before hospital admission and  during hospitalization, and using corticosteroid.
 
     / May, 2020 - Diabetes, Obesity and Metabolism
-    let !c self assert = Patients with newly diagnosed diabetes had the highest and patients with known diabetes had higher mean values of CRP, white blood cell count, erythrocyte sedimentation rate, fibrinogen,  lactate dehydrogenase,  blood urea nitrogen  and fasting glucose than patients with either normal glucose or hyperglycemia.
+    let !c self assert = Patients with newly diagnosed diabetes had the highest and patients with known diabetes had higher mean values of CRP, white blood cell count, erythrocyte sedimentation rate, fibrinogen, lactate dehydrogenase, blood urea nitrogen and fasting glucose than patients with either normal glucose or hyperglycemia.
 
     / May, 2020 - Diabetes, Obesity and Metabolism
-    let !d self assert = Patients with known diabetes and  newly diagnosed diabetes had higher COVID-related complications including ARDS (3.1-10.5% vs 0.8-3.1%), acute kidney injury (15.3-17.0% vs 1.5-3.1%), shock (11.2-23.4% vs 2.3-4.7%), and hypoalbuminemia (36.7-39.4% vs 10.8-19.4%), as well as higher severe or critical types of COVID-19 (82.7-89.4% vs 61.4-72.1%) compared with patients with normal glucose or hyperglycemia.
+    let !d self assert = Patients with known diabetes and newly diagnosed diabetes had higher COVID-related complications including ARDS, acute kidney injury, shock, and hypoalbuminemia, as well as higher severe or critical types of COVID-19 compared with patients with normal glucose or hyperglycemia.
 
     / May, 2020 - Diabetes, Obesity and Metabolism
     let !e self assert = Patients with known diabetes and newly diagnosed diabetes were more likely to use antihypertensive drugs, glucose-lowering medicines during hospital admission, lipid-lowering agents, corticosteroid treatment, oxygen support, and stay longer at hospital compared with patients with normal glucose or slight hyperglycemia.
@@ -2154,7 +2150,7 @@ feed May2020
     let !e self assert = Men had higher levels of IL-6 than women, but no sex differences were observed for the other three cytokines. With increased age brackets (<50, 50-70, >70 years old), levels of IL-6, IL-8, and TNF-a increased and the same was observed for age when assessed as a continuous variable.
 
     / May, 2020 - MedRxiv
-    let !f self assert = There was no association of any cytokine measured with body mass index, however, there is an increased prevalence of obesity in our studied population. Smoking and race/ethnicity showed weak but significant univariate associations with IL-6, IL-1b, and/or TNF-a which were not confirmed after adjusting for the other covariates, except for IL-1b and TNF-a which remained significantly higher when comparing Hispanics to African Americans.
+    let !f self assert = Smoking and race/ethnicity showed weak but significant univariate associations with IL-6, IL-1b, and/or TNF-a which were not confirmed after adjusting for the other covariates, except for IL-1b and TNF-a which remained significantly higher when comparing Hispanics to African Americans.
 
     / May, 2020 - MedRxiv
     let !g self assert = We found that TNF-a and IL-8 were significantly increased in patients with chronic kidney disease (CKD), diabetes, and hypertension, while TNF-a was also increased in those with congestive heart failure, based on univariate analyses. IL-6 and IL-8 were elevated in patients with a history of atrial fibrillation. No associations were found between cytokines and active cancer, asthma, COPD, HIV, and sleep apnea.
@@ -2225,11 +2221,7 @@ feed May2020
       Mortality from COVID-19 in cancer patients appears to be principally driven by age, gender, and comorbidities. We are not able to identify evidence that cancer patients on cytotoxic chemotherapy or other anticancer treatment are at an increased risk of mortality from COVID-19 disease compared with those not on active treatment.
 
     -- exports
-      !a
-      !b
-      !c
       !d
-      !e
       !f
       !g
       !h
@@ -2250,13 +2242,13 @@ feed May2020
     let !e self assert = Across the cohort, 172 (22%) patients were reported by sites as having their anticancer treatments interrupted because of the COVID-19 pandemic, although, the exact nature of this interruption was not captured in this study.
 
     / May, 2020 - The Lancet
-    let !f self assert = Compared with patients who had not received chemotherapy within 4 weeks of testing positive for COVID-19, those who had received recent chemotherapy did not suffer increased mortality when analysed by univariate analysis (27% death rate with chemotherapy vs 29% death rate without recent chemotherapy). We did a multivariate analysis with adjustment for age, gender, and comorbidities and found that deaths in patients with COVID-19 who have cancer who had received recent chemotherapy were still no more likely than in those who had not. This analysis had a borderline fit (Hosmer-Lemeshow p=0·048). We also did a forward regression model analysis (Hosmer-Lemeshow p=0·476) with similar findings (odds ratio 1·15 [95% CI 0·79–1·66]; p=0·467).
+    let !f self assert = Compared with patients who had not received chemotherapy within 4 weeks of testing positive for COVID-19, those who had received recent chemotherapy did not suffer increased mortality when analysed by univariate analysis (27% death rate with chemotherapy vs 29% death rate without recent chemotherapy). We did a multivariate analysis with adjustment for age, gender, and comorbidities and found that deaths in patients with COVID-19 who have cancer who had received recent chemotherapy were still no more likely than in those who had not.
 
     / May, 2020 - The Lancet
     let !g self assert = We found no significant differences in mortality in patients receiving first-line palliative chemotherapy compared with those receiving later lines of palliative treatment after adjustments for age, gender, and comorbidities.
 
     / May, 2020 - The Lancet
-    let !h self assert = Finally, we analysed the use of other forms of anticancer therapies within 4 weeks of testing positive for SARS-CoV-2 infection and presenting with COVID-19. Compared with patients who were not on these therapies, patients on immunotherapy (n=44; OR 0·59 [95% CI 0·27–1·27]; p=0·177), hormonal therapy (n=64; 0·90, [0·49–1·68]; p=0·744), radiotherapy (n=76; 0·65 [0·36–1·18]; p=0·159), and targeted therapies (n=72; 0.83 [0·45–1·54]; p=0·559) were also not at any additional risk of death after adjustment for age, gender, and comorbidities.
+    let !h self assert = Finally, we analysed the use of other forms of anticancer therapies within 4 weeks of testing positive for SARS-CoV-2 infection and presenting with COVID-19. Compared with patients who were not on these therapies, patients on immunotherapy, hormonal therapy, radiotherapy, and targeted therapies were also not at any additional risk of death after adjustment for age, gender, and comorbidities.
 
 
   # epidemic, diagnosis, newyork, variant population, demographics
@@ -2307,7 +2299,7 @@ feed May2020
     let !b self assert = Cumulative incidence was higher among males than females, with males comprising 50.3% of adult infections.
 
     / May, 2020 - MedRxiv
-    let !c self assert = This differed significantlyby race and ethnicity, with Hispanic/Latino (29.2%) non-Hispanic black/African American (20.2%), and non-Hispanic Asian (12.4%) adults having higher cumulative incidence than non-Hispanic white adults (8.1%). Given these differences, Hispanics comprised the plurality (36.6%) of infection experienced adults.
+    let !c self assert = This differed significantly by race and ethnicity, with Hispanic/Latino (29.2%) non-Hispanic black/African American (20.2%), and non-Hispanic Asian (12.4%) adults having higher cumulative incidence than non-Hispanic white adults (8.1%). Given these differences, Hispanics comprised the plurality (36.6%) of infection experienced adults.
 
     / May, 2020 - MedRxiv
     let !d self assert = Significant differences were also observed by age, ranging from highest levels among persons 45-54 years old (16.0%) to lowest among persons ≥55 years (12.1%).
@@ -3241,9 +3233,13 @@ feed May2020
 
     -- exports
       !a
+      !b
 
     / May, 2020 - Lancet HIV
     let !a self assert = It is difficult to conclude that people with HIV with low CD4 counts might have worse outcomes than those with higher CD4 counts as previously speculated because of the small sample size.
+
+    / May, 2020 - Lancet HIV
+    let !b self assert = People with HIV might be at an increased risk of SARS-CoV-2 infection or severe COVID-19, especially those with comorbidity, lower CD4 count, or high HIV RNA load. By contrast, the immunosuppression and low CD4 count might protect HIV-1-infected individuals from developing the cytokine storm observed in patients with COVID-19.
 
 
   # Variant Population - HIV
@@ -3264,11 +3260,9 @@ feed May2020
     >>> Interpretation
       HIV-infected individuals should not be considered to be protected from SARS-CoV-2 infection or to have lower risk of severe disease. Generally, they should receive the same treatment approach applied to the general population.
 
-    -- exports
-      !a
 
-    / May, 2020 - Lancet HIV
-    let !a self assert = Our results suggest that HIV-infected individuals with COVID-19 could be treated with the standard of care that is being applied for the general population.
+    # / May, 2020 - Lancet HIV
+    # let !a self assert = Our results suggest that HIV-infected individuals with COVID-19 could be treated with the standard of care that is being applied for the general population.
 
 
   # Population Survery - PublicPolicy
@@ -4518,16 +4512,12 @@ feed May2020
   // SARS-CoV-2 Infection of the Placenta
   doi: https://doi.org/10.1101/2020.04.30.20083907
   article 'Hosier_et_al_2020
-    head = This case demonstrates, for the first time, SARS-CoV-2 invasion of the placenta, highlighting the potential for severe morbidity among pregnant women with Covid-19.
+    head = This report describes a case of second-trimester Covid-19 associated with preeclampsia and SARSCoV-2 infection of the placenta. This is highlighted by the presence of high levels of SARS-CoV-2 and the invasion of intervillous macrophages (intervillositis) within the placenta. These findings suggest that Covid-19 may have contributed to placental inflammation that ultimately resulted in early-onset preeclampsia and worsening maternal disease.
 
     >>> Abstract
       Background: The effects of Covid-19 in pregnancy remain relatively unknown. We present a case of second trimester pregnancy with symptomatic Covid-19 complicated by severe preeclampsia and placental abruption. Methods: We analyzed placenta for the presence of SARS-CoV-2 through molecular and immunohistochemical assays and by and electron microscopy, and we measured the maternal antibody response in blood to this infection. Results: SARS-CoV-2 localized predominantly to syncytiotrophoblast cells at the maternal-fetal interface of the placenta. Histological examination of the placenta revealed a dense macrophage infiltrate, but no evidence for vasculopathy typically associated with preeclampsia. Conclusion: This case demonstrates, for the first time, SARS-CoV-2 invasion of the placenta, highlighting the potential for severe morbidity among pregnant women with Covid-19.
 
     -- exports
-      !a
-      !b
-      !c
-      !d
       !e
 
     / May, 2020 - Medrxiv
@@ -4537,10 +4527,10 @@ feed May2020
     let !b self assert = Intervillositis, as seen in this case, describes a placental pathology consisting of fibrin deposits and mononuclear cell infiltration of the intervillous spaces. It is associated with high rates of miscarriage, fetal growth restriction, and severe early preeclampsia. This entity is typically idiopathic or autoimmune in nature, but can also be seen in association with infections such as cytomegalovirus as well as malaria. Massive fibrin deposition was also noted as a feature of placental pathology in pregnant women with SARS as well as malaria. In this case, it remains unknown whether Covid-19 precipitated intervillositis.
 
     / May, 2020 - Medrxiv
-    let !c self assert = However, the massive macrophage infiltration alongside fibrin deposition has recently been observed in lung tissue examined at autopsy from patients with severe Covid-19, raising the possibility of a common immunopathology leading to macrophage recruitment and activation causing tissue damage. Further studies of placenta from women with Covid-19 may help address whether this is a histological feature associated with placental SARS-CoV-2 infection.
+    let !c self assert = The massive macrophage infiltration alongside fibrin deposition has recently been observed in lung tissue examined at autopsy from patients with severe Covid-19, raising the possibility of a common immunopathology leading to macrophage recruitment and activation causing tissue damage. Further studies of placenta from women with Covid-19 may help address whether this is a histological feature associated with placental SARS-CoV-2 infection.
 
     / May, 2020 - Medrxiv
     let !d self assert = This patient’s thrombocytopenia and hypofibrinogenemia were more severe than what would have been expected from Covid-19 alone.
 
     / May, 2020 - Medrxiv
-    let !e self assert = Importantly, there were no amino acid differences found in SARS-CoV-2 genome sequenced from the placenta compared to others sequenced from around the world , suggesting that placenta nvasion is not a unique feature of this virus and it does not require adaptation. Rather, given the patient’s high serum titers of anti-SARS-CoV-2 spike protein antibodies, a potential mechanism to explain placental invasion in this case would be antibody dependent transcytosis mediated by the neonatal Fc receptor (FcRn), which has previously been observed for other viruses including CMV, HIV, and Zika.
+    let !e self assert = Importantly, there were no amino acid differences found in SARS-CoV-2 genome sequenced from the placenta compared to others sequenced from around the world, suggesting that placenta invasion is not a unique feature of this virus and it does not require adaptation. Rather, given the patient’s high serum titers of anti-SARS-CoV-2 spike protein antibodies, a potential mechanism to explain placental invasion in this case would be antibody dependent transcytosis mediated by the neonatal Fc receptor (FcRn), which has previously been observed for other viruses including CMV, HIV, and Zika.

@@ -52,21 +52,43 @@ feed Sangeeta
     let !a self assert =
 
   #
+  // Neutralizing antibody responses to SARS-CoV-2 in a COVID-19 recovered patient cohort and their implications
+  doi: https://doi.org/10.1101/2020.03.30.20047365
+  ref 'Wu_et_al_04_20_2020b
+    head = The variations of SARS-CoV-2 specific NAbs in recovered COVID-19 patients may raise the concern about the role of NAbs on disease progression. Furthermore, titration of NAb is helpful prior to the use of convalescent plasma for prevention or treatment.
 
-  // DUMMY TITLE
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
+    >>> Background
+      The COVID-19 pandemic caused by SARS-CoV-2 coronavirus threatens global public health. Currently, neutralizing antibodies (NAbs) versus this virus are expected to correlate with recovery and protection of this disease. However, the characteristics of these antibodies have not been well studied in association with the clinical manifestations in patients.
+
+    >>> Methods
+      Plasma collected from 175 COVID-19 recovered patients with mild symptoms were screened using a safe and sensitive pseudotyped-lentiviral-vector-based neutralization assay. Spike-binding antibody in plasma were determined by ELISA using RBD, S1, and S2 proteins of SARS-CoV-2. The levels and the time course of SARS-CoV-2-specific NAbs and the spike-binding antibodies were monitored at the same time.
+
+    >>> Findings
+      SARS-CoV-2 NAbs were unable to cross-reactive with SARS-CoV virus. SARS-CoV-2-specific NAbs were detected in patients from day 10-15 after the onset of the disease and remained thereafter. The titers of NAb among these patients correlated with the spike-binding antibodies targeting S1, RBD, and S2 regions. The titers of NAbs were variable in different patients. Elderly and middle-age patients had significantly higher plasma NAb titers (P<0.0001) and spike-binding antibodies (P=0.0003) than young patients. Notably, among these patients, there were ten patients whose NAb titers were under the detectable level of our assay (ID50: < 40); while in contrast, two patients, showed very high titers of NAb, with ID50 :15989 and 21567 respectively. The NAb titers were positive correlated with plasma CRP levels but negative correlated with the lymphocyte counts of patients at the time of admission, indicating an association between humoral response and cellular immune response.
+
+    >>> Interpretation
+      The variations of SARS-CoV-2 specific NAbs in recovered COVID-19 patients may raise the concern about the role of NAbs on disease progression. The correlation of NAb titers with age, lymphocyte counts, and blood CRP levels suggested that the interplay between virus and host immune response in coronavirus infections should be further explored for the development of effective vaccine against SARS-CoV-2 virus. Furthermore, titration of NAb is helpful prior to the use of convalescent plasma for prevention or treatment.
 
     -- exports
       !a
+      !b
+      !c
+      !d
 
-    / February, 2020 - bioRxiv
-    let !a self assert =
+    / April, 2020 - medRxiv
+    let !a self assert = Elderly and middle-age patients had significantly higher plasma NAb titers (P<0.0001) and spike-binding antibodies (P=0.0003) than young patients.
 
-  #
+    / April, 2020 - medRxiv
+    let !b self assert = The NAb titers were positive correlated with plasma CRP levels but negative correlated with the lymphocyte counts of patients at the time of admission, indicating an association between humoral response and cellular immune response.
 
+    # / April, 2020 - medRxiv
+    # let !a self assert = Conserved epitopes may exist between SARS-CoV-2 and SARS-CoV since they share 77.2% identical amino acids in their spike proteins. Even though plasma from COVID-19 patients showed cross-binding to SARS-Cov, they did not neutralize SARS-CoV, indicating that the antigenicity of SARS-CoV-2 is different from that of SARS-CoV. Evidence deduced from this study only suggested that cross-neutralizing antibodies targeted the conserved epitopes of SARS-CoV and SARS-CoV-2 may not be easily elicited during the infection of COVID-19, making this a potential line of advanced study.
 
+    / April, 2020 - medRxiv
+    let !c self assert = The levels of NAbs in patients were variable. About 30% of patients failed to develop high titers of NAbs after COVID-19 infection. However, the disease duration of these patients compared to others was similar. Notably, there were ten recovered patients whose NAb titers were very low, under the detectable level of this study (ID50: <40).
+
+    / April, 2020 - medRxiv
+    let !d self assert = The highly variable levels of NAbs in the patients of COVID-19 indicated that convalescent plasma and serum from recovered donors should be titrated before use in passive antibody therapy.
 
 
 

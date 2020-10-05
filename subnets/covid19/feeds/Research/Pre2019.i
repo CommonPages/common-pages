@@ -1944,18 +1944,14 @@ feed Pre2019
   // COVID-19 exacerbating inequalities in the US
   doi: https://doi.org/10.1016/S0140-6736(20)30893-X
   article 'Van-Dorn_et_al_04_18_2020
-    head = COVID-19 does not affect everyone equally. In the US, it is exposing inequities in the health system. Although the numbers of reported cases seem to be levelling off in New York City and other urban areas, perhaps evidence that social-distancing measures are beginning to have an effect, emerging morbidity and mortality data have already clearly demonstrated what many have feared: a pandemic in which the brunt of the effects fall on already vulnerable US populations, and in which the deeply rooted social, racial, and economic health disparities in the country have been laid bare.
+    head = COVID-19 does not affect everyone equally. In the US, it is exposing inequities in the health system. Emerging morbidity and mortality data have clearly demonstrated: a pandemic in which the brunt of the effects fall on already vulnerable US populations, and in which the deeply rooted social, racial, and economic health disparities in the country have been laid bare.
 
     -- exports
       !a
       !b
       !c
       !d
-      !e
       !f
-      !g
-      !h
-      !i
 
     / April, 2020 - The Lancet
     let !a self assert = Confirming existing disparities, within New York City and other urban centres, African American and other communities of colour have been especially affected by the COVID-10 pandemic. Across the country, deaths due to COVID-19 are disproportionately high among African Americans compared with the population overall. In Milwaukee, WI, three quarters of all COVID-19 related deaths are African American, and in St Louis, MO, all but three people who have died as a result of COVID-19 were African American.
@@ -1973,7 +1969,7 @@ feed Pre2019
     let !e self assert = Native American populations also have disproportionately higher levels of underlying conditions, such as heart disease and diabetes, that would make them particularly at risk of complications from COVID-19. Health care for Native American communities has a unique place in the US. As part of treaty obligations owed by the US government to tribal groups, the Indian Health Service (IHS) provides direct point of care health care for the 2·6 million Native Americans living on tribal reservations.
 
     / April, 2020 - The Lancet
-    let !f self assert = According to the IHS, there are currently 985 confirmed cases of COVID-19 on tribal reservations, and 536 cases in the Navajo Nation alone (the largest reservation). However, the IHSs ability to respond to the crisis might be limited: according to according to Kevin Allis, Chief Executive Officer of the National Congress of American Indians, the largest Native American advocacy organisation, the IHS has only 1257 hospital beds and 36 intensive care units, and many people covered by the IHS are hours away from the nearest IHS facility. The IHS also does not cover care from external providers. Although there is a provision of the CARES Act stimulus bill that is intended to cover those costs, it is unclear how effective it would be if someone covered by the IHS is transferred to a non-IHS facility.
+    let !f self assert = According to the IHS, there are currently 985 confirmed cases of COVID-19 on tribal reservations, and 536 cases in the Navajo Nation alone (the largest reservation). The IHS has only 1257 hospital beds and 36 intensive care units, and many people covered by the IHS are hours away from the nearest IHS facility. The IHS also does not cover care from external providers. Although there is a provision of the CARES Act stimulus bill that is intended to cover those costs, it is unclear how effective it would be if someone covered by the IHS is transferred to a non-IHS facility.
 
     / April, 2020 - The Lancet
     let !g self assert = At the national level, the response has varied widely by state, with many states that voted for Trump in 2016—notably Florida, Texas, and Georgia—responding to the emerging pandemic later and with more lax measures. Florida Governor Ron DeSantis, a Republican Trump ally, was slow to implement social-distancing measures and close non-essential businesses, and Georgia Governor Brian Kemp ordered beaches closed by local authorities to be reopened on April 3. However, the trend has not been universal: in Ohio, Republican Governor Mike DeWine was swift in issuing orders to shut non-essential businesses and in responding to the crisis.
@@ -1982,7 +1978,9 @@ feed Pre2019
     let !h self assert = The federal response has also been overtly political. States with governors that Trump sees as political allies (such as Florida), have received the full measure of requested personal protective equipment from the federal stockpile, while states with governors whom Trump identifies as political enemies (such as New Yorks Cuomo, Oregons Jay Inslee, and Michigans Gretchen Whitmer, all Democrats) have received only a fraction of their requests.
 
     / April, 2020 - The Lancet
-    let !i self assert =  In distributing funds made available by the CARES Act, Trump also appears to be playing favourites: New York received only a fraction of the $30 billion hospital relief funds from the bill ($12 000 per patient), while other states much more lightly affected received more ($300 000 per patient in Montana and Nebraska, and more than $470 000 per patient in West Virginia, all states that voted for Trump in 2016).
+    let !i self assert = In distributing funds made available by the CARES Act, Trump also appears to be playing favourites: New York received only a fraction of the $30 billion hospital relief funds from the bill ($12 000 per patient), while other states much more lightly affected received more ($300 000 per patient in Montana and Nebraska, and more than $470 000 per patient in West Virginia, all states that voted for Trump in 2016).
+
+
 
   # Modeling analyses, FRANCE
   // Estimating the burden of SARS-CoV-2 in France
@@ -4252,7 +4250,7 @@ feed Pre2019
   // Pulmonary Infectious Mortality Among Patients With End-Stage Renal Disease
   doi: https://doi.org/10.1378/chest.120.6.1883
   article 'Sarnak_et_al_2001
-    head = Patients with ESRD (end-stage renal disease) treated with dialysis have higher pulmonary infectious mortality rates compared with the GP (General Population), even after stratification for age, race, and DM (diabetes mellitus).
+    head = Patients with ESRD (end-stage renal disease) treated with dialysis have higher pulmonary infectious mortality rates compared with the GP (General Population), even after stratification for age, race, and DM (diabetes mellitus). Consequently, this patient population must be considered at high risk for the development of lethal pulmonary infections.
 
     >>> Background
       Infection is the second-leading cause of death among patients with end-stage renal disease (ESRD). This is due in part to advanced age, comorbid conditions, and immune dysfunction observed in uremic states. Although one may hypothesize that pulmonary infectious mortality is higher among patients with ESRD compared with the general population (GP), no such data are currently available.
@@ -4266,8 +4264,10 @@ feed Pre2019
     >>> Conclusion
       Patients with ESRD treated with dialysis have higher pulmonary infectious mortality rates compared with the GP, even after stratification for age, race, and DM. Consequently, this patient population must be considered at high risk for the development of lethal pulmonary infections.
 
-    # / December, 2001 -  Chest
+    # / December, 2001 - Chest
     # let !a self assert =
+
+
 
   # Incubation period - Incubation cycle / Trajectory
   // Incubation periods of acute respiratory viral infections: a systematic review
@@ -4316,6 +4316,8 @@ feed Pre2019
 
     # / Oct, 1990 - epidemiology & infection
     # let !a self assert =
+
+
 
   # Serology Testing
   // Seropepidemiologic studies of coronavirus infections in adults and children.
@@ -4747,7 +4749,7 @@ feed Pre2019
   //  Duration of Antibody Responses after Severe Acute Respiratory Syndrome
   doi: https://doi.org/10.3201/eid1310.070576
   article 'Wu_et_al_2007
-    head = Among 176 patients who had had severe acute respiratory syndrome (SARS), SARS-specific antibodies were maintained for an average of 2 years, and significant reduction of immunoglobulin G–positive percentage and titers occurred in the third year. Thus, SARS patients might be susceptible to reinfection >3 years after initial exposure
+    head = Among 176 patients who had had severe acute respiratory syndrome (SARS), SARS-specific antibodies were maintained for an average of 2 years, and significant reduction of immunoglobulin G–positive percentage and titers occurred in the third year. Thus, SARS patients might be susceptible to reinfection >3 years after initial exposure.
 
     -- exports
       !a
@@ -5209,8 +5211,8 @@ feed Pre2019
   // The Time Course of the Immune Response to Experimental Coronavirus Infection of Man
   doi: https://doi.org/10.1017/s0950268800048019
   article 'Callow_et_al_1990
-    head =  In a group of 15 Volunteers inoculated with coronavirus, Antibody concentrations started to increase 1 week after inoculation and reached a maximum about 1 week later. Although concentrations were still slightly raised 1 year later, this did not always prevent reinfection when volunteers were then challenged with the homologous virus.
-
+    head = In a group of 15 Volunteers inoculated with coronavirus, concentrations started to increase 1 week after inoculation and reached a maximum about 1 week later. Thereafter antibody titres slowly declined. Although concentrations were still slightly raised 1 year later, this did not always prevent reinfection when volunteers were then challenged with the homologous virus.
+    
     -- exports
       !a
       !b
@@ -5218,10 +5220,10 @@ feed Pre2019
       !d
 
     / October, 1990 - Epimediology Infections
-    let !a self assert =  The period of virus shedding was shorter than before and none developed a cold. All of the uninfected group were infected on re-challenge although they also appeared to show some resistance to disease and in the extent of infection.
+    let !a self assert = The period of virus shedding was shorter than before and none developed a cold. All of the uninfected group were infected on re-challenge although they also appeared to show some resistance to disease and in the extent of infection.
 
     / October, 1990 - Epimediology Infections
-    let !b self assert = In the infected group there were considerable individual differences. Some lost their antibody, particularly serum antibody, completely by 1 year, some did not. Such differences are also seen in rhinovirus infections . They indicate that resistance may be a more inherent characteristic than is generally supposed. It is known that extroversion, obsessionality and other essentially permanent psychological characteristics seem to be related to infection rates.
+    let !b self assert = In the infected group there were considerable individual differences. Some lost their antibody, particularly serum antibody, completely by 1 year, some did not. Such differences are also seen in rhinovirus infections. They indicate that resistance may be a more inherent characteristic than is generally supposed. It is known that extroversion, obsessionality and other essentially permanent psychological characteristics seem to be related to infection rates.
 
     / October, 1990 - Epimediology Infections
     let !c self assert = The incidence of reinfection after 1 year was greater than that observed with rhinovirus infection and did not support Reed's study in which reinfection with a homologous coronavirus strain after 1 year did not occur.
@@ -5229,14 +5231,18 @@ feed Pre2019
     / / October, 1990 - Epimediology Infections
     let !d self assert = Since adults have about two colds per year on average and about half of all coronavirus infections are subclinical each adult should have a coronavirus infection every 2-3 years. This agrees with Monto who suggested a 2-3 year cyclic pattern. It indicates that protective amounts of antibody may have disappeared by 2 years, and that if we had been able to reinoculate the volunteers after a further year, the reinfection rate would have been even higher.
 
+
+
   # Antibodies
   // Antibody Response and Disease Severity in Healthcare Worker MERS Survivors
   doi: https://doi.org/10.3201/eid2206.160010
   article 'Alshukairi_et_al_2016
-    head = 2 patients with severe MERS-associated pneumonia had a persistent antibody response detected for >18 months after infection, whereas patients with disease confined to the upper respiratory tract or who had no clinical signs had no detectable MERS-CoV antibody response.
+    head = Our results indicate that the longevity of the MERS-CoV antibody response correlated with disease severity. 2 patients with severe MERS-associated pneumonia had a persistent antibody response detected for >18 months after infection, whereas patients with disease confined to the upper respiratory tract or who had no clinical signs had no detectable MERS-CoV antibody response.
 
     >>> Abstract
       We studied antibody response in 9 healthcare workers in Jeddah, Saudi Arabia, who survived Middle East respiratory syndrome, by using serial ELISA and indirect immunofluorescence assay testing. Among patients who had experienced severe pneumonia, antibody was detected for >18 months after infection. Antibody longevity was more variable in patients who had experienced milder disease.
+
+
 
   # Background
   // Genetic drift of human coronavirus OC43 spike gene during adaptive evolution

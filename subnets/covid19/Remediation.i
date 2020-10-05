@@ -103,6 +103,7 @@ subject module Remediation
         'Baum_et_al_06_11_2020
         'Robbiani_et_al_06_18_2020
         'Lau_et_al_05_04_2020
+        'Liu_et_al_06_16_2020
 
   subject module Therapeutics
     head = Researchers have developed drug catalog which showed that there were potential interactions between the virus, human cells and these existing drugs or compounds. They have identified strong treatment leads and mechanisms that effects and alleviate the severity of COVID-19.
@@ -654,6 +655,7 @@ subject module Remediation
       --
         'Takahashi_et_al_06_09_2020.!j
 
+
   —
   / Clinical Management
   subject module ClinicalRecommendation
@@ -733,6 +735,7 @@ subject module Remediation
         'Richardson_et_al_04_22_2020.!f
         'Richardson_et_al_04_22_2020.!l
         'Richardson_et_al_04_22_2020.!g
+        'Simonnet_et_al_2020
       -- Side effects
         'Dreyfuss_et_al_1998
         'Soni_et_al_2008

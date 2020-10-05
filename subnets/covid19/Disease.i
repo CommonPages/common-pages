@@ -21,6 +21,8 @@ subject module Disease
       'Du_et_al_2020
       'Zou_et_al_2020
       'Lavezzo_et_al_04_18_2020
+    -- Longer viral shedding
+      'Xin-Long_et_al_06_18_2020.!c1
     -- Examples of asymptomatic + Presymptomatic cases
       'Mizumoto_et_al_2020
       'Lavezzo_et_al_04_18_2020.!b
@@ -204,6 +206,7 @@ subject module Disease
           'Rosenberg_et_al_05_29_2020.!g
           'Lee_et_al_05_28_2020.!d
           'Chen_et_al_2020c.!e
+          'Garg_et_al_2020
         -- lymphocytes count lower for progressively older age groups
           'Richardson_et_al_04_22_2020.!k
         >>>
@@ -237,30 +240,31 @@ subject module Disease
         'Chen_et_al_2020c
         'Chen_et_al_2020c.!c
         'Pan_et_al_2020.!a
-        'Simonnet_et_al_2020.!b
         'Williamson_et_al_05_07_2020.!a
         'Salje_et_al_04_20_2020.!c
         'Rosenberg_et_al_05_29_2020.!b
         'Lee_et_al_05_28_2020.!d
         'Richardson_et_al_04_22_2020.!d
+        'Garg_et_al_2020.!c
       -- Increased IL-6 levels is associated with disease severity
         'DelValle_et_al_05_30_2020.!e
       -- Higher levels of key innate immune cytokines not associated with worse disease progression
         'Takahashi_et_al_06_09_2020
         # There is also supportive evidence of estrogen and a need for clinical trials, as these downregulate TMPRSS2.
+
     / Smokers
     subject Smokers
-      head = According to scientific reviews smokers are more likely to require intensive care or die compared to non-smokers.
+      head = According to scientific reviews smokers are more likely to require intensive care or die compared to non-smokers. # smokers are particularly susceptible to severe SARS-CoV-2 infections.
 
       --
-        # 'Pan_et_al_2020.!b
         'Fontanet_et_al_04_23_2020.!a
-      >>>
-        Higher ACE2 level is associated with disease severity
+      # >>>
+      # Research has shown that there is overabundance of ACE2 in the lungs of smokers which may partially explain why smokers are significantly more likely to develop severe SARS-CoV-2 infections that require aggressive medical interventions. Certain inflammatory cytokines also trigger ACE2 upregulation, which could further influence ACE2 expression due to smoking-associated lung inflammation. However, the exact role of ACE2 as a mediator of disease severity remains to be determined. These results may partially explain why smokers are particularly susceptible to severe SARS-CoV-2 infections.
       --
         'Smith_et_al_2020
       --
         'Smith_et_al_04_26_2020
+
     / Pregnant Women
     subject PregnantWomen
       head = Studies reveal that in pregnant women COVID-19 did not lead to maternal deaths. Research has shown no confirmed cases of vertical transmission of SARS-CoV-2 from mothers with COVID-19 to their fetuses though recent case reports demonstrate SARS-CoV-2 infection of the placenta.
@@ -288,10 +292,8 @@ subject module Disease
       -- USA
         'Arentz_et_al_2020
         'Garg_et_al_2020
-        'Garg_et_al_2020.!a
         'Garg_et_al_2020.!d
-        'Garg_et_al_2020.!e
-        'Lighter_et_al_2020.!c
+        'Lighter_et_al_2020
         'Kujawski_et_al_2020
       -- New York
         'Richardson_et_al_04_22_2020
@@ -398,38 +400,79 @@ subject module Disease
           'Li_et_al_2020c
           'DelValle_et_al_05_30_2020.!g
       subject HIV
-        --
+        -- Increased risk of SARS-CoV-2 infection
+          'Xu_et_al_05_28_2020.!b
           'Vizcarra_et_al_05_28_2020
+        -- HIV have lower risks of infection
           'Xu_et_al_05_28_2020
+
       subject Cancer
         --
           'Lee_et_al_05_28_2020
       subject Diabetes
-        --
+        -- Diabetes are more likely to develop severe/ICU cases
           'Li_et_al_2020c.!b
-          'DelValle_et_al_05_30_2020.!g
-          'Li_et_al_05_29_2020
+          'Li_et_al_05_29_2020.!d
           'Richardson_et_al_04_22_2020.!l
-        >>>
-          The expression of ACE2 is substantially increased in patients with type 1 or type 2 diabetes, who are treated with ACE inhibitors and angiotensin II type-I receptor blockers (ARBs).
-        --
-          'FangFang_et_al_2020
-        --
-          'Sarnak_et_al_2001
-      subject Hypertension
-        --
-          'Li_et_al_2020c.!b
-          'Lee_et_al_05_28_2020.!d
+        -- TNF-a and IL-8 were significantly increased in patients diabetes
           'DelValle_et_al_05_30_2020.!g
-          'Richardson_et_al_04_22_2020.!n
+        -- Newly diagnosed diabetes had the highest risk of all‐cause mortality
+          'Li_et_al_05_29_2020
         >>>
-          Hypertension is treated with ACE inhibitors and ARBs, which results in an upregulation of ACE2
-        --
+          ACE2 expression is increased in diabetes (type 1 or type 2) and treatment with ACE inhibitors and ARBs increases ACE2 expression.
+
+        -- Diabetes treatment with ACE2-stimulating drugs increases the risk of developing severe and fatal COVID-19.
           'FangFang_et_al_2020
+          'FangFang_et_al_2020.!f
+        -- Reports
+          'FangFang_et_al_2020.!b
+          'FangFang_et_al_2020.!c
+          'FangFang_et_al_2020.!d
+          'FangFang_et_al_2020.!e
+
+          # No evidence that antihypertensive calcium channel blockers increased ACE2 expression or activity
+        -- Potential new therapy for inflammatory lung diseases, cancer, diabetes, and hypertension.
+          'FangFang_et_al_2020.!a
+          'FangFang_et_al_2020.!g
+
+
+      subject Hypertension
+        -- Likely to develop severe/ICU cases after 2019-nCoV infection.
+          'Li_et_al_2020c.!b
+        -- less likely to recieve care in the ICU
+          'Richardson_et_al_04_22_2020.!l
+        --
+          'DelValle_et_al_05_30_2020.!g
+        >>>
+          Hypertension is treated with ACE inhibitors and ARBs, which results in an upregulation of ACE2.
+        -- Hypertension treatment with ACE2-stimulating drugs increases the risk of developing severe and fatal COVID-19.
+          'FangFang_et_al_2020
+          'FangFang_et_al_2020.!f
+        -- Reports
+          'FangFang_et_al_2020.!b
+          'FangFang_et_al_2020.!c
+          'FangFang_et_al_2020.!d
+          'FangFang_et_al_2020.!e
+          'Lee_et_al_05_28_2020.!d
+          'Richardson_et_al_04_22_2020.!n
+
+          # No evidence that antihypertensive calcium channel blockers increased ACE2 expression or activity
+        -- Potential new therapy for inflammatory lung diseases, cancer, diabetes, and hypertension.
+          'FangFang_et_al_2020.!a
+          'FangFang_et_al_2020.!g
+
       subject Obesity
         --
           'Simonnet_et_al_2020
           'Lighter_et_al_2020
+
+      subject RenalDisease
+        -- High risk for the development of lethal pulmonary infections.
+          'Sarnak_et_al_2001
+        -- TNF-a and IL-8 were significantly increased in patients with chronic kidney disease (CKD)
+          'DelValle_et_al_05_30_2020.!g
+        -- Increased risk of death from COVID-19
+          'DelValle_et_al_05_30_2020.!j
 
     / Bloodgroup
     subject Bloodgroup
@@ -437,14 +480,13 @@ subject module Disease
       --
         'Zhao_et_al_2020b
         'Ellinghaus_et_al_06_02_2020.!a
-        'Ellinghaus_et_al_06_17_2020
-
 
     / Ethnicity
     subject Ethnicity
       head = Case Reports from US shows, a greater proportion of deaths due to COVID-19 have occurred among African Americans. Similar issues affect Native American and Latino communities.
       --
         'Williamson_et_al_05_07_2020
+      -- Reports
         'Rosenberg_et_al_05_29_2020.!c
         'Rosenberg_et_al_05_29_2020.!f
         'DelValle_et_al_05_30_2020.!f
@@ -465,6 +507,7 @@ subject module Disease
       'Salje_et_al_04_20_2020.!b
       'Basu_et_al_05_07_2020
       'Russell_et_al_2020
+      'Kujawski_et_al_2020.!b
     -- Mortality Rate
       'Hauser_et_al_2020
       'Modig_et_al_2020
@@ -478,10 +521,16 @@ subject module Disease
       'Richardson_et_al_04_22_2020.!g
       'Richardson_et_al_04_22_2020.!n
       'Hauser_et_al_2020
+      'Docherty_et_al_2020.!a
+
     -- Predicting Mortality and Infection Fatality Rate
       'Yan_et_al_05_14_2020
       'Grewelle_et_al_05_18_2020
 
+
+
+
+  # have to link this section to vaccine development
   / Immunity
   subject module Immunity
     head = Studies have shown that recovered patients have protective immunity that prevents them from being reinfected. The duration of immunity still remains unclear.
@@ -489,28 +538,39 @@ subject module Disease
     subject Antibodies
       head = Studies show that people who have recovered from infection have antibodies to the virus. IgM antibodies to SARS-CoV-2 are generally detectable several days after initial infection. IgG antibodies generally become detectable 10–14 days after infection.
       >>>
-        Based on studies, antibodies vary widely in their efficacy. Some people have poor response, some average. And then there is a fraction of people that are exceptional responders.A new study on  the immune response in asymptomatic people indicate lack of sufficient "long-lasting protective antibodies" post SARSCoV2 infection
+        Based on studies, antibodies vary widely in their efficacy. Some people have poor response, some average. And then there is a fraction of people that are exceptional responders. A new study on the immune response in asymptomatic people indicate lack of sufficient "long-lasting protective antibodies" post SARSCoV2 infection.
       -- SARS-CoV2 Antibodies
-        'Zhang_et_al_2020g
+        'Zhang_et_al_2020g.!a
         'Amanat_et_al_2020
         'Lv_et_al_06_02_2020
         'Wu_et_al_2020b
         'Jiang_et_al_2020
+      -- Immune response differ in gender
+        'Jiang_et_al_2020.!e
       # T-Cell and Cross Reactivity papers here (Prior Immunity)
       --
         'Nelde_et_al_06_16_2020
         'Petrova_et_al_02_20_2012
+
+        # vaccine dev frontiers
+      -- RBD-specific antibodies with potent antiviral activity
+        'Robbiani_et_al_06_18_2020
       >>>
-        IgM antibodies to SARS-CoV-2 are generally detectable several days after initial infection, although levels over the course of infection are not well characterized.IgG antibodies generally become detectable 10–14 days after infection, sometimes earlier, and normally peak around 28 days after infection onset.
+        IgM antibodies to SARS-CoV-2 are generally detectable several days after initial infection, although levels over the course of infection are not well characterized. IgG antibodies generally become detectable 10–14 days after infection, sometimes earlier, and normally peak around 28 days after infection onset.
       -- SARS CoV-2 IgM and IgG
         'Zhao_et_al_2020
         'Zhao_et_al_2020.!a
         'Zhao_et_al_2020.!b
         'Zhao_et_al_2020.!c
+
+        # vaccine dev frontiers
       -- IgG is not long lasting
         'Liu_et_al_06_16_2020
         'Robbiani_et_al_06_18_2020
         'Xin-Long_et_al_06_18_2020
+        'Xin-Long_et_al_06_18_2020.!d
+        'Xin-Long_et_al_06_18_2020.!c
+        'Wu_et_al_04_20_2020b.!c
       >>>
         Studies of antibodies on other coronaviruses.
       -- MERS
@@ -521,11 +581,11 @@ subject module Disease
         'Liu_et_al_2019
       -- Other coronaviruses
         'Callow_et_al_1990
-        'Ka_et_al_1990
 
     / Reinfection
     subject Reinfection
       head = The reinfection can not occur if neutralizing antibodies are produced at primary infection. Reinfection immunity to adult has been studied using laboratory animal models, the results showed that animal models become resistant to reinfection.
+      # Add latest papers
       --
         'Bao_et_al_2020
         'Bao_et_al_2020.!a
@@ -537,7 +597,7 @@ subject module Disease
       head = Reports suggest that the tests which declared relapse were giving false negative reactions. Other findings hint that the diagnostic tests are picking up on the genetic material from noninfectious viruses, which means people are not infected nor they are infectious to others.
       --
         'Yuan_et_al_2020
-        'Xie_et_al_2020
+
       # Counter?
       --
         'Lan_et_al_2020

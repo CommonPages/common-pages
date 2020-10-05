@@ -3,6 +3,14 @@ subject module Diagnostics
 
   subject module Methods
     head = PCR & RT-PCR is a viral test for a current infection. Serology test is used for antibody testing and can be used to detect past infection. Other techniques include a CT scan, checking for elevated body temperature or checking for low blood oxygen level.
+
+    # Antibody Detection- https://ccpp19.org/healthcare_providers/virology/antibodies.html#:~:text=Values%20for%20IgG%20antibodies%20%3E%206.5,be%20used%20in%20a%20patient.
+    # https://www.fda.gov/media/137029/download
+    # https://www.nytimes.com/article/antibody-test-coronavirus.html
+    # https://www.cdc.gov/coronavirus/2019-ncov/lab/resources/antibody-tests-guidelines.html
+    # https://asm.org/Articles/2020/May/COVID-19-Serology-Testing-Explained
+    # Long-Term Immunity—Does It Exist With COVID-19?-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7184973/
+
     / Serology
     subject Serology
       head = Serological tests detect antibodies produced by the body in response to infection. It can measure neutralizing antibodies and binding antibodies. Antibody serosurveys are being conducted to monitor trends in the prevalence of the novel coronavirus.
@@ -19,7 +27,6 @@ subject module Diagnostics
         'Jiang_et_al_2020
         'Stadlbauer_et_al_2020
         'Amanat_et_al_2020
-        'Amanat_et_al_2020.!f
         'Okba_et_al_2020
         'Muruato_et_al_05_22_2020
       >>>
@@ -120,6 +127,7 @@ subject module Diagnostics
     head = Several studies are investigating range of inflammatory markers in blood, biomarkers and immune features to determine their role in disease severity and risk factors.
     -- LDH
       'Han_et_al_2020
+      'Jiang_et_al_2020.!d
     -- Using ACE 2 to predict Susceptibility
       'Stawiski_et_al_2020
     # Club immune profiling / cytokine / severity and respiratory together
@@ -138,6 +146,11 @@ subject module Diagnostics
       'DelValle_et_al_05_30_2020
       'DelValle_et_al_05_30_2020.!m
       'Coomes_et_al_04_03_2020
+      'Zhao_et_al_2020.!d
+      'Jiang_et_al_04_27_2020.!c
+    -- Antibody titers with disease severity
+      'Nelde_et_al_06_16_2020
+      'Nelde_et_al_06_16_2020.!f
     -- Respiratory Failure (IL-6)
       'Herold_et_al_04_10_2020
     -- HLA
@@ -148,5 +161,13 @@ subject module Diagnostics
     -- Detection
       'Yang_et_al_2020.!a
       'Yang_et_al_2020.!b
-    -- lymphocytes as a reference index- diagnosis of covid19
+    -- Lymphocytes as a reference index- diagnosis of covid19
       'Chen_et_al_2020c.!g
+      'Yuan_et_al_2020.!j
+      'Yuan_et_al_2020.!k
+    -- ABO blood type - biomarker for differential susceptibility of COVID-19
+      'Zhao_et_al_2020b
+    -- Infected patients completely recovered and can be released from quarantine.
+      'Yuan_et_al_2020.!i
+      'Yuan_et_al_2020.!j
+      'Yuan_et_al_2020.!k

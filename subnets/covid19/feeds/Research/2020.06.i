@@ -813,7 +813,7 @@ feed June2020
   // Prevalence of IgG antibodies to SARS-CoV-2 in Wuhan - implications for the ability to produce long-lasting protective antibodies against SARS-CoV-2
   doi: https://doi.org/10.1101/2020.06.13.20130252
   ref 'Liu_et_al_06_16_2020
-    head = Very few healthcare providers had IgG antibodies to SARS-CoV-2, though a significant proportion of them had been infected with the virus. After SARS-CoV-2 infection, people are unlikely to produce long-lasting protective antibodies against this virus.
+    head = Very few healthcare providers had IgG antibodies to SARS-CoV-2, though a significant proportion of them had been infected with the virus. More than 10% of COVID-19 patients did not have those antibodies after 21 days post symptom onset. After SARS-CoV-2 infection, people are unlikely to produce long-lasting protective antibodies against this virus.
 
     >>> Background
       It is to be determined whether people infected with SARS-CoV-2 will develop long-term immunity against SARS-CoV-2 and retain long-lasting protective antibodies after the infection is resolved. This study was to explore to explore the outcomes of IgG antibodies to SARS-CoV-2 in four groups of individuals in Wuhan, China.
@@ -834,41 +834,46 @@ feed June2020
       !d
 
     / June, 2020 - medRxiv
-    let !a self assert = IgG prevalence was 89.8% (95% CI 88.2-91.3%) in COVID-19 patients, 4.0% (95% CI 3.4-4.7%) in healthcare providers, 4.6 (95% CI 4.3-4.9 %) in general workers, and 1.0% in other patients (p all <0.001 for comparisons with COVID-19 patients).
+    let !a self assert = IgG prevalence was 89.8% in COVID-19 patients, 4.0% in healthcare providers, 4.6 in general workers, and 1.0% in other patients (p all <0.001 for comparisons with COVID-19 patients).
 
     / June, 2020 - medRxiv
-    let !b self assert = IgG prevalence increased significantly by age among healthcare workers and general workers. IgG prevalence increased significantly by age among healthcare providers, and was 2.8% in those <30 years old, 9.6% in those 60-69 years old and 10.0% in those ≥70 years old (p<0.001 for trend). IgG prevalence also increased significantly by age among general workers.
+    let !b self assert = IgG prevalence increased significantly by age among healthcare workers, and was 2.8% in those <30 years old, 9.6% in those 60-69 years old and 10.0% in those ≥70 years old (p<0.001 for trend). IgG prevalence also increased significantly by age among general workers.
 
     / June, 2020 - medRxiv
     let !c self assert = Prevalence of IgM antibodies to SARS-CoV-2 was 31.4% in COVID-19 patients, 1.5% in healthcare providers, 1.3% in general workers, and 0.2% in other patients.
 
     / June, 2020 - medRxiv
-    let !d self assert = Mortality rate was 1.3% (95% CI 0.7-1.9%) in those with IgG antibodies to SARS-CoV-2 and was 3.3% (95% CI 0.4-6.2%) in those without. Mortality risk was similar between those with IgG antibodies to SARS-CoV-2 and those without (adjusted hazard ratio 0.45 95% CI 0.16-1.24, P=0.12).
+    let !d self assert = Mortality rate was 1.3% in those with IgG antibodies to SARS-CoV-2 and was 3.3% in those without. Mortality risks were similar between hospitalized COVID19 patients with IgG antibodies to SARS-CoV-2 and those without, which indicates that absence of IgG antibodies may not affect clinical end outcome and IgG antibodies may even not be part of short-term protective immune response against SARS-CoV-2.
+
 
 
   # IgG, Antibodies, asymptomatic, the lack of sufficient "long-lasting protective antibodies" post #SARSCoV2 infection and the risks of using #COVID19 "immunity passports". This does not imply they can be reinfected.A certain type of antibody IgG wanes.This doesn’t mean you lose protection from covid after an infection.   More studies are needed.- REFER TO SHEET FOR ARGUMENT, club with 725
   // Clinical and immunological assessment of asymptomatic SARS-CoV-2 infection
   doi: https://doi.org/10.1038/s41591-020-0965-6
   ref 'Xin-Long_et_al_06_18_2020
-    head = We studied the clinical features and immune responses of asymptomatic individuals infected with SARS-CoV-2. Our data suggest that asymptomatic individuals had a weaker immune response to SARS-CoV-2 infection. The reduction in IgG and neutralizing antibody levels in the early convalescent phase might have implications for immunity strategy and serological surveys.
+    head = Our data suggest that asymptomatic individuals had a weaker immune response to SARS-CoV-2 infection. The reduction in IgG and neutralizing antibody levels in the early convalescent phase might have implications for immunity strategy and serological surveys.
 
     >>> Abstract
       The clinical features and immune responses of asymptomatic individuals infected with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) have not been well described. We studied 37 asymptomatic individuals in the Wanzhou District who were diagnosed with RT–PCR-confirmed SARS-CoV-2 infections but without any relevant clinical symptoms in the preceding 14 d and during hospitalization. Asymptomatic individuals were admitted to the government-designated Wanzhou People’s Hospital for centralized isolation in accordance with policy1. The median duration of viral shedding in the asymptomatic group was 19 d (interquartile range (IQR), 15–26 d). The asymptomatic group had a significantly longer duration of viral shedding than the symptomatic group (log-rank P = 0.028). The virus-specific IgG levels in the asymptomatic group (median S/CO, 3.4; IQR, 1.6–10.7) were significantly lower (P = 0.005) relative to the symptomatic group (median S/CO, 20.5; IQR, 5.8–38.2) in the acute phase. Of asymptomatic individuals, 93.3% (28/30) and 81.1% (30/37) had reduction in IgG and neutralizing antibody levels, respectively, during the early convalescent phase, as compared to 96.8% (30/31) and 62.2% (23/37) of symptomatic patients. Forty percent of asymptomatic individuals became seronegative and 12.9% of the symptomatic group became negative for IgG in the early convalescent phase. In addition, asymptomatic individuals exhibited lower levels of 18 pro- and anti-inflammatory cytokines. These data suggest that asymptomatic individuals had a weaker immune response to SARS-CoV-2 infection. The reduction in IgG and neutralizing antibody levels in the early convalescent phase might have implications for immunity strategy and serological surveys.
 
     -- exports
-      !b
       !c
+      !c1
       !d
       !f
+      !g
 
     # / June, 2020 - Nature Medicine
     # let !a self assert = The median duration of viral shedding in the asymptomatic group was 19 d (interquartile range (IQR), 15–26 d). The asymptomatic group had a significantly longer duration of viral shedding than the symptomatic group (log-rank P = 0.028).
 
-    / June, 2020 - Nature Medicine
-    let !b self assert = In the asymptomatic group, 81.1% (30/37) tested positive for IgG, and 83.8% (31/37) of the symptomatic group tested positive for IgG approximately 3–4 weeks after exposure. Moreover, 62.2% (23/37) of the asymptomatic group were positive for IgM, whereas 78.4% (29/37) of the symptomatic group were IgM positive.
+    # / June, 2020 - Nature Medicine
+    # let !b self assert = In the asymptomatic group, 81.1% (30/37) tested positive for IgG, and 83.8% (31/37) of the symptomatic group tested positive for IgG approximately 3–4 weeks after exposure. Moreover, 62.2% (23/37) of the asymptomatic group were positive for IgM, whereas 78.4% (29/37) of the symptomatic group were IgM positive.
 
     / June, 2020 - Nature Medicine
-    let !c self assert = Interestingly, IgG levels in the symptomatic group (median S/CO, 20.5; IQR, 5.8–38.2) were significantly higher than those in the asymptomatic group (median S/CO, 3.4; IQR, 1.6–10.7) in the acute phase (the period when the viral RNA can be found in a respiratory specimen) (P = 0.005).
+    let !c self assert = The virus-specific IgG levels in the asymptomatic group were significantly lower relative to the symptomatic group in the acute phase (the period when the viral RNA can be found in a respiratory specimen). Of asymptomatic individuals, 93.3% (28/30) and 81.1% (30/37) had reduction in IgG and neutralizing antibody levels, respectively, during the early convalescent phase, as compared to 96.8% (30/31) and 62.2% (23/37) of symptomatic patients.
+
+    / June, 2020 - Nature Medicine
+    let !c1 self assert = The median duration of viral shedding in the asymptomatic group was 19 d. The asymptomatic group had a significantly longer duration of viral shedding than the symptomatic group.
 
     # / June, 2020 - Nature Medicine
     # let !c self assert = Of asymptomatic individuals, 93.3% (28/30) and 81.1% (30/37) had reduction in IgG and neutralizing antibody levels, respectively, during the early convalescent phase, as compared to 96.8% (30/31) and 62.2% (23/37) of symptomatic patients.
@@ -882,12 +887,17 @@ feed June2020
     / June, 2020 - Nature Medicine
     let !f self assert = In addition, asymptomatic individuals exhibited lower levels of 18 pro- and anti-inflammatory cytokines.
 
+    / June, 2020 - Nature Medicine
+    let !g self assert = Forty percent of asymptomatic individuals became seronegative and 12.9% of the symptomatic group became negative for IgG in the early convalescent phase.
+
+
+
 
   # Most convalescent plasma obtained from individuals who recover from #COVID19 do *not* contain high levels of neutralizing activity.
   // Convergent antibody responses to SARS-CoV-2 in convalescent individuals
   doi: https://doi.org/10.1038/s41586-020-2456-9
   ref 'Robbiani_et_al_06_18_2020
-    head = The observation that plasma neutralizing activity is low in most convalescent individuals, but that recurrent anti-SARS-CoV-2 RBD antibodies with potent neutralizing activity can be found in individuals with unexceptional plasma neutralizing activity suggests that humans are intrinsically capable of generating anti-RBD antibodies that potently neutralize SARS-CoV-2. Thus, vaccines that selectively and efficiently induce antibodies targeting the SARS-CoV-2 RBD may be especially effective.
+    head = The observation that plasma neutralizing activity is low in most convalescent individuals, but that recurrent anti-SARS-CoV-2 RBD antibodies with potent neutralizing activity can be found in individuals with unexceptional plasma neutralizing activity suggests that humans are intrinsically capable of generating anti-RBD antibodies that potently neutralize SARS-CoV-2.
 
     >>> Abstract
       During the COVID-19 pandemic, SARS-CoV-2 infected millions of people and claimed hundreds of thousands of lives. Virus entry into cells depends on the receptor binding domain (RBD) of the SARS-CoV-2 spike protein (S). Although there is no vaccine, it is likely that antibodies will be essential for protection. However, little is known about the human antibody response to SARS-CoV-2. Here we report on 149 COVID-19 convalescent individuals. Plasmas collected an average of 39 days after the onset of symptoms had variable half-maximal pseudovirus neutralizing titres: less than 1:50 in 33% and below 1:1,000 in 79%, while only 1% showed titres above 1:5,000. Antibody sequencing revealed expanded clones of RBD-specific memory B cells expressing closely related antibodies in different individuals. Despite low plasma titres, antibodies to three distinct epitopes on RBD neutralized at half-maximal inhibitory concentrations (IC50 values) as low as single digit nanograms per millitre. Thus, most convalescent plasmas obtained from individuals who recover from COVID-19 do not contain high levels of neutralizing activity. Nevertheless, rare but recurring RBD-specific antibodies with potent antiviral activity were found in all individuals tested, suggesting that a vaccine designed to elicit such antibodies could be broadly effective.
@@ -2186,48 +2196,42 @@ feed June2020
   // Cross-reactive Antibody Response between SARS-CoV-2 and SARS-CoV Infections
   doi: https://doi.org/10.1016/j.celrep.2020.107725
   article 'Lv_et_al_06_02_2020
-    head = Our results show that, although cross-reactivity in antibody binding to the spike protein is common, cross-neutralization of the live viruses may be rare, indicating the presence of a non-neutralizing antibody response to conserved epitopes in the spike. Whether such low or non-neutralizing antibody response leads to antibody-dependent disease enhancement needs to be addressed in the future.
+    head = Our results show that, although cross-reactivity in antibody binding to the spike protein is common, cross-neutralization of the live viruses may be rare, indicating the presence of a non-neutralizing antibody response to conserved epitopes in the spike.
 
     >>> Summary
       The World Health Organization has declared the ongoing outbreak of COVID-19, which is caused by a novel coronavirus SARS-CoV-2, a pandemic. There is currently a lack of knowledge about the antibody response elicited from SARS-CoV-2 infection. One major immunological question concerns antigenic differences between SARS-CoV-2 and SARS-CoV. We address this question by analyzing plasma from patients infected by SARS-CoV-2 or SARS-CoV and from infected or immunized mice. Our results show that, although cross-reactivity in antibody binding to the spike protein is common, cross-neutralization of the live viruses may be rare, indicating the presence of a non-neutralizing antibody response to conserved epitopes in the spike. Whether such low or non-neutralizing antibody response leads to antibody-dependent disease enhancement needs to be addressed in the future. Overall, this study not only addresses a fundamental question regarding antigenicity differences between SARS-CoV-2 and SARS-CoV but also has implications for immunogen design and vaccine development.
 
     -- exports
       !a
-      !b
-      !c
-      !d
-      !e
       !f
-      !g
-      !h
-      !i
+
 
     / June, 2020 - Cell Reports
-    let !a self assert = Patient Samples Show Cross-Reactivity in Binding: When compared with the plasma from healthy donors, plasma from patients from day 11 post-symptom onward have significant binding to the S ectodomain (p < 2e−16, two-tailed t test) and RBD (p = 2e−13, two-tailed t test) of SARS-CoV-2. The observation that none of the plasma from patients on or before day 11 post-symptom binds to the SARS-CoV-2 S ectodomain and RBD is consistent with a previous study that showed seroconversion in SARS-CoV-2-infected patients can be as late as 14 days after symptom onset.
+    let !a self assert = When compared with the plasma from healthy donors, plasma from patients from day 11 post-symptom onward have significant binding to the S ectodomain and RBD of SARS-CoV-2. The observation that none of the plasma from patients on or before day 11 post-symptom binds to the SARS-CoV-2 S ectodomain and RBD is consistent with a previous study that showed seroconversion in SARS-CoV-2-infected patients can be as late as 14 days after symptom onset.
 
-    / June, 2020 - Cell Reports
-    let !b self assert = Nevertheless, only five of the samples from the SARS-CoV-2-infected patients (patient nos. 4, 6, 11, 14, and 15) had convincing antibody-binding responses to the SARS-CoV RBD (optical density 450 [OD450] > 0.5). However, all samples were collected within 22 days after symptom onset, which is fairly early in the maturation of the humoral immune response, when antibody titers are still increasing. It is possible that more samples would have detectable cross-reactive binding to the SARS-CoV RBD if collected at later time points.
+    # / June, 2020 - Cell Reports
+    # let !b self assert = Nevertheless, only five of the samples from the SARS-CoV-2-infected patients (patient nos. 4, 6, 11, 14, and 15) had convincing antibody-binding responses to the SARS-CoV RBD. However, all samples were collected within 22 days after symptom onset, which is fairly early in the maturation of the humoral immune response, when antibody titers are still increasing. It is possible that more samples would have detectable cross-reactive binding to the SARS-CoV RBD if collected at later time points.
 
-    / June, 2020 - Cell Reports
-    let !c self assert = These results indicate that the cross-reactive antibody response to the S protein after SARS-CoV-2 infection targets both RBD and non-RBD regions. Consistent with that observation, reactivity of the plasma from SARS-CoV-2-infected patients could be detected with the S2 subunit of SARS-CoV-2 (p = 2e−4, two-tailed t test;
+    # / June, 2020 - Cell Reports
+    # let !c self assert = These results indicate that the cross-reactive antibody response to the S protein after SARS-CoV-2 infection targets both RBD and non-RBD regions. Consistent with that observation, reactivity of the plasma from SARS-CoV-2-infected patients could be detected with the S2 subunit of SARS-CoV-2.
 
-    / June, 2020 - Cell Reports
-    let !d self assert = We also analyzed seven heparin-anticoagulated, convalescent (3–6 months after infection) plasma samples from SARS-CoV-infected patients. Similar to that observed in plasma samples from SARS-CoV-2-infected patients, cross-reactivity in binding could be detected. As compared with the plasma from healthy donors, SARS-CoV-infected patients have significant cross-reactivity in binding to the SARS-CoV-2 spike (p = 0.03, two-tailed t test), RBD (p = 0.03, two-tailed t test), and the S2 subunit (p = 0.007, two-tailed t test). These findings show that cross-reactivity in binding is common between SARS-CoV and SARS-CoV-2 infections in both directions. Of note, our recombinant S ectodomains of both SARS-CoV-2 and SARS-CoV contained several mutations to stabilize the prefusion conformation, which should not affect most neutralizing epitopes.
+    # / June, 2020 - Cell Reports
+    # let !d self assert = We also analyzed seven heparin-anticoagulated, convalescent (3–6 months after infection) plasma samples from SARS-CoV-infected patients. Similar to that observed in plasma samples from SARS-CoV-2-infected patients, cross-reactivity in binding could be detected. As compared with the plasma from healthy donors, SARS-CoV-infected patients have significant cross-reactivity in binding to the SARS-CoV-2 spike, RBD, and the S2 subunit. These findings show that cross-reactivity in binding is common between SARS-CoV and SARS-CoV-2 infections in both directions. Of note, our recombinant S ectodomains of both SARS-CoV-2 and SARS-CoV contained several mutations to stabilize the prefusion conformation, which should not affect most neutralizing epitopes.
 
-    / June, 2020 - Cell Reports
-    let !e self assert = Patient Samples Show Limited Cross-Neutralization: However, only one plasma sample could cross-neutralize SARS-CoV, with very low neutralization activity (1:10). In fact, that cross-neutralizing plasma sample had the strongest reactivity in binding against SARS-CoV S ectodomain among all 15 patient samples, although its binding activity against SARS-CoV RBD was not the strongest.
+    # / June, 2020 - Cell Reports
+    # let !e self assert = However, only one plasma sample could cross-neutralize SARS-CoV, with very low neutralization activity (1:10). In fact, that cross-neutralizing plasma sample had the strongest reactivity in binding against SARS-CoV S ectodomain among all 15 patient samples, although its binding activity against SARS-CoV RBD was not the strongest.
 
     / June, 2020 - Cell Reports
     let !f self assert = Although five of the seven plasma samples from SARS-CoV-convalescent patients could neutralize SARS-CoV with titers ranging from 1:40 to 1:320, none could cross-neutralize SARS-CoV-2. These results show that although cross-reactivity in binding is common between plasma from SARS-CoV-2 and SARS-CoV-infected patients, cross-neutralization activity may be rare.
 
-    / June, 2020 - Cell Reports
-    let !g self assert = Cross-Reactivity in Mouse Infection and Immunization:  As compared with controls, plasma from mice immunized with SARS-CoV-2 virus had significant binding to its autologous S ectodomain (p < 0.002, two-tailed t test) and RBD (p < 1e−4, two-tailed t test). Similarly, plasma from mice immunized with SARS-CoV virus had significant binding to its autologous S ectodomain (p < 2e−7, two-tailed t test) and RBD (p < 6e−6, two-tailed t test). In addition, plasma from mice immunized with SARS-CoV S ectodomain could react to its autologous RBD (p < 0.02, two-tailed t test).
+    # / June, 2020 - Cell Reports
+    # let !g self assert = As compared with controls, plasma from mice immunized with SARS-CoV-2 virus had significant binding to its autologous S ectodomain (p < 0.002, two-tailed t test) and RBD (p < 1e−4, two-tailed t test). Similarly, plasma from mice immunized with SARS-CoV virus had significant binding to its autologous S ectodomain (p < 2e−7, two-tailed t test) and RBD (p < 6e−6, two-tailed t test). In addition, plasma from mice immunized with SARS-CoV S ectodomain could react to its autologous RBD (p < 0.02, two-tailed t test).
 
-    / June, 2020 - Cell Reports
-    let !h self assert =  However, although plasma from mice infected with SARS-CoV virus could react with its autologous S ectodomain (p < 8e−6, two-tailed t test) and RBD (p < 2e−5, two-tailed t test), the reactivity of plasma from mice infected with SARS-CoV-2 virus to its autologous S ectodomain and RBD could not be observed in this assay (p > 0.28, two-tailed t test). As expected, an antibody response from SARS-CoV-2-infected wild-type mice was not detected because of the inability of SARS-CoV-2 to replicate in wild-type mice.
+    # / June, 2020 - Cell Reports
+    # let !h self assert =  However, although plasma from mice infected with SARS-CoV virus could react with its autologous S ectodomain (p < 8e−6, two-tailed t test) and RBD (p < 2e−5, two-tailed t test), the reactivity of plasma from mice infected with SARS-CoV-2 virus to its autologous S ectodomain and RBD could not be observed in this assay (p > 0.28, two-tailed t test). As expected, an antibody response from SARS-CoV-2-infected wild-type mice was not detected because of the inability of SARS-CoV-2 to replicate in wild-type mice.
 
-    / June, 2020 - Cell Reports
-    let !i self assert = Interestingly, we observed some cross-reactivity of plasma from SARS-CoV-2-immunized mice to both the SARS-CoV S ectodomain (p < 4e−5, two-tailed t test) and the SARS-CoV RBD (p < 0.006, two-tailed t test), as well as plasma from SARS-CoV-infected mice to the SARS-CoV-2 S ectodomain (p < 0.005, two-tailed t test) but not to the RBD. Of note, the absence of detectable binding of plasma from SARS-CoV-infected mice to SARS-CoV-2 RBD could be due to the overall weak cross-reactive antibody response to SARS-CoV-2, as indicated by the relatively weak binding to the CoV-2 S ectodomain (OD450 ranges from 0.3 to 0.8). The lack of detectable binding of plasma from SARS-CoV-immunized mice to either SARS-CoV-2 S ectodomain or RBD (p > 0.5, two-tailed t test) could be due to the overall low antibody response.
+    # / June, 2020 - Cell Reports
+    # let !i self assert = Interestingly, we observed some cross-reactivity of plasma from SARS-CoV-2-immunized mice to both the SARS-CoV S ectodomain (p < 4e−5, two-tailed t test) and the SARS-CoV RBD (p < 0.006, two-tailed t test), as well as plasma from SARS-CoV-infected mice to the SARS-CoV-2 S ectodomain (p < 0.005, two-tailed t test) but not to the RBD. Of note, the absence of detectable binding of plasma from SARS-CoV-infected mice to SARS-CoV-2 RBD could be due to the overall weak cross-reactive antibody response to SARS-CoV-2, as indicated by the relatively weak binding to the CoV-2 S ectodomain (OD450 ranges from 0.3 to 0.8). The lack of detectable binding of plasma from SARS-CoV-immunized mice to either SARS-CoV-2 S ectodomain or RBD (p > 0.5, two-tailed t test) could be due to the overall low antibody response.
 
 
   # Face masks, N95,
@@ -2268,7 +2272,7 @@ feed June2020
   // The ABO blood group locus and a chromosome 3 gene cluster associate with SARS-CoV-2 respiratory failure in an Italian-Spanish genome-wide association analysis
   doi: https://doi.org/10.1101/2020.05.31.20114991
   article 'Ellinghaus_et_al_06_02_2020
-    head = We were able to perform a complete GWAS for Covid-19 respiratory failure in about two months. We detected cross-replicating associations with rs11385942 at chromosome 3p21.31 and rs657152 at 9q34, which were genome-wide significant (P<5×10-8) in the meta-analysis of both study panels. Identified variants may help guide targeted exploration of severe Covid-19 pathophysiology.
+    head = We herein report the first robust genetic susceptibility loci for the development of respiratory failure in Covid-19. We detected cross-replicating associations with rs11385942 at chromosome 3p21.31 and rs657152 at 9q34, which were genome-wide significant in the meta-analysis of both study panels. Identified variants may help guide targeted exploration of severe Covid-19 pathophysiology.
 
     >>> Background
       Respiratory failure is a key feature of severe Covid-19 and a critical driver of mortality, but for reasons poorly defined affects less than 10% of SARS-CoV-2 infected patients.
@@ -2289,16 +2293,19 @@ feed June2020
     # let !z self assert = We found two loci to be associated with Covid-19 induced respiratory failure with genomewide significance (P<5×10-8) in the meta-analysis, the rs11385942 insertion-deletion GA/A SNP at chromosome 3p21.31, ORmeta 1.77 (95% CI,1.48 to 2.11), P=1.14×10-10 and the rs657152 A/C SNP at 9q34.2, ORmeta 1.32 (95% CI, 1.20 to 1.47), P=4.95×10-8. Both loci showed nominally significant association in both the Spanish and Italian sub-analysis.
 
     / June, 2020 - medRxiv
-    let !a self assert =  Our data aligns with the suggestions that blood group O is associated with lower risk compared with non-O blood groups whereas blood group A is associated with higher risk of acquiring Covid-19 compared with non-A blood groups.
+    let !a self assert = The association signal at 9q34 was located at the ABO blood group locus and a blood-group-specific analysis showed higher risk for A-positive individuals  and a protective effect for blood group O.
+
+    / June, 2020 - medRxiv
+    let !b self assert = Among six genes at 3p21.31, SLC6A20 encodes a known interaction partner with angiotensin converting enzyme 2 (ACE2).
 
     # / June, 2020 - medRxiv
     # let !c self assert = Our data thus aligns with the suggestions that blood group O is associated with lower risk compared with non-O blood groups whereas blood group A is associated with higher risk of acquiring Covid-19 compared with non-A blood groups. Unlike for Chromosome 3, we found no difference between patients receiving oxygen supplementation only and those with mechanical ventilation any kind. However, it should be noted that the lead SNP at the ABO locus in our study (rs657152) has been associated with elevated interleukin-6 (IL6) levels in childhood obesity in previous GWAS27, providing a hypothetical link to the established association of elevated IL-6 with severity and mortality of Covid-19.
-    #
+
     # / June, 2020 - medRxiv
     # let !d self assert = We found that the frequency of the risk allele GA of the lead SNP, rs11385942, was higher in patients with mechanical ventilation compared with those receiving oxygen supplementation only with an OR=1.70, 95% CI, 1.27 to 2.26, P=0.00033, in the unadjusted analysis. Available database entries suggest that the frequency of the risk allele of rs11385942 varies between populations world-wide and is monomorphic in China
-    #
+
     # / June, 2020 - medRxiv
     # let !e self assert = Since several viral infections are known to be controlled by genetic variation at the HLA complex at chromosome 6p21, we scrutinized the extended HLA region (chr6:25-34Mb). There were no SNP or allele associations signals at the HLA complex meeting neither genome-wide nor suggestive association significance threshold of P=1×10-5. Furthermore, we found no significant differences in allelic distribution between patients with oxygen supplementation only and those with mechanical ventilation of any kind (assessed by direct HLA typing, data not shown).
-    #
+
     # / June, 2020 - medRxiv
     # let !f self assert =  Furthermore, genetic variation at the ABO locus has previously been associated with a number of procoagulant markers such as von Willebrand factor and Factor VIII, and the potential relationship between our genetic findings and the significant coagulopathy that is observed in severe Covid-19 warrants further attention.

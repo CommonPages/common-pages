@@ -1222,7 +1222,7 @@ feed April2020
   // Presenting Characteristics, Comorbidities, and Outcomes Among 5700 Patients Hospitalized With COVID-19 in the New York City Area
   doi: https://doi.org/10.1001/jama.2020.6775
   article 'Richardson_et_al_04_22_2020
-    head = This study represents the first large case series of sequentially hospitalized patients with confirmed COVID-19 in the New York City area, US. Older persons, men, and those with pre-existing hypertension and/or diabetes were highly prevalent in this case series and the pattern was similar to data reported from China. However, mortality rates in this case series were significantly lower, possibly due to differences in thresholds for hospitalization.
+    head = Older persons, men, and those with pre-existing hypertension and/or diabetes were highly prevalent in this case series and the pattern was similar to data reported from China. However, mortality rates in this case series were significantly lower, possibly due to differences in thresholds for hospitalization.
 
     >>> Importance
       There is limited information describing the presenting characteristics and outcomes of US patients requiring hospitalization for coronavirus disease 2019 (COVID-19).
@@ -1441,20 +1441,24 @@ feed April2020
   // Pathogenesis of SARS-CoV-2 in transgenic mice expressing human angiotensin-converting enzyme 2
   doi: https://doi.org/10.1016/j.cell.2020.05.027
   article 'Jiang_et_al_04_27_2020
-    head = The infected mice had two different outcomes, recovery, and death. Significant weight loss was only observed in dead and severely diseased mice. Thus, weight loss could serve as a good indicator for monitoring disease progression. Our results provide strong evidence that SARS-CoV-2 infection could cause typical interstitial pneumonia in hACE2-expressing mice, and that progeny virus could be re-isolated from diseased animal tissues.
+    head = SARS-CoV-2 could infect HFH4-hACE2 mice and cause death. SARS-CoV-2 infection localizes to lungs of mice and causes typical interstitial pneumonia. Pre-exposure to SARS-CoV-2 could protect mice from severe pneumonia. Our results show that the hACE2 mouse would be a valuable tool for testing potential vaccines and therapeutics.
 
     >>> Abstract
       COVID-19 has spread worldwide since 2019 and is now a severe threat to public health. We previously identified the causative agent as a novel SARS-related coronavirus (SARS-CoV-2) that uses human angiotensin-converting enzyme 2 (hACE2) as the entry receptor. Here, we successfully developed a SARS-CoV-2 hACE2 transgenic mouse (HFH4-hACE2 in C3B6 mice) infection model. The infected mice generated typical interstitial pneumonia and pathology that were similar to those of COVID-19 patients. Viral quantification revealed the lungs as the major site of infection, although viral RNA could also be found in the eye, heart, and brain in some mice. Virus identical to SARS-CoV-2 in full-genome sequences was isolated from the infected lung and brain tissues. Lastly, we showed that pre-exposure to SARS-CoV-2 could protect mice from severe pneumonia. Our results show that the hACE2 mouse would be a valuable tool for testing potential vaccines and therapeutics.
 
     -- exports
-      !a
       !b
+      !c
 
-    / April, 2020 - Cell
-    let !a self assert = After SARS-CoV-2 infection, the hACE2-experssing mice showed apparent interstitial pneumonia with inflammatory cell infiltration. Severe pneumonia in mice was accompanied by fibroplasia, organization, congestion, and oedema with hyaline membrane formation. Some alveolar cells were dissolved and necrotic, and some terminal bronchioles were blocked.
+    # / April, 2020 - Cell
+    # let !a self assert = After SARS-CoV-2 infection, the hACE2-experssing mice showed apparent interstitial pneumonia with inflammatory cell infiltration. Severe pneumonia in mice was accompanied by fibroplasia, organization, congestion, and oedema with hyaline membrane formation. Some alveolar cells were dissolved and necrotic, and some terminal bronchioles were blocked.
 
     / April, 2020 - Cell
     let !b self assert = The surviving mice generated low titres of neutralisation antibodies. The reinfection with much higher titres of virus only caused mild pneumonia in the surviving mice. In contrast, the naïve-infected mice had severe disease with much higher viral RNA copies in the lung and brain tissues. It is unclear that the neutralising antibody or humoral immunity caused the observed protection.
+
+    / April, 2020 - Cell
+    let !c self assert = Significant weight loss was only observed in dead and severely diseased mice. Thus, weight loss could serve as a good indicator for monitoring disease progression.
+
 
 
   # Protective Equipments - Mask - Limitations, counter claim - THIS PAPER HAS BEEN RETRACTED
@@ -1853,51 +1857,42 @@ feed April2020
     >>> Abstract
       We report the observation that 14.5% of COVID-19 patients had positive RT-PCR testing again after discharge. We describe correlations between laboratory parameters and treatment duration (r= -0.637; p=0.002) and time to virus recrudescence (r= 0.52; p=0.008) respectively, suggesting the need for additional measures to confirm illness resolution in COVID-19 patients.
 
-    -- exports
-      !a
-      !b
-      !c
-      !d
-      !e
-      !f
-      !g
-      !h
-      !i
-      !j
-      !k
 
-    / April, 2020 - Clinical Infectious Diseases
-    let !a self assert = The study population included 172 discharged COVID-19 patients from Jan 23th 2020 to Feb 21th 2020. These were 25 of discharged patients (total 14.5%) sent to hospital again because of the positive RT-PCR results on virus again. With the median age of 28 years (IQR: 16.25-42), 17 of them were females, including 6 children under 12 years old
+    # / April, 2020 - Clinical Infectious Diseases
+    # let !a self assert = The study population included 172 discharged COVID-19 patients from Jan 23th 2020 to Feb 21th 2020. These were 25 of discharged patients (total 14.5%) sent to hospital again because of the positive RT-PCR results on virus again. With the median age of 28 years (IQR: 16.25-42), 17 of them were females, including 6 children under 12 years old
 
-    / April, 2020 - Clinical Infectious Diseases
-    let !b self assert =  According to their previous medical records, these patients had experienced an average of 15.36±3.81 days of hospital stay, as well as 13.33±3.93 days of potential antivirus therapy with ritonavir/lopinavir and IFN-α, no obvious differences with other discharged patients. Before discharging from the hospital, these patients all showed improvements on chest computed tomography (CT) evidence and exhibited with two consecutive negative results (24 hours of interval) on virus mRNA by RT-PCR assays.
+    # / April, 2020 - Clinical Infectious Diseases
+    # let !b self assert =  According to their previous medical records, these patients had experienced an average of 15.36±3.81 days of hospital stay, as well as 13.33±3.93 days of potential antivirus therapy with ritonavir/lopinavir and IFN-α, no obvious differences with other discharged patients. Before discharging from the hospital, these patients all showed improvements on chest computed tomography (CT) evidence and exhibited with two consecutive negative results (24 hours of interval) on virus mRNA by RT-PCR assays.
 
-    / April, 2020 - Clinical Infectious Diseases
-    let !c self assert = After leaving the hospital to self-quarantine at home, the discharged patients hadn’t taken drug any longer but just monitored at home by RT-PCR detection of COVID-19 with both cloacal swab and nasopharyngeal swab samples in each three days. Unexpectedly, cloacal swab samples of 14 patients turned positive on virus mRNA and another 11 patients showed positive results of nasopharyngeal swab sample testing.
+    # / April, 2020 - Clinical Infectious Diseases
+    # let !c self assert = After leaving the hospital to self-quarantine at home, the discharged patients hadn’t taken drug any longer but just monitored at home by RT-PCR detection of COVID-19 with both cloacal swab and nasopharyngeal swab samples in each three days. Unexpectedly, cloacal swab samples of 14 patients turned positive on virus mRNA and another 11 patients showed positive results of nasopharyngeal swab sample testing.
 
-    / April, 2020 - Clinical Infectious Diseases
-    let !d self assert = Overall, the mean duration from their final negative PCR result to hospital discharge was 2.71±1.88 days. While the average period from positive again to previous discharge lasted for 5.23±4.13 days. Thereby, these 25 patients experienced an average of 7.32±3.86 days from their last negative RT-PCR result to turning positive again.
+    # / April, 2020 - Clinical Infectious Diseases
+    # let !d self assert = Overall, the mean duration from their final negative PCR result to hospital discharge was 2.71±1.88 days. While the average period from positive again to previous discharge lasted for 5.23±4.13 days. Thereby, these 25 patients experienced an average of 7.32±3.86 days from their last negative RT-PCR result to turning positive again.
 
-    / April, 2020 - Clinical Infectious Diseases
-    let !e self assert = Notably, these patients once represented with the common symptoms of fever (68%) and cough (60%) and 24 of them were non-severe types at the first onset. At this time of hospital readmission, only 8 patients (32%) had mild cough.
+    # / April, 2020 - Clinical Infectious Diseases
+    # let !e self assert = Notably, these patients once represented with the common symptoms of fever (68%) and cough (60%) and 24 of them were non-severe types at the first onset. At this time of hospital readmission, only 8 patients (32%) had mild cough.
 
-    / April, 2020 - Clinical Infectious Diseases
-    let !f self assert = Besides, CT scan results indicated that 12 of them were characterized by improvement of original lesions compared with images before leaving the hospital, while another 8 patients showed no worsening than previous results.
+    # / April, 2020 - Clinical Infectious Diseases
+    # let !f self assert = Besides, CT scan results indicated that 12 of them were characterized by improvement of original lesions compared with images before leaving the hospital, while another 8 patients showed no worsening than previous results.
 
-    / April, 2020 - Clinical Infectious Diseases
-    let !g self assert = When they readmitted to hospital, the formula of Lung Cleansing and Detoxifying Decoction was used for these 25 patients. Within an average of 2.73 days of hospital stay, the RT-PCR results of virus mRNA detection were all turning to negative in both nasopharyngeal swab and cloacal swab samples. These patient were all stayed for a prolonged observation.
+    # / April, 2020 - Clinical Infectious Diseases
+    # let !g self assert = When they readmitted to hospital, the formula of Lung Cleansing and Detoxifying Decoction was used for these 25 patients. Within an average of 2.73 days of hospital stay, the RT-PCR results of virus mRNA detection were all turning to negative in both nasopharyngeal swab and cloacal swab samples. These patient were all stayed for a prolonged observation.
 
-    / April, 2020 - Clinical Infectious Diseases
-    let !h self assert = On the other hand, previous clinical and laboratory outcomes were compared between these 25 patients (with conversion of RT-PCR results from negative to positive after being discharged from the hospital) and rest 147 patients (continuously represented negative for the virus after discharge). They showed no distinguished differences on the levels of laboratory parameters before leaving the hospital.
+    # / April, 2020 - Clinical Infectious Diseases
+    # let !h self assert = On the other hand, previous clinical and laboratory outcomes were compared between these 25 patients (with conversion of RT-PCR results from negative to positive after being discharged from the hospital) and rest 147 patients (continuously represented negative for the virus after discharge). They showed no distinguished differences on the levels of laboratory parameters before leaving the hospital.
 
     / April, 2020 - Clinical Infectious Diseases
     let !i self assert = Subsequently, correlation analysis indicated that there was a significant inverse correlation existed between serum D-Dimer level before discharging and the duration of treatment in these 25 patients (r=-0.637, p=0.002), instead of the rest 147 patients.
 
     / April, 2020 - Clinical Infectious Diseases
-    let !j self assert = Furthermore, lymphocyte concentrations before these 25 patient leaving the hospital were significantly positively correlated (r=0.52, p=0.008) with the time interval for virus reappearing.
+    let !j self assert = Furthermore, lymphocyte concentrations before these 25 patient leaving the hospital were significantly positively correlated with the time interval for virus reappearing.
 
     / April, 2020 - Clinical Infectious Diseases
-    let !k self assert =  Besides, the RT-PCR results then turning to negative within an average of 2.73 days of hospital stay. Even the Chinese herbal medicine was used for these readmitted patients, it is hard to assess the effect on virus clearance. Further case-control study and cohort study will be needed to pursue that.
+    let !k self assert = Immunological parameters such as D-dimer and absolute lymphocyte count, and even antibody testing, should be combined with an RT-PCR negative test as additional measures to ensure that infected patients have completely recovered and can be released from quarantine.
+
+    # / April, 2020 - Clinical Infectious Diseases
+    # let !k self assert = Besides, the RT-PCR results then turning to negative within an average of 2.73 days of hospital stay. Even the Chinese herbal medicine was used for these readmitted patients, it is hard to assess the effect on virus clearance. Further case-control study and cohort study will be needed to pursue that.
 
 
   # Viral dynamic profile assist in diagnosis and reflect the disease course, older ppl, viral shedding, Wuhan, Reinfection
@@ -2159,10 +2154,20 @@ feed April2020
       Interventions: No interventions were performed, but with consent samples were taken for research purposes. Many participants were co-enrolled in other interventional studies and clinical trials.
       Results: The median age was 72 years [IQR 57, 82; range 0, 104], the median duration of symptoms before admission was 4 days [IQR 1,8] and the median duration of hospital stay was 7 days [IQR 4,12]. The commonest comorbidities were chronic cardiac disease (29%), uncomplicated diabetes (19%), non-asthmatic chronic pulmonary disease (19%) and asthma (14%); 47% had no documented reported comorbidity. Increased age and comorbidities including obesity were associated with a higher probability of mortality. Distinct clusters of symptoms were found: 1. respiratory (cough, sputum, sore throat, runny nose, ear pain, wheeze, and chest pain); 2. systemic (myalgia, joint pain and fatigue); 3. enteric (abdominal pain, vomiting and diarrhoea). Overall, 49% of patients were discharged alive, 33% have died and 17% continued to receive care at date of reporting. 17% required admission to High Dependency or Intensive Care Units; of these, 31% were discharged alive, 45% died and 24% continued to receive care at the reporting date. Of those receiving mechanical ventilation, 20% were discharged alive, 53% died and 27% remained in hospital.
       Conclusions: We present the largest detailed description of COVID-19 in Europe, demonstrating the importance of pandemic preparedness and the need to maintain readiness to launch research studies in response to outbreaks.
+    -- exports
+      !a
+      !b
+      !c
 
+    / April, 2020 - medRxiv
+    let !a self assert = Mortality is high in patients admitted to general wards who are then not admitted to ICU, suggesting there is advanced care planning occurring between patients and physicians. Mortality rates are extremely high for those patients ventilated in ICU, compared with pandemic A/H1N1 influenza 2009 where ICU mortality was 31%.
 
-    # / April, 2020 - medRxiv
-    # let !a self assert =
+    / April, 2020 - medRxiv
+    let !b self assert = While most patients with COVID-19 experience mild disease, of those who have been admitted to hospital 14 days prior to data extraction, half have been discharged alive and one third have died. Seventeen percent of those admitted to hospital required Critical Care. Those who have poor outcomes are more often elderly, male and obese.
+
+    / April, 2020 - medRxiv
+    let !c self assert = Severe SARS-CoV-2 infections are rare in those under 18 years of age, comprising only 1.4% of those admitted to hospital. Only 0.8% of those in our study were under 5 years of age. It is not clear why SARS-CoV-19 has mostly spared children but we speculate this may be due to different expression of ACE2 receptor in the developing lung.
+
 
 
   # BloodCoagulation - Treatments
@@ -2667,10 +2672,6 @@ feed April2020
   article 'Sutton_et_al_2020
     head = Most of the patients who were positive for SARS-CoV-2 at delivery were asymptomatic, and more than one of eight asymptomatic patients who were admitted to the labor and delivery unit were positive for SARS-CoV-2. Although this prevalence has limited generalizability to geographic regions with lower rates of infection, it underscores the risk of Covid-19 among asymptomatic obstetrical patients.
 
-    -- exports
-     !a
-     !b
-     !c
 
     / April, 2020 - Annals of the New York Academy of Sciences
     let !a self assert = Four women (1.9%) had fever or other symptoms of Covid-19 on admission, and all 4 women tested positive for SARS-CoV-2. Of the 211 women without symptoms, all were afebrile on admission.
@@ -2682,32 +2683,34 @@ feed April2020
     let !c self assert = Of the 29 women who had been asymptomatic but who were positive for SARS-CoV-2 on admission, fever developed in 3 (10%) before postpartum discharge (median length of stay, 2 days). Two of these patients received antibiotics for presumed endomyometritis (although 1 patient did not have localizing symptoms), and 1 patient was presumed to be febrile due to Covid-19 and received supportive care. One patient with a swab that was negative for SARS-CoV-2 on admission became symptomatic postpartum; repeat SARS-CoV-2 testing 3 days after the initial test was positive.
 
 
+
   # Tag - Obesity, Cormorbidconditions, epidemiologicalrisk, pandemic
   // Obesity in patients younger than 60 years is a risk factor for Covid-19 hospital admission
   doi: https://doi.org/10.1093/cid/ciaa415
   article 'Lighter_et_al_2020
-    head = There is geographic variation in reported mortality, as South Korea, China and Italy report case fatality rates of 0.8, 2.3 and 7.2, respectively and regional risk factors such as prevalence of smoking, pollution or aging population has been cited. Unfortunately, obesity in people <60 years is a newly identified epidemiologic risk factor which may contribute to increased morbidity rates experienced in the US.
+    head = Though patients aged < 60 years are generally considered a lower-risk group of COVID-19 disease severity, based on data from our institution, obesity appears to be a previously unrecognized risk factor for hospital admission and need for critical care. This has important and practical implications, where nearly 40% of adults in the United States are obese with a BMI ≥ 30.
 
     -- exports
       !a
       !b
-      !c
 
     / April, 2020 - Clinical Infectious Diseases
-    let !a self assert = During analysis we found significant difference in admission and ICU care only in patients <60 years of age with varying BMIs .Patients aged <60 years with a BMI between 30-34 were 2.0 (95% 1.6-2.6, p<0.0001) and 1.8 (95% CI 1.2-2.7, p=0.006) times more likely to be admitted to acute and critical care, respectively, compared to individuals with a BMI <30.
+    let !a self assert = During analysis we found significant difference in admission and ICU care only in patients <60 years of age with varying BMIs. Patients aged <60 years with a BMI between 30-34 were 2.0 and 1.8 times more likely to be admitted to acute and critical care, respectively, compared to individuals with a BMI <30. Likewise, patients with a BMI >35 and aged <60 years were 2.2 and 3.6 times more likely to be admitted to acute and critical care compared to patients in the same age category who had BMI <30.
 
     / April, 2020 - Clinical Infectious Diseases
-    let !b self assert = Likewise, patients with a BMI >35 and aged <60 years were 2.2 (95% CI 1.7-2.9, p<.0001) and 3.6 (95% CI 2.5-5.3, p=<.0001) times more likely to be admitted to acute and critical care compared to patients in the same age category who had BMI <30.
+    let !b self assert = There is geographic variation in reported mortality, as South Korea, China, and Italy have reported case fatality rates of 0.8, 2.3, and 7.2, respectively and regional risk factors such as prevalence of smoking, pollution, or aging population have been cited.
 
-    / April, 2020 - Clinical Infectious Diseases
-    let !c self assert = There is geographic variation in reported mortality, as South Korea, China and Italy report case fatality rates of 0.8, 2.3 and 7.2, respectively and regional risk factors such as prevalence of smoking, pollution or aging population has been cited. Unfortunately, obesity in people <60 years is a newly identified epidemiologic risk factor which may contribute to increased morbidity rates experienced in the US.
+
+
+    # / April, 2020 - Clinical Infectious Diseases
+    # let !c self assert = There is geographic variation in reported mortality, as South Korea, China and Italy report case fatality rates of 0.8, 2.3 and 7.2, respectively and regional risk factors such as prevalence of smoking, pollution or aging population has been cited. Unfortunately, obesity in people <60 years is a newly identified epidemiologic risk factor which may contribute to increased morbidity rates experienced in the US.
 
 
   # Tag - Obesity, Cormorbidconditions
   // High prevalence of obesity in severe acute respiratory syndrome coronavirus‐2 (SARS‐CoV‐2) requiring invasive mechanical ventilation
   doi: https://doi.org/10.1002/oby.22831
   article 'Simonnet_et_al_2020
-    head = The present study showed a high frequency of obesity among patients admitted in intensive care for SARS‐CoV‐2. Disease severity increased with BMI. Obesity is a risk factor for SARS‐CoV‐2 severity requiring increased attention to preventive measures in susceptible individuals.
+    head = High frequency of obesity among patients admitted in intensive care for SARS‐CoV‐2. Disease severity was associated with increased BMI categories, being maximal in patients with BMI ≥ 35. The need for invasive mechanical ventilation was associated with severe obesity and was independent of age sex, diabetes, and hypertension.
 
     >>> Objective
       The Covid‐19 pandemic is rapidly spreading worldwide, notably in Europe and North America, where obesity is highly prevalent. The relation between obesity and severe acute respiratory syndrome coronavirus‐2 (SARS‐CoV‐2) has not been fully documented.
@@ -2721,40 +2724,33 @@ feed April2020
     >>> Conclusion
       The present study showed a high frequency of obesity among patients admitted in intensive care for SARS‐CoV‐2. Disease severity increased with BMI. Obesity is a risk factor for SARS‐CoV‐2 severity requiring increased attention to preventive measures in susceptible individuals.
 
-    -- exports
-      !a
-      !b
-      !c
 
-    / April, 2020 - Obesity
-    let !a self assert = Obesity (BMI >30 kg/m2) and severe obesity (BMI >35 kg/m2) were present in 47.6% and 28.2% of cases, respectively. Overall, 85 patients (68.6%) required IMV (invasive mechanical ventilation). The proportion of patients who required IMV increased with BMI categories (p<0.01, Chi square test for trend), and it was greatest in patients with BMI >35 kg/m2 (85.7%).
+    # / April, 2020 - Obesity
+    # let !a self assert = Obesity (BMI >30 kg/m2) and severe obesity (BMI >35 kg/m2) were present in 47.6% and 28.2% of cases, respectively. Overall, 85 patients (68.6%) required IMV (invasive mechanical ventilation). The proportion of patients who required IMV increased with BMI categories (p<0.01, Chi square test for trend), and it was greatest in patients with BMI >35 kg/m2 (85.7%).
 
-    / April, 2020 - Obesity
-    let !b self assert = In multivariate logistic regression, the need for IMV (invasive mechanical ventilation) was significantly associated with male sex (p<0.05) and BMI (p<0.05), independent of age, diabetes, and hypertension.
+    # / April, 2020 - Obesity
+    # let !b self assert = In multivariate logistic regression, the need for IMV (invasive mechanical ventilation) was significantly associated with male sex (p<0.05) and BMI (p<0.05), independent of age, diabetes, and hypertension.
 
-    / April, 2020 - Obesity
-    let !c self assert = The odds ratio for IMV in patients with BMI >35 kg/m2 vs patients with BMI <25 kg/m2 was 7.36 (1.63‐33.14; p=0.02)
+    # / April, 2020 - Obesity
+    # let !c self assert = The odds ratio for IMV in patients with BMI >35 kg/m2 vs patients with BMI <25 kg/m2 was 7.36 (1.63‐33.14; p=0.02)
+
 
 
   # Tag - monitoring of hospitalization rates, clinical characteristics, and outcomes of hospitalized patients, evolving epidemiology, clinical spectrum of disease, planning and prioritization of health care system resources.
   // Hospitalization Rates and Characteristics of Patients Hospitalized with Laboratory-Confirmed Coronavirus Disease 2019 — COVID-NET, 14 States, March 1–30, 2020
   doi: http://doi.org/10.15585/mmwr.mm6915e3
   article 'Garg_et_al_2020
-    head = Using the existing infrastructure of two respiratory virus surveillance platforms, COVID-NET was implemented to produce robust, weekly, age-stratified hospitalization rates using standardized data collection methods. These data are being used, along with data from other surveillance platforms, to monitor COVID-19 disease activity and severity in the United States.
+    head = The overall laboratory-confirmed COVID-19–associated hospitalization rate was 4.6 per 100,000 population; rates increased with age, with the highest rates among adults aged ≥65 years. Approximately 90% of hospitalized patients had one or more underlying conditions, the most common being obesity, hypertension, chronic lung disease, diabetes mellitus, and cardiovascular disease.
 
     -- exports
-      !a
-      !b
       !c
       !d
-      !e
-      !f
 
-    / April, 2020 - Morbidity and Mortality Weekly Report.
-    let !a self assert = During March 1–28, 2020, the overall laboratory-confirmed COVID-19–associated hospitalization rate was 4.6 per 100,000 population; rates increased with age, with the highest rates among adults aged ≥65 years. Approximately 90% of hospitalized patients identified through COVID-NET had one or more underlying conditions, the most common being obesity, hypertension, chronic lung disease, diabetes mellitus, and cardiovascular disease.
+    # / April, 2020 - Morbidity and Mortality Weekly Report.
+    # let !a self assert = During March 1–28, 2020, the overall laboratory-confirmed COVID-19–associated hospitalization rate was 4.6 per 100,000 population; rates increased with age, with the highest rates among adults aged ≥65 years. Approximately 90% of hospitalized patients identified through COVID-NET had one or more underlying conditions, the most common being obesity, hypertension, chronic lung disease, diabetes mellitus, and cardiovascular disease.
 
-    / April, 2020 - Morbidity and Mortality Weekly Report.
-    let !b self assert = During the first month of surveillance, COVID-NET hospitalization rates ranged from 0.1 per 100,000 population in persons aged 5–17 years to 17.2 per 100,000 population in adults aged ≥85 years, whereas cumulative influenza hospitalization rates during the first 4 weeks of each influenza season (epidemiologic weeks) over the past 5 seasons have ranged from 0.1 in persons aged 5–17 years to 2.2–5.4 in adults aged ≥85 years.
+    # / April, 2020 - Morbidity and Mortality Weekly Report.
+    # let !b self assert = During the first month of surveillance, COVID-NET hospitalization rates ranged from 0.1 per 100,000 population in persons aged 5–17 years to 17.2 per 100,000 population in adults aged ≥85 years, whereas cumulative influenza hospitalization rates during the first 4 weeks of each influenza season (epidemiologic weeks) over the past 5 seasons have ranged from 0.1 in persons aged 5–17 years to 2.2–5.4 in adults aged ≥85 years.
 
     / April, 2020 - Morbidity and Mortality Weekly Report.
     let !c self assert = In the COVID-NET catchment population, approximately 49% of residents are male and 51% of residents are female, whereas 54% of COVID-19-associated hospitalizations occurred in males and 46% occurred in females. These data suggest that males may be disproportionately affected by COVID-19 compared with females.
@@ -2762,11 +2758,11 @@ feed April2020
     / April, 2020 - Morbidity and Mortality Weekly Report.
     let !d self assert = In the COVID-NET catchment population, approximately 59% of residents are white, 18% are black, and 14% are Hispanic; however, among 580 hospitalized COVID-19 patients with race/ethnicity data, approximately 45% were white, 33% were black, and 8% were Hispanic, suggesting that black populations might be disproportionately affected by COVID-19
 
-    / April, 2020 - Morbidity and Mortality Weekly Report.
-    let !e self assert = Among hospitalized COVID-19 patients, hypertension prevalence was 50%, and obesity prevalence was 48%.
+    # / April, 2020 - Morbidity and Mortality Weekly Report.
+    # let !e self assert = Among hospitalized COVID-19 patients, hypertension prevalence was 50%, and obesity prevalence was 48%.
 
-    / April, 2020 - Morbidity and Mortality Weekly Report.
-    let !f self assert = Among women aged 15–49 years hospitalized with COVID-19 and identified through COVID-NET, 9% were pregnant, which is similar to an estimated 9.9% of the general population of women aged 15–44 years who are pregnant at any given time based on 2010 data.†† Similar to other reports from the United States (9) and China (1), these findings indicate that a high proportion of U.S. patients hospitalized with COVID-19 are older and have underlying medical conditions.
+    # / April, 2020 - Morbidity and Mortality Weekly Report.
+    # let !f self assert = Among women aged 15–49 years hospitalized with COVID-19 and identified through COVID-NET, 9% were pregnant, which is similar to an estimated 9.9% of the general population of women aged 15–44 years who are pregnant at any given time based on 2010 data.†† Similar to other reports from the United States (9) and China (1), these findings indicate that a high proportion of U.S. patients hospitalized with COVID-19 are older and have underlying medical conditions.
 
 
 
@@ -2826,7 +2822,7 @@ feed April2020
   // SARS-CoV-2 Vaccines: Status Report
   doi: https://doi.org/10.1016/j.immuni.2020.03.007
   article 'Amanat_et_al_2020b
-    head =  Here, we discuss therapeutic and prophylactic interventions for SARS-CoV-2 with a focus on vaccine development and its challenges. Vaccines are being rapidly developed but will likely come too late to affect the first wave of a potential pandemic. Nevertheless, critical lessons can be learned for the development of vaccines against rapidly emerging viruses. Importantly, SARS-CoV-2 vaccines will be essential to reducing morbidity and mortality if the virus establishes itself in the population.
+    head = Vaccines are being rapidly developed but will likely come too late to affect the first wave of a potential pandemic. Nevertheless, critical lessons can be learned for the development of vaccines against rapidly emerging viruses. Importantly, SARS-CoV-2 vaccines will be essential to reducing morbidity and mortality if the virus establishes itself in the population.
 
     -- exports
       !a
@@ -3527,7 +3523,7 @@ feed April2020
   // Exposure to air pollution and COVID-19 mortality in the United States
   doi: https://doi.org/10.1101/2020.04.05.20054502
   article 'Wu_et_al_2020c
-    head = Long-term average exposure to air pollution (fine particulate matter-PM2.5) increases vulnerability to experiencing the most severe Covid-19 outcomes.These findings align with the known relationship between PM 2.5 exposure and many of the cardiovascular and respiratory comorbidities that dramatically increase the risk of death in COVID-19 patients.
+    head = Long-term average exposure to air pollution (fine particulate matter-PM2.5) increases vulnerability to experiencing the most severe Covid-19 outcomes. These findings align with the known relationship between PM 2.5 exposure and many of the cardiovascular and respiratory comorbidities that dramatically increase the risk of death in COVID-19 patients.
 
     -- exports
       !a

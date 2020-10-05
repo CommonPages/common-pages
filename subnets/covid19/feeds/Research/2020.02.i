@@ -296,43 +296,31 @@ feed February2020
   // Chest CT for Typical 2019-nCoV Pneumonia: Relationship to Negative RT-PCR Testing
   doi: https://doi.org/10.1148/radiol.2020200343
   article 'Xie_et_al_2020
-    head = In this report, we present chest CT findings from five patients with 2019-nCoV infection who had initial negative RT-PCR results. All five patients had typical imaging findings, including ground-glass opacity (GGO) (5 patients) and/or mixed GGO and mixed consolidation (2 patients). After isolation for presumed 2019-nCoV pneumonia, all patients were eventually confirmed with 2019-nCoV infection by repeated swab tests. A combination of repeated swab tests and CT scanning may be helpful when for individuals with high clinical suspicion of nCoV infection but negative RT-PCR screening.
+    head = All patients presented with characteristic radiologic features of COVID-19 pneumonia from the first CT scan and then were confirmed by positive repeat swab tests during the isolated observation or treatment. Review of these five cases suggested that typical CT findings can help early screening of suspected cases and may help predict severe complications such as acute respiratory diseases.
 
     >>> Abstract
       Some patients with positive chest CT findings may present with negative results of real time reverse-transcription–polymerase chain- reaction (RT-PCR) for 2019 novel coronavirus (2019-nCoV). In this report, we present chest CT findings from five patients with 2019-nCoV infection who had initial negative RT-PCR results. All five patients had typical imaging findings, including ground-glass opacity (GGO) (5 patients) and/or mixed GGO and mixed consolidation (2 patients). After isolation for presumed 2019-nCoV pneumonia, all patients were eventually confirmed with 2019-nCoV infection by repeated swab tests. A combination of repeated swab tests and CT scanning may be helpful when for individuals with high clinical suspicion of nCoV infection but negative RT-PCR screening.
 
-    -- exports
-      !a
-      !b
-      !c
-      !d
-      !e
-      !f
-      !g
-      !h
-      !i
-      !j
+    # / February, 2020 - Radiology
+    # let !a self assert = 167 patients were evaluated; of these 5 (3%) patients initially had negative RT-PCR but positive chest CT with pattern consistent with viral pneumonia. Of the 5 patients with negative RT-PCR and positive CT at initial presentation, the median CT involvement score was 4. The highest CT involvement score was 14 while the minimum was 2.
+
+    # / February, 2020 - Radiology
+    # let !b self assert = In 7 patients (4%), CT was initially negative while RT-PCR was positive.
+
+    # / February, 2020 - Radiology
+    # let !c self assert = In 155 patients (93%), both RT-PCR and CT were concordant for 2019-nCoV infection.
+
+    # / February, 2020 - Radiology
+    # let !d self assert = 5/5 patients had RT- PCT that became positive between 2 and 8 days later.
+
+    # / February, 2020 - Radiology
+    # let !e self assert = I patient who had a negative CT scan became positive (after 5 days) for pneumonia.
 
     / February, 2020 - Radiology
-    let !a self assert = 167 patients were evaluated; of these 5 (3%) patients initially had negative RT-PCR but positive chest CT with pattern consistent with viral pneumonia. Of the 5 patients with negative RT-PCR and positive CT at initial presentation, the median CT involvement score was 4. The highest CT involvement score was 14 while the minimum was 2.
+    let !f self assert = Patient 1: A 62-year-old male with recent travel history to Wuhan, China, the epicenter of the 2019-nCoV outbreak[5], was admitted to the hospital with fever and mild cough of 6 days duration. The chest CT showed multi-focal ground glass opacity (GGO) and parenchyma consolidation, predominantly involving subpleural regions of both lung. The CT involvement score was 14. During isolation for presumed 2019-nCoV pneumonia, the patient became dyspneic and developed type I respiratory failure five days after admission. The second swab test of 2019-nCoV was positive five days after CT scanning.
 
     / February, 2020 - Radiology
-    let !b self assert = In 7 patients (4%), CT was initially negative while RT-PCR was positive.
-
-    / February, 2020 - Radiology
-    let !c self assert = In 155 patients (93%), both RT-PCR and CT were concordant for 2019-nCoV infection.
-
-    / February, 2020 - Radiology
-    let !d self assert = 5/5 patients had RT- PCT that became positive between 2 and 8 days later.
-
-    / February, 2020 - Radiology
-    let !e self assert = I patient who had a negative CT scan became positive (after 5 days) for pneumonia.
-
-    / February, 2020 - Radiology
-    let !f self assert = The description of 5 patients with positive CT and negative RT-PCR results are presented below:  Patient 1: A 62-year-old male with recent travel history to Wuhan, China, the epicenter of the 2019-nCoV outbreak[5], was admitted to the hospital with fever and mild cough of 6 days duration. The chest CT showed multi-focal ground glass opacity (GGO) and parenchyma consolidation, predominantly involving subpleural regions of both lung. The CT involvement score was 14. During isolation for presumed 2019-nCoV pneumonia, the patient became dyspneic and developed type I respiratory failure five days after admission. The second swab test of 2019-nCoV was positive five days after CT scanning.
-
-    / February, 2020 - Radiology
-    let !g self assert = Patient 2: A 60-year-old male with fever of 39°C was referred for hospital evaluation. His wife had been previously diagnosed with 2019-nCoV pneumonia. His CT images showed multi-focal GGO and mixed consolidation that most appeared at peripheral area of lung. (Figure 3). The CT involvement score was 11. The first swab test was negative and the male patient was quarantined at home. Over the next week, multiple swab tests returned negative results but his symptom remained. On day 8, the swab test was positive and the patient was hospitalized for further treatment.
+    let !g self assert = Patient 2: A 60-year-old male with fever of 39°C was referred for hospital evaluation. His wife had been previously diagnosed with 2019-nCoV pneumonia. His CT images showed multi-focal GGO and mixed consolidation that most appeared at peripheral area of lung. The CT involvement score was 11. The first swab test was negative and the male patient was quarantined at home. Over the next week, multiple swab tests returned negative results but his symptom remained. On day 8, the swab test was positive and the patient was hospitalized for further treatment.
 
     / February, 2020 - Radiology
     let !h self assert = Patient 3: A 25-year-old female appeared with cough, dizziness and debility but had no fever. Her RT-PCR results were weakly positive on the first swab test. Both her parents were diagnosed with 2019-nCoV pneumonia. She was quarantined at home. A second mouth swab test conducted the next day was negative, but a CT at that time that showed bilateral subpleural GGO indicating viral pneumonia. The CT involvement score was 4. Two days after CT examination, the third swab test result was positive for 2019-nCoV, confirming CT results.
@@ -350,23 +338,18 @@ feed February2020
   article 'Lan_et_al_2020
     head = Four patients with COVID-19 who met criteria for hospital discharge or discontinuation of quarantine in China (absence of clinical symptoms and radiological abnormalities and 2 negative RT-PCR test results) had positive RT-PCR test results 5 to 13 days later. These findings suggest that at least a proportion of recovered patients still may be virus carriers.
 
-    -- exports
-      !a
-      !b
-      !c
-      !d
 
-    / February, 2020 - JAMA Network
-    let !a self assert = All 4 patients were exposed to the novel 2019 coronavirus through work as medical professionals. Two were male and the age range was 30 to 36 years. Among 3 of the patients, fever, cough, or both occurred at onset. One patient was initially asymptomatic and underwent thin-section CT due to exposure to infected patients. All patients had positive RT-PCR test results and CT imaging showed ground-glass opacification or mixed ground-glass opacification and consolidation. The severity of disease was mild to moderate.
+    # / February, 2020 - JAMA Network
+    # let !a self assert = All 4 patients were exposed to the novel 2019 coronavirus through work as medical professionals. Two were male and the age range was 30 to 36 years. Among 3 of the patients, fever, cough, or both occurred at onset. One patient was initially asymptomatic and underwent thin-section CT due to exposure to infected patients. All patients had positive RT-PCR test results and CT imaging showed ground-glass opacification or mixed ground-glass opacification and consolidation. The severity of disease was mild to moderate.
 
-    / February, 2020 - JAMA Network
-    let !b self assert = Antiviral treatment (75 mg of oseltamivir taken orally every 12 hours) was provided for the 4 patients. For 3 of the patients, all clinical symptoms and CT imaging abnormalities had resolved. The CT imaging for the fourth patient showed delicate patches of ground-glass opacity. All 4 patients had 2 consecutive negative RT-PCR test results. The time from symptom onset to recovery ranged from 12 to 32 days.
+    # / February, 2020 - JAMA Network
+    # let !b self assert = Antiviral treatment (75 mg of oseltamivir taken orally every 12 hours) was provided for the 4 patients. For 3 of the patients, all clinical symptoms and CT imaging abnormalities had resolved. The CT imaging for the fourth patient showed delicate patches of ground-glass opacity. All 4 patients had 2 consecutive negative RT-PCR test results. The time from symptom onset to recovery ranged from 12 to 32 days.
 
-    / February, 2020 - JAMA Network
-    let !c self assert = After hospital discharge or discontinuation of quarantine, the patients were asked to continue the quarantine protocol at home for 5 days. The RT-PCR tests were repeated 5 to 13 days later and all were positive. All patients had 3 repeat RT-PCR tests performed over the next 4 to 5 days and all were positive. An additional RT-PCR test was performed using a kit from a different manufacturer and the results were also positive for all patients.
+    # / February, 2020 - JAMA Network
+    # let !c self assert = After hospital discharge or discontinuation of quarantine, the patients were asked to continue the quarantine protocol at home for 5 days. The RT-PCR tests were repeated 5 to 13 days later and all were positive. All patients had 3 repeat RT-PCR tests performed over the next 4 to 5 days and all were positive. An additional RT-PCR test was performed using a kit from a different manufacturer and the results were also positive for all patients.
 
-    / February, 2020 - JAMA Network
-    let !d self assert = The patients continued to be asymptomatic by clinician examination and chest CT findings showed no change from previous images. They did not report contact with any person with respiratory symptoms. No family member was infected.
+    # / February, 2020 - JAMA Network
+    # let !d self assert = The patients continued to be asymptomatic by clinician examination and chest CT findings showed no change from previous images. They did not report contact with any person with respiratory symptoms. No family member was infected.
 
 
   # Origin
@@ -662,14 +645,16 @@ feed February2020
   // Molecular and serological investigation of 2019-nCoV infected patients: implication of multiple shedding routes
   doi: https://doi.org/10.1080/22221751.2020.1729071
   article 'Zhang_et_al_2020g
-    head = IgM and IgG titres were relatively low or undetectable in day 0. On day 5, an increase of viral antibodies can be seen in nearly all patients. IgM positive rate increased from 50% (8/16) to 81% (13/16), whereas IgG positive rate increased from 81% (13/16) to 100% (16/16).
+    head = We detected the virus in oral swabs, anal swabs and blood, thus infected patients can potentially shed this pathogen through respiratory, fecal–oral or body fluid routes. In addition, we successfully applied serology test a large population and showed which could greatly improved detection positive rate.
 
     >>> Abstract
       In December 2019, a novel coronavirus (2019-nCoV) caused an outbreak in Wuhan, China, and soon spread to other parts of the world. It was believed that 2019-nCoV was transmitted through respiratory tract and then induced pneumonia, thus molecular diagnosis based on oral swabs was used for confirmation of this disease. Likewise, patient will be released upon two times of negative detection from oral swabs. However, many coronaviruses can also be transmitted through oral–fecal route by infecting intestines. Whether 2019-nCoV infected patients also carry virus in other organs like intestine need to be tested. We conducted investigation on patients in a local hospital who were infected with this virus. We found the presence of 2019-nCoV in anal swabs and blood as well, and more anal swab positives than oral swab positives in a later stage of infection, suggesting shedding and thereby transmitted through oral–fecal route. We also showed serology test can improve detection positive rate thus should be used in future epidemiology. Our report provides a cautionary warning that 2019-nCoV may be shed through multiple routes.
 
+    -- exports
+      !a
 
-    # / February, 2020 -  Emerging microbes and infections
-    # let !a self assert =
+    / February, 2020 -  Emerging microbes and infections
+    let !a self assert = IgM and IgG titres were relatively low or undetectable in day 0. On day 5, an increase of viral antibodies can be seen in nearly all patients. IgM positive rate increased from 50% (8/16) to 81% (13/16), whereas IgG positive rate increased from 81% (13/16) to 100% (16/16).
 
 
   # CFR

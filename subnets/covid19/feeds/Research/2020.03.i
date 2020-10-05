@@ -775,34 +775,29 @@ feed March2020
 
     -- exports
       !a
-      !b
-      !c
-      !d
-      !e
-      !g
       !g
       !h
 
     / March, 2020 - JAMA Network
     let !a self assert = A total of 21 cases were included (mean age, 70 years [range, 43-92 years]; 52% male). Comorbidities were identified in 18 cases (86%), with chronic kidney disease and congestive heart failure being the most common.
 
-    / March, 2020 - JAMA Network
-    let !b self assert = A total of 21 cases were included (mean age, 70 years [range, 43-92 years]; 52% male). Comorbidities were identified in 18 cases (86%), with chronic kidney disease and congestive heart failure being the most common.
+    # / March, 2020 - JAMA Network
+    # let !b self assert = A total of 21 cases were included (mean age, 70 years [range, 43-92 years]; 52% male). Comorbidities were identified in 18 cases (86%), with chronic kidney disease and congestive heart failure being the most common.
+
+    # / March, 2020 - JAMA Network
+    # let !c self assert = An abnormal chest radiograph was observed in 20 patients (95%) at admission. The most common findings on initial radiograph were bilateral reticular nodular opacities (11 patients [52%]) and ground-glass opacities (10 [48%]). By 72 hours, 18 patients (86%) had bilateral reticular nodular opacities and 14 (67%) had evidence of ground-glass opacities.
+
+    # / March, 2020 - JAMA Network
+    # let !d self assert = The mean white blood cell count was 9365 μL at admission and 14 patients (67%) had a white blood cell count in the normal range. Fourteen patients (67%) had an absolute lymphocyte count of less than 1000 cells/μL.
+
+    # / March, 2020 - JAMA Network
+    # let !e self assert = Liver function tests were abnormal in 8 patients (38%) at admission.
+
+    # / March, 2020 - JAMA Network
+    # let !f self assert = Mechanical ventilation was initiated in 15 patients (71%). Acute respiratory distress syndrome (ARDS) was observed in 15 of 15 patients (100%) requiring mechanical ventilation and 8 of 15 (53%) developed severe ARDS by 72 hours.
 
     / March, 2020 - JAMA Network
-    let !c self assert = An abnormal chest radiograph was observed in 20 patients (95%) at admission. The most common findings on initial radiograph were bilateral reticular nodular opacities (11 patients [52%]) and ground-glass opacities (10 [48%]). By 72 hours, 18 patients (86%) had bilateral reticular nodular opacities and 14 (67%) had evidence of ground-glass opacities.
-
-    / March, 2020 - JAMA Network
-    let !d self assert = The mean white blood cell count was 9365 μL at admission and 14 patients (67%) had a white blood cell count in the normal range. Fourteen patients (67%) had an absolute lymphocyte count of less than 1000 cells/μL.
-
-    / March, 2020 - JAMA Network
-    let !e self assert = Liver function tests were abnormal in 8 patients (38%) at admission.
-
-    / March, 2020 - JAMA Network
-    let !f self assert = Mechanical ventilation was initiated in 15 patients (71%). Acute respiratory distress syndrome (ARDS) was observed in 15 of 15 patients (100%) requiring mechanical ventilation and 8 of 15 (53%) developed severe ARDS by 72 hours.
-
-    / March, 2020 - JAMA Network
-    let !g self assert =  Although most patients did not present with evidence of shock, vasopressors were used for 14 patients (67%) during the illness. Cardiomyopathy developed in 7 patients (33%). It is unclear whether the high rate of cardiomyopathy in this case series reflects a direct cardiac complication of SARS-CoV-2 infection or resulted from overwhelming critical illness.
+    let !g self assert = Cardiomyopathy developed in 7 patients (33%). It is unclear whether the high rate of cardiomyopathy in this case series reflects a direct cardiac complication of SARS-CoV-2 infection or resulted from overwhelming critical illness.
 
     / March, 2020 - JAMA Network
     let !h self assert = As of March 17, 2020, mortality was 67% and 24% of patients have remained critically ill and 9.5% have been discharged from the ICU.
@@ -813,7 +808,7 @@ feed March2020
   // Relationship between the ABO Blood Group and the COVID-19 Susceptibility
   doi: https://doi.org/10.1101/2020.03.11.20031096
   article 'Zhao_et_al_2020b
-    head = In this study, we found that ABO blood groups displayed different association risks for the infection with SARS-CoV-2 resulting in COVID-19. Specifically, blood group A was associated with an increased risk whereas blood group O was associated with a decreased risk, thus demonstrating that the ABO blood type is a biomarker for differential susceptibility of COVID-19.
+    head = This is the first observation of an association between the ABO blood type and COVID-19. People with blood group A have a higher risk whereas people with blood group O have a lower risk for SARS-Cov-2 infection and COVID-19 severity, thus demonstrating that the ABO blood type is a biomarker for differential susceptibility of COVID-19.
 
     >>> Abstract
       The novel coronavirus disease-2019 (COVID-19) has been spreading around the world rapidly and declared as a pandemic by WHO. Here, we compared the ABO blood group distribution in 2,173 patients with COVID-19 confirmed by SARS-CoV-2 test from three hospitals in Wuhan and Shenzhen, China with that in normal people from the corresponding regions. The results showed that blood group A was associated with a higher risk for acquiring COVID-19 compared with non-A blood groups, whereas blood group O was associated with a lower risk for the infection compared with non-O blood groups. This is the first observation of an association between the ABO blood type and COVID-19. It should be emphasized, however, that this is an early study with limitations. It would be premature to use this study to guide clinical practice at this time, but it should encourage further investigation of the relationship between the ABO blood group and the COVID-19 susceptibility.
@@ -994,24 +989,23 @@ feed March2020
     -- exports
       !a
       !b
-      !c
       !d
-      !e
+
 
     / March, 2020 - Clinical Research in Cardiology
     let !a self assert = We did not find that people with hypertension and diabetes were more susceptible to 2019-nCoV infection. The prevalence of hypertension and diabetes in people infected with the virus is about the same as in the general population, even slightly lower. However, comparing the general population, the incidence of cardia-cerebrovascular disease in patients with COVID-19 is obviously much higher.
 
     / March, 2020 - Clinical Research in Cardiology
-    let !b self assert =  Patients with hypertension, cardia-cerebrovascular diseases or diabetes are more likely to develop severe/ICU cases after 2019-nCoV infection. The overall proportion of hypertension, cardia-cerebrovascular diseases and diabetes were about twofolds, threefolds and twofolds, respectively, higher in ICU/severe cases than in their non-ICU/severe counterparts.
+    let !b self assert = Patients with hypertension, cardia-cerebrovascular diseases or diabetes are more likely to develop severe/ICU cases after 2019-nCoV infection. The overall proportion of hypertension, cardia-cerebrovascular diseases and diabetes were about twofolds, threefolds and twofolds, respectively, higher in ICU/severe cases than in their non-ICU/severe counterparts.
 
-    / March, 2020 - Clinical Research in Cardiology
-    let !c self assert = Another important finding is the damage the virus did to the heart. According to the present summary, at least 8.0% patients with COVID-19 suffered acute cardiac injury.
+    # / March, 2020 - Clinical Research in Cardiology
+    # let !c self assert = Another important finding is the damage the virus did to the heart. According to the present summary, at least 8.0% patients with COVID-19 suffered acute cardiac injury.
 
     / March, 2020 - Clinical Research in Cardiology
     let !d self assert = Patients with COVID-19 associated with unstable angina or STEMI have poor cardiac reserve, lower tolerance to severe pneumonia, and are more likely to develop cardiac insufficiency, leading to deterioration.
 
-    / March, 2020 - Clinical Research in Cardiology
-    let !e self assert = The pathogenesis of 2019 nCoV infection-related acute myocardial injury is still unknown. But according to the clinical presentation and lab data of the disease, as well as the pathogenesis of SARS-CoV, It can be speculated that 2019-ncov infection may affect the cardiovascular system through multiple mechanisms.
+    # / March, 2020 - Clinical Research in Cardiology
+    # let !e self assert = The pathogenesis of 2019 nCoV infection-related acute myocardial injury is still unknown. But according to the clinical presentation and lab data of the disease, as well as the pathogenesis of SARS-CoV, It can be speculated that 2019-ncov infection may affect the cardiovascular system through multiple mechanisms.
 
 
   # CT scan diagnostic
@@ -1679,7 +1673,7 @@ feed March2020
       !d
 
     / March, 2020 - ScienceDirect
-    let !a self assert =  Pregnant women with COVID-19 pneumonia should be managed by a multidisciplinary team at a tertiary care centre. When quick Sepsis-related Organ Failure Assessment criteria are met, the patient should be transferred to an intensive care unit.
+    let !a self assert = Pregnant women with COVID-19 pneumonia should be managed by a multidisciplinary team at a tertiary care centre. When quick Sepsis-related Organ Failure Assessment criteria are met, the patient should be transferred to an intensive care unit.
 
     / March, 2020 - ScienceDirect
     let !b self assert = For pregnant women with confirmed infection, the choice of delivery timing should be individualised depending on the week of gestation and maternal, fetal, and delivery conditions.
@@ -1791,7 +1785,6 @@ feed March2020
       !c
       !d
       !e
-      !f
 
     / March, 2020 - cold spring harbor laboratory
     let !a self assert = One complexity with measuring antibodies in bodily fluids of COVID19 patients is, that infectious virus could be present in the biospecimen, especially early during acute infection.
@@ -1808,8 +1801,8 @@ feed March2020
     / March, 2020 - cold spring harbor laboratory
     let !e self assert = We also detected strong IgA and IgM responses in the blood compartment. Of note, level of reactivity and antibody isotypes closely matched expected patterns based on time since symptom onset very well.
 
-    / March, 2020 - cold spring harbor laboratory
-    let !f self assert = We believe that our ELISA method will be key for serosurveys aimed at determining the real attack rate and infection fatality rate in different human populations and to map the kinetics of the antibody response to SARS-CoV-2.
+    # / March, 2020 - cold spring harbor laboratory
+    # let !f self assert = We believe that our ELISA method will be key for serosurveys aimed at determining the real attack rate and infection fatality rate in different human populations and to map the kinetics of the antibody response to SARS-CoV-2.
 
 
   # Tag - BCG vaccine
@@ -2091,13 +2084,37 @@ feed March2020
   // Are patients with hypertension and diabetes mellitus at increased risk for COVID-19 infection?
   doi: https://doi.org/10.1016/S2213-2600(20)30116-8
   article 'FangFang_et_al_2020
-    head = We suggest that patients with cardiac diseases, hypertension, or diabetes, who are treated with ACE2- increasing drugs, are at higher risk for severe COVID-19 infection and, therefore, should be monitored for ACE2-modulating medications, such as ACE inhibitors or ARBs
+    head = Patients with cardiac diseases, hypertension, or diabetes, who are treated with ACE2- increasing drugs, are at higher risk for severe COVID-19 infection and, therefore, should be monitored for ACE2-modulating medications, such as ACE inhibitors or ARBs
 
     -- exports
       !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
 
     / March, 2020 - The Lancet Respiratory medicine
     let !a self assert = We did not find any evidence to suggest that antihypertensive calcium channel blockers increased ACE2 expression or activity, therefore these could be a suitable alternative treatment in these patients.
+
+    / March, 2020 - The Lancet Respiratory medicine
+    let !b self assert = The most distinctive comorbidities of 32 non-survivors from a group of 52 intensive care unit patients with novel coronavirus disease 2019 (COVID-19) in the study by Xiaobo Yang and colleagues were cerebrovascular diseases (22%) and diabetes (22%).
+
+    / March, 2020 - The Lancet Respiratory medicine
+    let !c self assert = Another study included 1099 patients with confirmed COVID-19, of whom 173 had severe disease with comorbidities of hypertension (23·7%), diabetes mellitus (16·2%), coronary heart diseases (5·8%), and cerebrovascular disease (2·3%).
+
+    / March, 2020 - The Lancet Respiratory medicine
+    let !d self assert = In a third study, of 140 patients who were admitted to hospital with COVID-19, 30% had hypertension and 12% had diabetes.
+
+    / March, 2020 - The Lancet Respiratory medicine
+    let !e self assert = Notably, the most frequent comorbidities reported in these three studies of patients with COVID-19 are often treated with angiotensin-converting enzyme (ACE) inhibitors; however, treatment was not assessed in either study.
+
+    / March, 2020 - The Lancet Respiratory medicine
+    let !f self assert = The expression of ACE2 is substantially increased in patients with type 1 or type 2 diabetes, who are treated with ACE inhibitors and angiotensin II type-I receptor blockers (ARBs). Hypertension is also treated with ACE inhibitors and ARBs, which results in an upregulation of ACE2. ACE2 can also be increased by thiazolidinediones and ibuprofen.
+
+    / March, 2020 - The Lancet Respiratory medicine
+    let !g self assert = ACE2 reduces inflammation and has been suggested as a potential new therapy for inflammatory lung diseases, cancer, diabetes, and hypertension.
 
 
   # Tag - Weather Influence
@@ -2162,9 +2179,9 @@ feed March2020
 
   # Tag - Antibodies, How long Immunity Last
   // Reinfection could not occur in SARS-CoV-2 infected rhesus macaques
-  doi: https://doi.org/10.1101/2020.02.19.20025452.
+  doi: https://doi.org/10.1101/2020.03.13.990226
   article 'Bao_et_al_2020
-    head = From our current longitudinal study of monkeys, the reinfection could not occur if the monkeys produced the neutralizing antibody at an early stage after the primary infection.
+    head = From our current longitudinal study of monkeys, the reinfection could not occur if the monkeys produced the neutralizing antibody at an early stage after the primary infection. Correspondingly, the convalescing patients won’t be contagious when they build up the enough specific antibody to develop immunity to SARS-CoV-2.
 
     >>> Abstract
       Recently, it has been reported that discharged patients in China and elsewhere were testing positive after recovering. However, it remains unclear whether the convalescing patients have a risk of “relapse” or “reinfection”. The longitudinal tracking of re-exposure after the disappeared symptoms of the SARS-CoV-2-infected monkeys was performed in this study. We found that weight loss in some monkeys, viral replication mainly in nose, pharynx, lung and gut, as well as moderate interstitial pneumonia at 7 days post-infection (dpi) were clearly observed in rhesus monkeys after the primary infection. After the symptoms were alleviated and the specific antibody tested positively, the half of infected monkeys were rechallenged with the same dose of SARS-CoV-2 strain. Notably, neither viral loads in nasopharyngeal and anal swabs along timeline nor viral replication in all primary tissue compartments at 5 days post-reinfection (dpr) was found in re-exposed monkeys. Combined with the follow-up virologic, radiological and pathological findings, the monkeys with re-exposure showed no recurrence of COVID-19, similarly to the infected monkey without rechallenge. Taken together, our results indicated that the primary SARS-CoV-2 infection could protect from subsequent exposures, which have the reference of prognosis of the disease and vital implications for vaccine design.
@@ -2176,12 +2193,15 @@ feed March2020
     / March, 2020 - bioRxiv
     let !a self assert = For the phenomenon on the discharged patients tested positively, it may be attributed to the "false negative" RT-PCR test results before their discharge or the patients without fully recovery albeit they met the discharge criteria.
 
+    / March, 2020 - bioRxiv
+    let !a self assert = Neither viral loads in nasopharyngeal and anal swabs along timeline nor viral replication in all primary tissue compartments at 5 days post-reinfection (dpr) was found in re-exposed monkeys.
+
 
   # Tag - Antibodies, How long Immunity Last, Serology Testing
   // Antibody Responses to SARS-CoV-2 in Patients of Novel Coronavirus Disease 2019
   doi: http://dx.doi.org/10.2139/ssrn.3546052
   article 'Zhao_et_al_2020
-    head = Among 173 patients, the seroconversion rate for Ab, IgM and IgG was 93.1% (161/173), 82.7% (143/173) and 64.7% (112/173), respectively. The seroconversion sequentially appeared for Ab, IgM and then IgG, with a median time of 11, 12 and 14 days, respectively.
+    head = Among 173 patients, the seroconversion rate for Ab, IgM and IgG was 93.1% (161/173), 82.7% (143/173) and 64.7% (112/173), respectively. The seroconversion sequentially appeared for Ab, IgM and then IgG, with a median time of 11, 12 and 14 days, respectively. Due to the lack of blood samples collected from patients in the later stage of illness, how long the antibodies could last remained unknown.
 
     -- exports
       !a
@@ -2193,10 +2213,16 @@ feed March2020
 
     # RNA Testing Accuracy = upto 70%... RNA + Antibody(Serology) testing together can give testing accuracy of 99%.
     / March, 2020 - Lancet
-    let !b self assert =  The positive rate of RNA decreased from 66.7% (58/87) in samples collected before day 7 to 45.5% (25/55) during days 15 to 39.
+    let !b self assert = The positive rate of RNA decreased from 66.7% (58/87) in samples collected before day 7 to 45.5% (25/55) during days 15 to 39.
 
     / March, 2020 - Lancet
-    let !c self assert =  The seroconversion rate and the antibody levels increased rapidly during the first two weeks, the cumulative seropositive rate reached 50% on the 11th day and 100% on the 39th day.
+    let !c self assert = The seroconversion rate and the antibody levels increased rapidly during the first two weeks, the cumulative seropositive rate reached 50% on the 11th day and 100% on the 39th day.
+
+    / March, 2020 - Lancet
+    let !d self assert = The diagnosis value of Ab test, our study revealed a strong positive correlation between clinical severity and antibody titer since 2-week after illness onset, for the first time in COVID-19 patients. The results suggested that a high titer of total antibodies against the virus may be considered as a risk factor of critical illness, independently from older age, male gender and comorbidities. Although it was still unclear how the causal relation between hormonal response and illness severity, the results raise a possible usage of the high antibody titer as a surrogate marker for worse clinical prognosis.
+
+    / March, 2020 - Lancet
+    let !e self assert = Epidemiological studies could be conducted using immunoassays. Additional, it can play an important role in searching potential animal hosts for SARS-CoV-2 using Ab-ELISA because the double antigen sandwich method makes it free from species restriction.
 
 
   # Tag- BCG vaccine
@@ -2297,18 +2323,18 @@ feed March2020
   // Fully human single-domain antibodies against SARS-CoV-2
   doi: https://doi.org/10.1101/2020.03.30.015990
   article 'Wu_et_al_2020b
-    head = The panning using SARS-CoV-2 RBD and S1 as antigens resulted in the identification of antibodies targeting five types of neutralizing or non-neutralizing epitopes on SARS-CoV-2 RBD. These fully human single-domain antibodies bound specifically to SARS-CoV-2 RBD with subnanomolar to low nanomolar affinities.
+    head = A variety of single-domain antibodies have been isolated targeting five types of epitopes on SARS-CoV-2, and the antibody n3130 was found to potently neutralize both pseudotyped and live virus. These antibodies may represent promising candidates for prophylaxis and therapy of COVID-19, and also serve as reagents to facilitate the vaccine development.
 
     >>> Abstract
       The COVID-19 pandemic is spreading rapidly, highlighting the urgent need for an efficient approach to rapidly develop therapeutics and prophylactics against SARS-CoV-2. We describe here the development of a phage-displayed single-domain antibody library by grafting naïve CDRs into framework regions of an identified human germline IGHV allele. This enabled the isolation of high-affinity single-domain antibodies of fully human origin. The panning using SARS-CoV-2 RBD and S1 as antigens resulted in the identification of antibodies targeting five types of neutralizing or non-neutralizing epitopes on SARS-CoV-2 RBD. These fully human single-domain antibodies bound specifically to SARS-CoV-2 RBD with subnanomolar to low nanomolar affinities. Some of them were found to potently neutralize pseudotyped and live virus, and therefore may represent promising candidates for prophylaxis and therapy of COVID-19. This study also reports unique immunogenic profile of SARS-CoV-2 RBD compared to that of SARS-CoV and MERS-CoV, which may have important implications for the development of effective vaccines against SARS-CoV-2.
+
 
 
   # Serology, antibodies
   // Global profiling of SARS-CoV-2 specific IgG/ IgM responses of convalescents using a proteome microarray
   doi: https://doi.org/10.1101/2020.03.20.20039495
   article 'Jiang_et_al_2020
-    head = To enable the global understanding of SARS-CoV-2 specific IgG/ IgM responses, a SARS-CoV-2 proteome microarray with 18 out of the 28 predicted proteins was constructed. The results suggest that at the convalescent phase 100% of patients had IgG/ IgM responses to SARS-CoV-2, especially to protein N, S1 but not S2. This study presents the first whole picture of the SARS-CoV-2 specific IgG/ IgM responses, and provides insights to develop precise immuno-diagnostics, effective treatment and vaccine.
-
+    head = The results suggest that at the convalescent phase 100% of patients had IgG/ IgM responses to SARS-CoV-2, especially to protein N, S1 but not S2. Significant antibody responses were identified for ORF9b and NSP5. Level of S1 IgG positively correlate to age and the level of LDH (lactate dehydrogenase), especially for women, while the level of S1 IgG negatively correlate to Ly% (Lymphocyte percentage).
 
     -- exports
       !a
@@ -2316,25 +2342,27 @@ feed March2020
       !c
       !d
       !e
-      !f
 
     / March, 2020 - medrxiv
     let !a self assert = We found for two of the control sera, strong IgG bindings were observed for N protein, and specifically one control recognizing N protein at the N terminal while another at the C terminal. This maybe due to the high conservation of N protein sequences across the coronavirus species, this indicating we should be aware of the false positive when applying N protein for diagnosis. In contrast, S1 protein demonstrating a higher specificity. Thus an ideal choice of developing immune-diagnostics maybe the combining of both N protein and S1 protein.
 
     / March, 2020 - medrxiv
-    let !b self assert = We also found the significant presence of IgG and IgM against ORF9b (13 out of 29 cases) and NSP5 (3 out of 29 cases). ORF9b is predicted as an accessory protein, exhibiting high overall sequence similarity to SARS and SARS-like COVs ORF9b (V23I), and is likely to be a lipid binding protein. Study also demonstrates the potential of antibody against ORF9b for detection of convalescent COVID-19 patients
+    let !b self assert = S1 purified from mammalian cell may possess better specificity.
+
+    # / March, 2020 - medrxiv
+    # let !b self assert = We also found the significant presence of IgG and IgM against ORF9b (13 out of 29 cases) and NSP5 (3 out of 29 cases). ORF9b is predicted as an accessory protein, exhibiting high overall sequence similarity to SARS and SARS-like COVs ORF9b (V23I), and is likely to be a lipid binding protein. Study also demonstrates the potential of antibody against ORF9b for detection of convalescent COVID-19 patients.
 
     / March, 2020 - medrxiv
     let !c self assert = Study provide experimental evidence to show the existence of NSP5 specific antibody in convalescents. Since NSP5 is a non-structural protein, theoretically, it should present only in the infected cells but not in virions. So antibody against NSP5 has the potential to be applied to distinguish between COVID-19 patients and healthy people immunized with inactivated virus.
 
     / March, 2020 - medrxiv
-    let !d self assert = We also found peak LDH was highly correlated with IgG response, especially for female patients. As many studies reported, LDH tends to have a higher level in severe COVID-19 patients and could be an indicator of severity
+    let !d self assert = We also found peak LDH was highly correlated with IgG response, especially for female patients. As many studies reported, LDH tends to have a higher level in severe COVID-19 patients and could be an indicator of severity.
 
     / March, 2020 - medrxiv
-    let !e self assert = We observed high correlation between age with IgG response in female patients and in male patients with age less than 40 but not in older male patients, implying the humoral response against SARS-CoV-2 may differ in gender
+    let !e self assert = We observed high correlation between age with IgG response in female patients and in male patients with age less than 40 but not in older male patients, implying the humoral response against SARS-CoV-2 may differ in gender.
 
-    / March, 2020 - medrxiv
-    let !f self assert = Severe cases are significantly more frequent in aged patients and the mortality of male patients is higher than that of female, but the reason is not clear. Based on our observations, we assumed that the situation might be associated with the immune response. However, female patients, compared with male patients, may generate humoral response more efficiently. This difference should be considered during treatment.
+    # / March, 2020 - medrxiv
+    # let !f self assert = Severe cases are significantly more frequent in aged patients and the mortality of male patients is higher than that of female, but the reason is not clear. Based on our observations, we assumed that the situation might be associated with the immune response. However, female patients, compared with male patients, may generate humoral response more efficiently. This difference should be considered during treatment.
 
 
   # Shedding
@@ -2445,14 +2473,15 @@ feed March2020
   // "Possible Vertical Transmission of SARS-CoV-2 From an Infected Mother to Her Newborn
   doi: https://doi.org/doi:10.1001/jama.2020.4621
   article 'Dong_et_al_2020
-    head = We report a newborn with elevated IgM antibodies to SARS-CoV-2 born to a mother with COVID-19. IgM antibodies are not transferred to the fetus via the placenta. The infant potentially could have been exposed for 23 days from the time of the mother’s diagnosis of COVID-19 to delivery.
+    head = We report a newborn with elevated IgM antibodies to SARS-CoV-2 born to a mother with COVID-19. The elevated IgM antibody level suggests that the neonate was infected in utero. IgM antibodies are not transferred to the fetus via the placenta. The infant potentially could have been exposed for 23 days from the time of the mother’s diagnosis of COVID-19 to delivery.
 
     >>> Abstract
       Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is highly infectious, with multiple possible routes of transmission. Controversy exists regarding whether SARS-CoV-2 can be transmitted in utero from an infected mother to her infant before birth. A series of 9 pregnant women found no mother-child transmission. We report a newborn with elevated IgM antibodies to SARS-CoV-2 born to a mother with coronavirus disease 2019 (COVID-19).
 
     >>> Discussion
-      A neonate born to a mother with COVID-19 had elevated antibody levels and abnormal cytokine test results 2 hours after birth. The elevated IgM antibody level suggests that the neonate was infected in utero. IgM antibodies are not transferred to the fetus via the placenta.2 The infant potentially could have been exposed for 23 days from the time of the mother’s diagnosis of COVID-19 to delivery. The laboratory results displaying inflammation and liver injury indirectly support the possibility of vertical transmission. Although infection at delivery cannot be ruled out, IgM antibodies usually do not appear until 3 to 7 days after infection, and the elevated IgM in the neonate was evident in a blood sample drawn 2 hours after birth. Also, the mother’s vaginal secretions were negative for SARS-CoV-2. The infant’s repeatedly negative RT-PCR test results on nasopharyngeal swabs are difficult to explain, although these tests are not always positive with infection. IgG antibodies can be transmitted to the fetus through the placenta and appear later than IgM. Therefore, the elevated IgG level may reflect maternal or infant infection.
+      A neonate born to a mother with COVID-19 had elevated antibody levels and abnormal cytokine test results 2 hours after birth. The elevated IgM antibody level suggests that the neonate was infected in utero. IgM antibodies are not transferred to the fetus via the placenta. The infant potentially could have been exposed for 23 days from the time of the mother’s diagnosis of COVID-19 to delivery. The laboratory results displaying inflammation and liver injury indirectly support the possibility of vertical transmission. Although infection at delivery cannot be ruled out, IgM antibodies usually do not appear until 3 to 7 days after infection, and the elevated IgM in the neonate was evident in a blood sample drawn 2 hours after birth. Also, the mother’s vaginal secretions were negative for SARS-CoV-2. The infant’s repeatedly negative RT-PCR test results on nasopharyngeal swabs are difficult to explain, although these tests are not always positive with infection. IgG antibodies can be transmitted to the fetus through the placenta and appear later than IgM. Therefore, the elevated IgG level may reflect maternal or infant infection.
       Limitations of this report include the single case and that no PCR testing of amniotic fluid or placenta was performed. Additional examination of maternal and newborn samples should be done to confirm this preliminary observation.
+
 
 
   # Children
@@ -2851,6 +2880,10 @@ feed March2020
     >>> Abstract
       The coronavirus SARS-CoV-2 has infected more than 600,000 people and has overwhelmed hospital systems around the world. However, the factors mediating fatal SARS-CoV-2 infections are poorly understood. Here, we show that cigarette smoke causes a dose-dependent upregulation of Angiotensin Converting Enzyme 2 (ACE2), the SARS-CoV-2 receptor, in rodent and human lungs. Using single-cell sequencing data, we demonstrate that ACE2 is expressed in a subset of epithelial cells that line the respiratory tract, including goblet cells, club cells, and alveolar type 2 cells. Chronic smoke exposure triggers a protective expansion of mucus-secreting goblet cells and a concomitant increase in ACE2 expression. In contrast, quitting smoking causes a decrease in lung ACE2 levels. Taken together, these results may partially explain why smokers are particularly likely to develop severe SARS-CoV-2 infections, and they suggest that quitting smoking could lessen coronavirus susceptibility.
 
+    -- exports
+      !a
+      !b
+      !c
 
     / March, 2020 - BioRxiv
     let !a self assert = SARS-CoV-2 primarily relies on the serine protease TMPRSS2 but can also utilize an alternate pathway involving Cathepsin B/L in TMPRSS2-negative cells. Interestingly, we observed that Cathepsin B expression, but not TMPRSS2 or Cathepsin L expression, was consistently increased in mice and humans exposed to cigarette smoke. In a metaanalysis across the trachea, large airways, and small airways, Cathepsin B was in the top 11% of genes dysregulated in the respiratory tract of cigarette smokers. Thus, smoking can upregulate both the coronavirus receptor as well as a protease that SARS-CoV-2 is capable of using for viral activation.
