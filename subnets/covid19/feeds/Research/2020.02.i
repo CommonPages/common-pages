@@ -205,7 +205,7 @@ feed February2020
     let !b self assert = In the anal swab cohort (11 of 28 cases were detected to be anal swab positive, 8 of them (72.7%) were with severe symptoms, which was significantly higher than that 4 (23.5%) of the rest 17 cases without detectable virus in anal were severe cases.
 
     / February, 2020 - Emerging Microbes and infections
-    let !c self assert =  Meanwhile, 8 of the 11 patients with annal swab virus-positive was in severe clinical stage. However, the concentration of viral RNA in the anal swab (Ct value = 24 + 39) was higher than in the blood (Ct value = 34 + 39) from patient 2, suggesting that the virus might replicate in the digestive tract.
+    let !c self assert = Meanwhile, 8 of the 11 patients with annal swab virus-positive was in severe clinical stage. However, the concentration of viral RNA in the anal swab (Ct value = 24 + 39) was higher than in the blood (Ct value = 34 + 39) from patient 2, suggesting that the virus might replicate in the digestive tract.
 
     / February, 2020 - Emerging Microbes and infections
     let !d self assert = Our observation indicated that the presence of viral RNA outside of the respiratory tract might herald the severity of the disease and alarm the requirement of special care. In the blood test cohort, all the 6 infected patients were in (or later progressed to) severe disease stage when serum viral RNA became detectable, which showed a significant difference compared to the blood negative group (p = 0.0001).
@@ -296,10 +296,14 @@ feed February2020
   // Chest CT for Typical 2019-nCoV Pneumonia: Relationship to Negative RT-PCR Testing
   doi: https://doi.org/10.1148/radiol.2020200343
   article 'Xie_et_al_2020
-    head = All patients presented with characteristic radiologic features of COVID-19 pneumonia from the first CT scan and then were confirmed by positive repeat swab tests during the isolated observation or treatment. Review of these five cases suggested that typical CT findings can help early screening of suspected cases and may help predict severe complications such as acute respiratory diseases.
+    head = All patients presented with characteristic radiologic features of COVID-19 pneumonia from the first CT scan and then were confirmed by positive repeat swab tests during the isolated observation or treatment. A combination of repeated swab tests and CT scanning may be helpful for diagnostic. 
 
     >>> Abstract
       Some patients with positive chest CT findings may present with negative results of real time reverse-transcription–polymerase chain- reaction (RT-PCR) for 2019 novel coronavirus (2019-nCoV). In this report, we present chest CT findings from five patients with 2019-nCoV infection who had initial negative RT-PCR results. All five patients had typical imaging findings, including ground-glass opacity (GGO) (5 patients) and/or mixed GGO and mixed consolidation (2 patients). After isolation for presumed 2019-nCoV pneumonia, all patients were eventually confirmed with 2019-nCoV infection by repeated swab tests. A combination of repeated swab tests and CT scanning may be helpful when for individuals with high clinical suspicion of nCoV infection but negative RT-PCR screening.
+
+    -- exports
+      !k
+
 
     # / February, 2020 - Radiology
     # let !a self assert = 167 patients were evaluated; of these 5 (3%) patients initially had negative RT-PCR but positive chest CT with pattern consistent with viral pneumonia. Of the 5 patients with negative RT-PCR and positive CT at initial presentation, the median CT involvement score was 4. The highest CT involvement score was 14 while the minimum was 2.
@@ -331,13 +335,17 @@ feed February2020
     / February, 2020 - Radiology
     let !j self assert = Patient 5: A 29-year-old male with onging fever was admitted to hospital. He had a travel history to Wuhan during the 2019-nCoV outbreak. A swab test and CT scanning were performed. The CT images showed multi-focal mixed GGO and parenchyma consolidation involving the subpleural regions of both lungs suspicious for viral pneumonia. The CT involvement score was 2. Two RT-PCT tests were both negative and the patient was kept on home-isolation. A third swab test was positive 8 days after CT scanning. The patient was sent to hospital for isolated treatment.
 
+    / February, 2020 - Radiology
+    let !k self assert = All patients had typical imaging findings, such as ground-glass opacity (five patients, 100%) or mixed ground-glass opacity and mixed consolidation (two patients, 40%); the mean CT involvement score was 6.8, and the median CT involvement score was 4 (highest CT involvement score, 14; lowest CT involvement score, 2).
+
+
+
 
   # PCR testing, Relapse, nosocomial
   // Positive RT-PCR Test Results in Patients Recovered From COVID-19
   doi: https://doi.org/10.1001/jama.2020.2783
   article 'Lan_et_al_2020
     head = Four patients with COVID-19 who met criteria for hospital discharge or discontinuation of quarantine in China (absence of clinical symptoms and radiological abnormalities and 2 negative RT-PCR test results) had positive RT-PCR test results 5 to 13 days later. These findings suggest that at least a proportion of recovered patients still may be virus carriers.
-
 
     # / February, 2020 - JAMA Network
     # let !a self assert = All 4 patients were exposed to the novel 2019 coronavirus through work as medical professionals. Two were male and the age range was 30 to 36 years. Among 3 of the patients, fever, cough, or both occurred at onset. One patient was initially asymptomatic and underwent thin-section CT due to exposure to infected patients. All patients had positive RT-PCR test results and CT imaging showed ground-glass opacification or mixed ground-glass opacification and consolidation. The severity of disease was mild to moderate.

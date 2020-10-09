@@ -48,10 +48,10 @@ index: hide
   model Antibodytiter
     head = An antibody titer is a measurement of how much antibody an organism has produced that recognizes a particular epitope, expressed as the inverse of the greatest dilution (in a serial dilution) that still gives a positive result. ELISA is a common means of determining antibody titers.
 
-    link: https://en.wikipedia.org/wiki/Antigen
-    / Antigen
-    model Antigen
-      head = In immunology, an antigen (Ag) is a molecule or molecular structure, such as may be present at the outside of a pathogen, that can be bound to by an antigen-specific antibody (Ab) or B cell antigen receptor (BCR). The presence of antigens in the body normally triggers an immune response.
+  link: https://en.wikipedia.org/wiki/Antigen
+  / Antigen
+  model Antigen
+    head = In immunology, an antigen (Ag) is a molecule or molecular structure, such as may be present at the outside of a pathogen, that can be bound to by an antigen-specific antibody (Ab) or B cell antigen receptor (BCR). The presence of antigens in the body normally triggers an immune response.
 
   link: https://en.wikipedia.org/wiki/Angiotensin-converting_enzyme_2
   / Angiotensin-converting enzyme 2 (ACE2)
@@ -61,3 +61,8 @@ index: hide
     # https://doi.org/10.1016/S2213-2600(20)30116-8
     >>>
       The expression of ACE2 is substantially increased in patients with type 1 or type 2 diabetes, who are treated with ACE inhibitors and angiotensin II type-I receptor blockers (ARBs). Hypertension is also treated with ACE inhibitors and ARBs, which results in an upregulation of ACE2. ACE2 can also be increased by thiazolidinediones and ibuprofen.
+
+  link: https://en.wikipedia.org/wiki/Ground-glass_opacity
+  / Ground glass opacity (GGO)
+  model GGO
+    head = In radiology, ground glass opacity (GGO) is a nonspecific finding on radiographs and computed tomography (CT) scans. It consists of a hazy opacity that does not obscure the underlying bronchial structures or pulmonary vessels, and that indicates a partial filling of air spaces in the lungs by exudate or transudate, as well as interstitial thickening or partial collapse of lung alveoli

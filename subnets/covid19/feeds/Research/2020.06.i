@@ -1825,18 +1825,16 @@ feed June2020
   // False Negative Tests for SARS-CoV-2 Infection — Challenges and Implications
   doi: https://doi.org/10.1056/NEJMp2015897
   article 'Woloshin_et_al_06_05_2020
-    head = Diagnostic testing will help in safely opening the country, but only if the tests are highly sensitive and validated under realistic conditions against a clinically meaningful reference standard. Measuring test sensitivity in asymptomatic people is an urgent priority. It will also be important to develop methods (e.g., prediction rules) for estimating the pretest probability of infection (for asymptomatic and symptomatic people) to allow calculation of post-test probabilities after positive or negative results. Negative results even on a highly sensitive test cannot rule out infection if the pretest probability is high, so clinicians should not trust unexpected negative results (i.e., assume a negative result is a “false negative” in a person with typical symptoms and known exposure). It’s possible that performing several simultaneous or repeated tests could overcome an individual test’s limited sensitivity; however, such strategies need validation.
+    head = Diagnostic testing will help in safely opening the country, but only if the tests are highly sensitive and validated under realistic conditions against a clinically meaningful reference standard. Measuring test sensitivity in asymptomatic people is an urgent priority. While debate has focused on the accuracy of antibody tests, which identify prior infection, diagnostic testing, which identifies current infection, has received less attention. But inaccurate diagnostic tests undermine efforts at containment of the pandemic.
 
     -- exports
       !a
       !b
       !c
       !d
-      !e
       !f
       !g
       !h
-      !i
 
     / June, 2020 - The New England Journal of Medicine
     let !a self assert = The FDA prefers the use of “natural clinical specimens” but has permitted the use of “contrived specimens” produced by adding viral RNA or inactivated virus to leftover clinical material. Ordinarily, test-performance studies entail having patients undergo an index test and a “reference standard” test determining their true state. Clinical sensitivity is the proportion of positive index tests in patients who in fact have the disease in question. Sensitivity, and its measurement, may vary with the clinical setting. For a sick person, the reference-standard test is likely to be a clinical diagnosis, ideally established by an independent adjudication panel whose members are unaware of the index-test results. For SARS-CoV-2, it is unclear whether the sensitivity of any FDA-authorized commercial test has been assessed in this way.
@@ -1845,13 +1843,16 @@ feed June2020
     let !b self assert = Designing a reference standard for measuring the sensitivity of SARS-CoV-2 tests in asymptomatic people is an unsolved problem that needs urgent attention to increase confidence in test results for contact-tracing or screening purposes. Simply following people for the subsequent development of symptoms may be inadequate, since they may remain asymptomatic yet be infectious. Assessment of clinical sensitivity in asymptomatic people had not been reported for any commercial test as of June 1, 2020.
 
     / June, 2020 - The New England Journal of Medicine
-    let !c self assert = In a preprint systematic review of five studies (not including the Yang and Zhao studies), involving 957 patients (“under suspicion of Covid-19” or with “confirmed cases”), false negatives ranged from 2 to 29%.4 However, the certainty of the evidence was considered very low because of the heterogeneity of sensitivity estimates among the studies, lack of blinding to index-test results in establishing diagnoses, and failure to report key RT-PCR characteristics.4 Taken as a whole, the evidence, while limited, raises concern about frequent false negative RT-PCR results.
+    let !c self assert = In a preprint systematic review of five studies (not including the Yang and Zhao studies), involving 957 patients (“under suspicion of Covid-19” or with “confirmed cases”), false negatives ranged from 2 to 29%. However, the certainty of the evidence was considered very low because of the heterogeneity of sensitivity estimates among the studies, lack of blinding to index-test results in establishing diagnoses, and failure to report key RT-PCR characteristics. Taken as a whole, the evidence, while limited, raises concern about frequent false negative RT-PCR results.
 
     / June, 2020 - The New England Journal of Medicine
-    let !d self assert = If SARS-CoV-2 diagnostic tests were perfect, a positive test would mean that someone carries the virus and a negative test that they do not. With imperfect tests, a negative result means only that a person is less likely to be infected. To calculate how likely, one can use Bayes’ theorem, which incorporates information about both the person and the accuracy of the test. For a negative test, there are two key inputs: pretest probability — an estimate, before testing, of the person’s chance of being infected — and test sensitivity. Pretest probability might depend on local Covid-19 prevalence, SARS-CoV-2 exposure history, and symptoms. Ideally, clinical sensitivity and specificity of each test would be measured in various clinically relevant real-life situations (e.g., varied specimen sources, timing, and illness severity).
+    let !d self assert = If SARS-CoV-2 diagnostic tests were perfect, a positive test would mean that someone carries the virus and a negative test that they do not. With imperfect tests, a negative result means only that a person is less likely to be infected. To calculate how likely, one can use Bayes’ theorem, which incorporates information about both the person and the accuracy of the test.
 
     / June, 2020 - The New England Journal of Medicine
-    let !e self assert = Assume that an RT-PCR test was perfectly specific (always negative in people not infected with SARS-CoV-2) and that the pretest probability for someone who, say, was feeling sick after close contact with someone with Covid-19 was 20%. If the test sensitivity were 95% (95% of infected people test positive), the post-test probability of infection with a negative test would be 1%, which might be low enough to consider someone uninfected and may provide them assurance in visiting high-risk relatives. The post-test probability would remain below 5% even if the pretest probability were as high as 50%, a more reasonable estimate for someone with recent exposure and early symptoms in a “hot spot” area.
+    let !j self assert = For a negative test, there are two key inputs: pretest probability — an estimate, before testing, of the person’s chance of being infected — and test sensitivity. Pretest probability might depend on local Covid-19 prevalence, SARS-CoV-2 exposure history, and symptoms. Ideally, clinical sensitivity and specificity of each test would be measured in various clinically relevant real-life situations (e.g., varied specimen sources, timing, and illness severity).
+
+    # / June, 2020 - The New England Journal of Medicine
+    # let !e self assert = Assume that an RT-PCR test was perfectly specific (always negative in people not infected with SARS-CoV-2) and that the pretest probability for someone who, say, was feeling sick after close contact with someone with Covid-19 was 20%. If the test sensitivity were 95% (95% of infected people test positive), the post-test probability of infection with a negative test would be 1%, which might be low enough to consider someone uninfected and may provide them assurance in visiting high-risk relatives. The post-test probability would remain below 5% even if the pretest probability were as high as 50%, a more reasonable estimate for someone with recent exposure and early symptoms in a “hot spot” area.
 
     / June, 2020 - The New England Journal of Medicine
     let !f self assert = But sensitivity for many available tests appears to be substantially lower: the studies cited above suggest that 70% is probably a reasonable estimate. At this sensitivity level, with a pretest probability of 50%, the post-test probability with a negative test would be 23% — far too high to safely assume someone is uninfected.
@@ -1862,8 +1863,8 @@ feed June2020
     / June, 2020 - The New England Journal of Medicine
     let !h self assert = The graph also highlights why efforts to reduce pretest probability (e.g., by social distancing, possibly wearing masks) matter. If the pretest probability gets too high (above 50%, for example), testing loses its value because negative results cannot lower the probability of infection enough to reach the threshold.
 
-    / June, 2020 - The New England Journal of Medicine
-    let !i self assert = Finally, thresholds for ruling out infection need to be developed for a variety of clinical situations. Since defining these thresholds is a value judgement, public input will be crucial.
+    # / June, 2020 - The New England Journal of Medicine
+    # let !i self assert = Finally, thresholds for ruling out infection need to be developed for a variety of clinical situations. Since defining these thresholds is a value judgement, public input will be crucial.
 
 
   #  Way back in March we wrote a brief note about what we could deduce about the origin of SARS-CoV-2 from the genome sequence:The proximal origin of SARS-CoV-2- Since then additional evidence has come out which supports our arguments and actually enhances them, ORIGIN... Can take table from this research on strain similarities
@@ -2005,38 +2006,29 @@ feed June2020
   // COVID-19 diagnostics in context
   doi: https://doi.org/10.1126/scitranslmed.abc1931
   article 'Weissleder_et_al_06_03_2020
-    head = The coronavirus disease 2019 (COVID-19) pandemic has highlighted the need for different types of diagnostics, comparative validation of new tests, faster approval by federal agencies, and rapid production of test kits to meet global demands. In this Perspective, we discuss the utility and challenges of current diagnostics for COVID-19.
+    head = The coronavirus disease 2019 (COVID-19) pandemic has highlighted the need for different types of diagnostics, comparative validation of new tests, faster approval by federal agencies, and rapid production of test kits to meet global demands. In this perspective, we discuss the utility and challenges of current diagnostics for COVID-19.
 
     >>> Abstract
       The coronavirus disease 2019 (COVID-19) pandemic has highlighted the need for different types of diagnostics, comparative validation of new tests, faster approval by federal agencies, and rapid production of test kits to meet global demands. In this Perspective, we discuss the utility and challenges of current diagnostics for COVID-19.
 
     -- exports
-      !a
       !b
       !c
       !d
-      !e
       !f
-      !g
       !h
       !i
-      !j
       !k
-      !l
       !m
       !n
       !o
       !p
       !q
-      !r
-      !s
-      !t
-      !u
       !v
       !w
 
-    / June, 2020 - Science Translational Medicine
-    let !a self assert = TYPES OF TESTS: COVID-19 tests can be grouped as nucleic acid, serological, antigen, and ancillary tests, all of which play distinct roles in hospital, point-of-care, or large-scale population testing.
+    # / June, 2020 - Science Translational Medicine
+    # let !a self assert = TYPES OF TESTS: COVID-19 tests can be grouped as nucleic acid, serological, antigen, and ancillary tests, all of which play distinct roles in hospital, point-of-care, or large-scale population testing.
 
     / June, 2020 - Science Translational Medicine
     let !b self assert = In NATs, viral RNA is reverse-transcribed into DNA, which is then amplified through polymerase chain reaction (PCR). NATs are the most widely used tests for detection of SARS-CoV-2 (the virus that causes COVID-19) and are increasingly run on automated platforms that take several hours to complete. The U.S. Food and Drug Administration (FDA) and Centers for Disease Control and Prevention (CDC) have recommended distinct SARS-CoV-2–specific RNA regions for testing (viral nucleocapsid N1, N2, and human RNase P gene), primers, and reagents. This assay differs from the World Health Organization (WHO) assay, which targets the CoV-2 RNA-dependent RNA polymerase (RdRP) and envelope (E) genes.
@@ -2047,14 +2039,14 @@ feed June2020
     / June, 2020 - Science Translational Medicine
     let !d self assert = Most antigen tests probe for the nucleocapsid (N) or spike (S) proteins of SARS-CoV-2 via lateral flow or ELISA (enzyme-linked immunosorbent assay) tests. These tests can be performed using nasopharyngeal swabs and take less than an hour to complete. Ancillary tests comprise a broad category of personal devices (apps and wearable sensors) and hospital laboratory tests, including blood gas analysis, coagulation tests, and indicators of cytokine storm (7) such as interleukin-6 (IL-6), ferritin, granulocyte colony-stimulating factor (G-CSF), macrophage inflammatory protein–1α (MIP-1α), and tumor necrosis factor–α (TNF-α). These tests aid in the management of patients with COVID-19.
 
-    / June, 2020 - Science Translational Medicine
-    let !e self assert = CROSS-REACTIVITY, CROSS-IMMUNITY, ACCURACY, AND TURNAROUND TIME OF TESTS: Cross-reactivity in diagnostic tests has been observed. For example, an immunogenic domain in the S protein of SARS-CoV-1 is highly conserved in multiple strains of SARS-CoV-2, and murine monoclonal antibodies raised against the SARS-CoV-1 immunogenic domain recognized the S protein of SARS-CoV-2. Defining whether humans can naturally develop cross-immunity requires investigation. At present, studies using sera from individuals who have recovered from SARS or COVID-19 infections have shown limited cross-neutralization, suggesting that recovery from one infection does not protect against the other.
+    # / June, 2020 - Science Translational Medicine
+    # let !e self assert = Cross-reactivity in diagnostic tests has been observed. For example, an immunogenic domain in the S protein of SARS-CoV-1 is highly conserved in multiple strains of SARS-CoV-2, and murine monoclonal antibodies raised against the SARS-CoV-1 immunogenic domain recognized the S protein of SARS-CoV-2. Defining whether humans can naturally develop cross-immunity requires investigation. At present, studies using sera from individuals who have recovered from SARS or COVID-19 infections have shown limited cross-neutralization, suggesting that recovery from one infection does not protect against the other.
 
     / June, 2020 - Science Translational Medicine
     let !f self assert = The accuracy of a diagnostic test is commonly defined by its sensitivity (positive test in a patient with disease), specificity (negative test in a healthy individual), negative predictive value (chance that a person with a negative test is truly disease-free), and positive predictive value (chance that a person with a positive test is truly diseased). NATs typically have high analytical sensitivities and specificities under ideal circumstances. However, in clinical reality, the test sensitivity varies according to duration of illness, the specific clinical COVID-19 syndrome, the site of specimen collection, the quality of specimen collection, and the viral load. As a result, false-negative rates have been reported to occur in ~30% of patients with COVID-19 [range, 10 to 40%.
 
-    / June, 2020 - Science Translational Medicine
-    let !g self assert =  If there is a high pretest probability in patients with symptoms or findings (suggestive computed tomography scans or chest x-rays), testing should be repeated after a single negative result. By contrast, concerns about “missing cases” that are infectious in the community because of imperfect sensitivity are outweighed by the current lack of access to testing.
+    # / June, 2020 - Science Translational Medicine
+    # let !g self assert = If there is a high pretest probability in patients with symptoms or findings (suggestive computed tomography scans or chest x-rays), testing should be repeated after a single negative result. By contrast, concerns about “missing cases” that are infectious in the community because of imperfect sensitivity are outweighed by the current lack of access to testing.
 
     / June, 2020 - Science Translational Medicine
     let !h self assert = The accuracy of serological tests can be near 100% when samples are acquired 20 days after infection or first symptoms. At earlier time points, the sensitivity and specificity are lower as the immune response is evolving.
@@ -2062,14 +2054,14 @@ feed June2020
     / June, 2020 - Science Translational Medicine
     let !i self assert = Inaccurate serological tests may lead to two major problems: the false labeling of patients who have been infected as disease-negative, and the false labeling of patients who have not been infected as disease-positive. Both errors will affect control efforts in important ways and have consequences for individuals tested.
 
-    / June, 2020 - Science Translational Medicine
-    let !j self assert = The time from sample acquisition to NAT result can vary from less than an hour to several days. Factors that determine this time include the testing platform as well as the logistics of sample acquisition, transport, processing, and reporting. NATs based on conventional PCR typically require 4 to 6 hours of processing, including sample preparation, RNA extraction, reverse transcription PCR (RT-PCR), and readout of amplified DNA products.
+    # / June, 2020 - Science Translational Medicine
+    # let !j self assert = The time from sample acquisition to NAT result can vary from less than an hour to several days. Factors that determine this time include the testing platform as well as the logistics of sample acquisition, transport, processing, and reporting. NATs based on conventional PCR typically require 4 to 6 hours of processing, including sample preparation, RNA extraction, reverse transcription PCR (RT-PCR), and readout of amplified DNA products.
 
     / June, 2020 - Science Translational Medicine
     let !k self assert = Point-of-care PCR kits can shorten the time to result to about 30 min (19) and can be occasionally faster (20). This is accomplished using cartridges or lateral flow technology for sample preparation, nucleic acid amplification, and detection. However, these rapid tests typically have lower throughput, are not yet automated, and are generally more expensive than other tests. In modern healthcare systems, there are different needs and requirements for different types of assays, for example, for screening large populations versus making rapid clinical decisions.
 
-    / June, 2020 - Science Translational Medicine
-    let !l self assert = UNDERSTANDING VIRAL LOAD AND IMMUNITY: SARS-CoV-2 infection triggers innate and adaptive immune responses, which can be detected in peripheral blood. Extensive efforts are under way to characterize these immune responses longitudinally in patients with diverse clinical outcomes. Results from these studies should help explain how the body controls the infection and why it sometimes fails to do so. Among adaptive immune cells, B cells are of interest because some of them may produce IgM or IgG antibodies that recognize SARS-CoV-2 antigens. In this context, a positive titer refers to the detection of SARS-CoV-2–specific antibodies in a patient’s serum sample.
+    # / June, 2020 - Science Translational Medicine
+    # let !l self assert = SARS-CoV-2 infection triggers innate and adaptive immune responses, which can be detected in peripheral blood. Extensive efforts are under way to characterize these immune responses longitudinally in patients with diverse clinical outcomes. Results from these studies should help explain how the body controls the infection and why it sometimes fails to do so. Among adaptive immune cells, B cells are of interest because some of them may produce IgM or IgG antibodies that recognize SARS-CoV-2 antigens. In this context, a positive titer refers to the detection of SARS-CoV-2–specific antibodies in a patient’s serum sample.
 
     / June, 2020 - Science Translational Medicine
     let !m self assert = Seroconversion (the body’s process of developing antibodies) may occur around 1 to 2 weeks after infection and is thought to provide some immunity against SARS-CoV-2 in people who recover from the disease. Evidence from other coronaviruses suggests that protection may last for 1 to 2 years; however, at this time, the duration and nature of immunity generated in response to SARS-CoV-2 infection are unknown, and there is no evidence that COVID-19 antibody–positive patients who have recovered from the disease are protected from a second infection. It is thus advisable that such patients continue wearing personal protective equipment and practicing social distancing and frequent hand washing.
@@ -2086,17 +2078,17 @@ feed June2020
     / June, 2020 - Science Translational Medicine
     let !q self assert = Also, patients of different ages, including children, may have similar viral loads, raising the possibility that children may be infectious despite typically showing less severe symptoms than adults.
 
-    / June, 2020 - Science Translational Medicine
-    let !r self assert = In patients with COVID-19, positive test results determined by NATs have been reported as follows: bronchoalveolar lavage (BAL), 93%; bronchoscopy biopsy, 46%; sputum, 72%; nasal swabs, 63%; pharyngeal swab, 32%; feces, 29%; blood, 1%; and urine, 0%. These numbers vary in other cohorts and depend on the severity of the disease. The viability and infectiousness of the virus in these samples warrant further investigation.
+    # / June, 2020 - Science Translational Medicine
+    # let !r self assert = In patients with COVID-19, positive test results determined by NATs have been reported as follows: bronchoalveolar lavage (BAL), 93%; bronchoscopy biopsy, 46%; sputum, 72%; nasal swabs, 63%; pharyngeal swab, 32%; feces, 29%; blood, 1%; and urine, 0%. These numbers vary in other cohorts and depend on the severity of the disease. The viability and infectiousness of the virus in these samples warrant further investigation.
 
-    / June, 2020 - Science Translational Medicine
-    let !s self assert = TESTING COSTS AND PRIORITIZATION: A new law mandates that Medicare, Medicaid, other government health care and insurance plans, and most private plans cover COVID-19 testing in the United States without copays or deductibles. On 5 March 2020, the Centers for Medicare and Medicaid Services (CMS) announced new Healthcare Common Procedure Coding System (HCPCS) codes for health care providers and laboratories to test patients for SARS-CoV-2. Starting in April, laboratories performing the test could bill Medicare and other health insurers for services, using a newly created HCPCS code (U0001). This code applies to all tests that were developed by the CDC.
+    # / June, 2020 - Science Translational Medicine
+    # let !s self assert = A new law mandates that Medicare, Medicaid, other government health care and insurance plans, and most private plans cover COVID-19 testing in the United States without copays or deductibles. On 5 March 2020, the Centers for Medicare and Medicaid Services (CMS) announced new Healthcare Common Procedure Coding System (HCPCS) codes for health care providers and laboratories to test patients for SARS-CoV-2. Starting in April, laboratories performing the test could bill Medicare and other health insurers for services, using a newly created HCPCS code (U0001). This code applies to all tests that were developed by the CDC.
 
-    / June, 2020 - Science Translational Medicine
-    let !t self assert = Laboratories performing non-CDC laboratory tests for SARS-CoV-2 can bill for them using a different HCPCS code (U0002). Current test prices are $35.91 for U0001 and $51.31 for U0002. The overall costs should take into context how a diagnostic test is used in practice. For example, if a test is restricted to very sick patients, the cost is small compared to the overall medical care. Conversely, if a test is used for broad screening, the cost per positive result could be high depending on prevalence.
+    # / June, 2020 - Science Translational Medicine
+    # let !t self assert = Laboratories performing non-CDC laboratory tests for SARS-CoV-2 can bill for them using a different HCPCS code (U0002). Current test prices are $35.91 for U0001 and $51.31 for U0002. The overall costs should take into context how a diagnostic test is used in practice. For example, if a test is restricted to very sick patients, the cost is small compared to the overall medical care. Conversely, if a test is used for broad screening, the cost per positive result could be high depending on prevalence.
 
-    / June, 2020 - Science Translational Medicine
-    let !u self assert = There are different indications for diagnostic testing for individuals with a proven or suspected case of COVID-19. Given the limited testing capacity in the United States, priority lists have been established. Priority 1 includes hospitalized patients and symptomatic health care workers. Priority 2 includes symptomatic patients in health care facilities, >65-year-old patients with underlying conditions, and first responders. Priority 3 includes symptomatic patients, including critical infrastructure workers. Individuals without symptoms are currently not prioritized for any testing
+    # / June, 2020 - Science Translational Medicine
+    # let !u self assert = There are different indications for diagnostic testing for individuals with a proven or suspected case of COVID-19. Given the limited testing capacity in the United States, priority lists have been established. Priority 1 includes hospitalized patients and symptomatic health care workers. Priority 2 includes symptomatic patients in health care facilities, >65-year-old patients with underlying conditions, and first responders. Priority 3 includes symptomatic patients, including critical infrastructure workers. Individuals without symptoms are currently not prioritized for any testing
 
     / June, 2020 - Science Translational Medicine
     let !v self assert = When carried out broadly and repeatedly, NAT results have consequences for individuals, communities, and the entire population. These tests not only permit the identification, isolation, and treatment of infected individuals but also diagnose presymptomatic and asymptomatic carriers and thus more accurately define the infection rates across populations. Serological testing should be used in parallel with NATs to determine which individuals have acquired immunity and how long it lasts. Serosurveys may also help efforts to develop vaccines. By extension, serological testing that is performed frequently and on a wide scale should help determine what fraction of the population may be immune to COVID-19 and which individuals may rejoin the workforce.

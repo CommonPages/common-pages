@@ -1012,7 +1012,7 @@ feed March2020
   // Temporal Changes of CT Findings in 90 Patients with COVID-19 Pneumonia: A Longitudinal Study
   doi: https://doi.org/10.1148/radiol.2020200843
   article 'Wang_et_al_2020b
-    head = The extent of lung abnormalities on CT peaked during illness days 6-11. The temporal changes of the diverse CT manifestations followed a specific pattern, which might indicate the progression and recovery of the illness.
+    head = The most common CT manifestations were bilateral ground-glass opacity. The extent of CT abnormalities progressed rapidly after the onset of symptoms, peaked around 6–11 days, and was followed by persistence of high levels. The temporal changes of the diverse CT manifestations followed a specific pattern, which might indicate the progression and recovery of the illness.
 
     >>> Background
       CT may play a central role in the diagnosis and management of COVID-19 pneumonia.
@@ -1031,20 +1031,21 @@ feed March2020
 
 
     # / March, 2020 - Radiology
-    # let !a self assert =
+    # let !a self assert = The most common CT finding during the course of COVID-19 pneumonia in our patient cohort was ground-glass opacity alone. Consolidation was the second most common feature seen in the first 11 days. When combined, ground-glass opacity and consolidation constituted about 83%–85% of all CT findings in total in the early stage of the disease.
 
 
   # Diagnostic CT
   // Chest CT Findings in Cases from the Cruise Ship “Diamond Princess” with Coronavirus Disease 2019 (COVID-19)
-  doi: https://doi.org/xyz
+  doi: https://doi.org/10.1148/ryct.2020200110
   article 'Inui_et_al_2020
-    head = Of 104 cases, 76 (73%) were asymptomatic, 41 (54%) of which had lung opacities on CT. Other 28 (27%) cases were symptomatic, 22 (79%) of which had abnormal CT findings. Symptomatic cases showed lung opacities and airway abnormalities on CT more frequently than asymptomatic cases
+    head = This study documented a high incidence of subclinical CT changes in cases with COVID-19. Compared to symptomatic cases, asymptomatic cases showed more GGO over consolidation and milder extension of disease on CT.
 
     -- exports
       !a
 
     / March, 2020 - Radiology: Cardiothoracic Imaging
-    let !a self assert = This study documented a high incidence of subclinical CT changes in cases with COVID-19. Compared to symptomatic cases, asymptomatic cases showed more GGO over consolidation and milder extension of disease on CT.
+    let !a self assert = Symptomatic cases showed lung opacities and airway abnormalities on CT more frequently than asymptomatic cases.
+
 
 
   # Clinical and virological data, epidemic, viral load, and suspecibility to infection, first cases in Europe, France, (check the author name)
@@ -2424,9 +2425,26 @@ feed March2020
 
     -- exports
       !a
+      !b
+      !c
+      !d
+      !e
 
     / March, 2020 - The Lancet Infectious Diseases
     let !a self assert = For SARS coronavirus, viral RNA is detectable in the respiratory secretions and stools of some patients after onset of illness for more than 1 month, but live virus could not be detected by culture after week 3.
+
+    / March, 2020 - The Lancet Infectious Diseases
+    let !b self assert = The presence of viral RNA in specimens does not always correlate with viral transmissibility. In a ferret model of H1N1 infection, the loss of viral culture positivity but not the absence of viral RNA coincided with the end of the infectious period.
+
+    / March, 2020 - The Lancet Infectious Diseases
+    let !c self assert = Real-time reverse transcriptase PCR results remained positive 6–8 days after the loss of transmissibility.
+
+    / March, 2020 - The Lancet Infectious Diseases
+    let !d self assert = Our understanding of the relationship between viral RNA load kinetics and disease severity in patients with COVID-19 remains fragmented. Zou and colleagues reported that patients with COVID-19 with more severe disease requiring intensive care unit admission had high viral RNA loads at 10 days and beyond, after symptom onset.
+
+    / March, 2020 - The Lancet Infectious Diseases
+    let !e self assert = Lescure and colleagues report the viral RNA kinetics of two patients who developed late respiratory deterioration despite the disappearance of nasopharyngeal viral RNA.
+
 
 
   # Variant population, Fatality, Refer the graph (Image) and comparison with other studies for the data we put in a.

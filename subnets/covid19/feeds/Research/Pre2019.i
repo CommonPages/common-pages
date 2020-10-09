@@ -4380,8 +4380,16 @@ feed Pre2019
 
     >>> Conclusions
       Point estimates calculated from eligible studies showed that the three mPCRs (FilmArray, Verigene RV+ and ProFlu+) are highly accurate and may provide important diagnostic information for early identification of respiratory virus infections. In patients with low pretest probability for FluA, these three mPCRs can predict a low possibility of infection and may justify withholding empirical antiviral treatments.
+    -- exports
+     !a
+     !b
 
-    # / November, 2017 -  Clinical Microbiology and Infection
+    / November, 2017 -  Clinical Microbiology and Infection
+    let !a self assert = As a result of the low sensitivity of the rapid influenza diagnostic tests, the decision of antiviral treatment for FluA infection is largely based on clinical grounds alone, which may lead to overprescription of anti-influenza drugs and increasing drug resistance
+
+    / November, 2017 -  Clinical Microbiology and Infection
+    let !b self assert = Clinicians should interpret the results on the basis of likelihood ratio and pretest probability.
+
 
 
   # Testing
@@ -4395,6 +4403,7 @@ feed Pre2019
 
 
     # / November, 2017 -  American Society for Microbiology Journal
+
 
 
   # Tag - treatments, Frontiers, Peptides
@@ -4459,33 +4468,25 @@ feed Pre2019
   // Sensitivity of Chest CT for COVID-19: Comparison to RT-PCR
   doi: https://doi.org/10.1148/radiol.2020200432
   article 'Fang_et_al_2020
-    head = In a series of 51 patients with chest CT and RT-PCR assay performed within 3 days, the sensitivity of CT for COVID-19 infection was 98% compared to RT-PCR sensitivity of 71% (p<.001)- Patients eventually tested positive 1 to 7 days later..Our results support the use of chest CT for screening for COVD-19 for patients with clinical and epidemiologic features compatible with COVID-19 infection particularly when RT-PCR testing is negative-
+    head = In our series, the sensitivity of CT for COVID-19 infection was 98% compared to RT-PCR sensitivity of 71% - Patients eventually tested positive 1 to 7 days later. Our results support the use of chest CT for screening for COVD-19 for patients with clinical and epidemiologic features compatible with COVID-19 infection particularly when RT-PCR testing is negative.
 
-    -- exports
-      !a
-      !b
-      !c
-      !d
-      !e
-      !f
+    # / March, 2020 - cold spring harbor laboratory
+    # let !a self assert = 36/51 patients had positive RT-PCR and positive CT at initial presention for COVID-19.
 
-    / March, 2020 - cold spring harbor laboratory
-    let !a self assert = 36/51 patients had positive RT-PCR and positive CT at initial presention for COVID-19.
+    # / March, 2020 - cold spring harbor laboratory
+    # let !b self assert = 15/51 patients with negative RT-PCR and positive CT at initial presentation (RT-PCR became positive between 1 and 7 days later -12/51 patients had COVID-19 confirmed by two RT-PCR nucleic acid tests (1 to 2 days), 2 patients by three tests (2-5 days) and 1 patient by four tests (7 days) after initial onset.)
 
-    / March, 2020 - cold spring harbor laboratory
-    let !b self assert =  15/51 patients with negative RT-PCR and positive CT at initial presentation (RT-PCR became positive between 1 and 7 days later -12/51 patients had COVID-19 confirmed by two RT-PCR nucleic acid tests (1 to 2 days), 2 patients by three tests (2-5 days) and 1 patient by four tests (7 days) after initial onset.)
+    # / March, 2020 - cold spring harbor laboratory
+    # let !c self assert = 1/51 patient with positive RT-PCR and negative CT at initial presentation (CT became positive after 3 days of viral pneumonia).
 
-    / March, 2020 - cold spring harbor laboratory
-    let !c self assert = 1/51 patient with positive RT-PCR and negative CT at initial presentation (CT became positive after 3 days of viral pneumonia).
+    # / March, 2020 - cold spring harbor laboratory
+    # let !d self assert = In this patient sample, difference in detection rate for initial CT (50/51 [98%, 95% CI 90-100%]) patients was greater than first RT-PCR (36/51 [71%, 95%CI 56-83%]) patients (p<.001).
 
-    / March, 2020 - cold spring harbor laboratory
-    let !d self assert = In this patient sample, difference in detection rate for initial CT (50/51 [98%, 95% CI 90-100%]) patients was greater than first RT-PCR (36/51 [71%, 95%CI 56-83%]) patients (p<.001).
+    # / March, 2020 - cold spring harbor laboratory
+    # let !e self assert = Of 50 patients with abnormal CT, 36 (72%) had typical CT manifestations (e.g. peripheral, subpleural ground glass opacities, often in the lower lobes and 14 (28%) had atypical CT manifestations
 
-    / March, 2020 - cold spring harbor laboratory
-    let !e self assert = Of 50 patients with abnormal CT, 36 (72%) had typical CT manifestations (e.g. peripheral, subpleural ground glass opacities, often in the lower lobes (Figure 2) and 14 (28%) had atypical CT manifestations
-
-    / March, 2020 - cold spring harbor laboratory
-    let !f self assert =  The reasons for the relatively lower RT-PCR detection rate in our sample compared to a prior report are unknown.
+    # / March, 2020 - cold spring harbor laboratory
+    # let !f self assert =  The reasons for the relatively lower RT-PCR detection rate in our sample compared to a prior report are unknown.
 
 
   # Old Age
@@ -4875,7 +4876,6 @@ feed Pre2019
   article 'Ciavarella_et_al_2016
     head = Our simulation results suggest that reactive school closure policies based on student absenteeism are applicable in real-world situations and can be highly effective in mitigating influenza spread in the case of pandemics/epidemics characterized by features (e.g., reproduction number and age-specific susceptibility to infection) comparable to the 2009 H1N1 pandemic.
 
-
     >>> Background
       Nearly every year Influenza affects most countries worldwide and the risk of a new pandemic is always present. Therefore, influenza is a major concern for public health. School-age individuals are often the most affected group, suggesting that the inclusion in preparedness plans of school closure policies may represent an option for influenza mitigation. However, their applicability remains uncertain and their implementation should carefully be weighed on the basis of cost-benefit considerations.
 
@@ -5212,7 +5212,7 @@ feed Pre2019
   doi: https://doi.org/10.1017/s0950268800048019
   article 'Callow_et_al_1990
     head = In a group of 15 Volunteers inoculated with coronavirus, concentrations started to increase 1 week after inoculation and reached a maximum about 1 week later. Thereafter antibody titres slowly declined. Although concentrations were still slightly raised 1 year later, this did not always prevent reinfection when volunteers were then challenged with the homologous virus.
-    
+
     -- exports
       !a
       !b

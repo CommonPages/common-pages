@@ -148,7 +148,7 @@ feed April2020
     / April, 2020 - Nature
     let !a self assert = These cells as loci of original infection and possible reservoirs for dissemination within and between individuals.
 
-  # Who should wear Mask, Policy, 
+  # Who should wear Mask, Policy,
   // Facemask shortage and the novel coronavirus disease (COVID-19) outbreak: Reflections on public health measures
   doi: https://doi.org/10.1016/j.eclinm.2020.100329
   ref 'Wu_et_al_04_03_2020
@@ -1852,7 +1852,7 @@ feed April2020
   // PCR Assays Turned Positive in 25 Discharged COVID-19 Patients
   doi: https://doi.org/10.1093/cid/ciaa398
   article 'Yuan_et_al_2020
-    head = It seems that there was a fluctuating period between the apparent improvement in the hospital and full recovery from the virus. It is probable that 2 negative RT-PCR tests 24 hours apart may not be sufficient for viral clearance evaluation. Repeated viral RT-PCR testing separated by prolonged duration, such as 48 hours, is essential to ensure that the virus has actually cleared and the discharged patients no longer can transmit the virus.
+    head = It is probable that 2 negative RT-PCR tests 24 hours apart may not be sufficient for viral clearance evaluation. Repeated viral RT-PCR testing separated by prolonged duration, such as 48 hours, is essential to ensure that the virus has actually cleared and the discharged patients no longer can transmit the virus.
 
     >>> Abstract
       We report the observation that 14.5% of COVID-19 patients had positive RT-PCR testing again after discharge. We describe correlations between laboratory parameters and treatment duration (r= -0.637; p=0.002) and time to virus recrudescence (r= 0.52; p=0.008) respectively, suggesting the need for additional measures to confirm illness resolution in COVID-19 patients.
@@ -1899,32 +1899,30 @@ feed April2020
   // Profile of RT-PCR for SARS-CoV-2: a preliminary study from 56 COVID-19 patients
   doi: https://doi.org/10.1093/cid/ciaa460
   article 'Xiao_et_al_2020
-    head = This study is the first case series from 56 COVID-19 patients with 299 samples of RT-PCR tests for SARS-CoV-2 detection. Our preliminary results are notable for providing evidence of SARS-CoV-2 dynamic profile in patients infected. We found virus shedding was up to 6 weeks after onset of symptoms. Prolonged observation period is necessary for older patients. We conclude that longer periods of follow up and repeat testing are necessary to limit viral spread.
+    head = We found virus shedding was up to 6 weeks after onset of symptoms. Prolonged observation period is necessary for older patients. We conclude that longer periods of follow up and repeat testing are necessary to limit viral spread.
 
     >>> Abstract
       A novel coronavirus (COVID-19) pandemic threatens the world. Here, we first studied the dynamics profile of SARS-CoV-2 from 56 recovered COVID-19 patients. We found virus shedding was up to 6 weeks after onset of symptoms. Prolonged observation period is necessary for older patients.
 
     -- exports
-      !a
       !b
       !c
       !d
-      !e
+
+    # / April, 2020 - Clinical Infectious Diseases
+    # let !a self assert =  We studied RT-qPCR results from 56 hospitalized patients with mild to moderate COVID-19 disease. Each patient received four to seven tests over several weeks after symptom onset. In first 3 weeks after symptoms onset, majority results of RT-PCR for SARS-CoV-2 were positive. From week 3 after symptoms onset, number of negative RT-PCR results increased. All results of RT-PCR tests were negative in week 6 after onset. The positive rate of RT-PCR test results was highest at week 1 (100%), followed by 89.3%, 66.1%, 32.1%, 5.4% and 0% at week 2, week 3, week 4, week 5 and week 6 respectively.
 
     / April, 2020 - Clinical Infectious Diseases
-    let !a self assert =  We studied RT-qPCR results from 56 hospitalized patients with mild to moderate COVID-19 disease. Each patient received four to seven tests over several weeks after symptom onset. In first 3 weeks after symptoms onset, majority results of RT-PCR for SARS-CoV-2 were positive. From week 3 after symptoms onset, number of negative RT-PCR results increased. All results of RT-PCR tests were negative in week 6 after onset. The positive rate of RT-PCR test results was highest at week 1 (100%), followed by 89.3%, 66.1%, 32.1%, 5.4% and 0% at week 2, week 3, week 4, week 5 and week 6 respectively.
+    let !b self assert = The longest duration between RT-PCR test for SARS-CoV-2 was 42 days after onset of symptoms. The median duration between onset of symptom to nucleic acid conversion was 24 days.
 
     / April, 2020 - Clinical Infectious Diseases
-    let !b self assert = The longest duration between RT-PCR test for SARS-CoV-2 was 42 days after onset of symptoms. The median duration between onset of symptom to nucleic acid conversion was 24 days (IQR, 18-31)
+    let !c self assert = We divided patients into non-prolonged and prolonged shedding group according to nucleic acid conversion time (≤24 days or >24 days). Patients with prolonged viral shedding tend to be older and were more likely to have comorbidities as diabetes and hypertension.
 
     / April, 2020 - Clinical Infectious Diseases
-    let !c self assert =  We divided patients into non-prolonged and prolonged shedding group according to nucleic acid conversion time (≤24 days or >24 days). Patients with prolonged viral shedding tend to be older (p=0.011) and were more likely to have comorbidities as diabetes (p=0.016) and hypertension (p=0.006).
+    let !d self assert = We found two consecutive negative RT-PCR test results followed by a positive result in 4 patients (patient number 20, 24, 37 and 56).
 
     / April, 2020 - Clinical Infectious Diseases
-    let !d self assert =  In our study we found two consecutive negative RT-PCR test results followed by a positive result in 4 patients (patient number 20, 24, 37 and 56).
-
-    / April, 2020 - Clinical Infectious Diseases
-    let !e self assert = This preliminary study has found evidence of the dynamic profile of SARSCoV-2 in non-ICU COVID-19 patients during disease course. According to the results in our study, we suggested prolonged observation and repeat confirmation of RT-PCR test from respiratory specimens for safe discharges and discontinuation of quarantine.
+    # let !e self assert = This preliminary study has found evidence of the dynamic profile of SARSCoV-2 in non-ICU COVID-19 patients during disease course. According to the results in our study, we suggested prolonged observation and repeat confirmation of RT-PCR test from respiratory specimens for safe discharges and discontinuation of quarantine.
 
 
   # Transmission Indoor
@@ -2773,7 +2771,6 @@ feed April2020
     head = The study demonstrates the feasibility, acceptability and scalability of prospectively collecting saliva from ambulatory patients in a busy screening clinic, and further demonstrate the value of saliva as a non-invasive specimen for the detection of SARS-CoV-2.
 
     -- exports
-      !a
       !b
       !c
 
@@ -2786,6 +2783,8 @@ feed April2020
     / April, 2020 - Journal of Clinical Microbiology
     let !c self assert = Although the sensitivity of saliva as a diagnostic specimen is less than 52 NPS, saliva testing may be a suitable alternative first-line screening test in several environments, including low resource settings, with NPS reserved for patients with an ongoing high clinical index of suspicion. These findings are highly relevant in the face of shortages of both swabs and personal protective equipment in many settings.
 
+
+
   # Tag - Testing
   // Saliva is more sensitive for SARS-CoV-2 detection in COVID-19 patients than nasopharyngeal swabs
   doi: https://doi.org/10.1101/2020.04.16.20067835
@@ -2795,27 +2794,28 @@ feed April2020
     >>> Abstract
       Rapid and accurate SARS-CoV-2 diagnostic testing is essential for controlling the ongoing COVID-19 pandemic. The current gold standard for COVID-19 diagnosis is real-time RT-PCR detection of SARS-CoV-2 from nasopharyngeal swabs. Low sensitivity, exposure risks to healthcare workers, and global shortages of swabs and personal protective equipment, however, necessitate the validation of new diagnostic approaches. Saliva is a promising candidate for SARS-CoV-2 diagnostics because collection is minimally invasive and can reliably be self-administered and saliva has exhibited comparable sensitivity to nasopharyngeal swabs in detection of other respiratory pathogens, including endemic human coronaviruses, in previous studies. To validate the use of saliva for SARS-CoV-2 detection, we tested nasopharyngeal and saliva samples from confirmed COVID-19 patients and self-collected samples from healthcare workers on COVID-19 wards. When we compared SARS-CoV-2 detection from patient-matched nasopharyngeal and saliva samples, we found that saliva yielded greater detection sensitivity and consistency throughout the course of infection. Furthermore, we report less variability in self-sample collection of saliva. Taken together, our findings demonstrate that saliva is a viable and more sensitive alternative to nasopharyngeal swabs and could enable at-home self-administered sample collection for accurate large-scale SARS-CoV-2 testing.
 
-    -- exports
-      !a
-      !b
-      !c
-      !d
-      !e
+    # -- exports
+    #   !a
+    #   !b
+    #   !c
+    #   !d
+    #   !e
 
     / April, 2020 - MedRxiv
-    let !a self assert = We found strong concordance between the U.S. CDC “N1” and “N2” primer-probe sets ,  and thus calculated virus titers (virus copies/mL) using only the “N1” set. From all positive samples tested ( n = 46 nasopharyngeal, 37 saliva), we found that the geometric mean virus titers from saliva were about 5⨉ higher than nasopharyngeal swabs (p < 0.05,Mann-Whitney test)
+    let !a self assert = We found strong concordance between the U.S. CDC “N1” and “N2” primer-probe sets, and thus calculated virus titers (virus copies/mL) using only the “N1” set. From all positive samples tested ( n = 46 nasopharyngeal, 37 saliva), we found that the geometric mean virus titers from saliva were about 5⨉ higher than nasopharyngeal swabs.
 
     / April, 2020 - MedRxiv
-    let !b self assert = When limiting our analysis to only patient-matched nasopharyngeal and saliva samples (n = 38 for each sample type), we found that SARS-CoV-2 titers from saliva were significantly higher than nasopharyngeal swabs ( p = 0.0001, Wilcoxon test;). Moreover, we detected SARS-CoV-2 from the saliva but not the nasopharyngeal swabs from eight matching samples (21%), while we only detected SARS-CoV-2 from nasopharyngeal swabs and not saliva from three matched samples (8%). Overall, we found higher SARS-CoV-2 titers from saliva than nasopharyngeal swabs from hospital inpatients.
+    let !b self assert = We found higher SARS-CoV-2 titers from saliva than nasopharyngeal swabs from hospital inpatients.
 
     / April, 2020 - MedRxiv
-    let !c self assert = Our nasopharyngeal swab results are consistent with previous reports of variable SARS-CoV-2 titers and results. We found 5 instances where a participant’s nasopharyngeal swab was negative for SARS-CoV-2 followed by a positive result during the next collection (5/33 repeats, 33%;). In longitudinal saliva collections from 12 patients, however, there were no instances in which a sample tested negative and was later followed by a positive result. As true negative test results are important for clinicians to track patient improvements and for decisions regarding discharges, our data suggests that saliva is a more consistent sample type than nasopharyngeal swabs for monitoring temporal changes in SARS-CoV-2 titers.
+    let !c self assert = We found 5 instances where a participant’s nasopharyngeal swab was negative for SARS-CoV-2 followed by a positive result during the next collection (5/33 repeats, 33%;). In longitudinal saliva collections from 12 patients, however, there were no instances in which a sample tested negative and was later followed by a positive result. As true negative test results are important for clinicians to track patient improvements and for decisions regarding discharges, our data suggests that saliva is a more consistent sample type than nasopharyngeal swabs for monitoring temporal changes in SARS-CoV-2 titers.
 
     / April, 2020 - MedRxiv
-    let !d self assert = While human RNase P detection was better from saliva in both the inpatient and healthcare worker cohorts, this alone may not indicate better virus detection. More importantly, we found that human RNase P detection was more variable from nasopharyngeal swabs collected from inpatients (p=0.0001, F test for variances) and self-collected from healthcare workers (p = 0.0002;). Our results suggest that saliva may also be an appropriate, and perhaps more sensitive, alternative to nasopharyngeal swabs for screening asymptomatic or pre-symptomatic SARS-CoV-2 infections. however, a larger sample size is needed to confirm.
+    let !d self assert = While human RNase P detection was better from saliva in both the inpatient and healthcare worker cohorts, this alone may not indicate better virus detection. More importantly, we found that human RNase P detection was more variable from nasopharyngeal swabs collected from inpatients and self-collected from healthcare workers. Our results suggest that saliva may also be an appropriate, and perhaps more sensitive, alternative to nasopharyngeal swabs for screening asymptomatic or pre-symptomatic SARS-CoV-2 infections. however, a larger sample size is needed to confirm.
 
     / April, 2020 - MedRxiv
     let !e self assert = We found that the sensitivity of SARS-CoV-2 detection from saliva is comparable, if not superior to nasopharyngeal swabs in early hospitalization and is more consistent during extended hospitalization and recovery.
+
 
 
   # Vaccine prospects (RNA, DNA, Recombinant protien, Viral vector based, Live attenuated vaccine, inactivated vaccine)
@@ -3378,19 +3378,17 @@ feed April2020
   // Virological assessment of hospitalized patients with COVID-2019
   doi: https://doi.org/10.1038/s41586-020-2196-x
   article 'Wölfel_et_al_2020
-    head = With RT-PCR, the specimen is declared positive if viral RNA is detected.  Here we provide a detailed virological analysis of nine cases with COVID19, providing proof of active virus replication in upper respiratory tract tissues. We have seen that patients with COVID19 seem to have high viral loads in their throats. Thus it is relatively easy to detect virus, and so the test is highly sensitive.
+    head = With RT-PCR, the specimen is declared positive if viral RNA is detected. Here we provide a detailed virological analysis of nine cases with COVID19, providing proof of active virus replication in upper respiratory tract tissues. We have seen that patients with COVID19 seem to have high viral loads in their throats. Thus it is relatively easy to detect virus, and so the test is highly sensitive.
 
     -- exports
       !a
       !b
       !c
-      !d
       !e
-      !f
       !g
       !h
       !i
-
+      !j
 
     / April, 2020 - Nature
     let !a self assert = In SARS, it took 7 to 10 days after onset until peak RNA concentrations (of up to 5x105 copies per swab) were reached. In the present study, peak concentrations were reached before day 5, and were more than 1000 times higher.
@@ -3401,26 +3399,27 @@ feed April2020
     / April, 2020 - Nature
     let !c self assert = Whereas proof of replication by histopathology is awaited, extended tissue tropism of SARS-CoV-2 with replication in the throat is strongly supported by our studies of sgRNA-transcribing cells in throat swab samples, particularly during the first 5 days of symptoms. Striking additional evidence for independent replication in the throat is provided by sequence findings in one patient who consistently showed a distinct virus in her throat as opposed to the lung.
 
-    / April, 2020 - Nature
-    let !d self assert = In addition, the disturbance of gustatory and olfactory sense points at upper respiratory tract tissue infection
+    # / April, 2020 - Nature
+    # let !d self assert = In addition, the disturbance of gustatory and olfactory sense points at upper respiratory tract tissue infection.
 
     / April, 2020 - Nature
-    let !e self assert =  Later in the disease, COVID-19 then resembles SARS in terms of replication in the lower respiratory tract. Of note, the two patients who showed some symptoms of lung affection showed a prolonged viral load in sputum
+    let !e self assert =  Later in the disease, COVID-19 then resembles SARS in terms of replication in the lower respiratory tract. Of note, the two patients who showed some symptoms of lung affection showed a prolonged viral load in sputum.
+
+    # / April, 2020 - Nature
+    # let !f self assert = Active replication in the throat was confrmed by viral replicative RNA intermediates in throat samples. Sequence-distinct virus populations were consistently detected in throat and lung samples from the same patient, proving independent replication
 
     / April, 2020 - Nature
-    let !f self assert = Active replication in the throat was confrmed by viral replicative RNA intermediates in throat samples. Sequence-distinct virus populations were consistently detected in throat and lung samples from the same patient, proving independent replication
+    let !g self assert = Shedding of viral RNA from sputum outlasted the end of symptoms. The prolonged viral shedding in sputum is relevant not only for hospital infection control, but also for discharge management. Based on the present findings, early discharge with ensuing home isolation could be chosen for patients who are beyond day 10 of symptoms with less than 100,000 viral RNA copies per ml of sputum. Both criteria predict that there is little residual risk of infectivity, based on cell culture.
 
     / April, 2020 - Nature
-    let !g self assert = Active replication in the throat was confrmed by viral replicative RNA intermediates in throat samples. Sequence-distinct virus populations were consistently detected in throat and lung samples from the same patient, proving independent replication
+    let !h self assert = Seroconversion occurred after 7 days in 50% of patients (and by day 14 in all patients), but was not followed by a rapid decline in viral load.
 
     / April, 2020 - Nature
-    let !h self assert = Shedding of viral RNA from sputum outlasted the end of symptoms. The prolonged viral shedding in sputum is relevant not only for hospital infection control, but also for discharge management. Based on the present findings, early discharge with ensuing home isolation could be chosen for patients who are beyond day 10 of symptoms with less than 100,000 viral RNA copies per ml of sputum. Both criteria predict that there is little residual risk of infectivity, based on cell culture.
+    let !i self assert = Of note, case 4, with the lowest virus neutralization titer at end of week 2, seemed to shed virus from stool over prolonged time.
 
     / April, 2020 - Nature
-    let !i self assert = Seroconversion in 50% of patients occurred by day 7, and in all by day 14. but was not followed by a rapid decline in viral load.
+    let !j self assert = Our initial results suggest that measures to contain viral spread should aim at droplet-, rather than fomite-, based transmission.
 
-    / April, 2020 - Nature
-    let !j self assert = Of note, case 4, with the lowest virus neutralization titer at end of week 2, seemed to shed virus from stool over prolonged time.
 
 
   # Tag - Temperature, Weather Transmission

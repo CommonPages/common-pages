@@ -193,6 +193,7 @@ subject module Disease
           'Zimmermann_et_al_2020
           'Viner_et_al_05_24_2020
           'Gudbjartsson_et_al_2020
+          'Weissleder_et_al_06_03_2020.!q
         -- Complications
           'Riphagen_et_al_2020
       / Elderly
@@ -207,8 +208,13 @@ subject module Disease
           'Lee_et_al_05_28_2020.!d
           'Chen_et_al_2020c.!e
           'Garg_et_al_2020
-        -- lymphocytes count lower for progressively older age groups
+
+        >>> Lymphocytes count lower for progressively older age groups
+        --
           'Richardson_et_al_04_22_2020.!k
+
+        -- Prolonged viral shedding
+          'Xiao_et_al_2020
         >>>
           Higher level of cytokine on elderly is associated more severity
         --
@@ -414,9 +420,13 @@ subject module Disease
           'Li_et_al_2020c.!b
           'Li_et_al_05_29_2020.!d
           'Richardson_et_al_04_22_2020.!l
-        -- TNF-a and IL-8 were significantly increased in patients diabetes
+
+        >>> TNF-a and IL-8 were significantly increased in patients diabetes
+        --
           'DelValle_et_al_05_30_2020.!g
-        -- Newly diagnosed diabetes had the highest risk of all‐cause mortality
+
+        >>> Newly diagnosed diabetes had the highest risk of all‐cause mortality
+        --
           'Li_et_al_05_29_2020
         >>>
           ACE2 expression is increased in diabetes (type 1 or type 2) and treatment with ACE inhibitors and ARBs increases ACE2 expression.
@@ -582,6 +592,7 @@ subject module Disease
       -- Other coronaviruses
         'Callow_et_al_1990
 
+      # In some cases, viral RNA has been detected by RT-PCR even beyond week 6 following the first positive test. A few cases have also been reported positive after 2 consecutive negative PCR tests performed 24 hours apart. It is unclear if this is a testing error, reinfection, or reactivation.
     / Reinfection
     subject Reinfection
       head = The reinfection can not occur if neutralizing antibodies are produced at primary infection. Reinfection immunity to adult has been studied using laboratory animal models, the results showed that animal models become resistant to reinfection.
@@ -591,6 +602,10 @@ subject module Disease
         'Bao_et_al_2020.!a
         'Amanat_et_al_2020.!b
         'Jiang_et_al_04_27_2020.!b
+
+      >>> At this time, the duration and nature of immunity generated in response to SARS-CoV-2 infection are unknown, and there is no evidence that COVID-19 antibody–positive patients who have recovered from the disease are protected from a second infection.
+      --
+        'Weissleder_et_al_06_03_2020.!m
 
     / Relapse
     subject Relapse

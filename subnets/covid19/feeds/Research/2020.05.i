@@ -1607,15 +1607,12 @@ feed May2020
   // Interpreting Diagnostic Tests for SARS-CoV-2
   doi: https://doi.org/10.1001/jama.2020.8259
   article 'Sethuraman_et_al_05_06_2020
-    head = This Viewpoint describes how to interpret 2 types of diagnostic tests commonly in use for SARS-CoV-2 infections—reverse transcriptase–polymerase chain reaction (RT-PCR) and IgM and IgG enzyme-linked immunosorbent assay (ELISA)—and how the results may vary over time.
+    head = A clinically useful timeline of diagnostic markers for detection of COVID-19 has been devised. Most of the available data are for adult populations who are not immunocompromised. The time course of PCR positivity and seroconversion may vary in children and other groups, including the large population of asymptomatic individuals who go undiagnosed without active surveillance.
 
     -- exports
       !a
       !b
       !c
-      !d
-      !e
-      !f
       !g
       !h
       !i
@@ -1626,22 +1623,22 @@ feed May2020
     let !a self assert = Detection of Viral RNA by RT-PCR: In most individuals with symptomatic COVID-19 infection, viral RNA in the nasopharyngeal swab as measured by the cycle threshold (Ct) becomes detectable as early as day 1 of symptoms and peaks within the first week of symptom onset. The Ct is the number of replication cycles required to produce a fluorescent signal, with lower Ct values representing higher viral RNA loads. A Ct value less than 40 is clinically reported as PCR positive. This positivity starts to decline by week 3 and subsequently becomes undetectable.
 
     / May, 2020 - JAMA
-    let !b self assert = However, the Ct values obtained in severely ill hospitalized patients are lower than the Ct values of mild cases, and PCR positivity may persist beyond 3 weeks after illness onset when most mild cases will yield a negative result. However, a “positive” PCR result reflects only the detection of viral RNA and does not necessarily indicate presence of viable virus.
+    let !b self assert = The Ct values obtained in severely ill hospitalized patients are lower than the Ct values of mild cases, and PCR positivity may persist beyond 3 weeks after illness onset when most mild cases will yield a negative result. However, a “positive” PCR result reflects only the detection of viral RNA and does not necessarily indicate presence of viable virus.
 
     / May, 2020 - JAMA
     let !c self assert = In some cases, viral RNA has been detected by RT-PCR even beyond week 6 following the first positive test. A few cases have also been reported positive after 2 consecutive negative PCR tests performed 24 hours apart. It is unclear if this is a testing error, reinfection, or reactivation.
 
-    / May, 2020 - JAMA
-    let !d self assert =  In a study of 9 patients, attempts to isolate the virus in culture were not successful beyond day 8 of illness onset, which correlates with the decline of infectivity beyond the first week.3 That is in part why the “symptom-based strategy” of the Centers for Disease Control and Prevention (CDC) indicates that health care workers can return to work, if “at least 3 days (72 hours) have passed since recovery defined as resolution of fever without the use of fever-reducing medications and improvement in respiratory symptoms (e.g., cough, shortness of breath); and, at least 10 days have passed since symptoms first appeared.”
+    # / May, 2020 - JAMA
+    # let !d self assert = In a study of 9 patients, attempts to isolate the virus in culture were not successful beyond day 8 of illness onset, which correlates with the decline of infectivity beyond the first week. That is in part why the “symptom-based strategy” of the Centers for Disease Control and Prevention (CDC) indicates that health care workers can return to work, if “at least 3 days (72 hours) have passed since recovery defined as resolution of fever without the use of fever-reducing medications and improvement in respiratory symptoms (e.g., cough, shortness of breath); and, at least 10 days have passed since symptoms first appeared.”
+
+    # / May, 2020 - JAMA
+    # let !e self assert = The timeline of PCR positivity is different in specimens other than nasopharyngeal swab. PCR positivity declines more slowly in sputum and may still be positive after nasopharyngeal swabs are negative. In one study, PCR positivity in stool was observed in 55 of 96 (57%) infected patients and remained positive in stool beyond nasopharyngeal swab by a median of 4 to 11 days, but was unrelated to clinical severity.
+
+    # / May, 2020 - JAMA
+    # let !f self assert = False-negative results mainly occurred due to inappropriate timing of sample collection in relation to illness onset and deficiency in sampling technique, especially of nasopharyngeal swabs. Specificity of most of the RT-PCR tests is 100% because the primer design is specific to the genome sequence of SARS-CoV-2. Occasional false-positive results may occur due to technical errors and reagent contamination.
 
     / May, 2020 - JAMA
-    let !e self assert = The timeline of PCR positivity is different in specimens other than nasopharyngeal swab. PCR positivity declines more slowly in sputum and may still be positive after nasopharyngeal swabs are negative. In one study, PCR positivity in stool was observed in 55 of 96 (57%) infected patients and remained positive in stool beyond nasopharyngeal swab by a median of 4 to 11 days, but was unrelated to clinical severity.
-
-    / May, 2020 - JAMA
-    let !f self assert =  False-negative results mainly occurred due to inappropriate timing of sample collection in relation to illness onset and deficiency in sampling technique, especially of nasopharyngeal swabs. Specificity of most of the RT-PCR tests is 100% because the primer design is specific to the genome sequence of SARS-CoV-2. Occasional false-positive results may occur due to technical errors and reagent contamination.
-
-    / May, 2020 - JAMA
-    let !g self assert = Detection of Antibodies to SARS-CoV-2: The most sensitive and earliest serological marker is total antibodies, levels of which begin to increase from the second week of symptom onset.6 Although IgM and IgG ELISA have been found to be positive even as early as the fourth day after symptom onset, higher levels occur in the second and third week of illness.
+    let !g self assert = The most sensitive and earliest serological marker is total antibodies, levels of which begin to increase from the second week of symptom onset. Although IgM and IgG ELISA have been found to be positive even as early as the fourth day after symptom onset, higher levels occur in the second and third week of illness.
 
     / May, 2020 - JAMA
     let !h self assert = ELISA-based IgM and IgG antibody tests have greater than 95% specificity for diagnosis of COVID-19. Testing of paired serum samples with the initial PCR and the second 2 weeks later can further increase diagnostic accuracy.
@@ -1653,7 +1650,7 @@ feed May2020
     let !j self assert = Rapid point-of-care tests are purely qualitative in nature and can only indicate the presence or absence of SARS-CoV-2 antibodies.
 
     / May, 2020 - JAMA
-    let !k self assert = The presence of neutralizing antibodies can only be confirmed by a plaque reduction neutralization test. However, high titers of IgG antibodies detected by ELISA have been shown to positively correlate with neutralizing antibodies.7 The long-term persistence and duration of protection conferred by the neutralizing antibodies remains unknown.
+    let !k self assert = The presence of neutralizing antibodies can only be confirmed by a plaque reduction neutralization test. However, high titers of IgG antibodies detected by ELISA have been shown to positively correlate with neutralizing antibodies. The long-term persistence and duration of protection conferred by the neutralizing antibodies remains unknown.
 
 
   # DOI IS NOT WORKING, Diagnostics
@@ -1681,10 +1678,10 @@ feed May2020
     let !a self assert = No test gives a 100% accurate result; tests need to be evaluated to determine their sensitivity and specificity, ideally by comparison with a “gold standard.” The lack of such a clear-cut “gold-standard” for covid-19 testing makes evaluation of test accuracy challenging.
 
     / May, 2020 - BMJ
-    let !b self assert = A systematic review of the accuracy of covid-19 tests reported false negative rates of between 2% and 29% (equating to sensitivity of 71-98%), based on negative RT-PCR tests which were positive on repeat testing.6 The use of repeat RT-PCR testing as gold standard is likely to underestimate the true rate of false negatives, as not all patients in the included studies received repeat testing and those with clinically diagnosed covid-19 were not considered as actually having covid-19.
+    let !b self assert = A systematic review of the accuracy of covid-19 tests reported false negative rates of between 2% and 29% (equating to sensitivity of 71-98%), based on negative RT-PCR tests which were positive on repeat testing. The use of repeat RT-PCR testing as gold standard is likely to underestimate the true rate of false negatives, as not all patients in the included studies received repeat testing and those with clinically diagnosed covid-19 were not considered as actually having covid-19.
 
     / May, 2020 - BMJ
-    let !c self assert = Accuracy of viral RNA swabs in clinical practice varies depending on the site and quality of sampling. In one study, sensitivity of RT-PCR in 205 patients varied, at 93% for broncho-alveolar lavage, 72% for sputum, 63% for nasal swabs, and only 32% for throat swabs. Accuracy is also likely to vary depending on stage of disease and degree of viral multiplication or clearance. Higher sensitivities are reported depending on which gene targets are used, and whether multiple gene tests are used in combination. Reported accuracies are much higher for in vitro studies, which measure performance of primers using coronavirus cell culture in carefully controlled conditions.
+    let !c self assert = Accuracy of viral RNA swabs in clinical practice varies depending on the site and quality of sampling. Accuracy is also likely to vary depending on stage of disease and degree of viral multiplication or clearance. Higher sensitivities are reported depending on which gene targets are used, and whether multiple gene tests are used in combination. Reported accuracies are much higher for in vitro studies, which measure performance of primers using coronavirus cell culture in carefully controlled conditions.
 
     / May, 2020 - BMJ
     let !d self assert = The lack of a clear-cut “gold-standard” is a challenge for evaluating covid-19 tests; pragmatically, clinical adjudication may be the best available “gold standard,” based on repeat swabs, history, and contact with patients known to have covid-19, chest radiographs, and computed tomography scans. Inevitably this introduces some incorporation bias, where the test being evaluated forms part of the reference standard, and this would tend to inflate the measured sensitivity of these tests. Disease prevalence can also affect estimates of accuracy: tests developed and evaluated in populations with high prevalence (eg, secondary care) may have lower sensitivity when applied in a lower prevalence setting (eg, primary care).
@@ -1715,6 +1712,8 @@ feed May2020
 
     / May, 2020 - BMJ
     let !m self assert = Serology tests, which detect immunoglobulins including IgG and IgM, are under development, with the aim of detecting individuals who have had previous infection and therefore theoretically developed immunity. False positive serology tests could cause false reassurance, behaviour change, and disease spread. If suitable accuracy can be established, the benefits of these antibody tests include establishing when healthcare workers are immune, helping to inform decisions about the lifting of lockdowns, and allowing the population to return to work.
+
+
 
   # LINK IT WITH THIS PAPER: Endothelial cell infection and endotheliitis in COVID-19, ACE inhibitors are extremely protective on vascular dysfunction. “Most of their benefit in the continuum of cardiovascular illness — be it high blood pressure, be it stroke, be it heart attack, be it arrhythmia, be it heart failure — in any situation the mechanism by which they protect the cardiovascular system starts with their ability to stabilize the endothelial cells. Existing drugs that can help protect against endothelial cell damage- Statins and ACE inhibitors were linked to higher rates of survival. Statins reduce the risk of heart attacks not only by lowering cholesterol or preventing plaque, they also stabilize existing plaque, meaning they’re less likely to rupture if someone is on the drugs.
   // Cardiovascular Disease, Drug Therapy, and Mortality in Covid-19, therapeutics, cardiovascular disease, old age, women more survival
@@ -3422,7 +3421,7 @@ feed May2020
   // Predicting infectious SARS-CoV-2 from diagnostic samples
   doi: https://doi.org/10.1093/cid/ciaa638
   article 'Bullard_et_al_05_22_2020
-    head = Our study utilized a crosssectional approach to correlate COVID-19 symptom onset to specimen collection with SARS-CoV-2 E gene RT-PCR and virus viability as determined by cell culture.
+    head = Our study showed no positive viral cultures with a Ct greater than 24 or STT greater than 8 days. The odds of a positive culture were decreased by 32% for each unit increase in Ct.
 
     >>> Background
       RT-PCR has become the primary method to diagnose viral diseases, including SARS-CoV-2. RT-PCR detects RNA, not infectious virus, thus its ability to determine duration of infectivity of patients is limited. Infectivity is a critical determinant in informing public health guidelines/interventions. Our goal was to determine the relationship between E gene SARS-CoV-2 RT-PCR cycle threshold (Ct) values from respiratory samples, symptom onset to test (STT) and infectivity in cell culture.
@@ -3436,20 +3435,15 @@ feed May2020
     >>> Conclusions
       SARS-CoV-2 Vero cell infectivity was only observed for RT-PCR Ct < 24 and STT < 8 days. Infectivity of patients with Ct >24 and duration of symptoms >8 days may be low. This information can inform public health policy and guide clinical, infection control and occupational health decisions. Further studies of larger size are needed.
 
-
     -- exports
-      !a
       !b
-      !c
 
-    / May, 2020 - Clinical Infectious Diseases
-    let !a self assert = These results demonstrate that infectivity (as defined by growth in cell culture), is significantly reduced when RT-PCR Ct values are greater than 24. For every 1 unit increase in Ct, the odds ratio for infectivity decreased by 32%.
+    # / May, 2020 - Clinical Infectious Diseases
+    # let !a self assert = These results demonstrate that infectivity (as defined by growth in cell culture), is significantly reduced when RT-PCR Ct values are greater than 24. For every 1 unit increase in Ct, the odds ratio for infectivity decreased by 32%.
 
     / May, 2020 - Clinical Infectious Diseases
     let !b self assert = The high specificity of Ct and STT suggests that Ct values greater than 24, along with duration of symptoms greater than 8 days may be used in combination to determine duration of infectivity in patients. Positive cell culture results in our study were most likely between days one and five
 
-    / May, 2020 - Clinical Infectious Diseases
-    let !c self assert = In conclusion, the SARS-CoV-2/COVID-19 pandemic represents a dynamic situation where decisions and policy must be guided by evidence. Our study showed no positive viral cultures with a Ct greater than 24 or STT greater than 8 days. The odds of a positive culture were decreased by 32% for each unit increase in Ct. This data, if confirmed, may help guide isolation, contact tracing, and testing guidelines.
 
 
   # Face Mask, cloth mask, mask shortage, general public,nonmedical mask
@@ -3611,10 +3605,8 @@ feed May2020
       !g
       !h
       !i
-      !j
       !l
       !q
-
 
     / May, 2020 - Clinical Infectious Diseases
     let !a self assert = Xiao et al. report that SARS-CoV-2 RT-qPCR results can remain positive up to five weeks after onset of symptoms. The authors studied RT-qPCR results from 56 hospitalized patients with mild to moderate COVID-19 disease. Prolonged positive test results were associated with older age and comorbid diabetes or hypertension. Additionally, there were four patients with two consecutive negative test results who later tested positive again. A limitation is that the test reports did not report out Ct values, which would have provided valuable information about the amount of viral RNA in the samples, important particularly later in the course of infection.
@@ -3626,7 +3618,7 @@ feed May2020
     let !c self assert = The Ct value is inversely related to the viral load and every ~3.3 increase in the Ct value reflects a 10-fold reduction in starting material. Many qPCR assays involve a Ct cutoff of 40 to consider the test positive, allowing detection of very few starting RNA molecules.
 
     / May, 2020 - Clinical Infectious Diseases
-    let !d self assert = This high sensitivity for viral RNA can be helpful for initial diagnosis. However, reporting as a binary positive or negative result removes useful information that could inform clinical decision making.
+    let !d self assert = High sensitivity for viral RNA can be helpful for initial diagnosis. However, reporting as a binary positive or negative result removes useful information that could inform clinical decision making.
 
     / May, 2020 - Clinical Infectious Diseases
     let !e self assert = Following complete resolution of symptoms, people can have prolonged positive SARSCoV-2 RT-PCR test results, potentially for weeks, as Xiao et al report. At these late time points,the Ct value is often very high, representing presence of very low copies of viral RNA. In these cases, where viral RNA copies in the sample may be fewer than 100, results are reported to the clinician simply as positive. This leaves the clinician with little choice but to interpret the results no differently than for a sample from someone who is floridly positive and where RNA copies routinely reach 100 million or more.
@@ -3643,20 +3635,20 @@ feed May2020
     / May, 2020 - Clinical Infectious Diseases
     let !i self assert = Furthermore, the clinician could take the Ct results in context and determine when the patient can discontinue isolation. This could shorten duration of isolation and for healthcare workers and other essential workers would provide a more evidence-based, testing-informed pathway for more rapid return to work. Taking the Ct value into account may also help justify symptom-based strategies recommended by the CDC including time-since-illness-onset and time-since-symptom-resolution based approaches (i.e.lifting of isolation after ten days following resolution of symptoms.)
 
-    / May, 2020 - Clinical Infectious Diseases
-    let !j self assert = Lastly, there may be implications for public health screening, enabling contact tracers to focus on persons most likely to be infectious. This will become increasingly important as asymptomatic screening expands.
+    # / May, 2020 - Clinical Infectious Diseases
+    # let !j self assert = Lastly, there may be implications for public health screening, enabling contact tracers to focus on persons most likely to be infectious. This will become increasingly important as asymptomatic screening expands.
 
-    / May, 2020 - Clinical Infectious Diseases
-    let !k self assert = The Ct value could be high as a result of early disease and the Ct value would have to be considered in clinical context. A person with a high Ct value tested early in the disease course might be or become infectious and this would present as a significant decrease in Ct value 24 hours following the first test.
+    # / May, 2020 - Clinical Infectious Diseases
+    # let !k self assert = The Ct value could be high as a result of early disease and the Ct value would have to be considered in clinical context. A person with a high Ct value tested early in the disease course might be or become infectious and this would present as a significant decrease in Ct value 24 hours following the first test.
 
     / May, 2020 - Clinical Infectious Diseases
     let !l self assert = A patient with resolved symptoms and two Ct values both close to the cutoff is likely recovering and no longer infectious.
 
-    / May, 2020 - Clinical Infectious Diseases
-    let !m self assert = By accounting for the Ct value in context, RT-qPCR results can be used in a way that is personalized, highly sensitive, and also more specific. To implement this, the actual Ct values could be reported along with reference ranges or converted to viral load and or categorized as high, medium, or low.
+    # / May, 2020 - Clinical Infectious Diseases
+    # let !m self assert = By accounting for the Ct value in context, RT-qPCR results can be used in a way that is personalized, highly sensitive, and also more specific. To implement this, the actual Ct values could be reported along with reference ranges or converted to viral load and or categorized as high, medium, or low.
 
-    / May, 2020 - Clinical Infectious Diseases
-    let !o self assert = Repeat testing over 24 hours is not always feasible and is always resource heavy when testing is limited. Time since symptom onset or time since symptom resolution based approaches may be as or more useful in many situations. As more detailed data emerge and provide increased certainty about the length of infectivity, there may be discussion about shifting entirely to these time-based criteria.
+    # / May, 2020 - Clinical Infectious Diseases
+    # let !o self assert = Repeat testing over 24 hours is not always feasible and is always resource heavy when testing is limited. Time since symptom onset or time since symptom resolution based approaches may be as or more useful in many situations. As more detailed data emerge and provide increased certainty about the length of infectivity, there may be discussion about shifting entirely to these time-based criteria.
 
     / May, 2020 - Clinical Infectious Diseases
     let !p self assert = As long as resource limitations in testing and PPE exist, we believe that time-since symptom resolution and test-based strategies should continue to coexist and complement one another. Healthcare workers, who may have easier access to testing and who may be most crucial to get back to work quicker might benefit by test-based clearance, particularly if the Ct value is considered.

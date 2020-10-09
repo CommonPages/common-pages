@@ -152,7 +152,6 @@ subject module Mitigation
       --
         'Ferretti_et_al_2020
         'Liu_et_al_03_03_2020.!f
-        'Tom_et_al_2020.!j
       -- modeling paper
         'Dufresne_et_al_2020
         'Dufresne_et_al_2020.!e
