@@ -733,7 +733,7 @@ feed June2020
   // SARS-CoV-2 T-cell epitopes define heterologous and COVID-19-induced T-cell recognition
   doi: https://doi.org/10.21203/rs.3.rs-35331/v1
   ref 'Nelde_et_al_06_16_2020
-    head = Intensity of T-cell responses and recognition rate of T-cell epitopes was significantly higher in the convalescent donors compared to unexposed individuals, suggesting that not only expansion, but also diversity spread of SARS-CoV-2 T-cell responses occur upon active infection. Whereas anti-SARS-CoV-2 antibody levels were associated with severity of symptoms in our SARS-CoV-2 donors, intensity of T-cell responses did not negatively affect COVID-19 severity. Rather, diversity of SARS-CoV-2 T-cell responses was increased in case of mild symptoms of COVID-19, providing evidence that development of immunity requires recognition of multiple SARS-CoV-2 epitopes.
+    head = Intensity of T-cell responses and recognition rate of T-cell epitopes was significantly higher in the convalescent donors compared to unexposed individuals. Intensity of T-cell responses did not negatively affect COVID-19 severity. Diversity of SARS-CoV-2 T-cell responses was increased in case of mild symptoms, providing evidence that development of immunity requires recognition of multiple SARS-CoV-2 epitopes.
 
     >>> Abstract
       The SARS-CoV-2 pandemic calls for the rapid development of diagnostic, preventive, and therapeutic approaches. CD4+ and CD8+ T cell-mediated immunity is central for control of and protection from viral infections. A prerequisite to characterize T-cell immunity, but also for the development of vaccines and immunotherapies, is the identification of the exact viral T-cell epitopes presented on human leukocyte antigens (HLA). This is the first work identifying and characterizing SARS-CoV-2-specific and cross-reactive HLA class I and HLA-DR T-cell epitopes in SARS-CoV-2 convalescents (n = 180) as well as unexposed individuals (n = 185) and confirming their relevance for immunity and COVID-19 disease course. SARS-CoV-2-specific T-cell epitopes enabled detection of post-infectious T-cell immunity, even in seronegative convalescents. Cross-reactive SARS-CoV-2 T-cell epitopes revealed preexisting T-cell responses in 81% of unexposed individuals, and validation of similarity to common cold human coronaviruses provided a functional basis for postulated heterologous immunity in SARS-CoV-2 infection. Intensity of T-cell responses and recognition rate of T-cell epitopes was significantly higher in the convalescent donors compared to unexposed individuals, suggesting that not only expansion, but also diversity spread of SARS-CoV-2 T-cell responses occur upon active infection. Whereas anti-SARS-CoV-2 antibody levels were associated with severity of symptoms in our SARS-CoV-2 donors, intensity of T-cell responses did not negatively affect COVID-19 severity. Rather, diversity of SARS-CoV-2 T-cell responses was increased in case of mild symptoms of COVID-19, providing evidence that development of immunity requires recognition of multiple SARS-CoV-2 epitopes.
@@ -1942,7 +1942,7 @@ feed June2020
   // Seroprevalence of SARS-CoV-2 in Hong Kong and in residents evacuated from Hubei province, China: a multicohort study
   doi: https://doi.org/10.1016/S2666-5247(20)30053-7
   article 'Wang-To_et_al_06_03_2020
-    head = Our serological data suggest that SARS-CoV-2 is a new emerging virus. The seropositivity rate in Hubei returnees indicates that RT-PCR-confirmed patients only represent a small proportion of the total number of cases. The low seroprevalence suggests that most of the Hong Kong and Hubei population remain susceptible to COVID-19. Future waves of the outbreak are inevitable without a vaccine or antiviral prophylaxis. Furthermore, the higher amount of possible disease-enhancing cross-reactive antibody in adults than in children, as evident by the OD value of the enzyme immunoassay, should be explored further as a possible explanation of more severe disease in adults.
+    head = Our serological data suggest that SARS-CoV-2 is a new emerging virus. The seropositivity rate in Hubei returnees indicates that RT-PCR-confirmed patients only represent a small proportion of the total number of cases. The low seroprevalence suggests that most of the Hong Kong and Hubei population remain susceptible to COVID-19.
 
     >>> Background
       The role of subclinical severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infections in perpetuating the COVID-19 pandemic is unknown because population seroprevalence data are absent. We aimed to establish the sensitivity and specificity of our enzyme immunoassay and microneutralisation assay, and the seroprevalence of SARS-CoV-2 in Hong Kong before and after the pandemic, as well as in Hong Kong residents evacuated from Hubei province, China.
@@ -1957,14 +1957,14 @@ feed June2020
       Our serological data suggest that SARS-CoV-2 is a new emerging virus. The seropositivity rate in Hubei returnees indicates that RT-PCR-confirmed patients only represent a small proportion of the total number of cases. The low seroprevalence suggests that most of the Hong Kong and Hubei population remain susceptible to COVID-19. Future waves of the outbreak are inevitable without a vaccine or antiviral prophylaxis. The role of age-related cross reactive non-neutralising antibodies in the pathogenesis of COVID-19 warrants further investigation.
 
 
-    -- exports
-      !a
-      !b
-      !c
-      !d
-      !e
-      !f
-      !g
+    # -- exports
+    #   !a
+    #   !b
+    #   !c
+    #   !d
+    #   !e
+    #   !f
+    #   !g
 
     / June, 2020 - The Lancet
     let !a self assert =  Serum samples were collected at a median of 29 days after symptom onset (IQR 20·5–38·0). The sensitivity was 91·1% (41 of 45 [95% CI 78·8–97·5]) for the microneutralisation assay, 57·8% (26 of 45 [42·2–72·3]) for anti-nucleoprotein IgG, 66·7% (30 of 45 [51·1–80·0]) for anti-spike protein receptor binding domain (RBD) IgG, and 73·3% (33 of 45 [58·1–85·4]) for enzyme immunoassay (either positive for anti-nucleoprotein or anti-RBD IgG). The specificity was 100% (152 of 152 [95% CI 97·6–100·0]) for both the enzyme immunoassay and microneutralisation assay.
@@ -2011,21 +2011,30 @@ feed June2020
     >>> Abstract
       The coronavirus disease 2019 (COVID-19) pandemic has highlighted the need for different types of diagnostics, comparative validation of new tests, faster approval by federal agencies, and rapid production of test kits to meet global demands. In this Perspective, we discuss the utility and challenges of current diagnostics for COVID-19.
 
-    -- exports
-      !b
-      !c
-      !d
-      !f
-      !h
-      !i
-      !k
-      !m
-      !n
-      !o
-      !p
-      !q
-      !v
-      !w
+    # -- exports
+    #   !a
+    #   !b
+    #   !c
+    #   !d
+    #   !e
+    #   !f
+    #   !g
+    #   !h
+    #   !i
+    #   !j
+    #   !k
+    #   !l
+    #   !m
+    #   !n
+    #   !o
+    #   !p
+    #   !q
+    #   !r
+    #   !s
+    #   !t
+    #   !u
+    #   !v
+    #   !w
 
     # / June, 2020 - Science Translational Medicine
     # let !a self assert = TYPES OF TESTS: COVID-19 tests can be grouped as nucleic acid, serological, antigen, and ancillary tests, all of which play distinct roles in hospital, point-of-care, or large-scale population testing.

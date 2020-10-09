@@ -21,7 +21,7 @@ subject module Diagnostics
         SARS-CoV-2-specific IgM does not consistently appear before its IgG counterpart.
         Some studies reporting detection of SARS-CoV 2 spike protein-specific IgG before IgM.
         Since the appearance of antibodies is time dependent, diagnosis of COVID-19 by serological methods is limited to patients with a longer duration of illness.
-      --
+      -- Sensitivity of different serology tests
         'Lassaunière_et_al_2020
       >>>
          S1 and N proteins are the dominant antigens of SARSCoV-2 that elicit both IgG and IgM antibodies.
@@ -41,9 +41,11 @@ subject module Diagnostics
         'Wu_et_al_04_20_2020
       --
         'Weissleder_et_al_06_03_2020
-        'Watson_et_al_05_12_2020
+
+      # Use diagram from this paper
+      --
         'Sethuraman_et_al_05_06_2020
-        'Weissleder_et_al_06_03_2020
+
 
       --
         Seroprevalence
@@ -55,7 +57,8 @@ subject module Diagnostics
 
       / Seroprevalence
       subject Seroprevalence
-        -- Seroprevalence
+        head =
+        -- Sero Survey of Blood banks
           'Thompson_et_al_2020
         -- Seroprevalence study in France, Switzerland and China
           'Salje_et_al_04_20_2020.!j
@@ -72,7 +75,6 @@ subject module Diagnostics
         # Herd Immunity happened in Zika Virus
         --
           'Netto_et_al_2017
-
     / Rt-PCR and PCR testing
     subject PCR
       head = rRT-PCR uses RNA testing of respiratory secretions collected using nasopharyngeal swab, which detects the presence of viral RNA fragments; nasal swab or sputum sample may also be used. Saliva as a non-invasive specimen for detection is also being researched.
@@ -164,7 +166,9 @@ subject module Diagnostics
   / Targets
   subject Frontiers
     head = Several studies are investigating range of inflammatory markers in blood, biomarkers and immune features to determine their role in disease severity and risk factors.
-    -- LDH
+    >>>
+      {LDH} it is a marker of common injuries and disease such as heart failure and can be used to predict severe COVID-19 cases
+    --
       'Han_et_al_2020
       'Jiang_et_al_2020.!d
     -- Using ACE 2 to predict Susceptibility
@@ -172,18 +176,11 @@ subject module Diagnostics
     # Club immune profiling / cytokine / severity and respiratory together
     -- Immune Profiling
       'Mathew_et_al_05_23_2020
-      'Mathew_et_al_05_23_2020.!a
-      'Mathew_et_al_05_23_2020.!b
     -- Cytokine Profiling
-      'DelValle_et_al_05_30_2020
       'Mehta_et_al_03_28_2020
       'Li_et_al_05_19_2020b
-    -- Disease Severity
-      'Gong_et_al_02_27_2020
-      'Chen_et_al_04_06_2020
-      'Chen_et_al_02_08_2020
+    -- Monitoring IL-6 & TNF-a
       'DelValle_et_al_05_30_2020
-      'DelValle_et_al_05_30_2020.!m
       'Coomes_et_al_04_03_2020
       'Zhao_et_al_2020.!d
       'Jiang_et_al_04_27_2020.!c
@@ -192,10 +189,17 @@ subject module Diagnostics
       'Nelde_et_al_06_16_2020.!f
     -- Respiratory Failure (IL-6)
       'Herold_et_al_04_10_2020
-    -- HLA
+    -- Disease Severity
+      'Gong_et_al_02_27_2020
+      'Chen_et_al_04_06_2020
+      'Chen_et_al_02_08_2020
+    >>>
+      Association of {HLA}
+    -- Context
       'Lin_et_al_2003
       'Blackwell_et_al_2009
       'Paul_et_al_2013
+    --
       'Nguyen_et_al_2020.!a
     -- Detection
       'Yang_et_al_2020.!a

@@ -366,7 +366,24 @@ feed Pre2019
   -- May, 1948
     'Hamburger_et_al_1948
 
-  # Cloth Mask, Surgical Mask, comparison, efficacy
+  #
+
+  # VitaminD Rationale
+  // Vitamin D controls T cell antigen receptor signaling and activation of human T cells
+  doi: https://doi.org/10.1038/ni.1851
+  ref 'Essen_et_al_03_07_2010
+    head = Human T cells had very low expression of PLC-gamma1 and that this correlated with low T cell antigen receptor (TCR) responsiveness in naive T cells. TCR signaling via p38 leads to successive induction of VDR (vitamin D receptor) and PLC-gamma1, which are required for subsequent classical TCR signaling and T cell activation.
+
+    >>> Abstract
+      Phospholipase C (PLC) isozymes are key signaling proteins downstream of many extracellular stimuli. Here we show that naive human T cells had very low expression of PLC-gamma1 and that this correlated with low T cell antigen receptor (TCR) responsiveness in naive T cells. However, TCR triggering led to an upregulation of approximately 75-fold in PLC-gamma1 expression, which correlated with greater TCR responsiveness. Induction of PLC-gamma1 was dependent on vitamin D and expression of the vitamin D receptor (VDR). Naive T cells did not express VDR, but VDR expression was induced by TCR signaling via the alternative mitogen-activated protein kinase p38 pathway. Thus, initial TCR signaling via p38 leads to successive induction of VDR and PLC-gamma1, which are required for subsequent classical TCR signaling and T cell activation.
+
+    -- exports
+      !a
+
+    / March, 2010 - Nat Immunol.
+    let !a self assert =
+
+  # Cloth Mask vs Surgical Mask
   // Evaluating the efficacy of cloth facemasks in reducing particulate matter exposure
   doi: https://doi.org/10.1038/jes.2016.42
   ref 'Shakaya_et_al_06_17_2016
@@ -1780,7 +1797,7 @@ feed Pre2019
   // Correlation Analysis Between Disease Severity and Inflammation-related Parameters in Patients with COVID-19 Pneumonia
   doi: https://doi.org/10.1101/2020.02.25.20025643
   ref 'Gong_et_al_02_27_2020
-    head = With following parameters such as age >67.5 years, IL2R >793.5U/mL, CRP >30.7ng/mL, ferroprotein >2252μg/L, WBC>9.5*10^9/L or NC >7.305*10^9/L, the progress of COVID-19 to critical stage should be closely observed and possibly prevented.
+    head = With following parameters such as age >67.5 years, IL2R >793.5U/mL, CRP >30.7ng/mL, ferroprotein >2252μg/L, WBC>9.5*10^9/L or NC >7.305*10^9/L, the progress of COVID-19 to critical stage should be closely observed and possibly prevented. Inflammation is closely related to severity of COVID-19, and IL-6, TNFα and IL-8 might be promising therapeutic targets.
 
     >>> Aim:
       The new coronavirus pneumonia (COVID-19) outbreaking at the end of 2019 is highly contagious. Crude mortality rate reached 49% in critical patients. Inflammation matters on disease progression. This study analyzed blood inflammation indicators among mild, severe and critical patients, helping to identify severe or critical patients early.
@@ -1801,7 +1818,7 @@ feed Pre2019
   // Innate Immune Response of Human Alveolar Type II Cells Infected With Severe Acute Respiratory Syndrome-Coronavirus
   doi: https://doi.org/10.1165/rcmb.2012-0339OC
   article 'Qian_et_al_11_06_2012
-    head = In conclusion, culturing at the A/L renders primary human alveolar type II cells susceptible to productive SARS-CoV infection, and the cells mount a robust innate immune response, similar to that observed in the lungs and sera of patients with SARS. type II alveolar epithelial cells cultured at an A/L offer an excellent in vitro system in which to isolate and propagate emerging respiratory viruses that present with fastidious requirements for growth in highly differentiated human lung cells. These cultures also provide excellent in vitro models in which to evaluate the effects of candidate therapeutics that target the innate immune responses to respiratory virus infection.
+    head = The cultivation of alveolar type II cells at an air–liquid interface provides primary cultures in which to study the pulmonary innate immune responses to infection with SARS-CoV, and to explore possible therapeutic approaches to modulating these innate immune responses.
 
     >>> Abstract
       Severe acute respiratory syndrome (SARS)–coronavirus (CoV) produces a devastating primary viral pneumonia with diffuse alveolar damage and a marked increase in circulating cytokines. One of the major cell types to be infected is the alveolar type II cell. However, the innate immune response of primary human alveolar epithelial cells infected with SARS-CoV has not been defined. Our objectives included developing a culture system permissive for SARS-CoV infection in primary human type II cells and defining their innate immune response. Culturing primary human alveolar type II cells at an air–liquid interface (A/L) improved their differentiation and greatly increased their susceptibility to infection, allowing us to define their primary interferon and chemokine responses. Viral antigens were detected in the cytoplasm of infected type II cells, electron micrographs demonstrated secretory vesicles filled with virions, virus RNA concentrations increased with time, and infectious virions were released by exocytosis from the apical surface of polarized type II cells. A marked increase was evident in the mRNA concentrations of interferon–β and interferon–λ (IL-29) and in a large number of proinflammatory cytokines and chemokines. A surprising finding involved the variability of expression of angiotensin-converting enzyme–2, the SARS-CoV receptor, in type II cells from different donors. In conclusion, the cultivation of alveolar type II cells at an air–liquid interface provides primary cultures in which to study the pulmonary innate immune responses to infection with SARS-CoV, and to explore possible therapeutic approaches to modulating these innate immune responses.
@@ -1873,27 +1890,27 @@ feed Pre2019
   // IL-17A Attenuates IFN-λ Expression by Inducing Suppressor of Cytokine Signaling Expression in Airway Epithelium
   doi: https://doi.org/10.4049/jimmunol.1800147
   article 'Niwa_et_al_10_15_2018
-    head = Our data provide novel findings that IL-17A attenuates virus-induced IFN-λ expression through induction of SOCS1 and SOCS3 expression, which inhibits activation of JAK–STAT1 signaling in a positive autocrine feedback loop of IFN-λ expression in human airway epithelial cells. As airway IFN-λ plays pivotal roles in mucosal immune response to viral infection, restoring IFN-λ expression in chronic airway diseases, such as asthma and COPD, may thereby improve impaired host defense response to viral infection and prevent subsequent exacerbation. In this context, blockage of IL-17A or SOCS1 and SOCS3 expression in the airway epithelium may constitute novel therapeutic strategies to prevent viral infection and exacerbation, especially for patients with severe asthma and COPD.
+    head =  IL-17A attenuates virus-induced IFN-λ expression by enhancing SOCS1 and SOCS3 expression to inhibit autocrine signaling loops in human airway epithelial cells.
 
     >>> Abstract
       IFN-λ is a cytokine expressed in epithelial tissues and plays a central role in antiviral mucosal immune response. The expression of IFN-λ in the airway is impaired in chronic airway diseases (e.g., asthma, chronic obstructive pulmonary disease), which renders patients susceptible to viral infection. IL-17A is associated with asthma and chronic obstructive pulmonary disease pathogenesis; however, IL-17A regulation of IFN-λ expression remains unclear. The aim of the current study is to clarify IL-17A–mediated regulatory mechanisms of IFN-λ expression in human airway epithelial cells. In this study, we have shown that polyinosinic:polycytidylic acid (polyI:C) and influenza A virus (IAV) infection increased IFN-λ expression at mRNA and protein levels in primary cultures of normal human bronchial epithelial cells, whereas IL-17A attenuated polyI:C- or IAV-induced IFN-λ expression. IFN-λ receptor 1 knockdown and a JAK inhibitor, ruxolitinib, attenuated polyI:C-induced IFN-λ expression, confirming that a positive autocrine feedback loop, the IFN-λ receptor–JAK–STAT pathway, was involved in IFN-λ expression. In Western blotting analysis, we demonstrated that polyI:C and IAV infection induced STAT1 phosphorylation in normal human bronchial epithelial cells, whereas IL-17A suppressed polyI:C- or IAV-mediated STAT1 phosphorylation. Furthermore, we found that cotreatment with IL-17A and polyI:C or IAV infection synergistically increased suppressor of cytokine signaling (SOCS)1 and SOCS3 expression. SOCS1 small interfering RNA and SOCS3 small interfering RNA negated the inhibitory effect of IL-17A in polyI:C-induced IFN-λ expression by restoring attenuated STAT1 phosphorylation. Taken together, these findings indicate that IL-17A attenuates virus-induced IFN-λ expression by enhancing SOCS1 and SOCS3 expression to inhibit autocrine signaling loops in human airway epithelial cells.
 
-    -- exports
-      !a
-      !b
-      !c
-      !d
-      !e
-      !f
-      !g
-      !h
-      !i
-      !j
-      !k
-      !l
-      !m
-      !n
-      !o
+    # -- exports
+    #   !a
+    #   !b
+    #   !c
+    #   !d
+    #   !e
+    #   !f
+    #   !g
+    #   !h
+    #   !i
+    #   !j
+    #   !k
+    #   !l
+    #   !m
+    #   !n
+    #   !o
 
     / October, 2018 - J Immunol
     let !a self assert = In this study, we have shown that polyinosinic:polycytidylic acid (polyI:C) and influenza A virus (IAV) infection increased IFN-λ expression at mRNA and protein levels in primary cultures of normal human bronchial epithelial cells, whereas IL-17A attenuated polyI:C- or IAV-induced IFN-λ expression.
@@ -1954,7 +1971,7 @@ feed Pre2019
       !f
 
     / April, 2020 - The Lancet
-    let !a self assert = Confirming existing disparities, within New York City and other urban centres, African American and other communities of colour have been especially affected by the COVID-10 pandemic. Across the country, deaths due to COVID-19 are disproportionately high among African Americans compared with the population overall. In Milwaukee, WI, three quarters of all COVID-19 related deaths are African American, and in St Louis, MO, all but three people who have died as a result of COVID-19 were African American.
+    let !a self assert = Across the country, deaths due to COVID-19 are disproportionately high among African Americans compared with the population overall. In Milwaukee, WI, three quarters of all COVID-19 related deaths are African American, and in St Louis, MO, all but three people who have died as a result of COVID-19 were African American.
 
     / April, 2020 - The Lancet
     let !b self assert = Part of the disproportionate impact of the COVID-19 pandemic on communities of colour has been structural factors that prevent those communities from practicing social distancing. Minority populations in the US disproportionally make up “essential workers” such as retail grocery workers, public transit employees, and health-care workers and custodial staff. "These front-line workers, disproportionately black and brown, then are typically a part of residentially segregated communities”, said Barber. “They dont have that privilege of quote unquote ‘staying at home’, connecting those individuals to the communities they are likely to be a part of because of this legacy of residential segregation, or structural racism in our major cities and most cities in the United States.”
@@ -2288,7 +2305,7 @@ feed Pre2019
   // Calcitriol Regulates Angiotensin-Converting Enzyme and Angiotensin Converting-Enzyme 2 in Diabetic Kidney Disease
   doi: https://doi.org/10.1007/s11033-016-3971-5
   article 'Lin_et_al_2016
-    head =  Calcitriol reduced ACE levels and ACE/ACE2 ratio and increased ACE2 levels in diabetic rats. Similarly, high glucose up-regulated ACE expression in NRK-52E cells, which was blocked by the p38 MAPK inhibitor SB203580, but not the extracellular signal-regulated kinase (ERK) inhibitor FR180204 or the c-Jun N-terminal kinase (JNK) inhibitor SP600125.
+    head =  Calcitriol reduced ACE levels and ACE/ACE2 ratio and increased ACE2 levels in diabetic rats. The renoprotective effects of calcitriol in diabetic nephropathy were related to the regulation of tubular levels of ACE and ACE2, possibly by p38 MAPK or ERK, but not JNK pathways.
 
     >>> Abstract
       To investigate the effects of calcitriol on angiotensin-converting enzyme (ACE) and ACE2 in diabetic nephropathy. Streptozotocin (STZ) induced diabetic rats were treated with calcitriol for 16 weeks. ACE/ACE2 and mitogen activated protein kinase (MAPK) enzymes were measured in the kidneys of diabetic rats and rat renal tubular epithelial cells exposed to high glucose. Calcitriol reduced proteinuria in diabetic rats without affecting calcium-phosphorus metabolism. ACE and ACE2 levels were significantly elevated in diabetic rats compared to those in control rats. The increase in ACE levels was greater than that of ACE2, leading to an elevated ACE/ACE2 ratio. Calcitriol reduced ACE levels and ACE/ACE2 ratio and increased ACE2 levels in diabetic rats. Similarly, high glucose up-regulated ACE expression in NRK-52E cells, which was blocked by the p38 MAPK inhibitor SB203580, but not the extracellular signal-regulated kinase (ERK) inhibitor FR180204 or the c-Jun N-terminal kinase (JNK) inhibitor SP600125. High glucose down-regulated ACE2 expression, which was blocked by FR180204, but not SB203580 or SP600125. Incubation of cells with calcitriol significantly inhibited p38 MAPK and ERK phosphorylation, but not JNK phosphorylation, and effectively attenuated ACE up-regulation and ACE2 down-regulation in high glucose conditions. The renoprotective effects of calcitriol in diabetic nephropathy were related to the regulation of tubular levels of ACE and ACE2, possibly by p38 MAPK or ERK, but not JNK pathways.
@@ -2300,7 +2317,7 @@ feed Pre2019
   // Vitamin D alleviates lipopolysaccharide-induced acute lung injury via regulation of the renin-angiotensin system
   doi: https://doi.org/10.3892/mmr.2017.7546
   article 'Xu_et_al_2017
-    head = ALI is a feature of LPS-induced sepsis, therefore, the present study employed a LPS-induced sepsis model to investigate the function of vitamin D in ALI. LPS stimulation led to lung cell death and increased vascular permeability, which may partially occur by inducing the expression of renin, ACE, Ang II and AT1R, and inhibiting ACE2 expression. However, in vivo and in vitro results indicated that a vitamin D agonist, calcitriol, significantly alleviated LPS-induced ALI to protect lungs.
+    head = Vitamin D agonist, calcitriol, exhibited a beneficial effect on LPS-induced ALI in rats; calcitriol pretreatment significantly improved LPS-induced lung permeability, as determined using Evans blue dye. Calcitriol also modulated the expression of members of the renin-angiotensin system (RAS), including angiotensin (Ang) I-converting enzymes (ACE and ACE2), renin and Ang II, which indicates that calcitriol may exert protective effects on LPS-induced lung injury.
 
     >>> Abstract
       Acute lung injury (ALI) and acute respiratory distress syndrome (ARDS) are the clinical manifestations of severe lung damage and respiratory failure. ALI and ARDS result are associated with high mortality in patients. At present, no effective treatments for ALI and ARDS exist. It is established that vitamin D exhibits anti-inflammatory effects, however, the specific effect of vitamin D on ALI remains largely unknown. The aim of the present study was to investigate whether, and by which mechanism, vitamin D alleviates lipopolysaccharide (LPS)-induced ALI. The results demonstrated that a vitamin D agonist, calcitriol, exhibited a beneficial effect on LPS-induced ALI in rats; calcitriol pretreatment significantly improved LPS-induced lung permeability, as determined using Evans blue dye. Results from reverse transcription-quantitative polymerase chain reaction, western blotting and ELISA analysis demonstrated that calcitriol also modulated the expression of members of the renin-angiotensin system (RAS), including angiotensin (Ang) I-converting enzymes (ACE and ACE2), renin and Ang II, which indicates that calcitriol may exert protective effects on LPS-induced lung injury, at least partially, by regulating the balance between the expression of members of the RAS. The results of the present study may provide novel targets for the future treatment of ALI.
@@ -2446,7 +2463,7 @@ feed Pre2019
   // Cross-reactive antibodies in convalescent SARS patients' sera against the emerging novel human coronavirus EMC (2012) by both immunofluorescent and neutralizing antibody tests
   doi: https://doi.org/10.1016/j.jinf.2013.03.015
   article 'Chan_et_al_2013
-    head = Convalescent SARS sera may contain cross-reactive antibodies against other betacoronaviruses and confound seroprevalence study for HCoV-EMC.
+    head = We conducted a seroprevalence study on archived sera from 94 game-food animal handlers at a wild life market, 28 SARS patients, and 152 healthy blood donors. Convalescent SARS sera may contain cross-reactive antibodies against other betacoronaviruses and confound seroprevalence study for HCoV-EMC.
 
     >>> Objective
       A severe acute respiratory syndrome (SARS)-like disease due to a novel betacoronavirus, human coronavirus EMC (HCoV-EMC), has emerged recently. HCoV-EMC is phylogenetically closely related to Tylonycteris-bat-coronavirus-HKU4 and Pipistrellus-bat-coronavirus-HKU5 in Hong Kong. We conducted a seroprevalence study on archived sera from 94 game-food animal handlers at a wild life market, 28 SARS patients, and 152 healthy blood donors in Southern China to assess the zoonotic potential and evidence for intrusion of HCoV-EMC and related viruses into humans.
@@ -2468,7 +2485,7 @@ feed Pre2019
   // Comprehensive Serological Profiling of Human Populations Using a Synthetic Human Virome
   doi: https://doi.org/10.1126/science.aaa0698
   article 'Xu_et_al_2015
-    head = We assayed over 10(8) antibody-peptide interactions in 569 humans across four continents, nearly doubling the number of previously established viral epitopes. We detected antibodies to an average of 10 viral species per person and 84 species in at least two individuals. Although rates of specific virus exposure were heterogeneous across populations, antibody responses targeted strongly conserved "public epitopes" for each virus, suggesting that they may elicit highly similar antibodies.
+    head = We assayed over 10(8) antibody-peptide interactions in 569 humans across four continents. We detected antibodies to an average of 10 viral species per person and 84 species in at least two individuals. Although rates of specific virus exposure were heterogeneous across populations, antibody responses targeted strongly conserved "public epitopes" for each virus, suggesting that they may elicit highly similar antibodies.
 
     >>> Abstract
       The human virome plays important roles in health and immunity. However, current methods for detecting viral infections and antiviral responses have limited throughput and coverage. Here, we present VirScan, a high-throughput method to comprehensively analyze antiviral antibodies using immunoprecipitation and massively parallel DNA sequencing of a bacteriophage library displaying proteome-wide peptides from all human viruses. We assayed over 10(8) antibody-peptide interactions in 569 humans across four continents, nearly doubling the number of previously established viral epitopes. We detected antibodies to an average of 10 viral species per person and 84 species in at least two individuals. Although rates of specific virus exposure were heterogeneous across populations, antibody responses targeted strongly conserved "public epitopes" for each virus, suggesting that they may elicit highly similar antibodies. VirScan is a powerful approach for studying interactions between the virome and the immune system.
@@ -2537,32 +2554,7 @@ feed Pre2019
     / May, 2020 - NEJM
     let !a self assert = The experience described here indicates that outbreaks of Covid-19 in long-term care facilities can have a considerable impact on vulnerable older adults and local health care systems. The findings also suggest that once Covid-19 has been introduced into a long-term care facility, it has the potential to spread rapidly and widely.
 
-  # Diagnostic, Shedding
-  // Evaluating the accuracy of different respiratory specimens in the laboratory diagnosis and monitoring the viral shedding of 2019-nCoV infections
-  doi: https://doi.org/10.1101/2020.02.11.20021493
-  article 'Yang_et_al_2020
-    head = Viral RNAs could be detected in all the lower respiratory tract of severe cases, but not the mild cases. CT scan of three cases showed typical viral pneumonia with ground glass opacity, while no viral RNAs were detected in first three or all the upper respiratory samples.
 
-    >>> Methods:
-      Respiratory samples including nasal swabs, throat swabs, sputum and bronchoalveolar lavage fluid (BALF) were collected from Guangdong CDC confirmed NCP patients, and viral RNAs were detected using a CFDA approved detection kit. Results were analyzed in combination with sample collection date and clinical information
-    >>> Finding:
-      Except for BALF, the sputum possessed the highest positive rate (74.4%~88.9%), followed by nasal swabs (53.6%~73.3%) for both severe and mild cases during the first 14 days after illness onset (d.a.o). For samples collected ≥ 15 d.a.o, sputum and nasal swabs still possessed a high positive rate ranging from 42.9%~61.1%. The positive rate of throat swabs collected ≥ 8 d.a.o was low, especially in samples from mild cases. Viral RNAs could be detected in all the lower respiratory tract of severe cases, but not the mild cases. CT scan of cases 02, 07 and 13 showed typical viral pneumonia with ground glass opacity, while no viral RNAs were detected in first three or all the upper respiratory samples.
-    >>> Interpretation:
-      Sputum is most accurate for laboratory diagnosis of NCP, followed by nasal swabs. Detection of viral RNAs in BLAF is necessary for diagnosis and monitoring of viruses in severe cases. CT scan could serve as an important make up for the diagnosis of NCP.
-
-    -- exports
-      !a
-      !b
-      !c
-
-    / Feb, 2020 - medRxiv
-    let !a self assert = The positive rate of throat swab varied in the severe and mild cases. For the severe cases, the positive rates were similar in samples collected 0~7 and 8~14 d.a.o, while low in samples collected ≥ 15 d.a.o. For the mild cases, it showed the highest positive rate in samples collected 0~7 d.a.o, however, very low positive rate in samples collected 8~14 and ≥15 d.a.o. The results indicate that sputum may serve as the most sensitive samples for the virus detection, and followed by nasal swabs.
-
-    / Feb, 2020 - medRxiv
-    let !b self assert = As a result, nasal swabs may be the most widely applicable samples for virus detection. On the contrary, throat swabs were not recommended for the viruses detection, especially the samples collected 8~14 and ≥ 15 d.a.o from mild cases, which may result in a large proportion of false negative results.
-
-    / Feb, 2020 - medRxiv
-    let !c self assert = Although the sample size was small, it also suggests that the viral distribution is associated with diseases severity. More importantly, why the viruses in some individuals retained in the upper respiratory tract merits further elucidation.
 
   # BloodCoagulation
   // Changes in Blood Coagulation in Patients With Severe Coronavirus Disease 2019 (COVID-19): A Meta-Analysis
@@ -2669,7 +2661,7 @@ feed Pre2019
   // HLA Class I Alleles Are Associated with Peptide-Binding Repertoires of Different Size, Affinity, and Immunogenicity
   doi: https://doi.org/10.4049/jimmunol.1302101
   article 'Paul_et_al_2013
-    head = In this study, our data shows that different HLA class I alleles are associated with different peptide-binding repertoire sizes, defined as the fraction of all possible peptides that are bound at a given affinity threshold and sheds new light on the mechanisms governing allelic polymorphism of MHC molecules. We investigated the genetic and structural basis of the phenomenon. Although no stringent correlate was defined, on average HLA B alleles are associated with significantly narrower repertoires than are HLA A alleles. We predict that this enhanced understanding will further increase the accuracy and ease of prediction of MHC-restricted T cell epitopes.
+    head = Absolute binding capacity is a better predictor of immunogenicity, and analysis of epitopes from the Immune Epitope Database revealed that predictive efficacy is increased using allele-specific affinity thresholds. We investigated the genetic and structural basis of the phenomenon. Although no stringent correlate was defined, on average HLA B alleles are associated with significantly narrower repertoires than are HLA A alleles.
 
     >>> Abstract
       Prediction of HLA binding affinity is widely used to identify candidate T cell epitopes, and an affinity of 500 nM is routinely used as a threshold for peptide selection. However, the fraction (percentage) of peptides predicted to bind with affinities of 500 nM varies by allele. For example, of a large collection of ∼30,000 dengue virus–derived peptides only 0.3% were predicted to bind HLA A*0101, wheras nearly 5% were predicted for A*0201. This striking difference could not be ascribed to variation in accuracy of the algorithms used, as predicted values closely correlated with affinity measured in vitro with purified HLA molecules. These data raised the question whether different alleles would also vary in terms of epitope repertoire size, defined as the number of associated epitopes or, alternatively, whether alleles vary drastically in terms of the affinity threshold associated with immunogenicity. To address this issue, strains of HLA transgenic mice with wide (A*0201), intermediate (B*0702), or narrow (A*0101) repertoires were immunized with peptides of varying binding affinity and relative percentile ranking. The results show that absolute binding capacity is a better predictor of immunogenicity, and analysis of epitopes from the Immune Epitope Database revealed that predictive efficacy is increased using allele-specific affinity thresholds. Finally, we investigated the genetic and structural basis of the phenomenon. Although no stringent correlate was defined, on average HLA B alleles are associated with significantly narrower repertoires than are HLA A alleles.
@@ -5620,10 +5612,13 @@ feed Pre2019
 
     / Journal of Virology - October, 2009
     let !a self assert = SARS-CoV infection is associated with pneumonitis in 12- to 14-mo BALB/c mice.
+
     / Journal of Virology - October, 2009
     let !b self assert = SARS-CoV infection induces a biphasic pattern of increased expression of inflammatory mediators in the lungs.
+
     / Journal of Virology - October, 2009
     let !c self assert = SARS-CoV infection induces two waves of recruitment of inflammatory cells into the lungs.
+
     / Journal of Virology - October, 2009
     let !d self assert = SARS-CoV infection induces an enhanced virus-specific T-cell response in the lungs.
 

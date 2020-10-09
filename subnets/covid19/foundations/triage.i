@@ -36,6 +36,7 @@ index: hide
     head = Spillover event, occurs when a reservoir population with a high pathogen prevalence comes into contact with a novel host population. The pathogen is transmitted from the reservoir population and may or may not be transmitted within the host population.
 
   link: https://en.wikipedia.org/wiki/Phylogenetic_tree
+  / Phylogenetic Tree
   model PhylogeneticTree
     head = A phylogenetic tree is a branching diagram showing the evolutionary relationships among various biological species or other entities—their phylogeny based upon similarities and differences in their physical or genetic characteristics.
 
@@ -66,3 +67,18 @@ index: hide
   / Ground glass opacity (GGO)
   model GGO
     head = In radiology, ground glass opacity (GGO) is a nonspecific finding on radiographs and computed tomography (CT) scans. It consists of a hazy opacity that does not obscure the underlying bronchial structures or pulmonary vessels, and that indicates a partial filling of air spaces in the lungs by exudate or transudate, as well as interstitial thickening or partial collapse of lung alveoli
+
+
+  / Interferon type I
+  model Interferonone
+    head = Human type I interferons (IFNs) are a large subgroup of interferon proteins that help regulate the activity of the immune system. Interferons bind to interferon receptors.
+
+  link: https://en.wikipedia.org/wiki/Lactate_dehydrogenase
+  / Lactate dehydrogenase (LDH)
+  model LDH
+    head = Lactate dehydrogenase (LDH or LD) is an enzyme found in nearly all living cells. LDH catalyzes the conversion of lactate to pyruvate and back, as it converts NAD+ to NADH and back. A dehydrogenase is an enzyme that transfers a hydride from one molecule to another.
+
+  link: https://en.wikipedia.org/wiki/Human_leukocyte_antigen
+  / Human leukocyte antigen (HLA)
+  model HLA
+    head = The human leukocyte antigen (HLA) system or complex is a group of related proteins that are encoded by the major histocompatibility complex (MHC) gene complex in humans. These cell-surface proteins are responsible for the regulation of the immune system.

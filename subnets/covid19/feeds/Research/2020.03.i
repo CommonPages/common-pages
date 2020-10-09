@@ -822,7 +822,7 @@ feed March2020
   // SARS-CoV-2 specific antibody responses in COVID-19 patients
   doi: https://doi.org/10.1101/2020.03.18.20038059
   article 'Okba_et_al_2020
-    head = We developed ELISA-based assays, which were able to detect antibodies to these two proteins along with the two spike domains, S1A and RBD. Those correlated strongly with virus neutralizing antibodies detected by a PRNT assay.  Since the majority of the human population has antibodies against the four endemic human coronaviruses, it was crucial to verify the specificity of these assays to avoid false positive results.
+    head =  We developed serological assays for the detection of SARS-CoV-2 neutralizing, spike- and nucleocapsid-specific antibodies. We validated and tested various antigens in different in-house and commercial ELISAs. Commercial S1 IgG or IgA ELISAs were of lower specificity while sensitivity varied between the two, with IgA showing higher sensitivity.
 
     >>> Abstract
       A new coronavirus, SARS-CoV-2, has recently emerged to cause a human pandemic. Whereas molecular diagnostic tests were rapidly developed, serologic assays are still lacking, yet urgently needed. Validated serologic assays are important for contact tracing, identifying the viral reservoir and epidemiological studies. Here, we developed serological assays for the detection of SARS-CoV-2 neutralizing, spike- and nucleocapsid-specific antibodies. Using serum samples from patients with PCR-confirmed infections of SARS-CoV-2, other coronaviruses, or other respiratory pathogenic infections, we validated and tested various antigens in different in-house and commercial ELISAs. We demonstrate that most PCR-confirmed SARS-CoV-2 infected individuals seroconverted, as revealed by sensitive and specific in-house ELISAs. We found that commercial S1 IgG or IgA ELISAs were of lower specificity while sensitivity varied between the two, with IgA showing higher sensitivity. Overall, the validated assays described here can be instrumental for the detection of SARS-CoV-2-specific antibodies for diagnostic, seroepidemiological and vaccine evaluation studies.
@@ -1040,6 +1040,18 @@ feed March2020
   article 'Inui_et_al_2020
     head = This study documented a high incidence of subclinical CT changes in cases with COVID-19. Compared to symptomatic cases, asymptomatic cases showed more GGO over consolidation and milder extension of disease on CT.
 
+    >>> Purpose
+      To evaluate the chest CT findings in an environmentally homogeneous cohort from the cruise ship “Diamond Princess” with Coronavirus Disease 2019 (COVID-19).
+
+    >>> Materials and Methods
+      This retrospective study comprised 104 cases (mean age, 62 years ± 16, range 25-93) with COVID-19 confirmed with RT-PCR. CT images were reviewed and the CT severity score was calculated for each lobes and the entire lung. CT findings were compared between asymptomatic and symptomatic cases.
+
+    >>>  Results
+      Of 104 cases, 76 (73%) were asymptomatic, 41 (54%) of which had lung opacities on CT. Other 28 (27%) cases were symptomatic, 22 (79%) of which had abnormal CT findings. Symptomatic cases showed lung opacities and airway abnormalities on CT more frequently than asymptomatic cases [lung opacity; 22 (79%) vs 41 (54%), airway abnormalities; 14 (50%) vs 15 (20%)]. Asymptomatic cases showed more GGO over consolidation (83%), while symptomatic cases more frequently showed consolidation over GGO (41%). The CT severity score was higher in symptomatic cases than asymptomatic cases, particularly in the lower lobes [symptomatic vs asymptomatic cases; right lower lobe: 2 ± 1 (0-4) vs 1 ± 1 (0-4); left lower lobe: 2 ± 1 (0-4) vs 1 ± 1 (0-3); total score: 7 ± 5 (1-17) vs 4 ± 2 (1-11)].
+
+    >>> Conclusion
+      This study documented a high incidence of subclinical CT changes in cases with COVID-19. Compared to symptomatic cases, asymptomatic cases showed more GGO over consolidation and milder extension of disease on CT.
+
     -- exports
       !a
 
@@ -1213,17 +1225,17 @@ feed March2020
   article 'Zheng_et_al_2020b
     head = COVID-19, similar to some chronic infections, damages the function of CD4+ T cells and promotes excessive activation and possibly subsequent exhaustion of CD8+ T cells. Together, these perturbations of T cell subsets may eventually diminish host antiviral immunity. It also indicates that SARS-CoV-2 may possess a unique immune pathology compared to other coronaviruses.
 
-    -- exports
-      !a
-      !b
-      !c
-      !d
-      !e
-      !f
-      !g
-      !h
-      !i
-      !j
+    # -- exports
+    #   !a
+    #   !b
+    #   !c
+    #   !d
+    #   !e
+    #   !f
+    #   !g
+    #   !h
+    #   !i
+    #   !j
 
     / March, 2020 - Cellular & Molecular Immunology
     let !a self assert = Similar to the healthy group (n = 6), the absolute numbers of cells of major leukocyte subsets in peripheral blood remained at a normal level in both mild and severe patients.
@@ -1535,7 +1547,7 @@ feed March2020
   // Lactate dehydrogenase, a Risk Factor of Severe COVID-19 Patients
   doi: https://doi.org/10.1101/2020.03.24.20040162
   article 'Han_et_al_2020
-    head = This study showed that LDH could be identified as a powerful predictive factor for early recognition of lung injury and severe COVID-19 cases. And importantly,lymphocyte counts, especially CD3+, CD4+, and CD8+ T cells in the peripheral blood of COVID-19 patients, which was relevant with serum LDH, were also dynamically correlated with the severity of the disease.
+    head = LDH could be identified as a powerful predictive factor for early recognition of lung injury and severe COVID-19 cases. And importantly,lymphocyte counts, especially CD3+, CD4+, and CD8+ T cells in the peripheral blood of COVID-19 patients, which was relevant with serum LDH, were also dynamically correlated with the severity of the disease.
 
 
     >>> Abstract
@@ -1775,17 +1787,18 @@ feed March2020
   // A serological assay to detect SARS-CoV-2 seroconversion in humans
   doi: https://doi.org/10.1101/2020.03.17.20037713
   article 'Amanat_et_al_2020
-    head = Our data show strong seroconversion after natural infection with SARS-CoV-2. Results from our assays suggest that antibodies mounted upon infection target the full length S protein as well as the RBD, which is the major target for neutralizing antibodies for related viruses coronaviruses.
+    head = We describe serological enzyme-linked immunosorbent assays (ELISA) that we developed using recombinant antigens derived from the spike protein of SARS-CoV-2. We demonstrate that these assays are sensitive and specific, allowing for screening and identification of COVID19 seroconverters using human plasma/serum as early as two days post COVID19 symptoms onset.
 
     >>> Abstract
       SARS-Cov-2 (severe acute respiratory disease coronavirus 2), which causes Coronavirus Disease 2019 (COVID19) was first detected in China in late 2019 and has since then caused a global pandemic. While molecular assays to directly detect the viral genetic material are available for the diagnosis of acute infection, we currently lack serological assays suitable to specifically detect SARS-CoV-2 antibodies. Here we describe serological enzyme-linked immunosorbent assays (ELISA) that we developed using recombinant antigens derived from the spike protein of SARS-CoV-2. Using negative control samples representing pre-COVID 19 background immunity in the general adult population as well as samples from COVID19 patients, we demonstrate that these assays are sensitive and specific, allowing for screening and identification of COVID19 seroconverters using human plasma/serum as early as two days post COVID19 symptoms onset. Importantly, these assays do not require handling of infectious virus, can be adjusted to detect different antibody types and are amendable to scaling. Such serological assays are of critical importance to determine seroprevalence in a given population, define previous exposure and identify highly reactive human donors for the generation of convalescent serum as therapeutic. Sensitive and specific identification of coronavirus SARS-Cov-2 antibody titers may, in the future, also support screening of health care workers to identify those who are already immune and can be deployed to care for infected patients minimizing the risk of viral spread to colleagues and other patients.
 
-    -- exports
-      !a
-      !b
-      !c
-      !d
-      !e
+    # -- exports
+    #   !a
+    #   !b
+    #   !c
+    #   !d
+    #   !e
+    #   !f
 
     / March, 2020 - cold spring harbor laboratory
     let !a self assert = One complexity with measuring antibodies in bodily fluids of COVID19 patients is, that infectious virus could be present in the biospecimen, especially early during acute infection.
@@ -2335,7 +2348,11 @@ feed March2020
   // Global profiling of SARS-CoV-2 specific IgG/ IgM responses of convalescents using a proteome microarray
   doi: https://doi.org/10.1101/2020.03.20.20039495
   article 'Jiang_et_al_2020
-    head = The results suggest that at the convalescent phase 100% of patients had IgG/ IgM responses to SARS-CoV-2, especially to protein N, S1 but not S2. Significant antibody responses were identified for ORF9b and NSP5. Level of S1 IgG positively correlate to age and the level of LDH (lactate dehydrogenase), especially for women, while the level of S1 IgG negatively correlate to Ly% (Lymphocyte percentage).
+    head = To enable the global understanding of SARS-CoV-2 specific IgG/ IgM responses, a SARS-CoV-2 proteome microarray with 18 out of the 28 predicted proteins was constructed. The results suggest that at the convalescent phase 100% of patients had IgG/ IgM responses to SARS-CoV-2, especially to protein N, S1 but not S2. Significant antibody responses were identified for ORF9b and NSP5. Level of S1 IgG positively correlate to age and the level of LDH (lactate dehydrogenase), especially for women, while the level of S1 IgG negatively correlate to Ly% (Lymphocyte percentage).
+
+
+    >>> Abstract
+      COVID-19 is caused by SARS-CoV-2, and has become a global pandemic. There is no highly effective medicine or vaccine, most of the patients were recovered by their own immune response, especially the virus specific IgG and IgM responses. However, the IgG/ IgM responses is barely known. To enable the global understanding of SARS-CoV-2 specific IgG/ IgM responses, a SARS-CoV-2 proteome microarray with 18 out of the 28 predicted proteins was constructed. The microarray was applied to profile the IgG/ IgM responses with 29 convalescent sera. The results suggest that at the convalescent phase 100% of patients had IgG/ IgM responses to SARS-CoV-2, especially to protein N, S1 but not S2. S1 purified from mammalian cell demonstrated the highest performance to differentiate COVID-19 patients from controls. Besides protein N and S1, significant antibody responses to ORF9b and NSP5 were also identified. In-depth analysis showed that the level of S1 IgG positively correlate to age and the level of LDH (lactate dehydrogenase), especially for women, while the level of S1 IgG negatively correlate to Ly% (Lymphocyte percentage). This study presents the first whole picture of the SARS-CoV-2 specific IgG/ IgM responses, and provides insights to develop precise immuno-diagnostics, effective treatment and vaccine.
 
     -- exports
       !a

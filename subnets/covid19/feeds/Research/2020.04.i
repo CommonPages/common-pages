@@ -1124,7 +1124,7 @@ feed April2020
   // Interleukin-6 in COVID-19: A Systematic Review and Meta-Analysis
   doi: https://doi.org/10.1101/2020.03.30.20048058
   ref 'Coomes_et_al_04_03_2020
-    head =  We demonstrate serum levels of IL-6 to be significantly elevated in the setting of complicated COVID-19 disease, and increased IL-6 levels to be in turn significantly associated with adverse clinical outcomes. This suggests that the progression of COVID-19 to complicated disease may be the consequence of an excessive host immune response and autoimmune injury.
+    head =  Meta-analysis of mean IL-6 concentrations demonstrated 2.9-fold higher levels in patients with complicated COVID-19 compared with patients with non-complicated disease. Inhibition of IL-6 with tocilizumab appears to be efficacious and safe in preliminary investigation
 
     >>> Purpose:
       Coronaviruses may activate dysregulated host immune responses. As exploratory studies have suggested that interleukin-6 (IL-6) levels are elevated in cases of complicated COVID-19 and that the anti-IL-6 biologic tocilizumab may be beneficial, we undertook a systematic review and meta-analysis to assess the evidence in this field.
@@ -1427,11 +1427,14 @@ feed April2020
     let !a self assert = We found that ACE2 is an interferon-regulated gene, and is over expressed in lung epithelial cells following viral infection or interferon treatment. Lung damage and inflammation caused by smoking could also contribute to ACE2 upregulation. Additionally, we speculate that the interferon-dependent upregulation of ACE2 could create a positive feedback loop for SARS-CoV-2 infections. That is, interferon secretion following an initial infection could increase ACE2 expression within neighboring cells, thereby rendering those cells susceptible to SARS-CoV-2 and facilitating viral dissemination.
 
 
-  # Disease Serverity predictions
+  # Disease Serverity predictions # Doi not working - https://doi.org/10.1016/j.xinn.2020.04.007
   // Predicting Illness Severity and Short-Term Outcomes of COVID-19: A Retrospective Cohort Study in China
-  doi: https://doi.org/10.1016/j.xinn.2020.04.007
+  doi: https://www.cell.com/the-innovation/fulltext/S2666-6758(20)30007-2
   article 'Chen_et_al_04_06_2020
-    head = In summary, we proposed a model containing four routine baseline parameters. This allowed accurate prediction of severity among COVID-19 patients. The model accurately stratified these patients into relevant risk categories. It could further help to produce appropriate clinical decisions and optimized allocations of hospital resources when shifting attention to the server during the pandemic.
+    head = The high risk factors for developing to severe COVID-19 are: age ≥ 55 years, BMI > 27 kg / m2, IL-6 ≥ 20 pg / ml, CD4+ T cell ≤ 400 count / μ L.Among 249 discharged COVID-19 patients, those who recovered after 20 days had a lower count of platelet, a higher level of estimated glomerular filtration rate, and higher level of interleukin-6 and myoglobin than those who recovered within 20 days.
+
+    >>> Abstract
+      Among 417 COVID-19 patients in Shenzhen, demographic characteristics, clinical manifestations and baseline laboratory tests showed significant differences between mild-moderate cohort and severe-critical cohort.Based on these differences, a convenient mathematical model was established to predict the illness severity of COVID-19. The model includes four parameters: age, BMI, CD4+ lymphocytes and IL-6 levels. The AUC of the model is 0.911.The high risk factors for developing to severe COVID-19 are: age ≥ 55 years, BMI > 27 kg / m2, IL-6 ≥ 20 pg / ml, CD4+ T cell ≤ 400 count / μ L.Among 249 discharged COVID-19 patients, those who recovered after 20 days had a lower count of platelet, a higher level of estimated glomerular filtration rate, and higher level of interleukin-6 and myoglobin than those who recovered within 20 days.
 
     # / April, 2020 - The Innovation
     # let !a self assert =
@@ -1441,7 +1444,7 @@ feed April2020
   // Pathogenesis of SARS-CoV-2 in transgenic mice expressing human angiotensin-converting enzyme 2
   doi: https://doi.org/10.1016/j.cell.2020.05.027
   article 'Jiang_et_al_04_27_2020
-    head = SARS-CoV-2 could infect HFH4-hACE2 mice and cause death. SARS-CoV-2 infection localizes to lungs of mice and causes typical interstitial pneumonia. Pre-exposure to SARS-CoV-2 could protect mice from severe pneumonia. Our results show that the hACE2 mouse would be a valuable tool for testing potential vaccines and therapeutics.
+    head = The infected mice had two different outcomes, recovery, and death. Significant weight loss was only observed in dead and severely diseased mice. Our results provide strong evidence that SARS-CoV-2 infection could cause typical interstitial pneumonia in hACE2-expressing mice, and that progeny virus could be re-isolated from diseased animal tissues.
 
     >>> Abstract
       COVID-19 has spread worldwide since 2019 and is now a severe threat to public health. We previously identified the causative agent as a novel SARS-related coronavirus (SARS-CoV-2) that uses human angiotensin-converting enzyme 2 (hACE2) as the entry receptor. Here, we successfully developed a SARS-CoV-2 hACE2 transgenic mouse (HFH4-hACE2 in C3B6 mice) infection model. The infected mice generated typical interstitial pneumonia and pathology that were similar to those of COVID-19 patients. Viral quantification revealed the lungs as the major site of infection, although viral RNA could also be found in the eye, heart, and brain in some mice. Virus identical to SARS-CoV-2 in full-genome sequences was isolated from the infected lung and brain tissues. Lastly, we showed that pre-exposure to SARS-CoV-2 could protect mice from severe pneumonia. Our results show that the hACE2 mouse would be a valuable tool for testing potential vaccines and therapeutics.
@@ -1548,7 +1551,7 @@ feed April2020
   // Evidence for host-dependent RNA editing in the transcriptome of SARS-CoV-2
   doi: https://doi.org/10.1101/2020.03.02.973255
   article 'Giorgio_et_al_04_27_2020
-    head = We identify nucleotide changes that may be signatures of RNA editing: Adenosine-to-Inosine changes from ADAR deaminases and Cytosine-to-Uracil changes from APOBEC ones. Our results thus suggest that both APOBECs and ADARs are involved in Coronavirus genome editing, a process that may shape the fate of both virus and patient.
+    head = A mutational analysis of genomes from different strains of human-hosted Coronaviridae reveals mutational patterns compatible to those observed in the transcriptomic data. Our results thus suggest that both APOBECs and ADARs are involved in Coronavirus genome editing, a process that may shape the fate of both virus and patient.
 
     >>> Abstract
       The COVID-19 outbreak has become a global health risk and understanding the response of the host to the SARS-CoV-2 virus will help to contrast the disease. Editing by host deaminases is an innate restriction process to counter viruses, and it is not yet known whether it operates against Coronaviruses. Here we analyze RNA sequences from bronchoalveolar lavage fluids derived from infected patients. We identify nucleotide changes that may be signatures of RNA editing: Adenosine-to-Inosine changes from ADAR deaminases and Cytosine-to-Uracil changes from APOBEC ones. A mutational analysis of genomes from different strains of human-hosted Coronaviridae reveals mutational patterns compatible to those observed in the transcriptomic data. Our results thus suggest that both APOBECs and ADARs are involved in Coronavirus genome editing, a process that may shape the fate of both virus and patient.
@@ -2009,13 +2012,13 @@ feed April2020
   // Vitamin D Supplementation Could Possibly Improve Clinical Outcomes of Patients Infected with Coronavirus-2019 (COVID-19)
   doi: http://dx.doi.org/10.2139/ssrn.3571484
   article 'Alipio_et_al_2020
-    head = This study provides substantial information to clinicians and health policy-makers. Vitamin D supplementation could possibly improve clinical outcomes of patients infected with COVID-19.
+    head = An increase in serum 25(OH)D level in the body could either improve clinical outcomes or mitigate worst (severe to critical) outcomes, while a decrease in serum 25(OH)D level in the body could worsen clinical outcomes of COVID-2019 patients. Vitamin D supplementation could possibly improve clinical outcomes of patients infected with COVID-19.
 
     >>> Abstract
       The rapid spread of COVID-19 in many areas of the world calls for preventive health measures. Although basic guidelines on infection control are suggested, treatment has remained the best choice to avert mortality. However, for the time being, there are no known vaccines for the disease. In this paper, a multinomial logistic regression was used to predict clinical outcomes of patients infected with COVID-19 based on 25-hydroxyvitamin D [25(OH)D] levels, the barometer for Vitamin D status. A retrospective multicentre study of 212 cases with laboratory-confirmed infection of SARS-CoV-2 was conducted. Data pertaining to clinical features and serum 25(OH)D levels were extracted from the medical records. For statistical analysis, Mann-Whitney U and χ² tests were used to compare differences in the clinical outcomes. Multinomial logistic regression was used to explore the association between serum 25(OH)D level and clinical outcomes of the cases. Frequency and percentage were used for categorical variables. Mean was used for continuous variables. A p-value below 0.01 was considered statistically significant. Of the 212 cases of COVID-19, majority had ordinary clinical outcome. Mean serum 25(OH)D level was 23.8 ng/ml. Serum 25(OH)D level was lowest in critical cases, but highest in mild cases. Serum 25(OH)D levels were statistically significant among clinical outcomes. Majority had insufficient Vitamin D status, most of them were not severe. Vitamin D status is significantly associated with clinical outcomes. A multinomial logistic regression analysis reported that for each standard deviation increase in serum 25(OH)D, the odds of having a mild clinical outcome rather than a severe outcome were approximately 7.94 times (OR=0.126, p<0.001) while interestingly, the odds of having a mild clinical outcome rather than a critical outcome were approximately 19.61 times (OR=0.051, p<0.001). The results suggest that an increase in serum 25(OH)D level in the body could either improve clinical outcomes or mitigate worst (severe to critical) outcomes, while a decrease in serum 25(OH)D level in the body could worsen clinical outcomes of COVID-2019 patients. In conclusion, this study provides substantial information to clinicians and health policy-makers. Vitamin D supplementation could possibly improve clinical outcomes of patients infected with COVID-19. Further research should conduct randomized controlled trials and large population studies to evaluate this recommendation.
 
-    -- exports
-      !a
+    # -- exports
+    #   !a
 
     / April, 2020 - SSRN
     let !a self assert = The results suggest that an increase in serum 25(OH)D level in the body could either improve clinical outcomes or mitigate worst (severe to critical) outcomes, while a decrease in serum 25(OH)D level in the body could worsen clinical outcomes of COVID-2019 patients. Vitamin D supplementation could possibly improve clinical outcomes of patients infected with COVID-19.
@@ -3058,17 +3061,17 @@ feed April2020
   // Evaluation of nine commercial SARS-CoV-2 immunoassays
   doi: https://doi.org/10.1101/2020.04.09.20056325
   article 'Lassaunière_et_al_2020
-    head = This study evaluated the sensitivity and specificity of nine commercially available serological tests. The results showed 100% specificity for the Wantai SARS-CoV-2 Total Antibody ELISA, 93% for the Euroimmun IgA ELISA, and 96% for the Euroimmun IgG ELISA with sensitivities of 90%, 90%, and 65%, respectively.
+    head = The overall performance of the POC tests according to manufacturer were in the rank order of AutoBio Diagnostics > Dynamiker Biotechnology = CTK Biotech > Artron Laboratories > Acro Biotech ≥ Hangzhou Alltest Biotech. These findings will facilitate selection of serological assays for the detection SARS-CoV-2-specific antibodies towards diagnosis as well as sero-epidemiological and vaccine development studies.
 
     >>> Abstract
       Due to urgency and demand, numerous severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) immunoassays are rapidly being developed and placed on the market with limited validation on clinical samples. Thorough validation of serological tests are required to facilitate their use in the accurate diagnosis of SARS-CoV-2 infection, confirmation of molecular results, contact tracing, and epidemiological studies. This study evaluated the sensitivity and specificity of nine commercially available serological tests. These included three enzyme-linked immunosorbent assays (ELISAs) and six point-of-care (POC) lateral flow tests. The assays were validated using serum samples from: i) SARS-CoV-2 PCR-positive patients with a documented first day of disease; ii) archived sera obtained from healthy individuals before the emergence of SARS-CoV-2 in China; iii) sera from patients with acute viral respiratory tract infections caused by other coronaviruses or non-coronaviruses; and iv) sera from patients positive for dengue virus, cytomegalovirus and Epstein Barr virus. The results showed 100% specificity for the Wantai SARS-CoV-2 Total Antibody ELISA, 93% for the Euroimmun IgA ELISA, and 96% for the Euroimmun IgG ELISA with sensitivities of 90%, 90%, and 65%, respectively. The overall performance of the POC tests according to manufacturer were in the rank order of AutoBio Diagnostics > Dynamiker Biotechnology = CTK Biotech > Artron Laboratories > Acro Biotech ≥ Hangzhou Alltest Biotech. Overall, these findings will facilitate selection of serological assays for the detection SARS-CoV-2-specific antibodies towards diagnosis as well as sero-epidemiological and vaccine development studies.
 
-    -- exports
-      !a
-      !b
-      !c
-      !d
-      !e
+    # -- exports
+    #   !a
+    #   !b
+    #   !c
+    #   !d
+    #   !e
 
     / April, 2020 - medRxiv
     let !a self assert = In the present study, three SARS-CoV-2-specific commercial ELISA assays and six POC rapid tests were evaluated using sera from hospitalized adult patients with PCR-confirmed diagnoses for SARS-CoV-2 and a collection of control serum samples taken before the emergence of the virus in China in December 2019. Overall, the Wantai Total Ab ELISA had superior sensitivity and specificity compared to both Euroimmun IgA and IgG ELISAs. The POC tests varied notably, with the best performance observed for the test produced by AutoBio Diagnostics, followed by the tests produced by Dynamiker Biotechnology and CTK Biotech.
@@ -3274,7 +3277,10 @@ feed April2020
   // SARS‐CoV‐2 Seroconversion in Humans: A Detailed Protocol for a Serological Assay, Antigen Production, and Test Setup
   doi: https://doi.org/10.1002/cpmc.100
   article 'Stadlbauer_et_al_2020
-    head = Here we describe adetailed protocol for expression of antigens derived from the spike protein of SARS-CoV-2 that can serve as a substrate for immunological assays, as well asa two-stage serological enzyme-linked immunosorbent assay (ELISA). These assays can be used for research studies and for testing in clinical laboratories.
+    head = We describe adetailed protocol for expression of antigens derived from the spike protein of SARS-CoV-2 that can serve as a substrate for immunological assays, as well asa two-stage serological enzyme-linked immunosorbent assay (ELISA). These assays can be used for research studies and for testing in clinical laboratories.
+
+    >>> Abstract
+      In late 2019, cases of atypical pneumonia were detected in China. The etiological agent was quickly identified as a betacoronavirus (named SARS‐CoV‐2), which has since caused a pandemic. Several methods allowing for the specific detection of viral nucleic acids have been established, but these only allow detection of the virus during a short period of time, generally during acute infection. Serological assays are urgently needed to conduct serosurveys, to understand the antibody responses mounted in response to the virus, and to identify individuals who are potentially immune to re‐infection. Here we describe a detailed protocol for expression of antigens derived from the spike protein of SARS‐CoV‐2 that can serve as a substrate for immunological assays, as well as a two‐stage serological enzyme‐linked immunosorbent assay (ELISA).
 
     -- exports
       !a

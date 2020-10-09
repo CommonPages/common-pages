@@ -334,7 +334,7 @@ subject module Remediation
 
             / Hydroxychloroquine as Phrophylactic
             subject HcqProphylactic
-              head =
+              head = So far, Randomised trial suggests prophylaxis with hydroxychloroquine did not significantly reduce laboratory-confirmed Covid-19 or Covid-19-compatible illness.
 
               >>>
                 The possible chemoprophylactic (preventing COVID-19) role of Chloroquine and Hydroxychloroquine should be considered and tested.
@@ -352,6 +352,11 @@ subject module Remediation
               --
                 'Boulware_et_al_08_06_2020
                 'Mitja_et_al_07_26_2020
+                'Rajasingham_et_al_09_21_2020
+              >>>
+                While this meta analysis of randomised trial shows reduction on infection, hospitalization and death
+              --
+                'Ladapo_et_al_09_30_2020  
               >>>
                 Warning against unsupervised usage as Prophylaxis
               --

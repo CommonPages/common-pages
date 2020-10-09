@@ -17,10 +17,13 @@ subject module Virus
       'Phan_et_al_2020b
       'Paraskevis_et_al_2020
       'Dorp_et_al_06_30_2020
+    --
+      'Giorgio_et_al_04_27_2020
     -- D614G mutation
       'Dorp_et_al_06_30_2020.!h
       'Zhang_et_al_06_12_2020
       'Tang_et_al_05_24_2020
+      'Bhattacharyya_et_al_2020
     >>>
       In July 2020, scientists report that a more infectious SARS-CoV-2 variant with spike protein variant G614 has replaced D614 as the dominant form in the pandemic
     -- G614
@@ -150,6 +153,7 @@ subject module Virus
     subject ViralLoad
       head = Highest viral load in throat swabs at the time of symptom onset, and inferred that infectiousness peaked on or before symptom onset.
       --
+        'Benefield_et_al_09_30_2020
         'Liu_et_al_2020c
         'Joynt_et_al_2020.!a
         'Zou_et_al_2020
@@ -164,6 +168,7 @@ subject module Virus
         'Kim_et_al_2020b.!d
         'Pan_et_al_2020b
 
+
     / Viral Shedding
     subject ViralShedding
       head = Based on studies SARS-CoV-2 can actively replicate in upper respiratory tract, and is shed for a prolonged time after symptoms end, including in stool.
@@ -177,6 +182,7 @@ subject module Virus
         'Yang_et_al_2020
         'Xu_et_al_2020b
         'Liu_et_al_2020c
+        'Benefield_et_al_09_30_2020
 
       >>>
         Some studies have found that SARS-CoV-2 can be present in Semen and Feces

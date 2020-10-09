@@ -114,6 +114,28 @@ feed May2020
     'Hosier_et_al_2020
 
   #
+
+  # VitaminD
+  // The Possible Role of Vitamin D in Suppressing Cytokine Storm and Associated Mortality in COVID-19 Patients
+  doi: https://doi.org/10.1101/2020.04.08.20058578
+  ref 'Daneshkhah_et_al_05_18_2020
+    head = C-Reactive Protein (CRP) is a surrogate marker for cytokine storm and is associated with Vit D deficiency, based on retrospective data and indirect evidence we see a possible role of Vit D in reducing complications attributed to unregulated inflammation and cytokine storm.
+
+    >>> Objectives
+      To investigate the possible role of Vitamin D (Vit D) deficiency via unregulated inflammation in COVID-19 complications and associated mortality.
+    >>> Design
+      The time-adjusted case mortality ratio (T-CMR) was estimated as the number of deceased patients on day N divided by the number of confirmed cases on day N-8. The adaptive average of T-CMR (A-CMR) was further calculated as a metric of COVID-19 associated mortality in different countries. A model based on positivity change (PC) and an estimated prevalence of COVID-19 was developed to determine countries with similar screening strategies. Mean concentration of 25-hydroxyvitamin D (25(OH)D) in elderly individuals in countries with similar screening strategies were compared to investigate the potential impact of Vit D on A-CMR. We analyzed data showing a possible association between high C-Reactive Protein (CRP) concentration (CRP greater than or equal to 1 mg/dL) and severe COVID-19. We estimated a link between Vit D status and high CRP in healthy subjects (CRP greater than or equal to 0.2 mg/dL) with an adjustment for age and income to explore the possible role of Vit D in reducing complications attributed to unregulated inflammation and cytokine production. Data Sources Daily admission, recovery, and deceased rate data for patients with COVID-19 were collected from Kaggle as of April 20, 2020. Screening data were collected from Our World in Data and official statements from public authorities. The mean concentration of 25(OH)D among the elderly for comparison with A-CMR was collected from previously published studies from different countries. Chronic factor data used in regression analysis was obtained from published articles. The correlation between Vit D and CRP was calculated based on 9,212 subject-level data from NHANES, 2009-2010.
+    >>> Results
+      A link between 25(OH)D and A-CMR in the US, France, Iran and the UK (countries with similar screening status) may exist. We observed an inverse correlation (correlation coefficient ranging from -0.84 to -1) between high CRP and 25(OH)D. Age and the family income status also correlated to high CRP and subjects with higher age and lower family income presented more incidences of high CRP. Our analysis determined a possible link between high CRP and Vit D deficiency and calculated an OR of 1.8 with 95%CI (1.2 to 2.6) among the elderly (age greater than or equal to 60 yo) in low-income families and an OR of 1.9 with 95%CI (1.4 to 2.7) among the elderly (age greater than or equal to 60 yo) in high-income families. COVID-19 patient-level data shows a notable OR of 3.4 with 95%CI (2.15 to 5.4) for high CRP in severe COVID-19 patients.
+    >>> Conclusion
+      Given that CRP is a surrogate marker for cytokine storm and is associated with Vit D deficiency, based on retrospective data and indirect evidence we see a possible role of Vit D in reducing complications attributed to unregulated inflammation and cytokine storm. Further research is needed to account for other factors through direct measurement of Vit D levels in COVID-19 patients.
+
+
+
+    / May, 2020 - medRxiv
+    let !a self assert =
+
+  # Face Shield
   // Efficacy of slit lamp breath shields
   doi: https://doi.org/10.1038/s41433-020-0940-y
   ref 'Poostchi_et_al_05_12_2020
@@ -1227,7 +1249,7 @@ feed May2020
   // Clinical and pathological investigation of patients with severe COVID-19
   doi: https://doi.org/10.1172/jci.insight.138070
   ref 'Li_et_al_05_19_2020b
-    head =  Clinically, a panel of laboratory parameters, including dynamic cytokines, could be predictors of disease deterioration, and targeting cytokine intervention, such as with tocilizumab, might be an alternative option for severe COVID-19 cases. Pathologically, severe pulmonary damage was predominantly attributed to both cytopathy caused by SARS-CoV-2 and immunopathologic damage. Therefore, strategies targeting pulmonary recruitment and abnormal activation of mononuclear cells/macrophages and neutrophils through suppression of the inflammatory storm might improve the outcomes of patients with severe COVID-19.
+    head =  A panel of circulating cytokines could be used to predict disease deterioration and inform clinical interventions. Severe pulmonary damage was predominantly attributed to both cytopathy caused by SARS-CoV-2 and immunopathologic damage. Strategies that prohibit pulmonary recruitment and overactivation of inflammatory cells by suppressing cytokine storm might improve the outcomes of patients with severe COVID-19.
 
     >>> BACKGROUND
       Coronavirus disease 2019 (COVID-19), caused by severe acute respiratory coronavirus 2 (SARS-CoV-2), has become a pandemic. This study addresses the clinical and immunopathological characteristics of severe COVID-19.
@@ -1241,16 +1263,16 @@ feed May2020
     >>> CONCLUSIONS
       A panel of circulating cytokines could be used to predict disease deterioration and inform clinical interventions. Severe pulmonary damage was predominantly attributed to both cytopathy caused by SARS-CoV-2 and immunopathologic damage. Strategies that prohibit pulmonary recruitment and overactivation of inflammatory cells by suppressing cytokine storm might improve the outcomes of patients with severe COVID-19.
 
-    -- exports
-       !a
-       !b
-       !c
-       !d
-       !e
-       !f
-       !g
-       !h
-       !i
+    # -- exports
+    #    !a
+    #    !b
+    #    !c
+    #    !d
+    #    !e
+    #    !f
+    #    !g
+    #    !h
+    #    !i
 
     / May, 2020 - JCI Insight
     let !a self assert =  As a lung tropic virus, SARS-CoV-2 infection in type II and type I alveolar epithelial cells, as well as endothelial cells in small blood vessels, was illustrated by both TEM and in situ hybridization as leading to lung damage and cell death patterns of pyroptosis and apoptosis. The underlying mechanisms of cytokine storm and lung damage involved the exhaustion of CD4+ and CD8+ T cells, followed by massive infiltration of macrophages and neutrophils into lung tissues, causing the dysregulation of proinflammatory cytokines and chemokines.
@@ -1475,7 +1497,8 @@ feed May2020
   // Estimating the Global Infection Fatality Rate of COVID-19
   doi: https://doi.org/10.1101/2020.05.11.20098780
   article 'Grewelle_et_al_05_18_2020
-    head = The aim of this study was to provide a reliable metric that enables a robust estimate of the global IFR capturing a wide range of variation without accounting for underlying variability that is necessary to give point estimates of the IFR in each locality. Though we provide the first measurement, the estimate of a global IFR of 1.04% is dynamic and can be updated with incoming. Proper control measures and testing can minimize infection spikes to levels that hospitals can manage, reducing the IFR data.
+    head = Estimates of COVID-19 IFR in each country or locality differ due to variable sampling regimes, demographics, and healthcare resources. We present a novel statistical approach based on sampling effort and the reported case fatality rate of each country. Our estimated IFR aligns with many previous estimates and is the first attempt at a global estimate of COVID-19 IFR.
+
     >>> Abstract
       COVID-19 has become a global pandemic, resulting in nearly three hundred thousand deaths distributed heterogeneously across countries. Estimating the infection fatality rate (IFR) has been elusive due to the presence of asymptomatic or mildly symptomatic infections and lack of testing capacity. We analyze global data to derive the IFR of COVID-19. Estimates of COVID-19 IFR in each country or locality differ due to variable sampling regimes, demographics, and healthcare resources. We present a novel statistical approach based on sampling effort and the reported case fatality rate of each country. The asymptote of this function gives the global IFR. Applying this asymptotic estimator to cumulative COVID-19 data from 139 countries reveals a global IFR of 1.04% (CI: 0.77%,1.38%). Deviation of countries' reported CFR from the estimator does not correlate with demography or per capita GDP, suggesting variation is due to differing testing regimes or reporting guidelines by country. Estimates of IFR through seroprevalence studies and point estimates from case studies or sub-sampled populations are limited by sample coverage and cannot inform a global IFR, as mortality is known to vary dramatically by age and treatment availability. Our estimated IFR aligns with many previous estimates and is the first attempt at a global estimate of COVID-19 IFR.
 
@@ -1655,7 +1678,7 @@ feed May2020
 
   # DOI IS NOT WORKING, Diagnostics
   // Interpreting a covid-19 test result
-  doi: https://doi.org/10.1136/bmj.m1808
+  doi: https://www.bmj.com/content/369/bmj.m1808
   article 'Watson_et_al_05_12_2020
     head = Interpreting the result of a test for covid-19 depends on two things: the accuracy of the test, and the pre-test probability or estimated risk of disease before testing. A positive RT-PCR test for covid-19 test has more weight than a negative test because of the test’s high specificity but moderate sensitivity. A single negative covid-19 test should not be used as a rule-out in patients with strongly suggestive symptoms. Clinicians should share information with patients about the accuracy of covid-19 tests
 
@@ -2103,8 +2126,7 @@ feed May2020
   // An inflammatory cytokine signature helps predict COVID-19 severity and death
   doi: https://doi.org/10.1101/2020.05.28.20115758
   article 'DelValle_et_al_05_30_2020
-    head = COVID-19 is associated with high levels of all four (IL-6, IL-8, TNF-α, and IL-1β) cytokines at presentation. Our observations indicate that cytokine patterns are predictive of COVID-19 survival and mortality, independently of demographics, comorbidities, but also of standard clinical biomarkers of diseases severity, including laboratory and clinical factors.
-
+    head =  Cytokine patterns are predictive of COVID-19 survival and mortality, independently of demographics, comorbidities, but also of standard clinical biomarkers of diseases severity, including laboratory and clinical factors. IL-6 and TNF-a levels should be considered in the management and treatment of COVID-19 patients. Patients with high IL-6 and TNF-a levels should be assessed for combinatorial blockade of pathogenic inflammation in this disease.
 
     >>> Abstract
       The COVID-19 pandemic caused by infection with Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) has led to more than 100,000 deaths in the United States. Several studies have revealed that the hyper-inflammatory response induced by SARS-CoV-2 is a major cause of disease severity and death in infected patients. However, predictive biomarkers of pathogenic inflammation to help guide targetable immune pathways are critically lacking. We implemented a rapid multiplex cytokine assay to measure serum IL-6, IL-8, TNF-α, and IL-1β in hospitalized COVID-19 patients upon admission to the Mount Sinai Health System in New York. Patients (n=1484) were followed up to 41 days (median 8 days) and clinical information, laboratory test results and patient outcomes were collected. In 244 patients, cytokine measurements were repeated over time, and effect of drugs could be assessed. Kaplan-Meier methods were used to compare survival by cytokine strata, followed by Cox regression models to evaluate the independent predictive value of baseline cytokines. We found that high serum IL-6, IL-8, and TNF-α levels at the time of hospitalization were strong and independent predictors of patient survival. Importantly, when adjusting for disease severity score, common laboratory inflammation markers, hypoxia and other vitals, demographics, and a range of comorbidities, IL-6 and TNF-α serum levels remained independent and significant predictors of disease severity and death. We propose that serum IL-6 and TNF-α levels should be considered in the management and treatment of COVID-19 patients to stratify prospective clinical trials, guide resource allocation and inform therapeutic options. We also propose that patients with high IL-6 and TNF-α levels should be assessed for combinatorial blockade of pathogenic inflammation in this disease.
@@ -2298,7 +2320,7 @@ feed May2020
     let !b self assert = Cumulative incidence was higher among males than females, with males comprising 50.3% of adult infections.
 
     / May, 2020 - MedRxiv
-    let !c self assert = This differed significantly by race and ethnicity, with Hispanic/Latino (29.2%) non-Hispanic black/African American (20.2%), and non-Hispanic Asian (12.4%) adults having higher cumulative incidence than non-Hispanic white adults (8.1%). Given these differences, Hispanics comprised the plurality (36.6%) of infection experienced adults.
+    let !c self assert = Cumulative incidence was higher among Hispanic/Latino (29.2%, 95% CI: 27.2-31.2%), non-Hispanic black/African American (20.2% 95% CI, 18.1-22.3%), and non-Hispanic Asian (12.4%, 95% CI: 9.4-15.4%) adults than non-Hispanic white adults (8.1%, 95% CI: 7.4-8.7%, p<.0001).
 
     / May, 2020 - MedRxiv
     let !d self assert = Significant differences were also observed by age, ranging from highest levels among persons 45-54 years old (16.0%) to lowest among persons ≥55 years (12.1%).
@@ -2492,15 +2514,15 @@ feed May2020
   // Targets of T Cell Responses to SARS-CoV-2 Coronavirus in Humans with COVID-19 Disease and Unexposed Individuals
   doi: https://doi.org/10.1016/j.cell.2020.05.015
   article 'Grifoni_et_al_05_04_2020
-    head = Our SARS-CoV-2 data reveal that the pattern of immunodominance in COVID-19 is different. In particular, M, spike, and N proteins were clearly co-dominant, each recognized by 100% of COVID-19 cases studied here.
+    head = We detected SARS-CoV-2-reactive CD4+ T cells in 40%–60% of unexposed individuals, suggesting crossreactive T cell recognition between circulating ‘‘common cold’’ coronaviruses and SARS-CoV-2.
 
     >>> Abstract
       Understanding adaptive immunity to SARS-CoV-2 is important for vaccine development, interpreting coronavirus disease 2019 (COVID-19) pathogenesis, and calibration of pandemic control measures. Using HLA class I and II predicted peptide ‘‘megapools,’’ circulating SARS-CoV-2-specific CD8+ and CD4+ T cells were identified in 70% and 100% of COVID-19 convalescent patients, respectively. CD4+ T cell responses to spike, the main target of most vaccine efforts, were robust and correlated with the magnitude of the antiSARS-CoV-2 IgG and IgA titers. The M, spike, and N proteins each accounted for 11%–27% of the total CD4+ response, with additional responses commonly targeting nsp3, nsp4, ORF3a, and ORF8, among others. For CD8+ T cells, spike and M were recognized, with at least eight SARS-CoV-2 ORFs targeted. Importantly, we detected SARS-CoV-2-reactive CD4+ T cells in 40%–60% of unexposed individuals, suggesting crossreactive T cell recognition between circulating ‘‘common cold’’ coronaviruses and SARS-CoV-2.
 
-    -- exports
-      !a
-      !b
-      !c
+    # -- exports
+    #   !a
+    #   !b
+    #   !c
 
     / June, 2020 - Cell
     let !a self assert = Significant CD4+ T cell responses were also directed against nsp3, nsp4, ORF3s, ORF7a, nsp12, and ORF8. These data suggest that a candidate COVID-19 vaccine consisting only of SARSCoV-2 spike would be capable of eliciting SARS-CoV-2-specific CD4+ T cell responses of similar representation to that of natural COVID-19 disease, but the data also indicate that there are many potential CD4+ T cell targets in SARS-CoV-2, and inclusion of additional SARS-CoV-2 structural antigens such as M and N would better mimic the natural SARS-CoV2-specific CD4+ T cell response observed in mild to moderate COVID-19 disease.
@@ -2676,11 +2698,11 @@ feed May2020
     let !a self assert = In a full suppression scenario in the UK population, we estimated that there would be two excess deaths (vs baseline deaths) with an RR of 1·5, four with an RR of 2·0, and seven with an RR of 3·0. In a mitigation scenario, we estimated 18374 excess deaths with an RR of 1·5, 36 749 with an RR of 2·0, and 73498 with an RR of 3·0. In a do nothing scenario, we estimated 146 996 excess deaths with an RR of 1·5, 293 991 with an RR of 2·0, and 587982 with an RR of 3·0.
 
 
-  # Immune Response
+  # Immune Response - Drug Frontiers
   // Structural basis for translational shutdown and immune evasion by the Nsp1 protein of SARS-CoV-2
   doi: https://doi.org/10.1101/2020.05.18.102467
   article 'Thoms_et_al_05_18_2020
-    head = Our data establish that one of the major immune evasion factors of SARS-CoV-2, Nsp1, efficiently interferes with the cellular translation machinery in order to shut-down the production of host proteins including antiviral defense factors. As the molecular basis we discovered the obstruction of the mRNA entry channel by the C-terminal domain of Nsp1, which employs a highly specific interaction with uS3, uS5 and rRNA helix 18 on the 40S small ribosomal subunit.
+    head = Our data establish that one of the major immune evasion factors of SARS-CoV-2, Nsp1, efficiently interferes with the cellular translation machinery in order to shut-down the production of host proteins including antiviral defense factors. The structural characterization of the inhibitory mechanism of Nsp1 may aid structure-based drug design against SARS-CoV-2.
 
     >>> Abstract
       SARS-CoV-2 is the causative agent of the current COVID-19 pandemic. A major virulence factor of SARS-CoVs is the nonstructural protein 1 (Nsp1) which suppresses host gene expression by ribosome association via an unknown mechanism. Here, we show that Nsp1 from SARS-CoV-2 binds to 40S and 80S ribosomes, resulting in shutdown of capped mRNA translation both in vitro and in cells. Structural analysis by cryo-electron microscopy (cryo-EM) of in vitro reconstituted Nsp1-40S and of native human Nsp1-ribosome complexes revealed that the Nsp1 C-terminus binds to and obstructs the mRNA entry tunnel. Thereby, Nsp1 effectively blocks RIG-I-dependent innate immune responses that would otherwise facilitate clearance of the infection. Thus, the structural characterization of the inhibitory mechanism of Nsp1 may aid structure-based drug design against SARS-CoV-2.
@@ -2859,13 +2881,13 @@ feed May2020
   // A high-throughput neutralizing antibody assay for COVID-19 diagnosis and vaccine evaluation
   doi: https://doi.org/10.1101/2020.05.21.109546
   article 'Muruato_et_al_05_22_2020
-    head = In this study, we developed a rapid fluorescence-based high-throughput assay for COVID-19 serodiagnosis. The reporter virus assay is superior to antigen/antibody binding assays because it measures functional SARS-CoV-2 neutralizing activity in the specimens.
+    head = We report on a fluorescence-based SARS-CoV-2 neutralization assay that detects SARS-CoV-2 neutralizing antibodies in COVID-19 patient specimens and yields comparable results to plaque reduction neutralizing assay, the gold standard of serological testing.
 
     >>> Abstract
       Virus neutralization remains the gold standard for determining antibody efficacy. Therefore, a high-throughput assay to measure SARS-CoV-2 neutralizing antibodies is urgently needed for COVID-19 serodiagnosis, convalescent plasma therapy, and vaccine development. Here we report on a fluorescence-based SARS-CoV-2 neutralization assay that detects SARS-CoV-2 neutralizing antibodies in COVID-19 patient specimens and yields comparable results to plaque reduction neutralizing assay, the gold standard of serological testing. Our approach offers a rapid platform that can be scaled to screen people for antibody protection from COVID-19, a key parameter necessary to safely reopen local communities.
 
-    -- exports
-      !a
+    # -- exports
+    #   !a
 
     / May, 2020 - bioRxiv
     let !a self assert = Compared with the PRNT assay, our reporter neutralization test has shortened the assay turnaround time by several days and increased the testing capacity to high throughput.
@@ -2888,17 +2910,17 @@ feed May2020
   // Deep immune profiling of COVID-19 patients reveals patient heterogeneity and distinct immunotypes with implications for therapeutic interventions
   doi: https://doi.org/10.1101/2020.05.20.106401
   article 'Mathew_et_al_05_23_2020
-    head = Using correlative analyses, we observed relationships between features of the different immunotypes, patient comorbidities, and clinical features of COVID-19 disease. By integrating ∼200 immune features with extensive clinical data, disease severity scores, and temporal changes, we were able to build an integrated computational model that connected patient immune response phenotype to disease severity.
+    head = Integrated analysis of ∼200 immune and >30 clinical features revealed activation of T cell and B cell subsets, but only in some patients. A subgroup of patients had T cell activation characteristic of acute viral infection and plasmablast responses could reach >30% of circulating B cells.
 
     >>> Abstract
       COVID-19 has become a global pandemic. Immune dysregulation has been implicated, but immune responses remain poorly understood. We analyzed 71 COVID-19 patients compared to recovered and healthy subjects using high dimensional cytometry. Integrated analysis of ∼200 immune and >30 clinical features revealed activation of T cell and B cell subsets, but only in some patients. A subgroup of patients had T cell activation characteristic of acute viral infection and plasmablast responses could reach >30% of circulating B cells. However, another subgroup had lymphocyte activation comparable to uninfected subjects. Stable versus dynamic immunological signatures were identified and linked to trajectories of disease severity change. These analyses identified three “immunotypes” associated with poor clinical trajectories versus improving health. These immunotypes may have implications for therapeutics and vaccines.
 
-    -- exports
-      !a
-      !b
-      !c
-      !d
-      !e
+    # -- exports
+    #   !a
+    #   !b
+    #   !c
+    #   !d
+    #   !e
 
     / May, 2020 - bioRxiv
     let !a self assert = A defining feature of COVID-19 disease in hospitalized patients was the heterogeneity of the immune response. Many COVID-19 patients displayed robust CD8 T cell and/or CD4 T cell activation and proliferation, though a considerable subgroup of patients (∼1/3) had no detectable response compared to controls. B cell responses were also heterogeneous and, in some patients, PB responses were >30% of B cells whereas, in other patients, PB were undetectable above controls. These observations suggest multiple ways that COVID-19 disease can manifest immunologically.
@@ -3133,7 +3155,7 @@ feed May2020
   // SARS-CoV-2 infection, clinical features and outcome of COVID-19 in United Kingdom nursing homes
   doi: https://doi.org/10.1101/2020.05.19.20105460
   article 'Graham_et_al_05_16_2020
-    head = An investigation of COVID-19 outbreaks across four nursing homes in central London identified 103 (26%) fatalities among residents over the two-month period spanning the peak of the London COVID-19 epidemic. These deaths represented a more than two-fold increase compared to the same period in the two previous years, with the increase mostly attributable to three of the four homes investigated.
+    head = The SARS-CoV-2 outbreak was associated with a very high mortality rate in residents of nursing homes. Systematic testing of all residents and a representative sample of staff identified high rates of SARS-CoV-2 positivity across the four nursing homes, highlighting a potential for regular screening to prevent future outbreaks.
 
     >>> Objectives: To understand SARS-Co-V-2 infection and transmission in UK nursing homes in order to develop preventive strategies for protecting the frail elderly residents. Design: An outbreak investigation.
     >>> Setting:
@@ -3346,7 +3368,7 @@ feed May2020
   // Different pattern of pre-existing SARS-COV-2 specific T cell immunity in SARS-recovered and uninfected individuals
   doi: https://doi.org/10.1101/2020.05.26.115832
   article 'Bert_et_al_05_27_2020
-    head = We first studied T cell responses to structural (nucleocapsid protein, NP) and non-structural (NSP-7 and NSP13 of ORF1) regions of SARS-CoV-2 in convalescent from COVID-19 (n=24). In all of them we demonstrated the presence of CD4 and CD8 T cells recognizing multiple regions of the NP protein. We then show that SARS-recovered patients (n=23), 17 years after the 2003 outbreak, still possess long-lasting memory T cells reactive to SARS-NP, which displayed robust cross-reactivity to SARS-CoV-2 NP.
+    head = We first studied T cell responses to structural and non-structural regions of SARS-CoV-2 in convalescent from COVID-19. We demonstrated the presence of CD4 and CD8 T cells recognizing multiple regions of the NP protein. We then show that SARS-recovered patients (n=23), 17 years after the 2003 outbreak, still possess long-lasting memory T cells reactive to SARS-NP, which displayed robust cross-reactivity to SARS-CoV-2 NP.
 
     >>> Abstract
       Memory T cells induced by previous infections can influence the course of new viral infections. Little is known about the pattern of SARS-CoV-2 specific pre-existing memory T cells in human. Here, we first studied T cell responses to structural (nucleocapsid protein, NP) and non-structural (NSP-7 and NSP13 of ORF1) regions of SARS-CoV-2 in convalescent from COVID-19 (n=24). In all of them we demonstrated the presence of CD4 and CD8 T cells recognizing multiple regions of the NP protein. We then show that SARS-recovered patients (n=23), 17 years after the 2003 outbreak, still possess long-lasting memory T cells reactive to SARS-NP, which displayed robust cross-reactivity to SARS-CoV-2 NP. Surprisingly, we observed a differential pattern of SARS-CoV-2 specific T cell immunodominance in individuals with no history of SARS, COVID-19 or contact with SARS/COVID-19 patients (n=18). Half of them (9/18) possess T cells targeting the ORF-1 coded proteins NSP7 and 13, which were rarely detected in COVID-19- and SARS-recovered patients. Epitope characterization of NSP7-specific T cells showed recognition of protein fragments with low homology to “common cold” human coronaviruses but conserved among animal betacoranaviruses.
@@ -3536,15 +3558,19 @@ feed May2020
   // Mouse model of SARS-CoV-2 reveals inflammatory role of type I interferon signaling
   doi: https://doi.org/10.1101/2020.05.27.118893
   article 'Goldman-Israelow_et_al_05_27_2020
-    head = We found an acute inflammatory immune response characterized by infiltrating monocytes, macrophages and neutrophils, as well as activated T and NK cells. We also found gene signatures of acute ISG response which clusters most closely with type I interferon response. In addition to the acute inflammatory response, these mice develop rapid SARS-CoV2 S-specific IgG and neutralizing antibodies between 4- and 7- DPI.
+    head = We report the development of a mouse model of SARS-CoV-2 based on adeno associated virus (AAV)-mediated expression of hACE2. These mice support viral replication and antibody production and exhibit pathologic findings found in COVID-19 patients as well as non-human primate models. Type I interferons are unable to control SARS-CoV2 replication and drive pathologic responses.
 
     >>> Abstract
       Severe Acute Respiratory Syndrome- Coronavirus 2 (SARS-Cov-2) has caused over 5,000,000 cases of Coronavirus disease (COVID-19) with significant fatality rate. Due to the urgency of this global pandemic, numerous therapeutic and vaccine trials have begun without customary safety and efficacy studies. Laboratory mice have been the stalwart of these types of studies; however, they do not support infection by SARS-CoV-2 due to the inability of its spike (S) protein to engage the mouse ortholog of its human entry receptor angiotensin-converting enzyme 2 (hACE2). While hACE2 transgenic mice support infection and pathogenesis, these mice are currently limited in availability and are restricted to a single genetic background. Here we report the development of a mouse model of SARS-CoV-2 based on adeno associated virus (AAV)-mediated expression of hACE2. These mice support viral replication and antibody production and exhibit pathologic findings found in COVID-19 patients as well as non-human primate models. Moreover, we show that type I interferons are unable to control SARS-CoV2 replication and drive pathologic responses. Thus, the hACE2-AAV mouse model enables rapid deployment for in-depth analysis following robust SARS-CoV-2 infection with authentic patient-derived virus in mice of diverse genetic backgrounds. This represents a much-needed platform for rapidly testing prophylactic and therapeutic strategies to combat COVID-19.
 
-    -- exports
-      !a
-      !b
-      !c
+    # -- exports
+    #   !a1
+    #   !a
+    #   !b
+    #   !c
+
+    / May, 2020 - bioRxiv
+    let !a1 self assert = We found an acute inflammatory immune response characterized by infiltrating monocytes, macrophages and neutrophils, as well as activated T and NK cells. We also found gene signatures of acute ISG response which clusters most closely with type I interferon response. In addition to the acute inflammatory response, these mice develop rapid SARS-CoV2 S-specific IgG and neutralizing antibodies between 4- and 7- DPI.
 
     / May, 2020 - bioRxiv
     let !a self assert =  While none of the mice exhibited infection-related mortality, this may reflect the immune status of the challenged mice, which were 6-12 weeks old healthy adult mice. Future studies in aged, immunocompromised, and/or obese mice may elicit more dramatic phenotypes, similar to the effect of these comorbidities in human COVID-19 disease.
@@ -4261,7 +4287,7 @@ feed May2020
   // Global Spread of SARS-CoV-2 Subtype with Spike Protein Mutation D614G is Shaped by Human Genomic Variations that Regulate Expression of TMPRSS2 and MX1 Genes
   doi: https://doi.org/10.1101/2020.05.04.075911
   article 'Bhattacharyya_et_al_2020
-    head = We performed analysis on publicly available data of RNA sequences of SARS-Cov-2 isolates to correlate pathogen evolution with disease transmission. We have shown that a particular subtype −A2a − that rose in frequency in East Asia in January 2020, has spread rapidly through the European and North American continents. The spread of A2a has been so explosive, that in 10 weeks (of February and March 2020) over 60% of humans were infected with A2a starting from only 2%. The A2a subtype acquired few mutations during the transmission, even lesser in Europe.
+    head = SARS-CoV-2, particularly the 614G subtype, has spread more easily and with higher frequency to Europe and North America where the delC allele regulating expression of TMPRSS2 and MX1 host proteins is common, but not to East Asia where this allele is rare.
 
     >>> Abstract
       COVID-19 pandemic is a major human tragedy. Worldwide, SARS-CoV-2 has already infected over 3 million and has killed about 230,000 people. SARS-CoV-2 originated in China and, within three months, has evolved to an additional 10 subtypes. One particular subtype with a non-silent (Aspartate to Glycine) mutation at 614th position of the Spike protein (D614G) rapidly outcompeted other preexisting subtypes, including the ancestral. We assessed that D614G mutation generates an additional serine protease (Elastase) cleavage site near the S1-S2 junction of the Spike protein. We also identified that a single nucleotide deletion (delC) at a known variant site (rs35074065) in a cis-eQTL of TMPRSS2, is extremely rare in East Asians but is common in Europeans and North Americans. The delC allele facilitates entry of the 614G subtype into host cells, thus accelerating the spread of 614G subtype in Europe and North America where the delC allele is common. The delC allele at the cis-eQTL locus rs35074065 of TMPRSS2 leads to overexpression of both TMPRSS2 and a nearby gene MX1. The cis-eQTL site, rs35074065 overlaps with a transcription factor binding site of an activator (IRF1) and a repressor (IRF2). IRF1 activator can bind to variant delC allele, but IRF2 repressor fails to bind. Thus, in an individual carrying the delC allele, there is only activation, but no repression. On viral entry, IRF1 mediated upregulation of MX1 leads to neutrophil infiltration and processing of 614G mutated Spike protein by neutrophil Elastase. The simultaneous processing of 614G spike protein by TMPRSS2 and Elastase serine proteases facilitates the entry of the 614G subtype into host cells. Thus, SARS-CoV-2, particularly the 614G subtype, has spread more easily and with higher frequency to Europe and North America where the delC allele regulating expression of TMPRSS2 and MX1 host proteins is common, but not to East Asia where this allele is rare.

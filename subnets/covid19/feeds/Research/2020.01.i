@@ -20,7 +20,7 @@ feed January2020
   // Type III Interferons: Balancing Tissue Tolerance and Resistance to Pathogen Invasion
   doi: https://doi.org/10.1084/jem.20190295
   article 'Broggi_et_al_01_06_2020
-    head = Here, we discuss recent findings that establish the unique capacity of IFN-λ (Type III Interferons) to act at the barriers of the host to balance tissue tolerance and immune resistance against viral and bacterial challenges.
+    head = We discuss recent findings that establish the unique capacity of IFN-λ (Type III Interferons) to act at the barriers of the host to balance tissue tolerance and immune resistance against viral and bacterial challenges.
 
     >>> Abstract
       Type III IFNs, or IFN-λ, are the newest members of the IFN family and were long believed to play roles that were redundant with those of type I IFNs. However, IFN-λ displays unique traits that delineate them as primary protectors of barrier integrity at mucosal sites. This unique role stems both from the restricted expression of IFN-λ receptor, confined to epithelial cells and to a limited pool of immune cells, and from unique immunomodulatory properties of IFN-λ. Here, we discuss recent findings that establish the unique capacity of IFN-λ to act at the barriers of the host to balance tissue tolerance and immune resistance against viral and bacterial challenges.

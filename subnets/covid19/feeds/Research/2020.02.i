@@ -45,6 +45,32 @@ feed February2020
 
   #
 
+  # Diagnostic, Shedding
+  // Evaluating the accuracy of different respiratory specimens in the laboratory diagnosis and monitoring the viral shedding of 2019-nCoV infections
+  doi: https://doi.org/10.1101/2020.02.11.20021493
+  article 'Yang_et_al_2020
+    head = Viral RNAs could be detected in all the lower respiratory tract of severe cases, but not the mild cases. CT scan of three cases showed typical viral pneumonia with ground glass opacity, while no viral RNAs were detected in first three or all the upper respiratory samples. Sputum is most accurate for laboratory diagnosis of NCP, followed by nasal swabs.
+
+    >>> Methods:
+      Respiratory samples including nasal swabs, throat swabs, sputum and bronchoalveolar lavage fluid (BALF) were collected from Guangdong CDC confirmed NCP patients, and viral RNAs were detected using a CFDA approved detection kit. Results were analyzed in combination with sample collection date and clinical information
+    >>> Finding:
+      Except for BALF, the sputum possessed the highest positive rate (74.4%~88.9%), followed by nasal swabs (53.6%~73.3%) for both severe and mild cases during the first 14 days after illness onset (d.a.o). For samples collected ≥ 15 d.a.o, sputum and nasal swabs still possessed a high positive rate ranging from 42.9%~61.1%. The positive rate of throat swabs collected ≥ 8 d.a.o was low, especially in samples from mild cases. Viral RNAs could be detected in all the lower respiratory tract of severe cases, but not the mild cases. CT scan of cases 02, 07 and 13 showed typical viral pneumonia with ground glass opacity, while no viral RNAs were detected in first three or all the upper respiratory samples.
+    >>> Interpretation:
+      Sputum is most accurate for laboratory diagnosis of NCP, followed by nasal swabs. Detection of viral RNAs in BLAF is necessary for diagnosis and monitoring of viruses in severe cases. CT scan could serve as an important make up for the diagnosis of NCP.
+
+    # -- exports
+    #   !a
+    #   !b
+    #   !c
+
+    / Feb, 2020 - medRxiv
+    let !a self assert = The positive rate of throat swab varied in the severe and mild cases. For the severe cases, the positive rates were similar in samples collected 0~7 and 8~14 d.a.o, while low in samples collected ≥ 15 d.a.o. For the mild cases, it showed the highest positive rate in samples collected 0~7 d.a.o, however, very low positive rate in samples collected 8~14 and ≥15 d.a.o. The results indicate that sputum may serve as the most sensitive samples for the virus detection, and followed by nasal swabs.
+
+    / Feb, 2020 - medRxiv
+    let !b self assert = As a result, nasal swabs may be the most widely applicable samples for virus detection. On the contrary, throat swabs were not recommended for the viruses detection, especially the samples collected 8~14 and ≥ 15 d.a.o from mild cases, which may result in a large proportion of false negative results.
+
+    / Feb, 2020 - medRxiv
+    let !c self assert = Although the sample size was small, it also suggests that the viral distribution is associated with diseases severity. More importantly, why the viruses in some individuals retained in the upper respiratory tract merits further elucidation.
 
   # SARS-CoV2 indicate that furin is more dispensable than TMPRSS2 for viral entry, furin
   // Functional assessment of cell entry and receptor usage for SARS-CoV-2 and other lineage B betacoronaviruses
@@ -292,11 +318,11 @@ feed February2020
 
 
 
-  # relapse, testing,
+  # Diagnostic
   // Chest CT for Typical 2019-nCoV Pneumonia: Relationship to Negative RT-PCR Testing
   doi: https://doi.org/10.1148/radiol.2020200343
   article 'Xie_et_al_2020
-    head = All patients presented with characteristic radiologic features of COVID-19 pneumonia from the first CT scan and then were confirmed by positive repeat swab tests during the isolated observation or treatment. A combination of repeated swab tests and CT scanning may be helpful for diagnostic. 
+    head = All patients presented with characteristic radiologic features of COVID-19 pneumonia from the first CT scan and then were confirmed by positive repeat swab tests during the isolated observation or treatment. A combination of repeated swab tests and CT scanning may be helpful for diagnostic.
 
     >>> Abstract
       Some patients with positive chest CT findings may present with negative results of real time reverse-transcription–polymerase chain- reaction (RT-PCR) for 2019 novel coronavirus (2019-nCoV). In this report, we present chest CT findings from five patients with 2019-nCoV infection who had initial negative RT-PCR results. All five patients had typical imaging findings, including ground-glass opacity (GGO) (5 patients) and/or mixed GGO and mixed consolidation (2 patients). After isolation for presumed 2019-nCoV pneumonia, all patients were eventually confirmed with 2019-nCoV infection by repeated swab tests. A combination of repeated swab tests and CT scanning may be helpful when for individuals with high clinical suspicion of nCoV infection but negative RT-PCR screening.
@@ -744,11 +770,11 @@ feed February2020
   article 'Zheng_et_al_2020
     head = The study indicates significantly different clinical features between 2019-nCoV-caused and non-2019-nCoV-caused pneumonia, especially in terms of lymphocytopenia and organ injury. Tissue damage in COVID-19 patients is attributed to virus infection itself rather than uncontrolled inflammatory responses ("cytokine storm").
 
-    -- exports
-      !a
-      !b
-      !c
-      !d
+    # -- exports
+    #   !a
+    #   !b
+    #   !c
+    #   !d
 
     / Feb, 2020 - medRxiv
     let !a self assert = We found that most of the indexes relating to organ injuries were negatively correlated with the number of lymphocytes in 2019-nCoV infected patients but not in non-2019-nCoV-infected pneumonia patients, further highlighting the virus infection – rather than the inflammatory reaction – as the possible cause of the multi-organ injury.

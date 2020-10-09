@@ -4,9 +4,37 @@ feed August2020
     'Boulware_et_al_08_06_2020
 
 
-  #
+  # VitaminD - RCT
+  // Effect of calcifediol treatment and best available therapy versus best available therapy on intensive care unit admission and mortality among patients hospitalized for COVID-19: A pilot randomized clinical study
+  doi: https://dx.doi.org/10.1016%2Fj.jsbmb.2020.105751
+  ref 'Castillo_et_al_08_29_2020
+    head = Administration of a high dose of Calcifediol or 25-hydroxyvitamin D, a main metabolite of vitamin D endocrine system, significantly reduced the need for ICU treatment of patients requiring hospitalization due to proven COVID-19.
 
-  # Why Face Mask, efficacy, model,
+    >>> Objective
+      The vitamin D endocrine system may have a variety of actions on cells and tissues involved in COVID-19 progression especially by decreasing the Acute Respiratory Distress Syndrome. Calcifediol can rapidly increase serum 25OHD concentration. We therefore evaluated the effect of calcifediol treatment, on Intensive Care Unit Admission and Mortality rate among Spanish patients hospitalized for COVID-19.
+
+    >>> Design
+      Parallel pilot randomized open label, double-masked clinical trial.
+
+    >>> Setting
+      University hospital setting (Reina Sofia University Hospital, Córdoba Spain.)
+
+    >>> Participants
+      76 consecutive patients hospitalized with COVID-19 infection, clinical picture of acute respiratory infection, confirmed by a radiographic pattern of viral pneumonia and by a positive SARS-CoV-2 PCR with CURB65 severity scale (recommending hospital admission in case of total score > 1).
+
+    >>>  Procedures
+      All hospitalized patients received as best available therapy the same standard care, (per hospital protocol), of a combination of hydroxychloroquine (400 mg every 12 h on the first day, and 200 mg every 12 h for the following 5 days), azithromycin (500 mg orally for 5 days. Eligible patients were allocated at a 2 calcifediol:1 no calcifediol ratio through electronic randomization on the day of admission to take oral calcifediol (0.532 mg), or not. Patients in the calcifediol treatment group continued with oral calcifediol (0.266 mg) on day 3 and 7, and then weekly until discharge or ICU admission. Outcomes of effectiveness included rate of ICU admission and deaths.
+
+    >>> Results
+      Of 50 patients treated with calcifediol, one required admission to the ICU (2%), while of 26 untreated patients, 13 required admission (50 %) p value X2 Fischer test p < 0.001. Univariate Risk Estimate Odds Ratio for ICU in patients with Calcifediol treatment versus without Calcifediol treatment: 0.02 (95 %CI 0.002−0.17). Multivariate Risk Estimate Odds Ratio for ICU in patients with Calcifediol treatment vs Without Calcifediol treatment ICU (adjusting by Hypertension and T2DM): 0.03 (95 %CI: 0.003-0.25). Of the patients treated with calcifediol, none died, and all were discharged, without complications. The 13 patients not treated with calcifediol, who were not admitted to the ICU, were discharged. Of the 13 patients admitted to the ICU, two died and the remaining 11 were discharged.
+
+    >>> Conclusion
+      Our pilot study demonstrated that administration of a high dose of Calcifediol or 25-hydroxyvitamin D, a main metabolite of vitamin D endocrine system, significantly reduced the need for ICU treatment of patients requiring hospitalization due to proven COVID-19. Calcifediol seems to be able to reduce severity of the disease, but larger trials with groups properly matched will be required to show a definitive answer.
+
+    / August, 2020 - J Steroid Biochem Mol Biol
+    let !a self assert =
+
+  # Why Face Mask
   // Mask or no mask for COVID-19: A public health and market study
   doi: https://doi.org/10.1371/journal.pone.0237691
   ref 'Li_et_al_08_14_2020
@@ -267,7 +295,7 @@ feed August2020
   // A Randomized Trial of Hydroxychloroquine as Postexposure Prophylaxis for Covid-19
   doi: https://doi.org/10.1056/NEJMoa2016638
   article 'Boulware_et_al_08_06_2020
-    head = We conducted a randomized, double-blind, placebo-controlled trial testing hydroxychloroquine as postexposure prophylaxis. After high-risk or moderate-risk exposure to Covid-19, hydroxychloroquine did not prevent illness compatible with Covid-19 or confirmed infection within 4 days after exposure.
+    head = After high-risk or moderate-risk exposure to Covid-19, hydroxychloroquine did not prevent illness compatible with Covid-19 or confirmed infection when used as postexposure prophylaxis within 4 days after exposure. Side effects were more common with hydroxychloroquine than with placebo, but no serious adverse reactions were reported.
 
     >>> BACKGROUND
       Coronavirus disease 2019 (Covid-19) occurs after exposure to severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). For persons who are exposed, the standard of care is observation and quarantine. Whether hydroxychloroquine can prevent symptomatic infection after SARS-CoV-2 exposure is unknown.

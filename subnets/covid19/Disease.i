@@ -15,7 +15,7 @@ subject module Disease
 
   / Asymtomatic & Presymptomatic Phase
   subject AsymptomaticPhase
-    head = A minority of cases do not develop noticeable symptoms at any point in time. These asymptomatic carriers tend not to get tested, and their role in transmission is not fully known.
+    head = A minority of cases do not develop noticeable symptoms at any point in time. Asymtomatic cases can cause transmission and can have high viral load.
     -- Asymtomatic People can cause transmission and can have high viral load
       'Nishiura_et_al_2020
       'Du_et_al_2020
@@ -48,12 +48,15 @@ subject module Disease
       'Zubair_et_al_05_29_2020
       'Chen_et_al_05_19_2020
       'Meinhardt_et_al_06_04_2020
-    -- SARS
-      'Lee_et_al_2003.!d
-      'Lee_et_al_2003.!e
-
-    # Phases of Symptoms to severity
-    --
+    -- Skin Manifestations
+      'Recalcati_et_al_2020
+      'Joob_et_al_2020
+    -- Reports of Symptomatic Cases
+      'Kluytmans_et_al_2020
+      'Chen_et_al_2020d.!c
+    >>>
+      Stages of Covid-19
+    -- Symptomatic Stage
       'Siddiqi_et_al_2020
       'Siddiqi_et_al_2020.!a
       'Siddiqi_et_al_2020.!b
@@ -62,53 +65,132 @@ subject module Disease
       'Siddiqi_et_al_2020.!e
       'Siddiqi_et_al_2020.!f
       'Siddiqi_et_al_2020.!g
-    -- Duration Symptomatic Phase
-      'Sanche_et_al_2020.!b
 
   / Immune Reponse
   subject ImmuneResponse
     head = Clinical Laboratory findings suggest an underline immunopathology. Additionally people with COVID-19 and ARDS have classic serum biomarkers of Cytokine release syndrome.
     >>>
       As of now, Clinical laboratory findings of elevated IL-2, IL-7, IL-6, granulocyte-macrophage colony-stimulating factor (GM-CSF), interferon-γ inducible protein 10 (IP-10), monocyte chemoattractant protein 1 (MCP-1), macrophage inflammatory protein 1-α (MIP-1α), and tumour necrosis factor-α (TNF-α) indicative of cytokine release syndrome (CRS) suggest an underlying immunopathology.  Additionally, people with COVID‑19 and acute respiratory distress syndrome (ARDS) have classical serum biomarkers of CRS, including elevated C-reactive protein (CRP), lactate dehydrogenase (LDH), D-dimer, and ferritin.
+
+    # Source WHO https://www.who.int/docs/default-source/coronaviruse/risk-comms-updates/update-34-immunity-2nd.pdf?sfvrsn=8a488cb6_2
+
+    >>> Innate Immune Reponse
+      Secrete Interferons and other chemicals (Cytokine). Interferons interfere with virus Replication
+
     --
-      'Chen_et_al_2020d
-      'Zheng_et_al_2020b
-      'Goldman-Israelow_et_al_05_27_2020
-      'Braun_et_al_04_22_2020
-      'Bert_et_al_05_27_2020
-      'Grifoni_et_al_05_04_2020
-      'Mudd_et_al_05_15_2020
-      'Mathew_et_al_05_23_2020
-      'Vanderheiden_et_al_05_20_2020
-      'Subbarao_et_al_05_19_2020.!a
-      'Subbarao_et_al_05_19_2020.!b
-      'Subbarao_et_al_05_19_2020.!c
-      'Thoms_et_al_05_18_2020
-      'Merad_et_al_05_06_2020
-      'Melo_et_al_05_15_2020
-      'Takahashi_et_al_06_09_2020
-      'Robbiani_et_al_06_18_2020
-      'Xin-Long_et_al_06_18_2020
-    # T-Cell Response
+      InnateImmuneResponse
+
+    >>> Adaptive Immune Response
+      Specific Response to the infection
+      Starts After 6-8 days
+      T Cell - Celluar Response
+      B Cell - Antibody Response
+
+    >>> T Cell
+      recognize cells that are infected with a specific virus and rapidly increase in number to tackle the infection.
+      - CD8+ cytotoxic T cells kill the cells in which the virus is multiplying and help to slow down or stop the infection.
+      - CD4+ helper T cells bring in other cells of the immune system and stimulate B-Cells to produce antibodies specific to that virus.
+
     --
-      'Nelde_et_al_06_16_2020
+      TCell
+
+    >>> B Cell
+      Produce antibodies that are specific to that virus. IgM antibodies are produced first and disappear after a few weeks. IgG antibodies are produced at the same time or 2-3 days later, and titres (levels) usually remain for months or years.
 
     >>>
-      Affinity maturation is the process by which TFH cell-activated B cells produce antibodies with increased affinity for antigen during the course of an immune response.
-    -- Affinity Maturation
-      'King_et_al_2020
-    # Yet to edit and Rearrange
-    # Study of immune response on other coronaviruses
+      Female patients mounted significantly more robust T cell activation than male patients during SARS-CoV-2 infection, which was sustained in old age.
     --
-      'Chen_et_al_2009
-      'Zhao_et_al_2010
-      'Qian_et_al_11_06_2012
-      'Chan_et_al_2013
-      'Furman_et_al_2015
-      'Xu_et_al_2015
-      'Niwa_et_al_10_15_2018
-      'Okba_et_al_2020.!b
-      'Broggi_et_al_01_06_2020
+      'Takahashi_et_al_06_09_2020
+    >>>
+      Asymptomatic individuals had a weaker immune response to SARS-CoV-2 infection.
+    --
+      'Xin-Long_et_al_06_18_2020
+    -- Cytokine is more common in SARS-CoV-2 than influenza
+      'Mudd_et_al_05_15_2020
+
+    -- Nsp1 interfere with antiviral defense
+      'Thoms_et_al_05_18_2020
+
+    --
+      Interferons
+      MonocytesMacrophages
+      AffinityMaturation
+      FrontiersImmune
+
+    / T Cells
+    subject TCell
+      head =
+      >>>
+        CD4+ & CD8+ T Cells
+      --
+        'Chen_et_al_2020d
+        'Zheng_et_al_2020b
+        'Braun_et_al_04_22_2020
+        'Mathew_et_al_05_23_2020
+      -- Long lasting T-Cell Immunity
+        'Bert_et_al_05_27_2020
+      -- Cross Reactive T-Cell
+        'Grifoni_et_al_05_04_2020
+      -- T-Cell and Cross Reactivity (Prior Immunity)
+        'Lv_et_al_06_02_2020
+        'Nelde_et_al_06_16_2020
+        'Petrova_et_al_02_20_2012
+      -- T-Cell Response on patients
+        'Nelde_et_al_06_16_2020
+
+    / Interferons
+    subject Interferons
+      head =
+      >>>
+        Role of {Interferonone type I} type III Interferon
+      --
+        'Goldman-Israelow_et_al_05_27_2020
+        'Vanderheiden_et_al_05_20_2020
+        'Melo_et_al_05_15_2020
+        'Broggi_et_al_01_06_2020
+
+    / Innate Immune Response
+    subject InnateImmuneResponse
+      head =
+      -- Activation of Innate Immune Response
+        'Subbarao_et_al_05_19_2020.!a
+        'Subbarao_et_al_05_19_2020.!b
+        'Subbarao_et_al_05_19_2020.!c
+
+    / Monocytes and Macrophages
+    subject MonocytesMacrophages
+      head =
+      -- Monocytes and Macrophages
+        'Merad_et_al_05_06_2020
+
+    subject AffinityMaturation
+      head =
+      >>>
+        Affinity maturation is the process by which TFH cell-activated B cells produce antibodies with increased affinity for antigen during the course of an immune response.
+      --
+        'King_et_al_2020
+
+    / Frontiers
+    subject FrontiersImmune
+      head =
+      -- Immune Response to SARS in Mice
+        'Chen_et_al_2009
+        'Chen_et_al_2009.!a
+        'Chen_et_al_2009.!b
+        'Chen_et_al_2009.!c
+        'Chen_et_al_2009.!d
+        'Zhao_et_al_2010
+      -- Innate Immune Response
+        'Qian_et_al_11_06_2012
+
+      -- Immune Reponse to Influenza
+        'Furman_et_al_2015
+      # Why some are Asymtomatic? Sero survey suggest people have cross reactive antibodies
+      -- Cross- Reactive Antibodies
+        'Chan_et_al_2013
+        'Xu_et_al_2015
+      --
+        'Niwa_et_al_10_15_2018
 
   / Complications
   subject module Complications
@@ -121,7 +203,6 @@ subject module Disease
         'Siddiqi_et_al_2020.!d
         'Siddiqi_et_al_2020.!e
         'Zheng_et_al_2020
-        'Zheng_et_al_2020.!b
       -- Lymphopenia
         'Liu_et_al_2020f
 
@@ -133,6 +214,7 @@ subject module Disease
         'Li_et_al_2020b
         'Jiang_et_al_04_27_2020
         'Subbarao_et_al_05_19_2020
+
     / Cardiovascular Dysfunction
     subject CardiacDysfunction
       head = COVID-19 is associated with a number of cardiovascular complications, including myocardial injury and myocarditis, AMI, heart failure, dysrhythmias, and venous thromboembolic events.
@@ -141,17 +223,16 @@ subject module Disease
         'Siddiqi_et_al_2020.!d
         'Siddiqi_et_al_2020.!f
 
-
     / Blood Coagulation
     subject BloodCoagulation
       head = There is growing evidence that COVID-19-infected patients are highly predisposed to developing blood clots, linked blood clotting measurements with actual patient outcomes.
       --
+        'Siddiqi_et_al_2020.!e
         'Yin_et_al_2020
         'Xiong_et_al_2020
         'Giannis_et_al_2020
         'Cui_et_al_2020
         'Tang_et_al_2020
-        'Siddiqi_et_al_2020.!e
         'Ackermann_et_al_05_21_2020
 
     / Endothelial Cell Infection
@@ -320,60 +401,68 @@ subject module Disease
     / Vitamin D
     subject VitaminD
       head = Based on case study reports, Vitamin D status is significantly associated with clinical outcomes.
+
+      >>>
+        Studies suggest vitamin D can improve clinical outcomes of patients infected with COVID 19
       --
         'Alipio_et_al_2020
-        'Alipio_et_al_2020.!a
         'Raharusun_et_al_2020
+      -- Suppressing Cytokine Storm
+        'Daneshkhah_et_al_05_18_2020
+      >>>
+        Randomized Clinical Study
+      --
+        'Castillo_et_al_08_29_2020
 
-      # Frontiers
-      >>>
-        ACE2 is necessary for entry of SARS-CoV-2 but having less ACE2 may increase of disease severity. VitaminD is asscoiated to normalise ACE2 level
       --
-        'Lin_et_al_2016
-        'Xu_et_al_2017
-        'Martineau_et_al_2017
-        'Cui_et_al_2019
-      >>>
-        Based on this study, VitaminD regulated human protien encoding genome
-      --
-        'Wang_et_al_2005b
-      >>>
-        Genetically low plasma vitamin D levels are associated with a higher mortality from respiratory infections
-      --
-        'Afzal_et_al_2018
-        'Jolliffe_et_al_2018
-      >>>
-        VitaminD Deficiency in the US
-      --
-        'Liu_et_al_2018
-      >>>
-        VitaminD supplementation led to reduction of in epigenetic aging in African Americans
-      --
-        'Chen_et_al_2019
-      >>>
-        Obesity is associated with case severity
-      --
-        'Wortsman_et_al_2020
+        VitaminDRationale
+
+      / Rationale
+      subject VitaminDRationale
+        head =  VitaminD is asscoiated to normalise ACE2 level and also protects from lung injury
+        >>>
+          ACE2 is necessary for entry of SARS-CoV-2 but having less ACE2 may increase of disease severity. VitaminD is asscoiated to normalise ACE2 level and also protects from lung injury
+        --
+          'Lin_et_al_2016
+          'Xu_et_al_2017
+          'Martineau_et_al_2017
+          'Cui_et_al_2019
+        >>>
+          Based on this study, VitaminD regulated human protien encoding genome
+        --
+          'Wang_et_al_2005b
+        >>>
+          VitaminD supplementation led to reduction of in epigenetic aging in African Americans
+        --
+          'Chen_et_al_2019
+        >>>
+          Genetically low plasma vitamin D levels are associated with a higher mortality from respiratory infections
+        --
+          'Afzal_et_al_2018
+          'Jolliffe_et_al_2018
+        >>>
+          Obesity is associated with case severity in COVID-19.
+        -- Low VitaminD levels in Obesity
+          'Wortsman_et_al_2020
+        >>>
+          VitaminD Deficiency in the US. Mortality Rate is high in US
+        --
+          'Liu_et_al_2018
+        >>>
+          Vitamin D controls T cell antigen receptor signaling and activation of human T cells
+        --
+          'Essen_et_al_03_07_2010
+
 
     / Genetic Diversity
     subject GeneticDiversity
       head = Variation in the human genome plays a role in that susceptibility. Researchers are doing genome-wide association study to look at lots of variants across the human genome that could put certain individuals at high risk of becoming severely ill from the novel coronavirus.
-      -- Genetic Diversity
+      -- Genetic Susceptibility
         'Ellinghaus_et_al_06_02_2020
-      -- APOE e4 genotype
+      -- APOE e4 genotype increase risk of severe COVID
         'Kuo_et_al_05_26_2020
-      --
-        'Giorgio_et_al_04_27_2020
       -- HLA
         'Nguyen_et_al_2020
-        'Bhattacharyya_et_al_2020
-        'Bhattacharyya_et_al_2020.!a
-        'Bhattacharyya_et_al_2020.!b
-        'Bhattacharyya_et_al_2020.!c
-        'Bhattacharyya_et_al_2020.!d
-        'Bhattacharyya_et_al_2020.!e
-        'Bhattacharyya_et_al_2020.!f
-        'Bhattacharyya_et_al_2020.!g
       -- Genetic Risk
         'Zeberg_et_al_07_03_2020
         'Ellinghaus_et_al_06_17_2020
@@ -489,23 +578,24 @@ subject module Disease
       head = Based on findings, blood type group A have a significantly higher risk for acquiring the coronavirus disease 2019 (COVID-19) compared with non-A blood groups. Additionally, blood group O has a significantly lower risk for the infection compared with non-O blood groups.
       --
         'Zhao_et_al_2020b
-        'Ellinghaus_et_al_06_02_2020.!a
+        'Ellinghaus_et_al_06_17_2020
 
     / Ethnicity
     subject Ethnicity
       head = Case Reports from US shows, a greater proportion of deaths due to COVID-19 have occurred among African Americans. Similar issues affect Native American and Latino communities.
-      --
+      -- Case Reports
         'Williamson_et_al_05_07_2020
-      -- Reports
+      --
         'Rosenberg_et_al_05_29_2020.!c
         'Rosenberg_et_al_05_29_2020.!f
+      -- Higher IL-1b and TNF-a
         'DelValle_et_al_05_30_2020.!f
         'Van-Dorn_et_al_04_18_2020.!a
         'Gaffney_et_al_08_21_2020
 
   / Case Fatality Rate & Mortality Rate
   subject module Fatality
-    head = Observed CFR is higher in some countries than other may be related to three factors: population age, definition of COVID-19 related death and testing strategies. In addition, the delay between testing and mortality in the numbers of early epidemic is a crucial bias.
+    head =
     -- CFR & IFR
       'Wu_et_al_2020
       'Porcheddu_et_al_2020
@@ -520,19 +610,17 @@ subject module Disease
       'Kujawski_et_al_2020.!b
     -- Mortality Rate
       'Hauser_et_al_2020
-      'Modig_et_al_2020
       'Berlin_et_al_2020.!e
       'Arentz_et_al_2020.!h
       'Graham_et_al_05_16_2020
       'Banerjee_et_al_05_12_2020
-      'Banerjee_et_al_05_12_2020.!a
       'Lee_et_al_05_28_2020
       'Richardson_et_al_04_22_2020.!d
       'Richardson_et_al_04_22_2020.!g
       'Richardson_et_al_04_22_2020.!n
-      'Hauser_et_al_2020
-      'Docherty_et_al_2020.!a
 
+    -- Excess Mortality
+      'Modig_et_al_2020
     -- Predicting Mortality and Infection Fatality Rate
       'Yan_et_al_05_14_2020
       'Grewelle_et_al_05_18_2020
@@ -552,7 +640,6 @@ subject module Disease
       -- SARS-CoV2 Antibodies
         'Zhang_et_al_2020g.!a
         'Amanat_et_al_2020
-        'Lv_et_al_06_02_2020
         'Wu_et_al_2020b
         'Jiang_et_al_2020
       -- Immune response differ in gender
@@ -568,6 +655,7 @@ subject module Disease
       >>>
         IgM antibodies to SARS-CoV-2 are generally detectable several days after initial infection, although levels over the course of infection are not well characterized. IgG antibodies generally become detectable 10–14 days after infection, sometimes earlier, and normally peak around 28 days after infection onset.
       -- SARS CoV-2 IgM and IgG
+        'Zhang_et_al_2020g
         'Zhao_et_al_2020
         'Zhao_et_al_2020.!a
         'Zhao_et_al_2020.!b
@@ -600,7 +688,6 @@ subject module Disease
       --
         'Bao_et_al_2020
         'Bao_et_al_2020.!a
-        'Amanat_et_al_2020.!b
         'Jiang_et_al_04_27_2020.!b
 
       >>> At this time, the duration and nature of immunity generated in response to SARS-CoV-2 infection are unknown, and there is no evidence that COVID-19 antibody–positive patients who have recovered from the disease are protected from a second infection.
