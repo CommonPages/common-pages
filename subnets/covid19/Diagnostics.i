@@ -214,3 +214,17 @@ subject module Diagnostics
       'Yuan_et_al_2020.!i
       'Yuan_et_al_2020.!j
       'Yuan_et_al_2020.!k
+
+  # who has covid?
+  subject ActiveInfection
+    head = Biomarkers to detect active covid19 are RNA and antigen. Methods used are PCR, RT-PCR and Antigen testing. CT scan can also be used.
+
+  # who is likely to develop severe covid
+  subject SevereCovid
+    head = There are several indicators of disease progression, such as, measuring elevated temperature, heart rate, shortness of breadth, blood gas content.  Several studies are also investigating range of inflammatory markers in blood, biomarkers and immune features to determine their role in disease severity and risk factors.
+
+  # who is immune to covid?
+  subject SerologyCovid
+
+  # where is covid?
+  subject CommunitywiseTesting
