@@ -3,7 +3,7 @@ subject module Disease
 
   / Incubation Period
   subject IncubationPeriod
-    head =  Incubation period ranges from 1 to 14 days.
+    head = Incubation period ranges from 1 to 14 days.
     -- IncubationPeriod of other Respiratory Viral infection
       'Lessler_et_al_2013
     -- COVID-19

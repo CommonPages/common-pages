@@ -49,3 +49,5 @@ subject module PublicPolicy
     'Kokane_et_al_06_16_2020
   -- A nonrandom distribution of vaccine can be ineffective in a behaviorally homogeneous population eg. religious communities
     'Fine_et_al_2011.!e
+  -- Diagnostic Testing
+    'Vogels_et_al_07_10_2020

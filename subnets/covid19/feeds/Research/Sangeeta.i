@@ -1,6 +1,37 @@
 feed Sangeeta
+  #
+
+
 
   #
+
+  // DUMMY TITLE
+  doi: https://doi.org/xyz
+  ref 'Xiao_et_al_02_20_2020
+    head =
+
+    -- exports
+      !a
+
+    / February, 2020 - bioRxiv
+    let !a self assert =
+
+  #
+
+
+  // DUMMY TITLE
+  doi: https://doi.org/xyz
+  ref 'Xiao_et_al_02_20_2020
+    head =
+
+    -- exports
+      !a
+
+    / February, 2020 - bioRxiv
+    let !a self assert =
+
+  #
+
   // DUMMY TITLE
   doi: https://doi.org/xyz
   ref 'Xiao_et_al_02_20_2020
@@ -24,32 +55,130 @@ feed Sangeeta
     / February, 2020 - bioRxiv
     let !a self assert =
 
-  #
 
-  // DUMMY TITLE
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
+  # PCR, public policy
+  // Analytical sensitivity and efficiency comparisons of SARS-CoV-2 RT–qPCR primer–probe sets
+  doi: https://doi.org/10.1038/s41564-020-0761-6
+  ref 'Vogels_et_al_07_10_2020
+    head = Our study provides a comparison of analytical performance of the primer–probe sets used in four common SARS-CoV-2 diagnostic assays developed by the China CDC, US CDC, Charité and HKU. Our findings show a high similarity in the analytical sensitivities for SARS-CoV-2 detection, which indicates that outcomes of different assays are comparable. The exception for this is the RdRp-SARSr (Charité) confirmatory primer–probe set which has low sensitivity.
+
+    >>> Abstract
+      The recent spread of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) exemplifies the critical need for accurate and rapid diagnostic assays to prompt clinical and public health interventions. Currently, several quantitative reverse transcription–PCR (RT–qPCR) assays are being used by clinical, research and public health laboratories. However, it is currently unclear whether results from different tests are comparable. Our goal was to make independent evaluations of primer–probe sets used in four common SARS-CoV-2 diagnostic assays. From our comparisons of RT–qPCR analytical efficiency and sensitivity, we show that all primer–probe sets can be used to detect SARS-CoV-2 at 500 viral RNA copies per reaction. The exception for this is the RdRp-SARSr (Charité) confirmatory primer–probe set which has low sensitivity, probably due to a mismatch to circulating SARS-CoV-2 in the reverse primer. We did not find evidence for background amplification with pre-COVID-19 samples or recent SARS-CoV-2 evolution decreasing sensitivity. Our recommendation for SARS-CoV-2 diagnostic testing is to select an assay with high sensitivity and that is regionally used, to ease comparability between outcomes.
+
+    -- exports
+      !b
+
+    # / July, 2020 - Nature Microbiology
+    # let !a self assert = Our findings show a high similarity in the analytical sensitivities for SARS-CoV-2 detection, which indicates that outcomes of different assays are comparable. The primary exception to this is the RdRp-SARSr (Charité) primer–probe set, which had the lowest sensitivity, probably stemming from a mismatch in the reverse primer.
+
+    / July, 2020 - Nature Microbiology
+    let !b self assert = In the United States, we recommend using the US CDC SARS-CoV-2 assay because: (1) we found similar analytical sensitivity as compared to the other three assays (China CDC, Charité and HKU); (2) we detected a low rate of inconclusive results with low-virus clinical samples; (3) it includes a human RNase P primer–probe set (RP) that allows for quality control of RNA extraction methods; and (4) its widespread use in the United States makes it easier to compare results. In other regions of the world, however, a different test may be preferable based on existing usage.
+
+
+
+  # Saliva or Nasopharyngeal Swab Specimens
+  // Saliva or Nasopharyngeal Swab Specimens for Detection of SARS-CoV-2
+  doi: https://doi.org/10.1056/NEJMc2016359
+  ref 'Wyllie_et_al_09_24_2020
+    head = Findings suggests saliva specimens and nasopharyngeal swab specimens have at least similar sensitivity in the detection of SARS-CoV-2. We observed less variation in levels of SARS-CoV-2 RNA in the saliva specimens. Collection of saliva samples by patients themselves negates the need for direct interaction between health care workers and patients. Our findings provide support for the potential of saliva specimens in the diagnosis of SARS-CoV-2 infection.
+
+    / September, 2020 - N Engl J Med
+    let !a self assert =
+
+
+  # ct value, asymptomatic, presymptomatic, infectiousness
+  // Duration of infectiousness and correlation with RT-PCR cycle threshold values in cases of COVID-19, England, January to May 2020
+  doi: https://doi.org/10.2807/1560-7917.ES.2020.25.32.2001483
+  ref 'Singanayagam_et_al_08_12_2020
+    head = RT-PCR cycle threshold (Ct) values correlate strongly with cultivable virus. Probability of culturing virus declines to 8% in samples with Ct > 35 and to 6% 10 days after onset; it is similar in asymptomatic and symptomatic persons. Asymptomatic persons represent a source of transmissible virus.
+
+    >>> Abstract
+      Severe acute respiratory syndrome coronavirus 2 viral load in the upper respiratory tract peaks around symptom onset and infectious virus persists for 10 days in mild-to-moderate coronavirus disease (n = 324 samples analysed). RT-PCR cycle threshold (Ct) values correlate strongly with cultivable virus. Probability of culturing virus declines to 8% in samples with Ct > 35 and to 6% 10 days after onset; it is similar in asymptomatic and symptomatic persons. Asymptomatic persons represent a source of transmissible virus.
+
+    -- exports
+      !a
+      !b
+
+    / August, 2020 - Eurosurveillance
+    let !a self assert = Ct values and the presence of infectious virus were similar in samples from asymptomatic and presymptomatic persons, compared with those who were symptomatic, and is one of the first reports of virus isolation from cases who remain completely asymptomatic. The findings suggest that asymptomatic and presymptomatic persons do represent a source of potentially transmissible virus.
+
+    / August, 2020 - Eurosurveillance
+    let !b self assert = This study adds to the evidence base on duration of infectiousness following mild-to-moderate COVID-19, demonstrating that infectious virus can persist for a week or more after symptom onset, declining over time. At 10 days after symptom onset, in line with current guidance from the World Health Organization and the UK on release from isolation, probability of culturing virus declines to 6%.
+
+
+
+  # RT-qPCR, Mass testing
+  // Detection of SARS-CoV-2 RNA by multiplex RT-qPCR ⁦
+  doi: https://doi.org/10.1371/journal.pbio.3000867
+  ref 'Kudo_et_al_10_07_2020
+    head = The cycle threshold (Ct) values of our multiplex RT-qPCR were comparable to those obtained by the single assay adapted for research purposes. Low copy numbers (≥500 copies/reaction) of SARS-CoV-2 RNA were consistently detected. Our novel multiplex RT-qPCR improves upon current single diagnostics by saving reagents, costs, time, and labor.
+
+
+    >>> Abstract
+      The current quantitative reverse transcription PCR (RT-qPCR) assay recommended for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) testing in the United States requires analysis of 3 genomic targets per sample: 2 viral and 1 host. To simplify testing and reduce the volume of required reagents, we devised a multiplex RT-qPCR assay to detect SARS-CoV-2 in a single reaction. We used existing N1, N2, and RP primer and probe sets by the Centers for Disease Control and Prevention, but substituted fluorophores to allow multiplexing of the assay. The cycle threshold (Ct) values of our multiplex RT-qPCR were comparable to those obtained by the single assay adapted for research purposes. Low copy numbers (≥500 copies/reaction) of SARS-CoV-2 RNA were consistently detected by the multiplex RT-qPCR. Our novel multiplex RT-qPCR improves upon current single diagnostics by saving reagents, costs, time, and labor.
 
     -- exports
       !a
 
-    / February, 2020 - bioRxiv
+    / October, 2020 - PLOS Biology
+    let !a self assert = In single RT-qPCR, the CDC N2 primer set has a lower detection capability than the CDC N1 primers [3]. Our multiplex RT-qPCR assay also showed that N1 and N2 primer–probe sets had detection rates of 60% and 25%, respectively, at 50 virus copies per reaction
+
+    # / October, 2020 - PLOS Biology
+    # let !b self assert = While the analytical sensitivity is important to define for a given diagnostic test, very low viral copy numbers are unlikely to reflect infectious viral load.
+
+
+
+  # mitigtion, ct value,
+  // Estimating epidemiologic dynamics from single cross-sectional viral load distributions
+  doi: https://doi.org/10.1101/2020.10.08.20204222
+  ref 'Hay_et_al_10_13_2020
+    head = Our findings suggest that instead of discarding individual Ct values from positive specimens, incorporation of viral loads into public health data streams offers a new approach for real-time resource allocation and assessment of outbreak mitigation strategies, even where repeat incidence data is not available.
+
+
+    >>> Abstract
+      Virologic testing for SARS-CoV-2 has been central to the COVID-19 pandemic response, but interpreting changes in incidence and fraction of positive tests towards understanding the epidemic trajectory is confounded by changes in testing practices. Here, we show that the distribution of viral loads, in the form of Cycle thresholds (Ct), from positive surveillance samples at a single point in time can provide accurate estimation of an epidemic's trajectory, subverting the need for repeated case count measurements which are frequently obscured by changes in testing capacity. We identify a relationship between the population-level cross-sectional distribution of Ct values and the growth rate of the epidemic, demonstrating how the skewness and median of detectable Ct values change purely as a mathematical epidemiologic rule without any change in individual level viral load kinetics or testing. Although at the individual level measurement variation can complicate interpretation of Ct values for clinical use, we show that population-level properties reflect underlying epidemic dynamics. In support of these theoretical findings, we observe a strong relationship between the time-varying effective reproductive number, R(t), and the distribution of Cts among positive surveillance specimens, including median and skewness, measured in Massachusetts over time. We use the observed relationships to derive a novel method that allows accurate inference of epidemic growth rate using the distribution of Ct values observed at a single cross-section in time, which, unlike estimates based on case counts, is less susceptible to biases from delays in test results and from changing testing practices. Our findings suggest that instead of discarding individual Ct values from positive specimens, incorporation of viral loads into public health data streams offers a new approach for real-time resource allocation and assessment of outbreak mitigation strategies, even where repeat incidence data is not available. Ct values or similar viral load data should be regularly reported to public health officials by testing centers and incorporated into monitoring programs.
+
+    / October, 2020 - MedRxiv
     let !a self assert =
 
 
-  #
 
-  // DUMMY TITLE
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
+  # doi not working
+  // A call for diagnostic tests to report viral load
+  doi: https://doi.org/10.1126/science.370.6512.22
+  ref 'Service_et_al_10_02_2020
+    head = Testing centers should report not just whether a person is positive, but also a number known as the cycle threshold (CT) value, which indicates how much virus an infected person harbors.
 
     -- exports
-      !a
+      !b
+      !c
+      !d
+      !e
+      !g
 
-    / February, 2020 - bioRxiv
-    let !a self assert =
+    # / October, 2020 - Science
+    # let !a self assert = CT values could help doctors flag patients at high risk for serious disease. Recent findings also suggest the numbers could help officials determine who is infectious and should therefore be isolated and have their contacts tracked down.
+
+    / October, 2020 - Science
+    let !b self assert = But the same sample can give different CT values on different testing machines, and different swabs from the same person can give different results.
+
+    / October, 2020 - Science
+    let !c self assert = Early studies showed that patients in the first days of infection have CT values below 30, and often below 20, indicating a high level of virus; as the body clears the coronavirus, CT values rise gradually. More recent studies have shown that a higher viral load can profoundly impact a person's contagiousness and reflect the severity of disease.
+
+    / October, 2020 - Science
+    let !d self assert = In a study published this week in Clinical Infectious Diseases, researchers led by Bernard La Scola, examined 3790 positive samples with known CT values to see whether they harbored viable virus, indicating the patients were likely infectious. La Scola and his colleagues found that 70% of samples with CT values of 25 or below could be cultured, compared with less than 3% of the cases with CT values above 35.
+
+    / October, 2020 - Science
+    let !e self assert = Conversely, people often test positive for weeks or even months after they recover but have high CT values, suggesting the PCR has identified genetic material from noninfectious viral debris.
+
+    / October, 2020 - Science
+    let !f self assert = Broad access to CT values could also help epidemiologists track outbreaks. If researchers see many low CT values, they could conclude an outbreak is expanding. But if nearly all CT values are high, an outbreak is likely waning.
+
+    / October, 2020 - Science
+    let !g self assert = CT values could also help clinicians flag patients most at risk for severe disease and death. A report in June from researchers at Weill Cornell Medicine found that among 678 hospitalized patients, 35% of those with a CT value of 25 or less died, compared with 17.6% with a CT value of 25 to 30 and 6.2% with a CT value above 30. In August, researchers in Brazil found that among 875 patients, those with a CT value of 25 or below were more likely to have severe disease or die.
+
+    # / October, 2020 - Science
+    # let !h self assert = A high viral load doesn't necessarily lead to disease; some 40% of people who contract SARS-CoV-2 stay healthy even though they have a similar amount of virus to patients who fall ill.
 
   #
   // Neutralizing antibody responses to SARS-CoV-2 in a COVID-19 recovered patient cohort and their implications

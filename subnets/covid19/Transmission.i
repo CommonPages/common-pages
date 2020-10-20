@@ -630,7 +630,6 @@ subject module Transmission
                 'Zhao_et_al_06_03_2020
               subject Bus
                 --
-                  'Park_et_al_04_23_2020
                   'Zheng_et_al_03_14_2020
                   'Luoma_et_al_07_07_2008
                   'Tariq_et_al_02_20_2020
@@ -1231,6 +1230,7 @@ subject module Transmission
           'Yu_et_al_02_18_2020
           'Arons_et_al_03_28_2020
           'Tong_et_al_03_09_2020
+          'Singanayagam_et_al_08_12_2020.!a
         -- During Incubation
           'Yang_et_al_03_08_2020
           'Yu_et_al_02_18_2020
@@ -1242,6 +1242,7 @@ subject module Transmission
           'He_et_al_2020.!a
           'Danis_et_al_04_11_2020
           'Liu_et_al_2020
+          'Singanayagam_et_al_08_12_2020
         -- Reports
           'Qian_et_al_03_23_2020
           'Zhang_et_al_03_27_2020
@@ -1275,7 +1276,7 @@ subject module Transmission
         'Andrade_et_al_11_02_2017
 
       -- Ayush Edits from Past paper (Unsorted)
-        'Colman_et_al_2018  
+        'Colman_et_al_2018
 
     / Superspreader
     subject Superspreaders
