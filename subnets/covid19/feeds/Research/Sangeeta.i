@@ -35,7 +35,7 @@ feed Sangeeta
   // DUMMY TITLE
   doi: https://doi.org/xyz
   ref 'Xiao_et_al_02_20_2020
-    head =
+    head = 
 
     -- exports
       !a
@@ -44,15 +44,16 @@ feed Sangeeta
     let !a self assert =
 
   #
-  // DUMMY TITLE
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
+  // Sensitivity of Nasopharyngeal, Nasal and Throat Swab for the Detection of SARS-CoV-2
+  doi: https://doi.org/10.1101/2020.05.05.20084889
+  ref 'Berenger_et_al_05_08_2020
+    head = The sensitivity of nasal swabs is somewhat inferior to NP or throat swabs whereas throat and NP swabs have comparable sensitivity. This finding was despite the Ct value being higher in throat swabs compared to NP swabs. Consequently, when NP swabs are not available, throat swabs are a preferable alternative to nasal swabs for COVID-19 testing.
 
-    -- exports
-      !a
+    >>> Abstract
+      Nasopharyngeal (NP), nasal and throat swabs are the most practical specimen sources to test for upper respiratory pathogens. We compared the sensitivity of NP, nasal and throat swabs to detect SARS-CoV-2 in community patients. Using detection at any site as the standard, the sensitivities were 90%, 80% and 87% for NP, nasal and throat respectively (n=30 positive at any site). Throat swabs are likely a suitable alternative to NP swabs for the detection of COVID-19 infections.
 
-    / February, 2020 - bioRxiv
+
+    / May, 2020 - medRxiv
     let !a self assert =
 
 

@@ -110,7 +110,7 @@ subject module Diagnostics
 
       / RNA Detection through PCR
       subject RT-PCR
-        head =
+        head = PCR and RT-PCR can achieve more sensitive detection and higher levels of amplification of specific sequences in less time. These features make the technique extremely useful, not only in basic research, but also in commercial uses.
         -- PCR and RT-PCR
           'Weissleder_et_al_06_03_2020
           'Wölfel_et_al_2020
@@ -125,15 +125,11 @@ subject module Diagnostics
           'Huang_et_al_2017
           'Beckmann_et_al_2016
           'Chut_et_al_2011
-        # Narrative paper
-        --
-          'Woloshin_et_al_06_05_2020
-          'Woloshin_et_al_06_05_2020.!b
-          'Woloshin_et_al_06_05_2020.!c
+
 
       / Limitations of PCR
       subject LimitationsPCR
-        head =
+        head = The inability to differentiate between infective and non-infective (dead or antibody-neutralised) viruses remains a major limitation of nucleic acid detection. There has been several reporting of false negative diagnosis of Covid19 via PCR and RT-PCR.
         -- Limitations of PCR and RT-PCR
           'Joynt_et_al_2020
           'Joynt_et_al_2020.!b
@@ -142,14 +138,14 @@ subject module Diagnostics
           'Joynt_et_al_2020.!e
           'Tom_et_al_2020.!e
           'Sethuraman_et_al_05_06_2020.!b
+          'Woloshin_et_al_06_05_2020
         -- CT more sensitive than PCR
           'Fang_et_al_2020
-        -- PCR Assays Turned Positive from negative
+        -- Reports of PCR Assays Turned Positive from negative
           'Yuan_et_al_2020
           'Lan_et_al_2020
         --
           'Weissleder_et_al_06_03_2020.!n
-
         >>>
           Conversely, people often test positive for weeks or even months after they recover but have high CT values, suggesting the PCR has identified genetic material from noninfectious viral debris. Current guidelines from the Centers for Disease Control and Prevention and World Health Organization, which call for patients to isolate themselves for 10 days after onset of symptoms, recognize they are not likely to be infectious after that period.
         -- Prolonged shedding give positive pcr despite being cured
@@ -198,13 +194,11 @@ subject module Diagnostics
 
       / Swab collection for RNA extraction
       subject Swabcollection
-        head =
+        head = Samples for diagnostic tests for SARS-CoV-2 can be taken from the upper nasopharyngeal/oropharyngeal swabs, nasal swab or saliva). Data comparing the accuracy of RT-PCR testing suggest that test sensitivity may vary by type of specimen.
 
         / Saliva collection
         subject Saliva
-          head =
-          >>>
-            Saliva testing may be a suitable alternative first-line screening test in several environments, including low resource settings, with NPS reserved for patients with an ongoing high clinical index of suspicion. These findings are highly relevant in the face of shortages of both swabs and personal protective equipment in many settings.
+          head = Saliva testing may be a suitable alternative first-line screening test in several environments, including low resource settings, with NPS reserved for patients with an ongoing high clinical index of suspicion. These findings are highly relevant in the face of shortages of both swabs and personal protective equipment in many settings.
           -- Use of Saliva as detection
             'Wyllie_et_al_2020
             'Williams_et_al_2020
@@ -213,9 +207,17 @@ subject module Diagnostics
 
         / Nasal swab
         subject Nasalswab
+          head = Nasal swabs are also practical specimen sources to test for SARS-CoV2.
+          --
+            'Berenger_et_al_05_08_2020
+            'Yang_et_al_2020
 
         / Nasopharyngeal swab
         subject Nasopharyngeal
+          head = Nasopharyngeal (NP) are the most practical specimen sources to test for SARS-CoV2.
+          --
+            'Berenger_et_al_05_08_2020
+            'Wölfel_et_al_2020
 
     / CT Scan
     subject CT
@@ -232,6 +234,9 @@ subject module Diagnostics
 
     / Antigen
     subject Antigen
+      head = Antigen test detects presence of viral protien and return positive result when person is most infectious.
+      --
+        'Weissleder_et_al_06_03_2020
 
   / Disease Suspectibility
   subject DiseaseSuspectibility
@@ -312,7 +317,6 @@ subject module Diagnostics
     --
       Methods.CT
 
-
   # who is immune to covid? Have I had infection in the past?
   / Potential Immunity
   subject PotentialImmunity
@@ -355,6 +359,7 @@ subject module Diagnostics
 
     / Seroprevalence
     subject Seroprevalence
+      head = Seroprevalance survey uses antibody test to estimate percentage of people in a population who have antibodies against SARS-CoV2. This can tell how many people in a specific population may have been previously infected with SARS-CoV2.
       -- Seroprevalence
         'Thompson_et_al_2020
       -- Seroprevalence study in France, Switzerland and China
