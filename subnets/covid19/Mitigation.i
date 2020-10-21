@@ -28,7 +28,7 @@ subject module Mitigation
         'Seto_et_al_2003.!c
         'Seto_et_al_2003.!d
         'Seto_et_al_2003.!e
-      -- surgical facemasks could prevent transmission
+      -- Surgical facemasks could prevent transmission
         'Leung_et_al_2020
       -- importance of wearing facemasks regardless of symptoms
         'Jing_et_al_2020.!k1
@@ -46,7 +46,7 @@ subject module Mitigation
         'Hendrix_et_al_07_14_2020
       -- Efficiency of Cloth Mask
         'Konda_et_al_06_18_2020
-      -- decontamination methods for N95 Respirators: Humidity and deposition solution play a critical role in virus inactivation
+      -- Decontamination methods for N95 Respirators: Humidity and deposition solution play a critical role in virus inactivation
         'Rockey_et_al_06_23_2020
         'Ou_et_al_06_04_2020
       -- Gloves

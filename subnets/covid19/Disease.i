@@ -322,7 +322,7 @@ subject module Disease
     subject Gender
       head = Men are at higher risk of developing severe COVID-19 disease.
       # Some research have investigated the difference might be due to the immune response.
-      --
+      -- Reports 
         'Chen_et_al_2020d.!a
         'Chen_et_al_2020c
         'Chen_et_al_2020c.!c
