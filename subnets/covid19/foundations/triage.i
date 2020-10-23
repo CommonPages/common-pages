@@ -82,3 +82,8 @@ index: hide
   / Human leukocyte antigen (HLA)
   model HLA
     head = The human leukocyte antigen (HLA) system or complex is a group of related proteins that are encoded by the major histocompatibility complex (MHC) gene complex in humans. These cell-surface proteins are responsible for the regulation of the immune system.
+
+  link: https://www.sciencedirect.com/topics/immunology-and-microbiology/virus-genome#:~:text=Viral%20genomes%20consist%20of%20DNA,of%20nucleic%20acid)%20or%20nonsegmented.
+  / Viral genomes
+  model Viralgenomes
+    head = Viral genomes exhibit extraordinary diversity with respect to nucleic acid type, size, complexity, and the information transfer pathways they follow. Thus, viral nucleic acids can be DNA or RNA, double-stranded or single-stranded, monopartite or multipartite, linear or circular, as short as 2 kb or up to 2500 kb long. The goal of a virus is to replicate itself. To do so, viruses have evolved various strategies to replicate their genomes and produce the structural and catalytic proteins needed for the formation of new viruses.

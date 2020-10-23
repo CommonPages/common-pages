@@ -153,7 +153,7 @@ subject module Diagnostics
 
       / CT (Cycle Threshold) value
       subject CTvalue
-        head = Research propose to take CT (Cycle Threshold) value into account for further clinical severity as well as take CT results in context to guide isolation, contact tracing, and testing guidelines. Ct value can also provide accurate estimation of an epidemic's trajectory, subverting the need for repeated case count measurements which are frequently obscured by changes in testing capacity.
+        head = The Ct value of PCR correlates with viral load, and low Ct values (high viral load) might indicate infectiousness of the individual. Research propose to take CT (Cycle Threshold) value into account for further clinical severity as well as take CT results in context to guide isolation, contact tracing, and testing guidelines. Ct value can also provide accurate estimation of an epidemic's trajectory, subverting the need for repeated case count measurements which are frequently obscured by changes in testing capacity.
 
         # CT value is an imperfect measure, advocates concede. “The CT value isn't an absolute scale,” But whether to add it to test results “is one of the most pressing questions out there,
         >>>
@@ -191,6 +191,7 @@ subject module Diagnostics
           'Hay_et_al_10_13_2020
         -- Challenges of sampling variability, individual-level differences in viral kinetics, and limitations in comparing results from different laboratories or instruments
           'Service_et_al_10_02_2020.!b
+          'Iwasaki_et_al_10_12_2020.!f
 
       / Swab collection for RNA extraction
       subject Swabcollection
@@ -372,6 +373,9 @@ subject module Diagnostics
       --
         'Lipsitch_et_al_2020
         'Lipsitch_et_al_2020.!a
+      -- Decline in antibody titers- seroprevalence studies may underestimate the true prevalence of infection.
+        'WangTo_et_al_08_25_2020.!f
+
       -- Seroprevalance Studies on other infectious disease
         'McLeish_et_al_2011
       # Herd Immunity happened in Zika Virus

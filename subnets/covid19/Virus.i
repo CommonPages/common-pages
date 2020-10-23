@@ -1,10 +1,9 @@
 / Virus
 subject module Virus
-
+  head =
   / Genetics
   subject module Genetics
-    head = SARS-CoV-2 has acquired mutations capable of substantially changing its pathogenicity.
-
+    head = SARS-CoV-2 has acquired mutations capable of substantially changing its pathogenicity. To date, a more infectious SARS-CoV-2 variant with spike protein variant G614 has replaced D614 as the dominant form in the pandemic.
     #  All genome [Sequence](https:www.google.com)
     -- Genetic Similarities with Bat Coronaviruses
       'Lu_et_at_2020
@@ -71,7 +70,7 @@ subject module Virus
 
   / Entry and Replication
   subject module Entry
-    head = SARS-CoV-2 uses ACE2 receptor to enter host.
+    head = SARS-CoV-2 uses ACE2 receptor to enter host. SARS-CoV-2 virion attaches to a target cell, the cell's protease TMPRSS2 cuts open the spike protein of the virus. The virion then releases RNA into the cell and forces the cell to produce and disseminate copies of the virus, which infect more cells.
 
     --
       EntrytoHost
@@ -134,13 +133,13 @@ subject module Virus
 
     / Temperature Dependency
     subject TemperatureDependency
-      head =
+      head = SARS-CoV-2, in contrast to SARS-CoV, replicated more efficiently at temperatures encountered in the upper respiratory tract, and displayed higher sensitivity to type I and type III IFNs than SARS-CoV.
       --
         'Vkovski_et_al_2020
 
   / Viral Load & Shedding
   subject module Shedding
-    head =
+    head = Viral shedding may begin 2 to 3 days before the appearance of the first symptoms and can shed for prolonged time. Highest viral load is observed in throat swabs at the time of symptom onset, inferring  infectiousness peaks on or before symptom onset.
 
     --
       ViralLoad
@@ -151,7 +150,7 @@ subject module Virus
 
     / Viral Load
     subject ViralLoad
-      head = Highest viral load in throat swabs at the time of symptom onset, and inferred that infectiousness peaked on or before symptom onset.
+      head = Highest viral load is observed in throat swabs at the time of symptom onset, inferring  infectiousness peaks on or before symptom onset.
       --
         'Benefield_et_al_09_30_2020
         'Liu_et_al_2020c

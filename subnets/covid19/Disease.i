@@ -13,7 +13,7 @@ subject module Disease
       'Liu_et_al_03_03_2020.!d
       'Sanche_et_al_2020
 
-  / Asymtomatic & Presymptomatic Phase
+  / Asymtomatic Phase
   subject AsymptomaticPhase
     head = A minority of cases do not develop noticeable symptoms at any point in time. Asymtomatic cases can cause transmission and can have high viral load.
     -- Asymtomatic People can cause transmission and can have high viral load
@@ -23,7 +23,7 @@ subject module Disease
       'Lavezzo_et_al_04_18_2020
     -- Longer viral shedding
       'Xin-Long_et_al_06_18_2020.!c1
-    -- Examples of asymptomatic + Presymptomatic cases
+    -- Asymptomatic + Presymptomatic cases
       'Mizumoto_et_al_2020
       'Lavezzo_et_al_04_18_2020.!b
       'He_et_al_2020
@@ -267,9 +267,11 @@ subject module Disease
     / Age
     subject module Age
       head = Children make up a small proportion of reported cases, they are likely to have milder symptoms and a lower chance of severe disease than adults. Data worldwide have shown people older than 60 are more at risk.
+
       / Children
       subject Children
         head = Children and young people have lower susceptibility to SARS-CoV-2, with a lower odds of being an infected contact. Few recent studies have reported some children developing paediatric multisystem inflammatory syndrome.
+
         -- Children and young people have lower susceptibility to SARS-CoV-2 and their role in transmission SARS-CoV-2 remains uncertain.
           'Zimmermann_et_al_2020
           'Viner_et_al_05_24_2020
@@ -322,7 +324,7 @@ subject module Disease
     subject Gender
       head = Men are at higher risk of developing severe COVID-19 disease.
       # Some research have investigated the difference might be due to the immune response.
-      -- Reports 
+      -- Reports
         'Chen_et_al_2020d.!a
         'Chen_et_al_2020c
         'Chen_et_al_2020c.!c
@@ -341,7 +343,7 @@ subject module Disease
 
     / Smokers
     subject Smokers
-      head = According to scientific reviews smokers are more likely to require intensive care or die compared to non-smokers. # smokers are particularly susceptible to severe SARS-CoV-2 infections.
+      head = According to scientific reviews smokers are particularly susceptible and more likely to require intensive care or die compared to non-smokers.
 
       --
         'Fontanet_et_al_04_23_2020.!a
@@ -400,14 +402,12 @@ subject module Disease
 
     / Vitamin D
     subject VitaminD
-      head = Based on case study reports, Vitamin D status is significantly associated with clinical outcomes.
+      head = Based on case study reports, Vitamin D can improve clinical outcomes of patients infected with COVID 19
 
-      >>>
-        Studies suggest vitamin D can improve clinical outcomes of patients infected with COVID 19
-      --
+      -- Vitamin D status is associated with clinical outcomes.
         'Alipio_et_al_2020
         'Raharusun_et_al_2020
-      -- Suppressing Cytokine Storm
+      -- Vitamin D suppressing Cytokine Storm
         'Daneshkhah_et_al_05_18_2020
       >>>
         Randomized Clinical Study
@@ -419,7 +419,7 @@ subject module Disease
 
       / Rationale
       subject VitaminDRationale
-        head =  VitaminD is asscoiated to normalise ACE2 level and also protects from lung injury
+        head = VitaminD is asscoiated to normalise ACE2 level and also protects from lung injury
         >>>
           ACE2 is necessary for entry of SARS-CoV-2 but having less ACE2 may increase of disease severity. VitaminD is asscoiated to normalise ACE2 level and also protects from lung injury
         --
@@ -428,24 +428,24 @@ subject module Disease
           'Martineau_et_al_2017
           'Cui_et_al_2019
         >>>
-          Based on this study, VitaminD regulated human protien encoding genome
+          Based on this study, Vitamin D regulated human protien encoding genome
         --
           'Wang_et_al_2005b
         >>>
-          VitaminD supplementation led to reduction of in epigenetic aging in African Americans
+          Vitamin D supplementation led to reduction of in epigenetic aging in African Americans
         --
           'Chen_et_al_2019
         >>>
-          Genetically low plasma vitamin D levels are associated with a higher mortality from respiratory infections
+          Genetically low plasma Vitamin D levels are associated with a higher mortality from respiratory infections
         --
           'Afzal_et_al_2018
           'Jolliffe_et_al_2018
         >>>
           Obesity is associated with case severity in COVID-19.
-        -- Low VitaminD levels in Obesity
+        -- Low Vitamin D levels in Obesity
           'Wortsman_et_al_2020
         >>>
-          VitaminD Deficiency in the US. Mortality Rate is high in US
+          Vitamin D Deficiency in the US. Mortality Rate is high in US
         --
           'Liu_et_al_2018
         >>>
@@ -472,7 +472,7 @@ subject module Disease
 
     / Co-Morbid Conditions
     subject module CoMorbidConditions
-      head =  Underlying health conditions such as obesity, diabetes, Hypertension, Cancer, HIV and cardiovascular disease could result in severe and even fatal respiratory complications
+      head = Underlying health conditions such as obesity, diabetes, Hypertension, Cancer, HIV and cardiovascular disease could result in severe and even fatal respiratory complications
       >>>
         A greater number of comorbidities are correlated with poorer clinical outcomes.
       --
@@ -485,6 +485,7 @@ subject module Disease
         Cardiovascular
         HIV
         Cancer
+        RenalDisease
       >>>
         Having less ACE2 may increase the risk of Severe disease
       -- ACE2
@@ -494,6 +495,7 @@ subject module Disease
         --
           'Li_et_al_2020c
           'DelValle_et_al_05_30_2020.!g
+
       subject HIV
         -- Increased risk of SARS-CoV-2 infection
           'Xu_et_al_05_28_2020.!b
@@ -504,6 +506,7 @@ subject module Disease
       subject Cancer
         --
           'Lee_et_al_05_28_2020
+
       subject Diabetes
         -- Diabetes are more likely to develop severe/ICU cases
           'Li_et_al_2020c.!b
@@ -583,6 +586,7 @@ subject module Disease
     / Ethnicity
     subject Ethnicity
       head = Case Reports from US shows, a greater proportion of deaths due to COVID-19 have occurred among African Americans. Similar issues affect Native American and Latino communities.
+      
       -- Case Reports
         'Williamson_et_al_05_07_2020
       --
@@ -634,9 +638,9 @@ subject module Disease
     head = Studies have shown that recovered patients have protective immunity that prevents them from being reinfected. The duration of immunity still remains unclear.
     / Antibodies
     subject Antibodies
-      head = Studies show that people who have recovered from infection have antibodies to the virus. IgM antibodies to SARS-CoV-2 are generally detectable several days after initial infection. IgG antibodies generally become detectable 10–14 days after infection.
+      head = Studies show that people who have recovered from infection have antibodies to the virus.  IgM antibodies to SARS-CoV-2 are generally detectable several days after initial infection. IgG antibodies generally become detectable 10–14 days after infection. Duration of antibodies is still unclear.
       >>>
-        Based on studies, antibodies vary widely in their efficacy. Some people have poor response, some average. And then there is a fraction of people that are exceptional responders. A new study on the immune response in asymptomatic people indicate lack of sufficient "long-lasting protective antibodies" post SARSCoV2 infection.
+        Based on studies, antibodies vary widely in their efficacy. Some people have poor response, some average. And then there is a fraction of people that are exceptional responders.
       -- SARS-CoV2 Antibodies
         'Zhang_et_al_2020g.!a
         'Amanat_et_al_2020
@@ -648,7 +652,12 @@ subject module Disease
       --
         'Nelde_et_al_06_16_2020
         'Petrova_et_al_02_20_2012
-
+      >>>
+        Waning of antibodies is well described in recent cases- and can have implications on both the susceptibility to re-infection and the severity of infection.
+      -- Reports- Waning of antibodies
+        'WangTo_et_al_08_25_2020.!f
+        'Robbiani_et_al_06_18_2020.!c
+        'Xin-Long_et_al_06_18_2020
         # vaccine dev frontiers
       -- RBD-specific antibodies with potent antiviral activity
         'Robbiani_et_al_06_18_2020
@@ -666,9 +675,14 @@ subject module Disease
         'Liu_et_al_06_16_2020
         'Robbiani_et_al_06_18_2020
         'Xin-Long_et_al_06_18_2020
-        'Xin-Long_et_al_06_18_2020.!d
-        'Xin-Long_et_al_06_18_2020.!c
         'Wu_et_al_04_20_2020b.!c
+      -- Patients with milder disease had lower antibody titers than those with more severe disease.
+        'WangTo_et_al_08_25_2020.!e
+        'Prado-Vivar_et_al_09_08_2020.!b
+      -- SARS-CoV-2 specific IgM and IgG were observed during the second episode of infection.
+        'Tillett_et_al_10_12_2020.!d
+        'WangTo_et_al_08_25_2020.!e
+        'Prado-Vivar_et_al_09_08_2020.!b
       >>>
         Studies of antibodies on other coronaviruses.
       -- MERS
@@ -681,18 +695,50 @@ subject module Disease
         'Callow_et_al_1990
 
       # In some cases, viral RNA has been detected by RT-PCR even beyond week 6 following the first positive test. A few cases have also been reported positive after 2 consecutive negative PCR tests performed 24 hours apart. It is unclear if this is a testing error, reinfection, or reactivation.
+
     / Reinfection
     subject Reinfection
-      head = The reinfection can not occur if neutralizing antibodies are produced at primary infection. Reinfection immunity to adult has been studied using laboratory animal models, the results showed that animal models become resistant to reinfection.
+      head = The reinfection can not occur if neutralizing antibodies are produced at primary infection. Reinfection immunity to adult has been studied using laboratory animal models, the results showed that animal models become resistant to reinfection. However, there have been reports of mild and severe re-infection.
+
+      >>>
+        Symptomatic reinfections with human non-SARS coronaviruses are common and not atypical within 1 year after initial infection, despite the presence of antibodies. Reinfections with human common cold coronaviruses are, however, typically milder than the primary infections.
+      --
+        'Galanti_et_al_05_03_2020
+        'Edridge_et_al_09_14_2020
+
       # Add latest papers
       --
+        'Iwasaki_et_al_10_12_2020
         'Bao_et_al_2020
         'Bao_et_al_2020.!a
         'Jiang_et_al_04_27_2020.!b
 
-      >>> At this time, the duration and nature of immunity generated in response to SARS-CoV-2 infection are unknown, and there is no evidence that COVID-19 antibody–positive patients who have recovered from the disease are protected from a second infection.
+      >>>
+        Case reports adds to rapidly growing evidence of COVID-19 reinfection, in which viral genomic sequences were used to confirm infections by distinct isolates of SARS-CoV-2. Some reinfections result in milder disease, whereas others are more severe. Further investigation is needed of pre-existing immune responses before second exposure, and viral inoculum load.
+      -- Reports of mild symptoms with reinfection with SARS-CoV-2
+        'WangTo_et_al_08_25_2020
+        'Elslande_et_al_09_05_2020
+      -- Reports of increased symptom severity in their second infection
+        'Tillett_et_al_10_12_2020
+        'Prado-Vivar_et_al_09_08_2020
+        'Iwasaki_et_al_10_12_2020
+        'Iwasaki_et_al_10_12_2020.!g
+      -- Patients was infected by SARS-CoV-2 on two separate occasions by a genetically distinct virus.
+        'WangTo_et_al_08_25_2020.!d
+        'Tillett_et_al_10_12_2020.!b
+        'Elslande_et_al_09_05_2020.!a
+        'Prado-Vivar_et_al_09_08_2020.!a
+
+      >>>
+         Weaker immune response after the first infection might have caused re-infection.
       --
+        'Iwasaki_et_al_10_12_2020.!b
+        'Iwasaki_et_al_10_12_2020.!c
+        'Tillett_et_al_10_12_2020
         'Weissleder_et_al_06_03_2020.!m
+        'Prado-Vivar_et_al_09_08_2020
+        'Prado-Vivar_et_al_09_08_2020.!b
+
 
     / Relapse
     subject Relapse

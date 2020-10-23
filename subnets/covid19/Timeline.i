@@ -195,7 +195,7 @@ subject module Timeline
         'Zhang_et_al_06_12_2020.!c
         'Tang_et_al_05_24_2020.!b
         'Tang_et_al_05_24_2020.!d
-
+    
   / Origin of the SARS-CoV2
   subject module Origin
     head = Researches have proposed multiple theories as to the original source of human transmission of the SARS-CoV2 virus. Theories range from direct or indirect animal tranmission (involving bats, pangolins or civets) to spillover from a nearby laboratory.

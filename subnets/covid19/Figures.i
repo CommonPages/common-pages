@@ -47,4 +47,4 @@ space Figures
   width: 640
   height: 417
   caption: SARS-CoV-2 Structure
-  image 'Figure_Virus_Structure 
+  image 'Figure_Virus_Structure

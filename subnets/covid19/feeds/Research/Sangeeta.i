@@ -1,10 +1,5 @@
 feed Sangeeta
   #
-
-
-
-  #
-
   // DUMMY TITLE
   doi: https://doi.org/xyz
   ref 'Xiao_et_al_02_20_2020
@@ -17,8 +12,31 @@ feed Sangeeta
     let !a self assert =
 
   #
+  #
 
+  #
+  // DUMMY TITLE
+  doi: https://doi.org/xyz
+  ref 'Xiao_et_al_02_20_2020
+    head =
 
+    -- exports
+      !a
+
+    / February, 2020 - bioRxiv
+    let !a self assert =
+  #
+  // DUMMY TITLE
+  doi: https://doi.org/xyz
+  ref 'Xiao_et_al_02_20_2020
+    head =
+
+    -- exports
+      !a
+
+    / February, 2020 - bioRxiv
+    let !a self assert =
+  #
   // DUMMY TITLE
   doi: https://doi.org/xyz
   ref 'Xiao_et_al_02_20_2020
@@ -30,18 +48,258 @@ feed Sangeeta
     / February, 2020 - bioRxiv
     let !a self assert =
 
-  #
 
-  // DUMMY TITLE
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head = 
+
+  # reinfection, coronavirus, context
+  // Direct observation of repeated infections with endemic coronaviruses
+  doi: https://doi.org/10.1101/2020.04.27.20082032
+  ref 'Galanti_et_al_05_03_2020
+    head = This study provides evidence that re-infections with the same endemic coronavirus are not atypical in a time window shorter than 1 year and that the genetic basis of innate immune response may be a greater determinant of infection severity than immune memory acquired after a previous infection.
+
+    >>> Background
+      While the mechanisms of adaptive immunity to pandemic coronavirus SARS-CoV-2 are still unknown, the immune response to the widespread endemic coronaviruses HKU1, 229E, NL63 and OC43 provide a useful reference for understanding repeat infection risk.
+
+    >>> Methods
+      Here we used data from proactive sampling carried out in New York City from fall 2016 to spring 2018. We combined weekly nasal swab collection with self-reports of respiratory symptoms from 191 participants to investigate the profile of recurring infections with endemic coronaviruses.
+
+    >>> Results
+      During the study, 12 individuals tested positive multiple times for the same coronavirus. We found no significant difference between the probability of testing positive at least once and the probability of a recurrence for the beta-coronaviruses HKU1 and OC43 at 34 weeks after enrollment/first infection. We also found no significant association between repeat infections and symptom severity but strong association between symptom severity and belonging to the same family.
+
+    >>> Conclusion
+      This study provides evidence that re-infections with the same endemic coronavirus are not atypical in a time window shorter than 1 year and that the genetic basis of innate immune response may be a greater determinant of infection severity than immune memory acquired after a previous infection.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / May, 2020 - medRxiv
+    let !a self assert = Antibody titers start increasing roughly one week following infection, reach a peak after about 2 weeks, and by 4 months to 1 year have returned to baseline levels.
+
+    / May, 2020 - medRxiv
+    let !b self assert = Instances of natural re-infections with the same virus type have been documented previously in which repeated infections with OC43 and 229E were recorded by serological testing. Subsequent infections were separated by at least 8 months, though study participants were tested every 4 months. Participants in a separate challenge study were inoculated with coronavirus 229E and then re-challenged with the same virus after one year. In most cases, re-infection occurred, though it presented with decreased symptoms severity and shortened duration of shedding.
+
+    / May, 2020 - medRxiv
+    let !c self assert = Coronavirus infections, and the adaptive immunity acquired towards them, have also been studied in animals. In a study on porcine respiratory coronavirus (PRCV), which causes subclinical infections in pigs, antibody titers waned approximately one year after experimental infection. In contrast, an experimental study on murine coronavirus (MHV), which produces severe, systemic infections in mice, has shown an interplay between virus-specific antibodies and T cells, that upon survival in the host lead to life-long protection against reinfection. Similarly, a longer immunity profile has been hypothesized for SARS and MERS due to their increased severity and to the systemic response that infection induces.
+
+    / May, 2020 - medRxiv
+    let !d self assert =  Specific antibodies were detectable for at least 2 years in SARS and MERS survivors. Although longitudinal studies on SARS survivors have not detected specific SARS IGG antibody persistence 5 years after infection, they have found that specific memory T cells persist in the peripheral blood of recovered SARS patients, and at higher levels in patients who experienced severe disease. Whether the presence of these memory T cells would be enough to induce a fast, protective response upon reinfection with SARS has not been assessed.
+
+    / May, 2020 - medRxiv
+    let !e self assert = The majority of the repeated coronavirus infections were found in children, a cohort more vulnerable toinfection because of their immature immune system, and 26% of the episodes in the repeated infections were co-infections with other respiratory viruses
+
+
+
+  # reinfection, coronavirus, context
+  // Seasonal coronavirus protective immunity is short-lasting.
+  doi: https://doi.org/10.1038/s41591-020-1083-1
+  ref 'Edridge_et_al_09_14_2020
+    head = We monitored healthy individuals for more than 35 years and determined that reinfection with the same seasonal coronavirus occurred frequently at 12 months after infection.
+
+    >>> Abstract
+      A key unsolved question in the current coronavirus disease 2019 (COVID-19) pandemic is the duration of acquired immunity. Insights from infections with the four seasonal human coronaviruses might reveal common characteristics applicable to all human coronaviruses. We monitored healthy individuals for more than 35 years and determined that reinfection with the same seasonal coronavirus occurred frequently at 12 months after infection.
+
+    / September, 2020 - Nature Medicine
+    let !a self assert =
+
+
+
+  # reinfection
+  // COVID-19 re-infection by a phylogenetically distinct SARS-CoV-2 variant, first confirmed event in South America.
+  doi: https://doi.org/10.2139/ssrn.3686174
+  ref 'Prado-Vivar_et_al_09_08_2020
+    head = We report the first confirmed case of SARS-Cov-2 reinfection in Ecuador and Latin America caused by two different viral genetic variants. This patient, a 46 yr old man showed a more severe disease in the second infection. High levels of both SARS-CoV-2 specific IgM and IgG were observed during the second event.
+
+    >>> Abstract
+      The permanence of rt-PCR positivity after a long time in COVID-19 patients has prompted the question of whether SARS-CoV-2 could cause a persistent infection or patients can become re-infected by this virus. Both possibilities could have critical implications for the management and control of COVID-19. Here we present the first confirmed case of SARS-CoV-2 reinfection in Ecuador and South America.
+
+    >>> Materials and methods
+      Our diagnostic laboratory detected a potential re-infection in one patient who was SARS-COv2 rt-PCR positive twice (in May and July 2020). The first laboratory-confirmed infection presented with mild symptoms and full recovery, reaffirmed by a negative RT-PCR test result obtained two weeks after symptom onset. More severe COVID-19-like symptoms presented again four weeks after the first event, and a third RT-PCR test was performed which resulted positive. The total RNA extraction (from the samples collected on both occasions) was sequenced in an Oxford Nanopore MinION using a tilling PCR protocol developed by the ARTIC-Network, and the reads were analyzed using the artic-medaka consensus generation tool. Anti SARS-CoV-2 IgM and IgG antibodies were investigated.
+
+    >>> Results
+      Different SARS-CoV-2 variants were identified in each infection event. For the first infection, the genome was assigned to the B1.p9 GISAID clade while the variant associated with the second episode was assigned to the A.1.1 GISAID clade. High levels of both SARS-CoV-2 specific IgM and IgG were observed during the second event.
+
+    >>> Discussion
+      A patient with two COVID-19 events presented two different SARS-CoV-2 variants on each event, confirming reinfection. This phenomenon is still considered rare.
+
+    -- exports
+      !a
+      !b
+
+    / September, 2020 - SSRN
+    let !a self assert = Different SARS-CoV-2 variants were identified in each infection event. For the first infection, the genome was assigned to the B1.p9 GISAID clade while the variant associated with the second episode was assigned to the A.1.1 GISAID clade.
+
+    / September, 2020 - SSRN
+    let !b self assert = The antibody test performed during the first infection event showed the presence of specific anti-SARS-CoV-2 IgM, and no IgG was detected. TThe second event showed high anti-SARS CoV-2 IgM and IgG.
+
+
+
+  # re-infection, Belgium, transmission lineage, VACCINEDESIGN and Development
+  // Symptomatic SARS-CoV-2 reinfection by a phylogenetically distinct strain.
+  doi: https://doi.org/10.1093/cid/ciaa1330
+  ref 'Elslande_et_al_09_05_2020
+    head = We here report a mild symptomatic reinfection of a 51 year old woman in Belgium, 93 days after a moderate SARS-CoV-2 infection. The symptoms resolved after one week. There was no travel history.
 
     -- exports
       !a
 
-    / February, 2020 - bioRxiv
-    let !a self assert =
+    / September, 2020 - Clinical Infectious Diseases
+    let !a self assert = Full-length genome sequencing  revealed that the initial infection was caused by a lineage B.1.1 SARS-CoV-2 virus and the relapsing infection by a lineage A. Eleven mutations were identified across the genome of the two strains. This difference is in line with other circulating strains in Belgium.
+
+
+
+  # re-infection, Hongkong, D614G, transmission lineage,VACCINEDESIGN and Development
+  // Coronavirus Disease 2019 (COVID-19) Re-infection by a Phylogenetically Distinct Severe Acute Respiratory Syndrome Coronavirus 2 Strain Confirmed by Whole Genome Sequencing.
+  doi: https://doi.org/10.1093/cid/ciaa1275
+  ref 'WangTo_et_al_08_25_2020
+    head = The first case of re-infection of COVID-19 (in Hongkong) occured 142 days after the first symptomatic episode in an apparently immunocompetent patient. Several lines of evidence support that the second episode is caused by re-infection instead of prolonged viral shedding. Viral genomes from first and second episodes belong to different clades/lineages. Despite having an acute infection as evidenced by an elevated CRP, relatively high viral load with gradual decline (Ct value-26.69 upon hospitalization), and seroconversion, the patient was asymptomatic during the second episode.
+
+    >>> Background
+      Waning immunity occurs in patients who have recovered from Coronavirus Disease 2019 (COVID-19). However, it remains unclear whether true re-infection occurs.
+
+    >>> Methods
+      Whole genome sequencing was performed directly on respiratory specimens collected during 2 episodes of COVID-19 in a patient. Comparative genome analysis was conducted to differentiate re-infection from persistent viral shedding. Laboratory results, including RT-PCR Ct values and serum Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) IgG, were analyzed.
+
+    >>> Results
+      The second episode of asymptomatic infection occurred 142 days after the first symptomatic episode in an apparently immunocompetent patient. During the second episode, there was evidence of acute infection including elevated C-reactive protein and SARS-CoV-2 IgG seroconversion. Viral genomes from first and second episodes belong to different clades/lineages. The virus genome from the first episode contained a a stop codon at position 64 of ORF8, leading to a truncation of 58 amino acids. Another 23 nucleotide and 13 amino acid differences located in 9 different proteins, including positions of B and T cell epitopes, were found between viruses from the first and second episodes. Compared to viral genomes in GISAID, the first virus genome was phylogenetically closely related to strains collected in March/April 2020, while the second virus genome was closely related to strains collected in July/August 2020.
+
+    >>> Conclusions
+      Epidemiological, clinical, serological, and genomic analyses confirmed that the patient had re-infection instead of persistent viral shedding from first infection. Our results suggest SARS-CoV-2 may continue to circulate among humans despite herd immunity due to natural infection. Further studies of patients with re-infection will shed light on protective immunological correlates for guiding vaccine design.
+
+    -- exports
+      !d
+      !e
+      !f
+
+    # / August, 2020 - Clin Infect Dis.
+    # let !a self assert = The patient had elevated CRP, relatively high viral load with gradual decline (Ct value was 26.69 upon hospitalization), and seroconversion of SARS-CoV-2 IgG during the second episode, suggesting that this is a genuine episode of acute infection.
+
+    # / August, 2020 - Clin Infect Dis.
+    # let !b self assert = Compared to viral genomes in GISAID, the first virus genome was phylogenetically closely related to strains collected in March/April 2020, while the second virus genome was closely related to strains collected in July/August 2020.
+
+    # / August, 2020 - Clin Infect Dis.
+    # let !c self assert = The second episode of asymptomatic infection occurred 142 days after the first symptomatic episode in an apparently immunocompetent patient. Previous studies have shown that viral RNA is undetectable 1 month after symptom onset for most patients. Prolonged viral shedding for over 1 month has been reported but rare.
+
+    / August, 2020 - Clin Infect Dis.
+    let !d self assert = The patient has recently traveled to Europe, where resurgence of COVID-19 cases had occurred since late July, 2020. The viral genome obtained during the second episode is phylogenetically closely related to strains collected from Europe in July/August 2020.
+
+    / August, 2020 - Clin Infect Dis.
+    let !e self assert = During the second episode of infection in our patient, IgG against SARS-CoV-2 was not detected until 5 days after hospitalization. The low antibody level may be related to his mild illness during the first episode. We and others have shown that patients with milder disease had lower antibody titers than those with more severe disease.
+
+    / August, 2020 - Clin Infect Dis.
+    let !f self assert = In one study, 33% of recovered COVID-19 patients were negative for neutralizing antibodies during the convalescent phase (average 39 days after symptom onset). Another study showed that 40% of asymptomatic individuals are seronegative within 8 weeks after the onset of symptoms. Besides the lack of protection against re-infection, another implication of rapid decline in antibody titers is that seroprevalence studies may underestimate the true prevalence of infection.
+
+
+
+  # reinfection, USA, VACCINEDESIGN and Development,transmission lineage
+  // Genomic evidence for reinfection with SARS-CoV-2: a case study
+  doi: https://doi.org/10.1016/S1473-3099(20)30764-7
+  ref 'Tillett_et_al_10_12_2020
+    head = The first confirmed case of SARS-CoV-2 reinfection in the USA. A 25-year-old man, who had no known immune disorders, had PCR-confirmed SARS-CoV-2 infection (Ct value 35·24; specimen A). However, 48 days after the initial test, the patient tested positive again by RT-PCR (Ct value 35·31; specimen B). The genome sequences of isolates from the first infection (specimen A) and reinfection (specimen B) differed significantly, which suggests that the patient was infected by SARS-CoV-2 on two separate occasions by a genetically distinct virus. The second infection was symptomatically more severe than the first. Thus, previous exposure to SARS-CoV-2 might not guarantee total immunity in all cases.
+
+    >>> Background
+      The degree of protective immunity conferred by infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is currently unknown. As such, the possibility of reinfection with SARS-CoV-2 is not well understood. We describe an investigation of two instances of SARS-CoV-2 infection in the same individual.
+
+    >>> Methods
+      A 25-year-old man who was a resident of Washoe County in the US state of Nevada presented to health authorities on two occasions with symptoms of viral infection, once at a community testing event in April, 2020, and a second time to primary care then hospital at the end of May and beginning of June, 2020. Nasopharyngeal swabs were obtained from the patient at each presentation and twice during follow-up. Nucleic acid amplification testing was done to confirm SARS-CoV-2 infection. We did next-generation sequencing of SARS-CoV-2 extracted from nasopharyngeal swabs. Sequence data were assessed by two different bioinformatic methodologies. A short tandem repeat marker was used for fragment analysis to confirm that samples from both infections came from the same individual.
+
+    >>> Findings
+      The patient had two positive tests for SARS-CoV-2, the first on April 18, 2020, and the second on June 5, 2020, separated by two negative tests done during follow-up in May, 2020. Genomic analysis of SARS-CoV-2 showed genetically significant differences between each variant associated with each instance of infection. The second infection was symptomatically more severe than the first.
+
+    >>> Interpretation
+      Genetic discordance of the two SARS-CoV-2 specimens was greater than could be accounted for by short-term in vivo evolution. These findings suggest that the patient was infected by SARS-CoV-2 on two separate occasions by a genetically distinct virus. Thus, previous exposure to SARS-CoV-2 might not guarantee total immunity in all cases. All individuals, whether previously diagnosed with COVID-19 or not, should take identical precautions to avoid infection with SARS-CoV-2. The implications of reinfections could be relevant for vaccine development and application.
+
+    -- exports
+      !b
+      !c
+      !d
+
+    # / October, 2020 - The Lancet Infectious Diseases
+    # let !a self assert = A 25-year-old man from the US state of Nevada, who had no known immune disorders (not taking any immunosuppressive drugs), had PCR-confirmed SARS-CoV-2 infection in April, 2020 (cycle threshold [Ct] value 35·24; specimen A). He recovered in quarantine, testing negative by RT-PCR at two consecutive timepoints thereafter. However, 48 days after the initial test, the patient tested positive again by RT-PCR (Ct value 35·31; specimen B).
+
+    / October, 2020 - The Lancet Infectious Diseases
+    let !b self assert = Specimens A and B were both in clade 20C, which was the predominant major clade seen in northern Nevada at the time samples were obtained.
+
+    / October, 2020 - The Lancet Infectious Diseases
+    let !c self assert = SARS-CoV-2 reinfection resulted in worse disease than did the first infection, requiring oxygen support and hospitalisation.
+
+    / October, 2020 - The Lancet Infectious Diseases
+    let !d self assert = The patient had positive antibodies after the reinfection, but whether he had pre-existing antibody after the first infection is unknown.
+
+
+
+  # Herd immunity, re-infection, vaccine- e
+  // What reinfections mean for COVID-19
+  doi: https://doi.org/10.1016/S1473-3099(20)30783-0
+  ref 'Iwasaki_et_al_10_12_2020
+    head = One of the key questions in predicting the course of the COVID-19 pandemic, is how well and how long the immune responses protect the host from reinfection. Reinfection cases till now, tell us that we cannot rely on immunity acquired by natural infection to confer herd immunity; not only is this strategy lethal for many but also it is not effective. Herd immunity requires safe and effective vaccines and robust vaccination implementation.
+
+    -- exports
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+
+    # / October, 2020 - The Lancet Infectious Diseases
+    # let !a self assert = The first confirmed case of SARS-CoV-2 reinfection in the USA. A 25-year-old man from the US state of Nevada, who had no known immune disorders, had PCR-confirmed SARS-CoV-2 infection in April, 2020 (cycle threshold [Ct] value 35·24; specimen A). However, 48 days after the initial test, the patient tested positive again by RT-PCR (Ct value 35·31; specimen B). Viral genome sequencing showed that both specimens A and B belonged to clade 20C, a predominant clade seen in northern Nevada. However, the genome sequences of isolates from the first infection (specimen A) and reinfection (specimen B) differed significantly, making the chance of the virus being from the same infection small. SARS-CoV-2 reinfection resulted in worse disease than did the first infection, requiring oxygen support and hospitalisation. The patient had positive antibodies after the reinfection, but whether he had pre-existing antibody after the first infection is unknown
+
+    / October, 2020 - The Lancet Infectious Diseases
+    let !b self assert = Of the four reinfection cases reported to date, none of the individuals had known immune deficiencies. Currently, only two individuals had serological data from the first infection and one had pre-existing antibody (IgM) against SARS-CoV-2.
+
+    / October, 2020 - The Lancet Infectious Diseases
+    let !c self assert = Antibody reactivity to nucleocapsid protein indicates previous exposure to SARS-CoV-2 but not whether antibodies that can block infection (anti-spike) are present. Also, antibody levels are highly dependent on the timing after exposure. The key goal for the future is to ascertain the level and specificity of antibody to spike protein at the time of reinfection, to determine immune correlate of protection.
+
+    / October, 2020 - The Lancet Infectious Diseases
+    let !d self assert = There is currently no evidence that a SARS-CoV-2 variant has emerged as a result of immune evasion. For now, one vaccine will be sufficient to confer protection against all circulating variants. Furthermore, reinfection by a distinct viral variant from the original virus does not imply immune escape.
+
+    / October, 2020 - The Lancet Infectious Diseases
+    let !e self assert = While differences in the viral genome sequence of the various isolates are a great way to know if an individual is reinfected (ruling out reactivation of lingering virus infection), it does not indicate that the second infection was due to immune evasion. There is currently no evidence that a SARS-CoV-2 variant has emerged as a result of immune evasion. For now, one vaccine will be sufficient to confer protection against all circulating variants. Furthermore, reinfection by a distinct viral variant from the original virus does not imply immune escape.
+
+    / October, 2020 - The Lancet Infectious Diseases
+    let !f self assert = The Ct value of PCR correlates with viral load, and low Ct values (high viral load) might indicate infectiousness of the individual. Although Ct values can vary substantially between various tests and laboratories. A good proxy for infectiousness can be obtained through viral plaque assays that measure the infectious virus. However, these assays require biosafety level 3 facilities and are labour intensive, and the assays are not routinely done in clinical laboratories.
+
+    / October, 2020 - The Lancet Infectious Diseases
+    let !g self assert = Patients from Nevada and Ecuador had worse disease outcomes at reinfection than at first infection. The reinfection cases in general are being picked up because of symptoms and are biased towards detection of symptomatic cases. Due to the paucity of broad testing and surveillance, we do not know how frequently reinfection occurs among individuals who recovered from their first infection. Asymptomatic reinfection cases can only be picked up by routine community testing or at an airport, for example, and we are probably severely underestimating the number of asymptomatic reinfections.
+
+
+
+  # Biomarkers
+  // COVID-19 poses a riddle for the immune system.
+  doi: https://doi.org/10.1038/d41586-020-02379-1
+  ref 'Perlman_et_al_08_17_2020
+    head = The immune response in hospitalized patients with severe COVID-19 is characterized by lymphopenia and the expression of molecules associated with ongoing inflammation, whereas these same molecules are expressed at a lower level in people with mild or moderate disease. The levels of specific cytokines vary substantially between people, making it hard to benchmark a level of cytokine expression that constitutes a sign of abnormality. Therefore, groups of cytokines, each with different degrees of inter-individual variability, must be measured to identify useful alterations.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / August, 2020 - Nature
+    let !a self assert = Levels of several molecules that promote inflammation — immunomodulatory molecules termed cytokines, including IL-1α, IL-1β, IFN-α, IL-17A and IL-12 p70 — were higher in all of the people who had COVID-19 than in the healthy controls, providing a ‘core’ COVID-19 signature. Other cytokines, such as IFN-λ, thrombopoietin (which is associated with abnormalities in blood clotting), IL-21, IL-23 and IL-33, were upregulated to a greater extent in people with severe COVID-19 than in those with moderate disease.
+
+    / August, 2020 - Nature
+    let !b self assert = Individuals with severe disease showed increased levels of cytokines associated with activation of a protein complex called the inflammasome, a component of the immune response that is a driver of inflammation.
+
+    / August, 2020 - Nature
+    let !c self assert = Increased were levels of IL-1Ra, a protein that normally inhibits excessive inflammasome function, providing a rare example of an upregulated molecule that dampens the immune response in severe disease.
+
+    / August, 2020 - Nature
+    let !d self assert = Levels of molecules associated with a defence response to viral infection — released by a type of activated CD4 T cell called a TH1 cell — were higher in people with severe disease than in those with moderate COVID-19. This occurred even though blood levels of CD4 T cells and CD8 T cells, which are generally linked to expression of these molecules, were similarly decreased (a condition called lymphopenia) in people with moderate or severe disease.
+
+    / August, 2020 - Nature
+    let !e self assert = Cytokines associated with immune responses to fungi (cytokines released by a type of CD4 T cell called a TH17 cell) were elevated and remained so in people with severe disease. The same was true for cytokines associated with immune responses to parasites, including worms, or with allergic reactions (cytokines such as IL-5, released by a type of CD4 T cell called a TH2 cell). The discovery that parts of the immune system unrelated to viral control would be triggered by a viral infection was unexpected.
+
+    / August, 2020 - Nature
+    let !f self assert = In general, at early time points after infection, those who went on to have moderate disease had low levels of inflammatory markers and a rise in the level of proteins associated with tissue repair. By contrast, people who went on to develop severe or very severe disease had increased expression of IFN-α, IL-1Ra and proteins associated with TH1-, TH2- and TH17-cell responses, even at early time points (10–15 days after the onset of symptoms). These results were validated using data for the entire patient population, across all time points, thus demonstrating that these characteristic expression patterns persisted over time in people with each type of disease severity.
+
+
 
   #
   // Sensitivity of Nasopharyngeal, Nasal and Throat Swab for the Detection of SARS-CoV-2
@@ -181,6 +439,8 @@ feed Sangeeta
     # / October, 2020 - Science
     # let !h self assert = A high viral load doesn't necessarily lead to disease; some 40% of people who contract SARS-CoV-2 stay healthy even though they have a similar amount of virus to patients who fall ill.
 
+
+
   #
   // Neutralizing antibody responses to SARS-CoV-2 in a COVID-19 recovered patient cohort and their implications
   doi: https://doi.org/10.1101/2020.03.30.20047365
@@ -286,6 +546,7 @@ feed Sangeeta
 
     / February, 2020 - bioRxiv
     let !a self assert =
+
 
 
   #

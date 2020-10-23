@@ -847,21 +847,18 @@ feed June2020
 
 
 
-  # IgG, Antibodies, asymptomatic, the lack of sufficient "long-lasting protective antibodies" post #SARSCoV2 infection and the risks of using #COVID19 "immunity passports". This does not imply they can be reinfected.A certain type of antibody IgG wanes.This doesn’t mean you lose protection from covid after an infection.   More studies are needed.- REFER TO SHEET FOR ARGUMENT, club with 725
+  # IgG, Antibodies, asymptomatic, immunity strategy and serological surveys, the lack of sufficient "long-lasting protective antibodies" post #SARSCoV2 infection and the risks of using #COVID19 "immunity passports". This does not imply they can be reinfected.A certain type of antibody IgG wanes.This doesn’t mean you lose protection from covid after an infection.   More studies are needed.- REFER TO SHEET FOR ARGUMENT, club with 725
   // Clinical and immunological assessment of asymptomatic SARS-CoV-2 infection
   doi: https://doi.org/10.1038/s41591-020-0965-6
   ref 'Xin-Long_et_al_06_18_2020
-    head = Our data suggest that asymptomatic individuals had a weaker immune response to SARS-CoV-2 infection. The reduction in IgG and neutralizing antibody levels in the early convalescent phase might have implications for immunity strategy and serological surveys.
+    head = 40% of asymptomatic individuals became seronegative and 12.9% of the symptomatic group became negative for IgG in the early convalescent phase (within 8 weeks after the onset of symptoms). In addition, asymptomatic individuals exhibited lower levels of 18 pro- and anti-inflammatory cytokines. These data suggest that asymptomatic individuals had a weaker immune response to SARS-CoV-2 infection.
 
     >>> Abstract
       The clinical features and immune responses of asymptomatic individuals infected with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) have not been well described. We studied 37 asymptomatic individuals in the Wanzhou District who were diagnosed with RT–PCR-confirmed SARS-CoV-2 infections but without any relevant clinical symptoms in the preceding 14 d and during hospitalization. Asymptomatic individuals were admitted to the government-designated Wanzhou People’s Hospital for centralized isolation in accordance with policy1. The median duration of viral shedding in the asymptomatic group was 19 d (interquartile range (IQR), 15–26 d). The asymptomatic group had a significantly longer duration of viral shedding than the symptomatic group (log-rank P = 0.028). The virus-specific IgG levels in the asymptomatic group (median S/CO, 3.4; IQR, 1.6–10.7) were significantly lower (P = 0.005) relative to the symptomatic group (median S/CO, 20.5; IQR, 5.8–38.2) in the acute phase. Of asymptomatic individuals, 93.3% (28/30) and 81.1% (30/37) had reduction in IgG and neutralizing antibody levels, respectively, during the early convalescent phase, as compared to 96.8% (30/31) and 62.2% (23/37) of symptomatic patients. Forty percent of asymptomatic individuals became seronegative and 12.9% of the symptomatic group became negative for IgG in the early convalescent phase. In addition, asymptomatic individuals exhibited lower levels of 18 pro- and anti-inflammatory cytokines. These data suggest that asymptomatic individuals had a weaker immune response to SARS-CoV-2 infection. The reduction in IgG and neutralizing antibody levels in the early convalescent phase might have implications for immunity strategy and serological surveys.
 
+
     -- exports
-      !c
       !c1
-      !d
-      !f
-      !g
 
     # / June, 2020 - Nature Medicine
     # let !a self assert = The median duration of viral shedding in the asymptomatic group was 19 d (interquartile range (IQR), 15–26 d). The asymptomatic group had a significantly longer duration of viral shedding than the symptomatic group (log-rank P = 0.028).
@@ -869,8 +866,8 @@ feed June2020
     # / June, 2020 - Nature Medicine
     # let !b self assert = In the asymptomatic group, 81.1% (30/37) tested positive for IgG, and 83.8% (31/37) of the symptomatic group tested positive for IgG approximately 3–4 weeks after exposure. Moreover, 62.2% (23/37) of the asymptomatic group were positive for IgM, whereas 78.4% (29/37) of the symptomatic group were IgM positive.
 
-    / June, 2020 - Nature Medicine
-    let !c self assert = The virus-specific IgG levels in the asymptomatic group were significantly lower relative to the symptomatic group in the acute phase (the period when the viral RNA can be found in a respiratory specimen). Of asymptomatic individuals, 93.3% (28/30) and 81.1% (30/37) had reduction in IgG and neutralizing antibody levels, respectively, during the early convalescent phase, as compared to 96.8% (30/31) and 62.2% (23/37) of symptomatic patients.
+    # / June, 2020 - Nature Medicine
+    # let !c self assert = The virus-specific IgG levels in the asymptomatic group were significantly lower relative to the symptomatic group in the acute phase (the period when the viral RNA can be found in a respiratory specimen). Of asymptomatic individuals, 93.3% (28/30) and 81.1% (30/37) had reduction in IgG and neutralizing antibody levels, respectively, during the early convalescent phase, as compared to 96.8% (30/31) and 62.2% (23/37) of symptomatic patients.
 
     / June, 2020 - Nature Medicine
     let !c1 self assert = The median duration of viral shedding in the asymptomatic group was 19 d. The asymptomatic group had a significantly longer duration of viral shedding than the symptomatic group.
@@ -878,17 +875,17 @@ feed June2020
     # / June, 2020 - Nature Medicine
     # let !c self assert = Of asymptomatic individuals, 93.3% (28/30) and 81.1% (30/37) had reduction in IgG and neutralizing antibody levels, respectively, during the early convalescent phase, as compared to 96.8% (30/31) and 62.2% (23/37) of symptomatic patients.
 
-    / June, 2020 - Nature Medicine
-    let !d self assert = In this study, we observed that IgG levels and neutralizing antibodies in a high proportion of individuals who recovered from SARS-CoV-2 infection start to decrease within 2–3 months after infection.
+    # / June, 2020 - Nature Medicine
+    # let !d self assert = In this study, we observed that IgG levels and neutralizing antibodies in a high proportion of individuals who recovered from SARS-CoV-2 infection start to decrease within 2–3 months after infection.
 
     # / June, 2020 - Nature Medicine
     # let !e self assert = 40.0% (12/30) of asymptomatic individuals became seronegative and 12.9% (4/31) of the symptomatic group became negative for IgG in the early convalescent phase.
 
-    / June, 2020 - Nature Medicine
-    let !f self assert = In addition, asymptomatic individuals exhibited lower levels of 18 pro- and anti-inflammatory cytokines.
+    # / June, 2020 - Nature Medicine
+    # let !f self assert = In addition, asymptomatic individuals exhibited lower levels of 18 pro- and anti-inflammatory cytokines.
 
-    / June, 2020 - Nature Medicine
-    let !g self assert = Forty percent of asymptomatic individuals became seronegative and 12.9% of the symptomatic group became negative for IgG in the early convalescent phase.
+    # / June, 2020 - Nature Medicine
+    # let !g self assert = Forty percent of asymptomatic individuals became seronegative and 12.9% of the symptomatic group became negative for IgG in the early convalescent phase.
 
 
 
@@ -903,9 +900,11 @@ feed June2020
       During the COVID-19 pandemic, SARS-CoV-2 infected millions of people and claimed hundreds of thousands of lives. Virus entry into cells depends on the receptor binding domain (RBD) of the SARS-CoV-2 spike protein (S). Although there is no vaccine, it is likely that antibodies will be essential for protection. However, little is known about the human antibody response to SARS-CoV-2. Here we report on 149 COVID-19 convalescent individuals. Plasmas collected an average of 39 days after the onset of symptoms had variable half-maximal pseudovirus neutralizing titres: less than 1:50 in 33% and below 1:1,000 in 79%, while only 1% showed titres above 1:5,000. Antibody sequencing revealed expanded clones of RBD-specific memory B cells expressing closely related antibodies in different individuals. Despite low plasma titres, antibodies to three distinct epitopes on RBD neutralized at half-maximal inhibitory concentrations (IC50 values) as low as single digit nanograms per millitre. Thus, most convalescent plasmas obtained from individuals who recover from COVID-19 do not contain high levels of neutralizing activity. Nevertheless, rare but recurring RBD-specific antibodies with potent antiviral activity were found in all individuals tested, suggesting that a vaccine designed to elicit such antibodies could be broadly effective.
 
     -- exports
+      !c
       !d
       !e
       !f
+
 
     # / June, 2020 - Nature
     # let !a self assert = Plasmas collected an average of 39 days after the onset of symptoms had variable half-maximal pseudovirus neutralizing titres: less than 1:50 in 33% and below 1:1,000 in 79%, while only 1% showed titres above 1:5,000.
@@ -915,6 +914,9 @@ feed June2020
 
     # / June, 2020 - Nature
     # let !c self assert = Despite low plasma titres, antibodies to three distinct epitopes on RBD neutralized at half-maximal inhibitory concentrations (IC50 values) as low as single digit nanograms per millitre.
+
+    / June, 2020 - Nature
+    let !c self assert = 33% of recovered COVID-19 patients were negative for neutralizing antibodies (less than 1:50) during the convalescent phase (average 39 days after symptom onset).
 
     / June, 2020 - Nature
     let !d self assert = Anti-RBD IgM titers were negatively correlated with duration of symptoms and the timing of sample collection. Anti-RBD IgG levels were modestly correlated to age, and the severity of symptoms including hospitalization. Interestingly, females had lower anti-RBD and -S IgG titers than males.
