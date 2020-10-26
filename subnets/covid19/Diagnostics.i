@@ -39,22 +39,15 @@ subject module Diagnostics
     # https://www.cdc.gov/coronavirus/2019-ncov/lab/resources/antibody-tests-guidelines.html
     # https://asm.org/Articles/2020/May/COVID-19-Serology-Testing-Explained
     # Long-Term Immunity—Does It Exist With COVID-19?-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7184973/
-    --
-      'Weissleder_et_al_06_03_2020
+
 
     / Serology
     subject Serology
       head = Serological tests detect antibodies produced by the body in response to infection. It can measure neutralizing antibodies and binding antibodies. Antibody serosurveys are being conducted to monitor trends in the prevalence of the novel coronavirus.
-      >>>
-        Some Serology Tests have higher sensitivity than others. The clinical sensitivity of IgM for early diagnosis of COVID-19 is currently unclear.
-        SARS-CoV-2-specific IgM does not consistently appear before its IgG counterpart.
-        Some studies reporting detection of SARS-CoV 2 spike protein-specific IgG before IgM.
-        Since the appearance of antibodies is time dependent, diagnosis of COVID-19 by serological methods is limited to patients with a longer duration of illness.
+
       --
-        'Lassaunière_et_al_2020
-        'Weissleder_et_al_06_03_2020
-        'Watson_et_al_05_12_2020
-        'Sethuraman_et_al_05_06_2020
+        Serologyantibodies
+
       --
         Immunoassay
 
@@ -67,11 +60,23 @@ subject module Diagnostics
       --
         'Wu_et_al_04_20_2020
 
+      / Antibodies Detection through Serology
+      subject Serologyantibodies
+        head = Appearance of antibodies is time dependent, diagnosis of COVID-19 by serological methods is limited to patients with a longer duration of illness.
+        >>>
+          Some Serology Tests have higher sensitivity than others. The clinical sensitivity of IgM for early diagnosis of COVID-19 is currently unclear.
+        --
+          'Lassaunière_et_al_2020
+          'Weissleder_et_al_06_03_2020
+        >>>
+          SARS-CoV-2-specific IgM does not consistently appear before its IgG counterpart.Some studies reporting detection of SARS-CoV 2 spike protein-specific IgG before IgM.
+        --
+          'Watson_et_al_05_12_2020
+          'Sethuraman_et_al_05_06_2020
+
       / Immunoassay detection
       subject Immunoassay
-        head =
-        >>>
-           S1 and N proteins are the dominant antigens of SARSCoV-2 that elicit both IgG and IgM antibodies.
+        head = S1 and N proteins are the dominant antigens of SARSCoV-2 that elicit both IgG and IgM antibodies.
         -- Immuno-Diagnostics, Immunoassy
           'Jiang_et_al_2020
           'Stadlbauer_et_al_2020

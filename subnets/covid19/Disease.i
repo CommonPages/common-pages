@@ -4,6 +4,7 @@ subject module Disease
   / Incubation Period
   subject IncubationPeriod
     head = Incubation period ranges from 1 to 14 days.
+
     -- IncubationPeriod of other Respiratory Viral infection
       'Lessler_et_al_2013
     -- COVID-19
@@ -69,8 +70,6 @@ subject module Disease
   / Immune Reponse
   subject ImmuneResponse
     head = Clinical Laboratory findings suggest an underline immunopathology. Additionally people with COVID-19 and ARDS have classic serum biomarkers of Cytokine release syndrome.
-    >>>
-      As of now, Clinical laboratory findings of elevated IL-2, IL-7, IL-6, granulocyte-macrophage colony-stimulating factor (GM-CSF), interferon-γ inducible protein 10 (IP-10), monocyte chemoattractant protein 1 (MCP-1), macrophage inflammatory protein 1-α (MIP-1α), and tumour necrosis factor-α (TNF-α) indicative of cytokine release syndrome (CRS) suggest an underlying immunopathology.  Additionally, people with COVID‑19 and acute respiratory distress syndrome (ARDS) have classical serum biomarkers of CRS, including elevated C-reactive protein (CRP), lactate dehydrogenase (LDH), D-dimer, and ferritin.
 
     # Source WHO https://www.who.int/docs/default-source/coronaviruse/risk-comms-updates/update-34-immunity-2nd.pdf?sfvrsn=8a488cb6_2
 
@@ -81,21 +80,13 @@ subject module Disease
       InnateImmuneResponse
 
     >>> Adaptive Immune Response
-      Specific Response to the infection
-      Starts After 6-8 days
-      T Cell - Celluar Response
-      B Cell - Antibody Response
-
-    >>> T Cell
-      recognize cells that are infected with a specific virus and rapidly increase in number to tackle the infection.
-      - CD8+ cytotoxic T cells kill the cells in which the virus is multiplying and help to slow down or stop the infection.
-      - CD4+ helper T cells bring in other cells of the immune system and stimulate B-Cells to produce antibodies specific to that virus.
+      Specific Response to the infection which starts After 6-8 days. There are two types :-
+      - T Cell - Celluar Response
+      - B Cell - Antibody Response
 
     --
       TCell
-
-    >>> B Cell
-      Produce antibodies that are specific to that virus. IgM antibodies are produced first and disappear after a few weeks. IgG antibodies are produced at the same time or 2-3 days later, and titres (levels) usually remain for months or years.
+      BCell
 
     >>>
       Female patients mounted significantly more robust T cell activation than male patients during SARS-CoV-2 infection, which was sustained in old age.
@@ -105,11 +96,17 @@ subject module Disease
       Asymptomatic individuals had a weaker immune response to SARS-CoV-2 infection.
     --
       'Xin-Long_et_al_06_18_2020
-    -- Cytokine is more common in SARS-CoV-2 than influenza
+    >>>
+      Cytokine is more common in SARS-CoV-2 than influenza
+    --
       'Mudd_et_al_05_15_2020
-
-    -- Nsp1 interfere with antiviral defense
+    >>>
+      Nsp1 interfere with antiviral defense
+    --
       'Thoms_et_al_05_18_2020
+
+    >>>
+      As of now, Clinical laboratory findings of elevated IL-2, IL-7, IL-6, granulocyte-macrophage colony-stimulating factor (GM-CSF), interferon-γ inducible protein 10 (IP-10), monocyte chemoattractant protein 1 (MCP-1), macrophage inflammatory protein 1-α (MIP-1α), and tumour necrosis factor-α (TNF-α) indicative of cytokine release syndrome (CRS) suggest an underlying immunopathology.  Additionally, people with COVID‑19 and acute respiratory distress syndrome (ARDS) have classical serum biomarkers of CRS, including elevated C-reactive protein (CRP), lactate dehydrogenase (LDH), D-dimer, and ferritin.
 
     --
       Interferons
@@ -117,11 +114,14 @@ subject module Disease
       AffinityMaturation
       FrontiersImmune
 
-    / T Cells
+    / T Cells Antibody Response
     subject TCell
-      head =
-      >>>
-        CD4+ & CD8+ T Cells
+      head = T Cell Recognize cells that are infected with a specific virus and rapidly increase in number to tackle the infection. CD8+ cytotoxic T cells kill the cells in which the virus is multiplying. CD4+ helper T cells bring in other cells of the immune system
+
+      >>>  CD4+ & CD8+ T Cells
+        - CD8+ cytotoxic T cells kill the cells in which the virus is multiplying and help to slow down or stop the infection.
+        - CD4+ helper T cells bring in other cells of the immune system and stimulate B-Cells to produce antibodies specific to that virus.
+
       --
         'Chen_et_al_2020d
         'Zheng_et_al_2020b
@@ -138,9 +138,13 @@ subject module Disease
       -- T-Cell Response on patients
         'Nelde_et_al_06_16_2020
 
+    / B Cells Cellular Response
+    subject BCell
+      head = Produce antibodies that are specific to that virus. IgM antibodies are produced first and disappear after a few weeks. IgG antibodies are produced at the same time or 2-3 days later, and titres (levels) usually remain for months or years.
+
     / Interferons
     subject Interferons
-      head =
+      head = Role of Type I & type III Interferon for restricting SARS CoV-2 infection.
       >>>
         Role of {Interferonone type I} type III Interferon
       --
@@ -151,7 +155,7 @@ subject module Disease
 
     / Innate Immune Response
     subject InnateImmuneResponse
-      head =
+      head = Dysregulation of the innate immune response contributes to the cytokine storm seen in severe SARS-CoV-2 infection.
       -- Activation of Innate Immune Response
         'Subbarao_et_al_05_19_2020.!a
         'Subbarao_et_al_05_19_2020.!b
@@ -159,20 +163,19 @@ subject module Disease
 
     / Monocytes and Macrophages
     subject MonocytesMacrophages
-      head =
+      head = Macrophages are a population of innate immune cells that sense and respond to microbial threats by producing inflammatory molecules that eliminate pathogens and promote tissue repair. A dysregulated macrophage response can be damaging to the host
       -- Monocytes and Macrophages
         'Merad_et_al_05_06_2020
 
+    / Affinity Maturation
     subject AffinityMaturation
-      head =
-      >>>
-        Affinity maturation is the process by which TFH cell-activated B cells produce antibodies with increased affinity for antigen during the course of an immune response.
+      head = Affinity maturation is the process by which TFH cell-activated B cells produce antibodies with increased affinity for antigen during the course of an immune response.
       --
         'King_et_al_2020
 
     / Frontiers
     subject FrontiersImmune
-      head =
+      head = Celluar Immune Response of SARS , Influenza suggest suggest similar pathophysiology.
       -- Immune Response to SARS in Mice
         'Chen_et_al_2009
         'Chen_et_al_2009.!a
@@ -182,7 +185,6 @@ subject module Disease
         'Zhao_et_al_2010
       -- Innate Immune Response
         'Qian_et_al_11_06_2012
-
       -- Immune Reponse to Influenza
         'Furman_et_al_2015
       # Why some are Asymtomatic? Sero survey suggest people have cross reactive antibodies
@@ -625,10 +627,10 @@ subject module Disease
         'Van-Dorn_et_al_04_18_2020.!a
         'Gaffney_et_al_08_21_2020
 
-  / Case Fatality Rate & Mortality Rate
+  / Infection Fatality Rate & Mortality Rate
   subject module Fatality
-    head =
-    -- CFR & IFR
+    head = IFR and Mortality rate varies for different geography and age group. Infection Fatality Rate is estimated between 0.3 to 1.4%.
+    -- IFR
       'Wu_et_al_2020
       'Porcheddu_et_al_2020
       'Onder_et_al_2020
@@ -655,8 +657,6 @@ subject module Disease
     -- Predicting Mortality and Infection Fatality Rate
       'Yan_et_al_05_14_2020
       'Grewelle_et_al_05_18_2020
-
-
 
 
   # have to link this section to vaccine development

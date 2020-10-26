@@ -1,18 +1,21 @@
 
 / Mitigation
 subject module Mitigation
+
   / Infection Prevention
   subject module InfectionPrevention
-    head = Control measures such has hand hygiene, PPE, Disinfection and use of antimicrobial surfaces are recommended in any setting to prevent the spread of infection.
+    head = Control measures such has hand hygiene, Face Mask, PPE, Disinfection and use of antimicrobial surfaces are recommended in any setting to prevent the spread of infection.
+
     / Hand Washing
     subject HandWashing
-      head = Reports reveal that hand washing with soap and water to remove viruses is an effective measure to stop individual transmissibility of COVID-19.
+      head = Hand washing with soap and water to remove viruses is an effective measure to stop individual transmissibility of COVID-19.
       --
         'Ryan_et_al_2001
         'Jefferson_et_al_2008
+
     / Personal Protective Equipments
     subject ProtectiveDevices
-      head = Research suggests that face coverings and surgical masks can prevent large particles spreading from an infected person wearing a mask to someone else. The inappropriate use of PPE equipment has been linked to an increase in rates of the transmission of infection.
+      head = Face coverings and surgical masks can prevent large particles spreading from an infected person wearing a mask to someone else. The inappropriate use of PPE equipment has been linked to an increase in rates of the transmission of infection.
       --
         'Jefferson_et_al_2008
       -- Face Mask effective in reducing influenza cases
@@ -28,21 +31,20 @@ subject module Mitigation
         'Seto_et_al_2003.!c
         'Seto_et_al_2003.!d
         'Seto_et_al_2003.!e
-      -- Surgical facemasks could prevent transmission
-        'Leung_et_al_2020
-      -- importance of wearing facemasks regardless of symptoms
+      -- Importance of wearing facemasks regardless of symptoms
         'Jing_et_al_2020.!k1
-      -- mask wearing reduces the transmissibility/ cloth/non medical mask effective form of source control
+      -- Mask as effective form of source control
         'Howard_et_al_05_13_2020
       --
         'Strasser_et_al_05_22_2020
-      -- mask to prevent transmission
+      -- Mask to prevent transmission
         'Chu_et_al_06_01_2020
         'Chu_et_al_06_01_2020.!a
         'Setti_et_al_04_23_2020
+        'Leung_et_al_2020
       -- 100% of the public wear facemasks
         'Stutt_et_al_06_10_2020
-      -- use of face mask lead to no secondary transmission
+      -- Use of face mask lead to no secondary transmission
         'Hendrix_et_al_07_14_2020
       -- Efficiency of Cloth Mask
         'Konda_et_al_06_18_2020
@@ -54,16 +56,17 @@ subject module Mitigation
 
     / Disinfection
     subject Disinfection
-      head = UVC is effective at deactivating coronaviruses closely related to SARS-CoV-2. Study shows that FAR UVC has shown to inactivate microorganisms, but does not produce biological damage to exposed mammalian cells and tissues
+      head = UVC is effective at deactivating coronaviruses closely related to SARS-CoV-2. FAR UVC has shown to inactivate microorganisms, but does not produce biological damage to exposed mammalian cells and tissues
       -- UVC
         'Welch_et_al_2018
         'Elikaei_et_al_2006
         'Darnell_et_al_2004
       -- UV LEDs
         'SaifAddin_et_al_2020
+
     / Antimicrobial Surface
     subject Antimicrobial
-      head = Research shows antimicrobial surface made of copper, silver can destroy a wide range of microorganisms in a short period of time.
+      head = Antimicrobial surface made of copper, silver can destroy a wide range of microorganisms in a short period of time.
       -- Copper
         'Han_et_al_2005
       -- inactivated on copper
@@ -78,7 +81,8 @@ subject module Mitigation
 
   / Containment Measures
   subject module Containment
-    head = Research investigating Containment Measures taken by individuals, businesses, health departments, and community settings to slow the spread of COVID-19.
+    head = There are several containment measures taken by individuals, businesses, health departments, and community settings to slow the spread of COVID-19 but it remains unclear the extent to which these unprecedented measures have been successful.
+
     / Social Network
     subject SocialNetwork
       head = The restriction of interactions within a social network has shown to reduce and slow the spread of infection.
@@ -92,6 +96,7 @@ subject module Mitigation
         'Fu_et_al_2017
         'gracia_et_al_2017
         'gracia_et_al_2017b
+
     / Quarantine
     subject Quarantine
       head = Studies state that voluntary individual quarantine and voluntary active monitoring of contacts are core disease control strategies for emerging infectious diseases such as COVID-19.
@@ -130,15 +135,15 @@ subject module Mitigation
 
     / School Closure
     subject SchoolClosure
-      head = Based on studies, Earlier schools were closed, the lower the number of excess death in past epidemics
-      -- based on models
+      head = Based on past studies, earlier schools were closed, the lower the number of excess death in past epidemics
+      -- Past Model Studies
         'Sebastiani_et_al_2006
         'Fergusion_et_al_2006
         'Kawano_et_al_2015
         'Ciavarella_et_al_2016
-      -- past studies
+      -- Past studies
         'Market_et_al_2007
-      -- important conduit for the initial spread of close contact infections
+      -- Important conduit for the initial spread of close contact infections
         'Mossong_et_al_2008.!a
       -- School Reopening
         'Gaffney_et_al_08_21_2020
@@ -148,20 +153,20 @@ subject module Mitigation
 
     / Contact Tracing
     subject ContactTracing
-      head = Testing and Tracing is an effective strategy at the start of an outbreak when there are just a few chains of transmission of the disease. Countries that persisted with expanded and rigorous testing and tracing have fared better with lower death rates than those which did not.
+      head = Testing and Tracing is an effective containment strategy at the start of an outbreak when there are just a few chains of transmission of the disease. Countries that persisted with expanded, continuous and rigorous testing and tracing have fared better with lower death rates than those which did not.
       --
         'Ferretti_et_al_2020
         'Liu_et_al_03_03_2020.!f
-      -- modeling paper
+      -- Modeling paper
         'Dufresne_et_al_2020
         'Dufresne_et_al_2020.!e
-      -- effectiveness of contact tracing also dependant on the number of asymptomatic cases
+      -- Effectiveness of contact tracing also dependant on the number of asymptomatic cases
         'Sanche_et_al_2020.!f
         'Bi_et_al_04_27_2020
 
     / Ventilation
     subject Ventilation
-      head = Appropriate building engineering controls such as effective ventilation, possibly enhanced by particle filtration and air disinfection, avoiding air recirculation and avoiding overcrowding. Such measures can contribute to infection control goals.
+      head = Appropriate building engineering controls such as effective ventilation, possibly enhanced by particle filtration and air disinfection, avoiding air recirculation and avoiding overcrowding. Such measures can contribute to infection control goals for COVID-19
       --
         'Morawska_et_al_05_27_2020
         'Morawska_et_al_05_27_2020.!a
@@ -186,9 +191,11 @@ subject module Mitigation
         'Amoatey_et_al_05_12_2020
       -- Past studies
         'Holmberg_et_al_05_19_2003
+
     / Hospital Mitigation
     subject Nosocomial
       head = Several mitigation measures are being used by hospitals to minimize the chance of exposure to healthcare workers and to protect high-risk population within the hospitals. Mitigation measures adopted, includes the promoting the use of everyday preventive actions.
+
       -- The SARS/ reducing the risk of infection after exposures to patients with SARS.
         'Wang_et_al_2005.!f
         'Wang_et_al_2005.!g
@@ -220,8 +227,7 @@ subject module Mitigation
 
     / Indoor Mitigation
     subject Indoormitigation
-      head =
-
+      head = The layout and design of a building, as well as occupancy and type of heating, ventilation, and air conditioning (HVAC) system, can all impact potential airborne spread of the virus. Improvements to ventilation and air cleaning can reduce risk of airborne tranmission.
       -- Gyms
         'Dominski_et_al_07_17_2020
       -- Meat and Poultry Processing Plants
@@ -236,6 +242,7 @@ subject module Mitigation
         'Lodder_et_al_2012
       -- Sewage Sludge
         'Peccia_et_al_2020
+
     / Projection Model
     subject ProjectionModel
       head = Projection models summarising plausible transmission scenarios, mitigation measures suggest the continual of non-nonpharmaceutical interventions is necessary for COVID-19 containment.
@@ -287,10 +294,11 @@ subject module Mitigation
       'Doung-ngern_et_al_08_14_2020
     -- Israel
       'Miller_et_al_2020b
-      
+
   / Herd Immunity
   subject HerdImmunity
-    head = Epidemiological and immunological factors, such as population structure, variation in transmission dynamics, and waning immunity, have important implications in the context of herd immunity. Currently, they are difficult to estimate given the limited data available.
+    head = Epidemiological and immunological factors, such as population structure, variation in transmission dynamics, and waning immunity, have important implications in the context of herd immunity.
+
     >>>
       Studies emphasize the importance for incorporating immunological factors such as protective immunity and epidemiological factors such as viral spread, infectivity, variation in R0 across time and populations, heterogeneity in the attack and contact rates across demographic groups, inter-individual variation in communicability, disease severity must be taken into account for establishment of herd immunity within populations.
     -- Individual variation in susceptibility or exposure to infection/heterogeneity
