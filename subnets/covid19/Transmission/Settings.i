@@ -1,20 +1,16 @@
 / Settings
 subject module Settings
-  head = Settings
+  head = nCoV-2 is highly prone to spread under certain settings like closed, poorly ventilated, crowded locations, events.
   --
     GenericLocation
-  --
     Events
-  --
     EnvironmentalConditions
-  --
     OtherConditions
-  --
     GeographicLocation
 
   / Generic Location
   subject module GenericLocation
-    head =
+    head = This is a set of reports on the spread of the virus in multiple indoor, outdoor and other generic locations
     --
       IndoorLocation
       OutdoorLocation
@@ -24,7 +20,10 @@ subject module Settings
 
     / Indoor Location
     subject module IndoorLocation
-      head =
+      head = Potential of transmission of nCov-2 is high in indoor location -- both household and multi-use public spaces -- esp with poor ventilation conditions, as can be seen in various places below.
+      --
+        HouseholdLocation
+        MultiusePublicPlace
       -- Indoor Tranmission (unsorted)
         'Chan_et_al_2020
         'Qian_et_al_2020
@@ -56,13 +55,10 @@ subject module Settings
         'Tariq_et_al_02_20_2020
         'Shim_et_al_03_17_2020
         'Zhao_et_al_06_03_2020
-      --
-        HouseholdLocation
-        MultiusePublicPlace
 
       / Household Location
       subject HouseholdLocation
-        head =
+        head = There are numerous reports which indicate the spread of nCov-2 in household condition within a family.
         -- Household Transmission
           'Jing_et_al_2020
           'Bi_et_al_04_27_2020.!g
@@ -103,15 +99,15 @@ subject module Settings
           'Cheng_et_al_03_19_2020
           'Zhao_et_al_06_03_2020
 
-      / Multiuse Public Place
+      / Multiuse Public Spaces
       subject MultiusePublicPlace
-        head =
+        head = COVID-19 is specifically prone to spread through the multi-use public spaces, where public tend to co-habit/ interact for porlonged durations including hospitals, restaurants, travel-means like trains, flights or buses, shopping spaces, etc.
         # --
         #   'Kang_et_al_07_07_2020
 
         / Hospital
         subject HospitalNosocomial
-          head =
+          head = Numerous reports indicated the transmission of the virus within hospital conditions.
           --
             'Horve_et_al_06_28_2020
             'Liu_et_al_2020bb
@@ -162,7 +158,7 @@ subject module Settings
 
         / Nursing Homes
         subject NursingHomes
-          head =
+          head = The spread of the disease is also reported in care facilities and nursing homes, esp due to the typical older age of the inhabitants.
           -- Longterm Care Facilities
             'Hoxha_et_al_07_03_2020
             'Kimball_et_al_04_03_2020
@@ -172,48 +168,30 @@ subject module Settings
 
         / Shopping Place
         subject ShoppingPlace
-          head =
+          head = The spread of the disease is also reported in shopping places like stores, malls, etc
 
-          / Stores
-          subject Stores
-            head =
-            --
-              'Yang_et_al_03_08_2020
-              'Tariq_et_al_02_20_2020
+          -- Stores
+            'Yang_et_al_03_08_2020
+            'Tariq_et_al_02_20_2020
+          -- Shops
+            'Pung_et_al_03_28_2020
+            'Yang_et_al_03_08_2020
+            'Tariq_et_al_02_20_2020
+            'Cai_et_al_06_26_2020
+            'Yang_et_al_03_08_2020
+            'Cai_et_al_06_26_2020
+          -- Medical Stores
+            'Tariq_et_al_02_20_2020
 
-          / Shop
-          subject Shop
-            head =
-            --
-              'Pung_et_al_03_28_2020
-              'Yang_et_al_03_08_2020
-              'Tariq_et_al_02_20_2020
-              'Cai_et_al_06_26_2020
-              'Yang_et_al_03_08_2020
-              'Cai_et_al_06_26_2020
+          -- Malls
+            'Yang_et_al_03_08_2020
+            'Cai_et_al_06_26_2020
+            'Zhao_et_al_06_03_2020
 
-          / Medical Stores
-          subject MedicalStores
-            head =
-            --
-              'Tariq_et_al_02_20_2020
-
-          / Mall
-          subject Mall
-            head =
-            --
-              'Yang_et_al_03_08_2020
-              'Cai_et_al_06_26_2020
-              'Zhao_et_al_06_03_2020
-
-        / Restuarant Clubs
-        subject RestaurantClubs
-          head =
-          -- Restaurant/ Nightclubs
-            'Lu_et_al_04_02_2020
-            'Kang_et_al_07_07_2020
-            'Li_et_al_04_22_2020
-          -- Latest Papers for restaurants
+        / Restuarants
+        subject Restaurant
+          head = The spread of the disease is reported in Restaurants and clubs which are usually closed and crowded spaces with prolonged and close interactions and sharing food.
+          --
             'Lu_et_al_2020
             'Furuse_et_al_06_10_2020
             'Park_et_al_04_23_2020
@@ -222,19 +200,15 @@ subject module Settings
             'Tariq_et_al_02_20_2020
             'Li_et_al_04_22_2020
 
-          / Restuarant
-          subject Restuarant
-            head =
-
-          / Clubs
-          subject Clubs
-            head =
-            --
-              'Kang_et_al_07_07_2020
+        / Clubs
+        subject Clubs
+          head =  The spread of the disease is reported in night clubs which are usually closed crowded spaces with prolonged and close interactions.
+          --
+            'Kang_et_al_07_07_2020
 
         / Public Toilet
         subject PublicToilet
-          head =
+          head = The spread of the disease is also reported in facilities with public toilets and showers, where chances of indirect transmission through fomtes could be high.
           -- Latest papers for toilet
             'Döhla_et_al_06_02_2020
             'Yamagishi_et_al_05_08_2020
@@ -248,13 +222,12 @@ subject module Settings
 
           / Public Shower
           subject PublicShower
-            head =
             --
               'Tobolowsky_et_al_05_01_2020
 
         / Gymnasium
         subject Gymnasium
-          head =
+          head =  The spread of the disease is also reported in Gyms with high chances of crowding, intense physical activities within closed spaces.
           -- Gyms/ Sports/ Exercise
             'Jang_et_al_05_15_2020
             'Andrade_et_al_05_07_2018
@@ -268,31 +241,34 @@ subject module Settings
 
         / Cinema Theatres
         subject CinemaTheatres
-          head =
+          head = The spread of the disease can be high in cineme theatres which are usually closed spaces and crowded. But there are no reports yet.
 
         / Shelter Homes
         subject ShelterHomes
-          head =
+          head = The spread of the disease is reported in shelter homes which are usually closed spaces and crowded with prolonged interactions and co-habitations.
           --
             'Tobolowsky_et_al_05_01_2020
 
-        / Salon
+        / Salons
         subject Salon
-          head =
+          head = The spread of the disease is reported in salons and spas which are usually closed spaces and involve close contact with the hairdresser.
           -- Hair salon
             'Hendrix_et_al_07_14_2020
 
-        / Hotel
+        / Hotels
         subject Hotel
-          head =
+          head = The spread of the disease is reported in hotels which are usually closed spaces and normally mutli-use nature of various spaces and surfaces.
           --
             'Tariq_et_al_02_20_2020
             'Hijnen_et_al_05_11_2020
             'Li_et_al_04_22_2020
 
-        / Religious Place
+        / Religious Places
         subject ReligiousPlace
-          head =
+          head = The spread of the disease is reported in multiple religious places which are usually closed spaces and crowded with prolonged interactions.
+          --
+            Church
+            Temple
           -- Religious Gatherings/ Mass Gatherings
             'Thuan-Hoang_et_al_08_28_2018
             'Sassano_et_al_05_29_2020
@@ -303,6 +279,7 @@ subject module Settings
             'Qian_et_al_03_23_2020
             'Qian_et_al_03_17_2020
             'Echternach_et_al_07_24_2020
+
           subject Church
             -- Church
               'Yong_et_al_04_21_2020.!a
@@ -326,7 +303,7 @@ subject module Settings
 
         / Office Space
         subject OfficeSpace
-          head =
+          head = The spread of the disease is reported in office spaces which are usually closed spaces and involve prolonged interactions.
           --
             'Park_et_al_04_23_2020
             'Yang_et_al_03_08_2020
@@ -334,7 +311,7 @@ subject module Settings
 
         / School College
         subject SchoolCollege
-          head =
+          head = The spread of the disease is reported in office spaces which are usually closed spaces, crowded and involve prolonged interactions.
           -- School transmission
             'Stein-Zamir_et_al_07_21_2020
             'Heavey_et_al_05_28_2020
@@ -350,11 +327,11 @@ subject module Settings
 
         / Travelling Modes
         subject TravellingModes
-          head =
+          head = The spread of the disease is reported while travellking esp using Public Transport which are usually closed spaces and crowded and involve prolonged interactions.
 
-          / Public Tranmsport Modes
+          / Public Transport Modes
           subject PublicTransportModes
-            head =
+            head = The spread of virus is reported to be high due to co-habitation in a closed and crowded space for prolonged duration.
             -- Public transport
               'Zhao_et_al_01_30_2020
               'Zheng_et_al_03_14_2020
@@ -370,6 +347,13 @@ subject module Settings
                 'Shen_et_al_09_01_2020
 
             subject Train
+              --
+                'Ghinai_et_al_04_17_2020
+                'Zheng_et_al_03_14_2020
+                'Zhao_et_al_01_30_2020
+                'Corburn_et_al_04_24_2020
+                'Huang_et_al_02_28_2020
+                'Yu_et_al_02_18_2020
 
             subject Cruise
               -- Cruise ship
@@ -408,14 +392,14 @@ subject module Settings
 
           / Private Vehicles
           subject PrivateVehicles
-            head =
+            head = The spread of virus is reported to be minimal in private vehicles like Car.
             -- Car
               'Zhao_et_al_01_30_2020
               'Burke_et_al_05_03_2020
 
         / Meat Processing Unit
         subject MeatProcessingUnit
-          head =
+          head = The spread of the virus is reported in meat processing units.
           -- Meat Processing Plants
             'Guenther_et_al_07_23_2020
             'Dyal_et_al_05_08_2020
@@ -425,21 +409,23 @@ subject module Settings
 
     / Outdoor Location
     subject module OutdoorLocation
-      head =
+      head = There is very limited evidence until now for the spread of the virus in outdoor locations, though some experts donot deny the possibility.
+      --
+        Parks
       --
         'Qian_et_al_2020.!h
 
       / Parks
       subject Parks
-        head =
+        head = There is no evidence yet for a spread of the virus in outdoor locations like Parks.
 
     / Animal Market and Farms
     subject AnimalMarket_Farms
-      head =
+      head =  There is mixed evidence for a spread of the virus in conditions specific to Animal Farms.
 
       / Wet Market
       subject WetMarket
-        head =
+        head =  There is some evidence linking the spread of the virus to Wet Markets.
         --
           'Webster_et_al_01_17_2004
           # 'Webster_et_al_01_17_2004
@@ -447,7 +433,7 @@ subject module Settings
 
       / Poultry Farm
       subject PoultryFarm
-        head =
+        head = Evidence of spread of the nCoV-2 through Poultry farms is yet to be reported.
         -- Poultry
           'Dhingra_et_al_06_05_2018
 
@@ -457,7 +443,7 @@ subject module Settings
 
       / Slum Dwellings
       subject SlumDwellings
-        head =
+        head = These report the spread of the virus in crowded human settlements like slums.
         --
           'Corburn_et_al_04_24_2020
           'Riley_et_al_03_07_2007
@@ -465,13 +451,13 @@ subject module Settings
 
       / Municipality
       subject Municipality
-        head =
+        head = This reports the spread of the virus in urban human settlements like Municipalities.
         -- Municipality
           'Lavezzo_et_al_04_18_2020
 
   / Events
   subject module Events
-    head =
+    head = There were certain events where the spread of the virus was reported.
     --
       Ceremonies
       Festivals
@@ -483,32 +469,28 @@ subject module Settings
 
     / Ceremonies
     subject Ceremonies
-      head =
-      -- Latest papers on ceremonies
+      head = The spread of virus is reported in ceremonies and parties when people gather and have prolonged interaction in close contact.
+      -- funeral etc
         'Ghinai_et_al_04_17_2020
         'Shen_et_al_06_12_2020
-      subject Wedding
-        --
-          'Shen_et_al_06_12_2020
-      subject Funeral
-      subject BirthdayParties
-        -- Party
-          'Ghinai_et_al_04_17_2020
-          'Shen_et_al_06_12_2020
-        -- Parties
-          'Furuse_et_al_06_10_2020
-          'Yamagishi_et_al_06_11_2020
+      -- Wedding
+        'Shen_et_al_06_12_2020
+      -- Parties
+        'Ghinai_et_al_04_17_2020
+        'Shen_et_al_06_12_2020
+        'Furuse_et_al_06_10_2020
+        'Yamagishi_et_al_06_11_2020
 
-    / Fetivals
+    / Festivals
     subject Festivals
-      head =
+      head = The spread of virus is reported in festivals, esp of religious nature, when people gather in large numbers and often in closed spaces.
       # subject ReligiousGatherings
       --
         'Qian_et_al_03_23_2020
 
     / Dinner
     subject Dinner
-      head =
+      head = Dining together is also shown to spread the virus in multiple case reports.
       --
         'Ghinai_et_al_04_17_2020
         'Huang_et_al_02_28_2020
@@ -524,26 +506,20 @@ subject module Settings
 
     / Concert Choir
     subject ConcertChoir
-      head =
+      head = The virus is reported to spread in concerts and choirs where is a loud singing and cheering involved in large public gatherings.
 
-      / Choir
-      subject Choir
-        head =
-        -- Choir
-          'Miller_et_al_06_18_2020
-          'Hamner_et_al_2020
-          'Echternach_et_al_07_24_2020
+      -- Choir
+        'Miller_et_al_06_18_2020
+        'Hamner_et_al_2020
+        'Echternach_et_al_07_24_2020
 
-      / Concert
-      subject Concert
-        head =
-        --
-          'Furuse_et_al_06_10_2020
+      -- Concert
+        'Furuse_et_al_06_10_2020
 
-    / Meetings Business Conferences Workshops
+    / Formal Events
     subject FormalEvents
-      head =
-      -- Meeting
+      head = The spread of the virus was reported during many formal events which involve prolonged interactions in closed crowded settings.
+      -- Meetings
         'Jang_et_al_05_15_2020
         'Tariq_et_al_02_20_2020
         'Hijnen_et_al_05_11_2020
@@ -552,50 +528,56 @@ subject module Settings
       -- Business meeting
         'Tariq_et_al_02_20_2020
 
-    / Liesure Events
-    subject LiesureEvents
-      head =
-      -- Travel
-        'Lu_et_al_2020
-        'Kissler_et_al_05_08_2020
-        'Xu_et_al_03_30_2020
-        'Yamagishi_et_al_06_11_2020
-        'Kenyon_et_al_04_11_1996
-        'Moser_et_al_1979
-        'Hickman_et_al_03_22_1995
-        'Zhao_et_al_01_30_2020
-        'Huang_et_al_02_28_2020
-        'Qian_et_al_03_17_2020
-        'Yu_et_al_02_18_2020
-        'Zhang_et_al_03_27_2020
-        'Gupta_et_al_2010
-        'Jones_et_al_08_25_2020
-        'Somsen_et_al_05_27_2020
-        'Bahl_et_al_04_16_2020
-        'Bourouiba_et_al_08_25_2016
-        'Chan_et_al_2020
-        'Chen_et_al_08_01_2020
-        'Beggs_et_al_05_26_2020
-        'Burke_et_al_05_03_2020
-        'Burke_et_al_05_03_2020
-        'Zhao_et_al_06_03_2020
-        'Kang_et_al_09_01_2020
-        'Shen_et_al_09_01_2020
+    / Leisure Events
+    subject LeisureEvents
+      head = The virus is also reported to have spread during liesure events like travelling, camping etc which may have invovled prolonged interactions with close physical contatc.
+      --
+        Travel
+        TripsTours
+
+      subject Travel
+        head = Numerous cases of the spread of virus is reported in travel related events with prolonged interactions in crowded spaces.
+        -- Travel
+          'Lu_et_al_2020
+          'Kissler_et_al_05_08_2020
+          'Xu_et_al_03_30_2020
+          'Yamagishi_et_al_06_11_2020
+          'Kenyon_et_al_04_11_1996
+          'Moser_et_al_1979
+          'Hickman_et_al_03_22_1995
+          'Zhao_et_al_01_30_2020
+          'Huang_et_al_02_28_2020
+          'Qian_et_al_03_17_2020
+          'Yu_et_al_02_18_2020
+          'Zhang_et_al_03_27_2020
+          'Gupta_et_al_2010
+          'Jones_et_al_08_25_2020
+          'Somsen_et_al_05_27_2020
+          'Bahl_et_al_04_16_2020
+          'Bourouiba_et_al_08_25_2016
+          'Chan_et_al_2020
+          'Chen_et_al_08_01_2020
+          'Beggs_et_al_05_26_2020
+          'Burke_et_al_05_03_2020
+          'Burke_et_al_05_03_2020
+          'Zhao_et_al_06_03_2020
+          'Kang_et_al_09_01_2020
+          'Shen_et_al_09_01_2020
       subject TripsTours
+        head = Numerous cases of the spread of virus is reported in trips, tours, and camps, where there are chances of prolonged interactions.
         -- Trip
           'Lewis_et_al_06_24_2020
           'Shen_et_al_09_01_2020
         -- Tour
           'Tariq_et_al_02_20_2020
           'Pung_et_al_03_28_2020
-      subject Camp
-        --
+        -- Camps
           'Jang_et_al_05_15_2020
           'Szablewski_et_al_08_07_2020
 
     / Superspreading Events
     subject SuperspreadingEvents
-      head =
+      head = Besides the above settings, some superspreading events were specifically reported which have spread the virus to a large number of people.
       >>>
         Based on studies the Wuhan market was the site of an early superspreading event.
       -- Superspreading Events of COVID-19
@@ -613,7 +595,7 @@ subject module Settings
 
   / Environmental Conditions
   subject module EnvironmentalConditions
-    head =
+    head = Various environmental factors effect the activitity as well as the spread of the virus and the vulnerability of people to the virus.
     --
       Ventilation
       HumidityTemperature
@@ -623,7 +605,7 @@ subject module Settings
 
     / Ventilation
     subject Ventilation
-      head =
+      head = Multiple studies reported high chances of the spread of the virus in indoor spaces with poor ventilation.
       -- Latest papers on ventilation
         'Lu_et_al_2020
         'Andrade_et_al_05_07_2018
@@ -644,7 +626,7 @@ subject module Settings
 
     / Humidity and Temperature
     subject HumidityTemperature
-      head =
+      head = Though initially it was hypothesised that high temperatures could reduce the spread, there is no conclusive evidence on the effect of humidity and temperature on the activity and spread of the virus.
       -- Humidity & Temperature dependence
         'Lin_et_al_12_30_2019
         'Qi_et_al_03_20_2020
@@ -666,9 +648,9 @@ subject module Settings
       -- Counter to temperature dependence
         'Jamil_et_al_04_19_2020
 
-    / Air Condition
+    / Air Conditioning
     subject AirCondition
-      head =
+      head = Usage of air conditioning in multiple settings is reported to enhance the spread of the virus.
       --
         'Lu_et_al_2020
         'Stein-Zamir_et_al_07_21_2020
@@ -678,9 +660,9 @@ subject module Settings
         'Xiao_et_al_08_05_2020
         'Shen_et_al_09_01_2020
 
-    / Seasonal Varaiations
+    / Seasonal Variations
     subject HeatwaveSeason
-      head =
+      head = Seasonal factors like heat and coldness can influence the spread of the virus.
       -- Weather Influence
         'want_et_at_2020
         'luo_et_al_2020
@@ -694,7 +676,7 @@ subject module Settings
 
     / Particulate Matter
     subject ParticulateMatter
-      head =
+      head = General air pollution and the partciulate matter can worsen the general respiratory health of public making them vulnerable to COVID-19.
       -- Air Pollution
         'Wu_et_al_2020c
         'Setti_et_al_04_17_2020
@@ -702,18 +684,16 @@ subject module Settings
 
   / Other Condtions
   subject module OtherConditions
-    head =
+    head = Further, certain habitual or personal conditions effect the spread of the disease.
     --
       NoMask
       NoPPE
       CulturalConditions
       ProfessionalActivities
-      PoliceForce
-      DentalPractice
 
     / No Mask
     subject NoMask
-      head =
+      head = Though usage of masks was not mandated for everyone intially, usage of masks is shown to reduce the spread of the virus.
       --
         'Stein-Zamir_et_al_07_21_2020
         'Tobolowsky_et_al_05_01_2020
@@ -723,45 +703,32 @@ subject module Settings
 
     / No PPE
     subject NoPPE
-      head =
+      head = Non usage of PPE is shown to increase the spread of the virus.
       --
         'Ghinai_et_al_04_17_2020
 
     / Cultural Conditions
     subject CulturalConditions
-      head =
+      head = There could be certain peculiar social and cultural conditions that could affect the spread of the virus in a setting.
 
       / Customs
       subject Customs
-        head =
+        head = Certain customs like incense burning, licking the shrine could affect the spread of the virus.
         -- Customs, traditions and social environmental factors
           'Amoatey_et_al_05_12_2020
 
     / Professional Activities
     subject ProfessionalActivities
-      head =
-      # / Talking, Coughing, Sneezing,
-      # subject mundane
-      # subject Shopping
-      # subject Dancing
-      # subject Dining
-
-    / Police Force
-    subject PoliceForce
-      head =
+      head = Also, certain professional activities also involve specific vulnerabilities to the disease.
       -- Police force
         'Kokane_et_al_06_16_2020
-
-    / Dental Practice
-    subject DentalPractice
-      head =
       -- Dental Practice
         'Izzetti_et_al_04_17_2020
         'Peng_et_al_03_03_2020
 
   / Geographic Location
   subject module GeographicLocation
-    head =
+    head = This is a list of reports of the spread of the virus in multiple locations across the world.
     --
       WuhanHospital
       China
@@ -775,7 +742,7 @@ subject module Settings
 
     / Wuhan Hospital
     subject WuhanHospital
-      head =
+      head = These are reports related to the spread in and around Wuhan Hospital.
       --
         'Chan_et_al_2020
         'Liu_et_al_2020bb
@@ -783,7 +750,7 @@ subject module Settings
 
     / China
     subject China
-      head =
+      head = These are reports related to the spread in China.
       --
         'Wang_et_al_04_10_2020
         'Lu_et_al_2020
@@ -811,11 +778,11 @@ subject module Settings
 
     / India
     subject India
-      head =
+      head = These are reports related to the spread in India.
 
     / USA
     subject TheUS
-      head =
+      head = These are reports related to the spread in the US.
       --
         'Tobolowsky_et_al_05_01_2020
         'Kang_et_al_07_07_2020
@@ -828,7 +795,7 @@ subject module Settings
 
     / South Korea
     subject SouthKorea
-      head =
+      head = These are reports related to the spread in South Korea.
       --
         'Park_et_al_04_23_2020
         'Ju-Kim_et_al_04_08_2020
@@ -842,7 +809,7 @@ subject module Settings
 
     / Japan
     subject Japan
-      head =
+      head = These are reports related to the spread in Japan.
       --
         'Furuse_et_al_06_10_2020
         'Yamagishi_et_al_06_11_2020
@@ -852,7 +819,7 @@ subject module Settings
 
     / Singapore
     subject Singapore
-      head =
+      head = These are reports related to the spread in Singapore.
       --
         'Pung_et_al_03_28_2020
         'Kwok_et_al_05_21_2020
@@ -861,10 +828,10 @@ subject module Settings
 
     / UK
     subject TheUK
-      head =
+      head = These are reports related to the spread in the UK.
 
     / Taiwan
     subject Taiwan
-      head =
+      head = These are reports related to the spread in Taiwan.
       --
         'Liu_et_al_03_12_2020

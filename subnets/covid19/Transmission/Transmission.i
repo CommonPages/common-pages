@@ -1,20 +1,8 @@
-/ Tranmission of COVID-19 Virus
+/ Tranmission of the Virus
 subject module Transmission
-  head =
-
-  >>>
-    Content on modes
+  head = nCoV-2 is found to transmit in multiple settings through multiple modes spreading COVID-19.
   --
     Modes
-  >>>
-    Content on Settings
-  --
     Settings
-  >>>
-    Content on Spreading
-  --
     Spreading
-  >>>
-    Content on Transmission Mechanisms
-  --
     TransMechanism

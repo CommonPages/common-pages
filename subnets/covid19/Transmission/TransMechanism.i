@@ -68,15 +68,9 @@ subject module TransMechanism
     --
       'Endo_et_al_04_09_2020
 
-  / Human-to-animal Tranmission (should not be here)
-  subject HumanAnimalTransmission
-    head = There is some evidence of human-to-animal transmission of SARS-CoV-2, including examples in felids. Some institutions have advised those infected with SARS-CoV-2 to restrict contact with animals.
-    --
-      'Sun_et_al_2020
-      'Chen_et_al_2020b
 
   # To read
-    # 'Xiao_et_al_02_20_2020	Recognition of aerosol transmission of infectious agents: a commentary. 
+    # 'Xiao_et_al_02_20_2020	Recognition of aerosol transmission of infectious agents: a commentary.
     # 'Bourouiba_et_al_04_25_2004	Violent expiratory events: on coughing and sneezing.
     # 'Duguid_et_al_05_15_2009
     # 'Tang_et_al_08_17_2006

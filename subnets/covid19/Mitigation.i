@@ -118,7 +118,7 @@ subject module Mitigation
 
     / Social Distancing
     subject SocialDistancing
-      head = Research suggest that social distancing and population behavioural changes—that have a social and economic impact that is less disruptive than total lockdown—can meaningfully control COVID-19.
+      head = Research suggests that social distancing and population behavioural changes—that have a social and economic impact that is less disruptive than total lockdown—can meaningfully control COVID-19.
       --
         'Cowling_et_al_2020
         'Cowling_et_al_2020.!a
