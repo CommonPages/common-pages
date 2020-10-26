@@ -221,6 +221,7 @@ subject module Mitigation
     / Indoor Mitigation
     subject Indoormitigation
       head =
+
       -- Gyms
         'Dominski_et_al_07_17_2020
       -- Meat and Poultry Processing Plants
@@ -286,6 +287,7 @@ subject module Mitigation
       'Doung-ngern_et_al_08_14_2020
     -- Israel
       'Miller_et_al_2020b
+      
   / Herd Immunity
   subject HerdImmunity
     head = Epidemiological and immunological factors, such as population structure, variation in transmission dynamics, and waning immunity, have important implications in the context of herd immunity. Currently, they are difficult to estimate given the limited data available.

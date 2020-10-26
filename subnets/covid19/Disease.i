@@ -472,7 +472,7 @@ subject module Disease
 
     / Co-Morbid Conditions
     subject module CoMorbidConditions
-      head = Underlying health conditions such as obesity, diabetes, Hypertension, Cancer, HIV and cardiovascular disease could result in severe and even fatal respiratory complications
+      head = Underlying health conditions such as diabetes, cardiovascular disease, obesity, cancer, renal disease, and HIV probably contribute to severe and even fatal respiratory complications.
       >>>
         A greater number of comorbidities are correlated with poorer clinical outcomes.
       --
@@ -480,9 +480,8 @@ subject module Disease
         'Guan_et_al_2020.!b
       --
         Diabetes
-        Hypertension
-        Obesity
         Cardiovascular
+        Obesity
         HIV
         Cancer
         RenalDisease
@@ -491,37 +490,87 @@ subject module Disease
       -- ACE2
         'AlGhatrif_et_al_2020
 
+      / Cardiovascular
       subject Cardiovascular
+        head = Pre-existing cardiovascular disease seems to be linked with worse outcomes and increased risk of death in patients with COVID-19, whereas COVID-19 itself can also induce myocarditis, acute myocardial infarction, stroke, cardiomyopathy, heart failure, arrhythmias, acute pericarditis, and venous thromboembolism.
         --
           'Li_et_al_2020c
           'DelValle_et_al_05_30_2020.!g
+        --
+          Hypertension
 
+        / Hypertension
+        subject Hypertension
+          head = People with hypertension are likely to have increased disease severity.
+          -- Likely to develop severe/ICU cases after 2019-nCoV infection.
+            'Li_et_al_2020c.!b
+          -- People with hypertension were not more susceptible to 2019-nCoV infection.
+            'Li_et_al_2020c.!a
+          -- Less likely to recieve care in the ICU
+            'Richardson_et_al_04_22_2020.!l
+          # Age is a potent shared risk factor which links the two conditions.
+          --
+            'DelValle_et_al_05_30_2020.!g
+          >>>
+            Hypertension is treated with ACE inhibitors and ARBs, which results in an upregulation of ACE2. There are conflicting results with the use of angiotensin converting enzyme (ACE) inhibitors and angiotensin receptor blockers (ARB) in these patients. However, the continuation of clinically indicated ACE inhibitor and ARB medications is recommended in COVID-19.
+
+          -- Hypertension treatment with ACE2-stimulating drugs increases the risk of developing severe and fatal COVID-19.
+            'FangFang_et_al_2020
+            'FangFang_et_al_2020.!f
+          -- Reports
+            'FangFang_et_al_2020.!b
+            'FangFang_et_al_2020.!c
+            'FangFang_et_al_2020.!d
+            'FangFang_et_al_2020.!e
+            'Lee_et_al_05_28_2020.!d
+            'Richardson_et_al_04_22_2020.!n
+
+            # No evidence that antihypertensive calcium channel blockers increased ACE2 expression or activity
+          -- Potential new therapy for inflammatory lung diseases, cancer, diabetes, and hypertension.
+            'FangFang_et_al_2020.!a
+            'FangFang_et_al_2020.!g
+
+      / HIV
       subject HIV
+        head =  HIV-infected individuals should not be considered to be protected from SARS-CoV-2 infection or to have lower risk of severe disease. People with HIV might be at an increased risk of SARS-CoV-2 infection or severe COVID-19, especially those with comorbidity, lower CD4 count, or high HIV RNA load.
+
         -- Increased risk of SARS-CoV-2 infection
           'Xu_et_al_05_28_2020.!b
           'Vizcarra_et_al_05_28_2020
         -- HIV have lower risks of infection
           'Xu_et_al_05_28_2020
 
+      / Cancer
       subject Cancer
+        head = Mortality from COVID-19 in cancer patients appears to be principally driven by age, gender, and comorbidities.
         --
           'Lee_et_al_05_28_2020
 
+      / Diabetes
       subject Diabetes
+        head = Diabetes has been associated with more severe outcomes and higher mortality in coronavirus disease 2019 (COVID-19) patients compare to morbidity and mortality in patients without diabetes. Several mechanisms may play a role in this greater morbidity and mortality, especially uncontrolled hyperglycemia, an impaired immune system, pre-existing proinflammatory states, multiple comorbidities, and dysregulated angiotensin-converting enzyme 2 signaling.
+
         -- Diabetes are more likely to develop severe/ICU cases
           'Li_et_al_2020c.!b
           'Li_et_al_05_29_2020.!d
           'Richardson_et_al_04_22_2020.!l
+        -- People with diabetes were not more susceptible to 2019-nCoV infection.
+          'Li_et_al_2020c.!a
 
-        >>> TNF-a and IL-8 were significantly increased in patients diabetes
+        >>>
+          TNF-a and IL-8 were significantly increased in patients diabetes
         --
           'DelValle_et_al_05_30_2020.!g
 
-        >>> Newly diagnosed diabetes had the highest risk of all‐cause mortality
+        >>>
+          Newly diagnosed diabetes had the highest risk of all‐cause mortality
         --
           'Li_et_al_05_29_2020
+
+        # Initial reports were mainly on people with type 2 diabetes, although recent surveys have shown that individuals with type 1 diabetes are also at risk of severe COVID-19.
+
         >>>
-          ACE2 expression is increased in diabetes (type 1 or type 2) and treatment with ACE inhibitors and ARBs increases ACE2 expression.
+          ACE2 expression is increased in diabetes (type 1 or type 2) and treatment with ACE inhibitors and ARBs increases ACE2 expression. There are conflicting results with the use of angiotensin converting enzyme (ACE) inhibitors and angiotensin receptor blockers (ARB) in these patients. However, the continuation of clinically indicated ACE inhibitor and ARB medications is recommended in COVID-19.
 
         -- Diabetes treatment with ACE2-stimulating drugs increases the risk of developing severe and fatal COVID-19.
           'FangFang_et_al_2020
@@ -537,38 +586,17 @@ subject module Disease
           'FangFang_et_al_2020.!a
           'FangFang_et_al_2020.!g
 
-
-      subject Hypertension
-        -- Likely to develop severe/ICU cases after 2019-nCoV infection.
-          'Li_et_al_2020c.!b
-        -- less likely to recieve care in the ICU
-          'Richardson_et_al_04_22_2020.!l
-        --
-          'DelValle_et_al_05_30_2020.!g
-        >>>
-          Hypertension is treated with ACE inhibitors and ARBs, which results in an upregulation of ACE2.
-        -- Hypertension treatment with ACE2-stimulating drugs increases the risk of developing severe and fatal COVID-19.
-          'FangFang_et_al_2020
-          'FangFang_et_al_2020.!f
-        -- Reports
-          'FangFang_et_al_2020.!b
-          'FangFang_et_al_2020.!c
-          'FangFang_et_al_2020.!d
-          'FangFang_et_al_2020.!e
-          'Lee_et_al_05_28_2020.!d
-          'Richardson_et_al_04_22_2020.!n
-
-          # No evidence that antihypertensive calcium channel blockers increased ACE2 expression or activity
-        -- Potential new therapy for inflammatory lung diseases, cancer, diabetes, and hypertension.
-          'FangFang_et_al_2020.!a
-          'FangFang_et_al_2020.!g
-
+      / Obesity
       subject Obesity
+        head = Obesity appeared to be a previously unrecognized risk factor for hospital admission and need for critical care. Recent reports have associated disease severity with increased BMI categories.
         --
           'Simonnet_et_al_2020
           'Lighter_et_al_2020
 
+      / Renal Disease
       subject RenalDisease
+        head = The patients with kidney disease who appear most at risk for COVID-19 are those with a kidney transplant, due to immunosuppression, and those who undergo in-center hemodialysis treatments thrice weekly, due to inability to self-isolate. Patients with kidney disease also have other comorbidities, including hypertension, diabetes mellitus, and cardiovascular disease, that are risk factors for poor outcomes in COVID-19.
+
         -- High risk for the development of lethal pulmonary infections.
           'Sarnak_et_al_2001
         -- TNF-a and IL-8 were significantly increased in patients with chronic kidney disease (CKD)
@@ -586,7 +614,7 @@ subject module Disease
     / Ethnicity
     subject Ethnicity
       head = Case Reports from US shows, a greater proportion of deaths due to COVID-19 have occurred among African Americans. Similar issues affect Native American and Latino communities.
-      
+
       -- Case Reports
         'Williamson_et_al_05_07_2020
       --
@@ -622,7 +650,6 @@ subject module Disease
       'Richardson_et_al_04_22_2020.!d
       'Richardson_et_al_04_22_2020.!g
       'Richardson_et_al_04_22_2020.!n
-
     -- Excess Mortality
       'Modig_et_al_2020
     -- Predicting Mortality and Infection Fatality Rate
