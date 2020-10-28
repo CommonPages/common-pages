@@ -464,7 +464,7 @@ subject module Settings
       Dinner
       ConcertChoir
       FormalEvents
-      LiesureEvents
+      LeisureEvents
       SuperspreadingEvents
 
     / Ceremonies
