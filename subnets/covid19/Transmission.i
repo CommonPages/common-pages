@@ -243,6 +243,8 @@ subject module Transmission
 
       / Different Surfaces can carry active virus
       subject Fomites
+      
+      # it’s not clear whether SARS-CoV-2 is being transmitted in this way, nor how long the virus can remain infective outside the body.
 
         -- Neutral (later refine)
           'van_Doremalen_et_al_2020
