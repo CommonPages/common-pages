@@ -106,16 +106,26 @@ subject module Mitigation
                 'Rengasamy_et_al_06_28_2010.!a
                 'Jang_et_al_06_28_2015
                 'Palacios_et_al_05_27_2020
+              -- Less efficacy
+                'MacIntyre_et_al_04_21_2020
               >>>
                 Even with many layers simple clothmasks fail to provide adequate level of protection.
               --
                 'WHO_06_2020.!e
+                'Jung_et_al_08_28_2013
+
+            / Inconvenience and Risks
+            subject Risks
+              head =
+              --
+                'Matusiak_et_al_05_14_2020
 
             / Decontamination and Reuse
             subject Reuse
               head = Non-medical masks should be washed frequently and handled carefully, so as not to contaminate other items.
-              --
+              -- Hydrogen Peroxide Vapor sterilization of cloth masks
                 'Wood_et_al_10_23_2016
+              -- Washing
                 'Rowan_et_al_09_10_2020.!h
 
             / Policy recommendations regarding use of facemask
@@ -160,12 +170,20 @@ subject module Mitigation
                 'Chan_et_al_05_30_2020
                 'Sommerstein_et_al_07_06_2020.!a
                 'Carelli_et_al_06_17_2020
+                'MacIntyre_et_al_04_21_2020
+              -- Little protection
+                'Jung_et_al_08_28_2013
+
+            / Inconvenience and Risks
+            subject Risks
+              head =
+              --
+                'Matusiak_et_al_05_14_2020
 
             / Reuse of Surgical Masks
             subject Reuse
               head = Medical masks are typically not reused, and are to be disposed after a single use.
               --
-
                 'Quan_et_al_01_04_2017
 
             / Policy
@@ -206,37 +224,45 @@ subject module Mitigation
                 --
                   'Long_et_al_03_13_2020
                   'Long_et_al_03_13_2020.!c
+                -- Respirators more effective than masks
+                  'Chu_et_al_06_01_2020.!b
+                  'MacIntyre_et_al_04_21_2020
+                  'Hwang_et_al_03_07_2016
                 >>>
                   Design aspects that do not work well
                 # headtext here needs editing
                 --
                   'Fischer_et_al_08_2020
 
-              / Risks and Side Effects
+              / Inconvenience and Risks
               subject Risks
-                head = Some of risks associated with N95 mask are the discomfort it causes to the wearers. This may lead to lower compliance in wearing N95 correctly.
+                head = Some of the inconvenience associated with N95 mask are the discomfort it causes to the wearers. This may lead to lower compliance in wearing N95 correctly.
                 --
                   'Long_et_al_03_13_2020.!b
                   'Foo_et_al_10_06_2006
                   'Badri_et_al_09_2017
+                  'Matusiak_et_al_05_14_2020
 
-              / Reuse
+              / Mask Sterilization and Reuse
               subject Reuse
-                head = Can N95 masks which are typically considered disposable be reused? Some studies indicate that heat and other treatments of N95 masks can render them reusable.
-                --
+                head = Multiple strategies for mask sterilization have been proposed and studied, including exposure to ultraviolet (UV) germicidal irradiation, vaporized hydrogen peroxide, moist heat, ethylene oxide, and gamma irradiation.
+                -- Heat treatment
                   'Rockey_et_al_06_23_2020
                   'Rockey_et_al_06_23_2020.!b
                   'Ou_et_al_06_04_2020
-                  'Lynch_et_al_06_27_2020.!e
                   'Liao_et_al_05_05_2020.!a
-                  'Bailar_et_al_2006.!a
                   'Gertsman_et_al_08_22_2020.!a
-                  'Hossain_et_al_09_08_2020
-                --
-                  'Rowan_et_al_09_10_2020
-                  'Rowan_et_al_09_10_2020.!c
-                  'Rowan_et_al_09_10_2020.!d
                   'Rowan_et_al_09_10_2020.!e
+                -- Ultraviolet radiation
+                  'Rowan_et_al_09_10_2020.!d
+                -- Hydrogen Peroxide Vapor sterilization of respirator masks
+                  'Rowan_et_al_09_10_2020.!c
+                -- Recharge the masks post-decontamination and recover filtration efficiency.
+                  'Hossain_et_al_09_08_2020
+                -- Reuse of N95 masks recommended when they are in shortage
+                  'Lynch_et_al_06_27_2020.!e
+                  'Bailar_et_al_2006.!a
+
                 >>>
                   In case of prolonged use, N95 can be supplemented by wearing surgical masks and faceshields to reduce the risk of contamination.
                 --
@@ -247,31 +273,38 @@ subject module Mitigation
             head = Studies doing a comparative analysis of the three major categories of facemasks are described here.
             --
               'MacIntyre_et_al_04_21_2020
+              'Matusiak_et_al_05_14_2020
+            -- Respirators vs Surgical Masks
               'Hwang_et_al_03_07_2016
               'Sande_et_al_2008.!a
               'Balazy_et_al_2006.!a
               'Balazy_et_al_2006.!b
-              'Lai_et_al_2012.!a
-              'Matusiak_et_al_05_14_2020
-              'Jung_et_al_08_28_2013
-              'Davies_et_al_05_22_2013
-              'Mueller_et_al_05_18_2020.!a
-              'Ho_et_al_05_18_2020.!a
-              'Poostchi_et_al_05_12_2020
-            >>>
-              A comparative study of surgical and cloth Masks
-            --
-              'Shakaya_et_al_06_17_2016
-            >>>
-              A comparative study of surgical mask and N95 respirator
-            --
+            -- Surgical Masks and N95 Respirator
               'Wong_et_al_2006.!a
               'Long_et_al_03_13_2020.!a
-              'Jefferson_et_al_04_07_2020.!a
-              'RadonovichJr_et_al_09_03_2019.!a
               'Sande_et_al_07_09_2008.!a
               'Simha_et_al_08_25_2020
               'Schiling_et_al_07_27_2020
+              'Chu_et_al_06_01_2020
+            -- No difference between Surgical and Respirators/N95
+              'Jefferson_et_al_04_07_2020.!a
+              'RadonovichJr_et_al_09_03_2019.!a
+            -- Respirators vs Cotton Masks
+              'Chu_et_al_06_01_2020
+            -- Respirators more effective than Masks
+              'Chu_et_al_06_01_2020.!b
+              'MacIntyre_et_al_04_21_2020
+              'Hwang_et_al_03_07_2016
+            -- Fully sealed facemasks provide the highest protection.
+              'Lai_et_al_2012.!a
+            --
+              'Jung_et_al_08_28_2013
+            -- Surgical vs Cloth Masks
+              'Shakaya_et_al_06_17_2016
+              'Sande_et_al_2008.!a
+              'Davies_et_al_05_22_2013
+              'Mueller_et_al_05_18_2020.!a
+              'Ho_et_al_05_18_2020.!a
             >>>
               Neck fleece is not suitable for stopping the spread or protecting the wearers
             --
@@ -280,6 +313,11 @@ subject module Mitigation
               Faceshields should be used as a last resort.
             --
               'WHO_06_2020.!q
+              'Poostchi_et_al_05_12_2020
+            >>>
+              Children were less protected irrespective of the mask.
+            --
+              'Sande_et_al_2008.!a
 
             >>> Theoretical studies
               These typically look at the mathematical modeling of the spread of the virus with certain  assumptions. Typically they look at use of facemasks as one of the parameter to study the spread of virus in a typical population. Not all studies are Covid19 specific, studies with other respiratory diseases like H1N1, SARS, MERS or influenza can also provide vital information on how we appraoch the pandemic. The mathematical studies simulate the spread of the virus under various conditions and conclude/predict conditions for preventing the spread.
@@ -300,19 +338,27 @@ subject module Mitigation
         subject Whyfacemask
           head = In this section we look at the studies which indicate the potential usefulness and risks of using facemasks.
           --
-            'Abaluck_04_2020.!a
-            'Davies_et_al_2013.!a
             'Fischer_et_al_08_2020.!a
-            'WHO_06_2020.!a
             'Howard_et_al_05_13_2020.!a
-            'Howard_et_al_05_13_2020.!b
-            'Chu_et_al_06_01_2020.!b
-            'Eikenberry_et_al_04_21_2020.!d
+            'Abaluck_04_2020.!a
             'Sande_et_al_07_09_2008
+            'Davies_et_al_2013.!a
+            'Howard_et_al_05_13_2020.!b
+            'WHO_06_2020.!a
+          -- Prevents potential asymptomatic or presymptomatic transmission
             'Feng_et_al_03_20_2020.!b
+            'Maclntyre_et_al_04_30_2020.!a
+          -- Universal Masking
+            'Eikenberry_et_al_04_21_2020.!d
+            'MacIntyre_et_al_04_21_2020
             'Maclntyre_et_al_04_30_2020.!a
             'Li_et_al_08_14_2020
             'Sergi_et_al_05_13_2020
+            'Ho_et_al_05_18_2020.!a
+            'Schunemann_et_al_08_03_2020.!a
+            'Klompas_et_al_06_03_2020
+            'Feng_et_al_03_20_2020.!a
+
           --
             GeneralBenefits
             GeneralRisks
@@ -349,6 +395,13 @@ subject module Mitigation
               The initial viral load during getting an infection has shown to be correlated to the severity of the infection. Wearing any type of mask reduces this load and hence is effective thana wearing no protection at all.
             --
               'Davies_et_al_2013.!a
+              # check theses reports again
+            -- Reports- No use of facemasks
+              'Stein-Zamir_et_al_07_21_2020
+              'Tobolowsky_et_al_05_01_2020
+              'Yang_et_al_03_30_2020
+              'Hijnen_et_al_05_11_2020
+              'Shen_et_al_09_01_2020
             --
               Prevention
               Protection
@@ -380,7 +433,7 @@ subject module Mitigation
                 'Syed_et_al_2003.!c
                 'McDonald_et_al_10_31_2019.!a
 
-          / Risk & Disadvantages 
+          / Risk & Disadvantages
           subject GeneralRisks
             head =
             --
@@ -602,6 +655,8 @@ subject module Mitigation
               'Palacios_et_al_05_27_2020
             --
               'WHO_06_2020.!e
+            -- Better than no protection
+              'Davies_et_al_2013.!a
           / Industrial
           subject Industrial
             --
