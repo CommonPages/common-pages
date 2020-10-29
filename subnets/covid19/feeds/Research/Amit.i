@@ -87,7 +87,7 @@
 
 
     / WHO advisory on use of Facemasks - layers of clothing
-    let !e self assert = Fabric cloths (e.g., nylon blends and 100% polyester) when folded into two layers, provides 2-5 times increased filtration efficiency compared to a single layer of the same cloth, and filtration efficiency increases 2-7 times if it is folded into 4 layers.(75) Masks made of cotton handkerchiefs alone should consist of at least 4 layers, but have achieved only 13% filtration efficiency.(73) Very porous materials, such as gauze, even with multiple layers will not provide sufficient filtration; only 3% filtration efficiency.
+    let !e self assert = Fabric cloths (e.g., nylon blends and 100% polyester) when folded into two layers, provides 2-5 times increased filtration efficiency compared to a single layer of the same cloth, and filtration efficiency increases 2-7 times if it is folded into 4 layers. Masks made of cotton handkerchiefs alone should consist of at least 4 layers, but have achieved only 13% filtration efficiency. Very porous materials, such as gauze, even with multiple layers will not provide sufficient filtration; only 3% filtration efficiency.
     / WHO advisory on use of Facemasks - number and type of layers
     let !f self assert = A minimum of three layers is required for non-medical masks, depending on the fabric used. Choose water-absorbing (hydrophilic) materials or fabrics for the internal layers, to readily absorb droplets, combined with an external synthetic material that does not easily absorb liquid (hydrophobic).
 
