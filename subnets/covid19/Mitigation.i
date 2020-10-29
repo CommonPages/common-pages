@@ -965,6 +965,7 @@ subject module Mitigation
     -- Israel
       'Miller_et_al_2020b
 
+  —
   / Herd Immunity
   subject HerdImmunity
     head = Epidemiological and immunological factors, such as population structure, variation in transmission dynamics, and waning immunity, have important implications in the context of herd immunity.
