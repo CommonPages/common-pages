@@ -292,9 +292,11 @@ feed Sangeeta
   doi: https://doi.org/10.1056/NEJMp2026913
   ref 'Gandhi_et_al_09_08_2020
     head = Universal facial masking might help reduce the severity of disease and ensure that a greater proportion of new infections are asymptomatic. If this hypothesis is borne out, universal masking could become a form of “variolation” that would generate immunity and thereby slow the spread of the virus in the United States and elsewhere, as we await a vaccine.
+    -- exports
+      !a
 
-    / September, 2020 - The New England Journal of Medicine
-    let !a self assert =
+    / Universal masking may help reduce severity of disease and lead to immunity
+    let !a self assert = Universal facial masking might help reduce the severity of disease and ensure that a greater proportion of new infections are asymptomatic. If this hypothesis is borne out, universal masking could become a form of “variolation” that would generate immunity and thereby slow the spread of the virus in the United States and elsewhere, as we await a vaccine.
 
 
 
@@ -306,10 +308,11 @@ feed Sangeeta
 
     >>> Abstract
       Although the COVID-19 pandemic shows no signs of abating, public health strategies have transitioned from containment to harm reduction. In light of this paradigm shift, it is critical that individuals take steps to prevent the spread of SARS-CoV-2, the virus that causes COVID-19. In the United States, the CDC recommends that individuals wear face coverings in public places, such as grocery stores. As lockdowns are being phased out around the world, authorities are requiring the use of such masks in public places while maintaining social distance. Individuals (including healthcare professionals outside of their clinical settings) and manufacturers are following the CDC’s recommendation. But, many currently available masks are not form-fitting, are not customizable, and are uncomfortable with even short-term use, thereby undercutting their effectiveness. Moreover, because cotton absorbs and retains the moisture found in an exhaled breath masks made of cotton have the potential to increase the wearer’s risk of infection. Thus, as we shift to harm reduction and social distancing measures relax, it is imperative that these shortcomings in fabric masks are addressed and that is the motivation for this research. The overall objective of the research is to design, develop, and test a fabric mask that is effective while being comfortable during continuous use over long periods of time. As the first step in the design process, we reviewed the modes of transmission of SARS-CoV-2 virus. We analyzed a medical mask and a fabric mask in the market and identified their shortcomings. We carried out an in-depth analysis of user needs and developed the performance requirements of the proposed mask. We defined the architecture of the mask comprising the following principal components: Barrier, Form-Fitting, Positioning, and Fastening. We tested and evaluated candidate materials for the components and developed the design specifications and construction details for the mask. We produced the mask and carried out subjective testing on a user in a typical workplace setting; we demonstrated that the mask was form-fitting, customizable, washable, and could be worn continuously and routinely over extended periods of time by individuals and therefore could serve as an effective means to reduce the harm from SARS-CoV-2.
+    -- exports
+      !a
 
-
-    / August, 2020 - The Journal of Textile Institute
-    let !a self assert =
+    / An ergonomic and effective mask
+    let !a self assert = We defined the architecture of the mask comprising the following principal components: Barrier, Form-Fitting, Positioning, and Fastening. We tested and evaluated candidate materials for the components and developed the design specifications and construction details for the mask. We produced the mask and carried out subjective testing on a user in a typical workplace setting; we demonstrated that the mask was form-fitting, customizable, washable, and could be worn continuously and routinely over extended periods of time by individuals and therefore could serve as an effective means to reduce the harm from Covid-19.
 
 
   # policy, public health, general benefits, general public
@@ -317,10 +320,11 @@ feed Sangeeta
   doi: https://doi.org/10.1016/j.puhe.2020.05.009
   ref 'Sergi_et_al_05_13_2020
     head = All citizens should wear a mask. Although strict isolation and social distancing measures can flatten the infectious curve, the use of facemask needs to be encouraged and facilitated where the 6-feet social distancing cannot be implemented because of physical barriers. Preservation of N95 respirators for high-risk, aerosol-generating procedures in this pandemic should be considered when in short supply, but surgical facemasks should be provided to everybody.
+    -- exports
+      !a
 
-
-    / May, 2020 - Public Health
-    let !a self assert =
+    / Recommendation/Plicy: Everyone should wear masks
+    let !a self assert = All citizens should wear a mask. Although strict isolation and social distancing measures can flatten the infectious curve, the use of facemask needs to be encouraged and facilitated where the 6-feet social distancing cannot be implemented because of physical barriers. Preservation of N95 respirators for high-risk, aerosol-generating procedures in this pandemic should be considered when in short supply, but surgical facemasks should be provided to everybody.
 
 
   # Custom-made 3D-printed face masks, Typefacemask, shortage
@@ -331,10 +335,12 @@ feed Sangeeta
 
     >>> Abstract
       In the case of pandemic crisis situations, a crucial lack of protective material such as protective face masks for healthcare professionals can occur. A proof of concept (PoC) and prototype are presented, demonstrating a reusable custom-made three-dimensionally (3D) printed face mask based on materials and techniques (3D imaging and 3D printing) with global availability. The individualized 3D protective face mask consists of two 3D-printed reusable polyamide composite components (a face mask and a filter membrane support) and two disposable components (a head fixation band and a filter membrane). Computer-aided design (CAD) was used to produce the reusable components of the 3D face mask based on individual facial scans, which were acquired using a new-generation smartphone with two cameras and a face scanning application. 3D modelling can easily be done by CAD designers worldwide with free download software. The disposable non-woven melt-blown filter membrane is globally available from industrial manufacturers producing FFP2/3 protective masks for painting, construction, agriculture, and the textile industry. Easily available Velcro fasteners were used as a disposable head fixation band. A cleaning and disinfection protocol is proposed. Leakage and virological testing of the reusable components of the 3D face mask, following one or several disinfection cycles, has not yet been performed and is essential prior to its use in real-life situations. This PoC should allow the reader to consider making and/or virologically testing the described custom-made 3D-printed face masks worldwide.
+    -- exports
+      !a
 
 
-    / April, 2020 - International Journal of Oral & Maxillofacial Surgery
-    let !a self assert =
+    / 3D printed facemasks
+    let !a self assert =  A proof of concept (PoC) and prototype are presented, demonstrating a reusable custom-made three-dimensionally (3D) printed face mask based on materials and techniques with global availability. However, there are no data on virological validation, of either the individual fitting or the disinfection process and the number of times the face mask can safely be reused with new filter membranes and headbands.
 
 
   # policy
@@ -346,8 +352,8 @@ feed Sangeeta
     -- exports
       !a
 
-    / August, 2020 - The Lancet Respiratory Medicine
-    let !a self assert = In highly populated areas that have high infection rates—eg, USA, India, Brazil, or South Africa—the use of masks will probably outweigh any potential downsides.
+    / Masks will outweigh potential risks in regions of high infections
+    let !a self assert = In highly populated areas that have high infection rates—eg, USA, India, Brazil, or South Africa — the use of masks will probably outweigh any potential downsides.
 
 
 
@@ -403,8 +409,8 @@ feed Sangeeta
     >>> Abstract
       N95 respirators comprise a critical part of the personal protective equipment used by frontline health-care workers and are typically meant for one-time usage. However, the recent COVID-19 pandemic has resulted in a serious shortage of these masks leading to a worldwide effort to develop decontamination and re-use procedures. A major factor contributing to the filtration efficiency of N95 masks is the presence of an intermediate layer of charged polypropylene electret fibers that trap particles through electrostatic or electrophoretic effects. This charge can degrade when the mask is used. Moreover, simple decontamination procedures (e.g., use of alcohol) can degrade any remaining charge from the polypropylene, thus severely impacting the filtration efficiency post-decontamination. In this report, we summarize our results on the development of a simple laboratory setup allowing measurement of charge and filtration efficiency in N95 masks. In particular, we propose and show that it is possible to recharge the masks post-decontamination and recover filtration efficiency.
 
-    / September, 2020 - Physics of Fluids
-    let !a self assert =
+    / Decontamination of N95 masks
+    let !a self assert =  A major factor contributing to the filtration efficiency of N95 masks is the presence of an intermediate layer of charged polypropylene electret fibers that trap particles through electrostatic or electrophoretic effects. This charge can degrade when the mask is used. Moreover, simple decontamination procedures (e.g., use of alcohol) can degrade any remaining charge from the polypropylene, thus severely impacting the filtration efficiency post-decontamination. In this report, we summarize our results on the development of a simple laboratory setup allowing measurement of charge and filtration efficiency in N95 masks. In particular, we propose and show that it is possible to recharge the masks post-decontamination and recover filtration efficiency.
 
 
 
@@ -494,6 +500,8 @@ feed Sangeeta
     / April, 2020 - International Journal of Nursing Studies
     let !e self assert = Targeted use of respirator protected against bacterial and droplet infections, but not against viral infections, suggesting viral infections may be more likely to be airborne in the hospital setting (MacIntyre et al., 2017 ).
 
+    / Efficacy of respirators, medical and cloth masks
+    let !f self assert = Randomised controlled trials in health care workers showed that respirators, if worn continually during a shift, were effective but not if worn intermittently. Medical masks were not effective, and cloth masks even less effective. When used by sick patients randomised controlled trials suggested protection of well contacts.
 
 
   # no benefits of facemasks, counter to using facemask, hand washing, hand hygiene, general public, community
@@ -540,8 +548,11 @@ feed Sangeeta
   ref 'Murray_et_al_04_07_2020
     head = This study has shown that respirators used for COVID-19 protection have not been tested for MR (Magnetic Resonance) safety. Several commercially available respirators contain ferromagnetic components, and are thus regarded as “MRI unsafe”. Surgical masks offer a WHO approved safe alternative for MR staff in an MRI environment.
 
-     / April, 2020 - Clinical Radiology
-     let !a self assert =
+    --
+      !a
+
+     / Surgical masks are safe to wear in MRI environment over N95 masks
+     let !a self assert = Several commercially available respirators contain ferromagnetic components, and are thus regarded as “MRI unsafe”. Surgical masks offer a WHO approved safe alternative for MR staff in an MRI environment.
 
 
   # Effectives, Whofacemask, types of facemasks, surgical, faceshields
@@ -550,8 +561,20 @@ feed Sangeeta
   ref 'CDC_08_07_2020
     head = This document provides considerations for wearing masks that will help slow the spread of Covid19: Effectives of masks, who should and should not wear a mask, fleasibility and adaptations, masks with exhalation valves or vents, faceshields and surgical masks.
 
-    / August, 2020 - CDC
-    let !a self assert =
+    -- exports
+      !a
+      !b
+      !c
+
+    / Recommendation: Faceshields use and efficacy
+    let !a self assert = A face shield is primarily used for eye protection for the person wearing it. At this time, it is not known what level of protection a face shield provides to people nearby from the spray of respiratory droplets from the wearer. There is currently not enough evidence to support the effectiveness of face shields for source control. Therefore, CDC does not currently recommend use of face shields as a substitute for masks.
+
+    / Recommendation: Faceshields design and usage
+    let !b self assert = Face shields that wrap around the sides of the wearer’s face and extend below the chin. Hooded face shields.
+
+    / Recommendation: Faceshields reused
+    let !c self assert = Reusable face shields should be cleaned and disinfected after each use according to manufacturer instructions or by following
+
 
 
 
@@ -582,6 +605,7 @@ feed Sangeeta
       !c
       !d
       !e
+      !f
 
     / July, 2020 - Journal of General Internal Medicine
     let !a self assert = A report from a pediatric hemodialysis unit in Indiana, where all patients and staff were masked, demonstrated that staff rapidly developed antibodies to SARS-CoV-2 after exposure to a single symptomatic patient with COVID-19. In the setting of masking, however, none of the new infections was symptomatic.
@@ -597,6 +621,8 @@ feed Sangeeta
 
     / July, 2020 - Journal of General Internal Medicine
     let !e self assert = When cases have resurged in these areas with population-based masking upon re-opening (e.g., South Korea, Singapore, Hong Kong, Taiwan), the case-fatality rate has remained low, which is suggestive of this viral inoculum theory.
+    / Mask wearing reduces initial viral loads
+    let !f self assert = Our theory is based on the likelihood of masking reducing the viral inoculum to which the mask-wearer is exposed, leading to higher rates of mild or asymptomatic infection with COVID-19. This could lead to greater community-level immunity and slower spread as we await a vaccine.
 
 
 
@@ -1909,8 +1935,8 @@ feed Sangeeta
     >>> Abstract
       The COVID-19 pandemic caused the shutdown of entire nations all over the world. In addition to mobility restrictions of people, the World Health Organization and the Governments have prescribed maintaining an inter-personal distance of 1.5 or 2 m (about 6 feet) from each other in order to minimize the risk of contagion through the droplets that we usually disseminate around us from nose and mouth. However, recently published studies support the hypothesis of virus transmission over a distance of 2 m from an infected person. Researchers have proved the higher aerosol and surface stability of SARS-COV-2 as compared with SARS-COV-1 (with the virus remaining viable and infectious in aerosol for hours) and that airborne transmission of SARS-CoV can occur besides close-distance contacts. Indeed, there is reasonable evidence about the possibility of SARS-COV-2 airborne transmission due to its persistence into aerosol droplets in a viable and infectious form. Based on the available knowledge and epidemiological observations, it is plausible that small particles containing the virus may diffuse in indoor environments covering distances up to 10 m from the emission sources, thus representing a kind of aerosol transmission. On-field studies carried out inside Wuhan Hospitals showed the presence of SARS-COV-2 RNA in air samples collected in the hospitals and also in the surroundings, leading to the conclusion that the airborne route has to be considered an important pathway for viral diffusion. Similar findings are reported in analyses concerning air samples collected at the Nebraska University Hospital. On March 16th, we have released a Position Paper emphasizing the airborne route as a possible additional factor for interpreting the anomalous COVID-19 outbreaks in northern Italy, ranked as one of the most polluted areas in Europe and characterized by high particulate matter (PM) concentrations. The available information on the SARS-COV-2 spreading supports the hypothesis of airborne diffusion of infected droplets from person to person at a distance greater than two meters (6 feet). The inter-personal distance of 2 m can be reasonably considered as an effective protection only if everybody wears face masks in daily life activities.
 
-    / April, 2020 - Int. J. Environ. Res. Public Health
-    let !a self assert =
+    / Evidence for airborne diffusion
+    let !a self assert = The available information on the SARS-COV-2 spreading supports the hypothesis of airborne diffusion of infected droplets from person to person at a distance greater than two meters (6 feet). The inter-personal distance of 2 m can be reasonably considered as an effective protection only if everybody wears face masks.
 
 
 
@@ -2075,9 +2101,11 @@ feed Sangeeta
   doi: https://doi.org/10.1101/2020.05.22.20109231
   ref 'Hendrix_et_al_07_14_2020
     head = Among 139 clients exposed to two symptomatic hair stylists with confirmed COVID-19 while both the stylists and the clients wore face masks, no symptomatic secondary cases were reported; among 67 clients tested for SARS-CoV-2, all test results were negative.
+    -- exports
+      !a
 
-    / July, 2020 - MMWR Early Release
-    let !a self assert =
+    / Facemasks use results in no transmission
+    let !a self assert =Among 139 clients exposed to two symptomatic hair stylists with confirmed COVID-19 while both the stylists and the clients wore face masks, no symptomatic secondary cases were reported; among 67 clients tested for SARS-CoV-2, all test results were negative.
 
 
 

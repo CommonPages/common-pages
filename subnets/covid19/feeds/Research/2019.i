@@ -36,18 +36,20 @@ feed 2019
     'Chen_et_al_2019
 
   #
+  # commenting because this paper is also  present in Sangeeta.i
+  # # Facemask policy
+  # // Facemask use for community protection from air pollution disasters: An ethical overview and framework to guide agency decision making
+  # doi: https://doi.org/10.1016/j.ijdrr.2019.101376
+  # ref 'McDonald_et_al_10_31_2019
+  #   head = We use principles from public health ethics to analyse the critical ethical issues that relate to agencies providing advice on, recommending and/or distributing facemasks in air pollution disasters, given a lack of evidence of both the specific risk of some polluting events or the effectiveness of facemasks in community settings.
+  #
+  #   >>> Abstract
+  #     Disasters involving severe air pollution episodes create a pressing public health issue. During such emergencies, there may be pressure on agencies to provide solutions to protect affected communities. One possible intervention to reduce exposure during such crises is facemasks. Ethical values need to be considered as part of any decision-making process to assess whether to provide advice on, recommend and/or distribute any public health intervention. In this paper, we use principles from public health ethics to analyse the critical ethical issues that relate to agencies providing advice on, recommending and/or distributing facemasks in air pollution disasters, given a lack of evidence of both the specific risk of some polluting events or the effectiveness of facemasks in community settings.
 
-  # Facemask policy
-  // Facemask use for community protection from air pollution disasters: An ethical overview and framework to guide agency decision making
-  doi: https://doi.org/10.1016/j.ijdrr.2019.101376
-  ref 'McDonald_et_al_10_31_2019
-    head = We use principles from public health ethics to analyse the critical ethical issues that relate to agencies providing advice on, recommending and/or distributing facemasks in air pollution disasters, given a lack of evidence of both the specific risk of some polluting events or the effectiveness of facemasks in community settings.
-
-    >>> Abstract
-      Disasters involving severe air pollution episodes create a pressing public health issue. During such emergencies, there may be pressure on agencies to provide solutions to protect affected communities. One possible intervention to reduce exposure during such crises is facemasks. Ethical values need to be considered as part of any decision-making process to assess whether to provide advice on, recommend and/or distribute any public health intervention. In this paper, we use principles from public health ethics to analyse the critical ethical issues that relate to agencies providing advice on, recommending and/or distributing facemasks in air pollution disasters, given a lack of evidence of both the specific risk of some polluting events or the effectiveness of facemasks in community settings. The need for reflection on the ethical issues raised by the possible recommendation/use of facemasks to mitigate potential health issues arising from air pollution disasters is critical as communities progressively seek personal interventions to manage perceived and actual risks. This paper develops an ethical decision-making framework to assist agency deliberations. We argue that clarity around decision-making by agencies, after using this framework, may help increase trust about the intervention and solidarity within and between populations affected by these disasters and the agencies who support public health or provide assistance during disasters.
-
-    / October, 2019 - International Journal of Disaster Risk Reduction
-    let !a self assert =
+  # The need for reflection on the ethical issues raised by the possible recommendation/use of facemasks to mitigate potential health issues arising from air pollution disasters is critical as communities progressively seek personal interventions to manage perceived and actual risks. This paper develops an ethical decision-making framework to assist agency deliberations. We argue that clarity around decision-making by agencies, after using this framework, may help increase trust about the intervention and solidarity within and between populations affected by these disasters and the agencies who support public health or provide assistance during disasters.
+  #
+  #   / October, 2019 - International Journal of Disaster Risk Reduction
+  #   let !a self assert =
 
   # Droplet Size, Mention Assertions
   // The size and the duration of air-carriage of respiratory droplets and droplet-nuclei
@@ -490,7 +492,7 @@ feed 2019
 
 
     / Modelling effectiveness of respiratory protective devices
-    let !a self assert =
+    let !a self assert = We found that a 50% compliance in donning a respiratory protective device resulted in a significant reduction in risk for fitted and unfitted N95 respirators, high‐filtration surgical masks, and both low‐filtration and high‐filtration pediatric masks. An 80% compliance rate essentially eliminated the influenza outbreak.
 
 
   # Background

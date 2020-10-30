@@ -40,7 +40,7 @@ import Research.WHO._
 import Research.Amit._
 import News._
 import Figures._
-
+import Research.October2020._
 let *Mutation mean $os-life.cell.gene.Mutation
 
 

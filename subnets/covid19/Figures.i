@@ -36,6 +36,13 @@ space Figures
   image 'Figure_Simple_Mask
 
   name: Figure:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/FaceShield3D20.jpg/800px-FaceShield3D20.jpg
+  width: 640
+  height: 417
+  caption: A face shield.
+  image 'Figure_Face_Shield
+
+  name: Figure:
   url: https://www.ncbi.nlm.nih.gov/books/NBK554776/bin/Covid__Replication.jpg
   width: 640
   height: 417
@@ -47,4 +54,4 @@ space Figures
   width: 640
   height: 417
   caption: SARS-CoV-2 Structure
-  image 'Figure_Virus_Structure 
+  image 'Figure_Virus_Structure

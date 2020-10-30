@@ -84,8 +84,8 @@ feed July2020
     -- exports
       !a
 
-    / July, 2020 - J Expo Sci Environ Epidemiol
-    let !a self assert =
+    / Medical and N95 mask comparison
+    let !a self assert = A number of commercially available masks in hospital inventories perform similarly to N95 masks for aerosol filtration of 0.2 μm and above, but there is a range of masks with relatively lower filtration efficiencies (e.g., <90%) and a subset with poorer filtration (e.g., <70%). All masks functioned acceptably for breathability, and impedance was not correlated with filtration efficiency.
 
   # Home Made Mask, Materials, efficacy,
   // Filtration performances of non-medical materials as candidates for manufacturing facemasks and respirators
@@ -95,10 +95,10 @@ feed July2020
 
     >>> Abstract
       The recent outbreak of the coronavirus disease (COVID-19) is causing a shortage of personal protective equipment (PPE) in different countries around the world. Because the coronavirus can transmit through droplets and aerosols, facemasks and N95 respirators that require complex certification, are urgently needed. Given the situation, the U.S. Centers for Disease Control and Prevention (CDC) recommends that “in settings where facemasks are not available, healthcare personnel might use homemade masks (e.g., bandana, scarf) for the care of patients with COVID-19 as a last resort.” Although aerosols and droplets can be removed through the fibers of fabrics through a series of filtration mechanisms, their filtration performances have not been evaluated in detail. Moreover, there are a series of non-medical materials available on the market, such as household air filters, coffee filters, and different types of fabrics, which may be useful when facemasks and respirators are not available. In this study, we comprehensively evaluated the overall and size-dependent filtration performances of non-medical materials. The experiments were conducted under different face velocities to study its influence on size-dependent filtration performances. The flow resistance across these filter materials is measured as an indicator of the breathability of the materials. The results illustrate that multiple layers of household air filters are able to achieve similar filtration efficiencies compared to the N95 material without causing a significant increase in flow resistance. Considering that these air filters may shed micrometer fibers during the cutting and folding processes, it is recommended that these filters should be inserted in multiple layers of fabrics when manufacturing facemasks or respirators.
-
-
-    / July, 2020 - International Journal of hygiene
-    let !a self assert =
+    -- exports
+      !a
+    / Home made masks can be effective
+    let !a self assert = In this study, we comprehensively evaluated the overall and size-dependent filtration performances of non-medical materials. The results illustrate that multiple layers of household air filters are able to achieve similar filtration efficiencies compared to the N95 material without causing a significant increase in flow resistance.
 
   # Mask and Respirators for HCW, medical professionals, aerosols, efficacy, Surgical masks
   // Risk of SARS-CoV-2 transmission by aerosols, the rational use of masks, and protection of healthcare workers from COVID-19
@@ -119,10 +119,10 @@ feed July2020
       !a
       !b
 
-    / July, 2020 - Antimicrob Resist Infect Control
-    let !a self assert = High quality standard surgical masks appear to be as effective as FFP (filtering face piece) 2 masks in preventing droplet-associated viral infections of HCWs as reported from influenza or SARS.
+    / Medical masks can be as effective as respirators for HCWs
+    let !a self assert = High rates of COVID-19 infections in healthcare-workers (HCWs) have been reported from several countries. Respirators such as filtering face piece (FFP) 2 masks were designed to protect HCWs, while surgical masks were originally intended to protect patients (e.g., during surgery). High quality standard surgical masks appear to be as effective as FFP (filtering face piece) 2 masks in preventing droplet-associated viral infections of HCWs as reported from influenza or SARS.
 
-    / July, 2020 - Antimicrob Resist Infect Control
+    / Respirators to be used in high-risk medical procedures
     let !b self assert = During high-risk procedures, both droplets and aerosols may be produced, reason why respirators are indicated for these interventions.
 
   # Mask Efficacy , Policy, Clothmask

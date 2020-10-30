@@ -166,8 +166,8 @@ feed April2020
     >>> Interpretation
       Implementing a universal facemask wearing policy in the whole of China could lead to severe facemask shortage. Without effective public communication, a universal facemask wearing policy could result in societal panic and subsequently, increase the nationwide and worldwide demand for facemasks. These increased demands could cause a facemask shortage for healthcare workers and reduce the effectiveness of outbreak control in the affected regions, eventually leading to a pandemic. To fight novel infectious disease outbreaks, such as COVID-19, governments should monitor domestic facemask supplies and give priority to healthcare workers. The risk of asymptomatic transmission and facemask shortages should be carefully evaluated before introducing a universal facemask wearing policy in high-risk regions. Public health measures aimed at improving hand hygiene and effective public communication should be considered along with the facemask policy.
 
-    / April, 2020 - E Clinical Medicine
-    let !a self assert =
+    / Recommendation/Policy: Use of facemasks by general public
+    let !a self assert = To fight novel infectious disease outbreaks, such as COVID-19, governments should monitor domestic facemask supplies and give priority to healthcare workers. The risk of asymptomatic transmission and facemask shortages should be carefully evaluated before introducing a universal facemask wearing policy in high-risk regions.
 
 
   # Mask and Respirators Benefits
@@ -186,13 +186,17 @@ feed April2020
       A total of 19 randomised controlled trials were included in this study – 8 in community settings, 6 in healthcare settings and 5 as source control. Most of these randomised controlled trials used different interventions and outcome measures. In the community, masks appeared to be effective with and without hand hygiene, and both together are more protective. Randomised controlled trials in health care workers showed that respirators, if worn continually during a shift, were effective but not if worn intermittently. Medical masks were not effective, and cloth masks even less effective. When used by sick patients randomised controlled trials suggested protection of well contacts.
 
     >>> Conclusion
-      The study suggests that community mask use by well people could be beneficial, particularly for COVID-19, where transmission may be pre-symptomatic. The studies of masks as source control also suggest a benefit, and may be important during the COVID-19 pandemic in universal community face mask use as well as in health care settings. Trials in healthcare workers support the use of respirators continuously during a shift. This may prevent health worker infections and deaths from COVID-19, as aerosolisation in the hospital setting has been documented.
+      The study suggests that community mask use by well people could be beneficial, particularly for Covid-19, where transmission may be pre-symptomatic. The studies of masks as source control also suggest a benefit, and may be important during the Covid-19 pandemic in universal community face mask use as well as in health care settings. Trials in healthcare workers support the use of respirators continuously during a shift. This may prevent health worker infections and deaths from Covid-19, as aerosolisation in the hospital setting has been documented.
 
     -- exports
       !a
+      !b
+
 
     / Community mask use is beneficial
-    let !a self assert = The study suggests that community mask use by well people could be beneficial, particularly for COVID-19, where transmission may be pre-symptomatic. The studies of masks as source control also suggest a benefit, and may be important during the COVID-19 pandemic in universal community face mask use as well as in health care settings.
+    let !a self assert = The study suggests that community mask use by well people could be beneficial, particularly for Covid-19, where transmission may be pre-symptomatic.
+    / Mask use is beneficial in health care settings
+    let !b self assert = The studies of masks as source control also suggest a benefit, and may be important during the Covid-19 pandemic in universal community face mask use as well as in health care settings.
 
 
   # Face Mask
@@ -214,7 +218,7 @@ feed April2020
     / Masks help reduce community transmission
     let !a self assert =  Model simulations, using data relevant to COVID-19 dynamics in the US states of New York and Washington, suggest that broad adoption of even relatively ineffective face masks may meaningfully reduce community transmission of COVID-19 and decrease peak hospitalizations and deaths.
     / Masks can synergize with other non-pharmaceutical measures
-    let !b self assert =  Moreover, mask use decreases the effective transmission rate in nearly linear proportion to the product of mask effectiveness (as a fraction of potentially infectious contacts blocked) and coverage rate (as a fraction of the general population), while the impact on epidemiologic outcomes (death, hospitalizations) is highly nonlinear, indicating masks could synergize with other non-pharmaceutical measures.
+    let !b self assert =  Mask use decreases the effective transmission rate in nearly linear proportion to the product of mask effectiveness (as a fraction of potentially infectious contacts blocked) and coverage rate (as a fraction of the general population), while the impact on epidemiologic outcomes (death, hospitalizations) is highly nonlinear, indicating masks could synergize with other non-pharmaceutical measures.
     / Masks are helpful in preventing illness and aymptomatic transmission
     let !c self assert =  Notably, masks are found to be useful with respect to both preventing illness in healthy persons and preventing asymptomatic transmission.
     / Best results of masks when used with other measures and high compliance
@@ -2613,7 +2617,7 @@ feed April2020
     # let !k self assert = In our unpublished analysis of a separate dataset of case clusters in China, the mean serial interval (time between symptom onsets of a primary and a secondary  case) was shorter than the mean incubation period, suggesting that infectivity during the incubation period is not trivial. This finding has a profound implication on prevention and control strategies, e.g., the necessity of testing asymptomatic close contacts of COVID-19 cases, and the importance of wearing facial mask regardless of symptoms in order to curb the pandemic.
 
     / Infectivity from asymptomatic carriers is not trivial
-    let !k1 self assert = Data indicates that infectivity during the incubation period is not trivial, which in turn implies the necessity of testing asymptomatic close contacts of COVID-19 cases, and the importance of wearing facial mask regardless of symptoms in order to curb the pandemic.
+    let !k1 self assert = Data indicates that infectivity during the incubation period is not trivial, which in turn implies the necessity of testing asymptomatic close contacts of Covid-19 cases, and the importance of wearing facial mask regardless of symptoms in order to curb the pandemic.
 
     / April, 2020 - MedRxiv
     let !l self assert = Low reproductive number in Guangzhou possibly resulted more from policies restricting human movement, limiting the number of contacts of COVID-19 cases during their entire infectious period including the incubation period, than from the detection and isolation of cases and close contacts.

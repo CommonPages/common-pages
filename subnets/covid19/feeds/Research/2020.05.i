@@ -153,8 +153,8 @@ feed May2020
     >>> Abstract
       The onset of coronavirus pandemic has sparked a shortage of facemasks in almost all nations. Without this personal protective equipment, healthcare providers, essential workers, and the general public are exposed to the risk of infection. In light of the aforementioned, it is critical to balance the supply and demand for masks. COVID-19 will also ensure that masks are always considered as an essential commodity in future pandemic preparedness. Moreover, billions of facemasks are produced from petrochemicals derived raw materials, which are non-degradable upon disposal after their single use, thus causing environmental pollution and damage. The sustainable way forward is to utilise raw materials that are side-stream products of local industries to develop facemasks having equal or better efficiency than the conventional ones. In this regard, wheat gluten biopolymer, which is a by-product or co-product of cereal industries, can be electrospun into nanofibre membranes and subsequently carbonised at over 700 °C to form a network structure, which can simultaneously act as the filter media and reinforcement for gluten-based masks. In parallel, the same gluten material can be processed into cohesive thin films using plasticiser and hot press. Additionally, lanosol, a naturally-occurring substance, imparts fire (V-0 rating in vertical burn test), and microbe resistance in gluten plastics. Thus, thin films of flexible gluten with very low amounts of lanosol (<10 wt%) can be bonded together with the carbonised mat and shaped by thermoforming to create the facemasks. The carbon mat acting as the filter can be attached to the masks through adapters that can also be made from injection moulded gluten. The creation of these masks could simultaneously be effective in reducing the transmittance of infectious diseases and pave the way for environmentally benign sustainable products.
 
-    / May, 2020 - Science of Total environment
-    let !a self assert =
+    / Design of bio-based facemasks
+    let !a self assert = Wheat gluten biopolymer, which is a by-product or co-product of cereal industries, can be electrospun into nanofibre membranes and subsequently carbonised at over 700 °C to form a network structure, which can simultaneously act as the filter media and reinforcement for gluten-based masks. In parallel, the same gluten material can be processed into cohesive thin films using plasticiser and hot press. Additionally, lanosol, a naturally-occurring substance, imparts fire and microbe resistance in gluten plastics. Thus, thin films of flexible gluten with very low amounts of lanosol (<10 wt%) can be bonded together with the carbonised mat and shaped by thermoforming to create the facemasks. The carbon mat acting as the filter can be attached to the masks through adapters that can also be made from injection moulded gluten.
 
 
   # Cloth Mask, efficacy, aerosols
@@ -165,10 +165,11 @@ feed May2020
 
     >>> Abstract
       The main form of COVID-19 transmission is via "oral-respiratory droplet contamination" (droplet: very small drop of liquid) produced when individuals talk, sneeze, or cough. In hospitals, health-care workers wear facemasks as a minimum medical "droplet precaution" to protect themselves. Due to the shortage of masks during the pandemic, priority is given to hospitals for their distribution. As a result, the availability/use of medical masks is discouraged for the public. However, for asymptomatic individuals, not wearing masks in public could easily cause the spread of COVID-19. The prevention of "environmental droplet contamination" (EnvDC) from coughing/sneezing/speech is fundamental to reducing transmission. As an immediate solution to promote "public droplet safety," we assessed household textiles to quantify their potential as effective environmental droplet barriers (EDBs). The synchronized implementation of a universal "community droplet reduction solution" is discussed as a model against COVID-19. Using a bacterial-suspension spray simulation model of droplet ejection (mimicking a sneeze), we quantified the extent by which widely available clothing fabrics reduce the dispersion of droplets onto surfaces within 1.8 m, the minimum distance recommended for COVID-19 "social distancing." All textiles reduced the number of droplets reaching surfaces, restricting their dispersion to <30 cm, when used as single layers. When used as double-layers, textiles were as effective as medical mask/surgical-cloth materials, reducing droplet dispersion to <10 cm, and the area of circumferential contamination to ~0.3%. The synchronized implementation of EDBs as a "community droplet reduction solution" (i.e., face covers/scarfs/masks and surface covers) will reduce COVID-19 EnvDC and thus the risk of transmitting/acquiring COVID-19.
+    -- exports
+      !a  
 
-
-    / May, 2020 - Front Med
-    let !a self assert =
+    / Efficacy of homemade facemasks
+    let !a self assert = We assessed household textiles to quantify their potential as effective environmental droplet barriers. All textiles reduced the number of droplets reaching surfaces, when used as single layers. When used as double-layers, textiles were as effective as medical mask/surgical-cloth materials.
 
 
   # Surgical mask vs cotton mask
@@ -183,7 +184,7 @@ feed May2020
     -- exports
       !a
 
-    / May, 2020 - Science of The Total Environment
+    / Recommendation for cotton mask over medical mask for daily use
     let !a self assert = Cotton mask could be a potential substitute for medical mask for respiratory infection person in microenvironment with air conditioning. Healthy people may daily use cotton mask in the community since cotton mask is washable and reusable.
 
 
@@ -204,9 +205,11 @@ feed May2020
 
     >>> Conclusions
       SARS-CoV-2 could be transmitted by respiratory droplets or airborne droplet nuclei which could be reduced by surgical mask partition in the hamster model. This is the first in vivo experimental evidence to support the possible benefit of surgical mask in prevention of COVID-19 transmission, especially when masks were worn by infected individuals.
+    -- exports
+      !a
 
-    / May, 2020 - Clinical Infectious Diseases
-    let !a self assert =
+    / Surgical masks may help prevent airborne infections
+    let !a self assert = SARS-CoV-2 could be transmitted by respiratory droplets or airborne droplet nuclei which could be reduced by surgical mask partition in the hamster model. This is the first in vivo experimental evidence to support the possible benefit of surgical mask in prevention of COVID-19 transmission, especially when masks were worn by infected individuals.
 
 
   # Methods to evaluate efficacy of mask
@@ -221,7 +224,7 @@ feed May2020
     -- exports
       !a
 
-    / May, 2020 - medRxiv
+    / Effectiveness of surgical and cloth masks is varied
     let !a self assert = Worn as designed both commercial surgical masks and cloth masks had widely varying effectiveness (53-75% and 28-90% filtration efficiency, respectively). Most surgical-style masks improved with the nylon overlayer, indicating poor fit.
 
   # Droplet Mechanism
@@ -2896,13 +2899,13 @@ feed May2020
   # Public Policy, history of facemasks
   // A history of the medical mask and the rise of throwaway culture
   doi: https://doi.org/10.1016/S0140-6736(20)31207-1
-  article 'Strasser_et_al_05_22_2020
+  ref 'Strasser_et_al_05_22_2020
     head = Reusable masks were once an essential part of the medical arsenal. However, the industrial production and further research and development of reusable masks was largely halted with the transition towards disposable masks in the 1960s.
 
     -- exports
       !a
 
-    / May, 2020 - The Lancet
+    / Recommnedation: Reusable masks should be reintroduced in medical practice
     let !a self assert = To avoid a shortage of masks during the next pandemic, one should look beyond the creation of large stockpiles of disposable face masks and consider the risks of the throwaway consumer culture applied to life-saving devices.
 
 
@@ -3484,7 +3487,7 @@ feed May2020
     / Evidence in favour of wearing masks to reduce transmission
     let !a self assert = The preponderance of evidence indicates that mask wearing reduces the transmissibility per contact by reducing transmission of infected droplets in both laboratory and clinical contexts.
 
-    / Should everyone wear masks? Even cloth masks?
+    / Recommendation: Adoption of cloth masks
     let !b self assert = Given the current shortages of medical masks we recommend the adoption of public cloth mask wearing, as an effective form of source control for now, in conjunction with existing hygiene, distancing, and contact tracing strategies. We recommend that public officials and governments strongly encourage the use of widespread face masks in public, including the use of appropriate regulation.
 
 

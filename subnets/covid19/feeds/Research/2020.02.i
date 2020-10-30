@@ -502,7 +502,7 @@ feed February2020
   # Consipiracy Claims - from the doc, Origin , Index patient
   // Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China
   doi: https://doi.org/10.1016/S0140-6736(20)30183-5
-  article 'Huang_et_al_2020
+  ref 'Huang_et_al_2020
     head = 27 (66%) patients had direct exposure to Huanan seafood market. Market exposure was similar between the patients with ICU care (nine [69%]) and those with non-ICU care (18 [64%]). The symptom onset date of the first patient identified was Dec 1, 2019. No epidemiological link was found between the first patient and later cases.
 
     >>> Background
@@ -519,9 +519,12 @@ feed February2020
 
     -- exports
       !a
+      !b
 
     / Feb, 2020 - The Lancet
     let !a self assert = 41 admitted hospital patients had been identified as having laboratory-confirmed 2019-nCoV infection. Most of the infected patients were men ; less than half had underlying diseases, including diabetes, hypertension, and cardiovascular disease. Complications include pneumonia, ARDS, acute cardiac injury and secondary infection.
+    / Common and less common symptoms
+    let !b self assert = Common symptoms at onset of illness were fever, cough , and myalgia or fatigue; less common symptoms were sputum production , headache , haemoptysis, and diarrhoea. Dyspnoea developed in 22 (55%) of 40 patients, 26 (63%) of 41 patients had lymphopenia. All 41 patients had pneumonia with abnormal findings on chest CT.
 
 
   # Origin Wuhan
@@ -603,8 +606,8 @@ feed February2020
     / Feb, 2020 - Anesthesia critical care & Pain Medicine
     let !a self assert = Suspected or confirmed cases should ideally be isolated in a negative pressure airborne infection isolation room (AIIR) with sufficient air changes (> 12/h) and personnel trained to use personal protective equipment (PPE) for airborne precautions.
 
-    / Feb, 2020 - Anesthesia critical care & Pain Medicine
-    let !b self assert = Limited data suggests that the use of high-flow nasal oxygen (HFNO) may prevent intubation in severe hypoxemic respiratory failure. Within the ICU, and with HCW protected by high-level PPE (including an N95 mask), non-invasive ventilation (NIV) and HFNO use during SARS-CoV and 2009 influenza epidemic was not clearly associated with an increased risk in HCW.
+    / Use of facemasks with other PPE does not increase the risk of infections in medical professionals in ICU
+    let !b self assert = Within the ICU, and with HCW protected by high-level PPE (including an N95 mask), non-invasive ventilation (NIV) and HFNO use during SARS-CoV and 2009 influenza epidemic was not clearly associated with an increased risk in HCW.
 
     / Feb, 2020 - Anesthesia critical care & Pain Medicine
     let !c self assert = Some additional measures to reduce transmission risk include intubation in an AIIR, and limiting non-essential staff to reduced exposure time. Placing bacterial/viral filters in circuits and between the mask and bag valve mask (BVM) resuscitator during manual mask ventilation may serve to reduce viral particle dispersion into the atsmopshere.

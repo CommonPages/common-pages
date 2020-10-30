@@ -46,8 +46,8 @@ feed August2020
     -- exports
       !a
 
-    / August, 2020 - Plos One
-    let !a self assert =
+    / Facemasks with other measure can help prevent infections
+    let !a self assert = Our study indicates that wearing a face mask can be effectively combined with social distancing to flatten the epidemic curve. Wearing a mask presents a rational way to implement as an NPI to combat COVID-19. We recognize our study provides a projection based only on currently available data and estimates potential probabilities.
 
   # Dust Mask
   // Evaluation of wearing comfort of dust masks
@@ -61,8 +61,10 @@ feed August2020
     -- exports
       !a
 
-    / August, 2020 - Plos One
-    let !a self assert =
+    / Comfort of masks is dependent on the breathability
+    let !a self assert = We compared the results with the survey results of 40 people about the wearing comfort of the dust masks, which revealed that the wearing comfort crucially depends on the energy cost required for air inhalation though the dust mask.
+    / Design principles for good Masks
+    let !b self assert = A raise in the internal pressure is also advantageous for limiting a leakage flow, and as a result improves the filtration ratio. In addition, we discuss the desirable power level of the electric fan. Zero energy cost during inhalation corresponds to breathing without a dust mask, and negative work can indicate forced inhalation. Accordingly, we conjecture that excessively negative work can produce an unpleasant feeling, and a fan power equal to the energy cost for breathing through the dust mask is thus most desirable for wearing comfort and for saving electric energy.
 
   # Mask Filters, design, New method for developing mask
   // Salt coatings functionalize inert membranes into high-performing filters against infectious respiratory diseases
@@ -76,8 +78,8 @@ feed August2020
     -- exports
       !a
 
-    / August, 2020 - Scientific Reports
-    let !a self assert =
+    / Salt coatings for filtration
+    let !a self assert = We developed an antimicrobial respiratory protective system with high filtering performance and improved breathability levels compared to regular masks. The salt-functionalized membranes achieved high filtration efficiency as opposed to the bare membrane, with differences of up to 48%, while maintaining high breathability. The salt coatings retained the pathogen inactivation capability at harsh environmental conditions. Combination of these properties in one filter will lead to the production of an effective device, comprehensibly mitigating infection transmission globally.
 
   # facemask, efficacy, surgical mask, n95 mask, Coughing and Sneezing
   // Universal trends in human cough airflows at large distances
@@ -91,10 +93,13 @@ feed August2020
 
     -- exports
       !a
+      !b
 
     / August, 2020 - Physics of Fluids
     let !a self assert =  Long sleeve that covers the elbow substantially reduces the ejection of the cough airflow into the environment compared to coughing into a bare elbow.
 
+    / N95 and medical mask comparison
+    let !b self assert =  A disposable surgical mask greatly reduces this distance to between 0.5 m and 1.5 m. N95 masks have the best effectiveness and completely contain the horizontal spread to between 0.1 m and 0.25 m.
 
   # risks, Facemask, Exercising
   // COVID-19: Electrophysiological mechanisms underlying sudden cardiac death during exercise with facemasks
@@ -106,8 +111,11 @@ feed August2020
       The mandatory use of facemasks is a public health measure implemented by various countries in response to the novel coronavirus disease 19 (COVID-19) pandemic. However, there have been case reports of sudden cardiac death (SCD) with the wearing of facemasks during exercise. In this paper, we hypothesize that exercise with facemasks may increase the risk of ventricular tachycardia/ventricular fibrillation (VT/VF) leading to SCD via the development of acute and/or intermittent hypoxia and hypercapnia. We discuss the potential underlying mechanisms including increases in adrenergic stimulation and oxidative stress leading to electrophysiological abnormalities that promote arrhythmias via non-reentrant and reentrant mechanisms. Given the interplay of multiple variables contributing to the increased arrhythmic risk, we advise avoidance of a facemask during high intensity exercise, or if wearing of a mask is mandatory, exercise intensity should remain low to avoid precipitation of lethal arrhythmias. However, we cannot exclude the possibility of an arrhythmic substrate even with low intensity exercise especially in those with established chronic cardiovascular disease in whom baseline electrophysiological abnormalities may be found.
 
 
-    / August, 2020 - Medical Hypotheses
-    let !a self assert =
+    / Exercising with facemasks is risky
+    let !a self assert = Exercise with facemasks may increase the risk of ventricular tachycardia/ventricular fibrillation (VT/VF) leading to SCD via the development of acute and/or intermittent hypoxia and hypercapnia. We discuss the potential underlying mechanisms including increases in adrenergic stimulation and oxidative stress leading to electrophysiological abnormalities that promote arrhythmias via non-reentrant and reentrant mechanisms.
+    # this needs to be rewritten without the jargon
+
+
 
   # Decontamination of Mask, reuse,
   // Microwave- and Heat-Based Decontamination of N95 Filtering Facepiece Respirators: A Systematic Review
@@ -143,8 +151,8 @@ feed August2020
     >>> Abstract
       We here express our concern about a general decree to let patients wear face masks in radiation oncology clinics. We believe that potential risks associated with wearing masks, such as the risk of confounding patients, outweigh any benefits of such a policy for which evidence of protection from COVID-19 is generally weak. For asymptomatic patients, wearing masks in addition to hygiene standards will not provide additional protection of others and should be cautioned against.
 
-    / August, 2020 - Med Oncol
-    let !a self assert =
+    / Potential risks of wearing facemasks outweigh benefits in radiation oncology clinics
+    let !a self assert = We believe that potential risks associated with wearing masks, such as the risk of confounding patients, outweigh any benefits of such a policy for which evidence of protection from Covid-19 is generally weak. For asymptomatic patients, wearing masks in addition to hygiene standards will not provide additional protection of others and should be cautioned against.
 
   # Low Mortality with mask adoption - Face Mask
   // Association of country-wide coronavirus mortality with demographics, testing, lockdowns, and public wearing of masks. Update August 4, 2020.
@@ -158,9 +166,10 @@ feed August2020
       In univariate analyses, the prevalence of smoking, per-capita gross domestic product, urbanization, and colder average country temperature were positively associated with coronavirus-related mortality. In a multivariable analysis of 196 countries, the duration of infection in the country, and the proportion of the population 60 years of age or older were positively associated with per-capita mortality, while duration of mask-wearing by the public was negatively associated with mortality (all p<0.001). International travel restrictions and a lower prevalence of obesity were independently associated with mortality in a model which controlled for testing policy. Internal lockdown requirements and viral testing policies and levels were not associated with mortality. The association of contact tracing policy with mortality approached statistical significance (p=0.06). In countries with cultural norms or government policies supporting public mask-wearing, per-capita coronavirus mortality increased on average by just 15.8% each week, as compared with 62.1% each week in remaining countries.
     >>> Conclusions
       Societal norms and government policies supporting the wearing of masks by the public, as well as international travel controls, are independently associated with lower per-capita mortality from COVID-19.
-
-    / February, 2020 - bioRxiv
-    let !a self assert =
+    -- exports
+      !a
+    / Mask usage lead to lower per-capita mortality from COVID-19
+    let !a self assert = Societal norms and government policies supporting the wearing of masks by the public, as well as international travel controls, are independently associated with lower per-capita mortality from COVID-19.
 
 
 

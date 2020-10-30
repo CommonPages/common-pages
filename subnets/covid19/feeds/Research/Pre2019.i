@@ -395,8 +395,8 @@ feed Pre2019
     -- exports
       !a
 
-    / August, 2016 - Journal of exposure science & environmental epidemiology
-    let !a self assert =
+    / Medical masks are better than cloth masks
+    let !a self assert = Cloth masks are only marginally beneficial in protecting individuals from particles<2.5 μm. Compared with cloth masks, disposable surgical masks are more effective in reducing particulate exposure.
 
   #  Face masks, children, efficacy
   // Smaller facemasks for positive pressure ventilation in preterm infants: A randomised trial
@@ -431,8 +431,8 @@ feed Pre2019
     >>> Abstract
       Aerosolized pathogens are a leading cause of respiratory infection and transmission. Currently used protective measures pose potential risk of primary/secondary infection and transmission. Here, we report the development of a universal, reusable virus deactivation system by functionalization of the main fibrous filtration unit of surgical mask with sodium chloride salt. The salt coating on the fiber surface dissolves upon exposure to virus aerosols and recrystallizes during drying, destroying the pathogens. When tested with tightly sealed sides, salt-coated filters showed remarkably higher filtration efficiency than conventional mask filtration layer, and 100% survival rate was observed in mice infected with virus penetrated through salt-coated filters. Viruses captured on salt-coated filters exhibited rapid infectivity loss compared to gradual decrease on bare filters. Salt-coated filters proved highly effective in deactivating influenza viruses regardless of subtypes and following storage in harsh environmental conditions. Our results can be applied in obtaining a broad-spectrum, airborne pathogen prevention device in preparation for epidemic and pandemic of respiratory diseases.
 
-    / January, 2017 - Sci Rep
-    let !a self assert =
+    / Reusable medical masks
+    let !a self assert = We report the development of a universal, reusable virus deactivation system by functionalization of the main fibrous filtration unit of surgical mask with sodium chloride salt. The salt coating on the fiber surface dissolves upon exposure to virus aerosols and recrystallizes during drying, destroying the pathogens. When tested with tightly sealed sides, salt-coated filters showed remarkably higher filtration efficiency than conventional mask filtration layer, and 100% survival rate was observed in mice infected with virus penetrated through salt-coated filters. Viruses captured on salt-coated filters exhibited rapid infectivity loss compared to gradual decrease on bare filters. Salt-coated filters proved highly effective in deactivating influenza viruses regardless of subtypes and following storage in harsh environmental conditions.
 
   # Home Made Mask
   // Professional and Home-Made Face Masks Reduce Exposure to Respiratory Infections among the General Population
@@ -456,7 +456,7 @@ feed Pre2019
       !a
       !b
 
-    / July, 2008 - PLoS One
+    / Comparison of respirators, medical masks and cloth masks
     let !a self assert = Personal respirators were more efficient than surgical masks, which were more efficient than home-made masks.
 
     / July, 2008 - PLoS One
@@ -477,14 +477,14 @@ feed Pre2019
     >>> Conclusions:
       Four- to seven-day exposures to low levels of HPV (average air concentrations of approx. 5–10 parts per million) were effective in inactivating B. anthracis spores on multiple materials. The HPV can be generated with COTS humidifiers and household H2O2 solutions. With the exception of one test/material, B. atrophaeus spores were equally or more resistant to HPV inactivation compared to those from B. anthracis Ames.
 
-    / October, 2016 - J Appl Microbiol
-    let !a self assert =
+    / Decontamination using hydrogen peroxide vapour (anthrax)
+    let !a self assert = Four- to seven-day exposures to low levels of HPV (average air concentrations of approximately 5–10 parts per million) were effective in inactivating B. anthracis spores on multiple materials. The HPV can be generated with COTS humidifiers and household H2O2 solutions. With the exception of one test/material, B. atrophaeus spores were equally or more resistant to HPV inactivation compared to those from B. anthracis Ames.
 
   # Homemade Mask / Clothmask
   // Testing the Efficacy of Homemade Masks: Would They Protect in an Influenza Pandemic?
   doi: https://dx.doi.org/10.1017%2Fdmp.2013.43
   ref 'Davies_et_al_05_22_2013
-    head = Surgical mask was 3 times more effective in blocking transmission than the homemade mask. Homemade mask should only be considered as a last resort to prevent droplet transmission from infected individuals, but it would be better than no protection.
+    head =
 
     >>> Objective
       This study examined homemade masks as an alternative to commercial face masks.
@@ -501,8 +501,8 @@ feed Pre2019
     -- exports
       !a
 
-    / May, 2013 - Disaster Med Public Health Prep
-    let !a self assert =
+    / Comparison of surgical and homemade masks
+    let !a self assert = Surgical mask was 3 times more effective in blocking transmission than the homemade mask. Homemade mask should only be considered as a last resort to prevent droplet transmission from infected individuals, but it would be better than no protection.
 
 
 
@@ -5350,13 +5350,17 @@ feed Pre2019
     -- exports
       !a
       !b
+      !c
 
 
-    / December, 2011 -  Wiley
+    / Mask or respirators reduce risk of infections
     let !a self assert = Eight of nine retrospective observational studies found that mask and/or respirator use was independently associated with a reduced risk of severe acute respiratory syndrome (SARS).
 
-    / December, 2011 -  Wiley
-    let !b self assert = There is a limited evidence base to support the use of masks and/or respirators in healthcare or community settings.
+    / Limited evidence of mask use, masks alone won't protect
+    let !b self assert = There is a limited evidence base to support the use of masks and/or respirators in healthcare or community settings. None of the studies established a conclusive relationship between mask/respirator use and protection against influenza infection. Some evidence suggests that mask use is best undertaken as part of a package of personal protection especially hand hygiene. The effectiveness of masks and respirators is likely linked to early, consistent and correct usage.
+
+    / Mask use with hand sanitiser is more effective than just sanitiser in households
+    let !c self assert = One household trial found that mask wearing coupled with hand sanitiser use reduced secondary transmission of upper respiratory infection/influenza‐like illness/laboratory‐confirmed influenza compared with education; hand sanitiser alone resulted in no reduction.
 
 
 
@@ -5371,8 +5375,8 @@ feed Pre2019
       On June 11, 2009, the World Health Organization declared the outbreak of novel influenza A (H1N1) a pandemic. With limited supplies of antivirals and vaccines, countries and individuals are looking at other ways to reduce the spread of pandemic (H1N1) 2009, particularly options that are cost effective and relatively easy to implement. Recent experiences with the 2003 SARS and 2009 H1N1 epidemics have shown that people are willing to wear facemasks to protect themselves against infection; however, little research has been done to quantify the impact of using facemasks in reducing the spread of disease. We construct and analyze a mathematical model for a population in which some people wear facemasks during the pandemic and quantify impact of these masks on the spread of influenza. To estimate the parameter values used for the effectiveness of facemasks, we used available data from studies on N95 respirators and surgical facemasks. The results show that if N95 respirators are only 20% effective in reducing susceptibility and infectivity, only 10% of the population would have to wear them to reduce the number of influenza A (H1N1) cases by 20%. We can conclude from our model that, if worn properly, facemasks are an effective intervention strategy in reducing the spread of pandemic (H1N1) 2009.
 
 
-    / February, 2010 -  Plos one
-    let !a self assert =
+    / N95 mask simulation for control of pandemic
+    let !a self assert = The results show that if N95 respirators are only 20% effective in reducing susceptibility and infectivity, only 10% of the population would have to wear them to reduce the number of influenza A (H1N1) cases by 20%. If worn properly, facemasks are an effective intervention strategy in reducing the spread of pandemic (H1N1) 2009.
 
 
   # Frontiers

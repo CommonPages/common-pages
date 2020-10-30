@@ -133,9 +133,11 @@ feed March2020
   doi: https://doi.org/10.1016/j.tmaid.2020.101637
   ref 'Elachola_et_al_03_20_2020
     head = We assessed the prevalence of facemask use among persons seen in four international airports in Asia, Europe, and the Americas. We found that, facemask use rate measured in airport settings was the highest in Asia, followed by South America, and the lowest in the USA.
+    -- exports
+      !a
 
-    / March, 2020 - Travel Medicine and Infectious Disease
-    let !a self assert =
+    / Facemask use prevalence in different regions
+    let !a self assert = We assessed the prevalence of facemask use among persons seen in four international airports in Asia, Europe, and the Americas. We found that, facemask use rate measured in airport settings was the highest in Asia, followed by South America, and the lowest in the USA.
 
 
   # Policy Face Mask
@@ -151,11 +153,11 @@ feed March2020
 
 
     / Universal mask usage prevents discrimination
-    let !a self assert = However, there is an essential distinction between absence of evidence and evidence of absence. Evidence that face masks can provide effective protection against respiratory infections in the community is scarce, as acknowledged in recommendations from the UK and Germany. However, face masks are widely used by medical workers as part of droplet precautions when caring for patients with respiratory infections. It would be reasonable to suggest vulnerable individuals avoid crowded areas and use surgical face masks rationally when exposed to high-risk areas. As evidence suggests COVID-19 could be transmitted before symptom onset, community transmission might be reduced if everyone, including people who have been infected but are asymptomatic and contagious, wear face masks.
+    let !a self assert =  Evidence that face masks can provide effective protection against respiratory infections in the community is scarce, as acknowledged in recommendations from the UK and Germany. However, face masks are widely used by medical workers as part of droplet precautions when caring for patients with respiratory infections. It would be reasonable to suggest vulnerable individuals avoid crowded areas and use surgical face masks rationally when exposed to high-risk areas. As evidence suggests COVID-19 could be transmitted before symptom onset, community transmission might be reduced if everyone, including people who have been infected but are asymptomatic and contagious, wear face masks.
     / Universal mask usage prevents discrimination
     let !c self assert = One advantage of universal use of face masks is that it prevents discrimination of individuals who wear masks when unwell because everybody is wearing a mask.
     / Mask usage prevents potential asymptomatic or presymptomatic transmission
-    let !b self assert = Perhaps it would also be rational to recommend that people in quarantine wear face masks if they need to leave home for any reason, to prevent potential asymptomatic or presymptomatic transmission.
+    let !b self assert = Recommendation: Perhaps it would also be rational to recommend that people in quarantine wear face masks if they need to leave home for any reason, to prevent potential asymptomatic or presymptomatic transmission.
 
 
   # Hydroxychloroquine
@@ -702,7 +704,7 @@ feed March2020
     -- exports
       !a
 
-    / March, 2020 - NEJM
+    / Survival rate of Covid-19 virus on different materials
     let !a self assert = SARS-CoV-2 was more stable on plastic and stainless steel than on copper and cardboard, and viable virus was detected up to 72 hours after application to these surfaces, although the virus titer was greatly reduced (after 72 hours on plastic and after 48 hours on stainless steel).
 
 
@@ -3110,11 +3112,11 @@ feed March2020
   # droplets, fecal, fomite transmission, nonsomical
   // Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient
   doi: https://doi.org/10.1001/jama.2020.3227
-  article 'Ong_et_al_03_04_2020
+  ref 'Ong_et_al_03_04_2020
     head = Significant environmental contamination by patients with SARS-CoV-2 through respiratory droplets and fecal shedding suggests the environment as a potential medium of transmission and supports the need for strict adherence to environmental and hand hygiene.
 
-    # -- exports
-    #   !a
-    #
-    # / JAMA Network - March, 2020
-    # let !a self assert = Significant environmental contamination by patients with SARS-CoV-2 through respiratory droplets and fecal shedding suggests the environment as a potential medium of transmission
+    -- exports
+      !a
+
+    / Respiratory shedding and feces as spread mechanism
+    let !a self assert = Significant environmental contamination by patients with SARS-CoV-2 through respiratory droplets and fecal shedding suggests the environment as a potential medium of transmission

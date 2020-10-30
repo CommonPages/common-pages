@@ -76,7 +76,7 @@ feed June2020
       !b
 
     / Risks of using PPE during surgery by medical professionals
-    let !a self assert = Surgeons perceived impediment for both visibility and communication, and other non-technical skills while using PPE on emergency surgery in COVID-19 patients. Their perceived lack of protection and comfort and increased fatigue may have inhibited their optimal surgical performance.
+    let !a self assert = Surgeons perceived impediment for both visibility and communication, and other non-technical skills while using PPE on emergency surgery in Covid-19 patients. Their perceived lack of protection and comfort and increased fatigue may have inhibited their optimal surgical performance.
     / Better Design of facemasks should be considered for medical professionals to prevent fatigue
     let !b self assert = Their perceived lack of protection and comfort and increased fatigue may have inhibited their optimal surgical performance. More attention should be placed in the design of more user-friendly equipment, given the possibility of a second wave of the pandemic.
 
@@ -89,8 +89,8 @@ feed June2020
     >>> Abstract
       Straying away from a sedentary lifestyle is essential, especially in these troubled times of a global pandemic to reverse the ill effects associated with the health risks as mentioned earlier. In the view of anticipated effects on immune system and prevention against influenza and Covid-19, globally moderate to vigorous exercises are advocated wearing protective equipment such as facemasks. Though WHO supports facemasks only for Covid-19 patients, healthy “social exercisers” too exercise strenuously with customized facemasks or N95 which hypothesized to pose more significant health risks and tax various physiological systems especially pulmonary, circulatory and immune systems. Exercising with facemasks may reduce available Oxygen and increase air trapping preventing substantial carbon dioxide exchange. The hypercapnic hypoxia may potentially increase acidic environment, cardiac overload, anaerobic metabolism and renal overload, which may substantially aggravate the underlying pathology of established chronic diseases. Further contrary to the earlier thought, no evidence exists to claim the facemasks during exercise offer additional protection from the droplet transfer of the virus. Hence, we recommend social distancing is better than facemasks during exercise and optimal utilization rather than exploitation of facemasks during exercise.
 
-    / June, 2020 - Medical Hypotheses
-    let !a self assert =
+    / Exercising with facemasks is risky
+    let !a self assert = Exercising with facemasks may reduce available Oxygen and increase air trapping preventing substantial carbon dioxide exchange. The hypercapnic hypoxia may potentially increase acidic environment, cardiac overload, anaerobic metabolism and renal overload, which may substantially aggravate the underlying pathology of established chronic diseases. Further contrary to the earlier thought, no evidence exists to claim the facemasks during exercise offer additional protection from the droplet transfer of the virus. Hence, we recommend social distancing is better than facemasks during exercise and optimal utilization rather than exploitation of facemasks during exercise.
 
   # Surgical Mask, Aerosols,
   // A physicist's approach to COVID-19 transmission via expiratory droplets
@@ -104,15 +104,15 @@ feed June2020
     -- exports
       !a
 
-    / June, 2020 - Medical Hypotheses
-    let !a self assert = The intermediate dimensioned droplets are proved to be changed into aerosol, losing their water content and becoming seriously contagious, but in their initial phase they could be easily caught by a simple surgical mask. The actual efficiency of FFP3 masks has been examined and found to be lower than expected.
+    / Efficacy of medical masks
+    let !a self assert = In this paper, a physicist's approach is given to support the necessity to wear surgical masks during the COVID-19 pandemics. The intermediate dimensioned droplets are proved to be changed into aerosol, losing their water content and becoming seriously contagious, but in their initial phase they could be easily caught by a simple surgical mask. The actual efficiency of FFP3 masks has been examined and found to be lower than expected.
 
   # PPE in hospital,
 
   // Use of personal protective equipment against coronavirus disease 2019 by healthcare professionals in Wuhan, China: cross sectional study
   doi: https://doi.org/10.1136/bmj.m2195
   ref 'Liu_et_al_06_10_2020
-    head = All 420 study participants had direct contact with patients and performed at least one aerosol generating procedure. None of the participants reported covid-19 related symptoms. Healthcare systems must give priority to the procurement and distribution of personal protective equipment, and provide adequate training to healthcare professionals in its use.
+    head = All 420 study participants had direct contact with patients and performed at least one aerosol generating procedure. None of the participants reported Covid-19 related symptoms. Healthcare systems must give priority to the procurement and distribution of personal protective equipment, and provide adequate training to healthcare professionals in its use.
 
     >>> Objective
       To examine the protective effects of appropriate personal protective equipment for frontline healthcare professionals who provided care for patients with coronavirus disease 2019 (covid-19).
@@ -138,8 +138,8 @@ feed June2020
     -- exports
       !a
 
-    / June, 2020 - BMJ
-    let !a self assert =
+    / Recommendation/Policy: HCW should be given priority in PPE
+    let !a self assert = Despite being at high risk of exposure, study participants were appropriately protected and did not contract infection or develop protective immunity against SARS-CoV-2. Healthcare systems must give priority to the procurement and distribution of personal protective equipment, and provide adequate training to healthcare professionals in its use.
 
   # Hydroxychloroquine - Mortality
   // Risk Factors for Mortality in Patients with COVID-19 in New York City
@@ -356,9 +356,22 @@ feed June2020
 
     -- exports
       !a
+      !b
+      !c
+      !d
+      !e
 
-    / June, 2020 - The Lancet
+    / Facemask use can result in reduction of infections
     let !a self assert = Face mask use could result in a large reduction in risk of infection. Eye protection also was associated with less infection
+    / Facemask with physical distancing lead to less transmission
+    let !b self assert = We investigate the optimum distance for avoiding person-to-person virus transmission and assess the use of face masks and eye protection Transmission was lower with physical distancing of 1 m or more, compared with less than 1 m.
+    / Masks reduce infections, respirators are better than medical and cotton masks
+    let !c self assert = Our findings continued to support the ideas not only that masks in general are associated with a large reduction in risk of infection from SARS-CoV-2, SARS-CoV, and MERS-CoV but also that N95 or similar respirators might be associated with a larger degree of protection from viral infection than disposable medical masks or reusable multilayer (12–16-layer) cotton masks.
+    # #
+    / June, 2020 - The Lancet
+    let !d self assert = Our findings suggest it plausible that even in the absence of aerosolisation, respirators might be simply more effective than masks at preventing infection.
+    / June, 2020 - The Lancet
+    let !e self assert = Eye protection also was associated with less infection.
 
 
   # Hydroxychloroquine
@@ -1254,10 +1267,10 @@ feed June2020
     / June, 2020 - Annals of the New York Academy of Sciences
     let !a self assert = It follows that the adoption of this simple technology ought to be re-evaluated in countries where facemask use is not being encouraged. Within the parameter regimes tested, the models also show that, if COVID-19 is to be controlled or eradicated, early lock-down combined with facemask adoption by close to 100% by the public needs to occur. This, of course, does not exclude the implementation of other management interventions, such as widespread testing and contact tracing.
 
-    / Arguing for use of facemasks inspite of lack of direct evidence for Covid19
+    / Arguing for use of facemasks inspite of lack of direct evidence for Covid-19
     let !b self assert = We argue that the lack of experimental population-based data on facemask use cannot be equated with facemask ineffectiveness, particularly when it is accepted that patients with other respiratory diseases such as influenza have been recommended to wear facemasks to limit virus-particle-laden droplet spread.
 
-    / June, 2020 - Annals of the New York Academy of Sciences
+    / Modeling of facemask use by public
     let !c self assert = Models show that under a wide range of plausible parameter conditions, facemask use by the public could significantly reduce the rate of COVID-19 spread, prevent further disease waves and allow less stringent lock-down regimes. The effect is greatest when 100% of the public wear facemasks.
 
     / Facemasks and lock-down combination can be beneficial
@@ -1322,12 +1335,15 @@ feed June2020
 
     >>> Abstract
       This study aims to evaluate the filtration performance of three commercially available (3M 8210 respirator, Halyard 48207 surgical mask, and 3M 1820 procedure mask) and two alternative face mask and respirator materials (Halyard H600 sterilization wrap and Cummins EX101) after selected decontamination treatments, including isopropanol (IPA) treatments (soaking or spraying), ultraviolet germicidal irradiation (UVGI), and heat treatments (dry heat at 77 °C or steam heat). Both IPA soaking and spraying removed most electrostatic charges on all four electret materials (three commercial and one alternative), causing significant deterioration of filtration efficiency to unacceptable level. The other non-electret alternative material sustained its N95-grade performance after both IPA soaking and spraying treatments, demonstrating the possible application of IPA disinfection for non-electret alternative respirator/mask materials. UVGI preserved the filtration of all three commercially available respirator/mask materials after up to 10 treatments, suggesting it can be a possible decontamination method for hospital and clinic use without compromising respirator/mask performance. The considerations of the practical implementation of this method was discussed. Between the two heat treatment methods tested, dry heat showed better compatibility with electret material by sustaining both filtration efficiency and fit (tested on commercial respirator only), although adding moisture was reported in favor of virus inactivation. Heat treatment is easily accessible method for general publics to implement at home, while it is recommended to maintain the moisture level below saturation. Comparing to size-integrated method, the size-resolved fractional efficiency measurement technique, although more time consuming, proved to be a better method for evaluating respirator/mask filtration performance after decontaminations by providing more sensitive detection of performance degradation and the capability of distinguishing charge loss to other mechanisms causing efficiency deterioration. Detailed descriptions are provided in methodology part to emphasize the cares needed for an appropriate efficiency evaluation. The limited results in this study on worn masks made of alternative sterilization wrap indicated possible performance degradation of electret material caused by normal human wearing activities, suggesting the need of assessing respirator/mask decontamination strategy by testing practically worn-and-decontaminated/reused samples instead of unworn only-decontaminated counterparts.
+    -- exports
+      !b
+      !g
 
 
     / June, 2020 - Journal of Aersol Science
     let !a self assert = Steam heat treatment for 30 min was found to cause charge loss on 3M 1820 procedure mask and Halyard 48207 surgical masks, which led to efficiency deterioration after 5 or 10 cycles. Although similar efficiency decay was not observed on 3M 8210 N95 respirators, the respirators’ fit factor decreased with steam heat treatment cycles and dropped below 100 (fail) after 5 cycles.
 
-    / June, 2020 - Journal of Aersol Science
+    / Decontamination of N95 Masks
     let !b self assert = As an easily accessible method, heat treatment can be implemented by general publics in household setting, but our results suggested to keep the moisture level below saturation if masks made of electret materials are decontaminated.
 
     / June, 2020 - Journal of Aersol Science
@@ -1341,6 +1357,8 @@ feed June2020
 
     / June, 2020 - Journal of Aersol Science
     let !f self assert = The current study focused on the filtration performance of the filter materials, with fit testing conducted only on N95 respirators with selected decontamination methods. With more loose-fitting masks being used by frontline healthcare workers, assessing the facial fit performance of these face masks, which is equally important to material filtration testing, has become urgently needed and requires more immediate efforts.
+    / Decontamination of N95 Masks
+    let !g self assert = This research studied the effect of various decontamination methods on the filtration performance of five selected commercial and alternative respirator/mask materials. Both UVGI for 5 min and dry heat at 77 °C for 30 min were found not to cause observable performance degradation after up to 10 cycles on commercial respirators/masks tested.
 
 
   # Face Mask
@@ -2234,39 +2252,39 @@ feed June2020
     # / June, 2020 - Cell Reports
     # let !i self assert = Interestingly, we observed some cross-reactivity of plasma from SARS-CoV-2-immunized mice to both the SARS-CoV S ectodomain (p < 4e−5, two-tailed t test) and the SARS-CoV RBD (p < 0.006, two-tailed t test), as well as plasma from SARS-CoV-infected mice to the SARS-CoV-2 S ectodomain (p < 0.005, two-tailed t test) but not to the RBD. Of note, the absence of detectable binding of plasma from SARS-CoV-infected mice to SARS-CoV-2 RBD could be due to the overall weak cross-reactive antibody response to SARS-CoV-2, as indicated by the relatively weak binding to the CoV-2 S ectodomain (OD450 ranges from 0.3 to 0.8). The lack of detectable binding of plasma from SARS-CoV-immunized mice to either SARS-CoV-2 S ectodomain or RBD (p > 0.5, two-tailed t test) could be due to the overall low antibody response.
 
-
-  # Face masks, N95,
-  // Physical distancing, face masks, and eye protection to prevent person-to-person transmission of SARS-CoV-2 and COVID-19: a systematic review and meta-analysis
-  doi: https://doi.org/10.1016/S0140-6736(20)31142-9
-  article 'Chu_et_al_06_01_2020
-    head = Physical distancing of at least 1 m is strongly associated with protection, but distances of up to 2 m might be more effective. The optimum use of face masks- N95 or similar respirators in health-care settings and 12–16-layer cotton or surgical masks in the community, could depend on contextual factors. Eye protection might provide additional benefits.
-
-    >>> Background
-      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) causes COVID-19 and is spread person-to-person through close contact. We aimed to investigate the effects of physical distance, face masks, and eye protection on virus transmission in health-care and non-health-care (eg, community) settings.
-
-    >>> Methods
-      We did a systematic review and meta-analysis to investigate the optimum distance for avoiding person-to-person virus transmission and to assess the use of face masks and eye protection to prevent transmission of viruses. We obtained data for SARS-CoV-2 and the betacoronaviruses that cause severe acute respiratory syndrome, and Middle East respiratory syndrome from 21 standard WHO-specific and COVID-19-specific sources. We searched these data sources from database inception to May 3, 2020, with no restriction by language, for comparative studies and for contextual factors of acceptability, feasibility, resource use, and equity. We screened records, extracted data, and assessed risk of bias in duplicate. We did frequentist and Bayesian meta-analyses and random-effects meta-regressions. We rated the certainty of evidence according to Cochrane methods and the GRADE approach. This study is registered with PROSPERO, CRD42020177047.
-
-    >>> Findings
-      Our search identified 172 observational studies across 16 countries and six continents, with no randomised controlled trials and 44 relevant comparative studies in health-care and non-health-care settings (n=25 697 patients). Transmission of viruses was lower with physical distancing of 1 m or more, compared with a distance of less than 1 m (n=10 736, pooled adjusted odds ratio [aOR] 0·18, 95% CI 0·09 to 0·38; risk difference [RD] −10·2%, 95% CI −11·5 to −7·5; moderate certainty); protection was increased as distance was lengthened (change in relative risk [RR] 2·02 per m; pinteraction=0·041; moderate certainty). Face mask use could result in a large reduction in risk of infection (n=2647; aOR 0·15, 95% CI 0·07 to 0·34, RD −14·3%, −15·9 to −10·7; low certainty), with stronger associations with N95 or similar respirators compared with disposable surgical masks or similar (eg, reusable 12–16-layer cotton masks; pinteraction=0·090; posterior probability >95%, low certainty). Eye protection also was associated with less infection (n=3713; aOR 0·22, 95% CI 0·12 to 0·39, RD −10·6%, 95% CI −12·5 to −7·7; low certainty). Unadjusted studies and subgroup and sensitivity analyses showed similar findings.
-
-    >>> Interpretations
-      The findings of this systematic review and meta-analysis support physical distancing of 1 m or more and provide quantitative estimates for models and contact tracing to inform policy. Optimum use of face masks, respirators, and eye protection in public and health-care settings should be informed by these findings and contextual factors. Robust randomised trials are needed to better inform the evidence for these interventions, but this systematic appraisal of currently best available evidence might inform interim guidance.
-
-
-    -- exports
-      !a
-      !b
-      !c
-
-    / June, 2020 - The Lancet
-    let !a self assert = Our findings continued to support the ideas not only that masks in general are associated with a large reduction in risk of infection from SARS-CoV-2, SARS-CoV, and MERS-CoV but also that N95 or similar respirators might be associated with a larger degree of protection from viral infection than disposable medical masks or reusable multilayer (12–16-layer) cotton masks.
-
-    / June, 2020 - The Lancet
-    let !b self assert = Our findings suggest it plausible that even in the absence of aerosolisation, respirators might be simply more effective than masks at preventing infection.
-
-    / June, 2020 - The Lancet
-    let !c self assert = Eye protection also was associated with less infection.
+  # NOTE: This is a repeat of ref on line 345 in this same file
+  # # Face masks, N95,
+  # // Physical distancing, face masks, and eye protection to prevent person-to-person transmission of SARS-CoV-2 and COVID-19: a systematic review and meta-analysis
+  # doi: https://doi.org/10.1016/S0140-6736(20)31142-9
+  # article 'Chu_et_al_06_01_2020
+  #   head = Physical distancing of at least 1 m is strongly associated with protection, but distances of up to 2 m might be more effective. The optimum use of face masks- N95 or similar respirators in health-care settings and 12–16-layer cotton or surgical masks in the community, could depend on contextual factors. Eye protection might provide additional benefits.
+  #
+  #   >>> Background
+  #     Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) causes COVID-19 and is spread person-to-person through close contact. We aimed to investigate the effects of physical distance, face masks, and eye protection on virus transmission in health-care and non-health-care (eg, community) settings.
+  #
+  #   >>> Methods
+  #     We did a systematic review and meta-analysis to investigate the optimum distance for avoiding person-to-person virus transmission and to assess the use of face masks and eye protection to prevent transmission of viruses. We obtained data for SARS-CoV-2 and the betacoronaviruses that cause severe acute respiratory syndrome, and Middle East respiratory syndrome from 21 standard WHO-specific and COVID-19-specific sources. We searched these data sources from database inception to May 3, 2020, with no restriction by language, for comparative studies and for contextual factors of acceptability, feasibility, resource use, and equity. We screened records, extracted data, and assessed risk of bias in duplicate. We did frequentist and Bayesian meta-analyses and random-effects meta-regressions. We rated the certainty of evidence according to Cochrane methods and the GRADE approach. This study is registered with PROSPERO, CRD42020177047.
+  #
+  #   >>> Findings
+  #     Our search identified 172 observational studies across 16 countries and six continents, with no randomised controlled trials and 44 relevant comparative studies in health-care and non-health-care settings (n=25 697 patients). Transmission of viruses was lower with physical distancing of 1 m or more, compared with a distance of less than 1 m (n=10 736, pooled adjusted odds ratio [aOR] 0·18, 95% CI 0·09 to 0·38; risk difference [RD] −10·2%, 95% CI −11·5 to −7·5; moderate certainty); protection was increased as distance was lengthened (change in relative risk [RR] 2·02 per m; pinteraction=0·041; moderate certainty). Face mask use could result in a large reduction in risk of infection (n=2647; aOR 0·15, 95% CI 0·07 to 0·34, RD −14·3%, −15·9 to −10·7; low certainty), with stronger associations with N95 or similar respirators compared with disposable surgical masks or similar (eg, reusable 12–16-layer cotton masks; pinteraction=0·090; posterior probability >95%, low certainty). Eye protection also was associated with less infection (n=3713; aOR 0·22, 95% CI 0·12 to 0·39, RD −10·6%, 95% CI −12·5 to −7·7; low certainty). Unadjusted studies and subgroup and sensitivity analyses showed similar findings.
+  #
+  #   >>> Interpretations
+  #     The findings of this systematic review and meta-analysis support physical distancing of 1 m or more and provide quantitative estimates for models and contact tracing to inform policy. Optimum use of face masks, respirators, and eye protection in public and health-care settings should be informed by these findings and contextual factors. Robust randomised trials are needed to better inform the evidence for these interventions, but this systematic appraisal of currently best available evidence might inform interim guidance.
+  #
+  #
+  #   -- exports
+  #     !a
+  #     !b
+  #     !c
+  #
+  #   / June, 2020 - The Lancet
+  #   let !a self assert = Our findings continued to support the ideas not only that masks in general are associated with a large reduction in risk of infection from SARS-CoV-2, SARS-CoV, and MERS-CoV but also that N95 or similar respirators might be associated with a larger degree of protection from viral infection than disposable medical masks or reusable multilayer (12–16-layer) cotton masks.
+  #
+  #   / June, 2020 - The Lancet
+  #   let !b self assert = Our findings suggest it plausible that even in the absence of aerosolisation, respirators might be simply more effective than masks at preventing infection.
+  #
+  #   / June, 2020 - The Lancet
+  #   let !c self assert = Eye protection also was associated with less infection.
 
 
   # genome frontier, blood group O, epidemic
