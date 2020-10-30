@@ -39,22 +39,15 @@ subject module Diagnostics
     # https://www.cdc.gov/coronavirus/2019-ncov/lab/resources/antibody-tests-guidelines.html
     # https://asm.org/Articles/2020/May/COVID-19-Serology-Testing-Explained
     # Long-Term Immunity—Does It Exist With COVID-19?-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7184973/
-    --
-      'Weissleder_et_al_06_03_2020
+
 
     / Serology
     subject Serology
       head = Serological tests detect antibodies produced by the body in response to infection. It can measure neutralizing antibodies and binding antibodies. Antibody serosurveys are being conducted to monitor trends in the prevalence of the novel coronavirus.
-      >>>
-        Some Serology Tests have higher sensitivity than others. The clinical sensitivity of IgM for early diagnosis of COVID-19 is currently unclear.
-        SARS-CoV-2-specific IgM does not consistently appear before its IgG counterpart.
-        Some studies reporting detection of SARS-CoV 2 spike protein-specific IgG before IgM.
-        Since the appearance of antibodies is time dependent, diagnosis of COVID-19 by serological methods is limited to patients with a longer duration of illness.
+
       --
-        'Lassaunière_et_al_2020
-        'Weissleder_et_al_06_03_2020
-        'Watson_et_al_05_12_2020
-        'Sethuraman_et_al_05_06_2020
+        Serologyantibodies
+
       --
         Immunoassay
 
@@ -67,11 +60,23 @@ subject module Diagnostics
       --
         'Wu_et_al_04_20_2020
 
+      / Antibodies Detection through Serology
+      subject Serologyantibodies
+        head = Appearance of antibodies is time dependent, diagnosis of COVID-19 by serological methods is limited to patients with a longer duration of illness.
+        >>>
+          Some Serology Tests have higher sensitivity than others. The clinical sensitivity of IgM for early diagnosis of COVID-19 is currently unclear.
+        --
+          'Lassaunière_et_al_2020
+          'Weissleder_et_al_06_03_2020
+        >>>
+          SARS-CoV-2-specific IgM does not consistently appear before its IgG counterpart.Some studies reporting detection of SARS-CoV 2 spike protein-specific IgG before IgM.
+        --
+          'Watson_et_al_05_12_2020
+          'Sethuraman_et_al_05_06_2020
+
       / Immunoassay detection
       subject Immunoassay
-        head =
-        >>>
-           S1 and N proteins are the dominant antigens of SARSCoV-2 that elicit both IgG and IgM antibodies.
+        head = S1 and N proteins are the dominant antigens of SARSCoV-2 that elicit both IgG and IgM antibodies.
         -- Immuno-Diagnostics, Immunoassy
           'Jiang_et_al_2020
           'Stadlbauer_et_al_2020
@@ -110,7 +115,7 @@ subject module Diagnostics
 
       / RNA Detection through PCR
       subject RT-PCR
-        head =
+        head = PCR and RT-PCR can achieve more sensitive detection and higher levels of amplification of specific sequences in less time. These features make the technique extremely useful, not only in basic research, but also in commercial uses.
         -- PCR and RT-PCR
           'Weissleder_et_al_06_03_2020
           'Wölfel_et_al_2020
@@ -125,15 +130,11 @@ subject module Diagnostics
           'Huang_et_al_2017
           'Beckmann_et_al_2016
           'Chut_et_al_2011
-        # Narrative paper
-        --
-          'Woloshin_et_al_06_05_2020
-          'Woloshin_et_al_06_05_2020.!b
-          'Woloshin_et_al_06_05_2020.!c
+
 
       / Limitations of PCR
       subject LimitationsPCR
-        head =
+        head = The inability to differentiate between infective and non-infective (dead or antibody-neutralised) viruses remains a major limitation of nucleic acid detection. There has been several reporting of false negative diagnosis of Covid19 via PCR and RT-PCR.
         -- Limitations of PCR and RT-PCR
           'Joynt_et_al_2020
           'Joynt_et_al_2020.!b
@@ -142,14 +143,14 @@ subject module Diagnostics
           'Joynt_et_al_2020.!e
           'Tom_et_al_2020.!e
           'Sethuraman_et_al_05_06_2020.!b
+          'Woloshin_et_al_06_05_2020
         -- CT more sensitive than PCR
           'Fang_et_al_2020
-        -- PCR Assays Turned Positive from negative
+        -- Reports of PCR Assays Turned Positive from negative
           'Yuan_et_al_2020
           'Lan_et_al_2020
         --
           'Weissleder_et_al_06_03_2020.!n
-
         >>>
           Conversely, people often test positive for weeks or even months after they recover but have high CT values, suggesting the PCR has identified genetic material from noninfectious viral debris. Current guidelines from the Centers for Disease Control and Prevention and World Health Organization, which call for patients to isolate themselves for 10 days after onset of symptoms, recognize they are not likely to be infectious after that period.
         -- Prolonged shedding give positive pcr despite being cured
@@ -157,7 +158,7 @@ subject module Diagnostics
 
       / CT (Cycle Threshold) value
       subject CTvalue
-        head = Research propose to take CT (Cycle Threshold) value into account for further clinical severity as well as take CT results in context to guide isolation, contact tracing, and testing guidelines. Ct value can also provide accurate estimation of an epidemic's trajectory, subverting the need for repeated case count measurements which are frequently obscured by changes in testing capacity.
+        head = The Ct value of PCR correlates with viral load, and low Ct values (high viral load) might indicate infectiousness of the individual. Research propose to take CT (Cycle Threshold) value into account for further clinical severity as well as take CT results in context to guide isolation, contact tracing, and testing guidelines. Ct value can also provide accurate estimation of an epidemic's trajectory, subverting the need for repeated case count measurements which are frequently obscured by changes in testing capacity.
 
         # CT value is an imperfect measure, advocates concede. “The CT value isn't an absolute scale,” But whether to add it to test results “is one of the most pressing questions out there,
         >>>
@@ -195,16 +196,15 @@ subject module Diagnostics
           'Hay_et_al_10_13_2020
         -- Challenges of sampling variability, individual-level differences in viral kinetics, and limitations in comparing results from different laboratories or instruments
           'Service_et_al_10_02_2020.!b
+          'Iwasaki_et_al_10_12_2020.!f
 
       / Swab collection for RNA extraction
       subject Swabcollection
-        head =
+        head = Samples for diagnostic tests for SARS-CoV-2 can be taken from the upper nasopharyngeal/oropharyngeal swabs, nasal swab or saliva). Data comparing the accuracy of RT-PCR testing suggest that test sensitivity may vary by type of specimen.
 
         / Saliva collection
         subject Saliva
-          head =
-          >>>
-            Saliva testing may be a suitable alternative first-line screening test in several environments, including low resource settings, with NPS reserved for patients with an ongoing high clinical index of suspicion. These findings are highly relevant in the face of shortages of both swabs and personal protective equipment in many settings.
+          head = Saliva testing may be a suitable alternative first-line screening test in several environments, including low resource settings, with NPS reserved for patients with an ongoing high clinical index of suspicion. These findings are highly relevant in the face of shortages of both swabs and personal protective equipment in many settings.
           -- Use of Saliva as detection
             'Wyllie_et_al_2020
             'Williams_et_al_2020
@@ -213,9 +213,17 @@ subject module Diagnostics
 
         / Nasal swab
         subject Nasalswab
+          head = Nasal swabs are also practical specimen sources to test for SARS-CoV2.
+          --
+            'Berenger_et_al_05_08_2020
+            'Yang_et_al_2020
 
         / Nasopharyngeal swab
         subject Nasopharyngeal
+          head = Nasopharyngeal (NP) are the most practical specimen sources to test for SARS-CoV2.
+          --
+            'Berenger_et_al_05_08_2020
+            'Wölfel_et_al_2020
 
     / CT Scan
     subject CT
@@ -232,6 +240,9 @@ subject module Diagnostics
 
     / Antigen
     subject Antigen
+      head = Antigen test detects presence of viral protien and return positive result when person is most infectious.
+      --
+        'Weissleder_et_al_06_03_2020
 
   / Disease Suspectibility
   subject DiseaseSuspectibility
@@ -312,7 +323,6 @@ subject module Diagnostics
     --
       Methods.CT
 
-
   # who is immune to covid? Have I had infection in the past?
   / Potential Immunity
   subject PotentialImmunity
@@ -355,6 +365,7 @@ subject module Diagnostics
 
     / Seroprevalence
     subject Seroprevalence
+      head = Seroprevalance survey uses antibody test to estimate percentage of people in a population who have antibodies against SARS-CoV2. This can tell how many people in a specific population may have been previously infected with SARS-CoV2.
       -- Seroprevalence
         'Thompson_et_al_2020
       -- Seroprevalence study in France, Switzerland and China
@@ -367,6 +378,9 @@ subject module Diagnostics
       --
         'Lipsitch_et_al_2020
         'Lipsitch_et_al_2020.!a
+      -- Decline in antibody titers- seroprevalence studies may underestimate the true prevalence of infection.
+        'WangTo_et_al_08_25_2020.!f
+
       -- Seroprevalance Studies on other infectious disease
         'McLeish_et_al_2011
       # Herd Immunity happened in Zika Virus

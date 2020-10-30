@@ -88,6 +88,7 @@
     let !e1 self assert = The selection of material is an important first step as the filtration (barrier) and breathability varies depending on the fabric. Filtration efficiency is dependent on the tightness of the weave, fibre or thread diameter, and, in the case of non-woven materials, the manufacturing process (spunbond, meltblown, electrostatic charging). The filtration of cloth fabrics and masks has been shown to vary between 0.7% and 60%.
     # (49, 72) (73, 74)
 
+
     / Effect of layers of clothing
     let !e self assert = Fabric cloths (e.g., nylon blends and 100% polyester) when folded into two layers, provides 2-5 times increased filtration efficiency compared to a single layer of the same cloth, and filtration efficiency increases 2-7 times if it is folded into 4 layers. Masks made of cotton handkerchiefs alone should consist of at least 4 layers, but have achieved only 13% filtration efficiency. Very porous materials, such as gauze, even with multiple layers will not provide sufficient filtration; only 3% filtration efficiency.
     / WHO advisory on use of Facemasks - number and type of layers

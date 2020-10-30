@@ -207,11 +207,12 @@ subject module Remediation
               Hcqinvitro
 
             >>>
-               Some clinical studies suggest using Hydroxychloroquine with or without Azithromycin while some studies caution its use against COVID-19
-
+               Some clinical studies suggest using Hydroxychloroquine with or without Azithromycin while some studies caution its use against COVID-19. Randomised Trial failed to show any clinical or virological benefit from the use of Hydroxychloroquine or Chloroquine
             --
               HydroxychloroquineasTreatment
 
+            >>>
+              While Low dose use of Hydroxychloroquine is associated with reduced mortality.
             --
               Hydroxychloroquine
 
@@ -272,7 +273,7 @@ subject module Remediation
               -- Stops Replication
                 'Cortegiani_et_al_2020
 
-            / Hydroxychloroquine as Treatment
+            / Studies on Hydroxychloroquine as Treatment
             subject HydroxychloroquineasTreatment
               head = Observational Studies, Randomized Controlled trial of Hydroxychloroquine with or without Azithromycin
               >>>
@@ -356,7 +357,7 @@ subject module Remediation
               >>>
                 While this meta analysis of randomised trial shows reduction on infection, hospitalization and death
               --
-                'Ladapo_et_al_09_30_2020  
+                'Ladapo_et_al_09_30_2020
               >>>
                 Warning against unsupervised usage as Prophylaxis
               --

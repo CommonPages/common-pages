@@ -4,6 +4,7 @@ subject module Disease
   / Incubation Period
   subject IncubationPeriod
     head = Incubation period ranges from 1 to 14 days.
+
     -- IncubationPeriod of other Respiratory Viral infection
       'Lessler_et_al_2013
     -- COVID-19
@@ -13,7 +14,7 @@ subject module Disease
       'Liu_et_al_03_03_2020.!d
       'Sanche_et_al_2020
 
-  / Asymtomatic & Presymptomatic Phase
+  / Asymtomatic Phase
   subject AsymptomaticPhase
     head = A minority of cases do not develop noticeable symptoms at any point in time. Asymtomatic cases can cause transmission and can have high viral load.
     -- Asymtomatic People can cause transmission and can have high viral load
@@ -23,7 +24,7 @@ subject module Disease
       'Lavezzo_et_al_04_18_2020
     -- Longer viral shedding
       'Xin-Long_et_al_06_18_2020.!c1
-    -- Examples of asymptomatic + Presymptomatic cases
+    -- Asymptomatic + Presymptomatic cases
       'Mizumoto_et_al_2020
       'Lavezzo_et_al_04_18_2020.!b
       'He_et_al_2020
@@ -69,8 +70,6 @@ subject module Disease
   / Immune Reponse
   subject ImmuneResponse
     head = Clinical Laboratory findings suggest an underline immunopathology. Additionally people with COVID-19 and ARDS have classic serum biomarkers of Cytokine release syndrome.
-    >>>
-      As of now, Clinical laboratory findings of elevated IL-2, IL-7, IL-6, granulocyte-macrophage colony-stimulating factor (GM-CSF), interferon-γ inducible protein 10 (IP-10), monocyte chemoattractant protein 1 (MCP-1), macrophage inflammatory protein 1-α (MIP-1α), and tumour necrosis factor-α (TNF-α) indicative of cytokine release syndrome (CRS) suggest an underlying immunopathology.  Additionally, people with COVID‑19 and acute respiratory distress syndrome (ARDS) have classical serum biomarkers of CRS, including elevated C-reactive protein (CRP), lactate dehydrogenase (LDH), D-dimer, and ferritin.
 
     # Source WHO https://www.who.int/docs/default-source/coronaviruse/risk-comms-updates/update-34-immunity-2nd.pdf?sfvrsn=8a488cb6_2
 
@@ -81,21 +80,13 @@ subject module Disease
       InnateImmuneResponse
 
     >>> Adaptive Immune Response
-      Specific Response to the infection
-      Starts After 6-8 days
-      T Cell - Celluar Response
-      B Cell - Antibody Response
-
-    >>> T Cell
-      recognize cells that are infected with a specific virus and rapidly increase in number to tackle the infection.
-      - CD8+ cytotoxic T cells kill the cells in which the virus is multiplying and help to slow down or stop the infection.
-      - CD4+ helper T cells bring in other cells of the immune system and stimulate B-Cells to produce antibodies specific to that virus.
+      Specific Response to the infection which starts After 6-8 days. There are two types :-
+      - T Cell - Celluar Response
+      - B Cell - Antibody Response
 
     --
       TCell
-
-    >>> B Cell
-      Produce antibodies that are specific to that virus. IgM antibodies are produced first and disappear after a few weeks. IgG antibodies are produced at the same time or 2-3 days later, and titres (levels) usually remain for months or years.
+      BCell
 
     >>>
       Female patients mounted significantly more robust T cell activation than male patients during SARS-CoV-2 infection, which was sustained in old age.
@@ -105,11 +96,17 @@ subject module Disease
       Asymptomatic individuals had a weaker immune response to SARS-CoV-2 infection.
     --
       'Xin-Long_et_al_06_18_2020
-    -- Cytokine is more common in SARS-CoV-2 than influenza
+    >>>
+      Cytokine is more common in SARS-CoV-2 than influenza
+    --
       'Mudd_et_al_05_15_2020
-
-    -- Nsp1 interfere with antiviral defense
+    >>>
+      Nsp1 interfere with antiviral defense
+    --
       'Thoms_et_al_05_18_2020
+
+    >>>
+      As of now, Clinical laboratory findings of elevated IL-2, IL-7, IL-6, granulocyte-macrophage colony-stimulating factor (GM-CSF), interferon-γ inducible protein 10 (IP-10), monocyte chemoattractant protein 1 (MCP-1), macrophage inflammatory protein 1-α (MIP-1α), and tumour necrosis factor-α (TNF-α) indicative of cytokine release syndrome (CRS) suggest an underlying immunopathology.  Additionally, people with COVID‑19 and acute respiratory distress syndrome (ARDS) have classical serum biomarkers of CRS, including elevated C-reactive protein (CRP), lactate dehydrogenase (LDH), D-dimer, and ferritin.
 
     --
       Interferons
@@ -117,11 +114,14 @@ subject module Disease
       AffinityMaturation
       FrontiersImmune
 
-    / T Cells
+    / T Cells Antibody Response
     subject TCell
-      head =
-      >>>
-        CD4+ & CD8+ T Cells
+      head = T Cell Recognize cells that are infected with a specific virus and rapidly increase in number to tackle the infection. CD8+ cytotoxic T cells kill the cells in which the virus is multiplying. CD4+ helper T cells bring in other cells of the immune system
+
+      >>>  CD4+ & CD8+ T Cells
+        - CD8+ cytotoxic T cells kill the cells in which the virus is multiplying and help to slow down or stop the infection.
+        - CD4+ helper T cells bring in other cells of the immune system and stimulate B-Cells to produce antibodies specific to that virus.
+
       --
         'Chen_et_al_2020d
         'Zheng_et_al_2020b
@@ -138,9 +138,13 @@ subject module Disease
       -- T-Cell Response on patients
         'Nelde_et_al_06_16_2020
 
+    / B Cells Cellular Response
+    subject BCell
+      head = Produce antibodies that are specific to that virus. IgM antibodies are produced first and disappear after a few weeks. IgG antibodies are produced at the same time or 2-3 days later, and titres (levels) usually remain for months or years.
+
     / Interferons
     subject Interferons
-      head =
+      head = Role of Type I & type III Interferon for restricting SARS CoV-2 infection.
       >>>
         Role of {Interferonone type I} type III Interferon
       --
@@ -151,7 +155,7 @@ subject module Disease
 
     / Innate Immune Response
     subject InnateImmuneResponse
-      head =
+      head = Dysregulation of the innate immune response contributes to the cytokine storm seen in severe SARS-CoV-2 infection.
       -- Activation of Innate Immune Response
         'Subbarao_et_al_05_19_2020.!a
         'Subbarao_et_al_05_19_2020.!b
@@ -159,20 +163,19 @@ subject module Disease
 
     / Monocytes and Macrophages
     subject MonocytesMacrophages
-      head =
+      head = Macrophages are a population of innate immune cells that sense and respond to microbial threats by producing inflammatory molecules that eliminate pathogens and promote tissue repair. A dysregulated macrophage response can be damaging to the host
       -- Monocytes and Macrophages
         'Merad_et_al_05_06_2020
 
+    / Affinity Maturation
     subject AffinityMaturation
-      head =
-      >>>
-        Affinity maturation is the process by which TFH cell-activated B cells produce antibodies with increased affinity for antigen during the course of an immune response.
+      head = Affinity maturation is the process by which TFH cell-activated B cells produce antibodies with increased affinity for antigen during the course of an immune response.
       --
         'King_et_al_2020
 
     / Frontiers
     subject FrontiersImmune
-      head =
+      head = Celluar Immune Response of SARS , Influenza suggest suggest similar pathophysiology.
       -- Immune Response to SARS in Mice
         'Chen_et_al_2009
         'Chen_et_al_2009.!a
@@ -182,7 +185,6 @@ subject module Disease
         'Zhao_et_al_2010
       -- Innate Immune Response
         'Qian_et_al_11_06_2012
-
       -- Immune Reponse to Influenza
         'Furman_et_al_2015
       # Why some are Asymtomatic? Sero survey suggest people have cross reactive antibodies
@@ -267,9 +269,11 @@ subject module Disease
     / Age
     subject module Age
       head = Children make up a small proportion of reported cases, they are likely to have milder symptoms and a lower chance of severe disease than adults. Data worldwide have shown people older than 60 are more at risk.
+
       / Children
       subject Children
         head = Children and young people have lower susceptibility to SARS-CoV-2, with a lower odds of being an infected contact. Few recent studies have reported some children developing paediatric multisystem inflammatory syndrome.
+
         -- Children and young people have lower susceptibility to SARS-CoV-2 and their role in transmission SARS-CoV-2 remains uncertain.
           'Zimmermann_et_al_2020
           'Viner_et_al_05_24_2020
@@ -322,7 +326,7 @@ subject module Disease
     subject Gender
       head = Men are at higher risk of developing severe COVID-19 disease.
       # Some research have investigated the difference might be due to the immune response.
-      --
+      -- Reports
         'Chen_et_al_2020d.!a
         'Chen_et_al_2020c
         'Chen_et_al_2020c.!c
@@ -341,7 +345,7 @@ subject module Disease
 
     / Smokers
     subject Smokers
-      head = According to scientific reviews smokers are more likely to require intensive care or die compared to non-smokers. # smokers are particularly susceptible to severe SARS-CoV-2 infections.
+      head = According to scientific reviews smokers are particularly susceptible and more likely to require intensive care or die compared to non-smokers.
 
       --
         'Fontanet_et_al_04_23_2020.!a
@@ -400,14 +404,12 @@ subject module Disease
 
     / Vitamin D
     subject VitaminD
-      head = Based on case study reports, Vitamin D status is significantly associated with clinical outcomes.
+      head = Based on case study reports, Vitamin D can improve clinical outcomes of patients infected with COVID 19
 
-      >>>
-        Studies suggest vitamin D can improve clinical outcomes of patients infected with COVID 19
-      --
+      -- Vitamin D status is associated with clinical outcomes.
         'Alipio_et_al_2020
         'Raharusun_et_al_2020
-      -- Suppressing Cytokine Storm
+      -- Vitamin D suppressing Cytokine Storm
         'Daneshkhah_et_al_05_18_2020
       >>>
         Randomized Clinical Study
@@ -419,7 +421,7 @@ subject module Disease
 
       / Rationale
       subject VitaminDRationale
-        head =  VitaminD is asscoiated to normalise ACE2 level and also protects from lung injury
+        head = VitaminD is asscoiated to normalise ACE2 level and also protects from lung injury
         >>>
           ACE2 is necessary for entry of SARS-CoV-2 but having less ACE2 may increase of disease severity. VitaminD is asscoiated to normalise ACE2 level and also protects from lung injury
         --
@@ -428,24 +430,24 @@ subject module Disease
           'Martineau_et_al_2017
           'Cui_et_al_2019
         >>>
-          Based on this study, VitaminD regulated human protien encoding genome
+          Based on this study, Vitamin D regulated human protien encoding genome
         --
           'Wang_et_al_2005b
         >>>
-          VitaminD supplementation led to reduction of in epigenetic aging in African Americans
+          Vitamin D supplementation led to reduction of in epigenetic aging in African Americans
         --
           'Chen_et_al_2019
         >>>
-          Genetically low plasma vitamin D levels are associated with a higher mortality from respiratory infections
+          Genetically low plasma Vitamin D levels are associated with a higher mortality from respiratory infections
         --
           'Afzal_et_al_2018
           'Jolliffe_et_al_2018
         >>>
           Obesity is associated with case severity in COVID-19.
-        -- Low VitaminD levels in Obesity
+        -- Low Vitamin D levels in Obesity
           'Wortsman_et_al_2020
         >>>
-          VitaminD Deficiency in the US. Mortality Rate is high in US
+          Vitamin D Deficiency in the US. Mortality Rate is high in US
         --
           'Liu_et_al_2018
         >>>
@@ -472,7 +474,7 @@ subject module Disease
 
     / Co-Morbid Conditions
     subject module CoMorbidConditions
-      head =  Underlying health conditions such as obesity, diabetes, Hypertension, Cancer, HIV and cardiovascular disease could result in severe and even fatal respiratory complications
+      head = Underlying health conditions such as diabetes, cardiovascular disease, obesity, cancer, renal disease, and HIV probably contribute to severe and even fatal respiratory complications.
       >>>
         A greater number of comorbidities are correlated with poorer clinical outcomes.
       --
@@ -480,45 +482,97 @@ subject module Disease
         'Guan_et_al_2020.!b
       --
         Diabetes
-        Hypertension
-        Obesity
         Cardiovascular
+        Obesity
         HIV
         Cancer
+        RenalDisease
       >>>
         Having less ACE2 may increase the risk of Severe disease
       -- ACE2
         'AlGhatrif_et_al_2020
 
+      / Cardiovascular
       subject Cardiovascular
+        head = Pre-existing cardiovascular disease seems to be linked with worse outcomes and increased risk of death in patients with COVID-19, whereas COVID-19 itself can also induce myocarditis, acute myocardial infarction, stroke, cardiomyopathy, heart failure, arrhythmias, acute pericarditis, and venous thromboembolism.
         --
           'Li_et_al_2020c
           'DelValle_et_al_05_30_2020.!g
+        --
+          Hypertension
+
+        / Hypertension
+        subject Hypertension
+          head = People with hypertension are likely to have increased disease severity.
+          -- Likely to develop severe/ICU cases after 2019-nCoV infection.
+            'Li_et_al_2020c.!b
+          -- People with hypertension were not more susceptible to 2019-nCoV infection.
+            'Li_et_al_2020c.!a
+          -- Less likely to recieve care in the ICU
+            'Richardson_et_al_04_22_2020.!l
+          # Age is a potent shared risk factor which links the two conditions.
+          --
+            'DelValle_et_al_05_30_2020.!g
+          >>>
+            Hypertension is treated with ACE inhibitors and ARBs, which results in an upregulation of ACE2. There are conflicting results with the use of angiotensin converting enzyme (ACE) inhibitors and angiotensin receptor blockers (ARB) in these patients. However, the continuation of clinically indicated ACE inhibitor and ARB medications is recommended in COVID-19.
+
+          -- Hypertension treatment with ACE2-stimulating drugs increases the risk of developing severe and fatal COVID-19.
+            'FangFang_et_al_2020
+            'FangFang_et_al_2020.!f
+          -- Reports
+            'FangFang_et_al_2020.!b
+            'FangFang_et_al_2020.!c
+            'FangFang_et_al_2020.!d
+            'FangFang_et_al_2020.!e
+            'Lee_et_al_05_28_2020.!d
+            'Richardson_et_al_04_22_2020.!n
+
+            # No evidence that antihypertensive calcium channel blockers increased ACE2 expression or activity
+          -- Potential new therapy for inflammatory lung diseases, cancer, diabetes, and hypertension.
+            'FangFang_et_al_2020.!a
+            'FangFang_et_al_2020.!g
+
+      / HIV
       subject HIV
+        head =  HIV-infected individuals should not be considered to be protected from SARS-CoV-2 infection or to have lower risk of severe disease. People with HIV might be at an increased risk of SARS-CoV-2 infection or severe COVID-19, especially those with comorbidity, lower CD4 count, or high HIV RNA load.
+
         -- Increased risk of SARS-CoV-2 infection
           'Xu_et_al_05_28_2020.!b
           'Vizcarra_et_al_05_28_2020
         -- HIV have lower risks of infection
           'Xu_et_al_05_28_2020
 
+      / Cancer
       subject Cancer
+        head = Mortality from COVID-19 in cancer patients appears to be principally driven by age, gender, and comorbidities.
         --
           'Lee_et_al_05_28_2020
+
+      / Diabetes
       subject Diabetes
+        head = Diabetes has been associated with more severe outcomes and higher mortality in coronavirus disease 2019 (COVID-19) patients compare to morbidity and mortality in patients without diabetes. Several mechanisms may play a role in this greater morbidity and mortality, especially uncontrolled hyperglycemia, an impaired immune system, pre-existing proinflammatory states, multiple comorbidities, and dysregulated angiotensin-converting enzyme 2 signaling.
+
         -- Diabetes are more likely to develop severe/ICU cases
           'Li_et_al_2020c.!b
           'Li_et_al_05_29_2020.!d
           'Richardson_et_al_04_22_2020.!l
+        -- People with diabetes were not more susceptible to 2019-nCoV infection.
+          'Li_et_al_2020c.!a
 
-        >>> TNF-a and IL-8 were significantly increased in patients diabetes
+        >>>
+          TNF-a and IL-8 were significantly increased in patients diabetes
         --
           'DelValle_et_al_05_30_2020.!g
 
-        >>> Newly diagnosed diabetes had the highest risk of all‐cause mortality
+        >>>
+          Newly diagnosed diabetes had the highest risk of all‐cause mortality
         --
           'Li_et_al_05_29_2020
+
+        # Initial reports were mainly on people with type 2 diabetes, although recent surveys have shown that individuals with type 1 diabetes are also at risk of severe COVID-19.
+
         >>>
-          ACE2 expression is increased in diabetes (type 1 or type 2) and treatment with ACE inhibitors and ARBs increases ACE2 expression.
+          ACE2 expression is increased in diabetes (type 1 or type 2) and treatment with ACE inhibitors and ARBs increases ACE2 expression. There are conflicting results with the use of angiotensin converting enzyme (ACE) inhibitors and angiotensin receptor blockers (ARB) in these patients. However, the continuation of clinically indicated ACE inhibitor and ARB medications is recommended in COVID-19.
 
         -- Diabetes treatment with ACE2-stimulating drugs increases the risk of developing severe and fatal COVID-19.
           'FangFang_et_al_2020
@@ -534,38 +588,17 @@ subject module Disease
           'FangFang_et_al_2020.!a
           'FangFang_et_al_2020.!g
 
-
-      subject Hypertension
-        -- Likely to develop severe/ICU cases after 2019-nCoV infection.
-          'Li_et_al_2020c.!b
-        -- less likely to recieve care in the ICU
-          'Richardson_et_al_04_22_2020.!l
-        --
-          'DelValle_et_al_05_30_2020.!g
-        >>>
-          Hypertension is treated with ACE inhibitors and ARBs, which results in an upregulation of ACE2.
-        -- Hypertension treatment with ACE2-stimulating drugs increases the risk of developing severe and fatal COVID-19.
-          'FangFang_et_al_2020
-          'FangFang_et_al_2020.!f
-        -- Reports
-          'FangFang_et_al_2020.!b
-          'FangFang_et_al_2020.!c
-          'FangFang_et_al_2020.!d
-          'FangFang_et_al_2020.!e
-          'Lee_et_al_05_28_2020.!d
-          'Richardson_et_al_04_22_2020.!n
-
-          # No evidence that antihypertensive calcium channel blockers increased ACE2 expression or activity
-        -- Potential new therapy for inflammatory lung diseases, cancer, diabetes, and hypertension.
-          'FangFang_et_al_2020.!a
-          'FangFang_et_al_2020.!g
-
+      / Obesity
       subject Obesity
+        head = Obesity appeared to be a previously unrecognized risk factor for hospital admission and need for critical care. Recent reports have associated disease severity with increased BMI categories.
         --
           'Simonnet_et_al_2020
           'Lighter_et_al_2020
 
+      / Renal Disease
       subject RenalDisease
+        head = The patients with kidney disease who appear most at risk for COVID-19 are those with a kidney transplant, due to immunosuppression, and those who undergo in-center hemodialysis treatments thrice weekly, due to inability to self-isolate. Patients with kidney disease also have other comorbidities, including hypertension, diabetes mellitus, and cardiovascular disease, that are risk factors for poor outcomes in COVID-19.
+
         -- High risk for the development of lethal pulmonary infections.
           'Sarnak_et_al_2001
         -- TNF-a and IL-8 were significantly increased in patients with chronic kidney disease (CKD)
@@ -583,6 +616,7 @@ subject module Disease
     / Ethnicity
     subject Ethnicity
       head = Case Reports from US shows, a greater proportion of deaths due to COVID-19 have occurred among African Americans. Similar issues affect Native American and Latino communities.
+
       -- Case Reports
         'Williamson_et_al_05_07_2020
       --
@@ -593,10 +627,10 @@ subject module Disease
         'Van-Dorn_et_al_04_18_2020.!a
         'Gaffney_et_al_08_21_2020
 
-  / Case Fatality Rate & Mortality Rate
+  / Infection Fatality Rate & Mortality Rate
   subject module Fatality
-    head =
-    -- CFR & IFR
+    head = IFR and Mortality rate varies for different geography and age group. Infection Fatality Rate is estimated between 0.3 to 1.4%.
+    -- IFR
       'Wu_et_al_2020
       'Porcheddu_et_al_2020
       'Onder_et_al_2020
@@ -618,14 +652,11 @@ subject module Disease
       'Richardson_et_al_04_22_2020.!d
       'Richardson_et_al_04_22_2020.!g
       'Richardson_et_al_04_22_2020.!n
-
     -- Excess Mortality
       'Modig_et_al_2020
     -- Predicting Mortality and Infection Fatality Rate
       'Yan_et_al_05_14_2020
       'Grewelle_et_al_05_18_2020
-
-
 
 
   # have to link this section to vaccine development
@@ -634,9 +665,9 @@ subject module Disease
     head = Studies have shown that recovered patients have protective immunity that prevents them from being reinfected. The duration of immunity still remains unclear.
     / Antibodies
     subject Antibodies
-      head = Studies show that people who have recovered from infection have antibodies to the virus. IgM antibodies to SARS-CoV-2 are generally detectable several days after initial infection. IgG antibodies generally become detectable 10–14 days after infection.
+      head = Studies show that people who have recovered from infection have antibodies to the virus.  IgM antibodies to SARS-CoV-2 are generally detectable several days after initial infection. IgG antibodies generally become detectable 10–14 days after infection. Duration of antibodies is still unclear.
       >>>
-        Based on studies, antibodies vary widely in their efficacy. Some people have poor response, some average. And then there is a fraction of people that are exceptional responders. A new study on the immune response in asymptomatic people indicate lack of sufficient "long-lasting protective antibodies" post SARSCoV2 infection.
+        Based on studies, antibodies vary widely in their efficacy. Some people have poor response, some average. And then there is a fraction of people that are exceptional responders.
       -- SARS-CoV2 Antibodies
         'Zhang_et_al_2020g.!a
         'Amanat_et_al_2020
@@ -648,7 +679,12 @@ subject module Disease
       --
         'Nelde_et_al_06_16_2020
         'Petrova_et_al_02_20_2012
-
+      >>>
+        Waning of antibodies is well described in recent cases- and can have implications on both the susceptibility to re-infection and the severity of infection.
+      -- Reports- Waning of antibodies
+        'WangTo_et_al_08_25_2020.!f
+        'Robbiani_et_al_06_18_2020.!c
+        'Xin-Long_et_al_06_18_2020
         # vaccine dev frontiers
       -- RBD-specific antibodies with potent antiviral activity
         'Robbiani_et_al_06_18_2020
@@ -666,9 +702,14 @@ subject module Disease
         'Liu_et_al_06_16_2020
         'Robbiani_et_al_06_18_2020
         'Xin-Long_et_al_06_18_2020
-        'Xin-Long_et_al_06_18_2020.!d
-        'Xin-Long_et_al_06_18_2020.!c
         'Wu_et_al_04_20_2020b.!c
+      -- Patients with milder disease had lower antibody titers than those with more severe disease.
+        'WangTo_et_al_08_25_2020.!e
+        'Prado-Vivar_et_al_09_08_2020.!b
+      -- SARS-CoV-2 specific IgM and IgG were observed during the second episode of infection.
+        'Tillett_et_al_10_12_2020.!d
+        'WangTo_et_al_08_25_2020.!e
+        'Prado-Vivar_et_al_09_08_2020.!b
       >>>
         Studies of antibodies on other coronaviruses.
       -- MERS
@@ -681,18 +722,50 @@ subject module Disease
         'Callow_et_al_1990
 
       # In some cases, viral RNA has been detected by RT-PCR even beyond week 6 following the first positive test. A few cases have also been reported positive after 2 consecutive negative PCR tests performed 24 hours apart. It is unclear if this is a testing error, reinfection, or reactivation.
+
     / Reinfection
     subject Reinfection
-      head = The reinfection can not occur if neutralizing antibodies are produced at primary infection. Reinfection immunity to adult has been studied using laboratory animal models, the results showed that animal models become resistant to reinfection.
+      head = The reinfection can not occur if neutralizing antibodies are produced at primary infection. Reinfection immunity to adult has been studied using laboratory animal models, the results showed that animal models become resistant to reinfection. However, there have been reports of mild and severe re-infection.
+
+      >>>
+        Symptomatic reinfections with human non-SARS coronaviruses are common and not atypical within 1 year after initial infection, despite the presence of antibodies. Reinfections with human common cold coronaviruses are, however, typically milder than the primary infections.
+      --
+        'Galanti_et_al_05_03_2020
+        'Edridge_et_al_09_14_2020
+
       # Add latest papers
       --
+        'Iwasaki_et_al_10_12_2020
         'Bao_et_al_2020
         'Bao_et_al_2020.!a
         'Jiang_et_al_04_27_2020.!b
 
-      >>> At this time, the duration and nature of immunity generated in response to SARS-CoV-2 infection are unknown, and there is no evidence that COVID-19 antibody–positive patients who have recovered from the disease are protected from a second infection.
+      >>>
+        Case reports adds to rapidly growing evidence of COVID-19 reinfection, in which viral genomic sequences were used to confirm infections by distinct isolates of SARS-CoV-2. Some reinfections result in milder disease, whereas others are more severe. Further investigation is needed of pre-existing immune responses before second exposure, and viral inoculum load.
+      -- Reports of mild symptoms with reinfection with SARS-CoV-2
+        'WangTo_et_al_08_25_2020
+        'Elslande_et_al_09_05_2020
+      -- Reports of increased symptom severity in their second infection
+        'Tillett_et_al_10_12_2020
+        'Prado-Vivar_et_al_09_08_2020
+        'Iwasaki_et_al_10_12_2020
+        'Iwasaki_et_al_10_12_2020.!g
+      -- Patients was infected by SARS-CoV-2 on two separate occasions by a genetically distinct virus.
+        'WangTo_et_al_08_25_2020.!d
+        'Tillett_et_al_10_12_2020.!b
+        'Elslande_et_al_09_05_2020.!a
+        'Prado-Vivar_et_al_09_08_2020.!a
+
+      >>>
+         Weaker immune response after the first infection might have caused re-infection.
       --
+        'Iwasaki_et_al_10_12_2020.!b
+        'Iwasaki_et_al_10_12_2020.!c
+        'Tillett_et_al_10_12_2020
         'Weissleder_et_al_06_03_2020.!m
+        'Prado-Vivar_et_al_09_08_2020
+        'Prado-Vivar_et_al_09_08_2020.!b
+
 
     / Relapse
     subject Relapse

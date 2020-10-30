@@ -276,7 +276,7 @@ feed January2020
       !a
 
     / Jan, 2020 - Cell Host & Microbe
-    let !a self assert = Additional genetic and immunological validation studies demonstrate that IL-1 pathway is crucial for an efficient induction of trained immunity in humans, and this may have important implications for both vaccination and the pathophysiology of autoinflammatory diseases.
+    let !a self assert = Genetic and immunological validation studies demonstrate that IL-1 pathway is crucial for an efficient induction of trained immunity in humans, and this may have important implications for both vaccination and the pathophysiology of autoinflammatory diseases.
 
 
   # Tag- BCG vaccine

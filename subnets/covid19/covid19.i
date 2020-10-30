@@ -27,15 +27,16 @@
 -- Claims
   Timeline
   Virus
+  Transmission
   Disease
   Diagnostics
   Mitigation
   Remediation
-  PublicPolicy
+
+-- Narratives
   PublicSpace
   Facemask
-  Transmission
-
+  PublicPolicy
 
 -- Feeds
   feeds.Research
