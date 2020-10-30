@@ -87,3 +87,11 @@ index: hide
   / Viral genomes
   model Viralgenomes
     head = Viral genomes exhibit extraordinary diversity with respect to nucleic acid type, size, complexity, and the information transfer pathways they follow. Thus, viral nucleic acids can be DNA or RNA, double-stranded or single-stranded, monopartite or multipartite, linear or circular, as short as 2 kb or up to 2500 kb long. The goal of a virus is to replicate itself. To do so, viruses have evolved various strategies to replicate their genomes and produce the structural and catalytic proteins needed for the formation of new viruses.
+
+  # #'lai_et_al_2012
+  # > 'WHO_06_2020
+  # > 'Belkin_1997.!a
+  # > 'Strasser_et_al_05_22_2020
+  / Medical Mask or Surgical Mask
+  model Surgicalmask
+    head = Medical masks (also called as surgical masks) are defined as surgical or procedure masks that are flat or pleated; they are affixed to the head with straps that go around the ears or head or both. Their performance characteristics are tested according to a set of standardized test methods.
