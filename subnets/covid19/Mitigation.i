@@ -47,7 +47,7 @@ subject module Mitigation
         'Leung_et_al_2020
       -- 100% of the public wear facemasks
         'Stutt_et_al_06_10_2020
-      -- Use of face mask lead to no secondary transmission
+      -- Use of face mask lead to no secondary transmission- Report
         'Hendrix_et_al_07_14_2020
       -- Efficiency of Cloth Mask
         'Konda_et_al_06_18_2020
@@ -395,6 +395,7 @@ subject module Mitigation
               The initial viral load during getting an infection has shown to be correlated to the severity of the infection. Wearing any type of mask reduces this load and hence is effective thana wearing no protection at all.
             --
               'Davies_et_al_2013.!a
+
               # check theses reports again
             -- Reports- No use of facemasks
               'Stein-Zamir_et_al_07_21_2020
@@ -601,6 +602,8 @@ subject module Mitigation
               A study of mask wearing during seasonal influenza outbreaks in Japan noted that the use of masks was more effective in higher school grades (9-12 year old children in grades 4-6) than lower grades (6-9 year old children, in grades 1-3).
             --
               'O'Currain_et_al_12_17_2018.!a
+            -- Children were less protected irrespective of the mask.
+              'Sande_et_al_2008.!a
 
         / Design FaceMask
         subject Designfacemask

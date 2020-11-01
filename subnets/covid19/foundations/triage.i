@@ -70,7 +70,7 @@ index: hide
 
 
   / Interferon type I
-  model Interferonone
+  model Interferons
     head = Human type I interferons (IFNs) are a large subgroup of interferon proteins that help regulate the activity of the immune system. Interferons bind to interferon receptors.
 
   link: https://en.wikipedia.org/wiki/Lactate_dehydrogenase
@@ -87,3 +87,26 @@ index: hide
   / Viral genomes
   model Viralgenomes
     head = Viral genomes exhibit extraordinary diversity with respect to nucleic acid type, size, complexity, and the information transfer pathways they follow. Thus, viral nucleic acids can be DNA or RNA, double-stranded or single-stranded, monopartite or multipartite, linear or circular, as short as 2 kb or up to 2500 kb long. The goal of a virus is to replicate itself. To do so, viruses have evolved various strategies to replicate their genomes and produce the structural and catalytic proteins needed for the formation of new viruses.
+
+  link: https://en.wikipedia.org/wiki/Lymphocyte
+  / Lymphocytes
+  model Lymphocytes
+    head = A lymphocyte is a type of white blood cell in the vertebrate immune system. Lymphocytes include natural killer cells (which function in cell-mediated, cytotoxic innate immunity), T cells (for cell-mediated, cytotoxic adaptive immunity), and B cells (for humoral, antibody-driven adaptive immunity). They are the main type of cell found in lymph, which prompted the name "lymphocyte". Lymphocyte makes up between 18% and 42% of circulating leukocytes Lymphocytes can be identified by their large nucleus.
+
+
+  link: https://en.wikipedia.org/wiki/Lymphocyte
+  / T cells (thymus cells)
+  model Tcells
+    head = T cells is a type of lymphocyte, which is a major cellular components of the adaptive immune response. The function of T cells is to recognize specific "non-self" antigens, during a process known as antigen presentation. Once they have identified an invader, some T cells, called T helper cells, produce cytokines that direct the immune response, while other T cells, called cytotoxic T cells, produce toxic granules that contain powerful enzymes which induce the death of pathogen-infected cells. Following activation, T cells leave a lasting legacy of the antigens they have encountered, in the form of memory cells. Throughout the lifetime of an animal, these memory cells will "remember" each specific pathogen encountered, and are able to mount a strong and rapid response if the same pathogen is detected again; this is known as acquired immunity.
+
+
+  link: https://en.wikipedia.org/wiki/Lymphocyte
+  / B cells
+  model Bcells
+    head = B cells (bone marrow- or bursa-derived cells) is a major cellular components of the adaptive immune response. The function of B cells is to recognize specific "non-self" antigens, during a process known as antigen presentation. Once they have identified an invader, B cells respond to pathogens by producing large quantities of antibodies which then neutralize foreign objects like bacteria and viruses. Following activation, B cells leave a lasting legacy of the antigens they have encountered, in the form of memory cells. Throughout the lifetime of an animal, these memory cells will "remember" each specific pathogen encountered, and are able to mount a strong and rapid response if the same pathogen is detected again; this is known as acquired immunity.
+
+
+  link: https://en.wikipedia.org/wiki/Macrophage / https://www.news-medical.net/life-sciences/What-is-a-Macrophage.aspx
+  / Macrophages
+  model Macrophages
+    head = Macrophages are a type of white blood cell of the immune system that engulfs and digests cellular debris, foreign substances, microbes, cancer cells, and anything else that does not have the type of proteins specific to healthy body cells on its surface[2] in a process called phagocytosis. They provide the first line of defense in protecting the host from infection. The macrophages present in humans are around 21 micrometers in diameter. They can survive for months at a time. They are also involved in the development of non-specific or innate imm
