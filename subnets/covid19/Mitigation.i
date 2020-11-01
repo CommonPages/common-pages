@@ -19,7 +19,38 @@ subject module Mitigation
 
       --
         Facemasks
-
+      --
+        'Jefferson_et_al_2008
+      -- Face Mask effective in reducing influenza cases
+        'Yan_et_al_2019
+        'Tracht_et_al_2010
+      -- Limited evidence supporting use of mask/respirator and influenza infection
+        'Reza_et_al_2011
+        'Ling_et_al_2020.!b
+      -- The protective role of the mask in reducing the risk of infection SARS
+        'Seto_et_al_2003
+        'Seto_et_al_2003.!a
+        'Seto_et_al_2003.!b
+        'Seto_et_al_2003.!c
+        'Seto_et_al_2003.!d
+        'Seto_et_al_2003.!e
+      -- Importance of wearing facemasks regardless of symptoms
+        'Jing_et_al_2020.!k1
+      -- Mask as effective form of source control
+        'Howard_et_al_05_13_2020
+      --
+        'Strasser_et_al_05_22_2020
+      -- Mask to prevent transmission
+        'Chu_et_al_06_01_2020
+        'Chu_et_al_06_01_2020.!a
+        'Setti_et_al_04_23_2020
+        'Leung_et_al_2020
+      -- 100% of the public wear facemasks
+        'Stutt_et_al_06_10_2020
+      -- Use of face mask lead to no secondary transmission- Report
+        'Hendrix_et_al_07_14_2020
+      -- Efficiency of Cloth Mask
+        'Konda_et_al_06_18_2020
       -- Decontamination methods for N95 Respirators: Humidity and deposition solution play a critical role in virus inactivation
         'Rockey_et_al_06_23_2020
         'Ou_et_al_06_04_2020

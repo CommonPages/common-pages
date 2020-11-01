@@ -70,7 +70,7 @@ index: hide
 
 
   / Interferon type I
-  model Interferonone
+  model Interferons
     head = Human type I interferons (IFNs) are a large subgroup of interferon proteins that help regulate the activity of the immune system. Interferons bind to interferon receptors.
 
   link: https://en.wikipedia.org/wiki/Lactate_dehydrogenase

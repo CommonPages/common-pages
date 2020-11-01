@@ -146,7 +146,7 @@ subject module Disease
     subject Interferons
       head = Role of Type I & type III Interferon for restricting SARS CoV-2 infection.
       >>>
-        Role of {Interferonone type I} type III Interferon
+      # Role of {Interferon type I} type III Interferon
       --
         'Goldman-Israelow_et_al_05_27_2020
         'Vanderheiden_et_al_05_20_2020
