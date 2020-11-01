@@ -70,7 +70,7 @@ subject module Mitigation
           --
             'Konda_et_al_06_18_2020
             'MacIntyre1_et_al_04_22_2015
-            'Davies_et_al_2013.!a
+            'Davies_et_al_05_22_2013.!a
 
           --
             ClothMaskEfficacy
@@ -315,7 +315,7 @@ subject module Mitigation
           subject MaskProtection
             head =
             --
-              'Davies_et_al_2013.!a
+              'Davies_et_al_05_22_2013.!a
               'Chowell_et_al_05_2020
               'Chu_et_al_06_01_2020.!a
             >>>
@@ -398,71 +398,58 @@ subject module Mitigation
         / Mask Risk
         subject MaskRisk
           head =
+          >>>
+            Mask can reduce risk of severe infections
           --
-            'WHO_06_2020.!d
             'Macintyre_et_al_2009.!a
             'Reza_et_al_2011.!a
-            #'Bae_et_al_04_06_2020
           >>>
-            Though some studies do indicate that the masks alone may not be effective in infleunza like infections.
+            Masks alone may not be effective to reduce household influenza transmission.
           --
             'Canini_et_al_11_17_2010
+          >>>
+            Exercising with mask can cause cardiac problems
           --
-            Improperuse
-            Reuse
-            Physiological
-            Complacence
-            Pyschological
-          -- unknown Subject
-            'Klement_et_al_08_01_2020
             'Chandrashekar_et_al_06_22_2020
             'Lee_et_al_08_11_2020
+          >>>
+            Wearing PPE caused fatigue in surgeons which leds to poor performance.
+          --
             'Benitez_et_al_06_20_2020.!a
+          >>>
+            Improper donning and doffing of PPE is common among healthcare workers and can led to infection
+          --
+            'Kwon_et_al_06_13_2017
+          >>>
+            Physiological reasons can led to avoidance mask wearing
+          --
+            'Gupta_2020.!b
+            'Barasheed_et_al_03_2014.!b
+          >>>
+            Use of Masks alone is not enough defense against Covid19, they have to be used in combination with other measures like social distancing, hand hygiene.
+          --
+            'Chu_et_al_06_01_2020
+            'Lynch_et_al_06_27_2020.!a
+            'Jefferson_et_al_04_07_2020.!b
+            'Eikenberry_et_al_04_21_2020.!b
 
-          / Improper use
-          subject Improperuse
-            head = The protocols for removal of facemasks maybe common among healthcare professionals, especially if it requires a long time.
-            --
-              'Kwon_et_al_06_13_2017
+          >>>
+            Facemask along with other measures can control the pandemic or flatten the curve.
+          --
+            'Chowell_et_al_05_2020.!a
+          >>>
+            There are cultural differences on the use of facemask. In general, in the East it is usually percevied much more positively, while in the West it is not.
+          --
+            'Elachola_et_al_03_20_2020
 
-          / Reuse
-          subject Reuse
-
-          / Physiological
-          subject Physiological
-            --
-              'Gupta_2020.!b
-              'Barasheed_et_al_03_2014.!b
-
-          / Complacence
-          subject Complacence
-            head = Masks are not the single point of defense against Covid19, they have to be used in combination with other measures like social distancing, hand hygiene.
-
-            --
-              'Chu_et_al_06_01_2020
-              'Lynch_et_al_06_27_2020.!a
-              'Jefferson_et_al_04_07_2020.!b
-              'Eikenberry_et_al_04_21_2020.!b
-
-            >>>
-              The use of facemasks by public also increase the personal particpiation in preventing the spread of the pandemic.
-            --
-              'Chowell_et_al_05_2020.!a
-
-          / Psychological
-          subject Pyschological
-            head = There are cultural differences on the use of facemask. In general, in the East it is usually percevied much more positively, while in the West it is not.
-
-            --
-              'Elachola_et_al_03_20_2020
 
         / Decontamination and Reuse
         subject MaskReuse
           # Layer based on type of mask
 
-        / Universal Masking
+        / Effectiveness of Universal Masking
         subject UniversalMasking
-          head = 
+          head =
           -- Universal Masking
             'MacIntyre_et_al_04_21_2020
             'Maclntyre_et_al_04_30_2020.!a

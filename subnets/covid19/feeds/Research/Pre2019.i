@@ -484,7 +484,7 @@ feed Pre2019
   // Testing the Efficacy of Homemade Masks: Would They Protect in an Influenza Pandemic?
   doi: https://dx.doi.org/10.1017%2Fdmp.2013.43
   ref 'Davies_et_al_05_22_2013
-    head =
+    head = Our findings suggest that a homemade mask should only be considered as a last resort to prevent droplet transmission from infected individuals, but it would be better than no protection.
 
     >>> Objective
       This study examined homemade masks as an alternative to commercial face masks.

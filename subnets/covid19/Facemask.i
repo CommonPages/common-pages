@@ -389,7 +389,7 @@ subject module Facemask
 
     --
       'Abaluck_04_2020.!a
-      'Davies_et_al_2013.!a
+      'Davies_et_al_05_22_2013.!a
       'Fischer_et_al_08_2020.!a
       'WHO_06_2020.!a
       'Howard_et_al_05_13_2020.!a
@@ -539,7 +539,7 @@ subject module Facemask
       >>>
         The initial viral load during getting an infection has shown to be correlated to the severity of the infection. Wearing any type of mask reduces this load and hence is effective thana wearing no protection at all.
       --
-        'Davies_et_al_2013.!a
+        'Davies_et_al_05_22_2013.!a
 
       >>>
         Also there is evidence that use of masks in mass gatherings helps prevent spread of respiratory diseases.
@@ -824,7 +824,7 @@ subject module Facemask
         'Smart_et_al_2020_06_02.!c
         'Stebbins_et_al_2009.!b
         'Allison_et_al_2010.!a
->>>>>>> dev.10.03
+
 
       >>>
         Efficacy of masks with children
