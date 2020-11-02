@@ -19,41 +19,8 @@ subject module Mitigation
 
       --
         Facemasks
-      --
-        'Jefferson_et_al_2008
-      -- Face Mask effective in reducing influenza cases
-        'Yan_et_al_2019
-        'Tracht_et_al_2010
-      -- Limited evidence supporting use of mask/respirator and influenza infection
-        'Reza_et_al_2011
-        'Ling_et_al_2020.!b
-      -- The protective role of the mask in reducing the risk of infection SARS
-        'Seto_et_al_2003
-        'Seto_et_al_2003.!a
-        'Seto_et_al_2003.!b
-        'Seto_et_al_2003.!c
-        'Seto_et_al_2003.!d
-        'Seto_et_al_2003.!e
-      -- Importance of wearing facemasks regardless of symptoms
-        'Jing_et_al_2020.!k1
-      -- Mask as effective form of source control
-        'Howard_et_al_05_13_2020
-      --
-        'Strasser_et_al_05_22_2020
-      -- Mask to prevent transmission
-        'Chu_et_al_06_01_2020
-        'Chu_et_al_06_01_2020.!a
-        'Setti_et_al_04_23_2020
-        'Leung_et_al_2020
-      -- 100% of the public wear facemasks
-        'Stutt_et_al_06_10_2020
-      -- Use of face mask lead to no secondary transmission- Report
-        'Hendrix_et_al_07_14_2020
-      -- Efficiency of Cloth Mask
-        'Konda_et_al_06_18_2020
-      -- Decontamination methods for N95 Respirators: Humidity and deposition solution play a critical role in virus inactivation
-        'Rockey_et_al_06_23_2020
-        'Ou_et_al_06_04_2020
+
+
       -- Gloves
         'King_et_al_04_24_2020
 
@@ -69,7 +36,8 @@ subject module Mitigation
 
       / Facemasks
       subject Facemasks
-        head =
+        head = There is enough mechanistic evidence and observational studies that affirms the benefits of wearing a face mask. However, use of masks alone is not enough defense against Covid19, they have to be used in combination with other measures like social distancing, hand hygiene. Some studies state that it may impose a risk of infection on the ground of improper use or false sense of security, but there is not enough scientific evidence to support it.
+
         --
           Clothmask
           Medicalmask
@@ -89,8 +57,7 @@ subject module Mitigation
           MaskReuse
         --
           UniversalMasking
-        --
-          MaskMaking
+
 
         / Cloth facemask
         subject Clothmask
@@ -107,6 +74,7 @@ subject module Mitigation
             ClothMaskEfficacy
             Reuse
             Risks
+            Homemade
 
           / Efficacy of Cloth masks
           subject ClothMaskEfficacy
@@ -123,19 +91,33 @@ subject module Mitigation
               'WHO_06_2020.!e
               'Jung_et_al_08_28_2013
 
-          / Inconvenience and Risks
+          / Inconvenience and Risks of Cloth masks
           subject Risks
-            head =  Cloth masks use was related to higher risk of difficulty in breathing, warming/sweating, glasses misting up, slurred speech, and itch.
+            head = Cloth masks use was related to higher risk of difficulty in breathing, warming/sweating, glasses misting up, slurred speech, and itch.
             --
               'Matusiak_et_al_05_14_2020
 
-          / Decontamination and Reuse
+          / Decontamination and Reuse of Cloth masks
           subject Reuse
             head = Washing with detergent likely to decontaminate cloth mask from SARS-CoV-2. Exposure to low level Hydrogen Peroxide Vapor can also inactive pathogens.
             -- Hydrogen Peroxide Vapor sterilization of cloth masks
               'Wood_et_al_10_23_2016
             -- Washing
               'Rowan_et_al_09_10_2020.!h
+
+          / Making of Homemade masks
+          subject Homemade
+            head = Various fabrics and different number of layers have been proposed for creating an effective homemade masks.
+            -- Fabrics
+              'WHO_06_2020.!e1
+              'WHO_06_2020.!p
+            -- Using Textile fabrics to make homemade mask
+              'Palacios_et_al_05_27_2020
+            -- Layers
+              'WHO_06_2020.!e
+              'Zhao_et_al_06_02_2020.!a
+              'Hao_et_al_07_21_2020
+
 
           # / Policy recommendations regarding use of facemask
           # subject Policy
@@ -172,14 +154,30 @@ subject module Mitigation
               'Sommerstein_et_al_07_06_2020.!a
               'Carelli_et_al_06_17_2020
               'MacIntyre_et_al_04_21_2020
+            -- More breathable and less humid and hot
+              'Li_et_al_05_26_2005.!e
             -- Offers Little protection
               'Jung_et_al_08_28_2013
 
-          / Inconvenience and Risks
+          / Inconvenience and Risks of Surgical masks
           subject Risks
             head = Wearing surgical masks showed significantly lower risk for the development of most common bothersome issues (difficulty in breathing, warming/sweating, glasses misting up, slurred speech, and itch.)
+            >>>
+              Wearing surgical masks showed significantly lower risk for the development of most common bothersome issues (difficulty in breathing, warming/sweating, glasses misting up, slurred speech, and itch.)
             --
               'Matusiak_et_al_05_14_2020
+              'Li_et_al_05_26_2005.!e
+
+            >>>
+              Primary effect of the face masks on physical performance in healthy individuals is driven by the reduction of pulmonary function.
+            --
+              'Fikenzer_et_al_07_06_2020.!f
+
+            >>>
+              Surgical leads to severe subjective discomfort during exercise. FFP2/N95 masks are perceived as more uncomfortable than surgical mask.
+            --
+              'Fikenzer_et_al_07_06_2020
+              'Fikenzer_et_al_07_06_2020.!h
 
           / Reuse of Surgical Masks
           subject Reuse
@@ -197,7 +195,7 @@ subject module Mitigation
 
         / N95 mask
         subject N95mask
-          head = N95 has highest filteration efficacy and can offer good protection. Inconvenience associated with N95 mask are the discomfort it causes to the wearers
+          head = N95 has highest filteration efficacy and can offer good protection. Inconvenience associated with N95 mask are the discomfort it causes to the wearers.
           --
             Efficacy
             Risks
@@ -222,7 +220,7 @@ subject module Mitigation
             --
               'Fischer_et_al_08_2020
 
-          / Inconvenience and Risks
+          / Inconvenience and Risks of N95 masks
           subject Risks
             head = N95 respirators is likely to result in discomfort, for example, headaches. Staff who used masks regularly reported acne, facial itch, and rash from N95 mask use.
             --
@@ -230,8 +228,21 @@ subject module Mitigation
               'Foo_et_al_10_06_2006
               'Badri_et_al_09_2017
               'Matusiak_et_al_05_14_2020
+              'Li_et_al_05_26_2005.!c
+              'Li_et_al_05_26_2005.!b
+              'Fikenzer_et_al_07_06_2020
+            >>>
+              Primary effect of the face masks on physical performance in healthy individuals is driven by the reduction of pulmonary function.
+            --
+              'Fikenzer_et_al_07_06_2020.!f
 
-          / Mask Sterilization and Reuse
+            >>>
+              Facemasks leads to severe subjective discomfort during exercise. FFP2/N95 masks are perceived as more uncomfortable than surgical mask.
+            --
+              'Fikenzer_et_al_07_06_2020
+              'Fikenzer_et_al_07_06_2020.!h
+
+          / Mask Sterilization and Reuse of N95 masks
           subject Reuse
             head = Multiple strategies for mask sterilization have been proposed and studied, including exposure to ultraviolet (UV) germicidal irradiation, vaporized hydrogen peroxide, moist heat, ethylene oxide, and gamma irradiation.
             -- Heat treatment
@@ -273,9 +284,16 @@ subject module Mitigation
             'Simha_et_al_08_25_2020
             'Schiling_et_al_07_27_2020
             'Chu_et_al_06_01_2020
+            'Li_et_al_05_26_2005
+            'Li_et_al_05_26_2005.!b
+            'Li_et_al_05_26_2005.!d
+            'Fikenzer_et_al_07_06_2020.!a
+            'Fikenzer_et_al_07_06_2020.!c
+            'Fikenzer_et_al_07_06_2020.!f
           -- No difference between Surgical and Respirators/N95
             'Jefferson_et_al_04_07_2020.!a
             'RadonovichJr_et_al_09_03_2019.!a
+            'Li_et_al_05_26_2005.!f
 
         / Respirators (N95 and others) vs Cloth Mask
         subject RespiratorsvsCloth
@@ -306,18 +324,25 @@ subject module Mitigation
 
         / Mask Effectiveness
         subject MaskEffectiveness
-          head = Effectiveness of mask as a preventive / protective measure , universal masking,  Reducing transmission clusters
+          head = Effectiveness of mask as a preventive / protective measure, universal masking, reducing transmission clusters.
+
+          >>>
+            Covering mouths and noses with filtering materials serves 2 purposes: personal protection against inhalation of harmful pathogens and particulates, and source control to prevent exposing others to infectious microbes that may be expelled during respiration.
 
           --
             MaskPrevention
             MaskProtection
-            Frontiers
-            Paststudies
+          --
+            Fitting
+          --
             ReportsMask
+            Paststudies
+            Frontiers
+
 
           / Prevention
           subject MaskPrevention
-            head =
+            head = Face masks are also widely and routinely used as source control. The use of masks by a potential transmitter substantially reduces the probability of successful transmission. It can also prevent asymptomatic transmission.
             --
               'Fischer_et_al_08_2020.!a
               'Sande_et_al_07_09_2008
@@ -341,25 +366,39 @@ subject module Mitigation
               'Howard_et_al_05_13_2020
               'Howard_et_al_05_13_2020.!a
               'Howard_et_al_05_13_2020.!b
+            >>>
+              Use of Masks alone is not enough defense against Covid19, they have to be used in combination with other measures like social distancing, hand hygiene.
+            --
+              'Chu_et_al_06_01_2020
+              'Lynch_et_al_06_27_2020.!a
+              'Jefferson_et_al_04_07_2020.!b
+              'Eikenberry_et_al_04_21_2020.!b
+            -- Facemask along with other measures can control the pandemic or flatten the curve.
+              'Chowell_et_al_05_2020.!a
+            >>>
+              There are cultural differences on the use of facemask. Some section of population use masks as a preventive while some percieve it as being ineffective. In general, in the East it is usually percevied much more positively, while in the West it is not.
+            --
+              'Elachola_et_al_03_20_2020
+
 
           / Protection
           subject MaskProtection
-            head =
+            head = The use of masks by an exposed person substantially reduces the probability of successful transmission. Mask can also reduce risk of severe infections. Even though cloth masks has less efficiency, it still offers good protection.
             --
               'Davies_et_al_05_22_2013.!a
               'Chowell_et_al_05_2020
               'Chu_et_al_06_01_2020.!a
             >>>
-              Effectiveness of different types of protective equipment in reducing the rate of infection was correlated to the compliance in Donning (Properly putting on PPE)
+              Mask can reduce risk of severe infections
+            --
+              'Macintyre_et_al_2009.!a
+              'Reza_et_al_2011.!a
+            >>>
+              Effectiveness of different types of protective equipment in reducing the rate of infection was correlated to the compliance in Donning (Properly putting on PPE).
             -- Theoretical study
               'Yan_et_al_2019
-
             >>>
-              Children were less protected irrespective of the mask.
-            --
-              'Sande_et_al_2008
-            >>>
-               Proper fit and adequate distancing along with mask can offer protection
+              Proper fit and adequate distancing along with mask can offer protection
             --
               'Lai_et_al_2012
               'Lai_et_al_2012.!a
@@ -372,32 +411,48 @@ subject module Mitigation
               'Rengasamy_et_al_06_28_2010.!a
               'Jang_et_al_06_28_2015
               'Palacios_et_al_05_27_2020
+            >>>
+              Children were less protected irrespective of the mask.
+            --
+              'Sande_et_al_2008
 
           / Frontiers
           subject Frontiers
-            head =
+            head = There are proposed efforts to improve perception of facemasks use by empowering the general public and strengthening perceptions of personal control. To avoid shortage of disposable masks, creation of reusable masks are being looked into. Several different fabrics and innovative methods have been proposed for effective mask making.
             -- Importance of making reusable masks
               'Strasser_et_al_05_22_2020
             -- Perception
               'Syed_et_al_2003.!c
               'McDonald_et_al_10_31_2019.!a
+            -- Fabrics
+              'Podgorski_et_al_07_18_2006
+              'Das_et_al_05_22_2020
+              'Vrielink_et_al_02_20_2020
+              'Rubino_et_al_08_17_2020
+            -- Making
+              'Park_et_al_08_12_2020
+              'Swennen_et_al_04_04_2020
+            -- Industrial Masks
+              'Choi_et_al_08_20_2020
 
           / Past studies on effectiveness of face mask
           subject Paststudies
-            head =
+            head = In the past, facemasks has been effective in reducing transmission of infectious diseases (including household transmission) such as influenza and SARS. Though there are some studies that provide limited evidence supporting the use of masks/respirators.
             >>>
               For Influenza
             -- Face Mask effective in reducing influenza cases
               'Yan_et_al_2019
               'Tracht_et_al_2010
               'Canini_et_al_11_17_2010
-            -- RCT
+            -- Randomized Control Trials
               'Aiello_et_al_02_15_2010
               'Aiello_et_al_01_25_2012
             -- Source Control
               'MacIntyre_et_al_12_02_2016
             -- Household Transmission Reduction
               'Suess_et_al_01_26_2012.!a
+            -- Masks alone may not be effective to reduce household influenza transmission.
+              'Canini_et_al_11_17_2010
             -- Limited evidence supporting use of mask/respirator and influenza infection
               'Reza_et_al_2011
               'Ling_et_al_2020.!b
@@ -414,11 +469,9 @@ subject module Mitigation
 
           / Transmission Reports with/without Mask use
           subject ReportsMask
-            head =
-
+            head = There have been various transmission clusters where facemasks was not used and there are also reports where use of facemasks led to no secondary transmission.
             -- Use of face mask lead to no secondary transmission
               'Hendrix_et_al_07_14_2020
-
             -- No use of facemasks in these transmission reports
               'Stein-Zamir_et_al_07_21_2020
               'Tobolowsky_et_al_05_01_2020
@@ -426,61 +479,81 @@ subject module Mitigation
               'Hijnen_et_al_05_11_2020
               'Shen_et_al_09_01_2020
 
-        / Mask Risk
-        subject MaskRisk
-          head =
-          >>>
-            Mask can reduce risk of severe infections
-          --
-            'Macintyre_et_al_2009.!a
-            'Reza_et_al_2011.!a
-          >>>
-            Masks alone may not be effective to reduce household influenza transmission.
-          --
-            'Canini_et_al_11_17_2010
-          >>>
-            Exercising with mask can cause cardiac problems
-          --
-            'Chandrashekar_et_al_06_22_2020
-            'Lee_et_al_08_11_2020
-          >>>
-            Wearing PPE caused fatigue in surgeons which leds to poor performance.
-          --
-            'Benitez_et_al_06_20_2020.!a
-          >>>
-            Improper donning and doffing of PPE is common among healthcare workers and can led to infection
-          --
-            'Kwon_et_al_06_13_2017
-          >>>
-            Physiological reasons can led to avoidance mask wearing
-          --
-            'Gupta_2020.!b
-            'Barasheed_et_al_03_2014.!b
-          >>>
-            Use of Masks alone is not enough defense against Covid19, they have to be used in combination with other measures like social distancing, hand hygiene.
-          --
-            'Chu_et_al_06_01_2020
-            'Lynch_et_al_06_27_2020.!a
-            'Jefferson_et_al_04_07_2020.!b
-            'Eikenberry_et_al_04_21_2020.!b
+          / Fitting and sealing of masks
+          subject Fitting
+            head = The fitting and sealing of the facemask can have significant imapct on its efficacy.
+            --
+              'Lai_et_al_2012.!a
+              'Benitez_et_al_06_20_2020.!b
 
-          >>>
-            Facemask along with other measures can control the pandemic or flatten the curve.
+
+        / Health Risk, Inconvenience and Impact of improper use
+        subject MaskRisk
+          head = Facemasks have been associated with bothersome issues and inconveniences which can lead to avoidance mask wearing. Masking while exercising has shown to have negative impact on cardiopulmonary capacity. Improper use can lead to transmission.
+
           --
-            'Chowell_et_al_05_2020.!a
-          >>>
-            There are cultural differences on the use of facemask. In general, in the East it is usually percevied much more positively, while in the West it is not.
-          --
-            'Elachola_et_al_03_20_2020
+            Healthrisks
+            Inconvenience
+            Improperuse
+
+          / Health Risks
+          subject Healthrisks
+            head = Medical face masks have a marked negative impact on cardiopulmonary capacity during exercising and has been associated in causing fatigue in healthcare workers.
+            >>>
+              Medical face masks have a marked negative impact on cardiopulmonary capacity during exercising.
+            --
+              'Chandrashekar_et_al_06_22_2020
+              'Lee_et_al_08_11_2020
+              'Fikenzer_et_al_07_06_2020
+              'Fikenzer_et_al_07_06_2020.!a
+              'Fikenzer_et_al_07_06_2020.!d
+              'Fikenzer_et_al_07_06_2020.!e
+              'Fikenzer_et_al_07_06_2020.!f
+              'Li_et_al_05_26_2005.!a
+            >>>
+              The performance of several different populations may be significantly affected by face masks.
+            --
+              'Fikenzer_et_al_07_06_2020.!g
+
+            >>>
+              Wearing PPE caused fatigue in surgeons which led to poor performance.
+            --
+              'Benitez_et_al_06_20_2020.!a
+
+          / Improper Use
+          subject Improperuse
+            head = Improper donning and doffing of PPE is common among healthcare workers and can led to infection.
+            --
+              'Kwon_et_al_06_13_2017
+
+          / Inconvenience
+          subject Inconvenience
+            head = Breathing resistance, heat, tightness and overall discomfort are the items with the greatest influence on subjective perception of breathing resistance and discomfort. Surgical, N95 and Cloth mask all three are associated with some bothersome issues. Physiological reasons can led to avoidance mask wearing.
+
+            -- Subjects’ perception of breathing resistance and discomfort.
+              'Gupta_2020.!b
+              'Barasheed_et_al_03_2014.!b
+
+            >>>
+              Although face coverings are generally well tolerated for short periods, with prolonged use they can be irritating or difficult for some people to breathe through, especially in hot or humid environments. Breathing resistance, heat, tightness and overall discomfort are the items with the greatest influence on subjective perception of breathing resistance and discomfort. Surgical, N95 and Cloth mask all three are associated with some bothersome issues.
+            --
+              Clothmask.Risks
+              Medicalmask.Risks
+              N95mask.Risks
 
 
         / Decontamination and Reuse
         subject MaskReuse
-          # Layer based on type of mask
+          head = Washing with detergent likely to decontaminate cloth mask from SARS-CoV-2. Surgical masks are typically not reused, and are to be disposed after a single use. Multiple strategies for mask sterilization have been proposed and studied, including exposure to ultraviolet (UV) germicidal irradiation, vaporized hydrogen peroxide, moist heat, ethylene oxide, and gamma irradiation.
+          --
+            Clothmask.Reuse
+            Medicalmask.Reuse
+            N95mask.Reuse
+
 
         / Effectiveness of Universal Masking
         subject UniversalMasking
-          head =
+          head = Universal masking in public complements social distancing and hand hygiene in containing or slowing down the otherwise exponential growth of the pandemic. It has shown to protect against cross-transmission through unavoidable person-to-person contact during the lockdown and reduces the risk for resurgence during relaxation of social distancing measures. A high degree of compliance will maximise the impact of universal masking in public.
           -- Universal Masking
             'MacIntyre_et_al_04_21_2020
             'Maclntyre_et_al_04_30_2020.!a
@@ -494,6 +567,10 @@ subject module Mitigation
             'Gandhi_et_al_09_08_2020
             'Feng_et_al_03_20_2020.!a
             'Feng_et_al_03_20_2020.!c
+          -- Universal masking associated with a significantly lower rate of SARS-CoV-2 positivity among HCWs.
+            'Wang_et_al_07_14_2020
+            'Wang_et_al_07_14_2020.!a
+            'Brooks_et_al_07_14_2020
           >>>
             There is evidence that facemask use slows the growth rate of cases and deaths.
           -- Large scale study
@@ -504,183 +581,15 @@ subject module Mitigation
             'Barasheed_et_al_03_29_2016
             'Barasheed_et_al_03_2014.!a
             'Leffler_et_al_08_05_2020
+          >>>
+            There are cultural differences on the use of facemask. In general, in the East it is usually percevied much more positively, while in the West it is not.
+          --
+            'Elachola_et_al_03_20_2020
           -- Theoretical Studies
             'Stutt_et_al_06_10_2020
 
-        / Making Mask
-        subject MaskMaking
-          # Homemade - Design and Making Layer, Fabric
-          # Industrial -
-
-        # Redo this section
-        # / Effectiveness of wearing facemasks in public areas by different individuals
-        # subject Whofacemask
-        #   head = What is the evidence for a need for wearing a facemask? The opinion on this issue has undergone revisions since the start of the Covid19. In this section we look at the evidence and recommendations of various studies in this regard.
-        #
-        #   >>>
-        #     When people are infected with the Covid19 virus they develop symptoms of the virus (these people are called as symptomatic). Symptomatic conditions of the infection can be severe to mild. Some people may display symptoms slightly after they get infected, such stage is called pre-symtomatic. But not all people develop these symptoms even when infected, these are called as {foundations.Immunology.Asymptomatic asymptomatic}.
-        #
-        #   # The virus spreads from symptomatic and asymptomatic individuals primarily via respiratory droplets and {'Fomitesdef contact of common surfaces}.
-        #
-        #   --
-        #     'Abaluck_04_2020.!b
-        #     'Jing_et_al_2020.!k1
-        #     'Wu_et_al_04_03_2020
-        #
-        #   --
-        #     GeneralPublic
-        #
-        #     MedicalProfessionals
-        #
-        #     Caregivers
-        #
-        #     Symptomatic
-        #
-        #     Children
-        #
-        #   ########## End of include; contents begin
-        #   / General Public
-        #   subject GeneralPublic
-        #     head = This category includes all people who are not infected or are not involved in any type of front line medical professionals. There is limited evidence that wearing a medical mask by healthy individuals in households, in particular those who share a house with a sick person, or among attendees of mass gatherings may be beneficial as a measure preventing transmission.
-        #     --
-        #       'Jefferson_et_al_04_07_2020
-        #       'Cowling_et_al_10_06_2009
-        #       'Barasheed_et_al_03_29_2016
-        #       'Lau_et_al_04_2004
-        #       'Suess_et_al_01_26_2012
-        #       'Wu_et_al_02_2004
-        #       'Barasheed_et_al_03_2014
-        #     >>>
-        #       For general public
-        #     --
-        #       'WHO_06_2020.!t
-        #     >>> General public empowerment
-        #       General public can be empowered to play a significantly role in controlling pandemics
-        #     --
-        #       'Syed_et_al_2003.!c
-        #     >>> Awareness
-        #       The general public should be made aware about the purpose, care and potential risks with using the facemasks.
-        #     --
-        #       'WHO_06_2020.!n
-        #
-        #
-        #   / Medical professionals or healthcare workers
-        #   subject MedicalProfessionals
-        #     head = Health workers are all people primarily engaged in actions with the primary intent of enhancing health. Examples are: Nursing and midwifery professionals, doctors, cleaners, other staff who work in health facilities, social workers, and community health workers, etc.
-        #     --
-        #       'WHO_06_2020.!c
-        #       'WHO_06_2020.!i
-        #       'WHO_06_2020.!k
-        #       'WHO_06_2020.!l
-        #       'Ling_et_al_2020.!b
-        #       'Liu_et_al_06_10_2020
-        #       'Maclntyre_et_al_04_30_2020
-        #       'Sommerstein_et_al_07_06_2020
-        #
-        #     >>> Special care is to be taken when the healthcare workers or medical professionals are involved in {*AGPdef Aerosol Generating Procedures} while caring for patients.
-        #     --
-        #       'Lynch_et_al_06_27_2020.!d
-        #     >>>
-        #       There might be some risk involved with using N95 masks in MRI environments
-        #     --
-        #       'Murray_et_al_04_07_2020
-        #
-        #   / Caregivers
-        #   subject Caregivers
-        #     head = Caregivers are healthy people who are taking care of infected people at home or other settings.
-        #
-        #   / Symptomatic
-        #   subject Symptomatic
-        #     head = All the infected people who show any of the symptoms of the Covid19. WHO recommends that persons with any symptoms suggestive of COVID-19 should
-        #
-        #     --
-        #       'WHO_06_2020.!s
-        #       'WHO_04_2014
-        #       'WHO_03_19_2020
-        #
-        #     >>> Typical Symptoms of Covid19
-        #
-        #       Symptoms can include: fever, cough, fatigue, loss of appetite, shortness of breath and muscle pain. Other non-specific symptoms such as sore throat, nasal congestion, headache, diarrhoea, nausea and vomiting, have also been reported. Loss of smell and taste preceding the onset of respiratory symptoms have also been reported.
-        #     --
-        #       'Giacomelli_et_al_03_26_2020
-        #       'Tong_et_al_05_05_2020
-        #       #'Huang_et_al_2020.!b
-        #     >>>
-        #       Older people and immunosuppressed patients may present with atypical symptoms such as fatigue, reduced alertness, reduced mobility, diarrhoea, loss of appetite, delirium, and absence of fever.
-        #     --
-        #       'Arons_et_al_03_28_2020
-        #       'Mcmichael_et_al_2020
-        #       'Tay_et_al_04_20_2020
-        #
-        #   / Children
-        #   subject Children
-        #     head = What are the evidences for wearing of facemasks by children for prevention of Covid19? Here we look at the evidence specifically involving children in the studies
-        #
-        #     >>>
-        #       A study of mask wearing during seasonal influenza outbreaks in Japan noted that the use of masks was more effective in higher school grades (9-12 year old children in grades 4-6) than lower grades (6-9 year old children, in grades 1-3).
-        #     --
-        #       'O'Currain_et_al_12_17_2018.!a
 
 
-        # / Design FaceMask
-        # subject Designfacemask
-        #   --
-        #     Comfort
-        #     Fabrics
-        #     Layers
-        #     Making
-        #     Fitting
-        #     Homemade
-        #     Industrial
-        #
-        #   / Comfort
-        #   subject Comfort
-        #     --
-        #       'Choi_et_al_08_20_2020
-        #
-        #   / Fabrics
-        #   subject Fabrics
-        #     --
-        #       'WHO_06_2020.!e1
-        #       'WHO_06_2020.!p
-        #       'Podgorski_et_al_07_18_2006
-        #       'Das_et_al_05_22_2020
-        #       'Vrielink_et_al_02_20_2020
-        #
-        #   / Layers
-        #   subject Layers
-        #     --
-        #       'WHO_06_2020.!e
-        #       'Zhao_et_al_06_02_2020.!a
-        #
-        #   / Making
-        #   subject Making
-        #     --
-        #       'Rubino_et_al_08_17_2020
-        #       'Park_et_al_08_12_2020
-        #       'Swennen_et_al_04_04_2020
-        #
-        #   / Fitting/sealing of masks
-        #   subject Fitting
-        #     head = The fitting/sealing of the facemask can have significant imapct on its efficacy.
-        #     --
-        #       'Lai_et_al_2012.!a
-        #       'Benitez_et_al_06_20_2020.!b
-        #
-        #   / Homemade
-        #   subject Homemade
-        #     --
-        #       'Hao_et_al_07_21_2020
-        #     -- Using Textile fabrics to make homemade mask
-        #       'Palacios_et_al_05_27_2020
-        #     --
-        #       'WHO_06_2020.!e
-        #     -- Better than no protection
-        #       'Davies_et_al_2013.!a
-        #   / Industrial
-        #   subject Industrial
-        #     --
-        #       'Choi_et_al_08_20_2020
 
 
 

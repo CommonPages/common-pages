@@ -1387,6 +1387,7 @@ feed WHO
 
     / Wearing facemasks leads to discomfort
     let !b self assert = The main reason given for not wearing facemasks was discomfort, especially at night during sleep.
+    
     / Facemasks are effective in mass gatherings
     let !c self assert = Based on developing syndromic influenza-like illness (ILI), less contacts became symptomatic in the ‘mask’ tents compared to the ‘control’ tents (31% vs 53%). A positive association was found between the duration of facemask use and protection against ILI (3% of pilgrims who used facemasks for more than eight hours developed ILI while 43% of those who used masks for eight hours or less reported ILI.)
 

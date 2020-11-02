@@ -197,8 +197,6 @@
     / Any general use of mask will reduce viral exposure and infection risk
     let !a self assert = Any type of general mask use is likely to decrease viral exposure and infection risk on a population level, in spite of imperfect fit and imperfect adherence, personal respirators providing most protection. Masks worn by patients may not offer as great a degree of protection against aerosol transmission.
 
-
-
     / Type of masks matters
     let !a1 self assert = In our experiments, the main determinant of the magnitude of protection factors measured by masks was the type of mask, which can be seen as a proxy for potential reduction in infectious disease transmission. The duration of wear and the type of activity did not have a significant impact on exposure reduction. Thus, the expected superior protection conferred by a professional FFP2 mask compared to a surgical mask or a home-made mask was maintained when these FFP2 masks were worn by healthy lay people in spite of the increased risk of a poor fit and significant behavioural leakage.
 
@@ -240,8 +238,10 @@
 
     / Facemask - differences to East West
     let !a self assert = One of the differences apparent between the response to SARS in the East and the West has been perceptions on the use and value of masks as means of personal protection against the infection.
+    
     / Facemask as a symbol
     let !b self assert = the mask became to SARS what the condom symbolised for HIV/AIDS.
+
     / Recommendation: Perception of general public and facemask use
     let !c self assert = Efforts to improve perception of public health risks can assist the management of major communicable disease incidents by empowering the general public and strengthening perceptions of personal control. Active and empowered involvement of the general public in implementing and cooperating with public health control measures supported by national and international authorities has clearly helped to bring SARS under control. Perhaps it is this perception of the importance of personal and collective responsibility by members of the public that the mask symbolises best and the public health contribution of this symbolism should be remembered for future emerging infections.
 

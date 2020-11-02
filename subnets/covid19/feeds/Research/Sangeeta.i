@@ -12,9 +12,6 @@ feed Sangeeta
     let !a self assert =
 
   #
-  #
-
-  #
   // DUMMY TITLE
   doi: https://doi.org/xyz
   ref 'Xiao_et_al_02_20_2020
@@ -25,28 +22,143 @@ feed Sangeeta
 
     / February, 2020 - bioRxiv
     let !a self assert =
+
   #
-  // DUMMY TITLE
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
+
+  #
+
+  #
+
+  #
+
+  #
+
+  #
+
+  #
+  #
+
+  #
+
+  # Universal Masking, HCWs
+  // Association Between Universal Masking in a Health Care System and SARS-CoV-2 Positivity Among Health Care Workers
+  doi: https://doi.org/10.1001/jama.2020.12897
+  ref 'Wang_et_al_07_14_2020
+    head = In March 2020, Mass General Brigham (MGB) is the largest health care system in Massachusetts implemented a multipronged infection reduction strategy involving systematic testing of symptomatic HCWs and universal masking of all HCWs and patients with surgical masks. Universal masking at MGB was associated with a significantly lower rate of SARS-CoV-2 positivity among HCWs.
 
     -- exports
       !a
 
-    / February, 2020 - bioRxiv
+    / July, 2020 - JAMA.
+    let !a self assert = During the preintervention period, the SARS-CoV-2 positivity rate increased exponentially from 0% to 21.32%, with a weighted mean increase of 1.16% per day and a case doubling time of 3.6 days. During the intervention period, the positivity rate decreased linearly from 14.65% to 11.46%, with a weighted mean decline of 0.49% per day and a net slope change of 1.65% more decline per day compared with the preintervention period.
+
+
+  # Universal Masking, HCW
+  // Universal Masking to Prevent SARS-CoV-2 Transmission—The Time Is Now
+  doi: https://doi.org/10.1001/jama.2020.13107
+  ref 'Brooks_et_al_07_14_2020
+    head = In the largest health care system in Massachusetts with more than 75 000 employees, in tandem with routine symptom screening and diagnostic testing of symptomatic HCWs for SARS-CoV-2 infection, leadership mandated a policy of universal masking for all HCWs as well as for all patients. Prior to implementation of universal masking in late March 2020, new infections among HCWs with direct or indirect patient contact were increasing exponentially, from 0% to 21.3% (a mean increase of 1.16% per day). However, after the universal masking policy was in place, the proportion of symptomatic HCWs with positive test results steadily declined, from 14.7% to 11.5% (a mean decrease of 0.49% per day).
+
+
+    / July, 2020 - JAMA.
     let !a self assert =
-  #
-  // DUMMY TITLE
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
+
+
+
+  # facemasks, risk, physical exercise
+  // Effects of surgical and FFP2/N95 face masks on cardiopulmonary exercise capacity
+  doi: https://doi.org/10.1007/s00392-020-01704-y
+  ref 'Fikenzer_et_al_07_06_2020
+    head = The results from this first randomized cross-over study assessing the effects of surgical masks and FFP2/N95 masks on cardiopulmonary exercise capacity states clearly that ventilation, cardiopulmonary exercise capacity and comfort are reduced by surgical masks and highly impaired by FFP2/N95 face masks in healthy individuals.
+
+    >>> Background
+      Due to the SARS-CoV2 pandemic, medical face masks are widely recommended for a large number of individuals and long durations. The effect of wearing a surgical and a FFP2/N95 face mask on cardiopulmonary exercise capacity has not been systematically reported.
+
+    >>> Methods
+      This prospective cross-over study quantitated the effects of wearing no mask (nm), a surgical mask (sm) and a FFP2/N95 mask (ffpm) in 12 healthy males (age 38.1 ± 6.2 years, BMI 24.5 ± 2.0 kg/m2). The 36 tests were performed in randomized order. The cardiopulmonary and metabolic responses were monitored by ergo-spirometry and impedance cardiography. Ten domains of comfort/discomfort of wearing a mask were assessed by questionnaire.
+
+    >>> Results
+      The pulmonary function parameters were significantly lower with mask (forced expiratory volume: 5.6 ± 1.0 vs 5.3 ± 0.8 vs 6.1 ± 1.0 l/s with sm, ffpm and nm, respectively; p = 0.001; peak expiratory flow: 8.7 ± 1.4 vs 7.5 ± 1.1 vs 9.7 ± 1.6 l/s; p < 0.001). The maximum power was 269 ± 45, 263 ± 42 and 277 ± 46 W with sm, ffpm and nm, respectively; p = 0.002; the ventilation was significantly reduced with both face masks (131 ± 28 vs 114 ± 23 vs 99 ± 19 l/m; p < 0.001). Peak blood lactate response was reduced with mask. Cardiac output was similar with and without mask. Participants reported consistent and marked discomfort wearing the masks, especially ffpm.
+
+    >>> Conclusion
+      Ventilation, cardiopulmonary exercise capacity and comfort are reduced by surgical masks and highly impaired by FFP2/N95 face masks in healthy individuals. These data are important for recommendations on wearing face masks at work or during physical exercise.
 
     -- exports
       !a
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
 
-    / February, 2020 - bioRxiv
-    let !a self assert =
+
+    / July, 2020 - Clinical Research in Cardiology
+    let !a self assert = Both masks have a marked negative impact on exercise parameters such as maximum power output (Pmax) and the maximum oxygen uptake (VO2max/kg). FFP2/N95 masks show consistently more pronounced negative effects compared to surgical masks. Both masks significantly reduce pulmonary parameters at rest (FVC, FEV1, PEF) and at maximum load (VE, BF, TV).
+
+    / July, 2020 - Clinical Research in Cardiology
+    let !c self assert = Wearing the masks was perceived as very uncomfortable with a marked effect on subjective breathing resistance with the FFP2/N95 mask.
+
+    / July, 2020 - Clinical Research in Cardiology
+    let !d self assert = Medical face masks have a marked negative impact on cardiopulmonary capacity that significantly impairs strenuous physical and occupational activities. In addition, medical masks significantly impair the quality of life of their wearer. These effects have to be considered versus the potential protective effects of face masks on viral transmissions
+
+    / July, 2020 - Clinical Research in Cardiology
+    let !e self assert = Wearing a medical face mask has a significant impact on pulmonary parameters both at rest and during maximal exercise in healthy adults.
+
+    / July, 2020 - Clinical Research in Cardiology
+    let !f self assert = Surgical masks, and to a greater extent FFP2/N95 masks, reduce the maximum power. Pmax (Watt) depends on energy consumption and the maximum oxygen uptake (VO2max). The reduction of Pmax was primarily driven by the observed reduction of the arterio-venous oxygen content (avDO2). Therefore, the primary effect of the face masks on physical performance in healthy individuals is driven by the reduction of pulmonary function. In addition, the auxiliary breathing muscles have been described to induce an additional afferent drive which can contribute to an increase of the fatigue effect.
+
+    / July, 2020 - Clinical Research in Cardiology
+    let !g self assert = The performance of several different populations may be significantly affected by face masks. For athletes the use of fm will reduce physical performance. Less pronounced but mechanistically similar effects have been observed for mouthguards. The increased breathing resistance is especially problematic for patients with chronic obstructive pulmonary diseases. Patients with diffusion disorders have reduced capacity to compensate due to the reduced tidal volume. Another example of a population at risk is patients with heart failure. The observed mechanisms may lead to more severe symptoms in individuals with impaired capacity for myocardial compensation.
+
+    / July, 2020 - Clinical Research in Cardiology
+    let !h self assert = Our data show that FM leads to severe subjective discomfort during exercise. FFP2/N95 masks are perceived as more uncomfortable than sm. In particular, breathing resistance, heat, tightness and overall discomfort are the items with the greatest influence on subjective perception.  Wearing of fm is perceived as subjectively disturbing and is accompanied by an increased perception of exertion. It is likely that the masks negatively impact on the dynamics of perception especially at the limit of exercise tolerance. In addition to the severe impact on ventilation, the data suggest the associated discomfort as a second important reason for the observed impairment of physical performance.
+
+
+
+  # face masks risks, heart rate, discomfort, exercise,
+  // Effects of wearing N95 and surgical facemasks on heart rate, thermal stress and subjective sensations
+  doi: https://doi.org/10.1007/s00420-004-0584-4
+  ref 'Li_et_al_05_26_2005
+    head = N95 and surgical facemasks can induce significantly different temperatures and humidity in the microclimates of facemasks, which have profound influences on heart rate and thermal stress and subjective perception of discomfort.
+
+    >>> Aim
+      The study was aimed at investigating the effects of wearing N95 and surgical facemasks with and without nano-functional treatments on thermophysiological responses and the subjective perception of discomfort.
+
+    >>>
+      Method Five healthy male and five healthy female participants performed intermittent exercise on a treadmill while wearing the protective facemasks in a climate chamber controlled at an air temperature of 25°C and a relative humidity of 70%. Four types of facemasks, including N95 (3M 8210) and surgical facemasks, which were treated with nano-functional materials, were used in the study.
+
+    >>> Results
+      (1) The subjects had significantly lower average heart rates when wearing nano-treated and untreated surgical facemasks than when wearing nano-treated and untreated N95 facemasks. (2) The outer surface temperature of both surgical facemasks was significantly higher than that of both N95 facemasks. On the other hand, the microclimate and skin temperatures inside the facemask were significantly lower than those in both N95 facemasks. (3) Both surgical facemasks had significantly higher absolute humidity outside the surface than both N95 facemasks. The absolute humidity inside the surgical facemask was significantly lower than that inside both N95 facemasks. (4) Both surgical facemasks were rated significantly lower for perception of humidity, heat, breath resistance and overall discomfort than both N95 facemasks. The ratings for other sensations, including feeling unfit, tight, itchy, fatigued, odorous and salty, that were obtained while the subjects were wearing the surgical facemasks were significantly lower than when the subjects were wearing the N95 facemasks. (5) Subjective preference for the nano-treated surgical facemasks was the highest. There was significant differences in preference between the nano-treated and untreated surgical facemasks and between the surgical and N95 facemasks.
+
+    >>> Discussion
+      We discuss how N95 and surgical facemasks induce significantly different temperature and humidity in the microclimates of the facemasks, which have profound influences on heart rate and thermal stress and subjective perception of discomfort.
+
+    -- exports
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / May, 2005 - Int Arch Occup Environ Health
+    let !a self assert = Microclimate temperature, humidity and skin temperature inside the facemask increased with the start of step exercise, which led to the different perceptions of humidity, heat and high breathing resistance among the subjects wearing the facemasks. High breathing resistance made it difficult for the subject to breathe and take in sufficient oxygen. Shortage of oxygen stimulates the sympathetic nervous system and increases heart rate.
+
+    / May, 2005 - Int Arch Occup Environ Health
+    let !b self assert = Mean heart rate, microclimate temperature, humidity and skin temperature inside the facemask, together with perceived humidity, heat, breathing resistance in the facemask, and itchiness, fatigue and overall discomfort, were significantly (P<0.01) higher for N95 masks than for surgical masks.
+
+    / May, 2005 - Int Arch Occup Environ Health
+    let !c self assert = The surface temperature outside the facemask was lower, and the temperature in the facemask microclimate was significantly higher, for the N95 masks than for the surgical masks indicating that the heat loss from the respiratory tract is more difficult to endure in N95 masks, inducing higher heat stress and perception of discomfort.
+
+    / May, 2005 - Int Arch Occup Environ Health
+    let !d self assert = During the simulation wear trials, in vivo filtration efficiency of N95 facemasks was 96%, in comparison with 95% for surgical facemasks.
+
+    / May, 2005 - Int Arch Occup Environ Health
+    let !e self assert = The surgical facemasks with significantly higher moisture permeability and air-permeability were thinner than the N95 facemasks, indicating that surgical facemasks should be more breathable and less humid and hot, which agrees with the in vivo measurements of temperature and humidity inside and outside the masks and the subjects’ perception of breathing resistance and discomfort.
+
+    / May, 2005 - Int Arch Occup Environ Health
+    let !f self assert = No significant difference was found between nano-treated and untreated facemasks for physiological measurements and subjective perceptions, even though nano-treated surgical and N95 facemasks were perceived to be slightly less uncomfortable. On the other hand, subjective preferences for the nano-treated surgical masks were significantly higher than those for the untreated surgical facemasks. This indicates that the nano-functional treatment of surgical and N95 facemasks does not have significant negative effects on the thermophysiological responses and subjective perceptions of discomfort.
 
 
 
