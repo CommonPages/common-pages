@@ -1,4 +1,4 @@
-/ Disease
+/ The Disease
 subject module Disease
   head = COVID-19 is the disease caused by the virus SARS-CoV-2, most commonly characterized by fever, among other symptoms. A minority of cases are asymptomatic, however asymptomatic and presymptomatic carriers may still be infectious. Disease severity and mortality rates vary significantly by population. Recovered patients have appear to have protective immunity, but the duration of immunity is unclear.
 

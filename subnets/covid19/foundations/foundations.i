@@ -3,6 +3,14 @@
 model module foundations
   head = The COVID-19 Foundations module provides a conceptual framework from Biology, Physiology, Epidemiology and Medicine to serve as a backdrop for interpretation of the unfolding COVID-19 news and research.
 
+  --
+    Virology
+    Immunology
+    Medicine
+    Epidemiology
+    CoV2
+
+
   model module Virology
     head = Organism, Replication, DNA, RNA, Protein, Protein Synthesis, Microorganism, Pathogen, Host, Infection, Virus, DNA Virus, RNA Virus, Viral Entry, Viral Replication, Viral Shedding, Transmission
 
@@ -304,14 +312,9 @@ model module foundations
     model Immunity
       head = Immunity is the balanced state of multicellular organisms having adequate biological defenses to fight infection, disease, or other unwanted biological invasion, while having adequate tolerance to avoid allergy, and autoimmune diseases.
 
-
-
+  —
   model module Medicine
-    # Immunization
-    # Limit exposure to environments
-    # Remove virus from enviroments
-    # Prevent virus entry into the body
-    # Medication
+    head = Immunization, Vaccination, Quarantine, SocialDistancing, Sterilization, Disinfection, Masks, Prophylaxis, Antivirals
 
     model Immunization
       head = Immunization is the process by which an individual's immune system becomes fortified against a pathogen.
@@ -385,9 +388,10 @@ model module foundations
     model Antivirals
       head = Antiviral drugs are a class of medication used for treating viral infections. Antiviral drugs do not destroy their target pathogen; instead they inhibit their development.
 
+  —
   model module Epidemiology
     # https://www.cdc.gov/csels/dsepd/ss1978/lesson1/section10.html
-    head = Epidemiology deals with the spread and possible control of a particular disease or health-condition in a community, & could help in shaping PublicPolicy to manage the situation.
+    # head = Epidemiology deals with the spread and possible control of a particular disease or health-condition in a community, & could help in shaping PublicPolicy to manage the situation.
 
     >>>
       The scale of spread in the community can be of varied degree, and we call them as outbreak(link), epidemic(link) or pandemic(link). {PublicPolicy}
@@ -491,7 +495,8 @@ model module foundations
       model ContaminatedSurface
         head = Any surface (inanimate surfaces or objects) which is likely to have pathogens with a potential to cause an infection. Often, the pathogens do not last beyond a particular duration depending upon the nature of the surface. These are also called Fomites.
 
-
+  —
+  / SARS-CoV-2
   model module CoV2
 
     model Coronavirus

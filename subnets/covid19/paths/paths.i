@@ -1,7 +1,10 @@
 
 index: hide
 . paths
-  path Overview
-  path Projections
-  path Response
-  path FAQ
+  path Origin
+  path Severity
+  path Masks
+  path Distancing
+  path PublicSpaces
+  path Treatment
+  path Vaccines

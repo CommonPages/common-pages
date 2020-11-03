@@ -1,7 +1,7 @@
 
 / Revision Feed
 revision feed Revisions
-  head = Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  head = The Claimspace COVID-19 was first released on November 10, 2020. It was last revised on November 12 with new research under the Mitigation and Treatment modules.
 
   / March 29, 2020
   revision March_29

@@ -1,4 +1,4 @@
-/ Virus
+/ The Virus
 subject module Virus
   head = SARS-CoV-2—the virus which causes the disease COVID-19—is a highly infectious RNA virus with many structural similarities to its predecessors. It spreads directly, through interactions in close proximity, and indirectly via contact with contaminated surfaces. Infectiousness peaks on or before the onset of symptoms. While there is evidence of genetic diversity in SARS-CoV-2, functional differences between strains are not yet clear.
 
@@ -6,7 +6,6 @@ subject module Virus
     Structure
     Entry
     Shedding
-    Transmission
     Genetics
 
   / Genetics

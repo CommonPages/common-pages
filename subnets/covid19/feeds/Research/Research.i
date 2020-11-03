@@ -1,7 +1,7 @@
 
 / Research Feed
 feed Research
-  head = Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  head = The Claimspace COVID-19 research feed contains relevant research beginning in January of 2020, as well as occasional background research from prior epidemics.
 
   -- all
     August2020
