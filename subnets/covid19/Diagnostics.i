@@ -1,33 +1,34 @@
 / Diagnostics
 subject module Diagnostics
+  head = Effective tests are now available to assess active infections, disease recovery and viral immunity. Research is underway to identify mechanisms for the assessment of risk and prediction of disease severity. Additionally, several mechanisms have been identified to measure prevalance and immunity at the community level.
 
-  >>>
-    Am I infectious? Do I have active infection?
   --
-    OngoingInfection
-  >>>
-    Developing antibodies
-  --
-    Recovery
-
-  >>>
-    When to discharge and discontinue isolation.
-  --
-    PotentialImmunity.Release
-
-  >>>
-    Have I had infection in the past? Detection of antibodies
-  --
+    ActiveInfection
+    InfectionRecovery
     PotentialImmunity
-  >>>
-    Potential Suspectibility and Severity from Covid19. Several studies are investigating range of inflammatory markers in blood, biomarkers and immune features to determine their role in disease severity and risk factors.
-  --
     DiseaseSuspectibility
     DiseaseSeverity
-  >>>
-    To detect community transmission and herd immunity, serosurveys are conducted.
   --
     CommunitywiseTesting
+
+  # # >>>
+  # #   When to discharge and discontinue isolation.
+  # # --
+  # #   PotentialImmunity.Release
+  #
+  # >>>
+  #   Have I had infection in the past? Detection of antibodies
+  # --
+  #   PotentialImmunity
+  # >>>
+  #   Potential Suspectibility and Severity from Covid19. Several studies are investigating range of inflammatory markers in blood, biomarkers and immune features to determine their role in disease severity and risk factors.
+  # --
+  #   DiseaseSuspectibility
+  #   DiseaseSeverity
+  # >>>
+  #   To detect community transmission and herd immunity, serosurveys are conducted.
+  # --
+  #   CommunitywiseTesting
 
   / Methods
   subject module Methods
@@ -90,9 +91,9 @@ subject module Diagnostics
       # -- Complement Fixing
       #   'Mcintosh_et_al_1970
 
-    / Rt-PCR and PCR testing
+    / Rt-PCR and PCR Testing
     subject PCR
-      head = rRT-PCR uses RNA testing of respiratory secretions collected using nasopharyngeal swab, which detects the presence of viral RNA fragments; nasal swab or sputum sample may also be used. Saliva as a non-invasive specimen for detection is also being researched.
+      head = RT-PCR uses RNA testing of respiratory secretions collected using nasopharyngeal swab, which detects the presence of viral RNA fragments; nasal swab or sputum sample may also be used. Saliva as a non-invasive specimen for detection is also being researched.
       >>>
         PCR and other nucleic amplification (NA) strategies have surpassed viral culture as the gold standard viral diagnostic, because of their wider application, higher sensitivity, rapid performance, and ability for field deployment.
       --
@@ -244,9 +245,9 @@ subject module Diagnostics
       --
         'Weissleder_et_al_06_03_2020
 
-  / Disease Suspectibility
+  / Predicting Disease Severity
   subject DiseaseSuspectibility
-    head = Several studies are also investigating range of inflammatory markers in blood, biomarkers and immune features to determine their role in disease severity and risk factors.
+    head = Several studies are investigating a range of inflammatory markers in blood, biomarkers and immune features to determine their role in disease severity and risk factors.
 
     -- LDH
       'Han_et_al_2020
@@ -268,9 +269,9 @@ subject module Diagnostics
     -- ABO blood type - biomarker for differential susceptibility of COVID-19
       'Zhao_et_al_2020b
 
-  / Disease Severity
+  / Measuring Disease Severity
   subject DiseaseSeverity
-    head = There are several indicators of disease progression, such as, measuring elevated temperature, heart rate, shortness of breadth, blood gas content. Several studies are also investigating range of inflammatory markers in blood and immune features to determine their role in disease severity and risk factors.
+    head = There are several indicators of disease progression, such as elevated temperature, heart rate, shortness of breadth, and blood gas content. Several studies are also investigating range of inflammatory markers in blood and immune features to determine their role in disease severity and risk factors.
 
     # Club immune profiling / cytokine / severity and respiratory together
     -- Immune Profiling
@@ -296,37 +297,28 @@ subject module Diagnostics
     -- Respiratory Failure (IL-6)
       'Herold_et_al_04_10_2020
 
-
   # who has covid? Am I infectious? Do I have active infection?
-  / Ongoing Infection/ Infectivity
-  subject OngoingInfection
-    head = Biomarkers to detect active covid19 are RNA and antigen. Methods used are PCR, RT-PCR and Antigen testing. CT scan can also be used. Coarse screening (measuring elevated temperature, shortness of breadth, heart rate, blood gas content, loss of smell/taste) is also done to diagnose ongoing infection.
+  / Testing for an Active Infection
+  subject ActiveInfection
+    head = Active SARS-CoV-2 infections can be identified via biomarkers including viral RNA and antigens. Methods include PCR, RT-PCR and Antigen testing. CT scans may also be used in some conditions. Additional coarse screening may be performed to diagnose ongoing infection.
     # Link symtomatic phase
-    >>>
-      Targets are detection of viral RNA and antigen.
-    # link viral load and shedding from Virus.i
-    -- Methods
+    --
       Methods.PCR
       Methods.Antigen
       Methods.CT
 
-  / Recovering from Covid19
-  subject Recovery
-    head = It takes about 5-14 days from recovery to immunity. Antibody IgM is detected through Serology. Viral load clearance happens at the end of recovery. Negative PCR confirms recovery.
-    >>>
-      Tragets are antibodies IgM
-    # Link immunity.antibodies from Disease.i
-    -- Methods
-      Methods.Serology
-    >>>
-      Viral clearance in lungs is detected through CT scan
+  / Testing for Disease Recovery
+  subject InfectionRecovery
+    head = Viral load clearance is achieved at the end of recovery, and is confirmed by a negative PCR and potentially a CT scan.
+
     --
+      Methods.Serology
       Methods.CT
 
   # who is immune to covid? Have I had infection in the past?
-  / Potential Immunity
+  / Testing for Immunity
   subject PotentialImmunity
-    head = Recovered patients have protective immunity. Through serology testing, IgG levels are detected to figure out potential immunity. The duration of immunity still remains unclear.
+    head = Immunity to SARS-CoV-2 appears to follow disease recovery by 5 to 14 days. Antibody IgM is detected through Serology, though the duration of immunity is unclear.
 
     >>>
       Biomarkers to detect immunity are IgM and IgG antibodies.
@@ -356,7 +348,7 @@ subject module Diagnostics
   # where is covid?
   / Community Testing
   subject CommunitywiseTesting
-    head = Monitoring viral RNA in wastewater, conducting serosurveys are commonly used methods to identify hotspots.
+    head = To identify hotspots and community level immunity, some communities have monitored viral RNA via serosurveys of wastewater.
 
     --
       Seroprevalence

@@ -8,7 +8,7 @@ feed September2020
   # Viral Load , Shedding
   // SARS-CoV-2 viral load peaks prior to symptom onset: a systematic review and individual-pooled analysis of coronavirus viral load from 66 studies
   doi: https://doi.org/10.1101/2020.09.28.20202028
-  ref 'Benefield_et_al_09_30_2020
+  article 'Benefield_et_al_09_30_2020
     head = SARS-CoV-2 viral load peaks prior to symptom onset and remains elevated for up to three weeks, while MERS-CoV and SARS-CoV viral loads peak after symptom onset. SARS-CoV-2, MERS-CoV, and SARS-CoV had median viral shedding durations of 4.8, 4.2, and 1.2 days after symptom onset. Disease severity, age, and specimen type all have an effect on viral load, but sex does not.
 
     >>> Background:
@@ -27,7 +27,7 @@ feed September2020
   #  Hydroxychloroquine Prophylaxis
   // Randomized Controlled Trials of Early Ambulatory Hydroxychloroquine in the Prevention of COVID-19 Infection, Hospitalization, and Death: Meta-Analysis
   doi: https://doi.org/10.1101/2020.09.30.20204693
-  ref 'Ladapo_et_al_09_30_2020
+  article 'Ladapo_et_al_09_30_2020
     head = Hydroxychloroquine use in outpatients reduces the incidence of the composite outcome of COVID-19 infection, hospitalization, and death. Serious adverse events were not reported and cardiac arrhythmia was rare.
 
     >>> Objective
@@ -49,7 +49,7 @@ feed September2020
   # Hydroxychloroquine Prophylaxis
   // Hydroxychloroquine as pre-exposure prophylaxis for COVID-19 in healthcare workers: a randomized trial
   doi: https://doi.org/10.1101/2020.09.18.20197327
-  ref 'Rajasingham_et_al_09_21_2020
+  article 'Rajasingham_et_al_09_21_2020
     head = Pre-exposure prophylaxis with hydroxychloroquine once or twice weekly did not significantly reduce laboratory-confirmed Covid-19 or Covid-19-compatible illness among healthcare workers.
 
     >>> Background:

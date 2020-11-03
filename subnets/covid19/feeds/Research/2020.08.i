@@ -7,7 +7,7 @@ feed August2020
   # VitaminD - RCT
   // Effect of calcifediol treatment and best available therapy versus best available therapy on intensive care unit admission and mortality among patients hospitalized for COVID-19: A pilot randomized clinical study
   doi: https://dx.doi.org/10.1016%2Fj.jsbmb.2020.105751
-  ref 'Castillo_et_al_08_29_2020
+  article 'Castillo_et_al_08_29_2020
     head = Administration of a high dose of Calcifediol or 25-hydroxyvitamin D, a main metabolite of vitamin D endocrine system, significantly reduced the need for ICU treatment of patients requiring hospitalization due to proven COVID-19.
 
     >>> Objective
@@ -37,7 +37,7 @@ feed August2020
   # Why Face Mask
   // Mask or no mask for COVID-19: A public health and market study
   doi: https://doi.org/10.1371/journal.pone.0237691
-  ref 'Li_et_al_08_14_2020
+  article 'Li_et_al_08_14_2020
     head = Our study evaluate the potential impact of the utilization of normal medical masks in public to combat the COVID-19. Wearing a face mask can be effectively combined with social distancing to flatten the epidemic curve. Wearing a mask presents a rational way to implement as an NPI to combat COVID-19.
 
     >>> Abstract
@@ -52,7 +52,7 @@ feed August2020
   # Dust Mask
   // Evaluation of wearing comfort of dust masks
   doi: https://doi.org/10.1371/journal.pone.0237848
-  ref 'Choi_et_al_08_20_2020
+  article 'Choi_et_al_08_20_2020
     head = This study presents a technique to quantify the wearing comfort of dust masks. We present a comprehensive evaluation of the performance of dust masks in terms of not only the filtering performance but also the wearing comfort. Our study suggests some design principles for dust mask filters, auxiliary electric fans, and check valves.
 
     >>> Abstract
@@ -69,7 +69,7 @@ feed August2020
   # Mask Filters, design, New method for developing mask
   // Salt coatings functionalize inert membranes into high-performing filters against infectious respiratory diseases
   doi: https://doi.org/10.1038/s41598-020-70623-9
-  ref 'Rubino_et_al_08_17_2020
+  article 'Rubino_et_al_08_17_2020
     head = Conventional technologies have several drawbacks (i.e., cross-infection risk, filtration efficiency improvements limited by difficulty in breathing, and no safe reusability). We developed an antimicrobial respiratory protective system with high filtering performance and improved breathability levels compared to regular masks.
 
     >>> Abstract
@@ -84,7 +84,7 @@ feed August2020
   # facemask, efficacy, surgical mask, n95 mask, Coughing and Sneezing
   // Universal trends in human cough airflows at large distances
   doi: https://doi.org/10.1063/5.0021666
-  ref 'Simha_et_al_08_25_2020
+  article 'Simha_et_al_08_25_2020
     head = Voluntary coughs from five test subjects were analyzed. Without masks, the airflow from coughs is capable of traversing at least 1.5 m–3.0 m. A disposable surgical mask greatly reduces this distance to between 0.5 m and 1.5 m. N95 masks have the best effectiveness and completely contain the horizontal spread to between 0.1 m and 0.25 m.
 
     >>> ABSTRACT
@@ -104,7 +104,7 @@ feed August2020
   # risks, Facemask, Exercising
   // COVID-19: Electrophysiological mechanisms underlying sudden cardiac death during exercise with facemasks
   doi: https://doi.org/10.1016/j.mehy.2020.110177
-  ref 'Lee_et_al_08_11_2020
+  article 'Lee_et_al_08_11_2020
     head = Exercise with facemasks may increase the risk of ventricular tachycardia/ventricular fibrillation (VT/VF) leading to SCD via the development of acute and/or intermittent hypoxia and hypercapnia. We discuss the potential underlying mechanisms including increases in adrenergic stimulation and oxidative stress leading to electrophysiological abnormalities that promote arrhythmias via non-reentrant and reentrant mechanisms.
 
     >>> Abstract
@@ -120,7 +120,7 @@ feed August2020
   # Decontamination of Mask, reuse,
   // Microwave- and Heat-Based Decontamination of N95 Filtering Facepiece Respirators: A Systematic Review
   doi: https://doi.org/10.1016/j.jhin.2020.08.016
-  ref 'Gertsman_et_al_08_22_2020
+  article 'Gertsman_et_al_08_22_2020
     head = Microwave irradiation and heat may be safe and effective viral decontamination options for N95 FFR reuse during critical shortages. The evidence does not support autoclaving or high-heat (>90oC) approaches. Physical degradation may be an issue for certain mask models, and more real-world evidence on fit is needed.
 
     >>> Background
@@ -145,7 +145,7 @@ feed August2020
   # Face Mask, Oncology Clinics, risks,
   // Face masks in radiation oncology clinics: based on evidence or source of mistakes?
   doi: https://doi.org/10.1007/s12032-020-01403-8
-  ref 'Klement_et_al_08_01_2020
+  article 'Klement_et_al_08_01_2020
     head = Potential risks associated with wearing masks, such as the risk of confounding patients, outweigh any benefits of such a policy for which evidence of protection from COVID-19 is generally weak. For asymptomatic patients, wearing masks in addition to hygiene standards will not provide additional protection of others and should be cautioned against.
 
     >>> Abstract
@@ -157,7 +157,7 @@ feed August2020
   # Low Mortality with mask adoption - Face Mask
   // Association of country-wide coronavirus mortality with demographics, testing, lockdowns, and public wearing of masks. Update August 4, 2020.
   doi: https://doi.org/10.1101/2020.05.22.20109231
-  ref 'Leffler_et_al_08_05_2020
+  article 'Leffler_et_al_08_05_2020
     head = Societal norms and government policies supporting the wearing of masks by the public, as well as international travel controls, are independently associated with lower per-capita mortality from COVID-19.
 
     >>> Purpose
@@ -176,7 +176,7 @@ feed August2020
   # Hydroxychloroquine
   // Low-dose Hydroxychloroquine Therapy and Mortality in Hospitalized Patients with COVID-19: A Nationwide Observational Study of 8075 Participants
   doi: https://doi.org/10.1016/j.ijantimicag.2020.106144
-  ref 'PharmD_et_al_08_24_2020
+  article 'PharmD_et_al_08_24_2020
     head = Compared to supportive care only, low-dose HCQ monotherapy was independently associated with lower mortality in hospitalized patients with COVID-19 diagnosed and treated early or later after symptom onset.
 
     >>> Background
@@ -198,7 +198,7 @@ feed August2020
   # Airborne
   // Respiratory virus RNA is detectable in airborne and droplet particles
   doi: https://doi.org/10.1002/jmv.23698
-  ref 'Gralton_et_al_08_19_2013
+  article 'Gralton_et_al_08_19_2013
     head = Individuals with symptomatic respiratory viral infections produce both large and small particles carrying viral RNA on coughing and breathing.
 
     >>> Abstract
@@ -213,7 +213,7 @@ feed August2020
   # Airborne Context
   // The role of particle size in experimental air-borne infection.
   doi: https://doi.org/10.1093/oxfordjournals.aje.a119459
-  ref 'Sonkin_et_al_05_01_1951
+  article 'Sonkin_et_al_05_01_1951
     head = With increasing B.M.D. (bacterial median diameter) the Ct required to produce infections of the lower respiratory tract increased much more steeply than the Ct required to give infection of the upper respiratory tract.
 
     >>> Abstract :
@@ -226,7 +226,7 @@ feed August2020
   # Mitigatin
   // Associations between Wearing Masks, Washing Hands, and Social Distancing Practices, and Risk of COVID-19 Infection in Public: A Cohort-Based Case-Control Study in Thailand
   doi: https://dx.doi.org/10.2139/ssrn.3633162
-  ref 'Doung-ngern_et_al_08_14_2020
+  article 'Doung-ngern_et_al_08_14_2020
     head = Our findings support consistently wearing masks, washing hands, and social distancing in public to protect against COVID-19 infections. Combining measures could substantially reduce infections in Thailand.
 
 
@@ -249,7 +249,7 @@ feed August2020
   # Ventilation - Air conditioning system - Public Policy
   // Air conditioning system usage and SARS-CoV-2 transmission dynamics in Iran
   doi: https://dx.doi.org/10.1016%2Fj.mehy.2020.110164
-  ref 'Xiao_et_al_08_05_2020
+  article 'Xiao_et_al_08_05_2020
     head = Cooling systems could contribute to the spread of SARS-CoV-2 in Iran. Besides creating air circulation in closed environments, these systems also reduce air humidity, which promotes the spread of virus-laden micro-droplets. We urgently advise health policy makers to regard the role of ventilation systems in the guidelines for controlling the epidemic.
 
 
@@ -260,7 +260,7 @@ feed August2020
   # Side effects Hydroxychloroquine
   // Safety of hydroxychloroquine in COVID-19 and other diseases: a systematic review and meta-analysis of 53 randomized trials
   doi: https://doi.org/10.1007/s00228-020-02962-5
-  ref 'Chen_et_al_08_11_2020
+  article 'Chen_et_al_08_11_2020
     head = We identified 53 eligible studies involving 5496 patients. HCQ is associated with more total AEs (Adverse Effects), gastrointestinal AEs, and skin and subcutaneous tissue AEs compared with placebo or no intervention in the overall population.
 
     >>> Objectives
@@ -289,7 +289,7 @@ feed August2020
   # Nosocomial
   // Toilets dominate environmental detection of severe acute respiratory syndrome coronavirus 2 in a hospital
   doi: https://doi.org/10.1016/j.scitotenv.2020.141710
-  ref 'Ding_et_al_08_15_2020
+  article 'Ding_et_al_08_15_2020
     head = 107 surface samples, 46 air samples, two exhaled condensate samples, and two expired air samples were collected within and beyond four three-bed isolation rooms. The fecal-derived aerosols in patients' toilets contained most of the detected SARS-CoV-2, highlighting the importance of surface and hand hygiene for intervention.
 
     >>> Abstract

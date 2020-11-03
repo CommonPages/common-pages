@@ -54,7 +54,7 @@ feed 2019
   # Droplet Size, Mention Assertions
   // The size and the duration of air-carriage of respiratory droplets and droplet-nuclei
   doi: https://doi.org/10.1017/S0022172400019288
-  ref 'Duguid_et_al_05_15_2009
+  article 'Duguid_et_al_05_15_2009
     head = The sizes of the droplets and droplet-nuclei produced by sneezing, by coughing and by speaking, were studied by the microscopic measurement
 
     -- exports
@@ -87,7 +87,7 @@ feed 2019
   # Aerosol
   // Recognition of aerosol transmission of infectious agents: a commentary
   doi: https://doi.org/10.1186/s12879-019-3707-y
-  ref 'Xiao_et_al_02_20_2020
+  article 'Xiao_et_al_02_20_2020
     head = The potential for airborne transmission is much more dependent on various host, viral and environmental factors
 
     >>> Abstract
@@ -102,7 +102,7 @@ feed 2019
   # Environment - Tranmission - Humidity
   // Humidity-Dependent Decay of Viruses, but Not Bacteria, in Aerosols and Droplets Follows Disinfection Kinetics
   doi: https://doi.org/10.1021/acs.est.9b04959
-  ref 'Lin_et_al_12_30_2019
+  article 'Lin_et_al_12_30_2019
     head = Our results show that the viability of bacteria and viruses in suspended aerosols and droplets is RH (Relative Humidity) dependent, varying by over 3 orders of magnitude for bacteria and up to 2 orders of magnitude for viruses. These results suggest that environmental conditions have the potential to influence transmission of certain pathogens by affecting their viability while they are transmitting between hosts.
 
     >>> Abstract
@@ -166,7 +166,7 @@ feed 2019
   # check the journal name? , not from wuhan, other transmission routes, interspecies transmission,
   // Broad Cross-Species Infection of Cultured Cells by Bat HKU2-Related Swine Acute Diarrhea Syndrome Coronavirus and Identification of Its Replication in Murine Dendritic Cells In Vivo Highlight Its Potential for Diverse Interspecies Transmission
   doi: https://doi.org/10.1128/JVI.01448-19
-  ref 'Yang_et_al_11_26_2019
+  article 'Yang_et_al_11_26_2019
     head = The ability of SADS-CoV to replicate in various cells lines from a broad range of species and the unexpected tropism for murine DCs provide important insights into the biology of this bat-origin CoV, highlighting its possible ability to cross interspecies barriers and the potential role of rodents as susceptible hosts in the field.
 
     >>> Abstract
@@ -270,7 +270,7 @@ feed 2019
   # Pangolians probable host, origin, There is only the one batch of pangolins carrying this interesting CoV. Did they get it from animals in co-captivity? Or did they get it from the human smugglers over weeks-months in captivity?
   // Viral Metagenomics Revealed Sendai Virus and Coronavirus Infection of Malayan Pangolins (Manis javanica)
   doi: https://doi.org/10.3390/v11110979
-  ref 'Liu_et_al_10_24_2019
+  article 'Liu_et_al_10_24_2019
     head = To date, this is the first metagenomic study of virus diversity in pangolins in China. We found high viral diversity of dead Malayan pangolins, and the Sendai virus and Coronavirus may be the dominant pathogens responsible for their death. The Sendai virus showed a close relationship between the Malayan pangolin and the strain isolated from humans, whereas Coronavirus sequences showed a high species diversity.
 
     >>> Abstract

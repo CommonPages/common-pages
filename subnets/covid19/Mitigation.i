@@ -1,6 +1,7 @@
 
 / Mitigation
 subject module Mitigation
+  head = A multitude of mitigation strategies have been proposed and contested, both in terms of infection prevention on an individual level, and community level containment measures. Among them, the usage of face masks, the application of distancing strategies and community wide lock downs are all subjects of ongoing research, evalutation and debate.
 
   / Infection Prevention
   subject module InfectionPrevention

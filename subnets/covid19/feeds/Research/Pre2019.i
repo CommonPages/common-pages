@@ -371,7 +371,7 @@ feed Pre2019
   # VitaminD Rationale
   // Vitamin D controls T cell antigen receptor signaling and activation of human T cells
   doi: https://doi.org/10.1038/ni.1851
-  ref 'Essen_et_al_03_07_2010
+  article 'Essen_et_al_03_07_2010
     head = Human T cells had very low expression of PLC-gamma1 and that this correlated with low T cell antigen receptor (TCR) responsiveness in naive T cells. TCR signaling via p38 leads to successive induction of VDR (vitamin D receptor) and PLC-gamma1, which are required for subsequent classical TCR signaling and T cell activation.
 
     >>> Abstract
@@ -386,7 +386,7 @@ feed Pre2019
   # Cloth Mask vs Surgical Mask
   // Evaluating the efficacy of cloth facemasks in reducing particulate matter exposure
   doi: https://doi.org/10.1038/jes.2016.42
-  ref 'Shakaya_et_al_06_17_2016
+  article 'Shakaya_et_al_06_17_2016
     head = Cloth masks are only marginally beneficial in protecting individuals from particles<2.5 μm. Compared with cloth masks, disposable surgical masks are more effective in reducing particulate exposure.
 
     >>> Abstract
@@ -401,7 +401,7 @@ feed Pre2019
   #  Face masks, children, efficacy
   // Smaller facemasks for positive pressure ventilation in preterm infants: A randomised trial
   doi: https://doi.org/10.1016/j.resuscitation.2018.12.005
-  ref 'O'Currain_et_al_12_17_2018
+  article 'O'Currain_et_al_12_17_2018
     head = Smaller facemasks did not reduce mask leak in preterm facemask ventilation. All facemasks had high leak, particularly in infants ≤26 weeks’ gestation.
 
     >>> Aim
@@ -425,7 +425,7 @@ feed Pre2019
   # Virus deactivation in Mask, surgical mask, reuse
   // Universal and reusable virus deactivation system for respiratory protection
   doi: https://doi.org/10.1038/srep39956
-  ref 'Quan_et_al_01_04_2017
+  article 'Quan_et_al_01_04_2017
     head = We report the development of a universal, reusable virus deactivation system by functionalization of the main fibrous filtration unit of surgical mask with sodium chloride salt. Salt-coated filters proved highly effective in deactivating influenza viruses.
 
     >>> Abstract
@@ -437,7 +437,7 @@ feed Pre2019
   # Home Made Mask
   // Professional and Home-Made Face Masks Reduce Exposure to Respiratory Infections among the General Population
   doi: https://dx.doi.org/10.1371%2Fjournal.pone.0002618
-  ref 'Sande_et_al_07_09_2008
+  article 'Sande_et_al_07_09_2008
     head = Any type of general mask use is likely to decrease viral exposure and infection risk on a population level, in spite of imperfect fit and imperfect adherence, personal respirators providing most protection. Masks worn by patients may not offer as great a degree of protection against aerosol transmission.
 
     >>> Background
@@ -465,7 +465,7 @@ feed Pre2019
   # decontamination of mask
   // A simple decontamination approach using hydrogen peroxide vapour for Bacillus anthracis spore inactivation
   doi: https://dx.doi.org/10.1111%2Fjam.13284
-  ref 'Wood_et_al_10_23_2016
+  article 'Wood_et_al_10_23_2016
     head = Four- to seven-day exposures to low levels of HPV (hydrogen peroxide Vapour) were effective in inactivating B. anthracis spores on multiple materials.
 
     >>> Aims:
@@ -483,7 +483,7 @@ feed Pre2019
   # Homemade Mask / Clothmask
   // Testing the Efficacy of Homemade Masks: Would They Protect in an Influenza Pandemic?
   doi: https://dx.doi.org/10.1017%2Fdmp.2013.43
-  ref 'Davies_et_al_05_22_2013
+  article 'Davies_et_al_05_22_2013
     head = Our findings suggest that a homemade mask should only be considered as a last resort to prevent droplet transmission from infected individuals, but it would be better than no protection.
 
     >>> Objective
@@ -509,7 +509,7 @@ feed Pre2019
   # Airline - Airborne
   // Experimental and numerical investigation of airflow and contaminant transport in an airliner cabin mockup
   doi: https://doi.org/10.1016/j.buildenv.2008.01.012
-  ref 'Zhang_et_al_02_20_2008
+  article 'Zhang_et_al_02_20_2008
     head = The present study analyzed the similarities and differences of transport and dispersion between the gaseous and particulate contaminants. The sub-micron-sized heavy particles behaved like the passive gas contaminant in the cabin except in the region near the source position because the diffusivity can be different.
 
     >>> Abstract
@@ -523,7 +523,7 @@ feed Pre2019
   # Aerosol Flight Tranmission
   // Modeling the Fate of Expiratory Aerosols and the Associated Infection Risk in an Aircraft Cabin Environment
   doi: https://doi.org/10.1080/02786820802641461
-  ref 'Wan_et_al_02_25_2009
+  article 'Wan_et_al_02_25_2009
     head = The transport and deposition of polydispersed expiratory aerosols in an aircraft cabin were simulated. Passengers seated within one row from the index patient are subject to contact risks that are one to two orders of magnitude higher than are passengers seated further away.
 
     >>> Abstract
@@ -536,7 +536,7 @@ feed Pre2019
   # Aersol Influenza
   // Influenza virus in human exhaled breath: an observational study
   doi: https://doi.org/10.1371/journal.pone.0002691
-  ref 'Fabian_et_al_07_16_2008
+  article 'Fabian_et_al_07_16_2008
     head = Influenza virus may be contained in fine particles generated during tidal breathing, and add to the body of literature suggesting that fine particle aerosols may play a role in influenza transmission.
 
     >>> Background
@@ -554,7 +554,7 @@ feed Pre2019
   # Aerosol Size
   // Size distribution and sites of origin of droplets expelled from the human respiratory tract during expiratory activities
   doi: https://doi.org/10.1016/j.jaerosci.2008.11.002
-  ref 'Morawska_et_al_11_18_2008
+  article 'Morawska_et_al_11_18_2008
     head = A new expiratory droplet investigation system (EDIS) was used to conduct the most comprehensive program of study to date, of the dilution corrected droplet size distributions produced during different respiratory activities.
 
     >>> Abstract
@@ -571,7 +571,7 @@ feed Pre2019
   # Droplet size
   // The Size Distribution of Droplets in the Exhaled Breath of Healthy Human Subjects
   doi: https://doi.org/10.1089/jam.1997.10.105
-  ref 'Papineni_et_al_01_30_2009
+  article 'Papineni_et_al_01_30_2009
     head = Exhaled droplets from human subjects performing four respiratory actions (mouth breathing, nose breathing, coughing, talking) were measured. Coughing produced the largest droplet concentrations and nose breathing the least, although considerable intersubject variability was observed.
 
     >>> Abstract
@@ -586,7 +586,7 @@ feed Pre2019
   # Droplet
   // A Sneeze
   doi: https://doi.org/10.1056/NEJMicm1501197
-  ref 'Bourouiba_et_al_08_25_2016
+  article 'Bourouiba_et_al_08_25_2016
     head = The largest droplets rapidly settle within 1 to 2 m away from the person. The smaller and evaporating droplets are trapped in the turbulent puff cloud, remain suspended, and, over the course of seconds to a few minutes, can travel the dimensions of a room and land up to 6 to 8 m away.
 
     / August, 2020 - NEJM
@@ -595,7 +595,7 @@ feed Pre2019
   # SARS - Aerosol
   // Evidence of Airborne Transmission of the Severe Acute Respiratory Syndrome Virus
   doi: https://doi.org/10.1056/NEJMoa032867
-  ref 'Yu_et_al_04_22_2004
+  article 'Yu_et_al_04_22_2004
     head = Airborne spread of the virus appears to explain this large community outbreak of SARS, and future efforts at prevention and control must take into consideration the potential for airborne spread of this virus.
 
     >>> BACKGROUND
@@ -616,7 +616,7 @@ feed Pre2019
   # Aersol Mechanism
   // Factors involved in the aerosol transmission of infection and control of ventilation in healthcare premises
   doi: https://doi.org/10.1016/j.jhin.2006.05.022
-  ref 'Tang_et_al_08_17_2006
+  article 'Tang_et_al_08_17_2006
     head = Aim of this review is to describe the factors involved in: (1) the generation of an infectious aerosol, (2) the transmission of infectious droplets or droplet nuclei from this aerosol, and (3) the potential for inhalation of such droplets or droplet nuclei by a susceptible host.
 
     >>> Abstract
@@ -647,7 +647,7 @@ feed Pre2019
   # Tranmission - SARS - Droplet
   // Cluster of SARS among Medical Students Exposed to Single Patient, Hong Kong
   doi: https://dx.doi.org/10.3201%2Feid1002.030452
-  ref 'Wong_et_al_02_10_2004
+  article 'Wong_et_al_02_10_2004
     head =  Proximity to the index case-patient was associated with transmission, which is consistent with droplet spread. Transmission through fomites or small aerosols cannot be ruled out.
 
     >>> Abstract
@@ -659,7 +659,7 @@ feed Pre2019
   # Airborne
   // Extensive Viable Middle East Respiratory Syndrome (MERS) Coronavirus Contamination in Air and Surrounding Environment in MERS Isolation Wards
   doi: https://doi.org/10.1093/cid/ciw239
-  ref 'Kim_et_al_08_01_2016
+  article 'Kim_et_al_08_01_2016
     head = The presence of MERS-CoV was confirmed by RT-PCR of viral cultures of 4 of 7 air samples. These data provide experimental evidence for extensive viable MERS-CoV contamination of the air and surrounding materials
 
     >>> Background
@@ -680,7 +680,7 @@ feed Pre2019
   # Tranmission Modes
   // Violent expiratory events: on coughing and sneezing
   doi: https://doi.org/10.1017/jfm.2014.88
-  ref 'Bourouiba_et_al_04_25_2004
+  article 'Bourouiba_et_al_04_25_2004
     head = Direct observation of sneezing and coughing events reveals that such flows are multiphase turbulent buoyant clouds with suspended droplets of various sizes. Our study highlights the importance of the multiphase nature of respiratory clouds.
 
     >>> Abstract
@@ -693,7 +693,7 @@ feed Pre2019
   # Temperature and Humidity - Context
   // Effects of air temperature and relative humidity on coronavirus survival on surfaces
   doi: https://doi.org/10.1128/AEM.02291-09
-  ref 'Casanova_et_al_04_21_2010
+  article 'Casanova_et_al_04_21_2010
     head = When high numbers of viruses are deposited, TGEV (transmissible gastroenteritis virus) and MHV (mouse hepatitis virus)  may survive for days on surfaces at ATs (air temperature) and RHs (relative humidity) typical of indoor environments.
 
     >>> Abstract
@@ -706,7 +706,7 @@ feed Pre2019
   # Hydroxychloroquine
   // Pharmacokinetics of hydroxychloroquine and its clinical implications in chemoprophylaxis against malaria caused by Plasmodium vivax
   doi: https://doi.org/10.1128/aac.00339-08
-  ref 'Lim_et_al_03_19_2009
+  article 'Lim_et_al_03_19_2009
     head = We evaluated the pharmacokinetics (PK) of HCQ and its metabolites and the relationship between the PK of HCQ and the effect of treatment of HCQ on vivax malaria in South Koreans.
 
     >>> Abstract
@@ -721,7 +721,7 @@ feed Pre2019
   # Hydroxychloroquine
   // Clinical pharmacokinetics and metabolism of chloroquine. Focus on recent advancements
   doi: https://doi.org/10.2165/00003088-199631040-00003
-  ref 'Ducharme_et_al_10_31_1996
+  article 'Ducharme_et_al_10_31_1996
     head = This paper presents the current state of knowledge on chloroquine disposition, with special emphasis on stereoselectivity and microsomal metabolism. In addition, the impact of the patient's physiopathological status and ethnic origin on chloroquine pharmacokinetics is discussed.
 
     >>> Abstract
@@ -734,7 +734,7 @@ feed Pre2019
   # Hydroxychloroquine
   // Bioavailability of hydroxychloroquine tablets in healthy volunteers
   doi: https://dx.doi.org/10.1111%2Fj.1365-2125.1989.tb03439.x
-  ref 'Tett_et_al_06_27_1989
+  article 'Tett_et_al_06_27_1989
     head = Five healthy volunteers received, in a randomised crossover design study, a oral tablet and an intravenous infusion of racemic hydroxychloroquine. A period of 6 months is required to achieve 96% of steady-state levels of hydroxychloroquine.
 
     >>> Abstract
@@ -753,7 +753,7 @@ feed Pre2019
   # Hydroxychloroquine
   // Screening of an FDA-Approved Compound Library Identifies Four Small-Molecule Inhibitors of Middle East Respiratory Syndrome Coronavirus Replication in Cell Culture
   doi: https://doi.org/10.1128/AAC.03011-14
-  ref 'Wilde_et_al_07_15_2014
+  article 'Wilde_et_al_07_15_2014
     head = We have screened a library of 348 FDA-approved drugs for anti-MERS-CoV activity in cell culture. We identified four compounds (chloroquine, chlorpromazine, loperamide, and lopinavir) inhibiting MERS-CoV replication in the low micromolar range.
 
     >>> Abstract
@@ -765,7 +765,7 @@ feed Pre2019
   # MERS
   // Repurposing of Clinically Developed Drugs for Treatment of Middle East Respiratory Syndrome Coronavirus Infection
   doi: https://doi.org/10.1128/AAC.03036-14
-  ref 'Dyall_et_al_07_15_2014
+  article 'Dyall_et_al_07_15_2014
     head = A library of 290 compounds was screened for antiviral activity against MERS-CoV and SARS-CoV. In total, 27 compounds with activity against both MERS-CoV and SARS-CoV were identified.
 
     >>> Abstract
@@ -785,7 +785,7 @@ feed Pre2019
   # Hydroxychloroquine
   // In vitro inhibition of severe acute respiratory syndrome coronavirus by chloroquine
   doi: https://dx.doi.org/10.1016%2Fj.bbrc.2004.08.085
-  ref 'Keyaerts_et_al_10_08_2004
+  article 'Keyaerts_et_al_10_08_2004
     head = We report on chloroquine, a 4-amino-quinoline, as an effective inhibitor of the replication of the SARS-CoV in vitro. Chloroquine, may be considered for immediate use in the prevention and treatment of SARS-CoV infections.
 
     >>> Abstract
@@ -797,7 +797,7 @@ feed Pre2019
   # Hydroxychloroquine - SARS
   // Evaluation of immunomodulators, interferons and known in vitro SARS-coV inhibitors for inhibition of SARS-coV replication in BALB/c mice
   doi: https://doi.org/10.1177/095632020601700505
-  ref 'Barnard_et_al_10_01_2006
+  article 'Barnard_et_al_10_01_2006
     head = Compounds approved for therapeutic use and in vitro inhibitors of SARS-CoV were evaluated for inhibition in the mouse SARS-CoV replication model.
 
     >>> Abstract
@@ -811,7 +811,7 @@ feed Pre2019
 
   // Clinical Pharmacokinetics and Metabolism of Chloroquine
   doi: https://doi.org/10.2165/00003088-199631040-00003
-  ref 'Ducharme_et_al_10_1996
+  article 'Ducharme_et_al_10_1996
     head = This paper presents the current state of knowledge on chloroquine disposition, with special emphasis on stereoselectivity and microsomal metabolism. In addition, the impact of the patient’s physiopathological status and ethnic origin on chloroquine pharmacokinetics is discussed.
 
     / Oct, 1996 - Clin Pharmacokinet
@@ -821,7 +821,7 @@ feed Pre2019
   # Side effects, Hydroxychloroquine - Binds to Receptors and can cause damage
   // Hydroxychloroquine cardiotoxicity presenting as a rapidly evolving biventricular cardiomyopathy: key diagnostic features and literature review
   doi: https://doi.org/10.1177/2048872612471215
-  ref 'Joyce_et_al_19_12_2012
+  article 'Joyce_et_al_19_12_2012
     head = Cardiotoxicity is a rare but serious complication of hydroxychloroquine. We describe typical clinical, echocardiographic, and histological features of this rare condition. Hydroxychloroquine cardiotoxicity can be fatal, particularly if irreversible histopathological changes have occurred prior to drug discontinuation.
 
     >>> Abstract
@@ -863,7 +863,7 @@ feed Pre2019
   # testing, face mask sampling
   // A New Method for Sampling and Detection of Exhaled Respiratory Virus Aerosols
   doi: https://doi.org/10.1086/523000
-  ref 'Huynh_et_al_01_01_2008
+  article 'Huynh_et_al_01_01_2008
     head = This small study is the first to report direct detection of virus aerosols exhaled by infected individuals. It reveals that breathing alone, for some people, is sufficient to aerosolize rhinovirus. In summary, we have revealed that a simple mask-like device can be used to sample exhaled respiratory bioaerosols for analysis by PCR.
 
     >>> Abstract
@@ -886,7 +886,7 @@ feed Pre2019
   # counter to fomite transmission/stability, fomite spread
   // Severe Acute Respiratory Syndrome Coronavirus on Hospital Surfaces
   doi: https://doi.org/10.1086/422652
-  ref 'Dowell_et_al_09_01_2004
+  article 'Dowell_et_al_09_01_2004
     head = Although the viruses identified may have been noninfectious, health care workers should be aware that SARS coronavirus can contaminate environmental surfaces in the hospital, and fomites should be considered to be a possible mode of transmission of SARS.
 
     >>> Background
@@ -914,7 +914,7 @@ feed Pre2019
   # check the date, origin background, Sampling in recent years has identified an impressive array of bat coronaviruses, including RaTG13 and RmYN02
   // Isolation and Characterization of a Novel Bat Coronavirus Closely Related to the Direct Progenitor of Severe Acute Respiratory Syndrome Coronavirus
   doi: https://doi.org/10.1128/JVI.02582-15
-  ref 'Yang_et_al_12_30_2015
+  article 'Yang_et_al_12_30_2015
     head = We report the isolation and characterization of a novel bat coronavirus which is much closer to the severe acute respiratory syndrome coronavirus (SARS-CoV) in genomic sequence than others previously reported, particularly in its S gene. Our results provide further evidence of the bat origin of the SARS-CoV and highlight the likelihood of future bat coronavirus emergence in humans.
 
     >>> Abstract
@@ -977,7 +977,7 @@ feed Pre2019
   # source of sars-cov2 and novel pathogens, The Zoonotic Origins of SARS-CoV-2, recombination event
   // Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus.
   doi: https://doi.org/10.1371/journal.ppat.1006698
-  ref 'Hu_et_al_11_30_2017
+  article 'Hu_et_al_11_30_2017
     head = Our 5-year longitudinal study demonstrates that all building blocks of the pandemic SARS-CoV genome are present in bat SARSr-CoVs from a single location in Yunnan. Frequent recombination events have happened among those SARSr-CoVs in the same cave. There is sufficient evidence that SARS-CoV most likely originated from horseshoe bats via recombination events among existing SARSr-CoVs. Various SARSr-CoVs capable of using human ACE2 are still circulating among bats in this region.
 
     >>> Abstract
@@ -1090,7 +1090,7 @@ feed Pre2019
   # Phylogenetic analysis, SARS
   // Phylogenetic analysis of the full-length SARS-CoV sequences: evidence for phylogenetic discordance in three genomic regions.
   doi: https://doi.org/10.1002/jmv.20187
-  ref 'Magiorkinis_et_al_09_14_2004
+  article 'Magiorkinis_et_al_09_14_2004
     head = Evidence indicates that SARS‐CoV, for the largest part of the genome (∼80%), is more closely related to Group II coronaviruses sequences, whereas in three regions in the ORF1ab gene it shows no apparent similarity to any of the previously characterized groups of coronaviruses, suggesting a distinct clustering with respect to Group II. This could be a result of ancient recombination events, altered adaptive evolution in different lineages, or a combination of both.
 
     # There is discordant phylogenetic clustering of SARS‐CoV and coronaviruses sequences, throughout the genome, compatible with either ancient recombination events or altered evolutionary rates in different lineages, or a combination of both.
@@ -1121,7 +1121,7 @@ feed Pre2019
   # transmission through diff routes possible looking at Nipah virus example, interspecies transmission,
   // Transmission of Human Infection with Nipah Virus.
   doi: https://doi.org/10.1086/647951
-  ref 'Luby_et_al_12_01_2009
+  article 'Luby_et_al_12_01_2009
     head = The primary pathways of transmission from bats to people in Bangladesh are through contamination of raw date palm sap by bats with subsequent consumption by humans and through infection of domestic animals (cattle, pigs, and goats), presumably from consumption of food contaminated with bat saliva or urine with subsequent transmission to people. Approximately one-half of recognized Nipah case patients in Bangladesh developed their disease following person-to-person transmission of the virus.
 
     >>> Abstract
@@ -1166,7 +1166,7 @@ feed Pre2019
   # S1/S2 FCS, newly acquires furin-cleavage site, all SARSlike viruses isolated from bats lack this polybasic site and are cleaved by TMPRSS2 or endosomal cathepsins in the target cells
   // Activation of the SARS coronavirus spike protein via sequential proteolytic cleavage at two distinct sites.
   doi: https://doi.org/10.1073/pnas.0809524106
-  ref 'Belouzard_et_al_04_07_2009
+  article 'Belouzard_et_al_04_07_2009
     head = The data suggest a novel priming mechanism for a viral fusion protein, with a critical proteolytic cleavage event on the SARS-CoV S protein at position 797 (S2′), acting in concert with the S1–S2 cleavage site to mediate membrane fusion and virus infectivity.
 
     >>> Abstract
@@ -1217,7 +1217,7 @@ feed Pre2019
   # doubt to the origin story, furin clevage,
   // Furin cleavage of the SARS coronavirus spike glycoprotein enhances cell–cell fusion but does not affect virion entry.
   doi: https://doi.org/10.1016/j.virol.2006.02.003
-  ref 'Follis_et_al_07_05_2006
+  article 'Follis_et_al_07_05_2006
     head = We show that furin cleavage at the modified R667 position generates discrete S1 and S2 subunits and potentiates membrane fusion activity. The lack of effect of furin cleavage on virion infectivity mirrors that observed in the normally cleaved S glycoprotein of the murine coronavirus and highlights an additional level of complexity in coronavirus entry.
 
     >>> Abstract
@@ -1263,7 +1263,7 @@ feed Pre2019
   # doubt to the origin story, S1/S2 cleavage site, There is zero evidence that confirms that the SARS-CoV-2 S1/S2 PRRA(R) FCS arose naturally or artificially, but neither scenario can be ruled out.newly acquires furin-cleavage site, all SARSlike viruses isolated from bats lack this polybasic site and are cleaved by TMPRSS2 or endosomal cathepsins in the target cells
   // Functional Analysis of Potential Cleavage Sites in the MERS-coronavirus Spike Protein
   doi: https://doi.org/10.1038/s41598-018-34859-w
-  ref 'Kleine-Weber_et_al_11_09_2018
+  article 'Kleine-Weber_et_al_11_09_2018
     head = Our data support the concept that pre-cleavage of MERS-S at the S1/S2 site by furin promotes subsequent S protein activation by TMPRSS2. However, pre-cleavage was not essential for S protein activation by TMPRSS2 and Caco-2 cell entry driven by a MERS-S variant lacking pre-cleavage was still TMPRSS2 dependent. Moreover, our results suggest that the S2′ site, specifically the second arginine, is important for efficient S protein activation by TMPRSS2 and indicate that cathepsin L but not TMPRSS2 can employ alternative sites for S protein activation.
 
     >>> Abstract
@@ -1310,7 +1310,7 @@ feed Pre2019
   # cross-reactivity, T-cell, Club with 723,725, 722, CHECK THE date- couldnt find it.
   // Cross-Reactivity of T Cells and Its Role in the Immune System
   doi: https://doi.org/10.1615/CritRevImmunol.v32.i4.50
-  ref 'Petrova_et_al_02_20_2012
+  article 'Petrova_et_al_02_20_2012
     head = The ability of the T-cell receptor (TCR) to recognize more than one peptide-MHC structure defines cross-reactivity. There are a number of rational arguments for cross-reactivity. However, quantifying the phenomenon has been difficult, and its immunological importance remains unknown.
 
     >>> Abstract
@@ -1323,7 +1323,7 @@ feed Pre2019
   # transmission via toilet flushing of aerosols, airborne transmission
   // Lifting the Lid on Toilet Plume Aerosol: A Literature Review With Suggestions for Future Research
   doi: https://doi.org/10.1016/j.ajic.2012.04.330
-  ref 'Johnson_et_al_10_08_2012
+  article 'Johnson_et_al_10_08_2012
     head = Contaminated toilets have been clearly shown to produce large droplet and droplet nuclei bioaerosols during flushing, and research suggests that this toilet plume could play an important role in the transmission of infectious diseases for which the pathogen is shed in feces or vomit. The possible role of toilet plume in airborne transmission of norovirus, SARS, and pandemic influenza is of particular interest.
 
     >>> Background
@@ -1362,7 +1362,7 @@ feed Pre2019
   # transmission via toilet flushing of aerosols
   // Viral Contamination of Aerosol and Surfaces Through Toilet Use in Health Care and Other Settings
   doi: https://doi.org/10.1016/j.ajic.2014.03.026
-  ref 'Verani_et_al_05_09_2014
+  article 'Verani_et_al_05_09_2014
     head = Our study confirms that toilets are an important source of viral contamination. A very important source of contamination from toilets seems to be droplets coming from toilet flush and settling on surfaces, as demonstrated by the high correspondence between the HAdV strains found in water and on surfaces. Another important mechanism of diffusion is hands, which cause the high amount of contamination observed for door handles and flushing buttons, confirming the importance of handwashing and disinfection for infection control.
 
     >>> Background
@@ -1430,7 +1430,7 @@ feed Pre2019
   # transmission via toilet flushing of aerosols, airborne transmission
   // The Potential Spread of Infection Caused by Aerosol Contamination of Surfaces After Flushing a Domestic Toilet
   doi: https://doi.org/10.1111/j.1365-2672.2005.02610.x
-  ref 'Barker_et_al_06_16_2005
+  article 'Barker_et_al_06_16_2005
     head = We were able to show when simulating loose stool that material deposited both on the sidewalls and in the bowl water were involved in the dissemination of micro‐organisms into the air and onto surrounding surfaces. Sequential flushing resulted in further distribution of micro‐organisms into the air although the numbers declined after each flush. Serratia adhering to the sidewalls, as well as free‐floating organisms in the toilet water, were responsible for the formation of bacterial aerosols.
 
     >>> Aims
@@ -1485,7 +1485,7 @@ feed Pre2019
   # transmission via toilet flushing of aerosols, airborne transmission
   // Potential for Aerosolization of Clostridium Difficile After Flushing Toilets: The Role of Toilet Lids in Reducing Environmental Contamination Risk
   doi: https://doi.org/10.1016/j.jhin.2011.08.010
-  ref 'Best_et_al_12_05_2011
+  article 'Best_et_al_12_05_2011
     head = Our data suggest that lidless conventional toilets increase the risk of Clostridium difficile aerosolization and surrounding environmental contamination and thus transmission of bacteria. Our results also demonstrate that if lids are fitted to current models they will very likely become contaminated upon flushing. It also highlights the imperative for hand washing after toilet use, and frequent cleaning to remove contamination.
 
     >>> Background
@@ -1541,7 +1541,7 @@ feed Pre2019
   # transmission via toilet flushing of aerosols, airborne transmission
   // Emission strength of airborne pathogens during toilet flushing
   doi: https://doi.org/10.1111/ina.12406
-  ref 'Lai_et_al_07_06_2017
+  article 'Lai_et_al_07_06_2017
     head = Flushing was activated by a flushometer operated at two pressure levels, 400 kP a (high pressure [HP]) and 200 kP a (low pressure [LP]), and by a water cistern tank placed 95 cm (high tank [HT]) and 46 cm (low tank [LT]) above the toilet seat. The emission strength in the HP condition was statistically greater than that in the LP condition, whereas the cistern tank system produced less emissions than the flushometer system, and tank height was not found to be a sensitive parameter. Our findings also imply that a cistern tank design is preferable to a flushometer design with respect to aerosol generation.
 
     >>> Abstract
@@ -1592,7 +1592,7 @@ feed Pre2019
   # Frontiers - Vaccine Design
   // Isolation of potent SARS-CoV-2 neutralizing antibodies and protection from disease in a small animal model
   doi: https://doi.org/10.1126/science.abc7520
-  ref 'Rogers_et_al_06_11_2020
+  article 'Rogers_et_al_06_11_2020
     head = The results suggest a focus on the RBD and indeed strong nAb responses have been described by immunizing mice with a multivalent presentation of RBD.
 
     >>> Abstract
@@ -1620,7 +1620,7 @@ feed Pre2019
   # Frontiers Vaccine
   // Potent neutralizing antibodies from COVID-19 patients define multiple targets of vulnerability
   doi: https://doi.org/10.1126/science.abc5902
-  ref 'Brouwer_et_al_06_10_2020
+  article 'Brouwer_et_al_06_10_2020
     head = Convalescent COVID-19 patients showed strong anti-SARS-CoV-2 S protein specific B cell responses and developed memory and antibody producing B cells that may have participated in the control of infection and the establishment of humoral immunity. We isolated 19 NAbs that target a diverse range of antigenic sites on the S protein, of which two showed picomolar neutralizing activities  against authentic SARS-CoV-2 virus.
 
     >>> Abstract
@@ -1639,7 +1639,7 @@ feed Pre2019
   # Airborne
   // Detection of air and surface contamination by SARS-CoV-2 in hospital rooms of infected patients
   doi: https://doi.org/xyz
-  ref 'Chia_et_al_05_29_2020
+  article 'Chia_et_al_05_29_2020
     head = Air sampling is performed in three of the 27 AIIRs in the general ward, and detects SARS-CoV-2 PCR-positive particles of sizes >4 µm and 1–4 µm in two rooms, despite these rooms having 12 air changes per hour.
 
     >>> Abstract
@@ -1668,7 +1668,7 @@ feed Pre2019
   # Tocilizumab
   // Tocilizumab Treatment for Cytokine Release Syndrome in Hospitalized COVID-19 Patients: Survival and Clinical Outcomes
   doi: https://doi.org/10.1016/j.chest.2020.06.006
-  ref 'Price_et_al_06_15_2020
+  article 'Price_et_al_06_15_2020
     head = A treatment algorithm that included tocilizumab to target CRS may influence MV (mechanical ventilation) and survival outcomes. In tocilizumab-treated patients, oxygenation and inflammatory biomarkers improved, with higher than expected survival. Randomized trials must confirm these findings.
 
     >>> Background
@@ -1696,7 +1696,7 @@ feed Pre2019
   # Clinical Recommendation - Cytokine Blockers - can be corellated with dexamethasone / corticosteroid
   // COVID-19: Consider Cytokine Storm Syndromes and Immunosuppression
   doi: https:doi.org/10.1016%2FS0140-6736(20)30628-0
-  ref 'Mehta_et_al_03_28_2020
+  article 'Mehta_et_al_03_28_2020
     head = All patients with severe COVID-19 should be screened for hyperinflammation using laboratory trends (eg, increasing ferritin, decreasing platelet counts, or erythrocyte sedimentation rate) and the HScore to identify the subgroup of patients for whom immunosuppression could improve mortality. Therapeutic options include steroids, intravenous immunoglobulin, selective cytokine blockade (eg, anakinra or tocilizumab) and JAK inhibition.
 
 
@@ -1706,7 +1706,7 @@ feed Pre2019
   # Remdesivir
   // Clinical benefit of remdesivir in rhesus macaques infected with SARS-CoV-2
   doi: https://doi.org/10.1101/2020.04.15.043166
-  ref 'Williamson_et_al_04_22_2020
+  article 'Williamson_et_al_04_22_2020
     head = Remdesivir is the first antiviral treatment with proven efficacy against SARS-CoV-2 in an animal model of COVID-19. Remdesivir treatment in rhesus macaques infected with SARS-CoV-2 was highly effective in reducing clinical disease and damage to the lungs. The remdesivir dosing used in rhesus macaques is equivalent to that used in humans; however, due to the acute nature of the disease in rhesus macaques, it is hard to directly translate the timing of treatment used to corresponding disease stages in humans.
 
     >>> Background
@@ -1739,7 +1739,7 @@ feed Pre2019
   # Clinical Recommendation - Anticoagulation -Bloog coagulation
   // Thromboembolism and anticoagulant therapy during the COVID-19 pandemic: interim clinical guidance from the anticoagulation forum
   doi: https://doi.org/10.1007/s11239-020-02138-z
-  ref 'Barnes_et_al_05_21_2020
+  article 'Barnes_et_al_05_21_2020
     head = Many patients with COVID-19 are at increased risk of venous thromboembolism (VTE). Therefore, we recommend pharmacologic prophylaxis for patients with COVID-19 when hospitalized. We recommend that dosing of VTE pharmacologic prophylaxis be evidence-based, whenever possible. Escalated doses can be considered for critically ill patients.
 
     >>> Abstract
@@ -1762,7 +1762,7 @@ feed Pre2019
   # Siltuximab
   // IL-6 signalling pathway inactivation with siltuximab in patients with COVID-19 respiratory failure: an observational cohort study
   doi: https://doi.org/xyz
-  ref 'Gritti_et_al_06_20_2020
+  article 'Gritti_et_al_06_20_2020
     head = Thirty patients received siltuximab, while 188 control patients received only best supportive care. Siltuximab-treated patients were matched to 30 control patients using the propensity score analysis of baseline covariates. The 30-day mortality rate was significantly lower in the siltuximab-treated than the matched-control cohort patients (HR 0.462, 95% CI 0.221-0.965); p=0.0399). The mean follow-up was 33.3 days (range 7-58 days) for the siltuximab-treated patients and 22.8 days (range 2-45 days) for the control cohort. Sixteen siltuximab-treated patients were discharged from hospital, four remained on mechanical ventilation, and 10 patients died.
 
     >>> Background
@@ -1781,7 +1781,7 @@ feed Pre2019
   # Clinical recommendation
   // Preventing COVID-19-induced pneumonia with anticytokine therapy
   doi: https://doi.org/10.1016/S2665-9913(20)30092-8
-  ref 'Monteleone_et_al_04_06_2020
+  article 'Monteleone_et_al_04_06_2020
     head =  We speculate that patients with immune-mediated disorders taking IL-6 inhibitors, or compounds that suppress immune pathways leading to IL-6 production or mediation of IL-6 signalling, might be somewhat protected against SARS-CoV-2-driven pneumonia.
 
     -- exports
@@ -1796,7 +1796,7 @@ feed Pre2019
   # Diagnostic - Disease Severity
   // Correlation Analysis Between Disease Severity and Inflammation-related Parameters in Patients with COVID-19 Pneumonia
   doi: https://doi.org/10.1101/2020.02.25.20025643
-  ref 'Gong_et_al_02_27_2020
+  article 'Gong_et_al_02_27_2020
     head = With following parameters such as age >67.5 years, IL2R >793.5U/mL, CRP >30.7ng/mL, ferroprotein >2252μg/L, WBC>9.5*10^9/L or NC >7.305*10^9/L, the progress of COVID-19 to critical stage should be closely observed and possibly prevented. Inflammation is closely related to severity of COVID-19, and IL-6, TNFα and IL-8 might be promising therapeutic targets.
 
     >>> Aim:

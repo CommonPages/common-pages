@@ -51,7 +51,7 @@ space Figures
 
   name: Figure:
   url: https://www.ncbi.nlm.nih.gov/books/NBK554776/bin/SARS-CoV__2__Structure.jpg
-  width: 640
-  height: 417
+  width: 800
+  height: 692
   caption: SARS-CoV-2 Structure
   image 'Figure_Virus_Structure

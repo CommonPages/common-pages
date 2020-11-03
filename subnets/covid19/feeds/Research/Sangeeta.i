@@ -2,7 +2,7 @@ feed Sangeeta
   #
   // DUMMY TITLE
   doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
+  article 'Xiao_et_al_02_20_2020
     head =
 
     -- exports
@@ -14,7 +14,7 @@ feed Sangeeta
   #
   // DUMMY TITLE
   doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
+  article 'Xiao_et_al_02_20_2020
     head =
 
     -- exports
@@ -43,7 +43,7 @@ feed Sangeeta
   # Universal Masking, HCWs
   // Association Between Universal Masking in a Health Care System and SARS-CoV-2 Positivity Among Health Care Workers
   doi: https://doi.org/10.1001/jama.2020.12897
-  ref 'Wang_et_al_07_14_2020
+  article 'Wang_et_al_07_14_2020
     head = In March 2020, Mass General Brigham (MGB) is the largest health care system in Massachusetts implemented a multipronged infection reduction strategy involving systematic testing of symptomatic HCWs and universal masking of all HCWs and patients with surgical masks. Universal masking at MGB was associated with a significantly lower rate of SARS-CoV-2 positivity among HCWs.
 
     -- exports
@@ -56,7 +56,7 @@ feed Sangeeta
   # Universal Masking, HCW
   // Universal Masking to Prevent SARS-CoV-2 Transmission—The Time Is Now
   doi: https://doi.org/10.1001/jama.2020.13107
-  ref 'Brooks_et_al_07_14_2020
+  article 'Brooks_et_al_07_14_2020
     head = In the largest health care system in Massachusetts with more than 75 000 employees, in tandem with routine symptom screening and diagnostic testing of symptomatic HCWs for SARS-CoV-2 infection, leadership mandated a policy of universal masking for all HCWs as well as for all patients. Prior to implementation of universal masking in late March 2020, new infections among HCWs with direct or indirect patient contact were increasing exponentially, from 0% to 21.3% (a mean increase of 1.16% per day). However, after the universal masking policy was in place, the proportion of symptomatic HCWs with positive test results steadily declined, from 14.7% to 11.5% (a mean decrease of 0.49% per day).
 
 
@@ -68,7 +68,7 @@ feed Sangeeta
   # facemasks, risk, physical exercise
   // Effects of surgical and FFP2/N95 face masks on cardiopulmonary exercise capacity
   doi: https://doi.org/10.1007/s00392-020-01704-y
-  ref 'Fikenzer_et_al_07_06_2020
+  article 'Fikenzer_et_al_07_06_2020
     head = The results from this first randomized cross-over study assessing the effects of surgical masks and FFP2/N95 masks on cardiopulmonary exercise capacity states clearly that ventilation, cardiopulmonary exercise capacity and comfort are reduced by surgical masks and highly impaired by FFP2/N95 face masks in healthy individuals.
 
     >>> Background
@@ -119,7 +119,7 @@ feed Sangeeta
   # face masks risks, heart rate, discomfort, exercise,
   // Effects of wearing N95 and surgical facemasks on heart rate, thermal stress and subjective sensations
   doi: https://doi.org/10.1007/s00420-004-0584-4
-  ref 'Li_et_al_05_26_2005
+  article 'Li_et_al_05_26_2005
     head = N95 and surgical facemasks can induce significantly different temperatures and humidity in the microclimates of facemasks, which have profound influences on heart rate and thermal stress and subjective perception of discomfort.
 
     >>> Aim
@@ -165,7 +165,7 @@ feed Sangeeta
   # reinfection, coronavirus, context
   // Direct observation of repeated infections with endemic coronaviruses
   doi: https://doi.org/10.1101/2020.04.27.20082032
-  ref 'Galanti_et_al_05_03_2020
+  article 'Galanti_et_al_05_03_2020
     head = This study provides evidence that re-infections with the same endemic coronavirus are not atypical in a time window shorter than 1 year and that the genetic basis of innate immune response may be a greater determinant of infection severity than immune memory acquired after a previous infection.
 
     >>> Background
@@ -207,7 +207,7 @@ feed Sangeeta
   # reinfection, coronavirus, context
   // Seasonal coronavirus protective immunity is short-lasting.
   doi: https://doi.org/10.1038/s41591-020-1083-1
-  ref 'Edridge_et_al_09_14_2020
+  article 'Edridge_et_al_09_14_2020
     head = We monitored healthy individuals for more than 35 years and determined that reinfection with the same seasonal coronavirus occurred frequently at 12 months after infection.
 
     >>> Abstract
@@ -221,7 +221,7 @@ feed Sangeeta
   # reinfection
   // COVID-19 re-infection by a phylogenetically distinct SARS-CoV-2 variant, first confirmed event in South America.
   doi: https://doi.org/10.2139/ssrn.3686174
-  ref 'Prado-Vivar_et_al_09_08_2020
+  article 'Prado-Vivar_et_al_09_08_2020
     head = We report the first confirmed case of SARS-Cov-2 reinfection in Ecuador and Latin America caused by two different viral genetic variants. This patient, a 46 yr old man showed a more severe disease in the second infection. High levels of both SARS-CoV-2 specific IgM and IgG were observed during the second event.
 
     >>> Abstract
@@ -251,7 +251,7 @@ feed Sangeeta
   # re-infection, Belgium, transmission lineage, VACCINEDESIGN and Development
   // Symptomatic SARS-CoV-2 reinfection by a phylogenetically distinct strain.
   doi: https://doi.org/10.1093/cid/ciaa1330
-  ref 'Elslande_et_al_09_05_2020
+  article 'Elslande_et_al_09_05_2020
     head = We here report a mild symptomatic reinfection of a 51 year old woman in Belgium, 93 days after a moderate SARS-CoV-2 infection. The symptoms resolved after one week. There was no travel history.
 
     -- exports
@@ -265,7 +265,7 @@ feed Sangeeta
   # re-infection, Hongkong, D614G, transmission lineage,VACCINEDESIGN and Development
   // Coronavirus Disease 2019 (COVID-19) Re-infection by a Phylogenetically Distinct Severe Acute Respiratory Syndrome Coronavirus 2 Strain Confirmed by Whole Genome Sequencing.
   doi: https://doi.org/10.1093/cid/ciaa1275
-  ref 'WangTo_et_al_08_25_2020
+  article 'WangTo_et_al_08_25_2020
     head = The first case of re-infection of COVID-19 (in Hongkong) occured 142 days after the first symptomatic episode in an apparently immunocompetent patient. Several lines of evidence support that the second episode is caused by re-infection instead of prolonged viral shedding. Viral genomes from first and second episodes belong to different clades/lineages. Despite having an acute infection as evidenced by an elevated CRP, relatively high viral load with gradual decline (Ct value-26.69 upon hospitalization), and seroconversion, the patient was asymptomatic during the second episode.
 
     >>> Background
@@ -308,7 +308,7 @@ feed Sangeeta
   # reinfection, USA, VACCINEDESIGN and Development,transmission lineage
   // Genomic evidence for reinfection with SARS-CoV-2: a case study
   doi: https://doi.org/10.1016/S1473-3099(20)30764-7
-  ref 'Tillett_et_al_10_12_2020
+  article 'Tillett_et_al_10_12_2020
     head = The first confirmed case of SARS-CoV-2 reinfection in the USA. A 25-year-old man, who had no known immune disorders, had PCR-confirmed SARS-CoV-2 infection (Ct value 35·24; specimen A). However, 48 days after the initial test, the patient tested positive again by RT-PCR (Ct value 35·31; specimen B). The genome sequences of isolates from the first infection (specimen A) and reinfection (specimen B) differed significantly, which suggests that the patient was infected by SARS-CoV-2 on two separate occasions by a genetically distinct virus. The second infection was symptomatically more severe than the first. Thus, previous exposure to SARS-CoV-2 might not guarantee total immunity in all cases.
 
     >>> Background
@@ -345,7 +345,7 @@ feed Sangeeta
   # Herd immunity, re-infection, vaccine- e
   // What reinfections mean for COVID-19
   doi: https://doi.org/10.1016/S1473-3099(20)30783-0
-  ref 'Iwasaki_et_al_10_12_2020
+  article 'Iwasaki_et_al_10_12_2020
     head = One of the key questions in predicting the course of the COVID-19 pandemic, is how well and how long the immune responses protect the host from reinfection. Reinfection cases till now, tell us that we cannot rely on immunity acquired by natural infection to confer herd immunity; not only is this strategy lethal for many but also it is not effective. Herd immunity requires safe and effective vaccines and robust vaccination implementation.
 
     -- exports
@@ -382,7 +382,7 @@ feed Sangeeta
   # Biomarkers
   // COVID-19 poses a riddle for the immune system.
   doi: https://doi.org/10.1038/d41586-020-02379-1
-  ref 'Perlman_et_al_08_17_2020
+  article 'Perlman_et_al_08_17_2020
     head = The immune response in hospitalized patients with severe COVID-19 is characterized by lymphopenia and the expression of molecules associated with ongoing inflammation, whereas these same molecules are expressed at a lower level in people with mild or moderate disease. The levels of specific cytokines vary substantially between people, making it hard to benchmark a level of cytokine expression that constitutes a sign of abnormality. Therefore, groups of cytokines, each with different degrees of inter-individual variability, must be measured to identify useful alterations.
 
     -- exports
@@ -416,7 +416,7 @@ feed Sangeeta
   #
   // Sensitivity of Nasopharyngeal, Nasal and Throat Swab for the Detection of SARS-CoV-2
   doi: https://doi.org/10.1101/2020.05.05.20084889
-  ref 'Berenger_et_al_05_08_2020
+  article 'Berenger_et_al_05_08_2020
     head = The sensitivity of nasal swabs is somewhat inferior to NP or throat swabs whereas throat and NP swabs have comparable sensitivity. This finding was despite the Ct value being higher in throat swabs compared to NP swabs. Consequently, when NP swabs are not available, throat swabs are a preferable alternative to nasal swabs for COVID-19 testing.
 
     >>> Abstract
@@ -430,7 +430,7 @@ feed Sangeeta
   # PCR, public policy
   // Analytical sensitivity and efficiency comparisons of SARS-CoV-2 RT–qPCR primer–probe sets
   doi: https://doi.org/10.1038/s41564-020-0761-6
-  ref 'Vogels_et_al_07_10_2020
+  article 'Vogels_et_al_07_10_2020
     head = Our study provides a comparison of analytical performance of the primer–probe sets used in four common SARS-CoV-2 diagnostic assays developed by the China CDC, US CDC, Charité and HKU. Our findings show a high similarity in the analytical sensitivities for SARS-CoV-2 detection, which indicates that outcomes of different assays are comparable. The exception for this is the RdRp-SARSr (Charité) confirmatory primer–probe set which has low sensitivity.
 
     >>> Abstract
@@ -450,7 +450,7 @@ feed Sangeeta
   # Saliva or Nasopharyngeal Swab Specimens
   // Saliva or Nasopharyngeal Swab Specimens for Detection of SARS-CoV-2
   doi: https://doi.org/10.1056/NEJMc2016359
-  ref 'Wyllie_et_al_09_24_2020
+  article 'Wyllie_et_al_09_24_2020
     head = Findings suggests saliva specimens and nasopharyngeal swab specimens have at least similar sensitivity in the detection of SARS-CoV-2. We observed less variation in levels of SARS-CoV-2 RNA in the saliva specimens. Collection of saliva samples by patients themselves negates the need for direct interaction between health care workers and patients. Our findings provide support for the potential of saliva specimens in the diagnosis of SARS-CoV-2 infection.
 
     / September, 2020 - N Engl J Med
@@ -460,7 +460,7 @@ feed Sangeeta
   # ct value, asymptomatic, presymptomatic, infectiousness
   // Duration of infectiousness and correlation with RT-PCR cycle threshold values in cases of COVID-19, England, January to May 2020
   doi: https://doi.org/10.2807/1560-7917.ES.2020.25.32.2001483
-  ref 'Singanayagam_et_al_08_12_2020
+  article 'Singanayagam_et_al_08_12_2020
     head = RT-PCR cycle threshold (Ct) values correlate strongly with cultivable virus. Probability of culturing virus declines to 8% in samples with Ct > 35 and to 6% 10 days after onset; it is similar in asymptomatic and symptomatic persons. Asymptomatic persons represent a source of transmissible virus.
 
     >>> Abstract
@@ -481,7 +481,7 @@ feed Sangeeta
   # RT-qPCR, Mass testing
   // Detection of SARS-CoV-2 RNA by multiplex RT-qPCR ⁦
   doi: https://doi.org/10.1371/journal.pbio.3000867
-  ref 'Kudo_et_al_10_07_2020
+  article 'Kudo_et_al_10_07_2020
     head = The cycle threshold (Ct) values of our multiplex RT-qPCR were comparable to those obtained by the single assay adapted for research purposes. Low copy numbers (≥500 copies/reaction) of SARS-CoV-2 RNA were consistently detected. Our novel multiplex RT-qPCR improves upon current single diagnostics by saving reagents, costs, time, and labor.
 
 
@@ -502,7 +502,7 @@ feed Sangeeta
   # mitigtion, ct value,
   // Estimating epidemiologic dynamics from single cross-sectional viral load distributions
   doi: https://doi.org/10.1101/2020.10.08.20204222
-  ref 'Hay_et_al_10_13_2020
+  article 'Hay_et_al_10_13_2020
     head = Our findings suggest that instead of discarding individual Ct values from positive specimens, incorporation of viral loads into public health data streams offers a new approach for real-time resource allocation and assessment of outbreak mitigation strategies, even where repeat incidence data is not available.
 
 
@@ -517,7 +517,7 @@ feed Sangeeta
   # doi not working
   // A call for diagnostic tests to report viral load
   doi: https://doi.org/10.1126/science.370.6512.22
-  ref 'Service_et_al_10_02_2020
+  article 'Service_et_al_10_02_2020
     head = Testing centers should report not just whether a person is positive, but also a number known as the cycle threshold (CT) value, which indicates how much virus an infected person harbors.
 
     -- exports
@@ -556,7 +556,7 @@ feed Sangeeta
   #
   // Neutralizing antibody responses to SARS-CoV-2 in a COVID-19 recovered patient cohort and their implications
   doi: https://doi.org/10.1101/2020.03.30.20047365
-  ref 'Wu_et_al_04_20_2020b
+  article 'Wu_et_al_04_20_2020b
     head = The variations of SARS-CoV-2 specific NAbs in recovered COVID-19 patients may raise the concern about the role of NAbs on disease progression. Furthermore, titration of NAb is helpful prior to the use of convalescent plasma for prevention or treatment.
 
     >>> Background
@@ -597,7 +597,7 @@ feed Sangeeta
   #
   // Mass Testing for SARS-CoV-2 in 16 Prisons and Jails — Six Jurisdictions, United States, April–May 2020
   doi: http://dx.doi.org/10.15585/mmwr.mm6933a3
-  ref 'Hagan_et_al_08_21_2020
+  article 'Hagan_et_al_08_21_2020
     head =
 
     -- exports
@@ -611,7 +611,7 @@ feed Sangeeta
   #
   // Characterization of Aerosols Generated During Patient Care Activities
   doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
+  article 'Xiao_et_al_02_20_2020
     head =
 
     -- exports
@@ -624,7 +624,7 @@ feed Sangeeta
   #
   // Estimation of airborne viral emission: Quanta emission rate of SARS-CoV-2 for infection risk assessment
   doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
+  article 'Xiao_et_al_02_20_2020
     head =
 
     -- exports
@@ -636,7 +636,7 @@ feed Sangeeta
   #
   // Estimation of airborne viral emission: Quanta emission rate of SARS-CoV-2 for infection risk assessment
   doi: https://doi.org/xyz
-  ref 'Swennen_et_al_04_04_2020
+  article 'Swennen_et_al_04_04_2020
     head =
 
     -- exports
@@ -650,7 +650,7 @@ feed Sangeeta
   #
   // Transmission of COVID-19 virus by droplets and aerosols: A critical review on the unresolved dichotomy
   doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
+  article 'Xiao_et_al_02_20_2020
     head =
 
     -- exports
@@ -664,7 +664,7 @@ feed Sangeeta
   #
   // Facial Masking for Covid-19 — Potential for “Variolation” as We Await a Vaccine
   doi: https://doi.org/10.1056/NEJMp2026913
-  ref 'Gandhi_et_al_09_08_2020
+  article 'Gandhi_et_al_09_08_2020
     head = Universal facial masking might help reduce the severity of disease and ensure that a greater proportion of new infections are asymptomatic. If this hypothesis is borne out, universal masking could become a form of “variolation” that would generate immunity and thereby slow the spread of the virus in the United States and elsewhere, as we await a vaccine.
     -- exports
       !a
@@ -677,7 +677,7 @@ feed Sangeeta
   # engineering design, public health, Fabric mask, reuse
   // From containment to harm reduction from SARS-CoV-2: a fabric mask for enhanced effectiveness, comfort, and compliance.
   doi: https://doi.org/10.1080/00405000.2020.1805971
-  ref 'Park_et_al_08_12_2020
+  article 'Park_et_al_08_12_2020
     head = We demonstrate the realization of a fabric mask that is form-fitting, customizable, washable, and could be worn continuously and routinely over extended periods of time by individuals and therefore could serve as an effective means to reduce the harm from SARS-CoV-2.
 
     >>> Abstract
@@ -692,7 +692,7 @@ feed Sangeeta
   # policy, public health, general benefits, general public
   // The facemask in public and healthcare workers: a need, not a belief
   doi: https://doi.org/10.1016/j.puhe.2020.05.009
-  ref 'Sergi_et_al_05_13_2020
+  article 'Sergi_et_al_05_13_2020
     head = All citizens should wear a mask. Although strict isolation and social distancing measures can flatten the infectious curve, the use of facemask needs to be encouraged and facilitated where the 6-feet social distancing cannot be implemented because of physical barriers. Preservation of N95 respirators for high-risk, aerosol-generating procedures in this pandemic should be considered when in short supply, but surgical facemasks should be provided to everybody.
     -- exports
       !a
@@ -704,7 +704,7 @@ feed Sangeeta
   # Custom-made 3D-printed face masks, Typefacemask, shortage
   // Custom-made 3D-printed face masks in case of pandemic crisis situations with a lack of commercially available FFP2/3 masks.
   doi: https://doi.org/10.1016/j.ijom.2020.03.015
-  ref 'Swennen_et_al_04_04_2020
+  article 'Swennen_et_al_04_04_2020
     head = This PoC illustrates that 3D printing of individualized 3D face masks in combination with FFP2/3 filter membranes is feasible and may prove a valid alternative resource. However, there are no data on virological validation, of either the individual fitting or the disinfection process and the number of times the face mask can safely be reused with new filter membranes and headbands.
 
     >>> Abstract
@@ -720,7 +720,7 @@ feed Sangeeta
   # policy
   // Use of facemasks during the COVID-19 pandemic.
   doi: https://doi.org/10.1016/S2213-2600(20)30352-0
-  ref 'Schunemann_et_al_08_03_2020
+  article 'Schunemann_et_al_08_03_2020
     head = The current best evidence includes the possibility of important relative and absolute benefits of wearing a facemask. Depending on the pandemic situation in a given geographical setting, the desirable consequences of wearing a facemask may or may not outweigh the undesirable consequences.
 
     -- exports
@@ -734,7 +734,7 @@ feed Sangeeta
   # Facemask shortage, Public health intervention, Universal facemask wearing policy
   // Facemask shortage and the novel coronavirus disease (COVID-19) outbreak: Reflections on public health measures.
   doi: https://doi.org/10.1016/j.eclinm.2020.100329
-  ref 'Wu_et_al_04_02_2020
+  article 'Wu_et_al_04_02_2020
     head = We provide a summary of the public health measures by the Chinese government concerning facemasks. Facemasks shortage, particularly for N95, would occur regardless of the implementation of a universal facemask wearing policy. The facemask shortage could be much more severe if a universal facemask wearing policy was implemented in the whole of China rather than the most severely affected areas. The shortage of N95 facemask were not alleviated under the existing public health measures.
 
     >>> Background
@@ -764,7 +764,7 @@ feed Sangeeta
   # Public health ethics, Air pollution, policy, community, air pollution disasters, face masks
   // Facemask use for community protection from air pollution disasters: An ethical overview and framework to guide agency decision making
   doi: https://doi.org/10.1016/j.ijdrr.2019.101376
-  ref 'McDonald_et_al_10_31_2019
+  article 'McDonald_et_al_10_31_2019
     head = This paper develops an ethical decision-making framework to assist agency deliberations. The framework consists of eight questions framed around ethical values, and a decision-making tree  which agencies can follow through the process from planning, to policy development and enactment and, finally, action in a crisis.
 
     >>> Abstract
@@ -777,7 +777,7 @@ feed Sangeeta
   # recharge, reuse, N95mask, empirical
   // Recharging and rejuvenation of decontaminated N95 masks featured.
   doi: https://doi.org/10.1063/5.0023940
-  ref 'Hossain_et_al_09_08_2020
+  article 'Hossain_et_al_09_08_2020
     head = Our results suggest that it is possible to recharge the masks post-sterilization and recover filtration efficiency.
 
     >>> Abstract
@@ -791,7 +791,7 @@ feed Sangeeta
   # Face coverings, Reuse, Sustainability, facemask,  economics, logistics
   // Unlocking the surge in demand for personal and protective equipment (PPE) and improvised face coverings arising from coronavirus disease (COVID-19) pandemic – Implications for efficacy, re-use and sustainable waste management
   doi: https://doi.org/10.1016/j.scitotenv.2020.142259
-  ref 'Rowan_et_al_09_10_2020
+  article 'Rowan_et_al_09_10_2020
     head = Social marketing will inform attitudes, barriers and acceptance of PPE reuse by healthcare workers. Post-COVID-19, the changes in medical practice will drive high demand for PPE. Sustainable PPE, made from bioplastics, will facilitate effective waste management and inform technology disruption.
 
     >>> Abstract
@@ -837,7 +837,7 @@ feed Sangeeta
   # community, healthcare workers, sick patients, Cloth mask, medical mask not effective, aerosolisation. nonsomical, 1–2 m of distance- not effective, droplets, airborne
   // A rapid systematic review of the efficacy of face masks and respirators against coronaviruses and other respiratory transmissible viruses for the community, healthcare workers and sick patients
   doi: https://doi.org/10.1016/j.ijnurstu.2020.103629
-  ref 'MacIntyre_et_al_04_21_2020
+  article 'MacIntyre_et_al_04_21_2020
     head = In the community, masks appeared to be effective with and without hand hygiene, and both together are more protective. Randomised controlled trials in health care workers showed that respirators, if worn continually during a shift, were effective but not if worn intermittently. Medical masks were not effective, and cloth masks even less effective. When used by sick patients randomised controlled trials suggested protection of well contacts.
 
     >>> Background
@@ -881,7 +881,7 @@ feed Sangeeta
   # no benefits of facemasks, counter to using facemask, hand washing, hand hygiene, general public, community
   // Response to ‘MacIntyre et al., 2020: A rapid systematic review of the efficacy of face masks and respirators against coronaviruses and other respiratory transmissible viruses for the community, healthcare workers and sick patient
   doi: https://dx.doi.org/10.1016%2Fj.ijnurstu.2020.103750
-  ref 'Haslam_et_al_08_19_2020
+  article 'Haslam_et_al_08_19_2020
     head = Of the seven separate randomized studies MacIntyre and Chughtai include in their review, none of them show a benefit of face mask use in the community to prevent the incidence of respiratory viruses, and the results of the sub-analyses are equivocal, sometimes suggesting that masks prevent virus transmission but other times increase transmission. There is little evidence to show that face masks prevent influenza and influenza-like illnesses.
 
     -- exports
@@ -919,7 +919,7 @@ feed Sangeeta
   # surgical  masks, respirator drawbacks
   // Respirators and surgical facemasks for COVID-19: implications for MRI
   doi: https://doi.org/10.1016/j.crad.2020.03.029
-  ref 'Murray_et_al_04_07_2020
+  article 'Murray_et_al_04_07_2020
     head = This study has shown that respirators used for COVID-19 protection have not been tested for MR (Magnetic Resonance) safety. Several commercially available respirators contain ferromagnetic components, and are thus regarded as “MRI unsafe”. Surgical masks offer a WHO approved safe alternative for MR staff in an MRI environment.
 
     --
@@ -932,7 +932,7 @@ feed Sangeeta
   # Effectives, Whofacemask, types of facemasks, surgical, faceshields
   // Considerations for Wearing Masks
   doi: http://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover.html
-  ref 'CDC_08_07_2020
+  article 'CDC_08_07_2020
     head = This document provides considerations for wearing masks that will help slow the spread of Covid19: Effectives of masks, who should and should not wear a mask, fleasibility and adaptations, masks with exhalation valves or vents, faceshields and surgical masks.
 
     -- exports
@@ -955,7 +955,7 @@ feed Sangeeta
   # homemade masks, cotton fabric, design, clothmask, ask ayush about the date
   // How to Make Masks
   doi: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-to-make-cloth-face-covering.html
-  ref 'CDC_07_06_2020
+  article 'CDC_07_06_2020
     head = This document provides tutorial on how to make homemade masks using washable, breathable fabric.
 
     / July, 2020 - CDC
@@ -967,7 +967,7 @@ feed Sangeeta
   # viral inoculum, asymptomatic infection, GeneralBenefits, face masks,
   // Masks Do More Than Protect Others During COVID-19: Reducing the Inoculum of SARS-CoV-2 to Protect the Wearer
   doi: https://doi.org/10.1007/s11606-020-06067-8
-  ref 'Gandhi_et_al_07_31_2020
+  article 'Gandhi_et_al_07_31_2020
     head = Our theory is based on the likelihood of masking reducing the viral inoculum to which the mask-wearer is exposed, leading to higher rates of mild or asymptomatic infection with COVID-19. This could lead to greater community-level immunity and slower spread as we await a vaccine.
 
     >>> Abstract
@@ -1003,7 +1003,7 @@ feed Sangeeta
   # MECHANISM
   // A Rosetta Stone for Understanding Infectious Drops and Aerosols
   doi: https://doi.org/10.1093/jpids/piaa079
-  ref 'Milton_et_al_07_24_2020
+  article 'Milton_et_al_07_24_2020
     head = The vocabulary used in exposure science and industrial hygiene to describe aerosols and their respiratory tract deposition does not correspond well to the way the terms “respiratory droplets” and “aerosols” are frequently used by the medical infectious disease community. The resulting communication difficulty hampers effective and timely collaborative efforts. The aim of this document is to come to a better and ultimately transdisciplinary understanding of the modes of respiratory infection transmission.
 
 
@@ -1015,7 +1015,7 @@ feed Sangeeta
   # mitigation, hospitals and health-care buildings, nonsomical
   // COVID-19: mitigating transmission via wastewater plumbing systems
   doi: https://doi.org/10.1016/S2214-109X(20)30112-1
-  ref 'Gormley_et_al_03_23_2020
+  article 'Gormley_et_al_03_23_2020
     head = The potential for a substantial viral load within the wastewater plumbing system (and therefore the main sewer system), in combination with the potential for airborne transmission due to aerosolisation of the virus, calls for wastewater plumbing systems to be considered as a potential transmission pathway for COVID-19. The interconnectedness of the wastewater plumbing network can facilitate exposure to SARS-CoV-2 within, or even between, buildings. This is of particular concern in high-risk transmission settings such as hospitals and health-care buildings.
 
     -- exports
@@ -1051,7 +1051,7 @@ feed Sangeeta
 
   // Violent expiratory events: on coughing and sneezing.
   doi: https://doi.org/10.1017/jfm.2014.88
-  ref 'Bourouiba_et_al_02_24_2014
+  article 'Bourouiba_et_al_02_24_2014
     head = Our study highlights the importance of the multiphase nature of respiratory clouds, specifically the suspension of the smallest drops by circulation within the cloud, in extending the range of respiratory pathogens.
 
     >>> Abstract
@@ -1065,7 +1065,7 @@ feed Sangeeta
   # mitigation, airplane,
   // Routes of transmission of influenza A H1N1, SARS CoV, and norovirus in air cabin: Comparative analyses
   doi: https://doi.org/10.1111/ina.12445
-  ref 'Lei_et_al_12_15_2017
+  article 'Lei_et_al_12_15_2017
     head = Our identification of the dominated routes, that is the close contact route (large droplet) for influenza, the fomite route for norovirus, and all 3 routes for SARS CoV, suggested the relative importance of different environment intervention for different infectious diseases in air cabins and probably also in other indoor environments. For minimizing in‐flight fomite transmission, the aisle seatbacks and toilets should be cleaned and disinfected effectively.
 
     >>> Abstract
@@ -1099,7 +1099,7 @@ feed Sangeeta
   # Ventilation, Temperature, mechanism
   // Prediction of natural ventilation in buildings with large openings
   doi: https://doi.org/10.1016/S0360-1323(99)00011-6
-  ref 'Li_et_al_02_08_1999
+  article 'Li_et_al_02_08_1999
     head = A basic and consistent pressure-based formulation is firstly revisited for natural ventilation of multi-zone buildings with multiple openings for both buoyancy and wind-driven flows.  A simple and easy implementation method is then presented for the simplest situation of bi-directional flows,, i.e. the temperature in each zone is uniform. A reasonable agreement has been found between the results predicted by the pressure-based formulation and those predicted by the analytical solutions and Computational Fluid Dynamics (CFD) methods.
 
 
@@ -1115,7 +1115,7 @@ feed Sangeeta
   # 9 infected patients,fecal aerosol transmission, close contact, travel, toilet, china, mitigation
   // Probable Evidence of Fecal Aerosol Transmission of SARS-CoV-2 in a High-Rise Building
   doi: https://doi.org/10.7326/M20-0928
-  ref 'Kang_et_al_09_01_2020
+  article 'Kang_et_al_09_01_2020
     head = We report an outbreak of 9 confirmed cases of COVID-19 between 26 January 2020 and 13 February 2020 in 3 vertically aligned flats in a high-rise building (block X) in Guangzhou, China, during a period of social distancing. The infection source for patients in flat 2502 and 2702 was probably the master bathroom of flat 1502, and virus-containing fecal aerosols were probably produced in the associated vertical stack during toilet flushing after use by the index patients. Wastewater plumbing systems, particularly those in high-rise buildings, deserve closer investigation, both immediately in the context of SARS-CoV-2 and in the long term, because they may be a reservoir for other harmful pathogens.
 
     >>> Background
@@ -1179,7 +1179,7 @@ feed Sangeeta
   # no mask, Dinner, Toilet, Trip, temple, Travel, Bus, China, Outdoor, Air Condition,Close contact, Outbreak, Spouse, Airborne
   // Community Outbreak Investigation of SARS-CoV-2 Transmission Among Bus Riders in Eastern China
   doi: https://doi.org/10.1001/jamainternmed.2020.5225
-  ref 'Shen_et_al_09_01_2020
+  article 'Shen_et_al_09_01_2020
     head = In this cohort study of 128 individuals who rode 1 of 2 buses and attended a worship event, those who rode a bus with air recirculation and with a patient with COVID-19 had an increased risk of SARS-CoV-2 infection compared with those who rode a different bus. Airborne spread of SARS-CoV-2 seems likely to have contributed to the high attack rate in the exposed bus. Future efforts at prevention and control must consider the potential for airborne spread of the virus.
 
     >>> Importance
@@ -1216,7 +1216,7 @@ feed Sangeeta
   # Disinfection, Wastewater, Airborne, counter to airbourne
   // Persistence of SARS-CoV-2 in the environment and COVID-19 transmission risk from environmental matrices and surfaces
   doi: https://doi.org/10.1016/j.envpol.2020.115010
-  ref 'Carraturo_et_al_06_09_2020
+  article 'Carraturo_et_al_06_09_2020
     head = COVID-19 airborne transmission has not been yet demonstrated; fecal shedding has been reported from some patients, although the viability of the virus has been evidenced at low levels. Virus persistance in water, wastewater, and sludge results very low with temperatures higher than 20 °C, and the inactivation rate of Coronavirus is usually higher than other examined viruses.
 
     >>> Abstract
@@ -1241,7 +1241,7 @@ feed Sangeeta
   # Indoor air quality, Offices, air pollutant
   // Characterization of Particulate Emissions from Occupant Activities in Offices
   doi: https://doi.org/10.1034/j.1600-0668.2001.011001035.x
-  ref 'Luoma_et_al_07_07_2008
+  article 'Luoma_et_al_07_07_2008
     head = This study associated occupant activities, recorded on video, with changes in indoor particle concentrations, monitored by optical particle counters. Consistent and statistically robust estimates of impacts for .1 mm particles were derived for several occupant activities, such as visits and walks past the monitoring site and room occupancy. Number concentrations of particles smaller than 1 mm had little correlation with indoor activities other than cigarette smoking and were highly correlated with outdoor levels.
 
     >>> Abstract
@@ -1262,7 +1262,7 @@ feed Sangeeta
   # airplane transmission, 10 ppl,
   // In-flight Transmission Cluster of COVID-19: A Retrospective Case Series
   doi: https://doi.org/10.1101/2020.03.28.20040097
-  ref 'Yang_et_al_03_30_2020
+  article 'Yang_et_al_03_30_2020
     head = The symptoms of COVID-19 patients infected in this flight were relatively mild. Most likely time for transmission in the ten passengers was during or immediately before the flight. Transmission on an aircraft of SARS-CoV-2 might occur when COVID-19 patients fly, especially during the symptomatic phase of illness.
 
     >>> Objectives
@@ -1292,7 +1292,7 @@ feed Sangeeta
   # On May 1, 2020, this report was posted online as an MMWR Early Release.,  4,913 cases and 20 deaths occurred, mitigation - indoor ?
   // COVID-19 Among Workers in Meat and Poultry Processing Facilities - 19 States, April 2020
   doi: https://doi.org/10.15585/mmwr.mm6918e3
-  ref 'Dyal_et_al_05_08_2020
+  article 'Dyal_et_al_05_08_2020
     head = Among approximately 130,000 workers at 115 meat and poultry processing facilities facilities, 4,913 cases and 20 deaths occurred. Factors potentially affecting risk for infection include difficulties with workplace physical distancing (6 feet (2 meters)) and hygiene and crowded living and transportation conditions.
 
     -- exports
@@ -1310,7 +1310,7 @@ feed Sangeeta
   # 2m distancing, physical distancing, mechanism, mitigation, social distancing
   // Two metres or one: what is the evidence for physical distancing in covid-19?
   doi: https://doi.org/10.1136/bmj.m3223
-  ref 'Jones_et_al_08_25_2020
+  article 'Jones_et_al_08_25_2020
     head = Distribution of viral particles is affected by numerous factors, including air flow. Evidence suggests SARS-CoV-2 may travel more than 2 m through activities such as coughing and shouting. Rules on distancing should reflect the multiple factors that affect risk, including ventilation, occupancy, and exposure time.
 
     / August, 2020 - BMJ
@@ -1321,7 +1321,7 @@ feed Sangeeta
   # 9 ppl, 2 secondary rate, household, spouse, Outbreak, Close contact, USA
   // Enhanced Contact Investigations for Nine Early Travel-Related Cases of SARS-CoV-2 in the United States
   doi: https://doi.org/10.1101/2020.04.27.20081901
-  ref 'Burke_et_al_05_03_2020
+  article 'Burke_et_al_05_03_2020
     head = The enhanced contact tracing investigations identified two cases of secondary transmission, both spouses. The results suggest that the risk of secondary COVID-19 infection is high among close household contacts of confirmed COVID-19 patients, especially significant others.
 
     >>> Background
@@ -1347,7 +1347,7 @@ feed Sangeeta
   # 10 ppl,  airborne transmission, aerosol transmission, building ventilation, Family, Outbreak, Close contact, Restaurant, Hotel, Ventilation, China, Outdoor, Fomite, Aerosol
   // Evidence for probable aerosol transmission of SARS-CoV-2 in a poorly ventilated restaurant
   doi: https://doi.org/10.1101/2020.04.16.20067728
-  ref 'Li_et_al_04_22_2020
+  article 'Li_et_al_04_22_2020
     head = We analysed an outbreak involving three non-associated families in Restaurant X in Guangzhou, China. Our results support the probability of an extended short-range aerosol spread of the SARSCoV-2 having occurred in the poorly ventilated and crowded Restaurant.
 
 
@@ -1372,7 +1372,7 @@ feed Sangeeta
   # close-contact transmission, fomite transmission, airborne transmission, building ventilation,  146 infected cases, Outbreak, Close contact, Cruise, Outdoor, Air Condition
   // Transmission routes of Covid-19 virus in the Diamond Princess Cruise ship.
   doi: https://doi.org/10.1101/2020.04.09.20059113
-  ref 'Xu_et_al_04_14_2020
+  article 'Xu_et_al_04_14_2020
     head = We infer that the ship central air conditioning system did not play a role, i.e. the long-range airborne route was absent in the outbreak. Most transmission appears to have occurred through close contact and fomites.
 
     >>> Background
@@ -1395,7 +1395,7 @@ feed Sangeeta
   # Air Pollution; Particulate Matter; super-spread event; Italy.
   // The Potential Role of Particulate Matter in the Spreading of COVID-19 in Northern Italy: First Evidence-Based Research Hypotheses.
   doi: https://doi.org/10.1101/2020.04.11.20061713
-  ref 'Setti_et_al_04_17_2020
+  article 'Setti_et_al_04_17_2020
     head = The acceleration of the growth rate observed in Milan could be attributed to a “boost effect” (a kind of exceptional “super-spread event”) on the viral infectivity of COVID-19, corresponding to the peaks of particulate matter. Particulate matter could be regarded as an indicator of the severity of COVID-19 infection in terms of diffusion and health outcomes.
 
 
@@ -1423,7 +1423,7 @@ feed Sangeeta
   # Head is taken from somewhere else, written in own language, Droplets, mechanism, facemasks, 3-6ft dist
   // Turbulent Gas Clouds and Respiratory Pathogen Emissions: Potential Implications for Reducing Transmission of COVID-19.
   doi: https://doi.org/10.1001/jama.2020.4756
-  ref 'Bourouiba_et_al_03_26_2020
+  article 'Bourouiba_et_al_03_26_2020
     head = We analysed direct high-speed imaging of human sneezes and coughs and noted the importance of the exhalation gas cloud in transporting all drops forward. The study shows that although the largest droplets visible with the naked eye (order of millimeters) rapidly settled within 1-2 metres, the other droplets could be observed in air 6-8 metres away. This shows the potential for viral particles to be projected extensively in a room within seconds of their emission.
 
     -- exports
@@ -1453,7 +1453,7 @@ feed Sangeeta
   # Primary, Family, Secondary, Spouse, Household
   // Household Transmission of SARS-CoV-2 in the United States
   doi: https://doi.org/10.1093/cid/ciaa1166
-  ref 'Lewis_et_al_08_16_2020
+  article 'Lewis_et_al_08_16_2020
     head = Transmission occurred in 55% of households, the secondary infection rate was 29% among household contacts. Increased infection risk among children and spouses, household contacts with an immunocompromising condition, with diabetes mellitus of primary patients, and household contacts of male primary patients.
 
     >>> Background
@@ -1476,7 +1476,7 @@ feed Sangeeta
   # 110 HCWs, Family, asymptomatic, Outbreak, Symptomatic, Hospital, China, Wuhan hospital
   // Coronavirus Disease 2019 (COVID-2019) Infection Among Health Care Workers and Implications for Prevention Measures in a Tertiary Hospital in Wuhan, China
   doi: https://doi.org/10.1001/jamanetworkopen.2020.9666
-  ref 'Lai_et_al_05_21_2020
+  article 'Lai_et_al_05_21_2020
     head = 110 of 9684 health care workers had COVID-19, a higher rate of infection was found among those working in the low-contagion area during the early stage of the disease outbreak, especially among nurses younger than 45 years. Contact with indexed patients, colleagues with infection as well as community-acquired infection were the main routes of exposure for HCWs.
 
     >>> Objectives
@@ -1502,7 +1502,7 @@ feed Sangeeta
   # Respiratory droplet, indoor air, coughing, environmental ventilation, close contact, indoor, airborne
   // Airborne spread of infectious agents in the indoor environment
   doi: https://doi.org/10.1016/j.ajic.2016.06.003
-  ref 'Wei_et_al_09_02_2016
+  article 'Wei_et_al_09_02_2016
     head = We propose that the short-range airborne route may be important in close contact, and its control may be achieved by face masks for the source patients and use of personalized ventilation. We have shown the opportunities for infection control at different stages of the spread.
 
 
@@ -1536,7 +1536,7 @@ feed Sangeeta
   # close contact; human behavior; immediate body surfaces; large droplets; short-range airborne
   // Close contact behavior in indoor environment and transmission of respiratory infection
   doi: https://doi.org/10.1111/ina.12673
-  ref 'Zhang_et_al_04_07_2020
+  article 'Zhang_et_al_04_07_2020
     head = We synthesize the existing understanding of the mechanisms of close contact transmission. We propose the existence of three sub‐routes: short‐range airborne, large droplets, and immediate body‐surface contact; and demonstrate that the short‐range airborne sub‐route may be most common.
 
     >>> Abstract
@@ -1552,7 +1552,7 @@ feed Sangeeta
   # Meat Processing Plant, Secondary, Cluster, Outbreak, Superspread, aerosol transmission, shared living
   // Investigation of a superspreading event preceding the largest meat processing plant-related SARS-Coronavirus 2 outbreak in Germany
   doi: http://dx.doi.org/10.2139/ssrn.3654517
-  ref 'Guenther_et_al_07_23_2020
+  article 'Guenther_et_al_07_23_2020
     head = Results collectively point towards a superspreading event in the MPP-R beef processing plant that originated from a single employee. Our study indicates that transmission of SARS-CoV-2 can occur over distances of at least 8m in confined spaces under conditions of relatively low air exchange rates and high rates of recirculated unfiltered air. It points to the importance of air quality/flow in confined spaces to prevent future superspreading events.
 
 
@@ -1579,7 +1579,7 @@ feed Sangeeta
   # school reopening, black children, low-income households, teachers
   // Risk for Severe COVID-19 Illness Among Teachers and Adults Living With School-Aged Children
   doi: https://doi.org/10.7326/M20-5413
-  ref 'Gaffney_et_al_08_21_2020
+  article 'Gaffney_et_al_08_21_2020
     head = About 40 million U.S. adults who work or live with school-aged children have definite or possible risk factors. Adults living with Black children and those living with children in low-income households are at especially high risk; teachers' risk seems similar to that of other working adults. Our findings underscore the need for careful consideration of and preparation for school reopenings this fall.
 
     -- exports
@@ -1605,7 +1605,7 @@ feed Sangeeta
   # 23 ppl, nursing facility, presymptomatic, asymptomatic, Symptomatic
   // Asymptomatic and Presymptomatic SARS-CoV-2 Infections in Residents of a Long-Term Care Skilled Nursing Facility — King County, Washington, March 2020
   doi: http://dx.doi.org/10.15585/mmwr.mm6913e1
-  ref 'Kimball_et_al_04_03_2020
+  article 'Kimball_et_al_04_03_2020
     head = Facility-wide testing identified a 23 prevalence of infection among residents, indicating very rapid spread, despite early adoption of infection prevention and control measures. Approximately half of all residents with positive test were asymptomatic or presymptomatic on the day of testing.
 
 
@@ -1617,7 +1617,7 @@ feed Sangeeta
   # stainless steel, cloth, paper, and tissues, evironmental contamination
   // Survival of influenza viruses on environmental surfaces.
   doi: https://doi.org/10.1093/infdis/146.1.47
-  ref 'Bean_et_al_07_01_2020
+  article 'Bean_et_al_07_01_2020
     head = The observations suggest that the transmission of virus from donors who are shedding large amounts could occur for 2–8 hr via stainless steel surfaces and for a few minutes via paper tissues. Thus, under conditions of heavy environmental contamination, the transmission of influenza virus via fomites may be possible.
 
     >>> Abstract
@@ -1638,7 +1638,7 @@ feed Sangeeta
   # transmission, Close contact, Short-range airborne, Large droplet, Droplet, Airborne, talking, coughing- i have put it in mechanism
   // Short-range airborne route dominates exposure of respiratory infection during close contact
   doi: https://doi.org/10.1016/j.buildenv.2020.106859
-  ref 'Chen_et_al_08_01_2020
+  article 'Chen_et_al_08_01_2020
     head = The large droplet route has been shown to be negligible compared with the short-range airborne route, at least for expired droplets smaller than 100 μm in size at the mouth of the infected.
 
     >>> Abstract
@@ -1671,7 +1671,7 @@ feed Sangeeta
   # Aerosol; Indoor; Humidity
   // An Overview on the Role of Relative Humidity in Airborne Transmission of SARS-CoV-2 in Indoor Environments
   doi: https://doi.org/10.4209/aaqr.2020.06.0302
-  ref 'Ahlawat_et_al_07_21_2020
+  article 'Ahlawat_et_al_07_21_2020
     head = In dry indoor places i.e., less humidity (< 40% RH), the chances of airborne transmission of SARS-CoV-2 are higher than that of humid places (i.e., > 90% RH). Based on earlier studies, a relative humidity of 40–60% was found to be optimal for human health in indoor places.
 
     >>> Abstract
@@ -1686,7 +1686,7 @@ feed Sangeeta
   # family cluster, presymptomatic, Family, Symptomatic, Spouse, Dinner, Conference, China, shared food, - should we make presymptomatic and asymptomatic transmission?
   // Potential Presymptomatic Transmission of SARS-CoV-2, Zhejiang Province, China, 2020
   doi: https://doi.org/10.3201/eid2605.200198
-  ref 'Tong_et_al_03_09_2020
+  article 'Tong_et_al_03_09_2020
     head = We identified 2 persons with confirmed cases of symptomatic COVID-19 after their exposure to a potentially presymptomatic person who was later diagnosed with laboratory-confirmed COVID-19. These 2 persons later transmitted SARS-CoV-2 to 3 family members, who did not report symptoms at the time their SARS-CoV-2 infections were detected.
 
     >>> Abstract
@@ -1700,7 +1700,7 @@ feed Sangeeta
   # asymptomatic, Outbreak, Symptomatic
   // SARS-CoV-2 Transmission and Infection Among Attendees of an Overnight Camp — Georgia, June 2020
   doi: http://dx.doi.org/10.15585/mmwr.mm6931e1
-  ref 'Szablewski_et_al_08_07_2020
+  article 'Szablewski_et_al_08_07_2020
     head = Findings demonstrate that SARS-CoV-2 spread efficiently in a youth-centric overnight setting, resulting in high attack rates among persons in all age groups. Asymptomatic infection was common and potentially contributed to undetected transmission. The multiple measures adopted by the camp were not sufficient to prevent an outbreak in the context of substantial community transmission.
 
 
@@ -1712,7 +1712,7 @@ feed Sangeeta
   # dental practice, airborne
   // Transmission routes of 2019-nCoV and controls in dental practice
   doi: https://doi.org/10.1038/s41368-020-0075-9
-  ref 'Peng_et_al_03_03_2020
+  article 'Peng_et_al_03_03_2020
     head = We have summarized the possible transmission routes- airborne spread, contact spread, and contaminated surface spread and preventive measures during dental diagnosis and treatment: patient evaluation, hand hygiene, personal protective measures, mouthrinse before dental procedures, rubber dam isolation, anti-retraction handpiece, disinfection of the clinic settings, and management of medical waste.
 
     >>> Abstract
@@ -1727,7 +1727,7 @@ feed Sangeeta
   # school, household, secondary,  cluster, smokers
   // Cluster of COVID-19 in northern France: A retrospective closed cohort study
   doi: https://doi.org/10.1101/2020.04.18.20071134
-  ref 'Fontanet_et_al_04_23_2020
+  article 'Fontanet_et_al_04_23_2020
     head = The relatively low infection attack rate (IAR) (25.9%) observed in an area where SARS-CoV-2 actively circulated weeks before confinement measures and the low prevalence of antibodies among blood donors in the vicinity indicates that establishing herd immunity will take time, and that lifting these measures in France will be long and complex.
 
     >>> Background
@@ -1754,7 +1754,7 @@ feed Sangeeta
   # 13 ppl, business meeting, hand shaking, face-to-face contact, transmission, Germany, droplets
   // Transmission from Presymptomatic Meeting Attendee, Germany.
   doi: https://doi.org/10.3201/eid2608.201235
-  ref 'Hijnen_et_al_05_11_2020
+  article 'Hijnen_et_al_05_11_2020
     head = During a meeting at a hotel in Munich, Germany, a presymptomatic attendee with SARS-Cov2 infected at least 11 of 13 other participants. Our findings indicate that hand shaking, aerosolization, and face-to-face contact may be relevant modes of transmission in this COVID-19 outbreak.
 
     / May, 2020 - Emerg Infect Dis.
@@ -1765,7 +1765,7 @@ feed Sangeeta
   # 2-48 cases, Transmission clusters, geographic location, business meeting, private dinner, indoor, imported cases, Secondary cases, temporary sustained transmission
   // Real-time monitoring the transmission potential of COVID-19 in Singapore, March 2020
   doi: https://doi.org/10.1186/s12916-020-01615-9
-  ref 'Tariq_et_al_02_20_2020
+  article 'Tariq_et_al_02_20_2020
     head = 18 different clusters of COVID19 cases with 2–48 cases per cluster have been reported in Singapore (Medical store, hotel, restaurant, construction site, office space, church, gym). Our current findings point to temporary sustained transmission of SARS-CoV-2, with our most recent estimate of the effective reproduction number lying below 1.02.
 
     >>> Background
@@ -1789,7 +1789,7 @@ feed Sangeeta
   # Cluster, Outbreak, Superspread, Church, # Epidemics - South Korea, # Index patient !a
   // Transmission potential and severity of COVID-19 in South Korea
   doi: https://doi.org/10.1016/j.ijid.2020.03.031
-  ref 'Shim_et_al_03_17_2020
+  article 'Shim_et_al_03_17_2020
     head = We identified four major clusters and estimated the reproduction number at 1.5. Our results indicate an early sustained transmission of COVID-19 in South Korea and support the implementation of social distancing measures to rapidly control the outbreak.
 
     >>> Objectives
@@ -1823,7 +1823,7 @@ feed Sangeeta
   # religious gathering, close contact, spouse, symptomatic, secondary attack rate, workplace, social settings, indoor, travel history, shared eating- I have put it household, religious gatherings
   // SARS-CoV-2 transmission in different settings: Analysis of cases and close contacts from the Tablighi cluster in Brunei Darussalam.
   doi: https://doi.org/10.1101/2020.05.04.20090043
-  ref 'Chaw_et_al_07_10_2020
+  article 'Chaw_et_al_07_10_2020
     head = We report the transmission dynamics of SARS-CoV-2 across different settings (household, workplace, social settings) from the initial COVID-19 cluster in Brunei, arisen from 19 attendees at the Malaysian Tablighi Jama′at gathering and resulted in 52 locally transmitted cases. Highest secondary rate was observed in religious gathering and household. Low attack rate was observed in workplace and social settings.
 
     >>> Abstract
@@ -1852,7 +1852,7 @@ feed Sangeeta
   # household, close contact, spouse, secondary attack rate, 64 ppl, symptomatic
   // Characteristics of Household Transmission of COVID-19
   doi: https://doi.org/10.1093/cid/ciaa450
-  ref 'Li_et_al_04_17_2020
+  article 'Li_et_al_04_17_2020
     head = We used a household cohort study to determine the features of household transmission of COVID-19. Secondary transmission of SARS-CoV-2 developed in 64 of 392 household contacts (16.3%). Age of household contacts and spousal relationship to the index case are risk factors for transmission of SARS-CoV-2 within a household.
 
     >>> Background
@@ -1882,7 +1882,7 @@ feed Sangeeta
   # ventilation, indoor - mitigation
   // Air flow and particle control with different ventilation systems in a classroom
   doi: https://doi.org/10.1034/j.1600-0668.2003.00186.x
-  ref 'Holmberg_et_al_05_19_2003
+  article 'Holmberg_et_al_05_19_2003
     head = The numerical results indicate that when settling (re-suspended) particles occur in the room they can easily be brought into the breathing zone by the strong convective heat plumes around persons. Our results indicate that an additional exhaust outlet below the breathing zone can control high particle concentrations in the breathing zone.
 
     >>> Abstract
@@ -1901,7 +1901,7 @@ feed Sangeeta
   # dental public health, mitigtion, infection control, virology
   // COVID-19 Transmission in Dental Practice: Brief Review of Preventive Measures in Italy
   doi: https://doi.org/10.1177/0022034520920580
-  ref 'Izzetti_et_al_04_17_2020
+  article 'Izzetti_et_al_04_17_2020
     head = We aim to discuss the risks related to dental practice and current recommendations for dental practitioners. Recommendations based on the Italian experience in terms of patient triage, patients’ entrance into the practice, dental treatment, and after-treatment management are reported and discussed.
 
     >>> Abstract
@@ -1916,7 +1916,7 @@ feed Sangeeta
   # Police force, public policy
   // Understanding the Incidence of Covid-19 among the police force in Maharashtra through a mixed approach
   doi: https://doi.org/10.1101/2020.06.11.20125104
-  ref 'Kokane_et_al_06_16_2020
+  article 'Kokane_et_al_06_16_2020
     head = Period Prevalence Rate (PPR), Case Recovery Rate (CRR) and Case Fatality Rate (CFR) have consistently increased and CRR found lower among police than the general population. Immediate  interventions need to be provided by the government to control the risk of infection among police.
 
     >>> Background
@@ -1939,7 +1939,7 @@ feed Sangeeta
   # homelessness, public policy
   // COVID-19: a potential public health problem for homeless populations
   doi: https://doi.org/10.1016/S2468-2667(20)30053-0
-  ref 'Tsai_et_al_03_11_2020
+  article 'Tsai_et_al_03_11_2020
     head = Cities with large homeless populations might face unique challenges while trying to contain COVID-19 and addressing homelessness, with the potential for both issues to exacerbate one another.
 
 
@@ -1951,7 +1951,7 @@ feed Sangeeta
   #  Housefly, Cockroach, Mechanical Transmission
   // A Brief Review on the Possible Role of Houseflies and Cockroaches in the Mechanical Transmission of Coronavirus Disease 2019 (COVID-19)"
   doi: https://doi.org/10.5812/archcid.102863
-  ref 'Dehghani_et_al_03_24_2020
+  article 'Dehghani_et_al_03_24_2020
     head = Cockroaches and houseflies are major mechanical vectors of pathogens and may transmit the disease by contact with contaminated surfaces or the feces of infected individuals. This study is aimed to investigate the possibility of COVID-19 transmission by houseflies and cockroaches.
 
     / March, 2020 - Arch Clin Infect Dis.
@@ -1961,7 +1961,7 @@ feed Sangeeta
   # airborne transmission, nonsomical, droplets,
   // Transmission of COVID-19 virus by droplets and aerosols: A critical review on the unresolved dichotomy
   doi: https://doi.org/10.1016/j.envres.2020.109819
-  ref 'Jayaweera_et_al_06_10_2020
+  article 'Jayaweera_et_al_06_10_2020
     head = This review paper intends to outline the literature concerning the transmission of virus-laden droplets and aerosols in different environmental settings and demonstrates the behavior of droplets and aerosols resulted from a cough-jet of an infected person in various confined spaces.
 
     >>> Abstract
@@ -1982,7 +1982,7 @@ feed Sangeeta
   # Built Environment, Public Space - i have put this in public policy: social beh and public space; Journal name?
   // The Impact of COVID-19 on Public Space: A Review of the Emerging Questions
   doi: https://doi.org/10.31219/osf.io/rf7xa
-  ref 'Rosés_et_al_04_21_2020
+  article 'Rosés_et_al_04_21_2020
     head = It is possible that the COVID-19 crisis may fundamentally change our relationship with public space. We review how our current COVID-19 public health crisis may change public space design, perceptions and use and management. The impacts are likely to vary by city and within them.
 
     >>> Abstract
@@ -1996,7 +1996,7 @@ feed Sangeeta
   # Super-spreading, Transmission clusters, check the journal name, secondary case clusters- assertion?
   // Inferring super-spreading from transmission clusters of COVID-19 in Hong Kong, Japan, and Singapore
   doi: https://doi.org/10.1016/j.jhin.2020.05.027
-  ref 'Kwok_et_al_05_21_2020
+  article 'Kwok_et_al_05_21_2020
     head = Results suggest that SARS-CoV-2 transmission in HK, JP and SG was not over-dispersed as of March 3rd, 2020 (with relatively large values of k), so there was no strong evidence for the presence of Super spreading events.
 
     / May, 2020 - The Healthcare Infection Society
@@ -2007,7 +2007,7 @@ feed Sangeeta
   # ocular surface, ocular transmission
   // COVID-19 and the Ocular Surface: A Review of Transmission and Manifestations
   doi: https://doi.org/10.1080/09273948.2020.1772313
-  ref 'Ho_et_al_06_16_2020
+  article 'Ho_et_al_06_16_2020
     head = The exact pathophysiology of ocular transmission of the virus remains incompletely understood, although there is preliminary evidence of SARS-CoV-2 being detected in ocular secretions. Ocular surface manifestations such as conjunctivitis are more commonly reported.
 
     >>> Purpose
@@ -2027,7 +2027,7 @@ feed Sangeeta
   # indoor air quality, physical exercise
   // Indoor air quality of environments used for physical exercise and sports practice: Systematic review
   doi: https://doi.org/10.1016/j.jenvman.2017.11.001
-  ref 'Andrade_et_al_11_02_2017
+  article 'Andrade_et_al_11_02_2017
     head = Studies that examined the association between air quality and health demonstrated the negative effects of pollution. The concentration of indoor pollutants was higher than that of outdoor pollutants. During physical exercise, air quality is influenced by human occupation and the intensity of exercise.
 
     >>> Background
@@ -2053,7 +2053,7 @@ feed Sangeeta
   # Exercise stress
   // Exercise stress increases susceptibility to influenza infection
   doi: https://doi.org/10.1016/j.bbi.2008.06.004
-  ref 'Murphy_et_al_06_21_2008
+  article 'Murphy_et_al_06_21_2008
     head = This study used an established mouse model of short-term of severe exercise training and respiratory infection to examine the effects of stressful exercise on susceptibility to influenza virus. The results indicates that 3 days of exhaustive exercise on a treadmill can result in an increase in susceptibility to influenza virus.
 
     >>> Abstract
@@ -2067,7 +2067,7 @@ feed Sangeeta
   # Gyms
   // Exercise and outdoor ambient air pollution
   doi: http://dx.doi.org/10.1136/bjsm.35.4.214
-  ref 'Carlisle_et_al_02_20_2020
+  article 'Carlisle_et_al_02_20_2020
     head = The respiratory physiology of exercise suggests that athletes and other exercisers may experience magnified exposure to ambient air pollution.
 
     >>> Objectives
@@ -2126,7 +2126,7 @@ feed Sangeeta
   # check date, not sure- have put it in gyms
   // The respiratory muscles during exercise
   doi: https://doi.org/10.1183/20734735.008116
-  ref 'Aliverti_et_al_06_2016
+  article 'Aliverti_et_al_06_2016
     head = The main features of respiratory muscle action during exercise are explained- TLC: total lung capacity; EILV: end-inspiratory lung volume; EELV: end-expiratorylung volume; RV: residual volume.
 
     / June, 2020 - Breathe
@@ -2137,7 +2137,7 @@ feed Sangeeta
   # mechanism
   // Experiments with Self-Organised Simulation of Movement of Infectious Aerosols in Buildings
   doi:  https://doi.org/10.3390/su12125204
-  ref 'Jankovic_et_al_06_25_2020
+  article 'Jankovic_et_al_06_25_2020
     head = Droplets can travel much further than the social distancing measure of 2 m; it can be suspended in the air over longer periods of time; that turbulent air flow can contribute to the infectious aerosols remaining in the room; and that unidirectional air flow can contribute to purging the room of the infectious aerosols.
 
     >>> Abstract
@@ -2151,7 +2151,7 @@ feed Sangeeta
   # public policy
   // Managing COVID-19 in Low- and Middle-Income Countries
   doi: https://doi.org/10.1001/jama.2020.4169
-  ref 'Hopman_et_al_05_16_2020
+  article 'Hopman_et_al_05_16_2020
     head = In low- and middle-income countries, infection prevention and control programs (IPC) must be strengthened by ensuring that at least minimum requirements for IPC are in place early, and media partnerships should be created to prevent societal fear.
 
     / May, 2020 - bioRxiv
@@ -2161,7 +2161,7 @@ feed Sangeeta
   # mass gatherings
   // Transmission of SARS-CoV-2 and Other Infections at Large Sports Gatherings: A Surprising Gap in Our Knowledge
   doi: https://doi.org/10.3389/fmed.2020.00277
-  ref 'Sassano_et_al_05_29_2020
+  article 'Sassano_et_al_05_29_2020
     head = Within Lombardy, the province of Bergamo is among the hardest-hit in the country while the reason remains uncertain, several commentators including the local mayor, have pointed to a football match.
 
     / May, 2020 - Front. Med.
@@ -2172,7 +2172,7 @@ feed Sangeeta
   # cluster of 5 ppl, sports
   // Possible indirect transmission of COVID-19 at a squash court, Slovenia, March 2020: case report
   doi: https://doi.org/10.1017/S0950268820001326
-  ref 'Brlek_et_al_06_19_2020
+  article 'Brlek_et_al_06_19_2020
     head = Epidemiological investigation revealed a cluster of five COVID-19 cases. Data raises possibility that the transmission occurred indirectly through contaminated objects in changing room or squash hall (doorknobs, clothes stands) or via aerosolisation in squash hall.
 
     >>> Abstract
@@ -2186,7 +2186,7 @@ feed Sangeeta
   # Airborne transmission, mitigation- a
   // Airborne transmission of SARS-CoV-2: The world should face the reality.
   doi: https://doi.org/10.1016/j.envint.2020.105730
-  ref 'Morawska_et_al_04_10_2020
+  article 'Morawska_et_al_04_10_2020
     head = Based on the trend in the increase of infections, and understanding the basic science of viral infection spread, we strongly believe that the virus is likely to be spreading through the air. Science explains the mechanisms of such transport and there is evidence that this is a significant route of infection in indoor environments.
 
     >>> Abstract
@@ -2203,7 +2203,7 @@ feed Sangeeta
   # indoor, outdoor transmission, mitigation
   // Do the benefits of exercise in indoor and outdoor environments during the COVID-19 pandemic outweigh the risks of infection?
   doi: https://doi.org/10.1007/s11332-020-00673-z
-  ref 'Dominski_et_al_07_17_2020
+  article 'Dominski_et_al_07_17_2020
     head = The benefits of exercise during the COVID-19 pandemic may outweigh the risks of infection; however, caution is needed in both indoor—where contamination could be airborne and through touching potentially contaminated materials—and outdoor environments. Exercise should be as promoted as social isolation.
 
     -- exports
@@ -2233,7 +2233,7 @@ feed Sangeeta
   # Aerosol, Nonsomical, surface - b, a- toilets aerosols, c- aerosol toilet, mitigation- ventilation, e- asymptomatic
   // Aerodynamic characteristics and RNA concentration of SARS-CoV-2 aerosol in Wuhan hospitals during COVID-19 outbreak.
   doi: https://doi.org/10.1101/2020.03.08.982637
-  ref 'Liu_et_al_03_10_2020
+  article 'Liu_et_al_03_10_2020
     head = Our finding has confirmed the aerosol transmission as an important pathway for surface contamination. Room ventilation, open space, proper use and disinfection of toilet can effectively limit aerosol transmission of SARS-CoV-2.
 
     >>> Background
@@ -2275,7 +2275,7 @@ feed Sangeeta
   # Hot climate, Indoor environments, Burning incense, Public policy, mitigation, Building environment
   // Impact of building ventilation systems and habitual indoor incense burning on SARS-CoV-2 virus transmissions in Middle Eastern countries
   doi: https://doi.org/10.1016/j.scitotenv.2020.139356
-  ref 'Amoatey_et_al_05_12_2020
+  article 'Amoatey_et_al_05_12_2020
     head = Based on the theoretical knowledge from computational fluid dynamics, aerosol science and ventilation inbuilt environment technology, we wish to draw the hypothesis to Middle Eastern countries that PM emissions due to indoor burning of incense, poor building ventilation and low indoor temperature may increase the spread of SARS-CoV-2 virus.
 
     >>> Abstract
@@ -2289,7 +2289,7 @@ feed Sangeeta
   # common pathogen exchange pathways and mechanisms, Public policy, mitigation
   // "2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission"
   doi: https://doi.org/10.1128/mSystems.00245-20
-  ref 'Dietz_et_al_05_05_2020
+  article 'Dietz_et_al_05_05_2020
     head = We synthesize the microbiology of the built environment (BE) research and the known information about SARS-CoV-2 to provide actionable and achievable guidance to BE decision makers, building operators, and all indoor occupants attempting to minimize infectious disease transmission through environmentally mediated pathways.
 
     >>> Abstract
@@ -2303,7 +2303,7 @@ feed Sangeeta
   # airborne transmission; social distancing; droplets; 2m/6ft distance
   // Airborne Transmission Route of COVID-19: Why 2 Meters/6 Feet of Inter-Personal Distance Could Not Be Enough
   doi: https://doi.org/10.3390/ijerph17082932
-  ref 'Setti_et_al_04_23_2020
+  article 'Setti_et_al_04_23_2020
     head = The available information on the SARS-COV-2 spreading supports the hypothesis of airborne diffusion of infected droplets from person to person at a distance greater than two meters (6 feet). The inter-personal distance of 2 m can be reasonably considered as an effective protection only if everybody wears face masks.
 
     >>> Abstract
@@ -2317,7 +2317,7 @@ feed Sangeeta
   # cluster transmission, transmission, settings
   // What settings have been linked to SARS-CoV-2 transmission clusters?
   doi: https://doi.org/10.12688/wellcomeopenres.15889.2
-  ref 'Leclerc_et_al_06_05_2020
+  article 'Leclerc_et_al_06_05_2020
     head = In this review, we found that clusters of cases were reported in many, predominantly indoor settings (such as hospitals and elderly care, large religious gatherings, food processing plants, schools, shopping, and worker dormitories, prisons and ships, weddings, sport, bar). The majority of our reports are from China and Singapore.
 
     >>> Background
@@ -2395,7 +2395,7 @@ feed Sangeeta
   # mechanism of aerosol spread
   // Numerical investigation of influence of human walking on dispersion and deposition of expiratory droplets in airborne infection isolation room
   doi: https://doi.org/10.1016/j.buildenv.2011.04.008
-  ref 'Wang_et_al_04_05_2011
+  article 'Wang_et_al_04_05_2011
     head = The human walking disturbs the local velocity field with wake formation. The increase of walking speed could effectively reduce the overall number of suspended droplets, which may have a positive impact on releasing the infection risk of health workers in airborne infection isolation room (AIIR).
 
     >>> Abstract
@@ -2408,7 +2408,7 @@ feed Sangeeta
   #  Indoor, public policy, Building and Environment
   // Another invisible enemy indoors: COVID-19, human health, the home, and United States indoor air policy
   doi: https://doi.org/10.1038/s41370-020-0247-x
-  ref 'Nwanaji-Enwerem_et_al_07_08_2020
+  article 'Nwanaji-Enwerem_et_al_07_08_2020
     head = We describe common sources of indoor air pollution, the health impacts of indoor pollutants, and populations disparately impacted by COVID-19 and poor indoor air quality. Furthermore, we detail the need for better legislation that promotes the integrity of the indoor air environment, and what individuals can do to personally protect themselves.
 
     >>> Abstract
@@ -2423,7 +2423,7 @@ feed Sangeeta
   # fomite transmission, airborne transmission, Nonsomical
   // Aerosol and surface contamination of SARS-CoV-2 observed in quarantine and isolation care
   doi: https://doi.org/10.1038/s41598-020-69286-3
-  ref 'Santarpia_et_al_07_29_2020
+  article 'Santarpia_et_al_07_29_2020
     head = During the initial isolation of 13 individuals with COVID-19, we collected air and surface samples. Our study suggests that SARS-CoV-2 environmental contamination around COVID-19 patients is extensive, and hospital IPC procedures should account for the risk of fomite, and potentially airborne, transmission of the virus.
 
     >>> Abstract
@@ -2437,7 +2437,7 @@ feed Sangeeta
   # Infectious droplets, Droplet transport, Infection spread, Airborne virus particles, aerosol, Indoor, airborne, physics and microbiology of virus transport, surface transmission, indoor
   // Droplet fate in indoor environments, or can we prevent the spread of infection?
   doi: https://doi.org/10.1111/j.1600-0668.2006.00432.x
-  ref 'Morawska_et_al_06_09_2006
+  article 'Morawska_et_al_06_09_2006
     head = This papers talks about the size distribution of droplets related to various release mechanisms, relationship between the initial size of the droplets and their change in size under different environmental conditions for assessing virus stability, mechanisms responsible for transport and spread of the agents in indoor environments.
 
     / June, 2006 - Indoor Air
@@ -2448,7 +2448,7 @@ feed Sangeeta
   # school transmission, indoor, children, preschools
   // Novel coronavirus 2019 transmission risk in educational settings
   doi: https://doi.org/10.1093/cid/ciaa794
-  ref 'Yung_et_al_06_25_2020
+  article 'Yung_et_al_06_25_2020
     head = Our data from SARS-CoV-2 screen testing performed at educational settings suggest that children are not the primary drivers of transmission in schools. Findings suggest that the risk of SARS-CoV-2 transmission among children in schools, especially preschools, is likely to be low.
 
     >>> Abstract
@@ -2462,7 +2462,7 @@ feed Sangeeta
   # long-term care facilities, asymptomatic, 2071 LTCF of which 8343 ppl tested positive
   // Asymptomatic SARS-CoV-2 infection in Belgian long-term care facilities
   doi: https://doi.org/10.1016/S1473-3099(20)30560-0
-  ref 'Hoxha_et_al_07_03_2020
+  article 'Hoxha_et_al_07_03_2020
     head = This analysis of a large number of tests done in long-term care facilities shows a high proportion of asymptomatic cases. Asymptomatic carriers of the virus could represent an important driver of transmission.
 
     / July, 2020 - The Lancet Infectious Diseases
@@ -2473,7 +2473,7 @@ feed Sangeeta
   # hair salon, face mask
   // Absence of Apparent Transmission of SARS-CoV-2 from Two Stylists After Exposure at a Hair Salon with a Universal Face Covering Policy — Springfield, Missouri, May 2020
   doi: https://doi.org/10.1101/2020.05.22.20109231
-  ref 'Hendrix_et_al_07_14_2020
+  article 'Hendrix_et_al_07_14_2020
     head = Among 139 clients exposed to two symptomatic hair stylists with confirmed COVID-19 while both the stylists and the clients wore face masks, no symptomatic secondary cases were reported; among 67 clients tested for SARS-CoV-2, all test results were negative.
     -- exports
       !a
@@ -2486,7 +2486,7 @@ feed Sangeeta
   # nightclubs, indoor, 246 cases
   // Coronavirus Disease Exposure and Spread from Nightclubs, South Korea
   doi: https://doi.org/10.3201/eid2610.202573
-  ref 'Kang_et_al_07_07_2020
+  article 'Kang_et_al_07_07_2020
     head = We identified 246 COVID-19 cases associated with the reopening of nightclubs in Seoul.
 
     >>> Abstract
@@ -2500,7 +2500,7 @@ feed Sangeeta
   # family cluster, indoor, asymptomatic, 5 ppl
   // Familial cluster of COVID-19 infection from an asymptomatic
   doi: https://doi.org/10.1186/s13054-020-2817-7
-  ref 'Zhang_et_al_03_27_2020
+  article 'Zhang_et_al_03_27_2020
     head = We report a familial cluster case of five patients infected with COVID-19 from an asymptomatic confirmed case in Beijing.
 
     / March, 2020 - Critical Care
@@ -2511,7 +2511,7 @@ feed Sangeeta
   # family cluster, indoor, asymptomatic, 4 ppl
   // A Familial Cluster of Infection Associated With the 2019 Novel Coronavirus Indicating Possible Person-to-Person Transmission During the Incubation Period
   doi: https://doi.org/10.1093/infdis/jiaa077
-  ref 'Yu_et_al_02_18_2020
+  article 'Yu_et_al_02_18_2020
     head = We report the epidemiological features of a familial cluster of 4 patients in Shanghai. The findings indicate that a person with 2019-nCoV might be infectious during the incubation period.
 
     >>> Abstract
@@ -2525,7 +2525,7 @@ feed Sangeeta
   # trasmission
   // The preliminary analysis on the characteristics of the cluster for the COVID-19
   doi: https://doi.org/10.3760/cma.j.cn112338-20200223-00153
-  ref 'Yang_et_al_03_08_2020
+  article 'Yang_et_al_03_08_2020
     head = This study collected information on the clustered epidemic situation of new coronavirus pneumonia from January 1 to February 20, 2020, and initially analyzed the exposure characteristics, transmission mode, incubation period and other indicators of the clustered epidemic, and conducted data on 2 typical clustered epidemics.
 
     >>> Abstract
@@ -2551,7 +2551,7 @@ feed Sangeeta
   # family cluster, 8 ppl
   // Epidemiological Analysis on a Family Cluster of COVID-19
   doi: https://doi.org/10.3760/cma.j.cn112338-20200221-00147
-  ref 'Qiu_et_al_03_05_2020
+  article 'Qiu_et_al_03_05_2020
     head = In this family cluster of COVID-19, 2 primary cases were transmitted to the remaining 6 family members through family exposure, and 5 secondary cases had onset earlier than or on the same day as the primary cases, indicating that the incubation period is infectious. Early home isolation measures may lead to the risk of family gatherings.
 
     >>> Purpose
@@ -2575,7 +2575,7 @@ feed Sangeeta
   # family clusters, Indoortransmission, presymptomatic carriers, 9 ppl
   // A COVID-19 Transmission Within a Family Cluster by Presymptomatic Infectors in China
   doi: https://doi.org/10.1093/cid/ciaa316
-  ref 'Qian_et_al_03_23_2020
+  article 'Qian_et_al_03_23_2020
     head = We report a family cluster of coronavirus disease 2019 (COVID-19) caused by a presymptomatic case. There are variations across individuals in the clinical manifestations of COVID-19, indicating that we should pay attention to how to prevent people from being infected by asymptomatic patients and patients who are in the incubation period.
 
 
@@ -2590,7 +2590,7 @@ feed Sangeeta
   # family cluster, social activity cluster
   // Epidemiologic and Clinical Characteristics of 91 Hospitalized Patients With COVID-19 in Zhejiang, China: A Retrospective, Multi-Centre Case Series
   doi: https://doi.org/10.1093/qjmed/hcaa089
-  ref 'Qian_et_al_03_17_2020
+  article 'Qian_et_al_03_17_2020
     head = Social activity cluster, family cluster and flying alongside with persons already infected with COVID-19 were how people got infected with COVID-19 in Zhejiang.
 
     >>> Background
@@ -2622,7 +2622,7 @@ feed Sangeeta
   # household, close contact, indoor, 7 ppl
   // A Locally Transmitted Case of SARS-CoV-2 Infection in Taiwan
   doi: https://doi.org/10.1056/NEJMc2001573
-  ref 'Liu_et_al_03_12_2020
+  article 'Liu_et_al_03_12_2020
     head = As of January 29, there were 7 confirmed imported cases of infection with SARS-CoV-2 to Taiwan. We identified a case of locally transmitted infection in Taiwan from a wife to her husband. So far, no secondary case from this couple has been identified.
 
     / March, 2020 - N Engl J Med
@@ -2633,7 +2633,7 @@ feed Sangeeta
   # Indoor, close contacts, 11 ppl
   // A family cluster of SARS-CoV-2 infection involving 11 patients in Nanjing, China
   doi: https://doi.org/10.1016/S1473-3099(20)30147-X
-  ref 'Huang_et_al_02_28_2020
+  article 'Huang_et_al_02_28_2020
     head = We report a family cluster of SARS-CoV-2 infection involving 11 patients in Nanjing, China. The family cluster of patients we describe provides evidence that asymptomatic people can be potential sources of SARS-CoV-2 infection.
 
     / February, 2020 - The Lancet
@@ -2643,7 +2643,7 @@ feed Sangeeta
   # indoor, secondary transmission
   // Closed environments facilitate secondary transmission of coronavirus disease 2019 (COVID-19)
   doi: https://doi.org/10.1101/2020.02.28.20029272
-  ref 'Nishiura_et_al_03_03_2020
+  article 'Nishiura_et_al_03_03_2020
     head = Closed environments contribute to secondary transmission of COVID-19 and promote superspreading events. It is also consistent with the declining incidence of COVID-19 cases in China, as gathering in closed environments was prohibited in the wake of the rapid spread of the disease
 
     >>> Abstract
@@ -2657,7 +2657,7 @@ feed Sangeeta
   # Slums
   // The study of slums as social and physical constructs: challenges and emerging research opportunities
   doi: https://doi.org/10.1080/21681376.2016.1229130
-  ref 'Mahabir_et_al_09_22_2016
+  article 'Mahabir_et_al_09_22_2016
     head = Research on slums has mainly focused on one of three constructs: socio-economic and policy issues; physical characteristics; and those modelling slums. This paper reviews these lines of research and argues that there is a need for a more holistic approach to truly understand them.
 
     >>> Abstract
@@ -2671,7 +2671,7 @@ feed Sangeeta
   # slums, ask ayush
   // Slum health: Diseases of neglected populations
   doi: https://doi.org/10.1186/1472-698X-7-2
-  ref 'Riley_et_al_03_07_2007
+  article 'Riley_et_al_03_07_2007
     head = Continued neglect of ever-expanding urban slum populations could inevitably lead to greater expenditure and diversion of health care resources to the management of end-stage complications of diseases that are preventable.
 
     >>> Background
@@ -2690,7 +2690,7 @@ feed Sangeeta
   # ask ayush, slums
   // Slum Health: Arresting COVID-19 and Improving Well-Being in Urban Informal Settlements
   doi: https://doi.org/10.1007/s11524-020-00438-6
-  ref 'Corburn_et_al_04_24_2020
+  article 'Corburn_et_al_04_24_2020
     head = The informal settlements of the Global South are the least prepared for the pandemic of COVID-19. The response will need to include national and local governments, bilateral and multi-lateral international agencies, CBOs, NGOs, and foundations. Necessary training, outreach and all proposed interventions must uphold human rights laws.
 
 
@@ -2706,7 +2706,7 @@ feed Sangeeta
   # schools
   // Reopening Primary Schools during the Pandemic
   doi: https://doi.org/10.1056/NEJMms2024920
-  ref 'Levinson_et_al_07_29_2020
+  article 'Levinson_et_al_07_29_2020
     head = The safest way to open schools fully is to reduce or eliminate community transmission while ramping up testing and surveillance.
 
     -- exports
@@ -2719,7 +2719,7 @@ feed Sangeeta
   # public transport
   // The association between domestic train transportation and novel coronavirus (2019-nCoV) outbreak in China from 2019 to 2020: A data-driven correlational report
   doi: https://doi.org/10.1016/j.tmaid.2020.101568
-  ref 'Zhao_et_al_01_30_2020
+  article 'Zhao_et_al_01_30_2020
     head = The analysis was conducted based on the epidemic data at early outbreak. We found strong and significant association between travel by train and the number of 2019- nCoV cases, whereas the associations of the other two means of transportation i.e car and flight failed to reach statistical significance.
 
 
@@ -2731,7 +2731,7 @@ feed Sangeeta
   # reglious gatherings
   // Infectious Diseases and Mass Gatherings
   doi: https://doi.org/10.1007/s11908-018-0650-9
-  ref 'Thuan-Hoang_et_al_08_28_2018
+  article 'Thuan-Hoang_et_al_08_28_2018
     head = The aim of this review was to summarize findings in the field of infectious diseases with a variety of pathogens associated with international MGs in the last 5 years.
 
     >>> Purpose of Review
@@ -2754,7 +2754,7 @@ feed Sangeeta
   # public transport
   // Spatial transmission of COVID-19 via public and private transportation in China
   doi: https://doi.org/10.1016/j.tmaid.2020.101626
-  ref 'Zheng_et_al_03_14_2020
+  article 'Zheng_et_al_03_14_2020
     head = Our findings indicated that imported cases via public transportation played an important role in the spread of COVID-19. The connectivity and distance between the epicenter and the destination are important determinants of transmission risks.
 
 
@@ -2766,7 +2766,7 @@ feed Sangeeta
   # airline
   // Exposure of passengers and flight crew to Mycobacterium tuberculosis on commercial aircraft, 1992-1995.
   doi: https://doi.org/10.1001/jama.1995.03520360023016
-  ref 'Hickman_et_al_03_22_1995
+  article 'Hickman_et_al_03_22_1995
     head = This report summarizes the investigations by CDC and state health departments of six instances in which passengers or flight crew traveled on commercial aircraft while infectious with tuberculosis.
 
     >>> Abstract
@@ -2780,7 +2780,7 @@ feed Sangeeta
   # AirlineTransmission
   // Transmission of Multidrug-Resistant Mycobacterium tuberculosis during a Long Airplane Flight
   doi: https://doi.org/10.1056/NEJM199604113341501
-  ref 'Kenyon_et_al_04_11_1996
+  article 'Kenyon_et_al_04_11_1996
     head = The transmission of Mycobacterium tuberculosis that we describe aboard a commercial aircraft involved a highly infectious passenger, a long flight, and close proximity of contacts to the index patient.
 
     >>> BACKGROUND
@@ -2802,7 +2802,7 @@ feed Sangeeta
   # airline transmission
   // Transmission of the Severe Acute Respiratory Syndrome on Aircraft
   doi: https://doi.org/10.1056/NEJMoa031349
-  ref 'Olsen_et_al_12_18_2003
+  article 'Olsen_et_al_12_18_2003
     head = We attempted to interview passengers and crew members at least 10 days after they had taken one of three flights that transported a patient or patients with SARS. Transmission of SARS may occur on an aircraft when infected persons fly during the symptomatic phase of illness.
 
     >>> BACKGROUND
@@ -2826,7 +2826,7 @@ feed Sangeeta
   # gyms, indoor transmission
   // Infection risk in gyms during physical exercise.
   doi: https://doi.org/10.1007/s11356-018-1822-8
-  ref 'Andrade_et_al_05_07_2018
+  article 'Andrade_et_al_05_07_2018
     head = This study examined indoor air quality and environmental issues related to physical exercise performed at gyms. Inefficient ventilation in gyms is a significant problem, with high CO2 concentrations resulting in impaired air quality and high health risks to users.
 
 
@@ -2842,7 +2842,7 @@ feed Sangeeta
   # fitness center, indoor transmission
   // Cluster of Coronavirus Disease Associated with Fitness Dance Classes, South Korea
   doi: https://doi.org/10.3201/eid2608.200633
-  ref 'Jang_et_al_05_15_2020
+  article 'Jang_et_al_05_15_2020
     head = During 24 days in Cheonan, South Korea, 112 persons were infected with SARS-CoV-2  associated with fitness dance classes at 12 sports facilities. Intense physical exercise in densely populated sports facilities could increase risk for infection.
 
 
@@ -2858,7 +2858,7 @@ feed Sangeeta
   # IndoorTransmission, cruiseship
   // Descriptive study of COVID-19 outbreak among passengers and crew on Diamond Princess cruise ship, Yokohama Port, Japan, 20 January to 9 February 2020.
   doi: https://doi.org/10.2807/1560-7917.ES.2020.25.23.2000272
-  ref 'Yamagishi_et_al_06_11_2020
+  article 'Yamagishi_et_al_06_11_2020
     head = This report details the early phase of the outbreak investigation on a cruise ship quarantined in Yokohama Port that followed the confirmation of a disembarked passenger having COVID-19.
 
 
@@ -2869,7 +2869,7 @@ feed Sangeeta
   # religious group, IndoorTransmission
   // The Delay in Confirming COVID-19 Cases Linked to a Religious Group in Korea
   doi: https://doi.org/10.3961/jpmph.20.088
-  ref 'Ju-Kim_et_al_04_08_2020
+  article 'Ju-Kim_et_al_04_08_2020
     head = The Shincheonji religious group accounted for the majority of Korean cases of COVID-19. There was a delay in COVID-19 confirmation from the date of illness onset among the cases linked to the Shincheonji religious group. This delay likely contributed to the occurrence of many cases.
 
     >>> Objectives
@@ -2893,7 +2893,7 @@ feed Sangeeta
   # Indoortransmission, public places
   // COVID-19 Outbreak Among Three Affiliated Homeless Service Sites - King County, Washington, 2020
   doi: https://doi.org/10.15585/mmwr.mm6917e2
-  ref 'Tobolowsky_et_al_05_01_2020
+  article 'Tobolowsky_et_al_05_01_2020
     head = This COVID-19 outbreak involved transmission among residents and staff members of three affiliated homeless shelters in Seattle, Washington.
 
 
@@ -2905,7 +2905,7 @@ feed Sangeeta
   # householdtransmission, indoor
   // Close contacts and household transmission of SARS-CoV-2 in China: a content analysis based on local Heath Commissions
   doi: https://doi.org/10.1101/2020.03.02.20029868
-  ref 'Xu_et_al_03_30_2020
+  article 'Xu_et_al_03_30_2020
     head = The identification of super-spreading events, short serial intervals, and a higher risk of being infected outside of households for male people of age between 18 and 64 indicate a significant barrier to the case identification and management.
 
 
@@ -2917,7 +2917,7 @@ feed Sangeeta
   # Schools
   // No evidence of secondary transmission of COVID-19 from children attending school in Ireland, 2020.
   doi: https://doi.org/10.2807/1560-7917.ES.2020.25.21.2000903
-  ref 'Heavey_et_al_05_28_2020
+  article 'Heavey_et_al_05_28_2020
     head = Examination of all Irish paediatric cases of COVID-19 attending school identified no cases of onward transmission to other children or adults within the school and a variety of other settings. These included music lessons and choir practice.
 
 
@@ -2929,7 +2929,7 @@ feed Sangeeta
   # office, IndoorTransmission
   // Coronavirus Disease Outbreak in Call Center, South Korea
   doi: https://doi.org/10.3201/eid2608.201274
-  ref 'Park_et_al_04_23_2020
+  article 'Park_et_al_04_23_2020
     head = Of 1,143 persons who were tested for COVID-19, a total of 97 (8.5%) had confirmed cases. Of these, 94 were working in an 11th-floor call center with 216 employees, translating to an attack rate of 43.5%. This outbreak shows alarmingly that SARS-CoV-2 can be exceptionally contagious in crowded office settings such as a call center.
 
     >>> Abstract
@@ -2945,7 +2945,7 @@ feed Sangeeta
   # poultry
   // Geographical and Historical Patterns in the Emergences of Novel Highly Pathogenic Avian Influenza (HPAI) H5 and H7 Viruses in Poultry.
   doi: https://doi.org/10.3389/fvets.2018.00084
-  ref 'Dhingra_et_al_06_05_2018
+  article 'Dhingra_et_al_06_05_2018
     head = The spatial and phylogenetic descriptive studies indicate that conversion and reassortment events, which are the two main evolutionary mechanisms by which a novel HPAI could emerge in the poultry systems, appear to show distinct geographical and temporal patterns.
 
 
@@ -2957,7 +2957,7 @@ feed Sangeeta
   # public places, IndoorTransmission, OutdoorTransmission
   // Clusters of Coronavirus Disease in Communities, Japan, January–April 2020
   doi: https://doi.org/10.3201/eid2609.202272
-  ref 'Furuse_et_al_06_10_2020
+  article 'Furuse_et_al_06_10_2020
     head = We analyzed 3,184 cases of coronavirus disease in Japan and identified 61 case-clusters in healthcare and other care facilities, restaurants and bars, workplaces, and music events. We also identified 22 probable primary case-patients for the clusters; most were 20–39 years of age and presymptomatic or asymptomatic at virus transmission.
 
     >>> Abstract
@@ -2971,7 +2971,7 @@ feed Sangeeta
   # schools, IndoorTransmission, schoolreopening, children
   // A large COVID-19 outbreak in a high school 10 days after schools' reopening, Israel, May 2020
   doi: https://doi.org/10.2807/1560-7917.ES.2020.25.29.2001352
-  ref 'Stein-Zamir_et_al_07_21_2020
+  article 'Stein-Zamir_et_al_07_21_2020
     head = The circumstances promoting infection spread involved return of teenage students to their regular classes after a 2-month closure and an extreme heatwave with temperatures rising to 40 °C and above that involved exemption from facemasks and continuous air-conditioning.
 
 
@@ -2983,7 +2983,7 @@ feed Sangeeta
   # asymptomatic, outdoor,
   // COVID-19 Outbreak Among College Students After a Spring Break Trip to Mexico - Austin, Texas, March 26-April 5, 2020
   doi: http://dx.doi.org/10.15585/mmwr.mm6926e1
-  ref 'Lewis_et_al_06_24_2020
+  article 'Lewis_et_al_06_24_2020
     head = Investigation of an outbreak of COVID-19 among a group of college-aged travelers and their contacts demonstrated that 28% had positive SARS-CoV-2 RT-PCR test results, approximately one fifth of whom were asymptomatic when tested.
 
 
@@ -2995,7 +2995,7 @@ feed Sangeeta
   # outdoor, wet market
   // Wet markets—a continuing source of severe acute respiratory syndrome and influenza?
   doi: https://doi.org/10.1016/S0140-6736(03)15329-9
-  ref 'Webster_et_al_01_17_2004
+  article 'Webster_et_al_01_17_2004
     head = Wet markets—a could be a continuing source of severe acute respiratory syndrome and influenza.
 
 

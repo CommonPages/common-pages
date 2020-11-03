@@ -19,8 +19,6 @@
 # >>> Full Revision History
 #   Find the complete revision history in the COVID-19 portal's {Revisions revision feed}.
 
-
-
 -- Concepts
   foundations
 
@@ -43,5 +41,5 @@
   feeds.News
   feeds.Revisions
 
--- Narratives
-  narratives.WHO.FaceMasks
+# -- Narratives
+#   narratives.WHO.FaceMasks

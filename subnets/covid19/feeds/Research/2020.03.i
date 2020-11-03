@@ -116,7 +116,7 @@ feed March2020
   # Ocular Transmission
   // Role of the Eye in Transmitting Human Coronavirus: What We Know and What We Do Not Know
   doi: https://doi.org/10.20944/preprints202003.0271.v2
-  ref 'Sun_et_al_03_24_2020
+  article 'Sun_et_al_03_24_2020
     head = Pathogens exposed to the eye might be transported to nasal and nasopharyngeal mucosa by constant tear rinsing through lacrimal duct, and then cause respiratory tract infection.
 
     >>> Abstract
@@ -131,7 +131,7 @@ feed March2020
   # Face Mask use, Policy - Relevant in timeline?
   // COVID-19: Facemask use prevalence in international airports in Asia, Europe and the Americas, March 2020
   doi: https://doi.org/10.1016/j.tmaid.2020.101637
-  ref 'Elachola_et_al_03_20_2020
+  article 'Elachola_et_al_03_20_2020
     head = We assessed the prevalence of facemask use among persons seen in four international airports in Asia, Europe, and the Americas. We found that, facemask use rate measured in airport settings was the highest in Asia, followed by South America, and the lowest in the USA.
     -- exports
       !a
@@ -143,7 +143,7 @@ feed March2020
   # Policy Face Mask
   // Rational use of face masks in the COVID-19 pandemic
   doi: https://doi.org/10.1016/S2213-2600(20)30134-X
-  ref 'Feng_et_al_03_20_2020
+  article 'Feng_et_al_03_20_2020
     head = We compared face mask use recommendations by different health authorities. It is time for governments and public health agencies to make rational recommendations on appropriate face mask use to complement their recommendations on other preventive measures, such as hand hygiene.
 
     -- exports
@@ -163,7 +163,7 @@ feed March2020
   # Hydroxychloroquine
   // COVID-19: a recommendation to examine the effect of hydroxychloroquine in preventing infection and progression
   doi: https://doi.org/10.1093/jac/dkaa114
-  ref 'Zhou_et_al_03_20_2020
+  article 'Zhou_et_al_03_20_2020
     head =  We propose that HCQ could serve as a better therapeutic approach than CQ for the treatment of SARS-CoV-2 infection.
 
     >>> Abstract
@@ -187,7 +187,7 @@ feed March2020
   # Social Distancing , Tracing
   // High transmissibility of COVID-19 near symptom onset
   doi: https://doi.org/10.1101/2020.03.18.20034561
-  ref 'Cheng_et_al_03_19_2020
+  article 'Cheng_et_al_03_19_2020
     head = High transmissibility of COVID-19 near symptom onset suggests that finding and isolating symptomatic patients alone may not suffice to contain the epidemic, and more generalized social distancing measures are required.
 
     >>> Background
@@ -208,7 +208,7 @@ feed March2020
   # Hydroxychloroquine
   // Combined prophylactic and therapeutic use maximizes hydroxychloroquine anti-SARS-CoV-2 effects in vitro
   doi: https://doi.org/10.1101/2020.03.29.014407
-  ref 'Clementi_et_al_03_31_2020
+  article 'Clementi_et_al_03_31_2020
     head = Anti-SARS-CoV2 activity of hydroxychloroquine concentration is maximized only when administered before and after the infection of Vero E6 cells. Only a combined prophylactic and therapeutic use of hydroxychloroquine may be effective in limiting viral replication.
 
     >>> Abstract
@@ -221,7 +221,7 @@ feed March2020
   # Hydroxychloroquine / Antiviral - In vitro efficacy stats
   // Identification of antiviral drug candidates against SARS-CoV-2 from FDA-approved drugs
   doi: https://doi.org/10.1101/2020.03.20.999730
-  ref 'Jeon_et_al_03_28_2020
+  article 'Jeon_et_al_03_28_2020
     head = A panel of 48 FDA-approved drugs that have been pre-selected by an assay of SARS-CoV was screened to identify potential antiviral drug candidates against SARS-CoV-2 infection. We found a total of 24 drugs which exhibited antiviral efficacy against SARS-CoV-2.
 
     >>> Abstract
@@ -234,7 +234,7 @@ feed March2020
   # check publisher, origin
   // A Genomic Perspective on the Origin and Emergence of SARS-CoV-2
   doi: https://doi.org/10.1016/j.cell.2020.03.035
-  ref 'Zhang_et_al_03_26_2020
+  article 'Zhang_et_al_03_26_2020
     head = Given that SARS-CoV-2 undoubtedly has a zoonotic origin, the link to such a “wet” market should come as no surprise. However, as not all of the early cases were market associated, it is possible that the emergence story is more complicated than first suspected.
 
     # -- origin
@@ -318,7 +318,7 @@ feed March2020
   # the shared identity of critical AA sites between SARS-CoV-2 and GD Pangolin-CoV may be due to random mutations coupled with natural selection, rather than recombination, origin
   // On the origin and continuing evolution of SARS-CoV-2
   doi: https://doi.org/10.1093/nsr/nwaa036
-  ref 'Tang_et_al_03_03_2020
+  article 'Tang_et_al_03_03_2020
     head = Our results suggest that the development of new variations in functional sites in the  RBD of the spike seen in SARS-CoV-2 and viruses from pangolin SARSr-CoVs are likely caused by natural selection besides recombination. Population genetic analyses of 103 SARS-CoV-2 genomes indicated that these viruses had two major lineages (designated L and S), that are well defined by two different SNPs that show nearly complete linkage across the viral strains sequenced to date.
 
     >>> Abstract
@@ -380,7 +380,7 @@ feed March2020
   # Angiotensin converting enzyme 2 (ACE2), Receptor utilization, Phylogenetic analysis, not from wuhan, intermediate hosts of SARS-CoV-2, interspecies transmission,
   // Predicting the angiotensin converting enzyme 2 (ACE2) utilizing capability as the receptor of SARS-CoV-2.
   doi: https://doi.org/10.1016/j.micinf.2020.03.003
-  ref 'Xiao_et_al_03_19_2020
+  article 'Xiao_et_al_03_19_2020
     head = We evaluated and ranked the receptor-utilizing capability of ACE2s from various species by phylogenetic clustering and sequence alignment with the currently known ACE2s utilized by SARS-CoV-2. Results predicted that SARS-CoV-2 tends to utilize ACE2s of various mammals, except murines, and some birds, such as pigeon. This prediction may help to screen the intermediate hosts of SARS-CoV-2.
 
     >>> Abstract
@@ -406,7 +406,7 @@ feed March2020
   # not originated in Wuhan market
   // Genomic variations of COVID-19 suggest multiple outbreak sources of transmission.
   doi: https://doi.org/10.1101/2020.02.25.20027953
-  ref 'Zhang_et_al_03_05_2020
+  article 'Zhang_et_al_03_05_2020
     head = Our results illustrate the presence of two major genotypes of SARS-CoV-2: Type I(IA and IB),resembles the ancestral SARS-CoV-2 most and Type II, was likely evolved from Type I and predominant in the infections. The outbreak caused by the Type I virus should have occurred somewhere else, because the patients had no direct link to the market. It suggest that Type II SARS-CoV-2 was the source of the outbreak in the Wuhan Huanan market and it was likely originated from a super-spreader.
 
     >>> Abstract
@@ -449,7 +449,7 @@ feed March2020
   # ACE2, origin, pangalion may be host and not
   // Structural basis of receptor recognition by SARS-CoV-2
   doi: https://doi.org/10.1038/s41586-020-2179-y
-  ref 'Shang_et_al_03_30_2020
+  article 'Shang_et_al_03_30_2020
     head = The overall structural similarity in ACE2 binding by SARS-CoV-2 and SARS-CoV supports a close evolutionary relationship between the two viruses. Though, the structural features of SARS-CoV-2 RBD increase its ACE2-binding affinity. The differences among SARS-CoV-2, SARS-CoV and RaTG13 in ACE2 recognition shed light on the potential animal-to-human transmission of SARS-CoV-2.
 
     >>> Abstract
@@ -500,7 +500,7 @@ feed March2020
   # Pangolians probable host, origin, selectively mediated convergent evolution rather than recombination, although it is difficult to differentiate between these scenarios on the basis of the current data..There is only the one batch of pangolins carrying this interesting CoV. Did they get it from animals in co-captivity? Or did they get it from the human smugglers over weeks-months in captivity?
   // Identifying SARS-CoV-2-related coronaviruses in Malayan pangolins
   doi: https://doi.org/10.1038/s41586-020-2169-0
-  ref 'Lam_et_al_03_26_2020
+  article 'Lam_et_al_03_26_2020
     head = We report the identification of SARS-CoV-2-related coronaviruses in Malayan pangolins (Manis javanica) seized in anti-smuggling operations in southern China. Metagenomic sequencing identified pangolin-associated coronaviruses that belong to two sub-lineages of SARS-CoV-2-related coronaviruses, including one that exhibits strong similarity in the receptor-binding domain to SARS-CoV-2. Pangolins should be considered as possible hosts in the emergence of new coronaviruses.
 
     >>> Abstract
@@ -573,7 +573,7 @@ feed March2020
   # Last revised: 22 May 2020, Transmission, Effective Reproductive Number, Weather/Temperature- counter , Humidity, discuss the main head with Ayush as the conclusion is counter for weather
   // High Temperature and High Humidity Reduce the Transmission of COVID-19
   doi: http://dx.doi.org/10.2139/ssrn.3551767
-  ref 'Wang_et_al_03_10_2020
+  article 'Wang_et_al_03_10_2020
     head = We found robust negative associations between temperature as well as humidity and COVID-19 transmission before the large-scale public-health interventions in China and the U.S. The temperature & relative humidity has a consistent influence on the R values, for both China and U.S. After the lockdowns, temperature and relative humidity still play an important role in reducing the R values but to a less extent.
 
     >>> Abstract
@@ -637,7 +637,7 @@ feed March2020
   # weather influence- pro, temperature
   // Temperature, humidity, and wind speed are associated with lower Covid-19 incidence
   doi: https://doi.org/10.1101/2020.03.27.20045658
-  ref 'Islam_et_al_03_31_2020
+  article 'Islam_et_al_03_31_2020
     head = This study analyzed the data from 310 regions across 116 countries that reported confirmed cases of Covid-19 by March 12, 2020, and found that temperature, humidity, and wind speed were inversely associated with the incidence rate of Covid-19 after adjusting for the regional and temporal trend in the incidence of Covid-19, columnar density of ozone, precipitation probability, sea-level air-pressure, and length of daytime.
 
     >>> Abstract
@@ -665,7 +665,7 @@ feed March2020
   # weather influence- pro
   // COVID-19 transmission in Mainland China is associated with temperature and humidity: a time-series analysis
   doi: https://doi.org/10.1101/2020.03.30.20044099
-  ref 'Qi_et_al_03_20_2020
+  article 'Qi_et_al_03_20_2020
     head = Our study suggests that both daily temperature and relative humidity influenced the occurrence of COVID-19 in Hubei province and in some other provinces. However, the association between COVID-19 and average temperature (AT) and relative humidity (ARH) across the provinces was not consistent. There were spatial and temporal heterogeneities in COVID-19 occurrence, which could be attributed to meteorological factors (daily AT and ARH) as well as interventions measures across provinces.
 
     >>> Abstract
@@ -698,7 +698,7 @@ feed March2020
   # Aersol and Surface Viability
   // Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1
   doi: https://doi.org/10.1056/NEJMc2004973
-  ref 'Doremalen_et_al_03_17_2020
+  article 'Doremalen_et_al_03_17_2020
     head = ARS-CoV-2 remained viable in aerosols throughout the duration of our experiment (3 hours), with a reduction in infectious titer from 103.5 to 102.7 TCID50 per liter of air. This reduction was similar to that observed with SARS-CoV-1, from 104.3 to 103.5 TCID50 per milliliter
 
     -- exports
@@ -712,7 +712,7 @@ feed March2020
   # Clinical Recommendation - Hyperinflammation
   // Immunosuppression for hyperinflammation in COVID-19: a double-edged sword?
   doi: https://doi.org/10.1016/S0140-6736(20)30691-7
-  ref 'Ritchie_et_al_03_24_2020
+  article 'Ritchie_et_al_03_24_2020
     head = The authors hypothesise that approaches such as corticosteroids or Janus kinase (JAK) inhibitors could be considered if hyperinflammation is present. Broad immunosuppression in patients with overwhelming viral illness might be inadvisable. Beneficial anti-inflammatory effects should be weighed up against the potentially detrimental effects of inhibiting anti-viral immunity, thereby delaying virus clearance and perpetuating illness.
 
     -- exports
@@ -725,7 +725,7 @@ feed March2020
   # Tocilizumab
   // Tocilizumab, an anti-IL-6 receptor antibody, to treat COVID-19-related respiratory failure: a case report
   doi: https://doi.org/10.1016/j.annonc.2020.03.300
-  ref 'Michot_et_al_03_06_2020
+  article 'Michot_et_al_03_06_2020
     head =  We report here the case of a patient with respiratory failure linked to COVID-19 who had a rapid favorable outcome after two infusions of the anti-IL-6 receptor inhibitor tocilizumab. This suggests that anti-IL-6 receptor inhibitor treatment could decrease the risk of progression toward SARS by mitigating the cytokine storm in lungs with COVID-19.
 
     # / March, 2020 - Annals of Oncology
@@ -3112,7 +3112,7 @@ feed March2020
   # droplets, fecal, fomite transmission, nonsomical
   // Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient
   doi: https://doi.org/10.1001/jama.2020.3227
-  ref 'Ong_et_al_03_04_2020
+  article 'Ong_et_al_03_04_2020
     head = Significant environmental contamination by patients with SARS-CoV-2 through respiratory droplets and fecal shedding suggests the environment as a potential medium of transmission and supports the need for strict adherence to environmental and hand hygiene.
 
     -- exports

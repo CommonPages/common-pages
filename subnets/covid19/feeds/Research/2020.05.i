@@ -118,7 +118,7 @@ feed May2020
   # VitaminD
   // The Possible Role of Vitamin D in Suppressing Cytokine Storm and Associated Mortality in COVID-19 Patients
   doi: https://doi.org/10.1101/2020.04.08.20058578
-  ref 'Daneshkhah_et_al_05_18_2020
+  article 'Daneshkhah_et_al_05_18_2020
     head = C-Reactive Protein (CRP) is a surrogate marker for cytokine storm and is associated with Vit D deficiency, based on retrospective data and indirect evidence we see a possible role of Vit D in reducing complications attributed to unregulated inflammation and cytokine storm.
 
     >>> Objectives
@@ -138,7 +138,7 @@ feed May2020
   # Face Shield
   // Efficacy of slit lamp breath shields
   doi: https://doi.org/10.1038/s41433-020-0940-y
-  ref 'Poostchi_et_al_05_12_2020
+  article 'Poostchi_et_al_05_12_2020
     head = We sought to examine the efficacy of facemasks and standard and augmented slit lamp breath shields using a breathing simulator. We found that the barriers we tested were all effective at reducing transmission of particles > 3 μm. The surgical facemask and large shield offered the best protection, while the small standard shield seemed to be effective for larger particles.
 
     / May, 2020 - Nature
@@ -147,7 +147,7 @@ feed May2020
   # Bio-Based, face mask , design,
   // The need for fully bio-based facemasks to counter coronavirus outbreaks: A perspective
   doi: https://doi.org/10.1016/j.scitotenv.2020.139611
-  ref 'Das_et_al_05_22_2020
+  article 'Das_et_al_05_22_2020
     head = Utilisation of sustainable raw materials to develop bio-based masks is needed. Electrospun and compression moulded gluten can be used to develop bio-based masks. Gluten masks can be made flame retardant by adding <10 wt% of lanosol.
 
     >>> Abstract
@@ -160,7 +160,7 @@ feed May2020
   # Cloth Mask, efficacy, aerosols
   // Textile Masks and Surface Covers-A Spray Simulation Method and a "Universal Droplet Reduction Model" Against Respiratory Pandemics
   doi: https://doi.org/10.3389/fmed.2020.00260
-  ref 'Palacios_et_al_05_27_2020
+  article 'Palacios_et_al_05_27_2020
     head = We assessed household textiles to quantify their potential as effective environmental droplet barriers. All textiles reduced the number of droplets reaching surfaces, when used as single layers. When used as double-layers, textiles were as effective as medical mask/surgical-cloth materials.
 
     >>> Abstract
@@ -175,7 +175,7 @@ feed May2020
   # Surgical mask vs cotton mask
   // Medical mask versus cotton mask for preventing respiratory droplet transmission in micro environments
   doi: https://doi.org/10.1016/j.scitotenv.2020.139510
-  ref 'Ho_et_al_05_18_2020
+  article 'Ho_et_al_05_18_2020
     head = Four 1-hour repeated measurements of particles with a size range of 20–1000 nm temperature and relatively humidity, and cough/sneeze counts per hour were conducted for each volunteer. There was no significant difference in NC0.02–1 or cough/sneeze counts between volunteers with medical masks and cotton masks in a bedroom or a car.
 
     >>> Abstract
@@ -191,7 +191,7 @@ feed May2020
   # Surgical Mask - In Vivo Studies
   // Surgical Mask Partition Reduces the Risk of Noncontact Transmission in a Golden Syrian Hamster Model for Coronavirus Disease 2019 (COVID-19)
   doi: https://doi.org/10.1093/cid/ciaa644
-  ref 'Chan_et_al_05_30_2020
+  article 'Chan_et_al_05_30_2020
     head = Noncontact transmission was found in 66.7% (10/15) of exposed naive hamsters. SARS-CoV-2 could be transmitted by respiratory droplets or airborne droplet nuclei which could be reduced by surgical mask partition in the hamster model.
 
     >>> Background
@@ -215,7 +215,7 @@ feed May2020
   # Methods to evaluate efficacy of mask
   // Quantitative Method for Comparative Assessment of Particle Filtration Efficiency of Fabric Masks as Alternatives to Standard Surgical Masks for PPE
   doi: https://doi.org/10.1101/2020.04.17.20069567
-  ref 'Mueller_et_al_05_18_2020
+  article 'Mueller_et_al_05_18_2020
     head = A rapid testing protocol is presented for evaluation of loose-fitting type masks to provide quantitative, intercomparable data for particle removal efficacy of masks made with different types of fabrics and with different designs/fits, independently providing an assessment of the quality of the mask fit and the material used.
 
     >>> Abstract
@@ -230,7 +230,7 @@ feed May2020
   # Droplet Mechanism
   // Visualizing Speech-Generated Oral Fluid Droplets with Laser Light Scattering
   doi: https://doi.org/10.1056/NEJMc2007800
-  ref 'Anfinrud_et_al_04_15_2020
+  article 'Anfinrud_et_al_04_15_2020
     head = We provide visual evidence of speech-generated droplets and to qualitatively describe the effect of a damp cloth cover over the mouth to curb the emission of droplets.
 
     / April, 2020 - NEJM
@@ -240,7 +240,7 @@ feed May2020
   # Aersol
   // Consideration of the Aerosol Transmission for COVID‐19 and Public Health
   doi: https://doi.org/10.1111/risa.13500
-  ref 'Anderson_et_al_05_01_2020
+  article 'Anderson_et_al_05_01_2020
     head = Three lines of reasoning provide a weight of evidence that aerosol transmission is an important pathway of disease communication and may be significant for the transmission and control of SARS‐CoV‐2.
 
     >>> Abstract
@@ -263,7 +263,7 @@ feed May2020
   # Airborne
   // Is there an airborne component to the transmission of COVID-19? : a quantitative analysis study
   doi: https://doi.org/10.1101/2020.05.22.20109991
-  ref 'Beggs_et_al_05_26_2020
+  article 'Beggs_et_al_05_26_2020
     head = Those sharing enclosed spaces with infectors for long periods may be at risk of contracting COVID-19 by the aerosol route, even when practicing social distancing.
 
     >>> Objectives
@@ -284,7 +284,7 @@ feed May2020
   # Surface Viability
   // Environmental sampling for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) during a coronavirus disease (COVID-19) outbreak aboard a commercial cruise ship
   doi: https://doi.org/10.1101/2020.05.02.20088567
-  ref 'Yamagishi_et_al_05_08_2020
+  article 'Yamagishi_et_al_05_08_2020
     head = The environment around the COVID-19 cases was extensively contaminated from SARS-CoV-2 during COVID-19 outbreak in the cruise ship. Transmission risk of SARS-CoV-2 from symptomatic and asymptomatic patients seems to be similar and the environmental surface could involve viral transmission through direct contact.
 
     >>> Background
@@ -304,7 +304,7 @@ feed May2020
   # Nosocomial - No Aersol - Surface
   // Environmental contamination by SARS-CoV-2 in a designated hospital for coronavirus disease 2019
   doi: https://doi.org/10.1016/j.ajic.2020.05.003
-  ref 'Wu_et_al_05_11_2020
+  article 'Wu_et_al_05_11_2020
     head = SARS-CoV-2 RNA was not detected in the air in a designated hospital for COVID-19. Environmental surface in medical areas was frequently contaminated. Strict environmental surface disinfection and enhanced hand hygiene were recommended.
 
     >>> Background
@@ -330,7 +330,7 @@ feed May2020
   # Close Contact
   // Epidemiological characteristics of infection in COVID-19 close contacts in Ningbo city
   doi: https://doi.org/10.3760/cma.j.cn112338-20200304-00251
-  ref 'Chen_et_al_05_10_2020
+  article 'Chen_et_al_05_10_2020
     head = The infection rate of close contacts of COVID-19 cases is high, and isolation medical observation measures should be implemented in strict accordance with the close contact management plan.
 
     >>> Objective
@@ -349,7 +349,7 @@ feed May2020
   # Hydroxychloroquine
   // A review on possible modes of action of chloroquine/hydroxychloroquine: repurposing against SAR-CoV-2 (COVID-19) pandemic
   doi: https://doi.org/10.1016/j.ijantimicag.2020.106028
-  ref 'Tripathy_et_al_05_22_2020
+  article 'Tripathy_et_al_05_22_2020
     head = CQ/HCQ has diverse modes of action. One or more diverse mechanisms might work against viral infections and reduce mortality.
 
     >>> Abstract
@@ -365,7 +365,7 @@ feed May2020
   # Hydroxychloroquine
   // Systematic Review and Meta-analysis of the Effectiveness and Safety of Hydroxychloroquine in COVID-19.
   doi: https://doi.org/10.1101/2020.05.07.20093831
-  ref 'Yang_et_al_06_14_2020
+  article 'Yang_et_al_06_14_2020
     head = HCQ with or without azithromycin (AZI) showed benefits in viral clearance of SARS-CoV-2 and a reduction in progression rate. However, the use of HCQ was associated with increased mortality in COVID-19 patients.
 
     >>> Backgrounds
@@ -384,7 +384,7 @@ feed May2020
   # Hydroxychloroquine
   // Hydroxychloroquine in patients with COVID-19: A Systematic Review and meta-analysis
   doi: https://doi.org/10.1016/j.dsx.2020.05.017
-  ref 'Singh_et_al_05_12_2020
+  article 'Singh_et_al_05_12_2020
     head = While no benefit on viral clearance demonstrated by HCQ compared to the control in patients with COVID-19, a significant 2-fold increase in mortality with the HCQ warrants its use.
 
     >>> Backgrounds and aims
@@ -405,7 +405,7 @@ feed May2020
   # Hydroxychloroquine
   // The possible mechanisms of action of 4-aminoquinolines (chloroquine/hydroxychloroquine) against Sars-Cov-2 infection (COVID-19): A role for iron homeostasis?
   doi: https://doi.org/10.1016/j.phrs.2020.104904
-  ref 'Roldan_et_al_05_13_2020
+  article 'Roldan_et_al_05_13_2020
     head = We suggest to use CQ/HCQ CQ beyond 5–10 days of treatment in patients with COVID-19 according to the hypothesis that their utility can extend also after ending Sars-Cov-2 high replication phase and considering also the possibility of a reactivation of the infection
 
     -- exports
@@ -423,7 +423,7 @@ feed May2020
   # Hydroxychloroquine
   // Hydroxychloroquine in patients mainly with mild to moderate COVID-19: an open-label, randomized, controlled trial
   doi: https://doi.org/10.1101/2020.04.10.20060558
-  ref 'Tang_et_al_05_07_2020
+  article 'Tang_et_al_05_07_2020
     head =  The administration of Hydroxychloroquine (HCQ) did not result in a significantly higher negative conversion probability than Standard-of-care alone in patients mainly hospitalized with persistent mild to moderate COVID-19. Adverse events were higher in HCQ recipients than in HCQ non-recipients.
 
     >>> Objectives
@@ -443,7 +443,7 @@ feed May2020
 
   // Clinical efficacy of hydroxychloroquine in patients with covid-19 pneumonia who require oxygen: observational comparative study using routine care data
   doi: https://doi.org/10.1136/bmj.m1844
-  ref 'Mahévas_et_al_05_14_2020
+  article 'Mahévas_et_al_05_14_2020
     head = 84 patients who received hydroxychloroquine within 48 hours of admission to hospital were compared with 89 patients who did not receive hydroxychloroquine. The results of this study do not support its use in patients admitted to hospital with covid-19 who require oxygen.
 
     >>> Objective:
@@ -477,7 +477,7 @@ feed May2020
   # Anthrax toxin; protecting antigen; furin; TMPRSS2, therapeutics, serine protease inhibitor, medicine frontier, origin
   // Potential Therapeutic Targeting of Coronavirus Spike Glycoprotein Priming
   doi: https://doi.org/xyz
-  ref 'Barile_et_al_05_22_2020
+  article 'Barile_et_al_05_22_2020
     head = Our studies should encourage further efforts in developing either pan-serine protease inhibitors or inhibitor cocktails to target SARS-CoV2 and potentially ward off future pandemics that could develop because of additional mutations in the S-protein priming sequence in coronaviruses.
 
     >>> Abstract
@@ -540,7 +540,7 @@ feed May2020
   # ORIGIN, FURIN CLEVAGE SITE,
   // SARS-CoV-2 strategically mimics proteolytic activation of human ENaC
   doi: https://doi.org/10.7554/eLife.58603
-  ref 'Anand_et_al_05_26_2020
+  article 'Anand_et_al_05_26_2020
     head = We report that SARS-CoV-2 has evolved a unique S1/S2 cleavage site, absent in any previous coronavirus sequenced, resulting in the striking mimicry of an identical FURIN-cleavable peptide on the human epithelial sodium channel α-subunit- ENaC-α (a protein critical for the homeostasis of airway surface liquid, whose misregulation is associated with respiratory conditions.) Evolution of SARS-CoV-2 into a global pandemic may be driven in part by its targeted mimicry of ENaC-α.
 
     >>> Abstract
@@ -585,7 +585,7 @@ feed May2020
   # origin, cleavage site, cell to cell entry
   // A Multibasic Cleavage Site in the Spike Protein of SARS-CoV-2 Is Essential for Infection of Human Lung Cells
   doi: https://doi.org/10.1016/j.molcel.2020.04.022
-  ref 'Hoffmann_et_al_05_21_2020
+  article 'Hoffmann_et_al_05_21_2020
     head = We report that the cellular protease furin cleaves the spike protein at the S1/S2 site and that cleavage is essential for S-protein-mediated cell-cell fusion and entry into human lung cells. Moreover, optimizing the S1/S2 site increased cell-cell, but not virus-cell, fusion, suggesting that the corresponding viral variants might exhibit increased cell-cell spread and potentially altered virulence. Our results suggest that acquisition of a S1/S2 multibasic cleavage site was essential for SARS-CoV-2 infection of humans and identify furin as a potential target for therapeutic intervention.
 
     >>> Summary
@@ -613,7 +613,7 @@ feed May2020
   # genomic epidemiology, phylogenetics, travel risk, mitigation, USA, epidemiology,  when i put doi- says diff published date- link shows diff date
   // Coast-to-Coast Spread of SARS-CoV-2 during the Early Epidemic in the United States
   doi: https://doi.org/10.1016/j.cell.2020.04.021
-  ref 'Fauver_et_al_05_07_2020
+  article 'Fauver_et_al_05_07_2020
     head = By coupling our genomic data with domestic and international travel patterns, we show that early SARS-CoV-2 transmission in Connecticut was likely driven by domestic introductions. Moreover, the risk of domestic importation to Connecticut exceeded that of international importation by mid-March regardless of our estimated effects of federal travel restrictions.
 
     >>> Summary
@@ -657,7 +657,7 @@ feed May2020
   # virus evolution, virus adaptation, orin story doubt, re-emergence, pangalion, Evaluating the over- or underrepresentation of food handlers and animal traders among the index cases to determine if SARS-CoV-2 precursors may have been circulating in the animal trading community.
   // SARS-CoV-2 is well adapted for humans. What does this mean for re-emergence?
   doi: https://doi.org/10.1101/2020.05.01.073262
-  ref 'Zhan_et_al_05_02_2020
+  article 'Zhan_et_al_05_02_2020
     head = Our observations suggest that by the time SARS-CoV-2 was first detected in late 2019, it was already pre-adapted to human transmission to an extent similar to late epidemic than to early-to mid epidemic SARS-CoV. However, no precursors or branches of evolution stemming from a less human-adapted SARS-CoV-2-like virus have been detected. The market samples are genetically identical to human SARS-CoV-2 isolates and were therefore most likely from human sources.
 
     >>> Abstract
@@ -732,7 +732,7 @@ feed May2020
   # spike protein; D614G mutation; genotype distribution; furin cleavage site; ASK ABOUT PUBLISHER, geographical and temporal distribution analysis
   // The SARS-CoV-2 Spike Protein D614G Mutation Shows Increasing Dominance and May Confer a Structural Advantage to the Furin Cleavage Domain
   doi: https://doi.org/10.20944/preprints202005.0407.v1
-  ref 'Tang_et_al_05_24_2020
+  article 'Tang_et_al_05_24_2020
     head = Homology modeling studies suggest a potential mechanism whereby the D614G mutation may confer a competitive advantage at the furin binding domain that may contribute to the rise of the D614G SARS-CoV-2 mutant.
 
     >>> Abstract
@@ -799,7 +799,7 @@ feed May2020
   # S1/S2 FCS,therapeutics
   // SARS-CoV-2 spike protein binds heparan sulfate in a length- and sequence-dependent manner
   doi: https://doi.org/10.1101/2020.05.10.087288
-  ref 'Liu_et_al_05_10_2020
+  article 'Liu_et_al_05_10_2020
     head = Our data supports a model in which the RBD (receptor binding domain) of the spike of SARS-CoV-2 confers sequence specificity for HS (heparan sulfate) expressed by target cells whereas an additional HS binding site in the S1/S2 proteolytic cleavage site enhances the avidity of binding. Collectively, our results highlight the potential of using HS oligosaccharides as a therapeutic agent by inhibiting SARS-CoV-2 binding to target cells.
 
     >>> Abstract
@@ -820,7 +820,7 @@ feed May2020
   # S1/S2 cleavage site, ORIGIN STORY, RmYN02 closest relative,  data are strongly suggestive of a natural zoonotic origin of SARS-CoV-2.
   // A Novel Bat Coronavirus Closely Related to SARS-CoV-2 Contains Natural Insertions at the S1/S2 Cleavage Site of the Spike Protein
   doi: https://doi.org/10.1016/j.cub.2020.05.023
-  ref 'Zhou_et_al_05_10_2020
+  article 'Zhou_et_al_05_10_2020
     head = We report a novel bat-derived coronavirus, denoted RmYN02, identified in Rhinolophus malayanus is the closest relative of SARSCoV-2 in the long 1ab replicase gene, although the virus itself has a complex history of recombination. The observation that RmYN02 contains an insertion of multiple amino acids at the S1/S2 cleavage site in the spike protein clearly indicates that events of this kind are a natural and expected component of coronavirus evolution.
 
     >>> Summary
@@ -891,7 +891,7 @@ feed May2020
   # Spike mutant, Spike S1/S2 mutant, doubt to the origin story, S1/S2 cleavage site, There is zero evidence that confirms that the SARS-CoV-2 S1/S2 PRRA(R) FCS arose naturally or artificially, but neither scenario can be ruled out. newly acquires furin-cleavage site, all SARSlike viruses isolated from bats lack this polybasic site and are cleaved by TMPRSS2 or endosomal cathepsins in the target cells
   // Attenuated SARS-CoV-2 Variants With Deletions at the S1/S2 Junction
   doi: https://doi.org/10.1080/22221751.2020.1756700
-  ref 'Lau_et_al_05_04_2020
+  article 'Lau_et_al_05_04_2020
     head = We observed a series of deleted mutants (Del-muts) and point mutation variants in Vero-E6 cell cultures of a clinical isolate. In a challenging trial in hamsters, Del-mut-1 variant in infected hamsters does not cause the body weight loss or more severe pathological changes in the lungs that is associated with wild type virus infection. It would be important to screen the prevalence of these variants in asymptomatic infected cases, and a potential as an attenuated vaccine or laboratory tool.
 
     >>> Abstract
@@ -928,7 +928,7 @@ feed May2020
   # pangolians
   // Pangolins Lack IFIH1/MDA5, a Cytoplasmic RNA Sensor That Initiates Innate Immune Defense Upon Coronavirus Infection
   doi: https://doi.org/10.3389/fimmu.2020.00939
-  ref 'Fischer_et_al_05_08_2020
+  article 'Fischer_et_al_05_08_2020
     head = Pangolins are another group of mammals with evolutionarily downregulated defense against a subset of viruses, namely those sensed by IFIH1/MDA5 or ZBP1 in other species. The loss of IFIH1 and ZBP1 provided an evolutionary advantage by reducing inflammation-induced damage to host tissues and thereby contributed to a switch from resistance to tolerance of infections by certain RNA viruses, including coronaviruses in pangolins.
 
     >>> Abstract
@@ -956,7 +956,7 @@ feed May2020
   # Pangolians probable host, origin, recombination could have occured, There is only the one batch of pangolins carrying this interesting CoV. Did they get it from animals in co-captivity? Or did they get it from the human smugglers over weeks-months in captivity?
   // Are pangolins the intermediate host of the 2019 novel coronavirus (SARS-CoV-2)?
   doi: https://doi.org/10.1371/journal.ppat.1008421
-  ref 'Liu_et_al_05_14_2020
+  article 'Liu_et_al_05_14_2020
     head = In this study, we assembled the complete genome of a coronavirus identified in 3 sick Malayan pangolins and our results showed that pangolin-CoV-2020 is genetically associated with both SARS-CoV-2 and a group of bat coronaviruses. There is a high sequence identity between pangolin-CoV-2020 and SARS-CoV-2. However, phylogenetic analyses and a special amino acid sequence in the S gene of SARS-CoV-2 did not support the hypothesis of SARS-CoV-2 arising directly from the pangolin-CoV-2020.
 
     >>> Abstract
@@ -1022,7 +1022,7 @@ feed May2020
 
   // Contributions of maternal and fetal antiviral immunity in congenital disease
   doi: https://doi.org/10.1126/science.aaz1960
-  ref 'Yockey_et_al_05_08_2020
+  article 'Yockey_et_al_05_08_2020
     head = We examine fetal and maternal immune defense mechanisms that mediate resistance against viral infections and discuss the range of syndromes that ensue when such mechanisms fail, from fetal developmental defects to establishment of chronic infection. Further, we highlight the role of maternal immune activation, or uncontrolled inflammation triggered by viral infections during pregnancy, and its potential downstream pathological effects, including tissue damage and fetal demise.
 
     >>> Abstract
@@ -1038,7 +1038,7 @@ feed May2020
   # Human-to-human transmission,  Phyloepidemiology - This paper says that it didn't start from Wuhan Market
   // Decoding the evolution and transmissions of the novel pneumonia coronavirus (SARS-CoV-2) using the whole genomic data
   doi: https://doi.org/10.24272/j.issn.2095-8137.2020.022
-  ref 'Yu_et_al_05_18_2020
+  article 'Yu_et_al_05_18_2020
     head = The 58 haplotypes were identified in 93 viral genomes. We found that haplotypes H13 and H38 might be considered as ancestral haplotypes, and later H1 was derived from the intermediate haplotype H3. The population size of the SARS-CoV-2 was estimated to have undergone a recent expansion on 06 January 2020, and an early expansion on 08 December 2019. Phyloepidemiologic approaches have recovered specific directions of human-to-human transmissions and the potential sources for international infected cases.
 
     >>> Abstract
@@ -1177,7 +1177,7 @@ feed May2020
   # Aersol
   // Modelling aerosol transport and virus exposure with numerical simulations in relation to SARS-CoV-2 transmission by inhalation indoors
   doi: https://doi.org/xyz
-  ref 'Vuorinen_et_al_05_31_2020
+  article 'Vuorinen_et_al_05_31_2020
     head = We study susceptible and infected individuals in generic public places by Monte-Carlo modelling. The introduced concept, ’exposure time’ to virus containing aerosols is proposed to complement the traditional ’safety distance’ thinking. We show that the exposure time to inhale  aerosols could range from  to or even to depending on the situation. The Monte-Carlo simulations, along with the theory, provide clear quantitative insight to the exposure time in different public indoor environments.
 
     >>> Abstract
@@ -1194,7 +1194,7 @@ feed May2020
   # Bruton tyrosine kinase - B cell receptor
   // Inhibition of Bruton tyrosine kinase in patients with severe COVID-19
   doi: https://doi.org/10.1126/sciimmunol.abd0110
-  ref 'Roschewski_et_al_05_06_2020
+  article 'Roschewski_et_al_05_06_2020
     head = This prospective study of patients with severe COVID-19 highlights the potential benefit of BTK inhibition and has led to a confirmatory international prospective randomized controlled clinical trial. Given the activation of BTK and production of IL-6 that we detected in COVID-19 monocytes, we propose that BTK inhibitors target pathological monocyte/macrophage activation and dampen the cytokine storm, which consequently may improve outcomes in these patients.  More broadly, our findings raise the prospect that the morbidity of other disease states associated with macrophage activation, including severe influenza infections, may similarly depend on BTK function, supporting clinical trial evaluation of BTK inhibitors in these clinical settings as well.
 
     >>> Abstract
@@ -1218,7 +1218,7 @@ feed May2020
   # Viral Vector Vaccine - ChAdOx1
   // ChAdOx1 nCoV-19 vaccination prevents SARS-CoV-2 pneumonia in rhesus macaques
   doi: https://doi.org/10.1101/2020.05.13.093195
-  ref 'Doremalen_et_al_05_13_2020
+  article 'Doremalen_et_al_05_13_2020
     head = Here, we showed that a single vaccination with ChAdOx1 nCoV-19 is effective in preventing damage to the lungs upon high dose challenge with SARS-CoV-2. Similarly a recent study showed that a triple vaccination regime of a high dose of whole inactivated SARS-CoV-2 protected rhesus macaques from SARS-CoV-2 pneumonia.
 
     >>> Abstract
@@ -1238,7 +1238,7 @@ feed May2020
 # Counter - Corticosteroid
   // Impact of corticosteroid therapy on outcomes of persons with SARS-CoV-2, SARS-CoV, or MERS-CoV infection: a systematic review and meta-analysis
   doi: https://doi.org/10.1038/s41375-020-0848-3
-  ref 'Li_et_al_05_05_2020
+  article 'Li_et_al_05_05_2020
     head = Corticosteroid use in subjects with SARS-CoV-2, SARS-CoV, and MERS-CoV infections delayed virus clearing and did not convincingly improve survival, reduce hospitalization duration or ICU admission rate and/or use of mechanical ventilation. There were several adverse effects. Because of a preponderance of observational studies in the dataset and selection and publication biases our conclusions, especially regarding SARS-CoV-2, need confirmation in randomized clinical trials.
 
     >>> Abstract
@@ -1251,7 +1251,7 @@ feed May2020
   # Severe Covid , !c !f severe covid - clinical recommendation tocilizumab
   // Clinical and pathological investigation of patients with severe COVID-19
   doi: https://doi.org/10.1172/jci.insight.138070
-  ref 'Li_et_al_05_19_2020b
+  article 'Li_et_al_05_19_2020b
     head =  A panel of circulating cytokines could be used to predict disease deterioration and inform clinical interventions. Severe pulmonary damage was predominantly attributed to both cytopathy caused by SARS-CoV-2 and immunopathologic damage. Strategies that prohibit pulmonary recruitment and overactivation of inflammatory cells by suppressing cytokine storm might improve the outcomes of patients with severe COVID-19.
 
     >>> BACKGROUND
@@ -1307,7 +1307,7 @@ feed May2020
   # Nelfinavir
   // Nelfinavir for COVID19: Summary of basic science data and initial clinical experience
   doi: https://doi.org/10.21203/rs.3.rs-27346/v1
-  ref 'Lee_et_al_05_12_2020
+  article 'Lee_et_al_05_12_2020
     head = We found that after in three of four acute outpatient COVID-19 patients became afebrile within 48 hours; the empiric addition of baloxavir to nelfinavir may have been helpful. In contrast, the two subacute COVID-19 patients with predominant GI symptoms only responded partially to nelfinavir.
 
     >>> Abstract
@@ -1322,7 +1322,7 @@ feed May2020
   # Nelfinavir
   // The anti‐HIV drug nelfinavir mesylate (Viracept) is a potent inhibitor of cell fusion caused by the SARSCoV‐2 spike (S) glycoprotein warranting further evaluation as an antiviral against COVID‐19 infections
   doi: https://doi.org/10.1002/jmv.25985
-  ref 'Musarrat_et_al_05_06_2020
+  article 'Musarrat_et_al_05_06_2020
     head = We show that the SARS CoV‐2 Spike (Sn) glycoprotein causes drastically more cell fusion and syncytia formation in comparison to the SARS Spike (So) glycoprotein following transient expression in Vero cells. Importantly, we show that nelfinavir mesylate, a currently prescribed anti‐HIV protease inhibitor, drastically inhibited both S‐n‐ and S‐o‐mediated cell fusion.
 
     >>> Abstract
@@ -2899,7 +2899,7 @@ feed May2020
   # Public Policy, history of facemasks
   // A history of the medical mask and the rise of throwaway culture
   doi: https://doi.org/10.1016/S0140-6736(20)31207-1
-  ref 'Strasser_et_al_05_22_2020
+  article 'Strasser_et_al_05_22_2020
     head = Reusable masks were once an essential part of the medical arsenal. However, the industrial production and further research and development of reusable masks was largely halted with the transition towards disposable masks in the 1960s.
 
     -- exports

@@ -75,7 +75,7 @@ feed February2020
   # SARS-CoV2 indicate that furin is more dispensable than TMPRSS2 for viral entry, furin
   // Functional assessment of cell entry and receptor usage for SARS-CoV-2 and other lineage B betacoronaviruses
   doi: https://doi.org/10.1038/s41564-020-0688-y
-  ref 'Letko_et_al_02_24_2020
+  article 'Letko_et_al_02_24_2020
     head = These findings show that even though baby hamster kidney (BHK) cells expressing human ACE2 cells support full-length clade 1 spike entry, just having the RBD from a clade 1 virus was insufficient to mediate efficient entry. As seen in our experiments, protease treatment did not enhance pseudotype entry in the absence of host receptor. It alsoo confirm that human ACE2 is the receptor for the recently emerging SARS-CoV-2.
 
     >>> Abstract
@@ -111,7 +111,7 @@ feed February2020
   # testing, face mask
   // Exhaled Mycobacterium tuberculosis output and detection of subclinical disease by face-mask sampling: prospective observational studies
   doi: https://doi.org/10.1016/S1473-3099(19)30707-8
-  ref 'Williams_et_al_02_18_2020
+  article 'Williams_et_al_02_18_2020
     head = We have shown that over a 24-h sampling period, applied to patients with established sputum-positive disease, M tuberculosis is detected at least four times more frequently with face masks than in sputum samples. Moreover, we have shown the clinical effect of this increased level of detection in which face-mask sampling achieved microbiological diagnosis of active tuberculosis from one sample up to 6 weeks before conventional sputum diagnosis, providing scope to interrupt possible transmission at an earlier stage of disease.
 
     >>> Background
@@ -148,7 +148,7 @@ feed February2020
   # Pangolians probable host, origin, recombination of a Pangolin-CoV-like virus with a Bat-CoV-RaTG13-like virus..There is only the one batch of pangolins carrying this interesting CoV. Did they get it from animals in co-captivity? Or did they get it from the human smugglers over weeks-months in captivity? # whether SARS-CoV-2 is a recombinant virus, and whether such recombination might have facilitated its emergence, THIS PAPER IS ALREADY DONE - IN RESEARCH.I, CLUB IT WITH THE ARGUMENT-  RECOMBINATION EVENT,
   // Isolation and Characterization of 2019-nCoV-like Coronavirus from Malayan Pangolins
   doi: https://doi.org/10.1101/2020.02.17.951335
-  ref 'Xiao_et_al_02_20_2020
+  article 'Xiao_et_al_02_20_2020
     head = The RBD of pangolin-CoV is virtually identical to that of 2019-nCoV, and has strong binding ability to human ACE2, Pangolin-CoV presents a potential future threat to public health. The broad binding range of pangolin ACE2 to RBD of S proteins reaffirms the potential of pangolins as the intermediate host of SARSr-CoV.
 
     >>> Abstract
@@ -502,7 +502,7 @@ feed February2020
   # Consipiracy Claims - from the doc, Origin , Index patient
   // Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China
   doi: https://doi.org/10.1016/S0140-6736(20)30183-5
-  ref 'Huang_et_al_2020
+  article 'Huang_et_al_2020
     head = 27 (66%) patients had direct exposure to Huanan seafood market. Market exposure was similar between the patients with ICU care (nine [69%]) and those with non-ICU care (18 [64%]). The symptom onset date of the first patient identified was Dec 1, 2019. No epidemiological link was found between the first patient and later cases.
 
     >>> Background

@@ -67,7 +67,7 @@ subject module Timeline
     / SARS
     // SARS Outbreak of 2002-2004
     subject SARS
-      head = The 2002–2004 SARS outbreak was an epidemic caused by severe SARS-CoV (or SARS-CoV-1), first identified in Foshan, Guangdong, China. The most recent studies into the virus's origin assert that the outbreak likely resulted from multiple recombination events from a number of SARSr-CoV ancestors in different horseshoe bat species.
+      head = The 2002–2004 SARS outbreak was an epidemic caused by severe SARS-CoV (or SARS-CoV-1), first identified in Foshan, Guangdong, China. The most recent studies into the virus' origin assert that the outbreak likely resulted from multiple recombination events from a number of SARSr-CoV ancestors in different horseshoe bat species.
 
       face orig = The origin of the 2003 SARS epidemic and the 2004 mild SARS cases was probably a result of multiple recombination events.
       --
@@ -78,6 +78,9 @@ subject module Timeline
         'Li_et_al_2005
         'Hou_et_al_2010
         'Magiorkinis_et_al_09_14_2004
+        'Hu_et_al_11_30_2017
+        'Frank_et_al_04_20_2020
+        'Yang_et_al_12_30_2015
 
 
     / MERS
@@ -102,7 +105,6 @@ subject module Timeline
       Europe
     --
       TranmissionLineage
-    --
       GlobalEpidemiology
 
     / China
@@ -113,8 +115,8 @@ subject module Timeline
         'Zhu_et_al_2020
         'Huang_et_al_2020
         'Liu_et_al_03_03_2020
-        'Liu_et_al_03_03_2020.!a
-        'Liu_et_al_03_03_2020.!b
+        # 'Liu_et_al_03_03_2020.!a
+        # 'Liu_et_al_03_03_2020.!b
         'Bi_et_al_2020
         'Wu_et_al_2020.!a
         'Wu_et_al_2020e
@@ -164,17 +166,20 @@ subject module Timeline
       head = Early cases were associated with chinese origin, who had travelled to France from China around mid-January, 2020.
       --
         'XavierLescure_et_al_2020
+
+    —
     / Global Epidemiology
     subject GlobalEpidemiology
-      head = Undocumented rapid geographic spread of SARS-CoV-2 indicates containment of this virus will be particularly challenging.
+      # head = Undocumented rapid geographic spread of SARS-CoV-2 indicates containment of this virus will be particularly challenging.
       --
         'Lai_et_al_2020
         'Ruiyun_et_al_2020
         'Gudbjartsson_et_al_2020.!a
         'Gudbjartsson_et_al_2020.!c
+    —
     / Tranmission Lineage
     subject TranmissionLineage
-      head = Phyloepidemiologic approaches have recovered specific directions of human-to-human transmissions and the potential sources for international infected cases.
+      # head = Phyloepidemiologic approaches have recovered specific directions of human-to-human transmissions and the potential sources for international infected cases.
       --
         'Bhattacharyya_et_al_2020
         'Miller_et_al_2020b
@@ -196,7 +201,8 @@ subject module Timeline
         'Tang_et_al_05_24_2020.!b
         'Tang_et_al_05_24_2020.!d
 
-  / Origin of the SARS-CoV2
+  —
+  / Origin of SARS-CoV2
   subject module Origin
     head = Researches have proposed multiple theories as to the original source of human transmission of the SARS-CoV2 virus. Theories range from direct or indirect animal tranmission (involving bats, pangolins or civets) to spillover from a nearby laboratory.
 

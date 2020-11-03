@@ -3,7 +3,7 @@ feed DPResearch
   ## multiple modes	Hospital, Public Travel, Travel, commuting
   // Reductions in commuting mobility predict geographic differences in SARS-CoV-2 prevalence in New York City
   doi: http://nrs.harvard.edu/urn-3:HUL.InstRepos:42665370
-  ref 'Kissler_et_al_05_08_2020
+  article 'Kissler_et_al_05_08_2020
     head = Daily commuting by Public Travel could be related to the transmission, as shown by the correlation of low transmission with low commuting in NewYork.
 
     >>> Abstract
@@ -46,7 +46,7 @@ feed DPResearch
   ## Droplet, coughing, sneezing
   doi: https://doi.org/10.1007/s00348-015-2078-4
   // Visualization of sneeze ejecta: Steps of fluid fragmentation leading to respiratory droplets.
-  ref 'Scharfman_et_al_01_20_2016
+  article 'Scharfman_et_al_01_20_2016
     head = A report of formation of droplets of different sizes, and mechanisms done using high-speed imaging from mouth while coughing and sneezing.
     >>> Abstract
       Coughs and sneezes feature turbulent, multiphase flows that may contain pathogen-bearing droplets of mucosalivary fluid. As such, they can contribute to the spread of numerous infectious diseases, including influenza and SARS. The range of contamination of the droplets is largely determined by their size. However, major uncertainties on the drop size distributions persist. Here, we report direct observation of the physical mechanisms of droplet formation at the exit of the mouth during sneezing. Specifically, we use high-speed imaging to directly examine the fluid fragmentation at the exit of the mouths of healthy subjects. We reveal for the first time that the breakup of the fluid into droplets continues to occur outside of the respiratory tract during violent exhalations. We show that such breakup involves a complex cascade of events from sheets, to bag bursts, to ligaments, which finally break into droplets. Finally, we reveal that the viscoelasticity of the mucosalivary fluid plays an important role in delaying fragmentation by causing the merger of the droplet precursors that form along stretched filaments; thereby affecting the final drop size distribution farther downstream.
@@ -64,7 +64,7 @@ feed DPResearch
   ## Airborne, Aerosol, speech
   // The coronavirus pandemic and aerosols: Does COVID-19 transmit via expiratory particles?
   doi: https://dx.doi.org/10.1080%2F02786826.2020.1749229
-  ref 'Asadi_et_al_04_01_2020
+  article 'Asadi_et_al_04_01_2020
     head = This systematically reviews and argues for a possibility of aersol-based transmission in COVID-19
     >>> Abstract
       Asymptomatic and pre-symptomatic individuals, by definition, do not cough or sneeze to any appreciable extent. This leaves direct or indirect contact modes and aerosol transmission as the main possible modes of transmission.
@@ -86,7 +86,7 @@ feed DPResearch
   ## Droplet, Fomite, Aerosol, speech, coughing, sneezing, asymptomatic  Transmission
   doi: https://doi.org/xyz
   // Could SARS-CoV-2 be transmitted via speech droplets?
-  ref 'Anfinrud_04_06_2020
+  article 'Anfinrud_04_06_2020
     head = This describes our use of laser light-scattering to sensitively detect droplet emission while speaking
     >>> Abstract/Extract
       - "the scientific and medical communities have been slow to study the role droplets produced during normal speech may play in the transmission of COVID-19. Considering that reports of asymptomatic transmission account for 50–80% of COVID-19 cases, droplet emission while speaking could be a significant factor driving transmission.""
@@ -109,7 +109,7 @@ feed DPResearch
   ## non-covid
   doi: https://doi.org/10.1001/jama.2020.0757
   // Coronavirus Infections-More Than Just the Common Cold
-  ref 'Paules_et_al_01_23_2020
+  article 'Paules_et_al_01_23_2020
     head =
     >>> Abstract/Extract
       - Common symptoms of SARS included fever, cough, dyspnea, and occasionally watery diarrhea.
@@ -127,7 +127,7 @@ feed DPResearch
   ##tags
   // Prediction of Spatial and Temporal Distribution of Expiratory Droplets in an Aircraft Cabin
   doi: https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1055&context=ihpbc
-  ref 'Gupta_et_al_2010
+  article 'Gupta_et_al_2010
     head = A study investigating the unsteady transport of droplets exhaled by an index passenger in an aircraft cabin
     >>> Abstract
       The present study investigated the unsteady transport of droplets exhaled by an index passenger in an aircraft cabin
@@ -152,7 +152,7 @@ feed DPResearch
   ##tags
   doi: https://doi.org/xyz
   // Title of the Paper
-  ref 'Xiao_et_al_02_20_2020
+  article 'Xiao_et_al_02_20_2020
     head =
     >>> Abstract
 

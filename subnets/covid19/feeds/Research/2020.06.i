@@ -56,7 +56,7 @@ feed June2020
   # Limitations of PPE ?
   // Impact of Personal Protective Equipment on Surgical Performance During the COVID-19 Pandemic
   doi: https://doi.org/10.1007/s00268-020-05648-2
-  ref 'Benitez_et_al_06_20_2020
+  article 'Benitez_et_al_06_20_2020
     head = Surgeons perceived impediment for both visibility and communication, and other non-technical skills while using PPE on emergency surgery in COVID-19 patients. Their perceived lack of protection and comfort and increased fatigue may have inhibited their optimal surgical performance. More attention should be placed in the design of more user-friendly equipment, given the possibility of a second wave of the pandemic.
 
     >>> Background
@@ -83,7 +83,7 @@ feed June2020
   # Facemask Limitations while Exercising
   // “Exercise with facemask; Are we handling a devil's sword?” – A physiological hypothesis
   doi: https://doi.org/10.1016/j.mehy.2020.110002
-  ref 'Chandrashekar_et_al_06_22_2020
+  article 'Chandrashekar_et_al_06_22_2020
     head = Exercising with facemasks may reduce available Oxygen and increase air trapping preventing substantial carbon dioxide exchange. The hypercapnic hypoxia may potentially increase acidic environment, cardiac overload, anaerobic metabolism and renal overload, which may substantially aggravate the underlying pathology of established chronic diseases.
 
     >>> Abstract
@@ -95,7 +95,7 @@ feed June2020
   # Surgical Mask, Aerosols,
   // A physicist's approach to COVID-19 transmission via expiratory droplets
   doi: https://doi.org/10.1016/j.mehy.2020.109997
-  ref 'Carelli_et_al_06_17_2020
+  article 'Carelli_et_al_06_17_2020
     head = The intermediate dimensioned droplets are proved to be changed into aerosol, losing their water content and becoming seriously contagious, but in their initial phase they could be easily caught by a simple surgical mask. The actual efficiency of FFP (filtering face piece) 3 masks has been examined and found to be lower than expected.
 
     >>> Abstract
@@ -111,7 +111,7 @@ feed June2020
 
   // Use of personal protective equipment against coronavirus disease 2019 by healthcare professionals in Wuhan, China: cross sectional study
   doi: https://doi.org/10.1136/bmj.m2195
-  ref 'Liu_et_al_06_10_2020
+  article 'Liu_et_al_06_10_2020
     head = All 420 study participants had direct contact with patients and performed at least one aerosol generating procedure. None of the participants reported Covid-19 related symptoms. Healthcare systems must give priority to the procurement and distribution of personal protective equipment, and provide adequate training to healthcare professionals in its use.
 
     >>> Objective
@@ -144,7 +144,7 @@ feed June2020
   # Hydroxychloroquine - Mortality
   // Risk Factors for Mortality in Patients with COVID-19 in New York City
   doi: https://doi.org/10.1007/s11606-020-05983-z
-  ref 'Mikami_et_al_06_30_2020
+  article 'Mikami_et_al_06_30_2020
     head = Older age, male sex, hypotension, tachypnea, hypoxia, impaired renal function, elevated D-dimer, and elevated troponin were associated with increased in-hospital mortality and hydroxychloroquine use was associated with decreased in-hospital mortality.
 
     >>> Background
@@ -174,7 +174,7 @@ feed June2020
   # Hydroxychloroquine
   // Outcomes of 3,737 COVID-19 patients treated with hydroxychloroquine/azithromycin and other regimens in Marseille, France: A retrospective analysis
   doi: https://doi.org/10.1016/j.tmaid.2020.101791
-  ref 'Lagier_et_al_06_25_2020
+  article 'Lagier_et_al_06_25_2020
     head = Early isolation and early treatment of COVID-19 patients, with at least 3 days of HCQ-AZ lead to a significantly better clinical outcome and a faster viral load reduction than other treatments.
 
     >>> Background
@@ -196,7 +196,7 @@ feed June2020
   # Household
   // SARS-CoV-2 in environmental samples of quarantined households
   doi: https://doi.org/10.1101/2020.05.28.20114041
-  ref 'Döhla_et_al_06_02_2020
+  article 'Döhla_et_al_06_02_2020
     head = The domestic environment predominantly does not seem to pose a high risk for transmission of SARS-CoV-2. Surfaces in the domestic environment did not show a high contamination rate, whereas the detection of viral RNA in wastewater of washbasins, showers and toilets showed a significantly higher contamination with SARS-CoV-2.
 
     >>> Abstract
@@ -212,7 +212,7 @@ feed June2020
   # Close contact . Indirect Tranmission
   // Indirect Virus Transmission in Cluster of COVID-19 Cases, Wenzhou, China, 2020
   doi: https://dx.doi.org/10.3201%2Feid2606.200412
-  ref 'Cai_et_al_06_26_2020
+  article 'Cai_et_al_06_26_2020
     head = Low intensity transmission occurred without prolonged close contact in this mall; that is, the virus spread by indirect transmission.
 
     >>> Abstract
@@ -225,7 +225,7 @@ feed June2020
   # Social Distancing
   // Impact of Timing of and Adherence to Social Distancing Measures on COVID-19 Burden in the US: A Simulation Modeling Approach
   doi: https://doi.org/10.1101/2020.06.07.20124859
-  ref 'Alagoz_et_al_06_09_2020
+  article 'Alagoz_et_al_06_09_2020
     head = Timing of social distancing and adherence level had a major effect on COVID-19 occurrence. Implementing social distancing measures on March 5, 2020 instead of March 12, 2020 would have reduced the total number of confirmed cases from 191,984 to 43,968 as of May 30, whereas a 1-week delay in implementing such measures could have increased the number of confirmed cases to 1,299,420.
 
     >>> Background
@@ -247,7 +247,7 @@ feed June2020
   # Hydroxychloroquine - Narrative Paper for rationale?
   // Hydroxychloroquine and Covid-19: A Cellular and Molecular Biology Based Update
   doi: https://doi.org/10.1007/s12291-020-00900-x
-  ref 'Pal_et_al_06_10_2020
+  article 'Pal_et_al_06_10_2020
     head = In this review, we will study the cellular and molecular aspects of hydroxychloroquine, which had driven its use in Covid-19 patients, as well as its chemistry and pharmacokinetics along with clinical trials going on worldwide using hydroxychloroquine against Covid-19.
 
     >>> Abstract
@@ -263,7 +263,7 @@ feed June2020
   # Nosocomial - Dispute Not airborne
   // Risk of nosocomial transmission of coronavirus disease 2019: an experience in a general ward setting in Hong Kong
   doi: https://doi.org/10.1016/j.jhin.2020.03.036
-  ref 'Wong_et_al_06_01_2020
+  article 'Wong_et_al_06_01_2020
     head =  Our findings suggest that SARS-CoV-2 is not spread by an airborne route, and nosocomial transmissions can be prevented through vigilant basic infection control measures, including wearing of surgical masks, hand and environmental hygiene.
 
     >>> Background
@@ -291,7 +291,7 @@ feed June2020
   # Transmission
   // Recreational waters – A potential transmission route for SARS-CoV-2 to humans?
   doi: https://doi.org/10.1016/j.scitotenv.2020.140122
-  ref 'Cahill_et_al_06_11_2020
+  article 'Cahill_et_al_06_11_2020
     head = SARS-CoV-2 virus has been detected in both faecal and wastewater samples across the globe. Further research is warranted to investigate both viability and infectivity of this novel virus in wastewater and in receiving water bodies.
 
     >>> Abstract
@@ -306,7 +306,7 @@ feed June2020
   #  Close Contact
   // A Cluster of Novel Coronavirus Disease 2019 Infections Indicating Person-to-Person Transmission Among Casual Contacts From Social Gatherings: An Outbreak Case-Contact Investigation
   doi: https://doi.org/10.1093/ofid/ofaa231
-  ref 'Shen_et_al_06_12_2020
+  article 'Shen_et_al_06_12_2020
     head = We report several transmission events to both close and casual contacts. Transmission efficiency among close contacts was higher than among casual contacts.
 
     >>> Background
@@ -330,7 +330,7 @@ feed June2020
   # Transmission Cluster - Household, Close contact, Shared food, Public transport , Airline , Malls
   // A Comparison of Infection Venues of COVID-19 Case Clusters in Northeast China
   doi: https://dx.doi.org/10.3390%2Fijerph17113955
-  ref 'Zhao_et_al_06_03_2020
+  article 'Zhao_et_al_06_03_2020
     head = This study analysed the epidemic situations in various areas in the three provinces of Northeast China and the effects of various types of infection location on identified COVID-19 clusters.
 
     >>> Abstract
@@ -342,7 +342,7 @@ feed June2020
   # Face Mask and Social Distancing >1m
   // Physical distancing, face masks, and eye protection to prevent person-to-person transmission of SARS-CoV-2 and COVID-19: a systematic review and meta-analysis
   doi: https://doi.org/10.1016/S0140-6736(20)31142-9
-  ref 'Chu_et_al_06_01_2020
+  article 'Chu_et_al_06_01_2020
     head = We investigate the optimum distance for avoiding person-to-person virus transmission and assess the use of face masks and eye protection Transmission was lower with physical distancing of 1 m or more, compared with less than 1 m.
 
     >>> Background
@@ -377,7 +377,7 @@ feed June2020
   # Hydroxychloroquine
   // Controlled, double-blind, randomized trial to assess the efficacy and safety of hydroxychloroquine chemoprophylaxis in SARS CoV2 infection in healthcare personnel in the hospital setting: A structured summary of a study protocol for a randomised controlled trial
   doi: https://doi.org/10.1186/s13063-020-04400-4
-  ref 'Lavín_et_al_06_03_2020
+  article 'Lavín_et_al_06_03_2020
     head = There is no accepted chemoprophylaxis but hydroxychloroquine is known to inhibit the coronavirus in vitro. Our hypothesis is that oral administration of hydroxychloroquine to healthcare professionals can reduce the incidence and prevalence of infection as well as its severity
 
     / June, 2020 - Trials
@@ -387,7 +387,7 @@ feed June2020
   # On-going Clinical study - Hydroxychloroquine
   // Efficacy of hydroxychloroquine for post-exposure prophylaxis to prevent severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection among adults exposed to coronavirus disease (COVID-19): a structured summary of a study protocol for a randomised controlled trial
   doi: https://doi.org/10.1186/s13063-020-04446-4
-  ref 'Barnabas_et_al_06_03_2020
+  article 'Barnabas_et_al_06_03_2020
     head = This is a clinical study to test the efficacy of Hydroxychloroquine started at March 21, anticipated end date is September 30, 2020. This study will enroll up to 2000 asymptomatic men and women 18 to 80 years of age (inclusive) who are close contacts of persons with laboratory-confirmed SARS-CoV-2 or clinically suspected COVID-19.
 
 
@@ -398,7 +398,7 @@ feed June2020
   # genomic risk, greatest risk of contracting severe COVID-19 and develop targeted therapeutic strategies for them, Blood type, cancer, cardiovascular, neurodegenerative
   // Analysis of Genetic Host Response Risk Factors in Severe COVID-19 Patients
   doi: https://doi.org/xyz
-  ref 'Taylor_et_al_06_20_2020
+  article 'Taylor_et_al_06_20_2020
     head = The variants we found in genes relating to immune response pathways and cytokine production cascades, were in equal proportions across all severe COVID-19 patients, regardless of their co-morbidities. We found many novel targets that are involved in key biological pathways associated with the development of severe COVID-19, including production of pro-inflammatory cytokines, endothelial cell dysfunction, lipid droplets, neurodegeneration and viral susceptibility factors.
 
     >>> Background
@@ -496,7 +496,7 @@ feed June2020
   # genetic risk, blood group type, Italy and Spain
   // Genomewide Association Study of Severe Covid-19 with Respiratory Failure
   doi: https://doi.org/10.1056/NEJMoa2020283
-  ref 'Ellinghaus_et_al_06_17_2020
+  article 'Ellinghaus_et_al_06_17_2020
     head = We identified a 3p21.31 gene cluster as a genetic susceptibility locus in patients with Covid-19 with respiratory failure and confirmed a potential involvement of the ABO blood-group system.
 
     >>> Background
@@ -552,7 +552,7 @@ feed June2020
   # Mutation; Phylogenetics; Transmission
   // No evidence for increased transmissibility from recurrent mutations in SARS-CoV-2
   doi: https://doi.org/10.1101/2020.05.21.108506
-  ref 'Dorp_et_al_06_30_2020
+  article 'Dorp_et_al_06_30_2020
     head = Recurrent SARS-CoV-2 mutations currently in circulation appear to be evolutionary neutral. Recurrent mutations also seem primarily induced by the human immune system via host RNA editing, rather than being signatures of adaption to the novel human host. We find no evidence at this stage for the emergence of more transmissible lineages of SARS-CoV-2 due to recurrent mutations.
 
     >>> Abstract
@@ -608,7 +608,7 @@ feed June2020
   # phlyogeoraphy, transmission lineage
   // Accommodating individual travel history, global mobility, and unsampled diversity in phylogeography: a SARS-CoV-2 case study.
   doi: https://doi.org/10.1101/2020.06.22.165464
-  ref 'Lemey_et_al_06_23_2020
+  article 'Lemey_et_al_06_23_2020
     head = We demonstrate that including travel history data for each SARS-CoV-2 genome yields more realistic reconstructions of virus spread, particularly when travelers from undersampled locations are included to mitigate sampling bias.
 
     >>> Abstract
@@ -653,7 +653,7 @@ feed June2020
   # virus infectivity in cells, spike protein; D614G mutation; genotype distribution; furin cleavage site
   // The D614G mutation in the SARS-CoV-2 spike protein reduces S1 shedding and increases infectivity
   doi: https://doi.org/10.1101/2020.06.12.148726
-  ref 'Zhang_et_al_06_12_2020
+  article 'Zhang_et_al_06_12_2020
     head = SG614 is more stable than SD614, consistent with epidemiological data suggesting that viruses with SG614 transmit more efficiently.
 
     >>> Abstract
@@ -698,7 +698,7 @@ feed June2020
   # High prevalence and amplification along the supply chain for human consumption
   // Coronavirus testing indicates transmission risk increases along wildlife supply chains for human consumption in Viet Nam, 2013-2014
   doi: https://doi.org/10.1101/2020.06.05.098590
-  ref 'Huong_et_al_06_17_2020
+  article 'Huong_et_al_06_17_2020
     head = Our study found high proportion of coronavirus positive animals and increasing proportion of positives were found along the rodent trade supply chain. Our analysis indicates either mixing of animal excreta in the environment or interspecies transmission of coronaviruses, as both bat and avian coronaviruses were detected in rodent feces in the trade. This, likely underpins the mechanisms of zoonotic spillover to people.
 
     >>> Abstract
@@ -734,7 +734,7 @@ feed June2020
   # probability of pangolian being the host
   // Pangolins and bats living together in underground burrows in Lopé National Park, Gabon
   doi: https://doi.org/10.1111/aje.12759
-  ref 'Lehmann_et_al_06_17_2020
+  article 'Lehmann_et_al_06_17_2020
     head = The fact that both giant and white‐bellied pangolins in Lopé, Central Gabon, use burrows that are inhabited by several species of bats illustrates that there is frequent opportunity for pangolins to be exposed to bat‐borne viruses. Pangolins are also commonly found in game meat markets in Gabon and are sometimes sold alive demonstrating risk of viral infection to humans.
 
     # / June, 2020 - African Journal of Ecology
@@ -745,7 +745,7 @@ feed June2020
   # T-cell epitopes, HLA peptides, vaccine design, T-cells, immunity, immunology, virology,cross-reactivity, Ask about the publisher, Club with 723,725, 726, development of prophylactic and therapeutic vaccination frontier
   // SARS-CoV-2 T-cell epitopes define heterologous and COVID-19-induced T-cell recognition
   doi: https://doi.org/10.21203/rs.3.rs-35331/v1
-  ref 'Nelde_et_al_06_16_2020
+  article 'Nelde_et_al_06_16_2020
     head = Intensity of T-cell responses and recognition rate of T-cell epitopes was significantly higher in the convalescent donors compared to unexposed individuals. Intensity of T-cell responses did not negatively affect COVID-19 severity. Diversity of SARS-CoV-2 T-cell responses was increased in case of mild symptoms, providing evidence that development of immunity requires recognition of multiple SARS-CoV-2 epitopes.
 
     >>> Abstract
@@ -788,7 +788,7 @@ feed June2020
   # counter to pangolians being a host, Sunda pangolins are incidental rather than reservoir hosts of coronaviruses, Supports our hypothesis all this time that the Guangdong pangolins had contracted their CoV during the smuggling process, PANGOLAIN NOT HOST
   // No evidence of coronaviruses or other potentially zoonotic viruses in Sunda pangolins (Manis javanica) entering the wildlife trade via Malaysia.
   doi: https://doi.org/10.1101/2020.06.19.158717
-  ref 'Lee_et_al_06_19_2020
+  article 'Lee_et_al_06_19_2020
     head = The lack of any coronavirus detection in our ‘upstream’ market chain samples (cohort of animals yet to enter or just entering the illegal trade network) suggests that these detections in ‘downstream’ animals (cohorts confiscated at their destination in China) more plausibly reflect exposure to infected humans, wildlife or other animals within the wildlife trade network. While confirmatory serologic studies are needed, it is likely that Sunda pangolins are incidental rather than reservoir hosts of coronaviruses.
 
     >>> Abstract
@@ -825,7 +825,7 @@ feed June2020
   # 2 studies show #COVID19 patients lose IgG antibodies within weeks or months after recovery.n short, a perfect example of #COVID19 misinformation. The titre of neutralising antibodies wanes, but #SARSCoV2 induces long-lasting T-cell response and there's been no confirmed reinfection to date. CLUB WITH 726
   // Prevalence of IgG antibodies to SARS-CoV-2 in Wuhan - implications for the ability to produce long-lasting protective antibodies against SARS-CoV-2
   doi: https://doi.org/10.1101/2020.06.13.20130252
-  ref 'Liu_et_al_06_16_2020
+  article 'Liu_et_al_06_16_2020
     head = Very few healthcare providers had IgG antibodies to SARS-CoV-2, though a significant proportion of them had been infected with the virus. More than 10% of COVID-19 patients did not have those antibodies after 21 days post symptom onset. After SARS-CoV-2 infection, people are unlikely to produce long-lasting protective antibodies against this virus.
 
     >>> Background
@@ -863,7 +863,7 @@ feed June2020
   # IgG, Antibodies, asymptomatic, immunity strategy and serological surveys, the lack of sufficient "long-lasting protective antibodies" post #SARSCoV2 infection and the risks of using #COVID19 "immunity passports". This does not imply they can be reinfected.A certain type of antibody IgG wanes.This doesn’t mean you lose protection from covid after an infection.   More studies are needed.- REFER TO SHEET FOR ARGUMENT, club with 725
   // Clinical and immunological assessment of asymptomatic SARS-CoV-2 infection
   doi: https://doi.org/10.1038/s41591-020-0965-6
-  ref 'Xin-Long_et_al_06_18_2020
+  article 'Xin-Long_et_al_06_18_2020
     head = 40% of asymptomatic individuals became seronegative and 12.9% of the symptomatic group became negative for IgG in the early convalescent phase (within 8 weeks after the onset of symptoms). In addition, asymptomatic individuals exhibited lower levels of 18 pro- and anti-inflammatory cytokines. These data suggest that asymptomatic individuals had a weaker immune response to SARS-CoV-2 infection.
 
     >>> Abstract
@@ -906,7 +906,7 @@ feed June2020
   # Most convalescent plasma obtained from individuals who recover from #COVID19 do *not* contain high levels of neutralizing activity.
   // Convergent antibody responses to SARS-CoV-2 in convalescent individuals
   doi: https://doi.org/10.1038/s41586-020-2456-9
-  ref 'Robbiani_et_al_06_18_2020
+  article 'Robbiani_et_al_06_18_2020
     head = The observation that plasma neutralizing activity is low in most convalescent individuals, but that recurrent anti-SARS-CoV-2 RBD antibodies with potent neutralizing activity can be found in individuals with unexceptional plasma neutralizing activity suggests that humans are intrinsically capable of generating anti-RBD antibodies that potently neutralize SARS-CoV-2.
 
     >>> Abstract
@@ -969,7 +969,7 @@ feed June2020
   # FACE MASK, airborne transmission, public policy, humidity, PM2.5, many scientist were questioning this paper.
   // Identifying airborne transmission as the dominant route for the spread of COVID-19
   doi: https://doi.org/10.1073/pnas.2009637117
-  ref 'Zhang_et_al_06_11_2020
+  article 'Zhang_et_al_06_11_2020
     head = Our results show that the airborne transmission route, particularly via nascent aerosols from human atomization, is highly virulent and dominant for the spread of COVID-19. Our analysis reveals that the difference with and without mandated face covering represents the determinant in shaping the pandemic trends. This protective measure alone significantly reduced the number of infections. Other mitigation measures, such as social distancing implemented in the United States, are insufficient by themselves in protecting the public.
 
     >>> Abstract
@@ -1057,7 +1057,7 @@ feed June2020
   # NPIs, RO
   // Estimating the effects of non-pharmaceutical interventions on COVID-19 in Europe
   doi: https://doi.org/10.1038/s41586-020-2405-7
-  ref 'Flaxman_et_al_06_08_2020
+  article 'Flaxman_et_al_06_08_2020
     head = Given the observed infection fatality ratios and the epidemiology of COVID-19, major non-pharmaceutical interventions and lockdown in particular have had a large effect on reducing transmission. In all countries in this study we find that these interventions have reduced the reproduction number below one and have contained their epidemics at the current time. When looking at simplistic counterfactuals over the whole epidemic the number of potential deaths averted is substantial.
 
     >>> Abstract
@@ -1109,7 +1109,7 @@ feed June2020
   # gender, immune respone
   // Sex differences in immune responses to SARS-CoV-2 that underlie disease outcomes
   doi: https://doi.org/10.1101/2020.06.06.20123414
-  ref 'Takahashi_et_al_06_09_2020
+  article 'Takahashi_et_al_06_09_2020
     head = Male patients have higher levels of key innate immune cytokines and it is not associated with  worse disease progression, while in the female patients it is. Female COVID-19 patients induce more robust T cell response than male patients, which was sustained in old age. Poor T cell response negatively correlated with patients age and was predictive of worse disease outcome in male patients, but not in female patients.
 
     >>> Abstract
@@ -1165,7 +1165,7 @@ feed June2020
   #
   // Stability of SARS-CoV-2 Phylogenies
   doi: https://doi.org/10.1101/2020.06.08.141127
-  ref 'Turakhia_et_al_06_09_2020
+  article 'Turakhia_et_al_06_09_2020
     head = Building on the SARS-CoV-2 Genome Browser, we present a toolkit to compare, analyze and combine SARS-CoV-2 phylogenies, find and remove potential sequencing errors and establish a widely shared, stable clade structure for a more accurate scientific inference and discourse.
 
     >>> Abstract
@@ -1179,7 +1179,7 @@ feed June2020
   # transmission, virus lineage, UK
   // Preliminary analysis of SARS-CoV-2 importation & establishment of UK transmission lineages
   doi: https://doi.org/xyz
-  ref 'Pybus_et_al_06_08_2020
+  article 'Pybus_et_al_06_08_2020
     head = The intensive sequencing of SARS-CoV-2 genomes reveals a high frequency of virus importations that led to onward transmission within the UK. We have detected 1356 transmission lineages in the UK to date. Both the rate and source of virus importations fluctuate rapidly through time. We expect that similar trends in SARS-CoV-2 importation also occurred in other countries and regions that are highly connected by international travel, although these trends may be less apparent if fewer virus genomes are generated from those locations.
 
     -- exports
@@ -1238,7 +1238,7 @@ feed June2020
 
   // Antibody cocktail to SARS-CoV-2 spike protein prevents rapid mutational escape seen with individual antibodies
   doi: https://doi.org/10.1126/science.abd0831
-  ref 'Baum_et_al_06_11_2020
+  article 'Baum_et_al_06_11_2020
     head = Novel spike mutants rapidly appeared following in vitro passaging in the presence of individual antibodies, resulting in loss of neutralization; such escape also occurred with combinations of antibodies binding diverse but overlapping regions of the spike protein. Importantly, escape mutants were not generated following treatment with a non-competing antibody cocktail.
 
     >>> Abstract
@@ -1254,7 +1254,7 @@ feed June2020
   # FaceMask, mathematical modeling
   // A modelling framework to assess the likely effectiveness of facemasks in combination with ‘lock-down’ in managing the COVID-19 pandemic
   doi: https://doi.org/10.1098/rspa.2020.0376
-  ref 'Stutt_et_al_06_10_2020
+  article 'Stutt_et_al_06_10_2020
     head = The mathematical models developed show that, under a wide range of plausible parameter conditions, facemask use by the public could significantly reduce the rate of COVID-19 spread, prevent further disease waves and allow less stringent lock-down regimes. The effect is greatest when 100% of the public wear facemasks.
 
     >>> Abstract
@@ -1285,7 +1285,7 @@ feed June2020
   # Airborne Transmission
   // Exhaled breath is a significant source of SARS-CoV-2 emission
   doi: https://doi.org/10.1101/2020.05.31.20115154
-  ref 'Ma_et_al_06_02_2020
+  article 'Ma_et_al_06_02_2020
     head = 35 COVID-19 subjects were recruited; Exhaled breath condensate (EBC), air samples and surface swabs were collected and analyzed for SARS-CoV-2 using RT-PCR. EBC samples had the highest positive rate, followed by surface swabs, and air samples. Airborne transmission of SARS-CoV-2 plays a major role in COVID-19 spread, especially during the early stages of the disease.
 
     >>> Abstract
@@ -1301,7 +1301,7 @@ feed June2020
   # Aersol, Nosocomial
   // Identification of SARS-CoV-2 RNA in Healthcare Heating, Ventilation, and Air Conditioning Units
   doi: https://doi.org/10.1101/2020.06.26.20141085
-  ref 'Horve_et_al_06_28_2020
+  article 'Horve_et_al_06_28_2020
     head = The presence of SARS-CoV-2 RNA was detected in approximately 25% of samples taken from nine different locations in multiple air handlers. The presence of viral RNA in air handlers raises the possibility that viral particles can enter and travel within the air handling system of a hospital.
 
     >>> Abstract
@@ -1317,7 +1317,7 @@ feed June2020
   # Airborne Tranmission
   // The airborne lifetime of small speech droplets and their potential importance in SARS-CoV-2 transmission
   doi: https://doi.org/10.1073/pnas.2006874117
-  ref 'Stadnytskyi_et_al_06_02_2020
+  article 'Stadnytskyi_et_al_06_02_2020
     head = Our laser light scattering method not only provides real-time visual evidence for speech droplet emission, but also assesses their airborne lifetime. This direct visualization demonstrates how normal speech generates airborne droplets that can remain suspended for tens of minutes or longer and are eminently capable of transmitting disease in confined spaces.
 
     >>> Abstract
@@ -1332,7 +1332,7 @@ feed June2020
 
   // Evaluation of decontamination methods for commercial and alternative respirator and mask materials – view from filtration aspect
   doi: https://doi.org/10.1016/j.jaerosci.2020.105609
-  ref 'Ou_et_al_06_04_2020
+  article 'Ou_et_al_06_04_2020
     head = This research studied the effect of various decontamination methods on the filtration performance of five selected commercial and alternative respirator/mask materials. Both UVGI for 5 min and dry heat at 77 °C for 30 min were found not to cause observable performance degradation after up to 10 cycles on commercial respirators/masks tested.
 
     >>> Abstract
@@ -1366,7 +1366,7 @@ feed June2020
   # Face Mask
   // Correction to Aerosol Filtration Efficiency of Common Fabrics Used in Respiratory Cloth Masks
   doi: https://doi.org/10.1021/acsnano.0c04676
-  ref 'Konda_et_al_06_18_2020
+  article 'Konda_et_al_06_18_2020
     head = Combinations of various commonly available fabrics used in cloth masks can potentially provide significant protection against the transmission of aerosol particles. Improper fit can result in over a 60% decrease in the filtration efficiency.
 
     >>> Abstract
@@ -1407,7 +1407,7 @@ feed June2020
   # 53 ppl, aerosol transmission, ventilation, choir, secondary attack rate- Superspreading Events? (but no claim just example)
   // Transmission of SARS-CoV-2 by inhalation of respiratory aerosol in the Skagit Valley Chorale superspreading event
   doi: https://doi.org/10.1101/2020.06.15.20132027
-  ref 'Miller_et_al_06_18_2020
+  article 'Miller_et_al_06_18_2020
     head = 53 of the 61 members of the SVC contracted COVID-19 and two died. One person is the presumed index case. The secondary infection attack rate is in the range 53-87%. Inhalation of respiratory aerosol most likely dominated infection transmission during this event, as other modes of transmission are unlikely to account for the high secondary attack rate.
 
     >>> Abstract
@@ -1421,7 +1421,7 @@ feed June2020
   # Face Mask - Humidity and deposition for viral inactivation, Resue, decontamination strategies for N95 respirators
   // Humidity and deposition solution play a critical role in virus inactivation by heat treatment on N95 respirators
   doi: https://doi.org/10.1101/2020.06.22.20137448
-  ref 'Rockey_et_al_06_23_2020
+  article 'Rockey_et_al_06_23_2020
     head = Elevated RH was essential for effective heat inactivation. Furthermore, deposition of viruses in host cell culture media greatly enhanced virus inactivation by heat and humidity compared to other deposition solutions such as phosphate buffered saline, phosphate buffered saline with bovine serum albumin, and human saliva.
 
     >>> Abstract
@@ -1440,7 +1440,7 @@ feed June2020
   # Dispute not airborne
   // Air and environmental sampling for SARS-CoV-2 around hospitalized patients with coronavirus disease 2019 (COVID-19)
   doi: https://doi.org/10.1017/ice.2020.282
-  ref 'Cheng_et_al_06_08_2020
+  article 'Cheng_et_al_06_08_2020
     head = SARS-CoV-2 RNA was not detectable by air samplers, which suggests that the airborne route is not the predominant mode of transmission of SARS-CoV-2. Wearing a surgical mask, appropriate hand hygiene, and thorough environmental disinfection are sufficient infection control measures for COVID-19 patients isolated singly in AIIRs. However, this conclusion may not apply during aerosol-generating procedures or in cohort wards with large numbers of COVID-19 patients.
 
     >>> Background
@@ -1473,7 +1473,7 @@ feed June2020
   # Aersol Transmission , !b onwards mitigation - Indoor
   // Recognizing and controlling airborne transmission of SARS‐CoV‐2 in indoor environments
   doi: https://doi.org/10.1111/ina.12697
-  ref 'Allen_et_al_06_19_2020
+  article 'Allen_et_al_06_19_2020
     head = We present three lines of evidence supporting the potential for airborne transmission and recommend steps to mitigate the risk in indoor environments.
 
     >>> Abstract
@@ -1529,7 +1529,7 @@ feed June2020
   # Interferons
   // Inhibition of SARS-CoV-2 by type I and type III interferons
   doi: https://doi.org/10.1074/jbc.AC120.013788
-  ref 'Felgenhauer_et_al_06_25_2020
+  article 'Felgenhauer_et_al_06_25_2020
     head = SARS-CoV-2 generally exhibited a broader IFN sensitivity than SARS-CoV-1. Moreover, ruxolitinib, an inhibitor of IFN-triggered Janus kinase (JAK)/signal transducer and activator of transcription (STAT) signaling, boosted SARS-CoV-2 replication in the IFN-competent Calu-3 cells. We conclude that SARS-CoV-2 is sensitive to exogenously added IFNs. This finding suggests that type I and especially the less adverse effect–prone type III IFN are good candidates for the management of COVID-19.
 
     >>> Abstract
@@ -1542,7 +1542,7 @@ feed June2020
   # Viral Vector Vaccine - ChAdOx1
   // Evaluation of the immunogenicity of prime-boost vaccination with the replication-deficient viral vectored COVID-19 vaccine candidate ChAdOx1 nCoV-19
   doi: https://doi.org/10.1101/2020.06.20.159715
-  ref 'Graham_et_al_06_20_2020
+  article 'Graham_et_al_06_20_2020
     head = In this study, we utilised both a small and a large animal model to evaluate the immunogenicity of either one or two doses of a COVID-19 vaccine candidate, ChAdOx1 nCoV-19 (now known as AZD1222).
 
     >>> Abstract
@@ -1574,7 +1574,7 @@ feed June2020
   # BCG Inflitration of T Cell
   // Identification of sex differences in tumor-specific T cell infiltration in bladder tumor-bearing mice treated with BCG immunotherapy
   doi: https://doi.org/10.1101/2020.06.19.161554
-  ref 'Rousseau_et_al_06_20_2020
+  article 'Rousseau_et_al_06_20_2020
     head = Our intention is that these models be used by the bladder cancer research community to help establish a rational basis for therapeutic intervention, such as targeted depletion of specific immune cells or inhibition of immunosuppressive cytokines as alternative or combination treatments. Understanding how resident and recruited immune cell populations, such as macrophages, DCs, and T cells modulate response to therapy and identification of suppressive pathways will aid development of novel combination strategies to improve patient response.
 
     >>> Abstract
@@ -1594,7 +1594,7 @@ feed June2020
   # Tocilizumab
   // Tocilizumab in patients with severe COVID-19: a retrospective cohort study
   doi: https://doi.org/10.1016/S2665-9913(20)30173-9
-  ref 'Guaraldi_et_al_06_24_2020
+  article 'Guaraldi_et_al_06_24_2020
     head = In the real-life setting of the TESEO cohort, we found a significant reduction in risk of invasive mechanical ventilation or death in patients with severe COVID-19 pneumonia who were treated with either intravenous or subcutaneous tocilizumab and standard of care, compared with those treated with standard of care only. The association with the use of tocilizumab was stronger when overall mortality risk was analysed alone.
 
     >>> Background
@@ -1616,7 +1616,7 @@ feed June2020
   # methylprednisolone (Corticosteroid)
   // Prolonged low-dose methylprednisolone in patients with severe COVID-19 pneumonia
   doi: https://doi.org/xyz
-  ref 'Salton_et_al_06_25_2020
+  article 'Salton_et_al_06_25_2020
     head = In our multicenter study, patients exposed to MP (methylprednisolone) encountered the primary composite endpoint of ICU referral, need for invasive MV or in-hospital all-cause death significantly less compared to the control group (adjusted HR 0.41). By day 28, MP treatment was associated with a significant reduction in mortality (adjusted HR 0.29) and an increase in MV-free days. Among patients transferred to the ICU, MP treated patients had a 7.5 days median reduction (p=0.03) in the duration of invasive MV.
 
     >>> Background
@@ -1650,7 +1650,7 @@ feed June2020
   # Corticosteroid
   // GLUCOCOVID: A controlled trial of methylprednisolone in adults hospitalized with COVID-19 pneumonia
   doi: https://doi.org/10.1101/2020.06.17.20133579
-  ref 'Corral_et_al_06_18_2020
+  article 'Corral_et_al_06_18_2020
     head = Interestingly, in this trial MP (methylprednisolone) administration was associated with a reduced risk of poor outcome, which was statistically significant after adjustment for confounding factors, such as age and baseline respiratory status (as assessed by SAFI). Our results are consistent with those of a recent quasi-experimental study that used similar endpoints and MP doses. The primary composite endpoint occurred in 54% patients in the SOC group and in 35% in the early glucocorticoids group. Those figures are remarkably similar to ours (48% vs 34%).
 
     >>> Background
@@ -1670,7 +1670,7 @@ feed June2020
   # Dexamethasone
   // Effect of Dexamethasone in Hospitalized Patients with COVID-19: Preliminary Report
   doi: https://doi.org/10.1101/2020.06.22.20137273
-  ref 'Horby_et_al_06_22_2020
+  article 'Horby_et_al_06_22_2020
     head =  Dexamethasone 6mg per day for up to 10 days reduces 28-day mortality in COVID-19 patients receiving invasive mechanical ventilation by one third, and by one fifth in patients receiving oxygen without invasive mechanical ventilation. Similarly, benefit was clearer in patients treated more than 7 days after treatment onset, when inflammatory lung damage is likely to have been more common. However, no benefit was demonstrated in hospitalized COVID-19 patients who were not receiving respiratory support and the results are consistent with possible harm in this group.
 
     >>> Background:
@@ -1695,7 +1695,7 @@ feed June2020
   # ACE Inhibitor
   // Targeting ACE2-RBD interaction as a platform for COVID19 therapeutics: Development and drug repurposing screen of an AlphaLISA proximity assay
   doi: https://doi.org/10.1101/2020.06.16.154708
-  ref 'Hanson_et_al_06_16_2020
+  article 'Hanson_et_al_06_16_2020
     head = We developed the first well-based proximity assay for measuring COVID19 ACE2-RBD interactions using AlphaLISA technology. The AlphaLISA approach has the advantages of high signal-to-background, robust assay performance (Z’ values), and is widely applicable to a variety of therapeutic types (small molecules, nanobodies, peptides, etc.).
 
     >>> Abstract
@@ -1715,7 +1715,7 @@ feed June2020
   # Nelfinavir - Protease Inhibitors
   // Potential Antiviral Options against SARS-CoV-2 Infection
   doi: https://doi.org/10.3390/v12060642
-  ref 'Ianevski_et_al_06_11_2020
+  article 'Ianevski_et_al_06_11_2020
     head = We tested 136 safe-in-man BSAAs against SARS-CoV-2 in cell cultures. We identified salinomycin, obatoclax, amodiaquine, nelfinavir, emetine and homoharringtonine as having anti-SARS-CoV-2 activity, which we put forward as potential anti-SARS-CoV-2 drug candidates.
 
     >>> Abstract

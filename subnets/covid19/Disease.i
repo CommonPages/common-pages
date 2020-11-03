@@ -1,13 +1,15 @@
 / Disease
 subject module Disease
+  head = COVID-19 is the disease caused by the virus SARS-CoV-2, most commonly characterized by fever, among other symptoms. A minority of cases are asymptomatic, however asymptomatic and presymptomatic carriers may still be infectious. Disease severity and mortality rates vary significantly by population. Recovered patients have appear to have protective immunity, but the duration of immunity is unclear.
 
   / Incubation Period
   subject IncubationPeriod
-    head = Incubation period ranges from 1 to 14 days.
+    head = Researchers have produced multiple estimates for the incubation period of SARS-CoV-2, with mean values ranging from 4 to 6 days, and the 95th percentile approaching 14 days.
 
-    -- IncubationPeriod of other Respiratory Viral infection
-      'Lessler_et_al_2013
-    -- COVID-19
+    # -- IncubationPeriod of other Respiratory Viral infection
+    #   'Lessler_et_al_2013
+    # -- COVID-19
+    --
       'Tindale_et_al_2020
       'Nishiura_et_al_2020
       'Linton_et_al_2020
@@ -16,7 +18,8 @@ subject module Disease
 
   / Asymtomatic Phase
   subject AsymptomaticPhase
-    head = A minority of cases do not develop noticeable symptoms at any point in time. Asymtomatic cases can cause transmission and can have high viral load.
+    head = A minority of cases do not develop noticeable symptoms at any point in time. Asymtomatic carriers can however experience high viral load, and can transmit the virus.
+
     -- Asymtomatic People can cause transmission and can have high viral load
       'Nishiura_et_al_2020
       'Du_et_al_2020
@@ -34,7 +37,7 @@ subject module Disease
 
   / Symptomatic Phase
   subject SymptomaticPhase
-    head = Fever is the most common symptom. Other symptoms include cough, loss of appetite, fatigue, shortness of breath, sputum production, and myalgia. Additional symptoms such as loss of smell and taste, skin rash, neurological manifestations have also been reported.
+    head = Fever is the most common symptom. Other symptoms include cough, loss of appetite, fatigue, shortness of breath, sputum production, and myalgia. Additional symptoms such as loss of smell and taste, skin rash and neurological manifestations have also been reported.
 
     >>>
       Different Symptoms of SARS-CoV-2
@@ -67,9 +70,10 @@ subject module Disease
       'Siddiqi_et_al_2020.!f
       'Siddiqi_et_al_2020.!g
 
+  —
   / Immune Reponse
-  subject ImmuneResponse
-    head = Clinical Laboratory findings suggest an underline immunopathology. Additionally people with COVID-19 and ARDS have classic serum biomarkers of Cytokine release syndrome.
+  subject module ImmuneResponse
+    # head = Clinical Laboratory findings suggest an underline immunopathology. Additionally people with COVID-19 and ARDS have classic serum biomarkers of Cytokine release syndrome.
 
     # Source WHO https://www.who.int/docs/default-source/coronaviruse/risk-comms-updates/update-34-immunity-2nd.pdf?sfvrsn=8a488cb6_2
 
@@ -252,7 +256,7 @@ subject module Disease
 
   / Differential Susceptibility & Severity
   subject module VariantPopulations
-    head = Disease pervalence and case severity is disproportionate among different age groups, genetics, PregnantWomen, ethnicity, Blood Group, Vitamin D level, Smokers,  Enviornment factors, Variant population based on locations.
+    head = Disease prevalence and case severity are disproportionate across many populations. People over 60 are at higher risk, as well as men, pregnant women, smokers and those with underlying conditions. Variances have also been found across ethnicities, blood groups, and environments.
     --
       Age
       CoMorbidConditions
@@ -627,9 +631,10 @@ subject module Disease
         'Van-Dorn_et_al_04_18_2020.!a
         'Gaffney_et_al_08_21_2020
 
-  / Infection Fatality Rate & Mortality Rate
+  / Infection Fatality & Mortality
   subject module Fatality
-    head = IFR and Mortality rate varies for different geography and age group. Infection Fatality Rate is estimated between 0.3 to 1.4%.
+    head = Infection Fatality Rate (IFR) and Mortality rate vary significantly by geography and age group. Estimates of key figures vary among researchers. IFR is estimated between 0.3 to 1.4%.
+
     -- IFR
       'Wu_et_al_2020
       'Porcheddu_et_al_2020
@@ -662,12 +667,15 @@ subject module Disease
   # have to link this section to vaccine development
   / Immunity
   subject module Immunity
-    head = Studies have shown that recovered patients have protective immunity that prevents them from being reinfected. The duration of immunity still remains unclear.
+    head = Numerous studies have shown that recovered patients have protective immunity that prevents them from being reinfected. The duration of immunity still remains unclear.
+
     / Antibodies
     subject Antibodies
-      head = Studies show that people who have recovered from infection have antibodies to the virus.  IgM antibodies to SARS-CoV-2 are generally detectable several days after initial infection. IgG antibodies generally become detectable 10–14 days after infection. Duration of antibodies is still unclear.
+      head = Protective antibodies have been found in patients who have recovered from SARS-CoV-2 infections. IgM antibodies are generally detectable several days after initial infection. IgG antibodies generally become detectable 10–14 days after infection. The duration of antibodies is unclear.
+
       >>>
-        Based on studies, antibodies vary widely in their efficacy. Some people have poor response, some average. And then there is a fraction of people that are exceptional responders.
+        Antibodies appear to vary widely in their efficacy. Some people have poor response, some average. And then there is a fraction of people that are exceptional responders.
+
       -- SARS-CoV2 Antibodies
         'Zhang_et_al_2020g.!a
         'Amanat_et_al_2020
@@ -725,7 +733,7 @@ subject module Disease
 
     / Reinfection
     subject Reinfection
-      head = The reinfection can not occur if neutralizing antibodies are produced at primary infection. Reinfection immunity to adult has been studied using laboratory animal models, the results showed that animal models become resistant to reinfection. However, there have been reports of mild and severe re-infection.
+      head = Reinfection cannot occur if neutralizing antibodies are produced during a primary infection. Reinfection immunity to adults has been studied using laboratory animal models, showing that with models demonstrating resistance to reinfection. However, there have been reports of mild and severe re-infection.
 
       >>>
         Symptomatic reinfections with human non-SARS coronaviruses are common and not atypical within 1 year after initial infection, despite the presence of antibodies. Reinfections with human common cold coronaviruses are, however, typically milder than the primary infections.
@@ -765,7 +773,6 @@ subject module Disease
         'Weissleder_et_al_06_03_2020.!m
         'Prado-Vivar_et_al_09_08_2020
         'Prado-Vivar_et_al_09_08_2020.!b
-
 
     / Relapse
     subject Relapse

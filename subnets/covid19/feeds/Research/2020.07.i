@@ -18,7 +18,7 @@ feed July2020
   # Genetic Diversity
   // Tracking Changes in SARS-CoV-2 Spike: Evidence that D614G Increases Infectivity of the COVID-19 Virus
   doi: https://dx.doi.org/10.1016%2Fj.cell.2020.06.043
-  ref 'Korber_et_al_07_03_2020
+  article 'Korber_et_al_07_03_2020
     head = Dynamic tracking of variant frequencies revealed a recurrent pattern of G614 increase at multiple geographic levels. The shift occurred even in local epidemics where the original D614 form was well established prior to introduction of the G614 variant. G614 variant may have a fitness advantage. G614 variant grows to a higher titer as pseudotyped virions.
 
     >>> Abstract
@@ -33,7 +33,7 @@ feed July2020
   # Filtration, Respirators,  mask, design,
   // Using surgical wrapping material for the fabrication of respirator masks
   doi: https://doi.org/10.1371/journal.pone.0236239
-  ref 'Vrielink_et_al_02_20_2020
+  article 'Vrielink_et_al_02_20_2020
     head = We report that the Halyard Quickcheck H300 surgical wrapping material, which is commonly available in most hospitals for use in sterilizing surgical instruments, provides high filtration efficiency for all three particle sizes measured.
 
     >>> Abstract
@@ -48,7 +48,7 @@ feed July2020
   # Public Policy - Africa
   // Knowledge, attitude, and perceptions towards the 2019 Coronavirus Pandemic: A bi-national survey in Africa
   doi: https://doi.org/10.1371/journal.pone.0236918
-  ref 'Hager_et_al_07_29_2020
+  article 'Hager_et_al_07_29_2020
     head = The majority of the respondents had a satisfactory knowledge of the disease. The majority of the respondents (96%) practiced self-isolation and social-distancing but only 36% follow all health recommendations. An apprehensive understanding of the current status in Africa through studies like KAP is crucial to avoid Africa being the next epicenter of the pandemic.
 
     >>> Abstract
@@ -63,7 +63,7 @@ feed July2020
   # Medical Mask, efficacy, Screening
   // An accessible method for screening aerosol filtration identifies poor-performing commercial masks and respirators
   doi: https://doi.org/10.1038/s41370-020-0258-7
-  ref 'Schiling_et_al_07_27_2020
+  article 'Schiling_et_al_07_27_2020
     head = A number of commercially available masks in hospital inventories perform similarly to N95 masks for aerosol filtration of 0.2 μm and above, but there is a range of masks with relatively lower & poorer filtration efficiencies.  All masks functioned acceptably for breathability
 
     >>> Background
@@ -90,7 +90,7 @@ feed July2020
   # Home Made Mask, Materials, efficacy,
   // Filtration performances of non-medical materials as candidates for manufacturing facemasks and respirators
   doi: https://doi.org/10.1016/j.ijheh.2020.113582
-  ref 'Hao_et_al_07_21_2020
+  article 'Hao_et_al_07_21_2020
     head = We studied the influences of face velocity, number of filter material layers, and the size-dependent filtration efficiency. Several layers of household air filters can achieve similar filtration performance compared to N95 materials. The information will be crucial for healthcare personnel and the general public in manufacturing homemade face masks.
 
     >>> Abstract
@@ -103,7 +103,7 @@ feed July2020
   # Mask and Respirators for HCW, medical professionals, aerosols, efficacy, Surgical masks
   // Risk of SARS-CoV-2 transmission by aerosols, the rational use of masks, and protection of healthcare workers from COVID-19
   doi: https://doi.org/10.1186/s13756-020-00763-0
-  ref 'Sommerstein_et_al_07_06_2020
+  article 'Sommerstein_et_al_07_06_2020
     head = Respirators are suggested for certain defined procedures with higher transmission risk. Importantly, masking is only one component of the infection control bundle including hand hygiene. Current data provide sufficient evidence for protection of HCW to patients and self by surgical masks.
 
     >>> Objectives
@@ -128,7 +128,7 @@ feed July2020
   # Mask Efficacy , Policy, Clothmask
   // Face Masks Against COVID-19: An Evidence Review
   doi: https://doi.org/10.20944/preprints202004.0203.v1
-  ref 'Howard_et_al_02_20_2020
+  article 'Howard_et_al_02_20_2020
     head =  We synthesize the relevant literature to inform multiple areas: 1) transmission characteristics of COVID-19, 2) filtering characteristics and efficacy of masks, 3) estimated population impacts of widespread community mask use, and 4) sociological considerations for policies concerning mask-wearing.
 
     >>>
@@ -145,7 +145,7 @@ feed July2020
   # Surface and Aersol Viability
   // Investigating SARS-CoV-2 surface and air contamination in an acute healthcare setting during the peak of the COVID-19 pandemic in London
   doi: https://doi.org/10.1093/cid/ciaa905
-  ref 'Zhou_et_al_07_08_2020
+  article 'Zhou_et_al_07_08_2020
     head = Viral RNA was detected on surfaces and in air in public areas of the hospital but was more likely to be found in areas immediately occupied by COVID-19 patients than in other areas.
 
     >>> Background
@@ -175,7 +175,7 @@ feed July2020
   # Aersol viability? or Mechanism !b - Aersol Mitigation in public places
   // Impulse dispersion of aerosols during singing and speaking
   doi: https://doi.org/10.1101/2020.07.21.20158832
-  ref 'Echternach_et_al_07_24_2020
+  article 'Echternach_et_al_07_24_2020
     head = The impulse spreading of aerosols from singing a text reach distances to the front of up to 1.4m in a short amount of time. The distance of dispersion of singing a text is comparable to reading a text rather than singing only on a single vowel.
 
     >>> Abstract
@@ -194,7 +194,7 @@ feed July2020
   # Airline Mitigation
   // Infection Prevention and Control in Aviation during COVID-19 Pandemic—A Qualitative Study
   doi: https://dx.doi.org/10.2139/ssrn.3654127
-  ref 'Chen_et_al_07_30_2020
+  article 'Chen_et_al_07_30_2020
     head = This study proposed a series of countermeasures to infection prevention and control of COVID-19 in aviation involving rating COVID-19 symptoms by scanning a QR code to identify suspected patients, principles of diet preparation, avoiding the peak time of dinning during flight, management of lavatory and demonstrated personal protection procedures for medical staff performing tasks during flight.
 
     / July, 2020 - SSRN
@@ -203,7 +203,7 @@ feed July2020
   # Hydroxychloroquine
   // Molecular Insights on Potential Combination of Mapk Inhibitors Together with HCQ and HCQs Analogs in Viral Infection
   doi: https://doi.org/10.20944/preprints202007.0201.v1
-  ref 'Mohanta_et_al_07_10_2020
+  article 'Mohanta_et_al_07_10_2020
     head = Understanding the MAPK (Mitogen Activated Protein Kinase) cascade mechanisms in sustaining infection may be relevant for this pandemic. Moreover, any knowledge we can add to the correlation between MAPK cascade and HCQ could pave the way to new molecular approaches to this severe disease.
 
     / July, 2020 - Molecular Biology
@@ -212,7 +212,7 @@ feed July2020
   # Hydroxychloroquine
   // High doses of hydroxychloroquine do not affect viral clearance in patients with SARS‐CoV‐2 infection
   doi: https://doi.org/10.1111/eci.13358
-  ref 'Taramasso_et_al_07_23_2020
+  article 'Taramasso_et_al_07_23_2020
     head = In our study, a relevant proportion of patients with COVID‐19 did not achieve rapid viral clearance after 7‐day course of high dose of Hydroxychloroquine treatment.
 
     / July, 2020 - European Journal of Clinical Investigation
@@ -221,7 +221,7 @@ feed July2020
   # Hydroxychloroquine
   // Chloroquine and hydroxychloroquine in coronavirus disease 2019 (COVID-19). Facts, fiction and the hype: a critical appraisal
   doi: https://doi.org/10.1016/j.ijantimicag.2020.106101
-  ref 'Khuroo_et_al_07_17_2020
+  article 'Khuroo_et_al_07_17_2020
     head = Hydroxychloroquine has been used as a desperate attempt for prophylaxis and treatment of COVID-19. The drug has wide-ranging drug interactions and potential cardiotoxicity. Indiscriminate unsupervised use can expose the public to serious adverse drug effects.
 
     >>> Abstract
@@ -237,7 +237,7 @@ feed July2020
   # Aersol and Surface Transmission, Nosocomial
   // Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020
   doi: https://doi.org/10.3201/eid2607.200885
-  ref 'Guo_et_al_07_26_2020
+  article 'Guo_et_al_07_26_2020
     head = Environmental contamination was greater in intensive care units than general wards. Virus was widely distributed in the air and on floors, computer mice, trash cans, and sickbed handrails and was detected in air ≈4 m from patients.
 
     >>> Abstract
@@ -250,7 +250,7 @@ feed July2020
   # Environmental Route - waste water, Sewage
   // An updated min-review on environmental route of the SARS-CoV-2 transmission
   doi: https://doi.org/10.1016/j.ecoenv.2020.111015
-  ref 'Hoseinzadeh_et_al_07_09_2020
+  article 'Hoseinzadeh_et_al_07_09_2020
     head = We describes the SARS-CoV-2 paths of contagion such as drinking water, solid waste, sewer water, ambient air, and the rest of emerging likely paths. ACE2 as a cellular doorway for SARS-CoV-2 entrance can suggest us identifying novel paths of SARS-CoV-2 transmission.
 
     >>> Abstract
@@ -264,7 +264,7 @@ feed July2020
   # Hydroxychloroquine
   // Hydroxychloroquine-mediated inhibition of SARS-CoV-2 entry is attenuated by TMPRSS2
   doi: https://doi.org/10.1101/2020.07.22.216150
-  ref 'Ou_et_al_07_22_2020
+  article 'Ou_et_al_07_22_2020
     head = These studies identify functional differences between SARS-CoV-1 and -2 entry processes, and provide a mechanistic explanation for the limited in vivo utility of hydroxychloroquine as a treatment for COVID-19.
 
     >>> Abstract
@@ -283,7 +283,7 @@ feed July2020
   # Hydroxychloroquine
   // Treatment with hydroxychloroquine, azithromycin, and combination in patients hospitalized with COVID-19
   doi: https://doi.org/10.1016/j.ijid.2020.06.099
-  ref 'Arshad_et_al_07_01_2020
+  article 'Arshad_et_al_07_01_2020
     head = When controlling for COVID-19 risk factors, treatment with hydroxychloroquine alone and in combination with azithromycin was associated with reduction in COVID-19 associated mortality.
 
     >>> Significance
@@ -311,7 +311,7 @@ feed July2020
   # Hydroxychloroquine
   // Hydroxychloroquine efficacy and safety in preventing SARS-CoV-2 infection and COVID-19 disease severity during pregnancy (COVID-Preg): a structured summary of a study protocol for a randomised placebo controlled trial
   doi: https://doi.org/10.1186/s13063-020-04557-y
-  ref 'González_et_al_07_02_2020
+  article 'González_et_al_07_02_2020
     head = This is a randomized placebo controlled trial including 714 pregnant women with the main objectives of assessing the safety and efficacy of oral hydroxychloroquine in reducing maternal viral shedding and preventing incident SARS-CoV-2 infection and disease severity.
 
 
@@ -321,7 +321,7 @@ feed July2020
   # Hydroxychloroquine
   // A Cluster-Randomized Trial of Hydroxychloroquine as Prevention of Covid-19 Transmission and Disease
   doi: https://doi.org/xyz
-  ref 'Mitja_et_al_07_26_2020
+  article 'Mitja_et_al_07_26_2020
     head =  Postexposure therapy with HCQ did not prevent SARS-CoV-2 disease and infection in healthy individuals exposed to a PCR-positive case. Our findings do not support HCQ as postexposure prophylaxis for Covid-19.
 
     >>> Background
@@ -341,7 +341,7 @@ feed July2020
   # Hydroxychloroquine
   // Hydroxychloroquine for Early Treatment of Adults with Mild Covid-19: A Randomized-Controlled Trial
   doi: https://doi.org/10.1093/cid/ciaa1009
-  ref 'Mitjà_et_al_07_16_2020
+  article 'Mitjà_et_al_07_16_2020
     head =
 
     >>> Background:
@@ -363,7 +363,7 @@ feed July2020
   # Hydroxychloroquine
   // Hydroxychloroquine with or without Azithromycin in Mild-to-Moderate Covid-19
   doi: https://doi.org/10.1056/NEJMoa2019014
-  ref 'Cavalcanti_et_al_07_23_2020
+  article 'Cavalcanti_et_al_07_23_2020
     head = Among patients hospitalized with mild-to-moderate Covid-19, the use of hydroxychloroquine, alone or with azithromycin, did not improve clinical status at 15 days as compared with standard care.
 
     >>> BACKGROUND
@@ -382,7 +382,7 @@ feed July2020
   # Hydroxychloroquine
   // Hydroxychloroquine in Nonhospitalized Adults With Early COVID-19: A Randomized Trial
   doi: https://doi.org/10.7326/M20-4207
-  ref 'Skipper_et_al_16_07_2020
+  article 'Skipper_et_al_16_07_2020
     head = Hydroxychloroquine did not substantially reduce symptom severity in outpatients with early, mild COVID-19.
 
     >>> Background:
@@ -418,7 +418,7 @@ feed July2020
   # Hydroxychloroquine
   // Effect of Hydroxychloroquine in Hospitalized Patients with COVID-19: Preliminary results from a multi-centre, randomized, controlled trial.
   doi: https://doi.org/10.1101/2020.07.15.20151852
-  ref 'Horbt_et_al_07_15_2020
+  article 'Horbt_et_al_07_15_2020
     head = In patients hospitalized with COVID-19, hydroxychloroquine was not associated with reductions in 28-day mortality but was associated with an increased length of hospital stay and increased risk of progressing to invasive mechanical ventilation or death.
 
     >>> Background:
@@ -435,7 +435,7 @@ feed July2020
   # Aerosol
   // Aerosol and surface contamination of SARS-CoV-2 observed in quarantine and isolation care
   doi: https://doi.org/10.1038/s41598-020-69286-3
-  ref 'Santarpia_et_al_07_2020
+  article 'Santarpia_et_al_07_2020
     head = The study points to nature of viral shedding for patients in quarantine and the results indicate airborne spread of the virus.
 
     >>> Abstract
@@ -457,7 +457,7 @@ feed July2020
 
   / Single-shot Ad26 vaccine protects against SARS-CoV-2 in rhesus macaques
   doi: https://doi.org/10.1038/s41586-020-2607-z
-  ref 'Mercado_et_al_07_2020
+  article 'Mercado_et_al_07_2020
     head = Provides data on trials of a single-shot vector based vaccine in animals. The data showed positive results for 5 out of 6 monkeys with minimal to no virus replication in the sample. The vaccine provided complete or near-complete protection against the SARS Cov-2 challege in the monkey. The clinical trials as ongoing when the study was reported.
     >>> Abstract
       A safe and effective vaccine for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) may be required to end the coronavirus disease 2019 (COVID-19) pandemic1–8. For global deployment and pandemic control, a vaccine that requires only a single immunization would be optimal. Here we show the immunogenicity and protective efficacy of a single dose of adenovirus serotype 26 (Ad26) vector-based vaccines expressing the SARS-CoV-2 spike (S) protein in nonhuman primates. Fifty-two rhesus macaques were immunized with Ad26 vectors encoding S variants or sham control and were challenged with SARS-CoV-2 by the intranasal and intratracheal routes9,10. The optimal Ad26 vaccine induced robust neutralizing antibody responses and provided complete or near-complete protection in bronchoalveolar lavage and nasal swabs following SARS-CoV-2 challenge. Vaccine-elicited neutralizing antibody titres correlated with protective efficacy, suggesting an immune correlate of protection. These data demonstrate robust single-shot vaccine protection against SARS-CoV-2 in nonhuman primates. The optimal Ad26 vector-based vaccine for SARS-CoV-2, termed Ad26.COV2.S, is currently being evaluated in clinical trials.
@@ -471,7 +471,7 @@ feed July2020
   # doi is not working, Convalescent Plasma
   // Convalescent Plasma for COVID-19. A randomized clinical trial
   doi: https://doi.org/10.1101/2020.07.01.20139857
-  ref 'Gharbharan_et_al_07_03_2020
+  article 'Gharbharan_et_al_07_03_2020
     head = The Convalescent-plasma-for-COVID (ConCOVID) study was a randomized trial comparing convalescent plasma with standard of care therapy in patients hospitalized for COVID-19 in the Netherlands. After discussion with the data safety monitoring board, the study was discontinued. No statistically significant differences in mortality or improvement in the day-15 disease severity was observed when the study was suspended.
 
     >>> Background
@@ -539,7 +539,7 @@ feed July2020
   # atlernate method for testing
   // Inhale, then exhale: start afresh to diagnose Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) by non-invasive face-mask sampling technique.
   doi: https://doi.org/xyz
-  ref 'Kanaujia_et_al_07_03_2020
+  article 'Kanaujia_et_al_07_03_2020
     head = An alternative method is sampling from the mask of the patient. This approach will be advantageous, simple, safe, easy to use and non-invasive. The size of the respiratory droplet is from >5 to 10 μm in diameter and Edwards et al. demonstrated that during normal breathing many people generate a substantial number of aerosols ~150 nm in diameter. Hence, N95 masks can offer an easy adjunct for NP samples.
     -- exports
       !a
@@ -558,7 +558,7 @@ feed July2020
   # counter to fomite stability
   // Exaggerated risk of transmission of COVID-19 by fomites
   doi: https://doi.org/10.1016/S1473-3099(20)30561-2
-  ref 'Goldman_et_al_07_03_2020
+  article 'Goldman_et_al_07_03_2020
     head = A clinically significant risk of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) transmission by fomites (inanimate surfaces or objects) has been assumed on the basis of studies that have little resemblance to real-life scenarios.
     -- exports
       !a
@@ -577,7 +577,7 @@ feed July2020
   # BCG, CQ and HCQ
   // BCG vaccination policy and preventive chloroquine usage: do they have an impact on COVID-19 pandemic?
   doi: https://doi.org/10.1038/s41419-020-2720-9
-  ref 'Sharma_et_al_07_08_2020
+  article 'Sharma_et_al_07_08_2020
     head = We have presented the evidence available in the literature that has led to the suggestion of the possible effects of two factors, BCG vaccination and exposure to CQ, on the susceptibility to the COVID-19 infection.
 
     >>> Abstract
@@ -643,7 +643,7 @@ feed July2020
   # ORIGIN, RECOMBINATION EVENT
   // SARS-CoV-2 and bat RaTG13 spike glycoprotein structures inform on virus evolution and furin-cleavage effects
   doi: https://doi.org/10.1038/s41594-020-0468-7
-  ref 'Wrobel_et_al_07_09_2020
+  article 'Wrobel_et_al_07_09_2020
     head = Structural and biochemical data indicate that a bat virus, similar to RaTG13, would not be able to bind effectively to human ACE2 receptor and would be unlikely to infect humans directly. Our observations support the involvement of recombination between distinct coronavirus genomes in the generation of SARS-CoV-2.
 
     >>> Abstract
@@ -674,7 +674,7 @@ feed July2020
   # genetic risk
   // The major genetic risk factor for severe COVID-19 is inherited from Neandertals
   doi: https://doi.org/10.1101/2020.07.03.186296
-  ref 'Zeberg_et_al_07_03_2020
+  article 'Zeberg_et_al_07_03_2020
     head = We show that the risk is conferred by a genomic segment of ~50 kb that is inherited from Neandertals and the Neandertal haplotype occurs at a frequency of ~30% in south Asia and ~8% in Europe.
 
     >>> Abstract
@@ -717,7 +717,7 @@ feed July2020
   # pangolian as intermediate host doubt,pangolins and other trafficked animals should continue to be considered as carriers of infectious viruses
   // Single source of pangolin CoVs with a near identical Spike RBD to SARS-CoV-2
   doi: https://doi.org/10.1101/2020.07.07.184374
-  ref 'Chan_et_al_07_07_2020
+  article 'Chan_et_al_07_07_2020
     head = Our analysis points out that the two complete pangolin CoV genomes, GD_1 by Xiao et al. and MP789 by Liu et al., were built primarily using the same metagenomic dataset published by Liu et al. in 2019. There is as yet no direct evidence of pangolins being an intermediate host of SARS-CoV-2, we would like to reinforce that pangolins and other trafficked animals should continue to be considered as carriers of infectious viruses with the potential to transmit into humans.
 
     >>> Abstract
@@ -802,7 +802,7 @@ feed July2020
   # A trial paper on known drugs.
   // Discovery of SARS-CoV-2 antiviral drugs through large-scale compound repurposing
   doi: https://doi.org/10.1038/s41586-020-2577-1
-  ref 'Riva_et_al_07_24_2020
+  article 'Riva_et_al_07_24_2020
     head = Identifies 13 known drugs which harbour the viral replications with known dose effect relationships.
 
     >>> Abstract
@@ -825,7 +825,7 @@ feed July2020
   # Seroconversion - Nonsomical mitigation
   // Pandemic peak SARS-CoV-2 infection and seroconversion rates in London frontline health-care workers
   doi: https://doi.org/10.1016/S0140-6736(20)31484-7
-  ref 'Houlihan_et_al_07_09_2020
+  article 'Houlihan_et_al_07_09_2020
     head = Our finding that 44% of HCWs show evidence of SARS-CoV-2 infection either by RT-PCR or serology in a frontline setting is higher than reported by others in the UK and worldwide. Differences with Chinese and Dutch data might be explained by the different study designs and the extent of implementation (or not) of both PPE and community lockdown measures. Evidence of infection in our central London HCWs was more than double that of the London population.
 
     # -- exports
@@ -838,7 +838,7 @@ feed July2020
   # Airborne Transmission
   // SARS-CoV-2 is transmitted via contact and via the air between ferrets
   doi: https://doi.org/10.1038/s41467-020-17367-2
-  ref 'Richard_et_al_07_08_2020
+  article 'Richard_et_al_07_08_2020
     head = Here we provide the first experimental evidence that SARS-CoV-2 can be transmitted efficiently via the air between ferrets, resulting in a productive infection and the detection of infectious virus in indirect recipients, as a model for human-to-human transmission.
 
     >>> Abstract
@@ -857,7 +857,7 @@ feed July2020
   # Surface transmission
   // Modeling the Stability of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) on Skin, Currency, and Clothing
   doi: https://doi.org/10.1101/2020.07.01.20144253
-  ref 'Harbourt_et_al_07_03_2020
+  article 'Harbourt_et_al_07_03_2020
     head = We modeled stability of SARS-CoV-2 on skin, paper currency, and clothing to determine if these surfaces may factor in the fomite transmission dynamics of SARS-CoV-2.
 
     >>> Abstract
@@ -880,7 +880,7 @@ feed July2020
   # RNA Vaccine
   // Phase 1/2 Study to Describe the Safety and Immunogenicity of a COVID-19 RNA Vaccine Candidate (BNT162b1) in Adults 18 to 55 Years of Age: Interim Report
   doi: https://doi.org/10.1101/2020.06.30.20142570
-  ref 'Mulligan_et_al_07_06_2020
+  article 'Mulligan_et_al_07_06_2020
     head = The RNA-based SARS-CoV-2 vaccine candidate BNT162b1 administered at 10 μg, 30 μg, and 100 μg to healthy adults 18-55 years of age exhibited a tolerability and safety profile consistent with those previously observed for mRNA-based vaccines.
 
     >>> Abstract
@@ -912,7 +912,7 @@ feed July2020
   # Dexamethasone
   // Statistical review of Effect of Dexamethasone in Hospitalized Patients with COVID-19 – Preliminary Report
   doi: https://doi.org/10.5281/zenodo.3928540
-  ref 'Morris_et_al_07_02_2020
+  article 'Morris_et_al_07_02_2020
     head = Overall, this was a well-conducted, well-designed, practice-changing clinical trial providing the most convincing evidence to date of an efficacious treatment in hospitalised COVID-19 patients. However, there are a number of issues, primarily around the reporting of the trial, that should ideally be resolved prior to final publication. We also urge caution against over-interpreting the estimated subgroup-specific effects based on level of respiratory support, especially the suggestion of harm in the group not on oxygen or mechanical ventilation.
 
     -- exports

@@ -110,7 +110,7 @@ feed April2020
   # Entry through nose
   // Sinonasal pathophysiology of SARS‐CoV‐2 and COVID‐19: A systematic review of the current evidence
   doi: https://dx.doi.org/10.1002%2Flio2.384
-  ref 'Gengler_et_al_02_20_2020
+  article 'Gengler_et_al_02_20_2020
     head = The sinonasal tract may be an important site of infection while sinonasal viral shedding may be an important transmission mechanism—including HAI. Anosmia without nasal obstruction may be a highly specific indicator of COVID‐19.
 
     >>> Objective
@@ -136,7 +136,7 @@ feed April2020
   # Entry through Nose
   // SARS-CoV-2 entry factors are highly expressed in nasal epithelial cells together with innate immune genes
   doi: https://doi.org/10.1038/s41591-020-0868-6
-  ref 'Sungnak_et_al_04_23_2020
+  article 'Sungnak_et_al_04_23_2020
     head = We explored multiple scRNA-seq datasets generated within the Human Cell Atlas (HCA) consortium and other resources and found that the SARS-CoV-2 entry receptor ACE2 and viral entry-associated protease TMPRSS2 are highly expressed in nasal goblet and ciliated cells.
 
     >>> Abstract
@@ -151,7 +151,7 @@ feed April2020
   # Who should wear Mask, Policy,
   // Facemask shortage and the novel coronavirus disease (COVID-19) outbreak: Reflections on public health measures
   doi: https://doi.org/10.1016/j.eclinm.2020.100329
-  ref 'Wu_et_al_04_03_2020
+  article 'Wu_et_al_04_03_2020
     head = Implementing a universal facemask wearing policy in the whole of China could lead to severe facemask shortage. Governments should monitor domestic facemask supplies and give priority to healthcare workers. The risk of asymptomatic transmission and facemask shortages should be carefully evaluated before introducing a universal facemask wearing.
 
     >>> Background
@@ -173,7 +173,7 @@ feed April2020
   # Mask and Respirators Benefits
   // A rapid systematic review of the efficacy of face masks and respirators against coronaviruses and other respiratory transmissible viruses for the community, healthcare workers and sick patients
   doi: https://doi.org/10.1016/j.ijnurstu.2020.103629
-  ref 'Maclntyre_et_al_04_30_2020
+  article 'Maclntyre_et_al_04_30_2020
     head = Community mask use by well people could be beneficial, where transmission may be pre-symptomatic. Trials in healthcare workers support the use of respirators continuously during a shift.
 
     >>> Background
@@ -202,7 +202,7 @@ feed April2020
   # Face Mask
   // To mask or not to mask: Modeling the potential for face mask use by the general public to curtail the COVID-19 pandemic
   doi: https://dx.doi.org/10.1016%2Fj.idm.2020.04.001
-  ref 'Eikenberry_et_al_04_21_2020
+  article 'Eikenberry_et_al_04_21_2020
     head = We develop a compartmental model for assessing the community-wide impact of mask. The community-wide benefits are likely to be greatest when face masks are used in conjunction with other non-pharmaceutical practices (such as social-distancing), and when adoption is nearly universal (nation-wide) and compliance is high.
 
     >>> Abstract
@@ -228,7 +228,7 @@ feed April2020
   # 6 Feet rule - Aerosol
   // Airborne or Droplet Precautions for Health Workers Treating Coronavirus Disease 2019?
   doi: https://doi.org/10.1093/infdis/jiaa189
-  ref 'Bahl_et_al_04_16_2020
+  article 'Bahl_et_al_04_16_2020
     head = Evidence base for current guidelines is sparse, and the available data do not support the 1- to 2-meter (≈3–6 feet) rule of spatial separation. Of 10 studies on horizontal droplet distance, 8 showed droplets travel more than 2 meters (≈6 feet), in some cases up to 8 meters (≈26 feet).
 
     >>> Abstract
@@ -244,7 +244,7 @@ feed April2020
   # Ventilation - Airborne
   // Airborne route and bad use of ventilation systems as non-negligible factors in SARS-CoV-2 transmission
   doi: https://doi.org/10.1016/j.mehy.2020.109781
-  ref 'Correia_et_al_04_25_2020
+  article 'Correia_et_al_04_25_2020
     head = The authors address HVAC (Heating, Ventilation and Air Conditioning Systems) as major source for indoor and environmental contamination that can explain the swift viral spread. The confirmation of such way of transmission can constitute a major shift in the battle against the pandemic.
 
     >>> Abstract
@@ -262,7 +262,7 @@ feed April2020
   # Modes - Mobile Phones
   // Mobile phones represent a pathway for microbial transmission: A scoping review
   doi: https://doi.org/10.1016/j.tmaid.2020.101704
-  ref 'Olsen_et_al_04_28_2020
+  article 'Olsen_et_al_04_28_2020
     head = Fundamentally, mobile phones harbour a diverse range of species of microorganisms including antibiotic-resistant organisms which pose a risk to human health, both in the health care system and the broader community.
 
     >>> Background
@@ -289,7 +289,7 @@ feed April2020
   # Hydroxychloroquine
   // A systematic review of the prophylactic role of chloroquine and hydroxychloroquine in coronavirus disease‐19 (COVID‐19)
   doi: https://doi.org/10.1111/1756-185X.13842
-  ref 'Shah_et_al_04_13_2020
+  article 'Shah_et_al_04_13_2020
     head = A total of 45 articles were screened and 5 (3 in vitro pre‐clinical studies and 2 clinical opinions) were included to evaluate the prophylactic role of CQ or HCQ on SARS‐CoV‐2. Although pre‐clinical results are promising, to date there is a dearth of evidence to support the efficacy of CQ or HCQ in preventing COVID‐19.
 
     >>> Objective
@@ -311,7 +311,7 @@ feed April2020
   # Hydroxychloroquine - Prophylaxis
   // Hydroxychloroquine and ivermectin: A synergistic combination for COVID-19 chemoprophylaxis and treatment?
   doi: https://doi.org/10.1016/j.jaad.2020.04.017
-  ref 'Patri_et_al_04_10_2020
+  article 'Patri_et_al_04_10_2020
     head = We hypothesize that HCQ and ivermectin may show a consequential and synergistic action if administered simultaneously both for chemoprophylaxis and treatment of COVID-19.
 
 
@@ -321,7 +321,7 @@ feed April2020
   # Hydroxychloroquine
   // Perspectives on repositioning chloroquine and hydroxychloroquine for the treatment of Covid-19
   doi: https://dx.doi.org/10.24911/SJP.106-1587122398
-  ref 'Adeel_et_al_04_20_2020
+  article 'Adeel_et_al_04_20_2020
     head = CQ is cheap, stable under field conditions and has been well tolerated as an antimalarial. This experience could be adapted to deploy CQ or HCQ for prophylaxis or treatment of COVID19. We are presenting the current status of evidence for using CQ and HCQ against COVID19.
 
     >>> Abstract
@@ -333,7 +333,7 @@ feed April2020
   # Nosocomial Tranmission and Mitigatin !a
   // Transmission of COVID-19 to Health Care Personnel During Exposures to a Hospitalized Patient - Solano County, California, February 2020
   doi: https://doi.org/10.15585/mmwr.mm6915e5
-  ref 'Heinzerling_et_al_04_14_2020
+  article 'Heinzerling_et_al_04_14_2020
     head = Among 121 HCP exposed to a patient with unrecognized COVID-19, 43 became symptomatic and were tested for SARS-CoV-2, of whom three had positive test results; all three had unprotected patient contact. Exposures while performing physical examinations or during nebulizer treatments were more common among HCP with COVID-19.
 
     >>> Abstract
@@ -350,7 +350,7 @@ feed April2020
   # Nosocomial Tranmission
   // SARS-CoV-2 infection in health care workers: a retrospective analysis and a model study
   doi: https://doi.org/10.1101/2020.03.29.20047159
-  ref 'Sr_et_al_04_01_2020
+  article 'Sr_et_al_04_01_2020
     head = Risk factors and transmission models of COVID-19 among HCWs were analyzed and constructed. Poor sleep quality and high working pressure were positively associated with high risks of COVID-19. A novel IBM of COVID-19 transmission is suitable for simulating different outbreak patterns in a hospital setting.
 
     >>> Background
@@ -372,7 +372,7 @@ feed April2020
   # Serology , Contact Tracing , !a - Transmission - church and family gathering
   // Connecting clusters of COVID-19: an epidemiological and serological investigation
   doi: https://doi.org/10.1016/S1473-3099(20)30273-5
-  ref 'Yong_et_al_04_21_2020
+  article 'Yong_et_al_04_21_2020
     head =  SARS-CoV-2 serological analysis, in addition to use of traditional epidemiological methods, was important in establishing links among locally transmitted COVID-19 cases and tracing the transmission chain to an imported source.
 
     >>> Background
@@ -397,7 +397,7 @@ feed April2020
   # Asymptomatic Tranmission , Children Tranmission
   // Cluster of Coronavirus Disease 2019 (COVID-19) in the French Alps, February 2020
   doi: https://doi.org/10.1093/cid/ciaa424
-  ref 'Danis_et_al_04_11_2020
+  article 'Danis_et_al_04_11_2020
     head = The investigation of this cluster of COVID-19 in France indicated the occurrence of 1 asymptomatic infection with similar viral load as a symptomatic case, suggesting a transmission potential of asymptomatic cases.
 
     >>> Background
@@ -424,7 +424,7 @@ feed April2020
   # Hydroxychloroquine
   // Optimizing Hydroxychloroquine Dosing for Patients With COVID‐19: An Integrative Modeling Approach for Effective Drug Repurposing
   doi: https://doi.org/10.1002/cpt.1856
-  ref 'Cremades_et_al_04_14_2020
+  article 'Cremades_et_al_04_14_2020
     head = We provide rationale for range of high‐dose HCQ regimens to be used for most effective treatment of patients with COVID‐19 and in the upcoming clinical trials. Low doses of HCQ (e.g., 400 mg q.d.) might not offer substantial benefit.
 
     >>> Abstract
@@ -438,7 +438,7 @@ feed April2020
   # funeral, birthdays, Indoor
   // Community Transmission of SARS-CoV-2 at Two Family Gatherings — Chicago, Illinois, February–March 2020
   doi: http://dx.doi.org/10.15585/mmwr.mm6915e1
-  ref 'Ghinai_et_al_04_17_2020
+  article 'Ghinai_et_al_04_17_2020
     head = Investigation of COVID-19 cases in Chicago identified a cluster of 16 confirmed or probable cases, including three deaths, likely resulting from one introduction. Extended family gatherings including a funeral and a birthday party likely facilitated transmission of SARS-CoV-2 in this cluster.
 
 
@@ -449,7 +449,7 @@ feed April2020
   # Indoortransmission, restaurant
   // COVID-19 Outbreak Associated with Air Conditioning in Restaurant, Guangzhou, China, 2020
   doi: https://10.3201/eid2607.200764
-  ref 'Lu_et_al_04_02_2020
+  article 'Lu_et_al_04_02_2020
     head = During January 26–February 10, 2020, an outbreak of 2019 novel coronavirus disease in an air-conditioned restaurant in Guangzhou, China, involved 3 family clusters. We conclude that in this outbreak, droplet transmission was prompted by air-conditioned ventilation. The key factor for infection was the direction of the airflow.
 
 
@@ -460,7 +460,7 @@ feed April2020
   # Indoortransmission, householdtransmission
   // Household transmission of SARS-CoV-2
   doi: https://doi.org/10.1016/j.jinf.2020.03.040
-  ref 'Wang_et_al_04_10_2020
+  article 'Wang_et_al_04_10_2020
     head = We report the epidemic data of 85 households with confirmed SARS-CoV-2 infected members in Wuhan City. SARS-CoV-2 induced a secondary transmission rate of 30% among household members, which is much higher than SARS-CoV and MERS-CoV did.
 
     >>> Background
@@ -488,7 +488,7 @@ feed April2020
   # endosomial pH modification would limit the processing of the Spike protein by endosomal proteases and in turn bloke the virus entry mediated by membrane fusion process. - Hydroxychloroquine
   // In vitro screening of a FDA approved chemical library reveals potential inhibitors of SARS-CoV-2 replication
   doi: https://doi.org/10.1101/2020.04.03.023846
-  ref 'Touret_et_al_04_05_2020
+  article 'Touret_et_al_04_05_2020
     head =  We screened 1,520 approved drugs in an infected cell-based assay. 90 compounds were identified. By providing new information on molecules inhibiting SARS-CoV-2 replication in vitro, this study could contribute to the short-term repurposing of drugs against Covid-19.
 
     >>> Abstract
@@ -502,7 +502,7 @@ feed April2020
   # Hydroxychloroquine
   // Outcomes of hydroxychloroquine usage in United States veterans hospitalized with Covid-19
   doi: https://doi.org/10.1101/2020.04.16.20065920
-  ref 'Magagnoli_et_al_04_23_2020
+  article 'Magagnoli_et_al_04_23_2020
     head = We found no evidence that use of hydroxychloroquine, either with or without azithromycin, reduced the risk of mechanical ventilation in patients hospitalized with Covid-19. An association of increased overall mortality was identified in patients treated with hydroxychloroquine alone.
 
     >>> BACKGROUND:
@@ -523,7 +523,7 @@ feed April2020
   # Hydroxychloroquine
   // Treating COVID-19 with Chloroquine
   doi: https://doi.org/10.1093/jmcb/mjaa014
-  ref 'Huang_et_al_04_01_2020
+  article 'Huang_et_al_04_01_2020
     head = Chloroquine could be an effective and inexpensive option among many proposed therapies, e.g. Lopinavir/Ritonavir. In the absence of a specific cure, old drugs such as Chloroquine may be repurposed to fight this novel disease and save lives worldwide.
 
 
@@ -533,7 +533,7 @@ feed April2020
   # Hydroxychloroquine - Randomized Trails
   // Effect of High vs Low Doses of Chloroquine Diphosphate as Adjunctive Therapy for Patients Hospitalized With Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Infection: A Randomized Clinical Trial
   doi: https://doi.org/10.1001/jamanetworkopen.2020.8857
-  ref 'Xiao_et_al_04_20_2020
+  article 'Xiao_et_al_04_20_2020
     head = The preliminary findings of this study suggest that the higher CQ dosage should not be recommended for critically ill patients with COVID-19 because of its potential safety hazards, especially when taken concurrently with azithromycin and oseltamivir.
 
     >>> Importance
@@ -563,7 +563,7 @@ feed April2020
   # Host range, bats, origin
   // Exceptional diversity and selection pressure on SARS-CoV and SARS-CoV-2 host receptor in bats compared to other mammals
   doi: https://doi.org/10.1101/2020.04.20.051656
-  ref 'Frank_et_al_04_20_2020
+  article 'Frank_et_al_04_20_2020
     head = We find that the ACE2 gene is under strong selection pressure in bats, the group in which the progenitors of SARS-CoV and SARS-CoV-2 are hypothesized to have evolved, particularly in residues that contact SARS-CoV and SARS-CoV-2. While its in a smaller proportion in non-bat mammals without enrichment of selection in residues.
 
     >>> Abstract
@@ -651,7 +651,7 @@ feed April2020
   # ACE2, comparative genomics, host range, species conservation, evolution
   // Broad Host Range of SARS-CoV-2 Predicted by Comparative and Structural Analysis of ACE2 in Vertebrates.
   doi: https://doi.org/10.1101/2020.04.16.045302
-  ref 'Damas_et_al_04_18_2020
+  article 'Damas_et_al_04_18_2020
     head = We utilized a unique dataset of 410 vertebrates, including 252 mammals, to study cross-species conservation of ACE2 and its likelihood to function as a SARS-CoV-2 receptor. Our results may lead to the identification of intermediate host species for SARS-CoV-2, justify the selection of animal models of COVID-19, and assist the conservation of animals both in native habitats and in human care.
 
     >>> Abstract
@@ -807,7 +807,7 @@ feed April2020
   # doubt to the origin story, poly-basic (furin) cleavage site, the furin clevage, There is zero evidence that confirms that the SARS-CoV-2 S1/S2 PRRA(R) FCS arose naturally or artificially, but neither scenario can be ruled out. newly acquires furin-cleavage site, all SARSlike viruses isolated from bats lack this polybasic site and are cleaved by TMPRSS2 or endosomal cathepsins in the target cells, Vaccine frontier.
   // Identification of a common deletion in the spike protein of SARS-CoV-2
   doi: https://doi.org/10.1101/2020.03.31.015941
-  ref 'Liu_et_al_04_02_2020
+  article 'Liu_et_al_04_02_2020
     head = These data indicate the deletion of QTQTN, at the flank of polybasic cleavage site, is likely benefit the SARS-CoV-2 replication or infection in vitro but under strong purification selection in vivo since it is rarely identified in clinical samples; there could be a very efficient mechanism for deleting this region from viral genome as the variants losing 23585-23599 is commonly detected after two rounds of cell passage.
 
     >>> Abstract
@@ -841,7 +841,7 @@ feed April2020
   # temperature- pro and counter, - MISSING ASSERTIONS DO THIS PAPER AGAIN WHEN PUTTING in bucket
   // Rapid Expert Consultation on SARS-CoV-2 Survival in Relation to Temperature and Humidity and Potential for Seasonality for the COVID-19 Pandemic (April 7, 2020)
   doi: https://doi.org/10.17226/25771
-  ref 'Droegemeier_et_al_04_07_2020
+  article 'Droegemeier_et_al_04_07_2020
     head = Although experimental studies show a relationship between higher temperatures and humidity levels, and reduced survival of SARS-CoV-2 in the laboratory, there are many other factors besides environmental temperature, humidity, and survival of the virus outside of the host, that influence and determine transmission rates among humans in the real world.
 
 
@@ -852,7 +852,7 @@ feed April2020
   # temperature- pro, surface viability, MASK
   // Stability of SARS-CoV-2 in different environmental conditions
   doi: https://doi.org/10.1016/S2666-5247(20)30003-3
-  ref 'Chin_et_al_04_02_2020
+  article 'Chin_et_al_04_02_2020
     head = We found that SARS-CoV-2 is extremely stable in a wide range of pH values at room temperature (pH 3–10). SARS-CoV-2 can be highly stable in a favourable environment, but it is also susceptible to standard disinfection methods.
 
     -- exports
@@ -883,7 +883,7 @@ feed April2020
   # weather influence- counter but (check c), temperature
   // No Evidence for Temperature-Dependence of the COVID-19 Epidemic
   doi: https://doi.org/10.1101/2020.03.29.20046706
-  ref 'Jamil_et_al_04_19_2020
+  article 'Jamil_et_al_04_19_2020
     head = Our results show that there is no evidence that spread rates decline with temperatures above 20 degrees Celcius. This suggests that the COVID-19 disease is unlikely to behave as a seasonal respiratory virus.
 
     >>> Abstract
@@ -908,7 +908,7 @@ feed April2020
   # weather influence- pro, temperature, ask Ayush the e point - relating to air pollution
   // Climate affects global patterns of COVID-19 early outbreak dynamics
   doi: https://doi.org/10.1101/2020.03.23.20040501
-  ref 'Ficetola_et_al_04_20_2020
+  article 'Ficetola_et_al_04_20_2020
     head = The strong relationship between local climate and Covid-19 growth rates suggests the possibility of seasonal variation in the spatial pattern of outbreaks, with temperate regions of the Southern Hemisphere becoming at particular risk of severe outbreaks during the austral autumn-winter. Nevertheless, in the absence of containment actions, growth rates can be substantial even in warm climates.
 
     >>> Abstract
@@ -958,7 +958,7 @@ feed April2020
   # Airborne Tranmission
   // Airborne transmission of COVID-19: epidemiologic evidence from two outbreak investigations
   doi: https://doi.org/10.13140/RG.2.2.36685.38881
-  ref 'Shen_et_al_04_03_2020
+  article 'Shen_et_al_04_03_2020
     head =  We investigated two COVID-19 outbreaks in Zhejiang Province and found that airborne transmission at least partially explains the extraordinary attack rate seen. Both investigations suggest that, in closed environments with air re-circulation, COVID-19 is a highly transmissible pathogen.
 
     >>> Background:
@@ -977,7 +977,7 @@ feed April2020
   # Age - Variant Pop
   // COVID-19 is an emergent disease of aging
   doi: https://doi.org/10.1101/2020.04.15.20060095
-  ref 'Santesmasses_et_al_04_15_2020
+  article 'Santesmasses_et_al_04_15_2020
     head = Our study establishes COVID-19 as an emergent disease of aging and age and age-related diseases as its major risk factors. Targeting the aging process itself can be a viable orthogonal strategy against COVID-19 and other deadly respiratory diseases.
 
     >>> Abstract
@@ -1005,7 +1005,7 @@ feed April2020
   / Compound against Covid19
   // A SARS-CoV-2 protein interaction map reveals targets for drug repurposing
   doi: https://doi.org/10.1038/s41586-020-2286-9
-  ref 'Gordon_et_al_04_30_2020
+  article 'Gordon_et_al_04_30_2020
     head = We cloned, tagged and expressed 26 of the 29 SARS-CoV-2 proteins in human cells and identified the human proteins that physically associated with each of the SARS-CoV-2 proteins. We identify 66 druggable human proteins or host factors targeted by 69 compounds
 
     >>> Abstract
@@ -1033,7 +1033,7 @@ feed April2020
   # Nelfinavir
   // Multidrug treatment with nelfinavir and cepharanthine against COVID-19
   doi: https://doi.org/10.1101/2020.04.14.039925
-  ref 'Ohashi_et_al_04_15_2020
+  article 'Ohashi_et_al_04_15_2020
     head = Our mathematical modeling studies assess how anti-SARS-CoV-2 drug candidates can suppress virus proliferation and facilitate virus elimination. At clinical doses Nelfinavir can maintain strong antiviral effect over time and thus can reduce SARS-CoV-2 RNAburden that results in shortening the time required to eliminate infection.
 
     >>> Abstract
@@ -1049,7 +1049,7 @@ feed April2020
   # Nelfinavir
   // Nelfinavir inhibits replication of severe acute respiratory syndrome coronavirus 2 in vitro
   doi: https://doi.org/10.1101/2020.04.06.026476
-  ref 'Yamamoto_et_al_04_08_2020
+  article 'Yamamoto_et_al_04_08_2020
     head = Our findings reveal that nelfinavir is highly effective in inhibiting SARS-CoV-2 replication in vitro and has the high Cmax-EC50 and Ctough-EC50 ratio. We suggest that nelfinavir is a potential candidate drug for the treatment of COVID-19 and should be assessed in the patients with COVID-19.
 
     >>> Abstract
@@ -1062,7 +1062,7 @@ feed April2020
   # Frontiers - TNF
   // Trials of anti-tumour necrosis factor therapy for COVID-19 are urgently needed
   doi: https://doi.org/10.1016/S0140-6736(20)30858-8
-  ref 'Feldmann_et_al_04_09_2020
+  article 'Feldmann_et_al_04_09_2020
     head = Anti-tumour necrosis factor (TNF) antibodies have been used for more than 20 years in severe cases of autoimmune inflammatory disease such as rheumatoid arthritis, inflammatory bowel disease, or ankylosing spondylitis.
 
     -- exports
@@ -1075,7 +1075,7 @@ feed April2020
   # Tocilizumab Side effect?
   // Tocilizumab treatment in severe COVID-19 patients attenuates the inflammatory storm incited by monocyte centric immune interactions revealed by single-cell analysis
   doi: https://doi.org/xyz
-  ref 'Guo_et_al_04_09_2020
+  article 'Guo_et_al_04_09_2020
     head = There are always questions about whether Tocilizumab treatment may affect the antiviral effect of the body. Our single cell profiles illustrated a sustained humoral and cell-mediated anti-virus immune response of COVID-19 patients at both severe and recovery stage. For example, the proportion of plasma B cells with antibody-secreting function were keeping at high levels and the cytotoxicity and cytokine production of effector CD8+ 226 T cells were also remained stable in severe COVID-19 patients after Tocilizumab treatment.
 
     >>> Abstract
@@ -1088,7 +1088,7 @@ feed April2020
   # Tocilizumab - Disease Severity Clinical Recommendation
   // Effective treatment of severe COVID-19 patients with tocilizumab
   doi: https://doi.org/10.1073/pnas.2005615117
-  ref 'Xu_et_al_04_29_2020
+  article 'Xu_et_al_04_29_2020
     head = Tocilizumab effectively improve clinical symptoms and represses the deterioration of severe COVID-19 patients. Therefore, tocilizumab is an effective treatment in severe patients of COVID-19, which provided a therapeutic strategy for this fatal infectious disease.
 
     >>> Abstract
@@ -1101,7 +1101,7 @@ feed April2020
   # Tocilizumab - monoclonal Antibody
   // Tocilizumab Treatment in COVID-19: A Single Center Experience
   doi: https://doi.org/10.1002/jmv.25801
-  ref 'Luo_et_al_04_06_2020
+  article 'Luo_et_al_04_06_2020
     head = Our findings supported the effectiveness of TCZ in the prevention or treatment of cytokine storms induced by COVID‐19. In most patients, acute phase reactant levels were decreased and the patients were getting to a stable condition reflected by a later gradual decrease of IL‐6 after TCZ administration.
 
     >>>
@@ -1117,7 +1117,7 @@ feed April2020
   #  IL-6 , Diagnostics for respiratory failure
   // Level of IL-6 predicts respiratory failure in hospitalized symptomatic COVID-19 patients
   doi: https://doi.org/10.1101/2020.04.01.20047381
-  ref 'Herold_et_al_04_10_2020
+  article 'Herold_et_al_04_10_2020
     head = IL-6 level and CRP level are useful markers that predict impending respiratory failure with high accuracy and can help physicians correctly allocate patients who might benefit from early treatment escalation (eg, use of anticytokine strategies).
 
     >>> Abstract
@@ -1127,7 +1127,7 @@ feed April2020
   # Immune Response, IL-6 tocilizumab Remediation , Diagnostics for disease severity?
   // Interleukin-6 in COVID-19: A Systematic Review and Meta-Analysis
   doi: https://doi.org/10.1101/2020.03.30.20048058
-  ref 'Coomes_et_al_04_03_2020
+  article 'Coomes_et_al_04_03_2020
     head =  Meta-analysis of mean IL-6 concentrations demonstrated 2.9-fold higher levels in patients with complicated COVID-19 compared with patients with non-complicated disease. Inhibition of IL-6 with tocilizumab appears to be efficacious and safe in preliminary investigation
 
     >>> Purpose:
@@ -1527,7 +1527,7 @@ feed April2020
   // The spatial and cell-type distribution of SARS-CoV-2 receptor ACE2 in human and mouse brain
   doi: https://doi.org/10.1101/2020.04.07.030650
   article 'Chen_et_al_05_19_2020
-    head = Our results reveal an outline of ACE2  distribution in the human and mouse brain, which indicates the brain infection of SARS-CoV-2 may be capable to infection the brain and result in serious CNS symptoms in COVID-19 patients. The finding of high ACE2 expression of in central glial substance and brain ventricles suggest two potential novel routes for the SARS-CoV-2 entering the CSF and/or spreading around the brain.
+    head = Our results reveal an outline of ACE2 distribution in the human and mouse brain. SARS-CoV-2 may be capable of infecting the brain, resulting in serious CNS symptoms in COVID-19 patients. The finding of high ACE2 expression of in central glial substance and brain ventricles suggest two potential novel routes for the SARS-CoV-2 entering the CSF and/or spreading around the brain.
 
     >>> Abstract
       By engaging angiotensin-converting enzyme 2 (ACE2 or Ace2), the novel pathogenic SARS-coronavirus 2 (SARS-CoV-2) may invade host cells in many organs, including the brain. However, the distribution of ACE2 in the brain is still obscure. Here we investigated the ACE2 expression in the brain by analyzing data from publicly available brain transcriptome databases. According to our spatial distribution analysis, ACE2 was relatively highly expressed in some important brain areas, such as the substantia nigra and brain ventricles. According to our cell-type distribution analysis, the expression of ACE2 were found in many neurons (both excitatory and inhibitory neurons) and some non-neuron cells (mainly astrocytes and oligodendrocytes) in human middle temporal gyrus and posterior cingulate cortex, but the ACE2-expressing cells was none in the prefrontal cortex and very few in the hippocampus. Except for the additional high expression of Ace2 in the olfactory bulb areas for spatial distribution as well as in the pericytes and endothelial cells for cell-type distribution, the distribution of Ace2 in mouse brain was similar to that in the human brain. Thus, our results reveal an outline of ACE2/Ace2 distribution in the human and mouse brain, which indicates the brain infection of SARS-CoV-2 may be capable to result in serious central nervous system symptoms in coronavirus disease 2019 (COVID-19) patients.
@@ -1542,7 +1542,7 @@ feed April2020
     let !a self assert = The expression of ACE2 was relatively high in several specific brain areas in human, such as such as the substantia nigra and brain ventricles; the expression of ACE2 located in many neurons (both excitatory and inhibitory neurons) and some non-neuron cells (mainly astrocytes and ODCs) in human middle temporal gyrus and posterior cingulate cortex, but the ACE2-expressing cells was none in PFC and very few in hippocampus.
 
     / April, 2020 - bioRxiv
-    let !b self assert =  Our results reveal an outline of ACE2 distribution in the human and mouse brain, which support the hypotheses that the SARS-CoV-2 is capable to infect the brain and may result in serious CNS symptoms in COVID-19 patients
+    let !b self assert =  Our results reveal an outline of ACE2 distribution in the human and mouse brain, which support the hypotheses that the SARS-CoV-2 is capable to infect the brain and may result in serious CNS symptoms in COVID-19 patients.
 
     / April, 2020 - bioRxiv
     let !c self assert = We found the expression ACE2 was relatively highly expressed in some special brain regions in human, though the total expression of ACE2 is low and similar in most brain areas. Even more, the percent of ACE2 positive samples of substantial nigra was almost comparable to that of lung (3.60% vs 6.57%), though the total expression in substantial nigra seems much lower than that in the lung

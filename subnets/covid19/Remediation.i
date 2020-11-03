@@ -1,5 +1,6 @@
-/ Treatment and Vaccine
+/ Treatments and Vaccines
 subject module Remediation
+  head = A number of SARS-CoV-2 vaccine trials are under way, but as of yet none have completed. While there is no cure for COVID-19, a number of treatment strategies have been identified which have reduced the overall mortality of the disease. Many others are the subject of active research and controversy.
 
   —
   subject module Vaccines
