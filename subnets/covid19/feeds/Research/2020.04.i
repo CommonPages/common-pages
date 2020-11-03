@@ -1571,7 +1571,7 @@ feed April2020
   // Patient-derived mutations impact pathogenicity of SARS-CoV-2
   doi: https://doi.org/10.1101/2020.04.14.20060160
   article 'Yao_et_al_04_23_2020
-    head = We report functional characterizations of 11 patient-derived viral isolates, all of which have at least one mutation. We observed intrapersonal variation and 6 different mutations in the spike glycoprotein (S protein), including 2 different SNVs that led to the same missense mutation.
+    head = We report functional characterizations of 11 patient-derived viral isolates, all of which have at least one mutation. We provide direct evidence that the SARS-CoV-2 has acquired mutations capable of substantially changing its pathogenicity.
 
     >>> Abstract
       The sudden outbreak of the severe acute respiratory syndrome-coronavirus (SARS-CoV-2) has spread globally with more than 1,300,000 patients diagnosed and a death toll of 70,000. Current genomic survey data suggest that single nucleotide variants (SNVs) are abundant. However, no mutation has been directly linked with functional changes in viral pathogenicity. Here we report functional characterizations of 11 patient-derived viral isolates, all of which have at least one mutation. Importantly, these viral isolates show significant variation in cytopathic effects and viral load, up to 270-fold differences, when infecting Vero-E6 cells. We observed intrapersonal variation and 6 different mutations in the spike glycoprotein (S protein), including 2 different SNVs that led to the same missense mutation. Therefore, we provide direct evidence that the SARS-CoV-2 has acquired mutations capable of substantially changing its pathogenicity.

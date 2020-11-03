@@ -1,5 +1,5 @@
 
-/ Timeline & Origin
+/ Timeline and Origin
 subject module Timeline
   head = In late 2019, a novel coronavirus strain now known as SARS-CoV2 emerged in China and quickly spread to more than 150 countries. SARS-CoV2 is the latest in a series of coronavirus outbreaks occuring in recent decades. Researches have proposed multiple theories as to the original source of the virus.
 
@@ -16,10 +16,8 @@ subject module Timeline
     --
       Bats
     >>>
-      Coronaviruses are {RNAVirus RNA viruses}, which have been found to mutate at **faster rates** than other kinds of pathogens.
-    --
-      MutationRates
-    >>>
+      Additionally, coronaviruses are {RNAVirus RNA viruses}, which have been found to mutate at {MutationRates faster rates} than other kinds of pathogens.
+
       The large natural reservoir and fast rates of mutation in coraniviruses create the conditions for the evolution of many novel coronavirus strains. Some of these strains have the ability to survive in multiple host species. When humans come into close contact with bats, they may become infected with those strains which are randomly capable of surviving in humans. Coronaviruses which appear in humans as a result of **cross-species transmission** are known as **human coronaviruses**.
     --
       HumanCoronaviruses
@@ -96,76 +94,63 @@ subject module Timeline
 
     # face orig = The earliest case of infection currently known is dated back to 17 November 2019 or possibly 1 December 2019. The virus subsequently spread to all provinces of China and to more than 150 other countries in Asia, Europe, North America, South America, Africa, and Oceania. Human-to-human transmission of the virus has been confirmed in all these regions.
     --
-      China
-      DiamondPrincess
-      SouthKorea
-      Singapore
-      Iran
-      USA
-      Europe
+      !China
+    >>>
+      Shortly after the outbreak in China, an outbreak on a cruise ship was identified, which would serve as a unique case study for subsequent research.
+    --
+      !DiamondPrincess
+    >>>
+      Outbreaks were soon detected in a number of countries in Asia and Europe, as well as in the United States.
+    --
+      !SouthKorea
+      !USA
+      !Europe
+      !Singapore
     --
       TranmissionLineage
       GlobalEpidemiology
 
     / China
-    subject China
-      head = A novel coronavirus designated as 2019-nCoV first appeared in Wuhan, China in late December 2019.
-      -- China
-        'Phan_et_al_2020
-        'Zhu_et_al_2020
-        'Huang_et_al_2020
-        'Liu_et_al_03_03_2020
-        # 'Liu_et_al_03_03_2020.!a
-        # 'Liu_et_al_03_03_2020.!b
-        'Bi_et_al_2020
-        'Wu_et_al_2020.!a
-        'Wu_et_al_2020e
-        'Bi_et_al_04_27_2020
+    assert !China = A novel coronavirus designated as 2019-nCoV first appeared in Wuhan, China in late December 2019. The fatality rate of symptomatic cases during the initial outbreak has been estimated around 1.4%.
+      > 'Phan_et_al_2020
+      > 'Zhu_et_al_2020
+      > 'Huang_et_al_2020
+      > 'Liu_et_al_03_03_2020
+      > 'Bi_et_al_2020
+      > 'Wu_et_al_2020e
+      > 'Bi_et_al_04_27_2020
+      > 'Wu_et_al_2020.!a
+
     / Diamond Princess
-    subject DiamondPrincess
-      head = An outbreak of COVID-19 on cruise ship Diamond Princess was reported with 10 initial cases, following an index case on board around 21-25th January. By 20th February, 619 of 3,700 passengers and crew (17%) were tested positive.
-      --
-        'Russell_et_al_2020
-        'Mcmichael_et_al_2020
-        'Mcmichael_et_al_2020.!a
-        'Mizumoto_et_al_2020
+    assert !DiamondPrincess = An outbreak of COVID-19 on cruise ship Diamond Princess was reported with 10 initial cases, following an index case on board around 21-25th January. By 20th February, 619 of 3,700 passengers and crew (17%) were tested positive.
+      > 'Russell_et_al_2020
+      > 'Mizumoto_et_al_2020
+
     / South Korea
-    subject SouthKorea
-      head = The confirmed COVID-19 patients in South Korea are those who came from or visited China.
-      --
-        'Kim_et_al_2020
-        'Lim_et_al_2020
-        'Park_et_al_2020
-        'Shim_et_al_03_17_2020
-        'Shim_et_al_03_17_2020.!a
-    / Singapore
-    subject Singapore
-      head = As of Feb 15, 2020, 36 cases of COVID-19 were linked epidemiologically to the first three clusters of circumscribed local transmission in Singapore.
-      --
-        'Young_et_al_2020
-        'Pung_et_al_03_28_2020
-    / Iran
-    subject Iran
-      head = Phylogenetic analyses of whole-genome sequencing data identified a distinct SARS-CoV-2 clade linked to travellers returning from Iran to Australia and New Zealand.
-      --
-        'Eden_et_al_2020
-        'Eden_et_al_2020.!a
-        'Eden_et_al_2020.!b
+    assert !SouthKorea = In January of 2020, the first COVID-19 patients were first discovered in South Korea, all of whom had recently visited China.
+      > 'Kim_et_al_2020
+      > 'Lim_et_al_2020
+      > 'Park_et_al_2020
+      > 'Shim_et_al_03_17_2020
+      > 'Shim_et_al_03_17_2020.!a
+
     / USA
-    subject USA
-      head = NYC SARS-CoV-2 epidemic has been mainly sourced from untracked tranmission between US and Europe
-      -- USA
-        'Holshue_et_al_2020
-        'Scott_et_al_2020
-        'Rosenberg_et_al_05_08_2020
-        'Reiche_et_al_05_29_2020
-        'Rosenberg_et_al_05_29_2020
-        'Fauver_et_al_05_07_2020
+    assert !USA = The first known case of COVID-19 was identified on January 19, 2020, in the state of Washington. The source of the patient's infection was unknown, but he had recently travelled to Wuhan, China. A major outbreak in New York soon followed.
+      > 'Holshue_et_al_2020
+      > 'Scott_et_al_2020
+      > 'Rosenberg_et_al_05_08_2020
+      > 'Reiche_et_al_05_29_2020
+      > 'Rosenberg_et_al_05_29_2020
+      > 'Fauver_et_al_05_07_2020
+
     / Europe
-    subject Europe
-      head = Early cases were associated with chinese origin, who had travelled to France from China around mid-January, 2020.
-      --
-        'XavierLescure_et_al_2020
+    assert !Europe = The earliest COVID-19 diagnosis in Europe took place on Jan 24, 2020. The patients were all of Chinese origin, and had travelled to France from China.
+      > 'XavierLescure_et_al_2020
+
+    / Singapore
+    assert !Singapore = As of Feb 15, 2020, 36 cases of COVID-19 were linked epidemiologically to the first three clusters of circumscribed local transmission in Singapore.
+      > 'Young_et_al_2020
+      > 'Pung_et_al_03_28_2020
 
     —
     / Global Epidemiology
