@@ -22,19 +22,22 @@ subject module Virus
       !SpikeProtein
       !NonStructuralProteins
 
-    assert !StructuralProtein = SARS-CoV-2 has four structural proteins, known as the S, E, M, and N proteins (spike, envelope, membrane, and nucleocapsid). The N protein holds the RNA genome, and the S, E, and M proteins together create the *viral_envelope.
-      > 'Domling_et_al_05_20_2020
+    claim !StructuralProtein = SARS-CoV-2 has four structural proteins, known as the S, E, M, and N proteins (spike, envelope, membrane, and nucleocapsid). The N protein holds the RNA genome, and the S, E, and M proteins together create the *viral_envelope.
+      --
+        'Domling_et_al_05_20_2020
 
-    assert !SpikeProtein = The Spike Protein allows SARS-CoV-2 to attach and fuse with the membrane of a host cell; specifically, its S1 subunit catalyzes attachment, the S2 subunit fusion.
-      > 'Walls_et_al_2020
-      > 'Wrapp_et_al_2020
-      > 'Coutard_et_al_2020
-      > 'Liu_et_al_05_10_2020
-      > 'Anderson_et_al_2020.!c
+    claim !SpikeProtein = The Spike Protein allows SARS-CoV-2 to attach and fuse with the membrane of a host cell; specifically, its S1 subunit catalyzes attachment, the S2 subunit fusion.
+      --
+        'Walls_et_al_2020
+        'Wrapp_et_al_2020
+        'Coutard_et_al_2020
+        'Liu_et_al_05_10_2020
+        'Anderson_et_al_2020.!c
 
-    assert !NonStructuralProteins = The SARS-CoV-2 genome encodes 16–17 non-structural proteins (ns1 to ns17), such as 3-chymotrypsin-like protease (3CLpro), papain-like protease (PLpro), helicase, and RNA-dependent RNA polymerase (RdRp).
-      > 'Gao_et_al_2020b
-      > 'Hillen_et_al_05_15_2020
+    claim !NonStructuralProteins = The SARS-CoV-2 genome encodes 16–17 non-structural proteins (ns1 to ns17), such as 3-chymotrypsin-like protease (3CLpro), papain-like protease (PLpro), helicase, and RNA-dependent RNA polymerase (RdRp).
+      --
+        'Gao_et_al_2020b
+        'Hillen_et_al_05_15_2020
 
   / Entry and Replication
   subject Entry
@@ -48,29 +51,34 @@ subject module Virus
       !OrganEntry
       !Temperature
 
-    assert !RespiratoryTransmission = SARS-CoV-2 primarily enters the human body through the nose and mouth.
-      > 'Sungnak_et_al_04_23_2020
-      > 'Gengler_et_al_02_20_2020
-      > 'Gengler_et_al_02_20_2020.!a
+    claim !RespiratoryTransmission = SARS-CoV-2 primarily enters the human body through the nose and mouth.
+      --
+        'Sungnak_et_al_04_23_2020
+        'Gengler_et_al_02_20_2020
+        'Gengler_et_al_02_20_2020.!a
 
-    assert !OcularTransmission = Entry of SARS-CoV-2 to the human body via the eyes (ocular transmission) is still unclear. It is hypothesized to occur via drainage of virus‐laden tears into the nasal cavity through the nasolacrimal duct.
-      > 'Ho_et_al_06_16_2020
-      > 'Sun_et_al_03_24_2020
-      > 'Sun_et_al_03_24_2020.!a
+    claim !OcularTransmission = Entry of SARS-CoV-2 to the human body via the eyes (ocular transmission) is still unclear. It is hypothesized to occur via drainage of virus‐laden tears into the nasal cavity through the nasolacrimal duct.
+      --
+        'Ho_et_al_06_16_2020
+        'Sun_et_al_03_24_2020
+        'Sun_et_al_03_24_2020.!a
 
-    assert !CellEntry = Once in the body, SARS-CoV-2 enters human cells by binding to the ACE2 receptor. After a SARS-CoV-2 virion attaches to a target cell, the cell's protease TMPRSS2 cuts open the spike protein of the virus, exposing a fusion peptide in the S2 subunit, and the host receptor ACE2.
-      > 'Hoffman_et_al_2020
-      > 'Matsuyama_et_al_2020
-      > 'Wan_et_al_2020
+    claim !CellEntry = Once in the body, SARS-CoV-2 enters human cells by binding to the ACE2 receptor. After a SARS-CoV-2 virion attaches to a target cell, the cell's protease TMPRSS2 cuts open the spike protein of the virus, exposing a fusion peptide in the S2 subunit, and the host receptor ACE2.
+      --
+        'Hoffman_et_al_2020
+        'Matsuyama_et_al_2020
+        'Wan_et_al_2020
 
-    assert !Replication = After the SARS-CoV-2 spike protein is cut, its virion releases RNA into the cell and forces the cell to produce and disseminate copies of the virus, which infect more cells.
-      > 'Figure_Virus_Replication
+    claim !Replication = After the SARS-CoV-2 spike protein is cut, its virion releases RNA into the cell and forces the cell to produce and disseminate copies of the virus, which infect more cells.
+      --
+        'Figure_Virus_Replication
 
-    assert !OrganEntry = SARS-CoV-2 may enter the central nervous system through the ACE-2 receptor, invading organs, including the brain.
-      > 'Chen_et_al_05_19_2020
-      > 'Puelles_et_al_05_13_2020
-      > 'Meinhardt_et_al_06_04_2020
-      > 'Subbarao_et_al_05_19_2020.!d
+    claim !OrganEntry = SARS-CoV-2 may enter the central nervous system through the ACE-2 receptor, invading organs, including the brain.
+      --
+        'Chen_et_al_05_19_2020
+        'Puelles_et_al_05_13_2020
+        'Meinhardt_et_al_06_04_2020
+        'Subbarao_et_al_05_19_2020.!d
 
     # / Neuropilin
     # subject Neuropilin
@@ -78,8 +86,9 @@ subject module Virus
     #   --
     #     'Daly_et_al_06_05_2020
 
-    assert !Temperature = In contrast to SARS-CoV, SARS-CoV-2 replicates more efficiently at temperatures encountered in the upper respiratory tract, and displays higher sensitivity to type I and type III IFNs.
-      > 'Vkovski_et_al_2020
+    claim !Temperature = In contrast to SARS-CoV, SARS-CoV-2 replicates more efficiently at temperatures encountered in the upper respiratory tract, and displays higher sensitivity to type I and type III IFNs.
+      --
+        'Vkovski_et_al_2020
 
   / Viral Load and Shedding
   subject Shedding
@@ -90,37 +99,40 @@ subject module Virus
       !Resp
       !Others
 
-    assert !Load = The highest viral load during a SARS-CoV-2 infection is observed in throat swabs at the time of symptom onset, suggesting that infectiousness peaks on or before symptom onset.
-      > 'Benefield_et_al_09_30_2020
-      > 'Liu_et_al_2020c
-      > 'Joynt_et_al_2020.!a
-      > 'Zou_et_al_2020
-      > 'Zou_et_al_2020.!a
-      > 'He_et_al_2020
-      > 'Woelfel_et_al_2020b.!b
-      > 'Kujawski_et_al_2020.!t
-      > 'Kujawski_et_al_2020.!u
-      > 'Kim_et_al_2020b
-      > 'Kim_et_al_2020b.!b
-      > 'Kim_et_al_2020b.!c
-      > 'Kim_et_al_2020b.!d
-      > 'Pan_et_al_2020b
+    claim !Load = The highest viral load during a SARS-CoV-2 infection is observed in throat swabs at the time of symptom onset, suggesting that infectiousness peaks on or before symptom onset.
+      --
+        'Benefield_et_al_09_30_2020
+        'Liu_et_al_2020c
+        'Joynt_et_al_2020.!a
+        'Zou_et_al_2020
+        'Zou_et_al_2020.!a
+        'He_et_al_2020
+        'Woelfel_et_al_2020b.!b
+        'Kujawski_et_al_2020.!t
+        'Kujawski_et_al_2020.!u
+        'Kim_et_al_2020b
+        'Kim_et_al_2020b.!b
+        'Kim_et_al_2020b.!c
+        'Kim_et_al_2020b.!d
+        'Pan_et_al_2020b
 
-    assert !Resp = Viral RNA can be detected in the upper respiratory tract long after the disappearance of infectious virus.
-      > 'Woelfel_et_al_2020
-      > 'Atkinson_et_al_2020
-      > 'He_et_al_2020.!b
-      > 'Woelfel_et_al_2020b
-      > 'Yang_et_al_2020
-      > 'Xu_et_al_2020b
-      > 'Liu_et_al_2020c
-      > 'Benefield_et_al_09_30_2020
+    claim !Resp = Viral RNA can be detected in the upper respiratory tract long after the disappearance of infectious virus.
+      --
+        'Woelfel_et_al_2020
+        'Atkinson_et_al_2020
+        'He_et_al_2020.!b
+        'Woelfel_et_al_2020b
+        'Yang_et_al_2020
+        'Xu_et_al_2020b
+        'Liu_et_al_2020c
+        'Benefield_et_al_09_30_2020
 
-    assert !Others = Some studies have found SARS-CoV-2 in feces and semen, though the research on its infectiousness is still ongoing.
-      > 'Li_et_al_2020d
-      > 'Wu_et_al_2020d
-      > 'Pan_et_al_2020b.!f
-      > 'Woelfel_et_al_2020b.!i
+    claim !Others = Some studies have found SARS-CoV-2 in feces and semen, though the research on its infectiousness is still ongoing.
+      --
+        'Li_et_al_2020d
+        'Wu_et_al_2020d
+        'Pan_et_al_2020b.!f
+        'Woelfel_et_al_2020b.!i
 
   / Genetics
   subject Genetics
@@ -133,26 +145,30 @@ subject module Virus
       !Diversity
       !G614
 
-    assert !BatSimilarity = A number of studies have proposed similarities between SARS-CoV-2 and known existing bat-borne coranaviruses.
-      > 'Lu_et_at_2020
-      > 'Benvenuto_et_al_2020
+    claim !BatSimilarity = A number of studies have proposed similarities between SARS-CoV-2 and known existing bat-borne coranaviruses.
+      --
+        'Lu_et_at_2020
+        'Benvenuto_et_al_2020
 
-    assert !Pathogenicity = At least one study has suggested that there is evidence of change in SARS-CoV-2's pathogenicity (its ability to cause disease).
-      > 'Yao_et_al_04_23_2020
-      > 'Yao_et_al_04_23_2020.!a
+    claim !Pathogenicity = At least one study has suggested that there is evidence of change in SARS-CoV-2's pathogenicity (its ability to cause disease).
+      --
+        'Yao_et_al_04_23_2020
+        'Yao_et_al_04_23_2020.!a
 
-    assert !Diversity = Multiple studies have shown genetic diversity within the SARS-CoV-2 strain, without yet establishing functional differences among the discovered variants.
-      > 'Phan_et_al_2020b
-      > 'Paraskevis_et_al_2020
-      > 'Dorp_et_al_06_30_2020
-      > 'Giorgio_et_al_04_27_2020
-      > 'Dorp_et_al_06_30_2020.!h
-      > 'Zhang_et_al_06_12_2020
-      > 'Tang_et_al_05_24_2020
-      > 'Bhattacharyya_et_al_2020
+    claim !Diversity = Multiple studies have shown genetic diversity within the SARS-CoV-2 strain, without yet establishing functional differences among the discovered variants.
+      --
+        'Phan_et_al_2020b
+        'Paraskevis_et_al_2020
+        'Dorp_et_al_06_30_2020
+        'Giorgio_et_al_04_27_2020
+        'Dorp_et_al_06_30_2020.!h
+        'Zhang_et_al_06_12_2020
+        'Tang_et_al_05_24_2020
+        'Bhattacharyya_et_al_2020
 
-    assert !G614 = In July 2020, scientists report that a more infectious SARS-CoV-2 variant with spike protein variant G614 has replaced D614 as the dominant form in the pandemic.
-      > 'Korber_et_al_07_03_2020
+    claim !G614 = In July 2020, scientists report that a more infectious SARS-CoV-2 variant with spike protein variant G614 has replaced D614 as the dominant form in the pandemic.
+      --
+        'Korber_et_al_07_03_2020
 
   # / Tranmission
   # subject module Transmission

@@ -7,7 +7,7 @@ feed August2020
   # VitaminD - RCT
   // Effect of calcifediol treatment and best available therapy versus best available therapy on intensive care unit admission and mortality among patients hospitalized for COVID-19: A pilot randomized clinical study
   doi: https://dx.doi.org/10.1016%2Fj.jsbmb.2020.105751
-  article 'Castillo_et_al_08_29_2020
+  ref 'Castillo_et_al_08_29_2020
     head = Administration of a high dose of Calcifediol or 25-hydroxyvitamin D, a main metabolite of vitamin D endocrine system, significantly reduced the need for ICU treatment of patients requiring hospitalization due to proven COVID-19.
 
     >>> Objective
@@ -32,79 +32,79 @@ feed August2020
       Our pilot study demonstrated that administration of a high dose of Calcifediol or 25-hydroxyvitamin D, a main metabolite of vitamin D endocrine system, significantly reduced the need for ICU treatment of patients requiring hospitalization due to proven COVID-19. Calcifediol seems to be able to reduce severity of the disease, but larger trials with groups properly matched will be required to show a definitive answer.
 
     / August, 2020 - J Steroid Biochem Mol Biol
-    let !a self assert =
+    quote !a =
 
   # Why Face Mask
   // Mask or no mask for COVID-19: A public health and market study
   doi: https://doi.org/10.1371/journal.pone.0237691
-  article 'Li_et_al_08_14_2020
+  ref 'Li_et_al_08_14_2020
     head = Our study evaluate the potential impact of the utilization of normal medical masks in public to combat the COVID-19. Wearing a face mask can be effectively combined with social distancing to flatten the epidemic curve. Wearing a mask presents a rational way to implement as an NPI to combat COVID-19.
 
     >>> Abstract
       Efficient strategies to contain the coronavirus disease 2019 (COVID-19) pandemic are peremptory to relieve the negatively impacted public health and global economy, with the full scope yet to unfold. In the absence of highly effective drugs, vaccines, and abundant medical resources, many measures are used to manage the infection rate and avoid exhausting limited hospital resources. Wearing masks is among the non-pharmaceutical intervention (NPI) measures that could be effectively implemented at a minimum cost and without dramatically disrupting social practices. The mask-wearing guidelines vary significantly across countries. Regardless of the debates in the medical community and the global mask production shortage, more countries and regions are moving forward with recommendations or mandates to wear masks in public. Our study combines mathematical modeling and existing scientific evidence to evaluate the potential impact of the utilization of normal medical masks in public to combat the COVID-19 pandemic. We consider three key factors that contribute to the effectiveness of wearing a quality mask in reducing the transmission risk, including the mask aerosol reduction rate, mask population coverage, and mask availability. We first simulate the impact of these three factors on the virus reproduction number and infection attack rate in a general population. Using the intervened viral transmission route by wearing a mask, we further model the impact of mask-wearing on the epidemic curve with increasing mask awareness and availability. Our study indicates that wearing a face mask can be effectively combined with social distancing to flatten the epidemic curve. Wearing a mask presents a rational way to implement as an NPI to combat COVID-19. We recognize our study provides a projection based only on currently available data and estimates potential probabilities. As such, our model warrants further validation studies.
 
-    -- exports
+    -- quotes
       !a
 
     / Facemasks with other measure can help prevent infections
-    let !a self assert = Our study indicates that wearing a face mask can be effectively combined with social distancing to flatten the epidemic curve. Wearing a mask presents a rational way to implement as an NPI to combat COVID-19. We recognize our study provides a projection based only on currently available data and estimates potential probabilities.
+    quote !a = Our study indicates that wearing a face mask can be effectively combined with social distancing to flatten the epidemic curve. Wearing a mask presents a rational way to implement as an NPI to combat COVID-19. We recognize our study provides a projection based only on currently available data and estimates potential probabilities.
 
   # Dust Mask
   // Evaluation of wearing comfort of dust masks
   doi: https://doi.org/10.1371/journal.pone.0237848
-  article 'Choi_et_al_08_20_2020
+  ref 'Choi_et_al_08_20_2020
     head = This study presents a technique to quantify the wearing comfort of dust masks. We present a comprehensive evaluation of the performance of dust masks in terms of not only the filtering performance but also the wearing comfort. Our study suggests some design principles for dust mask filters, auxiliary electric fans, and check valves.
 
     >>> Abstract
       Dust masks are widely used to prevent the inhalation of particulate matter into the human respiratory organs in polluted air environments. The filter of a dust mask inherently obstructs the natural respiratory air flows, and this flow resistance is mainly responsible for the discomfort experienced when wearing a dust mask. In atmospheric conditions seriously contaminated with fine dust, it is recommended that common citizens wear a dust mask in their everyday lives, yet many people are reluctant to wear a dust mask owing to the discomfort experienced when wearing it for a long time. Understanding of physical reasons for the discomfort is thus crucial in designing a dust mask, but remains far from clear. This study presents a technique to quantify the wearing comfort of dust masks. By developing a respiration simulator to measure the pressure loss across a dust mask, we assessed the energy costs to overcome flow resistance when breathing through various types of dust masks. The energy cost for a single inhalation varies with the mask type in a range between 0 and 10 mJ. We compared the results with the survey results of 40 people about the wearing comfort of the dust masks, which revealed that the wearing comfort crucially depends on the energy cost required for air inhalation though the dust mask. Using the measured energy cost during inhalation as a parameter to quantify the wearing comfort, we present a comprehensive evaluation of the performance of dust masks in terms of not only the filtering performance but also the wearing comfort. Our study suggests some design principles for dust mask filters, auxiliary electric fans, and check valves.
 
-    -- exports
+    -- quotes
       !a
 
     / Comfort of masks is dependent on the breathability
-    let !a self assert = We compared the results with the survey results of 40 people about the wearing comfort of the dust masks, which revealed that the wearing comfort crucially depends on the energy cost required for air inhalation though the dust mask.
+    quote !a = We compared the results with the survey results of 40 people about the wearing comfort of the dust masks, which revealed that the wearing comfort crucially depends on the energy cost required for air inhalation though the dust mask.
     / Design principles for good Masks
-    let !b self assert = A raise in the internal pressure is also advantageous for limiting a leakage flow, and as a result improves the filtration ratio. In addition, we discuss the desirable power level of the electric fan. Zero energy cost during inhalation corresponds to breathing without a dust mask, and negative work can indicate forced inhalation. Accordingly, we conjecture that excessively negative work can produce an unpleasant feeling, and a fan power equal to the energy cost for breathing through the dust mask is thus most desirable for wearing comfort and for saving electric energy.
+    quote !b = A raise in the internal pressure is also advantageous for limiting a leakage flow, and as a result improves the filtration ratio. In addition, we discuss the desirable power level of the electric fan. Zero energy cost during inhalation corresponds to breathing without a dust mask, and negative work can indicate forced inhalation. Accordingly, we conjecture that excessively negative work can produce an unpleasant feeling, and a fan power equal to the energy cost for breathing through the dust mask is thus most desirable for wearing comfort and for saving electric energy.
 
   # Mask Filters, design, New method for developing mask
   // Salt coatings functionalize inert membranes into high-performing filters against infectious respiratory diseases
   doi: https://doi.org/10.1038/s41598-020-70623-9
-  article 'Rubino_et_al_08_17_2020
+  ref 'Rubino_et_al_08_17_2020
     head = Conventional technologies have several drawbacks (i.e., cross-infection risk, filtration efficiency improvements limited by difficulty in breathing, and no safe reusability). We developed an antimicrobial respiratory protective system with high filtering performance and improved breathability levels compared to regular masks.
 
     >>> Abstract
       Respiratory protection is key in infection prevention of airborne diseases, as highlighted by the COVID-19 pandemic for instance. Conventional technologies have several drawbacks (i.e., cross-infection risk, filtration efficiency improvements limited by difficulty in breathing, and no safe reusability), which have yet to be addressed in a single device. Here, we report the development of a filter overcoming the major technical challenges of respiratory protective devices. Large-pore membranes, offering high breathability but low bacteria capture, were functionalized to have a uniform salt layer on the fibers. The salt-functionalized membranes achieved high filtration efficiency as opposed to the bare membrane, with differences of up to 48%, while maintaining high breathability (> 60% increase compared to commercial surgical masks even for the thickest salt filters tested). The salt-functionalized filters quickly killed Gram-positive and Gram-negative bacteria aerosols in vitro, with CFU reductions observed as early as within 5 min, and in vivo by causing structural damage due to salt recrystallization. The salt coatings retained the pathogen inactivation capability at harsh environmental conditions (37 °C and a relative humidity of 70%, 80% and 90%). Combination of these properties in one filter will lead to the production of an effective device, comprehensibly mitigating infection transmission globally.
 
-    -- exports
+    -- quotes
       !a
 
     / Salt coatings for filtration
-    let !a self assert = We developed an antimicrobial respiratory protective system with high filtering performance and improved breathability levels compared to regular masks. The salt-functionalized membranes achieved high filtration efficiency as opposed to the bare membrane, with differences of up to 48%, while maintaining high breathability. The salt coatings retained the pathogen inactivation capability at harsh environmental conditions. Combination of these properties in one filter will lead to the production of an effective device, comprehensibly mitigating infection transmission globally.
+    quote !a = We developed an antimicrobial respiratory protective system with high filtering performance and improved breathability levels compared to regular masks. The salt-functionalized membranes achieved high filtration efficiency as opposed to the bare membrane, with differences of up to 48%, while maintaining high breathability. The salt coatings retained the pathogen inactivation capability at harsh environmental conditions. Combination of these properties in one filter will lead to the production of an effective device, comprehensibly mitigating infection transmission globally.
 
   # facemask, efficacy, surgical mask, n95 mask, Coughing and Sneezing
   // Universal trends in human cough airflows at large distances
   doi: https://doi.org/10.1063/5.0021666
-  article 'Simha_et_al_08_25_2020
+  ref 'Simha_et_al_08_25_2020
     head = Voluntary coughs from five test subjects were analyzed. Without masks, the airflow from coughs is capable of traversing at least 1.5 m–3.0 m. A disposable surgical mask greatly reduces this distance to between 0.5 m and 1.5 m. N95 masks have the best effectiveness and completely contain the horizontal spread to between 0.1 m and 0.25 m.
 
     >>> ABSTRACT
       Coughs are one of the primary means of transmission of diseases such as influenza and SARS-CoV-2 (COVID-19). Disease spreading occurs by the expulsion of pathogen containing aerosol droplets. Fine droplets can pass through layers of masks and are carried away by the exhaled airflow unlike larger droplets that settle down due to gravity. Hence, it is important to quantitatively assess the maximum distance of travel of typical human coughs with and without different types of masks. Even though near field data are available near the mouth, far field data are scarce. In this study, the schlieren method that is a highly sensitive, non-intrusive flow visualization technique is used. It can directly image weak density gradients produced by coughs. An assessment of different methods of covering the mouth while coughing is arrived at by using observations from high speed schlieren images. The effectiveness of coughing into the elbow is examined. The velocity of propagation of coughs and the distance of propagation with and without masks are quantified. It is also found that normalizing the distance–velocity profiles causes all the data to collapse onto a universal non-dimensional curve irrespective of the usage of different types of masks or test subjects. Visualization of cough flow fields and analysis of experimental data reveal that the flow physics is governed by the propagation of viscous vortex rings.
 
 
-    -- exports
+    -- quotes
       !a
       !b
 
     / August, 2020 - Physics of Fluids
-    let !a self assert =  Long sleeve that covers the elbow substantially reduces the ejection of the cough airflow into the environment compared to coughing into a bare elbow.
+    quote !a =  Long sleeve that covers the elbow substantially reduces the ejection of the cough airflow into the environment compared to coughing into a bare elbow.
 
     / N95 and medical mask comparison
-    let !b self assert =  A disposable surgical mask greatly reduces this distance to between 0.5 m and 1.5 m. N95 masks have the best effectiveness and completely contain the horizontal spread to between 0.1 m and 0.25 m.
+    quote !b =  A disposable surgical mask greatly reduces this distance to between 0.5 m and 1.5 m. N95 masks have the best effectiveness and completely contain the horizontal spread to between 0.1 m and 0.25 m.
 
   # risks, Facemask, Exercising
   // COVID-19: Electrophysiological mechanisms underlying sudden cardiac death during exercise with facemasks
   doi: https://doi.org/10.1016/j.mehy.2020.110177
-  article 'Lee_et_al_08_11_2020
+  ref 'Lee_et_al_08_11_2020
     head = Exercise with facemasks may increase the risk of ventricular tachycardia/ventricular fibrillation (VT/VF) leading to SCD via the development of acute and/or intermittent hypoxia and hypercapnia. We discuss the potential underlying mechanisms including increases in adrenergic stimulation and oxidative stress leading to electrophysiological abnormalities that promote arrhythmias via non-reentrant and reentrant mechanisms.
 
     >>> Abstract
@@ -112,7 +112,7 @@ feed August2020
 
 
     / Exercising with facemasks is risky
-    let !a self assert = Exercise with facemasks may increase the risk of ventricular tachycardia/ventricular fibrillation (VT/VF) leading to SCD via the development of acute and/or intermittent hypoxia and hypercapnia. We discuss the potential underlying mechanisms including increases in adrenergic stimulation and oxidative stress leading to electrophysiological abnormalities that promote arrhythmias via non-reentrant and reentrant mechanisms.
+    quote !a = Exercise with facemasks may increase the risk of ventricular tachycardia/ventricular fibrillation (VT/VF) leading to SCD via the development of acute and/or intermittent hypoxia and hypercapnia. We discuss the potential underlying mechanisms including increases in adrenergic stimulation and oxidative stress leading to electrophysiological abnormalities that promote arrhythmias via non-reentrant and reentrant mechanisms.
     # this needs to be rewritten without the jargon
 
 
@@ -120,7 +120,7 @@ feed August2020
   # Decontamination of Mask, reuse,
   // Microwave- and Heat-Based Decontamination of N95 Filtering Facepiece Respirators: A Systematic Review
   doi: https://doi.org/10.1016/j.jhin.2020.08.016
-  article 'Gertsman_et_al_08_22_2020
+  ref 'Gertsman_et_al_08_22_2020
     head = Microwave irradiation and heat may be safe and effective viral decontamination options for N95 FFR reuse during critical shortages. The evidence does not support autoclaving or high-heat (>90oC) approaches. Physical degradation may be an issue for certain mask models, and more real-world evidence on fit is needed.
 
     >>> Background
@@ -139,25 +139,25 @@ feed August2020
       Microwave irradiation and heat may be safe and effective viral decontamination options for N95 FFR reuse during critical shortages. The evidence does not support autoclaving or high-heat (>90oC) approaches. Physical degradation may be an issue for certain mask models, and more real-world evidence on fit is needed.
 
     / N95 mask reuse
-    let !a self assert = Microwave irradiation and heat may be safe and effective viral decontamination options for N95 FFR reuse during critical shortages. The evidence does not support autoclaving or high-heat (>90oC) approaches. Physical degradation may be an issue for certain mask models, and more real-world evidence on fit is needed.
+    quote !a = Microwave irradiation and heat may be safe and effective viral decontamination options for N95 FFR reuse during critical shortages. The evidence does not support autoclaving or high-heat (>90oC) approaches. Physical degradation may be an issue for certain mask models, and more real-world evidence on fit is needed.
 
 
   # Face Mask, Oncology Clinics, risks,
   // Face masks in radiation oncology clinics: based on evidence or source of mistakes?
   doi: https://doi.org/10.1007/s12032-020-01403-8
-  article 'Klement_et_al_08_01_2020
+  ref 'Klement_et_al_08_01_2020
     head = Potential risks associated with wearing masks, such as the risk of confounding patients, outweigh any benefits of such a policy for which evidence of protection from COVID-19 is generally weak. For asymptomatic patients, wearing masks in addition to hygiene standards will not provide additional protection of others and should be cautioned against.
 
     >>> Abstract
       We here express our concern about a general decree to let patients wear face masks in radiation oncology clinics. We believe that potential risks associated with wearing masks, such as the risk of confounding patients, outweigh any benefits of such a policy for which evidence of protection from COVID-19 is generally weak. For asymptomatic patients, wearing masks in addition to hygiene standards will not provide additional protection of others and should be cautioned against.
 
     / Potential risks of wearing facemasks outweigh benefits in radiation oncology clinics
-    let !a self assert = We believe that potential risks associated with wearing masks, such as the risk of confounding patients, outweigh any benefits of such a policy for which evidence of protection from Covid-19 is generally weak. For asymptomatic patients, wearing masks in addition to hygiene standards will not provide additional protection of others and should be cautioned against.
+    quote !a = We believe that potential risks associated with wearing masks, such as the risk of confounding patients, outweigh any benefits of such a policy for which evidence of protection from Covid-19 is generally weak. For asymptomatic patients, wearing masks in addition to hygiene standards will not provide additional protection of others and should be cautioned against.
 
   # Low Mortality with mask adoption - Face Mask
   // Association of country-wide coronavirus mortality with demographics, testing, lockdowns, and public wearing of masks. Update August 4, 2020.
   doi: https://doi.org/10.1101/2020.05.22.20109231
-  article 'Leffler_et_al_08_05_2020
+  ref 'Leffler_et_al_08_05_2020
     head = Societal norms and government policies supporting the wearing of masks by the public, as well as international travel controls, are independently associated with lower per-capita mortality from COVID-19.
 
     >>> Purpose
@@ -166,17 +166,17 @@ feed August2020
       In univariate analyses, the prevalence of smoking, per-capita gross domestic product, urbanization, and colder average country temperature were positively associated with coronavirus-related mortality. In a multivariable analysis of 196 countries, the duration of infection in the country, and the proportion of the population 60 years of age or older were positively associated with per-capita mortality, while duration of mask-wearing by the public was negatively associated with mortality (all p<0.001). International travel restrictions and a lower prevalence of obesity were independently associated with mortality in a model which controlled for testing policy. Internal lockdown requirements and viral testing policies and levels were not associated with mortality. The association of contact tracing policy with mortality approached statistical significance (p=0.06). In countries with cultural norms or government policies supporting public mask-wearing, per-capita coronavirus mortality increased on average by just 15.8% each week, as compared with 62.1% each week in remaining countries.
     >>> Conclusions
       Societal norms and government policies supporting the wearing of masks by the public, as well as international travel controls, are independently associated with lower per-capita mortality from COVID-19.
-    -- exports
+    -- quotes
       !a
     / Mask usage lead to lower per-capita mortality from COVID-19
-    let !a self assert = Societal norms and government policies supporting the wearing of masks by the public, as well as international travel controls, are independently associated with lower per-capita mortality from COVID-19.
+    quote !a = Societal norms and government policies supporting the wearing of masks by the public, as well as international travel controls, are independently associated with lower per-capita mortality from COVID-19.
 
 
 
   # Hydroxychloroquine
   // Low-dose Hydroxychloroquine Therapy and Mortality in Hospitalized Patients with COVID-19: A Nationwide Observational Study of 8075 Participants
   doi: https://doi.org/10.1016/j.ijantimicag.2020.106144
-  article 'PharmD_et_al_08_24_2020
+  ref 'PharmD_et_al_08_24_2020
     head = Compared to supportive care only, low-dose HCQ monotherapy was independently associated with lower mortality in hospitalized patients with COVID-19 diagnosed and treated early or later after symptom onset.
 
     >>> Background
@@ -192,28 +192,28 @@ feed August2020
       Compared to supportive care only, low-dose HCQ monotherapy was independently associated with lower mortality in hospitalized patients with COVID-19 diagnosed and treated early or later after symptom onset.
 
     / August, 2020 - International Journal of Antimicrobial Agents
-    let !a self assert =
+    quote !a =
 
 
   # Airborne
   // Respiratory virus RNA is detectable in airborne and droplet particles
   doi: https://doi.org/10.1002/jmv.23698
-  article 'Gralton_et_al_08_19_2013
+  ref 'Gralton_et_al_08_19_2013
     head = Individuals with symptomatic respiratory viral infections produce both large and small particles carrying viral RNA on coughing and breathing.
 
     >>> Abstract
       Aerosol transmission routes of respiratory viruses have been classified by the WHO on the basis of equilibrium particle size. Droplet transmission is associated with particles sized >5 µm in diameter and airborne transmission is associated with particles sized ≤5 µm in diameter. Current infection control measures for respiratory viruses are directed at preventing droplet transmission, although epidemiological evidence suggests concurrent airborne transmission also occurs. Understanding the size of particles carrying viruses can be used to inform infection control procedures and therefore reduce virus transmission. This study determined the size of particles carrying respiratory viral RNA produced on coughing and breathing by 12 adults and 41 children with symptomatic respiratory infections. A modified six-stage Andersen Sampler collected expelled particles. Each stage was washed to recover samples for viral RNA extraction. Influenza A and B, parainfluenza 1, 2 and 3, respiratory syncytial virus (RSV), human metapneumovirus and human rhinoviruses (hRV) were detected using RT-PCR. On breathing, 58% of participants produced large particles (>5 µm) containing viral RNA and 80% produced small particles (≤5 µm) carrying viral RNA. On coughing, 57% of participants produced large particles containing viral RNA and 82% produced small particles containing viral RNA. Forty five percent of participants produced samples positive for hRV viral RNA and 26% of participants produced samples positive for viral RNA from parainfluenza viruses. This study demonstrates that individuals with symptomatic respiratory viral infections produce both large and small particles carrying viral RNA on coughing and breathing.
 
-    -- exports
+    -- quotes
       !a
 
     / August, 2013 - J Med Virol.
-    let !a self assert =
+    quote !a =
 
   # Airborne Context
   // The role of particle size in experimental air-borne infection.
   doi: https://doi.org/10.1093/oxfordjournals.aje.a119459
-  article 'Sonkin_et_al_05_01_1951
+  ref 'Sonkin_et_al_05_01_1951
     head = With increasing B.M.D. (bacterial median diameter) the Ct required to produce infections of the lower respiratory tract increased much more steeply than the Ct required to give infection of the upper respiratory tract.
 
     >>> Abstract :
@@ -221,12 +221,12 @@ feed August2020
       With the Group C streptococcus the LCt50 increased with increase in the B.M.D. In one series of experiments the LCtBO was 6×103 when the B.M.D. was 0.97 µ, and 1 × 108 with a B.M.D. of 12.0 µ. Small particles were necessary to produce lung lesions, but with all but the largest-particle clouds, lung lesions were produced more readily than upper respiratory tract lesions. With increasing B.M.D. the Ct required to produce infections of the lower respiratory tract increased much more steeply than the Ct required to give infection of the upper respiratory tract.
 
     / May, 1951 - American Journal of Hygiene
-    let !a self assert =
+    quote !a =
 
   # Mitigatin
   // Associations between Wearing Masks, Washing Hands, and Social Distancing Practices, and Risk of COVID-19 Infection in Public: A Cohort-Based Case-Control Study in Thailand
   doi: https://dx.doi.org/10.2139/ssrn.3633162
-  article 'Doung-ngern_et_al_08_14_2020
+  ref 'Doung-ngern_et_al_08_14_2020
     head = Our findings support consistently wearing masks, washing hands, and social distancing in public to protect against COVID-19 infections. Combining measures could substantially reduce infections in Thailand.
 
 
@@ -244,23 +244,23 @@ feed August2020
 
 
     / August, 2020 - SSRN
-    let !a self assert =
+    quote !a =
 
   # Ventilation - Air conditioning system - Public Policy
   // Air conditioning system usage and SARS-CoV-2 transmission dynamics in Iran
   doi: https://dx.doi.org/10.1016%2Fj.mehy.2020.110164
-  article 'Xiao_et_al_08_05_2020
+  ref 'Xiao_et_al_08_05_2020
     head = Cooling systems could contribute to the spread of SARS-CoV-2 in Iran. Besides creating air circulation in closed environments, these systems also reduce air humidity, which promotes the spread of virus-laden micro-droplets. We urgently advise health policy makers to regard the role of ventilation systems in the guidelines for controlling the epidemic.
 
 
     / August, 2020 - Med Hypotheses
-    let !a self assert =
+    quote !a =
 
 
   # Side effects Hydroxychloroquine
   // Safety of hydroxychloroquine in COVID-19 and other diseases: a systematic review and meta-analysis of 53 randomized trials
   doi: https://doi.org/10.1007/s00228-020-02962-5
-  article 'Chen_et_al_08_11_2020
+  ref 'Chen_et_al_08_11_2020
     head = We identified 53 eligible studies involving 5496 patients. HCQ is associated with more total AEs (Adverse Effects), gastrointestinal AEs, and skin and subcutaneous tissue AEs compared with placebo or no intervention in the overall population.
 
     >>> Objectives
@@ -275,21 +275,21 @@ feed August2020
     >>> Conclusions
       HCQ is associated with a high total risk of AEs compared with the placebo or no intervention in the overall population. Given the small number of COVID-19 participants included, we should be cautious regarding the conclusion stating that HCQ is linked with an increase incidence of AEs in patients with COVID-19, which we hope to confirm in the future through well-designed and larger sample size studies.
 
-    -- exports
+    -- quotes
       !a
       !b
 
     / August, 2020 - European Journal of Clinical Pharmacology
-    let !a self assert =  The risks of gastrointestinal AEs, skin and subcutaneous tissue disorders AEs, and treatment discontinuation due to AEs in the HCQ group were higher than in the control group. It is worth mentioning that patients treated with HCQ did not have a significantly increased risk of ophthalmic AEs, cardiac AEs, and total SAEs compared to those who were not treated with HCQ.
+    quote !a =  The risks of gastrointestinal AEs, skin and subcutaneous tissue disorders AEs, and treatment discontinuation due to AEs in the HCQ group were higher than in the control group. It is worth mentioning that patients treated with HCQ did not have a significantly increased risk of ophthalmic AEs, cardiac AEs, and total SAEs compared to those who were not treated with HCQ.
 
     / August, 2020 - European Journal of Clinical Pharmacology
-    let !b self assert = There were two SAEs reported in the HCQ group, one being erythema multiforme and the other one being acute generalized erythematous pustulosis, while none were reported in the control group. Previous studies revealed that skin ADRs generally occurred 5~14 days after the beginning of HCQ therapy, and the rash was characterized as lichen-like, urticaria or simply rash. Additionally, the symptoms were generally mild, which could be relieved after withdrawal of therapy
+    quote !b = There were two SAEs reported in the HCQ group, one being erythema multiforme and the other one being acute generalized erythematous pustulosis, while none were reported in the control group. Previous studies revealed that skin ADRs generally occurred 5~14 days after the beginning of HCQ therapy, and the rash was characterized as lichen-like, urticaria or simply rash. Additionally, the symptoms were generally mild, which could be relieved after withdrawal of therapy
 
 
   # Nosocomial
   // Toilets dominate environmental detection of severe acute respiratory syndrome coronavirus 2 in a hospital
   doi: https://doi.org/10.1016/j.scitotenv.2020.141710
-  article 'Ding_et_al_08_15_2020
+  ref 'Ding_et_al_08_15_2020
     head = 107 surface samples, 46 air samples, two exhaled condensate samples, and two expired air samples were collected within and beyond four three-bed isolation rooms. The fecal-derived aerosols in patients' toilets contained most of the detected SARS-CoV-2, highlighting the importance of surface and hand hygiene for intervention.
 
     >>> Abstract
@@ -297,13 +297,13 @@ feed August2020
 
 
     / August, 2020 - Science of The Total Environment
-    let !a self assert =
+    quote !a =
 
 
   # Hydroxychloroquine
   // A Randomized Trial of Hydroxychloroquine as Postexposure Prophylaxis for Covid-19
   doi: https://doi.org/10.1056/NEJMoa2016638
-  article 'Boulware_et_al_08_06_2020
+  ref 'Boulware_et_al_08_06_2020
     head = After high-risk or moderate-risk exposure to Covid-19, hydroxychloroquine did not prevent illness compatible with Covid-19 or confirmed infection when used as postexposure prophylaxis within 4 days after exposure. Side effects were more common with hydroxychloroquine than with placebo, but no serious adverse reactions were reported.
 
     >>> BACKGROUND
@@ -319,4 +319,4 @@ feed August2020
       After high-risk or moderate-risk exposure to Covid-19, hydroxychloroquine did not prevent illness compatible with Covid-19 or confirmed infection when used as postexposure prophylaxis within 4 days after exposure.
 
     / August, 2020 - NEJM
-    let !a self assert =
+    quote !a =

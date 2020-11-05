@@ -27,19 +27,20 @@ subject module Disease
       !Recovery
 
     / Incubation
-    assert !Incubation = Researchers have produced multiple estimates for the incubation period of SARS-CoV-2, with mean values ranging from 4 to 6 days, and the 95th percentile approaching 14 days.
+    claim !Incubation = Researchers have produced multiple estimates for the incubation period of SARS-CoV-2, with mean values ranging from 4 to 6 days, and the 95th percentile approaching 14 days.
+      --
       # -- IncubationPeriod of other Respiratory Viral infection
       #   'Lessler_et_al_2013
       # -- COVID-19
-      > 'Tindale_et_al_2020
-      > 'Nishiura_et_al_2020
-      > 'Linton_et_al_2020
-      > 'Liu_et_al_03_03_2020.!d
-      > 'Sanche_et_al_2020
+        'Tindale_et_al_2020
+        'Nishiura_et_al_2020
+        'Linton_et_al_2020
+        'Liu_et_al_03_03_2020.!d
+        'Sanche_et_al_2020
 
-    assert !Course = The statistical distribution of symptom duration has not yet been established.
+    claim !Course = The statistical distribution of symptom duration has not yet been established.
 
-    assert !Recovery = The statistical distribution of time to recovery has not yet been established.
+    claim !Recovery = The statistical distribution of time to recovery has not yet been established.
 
   / Symptoms and Complications
   subject Course
@@ -51,28 +52,30 @@ subject module Disease
       !Complications
 
     / Asymptomatic Carriers
-    assert !AsymptomaticCarriers = A minority of cases do not develop noticeable symptoms at any point in time. Asymtomatic and presymptomatic carriers can however experience high viral load, and can transmit the virus.
-      > 'Tindale_et_al_2020
-      > 'Nishiura_et_al_2020
-      > 'Du_et_al_2020
-      > 'Zou_et_al_2020
-      > 'Lavezzo_et_al_04_18_2020
-      > 'Xin-Long_et_al_06_18_2020.
-      > 'Mizumoto_et_al_2020
-      > 'He_et_al_2020
+    claim !AsymptomaticCarriers = A minority of cases do not develop noticeable symptoms at any point in time. Asymtomatic and presymptomatic carriers can however experience high viral load, and can transmit the virus.
+      --
+        'Tindale_et_al_2020
+        'Nishiura_et_al_2020
+        'Du_et_al_2020
+        'Zou_et_al_2020
+        'Lavezzo_et_al_04_18_2020
+        'Xin-Long_et_al_06_18_2020.
+        'Mizumoto_et_al_2020
+        'He_et_al_2020
       # 'Graham_et_al_05_16_2020.!b
 
     / Symptoms
-    assert !SymptomaticPhase = Fever is the most common symptom of COVID-19. Other symptoms include cough, loss of appetite, fatigue, shortness of breath, sputum production, and myalgia. Additional symptoms such as loss of smell and taste, skin rash and neurological manifestations have also been reported.
-      > 'Chen_et_al_2020d
-      > 'Ragona_et_al_2020
-      > 'Zubair_et_al_05_29_2020
-      > 'Meinhardt_et_al_06_04_2020
-      > 'Recalcati_et_al_2020
-      > 'Joob_et_al_2020
-      > 'Kluytmans_et_al_2020
-      > 'Siddiqi_et_al_2020
-      > 'Berlin_et_al_2020
+    claim !SymptomaticPhase = Fever is the most common symptom of COVID-19. Other symptoms include cough, loss of appetite, fatigue, shortness of breath, sputum production, and myalgia. Additional symptoms such as loss of smell and taste, skin rash and neurological manifestations have also been reported.
+      --
+        'Chen_et_al_2020d
+        'Ragona_et_al_2020
+        'Zubair_et_al_05_29_2020
+        'Meinhardt_et_al_06_04_2020
+        'Recalcati_et_al_2020
+        'Joob_et_al_2020
+        'Kluytmans_et_al_2020
+        'Siddiqi_et_al_2020
+        'Berlin_et_al_2020
 
     —
     / Immune Reponse
@@ -203,54 +206,61 @@ subject module Disease
           'Niwa_et_al_10_15_2018
 
     / Complications
-    assert !Complications = Severe cases of COVID-19 may develop complications including pneumonia, acute respiratory distress syndrome (ARDS), multi-organ failure, coagulopathy, cytokine storms, septic shock, neurologic manifestations, endothelitis, and others.
-    # A few recent studies report children developing paediatric multisystem inflammatory syndrome.
-      > !Pneumonia
-      > !BloodCoagulation
-      > !CardiacDysfunction
-      > !CytokineStorms
-      > !EndothelialCellInfection
-      > !CNS
+    claim !Complications = Severe cases of COVID-19 may develop complications including pneumonia, acute respiratory distress syndrome (ARDS), multi-organ failure, coagulopathy, cytokine storms, septic shock, neurologic manifestations, endothelitis, and others.
+      # A few recent studies report children developing paediatric multisystem inflammatory syndrome.
+      --
+        !Pneumonia
+        !BloodCoagulation
+        !CardiacDysfunction
+        !CytokineStorms
+        !EndothelialCellInfection
+        !CNS
 
       / Cytokine Storms
-      assert !CytokineStorms = A cytokine storm is a physiological reaction in which the immune system triggers an excessive release of pro-inflammatory signaling molecules called cytokines. Cytokine storms have been observed in the later stages of severe COVID‑19.
-        > 'Zheng_et_al_2020
-        > 'Liu_et_al_2020f
-        > 'DelValle_et_al_05_30_2020
-        > 'Siddiqi_et_al_2020.!d
-        > 'Siddiqi_et_al_2020.!e
+      claim !CytokineStorms = A cytokine storm is a physiological reaction in which the immune system triggers an excessive release of pro-inflammatory signaling molecules called cytokines. Cytokine storms have been observed in the later stages of severe COVID‑19.
+        --
+          'Zheng_et_al_2020
+          'Liu_et_al_2020f
+          'DelValle_et_al_05_30_2020
+          'Siddiqi_et_al_2020.!d
+          'Siddiqi_et_al_2020.!e
 
       / Pneumonia
-      assert !Pneumonia = Severe inflammation in the lungs is a common complication of COVID-19, and can lead to tissue damage.
-        > 'Subbarao_et_al_05_19_2020
-        > 'Li_et_al_2020b
-        > 'Zheng_et_al_2020
-        > 'Jiang_et_al_04_27_2020
+      claim !Pneumonia = Severe inflammation in the lungs is a common complication of COVID-19, and can lead to tissue damage.
+        --
+          'Subbarao_et_al_05_19_2020
+          'Li_et_al_2020b
+          'Zheng_et_al_2020
+          'Jiang_et_al_04_27_2020
 
       / Cardiovascular Dysfunction
-      assert !CardiacDysfunction = COVID-19 can result in a number of cardiovascular complications, including myocardial injury and myocarditis, AMI, heart failure, dysrhythmias, and venous thromboembolic events.
-        > 'Long_et_al_2020
-        > 'Siddiqi_et_al_2020.!d
-        > 'Siddiqi_et_al_2020.!f
+      claim !CardiacDysfunction = COVID-19 can result in a number of cardiovascular complications, including myocardial injury and myocarditis, AMI, heart failure, dysrhythmias, and venous thromboembolic events.
+        --
+          'Long_et_al_2020
+          'Siddiqi_et_al_2020.!d
+          'Siddiqi_et_al_2020.!f
 
       / Blood Coagulation
-      assert !BloodCoagulation = There is growing evidence that COVID-19-infected patients are highly predisposed to developing blood clots.
-        > 'Yin_et_al_2020
-        > 'Xiong_et_al_2020
-        > 'Giannis_et_al_2020
-        > 'Cui_et_al_2020
-        > 'Tang_et_al_2020
-        > 'Ackermann_et_al_05_21_2020
-        > 'Siddiqi_et_al_2020.!e
+      claim !BloodCoagulation = There is growing evidence that COVID-19-infected patients are highly predisposed to developing blood clots.
+        --
+          'Yin_et_al_2020
+          'Xiong_et_al_2020
+          'Giannis_et_al_2020
+          'Cui_et_al_2020
+          'Tang_et_al_2020
+          'Ackermann_et_al_05_21_2020
+          'Siddiqi_et_al_2020.!e
 
       / Endothelial Cell Infection
-      assert !EndothelialCellInfection = Some studies have lent evidence to the theory that COVID-19 can infect blood vessels. If true, this may explain not only the high prevalence of blood clots, strokes, and heart attacks, but also provide an answer for the diverse set of head-to-toe symptoms that have emerged.
-        > 'Varga_al_04_20_2020
-        > 'Ackermann_et_al_05_21_2020
+      claim !EndothelialCellInfection = Some studies have lent evidence to the theory that COVID-19 can infect blood vessels. If true, this may explain not only the high prevalence of blood clots, strokes, and heart attacks, but also provide an answer for the diverse set of head-to-toe symptoms that have emerged.
+        --
+          'Varga_al_04_20_2020
+          'Ackermann_et_al_05_21_2020
 
       / Central Nervous System Infection
-      assert !CNS = The exact mechanism by which SARS-CoV-2 invades the central nervous system remains unclear. Though there is evidence that SARS-CoV-2 neuroinvasion occurs at the neuro-mucosal interface which would explain some of the well-documented neurological symptoms including loss of smell and taste.
-        > 'Meinhardt_et_al_06_04_2020
+      claim !CNS = The exact mechanism by which SARS-CoV-2 invades the central nervous system remains unclear. Though there is evidence that SARS-CoV-2 neuroinvasion occurs at the neuro-mucosal interface which would explain some of the well-documented neurological symptoms including loss of smell and taste.
+        --
+          'Meinhardt_et_al_06_04_2020
 
   / Susceptibility and Risk Factors
   subject Risk
@@ -270,21 +280,23 @@ subject module Disease
       !GeneticRisk
 
     / Children
-    assert !Children = Children make up a small proportion of reported cases. They are likely to have milder symptoms and a lower chance of severe disease than adults. Their role in transmission remains uncertain.
-      > 'Zimmermann_et_al_2020
-      > 'Viner_et_al_05_24_2020
-      > 'Gudbjartsson_et_al_2020
-      > 'Weissleder_et_al_06_03_2020.!q
-      > 'Riphagen_et_al_2020
+    claim !Children = Children make up a small proportion of reported cases. They are likely to have milder symptoms and a lower chance of severe disease than adults. Their role in transmission remains uncertain.
+      --
+        'Zimmermann_et_al_2020
+        'Viner_et_al_05_24_2020
+        'Gudbjartsson_et_al_2020
+        'Weissleder_et_al_06_03_2020.!q
+        'Riphagen_et_al_2020
 
     / The Elderly
-    assert !Elderly = COVID-19 is more lethal in older patients, particularly those with co-morbid conditions. The case fatality rate is significantly higher in patients 60 or older.
-      > 'Santesmasses_et_al_04_15_2020
-      > 'Jing_et_al_2020
-      > 'Garg_et_al_2020
-      > 'Verity_et_al_2020
-      > 'Onder_et_al_2020
-      > 'Richardson_et_al_04_22_2020
+    claim !Elderly = COVID-19 is more lethal in older patients, particularly those with co-morbid conditions. The case fatality rate is significantly higher in patients 60 or older.
+      --
+        'Santesmasses_et_al_04_15_2020
+        'Jing_et_al_2020
+        'Garg_et_al_2020
+        'Verity_et_al_2020
+        'Onder_et_al_2020
+        'Richardson_et_al_04_22_2020
 
         # >>> Lymphocytes count lower for progressively older age groups
         # --
@@ -303,61 +315,66 @@ subject module Disease
         #   Elderly have higher CFR and Mortality Rate
 
     / Gender
-    assert !Gender = Men are at higher risk of developing severe COVID-19 disease.
+    claim !Gender = Men are at higher risk of developing severe COVID-19 disease.
+      --
       # Some research have investigated the difference might be due to the immune response.
       # -- Reports
-      > 'Takahashi_et_al_06_09_2020
-      > 'Chen_et_al_2020c
-      > 'Chen_et_al_2020d.!a
-      # > 'Chen_et_al_2020c.!c
-      > 'Pan_et_al_2020.!a
-      > 'DelValle_et_al_05_30_2020.!e
-      > 'Rosenberg_et_al_05_29_2020.!b
-      > 'Lee_et_al_05_28_2020.!d
-      > 'Williamson_et_al_05_07_2020.!a
-      > 'Richardson_et_al_04_22_2020.!d
-      > 'Salje_et_al_04_20_2020.!c
-      > 'Garg_et_al_2020.!c
+        'Takahashi_et_al_06_09_2020
+        'Chen_et_al_2020c
+        'Chen_et_al_2020d.!a
+      #   'Chen_et_al_2020c.!c
+        'Pan_et_al_2020.!a
+        'DelValle_et_al_05_30_2020.!e
+        'Rosenberg_et_al_05_29_2020.!b
+        'Lee_et_al_05_28_2020.!d
+        'Williamson_et_al_05_07_2020.!a
+        'Richardson_et_al_04_22_2020.!d
+        'Salje_et_al_04_20_2020.!c
+        'Garg_et_al_2020.!c
 
     / Smokers
-    assert !Smokers = Multiple review studies have identified that smokers are particularly susceptible to COVID-19, and more likely to require intensive care or die compared to non-smokers.
-      > 'Fontanet_et_al_04_23_2020.!a
-      > 'Smith_et_al_2020
-      > 'Smith_et_al_04_26_2020
+    claim !Smokers = Multiple review studies have identified that smokers are particularly susceptible to COVID-19, and more likely to require intensive care or die compared to non-smokers.
+      --
+        'Fontanet_et_al_04_23_2020.!a
+        'Smith_et_al_2020
+        'Smith_et_al_04_26_2020
       # >>>
       # Research has shown that there is overabundance of ACE2 in the lungs of smokers which may partially explain why smokers are significantly more likely to develop severe SARS-CoV-2 infections that require aggressive medical interventions. Certain inflammatory cytokines also trigger ACE2 upregulation, which could further influence ACE2 expression due to smoking-associated lung inflammation. However, the exact role of ACE2 as a mediator of disease severity remains to be determined. These results may partially explain why smokers are particularly susceptible to severe SARS-CoV-2 infections.
 
     / Pregnant Women
-    assert !PregnantWomen = Some studies have suggested that in pregnant women COVID-19 has not lead to maternal deaths. Research thus far has shown no confirmed cases of vertical transmission of SARS-CoV-2 from mothers with COVID-19 to their fetuses though recent case reports demonstrate SARS-CoV-2 infection of the placenta.
+    claim !PregnantWomen = Some studies have suggested that in pregnant women COVID-19 has not lead to maternal deaths. Research thus far has shown no confirmed cases of vertical transmission of SARS-CoV-2 from mothers with COVID-19 to their fetuses though recent case reports demonstrate SARS-CoV-2 infection of the placenta.
+      --
       # >>>
       #   Studies which shows no vertical tranmission
       # --
-      > 'Favre_et_al_2020
-      > 'Sutton_et_al_2020
-      > 'Schwartz_et_al_2020
+        'Favre_et_al_2020
+        'Sutton_et_al_2020
+        'Schwartz_et_al_2020
       # >>>
       #   Studies which shows vertical tranmission / Infection on placenta
       # --
-      > 'Dong_et_al_2020
-      > 'Hosier_et_al_2020
+        'Dong_et_al_2020
+        'Hosier_et_al_2020
 
     / Air Pollution
-    assert !AirPollution = Two studies have suggested that long-term average exposure to air pollution increases vulnerability to the most severe COVID-19 outcomes.
-      > 'Wu_et_al_2020c
-      > 'Setti_et_al_04_17_2020
+    claim !AirPollution = Two studies have suggested that long-term average exposure to air pollution increases vulnerability to the most severe COVID-19 outcomes.
+      --
+        'Wu_et_al_2020c
+        'Setti_et_al_04_17_2020
 
     / Vitamin D Levels
-    assert !VitaminD = It appears from case study reports that Vitamin D may improve clinical outcomes of patients infected with COVID-19, potentially by suppressing cytokine storms. If true, populations with higher vitamin D levels may experience lower incidence of severe disease.
+    claim !VitaminD = It appears from case study reports that Vitamin D may improve clinical outcomes of patients infected with COVID-19, potentially by suppressing cytokine storms. If true, populations with higher vitamin D levels may experience lower incidence of severe disease.
+      --
 
       # -- Vitamin D status is associated with clinical outcomes.
-      > 'Alipio_et_al_2020
-      > 'Raharusun_et_al_2020
+        'Alipio_et_al_2020
+        'Raharusun_et_al_2020
       # -- Vitamin D suppressing Cytokine Storm
-      > 'Daneshkhah_et_al_05_18_2020
+        'Daneshkhah_et_al_05_18_2020
       # >>>
       #   Randomized Clinical Study
       # --
-      > 'Castillo_et_al_08_29_2020
+        'Castillo_et_al_08_29_2020
 
       # --
       #   VitaminDRationale
@@ -400,51 +417,54 @@ subject module Disease
           'Essen_et_al_03_07_2010
 
     / Genetic Risk
-    assert !GeneticRisk = Researchers are performing a genome-wide association study to examine variants across the human genome that may be associated with high risk of becoming severely ill from a SARS-CoV-2 infection.
+    claim !GeneticRisk = Researchers are performing a genome-wide association study to examine variants across the human genome that may be associated with high risk of becoming severely ill from a SARS-CoV-2 infection.
+      --
       # -- Genetic Susceptibility
-      > 'Ellinghaus_et_al_06_02_2020
+        'Ellinghaus_et_al_06_02_2020
       # -- Genetic Risk
-      > 'Zeberg_et_al_07_03_2020
-      > 'Ellinghaus_et_al_06_17_2020
-      > 'Taylor_et_al_06_20_2020
+        'Zeberg_et_al_07_03_2020
+        'Ellinghaus_et_al_06_17_2020
+        'Taylor_et_al_06_20_2020
       # -- APOE e4 genotype increase risk of severe COVID
-      > 'Kuo_et_al_05_26_2020
+        'Kuo_et_al_05_26_2020
       # -- HLA
-      > 'Nguyen_et_al_2020
+        'Nguyen_et_al_2020
 
         # 'Taylor_et_al_06_20_2020 can get connected to bloodtype and CoMorbidConditions
 
     / Co-Morbid Conditions
-    assert !CoMorbidConditions = A number of underlying health conditions such as diabetes, cardiovascular disease, obesity, cancer, renal disease, and HIV are associated with a greater incidence of severe disease, and poorer clinical outcomes.
+    claim !CoMorbidConditions = A number of underlying health conditions such as diabetes, cardiovascular disease, obesity, cancer, renal disease, and HIV are associated with a greater incidence of severe disease, and poorer clinical outcomes.
+      --
       # >>>
       #   A greater number of comorbidities are correlated with poorer clinical outcomes.
       # --
-      # > 'Guan_et_al_2020
-      # > 'Guan_et_al_2020.!b
-      > !CardiovascularDisease
-      > !Obesity
-      > !RenalDisease
-      > !Diabetes
-      > !HIV
-      > !Cancer
+      #   'Guan_et_al_2020
+      #   'Guan_et_al_2020.!b
+        !CardiovascularDisease
+        !Obesity
+        !RenalDisease
+        !Diabetes
+        !HIV
+        !Cancer
       # >>>
       #   Having less ACE2 may increase the risk of Severe disease
       # -- ACE2
       #   'AlGhatrif_et_al_2020
 
       / Cardiovascular Disease
-      assert !CardiovascularDisease = Pre-existing cardiovascular disease and hypertension seem to be linked with worse outcomes and increased risk of death in patients with COVID-19. COVID-19 itself can also induce myocarditis, acute myocardial infarction, stroke, cardiomyopathy, heart failure, arrhythmias, acute pericarditis, and venous thromboembolism.
-        > 'FangFang_et_al_2020
-        > 'Li_et_al_2020c
-        > 'Richardson_et_al_04_22_2020
-        # > 'DelValle_et_al_05_30_2020.!g
-        # > 'FangFang_et_al_2020.!a
-        # > 'FangFang_et_al_2020.!b
-        # > 'FangFang_et_al_2020.!c
-        # > 'FangFang_et_al_2020.!d
-        # > 'FangFang_et_al_2020.!e
-        # > 'FangFang_et_al_2020.!f
-        # > 'FangFang_et_al_2020.!g
+      claim !CardiovascularDisease = Pre-existing cardiovascular disease and hypertension seem to be linked with worse outcomes and increased risk of death in patients with COVID-19. COVID-19 itself can also induce myocarditis, acute myocardial infarction, stroke, cardiomyopathy, heart failure, arrhythmias, acute pericarditis, and venous thromboembolism.
+        --
+          'FangFang_et_al_2020
+          'Li_et_al_2020c
+          'Richardson_et_al_04_22_2020
+        #   'DelValle_et_al_05_30_2020.!g
+        #   'FangFang_et_al_2020.!a
+        #   'FangFang_et_al_2020.!b
+        #   'FangFang_et_al_2020.!c
+        #   'FangFang_et_al_2020.!d
+        #   'FangFang_et_al_2020.!e
+        #   'FangFang_et_al_2020.!f
+        #   'FangFang_et_al_2020.!g
 
         # --
         #   Hypertension
@@ -481,33 +501,34 @@ subject module Disease
         #     'FangFang_et_al_2020.!g
 
       / HIV
-      assert !HIV = Evidence on the risks of infection and severe disease in HIV infected individuals has been conflicted.
+      claim !HIV = Evidence on the risks of infection and severe disease in HIV infected individuals has been conflicted.
         # HIV-infected individuals should not be considered to be protected from SARS-CoV-2 infection or to have lower risk of severe disease.
-        += Some research has suggested that HIV infected individuals are at greater risk of infection.
-          \
-            > 'Xu_et_al_05_28_2020.!b
-            > 'Vizcarra_et_al_05_28_2020
-        += Some research has suggested that HIV infected individuals are at lower risk of infection.
-          \
-            > 'Xu_et_al_05_28_2020
+        claim !MoreRisk = Some research has suggested that HIV infected individuals are at greater risk of infection.
+          --
+            'Xu_et_al_05_28_2020.!b
+            'Vizcarra_et_al_05_28_2020
+        claim !LessRisk = Some research has suggested that HIV infected individuals are at lower risk of infection.
+          --
+            'Xu_et_al_05_28_2020
 
       / Cancer
-      assert !Cancer = Mortality from COVID-19 in cancer patients appears to be principally driven by age, gender, and comorbidities.
-        > 'Lee_et_al_05_28_2020
+      claim !Cancer = Mortality from COVID-19 in cancer patients appears to be principally driven by age, gender, and comorbidities.
+        --
+          'Lee_et_al_05_28_2020
 
       / Diabetes
-      assert !Diabetes = Diabetes has been associated with more severe outcomes and higher mortality in COVID-19 patients, though it has not been associated with greater susceptibility to infection.
-        += Diabetes has been associated with more severe outcomes and higher mortality in COVID-19 patients, particularly in newly diagnosed diabetics.
-          \
-            > 'Li_et_al_05_29_2020
+      claim !Diabetes = Diabetes has been associated with more severe outcomes and higher mortality in COVID-19 patients, though it has not been associated with greater susceptibility to infection.
+        claim !MoreSevere = Diabetes has been associated with more severe outcomes and higher mortality in COVID-19 patients, particularly in newly diagnosed diabetics.
+          --
+            'Li_et_al_05_29_2020
             # -- Diabetes are more likely to develop severe/ICU cases
-            > 'Li_et_al_2020c.!b
-            > 'Li_et_al_05_29_2020.!d
+            'Li_et_al_2020c.!b
+            'Li_et_al_05_29_2020.!d
           # 'Richardson_et_al_04_22_2020.!l
         # -- People with diabetes were not more susceptible to 2019-nCoV infection.
-        += Diabetes has not been associated with greater susceptibility to infection.
-          \
-            > 'Li_et_al_2020c.!a
+        claim !LessSusceptible = Diabetes has not been associated with greater susceptibility to infection.
+          --
+            'Li_et_al_2020c.!a
 
         # >>>
         #   TNF-a and IL-8 were significantly increased in patients diabetes
@@ -539,35 +560,39 @@ subject module Disease
         #   'FangFang_et_al_2020.!g
 
       / Obesity
-      assert !Obesity = Obesity appears to be a risk factor for hospital admission and need for critical care. Recent reports have associated disease severity with higher BMI categories.
-        > 'Simonnet_et_al_2020
-        > 'Lighter_et_al_2020
+      claim !Obesity = Obesity appears to be a risk factor for hospital admission and need for critical care. Recent reports have associated disease severity with higher BMI categories.
+        --
+          'Simonnet_et_al_2020
+          'Lighter_et_al_2020
 
       / Renal Disease
-      assert !RenalDisease = Patients with kidney disease appear to be at increased risk of severe COVID-19. Among them, those with a kidney transplant are at highest risk. Kidney disease is also associated with other comorbidities, including hypertension, diabetes mellitus, and cardiovascular disease, all of which are risk factors for poor outcomes in COVID-19.
+      claim !RenalDisease = Patients with kidney disease appear to be at increased risk of severe COVID-19. Among them, those with a kidney transplant are at highest risk. Kidney disease is also associated with other comorbidities, including hypertension, diabetes mellitus, and cardiovascular disease, all of which are risk factors for poor outcomes in COVID-19.
+        --
         # -- High risk for the development of lethal pulmonary infections.
-        > 'Sarnak_et_al_2001
+          'Sarnak_et_al_2001
         # -- TNF-a and IL-8 were significantly increased in patients with chronic kidney disease (CKD)
-        > 'DelValle_et_al_05_30_2020.!g
+          'DelValle_et_al_05_30_2020.!g
         # # -- Increased risk of death from COVID-19
-        # > 'DelValle_et_al_05_30_2020.!j
+        #   'DelValle_et_al_05_30_2020.!j
 
     / Blood Group
-    assert !BloodGroup = Blood type group A have a significantly higher risk for acquiring the COVID-19 compared with non-A blood groups, whereas blood group O has a significantly lower risk for the infection compared with non-O blood groups.
-      > 'Zhao_et_al_2020b
-      > 'Ellinghaus_et_al_06_17_2020
+    claim !BloodGroup = Blood type group A have a significantly higher risk for acquiring the COVID-19 compared with non-A blood groups, whereas blood group O has a significantly lower risk for the infection compared with non-O blood groups.
+      --
+        'Zhao_et_al_2020b
+        'Ellinghaus_et_al_06_17_2020
 
     / Ethnicity
-    assert !Ethnicity = Reports from the US have shown a greater proportion of deaths due to COVID-19 have occurred among African Americans relative to other ethnicities. Similar issues affect Native American and Latino communities.
+    claim !Ethnicity = Reports from the US have shown a greater proportion of deaths due to COVID-19 have occurred among African Americans relative to other ethnicities. Similar issues affect Native American and Latino communities.
+      --
       # -- Case Reports
-      > 'Williamson_et_al_05_07_2020
+        'Williamson_et_al_05_07_2020
       # --
-      > 'Rosenberg_et_al_05_29_2020.!c
-      > 'Rosenberg_et_al_05_29_2020.!f
+        'Rosenberg_et_al_05_29_2020.!c
+        'Rosenberg_et_al_05_29_2020.!f
       # -- Higher IL-1b and TNF-a
-      > 'DelValle_et_al_05_30_2020.!f
-      > 'Van-Dorn_et_al_04_18_2020.!a
-      > 'Gaffney_et_al_08_21_2020
+        'DelValle_et_al_05_30_2020.!f
+        'Van-Dorn_et_al_04_18_2020.!a
+        'Gaffney_et_al_08_21_2020
 
   / Locale Specific Characteristics
   subject Locale
@@ -611,9 +636,9 @@ subject module Disease
     >>>
       Note that {*IFR Infection Fatality Rate} (also Case Fatality Rate) refers to the proportion of infections which result in death. The {*MortalityRate} by contrast refers to the overall rate at which people have died from COVID-19 within a given time period, irrespective of the number of infections. Another frequently referenced measure is {*ExcessMortality}, which describes the estimated difference in overall mortality from all causes during a given interval.
 
-    assert !China = *IFR in China has been estimated at ...
-    assert !Italy = *IFR in Italy has been estimated at ...
-    assert !USA = *IFR in the United States has been estimated at ...
+    claim !China = *IFR in China has been estimated at ...
+    claim !Italy = *IFR in Italy has been estimated at ...
+    claim !USA = *IFR in the United States has been estimated at ...
 
     --
       !China
