@@ -1587,7 +1587,7 @@ feed April2020
   // Serological tests facilitate identification of asymptomatic SARS-CoV-2 infection in Wuhan, China
   doi: https://doi.org/10.1002/jmv.25904
   ref 'Wu_et_al_04_20_2020
-    head = We observed a ~10% SARS-CoV-2-specific IgG positive rate from 1,402 tests.Combination of SARS-CoV-2 NAT and a specific serological test might facilitate the detection of COVID-19 infection, or the asymptomatic SARS-CoV-2-infected subjects.
+    head = Here, we reported the positive rate of COVID-19 tests based on NAT, chest CT scan and a serological SARS-CoV-2 test, from April 3 to 15 in one hospital in Qingshan Destrict, Wuhan.  We observed a ~10% SARS-CoV-2-specific IgG positive rate from 1,402 tests. Large-scale investigation is required to evaluate the herd immunity of the city, for the resuming people and for the re-opened city.
 
     >>> Abstract
       The Wuhan City has ended the lockdown and people have been allowed to resume working since April 8 if meeting a set of COVID-19-associated tests including SARS-CoV-2 nucleic acid test (NAT) of nasopharyngeal swabs, chest CT scan or a SARS-CoV-2-specific serological test.  Here, we reported the positive rate of COVID-19 tests based on NAT, chest CT scan and a serological SARS-CoV-2 test, from April 3 to 15 in one hospital in Qingshan Destrict, Wuhan.  We observed a ~10% SARS-CoV-2-specific IgG positive rate from 1,402 tests. Combination of SARS-CoV-2 NAT and a specific serological test might facilitate the detection of COVID-19 infection, or the asymptomatic SARS-CoV-2-infected subjects.  Large-scale investigation is required to evaluate the herd immunity of the city, for the resuming people and for the re-opened city.

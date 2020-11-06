@@ -23,6 +23,17 @@
 # >>> Full Revision History
 #   Find the complete revision history in the COVID-19 portal's {Revisions revision feed}.
 
+claim !Foo = alksdfj
+  claim !Bar = sdkljasdf
+  claim !Baz = alsdfjasdlfkj
+    -- Support
+      'Weissleder_et_al_06_03_2020
+      'Zhang_et_al_2020g
+      'Wu_et_al_04_20_2020
+      'Jiang_et_al_2020
+--
+  !Foo
+
 -- Concepts
   foundations
 
