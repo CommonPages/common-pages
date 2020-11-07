@@ -716,7 +716,7 @@ subject module Disease
         'Callow_et_al_1990
 
       >>>
-        There have also been reports Waning of neutralizing antibodies.
+        There has been several reports Waning of neutralizing antibodies with SARS-CoV2 patient.
       --
         'Liu_et_al_06_16_2020
         'Robbiani_et_al_06_18_2020.!c
@@ -724,7 +724,7 @@ subject module Disease
         'Seow_et_al_10_26_2020
         'Seow_et_al_10_26_2020.!a
       >>>
-        This suggest that Asymtomatic may have weaker immune response
+        This paper reports waning antibodies and suggest that Asymtomatic may have weaker immune response
       --
         'Xin-Long_et_al_06_18_2020
       -- Mild Cases with loss of IgG
@@ -854,7 +854,7 @@ subject module Disease
         - B Cell - Antibody Response
 
       >>>
-        B Cell response Duration can lost long term.
+        B Cell response Duration can last long term.
       --
         'Gaebler_et_al_11_05_2020
 
@@ -867,6 +867,9 @@ subject module Disease
         >>>
           Studies have reported that infected individuals can, after recovery, induce strong protective responses by generating a memory T-cell pool against SARS-CoV-2
 
+        -- T-Cell Response is diverse upon active infection
+          'Nelde_et_al_06_16_2020
+
         >>>
           Uncoordinated or partially neutralising antibodies, and responses from CD4+ and CD8+ T cells, might be associated with COVID-19 severity, with age being a risk factor.
 
@@ -874,9 +877,7 @@ subject module Disease
           'Moderbacher_et_al_09_11_2020
           'Moderbacher_et_al_09_11_2020.!a
 
-        -- T-Cell Response is diverse upon active infection
-          'Nelde_et_al_06_16_2020
-
+        # Duration of T Cell
         >>>
           6 months robust T Cell Response
         --
