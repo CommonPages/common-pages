@@ -244,7 +244,7 @@ feed Sangeeta
     quote !a = Different SARS-CoV-2 variants were identified in each infection event. For the first infection, the genome was assigned to the B1.p9 GISAID clade while the variant associated with the second episode was assigned to the A.1.1 GISAID clade.
 
     / September, 2020 - SSRN
-    quote !b = The antibody test performed during the first infection event showed the presence of specific anti-SARS-CoV-2 IgM, and no IgG was detected. TThe second event showed high anti-SARS CoV-2 IgM and IgG.
+    quote !b = The antibody test performed during the first infection event showed the presence of specific anti-SARS-CoV-2 IgM, and no IgG was detected. The second event showed high anti-SARS CoV-2 IgM and IgG.
 
 
 
@@ -587,7 +587,7 @@ feed Sangeeta
     # quote !a = Conserved epitopes may exist between SARS-CoV-2 and SARS-CoV since they share 77.2% identical amino acids in their spike proteins. Even though plasma from COVID-19 patients showed cross-binding to SARS-Cov, they did not neutralize SARS-CoV, indicating that the antigenicity of SARS-CoV-2 is different from that of SARS-CoV. Evidence deduced from this study only suggested that cross-neutralizing antibodies targeted the conserved epitopes of SARS-CoV and SARS-CoV-2 may not be easily elicited during the infection of COVID-19, making this a potential line of advanced study.
 
     / April, 2020 - medRxiv
-    quote !c = The levels of NAbs in patients were variable. About 30% of patients failed to develop high titers of NAbs after COVID-19 infection. However, the disease duration of these patients compared to others was similar. Notably, there were ten recovered patients whose NAb titers were very low, under the detectable level of this study (ID50: <40).
+    quote !c = The levels of Neutralizing Antibodies in patients were variable. About 30% of patients failed to develop high titers of NAbs after COVID-19 infection. However, the disease duration of these patients compared to others was similar. Notably, there were ten recovered patients whose NAb titers were very low, under the detectable level of this study (ID50: <40).
 
     / April, 2020 - medRxiv
     quote !d = The highly variable levels of NAbs in the patients of COVID-19 indicated that convalescent plasma and serum from recovered donors should be titrated before use in passive antibody therapy.

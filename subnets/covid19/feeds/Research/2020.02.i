@@ -372,6 +372,7 @@ feed February2020
   doi: https://doi.org/10.1001/jama.2020.2783
   ref 'Lan_et_al_2020
     head = Four patients with COVID-19 who met criteria for hospital discharge or discontinuation of quarantine in China (absence of clinical symptoms and radiological abnormalities and 2 negative RT-PCR test results) had positive RT-PCR test results 5 to 13 days later. These findings suggest that at least a proportion of recovered patients still may be virus carriers.
+    
 
     # / February, 2020 - JAMA Network
     # quote !a = All 4 patients were exposed to the novel 2019 coronavirus through work as medical professionals. Two were male and the age range was 30 to 36 years. Among 3 of the patients, fever, cough, or both occurred at onset. One patient was initially asymptomatic and underwent thin-section CT due to exposure to infected patients. All patients had positive RT-PCR test results and CT imaging showed ground-glass opacification or mixed ground-glass opacification and consolidation. The severity of disease was mild to moderate.

@@ -591,9 +591,6 @@ subject module Mitigation
 
 
 
-
-
-
     / Disinfection
     subject Disinfection
       head = UVC is effective at deactivating coronaviruses closely related to SARS-CoV-2. FAR UVC has shown to inactivate microorganisms, but does not produce biological damage to exposed mammalian cells and tissues
