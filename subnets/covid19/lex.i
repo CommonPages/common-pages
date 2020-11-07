@@ -22,6 +22,7 @@ import feeds.News
 import feeds.Revisions
 
 import Research._
+import Research.November2020._
 import Research.October2020._
 import Research.September2020._
 import Research.August2020._

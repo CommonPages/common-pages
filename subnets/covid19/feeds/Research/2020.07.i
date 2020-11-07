@@ -15,6 +15,26 @@ feed July2020
     'Mulligan_et_al_07_06_2020
     'Morris_et_al_07_02_2020
 
+  #
+
+  
+
+  # Antibody Response
+  // Distinct Early Serological Signatures Track with SARS-CoV-2 Survival
+  doi: https://doi.org/10.1016/j.immuni.2020.07.020
+  ref 'Atyeo_et_al_07_30_2020
+    head = Limited early differences were observed in titers and neutralization across groups. Five antibody features could collectively differentiate convalescents and deceased. A shift in the balance of spike versus nucleocapsid immunity separated the groups. Spike-specific phagocytic and complement fixing activity was enriched in convalescents
+
+    >>> Abstract
+      As SARS-CoV-2 infections and death counts continue to rise, it remains unclear why some individuals recover from infection, whereas others rapidly progress and die. Although the immunological mechanisms that underlie different clinical trajectories remain poorly defined, pathogen-specific antibodies often point to immunological mechanisms of protection. Here, we profiled SARS-CoV-2-specific humoral responses in a cohort of 22 hospitalized individuals. Despite inter-individual heterogeneity, distinct antibody signatures resolved individuals with different outcomes. Although no differences in SARS-CoV-2-specific IgG levels were observed, spike-specific humoral responses were enriched among convalescent individuals, whereas functional antibody responses to the nucleocapsid were elevated in deceased individuals. Furthermore, this enriched immunodominant spike-specific antibody profile in convalescents was confirmed in a larger validation cohort. These results demonstrate that early antigen-specific and qualitative features of SARS-CoV-2-specific antibodies point to differences in disease trajectory, highlighting the potential importance of functional antigen-specific humoral immunity to guide patient care and vaccine development.
+
+    -- quotes
+      !a
+
+    / July, 2020 - Cell
+    quote !a =
+
+
   # Genetic Diversity
   // Tracking Changes in SARS-CoV-2 Spike: Evidence that D614G Increases Infectivity of the COVID-19 Virus
   doi: https://dx.doi.org/10.1016%2Fj.cell.2020.06.043
@@ -140,7 +160,7 @@ feed July2020
     / July, 2020 - PrePrints
     quote !a = We recommend the adoption of public cloth mask wearing, as an effective form of source control, in conjunction with existing hygiene, distancing, and contact tracing strategies.
 
-    
+
 
   # Surface and Aersol Viability
   // Investigating SARS-CoV-2 surface and air contamination in an acute healthcare setting during the peak of the COVID-19 pandemic in London

@@ -115,6 +115,29 @@ feed May2020
 
   #
 
+  // Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study
+  doi: https://doi.org/10.1016/S1473-3099(20)30196-1
+  ref 'To_et_al_05_20_2020
+    head = Posterior oropharyngeal saliva samples are a non-invasive specimen more acceptable to patients and health-care workers. Unlike severe acute respiratory syndrome, patients with COVID-19 had the highest viral load near presentation, which could account for the fast-spreading nature of this epidemic. Serological assay can complement RT-qPCR for diagnosis.
+
+    >>> Background
+      Coronavirus disease 2019 (COVID-19) causes severe community and nosocomial outbreaks. Comprehensive data for serial respiratory viral load and serum antibody responses from patients infected with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) are not yet available. Nasopharyngeal and throat swabs are usually obtained for serial viral load monitoring of respiratory infections but gathering these specimens can cause discomfort for patients and put health-care workers at risk. We aimed to ascertain the serial respiratory viral load of SARS-CoV-2 in posterior oropharyngeal (deep throat) saliva samples from patients with COVID-19, and serum antibody responses.
+
+    >>> Methods
+      We did a cohort study at two hospitals in Hong Kong. We included patients with laboratory-confirmed COVID-19. We obtained samples of blood, urine, posterior oropharyngeal saliva, and rectal swabs. Serial viral load was ascertained by reverse transcriptase quantitative PCR (RT-qPCR). Antibody levels against the SARS-CoV-2 internal nucleoprotein (NP) and surface spike protein receptor binding domain (RBD) were measured using EIA. Whole-genome sequencing was done to identify possible mutations arising during infection.
+
+    >>> Findings
+      Between Jan 22, 2020, and Feb 12, 2020, 30 patients were screened for inclusion, of whom 23 were included (median age 62 years [range 37-75]). The median viral load in posterior oropharyngeal saliva or other respiratory specimens at presentation was 5·2 log10 copies per mL (IQR 4·1-7·0). Salivary viral load was highest during the first week after symptom onset and subsequently declined with time (slope -0·15, 95% CI -0·19 to -0·11; R2=0·71). In one patient, viral RNA was detected 25 days after symptom onset. Older age was correlated with higher viral load (Spearman's ρ=0·48, 95% CI 0·074-0·75; p=0·020). For 16 patients with serum samples available 14 days or longer after symptom onset, rates of seropositivity were 94% for anti-NP IgG (n=15), 88% for anti-NP IgM (n=14), 100% for anti-RBD IgG (n=16), and 94% for anti-RBD IgM (n=15). Anti-SARS-CoV-2-NP or anti-SARS-CoV-2-RBD IgG levels correlated with virus neutralisation titre (R2>0·9). No genome mutations were detected on serial samples.
+
+    >>> Interpretation
+      Posterior oropharyngeal saliva samples are a non-invasive specimen more acceptable to patients and health-care workers. Unlike severe acute respiratory syndrome, patients with COVID-19 had the highest viral load near presentation, which could account for the fast-spreading nature of this epidemic. This finding emphasises the importance of stringent infection control and early use of potent antiviral agents, alone or in combination, for high-risk individuals. Serological assay can complement RT-qPCR for diagnosis.
+
+    -- quotes
+      !a
+
+    / May, 2020 - Lancet Infect Dis.
+    quote !a =  For 16 patients with serum samples available 14 days or longer after symptom onset, rates of seropositivity were 94% for anti-NP IgG, 88% for anti-NP IgM, 100% for anti-RBD IgG, and 94% for anti-RBD IgM. Anti-SARS-CoV-2-NP or anti-SARS-CoV-2-RBD IgG levels correlated with virus neutralisation titre.
+
   # VitaminD
   // The Possible Role of Vitamin D in Suppressing Cytokine Storm and Associated Mortality in COVID-19 Patients
   doi: https://doi.org/10.1101/2020.04.08.20058578
@@ -166,7 +189,7 @@ feed May2020
     >>> Abstract
       The main form of COVID-19 transmission is via "oral-respiratory droplet contamination" (droplet: very small drop of liquid) produced when individuals talk, sneeze, or cough. In hospitals, health-care workers wear facemasks as a minimum medical "droplet precaution" to protect themselves. Due to the shortage of masks during the pandemic, priority is given to hospitals for their distribution. As a result, the availability/use of medical masks is discouraged for the public. However, for asymptomatic individuals, not wearing masks in public could easily cause the spread of COVID-19. The prevention of "environmental droplet contamination" (EnvDC) from coughing/sneezing/speech is fundamental to reducing transmission. As an immediate solution to promote "public droplet safety," we assessed household textiles to quantify their potential as effective environmental droplet barriers (EDBs). The synchronized implementation of a universal "community droplet reduction solution" is discussed as a model against COVID-19. Using a bacterial-suspension spray simulation model of droplet ejection (mimicking a sneeze), we quantified the extent by which widely available clothing fabrics reduce the dispersion of droplets onto surfaces within 1.8 m, the minimum distance recommended for COVID-19 "social distancing." All textiles reduced the number of droplets reaching surfaces, restricting their dispersion to <30 cm, when used as single layers. When used as double-layers, textiles were as effective as medical mask/surgical-cloth materials, reducing droplet dispersion to <10 cm, and the area of circumferential contamination to ~0.3%. The synchronized implementation of EDBs as a "community droplet reduction solution" (i.e., face covers/scarfs/masks and surface covers) will reduce COVID-19 EnvDC and thus the risk of transmitting/acquiring COVID-19.
     -- quotes
-      !a  
+      !a
 
     / Efficacy of homemade facemasks
     quote !a = We assessed household textiles to quantify their potential as effective environmental droplet barriers. All textiles reduced the number of droplets reaching surfaces, when used as single layers. When used as double-layers, textiles were as effective as medical mask/surgical-cloth materials.
@@ -3381,8 +3404,8 @@ feed May2020
     -- quotes
       !a
 
-    / May, 2020 - Annals of the New York Academy of Sciences
-    quote !a = We observed a differential pattern of SARS-CoV-2 specific T cell immunodominance in individuals with no history of SARS, COVID-19 or contact with SARS/COVID-19 patients (n=18). Half of them (9/18) possess T cells targeting the ORF-1 coded proteins NSP7 and 13, which were rarely detected in COVID-19- and SARS-recovered patients. Epitope characterization of NSP7-specific T cells showed recognition of protein fragments with low homology to “common cold” human coronaviruses but conserved among animal betacoranaviruses.
+    / May, 2020 - bioRxiv
+    quote !a = Infection with betacoronaviruses induces strong and long-lasting T cell immunity to the structural protein NP.
 
 
 

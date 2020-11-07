@@ -148,6 +148,10 @@ subject module Disease
           'Petrova_et_al_02_20_2012
         -- T-Cell Response on patients
           'Nelde_et_al_06_16_2020
+        >>>
+          Female with more robust T-Cell Response than male
+        --
+          'Takahashi_et_al_06_09_2020
 
       / B Cells Cellular Response
       subject BCell
@@ -673,72 +677,111 @@ subject module Disease
       'Yan_et_al_05_14_2020
       'Grewelle_et_al_05_18_2020
 
-  # have to link this section to vaccine development
+
   / Immunity
   subject module Immunity
-    head = Numerous studies have shown that recovered patients have protective immunity that prevents them from being reinfected. The duration of immunity still remains unclear.
+    head = Recovered patients have protective antibodies and can provide protection. The duration of immunity still remains unclear.
 
     / Antibodies
     subject Antibodies
       head = Protective antibodies have been found in patients who have recovered from SARS-CoV-2 infections. IgM antibodies are generally detectable several days after initial infection. IgG antibodies generally become detectable 10–14 days after infection. The duration of antibodies is unclear.
 
+      ### Section 1 - Duration, Detection and Waning of Antibody Response
       >>>
-        Antibodies appear to vary widely in their efficacy. Some people have poor response, some average. And then there is a fraction of people that are exceptional responders.
+        The detection of antibodies to SARS-CoV-2 does not indicate directly protective immunity and correlates of protection for COVID-19 have not yet been established.
 
-      -- SARS-CoV2 Antibodies
-        'Zhang_et_al_2020g.!a
-        'Amanat_et_al_2020
-        'Wu_et_al_2020b
-        'Jiang_et_al_2020
-      -- Immune response differ in gender
-        'Jiang_et_al_2020.!e
-      # T-Cell and Cross Reactivity papers here (Prior Immunity)
-      --
-        'Nelde_et_al_06_16_2020
-        'Petrova_et_al_02_20_2012
-      >>>
-        Waning of antibodies is well described in recent cases- and can have implications on both the susceptibility to re-infection and the severity of infection.
-      -- Reports- Waning of antibodies
-        'WangTo_et_al_08_25_2020.!f
-        'Robbiani_et_al_06_18_2020.!c
-        'Xin-Long_et_al_06_18_2020
-        # vaccine dev frontiers
-      -- RBD-specific antibodies with potent antiviral activity
-        'Robbiani_et_al_06_18_2020
-      >>>
         IgM antibodies to SARS-CoV-2 are generally detectable several days after initial infection, although levels over the course of infection are not well characterized. IgG antibodies generally become detectable 10–14 days after infection, sometimes earlier, and normally peak around 28 days after infection onset.
-      -- SARS CoV-2 IgM and IgG
-        'Zhang_et_al_2020g
+      -- Detection of IgM and IgG antibodies
         'Zhao_et_al_2020
         'Zhao_et_al_2020.!a
         'Zhao_et_al_2020.!b
         'Zhao_et_al_2020.!c
+        'Zhang_et_al_2020g.!a
 
-        # vaccine dev frontiers
-      -- IgG is not long lasting
-        'Liu_et_al_06_16_2020
-        'Robbiani_et_al_06_18_2020
-        'Xin-Long_et_al_06_18_2020
-        'Wu_et_al_04_20_2020b.!c
-      -- Patients with milder disease had lower antibody titers than those with more severe disease.
-        'WangTo_et_al_08_25_2020.!e
-        'Prado-Vivar_et_al_09_08_2020.!b
-      -- SARS-CoV-2 specific IgM and IgG were observed during the second episode of infection.
-        'Tillett_et_al_10_12_2020.!d
-        'WangTo_et_al_08_25_2020.!e
-        'Prado-Vivar_et_al_09_08_2020.!b
       >>>
-        Studies of antibodies on other coronaviruses.
+        The longevity of the antibody response is still unknown, but it is known that antibodies to other coronaviruses wane over time
+      >>>
+        MERS lasted for 18 months
       -- MERS
         'Alshukairi_et_al_2016
+      >>>
+        SARS it was detected for 2-3 years
       -- SARS
         'Wu_et_al_2007
         'Wu_et_al_2007.!a
         'Liu_et_al_2019
-      -- Other coronaviruses
+      >>>
+        Other coronavirus lasted for 1 year
+      -- Coronavirus 229E
         'Callow_et_al_1990
 
-      # In some cases, viral RNA has been detected by RT-PCR even beyond week 6 following the first positive test. A few cases have also been reported positive after 2 consecutive negative PCR tests performed 24 hours apart. It is unclear if this is a testing error, reinfection, or reactivation.
+      >>>
+        There have also been reports Waning of neutralizing antibodies.
+      --
+        'Liu_et_al_06_16_2020
+        'Robbiani_et_al_06_18_2020.!c
+        'Wu_et_al_04_20_2020b.!c
+        'Seow_et_al_10_26_2020
+        'Seow_et_al_10_26_2020.!a
+      >>>
+        This suggest that Asymtomatic may have weaker immune response
+      --
+        'Xin-Long_et_al_06_18_2020
+      -- Mild Cases with loss of IgG
+        'Ibarrondo_et_al_09_10_2020
+      >>>
+        Despite waning, in this study some individual did maintain stable IgG.
+      --
+        'Chen_et_al_11_03_2020
+
+      # Section 2 - Different antibody Responses
+      >>>
+        Patients had IgG/ IgM antibody responses to SARS-CoV-2, especially to protein N, S1 but not S2.
+      --
+        'Jiang_et_al_2020
+      >>>
+        In an observational case study of 16 SARS-CoV-2 patients, anti-S-RBD IgG was detected in all of the subjects, whereas anti-N IgG and anti-S-RBD IgM were detected in 15 patients and anti-N IgM in 14 patients.
+      --
+        'To_et_al_05_20_2020.!a
+
+      >>>
+        Receptor Binding Domain specific antibodies detected on patients have potent antiviral activity
+      --
+        'Robbiani_et_al_06_18_2020
+        'Wu_et_al_2020b
+
+      >>>
+        In this study antibody responses against SARS-CoV-2’s spike protein were stronger among COVID-19 survivors, whereas antibody responses targeting the virus’s nucleocapsid protein were elevated in patients who died.
+
+      --
+        'Atyeo_et_al_07_30_2020
+
+      ####### Variation of antibodies based on age gender Asymtomatic , severity
+      >>>
+        Antibodies appear to vary widely in their efficacy. Some people have poor response, some average. And then there is a fraction of people that are exceptional responders. Antibody Response differs among patients based on sex as well as the severity of infection.
+
+      >>>
+        In this study in severe group IgG level was significantly higher in males than females
+      --
+        'Kowitdamrong_et_al_10_09_2020
+      -- Antibody response differ based on Gender
+        'Jiang_et_al_2020.!e
+      >>>
+        Patients with milder disease had lower antibody titers than those with more severe disease.
+      --
+        'WangTo_et_al_08_25_2020.!e
+        'Prado-Vivar_et_al_09_08_2020.!b
+      >>>
+        Antibody response differ in child and adult. Less response in children
+      --
+        'Weisberg_et_al_11_05_2020
+
+      ### Antibody in a community - Large scale seroprevalence
+      >>>
+        Prevalence of antibody in USA (Till September)- Fewer than 10% of the US adult population formed antibodies against SARS-CoV-2, and fewer than 10% of those with antibodies were diagnosed
+
+      --
+        'Anand_et_al_02_20_2020
 
     / Reinfection
     subject Reinfection
@@ -750,15 +793,19 @@ subject module Disease
         'Galanti_et_al_05_03_2020
         'Edridge_et_al_09_14_2020
 
-      # Add latest papers
+      # Generic Paper raising concern on reinfection
       --
         'Iwasaki_et_al_10_12_2020
+      >>>
+        Reinfection didn't occur on animals
+      --
         'Bao_et_al_2020
         'Bao_et_al_2020.!a
         'Jiang_et_al_04_27_2020.!b
 
       >>>
         Case reports adds to rapidly growing evidence of COVID-19 reinfection, in which viral genomic sequences were used to confirm infections by distinct isolates of SARS-CoV-2. Some reinfections result in milder disease, whereas others are more severe. Further investigation is needed of pre-existing immune responses before second exposure, and viral inoculum load.
+
       -- Reports of mild symptoms with reinfection with SARS-CoV-2
         'WangTo_et_al_08_25_2020
         'Elslande_et_al_09_05_2020
@@ -769,8 +816,9 @@ subject module Disease
         'Iwasaki_et_al_10_12_2020.!g
       -- Patients was infected by SARS-CoV-2 on two separate occasions by a genetically distinct virus.
         'WangTo_et_al_08_25_2020.!d
-        'Tillett_et_al_10_12_2020.!b
+        'Tillett_et_al_10_12_2020
         'Elslande_et_al_09_05_2020.!a
+        'Prado-Vivar_et_al_09_08_2020
         'Prado-Vivar_et_al_09_08_2020.!a
 
       >>>
@@ -778,17 +826,73 @@ subject module Disease
       --
         'Iwasaki_et_al_10_12_2020.!b
         'Iwasaki_et_al_10_12_2020.!c
-        'Tillett_et_al_10_12_2020
-        'Weissleder_et_al_06_03_2020.!m
-        'Prado-Vivar_et_al_09_08_2020
+
+      -- SARS-CoV-2 specific IgM and IgG were observed during the second episode of infection.
+        'Tillett_et_al_10_12_2020.!d
+        'WangTo_et_al_08_25_2020.!e
         'Prado-Vivar_et_al_09_08_2020.!b
 
     / Relapse
     subject Relapse
       head = Reports suggest that the tests which declared relapse were giving false negative reactions. Other findings hint that the diagnostic tests are picking up on the genetic material from noninfectious viruses, which means people are not infected nor they are infectious to others.
+
+      # This case was reported in media as relapse but it was testing error
       --
         'Yuan_et_al_2020
 
-      # Counter?
+      # This was also reported as relpase but it was just a case of prolonged disease or delayed viral clearance. We can use these papers for PCR Testing
       --
         'Lan_et_al_2020
+
+    / Adaptive Immune Response
+    subject AdaptiveImmuneResponse
+      head =
+
+      >>>
+        Adaptive Immune Response is a specific Response to the infection which starts After 6-8 days. There are two types :-
+        - T Cell - Celluar Response
+        - B Cell - Antibody Response
+
+      >>>
+        B Cell response Duration can lost long term.
+      --
+        'Gaebler_et_al_11_05_2020
+
+      --
+        TCellResponse
+
+      / T Cell Response
+      subject TCellResponse
+        head =
+        >>>
+          Studies have reported that infected individuals can, after recovery, induce strong protective responses by generating a memory T-cell pool against SARS-CoV-2
+
+        >>>
+          Uncoordinated or partially neutralising antibodies, and responses from CD4+ and CD8+ T cells, might be associated with COVID-19 severity, with age being a risk factor.
+
+        --
+          'Moderbacher_et_al_09_11_2020
+          'Moderbacher_et_al_09_11_2020.!a
+
+        -- T-Cell Response is diverse upon active infection
+          'Nelde_et_al_06_16_2020
+
+        >>>
+          6 months robust T Cell Response
+        --
+          'Zuo_et_al_11_02_2020
+
+        # Cross Reactive T Cell
+        >>>
+          Who recovered from SARS (the disease associated with SARS-CoV infection) possess long-lasting memory T cells that are reactive to the N protein of SARS-CoV 17 years after the outbreak of SARS in 2003; these T cells displayed robust cross-reactivity to the N protein of SARS-CoV-2.
+          Claim:? Infection with betacoronaviruses induces multi-specific and long-lasting T cell immunity against the structural N protein.
+
+        -- Long lasting T-Cell Immunity from SARS display robust Cross-Reactivity to SARS-CoV-2 NP
+          'Bert_et_al_05_27_2020
+          'Bert_et_al_05_27_2020.!a
+        -- Cross Reactive T-Cell via common cold coronavirus
+          'Grifoni_et_al_05_04_2020
+
+        # Counter? Cross Reactivity is common but it may not provide immunity or cross neutralizing antibody
+        --
+          'Lv_et_al_06_02_2020

@@ -5,6 +5,53 @@ feed September2020
 
   #
 
+  // Antigen-Specific Adaptive Immunity to SARS-CoV-2 in Acute COVID-19 and Associations with Age and Disease Severity
+  doi: https://doi.org/xyz
+  ref 'Moderbacher_et_al_09_11_2020
+    head = Adaptive immune responses limit COVID-19 disease severity. Multiple coordinated arms of adaptive immunity control better than partial responses. CXCL10 may be a biomarker of impaired T cell responses in acute COVID-19. Aging and scarcity of naive T cells may be linked risk factors for severe COVID-19
+
+    >>> Abstract
+      Limited knowledge is available on the relationship between antigen-specific immune responses and COVID-19 disease severity. We completed a combined examination of all three branches of adaptive immunity at the level of SARS-CoV-2-specific CD4+ and CD8+ T cell and neutralizing antibody responses in acute and convalescent subjects. SARS-CoV-2-specific CD4+ and CD8+ T cells were each associated with milder disease. Coordinated SARS-CoV-2-specific adaptive immune responses were associated with milder disease, suggesting roles for both CD4+ and CD8+ T cells in protective immunity in COVID-19. Notably, coordination of SARS-CoV-2 antigen-specific responses was disrupted in individuals ≥ 65 years old. Scarcity of naive T cells was also associated with aging and poor disease outcomes. A parsimonious explanation is that coordinated CD4+ T cell, CD8+ T cell, and antibody responses are protective, but uncoordinated responses frequently fail to control disease, with a connection between aging and impaired adaptive immune responses to SARS-CoV-2.
+
+    -- quotes
+      !a
+
+    / September, 2020 - Cell
+    quote !a = Coordinated CD4+ T cell, CD8+ T cell, and antibody responses are protective, but uncoordinated responses frequently fail to control disease, with a connection between aging and impaired adaptive immune responses to SARS-CoV-2.
+
+
+  // Prevalence of SARS-CoV-2 antibodies in a large nationwide sample of patients on dialysis in the USA: a cross-sectional study
+  doi: https://doi.org/10.1016/S0140-6736(20)32009-2
+  ref 'Anand_et_al_02_20_2020
+    head = During the first wave of the COVID-19 pandemic, fewer than 10% of the US adult population formed antibodies against SARS-CoV-2, and fewer than 10% of those with antibodies were diagnosed (July, 2020). Public health efforts to limit SARS-CoV-2 spread need to especially target racial and ethnic minority and densely populated communities.
+
+    >>> Background
+      Many patients receiving dialysis in the USA share the socioeconomic characteristics of underserved communities, and undergo routine monthly laboratory testing, facilitating a practical, unbiased, and repeatable assessment of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) seroprevalence.
+    >>> Methods
+      For this cross-sectional study, in partnership with a central laboratory that receives samples from approximately 1300 dialysis facilities across the USA, we tested the remainder plasma of 28 503 randomly selected adult patients receiving dialysis in July, 2020, using a spike protein receptor binding domain total antibody chemiluminescence assay (100% sensitivity, 99·8% specificity). We extracted data on age, sex, race and ethnicity, and residence and facility ZIP codes from the anonymised electronic health records, linking patient-level residence data with cumulative and daily cases and deaths per 100 000 population and with nasal swab test positivity rates. We standardised prevalence estimates according to the overall US dialysis and adult population, and present estimates for four prespecified strata (age, sex, region, and race and ethnicity).
+    >>> Findings
+      The sampled population had similar age, sex, and race and ethnicity distribution to the US dialysis population, with a higher proportion of older people, men, and people living in majority Black and Hispanic neighbourhoods than in the US adult population. Seroprevalence of SARS-CoV-2 was 8·0% (95% CI 7·7–8·4) in the sample, 8·3% (8·0–8·6) when standardised to the US dialysis population, and 9·3% (8·8–9·9) when standardised to the US adult population. When standardised to the US dialysis population, seroprevalence ranged from 3·5% (3·1–3·9) in the west to 27·2% (25·9–28·5) in the northeast. Comparing seroprevalent and case counts per 100 000 population, we found that 9·2% (8·7–9·8) of seropositive patients were diagnosed. When compared with other measures of SARS-CoV-2 spread, seroprevalence correlated best with deaths per 100 000 population (Spearman's ρ=0·77). Residents of non-Hispanic Black and Hispanic neighbourhoods experienced higher odds of seropositivity (odds ratio 3·9 [95% CI 3·4–4·6] and 2·3 [1·9–2·6], respectively) compared with residents of predominantly non-Hispanic white neighbourhoods. Residents of neighbourhoods in the highest population density quintile experienced increased odds of seropositivity (10·3 [8·7–12·2]) compared with residents of the lowest density quintile. County mobility restrictions that reduced workplace visits by at least 5% in early March, 2020, were associated with lower odds of seropositivity in July, 2020 (0·4 [0·3–0·5]) when compared with a reduction of less than 5%.
+
+    >>> Interpretation
+      During the first wave of the COVID-19 pandemic, fewer than 10% of the US adult population formed antibodies against SARS-CoV-2, and fewer than 10% of those with antibodies were diagnosed. Public health efforts to limit SARS-CoV-2 spread need to especially target racial and ethnic minority and densely populated communities.
+
+    -- quotes
+      !a
+
+    / February, 2020 - bioRxiv
+    quote !a =
+
+  // Rapid Decay of Anti–SARS-CoV-2 Antibodies in Persons with Mild Covid-19
+  doi: https://doi.org/10.1056/NEJMc2025179
+  ref 'Ibarrondo_et_al_09_10_2020
+    head = A total of 31 of the 34 participants had two serial measurements of IgG levels. We found antibody loss that was quicker than that reported for SARS-CoV-1. Humoral immunity against SARS-CoV-2 may not be long lasting in persons with mild illness.
+
+    -- quotes
+      !a
+
+    / September, 2020 - NEJM
+    quote !a =
+
   # Viral Load , Shedding
   // SARS-CoV-2 viral load peaks prior to symptom onset: a systematic review and individual-pooled analysis of coronavirus viral load from 66 studies
   doi: https://doi.org/10.1101/2020.09.28.20202028
