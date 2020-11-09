@@ -98,7 +98,7 @@ subject module Timeline
       !Europe
       !Singapore
     --
-      TranmissionLineage
+      TransmissionLineage
       GlobalEpidemiology
 
     / China
@@ -159,8 +159,8 @@ subject module Timeline
         'Gudbjartsson_et_al_2020.!a
         'Gudbjartsson_et_al_2020.!c
     —
-    / Tranmission Lineage
-    subject TranmissionLineage
+    / Transmission Lineage
+    subject TransmissionLineage
       # head = Phyloepidemiologic approaches have recovered specific directions of human-to-human transmissions and the potential sources for international infected cases.
       --
         'Bhattacharyya_et_al_2020
@@ -186,7 +186,7 @@ subject module Timeline
   —
   / Origin of SARS-CoV-2
   dispute Origin
-    head = The ultimate origin of SARS-CoV-2 is disputed. Researches have proposed multiple theories as to the original source of human transmission of the SARS-CoV2 virus. Theories range from direct or indirect animal tranmission (involving bats, pangolins or civets) to spillover from a nearby laboratory.
+    head = The ultimate origin of SARS-CoV-2 is disputed. Researches have proposed multiple theories as to the original source of human transmission of the SARS-CoV2 virus. Theories range from direct or indirect animal transmission (involving bats, pangolins or civets) to spillover from a nearby laboratory.
 
     / Genome Sequence
     subject GenomeSequence
@@ -282,7 +282,7 @@ subject module Timeline
     subject Phylogeny
       head = Phylogenetic analysis reveal that the virus type most closely related to the bat coronavirus was abundant in Guangdong. Findings show that SARS-CoV-2 has not had legitimate recombination and suggests the source of the haplotype in the Huanan Market was imported from elsewhere.
 
-      # Zhang_et_al_2020i can go in TranmissionLineage.. chan_et shows phylogeny of 5 patients of Wuhan (early) and its related to RaTG13
+      # Zhang_et_al_2020i can go in TransmissionLineage.. chan_et shows phylogeny of 5 patients of Wuhan (early) and its related to RaTG13
       --
         'Zhang_et_al_2020i
         'Chan_et_al_2020.!i
