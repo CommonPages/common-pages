@@ -1,13 +1,6 @@
 / The Disease
 subject module Disease
-  head = COVID-19 is the disease caused by the virus SARS-CoV-2, most commonly characterized by fever, among other symptoms. Disease severity and mortality rates vary significantly by population, with global infection fatality estimated between 0.3 to 1.4%. Recovered patients appear to obtain protective immunity, but the duration of immunity is unclear.
-
-  # Infection Timing
-  # Symptoms and Complications
-  # Susceptibility and Risk Factors
-  # Geographic Disparities
-  # Mortality
-  # Immunity
+  head = COVID-19 is the disease caused by the virus SARS-CoV-2, most commonly characterized by fever, among other symptoms. Recovered patients appear to obtain protective immunity, but the duration of immunity is unclear. Disease severity and mortality rates vary significantly by population, with global infection fatality estimated between 0.3 to 1.4%.
 
   --
     Timing
@@ -47,12 +40,12 @@ subject module Disease
     head = A minority of COVID-19 cases are asymptomatic, however asymptomatic and presymptomatic carriers may still be infectious. The most commonly reported symptom is fever, among others. In cases of severe disease, many serious and life threatening complications have been observed. The prevalence of complications is still being researched.
 
     --
-      !AsymptomaticCarriers
-      !SymptomaticPhase
-      !Complications
+      !AsymptomaticCases
+      !SymptomaticCases
+      !SevereCases
 
-    / Asymptomatic Carriers
-    claim !AsymptomaticCarriers = A minority of cases do not develop noticeable symptoms at any point in time. Asymtomatic and presymptomatic carriers can however experience high viral load, and can transmit the virus.
+    / Asymptomatic Cases
+    claim !AsymptomaticCases = A minority of cases do not develop noticeable symptoms at any point in time. Asymtomatic and presymptomatic carriers can however experience high viral load, and can transmit the virus.
       --
         'Tindale_et_al_2020
         'Nishiura_et_al_2020
@@ -64,8 +57,8 @@ subject module Disease
         'He_et_al_2020
       # 'Graham_et_al_05_16_2020.!b
 
-    / Symptoms
-    claim !SymptomaticPhase = Fever is the most common symptom of COVID-19. Other symptoms include cough, loss of appetite, fatigue, shortness of breath, sputum production, and myalgia. Additional symptoms such as loss of smell and taste, skin rash and neurological manifestations have also been reported.
+    / Symptomatic Cases
+    claim !SymptomaticCases = Fever is the most common symptom of COVID-19. Other symptoms include cough, loss of appetite, fatigue, shortness of breath, sputum production, and myalgia. Additional symptoms such as loss of smell and taste, skin rash and neurological manifestations have also been reported.
       --
         'Chen_et_al_2020d
         'Ragona_et_al_2020
@@ -77,8 +70,8 @@ subject module Disease
         'Siddiqi_et_al_2020
         'Berlin_et_al_2020
 
-    / Complications
-    claim !Complications = Severe cases of COVID-19 may develop complications including pneumonia, acute respiratory distress syndrome (ARDS), multi-organ failure, coagulopathy, cytokine storms, septic shock, neurologic manifestations, endothelitis, and others.
+    / Severe Cases
+    claim !SevereCases = Severe cases of COVID-19 may develop complications including pneumonia, acute respiratory distress syndrome (ARDS), multi-organ failure, coagulopathy, cytokine storms, septic shock, neurologic manifestations, endothelitis, and others.
       # A few recent studies report children developing paediatric multisystem inflammatory syndrome.
       --
         !Pneumonia
@@ -466,86 +459,7 @@ subject module Disease
         'Van-Dorn_et_al_04_18_2020.!a
         'Gaffney_et_al_08_21_2020
 
-  / Locale Specific Characteristics
-  subject Locale
-    head = Many differences in clinical characteristics have been observed across different locations. A number of studies have attempted to generalize these differences, to assist tailor the management of the outbreak to various municipal levels.
-
-    subject China
-      --
-        'Huang_et_al_2020
-        'Chen_et_al_2020c
-        'Wang_et_al_2020c
-
-    subject USA
-      --
-        'Arentz_et_al_2020
-        'Garg_et_al_2020
-        'Lighter_et_al_2020
-        'Kujawski_et_al_2020
-
-    subject NewYork
-      --
-        'Richardson_et_al_04_22_2020
-        'Wadhera_et_al_2020
-        # 'Wadhera_et_al_2020.!a
-        # 'Wadhera_et_al_2020.!b
-        # 'Wadhera_et_al_2020.!d
-
-    subject UnitedKingdom
-      --
-        'Docherty_et_al_2020
-
-  —
-  / Fatality
-  subject Fatality
-    head = Infection Fatality Rate (IFR) and Mortality rate vary significantly by geography and age group. Estimates of key figures vary among researchers, and across locales. Global IFR is estimated between 0.3 to 1.4%.
-
-    / Infection Fatality Rate
-    model *IFR
-    model *MortalityRate
-    model *ExcessMortality
-
-    >>>
-      Note that {*IFR Infection Fatality Rate} (also Case Fatality Rate) refers to the proportion of infections which result in death. The {*MortalityRate} by contrast refers to the overall rate at which people have died from COVID-19 within a given time period, irrespective of the number of infections. Another frequently referenced measure is {*ExcessMortality}, which describes the estimated difference in overall mortality from all causes during a given interval.
-
-    claim !China = *IFR in China has been estimated at ...
-    claim !Italy = *IFR in Italy has been estimated at ...
-    claim !USA = *IFR in the United States has been estimated at ...
-
-    --
-      !China
-      !Italy
-      !USA
-
-    -- IFR
-      'Wu_et_al_2020
-      'Porcheddu_et_al_2020
-      'Onder_et_al_2020
-      'Onder_et_al_2020.!a
-      'Remuzzi_et_al_2020
-      'Pan_et_al_2020.!a
-      'Lighter_et_al_2020
-      'Salje_et_al_04_20_2020.!b
-      'Basu_et_al_05_07_2020
-      'Russell_et_al_2020
-      'Kujawski_et_al_2020.!b
-    -- Mortality Rate
-      'Hauser_et_al_2020
-      'Berlin_et_al_2020.!e
-      'Arentz_et_al_2020.!h
-      'Graham_et_al_05_16_2020
-      'Banerjee_et_al_05_12_2020
-      'Lee_et_al_05_28_2020
-      'Richardson_et_al_04_22_2020.!d
-      'Richardson_et_al_04_22_2020.!g
-      'Richardson_et_al_04_22_2020.!n
-    -- Excess Mortality
-      'Modig_et_al_2020
-    -- Predicting Mortality and Infection Fatality Rate
-      'Yan_et_al_05_14_2020
-      'Grewelle_et_al_05_18_2020
-
-  / Immunity and Immunopathology
+  / Immunopathology and Immunity
   subject module Immunity
     head = Dysregulated immune responses appear to be a key feature of severe COVID-19. Many researchers have speculated, but not yet concluded, that individuals who have previously recovered from certain other coronavirus infections may be protected by prior immunity. Recovered COVID-19 patients do appear to acquire protective antibodies, but the duration of acquired immunity is unclear.
 
@@ -569,7 +483,7 @@ subject module Disease
 
       / Cytokines
       subject Cytokines
-        let *Cytokine_storms mean Course.!Complications.!CytokineStorms
+        let *Cytokine_storms mean Course.!SevereCases.!CytokineStorms
 
         head = Cytokines are a broad and loose category of pro-inflammatory molecules. A cytokine storm is a physiological reaction in which the innate immune system causes an uncontrolled and excessive release of cytokines. *Cytokine_storms are a frequent complication of severe COVID-19.
 
@@ -890,3 +804,83 @@ subject module Disease
       # 'Xu_et_al_2015
       # --
       # 'Niwa_et_al_10_15_2018
+
+  —
+  / Fatality
+  subject Fatality
+    head = Infection Fatality Rate (IFR) and Mortality rate vary significantly by geography and age group. Estimates of key figures vary among researchers, and across locales. Global IFR is estimated between 0.3 to 1.4%.
+
+    / Infection Fatality Rate
+    model *IFR
+    model *MortalityRate
+    model *ExcessMortality
+
+    >>>
+      Note that {*IFR Infection Fatality Rate} (also Case Fatality Rate) refers to the proportion of infections which result in death. The {*MortalityRate} by contrast refers to the overall rate at which people have died from COVID-19 within a given time period, irrespective of the number of infections. Another frequently referenced measure is {*ExcessMortality}, which describes the estimated difference in overall mortality from all causes during a given interval.
+
+    claim !China = *IFR in China has been estimated at ...
+    claim !Italy = *IFR in Italy has been estimated at ...
+    claim !USA = *IFR in the United States has been estimated at ...
+
+    --
+      !China
+      !Italy
+      !USA
+
+    -- IFR
+      'Wu_et_al_2020
+      'Porcheddu_et_al_2020
+      'Onder_et_al_2020
+      'Onder_et_al_2020.!a
+      'Remuzzi_et_al_2020
+      'Pan_et_al_2020.!a
+      'Lighter_et_al_2020
+      'Salje_et_al_04_20_2020.!b
+      'Basu_et_al_05_07_2020
+      'Russell_et_al_2020
+      'Kujawski_et_al_2020.!b
+    -- Mortality Rate
+      'Hauser_et_al_2020
+      'Berlin_et_al_2020.!e
+      'Arentz_et_al_2020.!h
+      'Graham_et_al_05_16_2020
+      'Banerjee_et_al_05_12_2020
+      'Lee_et_al_05_28_2020
+      'Richardson_et_al_04_22_2020.!d
+      'Richardson_et_al_04_22_2020.!g
+      'Richardson_et_al_04_22_2020.!n
+    -- Excess Mortality
+      'Modig_et_al_2020
+    -- Predicting Mortality and Infection Fatality Rate
+      'Yan_et_al_05_14_2020
+      'Grewelle_et_al_05_18_2020
+
+  —
+  / Locale Specific Characteristics
+  subject Locale
+    head = Many differences in clinical characteristics have been observed across different locations. A number of studies have attempted to generalize these differences, to assist tailor the management of the outbreak to various municipal levels.
+
+    subject China
+      --
+        'Huang_et_al_2020
+        'Chen_et_al_2020c
+        'Wang_et_al_2020c
+
+    subject USA
+      --
+        'Arentz_et_al_2020
+        'Garg_et_al_2020
+        'Lighter_et_al_2020
+        'Kujawski_et_al_2020
+
+    subject NewYork
+      --
+        'Richardson_et_al_04_22_2020
+        'Wadhera_et_al_2020
+        # 'Wadhera_et_al_2020.!a
+        # 'Wadhera_et_al_2020.!b
+        # 'Wadhera_et_al_2020.!d
+
+    subject UnitedKingdom
+      --
+        'Docherty_et_al_2020
