@@ -3,7 +3,7 @@ index: hide
 . paths
   path Origin
   path Severity
-  path Masks
+  path Masking
   path Distancing
   path PublicSpaces
   path Treatment

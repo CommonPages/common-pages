@@ -2,9 +2,9 @@
 ^^
   paths.Origin
   paths.Severity
-  paths.Masks
+  paths.Masking
   paths.Distancing
-  # paths.PublicSpaces
+  paths.PublicSpaces
   paths.Treatment
   paths.Immunity
   paths.Vaccines
