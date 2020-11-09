@@ -78,7 +78,8 @@ subject module Timeline
       --
         'Ramadan_et_al_2019
 
-  / Timeline of SARS-CoV2 Epidemic
+  / Outbreak Timeline
+  // Timeline of the SARS-CoV-2 Outbreak
   subject module Epidemic
     head = In late 2019, a novel coronavirus strain now known as SARS-CoV2 first emerged in the Wuhan province of China. The virus subsequently spread to all provinces of China and to more than 150 other countries in Asia, Europe, North America, South America, Africa, and Oceania.
 
