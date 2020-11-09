@@ -1692,7 +1692,7 @@ feed April2020
   // Factors associated with prolonged viral RNA shedding in patients with COVID-19.
   doi: https://doi.org/10.1093/cid/ciaa351
   ref 'Xu_et_al_2020b
-    head = We found that the median duration from onset of symptoms to RNA clearance was 17 days.   Male sex, delayed admission to hospital after illness onset, and invasive mechanical ventilation were associated with prolonged SARS-CoV-2 RNA shedding.
+    head = We found that the median duration from onset of symptoms to RNA clearance was 17 days. Male sex, delayed admission to hospital after illness onset, and invasive mechanical ventilation were associated with prolonged SARS-CoV-2 RNA shedding.
 
     >>> Background
       An outbreak of coronavirus disease 2019 (COVID-19) is becoming a public health emergency. Data are limited on the duration and host factors related to viral shedding.
@@ -2667,7 +2667,7 @@ feed April2020
     quote !h = The observation that the viral load (as measured by genome equivalents inferred from cycle threshold data) in asymptomatic infections does not significantly differ from that of symptomatic infections (p values 0.6 and 0.2 for E and RdRp genes, respectively) further corroborates this hypothesis and the high frequency of asymptomatic infection detected across the surveys poses clear challenges for the control of COVID-19 in the absence of strict social distancing measures.
 
     / April, 2020 - MedRxiv
-    quote !i = At least 4.4% (95% CrI 3.6-5.3%) of the population of Vo’ was exposed to SARS-CoV-2
+    quote !i = At least 4.4% (95% CrI 3.6-5.3%) of the population of Vo’ was exposed to SARS-CoV-2.
 
 
 
@@ -3404,7 +3404,7 @@ feed April2020
     quote !a = In SARS, it took 7 to 10 days after onset until peak RNA concentrations (of up to 5x105 copies per swab) were reached. In the present study, peak concentrations were reached before day 5, and were more than 1000 times higher.
 
     / April, 2020 - Nature
-    quote !b = Critically, the majority of patients in the present study seemed to be already beyond their shedding peak in upper respiratory tract samples when first tested, while shedding of infectious virus in sputum continued through the first week of symptoms. Together, these findings suggest a more efficient transmission of SARS-CoV-2 than SARS-CoV through active pharyngeal viral shedding at a time when symptoms are still mild and typical of upper respiratory tract infection.  Pharyngeal virus shedding was very high during the frst week of symptoms (peak at 7.11 × 108 RNA copies per throat swab, day 4).
+    quote !b = Critically, the majority of patients in the present study seemed to be already beyond their shedding peak in upper respiratory tract samples when first tested, while shedding of infectious virus in sputum continued through the first week of symptoms. Together, these findings suggest a more efficient transmission of SARS-CoV-2 than SARS-CoV through active pharyngeal viral shedding at a time when symptoms are still mild and typical of upper respiratory tract infection.  Pharyngeal virus shedding was very high during the first week of symptoms (peak at 7.11 × 108 RNA copies per throat swab, day 4).
 
     / April, 2020 - Nature
     quote !c = Whereas proof of replication by histopathology is awaited, extended tissue tropism of SARS-CoV-2 with replication in the throat is strongly supported by our studies of sgRNA-transcribing cells in throat swab samples, particularly during the first 5 days of symptoms. Striking additional evidence for independent replication in the throat is provided by sequence findings in one patient who consistently showed a distinct virus in her throat as opposed to the lung.

@@ -570,7 +570,6 @@ subject module Mitigation
             'Feng_et_al_03_20_2020.!c
           -- Universal masking associated with a significantly lower rate of SARS-CoV-2 positivity among HCWs.
             'Wang_et_al_07_14_2020
-            'Wang_et_al_07_14_2020.!a
             'Brooks_et_al_07_14_2020
           >>>
             There is evidence that facemask use slows the growth rate of cases and deaths.
