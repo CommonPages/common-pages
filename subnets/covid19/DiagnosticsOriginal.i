@@ -497,7 +497,7 @@ subject module DiagnosticsOriginal
     --
       Seroprevalence
     --
-      Mitigation.Containment.Sewage
+      Containment.Measures.Sewage
 
     / Seroprevalence
     subject Seroprevalence

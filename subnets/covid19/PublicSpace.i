@@ -37,14 +37,13 @@ let *airflow mean Transmission.Settings.EnvironmentalConditions.AirCondition
 let *temperature-and-humidity mean Transmission.Settings.EnvironmentalConditions.HumidityTemperature
 let *ventilation mean Transmission.Settings.EnvironmentalConditions.Ventilation
 let *Seasonal-variations mean Transmission.Settings.EnvironmentalConditions.HeatwaveSeason
-let *disinfected mean Mitigation.InfectionPrevention.Disinfection
+let *disinfected mean Prevention.Disinfection
 let *indirectly mean Transmission.Modes.Indirect
-let *hand-washing mean Mitigation.InfectionPrevention.HandWashing
-let *social-distancing mean Mitigation.Containment.SocialDistancing
-let *social-distance mean Mitigation.Containment.SocialDistancing
-let *PPE mean Mitigation.InfectionPrevention.ProtectiveDevices
+let *hand-washing mean Prevention.HandWashing
+let *social-distancing mean Containment.Measures.SocialDistancing
+let *social-distance mean Containment.Measures.SocialDistancing
+let *PPE mean Prevention.ProtectiveDevices
 let *no-PPEs mean Transmission.Settings.OtherConditions.NoPPE
-
 
 subject module PublicSpace
   head = How does Covid-19 spread? And what do we need to be aware of when in public spaces?

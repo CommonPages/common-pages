@@ -19,10 +19,14 @@
   Timeline
   Virus
   Disease
+  Testing
   Transmission
-  Diagnostics
-  Mitigation
-  Remediation
+  Prevention
+  Treatment
+  Vaccines
+  Containment
+  Effects
+
 #
 # -- Narratives
 #   PublicSpace

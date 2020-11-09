@@ -10,8 +10,8 @@ let *antigen_test mean AntigenTest
 let *antigen_testing mean AntigenTest
 let *CT-Scan mean CT-Scan
 
-/ Diagnostics
-subject module Diagnostics
+/ Testing
+subject module Testing
   head = Effective testing protocols are now available to assess active infections, disease recovery and viral immunity. Tests which assess risk and predict disease severity are under active development. Several mechanisms have been identified to measure prevalance and immunity at the community level.
 
   --
