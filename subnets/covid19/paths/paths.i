@@ -7,4 +7,5 @@ index: hide
   path Distancing
   path PublicSpaces
   path Treatment
+  path Immunity
   path Vaccines

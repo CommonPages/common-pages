@@ -10,7 +10,7 @@ import foundations.Immunology._
 import foundations.Epidemiology._
 import foundations.Medicine._
 import foundations.CoV2._
-import foundations.triage._
+import foundations.Triage._
 
 # import claims.Diagnostics
 # import claims.Timeline
@@ -22,6 +22,7 @@ import feeds.News
 import feeds.Revisions
 
 import Research._
+import Research.Triage._
 import Research.November2020._
 import Research.October2020._
 import Research.September2020._

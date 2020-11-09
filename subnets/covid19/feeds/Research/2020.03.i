@@ -2347,7 +2347,7 @@ feed March2020
 
 
   # Serology, antibodies
-  // Global profiling of SARS-CoV-2 specific IgG/ IgM responses of convalescents using a proteome microarray
+  // Global profiling of SARS-CoV-2 specific IgG/IgM responses of convalescents using a proteome microarray
   doi: https://doi.org/10.1101/2020.03.20.20039495
   ref 'Jiang_et_al_2020
     head = To enable the global understanding of SARS-CoV-2 specific IgG/ IgM responses, a SARS-CoV-2 proteome microarray with 18 out of the 28 predicted proteins was constructed. The results suggest that at the convalescent phase 100% of patients had IgG/ IgM responses to SARS-CoV-2, especially to protein N, S1 but not S2. Significant antibody responses were identified for ORF9b and NSP5. Level of S1 IgG positively correlate to age and the level of LDH (lactate dehydrogenase), especially for women, while the level of S1 IgG negatively correlate to Ly% (Lymphocyte percentage).

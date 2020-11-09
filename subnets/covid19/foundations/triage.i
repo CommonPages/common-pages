@@ -1,6 +1,6 @@
 
 index: hide
-. triage
+. Triage
 
   # model SocialNetworks
   #

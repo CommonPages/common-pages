@@ -12,10 +12,10 @@ subject module Disease
   --
     Timing
     Course
-    Risk
-    Locale
-    Fatality
+    Severity
     Immunity
+    Fatality
+    Locale
 
   / Timing of Infection, Symptoms and Recovery
   subject Timing
@@ -77,138 +77,6 @@ subject module Disease
         'Siddiqi_et_al_2020
         'Berlin_et_al_2020
 
-    —
-    / Immune Reponse
-    subject module ImmuneResponse
-      # head = Clinical Laboratory findings suggest an underline immunopathology. Additionally people with COVID-19 and ARDS have classic serum biomarkers of Cytokine release syndrome.
-
-      # Source WHO https://www.who.int/docs/default-source/coronaviruse/risk-comms-updates/update-34-immunity-2nd.pdf?sfvrsn=8a488cb6_2
-
-      >>> Innate Immune Reponse
-        Secrete Interferons and other chemicals (Cytokine). Interferons interfere with virus Replication
-
-      --
-        InnateImmuneResponse
-
-      >>> Adaptive Immune Response
-        Specific Response to the infection which starts After 6-8 days. There are two types :-
-        - T Cell - Celluar Response
-        - B Cell - Antibody Response
-
-      --
-        TCell
-        BCell
-
-      >>>
-        Female patients mounted significantly more robust T cell activation than male patients during SARS-CoV-2 infection, which was sustained in old age.
-      --
-        'Takahashi_et_al_06_09_2020
-      >>>
-        Asymptomatic individuals had a weaker immune response to SARS-CoV-2 infection.
-      --
-        'Xin-Long_et_al_06_18_2020
-      >>>
-        Cytokine is more common in SARS-CoV-2 than influenza
-      --
-        'Mudd_et_al_05_15_2020
-      >>>
-        Nsp1 interfere with antiviral defense
-      --
-        'Thoms_et_al_05_18_2020
-
-      >>>
-        As of now, Clinical laboratory findings of elevated IL-2, IL-7, IL-6, granulocyte-macrophage colony-stimulating factor (GM-CSF), interferon-γ inducible protein 10 (IP-10), monocyte chemoattractant protein 1 (MCP-1), macrophage inflammatory protein 1-α (MIP-1α), and tumour necrosis factor-α (TNF-α) indicative of cytokine release syndrome (CRS) suggest an underlying immunopathology.  Additionally, people with COVID‑19 and acute respiratory distress syndrome (ARDS) have classical serum biomarkers of CRS, including elevated C-reactive protein (CRP), lactate dehydrogenase (LDH), D-dimer, and ferritin.
-
-      --
-        Interferons
-        MonocytesMacrophages
-        AffinityMaturation
-        FrontiersImmune
-
-      / T Cells Antibody Response
-      subject TCell
-        head = T Cell Recognize cells that are infected with a specific virus and rapidly increase in number to tackle the infection. CD8+ cytotoxic T cells kill the cells in which the virus is multiplying. CD4+ helper T cells bring in other cells of the immune system
-
-        >>>  CD4+ & CD8+ T Cells
-          - CD8+ cytotoxic T cells kill the cells in which the virus is multiplying and help to slow down or stop the infection.
-          - CD4+ helper T cells bring in other cells of the immune system and stimulate B-Cells to produce antibodies specific to that virus.
-
-        --
-          'Chen_et_al_2020d
-          'Zheng_et_al_2020b
-          'Braun_et_al_04_22_2020
-          'Mathew_et_al_05_23_2020
-        -- Long lasting T-Cell Immunity
-          'Bert_et_al_05_27_2020
-        -- Cross Reactive T-Cell
-          'Grifoni_et_al_05_04_2020
-        -- T-Cell and Cross Reactivity (Prior Immunity)
-          'Lv_et_al_06_02_2020
-          'Nelde_et_al_06_16_2020
-          'Petrova_et_al_02_20_2012
-        -- T-Cell Response on patients
-          'Nelde_et_al_06_16_2020
-        >>>
-          Female with more robust T-Cell Response than male
-        --
-          'Takahashi_et_al_06_09_2020
-
-      / B Cells Cellular Response
-      subject BCell
-        head = Produce antibodies that are specific to that virus. IgM antibodies are produced first and disappear after a few weeks. IgG antibodies are produced at the same time or 2-3 days later, and titres (levels) usually remain for months or years.
-
-      / Interferons
-      subject Interferons
-        head = Role of Type I & type III Interferon for restricting SARS CoV-2 infection.
-        >>>
-          Role of {Interferons type I} type III Interferon
-        --
-          'Goldman-Israelow_et_al_05_27_2020
-          'Vanderheiden_et_al_05_20_2020
-          'Melo_et_al_05_15_2020
-          'Broggi_et_al_01_06_2020
-
-      / Innate Immune Response
-      subject InnateImmuneResponse
-        head = Dysregulation of the innate immune response contributes to the cytokine storm seen in severe SARS-CoV-2 infection.
-        -- Activation of Innate Immune Response
-          'Subbarao_et_al_05_19_2020.!a
-          'Subbarao_et_al_05_19_2020.!b
-          'Subbarao_et_al_05_19_2020.!c
-
-      / Monocytes and Macrophages
-      subject MonocytesMacrophages
-        head = Macrophages are a population of innate immune cells that sense and respond to microbial threats by producing inflammatory molecules that eliminate pathogens and promote tissue repair. A dysregulated macrophage response can be damaging to the host
-        -- Monocytes and Macrophages
-          'Merad_et_al_05_06_2020
-
-      / Affinity Maturation
-      subject AffinityMaturation
-        head = Affinity maturation is the process by which TFH cell-activated B cells produce antibodies with increased affinity for antigen during the course of an immune response.
-        --
-          'King_et_al_2020
-
-      / Frontiers
-      subject FrontiersImmune
-        head = Celluar Immune Response of SARS , Influenza suggest suggest similar pathophysiology.
-        -- Immune Response to SARS in Mice
-          'Chen_et_al_2009
-          'Chen_et_al_2009.!a
-          'Chen_et_al_2009.!b
-          'Chen_et_al_2009.!c
-          'Chen_et_al_2009.!d
-          'Zhao_et_al_2010
-        -- Innate Immune Response
-          'Qian_et_al_11_06_2012
-        -- Immune Reponse to Influenza
-          'Furman_et_al_2015
-        # Why some are Asymtomatic? Sero survey suggest people have cross reactive antibodies
-        -- Cross- Reactive Antibodies
-          'Chan_et_al_2013
-          'Xu_et_al_2015
-        --
-          'Niwa_et_al_10_15_2018
-
     / Complications
     claim !Complications = Severe cases of COVID-19 may develop complications including pneumonia, acute respiratory distress syndrome (ARDS), multi-organ failure, coagulopathy, cytokine storms, septic shock, neurologic manifestations, endothelitis, and others.
       # A few recent studies report children developing paediatric multisystem inflammatory syndrome.
@@ -266,8 +134,8 @@ subject module Disease
         --
           'Meinhardt_et_al_06_04_2020
 
-  / Susceptibility and Risk Factors
-  subject Risk
+  / Susceptibility and Severity
+  subject Severity
     head = Disease prevalence and case severity are disproportionate across many populations. People over 60 are at higher risk of severe disease, as well as men, smokers and those with underlying conditions. Numerous other variances have also been discovered.
 
     --
@@ -627,8 +495,8 @@ subject module Disease
       --
         'Docherty_et_al_2020
 
-  wip:
-  / Infection Fatality & Mortality
+  —
+  / Fatality
   subject Fatality
     head = Infection Fatality Rate (IFR) and Mortality rate vary significantly by geography and age group. Estimates of key figures vary among researchers, and across locales. Global IFR is estimated between 0.3 to 1.4%.
 
@@ -677,114 +545,272 @@ subject module Disease
       'Yan_et_al_05_14_2020
       'Grewelle_et_al_05_18_2020
 
-
-  / Immunity
+  / Immunity and Immunopathology
   subject module Immunity
-    head = Recovered patients have protective antibodies and can provide protection. The duration of immunity still remains unclear.
+    head = Dysregulated immune responses appear to be a key feature of severe COVID-19. Many researchers have speculated, but not yet concluded, that individuals who have previously recovered from certain other coronavirus infections may be protected by prior immunity. Recovered COVID-19 patients do appear to acquire protective antibodies, but the duration of acquired immunity is unclear.
 
-    / Antibodies
-    subject Antibodies
-      head = Protective antibodies have been found in patients who have recovered from SARS-CoV-2 infections. IgM antibodies are generally detectable several days after initial infection. IgG antibodies generally become detectable 10–14 days after infection. The duration of antibodies is unclear.
-
-      ### Section 1 - Duration, Detection and Waning of Antibody Response
-      >>>
-        The detection of antibodies to SARS-CoV-2 does not indicate directly protective immunity and correlates of protection for COVID-19 have not yet been established.
-
-        IgM antibodies to SARS-CoV-2 are generally detectable several days after initial infection, although levels over the course of infection are not well characterized. IgG antibodies generally become detectable 10–14 days after infection, sometimes earlier, and normally peak around 28 days after infection onset.
-      -- Detection of IgM and IgG antibodies
-        'Zhao_et_al_2020
-        'Zhao_et_al_2020.!a
-        'Zhao_et_al_2020.!b
-        'Zhao_et_al_2020.!c
-        'Zhang_et_al_2020g.!a
-
-      >>>
-        The longevity of the antibody response is still unknown, but it is known that antibodies to other coronaviruses wane over time
-      >>>
-        MERS lasted for 18 months
-      -- MERS
-        'Alshukairi_et_al_2016
-      >>>
-        SARS it was detected for 2-3 years
-      -- SARS
-        'Wu_et_al_2007
-        'Wu_et_al_2007.!a
-        'Liu_et_al_2019
-      >>>
-        Other coronavirus lasted for 1 year
-      -- Coronavirus 229E
-        'Callow_et_al_1990
-
-      >>>
-        There has been several reports Waning of neutralizing antibodies with SARS-CoV2 patient.
-      --
-        'Liu_et_al_06_16_2020
-        'Robbiani_et_al_06_18_2020.!c
-        'Wu_et_al_04_20_2020b.!c
-        'Seow_et_al_10_26_2020
-        'Seow_et_al_10_26_2020.!a
-      >>>
-        This paper reports waning antibodies and suggest that Asymtomatic may have weaker immune response
-      --
-        'Xin-Long_et_al_06_18_2020
-      -- Mild Cases with loss of IgG
-        'Ibarrondo_et_al_09_10_2020
-      >>>
-        Despite waning, in this study some individual did maintain stable IgG.
-      --
-        'Chen_et_al_11_03_2020
-
-      # Section 2 - Different antibody Responses
-      >>>
-        Patients had IgG/ IgM antibody responses to SARS-CoV-2, especially to protein N, S1 but not S2.
-      --
-        'Jiang_et_al_2020
-      >>>
-        In an observational case study of 16 SARS-CoV-2 patients, anti-S-RBD IgG was detected in all of the subjects, whereas anti-N IgG and anti-S-RBD IgM were detected in 15 patients and anti-N IgM in 14 patients.
-      --
-        'To_et_al_05_20_2020.!a
-
-      >>>
-        Receptor Binding Domain specific antibodies detected on patients have potent antiviral activity
-      --
-        'Robbiani_et_al_06_18_2020
-        'Wu_et_al_2020b
-
-      >>>
-        In this study antibody responses against SARS-CoV-2’s spike protein were stronger among COVID-19 survivors, whereas antibody responses targeting the virus’s nucleocapsid protein were elevated in patients who died.
+    / Immunopathology
+    subject Immunopathology
+      head = Many studies have investigated patterns of dysregulation in the immune response to COVID-19, contributing to severe disease and fatality. An over-active cytokine response and suppressed interferon response appear to be defining features of severe disease. Irregularities in T-cell responses have also been investigated, among others.
 
       --
-        'Atyeo_et_al_07_30_2020
-
-      ####### Variation of antibodies based on age gender Asymtomatic , severity
-      >>>
-        Antibodies appear to vary widely in their efficacy. Some people have poor response, some average. And then there is a fraction of people that are exceptional responders. Antibody Response differs among patients based on sex as well as the severity of infection.
-
-      >>>
-        In this study in severe group IgG level was significantly higher in males than females
-      --
-        'Kowitdamrong_et_al_10_09_2020
-      -- Antibody response differ based on Gender
-        'Jiang_et_al_2020.!e
-      >>>
-        Patients with milder disease had lower antibody titers than those with more severe disease.
-      --
-        'WangTo_et_al_08_25_2020.!e
-        'Prado-Vivar_et_al_09_08_2020.!b
-      >>>
-        Antibody response differ in child and adult. Less response in children
-      --
-        'Weisberg_et_al_11_05_2020
-
-      ### Antibody in a community - Large scale seroprevalence
-      >>>
-        Prevalence of antibody in USA (Till September)- Fewer than 10% of the US adult population formed antibodies against SARS-CoV-2, and fewer than 10% of those with antibodies were diagnosed
+        !Asymptomatic
 
       --
-        'Anand_et_al_02_20_2020
+        Cytokines
+        Interferons
+        TCells
+        # BCells
+        Macrophages
+
+      claim !Asymptomatic = One case study observed that asymptomatic individuals in the sample had a weaker immune response to SARS-CoV-2 infection.
+        --
+          'Xin-Long_et_al_06_18_2020
+
+      / Cytokines
+      subject Cytokines
+        let *Cytokine_storms mean Course.!Complications.!CytokineStorms
+
+        head = Cytokines are a broad and loose category of pro-inflammatory molecules. A cytokine storm is a physiological reaction in which the innate immune system causes an uncontrolled and excessive release of cytokines. *Cytokine_storms are a frequent complication of severe COVID-19.
+
+        --
+          !KeyFeature
+          !KeyPredictor
+          !V2Cytokine
+
+        claim !KeyFeature = A number of studies have proposed that exuberant inflammatory cytokine production is one of the defining and driving features of COVID-19.
+          --
+            'Melo_et_al_05_15_2020
+            'Subbarao_et_al_05_19_2020
+            'Subbarao_et_al_05_19_2020.!c
+
+        claim !KeyPredictor = A number of studies have found that cytokine patterns are predictive of COVID-19 survival and mortality.
+          --
+            'DelValle_et_al_05_30_2020
+            'Liu_et_al_2020f
+
+        claim !V2Cytokine = One study compared cytokine storms in SARS-CoV-2 and influenza, concluding that cytokine storms are more common in SARS-CoV-2.
+          --
+            'Mudd_et_al_05_15_2020
+
+      / Interferons
+      subject Interferons
+        head = Interferons are a group of signaling proteins made and released by host cells in response to the presence of several viruses. They are named for their ability to "interfere" with viral replication. A number of studies have suggested that a reduced or suppressed interferon response is a key feature of COVID-19.
+
+        --
+          !NSP1
+
+        triage
+          'Goldman-Israelow_et_al_05_27_2020
+          'Vanderheiden_et_al_05_20_2020
+          'Melo_et_al_05_15_2020
+          'Broggi_et_al_01_06_2020
+
+        claim !NSP1 = One study has found that the COVID-19 non-structural protein Nsp1 inhibits some interferon functions, thus allowing the virus to evade a critical antiviral response.
+          --
+            'Thoms_et_al_05_18_2020
+
+      / T-cells
+      subject TCells
+        head = T-cells identify and attack virus infected cells, by a variety of mechanisms. Multiple studies have investigated and found a diversity of T-cell responses in COVID-19 patients, and suggested that dysregulated T-cell activity may correlate with severe disease.
+
+        --
+          !Diversity
+          !Damage
+          !Uncoordination
+          !Female
+
+        claim !Damage = One study has asserted that COVID-19 damages the function of CD4+ T cells and promotes excessive activation of CD8+ T cells, which may eventually diminish host antiviral immunity.
+          --
+            'Zheng_et_al_2020b
+
+        claim !Uncoordination = Some studies have suggested that uncoordinated or partially neutralising antibodies, and responses from CD4+ and CD8+ T cells, might be associated with COVID-19 severity, with age being a risk factor.
+          --
+            'Moderbacher_et_al_09_11_2020
+            'Moderbacher_et_al_09_11_2020.!a
+            'Chen_et_al_2020d
+
+        claim !Diversity = Multiple studies have found diversity in T cell and B cell activation in COVID-19 infected patients.
+          --
+            'Mathew_et_al_05_23_2020
+            'Nelde_et_al_06_16_2020
+
+        claim !Female = One study found that female patients mounted significantly more robust T cell activation than male patients during SARS-CoV-2 infection, which was sustained in old age.
+          --
+            'Takahashi_et_al_06_09_2020
+
+      # Nothing specific to SARS?
+      # / B-cells
+      # subject BCells
+      #   head = B-cells produce antibodies that are specific to a particular virus. IgM antibodies are produced first and disappear after a few weeks. IgG antibodies are produced at the same time or 2-3 days later, and levels usually remain for months or years.
+      #
+      #   # / Affinity Maturation
+      #   # subject AffinityMaturation
+      #   #   head = Affinity maturation is the process by which TFH cell-activated B cells produce antibodies with increased affinity for antigen during the course of an immune response.
+      #   --
+      #     'King_et_al_2020
+
+      / Macrophages
+      subject Macrophages
+        head = Macrophages are a population of innate immune cells that sense and respond to microbial threats by producing inflammatory molecules that eliminate pathogens and promote tissue repair. One study has suggested potential pathological roles of macrophages during SARS-CoV-2 infections.
+        --
+          'Merad_et_al_05_06_2020
+
+      # Source WHO https://www.who.int/docs/default-source/coronaviruse/risk-comms-updates/update-34-immunity-2nd.pdf?sfvrsn=8a488cb6_2
+      #
+      # >>> Innate Immune Reponse
+      #   Secrete Interferons and other chemicals (Cytokine). Interferons interfere with virus Replication
+      #
+      # >>> Adaptive Immune Response
+      #   Specific Response to the infection which starts After 6-8 days. There are two types :-
+      #   - T Cell - Celluar Response
+      #   - B Cell - Antibody Response
+      #
+      # >>>
+      #   As of now, Clinical laboratory findings of elevated IL-2, IL-7, IL-6, granulocyte-macrophage colony-stimulating factor (GM-CSF), interferon-γ inducible protein 10 (IP-10), monocyte chemoattractant protein 1 (MCP-1), macrophage inflammatory protein 1-α (MIP-1α), and tumour necrosis factor-α (TNF-α) indicative of cytokine release syndrome (CRS) suggest an underlying immunopathology.  Additionally, people with COVID‑19 and acute respiratory distress syndrome (ARDS) have classical serum biomarkers of CRS, including elevated C-reactive protein (CRP), lactate dehydrogenase (LDH), D-dimer, and ferritin.
+
+    / Acquired Immunity
+    subject AcquiredImmunity
+      head = Protective antibodies have been found in patients who have recovered from SARS-CoV-2 infections. The longevity of COVID-19 antibodies is not yet clear. Long term immunity from T-cells and B-cells also remain uncertain.
+
+      / Antibodies
+      subject Antibodies
+        head = Protective antibodies have been found in patients who have recovered from SARS-CoV-2 infections. There is, however, a wide diversity in the antibody response among recovered patients. The longevity of COVID-19 antibodies is not yet clear.
+
+        --
+          !CvAbDetection
+          !CvAbCaveats
+          !CvAbPotency
+          !CvAbLongevity
+          !CvAbStability
+          !CvAbDiversity
+          !CvAbPrevalence
+
+        claim !CvAbDetection = IgM antibodies to SARS-CoV-2 are generally detectable several days after initial infection, although levels over the course of infection are not well characterized. IgG antibodies generally become detectable 10–14 days after infection, sometimes earlier, and normally peak around 28 days after infection onset.
+          --
+            'Zhao_et_al_2020
+            'Zhao_et_al_2020.!a
+            'Zhao_et_al_2020.!b
+            'Zhao_et_al_2020.!c
+            'Zhang_et_al_2020g.!a
+          --
+            'Jiang_et_al_2020
+            'Robbiani_et_al_06_18_2020
+            'Wu_et_al_2020b
+            'To_et_al_05_20_2020.!a
+
+        claim !CvAbCaveats = While antibodies that bind to SARS-CoV-2 have been detected, their presence alone would not necessarily indicate that they are neutralizing antibodies, or that they offer protective immunity.
+          --
+            'European_Centre_for_Disease_Prevention_and_Control_2020
+
+        claim !CvAbPotency = Independent evidence demonstrating the protective properties of the detected COVID-19 antibodies is growing.
+          --
+            'Robbiani_et_al_06_18_2020
+            'Wu_et_al_2020b
+
+        claim !CvAbLongevity = There are some reports of SARS-CoV-2 antibodies waning. Their longevity is still unknown. Antibodies to other coronaviruses are also known wane over time.
+
+          claim !Cv2Waning = There have been several reports already of the waning of neutralizing antibodies in SARS-CoV-2 patients.
+            --
+              'Liu_et_al_06_16_2020
+              'Robbiani_et_al_06_18_2020.!c
+              'Wu_et_al_04_20_2020b.!c
+              'Seow_et_al_10_26_2020
+              'Seow_et_al_10_26_2020.!a
+
+          claim !Mers = MERS antibodies have been shown to last for 18 months
+            --
+              'Alshukairi_et_al_2016
+
+          claim !Sars = SARS antibodies have been shown to last for 2-3 years.
+            --
+              'Wu_et_al_2007
+              'Wu_et_al_2007.!a
+              'Liu_et_al_2019
+
+          claim !Cv229E = Coronavirus 229E antibodies have been shown to last for 1 year.
+            --
+              'Callow_et_al_1990
+
+        claim !CvAbStability = Despite evidence of waning antibody protection, at least one study has indicated that some individuals have maintain stable IgG.
+          --
+            'Chen_et_al_11_03_2020
+
+        claim !CvAbDiversity = Many studies have noted a diversity of antibody responses in COVID-19 patients; antibodies appear to vary widely in their efficacy and targeting. Responses differ among patients based on sex as well as the severity of infection.
+
+          claim !Gender = A number of studies have noted varying antibody responses by gender.
+            --
+              'Kowitdamrong_et_al_10_09_2020
+              # -- Antibody response differ based on Gender
+              'Jiang_et_al_2020.!e
+
+          claim !Age = Differences in antibody responses have been noted between children and adults. A less significant response was noted among children.
+            --
+              'Weisberg_et_al_11_05_2020
+
+          claim !Severity = There has been some speculation that mild cases may result in a weaker immune response, and in turn weaker antibody protection.
+            # This paper reports waning antibodies and suggest that Asymtomatic may have weaker immune response
+            --
+              'Xin-Long_et_al_06_18_2020
+            # -- Mild Cases with loss of IgG
+              'Ibarrondo_et_al_09_10_2020
+              'WangTo_et_al_08_25_2020.!e
+              'Prado-Vivar_et_al_09_08_2020.!b
+
+          claim !TargetingA = In one study antibody responses against SARS-CoV-2’s spike protein were stronger among COVID-19 survivors, whereas antibody responses targeting the virus’s nucleocapsid protein were elevated in patients who died.
+            --
+              'Atyeo_et_al_07_30_2020
+
+          claim !TargetingB = In an observational case study of 16 SARS-CoV-2 patients, anti-S-RBD IgG was detected in all of the subjects, whereas anti-N IgG and anti-S-RBD IgM were detected in 15 patients and anti-N IgM in 14 patients.
+            --
+              'To_et_al_05_20_2020.!a
+
+          claim !TargetingC = One study noted antibody responses to SARS-CoV-2, especially to protein N, S1 but not S2.
+            --
+              'Jiang_et_al_2020
+
+        claim !CvAbPrevalence = As of September 2020, one study indicated that fewer than 10% of the US adult population formed antibodies against SARS-CoV-2, and fewer than 10% of those with antibodies had been diagnosed.
+          --
+            'Anand_et_al_02_20_2020
+
+      / T-cell Immunity
+      subject TCellImmunity
+        head = One study has found that T-cell immunity is robust 6 months following infection.
+
+        --
+          'Zuo_et_al_11_02_2020
+
+      / B-cell Immunity
+      subject BCellImmunity
+        head = One study has asserted that the B-cell response may be protective over long time frames.
+
+        --
+          'Gaebler_et_al_11_05_2020
+
+    / Prior Immunity
+    subject PriorImmunity
+      head = A number of studies have discussed the possibility of long-lasting, cross-reactive T-cell immunity, i.e. acquired immunity from prior infections. These discussions are so far inconclusive.
+
+      # T-cells
+      --
+        # SARS
+        'Bert_et_al_05_27_2020
+        'Bert_et_al_05_27_2020.!a
+        'Braun_et_al_04_22_2020
+        # -- Cross Reactive T-Cell via common cold coronavirus
+        'Grifoni_et_al_05_04_2020
+        'Nelde_et_al_06_16_2020
+        'Petrova_et_al_02_20_2012
+        # # Cross Reactive T Cell
+        # >>>
+        # Who recovered from SARS (the disease associated with SARS-CoV infection) possess long-lasting memory T cells that are reactive to the N protein of SARS-CoV 17 years after the outbreak of SARS in 2003; these T cells displayed robust cross-reactivity to the N protein of SARS-CoV-2.
+        # Claim:? Infection with betacoronaviruses induces multi-specific and long-lasting T cell immunity against the structural N protein.
+        # Counter? Cross Reactivity is common but it may not provide immunity or cross neutralizing antibody
+        'Lv_et_al_06_02_2020
 
     / Reinfection
     subject Reinfection
+     # The first few known case of reinfection with SARS-CoV-2 has been documented [182]. Only limited information is available on the interpretation of SARS-CoV-2 antibody tests after a previous infection with SARS-CoV-2 and on the dynamics of SARS-CoV-2 serology if a subsequent infection with another coronavirus occurs. In these two sets of circumstances interpretation of serology may be extremely challenging.
       head = Reinfection cannot occur if neutralizing antibodies are produced during a primary infection. Reinfection immunity to adults has been studied using laboratory animal models, showing that with models demonstrating resistance to reinfection. However, there have been reports of mild and severe re-infection.
 
       >>>
@@ -844,56 +870,23 @@ subject module Disease
       --
         'Lan_et_al_2020
 
-    / Adaptive Immune Response
-    subject AdaptiveImmuneResponse
-      head =
-
-      >>>
-        Adaptive Immune Response is a specific Response to the infection which starts After 6-8 days. There are two types :-
-        - T Cell - Celluar Response
-        - B Cell - Antibody Response
-
-      >>>
-        B Cell response Duration can last long term.
-      --
-        'Gaebler_et_al_11_05_2020
-
-      --
-        TCellResponse
-
-      / T Cell Response
-      subject TCellResponse
-        head =
-        >>>
-          Studies have reported that infected individuals can, after recovery, induce strong protective responses by generating a memory T-cell pool against SARS-CoV-2
-
-        -- T-Cell Response is diverse upon active infection
-          'Nelde_et_al_06_16_2020
-
-        >>>
-          Uncoordinated or partially neutralising antibodies, and responses from CD4+ and CD8+ T cells, might be associated with COVID-19 severity, with age being a risk factor.
-
-        --
-          'Moderbacher_et_al_09_11_2020
-          'Moderbacher_et_al_09_11_2020.!a
-
-        # Duration of T Cell
-        >>>
-          6 months robust T Cell Response
-        --
-          'Zuo_et_al_11_02_2020
-
-        # Cross Reactive T Cell
-        >>>
-          Who recovered from SARS (the disease associated with SARS-CoV infection) possess long-lasting memory T cells that are reactive to the N protein of SARS-CoV 17 years after the outbreak of SARS in 2003; these T cells displayed robust cross-reactivity to the N protein of SARS-CoV-2.
-          Claim:? Infection with betacoronaviruses induces multi-specific and long-lasting T cell immunity against the structural N protein.
-
-        -- Long lasting T-Cell Immunity from SARS display robust Cross-Reactivity to SARS-CoV-2 NP
-          'Bert_et_al_05_27_2020
-          'Bert_et_al_05_27_2020.!a
-        -- Cross Reactive T-Cell via common cold coronavirus
-          'Grifoni_et_al_05_04_2020
-
-        # Counter? Cross Reactivity is common but it may not provide immunity or cross neutralizing antibody
-        --
-          'Lv_et_al_06_02_2020
+    # Old Papers
+    # triage
+      # head = Celluar Immune Response of SARS, Influenza suggest suggest similar pathophysiology.
+      # -- Immune Response to SARS in Mice
+      # 'Chen_et_al_2009
+      # 'Chen_et_al_2009.!a
+      # 'Chen_et_al_2009.!b
+      # 'Chen_et_al_2009.!c
+      # 'Chen_et_al_2009.!d
+      # 'Zhao_et_al_2010
+      # -- Innate Immune Response
+      # 'Qian_et_al_11_06_2012
+      # -- Immune Reponse to Influenza
+      # 'Furman_et_al_2015
+      # Why some are Asymtomatic? Sero survey suggest people have cross reactive antibodies
+      # -- Cross-Reactive Antibodies
+      # 'Chan_et_al_2013
+      # 'Xu_et_al_2015
+      # --
+      # 'Niwa_et_al_10_15_2018
