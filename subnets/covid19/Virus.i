@@ -116,6 +116,7 @@ subject module Virus
         'Kim_et_al_2020b.!d
         'Pan_et_al_2020b
 
+
     claim !Resp = Viral RNA can be detected in the upper respiratory tract long after the disappearance of infectious virus.
       --
         'Woelfel_et_al_2020
@@ -133,6 +134,11 @@ subject module Virus
         'Wu_et_al_2020d
         'Pan_et_al_2020b.!f
         'Woelfel_et_al_2020b.!i
+        'Gupta_et_al_05_17_2020
+        'Chen_et_al_04_03_2020
+        'Chen_et_al_04_03_2020.!a
+
+    
 
   / Genetics
   subject Genetics

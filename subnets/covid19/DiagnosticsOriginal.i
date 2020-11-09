@@ -188,6 +188,9 @@ subject module DiagnosticsOriginal
       / RNA Detection through PCR
       subject RT-PCR
         head = PCR and RT-PCR can achieve more sensitive detection and higher levels of amplification of specific sequences in less time. These features make the technique extremely useful, not only in basic research, but also in commercial uses.
+
+        # reflects whether you are currently infected with the new coronavirus that causes COVID-19. This test detects the genetic code of the SARS-CoV-2 virus in your body. If you have a positive nasal swab PCR result, you not only have the infection, but you are potentially infectious and should stay isolated until recovered.
+
         -- PCR and RT-PCR
           'Weissleder_et_al_06_03_2020
           'Wölfel_et_al_2020
@@ -249,6 +252,7 @@ subject module DiagnosticsOriginal
           'Service_et_al_10_02_2020.!d
           'Service_et_al_10_02_2020.!e
           'Singanayagam_et_al_08_12_2020
+          'Scola_et_al_04_27_2020
         -- Ct value Indicates the viral load of an infected person
           'Tom_et_al_2020.!c
           'Tom_et_al_2020.!e
@@ -261,6 +265,7 @@ subject module DiagnosticsOriginal
           'Tom_et_al_2020.!i
           'Tom_et_al_2020.!l
           'Service_et_al_10_02_2020.!d
+          'Kampen_et_al_06_09_2020.!c
         -- CT value flag patients most at risk for severe disease and death.
           'Service_et_al_10_02_2020.!g
           'Service_et_al_10_02_2020.!c
@@ -326,10 +331,20 @@ subject module DiagnosticsOriginal
           'Lassaunière_et_al_2020
           'Weissleder_et_al_06_03_2020
         >>>
-          SARS-CoV-2-specific IgM does not consistently appear before its IgG counterpart.Some studies reporting detection of SARS-CoV 2 spike protein-specific IgG before IgM.
+          SARS-CoV-2-specific IgM does not consistently appear before its IgG counterpart. Some studies reporting detection of SARS-CoV 2 spike protein-specific IgG before IgM.
         --
           'Watson_et_al_05_12_2020
           'Sethuraman_et_al_05_06_2020
+
+        >>>
+          Antibodies could be detected in most infected patients in the first 2 weeks after onset.
+        --
+          'Wang_et_al_07_14_2020.!c
+
+        >>>
+          S2 region possessed more epitopes recognized by viral-specific antibodies.
+        --
+          'Wang_et_al_07_14_2020.!c
 
       / Immunoassay detection
       subject Immunoassay
@@ -340,6 +355,12 @@ subject module DiagnosticsOriginal
           'Amanat_et_al_2020
           'Okba_et_al_2020
           'Muruato_et_al_05_22_2020
+
+      >>>
+        Seroconversion (development of measurable antibody response after infection) has been observed to be more robust and faster in patients with severe disease compared to those with milder disease or asymptomatic infections.
+
+      >>>
+        Antibodies have been detected as early as in the end of the first week of illness in a fraction of patients, but can also take weeks to develop in patients with subclinical/mild infection. [37, 166-173]
 
 
       # >>>
@@ -365,6 +386,7 @@ subject module DiagnosticsOriginal
       head = Antigen test detects presence of viral protien and return positive result when person is most infectious.
       --
         'Weissleder_et_al_06_03_2020
+
 
   / Predicting Disease Severity
   subject DiseaseSuspectibility
@@ -412,6 +434,7 @@ subject module DiagnosticsOriginal
       'Coomes_et_al_04_03_2020
       'Zhao_et_al_2020.!d
       'Jiang_et_al_04_27_2020.!c
+      'Wang_et_al_07_14_2020.!b
     -- Antibody titers with disease severity
       'Nelde_et_al_06_16_2020
       'Nelde_et_al_06_16_2020.!f
