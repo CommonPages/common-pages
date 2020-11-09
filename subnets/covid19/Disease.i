@@ -701,8 +701,8 @@ subject module Disease
         --
           'Gaebler_et_al_11_05_2020
 
-    / Prior Immunity
-    subject PriorImmunity
+    / Cross Immunity
+    subject CrossImmunity
       head = A number of studies have discussed the possibility of long-lasting, cross-reactive T-cell immunity, i.e. acquired immunity from prior infections. These discussions are so far inconclusive.
 
       # T-cells

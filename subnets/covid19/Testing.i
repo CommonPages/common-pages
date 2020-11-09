@@ -128,7 +128,7 @@ subject module Testing
       / C<sub>t</sub> Values
       claim !RTPCRCycleThresholds = *RT-PCR test results may include a *cycle_threshold (C<sub>t</sub>) value. This value roughly correlates to viral load (with caveats). It can be used to indirectly infer additional information about the state of an infection, such as the carrier's risk of being infectious. Such inferences are, however, probabilistic and highly context sensitive.
         >>>
-          RT-PCR tests identify SARS-CoV-2 infections by isolating and amplifying the viral RNA present in a sample using a procedure known as the polymerase chain reaction ({PCR}). PCR executes multiple cycles of amplification to produce a detectable amount of RNA.
+          RT-PCR tests identify SARS-CoV-2 infections by isolating and amplifying the viral RNA present in a sample using a procedure known as polymerase chain reaction ({PCR}). PCR executes multiple cycles of amplification to produce a detectable amount of RNA.
 
           The {*cycle_threshold} (C<sub>t</sub>) value of the test indicates the number of cycles required to detect the virus in a given sample. PCR machines stop running at that point. If a positive signal isn't detected after 37 to 40 cycles, the test is negative.
 
