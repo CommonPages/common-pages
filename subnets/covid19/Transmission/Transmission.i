@@ -7,10 +7,10 @@ subject module Transmission
   >>>
     Though human-human transmission was initially denied, rapid spread of the disease started around late January in 2020 across the world. Since then, there emerged numerous reports on nCoV-2 spreading through multiple modes in many common settings transmitting COVID-19 in communities. An interplay of multiple factors determines the transmission of the virus. We begin with identifying the possible modes/ routes of transmission.
   --
-    ModesNew
+    Modes
   >>>
     Given the above modes of transmission, the virus could spread widely in most common settings and conditions of our daily interactions ending up as a pandemic.
   --
-    SettingsNew
+    Settings
     Spreading
     # TransMechanism

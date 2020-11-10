@@ -185,115 +185,115 @@ subject module Timeline
 
   —
   / Origin of SARS-CoV-2
-  # dispute Origin
-  #   head = The ultimate origin of SARS-CoV-2 is disputed. Researches have proposed multiple theories as to the original source of human transmission of the SARS-CoV2 virus. Theories range from direct or indirect animal transmission (involving bats, pangolins or civets) to spillover from a nearby laboratory.
-  #
-  #   / Genome Sequence
-  #   subject GenomeSequence
-  #     head = Genomic Analysis of SARS-CoV-2 suggest similarity with SARS-CoV and Bat being the natural reservoir of SARS-CoV-2.
-  #     --
-  #       'Chan_et_al_2020.!i
-  #       'Ren_et_al_2020
-  #     # SARS CoV also used ACE-2. Was originated from Bats
-  #     --
-  #       'Guo_et_al_2020.!c
-  #       'Anderson_et_al_2020.!c
-  #
-  #   / Origin of SARS-CoV-2
-  #   subject CovidOrigin
-  #     head = The original source of viral transmission to humans remains unclear weather COVID-19 has a natural origin or whether the strain became pathogenic before or after the spillover event or it is adapted to human in a lab without genetic engineering.
-  #
-  #     # We need to mention RATG13 , RmYN02, Pangolin-CoV strain has x y z % similarities with SARS-CoV-2.
-  #     -- Origin of SARS-CoV2
-  #       'Anderson_et_al_2020
-  #       'Anderson_et_al_2020.!d
-  #       'Guo_et_al_2020.!a
-  #       'Guo_et_al_2020.!b
-  #       'Paraskevis_et_al_2020
-  #       'Boni_et_al_03_31_2020
-  #       'Latinne_et_al_05_31_2020
-  #       'Zhou_et_al_06_08_2020
-  #       'Zhou_et_al_06_08_2020.!a
-  #       'Phan_et_al_2020.!a
-  #       'Phan_et_al_2020.!b
-  #       'Paraskevis_et_al_2020
-  #       'Tang_et_al_03_03_2020
-  #       'Zhang_et_al_03_26_2020
-  #     # RaTG13
-  #     --
-  #       'Shang_et_al_03_30_2020
-  #       'Shang_et_al_03_30_2020.!e
-  #       'Wrobel_et_al_07_09_2020
-  #     # RmYN02
-  #     --
-  #       'Zhou_et_al_05_10_2020
-  #
-  #     # Doubt story - There is zero evidence that confirms that the SARS-CoV-2 S1/S2 PRRA(R) FCS arose naturally or artificially, but neither scenario can be ruled out. This virus is very well adapted to humans. Suggesting that first few cases on wuhan came through a human rather than zoonosis.
-  #     --
-  #       'Kleine-Weber_et_al_11_09_2018
-  #       'Liu_et_al_04_02_2020
-  #       'Liu_et_al_04_02_2020.!h
-  #       'Follis_et_al_07_05_2006
-  #       'Belouzard_et_al_04_07_2009
-  #       'Zhan_et_al_05_02_2020
-  #       'Zhang_et_al_03_26_2020.!c
-  #       'Chan_et_al_07_07_2020
-  #
-  #
-  #     #  'Chan_et_al_07_07_2020 - Link this paper to show IntermediateHost doubt story
-  #
-  #   / Intermediate Host
-  #   subject IntermediateHost
-  #     head = Differences between the bat coronavirus sampled and SARS-CoV-2,  suggested that humans were infected via an intermediate host, speculating pangolins or civets to be the likely intermediate host. Although subsequent papers have ruled out the possibility of pangolian as an intermediate host.
-  #     --
-  #       'Li_et_al_05_19_2020
-  #       'Boni_et_al_03_31_2020.!a
-  #       'Boni_et_al_03_31_2020.!b
-  #       'Xiao_et_al_03_19_2020
-  #       'Damas_et_al_04_18_2020
-  #     # 'Li_et_al_05_19_2020.!a
-  #     # Smuggling Route can come as content
-  #     -- Pangolin as Host
-  #       'Zhang_et_al_2020h
-  #       'Liu_et_al_05_14_2020
-  #       'Liu_et_al_05_14_2020.!j
-  #       'Lam_et_al_03_26_2020
-  #       'Xiao_et_al_02_20_2020
-  #       'Lehmann_et_al_06_17_2020
-  #       'Shang_et_al_03_30_2020.!j
-  #       'Tang_et_al_03_03_2020
-  #     # Pangolins are able to carry coronavirus without getting effected too much
-  #     --
-  #       'Fischer_et_al_05_08_2020
-  #     # Counter
-  #     --
-  #       'Lee_et_al_06_19_2020
-  #       'Chan_et_al_07_07_2020
-  #     # Pre SARS-CoV2 study shows that Malayan pangolin carries coronavirus
-  #     --
-  #       'Liu_et_al_10_24_2019
-  #     -- Civets as Host
-  #       'Wan_et_al_2020.!b
-  #     -- Other possible carriers
-  #       'Huong_et_al_06_17_2020
-  #       'Yang_et_al_11_26_2019
-  #
-  #   / Phylogenetic Analysis
-  #   subject Phylogeny
-  #     head = Phylogenetic analysis reveal that the virus type most closely related to the bat coronavirus was abundant in Guangdong. Findings show that SARS-CoV-2 has not had legitimate recombination and suggests the source of the haplotype in the Huanan Market was imported from elsewhere.
-  #
-  #     # Zhang_et_al_2020i can go in TransmissionLineage.. chan_et shows phylogeny of 5 patients of Wuhan (early) and its related to RaTG13
-  #     --
-  #       'Zhang_et_al_2020i
-  #       'Chan_et_al_2020.!i
-  #       'Yu_et_al_05_18_2020
-  #
-  #   / Wuhan
-  #   subject Wuhan
-  #     head = Early association was observed between the first reported cases of COVID-19 and the Huanan seafood and wildlife market in Wuhan city. However, other research indicates that visitors may have introduced the virus to the market, which then facilitated spread of the infections.
-  #     -- Wuhan
-  #       'Zhou_et_al_2020
-  #       'Riou_et_al_01_24_2020
-  #       'Chan_et_al_2020
-  #       'Wang_et_al_2020c
-  #       'Zhang_et_al_03_05_2020
+  dispute Origin
+    head = The ultimate origin of SARS-CoV-2 is disputed. Researches have proposed multiple theories as to the original source of human transmission of the SARS-CoV2 virus. Theories range from direct or indirect animal transmission (involving bats, pangolins or civets) to spillover from a nearby laboratory.
+
+    / Genome Sequence
+    subject GenomeSequence
+      head = Genomic Analysis of SARS-CoV-2 suggest similarity with SARS-CoV and Bat being the natural reservoir of SARS-CoV-2.
+      --
+        'Chan_et_al_2020.!i
+        'Ren_et_al_2020
+      # SARS CoV also used ACE-2. Was originated from Bats
+      --
+        'Guo_et_al_2020.!c
+        'Anderson_et_al_2020.!c
+
+    / Origin of SARS-CoV-2
+    subject CovidOrigin
+      head = The original source of viral transmission to humans remains unclear weather COVID-19 has a natural origin or whether the strain became pathogenic before or after the spillover event or it is adapted to human in a lab without genetic engineering.
+
+      # We need to mention RATG13 , RmYN02, Pangolin-CoV strain has x y z % similarities with SARS-CoV-2.
+      -- Origin of SARS-CoV2
+        'Anderson_et_al_2020
+        'Anderson_et_al_2020.!d
+        'Guo_et_al_2020.!a
+        'Guo_et_al_2020.!b
+        'Paraskevis_et_al_2020
+        'Boni_et_al_03_31_2020
+        'Latinne_et_al_05_31_2020
+        'Zhou_et_al_06_08_2020
+        'Zhou_et_al_06_08_2020.!a
+        'Phan_et_al_2020.!a
+        'Phan_et_al_2020.!b
+        'Paraskevis_et_al_2020
+        'Tang_et_al_03_03_2020
+        'Zhang_et_al_03_26_2020
+      # RaTG13
+      --
+        'Shang_et_al_03_30_2020
+        'Shang_et_al_03_30_2020.!e
+        'Wrobel_et_al_07_09_2020
+      # RmYN02
+      --
+        'Zhou_et_al_05_10_2020
+
+      # Doubt story - There is zero evidence that confirms that the SARS-CoV-2 S1/S2 PRRA(R) FCS arose naturally or artificially, but neither scenario can be ruled out. This virus is very well adapted to humans. Suggesting that first few cases on wuhan came through a human rather than zoonosis.
+      --
+        'Kleine-Weber_et_al_11_09_2018
+        'Liu_et_al_04_02_2020
+        'Liu_et_al_04_02_2020.!h
+        'Follis_et_al_07_05_2006
+        'Belouzard_et_al_04_07_2009
+        'Zhan_et_al_05_02_2020
+        'Zhang_et_al_03_26_2020.!c
+        'Chan_et_al_07_07_2020
+
+
+      #  'Chan_et_al_07_07_2020 - Link this paper to show IntermediateHost doubt story
+
+    / Intermediate Host
+    subject IntermediateHost
+      head = Differences between the bat coronavirus sampled and SARS-CoV-2,  suggested that humans were infected via an intermediate host, speculating pangolins or civets to be the likely intermediate host. Although subsequent papers have ruled out the possibility of pangolian as an intermediate host.
+      --
+        'Li_et_al_05_19_2020
+        'Boni_et_al_03_31_2020.!a
+        'Boni_et_al_03_31_2020.!b
+        'Xiao_et_al_03_19_2020
+        'Damas_et_al_04_18_2020
+      # 'Li_et_al_05_19_2020.!a
+      # Smuggling Route can come as content
+      -- Pangolin as Host
+        'Zhang_et_al_2020h
+        'Liu_et_al_05_14_2020
+        'Liu_et_al_05_14_2020.!j
+        'Lam_et_al_03_26_2020
+        'Xiao_et_al_02_20_2020
+        'Lehmann_et_al_06_17_2020
+        'Shang_et_al_03_30_2020.!j
+        'Tang_et_al_03_03_2020
+      # Pangolins are able to carry coronavirus without getting effected too much
+      --
+        'Fischer_et_al_05_08_2020
+      # Counter
+      --
+        'Lee_et_al_06_19_2020
+        'Chan_et_al_07_07_2020
+      # Pre SARS-CoV2 study shows that Malayan pangolin carries coronavirus
+      --
+        'Liu_et_al_10_24_2019
+      -- Civets as Host
+        'Wan_et_al_2020.!b
+      -- Other possible carriers
+        'Huong_et_al_06_17_2020
+        'Yang_et_al_11_26_2019
+
+    / Phylogenetic Analysis
+    subject Phylogeny
+      head = Phylogenetic analysis reveal that the virus type most closely related to the bat coronavirus was abundant in Guangdong. Findings show that SARS-CoV-2 has not had legitimate recombination and suggests the source of the haplotype in the Huanan Market was imported from elsewhere.
+
+      # Zhang_et_al_2020i can go in TransmissionLineage.. chan_et shows phylogeny of 5 patients of Wuhan (early) and its related to RaTG13
+      --
+        'Zhang_et_al_2020i
+        'Chan_et_al_2020.!i
+        'Yu_et_al_05_18_2020
+
+    / Wuhan
+    subject Wuhan
+      head = Early association was observed between the first reported cases of COVID-19 and the Huanan seafood and wildlife market in Wuhan city. However, other research indicates that visitors may have introduced the virus to the market, which then facilitated spread of the infections.
+      -- Wuhan
+        'Zhou_et_al_2020
+        'Riou_et_al_01_24_2020
+        'Chan_et_al_2020
+        'Wang_et_al_2020c
+        'Zhang_et_al_03_05_2020
