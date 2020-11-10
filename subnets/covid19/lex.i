@@ -45,7 +45,6 @@ import Figures._
 import Research.October2020._
 let *Mutation mean $os-life.cell.gene.Mutation
 
-
 # Mod 1: Virus (Biology, Virology)
 # Mod 2: Infectious Cycle (Physiology, Immunology)
 # Mod 3: Epidemic (Epidemiology)
