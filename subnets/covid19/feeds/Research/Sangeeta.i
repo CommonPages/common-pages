@@ -11,6 +11,76 @@ feed Sangeeta
     / February, 2020 - bioRxiv
     quote !a =
 
+  #
+
+
+  #
+
+  // DUMMY TITLE
+  doi: https://doi.org/xyz
+  ref 'Xiao_et_al_02_20_2020
+    head =
+
+    -- quotes
+      !a
+
+    / February, 2020 - bioRxiv
+    quote !a =
+
+  #
+
+  // DUMMY TITLE
+  doi: https://doi.org/xyz
+  ref 'Xiao_et_al_02_20_2020
+    head =
+
+    -- quotes
+      !a
+
+    / February, 2020 - bioRxiv
+    quote !a =
+
+  #
+  // DUMMY TITLE
+  doi: https://doi.org/xyz
+  ref 'Xiao_et_al_02_20_2020
+    head =
+
+    -- quotes
+      !a
+
+    / February, 2020 - bioRxiv
+    quote !a =
+
+  #
+
+  // Evaluation of rapid antigen test for detection of SARS-CoV-2 virus
+  doi: https://doi.org/10.1016/j.jcv.2020.104500
+  ref 'Mak_et_al_06_08_2020
+    head = Our data indicated that RAD test was capable of detecting SARS-CoV-2 virus in NPA & TS, NPS & TS, sputum and throat saliva with different sensitivities, this method was less sensitive than RT-PCR. Consequently, the negative results from this RAD method cannot exclude SARS-CoV-2 virus infection confidently and thus results should be verified by further RT-PCR testing.
+
+  >>> Background
+    The rapid diagnosis of Coronavirus Disease 2019 (COVID-19) patients is essential to reduce the disease spread. Rapid antigen detection (RAD) tests are available, however, there is scanty data on the performance of RAD tests.
+
+  >>> Objective
+    To evaluate the performance of the commercially available BIOCREDIT COVID-19 Ag test and compare it with RT-PCR for detecting Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) virus. Analytical sensitivity for the detection of SARS-CoV-2 virus was determined for the RAD test using viral culture and RT-PCR as reference methods. The RAD test was further evaluated using respiratory samples collected from confirmed COVID-19 patients. The results were compared with RT-PCR test.
+
+  >>> Results
+    The detection limits between RAD test, viral culture and RT-PCR varied hugely. RAD was 103 fold less sensitive than viral culture while RAD was 105 fold less sensitive than RT-PCR. The RAD test detected between 11.1 % and 45.7 % of RT-PCR-positive samples from COVID-19 patients.
+
+  >>> Conclusions
+    This study demonstrated that the RAD test serves only as adjunct to RT-PCR test because of potential for false-negative results.
+
+  -- quotes
+    !a
+
+  / June, 2020 - Journal of Clinical Virology
+  quote !a = The low prevalence of high viral load samples further limits the use of RAD test in clinical setting.
+
+
+
+
+
   # Viral dynamics
   // Spatial and temporal dynamics of SARS-CoV-2 in COVID-19 patients: A systematic review and meta-analysis
   doi: https://doi.org/10.1016/j.ebiom.2020.102916
@@ -114,7 +184,6 @@ feed Sangeeta
 
 
 
-
   #
   // Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study.
   doi: https://doi.org/10.1016/S1473-3099(20)30196-1
@@ -164,7 +233,6 @@ feed Sangeeta
   doi: https://doi.org/10.1002/jmv.25952
   ref 'Li_et_al_04_29_2020
     head = Prolonged viral RNA shedding even after symptomatic relief was not rare, and the median duration of viral RNA shedding was 53.5 days. The longest duration of viral RNA shedding could be 83 days.
-
 
     / April, 2020 - Journal of Medical Virology
     quote !a =

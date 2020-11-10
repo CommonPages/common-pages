@@ -51,6 +51,73 @@ index: hide
     'Xu_et_al_2020b
     'Pan_et_al_2020b
 
+
+    # Antigen
+
+
+     ## Background
+     # detect the presence of viral proteins in a biological sample, such as saliva or tissue swabbed from the nasal cavity. Antigen tests are typically cheap, return results in minutes, and, like the genetic tests, reveal an active infection. They already exist for strep throat, influenza, tuberculosis, HIV, and other infectious diseases.
+     # https://www.sciencemag.org/news/2020/05/coronavirus-antigen-tests-quick-and-cheap-too-often-wrong
+
+     # Rapid diagnostic tests that detect the presence of SARS-CoV-2 viral proteins (antigens) in respiratory tract specimens are being developed and commercialized. Most of these are lateral flow immunoassays (LFI), which are typically completed within 30 minutes. In contrast to NAATs, there is no amplification of the target that is detected, making antigen tests less sensitive. Additionally, false- positive (indicating that a person is infected when they are not) results may occur if the antibodies on the test strip also recognize antigens of viruses other than SARS-CoV-2, such other human coronaviruses.
+     # https://www.who.int/publications/i/item/diagnostic-testing-for-sars-cov-2
+
+
+    # The sensitivity of different RDTs compared to rRT-PCR in specimens from URT (nasal or nasopharyngeal swabs) appears to be highly variable [144, 163-165], but specificity is consistently reported to be high.
+    #  --
+    #    'Porte_et_al_05_31_2020
+    #    'Diao_et_al_03_13_2020
+    #    'Lambert-Niclot_et_al_07_23_2020
+    #    'Mertens_et_al_02_20_2020
+    #    'Mak_et_al_06_08_2020
+    #    'Nagura-Ikeda_et_al_08_24_2020
+    #    'Omi_et_al_06_19_2020
+    #    'Schohy_et_al_05_21_2020
+    #    'Weitzel_et_al_05_30_2020
+    #    'Dinnes_et_al_08_26_2020
+
+
+    # >>> This study demonstrated that the RAD test serves only as adjunct to RT-PCR test because of potential for false-negative results.
+      # --
+       # 'Mak_et_al_06_08_2020
+
+    # >>>
+        # Higher viral loads are associated with improved antigen test performance; therefore test performance is expected to be best around symptom onset and in the initial phase of a SARS-CoV-2 infection.
+
+        # --
+        #    'Weiss_et_al_07_22_2020
+        #    'Weiss_et_al_07_22_2020.!a
+        #    'Bullard_et_al_05_22_2020
+        #    'Arons_et_al_03_28_2020
+        #    'Dinnes_et_al_08_26_2020
+        #    'Mak_et_al_06_08_2020
+
+
+    #  >>> remove it
+    #    Ag-RDTs are most likely to perform well in patients with high viral loads (Ct values ≤25 or >106 genomic virus copies/mL) which usually appear in the pre-symptomatic (1-3 days before symptom onset) and early symptomatic phases of the illness (within the first 5-7 days of illness) (14, 15, 21).
+
+
+    #  >>> Find papers for this
+    #    False- positive (indicating that a person is infected when they are not) results may occur if the antibodies on the test strip also recognize antigens of viruses other than SARS-CoV-2, such other human coronaviruses.
+
+    # >>> Recommendation- for use of antigen test in a coomunity.
+        # Use of Ag-RDTs is not recommended in settings or populations with low expected prevalence of disease (e.g. screening at points of entry, blood donation, elective surgery), especially where confirmatory testing by NAAT is not readily available.
+        # https://apps.who.int/iris/rest/bitstreams/1302653/retrieve
+
+
+    # How antigen detection would be incorporated into the testing algorithm depends on the sensitivity and specificity of the antigen test and on the prevalence of SARS-CoV-2 infection in the intended testing population. antigen detection would be incorporated into the testing algorithm depends on the sensitivity and specificity of the antigen test and on the prevalence of SARS-CoV-2 infection in the intended testing population.
+
+    # Test performance
+    # https://apps.who.int/iris/bitstream/handle/10665/334253/WHO-2019-nCoV-Antigen_Detection-2020.1-eng.pdf?sequence=1&isAllowed=y
+    # >>> WHO Background
+    # Sensitivity is the percentage of cases positive by a NAAT reference standard that are detected as positive by the Ag-RDT under evaluation.
+    # Specificity is the percentage of cases negative by a NAAT reference standard that are detected as negative by the Ag-RDT under evaluation. The prevalence of disease in the community being tested strongly affects the predictive value of a positive or negative result . Thus, the clinical value of a positive or negative test result will depend on what action is taken on the basis of the test result when interpreted in the context of local prevalence.
+    # negative and positive Predictive value (take background contentt for wikipedia)
+    # https://en.wikipedia.org/wiki/Positive_predictive_value
+    # The positive and negative predictive values (PPV and NPV respectively) are the proportions of positive and negative results in statistics and diagnostic tests that are true positive and true negative results, respectively. The PPV and NPV describe the performance of a diagnostic test or other statistical measure. A high result can be interpreted as indicating the accuracy of such a statistic.
+
+
+
   ############################################################################################
   # Everything below in this section is not updated claims.
   ############################################################################################
@@ -125,59 +192,6 @@ index: hide
    # And only antibody tests that measure the amount of these antibodies can predict immunity. block the spike protein from connecting to the ACE2 receptor are guaranteed to provide immunity.
 
 
-
-  ### Antigen
-
-   ## Background
-   # detect the presence of viral proteins in a biological sample, such as saliva or tissue swabbed from the nasal cavity. Antigen tests are typically cheap, return results in minutes, and, like the genetic tests, reveal an active infection. They already exist for strep throat, influenza, tuberculosis, HIV, and other infectious diseases.
-
-
-   # Most of these are lateral flow immunoassays (LFI), which are typically completed within 30 minutes. In contrast to NAATs, there is no amplification of the target that is detected, making antigen tests less sensitive. Additionally, false- positive (indicating that a person is infected when they are not) results may occur if the antibodies on the test strip also recognize antigens of viruses other than SARS-CoV-2, such other human coronaviruses.
-
-  #  >>>
-  #    Data on the sensitivity and specificity of currently available Ag-RDTs for SARS-CoV-2 have been derived from studies that vary in design and in the test brands being evaluated. They have shown that sensitivity compared to NAAT in samples from upper respiratory tract (nasal or nasopharyngeal swabs) appears to be highly variable, ranging from 0-94% (4-13) but specificity is consistently reported to be high (>97%).
-
-  #    The sensitivity of different RDTs compared to rRT-PCR in specimens from URT (nasopharyngeal swabs) appears to be highly variable [144, 163-165], but specificity is consistently reported to be high. Currently, data on antigen performance in the clinical setting is still limited: : paired NAAT and antigen validations in clinical studies are encouraged to identify which of the antigen detection tests that are either under development or have already been commercialized demonstrate acceptable performance in representative field studies.antigen detection would be incorporated into the testing algorithm depends on the sensitivity and specificity of the antigen test and on the prevalence of SARS-CoV-2 infection in the intended testing population.
-  #  --
-  #    Evaluation of novel antigen-based rapid detection test for the diagnosis of SARS-CoV-2 in respiratory samples
-  #    Diagnosis of Acute Respiratory Syndrome Coronavirus 2 Infection by Detection of Nucleocapsid Protein.
-  #    Evaluation of a Rapid Diagnostic Assay for Detection of SARS-CoV-2 Antigen in Nasopharyngeal Swabs
-  #    Development and Potential Usefulness of the COVID-19 Ag Respi-Strip Diagnostic Assay in a Pandemic Context
-  #    Large-scale, molecular and serological SARS-CoV-2 screening of healthcare workers in a 4-site public hospital in Belgium after COVID-19 outbreak.
-  #    Evaluation of rapid antigen test for detection of SARS-CoV-2 virus.
-  #    Clinical evaluation of self- collected saliva by RT-qPCR, direct RT-qPCR, RT-LAMP, and a rapid antigen test to diagnose COVID-19.
-  #    SARS-CoV-2 qRT-PCR Ct value distribution in Japan and possible utility of rapid antigen testing kit.
-  #    Low performance of rapid antigen detection test as frontline testing for COVID-19 diagnosis.
-  #    Head-to-head comparison of four antigen-based rapid detection tests for the diagnosis of SARS-CoV-2 in respiratory samples.
-
-  #  >>>
-  #    Ag-RDTs are most likely to perform well in patients with high viral loads (Ct values ≤25 or >106 genomic virus copies/mL) which usually appear in the pre-symptomatic (1-3 days before symptom onset) and early symptomatic phases of the illness (within the first 5-7 days of illness) (14, 15, 21). This offers the opportunity for early diagnosis and interruption of transmission through targeted isolation and cohorting of the most infectious cases and their close contacts (16). Patients who present more than 5-7 days after the onset of symptoms are more likely to have lower viral loads, and the likelihood of false negative results with Ag-RDTs is higher.
-  #  --
-  #    Spatial and temporal dynamics of SARS-CoV-2 in COVID-19 patients: A systematic review and meta-analysis.
-  #    Predicting infectious SARS-CoV-2 from diagnostic samples
-  #    Presymptomatic SARS-CoV-2 Infections and Transmission in a Skilled Nursing Facility.
-  #    Rapid, point‐of‐care antigen and molecular‐based tests for diagnosis of SARS‐CoV‐2 infection.
-  #
-  #
-  # >>>
-      # SARS-CoV-2 Ag-RDTs that meet the minimum performance requirements of ≥80% sensitivity and ≥97% specificity compared to a NAAT reference assay1 can be used to diagnose SARS-CoV-2 infection in a range of settings where NAAT is unavailable or where prolonged turnaround times preclude clinical utility.
-  #
-  #  >>>
-  #    False- positive (indicating that a person is infected when they are not) results may occur if the antibodies on the test strip also recognize antigens of viruses other than SARS-CoV-2, such other human coronaviruses.
-
-
-  #  >>>
-  #    Only four tests have received United States Food and Drug Administration (FDA) Emergency Use Authorization (EUA), and another two tests have been approved by Japan’s Pharmaceutical and Medical Devices Agency. Only three companies have submitted documents toward WHO’s Emergency Use Listing (EUL) procedure (2, 3)
-
-
-  # Test performance
-  # Background
-  # Sensitivity is the percentage of cases positive by a NAAT reference standard that are detected as positive by the Ag-RDT under evaluation.
-  # Specificity is the percentage of cases negative by a NAAT reference standard that are detected as negative by the Ag-RDT under evaluation. The prevalence of disease in the community being tested strongly affects the predictive value of a positive or negative result . Thus, the clinical value of a positive or negative test result will depend on what action is taken on the basis of the test result when interpreted in the context of local prevalence.
-
-
-  # >>>
-  #   In general, the higher the prevalence of SARS-COv-2 infection in the tested population, the more likely a person who tests positive is to have COVID-19. The lower the prevalence in the community, the more likely a test-negative patient is not to have the disease. For example, when the prevalence of active SARS-CoV-2 infection in a community is 1%, even a test that is 99% specific would have a poor positive predictive value, since one-half of all positive results would be false positive.
 
 
 
