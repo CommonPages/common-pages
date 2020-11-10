@@ -1,5 +1,5 @@
 / Tranmission of COVID-19 Virus
-subject module Transmission
+subject module Transmission_old
 
   subject module Modes
 
@@ -14,7 +14,7 @@ subject module Transmission
 
         / Virus shed into air by an infected person
         subject Airborne_trans
-          
+
 
           subject Droplets
             --

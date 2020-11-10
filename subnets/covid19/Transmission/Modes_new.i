@@ -1,12 +1,12 @@
-let *viral-shedding mean Virus.Shedding.ViralShedding
-let *shed mean Virus.Shedding.ViralShedding
-let *entry mean Virus.Entry.EntrytoHost
+let *viral-shedding mean Virus.Shedding
+let *shed mean Virus.Shedding
+let *entry mean Virus.Entry
 
 / Modes_new
 subject module ModesNew
   head = nCov-2 spreads primarily by inhaling or entry of respiratory droplets directly from infected patients (when in close proximity or through aeroslisation) and indirectly by touching fomites (infected surfaces etc) or fecal mode. However the extent of transmission in each of these modes is still unsettled. Until then, insights into transmission emerge from informed extensions of evidence from two sources: (1) the mechanisms of *viral-shedding, *entry and the behaviour of virus in the environment; and (2) the observations in numerous case reports.
-  --
-    PublicSpace.!Narrative.L1\1
+  # --
+  #   PublicSpace.!Narrative.L1\1
   --
     Direct
   --
@@ -86,8 +86,9 @@ subject module ModesNew
             'Milton_et_al_07_24_2020
 
       / Aerosols
-      subject Aerosols
+      dispute Aerosols
         head = The respiratory droplets could be aerosolised (minute) and float to larger distances (beyond 6 ft) with potential infectivity esp in poorly ventilated spaces.
+
         -- Viability
           'van_Doremalen_et_al_2020
           'van_Doremalen_et_al_2020.!a

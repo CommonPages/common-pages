@@ -1,3 +1,4 @@
+let *entry mean Virus.Entry
 let *directly mean Transmission.Modes.Direct
 let *asymptomatic mean Transmission.Spreading.TransmissionNature.AsymptomaticTrans
 let *symptomatic mean Transmission.Spreading.TransmissionNature.SymptomaticTrans
