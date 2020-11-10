@@ -166,7 +166,7 @@ subject module Prevention
       subject Medicalmask
         head = Surgical Mask has high filteration efficacy and can offer protection against Aerosol. Surgical Mask showed lower risk of bothersome issues (difficulty in breathing, warming/sweating, glasses misting up, slurred speech, and itch).
         --
-          Surgicalmask
+          *Surgicalmask
         --
           Efficacy
           Reuse

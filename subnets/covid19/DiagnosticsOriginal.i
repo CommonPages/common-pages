@@ -376,7 +376,7 @@ subject module DiagnosticsOriginal
         'Inui_et_al_2020.!a
         'Xie_et_al_2020
       >>>
-        {GGO} is common CT manifestation
+        {*GGO} is common CT manifestation
       -- Ground-glass opacity
         'Wang_et_al_2020b
         'Xie_et_al_2020.!k

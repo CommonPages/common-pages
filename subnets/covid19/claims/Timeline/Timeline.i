@@ -8,13 +8,13 @@ subject module Timeline
     head = In recent decades there have been several notable events of bat-borne coronaviruses spilling over into human populations. Most notably, researchers have attributed both the 2002-2004 SARS epidemic and the 2012-2013 MERS epidemic to multiple recombination events involving bats.
 
     >>>
-      All viruses contain some form of genetic material which is subject to {*Mutation mutation} over time. Some mutations result in a more successful virus, creating new viral strands which flourish within specific host environments. When a virus favors a particular host species, that species is known as a {Reservoirs reservoir} for the virus.
+      All viruses contain some form of genetic material which is subject to {*Mutation mutation} over time. Some mutations result in a more successful virus, creating new viral strands which flourish within specific host environments. When a virus favors a particular host species, that species is known as a {*Reservoirs reservoir} for the virus.
 
       Coronaviruses have been identified in numerious species. Among them, scientists have identified **bats** as the most prominent natural reservoir for viruses in the coronavirus family.
     --
       !Bats
     >>>
-      Additionally, coronaviruses are {RNAVirus RNA viruses}, which have been found to mutate at faster than other kinds of pathogens.
+      Additionally, coronaviruses are {*RNAVirus RNA viruses}, which have been found to mutate at faster than other kinds of pathogens.
     --
       !MutationRates
     >>>

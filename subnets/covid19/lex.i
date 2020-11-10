@@ -12,10 +12,7 @@ import foundations.Medicine._
 import foundations.CoV2._
 import foundations.Triage._
 
-# import claims.Diagnostics
-# import claims.Timeline
-# import claims.Timeline.Origin
-# import Timeline.Origin
+import claims._
 
 import feeds.Research
 import feeds.News
@@ -43,15 +40,5 @@ import Research.Amit._
 import News._
 import Figures._
 import Research.October2020._
-let *Mutation mean $os-life.cell.gene.Mutation
 
-# Mod 1: Virus (Biology, Virology)
-# Mod 2: Infectious Cycle (Physiology, Immunology)
-# Mod 3: Epidemic (Epidemiology)
-# Mod 4: Countermeaures/Interventions/Response (Medicine)
-  # Immunization
-  # Isolation
-  # Infection Prevention
-  # Prophylaxis
-  # Therapy
-# Mod 5: SARS-CoV2 & CoVid-19
+let *Mutation mean $os-life.cell.gene.Mutation

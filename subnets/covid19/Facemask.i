@@ -675,7 +675,7 @@ subject module Facemask
     head = What is the evidence for a need for wearing a facemask? The opinion on this issue has undergone revisions since the start of the Covid19. In this section we look at the evidence and recommendations of various studies in this regard.
 
     >>>
-      When people are infected with the Covid19 virus they develop symptoms of the virus (these people are called as symptomatic). Symptomatic conditions of the infection can be severe to mild. Some people may display symptoms slightly after they get infected, such stage is called pre-symtomatic. But not all people develop these symptoms even when infected, these are called as {foundations.Immunology.Asymptomatic asymptomatic}.
+      When people are infected with the Covid19 virus they develop symptoms of the virus (these people are called as symptomatic). Symptomatic conditions of the infection can be severe to mild. Some people may display symptoms slightly after they get infected, such stage is called pre-symtomatic. But not all people develop these symptoms even when infected, these are called as {foundations.Immunology.*Asymptomatic asymptomatic}.
 
 
     >>>

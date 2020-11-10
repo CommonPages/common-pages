@@ -89,7 +89,7 @@ subject module Modes
             'Milton_et_al_07_24_2020
 
       / Aerosols
-      subject Aerosols
+      dispute Aerosols
         head = The respiratory droplets could be aerosolised (minute typically <5um) and float to larger distances (beyond 6 ft) with potential infectivity esp in closed and poorly ventilated spaces.
 
         >>> Claim

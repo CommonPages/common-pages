@@ -15,7 +15,7 @@ subject module Virus
     # >>>
     #   {image-left:'Figure_Virus_Structure}
 
-    let *viral_envelope mean ViralEnvelope
+    let *viral_envelope mean *ViralEnvelope
 
     --
       !StructuralProtein
