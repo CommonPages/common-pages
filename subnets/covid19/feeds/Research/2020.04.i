@@ -107,6 +107,17 @@ feed April2020
 
   #
 
+
+  # Antigen, PCR
+  // Assay Techniques and Test Development for COVID-19 Diagnosis
+  doi: https://doi.org/10.1021/acscentsci.0c00501
+  ref 'Carter_et_al_04_30_2020
+    head = This report provides a broad survey of molecular genetic assays, and serological and immunological tests for identification of COVID-19 infection.
+
+
+    / April, 2020 - American Chemical Society
+    quote !a =
+
   # Entry through nose
   // Sinonasal pathophysiology of SARS‐CoV‐2 and COVID‐19: A systematic review of the current evidence
   doi: https://dx.doi.org/10.1002%2Flio2.384

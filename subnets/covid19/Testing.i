@@ -172,6 +172,14 @@ subject module Testing
       head = Antigen tests detect viral protien in a sample and return positive result when person is most infectious.
       --
         'Weissleder_et_al_06_03_2020
+      >>>
+        Sensitivity and Specificity
+
+      >>>
+        Comparison
+
+      >>>
+              
 
     / CT Scans for COVID-19
     subject CTScans

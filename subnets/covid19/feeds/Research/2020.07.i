@@ -17,7 +17,38 @@ feed July2020
 
   #
 
-  
+  // Evaluation of a Rapid Diagnostic Assay for Detection of SARS-CoV-2 Antigen in Nasopharyngeal Swabs
+  doi: https://doi.org/10.1128/JCM.00977-20
+  ref 'Lambert-Niclot_et_al_07_23_2020
+    head = In our study, the COVID-19 Ag Respi-Strip (Coris) had a sensitivity of 50% compare to that of RT-PCR. The test was more sensitive for high viral loads and might perhaps be used for patients within a few days after symptom onset, when the load in the upper respiratory tract is at its peak.
+
+
+    / July, 2020 - American Society for Microbiology Journals
+    quote !a =
+
+  # Swab
+  // Spatial and temporal dynamics of SARS-CoV-2 in COVID-19 patients: A systematic review and meta-analysis
+  doi: https://doi.org/10.1016/j.ebiom.2020.102916
+  ref 'Weiss_et_al_07_22_2020
+    head = Our analysis showed consistent viral detection from specimen from the upper respiratory tract (URT), the lower respiratory tract (LRT), and faeces, irrespective of the clinical severity of COVID-19. SARS-CoV-2 persists for a longer duration in the LRT compared to the URT in adult patients. Viral load was demonstrated to peak in earlier stages of infection in the URT compared to LRT.
+
+    >>> Background
+      The spatial and temporal dynamics of SARS-CoV-2 have been described in case series and retrospective studies. In this study, we provide a coherent overview of the duration of viral detection and viral RNA load in COVID-19 patients, stratified by specimen type, clinical severity, and age.
+
+    >>> Method
+      We systematically searched PubMed/MEDLINE and Cochrane review database for studies published between 1.11.2019 and 23.04.2020. We pooled the data of selected studies (22/7226 (650 patients) for meta-analysis) to estimate duration of viral detection and visualized viral load over time.
+
+    >>> Findings
+      Our analysis showed consistent viral detection from specimen from the upper respiratory tract (URT), the lower respiratory tract (LRT), and faeces, irrespective of the clinical severity of COVID-19. Our analysis suggests that SARS-CoV-2 persists for a longer duration in the LRT compared to the URT in adult patients (5•7 days in mild; 5•9 days in moderate-severe patients). The differences in the duration of viral detection between mild and moderate-severe patients is limited in the LRT, but an indication of longer duration of viral detection for moderate-severe patients was observed in feces (15 days in mild vs. 21 days in moderate-severe patients) and the URT (12 days in mild vs. 16 days in moderate-severe patients). Further, viral load was demonstrated to peak in earlier stages of infection in the URT compared to LRT.
+
+    >>>  Interpretation
+      This review may aid mathematical modelling and help in defining appropriate endpoints for clinical trails with antivirals in COVID-19.
+
+    -- quotes
+      !a
+
+    / February, 2020 - bioRxiv
+    quote !a = The differences in the duration of viral detection between mild and moderate-severe patients is limited in the LRT, but an indication of longer duration of viral detection for moderate-severe patients was observed in feces and the URT
 
   # Antibody Response
   // Distinct Early Serological Signatures Track with SARS-CoV-2 Survival
@@ -28,8 +59,7 @@ feed July2020
     >>> Abstract
       As SARS-CoV-2 infections and death counts continue to rise, it remains unclear why some individuals recover from infection, whereas others rapidly progress and die. Although the immunological mechanisms that underlie different clinical trajectories remain poorly defined, pathogen-specific antibodies often point to immunological mechanisms of protection. Here, we profiled SARS-CoV-2-specific humoral responses in a cohort of 22 hospitalized individuals. Despite inter-individual heterogeneity, distinct antibody signatures resolved individuals with different outcomes. Although no differences in SARS-CoV-2-specific IgG levels were observed, spike-specific humoral responses were enriched among convalescent individuals, whereas functional antibody responses to the nucleocapsid were elevated in deceased individuals. Furthermore, this enriched immunodominant spike-specific antibody profile in convalescents was confirmed in a larger validation cohort. These results demonstrate that early antigen-specific and qualitative features of SARS-CoV-2-specific antibodies point to differences in disease trajectory, highlighting the potential importance of functional antigen-specific humoral immunity to guide patient care and vaccine development.
 
-    -- quotes
-      !a
+
 
     / July, 2020 - Cell
     quote !a =

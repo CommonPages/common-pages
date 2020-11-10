@@ -53,6 +53,20 @@ feed June2020
 
   #
 
+  
+  // SARS-CoV-2 qRT-PCR Ct value distribution in Japan and possible utility of rapid antigen testing kit
+  doi: https://doi.org/10.1101/2020.06.16.20131243
+  ref 'Omi_et_al_06_19_2020
+    head = A certain number of patients with lower Ct values, existed in Japan when SARS-CoV-2 virus started to spread. The newly approved rapid antigen testing kit will be a useful tool to identify such populations rapidly.
+
+    >>> Abstract
+      The exact pathology of COVID-19 remains mostly unclear, and accurate epidemiological understanding and rapid testing are crucial to overcome this disease. Several types of nucleic acid tests (NAT) have been used in Japan, but information about the viral RNA load, determined by Ct values, of the patients is limited due to the small number of patients tested in each clinical institution and lack of standardization of the testing kits. We have been performing the qRT-PCR tests established by NIID, and the mean Ct value distribution of 62 cases, which are deemed (first-visit) patients, among the total of 88 positive cases tested in a 4-day window of early April, was 24.9 with SD=5.45. Recently approved antigen testing kits were also used in the same samples (62 positives) along with 100 negative cases, and it revealed the positive predictive value of 80.6% and negative predictive value of 100%, with an overall agreement rate of 92.6%. These results indicate that a certain number of patients with lower Ct values, existed in Japan when SARS-CoV-2 virus started to spread. The newly approved rapid antigen testing kit will be a useful tool to identify such populations rapidly.
+
+
+    / June, 2020 - MedRxiv
+    quote !a =
+
+
   # Limitations of PPE ?
   // Impact of Personal Protective Equipment on Surgical Performance During the COVID-19 Pandemic
   doi: https://doi.org/10.1007/s00268-020-05648-2

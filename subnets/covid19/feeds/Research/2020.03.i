@@ -113,6 +113,27 @@ feed March2020
 
   #
 
+  #
+  // Diagnosis of Acute Respiratory Syndrome Coronavirus 2 Infection by Detection of Nucleocapsid Protein
+  doi: https://doi.org/10.1101/2020.03.07.20032524
+  ref 'Diao_et_al_03_13_2020
+    head = Nucleocapsid protein assay is an accurate, rapid, early and simple method for diagnosis of COVID-19. Appearance of nucleocapsid protein in urine coincides our finding of the SARS-CoV-2 invading kidney and might be of diagnostic value.
+
+    >>> BACKGROUND
+      Nucleic acid test and antibody assay have been employed in the diagnosis for SARS-CoV-2 infection, but the use of viral antigen for diagnosis has not been successfully developed. Theoretically, viral antigen is the specific marker of the virus and precedes antibody appearance within the infected population. There is a clear need of detection of viral antigen for rapid and early diagnosis.
+    >>> METHODS
+      We included a cohort of 239 participants with suspected SARS-CoV-2 infection from 7 centers for the study. We measured nucleocapsid protein in nasopharyngeal swab samples in parallel with the nucleic acid test. Nucleic acid test was taken as the reference standard, and statistical evaluation was taken in blind. We detected nucleocapsid protein in 20 urine samples in another center, employing nasopharyngeal swab nucleic acid test as reference standard.
+    >>> RESULTS
+      We developed a fluorescence immunochromatographic assay for detecting nucleocapsid protein of SARS-CoV-2 in nasopharyngeal swab sample and urine within 10 minutes. 100% of nucleocapsid protein positive and negative participants accord with nucleic acid test for same samples. Further, earliest participant after 3 days of fever can be identified by the method. In an additional preliminary study, we detected nucleocapsid protein in urine in 73.6% of diagnosed COVID-19 patients.
+    >>> CONCLUSIONS
+      Those findings indicate that nucleocapsid protein assay is an accurate, rapid, early and simple method for diagnosis of COVID-19. Appearance of nucleocapsid protein in urine coincides our finding of the SARS-CoV-2 invading kidney and might be of diagnostic value.
+
+    -- quotes
+      !a
+
+    / March, 2020 - medRxiv
+    quote !a =
+
   # Ocular Transmission
   // Role of the Eye in Transmitting Human Coronavirus: What We Know and What We Do Not Know
   doi: https://doi.org/10.20944/preprints202003.0271.v2

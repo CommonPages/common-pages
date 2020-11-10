@@ -4,6 +4,68 @@ feed August2020
     'Boulware_et_al_08_06_2020
 
 
+  #
+
+
+  // Clinical Evaluation of Self-Collected Saliva by Quantitative Reverse Transcription-PCR (RT-qPCR), Direct RT-qPCR, Reverse Transcription-Loop-Mediated Isothermal Amplification, and a Rapid Antigen Test To Diagnose COVID-19
+  doi: https://doi.org/10.1128/jcm.01438-20
+  ref 'Nagura-Ikeda_et_al_08_24_2020
+    head = The RT-qPCR LDT, a cobas SARS-CoV-2 high-throughput system, direct RT-qPCR kits (except for one commercial kit), and RT-LAMP showed sufficient sensitivities in clinical use to be selectively used in clinical settings and facilities. The rapid antigen test alone is not recommended for an initial COVID-19 diagnosis because of its low sensitivity.
+
+    >>> Abstract
+      The clinical performances of six molecular diagnostic tests and a rapid antigen test for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) were clinically evaluated for the diagnosis of coronavirus disease 2019 (COVID-19) in self-collected saliva. Saliva samples from 103 patients with laboratory-confirmed COVID-19 (15 asymptomatic and 88 symptomatic) were collected on the day of hospital admission. SARS-CoV-2 RNA in saliva was detected using a quantitative reverse transcription-PCR (RT-qPCR) laboratory-developed test (LDT), a cobas SARS-CoV-2 high-throughput system, three direct RT-qPCR kits, and reverse transcription-loop-mediated isothermal amplification (RT-LAMP). The viral antigen was detected by a rapid antigen immunochromatographic assay. Of the 103 samples, viral RNA was detected in 50.5 to 81.6% of the specimens by molecular diagnostic tests, and an antigen was detected in 11.7% of the specimens by the rapid antigen test. Viral RNA was detected at significantly higher percentages (65.6 to 93.4%) in specimens collected within 9 days of symptom onset than in specimens collected after at least 10 days of symptoms (22.2 to 66.7%) and in specimens collected from asymptomatic patients (40.0 to 66.7%). Self-collected saliva is an alternative specimen option for diagnosing COVID-19. The RT-qPCR LDT, a cobas SARS-CoV-2 high-throughput system, direct RT-qPCR kits (except for one commercial kit), and RT-LAMP showed sufficient sensitivities in clinical use to be selectively used in clinical settings and facilities. The rapid antigen test alone is not recommended for an initial COVID-19 diagnosis because of its low sensitivity.
+
+
+    / August, 2020 - J Clin Microbiol
+    quote !a =
+
+
+  # Ct value
+  // Clinical Course and Molecular Viral Shedding Among Asymptomatic and Symptomatic Patients With SARS-CoV-2 Infection in a Community Treatment Center in the Republic of Korea
+  doi: https://doi.org/10.1001/jamainternmed.2020.3862
+  ref 'Lee_et_al_08_06_2020
+    head = In this cohort study of symptomatic and asymptomatic patients with SARS-CoV-2 infection ,the Ct values in asymptomatic patients were similar to those in symptomatic patients. Isolation of asymptomatic patients may be necessary to control the spread of SARS-CoV-2.
+
+    >>> Question
+      Are there viral load differences between asymptomatic and symptomatic patients with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection?
+
+    >>> Findings
+      In this cohort study that included 303 patients with SARS-CoV-2 infection isolated in a community treatment center in the Republic of Korea, 110 (36.3%) were asymptomatic at the time of isolation and 21 of these (19.1%) developed symptoms during isolation. The cycle threshold values of reverse transcription–polymerase chain reaction for SARS-CoV-2 in asymptomatic patients were similar to those in symptomatic patients.
+
+    >>> Meaning
+      Many individuals with SARS-CoV-2 infection remained asymptomatic for a prolonged period, and viral load was similar to that in symptomatic patients; therefore, isolation of infected persons should be performed regardless of symptoms.
+
+    / August, 2020 - JAMA Intern Med.
+    quote !a =
+
+  # Rapid Testing - Antigen
+  // Rapid, point-of-care antigen and molecular-based tests for diagnosis of SARS-CoV-2 infection
+  doi: https://doi.org/10.1002/14651858.cd013705
+  ref 'Dinnes_et_al_08_26_2020
+    head = This review identifies early-stage evaluations of point-of-care tests for detecting SARS-CoV-2 infection, largely based on remnant laboratory samples.  Rapid tests have the potential to be used to inform triage of RT-PCR use, allowing earlier detection of those testing positive, but the evidence currently is not strong enough to determine how useful they are in clinical practice.
+
+    >>> Background:
+      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and the resulting COVID-19 pandemic present important diagnostic challenges. Several diagnostic strategies are available to identify or rule out current infection, identify people in need of care escalation, or to test for past infection and immune response. Point-of-care antigen and molecular tests to detect current SARS-CoV-2 infection have the potential to allow earlier detection and isolation of confirmed cases compared to laboratory-based diagnostic methods, with the aim of reducing household and community transmission.
+
+    >>> Objectives:
+      To assess the diagnostic accuracy of point-of-care antigen and molecular-based tests to determine if a person presenting in the community or in primary or secondary care has current SARS-CoV-2 infection.
+
+    >>> Search methods:
+      On 25 May 2020 we undertook electronic searches in the Cochrane COVID-19 Study Register and the COVID-19 Living Evidence Database from the University of Bern, which is updated daily with published articles from PubMed and Embase and with preprints from medRxiv and bioRxiv. In addition, we checked repositories of COVID-19 publications. We did not apply any language restrictions.
+
+    >>> Selection criteria:
+      We included studies of people with suspected current SARS-CoV-2 infection, known to have, or not to have SARS-CoV-2 infection, or where tests were used to screen for infection. We included test accuracy studies of any design that evaluated antigen or molecular tests suitable for a point-of-care setting (minimal equipment, sample preparation, and biosafety requirements, with results available within two hours of sample collection). We included all reference standards to define the presence or absence of SARS-CoV-2 (including reverse transcription polymerase chain reaction (RT-PCR) tests and established clinical diagnostic criteria).
+
+    >>> Data collection and analysis:
+      Two review authors independently screened studies and resolved any disagreements by discussion with a third review author. One review author independently extracted study characteristics, which were checked by a second review author. Two review authors independently extracted 2x2 contingency table data and assessed risk of bias and applicability of the studies using the QUADAS-2 tool. We present sensitivity and specificity, with 95% confidence intervals (CIs), for each test using paired forest plots. We pooled data using the bivariate hierarchical model separately for antigen and molecular-based tests, with simplifications when few studies were available. We tabulated available data by test manufacturer.
+
+    >>> Main results:
+      We included 22 publications reporting on a total of 18 study cohorts with 3198 unique samples, of which 1775 had confirmed SARS-CoV-2 infection. Ten studies took place in North America, two in South America, four in Europe, one in China and one was conducted internationally. We identified data for eight commercial tests (four antigen and four molecular) and one in-house antigen test. Five of the studies included were only available as preprints. We did not find any studies at low risk of bias for all quality domains and had concerns about applicability of results across all studies. We judged patient selection to be at high risk of bias in 50% of the studies because of deliberate over-sampling of samples with confirmed COVID-19 infection and unclear in seven out of 18 studies because of poor reporting. Sixteen (89%) studies used only a single, negative RT-PCR to confirm the absence of COVID-19 infection, risking missing infection. There was a lack of information on blinding of index test (n = 11), and around participant exclusions from analyses (n = 10). We did not observe differences in methodological quality between antigen and molecular test evaluations. Antigen tests Sensitivity varied considerably across studies (from 0% to 94%): the average sensitivity was 56.2% (95% CI 29.5 to 79.8%) and average specificity was 99.5% (95% CI 98.1% to 99.9%; based on 8 evaluations in 5 studies on 943 samples). Data for individual antigen tests were limited with no more than two studies for any test. Rapid molecular assays Sensitivity showed less variation compared to antigen tests (from 68% to 100%), average sensitivity was 95.2% (95% CI 86.7% to 98.3%) and specificity 98.9% (95% CI 97.3% to 99.5%) based on 13 evaluations in 11 studies of on 2255 samples. Predicted values based on a hypothetical cohort of 1000 people with suspected COVID-19 infection (with a prevalence of 10%) result in 105 positive test results including 10 false positives (positive predictive value 90%), and 895 negative results including 5 false negatives (negative predictive value 99%). Individual tests We calculated pooled results of individual tests for ID NOW (Abbott Laboratories) (5 evaluations) and Xpert Xpress (Cepheid Inc) (6 evaluations). Summary sensitivity for the Xpert Xpress assay (99.4%, 95% CI 98.0% to 99.8%) was 22.6 (95% CI 18.8 to 26.3) percentage points higher than that of ID NOW (76.8%, (95% CI 72.9% to 80.3%), whilst the specificity of Xpert Xpress (96.8%, 95% CI 90.6% to 99.0%) was marginally lower than ID NOW (99.6%, 95% CI 98.4% to 99.9%; a difference of -2.8% (95% CI -6.4 to 0.8)) AUTHORS' CONCLUSIONS: This review identifies early-stage evaluations of point-of-care tests for detecting SARS-CoV-2 infection, largely based on remnant laboratory samples. The findings currently have limited applicability, as we are uncertain whether tests will perform in the same way in clinical practice, and according to symptoms of COVID-19, duration of symptoms, or in asymptomatic people. Rapid tests have the potential to be used to inform triage of RT-PCR use, allowing earlier detection of those testing positive, but the evidence currently is not strong enough to determine how useful they are in clinical practice. Prospective and comparative evaluations of rapid tests for COVID-19 infection in clinically relevant settings are urgently needed. Studies should recruit consecutive series of eligible participants, including both those presenting for testing due to symptoms and asymptomatic people who may have come into contact with confirmed cases. Studies should clearly describe symptomatic status and document time from symptom onset or time since exposure. Point-of-care tests must be conducted on samples according to manufacturer instructions for use and be conducted at the point of care. Any future research study report should conform to the Standards for Reporting of Diagnostic Accuracy (STARD) guideline.
+
+
+    / August, 2020 - Cochrane Database Syst Rev
+    quote !a =
+
   # VitaminD - RCT
   // Effect of calcifediol treatment and best available therapy versus best available therapy on intensive care unit admission and mortality among patients hospitalized for COVID-19: A pilot randomized clinical study
   doi: https://dx.doi.org/10.1016%2Fj.jsbmb.2020.105751

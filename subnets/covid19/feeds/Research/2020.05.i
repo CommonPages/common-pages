@@ -115,6 +115,89 @@ feed May2020
 
   #
 
+
+  # RT-PCR
+  // Comparison of seven commercial RT-PCR diagnostic kits for COVID-19
+  doi: https://doi.org/10.1016/j.jcv.2020.104412
+  ref 'Kasteren_et_al_05_08_2020
+    head = The aim of this study was to compare basic analytical and clinical performance of selected RT-PCR kits from seven different manufacturers (Altona Diagnostics, BGI, CerTest Biotec, KH Medical, PrimerDesign, R-Biopharm AG, and Seegene). PCR efficiency was ≥96 % for all assays and all may be used for routine diagnostics. 
+
+    >>> Abstract
+      The final months of 2019 witnessed the emergence of a novel coronavirus in the human population. Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has since spread across the globe and is posing a major burden on society. Measures taken to reduce its spread critically depend on timely and accurate identification of virus-infected individuals by the most sensitive and specific method available, i.e. real-time reverse transcriptase PCR (RT-PCR). Many commercial kits have recently become available, but their performance has not yet been independently assessed.
+
+      The aim of this study was to compare basic analytical and clinical performance of selected RT-PCR kits from seven different manufacturers (Altona Diagnostics, BGI, CerTest Biotec, KH Medical, PrimerDesign, R-Biopharm AG, and Seegene).
+
+      We used serial dilutions of viral RNA to establish PCR efficiency and estimate the 95 % limit of detection (LOD95). Furthermore, we ran a panel of SARS-CoV-2-positive clinical samples (n = 13) for a preliminary evaluation of clinical sensitivity. Finally, we used clinical samples positive for non-coronavirus respiratory viral infections (n = 6) and a panel of RNA from related human coronaviruses to evaluate assay specificity.
+
+      PCR efficiency was ≥96 % for all assays and the estimated LOD95 varied within a 6-fold range. Using clinical samples, we observed some variations in detection rate between kits. Importantly, none of the assays showed cross-reactivity with other respiratory (corona)viruses, except as expected for the SARS-CoV-1 E-gene.
+
+      We conclude that all RT-PCR kits assessed in this study may be used for routine diagnostics of COVID-19 in patients by experienced molecular diagnostic laboratories.
+
+    -- quotes
+      !a
+
+    / May, 2020 - Journal of Clinical Virology
+    quote !a =
+
+  # Antigen
+  // Development and Potential Usefulness of the COVID-19 Ag Respi-Strip Diagnostic Assay in a Pandemic Context
+  doi: https://doi.org/10.3389/fmed.2020.00225
+  ref 'Mertens_et_al_02_20_2020
+    head = The COVID-19 Ag Respi-Strip represents a promising rapid SARS-CoV-2 antigen assay for the first-line diagnosis of COVID-19 in 15 min at the peak of the pandemic.
+
+    >>> Introduction:
+      COVID-19 Ag Respi-Strip, an immunochromatographic (ICT) assay for the rapid detection of SARS-CoV-2 antigen on nasopharyngeal specimen, has been developed to identify positive COVID-19 patients allowing prompt clinical and quarantine decisions. In this original research article, we describe the conception, the analytical and clinical performances as well as the risk management of implementing the COVID-19 Ag Respi-Strip in a diagnostic decision algorithm.
+    >>> Materials and Methods:
+      Development of the COVID-19 Ag Respi-Strip resulted in a ready-to-use ICT assay based on a membrane technology with colloidal gold nanoparticles using monoclonal antibodies directed against the SARS-CoV and SARS-CoV-2 highly conserved nucleoprotein antigen. Four hundred observations were recorded for the analytical performance study and thirty tests were analyzed for the cross-reactivity study. The clinical performance study was performed in a retrospective multi-centric evaluation on aliquots of 328 nasopharyngeal samples. COVID-19 Ag Respi-Strip results were compared with qRT-PCR as golden standard for COVID-19 diagnostics.
+    >>> Results:
+      In the analytical performance study, the reproducibility showed a between-observer disagreement of 1.7%, a robustness of 98%, an overall satisfying user friendliness and no cross-reactivity with other virus-infected nasopharyngeal samples. In the clinical performance study performed in three different clinical laboratories during the ascendant phase of the epidemiological curve, we found an overall sensitivity and specificity of 57.6 and 99.5%, respectively with an accuracy of 82.6%. The cut-off of the ICT was found at CT <22. User-friendliness analysis and risk management assessment through Ishikawa diagram demonstrate that COVID-19 Ag Respi-Strip may be implemented in clinical laboratories according to biosafety recommendations.
+    >>> Conclusion:
+      The COVID-19 Ag Respi-Strip represents a promising rapid SARS-CoV-2 antigen assay for the first-line diagnosis of COVID-19 in 15 min at the peak of the pandemic. Its role in the proposed diagnostic algorithm is complementary to the currently-used molecular techniques.
+
+    -- quotes
+      !a
+
+    / May, 2020 - Front. Med.
+    quote !a =
+
+
+  # Antigen
+  // Evaluation of a novel antigen-based rapid detection test for the diagnosis of SARS-CoV-2 in respiratory samples
+  doi: https://doi.org/10.1016/j.ijid.2020.05.098
+  ref 'Porte_et_al_05_31_2020
+    head = The RDT evaluated in this study showed a high sensitivity and specificity in samples mainly obtained during the first week of symptoms and with high viral loads, despite the use of a non-validated sample material.
+
+    >>> Objectives
+      In the context of the coronavirus disease 2019 (COVID-19) pandemic, the development and validation of rapid and easy-to-perform diagnostic methods are of high priority. This study was performed to evaluate a novel rapid antigen detection test (RDT) for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in respiratory samples.
+
+    >>> Methods
+      The fluorescence immunochromatographic SARS-CoV-2 antigen test (Bioeasy Biotechnology Co., Shenzhen, China) was evaluated using universal transport medium with nasopharyngeal (NP) and oropharyngeal (OP) swabs from suspected COVID-19 cases. Diagnostic accuracy was determined in comparison to SARS-CoV-2 real-time (RT)-PCR.
+
+    >>> Results
+      A total of 127 samples were included; 82 were RT-PCR-positive. The median patient age was 38 years, 53.5% were male, and 93.7% were from the first week after symptom onset. Overall sensitivity and specificity were 93.9% (95% confidence interval 86.5–97.4%) and 100% (95% confidence interval 92.1–100%), respectively, with a diagnostic accuracy of 96.1% and Kappa coefficient of 0.9. Sensitivity was significantly higher in samples with high viral loads.
+
+    >>> Conclusions
+      The RDT evaluated in this study showed a high sensitivity and specificity in samples mainly obtained during the first week of symptoms and with high viral loads, despite the use of a non-validated sample material. The assay has the potential to become an important tool for early diagnosis of SARS-CoV-2, particularly in situations with limited access to molecular methods.
+
+    / May, 2020 - International Society for Infectious Diseases.
+    quote !a =
+
+  #
+  // Head-to-head comparison of four antigen-based rapid detection tests for the diagnosis of SARS-CoV-2 in respiratory samples
+  doi: https://doi.org/10.1101/2020.05.27.119255
+  ref 'Weitzel_et_al_05_30_2020
+    head = The study highlighted the significant heterogeneity of test performance among evaluated assays, which might have been influenced by the use of a non-validated sample material. The high sensitivity of some tests demonstrated that rapid antigen detection has the potential to serve as an alternative diagnostic method, especially in patients presenting with high viral loads in early phases of infection.
+
+    >>> Abstract
+      In the context of the Covid-19 pandemic, the development and validation of rapid and easy-to-perform diagnostic methods are of high priority. We compared the performance of four rapid antigen detection tests for SARS-CoV-2 in respiratory samples. Immunochromatographic SARS-CoV-2 assays from RapiGEN, Liming bio, Savant, and Bioeasy were evaluated using universal transport medium containing naso-oropharyngeal swabs from suspected Covid-19 cases. The diagnostic accuracy was determined in comparison to SARS-CoV-2 RT-PCR. A total of 111 samples were included; 80 were RT-PCR positive. Median patients’ age was 40 years, 55% were female, and 88% presented within the first week after symptom onset. The evaluation of the Liming bio assay was discontinued due to insufficient performance. The overall sensitivity values of RapiGEN, Liming bio, and Bioeasy tests were 62.0% (CI95% 51.0–71.9), 16.7% (CI95% 10.0–26.5), and 85.0% (CI95% 75.6–91.2), respectively, with specificities of 100%. Sensitivity was significantly higher in samples with high viral loads (RapiGEN, 84.9%; Bioeasy, 100%). The study highlighted the significant heterogeneity of test performance among evaluated assays, which might have been influenced by the use of a non-validated sample material. The high sensitivity of some tests demonstrated that rapid antigen detection has the potential to serve as an alternative diagnostic method, especially in patients presenting with high viral loads in early phases of infection. This is particularly important in situations with limited access to RT-PCR or prolonged turnaround time. Further comparative evaluations are necessary to select products with high performance among the growing market of diagnostic tests for SARS-CoV-2.
+
+    -- quotes
+      !a
+
+    / May, 2020 - MedRxiv
+    quote !a =
+
+
   // Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study
   doi: https://doi.org/10.1016/S1473-3099(20)30196-1
   ref 'To_et_al_05_20_2020
@@ -3469,7 +3552,7 @@ feed May2020
   // Predicting infectious SARS-CoV-2 from diagnostic samples
   doi: https://doi.org/10.1093/cid/ciaa638
   ref 'Bullard_et_al_05_22_2020
-    head = Our study showed no positive viral cultures with a Ct greater than 24 or STT greater than 8 days. The odds of a positive culture were decreased by 32% for each unit increase in Ct.
+    head = SARS-CoV-2 Vero cell infectivity was only observed for RT-PCR Ct < 24 and STT < 8 days. Infectivity of patients with Ct >24 and duration of symptoms >8 days may be low. For every 1-unit increase in Ct, the odds ratio for infectivity decreased by 32%.
 
     >>> Background
       RT-PCR has become the primary method to diagnose viral diseases, including SARS-CoV-2. RT-PCR detects RNA, not infectious virus, thus its ability to determine duration of infectivity of patients is limited. Infectivity is a critical determinant in informing public health guidelines/interventions. Our goal was to determine the relationship between E gene SARS-CoV-2 RT-PCR cycle threshold (Ct) values from respiratory samples, symptom onset to test (STT) and infectivity in cell culture.
