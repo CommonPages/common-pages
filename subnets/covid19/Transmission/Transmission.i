@@ -11,6 +11,6 @@ subject module Transmission
   >>>
     Given the above modes of transmission, the virus could spread widely in most common settings and conditions of our daily interactions ending up as a pandemic.
   --
-    Settings
+    SettingsNew
     Spreading
     # TransMechanism

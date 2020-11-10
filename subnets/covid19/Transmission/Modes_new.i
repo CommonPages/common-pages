@@ -1,10 +1,10 @@
-let *viral-shedding mean Virus.Shedding
-let *shed mean Virus.Shedding
-let *entry mean Virus.Entry
+# let *viral-shedding mean Virus.Shedding.ViralShedding
+# let *shed mean Virus.Shedding.ViralShedding
+# let *entry mean Virus.Entry.EntrytoHost
 
 / Modes_new
 subject module ModesNew
-  head = nCov-2 spreads primarily by inhaling or entry of respiratory droplets directly from infected patients (when in close proximity or through aeroslisation) and indirectly by touching fomites (infected surfaces etc) or fecal mode. However the extent of transmission in each of these modes is still unsettled. Until then, insights into transmission emerge from informed extensions of evidence from two sources: (1) the mechanisms of *viral-shedding, *entry and the behaviour of virus in the environment; and (2) the observations in numerous case reports.
+  head = nCov-2 spreads primarily by inhaling or entry of respiratory droplets directly from infected patients (when in close proximity or through aerosolisation) and indirectly by touching fomites (infected surfaces etc). However the extent of transmission in each of these modes is still unsettled. Until then, insights into transmission emerge from informed extensions of evidence from two sources: (1) the mechanisms of viral-shedding, entry and the behaviour of virus in the environment; and (2) the observations in numerous case reports.
   # --
   #   PublicSpace.!Narrative.L1\1
   --
@@ -16,7 +16,7 @@ subject module ModesNew
 
   / Direct Transmission
   subject module Direct
-    head = The virus can spread directly from infected person to another person by entry of these respiratory droplets through air (or by physical contact) while in close contact for prolonged duration with the infected person.
+    head = The virus can spread directly from infected person to another person by entry of these respiratory droplets through air (or by physical contact) while in prolonged close contact with the infected person.
     # --
     # PublicSpace.!Narrative.L2\2\1
     --
@@ -26,7 +26,8 @@ subject module ModesNew
 
     / Through aerial route
     subject Airborne_trans
-      head = Though it is clear that the virus can spread through respiratory droplets with virus *shed into air by infected patients, the extent of transmission at larger distances especially by aerosols (droplets of size <5um) is yet to be conclusively proven. Gathering unequivocal evidence for this could take years. However the differences are of the degree of transmission and
+      head = Though it is clear that the virus can spread through respiratory droplets shed into air by infected patients, the extent of transmission at larger distances especially by aerosols (droplets of size <5um) is yet to be conclusively proven.
+      # However the differences in the debate are not about the nature but the degree of the transmission.
       --
         Droplets
         Aerosols
@@ -35,7 +36,8 @@ subject module ModesNew
 
       / Heavy Droplets
       subject Droplets
-        head = The virus is known to spread primarily by droplets released by infected patients during regular activities including speaking. These could be very heavy and infective at close distances (typically about 6 ft).
+        head = The virus is known to spread primarily by respiratory droplets released by infected patients while coughing and sneezing and also speaking.
+        # These could be very heavy and infective at close distances (typically about 6 ft).
         >>>
           Controlled Laboratory Studies clearly demonstrate the spread of respiratory droplets.
         --
@@ -45,8 +47,9 @@ subject module ModesNew
           head =
           --
             'Morawska_et_al_11_18_2008
+
         subject DropletsReports
-          head = There are numerous case reports with hints of transmission through respiratory droplets.
+          head = There are numerous case reports with hint of transmission through respiratory droplets.
           -- case reports
             'Lu_et_al_2020
             'Pung_et_al_03_28_2020
@@ -86,8 +89,19 @@ subject module ModesNew
             'Milton_et_al_07_24_2020
 
       / Aerosols
-      dispute Aerosols
-        head = The respiratory droplets could be aerosolised (minute) and float to larger distances (beyond 6 ft) with potential infectivity esp in poorly ventilated spaces.
+      subject Aerosols
+        head = The respiratory droplets could be aerosolised (minute typically <5um) and float to larger distances (beyond 6 ft) with potential infectivity esp in closed and poorly ventilated spaces.
+
+        >>> Claim
+          Aerosol is found to be viable upto 3 hours.
+        --
+          'van_Doremalen_et_al_2020
+          'van_Doremalen_et_al_2020.!a
+        >>>
+          However the infectivity of these
+
+        >>>
+
 
         -- Viability
           'van_Doremalen_et_al_2020

@@ -1,6 +1,6 @@
-/ Settings_old
-subject module Settings_old
-  head = Reports indicate that nCoV-2 is highly prone to spread in closed, crowded, multi-use spaces  -- both household and public-spaces -- encouraging porlonged close interactions with positive patients.
+/ Settings
+subject module SettingsNew
+  head = Reports indicate that nCoV-2 is highly prone to spread in closed, crowded, multi-use spaces -- both household and public-spaces -- which encourage prolonged close interactions with positive patients.
   --
     GenericLocation
     Events
