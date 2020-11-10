@@ -1,7 +1,7 @@
 
 / Nature of the Spread
 subject module Spreading
-  head = The order, scale and nature of spreading is also different in different cases, and it is often important epidemiologically and could inform policies of public health (mitigation and treatment).
+  head = The order, scale and nature of spreading is different in different cases, and it is often important epidemiologically and could inform policies of public health (mitigation and treatment).
   --
     TransmissionOrder
     TransmissionScale

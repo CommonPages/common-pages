@@ -1,6 +1,12 @@
-/ Modes
-subject module Modes
-  head = Numerous case reports indicate that nCov-2 is prone to spread primarily by inhaling or entry of respiratory droplets directly from infected patients (when in close proximity) or through aeroslisation as well as indirectly by touching fomites (infected surfaces etc). However the extent of transmission in each of these modes are still debated.
+let *viral-shedding mean Virus.Shedding.ViralShedding
+let *shed mean Virus.Shedding.ViralShedding
+let *entry mean Virus.Entry.EntrytoHost
+
+/ Modes_new
+subject module ModesNew
+  head = nCov-2 spreads primarily by inhaling or entry of respiratory droplets directly from infected patients (when in close proximity or through aeroslisation) and indirectly by touching fomites (infected surfaces etc) or fecal mode. However the extent of transmission in each of these modes is still unsettled. Until then, insights into transmission emerge from informed extensions of evidence from two sources: (1) the mechanisms of *viral-shedding, *entry and the behaviour of virus in the environment; and (2) the observations in numerous case reports.
+  --
+    PublicSpace.!Narrative.L1\1
   --
     Direct
   --
@@ -10,24 +16,17 @@ subject module Modes
 
   / Direct Transmission
   subject module Direct
-    head = The virus can spread directly from infected person to another person by inhalation of respiratory droplets through air or sharing food, or being in close physical contact for prolonged duration with the infected person.
+    head = The virus can spread directly from infected person to another person by entry of these respiratory droplets through air (or by physical contact) while in close contact for prolonged duration with the infected person.
     # --
-    #   PublicSpace.!Narrative.L2\2\1
-
+    # PublicSpace.!Narrative.L2\2\1
     --
       Airborne_trans
-      SharedFood
       Embracing_and_Direct_Touch_Hand_shaking
-      CloseContact
-      Prolonged_Interactions
-    -- Latest papers on person to person
-      'Zheng_et_al_03_14_2020
-      'Liu_et_al_03_12_2020
-      'Yu_et_al_02_18_2020
+      ProlongedCloseContact
 
     / Through aerial route
     subject Airborne_trans
-      head = The virus can spread through respiratory droplets with virus released into air by infected patients, as indicated by numerous reports and models/ simulations.
+      head = Though it is clear that the virus can spread through respiratory droplets with virus *shed into air by infected patients, the extent of transmission at larger distances especially by aerosols (droplets of size <5um) is yet to be conclusively proven. Gathering unequivocal evidence for this could take years. However the differences are of the degree of transmission and
       --
         Droplets
         Aerosols
@@ -37,48 +36,57 @@ subject module Modes
       / Heavy Droplets
       subject Droplets
         head = The virus is known to spread primarily by droplets released by infected patients during regular activities including speaking. These could be very heavy and infective at close distances (typically about 6 ft).
-        -- mechanism
-          'Morawska_et_al_11_18_2008
-        -- case reports
-          'Lu_et_al_2020
-          'Pung_et_al_03_28_2020
-          'Yamagishi_et_al_06_11_2020
-          'Jang_et_al_05_15_2020
-          'Morawska_et_al_06_09_2006
-          'Wang_et_al_04_05_2011
-          'Scharfman_et_al_01_20_2016
-          'Anfinrud_04_06_2020
-          'Gupta_et_al_2010
-          'Zhang_et_al_04_07_2020
-          'Asadi_et_al_2019
-          'Morawska_et_al_11_18_2008
-          'Jayaweera_et_al_06_10_2020
-          'Somsen_et_al_05_27_2020
-          'Papineni_et_al_01_30_2009
-          'Duguid_et_al_05_15_2009
-          'Bahl_et_al_04_16_2020
-          'Bourouiba_et_al_03_26_2020
-          'Bourouiba_et_al_08_25_2016
-          'Tang_et_al_08_17_2006
-          'Wong_et_al_02_10_2004
-          'Anfinrud_et_al_04_15_2020
-          'Nishiura_et_al_03_03_2020
-          'Leung_et_al_2020
-          'Gralton_et_al_08_19_2013
-          'Bourouiba_et_al_04_25_2004
-          'Xiao_et_al_02_20_2020
-          'Hamner_et_al_2020
-          'Anderson_et_al_05_01_2020
-          'Chen_et_al_08_01_2020
-          'Beggs_et_al_05_26_2020
-          'Ong_et_al_03_04_2020
-          'Xiao_et_al_08_05_2020
-          'Santarpia_et_al_06_03_2020
-          'Lei_et_al_12_15_2017
-          'Milton_et_al_07_24_2020
+        >>>
+          Controlled Laboratory Studies clearly demonstrate the spread of respiratory droplets.
+        --
+          DropletsMechanism
+          DropletsReports
+        subject DropletsMechanism
+          head =
+          --
+            'Morawska_et_al_11_18_2008
+        subject DropletsReports
+          head = There are numerous case reports with hints of transmission through respiratory droplets.
+          -- case reports
+            'Lu_et_al_2020
+            'Pung_et_al_03_28_2020
+            'Yamagishi_et_al_06_11_2020
+            'Jang_et_al_05_15_2020
+            'Morawska_et_al_06_09_2006
+            'Wang_et_al_04_05_2011
+            'Scharfman_et_al_01_20_2016
+            'Anfinrud_04_06_2020
+            'Gupta_et_al_2010
+            'Zhang_et_al_04_07_2020
+            'Asadi_et_al_2019
+            'Morawska_et_al_11_18_2008
+            'Jayaweera_et_al_06_10_2020
+            'Somsen_et_al_05_27_2020
+            'Papineni_et_al_01_30_2009
+            'Duguid_et_al_05_15_2009
+            'Bahl_et_al_04_16_2020
+            'Bourouiba_et_al_03_26_2020
+            'Bourouiba_et_al_08_25_2016
+            'Tang_et_al_08_17_2006
+            'Wong_et_al_02_10_2004
+            'Anfinrud_et_al_04_15_2020
+            'Nishiura_et_al_03_03_2020
+            'Leung_et_al_2020
+            'Gralton_et_al_08_19_2013
+            'Bourouiba_et_al_04_25_2004
+            'Xiao_et_al_02_20_2020
+            'Hamner_et_al_2020
+            'Anderson_et_al_05_01_2020
+            'Chen_et_al_08_01_2020
+            'Beggs_et_al_05_26_2020
+            'Ong_et_al_03_04_2020
+            'Xiao_et_al_08_05_2020
+            'Santarpia_et_al_06_03_2020
+            'Lei_et_al_12_15_2017
+            'Milton_et_al_07_24_2020
 
       / Aerosols
-      dispute Aerosols
+      subject Aerosols
         head = The respiratory droplets could be aerosolised (minute) and float to larger distances (beyond 6 ft) with potential infectivity esp in poorly ventilated spaces.
         -- Viability
           'van_Doremalen_et_al_2020
@@ -217,19 +225,6 @@ subject module Modes
             'Liu_et_al_03_10_2020.!c
             'Ding_et_al_08_15_2020
 
-    / Sharing food
-    subject SharedFood
-      head = There are reports on the spread of nCov-2 involving sharing food.
-      # with an infected patient could also spread the virus providing a channel of direct entry.
-      --
-        'Ghinai_et_al_04_17_2020
-        'Ju-Kim_et_al_04_08_2020
-        'Chaw_et_al_07_10_2020
-        'Pung_et_al_03_28_2020
-        'Tong_et_al_03_09_2020
-        'Burke_et_al_05_03_2020
-        'Chen_et_al_05_10_2020
-        'Zhao_et_al_06_03_2020
 
     / Physical contact
     subject Embracing_and_Direct_Touch_Hand_shaking
@@ -240,27 +235,35 @@ subject module Modes
         'Pung_et_al_03_28_2020
         'Hijnen_et_al_05_11_2020
 
-    / Close Contact
-    subject CloseContact
-      head = Close contact even without physical contact with an infected patient raises the chances of geting infected.
-      --
+    / Prolonged Close Interactions
+    subject ProlongedCloseContact
+      head = Close contact for prolonged durations even without physical contact with an infected patient raises the chances of geting infected.
+      -- Close Contact
         'Chen_et_al_05_10_2020
         'Shen_et_al_06_12_2020
         'Yong_et_al_04_21_2020.!b
         'Olsen_et_al_12_18_2003
         'Kenyon_et_al_04_11_1996
-
-    / Prolonged Interactions
-    subject Prolonged_Interactions
-      head = In general, prolonged interactions (like co-habiting, co-working or co-travelling) with an infected patient raises the chances of geting infected. If ineveitable, shortening the duration of interactions could reduce the infectivity.
-      --
+      -- Prolonged Durations
         'Park_et_al_04_23_2020
         'Tobolowsky_et_al_05_01_2020
         'Pung_et_al_03_28_2020
 
+    # / Prolonged Interactions
+    # subject Prolonged_Interactions
+    #   head = In general, prolonged interactions (like co-habiting, co-working or co-travelling) with an infected patient raises the chances of geting infected. If ineveitable, shortening the duration of interactions could reduce the infectivity.
+    #   --
+    #     'Park_et_al_04_23_2020
+    #     'Tobolowsky_et_al_05_01_2020
+    #     'Pung_et_al_03_28_2020
+    # -- Latest papers on person to person
+    #   'Zheng_et_al_03_14_2020
+    #   'Liu_et_al_03_12_2020
+    #   'Yu_et_al_02_18_2020
+
   / Indirect Transmission
   subject module Indirect
-    head = The virus can spread indirectly through  fomites (infected surfaces), feces.
+    head = The virus can also spread indirectly through  fomites (infected surfaces), feces. However some recent articles indicate that the transmission through this could be exaggerated.
     --
       Fomites
       MucousContact

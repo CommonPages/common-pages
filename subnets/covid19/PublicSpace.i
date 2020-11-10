@@ -11,7 +11,7 @@ let *contested mean Transmission.Modes.Indirect.Fomites.CounterFomiteArgument
 let *activity mean Transmission.Modes.Indirect.Fomites.ActiveFomite
 let *surface mean Transmission.Modes.Indirect.Fomites
 let *mucous mean Transmission.Modes.Indirect.MucousContact
-let *aerosolToilet mean Transmission.Modes.Direct.Airborne_trans.Aerosols.AerosolToilet
+let *toilet mean Transmission.Modes.Direct.Airborne_trans.Aerosols.AerosolToilet
 let *aerosols mean Transmission.Modes.Direct.Airborne_trans.Aerosols
 let *droplets mean Transmission.Modes.Direct.Airborne_trans.Droplets
 let *close-contact mean Transmission.Modes.Direct.CloseContact
@@ -110,21 +110,21 @@ subject module PublicSpace
   #     + b = Usage of -.masks is hence widely recommended to reduce the spread of the virus through the droplets
 
   line !Narrative
-    head = COVID-19 is potentially tansmissible in closed, crowded, multi-use spaces  -- both houehold and public-spaces -- encouraging porlonged close interactions with positive patients. Local authorities across the world have been issuing varied recommendations suitable to the local conditions.
+    head = COVID-19 is potentially transmissible in closed, crowded, multi-use spaces  -- both household and public-spaces -- encouraging porlonged close interactions with positive patients. Local authorities across the world have been issuing varied recommendations as per the local conditions.
 
-    + L1 = The virus is known to spread primarily by inhalation or entry of the droplets *directly from an infected person through mouth, nose or eyes.
+    + L1 = The virus is known to spread primarily by inhalation or *entry of the droplets *directly from an infected person through mouth, nose or eyes.
       \
-        + L1_1 = The droplets of various sizes are *shed not only by *symptomatic patients when they sneeze and cough but also by *asymptomatic patients during normal speech or singing.
+        + 1 = The droplets of various sizes are *shed not only by *symptomatic patients when they sneeze and cough but also by *asymptomatic patients during normal speech or singing.
           \
-            + L2_1 = The respiratory droplets released from nose or mouth carry the virus.
+            + 1 = The respiratory droplets released from nose or mouth carry the virus.
               \
-                + b = The virus is present primarily in upper respiratory tracts (throat, nose and mouth).
+                + 1 = The virus is present primarily in upper respiratory tracts (throat, nose and mouth).
                   \
                     > 'Woelfel_et_al_2020
                     > 'Woelfel_et_al_2020b.!e
                     > 'Yang_et_al_2020
 
-            + L2_2 = These *droplets are released while sneezing, coughing, speaking, singing etc.
+            + 2 = These *droplets are released while sneezing, coughing, speaking, singing etc.
               \
                 > 'Scharfman_et_al_01_20_2016
                 > 'Anfinrud_04_06_2020
@@ -133,131 +133,133 @@ subject module PublicSpace
                 > 'Nishiura_et_al_03_03_2020
                 > 'Bourouiba_et_al_04_25_2004
 
-            + L2_3 = These droplets are of different sizes and they behave differently due to different physical properties and environmental conditions.
+            + 3 = These droplets are of different sizes and they behave differently due to different physical properties and environmental conditions.
               \
-                + L2_3_1 = When the droplets are large (in size) they fall off under their own weight and can settle on surfaces at closer distances forming *fomites.
+                + 1 = When the droplets are large (in size) they fall off under their own weight and can settle on surfaces at closer distances forming *fomites.
 
-                + L2_3_2 = When the droplets are too small in size they form aerosols and can stay afloat for longer durations and travel more distance.
+                + 2 = When the droplets are too small in size they form aerosols and can stay afloat for longer durations and travel more distance.
 
-                + L2_3_3 = As these droplets travel and settle on surfaces the virus can spread *indirectly.
+                + 3 = As these droplets travel and settle on surfaces the virus can spread *indirectly.
                   # \ !Narrative.L2
 
-            + L2_4 = Symptomatic patients can *shed the virus through *droplets as they tend to cough or sneeze more.
+            + 4 = Symptomatic patients can *shed the virus through *droplets as they tend to cough or sneeze more.
               \
-                + L2_4_1 = The *viral-load could be high in *symptomatic patients and hence have a higher potential to spread the virus.
+                + 1 = The *viral-load could be high in *symptomatic patients and hence have a higher potential to spread the virus.
 
-            + L2_5 = Asymptomatic patients can *shed the virus through droplets when they speak or even by breath in close proximity.
+            + 5 = Asymptomatic patients can *shed the virus through droplets when they speak or even by breath in close proximity.
               \
-                + L2_5_1 = The *viral-load may not be very high in *asymptomatic cases, yet transmission on prolonged exposure could be possible.
+                + 1 = The *viral-load may not be very high in *asymptomatic cases, yet transmission on prolonged exposure could be possible.
 
                 > 'Woolhouse_et_al_1997
                 > 'Qian_et_al_03_17_2020
 
-            + L2_6 = *Faeces of infected persons are also found to have some traces of the virus. However infectivity of the same is yet to be conclusively ascertained.
+            + 6 = *Faeces of infected persons are also found to have some traces of the virus. However infectivity of the same is yet to be conclusively ascertained.
 
-        + L1_2 = A person is prone to infection by the entry of the virus *directly from an infected person by being at *close-contact (closer distances) through *droplets (large droplets), *mucous etc., and even at slightly larger distances (See *social-distancing) through *aerosols (tiny droplets).
+        + 2 = A person is prone to infection by the *entry of the virus *directly from an infected person by being at *close-contact (closer distances) through *droplets (large droplets), *mucous etc., and even at slightly larger distances (See *social-distancing) through *aerosols (tiny droplets).
           \
-            + L3_1 = This is the most definitive mode of transmission, as proved by various studies and case reports.
+            + 1 = This is the most definitive mode of transmission, as proved by various studies and case reports.
 
-            + L3_2 = Mitigation - Usage of *masks and *PPE is hence widely recommended to reduce the spread of the virus through the *droplets.
+            + 2 = *Prolonged interactions with *physical or *close-contact to an infected patient or with someone who was in close contact with infected person without precautions (like *hand-washing) raises the chances of infectivity.
+
+            + 3 = Mitigation - Usage of *masks and *PPE is hence widely recommended to reduce the spread of the virus through the *droplets.
               \
-                + L3_2_1 = Masks and Face shields can reduce the *droplets of spread from the wearer significantly. Also, it can reduce the risk of droplets from outside entering the wearer.
-                + L3_2_2 = PPEs can protect the wearer from the risk of *droplets from outside entering the wearer.
+                + 1 = Masks and Face shields can reduce the *droplets of spread from the wearer significantly. Also, it can reduce the risk of droplets from outside entering the wearer.
+                + 2 = PPEs can protect the wearer from the risk of *droplets from outside entering the wearer.
 
-            + L3_3 = Also, people are asked to maintain physical distance, popularly known as *social-distancing.
+            + 4 = Also, people are asked to maintain physical distance, popularly known as *social-distancing.
 
-        + L1_3 = *Prolonged interactions with *physical or *close-contact to an infected patient or with someone who was in close contact with infected person without precautions (like *hand-washing) raises the chances of infectivity.
+        + 3 = The *entry of the virus is primarily through mouse, nose. Entry through eyes is also possible but is yet to be conclusively understood.
 
-    + L2 = Further, the virus can enter *indirectly by touching/rubbing one’s face after touching a *surface with infective droplets settled on it or through  aerosols while flushing a toilet (*aerosolToilet).
+    + L2 = Further, the virus can enter *indirectly by touching/rubbing one’s face after touching a *surface with infective droplets settled on it or through  aerosols while flushing in a *toilet.
       \
-        + L2_1 = This is indirect and scientists consider this a potent mode of transmission.
-        + L2_2 = Mitigation - Frequent handwash and usage of gloves are hence recommended. Also, rubbing hands in the face is to be avoided.
+        + 1 = This is indirect and scientists consider this a potent mode of transmission.
+        + 2 = Mitigation - Frequent handwash and usage of gloves are hence recommended. Also, rubbing hands in the face is to be avoided.
           \
-            + L2_2_1 = This is because hands are the main organs that we touch the outer world as well as touch ourselves - esp our mouth, nose and eyes; we don’t touch our face with our legs or stomach.
-            + L2_2_2 = Hence keeping the hands clean by frequent *hand-washing as well as away from the face could help avoid the risk of viral entry.
+            + 1 = This is because hands are the main organs that we touch the outer world as well as touch ourselves - esp our mouth, nose and eyes; we don’t touch our face with our legs or stomach.
+            + 2 = Hence keeping the hands clean by frequent *hand-washing as well as away from the face could help avoid the risk of viral *entry.
 
 
-    + L3 = Infectivity of the droplets depends on various factors and the specifics are yet to be conclusively agreed upon by the researchers. Hence controversies and debates with multiple narratives exist.
+    + L3 = Transmission and infectivity of the virus depend on various factors and the specifics are yet to be conclusively agreed upon by the researchers. Hence controversies and debates with multiple narratives exist.
       \
         <= Multiple factors have complex interactions in determining the final infectivity. For example
-        + L3_1 = The *viral-load of the droplet depending on the host state.
+        + 1 = The *viral-load of the droplet depending on the host state.
           \
-            + L3_1_1 = Viral load varies with the number of days of infection and immune response of the host.
-        + L3_2 = The size of the droplets and the range of the physical distance till which they can spread.
+            + 1 = Viral load varies with the number of days of infection and immune response of the host.
+        + 2 = The size of the droplets and the range of the physical distance till which they can spread.
           \
-            + L3_2_1 = There has been intense debates on aerosolisation and the inefectivity due to this among researchers. But under common environmental conditions (esp in indoors and poorly ventilated spaces), infectivity with aerosols is found.
+            + 1 = There has been intense debates on aerosolisation and the inefectivity due to this among researchers. But under common environmental conditions (esp in indoors and poorly ventilated spaces), infectivity with aerosols is found.
 
-            + L3_2_2 = This has very close relation to the extent and nature of measures like *social-distancing  and usage of *masks.
+            + 2 = This has very close relation to the extent and nature of measures like *social-distancing  and usage of *masks.
 
             >  'Morawska_et_al_11_18_2008
-        + L3_3 = Duration of the live (active) state of the virus on various *fomites and their infectivity.
+        + 3 = Duration of the live (active) state of the virus on various *fomites and their infectivity.
           \
-            + L3_3_1 = Virus is active on different surfaces for different durations
+            + 1 = Virus is active on different surfaces for different durations
               \
-                + L3_3_1_1 = These surfaces are *disinfected accordingly.
+                + 1 = These surfaces are *disinfected accordingly.
 
-            + L3_3_2 = The relative potential of the transmission via fomites is now being contested.
+            + 2 = The relative potential of the transmission via fomites is now being contested.
 
-        + L3_4 = The *environment-conditions like *airflow, *temperature-and-humidity, *Seasonal-variations
+        + 4 = The *environment-conditions like *airflow, *temperature-and-humidity, *Seasonal-variations
           \
-            + L3_4_1 = All the above factors affect the physical properties of aerosols and the activity of virus in the environment, once shed by the host.
+            + 1 = All the above factors affect the physical properties of aerosols and the activity of virus in the environment, once shed by the host.
 
-            + L3_4_2 = The active state of the virus itself could be dependent on the *temperature-and-humidity.
+            + 2 = The active state of the virus itself could be dependent on the *temperature-and-humidity.
               \
-                + L3_4_2_1 = The activity of the virus in the air could be dependent on *temperature-and-humidity.
+                + 1 = The activity of the virus in the air could be dependent on *temperature-and-humidity.
 
-                + L3_4_2_2 = These factors are influence the *activity of the virus on the fomites.
+                + 2 = These factors are influence the *activity of the virus on the fomites.
 
-            + L3_4_3 = *Seasonal-variations are normal in flus and the a second wave of COVID-19 is widely predicted in the winter of 2020-21.
+            + 3 = *Seasonal-variations are normal in flus and the a second wave of COVID-19 is widely predicted in the winter of 2020-21.
 
-            + L3_4_4 = Local factors like the *airflow due to air conditioning, esp in closed spaces could influence the spread of the virus.
+            + 4 = Local factors like the *airflow due to air conditioning, esp in closed spaces could influence the spread of the virus.
               \
-                + L3_4_4_1 = A report on the spread of virus in restaurants and air travel specifically identifies air-flow as a possible cause.
+                + 1 = A report on the spread of virus in restaurants and air travel specifically identifies air-flow as a possible cause.
                   \
                     > 'Lu_et_al_2020
 
-                + L3_4_4_2 = Hence it is recommended to avoid air conditioning in closed conditions.
+                + 2 = Hence it is recommended to avoid air conditioning in closed conditions.
 
 
     + L4 = The transmission can happen in and out of the *household. A typical individual in the society involved in a lot of physical transactions with others directly and by being in *multiuse places while travelling, shopping, working etc.
       \
-        + L4_1 = Transmission of the disease has been reported in many multi-use public spaces like *restaurants and *clubs, *hospitals, *conferences, *gyms, *shopping-places, *religious-gatherings etc some of them becoming *super-spreader events.
+        + 1 = Transmission of the disease has been reported in many multi-use public spaces like *restaurants and *clubs, *hospitals, *conferences, *gyms, *shopping-places, *religious-gatherings etc some of them becoming *super-spreader events.
 
-        + L4_2 = Most of the evidence indicate higher chances of the spread of the virus in indoor locations (like the ones listed above) with poor *ventilation and crowded conditions with *Prolonged interactions.
+        + 2 = Most of the evidence indicate higher chances of the spread of the virus in indoor locations (like the ones listed above) with poor *ventilation and crowded conditions with *Prolonged interactions.
           \
-            + L4_2_1 = As seen earlier, chances of direct transmission could be high in the presence of an infected patient in indoor conditions esp in certain conditions.
+            + 1 = As seen earlier, chances of direct transmission could be high in the presence of an infected patient in indoor conditions esp in certain conditions.
 
-            + L4_2_2 = This is indicated by numerous reports of transmission within *household conditions.
+            + 2 = This is indicated by numerous reports of transmission within *household conditions.
 
-            + L4_2_3 = Also, reports indicate emergence of clusters in poorly ventilated spaces like *restaurants and *clubs.
+            + 3 = Also, reports indicate emergence of clusters in poorly ventilated spaces like *restaurants and *clubs.
 
-            + L4_2_4 = Congregations like the *religious-gatherings with crowded indoor spaces are also seen to be super-spreading.
+            + 4 = Congregations like the *religious-gatherings with crowded indoor spaces are also seen to be super-spreading.
 
-            + L4_2_5 = Spaces requiring *Prolonged interactions also increase the chances of the spread of the disease like *household and *office spaces.
+            + 5 = Spaces requiring *Prolonged interactions also increase the chances of the spread of the disease like *household and *office spaces.
 
-        + L4_3 = There is very limited evidence until now for the spread of the virus in *outdoor locations, though some experts donot deny the possibility.
+        + 3 = There is very limited evidence until now for the spread of the virus in *outdoor locations, though some experts donot deny the possibility.
 
     + L5 = Various guidelines and protocols for these activities and reopening of the public spaces are being developed by authorities like CDC in consultation with the researchers.
       \
-        + L5_1 = For, organisations and mitigation measures range from different operational protocols for disinfecting commonly used surfaces etc to potential structural and systemic changes ensuring safe and secure operations (like workspaces with *social-distancing) and transactions in the way we have been transacting in the societies.
+        + 1 = For, organisations and mitigation measures range from different operational protocols for disinfecting commonly used surfaces etc to potential structural and systemic changes ensuring safe and secure operations (like workspaces with *social-distancing) and transactions in the way we have been transacting in the societies.
 
-        + L5_2 = At personal level, there have been generic guidelines to wear *PPE including *masks (capable of not letting the virus and droplets to spread out from and enter into the body).
+        + 2 = At personal level, there have been generic guidelines to wear *PPE including *masks (capable of not letting the virus and droplets to spread out from and enter into the body).
           \
-            + L5_2_1 = Usage of *masks is primarily recommended to reduce the spread of virus *shed by the host. However, it can also in reduce to some extent the entry of virus.
+            + 1 = Usage of *masks is primarily recommended to reduce the spread of virus *shed by the host. However, it can also in reduce to some extent the *entry of virus.
 
-            + L5_2_2 = Appropriate usage of personal protective equipment (*PPE) also could block the droplets and thereby reduce the chances of entry of the virus into the body. PPE suits, gloves, and face-shields are often used for this purpose.
+            + 2 = Appropriate usage of personal protective equipment (*PPE) also could block the droplets and thereby reduce the chances of *entry of the virus into the body. PPE suits, gloves, and face-shields are often used for this purpose.
 
-            + L5_2_3 = There were numerous reports of the transmission of the virus especially in high *viral-load and *viral-shedding situations like in hospitals or households with infected patients when *no-PPEs were used.
+            + 3 = There were numerous reports of the transmission of the virus especially in high *viral-load and *viral-shedding situations like in hospitals or households with infected patients when *no-PPEs were used.
 
-            + L5_2_4 = Guidelines for the usage of these are given along with the larger socio-cultural and economical considersations by local authorities acorss the world.
+            + 4 = Guidelines for the usage of these are given along with the larger socio-cultural and economical considersations by local authorities acorss the world.
 
-        + L5_3 = Maintaining a *social-distance of about 6 feet/2m from each other, was another generic guideline to reduce the the transmission.
+        + 3 = Maintaining a *social-distance of about 6 feet/2m from each other, was another generic guideline to reduce the the transmission.
           \
-            + L5_3_1 = This distance of 6 feet may not always be conducive esp in indoor conditions with poor ventilation where the virus *shed from a host can spread through aerosolisation.
+            + 1 = This distance of 6 feet may not always be conducive esp in indoor conditions with poor ventilation where the virus *shed from a host can spread through aerosolisation.
 
-        + L5_4 = At personal level, frequent *hand-washing (preemptively to avoid spread when we touch an infected surface and then the face) is another also a frequently recommended  measure.
+        + 4 = At personal level, frequent *hand-washing (preemptively to avoid spread when we touch an infected surface and then the face) is another also a frequently recommended  measure.
           \
-            + L5_4_1 = Frequent *hand-washing ensures that the hands are clean even if we touch multi-use *fomites.
+            + 1 = Frequent *hand-washing ensures that the hands are clean even if we touch multi-use *fomites.
 # >>>
 #   nCov-2 is known to spread primarily by inhalation on direct contact with the droplets (Singhal 2020). This can happen in multiple modes ranging from touching infected surfaces and the face or by directly being in close proximity to an infected patient. The droplets of various sizes are released not only by symptomatic patients when they sneeze and cough but also by asymptomatic patients (Kimball et al. 2020; Tobolowsky et al. 2020) in close proximity during normal speech. How infective these droplets depend on various factors and the specifics are yet to be conclusively agreed upon by the researchers. For example, the viral load of the droplet depending on the host state;
   #   size of the droplets and the range of the physical distance till which they can spread
