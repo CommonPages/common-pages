@@ -6,7 +6,7 @@ subject module Masking
   / WHO Masking Guidelines
   // Timeline of WHO Guidance on Masking
   subject WHO
-    head = Changing recommendations on community-wide masking for healthy people have been a notable source of public contention throughout the COVID-19 pandemic. The WHO reversed their recommendation to the general public in the early months in the pandemic, despite the organization's largely consistent assessment of the scientific evidence up to now.
+    head = Changing recommendations on community-wide masking for healthy people have been a notable source of public contention throughout the COVID-19 pandemic. The WHO reversed their recommendation to the general public in the early months of the pandemic, despite the organization's largely consistent portrayal of the scientific evidence up to now.
 
     let !April_guidelines mean !InitialMaskingGuidelines
     let !June_update mean !UpdatedGuidelines
