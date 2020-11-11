@@ -2,6 +2,7 @@
 / Masking
 subject module Masking
 
+  public: who-masking-guidelines
   / WHO Masking Guidelines
   // Timeline of WHO Guidance on Masking
   subject WHO
