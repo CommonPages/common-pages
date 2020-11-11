@@ -5592,7 +5592,7 @@ feed Pre2019
 
   # Tag - Background
   // T Cell Responses Are Required for Protection from Clinical Disease and for Virus Clearance in Severe Acute Respiratory Syndrome Coronavirus-Infected Mice
-  doi: 10.1128/JVI.01049-10
+  doi: https://doi.org/10.1128/JVI.01049-10
   ref 'Zhao_et_al_2010
     head = Inefficient immune activation and a poor virus-specific T cell response underlie severe disease in SARS-CoV-infected mice. We examine whether a robust antivirus T cell response was sufficient to protect mice in the absence of interventions that activated the innate immune response. We provide a new approach to SARS vaccine design.
 
@@ -5636,3 +5636,9 @@ feed Pre2019
 
     / Journal of Virological Methods - September, 2004
     quote !a =
+
+  // ON AIR-BORNE INFECTION: STUDY II. DROPLETS AND DROPLET NUCLEI.
+  doi: https://doi.org/10.1093/oxfordjournals.aje.a118097
+  ref 'Wells_11_01_1934
+
+    # https://en.wikipedia.org/wiki/Wells_curve

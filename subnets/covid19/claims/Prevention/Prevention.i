@@ -1,56 +1,25 @@
 
 / Prevention
 subject module Prevention
-  head = For individuals attempting to prevent an infection, potential interventions include increased hand hygiene, masking, social distancing and the disinfection of surfaces, among others. Evidence as to the efficacy of these interventions are sourced primarily from research into other respiratory infections. Their applicability to the COVID-19 outbreak remains an area of active research.
+  head = For individuals attempting to prevent an infection, potential interventions include increased hand hygiene, masking, the disinfection of surfaces, and social distancing or isolation, among others. Evidence as to the efficacy of these interventions are sourced primarily from research into other respiratory infections. Their applicability to COVID-19 is an area of active research.
 
-  / Social Distancing
-  subject SocialDistancing
-    -- Social Distancing
-      'Cowling_et_al_2020
-      'Cowling_et_al_2020.!a
-      'Lavezzo_et_al_04_18_2020
-      'Chu_et_al_06_01_2020
-      'Cheng_et_al_03_19_2020
-      'Doung-ngern_et_al_08_14_2020
-      'Adam_et_al_2020.!j
-      'Miller_et_al_2020b
-    -- Six-foot rule
-      'Feigin_et_al_1982
-      'Setti_et_al_04_23_2020
-      'Jones_et_al_08_25_2020
-    -- Quarantine
-      'Dandekar_et_al_2020
-      'Xia_et_al_2020
-      'Cowling_et_al_2020
-      'Pan_et_al_2020.!e
-      'Jing_et_al_2020
-      'Sanche_et_al_2020.!f
-      'Chan_et_al_2020.!k
-      'Bi_et_al_04_27_2020.!k
-      'Cheng_et_al_03_19_2020
-      'Adam_et_al_2020.!g
-      'Miller_et_al_2020b
-      'Tom_et_al_2020.!i
-    -- chains of transmission did not terminate in quarantine
-      'Adam_et_al_2020.!i
+  --
+    SocialDistancing
+    HandWashing
+    Masking
+    Gloving
+    Disinfection
+    Antimicrobial
+  --
+    ProtectiveDevices
 
-  / Hand Washing
-  subject HandWashing
-    head = Hand washing with soap and water to remove viruses is an effective measure to stop individual transmissibility of COVID-19.
-    --
-      'Ryan_et_al_2001
-      'Jefferson_et_al_2008
-
-  / Personal Protective Equipments
+  / Personal Protective Equipment
   subject ProtectiveDevices
     head = Research suggests that face coverings and surgical masks can prevent large particles spreading from an infected person wearing a mask to someone else. The inappropriate use of PPE equipment has been linked to an increase in rates of the transmission of infection.
 
     --
       Facemasks
 
-
-    -- Gloves
-      'King_et_al_04_24_2020
 
     >>>
       Faceshields should be used as a last resort.

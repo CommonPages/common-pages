@@ -113,6 +113,28 @@ feed March2020
 
   #
 
+  // Turbulent Gas Clouds and Respiratory Pathogen Emissions; Potential Implications for Reducing Transmission of COVID-19
+  doi: https://doi.org/10.1001/jama.2020.4756
+  ref 'Bourouiba_03_26_2020
+    head = The rapid international spread of COVID-19 suggests that using arbitrary droplet size cutoffs may not accurately reflect what actually occurs with respiratory emissions. The WHO and CDC recommendations for COVID-19 for separations of 3 to 6 feet may underestimate the distance, timescale, and persistence over which the SARS-CoV-2 may travel.
+
+    --
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    quote !a = The rapid international spread of COVID-19 suggests that using arbitrary droplet size cutoffs may not accurately reflect what actually occurs with respiratory emissions, possibly contributing to the ineffectiveness of some procedures used to limit the spread of respiratory disease.
+
+    quote !b = Recent work has demonstrated that exhalations, sneezes, and coughs not only consist of mucosalivary droplets following short-range semiballistic emission trajectories but, importantly, are primarily made of a multiphase turbulent gas (a puff) cloud that entrains ambient air and traps and carries within it clusters of droplets with a continuum of droplet sizes.
+
+    quote !c = Given various combinations of an individual patient’s physiology and environmental conditions, such as humidity and temperature, the gas cloud and its payload of pathogen-bearing droplets of all sizes can travel 23 to 27 feet (7-8 m).
+
+    quote !d = A 2020 report from China demonstrated that SARS-CoV-2 virus particles could be found in the ventilation systems in hospital rooms of patients with COVID-19. Finding virus particles in these systems is more consistent with the turbulent gas cloud hypothesis of disease transmission than the dichotomous model because it explains how viable virus particles can travel long distances from patients.
+
+    quote !e = The WHO and CDC recommendations for COVID-19 are based on estimates of range that have not considered the possible presence of a high-momentum cloud carrying the droplets long distances. Given the turbulent puff cloud dynamic model, recommendations for separations of 3 to 6 feet may underestimate the distance, timescale, and persistence over which the cloud and its pathogenic payload travel.
+
   #
   // Diagnosis of Acute Respiratory Syndrome Coronavirus 2 Infection by Detection of Nucleocapsid Protein
   doi: https://doi.org/10.1101/2020.03.07.20032524
@@ -1203,7 +1225,7 @@ feed March2020
     quote !l = The serological courses of all patients suggest a timing of seroconversion similar to or slightly earlier than in SARS-CoV infection. Seroconversion in most cases of SARS occurred during the second week of symptoms. As in SARS and MERS, IgM was not detected significantly earlier than IgG in immunofluorescence, which might in part be due to technical reasons as the higher avidity of IgG antibodies outcompetes IgM for viral epitopes in the assay. IgG depletion can only partially alleviate this effect.
 
     / March, 2020 - Medrxiv
-    quote !m = When aligned to viral load courses, it seems there is no abrupt virus elimination at the time of seroconversion. Rather, seroconversion early in week 2 coincides with a slow but steady decline of sputum viral load. Whether certain properties such as glycosylation pattern at critical sites of the glycoprotein play a role in the attenuation of neutralizing antibody response needs further clarification. 
+    quote !m = When aligned to viral load courses, it seems there is no abrupt virus elimination at the time of seroconversion. Rather, seroconversion early in week 2 coincides with a slow but steady decline of sputum viral load. Whether certain properties such as glycosylation pattern at critical sites of the glycoprotein play a role in the attenuation of neutralizing antibody response needs further clarification.
 
 
   # Tag - Frontiers, Pregnancy, Estrogen, Endocrine-related targets may drive treatments, androgen-driven TMPRSS2 expression among men may explain the sex discrepancy, Supportive evidence for estrogen continues to mount from women tested at childbirth, Estrogen receptor agonists- We need clinical trials for these in COVID19. These downregulate a protease critical for entry & replication of SARS-CoV-2 -- TMPRSS2, no death in pregnant woman

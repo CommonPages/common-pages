@@ -2,6 +2,12 @@
 index: hide
 . Triage
 
+  / Aerosol-generating Procedure
+  model *AGPs
+    head = An aerosol-generating procedure (AGP) is a medical or health-care procedure that results in the production of airborne particles (aerosols) or respiratory droplets, which may be pathogenic.
+
+    # https://en.wikipedia.org/wiki/Aerosol-generating_procedure
+
   # model *SocialNetworks
   #
   # model *SuperSpreader
