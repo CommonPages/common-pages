@@ -193,14 +193,19 @@ feed March2020
       !a
       !b
       !c
+      !d
 
+    / The Lancet, Respiratory Medicine — March 3, 2020
+    quote !a = There is an essential distinction between absence of evidence and evidence of absence. Evidence that face masks can provide effective protection against respiratory infections in the community is scarce, as acknowledged in recommendations from the UK and Germany.
 
-    / Universal mask usage prevents discrimination
-    quote !a =  Evidence that face masks can provide effective protection against respiratory infections in the community is scarce, as acknowledged in recommendations from the UK and Germany. However, face masks are widely used by medical workers as part of droplet precautions when caring for patients with respiratory infections. It would be reasonable to suggest vulnerable individuals avoid crowded areas and use surgical face masks rationally when exposed to high-risk areas. As evidence suggests COVID-19 could be transmitted before symptom onset, community transmission might be reduced if everyone, including people who have been infected but are asymptomatic and contagious, wear face masks.
-    / Universal mask usage prevents discrimination
+    / The Lancet, Respiratory Medicine — March 3, 2020
+    quote !b = However, face masks are widely used by medical workers as part of droplet precautions when caring for patients with respiratory infections. It would be reasonable to suggest vulnerable individuals avoid crowded areas and use surgical face masks rationally when exposed to high-risk areas. As evidence suggests COVID-19 could be transmitted before symptom onset, community transmission might be reduced if everyone, including people who have been infected but are asymptomatic and contagious, wear face masks.
+
+    / The Lancet, Respiratory Medicine — March 3, 2020
     quote !c = One advantage of universal use of face masks is that it prevents discrimination of individuals who wear masks when unwell because everybody is wearing a mask.
-    / Mask usage prevents potential asymptomatic or presymptomatic transmission
-    quote !b = Recommendation: Perhaps it would also be rational to recommend that people in quarantine wear face masks if they need to leave home for any reason, to prevent potential asymptomatic or presymptomatic transmission.
+
+    / The Lancet, Respiratory Medicine — March 3, 2020
+    quote !d = WHO currently recommends that people should wear face masks if they have respiratory symptoms or if they are caring for somebody with symptoms. Perhaps it would also be rational to recommend that people in quarantine wear face masks if they need to leave home for any reason, to prevent potential asymptomatic or presymptomatic transmission.
 
 
   # Hydroxychloroquine

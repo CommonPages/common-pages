@@ -1,7 +1,14 @@
 
-/ Prevention
+/ Protection
 subject module Prevention
-  head = For individuals attempting to prevent an infection, potential interventions include increased hand hygiene, masking, the disinfection of surfaces, and social distancing or isolation, among others. Evidence as to the efficacy of these interventions are sourced primarily from research into other respiratory infections. Their applicability to COVID-19 is an area of active research.
+  head = For healthy individuals attempting to prevent an infection, potential interventions include increased hand hygiene, masking, the disinfection of surfaces, and social distancing or isolation, among others. Evidence for their efficacy are sourced primarily from research in other respiratory infections. Their applicability to COVID-19 is an area of active research.
+
+  --
+    !Challenges
+    !Protocol
+
+  --- see also
+    Containment
 
   --
     SocialDistancing
@@ -12,6 +19,17 @@ subject module Prevention
     Antimicrobial
   --
     ProtectiveDevices
+
+
+  claim !Challenges = Evaluating the effectiveness of individual infection prevention mechansisms is challenging. While there is indirect mechanistic evidence suggestive of efficacy for some interventions (hand washing and masking), their contributions to individual infection risk reduction are difficult to assess.
+
+    claim !a = Data on actual infection rates are usually studied at the community level.
+
+    claim !b = Community level interventions are typically evaluated with protocols combining multiple interventions. Most studies found little or no benefit to isolated interventions, but modest benefit for combined interventions.
+      --
+        'Cowling_et_al_10_06_2009.!c
+
+  claim !Protocol = Despite challenges in evaluating individual measures, there is evidence that adoption of typical hygiene and masking protocols is associated with lower community level infection rates. Evidence is robust for respiratory viruses in general, and moderate (but growing) for COVID-19 in particular.
 
   / Personal Protective Equipment
   subject ProtectiveDevices
@@ -52,8 +70,6 @@ subject module Prevention
         MaskRisk
       --
         MaskReuse
-      --
-        UniversalMasking
 
 
       / Cloth facemask
@@ -116,20 +132,20 @@ subject module Prevention
             'Hao_et_al_07_21_2020
 
 
-        # / Policy recommendations regarding use of facemask
-        # subject Policy
-        #   head = Various organisations and studies have made recommendations for using cloth facemaks by general public.
-        #   --
-        #     'WHO_06_2020
-        #     'Abaluck_04_2020.!policy
-        #     'Abaluck_04_2020.!policy1
-        #     'WHO_06_2020.!n
-        #     'Strasser_et_al_05_22_2020.!a
-        #     'Zhao_et_al_06_02_2020
-        #   >>>
-        #     Use of homemade cloth masks can also help in reducing the load on masks required for medical professionals and can have substantial impact in terms of cost savings.
-        #   --
-        #     'Abaluck_04_2020.!c
+        / Policy recommendations regarding use of facemask
+        subject Policy
+          head = Various organisations and studies have made recommendations for using cloth facemaks by general public.
+          --
+            'WHO_06_2020
+            'Abaluck_04_2020.!policy
+            'Abaluck_04_2020.!policy1
+            'WHO_06_2020.!n
+            'Strasser_et_al_05_22_2020.!a
+            'Zhao_et_al_06_02_2020
+          >>>
+            Use of homemade cloth masks can also help in reducing the load on masks required for medical professionals and can have substantial impact in terms of cost savings.
+          --
+            'Abaluck_04_2020.!c
 
       / Medical or Surgical Mask
       subject Medicalmask
@@ -183,12 +199,12 @@ subject module Prevention
             'Quan_et_al_01_04_2017
 
         # / Policy
-        # subject Policy
-        #   head = Regulation on use of medical masks
-        #   --
-        #     'WHO_06_2020.!r
-        #     'Wong_et_al_2006.!a
-        #     #'Leung_et_al_2020.!f
+        subject Policy
+          head = Regulation on use of medical masks
+          --
+            'WHO_06_2020.!r
+            'Wong_et_al_2006.!a
+            #'Leung_et_al_2020.!f
 
       / N95 mask
       subject N95mask
@@ -271,7 +287,6 @@ subject module Prevention
           'Hwang_et_al_03_07_2016
           'Sande_et_al_2008.!a
           'Balazy_et_al_2006.!a
-          'Balazy_et_al_2006.!b
           'Jung_et_al_08_28_2013
           'MacIntyre_et_al_04_21_2020
         -- Surgical Masks and N95 Respirator
@@ -315,7 +330,7 @@ subject module Prevention
           'Shakaya_et_al_06_17_2016
           'Sande_et_al_2008.!a
           'Davies_et_al_05_22_2013
-          'Mueller_et_al_05_18_2020.!a
+          'Mueller_et_al_07_19_2020.!a
           'Ho_et_al_05_18_2020.!a
           'Jung_et_al_08_28_2013
 
@@ -353,7 +368,7 @@ subject module Prevention
             'Leung_et_al_2020
           -- Prevents potential asymptomatic or presymptomatic transmission
             'Feng_et_al_03_20_2020.!b
-            'Maclntyre_et_al_04_30_2020.!a
+            'MacIntyre_et_al_04_21_2020.!g
             'Gandhi_et_al_07_31_2020
             'Gandhi_et_al_09_08_2020
             'Eikenberry_et_al_04_21_2020.!c
@@ -388,7 +403,7 @@ subject module Prevention
           >>>
             Mask can reduce risk of severe infections
           --
-            'Macintyre_et_al_2009.!a
+            'MacIntyre_et_al_2009.!a
             'Reza_et_al_2011.!a
           >>>
             Effectiveness of different types of protective equipment in reducing the rate of infection was correlated to the compliance in Donning (Properly putting on PPE).
@@ -547,42 +562,6 @@ subject module Prevention
           Medicalmask.Reuse
           N95mask.Reuse
 
-
-      / Effectiveness of Universal Masking
-      subject UniversalMasking
-        head = Universal masking in public complements social distancing and hand hygiene in containing or slowing down the otherwise exponential growth of the pandemic. It has shown to protect against cross-transmission through unavoidable person-to-person contact during the lockdown and reduces the risk for resurgence during relaxation of social distancing measures. A high degree of compliance will maximise the impact of universal masking in public.
-        -- Universal Masking
-          'MacIntyre_et_al_04_21_2020
-          'Maclntyre_et_al_04_30_2020.!a
-          'Li_et_al_08_14_2020
-          'Sergi_et_al_05_13_2020
-          'Ho_et_al_05_18_2020.!a
-          'Klompas_et_al_06_03_2020
-          'Eikenberry_et_al_04_21_2020.!a
-          'Eikenberry_et_al_04_21_2020.!d
-          'Schunemann_et_al_08_03_2020.!a
-          'Gandhi_et_al_09_08_2020
-          'Feng_et_al_03_20_2020.!a
-          'Feng_et_al_03_20_2020.!c
-        -- Universal masking associated with a significantly lower rate of SARS-CoV-2 positivity among HCWs.
-          'Wang_et_al_07_14_2020
-          'Brooks_et_al_07_14_2020
-        >>>
-          There is evidence that facemask use slows the growth rate of cases and deaths.
-        -- Large scale study
-          'Abaluck_04_2020.!a
-        >>>
-          Also there is evidence that use of masks in mass gatherings helps prevent spread of respiratory diseases.
-        --
-          'Barasheed_et_al_03_29_2016
-          'Barasheed_et_al_03_2014.!a
-          'Leffler_et_al_08_05_2020
-        >>>
-          There are cultural differences on the use of facemask. In general, in the East it is usually percevied much more positively, while in the West it is not.
-        --
-          'Elachola_et_al_03_20_2020
-        -- Theoretical Studies
-          'Stutt_et_al_06_10_2020
 
   / Disinfection
   subject Disinfection

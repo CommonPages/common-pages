@@ -42,3 +42,5 @@ import Figures._
 import Research.October2020._
 
 let *Mutation mean $os-life.cell.gene.Mutation
+
+let *source_control mean *SourceControl

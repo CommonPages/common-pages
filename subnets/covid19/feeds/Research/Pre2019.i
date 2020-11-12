@@ -254,6 +254,9 @@ feed Pre2019
   -- October, 2007
     'Wu_et_al_2007
 
+  -- November, 2006
+    'Wong_et_al_2006
+
   -- July, 2006
     'Follis_et_al_07_05_2006
 
@@ -387,7 +390,7 @@ feed Pre2019
   // Evaluating the efficacy of cloth facemasks in reducing particulate matter exposure
   doi: https://doi.org/10.1038/jes.2016.42
   ref 'Shakaya_et_al_06_17_2016
-    head = Cloth masks are only marginally beneficial in protecting individuals from particles<2.5 μm. Compared with cloth masks, disposable surgical masks are more effective in reducing particulate exposure.
+    head = Inexpensive cloth masks are widely used in developing countries to protect from particulate pollution albeit limited data on their efficacy exists. This study examined the efficiency of four types of masks (three types of cloth masks and one type of surgical mask) commonly worn in the developing world.
 
     >>> Abstract
       Inexpensive cloth masks are widely used in developing countries to protect from particulate pollution albeit limited data on their efficacy exists. This study examined the efficiency of four types of masks (three types of cloth masks and one type of surgical mask) commonly worn in the developing world. Five monodispersed aerosol sphere size (30, 100, and 500 nm, and 1 and 2.5 μm) and diluted whole diesel exhaust was used to assess facemask performance. Among the three cloth mask types, a cloth mask with an exhaust valve performed best with filtration efficiency of 80–90% for the measured polystyrene latex (PSL) particle sizes. Two styles of commercially available fabric masks were the least effective with a filtration efficiency of 39–65% for PSL particles, and they performed better as the particle size increased. When the cloth masks were tested against lab-generated whole diesel particles, the filtration efficiency for three particle sizes (30, 100, and 500 nm) ranged from 15% to 57%. Standard N95 mask performance was used as a control to compare the results with cloth masks, and our results suggest that cloth masks are only marginally beneficial in protecting individuals from particles<2.5 μm. Compared with cloth masks, disposable surgical masks are more effective in reducing particulate exposure.
@@ -395,7 +398,7 @@ feed Pre2019
     -- quotes
       !a
 
-    / Medical masks are better than cloth masks
+    / Journal of Exposure Science & Environmental Epidemiology — June 17, 2016
     quote !a = Cloth masks are only marginally beneficial in protecting individuals from particles<2.5 μm. Compared with cloth masks, disposable surgical masks are more effective in reducing particulate exposure.
 
   #  Face masks, children, efficacy
@@ -456,7 +459,7 @@ feed Pre2019
       !a
       !b
 
-    / Comparison of respirators, medical masks and cloth masks
+    / July, 2008 - PLoS One
     quote !a = Personal respirators were more efficient than surgical masks, which were more efficient than home-made masks.
 
     / July, 2008 - PLoS One
@@ -484,7 +487,7 @@ feed Pre2019
   // Testing the Efficacy of Homemade Masks: Would They Protect in an Influenza Pandemic?
   doi: https://dx.doi.org/10.1017%2Fdmp.2013.43
   ref 'Davies_et_al_05_22_2013
-    head = Our findings suggest that a homemade mask should only be considered as a last resort to prevent droplet transmission from infected individuals, but it would be better than no protection.
+    head = This study examined homemade masks as an alternative to commercial face masks. Our findings suggest that a homemade mask should only be considered as a last resort to prevent droplet transmission from infected individuals, but it would be better than no protection.
 
     >>> Objective
       This study examined homemade masks as an alternative to commercial face masks.
@@ -500,9 +503,13 @@ feed Pre2019
 
     -- quotes
       !a
+      !b
 
-    / Comparison of surgical and homemade masks
-    quote !a = Surgical mask was 3 times more effective in blocking transmission than the homemade mask. Homemade mask should only be considered as a last resort to prevent droplet transmission from infected individuals, but it would be better than no protection.
+    / Disaster Medicine and Public Health Preparedness — May 22, 2013
+    quote !a = Both masks significantly reduced the number of microorganisms expelled by volunteers, although the surgical mask was 3 times more effective in blocking transmission than the homemade mask.
+
+    / Disaster Medicine and Public Health Preparedness — May 22, 2013
+    quote !b = Our findings suggest that a homemade mask should only be considered as a last resort to prevent droplet transmission from infected individuals, but it would be better than no protection.
 
 
 
@@ -3056,7 +3063,7 @@ feed Pre2019
   // Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review
   doi: https://doi.org/10.1136/bmj.39393.510347.BE
   ref 'Jefferson_et_al_2008
-    head = We found that physical barriers such as handwashing, wearing a mask, and isolation of potentially infected patients were effective in preventing the spread of respiratory virus infections.
+    head = Objective: To systematically review evidence for the effectiveness of physical interventions to interrupt or reduce the spread of respiratory viruses. Conclusion: Routine long term implementation of some physical measures to interrupt or reduce the spread of respiratory viruses might be difficult but many simple and low cost interventions could be useful in reducing the spread.
 
     >>> Objective
       To systematically review evidence for the effectiveness of physical interventions to interrupt or reduce the spread of respiratory viruses.
@@ -3071,14 +3078,22 @@ feed Pre2019
       Routine long term implementation of some physical measures to interrupt or reduce the spread of respiratory viruses might be difficult but many simple and low cost interventions could be useful in reducing the spread.
 
 
+    -- quotes
+      !d
+      !b
+      !c
+
     / January, 2008 - BMJ
     quote !a = The most impressive effects came from high quality cluster randomised trials in preventing the spread of respiratory virus into the community using hygienic measures aimed at younger children. One study reported a significant decrease in respiratory illness in children up to age 24 months, although the decrease was not significant in older children. Another study reported a 50% lower incidence of pneumonia in children aged less than 5 years in a developing country.
 
     / January, 2008 - BMJ
-    quote !b = Meta-analysis of six case-control studies assessed the impact of public health measures to curb the spread of the SARS epidemic in China, Singapore, and Vietnam in 2003. The data suggest that implementing barriers to transmission, isolation, and hygienic measures are effective and relatively cheap interventions to contain epidemics of respiratory viruses, such as SARS, with estimates of effect ranging from 55% to 91%: washing hands more than 10 times daily (odds ratio 0.45, 95% confidence interval 0.36 to 0.57, NNT=4, 95% confidence interval 3.65 to 5.52); wearing masks (0.32, 0.25 to 0.40, NNT=6, 4.54 to 8.03); wearing N95 masks (0.09, 0.03 to 0.30, NNT=3, 2.37 to 4.06); wearing gloves (0.43, 0.29 to 0.65, NNT=5, 4.15 to 15.41); wearing gowns (0.23, 0.14 to 0.37, NNT=5, 3.37 to 7.12); and handwashing, masks, gloves, and gowns combined (0.09, 0.02 to 0.35, NNT=3, 2.66 to 4.97).
+    quote !b = Meta-analysis of six case-control studies assessed the impact of public health measures to curb the spread of the SARS epidemic in China, Singapore, and Vietnam in 2003. The data suggest that implementing barriers to transmission, isolation, and hygienic measures are effective and relatively cheap interventions to contain epidemics of respiratory viruses, such as SARS.
 
     / January, 2008 - BMJ
     quote !c = One case-control study concluded that handwashing needs to be carried out more than 10 times daily to be effective. One study, in a military training setting, reported a need to wash hands more than four times daily. During one month of the respiratory syncytical virus “season” on a ward containing 22 cribs, one study reported that 5350 gowns and 4850 masks were used.
+
+    / January, 2008 - BMJ
+    quote !d = In this systematic review we found that physical barriers such as handwashing, wearing a mask, and isolation of potentially infected patients were effective in preventing the spread of respiratory virus infections.
 
 
 
@@ -5340,9 +5355,9 @@ feed Pre2019
 
   # Face Mask, systematic review, counter claim
   // The use of masks and respirators to prevent transmission of influenza: a systematic review of the scientific evidence.
-  doi: https://doi.org/10.1111/j.1750-2659.2011.00307.x
+  doi: https://onlinelibrary.wiley.com/doi/full/10.1111/j.1750-2659.2011.00307.x
   ref 'Reza_et_al_2011
-    head = None of the studies established a conclusive relationship between mask/respirator use and protection against influenza infection. Some evidence suggests that mask use is best undertaken as part of a package of personal protection especially hand hygiene in both home and healthcare settings. Early initiation and correct and consistent wearing of masks/respirators may improve their effectiveness.
+    head = There are limited data on the use of masks and respirators to reduce transmission of influenza. A systematic review was undertaken to help inform pandemic influenza guidance in the United Kingdom. Some evidence suggests that mask use is best undertaken as part of a package of personal protection especially hand hygiene in both home and healthcare settings. Early initiation and correct and consistent wearing of masks/respirators may improve their effectiveness.
 
     >>> Abstract
       There are limited data on the use of masks and respirators to reduce transmission of influenza. A systematic review was undertaken to help inform pandemic influenza guidance in the United Kingdom. The initial review was performed in November 2009 and updated in June 2010 and January 2011. Inclusion criteria included randomised controlled trials and quasi‐experimental and observational studies of humans published in English with an outcome of laboratory‐confirmed or clinically‐diagnosed influenza and other viral respiratory infections. There were 17 eligible studies. Six of eight randomised controlled trials found no significant differences between control and intervention groups (masks with or without hand hygiene; N95/P2 respirators). One household trial found that mask wearing coupled with hand sanitiser use reduced secondary transmission of upper respiratory infection/influenza‐like illness/laboratory‐confirmed influenza compared with education; hand sanitiser alone resulted in no reduction. One hospital‐based trial found a lower rate of clinical respiratory illness associated with non‐fit‐tested N95 respirator use compared with medical masks. Eight of nine retrospective observational studies found that mask and/or respirator use was independently associated with a reduced risk of severe acute respiratory syndrome (SARS). Findings, however, may not be applicable to influenza and many studies were suboptimal. None of the studies established a conclusive relationship between mask/respirator use and protection against influenza infection. Some evidence suggests that mask use is best undertaken as part of a package of personal protection especially hand hygiene. The effectiveness of masks and respirators is likely linked to early, consistent and correct usage.
@@ -5350,16 +5365,20 @@ feed Pre2019
     -- quotes
       !a
       !b
+      !d
       !c
 
 
-    / Mask or respirators reduce risk of infections
+    / Influenza and other respiratory viruses — December 21, 2011
     quote !a = Eight of nine retrospective observational studies found that mask and/or respirator use was independently associated with a reduced risk of severe acute respiratory syndrome (SARS).
 
-    / Limited evidence of mask use, masks alone won't protect
-    quote !b = There is a limited evidence base to support the use of masks and/or respirators in healthcare or community settings. None of the studies established a conclusive relationship between mask/respirator use and protection against influenza infection. Some evidence suggests that mask use is best undertaken as part of a package of personal protection especially hand hygiene. The effectiveness of masks and respirators is likely linked to early, consistent and correct usage.
+    / Influenza and other respiratory viruses — December 21, 2011
+    quote !b = There is a limited evidence base to support the use of masks and/or respirators in healthcare or community settings. None of the studies established a conclusive relationship between mask/respirator use and protection against influenza infection.
 
-    / Mask use with hand sanitiser is more effective than just sanitiser in households
+    / Influenza and other respiratory viruses — December 21, 2011
+    quote !d = Some evidence suggests that mask use is best undertaken as part of a package of personal protection especially hand hygiene. The effectiveness of masks and respirators is likely linked to early, consistent and correct usage.
+
+    / Influenza and other respiratory viruses — December 21, 2011
     quote !c = One household trial found that mask wearing coupled with hand sanitiser use reduced secondary transmission of upper respiratory infection/influenza‐like illness/laboratory‐confirmed influenza compared with education; hand sanitiser alone resulted in no reduction.
 
 
@@ -5642,3 +5661,18 @@ feed Pre2019
   ref 'Wells_11_01_1934
 
     # https://en.wikipedia.org/wiki/Wells_curve
+
+  // In vivo protective performance of N95 respirator and surgical facemask
+  doi: https://doi.org/10.1002/ajim.20395
+  ref 'Wong_et_al_2006
+    head = This study reports a study on in‐vivo protective performance of surgical masks and N95 respirators. Tests on physical properties showed that N95 respirators had significantly lower air permeability and water vapor permeability than surgical masks.
+
+    -- quotes
+      !a
+      !b
+
+    / American Journal of Industrial Medicine — November 10, 2006
+    quote !a = Surgical masks can provide in‐vivo filtration protection of 95% filtration efficiency. N95 respirators provide higher in‐vivo filtration efficiency of 97% with significant reduction of air permeability and water vapor permeability.
+
+    / American Journal of Industrial Medicine — November 10, 2006
+    quote !b = N95 respirators provide higher in‐vivo filtration efficiency of 97% with significant reduction of air permeability and water vapor permeability.

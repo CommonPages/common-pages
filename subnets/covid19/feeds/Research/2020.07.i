@@ -141,20 +141,21 @@ feed July2020
   // Filtration performances of non-medical materials as candidates for manufacturing facemasks and respirators
   doi: https://doi.org/10.1016/j.ijheh.2020.113582
   ref 'Hao_et_al_07_21_2020
-    head = We studied the influences of face velocity, number of filter material layers, and the size-dependent filtration efficiency. Several layers of household air filters can achieve similar filtration performance compared to N95 materials. The information will be crucial for healthcare personnel and the general public in manufacturing homemade face masks.
+    head = In this study, we comprehensively evaluated the overall and size-dependent filtration performances of non-medical materials.
 
     >>> Abstract
       The recent outbreak of the coronavirus disease (COVID-19) is causing a shortage of personal protective equipment (PPE) in different countries around the world. Because the coronavirus can transmit through droplets and aerosols, facemasks and N95 respirators that require complex certification, are urgently needed. Given the situation, the U.S. Centers for Disease Control and Prevention (CDC) recommends that “in settings where facemasks are not available, healthcare personnel might use homemade masks (e.g., bandana, scarf) for the care of patients with COVID-19 as a last resort.” Although aerosols and droplets can be removed through the fibers of fabrics through a series of filtration mechanisms, their filtration performances have not been evaluated in detail. Moreover, there are a series of non-medical materials available on the market, such as household air filters, coffee filters, and different types of fabrics, which may be useful when facemasks and respirators are not available. In this study, we comprehensively evaluated the overall and size-dependent filtration performances of non-medical materials. The experiments were conducted under different face velocities to study its influence on size-dependent filtration performances. The flow resistance across these filter materials is measured as an indicator of the breathability of the materials. The results illustrate that multiple layers of household air filters are able to achieve similar filtration efficiencies compared to the N95 material without causing a significant increase in flow resistance. Considering that these air filters may shed micrometer fibers during the cutting and folding processes, it is recommended that these filters should be inserted in multiple layers of fabrics when manufacturing facemasks or respirators.
+
     -- quotes
       !a
-    / Home made masks can be effective
-    quote !a = In this study, we comprehensively evaluated the overall and size-dependent filtration performances of non-medical materials. The results illustrate that multiple layers of household air filters are able to achieve similar filtration efficiencies compared to the N95 material without causing a significant increase in flow resistance.
+
+    quote !a = The results illustrate that multiple layers of household air filters are able to achieve similar filtration efficiencies compared to the N95 material without causing a significant increase in flow resistance.
 
   # Mask and Respirators for HCW, medical professionals, aerosols, efficacy, Surgical masks
   // Risk of SARS-CoV-2 transmission by aerosols, the rational use of masks, and protection of healthcare workers from COVID-19
   doi: https://doi.org/10.1186/s13756-020-00763-0
   ref 'Sommerstein_et_al_07_06_2020
-    head = Respirators are suggested for certain defined procedures with higher transmission risk. Importantly, masking is only one component of the infection control bundle including hand hygiene. Current data provide sufficient evidence for protection of HCW to patients and self by surgical masks.
+    head = The aim of this article is to review the epidemiology of COVID-19 in HCWs, to interpret the scientific data on aerosol versus droplet transmission of SARS-CoV-2 (the causative agent of COVID-19), to compare basic characteristics between surgical masks and respirators, and to evaluate the evidence of protection between these two mask types.
 
     >>> Objectives
       To determine the risk of SARS-CoV-2 transmission by aerosols, to provide evidence on the rational use of masks, and to discuss additional measures important for the protection of healthcare workers from COVID-19.
@@ -166,14 +167,31 @@ feed July2020
       SARS-CoV-2, the pathogen causing COVID-19, is considered to be transmitted via droplets rather than aerosols, but droplets with strong directional airflow support may spread further than 2 m. High rates of COVID-19 infections in healthcare-workers (HCWs) have been reported from several countries. Respirators such as filtering face piece (FFP) 2 masks were designed to protect HCWs, while surgical masks were originally intended to protect patients (e.g., during surgery). Nevertheless, high quality standard surgical masks (type II/IIR according to European Norm EN 14683) appear to be as effective as FFP2 masks in preventing droplet-associated viral infections of HCWs as reported from influenza or SARS. So far, no head-to-head trials with these masks have been published for COVID-19. Neither mask type completely prevents transmission, which may be due to inappropriate handling and alternative transmission pathways. Therefore, compliance with a bundle of infection control measures including thorough hand hygiene is key. During high-risk procedures, both droplets and aerosols may be produced, reason why respirators are indicated for these interventions.
 
     -- quotes
+      !c
       !a
       !b
+      !d
+      !e
 
-    / Medical masks can be as effective as respirators for HCWs
+    / Antimicrobial Resistance & Infection Control — July 6, 2020
     quote !a = High rates of COVID-19 infections in healthcare-workers (HCWs) have been reported from several countries. Respirators such as filtering face piece (FFP) 2 masks were designed to protect HCWs, while surgical masks were originally intended to protect patients (e.g., during surgery). High quality standard surgical masks appear to be as effective as FFP (filtering face piece) 2 masks in preventing droplet-associated viral infections of HCWs as reported from influenza or SARS.
 
-    / Respirators to be used in high-risk medical procedures
+    / Antimicrobial Resistance & Infection Control — July 6, 2020
     quote !b = During high-risk procedures, both droplets and aerosols may be produced, reason why respirators are indicated for these interventions.
+
+    / Antimicrobial Resistance & Infection Control — July 6, 2020
+    quote !c = Most of the research comparing the protective effect of surgical masks with respirator masks has been generated from influenza or other relatively benign respiratory diseases. To date, there are no published head-to-head studies in COVID-19. The current guidelines are therefore extrapolated from influenza and previous outbreaks of SARS-1 and MERS, and on expert opinion.
+
+    / Antimicrobial Resistance & Infection Control — July 6, 2020
+    quote !d = While masks protect [health care workers] from viral infections, they may not always be protective in community settings. This most probably is due to incorrect donning and doffing of previously contaminated masks and lack of hand hygiene. Mask contamination occurs both by respiratory droplets from close contacts of individuals wearing the mask or by the wearer’s own hands.
+
+    # Viral contamination of most touchable surfaces with virus has been documented even in rooms of fully recovered patients with MERS-CoV [29, 31]. Studies recovering viable influenza virus from masks and respirators illustrate that virus trapped on the surfaces poses an indirect contact transmission risk [56]. Observations in public areas have revealed that individuals touch environmental surfaces and their mouth/nose mucosa more than 3 times per hour [57]. Considering one’s need for mask repositioning or rubbing, the rate of touching a mask presumably is even higher. When manipulated incorrectly, masks may not efficiently prevent from infection. Consistent with this hypothesis of secondary infection from a contaminated mask by hands then touching the mucosa is the observation by Aiello et al. and Cowling et al. that masks only were protective when combined with hand disinfection [58, 59].
+
+    / Antimicrobial Resistance & Infection Control — July 6, 2020
+    quote !e = Current data provide sufficient evidence for protection of [health care workers] to patients and self by surgical masks.
+
+    / Antimicrobial Resistance & Infection Control — July 6, 2020
+    quote !f = The absence of clear scientific evidence for aerosol transmission of SARS-CoV-2 provide the rationale for the current recommendations for the use of surgical masks. Respirators are suggested for certain defined procedures with higher transmission risk. Importantly, masking is only one component of the infection control bundle including hand hygiene.
 
   # Mask Efficacy , Policy, Clothmask
   // Face Masks Against COVID-19: An Evidence Review

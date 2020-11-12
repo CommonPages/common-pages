@@ -61,6 +61,8 @@ index: hide
     quote !N95Evidence = Meta-analyses in systematic literature reviews have reported that the use of N95 respirators compared with the use of medical masks is not associated with any statistically significant lower risk of the clinical respiratory illness outcomes or laboratory-confirmed influenza or viral infections.
       # (40, 41)
 
+    quote !NoDirectStudies = There are currently no studies that have evaluated the effectiveness and potential adverse effects of universal or targeted continuous mask use by health workers in preventing transmission of SARS-CoV-2.
+
     quote !LackOfHCEvidence = There are currently no studies that have evaluated the effectiveness and potential adverse effects of universal or targeted continuous mask use by health workers in preventing transmission of SARS-CoV-2. Despite the lack of evidence the great majority of the WHO COVID-19 IPC GDG members supports the practice of health workers and caregivers in clinical areas in geographic settings where there is known or suspected community transmission of COVID-19, to continuously wear a medical mask throughout their shift ... to avoid any possibility of cross-transmission.
 
     quote !HCWPreference = The practice of universal or continuous mask use by health workers reflects the strong preferences and values placed on preventing potential COVID-19 infections in health workers and in non-COVID-19 patients; these preferences and values may outweigh both the potential discomfort and other negative consequences of continuously wearing a medical mask throughout their shift and the current lack of evidence.

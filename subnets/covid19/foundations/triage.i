@@ -2,6 +2,9 @@
 index: hide
 . Triage
 
+  model *SourceControl
+    head = Source control is a strategy for reducing disease transmission by blocking respiratory secretions produced through speaking, coughing, or sneezing.
+
   / Aerosol-generating Procedure
   model *AGPs
     head = An aerosol-generating procedure (AGP) is a medical or health-care procedure that results in the production of airborne particles (aerosols) or respiratory droplets, which may be pathogenic.

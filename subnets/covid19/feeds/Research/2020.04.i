@@ -184,8 +184,8 @@ feed April2020
   # Mask and Respirators Benefits
   // A rapid systematic review of the efficacy of face masks and respirators against coronaviruses and other respiratory transmissible viruses for the community, healthcare workers and sick patients
   doi: https://doi.org/10.1016/j.ijnurstu.2020.103629
-  ref 'Maclntyre_et_al_04_30_2020
-    head = Community mask use by well people could be beneficial, where transmission may be pre-symptomatic. Trials in healthcare workers support the use of respirators continuously during a shift.
+  ref 'MacIntyre_et_al_04_21_2020
+    head = A systematic review of randomized controlled clinical trials on use of respiratory protection by healthcare workers, sick patients and community members was conducted. Community mask use by well people could be beneficial, particularly for Covid-19, where transmission may be pre-symptomatic. Trials in healthcare workers support the use of respirators continuously during a shift.
 
     >>> Background
       The pandemic of COVID-19 is growing, and a shortage of masks and respirators has been reported globally. Policies of health organizations for healthcare workers are inconsistent, with a change in policy in the US for universal face mask use. The aim of this study was to review the evidence around the efficacy of masks and respirators for healthcare workers, sick patients and the general public.
@@ -202,12 +202,40 @@ feed April2020
     -- quotes
       !a
       !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
 
+    / April, 2020 - International Journal of Nursing Studies
+    quote !a = For COVID-19 specifically, the growing body of evidence showing aerosolisation of the virus in the hospital ward highlights the risk of inadvertent exposure for healthcare workers and supports the use of airborne precautions at all times on the ward.
 
-    / Community mask use is beneficial
-    quote !a = The study suggests that community mask use by well people could be beneficial, particularly for Covid-19, where transmission may be pre-symptomatic.
-    / Mask use is beneficial in health care settings
-    quote !b = The studies of masks as source control also suggest a benefit, and may be important during the Covid-19 pandemic in universal community face mask use as well as in health care settings.
+    / April, 2020 - International Journal of Nursing Studies
+    quote !b = The rule of 1–2 m of spatial separation is not based on good evidence, with most research showing that droplets can travel further than 2 m, and that infections cannot be neatly separated into droplet and airborne.
+
+    / April, 2020 - International Journal of Nursing Studies
+    quote !c = Universal face mask use is likely to have the most impact on epidemic growth in the community, given the high risk of asymptomatic and pre-symptomatic transmission
+
+    / April, 2020 - International Journal of Nursing Studies
+    quote !d = The evidence suggests protection by masks in high transmission settings such as household and college settings, especially if used early, in some trials if combined with hand hygiene and if wearers are compliant. If masks protect in high transmission settings, they should also protect in crowded public spaces, including workplaces, buses, trains, planes and other closed settings.
+
+    / April, 2020 - International Journal of Nursing Studies
+    quote !e = Targeted use of respirator protected against bacterial and droplet infections, but not against viral infections, suggesting viral infections may be more likely to be airborne in the hospital setting.
+
+    / Efficacy of respirators, medical and cloth masks
+    quote !f = Randomised controlled trials in health care workers showed that respirators, if worn continually during a shift, were effective but not if worn intermittently. Medical masks were not effective, and cloth masks even less effective. When used by sick patients randomised controlled trials suggested protection of well contacts.
+
+    / April, 2020 - International Journal of Nursing Studies
+    quote !g = Community mask use by well people could be beneficial, particularly for Covid-19, where transmission may be pre-symptomatic.
+
+    / April, 2020 - International Journal of Nursing Studies
+    quote !h = Studies of masks as source control also suggest a benefit, and may be important during the Covid-19 pandemic in universal community face mask use as well as in health care settings.
+
+    / April, 2020 - International Journal of Nursing Studies
+    quote !i = The use of masks by sick people, despite being the WHO's only recommendation for mask use by community members during COVID-19 pandemic, is supported by the smallest body of evidence.
 
 
   # Face Mask
@@ -3775,3 +3803,25 @@ feed April2020
 
     #  / April, 2020 - medRxiv
     # quote !a =
+
+
+  // Facemasks and similar barriers to prevent respiratory illness such as COVID-19: A rapid systematic review
+  doi: https://doi.org/10.1101/2020.04.01.20049528
+  ref 'Brainard_et_al_04_06_2020
+    head = The current pandemic of COVID-19 has lead to conflicting opinions on whether wearing facemasks outside of health care facilities protects against the infection. To better understand the value of wearing facemasks we undertook a rapid systematic review of existing scientific evidence about development of respiratory illness, linked to use of facemasks in community settings.
+
+    -- quotes
+
+    quote !TrialEvidence = Based on the RCTs we would conclude that wearing facemasks can be very slightly protective against primary infection from casual community contact, and modestly protective against household infections when both infected and uninfected members wear facemasks. However, the RCTs often suffered from poor compliance and controls using facemasks.
+
+    -- quotes
+      !ObservationalEvidence
+      !Estimations
+      !Conclusion
+      !TrialEvidence
+
+    quote !ObservationalEvidence = Across observational studies the evidence in favour of wearing facemasks was stronger.
+
+    quote !Estimations = We expect RCTs to under-estimate the protective effect and observational studies to exaggerate it.
+
+    quote !Conclusion = The evidence is not sufficiently strong to support widespread use of facemasks as a protective measure against COVID-19. However, there is enough evidence to support the use of facemasks for short periods of time by particularly vulnerable individuals when in transient higher risk situations.

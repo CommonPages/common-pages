@@ -53,7 +53,7 @@ feed June2020
 
   #
 
-  
+
   // SARS-CoV-2 qRT-PCR Ct value distribution in Japan and possible utility of rapid antigen testing kit
   doi: https://doi.org/10.1101/2020.06.16.20131243
   ref 'Omi_et_al_06_19_2020
@@ -1381,7 +1381,7 @@ feed June2020
   // Correction to Aerosol Filtration Efficiency of Common Fabrics Used in Respiratory Cloth Masks
   doi: https://doi.org/10.1021/acsnano.0c04676
   ref 'Konda_et_al_06_18_2020
-    head = Combinations of various commonly available fabrics used in cloth masks can potentially provide significant protection against the transmission of aerosol particles. Improper fit can result in over a 60% decrease in the filtration efficiency.
+    head = We have carried out these studies for several common fabrics including cotton, silk, chiffon, flannel, various synthetics, and their combinations. Overall, we find that combinations of various commonly available fabrics used in cloth masks can potentially provide significant protection against the transmission of aerosol particles.
 
     >>> Abstract
       The emergence of a pandemic affecting the respiratory system can result in a significant demand for face masks. This includes the use of cloth masks by large sections of the public, as can be seen during the current global spread of COVID-19. However, there is limited knowledge available on the performance of various commonly available fabrics used in cloth masks. Importantly, there is a need to evaluate filtration efficiencies as a function of aerosol particulate sizes in the 10 nm to 10 μm range, which is particularly relevant for respiratory virus transmission. We have carried out these studies for several common fabrics including cotton, silk, chiffon, flannel, various synthetics, and their combinations. Although the filtration efficiencies for various fabrics when a single layer was used ranged from 5 to 80% and 5 to 95% for particle sizes of <300 nm and >300 nm, respectively, the efficiencies improved when multiple layers were used and when using a specific combination of different fabrics. Filtration efficiencies of the hybrids (such as cotton-silk, cotton-chiffon, cotton-flannel) was >80% (for particles <300 nm) and >90% (for particles >300 nm). We speculate that the enhanced performance of the hybrids is likely due to the combined effect of mechanical and electrostatic-based filtration. Cotton, the most widely used material for cloth masks performs better at higher weave densities (i.e., thread count) and can make a significant difference in filtration efficiencies. Our studies also imply that gaps (as caused by an improper fit of the mask) can result in over a 60% decrease in the filtration efficiency, implying the need for future cloth mask design studies to take into account issues of "fit" and leakage, while allowing the exhaled air to vent efficiently. Overall, we find that combinations of various commonly available fabrics used in cloth masks can potentially provide significant protection against the transmission of aerosol particles.
@@ -1394,28 +1394,32 @@ feed June2020
       !e
       !f
       !g
+      !h
 
-    / Comparison of N95 and surgical mask
-    quote !a = Considering this, and additionally noting the large error bars for the N95 measurements in the <300 nm range (as discussed in the paper), conclusions and comparisons (with cloth fabrics) from our data regarding the N95 and surgical mask performance should not be drawn. Our pressure drops may be more appropriate to what unfitted cloth masks will likely experience under real-life conditions due to leakage around the edges. Pressure drop measurements for manikin fitted N95s and surgical masks have varied from 20 to 40 Pa and from 1 to 18 Pa
+    / ACS Nano — June 18, 2020
+    quote !a = Considering this, and additionally noting the large error bars for the N95 measurements in the <300 nm range (as discussed in the paper), conclusions and comparisons (with cloth fabrics) from our data regarding the N95 and surgical mask performance should not be drawn. Our pressure drops may be more appropriate to what unfitted cloth masks will likely experience under real-life conditions due to leakage around the edges.
 
-    / Cloth masks efficiency and air flow
+    / ACS Nano — June 18, 2020
     quote !b = While our cloth efficiencies measured are high, they are at significantly lower airflows. The strategy for cloth mask design would therefore be to increase the effective mask surface area significantly without increasing the seal perimeter in order to increase airflow, while retaining a low differential pressure, and a high filtration efficiency.
 
-    / Cloth masks and pressure differentials
+    / ACS Nano — June 18, 2020
     quote !c = We believe the focus on cloth masks should center around lower pressure differentials that can be sustained practically in unfitted cloth masks. One approach would then be to depart from traditional designs to significantly increase the area of the cloth to increase net airflow while not overly exerting the face seal.
 
-    / Efficacy of cotton, natural silk and chiffon
+    / ACS Nano — June 18, 2020
     quote !d = We find that cotton, natural silk, and chiffon can provide good protection, typically above 50% in the entire 10 nm to 6.0 μm range, provided they have a tight weave. Higher threads per inch cotton with tighter weaves resulted in better filtration efficiencies. Likely the highly tangled fibrous nature of the batting aids in the superior performance at small particle sizes. Materials such as silk and chiffon are particularly effective (considering their sheerness) at excluding particles in the nanoscale regime (<∼100 nm), likely due to electrostatic effects that result in charge transfer with nanoscale aerosol particles
 
-    / Combined cloths as a design principle
+    / ACS Nano — June 18, 2020
     quote !e = As a result, we found that hybrid combinations of cloths such as high threads-per-inch cotton along with silk, chiffon, or flannel can provide broad filtration coverage across both the nanoscale (<300 nm) and micron scale (300 nm to 6 μm) range, likely due to the combined effects of electrostatic and physical filtering.
 
-    / Leakages and fit reduce the mask filtration efficacy
+    / ACS Nano — June 18, 2020
     quote !f = Leakages around the mask area can degrade efficiencies by ∼50% or more, pointing out the importance of “fit”.
     # Opportunities for future studies include cloth mask design for better “fit” and the role of factors such as humidity (arising from exhalation) and the role of repeated use and washing of cloth masks.
 
-    / Well made cloth masks
+    / ACS Nano — June 18, 2020
     quote !g = We find that the use of cloth masks can potentially provide significant protection against the transmission of particles in the aerosol size range.
+
+    / ACS Nano — June 18, 2020
+    quote !h = Improper fit can result in over a 60% decrease in the filtration efficiency.
 
 
   # 53 ppl, aerosol transmission, ventilation, choir, secondary attack rate- Superspreading Events? (but no claim just example)
@@ -1436,19 +1440,20 @@ feed June2020
   // Humidity and deposition solution play a critical role in virus inactivation by heat treatment on N95 respirators
   doi: https://doi.org/10.1101/2020.06.22.20137448
   ref 'Rockey_et_al_06_23_2020
-    head = Elevated RH was essential for effective heat inactivation. Furthermore, deposition of viruses in host cell culture media greatly enhanced virus inactivation by heat and humidity compared to other deposition solutions such as phosphate buffered saline, phosphate buffered saline with bovine serum albumin, and human saliva.
+    head = Supply shortages of N95 respirators during the coronavirus disease 2019 (COVID-19) pandemic have motivated institutions to develop feasible and effective N95 respirator reuse strategies. We systematically explored how temperature, humidity, and virus deposition solutions impact the inactivation of viruses deposited and dried on N95 respirator coupons.
 
     >>> Abstract
       Supply shortages of N95 respirators during the coronavirus disease 2019 (COVID-19) pandemic have motivated institutions to develop feasible and effective N95 respirator reuse strategies. In particular, heat decontamination is a treatment method that scales well and can be implemented in settings with variable or limited resources. Prior studies using multiple inactivation methods, however, have often focused on a single virus under narrowly defined conditions, making it difficult to develop guiding principles for inactivating emerging or difficult-to-culture viruses. We systematically explored how temperature, humidity, and virus deposition solutions impact the inactivation of viruses deposited and dried on N95 respirator coupons. We exposed four virus surrogates across a range of structures and phylogenies, including two bacteriophages (MS2 and phi6), a mouse coronavirus (murine hepatitis virus, MHV), and a recombinant human influenza A virus subtype H3N2 (IAV), to heat treatment for 30 minutes in multiple deposition solutions across several temperatures and relative humidities (RH). We observed that elevated RH was essential for effective heat inactivation of all four viruses tested. For heat treatments between 72°C and 82°C, RH greater than 50% resulted in > 6-log10 inactivation of bacteriophages and RH greater than 25% resulted in > 3.5-log10 inactivation of MHV and IAV. Furthermore, deposition of viruses in host cell culture media greatly enhanced virus inactivation by heat and humidity compared to other deposition solutions such as phosphate buffered saline, phosphate buffered saline with bovine serum albumin, and human saliva. Past and future heat treatment methods or technologies must therefore explicitly account for deposition solutions as a factor that will strongly influence observed virus inactivation rates. Overall, our data set can inform the design and validation of effective heat-based decontamination strategies for N95 respirators and other porous surfaces, especially for emerging or low-titer viruses that may be of immediate public health concern such as SARS-CoV-2.
 
     -- quotes
+      !a
       !b
 
     / June, 2020 - medRxiv
-    quote !a = We also observed that inactivation was strongly influenced by the deposition solution. Dried virus droplets in cell culture media were inactivated significantly more than in any other deposition solution (PBS, PBS + BSA, saliva). These findings suggest that virus inactivation may be vastly overestimated when using culture media as the deposition solution in surface disinfection studies. We suggest the use of deposition solutions more similar to human saliva or respiratory fluid in virus inactivation experiments to ensure representative results.
+    quote !a = [Our] findings suggest that virus inactivation may be vastly overestimated when using culture media as the deposition solution in surface disinfection studies. We suggest the use of deposition solutions more similar to human saliva or respiratory fluid in virus inactivation experiments to ensure representative results.
 
-    / Study on reusability of N95 masks
-    quote !b = Hospitals and other healthcare settings can expect extensive virus inactivation of N95 respirators through heat treatment for at least 30 minutes at 72°C or 82°C and RH above 50%. High humidity heat treatment is particularly appealing as it can be readily adapted and scaled to a range of settings, from health care facilities to private residences. Further, implementation is equally suitable for healthcare systems or individuals without access to specialized equipment, including those in low- to middle- income countries. These results provide timely and useful information for efficacious N95 respirator decontamination, enabling reuse when necessary due to shortages.
+    / June, 2020 - medRxiv
+    quote !b = Hospitals and other healthcare settings can expect extensive virus inactivation of N95 respirators through heat treatment for at least 30 minutes at 72°C or 82°C and RH above 50%.
 
 
   # Dispute not airborne

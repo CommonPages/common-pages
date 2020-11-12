@@ -3,6 +3,12 @@
 subject module Timeline
   head = In late 2019, a novel coronavirus strain now known as SARS-CoV-2 appeared in China and quickly spread to more than 150 countries. SARS-CoV-2 is the latest in a series of coronavirus outbreaks occuring in recent decades. Its origin remains a subject of active dispute among researchers.
 
+  --
+    Background
+    Outbreak
+    Response
+    Origin
+
   / Previous Coronavirus Epidemics
   subject module Background
     head = In recent decades there have been several notable events of bat-borne coronaviruses spilling over into human populations. Most notably, researchers have attributed both the 2002-2004 SARS epidemic and the 2012-2013 MERS epidemic to multiple recombination events involving bats.
@@ -80,7 +86,7 @@ subject module Timeline
 
   / Outbreak Timeline
   // Timeline of the SARS-CoV-2 Outbreak
-  subject module Epidemic
+  subject module Outbreak
     head = In late 2019, a novel coronavirus strain now known as SARS-CoV2 first emerged in the Wuhan province of China. The virus subsequently spread to all provinces of China and to more than 150 other countries in Asia, Europe, North America, South America, Africa, and Oceania.
 
     # face orig = The earliest case of infection currently known is dated back to 17 November 2019 or possibly 1 December 2019. The virus subsequently spread to all provinces of China and to more than 150 other countries in Asia, Europe, North America, South America, Africa, and Oceania. Human-to-human transmission of the virus has been confirmed in all these regions.

@@ -7,6 +7,65 @@ subject module Containment
   subject module Measures
     head = There are several containment measures taken by individuals, businesses, health departments, and community settings to slow the spread of COVID-19 but it remains unclear the extent to which these unprecedented measures have been successful.
 
+    / Masking (for Source Control)
+    subject SourceControl
+      head = Universal masking in public complements social distancing and hand hygiene in containing or slowing down the otherwise exponential growth of the pandemic. It has shown to protect against cross-transmission through unavoidable person-to-person contact during the lockdown and reduces the risk for resurgence during relaxation of social distancing measures. A high degree of compliance will maximise the impact of universal masking in public.
+
+      -- jmagee
+        'MacIntyre_et_al_04_21_2020
+
+      --
+        'Hendrix_et_al_07_14_2020
+        'MacIntyre_et_al_04_21_2020
+        'Howard_et_al_05_13_2020
+        'Abaluck_04_2020
+        'Gandhi_et_al_09_08_2020
+        'Lau_et_al_04_2004
+
+      -- Source Control
+        'MacIntyre_et_al_12_02_2016
+        'MacIntyre_et_al_04_21_2020
+        'Simha_et_al_08_25_2020
+        'Leung_et_al_2020
+
+      -- modeling
+        'Tracht_et_al_2010
+        'Eikenberry_et_al_04_21_2020
+        'Chowell_et_al_05_2020
+
+      -- Universal Masking
+        'MacIntyre_et_al_04_21_2020
+        'MacIntyre_et_al_04_21_2020.!g
+        'Li_et_al_08_14_2020
+        'Sergi_et_al_05_13_2020
+        'Ho_et_al_05_18_2020.!a
+        'Klompas_et_al_06_03_2020
+        'Eikenberry_et_al_04_21_2020.!a
+        'Eikenberry_et_al_04_21_2020.!d
+        'Schunemann_et_al_08_03_2020.!a
+        'Gandhi_et_al_09_08_2020
+        'Feng_et_al_03_20_2020.!a
+        'Feng_et_al_03_20_2020.!c
+      -- Universal masking associated with a significantly lower rate of SARS-CoV-2 positivity among HCWs.
+        'Wang_et_al_07_14_2020
+        'Brooks_et_al_07_14_2020
+      >>>
+        There is evidence that facemask use slows the growth rate of cases and deaths.
+      -- Large scale study
+        'Abaluck_04_2020.!a
+      >>>
+        Also there is evidence that use of masks in mass gatherings helps prevent spread of respiratory diseases.
+      --
+        'Barasheed_et_al_03_29_2016
+        'Barasheed_et_al_03_2014.!a
+        'Leffler_et_al_08_05_2020
+      >>>
+        There are cultural differences on the use of facemask. In general, in the East it is usually percevied much more positively, while in the West it is not.
+      --
+        'Elachola_et_al_03_20_2020
+      -- Theoretical Studies
+        'Stutt_et_al_06_10_2020
+
     / Social Network
     subject SocialNetwork
       head = The restriction of interactions within a social network has shown to reduce and slow the spread of infection.
@@ -220,7 +279,7 @@ subject module Containment
       'Miller_et_al_2020b
 
   / Herd Immunity
-  subject HerdImmunity
+  dispute HerdImmunity
     head = Epidemiological and immunological factors, such as population structure, variation in transmission dynamics, and waning immunity, have important implications in the context of herd immunity.
 
     >>>

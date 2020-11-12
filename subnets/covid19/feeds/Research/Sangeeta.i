@@ -1147,52 +1147,6 @@ feed Sangeeta
     / Washing cloth for reuse
     quote !h = Use of a washing machine and spin dryer (60 °C for 60 min) with detergent is likely to decontaminate SARS-CoV-2 on contaminated face cloths where the risk of contamination by this virus is low.
 
-
-
-  # community, healthcare workers, sick patients, Cloth mask, medical mask not effective, aerosolisation. nonsomical, 1–2 m of distance- not effective, droplets, airborne
-  // A rapid systematic review of the efficacy of face masks and respirators against coronaviruses and other respiratory transmissible viruses for the community, healthcare workers and sick patients
-  doi: https://doi.org/10.1016/j.ijnurstu.2020.103629
-  ref 'MacIntyre_et_al_04_21_2020
-    head = In the community, masks appeared to be effective with and without hand hygiene, and both together are more protective. Randomised controlled trials in health care workers showed that respirators, if worn continually during a shift, were effective but not if worn intermittently. Medical masks were not effective, and cloth masks even less effective. When used by sick patients randomised controlled trials suggested protection of well contacts.
-
-    >>> Background
-      The pandemic of COVID-19 is growing, and a shortage of masks and respirators has been reported globally. Policies of health organizations for healthcare workers are inconsistent, with a change in policy in the US for universal face mask use. The aim of this study was to review the evidence around the efficacy of masks and respirators for healthcare workers, sick patients and the general public.
-
-    >>> Methods
-      A systematic review of randomized controlled clinical trials on use of respiratory protection by healthcare workers, sick patients and community members was conducted. Articles were searched on Medline and Embase using key search terms.
-
-    >>> Results
-      A total of 19 randomised controlled trials were included in this study – 8 in community settings, 6 in healthcare settings and 5 as source control. Most of these randomised controlled trials used different interventions and outcome measures. In the community, masks appeared to be effective with and without hand hygiene, and both together are more protective. Randomised controlled trials in health care workers showed that respirators, if worn continually during a shift, were effective but not if worn intermittently. Medical masks were not effective, and cloth masks even less effective. When used by sick patients randomised controlled trials suggested protection of well contacts.
-
-    >>> Conclusion
-      The study suggests that community mask use by well people could be beneficial, particularly for COVID-19, where transmission may be pre-symptomatic. The studies of masks as source control also suggest a benefit, and may be important during the COVID-19 pandemic in universal community face mask use as well as in health care settings. Trials in healthcare workers support the use of respirators continuously during a shift. This may prevent health worker infections and deaths from COVID-19, as aerosolisation in the hospital setting has been documented.
-
-    -- quotes
-      !a
-      !b
-      !c
-      !d
-      !e
-
-    / April, 2020 - International Journal of Nursing Studies
-    quote !a = For COVID-19 specifically, the growing body of evidence showing aerosolisation of the virus in the hospital ward highlights the risk of inadvertent exposure for healthcare workers and supports the use of airborne precautions at all times on the ward.
-
-    / April, 2020 - International Journal of Nursing Studies
-    quote !b = The rule of 1–2 m of spatial separation is not based on good evidence, with most research showing that droplets can travel further than 2 m, and that infections cannot be neatly separated into droplet and airborne.
-
-    / April, 2020 - International Journal of Nursing Studies
-    quote !c = Universal face mask use is likely to have the most impact on epidemic growth in the community, given the high risk of asymptomatic and pre-symptomatic transmission
-
-    / April, 2020 - International Journal of Nursing Studies
-    quote !d = The evidence suggests protection by masks in high transmission settings such as household and college settings, especially if used early, in some trials if combined with hand hygiene and if wearers are compliant. If masks protect in high transmission settings, they should also protect in crowded public spaces, including workplaces, buses, trains, planes and other closed settings.
-
-    / April, 2020 - International Journal of Nursing Studies
-    quote !e = Targeted use of respirator protected against bacterial and droplet infections, but not against viral infections, suggesting viral infections may be more likely to be airborne in the hospital setting (MacIntyre et al., 2017 ).
-
-    / Efficacy of respirators, medical and cloth masks
-    quote !f = Randomised controlled trials in health care workers showed that respirators, if worn continually during a shift, were effective but not if worn intermittently. Medical masks were not effective, and cloth masks even less effective. When used by sick patients randomised controlled trials suggested protection of well contacts.
-
-
   # no benefits of facemasks, counter to using facemask, hand washing, hand hygiene, general public, community
   // Response to ‘MacIntyre et al., 2020: A rapid systematic review of the efficacy of face masks and respirators against coronaviruses and other respiratory transmissible viruses for the community, healthcare workers and sick patient
   doi: https://dx.doi.org/10.1016%2Fj.ijnurstu.2020.103750
