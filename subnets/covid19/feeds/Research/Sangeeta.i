@@ -53,6 +53,352 @@ feed Sangeeta
     quote !a =
 
   #
+  #
+  // Risks and features of secondary infections in severe and critical ill COVID-19 patients
+  doi: https://doi.org/10.1080/22221751.2020.1812437
+  ref 'Zhang_et_al_09_08_2020
+    head = Our study originally illustrated secondary infection proportion in severe and critical COVID-19 patients. Culture accompanied with metagenomics sequencing increased pathogen diagnostic rate. Secondary infections risks increased after receiving invasive respiratory ventilations and intravascular devices, and would lead to a lower discharge rate and a higher mortality rate.
+
+    >>> Objectives
+      Severe or critical COVID-19 is associated with intensive care unit admission, increased secondary infection rate, and would lead to significant worsened prognosis. Risks and characteristics relating to secondary infections in severe COVID-19 have not been described.
+
+    >>> Methods
+      Severe and critical COVID-19 patients from Shanghai were included. We collected lower respiratory, urine, catheters, and blood samples according to clinical necessity and culture and mNGS were performed. Clinical and laboratory data were archived.
+
+    >>> Results
+      We found 57.89% (22/38) patients developed secondary infections. The patient receiving invasive mechanical ventilation or in critical state has a higher chance of secondary infections (P<0.0001). The most common infections were respiratory, blood-stream and urinary infections, and in respiratory infections, the most detected pathogens were gram-negative bacteria (26, 50.00%), following by gram-positive bacteria (14, 26.92%), virus (6, 11.54%), fungi (4, 7.69%), and others (2, 3.85%). Respiratory Infection rate post high flow, tracheal intubation, and tracheotomy were 12.90% (4/31), 30.43% (7/23), and 92.31% (12/13) respectively. Secondary infections would lead to lower discharge rate and higher mortality rate.
+
+    >>> Conclusion
+      Our study originally illustrated secondary infection proportion in severe and critical COVID-19 patients. Culture accompanied with metagenomics sequencing increased pathogen diagnostic rate. Secondary infections risks increased after receiving invasive respiratory ventilations and intravascular devices, and would lead to a lower discharge rate and a higher mortality rate.
+
+    -- quotes
+      !a
+
+    / September, 2020 - Emerging Microbes & Infections
+    quote !a =
+
+  #
+  // Bacterial and viral co-infections in patients with severe SARS-CoV-2 pneumonia admitted to a French ICU. Ann Intensive Care.
+  doi: https://doi.org/10.1186/s13613-020-00736-x
+  ref 'Contou_et_al_09_07_2020
+    head = We report on a 28% rate of bacterial co-infection at ICU admission of patients with severe SARSCoV-2 pneumonia, mostly related to Staphylococcus aureus, Haemophilus influenzae, Streptococcus pneumoniae and Enterobacteriaceae.
+
+    >>> Background
+      Data on the prevalence of bacterial and viral co-infections among patients admitted to the ICU for acute respiratory failure related to SARS-CoV-2 pneumonia are lacking. We aimed to assess the rate of bacterial and viral co-infections, as well as to report the most common micro-organisms involved in patients admitted to the ICU for severe SARS-CoV-2 pneumonia.
+
+    >>> Patients and methods
+      In this monocenter retrospective study, we reviewed all the respiratory microbiological investigations performed within the first 48 h of ICU admission of COVID-19 patients (RT-PCR positive for SARS-CoV-2) admitted for acute respiratory failure.
+
+    >>> Results
+      From March 13th to April 16th 2020, a total of 92 adult patients (median age: 61 years, 1st–3rd quartiles [55–70]; males: n = 73/92, 79%; baseline SOFA: 4 [3–7] and SAPS II: 31 [21–40]; invasive mechanical ventilation: n = 83/92, 90%; ICU mortality: n = 45/92, 49%) were admitted to our 40-bed ICU for acute respiratory failure due to SARS-CoV-2 pneumonia. Among them, 26 (28%) were considered as co-infected with a pathogenic bacterium at ICU admission with no co-infection related to atypical bacteria or viruses. The distribution of the 32 bacteria isolated from culture and/or respiratory PCRs was as follows: methicillin-sensitive Staphylococcus aureus (n = 10/32, 31%), Haemophilus influenzae (n = 7/32, 22%), Streptococcus pneumoniae (n = 6/32, 19%), Enterobacteriaceae (n = 5/32, 16%), Pseudomonas aeruginosa (n = 2/32, 6%), Moraxella catarrhalis (n = 1/32, 3%) and Acinetobacter baumannii (n = 1/32, 3%). Among the 24 pathogenic bacteria isolated from culture, 2 (8%) and 5 (21%) were resistant to 3rd generation cephalosporin and to amoxicillin–clavulanate combination, respectively.
+
+    >>> Conclusions
+      We report on a 28% rate of bacterial co-infection at ICU admission of patients with severe SARSCoV-2 pneumonia, mostly related to Staphylococcus aureus, Haemophilus influenzae, Streptococcus pneumoniae and Enterobacteriaceae. In French patients with confirmed severe SARSCoV-2 pneumonia requiring ICU admission, our results encourage the systematic administration of an empiric antibiotic monotherapy with a 3rd generation cephalosporin, with a prompt de-escalation as soon as possible. Further larger studies are needed to assess the real prevalence and the predictors of co-infection together with its prognostic impact on critically ill patients with severe SARS-CoV-2 pneumonia.
+
+    -- quotes
+      !a
+
+    / September, 2020 - Ann Intensive Care.
+    quote !a =
+
+
+
+  #
+  // Early bacterial co-infection in ARDS related to COVID-19.
+  doi: https://doi.org/10.1007/s00134-020-06165-5
+  ref 'Kreitmann_et_al_07_13_2020
+    head =  The present study is the first to investigate early bacterial coinfections (involving common bacterial species) in patients with COVID-19 ARDS.
+
+    / July, 2020 - Intensive Care Medicine
+    quote !a =
+
+  #
+  // Neutralizing Antibodies against SARS-CoV-2 and Other Human Coronaviruses
+  doi: https://doi.org/10.1016/j.it.2020.03.007
+  ref 'Jiang_et_al_04_02_2020
+    head = Studies from SARS-CoV and MERS-CoV have demonstrated that many fragments (S1-NTD, RBD, S2) in S proteins can be used as targets to develop nAbs. Still, RBD-specific antibodies have greater potency to neutralize infection with divergent virus strains, suggesting that the RBD of SARS-CoV-2 can also serve as an important target for the development of potent and specific nAbs.
+
+    -- quotes
+      !a
+      !b
+
+    / April, 2020 - Trends Immunol.
+    quote !a = Cocktails comprising antibodies specific for RBD and other regions in the S protein may further improve the breadth and potency of nAbs against SARS-CoV-2 and its escape-mutant strains.
+
+    / April, 2020 - Trends Immunol.
+    quote !b = Human sera from convalescent patients have been used to treat COVID-19, but lessons learned from SARS show that some non-nAbs targeting the non-RBD regions in the S protein may cause an antibody-dependent enhancement (ADE) effect on viral infectivity and disease, as well as other harmful immune responses
+
+
+
+  #
+  // SARS-CoV-2 Virus Culture and Subgenomic RNA for Respiratory Specimens from Patients with Mild Coronavirus Disease.
+  doi: https://dx.doi.org/10.3201/eid2611.203219
+  ref 'Perera_et_al_08_04_2020
+    head = We found that severe acute respiratory syndrome coronavirus 2 and subgenomic RNA were rarely detectable beyond 8 days after onset of illness. However, virus RNA was detectable for many weeks by reverse transcription PCR.
+
+    / August, 2020 - Emerging Infectious Diseases
+    quote !a =
+
+
+
+  #
+  // Longer incubation period of coronavirus disease 2019 (COVID‐19) in older adults
+  doi: https://doi.org/10.1002/agm2.12114
+  ref 'Kong_et_al_05_22_2020
+    head = Based on 136 patients with a travel history to Hubei, the epicenter of COVID‐19, the COVID‐19 incubation period was found to be longer in older adults.
+
+    >>> Objective
+      The aim of this study was to explore any age‐related change in the incubation period of COVID‐19, specifically any difference between older (aged ≥65 years) and younger adults.
+
+    >>> Methods
+      Based on online data released officially by 21 Chinese cities from January 22 to February 15, 2020, the incubation period of COVID‐19 patients who had travelled to Hubei was studied according to age. Previous studies were reviewed and compared.
+
+    >>> Results
+      The study recruited 136 COVID‐19 patients who had travelled to Hubei during January 5‐31, 2020, stayed for 1‐2 days, and returned with symptom onset during January 10‐February 6, 2020. The median age was 50.5 years (range 1‐86 years), and 22 patients (16.2%) were aged ≥65 years. The age‐stratified incubation period was U‐shaped with higher values at extremes of age. The median COVID‐19 incubation period was 8.3 (90% confidence interval [CI], 7.4‐9.2) days for all patients, 7.6 (90% CI, 6.7‐8.6) days for younger adults, and 11.2 (90% CI, 9.0‐13.5) days for older adults. The 5th/25th/75th/90th percentiles were 2.3/5.3/11.3/14.2 days for all, 2.0/5.0/10.5/13.2 days for younger adults, and 3.1/7.8/14.4/17.0 days for older adults. There were 11 published studies on COVID‐19 incubation periods up to March 30, 2020, reporting means of 1.8‐7.2 days, and medians of 4‐7.5 days, but there was no specific study on the effect of age on incubation period. One study showed that severe COVID‐19 cases, which included more elderly patients, had longer incubation periods.
+
+    >>> Conclusion
+      Based on 136 patients with a travel history to Hubei, the epicenter of COVID‐19, the COVID‐19 incubation period was found to be longer in older adults. This finding has important implications for diagnosis, prevention, and control of COVID‐19.
+
+    -- quotes
+      !a
+
+    / May, 2020 - bioRxiv
+    quote !a =
+
+
+
+  #
+  // Association between severity of MERS-CoV infection and incubation period.
+  doi: https://doi.org/xyz
+  ref 'Virlogeux_et_al_03_22_2016
+    head = Ww found an association between shorter incubation periods among patients with MERS-CoV infection and a higher risk of death subsequently, similar to the association previously reported for severe acute respiratory syndrome coronavirus. This association might occur because the duration of the incubation period is an early reflection of disease pathogenesis.
+
+    >>> Abstract
+      We analyzed data for 170 patients in South Korea who had laboratory-confirmed infection with Middle East respiratory syndrome coronavirus. A longer incubation period was associated with a reduction in the risk for death (adjusted odds ratio/1-day increase in incubation period 0.83, 95% credibility interval 0.68–1.03).
+
+
+    / March, 2016 - Emerg Infect Dis.
+    quote !a =
+
+
+  #
+  // Incubation Period Duration and Severity of Clinical Disease Following Severe Acute Respiratory Syndrome Coronavirus Infection
+  doi: https://dx.doi.org/10.1097%2FEDE.0000000000000339
+  ref 'Virlogeux_et_al_09_2015
+    head = It is unlikely that a shorter incubation period itself is the cause of greater severity, but our results indicate that it could be a marker of underlying biologic processes that led to greater severity. A shorter incubation period could indicate a higher infective dose, leading to faster/greater pathogen replication, out-running adaptive immune responses or leading to a more aggressive and damaging inflammatory response, and thus leading to more severe disease.
+
+    >>> Background
+      Few previous studies have investigated the association between the severity of an infectious disease and the length of incubation period.
+
+    >>> Methods
+      We estimated the association between the length of the incubation period and the severity of infection with the severe acute respiratory syndrome (SARS) coronavirus, using data from the epidemic in 2003 in Hong Kong.
+
+    >>> Results
+      We estimated the incubation period of SARS based on a subset of patients with available data on exposure periods and a separate subset of patients in a putative common source outbreak, and we found significant associations between shorter incubation period and greater severity in both groups after adjusting for potential confounders.
+
+    >>> Conclusions
+      Our findings suggest that patients with a shorter incubation period proceeded to have more severe disease. Further studies are needed to investigate potential biological mechanisms for this association.
+
+    / September, 2015 - Epidemiology
+    quote !a =
+
+
+
+  #
+  // Buying Time—The Immune System Determinants of the Incubation Period to Respiratory Viruses
+  doi: https://doi.org/10.3390/v2112541
+  ref 'Hermesh_et_al_11_18_2010
+    head = We discuss the concept of the “stealth phase”, defined as the time between infection and the earliest detectable inflammatory response. We propose that the “stealth phase” phenomenon is primarily responsible for the suppression of symptoms during the incubation period and results from viral antagonism that inhibits major pathways of the innate immune system allowing an extended time of unhindered virus replication.
+
+    >>>
+      Respiratory viruses cause disease in humans characterized by an abrupt onset of symptoms. Studies in humans and animal models have shown that symptoms are not immediate and appear days or even weeks after infection. Since the initial symptoms are a manifestation of virus recognition by elements of the innate immune response, early virus replication must go largely undetected. The interval between infection and the emergence of symptoms is called the incubation period and is widely used as a clinical score. While incubation periods have been described for many virus infections the underlying mechanism for this asymptomatic phase has not been comprehensively documented. Here we review studies of the interaction between human pathogenic respiratory RNA viruses and the host with a particular emphasis on the mechanisms used by viruses to inhibit immunity. We discuss the concept of the “stealth phase”, defined as the time between infection and the earliest detectable inflammatory response. We propose that the “stealth phase” phenomenon is primarily responsible for the suppression of symptoms during the incubation period and results from viral antagonism that inhibits major pathways of the innate immune system allowing an extended time of unhindered virus replication.
+
+
+    / November, 2010 - Viruses
+    quote !a =
+
+
+
+  # Risk factors associated with disease progression
+  // Risk factors associated with disease progression in a cohort of patients infected with the 2019 novel coronavirus
+  doi: https://doi.org/10.21037/apm.2020.03.26
+  ref 'Zhou_et_al_03_22_2020
+    head = This study reports that total lymphocyte count and CD4+ T cell count are related with the outcome of the disease, with total lymphocyte count being a risk factor associated with the outcome of the disease. A higher cell count of total lymphocytes may indicate a better outcome of the disease. This suggests that immune response may be critical in directing disease progression at the early stage of 2019-nCoV infection.
+
+    >>> Background
+      The emerging infection of the 2019 novel coronavirus (2019-nCoV) in late December, 2019 in Wuhan, China, has caused an extreme health concern, with many patients having progressed to acute respiratory disease or other complications in a short period. Meanwhile, the risk factors associated with the disease progression still remain elusive.
+
+    >>> Methods
+      A cohort of 17 patients with laboratory-confirmed 2019-nCoV infections who were admitted to the Ninth Hospital of Nanchang between January 28 and February 6, 2020, were enrolled in this study. All the patients received standardized treatment. The disease progression was evaluated every 7 days after admission. The clinical, radiologic, and laboratory characteristics were retrospectively analyzed, and the factors associated with the disease progression were screened by binary logistic regression analysis.
+
+    >>> Results
+      The cohort comprised 11 women (64.7%) and 6 men (35.3%) between the ages of 18 to 70 years old. All patients had a reported history of contact with infection-confirmed patients. Fever (11/64.7%) and cough (8/47.1%) were the most common symptoms, whereas dyspnea (2/11.8%) and fatigue (3/17.6%) were rare, and there was no patient with diarrhea symptoms. There were 5 patients with aggravated disease at the first disease progression evaluation, and no patient received mechanical ventilation, transferred to the intensive care unit (ICU), or progressed to acute respiratory distress syndrome, septic shock, refractory metabolic acidosis, coagulation dysfunction, or death. Based on the disease progression, patients were divided into the non-aggravation group (12 cases) and the aggravation group (5 cases). There were no significant differences between the 2 groups with respect to their clinical characteristics. Chest computed tomography (CT) on admission revealed there were 8 patients (47.1%) with invasive lesions found bilaterally on the lungs on multiple lobes, 4 patients (23.5%) with invasive lesions on 1 lobe, and 5 patients (29.4%) with normal chest CT. The aggravation group had1 patient (20.0%) with invasive lesions on one lobe, 3 (60.0%) with invasive lesions on multiple lobes, bilaterally, and 1 (20.0%) with normal chest CT; meanwhile, the non-aggravation group had 3 patients (25.0%) with invasive lesions on one lobe, 5 (41.7%) with invasive lesions on multiple lobes, bilaterally, and 4 (33.3%) with normal chest CT. No significant difference was found between the 2 groups. In the aggravation group, the total lymphocyte counts significantly decreased in comparison to that in the non-aggravation group. Further analysis showed that the CD4+ T cell count but not the CD8+ T cell count of the aggravation group was significantly lower than that of the non-aggravation group. Correlation analysis indicated total lymphocyte count was positively correlated with CD4+ T cell count, and no significant differences were found between the 2 groups in other laboratory measurements, including those of white blood cell (WBC) count, C-reactive protein (CRP), albumin, lactate dehydrogenase (LDH), and D-dimer. Finally, a binary logistic regression model was used to identify the factors associated with the disease progression. It was found that total lymphocyte count was a risk factor associated with disease progression in patients infected with 2019-nCoV.
+
+    >>> Conclusions
+      A higher cell count of total lymphocytes may indicate a better outcome of the disease, and immune response may be a vital factor for directing disease progression in the early stage of 2019-nCoV infection.
+
+    -- quotes
+      !a
+
+    / March, 2020 - Annals of Palliative Medicine
+    quote !a = Clinical symptoms and signs had nothing to do with disease progression, and neither did the radiologic features of chest CT.
+
+
+
+
+  #
+  // Shorter incubation period is associated with severe disease progression in patients with COVID-19
+  doi: https://doi.org/10.1080/21505594.2020.1836894
+  ref 'Lai_et_al_10_27_2020
+    head = Our study demonstrated that patients with different incubation periods were different in clinical symptoms, laboratory tests, and CT presentations. Shorter incubation was associated with the aggravation of lung involvement in CT scan.
+
+    >>> Abstract
+      The diagnosed COVID-19 cases revealed that the incubation periods (IP) varied a lot among patients. However, few studies had emphasized on the different clinical features and prognosis of patients with different IP. A total of 330 patients with laboratory-confirmed COVID-19 were enrolled and classified into immediate onset group(IP<3 days, I group, 57 cases) and late onset group(IP>10 days, L group, 75 cases) based on IP. The difference of clinical characteristics and prognosis of the two groups were compared. There were more patients with fever in I group than in L group(P = 0.003), and counts of all the total lymphocytes, total T lymphocytes, CD4 + and CD8 + T lymphocytes were significantly different between the two groups(all P < 0.01). Besides, patients in L group had more GGOs in CT scan than I group and there were more patients in I group receiving antibiotic treatment than in L group(P < 0.001). For disease aggravation, the median CT scores were comparable between the two groups, but individually, there were more patients with increased CT score during hospitalization in I group than in L group. The aggravation incidence of CT presentation was 21.1% in I group, significantly higher than L group(8.0%, P = 0.042). Multivariable COX models suggested that IP was the only independent factors for CT aggravation. Conclusively, patients with different IP were different in clinical symptoms, laboratory tests, and CT presentations. Shorter IP was associated with the aggravation of lung involvement in CT scan.
+
+    -- quotes
+      !a
+
+    / October, 2020 - Virulence
+    quote !a = Our study revealed that GGOs in patients with shorter incubation period were less than patients of longer incubation period, but patients with shorter incubation period were more likely to get cavitation.
+
+
+  # biomarker for disease severity
+  // Association between incubation period and clinical characteristics of patients with COVID-19
+  doi: https://doi.org/10.1177/0300060520956834
+  ref 'Cai_et_al_09_23_2020
+    head = Patients with shorter (≤7 days) incubation periods had more severe disease, longer durations of hospitalization, longer times from symptom onset to discharge, more abnormal laboratory findings, and more severe radiological findings than patients with longer incubation periods. The associations between the incubation periods and clinical characteristics of COVID-19 patients suggest that the incubation period may be a useful marker of disease severity and prognosis.
+
+    >>> Purpose
+      To investigate associations between the clinical characteristics and incubation periods of patients infected with coronavirus disease 2019 (COVID-19) in Wuhan, China.
+
+    >>> Methods
+      Complete clinical and epidemiological data from 149 patients with COVID-19 at a hospital in Hunan Province, China, were collected and retrospectively analyzed.
+
+    >>> Results
+      Analysis of the distribution and receiver operator characteristic curve of incubation periods showed that 7 days was the optimal cut-off value to assess differences in disease severity between groups. Patients with shorter (≤7 days) incubation periods (n = 79) had more severe disease, longer durations of hospitalization, longer times from symptom onset to discharge, more abnormal laboratory findings, and more severe radiological findings than patients with longer (>7 days) incubation periods. Regression and correlation analyses also showed that a shorter incubation period was associated with longer times from symptom onset to discharge.
+
+    >>> Conclusion
+      The associations between the incubation periods and clinical characteristics of COVID-19 patients suggest that the incubation period may be a useful marker of disease severity and prognosis.
+
+
+    / September, 2020 - Journal of International Medical Research
+    quote !a =
+
+
+  #
+  // Incubation periods of acute respiratory viral infections: a systematic review
+  doi: https://doi.org/10.1016/S1473-3099(09)70069-6
+  ref 'Lessler_et_al_05_01_2009
+    head = We found the median incubation period to be 5·6 days for adenovirus, 3·2 days for human coronavirus, 4·0 days for SARS, 1·4 days for influenza A, 0·6 days  for influenza B, 12·5 days for measles, 2·6 days for parainfluenza, 4·4 days for respiratory syncytial virus, and 1·9 days for rhinovirus. When using the incubation period, it is important to consider its full distribution: the right tail for quarantine policy, the central regions for likely times and sources of infection, and the full distribution for models used in pandemic planning.
+
+    -- quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+      !j
+
+    / May, 2009 - The Lancet Infectious Diseases
+    quote !a = We estimate the median incubation period of respiratory illness due to adenovirus to be 5·6 days (95% CI 4·8–6·3), with a dispersion of 1·26 (95% CI 1·13–1·38). 25% of cases will develop symptoms by 4·8 days (95% CI 4·0–5·5), and 75% by 6·5 days (95% CI 5·6–7·4) after infection. Because of limited data, the 5th and 95th percentiles were not estimated.
+
+    / May, 2009 - The Lancet Infectious Diseases
+    quote !b = We estimate the median incubation period of human coronavirus to be 3·2 days (95% CI 2·8–3·7), and the dispersion to be 1·15 (95% CI 1·07–1·34). 25% of cases will develop symptoms by 2·9 days (95% CI 2·5–3·3), and 75% by 3·5 days (95% CI 3·1–4·2) after infection. There were insufficient data to confidently estimate the 5th or 95th percentiles.
+
+    / May, 2009 - The Lancet Infectious Diseases
+    quote !c = We estimate the median incubation period of SARS-associated coronavirus to be 4·0 days (95% CI 3·6–4·4), and the dispersion to be 1·81 (95% CI 1·67–1·95). 5% of SARS-associated coronavirus cases will develop symptoms by 1·5 days (95% CI 1·2–1·7), and 95% by 10·6 days (95% CI 8·9–12·2) after infection.
+
+    / May, 2009 - The Lancet Infectious Diseases
+    quote !d = We estimate the median incubation period of influenza A to be 1·4 days (95% CI 1·3–1·5), and the dispersion to be 1·51 (95% CI 1·43–1·60). 5% of influenza A cases will develop symptoms by 0·7 days (95% CI 0·6–0·8), and 95% by 2·8 days (95% CI 2·5–3·2) after infection. Incubation period estimates for influenza A were sensitive to a single study with substantially different findings from other studies. Excluding this study resulted in a median incubation period of influenza A of 1·9 days (95% CI 1·8–2·0), with dispersion of 1·22 (95% CI 1·17–1·29).
+
+    / May, 2009 - The Lancet Infectious Diseases
+    quote !e = We estimate the median incubation period of influenza B to be 0·6 days (95% CI 0·5–0·6), and the dispersion to be 1·51 (95% CI 1·37–1·64). 5% of influenza B cases will develop symptoms by 0·3 days (95% CI 0·2–0·3), and 95% by 1·1 days (95% CI 0·9–1·3) after infection. Both studies of influenza B define symptom onset as the first instance of fever, potentially shortening the incubation period estimate compared with that seen in clinical practice.
+
+    / May, 2009 - The Lancet Infectious Diseases
+    quote !f = We estimate the median incubation period of measles to be 12·5 days (95% CI 11·8–13·2), and the dispersion to be 1·23 (95% CI 1·18–1·28). 5% of measles cases will develop symptoms before 8·9 days (95% CI 8·1–9·8), and 95% by 17·7 days (95% CI 16·1–19·2) after infection.
+
+    / May, 2009 - The Lancet Infectious Diseases
+    quote !g = Little is known about the incubation period of human metapneumovirus. We found only two reported observations of serial transmissions suggesting incubation periods of 5–6 days and 4–6 days. The incubation period of human metapneumovirus may be similar to that of RSV due to similarities between these viruses.
+
+    / May, 2009 - The Lancet Infectious Diseases
+    quote !h = We estimate the median incubation period for parainfluenza to be 2·6 days (95% CI 2·1–3·1), with a dispersion of 1·35 (95% CI 1·16–1·55). 25% of cases develop symptoms by 2·1 days (95% CI 1·6–2·6), and 75% by 3·2 days (95% CI 2·5–3·8) after infection. There were insufficient data to confidently estimate the 5th or 95th percentiles.
+
+    / May, 2009 - The Lancet Infectious Diseases
+    quote !i = We estimate the median incubation period of RSV to be 4·4 days (95% CI 3·9–4·9), with a dispersion of 1·24 (95% CI 1·13–1·35). 5% of cases will develop symptoms before 3·1 days (95% CI 2·5–3·8), and 95% by 6·3 days (95% CI 5·2–7·3) after infection.
+
+    / May, 2009 - The Lancet Infectious Diseases
+    quote !j = We estimate the median incubation period of rhinovirus to be 1·9 days (95% CI 1·4–2·4), and the dispersion to be 1·68 (95% CI 1·36–2·01). 5% of cases will develop symptoms by 0·8 days (95% CI 0·4–1·2), and 95% by 4·5 days (95% CI 2·9–6·2) after infection.
+
+
+
+  #
+  // Clinical Characteristics of Coronavirus Disease 2019 in China.
+  doi: https://doi.org/10.1056/NEJMoa2002032
+  ref 'Guan_et_al_04_30_2020
+    head = During the first 2 months of the current outbreak, Covid-19 spread rapidly throughout China and caused varying degrees of illness. Some patients with Covid-19 do not have fever or radiologic abnormalities on initial presentation, which has complicated the diagnosis.
+
+    >>> BACKGROUND
+      Since December 2019, when coronavirus disease 2019 (Covid-19) emerged in Wuhan city and rapidly spread throughout China, data have been needed on the clinical characteristics of the affected patients.
+
+    >>> METHODS
+      We extracted data regarding 1099 patients with laboratory-confirmed Covid-19 from 552 hospitals in 30 provinces, autonomous regions, and municipalities in mainland China through January 29, 2020. The primary composite end point was admission to an intensive care unit (ICU), the use of mechanical ventilation, or death.
+
+    >>> RESULTS
+      The median age of the patients was 47 years; 41.9% of the patients were female. The primary composite end point occurred in 67 patients (6.1%), including 5.0% who were admitted to the ICU, 2.3% who underwent invasive mechanical ventilation, and 1.4% who died. Only 1.9% of the patients had a history of direct contact with wildlife. Among nonresidents of Wuhan, 72.3% had contact with residents of Wuhan, including 31.3% who had visited the city. The most common symptoms were fever (43.8% on admission and 88.7% during hospitalization) and cough (67.8%). Diarrhea was uncommon (3.8%). The median incubation period was 4 days (interquartile range, 2 to 7). On admission, ground-glass opacity was the most common radiologic finding on chest computed tomography (CT) (56.4%). No radiographic or CT abnormality was found in 157 of 877 patients (17.9%) with nonsevere disease and in 5 of 173 patients (2.9%) with severe disease. Lymphocytopenia was present in 83.2% of the patients on admission.
+
+    >>> CONCLUSIONS
+      During the first 2 months of the current outbreak, Covid-19 spread rapidly throughout China and caused varying degrees of illness. Patients often presented without fever, and many did not have abnormal radiologic findings. (Funded by the National Health Commission of China and others.)
+
+    -- quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / April, 2020 - N Engl J Med
+    quote !a = The median incubation period was 4 days (interquartile range, 2 to 7).
+
+    / April, 2020 - N Engl J Med
+    quote !b = Despite the number of deaths associated with Covid-19, SARS-CoV-2 appears to have a lower case fatality rate than either SARS-CoV or Middle East respiratory syndrome–related coronavirus (MERS-CoV).
+
+    / April, 2020 - N Engl J Med
+    quote !c = Compromised respiratory status on admission (the primary driver of disease severity) was associated with worse outcomes.
+
+    / April, 2020 - N Engl J Med
+    quote !d = Lymphocytopenia was common and, in some cases, severe, a finding that was consistent with the results of two recent reports.
+
+    / April, 2020 - N Engl J Med
+    quote !e = We found a lower case fatality rate (1.4%) than the rate that was recently reportedly, probably because of the difference in sample sizes and case inclusion criteria. Our findings were more similar to the national official statistics, which showed a rate of death of 3.2% among 51,857 cases of Covid-19 as of February 16, 2020.
+
+
+
+  #
+  // Incubation period of 2019 novel coronavirus (2019-nCoV) infections among travellers from Wuhan, China, 20–28 January 2020.
+  doi: https://doi.org/xyz
+  ref 'Backer_et_al_02_06_2020
+    head = Using the travel history and symptom onset of 88 confirmed cases that were detected outside Wuhan in the early outbreak phase, we estimate the mean incubation period to be 6.4 days (95% credible interval: 5.6–7.7), ranging from 2.1 to 11.1 days (2.5th to 97.5th percentile).
+
+    >>> Abstract
+      A novel coronavirus (2019-nCoV) is causing an outbreak of viral pneumonia that started in Wuhan, China. Using the travel history and symptom onset of 88 confirmed cases that were detected outside Wuhan in the early outbreak phase, we estimate the mean incubation period to be 6.4 days (95% credible interval: 5.6–7.7), ranging from 2.1 to 11.1 days (2.5th to 97.5th percentile). These values should help inform 2019-nCoV case definitions and appropriate quarantine durations.
+
+    / February, 2020 - Eurosurveillance
+    quote !a =
+
+
+
+
+
+
+
+
+
+
+  #
 
   // Evaluation of rapid antigen test for detection of SARS-CoV-2 virus
   doi: https://doi.org/10.1016/j.jcv.2020.104500

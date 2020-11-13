@@ -372,7 +372,7 @@ feed February2020
   doi: https://doi.org/10.1001/jama.2020.2783
   ref 'Lan_et_al_2020
     head = Four patients with COVID-19 who met criteria for hospital discharge or discontinuation of quarantine in China (absence of clinical symptoms and radiological abnormalities and 2 negative RT-PCR test results) had positive RT-PCR test results 5 to 13 days later. These findings suggest that at least a proportion of recovered patients still may be virus carriers.
-    
+
 
     # / February, 2020 - JAMA Network
     # quote !a = All 4 patients were exposed to the novel 2019 coronavirus through work as medical professionals. Two were male and the age range was 30 to 36 years. Among 3 of the patients, fever, cough, or both occurred at onset. One patient was initially asymptomatic and underwent thin-section CT due to exposure to infected patients. All patients had positive RT-PCR test results and CT imaging showed ground-glass opacification or mixed ground-glass opacification and consolidation. The severity of disease was mild to moderate.
@@ -644,7 +644,7 @@ feed February2020
   // Incubation Period and Other Epidemiological Characteristics of 2019 Novel Coronavirus Infections with Right Truncation: A Statistical Analysis of Publicly Available Case Data
   doi: https://doi.org/10.3390/jcm9020538
   ref 'Linton_et_al_2020
-    head = The 95th percentile of the incubation period is around 10–14 days, indicating that a 14-day quarantine period would largely ensure the absence of disease among healthy exposed individuals.
+    head = Our estimated mean incubation period of approximately 5 days is comparable to known mean values of the incubation period for SARS and MERS. The 95th percentile of the incubation period is around 10–14 days, indicating that a 14-day quarantine period would largely ensure the absence of disease among healthy exposed individuals. We stress that the 17–24-day time delay from illness onset to death must be addressed when estimating COVID-19 case fatality risk.
 
     >>> Abstract
       The geographic spread of 2019 novel coronavirus (COVID-19) infections from the epicenter of Wuhan, China, has provided an opportunity to study the natural history of the recently emerged virus. Using publicly available event-date data from the ongoing epidemic, the present study investigated the incubation period and other time intervals that govern the epidemiological dynamics of COVID-19 infections. Our results show that the incubation period falls within the range of 2–14 days with 95% confidence and has a mean of around 5 days when approximated using the best-fit lognormal distribution. The mean time from illness onset to hospital admission (for treatment and/or isolation) was estimated at 3–4 days without truncation and at 5–9 days when right truncated. Based on the 95th percentile estimate of the incubation period, we recommend that the length of quarantine should be at least 14 days. The median time delay of 13 days from illness onset to death (17 days with right truncation) should be considered when estimating the COVID-19 case fatality risk.
@@ -652,8 +652,9 @@ feed February2020
     -- quotes
       !a
 
-    / February, 2020 -  J. Clin. Med.
-    quote !a = We stress that the 17–24-day time delay from illness onset to death must be addressed when estimating COVID-19 case fatality risk.
+    / February, 2020 - J. Clin. Med.
+    quote !a = The time from the illness onset to death is also comparable to SARS, and the 15–20-day mean delay indicates that a crude estimation of the ratio of the cumulative number of deaths to that of confirmed cases will tend to result in an underestimation of the case fatality risk, especially during the early stage of epidemic spread.
+
 
 
   # Incubation Period, Asymtomatic carriers

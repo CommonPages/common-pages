@@ -1,7 +1,6 @@
 index: hide
 . Triage
 
-
   ############################################################################################
   # Everything below in this section is updated claims
   ############################################################################################
@@ -117,54 +116,135 @@ index: hide
     # The positive and negative predictive values (PPV and NPV respectively) are the proportions of positive and negative results in statistics and diagnostic tests that are true positive and true negative results, respectively. The PPV and NPV describe the performance of a diagnostic test or other statistical measure. A high result can be interpreted as indicating the accuracy of such a statistic.
 
 
+    ############################################ 11/13
+    ### IncubationPeriod
+    # claim = The mean time SARS-CoV-2 takes to develop symptoms (incubation period) is 5-6 days, with a range of between 1 and 14 days following exposure.
+    # A pooled analysis enrolling confirmed patients from 24 countries proved that the median incubation period was estimated to be 5.1 days (95% CI, 4.5 to 5.8 days), and 97.5% will develop symptoms within 11.5 days of infection
+    # --
+    #   'Li_et_al_03_26_2020.!b
+    #   'Guan_et_al_04_30_2020.!a
+    #   'Backer_et_al_02_06_2020
+    #   'Lauer_et_al_05_05_2020
+    #   'Linton_et_al_2020
+    #   'Lauer_et_al_05_05_2020
+
+    # >>>
+      # Estimated mean incubation period of approximately 5 days is comparable to known mean values of the incubation period for severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome
+
+      # OR Results indicate a similar incubation period of SARS-CoV-2 with SARS (mean, 5 days; range, 2 to 14 days) [2], MERS (mean, 5 to 7 days; range, 2 to 14 days)
+
+      # 'Lessler_et_al_05_01_2009.!b
+      # 'Lessler_et_al_05_01_2009.!c
+      # 'Lessler_et_al_05_01_2009
+      # 'Virlogeux_et_al_03_22_2016
+      # 'Backer_et_al_02_06_2020
+
+
+      # >>>
+      #   The association between the severity of an infectious disease and the length of incubation period- covid 19. Patients with a shorter incubation period went on to have more severe disease.
+      # --
+      #   'Cai_et_al_09_23_2020
+      #   'Lai_et_al_10_27_2020
+      #
+      # # >>>
+      #   # More importantly, incubation period is the interaction of pathogen and host immunity. The length of incubation period is closely linked to immunological state.
+      #   # --
+      #     # 'Hermesh_et_al_11_18_2010
+
+      # >>>
+        # COVID‐19 incubation period was found to be longer in older adults.
+        # --
+        #   'Kong_et_al_05_22_2020
+
+        # claim = Several studies describe the correlation between reduced infectiousness and decrease in viral load in respiratory secretions
+        # --
+        #  'Wölfel_et_al_2020
+        #  'Kampen_et_al_06_09_2020
+        #  'Perera_et_al_08_04_2020
+
+        # >>>
+          # Several studies describe the correlation between reduced infectiousness and an increase in neutralizing antibodies.
+        # --
+        #   'Kampen_et_al_06_09_2020
+
+
+        # >>>
+        # Based on the present findings, early discharge with ensuing home isolation could be chosen for patients who are beyond day 10 of symptoms with less than 100,000 viral RNA copies per ml of sputum. Both criteria predict that there is little residual risk of infectivity, based on cell culture.
+        # --
+        # 'Woelfel_et_al_2020b.!k
+        # 'Kampen_et_al_06_09_2020
+
+
+        # >>>
+        #   Previous studies also showed that COVID-19 patients were susceptible to secondary infections due to complex immune dysfunction, and coinfection with bacteria could be seen in 30–50% severe or critically ill COVID-19 patients.
+        # --
+        #   'Kreitmann_et_al_07_13_2020
+        #   'Contou_et_al_09_07_2020
+        #   'Zhang_et_al_09_08_2020.
+
+
+        ###### DiagnosticClaims
+
+        # >>> Background
+        # Viral tests identify the virus in samples from your respiratory system, such as a swab from the inside of your nose.
+        # Regardless of whether you test positive or negative, the results do not confirm whether you are able to spread the virus that causes COVID-19.
+
+        # https://www.cdc.gov/coronavirus/2019-ncov/testing/serology-overview.html#:~:text=Viral%20tests%20identify%20the%20virus,virus%20that%20causes%20COVID%2D19.
+
+
+        ##### Neutralising Antibody
+        # >>>
+          # RBD-specific antibodies have greater potency to neutralize infection with divergent virus strains, suggesting that the RBD of SARS-CoV-2 can also serve as an important target for the development of potent and specific nAbs.
+        # --
+          # 'Jiang_et_al_04_02_2020
+
+
+        #  Although the IgM level reached its peak as in SARS‐CoV, it could remain persistently high in these patients even until the ninth week. The high levels of IgM indicated the duration of viral infection and may be related to the prolonged viral RNA shedding.
+         # --
+         #   'Li_et_al_04_29_2020
+
+
+
+
+
+
 
   ############################################################################################
   # Everything below in this section is not updated claims.
   ############################################################################################
 
-  ### IncubationPeriod
-  # claim = The mean time SARS-CoV-2 takes to develop symptoms (incubation period) is 5-6 days, with a range of between 1 and 14 days following exposure. 31-35]
-  # --
-  #   Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia.
-  #   Clinical Characteristics of Coronavirus Disease 2019 in China.
-  #   Incubation Period and Other Epidemiological Characteristics of 2019 Novel Coronavirus Infections with Right Truncation: A Statistical Analysis of Publicly Available Case Data.
-  #   The Incubation Period of Coronavirus Disease 2019 (COVID-19) From Publicly Reported Confirmed Cases: Estimation and Application.
-  #   Incubation period of 2019 novel coronavirus (2019-nCoV) infections among travellers from Wuhan, China, 20-28 January 2020.
-  #
 
-  #
-  # claim = Several studies describe the correlation between reduced infectiousness and i) increased number of days that have elapsed since symptom onset and resolution, ii) decrease in viral load in respiratory secretions
-  # --
-  #  Virological assessment of hospitalized patients with COVID-2019.
-  #  Shedding of infectious virus in hospitalized patients with coronavirus disease-2019 (COVID-19): duration and key determinants.
-  #
-  #   Virus Culture and Subgenomic RNA for Respiratory Specimens from Patients with Mild Coronavirus Disease.
-  #
-  # and iii) an increase in neutralizing antibodies.
-  # --
-  #   Shedding of infectious virus in hospitalized patients with coronavirus disease-2019 (COVID-19): duration and key determinants.
-  #   Virological assessment of hospitalized patients with COVID-2019.
-  #
-  #
-  #
+
   # >>>
-  # Based on the present findings, early discharge with ensuing home isolation could be chosen for patients who are beyond day 10 of symptoms with less than 100,000 viral RNA copies per ml of sputum. Both criteria predict that there is little residual risk of infectivity, based on cell culture.
-  # --
-  # 'Woelfel_et_al_2020b.!k
-  # 'Kampen_et_al_06_09_2020
+  #   an association between increased risk of death and a shorter incubation period was previously described in patients with severe acute respiratory syndrome. Previous experiences from SARS indicated that rapidly determining the incubation period enabled public-health officials to set proper quarantine periods and terminate the transmission without the aid of treatment
+  #   A shorter incubation period was associated with longer times from symptom onset to discharge.
   #
-  # >>>
-  # Seroconversion occurred after 7 days in 50% of patients (and by day 14 in all patients), but was not followed by a rapid decline in viral load.
-  # --
-  #   'Woelfel_et_al_2020b.!m
+  #   Previous experiences from SARS indicated that rapidly determining the incubation period enabled public-health officials to set proper quarantine periods and terminate the transmission without the aid of treatment [18].
   #
-  # >>>
-  # Temporal profile of serial viral loads from different tissue samples of patients indicated that viral shedding was more common in respiratory and fecal material, especially in severely ill patients, and to a much less extent in urine and blood.
   # --
-  # 'Wang_et_al_07_14_2020
+  #   'Virlogeux_et_al_03_22_2016
+  #   'Virlogeux_et_al_09_2015
+
+
+  # >>>
+  #   The time from the illness onset to death is also comparable to SARS
+
+
+
 
 
  ### DiagnosticClaims
+
+#  How to get an antibody test
+#
+#  A positive test result shows you may have antibodies from an infection with the virus that causes COVID-19. However, there is a chance that a positive result means you have antibodies from an infection with a different virus from the same family of viruses (called coronaviruses). Note: Other coronaviruses cannot produce a positive result on a viral test for SARS-CoV-2.
+#
+#
+# You could have a current infection or been recently infected.
+# The test may be negative because it typically takes 1–3 weeks after infection for your body to make antibodies. It’s possible you could still get sick if you have been exposed to the virus recently. This means you could still spread the virus.
+# Some people may take even longer to develop antibodies, and some people who are infected may not ever develop antibodies.
+
+
 
   # SARS-CoV-2 can be detected in a wide range of other body fluids and compartments, but it is most frequently detected in respiratory material and, therefore, respiratory samples remain the sample type of choice for diagnostics.
 
@@ -193,32 +273,15 @@ index: hide
 
 
 
-
-
  ### Antibodies
 
- # The duration of the persistence of antibodies generated in response to SARS-CoV-2 is still under study [49, 174].
 
- # Studies show that several commercial assays measuring total Ig or IgG have performed well. Most of these studies show no advantage of IgM over IgG, as IgM does not appear much earlier than IgG [173].
+
+ # The duration of the persistence of antibodies generated in response to SARS-CoV-2 is still under study [49, 174].
 
 
  # We know that in a test tube antibodies against the virus can neutralize it. That is, they can prevent the virus from entering into a human cell and causing an infection. But not every antibody is equally capable of preventing the virus from causing an infection. The very best antibodies are ones that neutralize the receptor binding domain of the new coronavirus spike protein that attaches to the host cell’s ACE2 receptor. The RBD is on the tip of the spike protein and is the part of the spike that touches ACE2. Antibodies against RBD block the very first step of viral infection, which is when the coronavirus attaches the human cell membrane.
  # --
- #   Neutralizing Antibodies against SARS-CoV-2 and Other Human Coronaviruses
+ #   'Jiang_et_al_04_02_2020
  #   'Wang_et_al_07_14_2020
  #   'WangTo_et_al_03_23_2020.!f
-
-
- #     Although the IgM level reached its peak as in SARS‐CoV, it could remain persistently high in these patients even until the ninth week. The high levels of IgM indicated the duration of viral infection and may be related to the prolonged viral RNA shedding.
-  # --
-  #   'Li_et_al_04_29_2020
-
- #    Several studies describe the correlation between reduced infectiousness and increase in neutralizing antibody response.
- #    'Kampen_et_al_06_09_2020.!b
-
-#  >>> Antibodies cross-reactive to SARS-CoV and SARS-CoV-2 were detected in patients with COVID-19 but not in patients with MERS.
-#    'Wang_et_al_07_14_2020.!e
-
-
-  # --
-  # COVID-19 re-infection by a phylogenetically distinct SARS-coronavirus-2 strain confirmed by whole genome sequencing.

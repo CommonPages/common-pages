@@ -434,7 +434,7 @@ feed WHO
   //  The Incubation Period of Coronavirus Disease 2019 (COVID-19) From Publicly Reported Confirmed Cases: Estimation and Application.
   doi: https://doi.org/10.7326/M20-0504
   ref 'Lauer_et_al_05_05_2020
-    head = This work provides additional evidence for a median incubation period for COVID-19 of approximately 5 days, similar to SARS. Our results support current proposals for the length of quarantine or active monitoring of persons potentially exposed to SARS-CoV-2, although longer monitoring periods might be justified in extreme cases.
+    head = A pooled analysis enrolling confirmed patients from 24 countries proved that the median incubation period was estimated to be 5.1 days similar to SARS, and 97.5% will develop symptoms within 11.5 days of infection. Monitoring or quarantine for 14 days will identify approximately 99% or greater of symptomatic infections among patients exposed
 
     >>> Background
       A novel human coronavirus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), was identified in China in December 2019. There is limited support for many of its key epidemiologic features, including the incubation period for clinical disease (coronavirus disease 2019 [COVID-19]), which has important implications for surveillance and control activities.
