@@ -12,6 +12,9 @@ subject module Masking
   # path SurgicalMasks
   # path Respirators
 
+  questions
+    ?Observations
+
   --- See also
     Containment.Measures.SourceControl
     Timeline.Response.WHOMaskingGuidelines
@@ -43,6 +46,10 @@ subject module Masking
     !FitAndProtocol
     !Decontamination
     !Speech
+
+  question ?Observations = What observational studies have been done to evaluate the effect of community masking for respiratory viruses in general, and COVID-19 in particular?
+    responses
+      'Seto_et_al_2003
 
   claim !DirectEvidence = To date, there is no direct evidence from studies comparing the effectiveness of masks in reducing the risk of COVID-19 infection. This gap applies to health care and community settings alike, creating space for a range of interpretations of the available indirect evidence.
     --
@@ -292,7 +299,6 @@ subject module Masking
       'Fischer_et_al_08_2020.!c
 
   triage
-    'Seto_et_al_2003
     'Schiling_et_al_07_27_2020
 
   # -- risks
