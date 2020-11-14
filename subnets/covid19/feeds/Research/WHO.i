@@ -464,8 +464,12 @@ feed WHO
       This work provides additional evidence for a median incubation period for COVID-19 of approximately 5 days, similar to SARS. Our results support current proposals for the length of quarantine or active monitoring of persons potentially exposed to SARS-CoV-2, although longer monitoring periods might be justified in extreme cases.
 
 
-    / Incubation period of about 5 days for Covid19.
+    / May, 2020 - Annals of Internal Medicine
     quote !a = The median incubation period for COVID-19 of approximately 5 days, similar to SARS.
+
+    / May, 2020 - Annals of Internal Medicine
+    quote !b = 97.5% of those who develop symptoms will do so within 11.5 days of infection.
+
 
 
 

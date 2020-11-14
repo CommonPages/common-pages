@@ -3,7 +3,55 @@ feed November2020
 
 
   #
+  // Persistent fatigue following SARS-CoV-2 infection is common and independent of severity of initial infection
+  doi: https://doi.org/10.1371/journal.pone.0240784
+  ref 'Townsend_et_al_11_09_2020
+    head = We examined the prevalence of fatigue in individuals recovered from COVID-19 and also examined potential predictors of fatigue. Of 128 participants, more than half reported persistent fatigue at median of 10 weeks after initial symptoms. There was no association between COVID-19 severity and fatigue. There was no association between inflammation and cell turnover or pro-inflammatory molecules and fatigue.
 
+    >>> Abstract
+      Fatigue is a common symptom in those presenting with symptomatic COVID-19 infection. However, it is unknown if COVID-19 results in persistent fatigue in those recovered from acute infection. We examined the prevalence of fatigue in individuals recovered from the acute phase of COVID-19 illness using the Chalder Fatigue Score (CFQ-11). We further examined potential predictors of fatigue following COVID-19 infection, evaluating indicators of COVID-19 severity, markers of peripheral immune activation and circulating pro-inflammatory cytokines. Of 128 participants (49.5 ± 15 years; 54% female), more than half reported persistent fatigue (67/128; 52.3%) at median of 10 weeks after initial COVID-19 symptoms. There was no association between COVID-19 severity (need for inpatient admission, supplemental oxygen or critical care) and fatigue following COVID-19. Additionally, there was no association between routine laboratory markers of inflammation and cell turnover (leukocyte, neutrophil or lymphocyte counts, neutrophil-to-lymphocyte ratio, lactate dehydrogenase, C-reactive protein) or pro-inflammatory molecules (IL-6 or sCD25) and fatigue post COVID-19. Female gender and those with a pre-existing diagnosis of depression/anxiety were over-represented in those with fatigue. Our findings demonstrate a significant burden of post-viral fatigue in individuals with previous SARS-CoV-2 infection after the acute phase of COVID-19 illness. This study highlights the importance of assessing those recovering from COVID-19 for symptoms of severe fatigue, irrespective of severity of initial illness, and may identify a group worthy of further study and early intervention.
+
+    -- quotes
+      !a
+
+    / November, 2020 - PLoS one
+    quote !a = Female gender and those with a pre-existing diagnosis of depression/anxiety were over-represented in those with fatigue.
+
+
+  # Psychiatric Disorder
+  // Bidirectional associations between COVID-19 and psychiatric disorder: retrospective cohort studies of 62 354 COVID-19 cases in the USA
+  doi: https://doi.org/10.1016/S2215-0366(20)30462-4
+  ref 'Taquet_et_al_11_09_2020
+    head = Survivors of COVID-19 appear to be at increased risk of psychiatric sequelae, and a psychiatric diagnosis might be an independent risk factor for COVID-19.
+
+    >>> Background
+      Adverse mental health consequences of COVID-19, including anxiety and depression, have been widely predicted but not yet accurately measured. There are a range of physical health risk factors for COVID-19, but it is not known if there are also psychiatric risk factors. In this electronic health record network cohort study using data from 69 million individuals, 62 354 of whom had a diagnosis of COVID-19, we assessed whether a diagnosis of COVID-19 (compared with other health events) was associated with increased rates of subsequent psychiatric diagnoses, and whether patients with a history of psychiatric illness are at a higher risk of being diagnosed with COVID-19.
+    >>>  Methods
+      We used the TriNetX Analytics Network, a global federated network that captures anonymised data from electronic health records in 54 health-care organisations in the USA, totalling 69·8 million patients. TriNetX included 62 354 patients diagnosed with COVID-19 between Jan 20, and Aug 1, 2020. We created cohorts of patients who had been diagnosed with COVID-19 or a range of other health events. We used propensity score matching to control for confounding by risk factors for COVID-19 and for severity of illness. We measured the incidence of and hazard ratios (HRs) for psychiatric disorders, dementia, and insomnia, during the first 14 to 90 days after a diagnosis of COVID-19.
+    >>> Findings
+      In patients with no previous psychiatric history, a diagnosis of COVID-19 was associated with increased incidence of a first psychiatric diagnosis in the following 14 to 90 days compared with six other health events (HR 2·1, 95% CI 1·8–2·5 vs influenza; 1·7, 1·5–1·9 vs other respiratory tract infections; 1·6, 1·4–1·9 vs skin infection; 1·6, 1·3–1·9 vs cholelithiasis; 2·2, 1·9–2·6 vs urolithiasis, and 2·1, 1·9–2·5 vs fracture of a large bone; all p<0·0001). The HR was greatest for anxiety disorders, insomnia, and dementia. We observed similar findings, although with smaller HRs, when relapses and new diagnoses were measured. The incidence of any psychiatric diagnosis in the 14 to 90 days after COVID-19 diagnosis was 18·1% (95% CI 17·6–18·6), including 5·8% (5·2–6·4) that were a first diagnosis. The incidence of a first diagnosis of dementia in the 14 to 90 days after COVID-19 diagnosis was 1·6% (95% CI 1·2–2·1) in people older than 65 years. A psychiatric diagnosis in the previous year was associated with a higher incidence of COVID-19 diagnosis (relative risk 1·65, 95% CI 1·59–1·71; p<0·0001). This risk was independent of known physical health risk factors for COVID-19, but we cannot exclude possible residual confounding by socioeconomic factors.
+    >>>  Interpretation
+      Survivors of COVID-19 appear to be at increased risk of psychiatric sequelae, and a psychiatric diagnosis might be an independent risk factor for COVID-19. Although preliminary, our findings have implications for clinical services, and prospective cohort studies are warranted.
+
+
+    / February, 2020 - bioRxiv
+    quote !a =
+
+
+  # Immunity
+  // Seasonal human coronavirus antibodies are boosted upon SARS-CoV-2 infection but not associated with protection
+  doi: https://doi.org/10.1101/2020.11.06.20227215
+  ref 'Anderson_et_al_11_10_2020
+    head = Our study demonstrates that ~23% of individuals possessed SARS-CoV-2 cross-reactive 138 serum antibodies prior to the COVID-19 pandemic. Cross-reactive antibodies directed against the SARS-CoV-2 N protein were more prevalent compared to those directed against the SARS-CoV-2 S protein.  SARS-CoV-2 cross-reactive antibodies are non-neutralizing and are not associated with reducing SARS-CoV-2 infections and hospitalizations.
+
+    >>> Abstract
+      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has rapidly spread within the human population. Although SARS-CoV-2 is a novel coronavirus, most humans had been previously exposed to other antigenically distinct common seasonal human coronaviruses (hCoVs) before the COVID-19 pandemic. Here, we quantified levels of SARS-CoV-2-reactive antibodies and hCoV-reactive antibodies in serum samples collected from 204 humans before the COVID-19 pandemic. We then quantified pre-pandemic antibody levels in serum from a separate cohort of 252 individuals who became PCR-confirmed infected with SARS-CoV-2. Finally, we longitudinally measured hCoV and SARS-CoV-2 antibodies in the serum of hospitalized COVID-19 patients. Our studies indicate that most individuals possessed hCoV-reactive antibodies before the COVID-19 pandemic. We determined that ~23% of these individuals possessed non-neutralizing antibodies that cross-reacted with SARS-CoV-2 spike and nucleocapsid proteins. These antibodies were not associated with protection against SARS-CoV-2 infections or hospitalizations, but paradoxically these hCoV cross-reactive antibodies were boosted upon SARS-CoV-2 infection.
+
+
+    / November, 2020 - medRxiv
+    quote !a =
+
+  # T Cell
   // Robust SARS-CoV-2-specific T-cell immunity is maintained at 6 months following primary infection
   doi: https://doi.org/10.1101/2020.11.01.362319
   ref 'Zuo_et_al_11_02_2020

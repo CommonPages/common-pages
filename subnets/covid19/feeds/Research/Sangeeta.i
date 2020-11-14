@@ -431,7 +431,7 @@ feed Sangeeta
   // Spatial and temporal dynamics of SARS-CoV-2 in COVID-19 patients: A systematic review and meta-analysis
   doi: https://doi.org/10.1016/j.ebiom.2020.102916
   ref 'Weiss_et_al_07_22_2020
-    head = Our analysis showed consistent viral detection from specimen from the upper respiratory tract (URT), the lower respiratory tract (LRT), and faeces, irrespective of the clinical severity of COVID-19. It suggests that SARS-CoV-2 persists for a longer duration in the LRT compared to the URT in adult patients (5•7 days in mild; 5•9 days in moderate-severe patients). Further, viral load was demonstrated to peak in earlier stages of infection in the URT compared to LRT.
+    head = Our analysis showed consistent viral detection from specimen from the upper respiratory tract (URT), the lower respiratory tract (LRT), and faeces, irrespective of the clinical severity of COVID-19. It suggests that SARS-CoV-2 persists for a longer duration in the LRT compared to the URT in adult patients. Further, viral load was demonstrated to peak in earlier stages of infection in the URT compared to LRT.
 
     >>> Background
       The spatial and temporal dynamics of SARS-CoV-2 have been described in case series and retrospective studies. In this study, we provide a coherent overview of the duration of viral detection and viral RNA load in COVID-19 patients, stratified by specimen type, clinical severity, and age.

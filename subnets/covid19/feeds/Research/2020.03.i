@@ -135,7 +135,28 @@ feed March2020
 
     quote !e = The WHO and CDC recommendations for COVID-19 are based on estimates of range that have not considered the possible presence of a high-momentum cloud carrying the droplets long distances. Given the turbulent puff cloud dynamic model, recommendations for separations of 3 to 6 feet may underestimate the distance, timescale, and persistence over which the cloud and its pathogenic payload travel.
 
-  #
+  # Antibody
+  // Profiling Early Humoral Response to Diagnose Novel Coronavirus Disease (COVID-19)
+  doi: https://doi.org/10.1093/cid/ciaa310
+  ref 'Guo_et_al_03_21_2020
+    head = We demonstrated the time kinetics of the humoral response during COVID-19 and provided evidence that this can aid in the diagnosis of COVID-19, including in subclinical cases.
+
+    >>> Background
+      The emergence of coronavirus disease 2019 (COVID-19) is a major healthcare threat. The current method of detection involves a quantitative polymerase chain reaction (qPCR)–based technique, which identifies the viral nucleic acids when present in sufficient quantity. False-negative results can be achieved and failure to quarantine the infected patient would be a major setback in containing the viral transmission. We aim to describe the time kinetics of various antibodies produced against the 2019 novel coronavirus (SARS-CoV-2) and evaluate the potential of antibody testing to diagnose COVID-19.
+
+    >>> Methods
+      The host humoral response against SARS-CoV-2, including IgA, IgM, and IgG response, was examined by using an ELISA-based assay on the recombinant viral nucleocapsid protein. 208 plasma samples were collected from 82 confirmed and 58 probable cases (qPCR negative but with typical manifestation). The diagnostic value of IgM was evaluated in this cohort.
+
+    >>> Results
+      The median duration of IgM and IgA antibody detection was 5 (IQR, 3–6) days, while IgG was detected 14 (IQR, 10–18) days after symptom onset, with a positive rate of 85.4%, 92.7%, and 77.9%, respectively. In confirmed and probable cases, the positive rates of IgM antibodies were 75.6% and 93.1%, respectively. The detection efficiency by IgM ELISA is higher than that of qPCR after 5.5 days of symptom onset. The positive detection rate is significantly increased (98.6%) when combining IgM ELISA assay with PCR for each patient compared with a single qPCR test (51.9%).
+
+    >>> Conclusions
+      The humoral response to SARS-CoV-2 can aid in the diagnosis of COVID-19, including subclinical cases.
+
+    / March, 2020 - Clinical Infectious Diseases
+    quote !a =
+
+  # Antigen - N protien
   // Diagnosis of Acute Respiratory Syndrome Coronavirus 2 Infection by Detection of Nucleocapsid Protein
   doi: https://doi.org/10.1101/2020.03.07.20032524
   ref 'Diao_et_al_03_13_2020
@@ -149,9 +170,6 @@ feed March2020
       We developed a fluorescence immunochromatographic assay for detecting nucleocapsid protein of SARS-CoV-2 in nasopharyngeal swab sample and urine within 10 minutes. 100% of nucleocapsid protein positive and negative participants accord with nucleic acid test for same samples. Further, earliest participant after 3 days of fever can be identified by the method. In an additional preliminary study, we detected nucleocapsid protein in urine in 73.6% of diagnosed COVID-19 patients.
     >>> CONCLUSIONS
       Those findings indicate that nucleocapsid protein assay is an accurate, rapid, early and simple method for diagnosis of COVID-19. Appearance of nucleocapsid protein in urine coincides our finding of the SARS-CoV-2 invading kidney and might be of diagnostic value.
-
-    -- quotes
-      !a
 
     / March, 2020 - medRxiv
     quote !a =
