@@ -4,7 +4,22 @@ feed September2020
     'Rajasingham_et_al_09_21_2020
 
   #
+  // Seasonal coronavirus protective immunity is short-lasting
+  doi: https://doi.org/10.1038/s41591-020-1083-1
+  ref 'Edridge_et_al_09_11_2020
+    head = We monitored healthy individuals for more than 35 years and determined that reinfection with the same seasonal coronavirus occurred frequently at 12 months after infection.
 
+    >>> Abstract
+      A key unsolved question in the current coronavirus disease 2019 (COVID-19) pandemic is the duration of acquired immunity. Insights from infections with the four seasonal human coronaviruses might reveal common characteristics applicable to all human coronaviruses. We monitored healthy individuals for more than 35 years and determined that reinfection with the same seasonal coronavirus occurred frequently at 12 months after infection.
+
+    -- quotes
+      !a
+
+    / September, 2020 - Nature Medicine
+    quote !a =
+
+
+  # Adaptive Immunity
   // Antigen-Specific Adaptive Immunity to SARS-CoV-2 in Acute COVID-19 and Associations with Age and Disease Severity
   doi: https://doi.org/xyz
   ref 'Moderbacher_et_al_09_11_2020

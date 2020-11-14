@@ -107,6 +107,22 @@ feed April2020
 
   #
 
+  # Ct value - Discharge and discontinue isolation
+  // Viral RNA load as determined by cell culture as a management tool for discharge of SARS-CoV-2 patients from infectious disease wards
+  doi: https://doi.org/10.1007/s10096-020-03913-9
+  ref 'Scola_et_al_04_27_2020
+    head = Correlation between successful isolation of virus in cell culture and Ct value of quantitative RT-PCR targeting E gene suggests that patients with Ct above 33–34 using our RT-PCR system are not contagious and thus can be discharged from hospital care or strict confinement for non-hospitalized patients.
+
+    >>> Abstract
+      In a preliminary clinical study, we observed that the combination of hydroxychloroquine and azithromycin was effective against SARS-CoV-2 by shortening the duration of viral load in Covid-19 patients. It is of paramount importance to define when a treated patient can be considered as no longer contagious. Correlation between successful isolation of virus in cell culture and Ct value of quantitative RT-PCR targeting E gene suggests that patients with Ct above 33–34 using our RT-PCR system are not contagious and thus can be discharged from hospital care or strict confinement for non-hospitalized patients.
+
+
+
+    -- quotes
+      !a
+
+    / April, 2020 - Eur J Clin Microbiol Infect Dis
+    quote !a =
 
   # Antigen, PCR
   // Assay Techniques and Test Development for COVID-19 Diagnosis
@@ -2703,7 +2719,7 @@ feed April2020
     # quote !g = Our results suggest that average durations of virus detectability in swabs between 4 and 8 days match more closely the observed prevalence of infection than longer durations). This estimate is consistent with the observed distribution of the time from symptoms onset to confirmation which has mean 5.7 days (95% CI 1.6 – 12.3). The mean serial interval was 6.9 days (95% CI 2.6-13.4).
 
     / April, 2020 - MedRxiv
-    quote !h = The observation that the viral load (as measured by genome equivalents inferred from cycle threshold data) in asymptomatic infections does not significantly differ from that of symptomatic infections (p values 0.6 and 0.2 for E and RdRp genes, respectively) further corroborates this hypothesis and the high frequency of asymptomatic infection detected across the surveys poses clear challenges for the control of COVID-19 in the absence of strict social distancing measures.
+    quote !h = The observation that the viral load in asymptomatic infections does not significantly differ from that of symptomatic infections further corroborates this hypothesis and the high frequency of asymptomatic infection detected across the surveys poses clear challenges for the control of COVID-19 in the absence of strict social distancing measures.
 
     / April, 2020 - MedRxiv
     quote !i = At least 4.4% (95% CrI 3.6-5.3%) of the population of Vo’ was exposed to SARS-CoV-2.

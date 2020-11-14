@@ -17,6 +17,27 @@ feed July2020
 
   #
 
+  // Pathophysiology, Transmission, Diagnosis, and Treatment of Coronavirus Disease 2019 (COVID-19)
+  doi: https://doi.org/10.1001/jama.2020.12839
+  ref 'Wiersinga_et_al_07_10_2020
+    head = Many aspects of transmission, infection, and treatment remain unclear. Advances in prevention and effective management of COVID-19 will require basic and clinical investigation and public health and clinical interventions.
+
+    >>> Importance
+      The coronavirus disease 2019 (COVID-19) pandemic, due to the novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has caused a worldwide sudden and substantial increase in hospitalizations for pneumonia with multiorgan disease. This review discusses current evidence regarding the pathophysiology, transmission, diagnosis, and management of COVID-19.
+
+    >>> Observations
+      SARS-CoV-2 is spread primarily via respiratory droplets during close face-to-face contact. Infection can be spread by asymptomatic, presymptomatic, and symptomatic carriers. The average time from exposure to symptom onset is 5 days, and 97.5% of people who develop symptoms do so within 11.5 days. The most common symptoms are fever, dry cough, and shortness of breath. Radiographic and laboratory abnormalities, such as lymphopenia and elevated lactate dehydrogenase, are common, but nonspecific. Diagnosis is made by detection of SARS-CoV-2 via reverse transcription polymerase chain reaction testing, although false-negative test results may occur in up to 20% to 67% of patients; however, this is dependent on the quality and timing of testing. Manifestations of COVID-19 include asymptomatic carriers and fulminant disease characterized by sepsis and acute respiratory failure. Approximately 5% of patients with COVID-19, and 20% of those hospitalized, experience severe symptoms necessitating intensive care. More than 75% of patients hospitalized with COVID-19 require supplemental oxygen. Treatment for individuals with COVID-19 includes best practices for supportive management of acute hypoxic respiratory failure. Emerging data indicate that dexamethasone therapy reduces 28-day mortality in patients requiring supplemental oxygen compared with usual care (21.6% vs 24.6%; age-adjusted rate ratio, 0.83 [95% CI, 0.74-0.92]) and that remdesivir improves time to recovery (hospital discharge or no supplemental oxygen requirement) from 15 to 11 days. In a randomized trial of 103 patients with COVID-19, convalescent plasma did not shorten time to recovery. Ongoing trials are testing antiviral therapies, immune modulators, and anticoagulants. The case-fatality rate for COVID-19 varies markedly by age, ranging from 0.3 deaths per 1000 cases among patients aged 5 to 17 years to 304.9 deaths per 1000 cases among patients aged 85 years or older in the US. Among patients hospitalized in the intensive care unit, the case fatality is up to 40%. At least 120 SARS-CoV-2 vaccines are under development. Until an effective vaccine is available, the primary methods to reduce spread are face masks, social distancing, and contact tracing. Monoclonal antibodies and hyperimmune globulin may provide additional preventive strategies.
+
+    >>> Conclusions and Relevance
+      As of July 1, 2020, more than 10 million people worldwide had been infected with SARS-CoV-2. Many aspects of transmission, infection, and treatment remain unclear. Advances in prevention and effective management of COVID-19 will require basic and clinical investigation and public health and clinical interventions.
+
+    -- quotes
+      !a
+
+    / July, 2020 - JAMA
+    quote !a = The average time from exposure to symptom onset is 5 days, and 97.5% of people who develop symptoms do so within 11.5 days.
+
+  # Antigen 
   // Evaluation of a Rapid Diagnostic Assay for Detection of SARS-CoV-2 Antigen in Nasopharyngeal Swabs
   doi: https://doi.org/10.1128/JCM.00977-20
   ref 'Lambert-Niclot_et_al_07_23_2020
@@ -26,29 +47,7 @@ feed July2020
     / July, 2020 - American Society for Microbiology Journals
     quote !a =
 
-  # Swab
-  // Spatial and temporal dynamics of SARS-CoV-2 in COVID-19 patients: A systematic review and meta-analysis
-  doi: https://doi.org/10.1016/j.ebiom.2020.102916
-  ref 'Weiss_et_al_07_22_2020
-    head = Our analysis showed consistent viral detection from specimen from the upper respiratory tract (URT), the lower respiratory tract (LRT), and faeces, irrespective of the clinical severity of COVID-19. SARS-CoV-2 persists for a longer duration in the LRT compared to the URT in adult patients. Viral load was demonstrated to peak in earlier stages of infection in the URT compared to LRT.
 
-    >>> Background
-      The spatial and temporal dynamics of SARS-CoV-2 have been described in case series and retrospective studies. In this study, we provide a coherent overview of the duration of viral detection and viral RNA load in COVID-19 patients, stratified by specimen type, clinical severity, and age.
-
-    >>> Method
-      We systematically searched PubMed/MEDLINE and Cochrane review database for studies published between 1.11.2019 and 23.04.2020. We pooled the data of selected studies (22/7226 (650 patients) for meta-analysis) to estimate duration of viral detection and visualized viral load over time.
-
-    >>> Findings
-      Our analysis showed consistent viral detection from specimen from the upper respiratory tract (URT), the lower respiratory tract (LRT), and faeces, irrespective of the clinical severity of COVID-19. Our analysis suggests that SARS-CoV-2 persists for a longer duration in the LRT compared to the URT in adult patients (5•7 days in mild; 5•9 days in moderate-severe patients). The differences in the duration of viral detection between mild and moderate-severe patients is limited in the LRT, but an indication of longer duration of viral detection for moderate-severe patients was observed in feces (15 days in mild vs. 21 days in moderate-severe patients) and the URT (12 days in mild vs. 16 days in moderate-severe patients). Further, viral load was demonstrated to peak in earlier stages of infection in the URT compared to LRT.
-
-    >>>  Interpretation
-      This review may aid mathematical modelling and help in defining appropriate endpoints for clinical trails with antivirals in COVID-19.
-
-    -- quotes
-      !a
-
-    / February, 2020 - bioRxiv
-    quote !a = The differences in the duration of viral detection between mild and moderate-severe patients is limited in the LRT, but an indication of longer duration of viral detection for moderate-severe patients was observed in feces and the URT
 
   # Antibody Response
   // Distinct Early Serological Signatures Track with SARS-CoV-2 Survival

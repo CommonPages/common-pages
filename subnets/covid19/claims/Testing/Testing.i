@@ -179,7 +179,7 @@ subject module Testing
         Comparison
 
       >>>
-              
+
 
     / CT Scans for COVID-19
     subject CTScans
@@ -247,6 +247,7 @@ subject module Testing
       --
         'Zhang_et_al_2020g
         'Zhang_et_al_2020g.!a
+        'Guo_et_al_03_21_2020
 
     claim !Asymptomatic = Serological tests have been used to confirm asymptomatic cases, in at least one study.
       --
@@ -279,6 +280,7 @@ subject module Testing
       'Mathew_et_al_05_23_2020
       'Mathew_et_al_05_23_2020.!a
       'Mathew_et_al_05_23_2020.!b
+      'Zhou_et_al_03_22_2020
     -- Cytokine Profiling
       'DelValle_et_al_05_30_2020
       'Mehta_et_al_03_28_2020

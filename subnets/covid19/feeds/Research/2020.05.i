@@ -115,6 +115,38 @@ feed May2020
 
   #
 
+  # Protective Immunity 
+  // Lack of Reinfection in Rhesus Macaques Infected with SARS-CoV-2
+  doi: https://doi.org/10.1101/2020.03.13.990226
+  ref 'Bao_et_al_05_01_2020
+    head = Rhesus macaques were rechallenged with SARS-CoV-2 during an early recovery phase from initial infection. The monkeys rechallenged with the identical SARS-CoV-2 strain have failed to produce detectable viral dissemination, clinical manifestations and histopathological changes. Our results indicated that primary SARS-CoV-2 infection protects from subsequent reinfection.
+
+    >>> Abstract
+      A global pandemic of Corona Virus Disease 2019 (COVID-19) caused by severe acute respiratory syndrome CoV-2 (SARS-CoV-2) is ongoing spread. It remains unclear whether the convalescing patients have a risk of reinfection. Rhesus macaques were rechallenged with SARS-CoV-2 during an early recovery phase from initial infection characterized by weight loss, interstitial pneumonia and systemic viral dissemination mainly in respiratory and gastrointestinal tracts. The monkeys rechallenged with the identical SARS-CoV-2 strain have failed to produce detectable viral dissemination, clinical manifestations and histopathological changes. A notably enhanced neutralizing antibody response might contribute the protection of rhesus macaques from the reinfection by SARS-CoV-2. Our results indicated that primary SARS-CoV-2 infection protects from subsequent reinfection.
+
+    / May, 2020 - medRxiv
+    quote !a =
+
+  # Antigen
+  // Low performance of rapid antigen detection test as frontline testing for COVID-19 diagnosis
+  doi: https://doi.org/10.1016/j.jcv.2020.104455
+  ref 'Schohy_et_al_05_21_2020
+    head = Higher viral loads are associated with better antigen detection rates. Unfortunately, the overall poor sensitivity of the COVID-19 Ag Respi-Strip does not allow using it alone as the frontline testing for COVID-19 diagnosis.
+
+    >>> Background
+      Ensuring accurate diagnosis is essential to limit the spread of SARS-CoV-2 and for the clinical management of COVID-19. Although real-time reverse transcription polymerase chain reaction (RT- qPCR) is the current recommended laboratory method to diagnose SARS-CoV-2 acute infection, several factors such as requirement of special equipment and skilled staff limit the use of these time-consuming molecular techniques. Recently, several easy to perform rapid antigen detection tests were developed and recommended in some countries as the first line of diagnostic.
+    >>>  Objectives
+      The aim of this study was to evaluate the performances of the Coris COVID-19 Ag Respi-Strip test, a rapid immunochromatographic test for the detection of SARS-CoV-2 antigen, in comparison to RT-qPCR.
+    >>> Results
+      148 nasopharyngeal swabs were tested. Amongst the 106 positive RT-qPCR samples, 32 were detected by the rapid antigen test, given an overall sensitivity of 30.2%. All the samples detected positive with the antigen rapid test were also positive with RT-qPCR.
+    >>> Conclusions
+      Higher viral loads are associated with better antigen detection rates. Unfortunately, the overall poor sensitivity of the COVID-19 Ag Respi-Strip does not allow using it alone as the frontline testing for COVID-19 diagnosis.
+
+    -- quotes
+      !a
+
+    / May, 2020 - Journal of Clinical Virology
+    quote !a =
 
   # RT-PCR
   // Comparison of seven commercial RT-PCR diagnostic kits for COVID-19
@@ -154,8 +186,6 @@ feed May2020
     >>> Conclusion:
       The COVID-19 Ag Respi-Strip represents a promising rapid SARS-CoV-2 antigen assay for the first-line diagnosis of COVID-19 in 15 min at the peak of the pandemic. Its role in the proposed diagnostic algorithm is complementary to the currently-used molecular techniques.
 
-    -- quotes
-      !a
 
     / May, 2020 - Front. Med.
     quote !a =
@@ -3555,7 +3585,7 @@ feed May2020
   // Predicting infectious SARS-CoV-2 from diagnostic samples
   doi: https://doi.org/10.1093/cid/ciaa638
   ref 'Bullard_et_al_05_22_2020
-    head = SARS-CoV-2 Vero cell infectivity was only observed for RT-PCR Ct < 24 and STT < 8 days. Infectivity of patients with Ct >24 and duration of symptoms >8 days may be low. For every 1-unit increase in Ct, the odds ratio for infectivity decreased by 32%.
+    head = SARS-CoV-2 Vero cell infectivity was only observed for RT-PCR Ct < 24 and STT (symptom onset to test) < 8 days. Infectivity of patients with Ct >24 and duration of symptoms >8 days may be low. For every 1-unit increase in Ct, the odds ratio for infectivity decreased by 32%.
 
     >>> Background
       RT-PCR has become the primary method to diagnose viral diseases, including SARS-CoV-2. RT-PCR detects RNA, not infectious virus, thus its ability to determine duration of infectivity of patients is limited. Infectivity is a critical determinant in informing public health guidelines/interventions. Our goal was to determine the relationship between E gene SARS-CoV-2 RT-PCR cycle threshold (Ct) values from respiratory samples, symptom onset to test (STT) and infectivity in cell culture.

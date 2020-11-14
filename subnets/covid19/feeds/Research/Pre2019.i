@@ -371,6 +371,7 @@ feed Pre2019
 
   #
 
+
   # VitaminD Rationale
   // Vitamin D controls T cell antigen receptor signaling and activation of human T cells
   doi: https://doi.org/10.1038/ni.1851
@@ -380,8 +381,6 @@ feed Pre2019
     >>> Abstract
       Phospholipase C (PLC) isozymes are key signaling proteins downstream of many extracellular stimuli. Here we show that naive human T cells had very low expression of PLC-gamma1 and that this correlated with low T cell antigen receptor (TCR) responsiveness in naive T cells. However, TCR triggering led to an upregulation of approximately 75-fold in PLC-gamma1 expression, which correlated with greater TCR responsiveness. Induction of PLC-gamma1 was dependent on vitamin D and expression of the vitamin D receptor (VDR). Naive T cells did not express VDR, but VDR expression was induced by TCR signaling via the alternative mitogen-activated protein kinase p38 pathway. Thus, initial TCR signaling via p38 leads to successive induction of VDR and PLC-gamma1, which are required for subsequent classical TCR signaling and T cell activation.
 
-    -- quotes
-      !a
 
     / March, 2010 - Nat Immunol.
     quote !a =
@@ -5218,7 +5217,7 @@ feed Pre2019
   // The Time Course of the Immune Response to Experimental Coronavirus Infection of Man
   doi: https://doi.org/10.1017/s0950268800048019
   ref 'Callow_et_al_1990
-    head = In a group of 15 Volunteers inoculated with coronavirus, concentrations started to increase 1 week after inoculation and reached a maximum about 1 week later. Thereafter antibody titres slowly declined. Although concentrations were still slightly raised 1 year later, this did not always prevent reinfection when volunteers were then challenged with the homologous virus.
+    head = In a group of 15 Volunteers inoculated with coronavirus, concentrations started to increase 1 week after inoculation and reached a maximum about 1 week later. Thereafter antibody titres slowly declined. Although concentrations were still slightly raised 1 year later, this did not always prevent reinfection when volunteers were then challenged with the homologous virus. All of the uninfected group were infected on re-challenge although they also appeared to show some resistance to disease and in the extent of infection.
 
     -- quotes
       !a

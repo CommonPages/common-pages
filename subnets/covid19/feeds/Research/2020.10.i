@@ -5,6 +5,26 @@ feed October2020
 
   #
 
+  # Universal Masking
+  // Slight reduction in SARS-CoV-2 exposure viral load due to masking results in a significant reduction in transmission with widespread implementation
+  doi: https://doi.org/10.1101/2020.09.13.20193508
+  ref 'Goyal_et_al_02_20_2020
+    head = We utilize a mathematical model to assess the impact of masking on transmission within individual transmission pairs and at the population level. Our model quantitatively links mask efficacy to reductions in viral load and subsequent transmission risk.
+
+    >>> Abstract
+      Masks are a vital tool for limiting SARS-CoV-2 spread in the population. Here we utilize a mathematical model to assess the impact of masking on transmission within individual transmission pairs and at the population level. Our model quantitatively links mask efficacy to reductions in viral load and subsequent transmission risk. Our results reinforce that the use of masks by both a potential transmitter and exposed person substantially reduces the probability of successful transmission, even if masks only lower exposure viral load by ∼50%. Slight increases in mask adherence and/or efficacy above current levels would reduce the effective reproductive number (Re) substantially below 1, particularly if implemented comprehensively in potential super-spreader environments. Our model predicts that moderately efficacious masks will lower exposure viral load 10-fold among people who get infected despite masking, potentially limiting infection severity. Because peak viral load tends to occur pre-symptomatically, we also identify that antiviral therapy targeting symptomatic individuals is unlikely to impact transmission risk. Instead, antiviral therapy would only lower Re if dosed as post-exposure prophylaxis and if given to ∼50% of newly infected people within 3 days of an exposure. These results highlight the primacy of masking relative to other biomedical interventions under consideration for limiting the extent of the COVID-19 pandemic prior to widespread implementation of a vaccine.
+
+    -- quotes
+      !a
+      !b
+
+    / October, 2020 - medRxiv
+    quote !a = Use of masks by both a potential transmitter and exposed person substantially reduces the probability of successful transmission, even if masks only lower exposure viral load by ∼50%. Slight increases in mask adherence and/or efficacy above current levels would reduce the effective reproductive number (Re) substantially below 1, particularly if implemented comprehensively in potential super-spreader environments.
+
+    / October, 2020 - medRxiv
+    quote !b = Moderately efficacious masks will lower exposure viral load 10-fold among people who get infected despite masking, potentially limiting infection severity.
+
+  # Antibody
   // Antibody responses to SARS-CoV-2 in patients with differing severities of coronavirus disease 2019
   doi: https://doi.org/xyz
   ref 'Kowitdamrong_et_al_10_09_2020
