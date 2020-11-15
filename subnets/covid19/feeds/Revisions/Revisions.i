@@ -1,7 +1,7 @@
 
 / Revision Feed
 revision feed Revisions
-  head = The Claimspace COVID-19 was first released on November 10, 2020. It was last revised on November 12 with new research under the Mitigation and Treatment modules.
+  head = The first draft of Claimspace COVID-19 was published on November 20, 2020. It was last revised on November 21 with new research under the Treatment modules.
 
   / March 29, 2020
   revision March_29
