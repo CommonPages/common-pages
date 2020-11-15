@@ -1,7 +1,7 @@
 @jeffmagee
 / Coronavirus Basics
 model module foundations
-  head = The COVID-19 Foundations module provides a conceptual framework from Biology, Physiology, Epidemiology and Medicine to serve as a backdrop for interpretation of the unfolding COVID-19 news and research.
+  head = Virology Basics, Immunology Basics, Epidemiology Basics, Coronavirus Basics
 
   --
     Virology
