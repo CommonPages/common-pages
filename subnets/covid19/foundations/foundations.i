@@ -314,7 +314,7 @@ model module foundations
 
   / Key Concepts from Epidemiology
   model module Epidemiology
-    head = Reservoirs, Recombination, Strain, Novel Strain, Index Case, Infection Rate, Mortality Rate, R<sub>0</sub>, Superspreading, Flattening the Curve, Herd Immunity, Immunization, Vaccination, Antivirals, Quarantine, Social Distancing, Sterilization, Disinfection, Hand Hygeine, Surgical Masks, Respirators, Cloth Face Mask
+    head = Reservoirs, Recombination, Strain, Novel Strain, Index Case, Infection Rate, Mortality Rate, R<sub>0</sub>, Superspreading, Flattening the Curve, Herd Immunity, Immunization, Vaccination, Antivirals, Isolation, Quarantine, Social Distancing, Masking, Hand Hygeine, Sterilization, Disinfection
 
     model *Immunization
       head = Immunization is the process by which an individual's immune system becomes fortified against a pathogen.
