@@ -315,7 +315,7 @@ model module foundations
   —
   / Key Concepts from Epidemiology
   model module Epidemiology
-    head = Reservoirs, Recombination, Strain, Novel Strain, Index Case, Infection Rate, Mortality Rate, R<sub>0</sub>, Superspreading, Flattening the Curve, Herd Immunity, Immunization, Vaccination, Antivirals, Isolation, Quarantine, Social Distancing, Masking, Hand Hygeine, Sterilization, Disinfection
+    head = Reservoirs, Recombination, Strain, Novel Strain, Index Case, Outbreak, Epidemic, Pandemic, Infection Rate, Mortality Rate, R<sub>0</sub>, Superspreading, Containment, Mitigation, Flattening the Curve, Herd Immunity, Immunization, Vaccination, Antivirals, Isolation, Quarantine, Social Distancing, Masking, Hand Hygeine, Sterilization, Disinfection
 
     model *Immunization
       head = Immunization is the process by which an individual's immune system becomes fortified against a pathogen.
@@ -434,29 +434,20 @@ model module foundations
       head = abcd
       # ytw
 
-    / scale of spread
-    model *ScaleCommunitySpread
-      head = abcd.
-      >>>
-        The scale of spread in the community can be of varied degree, and we call them as outbreak(link), {*Epidemic epidemic} or pandemic(link).
-        new paragraph
-        # Bold text
-        #### {*Pandemic} Bold text
-        new paragraph2
-      --
-        *Outbreak
-        *Epidemic
-        *Pandemic
-      model *Outbreak
-        head = Outbreak is a sudden raise in the number of cases of infection in a partcicular community (geographically limited).
-      model *Epidemic
-        head = Epidemic is a wide-spread of a disease in a particular community, population or region.
+    model *Outbreak
+      head = Outbreak is a sudden raise in the number of cases of infection in a partcicular community (geographically limited).
 
-      model *Pandemic
-        head = Pandemic is a wider spread of a disease in multiple communities/ regions (often across the globe).
-      / Fomite or contaminated surface
-      model *ContaminatedSurface
-        head = Any surface (inanimate surfaces or objects) which is likely to have pathogens with a potential to cause an infection. Often, the pathogens do not last beyond a particular duration depending upon the nature of the surface. These are also called Fomites.
+    model *Epidemic
+      head = Epidemic is a wide-spread of a disease in a particular community, population or region.
+
+    model *Pandemic
+      head = Pandemic is a wider spread of a disease in multiple communities/ regions (often across the globe).
+
+    model *Fomites
+      head = Any surface (inanimate surfaces or objects) which is likely to have pathogens with a potential to cause an infection. Often, the pathogens do not last beyond a particular duration depending upon the nature of the surface. These are also called Fomites.
+
+    model *Containment
+    model *Mitigation
 
   —
   / Key Coronavirus Concepts
