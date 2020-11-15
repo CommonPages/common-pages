@@ -1,3 +1,4 @@
+—
 / Treatment
 subject module Treatment
   head = While there is no cure for COVID-19, a number of treatment strategies have been identified which have reduced the overall mortality of the disease. The efficacy of some therapies have been confirmed by trials. Meanwhile, there is a growing body of clinical recommendations from case studies which are presumed to have improved clinical outcomes in many cases.
