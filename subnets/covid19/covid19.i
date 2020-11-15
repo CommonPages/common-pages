@@ -9,8 +9,11 @@
 #   paths.Immunity
 #   paths.Vaccines
 
+# >>>
+#   Follow the [Claimspace Twitter account](https://twitter.com/ClaimspaceOrg) for all future updates to the knowledge base. Find the complete revision history in the COVID-19 portal's {Revisions revision feed}.
+
 >>>
-  Follow the [Claimspace Twitter account](https://twitter.com/ClaimspaceOrg) for all future updates to the knowledge base. Find the complete revision history in the COVID-19 portal's {Revisions revision feed}.
+  This is a living document. Please help by sending corrections and answering open questions. Follow [@ClaimspaceOrg](https://twitter.com/ClaimspaceOrg) for updates.
 
 -- Concepts
   foundations
