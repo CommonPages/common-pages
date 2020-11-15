@@ -42,7 +42,7 @@ subject WHOMaskingGuidelines
       'WHO_Briefing_03_20_2020.!MaskShortage
       'WHO_Briefing_03_20_2020.!Priorities
 
-  question ?EarlyStatements = The March 20 press conference was not the first statement recommending against masks. What were some of the key early communications from the WHO on mask usage?
+  question ?EarlyStatements = The March 20 press conference was not the first statement from the WHO recommending against masks. What were some of the key early communications from the WHO on mask usage?
 
   / Initial Masking Guidelines
   claim !InitialMaskingGuidelines = On April 6, 2020, the WHO released their first guidance specifically dedicated to community masking. It recommended masking in limited scenarios, but stated that there was no evidence that masking healthy persons in wider community settings would prevent transmissions, emphasizing the increased risk of self-contamination when masking without rigorously adhering to tested procedures. This guidance also stated that there was no evidence to make a recommendation for or against fabric masks.
