@@ -852,7 +852,7 @@ subject module Disease
       'Yan_et_al_05_14_2020
       'Grewelle_et_al_05_18_2020
 
-    question ?Comprehensive = What studies have provided estimations of IFR and CFR globally? Where does the “0.3 to 1.4%” figure come from?
+    question ?Comprehensive = What studies have provided estimates of IFR and CFR globally? Where does the “0.3 to 1.4%” figure come from?
 
   —
   / Locale Specific Characteristics
