@@ -1,8 +1,7 @@
 
-
 ^^
   # paths.Origin
-  paths.Severity
+  # paths.Severity
   paths.Masking
   paths.Distancing
   # paths.PublicSpaces
