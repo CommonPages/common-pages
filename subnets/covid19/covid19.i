@@ -1,12 +1,12 @@
 
-# ^^
+^^
   # paths.Origin
   # paths.Severity
-  # paths.Masking
-  # paths.Distancing
+  paths.Masking
+  paths.Distancing
   # paths.PublicSpaces
   # paths.Treatment
-  # paths.Immunity
+  paths.Immunity
   # paths.Vaccines
 
 # >>>
