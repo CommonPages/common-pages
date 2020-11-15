@@ -312,6 +312,7 @@ model module foundations
     model *Immunity
       head = Immunity is the balanced state of multicellular organisms having adequate biological defenses to fight infection, disease, or other unwanted biological invasion, while having adequate tolerance to avoid allergy, and autoimmune diseases.
 
+  —
   / Key Concepts from Epidemiology
   model module Epidemiology
     head = Reservoirs, Recombination, Strain, Novel Strain, Index Case, Infection Rate, Mortality Rate, R<sub>0</sub>, Superspreading, Flattening the Curve, Herd Immunity, Immunization, Vaccination, Antivirals, Isolation, Quarantine, Social Distancing, Masking, Hand Hygeine, Sterilization, Disinfection
