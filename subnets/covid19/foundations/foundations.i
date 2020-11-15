@@ -316,6 +316,9 @@ model module foundations
   / Disease Control
   model module Medicine
 
+  —
+  / Epidemiology
+  model module Epidemiology
     model *Immunization
       head = Immunization is the process by which an individual's immune system becomes fortified against a pathogen.
 
@@ -387,10 +390,6 @@ model module foundations
 
     model *Antivirals
       head = Antiviral drugs are a class of medication used for treating viral infections. Antiviral drugs do not destroy their target pathogen; instead they inhibit their development.
-
-  —
-  / Epidemiology
-  model module Epidemiology
     # https://www.cdc.gov/csels/dsepd/ss1978/lesson1/section10.html
     # head = Epidemiology deals with the spread and possible control of a particular disease or health-condition in a community, & could help in shaping PublicPolicy to manage the situation.
 
