@@ -1,1 +1,0 @@
-name: How to Contribute
