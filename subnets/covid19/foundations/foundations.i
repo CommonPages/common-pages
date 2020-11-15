@@ -9,7 +9,7 @@ model module foundations
     Epidemiology
     CoV2
 
-  / Virology Basics
+  / Key Concepts from Virology
   model module Virology
     head = Organism, Replication, DNA, RNA, Protein, Protein Synthesis, Microorganism, Pathogen, Host, Infection, Virus, DNA Virus, RNA Virus, Viral Entry, Viral Replication, Viral Shedding, Transmission
 
@@ -184,7 +184,7 @@ model module foundations
       # fecal-oral transmission – usually from unwashed hands, contaminated food or water sources due to lack of sanitation and hygiene, an important transmission route in pediatrics, veterinary medicine and developing countries.
       # Transmission can also be indirect, via another organism, either a vector (e.g. a mosquito or fly) or an intermediate host (e.g. tapeworm in pigs can be transmitted to humans who ingest improperly cooked pork). Indirect transmission could involve zoonoses or, more typically, larger pathogens like macroparasites with more complex life cycles. Transmissions can be autochthonous (i.e. between two individuals in the same place) or may involve travel of the microorganism or the affected hosts.
 
-  / Immunology Basics
+  / Key Concepts from Immunology
   model module Immunology
     head = Viral Disease, Immune System, Innate Immune System, Inflammation, Adaptive Immune System, Symptom, Asymptomatic, Incubation Period, Latent Period, Infectious Period, Complication, Recovery, Immunity
 
@@ -313,7 +313,7 @@ model module foundations
       head = Immunity is the balanced state of multicellular organisms having adequate biological defenses to fight infection, disease, or other unwanted biological invasion, while having adequate tolerance to avoid allergy, and autoimmune diseases.
 
   —
-  / Epidemiology Basics
+  / Key Concepts from Epidemiology
   model module Epidemiology
     model *Immunization
       head = Immunization is the process by which an individual's immune system becomes fortified against a pathogen.
@@ -457,7 +457,7 @@ model module foundations
         head = Any surface (inanimate surfaces or objects) which is likely to have pathogens with a potential to cause an infection. Often, the pathogens do not last beyond a particular duration depending upon the nature of the surface. These are also called Fomites.
 
   —
-  / Coronavirus Basics
+  / Key Coronavirus Concepts
   model module CoV2
 
     model *Coronavirus
