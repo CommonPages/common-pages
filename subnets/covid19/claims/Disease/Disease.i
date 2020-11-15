@@ -16,8 +16,8 @@ subject module Disease
 
     --
       !Incubation
-      !Course
-      !Recovery
+      ?Course
+      ?Recovery
 
     / Incubation
     claim !Incubation = Researchers have produced multiple estimates for the incubation period of SARS-CoV-2, with mean values ranging from 4 to 6 days, and the 95th percentile approaching 14 days.
@@ -31,9 +31,9 @@ subject module Disease
         'Liu_et_al_03_03_2020.!d
         'Sanche_et_al_2020
 
-    claim !Course = The statistical distribution of symptom duration has not yet been established.
+    question ?Course = What is known about the statistical distribution of symptom duration?
 
-    claim !Recovery = The statistical distribution of time to recovery has not yet been established.
+    question ?Recovery = What is known about the statistical distribution of recovery time?
 
   / Symptoms and Complications
   subject Course
