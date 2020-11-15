@@ -2,7 +2,6 @@
 import foundations.Virology
 import foundations.Immunology
 import foundations.Epidemiology
-import foundations.Medicine
 import foundations.CoV2
 
 import foundations.Virology._
