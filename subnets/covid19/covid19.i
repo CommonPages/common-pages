@@ -1,13 +1,14 @@
 
 ^^
-  paths.Origin
-  paths.Severity
-  paths.Masking
-  paths.Distancing
-  paths.PublicSpaces
-  paths.Treatment
-  paths.Immunity
-  paths.Vaccines
+  Prevention.Masking
+  # paths.Origin
+  # paths.Severity
+  # paths.Masking
+  # paths.Distancing
+  # paths.PublicSpaces
+  # paths.Treatment
+  # paths.Immunity
+  # paths.Vaccines
 
 # >>>
 #   Follow the [Claimspace Twitter account](https://twitter.com/ClaimspaceOrg) for all future updates to the knowledge base. Find the complete revision history in the COVID-19 portal's {Revisions revision feed}.
