@@ -1,7 +1,7 @@
 @jeffmagee
 / COVID-19 in Context
 model module foundations
-  head = Coronaviruses are a group of related RNA viruses that cause respiratory tract infections that can range from mild to lethal. SARS-CoV-2 is a new coronavirus that causes the contagious respiratory and vascular disease COVID-19. Research into COVID-19 applies concepts from many disciplines, but particularly: virology, immunology and epidemiology.
+  head = Coronaviruses are a group of related RNA viruses that cause respiratory tract infections that can range from mild to lethal. SARS-CoV-2 is a new coronavirus that causes the contagious respiratory and vascular disease COVID-19. Research into COVID-19 applies concepts from many disciplines; particularly: virology, immunology and epidemiology.
 
   --
     Virology
