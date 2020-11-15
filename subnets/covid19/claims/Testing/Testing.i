@@ -329,7 +329,7 @@ subject module Testing
   subject CommunitySurveillance
     head = To identify hotspots and community level immunity, some communities have monitored viral RNA via serosurveys of wastewater.
 
-    claim !Seroprevalence = Seroprevalance surveys uses antibody tests to estimate the percentage of a population in a specific area who have been previously infected with SARS-CoV-2.
+    claim !Seroprevalence = Seroprevalance surveys use antibody tests to estimate the percentage of a population in a specific area who have been previously infected with SARS-CoV-2.
       --
         'Thompson_et_al_2020
         'Salje_et_al_04_20_2020.!j
