@@ -7,7 +7,7 @@ model module foundations
     Virology
     Immunology
     Epidemiology
-    CoV2
+    # CoV2
 
   / Key Concepts from Virology
   model module Virology
