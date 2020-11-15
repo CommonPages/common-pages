@@ -805,27 +805,24 @@ subject module Disease
       # --
       # 'Niwa_et_al_10_15_2018
 
-  —
   / Fatality
   subject Fatality
     head = Infection Fatality Rate (IFR) and Mortality rate vary significantly by geography and age group. Estimates of key figures vary among researchers, and across locales. Global IFR is estimated between 0.3 to 1.4%.
 
+    —
     / Infection Fatality Rate
     model *IFR
+    —
     model *MortalityRate
+    —
     model *ExcessMortality
 
     >>>
       Note that {*IFR Infection Fatality Rate} (also Case Fatality Rate) refers to the proportion of infections which result in death. The {*MortalityRate} by contrast refers to the overall rate at which people have died from COVID-19 within a given time period, irrespective of the number of infections. Another frequently referenced measure is {*ExcessMortality}, which describes the estimated difference in overall mortality from all causes during a given interval.
 
-    claim !China = *IFR in China has been estimated at ...
-    claim !Italy = *IFR in Italy has been estimated at ...
-    claim !USA = *IFR in the United States has been estimated at ...
+    questions
+      ?Comprehensive
 
-    --
-      !China
-      !Italy
-      !USA
 
     -- IFR
       'Wu_et_al_2020
@@ -854,6 +851,8 @@ subject module Disease
     -- Predicting Mortality and Infection Fatality Rate
       'Yan_et_al_05_14_2020
       'Grewelle_et_al_05_18_2020
+
+    question ?Comprehensive = What studies have provided estimations of IFR and CFR globally? Where does the “0.3 to 1.4%” figure come from?
 
   —
   / Locale Specific Characteristics
