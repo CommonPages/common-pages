@@ -93,17 +93,17 @@ subject module Timeline
     --
       !China
     >>>
-      Shortly after the outbreak in China, an outbreak on a cruise ship was identified, which would serve as a unique case study for subsequent research.
-    --
-      !DiamondPrincess
-      ?CruiseShips
-    >>>
-      Outbreaks were soon detected in a number of countries in Asia and Europe, as well as in the United States.
+      Throughout January, outbreaks were detected in a number of countries in Asia and Europe, as well as in the United States.
     --
       !Asia
       !NorthAmerica
       !Europe
       # !Singapore
+    >>>
+      Meanwhile, an outbreak on a cruise ship was identified, which would serve as a unique case study for subsequent research.
+    --
+      !DiamondPrincess
+      ?CruiseShips
     --
       TransmissionLineage
       GlobalEpidemiology
@@ -129,7 +129,7 @@ subject module Timeline
     question ?CruiseShips = Was the diamond princess the first  cruise ship outbreak at this time? Were there other cruise ship outbreaks at this stage that have been studied?
 
     / Asia
-    claim !Asia = The first known cases outside of China were identified in Thailand (January 13), Japan (January 16) and Korea (January 20).
+    claim !Asia = The first known cases of COVID-19 outside of China were identified in Thailand (January 13), Japan (January 16) and Korea (January 20).
 
       claim !Korea = In January of 2020, the first COVID-19 patients were first discovered in South Korea, all of whom had recently visited China.
         --
