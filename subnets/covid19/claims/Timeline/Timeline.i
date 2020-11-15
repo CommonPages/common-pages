@@ -96,13 +96,14 @@ subject module Timeline
       Shortly after the outbreak in China, an outbreak on a cruise ship was identified, which would serve as a unique case study for subsequent research.
     --
       !DiamondPrincess
+      ?CruiseShips
     >>>
       Outbreaks were soon detected in a number of countries in Asia and Europe, as well as in the United States.
     --
-      !SouthKorea
-      !USA
+      !Asia
+      !NorthAmerica
       !Europe
-      !Singapore
+      # !Singapore
     --
       TransmissionLineage
       GlobalEpidemiology
@@ -125,17 +126,21 @@ subject module Timeline
         'Russell_et_al_2020
         'Mizumoto_et_al_2020
 
-    / South Korea
-    claim !SouthKorea = In January of 2020, the first COVID-19 patients were first discovered in South Korea, all of whom had recently visited China.
-      --
-        'Kim_et_al_2020
-        'Lim_et_al_2020
-        'Park_et_al_2020
-        'Shim_et_al_03_17_2020
-        'Shim_et_al_03_17_2020.!a
+    question ?CruiseShips = Was the diamond princess the first  cruise ship outbreak at this time? Were there other cruise ship outbreaks at this stage that have been studied?
 
-    / USA
-    claim !USA = The first known case of COVID-19 was identified on January 19, 2020, in the state of Washington. The source of the patient's infection was unknown, but he had recently travelled to Wuhan, China. A major outbreak in New York soon followed.
+    / Asia
+    claim !Asia = The first known cases outside of China were identified in Thailand (January 13), Japan (January 16) and Korea (January 20).
+
+      claim !Korea = In January of 2020, the first COVID-19 patients were first discovered in South Korea, all of whom had recently visited China.
+        --
+          'Kim_et_al_2020
+          'Lim_et_al_2020
+          'Park_et_al_2020
+          'Shim_et_al_03_17_2020
+          'Shim_et_al_03_17_2020.!a
+
+    / North America
+    claim !NorthAmerica = The first known case of COVID-19 in North America was identified on January 19, 2020, in the state of Washington. The source of the patient's infection was unknown, but he had recently travelled to Wuhan, China. A major outbreak in New York soon followed.
       --
         'Holshue_et_al_2020
         'Scott_et_al_2020
@@ -149,11 +154,11 @@ subject module Timeline
       --
         'XavierLescure_et_al_2020
 
-    / Singapore
-    claim !Singapore = As of Feb 15, 2020, 36 cases of COVID-19 were linked epidemiologically to the first three clusters of circumscribed local transmission in Singapore.
-      --
-        'Young_et_al_2020
-        'Pung_et_al_03_28_2020
+    # / Singapore
+    # claim !Singapore = As of Feb 15, 2020, 36 cases of COVID-19 were linked epidemiologically to the first three clusters of circumscribed local transmission in Singapore.
+    #   --
+    #     'Young_et_al_2020
+    #     'Pung_et_al_03_28_2020
 
     —
     / Global Epidemiology
