@@ -1,5 +1,5 @@
 
-/ Masking (for Protection)
+/ Masking
 subject module Masking
   head = Mask effectiveness is highly dependent on the type of mask, the usage patterns of the wearer, and on each virus' transmissability. Their applicability in health care settings is unchallenged, but their protective efficacy for healthy individuals in community settings is disputed.
 
@@ -12,7 +12,7 @@ subject module Masking
   # path SurgicalMasks
   # path Respirators
 
-  questions
+  --
     ?Observations
 
   --- See also
