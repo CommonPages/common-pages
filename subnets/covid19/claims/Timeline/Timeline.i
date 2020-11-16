@@ -88,7 +88,7 @@ subject module Timeline
   / Outbreak Timeline
   // Timeline of the SARS-CoV-2 Outbreak
   subject module Outbreak
-    head = In late 2019, a novel coronavirus strain now known as SARS-CoV2 first emerged in the Wuhan province of China. The virus subsequently spread to all provinces of China and to more than 150 other countries in Asia, Europe, North America, South America, Africa, and Oceania.
+    head = In late 2019, a novel coronavirus strain now known as SARS-CoV2 first emerged in the Wuhan province of China. By January, cases has been identified elsewhere in Asia, in North America and in Europe.
 
     # face orig = The earliest case of infection currently known is dated back to 17 November 2019 or possibly 1 December 2019. The virus subsequently spread to all provinces of China and to more than 150 other countries in Asia, Europe, North America, South America, Africa, and Oceania. Human-to-human transmission of the virus has been confirmed in all these regions.
     --
@@ -200,7 +200,7 @@ subject module Timeline
   —
   / Pandemic Timeline
   subject module Pandemic
-    head = Following its origin in China, SARS-CoV-2 subsequently spread to all provinces of China and to more than 150 other countries in Asia, Europe, North America, South America, Africa, and Oceania. Thousands of case reports provided early evidence as to the nature of the virus and disease it causes.
+    head = Following its origin in Wuhan, SARS-CoV-2 quickly spread to all provinces of China and to more than 150 other countries in Asia, Europe, North America, South America, Africa, and Oceania. Thousands of case reports provided early evidence as to the nature of the virus and disease it causes.
 
   —
   / Origin of SARS-CoV-2
