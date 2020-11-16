@@ -3,10 +3,10 @@
   paths.Masking
   paths.Distancing
   paths.Immunity
+  paths.PublicSpaces
   # Stubs
   paths.Origin
   paths.Severity
-  paths.PublicSpaces
   paths.Treatment
   paths.Vaccines
 
