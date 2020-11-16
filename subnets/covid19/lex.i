@@ -7,6 +7,7 @@ import foundations.CoV2
 import foundations.Virology._
 import foundations.Immunology._
 import foundations.Epidemiology._
+import foundations.PublicHealth._
 import foundations.CoV2._
 import foundations.Triage._
 
