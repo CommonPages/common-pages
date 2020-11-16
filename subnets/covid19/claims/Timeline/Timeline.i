@@ -6,6 +6,7 @@ subject module Timeline
   --
     Background
     Outbreak
+    Pandemic
     Response
     Origin
 
@@ -109,7 +110,7 @@ subject module Timeline
       GlobalEpidemiology
 
     / Outbreak in China
-    claim !China = A novel coronavirus designated as 2019-nCoV first appeared in Wuhan, China in late December 2019. The fatality rate of symptomatic cases during the initial outbreak has been estimated around 1.4%.
+    claim !China = A novel coronavirus designated as 2019-nCoV first appeared in Wuhan, China in December 2019. The fatality rate of symptomatic cases during the initial outbreak has been estimated around 1.4%.
       --
         'Phan_et_al_2020
         'Zhu_et_al_2020
@@ -197,9 +198,14 @@ subject module Timeline
         'Tang_et_al_05_24_2020.!d
 
   —
+  / Pandemic Timeline
+  subject module Pandemic
+    head = Following its origin in China, SARS-CoV-2 subsequently spread to all provinces of China and to more than 150 other countries in Asia, Europe, North America, South America, Africa, and Oceania. Thousands of case reports provided early evidence as to the nature of the virus and disease it causes.
+
+  —
   / Origin of SARS-CoV-2
   dispute Origin
-    head = The ultimate origin of SARS-CoV-2 is disputed. Researches have proposed multiple theories as to the original source of human transmission of the SARS-CoV2 virus. Theories range from direct or indirect animal transmission (involving bats, pangolins or civets) to spillover from a nearby laboratory.
+    head = SARS-CoV-2 likely arose in October or November 2019, but the ultimate origin of the virus is disputed. Researches have proposed multiple theories as to the original source of human transmission. Theories range from direct or indirect animal transmission (involving bats, pangolins or civets) to spillover from a nearby laboratory.
 
     / Genome Sequence
     subject GenomeSequence
