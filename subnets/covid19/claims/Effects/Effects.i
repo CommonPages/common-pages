@@ -1,7 +1,7 @@
 —
 / Effects and Social Implications
 subject module Effects
-  head = COVID-19 is a global event with far-reaching implications for every society on earth. Researchers across a wide variety of disciplines have investigated many manifestations of the pandemic, from economic effects, to mental health, social disparities and effects on specific populations.
+  head = COVID-19 is a global phenomenon with implications for every society on earth. Researchers across a wide variety of disciplines have investigated many manifestations of the pandemic, from economic effects, to mental health, social disparities and effects on specific populations.
 
   -- SocialBehavior
     'Bavel_et_al_2020

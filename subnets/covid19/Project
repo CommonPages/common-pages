@@ -1,9 +1,7 @@
 id: "$covid19"
 name: "COVID-19"
-title: "Claimspace: COVID-19"
 mask: Portal
-lead: "In late 2019, a novel coronavirus strain now known as SARS-CoV-2 emerged in China and quickly spread to more than 150 countries. The virus and the disease it causes, as well as both individual and public mitigation strategies are subjects of active research and debate."
-description: "The Claimspace COVID-19 portal is a collective effort to make sense of the developing news and research surrounding the 2019-20 coronavirus pandemic. The goal of the portal is not to make authoritative claims—rather it is to organize the spectrum of claims alongside foundational concepts in biology, medicine, and epidemiology, to support collective critical thinking."
+lead: "In late 2019, a novel coronavirus strain now known as SARS-CoV-2 emerged in China and quickly spread around the world. The virus, the disease it causes, and strategies to reduce its impact are all active subjects of cross-disciplinary research and public debate."
 theme:
   logo: "//static.theinsight.cloud/icons/project.ico"
   color:

@@ -1,11 +1,12 @@
 / The Virus
 subject module Virus
-  head = SARS-CoV-2 is a highly infectious RNA virus with many structural similarities to its predecessors. Infectiousness peaks on or before the onset of symptoms. While there is evidence of genetic diversity in SARS-CoV-2, functional differences between strains are not yet clear.
+  head = SARS-CoV-2 is a highly infectious RNA virus with many structural similarities to its predecessors. The virus is viable in heavy droplets and aerosols, though the duration of viability in aerosols—i.e., the extent to which it is “airborne”—is disputed. There is evidence of genetic diversity in SARS-CoV-2, but substantive differences between strains are not yet clear.
 
   --
     Structure
     Entry
     Shedding
+    Viability
     Genetics
 
   / Structure
@@ -138,7 +139,11 @@ subject module Virus
         'Chen_et_al_04_03_2020
         'Chen_et_al_04_03_2020.!a
 
-
+  / Viability
+  subject Viability
+    subject Droplets
+    subject Fomites
+    dispute Aerosols
 
   / Genetics
   subject Genetics

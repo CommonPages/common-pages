@@ -1,17 +1,14 @@
 
-^^
-  paths.Masking
-  paths.Distancing
-  paths.Immunity
-  paths.PublicSpaces
-  # Stubs
-  paths.Origin
-  paths.Severity
-  paths.Treatment
-  paths.Vaccines
-
-# >>>
-#   Follow the [Claimspace Twitter account](https://twitter.com/ClaimspaceOrg) for all future updates to the knowledge base. Find the complete revision history in the COVID-19 portal's {Revisions revision feed}.
+# ^^
+#   paths.Masking
+#   paths.Distancing
+#   paths.Immunity
+#   paths.PublicSpaces
+#   # Stubs
+#   paths.Origin
+#   paths.Severity
+#   paths.Treatment
+#   paths.Vaccines
 
 >>>
   This is a {community.Process living document} which represents the work of many authors. You can contribute by sending {community.Corrections corrections} and responding to {community.Questions open questions}.
