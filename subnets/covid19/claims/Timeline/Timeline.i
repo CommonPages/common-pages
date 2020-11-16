@@ -108,7 +108,7 @@ subject module Timeline
       TransmissionLineage
       GlobalEpidemiology
 
-    / China
+    / Outbreak in China
     claim !China = A novel coronavirus designated as 2019-nCoV first appeared in Wuhan, China in late December 2019. The fatality rate of symptomatic cases during the initial outbreak has been estimated around 1.4%.
       --
         'Phan_et_al_2020
@@ -120,17 +120,10 @@ subject module Timeline
         'Bi_et_al_04_27_2020
         'Wu_et_al_2020.!a
 
-    / Diamond Princess
-    claim !DiamondPrincess = An outbreak of COVID-19 on cruise ship Diamond Princess was reported with 10 initial cases, following an index case on board around 21-25th January. By 20th February, 619 of 3,700 passengers and crew (17%) were tested positive.
-      --
-        'Russell_et_al_2020
-        'Mizumoto_et_al_2020
+    / Outbreak in Asia
+    claim !Asia = The first known cases of COVID-19 outside of China were identified in Thailand (January 13), Japan (January 16) and Korea (January  20).
 
-    question ?CruiseShips = Was the diamond princess the first  cruise ship outbreak at this time? Were there other cruise ship outbreaks at this stage that have been studied?
-
-    / Asia
-    claim !Asia = The first known cases of COVID-19 outside of China were identified in Thailand (January 13), Japan (January 16) and Korea (January 20).
-
+      / Outbreak in Korea
       claim !Korea = In January of 2020, the first COVID-19 patients were first discovered in South Korea, all of whom had recently visited China.
         --
           'Kim_et_al_2020
@@ -139,7 +132,13 @@ subject module Timeline
           'Shim_et_al_03_17_2020
           'Shim_et_al_03_17_2020.!a
 
-    / North America
+      / Outbreak in Singapore
+      claim !Singapore = As of Feb 15, 2020, 36 cases of COVID-19 were linked epidemiologically to the first three clusters of circumscribed local transmission in Singapore.
+        --
+          'Young_et_al_2020
+          'Pung_et_al_03_28_2020
+
+    / Outbreak in North America
     claim !NorthAmerica = The first known case of COVID-19 in North America was identified on January 19, 2020, in the state of Washington. The source of the patient's infection was unknown, but he had recently travelled to Wuhan, China. A major outbreak in New York soon followed.
       --
         'Holshue_et_al_2020
@@ -149,16 +148,19 @@ subject module Timeline
         'Rosenberg_et_al_05_29_2020
         'Fauver_et_al_05_07_2020
 
-    / Europe
+    / Outbreak in Europe
     claim !Europe = The earliest COVID-19 diagnosis in Europe took place on Jan 24, 2020. The patients were all of Chinese origin, and had travelled to France from China.
       --
         'XavierLescure_et_al_2020
 
-    # / Singapore
-    # claim !Singapore = As of Feb 15, 2020, 36 cases of COVID-19 were linked epidemiologically to the first three clusters of circumscribed local transmission in Singapore.
-    #   --
-    #     'Young_et_al_2020
-    #     'Pung_et_al_03_28_2020
+    / Outbreak on the Diamond Princess
+    claim !DiamondPrincess = An outbreak of COVID-19 on cruise ship Diamond Princess was reported with 10 initial cases, following an index case on board around 21-25th January. By 20th February, 619 of 3,700 passengers and crew (17%) were tested positive.
+      --
+        'Russell_et_al_2020
+        'Mizumoto_et_al_2020
+
+    question ?CruiseShips = Was the diamond princess the first  cruise ship outbreak at this time? Were there other cruise ship outbreaks at this stage that have been studied?
+
 
     —
     / Global Epidemiology
