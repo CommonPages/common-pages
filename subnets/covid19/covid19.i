@@ -13,7 +13,7 @@
 #   Follow the [Claimspace Twitter account](https://twitter.com/ClaimspaceOrg) for all future updates to the knowledge base. Find the complete revision history in the COVID-19 portal's {Revisions revision feed}.
 
 >>>
-  This is a {community.Community living document} which represents the work of many authors. You can contribute by sending {community.Corrections corrections} and responding to {community.Questions open questions}.
+  This is a {community.Process living document} which represents the work of many authors. You can contribute by sending {community.Corrections corrections} and responding to {community.Questions open questions}.
 
   Follow [@ClaimspaceOrg](https://twitter.com/ClaimspaceOrg) for updates, or check the {Revisions revision feed}.
 
