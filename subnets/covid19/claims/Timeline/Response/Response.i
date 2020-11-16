@@ -6,8 +6,8 @@ subject module Response
 
   # https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic
 
-  >>>
-    This is a stub.
-
   --
     WHOMaskingGuidelines
+    ?Others
+
+  question ?Others = What other response timelines would be useful to reflect in this module?
