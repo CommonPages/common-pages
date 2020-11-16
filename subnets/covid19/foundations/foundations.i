@@ -379,6 +379,7 @@ model module foundations
     model *Fomites
       head = Any surface (inanimate surfaces or objects) which is likely to have pathogens with a potential to cause an infection. Often, the pathogens do not last beyond a particular duration depending upon the nature of the surface. These are also called Fomites.
 
+  —
   / Key Concepts from Public Health
   model module PublicHealth
     head = Outbreak, Epidemic, Pandemic, Containment, Mitigation, Flattening the Curve, Isolation, Quarantine, Social Distancing, PPE, Source Control, Surgical Masks, Respirators, Cloth Masks, Hand Hygeine, Sterilization, Disinfection, Antivirals, Surveillance, Contact Tracing
