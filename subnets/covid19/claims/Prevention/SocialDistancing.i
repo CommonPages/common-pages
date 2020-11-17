@@ -1,7 +1,7 @@
 
 / Social Distancing
 subject SocialDistancing
-  head = Social distancing is the the practice of maintaining physical distance between individuals. The risk of COVID-19 transmission falls as physical distance increases, but the so called "six-foot rule" does not indicate as meaningful a threshold for COVID-19 as in other respiratory viruses. In some settings, even six feet may be too close to prevent transmission.
+  head = Social distancing is the the practice of maintaining physical distance between individuals. The risk of COVID-19 transmission falls as physical distance increases, but the so called "six-foot rule" may not be a meaningful threshold for COVID-19. In some settings, even six feet may be too close to prevent transmission.
 
   let !three_feet mean !ThreeFootRule
   let !six_feet_guidance mean !SixFootRule
@@ -12,6 +12,9 @@ subject SocialDistancing
   let !adopted_for_COVID-19 mean !Adopt
 
   claim !Distance = The risk of SARS-CoV-2 transmission falls as physical distance between people increases. However, thresholds of transmission risk relative to distance are difficult to assess, and yet to be established.
+    --
+      'Centre_for_Evidence-Based_Medicine_06_22_2020
+      'Centre_for_Evidence-Based_Medicine_06_22_2020.!d
 
   claim !ThreeFootRule = Prior to SARS pandemic of 2003, the WHO recommended maintaining physical distances of three feet to reduce the risk of transmission of respiratory viruses. This guidance was originally based on estimates of respiratory droplet travel given by a tuberculosis researcher in 1930.
     --
@@ -22,6 +25,8 @@ subject SocialDistancing
       'Olsen_et_al_12_18_2003
 
   claim !Adopt = During the SARS-CoV-2 pandemic, a number of prominent organizations offering guidelines—including the CDC and WHO—have adopted the updated !six_feet_guidance from the SARS epidemic of 2003 for their COVID-19 guidelines.
+
+    question ?Evidence = Where are the documents announcing these recommendations?
     # --
       # CDC
       # WHO
@@ -46,12 +51,13 @@ subject SocialDistancing
     !Speculation
     !Inconsistent
 
-  -- Six-foot rule
+  triage
+  # -- Six-foot rule
     'Setti_et_al_04_23_2020
     'Jones_et_al_08_25_2020
     'Feigin_et_al_1982
 
-  -- Social Distancing
+  # -- Social Distancing
     'Cowling_et_al_2020
     'Cowling_et_al_2020.!a
     'Lavezzo_et_al_04_18_2020

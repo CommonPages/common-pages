@@ -1,6 +1,6 @@
 
 / Masking
-subject module Masking
+subject Masking
   head = Mask effectiveness is highly dependent on the type of mask, the usage patterns of the wearer, and on each virus' transmissability. Their applicability in health care settings is unchallenged, but their protective efficacy for healthy individuals in community settings is disputed.
 
   # ^^
@@ -16,8 +16,8 @@ subject module Masking
     ?Observations
 
   --- See also
-    Containment.Measures.SourceControl
     Timeline.Response.WHOMaskingGuidelines
+    Containment.Measures.UniversalMasking
 
   >>>
     Note that this section reflects claims about the effectiveness of masks for the *protection of the wearer*. Claims about the role of masks reducing transmission risk from infected individuals—and communities in general—are found under {Containment community containment measures}.

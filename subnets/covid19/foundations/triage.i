@@ -2,6 +2,9 @@
 index: hide
 . Triage
 
+  / Personal Protective Equipment (PPE)
+  model *PPE
+
   / Aerosol-generating Procedure
   model *AGPs
     head = An aerosol-generating procedure (AGP) is a medical or health-care procedure that results in the production of airborne particles (aerosols) or respiratory droplets, which may be pathogenic.

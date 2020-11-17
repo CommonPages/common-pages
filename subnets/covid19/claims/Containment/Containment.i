@@ -1,5 +1,5 @@
 —
-/ Containment and Mitigation Strategies
+/ Containment and Mitigation
 subject module Containment
   head = Many community mitigation strategies above and beyond the adoption of individual infection prevention measures have been proposed, disputed, and attempted. These include various forms of social limitations, closures, and test and trace approaches. Meanwhile, other researchers have suggested strategies to reach herd immunity in a controlled fashion.
 
@@ -7,8 +7,8 @@ subject module Containment
   subject module Measures
     head = There are several containment measures taken by individuals, businesses, health departments, and community settings to slow the spread of COVID-19 but it remains unclear the extent to which these unprecedented measures have been successful.
 
-    / Masking (for Source Control)
-    subject SourceControl
+    / Universal Masking
+    subject UniversalMasking
       head = Universal masking in public complements social distancing and hand hygiene in containing or slowing down the otherwise exponential growth of the pandemic. It has shown to protect against cross-transmission through unavoidable person-to-person contact during the lockdown and reduces the risk for resurgence during relaxation of social distancing measures. A high degree of compliance will maximise the impact of universal masking in public.
 
       -- jmagee

@@ -1,14 +1,14 @@
 
-# ^^
-#   paths.Masking
-#   paths.Distancing
-#   paths.Immunity
-#   paths.PublicSpaces
-#   # Stubs
-#   paths.Origin
-#   paths.Severity
-#   paths.Treatment
-#   paths.Vaccines
+^^
+  paths.Testing
+  paths.Masking
+  paths.Distancing
+  # paths.Immunity
+  # # Stubs
+  # paths.Origin
+  # paths.Severity
+  # paths.Treatment
+  # paths.Vaccines
 
 >>>
   This is a {community.Process living document} which represents the work of many authors. You can contribute by sending {community.Corrections corrections} and responding to {community.Questions open questions}.
