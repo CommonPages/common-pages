@@ -2,6 +2,23 @@
 # 2 specifying only the width/height only should also work, this will make adding images easier. Now one has to calculate/scale the dimensions so that the image aspect ration is not skewed
 
 space Figures
+
+  url: http://static.theinsight.cloud/projects/covid-19/Process.png
+  width: 540
+  height: 34
+  image 'Process
+
+  url: http://static.theinsight.cloud/projects/covid-19/Corrections.png
+  width: 616
+  height: 182
+  image 'Corrections
+
+  url: http://static.theinsight.cloud/projects/covid-19/Questions.png
+  width: 637
+  height: 158
+  image 'Questions
+
+
   >>>
     Here we import all the Figures which needs to be called within covid19 subnet.  index: hide
   name: Figure:
