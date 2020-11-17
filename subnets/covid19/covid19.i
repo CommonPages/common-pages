@@ -1,8 +1,8 @@
 
 ^^
-  paths.Testing
+  # paths.Testing
   paths.Masking
-  paths.Distancing
+  # paths.Distancing
   # paths.Immunity
   # # Stubs
   # paths.Origin
