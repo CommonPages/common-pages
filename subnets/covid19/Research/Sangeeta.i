@@ -718,11 +718,11 @@ feed Sangeeta
   // Universal Masking to Prevent SARS-CoV-2 Transmission—The Time Is Now
   doi: https://doi.org/10.1001/jama.2020.13107
   ref 'Brooks_et_al_07_14_2020
-    head = In the largest health care system in Massachusetts with more than 75 000 employees, in tandem with routine symptom screening and diagnostic testing of symptomatic HCWs for SARS-CoV-2 infection, leadership mandated a policy of universal masking for all HCWs as well as for all patients. Prior to implementation of universal masking in late March 2020, new infections among HCWs with direct or indirect patient contact were increasing exponentially, from 0% to 21.3% (a mean increase of 1.16% per day). However, after the universal masking policy was in place, the proportion of symptomatic HCWs with positive test results steadily declined, from 14.7% to 11.5% (a mean decrease of 0.49% per day).
+    head = In the largest health care system in Massachusetts with more than 75,000 employees, in tandem with routine symptom screening and diagnostic testing of symptomatic HCWs for SARS-CoV-2 infection, leadership mandated a policy of universal masking for all HCWs as well as for all patients.
 
 
     / July, 2020 - JAMA.
-    quote !a =
+    quote !a = Prior to implementation of universal masking in late March 2020, new infections among HCWs with direct or indirect patient contact were increasing exponentially, from 0% to 21.3% (a mean increase of 1.16% per day). However, after the universal masking policy was in place, the proportion of symptomatic HCWs with positive test results steadily declined, from 14.7% to 11.5% (a mean decrease of 0.49% per day).
 
 
 
@@ -1327,11 +1327,6 @@ feed Sangeeta
   doi: https://doi.org/10.1056/NEJMp2026913
   ref 'Gandhi_et_al_09_08_2020
     head = Universal facial masking might help reduce the severity of disease and ensure that a greater proportion of new infections are asymptomatic. If this hypothesis is borne out, universal masking could become a form of “variolation” that would generate immunity and thereby slow the spread of the virus in the United States and elsewhere, as we await a vaccine.
-    -- quotes
-      !a
-
-    / Universal masking may help reduce severity of disease and lead to immunity
-    quote !a = Universal facial masking might help reduce the severity of disease and ensure that a greater proportion of new infections are asymptomatic. If this hypothesis is borne out, universal masking could become a form of “variolation” that would generate immunity and thereby slow the spread of the virus in the United States and elsewhere, as we await a vaccine.
 
 
 
@@ -1355,11 +1350,6 @@ feed Sangeeta
   doi: https://doi.org/10.1016/j.puhe.2020.05.009
   ref 'Sergi_et_al_05_13_2020
     head = All citizens should wear a mask. Although strict isolation and social distancing measures can flatten the infectious curve, the use of facemask needs to be encouraged and facilitated where the 6-feet social distancing cannot be implemented because of physical barriers. Preservation of N95 respirators for high-risk, aerosol-generating procedures in this pandemic should be considered when in short supply, but surgical facemasks should be provided to everybody.
-    -- quotes
-      !a
-
-    / Recommendation/Plicy: Everyone should wear masks
-    quote !a = All citizens should wear a mask. Although strict isolation and social distancing measures can flatten the infectious curve, the use of facemask needs to be encouraged and facilitated where the 6-feet social distancing cannot be implemented because of physical barriers. Preservation of N95 respirators for high-risk, aerosol-generating procedures in this pandemic should be considered when in short supply, but surgical facemasks should be provided to everybody.
 
 
   # Custom-made 3D-printed face masks, Typefacemask, shortage
@@ -1370,6 +1360,7 @@ feed Sangeeta
 
     >>> Abstract
       In the case of pandemic crisis situations, a crucial lack of protective material such as protective face masks for healthcare professionals can occur. A proof of concept (PoC) and prototype are presented, demonstrating a reusable custom-made three-dimensionally (3D) printed face mask based on materials and techniques (3D imaging and 3D printing) with global availability. The individualized 3D protective face mask consists of two 3D-printed reusable polyamide composite components (a face mask and a filter membrane support) and two disposable components (a head fixation band and a filter membrane). Computer-aided design (CAD) was used to produce the reusable components of the 3D face mask based on individual facial scans, which were acquired using a new-generation smartphone with two cameras and a face scanning application. 3D modelling can easily be done by CAD designers worldwide with free download software. The disposable non-woven melt-blown filter membrane is globally available from industrial manufacturers producing FFP2/3 protective masks for painting, construction, agriculture, and the textile industry. Easily available Velcro fasteners were used as a disposable head fixation band. A cleaning and disinfection protocol is proposed. Leakage and virological testing of the reusable components of the 3D face mask, following one or several disinfection cycles, has not yet been performed and is essential prior to its use in real-life situations. This PoC should allow the reader to consider making and/or virologically testing the described custom-made 3D-printed face masks worldwide.
+
     -- quotes
       !a
 
@@ -3082,20 +3073,6 @@ feed Sangeeta
 
     / July, 2020 - The Lancet Infectious Diseases
     quote !a =
-
-
-
-  # hair salon, face mask
-  // Absence of Apparent Transmission of SARS-CoV-2 from Two Stylists After Exposure at a Hair Salon with a Universal Face Covering Policy — Springfield, Missouri, May 2020
-  doi: https://doi.org/10.1101/2020.05.22.20109231
-  ref 'Hendrix_et_al_07_14_2020
-    head = Among 139 clients exposed to two symptomatic hair stylists with confirmed COVID-19 while both the stylists and the clients wore face masks, no symptomatic secondary cases were reported; among 67 clients tested for SARS-CoV-2, all test results were negative.
-    -- quotes
-      !a
-
-    / Facemasks use results in no transmission
-    quote !a =Among 139 clients exposed to two symptomatic hair stylists with confirmed COVID-19 while both the stylists and the clients wore face masks, no symptomatic secondary cases were reported; among 67 clients tested for SARS-CoV-2, all test results were negative.
-
 
 
   # nightclubs, indoor, 246 cases

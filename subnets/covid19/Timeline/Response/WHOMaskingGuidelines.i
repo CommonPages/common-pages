@@ -13,7 +13,7 @@ subject WHOMaskingGuidelines
   let !protection mean 'WHO_06_05_2020.!ProtectionAndSourceControl
 
   >>>
-    Note that the claims below describe only the WHO's own recommendations throughout the pandemic. The underlying evidence as to the effectiveness of various masking measures are considered under {Prevention.Masking} and {Containment.Measures.UniversalMasking}.
+    Note that the claims below describe only the WHO's own recommendations throughout the pandemic. The underlying evidence as to the effectiveness of various masking measures are considered under {Prevention.Masking} and {Containment.UniversalMasking}.
 
   --
     !InitialGeneralGuidelines

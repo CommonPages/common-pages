@@ -127,7 +127,7 @@ subject module Modes
           'Li_et_al_04_22_2020
         -- Latest papers on Aerosol
           'Lu_et_al_2020
-          'Hendrix_et_al_07_14_2020
+          # 'Hendrix_et_al_07_14_2020
           'Santarpia_et_al_07_2020
           'Asadi_et_al_04_01_2020
           'Anfinrud_04_06_2020

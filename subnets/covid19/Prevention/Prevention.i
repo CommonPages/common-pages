@@ -12,7 +12,7 @@ subject module Prevention
     HandWashing
     Masking
     Gloving
-    Ventilation
+    ?Ventilation
     Disinfection
 
   claim !Challenges = Evaluating the effectiveness of individual infection prevention mechansisms is challenging. While there is indirect mechanistic evidence of efficacy for some interventions (hand washing and masking), their isolated benefits are difficult to assess.
@@ -37,10 +37,37 @@ subject module Prevention
     question ?Evidence = What direct evidence exists for COVID-19?
 
   / Ventilation
-  subject Ventilation
-    head = Some researchers have suggested that if the virus is airborne, ventilation may significantly reduce the risk of transmission via aerosols.
+  question ?Ventilation = Some researchers have suggested that if the virus is airborne, ventilation may significantly reduce the risk of transmission via aerosols. Where are the relevant discussions in this area?
 
-    question ?Evidence = Where are the relevant discussions in this area?
+    # head = Appropriate building engineering controls such as effective ventilation, possibly enhanced by particle filtration and air disinfection, avoiding air recirculation and avoiding overcrowding. Such measures can contribute to infection control goals for COVID-19
+    responses
+      'Morawska_et_al_05_27_2020
+      # 'Morawska_et_al_05_27_2020.!a
+      # 'Morawska_et_al_05_27_2020.!b
+      # 'Morawska_et_al_05_27_2020.!d
+      'Allen_et_al_06_19_2020
+      # 'Allen_et_al_06_19_2020.!b
+      # 'Allen_et_al_06_19_2020.!c
+      # 'Allen_et_al_06_19_2020.!d
+      # 'Allen_et_al_06_19_2020.!e
+      'Somsen_et_al_05_27_2020
+      # 'Somsen_et_al_05_27_2020.!f
+      # addition of disinfection devices, such as germicidal ultraviolet may offer benefits.
+      'Morawska_et_al_05_27_2020
+      # 'Morawska_et_al_05_27_2020.!e
+      'Allen_et_al_06_19_2020
+      # 'Allen_et_al_06_19_2020.!f
+      'Liu_et_al_03_10_2020
+      # drawback of ventilation
+      # 'Morawska_et_al_05_27_2020.!c
+      # 'Allen_et_al_06_19_2020.!l
+      # Building and Environment
+      'Nwanaji-Enwerem_et_al_07_08_2020
+      'Dietz_et_al_05_05_2020
+      'Amoatey_et_al_05_12_2020
+      # Past studies
+      'Holmberg_et_al_05_19_2003
+
 
   / Disinfection
   subject Disinfection

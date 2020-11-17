@@ -102,7 +102,7 @@ feed August2020
   // Mask or no mask for COVID-19: A public health and market study
   doi: https://doi.org/10.1371/journal.pone.0237691
   ref 'Li_et_al_08_14_2020
-    head = Our study evaluate the potential impact of the utilization of normal medical masks in public to combat the COVID-19. Wearing a face mask can be effectively combined with social distancing to flatten the epidemic curve. Wearing a mask presents a rational way to implement as an NPI to combat COVID-19.
+    head = Our study combines mathematical modeling and existing scientific evidence to evaluate the potential impact of the utilization of normal medical masks in public to combat the COVID-19 pandemic. We recognize our study provides a projection based only on currently available data and estimates potential probabilities.
 
     >>> Abstract
       Efficient strategies to contain the coronavirus disease 2019 (COVID-19) pandemic are peremptory to relieve the negatively impacted public health and global economy, with the full scope yet to unfold. In the absence of highly effective drugs, vaccines, and abundant medical resources, many measures are used to manage the infection rate and avoid exhausting limited hospital resources. Wearing masks is among the non-pharmaceutical intervention (NPI) measures that could be effectively implemented at a minimum cost and without dramatically disrupting social practices. The mask-wearing guidelines vary significantly across countries. Regardless of the debates in the medical community and the global mask production shortage, more countries and regions are moving forward with recommendations or mandates to wear masks in public. Our study combines mathematical modeling and existing scientific evidence to evaluate the potential impact of the utilization of normal medical masks in public to combat the COVID-19 pandemic. We consider three key factors that contribute to the effectiveness of wearing a quality mask in reducing the transmission risk, including the mask aerosol reduction rate, mask population coverage, and mask availability. We first simulate the impact of these three factors on the virus reproduction number and infection attack rate in a general population. Using the intervened viral transmission route by wearing a mask, we further model the impact of mask-wearing on the epidemic curve with increasing mask awareness and availability. Our study indicates that wearing a face mask can be effectively combined with social distancing to flatten the epidemic curve. Wearing a mask presents a rational way to implement as an NPI to combat COVID-19. We recognize our study provides a projection based only on currently available data and estimates potential probabilities. As such, our model warrants further validation studies.
@@ -110,7 +110,7 @@ feed August2020
     -- quotes
       !a
 
-    / Facemasks with other measure can help prevent infections
+    / Plos One — August 14, 2020
     quote !a = Our study indicates that wearing a face mask can be effectively combined with social distancing to flatten the epidemic curve. Wearing a mask presents a rational way to implement as an NPI to combat COVID-19. We recognize our study provides a projection based only on currently available data and estimates potential probabilities.
 
   # Dust Mask
@@ -222,18 +222,37 @@ feed August2020
   // Association of country-wide coronavirus mortality with demographics, testing, lockdowns, and public wearing of masks. Update August 4, 2020.
   doi: https://doi.org/10.1101/2020.05.22.20109231
   ref 'Leffler_et_al_08_05_2020
-    head = Societal norms and government policies supporting the wearing of masks by the public, as well as international travel controls, are independently associated with lower per-capita mortality from COVID-19.
+    head = We hypothesized that in countries where mask use was either an accepted cultural norm or favored by government policies on a national level, the per-capita mortality might be reduced, as compared with countries which did not advocate masks.
 
     >>> Purpose
-      To determine sources of variation between countries in per-capita mortality from COVID-19 (caused by the SARS-CoV-2 virus). Methods. Potential predictors of per-capita coronavirus-related mortality in 200 countries by May 9, 2020 were examined, including age, sex, obesity prevalence, temperature, urbanization, smoking, duration of infection, lockdowns, viral testing, contact tracing policies, and public mask-wearing norms and policies. Multivariable linear regression analysis was performed.
+      To determine sources of variation between countries in per-capita mortality from COVID-19 (caused by the SARS-CoV-2 virus).
+
+    >>> Methods.
+      Potential predictors of per-capita coronavirus-related mortality in 200 countries by May 9, 2020 were examined, including age, sex, obesity prevalence, temperature, urbanization, smoking, duration of infection, lockdowns, viral testing, contact tracing policies, and public mask-wearing norms and policies. Multivariable linear regression analysis was performed.
+
     >>> Results
       In univariate analyses, the prevalence of smoking, per-capita gross domestic product, urbanization, and colder average country temperature were positively associated with coronavirus-related mortality. In a multivariable analysis of 196 countries, the duration of infection in the country, and the proportion of the population 60 years of age or older were positively associated with per-capita mortality, while duration of mask-wearing by the public was negatively associated with mortality (all p<0.001). International travel restrictions and a lower prevalence of obesity were independently associated with mortality in a model which controlled for testing policy. Internal lockdown requirements and viral testing policies and levels were not associated with mortality. The association of contact tracing policy with mortality approached statistical significance (p=0.06). In countries with cultural norms or government policies supporting public mask-wearing, per-capita coronavirus mortality increased on average by just 15.8% each week, as compared with 62.1% each week in remaining countries.
+
     >>> Conclusions
       Societal norms and government policies supporting the wearing of masks by the public, as well as international travel controls, are independently associated with lower per-capita mortality from COVID-19.
+
     -- quotes
       !a
-    / Mask usage lead to lower per-capita mortality from COVID-19
-    quote !a = Societal norms and government policies supporting the wearing of masks by the public, as well as international travel controls, are independently associated with lower per-capita mortality from COVID-19.
+      !b
+      !c
+      !d
+
+    / ASTMH — October 26, 2020
+    quote !a = Internal lockdown requirements and viral testing policies and levels were not associated with mortality.
+
+    / ASTMH — October 26, 2020
+    quote !b = The association of contact tracing policy with mortality approached statistical significance (p=0.06).
+
+    / ASTMH — October 26, 2020
+    quote !c = In countries with cultural norms or government policies supporting public mask-wearing, per-capita coronavirus mortality increased on average by just 15.8% each week, as compared with 62.1% each week in remaining countries.
+
+    / ASTMH — October 26, 2020
+    quote !d = Societal norms and government policies supporting the wearing of masks by the public, as well as international travel controls, are independently associated with lower per-capita mortality from COVID-19.
 
 
 

@@ -1280,16 +1280,16 @@ feed June2020
       !c
       !d
 
-    / June, 2020 - Annals of the New York Academy of Sciences
+    / Proceedings of the Royal Society — June, 2020
     quote !a = It follows that the adoption of this simple technology ought to be re-evaluated in countries where facemask use is not being encouraged. Within the parameter regimes tested, the models also show that, if COVID-19 is to be controlled or eradicated, early lock-down combined with facemask adoption by close to 100% by the public needs to occur. This, of course, does not exclude the implementation of other management interventions, such as widespread testing and contact tracing.
 
-    / Arguing for use of facemasks inspite of lack of direct evidence for Covid-19
+    / Proceedings of the Royal Society — June, 2020
     quote !b = We argue that the lack of experimental population-based data on facemask use cannot be equated with facemask ineffectiveness, particularly when it is accepted that patients with other respiratory diseases such as influenza have been recommended to wear facemasks to limit virus-particle-laden droplet spread.
 
-    / Modeling of facemask use by public
+    / Proceedings of the Royal Society — June, 2020
     quote !c = Models show that under a wide range of plausible parameter conditions, facemask use by the public could significantly reduce the rate of COVID-19 spread, prevent further disease waves and allow less stringent lock-down regimes. The effect is greatest when 100% of the public wear facemasks.
 
-    / Facemasks and lock-down combination can be beneficial
+    / Proceedings of the Royal Society — June, 2020
     quote !d = A combination of facemask wearing and lock-down periods implemented together is indicated to provide a better solution to the COVID-19 pandemic than either in isolation.
 
 

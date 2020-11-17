@@ -41,8 +41,8 @@ let *Seasonal-variations mean Transmission.Settings.EnvironmentalConditions.Heat
 let *disinfected mean Prevention.Disinfection
 let *indirectly mean Transmission.Modes.Indirect
 let *hand-washing mean Prevention.HandWashing
-let *social-distancing mean Containment.Measures.SocialDistancing
-let *social-distance mean Containment.Measures.SocialDistancing
+let *social-distancing mean Containment.SocialDistancing
+let *social-distance mean Containment.SocialDistancing
 let *PPE mean Prevention.ProtectiveDevices
 let *no-PPEs mean Transmission.Settings.OtherConditions.NoPPE
 

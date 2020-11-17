@@ -1013,10 +1013,12 @@ feed WHO
   / Universal Masking in Hospitals in the Covid-19 Era
   doi: https://doi.org/10.1056/NEJMc2020836
   ref 'Klompas_et_al_06_03_2020
-    head = This correspondence clarifies the author's statement in their Perspective article that “wearing a mask outside health care facilities offers little, if any, protection from infection," that some people are citing as support for discrediting widespread masking. We intended this statement to apply to passing encounters in public spaces, not sustained interactions within closed environments. We therefore strongly support the calls of public health agencies for all people to wear masks when circumstances compel them to be within 6 ft of others for sustained periods.
+    head = This correspondence clarifies the author's statement in their Perspective article that “wearing a mask outside health care facilities offers little, if any, protection from infection," that some people are citing as support for discrediting widespread masking. We intended this statement to apply to passing encounters in public spaces, not sustained interactions within closed environments.
 
-    / Recommendation/Policy: Facemasks are needed in closed environments
-    quote !a = This correspondence clarifies the author's statement in their Perspective article that “wearing a mask outside health care facilities offers little, if any, protection from infection," that some people are citing as support for discrediting widespread masking. We intended this statement to apply to passing encounters in public spaces, not sustained interactions within closed environments. We therefore strongly support the calls of public health agencies for all people to wear masks when circumstances compel them to be within 6 ft of others for sustained periods.
+    -- quotes
+      !a
+
+    quote !a = We therefore strongly support the calls of public health agencies for all people to wear masks when circumstances compel them to be within 6 ft of others for sustained periods.
 
 
   # 48
@@ -1198,7 +1200,7 @@ feed WHO
   // Cluster randomised controlled trial to examine medical mask use as source control for people with respiratory illness.
   doi: https://doi.org/10.1136/bmjopen-2016-012330
   ref 'MacIntyre_et_al_12_02_2016
-    head = The study indicates a potential benefit of medical masks for source control, but is limited by small sample size and low secondary attack rates. Larger trials are needed to confirm efficacy of medical masks as source control.
+    head = Objective: Determine whether medical mask use by sick individuals with ILI protects well contacts from related respiratory infections.We did not find a significant benefit of medical masks as source control, but rates of CRI and ILI in household members were consistently lower in the mask arm compared with the control arm. The study was underpowered to detect a statistically significant difference.
 
     >>> Rationale
       Medical masks are commonly used by sick individuals with influenza-like illness (ILI) to prevent spread of infections to others, but clinical efficacy data are absent.
@@ -1226,10 +1228,12 @@ feed WHO
 
     >>> Conclusions
       The study indicates a potential benefit of medical masks for source control, but is limited by small sample size and low secondary attack rates. Larger trials are needed to confirm efficacy of medical masks as source control.
+
     -- quotes
       !a
 
-    quote !a = Study indicates rates of clinical respiratory illness , ILI  and laboratory-confirmed viral infections were consistently lower in the group with medical masks as compared with control (no masks), although not statistically significant. A post hoc comparison between the mask versus no-mask groups showed a protective effect against clinical respiratory illness, but not against ILI and laboratory-confirmed viral respiratory infections.
+    / BMJ Open — December 2, 2016
+    quote !a = The study indicates a potential benefit of medical masks for source control, but is limited by small sample size and low secondary attack rates. Larger trials are needed to confirm efficacy of medical masks as source control.
 
 
   # 56

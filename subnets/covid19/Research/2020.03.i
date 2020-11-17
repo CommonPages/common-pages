@@ -1770,28 +1770,16 @@ feed March2020
   // Respiratory virus shedding in exhaled breath and efficacy of face masks
   doi: https://doi.org/10.5061/dryad.w9ghx3fkt
   ref 'Leung_et_al_2020
-    head = Our results indicate that surgical facemasks could prevent transmission of human coronaviruses and influenza viruses from symptomatic individuals.
+    head = We identified seasonal human coronaviruses, influenza viruses and rhinoviruses in the exhaled breath and coughs of children and adults with acute respiratory illness. Our results indicate that surgical facemasks could prevent transmission of human coronaviruses and influenza viruses from symptomatic individuals.
 
     >>> Abstract
       We identified seasonal human coronaviruses, influenza viruses and rhinoviruses in the exhaled breath and coughs of children and adults with acute respiratory illness. Surgical face masks significantly reduced detection of influenza virus RNA in respiratory droplets and coronavirus RNA in aerosols, with a marginally significant reduction in coronavirus RNA in respiratory droplets. Our results indicate that surgical facemasks could prevent transmission of human coronaviruses and influenza viruses from symptomatic individuals.
 
     -- quotes
       !a
-      !b
-      !c
 
     / March, 2020 - Dryad
-    quote !a = Given the high collection efficiency of the G-II and given that each exhaled breath collection was conducted for 30 min, this might imply that prolonged close contact would be required for transmission to occur, even if transmission was primarily via aerosols, as has been described for rhinovirus colds20
-
-    / March, 2020 - Dryad
-    quote !b = Our results also indicate that there could be considerable heterogeneity in contagiousness of individuals with coronavirus and influenza virus infections.
-
-    # / Surgical masks prevent transmission of Corona viruses
-    # quote !f = Our results indicate that surgical facemasks could prevent transmission of human coronaviruses and influenza viruses from symptomatic individuals.
-
-    / March, 2020 - Dryad
-    quote !c = Surgical face masks significantly reduced detection of influenza virus RNA in respiratory droplets and coronavirus RNA in aerosols, with a marginally significant reduction in coronavirus RNA in respiratory droplets.
-
+    quote !a = Surgical face masks significantly reduced detection of influenza virus RNA in respiratory droplets and coronavirus RNA in aerosols, with a marginally significant reduction in coronavirus RNA in respiratory droplets.
 
 
   # Incubation Period, Quarantine

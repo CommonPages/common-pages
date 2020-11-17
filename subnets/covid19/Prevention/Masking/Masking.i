@@ -14,13 +14,11 @@ subject Masking
 
   --
     ?Observations
+    ?EvidenceHCW
 
   --- See also
     Timeline.Response.WHOMaskingGuidelines
-    Containment.Measures.UniversalMasking
-
-  >>>
-    Note that this section reflects claims about the effectiveness of masks for the *protection of the wearer*. Claims about the role of masks reducing transmission risk from infected individuals—and communities in general—are found under {Containment community containment measures}.
+    Containment.UniversalMasking
 
   -- Direct Evidence
     !DirectEvidence
@@ -51,11 +49,17 @@ subject Masking
     responses
       'Seto_et_al_2003
 
+  question ?EvidenceHCW = Is there any direct evidence of efficacy of masking health care workers for COVID-19?
+    responses
+      'Brooks_et_al_07_14_2020
+      'Brooks_et_al_07_14_2020.!a
+
   claim !DirectEvidence = To date, there is no direct evidence from studies comparing the effectiveness of masks in reducing the risk of COVID-19 infection. This gap applies to health care and community settings alike, creating space for a range of interpretations of the available indirect evidence.
     --
       'Sommerstein_et_al_07_06_2020.!c
       'WHO_06_05_2020.!NoDirectStudies
       'WHO_06_05_2020.!LackOfCommunityEvidence
+
 
   claim !ExpertOpinionForHCW = The opinions expressed in relevant research have been consistently supportive of mask usage for the protection of health care workers, regardless of the availability of direct evidence for COVID-19.
     --
@@ -300,6 +304,11 @@ subject Masking
 
   triage
     'Schiling_et_al_07_27_2020
+    'Simha_et_al_08_25_2020
+    'Howard_et_al_05_13_2020
+    'Leffler_et_al_08_05_2020
+    'MacIntyre_et_al_12_02_2016
+    'Leung_et_al_2020
 
   # -- risks
   #   'Li_et_al_05_26_2005

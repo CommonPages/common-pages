@@ -1,3 +1,3 @@
 
 index: skip
-. claims
+. assets

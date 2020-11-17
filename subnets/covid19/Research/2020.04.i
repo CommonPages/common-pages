@@ -258,7 +258,7 @@ feed April2020
   // To mask or not to mask: Modeling the potential for face mask use by the general public to curtail the COVID-19 pandemic
   doi: https://dx.doi.org/10.1016%2Fj.idm.2020.04.001
   ref 'Eikenberry_et_al_04_21_2020
-    head = We develop a compartmental model for assessing the community-wide impact of mask. The community-wide benefits are likely to be greatest when face masks are used in conjunction with other non-pharmaceutical practices (such as social-distancing), and when adoption is nearly universal (nation-wide) and compliance is high.
+    head = Face mask use by the general public for limiting the spread of the COVID-19 pandemic is controversial, though increasingly recommended, and the potential of this intervention is not well understood. We develop a compartmental model for assessing the community-wide impact of mask.
 
     >>> Abstract
       Face mask use by the general public for limiting the spread of the COVID-19 pandemic is controversial, though increasingly recommended, and the potential of this intervention is not well understood. We develop a compartmental model for assessing the community-wide impact of mask use by the general, asymptomatic public, a portion of which may be asymptomatically infectious. Model simulations, using data relevant to COVID-19 dynamics in the US states of New York and Washington, suggest that broad adoption of even relatively ineffective face masks may meaningfully reduce community transmission of COVID-19 and decrease peak hospitalizations and deaths. Moreover, mask use decreases the effective transmission rate in nearly linear proportion to the product of mask effectiveness (as a fraction of potentially infectious contacts blocked) and coverage rate (as a fraction of the general population), while the impact on epidemiologic outcomes (death, hospitalizations) is highly nonlinear, indicating masks could synergize with other non-pharmaceutical measures. Notably, masks are found to be useful with respect to both preventing illness in healthy persons and preventing asymptomatic transmission. Hypothetical mask adoption scenarios, for Washington and New York state, suggest that immediate near universal (80%) adoption of moderately (50%) effective masks could prevent on the order of 17–45% of projected deaths over two months in New York, while decreasing the peak daily death rate by 34–58%, absent other changes in epidemic dynamics. Even very weak masks (20% effective) can still be useful if the underlying transmission rate is relatively low or decreasing: In Washington, where baseline transmission is much less intense, 80% adoption of such masks could reduce mortality by 24–65% (and peak deaths 15–69%), compared to 2–9% mortality reduction in New York (peak death reduction 9–18%). Our results suggest use of face masks by the general public is potentially of high value in curtailing community transmission and the burden of the pandemic. The community-wide benefits are likely to be greatest when face masks are used in conjunction with other non-pharmaceutical practices (such as social-distancing), and when adoption is nearly universal (nation-wide) and compliance is high.
@@ -269,14 +269,16 @@ feed April2020
       !c
       !d
 
-
-    / Masks help reduce community transmission
+    / Infectious Disease Modelling — April 21, 2020
     quote !a =  Model simulations, using data relevant to COVID-19 dynamics in the US states of New York and Washington, suggest that broad adoption of even relatively ineffective face masks may meaningfully reduce community transmission of COVID-19 and decrease peak hospitalizations and deaths.
-    / Masks can synergize with other non-pharmaceutical measures
+
+    / Infectious Disease Modelling — April 21, 2020
     quote !b =  Mask use decreases the effective transmission rate in nearly linear proportion to the product of mask effectiveness (as a fraction of potentially infectious contacts blocked) and coverage rate (as a fraction of the general population), while the impact on epidemiologic outcomes (death, hospitalizations) is highly nonlinear, indicating masks could synergize with other non-pharmaceutical measures.
-    / Masks are helpful in preventing illness and aymptomatic transmission
+
+    / Infectious Disease Modelling — April 21, 2020
     quote !c =  Notably, masks are found to be useful with respect to both preventing illness in healthy persons and preventing asymptomatic transmission.
-    / Best results of masks when used with other measures and high compliance
+
+    / Infectious Disease Modelling — April 21, 2020
     quote !d =  The community-wide benefits are likely to be greatest when face masks are used in conjunction with other non-pharmaceutical practices (such as social-distancing), and when adoption is nearly universal (nation-wide) and compliance is high.
 
 

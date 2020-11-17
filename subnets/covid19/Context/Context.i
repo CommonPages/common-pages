@@ -1,6 +1,6 @@
 @jeffmagee
 / COVID-19 in Context
-model module foundations
+model module Foundations
   head = Coronaviruses are a group of related viruses that cause respiratory infections that can range from mild to lethal. SARS-CoV-2 is a coronavirus that causes the respiratory and vascular disease COVID-19. Research into SARS-CoV-2 and COVID-19 applies concepts from many disciplines; particularly: virology, immunology, epidemiology and public health.
 
   --

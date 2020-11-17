@@ -1,21 +1,10 @@
 
-import foundations.Virology
-import foundations.Immunology
-import foundations.Epidemiology
-import foundations.CoV2
-
-import foundations.Virology._
-import foundations.Immunology._
-import foundations.Epidemiology._
-import foundations.PublicHealth._
-import foundations.CoV2._
-import foundations.Triage._
-
-import claims._
-
-import feeds.Research
-import feeds.News
-import feeds.Revisions
+import Foundations.Virology._
+import Foundations.Immunology._
+import Foundations.Epidemiology._
+import Foundations.PublicHealth._
+import Foundations.CoV2._
+import Foundations.Triage._
 
 import Research._
 import Research.Triage._

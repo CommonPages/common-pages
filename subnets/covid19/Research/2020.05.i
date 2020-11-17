@@ -115,7 +115,7 @@ feed May2020
 
   #
 
-  # Protective Immunity 
+  # Protective Immunity
   // Lack of Reinfection in Rhesus Macaques Infected with SARS-CoV-2
   doi: https://doi.org/10.1101/2020.03.13.990226
   ref 'Bao_et_al_05_01_2020
@@ -308,7 +308,7 @@ feed May2020
       !a
 
     / Efficacy of homemade facemasks
-    quote !a = All textiles reduced the number of droplets reaching surfaces, restricting their dispersion to <30 cm, when used as single layers. When used as double-layers, textiles were as effective as medical mask/surgical-cloth materials, reducing droplet dispersion to <10 cm, and the area of circumferential contamination to ~0.3%. 
+    quote !a = All textiles reduced the number of droplets reaching surfaces, restricting their dispersion to <30 cm, when used as single layers. When used as double-layers, textiles were as effective as medical mask/surgical-cloth materials, reducing droplet dispersion to <10 cm, and the area of circumferential contamination to ~0.3%.
 
 
   # Surgical mask vs cotton mask
@@ -3614,7 +3614,7 @@ feed May2020
   // Face Masks Against COVID-19: An Evidence Review
   doi: https://doi.org/10.20944/preprints202004.0203.v2
   ref 'Howard_et_al_05_13_2020
-    head = Our review of the literature offers evidence in favor of widespread mask use as source control to reduce community transmission: non-medical masks use materials that obstruct droplets of the necessary size; people are most infectious in the initial period post-infection, where it is common to have few or no symptoms; non-medical masks have been effective in reducing transmission of influenza; and places and time periods where mask usage is required or widespread have shown substantially lower community transmission.
+    head = Here,we develop an analytical framework to examine an overlooked aspect of mask usage: masks as source-control targeting egress from the wearer with benefits at the population-level, rather than as PPE used for ingress control for health-care workers with focus on individual outcomes. We consider and synthesize the relevant literature.
 
     >>> Abstract
       The science around the use of masks by the general public to impede COVID-19 transmission is advancing rapidly. Policymakers need guidance on how masks should be used by the general population to combat the COVID-19 pandemic. Here,we develop an analytical framework to examine an overlooked aspect of mask usage: masks as source-control targeting egress from the wearer with benefits at the population-level, rather than as PPE used for ingress control for health-care workers with focus on individual outcomes. We consider and synthesize the relevant literature to inform multiple areas: 1) transmission characteristics of COVID-19, 2) filtering characteristics and efficacy of masks, 3) estimated population impacts of widespread community mask use, and 4) sociological considerations for policies concerning mask-wearing. A primary route of transmission of COVID-19 is likely via respiratory droplets, and is known to be transmissible from presymptomatic and asymptomatic individuals. Reducing disease spread requires two things: first, limit contacts of infected individuals via physical distancing and other measures, and second, reduce the transmission probability per contact. The preponderance of evidence indicates that mask wearing reduces the transmissibility per contact by reducing transmission of infected droplets in both laboratory and clinical contexts. Public mask wearing is most effective at reducing spread of the virus when compliance is high. The decreased transmissibility could substantially reduce the death toll and economic impact while the cost of the intervention is low. Given the current shortages of medical masks we recommend the adoption of public cloth mask wearing, as an effective form of source control for now, in conjunction with existing hygiene, distancing, and contact tracing strategies. We recommend that public officials and governments strongly encourage the use of widespread face masks in public, including the use of appropriate regulation.
@@ -3623,11 +3623,17 @@ feed May2020
       !a
       !b
 
-    / Evidence in favour of wearing masks to reduce transmission
+    / Preprints.org — April 10, 2020
     quote !a = The preponderance of evidence indicates that mask wearing reduces the transmissibility per contact by reducing transmission of infected droplets in both laboratory and clinical contexts.
 
-    / Recommendation: Adoption of cloth masks
-    quote !b = Given the current shortages of medical masks we recommend the adoption of public cloth mask wearing, as an effective form of source control for now, in conjunction with existing hygiene, distancing, and contact tracing strategies. We recommend that public officials and governments strongly encourage the use of widespread face masks in public, including the use of appropriate regulation.
+    / Preprints.org — April 10, 2020
+    quote !b = Public mask wearing is most effective at reducing spread of the virus when compliance is high. The decreased transmissibility could substantially reduce the death toll and economic impact while the cost of the intervention is low.
+
+    / Preprints.org — April 10, 2020
+    quote !c = Given the current shortages of medical masks we recommend the adoption of public cloth mask wearing, as an effective form of source control for now, in conjunction with existing hygiene, distancing, and contact tracing strategies.
+
+    / Preprints.org — April 10, 2020
+    quote !d = We recommend that public officials and governments strongly encourage the use of widespread face masks in public, including the use of appropriate regulation.
 
 
   # Public Policy?  - Paper has just opinions

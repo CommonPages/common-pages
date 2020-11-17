@@ -264,46 +264,45 @@
   // Sustainable social distancing through facemask use and testing during the Covid-19 pandemic
   doi: https://doi.org/10.1101/2020.04.01.20049981
   ref 'Chowell_et_al_05_2020
-    head = We investigate how individual protective behaviors, different levels of testing, and isolation influence the transmission and control of the Covid-19 pandemic. We show that the pandemic may be readily controllable through a combination of testing, treatment if necessary, and self-isolation after testing positive (TTI) of symptomatic individuals together with social protection (e.g., facemask use, handwashing). Even with 20% effective social protection, TTI of 1 in 4 symptomatic individuals can substantially "flatten the curve" cutting the peak daily incidence in half.
+    head = We investigate how individual protective behaviors, different levels of testing, and isolation influence the transmission and control of the Covid-19 pandemic. Our results suggest that the COVID-19 pandemic can be controlled through an imperfect though sufficient combination of testing, contact tracing, and protective measures like masks and distancing when in public.
 
     -- quotes
       !a
 
-    / Mathematical model of pandemic control
-    quote !a =  We investigate how individual protective behaviors, different levels of testing, and isolation influence the transmission and control of the Covid-19 pandemic. Our results suggest that the Covid-19 pandemic can be controlled through an imperfect though sufficient combination of testing, contact tracing, and protective measures like masks and distancing when in public.  Even with 20% effective social protection, TTI of 1 in 4 symptomatic individuals can substantially "flatten the curve" cutting the peak daily incidence in half.
+    / medRxiv — May 6, 2020
+    quote !a = The pandemic may be readily controllable through a combination of testing, treatment if necessary, and self-isolation after testing positive (TTI) of symptomatic individuals together with social protection (e.g., facemask use, handwashing). Even with 20% effective social protection, TTI of 1 in 4 symptomatic individuals can substantially "flatten the curve" cutting the peak daily incidence in half.
 
 
   // The Case for Universal Cloth Mask Adoption and Policies to Increase Supply of Medical Masks for Health Workers
   doi: http://dx.doi.org/10.2139/ssrn.3567438
   ref 'Abaluck_04_2020
-    head = We recommend the immediate universal adoption of cloth facemasks, including homemade, and accompanying policies to increase the supply of medical masks for health workers. Universal adoption will likely slow the spread of the Covid-19 virus by reducing transmission from asymptomatic individuals. We provide strongly suggestive evidence from cross-country data that facemask use slows the growth rate of cases and deaths. This complements extant scientific data on mask usage. Our analysis suggests each cloth facemask generates thousands of dollars in value from reduced mortality risk. Each medical mask, when used by a healthcare worker, may generate millions of dollars in value, and policies to encourage greater production prioritized for health workers are urgently needed.
+    head = We recommend the immediate universal adoption of cloth facemasks, including homemade, and accompanying policies to increase the supply of medical masks for health workers. Universal adoption will likely slow the spread of the Covid-19 virus by reducing transmission from asymptomatic individuals. We provide strongly suggestive evidence from cross-country data that facemask use slows the growth rate of cases and deaths.
 
     -- quotes
       !a
       !b
       !c
-      !policy1
-      !policy
+      !d
+      !e
+      !f
 
-    / Facemasks slows the growth rate of cases and deaths
-
+    / SSRN — April 6, 2020
     quote !a =  We provide strongly suggestive evidence from cross-country data that facemask use slows the growth rate of cases and deaths. This complements extant scientific data on mask usage.
 
-    / Seemingly healthy people can also spread the infection
+    / SSRN — April 6, 2020
+    quote !b = Encouraging production of cloth masks may help counteract and discourage medical mask hoarding; this can include homemade production and perhaps industrial production, but only to the extent that supply chains do not interfere with those for critically important medical masks.
 
-    quote !b = Thus, seemingly healthy people (asymptomatic), including young people, are spreading the virus by transmitting it to others.
+    / SSRN — April 6, 2020
+    quote !c = Our economic analysis suggests that that even if masks are far less effective than the evidence above suggests, the potential benefits are substantial. If masks reduce the transmission rate of the virus by only 10%, epidemiological models suggest that hundreds of thousands of deaths could be prevented globally, creating trillions of dollars in economic value.
 
-    / Economic usecase for cloth face masks even with low prevention rate
+    / SSRN — April 6, 2020
+    quote !d = Politicians should be wearing cloth masks in public at all times. If these masks are obviously homemade, this will emphasize the pro-social benefits of protecting both healthcare workers (who need commercial masks) and the public at large.
 
-    quote !c = Our economic analysis suggests that that even if masks are far less effective than the evidence above suggests, the potential benefits are substantial. If masks reduce the transmission rate of the virus by only 10%, epidemiological models suggest that hundreds of thousands of deaths could be prevented globally,11 creating trillions of dollars in economic value.
+    / SSRN — April 6, 2020
+    quote !e = We are also concerned that recent media and other reports have emphasized the private benefits of mask-wearing (that is, infection protection to the wearer) without discussing the efficacy of non-medical fabric face masks in lowering transmission. This could exacerbate existing supply shortages for hospital-quality masks. Healthcare leaders can responsibly respond to this information by emphasizing the relative efficacy of cloth masks in preventing transmission and the need to increase home production.
 
-    / Policy recommendation on use of homemade cloth Facemasks
-
-    quote !policy = Politicians should be wearing cloth masks in public at all times. If these masks are obviously homemade, this will emphasize the pro-social benefits of protecting both healthcare workers (who need commercial masks) and the public at large. Emphasizing that mask wearing is a complement to other social distancing measures, not a substitute. Mask wearers who violate social distancing recommendations continue to place themselves and others at high risk. Supporting or requiring mask-wearing in essential services such as grocery stores where employees have many contacts in a day. Emphasizing that one of the main goals of mask wearing is to protect others.
-
-    / Policy recommendation on use of homemade cloth Facemasks
-
-    quote !policy1 =  Reaching out to visible persons such as media members and strongly encouraging them to do the same. Encouraging and demonstrating the correct production and use of homemade masks. Providing public health messages with mask-making instructions and instructions on fit. Mask users should also be instructed to wash hands after removing masks and wash or dispose of masks after repeated use. Partnering with non-medical mask industry to provide free or reduced-price cloth masks to everyone.
+    / SSRN — April 6, 2020
+    quote !f =  Reaching out to visible persons such as media members and strongly encouraging them to do the same. Encouraging and demonstrating the correct production and use of homemade masks. Providing public health messages with mask-making instructions and instructions on fit. Mask users should also be instructed to wash hands after removing masks and wash or dispose of masks after repeated use. Partnering with non-medical mask industry to provide free or reduced-price cloth masks to everyone.
 
   // Testing the Efficacy of Homemade Masks: Would They Protect in an Influenza Pandemic?
   doi: https://dx.doi.org/10.1017%2Fdmp.2013.43

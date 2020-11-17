@@ -259,7 +259,7 @@ subject module Settings
           head = There are reports on the spread of nCov-2 in salons and spas.
           # (--which are usually closed spaces and involve close contact with the hairdresser)
           -- Hair salon
-            'Hendrix_et_al_07_14_2020
+            # 'Hendrix_et_al_07_14_2020
 
         / Hotels
         subject Hotel
@@ -805,7 +805,7 @@ subject module Settings
       --
         'Tobolowsky_et_al_05_01_2020
         'Kang_et_al_07_07_2020
-        'Hendrix_et_al_07_14_2020
+        # 'Hendrix_et_al_07_14_2020
         'Bahl_et_al_04_16_2020
         'Yu_et_al_04_22_2004
         'Burke_et_al_05_03_2020
