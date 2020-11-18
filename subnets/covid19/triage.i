@@ -104,6 +104,7 @@ index: hide
         # https://apps.who.int/iris/rest/bitstreams/1302653/retrieve
 
 
+
     # How antigen detection would be incorporated into the testing algorithm depends on the sensitivity and specificity of the antigen test and on the prevalence of SARS-CoV-2 infection in the intended testing population. antigen detection would be incorporated into the testing algorithm depends on the sensitivity and specificity of the antigen test and on the prevalence of SARS-CoV-2 infection in the intended testing population.
 
     # Test performance
@@ -205,6 +206,31 @@ index: hide
 
 
 
+        ######### 11/17 #####
+
+
+         # >>> comparison of rapid antigen test
+         # Studies have shown though that there is substantial variability between tests. The best-performing test (SD Biosensor, Inc. STANDARD Q) was 76∙6% sensitive and 99∙3% specific. The test was considered easy-to-use and suitable for point-of-care (POC) despite imperfect sensitivity.
+         #  --
+         #   'Krüger_et_al_10_04_2020
+         #   'Corman_et_al_11_13_2020
+
+
+         # >>> NEW CLAIM FOR PCR
+          # Recent case studies have shown that single-nucleotide variations (SNVs) may impact the sensitivity of commonly used diagnostic primers in Rt-PCR.
+          # --
+          #   'Vanaerschot_et_al_08_26_2020
+          #   'Chen_et_al_09_28_2020.!d
+
+
+         # >>> RELAPSE
+          # corticosteroids, which suggests a potential link with the relapse that requires further studies.
+          # --
+          #  'Elsayed_et_al_09_05_2020.!a
+          #  'Chien_et_al_05_01_2004
+          # -- Reports of RELAPSE Cases
+              # 'Gousseff_et_al_06_30_2020
+              # 'Elsayed_et_al_09_05_2020
 
 
 
@@ -213,7 +239,194 @@ index: hide
   # Everything below in this section is not updated claims.
   ############################################################################################
 
+#   What is the size of infectious aerosols?
+#
+# While the size of an individual SARS-CoV-2 virus is very small (120 nm or 0.12 microns), the aerosol in which respiratory viruses are contained are larger, albeit still small enough to remain suspended in air for long periods.  Aerosol size has major implications for the ability of masks and filters to remove it from the air, how deeply it will penetrate the lungs, and determines the loss rate due to gravitational settling in indoor spaces.
+# --
+# Airborne Transmission of SARS-CoV-2 Theoretical Considerations and Available Evidence
 
+
+# 2.3 What factors control how many infectious aerosols are exhaled?
+
+# In detail, the sizes of the aerosols and the amount of the virus exhaled vary with the stage of infection and from person to person. They also vary with individual activity, with many fewer from breathing and many more from talking, singing, shouting and (very likely) aerobic exercise.  There is evidence that a combination of these factors and the venue where the emission occurs can result in “superspreading events”.  The aerosols stay floating in the air for minutes to hours. If another person inhales them, they can become infected and then later infect others.
+
+# 2.4. Where do aerosols of different sizes deposit in the human respiratory tract?
+# Particles smaller than 100 μm can be inhaled (i.e, are aerosols), while larger particles cannot (and they are “droplets” in the disease transmission sense).
+
+# Of the aerosols that are inhaled, many deposit in the respiratory tract, but many do not. In particular there is a minimum at 0.3 μm, which is the typical size of smoke aerosols. This is why smokers exhale a lot of smoke aerosols; not all of them deposit in the respiratory tract, so some come back out in exhaled breath. Thus even though masks are least efficient at blocking aerosols of size 0.3 μm, the same physics (that causes masks to be less efficient at this size) means that it is also less likely for those aerosols to deposit in our bodies.
+
+
+# Larger aerosols deposit in the head region (nose etc.) because they can’t make turns easily, and impact with the walls of our nasal and oral cavities. As the size approaches 100 μm, the aerosols are “clumsier” and thus less likely to follow air flow into our noses and mouths, and settle to the ground faster, so the efficiency of inhalation becomes very low. Very small aerosols are very diffusive (i.e. high brownian motion) and are also lost efficiently in the head region.
+
+
+# Aerosols smaller than ~10 μm can penetrate deeper into the respiratory tract. But it is important to note that aerosols smaller than 10 μm can deposit everywhere along the respiratory tract, and viruses contained in them can reach receptors anywhere in that tract.
+
+
+# 2.5. Some people say that “aerosols” vs. “droplet” transmission is a semantic discussion, and that both can infect by inhalation. Is that correct?
+
+
+# As exemplified by their own graphics below, they both define “droplets” as projectiles that infect by impaction and fall quickly to the ground (we often call them “ballistic droplets” to make this behavior clear). And aerosols are particles that remain in the air for minutes to hours and infect by inhalation.
+
+# Some scientists and others say that this is semantics, and describe “droplets” that are not ballistic, but that have aerosol behavior, persisting in rooms with low ventilation, and infecting by inhalation. This is often used to explain outbreaks that can really only be explained by aerosols, while still maintaining they were caused by “droplets.” Also CDC states that droplets “can possibly be inhaled into the lungs,” which is not possible for ballistic droplets. And measures like ventilation are recommended by WHO and others, despite asserting that it is ballistic droplets and not aerosols that dominate transmission. These two statements are contradictory, as ventilation has a minimal effect on ballistic droplets, but it does have a large effect on aerosols.
+
+
+# There is a clear distinction in size between ballistic droplets and aerosols, thus this dichotomy is very useful:
+# Particles smaller than ~ 100 μm do not settle very quickly to the ground, do not have enough inertia to reach others as ballistic droplets, and can be inhaled. These can only infect as aerosols.
+# Particles larger than ~300 μm (see also here) have enough inertia to reach someone else at 0.5-1 m distance (typical US conversational distance) when talking, which is most relevant for SARS-CoV-2 where much transmission occurs for people with little or no symptoms who don’t cough. These are the only possible ballistic droplets. Note that the widely used definition of > 5 μm for ballistic droplets is completely wrong, and has been for decades, as discussed below.Thus there is a “valley of death” between 100 and 300 μm where particles typically cannot infect as aerosols or ballistic droplets (when talking at typical distances). Particles of those sizes are unlikely to participate in infection, except for coughs and sneezes where the stronger exhaled momentum propels them farther, or by deposition and the fomite route.
+
+
+# 2.7. How long does the SARS-CoV-2 remain infectious in aerosols?
+# Multiple studies have addressed this question in the laboratory (see here, here, and here). Overall it seems that the lifetime may be about 1-2 hours at typical room temperature (~20oC or 70oF). When coming to an office in the morning at 8 am when people left the previous day at 5 pm, any viruses in the air will have been ventilated, deposited, or lost infectiousness. For this reason it is a good idea for high-risk people to go to indoor public spaces as soon as they open in the morning.
+# --
+# Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1
+# Airborne SARS-CoV-2 Is Rapidly Inactivated by Simulated Sunlight
+# Experimental aerosol survival of SARS-CoV-2 in artificial saliva and tissue culture media at medium and high humidity
+#
+#
+# 2.8. Does temperature affect the survival of the virus in the air?
+# Low temperatures can greatly increase the survival of the virus, while high temperatures reduce it. Superspreading events in meat packing plants are thought to have been helped by higher virus survival in the air at low temperature. Researchers freeze viruses to keep them viable for years, although this requires lower temperatures than in home freezers (-80oC). Higher temperatures reduce the viability of viruses. Humidity also has an effect that cannot be easily separated from that of temperature, as discussed below.
+# --
+# The effect of environmental parameters on the survival of airborne infectious agents
+#
+# 2.9. Does relative humidity (RH) affect transmission?
+# Humidity has a few effects:
+# Lipid-enveloped viruses, including SARS-CoV-2, are thought to survive better in the air under drier conditions. This is thought to be an important reason leading to the flu season in winter, as indoor air is drier then.
+# Dry conditions may also make humans more susceptible to infection, due to factors such as epithelial damage, mucociliary clearance impairment, and increased mucin
+# production.
+# --
+#  Seasonality of Respiratory Viral Infections
+#
+# Respiratory particles contain an amount of water that depends on the ambient relative humidity. However aerosols dry in less than 1 s. As was well put by Wells (1934), because of the way the physics works out, “a raindrop 2 mm in diameter can fall miles without completely evaporating under conditions which would cause a 0.2 mm [= 200 μm] droplet to evaporate before it had fallen the height of a man.”
+# --
+#  ON AIR-BORNE INFECTION: STUDY II. DROPLETS AND DROPLET NUCLEI.
+#
+# If the humidity is larger than ~85%, aerosols are larger than at lower humidity and thus the growth due to water uptake makes them settle faster to the ground. At lower humidities this effect is very small.
+# This only matters for shared room (and any potential long range) transmission, if the distance is not kept, transmission in close proximity is not impacted by humidity or temperature.
+# For more details on these effects, see Ahlawat et al. (2020). There is also some discussion that an intermediate humidity in the range 40-60% may be beneficial to reduce virus viability, based on past studies with other viruses. However, the medium in which the virus is aerosolized has a strong impact on its survival. Some of those studies were performed with culture media, instead of more representative fluids like simulated saliva. So our impression at present is that while preventing low humidity indoors can be useful, the benefits of keeping it in the 40-60% range are less clear.
+# --
+# An Overview on the Role of Relative Humidity in Airborne Transmission of SARS-CoV-2 in Indoor Environments
+#
+# 2.9. Does that mean that smoking can help spread the virus?
+#
+# Smoking can increase the emission of viruses into the air, because smokers have to remove their mask to smoke, and because they may breathe more forcefully.
+#
+# In terms of smoke particles carrying the virus, we think this is very unlikely. Smoke is simply an analogy to visualize the motion of the virus. Smoke does not lead to greater aerosolization of virus from the respiratory tract. Once the virus is aerosolized, it could stick to smoke aerosols as they all exit the nose or mouth together, but the virus would have come out into the air anyway.
+#
+# Smoking and vaping destroy cilia in your respiratory tract. These are responsible for removing viruses out of your system and protecting you from infection. But they are also where the ACE2 receptors that the virus uses for infection are located. Thus it is observed that smokers are less likely to be infected by COVID-19. But if they are infected, according to CDC, smokers may be at higher risk for severe illness from COVID-19.
+#
+#
+# --
+# The dispersion of spherical droplets in source–sink flows and their relevance to the COVID-19 pandemic
+#
+# 3. Protecting ourselves from aerosol transmission
+# 3.1. At what distance from an infected person can I get infected?
+# There are three relevant scales. Note that these terms are not used consistently across scientific disciplines.
+#
+# “Close proximity,” < 1-2 m
+# There is a lot of COVID-19 transmission in close proximity situations. But it is not 100% efficient. As we understand from contact tracing, some close proximity encounters do not lead to infection.
+# “Shared room,” sharing the air of the same room at the same time
+# Clearly there is aerosol transmission in shared rooms, as has occurred in many superspreading events. But a very clear pattern emerges, that indoors is needed for superspreading, and it is helped by long time, crowding, low ventilation, no masks, and talking and especially singing / yelling. E.g. lots of outbreaks occur in choirs / bars / meat packing with high attack rates, but none have been reported (to our knowledge) in Japan's subways, or in movie theaters where there is almost no talking and better ventilation. As one would predict with the smoke analogy or a mathematical model.
+# “Long-range,” when not in the same room, e.g. different rooms in the same building with some air through HVAC, or entering a room 2 hrs after someone infectious has been there etc.
+# There are no documented cases that we are aware of. This is consistent with the expectation for a generally less contagious virus.
+# Some cases of long-range transmission of COVID-19 are being documented, but they appear to involve fecal aerosols transmitted through the sewer lines of high-rise buildings in Hong Kong and China, and not respiratory aerosols produced when breathing or speaking.
+#
+#
+# 3.2. Do the 1-2 m or 6 feet guidelines guarantee lack of infection indoors?
+# Like other recommendations, these social distance rules will reduce risk, but not eliminate it. The 6 feet rule is based on the idea that large ballistic droplets fall to the ground within 6 feet, although they can travel farther in a cough or sneeze, up to 28 ft (8.5 m). The 6 feet rule also helps with aerosols that do not settle to the ground because they are most concentrated close to the person who released them, like cigarette smoke is most concentrated close to the smoker. Dilution over distance is the main reason why social distance reduces transmission of COVID-19.
+#
+# Where will the concentrated aerosols from a person go?  It is almost impossible to say.  Indoor air is a constantly changing, turbulent environment.  Even though you can’t feel it, indoor air is constantly moving (typically between 0.05 to 0.1 m/sec, or 0.15 to 0.3 ft/sec) due to heat from your body (adults typically give off as much heat as an old incandescent light bulb, 75 to 100 W), sunlight warming surfaces, people moving and breathing, and mechanical heating and cooling induced airflows. You likely have seen this when looking at visible aerosols floating in a sunbeam, or when extinguishing a candle indoors.  The aerosols rarely are all going the same direction.
+#
+# This constantly changing environment will dilute plumes of aerosols.  The dilution will be greater with more time and space.  Hence, the farther away you can be from other people indoors, the better.
+
+# 3.3. How long does one need to inhale infectious aerosol to be infected?
+# Catching a whiff of exhaled breath here or there is very unlikely to lead to infection. The amount of time you spend in close proximity or in a shared room with an infected person affects how much virus you actually inhale, which will dictate your risk of becoming infected. There is no clear amount of time as far as we know, but it would seem to be in the order of minutes.
+#
+# The CDC says that 15 minutes of talking with an infectious person in close proximity is typically needed to get infected. However, that seems arbitrary to us and is not supported by evidence as far as we know. It can also give a false sense of security that a 5 or 10 minute interaction is safe because it is under the 15 min. threshold.
+
+# 3.4. How long can the virus stay in the air indoors?
+# How long the virus stays in the air with the capability to infect depends on three processes.
+#
+# Deposition depends on the size of the droplet/aerosol that’s carrying it, as well as on the amount of clutter and air motion in the room. Virus has been found in tiny aerosols, smaller than 1 micron, and these can stay floating in the air for more than 12 hours, BUT these small aerosols will typically leave a building in the air faster than they settle on indoor surfaces and the virus can decay during this time (see 2.7. How long does the SARS-CoV-2 remain infectious in aerosols…), even if the aerosols carrying it are still floating in the air.
+#
+# How fast does air leave a room? It is a little complicated. Think about a cup of black coffee.  How much milk do we have to add to the cup before we only taste milk?  If we add one cup of milk to our cup of black coffee (allowing it to overflow) the result will still be a tan mixture.  In fact, due to mixing it will be just two thirds milk.  We would need to add three cups of milk to get our original black coffee cup to be 95% milk.
+#
+# Indoor air behaves the same way.  As outdoor air enters an indoor space it mixes with the air already indoors. So how long does it take to replace aerosol laden air from indoor spaces with outdoor air?  In residences, 95% of the indoor air will likely be replaced with outdoor air in a time frame that ranges from 30 minutes to 10 hours. In public buildings, 95% replacement may take between 12 minutes to 2 hours. In a hospital, 95% replacement might take 5 minutes.
+# So how long a virus can stay in the air indoors is highly dependent upon the indoor environment.
+
+
+# 5.6. What about toilets?
+# SARS-CoV-2 is found in feces, but in almost all cases, it does not appear to be infectious. The virus has been found on toilet surfaces in patient rooms, but it is not clear whether it got there by contact or by deposition of aerosols.
+#
+#  1. Virus can potentially spread via aerosols from toilets in two ways. First, flushing a toilet can generate aerosols: almost none for gravity-fed toilets used at home to millions for commercial flushometer toilets found in many public buildings in the US.
+#
+#  The total volume of aerosols generated by a commercial toilet is low, comparable to the amount produced when a person says “Hello, world!” A study found two other types of viruses in the air in bathrooms in hospital and office buildings, but these were both respiratory viruses that could have come from people’s exhalations rather than flushing the toilet. A laboratory study of other types of viruses spiked into toilets was unable to detect them in the air after flushing. That said, it’s still a good idea to close the lid, if present, before flushing.
+#
+#  2. Second, it is possible for fecal aerosols to spread through the plumbing system that connects units in a high-rise building, as occurred with the original SARS in the Amoy Gardens apartment buildings in Hong Kong, and several similar outbreaks in China and Hong Kong for COVID-19. In this case, the problem is bathroom floor drains (not common in the US) with dry traps that allow air from the vent stack, which might be contaminated with fecal aerosols from other units, to flow into your bathroom.
+#
+# Speaking results in about x10 times more respiratory aerosol emission than just breathing, and singing (at high volume) or yelling can be about x50 times more. Ballistic droplets are not exhaled at all when breathing. You should also not allow others to talk to you without a mask from a close distance.
+#
+#
+# 4.2. Does UV light from the sun kill the virus?
+# Yes, UV light from the sun is very effective at deactivating the virus, especially at high intensities, see the chart below. For example, the virus goes from surviving ~ 1 hr (at 21oC and 40% RH) to only 10 min. at a UV index of 2, and only ~2 min. Under intense full sun (UV index of 10)
+# This should be important for transmission through surfaces outdoors, as virus left on surfaces will be deactivated quickly during the day. It does not really matter for the aerosol or droplet pathways outdoors. Ballistic droplets will reach their targets (eyes, nostrils, mouth) in ~1 second, while if aerosols have not been inhaled in a few seconds, they will have diluted and moved away under typical outdoor winds of a few m/s.
+
+#############    ###### #######################
+ # The role of asymptomatic patients in potential transmission of infection to close contact is still a concern.
+ #
+ # The sensitivity range of most AgPOCT overlaps with viral load figures typically observed during the first week of symptoms, which marks the infectious period in the majority patients.
+ #       'Corman_et_al_11_13_2020
+  # >>>
+  #   The summary proportion of SARS-CoV-2 that is asymptomatic throughout the course of infection was estimated, across all study settings, to be 20% (95% CI 17%–25%, 79 studies), with a prediction interval of 3%–67%.
+  #   --
+  #     'Buitrago-Garcia_et_al_09_22_2020.!a
+  #     'Buitrago-Garcia_et_al_09_22_2020.!e
+  #
+  #
+  #   Our findings substantiate previous reports from China and Germany and show that SARS-CoV-2 can be transmitted during asymptomatic COVID-19 infection period.
+  #   --
+  #     'Bai_et_al_02_21_2020
+  #     'Rothe_et_al_03_05_2020
+  #     'Tong_et_al_03_09_2020
+  #
+  #   >>>
+  #     persons with asymptomatic infections appeared to be less effective in transmitting the virus.
+  #     --
+  #       'Zhang_et_al_05_26_2020.!b
+  #
+  # >>>
+  #   The findings from systematic reviews, including ours, do not support the claim that a large majority of SARS-CoV-2 infections are asymptomatic . OR Our estimates of the proportion of asymptomatic cases and their risk of transmission suggest that asymptomatic spread is unlikely to be a major driver of clusters or community transmission of infection,
+  #   paper: Occurrence and transmission potential of asymptomatic and presymptomatic SARS-CoV-2 infections: A living sy
+  #   --
+  #   'Buitrago-Garcia_et_al_09_22_2020
+  #    'He_et_al_07_21_2020
+  #    'Byambasuren_et_al_09_13_2020
+  #    'Beale_et_al_05_23_2020
+  #
+  #
+  #    The latest findings seem to contradict a World Health Organization report in February that was based on covid-19 in China. This suggested that “the proportion of truly asymptomatic infections is unclear but appears to be relatively rare and does not appear to be a major driver of transmission.”
+  #    --
+  #     Covid-19: four fifths of cases are asymptomatic, China figures indicate
+  #
+  #
+  #     The analysis of secondary attack rates provides some evidence of lower infectiousness of people with asymptomatic than symptomatic infection (Fig 3) [36,65,66,90,111], but more studies are needed to quantify this association more precisely.
+  #     --
+  #     'Buitrago-Garcia_et_al_09_22_2020.!d
+  #     'Luo_et_al_03_26_2020
+  #     'Chaw_et_al_07_10_2020
+  #     'Cheng_et_al_05_01_2020 - WHO.i check head and should it go in viral
+  #
+  #
+  #   Ten included studies contain the number of presymptomatic patients, who were asymptomatic at screening point and developed symptoms during follow‐up.
+
+
+
+
+
+
+
+
+
+ #  utility and performance for antigen testing
 
   # >>>
   #   an association between increased risk of death and a shorter incubation period was previously described in patients with severe acute respiratory syndrome. Previous experiences from SARS indicated that rapidly determining the incubation period enabled public-health officials to set proper quarantine periods and terminate the transmission without the aid of treatment
@@ -271,7 +484,19 @@ index: hide
    #
    # And only antibody tests that measure the amount of these antibodies can predict immunity. block the spike protein from connecting to the ACE2 receptor are guaranteed to provide immunity.
 
-
+   # >>>
+   #    The LIPS assay demonstrates high sensitivity and a wider dynamic range for antibody detection compared with other published assays - 'Burbelo_et_al_05_19_2020
+   #    --
+   #      'Burbelo_et_al_05_19_2020
+   #      Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study.
+   #      Profiling early humoral response to diagnose novel coronavirus disease (COVID-19).
+   #      Antibody responses to SARS-CoV-2 in patients of novel coronavirus disease 2019.
+   #      Virological assessment of hospitalized patients with COVID-2019.
+   #      Development and clinical application of a rapid IgM-IgG combined antibody test for SARS-CoV-2 infection diagnosis.
+   #
+   #    >>>
+   #    https://www.painphysicianjournal.com/current/pdf?article=NzEwOA%3D%3D&journal=129
+   #      Value and Validity of Coronavirus Antibody Testing
 
  ### Antibodies
 

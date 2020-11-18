@@ -11,46 +11,401 @@ feed Sangeeta
     / February, 2020 - bioRxiv
     quote !a =
 
-  #
-
 
   #
+  // COVID-19 CG: Tracking SARS-CoV-2 mutations by locations and dates of interest
+  doi: https://doi.org/10.1101/2020.09.23.310565
+  ref 'Chen_et_al_09_28_2020
+    head = We describe case studies in which users can interrogate (1)single-nucleotide variations (SNVs) in the SARS-CoV-2 Spike receptor binding domain (RBD) across different geographic regions to inform the design and testing of therapeutics, (2) SNVs that may impact the sensitivity of commonly used diagnostic primers, and (3) the recent emergence of a dominant lineage harboring an S477N RBD mutation in Australia.
 
-  // DUMMY TITLE
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
+    >>> Abstract
+      COVID-19 CG is an open resource for tracking SARS-CoV-2 single-nucleotide variations (SNVs) and lineages while filtering by location, date, gene, and mutation of interest. COVID-19 CG provides significant time, labor, and cost-saving utility to diverse projects on SARS-CoV-2 transmission, evolution, emergence, immune interactions, diagnostics, therapeutics, vaccines, and intervention tracking. Here, we describe case studies in which users can interrogate (1) SNVs in the SARS-CoV-2 Spike receptor binding domain (RBD) across different geographic regions to inform the design and testing of therapeutics, (2) SNVs that may impact the sensitivity of commonly used diagnostic primers, and (3) the recent emergence of a dominant lineage harboring an S477N RBD mutation in Australia. To accelerate COVID-19 research and public health efforts, COVID-19 CG will be continually upgraded with new features for users to quickly and reliably pinpoint mutations as the virus evolves throughout the pandemic and in response to therapeutic and public health interventions.
+
+    -- quotes
+      !a
+      !b
+      !c
+      !d
+
+    / September, 2020 - bioRxiv
+    quote !a = An S477N mutation in the RBD has become dominant in Oceania (57.5% of Oceanian genotypes, all time) although it constitutes only 4.36% of SARS-CoV-2 genotypes globally and has not been detected in Africa, Asia, or South America.
+
+    / September, 2020 - bioRxiv
+    quote !b = SNV frequency in a given region can also shift over time, e.g., an RBD N439K mutation not found in Ireland prior to July is now present in 79.5% of the genomes collected mid-July through August. Another rare RBD S477N mutation, which was found in only 1.05% of the Australian SARS-CoV-2 sequences before June, now constitutes 85 more than 90% of the sequenced June through August isolates.
+
+    / September, 2020 - bioRxiv
+    quote !c = The set of SNVs that co-occur with the S477N mutation in Australia (all time, as well as prior to May, 2020 before the most recent outbreak) are different from the set of co-occurring SNVs in the United Kingdom— suggesting that the S477N mutation occurred separately in the Australian and the UK lineages.
+
+    # / September, 2020 - bioRxiv
+    # quote !a = A common G29140T single-nucleotide variations (SNV), found in 22.3% of the study’s samples from Madera County, California, was adversely affecting SARS-CoV-2 detection by the NIID_2019-nCoV_N_F2 diagnostic primer used at their sequencing center; the single SNV caused a ~30-fold drop in the quantity of amplicon produced by the NIID_2019-nCov_N_F2/R2 primer pair.
+
+    / September, 2020 - bioRxiv
+    quote !d = SNVs could impact assay accuracy if diagnostic primers and probes are also being used to quantify viral loads in patients. We found that at least ten other primer pairs could potentially be at risk in different geographical regions due to SNVs that appear proximal to the 3’ ends of primers: China-CDC-N-F and R; NIH, Thailand, WH-NIC N-F; US CDC 2019-nCoV-N1-R;US CDC 2019-nCoV-N2-F; ARTIC-V3_nCoV-2019_11_RIGHT; ARTIC-V3_nCoV130 2019_13_LEFT; ARTIC-V3_nCoV-2019_34_LEFT; ARTIC-V3_nCoV-2019_39_LEFT.
+
+    # / September, 2020 - bioRxiv
+    # quote !e = This geographical and temporal variation is important to incorporate into the design and testing of therapeutic antibodies (such as those under development as therapeutics by Regeneron that specifically target the SARS-CoV-2 Spike RBD), as well as mRNA or recombinant protein-based vaccines.
+
+
+
+  #
+  // Identification of a polymorphism in the N gene of SARS-CoV-2 that adversely impacts detection by a widely-used RT-PCR assay
+  doi: https://doi.org/10.1101/2020.08.25.265074
+  ref 'Vanaerschot_et_al_08_26_2020
+    head = We report the identification of a nucleotide change in an N gene primer sequence (corresponding to G29140T in the SARS-CoV-2 genome) that impairs annealing and amplification, resulting in increased Ct values and decreased diagnostic sensitivity. Our results indicate the potential hazard of relying on one target when assaying for SARS-CoV-2, even in areas of high prevalence and highlights the need to employ multiple viral targets for detection.
+
+    >>> Abstract
+      We identify a mutation in the N gene of SARS-CoV-2 that adversely affects annealing of a commonly used RT-PCR primer; epidemiologic evidence suggests the virus retains pathogenicity and competence for spread. This reinforces the importance of using multiple targets, preferably in at least 2 genes, for robust SARS-CoV-2 detection.
+
+    -- quotes
+      !a
+      !b
+
+    / August, 2020 - bioRxiv
+    quote !a = Madera County is currently experiencing significant community spread of COVID-19, with a 14-day incidence rate of 378 cases per 100,000 population during July 1 — July 14, when the first mutant sample was observed. Out of 202 total samples from this county, 45 (22.3%) carried the G29140T mutation.
+
+    / August, 2020 - bioRxiv
+    quote !b = A common G29140T single-nucleotide variations (SNV), found in 22.3% of the study’s samples from Madera County, California, was adversely affecting SARS-CoV-2 detection by the NIID_2019-nCoV_N_F2 diagnostic primer used at their sequencing center; the single SNV caused a ~30-fold drop in the quantity of amplicon produced by the NIID_2019-nCov_N_F2/R2 primer pair.
+
+
+
+
+  #
+  // Clinical recurrences of COVID-19 symptoms after recovery: Viral relapse, reinfection or inflammatory rebound?
+  doi: https://doi.org/10.1016/j.jinf.2020.06.073
+  ref 'Gousseff_et_al_06_30_2020
+    head = We report a national case series of 11 virologically-confirmed COVID-19 patients having experienced a second clinically- and virologically-confirmed acute COVID-19 episode. According to the clinical history, we discuss either re-infection or reactivation hypothesis.
+
+    >>> Abstract
+      For the first 3 months of COVID-19 pandemic, COVID-19 was expected to be an immunizing non-relapsing disease. We report a national case series of 11 virologically-confirmed COVID-19 patients having experienced a second clinically- and virologically-confirmed acute COVID-19 episode. According to the clinical history, we discuss either re-infection or reactivation hypothesis. Larger studies including further virological, immunological and epidemiologic data are needed to understand the mechanisms of these recurrences.
+
+    / June, 2020 - J Infect.
+    quote !a =
+
+
+
+  #
+  // Relapse of SARS upon tapering corticosteroid
+  doi: https://doi.org/10.1007/s00134-004-2287-4
+  ref 'Chien_et_al_05_01_2004
+    head = We describe a SARS patient who twice experienced relapse of SARS which was complicated with shock and acute disseminated intravascular coagulopathy (DIC) during stepping down the corticosteroid dose.
+
+    / May, 2004 - Intensive Care Medicine
+    quote !a =
+
+
+
+  #
+  // The Possibility and Cause of Relapse After Previously Recovering From COVID-19: A Systematic Review
+  doi: https://dx.doi.org/10.7759%2Fcureus.10264
+  ref 'Elsayed_et_al_09_05_2020
+    head = This study highlights the possibility of COVID-19 relapse. The patients reported were mostly females and less than 40 years old. The common presentations of the relapse are asymptomatic presentation, fever, or fever associated with fatigue within 14 days of discharge, although 27.3% of cases reported after 14 days up to 22 days. There was incomplete information about comorbidities. No mortalities were reported at the time of the study.
+
+    >>> Abstract
+      The severe acute respiratory distress syndrome coronavirus-2 (SARS-Cov-2) is a novel coronavirus that is believed to be mainly transmitted via droplet and contact transmission. While research is focusing on epidemiology, transmission, vaccine development, and therapeutics for coronavirus disease 2019 (COVID-19), there is a possibility of disease relapse. There are reports of patients who tested positive for SARS-Cov-2 after clinical recovery and initial clearance of the virus.
+
+    >>> Objective
+      This systematic review aims to identify the trends of COVID-19 relapse, the effects of co-morbidities on it, and associated mortality rates.
+
+    >>> Methods
+      We conducted a systematic search during March and April 2020 for research articles on the relapse of COVID-19 using two primary databases, PubMed and Embase.
+
+    >>> Results
+      A total of 13 eligible studies were screened of which 11 (case reports) were eligible for data extraction. The earliest to report relapse was after two days of discharge and the latest was 22 days after discharge. The mean number of days to relapse was 12 days and the median number was seven days. There was incomplete information about comorbidities. No mortalities were reported at the time of the study.
 
     -- quotes
       !a
 
-    / February, 2020 - bioRxiv
-    quote !a =
+    # / September, 2020 - Cureus
+    # quote !a = In China, by the end of February, 39,002 patients were discharged from hospitals after meeting the set discharge criteria. Fourteen percent of the discharged patients showed positive nucleic acid re-examination or regained fever within one week.
+
+    / September, 2020 - Cureus
+    quote !a = 36.4% of the patients received corticosteroids, which suggests a potential link with the relapse that requires further studies.
+
+
 
   #
-
-  // DUMMY TITLE
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
+  // Covid-19: four fifths of cases are asymptomatic, China figures indicate
+  doi: https://doi.org/10.1136/bmj.m1375
+  ref 'Day_et_al_04_02_2020
+    head = Chinese authorities began publishing daily figures on 1 April on the number of new coronavirus cases that are asymptomatic, with the first day’s figures suggesting that around four in five coronavirus infections caused no illness. Many experts believe that unnoticed, asymptomatic cases of coronavirus infection could be an important source of contagion.
 
     -- quotes
       !a
 
-    / February, 2020 - bioRxiv
-    quote !a =
+    / April, 2020 - BMJ
+    quote !a = A total of 130 of 166 new infections (78%) identified in the 24 hours to the afternoon of Wednesday 1 April were asymptomatic. And most of the 36 cases in which patients showed symptoms involved arrivals from overseas, down from 48 the previous day.
+
+
 
   #
-  // DUMMY TITLE
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
+  // Estimating the extent of asymptomatic COVID-19 and its potential for community transmission: systematic review and meta-analysis
+  doi: https://doi.org/10.1101/2020.05.10.20097543
+  ref 'Byambasuren_et_al_09_13_2020
+    head = Our estimates of the proportion of asymptomatic cases and their risk of transmission suggest that asymptomatic spread is unlikely to be a major driver of clusters or community transmission of infection, but the extent of transmission risk for pre-symptomatic and minor symptomatic cases remains unknown.
+
+    >>> Background
+      The prevalence of true asymptomatic COVID-19 cases is critical to policy makers considering the effectiveness of mitigation measures against the SARS-CoV-2 pandemic. We aimed to synthesize all available research on the asymptomatic rates and transmission rates where possible.
+
+    >>> Methods
+      We searched PubMed, Embase, Cochrane COVID-19 trials, and Europe PMC (which covers pre-print platforms such as MedRxiv). We included primary studies reporting on asymptomatic prevalence where: (a) the sample frame includes at-risk population, and (b) there was sufficiently long follow up to identify pre-symptomatic cases. Meta-analysis used fixed effect and random effects models. We assessed risk of bias by combination of questions adapted from risk of bias tools for prevalence and diagnostic accuracy studies.
+
+    >>> Results
+      We screened 2,454 articles and included 13 low risk-of-bias studies from seven countries that tested 21,708 at-risk people, of which 663 were positive and 111 were asymptomatic. Diagnosis in all studies was confirmed using a RT-PCR test. The proportion of asymptomatic cases ranged from 4% to 41%. Meta-analysis (fixed effect) found that the proportion of asymptomatic cases was 17% (95% CI: 14% - 20%) overall; higher in aged care 20% (14% - 27%), and lower in non-aged care 16% (13% - 20%). Five studies provided direct evidence of forward transmission of the infection by asymptomatic cases. Overall, there was a 42% lower relative risk of asymptomatic transmission compared to symptomatic transmission (combined Relative Risk: 0.58; 95% CI 0.335-0.994, p=0.047).
+
+    >>> Discussion
+      Our estimates of the prevalence of asymptomatic COVID-19 cases and asymptomatic transmission rates are lower than many highly publicized studies, but still sufficient to warrant policy attention. Further robust epidemiological evidence is urgently needed, including in sub-populations such as children, to better understand the importance of asymptomatic cases for driving spread of the pandemic.
+
+
+    / September, 2020 - medRxiv
+    quote !a =
+
+
+  # check date
+  // A Rapid Review of the Asymptomatic Proportion of PCR-Confirmed  SARS-CoV-2 Infections in Community Settings
+  doi: https://doi.org/10.1101/2020.05.20.20108183
+  ref 'Beale_et_al_05_23_2020
+    head = Asymptomatic viral shedding comprises a substantial minority of SARS-CoV-2 infections when estimated using methodologically-appropriate studies.
+
+    >>> Background
+      Up to 80% of active SARS-CoV-2 infections are proposed to be asymptomatic based on cross-sectional studies. However, accurate estimates of the asymptomatic proportion require systematic detection and follow-up to differentiate between truly asymptomatic and pre-symptomatic cases. We conducted a rapid review and meta-analysis of the asymptomatic proportion of PCR-confirmed SARS-CoV-2 infections based on methodologically-appropriate studies in community settings.
+
+    >>> Methods
+      We searched Medline and EMBASE for peer-reviewed articles, and BioRxiv and MedRxiv for pre-prints published before 25/08/2020. We included studies based in community settings that involved systematic PCR testing on participants and follow-up symptom monitoring regardless of symptom status. We extracted data on study characteristics, frequencies of PCR-confirmed infections by symptom status, and (if available) cycle threshold/genome copy number values and/or duration of viral shedding by symptom status, and age of asymptomatic versus (pre)symptomatic cases. We computed estimates of the asymptomatic proportion and 95% confidence intervals for each study and overall using random effect meta-analysis.
+
+    >>> Findings
+      We screened 1138 studies and included 21. The pooled asymptomatic proportion of SARS-CoV-2 infections was 23% (95% CI 16%-30%). When stratified by testing context, the asymptomatic proportion ranged from 6% (95% CI 0-17%) for household contacts to 47% (95% CI 21-75%) for non-outbreak point prevalence surveys with follow-up symptom monitoring. Estimates of viral load and duration of viral shedding appeared to be similar for asymptomatic and symptomatic cases based on available data, though detailed reporting of viral load and natural history of viral shedding by symptom status were limited. Evidence into the relationship between age and symptom status was inconclusive.
+
+    >>> Conclusion
+      Asymptomatic viral shedding comprises a substantial minority of SARS-CoV-2 infections when estimated using methodologically-appropriate studies. Further investigation into variation in the asymptomatic proportion by testing context, the degree and duration of infectiousness for asymptomatic infections, and demographic predictors of symptom status are warranted.
+
+
+    / May, 2020 - medRxiv
+    quote !a =
+
+
+
+  #
+  // Proportion of asymptomatic coronavirus disease 2019: A systematic review and meta‐analysis
+  doi: https://doi.org/10.1002/jmv.26326
+  ref 'He_et_al_07_21_2020
+    head = About 15.6% of confirmed COVID‐19 patients are asymptomatic. Nearly half of the patients with no symptoms at detection time will develop symptoms later. Children are likely to have a higher proportion of asymptomatic infection than adults. Asymptomatic COVID‐19 patients could have abnormal laboratory and radiational manifestations, which can be used as screening strategies to identify asymptomatic infection.
+
+    >>>
+      We aim to systematically review the characteristics of asymptomatic infection in the coronavirus disease 2019 (COVID‐19). PubMed and EMBASE were electronically searched to identify original studies containing the rate of asymptomatic infection in COVID‐19 patients before 20 May 2020. Then mate‐analysis was conducted using R version 3.6.2. A total of 50 155 patients from 41 studies with confirmed COVID‐19 were included. The pooled percentage of asymptomatic infection is 15.6% (95% CI, 10.1%‐23.0%). Ten included studies contain the number of presymptomatic patients, who were asymptomatic at screening point and developed symptoms during follow‐up. The pooled percentage of presymptomatic infection among 180 initially asymptomatic patients is 48.9% (95% CI, 31.6%‐66.2%). The pooled proportion of asymptomatic infection among 1152 COVID‐19 children from 11 studies is 27.7% (95% CI, 16.4%‐42.7%), which is much higher than patients from all aged groups. Abnormal CT features are common in asymptomatic COVID‐19 infection. For 36 patients from 4 studies that CT results were available, 15 (41.7%) patients had bilateral involvement and 14 (38.9%) had unilateral involvement in CT results. Reduced white blood cell count, increased lactate dehydrogenase, and increased C‐reactive protein were also recorded. About 15.6% of confirmed COVID‐19 patients are asymptomatic. Nearly half of the patients with no symptoms at detection time will develop symptoms later. Children are likely to have a higher proportion of asymptomatic infection than adults. Asymptomatic COVID‐19 patients could have abnormal laboratory and radiational manifestations, which can be used as screening strategies to identify asymptomatic infection.
 
     -- quotes
       !a
 
-    / February, 2020 - bioRxiv
+    / July, 2020 - Journal of Medical Virology
+    quote !a = Clinical manifestations of asymptomatic patients show that most asymptomatic patients were moderate in their clinical manifestations and stay asymptomatic until their RNA testing turned negative.
+
+
+
+  #
+  // Potential Presymptomatic Transmission of SARS-CoV-2, Zhejiang Province, China, 2020
+  doi: https://dx.doi.org/10.3201/eid2605.200198
+  ref 'Tong_et_al_03_09_2020
+    head = We identified 2 persons with confirmed cases of symptomatic COVID-19 after their exposure to a potentially presymptomatic person who was later diagnosed with laboratory-confirmed COVID-19. These 2 persons later transmitted SARS-CoV-2 to 3 family members, who did not report symptoms at the time their SARS-CoV-2 infections were detected.
+
+    >>> Abstract
+      We report a 2-family cluster of persons infected with severe acute respiratory syndrome coronavirus 2 in the city of Zhoushan, Zhejiang Province, China, during January 2020. The infections resulted from contact with an infected but potentially presymptomatic traveler from the city of Wuhan in Hubei Province.
+
+
+    / March, 2020 - Emerg Infect Dis.
     quote !a =
+
+
+
+  #
+  // Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany
+  doi: https://doi.org/10.1056/NEJMc2001468
+  ref 'Rothe_et_al_03_05_2020
+    head = This case of 2019-nCoV infection was diagnosed in Germany and transmitted outside Asia. However, it is notable that the infection appears to have been transmitted during the incubation period of the index patient, in whom the illness was brief and nonspecific.
+
+    / March, 2020 - N Engl J Med
+    quote !a =
+
+
+
+  #
+  // Presumed Asymptomatic Carrier Transmission of COVID-19
+  doi: https://doi.org/10.1001/jama.2020.2565
+  ref 'Bai_et_al_02_21_2020
+    head = A familial cluster of 5 patients with COVID-19 pneumonia in Anyang, China, had contact before their symptom onset with an asymptomatic family member who had traveled from the epidemic center of Wuhan. The sequence of events suggests that the coronavirus may have been transmitted by the asymptomatic carrier.
+
+    / February, 2020 - JAMA
+    quote !a =
+
+
+
+  #
+  // Secondary Transmission of Coronavirus Disease from Presymptomatic Persons, China
+  doi: https://dx.doi.org/10.3201/eid2608.201142
+  ref 'Zhang_et_al_05_26_2020
+    head = Our findings substantiate previous reports from China and Germany and show that SARS-CoV-2 can be transmitted during asymptomatic COVID-19 infection period. The probability of infection increased substantially among close contacts who shared living environments or had frequent contact with an index case-patient.
+
+    >>> Abstract
+      We explored the secondary attack rate in different types of contact with persons presymptomatic for coronavirus disease (COVID-19). Close contacts who lived with or had frequent contact with an index case-patient had a higher risk for COVID-19. Our findings provide population-based evidence for transmission from persons with presymptomatic COVID-19 infections.
+
+    -- quotes
+      !a
+      !b
+
+    / May, 2020 - Emerging Infectious Diseases
+    quote !a = Our results also showed most secondary infections occurred in confined familial clusters and that persons >60 years of age appear to be more vulnerable to being infected.
+
+    / May, 2020 - Emerging Infectious Diseases
+    quote !b = We noted that persons with asymptomatic infections appeared to be less effective in transmitting the virus.
+
+
+
+  #
+  // Occurrence and transmission potential of asymptomatic and presymptomatic SARS-CoV-2 infections: A living systematic review and meta-analysis
+  doi: https://doi.org/10.1371/journal.pmed.1003346
+  ref 'Buitrago-Garcia_et_al_09_22_2020
+    head = The findings of this living systematic review suggest that most people who become infected with SARS-CoV-2 will not remain asymptomatic throughout the course of the infection. The contribution of presymptomatic and asymptomatic infections to overall SARS-CoV-2 transmission means that combination prevention measures, with enhanced hand hygiene, masks, testing tracing, and isolation strategies and social distancing, will continue to be needed.
+
+    >>> Background
+      There is disagreement about the level of asymptomatic severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection. We conducted a living systematic review and meta-analysis to address three questions: (1) Amongst people who become infected with SARS-CoV-2, what proportion does not experience symptoms at all during their infection? (2) Amongst people with SARS-CoV-2 infection who are asymptomatic when diagnosed, what proportion will develop symptoms later? (3) What proportion of SARS-CoV-2 transmission is accounted for by people who are either asymptomatic throughout infection or presymptomatic?
+
+    >>> Methods and findings
+      We searched PubMed, Embase, bioRxiv, and medRxiv using a database of SARS-CoV-2 literature that is updated daily, on 25 March 2020, 20 April 2020, and 10 June 2020. Studies of people with SARS-CoV-2 diagnosed by reverse transcriptase PCR (RT-PCR) that documented follow-up and symptom status at the beginning and end of follow-up or modelling studies were included. One reviewer extracted data and a second verified the extraction, with disagreement resolved by discussion or a third reviewer. Risk of bias in empirical studies was assessed with an adapted checklist for case series, and the relevance and credibility of modelling studies were assessed using a published checklist. We included a total of 94 studies. The overall estimate of the proportion of people who become infected with SARS-CoV-2 and remain asymptomatic throughout infection was 20% (95% confidence interval [CI] 17–25) with a prediction interval of 3%–67% in 79 studies that addressed this review question. There was some evidence that biases in the selection of participants influence the estimate. In seven studies of defined populations screened for SARS-CoV-2 and then followed, 31% (95% CI 26%–37%, prediction interval 24%–38%) remained asymptomatic. The proportion of people that is presymptomatic could not be summarised, owing to heterogeneity. The secondary attack rate was lower in contacts of people with asymptomatic infection than those with symptomatic infection (relative risk 0.35, 95% CI 0.10–1.27). Modelling studies fit to data found a higher proportion of all SARS-CoV-2 infections resulting from transmission from presymptomatic individuals than from asymptomatic individuals. Limitations of the review include that most included studies were not designed to estimate the proportion of asymptomatic SARS-CoV-2 infections and were at risk of selection biases; we did not consider the possible impact of false negative RT-PCR results, which would underestimate the proportion of asymptomatic infections; and the database does not include all sources.
+
+    >>> Conclusions
+      The findings of this living systematic review suggest that most people who become infected with SARS-CoV-2 will not remain asymptomatic throughout the course of the infection. The contribution of presymptomatic and asymptomatic infections to overall SARS-CoV-2 transmission means that combination prevention measures, with enhanced hand hygiene, masks, testing tracing, and isolation strategies and social distancing, will continue to be needed.
+
+    -- quotes
+      !a
+      !b
+      !d
+      !e
+      !f
+
+
+    / September, 2020 - PLOS Medicine
+    quote !a = The summary proportion of SARS-CoV-2 that is asymptomatic throughout the course of infection was estimated, across all study settings, to be 20% (95% CI 17%–25%, 79 studies), with a prediction interval of 3%–67%.
+
+    / September, 2020 - PLOS Medicine
+    quote !b = The findings from systematic reviews, including ours, do not support the claim that a large majority of SARS-CoV-2 infections are asymptomatic.
+
+    # / September, 2020 - PLOS Medicine
+    # quote !c = In studies that identified SARS-CoV-2 infection through screening of defined populations, the proportion of asymptomatic infections was 31%.
+
+    / September, 2020 - PLOS Medicine
+    quote !d = The secondary attack rate from asymptomatic infections may be lower than that from symptomatic infections (relative risk 0.35, 95% CI 0.1–1.27).
+
+    / September, 2020 - PLOS Medicine
+    quote !e = Since all people infected with SARS-CoV-2 are initially asymptomatic, the proportion that will go on to develop symptoms can be derived by subtraction from the estimated proportion with true asymptomatic infections; from our review, we would estimate this fraction to be 80%.
+
+    / September, 2020 - PLOS Medicine
+    quote !f = Since SARS-CoV-2 can be transmitted a few days before the onset of symptoms, presymptomatic transmission likely contributes substantially to overall SARS-CoV-2 epidemics.
+
+
+
+
+  # comparison
+  // Evaluation of the accuracy, ease of use and limit of detection of novel, rapid, antigendetecting point-of-care diagnostics for SARS-CoV-2
+  doi: https://doi.org/10.1101/2020.10.01.20203836
+  ref 'Krüger_et_al_10_04_2020
+    head = The best-performing test (SD Biosensor, Inc. STANDARD Q) was 76∙6% sensitive and 99∙3% specific. A sub-analysis showed all samples with RT-PCR CT-values <25 were  detectable by STANDARD Q. The test was considered easy-to-use (SUS 86/100) and suitable for point-of-care (POC) despite imperfect sensitivity. Bioeasy and Coris showed specificity of 93∙1% and 95∙8%, respectively, not meeting the predefined target of ≥98%.
+
+    >>> Background
+      Reliable point-of-care (POC) diagnostics not requiring laboratory infrastructure could be a game changer
+      in the COVID-19 pandemic, particularly in the Global South. We assessed performance, limit of detection and ease-ofuse of three antigen-detecting, rapid POC tests (Ag-RDT) for SARS-CoV-2.
+
+    >>> Methods
+      This prospective, multi-centre diagnostic accuracy study recruited participants suspected to have SARS-CoV2 in Germany and the UK. Paired nasopharyngeal swabs (NP) or NP and/or oropharyngeal swabs (OP) were collected  from participants (one for clinical RT-PCR and one for Ag-RDT). Performance of each of three Ag-RDTs was compared to RT-PCR overall, and according to predefined subcategories e.g. cycle threshold (CT)-value, days from symptoms  onset, etc. In addition, limited verification of the analytical limit-of-detection (LOD) was determined. To understand the usability a System Usability Scale (SUS) questionnaire and ease-of-use (EoU) assessment were performed.
+
+    >>> Results
+      Between April 17th and August 25th, 2020, 2417 participants were enrolled, with 70 (3.0%) testing positive by RT-PCR. The best-performing test (SD Biosensor, Inc. STANDARD Q) was 76∙6% (95% Confidence Interval (CI) 62∙8- 86∙4) sensitive and 99∙3% (CI 98∙6-99∙6) specific. A sub-analysis showed all samples with RT-PCR CT-values <25 were  detectable by STANDARD Q. The test was considered easy-to-use (SUS 86/100) and suitable for POC. Bioeasy and Coris  showed specificity of 93∙1% (CI 91∙0%-94∙8%) and 95∙8% (CI 93∙4%-97∙4%), respectively, not meeting the predefined target of ≥98%.
+
+    >>> Conclusion
+      There is large variability in performance of Ag-RDT with SD Biosensor showing promise. Given the usability at POC, this test is likely to have impact despite imperfect sensitivity; however further research and modelling are needed.
+
+    -- quotes
+      !a
+
+    / October, 2020 - medRxiv
+    quote !a = Bioeasy and Coris showed specificity of 93∙1% and 95∙8%, respectively, not meeting the predefined target of ≥98%.
+
+
+
+  #
+  // Comparison of seven commercial SARS-CoV-2 rapid Point-of-Care Antigen tests
+  doi: https://doi.org/10.1101/2020.11.12.20230292
+  ref 'Corman_et_al_11_13_2020
+    head = We provide a comparison of performance of seven AgPOCT assays by seven suppliers: the Abbott Panbio™ COVID-19 Ag Rapid Test; the RapiGEN BIOCREDIT COVID-19 Ag; the Healgen® Coronavirus Ag Rapid Test Cassette (Swab); the Coris Bioconcept Covid.19 Ag Respi-Strip; the R-Biopharm RIDA®QUICK SARS-CoV-2 Antigen; the NAL von minden NADAL COVID19-Ag Test; and the Roche/SD Biosensor SARS-CoV Rapid Antigen Test; that have recently become available on the European market. The sensitivity range of most AgPOCT overlaps with viral load figures typically observed during the first week of symptoms, which marks the infectious period in the majority patients.
+
+
+    >>> Background
+      Antigen point of care tests (AgPOCT) can accelerate SARS-CoV-2 testing. As first AgPOCT are becoming available, there is a growing interest in their utility and performance.
+
+    >>> Methods
+      Here we compare AgPOCT products by seven suppliers: the Abbott Panbio COVID-19 Ag Rapid Test; the RapiGEN BIOCREDIT COVID-19 Ag; the Healgen Coronavirus Ag Rapid Test Cassette (Swab); the Coris Bioconcept Covid.19 Ag Respi-Strip; the R-Biopharm RIDA QUICK SARS-CoV-2 Antigen; the NAL von minden NADAL COVID19-Ag Test; and the Roche/SD Biosensor SARS-CoV Rapid Antigen Test. Tests were evaluated on recombinant nucleoprotein, cultured endemic and emerging coronaviruses, stored clinical samples with known SARS-CoV-2 viral loads (n=138), stored samples from patients with respiratory agents other than SARS-CoV-2 (n=100), as well as self-sampled swabs from healthy volunteers (n=35).
+
+    >>> Findings
+      Limits of detection in six of seven tested products ranged between 2.08 X 106 and 2.88 X 107 copies per swab, the outlier at 1.58 X 1010 copies per swab. Specificities ranged between 98.53% and 100% in five products, with two outliers at 94.85% and 88.24%. False positive results were not associated with any specific respiratory agent. As some of the tested AgPOCT were early production lots, the observed issues with specificity are unlikely to persist.
+
+    >>> Interpretation
+      The sensitivity range of most AgPOCT overlaps with viral load figures typically observed during the first week of symptoms, which marks the infectious period in the majority patients. AgPOCTs with a limit of detection that approximates the virus concentration above which patients are infectious may enable shortcuts in decision-making in various areas of healthcare and public health.
+
+    -- quotes
+      !a
+      !b
+      !c
+      !d
+
+    / November, 2020 - medRxiv
+    quote !a = In terms of sensitivity, the detection range of most tests seemed to range between one and ten million copies per swab and thus corresponds to a concentration that predicts a virus isolation success rate of ca. 20% in cell culture. In the cited studies, this level of isolation success is typically reached by the end of the first week of symptoms.
+
+    / November, 2020 - medRxiv
+    quote !b = The point in the course of the first week of symptoms at which AgPOCT results turn negative may thus indicate the time at which infectivity resolves.
+
+    / November, 2020 - medRxiv
+    quote !c = Given the limitations of sensitivity, the results of AgPOCT should be understood as a momentary assessment of infectiousness rather than a diagnosis with power to exclude infection. As there is a steep incline of virus concentration around or before the onset of symptoms, guidelines for using AgPOCT should mention that a negative test results may reflect a lack of sensitivity, particularly when symptoms occur short after testing.
+
+    / November, 2020 - medRxiv
+    quote !d = The limited specificity of most AgPOCT should trigger RT-PCR confirmation of positive tests whenever possible.
+
+
+
+  # 11/13
+  // Sensitivity in Detection of Antibodies to Nucleocapsid and Spike Proteins of Severe Acute Respiratory Syndrome Coronavirus 2 in Patients With Coronavirus Disease 2019
+  doi: https://doi.org/10.1093/infdis/jiaa273
+  ref 'Burbelo_et_al_05_19_2020
+    head = Antibody to the nucleocapsid protein of SARS-CoV-2 is more sensitive than spike protein antibody for detecting early infection. Analyzing heat-inactivated samples with a luciferase immunoprecipitation system assay is a safe and sensitive method for detecting SARS-CoV-2 antibodies.
+
+    >>> Background
+      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the cause of coronavirus disease 2019 (COVID-19), is associated with respiratory-related disease and death. Assays to detect virus-specific antibodies are important to understand the prevalence of infection and the course of the immune response.
+
+    >>> Methods
+      Quantitative measurements of plasma or serum antibodies to the nucleocapsid and spike proteins were analyzed using luciferase immunoprecipitation system assays in 100 cross-sectional or longitudinal samples from patients with SARS-CoV-2 infection. A subset of samples was tested both with and without heat inactivation.
+
+    >>> Results
+      At >14 days after symptom onset, antibodies against SARS-CoV-2 nucleocapsid protein showed 100% sensitivity and 100% specificity, whereas antibodies to spike protein were detected with 91% sensitivity and 100% specificity. Neither antibody levels nor the rate of seropositivity were significantly reduced by heat inactivation of samples. Analysis of daily samples from 6 patients with COVID-19 showed anti-nucleocapsid and spike protein antibodies appearing between days 8 and 14 after initial symptoms. Immunocompromised patients generally had a delayed antibody response to SARS-CoV-2, compared with immunocompetent patients.
+
+    >>> Conclusions
+      Antibody to the nucleocapsid protein of SARS-CoV-2 is more sensitive than spike protein antibody for detecting early infection. Analyzing heat-inactivated samples with a luciferase immunoprecipitation system assay is a safe and sensitive method for detecting SARS-CoV-2 antibodies.
+
+    -- quotes
+      !a
+      !b
+      !c
+      !d
+
+    / May, 2020 - The Journal of Infectious Diseases
+    quote !a = The LIPS assay demonstrates high sensitivity and a wider dynamic range for antibody detection compared with other published assays.
+
+    / May, 2020 - The Journal of Infectious Diseases
+    quote !b = At >14 days after symptom onset, antibodies against SARS-CoV-2 nucleocapsid protein showed 100% sensitivity and 100% specificity, whereas antibodies to spike protein were detected with 91% sensitivity and 100% specificity.
+
+    / May, 2020 - The Journal of Infectious Diseases
+    quote !c = Immunocompromised patients generally had a delayed antibody response to SARS-CoV-2, compared with immunocompetent patients.
+
+    / May, 2020 - The Journal of Infectious Diseases
+    quote !d = Neither antibody levels nor the rate of seropositivity were significantly reduced by heat inactivation of samples.
+
+
 
   #
   #
@@ -76,6 +431,8 @@ feed Sangeeta
 
     / September, 2020 - Emerging Microbes & Infections
     quote !a =
+
+
 
   #
   // Bacterial and viral co-infections in patients with severe SARS-CoV-2 pneumonia admitted to a French ICU. Ann Intensive Care.
@@ -107,7 +464,7 @@ feed Sangeeta
   // Early bacterial co-infection in ARDS related to COVID-19.
   doi: https://doi.org/10.1007/s00134-020-06165-5
   ref 'Kreitmann_et_al_07_13_2020
-    head =  The present study is the first to investigate early bacterial coinfections (involving common bacterial species) in patients with COVID-19 ARDS.
+    head = The present study is the first to investigate early bacterial coinfections (involving common bacterial species) in patients with COVID-19 ARDS.
 
     / July, 2020 - Intensive Care Medicine
     quote !a =
