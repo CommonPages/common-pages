@@ -16,7 +16,7 @@ document $covid-19
   >
     This is a {assets.Community living document} which represents the work of many authors. You can {assets.Contribute contribute} by sending corrections and responding to open questions.
 
-    Document leads are available via <a href="mailto:covid-19@claimspace.org">email</a>. Follow {assets.Contact @ClaimspaceOrg} for updates, or refer to the document's {Revisions revision feed}.
+    You can contact the document leads by [email](mailto:covid-19@claimspace.org) or complete [this form](https://docs.google.com/forms/d/1P6gsQ7uGlh1_g3J6rDG0Kw-u1dTAc3QJCREten0roZ4/edit) to join our community Slack. Follow {assets.Contact @ClaimspaceOrg} for updates, or check the {Revisions revision feed}.
 
   - Concepts
     Foundations
