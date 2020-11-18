@@ -151,6 +151,18 @@ subject module Virus
 
     / Aerosol
     subject Aerosol
+
+      >>>
+        SARS-CoV-2 has been found to be viable on aerosols and can stay floating in the air for minutes to hours.
+      >>>
+        the sizes of the aerosols and the amount of the virus exhaled vary with the stage of infection and from person to person. They also vary with individual activity, with many fewer from breathing and many more from talking, singing, shouting and (very likely) aerobic exercise.
+
+      >>>
+        Temperature and Humidity can have an effect on survival of virus in the air
+
+      # >>>
+      #   How long virus can stay in the air depends upon indoor environment. It can stay longer in closed low ventilated space. 
+
       -- Viability
         'van_Doremalen_et_al_2020
         'van_Doremalen_et_al_2020.!a
@@ -210,7 +222,6 @@ subject module Virus
         'Ma_et_al_06_02_2020
         'Richard_et_al_07_08_2020
         'Jayaweera_et_al_06_10_2020.!a
-
       -- Latest papers on Airborne
         'Wang_et_al_04_05_2011
         'Holmberg_et_al_05_19_2003
@@ -228,23 +239,25 @@ subject module Virus
         'Carraturo_et_al_06_09_2020
         'Wu_et_al_05_11_2020
 
+    / Feces
     subject Feces
+      head = SARS-CoV-2 has been detected on feces but the infectiousness of it is unclear. Flushing a toilet can generate aerosol. Certain kinds of toilet can generate more aerosols. It is also possible for fecal aerosols to spread through the plumbing system. SARS-CoV-2 has also been detected on wastewater and sewage.
       -- Viability of Feces
         'Xiao_et_al_05_18_2020
         'Wu_et_al_2020d
         'Ong_et_al_03_04_2020
-
       -- Viability of Fecal Aerosolization
+        'Ding_et_al_08_15_2020
+      # plumbing system - fecal aerosols
+        'Kang_et_al_09_01_2020
         'Lin_et_al_01_26_2017
         'Johnson_et_al_10_05_2012
-        'Ding_et_al_08_15_2020
-        'Kang_et_al_09_01_2020
+      # Flushing
       -- Aerosol Toilet
         'Lai_et_al_07_06_2017
         'Best_et_al_12_05_2011
         'Barker_et_al_06_16_2005
         'Johnson_et_al_10_08_2012
-
       -- Environment (Sewage and Wastewater)
         'Carraturo_et_al_06_09_2020
         'Hoseinzadeh_et_al_07_09_2020
@@ -252,9 +265,7 @@ subject module Virus
 
     / Fomite
     subject Fomite
-
-      >>>
-        Viable viruses have been detected upto 72 hours on certain surfaces. SARS-CoV-2 can be stable in favorable environment.
+      head = Viable viruses have been detected on various surfaces. SARS-CoV-2 can be stable in favorable environmental conditions and can last for several hours.
       --
         'van_Doremalen_et_al_2020
         'van_Doremalen_et_al_2020.!b
@@ -266,36 +277,37 @@ subject module Virus
         'Harbourt_et_al_07_03_2020.!c
         'Chin_et_al_04_02_2020
         'Verani_et_al_05_09_2014
-        # edit head text
         'Santarpia_et_al_2020
         'Ong_et_al_03_04_2020
         'Santarpia_et_al_07_29_2020
         'Bean_et_al_07_01_2020
         'Guo_et_al_07_26_2020
+        # These paper claims that even tho its viable. Infectiousness is low through fomite
         'Goldman_et_al_07_03_2020
         'Harvey_et_al_11_01_2020
 
-
     / Droplets
     subject Droplets
-      -- Mechanism
-        # Edit this paper
+      head = Viable viruses have been detected on respiratory droplets. The size of the droplet and amount of virus contained in the droplet varies from person to person. They also vary with individual activity. Sneezing and Coughing produces more droplets than speech. Viable droplets have been found to travel more than 2m (6 feet).
+
+      -- Speech (Speaking Loud)
         'Anfinrud_04_06_2020
+        'Anfinrud_et_al_04_15_2020
+        'Gralton_et_al_08_19_2013
+        'Papineni_et_al_01_30_2009
+      -- Sneezing and Coughing
         'Jayaweera_et_al_06_10_2020
         'Duguid_et_al_05_15_2009
+        'Gralton_et_al_08_19_2013
+        'Bourouiba_et_al_04_25_2004
+        'Papineni_et_al_01_30_2009
+      -- Travelling Distance
         'Bahl_et_al_04_16_2020
         'Bourouiba_et_al_03_26_2020
         'Bourouiba_et_al_08_25_2016
-        'Anfinrud_et_al_04_15_2020
-      # edit headtext
-        'Gralton_et_al_08_19_2013
-        'Bourouiba_et_al_04_25_2004
       -- Host Mechanism
-        'Morawska_et_al_11_18_2008
+        'Morawska_et_al_11_18_2008.!a
         'Scharfman_et_al_01_20_2016
-        # edit this paper
-        'Gupta_et_al_2010
-        'Papineni_et_al_01_30_2009
 
 
   / Genetics

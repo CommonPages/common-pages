@@ -561,7 +561,7 @@ feed Pre2019
   // Size distribution and sites of origin of droplets expelled from the human respiratory tract during expiratory activities
   doi: https://doi.org/10.1016/j.jaerosci.2008.11.002
   ref 'Morawska_et_al_11_18_2008
-    head = A new expiratory droplet investigation system (EDIS) was used to conduct the most comprehensive program of study to date, of the dilution corrected droplet size distributions produced during different respiratory activities.
+    head = The results of the current study represent a very significant advance in the current knowledge of expired aerosol size distributions and their sites of origin for a range of important expiratory activities.
 
     >>> Abstract
       A new expiratory droplet investigation system (EDIS) was used to conduct the most comprehensive program of study to date, of the dilution corrected droplet size distributions produced during different respiratory activities.
@@ -570,9 +570,11 @@ feed Pre2019
       For the entire size range examined of 0.3–20 μm, average particle number concentrations produced during exhalation ranged from 0.1 cm−3 for breathing to 1.1 cm−3 for sustained vocalization.
       Non-equilibrium droplet evaporation was not detectable for particles between 0.5 and 20 μm, implying that evaporation to the equilibrium droplet size occurred within 0.8 s.
 
+    -- quotes
+      !a
 
     / November, 2008 - Jounral of Aersol Science
-    quote !a =
+    quote !a = Speech produced additional particles in modes near 3.5 and 5 μm and these modes became more prominent during sustained vocalization, with average concentrations of 0.04 and 0.16 cm−3, respectively.
 
   # Droplet size
   // The Size Distribution of Droplets in the Exhaled Breath of Healthy Human Subjects
@@ -583,8 +585,6 @@ feed Pre2019
     >>> Abstract
       Droplets carried in exhaled breath may carry microorganisms capable of transmitting disease over both short and long distances. The size distribution of such droplets will influence the type of organisms that may be carried as well as strategies for controlling airborne infection. The aim of this study was to characterize the size distribution of droplets exhaled by healthy individuals. Exhaled droplets from human subjects performing four respiratory actions (mouth breathing, nose breathing, coughing, talking) were measured by both an optical particle counter (OPC) and an analytical transmission electron microscope (AEM). The OPC indicated a preponderance of particles less than 1 μ, although larger particles were also found. Measurements with the AEM confirmed the existence of larger sized droplets in the exhaled breath. In general, coughing produced the largest droplet concentrations and nose breathing the least, although considerable intersubject variability was observed.
 
-    -- quotes
-      !a
 
     / Jan, 2009 - Journal of Aerosol Medicine
     quote !a =

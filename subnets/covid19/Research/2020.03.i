@@ -3054,7 +3054,7 @@ feed March2020
   // Transmission Potential of SARS-CoV-2 in Viral Shedding Observed at the University of Nebraska Medical Center
   doi: https://doi.org/10.1101/2020.03.23.20039446
   ref 'Santarpia_et_al_2020
-    head = Our study indicates SARS-CoV-2 is shed to the environment as expired particles, during toileting, and through contact with fomites. Disease spread through both direct (droplet and person-to-person) as well as indirect contact (contaminated objects and airborne transmission) are indicated.
+    head = We collected air and surface samples to examine viral shedding from isolated individuals. We detected viral contamination among all samples, indicating that SARS-CoV-2 may spread through both direct (droplet and person-to-person) as well as indirect mechanisms (contaminated objects and airborne transmission).
 
     # -- quotes
     #   !a

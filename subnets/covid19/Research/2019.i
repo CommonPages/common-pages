@@ -55,7 +55,7 @@ feed 2019
   // The size and the duration of air-carriage of respiratory droplets and droplet-nuclei
   doi: https://doi.org/10.1017/S0022172400019288
   ref 'Duguid_et_al_05_15_2009
-    head = The sizes of the droplets and droplet-nuclei produced by sneezing, by coughing and by speaking, were studied by the microscopic measurement
+    head = The sizes of the droplets and droplet-nuclei produced by sneezing, by coughing and by speaking, were studied by the microscopic measurement.
 
     -- quotes
       !a

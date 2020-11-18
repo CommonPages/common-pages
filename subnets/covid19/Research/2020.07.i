@@ -37,7 +37,7 @@ feed July2020
     / July, 2020 - JAMA
     quote !a = The average time from exposure to symptom onset is 5 days, and 97.5% of people who develop symptoms do so within 11.5 days.
 
-  # Antigen 
+  # Antigen
   // Evaluation of a Rapid Diagnostic Assay for Detection of SARS-CoV-2 Antigen in Nasopharyngeal Swabs
   doi: https://doi.org/10.1128/JCM.00977-20
   ref 'Lambert-Niclot_et_al_07_23_2020
@@ -627,6 +627,7 @@ feed July2020
   doi: https://doi.org/10.1016/S1473-3099(20)30561-2
   ref 'Goldman_et_al_07_03_2020
     head = A clinically significant risk of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) transmission by fomites (inanimate surfaces or objects) has been assumed on the basis of studies that have little resemblance to real-life scenarios.
+    
     -- quotes
       !a
       !b

@@ -47,14 +47,13 @@ feed DPResearch
   doi: https://doi.org/10.1007/s00348-015-2078-4
   // Visualization of sneeze ejecta: Steps of fluid fragmentation leading to respiratory droplets.
   ref 'Scharfman_et_al_01_20_2016
-    head = A report of formation of droplets of different sizes, and mechanisms done using high-speed imaging from mouth while coughing and sneezing.
+    head =  We report direct observation of the physical mechanisms of droplet formation at the exit of the mouth during sneezing. Specifically, we use high-speed imaging to directly examine the fluid fragmentation at the exit of the mouths of healthy subjects. We reveal for the first time that the breakup of the fluid into droplets continues to occur outside of the respiratory tract during violent exhalations.
+
     >>> Abstract
       Coughs and sneezes feature turbulent, multiphase flows that may contain pathogen-bearing droplets of mucosalivary fluid. As such, they can contribute to the spread of numerous infectious diseases, including influenza and SARS. The range of contamination of the droplets is largely determined by their size. However, major uncertainties on the drop size distributions persist. Here, we report direct observation of the physical mechanisms of droplet formation at the exit of the mouth during sneezing. Specifically, we use high-speed imaging to directly examine the fluid fragmentation at the exit of the mouths of healthy subjects. We reveal for the first time that the breakup of the fluid into droplets continues to occur outside of the respiratory tract during violent exhalations. We show that such breakup involves a complex cascade of events from sheets, to bag bursts, to ligaments, which finally break into droplets. Finally, we reveal that the viscoelasticity of the mucosalivary fluid plays an important role in delaying fragmentation by causing the merger of the droplet precursors that form along stretched filaments; thereby affecting the final drop size distribution farther downstream.
-    >>> Notes
-      Concerning this, Sharfman et al. had already elucidated in 2016 the fragmentation processes of muco-salivary fluids once emitted through human sneeze and coughs. Fast photography application allowed them to show the physics behind size distribution of droplets and to determine the distance that viral emissions can reach.
+    # >>> Notes
+    #   Concerning this, Sharfman et al. had already elucidated in 2016 the fragmentation processes of muco-salivary fluids once emitted through human sneeze and coughs. Fast photography application allowed them to show the physics behind size distribution of droplets and to determine the distance that viral emissions can reach.
 
-    -- quotes
-      !a
 
     / February, 2020 - bioRxiv
     quote !a =
@@ -84,22 +83,19 @@ feed DPResearch
   #  ------------
 
   ## Droplet, Fomite, Aerosol, speech, coughing, sneezing, asymptomatic  Transmission
-  doi: https://doi.org/xyz
   // Could SARS-CoV-2 be transmitted via speech droplets?
+  doi: https://doi.org/10.1101/2020.04.02.20051177
   ref 'Anfinrud_04_06_2020
-    head = This describes our use of laser light-scattering to sensitively detect droplet emission while speaking
-    >>> Abstract/Extract
-      - "the scientific and medical communities have been slow to study the role droplets produced during normal speech may play in the transmission of COVID-19. Considering that reports of asymptomatic transmission account for 50–80% of COVID-19 cases, droplet emission while speaking could be a significant factor driving transmission.""
-      - we describe our use of laser light-scattering to sensitively detect droplet emission while speaking. Our preliminary findings have important implications for pandemic mitigation efforts
-      - Using a planar beam of laser light passing through a dust-free enclosure to detect saliva droplets emitted while speaking, we found that saying the words ‘Stay Healthy’ generates thousands of droplets that are otherwise invisible to the naked eye
-      - Droplets emitted while speaking are much smaller than those emitted when coughing or sneezing.6 Nonetheless they are sufficiently large to carry a variety of respiratory pathogens, including the measles virus, influenza virus, and Mycobacterium tuberculosis.
-      - During speech in asymptomatic or healthy individuals, the majority of oral fluid is saliva with very little contribution from nasal or bronchial secretions. Speech droplets can transfer virus either through a direct pathway, by inhaling a droplet from a carrier, or from droplets landing on surfaces, followed by fomite transmission. We cannot assess the relative importance of these pathways but propose that their aggregate is key as oral fluid viral loads are already approaching peak levels by the time the patient presents,8 and asymptomatic transmission is common.
-    >>> Notes
-      "This paper tries to bring focus on the possibility of aerosolisation while speaking using some laser light-scattering study.
+    head = We used a planar beam of laser light passing through a dust-free enclosure to detect saliva droplets emitted while speaking. We found that saying the words Stay Healthy generates thousands of droplets that are otherwise invisible to the naked eye. A damp homemade cloth face mask dramatically reduced droplet excretion, with none of the spoken words causing a droplet rise above the background.
 
-      further instrumental approach for droplet visualization in the exhalations produced during ordinary speaking was provided by Anfinrud et al. (2020), and the protective effect of face masks was evaluated as well
-    -- quotes
-      !a
+    >>> Abstract/Extract
+      Speaking may be a primary mode of transmission of SARS-CoV-2. Considering that reports of asymptomatic transmission account for 50-80% of COVID-19 cases and that saliva has peak viral loads at time of patient presentation, droplet emission while speaking could be a significant factor driving transmission and warrants further study. We used a planar beam of laser light passing through a dust-free enclosure to detect saliva droplets emitted while speaking. We found that saying the words 'Stay Healthy' generates thousands of droplets that are otherwise invisible to the naked eye. A damp homemade cloth face mask dramatically reduced droplet excretion, with none of the spoken words causing a droplet rise above the background. Our preliminary findings have important implications for pandemic mitigation efforts.
+
+    # >>> Notes
+    #   "This paper tries to bring focus on the possibility of aerosolisation while speaking using some laser light-scattering study.
+    #
+    #   further instrumental approach for droplet visualization in the exhalations produced during ordinary speaking was provided by Anfinrud et al. (2020), and the protective effect of face masks was evaluated as well
+
 
     / February, 2020 - bioRxiv
     quote !a =
@@ -139,8 +135,6 @@ feed DPResearch
       It was found that the droplet concentration information obtained from a single exhalation CFD simulation can be
       superimposed to obtain the information for multiple exhalations. A routine was developed to find the droplets
       inhaled by every passenger for 2-hours of air travel.
-
-    >>> Notes
 
     -- quotes
       !a
