@@ -46,6 +46,8 @@ index: hide
     'Mak_et_al_06_08_2020
     'Nagura-Ikeda_et_al_08_24_2020
     'Omi_et_al_06_19_2020
+    # 'Corman_et_al_11_13_2020.!c
+    # 'Corman_et_al_11_13_2020.!d
 
   # This claim needs to be merged with viral load claim of timing
   >>> Claim
@@ -57,19 +59,41 @@ index: hide
     'Bullard_et_al_05_22_2020
     'Dinnes_et_al_08_26_2020
     'Mak_et_al_06_08_2020
+    # 'Corman_et_al_11_13_2020
 
   #  >>> Claim and Find paper for this
   #    False- positive (indicating that a person is infected when they are not) results may occur if the antibodies on the test strip also recognize antigens of viruses other than SARS-CoV-2, such other human coronaviruses.
 
-############################################
+  # Subject discharge and discountine isolation
+  >>>
+    Based on the present findings, early discharge with ensuing home isolation could be chosen for patients who are beyond day 10 of symptoms with less than 100,000 viral RNA copies per ml of sputum. Both criteria predict that there is little residual risk of infectivity, based on cell culture.
+  --
+    'Woelfel_et_al_2020b.!k
+    'Kampen_et_al_06_09_2020
+
+  >>> Claim
+    Patients with high Ct value (* above 33–34 - Absolute number as some recommend above 37) in RT-PCR system are not contagious and thus can be discharged from hospital care or strict confinement for non-hospitalized patients.
+  # Need to find and Add more papers in this claim from CT value and old discharge subjects
+  --
+    'Scola_et_al_04_27_2020
+
+  # Subject CT value
+  >>> Claim
+    The distribution of viral loads, in the form of Cycle thresholds (Ct), from positive surveillance samples at a single point in time can provide accurate estimation of an epidemic’s trajectory
+  --
+    'Hay_et_al_10_13_2020
+
+  # Subject Testing
+
+  >>> Background
+    Viral tests identify the virus in samples from your respiratory system, such as a swab from the inside of your nose. Regardless of whether you test positive or negative, the results do not confirm whether you are able to spread the virus that causes COVID-19.
+
+  # https://www.cdc.gov/coronavirus/2019-ncov/testing/serology-overview.html#:~:text=Viral%20tests%20identify%20the%20virus,virus%20that%20causes%20COVID%2D19.
+
+
+############################################ Unedited section
   # Subject Rt-PCR
   >>>
     Efficiency greater than 96% in Rt-PCR kit can be used for routine diagnostics
   --
     'Kasteren_et_al_05_08_2020
-
-  # Rearrange more papers for this from CT value  
-  >>>
-    Patients with high Ct value (* above 33–34 - Absolute number as some recommend above 37) in RT-PCR system are not contagious and thus can be discharged from hospital care or strict confinement for non-hospitalized patients.
-  --
-    'Scola_et_al_04_27_2020

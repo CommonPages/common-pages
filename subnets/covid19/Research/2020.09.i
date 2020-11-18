@@ -4,6 +4,37 @@ feed September2020
     'Rajasingham_et_al_09_21_2020
 
   #
+
+
+  # Outbreak
+  // Epidemiology and transmission dynamics of COVID-19 in two Indian states
+  doi: https://doi.org/10.1126/science.abd7672
+  ref 'Laxminarayan_et_al_09_23_2020
+    head = This study analyzed data from the Indian states of Tamil Nadu and Andhra Pradesh, which have developed rigorous contact tracing and testing systems. Superspreading predominated, with 5% of infected individuals accounting for 80% of cases. Enhanced transmission risk was apparent among children and young adults, who accounted for one-third of cases.
+
+    >>> Abstract
+      Although most cases of coronavirus disease 2019 (COVID-19) have occurred in low-resource countries, little is known about the epidemiology of the disease in such contexts. Data from the Indian states of Tamil Nadu and Andhra Pradesh provide a detailed view into severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) transmission pathways and mortality in a high-incidence setting. Reported cases and deaths have been concentrated in younger cohorts than would be expected from observations in higher-income countries, even after accounting for demographic differences across settings. Among 575,071 individuals exposed to 84,965 confirmed cases, infection probabilities ranged from 4.7 to 10.7% for low-risk and high-risk contact types, respectively. Same-age contacts were associated with the greatest infection risk. Case fatality ratios spanned 0.05% at ages of 5 to 17 years to 16.6% at ages of 85 years or more. Primary data from low-resource countries are urgently needed to guide control measures.
+
+    -- quotes
+      !a
+
+    / September, 2020 - Science
+    quote !a = Case fatality ratios spanned 0.05% at ages of 5 to 17 years to 16.6% at ages of 85 years or more.
+
+
+
+  # Reinfection
+  // Asymptomatic Reinfection in 2 Healthcare Workers From India With Genetically Distinct Severe Acute Respiratory Syndrome Coronavirus 2
+  doi: https://doi.org/xyz
+  ref 'Gupta_et_al_09_23_2020
+    head = We report asymptomatic SARS-CoV-2 reinfection in 2 healthcare workers detected during routine surveillance. Both had a higher viral load on the second episode of reinfection. Genetically distinct SARS-CoV-2 rules out persistent viral shedding or reactivation.
+
+
+    / September, 2020 - Clinical Infectious Diseases
+    quote !a =
+
+
+  # Immunity
   // Seasonal coronavirus protective immunity is short-lasting
   doi: https://doi.org/10.1038/s41591-020-1083-1
   ref 'Edridge_et_al_09_11_2020

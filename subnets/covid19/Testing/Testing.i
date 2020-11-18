@@ -96,6 +96,7 @@ subject module Testing
           'Sethuraman_et_al_05_06_2020
           'Vogels_et_al_07_10_2020
           'Xiao_et_al_2020
+          'Kucirka_et_al_05_13_2020
 
       / Specimins
       claim !PCRSpecimins = Samples for SARS-CoV-2 diagnostic tests may be obtained from saliva, throat swabs, nasal swabs or nasopharyngeal swabs. Data comparing the accuracy of RT-PCR testing suggest that test sensitivity may vary by type of specimen.
@@ -338,6 +339,7 @@ subject module Testing
         'Fontanet_et_al_04_23_2020
         'Lipsitch_et_al_2020
         'Lipsitch_et_al_2020.!a
+        'Uyoga_et_al_11_06_2020
       # -- Decline in antibody titers- seroprevalence studies may underestimate the true prevalence of infection.
       #   'WangTo_et_al_08_25_2020.!f
 

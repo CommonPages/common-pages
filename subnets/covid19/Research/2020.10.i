@@ -5,6 +5,46 @@ feed October2020
 
   #
 
+  // Robust neutralizing antibodies to SARS-CoV-2 infection persist for months
+  doi: https://doi.org/10.1126/science.abd7728
+  ref 'Wajnberg_et_al_10_26_2020
+    head = We report that the vast majority of infected individuals with mild-to-moderate COVID-19 experience robust IgG antibody responses against the viral spike protein. Titers are relatively stable for at least a period approximating 5 months and that anti-spike binding titers significantly correlate with neutralization of authentic SARS-CoV-2. More than 90% of seroconverters make detectible neutralizing antibody responses.
+
+    >>> Abstract
+      SARS-CoV-2 has caused a global pandemic with millions infected and numerous fatalities. Questions regarding the robustness, functionality, and longevity of the antibody response to the virus remain unanswered. Here we report that the vast majority of infected individuals with mild-to-moderate COVID-19 experience robust IgG antibody responses against the viral spike protein, based on a dataset of 30,082 individuals screened at Mount Sinai Health System in New York City. We also show that titers are relatively stable for at least a period approximating 5 months and that anti-spike binding titers significantly correlate with neutralization of authentic SARS-CoV-2. Our data suggests that more than 90% of seroconverters make detectible neutralizing antibody responses. These titers remain relatively stable for several months after infection.
+
+    -- quotes
+      !a
+
+    / October, 2020 - American Association for the Advancement of Science
+    quote !a =
+
+
+  # Parkinson's Disease
+  // Is COVID-19 a Perfect Storm for Parkinson’s Disease?
+  doi: https://doi.org/10.1016/j.tins.2020.10.009
+  ref 'Brundin_et_al_10_21_2020
+    head = While acute parkinsonism in conjunction with COVID-19 appears to be rare, spread of SARS-CoV-2 widely in society might lead to a high proportion of patients being predisposed to developing PD later in life.
+
+    / October, 2020 - Trends in Neurosciences
+    quote !a =
+
+  # CT value - Epidemic Tragectory
+  // Estimating epidemiologic dynamics from single cross-sectional viral load distributions
+  doi: https://doi.org/10.1101/2020.10.08.20204222
+  ref 'Hay_et_al_10_13_2020
+    head = Instead of discarding individual Ct values from positive specimens, incorporation of viral loads into public health data streams offers a new approach for real-time resource allocation and assessment of outbreak mitigation strategies, even where repeat incidence data is not available.
+
+    >>> Abstract
+      Virologic testing for SARS-CoV-2 has been central to the COVID-19 pandemic response, but interpreting changes in incidence and fraction of positive tests towards understanding the epidemic trajectory is confounded by changes in testing practices. Here, we show that the distribution of viral loads, in the form of Cycle thresholds (Ct), from positive surveillance samples at a single point in time can provide accurate estimation of an epidemic’s trajectory, subverting the need for repeated case count measurements which are frequently obscured by changes in testing capacity. We identify a relationship between the population-level cross-sectional distribution of Ct values and the growth rate of the epidemic, demonstrating how the skewness and median of detectable Ct values change purely as a mathematical epidemiologic rule without any change in individual level viral load kinetics or testing. Although at the individual level measurement variation can complicate interpretation of Ct values for clinical use, we show that population-level properties reflect underlying epidemic dynamics. In support of these theoretical findings, we observe a strong relationship between the time-varying effective reproductive number, R(t), and the distribution of Cts among positive surveillance specimens, including median and skewness, measured in Massachusetts over time. We use the observed relationships to derive a novel method that allows accurate inference of epidemic growth rate using the distribution of Ct values observed at a single cross-section in time, which, unlike estimates based on case counts, is less susceptible to biases from delays in test results and from changing testing practices. Our findings suggest that instead of discarding individual Ct values from positive specimens, incorporation of viral loads into public health data streams offers a new approach for real-time resource allocation and assessment of outbreak mitigation strategies, even where repeat incidence data is not available. Ct values or similar viral load data should be regularly reported to public health officials by testing centers and incorporated into monitoring programs.
+
+    -- quotes
+      !a
+
+    / February, 2020 - bioRxiv
+    quote !a =
+
+
   # Universal Masking
   // Slight reduction in SARS-CoV-2 exposure viral load due to masking results in a significant reduction in transmission with widespread implementation
   doi: https://doi.org/10.1101/2020.09.13.20193508

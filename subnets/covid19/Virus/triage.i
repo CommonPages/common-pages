@@ -34,7 +34,7 @@ index: hide
     'Woelfel_et_al_2020b
     'Weiss_et_al_07_22_2020
 
-  >>>
+  >>> Claim
     In some patients the viral RNA may only be detectable for several days, while in other patients it can be detected for several weeks, possibly months. Prolonged presence of viral RNA does not necessarily signify prolonged infectiousness.
   --
     'Woelfel_et_al_2020b
@@ -44,3 +44,14 @@ index: hide
     'Zhou_et_al_04_17_2020
     'Xu_et_al_2020b
     'Pan_et_al_2020b
+  # Shedding
+  >>> Claim
+    Several studies describe the correlation between reduced infectiousness and decrease in viral load in respiratory secretions
+  --
+   'Wölfel_et_al_2020
+   'Kampen_et_al_06_09_2020
+   'Perera_et_al_08_04_2020
+  >>> Claim
+    Severe or critical COVID-19 may shed infectious virus for longer periods of time.
+  --
+    'Kampen_et_al_06_09_2020

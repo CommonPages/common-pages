@@ -115,6 +115,47 @@ feed May2020
 
   #
 
+  // Variation in False-Negative Rate of Reverse Transcriptase Polymerase Chain Reaction–Based SARS-CoV-2 Tests by Time Since Exposure
+  doi: https://dx.doi.org/10.7326%2FM20-1495
+  ref 'Kucirka_et_al_05_13_2020
+    head = Over the 4 days of infection before the typical time of symptom onset (day 5), the probability of a false-negative result in an infected person decreases from 100% on day 1 to 67% on day 4. Care must be taken in interpreting RT-PCR tests for SARS-CoV-2 infection—particularly early in the course of infection.
+
+    >>> Background:
+      Tests for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) based on reverse transcriptase polymerase chain reaction (RT-PCR) are being used to “rule out” infection among high-risk persons, such as exposed inpatients and health care workers. It is critical to understand how the predictive value of the test varies with time from exposure and symptom onset to avoid being falsely reassured by negative test results.
+
+    >>> Objective:
+      To estimate the false-negative rate by day since infection.
+
+    >>>  Design:
+      Literature review and pooled analysis.
+
+    >>> Setting:
+      7 previously published studies providing data on RT-PCR performance by time since symptom onset or SARS-CoV-2 exposure using samples from the upper respiratory tract (n = 1330).
+
+    >>> Patients:
+      A mix of inpatients and outpatients with SARS-CoV-2 infection.
+
+    >>> Measurements:
+      A Bayesian hierarchical model was fitted to estimate the false-negative rate by day since exposure and symptom onset.
+
+    >>> Results:
+      Over the 4 days of infection before the typical time of symptom onset (day 5), the probability of a false-negative result in an infected person decreases from 100% (95% CI, 100% to 100%) on day 1 to 67% (CI, 27% to 94%) on day 4. On the day of symptom onset, the median false-negative rate was 38% (CI, 18% to 65%). This decreased to 20% (CI, 12% to 30%) on day 8 (3 days after symptom onset) then began to increase again, from 21% (CI, 13% to 31%) on day 9 to 66% (CI, 54% to 77%) on day 21.
+
+    >>> Limitation:
+      Imprecise estimates due to heterogeneity in the design of studies on which results were based.
+
+    >>> Conclusion:
+      Care must be taken in interpreting RT-PCR tests for SARS-CoV-2 infection—particularly early in the course of infection—when using these results as a basis for removing precautions intended to prevent onward transmission. If clinical suspicion is high, infection should not be ruled out on the basis of RT-PCR alone, and the clinical and epidemiologic situation should be carefully considered.
+
+
+
+    -- quotes
+      !a
+
+    / May, 2020 - Ann Intern Med.
+    quote !a =
+
+
   # Protective Immunity
   // Lack of Reinfection in Rhesus Macaques Infected with SARS-CoV-2
   doi: https://doi.org/10.1101/2020.03.13.990226

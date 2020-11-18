@@ -1369,7 +1369,7 @@ feed Pre2019
   // Viral Contamination of Aerosol and Surfaces Through Toilet Use in Health Care and Other Settings
   doi: https://doi.org/10.1016/j.ajic.2014.03.026
   ref 'Verani_et_al_05_09_2014
-    head = Our study confirms that toilets are an important source of viral contamination. A very important source of contamination from toilets seems to be droplets coming from toilet flush and settling on surfaces, as demonstrated by the high correspondence between the HAdV strains found in water and on surfaces. Another important mechanism of diffusion is hands, which cause the high amount of contamination observed for door handles and flushing buttons, confirming the importance of handwashing and disinfection for infection control.
+    head = Viruses were detected on 78% of surfaces and in 81% of aerosol. Among the researched viruses, only human adenovirus and Torque teno virus were found in both surface and air samples. Toilets are an important source of viral contamination
 
     >>> Background
       The airborne spreading of enteric viruses can occur through the aerosol and droplets produced by toilet flushing. These can contaminate the surrounding environment, but few data exist to estimate the risk of exposure and infection. For this reason environmental monitoring of air and selected surfaces was carried out in 2 toilets of an office building and in 3 toilets of a hospital before and after cleaning operations.
@@ -1405,7 +1405,7 @@ feed Pre2019
     # / May, 2020 - Am J Infect Control.
     # quote !f = Thirty-two office samples and 48 hospital samples were obtained both before and after cleaning. The frequency of TTV positivity on surfaces decreased after cleaning, both in offices and the hospital, although the difference was not always statistically significant. We found neither setting had samples over the limits set for detection after disinfection. For TVBC at both sites, no samples over limits were detected after disinfection. Surprisingly, the frequency of HAdV positivity increased on surfaces after cleaning, although not significantly.
 
-    / May, 2020 - Am J Infect Control.
+    / May, 2014 - Am J Infect Control.
     quote !g = In several cases the same adenovirus strain was concurrently found in all matrices. Bacterial counts were unrelated to viral presence and cleaning did not seem to substantially reduce contamination.
 
     # / May, 2020 - Am J Infect Control.

@@ -9,6 +9,7 @@ subject module Virus
     Viability
     Genetics
 
+
   / Structure
   subject Structure
     head = Like other coronaviruses, SARS-CoV-2 has four structural proteins, known as the Spike, Envelope, Membrane, and Nucleocapsid proteins, as well as 16 to 17 non-structural proteins (ns1 to ns17).
@@ -141,9 +142,161 @@ subject module Virus
 
   / Viability
   subject Viability
+
+    --
+      Droplets
+      Fomite
+      Aerosol
+      Feces
+
+    / Aerosol
+    subject Aerosol
+      -- Viability
+        'van_Doremalen_et_al_2020
+        'van_Doremalen_et_al_2020.!a
+        'Lu_et_al_2020
+        'Somsen_et_al_05_27_2020
+        'Johnson_et_al_06_21_2011
+        'Doremalen_et_al_03_17_2020
+        'Guo_et_al_07_26_2020
+      -- Aerosol Transmission
+        'Allen_et_al_05_06_2020
+        'Lednicky_et_al_05_22_2020
+        'Asadi_et_al_2019
+        'Stadnytskyi_et_al_06_02_2020
+        'Vuorinen_et_al_05_31_2020
+        'Santarpia_et_al_07_29_2020
+        # Edit head
+        'Liu_et_al_03_10_2020
+        # add quotes
+        'Liu_et_al_2020bb
+        'Ahlawat_et_al_07_21_2020
+      -- Latest papers on Aerosol
+        # add quotes
+        'Santarpia_et_al_07_2020
+        # Edit head
+        'Anfinrud_04_06_2020
+        'Asadi_et_al_2019
+        'Fabian_et_al_07_16_2008
+        'Morawska_et_al_11_18_2008
+        'Jankovic_et_al_06_25_2020
+        'Somsen_et_al_05_27_2020
+        'Doremalen_et_al_03_17_2020
+        'Bahl_et_al_04_16_2020
+        'Gralton_et_al_08_19_2013
+        'Doremalen_et_al_03_17_2020
+        #  Mention quotes
+        'Anderson_et_al_05_01_2020
+        'Ding_et_al_08_15_2020
+        'Wu_et_al_05_11_2020
+        'Guo_et_al_07_26_2020
+        'Echternach_et_al_07_24_2020
+        'Fears_et_al_04_18_2020
+        # Check and redo this paper again
+        'Milton_et_al_07_24_2020
+      -- Mechanism/ Common pathogen exchange pathways and mechanisms
+        'Wang_et_al_04_05_2011
+        'Morawska_et_al_06_09_2006
+        'Jankovic_et_al_06_25_2020
+        'Ahlawat_et_al_07_21_2020
+        'Chen_et_al_08_01_2020
+        # Viability at indoors
+        'Zhang_et_al_04_07_2020
+        'Bourouiba_et_al_03_26_2020
+        'Jones_et_al_08_25_2020
+        'Luoma_et_al_07_07_2008
+      -- Airborne Transmission
+        'Chia_et_al_05_29_2020
+        'Ma_et_al_06_02_2020
+        'Richard_et_al_07_08_2020
+        'Jayaweera_et_al_06_10_2020.!a
+
+      -- Latest papers on Airborne
+        'Wang_et_al_04_05_2011
+        'Holmberg_et_al_05_19_2003
+        'Asadi_et_al_2019
+        'Carraturo_et_al_06_09_2020
+        'Somsen_et_al_05_27_2020
+        'Gralton_et_al_08_19_2013
+        'Kim_et_al_08_01_2016
+        'Ahlawat_et_al_07_21_2020
+        'Chen_et_al_08_01_2020
+        'Chia_et_al_05_29_2020
+        'Ma_et_al_06_02_2020
+      -- Dispute not Airborne
+        'Cheng_et_al_06_08_2020
+        'Carraturo_et_al_06_09_2020
+        'Wu_et_al_05_11_2020
+
+    subject Feces
+      -- Viability of Feces
+        'Xiao_et_al_05_18_2020
+        'Wu_et_al_2020d
+        'Ong_et_al_03_04_2020
+
+      -- Viability of Fecal Aerosolization
+        'Lin_et_al_01_26_2017
+        'Johnson_et_al_10_05_2012
+        'Ding_et_al_08_15_2020
+        'Kang_et_al_09_01_2020
+      -- Aerosol Toilet
+        'Lai_et_al_07_06_2017
+        'Best_et_al_12_05_2011
+        'Barker_et_al_06_16_2005
+        'Johnson_et_al_10_08_2012
+
+      -- Environment (Sewage and Wastewater)
+        'Carraturo_et_al_06_09_2020
+        'Hoseinzadeh_et_al_07_09_2020
+        'Cahill_et_al_06_11_2020
+
+    / Fomite
+    subject Fomite
+
+      >>>
+        Viable viruses have been detected upto 72 hours on certain surfaces. SARS-CoV-2 can be stable in favorable environment.
+      --
+        'van_Doremalen_et_al_2020
+        'van_Doremalen_et_al_2020.!b
+        'van_Doremalen_et_al_2020.!c
+        'Doremalen_et_al_03_17_2020.!a
+        'Harbourt_et_al_07_03_2020
+        'Harbourt_et_al_07_03_2020.!a
+        'Harbourt_et_al_07_03_2020.!b
+        'Harbourt_et_al_07_03_2020.!c
+        'Chin_et_al_04_02_2020
+        'Verani_et_al_05_09_2014
+        # edit head text
+        'Santarpia_et_al_2020
+        'Ong_et_al_03_04_2020
+        'Santarpia_et_al_07_29_2020
+        'Bean_et_al_07_01_2020
+        'Guo_et_al_07_26_2020
+        'Goldman_et_al_07_03_2020
+        'Harvey_et_al_11_01_2020
+
+
+    / Droplets
     subject Droplets
-    subject Fomites
-    dispute Aerosols
+      -- Mechanism
+        # Edit this paper
+        'Anfinrud_04_06_2020
+        'Jayaweera_et_al_06_10_2020
+        'Duguid_et_al_05_15_2009
+        'Bahl_et_al_04_16_2020
+        'Bourouiba_et_al_03_26_2020
+        'Bourouiba_et_al_08_25_2016
+        'Anfinrud_et_al_04_15_2020
+      # edit headtext
+        'Gralton_et_al_08_19_2013
+        'Bourouiba_et_al_04_25_2004
+      -- Host Mechanism
+        'Morawska_et_al_11_18_2008
+        'Scharfman_et_al_01_20_2016
+        # edit this paper
+        'Gupta_et_al_2010
+        'Papineni_et_al_01_30_2009
+
 
   / Genetics
   subject Genetics

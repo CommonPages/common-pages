@@ -3,6 +3,49 @@ feed November2020
 
 
   #
+
+  # Formite Transmission
+  // Longitudinal monitoring of SARS-CoV-2 RNA on high-touch surfaces in a community setting
+  doi: https://doi.org/10.1101/2020.10.27.20220905
+  ref 'Harvey_et_al_11_01_2020
+    head = Twenty-nine of 348 (8.3 %) surface samples were positive for SARS-CoV-2, including crosswalk buttons, trash can handles, and door handles of essential business entrances (grocery store, liquor store, bank, and gas station). The estimated risk of infection from touching a contaminated surface was low (less than 5 in 10,000), suggesting fomites play a minimal role in SARS-CoV-2 community transmission.
+
+    >>> Abstract
+      Environmental surveillance of surface contamination is an unexplored tool for understanding transmission of SARS-CoV-2 in community settings. We conducted longitudinal swab sampling of high-touch non-porous surfaces in a Massachusetts town during a COVID-19 outbreak from April to June 2020. Twenty-nine of 348 (8.3 %) surface samples were positive for SARS-CoV-2, including crosswalk buttons, trash can handles, and door handles of essential business entrances (grocery store, liquor store, bank, and gas station). The estimated risk of infection from touching a contaminated surface was low (less than 5 in 10,000), suggesting fomites play a minimal role in SARS-CoV-2 community transmission. The weekly percentage of positive samples (out of n=33 unique surfaces per week) best predicted variation in city-level COVID-19 cases using a 7-day lead time. Environmental surveillance of SARS-CoV-2 RNA on high-touch surfaces could be a useful tool to provide early warning of COVID-19 case trends.
+
+    / November, 2020 - medRxiv
+    quote !a =
+
+  # Antibody Response Children
+  // Immune responses to SARS-CoV-2 in three children of parents with symptomatic COVID-19
+  doi: https://doi.org/10.1038/s41467-020-19545-8
+  ref 'Tosif_et_al_11_11_2020
+    head = We show that three children repeatedly exposed to SARS-CoV-2 in their household mount cellular and antibody-mediated immune responses similar to their infected parents and specific to SARS-CoV-2, without virological confirmation of infection.
+
+    >>> Abstract
+      Compared to adults, children with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) have predominantly mild or asymptomatic infections, but the underlying immunological differences remain unclear. Here, we describe clinical features, virology, longitudinal cellular, and cytokine immune profile, SARS-CoV-2-specific serology and salivary antibody responses in a family of two parents with PCR-confirmed symptomatic SARS-CoV-2 infection and their three children, who tested repeatedly SARS-CoV-2 PCR negative. Cellular immune profiles and cytokine responses of all children are similar to their parents at all timepoints. All family members have salivary anti-SARS-CoV-2 antibodies detected, predominantly IgA, that coincide with symptom resolution in 3 of 4 symptomatic members. Plasma from both parents and one child have IgG antibody against the S1 protein and virus-neutralizing activity detected. Using a systems serology approach, we demonstrate higher levels of SARS-CoV-2-specific antibody features of these family members compared to healthy controls. These data indicate that children can mount an immune response to SARS-CoV-2 without virological confirmation of infection, raising the possibility that immunity in children can prevent the establishment of SARS-CoV-2 infection. Relying on routine virological and serological testing may not identify exposed children, with implications for epidemiological and clinical studies across the life-span.
+
+    -- quotes
+      !a
+
+    / November, 2020 - Nat Commun
+    quote !a =
+
+
+  # Community Seroprevalance
+  // Seroprevalence of anti–SARS-CoV-2 IgG antibodies in Kenyan blood donors
+  doi: https://doi.org/10.1126/science.abe1916
+  ref 'Uyoga_et_al_11_06_2020
+    head = We determined the prevalence of anti–SARS-CoV-2 IgG among blood donors in Kenya in April-June 2020. Crude seroprevalence was 5.6%
+
+    >>> Abstract
+      The spread of SARS-CoV-2 in Africa is poorly described. The first case of SARS-CoV-2 in Kenya was reported on March 12, 2020 and an overwhelming number of cases and deaths were expected but by July 31, 2020 there were only 20,636 cases and 341 deaths. However, the extent of SARS-CoV-2 exposure in the community remains unknown. We determined the prevalence of anti–SARS-CoV-2 IgG among blood donors in Kenya in April-June 2020. Crude seroprevalence was 5.6% (174/3098). Population-weighted, test-performance-adjusted national seroprevalence was 4.3% (95% CI 2.9–5.8%) and was highest in urban counties, Mombasa (8.0%), Nairobi (7.3%) and Kisumu (5.5%). SARS-CoV-2 exposure is more extensive than indicated by case-based surveillance and these results will help guide the pandemic response in Kenya, and across Africa.
+
+
+    / November, 2020 - American Association for the Advancement of Science
+    quote !a =
+
+  # Symptoms
   // Persistent fatigue following SARS-CoV-2 infection is common and independent of severity of initial infection
   doi: https://doi.org/10.1371/journal.pone.0240784
   ref 'Townsend_et_al_11_09_2020
@@ -60,8 +103,6 @@ feed November2020
     >>> Abstract
       The immune response to SARS-CoV-2 is critical in both controlling primary infection and preventing re-infection. However, there is concern that immune responses following natural infection may not be sustained and that this may predispose to recurrent infection. We analysed the magnitude and phenotype of the SARS-CoV-2 cellular immune response in 100 donors at six months following primary infection and related this to the profile of antibody level against spike, nucleoprotein and RBD over the previous six months. T-cell immune responses to SARS-CoV-2 were present by ELISPOT and/or ICS analysis in all donors and are characterised by predominant CD4+ T cell responses with strong IL-2 cytokine expression. Median T-cell responses were 50% higher in donors who had experienced an initial symptomatic infection indicating that the severity of primary infection establishes a ‘setpoint’ for cellular immunity that lasts for at least 6 months. The T-cell responses to both spike and nucleoprotein/membrane proteins were strongly correlated with the peak antibody level against each protein. The rate of decline in antibody level varied between individuals and higher levels of nucleoprotein-specific T cells were associated with preservation of NP-specific antibody level although no such correlation was observed in relation to spike-specific responses. In conclusion, our data are reassuring that functional SARS-CoV-2-specific T-cell responses are retained at six months following infection although the magnitude of this response is related to the clinical features of primary infection.
 
-    -- quotes
-      !a
 
     / November, 2020 - bioRxiv
     quote !a =
