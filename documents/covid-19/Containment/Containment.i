@@ -1,4 +1,5 @@
-/ Containment and Mitigation
+/ Containment
+// Containment and Mitigation
 subject module Containment
   head = Many community mitigation strategies above and beyond the adoption of individual infection prevention measures have been proposed and disputed. These include various forms of social restrictions, closures, and test and trace approaches. Meanwhile, other researchers have suggested strategies to achieve herd immunity in a controlled fashion.
 

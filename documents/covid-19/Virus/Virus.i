@@ -161,7 +161,7 @@ subject module Virus
         Temperature and Humidity can have an effect on survival of virus in the air
 
       # >
-      #   How long virus can stay in the air depends upon indoor environment. It can stay longer in closed low ventilated space. 
+      #   How long virus can stay in the air depends upon indoor environment. It can stay longer in closed low ventilated space.
 
       - Viability
         'van_Doremalen_et_al_2020

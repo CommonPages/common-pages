@@ -208,6 +208,7 @@ subject module Testing
     - See also
       ActiveInfection.PCRs
 
+  / Recovery
   // Testing for Recovery
   subject module Recovery
     head = Full recovery is typically defined in terms of complete clearance of all viral load. It may be confirmed by a negative *PCR/*RT-PCR, and potentially a *CT-Scan. It may also be inferred indirectly by testing for antibodies.
@@ -240,6 +241,7 @@ subject module Testing
       -
         'Sethuraman_et_al_05_06_2020.!b
 
+  / Immunity
   // Testing for Immunity
   subject module Immunity
     head = There are many uncertainties as to the nature and duration of immunity to COVID-19. Nevertheless, antibodies do appear, and can be confirmed via serology. Tests can detect some form of immunity from a past infection, and may also be able to confirm asymptomatic cases.
@@ -272,7 +274,7 @@ subject module Testing
         'Okba_et_al_2020
         'Muruato_et_al_05_22_2020
 
-  / Measuring Severity
+  / Severity
   // Testing for Disease Severity
   subject module Severity
     head = There are several indicators of disease progression, such as elevated temperature, heart rate, shortness of breadth, and blood gas content. Several studies are also investigating range of inflammatory markers in blood, as well as various immune features, to uncover correlations with disease severity.
@@ -301,7 +303,7 @@ subject module Testing
     - Respiratory Failure (IL-6)
       'Herold_et_al_04_10_2020
 
-  / Measuring Susceptibility
+  / Susceptibility
   // Testing for Disease Susceptibility
   subject module Risk
     head = Several studies are investigating a range of inflammatory markers, biomarkers and immune features to determine their value in assessing infection susceptibility and disease severity.
@@ -326,7 +328,8 @@ subject module Testing
     # -- ABO blood type - biomarker for differential susceptibility of COVID-19
       'Zhao_et_al_2020b
 
-  / Community Surveillance
+  / Surveillance
+  // Community Surveillance
   subject CommunitySurveillance
     head = To identify hotspots and community level immunity, some communities have monitored viral RNA via serosurveys of wastewater.
 

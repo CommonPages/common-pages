@@ -1,5 +1,6 @@
 
-/ Timeline and Origin
+/ Timeline
+// Timeline and Origin
 subject module Timeline
   head = In late 2019, a novel coronavirus strain now known as SARS-CoV-2 appeared in China and quickly spread to more than 150 countries. SARS-CoV-2 is the latest in a series of coronavirus outbreaks occuring in recent decades. Its origin remains a subject of active dispute among researchers.
 

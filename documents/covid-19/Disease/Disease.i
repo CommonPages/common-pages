@@ -10,7 +10,8 @@ subject module Disease
     Fatality
     Locale
 
-  / Timing of Infection, Symptoms and Recovery
+  / Timing
+  // Timing of Infection, Symptoms and Recovery
   subject Timing
     head = There are multiple estimates of the incubation period. Symptoms normally appear within 4 to 6 days from infection but can appear more than 14 days after infection in some cases. Measures of disease course and recovery are not yet availabile.
 
@@ -35,7 +36,8 @@ subject module Disease
 
     question ?Recovery = What is known about the statistical distribution of recovery time?
 
-  / Symptoms and Complications
+  / Course
+  // Symptoms and Complications
   subject Course
     head = A minority of COVID-19 cases are asymptomatic, however asymptomatic and presymptomatic carriers may still be infectious. The most commonly reported symptom is fever, among others. In cases of severe disease, many serious and life threatening complications have been observed. The prevalence of complications is still being researched.
 
@@ -127,7 +129,8 @@ subject module Disease
         -
           'Meinhardt_et_al_06_04_2020
 
-  / Susceptibility and Severity
+  / Severity
+  // Susceptibility and Severity
   subject Severity
     head = Disease prevalence and case severity are disproportionate across many populations. People over 60 are at higher risk of severe disease, as well as men, smokers and those with underlying conditions. Numerous other variances have also been discovered.
 
@@ -459,7 +462,8 @@ subject module Disease
         'Van-Dorn_et_al_04_18_2020.!a
         'Gaffney_et_al_08_21_2020
 
-  / Immunopathology and Immunity
+  / Immunity
+  // Immunopathology and Immunity
   subject module Immunity
     head = Dysregulated immune responses appear to be a key feature of severe COVID-19. Many researchers have speculated, but not yet concluded, that individuals who have previously recovered from certain other coronavirus infections may be protected by prior immunity. Recovered COVID-19 patients do appear to acquire protective antibodies, but the duration of acquired immunity is unclear.
 
