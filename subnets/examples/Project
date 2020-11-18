@@ -1,6 +1,0 @@
-
-id: "$examples"
-name: "Examples"
-theme:
-  logo: "//static.claimspace.cloud/logo-color.ico"
-network: "insight-apps.test"

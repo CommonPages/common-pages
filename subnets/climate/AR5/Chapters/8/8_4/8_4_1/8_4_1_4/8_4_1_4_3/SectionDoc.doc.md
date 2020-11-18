@@ -1,6 +1,0 @@
-index: hide
-public: ar5-
-name: Section 8.4.1.4.3
-title: 8.4.1.4.3 - Reconstructions of preindustrial ultraviolet variations
-
-The {cite.8.'Krivova_et_al_2010 Krivova et al. (2010)} {Glossary.*Reconstruction_of_climate_variable reconstruction} is based on what is known about spectral contrasts of different surface magnetic features and the relationship between {Glossary.*Total_solar_irradiance TSI} and magnetic fields. The authors interpolated backwards to the year 1610 based on sunspot group numbers and magnetic information. The {cite.8.'Lean_2000 Lean (2000)} model is based on historical sunspot number and area and is scaled in the UV using measurements from the Solar Stellar Irradiance Comparison Experiment (SOLSTICE) on board the Upper {Topics.*Climate_System Atmosphere} Research Satellite (UARS). The results show smoothed 11-year UV SSI changes between 1750 and the present of about 25% at about 120 nm, about 8% at 130 to 175 nm, ~4% at 175 to 200 nm, and about 0.5% at 200 to 350 nm. Thus, the UV SSI appears to have generally increased over the past four centuries, with larger trends at shorter wavelengths. As few reconstructions are available, and recent measurements suggest a poor understanding of UV variations and their relationship with {Glossary.*Solar_activity solar activity}, there is very low confidence in these values.

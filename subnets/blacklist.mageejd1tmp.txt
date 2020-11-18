@@ -1,9 +1,0 @@
-$os-chem
-$os-microbio
-$os-physics
-$os-stat
-$pti-cancer
-$os
-$idea
-$os-life-exp
-$in-life

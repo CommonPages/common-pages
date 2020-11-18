@@ -1,6 +1,0 @@
-index: hide
-public: ar5-
-name: Section 6.2.1.1.6
-title: 6.2.1.1.6 - Other glacial carbon dioxide drivers
-
-A number of further aspects of altered climate and biogeochemistry at the {Glossary.*Last_Glacial_Maximum LGM} are also likely to have affected atmospheric {Glossary.*Carbon_dioxide CO2}. Reduced bacterial metabolic rates and {Glossary.*Mineralization_Remineralization remineralization} (see Glossary) of organic matter ({cite.6.'Matsumoto_2007}; {cite.6.'Menviel_et_al_2012}), increased glacial supply of dissolved silica (required by {Glossary.*Diatoms diatoms} to form frustules) ({cite.6.'Harrison_2000}), ‘silica leakage’ ({cite.6.'Brzezinski_et_al_2002}; {cite.6.'Matsumoto_et_al_2002}), changes in net global {Glossary.*Weathering weathering} rates ({cite.6.'Berner_1992}; {cite.6.'Munhoven_2002}), reduction in coral reef growth and other forms of shallow water CaCO3 {Glossary.*Accumulation accumulation} ({cite.6.'Berger_1982}), carbonate compensation ({cite.6.'Ridgwell_and_Zeebe_2005}) and changes in the CaCO3 to organic matter ‘rain ratio’ to the sediments (Archer and Maier-Reimer, 1994) will act to amplify or diminish the effect of many of the aforementioned drivers on glacial CO2.

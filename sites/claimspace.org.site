@@ -1,0 +1,12 @@
+
+# Example:
+id: claimspace.org
+name: claimspace.org
+hosts:
+  - www.claimspace.org
+  - claimspace.org
+  - claimspace.test
+subnets:
+  - "$os-figures"
+  - "$os-life"
+  - "$covid-19"

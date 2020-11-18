@@ -1,7 +1,0 @@
-$os-ap
-$os-bio
-$os-bioconcepts
-$os-chem
-$os-microbio
-$os-physics
-$os-stat

@@ -1,5 +1,0 @@
-
-
-/ Tissue
-. tissue
-  .. Types

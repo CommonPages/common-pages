@@ -1,4 +1,0 @@
-
-/ Cells
-. cell
-  .. Cell Cycle

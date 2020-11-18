@@ -1,2 +1,0 @@
-/ Chemical Reactions 
-space chemicalreactions

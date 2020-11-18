@@ -1,8 +1,0 @@
-index: hide
-public: ar5-
-name: Section 4.2.3.5
-title: 4.2.3.5 - Antarctic Polynyas
-
-Polynyas are commonly found along the coast of Antarctica. There are two different processes that cause a polynya. Warm water upwelling keeps the surface water near the freezing point and reduces ice production (sensible heat polynya), and wind or ocean currents move ice away and increase further ice production (latent heat polynya).
-
-An increase in the extent of coastal polynyas in the Ross Sea caused increased ice production (latent heat effect) that is primarily responsible for the positive {Glossary.*Trend trend} in ice extent in the Antarctic ({cite.4.'Comiso_et_al_2011}). {cite.4.'Drucker_et_al_2011 Drucker et al. (2011)} show that in the Ross Sea, the net ice export equals the annual ice production in the Ross Sea polynya (approximately 400 km3 in 1992), and that ice production increased by 20 km3 yr–1 from 1992 to 2008. However, the ice production in the Weddell Sea, which is three times less, has had no statistically significant trend over the same period. Variability in the ice cover in this {Topics.*Regional_Climate region} is linked to changes in the Southern Annular Mode ({Glossary.*Southern_Annular_Mode SAM}). Between 1974 and 1976, the large Weddell Sea Polynya, which is a sensible heat polynya, was created by the injection of relatively warm deep water into the {Glossary.*Surface_layer surface layer} due to sustained deep-ocean {Glossary.*Convection convection} (sensible heat effect) during negative SAM, but since the late 1970s the SAM has been mainly positive, resulting in warmer and wetter condition forestalling any reoccurrence of the Weddell Sea Polynya ({cite.4.'Gordon_et_al_2007}).

@@ -1,6 +1,0 @@
-index: hide
-public: ar5-
-name: Section 7.1.4
-title: 7.1.4 - Chapter Roadmap
-
-For the first time in the IPCC WGI assessment reports, clouds and aerosols are discussed together in a single chapter. Doing so allows us to assess, and place in context, recent developments in a large and growing area of climate change research. In addition to assessing cloud feedbacks and {Glossary.*Aerosol aerosol} {Topics.*Radiative_Forcing forcings}, which were covered in previous assessment reports in a less unified manner, it becomes possible to assess understanding of the multiple interactions among aerosols, clouds and precipitation and their relevance for climate and climate change. This chapter assesses the climatic roles and feedbacks of water vapour, {Glossary.*Lapse_rate lapse rate} and clouds ({Chapters.7.7_2 Section 7.2}), discusses aerosol–radiation ({Chapters.7.7_3 Section 7.3}) and aerosol–cloud ({Chapters.7.7_4 Section 7.4}) interactions and quantifies the resulting aerosol RF on climate ({Chapters.7.7_5 Section 7.5}). It also introduces the physical basis for the precipitation responses to aerosols and climate changes ({Chapters.7.7_6 Section 7.6}) noted later in the Report, and assesses {Glossary.*Geoengineering geoengineering} methods based on {Glossary.*Solar_radiation solar radiation} management ({Chapters.7.7_7 Section 7.7}).

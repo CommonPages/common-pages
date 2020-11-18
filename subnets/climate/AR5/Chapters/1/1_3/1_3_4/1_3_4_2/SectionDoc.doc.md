@@ -1,6 +1,0 @@
-index: hide
-public: ar5-
-name: Section 1.3.4.2
-title: 1.3.4.2 - Ocean Acidification
-
-The observed decrease in ocean {Glossary.*pH pH} resulting from increasing concentrations of {Glossary.*Carbon_dioxide CO2} is another indicator of global change. As discussed in {cite.1.'IPCC_2007 AR4}, the ocean’s {Glossary.*Uptake uptake} of CO2 is having a significant impact on the chemistry of sea water. The average pH of ocean surface waters has fallen by about 0.1 units, from about 8.2 to 8.1 (total scale) since 1765 ({Chapters.3.3_8 Section 3.8}). Long time series from several ocean sites show ongoing declines in pH, consistent with results from repeated pH measurements on ship transects spanning much of the globe (Sections {Chapters.3.3_8 3.8} and {Chapters.6.6_4 6.4}; {cite.1.'Byrne_et_al_2010}; {cite.1.'Midorikawa_et_al_2010}). Ocean time-series in the North Atlantic and North Pacific record a decrease in pH ranging between –0.0015 and –0.0024 per year ({Chapters.3.3_8 Section 3.8}). Due to the increased storage of carbon by the ocean, {Glossary.*Ocean_acidification ocean acidification} will increase in the future ({Chapters.6 Chapter 6}). In addition to other impacts of global climate change, ocean acidification poses potentially serious threats to the health of the world’s oceans ecosystems (see AR5 WGII assessment).

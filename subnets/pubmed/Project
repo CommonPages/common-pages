@@ -1,8 +1,0 @@
-
-id: "$pubmed"
-name: "PubMed.gov"
-theme:
-  logo: "//static.theinsight.cloud/icons/pti.ico"
-links:
-network: "theinsight.app"
-authorize:

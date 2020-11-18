@@ -1,8 +1,0 @@
-index: hide
-public: ar5-
-name: Section 6.3.3.4
-title: 6.3.3.4 - Global Methane Budget for the 2000s
-
-Based on the inversion of atmospheric measurements of {Glossary.*Methane_CH4 CH4} from surface stations, global CH4 {Topics.*Emissions emissions} for the 2000s are of 553 Tg(CH4) yr–1, with a range of 526 to 569 Tg(CH4) yr–1 ({'Table_6_8 Table 6.8}). The total loss of atmospheric methane is of 550 Tg(CH4) yr–1 with a range of 514 to 560 Tg(CH4) yr–1, determining a small imbalance of about 3 Tg(CH4) yr–1, in line with the small growth rate of 6 Tg(CH4) yr–1 observed for the 2000s.
-
-Based on bottom-up models and inventories, a larger global CH4 emissions of 678 Tg(CH4) yr–1 are found, mostly because of the still debated upward re-evaluation of geological ({cite.6.'Etiope_et_al_2008}) and freshwater ({cite.6.'Walter_et_al_2007}; {cite.6.'Bastviken_et_al_2011}) emission sources. An averaged total loss of 632 Tg(CH4) yr–1 is found, by an {Glossary.*Ensemble ensemble} of Atmospheric Chemistry models ({cite.6.'Lamarque_et_al_2013}) leading to an imbalance of about 45 Tg(CH4) yr–1 during the 2000s, as compared to the observed mean growth rate of 6 Tg(CH4) yr–1({'Table_6_8 Table 6.8}; {cite.6.'Dlugokencky_et_al_2011}). There is no constraint that applies to the sum of emissions in the bottom-up approach, unlike for top-down inversions when these have constrained OH fields (e.g., from MCF). Therefore, top-down inversions can help constrain global CH4 emissions in the global budget, although they do not resolve the same level of detail in the mix of sources than the bottom-up approaches, and thus provide more limited information about processes ({'Table_6_8 Table 6.8}).

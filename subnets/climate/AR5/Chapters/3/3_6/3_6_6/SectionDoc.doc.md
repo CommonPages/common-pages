@@ -1,6 +1,0 @@
-index: hide
-public: ar5-
-name: Section 3.6.6
-title: 3.6.6 - Conclusions
-
-Recent observations have greatly increased the knowledge of the amplitude of variability in major ocean circulation systems on time scales from years to decades. It is very likely that the subtropical gyres in the North Pacific and South Pacific have expanded and strengthened since 1993, but it is about as likely as not that this reflects a decadal oscillation linked to changes in wind {Topics.*Radiative_Forcing forcing}, including changes in winds associated with the modes of {Topics.*Climate_Variability climate variability}. There is no evidence for a long-term {Glossary.*Trend trend} in the AMOC amplitude, based on a decade of continuous observations plus several decades of sparse hydrographic transects, or in the longer records of components of the AMOC such as the Florida Current (since 1965), although there are large interannual fluctuations. Nor is there evidence of a trend in the transports of the ITF (over about 20 years), the ACC (about 30 years sparsely sampled), or between the Atlantic and Nordic Seas (about 20 years). Given the short duration of direct measurements of ocean circulation, we have very low confidence that multi-decadal trends can be separated from decadal variability.

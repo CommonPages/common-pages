@@ -1,6 +1,0 @@
-index: hide
-public: ar5-
-name: Section 11.3.2.3
-title: 11.3.2.3 - The Water Cycle
-
-As discussed in the {cite.1.'IPCC_2007 AR4} (Section 10.3.6; {cite.11.'Meehl_et_al_2007b}), the IPCC Technical Paper on Climate Change and Water ({cite.11.'Bates_et_al_2008}) and the Special Report on Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation ({cite.11.'Seneviratne_et_al_2012}), a general intensification of the global {Glossary.*Hydrological_cycle hydrological cycle}, and of precipitation extremes, are expected for a future warmer climate (e.g., ({cite.11.'Huntington_2006}; {cite.11.'Williams_et_al_2007}; {cite.11.'Wild_et_al_2008}; {cite.11.'Chou_et_al_2009}; {cite.11.'Dery_et_al_2009}; O’Gorman and Schneider, 2009; {cite.11.'Lu_and_Fu_2010}; {cite.11.'Seager_et_al_2010}; {cite.11.'Wu_et_al_2010}; {cite.11.'Kao_and_Ganguly_2011}; {cite.11.'Muller_et_al_2011}; {cite.11.'Durack_et_al_2012}). In this section, {Topics.*Climate_Projections projected} changes in the time-mean hydrological cycle are discussed; changes in extremes, are presented in {Chapters.11.11_3.11_3_2.11_3_2_5 Section 11.3.2.5} while processes underlying precipitation changes are treated in {Chapters.7 Chapter 7}.

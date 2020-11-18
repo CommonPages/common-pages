@@ -1,6 +1,0 @@
-index: hide
-public: ar5-
-name: Section 9.6.1.2
-title: 9.6.1.2 - Regional-Scale Simulation by Atmospheric General Circulation Models
-
-Stand-alone global atmospheric models (AGCMs) run at higher {Glossary.*Resolution resolution} than {Glossary.*Atmosphere_Ocean_General_Circulation_Model AOGCMs} provide complementary regional-scale climate information, sometimes referred to as ‘global {Glossary.*Downscaling downscaling}’. One important example of this is the simulation of tropical cyclones (e.g., {cite.9.'Zhao_et_al_2009}, 2012; {cite.9.'Murakami_and_Sugi_2010}; {cite.9.'Murakami_et_al_2012}). A number of advantages of high-resolution AGCMs have been identified, including improved regional precipitation ({cite.9.'Zhao_et_al_2009}; {cite.9.'Kusunoki_et_al_2011}) and {Glossary.*Blocking blocking} ({cite.9.'Matsueda_et_al_2009}, 2010). As AGCMs do not simulate interactions with the ocean, their ability to capture some high-resolution phenomena, such as the cold wake in the surface ocean after a tropical cyclone, is limited (e.g., {cite.9.'Hasegawa_and_Emori_2007}). As in lower-resolution models, performance is affected by the quality of physical parameterizations ({cite.9.'Lin_et_al_2012}; {cite.9.'Mizuta_et_al_2012}; {cite.9.'Zhao_et_al_2012}).

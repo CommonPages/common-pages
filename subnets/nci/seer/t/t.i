@@ -1,3 +1,0 @@
-
-index: hide
-space t

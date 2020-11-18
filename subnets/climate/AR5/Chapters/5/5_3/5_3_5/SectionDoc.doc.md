@@ -1,6 +1,0 @@
-index: hide
-public: ar5-
-name: Section 5.3.5
-title: 5.3.5 - Temperature Variations During the Last 2000 Years
-
-The last two millennia allow comparison of instrumental records with multi-decadal-to-centennial variability arising from {Topics.*Radiative_Forcing external forcings} and internal {Topics.*Climate_Variability climate variability}. The assessment benefits from high-{Glossary.*Resolution resolution} {Glossary.*Proxy proxy} records and reconstructions of natural and {Glossary.*Anthropogenic anthropogenic} forcings back to at least 850 ({Chapters.5.5_2 Section 5.2}), used as boundary conditions for transient {Glossary.*General_Circulation_Model GCM} simulations. Since {cite.1.'IPCC_2007 AR4}, expanded proxy data networks and better understanding of {Glossary.*Reconstruction_of_climate_variable reconstruction} methods have supported new reconstructions of {Topics.*Surface_Temperature surface temperature} changes during the last 2000 years ({Chapters.5.5_3.5_3_5.5_3_5_1 Section 5.3.5.1}) and their associated {Topics.*Uncertainty uncertainties} ({Chapters.5.5_3.5_3_5.5_3_5_2 Section 5.3.5.2}), and supported more extensive comparisons with GCM simulations ({Chapters.5.5_3.5_3_5.5_3_5_3 Section 5.3.5.3}).

@@ -1,6 +1,0 @@
-index: hide
-public: ar5-
-name: Section 12.3.1.2
-title: 12.3.1.2 - The Socioeconomic Driven Scenarios from the Special Report on Emission Scenarios
-
-The climate change {Topics.*Climate_Projections projections} undertaken as part of CMIP3 and discussed in {cite.1.'IPCC_2007 AR4} were based primarily on the SRES A2, A1B and B1 {Topics.*Scenarios scenarios} ({cite.12.'IPCC_2000}). These scenarios were developed using IAMs and resulted from specific socioeconomic scenarios, that is, from storylines about future demographic and economic development, regionalization, energy production and use, technology, agriculture, forestry, and land use. All {Glossary.*SRES_scenarios SRES scenarios} assumed that no climate {Glossary.*Mitigation mitigation} policy would be undertaken. Based on these SRES scenarios, global {Topics.*Climate_Modelling climate models} were then forced with corresponding {Topics.*The_Greenhouse_Effect WMGHG} and {Glossary.*Aerosol aerosol} concentrations, although the degree to which models implemented these {Topics.*Radiative_Forcing forcings} differed ({cite.12.'Meehl_et_al_2007b}, {'Table_10_1 Table 10.1}). The resulting climate projections, together with the socioeconomic scenarios on which they are based, have been widely used in further analysis by the impact, adaptation and vulnerability research communities.

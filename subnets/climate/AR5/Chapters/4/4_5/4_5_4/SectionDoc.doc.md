@@ -1,6 +1,0 @@
-index: hide
-public: ar5-
-name: Section 4.5.4
-title: 4.5.4 - Changes in Snow Albedo
-
-In addition to reductions in {Glossary.*Snow_cover_extent snow cover extent}, which will reduce the mean reflectivity of particular regions, the reflectivity ({Glossary.*Albedo albedo}) of the snow itself may also be changing in response to {Topics.*Human_Influence human activities}. Unfortunately, there are extremely limited data on the changes of albedo over time, and we must rely instead on analyses from ice cores, direct recent observations, and modelling. {cite.4.'Flanner_et_al_2007 Flanner et al. (2007)}, using a detailed snow radiative model coupled to a global {Topics.*Climate_Modelling climate model} and estimates of {Glossary.*Biomass biomass} burning, estimated that the human-induced {Topics.*Radiative_Forcing radiative forcing} by deposition of {Glossary.*Black_carbon black carbon} on snow cover is +0.054 (0.007–0.13) W m–2 globally, of which 80% is from fossil fuels. However, spatially comprehensive surveys of impurities in Arctic snow in the late 2000s and mid-1980s suggested that impurities decreased between those two periods ({cite.4.'Doherty_et_al_2010}) and hence albedo changes have probably not made a significant contribution to recent reductions in Arctic ice and snow.

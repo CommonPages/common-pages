@@ -1,6 +1,0 @@
-index: hide
-public: ar5-
-name: Section 3.5.3.2
-title: 3.5.3.2 - Lower North Atlantic Deep Water
-
-Dense waters overflowing the sills between Greenland and Scotland supply the Lower North Atlantic Deep Water (LNADW). Both overflows freshened from the mid-1960s to the mid-1990s ({cite.3.'Dickson_et_al_2008}). The salinity of the Faroe Bank overflow increased by 0.015 to 0.02 from 1997 to 2004, implying a density increase on the order of 0.01 kg m–3 ({cite.3.'Hansen_and_Osterhus_2007}). The other main overflow, through Denmark Strait, shows large interannual variability in temperature and salinity, but no trends for the time period 1996–2011 ({cite.3.'Jochumsen_et_al_2012}). Observations of the transport of the dense overflows are dominated by short-term variability and there is no evidence of a {Glossary.*Trend trend} in the short time series available (see {Chapters.3.3_6 Section 3.6}). As both overflow components descend into the North Atlantic, they entrain substantial amounts of ambient subpolar waters to create LNADW. As a whole, the LNADW in the North Atlantic cooled from the 1950s to 2005 ({cite.3.'Mauritzen_et_al_2012}), a signal thus stemming primarily from the entrained waters, possibly an adjustment from an unusually warm period observed in the 1920s and 1930s ({cite.3.'Drinkwater_2006}).
