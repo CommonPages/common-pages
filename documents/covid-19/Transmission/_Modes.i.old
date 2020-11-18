@@ -1,11 +1,11 @@
 / Modes
 subject module Modes
   head = Numerous case reports indicate that nCov-2 is prone to spread primarily by inhaling or entry of respiratory droplets directly from infected patients (when in close proximity) or through aeroslisation as well as indirectly by touching fomites (infected surfaces etc). However the extent of transmission in each of these modes are still debated.
-  --
+  -
     Direct
-  --
+  -
     Indirect
-  --
+  -
     OtherModes
 
   / Direct Transmission
@@ -14,13 +14,13 @@ subject module Modes
     # --
     #   PublicSpace.!Narrative.L2\2\1
 
-    --
+    -
       Airborne_trans
       SharedFood
       Embracing_and_Direct_Touch_Hand_shaking
       CloseContact
       Prolonged_Interactions
-    -- Latest papers on person to person
+    - Latest papers on person to person
       'Zheng_et_al_03_14_2020
       'Liu_et_al_03_12_2020
       'Yu_et_al_02_18_2020
@@ -28,18 +28,18 @@ subject module Modes
     / Through aerial route
     subject Airborne_trans
       head = The virus can spread through respiratory droplets with virus released into air by infected patients, as indicated by numerous reports and models/ simulations.
-      --
+      -
         Droplets
         # Aerosols
-      >>>
+      >
         Besides the above case reports, multiple studies demonstrate the mechanism of the spread of respiratory droplets, acting as intial transmission models.
 
       / Heavy Droplets
       subject Droplets
         head = The virus is known to spread primarily by droplets released by infected patients during regular activities including speaking. These could be very heavy and infective at close distances (typically about 6 ft).
-        -- mechanism
+        - mechanism
           'Morawska_et_al_11_18_2008
-        -- case reports
+        - case reports
           'Lu_et_al_2020
           'Pung_et_al_03_28_2020
           'Yamagishi_et_al_06_11_2020
@@ -221,7 +221,7 @@ subject module Modes
     subject SharedFood
       head = There are reports on the spread of nCov-2 involving sharing food.
       # with an infected patient could also spread the virus providing a channel of direct entry.
-      --
+      -
         'Ghinai_et_al_04_17_2020
         'Ju-Kim_et_al_04_08_2020
         'Chaw_et_al_07_10_2020
@@ -234,16 +234,16 @@ subject module Modes
     / Physical contact
     subject Embracing_and_Direct_Touch_Hand_shaking
       head = Physical contact with the infected patient by direct touch, handshakes or embracing could raise the chances of getting infected. Indirect transmission also could happen through handshakes with a persons who has not washed their hands after touching a fomite.
-      -- Direct touch
+      - Direct touch
         'Pung_et_al_03_28_2020
-      -- Handshake
+      - Handshake
         'Pung_et_al_03_28_2020
         'Hijnen_et_al_05_11_2020
 
     / Close Contact
     subject CloseContact
       head = Close contact even without physical contact with an infected patient raises the chances of geting infected.
-      --
+      -
         'Chen_et_al_05_10_2020
         'Shen_et_al_06_12_2020
         'Yong_et_al_04_21_2020.!b
@@ -253,7 +253,7 @@ subject module Modes
     / Prolonged Interactions
     subject Prolonged_Interactions
       head = In general, prolonged interactions (like co-habiting, co-working or co-travelling) with an infected patient raises the chances of geting infected. If ineveitable, shortening the duration of interactions could reduce the infectivity.
-      --
+      -
         'Park_et_al_04_23_2020
         'Tobolowsky_et_al_05_01_2020
         'Pung_et_al_03_28_2020
@@ -261,21 +261,21 @@ subject module Modes
   / Indirect Transmission
   subject module Indirect
     head = The virus can spread indirectly through  fomites (infected surfaces), feces.
-    --
+    -
       Fomites
       MucousContact
       Fecal
 
     subject Fomites
       head = Respiratory droplets (heavy as well as aersols) could settle on different surfaces. Virus can be active on these surface for different durations and touching them without precautions can be increase the chances of infectivity.
-      --
+      -
         ActiveFomite
         FomiteEvidence
         CounterFomiteArgument
 
       subject ActiveFomite
         head = Virus can be stable or active on different surfaces for different durations under different conditions.
-        -- Neutral (later refine)
+        - Neutral (later refine)
           'van_Doremalen_et_al_2020
           'van_Doremalen_et_al_2020.!b
           'van_Doremalen_et_al_2020.!c
@@ -291,7 +291,7 @@ subject module Modes
 
       subject FomiteEvidence
         head = Numerous reports provide evidence for the spread of the virus via fomite surfaces.
-        --
+        -
           'Santarpia_et_al_2020
           'Ong_et_al_03_04_2020
           'Santarpia_et_al_07_29_2020
@@ -312,7 +312,7 @@ subject module Modes
 
       subject CounterFomiteArgument
         head = However there are some recent arguments emerging that the relative potential of the viral transmission through fomites could be minimal and is often exaggarated.
-        --
+        -
           'Goldman_et_al_07_03_2020
 
     / Mucous Contact
@@ -322,17 +322,17 @@ subject module Modes
     / Fecal
     subject Fecal
       head = Viral particles are found in the feaces of the infected patients, and could potentially be a mode of indirectly transmitting the virus.
-      --
+      -
         'Xiao_et_al_05_18_2020
         'Wu_et_al_2020d
         'Lin_et_al_01_26_2017
         'Johnson_et_al_10_05_2012
-      -- Latest papers on Fecal
+      - Latest papers on Fecal
         'Carraturo_et_al_06_09_2020
         'Ding_et_al_08_15_2020
         'Ong_et_al_03_04_2020
         'Kang_et_al_09_01_2020
-      -- Sewage
+      - Sewage
         'Carraturo_et_al_06_09_2020
         'Hoseinzadeh_et_al_07_09_2020
         'Cahill_et_al_06_11_2020
@@ -340,7 +340,7 @@ subject module Modes
   / Other Modes
   subject module OtherModes
     head = Reports indicate transmission of diesease through a combination of above modes and also with travel history. More research is needed to understand the spread of the virus in other modes like animals etc.
-    --
+    -
       MultipleModes
       Travelhistory
       Zoonosis
@@ -351,12 +351,12 @@ subject module Modes
     / Zoonosis
     subject Zoonosis
       head = There is no conclusive evidence denying or indicating the spread of virus through other animals like pets. However human to animal transmission is reported.
-      --
+      -
         HumanAnimalTransmission
 
       subject HumanAnimalTransmission
         head = There is some evidence of human-to-animal transmission of SARS-CoV-2, including examples in felids. Some institutions have advised those infected with SARS-CoV-2 to restrict contact with animals.
-        --
+        -
           'Sun_et_al_2020
           'Chen_et_al_2020b
 
@@ -372,14 +372,14 @@ subject module Modes
     / Mechanical Transmission
     subject MechanicalTransmission
       head = Mechanical transmission means the transfer of pathogens from an infected host or a contaminated substrate to the suspectible host, where a biological association between the pathogen and vector is not necessary.
-      -- Cockraches and Houseflies
+      - Cockraches and Houseflies
         'Dehghani_et_al_03_24_2020
 
 
     / Reports with possible multiple modes of transmission
     subject MultipleModes
       head = There are multiple case reports where a combination of above modes could have spread the virus.
-      --
+      -
         'Wang_et_al_04_10_2020
         'Pung_et_al_03_28_2020
         'Lewis_et_al_06_24_2020
@@ -401,7 +401,7 @@ subject module Modes
     / Travel History
     subject Travelhistory
       head = There are reports on the spread of nCov-2 in people with travel history to places like Wuhan.
-      --
+      -
         'Qian_et_al_03_17_2020
         'Yu_et_al_02_18_2020
         'Zhang_et_al_03_27_2020

@@ -27,17 +27,17 @@
   / The Epithelial Cell
   /// Epithelial cells are typically characterized by the polarized distribution of organelles and membrane-bound proteins between their basal and apical surfaces.
   model EpithelialCell
-    >>>
+    >
       Particular structures found in some epithelial cells are an adaptation to specific functions. Certain organelles are segregated to the basal sides, whereas other organelles and extensions, such as cilia, when present, are on the apical surface.
 
-    --
+    -
       EpithelialPolarity
       BasalSurface
       ApicalSurface
       Lumen
       Cilium
 
-    >>>
+    >
       {image-right:'Figure_4_2_3a} {Cilium Cilia} are microscopic extensions of the apical cell membrane that are supported by microtubules. They beat in unison and move fluids as well as trapped particles. Ciliated epithelium lines the ventricles of the brain where it helps circulate the cerebrospinal fluid. The ciliated epithelium of your airway forms a mucociliary escalator that sweeps particles of dust and pathogens trapped in the secreted mucous toward the throat. It is called an escalator because it continuously pushes mucous with trapped particles upward. In contrast, nasal cilia sweep the mucous blanket down towards your throat. In both cases, the transported materials are usually swallowed, and end up in the acidic environment of your stomach.
 
   /// A fibrocyte is an inactive mesenchymal cell, that is, a cell showing minimal cytoplasm, limited amounts of rough endoplasmic reticulum and lacks biochemical evidence of protein synthesis.
@@ -52,7 +52,7 @@
   model Adipocytes
     # https://en.wikipedia.org/wiki/Adipocyte
 
-    --
+    -
       WAT
       BAT
 
@@ -135,21 +135,21 @@
   /// Granulocytes are a category of white blood cells characterized by the presence of granules in their cytoplasm.
   model Granulicytes
     # https://en.wikipedia.org/wiki/Granulocyte
-    >>>
+    >
       We will consider the granular leukocytes in order from most common to least common. All of these are produced in the red bone marrow and have a short lifespan of hours to days. They typically have a lobed nucleus and are classified according to which type of stain best highlights their granules.
 
-    --
+    -
       Neutrophils
       Eosinophils
       Basophils
 
-    >>>
+    >
       {image:'Figure_19_4_2}
 
   /// Neutrophils are the most abundant type of granulocytes and the most abundant type of white blood cells in most mammals. They form an essential part of the innate immune system.
   model Neutrophils
     # https://en.wikipedia.org/wiki/Neutrophil
-    >>>
+    >
       The most common of all the leukocytes,  **neutrophils** will normally comprise 50–70 percent of total leukocyte count. They are 10–12  *µ*m in diameter, significantly larger than erythrocytes. They are called neutrophils because their granules show up most clearly with stains that are chemically neutral (neither acidic nor basic). The granules are numerous but quite fine and normally appear light lilac. The nucleus has a distinct lobed appearance and may have two to five lobes, the number increasing with the age of the cell. Older neutrophils have increasing numbers of lobes and are often referred to as  **polymorphonuclear** (a nucleus with many forms), or simply “polys.” Younger and immature neutrophils begin to develop lobes and are known as “bands.”
 
       Neutrophils are rapid responders to the site of infection and are efficient phagocytes with a preference for bacteria. Their granules include  **lysozyme**, an enzyme capable of lysing, or breaking down, bacterial cell walls; oxidants such as hydrogen peroxide; and  **defensins**, proteins that bind to and puncture bacterial and fungal plasma membranes, so that the cell contents leak out. Abnormally high counts of neutrophils indicate infection and/or inflammation, particularly triggered by bacteria, but are also found in burn patients and others experiencing unusual stress. A burn injury increases the proliferation of neutrophils in order to fight off infection that can result from the destruction of the barrier of the skin. Low counts may be caused by drug toxicity and other disorders, and may increase an individual’s susceptibility to infection.
@@ -157,7 +157,7 @@
   /// Eosinophils are a variety of white blood cells and one of the immune system components responsible for combating multicellular parasites and certain infections. They also control mechanisms associated with allergy and asthma.
   model Eosinophils
     # https://en.wikipedia.org/wiki/Eosinophil
-    >>>
+    >
       **Eosinophils** typically represent 2–4 percent of total leukocyte count. They are also 10–12  *µm* in diameter. The granules of eosinophils stain best with an acidic stain known as eosin. The nucleus of the eosinophil will typically have two to three lobes and, if stained properly, the granules will have a distinct red to orange color.
 
       The granules of eosinophils include antihistamine molecules, which counteract the activities of histamines, inflammatory chemicals produced by basophils and mast cells. Some eosinophil granules contain molecules toxic to parasitic worms, which can enter the body through the integument, or when an individual consumes raw or undercooked fish or meat. Eosinophils are also capable of phagocytosis and are particularly effective when antibodies bind to the target and form an antigen-antibody complex. High counts of eosinophils are typical of patients experiencing allergies, parasitic worm infestations, and some autoimmune diseases. Low counts may be due to drug toxicity and stress.
@@ -165,7 +165,7 @@
   /// Basophils are a type of white blood cell. They are responsible for inflammatory reactions during immune response, as well as in the formation of acute and chronic allergic diseases. They also produce compounds that co-ordinate immune responses, including histamine and serotonin that induce inflammation, heparin that prevents blood clotting.
   model Basophils
     # https://en.wikipedia.org/wiki/Basophil
-    >>>
+    >
       **Basophils** are the least common leukocytes, typically comprising less than one percent of the total leukocyte count. They are slightly smaller than neutrophils and eosinophils at 8–10 *µm* in diameter. The granules of basophils stain best with basic (alkaline) stains. Basophils contain large granules that pick up a dark blue stain and are so common they may make it difficult to see the two-lobed nucleus.
 
       In general, basophils intensify the inflammatory response. They share this trait with mast cells. In the past, mast cells were considered to be basophils that left the circulation. However, this appears not to be the case, as the two cell types develop from different lineages.
@@ -175,10 +175,10 @@
   /// Agranulocytes are a category of white blood cells, noted by the absence of granules in their cytoplasm, which distinguishes them from granulocytes.
   model Agranulocytes
     # https://en.wikipedia.org/wiki/Agranulocyte
-    >>>
+    >
       Agranular leukocytes contain smaller, less-visible granules in their cytoplasm than do granular leukocytes. The nucleus is simple in shape, sometimes with an indentation but without distinct lobes. There are two major types of agranulocytes: lymphocytes and monocytes
 
-    --
+    -
       Lymphocytes
       Monocytes
 
@@ -186,15 +186,15 @@
   model Lymphocytes
     # https://en.wikipedia.org/wiki/Lymphocyte
 
-    >>>
+    >
       The three major groups of lymphocytes include natural killer cells, B cells, and T cells.
 
-    --
+    -
       NKCells
       BCells
       TCells
 
-    >>>
+    >
       **Lymphocytes** are the only formed element of blood that arises from lymphoid stem cells. Although they form initially in the bone marrow, much of their subsequent development and reproduction occurs in the lymphatic tissues. Lymphocytes are the second most common type of leukocyte, accounting for about 20–30 percent of all leukocytes, and are essential for the immune response. The size range of lymphocytes is quite extensive, with some authorities recognizing two size classes and others three. Typically, the large cells are 10–14 *µm* and have a smaller nucleus-to-cytoplasm ratio and more granules. The smaller cells are typically 6–9  *µm* with a larger volume of nucleus to cytoplasm, creating a “halo” effect. A few cells may fall outside these ranges, at 14–17  *µm*. This finding has led to the three size range classification.
 
       **Natural killer (NK) cells** are capable of recognizing cells that do not express “self” proteins on their plasma membrane or that contain foreign or abnormal markers. These “nonself” cells include cancer cells, cells infected with a virus, and other cells with atypical surface proteins. Thus, they provide generalized, nonspecific immunity. The larger lymphocytes are typically NK cells.
@@ -215,7 +215,7 @@
   model TCells
     # https://en.wikipedia.org/wiki/T_cell
 
-    --
+    -
       TCellReceptor
 
   /// The T helper cells (Th cells), also known as CD4<sup>+</sup> cells, are a type of T cell that play an important role in the immune system, particularly in the adaptive immune system. They help the activity of other immune cells by releasing T cell cytokines. These cells help suppress or regulate immune responses.
@@ -250,7 +250,7 @@
   model Monocytes
     # https://en.wikipedia.org/wiki/Monocyte
 
-    >>>
+    >
       **Monocytes** originate from myeloid stem cells. They normally represent 2–8 percent of the total leukocyte count. They are typically easily recognized by their large size of 12–20  *µm* and indented or horseshoe-shaped nuclei. Macrophages are monocytes that have left the circulation and phagocytize debris, foreign pathogens, worn-out erythrocytes, and many other dead, worn out, or damaged cells. Macrophages also release antimicrobial defensins and chemotactic chemicals that attract other leukocytes to the site of an infection. Some macrophages occupy fixed locations, whereas others wander through the tissue fluid.
 
       Abnormally high counts of monocytes are associated with viral or fungal infections, tuberculosis, and some forms of leukemia and other chronic diseases. Abnormally low counts are typically caused by suppression of the bone marrow.
@@ -279,7 +279,7 @@
   /// Type II alveolar cells are the most numerous cells in the alveoli, yet do not cover as much surface area as the squamous type I cells. Type II cells in the alveolar wall contain secretory granular organelles known as lamellar bodies secrete pulmonary surfactant. This surfactant is a film of fatty substances, without which the alveoli would collapse.
   model TypeIIAlveolarCell
     # https://en.wikipedia.org/wiki/Pulmonary_alveolus#Type_I_cells
-    >>>
+    >
       Type II cells are also capable of cellular division, giving rise to more type I and II alveolar cells when the lung tissue is damaged.
 
       MUC1, a human gene associated with type II pneumocytes, has been identified as a marker in lung cancer.

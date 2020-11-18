@@ -9,7 +9,7 @@
       cell
       chem
 
-    >>>
+    >
       {image:'Figure_4_2_2}
 
   /// The parenchyma is the functional parts of an organ in the body. This is in contrast to the stroma, which refers to the structural tissue of organs, namely, the connective tissues.
@@ -44,19 +44,19 @@
 
   /// Cells within tissues and organs must be anchored to one another and attached to components of the extracellular matrix. Cells have developed several types of junctional complexes to serve these functions, and in each case, anchoring proteins extend through the plasma membrane to link cytoskeletal proteins in one cell to cytoskeletal proteins in neighboring cells as well as to proteins in the extracellular matrix.
   model AnchoringJunction
-    >>>
+    >
       There are three types of anchoring junctions: desmosomes, hemidesmosomes, and adherens.
 
     model Desmosomes
     model Heidesmosome
     model Adherens
 
-    --
+    -
       Desmosomes
       Heidesmosome
       Adherens
 
-    >>>
+    >
       Desmosomes occur in patches on the membranes of cells. The patches are structural proteins on the inner surface of the cell’s membrane. The adhesion molecule, cadherin, is embedded in these patches and projects through the cell membrane to link with the cadherin molecules of adjacent cells. These connections are especially important in holding cells together. Hemidesmosomes, which look like half a desmosome, link cells to the extracellular matrix, for example, the basal lamina. While similar in appearance to desmosomes, they include the adhesion proteins called integrins rather than cadherins. Adherens junctions use either cadherins or integrins depending on whether they are linking to other cells or matrix. The junctions are characterized by the presence of the contractile protein actin located on the cytoplasmic surface of the cell membrane. The actin can connect isolated patches or form a belt-like structure inside the cell. These junctions influence the shape and folding of the epithelial tissue.
 
   /// Gap junctions are a specialized intercellular connection. They directly connect the cytoplasm of two cells, which allows various molecules, ions and electrical impulses to directly pass through a regulated gate between cells.
@@ -83,7 +83,7 @@
   /// Endocrine glands are glands of the endocrine system that secrete their products, hormones, directly into the blood rather than through a duct.
   model EndocrineGland
     # https://en.wikipedia.org/wiki/Endocrine_gland
-    >>>
+    >
       The major glands of the endocrine system include the pineal gland, pituitary gland, pancreas, ovaries, testes, thyroid gland, parathyroid gland, hypothalamus and adrenal glands. The hypothalamus and pituitary gland are neuroendocrine organs.
 
   /// Exocrine glands are glands that produce and secrete substances onto an epithelial surface by way of a duct. Examples of exocrine glands include sweat, salivary, mammary, ceruminous, lacrimal, sebaceous, and mucous.

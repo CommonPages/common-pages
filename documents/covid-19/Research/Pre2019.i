@@ -1,372 +1,372 @@
 
 / Prior to 2019
 feed Pre2019
-  -- December, 2018
+  - December, 2018
     'Cui_et_al_2018
 
-  -- November, 2018
+  - November, 2018
     'Kleine-Weber_et_al_11_09_2018
     'Afzal_et_al_2018
     'Mishra_et_al_2018
 
-  -- October, 2018
+  - October, 2018
     'Niwa_et_al_10_15_2018
     'Jolliffe_et_al_2018
 
-  -- September, 2018
+  - September, 2018
     'Mandl_et_al_2018
 
-  -- August, 2018
+  - August, 2018
     'Duffy_et_al_2018
 
-  -- June, 2018
+  - June, 2018
     'Logan_et_al_2018
 
-  -- May, 2018
+  - May, 2018
     'Perng_et_al_2018
     'Pavlovich_et_al_2018
 
-  -- April, 2018
+  - April, 2018
     'Liu_et_al_2018
 
-  -- March, 2018
+  - March, 2018
     'Colman_et_al_2018
     'Agostini_et_al_2018
 
-  -- February, 2018
+  - February, 2018
     'Xie_et_al_2018
     'Corman_et_al_2018
 
-  -- November, 2017
+  - November, 2017
     'Hu_et_al_11_30_2017
     'Langwig_et_al_2017
     'Huang_et_al_2017
     'Babady_et_al_2017
     'Evavold_et_al_2017
 
-  -- October, 2017
+  - October, 2017
     'Netto_et_al_2017
     'Baucells_et_al_2017
 
-  -- September, 2017
+  - September, 2017
     'Xu_et_al_2017
 
-  -- August, 2017
+  - August, 2017
     'Sheahan_et_al_2017
 
-  -- June, 2017
+  - June, 2017
     'gracia_et_al_2017
     'gracia_et_al_2017b
 
-  -- July, 2017
+  - July, 2017
     'Lai_et_al_07_06_2017
     'Lin_et_al_2017
 
-  -- May, 2017
+  - May, 2017
     'Hemilä_et_al_2017
     'Banerjee_et_al_2017
     'Kim_et_al_2017
 
-  -- March, 2017
+  - March, 2017
     'Fu_et_al_2017
 
-  -- Jan, 2017
+  - Jan, 2017
     'Lin_et_al_01_26_2017
 
-  -- October, 2016
+  - October, 2016
     'Ciavarella_et_al_2016
 
-  -- September, 2016
+  - September, 2016
     'Higgins_et_al_2016
     'Netea_et_al_2016
 
-  -- July, 2016
+  - July, 2016
     'Sanjuán_et_al_2016
 
-  -- June, 2016
+  - June, 2016
     'Dessauer_et_al_2016
     'Alshukairi_et_al_2016
 
-  -- May, 2016
+  - May, 2016
     'Lin_et_al_2016
 
-  -- April, 2016
+  - April, 2016
     'Pillai_et_al_2016
 
-  -- March, 2016
+  - March, 2016
     'Marano_et_al_2016
 
-  -- February, 2016
+  - February, 2016
     'Beckmann_et_al_2016
     'Zumla_et_al_2016
 
-  -- December, 2015
+  - December, 2015
     'Yang_et_al_12_30_2015
     'Kawano_et_al_2015
 
-  -- November, 2015
+  - November, 2015
     'Bastier_et_al_2015
     'Menachery_et_al_2015
 
-  -- October, 2015
+  - October, 2015
     'Sarah_et_al_2015
 
-  -- July, 2015
+  - July, 2015
     'Michels_et_al_2015
 
-  -- June, 2015
+  - June, 2015
     'Xu_et_al_2015
     'Mansur_et_al_2015
     'Ren_et_al_2015
 
-  -- April, 2015
+  - April, 2015
     'Furman_et_al_2015
 
-  -- Feb, 2015
+  - Feb, 2015
     'Najjar_et_al_2015
 
-  -- Jan, 2015
+  - Jan, 2015
     'Salgado_et_al_2015
     'Jenkins_et_al_2015
 
-  -- October, 2014
+  - October, 2014
     'Rossignol_et_al_2014
 
-  -- May, 2014
+  - May, 2014
     'Verani_et_al_05_09_2014
 
-  -- April, 2014
+  - April, 2014
     'Iwasaki_et_al_2014
 
-  -- December, 2013
+  - December, 2013
     'Paul_et_al_2013
 
-  -- October, 2013
+  - October, 2013
     'Llor_et_al_2013
 
-  -- August, 2013
+  - August, 2013
     'Chan_et_al_2013
 
-  -- April, 2013
+  - April, 2013
     'Wertheim_et_al_2013
 
-  -- Feb, 2013
+  - Feb, 2013
     'Lessler_et_al_2013
 
-  -- Jan, 2013
+  - Jan, 2013
     'Zhang_et_al_2013
 
-  -- Dec, 2012
+  - Dec, 2012
     'Joyce_et_al_19_12_2012
 
-  -- Nov, 2012
+  - Nov, 2012
     'Qian_et_al_11_06_2012
 
-  -- October, 2012
+  - October, 2012
     'Johnson_et_al_10_05_2012
     'Singla_et_al_2012
     'Kleinnijenhuis_et_al_2012
 
-  -- September, 2012
+  - September, 2012
     'Cvetkovic_et_al_2012
 
-  -- May, 2012
+  - May, 2012
     'Lodder_et_al_2012
 
-  -- Feb, 2012
+  - Feb, 2012
     'Petrova_et_al_02_20_2012
 
-  -- December, 2011
+  - December, 2011
     'Best_et_al_12_05_2011
     'Reza_et_al_2011
 
-  -- August, 2011
+  - August, 2011
     'Chut_et_al_2011
 
-  -- July, 2011
+  - July, 2011
     'Johnson_et_al_06_21_2011
     'Stein_et_al_2011
 
-  -- June, 2011
+  - June, 2011
     'McLeish_et_al_2011
 
-  -- May, 2011
+  - May, 2011
     'Qian_et_al_2011
 
-  -- April, 2011
+  - April, 2011
     'Fine_et_al_2011
 
-  -- November, 2010
+  - November, 2010
     'Velthuis_et_al_2010
 
-  -- October, 2010
+  - October, 2010
     'Chondrogianni_et_al_2010
     'Sanjuán_et_al_2010
 
-  -- September, 2010
+  - September, 2010
     'Christakis_et_al_2010
     'Wong_et_al_2010
 
-  -- June, 2010
+  - June, 2010
     'Hou_et_al_2010
     'Zhao_et_al_2010
 
-  -- March, 2010
+  - March, 2010
     'Graham_et_al_2010
 
-  -- February, 2010
+  - February, 2010
     'Tracht_et_al_2010
 
-  -- December, 2009
+  - December, 2009
     'Luby_et_al_12_01_2009
 
-  -- October, 2009
+  - October, 2009
     'Chen_et_al_2009
 
-  -- April, 2009
+  - April, 2009
     'Belouzard_et_al_04_07_2009
     'Blackwell_et_al_2009
 
-  -- January, 2009
+  - January, 2009
     'Takeuchi_et_al_2009
 
-  -- October, 2008
+  - October, 2008
     'Soni_et_al_2008
 
-  -- April, 2008
+  - April, 2008
     'Shi_et_al_2008
 
-  -- March, 2008
+  - March, 2008
     'Mossong_et_al_2008
 
-  -- January, 2008
+  - January, 2008
     'Huynh_et_al_01_01_2008
     'Lei_et_al_01_06_2020
     'Jefferson_et_al_2008
 
-  -- June, 2007
+  - June, 2007
     'Heffernan_et_al_2007
     'Boyce_et_al_2007
 
-  -- April, 2007
+  - April, 2007
     'Noyce_et_al_2007
 
-  -- October, 2007
+  - October, 2007
     'Wu_et_al_2007
 
-  -- November, 2006
+  - November, 2006
     'Wong_et_al_2006
 
-  -- July, 2006
+  - July, 2006
     'Follis_et_al_07_05_2006
 
-  -- August, 2006
+  - August, 2006
     'Ferrari_et_al_2006
     'Hothersall_et_al_2006
 
-  -- April, 2006
+  - April, 2006
     'Fergusion_et_al_2006
     'Sebastiani_et_al_2006
 
-  -- Jan, 2006
+  - Jan, 2006
     'Franceschi_et_al_2006
 
-  -- February, 2006
+  - February, 2006
     'Colizza_et_al_2006
 
-  -- December, 2005
+  - December, 2005
     'Wang_et_al_2005
 
-  -- November,2005
+  - November,2005
     'Wang_et_al_2005b
     'Lloyd-Smith_et_al_2005
 
-  -- October, 2005
+  - October, 2005
     'Li_et_al_2005
 
-  -- August, 2005
+  - August, 2005
     'Fukushi_et_al_2005
     'Vincent_et_al_2005
     'Elena_et_al_2005
 
-  -- July, 2005
+  - July, 2005
     'Han_et_al_2005
 
-  -- June, 2005
+  - June, 2005
     'Keeling_et_al_2005
 
-  -- May, 2005
+  - May, 2005
     'Barker_et_al_06_16_2005
 
-  -- September, 2004
+  - September, 2004
     'Magiorkinis_et_al_09_14_2004
     'Yi_et_al_2004
     'Darnell_et_al_2004
 
-  -- July, 2004
+  - July, 2004
     'Wu_et_al_2004
 
-  -- June, 2004
+  - June, 2004
     'Holmes_et_al_2004
 
-  -- February, 2004
+  - February, 2004
     'Shen_et_al_2004
 
-  -- January, 2004
+  - January, 2004
     'Dowell_et_al_09_01_2004
 
-  -- December, 2003
+  - December, 2003
     'Olsen_et_al_2003
 
-  -- November, 2003
+  - November, 2003
     'Savarino_et_al_2003
 
-  -- September, 2003
+  - September, 2003
     'Lin_et_al_2003
 
-  -- May, 2003
+  - May, 2003
     'Seto_et_al_2003
     'Wortsman_et_al_2020
     'Lee_et_al_2003
 
-  -- April, 2003
+  - April, 2003
     'Davis_et_al_2003
 
-  -- December, 2001
+  - December, 2001
     'Sarnak_et_al_2001
 
-  -- August, 2001
+  - August, 2001
     'Ryan_et_al_2001
 
-  -- July, 2000
+  - July, 2000
     'John_et_al_2000
 
-  -- May, 1998
+  - May, 1998
     'Dreyfuss_et_al_1998
 
-  -- June, 1997
+  - June, 1997
     'Beck_et_al_1997
 
-  -- January, 1997
+  - January, 1997
     'Woolhouse_et_al_1997
 
-  -- July, 1995
+  - July, 1995
     'Kline_et_al_1995
 
-  -- October, 1990
+  - October, 1990
     'Ka_et_al_1990
     'Callow_et_al_1990
 
-  -- November, 1982
+  - November, 1982
     'Feigin_et_al_1982
 
-  -- July, 1979
+  - July, 1979
     'Moser_et_al_1979
 
-  -- June, 1970
+  - June, 1970
     'Mcintosh_et_al_1970
 
-  -- May, 1948
+  - May, 1948
     'Hamburger_et_al_1948
 
   #
@@ -378,7 +378,7 @@ feed Pre2019
   ref 'Essen_et_al_03_07_2010
     head = Human T cells had very low expression of PLC-gamma1 and that this correlated with low T cell antigen receptor (TCR) responsiveness in naive T cells. TCR signaling via p38 leads to successive induction of VDR (vitamin D receptor) and PLC-gamma1, which are required for subsequent classical TCR signaling and T cell activation.
 
-    >>> Abstract
+    > Abstract
       Phospholipase C (PLC) isozymes are key signaling proteins downstream of many extracellular stimuli. Here we show that naive human T cells had very low expression of PLC-gamma1 and that this correlated with low T cell antigen receptor (TCR) responsiveness in naive T cells. However, TCR triggering led to an upregulation of approximately 75-fold in PLC-gamma1 expression, which correlated with greater TCR responsiveness. Induction of PLC-gamma1 was dependent on vitamin D and expression of the vitamin D receptor (VDR). Naive T cells did not express VDR, but VDR expression was induced by TCR signaling via the alternative mitogen-activated protein kinase p38 pathway. Thus, initial TCR signaling via p38 leads to successive induction of VDR and PLC-gamma1, which are required for subsequent classical TCR signaling and T cell activation.
 
 
@@ -391,10 +391,10 @@ feed Pre2019
   ref 'Shakaya_et_al_06_17_2016
     head = Inexpensive cloth masks are widely used in developing countries to protect from particulate pollution albeit limited data on their efficacy exists. This study examined the efficiency of four types of masks (three types of cloth masks and one type of surgical mask) commonly worn in the developing world.
 
-    >>> Abstract
+    > Abstract
       Inexpensive cloth masks are widely used in developing countries to protect from particulate pollution albeit limited data on their efficacy exists. This study examined the efficiency of four types of masks (three types of cloth masks and one type of surgical mask) commonly worn in the developing world. Five monodispersed aerosol sphere size (30, 100, and 500 nm, and 1 and 2.5 μm) and diluted whole diesel exhaust was used to assess facemask performance. Among the three cloth mask types, a cloth mask with an exhaust valve performed best with filtration efficiency of 80–90% for the measured polystyrene latex (PSL) particle sizes. Two styles of commercially available fabric masks were the least effective with a filtration efficiency of 39–65% for PSL particles, and they performed better as the particle size increased. When the cloth masks were tested against lab-generated whole diesel particles, the filtration efficiency for three particle sizes (30, 100, and 500 nm) ranged from 15% to 57%. Standard N95 mask performance was used as a control to compare the results with cloth masks, and our results suggest that cloth masks are only marginally beneficial in protecting individuals from particles<2.5 μm. Compared with cloth masks, disposable surgical masks are more effective in reducing particulate exposure.
 
-    -- quotes
+    - quotes
       !a
 
     / Journal of Exposure Science & Environmental Epidemiology — June 17, 2016
@@ -406,19 +406,19 @@ feed Pre2019
   ref 'O'Currain_et_al_12_17_2018
     head = Smaller facemasks did not reduce mask leak in preterm facemask ventilation. All facemasks had high leak, particularly in infants ≤26 weeks’ gestation.
 
-    >>> Aim
+    > Aim
       Facial measurements of preterm infants indicate that standard diameter facemasks used during positive pressure ventilation are too large, which may lead to mask leak and compromise resuscitation. We aimed to determine whether the use of a facemask that better complies with the dimensions of preterm faces, compared with a standard facemask, reduces facemask leak.
 
-    >>> Methods
+    > Methods
       Parallel group, randomised controlled trial. Preterm infants ≤32 weeks’ gestation receiving facemask ventilation prior to intubation in the neonatal intensive care unit, and those 28–32+6 weeks’ receiving facemask ventilation in the delivery room were eligible. Infants were randomised to receive ventilation via a standard (50 mm) (control), or a smaller (35 mm or 42 mm) diameter facemask (intervention), stratified by gestation (≤26 weeks’; 35 mm, 27–32+6; 42 mm). The primary outcome was leak between the mask and the infants face.
 
-    >>> Results
+    > Results
       Of 298 eligible infants, 139 were randomised and 131 were included in the final analysis; 66 in the intervention group and 65 in the control group. The median (IQR) leak was 42% (13–69%) in the intervention group compared with 39% (22–66%) in the control group P = 0.43. The median (IQR) lowest oxygen saturation was similar in both groups [intervention 70% (34–93%) vs. control 71% (40–93%) P = 0.75]. One infant crossed over from the intervention to the control group due to poor response to ventilation with the intervention facemask.
 
-    >>>  Conclusions
+    >  Conclusions
       Smaller facemasks did not reduce mask leak in preterm facemask ventilation. All facemasks had high leak, particularly in infants ≤26 weeks’ gestation.
 
-    -- quotes
+    - quotes
       !a
 
     / December, 2018 - Resuscitation
@@ -430,7 +430,7 @@ feed Pre2019
   ref 'Quan_et_al_01_04_2017
     head = We report the development of a universal, reusable virus deactivation system by functionalization of the main fibrous filtration unit of surgical mask with sodium chloride salt. Salt-coated filters proved highly effective in deactivating influenza viruses.
 
-    >>> Abstract
+    > Abstract
       Aerosolized pathogens are a leading cause of respiratory infection and transmission. Currently used protective measures pose potential risk of primary/secondary infection and transmission. Here, we report the development of a universal, reusable virus deactivation system by functionalization of the main fibrous filtration unit of surgical mask with sodium chloride salt. The salt coating on the fiber surface dissolves upon exposure to virus aerosols and recrystallizes during drying, destroying the pathogens. When tested with tightly sealed sides, salt-coated filters showed remarkably higher filtration efficiency than conventional mask filtration layer, and 100% survival rate was observed in mice infected with virus penetrated through salt-coated filters. Viruses captured on salt-coated filters exhibited rapid infectivity loss compared to gradual decrease on bare filters. Salt-coated filters proved highly effective in deactivating influenza viruses regardless of subtypes and following storage in harsh environmental conditions. Our results can be applied in obtaining a broad-spectrum, airborne pathogen prevention device in preparation for epidemic and pandemic of respiratory diseases.
 
     / Reusable medical masks
@@ -442,19 +442,19 @@ feed Pre2019
   ref 'Sande_et_al_07_09_2008
     head = Any type of general mask use is likely to decrease viral exposure and infection risk on a population level, in spite of imperfect fit and imperfect adherence, personal respirators providing most protection. Masks worn by patients may not offer as great a degree of protection against aerosol transmission.
 
-    >>> Background
+    > Background
       Governments are preparing for a potential influenza pandemic. Therefore they need data to assess the possible impact of interventions. Face-masks worn by the general population could be an accessible and affordable intervention, if effective when worn under routine circumstances.
 
-    >>> Methodology
+    > Methodology
       We assessed transmission reduction potential provided by personal respirators, surgical masks and home-made masks when worn during a variety of activities by healthy volunteers and a simulated patient.
 
-    >>> Principal Findings
+    > Principal Findings
       All types of masks reduced aerosol exposure, relatively stable over time, unaffected by duration of wear or type of activity, but with a high degree of individual variation. Personal respirators were more efficient than surgical masks, which were more efficient than home-made masks. Regardless of mask type, children were less well protected. Outward protection (mask wearing by a mechanical head) was less effective than inward protection (mask wearing by healthy volunteers).
 
-    >>> Conclusions/Significance
+    > Conclusions/Significance
       Any type of general mask use is likely to decrease viral exposure and infection risk on a population level, in spite of imperfect fit and imperfect adherence, personal respirators providing most protection. Masks worn by patients may not offer as great a degree of protection against aerosol transmission.
 
-    -- quotes
+    - quotes
       !a
       !b
 
@@ -470,13 +470,13 @@ feed Pre2019
   ref 'Wood_et_al_10_23_2016
     head = Four- to seven-day exposures to low levels of HPV (hydrogen peroxide Vapour) were effective in inactivating B. anthracis spores on multiple materials.
 
-    >>> Aims:
+    > Aims:
       To evaluate the use of relatively low levels of hydrogen peroxide vapour (HPV) for the inactivation of Bacillus anthracis spores within an indoor environment.
 
-    >>> Methods and Results:
+    > Methods and Results:
       Laboratory-scale decontamination tests were conducted using bacterial spores of both B. anthracis Ames and Bacillus atrophaeus inoculated onto several types of materials. Pilot-scale tests were also conducted using a larger chamber furnished as an indoor office. Commercial off-the-shelf (COTS) humidifiers filled with aqueous solutions of 3 or 8% hydrogen peroxide (H2O2) were used to generate the HPV inside the mock office. The spores were exposed to HPV for periods ranging from 8 h up to 1 week.
 
-    >>> Conclusions:
+    > Conclusions:
       Four- to seven-day exposures to low levels of HPV (average air concentrations of approx. 5–10 parts per million) were effective in inactivating B. anthracis spores on multiple materials. The HPV can be generated with COTS humidifiers and household H2O2 solutions. With the exception of one test/material, B. atrophaeus spores were equally or more resistant to HPV inactivation compared to those from B. anthracis Ames.
 
     / Decontamination using hydrogen peroxide vapour (anthrax)
@@ -488,19 +488,19 @@ feed Pre2019
   ref 'Davies_et_al_05_22_2013
     head = This study examined homemade masks as an alternative to commercial face masks. Our findings suggest that a homemade mask should only be considered as a last resort to prevent droplet transmission from infected individuals, but it would be better than no protection.
 
-    >>> Objective
+    > Objective
       This study examined homemade masks as an alternative to commercial face masks.
 
-    >>> Methods
+    > Methods
       Several household materials were evaluated for the capacity to block bacterial and viral aerosols. Twenty-one healthy volunteers made their own face masks from cotton t-shirts; the masks were then tested for fit. The number of microorganisms isolated from coughs of healthy volunteers wearing their homemade mask, a surgical mask, or no mask was compared using several air-sampling techniques.
 
-    >>> Results
+    > Results
       The median-fit factor of the homemade masks was one-half that of the surgical masks. Both masks significantly reduced the number of microorganisms expelled by volunteers, although the surgical mask was 3 times more effective in blocking transmission than the homemade mask.
 
-    >>> Conclusion
+    > Conclusion
       Our findings suggest that a homemade mask should only be considered as a last resort to prevent droplet transmission from infected individuals, but it would be better than no protection.
 
-    -- quotes
+    - quotes
       !a
       !b
 
@@ -518,7 +518,7 @@ feed Pre2019
   ref 'Zhang_et_al_02_20_2008
     head = The present study analyzed the similarities and differences of transport and dispersion between the gaseous and particulate contaminants. The sub-micron-sized heavy particles behaved like the passive gas contaminant in the cabin except in the region near the source position because the diffusivity can be different.
 
-    >>> Abstract
+    > Abstract
       The study of airflow and contaminant transport in airliner cabins is very important for creating a comfortable and healthy environment. This paper shows the results of such a study by conducting experimental measurements and numerical simulations of airflow and contaminant transport in a section of half occupied, twin-aisle cabin mockup. The air velocity and air temperature were measured by ultrasonic and omni-directional anemometers. A gaseous contaminant was simulated by a tracer gas, sulfur hexafluoride or SF6, and measured by a photo-acoustic multi-gas analyzer. A particulate contaminant was simulated by 0.7 μm di-ethyl-hexyl-sebacat (DEHS) particles and measured by an optical particle sizer. The numerical simulations used the Reynolds averaged Navier–Stokes equations based on the RNG k–ε model to solve the air velocity, air temperature, and gas contaminant concentration; and employed a Lagrangian method to model the particle transport. The numerical results quantitatively agreed with the experimental data while some remarkable differences exist in airflow distributions. Both the experimental measurements and computer simulations were not free from errors. A complete and accurate validation for a complicated cabin environment is challenging and difficult.
 
 
@@ -532,7 +532,7 @@ feed Pre2019
   ref 'Wan_et_al_02_25_2009
     head = The transport and deposition of polydispersed expiratory aerosols in an aircraft cabin were simulated. Passengers seated within one row from the index patient are subject to contact risks that are one to two orders of magnitude higher than are passengers seated further away.
 
-    >>> Abstract
+    > Abstract
       The transport and deposition of polydispersed expiratory aerosols in an aircraft cabin were simulated using a Lagrangian-based model validated by experiments conducted in an aircraft cabin mockup. Infection risk by inhalation was estimated using the aerosol dispersion data and a model was developed to estimate the risk of infection by contact. The environmental control system (ECS) in a cabin creates air circulation mainly in the lateral direction, making lateral dispersions of aerosols much faster than longitudinal dispersions. Aerosols with initial sizes under 28 μm in diameter can stay airborne for comparatively long periods and are favorable for airborne transport. Using influenza data as an example, the estimated risk of infection by inhalation are at least two orders of magnitude higher than the risk of infection by contact. An increase in the supply airflow rate enhances ventilation removal and the dispersion of these aerosols. It reduces the risk of infection by inhalation for passengers seated within one row and one column from the index patient but it increases the risk for passengers seated further away. The deposition fraction increases with aerosol size. The ECS supply airflow rate has insignificant impact on the deposition behavior of these large aerosols, making the impact on the risk of infection by contact insignificant. Comparatively, the contact behavior of passengers is highly influential to the contact infection risk. Passengers seated within one row from the index patient are subject to contact risks that are one to two orders of magnitude higher than are passengers seated further away.
 
     / February, 2009 - Aerosol Science and Technology
@@ -545,13 +545,13 @@ feed Pre2019
   ref 'Fabian_et_al_07_16_2008
     head = Influenza virus may be contained in fine particles generated during tidal breathing, and add to the body of literature suggesting that fine particle aerosols may play a role in influenza transmission.
 
-    >>> Background
+    > Background
       Recent studies suggest that humans exhale fine particles during tidal breathing but little is known of their composition, particularly during infection.
 
-    >>> Methodology/principal findings
+    > Methodology/principal findings
       We conducted a study of influenza infected patients to characterize influenza virus and particle concentrations in their exhaled breath. Patients presenting with influenza-like-illness, confirmed influenza A or B virus by rapid test, and onset within 3 days were recruited at three clinics in Hong Kong, China. We collected exhaled breath from each subject onto Teflon filters and measured exhaled particle concentrations using an optical particle counter. Filters were analyzed for influenza A and B viruses by quantitative polymerase chain reaction (qPCR). Twelve out of thirteen rapid test positive patients provided exhaled breath filter samples (7 subjects infected with influenza B virus and 5 subjects infected with influenza A virus). We detected influenza virus RNA in the exhaled breath of 4 (33%) subjects--three (60%) of the five patients infected with influenza A virus and one (14%) of the seven infected with influenza B virus. Exhaled influenza virus RNA generation rates ranged from <3.2 to 20 influenza virus RNA particles per minute. Over 87% of particles exhaled were under 1 microm in diameter.
 
-    >>> Conclusions
+    > Conclusions
       These findings regarding influenza virus RNA suggest that influenza virus may be contained in fine particles generated during tidal breathing, and add to the body of literature suggesting that fine particle aerosols may play a role in influenza transmission.
 
     / July, 2008 - Plos One
@@ -563,14 +563,14 @@ feed Pre2019
   ref 'Morawska_et_al_11_18_2008
     head = The results of the current study represent a very significant advance in the current knowledge of expired aerosol size distributions and their sites of origin for a range of important expiratory activities.
 
-    >>> Abstract
+    > Abstract
       A new expiratory droplet investigation system (EDIS) was used to conduct the most comprehensive program of study to date, of the dilution corrected droplet size distributions produced during different respiratory activities.
       Distinct physiological processes were responsible for specific size distribution modes. The majority of particles for all activities were produced in one or more modes, with diameters below 0.8 μm at average concentrations up to 0.75 cm−3. These particles occurred at varying concentrations, during all respiratory activities, including normal breathing. A second mode at 1.8 μm was produced during all activities, but at lower concentrations of up to 0.14 cm−3.
       Speech produced additional particles in modes near 3.5 and 5 μm. These two modes became most pronounced during sustained vocalization, producing average concentrations of 0.04 and 0.16 cm−3, respectively, suggesting that the aerosolization of secretions lubricating the vocal chords is a major source of droplets in terms of number.
       For the entire size range examined of 0.3–20 μm, average particle number concentrations produced during exhalation ranged from 0.1 cm−3 for breathing to 1.1 cm−3 for sustained vocalization.
       Non-equilibrium droplet evaporation was not detectable for particles between 0.5 and 20 μm, implying that evaporation to the equilibrium droplet size occurred within 0.8 s.
 
-    -- quotes
+    - quotes
       !a
 
     / November, 2008 - Jounral of Aersol Science
@@ -582,7 +582,7 @@ feed Pre2019
   ref 'Papineni_et_al_01_30_2009
     head = Exhaled droplets from human subjects performing four respiratory actions (mouth breathing, nose breathing, coughing, talking) were measured. Coughing produced the largest droplet concentrations and nose breathing the least, although considerable intersubject variability was observed.
 
-    >>> Abstract
+    > Abstract
       Droplets carried in exhaled breath may carry microorganisms capable of transmitting disease over both short and long distances. The size distribution of such droplets will influence the type of organisms that may be carried as well as strategies for controlling airborne infection. The aim of this study was to characterize the size distribution of droplets exhaled by healthy individuals. Exhaled droplets from human subjects performing four respiratory actions (mouth breathing, nose breathing, coughing, talking) were measured by both an optical particle counter (OPC) and an analytical transmission electron microscope (AEM). The OPC indicated a preponderance of particles less than 1 μ, although larger particles were also found. Measurements with the AEM confirmed the existence of larger sized droplets in the exhaled breath. In general, coughing produced the largest droplet concentrations and nose breathing the least, although considerable intersubject variability was observed.
 
 
@@ -604,16 +604,16 @@ feed Pre2019
   ref 'Yu_et_al_04_22_2004
     head = Airborne spread of the virus appears to explain this large community outbreak of SARS, and future efforts at prevention and control must take into consideration the potential for airborne spread of this virus.
 
-    >>> BACKGROUND
+    > BACKGROUND
       There is uncertainty about the mode of transmission of the severe acute respiratory syndrome (SARS) virus. We analyzed the temporal and spatial distributions of cases in a large community outbreak of SARS in Hong Kong and examined the correlation of these data with the three-dimensional spread of a virus-laden aerosol plume that was modeled using studies of airflow dynamics.
 
-    >>> METHODS
+    > METHODS
       We determined the distribution of the initial 187 cases of SARS in the Amoy Gardens housing complex in 2003 according to the date of onset and location of residence. We then studied the association between the location (building, floor, and direction the apartment unit faced) and the probability of infection using logistic regression. The spread of the airborne, virus-laden aerosols generated by the index patient was modeled with the use of airflow-dynamics studies, including studies performed with the use of computational fluid-dynamics and multizone modeling.
 
-    >>> RESULTS
+    > RESULTS
       The curves of the epidemic suggested a common source of the outbreak. All but 5 patients lived in seven buildings (A to G), and the index patient and more than half the other patients with SARS (99 patients) lived in building E. Residents of the floors at the middle and upper levels in building E were at a significantly higher risk than residents on lower floors; this finding is consistent with a rising plume of contaminated warm air in the air shaft generated from a middle-level apartment unit. The risks for the different units matched the virus concentrations predicted with the use of multizone modeling. The distribution of risk in buildings B, C, and D corresponded well with the three-dimensional spread of virus-laden aerosols predicted with the use of computational fluid-dynamics modeling.
 
-    >>> CONCLUSIONS
+    > CONCLUSIONS
       Airborne spread of the virus appears to explain this large community outbreak of SARS, and future efforts at prevention and control must take into consideration the potential for airborne spread of this virus.
 
     / April, 2004 - NEJM
@@ -625,10 +625,10 @@ feed Pre2019
   ref 'Tang_et_al_08_17_2006
     head = Aim of this review is to describe the factors involved in: (1) the generation of an infectious aerosol, (2) the transmission of infectious droplets or droplet nuclei from this aerosol, and (3) the potential for inhalation of such droplets or droplet nuclei by a susceptible host.
 
-    >>> Abstract
+    > Abstract
       The epidemics of severe acute respiratory syndrome (SARS) in 2003 highlighted both short- and long-range transmission routes, i.e. between infected patients and healthcare workers, and between distant locations. With other infections such as tuberculosis, measles and chickenpox, the concept of aerosol transmission is so well accepted that isolation of such patients is the norm. With current concerns about a possible approaching influenza pandemic, the control of transmission via infectious air has become more important. Therefore, the aim of this review is to describe the factors involved in: (1) the generation of an infectious aerosol, (2) the transmission of infectious droplets or droplet nuclei from this aerosol, and (3) the potential for inhalation of such droplets or droplet nuclei by a susceptible host. On this basis, recommendations are made to improve the control of aerosol-transmitted infections in hospitals as well as in the design and construction of future isolation facilities.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -656,7 +656,7 @@ feed Pre2019
   ref 'Wong_et_al_02_10_2004
     head =  Proximity to the index case-patient was associated with transmission, which is consistent with droplet spread. Transmission through fomites or small aerosols cannot be ruled out.
 
-    >>> Abstract
+    > Abstract
       We studied transmission patterns of severe acute respiratory syndrome (SARS) among medical students exposed exclusively to the first SARS patient in the Prince of Wales Hospital in Hong Kong, before his illness was recognized. We conducted a retrospective cohort study of 66 medical students who visited the index patient’s ward, including 16 students with SARS and 50 healthy students. The risk of contracting SARS was sevenfold greater among students who definitely visited the index case’s cubicle than in those who did not (10/27 [41%] versus 1/20 [5%], relative risk [RR] 7.4; 95% confidence interval [CI] 1.0 to 53.3). Illness rates increased directly with proximity of exposure to the index case. However, four of eight students who were in the same cubicle, but were not within 1 m of the index case-patient, contracted SARS. Proximity to the index case-patient was associated with transmission, which is consistent with droplet spread. Transmission through fomites or small aerosols cannot be ruled out.
 
     / February, 2004 - Emerg Infect Dis
@@ -668,16 +668,16 @@ feed Pre2019
   ref 'Kim_et_al_08_01_2016
     head = The presence of MERS-CoV was confirmed by RT-PCR of viral cultures of 4 of 7 air samples. These data provide experimental evidence for extensive viable MERS-CoV contamination of the air and surrounding materials
 
-    >>> Background
+    > Background
       The largest outbreak of Middle East respiratory syndrome coronavirus (MERS-CoV) outside the Middle East occurred in South Korea in 2015 and resulted in 186 laboratory-confirmed infections, including 36 (19%) deaths. Some hospitals were considered epicenters of infection and voluntarily shut down most of their operations after nearly half of all transmissions occurred in hospital settings. However, the ways that MERS-CoV is transmitted in healthcare settings are not well defined.
 
-    >>> Methods
+    > Methods
       We explored the possible contribution of contaminated hospital air and surfaces to MERS transmission by collecting air and swabbing environmental surfaces in 2 hospitals treating MERS-CoV patients. The samples were tested by viral culture with reverse transcription polymerase chain reaction (RT-PCR) and immunofluorescence assay (IFA) using MERS-CoV Spike antibody, and electron microscopy (EM).
 
-    >>> Results
+    > Results
       The presence of MERS-CoV was confirmed by RT-PCR of viral cultures of 4 of 7 air samples from 2 patients' rooms, 1 patient's restroom, and 1 common corridor. In addition, MERS-CoV was detected in 15 of 68 surface swabs by viral cultures. IFA on the cultures of the air and swab samples revealed the presence of MERS-CoV. EM images also revealed intact particles of MERS-CoV in viral cultures of the air and swab samples.
 
-    >>> Conclusions
+    > Conclusions
       These data provide experimental evidence for extensive viable MERS-CoV contamination of the air and surrounding materials in MERS outbreak units. Thus, our findings call for epidemiologic investigation of the possible scenarios for contact and airborne transmission, and raise concern regarding the adequacy of current infection control procedures.
 
     / August, 2016 - Clin Infect Dis
@@ -689,7 +689,7 @@ feed Pre2019
   ref 'Bourouiba_et_al_04_25_2004
     head = Direct observation of sneezing and coughing events reveals that such flows are multiphase turbulent buoyant clouds with suspended droplets of various sizes. Our study highlights the importance of the multiphase nature of respiratory clouds.
 
-    >>> Abstract
+    > Abstract
       Violent respiratory events such as coughs and sneezes play a key role in transferring respiratory diseases between infectious and susceptible individuals. We present the results of a combined experimental and theoretical investigation of the fluid dynamics of such violent expiratory events. Direct observation of sneezing and coughing events reveals that such flows are multiphase turbulent buoyant clouds with suspended droplets of various sizes. Our observations guide the development of an accompanying theoretical model of pathogen-bearing droplets interacting with a turbulent buoyant momentum puff. We develop in turn discrete and continuous models of droplet fallout from the cloud in order to predict the range of pathogens. According to the discrete fallout model droplets remain suspended in the cloud until their settling speed matches that of the decelerating cloud. A continuous fallout model is developed by adapting models of sedimentation from turbulent fluids. The predictions of our theoretical models are tested against data gathered from a series of analogue experiments in which a particle-laden cloud is ejected into a relatively dense ambient. Our study highlights the importance of the multiphase nature of respiratory clouds, specifically the suspension of the smallest drops by circulation within the cloud, in extending the range of respiratory pathogens.
 
 
@@ -702,7 +702,7 @@ feed Pre2019
   ref 'Casanova_et_al_04_21_2010
     head = When high numbers of viruses are deposited, TGEV (transmissible gastroenteritis virus) and MHV (mouse hepatitis virus)  may survive for days on surfaces at ATs (air temperature) and RHs (relative humidity) typical of indoor environments.
 
-    >>> Abstract
+    > Abstract
       Assessment of the risks posed by severe acute respiratory syndrome (SARS) coronavirus (SARS-CoV) on surfaces requires data on survival of this virus on environmental surfaces and on how survival is affected by environmental variables, such as air temperature (AT) and relative humidity (RH). The use of surrogate viruses has the potential to overcome the challenges of working with SARS-CoV and to increase the available data on coronavirus survival on surfaces. Two potential surrogates were evaluated in this study; transmissible gastroenteritis virus (TGEV) and mouse hepatitis virus (MHV) were used to determine effects of AT and RH on the survival of coronaviruses on stainless steel. At 4 degrees C, infectious virus persisted for as long as 28 days, and the lowest level of inactivation occurred at 20% RH. Inactivation was more rapid at 20 degrees C than at 4 degrees C at all humidity levels; the viruses persisted for 5 to 28 days, and the slowest inactivation occurred at low RH. Both viruses were inactivated more rapidly at 40 degrees C than at 20 degrees C. The relationship between inactivation and RH was not monotonic, and there was greater survival or a greater protective effect at low RH (20%) and high RH (80%) than at moderate RH (50%). There was also evidence of an interaction between AT and RH. The results show that when high numbers of viruses are deposited, TGEV and MHV may survive for days on surfaces at ATs and RHs typical of indoor environments. TGEV and MHV could serve as conservative surrogates for modeling exposure, the risk of transmission, and control measures for pathogenic enveloped viruses, such as SARS-CoV and influenza virus, on health care surfaces.
 
 
@@ -715,10 +715,10 @@ feed Pre2019
   ref 'Lim_et_al_03_19_2009
     head = We evaluated the pharmacokinetics (PK) of HCQ and its metabolites and the relationship between the PK of HCQ and the effect of treatment of HCQ on vivax malaria in South Koreans.
 
-    >>> Abstract
+    > Abstract
       Hydroxychloroquine (HCQ) is an antimalarial drug used as chemoprophylaxis against malaria caused by Plasmodium vivax in the Republic of Korea Army (ROKA). In this study, we evaluated the pharmacokinetics (PK) of HCQ and its metabolites and the relationship between the PK of HCQ and the effect of treatment of HCQ on vivax malaria in South Koreans. Three PK studies of HCQ were conducted with 91 healthy subjects and patients with vivax malaria. Plasma concentrations were analyzed by noncompartmental and mixed-effect modeling approaches. A two-compartment model with first-order absorption best described the data. The clearance and the central and peripheral volumes of distribution were 15.5 liters/h, 733 liters, and 1,630 liters, respectively. We measured the plasma concentrations of HCQ in patients with prophylactic failure of HCQ and compared them with the prediction intervals of the simulated concentrations for HCQ from the final PK model built in this study. In 71% of the patients with prophylactic failure, the plasma concentrations of HCQ were below the lower bounds of the 95% prediction interval, while only 8% of them showed higher levels than the upper bounds of the 95% prediction interval. We report that a significant cause of prophylactic failure among the individuals in ROKA was ascribed to plasma concentrations of HCQ lower than those predicted by the PK model. However, prophylactic failure despite sufficient plasma concentrations of HCQ was confirmed in several individuals, warranting continued surveillance to monitor changes in the HCQ susceptibility of Plasmodium vivax in the Republic of Korea.
 
-    -- quotes
+    - quotes
       !a
 
     / March, 2009 - American Society for Microbiology Journals
@@ -730,7 +730,7 @@ feed Pre2019
   ref 'Ducharme_et_al_10_31_1996
     head = This paper presents the current state of knowledge on chloroquine disposition, with special emphasis on stereoselectivity and microsomal metabolism. In addition, the impact of the patient's physiopathological status and ethnic origin on chloroquine pharmacokinetics is discussed.
 
-    >>> Abstract
+    > Abstract
       This paper presents the current state of knowledge on chloroquine disposition, with special emphasis on stereoselectivity and microsomal metabolism. In addition, the impact of the patient's physiopathological status and ethnic origin on chloroquine pharmacokinetics is discussed. In humans, chloroquine concentrations decline multiexponentially. The drug is extensively distributed, with a volume of distribution of 200 to 800 L/kg when calculated from plasma concentrations and 200 L/kg when estimated from whole blood data (concentrations being 5 to 10 times higher). Chloroquine is 60% bound to plasma proteins and equally cleared by the kidney and liver. Following administration chloroquine is rapidly dealkylated via cytochrome P450 enzymes (CYP) into the pharmacologically active desethylchloroquine and bisdesethylchloroquine. Desethylchloroquine and bisdesethylchloroquine concentrations reach 40 and 10% of chloroquine concentrations, respectively; both chloroquine and desethylchloroquine concentrations decline slowly, with elimination half-lives of 20 to 60 days. Both parent drug and metabolite can be detected in urine months after a single dose. In vitro and in vivo, chloroquine and desethylchloroquine competitively inhibit CYP2D1/6-mediated reactions. Limited in vitro studies and preliminary data from clinical experiments and observations point to CYP3A and CYP2D6 as the 2 major isoforms affected by or involved in chloroquine metabolism. In vitro efficacy studies did not detect any difference in potency between chloroquine enantiomers but, in vivo in rats, S(+)-chloroquine had a lower dose that elicited 50% of the maximal effect (ED950) than that of R(-)-chloroquine. Stereoselectivity in chloroquine body disposition could be responsible for this discrepancy. Chloroquine binding to plasma proteins is stereoselective, favouring S(+)-chloroquine (67% vs 35% for the R-enantiomer). Hence, unbound plasma concentrations are higher for R(-)-chloroquine. Following separate administration of the individual enantiomers, R(-)-chloroquine reached higher and more sustained blood concentrations. The shorter half-life of S(+)-chloroquine appears secondary to its faster clearance. Blood concentrations of the S(+)-forms of desethylchloroquine always exceeded those of the R(-)-forms, pointing to a preferential metabolism of S(+)-chloroquine.
 
 
@@ -743,14 +743,14 @@ feed Pre2019
   ref 'Tett_et_al_06_27_1989
     head = Five healthy volunteers received, in a randomised crossover design study, a oral tablet and an intravenous infusion of racemic hydroxychloroquine. A period of 6 months is required to achieve 96% of steady-state levels of hydroxychloroquine.
 
-    >>> Abstract
+    > Abstract
       1. Five healthy volunteers received, in a randomised crossover design study, a 155 mg oral tablet and an intravenous infusion of 155 mg racemic hydroxychloroquine (200 mg hydroxychloroquine sulphate) to assess the bioavailability of the commercially available tablet (Plaquenil, Winthrop Laboratories, Australia).
       2. The terminal elimination half-life of hydroxychloroquine is more than 40 days, thus blood and urine samples were collected for 5 months following each dose to characterise adequately the terminal elimination phase and obtain accurate estimates of the areas under the concentration-time curves.
       3. The mean (+/- s.d.) fraction of the oral dose absorbed, estimated from the blood and urine data, was 0.74 (+/- 0.13). A wide range of estimates of the fraction of the oral dose absorbed was calculated from the plasma data (0.41 - 1.53), reflecting the difficulties of accurate measurement of hydroxychloroquine in plasma.
       4. A period of 6 months is required to achieve 96% of steady-state levels of hydroxychloroquine with the usual once daily, oral dosage regimen. Pharmacokinetic factors may thus be partly responsible for the delayed action of the drug in rheumatic conditions.
       5. Haemodialysis will not aid in the case of oral overdose with hydroxychloroquine. Although the proportionate increase in clearance may be large, the increase in the fraction of the dose excreted will be negligible. The extensive sequestration of the drug by tissues limits effectiveness of haemodialysis.
 
-    -- quotes
+    - quotes
       !a
 
     / June, 1989 - Br J Clin Pharmacol.
@@ -762,7 +762,7 @@ feed Pre2019
   ref 'Wilde_et_al_07_15_2014
     head = We have screened a library of 348 FDA-approved drugs for anti-MERS-CoV activity in cell culture. We identified four compounds (chloroquine, chlorpromazine, loperamide, and lopinavir) inhibiting MERS-CoV replication in the low micromolar range.
 
-    >>> Abstract
+    > Abstract
       Coronaviruses can cause respiratory and enteric disease in a wide variety of human and animal hosts. The 2003 outbreak of severe acute respiratory syndrome (SARS) first demonstrated the potentially lethal consequences of zoonotic coronavirus infections in humans. In 2012, a similar previously unknown coronavirus emerged, Middle East respiratory syndrome coronavirus (MERS-CoV), thus far causing over 650 laboratory-confirmed infections, with an unexplained steep rise in the number of cases being recorded over recent months. The human MERS fatality rate of ∼30% is alarmingly high, even though many deaths were associated with underlying medical conditions. Registered therapeutics for the treatment of coronavirus infections are not available. Moreover, the pace of drug development and registration for human use is generally incompatible with strategies to combat emerging infectious diseases. Therefore, we have screened a library of 348 FDA-approved drugs for anti-MERS-CoV activity in cell culture. If such compounds proved sufficiently potent, their efficacy might be directly assessed in MERS patients. We identified four compounds (chloroquine, chlorpromazine, loperamide, and lopinavir) inhibiting MERS-CoV replication in the low-micromolar range (50% effective concentrations [EC50s], 3 to 8 μM). Moreover, these compounds also inhibit the replication of SARS coronavirus and human coronavirus 229E. Although their protective activity (alone or in combination) remains to be assessed in animal models, our findings may offer a starting point for treatment of patients infected with zoonotic coronaviruses like MERS-CoV. Although they may not necessarily reduce viral replication to very low levels, a moderate viral load reduction may create a window during which to mount a protective immune response.
 
     / July, 2014 - American Society of Microbiology
@@ -774,10 +774,10 @@ feed Pre2019
   ref 'Dyall_et_al_07_15_2014
     head = A library of 290 compounds was screened for antiviral activity against MERS-CoV and SARS-CoV. In total, 27 compounds with activity against both MERS-CoV and SARS-CoV were identified.
 
-    >>> Abstract
+    > Abstract
       Outbreaks of emerging infections present health professionals with the unique challenge of trying to select appropriate pharmacologic treatments in the clinic with little time available for drug testing and development. Typically, clinicians are left with general supportive care and often untested convalescent-phase plasma as available treatment options. Repurposing of approved pharmaceutical drugs for new indications presents an attractive alternative to clinicians, researchers, public health agencies, drug developers, and funding agencies. Given the development times and manufacturing requirements for new products, repurposing of existing drugs is likely the only solution for outbreaks due to emerging viruses. In the studies described here, a library of 290 compounds was screened for antiviral activity against Middle East respiratory syndrome coronavirus (MERS-CoV) and severe acute respiratory syndrome coronavirus (SARS-CoV). Selection of compounds for inclusion in the library was dependent on current or previous FDA approval or advanced clinical development. Some drugs that had a well-defined cellular pathway as target were included. In total, 27 compounds with activity against both MERS-CoV and SARS-CoV were identified. The compounds belong to 13 different classes of pharmaceuticals, including inhibitors of estrogen receptors used for cancer treatment and inhibitors of dopamine receptor used as antipsychotics. The drugs identified in these screens provide new targets for in vivo studies as well as incorporation into ongoing clinical studies.
 
-    -- quotes
+    - quotes
       !a
       !b
 
@@ -794,7 +794,7 @@ feed Pre2019
   ref 'Keyaerts_et_al_10_08_2004
     head = We report on chloroquine, a 4-amino-quinoline, as an effective inhibitor of the replication of the SARS-CoV in vitro. Chloroquine, may be considered for immediate use in the prevention and treatment of SARS-CoV infections.
 
-    >>> Abstract
+    > Abstract
       We report on chloroquine, a 4-amino-quinoline, as an effective inhibitor of the replication of the severe acute respiratory syndrome coronavirus (SARS-CoV) in vitro. Chloroquine is a clinically approved drug effective against malaria. We tested chloroquine phosphate for its antiviral potential against SARS-CoV-induced cytopathicity in Vero E6 cell culture. Results indicate that the IC50 of chloroquine for antiviral activity (8.8 ± 1.2 μM) was significantly lower than its cytostatic activity; CC50 (261.3 ± 14.5 μM), yielding a selectivity index of 30. The IC50 of chloroquine for inhibition of SARS-CoV in vitro approximates the plasma concentrations of chloroquine reached during treatment of acute malaria. Addition of chloroquine to infected cultures could be delayed for up to 5 h postinfection, without an important drop in antiviral activity. Chloroquine, an old antimalarial drug, may be considered for immediate use in the prevention and treatment of SARS-CoV infections.
 
     / February, 2020 - bioRxiv
@@ -806,10 +806,10 @@ feed Pre2019
   ref 'Barnard_et_al_10_01_2006
     head = Compounds approved for therapeutic use and in vitro inhibitors of SARS-CoV were evaluated for inhibition in the mouse SARS-CoV replication model.
 
-    >>> Abstract
+    > Abstract
       Compounds approved for therapeutic use and in vitro inhibitors of severe acute respiratory syndrome coronavirus (SARS-CoV) were evaluated for inhibition in the mouse SARS-CoV replication model. A hybrid interferon, interferon alpha (IFN-α) B/D, and a mismatched double-stranded (ds) RNA interferon (IFN) inducer, Ampligen® (poly I:poly C124), were the only compounds that potently inhibited virus titres in the lungs of infected mice as assessed by CPE titration assays. When mice were dosed intraperitoneally (i.p.) with IFN-α B/D once daily for 3 days beginning 4 h after virus exposure, SARS-CoV replication in the lungs of infected mice was reduced by 1 log10 at 10,000 and 32,000 IU; at the highest dose of 100,000 IU, virus lung titres were below detectable limits. Ampligen® used i.p. at 10 mg/kg 4 h prior to virus exposure also reduced virus lung titres to below detectable limits. Nelfinavir, β-D-N4-hydroxycytidine, calpain inhibitor VI, 3-deazaneplanocin A and Alferon® (human leukocyte IFN-α-n3) did not significantly reduce lung virus titres in mice. Anti-inflammatory agents, chloroquine, amodiaquin and pentoxifylline, were also inactive in vivo, suggesting that although they may be useful in ameliorating the hyperinflammatory response induced by the virus infection, they will not significantly reduce the replication of the virus, the inducer of inflammatory response. Thus, anti-inflammatory agents may only be useful in treating virus lung infections if used in combination with agents that inhibit virus replication. In summary, the data suggest that induction of IFN by mismatched dsRNA or actual treatment with exogenous IFN-α can inhibit SARS-CoV replication in the lungs of mice.
 
-    -- quotes
+    - quotes
       !a
 
     / October, 2006 - Antiviral Chemistry and Chemotherapy
@@ -830,7 +830,7 @@ feed Pre2019
   ref 'Joyce_et_al_19_12_2012
     head = Cardiotoxicity is a rare but serious complication of hydroxychloroquine. We describe typical clinical, echocardiographic, and histological features of this rare condition. Hydroxychloroquine cardiotoxicity can be fatal, particularly if irreversible histopathological changes have occurred prior to drug discontinuation.
 
-    >>> Abstract
+    > Abstract
       Cardiotoxicity is a rare but serious complication of hydroxychloroquine, a 4-aminoquinoline increasingly used in the treatment of rheumatological disorders. We describe typical clinical, echocardiographic, and histological features of this rare condition according to the currently available literature, illustrated with a recent new biopsy-proven case of hydroxychloroquine cardiotoxicity in a 52-year-old female with rheumatoid arthritis. Presentation in this case was of a rapidly progressive decompensated biventricular cardiomyopathy associated with recurrent biomarker elevations, conduction system disease, and possibly neuromyotoxicity. Death occurred suddenly 2 months after diagnosis despite drug discontinuation and clinical improvement. The potential role of cardiac magnetic resonance delayed gadolinium enhancement imaging in the prognosis of this toxic cardiomyopathy is also introduced. This case-based literature review highlights that, although rare, hydroxychloroquine cardiotoxicity can be fatal, particularly if irreversible histopathological changes have occurred prior to drug discontinuation. Given this, regular screening with 12-lead electrocardiography and transthoracic echocardiography to detect conduction system disease and/or biventricular morphological or functional changes should be considered in hydroxychloroquine-treated patients in addition to recommended ophthalmological screening.
 
 
@@ -844,7 +844,7 @@ feed Pre2019
   ref 'Weniger_et_al_1979
     head = Considers the side effects and toxicity of chloroquine not only with regard to its use for the treatment and suppression of malaria, but also with regard to the relatively high doses required for the treatment of "collagen diseases" such as lupus erythematosus and rheumatoid arthritis.
 
-     -- quotes
+     - quotes
       !a
       !b
       !c
@@ -872,10 +872,10 @@ feed Pre2019
   ref 'Huynh_et_al_01_01_2008
     head = This small study is the first to report direct detection of virus aerosols exhaled by infected individuals. It reveals that breathing alone, for some people, is sufficient to aerosolize rhinovirus. In summary, we have revealed that a simple mask-like device can be used to sample exhaled respiratory bioaerosols for analysis by PCR.
 
-    >>> Abstract
+    > Abstract
       We have developed a mask sampler for exhaled respiratory viruses. Among a group of 9 patients with cold symptoms who had virus-positive nasal mucus specimens, as analyzed by multiplexed polymerase chain reaction, virus-positive mask samples were obtained after coughing (20 times), talking (20 min), or breathing (20 min) from 6, 5, and 3 patients, respectively.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -895,19 +895,19 @@ feed Pre2019
   ref 'Dowell_et_al_09_01_2004
     head = Although the viruses identified may have been noninfectious, health care workers should be aware that SARS coronavirus can contaminate environmental surfaces in the hospital, and fomites should be considered to be a possible mode of transmission of SARS.
 
-    >>> Background
+    > Background
       Health care workers continued to contract severe acute respiratory syndrome (SARS), even after barrier precautions were widely implemented.
 
-    >>> Methods
+    > Methods
       We explored the possible contribution of contaminated hospital surfaces to SARS transmission by swabbing surfaces in 2 hospitals and testing the swab samples by reverse-transcriptase polymerase chain reaction (RT-PCR) and viral culture.
 
-    >>> Results
+    > Results
       Twenty-six of 94 swab samples tested positive for viral RNA. Swab samples of respiratory secretions from each of the 4 patients examined tested positive by RT-PCR, as were 12 of 43 swabs from patient rooms and 10 of 47 swabs from other parts of the hospital, including the computer mouses at 2 nursing stations and the handrail of the public elevator. Specimens from areas with patients with SARS in the most infectious phase of illness (days 5–15 after onset) were more likely to be RNA positive than were swab specimens from elsewhere (24 of 63 samples vs. 2 of 31 samples; P = .001). All cultures showed no growth.
 
-    >>> Conclusions
+    > Conclusions
       Although the viruses identified may have been noninfectious, health care workers should be aware that SARS coronavirus can contaminate environmental surfaces in the hospital, and fomites should be considered to be a possible mode of transmission of SARS.
 
-    -- quotes
+    - quotes
       !a
       !b
 
@@ -923,7 +923,7 @@ feed Pre2019
   ref 'Yang_et_al_12_30_2015
     head = We report the isolation and characterization of a novel bat coronavirus which is much closer to the severe acute respiratory syndrome coronavirus (SARS-CoV) in genomic sequence than others previously reported, particularly in its S gene. Our results provide further evidence of the bat origin of the SARS-CoV and highlight the likelihood of future bat coronavirus emergence in humans.
 
-    >>> Abstract
+    > Abstract
       We report the isolation and characterization of a novel bat coronavirus which is much closer to the severe acute respiratory syndrome coronavirus (SARS-CoV) in genomic sequence than others previously reported, particularly in its S gene. Cell entry and susceptibility studies indicated that this virus can use ACE2 as a receptor and infect animal and human cell lines. Our results provide further evidence of the bat origin of the SARS-CoV and highlight the likelihood of future bat coronavirus emergence in humans.
 
     # -- quotes
@@ -986,10 +986,10 @@ feed Pre2019
   ref 'Hu_et_al_11_30_2017
     head = Our 5-year longitudinal study demonstrates that all building blocks of the pandemic SARS-CoV genome are present in bat SARSr-CoVs from a single location in Yunnan. Frequent recombination events have happened among those SARSr-CoVs in the same cave. There is sufficient evidence that SARS-CoV most likely originated from horseshoe bats via recombination events among existing SARSr-CoVs. Various SARSr-CoVs capable of using human ACE2 are still circulating among bats in this region.
 
-    >>> Abstract
+    > Abstract
       A large number of SARS-related coronaviruses (SARSr-CoV) have been detected in horseshoe bats since 2005 in different areas of China. However, these bat SARSr-CoVs show sequence differences from SARS coronavirus (SARS-CoV) in different genes (S, ORF8, ORF3, etc) and are considered unlikely to represent the direct progenitor of SARS-CoV. Herein, we report the findings of our 5-year surveillance of SARSr-CoVs in a cave inhabited by multiple species of horseshoe bats in Yunnan Province, China. The full-length genomes of 11 newly discovered SARSr-CoV strains, together with our previous findings, reveals that the SARSr-CoVs circulating in this single location are highly diverse in the S gene, ORF3 and ORF8. Importantly, strains with high genetic similarity to SARS-CoV in the hypervariable N-terminal domain (NTD) and receptor-binding domain (RBD) of the S1 gene, the ORF3 and ORF8 region, respectively, were all discovered in this cave. In addition, we report the first discovery of bat SARSr-CoVs highly similar to human SARS-CoV in ORF3b and in the split ORF8a and 8b. Moreover, SARSr-CoV strains from this cave were more closely related to SARS-CoV in the non-structural protein genes ORF1a and 1b compared with those detected elsewhere. Recombination analysis shows evidence of frequent recombination events within the S gene and around the ORF8 between these SARSr-CoVs. We hypothesize that the direct progenitor of SARS-CoV may have originated after sequential recombination events between the precursors of these SARSr-CoVs. Cell entry studies demonstrated that three newly identified SARSr-CoVs with different S protein sequences are all able to use human ACE2 as the receptor, further exhibiting the close relationship between strains in this cave and SARS-CoV. This work provides new insights into the origin and evolution of SARS-CoV and highlights the necessity of preparedness for future emergence of SARS-like diseases.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -1101,7 +1101,7 @@ feed Pre2019
 
     # There is discordant phylogenetic clustering of SARS‐CoV and coronaviruses sequences, throughout the genome, compatible with either ancient recombination events or altered evolutionary rates in different lineages, or a combination of both.
 
-    >>> Abstract
+    > Abstract
       The origin of the severe acute respiratory syndrome‐coronavirus (SARS‐CoV) remains unclear. Evidence based on Bayesian scanning plots and phylogenetic analysis using maximum likelihood (ML) and Bayesian methods indicates that SARS‐CoV, for the largest part of the genome (∼80%), is more closely related to Group II coronaviruses sequences, whereas in three regions in the ORF1ab gene it shows no apparent similarity to any of the previously characterized groups of coronaviruses. There is discordant phylogenetic clustering of SARS‐CoV and coronaviruses sequences, throughout the genome, compatible with either ancient recombination events or altered evolutionary rates in different lineages, or a combination of both.
 
     # -- quotes
@@ -1130,10 +1130,10 @@ feed Pre2019
   ref 'Luby_et_al_12_01_2009
     head = The primary pathways of transmission from bats to people in Bangladesh are through contamination of raw date palm sap by bats with subsequent consumption by humans and through infection of domestic animals (cattle, pigs, and goats), presumably from consumption of food contaminated with bat saliva or urine with subsequent transmission to people. Approximately one-half of recognized Nipah case patients in Bangladesh developed their disease following person-to-person transmission of the virus.
 
-    >>> Abstract
+    > Abstract
       Nipah virus (NiV) is a paramyxovirus whose reservoir host is fruit bats of the genus Pteropus . Occasionally the virus is introduced into human populations and causes severe illness characterized by encephalitis or respiratory disease. The first outbreak of NiV was recognized in Malaysia, but 8 outbreaks have been reported from Bangladesh since 2001. The primary pathways of transmission from bats to people in Bangladesh are through contamination of raw date palm sap by bats with subsequent consumption by humans and through infection of domestic animals (cattle, pigs, and goats), presumably from consumption of food contaminated with bat saliva or urine with subsequent transmission to people. Approximately one-half of recognized Nipah case patients in Bangladesh developed their disease following person-to-person transmission of the virus. Efforts to prevent transmission should focus on decreasing bat access to date palm sap and reducing family members' and friends' exposure to infected patients' saliva.
 
-    -- quotes
+    - quotes
       !g
 
     # / December, 2009 - Clinical Infectious Diseases
@@ -1175,7 +1175,7 @@ feed Pre2019
   ref 'Belouzard_et_al_04_07_2009
     head = The data suggest a novel priming mechanism for a viral fusion protein, with a critical proteolytic cleavage event on the SARS-CoV S protein at position 797 (S2′), acting in concert with the S1–S2 cleavage site to mediate membrane fusion and virus infectivity.
 
-    >>> Abstract
+    > Abstract
       The coronavirus spike protein (S) plays a key role in the early steps of viral infection, with the S1 domain responsible for receptor binding and the S2 domain mediating membrane fusion. In some cases, the S protein is proteolytically cleaved at the S1–S2 boundary. In the case of the severe acute respiratory syndrome coronavirus (SARS-CoV), it has been shown that virus entry requires the endosomal protease cathepsin L; however, it was also found that infection of SARS-CoV could be strongly induced by trypsin treatment. Overall, in terms of how cleavage might activate membrane fusion, proteolytic processing of the SARS-CoV S protein remains unclear. Here, we identify a proteolytic cleavage site within the SARS-CoV S2 domain (S2′, R797). Mutation of R797 specifically inhibited trypsin-dependent fusion in both cell–cell fusion and pseudovirion entry assays. We also introduced a furin cleavage site at both the S2′ cleavage site within S2 793-KPTKR-797 (S2′), as well as at the junction of S1 and S2. Introduction of a furin cleavage site at the S2′ position allowed trypsin-independent cell–cell fusion, which was strongly increased by the presence of a second furin cleavage site at the S1–S2 position. Taken together, these data suggest a novel priming mechanism for a viral fusion protein, with a critical proteolytic cleavage event on the SARS-CoV S protein at position 797 (S2′), acting in concert with the S1–S2 cleavage site to mediate membrane fusion and virus infectivity.
 
     # -- quotes
@@ -1226,12 +1226,12 @@ feed Pre2019
   ref 'Follis_et_al_07_05_2006
     head = We show that furin cleavage at the modified R667 position generates discrete S1 and S2 subunits and potentiates membrane fusion activity. The lack of effect of furin cleavage on virion infectivity mirrors that observed in the normally cleaved S glycoprotein of the murine coronavirus and highlights an additional level of complexity in coronavirus entry.
 
-    >>> Abstract
+    > Abstract
       The fusogenic potential of Class I viral envelope glycoproteins is activated by proteloytic cleavage of the precursor glycoprotein to generate the mature receptor-binding and transmembrane fusion subunits. Although the coronavirus (CoV) S glycoproteins share membership in this class of envelope glycoproteins, cleavage to generate the respective S1 and S2 subunits appears absent in a subset of CoV species, including that responsible for the severe acute respiratory syndrome (SARS). To determine whether proteolytic cleavage of the S glycoprotein might be important for the newly emerged SARS-CoV, we introduced a furin recognition site at single basic residues within the putative S1–S2 junctional region. We show that furin cleavage at the modified R667 position generates discrete S1 and S2 subunits and potentiates membrane fusion activity. This effect on the cell–cell fusion activity by the S glycoprotein is not, however, reflected in the infectivity of pseudotyped lentiviruses bearing the cleaved glycoprotein. The lack of effect of furin cleavage on virion infectivity mirrors that observed in the normally cleaved S glycoprotein of the murine coronavirus and highlights an additional level of complexity in coronavirus entry.
 
-    -- medicine frontier
+    - medicine frontier
       !e
-    --
+    -
       !g
 
 
@@ -1272,7 +1272,7 @@ feed Pre2019
   ref 'Kleine-Weber_et_al_11_09_2018
     head = Our data support the concept that pre-cleavage of MERS-S at the S1/S2 site by furin promotes subsequent S protein activation by TMPRSS2. However, pre-cleavage was not essential for S protein activation by TMPRSS2 and Caco-2 cell entry driven by a MERS-S variant lacking pre-cleavage was still TMPRSS2 dependent. Moreover, our results suggest that the S2′ site, specifically the second arginine, is important for efficient S protein activation by TMPRSS2 and indicate that cathepsin L but not TMPRSS2 can employ alternative sites for S protein activation.
 
-    >>> Abstract
+    > Abstract
       The Middle East respiratory syndrome-related coronavirus (MERS-CoV) can cause severe disease and has pandemic potential. Therefore, development of antiviral strategies is an important task. The activation of the viral spike protein (S) by host cell proteases is essential for viral infectivity and the responsible enzymes are potential therapeutic targets. The cellular proteases furin, cathepsin L and TMPRSS2 can activate MERS-S and may cleave the S protein at two distinct sites, termed S1/S2 and S2′. Moreover, a potential cathepsin L cleavage site in MERS-S has been reported. However, the relative importance of these sites for MERS-S activation is incompletely understood. Here, we used mutagenic analysis and MERS-S-bearing vectors to study the contribution of specific cleavage sites to S protein-driven entry. We found that an intact S1/S2 site was only required for efficient entry into cells expressing endogenous TMPRSS2. In keeping with a previous study, pre-cleavage at the S1/S2 motif (RSVR) was important although not essential for subsequent MERS-S activation by TMPRSS2, and indirect evidence was obtained that this motif is processed by a protease depending on an intact RXXR motif, most likely furin. In contrast, the S2′ site (RSAR) was required for robust viral entry into all cell lines tested and the integrity of one of the two arginines was sufficient for efficient entry. These findings suggest that cleavage at S2′ is carried out by proteases recognizing a single arginine, most likely TMPRSS2 and cathepsin L. Finally, mutation of the proposed cathepsin L site did not impact viral entry and double mutation of S1/S2 and S2′ site was compatible with cathepsin L- but not TMPRSS2-dependent host cell entry, indicating that cathepsin L can process the S protein at auxiliary sites. Collectively, our results indicate a rigid sequence requirement for S protein activation by TMPRSS2 but not cathepsin L.
 
     # -- quotes
@@ -1319,7 +1319,7 @@ feed Pre2019
   ref 'Petrova_et_al_02_20_2012
     head = The ability of the T-cell receptor (TCR) to recognize more than one peptide-MHC structure defines cross-reactivity. There are a number of rational arguments for cross-reactivity. However, quantifying the phenomenon has been difficult, and its immunological importance remains unknown.
 
-    >>> Abstract
+    > Abstract
       T-cell receptors recognize peptides presented by the major histocompatibility complex (MHC) on the surface of antigen-presenting cells (APC). The ability of the T-cell receptor (TCR) to recognize more than one peptide-MHC structure defines cross-reactivity. Cross-reactivity is a documented phenomenon of the immune system whose importance is still under investigation. There are a number of rational arguments for cross-reactivity. These include the discrepancy between the theoretical high number of pathogen-derived peptides and the lower diversity of the T-cell repertoire, the need for recognition of escape variants, and the intrinsic low affinity of this receptor−ligand pair. However, quantifying the phenomenon has been difficult, and its immunological importance remains unknown. In this review, we examined the cases for and against an important role for cross reactivity. We argue that it may be an essential feature of the immune system from the point of view of biological robustness.
 
 
@@ -1332,19 +1332,19 @@ feed Pre2019
   ref 'Johnson_et_al_10_08_2012
     head = Contaminated toilets have been clearly shown to produce large droplet and droplet nuclei bioaerosols during flushing, and research suggests that this toilet plume could play an important role in the transmission of infectious diseases for which the pathogen is shed in feces or vomit. The possible role of toilet plume in airborne transmission of norovirus, SARS, and pandemic influenza is of particular interest.
 
-    >>> Background
+    > Background
       The potential risks associated with “toilet plume” aerosols produced by flush toilets is a subject of continuing study. This review examines the evidence regarding toilet plume bioaerosol generation and infectious disease transmission.
 
-    >>> Methods
+    > Methods
       The peer-reviewed scientific literature was searched to identify articles related to aerosol production during toilet flushing, as well as epidemiologic studies examining the potential role of toilets in infectious disease outbreaks.
 
-    >>> Results
+    > Results
       The studies demonstrate that potentially infectious aerosols may be produced in substantial quantities during flushing. Aerosolization can continue through multiple flushes to expose subsequent toilet users. Some of the aerosols desiccate to become droplet nuclei and remain adrift in the air currents. However, no studies have yet clearly demonstrated or refuted toilet plume-related disease transmission, and the significance of the risk remains largely uncharacterized.
 
-    >>> Conclusion
+    > Conclusion
       Research suggests that toilet plume could play a contributory role in the transmission of infectious diseases. Additional research in multiple areas is warranted to assess the risks posed by toilet plume, especially within health care facilities.
 
-    -- quotes
+    - quotes
       !a
       !b
       !d
@@ -1371,20 +1371,20 @@ feed Pre2019
   ref 'Verani_et_al_05_09_2014
     head = Viruses were detected on 78% of surfaces and in 81% of aerosol. Among the researched viruses, only human adenovirus and Torque teno virus were found in both surface and air samples. Toilets are an important source of viral contamination
 
-    >>> Background
+    > Background
       The airborne spreading of enteric viruses can occur through the aerosol and droplets produced by toilet flushing. These can contaminate the surrounding environment, but few data exist to estimate the risk of exposure and infection. For this reason environmental monitoring of air and selected surfaces was carried out in 2 toilets of an office building and in 3 toilets of a hospital before and after cleaning operations.
 
-    >>> Methods
+    > Methods
       To reveal the presence of norovirus, enterovirus, rhinovirus, human rotavirus, and Torque teno virus and to quantify human adenovirus and bacteria counts, molecular and cultural methods were used.
 
-    >>> Results
+    > Results
       On the whole, viruses were detected on 78% of surfaces and in 81% of aerosol. Among the researched viruses, only human adenovirus and Torque teno virus were found in both surface and air samples. In several cases the same adenovirus strain was concurrently found in all matrices. Bacterial counts were unrelated to viral presence and cleaning did not seem to substantially reduce contamination.
 
-    >>> Conclusions
+    > Conclusions
       The data collected in our study confirm that toilets are an important source of viral contamination, mainly in health care settings, where disinfection can have a crucial role in preventing virus spread.
 
 
-    -- quotes
+    - quotes
       !n
 
     # / May, 2020 - Am J Infect Control.
@@ -1439,16 +1439,16 @@ feed Pre2019
   ref 'Barker_et_al_06_16_2005
     head = We were able to show when simulating loose stool that material deposited both on the sidewalls and in the bowl water were involved in the dissemination of micro‐organisms into the air and onto surrounding surfaces. Sequential flushing resulted in further distribution of micro‐organisms into the air although the numbers declined after each flush. Serratia adhering to the sidewalls, as well as free‐floating organisms in the toilet water, were responsible for the formation of bacterial aerosols.
 
-    >>> Aims
+    > Aims
       To determine the level of aerosol formation and fallout within a toilet cubicle after flushing a toilet contaminated with indicator organisms at levels required to mimic pathogen shedding during infectious diarrhoea.
 
-    >>> Methods and Results
+    > Methods and Results
       A semisolid agar carrier containing either Serratia marcesens or MS2 bacteriophage was used to contaminate the sidewalls and bowl water of a domestic toilet to mimic the effects of soiling after an episode of acute diarrhoea. Viable counts were used to compare the numbers of Serratia adhering to the porcelain surfaces and those present in the bowl water before and after flushing the toilet. Air sampling and settle plates were used to determine the presence of bacteria or virus‐laden aerosols within the toilet cubicle. After seeding there was a high level of contamination on the porcelain surfaces both under the rim and on the sides of the bowl. After a single flush there was a reduction of 2·0–3·0 log cycles cm−2 for surface attached organisms. The number of micro‐organisms in the bowl water was reduced by 2·0–3·0 log cycles ml−1 after the first flush and following a second flush, a further reduction of c. 2·0 log cycles ml−1 was achieved. Micro‐organisms in the air were at the highest level immediately after the first flush (mean values, 1370 CFU m−3 for Serratia and 2420 PFU m−3 for MS2 page). Sequential flushing resulted in further distribution of micro‐organisms into the air although the numbers declined after each flush. Serratia adhering to the sidewalls, as well as free‐floating organisms in the toilet water, were responsible for the formation of bacterial aerosols.
 
-    >>> Conclusion
+    > Conclusion
       Although a single flush reduced the level of micro‐organisms in the toilet bowl water when contaminated at concentrations reflecting pathogen shedding, large numbers of micro‐organisms persisted on the toilet bowl surface and in the bowl water which were disseminated into the air by further flushes.
 
-    -- quotes
+    - quotes
       !k
 
     # / June, 2005 - J Appl Microbiology
@@ -1494,22 +1494,22 @@ feed Pre2019
   ref 'Best_et_al_12_05_2011
     head = Our data suggest that lidless conventional toilets increase the risk of Clostridium difficile aerosolization and surrounding environmental contamination and thus transmission of bacteria. Our results also demonstrate that if lids are fitted to current models they will very likely become contaminated upon flushing. It also highlights the imperative for hand washing after toilet use, and frequent cleaning to remove contamination.
 
-    >>> Background
+    > Background
       Toilet facilities in healthcare settings vary widely, but patient toilets are commonly shared and do not have lids. When a toilet is flushed without the lid closed, aerosol production may lead to surface contamination within the toilet environment.
 
-    >>> Aim
+    > Aim
       To substantiate the risks of airborne dissemination of C. difficile following flushing a toilet, in particular when lids are not fitted.
 
-    >>> Methods
+    > Methods
       We performed in-situ testing, using faecal suspensions of C. difficile to simulate the bacterial burden found during disease, to measure C. difficile aerosolization. We also measured the extent of splashing occurring during flushing of two different toilet types commonly used in hospitals.
 
-    >>> Findings
+    > Findings
       C. difficile was recoverable from air sampled at heights up to 25 cm above the toilet seat. The highest numbers of C. difficile were recovered from air sampled immediately following flushing, and then declined 8-fold after 60 min and a further 3-fold after 90 min. Surface contamination with C. difficile occurred within 90 min after flushing, demonstrating that relatively large droplets are released which then contaminate the immediate environment. The mean numbers of droplets emitted upon flushing by the lidless toilets in clinical areas were 15–47, depending on design. C. difficile aerosolization and surrounding environmental contamination occur when a lidless toilet is flushed.
 
-    >>> Conclusion
+    > Conclusion
       Lidless conventional toilets increase the risk of C. difficile environmental contamination, and we suggest that their use is discouraged, particularly in settings where CDI is common.
 
-    -- quotes
+    - quotes
       !h
 
 
@@ -1550,7 +1550,7 @@ feed Pre2019
   ref 'Lai_et_al_07_06_2017
     head = Flushing was activated by a flushometer operated at two pressure levels, 400 kP a (high pressure [HP]) and 200 kP a (low pressure [LP]), and by a water cistern tank placed 95 cm (high tank [HT]) and 46 cm (low tank [LT]) above the toilet seat. The emission strength in the HP condition was statistically greater than that in the LP condition, whereas the cistern tank system produced less emissions than the flushometer system, and tank height was not found to be a sensitive parameter. Our findings also imply that a cistern tank design is preferable to a flushometer design with respect to aerosol generation.
 
-    >>> Abstract
+    > Abstract
       The flushing of toilets generates contaminated aerosols, the transmission of which may cause the spread of disease, particularly in the immunocompromised or the elderly. This study investigated the emission strength of three types of airborne bacteria, namely Staphylococcus epidermidis , Escherichia coli, and Pseudomonas alcaligenes , during toilet flushing in a custom‐built toilet under a controlled environment. Flushing was activated by a flushometer operated at two pressure levels, 400 kP a (high pressure [HP ]) and 200 kP a (low pressure [LP ]), and by a water cistern tank placed 95 cm (high tank [HT ]) and 46 cm (low tank [LT ]) above the toilet seat. The pathogens emitted by the first flush were calculated, with the correlations between airborne pathogen emissions and droplet concentration (HP , r =0.944, P <.001; LP , r =0.803, P <.001, HT , r =0.885, P <.05) and bacterial size (HP , r =−0.919, P <.001; LP , r =−0.936, P <.001; HT , r =−0.967, P <.05) in the different conditions then tested. The emission strength in the HP condition was statistically greater than that in the LP condition, whereas the cistern tank system produced less emissions than the flushometer system, and tank height was not found to be a sensitive parameter.
 
     # -- quotes
@@ -1601,10 +1601,10 @@ feed Pre2019
   ref 'Rogers_et_al_06_11_2020
     head = The results suggest a focus on the RBD and indeed strong nAb responses have been described by immunizing mice with a multivalent presentation of RBD.
 
-    >>> Abstract
+    > Abstract
       Countermeasures to prevent and treat COVID-19 are a global health priority. We enrolled a cohort of SARS-CoV-2-recovered participants, developed neutralization assays to interrogate antibody responses, adapted our high-throughput antibody generation pipeline to rapidly screen over 1800 antibodies, and established an animal model to test protection. We isolated potent neutralizing antibodies (nAbs) to two epitopes on the receptor binding domain (RBD) and to distinct non-RBD epitopes on the spike (S) protein. We showed that passive transfer of a nAb provides protection against disease in high-dose SARS-CoV-2 challenge in Syrian hamsters, as revealed by maintained weight and low lung viral titers in treated animals. The study suggests a role for nAbs in prophylaxis, and potentially therapy, of COVID-19. The nAbs define protective epitopes to guide vaccine design.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -1629,10 +1629,10 @@ feed Pre2019
   ref 'Brouwer_et_al_06_10_2020
     head = Convalescent COVID-19 patients showed strong anti-SARS-CoV-2 S protein specific B cell responses and developed memory and antibody producing B cells that may have participated in the control of infection and the establishment of humoral immunity. We isolated 19 NAbs that target a diverse range of antigenic sites on the S protein, of which two showed picomolar neutralizing activities  against authentic SARS-CoV-2 virus.
 
-    >>> Abstract
+    > Abstract
       The rapid spread of SARS-CoV-2 has a significant impact on global health, travel and economy. Therefore, preventative and therapeutic measures are urgently needed. Here, we isolated monoclonal antibodies from three convalescent COVID-19 patients using a SARS-CoV-2 stabilized prefusion spike protein. These antibodies had low levels of somatic hypermutation and showed a strong enrichment in VH1-69, VH3-30-3 and VH1-24 gene usage. A subset of the antibodies were able to potently inhibit authentic SARS-CoV-2 infection as low as 0.007 μg/mL. Competition and electron microscopy studies illustrate that the SARS-CoV-2 spike protein contains multiple distinct antigenic sites, including several receptor-binding domain (RBD) epitopes as well as non-RBD epitopes. In addition to providing guidance for vaccine design, the antibodies described here are promising candidates for COVID-19 treatment and prevention.
 
-    -- quotes
+    - quotes
       !a
       !b
 
@@ -1648,10 +1648,10 @@ feed Pre2019
   ref 'Chia_et_al_05_29_2020
     head = Air sampling is performed in three of the 27 AIIRs in the general ward, and detects SARS-CoV-2 PCR-positive particles of sizes >4 µm and 1–4 µm in two rooms, despite these rooms having 12 air changes per hour.
 
-    >>> Abstract
+    > Abstract
       Understanding the particle size distribution in the air and patterns of environmental contamination of SARS-CoV-2 is essential for infection prevention policies. Here we screen surface and air samples from hospital rooms of COVID-19 patients for SARS-CoV-2 RNA. Environmental sampling is conducted in three airborne infection isolation rooms (AIIRs) in the ICU and 27 AIIRs in the general ward. 245 surface samples are collected. 56.7% of rooms have at least one environmental surface contaminated. High touch surface contamination is shown in ten (66.7%) out of 15 patients in the first week of illness, and three (20%) beyond the first week of illness (p = 0.01, χ2 test). Air sampling is performed in three of the 27 AIIRs in the general ward, and detects SARS-CoV-2 PCR-positive particles of sizes >4 µm and 1–4 µm in two rooms, despite these rooms having 12 air changes per hour. This warrants further study of the airborne transmission potential of SARS-CoV-2.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -1677,19 +1677,19 @@ feed Pre2019
   ref 'Price_et_al_06_15_2020
     head = A treatment algorithm that included tocilizumab to target CRS may influence MV (mechanical ventilation) and survival outcomes. In tocilizumab-treated patients, oxygenation and inflammatory biomarkers improved, with higher than expected survival. Randomized trials must confirm these findings.
 
-    >>> Background
+    > Background
       Tocilizumab, an IL-6 receptor antagonist, can be used to treat cytokine release syndrome (CRS), with observed improvements in a coronavirus disease 2019 (COVID-19) case series.
 
-    >>> Study Design and Methods
+    > Study Design and Methods
       This observational study of consecutive COVID-19 patients hospitalized between March 10, 2020, and March 31, 2020, and followed up through April 21, 2020, was conducted by chart review. Patients were treated with tocilizumab using an algorithm that targeted CRS. Survival and mechanical ventilation (MV) outcomes were reported for 14 days and stratified according to disease severity designated at admission (severe, ≥ 3 L supplemental oxygen to maintain oxygen saturation > 93%). For tocilizumab-treated patients, pre/post analyses of clinical response, biomarkers, and safety outcomes were assessed. Post hoc survival analyses were conducted for race/ethnicity.
 
-    >>> Results
+    > Results
       Among the 239 patients, median age was 64 years; 36% and 19% were black and Hispanic, respectively. Hospital census increased exponentially, yet MV census did not. Severe disease was associated with lower survival (78% vs 93%; P < .001), greater proportion requiring MV (44% vs 5%; P < .001), and longer median MV days (5.5 vs 1.0; P = .003). Tocilizumab-treated patients (n = 153 [64%]) comprised 90% of those with severe disease; 44% of patients with nonsevere disease received tocilizumab for evolving CRS. Tocilizumab-treated patients with severe disease had higher admission levels of high-sensitivity C-reactive protein (120 vs 71 mg/L; P < .001) and received tocilizumab sooner (2 vs 3 days; P < .001), but their survival was similar to that of patients with nonsevere disease (83% vs 91%; P = .11). For tocilizumab-treated patients requiring MV, survival was 75% (95% CI, 64-89). Following tocilizumab treatment, few adverse events occurred, and oxygenation and inflammatory biomarkers (eg, high-sensitivity C-reactive protein, IL-6) improved; however, D-dimer and soluble IL-2 receptor (also termed CD25) levels increased significantly. Survival in black and Hispanic patients, after controlling for age, was significantly higher than in white patients (log-rank test, P = .002).
 
-    >>> Interpretation
+    > Interpretation
       A treatment algorithm that included tocilizumab to target CRS may influence MV and survival outcomes. In tocilizumab-treated patients, oxygenation and inflammatory biomarkers improved, with higher than expected survival. Randomized trials must confirm these findings.
 
-    -- quotes
+    - quotes
        !a
        !b
 
@@ -1715,19 +1715,19 @@ feed Pre2019
   ref 'Williamson_et_al_04_22_2020
     head = Remdesivir is the first antiviral treatment with proven efficacy against SARS-CoV-2 in an animal model of COVID-19. Remdesivir treatment in rhesus macaques infected with SARS-CoV-2 was highly effective in reducing clinical disease and damage to the lungs. The remdesivir dosing used in rhesus macaques is equivalent to that used in humans; however, due to the acute nature of the disease in rhesus macaques, it is hard to directly translate the timing of treatment used to corresponding disease stages in humans.
 
-    >>> Background
+    > Background
       Effective therapeutics to treat COVID-19 are urgently needed. Remdesivir is a nucleotide prodrug with in vitro and in vivo efficacy against coronaviruses. Here, we tested the efficacy of remdesivir treatment in a rhesus macaque model of SARS-CoV-2 infection.
 
-    >>> Methods
+    > Methods
       To evaluate the effect of remdesivir treatment on SARS-CoV-2 disease outcome, we used the recently established rhesus macaque model of SARS-CoV-2 infection that results in transient lower respiratory tract disease. Two groups of six rhesus macaques were infected with SARS-CoV-2 and treated with intravenous remdesivir or an equal volume of vehicle solution once daily. Clinical, virological and histological parameters were assessed regularly during the study and at necropsy to determine treatment efficacy.
 
-    >>> Results
+    > Results
       In contrast to vehicle-treated animals, animals treated with remdesivir did not show signs of respiratory disease and had reduced pulmonary infiltrates on radiographs. Virus titers in bronchoalveolar lavages were significantly reduced as early as 12hrs after the first treatment was administered. At necropsy on day 7 after inoculation, lung viral loads of remdesivir-treated animals were significantly lower and there was a clear reduction in damage to the lung tissue.
 
-    >>> Conclusions
+    > Conclusions
       Therapeutic remdesivir treatment initiated early during infection has a clear clinical benefit in SARS-CoV-2-infected rhesus macaques. These data support early remdesivir treatment initiation in COVID-19 patients to prevent progression to severe pneumonia.
 
-    -- quotes
+    - quotes
        !a
        !b
        !c
@@ -1748,10 +1748,10 @@ feed Pre2019
   ref 'Barnes_et_al_05_21_2020
     head = Many patients with COVID-19 are at increased risk of venous thromboembolism (VTE). Therefore, we recommend pharmacologic prophylaxis for patients with COVID-19 when hospitalized. We recommend that dosing of VTE pharmacologic prophylaxis be evidence-based, whenever possible. Escalated doses can be considered for critically ill patients.
 
-    >>> Abstract
+    > Abstract
       Coronavirus disease 2019 (COVID-19) is a viral infection that can, in severe cases, result in cytokine storm, systemic inflammatory response and coagulopathy that is prognostic of poor outcomes. While some, but not all, laboratory findings appear similar to sepsis-associated disseminated intravascular coagulopathy (DIC), COVID-19- induced coagulopathy (CIC) appears to be more prothrombotic than hemorrhagic. It has been postulated that CIC may be an uncontrolled immunothrombotic response to COVID-19, and there is growing evidence of venous and arterial thromboembolic events in these critically ill patients. Clinicians around the globe are challenged with rapidly identifying reasonable diagnostic, monitoring and anticoagulant strategies to safely and effectively manage these patients. Thoughtful use of proven, evidence-based approaches must be carefully balanced with integration of rapidly emerging evidence and growing experience. The goal of this document is to provide guidance from the Anticoagulation Forum, a North American organization of anticoagulation providers, regarding use of anticoagulant therapies in patients with COVID-19. We discuss in-hospital and post-discharge venous thromboembolism (VTE) prevention, treatment of suspected but unconfirmed VTE, laboratory monitoring of COVID-19, associated anticoagulant therapies, and essential elements for optimized transitions of care specific to patients with COVID-19.
 
-    -- quotes
+    - quotes
        !a
        !b
        !c
@@ -1771,13 +1771,13 @@ feed Pre2019
   ref 'Gritti_et_al_06_20_2020
     head = Thirty patients received siltuximab, while 188 control patients received only best supportive care. Siltuximab-treated patients were matched to 30 control patients using the propensity score analysis of baseline covariates. The 30-day mortality rate was significantly lower in the siltuximab-treated than the matched-control cohort patients (HR 0.462, 95% CI 0.221-0.965); p=0.0399). The mean follow-up was 33.3 days (range 7-58 days) for the siltuximab-treated patients and 22.8 days (range 2-45 days) for the control cohort. Sixteen siltuximab-treated patients were discharged from hospital, four remained on mechanical ventilation, and 10 patients died.
 
-    >>> Background
+    > Background
       Severe COVID-19 is characterised by interstitial pneumonia and hyperinflammation, with elevated levels of pro-inflammatory cytokines, such as IL-6. Effective treatments are urgently needed, and IL-6 is a rational target to reduce hyperinflammation.
-    >>> Methods
+    > Methods
       An observational, control cohort, single-centre study initiated at the Papa Giovanni XXIII Hospital in Bergamo, Italy included patients with COVID-19 confirmed by a nasopharyngeal swab positive for severe acute respiratory syndrome coronavirus 2 RNA and interstitial pneumonia requiring ventilatory support. Patients were treated with either best supportive care and siltuximab or best supportive care alone. Propensity score matching was applied to minimise differences in baseline covariates between patient cohorts. The main outcome was mortality in siltuximab-treated patients compared with patients in the matched-control cohort. This study (Siltuximab in Severe COVID-19, SISCO) is registered with ClinicalTrials.gov, identifier NCT04322188.
-    >>> Findings
+    > Findings
       Thirty patients received siltuximab, while 188 control patients received only best supportive care. Siltuximab-treated patients were matched to 30 control patients using the propensity score analysis of baseline covariates. The 30-day mortality rate was significantly lower in the siltuximab-treated than the matched-control cohort patients (HR 0.462, 95% CI 0.221-0.965); p=0.0399). The mean follow-up was 33.3 days (range 7-58 days) for the siltuximab-treated patients and 22.8 days (range 2-45 days) for the control cohort. Sixteen siltuximab-treated patients were discharged from hospital, four remained on mechanical ventilation, and 10 patients died.
-    >>> Interpretation
+    > Interpretation
       Patients with rapidly progressing COVID-19 respiratory failure requiring ventilatory support may benefit from treatment with siltuximab to reduce mortality and cytokine-driven hyperinflammation associated with severe disease. These findings require validation in a randomised controlled clinical trial.
 
 
@@ -1790,7 +1790,7 @@ feed Pre2019
   ref 'Monteleone_et_al_04_06_2020
     head =  We speculate that patients with immune-mediated disorders taking IL-6 inhibitors, or compounds that suppress immune pathways leading to IL-6 production or mediation of IL-6 signalling, might be somewhat protected against SARS-CoV-2-driven pneumonia.
 
-    -- quotes
+    - quotes
        !a
 
     / April, 2020 - The Lancet Rheumatol
@@ -1805,16 +1805,16 @@ feed Pre2019
   ref 'Gong_et_al_02_27_2020
     head = With following parameters such as age >67.5 years, IL2R >793.5U/mL, CRP >30.7ng/mL, ferroprotein >2252μg/L, WBC>9.5*10^9/L or NC >7.305*10^9/L, the progress of COVID-19 to critical stage should be closely observed and possibly prevented. Inflammation is closely related to severity of COVID-19, and IL-6, TNFα and IL-8 might be promising therapeutic targets.
 
-    >>> Aim:
+    > Aim:
       The new coronavirus pneumonia (COVID-19) outbreaking at the end of 2019 is highly contagious. Crude mortality rate reached 49% in critical patients. Inflammation matters on disease progression. This study analyzed blood inflammation indicators among mild, severe and critical patients, helping to identify severe or critical patients early.
-    >>> Methods:
+    > Methods:
       In this cross-sectional study, 100 patients were included and divided to mild, severe or critical groups. Correlation of peripheral blood inflammation-related indicators with disease criticality was analyzed. Cut-off values for critically ill patients were speculated through the ROC curve.
-    >>> Results：
+    > Results：
       Significantly, disease severity were associated with age (R=-0.564, P<0.001), interleukin-2 receptor (IL2R) (R=-0.534, P<0.001), interleukin-6 (IL-6) (R=-0.535, P<0.001), interleukin-8 (IL-8) (R=-0.308, P<0.001), interleukin-10 (IL-10) (R=-0.422, P<0.001), tumor necrosis factor α (TNFα) (R=-0.322, P<0.001), C-reactive protein (CRP) (R=-0.604, P<0.001), ferroprotein (R=-0.508, P<0.001), procalcitonin (R=-0.650, P<0.001), white cell counts (WBC) (R=-0.54, P<0.001), lymphocyte counts (LC) (R=-0.56, P<0.001), neutrophil count (NC) (R=-0.585, P<0.001) and eosinophil counts (EC) (R=-0.299, P=0.01).
-    >>> Conclusion：
+    > Conclusion：
       With following parameters such as age >67.5 years, IL2R >793.5U/mL, CRP >30.7ng/mL, ferroprotein >2252μg/L, WBC>9.5*10^9/L or NC >7.305*10^9/L, the progress of COVID-19 to critical stage should be closely observed and possibly prevented. Inflammation is closely related to severity of COVID-19, and IL-6, TNFα and IL-8 might be promising therapeutic targets.
 
-    -- quotes
+    - quotes
        !a
 
     / Feb, 2020 - medRxiv
@@ -1826,10 +1826,10 @@ feed Pre2019
   ref 'Qian_et_al_11_06_2012
     head = The cultivation of alveolar type II cells at an air–liquid interface provides primary cultures in which to study the pulmonary innate immune responses to infection with SARS-CoV, and to explore possible therapeutic approaches to modulating these innate immune responses.
 
-    >>> Abstract
+    > Abstract
       Severe acute respiratory syndrome (SARS)–coronavirus (CoV) produces a devastating primary viral pneumonia with diffuse alveolar damage and a marked increase in circulating cytokines. One of the major cell types to be infected is the alveolar type II cell. However, the innate immune response of primary human alveolar epithelial cells infected with SARS-CoV has not been defined. Our objectives included developing a culture system permissive for SARS-CoV infection in primary human type II cells and defining their innate immune response. Culturing primary human alveolar type II cells at an air–liquid interface (A/L) improved their differentiation and greatly increased their susceptibility to infection, allowing us to define their primary interferon and chemokine responses. Viral antigens were detected in the cytoplasm of infected type II cells, electron micrographs demonstrated secretory vesicles filled with virions, virus RNA concentrations increased with time, and infectious virions were released by exocytosis from the apical surface of polarized type II cells. A marked increase was evident in the mRNA concentrations of interferon–β and interferon–λ (IL-29) and in a large number of proinflammatory cytokines and chemokines. A surprising finding involved the variability of expression of angiotensin-converting enzyme–2, the SARS-CoV receptor, in type II cells from different donors. In conclusion, the cultivation of alveolar type II cells at an air–liquid interface provides primary cultures in which to study the pulmonary innate immune responses to infection with SARS-CoV, and to explore possible therapeutic approaches to modulating these innate immune responses.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -1898,7 +1898,7 @@ feed Pre2019
   ref 'Niwa_et_al_10_15_2018
     head =  IL-17A attenuates virus-induced IFN-λ expression by enhancing SOCS1 and SOCS3 expression to inhibit autocrine signaling loops in human airway epithelial cells.
 
-    >>> Abstract
+    > Abstract
       IFN-λ is a cytokine expressed in epithelial tissues and plays a central role in antiviral mucosal immune response. The expression of IFN-λ in the airway is impaired in chronic airway diseases (e.g., asthma, chronic obstructive pulmonary disease), which renders patients susceptible to viral infection. IL-17A is associated with asthma and chronic obstructive pulmonary disease pathogenesis; however, IL-17A regulation of IFN-λ expression remains unclear. The aim of the current study is to clarify IL-17A–mediated regulatory mechanisms of IFN-λ expression in human airway epithelial cells. In this study, we have shown that polyinosinic:polycytidylic acid (polyI:C) and influenza A virus (IAV) infection increased IFN-λ expression at mRNA and protein levels in primary cultures of normal human bronchial epithelial cells, whereas IL-17A attenuated polyI:C- or IAV-induced IFN-λ expression. IFN-λ receptor 1 knockdown and a JAK inhibitor, ruxolitinib, attenuated polyI:C-induced IFN-λ expression, confirming that a positive autocrine feedback loop, the IFN-λ receptor–JAK–STAT pathway, was involved in IFN-λ expression. In Western blotting analysis, we demonstrated that polyI:C and IAV infection induced STAT1 phosphorylation in normal human bronchial epithelial cells, whereas IL-17A suppressed polyI:C- or IAV-mediated STAT1 phosphorylation. Furthermore, we found that cotreatment with IL-17A and polyI:C or IAV infection synergistically increased suppressor of cytokine signaling (SOCS)1 and SOCS3 expression. SOCS1 small interfering RNA and SOCS3 small interfering RNA negated the inhibitory effect of IL-17A in polyI:C-induced IFN-λ expression by restoring attenuated STAT1 phosphorylation. Taken together, these findings indicate that IL-17A attenuates virus-induced IFN-λ expression by enhancing SOCS1 and SOCS3 expression to inhibit autocrine signaling loops in human airway epithelial cells.
 
     # -- quotes
@@ -1969,7 +1969,7 @@ feed Pre2019
   ref 'Van-Dorn_et_al_04_18_2020
     head = COVID-19 does not affect everyone equally. In the US, it is exposing inequities in the health system. Emerging morbidity and mortality data have clearly demonstrated: a pandemic in which the brunt of the effects fall on already vulnerable US populations, and in which the deeply rooted social, racial, and economic health disparities in the country have been laid bare.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -2011,10 +2011,10 @@ feed Pre2019
   ref 'Salje_et_al_04_20_2020
     head = We forecast that 2.9 million people will have been infected by 11 May, representing 4.4% of the population—a value inadequate for herd immunity. This indicates that efficient control measures that limit transmission risk will have to be maintained beyond 11 May 2020 to avoid a rebound of the pandemic.
 
-    >>> Abstract
+    > Abstract
       France has been heavily affected by the SARS-CoV-2 epidemic and went into lockdown on the 17 March 2020. Using models applied to hospital and death data, we estimate the impact of the lockdown and current population immunity. We find 3.6% of infected individuals are hospitalized and 0.7% die, ranging from 0.001% in those <20 years of age (ya) to 10.1% in those >80ya. Across all ages, men are more likely to be hospitalized, enter intensive care, and die than women. The lockdown reduced the reproductive number from 2.90 to 0.67 (77% reduction). By 11 May 2020, when interventions are scheduled to be eased, we project 2.8 million (range: 1.8–4.7) people, or 4.4% (range: 2.8–7.2) of the population, will have been infected. Population immunity appears insufficient to avoid a second wave if all control measures are released at the end of the lockdown.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -2065,10 +2065,10 @@ feed Pre2019
   ref 'Lei_et_al_01_06_2020
     head = In this study, we built a mathematical model to study the inflight transmission of different viruses, using a novel comparative analysis approach. The results suggested that the dominant transmission routes in air cabins are probably the close contact route for influenza, the fomite route for norovirus, and all 3 routes (airborne, close contact, and fomite routes) for SARS CoV.
 
-    >>> Abstract
+    > Abstract
       Identifying the exact transmission route(s) of infectious diseases in indoor environments is a crucial step in developing effective intervention strategies. In this study, we proposed a comparative analysis approach and built a model to simulate outbreaks of 3 different in-flight infections in a similar cabin environment, that is, influenza A H1N1, severe acute respiratory syndrome (SARS) coronavirus (CoV), and norovirus. The simulation results seemed to suggest that the close contact route was probably the most significant route (contributes 70%, 95% confidence interval [CI]: 67%-72%) in the in-flight transmission of influenza A H1N1 transmission; as a result, passengers within 2 rows of the index case had a significantly higher infection risk than others in the outbreak (relative risk [RR]: 13.4, 95% CI: 1.5-121.2, P = .019). For SARS CoV, the airborne, close contact, and fomite routes contributed 21% (95% CI: 19%-23%), 29% (95% CI: 27%-31%), and 50% (95% CI: 48%-53%), respectively. For norovirus, the simulation results suggested that the fomite route played the dominant role (contributes 85%, 95% CI: 83%-87%) in most cases; as a result, passengers in aisle seats had a significantly higher infection risk than others (RR: 9.5, 95% CI: 1.2-77.4, P = .022). This work highlighted a method for using observed outbreak data to analyze the roles of different infection transmission routes.
 
-    -- quotes
+    - quotes
       !a
 
     / Jan, 2008 - Indoor Air.
@@ -2081,11 +2081,11 @@ feed Pre2019
   ref 'Johnson_et_al_06_21_2011
     head = Significant variation of viral loading with the aerosol source region is likely, because pathogens tend to colonize specific regions of the respiratory tract and because the ratio of tissue surface to respiratory tract lining fluid volume varies throughout the respiratory tract.
 
-    >>> Abstract
+    > Abstract
       An essential starting point when investigating the potential role of human expired aerosols in the transmission of disease is to gain a comprehensive knowledge of the expired aerosol generation process, including the aerosol size distribution, the various droplet production mechanisms involved and the corresponding sites of production within the respiratory tract. In order to approach this level of understanding we have integrated the results of two different investigative techniques spanning 3 decades of particle size from 700 nm to 1 mm, presenting a single composite size distribution, and identifying the most prominent modes in that distribution. We link these modes to specific sites of origin and mechanisms of production. The data for this were obtained using the Aerodynamic Particle Sizer (APS) covering the range 0.7≤d≤20 μm and Droplet Deposition Analysis (DDA) covering the range d≥20 μm.
       In the case of speech three distinct droplet size distribution modes were identified with count median diameters at 1.6, 2.5 and 145 μm. In the case of voluntary coughing the modes were located at 1.6, 1.7 and 123 μm. The modes are associated with three distinct processes: one occurring deep in the lower respiratory tract, another in the region of the larynx and a third in the upper respiratory tract including the oral cavity. The first of these, the Bronchiolar Fluid Film Burst (BFFB or B) mode contains droplets produced during normal breathing. The second, the Laryngeal (L) mode is most active during voicing and coughing. The third, the Oral (O) cavity mode is active during speech and coughing. The number of droplets and the volume of aerosol material associated with each mode of aerosol production during speech and coughing is presented. The size distribution is modeled as a tri-modal lognormal distribution dubbed the Bronchiolar/Laryngeal/Oral (B.L.O.) tri-modal model.
 
-    -- quotes
+    - quotes
       !a
 
     / July, 2011 - Journal of Aerosol Science
@@ -2097,7 +2097,7 @@ feed Pre2019
   ref 'Lin_et_al_01_26_2017
     head = Toilets, aeration basins, and converging flows in sewer systems can generate aerosolized viruses to varying extents. While toilets generate a large number of aerosols, the total volume of liquid aerosolized is extremely small, so the chance of aerosolizing viruses upon flushing is expected to be low.
 
-    >>> Abstract
+    > Abstract
       Recent studies have shown that Ebola virus can persist in wastewater. We evaluated the potential for Ebola virus surrogates to be aerosolized from three types of wastewater systems: toilets, a lab-scale model of an aeration basin, and a lab-scale model of converging sewer pipes. We measured the aerosol size distribution generated by each system, spiked Ebola virus surrogates (MS2 and Phi6) into each system, and determined the emission rate of viruses into the air. The number of aerosols released ranged from 105 to 107 per flush from the toilets or per minute from the lab-scale models, and the total volume of aerosols generated by these systems was ∼10–9 to 10–7 mL per flush or per minute in all cases. MS2 and Phi6, spiked into toilets at an initial concentration of 107 plaque-forming units per milliliter (PFU mL–1), were not detected in air after flushing. Airborne concentrations of MS2 and Phi6 were ∼20 PFU L–1 and ∼0.1 PFU L–1, respectively, in the chambers enclosing the aeration basin and sewer models. The corresponding emission rates of MS2 and Phi6 were 547 PFU min–1 and 3.8 PFU min–1, respectively, for the aeration basin and 79 PFU min–1 and 0.3 PFU min–1 for the sewer pipes.
 
     # / Jan, 2017 - American Chemical Society
@@ -2109,16 +2109,16 @@ feed Pre2019
   ref 'Johnson_et_al_10_05_2012
     head = Toilet plume could play a contributory role in the transmission of infectious diseases. Additional research in multiple areas is warranted to assess the risks posed by toilet plume, especially within health care facilities.
 
-    >>> Background
+    > Background
       The potential risks associated with "toilet plume" aerosols produced by flush toilets is a subject of continuing study. This review examines the evidence regarding toilet plume bioaerosol generation and infectious disease transmission.
 
-    >>> Methods
+    > Methods
       The peer-reviewed scientific literature was searched to identify articles related to aerosol production during toilet flushing, as well as epidemiologic studies examining the potential role of toilets in infectious disease outbreaks.
 
-    >>> Results
+    > Results
       The studies demonstrate that potentially infectious aerosols may be produced in substantial quantities during flushing. Aerosolization can continue through multiple flushes to expose subsequent toilet users. Some of the aerosols desiccate to become droplet nuclei and remain adrift in the air currents. However, no studies have yet clearly demonstrated or refuted toilet plume-related disease transmission, and the significance of the risk remains largely uncharacterized.
 
-    >>> Conclusion
+    > Conclusion
       Research suggests that toilet plume could play a contributory role in the transmission of infectious diseases. Additional research in multiple areas is warranted to assess the risks posed by toilet plume, especially within health care facilities.
 
     # / Oct, 2012 - Am J Infect Control
@@ -2130,7 +2130,7 @@ feed Pre2019
   ref 'Erasmus_et_al_05_28_2020
     head = Our results demonstrate a significant potential for LION/repRNA-CoV2S, which will enter clinical development under the name HDT-301, to induce rapid immune protection from SARS-CoV-2 infection. The vaccine induced Th1-biased antibody and T cell responses in both young and aged mice, an attribute that has been associated with improved recovery and milder disease outcomes in SARS-CoV-infected patients. Together, these results support further development of LION/repRNA-CoV2S as a vaccine candidate for protection from COVID19.
 
-    >>> Abstract
+    > Abstract
       The ongoing COVID-19 pandemic, caused by infection with SARS-CoV-2, is having a dramatic and deleterious impact on health services and the global economy. Grim public health statistics highlight the need for vaccines that can rapidly confer protection after a single dose and be manufactured using components suitable for scale-up and efficient distribution. In response, we have rapidly developed repRNA-CoV2S, a stable and highly immunogenic vaccine candidate comprised of an RNA replicon formulated with a novel Lipid InOrganic Nanoparticle (LION) designed to enhance vaccine stability, delivery and immunogenicity. We show that intramuscular injection of LION/repRNA-CoV2S elicits robust anti-SARS-CoV-2 spike protein IgG antibody isotypes indicative of a Type 1 T helper response as well as potent T cell responses in mice. Importantly, a single-dose administration in nonhuman primates elicited antibody responses that potently neutralized SARS-CoV-2. These data support further development of LION/repRNA-CoV2S as a vaccine candidate for prophylactic protection from SARS-CoV-2 infection.
 
     # / May, 2020 - bioRxiv
@@ -2143,7 +2143,7 @@ feed Pre2019
   ref 'Dreyfuss_et_al_1998
     head = The respective roles of high pressure and high tidal volume to promote high airway pressure pulmonary edema are unclear. Positive end-expiratory pressure (PEEP) was shown to reduce lung water content in this type of edema.
 
-    >>> Abstract
+    > Abstract
       The respective roles of high pressure and high tidal volume to promote high airway pressure pulmonary edema are unclear. Positive end-expiratory pressure (PEEP) was shown to reduce lung water content in this type of edema, but its possible effects on cellular lesions were not documented. We compared the consequences of normal tidal volume ventilation in mechanically ventilated rats at a high airway pressure (HiP-LoV) with those of high tidal volume ventilation at a high (HiP-HiV) or low (LoP-HiV) airway pressure and the effects of PEEP (10 cm H2O) on both edema and lung ultrastructure. Pulmonary edema was assessed by extravascular lung water content and microvascular permeability by the drug lung weight and the distribution space of 125I-labeled albumin. HiP-LoV rat lungs were not different from those of controls (7 cm H2O peak pressure ventilation). By contrast, the lungs from the groups submitted to high volume ventilation had significant permeability type edema. This edema was more pronounced in LoP-HiV rats. It was markedly reduced by PEEP, which, in addition, preserved the normal ultrastructural aspect of the alveolar epithelium. This was in striking contrast to the diffuse alveolar damage usually encountered in this type of edema. To our knowledge, this constitutes the first example of a protective effect of PEEP during permeability edema.
 
 
@@ -2157,7 +2157,7 @@ feed Pre2019
   ref 'Soni_et_al_2008
     head = Prolonged ventilation is associated with lung injury, infection, and multi-organ system dysfunction and if these may, even in part, be attributable to the physiological derangements described, then the real cost of ventilation, or oxygenation, is and has always been higher than was realized.
 
-    >>> Abstract
+    > Abstract
       Positive pressure ventilation is a radical departure from the physiology of breathing spontaneously. The immediate physiological consequences of positive pressure ventilation such as haemodynamic changes are recognized, studied, and understood. There are other significant physiological interactions which are less obvious, more insidious, and may only produce complications if ventilation is prolonged. The interaction of positive pressure with airway resistance and alveolar compliance affects distribution of gas flow within the lung. The result is a wide range of ventilation efficacy throughout different areas of the lung, but the pressure differentials between alveolus and interstitium also influence capillary perfusion. The hydrostatic forces across the capillaries associated with the effects of raised venous pressures compound these changes resulting in interstitial fluid sequestration. This is increased by impaired lymphatic drainage which is secondary to raised intrathoracic pressure but also influenced by raised central venous pressure. Ventilation and PEEP promulgate further physiological derangement. In theory, avoiding these physiological disturbances in a rested lung may be better for the lung and other organs. An alternative to positive pressure ventilation might be to investigate oxygen supplementation of a physiologically neutral and rested lung. Abandoning heroic ventilation would be a massive departure from current practice but might be a more rationale approach to future practice.
 
     # / Oct, 2008 - BJA: British Journal of Anaesthesia
@@ -2179,10 +2179,10 @@ feed Pre2019
   ref 'Perng_et_al_2018
     head = In this Review, we describe new insights into how ISG15 directly inhibits viral replication and discuss the recent finding that ISG15 modulates the host damage and repair response, immune response and other host signalling pathways. We also explore the viral immune-evasion strategies that counteract the actions of ISG15. These findings are integrated with a discussion of the recent identification of ISG15-deficient individuals and a cellular receptor for ISG15 that provides new insights into how ISG15 shapes the host response to viral infection.
 
-    >>> Abstract
+    > Abstract
       The host response to viral infection includes the induction of type I interferons and the subsequent upregulation of hundreds of interferon-stimulated genes. Ubiquitin-like protein ISG15 is an interferon-induced protein that has been implicated as a central player in the host antiviral response. Over the past 15 years, efforts to understand how ISG15 protects the host during infection have revealed that its actions are diverse and pathogen-dependent. In this Review, we describe new insights into how ISG15 directly inhibits viral replication and discuss the recent finding that ISG15 modulates the host damage and repair response, immune response and other host signalling pathways. We also explore the viral immune-evasion strategies that counteract the actions of ISG15. These findings are integrated with a discussion of the recent identification of ISG15-deficient individuals and a cellular receptor for ISG15 that provides new insights into how ISG15 shapes the host response to viral infection.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -2219,7 +2219,7 @@ feed Pre2019
   ref 'Seto_et_al_2003
     head = Practice of droplets precaution and contact precaution is adequate in significantly reducing the risk of infection after exposures to patients with SARS. The protective role of the mask suggests that in hospitals, infection is transmitted by droplets. This finding fits well with droplets transmission because droplets are generated at the face level making the mask crucial for protection.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -2248,7 +2248,7 @@ feed Pre2019
   ref 'Chondrogianni_et_al_2010
     head = In this study, we have identified QUER and its derivative, namely QU-CAP as a potent proteasome activator with antioxidant properties that consequently influence cellular lifespan, survival and viability. Moreover, we reveal a rejuvenating effect of these compounds on middleaged and terminally senescent primary fibroblasts. Although the anti-oxidant properties of QUER are already known, this is the first demonstration of its anti-ageing and rejuvenating effects in in vitro studies that link it with the proteasome and its activation
 
-    >>> Abstract
+    > Abstract
       Homeostasis is a key feature of the cellular lifespan. Its maintenance influences the rate of ageing and it is determined by several factors, including efficient proteolysis. The proteasome is the major cellular proteolytic machinery responsible for the degradation of both normal and damaged proteins. Alterations of proteasome function have been recorded in various biological phenomena including ageing and replicative senescence. Proteasome activities and function are decreased upon replicative senescence, whereas proteasome activation confers enhanced survival against oxidative stress, lifespan extension and maintenance of the young morphology longer in human primary fibroblasts. Several natural compounds possess anti-ageing/anti-oxidant properties. In this study, we have identified quercetin (QUER) and its derivative, namely quercetin caprylate (QU-CAP) as a proteasome activator with anti-oxidant properties that consequently influence cellular lifespan, survival and viability of HFL-1 primary human fibroblasts. Moreover, when these compounds are supplemented to already senescent fibroblasts, a rejuvenating effect is observed. Finally, we show that these compounds promote physiological alterations when applied to cells (i.e. whitening effect). In summary, these data demonstrate the existence of naturally occurring anti-ageing products that can be effectively used through topical application.
 
     # / Oct, 2010 - Experimental Gerontology
@@ -2260,7 +2260,7 @@ feed Pre2019
   ref 'Yi_et_al_2004
     head = TGG ( tetra-O-galloyl-β-d-glucose) and luteolin offer excellent opportunities for further optimization and potential clinical use as anti-SARS drugs. TGG is a component of Galla chinensis that has been used in traditional Chinese medicine for treating chronic coughing. Luteolin has been identified in extracts of many Chinese herbs such as Veronica lina riifolia Pall by MS. We found this was a component of Rhodiola kirilowii, which has been used in Chinese medicine for treating hepatitis and tuberculosis. These two compounds and the luteolin-related, FDA-approved quecertin, have potential for use in the clinical treatment of SARS.
 
-    >>> Abstract
+    > Abstract
       Severe acute respiratory syndrome coronavirus (SARS-CoV) is the pathogen of SARS, which caused a global panic in 2003. We describe here the screening of Chinese herbal medicine-based, novel small molecules that bind avidly with the surface spike protein of SARS-CoV and thus can interfere with the entry of the virus to its host cells. We achieved this by using a two-step screening method consisting of frontal affinity chromatography-mass spectrometry coupled with a viral infection assay based on a human immunodeficiency virus (HIV)-luc/SARS pseudotyped virus. Two small molecules, tetra-O-galloyl-β-d-glucose (TGG) and luteolin, were identified, whose anti-SARS-CoV activities were confirmed by using a wild-type SARS-CoV infection system. TGG exhibits prominent anti-SARS-CoV activity with a 50% effective concentration of 4.5 μM and a selective index of 240.0. The two-step screening method described here yielded several small molecules that can be used for developing new classes of anti-SARS-CoV drugs and is potentially useful for the high-throughput screening of drugs inhibiting the entry of HIV, hepatitis C virus, and other insidious viruses into their host cells.
       Severe acute respiratory syndrome (SARS) is a viral respiratory disease that spread to more than two-dozen countries in Asia, North America, South America, and Europe in the spring of 2003. Approximately 8,400 people worldwide suffered from SARS and more than 900 died according to a report of the World Health Organization executive board on 27 November 2003. A novel coronavirus, SARS-coronavirus (SARS-CoV), was identified as the pathogen that caused SARS. SARS-CoV is highly infectious and is transmitted via the respiratory route. Although the first outbreak is over, it is possible that even a low-level epidemic or accidental infection, as recently happened in Singapore and Taiwan, could cause a sudden worldwide epidemic. At present, few drugs are available for treating SARS. Ribavirin was initially used, but it proved to be barely effective and had serious side effects. Cinatl et al. reported recently that interferon exhibited anti-SARS-CoV potency and that glycyrrhizin had an anti-SARS-CoV activity with a 50% effective concentration (EC50) of 300 mg/liter (364.5 μM).
       We have targeted our drug discovery to small molecules that can inhibit SARS-CoV from entering its host cells. Virus entry is an attractive target step for therapy because it can block the propagation of virus at an early stage, thus minimizing the chance for the virus to evolve and acquire drug resistance. Inhibitors of the entry of several important viruses have been developed. For example, a new class of virus entry inhibitors has been developed for the human immunodeficiency virus type 1 (HIV-1), and one of these, T20 (enfuvirtide), is now in clinical usage. For the respiratory syncytial virus (RSV), the small molecules RFI 641 and VP-14637 have been developed to inhibit its entry process. For herpes simplex virus, entry inhibitors such as FGF4 signal peptide  and n-docosanol are under development.
@@ -2276,19 +2276,19 @@ feed Pre2019
   ref 'Hemilä_et_al_2017
     head =  Properly composed zinc gluconate lozenges may be as effective as zinc acetate lozenges. There is no evidence that zinc doses over 100 mg/day might lead to greater efficacy in the treatment of the common cold. Common cold patients may be encouraged to try zinc lozenges for treating their colds. The optimal lozenge composition and dosage scheme need to be investigated further.
 
-    >>> Objective
+    > Objective
       To compare the efficacy of zinc acetate lozenges with zinc gluconate lozenges in common cold treatment and to examine the dose-dependency of the effect.
 
-    >>> Setting
+    > Setting
       Placebo-controlled zinc lozenge trials, in which the zinc dose was > 75 mg/day. The pooled effect of zinc lozenges on common cold duration was calculated by using inverse-variance random-effects method.
 
-    >>> Participants
+    > Participants
       Seven randomised trials with 575 participants with naturally acquired common colds.
 
-    >>> Results
+    > Results
       The mean common cold duration was 33% (95% CI 21% to 45%) shorter for the zinc groups of the seven included trials. Three trials that used lozenges composed of zinc acetate found that colds were shortened by 40% and four trials that used zinc gluconate by 28%. The difference between the two salts was not significant: 12 percentage points (95% CI: -12 to + 36). Five trials used zinc doses of 80-92 mg/day, common cold duration was reduced by 33%, and two trials used zinc doses of 192-207 mg/day and found an effect of 35%. The difference between the high-dose and low-dose zinc trials was not significant: 2 percentage points (95% CI: -29 to + 32).
 
-    >>> Conclusion
+    > Conclusion
        Properly composed zinc gluconate lozenges may be as effective as zinc acetate lozenges. There is no evidence that zinc doses over 100 mg/day might lead to greater efficacy in the treatment of the common cold. Common cold patients may be encouraged to try zinc lozenges for treating their colds. The optimal lozenge composition and dosage scheme need to be investigated further.
 
     # / May, 2017 - JRSM Open
@@ -2301,7 +2301,7 @@ feed Pre2019
   ref 'Beck_et_al_1997
     head = Zinc may be required for regeneration of new CD4+ T lymphocytes and maintenance of T cytolytic cells. We conclude that an imbalance between TH1 and TH2 cells, decreased recruitment of T naive cells, and decreased percentage of T cytolytic cells may account for decreased cell-mediated immune functions in zinc-deficient subjects.
 
-    >>> Abstract
+    > Abstract
       We have utilized an experimental model of human zinc deficiency for study of cytokines production by TH1 and TH2 cells. Additionally, we determined ratios of CD4+ to CD8+ and CD4+ CD45RA+ to CD4+CD45RO+ cells and percentages of CD73+ T cytolytic cells in the CD8+ subset. The data were collected during baseline, at the end of the zinc-restricted period, and following zinc repletion. Our results showed that functions of TH1 cells, as evidenced by production of interferon-gamma, interleukin-2 (IL-2), and tumor necrosis factor-alpha, were decreased, whereas functions of TH2 cells (production of IL-4, IL-6, and IL-10) were unaffected by zinc deficiency. Thus an imbalance between TH1 and TH2 cells resulted because of zinc deficiency in humans. Our studies also showed that zinc may be required for regeneration of new CD4+ T lymphocytes and maintenance of T cytolytic cells. We conclude that an imbalance between TH1 and TH2 cells, decreased recruitment of T naive cells, and decreased percentage of T cytolytic cells may account for decreased cell-mediated immune functions in zinc-deficient subjects.
 
     #  / June, 1997 - Am J Physiol
@@ -2313,7 +2313,7 @@ feed Pre2019
   ref 'Lin_et_al_2016
     head =  Calcitriol reduced ACE levels and ACE/ACE2 ratio and increased ACE2 levels in diabetic rats. The renoprotective effects of calcitriol in diabetic nephropathy were related to the regulation of tubular levels of ACE and ACE2, possibly by p38 MAPK or ERK, but not JNK pathways.
 
-    >>> Abstract
+    > Abstract
       To investigate the effects of calcitriol on angiotensin-converting enzyme (ACE) and ACE2 in diabetic nephropathy. Streptozotocin (STZ) induced diabetic rats were treated with calcitriol for 16 weeks. ACE/ACE2 and mitogen activated protein kinase (MAPK) enzymes were measured in the kidneys of diabetic rats and rat renal tubular epithelial cells exposed to high glucose. Calcitriol reduced proteinuria in diabetic rats without affecting calcium-phosphorus metabolism. ACE and ACE2 levels were significantly elevated in diabetic rats compared to those in control rats. The increase in ACE levels was greater than that of ACE2, leading to an elevated ACE/ACE2 ratio. Calcitriol reduced ACE levels and ACE/ACE2 ratio and increased ACE2 levels in diabetic rats. Similarly, high glucose up-regulated ACE expression in NRK-52E cells, which was blocked by the p38 MAPK inhibitor SB203580, but not the extracellular signal-regulated kinase (ERK) inhibitor FR180204 or the c-Jun N-terminal kinase (JNK) inhibitor SP600125. High glucose down-regulated ACE2 expression, which was blocked by FR180204, but not SB203580 or SP600125. Incubation of cells with calcitriol significantly inhibited p38 MAPK and ERK phosphorylation, but not JNK phosphorylation, and effectively attenuated ACE up-regulation and ACE2 down-regulation in high glucose conditions. The renoprotective effects of calcitriol in diabetic nephropathy were related to the regulation of tubular levels of ACE and ACE2, possibly by p38 MAPK or ERK, but not JNK pathways.
 
     # / May, 2016 - Mol Biol Rep
@@ -2325,7 +2325,7 @@ feed Pre2019
   ref 'Xu_et_al_2017
     head = Vitamin D agonist, calcitriol, exhibited a beneficial effect on LPS-induced ALI in rats; calcitriol pretreatment significantly improved LPS-induced lung permeability, as determined using Evans blue dye. Calcitriol also modulated the expression of members of the renin-angiotensin system (RAS), including angiotensin (Ang) I-converting enzymes (ACE and ACE2), renin and Ang II, which indicates that calcitriol may exert protective effects on LPS-induced lung injury.
 
-    >>> Abstract
+    > Abstract
       Acute lung injury (ALI) and acute respiratory distress syndrome (ARDS) are the clinical manifestations of severe lung damage and respiratory failure. ALI and ARDS result are associated with high mortality in patients. At present, no effective treatments for ALI and ARDS exist. It is established that vitamin D exhibits anti-inflammatory effects, however, the specific effect of vitamin D on ALI remains largely unknown. The aim of the present study was to investigate whether, and by which mechanism, vitamin D alleviates lipopolysaccharide (LPS)-induced ALI. The results demonstrated that a vitamin D agonist, calcitriol, exhibited a beneficial effect on LPS-induced ALI in rats; calcitriol pretreatment significantly improved LPS-induced lung permeability, as determined using Evans blue dye. Results from reverse transcription-quantitative polymerase chain reaction, western blotting and ELISA analysis demonstrated that calcitriol also modulated the expression of members of the renin-angiotensin system (RAS), including angiotensin (Ang) I-converting enzymes (ACE and ACE2), renin and Ang II, which indicates that calcitriol may exert protective effects on LPS-induced lung injury, at least partially, by regulating the balance between the expression of members of the RAS. The results of the present study may provide novel targets for the future treatment of ALI.
 
     # / Sept, 2017 - Molecular Medicine Reports
@@ -2337,19 +2337,19 @@ feed Pre2019
   ref 'Martineau_et_al_2017
     head = In this individual participant data (IPD) meta-analysis of randomised controlled trials, vitamin D supplementation reduced the risk of experiencing at least one acute respiratory tract infection. Subgroup analysis revealed that daily or weekly vitamin D supplementation without additional bolus doses protected against acute respiratory tract infection, whereas regimens containing large bolus doses did not.
 
-    >>> Objective
+    > Objective
       To assess the overall effect of vitamin D supplementation on risk of acute respiratory tract infection, and to identify factors modifying this effect.
 
-    >>> Data Sources
+    > Data Sources
       Systematic review and meta-analysis of individual participant data (IPD) from randomised controlled trials.
 
-    >>> Eligibility criteria for study selection
+    > Eligibility criteria for study selection
       Randomised, double blind, placebo controlled trials of supplementation with vitamin D3 or vitamin D2 of any duration were eligible for inclusion if they had been approved by a research ethics committee and if data on incidence of acute respiratory tract infection were collected prospectively and prespecified as an efficacy outcome.
 
-    >>> Results
+    > Results
       25 eligible randomised controlled trials (total 11 321 participants, aged 0 to 95 years) were identified. IPD were obtained for 10 933 (96.6%) participants. Vitamin D supplementation reduced the risk of acute respiratory tract infection among all participants (adjusted odds ratio 0.88, 95% confidence interval 0.81 to 0.96; P for heterogeneity <0.001). In subgroup analysis, protective effects were seen in those receiving daily or weekly vitamin D without additional bolus doses (adjusted odds ratio 0.81, 0.72 to 0.91) but not in those receiving one or more bolus doses (adjusted odds ratio 0.97, 0.86 to 1.10; P for interaction=0.05). Among those receiving daily or weekly vitamin D, protective effects were stronger in those with baseline 25-hydroxyvitamin D levels <25 nmol/L (adjusted odds ratio 0.30, 0.17 to 0.53) than in those with baseline 25-hydroxyvitamin D levels ≥25 nmol/L (adjusted odds ratio 0.75, 0.60 to 0.95; P for interaction=0.006). Vitamin D did not influence the proportion of participants experiencing at least one serious adverse event (adjusted odds ratio 0.98, 0.80 to 1.20, P=0.83). The body of evidence contributing to these analyses was assessed as being of high quality.
 
-    >>> Conclusions
+    > Conclusions
       Vitamin D supplementation was safe and it protected against acute respiratory tract infection overall. Patients who were very vitamin D deficient and those not receiving bolus doses experienced the most benefit.
 
 
@@ -2362,7 +2362,7 @@ feed Pre2019
   ref 'Jolliffe_et_al_2018
     head =  We report that a polymorphism in VDR (Vitamin D receptor) independently associates with susceptibility to URI (upper respiratory infections) in both adults and children. Given that the VDR is exclusively involved in vitamin D signalling, our findings lend weight to the growing body of evidence suggesting a role for the vitamin D pathway in mediating protection against respiratory infections.
 
-    >>> Abstract
+    > Abstract
       SNP in the vitamin D receptor (VDR) gene is associated with risk of lower respiratory infections. The influence of genetic variation in the vitamin D pathway resulting in susceptibility to upper respiratory infections (URI) has not been investigated. We evaluated the influence of thirty-three SNP in eleven vitamin D pathway genes (DBP, DHCR7, RXRA, CYP2R1, CYP27B1, CYP24A1, CYP3A4, CYP27A1, LRP2, CUBN and VDR) resulting in URI risk in 725 adults in London, UK, using an additive model with adjustment for potential confounders and correction for multiple comparisons. Significant associations in this cohort were investigated in a validation cohort of 737 children in Manchester, UK. In all, three SNP in VDR (rs4334089, rs11568820 and rs7970314) and one SNP in CYP3A4 (rs2740574) were associated with risk of URI in the discovery cohort after adjusting for potential confounders and correcting for multiple comparisons (adjusted incidence rate ratio per additional minor allele ≥1·15, Pfor trend ≤0·030). This association was replicated for rs4334089 in the validation cohort (Pfor trend=0·048) but not for rs11568820, rs7970314 or rs2740574. Carriage of the minor allele of the rs4334089 SNP in VDR was associated with increased susceptibility to URI in children and adult cohorts in the United Kingdom.
 
     # / October, 2018 - Cambridge Core
@@ -2374,28 +2374,28 @@ feed Pre2019
   ref 'Afzal_et_al_2018
     head = Genetically low 25-hydroxyvitamin D concentrations were associated with increased all cause mortality, cancer mortality, and other mortality but not with increased cardiovascular mortality. These findings are compatible with the notion that genetically low 25-hydroxyvitamin D concentrations may be causally associated with cancer and other mortality but also suggest that the observational association with cardiovascular mortality could be the result of confounding.
 
-    >>> Objective
+    > Objective
       To test the hypothesis that genetically low 25-hydroxyvitamin D concentrations are associated with increased mortality.
 
-    >>> Design
+    > Design
       Mendelian randomisation analysis.
 
-    >>> Setting
+    > Setting
       Copenhagen City Heart Study, Copenhagen General Population Study, and Copenhagen Ischemic Heart Disease Study.
 
-    >>> Participants
+    > Participants
       95 766 white participants of Danish descent from three cohorts, with median follow-up times of 19.1, 5.8, and 7.9 years, genotyped for genetic variants in DHCR7 and CYP2R1 affecting plasma 25-hydroxyvitamin D concentrations; 35 334 also had plasma 25-hydroxyvitamin D measurements. Participants were followed from study entry through 2013, during which time 10 349 died.
 
-    >>> Main outcome measures
+    > Main outcome measures
       All cause mortality and cause specific mortality, adjusted for common risk factors for all cause mortality based on the World Health Organization’s global health status.
 
-    >>> Results
+    > Results
       The multivariable adjusted hazard ratios for a 20 nmol/L lower plasma 25-hydroxyvitamin D concentration were 1.19 (95% confidence interval 1.14 to 1.25) for all cause mortality, 1.18 (1.09 to 1.28) for cardiovascular mortality, 1.12 (1.03 to 1.22) for cancer mortality, and 1.27 (1.15 to 1.40) for other mortality. Each increase in DHCR7/CYP2R1 allele score was associated with a 1.9 nmol/L lower plasma 25-hydroxyvitamin D concentration and with increased all cause, cancer, and other mortality but not with cardiovascular mortality. The odds ratio for a genetically determined 20 nmol/L lower plasma 25-hydroxyvitamin D concentration was 1.30 (1.05 to 1.61) for all cause mortality, with a corresponding observational multivariable adjusted odds ratio of 1.21 (1.11 to 1.31). Corresponding genetic and observational odds ratios were 0.77 (0.55 to 1.08) and 1.13 (1.03 to 1.24) for cardiovascular mortality, 1.43 (1.02 to 1.99) and 1.10 (1.02 to 1.19) for cancer mortality, and 1.44 (1.01 to 2.04) and 1.17 (1.06 to 1.29) for other mortality. The results were robust in sensitivity analyses.
 
-    >>> Conclusions
+    > Conclusions
       Genetically low 25-hydroxyvitamin D concentrations were associated with increased all cause mortality, cancer mortality, and other mortality but not with increased cardiovascular mortality. These findings are compatible with the notion that genetically low 25-hydroxyvitamin D concentrations may be causally associated with cancer and other mortality but also suggest that the observational association with cardiovascular mortality could be the result of confounding.
 
-    -- quotes
+    - quotes
       !a
       !b
 
@@ -2411,7 +2411,7 @@ feed Pre2019
   ref 'Wang_et_al_2005b
     head = 1α, 25-Dihydroxyvitamin D3 [1,25(OH)2D3] regulates calcium homeostasis and controls cellular differentiation and proliferation.,25(OH)2D3 is also a modulator of the immune responses, consistent with broad expression of the vitamin D receptor (VDR) in cells of the immune system and the capacity of 1,25(OH)2D3 to regulate cellular differentiation.
 
-    >>> Abstract
+    > Abstract
       1α,25-Dihydroxyvitamin D3 [1,25(OH)2D3] regulates calcium homeostasis and controls cellular differentiation and proliferation. The vitamin D receptor (VDR) is a ligand-regulated transcription factor that recognizes cognate vitamin D response elements (VDREs) formed by direct or everted repeats of PuG(G/T)TCA motifs separated by 3 or 6 bp (DR3 or ER6). Here, we have identified direct 1,25(OH)2D3 target genes by combining 35,000+ gene microarrays and genome-wide screens for consensus DR3 and ER6 elements, and DR3 elements containing single nucleotide substitutions. We find that the effect of a nucleotide substitution on VDR binding in vitro does not predict VDRE function in vivo, because substitutions that disrupted binding in vitro were found in several functional elements. Hu133A microarray analyses, performed with RNA from human SCC25 cells treated with 1,25(OH)2D3 and protein synthesis inhibitor cycloheximide, identified more than 900 regulated genes. VDREs lying within −10 to +5 kb of 5′-ends were assigned to 65% of these genes, and VDR binding was confirmed to several elements in vivo. A screen of the mouse genome identified more than 3000 conserved VDREs, and 158 human genes containing conserved elements were 1,25(OH2)D3-regulated on Hu133A microarrays. These experiments also revealed 16 VDREs in 11 of 12 genes induced more than 10-fold in our previous microarray study, five elements in the human gene encoding the epithelial calcium channel TRPV6, as well as novel 1,25(OH2)D3 target genes implicated in regulation of cell cycle progression. The combined approaches used here thus provide numerous insights into the direct target genes underlying the broad physiological actions of 1,25(OH)2D3.
 
     # / November, 2005 - Molecular Endocrinology
@@ -2423,19 +2423,19 @@ feed Pre2019
   ref 'Wortsman_et_al_2020
     head = Obesity-associated vitamin D insufficiency is likely due to the decreased bioavailability of vitamin D(3) from cutaneous and dietary sources because of its deposition in body fat compartments.
 
-    >>> Background
+    > Background
       Obesity is associated with vitamin D insufficiency and secondary hyperparathyroidism.
 
-    >>> Objective
+    > Objective
       This study assessed whether obesity alters the cutaneous production of vitamin D(3) (cholecalciferol) or the intestinal absorption of vitamin D(2) (ergocalciferol).
 
-    >>> Design
+    > Design
       Healthy, white, obese [body mass index (BMI; in kg/m(2)) > or = 30] and matched lean control subjects (BMI </= 25) received either whole-body ultraviolet radiation or a pharmacologic dose of vitamin D(2) orally.
 
-    >>> Results
+    > Results
       Obese subjects had significantly lower basal 25-hydroxyvitamin D concentrations and higher parathyroid hormone concentrations than did age-matched control subjects. Evaluation of blood vitamin D(3) concentrations 24 h after whole-body irradiation showed that the incremental increase in vitamin D(3) was 57% lower in obese than in nonobese subjects. The content of the vitamin D(3) precursor 7-dehydrocholesterol in the skin of obese and nonobese subjects did not differ significantly between groups nor did its conversion to previtamin D(3) after irradiation in vitro. The obese and nonobese subjects received an oral dose of 50000 IU (1.25 mg) vitamin D(2). BMI was inversely correlated with serum vitamin D(3) concentrations after irradiation (r = -0.55, P: = 0.003) and with peak serum vitamin D(2) concentrations after vitamin D(2) intake (r = -0.56, P: = 0.007).
 
-    >>> Conclusions
+    > Conclusions
       Obesity-associated vitamin D insufficiency is likely due to the decreased bioavailability of vitamin D(3) from cutaneous and dietary sources because of its deposition in body fat compartments.
 
     # / May, 2003 - Am J Clin Nutr
@@ -2447,7 +2447,7 @@ feed Pre2019
   ref 'Liu_et_al_2018
     head = The prevalences of VDD (Vitamin D Deficiency) and VDI (Insufficiency) in 2001–2010 were 28·9 and 41·4 %, respectively. Adults who were black, less educated, poor, obese, current smokers, physically inactive and infrequent milk consumers had a higher prevalence of VDD. After adjustment for other potential predictors, obese adults showed 3·09 times higher prevalence of VDD and 1·80 times higher prevalence of VDI than non-obese adults. Physically inactive adults had 2·00 and 1·36 times higher prevalence of VDD and VDI than active peers.
 
-    >>> Abstract
+    > Abstract
       Vitamin D deficiency (VDD) and insufficiency (VDI) are increasing at a global level, and they are associated with increased risk of various diseases. However, little information is available on the prevalence and predictors of VDD and VDI in a representative population of US adults. Serum 25-hydroxyvitamin D (25(OH)D) measurements were collected from 26 010 adults aged ≥18 years from the National Health and Nutrition Examination Survey (NHANES) 2001-2010. Using thresholds recommended by the Endocrine Society, VDD was defined as 25(OH)D<50 nmol/l and VDI as 50≤25(OH)D<75 nmol/l. Weighted multinomial log-binomial regression was conducted to estimate prevalence ratios of VDD and VDI. The prevalences of VDD and VDI in 2001-2010 were 28·9 and 41·4 %, respectively. Adults who were black, less educated, poor, obese, current smokers, physically inactive and infrequent milk consumers had a higher prevalence of VDD. After adjustment for other potential predictors, obese adults showed 3·09 times higher prevalence of VDD and 1·80 times higher prevalence of VDI than non-obese adults. Physically inactive adults had 2·00 and 1·36 times higher prevalence of VDD and VDI than active peers. Compared with frequent consumers, rare consumers of milk had 2·44 and 1·25 times higher prevalence of VDD and VDI, respectively. Current alcohol drinkers had 38 % lower prevalence of VDD than non-drinkers. Awareness of the high prevalence of VDD and VDI among US adults and related predictors could inform behavioural and dietary strategies for preventing VDD and monitoring VDI, especially in old, black, obese and inactive individuals who report rare consumption of milk.
 
     # / April, 2018 -  Br J Nutr.
@@ -2459,7 +2459,7 @@ feed Pre2019
   ref 'Raharusun_et_al_2020
     head = Older and male cases with pre-existing condition and below normal Vitamin D levels were associated with increasing odds of death. When controlling for age, sex, and comorbidity, Vitamin D status is strongly associated with COVID-19 mortality outcome of cases.
 
-    >>> Abstract
+    > Abstract
       This is a retrospective cohort study which included two cohorts (active and expired) of 780 cases with laboratory-confirmed infection of SARS-CoV-2 in Indonesia. Age, sex, co-morbidity, Vitamin D status, and disease outcome (mortality) were extracted from electronic medical records. The aim was to determine patterns of mortality and associated factors, with a special focus on Vitamin D status. Results revealed that majority of the death cases were male and older and had pre-existing condition and below normal Vitamin D serum level. Univariate analysis revealed that older and male cases with pre-existing condition and below normal Vitamin D levels were associated with increasing odds of death. When controlling for age, sex, and comorbidity, Vitamin D status is strongly associated with COVID-19 mortality outcome of cases.
 
     # / April, 2020 - SSRN
@@ -2471,16 +2471,16 @@ feed Pre2019
   ref 'Chan_et_al_2013
     head = We conducted a seroprevalence study on archived sera from 94 game-food animal handlers at a wild life market, 28 SARS patients, and 152 healthy blood donors. Convalescent SARS sera may contain cross-reactive antibodies against other betacoronaviruses and confound seroprevalence study for HCoV-EMC.
 
-    >>> Objective
+    > Objective
       A severe acute respiratory syndrome (SARS)-like disease due to a novel betacoronavirus, human coronavirus EMC (HCoV-EMC), has emerged recently. HCoV-EMC is phylogenetically closely related to Tylonycteris-bat-coronavirus-HKU4 and Pipistrellus-bat-coronavirus-HKU5 in Hong Kong. We conducted a seroprevalence study on archived sera from 94 game-food animal handlers at a wild life market, 28 SARS patients, and 152 healthy blood donors in Southern China to assess the zoonotic potential and evidence for intrusion of HCoV-EMC and related viruses into humans.
 
-    >>> Methods
+    > Methods
       Anti-HCoV-EMC and anti-SARS-CoV antibodies were detected using screening indirect immunofluorescence (IF) and confirmatory neutralizing antibody tests.
 
-    >>> Results
+    > Results
       Two (2.1%) animal handlers had IF antibody titer of ≥1:20 against both HCoV-EMC and SARS-CoV with neutralizing antibody titer of <1:10. No blood donor had antibody against either virus. Surprisingly, 17/28 (60.7%) of SARS patients had significant IF antibody titers with 7/28 (25%) having anti-HCoV-EMC neutralizing antibodies at low titers which significantly correlated with that of HCoV-OC43. Bioinformatics analysis demonstrated a significant B-cell epitope overlapping the heptad repeat-2 region of Spike protein. Virulence of SARS-CoV over other betacoronaviruses may boost cross-reactive neutralizing antibodies against other betacoronaviruses.
 
-    >>> Conclusion
+    > Conclusion
       Convalescent SARS sera may contain cross-reactive antibodies against other betacoronaviruses and confound seroprevalence study for HCoV-EMC.
 
     # / Aug, 2013 - The Journal of infection
@@ -2493,7 +2493,7 @@ feed Pre2019
   ref 'Xu_et_al_2015
     head = We assayed over 10(8) antibody-peptide interactions in 569 humans across four continents. We detected antibodies to an average of 10 viral species per person and 84 species in at least two individuals. Although rates of specific virus exposure were heterogeneous across populations, antibody responses targeted strongly conserved "public epitopes" for each virus, suggesting that they may elicit highly similar antibodies.
 
-    >>> Abstract
+    > Abstract
       The human virome plays important roles in health and immunity. However, current methods for detecting viral infections and antiviral responses have limited throughput and coverage. Here, we present VirScan, a high-throughput method to comprehensively analyze antiviral antibodies using immunoprecipitation and massively parallel DNA sequencing of a bacteriophage library displaying proteome-wide peptides from all human viruses. We assayed over 10(8) antibody-peptide interactions in 569 humans across four continents, nearly doubling the number of previously established viral epitopes. We detected antibodies to an average of 10 viral species per person and 84 species in at least two individuals. Although rates of specific virus exposure were heterogeneous across populations, antibody responses targeted strongly conserved "public epitopes" for each virus, suggesting that they may elicit highly similar antibodies. VirScan is a powerful approach for studying interactions between the virome and the immune system.
 
     # / June, 2015 - Science
@@ -2506,7 +2506,7 @@ feed Pre2019
     head = We found that CMV infection enhances the immune responses of younger adults, as it also in an inbred mouse model. The fact that it did not enhance the responses of older adults indicates that this effect requires a robust immune system, which is interesting in that it largely confines the benefits of infection to those of child-bearing age. Finally, while CMV is clearly a pathogen for immunodeficient individuals and some infants, the data presented here indicate that it is beneficial to a great many more people.
 
 
-    >>> Abstract
+    > Abstract
       Cytomegalovirus (CMV) is a beta-herpes virus present in a latent form in most people worldwide. In immunosuppressed individuals, CMV can reactivate and cause serious clinical complications, but the effect of the latent state on healthy people remains elusive. We undertook a systems approach to understand the differences between seropositive and negative subjects and measured hundreds of immune system components from blood samples including cytokines and chemokines, immune cell phenotyping, gene expression, ex vivo cell responses to cytokine stimuli and the antibody response to seasonal influenza vaccination. As expected, we found decreased responses to vaccination and an overall down-regulation of immune components in aged individuals regardless of CMV serostatus. In contrast, CMV-infected young adults exhibited an overall up-regulation of immune components including enhanced antibody responses to influenza vaccination, increased CD8+ T cell sensitivity, and elevated levels of circulating IFN-γ compared to uninfected individuals. Experiments with young mice infected with murine CMV also showed significant protection from an influenza virus challenge compared with uninfected animals, although this effect declined with time. These data show that CMV and its murine equivalent can have a beneficial effect on the immune response of young, healthy individuals, which may explain the continued coexistence of CMV and mammals throughout their evolution.
 
     # / April, 2015 - Sci Transl Med
@@ -2518,19 +2518,19 @@ feed Pre2019
   ref 'Wu_et_al_2020e
     head = This was a cluster epidemic of COVID-19, which might be associated with the exposure in the department store. By now, the current prevention and control measures have achieved satisfied effects.
 
-    >>> Objective
+    > Objective
       To describe the epidemiological characteristics of a cluster of COVID-19 cases reported in Baodi district of Tianjin as of 18 February, 2020, which might be associated with the exposure in a local department store, and provide suggestions for prevention and control strategy development.
 
-    >>> Methods
+    > Methods
       The basic characteristics, time and area distributions, clinical manifestations, epidemiological history and transmission mode of the COVID-19 cases associated with the department store exposure were analyzed
 
-    >>> Results
+    > Results
       A total of 40 COVID-19 cases were associated with the department store exposure, accounting for 75.47% of the total confirmed cases (53 cases) reported in Baodi district. The cases were mainly at the age of 60 years or older (35.00%) and farmers (40.00%). The main clinical manifestations included fever (95.00%), cough (35.00%), and diarrhea (15.00%). The proportion of confirmed severe cases was 32.50%. The incidence curve showed that the incidence peak occurred on 31 January, 2020. Among the 40 cases, 6(15.00%) were department store employees, 19 (47.50%) were customers and 15 (37.50%) were close contacts (secondary cases). The first case occurred on 21 January, 2020, this case was a department store employee who had a purchasing history at whole sale markets in other provinces and cities before the onset, and 3 employees were still on duty after symptom onsets. The median of the incubation period of customer cases was 6 days, and the median of the interval between onset and medical treatment of customer cases was 7 days.
 
-    >>> Conclusion
+    > Conclusion
       This was a cluster epidemic of COVID-19, which might be associated with the exposure in the department store. By now, the current prevention and control measures have achieved satisfied effects.
 
-    -- quotes
+    - quotes
       !a
 
     / April, 2020 - Chinese Journal of Epidemiology
@@ -2542,19 +2542,19 @@ feed Pre2019
   ref 'Mcmichael_et_al_2020
     head = In total, 167 confirmed cases of Covid-19 had been identified among residents, personnel, and visitors as of March 18, and 30 skilled nursing and assisted living facilities in King County had identified at least one confirmed case of Covid-19. Staff working in multiple facilities while ill and transfers of patients from one facility to another potentially introduced Covid-19 into some of these facilities.
 
-    >>> Background
+    > Background
       Long-term care facilities are high-risk settings for severe outcomes from outbreaks of Covid-19, owing to both the advanced age and frequent chronic underlying health conditions of the residents and the movement of health care personnel among facilities in a region.
 
-    >>> Methods
+    > Methods
       After identification on February 28, 2020, of a confirmed case of Covid-19 in a skilled nursing facility in King County, Washington, Public Health–Seattle and King County, aided by the Centers for Disease Control and Prevention, launched a case investigation, contact tracing, quarantine of exposed persons, isolation of confirmed and suspected cases, and on-site enhancement of infection prevention and control.
 
-    >>> Results
+    > Results
       As of March 18, a total of 167 confirmed cases of Covid-19 affecting 101 residents, 50 health care personnel, and 16 visitors were found to be epidemiologically linked to the facility. Most cases among residents included respiratory illness consistent with Covid-19; however, in 7 residents no symptoms were documented. Hospitalization rates for facility residents, visitors, and staff were 54.5%, 50.0%, and 6.0%, respectively. The case fatality rate for residents was 33.7% (34 of 101). As of March 18, a total of 30 long-term care facilities with at least one confirmed case of Covid-19 had been identified in King County.
 
-    >>> Conclusion
+    > Conclusion
       In the context of rapidly escalating Covid-19 outbreaks, proactive steps by long-term care facilities to identify and exclude potentially infected staff and visitors, actively monitor for potentially infected patients, and implement appropriate infection prevention and control measures are needed to prevent the introduction of Covid-19.
 
-    -- quotes
+    - quotes
       !a
 
     / May, 2020 - NEJM
@@ -2581,16 +2581,16 @@ feed Pre2019
   ref 'Elikaei_et_al_2006
     head = Results showed that the employed method (Riboflavin concentration and ultraviolet in three different energy doses) can inactivate most of the pathogens in fresh frozen plasma. The acceptable activities of selected plasma proteins remained after treatment.
 
-    >>> Background and objectives
+    > Background and objectives
       Pathogen reduction technologies are among methods to eliminate transfusion transmitted infections. Mirasol method using riboflavin in combination with ultraviolet rays is one of them. The aims of this study were to investigate the effectiveness of Mirasol method to inactivate some model pathogens as well as examination of the sensitivity of plasma proteins after treatment.
 
-    >>> Materials and methods
+    > Materials and methods
       Riboflavin in 50μM concentration and ultraviolet (365 nm) in three different energy doses (3.6, 7.2, and 10.8 j/cm2) were employed to inactivate model pathogens. Four standard viruses were used in this study including Vesicular Stomatitis Virus (VSV), Herpes Simplex Virus1 (HSV-1), Bovine Viral Diarrhea Virus (BVDV) and Polio Virus. 50% Tissue Culture Infectious Dose (TCID50) and Reed-Muench Methods were used to estimate viruses' titers. E. coli and Staphylococcus aureus were used as bacterial models. Four plasma proteins including factor V, VIII, fibrinogen and antithromin were used to determine their sensitivity to pathogen inactivation treatment.
 
-    >>> Results
+    > Results
       The most pathogen reduction titre was determined for 15 minutes irradiation period equal to 10.8 J/cm2 that is corresponding to Log 6.10 for BVDV, Log 6.09 for HSV-1, Log 6.62 for VSV and Log 3.36 for Polio. Bacterial reduction titer was Log 6.94 for E. coli and Log 7.00 for S. aureus. Indicator proteins for plasma activity were determined to be 75% for factor V, 88% for factor VIII, 52% for fibrinogen and 94% for antithrombin.
 
-    >>> Conclusion
+    > Conclusion
       Results showed that the employed method can inactivate most of the pathogens in fresh frozen plasma. The acceptable activities of selected plasma proteins remained after treatment.
 
 
@@ -2604,7 +2604,7 @@ feed Pre2019
   ref 'Welch_et_al_2018
     head = We show for the first time that far-UVC efficiently inactivates airborne aerosolized viruses, with a very low dose of 2 mJ/cm2 of 222-nm light inactivating >95% of aerosolized H1N1 influenza virus. It does not produce biological damage to exposed mammalian cells and tissues
 
-    >>> Abstract
+    > Abstract
       Airborne-mediated microbial diseases such as influenza and tuberculosis represent major public health challenges. A direct approach to prevent airborne transmission is inactivation of airborne pathogens, and the airborne antimicrobial potential of UVC ultraviolet light has long been established; however, its widespread use in public settings is limited because conventional UVC light sources are both carcinogenic and cataractogenic. By contrast, we have previously shown that far-UVC light (207–222 nm) efficiently inactivates bacteria without harm to exposed mammalian skin. This is because, due to its strong absorbance in biological materials, far-UVC light cannot penetrate even the outer (non living) layers of human skin or eye; however, because bacteria and viruses are of micrometer or smaller dimensions, far-UVC can penetrate and inactivate them. We show for the first time that far-UVC efficiently inactivates airborne aerosolized viruses, with a very low dose of 2 mJ/cm2 of 222-nm light inactivating >95% of aerosolized H1N1 influenza virus. Continuous very low dose-rate far-UVC light in indoor public locations is a promising, safe and inexpensive tool to reduce the spread of airborne-mediated microbial diseases.
 
     # -- quotes
@@ -2620,19 +2620,19 @@ feed Pre2019
   ref 'Lin_et_al_2003
     head = While increase of HLA-B* 4601 allele frequency was observed in the "Probable SARS infected" patient group, a further significant increase of the allele was seen in the "Severe cases" patient group. These results appeared to indicate association of HLA-B* 4601 with the severity of SARS infection in Asian populations. Independent studies are needed to test these results.
 
-    >>> Background
+    > Background
       The human leukocyte antigen (HLA) system is widely used as a strategy in the search for the etiology of infectious diseases and autoimmune disorders. During the Taiwan epidemic of severe acute respiratory syndrome (SARS), many health care workers were infected. In an effort to establish a screening program for high risk personal, the distribution of HLA class I and II alleles in case and control groups was examined for the presence of an association to a genetic susceptibly or resistance to SARS coronavirus infection.
 
-    >>> Methods
+    > Methods
       HLA-class I and II allele typing by PCR-SSOP was performed on 37 cases of probable SARS, 28 fever patients excluded later as probable SARS, and 101 non-infected health care workers who were exposed or possibly exposed to SARS coronavirus. An additional control set of 190 normal healthy unrelated Taiwanese was also used in the analysis.
 
-    >>> Results
+    > Results
       Woolf and Haldane Odds ratio (OR) and corrected P-value (Pc) obtained from two tails Fisher exact test were used to show susceptibility of HLA class I or class II alleles with coronavirus infection. At first, when analyzing infected SARS patients and high risk health care workers groups, HLA-B*4601 (OR = 2.08, P = 0.04, Pc = n.s.) and HLA-B*5401 (OR = 5.44, P = 0.02, Pc = n.s.) appeared as the most probable elements that may be favoring SARS coronavirus infection. After selecting only a "severe cases" patient group from the infected "probable SARS" patient group and comparing them with the high risk health care workers group, the severity of SARS was shown to be significantly associated with HLA-B*4601 (P = 0.0008 or Pc = 0.0279).
 
-    >>> Conclusions
+    > Conclusions
       Densely populated regions with genetically related southern Asian populations appear to be more affected by the spreading of SARS infection. Up until recently, no probable SARS patients were reported among Taiwan indigenous peoples who are genetically distinct from the Taiwanese general population, have no HLA-B* 4601 and have high frequency of HLA-B* 1301. While increase of HLA-B* 4601 allele frequency was observed in the "Probable SARS infected" patient group, a further significant increase of the allele was seen in the "Severe cases" patient group. These results appeared to indicate association of HLA-B* 4601 with the severity of SARS infection in Asian populations. Independent studies are needed to test these results.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -2669,10 +2669,10 @@ feed Pre2019
   ref 'Paul_et_al_2013
     head = Absolute binding capacity is a better predictor of immunogenicity, and analysis of epitopes from the Immune Epitope Database revealed that predictive efficacy is increased using allele-specific affinity thresholds. We investigated the genetic and structural basis of the phenomenon. Although no stringent correlate was defined, on average HLA B alleles are associated with significantly narrower repertoires than are HLA A alleles.
 
-    >>> Abstract
+    > Abstract
       Prediction of HLA binding affinity is widely used to identify candidate T cell epitopes, and an affinity of 500 nM is routinely used as a threshold for peptide selection. However, the fraction (percentage) of peptides predicted to bind with affinities of 500 nM varies by allele. For example, of a large collection of ∼30,000 dengue virus–derived peptides only 0.3% were predicted to bind HLA A*0101, wheras nearly 5% were predicted for A*0201. This striking difference could not be ascribed to variation in accuracy of the algorithms used, as predicted values closely correlated with affinity measured in vitro with purified HLA molecules. These data raised the question whether different alleles would also vary in terms of epitope repertoire size, defined as the number of associated epitopes or, alternatively, whether alleles vary drastically in terms of the affinity threshold associated with immunogenicity. To address this issue, strains of HLA transgenic mice with wide (A*0201), intermediate (B*0702), or narrow (A*0101) repertoires were immunized with peptides of varying binding affinity and relative percentile ranking. The results show that absolute binding capacity is a better predictor of immunogenicity, and analysis of epitopes from the Immune Epitope Database revealed that predictive efficacy is increased using allele-specific affinity thresholds. Finally, we investigated the genetic and structural basis of the phenomenon. Although no stringent correlate was defined, on average HLA B alleles are associated with significantly narrower repertoires than are HLA A alleles.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -2705,7 +2705,7 @@ feed Pre2019
   ref 'Blackwell_et_al_2009
     head = This review looks afresh at the evidence supporting a role for classical HLA loci in susceptibility to infectious disease, with the goal to relate these to immune processes. It also examines the limitations of data reported to date, and discusses current advances in methodology and technology that will potentially lead to greater understanding of their role in infectious diseases in the future.
 
-    >>> Summary
+    > Summary
       Following their discovery in the early 1970s, classical human leukocyte antigen (HLA) loci have been the prototypical candidates for genetic susceptibility to infectious disease. Indeed, the original hypothesis for the extreme variability observed at HLA loci (H-2 in mice) was the major selective pressure from infectious diseases. Now that both the human genome and the molecular basis of innate and acquired immunity are understood in greater detail, do the classical HLA loci still stand out as major genes that determine susceptibility to infectious disease? This review looks afresh at the evidence supporting a role for classical HLA loci in susceptibility to infectious disease, examines the limitations of data reported to date, and discusses current advances in methodology and technology that will potentially lead to greater understanding of their role in infectious diseases in the future.
 
 
@@ -2720,13 +2720,13 @@ feed Pre2019
   ref 'Langwig_et_al_2017
     head = Our data emphasize the importance of incorporating heterogeneity in susceptibility in estimates of control measure efficacy. Inclusion of this variance will help to improve prediction of vaccine effectiveness, provide insight into how vaccination shapes population susceptibility and have broad applicability to human, wildlife, and ecosystem health.
 
-    >>> Abstract
+    > Abstract
       Heterogeneity in host susceptibility is a key determinant of infectious disease dynamics but is rarely accounted for in assessment of disease control measures. Understanding how susceptibility is distributed in populations, and how control measures change this distribution, is integral to predicting the course of epidemics with and without interventions. Using multiple experimental and modeling approaches, we show that rainbow trout have relatively homogeneous susceptibility to infection with infectious hematopoietic necrosis virus and that vaccination increases heterogeneity in susceptibility in a nearly all-or-nothing fashion. In a simple transmission model with an R0 of 2, the highly heterogeneous vaccine protection would cause a 35 percentage-point reduction in outbreak size over an intervention inducing homogenous protection at the same mean level. More broadly, these findings provide validation of methodology that can help to reduce biases in predictions of vaccine impact in natural settings and provide insight into how vaccination shapes population susceptibility.
 
-    >>> Importance
+    > Importance
       Differences among individuals influence transmission and spread of infectious diseases as well as the effectiveness of control measures. Control measures, such as vaccines, may provide leaky protection, protecting all hosts to an identical degree, or all-or-nothing protection, protecting some hosts completely while leaving others completely unprotected. This distinction can have a dramatic influence on disease dynamics, yet this distribution of protection is frequently unaccounted for in epidemiological models and estimates of vaccine efficacy. Here, we apply new methodology to experimentally examine host heterogeneity in susceptibility and mode of vaccine action as distinct components influencing disease outcome. Through multiple experiments and new modeling approaches, we show that the distribution of vaccine effects can be robustly estimated. These results offer new experimental and inferential methodology that can improve predictions of vaccine effectiveness and have broad applicability to human, wildlife, and ecosystem health.
 
-    -- quotes
+    - quotes
       !b
       !c
       !d
@@ -2768,10 +2768,10 @@ feed Pre2019
   ref 'Ferrari_et_al_2006
     head = The evolution of the susceptible network over the course of an epidemic differs among the classes of networks; frailty, relative to interference, accounts for an increasing component of network evolution on networks with greater variance in contacts. The result is that immunization due to prior epidemics can provide greater community protection than random vaccination on networks with heterogeneous contact patterns, while the reverse is true for highly structured populations.
 
-    >>> Abstract
+    > Abstract
       The spread of infectious disease through communities depends fundamentally on the underlying patterns of contacts between individuals. Generally, the more contacts one individual has, the more vulnerable they are to infection during an epidemic. Thus, outbreaks disproportionately impact the most highly connected demographics. Epidemics can then lead, through immunization or removal of individuals, to sparser networks that are more resistant to future transmission of a given disease. Using several classes of contact networks—Poisson, scale-free and small-world—we characterize the structural evolution of a network due to an epidemic in terms of frailty (the degree to which highly connected individuals are more vulnerable to infection) and interference (the extent to which the epidemic cuts off connectivity among the susceptible population that remains following an epidemic). The evolution of the susceptible network over the course of an epidemic differs among the classes of networks; frailty, relative to interference, accounts for an increasing component of network evolution on networks with greater variance in contacts. The result is that immunization due to prior epidemics can provide greater community protection than random vaccination on networks with heterogeneous contact patterns, while the reverse is true for highly structured populations.
 
-    -- quotes
+    - quotes
       !a
 
     / August, 2006 - The Royal Society
@@ -2784,10 +2784,10 @@ feed Pre2019
   ref 'Bastier_et_al_2015
     head = Large-volume irrigation provides good distribution over the sinonasal cavities as a whole; and a stable, reproducible isotonic solution with slightly alkaline pH and a composition close to that of seawater optimizes trophic and functional recovery of the respiratory epithelium.
 
-    >>> Abstract
+    > Abstract
       Nasal irrigation plays a non-negligible role in the treatment of numerous sinonasal pathologies and postoperative care. There is, however, a wide variety of protocols. The present review of the evidence-based literature sought objective arguments for optimization and efficacy. It emerged that large-volume low-pressure nasal douche optimizes the distribution and cleansing power of the irrigation solution in the nasal cavity. Ionic composition and pH also influence mucociliary clearance and epithelium trophicity. Seawater is less rich in sodium ions and richer in bicarbonates, potassium, calcium and magnesium than is isotonic normal saline, while alkaline pH and elevated calcium concentration optimized ciliary motility in vitro. Bicarbonates reduce secretion viscosity. Potassium and magnesium promote healing and limit local inflammation. These results show that the efficacy of nasal irrigation is multifactorial. Large-volume low-pressure nasal irrigation using undiluted seawater seems, in the present state of knowledge, to be the most effective protocol.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -2847,7 +2847,7 @@ feed Pre2019
   ref 'Moser_et_al_1979
     head = A jet airliner with 54 persons aboard was delayed on the ground for three hours. Most passengers stayed on the airplane during the delay. Within 72 hours, 72 per cent of the passengers became III with symptoms of cough, fever, fatigue, headache, sore throat and myalgia. The airplane ventilation system was inoperative during the delay and this may account for the high attack rate.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -2880,19 +2880,19 @@ feed Pre2019
   ref 'Olsen_et_al_2003
     head = Transmission of SARS may occur on an aircraft when infected persons fly during the symptomatic phase of illness. Measures to reduce the risk of transmission are warranted.
 
-    >>> Background
+    > Background
       The severe acute respiratory syndrome (SARS) spread rapidly around the world, largely because persons infected with the SARS-associated coronavirus (SARS-CoV) traveled on aircraft to distant cities. Although many infected persons traveled on commercial aircraft, the risk, if any, of in-flight transmission is unknown.
 
-    >>> Methods
+    > Methods
       We attempted to interview passengers and crew members at least 10 days after they had taken one of three flights that transported a patient or patients with SARS. All index patients met the criteria of the World Health Organization for a probable case of SARS, and index or secondary cases were confirmed to be positive for SARS-CoV on reverse-transcriptase polymerase chain reaction or serologic testing.
 
-    >>> Results
+    > Results
       After one flight carrying a symptomatic person and 119 other persons, laboratory-confirmed SARS developed in 16 persons, 2 others were given diagnoses of probable SARS, and 4 were reported to have SARS but could not be interviewed. Among the 22 persons with illness, the mean time from the flight to the onset of symptoms was four days (range, two to eight), and there were no recognized exposures to patients with SARS before or after the flight. Illness in passengers was related to the physical proximity to the index patient, with illness reported in 8 of the 23 persons who were seated in the three rows in front of the index patient, as compared with 10 of the 88 persons who were seated elsewhere (relative risk, 3.1; 95 percent confidence interval, 1.4 to 6.9). In contrast, another flight carrying four symptomatic persons resulted in transmission to at most one other person, and no illness was documented in passengers on the flight that carried a person who had presymptomatic SARS.
 
-    >>> Conclusions
+    > Conclusions
       Transmission of SARS may occur on an aircraft when infected persons fly during the symptomatic phase of illness. Measures to reduce the risk of transmission are warranted.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -2945,7 +2945,7 @@ feed Pre2019
   ref 'Hamburger_et_al_1948
     head = Although sneezing probably accounts for a certain number of sporadic cases of hemolytic streptococcal infection, it is not, in our opinion, important in epidemics because it is not a common symptom and very few sneezes discharge significant numbers of beta hemolytic streptococci into the air as droplet nuclei. The rare carriers whose sneezes heavily contaminate the air may be very dangerous if they do not baffle the sneezes efficiently. Since the material atomized in a sneeze is saliva, these individuals represent a type of dangerous carrier whose nose culture may be negative.  whose nose culture may be negative. Coughing, likewise, is important only in sporadic infections for similar reasons. This symptom is more common than sneezing. Talking expels negligible numbers of hemolytic streptococci.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -3025,7 +3025,7 @@ feed Pre2019
   ref 'Feigin_et_al_1982
     head = Within a six-day period N. meningitidis serogroup C disease occurred in five children from the same elementary-school classroom and in two siblings of one child. This unprecedented outbreak prompted an investigation into the factors that may have contributed to the spread of the disease among schoolmates. The evidence suggested that close contact in the classroom may have been a major factor.
 
-    -- quotes
+    - quotes
       !d
       !e
       !f
@@ -3064,20 +3064,20 @@ feed Pre2019
   ref 'Jefferson_et_al_2008
     head = Objective: To systematically review evidence for the effectiveness of physical interventions to interrupt or reduce the spread of respiratory viruses. Conclusion: Routine long term implementation of some physical measures to interrupt or reduce the spread of respiratory viruses might be difficult but many simple and low cost interventions could be useful in reducing the spread.
 
-    >>> Objective
+    > Objective
       To systematically review evidence for the effectiveness of physical interventions to interrupt or reduce the spread of respiratory viruses.
 
-    >>> Data Extraction
+    > Data Extraction
       Search strategy of the Cochrane Library, Medline, OldMedline, Embase, and CINAHL, without language restriction, for any intervention to prevent transmission of respiratory viruses (isolation, quarantine, social distancing, barriers, personal protection, and hygiene). Study designs were randomised trials, cohort studies, case-control studies, and controlled before and after studies.
 
-    >>> Data Synthesis
+    > Data Synthesis
       Of 2300 titles scanned 138 full papers were retrieved, including 49 papers of 51 studies. Study quality was poor for the three randomised controlled trials and most of the cluster randomised controlled trials; the observational studies were of mixed quality. Heterogeneity precluded meta-analysis of most data except that from six case-control studies. The highest quality cluster randomised trials suggest that the spread of respiratory viruses into the community can be prevented by intervening with hygienic measures aimed at younger children. Meta-analysis of six case-control studies suggests that physical measures are highly effective in preventing the spread of SARS: handwashing more than 10 times daily (odds ratio 0.45, 95% confidence interval 0.36 to 0.57; number needed to treat=4, 95% confidence interval 3.65 to 5.52); wearing masks (0.32, 0.25 to 0.40; NNT=6, 4.54 to 8.03); wearing N95 masks (0.09, 0.03 to 0.30; NNT=3, 2.37 to 4.06); wearing gloves (0.43, 0.29 to 0.65; NNT=5, 4.15 to 15.41); wearing gowns (0.23, 0.14 to 0.37; NNT=5, 3.37 to 7.12); and handwashing, masks, gloves, and gowns combined (0.09, 0.02 to 0.35; NNT=3, 2.66 to 4.97). The incremental effect of adding virucidals or antiseptics to normal handwashing to decrease the spread of respiratory disease remains uncertain. The lack of proper evaluation of global measures such as screening at entry ports and social distancing prevent firm conclusions being drawn.
 
-    >>> Conclusion
+    > Conclusion
       Routine long term implementation of some physical measures to interrupt or reduce the spread of respiratory viruses might be difficult but many simple and low cost interventions could be useful in reducing the spread.
 
 
-    -- quotes
+    - quotes
       !d
       !b
       !c
@@ -3102,16 +3102,16 @@ feed Pre2019
   ref 'Ryan_et_al_2001
     head = The implementation of this simple handwashing program in a Navy training camp was associated with a marked reduction in the incidence of outpatient respiratory illness that was sustained over a 2-year period. Despite its success, maintenance of the handwashing program has been challenging in the time-constrained setting of military training.
 
-    >>> Objectives
+    > Objectives
       In response to increasing concerns about respiratory illness in military recruits, a simple handwashing program was developed and evaluated at a large Navy training center.
 
-    >>> Methods
+    > Methods
       Clinical records from 1996 through 1998 were reviewed to determine weekly rates of respiratory illness before and after program implementation (1,089,800 person-weeks reviewed). A supplemental survey was given to a sample of recruits to assess self-reported respiratory illness and compliance with the handwashing program.
 
-    >>> Results
+    > Results
       A 45% reduction in total outpatient visits for respiratory illness was observed after implementation of the handwashing program. No change was noted in hospitalization rates for respiratory illness, which remained low during the observation period. Survey data supported clinical observations, as frequent handwashers self-reported fewer respiratory illness episodes when compared to infrequent handwashers. Surveys also revealed challenges with handwashing compliance.
 
-    >>> Conclusions
+    > Conclusions
       Implementation of a handwashing program in this population of healthy young adults was associated with a marked reduction in outpatient visits for respiratory illness. Despite its success, maintenance of the handwashing program has been challenging in the time-constrained setting of military training.
 
     # -- quotes
@@ -3140,10 +3140,10 @@ feed Pre2019
   ref 'Wang_et_al_2005
     head = We collected epidemiological and clinical data on 111 suspect and probable cases of SARS associated with the outbreak (between April and May 2003). The outbreak was single sourced and had eight clusters. All SARS cases in the hospital were traced to a single patient who directly infected 33 people.
 
-    >>> Abstract
+    > Abstract
       Severe acute respiratory syndrome (SARS) is a newly emerged infectious disease with a high case-fatality rate and devastating socio-economic impact. In this report we summarized the results from an epidemiological investigation of a SARS outbreak in a hospital in Tianjin, between April and May 2003. We collected epidemiological and clinical data on 111 suspect and probable cases of SARS associated with the outbreak. Transmission chain and outbreak clusters were investigated. The outbreak was single sourced and had eight clusters. All SARS cases in the hospital were traced to a single patient who directly infected 33 people. The patients ranged from 16 to 82 years of age (mean age 38·5 years); 38·7% were men. The overall case fatality in the SARS outbreak was 11·7% (13/111). The outbreak lasted around 4 weeks after the index case was identified. SARS is a highly contagious condition associated with substantial case fatality; an outbreak can result from one patient in a relatively short period. However, stringent public health measures seemed to be effective in breaking the disease transmission chain.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -3187,19 +3187,19 @@ feed Pre2019
   ref 'Lee_et_al_2003
     head = We report an outbreak in the Prince of Wales Hospital, Hong Kong. The patients were either health care workers in a medical ward of the hospital or persons who had a history of contact with an index patient or exposure to the same medical ward. Our findings suggest SARS is a serious respiratory illness that led to significant morbidity and mortality in our cohort.
 
-    >>> Background
+    > Background
       There has been an outbreak of the severe acute respiratory syndrome (SARS) worldwide. We report the clinical, laboratory, and radiologic features of 138 cases of suspected SARS during a hospital outbreak in Hong Kong.
 
-    >>> Methods
+    > Methods
       From March 11 to 25, 2003, all patients with suspected SARS after exposure to an index patient or ward were admitted to the isolation wards of the Prince of Wales Hospital. Their demographic, clinical, laboratory, and radiologic characteristics were analyzed. Clinical end points included the need for intensive care and death. Univariate and multivariate analyses were performed.
 
-    >>> Results
+    > Results
       There were 66 male patients and 72 female patients in this cohort, 69 of whom were health care workers. The most common symptoms included fever (in 100 percent of the patients); chills, rigors, or both (73.2 percent); and myalgia (60.9 percent). Cough and headache were also reported in more than 50 percent of the patients. Other common findings were lymphopenia (in 69.6 percent), thrombocytopenia (44.8 percent), and elevated lactate dehydrogenase and creatine kinase levels (71.0 percent and 32.1 percent, respectively). Peripheral air-space consolidation was commonly observed on thoracic computed tomographic scanning. A total of 32 patients (23.2 percent) were admitted to the intensive care unit; 5 patients died, all of whom had coexisting conditions. In a multivariate analysis, the independent predictors of an adverse outcome were advanced age (odds ratio per decade of life, 1.80; 95 percent confidence interval, 1.16 to 2.81; P=0.009), a high peak lactate dehydrogenase level (odds ratio per 100 U per liter, 2.09; 95 percent confidence interval, 1.28 to 3.42; P=0.003), and an absolute neutrophil count that exceeded the upper limit of the normal range on presentation (odds ratio, 1.60; 95 percent confidence interval, 1.03 to 2.50; P=0.04).
 
-    >>> Conclusions
+    > Conclusions
       SARS is a serious respiratory illness that led to significant morbidity and mortality in our cohort.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -3252,10 +3252,10 @@ feed Pre2019
   ref 'Lloyd-Smith_et_al_2005
     head = Our findings indicate that superspreading is a normal feature of disease spread, and to frame ongoing discussion we propose a rigorous definition for superspreading events and a method to predict their frequency.
 
-    >>> Abstract
+    > Abstract
       Population-level analyses often use average quantities to describe heterogeneous systems, particularly when variation does not arise from identifiable groups. A prominent example, central to our current understanding of epidemic spread, is the basic reproductive number, R0, which is defined as the mean number of infections caused by an infected individual in a susceptible population. Population estimates of R0 can obscure considerable individual variation in infectiousness, as highlighted during the global emergence of severe acute respiratory syndrome (SARS) by numerous ‘superspreading events’ in which certain individuals infected unusually large numbers of secondary cases. For diseases transmitted by non-sexual direct contacts, such as SARS or smallpox, individual variation is difficult to measure empirically, and thus its importance for outbreak dynamics has been unclear. Here we present an integrated theoretical and statistical analysis of the influence of individual variation in infectiousness on disease emergence. Using contact tracing data from eight directly transmitted diseases, we show that the distribution of individual infectiousness around R0 is often highly skewed. Model predictions accounting for this variation differ sharply from average-based approaches, with disease extinction more likely and outbreaks rarer but more explosive. Using these models, we explore implications for outbreak control, showing that individual-specific control measures outperform population-wide measures. Moreover, the dramatic improvements achieved through targeted control policies emphasize the need to identify predictive correlates of higher infectiousness. Our findings indicate that superspreading is a normal feature of disease spread, and to frame ongoing discussion we propose a rigorous definition for superspreading events and a method to predict their frequency.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -3300,19 +3300,19 @@ feed Pre2019
   ref 'Kline_et_al_1995
     head = A highly infectious person with cavitary tuberculosis spent much of his time at the bar for several months. The result was an outbreak of tuberculosis among those who frequented the bar. The outbreak had a substantial impact on community health, contributing 35 percent of all new active cases of tuberculosis in Minneapolis during 1992.
 
-    >>> Background
+    > Background
       Outbreaks of tuberculosis have been reported in prisons, nursing homes, urban homeless shelters, and other crowded settings. We report a nonresidential outbreak of tuberculosis that originated in a neighborhood bar.
 
-    >>> Methods
+    > Methods
       A homeless patient with highly infectious pulmonary tuberculosis was a regular patron of a neighborhood bar during a long symptomatic interval before diagnosis. We investigated 97 other regular customers and employees of the bar through interviews, tuberculin skin testing, and chest roentgenography. We performed DNA fingerprinting on isolates from the index patient and 11 other patients.
 
-    >>> Results
+    > Results
       The index patient apparently infected 41 of 97 contacts (42 percent), resulting in 14 cases of active tuberculosis and 27 cases of infection but no disease (indicated by positive tuberculin skin tests). Four other cases of active tuberculosis occurred among regular customers of the bar who were missed by the contact investigation. There were also two secondary cases. Radiographic findings in active cases included upper-lobe disease in seven cases (three cavitary) and negative chest films at the time of diagnosis in four cases. All 12 culture isolates we tested had the same chromosomal-DNA restriction pattern.
 
-    >>> Conclusions
+    > Conclusions
       The spread of tuberculosis in a neighborhood bar can be a major public health problem. The high rate of infection and disease among the contacts was unexpected and was not due to coinfection with the human immunodeficiency virus. Possible explanations include heavy alcohol use among the contacts, high infectivity of the index case, or both. Sputum cultures must be performed in tuberculin-positive contacts who have symptoms, even if the chest films are normal.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -3398,10 +3398,10 @@ feed Pre2019
   ref 'Heffernan_et_al_2007
     head = R0 is estimated in order to gauge the relative risk associated with a pathogen. These estimates are then used to compare the transmissibility of the disease to other well-known (and better understood) pathogens. Some time is needed to accrue sufficient incidence data for these estimates of R0, and typically, R0 is only quantified after the epidemic has run its course, or is at least well established.
 
-    >>> Abstract
+    > Abstract
       The basic reproductive ratio, R0, is defined as the expected number of secondary infections arising from a single individual during his or her entire infectious period, in a population of susceptibles. This concept is fundamental to the study of epidemiology and within-host pathogen dynamics. Most importantly, R0 often serves as a threshold parameter that predicts whether an infection will spread. Related parameters which share this threshold behaviour, however, may or may not give the true value of R0. In this paper we give a brief overview of common methods of formulating R0 and surrogate threshold parameters from deterministic, non-structured models. We also review common means of estimating R0 from epidemiological data. Finally, we survey the recent use of R0 in assessing emerging diseases, such as severe acute respiratory syndrome and avian influenza, a number of recent livestock diseases, and vector-borne diseases malaria, dengue and West Nile virus.
 
-    -- quotes
+    - quotes
       !a
 
     / June, 2007 - Journal of the Royal Society Interface
@@ -3414,7 +3414,7 @@ feed Pre2019
   ref 'Stein_et_al_2011
     head = The analysis of SARS transmission, and reports from other outbreaks, unveil a complex scenario in which super-spreading events are shaped by multiple factors, including co-infection with another pathogen, immune suppression, changes in airflow dynamics, delayed hospital admission, misdiagnosis, and inter-hospital transfers.
 
-    >>> Summary
+    > Summary
       Early studies that explored host-pathogen interactions assumed that infected individuals within a population have equal chances of transmitting the infection to others. Subsequently, in what became known as the 20/80 rule, a small percentage of individuals within any population was observed to control most transmission events. This empirical rule was shown to govern inter-individual transmission dynamics for many pathogens in several species, and individuals who infect disproportionately more secondary contacts, as compared to most others, became known as super-spreaders. Studies conducted in the wake of the severe acute respiratory syndrome (SARS) pandemic revealed that, in the absence of super-spreading events, most individuals infect few, if any, secondary contacts. The analysis of SARS transmission, and reports from other outbreaks, unveil a complex scenario in which super-spreading events are shaped by multiple factors, including co-infection with another pathogen, immune suppression, changes in airflow dynamics, delayed hospital admission, misdiagnosis, and inter-hospital transfers. Predicting and identifying super-spreaders open significant medical and public health challenges, and represent important facets of infectious disease management and pandemic preparedness plans.
 
 
@@ -3428,10 +3428,10 @@ feed Pre2019
   ref 'Mishra_et_al_2018
     head = This study demonstrates that pregnancy causes a reprogramming of the Ang II receptor expression pattern, resulting in ontogenic increase in uterine arterial AT2R levels that coincides with Ang II increase and relates to the onset and magnitude of uterine blood flow increase in pregnant rats. Estrogens appear to directly upregulate uterine vascular AT2R independent of any endogenous factors. This suggests that local uterine vascular RAS, in addition to central RAS, may play an important role in maintenance of blood flow to the uteroplacental unit.
 
-    >>> Abstract
+    > Abstract
       Normal pregnancy is associated with decreased uterine vascular contraction and increased blood flow even though angiotensin II (AngII) levels are increased. AngII not only activates the angiotensin type 1 receptor (AT1R) to mediate vasoconstriction but also angiotensin type 2 receptor (AT2R) to cause vasodilation. We hypothesized that upregulation of AT2R expression and function accounts for increased uterine artery blood flow during pregnancy. Virgin, pregnant (at different days of gestation) and post-partum Sprague-Dawley rats were used to determine uterine artery hemodynamics using micro ultrasound and plasma angiotensin II levels by ELISA. Isolated uterine arteries were examined for AT1R and AT2R expression and isometric contraction/relaxation. Plasma AngII levels were steady up to mid-pregnancy, increased as pregnancy advanced, reaching a peak in late pregnancy, and then restored to pre-pregnant levels after delivery. The pattern of increase in AngII levels mirrored a parallel increase in uterine blood flow. AT1R expression did not change, but AT2R expression increased during pregnancy correlating with uterine blood flow increase. Treatment with the AT2R antagonist PD123319 reduced uterine arterial blood flow. Vasoconstriction to angiotensin II was blunted in pregnant rats. Treatment with PD123319 caused greater enhancement of AngII contraction in pregnant than virgin rats. Ex vivo exposure of estradiol to uterine arterial rings dose dependently upregulated AT2R expression, that was inhibited by estrogen receptor antagonist. These results demonstrate that elevated AngII levels during gestation induce an increase in uterine blood flow via heightened AT2R-mediated signaling. Estrogens appear to directly upregulate uterine vascular AT2R independent of any endogenous factors.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -3460,19 +3460,19 @@ feed Pre2019
   ref 'Mansur_et_al_2015
     head = The main finding of this investigation was that patients with severe sepsis-associated ARDS who received statin therapy had a significantly better 28-day survival rate compared with those without this therapy. This evidence of a beneficial impact of statin continuation on severe ARDS patients suggests that statin therapy should be continued for all critically ill patients who are at high risk of developing sepsis or infection, i.e., those undergoing surgical procedures with a high infection risk.
 
-    >>> Background
+    > Background
       Previous investigations have presumed a potential therapeutic effect of statin therapy in patients with acute respiratory distress syndrome (ARDS). Statins are expected to attenuate inflammation in the lungs of patients with ARDS due to their anti-inflammatory effects. Clinical investigations of the role of statin therapy have revealed contradictory results. This study aimed to investigate whether pretreatment and continuous therapy with statins in patients with sepsis-associated ARDS are associated with 28-day survival according to disease severity (mild, moderate, or severe).
 
-    >>> Methods
+    > Methods
       Patients with sepsis-associated ARDS from the surgical intensive care were enrolled in this prospective observational investigation. ARDS was classified into three groups (mild, moderate, and severe); 28-day mortality was recorded as the primary outcome variable and organ failure was recorded as secondary outcome variable. Sequential Organ Failure Assessment scores and the requirements for organ support were evaluated throughout the observational period to assess organ failure.
 
-    >>> Results
+    > Results
       404 patients with sepsis-associated ARDS were enrolled in this investigation. The distribution of the ARDS subgroups was 13 %, 59 %, and 28 % for mild, moderate, and severe disease, respectively. Statin therapy improved 28-day survival exclusively in the patients with severe ARDS compared with patients without statin therapy (88.5 % and 62.5 %, respectively; P = 0.0193). To exclude the effects of several confounders, we performed multivariate Cox regression analysis, which showed that statin therapy remained a significant covariate for mortality (hazard ratio, 5.46; 95 % CI, 1.38–21.70; P = 0.0156). Moreover, after carrying a propensity score-matching in the severe ARDS cohort, Kaplan-Meier survival analysis confirmed the improved 28-day survival among patients with statin therapy (P = 0.0205). Patients with severe ARDS who received statin therapy had significantly more vasopressor-free days compared with those without statin therapy (13 ± 7 and 9 ± 7, respectively; P = 0.0034), and they also required less extracorporeal membrane oxygenation (ECMO) therapy and had more ECMO-free days (18 ± 9 and 15 ± 9, respectively; P = 0.0873).
 
-    >>> Conclusions
+    > Conclusions
       This investigation suggests a beneficial effect of continuous statin therapy in patients with severe sepsis-associated ARDS and a history of prior statin therapy. Further study is warranted to elucidate this potential effect.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -3513,22 +3513,22 @@ feed Pre2019
   ref 'Pan_et_al_2020
     head = In this cohort study, the institution of interventions including cordons sanitaire, traffic restriction, social distancing, home quarantine, centralized quarantine, and universal symptom survey was temporally associated with reduced effective reproduction number of SARS-CoV-2 (secondary transmission) and the number of confirmed cases per day across age groups, sex, and geographic regions.
 
-    >>> Objective
+    > Objective
       To evaluate the association of public health interventions with the epidemiological features of the COVID-19 outbreak in Wuhan by 5 periods according to key events and interventions.
 
-    >>> Design, Setting and Participants
+    > Design, Setting and Participants
       In this cohort study, individual-level data on 32 583 laboratory-confirmed COVID-19 cases reported between December 8, 2019, and March 8, 2020, were extracted from the municipal Notifiable Disease Report System, including patients’ age, sex, residential location, occupation, and severity classification.
 
-    >>> Exposures
+    > Exposures
       Nonpharmaceutical public health interventions including cordons sanitaire, traffic restriction, social distancing, home confinement, centralized quarantine, and universal symptom survey.
 
-    >>> Main Outcomes and Measures
+    > Main Outcomes and Measures
       Rates of laboratory-confirmed COVID-19 infections (defined as the number of cases per day per million people), across age, sex, and geographic locations were calculated across 5 periods: December 8 to January 9 (no intervention), January 10 to 22 (massive human movement due to the Chinese New Year holiday), January 23 to February 1 (cordons sanitaire, traffic restriction and home quarantine), February 2 to 16 (centralized quarantine and treatment), and February 17 to March 8 (universal symptom survey). The effective reproduction number of SARS-CoV-2 (an indicator of secondary transmission) was also calculated over the periods.
 
-    >>> Results
+    > Results
       Among 32 583 laboratory-confirmed COVID-19 cases, the median patient age was 56.7 years (range, 0-103; interquartile range, 43.4-66.8) and 16 817 (51.6%) were women. The daily confirmed case rate peaked in the third period and declined afterward across geographic regions and sex and age groups, except for children and adolescents, whose rate of confirmed cases continued to increase. The daily confirmed case rate over the whole period in local health care workers (130.5 per million people [95% CI, 123.9-137.2]) was higher than that in the general population (41.5 per million people [95% CI, 41.0-41.9]). The proportion of severe and critical cases decreased from 53.1% to 10.3% over the 5 periods. The severity risk increased with age: compared with those aged 20 to 39 years (proportion of severe and critical cases, 12.1%), elderly people (≥80 years) had a higher risk of having severe or critical disease (proportion, 41.3%; risk ratio, 3.61 [95% CI, 3.31-3.95]) while younger people (<20 years) had a lower risk (proportion, 4.1%; risk ratio, 0.47 [95% CI, 0.31-0.70]). The effective reproduction number fluctuated above 3.0 before January 26, decreased to below 1.0 after February 6, and decreased further to less than 0.3 after March 1.
 
-    -- quotes
+    - quotes
       !a
       !c
       !d
@@ -3557,16 +3557,16 @@ feed Pre2019
   ref 'McLeish_et_al_2011
     head = We estimate that almost half the adult population of Scotland were sero-positive for A/H1N1 2009 influenza by early 2010 and that the majority of these individuals (except in the oldest age classes) sero-converted as a result of natural infection with A/H1N1 2009.
 
-    >>> Background
+    > Background
       Sero-prevalence is a valuable indicator of prevalence and incidence of A/H1N1 2009 infection. However, raw sero-prevalence data must be corrected for background levels of cross-reactivity (i.e. imperfect test specificity) and the effects of immunisation programmes
 
-    >>> Methods and Findings
+    > Methods and Findings
       We obtained serum samples from a representative sample of 1563 adults resident in Scotland between late October 2009 and April 2010. Based on a microneutralisation assay, we estimate that 44% (95% confidence intervals (CIs): 40–47%) of the adult population of Scotland were sero-positive for A/H1N1 2009 influenza by 1 March 2010. Correcting for background cross-reactivity and for recorded vaccination rates by time and age group, we estimated that 34% (27–42%) were naturally infected with A/H1N1 2009 by 1 March 2010. The central estimate increases to >40% if we allow for imperfect test sensitivity. Over half of these infections are estimated to have occurred during the study period and the incidence of infection in late October 2009 was estimated at 4.3 new infections per 1000 people per day (1.2 to 7.2), falling close to zero by April 2010. The central estimate increases to over 5.0 per 1000 if we allow for imperfect test specificity. The rate of infection was higher for younger adults than older adults. Raw sero-prevalences were significantly higher in more deprived areas (likelihood ratio trend statistic = 4.92,1 df, P = 0.03) but there was no evidence of any difference in vaccination rates.
 
-    >>> Conclusions
+    > Conclusions
       We estimate that almost half the adult population of Scotland were sero-positive for A/H1N1 2009 influenza by early 2010 and that the majority of these individuals (except in the oldest age classes) sero-converted as a result of natural infection with A/H1N1 2009. Public health planning should consider the possibility of higher rates of infection with A/H1N1 2009 influenza in more deprived areas.
 
-    -- quotes
+    - quotes
       !a
 
     / June, 2011 - Plos one
@@ -3579,7 +3579,7 @@ feed Pre2019
   ref 'Siddiqi_et_al_2020
     head = It seems that there are 2 distinct but overlapping pathologic subsets; the first triggered by the virus itself and the second by the host response. Whether in native state, immunoquiescent state as in the elderly, or immunosuppressed state as in heart transplantation, the disease tends to present and follow these 2 phases, albeit in different levels of severity.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -3618,7 +3618,7 @@ feed Pre2019
   ref 'Shen_et_al_2004
     head = Our investigation highlights several features of SARS transmission observed in multiple outbreaks, including the central role of hospitals in disease transmission, the difficulty in distinguishing SARS from other clinical symptoms, and the danger associated with delayed case detection and isolation. Our investigation suggests that superspreading was related to both the environment and host.
 
-    >>> Abstract
+    > Abstract
       Superspreading events were pivotal in the global spread of severe acute respiratory syndrome (SARS). We investigated superspreading in one transmission chain early in Beijing’s epidemic. Superspreading was defined as transmission of SARS to at least eight contacts. An index patient with onset of SARS 2 months after hospital admission was the source of four generations of transmission to 76 case-patients, including 12 healthcare workers and several hospital visitors. Four (5%) case circumstances met the superspreading definition. Superspreading appeared to be associated with older age (mean 56 vs. 44 years), case fatality (75% vs. 16%, p = 0.02, Fisher exact test), number of close contacts (36 vs. 0.37) and attack rate among close contacts (43% vs. 18.5%, p < 0.025). Delayed recognition of SARS in a hospitalized patient permitted transmission to patients, visitors, and healthcare workers. Older age and number of contacts merit investigation in future studies of superspreading.
 
     # / Feb, 2004 - Emerg Infect Dis
@@ -3630,10 +3630,10 @@ feed Pre2019
   ref 'Colizza_et_al_2006
     head = From our study, it emerges that the air-transportation-network properties are responsible for the global pattern of emerging diseases.
 
-    >>> Abstract
+    > Abstract
       The systematic study of large-scale networks has unveiled the ubiquitous presence of connectivity patterns characterized by large-scale heterogeneities and unbounded statistical fluctuations. These features affect dramatically the behavior of the diffusion processes occurring on networks, determining the ensuing statistical properties of their evolution pattern and dynamics. In this article, we present a stochastic computational framework for the forecast of global epidemics that considers the complete worldwide air travel infrastructure complemented with census population data. We address two basic issues in global epidemic modeling: (i) we study the role of the large scale properties of the airline transportation network in determining the global diffusion pattern of emerging diseases; and (ii) we evaluate the reliability of forecasts and outbreak scenarios with respect to the intrinsic stochasticity of disease transmission and traffic flows. To address these issues we define a set of quantitative measures able to characterize the level of heterogeneity and predictability of the epidemic pattern. These measures may be used for the analysis of containment policies and epidemic risk assessment.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -3654,16 +3654,16 @@ feed Pre2019
     head = The age and intensity patterns of contact are remarkably similar across different European countries even though the average number of contacts recorded differed. This similarity implies that the results may well be applicable to other European countries, and that the initial phase of spread of newly emerging infections in susceptible populations, such as SARS, is likely to be very similar across Europe and in countries with similar social structures.
 
 
-    >>> Background
+    > Background
       Mathematical modelling of infectious diseases transmitted by the respiratory or close-contact route (e.g., pandemic influenza) is increasingly being used to determine the impact of possible interventions. Although mixing patterns are known to be crucial determinants for model outcome, researchers often rely on a priori contact assumptions with little or no empirical basis. We conducted a population-based prospective survey of mixing patterns in eight European countries using a common paper-diary methodology.
 
-    >>> Methods and Findings
+    > Methods and Findings
       7,290 participants recorded characteristics of 97,904 contacts with different individuals during one day, including age, sex, location, duration, frequency, and occurrence of physical contact. We found that mixing patterns and contact characteristics were remarkably similar across different European countries. Contact patterns were highly assortative with age: schoolchildren and young adults in particular tended to mix with people of the same age. Contacts lasting at least one hour or occurring on a daily basis mostly involved physical contact, while short duration and infrequent contacts tended to be nonphysical. Contacts at home, school, or leisure were more likely to be physical than contacts at the workplace or while travelling. Preliminary modelling indicates that 5- to 19-year-olds are expected to suffer the highest incidence during the initial epidemic phase of an emerging infection transmitted through social contacts measured here when the population is completely susceptible.
 
-    >>> Conclusions
+    > Conclusions
       To our knowledge, our study provides the first large-scale quantitative approach to contact patterns relevant for infections transmitted by the respiratory or close-contact route, and the results should lead to improved parameterisation of mathematical models used to design control strategies.
 
-    -- quotes
+    - quotes
       !a
       !c
       !d
@@ -3688,11 +3688,11 @@ feed Pre2019
   ref 'Keeling_et_al_2005
     head = Approaches described in this paper thus far have assumed that there is some structure behind social interactions; this structure, the mixing network, determines the relationships that are permitted and the individuals capable of transmitting infection to each other.
 
-    >>> Abstract
+    > Abstract
       Networks and the epidemiology of directly transmitted infectious diseases are fundamentally linked. The foundations of epidemiology and early epidemiological models were based on population wide random-mixing, but in practice each individual has a finite set of contacts to whom they can pass infection; the ensemble of all such contacts forms a ‘mixing network’. Knowledge of the structure of the network allows models to compute the epidemic dynamics at the population scale from the individual-level behaviour of infections. Therefore, characteristics of mixing networks—and how these deviate from the random-mixing norm—have become important applied concerns that may enhance the understanding and prediction of epidemic patterns and intervention measures.
       Here, we review the basis of epidemiological theory (based on random-mixing models) and network theory (based on work from the social sciences and graph theory). We then describe a variety of methods that allow the mixing network, or an approximation to the network, to be ascertained. It is often the case that time and resources limit our ability to accurately find all connections within a network, and hence a generic understanding of the relationship between network structure and disease dynamics is needed. Therefore, we review some of the variety of idealized network types and approximation techniques that have been utilized to elucidate this link. Finally, we look to the future to suggest how the two fields of network theory and epidemiological modelling can deliver an improved understanding of disease dynamics and better public health through effective disease control.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -3714,7 +3714,7 @@ feed Pre2019
   ref 'John_et_al_2000
     head = This paper aims at providing a clear understanding of the phenomena herd immunity and herd effect and their relationships which will help improve the design of effective and effcient immunisation programmes aimed at control, elimination or eradication of vaccine preventable infectious diseases.
 
-    >>> Abstract
+    > Abstract
       The term herd immunity has been used by various authors to conform to different definitions. Earlier this situation had been identified but not corrected. We propose that it should have precise meaning for which purpose a new definition is offered: “the proportion of subjects with immunity in a given population”. This definition dissociates herd immunity from the indirect protection observed in the unimmunised segment of a population in which a large proportion is immunised, for which the term ‘herd effect’ is proposed. It is defined as: “the reduction of infection or disease in the unimmunised segment as a result of immunising a proportion of the population”. Herd immunity can be measured by testing a sample of the population for the presence of the chosen immune parameter. Herd effect can be measured by quantifying the decline in incidence in the unimmunised segment of a population in which an immunisation programme is instituted. Herd immunity applies to immunisation or infection, human to human transmitted or otherwise. On the other hand, herd effect applies to immunisation or other health interventions which reduce the probability of transmission, confined to infections transmitted human to human, directly or via vector. The induced herd immunity of a given vaccine exhibits geographic variation as it depends upon coverage and efficacy of the vaccine, both of which can vary geographically. Herd effect is determined by herd immunity as well as the force of transmission of the corresponding infection. Clear understanding of these phenomena and their relationships will help improve the design of effective and efficient immunisation programmes aimed at control, elimination or eradication of vaccine preventable infectious diseases.
 
     # / July, 2000 - European Journal of Epidemiology
@@ -3726,10 +3726,10 @@ feed Pre2019
   ref 'Fine_et_al_2011
     head = We provide brief historical, epidemiologic, theoretical, and pragmatic public health perspectives on this concept.
 
-    >>>
+    >
       The term “herd immunity” is widely used but carries a variety of meanings. Some authors use it to describe the proportion immune among individuals in a population. Others use it with reference to a particular threshold proportion of immune individuals that should lead to a decline in incidence of infection. Still others use it to refer to a pattern of immunity that should protect a population from invasion of a new infection. A common implication of the term is that the risk of infection among susceptible individuals in a population is reduced by the presence and proximity of immune individuals (this is sometimes referred to as “indirect protection” or a “herd effect”). We provide brief historical, epidemiologic, theoretical, and pragmatic public health perspectives on this concept.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -3764,7 +3764,7 @@ feed Pre2019
   ref 'Han_et_al_2005
     head = Exposures to the surfaces of two metal catalysts - Ag/Al2O3 and Cu/Al2O3 destroy the replication and propagation abilities of SARS-CoV, baculovirus and E. coli. Efficiently killing viruses and bacteria on the surfaces of the two metal catalysts has a promising potential for air-disinfection in hospitals, communities, and households.
 
-    >>> Abstract
+    > Abstract
       To study the two metal catalysts Ag/Al2O3 and Cu/Al2O3 that interdict the transmission pathway for SARS and other respiratory infectious diseases. Two metal catalysts Ag/Al2O3 and Cu/Al2O3 were pressed into wafers. One hundred microL 10(6) TCID50/mL SARS-CoV, 100 microL 10(6) PFU/mL recombinant baculovirus expressing hamster's prion protein (haPrP) protein and roughly 10(6) E. coli were slowly dropped onto the surfaces of the catalyst wafers and exposed for 5 and 20 min, respectively. After eluted from the surfaces of wafers, the infectivity of viruses and propagation of bacteria were measured. The expression of PrP protein was determined by Western blot. The morphological changes of bacteria were observed by electronic microscopy. After exposure to the catalysts surfaces for 5 and 20 min, the infectivity of SARS-CoV in Vero cells and baculovirus in Sf9 cells dropped down to a very low and undetectable level, and no colony was detected using bacteria culture method. The expression of haPrP protein reduced to 21.8% in the preparation of Sf9 cells infected with recombinant baculovirus exposed for 5 min and was undetectable exposed for 20 min. Bacterial membranes seemed to be cracked and the cytoplasm seemed to be effluent from cell bodies. Exposures to the surfaces of Ag/Al2O3 and Cu/Al2O3 destroy the replication and propagation abilities of SARS-CoV, baculovirus and E. coli. Inactivation ability of metal catalysts needs to interact with air, utilizing oxygen molecules in air. Efficiently killing viruses and bacteria on the surfaces of the two metal catalysts has a promising potential for air-disinfection in hospitals, communities, and households.
 
 
@@ -3788,7 +3788,7 @@ feed Pre2019
   ref 'Boyce_et_al_2007
     head = A number of studies have documented that healthcare workers may contaminate their hands or gloves by touching contaminated environmental surfaces, and that hands or gloves become contaminated with numbers of organisms that are likely to result in transmission to patients. Pathogens may also be transferred directly from contaminated surfaces to susceptible patients.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -3824,16 +3824,16 @@ feed Pre2019
   ref 'Dessauer_et_al_2016
     head = Exposure of pediatric patients to copper-surfaced objects in the closed environment of the intensive care unit resulted in decreased HAI(Health care-associated Infections) rates when compared with noncopper exposure; however, the RRR (Relative-Risk reduction) was not statistically significant.
 
-    >>> BACKGROUND
+    > BACKGROUND
       Studies have consistently shown that copper alloyed surfaces decrease the burden of microorganisms in health care environments. This study assessed whether copper alloy surfaces decreased hospital-associated infections in pediatric intensive and intermediate care units.
 
-    >>> METHODS
+    > METHODS
       Admitted infants were assigned sequentially to a room furnished with or without a limited number of copper alloyed surfaces. Clinical and exposure to intervention data were collected on a daily basis. To avoid counting infections present prior to admission, patients who stayed in the hospital <72 hours were excluded from analysis. Health care-associated infections (HAIs) were confirmed according to protocol definitions.
 
-    >>> RESULTS
+    > RESULTS
       Clinical outcomes from 515 patients were considered in our analysis: 261 patients from the intervention arm of the study, and 254 from the control arm. Crude analysis showed an HAI rate of 10.6 versus 13.0 per 1,000 patient days for copper- and non-copper-exposed patients, respectively, for a crude relative risk reduction (RRR) of 0.19 (90% confidence interval, 0.46 to -0.22). Conducting clinical trials to assess interventions that may impact HAI rates is very challenging. The results here contribute to our understanding and ability to estimate the effect size that copper alloy surfaces have on HAI acquisition.
 
-    >>> CONCLUSIONS
+    > CONCLUSIONS
       Exposure of pediatric patients to copper-surfaced objects in the closed environment of the intensive care unit resulted in decreased HAI rates when compared with noncopper exposure; however, the RRR was not statistically significant. The clinical effect size warrants further consideration of this intervention as a component of a systems-based approach to control HAIs.
 
 
@@ -3846,19 +3846,19 @@ feed Pre2019
   ref 'Michels_et_al_2015
     head = Bacteria die on copper alloy surfaces in both the laboratory and the hospital rooms. Infection rates were lowered in those hospital rooms containing copper components. The placement of copper alloy components, in the built environment, may have the potential to reduce not only hospital-acquired infections but also patient treatment costs.
 
-    >>> Background
+    > Background
       There are indications that bacteria found on frequently touched environmental surfaces play a role in infection transmission.
 
-    >>> Methods
+    > Methods
       In laboratory testing, copper alloy samples were inoculated with bacteria. In clinical trials, the amount of live bacteria on the surfaces of hospital components made of copper alloys, as well as those made from standard materials, was measured. Finally, infection rates were tracked in the hospital rooms with the copper components and compared to those found in the rooms containing the standard components.
 
-    >>> Results
+    > Results
       Greater than a 99.9% reduction in live bacteria was realized in laboratory tests. In the clinical trials, an 83% reduction in bacteria was seen on the copper alloy components, when compared to the surfaces made from standard materials in the control rooms. Finally, the infection rates were found to be reduced by 58% in patient rooms with components made of copper, when compared to patients' rooms with components made of standard materials.
 
-    >>> Conclusion
+    > Conclusion
       Bacteria die on copper alloy surfaces in both the laboratory and the hospital rooms. Infection rates were lowered in those hospital rooms containing copper components. Thus, based on the presented information, the placement of copper alloy components, in the built environment, may have the potential to reduce not only hospital-acquired infections but also patient treatment costs.
 
-    -- quotes
+    - quotes
       !a
       !b
 
@@ -3875,10 +3875,10 @@ feed Pre2019
   ref 'Sarah_et_al_2015
     head = Pathogenic human coronavirus 229E remained infectious in a human lung cell culture model following at least 5 days of persistence on a range of common nonbiocidal surface materials, including Teflon, PVC, ceramic tiles, glass, silicone rubber, and stainless steel. It was rapidly inactivated on a range of copper alloys and Cu/Zn brasses were very effective at lower copper concentration.
 
-    >>> Abstract
+    > Abstract
       The evolution of new and reemerging historic virulent strains of respiratory viruses from animal reservoirs is a significant threat to human health. Inefficient human-to-human transmission of zoonotic strains may initially limit the spread of transmission, but an infection may be contracted by touching contaminated surfaces. Enveloped viruses are often susceptible to environmental stresses, but the human coronaviruses responsible for severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS) have recently caused increasing concern of contact transmission during outbreaks. We report here that pathogenic human coronavirus 229E remained infectious in a human lung cell culture model following at least 5 days of persistence on a range of common nonbiocidal surface materials, including polytetrafluoroethylene (Teflon; PTFE), polyvinyl chloride (PVC), ceramic tiles, glass, silicone rubber, and stainless steel. We have shown previously that noroviruses are destroyed on copper alloy surfaces. In this new study, human coronavirus 229E was rapidly inactivated on a range of copper alloys (within a few minutes for simulated fingertip contamination) and Cu/Zn brasses were very effective at lower copper concentration. Exposure to copper destroyed the viral genomes and irreversibly affected virus morphology, including disintegration of envelope and dispersal of surface spikes. Cu(I) and Cu(II) moieties were responsible for the inactivation, which was enhanced by reactive oxygen species generation on alloy surfaces, resulting in even faster inactivation than was seen with nonenveloped viruses on copper. Consequently, copper alloy surfaces could be employed in communal areas and at any mass gatherings to help reduce transmission of respiratory viruses from contaminated surfaces and protect the public health.
 
-    -- quotes
+    - quotes
       !b
       !c
 
@@ -3899,7 +3899,7 @@ feed Pre2019
   ref 'Baucells_et_al_2017
     head = A systematic review of virological literature revealed that bats were described as a major concern for public health in half of all studies (51%), and that their key role in delivering ecosystem services was disregarded in almost all studies (96%). Although research on zoonoses is of the utmost importance, biased framings of bats can undermine decades of conservation efforts.
 
-    >>> Abstract
+    > Abstract
       Severe acute respiratory syndrome coronavirus (SARS-CoV) and Middle East respiratory syndrome coronavirus (MERS-CoV) are two highly transmissible and pathogenic viruses that emerged in humans at the beginning of the 21st century. Both viruses likely originated in bats, and genetically diverse coronaviruses that are related to SARS-CoV and MERS-CoV were discovered in bats worldwide. In this Review, we summarize the current knowledge on the origin and evolution of these two pathogenic coronaviruses and discuss their receptor usage; we also highlight the diversity and potential of spillover of bat-borne coronaviruses, as evidenced by the recent spillover of swine acute diarrhoea syndrome coronavirus (SADS-CoV) to pigs.
 
 
@@ -3912,7 +3912,7 @@ feed Pre2019
   ref 'Singla_et_al_2012
     head = Results from preclinical studies and observations in relevant patient populations support the protective potential of statins in ALI (Acute Lung Injury), paving the way now for definitive clinical trials.
 
-    >>> Abstract
+    > Abstract
       Acute lung injury (ALI) is a devastating clinical condition associated with pulmonary and systemic inflammation and characterized by incompetence of the pulmonary microvascular barrier culminating in noncardiogenic pulmonary edema. An understanding of the mechanisms underlying endothelial barrier dysfunction in ALI has been facilitated by study of the effects of statins in relevant cellular and animals models. Many of the pleotropic properties of these drugs, including direct effects on endothelial cell (EC) cytoskeletal rearrangement, NADPH oxidase, and nitric oxide activity, as well as effects on differential EC gene expression, are relevant to the pathobiology of ALI and suggest a potential therapeutic role for statins in this context. Moreover, results from preclinical studies and observations in relevant patient populations support the protective potential of statins in ALI, paving the way now for definitive clinical trials.
 
 
@@ -3925,10 +3925,10 @@ feed Pre2019
   ref 'Hothersall_et_al_2006
     head = This review considers the evidence for the anti‐inflammatory properties of statins in the lung, and how these effects are being applied to research into the role of statins as a novel treatment of respiratory diseases.
 
-    >>> Abstract
+    > Abstract
       Statins reduce cholesterol levels by inhibiting 3-hydroxy-3-methylglutaryl coenzyme A (HMG-CoA) reductase and have an established role in the treatment of atherosclerotic disease. Recent research has identified anti-inflammatory properties of statins. Statins appear to reduce the stability of lipid raft formation with subsequent effects on immune activation and regulation, and also prevent the prenylation of signalling molecules with subsequent downregulation of gene expression. Both these effects result in reduced cytokine, chemokine, and adhesion molecule expression, with effects on cell apoptosis or proliferation. This review considers the evidence for the anti-inflammatory properties of statins in the lung, and how these effects are being applied to research into the role of statins as a novel treatment of respiratory diseases
 
-    -- quotes
+    - quotes
       !a
       !b
 
@@ -3944,7 +3944,7 @@ feed Pre2019
   ref 'Llor_et_al_2013
     head = This study found no differences in the number of days with frequent cough among patients with uncomplicated acute bronchitis and discoloured sputum treated with ibuprofen, amoxicillin-clavulanic acid, or placebo. The trial was sufficiently powered and, to the best of our knowledge, the first to allow conclusions on the efficacy of a non-steroidal anti-inflammatory drug in patients with acute bronchitis compared with an antibiotic and placebo.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -3967,10 +3967,10 @@ feed Pre2019
   doi: http://doi.org/10.1038/nri3665
   ref 'Iwasaki_et_al_2014
     head = The NLRP3 inflammasome and IL-1β have an important role in host tolerance to influenza virus infection in response to high-dose viral challenge. IL-1β and IL-1R signalling promotes antiviral B cell and T cell responses after low-dose viral challenge.
-    >>> Abstract
+    > Abstract
       Influenza viruses are a major pathogen of both humans and animals. Recent studies using gene-knockout mice have led to an in-depth understanding of the innate sensors that detect influenza virus infection in a variety of cell types. Signalling downstream of these sensors induces distinct sets of effector mechanisms that block virus replication and promote viral clearance by inducing innate and adaptive immune responses. In this Review, we discuss the various ways in which the innate immune system uses pattern recognition receptors to detect and respond to influenza virus infection. We consider whether the outcome of innate sensor stimulation promotes antiviral resistance or disease tolerance, and propose rational treatment strategies for the acute respiratory disease that is caused by influenza virus infection.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -3996,10 +3996,10 @@ feed Pre2019
   ref 'Pillai_et_al_2016
     head = Data indicate that a failure to induce type I IFNs promotes viral amplification and tissue damage within the respiratory environment, conducive to bacterial bloom. Neutrophil recruitment and caspase-dependent NETosis contributes to lethality. These results in Mx1 congenic mice are consistent with the notion that age-related defects in innate immunity (reduced IFN responses) could predispose IAV-infected older adults to secondary bacterial infection. A direct implication of our findings is that older adults suffering from IAV infection may benefit from therapeutic strategies that minimize inflammatory responses mediated by neutrophils.
 
-    >>> Abstract
+    > Abstract
       Influenza A virus (IAV) causes up to half a million deaths worldwide annually, 90% of which occur in older adults. We show that IAV-infected monocytes from older humans have impaired antiviral interferon production but retain intact inflammasome responses. To understand the in vivo consequence, we used mice expressing a functional Mx gene encoding a major interferon-induced effector against IAV in humans. In Mx1-intact mice with weakened resistance due to deficiencies in Mavs and Tlr7, we found an elevated respiratory bacterial burden. Notably, mortality in the absence of Mavs and Tlr7 was independent of viral load or MyD88-dependent signaling but dependent on bacterial burden, caspase-1/11, and neutrophil-dependent tissue damage. Therefore, in the context of weakened antiviral resistance, vulnerability to IAV disease is a function of caspase-dependent pathology.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -4044,11 +4044,11 @@ feed Pre2019
   ref 'Evavold_et_al_2017
     head = We report that GSDMD is required for IL-1 release under conditions of macrophage hyperactivation and under pyroptosis-inducing conditions where plasma membrane rupture is experimentally prevented. Using reconstituted 293T cells and liposome-based analyses, we provide evidence that GSDMD pores serve as conduits for the transport of IL-1 family cytokines across intact lipid bilayers.
 
-    >>> Abstract
+    > Abstract
       The interleukin-1 (IL-1) family cytokines are cytosolic proteins that exhibit inflammatory activity upon release into the extracellular space. These factors are released following various cell death processes, with pyroptosis being a common mechanism. Recently, it was recognized that phagocytes can achieve a state of hyperactivation, which is defined by their ability to secrete IL-1 while retaining viability, yet it is unclear how IL-1 can be secreted from living cells. Herein, we report that the pyroptosis regulator gasdermin D (GSDMD) was necessary for IL-1β secretion from living macrophages that have been exposed to inflammasome activators, such as bacteria and their products or host-derived oxidized lipids. Cell- and liposome-based assays demonstrated that GSDMD pores were required for IL-1β transport across an intact lipid bilayer. These findings identify a non-pyroptotic function for GSDMD, and raise the possibility that GSDMD pores represent conduits for the secretion of cytosolic cytokines under conditions of cell hyperactivation.
 
 
-    -- quotes
+    - quotes
       !a
 
     / Nov, 2017 - Immunity
@@ -4062,10 +4062,10 @@ feed Pre2019
   ref 'Li_et_al_2005
     head = Here we report that species of bats are a natural host of coronaviruses closely related to those responsible for the SARS outbreak. These viruses, termed SARS-like coronaviruses (SL-CoVs), display greater genetic variation than SARS-CoV isolated from humans or from civets. The human and civet isolates of SARS-CoV nestle phylogenetically within the spectrum of SLCoVs, indicating that the virus responsible for the SARS outbreak was a member of this coronavirus group.
 
-    >>> Abstract
+    > Abstract
       Severe acute respiratory syndrome (SARS) emerged in 2002 to 2003 in southern China. The origin of its etiological agent, the SARS coronavirus (SARS-CoV), remains elusive. Here we report that species of bats are a natural host of coronaviruses closely related to those responsible for the SARS outbreak. These viruses, termed SARS-like coronaviruses (SL-CoVs), display greater genetic variation than SARS-CoV isolated from humans or from civets. The human and civet isolates of SARS-CoV nestle phylogenetically within the spectrum of SL-CoVs, indicating that the virus responsible for the SARS outbreak was a member of this coronavirus group.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -4109,10 +4109,10 @@ feed Pre2019
   ref 'Xie_et_al_2018
     head =  Our data support that the S358 (highly conserved serine residue) replacement in bat STING dampened but did not fully diminish the functionality of STING. The nature of the weakened, but not entirely lost, functionality of STING may have profound impact for bats to maintain the balanced state of “effective response” but not “over response” against viruses
 
-    >>> Abstract
+    > Abstract
       Compared with terrestrial mammals, bats have a longer lifespan and greater capacity to co-exist with a variety of viruses. In addition to cytosolic DNA generated by these viral infections, the metabolic demands of flight cause DNA damage and the release of self-DNA into the cytoplasm. However, whether bats have an altered DNA sensing/defense system to balance high cytosolic DNA levels remains an open question. We demonstrate that bats have a dampened interferon response due to the replacement of the highly conserved serine residue (S358) in STING, an essential adaptor protein in multiple DNA sensing pathways. Reversing this mutation by introducing S358 restored STING functionality, resulting in interferon activation and virus inhibition. Combined with previous reports on bat-specific changes of other DNA sensors such as TLR9, IFI16, and AIM2, our findings shed light on bat adaptation to flight, their long lifespan, and their unique capacity to serve as a virus reservoir.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -4144,7 +4144,7 @@ feed Pre2019
   ref 'Zhang_et_al_2013
     head = The evolution of the bat antiviral immune system is multifaceted and several factors, such as the evolution of flight and co-evolution of bats with their viruses have likely shaped their distinct immunological responses.
 
-    >>> Abstract
+    > Abstract
       Bats are the only mammals capable of sustained flight and are notorious reservoir hosts for some of the world's most highly pathogenic viruses, including Nipah, Hendra, Ebola, and severe acute respiratory syndrome (SARS). To identify genetic changes associated with the development of bat-specific traits, we performed whole-genome sequencing and comparative analyses of two distantly related species, fruit bat Pteropus alecto and insectivorous bat Myotis davidii. We discovered an unexpected concentration of positively selected genes in the DNA damage checkpoint and nuclear factor κB pathways that may be related to the origin of flight, as well as expansion and contraction of important gene families. Comparison of bat genomes with other mammalian species has provided new insights into bat biology and evolution.
 
     # / January, 2013 - Science
@@ -4157,7 +4157,7 @@ feed Pre2019
   ref 'Kacprzyk_et_al_2017
     head = We put forward a hypothesis that bats may have evolved unique anti-inflammatory responses to neutralize proinflammatory stimuli resulting from flight. This in turn may drive their extraordinary longevity and viral tolerance by limiting inflammation driven ageing and infection-induced immunopathology.
 
-    >>> Abstract
+    > Abstract
       Bats are unique among mammals given their ability to fly, apparent tolerance of deadly viruses and extraordinary longevity. We propose that these traits are linked and driven by adaptations of the innate immune system. To explore this hypothesis we challenged macrophages from the greater mouse-eared bat, Myotis myotis and the house mouse, Mus musculus with toll like receptors (TLRs) ligands, lipopolysaccharides, LPS and polyinosinic-polycytidylic acid, Poly(I:C). Macrophages from both species presented a high level of mRNA induction of inferon β (INF-β), tumor necrosis factor (TNF) and interleukin-1β (Il-1β). However, in bat macrophages, this antiviral, proinflammatory response was balanced by a sustained high-level transcription of the anti-inflammatory cytokine Il-10, which was not observed in mouse, potentially resulting from adaptive regulation in bats. Additionally, phylogenomic selection tests across the basal divergences in mammals (n = 39) uncovered bat-specific adaptations in six genes involved in antiviral and proinflammatory signalling. Based on this pilot study, we put forward a hypothesis that bats may have evolved unique anti-inflammatory responses to neutralize proinflammatory stimuli resulting from flight. This in turn may drive their extraordinary longevity and viral tolerance by limiting inflammation driven ageing and infection-induced immunopathology. Further data from other individuals and bat species are required to advance this intriguing hypothesis.
 
     # / December, 2017 -  ResearchGate
@@ -4169,10 +4169,10 @@ feed Pre2019
   ref 'Najjar_et_al_2015
     head = Results indicate that the unusual role of cathepsin proteases in the life cycle of bat-borne viruses is not due to the lack of active furin-like proteases in these natural reservoir species; however, differences may exist between furin proteases present in fruit bats compared to furins in other mammalian species, and these differences may impact protease usage for viral glycoprotein processing.
 
-    >>> Abstract
+    > Abstract
       Bats of different species play a major role in the emergence and transmission of highly pathogenic viruses including Ebola virus, SARS-like coronavirus and the henipaviruses. These viruses require proteolytic activation of surface envelope glycoproteins needed for entry, and cellular cathepsins have been shown to be involved in proteolysis of glycoproteins from these distinct virus families. Very little is currently known about the available proteases in bats. To determine whether the utilization of cathepsins by bat-borne viruses is related to the nature of proteases in their natural hosts, we examined proteolytic processing of several viral fusion proteins in cells derived from two fruit bat species, Pteropus alecto and Rousettus aegyptiacus. Our work shows that fruit bat cells have homologs of cathepsin and furin proteases capable of cleaving and activating both the cathepsin-dependent Hendra virus F and the furin-dependent parainfluenza virus 5 F proteins. Sequence analysis comparing Pteropus alecto furin and cathepsin L to proteases from other mammalian species showed a high degree of conservation; however significant amino acid variation occurs at the C-terminus of Pteropus alecto furin. Further analysis of furin-like proteases from fruit bats revealed that these proteases are catalytically active and resemble other mammalian furins in their response to a potent furin inhibitor. However, kinetic analysis suggests that differences may exist in the cellular localization of furin between different species. Collectively, these results indicate that the unusual role of cathepsin proteases in the life cycle of bat-borne viruses is not due to the lack of active furin-like proteases in these natural reservoir species; however, differences may exist between furin proteases present in fruit bats compared to furins in other mammalian species, and these differences may impact protease usage for viral glycoprotein processing.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -4208,10 +4208,10 @@ feed Pre2019
   ref 'Mandl_et_al_2018
     head = Understanding what immune mechanisms enable bats to coexist with RNA viruses may provide critical fundamental insights into how to achieve greater resilience in humans.
 
-    >>> Abstract
+    > Abstract
       A majority of viruses that have caused recent epidemics with high lethality rates in people, are zoonoses originating from wildlife. Among them are filoviruses (e.g., Marburg, Ebola), coronaviruses (e.g., SARS, MERS), henipaviruses (e.g., Hendra, Nipah) which share the common features that they are all RNA viruses, and that a dysregulated immune response is an important contributor to the tissue damage and hence pathogenicity that results from infection in humans. Intriguingly, these viruses also all originate from bat reservoirs. Bats have been shown to have a greater mean viral richness than predicted by their phylogenetic distance from humans, their geographic range, or their presence in urban areas, suggesting other traits must explain why bats harbor a greater number of zoonotic viruses than other mammals. Bats are highly unusual among mammals in other ways as well. Not only are they the only mammals capable of powered flight, they have extraordinarily long life spans, with little detectable increases in mortality or senescence until high ages. Their physiology likely impacted their history of pathogen exposure and necessitated adaptations that may have also affected immune signaling pathways. Do our life history traits make us susceptible to generating damaging immune responses to RNA viruses or does the physiology of bats make them particularly tolerant or resistant? Understanding what immune mechanisms enable bats to coexist with RNA viruses may provide critical fundamental insights into how to achieve greater resilience in humans.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -4231,7 +4231,7 @@ feed Pre2019
   ref 'Banerjee_et_al_2017
     head = Identifying unique defence mechanisms in bats might allow us to extend the knowledge for therapeutic purposes in spill-over hosts that often develop significant disease or succumb to infections with these viruses.
 
-    >>> Abstract
+    > Abstract
       In recent years viruses similar to those that appear to cause no overt disease in bats have spilled-over to humans and other species causing serious disease. Since pathology in such diseases is often attributed to an over-active inflammatory response, we tested the hypothesis that bat cells respond to stimulation of their receptors for viral ligands with a strong antiviral response, but unlike in human cells, the inflammatory response is not overtly activated. We compared the response of human and bat cells to poly(I:C), a viral double-stranded RNA surrogate. We measured transcripts for several inflammatory, interferon and interferon stimulated genes using quantitative real-time PCR and observed that human and bat cells both, when stimulated with poly(I:C), contained higher levels of transcripts for interferon beta than unstimulated cells. In contrast, only human cells expressed robust amount of RNA for TNFα, a cell signaling protein involved in systemic inflammation. We examined the bat TNFα promoter and found a potential repressor (c-Rel) binding motif. We demonstrated that c-Rel binds to the putative c-Rel motif in the promoter and knocking down c-Rel transcripts significantly increased basal levels of TNFα transcripts. Our results suggest bats may have a unique mechanism to suppress inflammatory pathology.
 
     # / May, 2017 - Scientific reports
@@ -4245,7 +4245,7 @@ feed Pre2019
   ref 'Hou_et_al_2010
     head = Our Study demonstrates that the genetic diversity of ACE2 among bats is greater than that observed among known SARS-CoV susceptible mammals, highlighting the possibility that there are many more uncharacterized bat species that can act as a reservoir of SARS-CoV or its progenitor viruses.
 
-    >>> Abstract
+    > Abstract
       The discovery of SARS-like coronavirus in bats suggests that bats could be the natural reservoir of SARS-CoV. However, previous studies indicated the angiotensin-converting enzyme 2 (ACE2) protein, a known SARS-CoV receptor, from a horseshoe bat was unable to act as a functional receptor for SARS-CoV. Here, we extended our previous study to ACE2 molecules from seven additional bat species and tested their interactions with human SARS-CoV spike protein using both HIV-based pseudotype and live SARS-CoV infection assays. The results show that ACE2s of Myotis daubentoni and Rhinolophus sinicus support viral entry mediated by the SARS-CoV S protein, albeit with different efficiency in comparison to that of the human ACE2. Further, the alteration of several key residues either decreased or enhanced bat ACE2 receptor efficiency, as predicted from a structural modeling study of the different bat ACE2 molecules. These data suggest that M. daubentoni and R. sinicus are likely to be susceptible to SARS-CoV and may be candidates as the natural host of the SARS-CoV progenitor viruses. Furthermore, our current study also demonstrates that the genetic diversity of ACE2 among bats is greater than that observed among known SARS-CoV susceptible mammals, highlighting the possibility that there are many more uncharacterized bat species that can act as a reservoir of SARS-CoV or its progenitor viruses. This calls for continuation and expansion of field surveillance studies among different bat populations to eventually identify the true natural reservoir of SARS-CoV.
 
     # / June, 2010 -  Archives of Virology
@@ -4258,16 +4258,16 @@ feed Pre2019
   ref 'Sarnak_et_al_2001
     head = Patients with ESRD (end-stage renal disease) treated with dialysis have higher pulmonary infectious mortality rates compared with the GP (General Population), even after stratification for age, race, and DM (diabetes mellitus). Consequently, this patient population must be considered at high risk for the development of lethal pulmonary infections.
 
-    >>> Background
+    > Background
       Infection is the second-leading cause of death among patients with end-stage renal disease (ESRD). This is due in part to advanced age, comorbid conditions, and immune dysfunction observed in uremic states. Although one may hypothesize that pulmonary infectious mortality is higher among patients with ESRD compared with the general population (GP), no such data are currently available.
 
-    >>> Methods
+    > Methods
       We compared annual pulmonary infectious mortality rates among patients with ESRD to those in the GP. The data were abstracted from the United States Renal Data System and the National Center for Health Statistics, respectively, and were stratified by age, gender, race, and presence or absence of diabetes mellitus (DM). In the GP, primary and multiple cause-of-death analyses were performed to account for potential limitations of the data sources.
 
-    >>> Results
+    > Results
       Overall, pulmonary infectious mortality rate was 14-fold to 16-fold higher in dialysis patients and approximately twofold higher in renal transplant recipients compared with the GP. After stratification for age, differences between groups decreased but retained their magnitude.
 
-    >>> Conclusion
+    > Conclusion
       Patients with ESRD treated with dialysis have higher pulmonary infectious mortality rates compared with the GP, even after stratification for age, race, and DM. Consequently, this patient population must be considered at high risk for the development of lethal pulmonary infections.
 
     # / December, 2001 - Chest
@@ -4281,7 +4281,7 @@ feed Pre2019
   ref 'Lessler_et_al_2013
     head = Median incubation period to be 5·6 days for adenovirus, 3·2 days for human coronavirus, 4·0 days for SARS, 1·4 days for influenza A, 0·6 days for influenza B, 12·5 days for measles, 2·6 days for parainfluenza, 4·4 days for respiratory syncytial virus, and 1·9 days for rhinovirus.
 
-    >>> Abstract
+    > Abstract
       Knowledge of the incubation period is essential in the investigation and control of infectious disease, but statements of incubation period are often poorly referenced, inconsistent, or based on limited data. In a systematic review of the literature on nine respiratory viral infections of public-health importance, we identified 436 articles with statements of incubation period and 38 with data for pooled analysis. We fitted a log-normal distribution to pooled data and found the median incubation period to be 5·6 days (95% CI 4·8–6·3) for adenovirus, 3·2 days (95% CI 2·8–3·7) for human coronavirus, 4·0 days (95% CI 3·6–4·4) for severe acute respiratory syndrome coronavirus, 1·4 days (95% CI 1·3–1·5) for influenza A, 0·6 days (95% CI 0·5–0·6) for influenza B, 12·5 days (95% CI 11·8–13·3) for measles, 2·6 days (95% CI 2·1–3·1) for parainfluenza, 4·4 days (95% CI 3·9–4·9) for respiratory syncytial virus, and 1·9 days (95% CI 1·4–2·4) for rhinovirus. When using the incubation period, it is important to consider its full distribution: the right tail for quarantine policy, the central regions for likely times and sources of infection, and the full distribution for models used in pandemic planning. Our estimates combine published data to give the detail necessary for these and other applications.
 
 
@@ -4296,16 +4296,16 @@ feed Pre2019
   ref 'Colman_et_al_2018
     head = The reproductive potential of pathogens is linked inextricably to the host social behavior required for transmission.
 
-    >>> Background
+    > Background
       The symptoms of many infectious diseases influence their host to withdraw from social activity limiting their potential to spread. Successful transmission therefore requires the onset of infectiousness to coincide with a time when the host is socially active. Since social activity and infectiousness are both temporal phenomena, we hypothesize that diseases are most pervasive when these two processes are synchronized.
 
-    >>> Methods
+    > Methods
       We consider disease dynamics that incorporate behavioral responses that effectively shorten the infectious period of the pathogen. Using data collected from face-to-face social interactions and synthetic contact networks constructed from empirical demographic data, we measure the reachability of this disease model and perform disease simulations over a range of latent period durations.
 
-    >>> Results
+    > Results
       We find that maximum transmission risk results when the disease latent period (and thus the generation time) are synchronized with human circadian rhythms of 24 h, and minimum transmission risk when latent periods are out of phase with circadian rhythms by 12 h. The effect of this synchronization is present for a range of disease models with realistic disease parameters and host behavioral responses.
 
-    >>> Conclusions
+    > Conclusions
       The reproductive potential of pathogens is linked inextricably to the host social behavior required for transmission. We propose that future work should consider contact periodicity in models of disease dynamics, and suggest the possibility that disease control strategies may be designed to optimize against the effects of synchronization.
 
     # / May, 2018 -  BMC Infectious Diseases
@@ -4317,7 +4317,7 @@ feed Pre2019
   ref 'Ka_et_al_1990
     head = In 1990 study of 15 volunteers who were deliberately infected with a different coronavirus squirted into their nose, with immunity monitored for a year. Immunity reached a maximum at 2 weeks. It had lapsed by a year later.
 
-    >>> Summary
+    > Summary
       After preliminary trials, the detailed changes in the concentration of specific circulating and local antibodies were followed in 15 volunteers inoculated with coronavirus 229E. Ten of them, who had significantly lower concentrations of pre-existing antibody than the rest, became infected and eight of these developed colds. A limited investigation of circulating lymphocyte populations showed some lymphocytopenia in infected volunteers. In this group, antibody concentrations started to increase 1 week after inoculation and reached a maximum about 1 week later. Thereafter antibody titres slowly declined. Although concentrations were still slightly raised 1 year later, this did not always prevent reinfection when volunteers were then challenged with the homologous virus. However, the period of virus shedding was shorter than before and none developed a cold. All of the uninfected group were infected on re-challenge although they also appeared to show some resistance to disease and in the extent of infection. These results are discussed with reference to natural infections with coronavirus and with other infections, such as rhinovirus infections.
 
     # / Oct, 1990 - epidemiology & infection
@@ -4331,7 +4331,7 @@ feed Pre2019
   ref 'Mcintosh_et_al_1970
     head = In this paper, The limitations of the CF (Complement fixing) test using available coronavirus antigens are discussed.
 
-    >>> Abstract
+    > Abstract
       A seroepidemiologic study of infection by coronavirus strains 229E, OC38, OC43, and mouse hepatitis virus (MHV) strain A-59, is described. In adults with upper respiratory disease, two “outbreaks” of coronavirus infection occurred, one during the winter of 1965–1966 associated with complement fixing (CF) antibody responses to OC38, OC43 and MHV, and the other during the following winter associated with CF antibody responses to 229E. In hospitalized children, infection with 229E was rare; infection with OC38, OC43, and MHV occurred less often in hospitalized children with lower respiratory tract disease (3.5%) than in a control group with non-respiratory tract disease (8.2%). The limitations of the CF test using available coronavirus antigens are discussed.
 
 
@@ -4343,16 +4343,16 @@ feed Pre2019
   ref 'Chut_et_al_2011
     head = Real‐time reverse‐transcriptase polymerase chain reaction remains the most accurate method for detecting 2009 pandemic influenza A (H1N1) virus infection.
 
-    >>> Background
+    > Background
       Following the outbreaks of 2009 pandemic H1N1 infection, rapid influenza diagnostic tests have been used to detect H1N1 infection. However, no meta‐analysis has been undertaken to assess the diagnostic accuracy when this manuscript was drafted.
 
-    >>> Methods
+    > Methods
       The literature was systematically searched to identify studies that reported the performance of rapid tests. Random effects meta‐analyses were conducted to summarize the overall performance.
 
-    >>> Results
+    > Results
       Seventeen studies were selected with 1879 cases and 3477 non‐cases. The overall sensitivity and specificity estimates of the rapid tests were 0·51 (95%CI: 0·41, 0·60) and 0·98 (95%CI: 0·94, 0·99). Studies reported heterogeneous sensitivity estimates, ranging from 0·11 to 0·88. If the prevalence was 30%, the overall positive and negative predictive values were 0·94 (95%CI: 0·85, 0·98) and 0·82 (95%CI: 0·79, 0·85). The overall specificities from different manufacturers were comparable, while there were some differences for the overall sensitivity estimates. BinaxNOW had a lower overall sensitivity of 0·39 (95%CI: 0·24, 0·57) compared with all the others (P‐value <0·001), whereas QuickVue had a higher overall sensitivity of 0·57 (95%CI: 0·50, 0·63) compared with all the others (P‐value = 0·005).
 
-    >>> Conclusions
+    > Conclusions
       Rapid tests have high specificity but low sensitivity and thus limited usefulness.
 
     #  / August, 2011 -  Influenza and Other Respiratory Viruses
@@ -4364,7 +4364,7 @@ feed Pre2019
   ref 'Beckmann_et_al_2016
     head = NxTAG‐RPP and RespiFinder‐22® provided highly concordant results. The sensitivity of the new assay is excellent and even seems to have superior sensitivity for some pathogens.
 
-    >>> Abstract
+    > Abstract
       Respiratory tract infection (RTI) involves a variety of viruses and bacteria, which can be conveniently detected by multiplex nucleic acid amplification testing (NAT). To compare the novel Luminex‐based NxTAG‐Respiratory Pathogen Panel (NxTAG‐RPP) with the routine multiplex‐ligation‐NAT based RespiFinder‐22® (RF‐22), 282 respiratory specimens including nasopharyngeal swabs (71%), broncho‐alveolar lavage (27%), throat swabs, tracheal secretions, and sputum (2%) from 116 children and 155 adults were extracted using a Corbett CAS1200 (Qiagen), and analyzed in parallel by the routine RF‐22 and NxTAG‐RPP. Concordant results were obtained in 263 (93.3%) cases consisting of concordant positives in 167 (59.2%) and concordant negatives in 96 (34%). Results were discordant in 19 (6.7%) consisting of 15 positive:negative, and 4 negative:positive results by NxTAG‐RPP versus RF‐22, respectively. Co‐infections were observed in 10.3% with NxTAG‐RPP and in 5.9% with RF‐22. Most additional viral pathogens identified by the NxTAG‐RPP involved dual infections with rhinovirus and RSV. Discordant samples were mainly due to low genome signals of Ct less than 36, when retested by QNAT suggesting a higher sensitivity of the NxTAG‐RPP, also when detecting multiple infections. Hands‐on time after extraction for 24 and 96 samples was 0.25 and <0.5 hr for the NxTAG‐RPP, and 2 and 4 hr for the RF‐22, respectively. The median turn‐around time was 6 hr (range 5–7 hr) for NxTAG‐RPP and 12 hr (range 8–16 hr) for RF‐22. The NxTAG‐RPP showed comparable detection rates for most respiratory pathogens, while hands‐on and turn‐around time were considerably shorter. The clinical significance of detecting multiple viruses needs further clinical evaluation.
 
     # / February, 2016 -  Journal of medical virology
@@ -4375,18 +4375,18 @@ feed Pre2019
   ref 'Huang_et_al_2017
     head = Three commercial mPCR systems—FilmArray, Verigene RV+ and GenProbe Prodesse ProFlu+—may provide important diagnostic information to help early identification of influenza virus, respiratory syncytial virus, adenovirus and hMPV.
 
-    >>> Objectives
+    > Objectives
       To provide a summary of evidence for the diagnostic accuracies of three multiplex PCR systems (mPCRs)—BioFire FilmArray RP (FilmArray), Nanosphere Verigene RV+ test (Verigene RV+) and Hologic Gen-Probe Prodesse assays—on the detection of viral respiratory infections.
 
-    >>> Methods
+    > Methods
       A comprehensive search up to 1 July 2017 was conducted on Medline and Embase for studies that utilized FilmArray, Verigene RV+ and Prodesse for diagnosis of viral respiratory infections. A summary of diagnostic accuracies for the following five viruses were calculated: influenza A virus (FluA), influenza B virus, respiratory syncytial virus, human metapneumovirus and adenovirus. Hierarchical summary receiver operating curves were used for estimating the viral detection performance per assay.
 
-    >>> Results
+    > Results
       Twenty studies of 5510 patient samples were eligible for analysis. Multiplex PCRs demonstrated high diagnostic accuracy, with area under the receiver operating characteristic curve (AUROC) equal to or more than 0.98 for all the above viruses except for adenovirus (AUROC 0.89). FilmArray, Verigene RV+ and ProFlu+ (the only Prodesse assay with enough data) demonstrated a summary sensitivity for FluA of 0.911 (95% confidence interval, 0.848–0.949), 0.949 (95% confidence interval, 0.882–0.979) and 0.954 (95% confidence interval, 0.871–0.985), respectively. The three mPCRs were comparable in terms of detection of FluA.
 
-    >>> Conclusions
+    > Conclusions
       Point estimates calculated from eligible studies showed that the three mPCRs (FilmArray, Verigene RV+ and ProFlu+) are highly accurate and may provide important diagnostic information for early identification of respiratory virus infections. In patients with low pretest probability for FluA, these three mPCRs can predict a low possibility of infection and may justify withholding empirical antiviral treatments.
-    -- quotes
+    - quotes
      !a
      !b
 
@@ -4404,7 +4404,7 @@ feed Pre2019
   ref 'Babady_et_al_2017
     head =  The ePlex RP (Respiratory Pathogen) panel offers a new, rapid, and sensitive “sample-to-answer” multiplex panel for the detection of the most common viral and bacterial respiratory pathogens.
 
-    >>> Abstract
+    > Abstract
       The performance of the new ePlex Respiratory Pathogen (RP) panel (GenMark Diagnostics) for the simultaneous detection of 19 viruses (influenza A virus; influenza A H1 virus; influenza A 2009 H1 virus; influenza A H3 virus; influenza B virus; adenovirus; coronaviruses [HKU1, OC43, NL63, and 229E]; human rhinovirus/enterovirus; human metapneumovirus; parainfluenza viruses 1, 2, 3, and 4; and respiratory syncytial virus [RSV] [RSV subtype A and RSV subtype B]) and 2 bacteria (Mycoplasma pneumoniae and Chlamydia pneumoniae) was evaluated. Prospectively and retrospectively collected nasopharyngeal swab (NPS) specimens (n = 2,908) were evaluated by using the ePlex RP panel, with the bioMérieux/BioFire FilmArray Respiratory Panel (BioFire RP) as the comparator method. Discordance analysis was performed by using target-specific PCRs and bidirectional sequencing. The reproducibility of the assay was evaluated by using reproducibility panels comprised of 6 pathogens. The overall agreement between the ePlex RP and BioFire RP results was >95% for all targets. Positive percent agreement with the BioFire RP result for viruses ranged from 85.1% (95% confidence interval [CI], 80.2% to 88.9%) to 95.1% (95% CI, 89.0% to 97.9%), while negative percent agreement values ranged from 99.5% (95% CI, 99.1% to 99.7%) to 99.8% (95% CI, 99.5% to 99.9%). Additional testing of discordant targets (12%; 349/2,908) confirmed the results of ePlex RP for 38% (131/349) of samples tested. Reproducibility was 100% for all targets tested, with the exception of adenovirus, for which reproducibilities were 91.6% at low virus concentrations and 100% at moderate virus concentrations. The ePlex RP panel offers a new, rapid, and sensitive “sample-to-answer” multiplex panel for the detection of the most common viral and bacterial respiratory pathogens.
 
 
@@ -4418,7 +4418,7 @@ feed Pre2019
   ref 'Fukushi_et_al_2005
     head = ACE2-binding peptides can be used as specific inhibitors of SARS-CoV-S protein-mediated infection. Based on the results of neutralization experiments using anti-SARS-CoV antibody and anti-ACE2 antibody, we conclude that VSV-SARS-St19 infection of target cells is mediated by SARS-CoV-S protein. VSV-SARS-St19 will be useful not only for analysing the function of SARS-CoV-S protein and for developing safe and rapid methods of detecting neutralizing antibodies specific for SARS-CoV infection but also for screening of inhibitors of SARS-CoV-S protein-mediated infection.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -4441,10 +4441,10 @@ feed Pre2019
   ref 'Netto_et_al_2017
     head = We demonstrate rapid spread of ZIKV in Salvador, Brazil, and infection rates exceeding 60%. We provide evidence for the link between ZIKV and microcephaly, report that ZIKV predominantly affects geographic areas with low socioeconomic status, and show that population immunity likely caused cessation of the outbreak.
 
-    >>> Abstract
+    > Abstract
       During 2015 to 2016, Brazil reported more Zika virus (ZIKV) cases than any other country, yet population exposure remains unknown. Serological studies of ZIKV are hampered by cross-reactive immune responses against heterologous viruses. We conducted serosurveys for ZIKV, dengue virus (DENV), and Chikungunya virus (CHIKV) in 633 individuals prospectively sampled during 2015 to 2016, including microcephaly and non-microcephaly pregnancies, HIV-infected patients, tuberculosis patients, and university staff in Salvador in northeastern Brazil using enzyme-linked immunosorbent assays (ELISAs) and plaque reduction neutralization tests. Sera sampled retrospectively during 2013 to 2015 from 277 HIV-infected patients were used to assess the spread of ZIKV over time. Individuals were georeferenced, and sociodemographic indicators were compared between ZIKV-positive and -negative areas and areas with and without microcephaly cases. Epidemiological key parameters were modeled in a Bayesian framework. ZIKV seroprevalence increased rapidly during 2015 to 2016, reaching 63.3% by 2016 (95% confidence interval [CI], 59.4 to 66.8%), comparable to the seroprevalence of DENV (75.7%; CI, 69.4 to 81.1%) and higher than that of CHIKV (7.4%; CI, 5.6 to 9.8%). Of 19 microcephaly pregnancies, 94.7% showed ZIKV IgG antibodies, compared to 69.3% of 257 non-microcephaly pregnancies (P = 0.017). Analyses of sociodemographic data revealed a higher ZIKV burden in low socioeconomic status (SES) areas. High seroprevalence, combined with case data dynamics allowed estimates of the basic reproduction number R0 of 2.1 (CI, 1.8 to 2.5) at the onset of the outbreak and an effective reproductive number Reff of <1 in subsequent years. Our data corroborate ZIKV-associated congenital disease and an association of low SES and ZIKV infection and suggest that population immunity caused cessation of the outbreak. Similar studies from other areas will be required to determine the fate of the American ZIKV outbreak.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -4501,10 +4501,10 @@ feed Pre2019
   ref 'Franceschi_et_al_2006
     head = “Inflamm‐aging,” is provoked by a continuous antigenic load and stress. Thus, the beneficial effect of the defense system network (innate immunity, stress, and inflammation), devoted to the neutralization of dangerous/harmful agents early in life and in adulthood, turns out to be detrimental late in life, in a period largely not foreseen by evolution. Similar phenomena have been predicted by evolutionary geneticists who proposed the theory of antagonistic pleiotropy.
 
-    >>> Abstract
+    > Abstract
       In this paper we extend the “network theory of aging,” and we argue that a global reduction in the capacity to cope with a variety of stressors and a concomitant progressive increase in proinflammatory status are major characteristics of the aging process. This phenomenon, which we will refer to as “inflamm‐aging,” is provoked by a continuous antigenic load and stress. On the basis of evolutionary studies, we also argue that the immune and the stress responses are equivalent and that antigens are nothing other than particular types of stressors. We also propose to return macrophage to its rightful place as central actor not only in the inflammatory response and immunity, but also in the stress response. The rate of reaching the threshold of proinflammatory status over which diseases/disabilities ensue and the individual capacity to cope with and adapt to stressors are assumed to be complex traits with a genetic component. Finally, we argue that the persistence of inflammatory stimuli over time represents the biologic background (first hit) favoring the susceptibility to age‐related diseases/disabilities. A second hit (absence of robust gene variants and/or presence of frail gene variants) is likely necessary to develop overt organ‐specific age‐related diseases having an inflammatory pathogenesis, such as atherosclerosis, Alzheimer's disease, osteoporosis, and diabetes. Following this perspective, several paradoxes of healthy centenarians (increase of plasma levels of inflammatory cytokines, acute phase proteins, and coagulation factors) are illustrated and explained. In conclusion, the beneficial effects of inflammation devoted to the neutralization of dangerous/harmful agents early in life and in adulthood become detrimental late in life in a period largely not foreseen by evolution, according to the antagonistic pleiotropy theory of aging.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -4526,10 +4526,10 @@ feed Pre2019
   ref 'Jing_et_al_2009
     head = Aging was associated with decline in pDC (plasmacytoid dendritic cells), but not mDC (myeloid dendritic cells), in healthy young versus elderly subject group comparisons, while declining health in the elderly can profoundly impact mDC negatively. Because of the importance of pDC for antiviral responses, the age-related changes in pDC likely contribute to the impaired immune response to viral infections in elderly persons, especially when combined with the mDC dysfunction occurring in those with compromised health. These findings support the strategy of targeting pDC for immune modulation to enhance vaccine efficacy in healthy elderly populations.
 
-    >>> Abstract
+    > Abstract
       Dendritic cells (DC) are potent antigen-presenting cells that initiate and regulate T-cell responses. In this study, the numbers and functional cytokine secretions of plasmacytoid and myeloid DC (pDC and mDC, respectively) in peripheral blood from young and elderly subjects were compared. Overall, pDC numbers in peripheral blood were lower in healthy elderly compared with healthy young subjects (p = 0.016). In response to influenza virus stimulation, isolated pDC from healthy elderly subjects secreted less interferon (IFN)–α compared with those from healthy young subjects. The decline in IFN-α secretion was associated with a reduced proportion of pDC that expressed Toll-like receptor–7 or Toll-like receptor-9. In contrast, there was little difference in the numbers and cytokine secretion function between healthy young and healthy elderly subjects (p = 0.82). However, in peripheral blood from frail elderly subjects, the numbers of mDC were severely depleted as compared with either healthy young or elderly subjects (p = 0.014 and 0.007, respectively). Thus, aging was associated with the numerical and functional decline in pDC, but not mDC, in healthy young versus elderly subject group comparisons, while declining health in the elderly can profoundly impact mDC negatively. Because of the importance of pDC for antiviral responses, the age-related changes in pDC likely contribute to the impaired immune response to viral infections in elderly persons, especially when combined with the mDC dysfunction occurring in those with compromised health.
 
-    -- quotes
+    - quotes
       !a
 
     / Oct, 2009 - Human Immunology
@@ -4543,10 +4543,10 @@ feed Pre2019
   ref 'Qian_et_al_2011
     head = Induction of type I IFN is a key feature of the innate immune antiviral response. Our results identify deficits in critical regulatory pathways in the antiviral response that may contribute to the enhanced susceptibility to viral infections observed in aging.
 
-    >>> Abstract
+    > Abstract
       West Nile virus (WNV), a mosquito-borne, single-stranded RNA flavivirus, causes significant human morbidity and mortality in the older population; thus, we investigated the effects of aging on infection with WNV in dendritic cells (DCs). We infected DCs with WNV in vitro and quantified cytokines and chemokines (type I IFN and CXCL10), pathogen recognition receptors RIG-I, and Toll-like receptors 3 and 7. The production of type I IFN was significantly lower in DCs from older donors, compared with younger donors. Although we observed no significant age-related difference in expression or nuclear translocation of signaling molecules in initial antiviral responses, DCs from older donors have diminished induction of late-phase responses (eg, STAT1, IRF7, and IRF1), suggesting defective regulation of type I IFN. Our results identify deficits in critical regulatory pathways in the antiviral response that may contribute to the enhanced susceptibility to viral infections observed in aging.
 
-    -- quotes
+    - quotes
       !a
 
     / May, 2011 - The Journal of Infectious Diseases,
@@ -4559,7 +4559,7 @@ feed Pre2019
   ref 'Wong_et_al_2010
     head = The study highlighted a number of practical limitations in convalescent plasma collection programs and plasmapheresis is always the preferred mode of collection. It provided valuable learning experience for the blood transfusion service in future planning when large-scale collection is required.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -4600,7 +4600,7 @@ feed Pre2019
   ref 'Marano_et_al_2016
     head = Convalescent blood products could be a valid option in the treatment/prophylaxis of several infectious diseases both in association with other drugs/preventive measures and as the only therapy when a specific treatment is not available. However, there are still some issues to consider in determining the advisability of implementing a large-scale convalescent plasma transfusion programme.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -4621,7 +4621,7 @@ feed Pre2019
   ref 'Jenkins_et_al_2015
     head = Our analyses suggest that convalescent plasma may have a clinically relevant impact in reducing the rate of mortality and viral load in patients with SARI of viral etiology, with larger treatment effects if it commenced early after symptom onset.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -4657,7 +4657,7 @@ feed Pre2019
   ref 'Lodder_et_al_2012
     head = A total number of 228 healthy individuals with different levels of immunity were challenged with monovalent oral polio vaccine serotype 1 or 3. Almost half of the individuals (45%) shed poliovirus on day 3 after challenge, which peaked (57%) on day 8 with an average poliovirus excretion of 1.3 × 105 TCID50 per g of feces and gradually decreased to less than 5% on day 42.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -4695,7 +4695,7 @@ feed Pre2019
   ref 'Wu_et_al_2004
     head = We showed that niclosamide, an existing antihelminthic drug, was able to inhibit replication of a newly discovered coronavirus, SARS-CoV and totally abolish viral antigen synthesis at a concentration of 1.56 μM, as revealed by immunoblot analysis. Thus, niclosamide represents a promising drug candidate for the effective treatment of SARS-CoV infection.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -4723,10 +4723,10 @@ feed Pre2019
   ref 'Kim_et_al_2017
     head = The RAS inhibitor group required a longer duration of mechanical ventilation and longer ICU stay. In survival analysis, the RAS inhibitor group showed better survival rates than the non-RAS group.
 
-    >>> Results
+    > Results
       A total of 182 patients were included in the study. Thirty-seven patients (20.3%) took ACE inhibitor or angiotensin receptor blocker (ARB) during ICU admission, and 145 (79.7%) did not; both groups showed similar severity scores. In the ICU, mortality was 45.9% in the RAS inhibitor group and 58.6% in the non-RAS inhibitor group (P = 0.166). The RAS inhibitor group required a longer duration of mechanical ventilation (29.5 vs. 19.5, P = 0.013) and longer ICU stay (32.1 vs. 20.2 days, P < 0.001). In survival analysis, the RAS inhibitor group showed better survival rates than the non-RAS group (P < 0.001).
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -4758,7 +4758,7 @@ feed Pre2019
   ref 'Wu_et_al_2007
     head = Among 176 patients who had had severe acute respiratory syndrome (SARS), SARS-specific antibodies were maintained for an average of 2 years, and significant reduction of immunoglobulin G–positive percentage and titers occurred in the third year. Thus, SARS patients might be susceptible to reinfection >3 years after initial exposure.
 
-    -- quotes
+    - quotes
       !a
 
     / October, 2007 - Emerg Infect Dis
@@ -4770,7 +4770,7 @@ feed Pre2019
   ref 'Kleinnijenhuis_et_al_2012
     head = We provide unique mechanistic insights into the processes mediating the adaptive features of innate immunity, or trained immunity, in humans. The modified methylation status of cytokine promoters after BCG vaccination in human monocytes, as well as the blockade of the in vitro training effects with methyltransferase inhibitors, suggests that the innate immune response in humans can be reprogrammed epigenetically.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -4790,10 +4790,10 @@ feed Pre2019
   ref 'Netea_et_al_2016
     head = We reappraised the various arguments pointing to the presence of innate immune memory in plants, lower animals, and vertebrates. We defined trained immunity as a nonspecific immunological memory resulting from rewiring the epigenetic program and the functional state of the innate immune system, eventually resulting in protection against secondary infections. We also compared data assessing the mechanisms of tolerance and trained immunity.
 
-    >>> Abstract
+    > Abstract
       The general view that only adaptive immunity can build immunological memory has recently been challenged. In organisms lacking adaptive immunity, as well as in mammals, the innate immune system can mount resistance to reinfection, a phenomenon termed “trained immunity” or “innate immune memory.” Trained immunity is orchestrated by epigenetic reprogramming, broadly defined as sustained changes in gene expression and cell physiology that do not involve permanent genetic changes such as mutations and recombination, which are essential for adaptive immunity. The discovery of trained immunity may open the door for novel vaccine approaches, new therapeutic strategies for the treatment of immune deficiency states, and modulation of exaggerated inflammation in autoinflammatory diseases.
 
-    -- quotes
+    - quotes
       !a
       !b
 
@@ -4809,7 +4809,7 @@ feed Pre2019
   ref 'Higgins_et_al_2016
     head = "Evidence suggests that receipt of BCG and MCV reduce overall mortality by more than would be expected through their effects on the diseases they prevent, and receipt of DTP may be associated with an increase in all cause mortality. Although efforts should be made to ensure that all children are immunised on schedule with BCG, DTP, and MCV, randomised trials are neededto compare the effects of different sequences."
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -4857,19 +4857,19 @@ feed Pre2019
   ref 'Kawano_et_al_2015
     head = School closure was an effective intervention for mitigating the spread of influenza and should be implemented for more than 4 days. School closure has a remarkable impact on decreasing the number of infected students at the peak, but it does not substantially decrease the total number of infected students.
 
-    >>> Background
+    > Background
       School closure is considered as an effective measure to prevent pandemic influenza. Although Japan has implemented many class, grade, and whole school closures during the early stage of the pandemic 2009, the effectiveness of such a school closure has not been analysed appropriately. In addition, analysis based on evidence or data from a large population has yet to be performed. We evaluated the preventive effect of school closure against the pandemic (H1N1) 2009 and examined efficient strategies of reactive school closure.
 
-    >>> Materials and Methods
+    > Materials and Methods
       Data included daily reports of reactive school closures and the number of infected students in the pandemic in Oita City, Japan. We used a regression model that incorporated a time delay to analyse the daily data of school closure based on a time continuous susceptible-exposed-infected-removed model of infectious disease spread. The delay was due to the time-lag from transmission to case reporting. We simulated the number of students infected daily with and without school closure and evaluated the effectiveness.
 
-    >>> Results
+    > Results
       The model with a 3-day delay from transmission to reporting yielded the best fit using R2 (the coefficient of determination). This result suggests that the recommended period of school closure is more than 4 days. Moreover, the effect of school closure in the simulation of school closure showed the following: the number of infected students decreased by about 24% at its peak, and the number of cumulative infected students decreased by about 8.0%.
 
-    >>> Conclusions
+    > Conclusions
       School closure was an effective intervention for mitigating the spread of influenza and should be implemented for more than 4 days. School closure has a remarkable impact on decreasing the number of infected students at the peak, but it does not substantially decrease the total number of infected students.
 
-    -- quotes
+    - quotes
       !a
 
     / December, 2015 - Plos One
@@ -4882,19 +4882,19 @@ feed Pre2019
   ref 'Ciavarella_et_al_2016
     head = Our simulation results suggest that reactive school closure policies based on student absenteeism are applicable in real-world situations and can be highly effective in mitigating influenza spread in the case of pandemics/epidemics characterized by features (e.g., reproduction number and age-specific susceptibility to infection) comparable to the 2009 H1N1 pandemic.
 
-    >>> Background
+    > Background
       Nearly every year Influenza affects most countries worldwide and the risk of a new pandemic is always present. Therefore, influenza is a major concern for public health. School-age individuals are often the most affected group, suggesting that the inclusion in preparedness plans of school closure policies may represent an option for influenza mitigation. However, their applicability remains uncertain and their implementation should carefully be weighed on the basis of cost-benefit considerations.
 
-    >>> Methods
+    > Methods
       We developed an individual-based model for influenza transmission integrating data on sociodemography and time use of the Italian population, face-to-face contacts in schools, and influenza natural history. The model was calibrated on the basis of epidemiological data from the 2009 influenza pandemic and was used to evaluate the effectiveness of three reactive school closure strategies, all based on school absenteeism.
 
-    >>> Results
+    > Results
       In the case of a new influenza pandemic sharing similar features with the 2009 H1N1 pandemic, gradual school closure strategies (i.e., strategies closing classes first, then grades or the entire school) could lead to attack rate reduction up to 20–25 % and to peak weekly incidence reduction up to 50–55 %, at the cost of about three school weeks lost per student. Gradual strategies are quite stable to variations in the start of policy application and to the threshold on student absenteeism triggering class (and school) closures. In the case of a new influenza pandemic showing different characteristics with respect to the 2009 H1N1 pandemic, we found that the most critical features determining the effectiveness of school closure policies are the reproduction number and the age-specific susceptibility to infection, suggesting that these two epidemiological quantities should be estimated early on in the spread of a new pandemic for properly informing response planners.
 
-    >>> Conclusions
+    > Conclusions
       Our results highlight a potential beneficial effect of reactive gradual school closure policies in mitigating influenza spread, conditioned on the effort that decision makers are willing to afford. Moreover, the suggested strategies are solely based on routinely collected and easily accessible data (such as student absenteeism irrespective of the cause and ILI incidence) and thus they appear to be applicable in real world situations.
 
-    -- quotes
+    - quotes
       !a
       !b
 
@@ -4912,10 +4912,10 @@ feed Pre2019
   ref 'Fergusion_et_al_2006
     head = Household quarantine is potentially the most effective social distance measure, but only if compliance with the policy is good. Reactive school closure has limited impact on overall attack rates, but can enhance other policies. For the high transmissibility scenario only policies using >99% border controls can delay spread by enough to enable pandemic vaccine to reduce attack rates substantially.
 
-    >>> Abstract
+    > Abstract
       Development of strategies for mitigating the severity of a new influenza pandemic is now a top global public health priority. Influenza prevention and containment strategies can be considered under the broad categories of antiviral, vaccine and non-pharmaceutical (case isolation, household quarantine, school or workplace closure, restrictions on travel) measures. Mathematical models are powerful tools for exploring this complex landscape of intervention strategies and quantifying the potential costs and benefits of different options. Here we use a large-scale epidemic simulation to examine intervention options should initial containment of a novel influenza outbreak fail, using Great Britain and the United States as examples. We find that border restrictions and/or internal travel restrictions are unlikely to delay spread by more than 2–3 weeks unless more than 99% effective. School closure during the peak of a pandemic can reduce peak attack rates by up to 40%, but has little impact on overall attack rates, whereas case isolation or household quarantine could have a significant impact, if feasible. Treatment of clinical cases can reduce transmission, but only if antivirals are given within a day of symptoms starting. Given enough drugs for 50% of the population, household-based prophylaxis coupled with reactive school closure could reduce clinical attack rates by 40–50%. More widespread prophylaxis would be even more logistically challenging but might reduce attack rates by over 75%. Vaccine stockpiled in advance of a pandemic could significantly reduce attack rates even if of low efficacy. Estimates of policy effectiveness will change if the characteristics of a future pandemic strain differ substantially from those seen in past pandemics.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -4950,22 +4950,22 @@ feed Pre2019
   ref 'Market_et_al_2007
     head = The earlier that schools were closed (ideally even in advance of outbreaks) the lower the number of excess deaths in 43 US cities during the 1918 Influenza pandemic. The longer that school closings and other non-pharmaceutical interventions (NPI) were applied in each of 43 US cities during the 1918 influenza pandemic, the lower was the ultimate mortality rate.
 
-    >>> Context
+    > Context
       A critical question in pandemic influenza planning is the role nonpharmaceutical interventions might play in delaying the temporal effects of a pandemic, reducing the overall and peak attack rate, and reducing the number of cumulative deaths. Such measures could potentially provide valuable time for pandemic-strain vaccine and antiviral medication production and distribution. Optimally, appropriate implementation of nonpharmaceutical interventions would decrease the burden on health care services and critical infrastructure.
 
-    >>> Objectives
+    > Objectives
       To examine the implementation of nonpharmaceutical interventions for epidemic mitigation in 43 cities in the continental United States from September 8, 1918, through February 22, 1919, and to determine whether city-to-city variation in mortality was associated with the timing, duration, and combination of nonpharmaceutical interventions; altered population susceptibility associated with prior pandemic waves; age and sex distribution; and population size and density.
 
-    >>> Design and Setting
+    > Design and Setting
       Historical archival research, and statistical and epidemiological analyses. Nonpharmaceutical interventions were grouped into 3 major categories: school closure; cancellation of public gatherings; and isolation and quarantine.
 
-    >>> Main Outcome Measures
+    > Main Outcome Measures
       Weekly excess death rate (EDR); time from the activation of nonpharmaceutical interventions to the first peak EDR; the first peak weekly EDR; and cumulative EDR during the entire 24-week study period.
 
-    >>> Results
+    > Results
       There were 115 340 excess pneumonia and influenza deaths (EDR, 500/100 000 population) in the 43 cities during the 24 weeks analyzed. Every city adopted at least 1 of the 3 major categories of nonpharmaceutical interventions. School closure and public gathering bans activated concurrently represented the most common combination implemented in 34 cities (79%); this combination had a median duration of 4 weeks (range, 1-10 weeks) and was significantly associated with reductions in weekly EDR. The cities that implemented nonpharmaceutical interventions earlier had greater delays in reaching peak mortality (Spearman r = −0.74, P < .001), lower peak mortality rates (Spearman r = 0.31, P = .02), and lower total mortality (Spearman r = 0.37, P = .008). There was a statistically significant association between increased duration of nonpharmaceutical interventions and a reduced total mortality burden (Spearman r = −0.39, P = .005).
 
-    >>> Conclusions
+    > Conclusions
       These findings demonstrate a strong association between early, sustained, and layered application of nonpharmaceutical interventions and mitigating the consequences of the 1918-1919 influenza pandemic in the United States. In planning for future severe influenza pandemics, nonpharmaceutical interventions should be considered for inclusion as companion measures to developing effective vaccines and medications for prophylaxis and treatment.
 
     / August, 2007 - JAMA
@@ -4977,7 +4977,7 @@ feed Pre2019
   ref 'gracia_et_al_2017b
     head = We investigate the temporal network of transfers of Medicare patients across US hospitals over a 2-year period. Approximately 2% of hospitals as sensors, chosen based on their network in-degree, with an activation time of 7 days results in optimal performance for this early warning system, enabling the early detection of 80% of the C. difficile. cases with the hospitals in the sensor set activated for only a fraction of 40% of the time.
 
-    >>> Abstract
+    > Abstract
       Antibiotic-resistant organisms, an increasing source of morbidity and mortality, have a natural reservoir in hospitals, and recent estimates suggest that almost 2 million people develop hospital-acquired infections each year in the US alone. We investigate the temporal network of transfers of Medicare patients across US hospitals over a 2-year period to learn about the possible role of hospital-to-hospital transfers of patients in the spread of infections. We analyze temporal, geographical, and topological properties of the transfer network and show that this network may serve as a substrate for the spread of infections. Finally, we study different strategies for the early detection of incipient epidemics on the temporal transfer network as a function of activation time of a subset of sensor hospitals. We find that using approximately 2% of hospitals as sensors, chosen based on their network in-degree, with an activation time of 7 days results in optimal performance for this early warning system, enabling the early detection of 80% of the C. difficile. cases with the hospitals in the sensor set activated for only a fraction of 40% of the time.
 
 
@@ -4992,10 +4992,10 @@ feed Pre2019
   ref 'gracia_et_al_2017
     head =  We studied a network defined by the transfer of a large number of Medicare patients across 5,667 US facilities over a 2-year period. We observed a positive correlation among mean C. difficile incidences between facilities and their network neighbors. This association was significantly stronger with a hospital’s network neighbors than with nearby non-connected hospitals across a wide range of geographic distances.
 
-    >>> Abstract
+    > Abstract
       Antibiotic-resistant bacterial infections are a substantial source of morbidity and mortality and have a common reservoir in inpatient settings. Transferring patients between facilities could be a mechanism for the spread of these infections. We wanted to assess whether a network of hospitals, linked by inpatient transfers, contributes to the spread of nosocomial infections and investigate how network structure may be leveraged to design efficient surveillance systems. We construct a network defined by the transfer of Medicare patients across US inpatient facilities using a 100% sample of inpatient discharge claims from 2006–2007. We show the association between network structure and C. difficile incidence, with a 1% increase in a facility’s C. difficile incidence being associated with a 0.53% increase in C. difficile incidence of neighboring facilities. Finally, we used network science methods to determine the facilities to monitor to maximize surveillance efficiency. An optimal surveillance strategy for selecting “sensor” hospitals, based on their network position, detects 80% of the C. difficile infections using only 2% of hospitals as sensors. Selecting a small fraction of facilities as “sensors” could be a cost-effective mechanism to monitor emerging nosocomial infections.
 
-    -- quotes
+    - quotes
       !a
 
     / June, 2017 - Scientific Reports
@@ -5008,10 +5008,10 @@ feed Pre2019
   ref 'Fu_et_al_2017
     head = The model considers how the spread of behavior coevolves with the spread of disease and that the interaction of these two contagions: biological contagion (H1N1 flu) and a social contagion (vaccination behavior or social distancing) plays a critical role in the course of their spread and the resulting implications for public health interventions or marketing. The size of epidemics is much more sensitive to the extent to which people copy one another’s vaccination behavior.
 
-    >>> Abstract
+    > Abstract
       Numerous models explore how a wide variety of biological and social phenomena spread in social networks. However, these models implicitly assume that the spread of one phenomenon is not affected by the spread of another. Here, we develop a model of “dueling contagions”, with a particular illustration of a situation where one is biological (influenza) and the other is social (flu vaccination). We apply the model to unique time series data collected during the 2009 H1N1 epidemic that includes information about vaccination, flu, and face-to-face social networks. The results show that well-connected individuals are more likely to get vaccinated, as are people who are exposed to friends who get vaccinated or are exposed to friends who get the flu. Our dueling contagion model suggests that other epidemiological models may be dramatically underestimating the R0 of contagions. It also suggests that the rate of vaccination contagion may be even more important than the biological contagion in determining the course of the disease. These results suggest that real world and online platforms that make it easier to see when friends have been vaccinated (personalized vaccination campaigns) and when they get the flu (personalized flu warnings) could have a large impact on reducing the severity of epidemics. They also suggest possible benefits from understanding the coevolution of many kinds of dueling contagions.
 
-    -- quotes
+    - quotes
     !a
     !b
     !c
@@ -5033,10 +5033,10 @@ feed Pre2019
   ref 'Christakis_et_al_2010
     head = This study proposes the method of simply monitoring the friends of randomly selected individuals that could be used to provide early detection of contagious outbreaks and it could also be used to monitor targeted populations of any size, in real time. The method could in principle be generalized to other biological, psychological, informational, or behavioral contagions that spread in networks.
 
-    >>> Abstract
+    > Abstract
       Current methods for the detection of contagious outbreaks give contemporaneous information about the course of an epidemic at best. It is known that individuals near the center of a social network are likely to be infected sooner during the course of an outbreak, on average, than those at the periphery. Unfortunately, mapping a whole network to identify central individuals who might be monitored for infection is typically very difficult. We propose an alternative strategy that does not require ascertainment of global network structure, namely, simply monitoring the friends of randomly selected individuals. Such individuals are known to be more central. To evaluate whether such a friend group could indeed provide early detection, we studied a flu outbreak at Harvard College in late 2009. We followed 744 students who were either members of a group of randomly chosen individuals or a group of their friends. Based on clinical diagnoses, the progression of the epidemic in the friend group occurred 13.9 days (95% C.I. 9.9–16.6) in advance of the randomly chosen group (i.e., the population as a whole). The friend group also showed a significant lead time (p<0.05) on day 16 of the epidemic, a full 46 days before the peak in daily incidence in the population as a whole. This sensor method could provide significant additional time to react to epidemics in small or large populations under surveillance. The amount of lead time will depend on features of the outbreak and the network at hand. The method could in principle be generalized to other biological, psychological, informational, or behavioral contagions that spread in networks.
 
-    -- quotes
+    - quotes
       !b
       !c
 
@@ -5058,7 +5058,7 @@ feed Pre2019
   ref 'Agostini_et_al_2018
     head =  GS-5734 interferes with the nsp12 polymerase even in the setting of intact ExoN proofreading activity and that resistance can be overcome with increased, nontoxic concentrations of GS-5734, further supporting the development of GS-5734 as a broad-spectrum therapeutic to protect against contemporary and emerging CoVs.
 
-    -- quotes
+    - quotes
       !a
 
     / March, 2018 - American Society of Microbiology
@@ -5071,7 +5071,7 @@ feed Pre2019
   ref 'Rossignol_et_al_2014
     head = We review the antiviral activity of nitazoxanide and other thiazolides as reported in cell culture assays, animal studies and human clinical trials with an emphasis on influenza.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -5102,7 +5102,7 @@ feed Pre2019
   ref 'Cvetkovic_et_al_2012
     head = Coformulated lopinavir/ritonavir is a novel PI that, in combination with other antiretroviral agents, suppresses plasma viral load and enhances immunological status in therapy-naive and -experienced patients with HIV-1 infection.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -5122,7 +5122,7 @@ feed Pre2019
   ref 'Zumla_et_al_2016
     head = We summarize the epidemiology, virology, clinical features and current treatment strategies of SARS and MERS, and discuss the discovery and development of new virus-based and host-based therapeutic options for CoV infections.
 
-    -- quotes
+    - quotes
       !a
       !b
 
@@ -5138,7 +5138,7 @@ feed Pre2019
   ref 'Takeuchi_et_al_2009
     head = It is important to understand dynamic interaction between the immune cells by monitoring immune cell behavior, interaction and activation in vivo. The understanding of mechanisms for the activation of antiviral immunity will leads to development of novel immunotherapy and vaccines for infectious diseases, immune diseases and cancer.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -5173,7 +5173,7 @@ feed Pre2019
   ref 'Duffy_et_al_2018
     head = RNA viruses have high mutation rates, but they may tolerate them rather than revel in them. That they were optimized for genetic variation alone is a “just so story” that should be skeptically re-examined as the more complicated biological reality is revealed
 
-    -- quotes
+    - quotes
       !a
       !b
 
@@ -5189,7 +5189,7 @@ feed Pre2019
   ref 'Sanjuán_et_al_2010
     head = This paper suggest that future mutation rate studies should fulfill the following criteria: the number of cell infection cycles should be as low as possible, the mutational target should be large, and mutations should be neutral or lethal or a correction should be made for selection bias. Adhering to these criteria will help us to get a clearer picture of virus mutation patterns.
 
-    -- quotes
+    - quotes
       !a
 
     / October, 2010 - Journal of Virology
@@ -5201,10 +5201,10 @@ feed Pre2019
   ref 'Sanjuán_et_al_2016
     head = Rates of spontaneous mutation vary amply among viruses. RNA viruses mutate faster than DNA viruses, single-stranded viruses mutate faster than double-strand virus, and genome size appears to correlate negatively with mutation rate.
 
-    >>> Abstract
+    > Abstract
       The remarkable capacity of some viruses to adapt to new hosts and environments is highly dependent on their ability to generate de novo diversity in a short period of time. Rates of spontaneous mutation vary amply among viruses. RNA viruses mutate faster than DNA viruses, single-stranded viruses mutate faster than double-strand virus, and genome size appears to correlate negatively with mutation rate. Viral mutation rates are modulated at different levels, including polymerase fidelity, sequence context, template secondary structure, cellular microenvironment, replication mechanisms, proofreading, and access to post-replicative repair. Additionally, massive numbers of mutations can be introduced by some virus-encoded diversity-generating elements, as well as by host-encoded cytidine/adenine deaminases. Our current knowledge of viral mutation rates indicates that viral genetic diversity is determined by multiple virus- and host-dependent processes, and that viral mutation rates can evolve in response to specific selective pressures.
 
-    >>> Conclusion
+    > Conclusion
       Viral mutation rates are determined by multiple processes, including polymerase intrinsic fidelity, replication mode, 3′ exonuclease activity, spontaneous nucleic acid damage, access to post-replicative repair, editing by host-encoded deaminases, imbalances in nucleotide pools, template sequence context, and template structure, as summarized in Table 2. Some of these processes underlie large-scale patterns of variation among viruses, such as differences between RNA and DNA viruses, between viruses with small and large genomes, and between single-strand and double-strand viruses, but important mechanistic aspects behind these differences still remain uncharacterized. Furthermore, mutation rates are not static and can evolve in response to selective pressures, as exemplified by fidelity variants selected under mutagenic conditions in a variety of viruses. In addition to polymerase fidelity, other mutation rate-determinants such as access to DNA repair may have also changed in response to selective pressures during viral evolution.
       In RNA viruses, both low- and high-fidelity polymerase variants tend to have a negative impact in viral fitness in complex environments, suggesting that RNA virus mutation rates have been evolutionarily optimized. Given that DNA virus mutation rates are substantially lower than those of RNA viruses this also suggests that DNA viruses show suboptimal mutation rates for adaptation to rapidly changing environments, despite RNA and DNA viruses sharing similar lifestyles. It appears that large DNA viruses have adopted a different and more elaborate strategy consisting of targeting mutations to specific genome regions subject to rapidly varying selective pressures, such as genes encoding attachment proteins or inhibitors of innate immunity responses. Mutation targeting mechanisms such as DGRs and recombination-driven gene copy amplification are probably not accessible to small DNA viruses with compact genomes. Furthermore, mutation rate evolution in small DNA viruses is further constrained by the fact they do not encode autonomous replication systems. Therefore, small DNA viruses should rely on repair avoidance and on use of host-encoded error-prone DNA polymerases to elevate their mutation rates and achieve faster adaptation. Elucidating the mutational mechanisms of small DNA viruses is a current challenge in virus molecular biology and evolution. Other exciting unresolved questions include unveiling the interplays between mutation and recombination, the roles played by viral accessory proteins in determining mutation rates, the effects of host-encoding enzymes on viral diversity and evolution, whether mutation accumulation can be evolutionary adjusted by modifying viral replication modes, and how template sequences regulate viral mutation rates.
 
@@ -5219,7 +5219,7 @@ feed Pre2019
   ref 'Callow_et_al_1990
     head = In a group of 15 Volunteers inoculated with coronavirus, concentrations started to increase 1 week after inoculation and reached a maximum about 1 week later. Thereafter antibody titres slowly declined. Although concentrations were still slightly raised 1 year later, this did not always prevent reinfection when volunteers were then challenged with the homologous virus. All of the uninfected group were infected on re-challenge although they also appeared to show some resistance to disease and in the extent of infection.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -5245,7 +5245,7 @@ feed Pre2019
   ref 'Alshukairi_et_al_2016
     head = Our results indicate that the longevity of the MERS-CoV antibody response correlated with disease severity. 2 patients with severe MERS-associated pneumonia had a persistent antibody response detected for >18 months after infection, whereas patients with disease confined to the upper respiratory tract or who had no clinical signs had no detectable MERS-CoV antibody response.
 
-    >>> Abstract
+    > Abstract
       We studied antibody response in 9 healthcare workers in Jeddah, Saudi Arabia, who survived Middle East respiratory syndrome, by using serial ELISA and indirect immunofluorescence assay testing. Among patients who had experienced severe pneumonia, antibody was detected for >18 months after infection. Antibody longevity was more variable in patients who had experienced milder disease.
 
 
@@ -5256,10 +5256,10 @@ feed Pre2019
   ref 'Ren_et_al_2015
     head = We report a model for the persistence of OC43 genotypes in human populations based on the first intensive evolutionary analysis of the S gene. We infer that the genetic drift of the S gene is likely to be one of the mechanisms of the adaptation evolution of HCoV-OC43. These findings provide insights into the evolution of CoVs and may have implications in the surveillance of HCoV infections.
 
-    >>> Abstract
+    > Abstract
       Coronaviruses (CoVs) continuously threaten human health. However, to date, the evolutionary mechanisms that govern CoV strain persistence in human populations have not been fully understood. In this study, we characterized the evolution of the major antigen-spike (S) gene in the most prevalent human coronavirus (HCoV) OC43 using phylogenetic and phylodynamic analysis. Among the five known HCoV-OC43 genotypes (A to E), higher substitution rates and dN/dS values as well as more positive selection sites were detected in the S gene of genotype D, corresponding to the most dominant HCoV epidemic in recent years. Further analysis showed that the majority of substitutions were located in the S1 subunit. Among them, seven positive selection sites were chronologically traced in the temporal evolution routes of genotype D and six were located around the critical sugar binding region in the N-terminal domain (NTD) of S protein, an important sugar binding domain of CoV. These findings suggest that the genetic drift of the S gene may play an important role in genotype persistence in human populations, providing insights into the mechanisms of HCoV-OC43 adaptive evolution.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -5279,7 +5279,7 @@ feed Pre2019
   ref 'Velthuis_et_al_2010
     head = The combination of zinc ions and the zinc-ionophore PT efficiently inhibits nidovirus replication in cell culture. This provides an interesting basis for further studies into the use of zinc-ionophores as antiviral compounds, although systemic effects have to be considered and a water-soluble zinc-ionophore may be better suited.
 
-    -- quotes
+    - quotes
       !a
       !b
 
@@ -5296,10 +5296,10 @@ feed Pre2019
   ref 'Savarino_et_al_2003
     head = Chloroquine has interesting biochemical properties that might be applied against some viral infections. Chloroquine exerts direct antiviral effects, inhibiting pH-dependent steps of the replication of several viruses including coronaviruses.
 
-    >>> Abstract
+    > Abstract
       Chloroquine is a 9-aminoquinoline known since 1934. Apart from its well-known antimalarial effects, the drug has interesting biochemical properties that might be applied against some viral infections. Chloroquine exerts direct antiviral effects, inhibiting pH-dependent steps of the replication of several viruses including members of the flaviviruses, retroviruses, and coronaviruses. Its best-studied effects are those against HIV replication, which are being tested in clinical trials. Moreover, chloroquine has immunomodulatory effects, suppressing the production/release of tumour necrosis factor α and interleukin 6, which mediate the inflammatory complications of several viral diseases. We review the available information on the effects of chloroquine on viral infections, raising the question of whether this old drug may experience a revival in the clinical management of viral diseases such as AIDS and severe acute respiratory syndrome, which afflict mankind in the era of globalisation.
 
-    -- quotes
+    - quotes
       !a
 
     / November, 2003 -  The Lancet, Infectious Diseases
@@ -5311,10 +5311,10 @@ feed Pre2019
   ref 'Sheahan_et_al_2017
     head = We show that a nucleotide prodrug, GS-5734, currently in clinical development for treatment of Ebola virus disease, can inhibit SARS-CoV and MERS-CoV replication in multiple in vitro systems.
 
-    >>> Abstract
+    > Abstract
       Emerging viral infections are difficult to control because heterogeneous members periodically cycle in and out of humans and zoonotic hosts, complicating the development of specific antiviral therapies and vaccines. Coronaviruses (CoVs) have a proclivity to spread rapidly into new host species causing severe disease. Severe acute respiratory syndrome CoV (SARS-CoV) and Middle East respiratory syndrome CoV (MERS-CoV) successively emerged, causing severe epidemic respiratory disease in immunologically naïve human populations throughout the globe. Broad-spectrum therapies capable of inhibiting CoV infections would address an immediate unmet medical need and could be invaluable in the treatment of emerging and endemic CoV infections. We show that a nucleotide prodrug, GS-5734, currently in clinical development for treatment of Ebola virus disease, can inhibit SARS-CoV and MERS-CoV replication in multiple in vitro systems, including primary human airway epithelial cell cultures with submicromolar IC50 values. GS-5734 was also effective against bat CoVs, prepandemic bat CoVs, and circulating contemporary human CoV in primary human lung cells, thus demonstrating broad-spectrum anti-CoV activity. In a mouse model of SARS-CoV pathogenesis, prophylactic and early therapeutic administration of GS-5734 significantly reduced lung viral load and improved clinical signs of disease as well as respiratory function. These data provide substantive evidence that GS-5734 may prove effective against endemic MERS-CoV in the Middle East, circulating human CoV, and, possibly most importantly, emerging CoV of the future.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -5334,7 +5334,7 @@ feed Pre2019
   ref 'Vincent_et_al_2005
     head = Severe acute respiratory syndrome (SARS) is caused by a newly discovered coronavirus (SARS-CoV). We report that chloroquine has strong antiviral effects on SARS-CoV infection of primate cells.
 
-    -- quotes
+    - quotes
       !a
 
     / August, 2005 -  Virology Journal
@@ -5346,7 +5346,7 @@ feed Pre2019
   ref 'Davis_et_al_2003
     head = We report a case of severe chloroquine toxicity in the presence of high-grade chloroquine-resistant Plasmodium vivax. A febrile 36-year-old seaman from Mumbai (Bombay) was prescribed >5 times the usual dose of chloroquine for malaria.
 
-    -- quotes
+    - quotes
       !a
 
     / April, 2003 - Annals of pharmacotherapy
@@ -5358,10 +5358,10 @@ feed Pre2019
   ref 'Reza_et_al_2011
     head = There are limited data on the use of masks and respirators to reduce transmission of influenza. A systematic review was undertaken to help inform pandemic influenza guidance in the United Kingdom. Some evidence suggests that mask use is best undertaken as part of a package of personal protection especially hand hygiene in both home and healthcare settings. Early initiation and correct and consistent wearing of masks/respirators may improve their effectiveness.
 
-    >>> Abstract
+    > Abstract
       There are limited data on the use of masks and respirators to reduce transmission of influenza. A systematic review was undertaken to help inform pandemic influenza guidance in the United Kingdom. The initial review was performed in November 2009 and updated in June 2010 and January 2011. Inclusion criteria included randomised controlled trials and quasi‐experimental and observational studies of humans published in English with an outcome of laboratory‐confirmed or clinically‐diagnosed influenza and other viral respiratory infections. There were 17 eligible studies. Six of eight randomised controlled trials found no significant differences between control and intervention groups (masks with or without hand hygiene; N95/P2 respirators). One household trial found that mask wearing coupled with hand sanitiser use reduced secondary transmission of upper respiratory infection/influenza‐like illness/laboratory‐confirmed influenza compared with education; hand sanitiser alone resulted in no reduction. One hospital‐based trial found a lower rate of clinical respiratory illness associated with non‐fit‐tested N95 respirator use compared with medical masks. Eight of nine retrospective observational studies found that mask and/or respirator use was independently associated with a reduced risk of severe acute respiratory syndrome (SARS). Findings, however, may not be applicable to influenza and many studies were suboptimal. None of the studies established a conclusive relationship between mask/respirator use and protection against influenza infection. Some evidence suggests that mask use is best undertaken as part of a package of personal protection especially hand hygiene. The effectiveness of masks and respirators is likely linked to early, consistent and correct usage.
 
-    -- quotes
+    - quotes
       !a
       !b
       !d
@@ -5389,7 +5389,7 @@ feed Pre2019
   ref 'Tracht_et_al_2010
     head = The results show that if N95 respirators are only 20% effective in reducing susceptibility and infectivity, only 10% of the population would have to wear them to reduce the number of influenza A (H1N1) cases by 20%. If worn properly, facemasks are an effective intervention strategy in reducing the spread of pandemic (H1N1) 2009.
 
-    >>> Abstract
+    > Abstract
       On June 11, 2009, the World Health Organization declared the outbreak of novel influenza A (H1N1) a pandemic. With limited supplies of antivirals and vaccines, countries and individuals are looking at other ways to reduce the spread of pandemic (H1N1) 2009, particularly options that are cost effective and relatively easy to implement. Recent experiences with the 2003 SARS and 2009 H1N1 epidemics have shown that people are willing to wear facemasks to protect themselves against infection; however, little research has been done to quantify the impact of using facemasks in reducing the spread of disease. We construct and analyze a mathematical model for a population in which some people wear facemasks during the pandemic and quantify impact of these masks on the spread of influenza. To estimate the parameter values used for the effectiveness of facemasks, we used available data from studies on N95 respirators and surgical facemasks. The results show that if N95 respirators are only 20% effective in reducing susceptibility and infectivity, only 10% of the population would have to wear them to reduce the number of influenza A (H1N1) cases by 20%. We can conclude from our model that, if worn properly, facemasks are an effective intervention strategy in reducing the spread of pandemic (H1N1) 2009.
 
 
@@ -5403,11 +5403,11 @@ feed Pre2019
   ref 'Pavlovich_et_al_2018
     head = Bats harbor many viruses asymptomatically, including several notorious for causing extreme virulence in humans. We hypothesize that tolerance of viral infection, rather than enhanced potency of antiviral defenses, may be a key mechanism by which bats asymptomatically host viruses that are pathogenic in humans.
 
-    >>> Abstract
+    > Abstract
       Bats harbor many viruses asymptomatically, including several notorious for causing extreme virulence in humans. To identify differences between antiviral mechanisms in humans and bats, we sequenced, assembled, and analyzed the genome of Rousettus aegyptiacus, a natural reservoir of Marburg virus and the only known reservoir for any filovirus. We found an expanded and diversified KLRC/KLRD family of natural killer cell receptors, MHC class I genes, and type I interferons, which dramatically differ from their functional counterparts in other mammals. Such concerted evolution of key components of bat immunity is strongly suggestive of novel modes of antiviral defense. An evaluation of the theoretical function of these genes suggests that an inhibitory immune state may exist in bats. Based on our findings, we hypothesize that tolerance of viral infection, rather than enhanced potency of antiviral defenses, may be a key mechanism by which bats asymptomatically host viruses that are pathogenic in humans.
 
 
-    -- quotes
+    - quotes
       !a
 
     / May, 2018 - Cell
@@ -5419,10 +5419,10 @@ feed Pre2019
   ref 'Banerjee_et_al_2020
     head = Here, we summarize our current understanding of antiviral immune responses in bats and discuss their ability to co-exist with emerging viruses that cause serious disease in other mammals. In this Review, we summarize major developments in understanding bat antiviral responses, highlighting unique properties of bat immune systems and comparing and contrasting antiviral signaling pathways in bat and human cells.
 
-    >>> Abstract
+    > Abstract
       In recent years, viruses similar to those that cause serious disease in humans and other mammals have been detected in apparently healthy bats. These include filoviruses, paramyxoviruses, and coronaviruses that cause severe diseases such as Ebola virus disease, Marburg haemorrhagic fever and severe acute respiratory syndrome (SARS) in humans. The evolution of flight in bats seem to have selected for a unique set of antiviral immune responses that control virus propagation, while limiting self-damaging inflammatory responses. Here, we summarize our current understanding of antiviral immune responses in bats and discuss their ability to co-exist with emerging viruses that cause serious disease in other mammals. We highlight how this knowledge may help us to predict viral spillovers into new hosts and discuss future directions for the field.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -5450,7 +5450,7 @@ feed Pre2019
   ref 'Graham_et_al_2010
     head =  In this review, we discuss the molecular mechanisms that govern coronavirus cross-species transmission using the emergence of SARS-CoV as a model. We pay particular attention to how changes in the Spike attachment protein, both within and outside of the receptor binding domain, mediate the emergence of coronaviruses in new host populations.
 
-    -- quotes
+    - quotes
       !a
       !b
 
@@ -5466,10 +5466,10 @@ feed Pre2019
   ref 'Holmes_et_al_2004
     head = We outline some of the key evolutionary genetic aspects of viral emergence. We emphasize that, although the high mutation rates of RNA viruses provide them with great adaptability and explain why they are the main cause of emerging diseases, their limited genome size means that they are also subject to major evolutionary constraints.
 
-    >>> Abstract
+    > Abstract
       The recent appearance of severe acute respiratory syndrome coronavirus (SARS–CoV) highlights the continual threat to human health posed by emerging viruses. However, the central processes in the evolution of emerging viruses are unclear, particularly the selection pressures faced by viruses in new host species. We outline some of the key evolutionary genetic aspects of viral emergence. We emphasize that, although the high mutation rates of RNA viruses provide them with great adaptability and explain why they are the main cause of emerging diseases, their limited genome size means that they are also subject to major evolutionary constraints. Understanding the mechanistic basis of these constraints, particularly the roles played by epistasis and pleiotropy, is likely to be central in explaining why some RNA viruses are more able than others to cross species boundaries. Viral genetic factors have also been implicated in the emergence of SARS–CoV, with the suggestion that this virus is a recombinant between mammalian and avian coronaviruses. We show, however, that the phylogenetic patterns cited as evidence for recombination are more probably caused by a variation in substitution rate among lineages and that recombination is unlikely to explain the appearance of SARS in humans.
 
-    -- quotes
+    - quotes
       !a
 
     / June, 2004 -  The Royal Society
@@ -5481,10 +5481,10 @@ feed Pre2019
   ref 'Cui_et_al_2018
     head = In this Review, we summarize the current knowledge on the origin and evolution of these SARS-CoV and MERS-CoV and discuss their receptor usage. We also highlight the diversity and potential of spillover of bat-borne coronaviruses, as evidenced by the recent spillover of swine acute diarrhoea syndrome coronavirus (SADS-CoV) to pigs.
 
-    >>> Abstract
+    > Abstract
       Severe acute respiratory syndrome coronavirus (SARS-CoV) and Middle East respiratory syndrome coronavirus (MERS-CoV) are two highly transmissible and pathogenic viruses that emerged in humans at the beginning of the 21st century. Both viruses likely originated in bats, and genetically diverse coronaviruses that are related to SARS-CoV and MERS-CoV were discovered in bats worldwide. In this Review, we summarize the current knowledge on the origin and evolution of these two pathogenic coronaviruses and discuss their receptor usage; we also highlight the diversity and potential of spillover of bat-borne coronaviruses, as evidenced by the recent spillover of swine acute diarrhoea syndrome coronavirus (SADS-CoV) to pigs.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -5522,10 +5522,10 @@ feed Pre2019
   ref 'Lin_et_al_2017
     head = To help reveal the diversity and evolution of bat coronaviruses we collected 1067 bats from 21 species in China. A total of 73 coronaviruses were identified in these bats. Overall, these data suggest that high contact rates among specific bat species enable the acquisition and spread of coronaviruses.
 
-    >>> Abstract
+    > Abstract
       To help reveal the diversity and evolution of bat coronaviruses we collected 1067 bats from 21 species in China. A total of 73 coronaviruses (32 alphacoronaviruses and 41 betacoronaviruses) were identified in these bats, with an overall prevalence of 6.84%. All newly-identified betacoronaviruses were SARS-related Rhinolophus bat coronaviruses (SARSr-Rh-BatCoV). Importantly, with the exception of the S gene, the genome sequences of the SARSr-Rh-BatCoVs sampled in Guizhou province were closely related to SARS-related human coronavirus. Additionally, the newly-identified alphacoronaviruses exhibited high genetic diversity and some may represent novel species. Our phylogenetic analyses also provided insights into the transmission of these viruses among bat species, revealing a general clustering by geographic location rather than by bat species. Inter-species transmission among bats from the same genus was also commonplace in both the alphacoronaviruses and betacoronaviruses. Overall, these data suggest that high contact rates among specific bat species enable the acquisition and spread of coronaviruses.
 
-    -- quotes
+    - quotes
       !a
 
     / July, 2017 -  Virology
@@ -5537,10 +5537,10 @@ feed Pre2019
   ref 'Shi_et_al_2008
     head = In this review, we summarize the researches on animal reservoirs of the SARS coronavirus (SARS-CoV).
 
-    >>>
+    >
       In this review, we summarize the researches on animal reservoirs of the SARS coronavirus (SARS-CoV). Masked palm civets were suspected as the origin of the SARS outbreak in 2003 and was confirmed as the direct origin of SARS cases with mild symptom in 2004. Sequence analysis of the SARS-CoV-like virus in masked palm civets indicated that they were highly homologous to human SARS-CoV with nt identity over 99.6%, indicating the virus has not been circulating in the population of masked palm civets for a very long time. Alignment of 10 complete viral genome sequences from masked palm civets with those of human SARS-CoVs revealed 26 conserved single-nucleotide variations (SNVs) in the viruses from masked palm civets. These conserved SNVs were gradually lost from the genomes of viruses isolated from the early phase to late phase human patients of the 2003 SARS epidemic. In 2005, horseshoe bats were identified as the natural reservoir of a group of coronaviruses that are distantly related to SARS-CoV. The genome sequences of bat SARS-like coronavirus had about 88–92% nt identity with that of the SARS-CoV. The prevalence of antibodies and viral RNA in different bat species and the characteristics of the bat SARS-like coronavirus were elucidated. Apart from masked palm civets and bats, 29 other animal species had been tested for the SARS-CoV, and the results are summarized in this paper.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -5560,10 +5560,10 @@ feed Pre2019
   ref 'Corman_et_al_2018
     head = The four endemic human coronaviruses HCoV-229E, -NL63, -OC43, and -HKU1 contribute a considerable share of upper and lower respiratory tract infections in adults and children. While their clinical representation resembles that of many other agents of the common cold, their evolutionary histories, and host associations could provide important insights into the natural history of past human pandemics.
 
-    >>> Abstract
+    > Abstract
       The four endemic human coronaviruses HCoV-229E, -NL63, -OC43, and -HKU1 contribute a considerable share of upper and lower respiratory tract infections in adults and children. While their clinical representation resembles that of many other agents of the common cold, their evolutionary histories, and host associations could provide important insights into the natural history of past human pandemics. For two of these viruses, we have strong evidence suggesting an origin in major livestock species while primordial associations for all four viruses may have existed with bats and rodents. HCoV-NL63 and -229E may originate from bat reservoirs as assumed for many other coronaviruses, but HCoV-OC43 and -HKU1 seem more likely to have speciated from rodent-associated viruses. HCoV-OC43 is thought to have emerged from ancestors in domestic animals such as cattle or swine. The bovine coronavirus has been suggested to be a possible ancestor, from which HCoV-OC43 may have emerged in the context of a pandemic recorded historically at the end of the 19th century. New data suggest that HCoV-229E may actually be transferred from dromedary camels similar to Middle East respiratory syndrome (MERS) coronavirus. This scenario provides important ecological parallels to the present prepandemic pattern of host associations of the MERS coronavirus.
 
-    -- quotes
+    - quotes
       !a
 
     / February, 2018 -  Advances in Virus Research
@@ -5575,10 +5575,10 @@ feed Pre2019
   ref 'Wertheim_et_al_2013
     head = Molecular clock dating analyses of coronaviruses suggest that the most recent common ancestor of these viruses existed around 10,000 years ago. We found that the time to the most recent ancestor common for all coronaviruses is likely far greater (millions of years) than the previously inferred range.
 
-    >>> Abstract
+    > Abstract
       Coronaviruses are found in a diverse array of bat and bird species, which are believed to act as natural hosts. Molecular clock dating analyses of coronaviruses suggest that the most recent common ancestor of these viruses existed around 10,000 years ago. This relatively young age is in sharp contrast to the ancient evolutionary history of their putative natural hosts, which began diversifying tens of millions of years ago. Here, we attempted to resolve this discrepancy by applying more realistic evolutionary models that have previously revealed the ancient evolutionary history of other RNA viruses. By explicitly modeling variation in the strength of natural selection over time and thereby improving the modeling of substitution saturation, we found that the time to the most recent ancestor common for all coronaviruses is likely far greater (millions of years) than the previously inferred range.
 
-    -- quotes
+    - quotes
       !a
 
     / April, 2013 - Journal of Virology
@@ -5590,7 +5590,7 @@ feed Pre2019
   ref 'Zhang_et_all_2020b
     head = Peptide-based binders are an attractive solution to inhibit the RBD-ACE2 interaction. Using molecular dynamics simulations based on the recently solved ACE2 and SARS-CoV-2-RBD co-crystal structure, we observed that the ACE2 peptidase domain (PD) α1 helix is important for binding SARS-CoV-2-RBD. This peptide binder to SARS-CoV-2-RBD provides new avenues for COVID-19 treatment and diagnostic modalities by blocking the SARS-CoV-2 spike protein interaction with ACE2 and thus precluding virus entry into human cells.
 
-    -- quotes
+    - quotes
       !a
 
     / bioRxiv - March, 2020
@@ -5602,7 +5602,7 @@ feed Pre2019
   ref 'Menachery_et_al_2015
     head = Here we examine the disease potential of a SARS-like virus, SHC014-CoV, which is currently circulating in Chinese horseshoe bat populations. Our work suggests a potential risk of SARS-CoV re-emergence from viruses currently circulating in bat populations.
 
-    -- quotes
+    - quotes
       !a
 
     / Nature - November, 2015
@@ -5614,7 +5614,7 @@ feed Pre2019
   ref 'Zhao_et_al_2010
     head = Inefficient immune activation and a poor virus-specific T cell response underlie severe disease in SARS-CoV-infected mice. We examine whether a robust antivirus T cell response was sufficient to protect mice in the absence of interventions that activated the innate immune response. We provide a new approach to SARS vaccine design.
 
-    -- quotes
+    - quotes
       !a
 
     / Journal of Virology - June, 2010
@@ -5626,7 +5626,7 @@ feed Pre2019
   ref 'Chen_et_al_2009
     head = In this study, we characterize the cellular immune response to SARS-CoV infection in 12- to 14-mo BALB/c mice in terms of the protein and gene expression of inflammatory mediators, migration of inflammatory cells, and virus-specific T-cell responses in the lungs during the course of disease. We evaluated the role of T cells in disease pathogenesis and viral clearance by depleting T-cell subsets at the time of infection and found an important role for CD4+ T cells (but not CD8+ T cells) in primary infection with SARS-CoV in this model.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -5666,7 +5666,7 @@ feed Pre2019
   ref 'Wong_et_al_2006
     head = This study reports a study on in‐vivo protective performance of surgical masks and N95 respirators. Tests on physical properties showed that N95 respirators had significantly lower air permeability and water vapor permeability than surgical masks.
 
-    -- quotes
+    - quotes
       !a
       !b
 

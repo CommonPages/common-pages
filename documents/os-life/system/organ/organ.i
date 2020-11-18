@@ -24,7 +24,7 @@
     name: Diagram of a Lymph Node
     image 'img
 
-    >>>
+    >
       {image:'img}
 
   /// The spleen is an organ that acts primarily as a blood filter. It is similar in structure to a large lymph node.

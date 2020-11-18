@@ -1,38 +1,38 @@
 feed 2019
-  -- December, 2019
+  - December, 2019
     'Lin_et_al_12_30_2019
     'Wan_et_al_2019
     'Benfield_et_al_2019
 
-  -- November, 2019
+  - November, 2019
     'Yang_et_al_11_26_2019
     'Alharbi_et_al_11_19_2019
 
-  -- October, 2019
+  - October, 2019
     'Liu_et_al_10_24_2019
 
-  -- September, 2019
+  - September, 2019
     'Cui_et_al_2019
 
-  -- July, 2019
+  - July, 2019
     'Luk_et_al_2019
 
-  -- June, 2019
+  - June, 2019
     'Shan-Shi_et_al_06_05_2019
     'Voiriot_et_al_2019
     'Shi_et_al_2019
     'Wu_et_al_2019
 
-  -- March, 2019
+  - March, 2019
     'Yan_et_al_2019
     'Ramadan_et_al_2019
 
-  -- February, 2019
+  - February, 2019
     'Asadi_et_al_2019
     'Liu_et_al_2019
     'Wong_et_al_2019
 
-  -- Jan, 2019
+  - Jan, 2019
     'Chen_et_al_2019
 
   #
@@ -43,7 +43,7 @@ feed 2019
   # ref 'McDonald_et_al_10_31_2019
   #   head = We use principles from public health ethics to analyse the critical ethical issues that relate to agencies providing advice on, recommending and/or distributing facemasks in air pollution disasters, given a lack of evidence of both the specific risk of some polluting events or the effectiveness of facemasks in community settings.
   #
-  #   >>> Abstract
+  #   > Abstract
   #     Disasters involving severe air pollution episodes create a pressing public health issue. During such emergencies, there may be pressure on agencies to provide solutions to protect affected communities. One possible intervention to reduce exposure during such crises is facemasks. Ethical values need to be considered as part of any decision-making process to assess whether to provide advice on, recommend and/or distribute any public health intervention. In this paper, we use principles from public health ethics to analyse the critical ethical issues that relate to agencies providing advice on, recommending and/or distributing facemasks in air pollution disasters, given a lack of evidence of both the specific risk of some polluting events or the effectiveness of facemasks in community settings.
 
   # The need for reflection on the ethical issues raised by the possible recommendation/use of facemasks to mitigate potential health issues arising from air pollution disasters is critical as communities progressively seek personal interventions to manage perceived and actual risks. This paper develops an ethical decision-making framework to assist agency deliberations. We argue that clarity around decision-making by agencies, after using this framework, may help increase trust about the intervention and solidarity within and between populations affected by these disasters and the agencies who support public health or provide assistance during disasters.
@@ -57,7 +57,7 @@ feed 2019
   ref 'Duguid_et_al_05_15_2009
     head = The sizes of the droplets and droplet-nuclei produced by sneezing, by coughing and by speaking, were studied by the microscopic measurement.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -90,7 +90,7 @@ feed 2019
   ref 'Xiao_et_al_02_20_2020
     head = The potential for airborne transmission is much more dependent on various host, viral and environmental factors
 
-    >>> Abstract
+    > Abstract
       Although short-range large-droplet transmission is possible for most respiratory infectious agents, deciding on whether the same agent is also airborne has a potentially huge impact on the types (and costs) of infection control interventions that are required.
       The concept and definition of aerosols is also discussed, as is the concept of large droplet transmission, and airborne transmission which is meant by most authors to be synonymous with aerosol transmission, although some use the term to mean either large droplet or aerosol transmission.
       However, these terms are often used confusingly when discussing specific infection control interventions for individual pathogens that are accepted to be mostly transmitted by the airborne (aerosol) route (e.g. tuberculosis, measles and chickenpox). It is therefore important to clarify such terminology, where a particular intervention, like the type of personal protective equipment (PPE) to be used, is deemed adequate to intervene for this potential mode of transmission, i.e. at an N95 rather than surgical mask level requirement.
@@ -105,10 +105,10 @@ feed 2019
   ref 'Lin_et_al_12_30_2019
     head = Our results show that the viability of bacteria and viruses in suspended aerosols and droplets is RH (Relative Humidity) dependent, varying by over 3 orders of magnitude for bacteria and up to 2 orders of magnitude for viruses. These results suggest that environmental conditions have the potential to influence transmission of certain pathogens by affecting their viability while they are transmitting between hosts.
 
-    >>> Abstract
+    > Abstract
       The transmission of some infectious diseases requires that pathogens can survive (i.e., remain infectious) in the environment, outside the host. Relative humidity (RH) is known to affect the survival of some microorganisms in the environment; however, the mechanism underlying the relationship has not been explained, particularly for viruses. We investigated the effects of RH on the viability of bacteria and viruses in both suspended aerosols and stationary droplets using traditional culture-based approaches. Results showed that viability of bacteria generally decreased with decreasing RH. Viruses survived well at RHs lower than 33% and at 100%, whereas their viability was reduced at intermediate RHs. We then explored the evaporation rate of droplets consisting of culture media and the resulting changes in solute concentrations over time; as water evaporates from the droplets, solutes such as sodium chloride in the media become more concentrated. Based on the results, we suggest that inactivation of bacteria is influenced by osmotic pressure resulting from elevated concentrations of salts as droplets evaporate. We propose that the inactivation of viruses is governed by the cumulative dose of solutes or the product of concentration and time, as in disinfection kinetics. These findings emphasize that evaporation kinetics play a role in modulating the survival of microorganisms in droplets.
 
-    -- quotes
+    - quotes
       !a
 
     / Dec, 2019 - Environ. Sci. Technol
@@ -121,10 +121,10 @@ feed 2019
   ref 'Wan_et_al_2019
     head = We first demonstrated that a MERS-CoV RBD-specific neutralizing MAb binds to the RBD region of MERS-CoV spike and further showed that the MAb mediates MERS-CoV pseudovirus entry into Fc receptor-expressing human cells. Moreover, a SARS-CoV RBD-specific neutralizing MAb mediates ADE of SARS-CoV pseudovirus entry. These results demonstrated that ADE of coronaviruses is mediated by neutralizing MAbs that target the RBD of coronavirus spikes.
 
-    >>>
+    >
       Antibody-dependent enhancement (ADE) of viral entry has been a major concern for epidemiology, vaccine development, and antibody-based drug therapy. However, the molecular mechanism behind ADE is still elusive. Coronavirus spike protein mediates viral entry into cells by first binding to a receptor on the host cell surface and then fusing viral and host membranes. In this study, we investigated how a neutralizing monoclonal antibody (MAb), which targets the receptor-binding domain (RBD) of Middle East respiratory syndrome (MERS) coronavirus spike, mediates viral entry using pseudovirus entry and biochemical assays. Our results showed that MAb binds to the virus surface spike, allowing it to undergo conformational changes and become prone to proteolytic activation. Meanwhile, MAb binds to cell surface IgG Fc receptor, guiding viral entry through canonical viral-receptor-dependent pathways. Our data suggest that the antibody/Fc-receptor complex functionally mimics viral receptor in mediating viral entry. Moreover, we characterized MAb dosages in viral-receptor-dependent, Fc-receptor-dependent, and both-receptors-dependent viral entry pathways, delineating guidelines on MAb usages in treating viral infections. Our study reveals a novel molecular mechanism for antibody-enhanced viral entry and can guide future vaccination and antiviral strategies.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -156,7 +156,7 @@ feed 2019
   ref 'Benfield_et_al_2019
     head = Host interferon-induced transmembrane proteins (IFITMs) are broad-spectrum antiviral restriction factors. We propose that S-palmitoylation is critical for Chiropteran IFITM3 function and identify a key molecular determinant of IFITM3 S-palmitoylation.
 
-    >>> Abstract
+    > Abstract
       Host interferon-induced transmembrane proteins (IFITMs) are broad-spectrum antiviral restriction factors. Of these, IFITM3 potently inhibits viruses that enter cells through acidic endosomes, many of which are zoonotic and emerging viruses with bats (order Chiroptera) as their natural hosts. We previously demonstrated that microbat IFITM3 is antiviral. Here, we show that bat IFITMs are characterized by strong adaptive evolution and identify a highly variable and functionally important site—codon 70—within the conserved CD225 domain of IFITMs. Mutation of this residue in microbat IFITM3 impairs restriction of representatives of four different virus families that enter cells via endosomes. This mutant shows altered subcellular localization and reduced S-palmitoylation, a phenotype copied by mutation of conserved cysteine residues in microbat IFITM3. Furthermore, we show that microbat IFITM3 is S-palmitoylated on cysteine residues C71, C72, and C105, mutation of each cysteine individually impairs virus restriction, and a triple C71A-C72A-C105A mutant loses all restriction activity, concomitant with subcellular re-localization of microbat IFITM3 to Golgi-associated sites. Thus, we propose that S-palmitoylation is critical for Chiropteran IFITM3 function and identify a key molecular determinant of IFITM3 S-palmitoylation.
 
     # / December, 2019 -  Life Science Alliance
@@ -169,10 +169,10 @@ feed 2019
   ref 'Yang_et_al_11_26_2019
     head = The ability of SADS-CoV to replicate in various cells lines from a broad range of species and the unexpected tropism for murine DCs provide important insights into the biology of this bat-origin CoV, highlighting its possible ability to cross interspecies barriers and the potential role of rodents as susceptible hosts in the field.
 
-    >>> Abstract
+    > Abstract
       Outbreaks of severe diarrhea in neonatal piglets in Guangdong, China, in 2017 resulted in the isolation and discovery of a novel swine enteric alphacoronavirus (SeACoV) derived from the species Rhinolophus bat coronavirus HKU2 (Y. Pan, X. Tian, P. Qin, B. Wang, et al., Vet Microbiol 211:15–21, 2017). SeACoV was later referred to as swine acute diarrhea syndrome CoV (SADS-CoV) by another group (P. Zhou, H. Fan, T. Lan, X.-L. Yang, et al., Nature 556:255–258, 2018). The present study was set up to investigate the potential species barriers of SADS-CoV in vitro and in vivo. We first demonstrated that SADS-CoV possesses a broad species tropism and is able to infect cell lines from diverse species, including bats, mice, rats, gerbils, hamsters, pigs, chickens, nonhuman primates, and humans. Trypsin contributes to but is not essential for SADS-CoV propagation in vitro. Furthermore, C57BL/6J mice were inoculated with the virus via oral or intraperitoneal routes. Although the mice exhibited only subclinical infection, they supported viral replication and prolonged infection in the spleen. SADS-CoV nonstructural proteins and double-stranded RNA were detected in splenocytes of the marginal zone on the edge of lymphatic follicles, indicating active replication of SADS-CoV in the mouse model. We identified that splenic dendritic cells (DCs) are the major targets of virus infection by immunofluorescence and flow cytometry approaches. Finally, we demonstrated that SADS-CoV does not utilize known CoV receptors for cellular entry. The ability of SADS-CoV to replicate in various cells lines from a broad range of species and the unexpected tropism for murine DCs provide important insights into the biology of this bat-origin CoV, highlighting its possible ability to cross interspecies barriers.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -221,10 +221,10 @@ feed 2019
   ref 'Alharbi_et_al_11_19_2019
     head = Overall, the vaccination reduced virus shedding and nasal discharge (p = 0.0059 and p = 0.0274, respectively). Antibody responses in seropositive camels were enhanced by the vaccine; these camels had a higher average age than seronegative. Older seronegative camels responded more strongly to vaccination than younger animals; and neutralising antibodies were detected in nasal swabs.Further work is required to optimise vaccine regimens for younger seronegative camels.
 
-    >>> Abstract
+    > Abstract
       MERS-CoV seronegative and seropositive camels received a single intramuscular dose of ChAdOx1 MERS, a replication-deficient adenoviral vectored vaccine expressing MERS-CoV spike protein, with further groups receiving control vaccinations. Infectious camels with active naturally acquired MERS-CoV infection, were co-housed with the vaccinated camels at a ratio of 1:2 (infected:vaccinated); nasal discharge and virus titres were monitored for 14 days. Overall, the vaccination reduced virus shedding and nasal discharge (p = 0.0059 and p = 0.0274, respectively). Antibody responses in seropositive camels were enhancedby the vaccine; these camels had a higher average age than seronegative. Older seronegative camels responded more strongly to vaccination than younger animals; and neutralising antibodies were detected in nasal swabs. Further work is required to optimise vaccine regimens for younger seronegative camels.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -273,10 +273,10 @@ feed 2019
   ref 'Liu_et_al_10_24_2019
     head = To date, this is the first metagenomic study of virus diversity in pangolins in China. We found high viral diversity of dead Malayan pangolins, and the Sendai virus and Coronavirus may be the dominant pathogens responsible for their death. The Sendai virus showed a close relationship between the Malayan pangolin and the strain isolated from humans, whereas Coronavirus sequences showed a high species diversity.
 
-    >>> Abstract
+    > Abstract
       Pangolins are endangered animals in urgent need of protection. Identifying and cataloguing the viruses carried by pangolins is a logical approach to evaluate the range of potential pathogens and help with conservation. This study provides insight into viral communities of Malayan Pangolins (Manis javanica) as well as the molecular epidemiology of dominant pathogenic viruses between Malayan Pangolin and other hosts. A total of 62,508 de novo assembled contigs were constructed, and a BLAST search revealed 3600 ones (≥300 nt) were related to viral sequences, of which 68 contigs had a high level of sequence similarity to known viruses, while dominant viruses were the Sendai virus and Coronavirus. This is the first report on the viral diversity of pangolins, expanding our understanding of the virome in endangered species, and providing insight into the overall diversity of viruses that may be capable of directly or indirectly crossing over into other mammals
 
-    -- Pangolins
+    - Pangolins
       !c
       !d
 
@@ -299,10 +299,10 @@ feed 2019
   ref 'Cui_et_al_2019
     head = Vitamin D (VitD) is recently recognized as a pleiotropic hormone with strong neuroprotective properties.  This study aims to evaluate whether VitD can modulate brain RAS. Our findings indicate the involvement of ACE2/Ang(1–7)/MasR pathway in the neuroprotective mechanisms of VitD in the hypertensive brain.
 
-    >>> Abstract
+    > Abstract
       Hypertension is one of the major predisposing factors for neurodegenerative disease characterized with activated renin-angiotensin system (RAS) in both periphery and brain. Vitamin D (VitD) is recently recognized as a pleiotropic hormone with strong neuroprotective properties. While multiple lines of evidence suggest that VitD can act on RAS, the evidence concerning the crosstalk between VitD and RAS in the brain is limited. Therefore, this study aims to evaluate whether VitD can modulate brain RAS to trigger neuroprotective actions in the brain of spontaneously hypertensive rats (SHR). Our data showed that calcitriol treatment induced VDR expression and inhibited neural death in the prefrontal cortex of SHR. Sustained calcitriol administration also inhibited microglia M1 polarization, but enhanced M2 polarization, accompanied with decreased expression of proinflammatory cytokines. We then further explored the potential mechanisms and showed that SHR exhibited overactivated classical RAS with increased expression of angiotensin II (Ang II) receptor type 1 (AT1), angiotensin converting enzyme (ACE) and Ang II production, whereas the counteracting arm of traditional RAS, ACE2/Ang(1–7)/MasR, was impaired in the SHR brain. Calcitriol nonsignificantly suppressed AT1 and ACE but markedly reduced Ang II formation. Intriguingly, calcitriol exerted pronouncedly impact on ACE2/Ang(1–7)/MasR axis with enhanced expression of ACE2, MasR and Ang(1–7) generation. Meanwhile, calcitriol ameliorated the overactivation of NADPH-oxidase (Nox), the downstream of RAS, in SHR, and also mitigated oxidative stress. In microglial (BV2) cells, we further found that calcitriol induced ACE2 and MasR with no significant impact on ACE and AT1. In accordance, calcitriol also attenuated Ang II-induced Nox activation and ROS production, and shifted the microglia polarization from M1 to M2 phenotype. However, co-treatment with A779, a specific MasR antagonist, abrogated the antioxidant and neuroimmune modulating actions of VitD. These findings strongly indicate the involvement of ACE2/Ang(1–7)/MasR pathway in the neuroprotective mechanisms of VitD in the hypertensive brain.
 
-    -- quotes
+    - quotes
       !a
       !b
 
@@ -319,10 +319,10 @@ feed 2019
   ref 'Luk_et_al_2019
     head = Shortly after its emergence in southern China in 2002/2003, Severe Acute Respiratory Syndrome coronavirus (SARS-CoV) was confirmed to be the cause of SARS. The origin of human SARS-CoV was probably a result of multiple recombination events.
 
-    >>> Abstract
+    > Abstract
       Shortly after its emergence in southern China in 2002/2003, Severe Acute Respiratory Syndrome coronavirus (SARS-CoV) was confirmed to be the cause of SARS. Subsequently, SARS-related CoVs (SARSr-CoVs) were found in palm civets from live animal markets in Guangdong and in various horseshoe bat species, which were believed to be the ultimate reservoir of SARSr-CoV. Till November 2018, 339 SARSr-CoV genomes have been sequenced, including 274 from human, 18 from civets and 47 from bats [mostly from Chinese horseshoe bats (Rhinolophus sinicus), n = 30; and greater horseshoe bats (Rhinolophus ferrumequinum), n = 9]. The human SARS-CoVs and civet SARSr-CoVs were collected in 2003/2004, while bat SARSr-CoVs were continuously isolated in the past 13 years even after the cessation of the SARS epidemic. SARSr-CoVs belong to the subgenus Sarbecovirus (previously lineage B) of genus Betacoronavirus and occupy a unique phylogenetic position. Overall, it is observed that the SARSr-CoV genomes from bats in Yunnan province of China possess the highest nucleotide identity to those from civets. It is evident from both multiple alignment and phylogenetic analyses that some genes of a particular SARSr-CoV from bats may possess higher while other genes possess much lower nucleotide identity to the corresponding genes of SARSr-CoV from human/civets, resulting in the shift of phylogenetic position in different phylogenetic trees. Our current model on the origin of SARS is that the human SARS-CoV that caused the epidemic in 2002/2003 was probably a result of multiple recombination events from a number of SARSr-CoV ancestors in different horseshoe bat species.
 
-    -- quotes
+    - quotes
       !a
 
     / July, 2019 - Infection, Genetics and Evolution
@@ -335,10 +335,10 @@ feed 2019
   ref 'Shan-Shi_et_al_06_05_2019
     head = We show that ORF8b forms insoluble intracellular aggregates dependent on a valine at residue 77. Aggregated ORF8b induces endoplasmic reticulum (ER) stress, lysosomal damage, and subsequent activation of the master regulator of the autophagy and lysosome machinery, Transcription factor EB (TFEB). ORF8b causes cell death in epithelial cells, which is partially rescued by reducing its ability to aggregate. In macrophages, ORF8b robustly activates the NLRP3 inflammasome by providing a potent signal 2 required for activation. Mechanistically, ORF8b interacts directly with the Leucine Rich Repeat domain of NLRP3 and localizes with NLRP3 and ASC in cytosolic dot-like structures. ORF8b triggers cell death consistent with pyroptotic cell death in macrophages. While in those cells lacking NLRP3 accumulating ORF8b cytosolic aggregates cause ER stress, mitochondrial dysfunction, and caspase-independent cell death.
 
-    >>> Abstract
+    > Abstract
       The SARS (severe acute respiratory syndrome) outbreak was caused by a coronavirus (CoV) named the SARS-CoV. SARS pathology is propagated both by direct cytotoxic effects of the virus and aberrant activation of the innate immune response. Here, we identify several mechanisms by which a SARS-CoV open reading frame (ORF) activates intracellular stress pathways and targets the innate immune response. We show that ORF8b forms insoluble intracellular aggregates dependent on a valine at residue 77. Aggregated ORF8b induces endoplasmic reticulum (ER) stress, lysosomal damage, and subsequent activation of the master regulator of the autophagy and lysosome machinery, Transcription factor EB (TFEB). ORF8b causes cell death in epithelial cells, which is partially rescued by reducing its ability to aggregate. In macrophages, ORF8b robustly activates the NLRP3 inflammasome by providing a potent signal 2 required for activation. Mechanistically, ORF8b interacts directly with the Leucine Rich Repeat domain of NLRP3 and localizes with NLRP3 and ASC in cytosolic dot-like structures. ORF8b triggers cell death consistent with pyroptotic cell death in macrophages. While in those cells lacking NLRP3 accumulating ORF8b cytosolic aggregates cause ER stress, mitochondrial dysfunction, and caspase-independent cell death.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -375,7 +375,7 @@ feed 2019
   ref 'Voiriot_et_al_2019
     head = NSAIDs are frequently used as a symptomatic treatment during lower respiratory tract infections (LRTIs) in adults and children, while neither clinical data nor guidelines encourage this use. Numerous observational series of CAP inpatients support a strong association between a pre-hospital NSAID exposure and a protracted and complicated course of pneumonia. These data should encourage experts and scientific societies to strongly advise against the use of NSAIDs in the management of LRTIs.
 
-    >>>
+    >
       Non-steroidal anti-inflammatory drugs (NSAIDs) are commonly used to alleviate symptoms during community-acquired pneumonia (CAP), while neither clinical data nor guidelines encourage this use. Experimental data suggest that NSAIDs impair neutrophil intrinsic functions, their recruitment to the inflammatory site, and the resolution of inflammatory processes after acute pulmonary bacterial challenge. During CAP, numerous observational data collected in hospitalized children, hospitalized adults, and adults admitted to intensive care units (ICUs) support a strong association between pre-hospital NSAID exposure and a delayed hospital referral, a delayed administration of antibiotic therapy, and the occurrence of pleuropulmonary complications, even in the only study that has accounted for a protopathic bias. Other endpoints have been described including a longer duration of antibiotic therapy and a greater hospital length of stay. In all adult series, patients exposed to NSAIDs were younger and had fewer comorbidities. The mechanisms by which NSAID use would entail a complicated course in pneumonia still remain uncertain. The temporal hypothesis and the immunological hypothesis are the two main emerging hypotheses. Current data strongly support an association between NSAID intake during the outpatient treatment of CAP and a complicated course. This should encourage experts and scientific societies to strongly advise against the use of NSAIDs in the management of lower respiratory tract infections.
 
     # / June, 2019 - Journal of clinical medicine
@@ -388,10 +388,10 @@ feed 2019
   ref 'Shi_et_al_2019
     head =  A study showed that SARSCoV1's Orf8 triggers NLRP3 inflammasome activation and pyroptosis in macrophages.Whether SARSCoV2 Orf8 also activate pyroptosis is unknown.
 
-    >>> Abstract
+    > Abstract
       The SARS (severe acute respiratory syndrome) outbreak was caused by a coronavirus (CoV) named the SARS-CoV. SARS pathology is propagated both by direct cytotoxic effects of the virus and aberrant activation of the innate immune response. Here, we identify several mechanisms by which a SARS-CoV open reading frame (ORF) activates intracellular stress pathways and targets the innate immune response. We show that ORF8b forms insoluble intracellular aggregates dependent on a valine at residue 77. Aggregated ORF8b induces endoplasmic reticulum (ER) stress, lysosomal damage, and subsequent activation of the master regulator of the autophagy and lysosome machinery, Transcription factor EB (TFEB). ORF8b causes cell death in epithelial cells, which is partially rescued by reducing its ability to aggregate. In macrophages, ORF8b robustly activates the NLRP3 inflammasome by providing a potent signal 2 required for activation. Mechanistically, ORF8b interacts directly with the Leucine Rich Repeat domain of NLRP3 and localizes with NLRP3 and ASC in cytosolic dot-like structures. ORF8b triggers cell death consistent with pyroptotic cell death in macrophages. While in those cells lacking NLRP3 accumulating ORF8b cytosolic aggregates cause ER stress, mitochondrial dysfunction, and caspase-independent cell death.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -427,10 +427,10 @@ feed 2019
   ref 'Wu_et_al_2019
     head = This study shows that type III secretion system (T3SS) rod proteins or lipopolysaccharide (LPS) induces inflammasome activation, macrophage pyroptosis, and accompanying tissue factor release, directly connecting inflammation to coagulation.
 
-    >>> Abstract
+    > Abstract
       Inflammasome activation and subsequent pyroptosis are critical defense mechanisms against microbes. However, overactivation of inflammasome leads to death of the host. Although recent studies have uncovered the mechanism of pyroptosis following inflammasome activation, how pyroptotic cell death drives pathogenesis, eventually leading to death of the host, is unknown. Here, we identified inflammasome activation as a trigger for blood clotting through pyroptosis. We have shown that canonical inflammasome activation by the conserved type III secretion system (T3SS) rod proteins from Gram-negative bacteria or noncanonical inflammasome activation by lipopolysaccharide (LPS) induced systemic blood clotting and massive thrombosis in tissues. Following inflammasome activation, pyroptotic macrophages released tissue factor (TF), an essential initiator of coagulation cascades. Genetic or pharmacological inhibition of TF abolishes inflammasome-mediated blood clotting and protects against death. Our data reveal that blood clotting is the major cause of host death following inflammasome activation and demonstrate that inflammasome bridges inflammation with thrombosis.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -487,7 +487,7 @@ feed 2019
   ref 'Yan_et_al_2019
     head = We found that a 50% compliance in donning a respiratory protective device resulted in a significant reduction in risk for fitted and unfitted N95 respirators, high‐filtration surgical masks, and both low‐filtration and high‐filtration pediatric masks. An 80% compliance rate essentially eliminated the influenza outbreak.
 
-    >>> Abstract
+    > Abstract
       Outbreaks of influenza represent an important health concern worldwide. In many cases, vaccines are only partially successful in reducing the infection rate, and respiratory protective devices (RPDs) are used as a complementary countermeasure. In devising a protection strategy against influenza for a given population, estimates of the level of protection afforded by different RPDs is valuable. In this article, a risk assessment model previously developed in general form was used to estimate the effectiveness of different types of protective equipment in reducing the rate of infection in an influenza outbreak. It was found that a 50% compliance in donning the device resulted in a significant (at least 50% prevalence and 20% cumulative incidence) reduction in risk for fitted and unfitted N95 respirators, high‐filtration surgical masks, and both low‐filtration and high‐filtration pediatric masks. An 80% compliance rate essentially eliminated the influenza outbreak. The results of the present study, as well as the application of the model to related influenza scenarios, are potentially useful to public health officials in decisions involving resource allocation or education strategies.
 
 
@@ -501,10 +501,10 @@ feed 2019
   ref 'Ramadan_et_al_2019
     head = As a novel coronavirus first reported by Saudi Arabia in 2012, the Middle East respiratory syndrome coronavirus (MERS-CoV) is responsible for an acute human respiratory syndrome. The virus is densely endemic in dromedary camels of East Africa and the Arabian Peninsula.
 
-    >>> Abstract
+    > Abstract
       As a novel coronavirus first reported by Saudi Arabia in 2012, the Middle East respiratory syndrome coronavirus (MERS-CoV) is responsible for an acute human respiratory syndrome. The virus, of 2C beta-CoV lineage, expresses the dipeptidyl peptidase 4 (DPP4) receptor and is densely endemic in dromedary camels of East Africa and the Arabian Peninsula. MERS-CoV is zoonotic but human-to-human transmission is also possible. Surveillance and phylogenetic researches indicate MERS-CoV to be closely associated with bats’ coronaviruses, suggesting bats as reservoirs, although unconfirmed. With no vaccine currently available for MERS-CoV nor approved prophylactics, its global spread to over 25 countries with high fatalities highlights its role as ongoing public health threat. An articulated action plan ought to be taken, preferably from a One Health perspective, for appropriately advanced countermeasures against MERS-CoV.
 
-    -- quotes
+    - quotes
       !a
 
     / March, 2019 - Germs
@@ -518,10 +518,10 @@ feed 2019
   ref 'Asadi_et_al_2019
     head = Unknown physiological factors, varying dramatically among individuals, could affect the probability of respiratory infectious disease transmission, and also help explain the existence of superspreaders who are disproportionately responsible for outbreaks of airborne infectious disease.
 
-    >>> Abstract
+    > Abstract
       Mechanistic hypotheses about airborne infectious disease transmission have traditionally emphasized the role of coughing and sneezing, which are dramatic expiratory events that yield both easily visible droplets and large quantities of particles too small to see by eye. Nonetheless, it has long been known that normal speech also yields large quantities of particles that are too small to see by eye, but are large enough to carry a variety of communicable respiratory pathogens. Here we show that the rate of particle emission during normal human speech is positively correlated with the loudness (amplitude) of vocalization, ranging from approximately 1 to 50 particles per second (0.06 to 3 particles per cm3) for low to high amplitudes, regardless of the language spoken (English, Spanish, Mandarin, or Arabic). Furthermore, a small fraction of individuals behaves as “speech superemitters,” consistently releasing an order of magnitude more particles than their peers. Our data demonstrate that the phenomenon of speech superemission cannot be fully explained either by the phonic structures or the amplitude of the speech. These results suggest that other unknown physiological factors, varying dramatically among individuals, could affect the probability of respiratory infectious disease transmission, and also help explain the existence of superspreaders who are disproportionately responsible for outbreaks of airborne infectious disease.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -570,7 +570,7 @@ feed 2019
   ref 'Liu_et_al_2019
     head = This paper present evidence of a detrimental role of anti–S-IgG in ALI during SARS-CoV infection. It demonstrate a previously unrecognized mechanism underlying virus-mediated ALI and suggest that modulation of the anti-S antibody response or blockage of Fcγ receptors during acute infection might be needed for effective treatment for respiratory CoV infection.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -591,10 +591,10 @@ feed 2019
   ref 'Wong_et_al_2019
     head = This article aims at reviewing the various aspects of the global epidemiology of bat coronaviruses (CoVs).
 
-    >>> Abstract
+    > Abstract
       Bats are a unique group of mammals of the order Chiroptera. They are highly diversified and are the group of mammals with the second largest number of species. Such highly diversified cell types and receptors facilitate them to be potential hosts of a large variety of viruses. Bats are the only group of mammals capable of sustained flight, which enables them to disseminate the viruses they harbor and enhance the chance of interspecies transmission. This article aims at reviewing the various aspects of the global epidemiology of bat coronaviruses (CoVs). Before the SARS epidemic, bats were not known to be hosts for CoVs. In the last 15 years, bats have been found to be hosts of >30 CoVs with complete genomes sequenced, and many more if those without genome sequences are included. Among the four CoV genera, only alphaCoVs and betaCoVs have been found in bats. As a whole, both alphaCoVs and betaCoVs have been detected from bats in Asia, Europe, Africa, North and South America and Australasia; but alphaCoVs seem to be more widespread than betaCoVs, and their detection rate is also higher. For betaCoVs, only those from subgenera Sarbecovirus, Merbecovirus, Nobecovirus and Hibecovirus have been detected in bats. Most notably, horseshoe bats are the reservoir of SARS-CoV, and several betaCoVs from subgenus Merbecovirus are closely related to MERS-CoV. In addition to the interactions among various bat species themselves, bat–animal and bat–human interactions, such as the presence of live bats in wildlife wet markets and restaurants in Southern China, are important for interspecies transmission of CoVs and may lead to devastating global outbreaks.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -615,19 +615,19 @@ feed 2019
   ref 'Chen_et_al_2019
     head = Our results suggest that vitamin D supplementation may slow down Horvath epigenetic aging. But the effect on Hannum epigenetic aging is not conclusive.
 
-    >>> Background
+    > Background
       We have previously shown that vitamin D supplementation increases telomerase activity, suggesting an anti-aging effect. In this study, we aim to test the hypothesis that vitamin D supplementation would slow down epigenetic aging, a new marker of biological aging.
 
-    >>> Methods
+    > Methods
       A randomized clinical trial was previously conducted among 70 overweight/obese African Americans with serum 25-hydroxyvitamin D [25(OH)D] < 50 nmol/L, who were randomly assigned into four groups of 600 IU/d, 2,000 IU/d, 4,000 IU/d of vitamin D3 supplements or placebo followed by 16-week interventions. Whole genome-wide DNA methylation analysis was conducted in 51 participants. DNA methylation ages were calculated according to the Horvath and the Hannum methods. Methylation-based age acceleration index (∆Age) is defined as the difference between DNA methylation age and chronological age in years. Mixed-effects models were used to evaluate the treatment effects.
 
-    >>> Results
+    > Results
       Fifty-one participants (aged 26.1 ± 9.3 years, 16% are male) were included in the study. After the adjustment of multi-covariates, vitamin D3 supplementation of 4,000 IU/d was associated with 1.85 years decrease in Horvath epigenetic aging compared with placebo (p value = .046), and 2,000 IU/d was associated with 1.90 years decrease in Hannum epigenetic aging (p value = .044). Serum 25(OH)D concentrations were significantly associated with decreased Horvath ∆Age only (p values = .002), regardless of treatments.
 
-    >>> Conclusion
+    > Conclusion
       Our results suggest that vitamin D supplementation may slow down Horvath epigenetic aging. But the effect on Hannum epigenetic aging is not conclusive. Large-scale and longer duration clinical trials are needed to replicate the findings.
 
-    -- quotes
+    - quotes
       !a
 
     / Jan, 2019 - J Gerontol A Biol Sci Med Sci

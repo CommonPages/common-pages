@@ -3,11 +3,11 @@
 subject module Prevention
   head = For healthy individuals attempting to prevent an infection, potential interventions include increased hand hygiene, masking, the disinfection of surfaces, and social distancing or isolation, among others. Evidence for their efficacy are sourced primarily from research in other respiratory infections. Their applicability to COVID-19 is an area of active research.
 
-  --
+  -
     !Challenges
     !Protocol
 
-  --
+  -
     SocialDistancing
     HandWashing
     Masking
@@ -20,17 +20,17 @@ subject module Prevention
     claim !a = While there have been many mechanical studies which attempt to replicate conditions in settings of potential transmission, data on actual infections are usually observed at the community level.
 
     claim !b = Community level interventions are typically evaluated with protocols combining multiple interventions. Many studies have found little or no benefit to isolated interventions, but modest benefit for combined interventions.
-      --
+      -
         'Cowling_et_al_10_06_2009.!c
 
   claim !Protocol = Despite challenges in evaluating individual measures, there is some evidence that adoption of typical hygiene and masking protocols is associated with lower community level infection rates.
-    --
+    -
       'Jefferson_et_al_04_07_2020.!b
       'MacIntyre_et_al_04_21_2020.!d
       'Cowling_et_al_10_06_2009.!c
       'Reza_et_al_2011.!d
       'Jefferson_et_al_2008.!d
-    --
+    -
       ?Evidence
 
 
@@ -77,7 +77,7 @@ subject module Prevention
       ?Sanitizers
       ?Fomites
 
-    --
+    -
     # -- UVC
       'Welch_et_al_2018
       'Elikaei_et_al_2006

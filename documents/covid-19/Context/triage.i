@@ -69,7 +69,7 @@ index: hide
     head = ACE2 is an enzyme attached to the cell membranes of cells located in the lungs, arteries, heart, kidney, and intestines. ACE2 lowers blood pressure by catalyzing the hydrolysis of angiotensin II (a vasoconstrictor peptide) into angiotensin (1–7) (a vasodilator). ACE2 counters the activity of the related angiotensin-converting enzyme (ACE) by reducing the amount of angiotensin-II and increasing Ang(1-7), making it a promising drug target for treating cardiovascular diseases. ACE2 also serves as the entry point into cells for some coronaviruses, including HCoV-NL63, SARS-CoV, and SARS-CoV-2. The human version of the enzyme is often referred to as hACE2.
 
     # https://doi.org/10.1016/S2213-2600(20)30116-8
-    >>>
+    >
       The expression of ACE2 is substantially increased in patients with type 1 or type 2 diabetes, who are treated with ACE inhibitors and angiotensin II type-I receptor blockers (ARBs). Hypertension is also treated with ACE inhibitors and ARBs, which results in an upregulation of ACE2. ACE2 can also be increased by thiazolidinediones and ibuprofen.
 
   link: https://en.wikipedia.org/wiki/Ground-glass_opacity

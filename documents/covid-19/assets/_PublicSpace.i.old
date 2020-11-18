@@ -48,9 +48,9 @@ let *no-PPEs mean Transmission.Settings.OtherConditions.NoPPE
 
 subject module PublicSpace
   head = How does Covid-19 spread? And what do we need to be aware of when in public spaces?
-  >>>
+  >
     This narrative-building exercise is to capture the state of ongoing consensus and debates around the transmission and mitigation of COVID-19 in public spaces. This attempts to act as a sense-making tool to the reader, by organising the key insights, and a lack thereof, based on an extensive survey of the literature related to COVID-19.
-  --
+  -
     !Narrative
     # !L2
     # !L3
@@ -261,7 +261,7 @@ subject module PublicSpace
         + 4 = At personal level, frequent *hand-washing (preemptively to avoid spread when we touch an infected surface and then the face) is another also a frequently recommended  measure.
           \
             + 1 = Frequent *hand-washing ensures that the hands are clean even if we touch multi-use *fomites.
-# >>>
+# >
 #   nCov-2 is known to spread primarily by inhalation on direct contact with the droplets (Singhal 2020). This can happen in multiple modes ranging from touching infected surfaces and the face or by directly being in close proximity to an infected patient. The droplets of various sizes are released not only by symptomatic patients when they sneeze and cough but also by asymptomatic patients (Kimball et al. 2020; Tobolowsky et al. 2020) in close proximity during normal speech. How infective these droplets depend on various factors and the specifics are yet to be conclusively agreed upon by the researchers. For example, the viral load of the droplet depending on the host state;
   #   size of the droplets and the range of the physical distance till which they can spread
   #
@@ -283,5 +283,5 @@ subject module PublicSpace
   #   'Cowling_et_al_2020.!d
   #
   # # Hospital related papers
-  # # >>>
+  # # >
   # # These include papers related to schools {*Nosocomial}, hospitals,   {Ventilation}, {Environment environmental settings} like.

@@ -5,7 +5,7 @@
   ref 'xyz_et_al_2020
     head =
 
-    -- quotes
+    - quotes
       !a
 
     / June, 2020 - Annals of the New York Academy of Sciences
@@ -18,7 +18,7 @@
   ref 'Fischer_et_al_08_2020
     head = Mandates for mask use in public during the recent Covid-19 pandemic have led to widespread use of homemade masks and mask alternatives. It is assumed that wearing such masks reduces the likelihood for an infected person to spread the disease, but many of these mask designs have not been tested in practice. We have demonstrated a simple optical measurement method to evaluate the efficacy of masks to reduce the transmission of respiratory droplets during regular speech.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -37,7 +37,7 @@
   ref 'Belkin_1997
     head = When originally introduced for use at the turn of the century, the primary function of the surgical mask was to prevent the migration of microorganisms residing in the nose and mouth of members of the operating team to the open wound of the patient. As technology developed new materials and designs, their filtering efficiencies gradually improved. However, there is no standard test method for assessing that capability, and its influence on the rates of surgical-wound infection has yet to be demonstrated. Quite to the contrary, both in-vitro and in-vivo studies indicate that a mask may not be universally necessary in today's surgical environment.
 
-    -- quotes
+    - quotes
       !a
     /  The design purpose of surgical masks
     quote !a = surgical face masks were originally introduced to protect surrounding persons from the wearer, such as protecting patients with open wounds against infectious agents from the surgical team.
@@ -46,7 +46,7 @@
   doi: https://apps.who.int/iris/handle/10665/332293
   ref 'WHO_06_2020
     head = This document provides guidance to decision makers, public health and IPC professionals, health care managers, and health workers on the use of medical and non-medical masks in health care (including long-term care and residential) settings, for the general public, and during home care. It will be revised as more data become available.
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -154,7 +154,7 @@
   ref 'Lai_et_al_2012
     head = Scientific data on effectiveness of facemasks in reducing infections in the community are extremely limited and even inconsistent. In this work, two manikins labelled as ‘source’ and ‘susceptible’ were used to measure the protection provided by facemasks under various emission scenarios.
 
-    -- quotes
+    - quotes
       !a
       !b
 
@@ -170,7 +170,7 @@
   ref 'Sande_et_al_2008
     head = We assessed transmission reduction potential provided by personal respirators, surgical masks and home-made masks when worn during a variety of activities by healthy volunteers and a simulated patient. In our experiments, the main determinant of the magnitude of protection factors measured by masks was the type of mask, which can be seen as a proxy for potential reduction in infectious disease transmission.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -201,7 +201,7 @@
   ref 'Balazy_et_al_2006
     head = The performance of 2 types of N95 half-mask, filtering face piece respirators and 2 types of surgical masks were determined. The results indicate that the penetration of virions through the National Institute for Occupational Safety and Health (NIOSH)-certified N95 respirators can exceed an expected level of 5%.
 
-    -- quotes
+    - quotes
       !a
 
     / American Journal of Infection Control — February 7, 2006
@@ -212,7 +212,7 @@
   ref 'Syed_et_al_2003
     head = SARS has been called the first global epidemic of the 21st century and has been the cause of a massive and varied public health response in many countries of the world.  Though of uncertain protective benefit, the wearing of masks may have contributed to the awareness of the collective and personal responsibility in combating infectious disease. Active and empowered involvement of the general public in implementing and cooperating with public health control measures supported by national and international authorities has clearly helped to bring SARS under control. The public health significance of such potent symbols as the face mask may be considered in strategies to tackle other emerging infections.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -232,10 +232,10 @@
   ref 'MacIntyre_et_al_2009
     head = We conducted a prospective cluster-randomized trial comparing surgical masks, non–fit-tested P2 masks, and no masks in prevention of influenza-like illness (ILI) in households. We concluded that household use of masks is associated with low adherence and is ineffective in controlling seasonal ILI.
 
-    >>> Abstract
+    > Abstract
       Many countries are stockpiling face masks for use as a nonpharmaceutical intervention to control virus transmission during an influenza pandemic. We conducted a prospective cluster-randomized trial comparing surgical masks, non–fit-tested P2 masks, and no masks in prevention of influenza-like illness (ILI) in households. Mask use adherence was self-reported. During the 2006 and 2007 winter seasons, 286 exposed adults from 143 households who had been exposed to a child with clinical respiratory illness were recruited. We found that adherence to mask use significantly reduced the risk for ILI-associated infection, but <50% of participants wore masks most of the time. We concluded that household use of face masks is associated with low adherence and is ineffective for controlling seasonal respiratory disease. However, during a severe pandemic when use of face masks might be greater, pandemic transmission in households could be reduced. Many countries are stockpiling face masks for use as nonpharmaceutical interventions to reduce viral transmission during an influenza pandemic. We conducted a prospective cluster-randomized trial comparing surgical masks, non–fit-tested P2 masks, and no masks in prevention of influenza-like illness (ILI) in households. During the 2006 and 2007 winter seasons, 286 exposed adults from 143 households who had been exposed to a child with clinical respiratory illness were recruited. Intent-to-treat analysis showed no significant difference in the relative risk of ILI in the mask use groups compared with the control group; however, <50% of those in the mask use groups reported wearing masks most of the time. Adherence to mask use was associated with a significantly reduced risk of ILI-associated infection. We concluded that household use of masks is associated with low adherence and is ineffective in controlling seasonal ILI. If adherence were greater, mask use might reduce transmission during a severe influenza pandemic.
 
-    -- quotes
+    - quotes
       !a
       !b
 
@@ -252,7 +252,7 @@
   ref 'Gupta_2020
     head = There must be pathophysiological reason why “cold” viruses like SARS-CoV-2 show proclivity to nasal cavity, oral cavity, pharyngeal cavity and upper airways which have lower temperature than core body temperature. Henceforth, facemasks’ “therapeutic” role against SARS-CoV-2 must be explored because personal “therapeutic” environments may get created under facemasks due to rebreathing of ~95°F “hot” and ~80% “humid” exhalations which may constantly mitigate SARS-CoV-2 inside nasal cavity, oral cavity, pharyngeal cavity and upper airways.
 
-    -- quotes
+    - quotes
       !a
       !b
 
@@ -266,7 +266,7 @@
   ref 'Chowell_et_al_05_2020
     head = We investigate how individual protective behaviors, different levels of testing, and isolation influence the transmission and control of the Covid-19 pandemic. Our results suggest that the COVID-19 pandemic can be controlled through an imperfect though sufficient combination of testing, contact tracing, and protective measures like masks and distancing when in public.
 
-    -- quotes
+    - quotes
       !a
 
     / medRxiv — May 6, 2020
@@ -278,7 +278,7 @@
   ref 'Abaluck_04_2020
     head = We recommend the immediate universal adoption of cloth facemasks, including homemade, and accompanying policies to increase the supply of medical masks for health workers. Universal adoption will likely slow the spread of the Covid-19 virus by reducing transmission from asymptomatic individuals. We provide strongly suggestive evidence from cross-country data that facemask use slows the growth rate of cases and deaths.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -310,7 +310,7 @@
 
     head = This study examined homemade masks as an alternative to commercial face masks. Methods: Several household materials were evaluated for the capacity to block bacterial and viral aerosols. Twenty-one healthy volunteers made their own face masks from cotton t-shirts; the masks were then tested for fit. The number of microorganisms isolated from coughs of healthy volunteers wearing their homemade mask, a surgical mask, or no mask was compared using several air-sampling techniques. Results: The median-fit factor of the homemade masks was one-half that of the surgical masks. Both masks significantly reduced the number of microorganisms expelled by volunteers, although the surgical mask was 3 times more effective in blocking transmission than the homemade mask. Conclusion: Our findings suggest that a homemade mask should only be considered as a last resort to prevent droplet transmission from infected individuals, but it would be better than no protection.
 
-    -- quotes
+    - quotes
       !a
 
     / Any mask better than no protection

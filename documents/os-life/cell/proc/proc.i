@@ -39,7 +39,7 @@
     <<
       cell.celldiv
 
-    >>>
+    >
       {image:'Figure_3_5_3}
 
   /// During terminal differentiation, a precursor cell formerly capable of cell division, permanently leaves the cell cycle, dismantles the cell cycle machinery and often expresses a range of genes characteristic of the cell's final function.
@@ -70,7 +70,7 @@
 
   /// Mitosis is a part of the cell cycle when replicated chromosomes are separated into two new nuclei.
   model Mitosis
-    >>>
+    >
       Mitosis is divided into four major stages that take place after interphase ({'Figure_3_5_3 Figure 3.5.3}) and in the following order: prophase, metaphase, anaphase, and telophase. The process is then followed by cytokinesis.
 
       {image:'Figure_3_5_3}
@@ -79,7 +79,7 @@
     model Prophase
       # https://en.wikipedia.org/wiki/Prophase
 
-      >>>
+      >
         A major occurrence during prophase concerns a very important structure that contains the origin site for microtubule growth. Recall the cellular structures called centrioles that serve as origin points from which microtubules extend. These tiny structures also play a very important role during mitosis. A  **centrosome** is a pair of centrioles together.
 
       /// The centrosome is an organelle that serves as the main microtubule organizing center (MTOC) of the animal cell, as well as a regulator of cell-cycle progression. Centrosomes are associated with the nuclear membrane during the prophase stage of the cell cycle. In mitosis the nuclear membrane breaks down and the centrosome nucleated microtubules can interact with the chromosomes to build the mitotic spindle.
@@ -91,11 +91,11 @@
       model SpindleApparatus
         # https://en.wikipedia.org/wiki/Spindle_apparatus
 
-      --
+      -
         Centrosome
         SpindleApparatus
 
-      >>>
+      >
         The cell contains two centrosomes side-by-side, which begin to move apart during prophase. As the centrosomes migrate to two different sides of the cell, microtubules begin to extend from each like long fingers from two hands extending toward each other. The  **mitotic spindle** is the structure composed of the centrosomes and their emerging microtubules.
 
         Near the end of prophase there is an invasion of the nuclear area by microtubules from the mitotic spindle. The nuclear membrane has disintegrated, and the microtubules attach themselves to the centromeres that adjoin pairs of sister chromatids. The  **kinetochore** is a protein structure on the centromere that is the point of attachment between the mitotic spindle and the sister chromatids. This stage is referred to as late prophase or “prometaphase” to indicate the transition between prophase and metaphase.
@@ -104,7 +104,7 @@
       model Kinetochore
         # https://en.wikipedia.org/wiki/Kinetochore
 
-      --
+      -
         Kinetochore
 
     /// Metaphase is the second stage of mitosis. During this stage, the sister chromatids, with their attached microtubules, line up along a linear plane in the middle of the cell. A metaphase plate forms between the centrosomes that are now located at either end of the cell. The  metaphase plate is the name for the plane through the center of the spindle on which the sister chromatids are positioned. The microtubules are now poised to pull apart the sister chromatids and bring one from each pair to each side of the cell.
@@ -116,7 +116,7 @@
     /// Telophase is the final stage of mitosis. Telophase is characterized by the formation of two new daughter nuclei at either end of the dividing cell. These newly formed nuclei surround the genetic material, which uncoils such that the chromosomes return to loosely packed chromatin. Nucleoli also reappear within the new nuclei, and the mitotic spindle breaks apart, each new cell receiving its own complement of DNA, organelles, membranes, and centrioles. At this point, the cell is already beginning to split in half as cytokinesis begins.
     model Telophase
 
-    --
+    -
       Prophase
       Metaphase
       Anaphase
@@ -166,10 +166,10 @@
   model DNAReplication
     # https://en.wikipedia.org/wiki/DNA_replication
 
-    >>>
+    >
       {image:'Figure_3_3_6}
 
-    --
+    -
       Initiation
       Elongation
       Termination
@@ -198,10 +198,10 @@
       DNAReplication
       CellDivision
 
-    >>>
+    >
       {image:'Figure_3_5_3}
 
-    --
+    -
       CellCyclePhases
       Checkpoint
 
@@ -209,13 +209,13 @@
   /// The eukaryotic cell cycle consists of four distinct phases: G<sub>1</sub> phase, S phase (synthesis), G<sub>2</sub> phase (collectively known as interphase) and M phase (the mitotic phase).
   model CellCyclePhases
     # https://en.wikipedia.org/wiki/Cell_cycle#Phases
-    --
+    -
       Interphase
       MitoticPhase
 
     # https://commons.wikimedia.org/wiki/File:Cell_Cycle_3-4.svg
 
-    >>>
+    >
       {image:'Figure_3_5_1}
 
   / Cell Cycle Checkpoint
@@ -223,7 +223,7 @@
   model Checkpoint
     # https://en.wikipedia.org/wiki/Cell_cycle_checkpoint
     # https://en.wikipedia.org/wiki/Cell_cycle#Checkpoints
-    >>>
+    >
       {image:'Figure_3_5_4}
 
   ///  Interphase is the 'daily living' or metabolic phase of the cell, in which the cell obtains nutrients and metabolizes them, grows, reads its DNA, and conducts other "normal" cell functions. Interphase is the phase of the cell cycle in which a typical cell spends most of its life.

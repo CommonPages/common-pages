@@ -1,6 +1,6 @@
 / July, 2020
 feed July2020
-  --
+  -
     'Gharbharan_et_al_07_03_2020
     'Kanaujia_et_al_07_03_2020
     'Goldman_et_al_07_03_2020
@@ -22,16 +22,16 @@ feed July2020
   ref 'Wiersinga_et_al_07_10_2020
     head = Many aspects of transmission, infection, and treatment remain unclear. Advances in prevention and effective management of COVID-19 will require basic and clinical investigation and public health and clinical interventions.
 
-    >>> Importance
+    > Importance
       The coronavirus disease 2019 (COVID-19) pandemic, due to the novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has caused a worldwide sudden and substantial increase in hospitalizations for pneumonia with multiorgan disease. This review discusses current evidence regarding the pathophysiology, transmission, diagnosis, and management of COVID-19.
 
-    >>> Observations
+    > Observations
       SARS-CoV-2 is spread primarily via respiratory droplets during close face-to-face contact. Infection can be spread by asymptomatic, presymptomatic, and symptomatic carriers. The average time from exposure to symptom onset is 5 days, and 97.5% of people who develop symptoms do so within 11.5 days. The most common symptoms are fever, dry cough, and shortness of breath. Radiographic and laboratory abnormalities, such as lymphopenia and elevated lactate dehydrogenase, are common, but nonspecific. Diagnosis is made by detection of SARS-CoV-2 via reverse transcription polymerase chain reaction testing, although false-negative test results may occur in up to 20% to 67% of patients; however, this is dependent on the quality and timing of testing. Manifestations of COVID-19 include asymptomatic carriers and fulminant disease characterized by sepsis and acute respiratory failure. Approximately 5% of patients with COVID-19, and 20% of those hospitalized, experience severe symptoms necessitating intensive care. More than 75% of patients hospitalized with COVID-19 require supplemental oxygen. Treatment for individuals with COVID-19 includes best practices for supportive management of acute hypoxic respiratory failure. Emerging data indicate that dexamethasone therapy reduces 28-day mortality in patients requiring supplemental oxygen compared with usual care (21.6% vs 24.6%; age-adjusted rate ratio, 0.83 [95% CI, 0.74-0.92]) and that remdesivir improves time to recovery (hospital discharge or no supplemental oxygen requirement) from 15 to 11 days. In a randomized trial of 103 patients with COVID-19, convalescent plasma did not shorten time to recovery. Ongoing trials are testing antiviral therapies, immune modulators, and anticoagulants. The case-fatality rate for COVID-19 varies markedly by age, ranging from 0.3 deaths per 1000 cases among patients aged 5 to 17 years to 304.9 deaths per 1000 cases among patients aged 85 years or older in the US. Among patients hospitalized in the intensive care unit, the case fatality is up to 40%. At least 120 SARS-CoV-2 vaccines are under development. Until an effective vaccine is available, the primary methods to reduce spread are face masks, social distancing, and contact tracing. Monoclonal antibodies and hyperimmune globulin may provide additional preventive strategies.
 
-    >>> Conclusions and Relevance
+    > Conclusions and Relevance
       As of July 1, 2020, more than 10 million people worldwide had been infected with SARS-CoV-2. Many aspects of transmission, infection, and treatment remain unclear. Advances in prevention and effective management of COVID-19 will require basic and clinical investigation and public health and clinical interventions.
 
-    -- quotes
+    - quotes
       !a
 
     / July, 2020 - JAMA
@@ -55,7 +55,7 @@ feed July2020
   ref 'Atyeo_et_al_07_30_2020
     head = Limited early differences were observed in titers and neutralization across groups. Five antibody features could collectively differentiate convalescents and deceased. A shift in the balance of spike versus nucleocapsid immunity separated the groups. Spike-specific phagocytic and complement fixing activity was enriched in convalescents
 
-    >>> Abstract
+    > Abstract
       As SARS-CoV-2 infections and death counts continue to rise, it remains unclear why some individuals recover from infection, whereas others rapidly progress and die. Although the immunological mechanisms that underlie different clinical trajectories remain poorly defined, pathogen-specific antibodies often point to immunological mechanisms of protection. Here, we profiled SARS-CoV-2-specific humoral responses in a cohort of 22 hospitalized individuals. Despite inter-individual heterogeneity, distinct antibody signatures resolved individuals with different outcomes. Although no differences in SARS-CoV-2-specific IgG levels were observed, spike-specific humoral responses were enriched among convalescent individuals, whereas functional antibody responses to the nucleocapsid were elevated in deceased individuals. Furthermore, this enriched immunodominant spike-specific antibody profile in convalescents was confirmed in a larger validation cohort. These results demonstrate that early antigen-specific and qualitative features of SARS-CoV-2-specific antibodies point to differences in disease trajectory, highlighting the potential importance of functional antigen-specific humoral immunity to guide patient care and vaccine development.
 
 
@@ -70,10 +70,10 @@ feed July2020
   ref 'Korber_et_al_07_03_2020
     head = Dynamic tracking of variant frequencies revealed a recurrent pattern of G614 increase at multiple geographic levels. The shift occurred even in local epidemics where the original D614 form was well established prior to introduction of the G614 variant. G614 variant may have a fitness advantage. G614 variant grows to a higher titer as pseudotyped virions.
 
-    >>> Abstract
+    > Abstract
       A SARS-CoV-2 variant carrying the Spike protein amino acid change D614G has become the most prevalent form in the global pandemic. Dynamic tracking of variant frequencies revealed a recurrent pattern of G614 increase at multiple geographic levels: national, regional, and municipal. The shift occurred even in local epidemics where the original D614 form was well established prior to introduction of the G614 variant. The consistency of this pattern was highly statistically significant, suggesting that the G614 variant may have a fitness advantage. We found that the G614 variant grows to a higher titer as pseudotyped virions. In infected individuals, G614 is associated with lower RT-PCR cycle thresholds, suggestive of higher upper respiratory tract viral loads, but not with increased disease severity. These findings illuminate changes important for a mechanistic understanding of the virus and support continuing surveillance of Spike mutations to aid with development of immunological interventions.
 
-    -- quotes
+    - quotes
       !a
 
     / July, 2020 - Cell
@@ -85,10 +85,10 @@ feed July2020
   ref 'Vrielink_et_al_02_20_2020
     head = We report that the Halyard Quickcheck H300 surgical wrapping material, which is commonly available in most hospitals for use in sterilizing surgical instruments, provides high filtration efficiency for all three particle sizes measured.
 
-    >>> Abstract
+    > Abstract
       Given the current shortage of respirator masks and the resulting lack of personal protective equipment for use by clinical staff, we examined bottom-up solutions that would allow hospitals to fabricate respirator masks that: (i) meet requirements in terms of filtering capacities, (ii) are easy to produce rapidly and locally, and (iii) can be constructed using materials commonly available in hospitals worldwide. We found that Halyard H300 material used for wrapping of surgical instruments and routinely available in hospitals, met these criteria. Specifically, three layers of material achieved a filter efficiency of 94%, 99%, and 100% for 0.3 μm, 0.5 μm, and 3.0 μm particles, respectively; importantly, these values are close to the efficiency provided by FFP2 and N95 masks. After re-sterilization up to 5 times, the filter’s efficiency remains sufficiently high for use as an FFP1 respirator mask. Finally, using only one layer of the material satisfies the criteria for use as a ‘surgical mask’. This material can therefore be used to help protect hospital staff and other healthcare professionals who require access to high quality masks but lack commercially available solutions.
 
-    -- quotes
+    - quotes
       !a
 
     / July, 2020 - Plos One
@@ -100,10 +100,10 @@ feed July2020
   ref 'Hager_et_al_07_29_2020
     head = The majority of the respondents had a satisfactory knowledge of the disease. The majority of the respondents (96%) practiced self-isolation and social-distancing but only 36% follow all health recommendations. An apprehensive understanding of the current status in Africa through studies like KAP is crucial to avoid Africa being the next epicenter of the pandemic.
 
-    >>> Abstract
+    > Abstract
       The current Coronavirus (COVID-19) pandemic has impacted and changed lives on a global scale since its emergence and spread from China in late 2019. It has caused millions of infections, and thousands of deaths worldwide. However, the control of this pandemic still remains unachievable in many African countries including Egypt and Nigeria, despite the application of some strict preventive and control measures. Therefore, this study assessed the knowledge, attitude, and perceptions of Egyptians and Nigerians towards the COVID-19 pandemic. This study was designed as a cross-sectional community-based questionnaire survey in both countries. Participants’ demography, knowledge, attitude, and perceptions towards the COVID-19 outbreak were obtained using a convenience sampling technique. Data collected were subjected to descriptive statistics and logistic regression analysis. A total of 1437 respondents were included in this preliminary report. The mean knowledge score was 14.7±2.3. The majority of the respondents (61.6%) had a satisfactory knowledge of the disease. Age (18–39 years), education (College/bachelors), and background of respondents were factors influencing knowledge levels. The attitude of most respondents (68.9%) towards instituted preventive measures was satisfactory with an average attitude score of 6.9 ± 1.2. The majority of the respondents (96%) practiced self-isolation and social-distancing but only 36% follow all health recommendations. The perception of most respondents (62.1%) on the global efforts at controlling the virus and preventing further spread was satisfactory with an average score of 10.9 ± 2.7. Only 22% of the respondents were satisfied with their country’s handling of the pandemic. An apprehensive understanding of the current status in Africa through studies like KAP is crucial to avoid Africa being the next epicenter of the pandemic. For the populace to follow standard infection prevention and control measures adequately, governments need to gain the trust of citizens by strengthening the health systems and improving surveillance activities in detecting cases, to offer the optimum health services to their communities.
 
-    -- quotes
+    - quotes
       !a
 
     / July, 2020 - Plos One
@@ -115,22 +115,22 @@ feed July2020
   ref 'Schiling_et_al_07_27_2020
     head = A number of commercially available masks in hospital inventories perform similarly to N95 masks for aerosol filtration of 0.2 μm and above, but there is a range of masks with relatively lower & poorer filtration efficiencies.  All masks functioned acceptably for breathability
 
-    >>> Background
+    > Background
       The COVID-19 pandemic has presented an acute shortage of regulation-tested masks. Many of the alternatives available to hospitals have not been certified, leaving uncertainty about their ability to properly protect healthcare workers from SARS-CoV-2 transmission.
 
-    >>>  Objective
+    >  Objective
       For situations where regulatory methods are not accessible, we present experimental methods to evaluate mask filtration and breathability quickly via cost-effective approaches (e.g., ~$2000 USD) that could be replicated in communities of need without extensive infrastructure. We demonstrate the need for screening by evaluating an existing diverse inventory of masks/respirators from a local hospital.
 
-    >>>  Methods
+    >  Methods
       Two experimental approaches are presented to examine both aerosol filtration and flow impedance (i.e., breathability). For one of the approaches (“quick assessment”), screening for appropriate filtration could be performed under 10 min per mask, on average. Mask fit tests were conducted in tandem but are not the focus of this study.
 
-    >>>  Results
+    >  Results
       Tests conducted of 47 nonregulation masks reveal variable performance. A number of commercially available masks in hospital inventories perform similarly to N95 masks for aerosol filtration of 0.2 μm and above, but there is a range of masks with relatively lower filtration efficiencies (e.g., <90%) and a subset with poorer filtration (e.g., <70%). All masks functioned acceptably for breathability, and impedance was not correlated with filtration efficiency.
 
-    >>>  Significance
+    >  Significance
       With simplified tests, organizations with mask/respirator shortages and uncertain inventories can make informed decisions about use and procurement.
 
-    -- quotes
+    - quotes
       !a
 
     / Medical and N95 mask comparison
@@ -142,10 +142,10 @@ feed July2020
   ref 'Hao_et_al_07_21_2020
     head = In this study, we comprehensively evaluated the overall and size-dependent filtration performances of non-medical materials.
 
-    >>> Abstract
+    > Abstract
       The recent outbreak of the coronavirus disease (COVID-19) is causing a shortage of personal protective equipment (PPE) in different countries around the world. Because the coronavirus can transmit through droplets and aerosols, facemasks and N95 respirators that require complex certification, are urgently needed. Given the situation, the U.S. Centers for Disease Control and Prevention (CDC) recommends that “in settings where facemasks are not available, healthcare personnel might use homemade masks (e.g., bandana, scarf) for the care of patients with COVID-19 as a last resort.” Although aerosols and droplets can be removed through the fibers of fabrics through a series of filtration mechanisms, their filtration performances have not been evaluated in detail. Moreover, there are a series of non-medical materials available on the market, such as household air filters, coffee filters, and different types of fabrics, which may be useful when facemasks and respirators are not available. In this study, we comprehensively evaluated the overall and size-dependent filtration performances of non-medical materials. The experiments were conducted under different face velocities to study its influence on size-dependent filtration performances. The flow resistance across these filter materials is measured as an indicator of the breathability of the materials. The results illustrate that multiple layers of household air filters are able to achieve similar filtration efficiencies compared to the N95 material without causing a significant increase in flow resistance. Considering that these air filters may shed micrometer fibers during the cutting and folding processes, it is recommended that these filters should be inserted in multiple layers of fabrics when manufacturing facemasks or respirators.
 
-    -- quotes
+    - quotes
       !a
 
     quote !a = The results illustrate that multiple layers of household air filters are able to achieve similar filtration efficiencies compared to the N95 material without causing a significant increase in flow resistance.
@@ -156,16 +156,16 @@ feed July2020
   ref 'Sommerstein_et_al_07_06_2020
     head = The aim of this article is to review the epidemiology of COVID-19 in HCWs, to interpret the scientific data on aerosol versus droplet transmission of SARS-CoV-2 (the causative agent of COVID-19), to compare basic characteristics between surgical masks and respirators, and to evaluate the evidence of protection between these two mask types.
 
-    >>> Objectives
+    > Objectives
       To determine the risk of SARS-CoV-2 transmission by aerosols, to provide evidence on the rational use of masks, and to discuss additional measures important for the protection of healthcare workers from COVID-19.
 
-    >>> Methods
+    > Methods
       Literature review and expert opinion.
 
-    >>> Short conclusion
+    > Short conclusion
       SARS-CoV-2, the pathogen causing COVID-19, is considered to be transmitted via droplets rather than aerosols, but droplets with strong directional airflow support may spread further than 2 m. High rates of COVID-19 infections in healthcare-workers (HCWs) have been reported from several countries. Respirators such as filtering face piece (FFP) 2 masks were designed to protect HCWs, while surgical masks were originally intended to protect patients (e.g., during surgery). Nevertheless, high quality standard surgical masks (type II/IIR according to European Norm EN 14683) appear to be as effective as FFP2 masks in preventing droplet-associated viral infections of HCWs as reported from influenza or SARS. So far, no head-to-head trials with these masks have been published for COVID-19. Neither mask type completely prevents transmission, which may be due to inappropriate handling and alternative transmission pathways. Therefore, compliance with a bundle of infection control measures including thorough hand hygiene is key. During high-risk procedures, both droplets and aerosols may be produced, reason why respirators are indicated for these interventions.
 
-    -- quotes
+    - quotes
       !c
       !a
       !b
@@ -198,10 +198,10 @@ feed July2020
   ref 'Howard_et_al_02_20_2020
     head =  We synthesize the relevant literature to inform multiple areas: 1) transmission characteristics of COVID-19, 2) filtering characteristics and efficacy of masks, 3) estimated population impacts of widespread community mask use, and 4) sociological considerations for policies concerning mask-wearing.
 
-    >>>
+    >
       The science around the use of masks by the general public to impede COVID-19 transmission is advancing rapidly. Policymakers need guidance on how masks should be used by the general population to combat the COVID-19 pandemic. Here, we synthesize the relevant literature to inform multiple areas: 1) transmission characteristics of COVID-19, 2) filtering characteristics and efficacy of masks, 3) estimated population impacts of widespread community mask use, and 4) sociological considerations for policies concerning mask-wearing. A primary route of transmission of COVID-19 is likely via small respiratory droplets, and is known to be transmissible from presymptomatic and asymptomatic individuals. Reducing disease spread requires two things: first, limit contacts of infected individuals via physical distancing and contact tracing with appropriate quarantine, and second, reduce the transmission probability per contact by wearing masks in public, among other measures. The preponderance of evidence indicates that mask wearing reduces the transmissibility per contact by reducing transmission of infected droplets in both laboratory and clinical contexts. Public mask wearing is most effective at stopping spread of the virus when compliance is high. The decreased transmissibility could substantially reduce the death toll and economic impact while the cost of the intervention is low. Thus we recommend the adoption of public cloth mask wearing, as an effective form of source control, in conjunction with existing hygiene, distancing, and contact tracing strategies. We recommend that public officials and governments strongly encourage the use of widespread face masks in public, including the use of appropriate regulation.
 
-    -- quotes
+    - quotes
       !a
 
     / July, 2020 - PrePrints
@@ -215,19 +215,19 @@ feed July2020
   ref 'Zhou_et_al_07_08_2020
     head = Viral RNA was detected on surfaces and in air in public areas of the hospital but was more likely to be found in areas immediately occupied by COVID-19 patients than in other areas.
 
-    >>> Background
+    > Background
       Evaluation of SARS-CoV-2 surface and air contamination during the COVID-19 pandemic in London.
 
-    >>> Methods
+    > Methods
       We performed this prospective cross-sectional observational study in a multi-site London hospital. Air and surface samples were collected from seven clinical areas, occupied by patients with COVID-19, and a public area of the hospital. Three or four 1.0 m3 air samples were collected in each area using an active air sampler. Surface samples were collected by swabbing items in the immediate vicinity of each air sample. SARS-CoV-2 was detected by RT-qPCR and viral culture; the limit of detection for culturing SARS-CoV-2 from surfaces was determined.
 
-    >>> Results
+    > Results
       Viral RNA was detected on 114/218 (52.3%) of surfaces and 14/31 (38.7%) air samples but no virus was cultured. The proportion of surface samples contaminated with viral RNA varied by item sampled and by clinical area. Viral RNA was detected on surfaces and in air in public areas of the hospital but was more likely to be found in areas immediately occupied by COVID-19 patients than in other areas (67/105 (63.8%) vs. 29/64 (45.3%) (odds ratio 0.5, 95% confidence interval 0.2-0.9, p=0.025, Chi squared test)). The high PCR Ct value for all samples (>30) indicated that the virus would not be culturable.
 
-    >>> Conclusions
+    > Conclusions
       Our findings of extensive viral RNA contamination of surfaces and air across a range of acute healthcare settings in the absence of cultured virus underlines the potential risk from environmental contamination in managing COVID-19, and the need for effective use of PPE, physical distancing, and hand/surface hygiene.
 
-    -- quotes
+    - quotes
       !a
       !b
 
@@ -245,10 +245,10 @@ feed July2020
   ref 'Echternach_et_al_07_24_2020
     head = The impulse spreading of aerosols from singing a text reach distances to the front of up to 1.4m in a short amount of time. The distance of dispersion of singing a text is comparable to reading a text rather than singing only on a single vowel.
 
-    >>> Abstract
+    > Abstract
       Group singing events have been linked to several outbreaks of infection during the CoVID-19 pandemic, leading to singing activities being banned in many areas across the globe. This link between singing and infection rates supports the possibility that aerosols are partly responsible for person-to-person infection. In contrast to droplets, the smaller aerosol particles do not fall to the ground within a short distance after being expelled by e.g. a singer. Aerosol particles hover and spread via convection in the environmental air. According to the super-spreading theory, choir singing and loud talking (theater and presentations) during rehearsals or performances may constitute a high risk of infectious virus transmission to large numbers of people. Thus, it is essential to define the safety distances between singers in super-spreading situations. The aim of this study is to investigate the impulse dispersion of aerosols during singing and speaking in comparison to breathing and coughing. Ten professional singers (5 males and 5 females) of the Bavarian Radio Chorus performed 9 tasks including singing a phrase of Beethovens 9th symphony, to the original German text. The inhaled air volume was marked with small aerosol particles produced via a commercial e-cigarette. The expelled aerosol cloud was recorded with three high definition TV cameras from different perspectives. Afterwards, the dimensions and dynamics of the aerosol cloud was measured by segmenting the video footage at every time point. While the median expansion was below 1m, the aerosol cloud was expelled up to 1.4m in the singing direction for individual subjects. Consonants produced larger distances of aerosol expulsion than vowels. The dispersion in the lateral and vertical dimension was less pronounced than the forward direction. After completion of each task, the cloud continued to distribute in the air increasing its dimensions. Consequently, we propose increasing the current recommendations of many governmental councils for choirs or singing at religious services from 1.5m to the front and 1m to the side to a distance between choir singers of 2m to the front and 1.5m to the sides.
 
-    -- quotes
+    - quotes
       !a
       !b
 
@@ -291,10 +291,10 @@ feed July2020
   ref 'Khuroo_et_al_07_17_2020
     head = Hydroxychloroquine has been used as a desperate attempt for prophylaxis and treatment of COVID-19. The drug has wide-ranging drug interactions and potential cardiotoxicity. Indiscriminate unsupervised use can expose the public to serious adverse drug effects.
 
-    >>> Abstract
+    > Abstract
       The coronavirus infection (COVID-19) has turned into a global catastrophe and there is an intense search for effective drug therapy. Of all the potential therapies, chloroquine and hydroxychloroquine have been the focus of tremendous public attention. Both drugs have been used in the treatment and prophylaxis of malaria. Long-term use of hydroxychloroquine is the cornerstone in the treatment of several auto-immune disorders. There is convincing evidence that hydroxychloroquine has strong in vitro antiviral activity against SARS-CoV-2. A few small uncontrolled trials and several anecdotal reports have shown conflicting results of such drug therapy in COVID-19. However, the results of preliminary large-scale randomized controlled trials have failed to show any survival benefit of such drug therapy in COVID-19. Despite the lack of such evidence, hydroxychloroquine has been used as a desperate attempt for prophylaxis and treatment of COVID-19. The drug has wide-ranging drug interactions and potential cardiotoxicity. Indiscriminate unsupervised use can expose the public to serious adverse drug effects.
 
-    -- quotes
+    - quotes
       !a
 
     / July, 2020 - Elsevier
@@ -307,7 +307,7 @@ feed July2020
   ref 'Guo_et_al_07_26_2020
     head = Environmental contamination was greater in intensive care units than general wards. Virus was widely distributed in the air and on floors, computer mice, trash cans, and sickbed handrails and was detected in air ≈4 m from patients.
 
-    >>> Abstract
+    > Abstract
       To determine distribution of severe acute respiratory syndrome coronavirus 2 in hospital wards in Wuhan, China, we tested air and surface samples. Contamination was greater in intensive care units than general wards. Virus was widely distributed on floors, computer mice, trash cans, and sickbed handrails and was detected in air ≈4 m from patients.
 
     / July, 2020 - Emerg Infect Dis
@@ -320,7 +320,7 @@ feed July2020
   ref 'Hoseinzadeh_et_al_07_09_2020
     head = We describes the SARS-CoV-2 paths of contagion such as drinking water, solid waste, sewer water, ambient air, and the rest of emerging likely paths. ACE2 as a cellular doorway for SARS-CoV-2 entrance can suggest us identifying novel paths of SARS-CoV-2 transmission.
 
-    >>> Abstract
+    > Abstract
       The risk of newly emerging diseases is constantly present in a world where changes occur significantly in climatic, commercial, and ecological conditions, in addition to the development of biomedical investigations in new situations. An epidemic respiratory disease instigated by a new coronavirus was initially identified in and has resulted in the current global dissemination. This viral strain and its related disease has been termed “SARS-CoV-2” and “coronavirus disease 2019” (abbreviated “COVID-19” or “2019-nCoV”), respectively, which is transmitted simply between individuals. The World Health Organization (WHO) announced the COVID-19 outburst as a pandemic on March 11, which necessitates a cooperative endeavour globally for mitigating the spread of COVID-19.
       The absence of previous, and minimum present-day information, particularly concerning the path of contagion have precluded the control of this disease. The present article, therefore, describes the SARS-CoV-2 paths of contagion such as drinking water, solid waste, sewer water, ambient air, and the rest of emerging likely paths.
 
@@ -334,10 +334,10 @@ feed July2020
   ref 'Ou_et_al_07_22_2020
     head = These studies identify functional differences between SARS-CoV-1 and -2 entry processes, and provide a mechanistic explanation for the limited in vivo utility of hydroxychloroquine as a treatment for COVID-19.
 
-    >>> Abstract
+    > Abstract
       Hydroxychloroquine, used to treat malaria and some autoimmune disorders, potently inhibits viral infection of SARS coronavirus (SARS-CoV-1) and SARS-CoV-2 in cell-culture studies. However, human clinical trials of hydroxychloroquine failed to establish its usefulness as treatment for COVID-19. This compound is known to interfere with endosomal acidification necessary to the proteolytic activity of cathepsins. Following receptor binding and endocytosis, cathepsin L can cleave the SARS-CoV-1 and SARS-CoV-2 spike (S) proteins, thereby activating membrane fusion for cell entry. The plasma membrane-associated protease TMPRSS2 can similarly cleave these S proteins and activate viral entry at the cell surface. Here we show that the SARS-CoV-2 entry process is more dependent than that of SARS-CoV-1 on TMPRSS2 expression. This difference can be reversed when the furin-cleavage site of the SARS-CoV-2 S protein is ablated. We also show that hydroxychloroquine efficiently blocks viral entry mediated by cathepsin L, but not by TMPRSS2, and that a combination of hydroxychloroquine and a clinically-tested TMPRSS2 inhibitor prevents SARS-CoV-2 infection more potently than either drug alone. These studies identify functional differences between SARS-CoV-1 and -2 entry processes, and provide a mechanistic explanation for the limited in vivo utility of hydroxychloroquine as a treatment for COVID-19.
 
-    -- quotes
+    - quotes
       !a
       !b
 
@@ -353,23 +353,23 @@ feed July2020
   ref 'Arshad_et_al_07_01_2020
     head = When controlling for COVID-19 risk factors, treatment with hydroxychloroquine alone and in combination with azithromycin was associated with reduction in COVID-19 associated mortality.
 
-    >>> Significance
+    > Significance
       The United States is in an acceleration phase of the COVID-19 pandemic. Currently there is no known effective therapy or vaccine for treatment of SARS-CoV-2, highlighting urgency around identifying effective therapies.
-    >>> Objective
+    > Objective
       The purpose of this study was to evaluate the role of hydroxychloroquine therapy alone and in combination with azithromycin in hospitalized patients positive for COVID-19.
-    >>> Design
+    > Design
       Multi-center retrospective observational study.
-    >>> Setting
+    > Setting
       The Henry Ford Health System (HFHS) in Southeast Michigan: large six hospital integrated health system; the largest of hospitals is an 802-bed quaternary academic teaching hospital in urban Detroit, Michigan.
-    >>> Participants
+    > Participants
       Consecutive patients hospitalized with a COVID-related admission in the health system from March 10, 2020 to May 2, 2020 were included. Only the first admission was included for patients with multiple admissions. All patients evaluated were 18 years of age and older and were treated as inpatients for at least 48 h unless expired within 24 h.
-    >>> Exposure
+    > Exposure
       Receipt of hydroxychloroquine alone, hydroxychloroquine in combination with azithromycin, azithromycin alone, or neither.
-    >>> Main outcome
+    > Main outcome
       The primary outcome was in-hospital mortality.
-    >>>  Results
+    >  Results
       Of 2,541 patients, with a median total hospitalization time of 6 days (IQR: 4–10 days), median age was 64 years (IQR:53–76 years), 51% male, 56% African American, with median time to follow-up of 28.5 days (IQR:3–53). Overall in-hospital mortality was 18.1% (95% CI:16.6%–19.7%); by treatment: hydroxychloroquine + azithromycin, 157/783 (20.1% [95% CI: 17.3%–23.0%]), hydroxychloroquine alone, 162/1202 (13.5% [95% CI: 11.6%–15.5%]), azithromycin alone, 33/147 (22.4% [95% CI: 16.0%–30.1%]), and neither drug, 108/409 (26.4% [95% CI: 22.2%–31.0%]). Primary cause of mortality was respiratory failure (88%); no patient had documented torsades de pointes. From Cox regression modeling, predictors of mortality were age>65 years (HR:2.6 [95% CI:1.9–3.3]), white race (HR:1.7 [95% CI:1.4–2.1]), CKD (HR:1.7 [95%CI:1.4–2.1]), reduced O2 saturation level on admission (HR:1.5 [95%CI:1.1–2.1]), and ventilator use during admission (HR: 2.2 [95%CI:1.4–3.3]). Hydroxychloroquine provided a 66% hazard ratio reduction, and hydroxychloroquine + azithromycin 71% compared to neither treatment (p < 0.001).
-    >>>  Conclusions and relevance
+    >  Conclusions and relevance
       In this multi-hospital assessment, when controlling for COVID-19 risk factors, treatment with hydroxychloroquine alone and in combination with azithromycin was associated with reduction in COVID-19 associated mortality. Prospective trials are needed to examine this impact.
 
     / July, 2020 - International Journal of Infectious Diseases
@@ -391,13 +391,13 @@ feed July2020
   ref 'Mitja_et_al_07_26_2020
     head =  Postexposure therapy with HCQ did not prevent SARS-CoV-2 disease and infection in healthy individuals exposed to a PCR-positive case. Our findings do not support HCQ as postexposure prophylaxis for Covid-19.
 
-    >>> Background
+    > Background
       Current strategies for preventing severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infections are limited to non-pharmacological interventions. Hydroxychloroquine (HCQ) has been proposed as a postexposure therapy to prevent Coronavirus disease 2019 (Covid-19) but definitive evidence is lacking.
-    >>> Methods
+    > Methods
       We conducted an open-label, cluster-randomized trial including asymptomatic contacts exposed to a PCR-positive Covid-19 case in Catalonia, Spain. Clusters were randomized to receive no specific therapy (control arm) or HCQ 800mg once, followed by 400mg daily for 6 days (intervention arm). The primary outcome was PCR-confirmed symptomatic Covid-19 within 14 days. The secondary outcome was SARS-CoV-2 infection, either symptomatically compatible or a PCR-positive result regardless of symptoms. Adverse events (AEs) were assessed up to 28 days.
-    >>> Results
+    > Results
       The analysis included 2,314 healthy contacts of 672 Covid-19 index cases identified between Mar 17 and Apr 28, 2020. A total of 1,198 were randomly allocated to usual care and 1,116 to HCQ therapy. There was no significant difference in the primary outcome of PCR-confirmed, symptomatic Covid-19 disease (6.2% usual care vs. 5.7% HCQ; risk ratio 0.89 [95% confidence interval 0.54-1.46]), nor evidence of beneficial effects on prevention of SARS-CoV-2 transmission (17.8% usual care vs. 18.7% HCQ). The incidence of AEs was higher in the intervention arm than in the control arm (5.9% usual care vs 51.6% HCQ), but no treatment-related serious AEs were reported.
-    >>> Conclusions
+    > Conclusions
       Postexposure therapy with HCQ did not prevent SARS-CoV-2 disease and infection in healthy individuals exposed to a PCR-positive case. Our findings do not support HCQ as postexposure prophylaxis for Covid-19.
 
 
@@ -411,16 +411,16 @@ feed July2020
   ref 'Mitjà_et_al_07_16_2020
     head =
 
-    >>> Background:
+    > Background:
       No therapeutics have yet been proven effective for the treatment of mild-illness caused by SARS-CoV-2. We aimed to determine whether early treatment with hydroxychloroquine (HCQ) would be more efficacious than no-treatment for outpatients with mild Covid-19.
 
-    >>> Methods:
+    > Methods:
       We conducted a multicenter, open label, randomized controlled trial in Catalonia (Spain) between March 17, and May 26, 2020. Eligible Covid-19 cases were non-hospitalized adult patients with recently confirmed SARS-CoV-2 infection and less than five days of symptoms. Patients were assigned to receive HCQ (800 mg on day 1, followed by 400 mg once daily for 6 days) or no antiviral treatment (not-placebo controlled). Study outcomes were the reduction of viral RNA load in nasopharyngeal swabs up to 7 days after treatment start, patient disease progression using the WHO scale up to 28 days, and time to complete resolution of symptoms. Adverse events were assessed up to 28 days.
 
-    >>> Results:
+    > Results:
       A total of 293 patients were eligible for intention-to-treat analysis: 157 in the control arm and 136 in the intervention arm. The mean age was 41.6 years (SD 12.6), mean viral load at baseline was 7.90 (SD 1.82) Log10 copies/mL, and median time from symptom onset to randomization was 3 days. No significant differences were found in the mean reduction of viral load at day 3 (-1.41 vs. -1.41 Log10 copies/mL in the control and intervention arm, respectively; difference 0.01 [95% CI -0.28;0.29]) or at day 7 (-3.37 vs. -3.44; d -0.07 [-0.44;0.29]). This treatment regimen did not reduce risk of hospitalization (7.1%, control vs. 5.9%, intervention; RR 0.75 [0.32;1.77]) nor shortened the time to complete resolution of symptoms (12 days, control vs. 10 days, intervention; p = 0.38). No relevant treatment-related AEs were reported.
 
-    >>> Conclusions:
+    > Conclusions:
       In patients with mild Covid-19, no benefit was observed with HCQ beyond the usual care.
 
     / July, 2020 - Clin Infec Dis
@@ -433,13 +433,13 @@ feed July2020
   ref 'Cavalcanti_et_al_07_23_2020
     head = Among patients hospitalized with mild-to-moderate Covid-19, the use of hydroxychloroquine, alone or with azithromycin, did not improve clinical status at 15 days as compared with standard care.
 
-    >>> BACKGROUND
+    > BACKGROUND
       Hydroxychloroquine and azithromycin have been used to treat patients with coronavirus disease 2019 (Covid-19). However, evidence on the safety and efficacy of these therapies is limited.
-    >>> METHODS
+    > METHODS
       We conducted a multicenter, randomized, open-label, three-group, controlled trial involving hospitalized patients with suspected or confirmed Covid-19 who were receiving either no supplemental oxygen or a maximum of 4 liters per minute of supplemental oxygen. Patients were randomly assigned in a 1:1:1 ratio to receive standard care, standard care plus hydroxychloroquine at a dose of 400 mg twice daily, or standard care plus hydroxychloroquine at a dose of 400 mg twice daily plus azithromycin at a dose of 500 mg once daily for 7 days. The primary outcome was clinical status at 15 days as assessed with the use of a seven-level ordinal scale (with levels ranging from one to seven and higher scores indicating a worse condition) in the modified intention-to-treat population (patients with a confirmed diagnosis of Covid-19). Safety was also assessed.
-    >>> RESULTS
+    > RESULTS
       A total of 667 patients underwent randomization; 504 patients had confirmed Covid-19 and were included in the modified intention-to-treat analysis. As compared with standard care, the proportional odds of having a higher score on the seven-point ordinal scale at 15 days was not affected by either hydroxychloroquine alone (odds ratio, 1.21; 95% confidence interval [CI], 0.69 to 2.11; P=1.00) or hydroxychloroquine plus azithromycin (odds ratio, 0.99; 95% CI, 0.57 to 1.73; P=1.00). Prolongation of the corrected QT interval and elevation of liver-enzyme levels were more frequent in patients receiving hydroxychloroquine, alone or with azithromycin, than in those who were not receiving either agent.
-    >>> CONCLUSIONS
+    > CONCLUSIONS
       Among patients hospitalized with mild-to-moderate Covid-19, the use of hydroxychloroquine, alone or with azithromycin, did not improve clinical status at 15 days as compared with standard care.
 
     / July, 2020 - NEJM
@@ -452,31 +452,31 @@ feed July2020
   ref 'Skipper_et_al_16_07_2020
     head = Hydroxychloroquine did not substantially reduce symptom severity in outpatients with early, mild COVID-19.
 
-    >>> Background:
+    > Background:
       No effective oral therapy exists for early coronavirus disease 2019 (COVID-19).
 
-    >>> Objective:
+    > Objective:
       To investigate whether hydroxychloroquine could reduce COVID-19 severity in adult outpatients.
 
-    >>> Design:
+    > Design:
       Randomized, double-blind, placebo-controlled trial conducted from 22 March through 20 May 2020. (ClinicalTrials.gov: NCT04308668).
 
-    >>> Setting:
+    > Setting:
       Internet-based trial across the United States and Canada (40 states and 3 provinces).
 
-    >>> Participants:
+    > Participants:
       Symptomatic, nonhospitalized adults with laboratory-confirmed COVID-19 or probable COVID-19 and high-risk exposure within 4 days of symptom onset.
 
-    >>> Intervention:
+    > Intervention:
       Oral hydroxychloroquine (800 mg once, followed by 600 mg in 6 to 8 hours, then 600 mg daily for 4 more days) or masked placebo. Measures: Symptoms and severity at baseline and then at days 3, 5, 10, and 14 using a 10-point visual analogue scale. The primary end point was change in overall symptom severity over 14 days.
 
-    >>> Results:
+    > Results:
       Of 491 patients randomly assigned to a group, 423 contributed primary end point data. Of these, 341 (81%) had laboratory-confirmed infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) or epidemiologically linked exposure to a person with laboratory-confirmed infection; 56% (236 of 423) were enrolled within 1 day of symptoms starting. Change in symptom severity over 14 days did not differ between the hydroxychloroquine and placebo groups (difference in symptom severity: relative, 12%; absolute, -0.27 points [95% CI, -0.61 to 0.07 points]; P = 0.117). At 14 days, 24% (49 of 201) of participants receiving hydroxychloroquine had ongoing symptoms compared with 30% (59 of 194) receiving placebo (P = 0.21). Medication adverse effects occurred in 43% (92 of 212) of participants receiving hydroxychloroquine versus 22% (46 of 211) receiving placebo (P < 0.001). With placebo, 10 hospitalizations occurred (2 non-COVID-19-related), including 1 hospitalized death. With hydroxychloroquine, 4 hospitalizations occurred plus 1 nonhospitalized death (P = 0.29).
 
-    >>> Limitations:
+    > Limitations:
       Only 58% of participants received SARS-CoV-2 testing because of severe U.S. testing shortages.
 
-    >>> Conclusion:
+    > Conclusion:
       Hydroxychloroquine did not substantially reduce symptom severity in outpatients with early, mild COVID-19.
 
     / July, 2020 - Ann Intern Med
@@ -488,12 +488,12 @@ feed July2020
   ref 'Horbt_et_al_07_15_2020
     head = In patients hospitalized with COVID-19, hydroxychloroquine was not associated with reductions in 28-day mortality but was associated with an increased length of hospital stay and increased risk of progressing to invasive mechanical ventilation or death.
 
-    >>> Background:
+    > Background:
       Hydroxychloroquine and chloroquine have been proposed as treatments for coronavirus disease 2019 (COVID-19) on the basis of in vitro activity, uncontrolled data, and small randomized studies. Methods: The Randomised Evaluation of COVID-19 therapy (RECOVERY) trial is a randomized, controlled, open-label, platform trial comparing a range of possible treatments with usual care in patients hospitalized with COVID-19. We report the preliminary results for the comparison of hydroxychloroquine vs. usual care alone. The primary outcome was 28-day mortality.
-    >>> Results:
+    > Results:
       1561 patients randomly allocated to receive hydroxychloroquine were compared with 3155 patients concurrently allocated to usual care. Overall, 418 (26.8%) patients allocated hydroxychloroquine and 788 (25.0%) patients allocated usual care died within 28 days (rate ratio 1.09; 95% confidence interval [CI] 0.96 to 1.23; P=0.18). Consistent results were seen in all pre-specified subgroups of patients. Patients allocated to hydroxychloroquine were less likely to be discharged from hospital alive within 28 days (60.3% vs. 62.8%; rate ratio 0.92; 95% CI 0.85-0.99) and those not on invasive mechanical ventilation at baseline were more likely to reach the composite endpoint of invasive mechanical ventilation or death (29.8% vs. 26.5%; risk ratio 1.12; 95% CI 1.01-1.25). There was no excess of new major cardiac arrhythmia.
 
-    >>> Conclusions:
+    > Conclusions:
       In patients hospitalized with COVID-19, hydroxychloroquine was not associated with reductions in 28-day mortality but was associated with an increased length of hospital stay and increased risk of progressing to invasive mechanical ventilation or death.
 
     / July, 2020 - medRxiv
@@ -505,9 +505,9 @@ feed July2020
   ref 'Santarpia_et_al_07_2020
     head = The study points to nature of viral shedding for patients in quarantine and the results indicate airborne spread of the virus.
 
-    >>> Abstract
+    > Abstract
       The novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) originated in Wuhan, China in late 2019, and its resulting coronavirus disease, COVID-19, was declared a pandemic by the World Health Organization on March 11, 2020. The rapid global spread of COVID-19 represents perhaps the most significant public health emergency in a century. As the pandemic progressed, a continued paucity of evidence on routes of SARS-CoV-2 transmission has resulted in shifting infection prevention and control guidelines between classically-defined airborne and droplet precautions. During the initial isolation of 13 individuals with COVID-19 at the University of Nebraska Medical Center, we collected air and surface samples to examine viral shedding from isolated individuals. We detected viral contamination among all samples, supporting the use of airborne isolation precautions when caring for COVID-19 patients.
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -526,10 +526,10 @@ feed July2020
   doi: https://doi.org/10.1038/s41586-020-2607-z
   ref 'Mercado_et_al_07_2020
     head = Provides data on trials of a single-shot vector based vaccine in animals. The data showed positive results for 5 out of 6 monkeys with minimal to no virus replication in the sample. The vaccine provided complete or near-complete protection against the SARS Cov-2 challege in the monkey. The clinical trials as ongoing when the study was reported.
-    >>> Abstract
+    > Abstract
       A safe and effective vaccine for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) may be required to end the coronavirus disease 2019 (COVID-19) pandemic1–8. For global deployment and pandemic control, a vaccine that requires only a single immunization would be optimal. Here we show the immunogenicity and protective efficacy of a single dose of adenovirus serotype 26 (Ad26) vector-based vaccines expressing the SARS-CoV-2 spike (S) protein in nonhuman primates. Fifty-two rhesus macaques were immunized with Ad26 vectors encoding S variants or sham control and were challenged with SARS-CoV-2 by the intranasal and intratracheal routes9,10. The optimal Ad26 vaccine induced robust neutralizing antibody responses and provided complete or near-complete protection in bronchoalveolar lavage and nasal swabs following SARS-CoV-2 challenge. Vaccine-elicited neutralizing antibody titres correlated with protective efficacy, suggesting an immune correlate of protection. These data demonstrate robust single-shot vaccine protection against SARS-CoV-2 in nonhuman primates. The optimal Ad26 vector-based vaccine for SARS-CoV-2, termed Ad26.COV2.S, is currently being evaluated in clinical trials.
 
-    -- quotes
+    - quotes
       !a
 
     / Single-shot AD26 vector based vaccine, July, 2020 - Nature
@@ -541,16 +541,16 @@ feed July2020
   ref 'Gharbharan_et_al_07_03_2020
     head = The Convalescent-plasma-for-COVID (ConCOVID) study was a randomized trial comparing convalescent plasma with standard of care therapy in patients hospitalized for COVID-19 in the Netherlands. After discussion with the data safety monitoring board, the study was discontinued. No statistically significant differences in mortality or improvement in the day-15 disease severity was observed when the study was suspended.
 
-    >>> Background
+    > Background
       After recovery from COVID-19, most patients have anti-SARS-CoV-2 neutralizing antibodies. Their convalescent plasma could be an inexpensive and widely available treatment for COVID-19.
 
-    >>> Methods
+    > Methods
       The Convalescent-plasma-for-COVID (ConCOVID) study was a randomized trial comparing convalescent plasma with standard of care therapy in patients hospitalized for COVID-19 in the Netherlands. Patients were randomized 1:1 and received 300ml of plasma with anti-SARS-CoV-2 neutralizing antibody titers of at least 1:80. The primary endpoint was day-60 mortality and key secondary endpoints were hospital stay and WHO 8-point disease severity scale improvement on day 15.
 
-    >>> Results
+    > Results
       The trial was halted prematurely after 86 patients were enrolled. Although symptomatic for only 10 days (IQR 6-15) at the time of inclusion, 53 of 66 patients tested had anti-SARS-CoV-2 antibodies at baseline. A SARS-CoV-2 plaque reduction neutralization test showed neutralizing antibodies in 44 of the 56 (79%) patients tested with median titers comparable to the 115 donors (1:160 vs 1:160, p=0.40). These observations caused concerns about the potential benefit of convalescent plasma in the study population and after discussion with the data safety monitoring board, the study was discontinued. No difference in mortality (p=0.95), hospital stay (p=0.68) or day-15 disease severity (p=0.58) was observed between plasma treated patients and patients on standard of care.
 
-    >>> Conclusion
+    > Conclusion
       Most COVID-19 patients already have high neutralizing antibody titers at hospital admission. Screening for antibodies and prioritizing convalescent plasma to risk groups with recent symptom onset will be key to identify patients that may benefit from convalescent plasma.
 
     # -- quotes
@@ -608,7 +608,7 @@ feed July2020
   doi: https://doi.org/xyz
   ref 'Kanaujia_et_al_07_03_2020
     head = An alternative method is sampling from the mask of the patient. This approach will be advantageous, simple, safe, easy to use and non-invasive. The size of the respiratory droplet is from >5 to 10 μm in diameter and Edwards et al. demonstrated that during normal breathing many people generate a substantial number of aerosols ~150 nm in diameter. Hence, N95 masks can offer an easy adjunct for NP samples.
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -628,7 +628,7 @@ feed July2020
   ref 'Goldman_et_al_07_03_2020
     head = A clinically significant risk of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) transmission by fomites (inanimate surfaces or objects) has been assumed on the basis of studies that have little resemblance to real-life scenarios.
     
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -648,10 +648,10 @@ feed July2020
   ref 'Sharma_et_al_07_08_2020
     head = We have presented the evidence available in the literature that has led to the suggestion of the possible effects of two factors, BCG vaccination and exposure to CQ, on the susceptibility to the COVID-19 infection.
 
-    >>> Abstract
+    > Abstract
       Coronavirus disease 2019 (COVID-19) is a severe acute respiratory syndrome caused by Coronavirus 2 (SARS-CoV-2). In the light of its rapid global spreading, on 11 March 2020, the World Health Organization has declared it a pandemic. Interestingly, the global spreading of the disease is not uniform, but has so far left some countries relatively less affected. The reason(s) for this anomalous behavior are not fully understood, but distinct hypotheses have been proposed. Here we discuss the plausibility of two of them: the universal vaccination with Bacillus Calmette–Guerin (BCG) and the widespread use of the antimalarial drug chloroquine (CQ). Both have been amply discussed in the recent literature with positive and negative conclusions: we felt that a comprehensive presentation of the data available on them would be useful. The analysis of data for countries with over 1000 reported COVID-19 cases has shown that the incidence and mortality were higher in countries in which BCG vaccination is either absent or has been discontinued, as compared with the countries with universal vaccination. We have performed a similar analysis of the data available for CQ, a widely used drug in the African continent and in other countries in which malaria is endemic; we discuss it here because CQ has been used as the drug to treat COVID-19 patients. Several African countries no longer recommend it officially for the fight against malaria, due to the development of resistance to Plasmodium, but its use across the continent is still diffuse. Taken together, the data in the literature have led to the suggestion of a possible inverse correlation between BCG immunization and COVID-19 disease incidence and severity.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -714,7 +714,7 @@ feed July2020
   ref 'Wrobel_et_al_07_09_2020
     head = Structural and biochemical data indicate that a bat virus, similar to RaTG13, would not be able to bind effectively to human ACE2 receptor and would be unlikely to infect humans directly. Our observations support the involvement of recombination between distinct coronavirus genomes in the generation of SARS-CoV-2.
 
-    >>> Abstract
+    > Abstract
       SARS-CoV-2 is thought to have emerged from bats, possibly via a secondary host. Here, we investigate the relationship of spike (S) glycoprotein from SARS-CoV-2 with the S protein of a closely related bat virus, RaTG13. We determined cryo-EM structures for RaTG13 S and for both furin-cleaved and uncleaved SARS-CoV-2 S; we compared these with recently reported structures for uncleaved SARS-CoV-2 S. We also biochemically characterized their relative stabilities and affinities for the SARS-CoV-2 receptor ACE2. Although the overall structures of human and bat virus S proteins are similar, there are key differences in their properties, including a more stable precleavage form of human S and about 1,000-fold tighter binding of SARS-CoV-2 to human receptor. These observations suggest that cleavage at the furin-cleavage site decreases the overall stability of SARS-CoV-2 S and facilitates the adoption of the open conformation that is required for S to bind to the ACE2 receptor.
 
     # -- quotes
@@ -745,10 +745,10 @@ feed July2020
   ref 'Zeberg_et_al_07_03_2020
     head = We show that the risk is conferred by a genomic segment of ~50 kb that is inherited from Neandertals and the Neandertal haplotype occurs at a frequency of ~30% in south Asia and ~8% in Europe.
 
-    >>> Abstract
+    > Abstract
       A recent genetic association study (Ellinghaus et al. 2020) identified a gene cluster on chromosome 3 as a risk locus for respiratory failure in SARS-CoV-2. Recent data comprising 3,199 hospitalized COVID-19 patients and controls reproduce this and find that it is the major genetic risk factor for severe SARS-CoV-2 infection and hospitalization (COVID-19 Host Genetics Initiative). Here, we show that the risk is conferred by a genomic segment of ~50 kb that is inherited from Neandertals and occurs at a frequency of ~30% in south Asia and ~8% in Europe.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -788,7 +788,7 @@ feed July2020
   ref 'Chan_et_al_07_07_2020
     head = Our analysis points out that the two complete pangolin CoV genomes, GD_1 by Xiao et al. and MP789 by Liu et al., were built primarily using the same metagenomic dataset published by Liu et al. in 2019. There is as yet no direct evidence of pangolins being an intermediate host of SARS-CoV-2, we would like to reinforce that pangolins and other trafficked animals should continue to be considered as carriers of infectious viruses with the potential to transmit into humans.
 
-    >>> Abstract
+    > Abstract
       Multiple publications have independently described pangolin CoV genomes from the same batch of smuggled pangolins confiscated in Guangdong province in March, 2019. We analyzed the three metagenomic datasets that sampled this batch of pangolins and found that the two complete pangolin CoV genomes, GD_1 by Xiao et al. Nature and MP789 by Liu et al. PLoS Pathogens, were both built primarily using the 2019 dataset first described by Liu et al. Viruses. Other publications, such as Zhang et al. Current Biology and Lam et al. Nature, have also relied on this same dataset by Liu et al. Viruses for their assembly of pangolin CoV sequences and comparisons to SARS-CoV-2. To our knowledge, all of the published pangolin CoV genome sequences that share a nearly identical Spike receptor binding domain with SARS-CoV-2 originate from this single batch of smuggled pangolins. This raises the question of whether pangolins are truly reservoirs or hosts of SARS-CoV-2-related coronaviruses in the wild, or whether the pangolins may have contracted the CoV from another host species during trafficking. Our observations highlight the importance of requiring authors to publish their complete genome assembly pipeline and all contributing raw sequence data, particularly those supporting epidemiological investigations, in order to empower peer review and independent analysis of the sequence data.
 
     # -- quotes
@@ -873,10 +873,10 @@ feed July2020
   ref 'Riva_et_al_07_24_2020
     head = Identifies 13 known drugs which harbour the viral replications with known dose effect relationships.
 
-    >>> Abstract
+    > Abstract
       The emergence of the novel SARS coronavirus 2 (SARS-CoV-2) in 2019 has triggered an ongoing global pandemic of severe pneumonia-like disease designated as coronavirus disease 2019 (COVID-19)1. The development of a vaccine is likely to require at least 12-18 months, and the typical timeline for approval of a novel antiviral therapeutic can exceed 10 years. Thus, repurposing of known drugs could significantly accelerate the deployment of novel therapies for COVID-19. Towards this end, we profiled a library of known drugs encompassing approximately 12,000 clinical-stage or FDA-approved small molecules. We report the identification of 100 molecules that inhibit viral replication, including 21 known drugs that exhibit dose response relationships. Of these, thirteen were found to harbor effective concentrations likely commensurate with achievable therapeutic doses in patients, including the PIKfyve kinase inhibitor apilimod2–4, and the cysteine protease inhibitors MDL-28170, Z LVG CHN2, VBY-825, and ONO 5334. Notably, MDL-28170, ONO 5334, and apilimod were found to antagonize viral replication in human iPSC-derived pneumocyte-like cells, and the PIKfyve inhibitor also demonstrated antiviral efficacy in a primary human lung explant model. Since most of the molecules identified in this study have already advanced into the clinic, the known pharmacological and human safety profiles of these compounds will enable accelerated preclinical and clinical evaluation of these drugs for the treatment of COVID-19.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -909,10 +909,10 @@ feed July2020
   ref 'Richard_et_al_07_08_2020
     head = Here we provide the first experimental evidence that SARS-CoV-2 can be transmitted efficiently via the air between ferrets, resulting in a productive infection and the detection of infectious virus in indirect recipients, as a model for human-to-human transmission.
 
-    >>> Abstract
+    > Abstract
       SARS-CoV-2, a coronavirus that emerged in late 2019, has spread rapidly worldwide, and information about the modes of transmission of SARS-CoV-2 among humans is critical to apply appropriate infection control measures and to slow its spread. Here we show that SARS-CoV-2 is transmitted efficiently via direct contact and via the air (via respiratory droplets and/or aerosols) between ferrets, 1 to 3 days and 3 to 7 days after exposure respectively. The pattern of virus shedding in the direct contact and indirect recipient ferrets is similar to that of the inoculated ferrets and infectious virus is isolated from all positive animals, showing that ferrets are productively infected via either route. This study provides experimental evidence of robust transmission of SARS-CoV-2 via the air, supporting the implementation of community-level social distancing measures currently applied in many countries in the world and informing decisions on infection control measures in healthcare settings.
 
-    -- quotes
+    - quotes
       !a
       !b
 
@@ -928,10 +928,10 @@ feed July2020
   ref 'Harbourt_et_al_07_03_2020
     head = We modeled stability of SARS-CoV-2 on skin, paper currency, and clothing to determine if these surfaces may factor in the fomite transmission dynamics of SARS-CoV-2.
 
-    >>> Abstract
+    > Abstract
       A new coronavirus (SARS-CoV-2) emerged in the winter of 2019 in Wuhan, China, and rapidly spread around the world. The extent and efficiency of SARS-CoV-2 pandemic is far greater than previous coronaviruses that emerged in the 21st Century. Here, we modeled stability of SARS-CoV-2 on skin, paper currency, and clothing to determine if these surfaces may factor in the fomite transmission dynamics of SARS-CoV-2. Skin, currency, and clothing samples were exposed to SARS-CoV-2 under laboratory conditions and incubated at three different temperatures (4C, 22C, and 37C). Stability was evaluated at 0 hours (h), 4 h, 8 h, 24 h, 72 h, 96 h, 7 days, and 14 days post-exposure. SARS-CoV-2 was shown to be stable on skin through the duration of the experiment at 4C (14 days). Virus remained stable on skin for at least 96 h at 22C and for at least 8h at 37C. There were minimal differences between the tested currency samples. The virus remained stable on the $1 U.S.A. Bank Note for at least 96 h at 4C while viable virus was not detected on the $20 U.S.A. Bank Note samples beyond 72 h. The virus remained stable on both Bank Notes for at least 8 h at 22C and 4 h at 37C. Clothing samples were similar in stability to the currency with the virus being detected for at least 96 h at 4C and at least 4 h at 22C. No viable virus was detected on clothing samples at 37C after initial exposure. This study confirms the inverse relationship between virus stability and temperature. Furthermore, virus stability on skin demonstrates the need for continued hand hygiene practices to minimize fomite transmission both in the general population as well as workplaces where close contact is common.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -951,10 +951,10 @@ feed July2020
   ref 'Mulligan_et_al_07_06_2020
     head = The RNA-based SARS-CoV-2 vaccine candidate BNT162b1 administered at 10 μg, 30 μg, and 100 μg to healthy adults 18-55 years of age exhibited a tolerability and safety profile consistent with those previously observed for mRNA-based vaccines.
 
-    >>> Abstract
+    > Abstract
       Abstract In March 2020, the WHO declared a pandemic of coronavirus disease 2019 (COVID-19), due to severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). With >8.8 million cases and >450,000 deaths reported globally, a vaccine is urgently needed. We report the available safety, tolerability, and immunogenicity data from an ongoing placebo-controlled, observer-blinded dose escalation study among healthy adults, 18-55 years of age, randomized to receive 2 doses, separated by 21 days, of 10 μg, 30 μg, or 100 μg of BNT162b1, a lipid nanoparticle-formulated, nucleoside-modified, mRNA vaccine that encodes trimerized SARS-CoV-2 spike glycoprotein RBD. Local reactions and systemic events were dose-dependent, generally mild to moderate, and transient. RBD-binding IgG concentrations and SARS-CoV-2 neutralizing titers in sera increased with dose level and after a second dose. Geometric mean neutralizing titers reached 1.8- to 2.8-fold that of a panel of COVID-19 convalescent human sera. These results support further evaluation of this mRNA vaccine candidate.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -983,7 +983,7 @@ feed July2020
   ref 'Morris_et_al_07_02_2020
     head = Overall, this was a well-conducted, well-designed, practice-changing clinical trial providing the most convincing evidence to date of an efficacious treatment in hospitalised COVID-19 patients. However, there are a number of issues, primarily around the reporting of the trial, that should ideally be resolved prior to final publication. We also urge caution against over-interpreting the estimated subgroup-specific effects based on level of respiratory support, especially the suggestion of harm in the group not on oxygen or mechanical ventilation.
 
-    -- quotes
+    - quotes
        !a
 
     / July, 2020 - Zenodo

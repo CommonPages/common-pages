@@ -6,9 +6,9 @@ index: hide
   ############################################################################################
 
   # Viral load
-  >>>
+  >
     The virus may be detectable in the upper respiratory tract (URT) 1- 3 days before the onset of symptoms. The concentration of SARS-CoV-2 in the URT is highest around the time of symptom onset, after which it gradually declines.
-  --
+  -
     'He_et_al_2020
     'He_et_al_2020.!b
     'Woelfel_et_al_2020b
@@ -16,32 +16,32 @@ index: hide
     'Weiss_et_al_07_22_2020
     'Zou_et_al_2020
 
-  >>>
+  >
     Higher viral loads detected in the nose than in the throat.
-  --
+  -
     'Zou_et_al_2020.!a
     'Weiss_et_al_07_22_2020
 
-  >>>
+  >
     Some studies report higher viral loads in the severely ill compared with patients with mild disease, while other studies do not report such differences.
-  -- high viral load in severely ill patients
+  - high viral load in severely ill patients
     'He_et_al_2020
     'He_et_al_2020.!b
     'Liu_et_al_03_19_2020
-  -- high viral load in mild disease/asymptomatic cases
+  - high viral load in mild disease/asymptomatic cases
     'Kam_et_al_02_28_2020
     'Lavezzo_et_al_04_18_2020.!h
     'WangTo_et_al_03_23_2020.!a
 
-  >>>
+  >
     The presence of viral RNA in the lower respiratory tract (LRT), and for a subset of individuals in the faeces, increases during the second week of illness.
-  --
+  -
     'Woelfel_et_al_2020b
     'Weiss_et_al_07_22_2020
 
-  >>>
+  >
     In some patients the viral RNA may only be detectable for several days, while in other patients it can be detected for several weeks, possibly months. Prolonged presence of viral RNA does not necessarily signify prolonged infectiousness.
-  --
+  -
     'Woelfel_et_al_2020b
     'Weiss_et_al_07_22_2020
     'WangTo_et_al_03_23_2020.!b
@@ -76,11 +76,11 @@ index: hide
     #    'Dinnes_et_al_08_26_2020
 
 
-    # >>> This study demonstrated that the RAD test serves only as adjunct to RT-PCR test because of potential for false-negative results.
+    # > This study demonstrated that the RAD test serves only as adjunct to RT-PCR test because of potential for false-negative results.
       # --
        # 'Mak_et_al_06_08_2020
 
-    # >>>
+    # >
         # Higher viral loads are associated with improved antigen test performance; therefore test performance is expected to be best around symptom onset and in the initial phase of a SARS-CoV-2 infection.
 
         # --
@@ -92,14 +92,14 @@ index: hide
         #    'Mak_et_al_06_08_2020
 
 
-    #  >>> remove it
+    #  > remove it
     #    Ag-RDTs are most likely to perform well in patients with high viral loads (Ct values ≤25 or >106 genomic virus copies/mL) which usually appear in the pre-symptomatic (1-3 days before symptom onset) and early symptomatic phases of the illness (within the first 5-7 days of illness) (14, 15, 21).
 
 
-    #  >>> Find papers for this
+    #  > Find papers for this
     #    False- positive (indicating that a person is infected when they are not) results may occur if the antibodies on the test strip also recognize antigens of viruses other than SARS-CoV-2, such other human coronaviruses.
 
-    # >>> Recommendation- for use of antigen test in a coomunity.
+    # > Recommendation- for use of antigen test in a coomunity.
         # Use of Ag-RDTs is not recommended in settings or populations with low expected prevalence of disease (e.g. screening at points of entry, blood donation, elective surgery), especially where confirmatory testing by NAAT is not readily available.
         # https://apps.who.int/iris/rest/bitstreams/1302653/retrieve
 
@@ -109,7 +109,7 @@ index: hide
 
     # Test performance
     # https://apps.who.int/iris/bitstream/handle/10665/334253/WHO-2019-nCoV-Antigen_Detection-2020.1-eng.pdf?sequence=1&isAllowed=y
-    # >>> WHO Background
+    # > WHO Background
     # Sensitivity is the percentage of cases positive by a NAAT reference standard that are detected as positive by the Ag-RDT under evaluation.
     # Specificity is the percentage of cases negative by a NAAT reference standard that are detected as negative by the Ag-RDT under evaluation. The prevalence of disease in the community being tested strongly affects the predictive value of a positive or negative result . Thus, the clinical value of a positive or negative test result will depend on what action is taken on the basis of the test result when interpreted in the context of local prevalence.
     # negative and positive Predictive value (take background contentt for wikipedia)
@@ -129,7 +129,7 @@ index: hide
     #   'Linton_et_al_2020
     #   'Lauer_et_al_05_05_2020
 
-    # >>>
+    # >
       # Estimated mean incubation period of approximately 5 days is comparable to known mean values of the incubation period for severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome
 
       # OR Results indicate a similar incubation period of SARS-CoV-2 with SARS (mean, 5 days; range, 2 to 14 days) [2], MERS (mean, 5 to 7 days; range, 2 to 14 days)
@@ -141,18 +141,18 @@ index: hide
       # 'Backer_et_al_02_06_2020
 
 
-      # >>>
+      # >
       #   The association between the severity of an infectious disease and the length of incubation period- covid 19. Patients with a shorter incubation period went on to have more severe disease.
       # --
       #   'Cai_et_al_09_23_2020
       #   'Lai_et_al_10_27_2020
       #
-      # # >>>
+      # # >
       #   # More importantly, incubation period is the interaction of pathogen and host immunity. The length of incubation period is closely linked to immunological state.
       #   # --
       #     # 'Hermesh_et_al_11_18_2010
 
-      # >>>
+      # >
         # COVID‐19 incubation period was found to be longer in older adults.
         # --
         #   'Kong_et_al_05_22_2020
@@ -163,20 +163,20 @@ index: hide
         #  'Kampen_et_al_06_09_2020
         #  'Perera_et_al_08_04_2020
 
-        # >>>
+        # >
           # Several studies describe the correlation between reduced infectiousness and an increase in neutralizing antibodies.
         # --
         #   'Kampen_et_al_06_09_2020
 
 
-        # >>>
+        # >
         # Based on the present findings, early discharge with ensuing home isolation could be chosen for patients who are beyond day 10 of symptoms with less than 100,000 viral RNA copies per ml of sputum. Both criteria predict that there is little residual risk of infectivity, based on cell culture.
         # --
         # 'Woelfel_et_al_2020b.!k
         # 'Kampen_et_al_06_09_2020
 
 
-        # >>>
+        # >
         #   Previous studies also showed that COVID-19 patients were susceptible to secondary infections due to complex immune dysfunction, and coinfection with bacteria could be seen in 30–50% severe or critically ill COVID-19 patients.
         # --
         #   'Kreitmann_et_al_07_13_2020
@@ -186,7 +186,7 @@ index: hide
 
         ###### DiagnosticClaims
 
-        # >>> Background
+        # > Background
         # Viral tests identify the virus in samples from your respiratory system, such as a swab from the inside of your nose.
         # Regardless of whether you test positive or negative, the results do not confirm whether you are able to spread the virus that causes COVID-19.
 
@@ -194,7 +194,7 @@ index: hide
 
 
         ##### Neutralising Antibody
-        # >>>
+        # >
           # RBD-specific antibodies have greater potency to neutralize infection with divergent virus strains, suggesting that the RBD of SARS-CoV-2 can also serve as an important target for the development of potent and specific nAbs.
         # --
           # 'Jiang_et_al_04_02_2020
@@ -209,21 +209,21 @@ index: hide
         ######### 11/17 #####
 
 
-         # >>> comparison of rapid antigen test
+         # > comparison of rapid antigen test
          # Studies have shown though that there is substantial variability between tests. The best-performing test (SD Biosensor, Inc. STANDARD Q) was 76∙6% sensitive and 99∙3% specific. The test was considered easy-to-use and suitable for point-of-care (POC) despite imperfect sensitivity.
          #  --
          #   'Krüger_et_al_10_04_2020
          #   'Corman_et_al_11_13_2020
 
 
-         # >>> NEW CLAIM FOR PCR
+         # > NEW CLAIM FOR PCR
           # Recent case studies have shown that single-nucleotide variations (SNVs) may impact the sensitivity of commonly used diagnostic primers in Rt-PCR.
           # --
           #   'Vanaerschot_et_al_08_26_2020
           #   'Chen_et_al_09_28_2020.!d
 
 
-         # >>> RELAPSE
+         # > RELAPSE
           # corticosteroids, which suggests a potential link with the relapse that requires further studies.
           # --
           #  'Elsayed_et_al_09_05_2020.!a
@@ -375,7 +375,7 @@ index: hide
  #
  # The sensitivity range of most AgPOCT overlaps with viral load figures typically observed during the first week of symptoms, which marks the infectious period in the majority patients.
  #       'Corman_et_al_11_13_2020
-  # >>>
+  # >
   #   The summary proportion of SARS-CoV-2 that is asymptomatic throughout the course of infection was estimated, across all study settings, to be 20% (95% CI 17%–25%, 79 studies), with a prediction interval of 3%–67%.
   #   --
   #     'Buitrago-Garcia_et_al_09_22_2020.!a
@@ -388,12 +388,12 @@ index: hide
   #     'Rothe_et_al_03_05_2020
   #     'Tong_et_al_03_09_2020
   #
-  #   >>>
+  #   >
   #     persons with asymptomatic infections appeared to be less effective in transmitting the virus.
   #     --
   #       'Zhang_et_al_05_26_2020.!b
   #
-  # >>>
+  # >
   #   The findings from systematic reviews, including ours, do not support the claim that a large majority of SARS-CoV-2 infections are asymptomatic . OR Our estimates of the proportion of asymptomatic cases and their risk of transmission suggest that asymptomatic spread is unlikely to be a major driver of clusters or community transmission of infection,
   #   paper: Occurrence and transmission potential of asymptomatic and presymptomatic SARS-CoV-2 infections: A living sy
   #   --
@@ -428,7 +428,7 @@ index: hide
 
  #  utility and performance for antigen testing
 
-  # >>>
+  # >
   #   an association between increased risk of death and a shorter incubation period was previously described in patients with severe acute respiratory syndrome. Previous experiences from SARS indicated that rapidly determining the incubation period enabled public-health officials to set proper quarantine periods and terminate the transmission without the aid of treatment
   #   A shorter incubation period was associated with longer times from symptom onset to discharge.
   #
@@ -439,7 +439,7 @@ index: hide
   #   'Virlogeux_et_al_09_2015
 
 
-  # >>>
+  # >
   #   The time from the illness onset to death is also comparable to SARS
 
 
@@ -484,7 +484,7 @@ index: hide
    #
    # And only antibody tests that measure the amount of these antibodies can predict immunity. block the spike protein from connecting to the ACE2 receptor are guaranteed to provide immunity.
 
-   # >>>
+   # >
    #    The LIPS assay demonstrates high sensitivity and a wider dynamic range for antibody detection compared with other published assays - 'Burbelo_et_al_05_19_2020
    #    --
    #      'Burbelo_et_al_05_19_2020
@@ -494,7 +494,7 @@ index: hide
    #      Virological assessment of hospitalized patients with COVID-2019.
    #      Development and clinical application of a rapid IgM-IgG combined antibody test for SARS-CoV-2 infection diagnosis.
    #
-   #    >>>
+   #    >
    #    https://www.painphysicianjournal.com/current/pdf?article=NzEwOA%3D%3D&journal=129
    #      Value and Validity of Coronavirus Antibody Testing
 

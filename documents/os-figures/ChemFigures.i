@@ -1,7 +1,7 @@
 
 index: hide
 space ChemFigures
-  >>>
+  >
     Hello, world of Figures!
 
   index: hide

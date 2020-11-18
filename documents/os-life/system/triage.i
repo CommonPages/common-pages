@@ -9,7 +9,7 @@ model SynovialJoint
 model EndocrineSystem
   # https://en.wikipedia.org/wiki/Endocrine_system
 
-  >>>
+  >
     In humans, the major endocrine glands are the thyroid gland and the adrenal glands. In vertebrates, the hypothalamus is the neural control center for all endocrine systems.
 
 / Hormones
@@ -19,7 +19,7 @@ model Hormone
   <<
     Gland
 
-  >>>
+  >
     Hormones are used to communicate between organs and tissues for physiological regulation and behavioral activities, such as digestion, metabolism, respiration, tissue function, sensory perception, sleep, excretion, lactation, stress, growth and development, movement, reproduction, and mood. Hormones affect distant cells by binding to specific receptor proteins in the target cell resulting in a change in cell function.
 
 /// Myelin is a lipid-rich (fatty) substance formed in the central nervous system (CNS) by glial cells called oligodendrocytes, and in the peripheral nervous system (PNS) by Schwann cells. Myelinb insulates nerve cell axons to increase the speed at which information (encoded as an electrical signal) travels.

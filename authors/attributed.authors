@@ -3,19 +3,3 @@ authors:
   example:
     fullname: Example Author
     avatar: "//static.theinsight.cloud/icons/pti.ico"
-
-  pti:
-    fullname: Peace Through Insight
-    avatar: "//static.theinsight.cloud/icons/pti.ico"
-
-  openstax:
-    fullname: OpenStax
-    avatar: "//static.theinsight.cloud/icons/openstax.png"
-
-  nci:
-    fullname: National Cancer Institute
-    avatar: "//static.theinsight.cloud/icons/nci.png"
-
-  nccn:
-    fullname: NCCN
-    avatar: "//static.theinsight.cloud/icons/nccn.ico"

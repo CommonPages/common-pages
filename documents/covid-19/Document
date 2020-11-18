@@ -1,0 +1,6 @@
+id: "$covid-19"
+name: "COVID-19"
+network: "claimspace.org"
+authorize:
+use:
+  - "$os-life"

@@ -1,7 +1,7 @@
 
 / June, 2020
 feed June2020
-  --
+  -
     'Taylor_et_al_06_20_2020
     'Ellinghaus_et_al_06_17_2020
     'Dorp_et_al_06_30_2020
@@ -59,7 +59,7 @@ feed June2020
   ref 'Omi_et_al_06_19_2020
     head = A certain number of patients with lower Ct values, existed in Japan when SARS-CoV-2 virus started to spread. The newly approved rapid antigen testing kit will be a useful tool to identify such populations rapidly.
 
-    >>> Abstract
+    > Abstract
       The exact pathology of COVID-19 remains mostly unclear, and accurate epidemiological understanding and rapid testing are crucial to overcome this disease. Several types of nucleic acid tests (NAT) have been used in Japan, but information about the viral RNA load, determined by Ct values, of the patients is limited due to the small number of patients tested in each clinical institution and lack of standardization of the testing kits. We have been performing the qRT-PCR tests established by NIID, and the mean Ct value distribution of 62 cases, which are deemed (first-visit) patients, among the total of 88 positive cases tested in a 4-day window of early April, was 24.9 with SD=5.45. Recently approved antigen testing kits were also used in the same samples (62 positives) along with 100 negative cases, and it revealed the positive predictive value of 80.6% and negative predictive value of 100%, with an overall agreement rate of 92.6%. These results indicate that a certain number of patients with lower Ct values, existed in Japan when SARS-CoV-2 virus started to spread. The newly approved rapid antigen testing kit will be a useful tool to identify such populations rapidly.
 
 
@@ -73,19 +73,19 @@ feed June2020
   ref 'Benitez_et_al_06_20_2020
     head = Surgeons perceived impediment for both visibility and communication, and other non-technical skills while using PPE on emergency surgery in COVID-19 patients. Their perceived lack of protection and comfort and increased fatigue may have inhibited their optimal surgical performance. More attention should be placed in the design of more user-friendly equipment, given the possibility of a second wave of the pandemic.
 
-    >>> Background
+    > Background
       The Severe Acute Respiratory Syndrome Coronavirus 2 pandemic has exposed surgeons to hazardous working conditions, imposing the need for personal protective equipment (PPE) use during surgery. The use of such equipment may affect their non-technical skills, augment fatigue, and affect performance. This study aimed to assess the surgeons’ perceptions of the impact of wearing PPE during emergency surgery throughout the pandemic.
 
-    >>> Methods
+    > Methods
       An international cooperation group conducted an anonymous online survey among surgeons from over 30 countries, to assess perceptions about the impact of PPE use on non-technical skills, overall comfort, decision making, and surgical performance during emergency surgery on COVID-19 patients.
 
-    >>> Results
+    > Results
       Responses to the survey (134) were received from surgeons based on 26 countries. The vast majority (72%) were males. More than half of the respondents (54%) felt that their surgical performance was hampered with PPE. Visual impairment was reported by 63%, whereas 54% had communication impediments. Less than half (48%) felt protected with the use of PPE, and the same proportion perceived that the use of such equipment influenced their decision making. Decreased overall comfort was cited by 66%, and 82% experienced increased surgical fatigue.
 
-    >>> Conclusions
+    > Conclusions
       Surgeons perceived impediment for both visibility and communication, and other non-technical skills while using PPE on emergency surgery in COVID-19 patients. Their perceived lack of protection and comfort and increased fatigue may have inhibited their optimal surgical performance. More attention should be placed in the design of more user-friendly equipment, given the possibility of a second wave of the pandemic.
 
-    -- quotes
+    - quotes
       !a
       !b
 
@@ -100,7 +100,7 @@ feed June2020
   ref 'Chandrashekar_et_al_06_22_2020
     head = Exercising with facemasks may reduce available Oxygen and increase air trapping preventing substantial carbon dioxide exchange. The hypercapnic hypoxia may potentially increase acidic environment, cardiac overload, anaerobic metabolism and renal overload, which may substantially aggravate the underlying pathology of established chronic diseases.
 
-    >>> Abstract
+    > Abstract
       Straying away from a sedentary lifestyle is essential, especially in these troubled times of a global pandemic to reverse the ill effects associated with the health risks as mentioned earlier. In the view of anticipated effects on immune system and prevention against influenza and Covid-19, globally moderate to vigorous exercises are advocated wearing protective equipment such as facemasks. Though WHO supports facemasks only for Covid-19 patients, healthy “social exercisers” too exercise strenuously with customized facemasks or N95 which hypothesized to pose more significant health risks and tax various physiological systems especially pulmonary, circulatory and immune systems. Exercising with facemasks may reduce available Oxygen and increase air trapping preventing substantial carbon dioxide exchange. The hypercapnic hypoxia may potentially increase acidic environment, cardiac overload, anaerobic metabolism and renal overload, which may substantially aggravate the underlying pathology of established chronic diseases. Further contrary to the earlier thought, no evidence exists to claim the facemasks during exercise offer additional protection from the droplet transfer of the virus. Hence, we recommend social distancing is better than facemasks during exercise and optimal utilization rather than exploitation of facemasks during exercise.
 
     / Exercising with facemasks is risky
@@ -112,10 +112,10 @@ feed June2020
   ref 'Carelli_et_al_06_17_2020
     head = The intermediate dimensioned droplets are proved to be changed into aerosol, losing their water content and becoming seriously contagious, but in their initial phase they could be easily caught by a simple surgical mask. The actual efficiency of FFP (filtering face piece) 3 masks has been examined and found to be lower than expected.
 
-    >>> Abstract
+    > Abstract
       In this paper, a physicist's approach is given to support the necessity to wear surgical masks during the COVID-19 pandemics; they have become compulsory in Eastern countries, while in Western countries they are still an optional. My thesis is supported and described on the basis of a physicist's model which studies the droplets behavior when emitted by the respiratory apparatus of an infected person, symptomatic or not. The intermediate dimensioned droplets are proved to be changed into aerosol, losing their water content and becoming seriously contagious, but in their initial phase they could be easily caught by a simple surgical mask. The actual efficiency of FFP3 masks has been examined and found to be lower than expected.
 
-    -- quotes
+    - quotes
       !a
 
     / Efficacy of medical masks
@@ -128,28 +128,28 @@ feed June2020
   ref 'Liu_et_al_06_10_2020
     head = All 420 study participants had direct contact with patients and performed at least one aerosol generating procedure. None of the participants reported Covid-19 related symptoms. Healthcare systems must give priority to the procurement and distribution of personal protective equipment, and provide adequate training to healthcare professionals in its use.
 
-    >>> Objective
+    > Objective
       To examine the protective effects of appropriate personal protective equipment for frontline healthcare professionals who provided care for patients with coronavirus disease 2019 (covid-19).
 
-    >>> Design
+    > Design
       Cross sectional study.
 
-    >>> Setting
+    > Setting
       Four hospitals in Wuhan, China.
 
-    >>> Participants
+    > Participants
       420 healthcare professionals (116 doctors and 304 nurses) who were deployed to Wuhan by two affiliated hospitals of Sun Yat-sen University and Nanfang Hospital of Southern Medical University for 6-8 weeks from 24 January to 7 April 2020. These study participants were provided with appropriate personal protective equipment to deliver healthcare to patients admitted to hospital with covid-19 and were involved in aerosol generating procedures. 77 healthcare professionals with no exposure history to covid-19 and 80 patients who had recovered from covid-19 were recruited to verify the accuracy of antibody testing.
 
-    >>> Main outcome measures
+    > Main outcome measures
       Covid-19 related symptoms (fever, cough, and dyspnoea) and evidence of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection, defined as a positive test for virus specific nucleic acids in nasopharyngeal swabs, or a positive test for IgM or IgG antibodies in the serum samples.
 
-    >>> Results
+    > Results
       The average age of study participants was 35.8 years and 68.1% (286/420) were women. These study participants worked 4-6 hour shifts for an average of 5.4 days a week; they worked an average of 16.2 hours each week in intensive care units. All 420 study participants had direct contact with patients with covid-19 and performed at least one aerosol generating procedure. During the deployment period in Wuhan, none of the study participants reported covid-19 related symptoms. When the participants returned home, they all tested negative for SARS-CoV-2 specific nucleic acids and IgM or IgG antibodies (95% confidence interval 0.0 to 0.7%).
 
-    >>> Conclusion
+    > Conclusion
       Before a safe and effective vaccine becomes available, healthcare professionals remain susceptible to covid-19. Despite being at high risk of exposure, study participants were appropriately protected and did not contract infection or develop protective immunity against SARS-CoV-2. Healthcare systems must give priority to the procurement and distribution of personal protective equipment, and provide adequate training to healthcare professionals in its use.
 
-    -- quotes
+    - quotes
       !a
 
     / Recommendation/Policy: HCW should be given priority in PPE
@@ -161,25 +161,25 @@ feed June2020
   ref 'Mikami_et_al_06_30_2020
     head = Older age, male sex, hypotension, tachypnea, hypoxia, impaired renal function, elevated D-dimer, and elevated troponin were associated with increased in-hospital mortality and hydroxychloroquine use was associated with decreased in-hospital mortality.
 
-    >>> Background
+    > Background
       New York City emerged as an epicenter of the coronavirus disease 2019 (COVID-19) pandemic.
 
-    >>> Objective
+    > Objective
       To describe the clinical characteristics and risk factors associated with mortality in a large patient population in the USA.
 
-    >>> Design
+    > Design
       Retrospective cohort study.
 
-    >>> Participants
+    > Participants
       6493 patients who had laboratory-confirmed COVID-19 with clinical outcomes between March 13 and April 17, 2020, who were seen in one of the 8 hospitals and/or over 400 ambulatory practices in the New York City metropolitan area
 
-    >>> Main Measures
+    > Main Measures
       Clinical characteristics and risk factors associated with in-hospital mortality.
 
-    >>> Key Results
+    > Key Results
       A total of 858 of 6493 (13.2%) patients in our total cohort died: 52/2785 (1.9%) ambulatory patients and 806/3708 (21.7%) hospitalized patients. Cox proportional hazard regression modeling showed an increased risk of in-hospital mortality associated with age older than 50 years (hazard ratio [HR] 2.34, CI 1.47–3.71), systolic blood pressure less than 90 mmHg (HR 1.38, CI 1.06–1.80), a respiratory rate greater than 24 per min (HR 1.43, CI 1.13–1.83), peripheral oxygen saturation less than 92% (HR 2.12, CI 1.56–2.88), estimated glomerular filtration rate less than 60 mL/min/1.73m2 (HR 1.80, CI 1.60–2.02), IL-6 greater than 100 pg/mL (HR 1.50, CI 1.12–2.03), D-dimer greater than 2 mcg/mL (HR 1.19, CI 1.02–1.39), and troponin greater than 0.03 ng/mL (HR 1.40, CI 1.23–1.62). Decreased risk of in-hospital mortality was associated with female sex (HR 0.84, CI 0.77–0.90), African American race (HR 0.78 CI 0.65–0.95), and hydroxychloroquine use (HR 0.53, CI 0.41–0.67).
 
-    >>> Conclusions
+    > Conclusions
       Among patients with COVID-19, older age, male sex, hypotension, tachypnea, hypoxia, impaired renal function, elevated D-dimer, and elevated troponin were associated with increased in-hospital mortality and hydroxychloroquine use was associated with decreased in-hospital mortality.
 
     / June, 2020 - J GEN INTERN MED
@@ -191,16 +191,16 @@ feed June2020
   ref 'Lagier_et_al_06_25_2020
     head = Early isolation and early treatment of COVID-19 patients, with at least 3 days of HCQ-AZ lead to a significantly better clinical outcome and a faster viral load reduction than other treatments.
 
-    >>> Background
+    > Background
       In our institute in Marseille, France, we initiated early and massive screening for coronavirus disease 2019 (COVID-19). Hospitalization and early treatment with hydroxychloroquine and azithromycin (HCQ-AZ) was proposed for the positive cases.
 
-    >>> Methods
+    > Methods
       We retrospectively report the clinical management of 3,737 screened patients, including 3,119 (83.5%) treated with HCQ-AZ (200 mg of oral HCQ, three times daily for ten days and 500 mg of oral AZ on day 1 followed by 250 mg daily for the next four days, respectively) for at least three days and 618 (16.5%) patients treated with other regimen (“others”). Outcomes were death, transfer to the intensive care unit (ICU), ≥10 days of hospitalization and viral shedding.
 
-    >>> Results
+    > Results
       The patients’ mean age was 45 (sd 17) years, 45% were male, and the case fatality rate was 0.9%. We performed 2,065 low-dose computed tomography (CT) scans highlighting lung lesions in 592 of the 991 (59.7%) patients with minimal clinical symptoms (NEWS score = 0). A discrepancy between spontaneous dyspnoea, hypoxemia and lung lesions was observed. Clinical factors (age, comorbidities, NEWS-2 score), biological factors (lymphocytopenia; eosinopenia; decrease in blood zinc; and increase in D-dimers, lactate dehydrogenase, creatinine phosphokinase, troponin and C-reactive protein) and moderate and severe lesions detected in low-dose CT scans were associated with poor clinical outcome. Treatment with HCQ-AZ was associated with a decreased risk of transfer to ICU or death (Hazard ratio (HR) 0.18 0.11–0.27), decreased risk of hospitalization ≥10 days (odds ratios 95% CI 0.38 0.27–0.54) and shorter duration of viral shedding (time to negative PCR: HR 1.29 1.17–1.42). QTc prolongation (>60 ms) was observed in 25 patients (0.67%) leading to the cessation of treatment in 12 cases including 3 cases with QTc> 500 ms. No cases of torsade de pointe or sudden death were observed.
 
-    >>> Conclusion
+    > Conclusion
       Although this is a retrospective analysis, results suggest that early diagnosis, early isolation and early treatment of COVID-19 patients, with at least 3 days of HCQ-AZ lead to a significantly better clinical outcome and a faster viral load reduction than other treatments.
 
 
@@ -213,10 +213,10 @@ feed June2020
   ref 'Döhla_et_al_06_02_2020
     head = The domestic environment predominantly does not seem to pose a high risk for transmission of SARS-CoV-2. Surfaces in the domestic environment did not show a high contamination rate, whereas the detection of viral RNA in wastewater of washbasins, showers and toilets showed a significantly higher contamination with SARS-CoV-2.
 
-    >>> Abstract
+    > Abstract
       The role of environmental transmission of SARS-CoV-2 remains unclear. Particularly the close contact of persons living together or cohabitating in domestic quarantine could result in high risk for exposure to the virus within the households. Therefore, the aim of this study was to investigate the whereabouts of the virus and whether useful precautions to prevent the dissemination can be given. 21 households under quarantine conditions were randomly selected for this study. All persons living in each household were recorded in terms of age, sex and time of household quarantine. Throat swabs for analysis were obtained from all adult individuals and most of the children. Air, wastewater samples and surface swabs (commodities) were obtained and analysed by RT-PCR. Positive swabs were cultivated to analyse for viral infectivity. 26 of all 43 tested adults (60.47 %) tested positive by RT-PCR. All 15 air samples were PCR-negative. 10 of 66 wastewater samples were positive for SARS-CoV-2 (15.15 %) as well as 4 of 119 object samples (3.36 %). No statistically significant correlation between PCR-positive environmental samples and the extent of infection spread inside the household could be observed. No infectious virus could be isolated under cell culture conditions. As we cannot rule out transmission through surfaces, hygienic behavioural measures are important in the households of SARS-CoV-2 infected individuals to avoid potential transmission through surfaces. The role of the domestic environment, in particular the wastewater load in washbasins and showers, in the transmission of SARS CoV-2 should be further clarified.
 
-    -- quotes
+    - quotes
       !a
 
     / June, 2020 - medRxiv
@@ -229,7 +229,7 @@ feed June2020
   ref 'Cai_et_al_06_26_2020
     head = Low intensity transmission occurred without prolonged close contact in this mall; that is, the virus spread by indirect transmission.
 
-    >>> Abstract
+    > Abstract
       To determine possible modes of virus transmission, we investigated a cluster of coronavirus disease cases associated with a shopping mall in Wenzhou, China. Data indicated that indirect transmission of the causative virus occurred, perhaps resulting from virus contamination of common objects, virus aerosolization in a confined space, or spread from asymptomatic infected persons.
 
 
@@ -242,16 +242,16 @@ feed June2020
   ref 'Alagoz_et_al_06_09_2020
     head = Timing of social distancing and adherence level had a major effect on COVID-19 occurrence. Implementing social distancing measures on March 5, 2020 instead of March 12, 2020 would have reduced the total number of confirmed cases from 191,984 to 43,968 as of May 30, whereas a 1-week delay in implementing such measures could have increased the number of confirmed cases to 1,299,420.
 
-    >>> Background
+    > Background
       Across the U.S., various social distancing measures were implemented to control COVID-19 pandemic. However, there is uncertainty in the effectiveness of such measures for specific regions with varying population demographics and different levels of adherence to social distancing. The objective of this paper is to determine the impact of social distancing measures in unique regions.
 
-    >>> Methods
+    > Methods
       We developed COVid-19 Agent-based simulation Model (COVAM), an agent-based simulation model (ABM) that represents the social network and interactions among the people in a region considering population demographics, limited testing availability, imported infections from outside of the region, asymptomatic disease transmission, and adherence to social distancing measures. We adopted COVAM to represent COVID-19-associated events in Dane County, Wisconsin, Milwaukee metropolitan area, and New York City (NYC). We used COVAM to evaluate the impact of three different aspects of social distancing: 1) Adherence to social distancing measures; 2) timing of implementing social distancing; and 3) timing of easing social distancing.
 
-    >>> Results
+    > Results
       We found that the timing of social distancing and adherence level had a major effect on COVID-19 occurrence. For example, in NYC, implementing social distancing measures on March 5, 2020 instead of March 12, 2020 would have reduced the total number of confirmed cases from 191,984 to 43,968 as of May 30, whereas a 1-week delay in implementing such measures could have increased the number of confirmed cases to 1,299,420. Easing social distancing measures on June 1, 2020 instead of June 15, 2020 in NYC would increase the total number of confirmed cases from 275,587 to 379,858 as of July 31.
 
-    >>> Conclusion
+    > Conclusion
       The timing of implementing social distancing measures, adherence to the measures, and timing of their easing have major effects on the number of COVID-19 cases.
 
 
@@ -264,10 +264,10 @@ feed June2020
   ref 'Pal_et_al_06_10_2020
     head = In this review, we will study the cellular and molecular aspects of hydroxychloroquine, which had driven its use in Covid-19 patients, as well as its chemistry and pharmacokinetics along with clinical trials going on worldwide using hydroxychloroquine against Covid-19.
 
-    >>> Abstract
+    > Abstract
       As the time for finding a definitive and safe cure as a vaccine for novel Corona Virus Disease 2019 (Covid-19) is still far, there is need to study in depth about the other potential drugs, which can save millions of lives due to Covid-19 pandemic. Right at the center of the debate is the use of drug “Hydroxychloroquine” as a prophylaxis as well as a treatment strategy against Covid-19 in conjunction with azithromycin. In this review, we will study the cellular and molecular aspects of hydroxychloroquine, which had driven its use in Covid-19 patients, as well as its chemistry and pharmacokinetics along with clinical trials going on worldwide using hydroxychloroquine against Covid-19.
 
-    -- quotes
+    - quotes
       !a
 
     / June, 2020 - Indian Journal of Clinical Biochemistry
@@ -280,22 +280,22 @@ feed June2020
   ref 'Wong_et_al_06_01_2020
     head =  Our findings suggest that SARS-CoV-2 is not spread by an airborne route, and nosocomial transmissions can be prevented through vigilant basic infection control measures, including wearing of surgical masks, hand and environmental hygiene.
 
-    >>> Background
+    > Background
       Coronavirus disease 2019 (COVID-19) was first reported in Wuhan in December 2019 and has rapidly spread across different cities within and outside China. Hong Kong started to prepare for COVID-19 on 31st December 2019 and infection control measures in public hospitals were tightened to limit nosocomial transmission within healthcare facilities. However, the recommendations on the transmission-based precautions required for COVID-19 in hospital settings vary from droplet and contact precautions, to contact and airborne precautions with placement of patients in airborne infection isolation rooms.
 
-    >>> Aim
+    > Aim
       To describe an outbreak investigation of a patient with COVID-19 who was nursed in an open cubicle of a general ward before the diagnosis was made.
 
-    >>> Method
+    > Method
       Contacts were identified and risk categorized as 'close' or 'casual' for decisions on quarantine and/or medical surveillance. Respiratory specimens were collected from contacts who developed fever, and/or respiratory symptoms during the surveillance period and were tested for SARS-CoV-2.
 
-    >>> Findings
+    > Findings
       A total of 71 staff and 49 patients were identified from contact tracing, seven staff and 10 patients fulfilled the criteria of 'close contact'. At the end of 28-day surveillance, 76 tests were performed on 52 contacts and all were negative, including all patient close contacts and six of the seven staff close contacts. The remaining contacts were asymptomatic throughout the surveillance period.
 
-    >>> Conclusion
+    > Conclusion
       Our findings suggest that SARS-CoV-2 is not spread by an airborne route, and nosocomial transmissions can be prevented through vigilant basic infection control measures, including wearing of surgical masks, hand and environmental hygiene.
 
-    -- quotes
+    - quotes
       !a
 
     / June, 2020 - The Journal of hospital Infection
@@ -308,10 +308,10 @@ feed June2020
   ref 'Cahill_et_al_06_11_2020
     head = SARS-CoV-2 virus has been detected in both faecal and wastewater samples across the globe. Further research is warranted to investigate both viability and infectivity of this novel virus in wastewater and in receiving water bodies.
 
-    >>> Abstract
+    > Abstract
       Coronavirus disease 2019 (COVID-19), the respiratory illness caused by the novel virus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which has lead to high morbidity and mortality rates worldwide, has been causing major public health concerns since first detected in late 2019. Following identification of novel pathogens, questions in relation to dissemination of the pathogen and transmission routes begin to emerge. This rapidly spreading SARS-CoV-2 virus has been detected in both faecal and wastewater samples across the globe, highlighting the potential for faecal-oral transmission of the virus. As a result, concerns regarding the transmission of the virus in the environment and the risk associated with contracting the virus in recreational waters, particularly where inadequately treated wastewater is discharged, have been emerging in recent weeks. This paper highlights the need for further research to be carried out to investigate the presence, infectivity and viability of this newly identified SARS-CoV-2 virus in wastewater effluent and receiving recreational waters.
 
-    -- quotes
+    - quotes
       !a
 
     / June, 2020 - Science of The Total Environment
@@ -323,19 +323,19 @@ feed June2020
   ref 'Shen_et_al_06_12_2020
     head = We report several transmission events to both close and casual contacts. Transmission efficiency among close contacts was higher than among casual contacts.
 
-    >>> Background
+    > Background
       Severe acute respiratory syndrome coronavirus 2, the pathogen causing novel coronavirus disease of 2019 (COVID-19), efficiently spreads from person to person in close contact settings. Transmission among casual contacts in settings such as during social gatherings is not well understood.
 
-    >>> Methods
+    > Methods
       We report several transmission events to both close and casual contacts from a cluster of 7 COVID-19 cases occurring from mid-January to early February 2020. A total of 539 social and family contacts of the index patient’s, including members of a 2-day wedding and a family party, were contacted and screened through epidemiologic surveys. The clinical progression of all cases is described.
 
-    >>> Results
+    > Results
       We estimate the secondary attack rate among close contacts to be 29% (2 of 7) and for the casual contacts to be 0.6% (3 of 473). The incubation period of our case cluster was 4–12 days (median, 7 days).
 
-    >>> Conclusions
+    > Conclusions
       Transmission efficiency among close contacts was higher than among casual contacts; however, transmission from second-generation cases may help spread the virus during the incubation period.
 
-    -- quotes
+    - quotes
       !a
 
     / June, 2020 - Open Forum Infectious Diseases
@@ -347,7 +347,7 @@ feed June2020
   ref 'Zhao_et_al_06_03_2020
     head = This study analysed the epidemic situations in various areas in the three provinces of Northeast China and the effects of various types of infection location on identified COVID-19 clusters.
 
-    >>> Abstract
+    > Abstract
       The world has been suffering from the COVID-19 pandemic since late 2019. In this study, we compared various types of infection locations in which COVID-19 cases clustered, based on the data from three adjacent provinces in Northeast China. The collected data include all officially reported cases in this area until 8 March 2020. We explored the associations between the cases and the frequency of infection locations. The COVID-19 epidemic situation was worse in Heilongjiang Province than in Liaoning and Jilin Provinces. Most clustered cases occurred in individual families and/or between relatives. The transmission in public venues served as a hub for transmitting the disease to other families and results in new clusters. The public transport spread the infection over long distances by transporting infected individuals, and most infections did not seem to occur within vehicles. This field study shows the effect of indoor environments on SARS-CoV-2 transmission and our data may be useful in developing guidance for future disease prevention and control.
 
     / June, 2020 - Int J Environ Res Public Health
@@ -359,16 +359,16 @@ feed June2020
   ref 'Chu_et_al_06_01_2020
     head = We investigate the optimum distance for avoiding person-to-person virus transmission and assess the use of face masks and eye protection Transmission was lower with physical distancing of 1 m or more, compared with less than 1 m.
 
-    >>> Background
+    > Background
       Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) causes COVID-19 and is spread person-to-person through close contact. We aimed to investigate the effects of physical distance, face masks, and eye protection on virus transmission in health-care and non-health-care (eg, community) settings.
-    >>> Methods
+    > Methods
       We did a systematic review and meta-analysis to investigate the optimum distance for avoiding person-to-person virus transmission and to assess the use of face masks and eye protection to prevent transmission of viruses. We obtained data for SARS-CoV-2 and the betacoronaviruses that cause severe acute respiratory syndrome, and Middle East respiratory syndrome from 21 standard WHO-specific and COVID-19-specific sources. We searched these data sources from database inception to May 3, 2020, with no restriction by language, for comparative studies and for contextual factors of acceptability, feasibility, resource use, and equity. We screened records, extracted data, and assessed risk of bias in duplicate. We did frequentist and Bayesian meta-analyses and random-effects meta-regressions. We rated the certainty of evidence according to Cochrane methods and the GRADE approach. This study is registered with PROSPERO, CRD42020177047.
-    >>> Findings
+    > Findings
       Our search identified 172 observational studies across 16 countries and six continents, with no randomised controlled trials and 44 relevant comparative studies in health-care and non-health-care settings (n=25 697 patients). Transmission of viruses was lower with physical distancing of 1 m or more, compared with a distance of less than 1 m (n=10 736, pooled adjusted odds ratio [aOR] 0·18, 95% CI 0·09 to 0·38; risk difference [RD] −10·2%, 95% CI −11·5 to −7·5; moderate certainty); protection was increased as distance was lengthened (change in relative risk [RR] 2·02 per m; pinteraction=0·041; moderate certainty). Face mask use could result in a large reduction in risk of infection (n=2647; aOR 0·15, 95% CI 0·07 to 0·34, RD −14·3%, −15·9 to −10·7; low certainty), with stronger associations with N95 or similar respirators compared with disposable surgical masks or similar (eg, reusable 12–16-layer cotton masks; pinteraction=0·090; posterior probability >95%, low certainty). Eye protection also was associated with less infection (n=3713; aOR 0·22, 95% CI 0·12 to 0·39, RD −10·6%, 95% CI −12·5 to −7·7; low certainty). Unadjusted studies and subgroup and sensitivity analyses showed similar findings.
-    >>> Interpretation
+    > Interpretation
       The findings of this systematic review and meta-analysis support physical distancing of 1 m or more and provide quantitative estimates for models and contact tracing to inform policy. Optimum use of face masks, respirators, and eye protection in public and health-care settings should be informed by these findings and contextual factors. Robust randomised trials are needed to better inform the evidence for these interventions, but this systematic appraisal of currently best available evidence might inform interim guidance.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -415,32 +415,32 @@ feed June2020
   ref 'Taylor_et_al_06_20_2020
     head = The variants we found in genes relating to immune response pathways and cytokine production cascades, were in equal proportions across all severe COVID-19 patients, regardless of their co-morbidities. We found many novel targets that are involved in key biological pathways associated with the development of severe COVID-19, including production of pro-inflammatory cytokines, endothelial cell dysfunction, lipid droplets, neurodegeneration and viral susceptibility factors.
 
-    >>> Background
+    > Background
       Epidemiological studies indicate that as many as 20% of individuals who test positive for COVID-19 develop severe symptoms that can require hospitalization. These symptoms include low platelet count, severe hypoxia, increased inflammatory cytokines and reduced glomerular filtration rate. Additionally, severe COVID-19 is associated with several chronic co-morbidities, including cardiovascular disease, hypertension and type 2 diabetes mellitus. The identification of genetic risk factors that impact differential host responses to SARS-CoV-2, resulting in the development of severe COVID-19, is important in gaining greater understanding into the biological mechanisms underpinning life-threatening responses to the virus. These insights could be used in the identification of high-risk individuals and for the development of treatment strategies for these patients.
 
-    >>> Methods
+    > Methods
       As of June 6, 2020, there were 976 patients who tested positive for COVID-19 and were hospitalized, indicating they had a severe response to SARS-CoV-2. There were however too few patients with a mild form of COVID-19 to use this cohort as our control population. Instead we used similar control criteria to our previous study looking at shared genetic risk factors between severe COVID-19 and sepsis, selecting controls who had not developed sepsis despite having maximum co-morbidity risk and exposure to sepsis-causing pathogens.
 
-    >>> Results
+    > Results
       Using a combinatorial (high-order epistasis) analysis approach, we identified 68 protein-coding genes that were highly associated with severe COVID-19. At the time of analysis, nine of these genes have been linked to differential response to SARS-CoV-2. We also found many novel targets that are involved in key biological pathways associated with the development of severe COVID-19, including production of pro-inflammatory cytokines, endothelial cell dysfunction, lipid droplets, neurodegeneration and viral susceptibility factors.
 
-    >>> Conclusion
+    > Conclusion
       The variants we found in genes relating to immune response pathways and cytokine production cascades, were in equal proportions across all severe COVID-19 patients, regardless of their co-morbidities. This suggests that such variants are not associated with any specific co-morbidity, but are common amongst patients who develop severe COVID-19. Among the 68 severe COVID-19 risk-associated genes, we found several druggable protein targets and pathways. Nine are targeted by drugs that have reached at least Phase I clinical trials, and a further eight have active chemical starting points for novel drug development. Several of these targets were particularly enriched in specific co-morbidities, providing insights into shared pathological mechanisms underlying both the development of severe COVID-19, ARDS and these predisposing co-morbidities. We can use these insights to identify patients who are at greatest risk of contracting severe COVID-19 and develop targeted therapeutic strategies for them, with the aim of improving disease burden and survival rates.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
       !h
-    -- CARDIOVASCULAR DYSFUNCTION
+    - CARDIOVASCULAR DYSFUNCTION
       !d
       !f
       !g
-    -- Cancer
+    - Cancer
       !i
-    -- ABO BLOOD-GROUP ASSOCIATION
+    - ABO BLOOD-GROUP ASSOCIATION
       !j
-    -- CALCIUM SIGNALLING PATHWAY
+    - CALCIUM SIGNALLING PATHWAY
       !e
       !k
 
@@ -513,16 +513,16 @@ feed June2020
   ref 'Ellinghaus_et_al_06_17_2020
     head = We identified a 3p21.31 gene cluster as a genetic susceptibility locus in patients with Covid-19 with respiratory failure and confirmed a potential involvement of the ABO blood-group system.
 
-    >>> Background
+    > Background
       There is considerable variation in disease behavior among patients infected with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus that causes coronavirus disease 2019 (Covid-19). Genomewide association analysis may allow for the identification of potential genetic factors involved in the development of Covid-19.
 
-    >>> Methods
+    > Methods
       We conducted a genomewide association study involving 1980 patients with Covid-19 and severe disease (defined as respiratory failure) at seven hospitals in the Italian and Spanish epicenters of the SARS-CoV-2 pandemic in Europe. After quality control and the exclusion of population outliers, 835 patients and 1255 control participants from Italy and 775 patients and 950 control participants from Spain were included in the final analysis. In total, we analyzed 8,582,968 single-nucleotide polymorphisms and conducted a meta-analysis of the two case–control panels.
 
-    >>> Results
+    > Results
       We detected cross-replicating associations with rs11385942 at locus 3p21.31 and with rs657152 at locus 9q34.2, which were significant at the genomewide level (P<5×10−8) in the meta-analysis of the two case–control panels (odds ratio, 1.77; 95% confidence interval [CI], 1.48 to 2.11; P=1.15×10−10; and odds ratio, 1.32; 95% CI, 1.20 to 1.47; P=4.95×10−8, respectively). At locus 3p21.31, the association signal spanned the genes SLC6A20, LZTFL1, CCR9, FYCO1, CXCR6 and XCR1. The association signal at locus 9q34.2 coincided with the ABO blood group locus; in this cohort, a blood-group–specific analysis showed a higher risk in blood group A than in other blood groups (odds ratio, 1.45; 95% CI, 1.20 to 1.75; P=1.48×10−4) and a protective effect in blood group O as compared with other blood groups (odds ratio, 0.65; 95% CI, 0.53 to 0.79; P=1.06×10−5).
 
-    >>> Conclusions
+    > Conclusions
       We identified a 3p21.31 gene cluster as a genetic susceptibility locus in patients with Covid-19 with respiratory failure and confirmed a potential involvement of the ABO blood-group system.
 
     # -- quotes
@@ -569,10 +569,10 @@ feed June2020
   ref 'Dorp_et_al_06_30_2020
     head = Recurrent SARS-CoV-2 mutations currently in circulation appear to be evolutionary neutral. Recurrent mutations also seem primarily induced by the human immune system via host RNA editing, rather than being signatures of adaption to the novel human host. We find no evidence at this stage for the emergence of more transmissible lineages of SARS-CoV-2 due to recurrent mutations.
 
-    >>> Abstract
+    > Abstract
       The COVID-19 pandemic is caused by the coronavirus SARS-CoV-2, which jumped into the human population in late 2019 from a currently uncharacterised reservoir. Due to this extremely recent association with humans, SARS-CoV-2 may not yet be fully adapted to its human host. This has led to speculations that some lineages of SARS-CoV-2 may be evolving towards higher transmissibility. The most plausible candidate mutations under putative natural selection are those which have emerged repeatedly and independently (homoplasies). Here, we formally test whether any of the recurrent mutations that have been observed in SARS-CoV-2 to date are significantly associated with increased viral transmission. To do so, we developed a phylogenetic index to quantify the relative number of descendants in sister clades with and without a specific allele. We apply this index to a carefully curated set of recurrent mutations identified within a dataset of over 23,000 SARS-CoV-2 genomes isolated from patients worldwide. We do not identify a single recurrent mutation in this set convincingly associated with increased viral transmission. Instead, recurrent SARS-CoV-2 mutations currently in circulation appear to be evolutionary neutral. Recurrent mutations also seem primarily induced by the human immune system via host RNA editing, rather than being signatures of adaption to the novel human host. We find no evidence at this stage for the emergence of more transmissible lineages of SARS-CoV-2 due to recurrent mutations.
 
-    -- quotes
+    - quotes
       !c
       !e
       !h
@@ -625,10 +625,10 @@ feed June2020
   ref 'Lemey_et_al_06_23_2020
     head = We demonstrate that including travel history data for each SARS-CoV-2 genome yields more realistic reconstructions of virus spread, particularly when travelers from undersampled locations are included to mitigate sampling bias.
 
-    >>> Abstract
+    > Abstract
       Spatiotemporal bias in genome sequence sampling can severely confound phylogeographic inference based on discrete trait ancestral reconstruction. This has impeded our ability to accurately track the emergence and spread of SARS-CoV-2, the virus responsible for the COVID-19 pandemic. Despite the availability of unprecedented numbers of SARS-CoV-2 genomes on a global scale, evolutionary reconstructions are hindered by the slow accumulation of sequence divergence over its relatively short transmission history. When confronted with these issues, incorporating additional contextual data may critically inform phylodynamic reconstructions. Here, we present a new approach to integrate individual travel history data in Bayesian phylogeographic inference and apply it to the early spread of SARS-CoV-2, while also including global air transportation data. We demonstrate that including travel history data for each SARS-CoV-2 genome yields more realistic reconstructions of virus spread, particularly when travelers from undersampled locations are included to mitigate sampling bias. We further explore methods to ameliorate the impact of sampling bias by augmenting the phylogeographic analysis with lineages from undersampled locations in the analyses. Our reconstructions reinforce specific transmission hypotheses suggested by the inclusion of travel history data, but also suggest alternative routes of virus migration that are plausible within the epidemiological context but are not apparent with current sampling efforts. Although further research is needed to fully examine the performance of our travel-aware phylogeographic analyses with unsampled diversity and to further improve them, they represent multiple new avenues for directly addressing the colossal issue of sample bias in phylogeographic inference.
 
-    -- quotes
+    - quotes
       !b
       !c
       !d
@@ -670,10 +670,10 @@ feed June2020
   ref 'Zhang_et_al_06_12_2020
     head = SG614 is more stable than SD614, consistent with epidemiological data suggesting that viruses with SG614 transmit more efficiently.
 
-    >>> Abstract
+    > Abstract
       SARS coronavirus 2 (SARS-CoV-2) isolates encoding a D614G mutation in the viral spike (S) protein predominate over time in locales where it is found, implying that this change enhances viral transmission. We therefore compared the functional properties of the S proteins with aspartic acid (SD614) and glycine (SG614) at residue 614. We observed that retroviruses pseudotyped with SG614 infected ACE2-expressing cells markedly more efficiently than those with SD614. This greater infectivity was correlated with less S1 shedding and greater incorporation of the S protein into the pseudovirion. Similar results were obtained using the virus-like particles produced with SARS-CoV-2 M, N, E, and S proteins. However, SG614 did not bind ACE2 more efficiently than SD614, and the pseudoviruses containing these S proteins were neutralized with comparable efficiencies by convalescent plasma. These results show SG614 is more stable than SD614, consistent with epidemiological data suggesting that viruses with SG614 transmit more efficiently.
 
-    -- quotes
+    - quotes
       !c
 
 
@@ -715,10 +715,10 @@ feed June2020
   ref 'Huong_et_al_06_17_2020
     head = Our study found high proportion of coronavirus positive animals and increasing proportion of positives were found along the rodent trade supply chain. Our analysis indicates either mixing of animal excreta in the environment or interspecies transmission of coronaviruses, as both bat and avian coronaviruses were detected in rodent feces in the trade. This, likely underpins the mechanisms of zoonotic spillover to people.
 
-    >>> Abstract
+    > Abstract
       Outbreaks of emerging coronaviruses in the past two decades and the current pandemic of a novel coronavirus (SARS-CoV-2) that emerged in China highlight the importance of this viral family as a zoonotic public health threat. To gain a better understanding of coronavirus presence and diversity in wildlife at wildlife-human interfaces in three southern provinces in Viet Nam 2013-2014, we used consensus Polymerase Chain Reactions to detect coronavirus sequences. In comparison to previous studies, we observed high proportions of positive samples among field rats (34.0%, 239/702) destined for human consumption and insectivorous bats in guano farms (74.8%, 234/313) adjacent to human dwellings. Most notably among field rats, the odds of coronavirus RNA detection significantly increased along the supply chain from field rats sold by traders (reference group; 20.7% positivity, 39/188) by a factor of 2.2 for field rats sold in large markets (32.0%, 116/363) and 10.0 for field rats sold and served in restaurants (55.6%, 84/151). Coronaviruses were detected in the majority of wildlife farms (60.7%, 17/28) and in the Malayan porcupines (6.0%, 20/331) and bamboo rats (6.3%, 6/96) that are farmed. We identified six known coronaviruses in bats and rodents, clustered in three Coronaviridae genera, including the Alpha-, Beta-, and Gammacoronaviruses. Our analysis also suggested either mixing of animal excreta in the environment or interspecies transmission of coronaviruses, as both bat and avian coronaviruses were detected in rodent feces in the trade. The mixing of multiple coronaviruses, and their apparent amplification along the wildlife supply chain into restaurants, suggests maximal risk for end consumers and likely underpins the mechanisms of zoonotic spillover to people.
 
-    -- quotes
+    - quotes
       !a
       !c
       !f
@@ -762,13 +762,13 @@ feed June2020
   ref 'Nelde_et_al_06_16_2020
     head = Intensity of T-cell responses and recognition rate of T-cell epitopes was significantly higher in the convalescent donors compared to unexposed individuals. Intensity of T-cell responses did not negatively affect COVID-19 severity. Diversity of SARS-CoV-2 T-cell responses was increased in case of mild symptoms, providing evidence that development of immunity requires recognition of multiple SARS-CoV-2 epitopes.
 
-    >>> Abstract
+    > Abstract
       The SARS-CoV-2 pandemic calls for the rapid development of diagnostic, preventive, and therapeutic approaches. CD4+ and CD8+ T cell-mediated immunity is central for control of and protection from viral infections. A prerequisite to characterize T-cell immunity, but also for the development of vaccines and immunotherapies, is the identification of the exact viral T-cell epitopes presented on human leukocyte antigens (HLA). This is the first work identifying and characterizing SARS-CoV-2-specific and cross-reactive HLA class I and HLA-DR T-cell epitopes in SARS-CoV-2 convalescents (n = 180) as well as unexposed individuals (n = 185) and confirming their relevance for immunity and COVID-19 disease course. SARS-CoV-2-specific T-cell epitopes enabled detection of post-infectious T-cell immunity, even in seronegative convalescents. Cross-reactive SARS-CoV-2 T-cell epitopes revealed preexisting T-cell responses in 81% of unexposed individuals, and validation of similarity to common cold human coronaviruses provided a functional basis for postulated heterologous immunity in SARS-CoV-2 infection. Intensity of T-cell responses and recognition rate of T-cell epitopes was significantly higher in the convalescent donors compared to unexposed individuals, suggesting that not only expansion, but also diversity spread of SARS-CoV-2 T-cell responses occur upon active infection. Whereas anti-SARS-CoV-2 antibody levels were associated with severity of symptoms in our SARS-CoV-2 donors, intensity of T-cell responses did not negatively affect COVID-19 severity. Rather, diversity of SARS-CoV-2 T-cell responses was increased in case of mild symptoms of COVID-19, providing evidence that development of immunity requires recognition of multiple SARS-CoV-2 epitopes.
 
-    -- quotes
+    - quotes
       !d
       !f
-    -- vaccine / therapeutic frontier
+    - vaccine / therapeutic frontier
       !e
 
     # / June, 2020 - Research Square
@@ -805,10 +805,10 @@ feed June2020
   ref 'Lee_et_al_06_19_2020
     head = The lack of any coronavirus detection in our ‘upstream’ market chain samples (cohort of animals yet to enter or just entering the illegal trade network) suggests that these detections in ‘downstream’ animals (cohorts confiscated at their destination in China) more plausibly reflect exposure to infected humans, wildlife or other animals within the wildlife trade network. While confirmatory serologic studies are needed, it is likely that Sunda pangolins are incidental rather than reservoir hosts of coronaviruses.
 
-    >>> Abstract
+    > Abstract
       The legal and illegal trade in wildlife for food, medicine and other products is a globally significant threat to biodiversity that is also responsible for the emergence of pathogens that threaten human and livestock health and our global economy. Trade in wildlife likely played a role in the origin of COVID-19, and viruses closely related to SARS-CoV-2 have been identified in bats and pangolins, both traded widely. To investigate the possible role of pangolins as a source of potential zoonoses, we collected throat and rectal swabs from 334 Sunda pangolins (Manis javanica) confiscated in Peninsular Malaysia and Sabah between August 2009 and March 2019. Total nucleic acid was extracted for viral molecular screening using conventional PCR protocols used to routinely identify known and novel viruses in extensive prior sampling (>50,000 mammals). No sample yielded a positive PCR result for any of the targeted viral families – Coronaviridae, Filoviridae, Flaviviridae, Orthomyxoviridae and Paramyxoviridae. In light of recent reports of coronaviruses including a SARS-CoV-2 related virus in Sunda pangolins in China, the lack of any coronavirus detection in our ‘upstream’ market chain samples suggests that these detections in ‘downstream’ animals more plausibly reflect exposure to infected humans, wildlife or other animals within the wildlife trade network. While confirmatory serologic studies are needed, it is likely that Sunda pangolins are incidental hosts of coronaviruses. Our findings further support the importance of ending the trade in wildlife globally.
 
-    -- quotes
+    - quotes
       !e
 
     # / June, 2020 - bioRxiv
@@ -842,19 +842,19 @@ feed June2020
   ref 'Liu_et_al_06_16_2020
     head = Very few healthcare providers had IgG antibodies to SARS-CoV-2, though a significant proportion of them had been infected with the virus. More than 10% of COVID-19 patients did not have those antibodies after 21 days post symptom onset. After SARS-CoV-2 infection, people are unlikely to produce long-lasting protective antibodies against this virus.
 
-    >>> Background
+    > Background
       It is to be determined whether people infected with SARS-CoV-2 will develop long-term immunity against SARS-CoV-2 and retain long-lasting protective antibodies after the infection is resolved. This study was to explore to explore the outcomes of IgG antibodies to SARS-CoV-2 in four groups of individuals in Wuhan, China.
 
-    >>> Methods
+    > Methods
       We included the following four groups of individuals who received both COVID-19 IgM/IgG tests and RT-PCR tests for SARS-CoV-2 from February 29, 2020 to April 29, 2020: 1470 hospitalized patients with COVID-19 from Leishenshan Hospital, Zhongnan Hospital of Wuhan University, and Wuhan No. 7 Hospital, 3832 healthcare providers without COVID-19 diagnosis, 19555 general workers, and 1616 other patients to be admitted to the hospital (N=26473). COVID-19 patients who received IgM/IgG tests <21 days after symptom onset were excluded.
 
-    >>> Results
+    > Results
       IgG prevalence was 89.8% (95% CI 88.2-91.3%) in COVID-19 patients, 4.0% (95% CI 3.4-4.7%) in healthcare providers, 4.6 (95% CI 4.3-4.9 %) in general workers, and 1.0% in other patients (p all <0.001 for comparisons with COVID-19 patients). IgG prevalence increased significantly by age among healthcare workers and general workers. Prevalence of IgM antibodies to SARS-CoV-2 was 31.4% in COVID-19 patients, 1.5% in healthcare providers, 1.3% in general workers, and 0.2% in other patients.
 
-    >>> Conclusions
+    > Conclusions
       Very few healthcare providers had IgG antibodies to SARS-CoV-2, though a significant proportion of them had been infected with the virus. After SARS-CoV-2 infection, people are unlikely to produce long-lasting protective antibodies against this virus.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -880,11 +880,11 @@ feed June2020
   ref 'Xin-Long_et_al_06_18_2020
     head = 40% of asymptomatic individuals became seronegative and 12.9% of the symptomatic group became negative for IgG in the early convalescent phase (within 8 weeks after the onset of symptoms). In addition, asymptomatic individuals exhibited lower levels of 18 pro- and anti-inflammatory cytokines. These data suggest that asymptomatic individuals had a weaker immune response to SARS-CoV-2 infection.
 
-    >>> Abstract
+    > Abstract
       The clinical features and immune responses of asymptomatic individuals infected with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) have not been well described. We studied 37 asymptomatic individuals in the Wanzhou District who were diagnosed with RT–PCR-confirmed SARS-CoV-2 infections but without any relevant clinical symptoms in the preceding 14 d and during hospitalization. Asymptomatic individuals were admitted to the government-designated Wanzhou People’s Hospital for centralized isolation in accordance with policy1. The median duration of viral shedding in the asymptomatic group was 19 d (interquartile range (IQR), 15–26 d). The asymptomatic group had a significantly longer duration of viral shedding than the symptomatic group (log-rank P = 0.028). The virus-specific IgG levels in the asymptomatic group (median S/CO, 3.4; IQR, 1.6–10.7) were significantly lower (P = 0.005) relative to the symptomatic group (median S/CO, 20.5; IQR, 5.8–38.2) in the acute phase. Of asymptomatic individuals, 93.3% (28/30) and 81.1% (30/37) had reduction in IgG and neutralizing antibody levels, respectively, during the early convalescent phase, as compared to 96.8% (30/31) and 62.2% (23/37) of symptomatic patients. Forty percent of asymptomatic individuals became seronegative and 12.9% of the symptomatic group became negative for IgG in the early convalescent phase. In addition, asymptomatic individuals exhibited lower levels of 18 pro- and anti-inflammatory cytokines. These data suggest that asymptomatic individuals had a weaker immune response to SARS-CoV-2 infection. The reduction in IgG and neutralizing antibody levels in the early convalescent phase might have implications for immunity strategy and serological surveys.
 
 
-    -- quotes
+    - quotes
       !c1
 
     # / June, 2020 - Nature Medicine
@@ -923,10 +923,10 @@ feed June2020
   ref 'Robbiani_et_al_06_18_2020
     head = The observation that plasma neutralizing activity is low in most convalescent individuals, but that recurrent anti-SARS-CoV-2 RBD antibodies with potent neutralizing activity can be found in individuals with unexceptional plasma neutralizing activity suggests that humans are intrinsically capable of generating anti-RBD antibodies that potently neutralize SARS-CoV-2.
 
-    >>> Abstract
+    > Abstract
       During the COVID-19 pandemic, SARS-CoV-2 infected millions of people and claimed hundreds of thousands of lives. Virus entry into cells depends on the receptor binding domain (RBD) of the SARS-CoV-2 spike protein (S). Although there is no vaccine, it is likely that antibodies will be essential for protection. However, little is known about the human antibody response to SARS-CoV-2. Here we report on 149 COVID-19 convalescent individuals. Plasmas collected an average of 39 days after the onset of symptoms had variable half-maximal pseudovirus neutralizing titres: less than 1:50 in 33% and below 1:1,000 in 79%, while only 1% showed titres above 1:5,000. Antibody sequencing revealed expanded clones of RBD-specific memory B cells expressing closely related antibodies in different individuals. Despite low plasma titres, antibodies to three distinct epitopes on RBD neutralized at half-maximal inhibitory concentrations (IC50 values) as low as single digit nanograms per millitre. Thus, most convalescent plasmas obtained from individuals who recover from COVID-19 do not contain high levels of neutralizing activity. Nevertheless, rare but recurring RBD-specific antibodies with potent antiviral activity were found in all individuals tested, suggesting that a vaccine designed to elicit such antibodies could be broadly effective.
 
-    -- quotes
+    - quotes
       !c
       !d
       !e
@@ -986,20 +986,20 @@ feed June2020
   ref 'Zhang_et_al_06_11_2020
     head = Our results show that the airborne transmission route, particularly via nascent aerosols from human atomization, is highly virulent and dominant for the spread of COVID-19. Our analysis reveals that the difference with and without mandated face covering represents the determinant in shaping the pandemic trends. This protective measure alone significantly reduced the number of infections. Other mitigation measures, such as social distancing implemented in the United States, are insufficient by themselves in protecting the public.
 
-    >>> Abstract
+    > Abstract
       Various mitigation measures have been implemented to fight the coronavirus disease 2019 (COVID-19) pandemic, including widely adopted social distancing and mandated face covering. However, assessing the effectiveness of those intervention practices hinges on the understanding of virus transmission, which remains uncertain. Here we show that airborne transmission is highly virulent and represents the dominant route to spread the disease. By analyzing the trend and mitigation measures in Wuhan, China, Italy, and New York City, from January 23 to May 9, 2020, we illustrate that the impacts of mitigation measures are discernable from the trends of the pandemic. Our analysis reveals that the difference with and without mandated face covering represents the determinant in shaping the pandemic trends in the three epicenters. This protective measure alone significantly reduced the number of infections, that is, by over 78,000 in Italy from April 6 to May 9 and over 66,000 in New York City from April 17 to May 9. Other mitigation measures, such as social distancing implemented in the United States, are insufficient by themselves in protecting the public. We conclude that wearing of face masks in public corresponds to the most effective means to prevent interhuman transmission, and this inexpensive practice, in conjunction with simultaneous social distancing, quarantine, and contact tracing, represents the most likely fighting opportunity to stop the COVID-19 pandemic. Our work also highlights the fact that sound science is essential in decision-making for the current and future public health pandemics.
 
-    -- Airborne Transmission
+    - Airborne Transmission
       !h
       !i
       !l
       !m
       !n
-    -- PM2.5 levels
+    - PM2.5 levels
       !j
-    -- humidity
+    - humidity
       !k
-    -- A Policy Perspective
+    - A Policy Perspective
       !p
       !r
 
@@ -1074,10 +1074,10 @@ feed June2020
   ref 'Flaxman_et_al_06_08_2020
     head = Given the observed infection fatality ratios and the epidemiology of COVID-19, major non-pharmaceutical interventions and lockdown in particular have had a large effect on reducing transmission. In all countries in this study we find that these interventions have reduced the reproduction number below one and have contained their epidemics at the current time. When looking at simplistic counterfactuals over the whole epidemic the number of potential deaths averted is substantial.
 
-    >>> Abstract
+    > Abstract
       Following the emergence of a novel coronavirus1 (SARS-CoV-2) and its spread outside of China, Europe has experienced large epidemics. In response, many European countries have implemented unprecedented non-pharmaceutical interventions such as closure of schools and national lockdowns. We study the impact of major interventions across 11 European countries for the period from the start of COVID-19 until the 4th of May 2020 when lockdowns started to be lifted. Our model calculates backwards from observed deaths to estimate transmission that occurred several weeks prior, allowing for the time lag between infection and death. We use partial pooling of information between countries with both individual and shared effects on the reproduction number. Pooling allows more information to be used, helps overcome data idiosyncrasies, and enables more timely estimates. Our model relies on fixed estimates of some epidemiological parameters such as the infection fatality rate, does not include importation or subnational variation and assumes that changes in the reproduction number are an immediate response to interventions rather than gradual changes in behavior. Amidst the ongoing pandemic, we rely on death data that is incomplete, with systematic biases in reporting, and subject to future consolidation. We estimate that, for all the countries we consider, current interventions have been sufficient to drive the reproduction number 𝑅𝑡 below 1 (probability 𝑅𝑡< 1.0 is 99.9%) and achieve epidemic control. We estimate that, across all 11 countries, between 12 and 15 million individuals have been infected with SARS-CoV-2 up to 4th May, representing between 3.2% and 4.0% of the population. Our results show that major non-pharmaceutical interventions and lockdown in particular have had a large effect on reducing transmission. Continued intervention should be considered to keep transmission of SARS-CoV-2 under control.
 
-    -- quotes
+    - quotes
       !a
       !k
       !l
@@ -1126,10 +1126,10 @@ feed June2020
   ref 'Takahashi_et_al_06_09_2020
     head = Male patients have higher levels of key innate immune cytokines and it is not associated with  worse disease progression, while in the female patients it is. Female COVID-19 patients induce more robust T cell response than male patients, which was sustained in old age. Poor T cell response negatively correlated with patients age and was predictive of worse disease outcome in male patients, but not in female patients.
 
-    >>> Abstract
+    > Abstract
       A growing body of evidence indicates sex differences in the clinical outcomes of coronavirus disease 2019 (COVID-19)1-4. However, whether immune responses against SARS-CoV-2 differ between sexes, and whether such differences explain male susceptibility to COVID-19, is currently unknown. In this study, we examined sex differences in viral loads, SARS-CoV-2-specific antibody titers, plasma cytokines, as well as blood cell phenotyping in COVID-19 patients. By focusing our analysis on patients with mild to moderate disease who had not received immunomodulatory medications, our results revealed that male patients had higher plasma levels of innate immune cytokines and chemokines including IL-8, IL-18, and CCL5, along with more robust induction of non-classical monocytes. In contrast, female patients mounted significantly more robust T cell activation than male patients during SARS-CoV-2 infection, which was sustained in old age. Importantly, we found that a poor T cell response negatively correlated with patients age and was predictive of worse disease outcome in male patients, but not in female patients. Conversely, higher innate immune cytokines in female patients associated with worse disease progression, but not in male patients. These findings reveal a possible explanation underlying observed sex biases in COVID-19, and provide important basis for the development of sex-based approach to the treatment and care of men and women with COVID-19.
 
-    -- Therapeutics frontiers
+    - Therapeutics frontiers
       !j
     #   !c
     #   !d
@@ -1182,7 +1182,7 @@ feed June2020
   ref 'Turakhia_et_al_06_09_2020
     head = Building on the SARS-CoV-2 Genome Browser, we present a toolkit to compare, analyze and combine SARS-CoV-2 phylogenies, find and remove potential sequencing errors and establish a widely shared, stable clade structure for a more accurate scientific inference and discourse.
 
-    >>> Abstract
+    > Abstract
       The SARS-CoV-2 pandemic has led to unprecedented, nearly real-time genetic tracing due to the rapid community sequencing response. Researchers immediately leveraged these data to infer the evolutionary relationships among viral samples and to study key biological questions, including whether host viral genome editing and recombination are features of SARS-CoV-2 evolution. This global sequencing effort is inherently decentralized and must rely on data collected by many labs using a wide variety of molecular and bioinformatic techniques. There is thus a strong possibility that systematic errors associated with lab-specific practices affect some sequences in the repositories. We find that some recurrent mutations in reported SARS-CoV-2 genome sequences have been observed predominantly or exclusively by single labs, co-localize with commonly used primer binding sites and are more likely to affect the protein coding sequences than other similarly recurrent mutations. We show that their inclusion can affect phylogenetic inference on scales relevant to local lineage tracing, and make it appear as though there has been an excess of recurrent mutation and/or recombination among viral lineages. We suggest how samples can be screened and problematic mutations removed. We also develop tools for comparing and visualizing differences among phylogenies and we show that consistent clade- and tree-based comparisons can be made between phylogenies produced by different groups. These will facilitate evolutionary inferences and comparisons among phylogenies produced for a wide array of purposes. Building on the SARS-CoV-2 Genome Browser at UCSC, we present a toolkit to compare, analyze and combine SARS-CoV-2 phylogenies, find and remove potential sequencing errors and establish a widely shared, stable clade structure for a more accurate scientific inference and discourse.
 
 
@@ -1196,7 +1196,7 @@ feed June2020
   ref 'Pybus_et_al_06_08_2020
     head = The intensive sequencing of SARS-CoV-2 genomes reveals a high frequency of virus importations that led to onward transmission within the UK. We have detected 1356 transmission lineages in the UK to date. Both the rate and source of virus importations fluctuate rapidly through time. We expect that similar trends in SARS-CoV-2 importation also occurred in other countries and regions that are highly connected by international travel, although these trends may be less apparent if fewer virus genomes are generated from those locations.
 
-    -- quotes
+    - quotes
       !a
       !b
       !d
@@ -1255,7 +1255,7 @@ feed June2020
   ref 'Baum_et_al_06_11_2020
     head = Novel spike mutants rapidly appeared following in vitro passaging in the presence of individual antibodies, resulting in loss of neutralization; such escape also occurred with combinations of antibodies binding diverse but overlapping regions of the spike protein. Importantly, escape mutants were not generated following treatment with a non-competing antibody cocktail.
 
-    >>> Abstract
+    > Abstract
       Antibodies targeting the spike protein of SARS-CoV-2 present a promising approach to combat the COVID19 pandemic; however, concerns remain that mutations can yield antibody resistance. We investigate the development of resistance against four antibodies to the spike protein that potently neutralize SARS-CoV-2, individually as well as when combined into cocktails. These antibodies remain effective against spike variants that have arisen in the human population. However, novel spike mutants rapidly appeared following in vitro passaging in the presence of individual antibodies, resulting in loss of neutralization; such escape also occurred with combinations of antibodies binding diverse but overlapping regions of the spike protein. Importantly, escape mutants were not generated following treatment with a non-competing antibody cocktail.
 
     # -- quotes
@@ -1271,10 +1271,10 @@ feed June2020
   ref 'Stutt_et_al_06_10_2020
     head = The mathematical models developed show that, under a wide range of plausible parameter conditions, facemask use by the public could significantly reduce the rate of COVID-19 spread, prevent further disease waves and allow less stringent lock-down regimes. The effect is greatest when 100% of the public wear facemasks.
 
-    >>> Abstract
+    > Abstract
       COVID-19 is characterized by an infectious pre-symptomatic period, when newly infected individuals can unwittingly infect others. We are interested in what benefits facemasks could offer as a non-pharmaceutical intervention, especially in the settings where high-technology interventions, such as contact tracing using mobile apps or rapid case detection via molecular tests, are not sustainable. Here, we report the results of two mathematical models and show that facemask use by the public could make a major contribution to reducing the impact of the COVID-19 pandemic. Our intention is to provide a simple modelling framework to examine the dynamics of COVID-19 epidemics when facemasks are worn by the public, with or without imposed ‘lock-down’ periods. Our results are illustrated for a number of plausible values for parameter ranges describing epidemiological processes and mechanistic properties of facemasks, in the absence of current measurements for these values. We show that, when facemasks are used by the public all the time (not just from when symptoms first appear), the effective reproduction number, Re, can be decreased below 1, leading to the mitigation of epidemic spread. Under certain conditions, when lock-down periods are implemented in combination with 100% facemask use, there is vastly less disease spread, secondary and tertiary waves are flattened and the epidemic is brought under control. The effect occurs even when it is assumed that facemasks are only 50% effective at capturing exhaled virus inoculum with an equal or lower efficiency on inhalation. Facemask use by the public has been suggested to be ineffective because wearers may touch their faces more often, thus increasing the probability of contracting COVID-19. For completeness, our models show that facemask adoption provides population-level benefits, even in circumstances where wearers are placed at increased risk. At the time of writing, facemask use by the public has not been recommended in many countries, but a recommendation for wearing face-coverings has just been announced for Scotland. Even if facemask use began after the start of the first lock-down period, our results show that benefits could still accrue by reducing the risk of the occurrence of further COVID-19 waves. We examine the effects of different rates of facemask adoption without lock-down periods and show that, even at lower levels of adoption, benefits accrue to the facemask wearers. These analyses may explain why some countries, where adoption of facemask use by the public is around 100%, have experienced significantly lower rates of COVID-19 spread and associated deaths. We conclude that facemask use by the public, when used in combination with physical distancing or periods of lock-down, may provide an acceptable way of managing the COVID-19 pandemic and re-opening economic activity. These results are relevant to the developed as well as the developing world, where large numbers of people are resource poor, but fabrication of home-made, effective facemasks is possible. A key message from our analyses to aid the widespread adoption of facemasks would be: ‘my mask protects you, your mask protects me’.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -1302,10 +1302,10 @@ feed June2020
   ref 'Ma_et_al_06_02_2020
     head = 35 COVID-19 subjects were recruited; Exhaled breath condensate (EBC), air samples and surface swabs were collected and analyzed for SARS-CoV-2 using RT-PCR. EBC samples had the highest positive rate, followed by surface swabs, and air samples. Airborne transmission of SARS-CoV-2 plays a major role in COVID-19 spread, especially during the early stages of the disease.
 
-    >>> Abstract
+    > Abstract
       Despite notable efforts in airborne SARS-CoV-2 detection, no clear evidence has emerged to show how SARS-CoV-2 is emitted into the environments. Here, 35 COVID-19 subjects were recruited; exhaled breath condensate (EBC), air samples and surface swabs were collected and analyzed for SARS-CoV-2 using reverse transcription-polymerase chain reaction (RT-PCR). EBC samples had the highest positive rate (16.7%, n=30), followed by surface swabs (5.4%, n=242), and air samples (3.8%, n=26). COVID-19 patients were shown to exhale SARS-CoV-2 into the air at an estimated rate of 103-105 RNA copies/min; while toilet and floor surfaces represented two important SARS-CoV-2 reservoirs. Our results imply that airborne transmission of SARS-CoV-2 plays a major role in COVID-19 spread, especially during the early stages of the disease.
 
-    -- quotes
+    - quotes
       !a
 
     / June, 2020 - medRxiv
@@ -1318,10 +1318,10 @@ feed June2020
   ref 'Horve_et_al_06_28_2020
     head = The presence of SARS-CoV-2 RNA was detected in approximately 25% of samples taken from nine different locations in multiple air handlers. The presence of viral RNA in air handlers raises the possibility that viral particles can enter and travel within the air handling system of a hospital.
 
-    >>> Abstract
+    > Abstract
       Available information on Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) transmission by small particle aerosols continues to evolve rapidly. To assess the potential role of heating, ventilation, and air conditioning (HVAC) systems in airborne viral transmission, this study sought to determine the viral presence, if any, on air handling units in a healthcare setting where Coronavirus Disease 2019 (COVID-19) patients were being treated. The presence of SARS-CoV-2 RNA was detected in approximately 25% of samples taken from nine different locations in multiple air handlers. While samples were not evaluated for viral infectivity, the presence of viral RNA in air handlers raises the possibility that viral particles can enter and travel within the air handling system of a hospital, from room return air through high efficiency MERV-15 filters and into supply air ducts. Although no known transmission events were determined to be associated with these specimens, the findings suggest the potential for HVAC systems to facilitate transmission by environmental contamination via shared air volumes with locations remote from areas where infected persons reside. More work is needed to further evaluate the risk of SARS-CoV-2 transmission via HVAC systems and to verify effectiveness of building operations mitigation strategies for the protection of building occupants. These results are important within and outside of healthcare settings and may present a matter of some urgency for building operators of facilities that are not equipped with high-efficiency filtration.
 
-    -- quotes
+    - quotes
       !a
 
     / June, 2020 - medRxiv
@@ -1334,10 +1334,10 @@ feed June2020
   ref 'Stadnytskyi_et_al_06_02_2020
     head = Our laser light scattering method not only provides real-time visual evidence for speech droplet emission, but also assesses their airborne lifetime. This direct visualization demonstrates how normal speech generates airborne droplets that can remain suspended for tens of minutes or longer and are eminently capable of transmitting disease in confined spaces.
 
-    >>> Abstract
+    > Abstract
       Speech droplets generated by asymptomatic carriers of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) are increasingly considered to be a likely mode of disease transmission. Highly sensitive laser light scattering observations have revealed that loud speech can emit thousands of oral fluid droplets per second. In a closed, stagnant air environment, they disappear from the window of view with time constants in the range of 8 to 14 min, which corresponds to droplet nuclei of ca. 4 μm diameter, or 12- to 21-μm droplets prior to dehydration. These observations confirm that there is a substantial probability that normal speaking causes airborne virus transmission in confined environments.
 
-    -- quotes
+    - quotes
       !a
 
     / June, 2020 - National Academy of Sciences
@@ -1349,9 +1349,9 @@ feed June2020
   ref 'Ou_et_al_06_04_2020
     head = This research studied the effect of various decontamination methods on the filtration performance of five selected commercial and alternative respirator/mask materials. Both UVGI for 5 min and dry heat at 77 °C for 30 min were found not to cause observable performance degradation after up to 10 cycles on commercial respirators/masks tested.
 
-    >>> Abstract
+    > Abstract
       This study aims to evaluate the filtration performance of three commercially available (3M 8210 respirator, Halyard 48207 surgical mask, and 3M 1820 procedure mask) and two alternative face mask and respirator materials (Halyard H600 sterilization wrap and Cummins EX101) after selected decontamination treatments, including isopropanol (IPA) treatments (soaking or spraying), ultraviolet germicidal irradiation (UVGI), and heat treatments (dry heat at 77 °C or steam heat). Both IPA soaking and spraying removed most electrostatic charges on all four electret materials (three commercial and one alternative), causing significant deterioration of filtration efficiency to unacceptable level. The other non-electret alternative material sustained its N95-grade performance after both IPA soaking and spraying treatments, demonstrating the possible application of IPA disinfection for non-electret alternative respirator/mask materials. UVGI preserved the filtration of all three commercially available respirator/mask materials after up to 10 treatments, suggesting it can be a possible decontamination method for hospital and clinic use without compromising respirator/mask performance. The considerations of the practical implementation of this method was discussed. Between the two heat treatment methods tested, dry heat showed better compatibility with electret material by sustaining both filtration efficiency and fit (tested on commercial respirator only), although adding moisture was reported in favor of virus inactivation. Heat treatment is easily accessible method for general publics to implement at home, while it is recommended to maintain the moisture level below saturation. Comparing to size-integrated method, the size-resolved fractional efficiency measurement technique, although more time consuming, proved to be a better method for evaluating respirator/mask filtration performance after decontaminations by providing more sensitive detection of performance degradation and the capability of distinguishing charge loss to other mechanisms causing efficiency deterioration. Detailed descriptions are provided in methodology part to emphasize the cares needed for an appropriate efficiency evaluation. The limited results in this study on worn masks made of alternative sterilization wrap indicated possible performance degradation of electret material caused by normal human wearing activities, suggesting the need of assessing respirator/mask decontamination strategy by testing practically worn-and-decontaminated/reused samples instead of unworn only-decontaminated counterparts.
-    -- quotes
+    - quotes
       !b
       !g
 
@@ -1383,10 +1383,10 @@ feed June2020
   ref 'Konda_et_al_06_18_2020
     head = We have carried out these studies for several common fabrics including cotton, silk, chiffon, flannel, various synthetics, and their combinations. Overall, we find that combinations of various commonly available fabrics used in cloth masks can potentially provide significant protection against the transmission of aerosol particles.
 
-    >>> Abstract
+    > Abstract
       The emergence of a pandemic affecting the respiratory system can result in a significant demand for face masks. This includes the use of cloth masks by large sections of the public, as can be seen during the current global spread of COVID-19. However, there is limited knowledge available on the performance of various commonly available fabrics used in cloth masks. Importantly, there is a need to evaluate filtration efficiencies as a function of aerosol particulate sizes in the 10 nm to 10 μm range, which is particularly relevant for respiratory virus transmission. We have carried out these studies for several common fabrics including cotton, silk, chiffon, flannel, various synthetics, and their combinations. Although the filtration efficiencies for various fabrics when a single layer was used ranged from 5 to 80% and 5 to 95% for particle sizes of <300 nm and >300 nm, respectively, the efficiencies improved when multiple layers were used and when using a specific combination of different fabrics. Filtration efficiencies of the hybrids (such as cotton-silk, cotton-chiffon, cotton-flannel) was >80% (for particles <300 nm) and >90% (for particles >300 nm). We speculate that the enhanced performance of the hybrids is likely due to the combined effect of mechanical and electrostatic-based filtration. Cotton, the most widely used material for cloth masks performs better at higher weave densities (i.e., thread count) and can make a significant difference in filtration efficiencies. Our studies also imply that gaps (as caused by an improper fit of the mask) can result in over a 60% decrease in the filtration efficiency, implying the need for future cloth mask design studies to take into account issues of "fit" and leakage, while allowing the exhaled air to vent efficiently. Overall, we find that combinations of various commonly available fabrics used in cloth masks can potentially provide significant protection against the transmission of aerosol particles.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -1428,7 +1428,7 @@ feed June2020
   ref 'Miller_et_al_06_18_2020
     head = 53 of the 61 members of the SVC contracted COVID-19 and two died. One person is the presumed index case. The secondary infection attack rate is in the range 53-87%. Inhalation of respiratory aerosol most likely dominated infection transmission during this event, as other modes of transmission are unlikely to account for the high secondary attack rate.
 
-    >>> Abstract
+    > Abstract
       During the 2020 COVID-19 pandemic, an outbreak occurred following attendance of a symptomatic index case at a regular weekly rehearsal on 10 March of the Skagit Valley Chorale (SVC). After that rehearsal, 53 members of the SVC among 61 in attendance were confirmed or strongly suspected to have contracted COVID-19 and two died. Transmission by the airborne route is likely. It is vital to identify features of cases such as this so as to better understand the factors that promote superspreading events. Based on a conditional assumption that transmission during this outbreak was by inhalation of respiratory aerosol, we use the available evidence to infer the emission rate of airborne infectious quanta from the primary source. We also explore how the risk of infection would vary with several influential factors: the rates of removal of respiratory aerosol by ventilation; deposition onto surfaces; and viral decay. The results indicate an emission rate of the order of a thousand quanta per hour (mean [interquartile range] for this event = 970 [680-1190] quanta per hour) and demonstrate that the risk of infection is modulated by ventilation conditions, occupant density, and duration of shared presence with an infectious individual.
 
     / June, 2020 - medRxiv
@@ -1442,10 +1442,10 @@ feed June2020
   ref 'Rockey_et_al_06_23_2020
     head = Supply shortages of N95 respirators during the coronavirus disease 2019 (COVID-19) pandemic have motivated institutions to develop feasible and effective N95 respirator reuse strategies. We systematically explored how temperature, humidity, and virus deposition solutions impact the inactivation of viruses deposited and dried on N95 respirator coupons.
 
-    >>> Abstract
+    > Abstract
       Supply shortages of N95 respirators during the coronavirus disease 2019 (COVID-19) pandemic have motivated institutions to develop feasible and effective N95 respirator reuse strategies. In particular, heat decontamination is a treatment method that scales well and can be implemented in settings with variable or limited resources. Prior studies using multiple inactivation methods, however, have often focused on a single virus under narrowly defined conditions, making it difficult to develop guiding principles for inactivating emerging or difficult-to-culture viruses. We systematically explored how temperature, humidity, and virus deposition solutions impact the inactivation of viruses deposited and dried on N95 respirator coupons. We exposed four virus surrogates across a range of structures and phylogenies, including two bacteriophages (MS2 and phi6), a mouse coronavirus (murine hepatitis virus, MHV), and a recombinant human influenza A virus subtype H3N2 (IAV), to heat treatment for 30 minutes in multiple deposition solutions across several temperatures and relative humidities (RH). We observed that elevated RH was essential for effective heat inactivation of all four viruses tested. For heat treatments between 72°C and 82°C, RH greater than 50% resulted in > 6-log10 inactivation of bacteriophages and RH greater than 25% resulted in > 3.5-log10 inactivation of MHV and IAV. Furthermore, deposition of viruses in host cell culture media greatly enhanced virus inactivation by heat and humidity compared to other deposition solutions such as phosphate buffered saline, phosphate buffered saline with bovine serum albumin, and human saliva. Past and future heat treatment methods or technologies must therefore explicitly account for deposition solutions as a factor that will strongly influence observed virus inactivation rates. Overall, our data set can inform the design and validation of effective heat-based decontamination strategies for N95 respirators and other porous surfaces, especially for emerging or low-titer viruses that may be of immediate public health concern such as SARS-CoV-2.
 
-    -- quotes
+    - quotes
       !a
       !b
 
@@ -1462,19 +1462,19 @@ feed June2020
   ref 'Cheng_et_al_06_08_2020
     head = SARS-CoV-2 RNA was not detectable by air samplers, which suggests that the airborne route is not the predominant mode of transmission of SARS-CoV-2. Wearing a surgical mask, appropriate hand hygiene, and thorough environmental disinfection are sufficient infection control measures for COVID-19 patients isolated singly in AIIRs. However, this conclusion may not apply during aerosol-generating procedures or in cohort wards with large numbers of COVID-19 patients.
 
-    >>> Background
+    > Background
       The role of severe respiratory coronavirus virus 2 (SARS-CoV-2)–laden aerosols in the transmission of coronavirus disease 2019 (COVID-19) remains uncertain. Discordant findings of SARS-CoV-2 RNA in air samples were noted in early reports.
 
-    >>> Methods
+    > Methods
       Sampling of air close to 6 asymptomatic and symptomatic COVID-19 patients with and without surgical masks was performed with sampling devices using sterile gelatin filters. Frequently touched environmental surfaces near 21 patients were swabbed before daily environmental disinfection. The correlation between the viral loads of patients’ clinical samples and environmental samples was analyzed.
 
-    >>> Results
+    > Results
       All air samples were negative for SARS-CoV-2 RNA in the 6 patients singly isolated inside airborne infection isolation rooms (AIIRs) with 12 air changes per hour. Of 377 environmental samples near 21 patients, 19 (5.0%) were positive by reverse-transcription polymerase chain reaction (RT-PCR) assay, with a median viral load of 9.2 × 102 copies/mL (range, 1.1 × 102 to 9.4 × 104 copies/mL). The contamination rate was highest on patients’ mobile phones (6 of 77, 7.8%), followed by bed rails (4 of 74, 5.4%) and toilet door handles (4 of 76, 5.3%). We detected a significant correlation between viral load ranges in clinical samples and positivity rate of environmental samples (P < .001).
 
-    >>> Conclusion
+    > Conclusion
       SARS-CoV-2 RNA was not detectable by air samplers, which suggests that the airborne route is not the predominant mode of transmission of SARS-CoV-2. Wearing a surgical mask, appropriate hand hygiene, and thorough environmental disinfection are sufficient infection control measures for COVID-19 patients isolated singly in AIIRs. However, this conclusion may not apply during aerosol-generating procedures or in cohort wards with large numbers of COVID-19 patients.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -1495,12 +1495,12 @@ feed June2020
   ref 'Allen_et_al_06_19_2020
     head = We present three lines of evidence supporting the potential for airborne transmission and recommend steps to mitigate the risk in indoor environments.
 
-    >>> Abstract
+    > Abstract
       Sharing indoor space has been confirmed as a major risk factor in transmission of SARS‐CoV‐2. A study of over 7000 cases found that all outbreaks involving three or more people occurred indoors.1 Thus, identifying the dominant modes of transmission is an urgent public health priority so that appropriate control strategies can be selected and deployed. Here, we present three lines of evidence supporting the potential for airborne transmission and recommend steps to mitigate the risk in indoor environments.
 
-    -- quotes
+    - quotes
       !a
-    -- Recommended Mitigation Measures
+    - Recommended Mitigation Measures
       !b
       !c
       !d
@@ -1551,7 +1551,7 @@ feed June2020
   ref 'Felgenhauer_et_al_06_25_2020
     head = SARS-CoV-2 generally exhibited a broader IFN sensitivity than SARS-CoV-1. Moreover, ruxolitinib, an inhibitor of IFN-triggered Janus kinase (JAK)/signal transducer and activator of transcription (STAT) signaling, boosted SARS-CoV-2 replication in the IFN-competent Calu-3 cells. We conclude that SARS-CoV-2 is sensitive to exogenously added IFNs. This finding suggests that type I and especially the less adverse effect–prone type III IFN are good candidates for the management of COVID-19.
 
-    >>> Abstract
+    > Abstract
       The recently emerged severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) is the causative agent of the devastating COVID-19 lung disease pandemic. Here, we tested the inhibitory activities of the antiviral interferons of type I (IFN-alpha) and type III (IFN-lambda) against SARS-CoV-2 and compared them with those against SARS-CoV-1, which emerged in 2003. Using two mammalian epithelial cell lines (human Calu-3 and simian Vero E6), we found that both IFNs dose-dependently inhibit SARS-CoV-2. In contrast, SARS-CoV-1 was restricted only by IFN-alpha in these cell lines. SARS-CoV-2 generally exhibited a broader IFN sensitivity than SARS-CoV-1. Moreover, ruxolitinib, an inhibitor of IFN-triggered Janus kinase (JAK)/signal transducer and activator of transcription (STAT) signaling, boosted SARS-CoV-2 replication in the IFN-competent Calu-3 cells. We conclude that SARS-CoV-2 is sensitive to exogenously added IFNs. This finding suggests that type I and especially the less adverse effect–prone type III IFN are good candidates for the management of COVID-19.
 
     # / June, 2020 - Jounral of Biological Chemistry
@@ -1564,10 +1564,10 @@ feed June2020
   ref 'Graham_et_al_06_20_2020
     head = In this study, we utilised both a small and a large animal model to evaluate the immunogenicity of either one or two doses of a COVID-19 vaccine candidate, ChAdOx1 nCoV-19 (now known as AZD1222).
 
-    >>> Abstract
+    > Abstract
       Clinical development of the COVID-19 vaccine candidate ChAdOx1 nCoV-19, a replication-deficient simian adenoviral vector expressing the full-length SARS-CoV-2 spike (S) protein was initiated in April 2020 following non-human primate studies using a single immunisation. Here, we compared the immunogenicity of one or two doses of ChAdOx1 nCoV-19 in both mice and pigs. Whilst a single dose induced antigen-specific antibody and T cells responses, a booster immunisation enhanced antibody responses, particularly in pigs, with a significant increase in SARS-CoV-2 neutralising titres.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -1596,10 +1596,10 @@ feed June2020
   ref 'Rousseau_et_al_06_20_2020
     head = Our intention is that these models be used by the bladder cancer research community to help establish a rational basis for therapeutic intervention, such as targeted depletion of specific immune cells or inhibition of immunosuppressive cytokines as alternative or combination treatments. Understanding how resident and recruited immune cell populations, such as macrophages, DCs, and T cells modulate response to therapy and identification of suppressive pathways will aid development of novel combination strategies to improve patient response.
 
-    >>> Abstract
+    > Abstract
       Bladder cancer is the fourth most common cancer for men. However, women are often diagnosed with later stage disease and have poorer outcomes. Whether immune-based sex differences contribute to this discrepancy is unclear. In addition, models to investigate tumor-specific immunity in bladder cancer, in the context of tumor development or response to therapy, are lacking. To address this specific unmet need, we incorporated a commonly used model antigen, ovalbumin, into two well-established models of bladder cancer; the orthotopic MB49 cell line model and the carcinogenic BBN bladder cancer model. We tested the utility of these models to investigate tumor-specific immunity in the context of immunotherapy in both sexes. We found that BCG vaccination, prior to weekly BCG instillation does not impart an immune-specific benefit to tumor-bearing mice in the context of multiple BCG instillations. Furthermore, tumors developed in the testes in male mice, precluding the use of the MB49 model to directly investigate sex-based immune differences. In the BBN model, we observed that more tumor antigen-specific CD8+ T cells infiltrated male bladders compared to female bladders in the context of BCG immunotherapy and that these cells had the highest levels of the exhaustion marker PD-1. We propose our modified BBN model will contribute to our understanding of how tumor-specific immunity arises in bladder cancer. Additionally, the BBN bladder cancer model may help to uncover sex differences in tumor-specific immunity, which would provide valuable information for the development of new treatments or combination therapies for bladder cancer in women and men.
 
-    -- quotes
+    - quotes
        !a
        !b
 
@@ -1616,16 +1616,16 @@ feed June2020
   ref 'Guaraldi_et_al_06_24_2020
     head = In the real-life setting of the TESEO cohort, we found a significant reduction in risk of invasive mechanical ventilation or death in patients with severe COVID-19 pneumonia who were treated with either intravenous or subcutaneous tocilizumab and standard of care, compared with those treated with standard of care only. The association with the use of tocilizumab was stronger when overall mortality risk was analysed alone.
 
-    >>> Background
+    > Background
       No therapy is approved for COVID-19 pneumonia. The aim of this study was to assess the role of tocilizumab in reducing the risk of invasive mechanical ventilation and death in patients with severe COVID-19 pneumonia who received standard of care treatment.
-    >>> Methods
+    > Methods
       This retrospective, observational cohort study included adults (≥18 years) with severe COVID-19 pneumonia who were admitted to tertiary care centres in Bologna and Reggio Emilia, Italy, between Feb 21 and March 24, 2020, and a tertiary care centre in Modena, Italy, between Feb 21 and April 30, 2020. All patients were treated with the standard of care (ie, supplemental oxygen, hydroxychloroquine, azithromycin, antiretrovirals, and low molecular weight heparin), and a non-randomly selected subset of patients also received tocilizumab. Tocilizumab was given either intravenously at 8 mg/kg bodyweight (up to a maximum of 800 mg) in two infusions, 12 h apart, or subcutaneously at 162 mg administered in two simultaneous doses, one in each thigh (ie, 324 mg in total), when the intravenous formulation was unavailable. The primary endpoint was a composite of invasive mechanical ventilation or death. Treatment groups were compared using Kaplan-Meier curves and Cox regression analysis after adjusting for sex, age, recruiting centre, duration of symptoms, and baseline Sequential Organ Failure Assessment (SOFA) score.
-    >>> Findings
+    > Findings
       Of 1351 patients admitted, 544 (40%) had severe COVID-19 pneumonia and were included in the study. 57 (16%) of 365 patients in the standard care group needed mechanical ventilation, compared with 33 (18%) of 179 patients treated with tocilizumab (p=0·41; 16 [18%] of 88 patients treated intravenously and 17 [19%] of 91 patients treated subcutaneously). 73 (20%) patients in the standard care group died, compared with 13 (7%; p<0·0001) patients treated with tocilizumab (six [7%] treated intravenously and seven [8%] treated subcutaneously). After adjustment for sex, age, recruiting centre, duration of symptoms, and SOFA score, tocilizumab treatment was associated with a reduced risk of invasive mechanical ventilation or death (adjusted hazard ratio 0·61, 95% CI 0·40–0·92; p=0·020). 24 (13%) of 179 patients treated with tocilizumab were diagnosed with new infections, versus 14 (4%) of 365 patients treated with standard of care alone (p<0·0001).
-    >>> Interpretation
+    > Interpretation
       Treatment with tocilizumab, whether administered intravenously or subcutaneously, might reduce the risk of invasive mechanical ventilation or death in patients with severe COVID-19 pneumonia.
 
-    -- quotes
+    - quotes
        !a
 
     / June, 2020 - The Lancet Rheumatol
@@ -1638,16 +1638,16 @@ feed June2020
   ref 'Salton_et_al_06_25_2020
     head = In our multicenter study, patients exposed to MP (methylprednisolone) encountered the primary composite endpoint of ICU referral, need for invasive MV or in-hospital all-cause death significantly less compared to the control group (adjusted HR 0.41). By day 28, MP treatment was associated with a significant reduction in mortality (adjusted HR 0.29) and an increase in MV-free days. Among patients transferred to the ICU, MP treated patients had a 7.5 days median reduction (p=0.03) in the duration of invasive MV.
 
-    >>> Background
+    > Background
       In hospitalized patients with COVID-19 pneumonia, progression to acute respiratory failure requiring invasive mechanical ventilation (MV) is associated with significant morbidity and mortality. Severe dysregulated systemic inflammation is the putative mechanism. We hypothesize that early prolonged methylprednisolone (MP) treatment could accelerate disease resolution, decreasing the need for ICU and mortality.
-    >>> Methods
+    > Methods
       We conducted a multicenter, observational study to explore the association between exposure to prolonged, low-dose, MP treatment and need for ICU referral, intubation or death within 28 days (composite primary endpoint) in patients with severe COVID-19 pneumonia admitted to Italian respiratory high-dependency units. Secondary outcomes were invasive MV-free days and changes in C-reactive protein (CRP) levels.
-    >>> Results
+    > Results
       Findings are reported as MP (n=83) vs. control (n=90). The composite primary endpoint was met by 19 vs. 40 [adjusted hazard ratio (HR) 0.41; 95% confidence interval (CI): 0.24-0.72]. Transfer to ICU and need for invasive MV was necessary in 15 vs. 27 (p=0.07) and 14 vs. 26 (p=0.10), respectively. By day 28, the MP group had fewer deaths (6 vs. 21, adjusted HR=0.29; 95% CI: 0.12-0.73) and more days off invasive MV (24.0 plus-or-minus sign 9.0 vs. 17.5 plus-or-minus sign 12.8; p=0.001). Study treatment was associated with rapid improvement in PaO2:FiO2 and CRP levels. The complication rate was similar for the two groups (p=0.84).
-    >>> Conclusion
+    > Conclusion
       In patients with severe COVID-19 pneumonia, early administration of prolonged MP treatment was associated with a significantly lower hazard of death (71%) and decreased ventilator dependence. Randomized controlled studies are needed to confirm these findings.
 
-    -- quotes
+    - quotes
        !a
        !b
        !c
@@ -1672,13 +1672,13 @@ feed June2020
   ref 'Corral_et_al_06_18_2020
     head = Interestingly, in this trial MP (methylprednisolone) administration was associated with a reduced risk of poor outcome, which was statistically significant after adjustment for confounding factors, such as age and baseline respiratory status (as assessed by SAFI). Our results are consistent with those of a recent quasi-experimental study that used similar endpoints and MP doses. The primary composite endpoint occurred in 54% patients in the SOC group and in 35% in the early glucocorticoids group. Those figures are remarkably similar to ours (48% vs 34%).
 
-    >>> Background
+    > Background
       We aimed to determine whether a 6-day course of intravenous methylprednisolone (MP) improves outcome in patients with SARS CoV-2 infection at risk of developing Acute Respiratory Distress Syndrome (ARDS).
-    >>> Methods
+    > Methods
       Multicentric, partially randomized, preference, open-label trial, including adults with COVID-19 pneumonia, impaired gas exchange and biochemical evidence of hyper-inflammation. Patients were assigned to standard of care (SOC), or SOC plus intravenous MP [40mg/12h 3 days, then 20mg/12h 3 days]. The primary endpoint was a composite of death, admission to the intensive care unit (ICU) or requirement of non-invasive ventilation (NIV).
-    >>> Results
+    > Results
       We analyzed 85 patients (34, randomized to MP; 22, assigned to MP by clinician preference; 29, control group). Patient age (mean 68±yr) was related to outcome. The use of MP was associated with a reduced risk of the composite endpoint in the intention-to-treat, age-stratified analysis (combined risk ratio -RR- 0.55 [95% CI 0.33-0.91]; p=0.024). In the per-protocol analysis, RR was 0.11 (0.01-0.83) in patients aged 72 yr or less, 0.61 (0.32-1.17) in those over 72 yr, and 0.37 (0.19-0.74, p=0.0037) in the whole group after age-adjustment by stratification. The decrease in C-reactive protein levels was more pronounced in the MP group (p=0.0003). Hyperglycemia was more frequent in the MP group.
-    >>> Conclusions
+    > Conclusions
       A short course of MP had a beneficial effect on the clinical outcome of severe COVID-19 pneumonia, decreasing the risk of the composite end point of admission to ICU, NIV or death.
 
     #  / June, 2020 - medRxiv
@@ -1692,15 +1692,15 @@ feed June2020
   ref 'Horby_et_al_06_22_2020
     head =  Dexamethasone 6mg per day for up to 10 days reduces 28-day mortality in COVID-19 patients receiving invasive mechanical ventilation by one third, and by one fifth in patients receiving oxygen without invasive mechanical ventilation. Similarly, benefit was clearer in patients treated more than 7 days after treatment onset, when inflammatory lung damage is likely to have been more common. However, no benefit was demonstrated in hospitalized COVID-19 patients who were not receiving respiratory support and the results are consistent with possible harm in this group.
 
-    >>> Background:
+    > Background:
       Coronavirus disease 2019 (COVID-19) is associated with diffuse lung damage. Corticosteroids may modulate immune-mediated lung injury and reducing progression to respiratory failure and death.
-    >>> Methods:
+    > Methods:
       The Randomised Evaluation of COVID-19 therapy (RECOVERY) trial is a randomized, controlled, open-label, adaptive, platform trial comparing a range of possible treatments with usual care in patients hospitalized with COVID-19. We report the preliminary results for the comparison of dexamethasone 6 mg given once daily for up to ten days vs. usual care alone. The primary outcome was 28-day mortality.
-    >>> Results:
+    > Results:
       2104 patients randomly allocated to receive dexamethasone were compared with 4321 patients concurrently allocated to usual care. Overall, 454 (21.6%) patients allocated dexamethasone and 1065 (24.6%) patients allocated usual care died within 28 days (age-adjusted rate ratio [RR] 0.83; 95% confidence interval [CI] 0.74 to 0.92; P<0.001). The proportional and absolute mortality rate reductions varied significantly depending on level of respiratory support at randomization (test for trend p<0.001): Dexamethasone reduced deaths by one-third in patients receiving invasive mechanical ventilation (29.0% vs. 40.7%, RR 0.65 [95% CI 0.51 to 0.82]; p<0.001), by one-fifth in patients receiving oxygen without invasive mechanical ventilation (21.5% vs. 25.0%, RR 0.80 [95% CI 0.70 to 0.92]; p=0.002), but did not reduce mortality in patients not receiving respiratory support at randomization (17.0% vs. 13.2%, RR 1.22 [95% CI 0.93 to 1.61]; p=0.14).
-    >>> Conclusions: In patients hospitalized with COVID-19, dexamethasone reduced 28-day mortality among those receiving invasive mechanical ventilation or oxygen at randomization, but not among patients not receiving respiratory support.
+    > Conclusions: In patients hospitalized with COVID-19, dexamethasone reduced 28-day mortality among those receiving invasive mechanical ventilation or oxygen at randomization, but not among patients not receiving respiratory support.
 
-    -- quotes
+    - quotes
        !a
        !b
 
@@ -1717,10 +1717,10 @@ feed June2020
   ref 'Hanson_et_al_06_16_2020
     head = We developed the first well-based proximity assay for measuring COVID19 ACE2-RBD interactions using AlphaLISA technology. The AlphaLISA approach has the advantages of high signal-to-background, robust assay performance (Z’ values), and is widely applicable to a variety of therapeutic types (small molecules, nanobodies, peptides, etc.).
 
-    >>> Abstract
+    > Abstract
       The COVID-19 pandemic, caused by SARS-CoV-2, is a pressing public health emergency garnering rapid response from scientists across the globe. Host cell invasion is initiated through direct binding of the viral spike protein to the host receptor angiotensin-converting enzyme 2 (ACE2). Disrupting the spike-ACE2 interaction is a potential therapeutic target for treating COVID-19. We have developed a proximity-based AlphaLISA assay to measure binding of SARS-CoV-2 spike protein Receptor Binding Domain (RBD) to ACE2. Utilizing this assay platform, a drug-repurposing screen against 3,384 small molecule drugs and pre-clinical compounds was performed, yielding 25 high-quality, small-molecule hits that can be evaluated in cell-based models. This established AlphaLISA RBD-ACE2 platform can facilitate evaluation of biologics or small molecules that can perturb this essential viral-host interaction to further the development of interventions to address the global health pandemic.
 
-    -- quotes
+    - quotes
        !a
        !b
 
@@ -1737,10 +1737,10 @@ feed June2020
   ref 'Ianevski_et_al_06_11_2020
     head = We tested 136 safe-in-man BSAAs against SARS-CoV-2 in cell cultures. We identified salinomycin, obatoclax, amodiaquine, nelfinavir, emetine and homoharringtonine as having anti-SARS-CoV-2 activity, which we put forward as potential anti-SARS-CoV-2 drug candidates.
 
-    >>> Abstract
+    > Abstract
       As of June 2020, the number of people infected with severe acute respiratory coronavirus 2 (SARS-CoV-2) continues to skyrocket, with more than 6.7 million cases worldwide. Both the World Health Organization (WHO) and United Nations (UN) has highlighted the need for better control of SARS-CoV-2 infections. However, developing novel virus-specific vaccines, monoclonal antibodies and antiviral drugs against SARS-CoV-2 can be time-consuming and costly. Convalescent sera and safe-in-man broad-spectrum antivirals (BSAAs) are readily available treatment options. Here, we developed a neutralization assay using SARS-CoV-2 strain and Vero-E6 cells. We identified the most potent sera from recovered patients for the treatment of SARS-CoV-2-infected patients. We also screened 136 safe-in-man broad-spectrum antivirals against the SARS-CoV-2 infection in Vero-E6 cells and identified nelfinavir, salinomycin, amodiaquine, obatoclax, emetine and homoharringtonine. We found that a combination of orally available virus-directed nelfinavir and host-directed amodiaquine exhibited the highest synergy. Finally, we developed a website to disseminate the knowledge on available and emerging treatments of COVID-19.
 
-    -- quotes
+    - quotes
        !a
 
     / June, 2020 - Antiviral Drug Combinations
@@ -1754,10 +1754,10 @@ feed June2020
   ref 'Meinhardt_et_al_06_04_2020
     head = SARS-CoV-2 enters the nervous system via trespassing the neuro-mucosal interface in the olfactory mucosa by exploiting the close vicinity of olfactory mucosal and nervous tissue including delicate olfactory and sensitive nerve endings. Subsequently, SARS-CoV-2 follows defined neuroanatomical structures, penetrating defined neuroanatomical areas, including the primary respiratory and cardiovascular control center in the medulla oblongata.
 
-    >>> Abstract
+    > Abstract
       The newly identified severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) causes COVID-19, a pandemic respiratory disease presenting with fever, cough, and often pneumonia. Moreover, thromboembolic events throughout the body including the central nervous system (CNS) have been described. Given first indication for viral RNA presence in the brain and cerebrospinal fluid and in light of neurological symptoms in a large majority of COVID-19 patients, SARS-CoV-2-penetrance of the CNS is likely. By precisely investigating and anatomically mapping oro- and pharyngeal regions and brains of 32 patients dying from COVID-19, we not only describe CNS infarction due to cerebral thromboembolism, but also demonstrate SARS-CoV-2 neurotropism. SARS-CoV-2 enters the nervous system via trespassing the neuro-mucosal interface in the olfactory mucosa by exploiting the close vicinity of olfactory mucosal and nervous tissue including delicate olfactory and sensitive nerve endings. Subsequently, SARS-CoV-2 follows defined neuroanatomical structures, penetrating defined neuroanatomical areas, including the primary respiratory and cardiovascular control center in the medulla oblongata.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -1806,10 +1806,10 @@ feed June2020
   ref 'Daly_et_al_06_05_2020
     head = SARS-CoV-2 S-protein binds to cell surface receptor NRP1 via the S1 CendR motif generated by the furin cleavage of S1/S2. The molecular basis for the effect is unclear, but neuropilins are known to mediate the internalisation of CendR ligands through an endocytic process resembling macropinocytosis, and additionally serve as activators of receptor tyrosine kinases to mediate cell signalling. S1 binding to NRP1 may therefore contribute to viral entry and survival within the host cell.
 
-    >>> Abstract
+    > Abstract
       SARS-CoV-2 is the causative agent of COVID-19, a coronavirus disease that has infected more than 6.6 million people and caused over 390,000 deaths worldwide. The Spike (S) protein of the virus forms projections on the virion surface responsible for host cell attachment and penetration. This viral glycoprotein is synthesized as a precursor in infected cells and, to be active, must be cleaved to two associated polypeptides: S1 and S2. For SARS-CoV-2 the cleavage is catalysed by furin, a host cell protease, which cleaves the S protein precursor at a specific sequence motif that generates a polybasic Arg-Arg-Ala-Arg (RRAR) C-terminal sequence on S1. This sequence motif conforms to the C-end rule (CendR), which means that the C-terminal sequence may allow the protein to associate with cell surface neuropilin-1 (NRP1) and neuropilin-2 (NRP2) receptors. Here we demonstrate using immunoprecipitation, site-specific mutagenesis, structural modelling, and antibody blockade that, in addition to engaging the known receptor ACE2, S1 can bind to NRP1 through the canonical CendR mechanism. This interaction enhances infection by SARS-CoV-2 in cell culture. NRP1 thus serves as a host factor for SARS-CoV-2 infection, and provides a therapeutic target for COVID-19.
 
-    -- quotes
+    - quotes
       !a
       !a1
       !b
@@ -1866,7 +1866,7 @@ feed June2020
   ref 'Woloshin_et_al_06_05_2020
     head = Diagnostic testing will help in safely opening the country, but only if the tests are highly sensitive and validated under realistic conditions against a clinically meaningful reference standard. Measuring test sensitivity in asymptomatic people is an urgent priority. While debate has focused on the accuracy of antibody tests, which identify prior infection, diagnostic testing, which identifies current infection, has received less attention. But inaccurate diagnostic tests undermine efforts at containment of the pandemic.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -1912,10 +1912,10 @@ feed June2020
   ref 'Zhou_et_al_06_08_2020
     head = Our study reaffirms that bats, particularly those of the genus Rhinolophus, are important natural reservoirs for coronaviruses and currently harbor the closest relatives of SARS-CoV-2. The RmYN02 virus identified here in Rhinolophus malayanus is the closest relative of SARSCoV-2 in the long 1ab replicase gene, although the virus itself has a complex history of recombination.
 
-    >>> Summary
+    > Summary
       The unprecedented pandemic of pneumonia caused by a novel coronavirus, SARS-CoV-2, in China and beyond has had major public health impacts on a global scale. Although bats are regarded as the most likely natural hosts for SARS-CoV-2, the origins of the virus remain unclear. Here, we report a novel bat-derived coronavirus, denoted RmYN02, identified from a metagenomic analysis of samples from 227 bats collected from Yunnan Province in China between May and October 2019. Notably, RmYN02 shares 93.3% nucleotide identity with SARS-CoV-2 at the scale of the complete virus genome and 97.2% identity in the 1ab gene, in which it is the closest relative of SARS-CoV-2 reported to date. In contrast, RmYN02 showed low sequence identity (61.3%) to SARS-CoV-2 in the receptor-binding domain (RBD) and might not bind to angiotensin-converting enzyme 2 (ACE2). Critically, and in a similar manner to SARS-CoV-2, RmYN02 was characterized by the insertion of multiple amino acids at the junction site of the S1 and S2 subunits of the spike (S) protein. This provides strong evidence that such insertion events can occur naturally in animal betacoronaviruses.
 
-    -- quotes
+    - quotes
       !a
     #   !b
     #   !c
@@ -1983,16 +1983,16 @@ feed June2020
   ref 'Wang-To_et_al_06_03_2020
     head = Our serological data suggest that SARS-CoV-2 is a new emerging virus. The seropositivity rate in Hubei returnees indicates that RT-PCR-confirmed patients only represent a small proportion of the total number of cases. The low seroprevalence suggests that most of the Hong Kong and Hubei population remain susceptible to COVID-19.
 
-    >>> Background
+    > Background
       The role of subclinical severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infections in perpetuating the COVID-19 pandemic is unknown because population seroprevalence data are absent. We aimed to establish the sensitivity and specificity of our enzyme immunoassay and microneutralisation assay, and the seroprevalence of SARS-CoV-2 in Hong Kong before and after the pandemic, as well as in Hong Kong residents evacuated from Hubei province, China.
 
-    >>> Methods
+    > Methods
       We did a multicohort study in a hospital and university in Hong Kong. We evaluated the sensitivity of our enzyme immunoassay and microneutralisation assay with RT-PCR data from patients positive for SARS-CoV-2 and the specificity of our enzyme immunoassay and microneutralisation assay with archived serum samples collected before 2019. We compared the seropositivity of the general population of Hong Kong before and after the pandemic had begun, and determined the seropositivity of Hong Kong residents evacuated from Hubei province, China, in March, 2020.
 
-    >>> Findings
+    > Findings
       Between Feb 26 and March 18, 2020, we assessed RT-PCR samples from 45 patients who had recovered from COVID-19 to establish the sensitivity of our enzyme immunoassay and microneutralisation assay. To establish the specificity of these assays, we retrieved archived serum. The sensitivity was 91·1% (41 of 45 [95% CI 78·8–97·5]) for the microneutralisation assay, 57·8% (26 of 45 [42·2–72·3]) for anti-nucleoprotein IgG, 66·7% (30 of 45 [51·1–80·0]) for anti-spike protein receptor binding domain (RBD) IgG, and 73·3% (33 of 45 [58·1–85·4]) for enzyme immunoassay (either positive for anti-nucleoprotein or anti-RBD IgG). The specificity was 100% (152 of 152 [95% CI 97·6–100·0]) for both the enzyme immunoassay and microneutralisation assay. Among the Hong Kong general population, 53 (2·7%) of 1938 were enzyme immunoassay positive, but of those who were positive, all 53 were microneutralisation negative, and no significant increase was seen in the seroprevalence between April 12, 2018, and Feb 13, 2020. Among asymptomatic Hubei returnees, 17 (4%) of 452 were seropositive with the enzyme immunoassay or the microneutralisation assay, with 15 (88%) of 17 seropositive with the microneutralisation assay, and two familial clusters were identified.
 
-    >>> Interpretation
+    > Interpretation
       Our serological data suggest that SARS-CoV-2 is a new emerging virus. The seropositivity rate in Hubei returnees indicates that RT-PCR-confirmed patients only represent a small proportion of the total number of cases. The low seroprevalence suggests that most of the Hong Kong and Hubei population remain susceptible to COVID-19. Future waves of the outbreak are inevitable without a vaccine or antiviral prophylaxis. The role of age-related cross reactive non-neutralising antibodies in the pathogenesis of COVID-19 warrants further investigation.
 
 
@@ -2033,7 +2033,7 @@ feed June2020
   ref 'Reyna_et_al_06_02_2020
     head = Deaths from COVID-19 depend on millions of people understanding risk and translating this understanding into risk-reduction behaviors. Although numerical information about risk is helpful, numbers are surprisingly ambiguous, and there are predictable mismatches in risk perception between laypeople and experts. Hence, risk communication should convey the qualitative, contextualized meaning of risk.
 
-    >>> Abstract
+    > Abstract
       Deaths from COVID-19 depend on millions of people understanding risk and translating this understanding into risk-reduction behaviors. Although numerical information about risk is helpful, numbers are surprisingly ambiguous, and there are predictable mismatches in risk perception between laypeople and experts. Hence, risk communication should convey the qualitative, contextualized meaning of risk.
 
 
@@ -2047,7 +2047,7 @@ feed June2020
   ref 'Weissleder_et_al_06_03_2020
     head = The coronavirus disease 2019 (COVID-19) pandemic has highlighted the need for different types of diagnostics, comparative validation of new tests, faster approval by federal agencies, and rapid production of test kits to meet global demands. In this perspective, we discuss the utility and challenges of current diagnostics for COVID-19.
 
-    >>> Abstract
+    > Abstract
       The coronavirus disease 2019 (COVID-19) pandemic has highlighted the need for different types of diagnostics, comparative validation of new tests, faster approval by federal agencies, and rapid production of test kits to meet global demands. In this Perspective, we discuss the utility and challenges of current diagnostics for COVID-19.
 
     # -- quotes
@@ -2152,19 +2152,19 @@ feed June2020
     head = Moderate interventions lasting for 12 weeks, such as school closures, self-isolation of symptomatic individuals, or shielding of older people, would probably not have been sufficient to control the epidemic and to avoid far exceeding available ICU capacity, even when these measures were used in combination. In particular, school closures had little effect in our projections, despite our model accounting for substantial asymptomatic transmission among children.
 
 
-    >>> Background
+    > Background
       Non-pharmaceutical interventions have been implemented to reduce transmission of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in the UK. Projecting the size of an unmitigated epidemic and the potential effect of different control measures has been crucial to support evidence-based policy making during the early stages of the epidemic. This study assesses the potential impact of different control measures for mitigating the burden of COVID-19 in the UK.
 
-    >>> Methods
+    > Methods
       We used a stochastic age-structured transmission model to explore a range of intervention scenarios, tracking 66·4 million people aggregated to 186 county-level administrative units in England, Wales, Scotland, and Northern Ireland. The four base interventions modelled were school closures, physical distancing, shielding of people aged 70 years or older, and self-isolation of symptomatic cases. We also modelled the combination of these interventions, as well as a programme of intensive interventions with phased lockdown-type restrictions that substantially limited contacts outside of the home for repeated periods. We simulated different triggers for the introduction of interventions, and estimated the impact of varying adherence to interventions across counties. For each scenario, we projected estimated new cases over time, patients requiring inpatient and critical care (ie, admission to the intensive care units [ICU]) treatment, and deaths, and compared the effect of each intervention on the basic reproduction number, R0.
 
-    >>> Findings
+    > Findings
       We projected a median unmitigated burden of 23 million (95% prediction interval 13–30) clinical cases and 350 000 deaths (170 000–480 000) due to COVID-19 in the UK by December, 2021. We found that the four base interventions were each likely to decrease R0, but not sufficiently to prevent ICU demand from exceeding health service capacity. The combined intervention was more effective at reducing R0, but only lockdown periods were sufficient to bring R0 near or below 1; the most stringent lockdown scenario resulted in a projected 120 000 cases (46 000–700 000) and 50 000 deaths (9300–160 000). Intensive interventions with lockdown periods would need to be in place for a large proportion of the coming year to prevent health-care demand exceeding availability.
 
-    >>> Interpretation
+    > Interpretation
       The characteristics of SARS-CoV-2 mean that extreme measures are probably required to bring the epidemic under control and to prevent very large numbers of deaths and an excess of demand on hospital beds, especially those in ICUs.
 
-    -- quotes
+    - quotes
       !a
       !d
       !e
@@ -2238,10 +2238,10 @@ feed June2020
   ref 'Lv_et_al_06_02_2020
     head = Our results show that, although cross-reactivity in antibody binding to the spike protein is common, cross-neutralization of the live viruses may be rare, indicating the presence of a non-neutralizing antibody response to conserved epitopes in the spike.
 
-    >>> Summary
+    > Summary
       The World Health Organization has declared the ongoing outbreak of COVID-19, which is caused by a novel coronavirus SARS-CoV-2, a pandemic. There is currently a lack of knowledge about the antibody response elicited from SARS-CoV-2 infection. One major immunological question concerns antigenic differences between SARS-CoV-2 and SARS-CoV. We address this question by analyzing plasma from patients infected by SARS-CoV-2 or SARS-CoV and from infected or immunized mice. Our results show that, although cross-reactivity in antibody binding to the spike protein is common, cross-neutralization of the live viruses may be rare, indicating the presence of a non-neutralizing antibody response to conserved epitopes in the spike. Whether such low or non-neutralizing antibody response leads to antibody-dependent disease enhancement needs to be addressed in the future. Overall, this study not only addresses a fundamental question regarding antigenicity differences between SARS-CoV-2 and SARS-CoV but also has implications for immunogen design and vaccine development.
 
-    -- quotes
+    - quotes
       !a
       !f
 
@@ -2280,16 +2280,16 @@ feed June2020
   # ref 'Chu_et_al_06_01_2020
   #   head = Physical distancing of at least 1 m is strongly associated with protection, but distances of up to 2 m might be more effective. The optimum use of face masks- N95 or similar respirators in health-care settings and 12–16-layer cotton or surgical masks in the community, could depend on contextual factors. Eye protection might provide additional benefits.
   #
-  #   >>> Background
+  #   > Background
   #     Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) causes COVID-19 and is spread person-to-person through close contact. We aimed to investigate the effects of physical distance, face masks, and eye protection on virus transmission in health-care and non-health-care (eg, community) settings.
   #
-  #   >>> Methods
+  #   > Methods
   #     We did a systematic review and meta-analysis to investigate the optimum distance for avoiding person-to-person virus transmission and to assess the use of face masks and eye protection to prevent transmission of viruses. We obtained data for SARS-CoV-2 and the betacoronaviruses that cause severe acute respiratory syndrome, and Middle East respiratory syndrome from 21 standard WHO-specific and COVID-19-specific sources. We searched these data sources from database inception to May 3, 2020, with no restriction by language, for comparative studies and for contextual factors of acceptability, feasibility, resource use, and equity. We screened records, extracted data, and assessed risk of bias in duplicate. We did frequentist and Bayesian meta-analyses and random-effects meta-regressions. We rated the certainty of evidence according to Cochrane methods and the GRADE approach. This study is registered with PROSPERO, CRD42020177047.
   #
-  #   >>> Findings
+  #   > Findings
   #     Our search identified 172 observational studies across 16 countries and six continents, with no randomised controlled trials and 44 relevant comparative studies in health-care and non-health-care settings (n=25 697 patients). Transmission of viruses was lower with physical distancing of 1 m or more, compared with a distance of less than 1 m (n=10 736, pooled adjusted odds ratio [aOR] 0·18, 95% CI 0·09 to 0·38; risk difference [RD] −10·2%, 95% CI −11·5 to −7·5; moderate certainty); protection was increased as distance was lengthened (change in relative risk [RR] 2·02 per m; pinteraction=0·041; moderate certainty). Face mask use could result in a large reduction in risk of infection (n=2647; aOR 0·15, 95% CI 0·07 to 0·34, RD −14·3%, −15·9 to −10·7; low certainty), with stronger associations with N95 or similar respirators compared with disposable surgical masks or similar (eg, reusable 12–16-layer cotton masks; pinteraction=0·090; posterior probability >95%, low certainty). Eye protection also was associated with less infection (n=3713; aOR 0·22, 95% CI 0·12 to 0·39, RD −10·6%, 95% CI −12·5 to −7·7; low certainty). Unadjusted studies and subgroup and sensitivity analyses showed similar findings.
   #
-  #   >>> Interpretations
+  #   > Interpretations
   #     The findings of this systematic review and meta-analysis support physical distancing of 1 m or more and provide quantitative estimates for models and contact tracing to inform policy. Optimum use of face masks, respirators, and eye protection in public and health-care settings should be informed by these findings and contextual factors. Robust randomised trials are needed to better inform the evidence for these interventions, but this systematic appraisal of currently best available evidence might inform interim guidance.
   #
   #
@@ -2314,19 +2314,19 @@ feed June2020
   ref 'Ellinghaus_et_al_06_02_2020
     head = We herein report the first robust genetic susceptibility loci for the development of respiratory failure in Covid-19. We detected cross-replicating associations with rs11385942 at chromosome 3p21.31 and rs657152 at 9q34, which were genome-wide significant in the meta-analysis of both study panels. Identified variants may help guide targeted exploration of severe Covid-19 pathophysiology.
 
-    >>> Background
+    > Background
       Respiratory failure is a key feature of severe Covid-19 and a critical driver of mortality, but for reasons poorly defined affects less than 10% of SARS-CoV-2 infected patients.
 
-    >>> Methods
+    > Methods
       We included 1,980 patients with Covid-19 respiratory failure at seven centers in the Italian and Spanish epicenters of the SARS-CoV-2 pandemic in Europe (Milan, Monza, Madrid, San Sebastian and Barcelona) for a genome-wide association analysis. After quality control and exclusion of population outliers, 835 patients and 1,255 population-derived controls from Italy, and 775 patients and 950 controls from Spain were included in the final analysis. In total we analyzed 8,582,968 single-nucleotide polymorphisms (SNPs) and conducted a meta-analysis of both case-control panels.
 
-    >>> Results
+    > Results
       We detected cross-replicating associations with rs11385942 at chromosome 3p21.31 and rs657152 at 9q34, which were genome-wide significant (P<5x10-8) in the meta-analysis of both study panels, odds ratio [OR], 1.77; 95% confidence interval [CI], 1.48 to 2.11; P=1.14x10-10 and OR 1.32 (95% CI, 1.20 to 1.47; P=4.95x10-8), respectively. Among six genes at 3p21.31, SLC6A20 encodes a known interaction partner with angiotensin converting enzyme 2 (ACE2). The association signal at 9q34 was located at the ABO blood group locus and a blood-group-specific analysis showed higher risk for A-positive individuals (OR=1.45, 95% CI, 1.20 to 1.75, P=1.48x10-4) and a protective effect for blood group O (OR=0.65, 95% CI, 0.53 to 0.79, P=1.06x10-5).
 
-    >>> Conclusions
+    > Conclusions
       We herein report the first robust genetic susceptibility loci for the development of respiratory failure in Covid-19. Identified variants may help guide targeted exploration of severe Covid-19 pathophysiology.
 
-    -- quotes
+    - quotes
       !a
 
     # / June, 2020 - medRxiv

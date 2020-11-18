@@ -5,10 +5,10 @@
   model Secretion
     # https://en.wikipedia.org/wiki/Secretion
 
-    >>>
+    >
        Many human cell types have the ability to be secretory cells. They have a well-developed {EndoplasmicReticulum endoplasmic reticulum} and {GolgiApparatus Golgi apparatus} to fulfill their function. Tissues in humans that produce secretions include the gastrointestinal tract which secretes digestive {Enzyme enzymes} and gastric acid, the lung which secretes surfactants, and sebaceous glands which secrete sebum to lubricate the skin and hair. Meibomian glands in the eyelid secrete sebum to lubricate and protect the eye.
 
-    --
+    -
       MerocrineSecretion
       ApocrineSecretion
       HolocrineSecretion

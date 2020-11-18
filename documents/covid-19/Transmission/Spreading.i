@@ -2,7 +2,7 @@
 / Nature of the Spread
 subject module Spreading
   head = The order, scale and nature of spreading is different in different cases, and it is often important epidemiologically and could inform policies of public health (mitigation and treatment).
-  --
+  -
     TransmissionOrder
     TransmissionScale
     TransmissionNature
@@ -10,7 +10,7 @@ subject module Spreading
   / Transmission Order
   subject TransmissionOrder
     head = The transmission in a community can be understood in the terms of order of transmission from a zero-case.
-    --
+    -
       PrimaryTrans
       SecondaryTrans
       HigherOrderTrans
@@ -18,7 +18,7 @@ subject module Spreading
     / Primary Transmission
     subject PrimaryTrans
       head = All transmission linked directly to the zeroth case can be considered as primary transmission.
-      --
+      -
         'Xu_et_al_03_30_2020
         'Jang_et_al_05_15_2020
         'Qiu_et_al_03_05_2020
@@ -30,7 +30,7 @@ subject module Spreading
     / Secondary Transmission
     subject SecondaryTrans
       head = All transmission linked by a person to the zeroth case can be considered as second-order or secondary transmission.
-      --
+      -
         'Wang_et_al_04_10_2020
         'Park_et_al_04_23_2020
         'Heavey_et_al_05_28_2020
@@ -55,7 +55,7 @@ subject module Spreading
     / Higher Order Transmission
     subject HigherOrderTrans
       head = All other transmission can be considered higher order.
-      -- Tertiary
+      - Tertiary
         'Jang_et_al_05_15_2020
         'Kang_et_al_07_07_2020
         'Lai_et_al_05_21_2020
@@ -63,7 +63,7 @@ subject module Spreading
   / Tranmission Scale
   subject TransmissionScale
     head = The spread of the virus can also be understood in terms of the scale of the spread.
-    --
+    -
       CloseContactOnly
       HouseholdFamilySpouse
       Lessthan5people
@@ -75,7 +75,7 @@ subject module Spreading
     / Close Contact Only
     subject CloseContactOnly
       head = The spread could be confined to only 1-2 people in close contact.
-      --
+      -
       'Wang_et_al_04_10_2020
       'Nishiura_et_al_03_03_2020
       'Zhang_et_al_04_07_2020
@@ -104,7 +104,7 @@ subject module Spreading
     / Within Family
     subject HouseholdFamilySpouse
       head = The spread could be within in the family-members of a household.
-      -- Household
+      - Household
         'Wang_et_al_04_10_2020
         'Ghinai_et_al_04_17_2020
         'Park_et_al_04_23_2020
@@ -125,7 +125,7 @@ subject module Spreading
         'Burke_et_al_05_03_2020
         'Cheng_et_al_03_19_2020
         'Zhao_et_al_06_03_2020
-      -- Family
+      - Family
         'Lu_et_al_2020
         'Ghinai_et_al_04_17_2020
         'Stein-Zamir_et_al_07_21_2020
@@ -148,7 +148,7 @@ subject module Spreading
         'Chen_et_al_05_10_2020
         'Cheng_et_al_03_05_2020
         'Kang_et_al_09_01_2020
-      -- Spouse
+      - Spouse
         'Liu_et_al_03_12_2020
         'Zhang_et_al_03_27_2020
         'Lewis_et_al_08_16_2020
@@ -162,7 +162,7 @@ subject module Spreading
     / Cluster
     subject Cluster
       head = The spread can localised among a few households or smaller localities with a large number of cases.
-      --
+      -
         'Wang_et_al_04_10_2020
         'Lu_et_al_2020
         'Ghinai_et_al_04_17_2020
@@ -206,7 +206,7 @@ subject module Spreading
     / Outbreak
     subject Outbreak
       head = The spread can be wider with many clusters across the city or province, making it an outbreak.
-      --
+      -
         'Lu_et_al_2020
         'Lewis_et_al_06_24_2020
         'Stein-Zamir_et_al_07_21_2020
@@ -242,12 +242,12 @@ subject module Spreading
     / Local or Imported
     subject LocalImported
       head = The spread in a community can also be catergorised based on the source of the spread.
-      -- Imported
+      - Imported
         'Zheng_et_al_03_14_2020
         'Tariq_et_al_02_20_2020
         'Cheng_et_al_03_19_2020
         'Yong_et_al_04_21_2020
-      -- Local
+      - Local
         'Corburn_et_al_04_24_2020
         'Liu_et_al_03_12_2020
         'Qian_et_al_03_17_2020
@@ -260,7 +260,7 @@ subject module Spreading
     / Less than 5 people
     subject Lessthan5people
       head = Some small clusters with less than 5 people was also reported.
-      --
+      -
         'Lu_et_al_2020
         'Xu_et_al_03_30_2020
         'Gralton_et_al_08_19_2013
@@ -268,7 +268,7 @@ subject module Spreading
   / Tranmission Nature
   subject TransmissionNature
     head = The nature of the transmission is important in capturing and controlling the spread of the virus in a community.
-    --
+    -
       SymptomaticTrans
       PresymptomaticTrans
       AsymptomaticTrans
@@ -277,32 +277,32 @@ subject module Spreading
     / Presymptomatic Transmission
     subject PresymptomaticTrans
       head = There were reports indicating presymptomatic transmission, i.e., transmission from a positive patient who is yet to show any symptoms.
-      --
+      -
         'Lu_et_al_2020
         'Park_et_al_04_23_2020
         'Yu_et_al_02_18_2020
         'Arons_et_al_03_28_2020
         'Tong_et_al_03_09_2020
-      -- During Incubation
+      - During Incubation
         'Yang_et_al_03_08_2020
         'Yu_et_al_02_18_2020
 
     / Asymtomatic Tranmission
     subject AsymptomaticTrans
       head = Interestingly, there were reports indicating asymptomatic transmission, i.e., transmission from a positive patient who did not show any symptoms at all.
-      --
+      -
         'Nishiura_et_al_2020
         'Russell_et_al_2020.!a
         'Dong_et_al_2020b
         'He_et_al_2020.!a
         'Danis_et_al_04_11_2020
-      -- Reports
+      - Reports
         'Qian_et_al_03_23_2020
         'Zhang_et_al_03_27_2020
         'Hoxha_et_al_07_03_2020
         'Lavezzo_et_al_04_18_2020
         'Kimball_et_al_04_03_2020
-      -- Latest papers on AsymptomaticTrans
+      - Latest papers on AsymptomaticTrans
         'Pung_et_al_03_28_2020
         'Tobolowsky_et_al_05_01_2020
         'Jang_et_al_05_15_2020
@@ -312,7 +312,7 @@ subject module Spreading
     / Symptomatic Transsion
     subject SymptomaticTrans
       head = There were reports indicating Symptomatic transmission, i.e., transmission from a positive patient who showed symptoms.
-      --
+      -
         'Lewis_et_al_06_24_2020
         'Jang_et_al_05_15_2020
         'Zhang_et_al_03_27_2020

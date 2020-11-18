@@ -6,10 +6,10 @@
   model BoneMarrow
     # https://en.wikipedia.org/wiki/Bone_marrow
 
-    >>>
+    >
       {image-left:'Figure_22_1_5} The composition of marrow is dynamic, as the mixture of cellular and non-cellular components (connective tissue) shifts with age and in response to systemic factors. In humans, marrow is colloquially characterized as "red" or "yellow" marrow depending on the prevalence of {HematopoieticStemCell hematopoetic cells} vs fat cells.
 
-    --
+    -
       RedBoneMarrow
       YellowBoneMarrow
 
@@ -44,7 +44,7 @@
   /// Serous membrane (or serosa) is a smooth tissue membrane consisting of two layers of mesothelium, which secrete serous fluid.
   model SerousMembrane
     # https://en.wikipedia.org/wiki/Serous_membrane
-    >>>
+    >
       The inner layer that covers organs (viscera) in body cavities is called the visceral membrane. A second layer of epithelial cells of the serous membrane, called the parietal layer, lines the body wall. Between the two layers is a potential space, mostly empty except for a few milliliters of lubricating serous fluid that is secreted by the two serous membranes.
 
   /// Skin is the outer covering of the body and is the largest organ of the integumentary system. The skin has up to seven layers of ectodermal tissue and guards the underlying muscles, bones, ligaments and internal organs. The adjective cutaneous literally means "of the skin."

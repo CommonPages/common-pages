@@ -7,7 +7,7 @@
 
   /// Deoxyribonucleic acid (DNA) is a nucleotide that stores genetic information.
   model DNA
-    >>>
+    >
       {image:'Figure_3_3_4}
 
   /// Ribonucleic acid (RNA) is a ribose-containing nucleotide that helps manifest the genetic code as protein.
@@ -75,7 +75,7 @@
 
   /// An amphipathic molecule is one that contains both a hydrophilic and a hydrophobic region.
   model AmphipathicMolecule
-    >>>
+    >
       Soap works to remove oil and grease stains because it has amphipathic properties. The hydrophilic portion can dissolve in water while the hydrophobic portion can trap grease in micelles that then can be washed away.
 
   /// Cyclin is a family of proteins that control the progression of cells through the cell cycle by activating cyclin-dependent kinase (CDK) enzymes.
@@ -198,7 +198,7 @@
   /// T independent antigen elicits antibody production by B lymphocytes without T lymphocyte involvement.
   model TindepAntigen
     # https://en.wikipedia.org/wiki/T_independent_antigen_(TI)
-    >>>
+    >
       There are 2 distinct subgroups of TI antigens, different in mechanism of activating B lymphocytes. TI-1 antigen, which has an activity that can directly activate B cells and TI-2 antigen, which has highly repetitive structure and causes simultaneous cross-linking of specific B cell receptors (BCR) on B lymphocyte.
 
   /// Fas ligand (FasL or CD95L or CD178) is a type-II transmembrane protein that belongs to the tumor necrosis factor (TNF) family. Its binding with its receptor induces apoptosis. Fas ligand/receptor interactions play an important role in the regulation of the immune system and the progression of cancer.
@@ -233,7 +233,7 @@
   model GrowthFactor
     # https://en.wikipedia.org/wiki/Growth_factor
 
-    >>>
+    >
       Usually it is a protein or a steroid hormone. Growth factors are important for regulating a variety of cellular processes.
 
   /// Interleukins (ILs) are a group of cytokines that were first seen to be expressed by white blood cells. The function of the immune system depends in a large part on interleukins.

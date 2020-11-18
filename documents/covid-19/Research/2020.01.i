@@ -1,6 +1,6 @@
 / January, 2020
 feed January2020
-  --
+  -
     'Broggi_et_al_01_06_2020
     'Riou_et_al_01_24_2020
     'Chan_et_al_2020
@@ -22,7 +22,7 @@ feed January2020
   ref 'Broggi_et_al_01_06_2020
     head = We discuss recent findings that establish the unique capacity of IFN-λ (Type III Interferons) to act at the barriers of the host to balance tissue tolerance and immune resistance against viral and bacterial challenges.
 
-    >>> Abstract
+    > Abstract
       Type III IFNs, or IFN-λ, are the newest members of the IFN family and were long believed to play roles that were redundant with those of type I IFNs. However, IFN-λ displays unique traits that delineate them as primary protectors of barrier integrity at mucosal sites. This unique role stems both from the restricted expression of IFN-λ receptor, confined to epithelial cells and to a limited pool of immune cells, and from unique immunomodulatory properties of IFN-λ. Here, we discuss recent findings that establish the unique capacity of IFN-λ to act at the barriers of the host to balance tissue tolerance and immune resistance against viral and bacterial challenges.
 
 
@@ -36,7 +36,7 @@ feed January2020
   ref 'Riou_et_al_01_24_2020
     head = Our analysis suggests that the early pattern of human-to-human transmission of 2019-nCoV is reminiscent of SARS-CoV emergence in 2002. We estimated the basic reproduction number R0 of 2019-nCoV to be around 2.2.
 
-    >>> Abstract
+    > Abstract
       Since December 2019, China has been experiencing a large outbreak of a novel coronavirus (2019-nCoV) which can cause respiratory disease and severe pneumonia. We estimated the basic reproduction number R0 of 2019-nCoV to be around 2.2 (90% high density interval: 1.4–3.8), indicating the potential for sustained human-to-human transmission. Transmission characteristics appear to be of similar magnitude to severe acute respiratory syndrome-related coronavirus (SARS-CoV) and pandemic influenza, indicating a risk of global spread.
 
     # / Jan, 2020 - Eurosurveillance
@@ -49,19 +49,19 @@ feed January2020
   ref 'Chan_et_al_2020
     head = We report the findings of five patients in a family cluster who presented with unexplained pneumonia after a visit to Wuhan, and an additional family member who did not travel to Wuhan. Person-to-person transmission and intercity spread of 2019-nCoV by air travel are possible, supporting reports of infected Chinese travellers from Wuhan being detected in other geographical regions.
 
-    >>> Background
+    > Background
       An ongoing outbreak of pneumonia associated with a novel coronavirus was reported in Wuhan city, Hubei province, China. Affected patients were geographically linked with a local wet market as a potential source. No data on person-to-person or nosocomial transmission have been published to date.
 
-    >>> Methods
+    > Methods
       In this study, we report the epidemiological, clinical, laboratory, radiological, and microbiological findings of five patients in a family cluster who presented with unexplained pneumonia after returning to Shenzhen, Guangdong province, China, after a visit to Wuhan, and an additional family member who did not travel to Wuhan. Phylogenetic analysis of genetic sequences from these patients were done.
 
-    >>> Findings
+    > Findings
       From Jan 10, 2020, we enrolled a family of six patients who travelled to Wuhan from Shenzhen between Dec 29, 2019 and Jan 4, 2020. Of six family members who travelled to Wuhan, five were identified as infected with the novel coronavirus. Additionally, one family member, who did not travel to Wuhan, became infected with the virus after several days of contact with four of the family members. None of the family members had contacts with Wuhan markets or animals, although two had visited a Wuhan hospital. Five family members (aged 36–66 years) presented with fever, upper or lower respiratory tract symptoms, or diarrhoea, or a combination of these 3–6 days after exposure. They presented to our hospital (The University of Hong Kong-Shenzhen Hospital, Shenzhen) 6–10 days after symptom onset. They and one asymptomatic child (aged 10 years) had radiological ground-glass lung opacities. Older patients (aged >60 years) had more systemic symptoms, extensive radiological ground-glass lung changes, lymphopenia, thrombocytopenia, and increased C-reactive protein and lactate dehydrogenase levels. The nasopharyngeal or throat swabs of these six patients were negative for known respiratory microbes by point-of-care multiplex RT-PCR, but five patients (four adults and the child) were RT-PCR positive for genes encoding the internal RNA-dependent RNA polymerase and surface Spike protein of this novel coronavirus, which were confirmed by Sanger sequencing. Phylogenetic analysis of these five patients' RT-PCR amplicons and two full genomes by next-generation sequencing showed that this is a novel coronavirus, which is closest to the bat severe acute respiatory syndrome (SARS)-related coronaviruses found in Chinese horseshoe bats.
 
-    >>> Interpretation
+    > Interpretation
       Our findings are consistent with person-to-person transmission of this novel coronavirus in hospital and family settings, and the reports of infected travellers in other geographical regions.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -115,7 +115,7 @@ feed January2020
   ref 'SaifAddin_et_al_2020
     head = The disinfection industry would greatly benefit from efficient, robust, high-power deep-ultraviolet light-emitting diodes (UV–C LEDs). This work establishes UV LEDs grown on SiC substrates as a viable architecture to large-area, high-brightness, and high-power UV LEDs.
 
-    >>> Abstract
+    > Abstract
       The disinfection industry would greatly benefit from efficient, robust, high-power deep-ultraviolet light-emitting diodes (UV–C LEDs). However, the performance of UV–C AlGaN LEDs is limited by poor light-extraction efficiency (LEE) and the presence of a large density of threading dislocations. We demonstrate high power AlGaN LEDs grown on SiC with high LEE and low threading dislocation density. We employ a crack-free AlN buffer layer with low threading dislocation density and a technique to fabricate thin-film UV LEDs by removing the SiC substrate, with a highly selective SF6 etch. The LEDs (278 nm) have a turn-on voltage of 4.3 V and a CW power of 8 mW (82 mW/mm2) and external quantum efficiency (EQE) of 1.8% at 95 mA. KOH submicron roughening of the AlN surface (nitrogen-polar) and improved p-contact reflectivity are found to be effective in improving the LEE of UV light. We estimate the improved LEE by semiempirical calculations to be 33% (without encapsulation). This work establishes UV LEDs grown on SiC substrates as a viable architecture to large-area, high-brightness, and high-power UV LEDs.
 
 
@@ -129,19 +129,19 @@ feed January2020
   ref 'Lu_et_at_2020
     head = Phylogenetic analysis revealed that 2019-nCoV fell within the subgenus Sarbecovirus of the genus Betacoronavirus, with a relatively long branch length to its closest relatives bat-SL-CoVZC45 and bat-SL-CoVZXC21, and was genetically distinct from SARS-CoV.
 
-    >>> Background
+    > Background
       In late December, 2019, patients presenting with viral pneumonia due to an unidentified microbial agent were reported in Wuhan, China. A novel coronavirus was subsequently identified as the causative pathogen, provisionally named 2019 novel coronavirus (2019-nCoV). As of Jan 26, 2020, more than 2000 cases of 2019-nCoV infection have been confirmed, most of which involved people living in or visiting Wuhan, and human-to-human transmission has been confirmed.
 
-    >>> Methods
+    > Methods
       We did next-generation sequencing of samples from bronchoalveolar lavage fluid and cultured isolates from nine inpatients, eight of whom had visited the Huanan seafood market in Wuhan. Complete and partial 2019-nCoV genome sequences were obtained from these individuals. Viral contigs were connected using Sanger sequencing to obtain the full-length genomes, with the terminal regions determined by rapid amplification of cDNA ends. Phylogenetic analysis of these 2019-nCoV genomes and those of other coronaviruses was used to determine the evolutionary history of the virus and help infer its likely origin. Homology modelling was done to explore the likely receptor-binding properties of the virus.
 
-    >>> Findings
+    > Findings
       The ten genome sequences of 2019-nCoV obtained from the nine patients were extremely similar, exhibiting more than 99·98% sequence identity. Notably, 2019-nCoV was closely related (with 88% identity) to two bat-derived severe acute respiratory syndrome (SARS)-like coronaviruses, bat-SL-CoVZC45 and bat-SL-CoVZXC21, collected in 2018 in Zhoushan, eastern China, but were more distant from SARS-CoV (about 79%) and MERS-CoV (about 50%). Phylogenetic analysis revealed that 2019-nCoV fell within the subgenus Sarbecovirus of the genus Betacoronavirus, with a relatively long branch length to its closest relatives bat-SL-CoVZC45 and bat-SL-CoVZXC21, and was genetically distinct from SARS-CoV. Notably, homology modelling revealed that 2019-nCoV had a similar receptor-binding domain structure to that of SARS-CoV, despite amino acid variation at some key residues.
 
-    >>> Interpretation
+    > Interpretation
       2019-nCoV is sufficiently divergent from SARS-CoV to be considered a new human-infecting betacoronavirus. Although our phylogenetic analysis suggests that bats might be the original host of this virus, an animal sold at the seafood market in Wuhan might represent an intermediate host facilitating the emergence of the virus in humans. Importantly, structural analysis suggests that 2019-nCoV might be able to bind to the angiotensin-converting enzyme 2 receptor in humans. The future evolution, adaptation, and spread of this virus warrant urgent investigation.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -167,10 +167,10 @@ feed January2020
   ref 'Wan_et_al_2020
     head = 2019-nCoV likely uses human ACE2 less efficiently than human SARS-CoV (year 2002) but more efficiently than human SARS-CoV (year 2003). A single N501T mutation (corresponding to the S487T mutation in SARS-CoV) may significantly enhance the binding affinity between 2019-nCoV RBD and human ACE2.
 
-    >>> Abstract
+    > Abstract
       Recently, a novel coronavirus (2019-nCoV) has emerged from Wuhan, China, causing symptoms in humans similar to those caused by severe acute respiratory syndrome coronavirus (SARS-CoV). Since the SARS-CoV outbreak in 2002, extensive structural analyses have revealed key atomic-level interactions between the SARS-CoV spike protein receptor-binding domain (RBD) and its host receptor angiotensin-converting enzyme 2 (ACE2), which regulate both the cross-species and human-to-human transmissions of SARS-CoV. Here, we analyzed the potential receptor usage by 2019-nCoV, based on the rich knowledge about SARS-CoV and the newly released sequence of 2019-nCoV. First, the sequence of 2019-nCoV RBD, including its receptor-binding motif (RBM) that directly contacts ACE2, is similar to that of SARS-CoV, strongly suggesting that 2019-nCoV uses ACE2 as its receptor. Second, several critical residues in 2019-nCoV RBM (particularly Gln493) provide favorable interactions with human ACE2, consistent with 2019-nCoV’s capacity for human cell infection. Third, several other critical residues in 2019-nCoV RBM (particularly Asn501) are compatible with, but not ideal for, binding human ACE2, suggesting that 2019-nCoV has acquired some capacity for human-to-human transmission. Last, while phylogenetic analysis indicates a bat origin of 2019-nCoV, 2019-nCoV also potentially recognizes ACE2 from a diversity of animal species (except mice and rats), implicating these animal species as possible intermediate hosts or animal models for 2019-nCoV infections. These analyses provide insights into the receptor usage, cell entry, host cell infectivity and animal origin of 2019-nCoV and may help epidemic surveillance and preventive measures against 2019-nCoV.
 
-    -- quotes
+    - quotes
       !a
       !b
 
@@ -186,7 +186,7 @@ feed January2020
   ref 'Benvenuto_et_al_2020
     head =  Nucleocapsid and the spike glycoprotein have some sites under positive pressure, whereas homology modeling revealed some molecular and structural differences between the viruses. 2019‐nCoV significantly clustered with bat SARS‐like coronavirus sequence isolated in 2015, whereas structural analysis revealed mutation in Spike Glycoprotein and nucleocapsid protein.
 
-    >>> Abstract
+    > Abstract
       There is a worldwide concern about the new coronavirus 2019‐nCoV as a global public health threat. In this article, we provide a preliminary evolutionary and molecular epidemiological analysis of this new virus. A phylogenetic tree has been built using the 15 available whole genome sequences of 2019‐nCoV, 12 whole genome sequences of 2019‐nCoV, and 12 highly similar whole genome sequences available in gene bank (five from the severe acute respiratory syndrome, two from Middle East respiratory syndrome, and five from bat SARS‐like coronavirus). Fast unconstrained Bayesian approximation analysis shows that the nucleocapsid and the spike glycoprotein have some sites under positive pressure, whereas homology modeling revealed some molecular and structural differences between the viruses. The phylogenetic tree showed that 2019‐nCoV significantly clustered with bat SARS‐like coronavirus sequence isolated in 2015, whereas structural analysis revealed mutation in Spike Glycoprotein and nucleocapsid protein. From these results, the new 2019‐nCoV is distinct from SARS virus, probably trasmitted from bats after mutation conferring ability to infect humans.
 
     # / Jan, 2020 - Medical Virology
@@ -199,10 +199,10 @@ feed January2020
   ref 'Eden_et_al_2020
     head = Although all known cases linked to Iran are contained in this clade, it is important to note the presence of two Chinese strains sampled during mid-January 2020 from Hubei and Shandong provinces. It is expected that further Chinese strains will be identified that fall in this clade, and across the entire phylogenetic diversity of SARS-CoV-2 as this is where the outbreak started, including likely for the outbreak in Iran itself.
 
-    >>> Abstract
+    > Abstract
       The SARS-CoV-2 epidemic has rapidly spread outside China with major outbreaks occurring in Italy, South Korea, and Iran. Phylogenetic analyses of whole-genome sequencing data identified a distinct SARS-CoV-2 clade linked to travellers returning from Iran to Australia and New Zealand. This study highlights potential viral diversity driving the epidemic in Iran, and underscores the power of rapid genome sequencing and public data sharing to improve the detection and management of emerging infectious diseases.
 
-    -- quotes
+    - quotes
       !a
       !b
 
@@ -219,19 +219,19 @@ feed January2020
   ref 'Chen_et_al_2020c
     head = The 2019-nCoV infection was of clustering onset, is more likely to affect older males with comorbidities, and can result in severe and even fatal respiratory diseases such as acute respiratory distress syndrome.
 
-    >>> Background
+    > Background
       In December, 2019, a pneumonia associated with the 2019 novel coronavirus (2019-nCoV) emerged in Wuhan, China. We aimed to further clarify the epidemiological and clinical characteristics of 2019-nCoV pneumonia.
 
-    >>> Methods
+    > Methods
       In this retrospective, single-centre study, we included all confirmed cases of 2019-nCoV in Wuhan Jinyintan Hospital from Jan 1 to Jan 20, 2020. Cases were confirmed by real-time RT-PCR and were analysed for epidemiological, demographic, clinical, and radiological features and laboratory data. Outcomes were followed up until Jan 25, 2020.
 
-    >>> Findings
+    > Findings
       Of the 99 patients with 2019-nCoV pneumonia, 49 (49%) had a history of exposure to the Huanan seafood market. The average age of the patients was 55·5 years (SD 13·1), including 67 men and 32 women. 2019-nCoV was detected in all patients by real-time RT-PCR. 50 (51%) patients had chronic diseases. Patients had clinical manifestations of fever (82 [83%] patients), cough (81 [82%] patients), shortness of breath (31 [31%] patients), muscle ache (11 [11%] patients), confusion (nine [9%] patients), headache (eight [8%] patients), sore throat (five [5%] patients), rhinorrhoea (four [4%] patients), chest pain (two [2%] patients), diarrhoea (two [2%] patients), and nausea and vomiting (one [1%] patient). According to imaging examination, 74 (75%) patients showed bilateral pneumonia, 14 (14%) patients showed multiple mottling and ground-glass opacity, and one (1%) patient had pneumothorax. 17 (17%) patients developed acute respiratory distress syndrome and, among them, 11 (11%) patients worsened in a short period of time and died of multiple organ failure.
 
-    >>> Interpretation
+    > Interpretation
       The 2019-nCoV infection was of clustering onset, is more likely to affect older males with comorbidities, and can result in severe and even fatal respiratory diseases such as acute respiratory distress syndrome. In general, characteristics of patients who died were in line with the MuLBSTA score, an early warning model for predicting mortality in viral pneumonia. Further investigation is needed to explore the applicability of the MuLBSTA score in predicting the risk of mortality in 2019-nCoV infection.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -272,7 +272,7 @@ feed January2020
   ref 'Arts_et_al_2020
     head = We report the broad epigenetic program induced by BCG vaccination in humans, which results in increased activation of circulating monocytes. Furthermore, we show that BCG vaccination can protect against a non-related viral infection in an experimental model of human infection and report that IL-1β-mediated responses, which are indicative of the induction of trained immunity, are the most reliable correlate of this protection.
 
-    -- quotes
+    - quotes
       !a
 
     / Jan, 2020 - Cell Host & Microbe
@@ -285,7 +285,7 @@ feed January2020
   ref 'Darrah_et_al_2020
     head = This study provides a paradigm shift towards developing vaccines focused on preventing TB infection to prevent latency, active disease and transmission. The data suggest that the IV route may improve the protective capacity of other vaccine platforms. This study also provides a benchmark against which future vaccines will be tested and a new framework to understand the immune correlates and mechanisms of protection against TB.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c
@@ -313,7 +313,7 @@ feed January2020
   ref 'Phan_et_al_2020
     head = A novel coronavirus designated as 2019-nCoV first appeared in Wuhan, China in late December 2019. Dozens of people died in China, and thousands of people infected as 2019-nCoV continues to spread around the world. We have described the discovery, emergence, genomic characteristics, and clinical diagnostics of 2019-nCoV.
 
-    -- quotes
+    - quotes
       !a
       !b
 
@@ -330,10 +330,10 @@ feed January2020
   ref 'Zhu_et_al_2020
     head = In late December 2019, several local health facilities reported clusters of patients with pneumonia of unknown cause that were epidemiologically linked to a seafood and wet animal wholesale market in Wuhan, Hubei Province, China. On December 31, 2019, the China CDC dispatched a rapid response team to conduct an epidemiologic and etiologic investigation. We report the results of this investigation, and describe a novel coronavirus detected in patients with pneumonia.
 
-    >>> Summary
+    > Summary
       In December 2019, a cluster of patients with pneumonia of unknown cause was linked to a seafood wholesale market in Wuhan, China. A previously unknown betacoronavirus was discovered through the use of unbiased sequencing in samples from patients with pneumonia. Human airway epithelial cells were used to isolate a novel coronavirus, named 2019-nCoV, which formed a clade within the subgenus sarbecovirus, Orthocoronavirinae subfamily. Different from both MERS-CoV and SARS-CoV, 2019-nCoV is the seventh member of the family of coronaviruses that infect humans. Enhanced surveillance and further investigation are ongoing.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c

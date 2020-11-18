@@ -1,7 +1,7 @@
 
 index: hide
 space BioFigures
-  >>>
+  >
     Hello, world of Figures!
 
   index: hide

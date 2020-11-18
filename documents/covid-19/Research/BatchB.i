@@ -5,7 +5,7 @@
   ref 'xyz_et_al_2020
     head =
 
-    -- quotes
+    - quotes
       !a
 
     / June, 2020 - Annals of the New York Academy of Sciences
@@ -17,10 +17,10 @@
   ref 'Okba_et_al_2020
     head =  Since the N and the S proteins are the main immunogenic CoV proteins, we developed ELISA-based assays, which were able to detect antibodies to these two proteins along with the two spike domains, S1A and RBD. Those correlated strongly with virus neutralizing antibodies detected by a PRNT assay.
 
-    >>> Abstract
+    > Abstract
       A new coronavirus, SARS-CoV-2, has recently emerged to cause a human pandemic. Whereas molecular diagnostic tests were rapidly developed, serologic assays are still lacking, yet urgently needed. Validated serologic assays are important for contact tracing, identifying the viral reservoir and epidemiological studies. Here, we developed serological assays for the detection of SARS-CoV-2 neutralizing, spike- and nucleocapsid-specific antibodies. Using serum samples from patients with PCR-confirmed infections of SARS-CoV-2, other coronaviruses, or other respiratory pathogenic infections, we validated and tested various antigens in different in-house and commercial ELISAs. We demonstrate that most PCR-confirmed SARS-CoV-2 infected individuals seroconverted, as revealed by sensitive and specific in-house ELISAs. We found that commercial S1 IgG or IgA ELISAs were of lower specificity while sensitivity varied between the two, with IgA showing higher sensitivity. Overall, the validated assays described here can be instrumental for the detection of SARS-CoV-2-specific antibodies for diagnostic, seroepidemiological and vaccine evaluation studies.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c

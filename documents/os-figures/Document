@@ -1,0 +1,6 @@
+
+id: "$os-figures"
+name: "Figures"
+network: "claimspace.org"
+authorize:
+use:

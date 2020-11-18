@@ -9,7 +9,7 @@ model Protein
     Cell
     chem.organic.protein
 
-  >>>
+  >
     {image:'Figure_2_5_8}
 
 

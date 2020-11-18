@@ -19,7 +19,7 @@ space Figures
   image 'Questions
 
 
-  >>>
+  >
     Here we import all the Figures which needs to be called within covid19 subnet.  index: hide
   name: Figure:
   url: http://oshatrainingu.com/wp-content/uploads/2019/09/3M_N95_Particulate_Respirator.jpg

@@ -4,7 +4,7 @@
   /// In cell biology, a precursor cell, also called a blast cell or simply blast, is a partially differentiated cell, usually referred to as a unipotent cell that has lost most of its stem cell properties.
   model PrecursorCell
     # https://en.wikipedia.org/wiki/Precursor_cell
-    >>>
+    >
       A precursor cell is also known as a progenitor cell but progenitor cells are multipotent. Precursor cells are known as the intermediate cell before they become differentiated after being a stem cell.
 
     # TYPES
@@ -40,7 +40,7 @@
     /// Professional APCs specialize in presenting antigen to T cells. The main types of professional antigen-presenting cells are dendritic cells, macrophages and B cells.
     model Professional
       # https://en.wikipedia.org/wiki/Antigen-presenting_cell#Professional
-      --
+      -
         DendriticCells
         Macrophages
         BCells

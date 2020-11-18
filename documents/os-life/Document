@@ -1,0 +1,7 @@
+
+id: "$os-life"
+name: "Life"
+network: "claimspace.org"
+authorize:
+use:
+  - "$os-figures"

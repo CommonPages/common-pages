@@ -5,44 +5,44 @@ subject module Containment
   / Universal Masking
   subject UniversalMasking
     head = Many researchers and public health advocates have called for policies and influence campaigns to encourage or require all members of the public to wear masks in community settings during the COVID-19 pandemic. They suggest the possibility of lower infection rates, the conservation of masks for frontline health care workers, and social and economic benefits.
-    --
+    -
       'Gandhi_et_al_09_08_2020
-    --
+    -
       'Li_et_al_08_14_2020
       'Li_et_al_08_14_2020.!a
-    --
+    -
       'Leffler_et_al_08_05_2020
       'Leffler_et_al_08_05_2020.!c
-    --
+    -
       'Stutt_et_al_06_10_2020
       'Stutt_et_al_06_10_2020.!b
       'Stutt_et_al_06_10_2020.!c
-    --
+    -
       'Klompas_et_al_06_03_2020
       'Klompas_et_al_06_03_2020.!a
-    --
+    -
       'Howard_et_al_05_13_2020
       'Howard_et_al_05_13_2020.!a
-    --
+    -
       'Sergi_et_al_05_13_2020
-    --
+    -
       'Chowell_et_al_05_2020
       'Chowell_et_al_05_2020.!a
-    --
+    -
       'Eikenberry_et_al_04_21_2020
       'Eikenberry_et_al_04_21_2020.!a
       'Eikenberry_et_al_04_21_2020.!b
       'Eikenberry_et_al_04_21_2020.!c
       'Eikenberry_et_al_04_21_2020.!d
-    --
+    -
       'MacIntyre_et_al_04_21_2020
       'MacIntyre_et_al_04_21_2020.!c
       'MacIntyre_et_al_04_21_2020.!b
-    --
+    -
       'Abaluck_04_2020
       'Abaluck_04_2020.!a
       'Abaluck_04_2020.!b
-    --
+    -
       'Feng_et_al_03_20_2020
       'Feng_et_al_03_20_2020.!a
       'Feng_et_al_03_20_2020.!c
@@ -51,7 +51,7 @@ subject module Containment
   / Social Restrictions
   subject SocialNetwork
     # head = The restriction of interactions within a social network has shown to reduce and slow the spread of infection.
-    --
+    -
       'Keeling_et_al_2005
       'Keeling_et_al_2005.!a
       'Keeling_et_al_2005.!b
@@ -66,7 +66,7 @@ subject module Containment
   / Quarantine
   subject Quarantine
     # head = Studies state that voluntary individual quarantine and voluntary active monitoring of contacts are core disease control strategies for emerging infectious diseases such as COVID-19.
-    --
+    -
       'Dandekar_et_al_2020
       'Xia_et_al_2020
       'Cowling_et_al_2020
@@ -79,39 +79,39 @@ subject module Containment
       'Adam_et_al_2020.!g
       'Miller_et_al_2020b
       'Tom_et_al_2020.!i
-    -- chains of transmission did not terminate in quarantine
+    - chains of transmission did not terminate in quarantine
       'Adam_et_al_2020.!i
 
   —
   / School Closure
   subject SchoolClosure
     # head = Based on past studies, earlier schools were closed, the lower the number of excess death in past epidemics
-    -- Past Model Studies
+    - Past Model Studies
       'Sebastiani_et_al_2006
       'Fergusion_et_al_2006
       'Kawano_et_al_2015
       'Ciavarella_et_al_2016
-    -- Past studies
+    - Past studies
       'Market_et_al_2007
-    -- Important conduit for the initial spread of close contact infections
+    - Important conduit for the initial spread of close contact infections
       'Mossong_et_al_2008.!a
-    -- School Reopening
+    - School Reopening
       'Gaffney_et_al_08_21_2020
       'Levinson_et_al_07_29_2020
-    -- Context
+    - Context
       'Fine_et_al_2011.!d
 
   —
   / Contact Tracing
   subject ContactTracing
     # head = Testing and Tracing is an effective containment strategy at the start of an outbreak when there are just a few chains of transmission of the disease. Countries that persisted with expanded, continuous and rigorous testing and tracing have fared better with lower death rates than those which did not.
-    --
+    -
       'Ferretti_et_al_2020
       'Liu_et_al_03_03_2020.!f
-    -- Modeling paper
+    - Modeling paper
       'Dufresne_et_al_2020
       'Dufresne_et_al_2020.!e
-    -- Effectiveness of contact tracing also dependant on the number of asymptomatic cases
+    - Effectiveness of contact tracing also dependant on the number of asymptomatic cases
       'Sanche_et_al_2020.!f
       'Bi_et_al_04_27_2020
 
@@ -120,20 +120,20 @@ subject module Containment
   subject Nosocomial
     # head = Several mitigation measures are being used by hospitals to minimize the chance of exposure to healthcare workers and to protect high-risk population within the hospitals. Mitigation measures adopted, includes the promoting the use of everyday preventive actions.
 
-    -- The SARS/ reducing the risk of infection after exposures to patients with SARS.
+    - The SARS/ reducing the risk of infection after exposures to patients with SARS.
       'Wang_et_al_2005.!f
       'Wang_et_al_2005.!g
       'Lee_et_al_2003.!b
-    -- Facemasks - reducing the risk of infection SARS
+    - Facemasks - reducing the risk of infection SARS
       'Seto_et_al_2003
-    --
+    -
       'Boyce_et_al_2007
       'Boyce_et_al_2007.!a
       'Boyce_et_al_2007.!b
       'Boyce_et_al_2007.!c
-    -- Copper Surfaces Reduce the Rate of Healthcare-Acquired Infections
+    - Copper Surfaces Reduce the Rate of Healthcare-Acquired Infections
       'Salgado_et_al_2015
-    -- Aerosol prevention
+    - Aerosol prevention
       'Ling_et_al_2020
       'Ling_et_al_2020.!a
       'Ling_et_al_2020.!b
@@ -145,7 +145,7 @@ subject module Containment
       'Somsen_et_al_05_27_2020.!f
       'Liu_et_al_2020
       'Heinzerling_et_al_04_14_2020.!a
-    -- Dental practice
+    - Dental practice
       'Izzetti_et_al_04_17_2020
       'Peng_et_al_03_03_2020
 
@@ -153,11 +153,11 @@ subject module Containment
   / Surveillance
   subject Surveillance
     # head = There are compelling research that SARS-CoV-2 is detected in sewage and could be a sensitive surveillance system and early warning tool of COVID-19 outbreak dynamics.
-    --
+    -
       'Lodder_et_al_2020
       'Medeema_et_al_2020
       'Lodder_et_al_2012
-    -- Sewage Sludge
+    - Sewage Sludge
       'Peccia_et_al_2020
 
   —
@@ -165,25 +165,25 @@ subject module Containment
   dispute HerdImmunity
     # head = Epidemiological and immunological factors, such as population structure, variation in transmission dynamics, and waning immunity, have important implications in the context of herd immunity.
 
-    >>>
+    >
       Studies emphasize the importance for incorporating immunological factors such as protective immunity and epidemiological factors such as viral spread, infectivity, variation in R0 across time and populations, heterogeneity in the attack and contact rates across demographic groups, inter-individual variation in communicability, disease severity must be taken into account for establishment of herd immunity within populations.
-    -- Individual variation in susceptibility or exposure to infection/heterogeneity
+    - Individual variation in susceptibility or exposure to infection/heterogeneity
       'Gomes_et_al_2020
       'Ferrari_et_al_2006.!a
       'Fine_et_al_2011.!a
       'Langwig_et_al_2017
-    -- Disease-induced herd immunity level lower then the classical herd immunity level
+    - Disease-induced herd immunity level lower then the classical herd immunity level
       'Britton_et_al_2020
-    -- 20/80 rule - herd-immunity threshold of 60-70% via vaccine-acquired immunity
+    - 20/80 rule - herd-immunity threshold of 60-70% via vaccine-acquired immunity
       'Woolhouse_et_al_1997
       'Adam_et_al_2020.!f
       'Miller_et_al_2020b
       'Sanche_et_al_2020.!e
-    -- beyond R0 when predicting epidemic size
+    - beyond R0 when predicting epidemic size
       'Dufresne_et_al_2020
-    -- In ZIKV population exposure to virus didn't let 2nd wave
+    - In ZIKV population exposure to virus didn't let 2nd wave
       'Netto_et_al_2017
-    -- Context
+    - Context
       'Woolhouse_et_al_1997
       'John_et_al_2000
       'Ferrari_et_al_2006
@@ -216,7 +216,7 @@ subject module Containment
   #     'Zhang_et_al_04_29_2020
   #   -- Model to prevent 2nd outbreak in China
   #     'Zhang_et_al_2020b
-  #   >>>
+  #   >
   #     Mitigation measures in Europe
   #   -- Europe
   #     'Flaxman_et_al_06_08_2020

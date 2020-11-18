@@ -45,7 +45,7 @@
     # https://en.wikipedia.org/wiki/Antigen_presentation
     <<
       Antigen
-    >>>
+    >
        Because {TCells T cells} recognise only fragmented antigens displayed on cell surfaces, antigen processing must occur before the antigen fragment, now bound to the major histocompatibility complex ({MHC}), is transported to the surface of the cell, a process known as presentation, where it can be recognized by a {TCellReceptor T cell receptor}. If there has been an infection with viruses or bacteria, the cell will present an endogenous or exogenous peptide fragment derived from the antigen bound to MHC molecules.
 
   /// Central tolerance, also known as negative selection, is the process of eliminating any developing T or B lymphocytes that are reactive to self. Through elimination of autoreactive lymphocytes, tolerance ensures that the immune system does not attack self peptides. Central tolerance is not perfect, so peripheral tolerance exists as a secondary mechanism.
@@ -106,7 +106,7 @@
   /// Seroconversion is the time period during which a specific antibody develops and becomes detectable in the blood.
   model Seroconversion
     # https://en.wikipedia.org/wiki/Seroconversion
-    >>>
+    >
       After seroconversion has occurred, the disease can be detected in blood tests for the antibody. During an infection or immunization, antigens enter the blood, and the immune system begins to produce antibodies in response. Before seroconversion, the antigen itself may or may not be detectable, but the antibody is, by definition, absent. During seroconversion, the antibody is present but not yet detectable.
 
   /// Tissue typing is a procedure in which the tissues of a prospective donor and recipient are tested for compatibility prior to transplantation.

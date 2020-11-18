@@ -5,7 +5,7 @@ model CellSignaling
   <<
     Cell
 
-  --
+  -
     AutocrineSignaling
     ParacrineSignaling
     IntacrineSignaling

@@ -11,7 +11,7 @@
   model Agglutination
 
     # https://en.wikipedia.org/wiki/Agglutination_(biology)
-    >>>
+    >
       Agglutination is the process that occurs if an antigen is mixed with its corresponding antibody called is oagglutinin. This term is commonly used in blood grouping.
 
       This occurs in biology in two main examples:

@@ -12,19 +12,19 @@
   # /// The endoplasmic reticulum (ER) is a type of organelle that forms an interconnected network of flattened, membrane-enclosed sacs or tube-like structures known as cisternae. The membranes of the ER are continuous with the outer nuclear membrane.
   /// The endoplasmic reticulum (ER) is an organelle that forms a system of channels that is continuous with the nuclear membrane (or “envelope”) covering the nucleus and composed of the same lipid bilayer material.
   model EndoplasmicReticulum
-    >>>
+    >
       The ER can be thought of as a series of winding thoroughfares similar to the waterway canals in Venice. The ER provides passages throughout much of the cell that function in transporting, synthesizing, and storing materials. The winding structure of the ER results in a large membranous surface area that supports its many functions.
 
       {image:'Figure_3_2_2}
 
       Endoplasmic reticulum can exist in two forms: rough ER and smooth ER.
 
-    --
+    -
       RoughEndoplasmicReticulum
       Ribosome
       SmoothEndoplasmicReticulum
 
-    >>>
+    >
       These two types of ER perform some very different functions and can be found in very different amounts depending on the type of cell.
 
       One of the main functions of the smooth ER is in the synthesis of lipids. The smooth ER synthesizes phospholipids, the main component of biological membranes, as well as steroid hormones. In addition to lipid synthesis, the smooth ER also stores and regulates the concentration of cellular Ca<sup>++</sup>, a function extremely important in cells of the nervous system where Ca<sup>++</sup> is the trigger for neurotransmitter release. The smooth ER additionally metabolizes some carbohydrates and performs a detoxification role, breaking down certain toxins.
@@ -68,10 +68,10 @@
 
   /// Mitochondria are the organelles responsible for producing the cell’s energy supply. Biochemical reactions within mitochondria transform energy-carrying molecules into the usable form of cellular energy known as ATP.
   model Mitochondria
-    >>>
+    >
       Just as you must consume nutrients to provide yourself with energy, so must each of your cells take in nutrients, some of which convert to chemical energy that can be used to power biochemical reactions.
 
-    >>>
+    >
       A  **mitochondrion** (plural = mitochondria) is a membranous, bean-shaped organelle that is the “energy transformer” of the cell. Mitochondria consist of an outer lipid bilayer membrane as well as an additional inner lipid bilayer membrane.
 
       {image:'Figure_3_2_4}
@@ -80,37 +80,37 @@
 
   /// Peroxisomes are the organelles responsible for detoxifying certain chemicals. Peroxisomes contain enzymes that transform harmful substances such as free radicals into oxygen and water.
   model Peroxisomes
-    >>>
+    >
       Humans take in all sorts of toxins from the environment and also produce harmful chemicals as byproducts of cellular processes. Cells called hepatocytes in the liver detoxify many of these toxins.
 
-    >>>
+    >
       Like lysosomes, a  **peroxisome** is a membrane-bound cellular organelle that contains mostly enzymes.
 
       {image:'Figure_3_2_5}
 
       Peroxisomes perform a couple of different functions, including lipid metabolism and chemical detoxification. In contrast to the digestive enzymes found in lysosomes, the enzymes within peroxisomes serve to transfer hydrogen atoms from various molecules to oxygen, producing hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>). In this way, peroxisomes neutralize poisons such as alcohol. In order to appreciate the importance of peroxisomes, it is necessary to understand the concept of reactive oxygen species.
 
-    --
+    -
       ROS
 
-    >>>
+    >
         Examples of ROS include the hydroxyl radical OH, H<sub>2</sub>O<sub>2</sub>, and superoxide (<math xmlns:q="http://cnx.rice.edu/qml/1.0" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:bib="http://bibtexml.sf.net/" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/cnxml"> <mrow>  <msubsup>   <mtext>O</mtext>   <mn>2</mn>   <mo>−</mo>  </msubsup>   </mrow></math>). Some ROS are important for certain cellular functions, such as cell signaling processes and immune responses against foreign substances. Free radicals are reactive because they contain free unpaired electrons; they can easily oxidize other molecules throughout the cell, causing cellular damage and even cell death. Free radicals are thought to play a role in many destructive processes in the body, from cancer to coronary artery disease.
 
-    >>>
+    >
       Peroxisomes oversee reactions that neutralize free radicals. Peroxisomes produce large amounts of the toxic H<sub>2</sub>O<sub>2</sub> in the process, but peroxisomes contain enzymes that convert H<sub>2</sub>O<sub>2</sub> into water and oxygen. These byproducts are safely released into the cytoplasm. Like miniature sewage treatment plants, peroxisomes neutralize harmful toxins so that they do not wreak havoc in the cells. The liver is the organ primarily responsible for detoxifying the blood before it travels throughout the body, and liver cells contain an exceptionally high number of peroxisomes.
 
       Defense mechanisms such as detoxification within the peroxisome and certain cellular antioxidants serve to neutralize many of these molecules. Some vitamins and other substances, found primarily in fruits and vegetables, have antioxidant properties. Antioxidants work by being oxidized themselves, halting the destructive reaction cascades initiated by the free radicals. Sometimes though, ROS accumulate beyond the capacity of such defenses.
 
-    --
+    -
       OxidativeStress
 
-    >>>
+    >
       Due to their characteristic unpaired electrons, ROS can set off chain reactions where they remove electrons from other molecules, which then become oxidized and reactive, and do the same to other molecules, causing a chain reaction. ROS can cause permanent damage to cellular lipids, proteins, carbohydrates, and nucleic acids. Damaged DNA can lead to genetic mutations and even cancer.
 
-    --
+    -
       GeneMutation
 
-    >>>
+    >
       Other diseases believed to be triggered or exacerbated by ROS include Alzheimer’s disease, cardiovascular diseases, diabetes, Parkinson’s disease, arthritis, Huntington’s disease, and schizophrenia, among many others. It is noteworthy that these diseases are largely age-related. Many scientists believe that oxidative stress is a major contributor to the aging process.
 
   /// A flagellum (plural = flagella) is an appendage larger than a cilium and specialized for cell locomotion. The only flagellated cell in humans is the sperm cell that must propel itself towards female egg cells.

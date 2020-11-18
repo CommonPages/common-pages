@@ -8,7 +8,7 @@ index: hide
     step
       head = During the COVID-19 pandemic, the adoption of masks in community settings has been controversial. Prominent public health organizations have changed their guidelines, and investigations into the efficacy of masks have not provided direct evidence of benefit outside of health care settings, though many have advocated for universal masking.
 
-      >>>
+      >
         {step:next Begin}
 
     / Background
@@ -17,10 +17,10 @@ index: hide
 
       # The WHO initially recommended that the public not wear masks in community settings unless they were symptomatic, but later recommended cloth masks for the public, despite emphasizing a lack of evidence and cautioning about potential harms.
 
-      -- see
+      - see
         Timeline.Response.WHOMaskingGuidelines
 
-      >>>
+      >
         {step:next}
 
 
@@ -33,9 +33,9 @@ index: hide
 
       # Their efficacy in either role is varies widely, depending on the choice of mask, its fit on the wearer, compliance with appropriate masking protocols, and the properties of the pathogen.
 
-      -- see
+      - see
         Prevention.Masking
-      >>>
+      >
         {step:next}
 
     / Universal Masking
@@ -44,9 +44,9 @@ index: hide
 
       # For evidence on the the efficacy of community masking as a public policy, see **Universal Masking** under the {Containment} subject:
 
-      -- see
+      - see
         Containment.UniversalMasking
-      >>>
+      >
         {step:exit}
 
   —

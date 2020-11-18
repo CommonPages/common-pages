@@ -9,7 +9,7 @@
       chem.organic.nucleotides
       cell.nucleus
 
-    >>>
+    >
       {image:'Figure_3_3_4}
 
   / DNA Base Pair
@@ -53,7 +53,7 @@
     height: 713
     image 'chromosome
 
-    >>>
+    >
       {image:'chromosome}
 
   /// A chromatid is a chromosome that has been newly copied or the copy of such a chromosome, the two of them still joined to the original chromosome by a single centromere.
@@ -86,7 +86,7 @@
     width: 1200
     height: 658
     image 'gene
-    >>>
+    >
       {image:'gene}
 
   /// A gene family is a set of several similar genes, formed by duplication of a single original gene, and generally with similar biochemical functions.
@@ -100,7 +100,7 @@
       cell.proteinsynth
 
 
-    >>>
+    >
       {image:'Figure_3_4_1}
 
   /// A gene product is the biochemical material, either RNA or protein, resulting from expression of a gene.
@@ -160,7 +160,7 @@
     # https://en.wikipedia.org/wiki/Homologous_chromosome
     <<
       Chromosome
-    >>>
+    >
       {image:'Figure_3_5_2}
 
   /// A transcription factor (TF) is a protein that controls the rate of transcription of genetic information from DNA to messenger RNA, by binding to a specific DNA sequence. The function of TFs is to regulate—turn on and off—genes in order to make sure that they are expressed in the right cell at the right time and in the right amount throughout the life of the cell and the organism.
@@ -183,7 +183,7 @@
   # /// A mutation that leads to a mutant protein that disrupts the activity of the wild-type protein in the multimer is a dominant-negative mutation. A dominant-negative mutation may arise in a human cell and provide a proliferative advantage to the mutant cell.
   # model DominantNegativeMutation
   #   # https://en.wikipedia.org/wiki/Dominance_(genetics)#Dominant-negative_mutations
-  #   >>>
+  #   >
   #     A dominant-negative mutation may arise in a human somatic cell and provide a proliferative advantage to the mutant cell, leading to its clonal expansion. For instance, a dominant-negative mutation in a gene necessary for the normal process of programmed cell death (Apoptosis) in response to DNA damage can make the cell resistant to apoptosis. This will allow proliferation of the clone even when excessive DNA damage is present. Such dominant-negative mutations occur in the tumor suppressor gene p53.
 
   /// Wild type is a term in genetics for the most common type in a natural population. It is generally applied to alleles of a gene, to contrast normal alleles with mutant alleles.
@@ -205,7 +205,7 @@
     # https://en.wikipedia.org/wiki/Phenotype
 
       # /// The phenotype of an organism is the whole set of characters (or traits) of that organism.
-    >>>
+    >
       Traits vary greatly in how much they owe to heredity (nature vs nurture). The interaction between genotype and phenotype has often been conceptualized by the following relationship:
 
       > genotype + environment → phenotype
@@ -231,7 +231,7 @@
   /// A tumor suppressor gene, or antioncogene, is a gene that protects a cell from one step on the path to cancer. When this gene mutates to cause a loss or reduction in its function, the cell can progress to cancer, usually in combination with other genetic changes.
   model TumorSuppressor
     # https://en.wikipedia.org/wiki/Tumor_suppressor
-    >>>
+    >
       The loss of these genes may be even more important than proto-oncogene/oncogene activation for the formation of many kinds of human cancer cells. Tumor suppressor genes can be grouped into categories including caretaker genes, gatekeeper genes, and landscaper genes; the classification schemes are evolving as medicine advances, learning from fields including molecular biology, genetics, and epigenetics.
 
   /// An oncovirus is a virus that can cause cancer.
@@ -267,7 +267,7 @@
   ///
   model GeneAlteration
     #
-    --
+    -
       GeneMutation
       ChromosomalAbnormality
 

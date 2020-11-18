@@ -1,7 +1,7 @@
 / Settings
 subject module Settings
   head = Reports indicate that nCoV-2 is highly prone to spread in closed, crowded, multi-use spaces -- both household and public-spaces -- which encourage prolonged close interactions with positive patients.
-  --
+  -
     GenericLocation
     Events
     EnvironmentalConditions
@@ -11,7 +11,7 @@ subject module Settings
   / Generic Location
   subject module GenericLocation
     head = Transmission of the virus is reported in multiple indoor, outdoor and other generic locations.
-    --
+    -
       IndoorLocation
       OutdoorLocation
       AnimalMarket_Farms
@@ -22,10 +22,10 @@ subject module Settings
     subject module IndoorLocation
       head = Potential of transmission of nCov-2 is high in indoor location, both household and multi-use public spaces
        # esp with poor ventilation conditions, as can be seen in various places below.
-      --
+      -
         HouseholdLocation
         MultiusePublicPlace
-      -- Indoor Tranmission (unsorted)
+      - Indoor Tranmission (unsorted)
         'Chan_et_al_2020
         'Qian_et_al_2020
         'Allen_et_al_06_19_2020
@@ -43,7 +43,7 @@ subject module Settings
         'Nwanaji-Enwerem_et_al_07_08_2020
         'Ahlawat_et_al_07_21_2020
         'Leclerc_et_al_06_05_2020
-      -- Transmission Reports (unsorted)
+      - Transmission Reports (unsorted)
         'Lewis_et_al_06_24_2020
         'Furuse_et_al_06_10_2020
         'Tobolowsky_et_al_05_01_2020
@@ -60,7 +60,7 @@ subject module Settings
       / Household Location
       subject HouseholdLocation
         head = There are numerous reports on the spread of nCov-2 in household condition within a family.
-        -- Household Transmission
+        - Household Transmission
           'Jing_et_al_2020
           'Bi_et_al_04_27_2020.!g
           'Peng-Li_et_al_2020
@@ -78,7 +78,7 @@ subject module Settings
           'Tong_et_al_03_09_2020
           'Lewis_et_al_08_16_2020
           'Burke_et_al_05_03_2020
-        -- Later Papers
+        - Later Papers
           'Wang_et_al_04_10_2020
           'Ghinai_et_al_04_17_2020
           'Park_et_al_04_23_2020
@@ -109,7 +109,7 @@ subject module Settings
         / Hospital
         subject HospitalNosocomial
           head = There are numerous reports on the spread of nCov-2 within hospital conditions.
-          --
+          -
             'Horve_et_al_06_28_2020
             'Liu_et_al_2020bb
             'Pan_et_al_2020.!c
@@ -124,11 +124,11 @@ subject module Settings
             'Guo_et_al_07_26_2020
             'Wu_et_al_05_11_2020
             'Ding_et_al_08_15_2020
-          -- Latest papers on nosocomial
+          - Latest papers on nosocomial
             'Furuse_et_al_06_10_2020
             'Wong_et_al_06_01_2020
             'Cheng_et_al_03_05_2020
-          -- Latest papers on hospitals
+          - Latest papers on hospitals
             'Furuse_et_al_06_10_2020
             'Kissler_et_al_05_08_2020
             'Ju-Kim_et_al_04_08_2020
@@ -161,10 +161,10 @@ subject module Settings
         subject NursingHomes
           head = There are numerous reports on the spread of nCov-2 in care facilities and nursing homes.
            # (--esp due to the typical older age of the inhabitants).
-          -- Longterm Care Facilities
+          - Longterm Care Facilities
             'Hoxha_et_al_07_03_2020
             'Kimball_et_al_04_03_2020
-          -- Latest papers
+          - Latest papers
             'Furuse_et_al_06_10_2020
             'Arons_et_al_03_28_2020
 
@@ -172,20 +172,20 @@ subject module Settings
         subject ShoppingPlace
           head = There are reports on the spread of nCov-2 in shopping places like stores, malls, etc
 
-          -- Stores
+          - Stores
             'Yang_et_al_03_08_2020
             'Tariq_et_al_02_20_2020
-          -- Shops
+          - Shops
             'Pung_et_al_03_28_2020
             'Yang_et_al_03_08_2020
             'Tariq_et_al_02_20_2020
             'Cai_et_al_06_26_2020
             'Yang_et_al_03_08_2020
             'Cai_et_al_06_26_2020
-          -- Medical Stores
+          - Medical Stores
             'Tariq_et_al_02_20_2020
 
-          -- Malls
+          - Malls
             'Yang_et_al_03_08_2020
             'Cai_et_al_06_26_2020
             'Zhao_et_al_06_03_2020
@@ -194,7 +194,7 @@ subject module Settings
         subject Restaurant
           head = There are reports on the spread of nCov-2 in Restaurants.
           # (--which are usually closed and crowded spaces with prolonged and close interactions and sharing food).
-          --
+          -
             'Lu_et_al_2020
             'Furuse_et_al_06_10_2020
             'Park_et_al_04_23_2020
@@ -207,14 +207,14 @@ subject module Settings
         subject Clubs
           head =  There are reports on the spread of nCov-2 in night clubs.
           # (--which are usually closed crowded spaces with prolonged and close interactions)
-          --
+          -
             'Kang_et_al_07_07_2020
 
         / Public Toilet
         subject PublicToilet
           head = There are reports on the spread of nCov-2 in facilities with public toilets and showers.
            # (-- where chances of indirect transmission through fomtes could be high).
-          -- Latest papers for toilet
+          - Latest papers for toilet
             'Döhla_et_al_06_02_2020
             'Yamagishi_et_al_05_08_2020
             'Liu_et_al_2020bb
@@ -224,18 +224,18 @@ subject module Settings
             'Kang_et_al_09_01_2020
             'Shen_et_al_09_01_2020
             'Lei_et_al_12_15_2017
-          -- PublicShower
+          - PublicShower
             'Tobolowsky_et_al_05_01_2020
 
         / Gymnasium
         subject Gymnasium
           head =  There are reports on the spread of nCov-2 in Gyms.
           # (-- with high chances of crowding, intense physical activities within closed spaces).
-          -- Gyms/ Sports/ Exercise
+          - Gyms/ Sports/ Exercise
             'Jang_et_al_05_15_2020
             'Andrade_et_al_05_07_2018
             'Brlek_et_al_06_19_2020
-          -- Latest papers for gyms
+          - Latest papers for gyms
             'Furuse_et_al_06_10_2020
             'Andrade_et_al_05_07_2018
             'Nishiura_et_al_03_03_2020
@@ -251,21 +251,21 @@ subject module Settings
         subject ShelterHomes
           head = There are reports on the spread of nCov-2 in shelter homes.
           # (--which are usually closed spaces and crowded with prolonged interactions and co-habitations.)
-          --
+          -
             'Tobolowsky_et_al_05_01_2020
 
         / Salons
         subject Salon
           head = There are reports on the spread of nCov-2 in salons and spas.
           # (--which are usually closed spaces and involve close contact with the hairdresser)
-          -- Hair salon
+          - Hair salon
             # 'Hendrix_et_al_07_14_2020
 
         / Hotels
         subject Hotel
           head = There are reports on the spread of nCov-2 in hotels.
           # (--which are usually closed spaces and normally mutli-use nature of various spaces and surfaces)
-          --
+          -
             'Tariq_et_al_02_20_2020
             'Hijnen_et_al_05_11_2020
             'Li_et_al_04_22_2020
@@ -274,14 +274,14 @@ subject module Settings
         subject ReligiousPlace
           head = There are reports on the spread of nCov-2 in multiple religious places.
           # (--which are usually closed spaces and crowded with prolonged interactions)
-          --
+          -
             Church
             Temple
-          -- Religious Gatherings/ Mass Gatherings
+          - Religious Gatherings/ Mass Gatherings
             'Thuan-Hoang_et_al_08_28_2018
             'Sassano_et_al_05_29_2020
             'Chaw_et_al_07_10_2020
-          -- Latest Papers
+          - Latest Papers
             'Pung_et_al_03_28_2020
             'Ju-Kim_et_al_04_08_2020
             'Qian_et_al_03_23_2020
@@ -289,21 +289,21 @@ subject module Settings
             'Echternach_et_al_07_24_2020
 
           subject Church
-            -- Church
+            - Church
               'Yong_et_al_04_21_2020.!a
-            -- Latest papers
+            - Latest papers
               'Pung_et_al_03_28_2020
               'Nishiura_et_al_03_03_2020
               'Leclerc_et_al_06_05_2020
               'Shim_et_al_03_17_2020
               'Tariq_et_al_02_20_2020
               'Yong_et_al_04_21_2020
-            -- Choir
+            - Choir
               'Miller_et_al_06_18_2020
               'Hamner_et_al_2020
               'Echternach_et_al_07_24_2020
           subject Temple
-            --
+            -
               'Qian_et_al_03_23_2020
               'Qian_et_al_03_17_2020
               'Shen_et_al_09_01_2020
@@ -313,7 +313,7 @@ subject module Settings
         subject OfficeSpace
           head = There are reports on the spread of nCov-2 in office spaces.
           # (--which are usually closed spaces and involve prolonged interactions.)
-          --
+          -
             'Park_et_al_04_23_2020
             'Yang_et_al_03_08_2020
             'Luoma_et_al_07_07_2008
@@ -322,17 +322,17 @@ subject module Settings
         subject SchoolCollege
           head = There are reports on the spread of nCov-2 in schools/ colleges.
            # which are usually closed spaces, crowded and involve prolonged interactions.
-          -- School transmission
+          - School transmission
             'Stein-Zamir_et_al_07_21_2020
             'Heavey_et_al_05_28_2020
             'Yung_et_al_06_25_2020
             'Levinson_et_al_07_29_2020.!a
             'Fontanet_et_al_04_23_2020
-          --
+          -
             'Feigin_et_al_1982
             'Gaffney_et_al_08_21_2020
             'Levinson_et_al_07_29_2020
-          -- College
+          - College
             'Lewis_et_al_06_24_2020
 
         / Travelling Modes
@@ -344,14 +344,14 @@ subject module Settings
           subject PublicTransportModes
             head = There are reports on the spread of nCov-2 during travelling using public transport.
             # The spread of virus is reported to be high due to co-habitation in a closed and crowded space for prolonged duration.
-            -- Public transport
+            - Public transport
               'Zhao_et_al_01_30_2020
               'Zheng_et_al_03_14_2020
-            -- Public Travel
+            - Public Travel
               'Kissler_et_al_05_08_2020
               'Zhao_et_al_06_03_2020
             subject Bus
-              --
+              -
                 'Park_et_al_04_23_2020
                 'Zheng_et_al_03_14_2020
                 'Luoma_et_al_07_07_2008
@@ -359,7 +359,7 @@ subject module Settings
                 'Shen_et_al_09_01_2020
 
             subject Train
-              --
+              -
                 'Ghinai_et_al_04_17_2020
                 'Zheng_et_al_03_14_2020
                 'Zhao_et_al_01_30_2020
@@ -368,14 +368,14 @@ subject module Settings
                 'Yu_et_al_02_18_2020
 
             subject Cruise
-              -- Cruise ship
+              - Cruise ship
                 'Xu_et_al_04_14_2020
-              -- Latest papers
+              - Latest papers
                 'Yamagishi_et_al_06_11_2020
                 'Yamagishi_et_al_05_08_2020
 
             subject Airways
-              --
+              -
                 'Lei_et_al_01_06_2020
                 'Moser_et_al_1979
                 'Olsen_et_al_2003
@@ -384,7 +384,7 @@ subject module Settings
                 'Kenyon_et_al_04_11_1996
                 'Hickman_et_al_03_22_1995
                 'Yang_et_al_03_30_2020
-              -- Latest papers on flight
+              - Latest papers on flight
                 'Olsen_et_al_12_18_2003
                 'Kenyon_et_al_04_11_1996
                 'Moser_et_al_1979
@@ -396,7 +396,7 @@ subject module Settings
                 'Yang_et_al_03_30_2020
                 'Chen_et_al_07_30_2020
                 'Lei_et_al_12_15_2017
-              -- Latest papers on airplane
+              - Latest papers on airplane
                 'Furuse_et_al_06_10_2020
                 'Kenyon_et_al_04_11_1996
                 'Moser_et_al_1979
@@ -405,14 +405,14 @@ subject module Settings
           / Private Vehicles
           subject PrivateVehicles
             head = The spread of virus is reported to be minimal in private vehicles like Car.
-            -- Car
+            - Car
               'Zhao_et_al_01_30_2020
               'Burke_et_al_05_03_2020
 
         / Meat Processing Unit
         subject MeatProcessingUnit
           head = There are reports on the spread of nCov-2 in meat processing units.
-          -- Meat Processing Plants
+          - Meat Processing Plants
             'Guenther_et_al_07_23_2020
             'Dyal_et_al_05_08_2020
 
@@ -423,9 +423,9 @@ subject module Settings
     / Outdoor Location
     subject module OutdoorLocation
       head = There is very limited evidence until now for the spread of the virus in outdoor locations, though some experts donot deny the possibility.
-      --
+      -
         Parks
-      --
+      -
         'Qian_et_al_2020.!h
 
       / Parks
@@ -439,7 +439,7 @@ subject module Settings
       / Wet Market
       subject WetMarket
         head =  There is some evidence linking the spread of the virus to Wet Markets.
-        --
+        -
           'Webster_et_al_01_17_2004
           # 'Webster_et_al_01_17_2004
           'Lai_et_al_05_21_2020
@@ -447,7 +447,7 @@ subject module Settings
       / Poultry Farm
       subject PoultryFarm
         head = Evidence of spread of the nCoV-2 through Poultry farms is yet to be reported.
-        -- Poultry
+        - Poultry
           'Dhingra_et_al_06_05_2018
 
     / Other Generic Locations
@@ -457,7 +457,7 @@ subject module Settings
       / Slum Dwellings
       subject SlumDwellings
         head = There are reports on the spread of nCov-2 in crowded human settlements like slums.
-        --
+        -
           'Corburn_et_al_04_24_2020
           'Riley_et_al_03_07_2007
           'Mahabir_et_al_09_22_2016
@@ -465,13 +465,13 @@ subject module Settings
       / Municipality
       subject Municipality
         head = There are reports on the spread of nCov-2 in urban human settlements like Municipalities.
-        -- Municipality
+        - Municipality
           'Lavezzo_et_al_04_18_2020
 
   / Events
   subject module Events
     head = There are reports on the spread of nCov-2 during certain specific events.
-    --
+    -
       Ceremonies
       Festivals
       Dinner
@@ -484,12 +484,12 @@ subject module Settings
     subject Ceremonies
       head = There are reports on the spread of nCov-2 during ceremonies and parties.
        # when people gather and have prolonged interaction in close contact.
-      -- funeral etc
+      - funeral etc
         'Ghinai_et_al_04_17_2020
         'Shen_et_al_06_12_2020
-      -- Wedding
+      - Wedding
         'Shen_et_al_06_12_2020
-      -- Parties
+      - Parties
         'Ghinai_et_al_04_17_2020
         'Shen_et_al_06_12_2020
         'Furuse_et_al_06_10_2020
@@ -500,13 +500,13 @@ subject module Settings
       head = There are reports on the spread of nCov-2 during festivals, esp of religious nature.
       # when people gather in large numbers and often in closed spaces.
       # subject ReligiousGatherings
-      --
+      -
         'Qian_et_al_03_23_2020
 
     / Dinner
     subject Dinner
       head = There are reports on the spread of nCov-2 during Dining together.
-      --
+      -
         'Ghinai_et_al_04_17_2020
         'Huang_et_al_02_28_2020
         'Qian_et_al_03_23_2020
@@ -515,7 +515,7 @@ subject module Settings
         'Hijnen_et_al_05_11_2020
         'Tong_et_al_03_09_2020
         'Shen_et_al_09_01_2020
-      -- Latest papers on dining
+      - Latest papers on dining
         'Yang_et_al_03_08_2020
         'Chen_et_al_05_10_2020
 
@@ -524,38 +524,38 @@ subject module Settings
       head = There are reports on the spread of nCov-2 during concerts and choirs.
        # where is a loud singing and cheering involved in large public gatherings.
 
-      -- Choir
+      - Choir
         'Miller_et_al_06_18_2020
         'Hamner_et_al_2020
         'Echternach_et_al_07_24_2020
 
-      -- Concert
+      - Concert
         'Furuse_et_al_06_10_2020
 
     / Formal Events
     subject FormalEvents
       head = There are reports on the spread of nCov-2 during many formal events which involve prolonged interactions in closed crowded settings.
-      -- Meetings
+      - Meetings
         'Jang_et_al_05_15_2020
         'Tariq_et_al_02_20_2020
         'Hijnen_et_al_05_11_2020
-      -- Workshop
+      - Workshop
         'Jang_et_al_05_15_2020
-      -- Business meeting
+      - Business meeting
         'Tariq_et_al_02_20_2020
 
     / Leisure Events
     subject LeisureEvents
       head = There are reports on the spread of nCov-2 during liesure events like travelling, camping etc.
        # which may have invovled prolonged interactions with close physical contatc.
-      --
+      -
         Travel
         TripsTours
 
       subject Travel
         head = There are reports on the spread of nCov-2 during travel related events.
          # with prolonged interactions in crowded spaces.
-        -- Travel
+        - Travel
           'Lu_et_al_2020
           'Kissler_et_al_05_08_2020
           'Xu_et_al_03_30_2020
@@ -584,27 +584,27 @@ subject module Settings
       subject TripsTours
         head = There are reports on the spread of nCov-2 during trips, tours, and camps.
         # , where there are chances of prolonged interactions.
-        -- Trip
+        - Trip
           'Lewis_et_al_06_24_2020
           'Shen_et_al_09_01_2020
-        -- Tour
+        - Tour
           'Tariq_et_al_02_20_2020
           'Pung_et_al_03_28_2020
-        -- Camps
+        - Camps
           'Jang_et_al_05_15_2020
           'Szablewski_et_al_08_07_2020
 
     / Superspreading Events
     subject SuperspreadingEvents
       head = Besides the above settings, There are reports on the spread of nCov-2 during some events to a large number of people.
-      >>>
+      >
         Based on studies the Wuhan market was the site of an early superspreading event.
-      -- Superspreading Events of COVID-19
+      - Superspreading Events of COVID-19
         'Hoehl_et_al_2020
         'Hamner_et_al_2020
         'Kwok_et_al_05_21_2020
         'Guenther_et_al_07_23_2020
-      -- Latest papers on Superspread
+      - Latest papers on Superspread
         'Pung_et_al_03_28_2020
         'Ju-Kim_et_al_04_08_2020
         'Nishiura_et_al_03_03_2020
@@ -615,7 +615,7 @@ subject module Settings
   / Environmental Conditions
   subject module EnvironmentalConditions
     head = Various environmental factors effect the activitity as well as the spread of the virus and the vulnerability of people to the virus.
-    --
+    -
       Ventilation
       HumidityTemperature
       AirCondition
@@ -625,7 +625,7 @@ subject module Settings
     / Ventilation
     subject Ventilation
       head = Multiple studies reported high chances of the spread of the virus in indoor spaces with poor ventilation.
-      -- Latest papers on ventilation
+      - Latest papers on ventilation
         'Lu_et_al_2020
         'Andrade_et_al_05_07_2018
         'Moser_et_al_1979
@@ -646,31 +646,31 @@ subject module Settings
     / Humidity and Temperature
     subject HumidityTemperature
       head = Though initially it was hypothesised that high temperatures could reduce the spread, there is no conclusive evidence on the effect of humidity and temperature on the activity and spread of the virus.
-      -- Humidity & Temperature dependence
+      - Humidity & Temperature dependence
         'Lin_et_al_12_30_2019
         'Qi_et_al_03_20_2020
         'Islam_et_al_03_31_2020
         'Wang_et_al_03_10_2020
         'Droegemeier_et_al_04_07_2020
         'Ahlawat_et_al_07_21_2020
-      -- Latest papers on Humid
+      - Latest papers on Humid
         'Anderson_et_al_05_01_2020
         'Ahlawat_et_al_07_21_2020
         'Casanova_et_al_04_21_2010
         'Xiao_et_al_08_05_2020
-      -- Latest papers on Temperature
+      - Latest papers on Temperature
         'Carraturo_et_al_06_09_2020
         'Tang_et_al_08_17_2006
         'Anderson_et_al_05_01_2020
         'Casanova_et_al_04_21_2010
         'Li_et_al_02_08_1999
-      -- Counter to temperature dependence
+      - Counter to temperature dependence
         'Jamil_et_al_04_19_2020
 
     / Air Conditioning
     subject AirCondition
       head = Usage of air conditioning in multiple settings is reported to enhance the spread of the virus.
-      --
+      -
         'Lu_et_al_2020
         'Stein-Zamir_et_al_07_21_2020
         'Andrade_et_al_05_07_2018
@@ -682,21 +682,21 @@ subject module Settings
     / Seasonal Variations
     subject HeatwaveSeason
       head = Seasonal factors like heat and coldness can influence the spread of the virus.
-      -- Weather Influence
+      - Weather Influence
         'want_et_at_2020
         'luo_et_al_2020
         'Moriyama_et_al_2020
         'Notari_et_al_2020
         'Ficetola_et_al_04_20_2020
-      -- Latest paper on heat wave
+      - Latest paper on heat wave
         'Stein-Zamir_et_al_07_21_2020
-      -- Latest paper on season
+      - Latest paper on season
         'Tang_et_al_08_17_2006
 
     / Particulate Matter
     subject ParticulateMatter
       head = General air pollution and the partciulate matter can worsen the general respiratory health of public making them vulnerable to COVID-19.
-      -- Air Pollution
+      - Air Pollution
         'Wu_et_al_2020c
         'Setti_et_al_04_17_2020
         'Carraturo_et_al_06_09_2020
@@ -704,7 +704,7 @@ subject module Settings
   / Other Condtions
   subject module OtherConditions
     head = Further, certain habitual or personal conditions effect the spread of the disease.
-    --
+    -
       NoMask
       NoPPE
       CulturalConditions
@@ -713,7 +713,7 @@ subject module Settings
     / No Mask
     subject NoMask
       head = Though usage of masks was not mandated for everyone intially, usage of masks is shown to reduce the spread of the virus.
-      --
+      -
         'Stein-Zamir_et_al_07_21_2020
         'Tobolowsky_et_al_05_01_2020
         'Yang_et_al_03_30_2020
@@ -723,7 +723,7 @@ subject module Settings
     / No PPE
     subject NoPPE
       head = Non usage of PPE is shown to increase the spread of the virus.
-      --
+      -
         'Ghinai_et_al_04_17_2020
 
     / Cultural Conditions
@@ -733,22 +733,22 @@ subject module Settings
       / Customs
       subject Customs
         head = Certain customs like incense burning, licking the shrine could affect the spread of the virus.
-        -- Customs, traditions and social environmental factors
+        - Customs, traditions and social environmental factors
           'Amoatey_et_al_05_12_2020
 
     / Professional Activities
     subject ProfessionalActivities
       head = Also, certain professional activities also involve specific vulnerabilities to the disease.
-      -- Police force
+      - Police force
         'Kokane_et_al_06_16_2020
-      -- Dental Practice
+      - Dental Practice
         'Izzetti_et_al_04_17_2020
         'Peng_et_al_03_03_2020
 
   / Geographic Location
   subject module GeographicLocation
     head = This is a list of reports of the spread of the virus in multiple locations across the world.
-    --
+    -
       WuhanHospital
       China
       India
@@ -762,7 +762,7 @@ subject module Settings
     / Wuhan Hospital
     subject WuhanHospital
       head = There are reports on the spread of nCov-2 in and around Wuhan Hospital.
-      --
+      -
         'Chan_et_al_2020
         'Liu_et_al_2020bb
         'Guo_et_al_07_26_2020
@@ -770,7 +770,7 @@ subject module Settings
     / China
     subject China
       head = There are reports on the spread of nCov-2 in China.
-      --
+      -
         'Wang_et_al_04_10_2020
         'Lu_et_al_2020
         'Xu_et_al_03_30_2020
@@ -802,7 +802,7 @@ subject module Settings
     / USA
     subject TheUS
       head = There are reports on the spread of nCov-2 in the US.
-      --
+      -
         'Tobolowsky_et_al_05_01_2020
         'Kang_et_al_07_07_2020
         # 'Hendrix_et_al_07_14_2020
@@ -815,7 +815,7 @@ subject module Settings
     / South Korea
     subject SouthKorea
       head = There are reports on the spread of nCov-2 in South Korea.
-      --
+      -
         'Park_et_al_04_23_2020
         'Ju-Kim_et_al_04_08_2020
         'Jang_et_al_05_15_2020
@@ -829,7 +829,7 @@ subject module Settings
     / Japan
     subject Japan
       head = There are reports on the spread of nCov-2 in Japan.
-      --
+      -
         'Furuse_et_al_06_10_2020
         'Yamagishi_et_al_06_11_2020
         'Nishiura_et_al_03_03_2020
@@ -839,7 +839,7 @@ subject module Settings
     / Singapore
     subject Singapore
       head = There are reports on the spread of nCov-2 in Singapore.
-      --
+      -
         'Pung_et_al_03_28_2020
         'Kwok_et_al_05_21_2020
         'Tariq_et_al_02_20_2020
@@ -852,5 +852,5 @@ subject module Settings
     / Taiwan
     subject Taiwan
       head = There are reports on the spread of nCov-2 in Taiwan.
-      --
+      -
         'Liu_et_al_03_12_2020

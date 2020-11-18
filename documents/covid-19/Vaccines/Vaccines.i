@@ -9,17 +9,17 @@ subject module Vaccines
     / RNA Vaccine
     subject RNAVaccine
       head = RNA vaccines work by introducing an mRNA sequence (the molecule which tells cells what to build) which is coded for a disease specific antigen, once produced within the body, the antigen is recognised by the immune system, preparing it to fight the real thing. RNA vaccines are faster and cheaper to produce than traditional vaccines, and a RNA based vaccine is also safer for the patient, as they are not produced using infectious element.
-      --
+      -
         'Amanat_et_al_2020b.!a
         'Amanat_et_al_2020b.!b
         'Erasmus_et_al_05_28_2020
-      -- BNT162b1
+      - BNT162b1
         'Mulligan_et_al_07_06_2020
 
     / DNA Vaccine
     subject DNAVaccine
       head = DNA vaccines are third generation vaccines. They contain DNA that codes for specific proteins (antigens) from a pathogen. The DNA is injected into the body and taken up by cells, whose normal metabolic processes synthesize proteins based on the genetic code in the plasmid that they have taken up. Because these proteins contain regions of amino acid sequences that are characteristic of bacteria or viruses, they are recognized as foreign and when they are processed by the host cells and displayed on their surface, the immune system is alerted, which then triggers immune responses.  DNA vaccines could generate broad immune responses, similar to the live-attenuated virus platform, without the need for a replicating pathogen.
-      --
+      -
         'Amanat_et_al_2020b.!c
         'Amanat_et_al_2020b.!d
         'Smith_et_al_02_25_2020
@@ -31,7 +31,7 @@ subject module Vaccines
     subject RecombinantProtienVaccine
       head = A recombinant vaccine are subunit vaccines, consisting of specific protein antigens or recombinant protein components (S-protien). They can generate TH and antibody responses, but not killer T cell responses. These vaccines use a harmless virus as a carrier, to introduce genetic material into cells, stimulates an immune response, expressing the antigen in these cells and then purifying it from them.
       # NIAID-supported scientists have been developing and evaluating recombinant vectored vaccines to protect humans from viruses such as HIV, Zika virus and Ebola virus.
-      --
+      -
         'Amanat_et_al_2020b.!e
         'Amanat_et_al_2020b.!f
 
@@ -39,24 +39,24 @@ subject module Vaccines
     subject ViralVector
       head = Viral vector vaccines use live viruses to carry DNA into human cells. The DNA contained in the virus encodes antigens that, once expressed in the infected human cells, elicit an immune response. Viral vector-based vaccines present advantages over traditional vaccines in that they can enhance immunogenicity without an adjuvant and induce a robust cytotoxic T lymphocyte (CTL) response to eliminate virus-infected cells.
       # For some diseases Viral vectors are used in combination with other vaccine technologies in a strategy called heterologous prime-boost. In this system, one vaccine is given as a priming step, followed by vaccination using an alternative vaccine as a booster. The heterologous prime-boost strategy aims to provide a stronger overall immune response. Viral vector vaccines are being pursued as both prime and boost vaccines as part of this strategy.
-      --
+      -
         'Amanat_et_al_2020b.!g
         'Amanat_et_al_2020b.!h
-      -- ChAdOx1
+      - ChAdOx1
         'Graham_et_al_06_20_2020
         'Doremalen_et_al_05_13_2020
 
     / Live Attenuated Vaccine
     subject LiveAttennuated
       head = Advances in tissue culture techniques in the 1950s enabled development of live-attenuated vaccines, which use active viruses that have been cultivated under conditions that disable their virulent properties, or that use closely related but less dangerous organisms to produce a broad immune response. The measles, mumps and rubella (MMR) vaccine is one example. They typically provoke more durable immunological responses that can confer life-long immunity after only one or two doses and are the preferred type for healthy adults. But they may not be safe for use in immunocompromised individuals, and on rare occasions mutate to a virulent form and cause disease.
-      --
+      -
         'Amanat_et_al_2020b.!i
         'Amanat_et_al_2020b.!j
 
     / Inactivated Vaccine
     subject InactivatedVaccine
       head = Some vaccines contain inactivated, but previously virulent, micro-organisms that have been destroyed with chemicals, heat, or radiation. Scientists first described the ability of inactivated, or killed, microbes to induce immunity in the 19th century.
-      --
+      -
         'Gao_et_al_2020
         'Amanat_et_al_2020b.!k
         'Amanat_et_al_2020b.!l
@@ -67,7 +67,7 @@ subject module Vaccines
 
       subject BCG
         head = Assertions have been made that COVID‑19 mortality has been lower in countries having routine BCG vaccine administered against tuberculosis, though the World Health Organization (WHO) has said there is no evidence that this vaccine is effective against the COVID-19 virus. BCG vaccination has been reported to decrease susceptibility to respiratory tract infections, an effect proposed to be mediated by the general long-term boosting of innate immune mechanisms, also termed trained immunity. There are on-going clinical trials to study the whether the effects of BCG may afford protection to COVID-19.
-        --
+        -
           'Berg_et_al_2020
           'Arts_et_al_2020
           'Darrah_et_al_2020
@@ -79,18 +79,18 @@ subject module Vaccines
           'ONeill_et_al_2020
           'Rousseau_et_al_06_20_2020
           'Sharma_et_al_07_08_2020
-        -- Counter
+        - Counter
           'Hamiel_et_al__05_13_2020
 
       subject MMR
         head = There is ongoing randomized placebo-controlled trial to test whether measles-mumps-rubella (MMR) vaccine can protect healthcare workers from COVID-19.
-        --
+        -
           'Franklin_et_al_2020
 
   / Frontiers
   subject Vaccinefrontiers
     head =
-    --
+    -
       'Wu_et_al_2020b
       'Kames_et_al_2020
       'Peeples_et_al_2020

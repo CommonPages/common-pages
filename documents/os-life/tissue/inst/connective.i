@@ -19,10 +19,10 @@ model DenseConnectiveTissue
 model AdiposeTissue
   # https://en.wikipedia.org/wiki/Adipose_tissue
 
-  >>>
+  >
     The two types of adipose tissue are white adipose tissue (WAT), which stores energy, and brown adipose tissue (BAT), which generates body heat.
 
-  --
+  -
     WAT
     BAT
 

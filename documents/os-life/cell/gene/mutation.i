@@ -16,15 +16,15 @@ model GeneMutation
 
   # https://en.wikipedia.org/wiki/File:Chromosomes_mutations-en.svg
 
-  --
+  -
     DominantMutation
     RecessiveMutation
 
   # https://ghr.nlm.nih.gov/primer/mutationsanddisorders/possiblemutations
-  >>>
+  >
     The DNA sequence of a gene can be altered in a number of ways. Gene mutations have varying effects on health, depending on where they occur and whether they alter the function of essential proteins.
 
-  -- Types
+  - Types
     Substitution
     Insertion
     Deletion
@@ -36,7 +36,7 @@ model GeneMutation
 /// A point mutation or substitution is a genetic mutation where a single nucleotide base is changed, inserted or deleted from a sequence of DNA or RNA.
 model Substitution
   # https://en.wikipedia.org/wiki/Point_mutation
-  --
+  -
     Missense
     Nonsense
 
@@ -44,16 +44,16 @@ model Substitution
 /// A missense mutation is a change in one DNA base pair that results in the substitution of one amino acid for another in the protein made by a gene.
 model Missense
   # https://ghr.nlm.nih.gov/primer/mutationsanddisorders/possiblemutations
-  >>>
+  >
     {image:'Missense}
   # https://en.wikipedia.org/wiki/Missense_mutation
 
 /// A nonsense mutation is a change in one DNA base pair that results in a shortened protein that may function improperly or not at all.
 model Nonsense
   # https://ghr.nlm.nih.gov/primer/mutationsanddisorders/possiblemutations
-  >>>
+  >
     Instead of substituting one amino acid for another, the altered DNA sequence prematurely signals the cell to stop building a protein.
-  >>>
+  >
     {image:'Nonsense}
 
   # https://en.wikipedia.org/wiki/Nonsense_mutation
@@ -61,35 +61,35 @@ model Nonsense
 /// An insertion changes the number of DNA bases in a gene by adding a piece of DNA. As a result, the protein made by the gene may not function properly.
 model Insertion
   # https://ghr.nlm.nih.gov/primer/mutationsanddisorders/possiblemutations
-  >>>
+  >
     {image:'Insertion}
 
 /// A deletion changes the number of DNA bases by removing a piece of DNA. The deleted DNA may alter the function of the resulting protein(s).
 model Deletion
   # https://ghr.nlm.nih.gov/primer/mutationsanddisorders/possiblemutations
-  >>>
+  >
     Small deletions may remove one or a few base pairs within a gene, while larger deletions can remove an entire gene or several neighboring genes.
-  >>>
+  >
     {image:'Deletion}
 
 /// A duplication consists of a piece of DNA that is abnormally copied one or more times. This type of mutation may alter the function of the resulting protein.
 model Duplication
   # https://ghr.nlm.nih.gov/primer/mutationsanddisorders/possiblemutations
-  >>>
+  >
     {image:'Duplication}
 
 /// A frameshift mutation occurs when the addition or loss of DNA bases changes a gene's reading frame. The resulting protein is usually nonfunctional. Insertions, deletions, and duplications can all be frameshift mutations.
 model FrameshiftMutation
   # https://ghr.nlm.nih.gov/primer/mutationsanddisorders/possiblemutations
-  >>>
+  >
     A reading frame consists of groups of 3 bases that each code for one amino acid. A frameshift mutation shifts the grouping of these bases and changes the code for amino acids.
-  >>>
+  >
     {image:'Frameshift}
 
 /// Nucleotide repeats are short DNA sequences that are repeated a number of times in a row. A repeat expansion is a mutation that increases the number of times that the short DNA sequence is repeated.
 model RepeatExpansion
   # https://ghr.nlm.nih.gov/primer/mutationsanddisorders/possiblemutations
-  >>>
+  >
     {image:'RepeatExpansion}
 
 ///
@@ -132,7 +132,7 @@ model Indel
     Insertion
     Deletion
 
-  >>>
+  >
     Indels can be contrasted with a {Substitution point mutation}. An indel inserts and deletes nucleotides from a sequence, while a point mutation is a form of substitution that replaces one of the nucleotides without changing the overall number in the DNA.
 
 
@@ -145,13 +145,13 @@ model Indel
 # /// An insertion mutation is the addition of one or more nucleotide base pairs into a DNA sequence.
 # model Insertion
 #   # https://en.wikipedia.org/wiki/Insertion_(genetics)
-#   >>>
+#   >
 #     Insertions can be anywhere in size from one base pair incorrectly inserted into a DNA sequence to a section of one chromosome inserted into another.
 #
 # /// A deletion mutation is a mutation in which a part of a chromosome or a sequence of DNA is lost during DNA replication.
 # model Deletion
 #   # https://en.wikipedia.org/wiki/Deletion_(genetics)
-#   >>>
+#   >
 #     Any number of nucleotides can be deleted, from a single base to an entire piece of chromosome.
 
 # /// A frameshift mutation is a genetic mutation caused by insertions or deletions of a number of nucleotides in a DNA sequence that is not divisible by three. Due to the triplet nature of gene expression by codons, the insertion or deletion can change the reading frame (the grouping of the codons), resulting in a completely different translation from the original.

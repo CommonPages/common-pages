@@ -3,7 +3,7 @@ stub:
 / News Feed
 feed News
 
-  -- March, 2020
+  - March, 2020
     'Harvard_2020
 
   // Food safety, nutrition, and wellness during COVID-19
@@ -11,7 +11,7 @@ feed News
   ref 'Harvard_2020
     head = As we navigate these unprecedented times, many are wondering how to safely shop, order, and prepare food to minimize transmission of the novel coronavirus.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c

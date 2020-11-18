@@ -2,7 +2,7 @@
 / Anatomy and Physiology
 /// Anatomy is the scientific study of the body’s structures. Physiology uses chemistry and physics to explain how the structures of the body work together to maintain life.
 model AP
-  >>>
+  >
     Human anatomy is the scientific study of the body’s structures. Human physiology is the scientific study of the chemistry and physics of the structures of the body. Physiology explains how the structures of the body work together to maintain life. It is difficult to study structure (anatomy) without knowledge of function (physiology). The two disciplines are typically studied together because form and function are closely related in all living things.
 
 /// Histology, also known as microscopic anatomy or microanatomy, is the branch of biology which studies the microscopic anatomy of biological tissues. Histology is the microscopic counterpart to gross anatomy which looks at larger structures visible without a microscope.

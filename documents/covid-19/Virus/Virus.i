@@ -2,7 +2,7 @@
 subject module Virus
   head = SARS-CoV-2 is a highly infectious RNA virus with many structural similarities to its predecessors. The virus is viable in heavy droplets and aerosols, though the duration of viability in aerosols—i.e., the extent to which it is “airborne”—is disputed. There is evidence of genetic diversity in SARS-CoV-2, but substantive differences between strains are not yet clear.
 
-  --
+  -
     Structure
     Entry
     Shedding
@@ -14,22 +14,22 @@ subject module Virus
   subject Structure
     head = Like other coronaviruses, SARS-CoV-2 has four structural proteins, known as the Spike, Envelope, Membrane, and Nucleocapsid proteins, as well as 16 to 17 non-structural proteins (ns1 to ns17).
 
-    # >>>
+    # >
     #   {image-left:'Figure_Virus_Structure}
 
     let *viral_envelope mean *ViralEnvelope
 
-    --
+    -
       !StructuralProtein
       !SpikeProtein
       !NonStructuralProteins
 
     claim !StructuralProtein = SARS-CoV-2 has four structural proteins, known as the S, E, M, and N proteins (spike, envelope, membrane, and nucleocapsid). The N protein holds the RNA genome, and the S, E, and M proteins together create the *viral_envelope.
-      --
+      -
         'Domling_et_al_05_20_2020
 
     claim !SpikeProtein = The Spike Protein allows SARS-CoV-2 to attach and fuse with the membrane of a host cell; specifically, its S1 subunit catalyzes attachment, the S2 subunit fusion.
-      --
+      -
         'Walls_et_al_2020
         'Wrapp_et_al_2020
         'Coutard_et_al_2020
@@ -37,7 +37,7 @@ subject module Virus
         'Anderson_et_al_2020.!c
 
     claim !NonStructuralProteins = The SARS-CoV-2 genome encodes 16–17 non-structural proteins (ns1 to ns17), such as 3-chymotrypsin-like protease (3CLpro), papain-like protease (PLpro), helicase, and RNA-dependent RNA polymerase (RdRp).
-      --
+      -
         'Gao_et_al_2020b
         'Hillen_et_al_05_15_2020
 
@@ -45,7 +45,7 @@ subject module Virus
   subject Entry
     head = SARS-CoV-2 enters the human body primarily through the nose and mouth. Entry to cells follows a pattern similar to SARS-CoV; the virus binds to the ACE2 receptor and the target cell's protease TMPRSS2 cuts open the virus' spike protein.
 
-    --
+    -
       !RespiratoryTransmission
       !OcularTransmission
       !CellEntry
@@ -54,29 +54,29 @@ subject module Virus
       !Temperature
 
     claim !RespiratoryTransmission = SARS-CoV-2 primarily enters the human body through the nose and mouth.
-      --
+      -
         'Sungnak_et_al_04_23_2020
         'Gengler_et_al_02_20_2020
         'Gengler_et_al_02_20_2020.!a
 
     claim !OcularTransmission = Entry of SARS-CoV-2 to the human body via the eyes (ocular transmission) is still unclear. It is hypothesized to occur via drainage of virus‐laden tears into the nasal cavity through the nasolacrimal duct.
-      --
+      -
         'Ho_et_al_06_16_2020
         'Sun_et_al_03_24_2020
         'Sun_et_al_03_24_2020.!a
 
     claim !CellEntry = Once in the body, SARS-CoV-2 enters human cells by binding to the ACE2 receptor. After a SARS-CoV-2 virion attaches to a target cell, the cell's protease TMPRSS2 cuts open the spike protein of the virus, exposing a fusion peptide in the S2 subunit, and the host receptor ACE2.
-      --
+      -
         'Hoffman_et_al_2020
         'Matsuyama_et_al_2020
         'Wan_et_al_2020
 
     claim !Replication = After the SARS-CoV-2 spike protein is cut, its virion releases RNA into the cell and forces the cell to produce and disseminate copies of the virus, which infect more cells.
-      --
+      -
         'Figure_Virus_Replication
 
     claim !OrganEntry = SARS-CoV-2 may enter the central nervous system through the ACE-2 receptor, invading organs, including the brain.
-      --
+      -
         'Chen_et_al_05_19_2020
         'Puelles_et_al_05_13_2020
         'Meinhardt_et_al_06_04_2020
@@ -89,20 +89,20 @@ subject module Virus
     #     'Daly_et_al_06_05_2020
 
     claim !Temperature = In contrast to SARS-CoV, SARS-CoV-2 replicates more efficiently at temperatures encountered in the upper respiratory tract, and displays higher sensitivity to type I and type III IFNs.
-      --
+      -
         'Vkovski_et_al_2020
 
   / Viral Load and Shedding
   subject Shedding
     head = SARS-CoV-2 actively replicates in the upper respiratory tract. Shedding begins prior to symptom onset, and may continue for a prolonged time after symptoms end, including in stool.
 
-    --
+    -
       !Load
       !Resp
       !Others
 
     claim !Load = The highest viral load during a SARS-CoV-2 infection is observed in throat swabs at the time of symptom onset, suggesting that infectiousness peaks on or before symptom onset.
-      --
+      -
         'Benefield_et_al_09_30_2020
         'Liu_et_al_2020c
         'Joynt_et_al_2020.!a
@@ -120,7 +120,7 @@ subject module Virus
 
 
     claim !Resp = Viral RNA can be detected in the upper respiratory tract long after the disappearance of infectious virus.
-      --
+      -
         'Woelfel_et_al_2020
         'Atkinson_et_al_2020
         'He_et_al_2020.!b
@@ -131,7 +131,7 @@ subject module Virus
         'Benefield_et_al_09_30_2020
 
     claim !Others = Some studies have found SARS-CoV-2 in feces and semen, though the research on its infectiousness is still ongoing.
-      --
+      -
         'Li_et_al_2020d
         'Wu_et_al_2020d
         'Pan_et_al_2020b.!f
@@ -143,7 +143,7 @@ subject module Virus
   / Viability
   subject Viability
 
-    --
+    -
       Droplets
       Fomite
       Aerosol
@@ -152,18 +152,18 @@ subject module Virus
     / Aerosol
     subject Aerosol
 
-      >>>
+      >
         SARS-CoV-2 has been found to be viable on aerosols and can stay floating in the air for minutes to hours.
-      >>>
+      >
         the sizes of the aerosols and the amount of the virus exhaled vary with the stage of infection and from person to person. They also vary with individual activity, with many fewer from breathing and many more from talking, singing, shouting and (very likely) aerobic exercise.
 
-      >>>
+      >
         Temperature and Humidity can have an effect on survival of virus in the air
 
-      # >>>
+      # >
       #   How long virus can stay in the air depends upon indoor environment. It can stay longer in closed low ventilated space. 
 
-      -- Viability
+      - Viability
         'van_Doremalen_et_al_2020
         'van_Doremalen_et_al_2020.!a
         'Lu_et_al_2020
@@ -171,7 +171,7 @@ subject module Virus
         'Johnson_et_al_06_21_2011
         'Doremalen_et_al_03_17_2020
         'Guo_et_al_07_26_2020
-      -- Aerosol Transmission
+      - Aerosol Transmission
         'Allen_et_al_05_06_2020
         'Lednicky_et_al_05_22_2020
         'Asadi_et_al_2019
@@ -183,7 +183,7 @@ subject module Virus
         # add quotes
         'Liu_et_al_2020bb
         'Ahlawat_et_al_07_21_2020
-      -- Latest papers on Aerosol
+      - Latest papers on Aerosol
         # add quotes
         'Santarpia_et_al_07_2020
         # Edit head
@@ -206,7 +206,7 @@ subject module Virus
         'Fears_et_al_04_18_2020
         # Check and redo this paper again
         'Milton_et_al_07_24_2020
-      -- Mechanism/ Common pathogen exchange pathways and mechanisms
+      - Mechanism/ Common pathogen exchange pathways and mechanisms
         'Wang_et_al_04_05_2011
         'Morawska_et_al_06_09_2006
         'Jankovic_et_al_06_25_2020
@@ -217,12 +217,12 @@ subject module Virus
         'Bourouiba_et_al_03_26_2020
         'Jones_et_al_08_25_2020
         'Luoma_et_al_07_07_2008
-      -- Airborne Transmission
+      - Airborne Transmission
         'Chia_et_al_05_29_2020
         'Ma_et_al_06_02_2020
         'Richard_et_al_07_08_2020
         'Jayaweera_et_al_06_10_2020.!a
-      -- Latest papers on Airborne
+      - Latest papers on Airborne
         'Wang_et_al_04_05_2011
         'Holmberg_et_al_05_19_2003
         'Asadi_et_al_2019
@@ -234,7 +234,7 @@ subject module Virus
         'Chen_et_al_08_01_2020
         'Chia_et_al_05_29_2020
         'Ma_et_al_06_02_2020
-      -- Dispute not Airborne
+      - Dispute not Airborne
         'Cheng_et_al_06_08_2020
         'Carraturo_et_al_06_09_2020
         'Wu_et_al_05_11_2020
@@ -242,23 +242,23 @@ subject module Virus
     / Feces
     subject Feces
       head = SARS-CoV-2 has been detected on feces but the infectiousness of it is unclear. Flushing a toilet can generate aerosol. Certain kinds of toilet can generate more aerosols. It is also possible for fecal aerosols to spread through the plumbing system. SARS-CoV-2 has also been detected on wastewater and sewage.
-      -- Viability of Feces
+      - Viability of Feces
         'Xiao_et_al_05_18_2020
         'Wu_et_al_2020d
         'Ong_et_al_03_04_2020
-      -- Viability of Fecal Aerosolization
+      - Viability of Fecal Aerosolization
         'Ding_et_al_08_15_2020
       # plumbing system - fecal aerosols
         'Kang_et_al_09_01_2020
         'Lin_et_al_01_26_2017
         'Johnson_et_al_10_05_2012
       # Flushing
-      -- Aerosol Toilet
+      - Aerosol Toilet
         'Lai_et_al_07_06_2017
         'Best_et_al_12_05_2011
         'Barker_et_al_06_16_2005
         'Johnson_et_al_10_08_2012
-      -- Environment (Sewage and Wastewater)
+      - Environment (Sewage and Wastewater)
         'Carraturo_et_al_06_09_2020
         'Hoseinzadeh_et_al_07_09_2020
         'Cahill_et_al_06_11_2020
@@ -266,7 +266,7 @@ subject module Virus
     / Fomite
     subject Fomite
       head = Viable viruses have been detected on various surfaces. SARS-CoV-2 can be stable in favorable environmental conditions and can last for several hours.
-      --
+      -
         'van_Doremalen_et_al_2020
         'van_Doremalen_et_al_2020.!b
         'van_Doremalen_et_al_2020.!c
@@ -290,22 +290,22 @@ subject module Virus
     subject Droplets
       head = Viable viruses have been detected on respiratory droplets. The size of the droplet and amount of virus contained in the droplet varies from person to person. They also vary with individual activity. Sneezing and Coughing produces more droplets than speech. Viable droplets have been found to travel more than 2m (6 feet).
 
-      -- Speech (Speaking Loud)
+      - Speech (Speaking Loud)
         'Anfinrud_04_06_2020
         'Anfinrud_et_al_04_15_2020
         'Gralton_et_al_08_19_2013
         'Papineni_et_al_01_30_2009
-      -- Sneezing and Coughing
+      - Sneezing and Coughing
         'Jayaweera_et_al_06_10_2020
         'Duguid_et_al_05_15_2009
         'Gralton_et_al_08_19_2013
         'Bourouiba_et_al_04_25_2004
         'Papineni_et_al_01_30_2009
-      -- Travelling Distance
+      - Travelling Distance
         'Bahl_et_al_04_16_2020
         'Bourouiba_et_al_03_26_2020
         'Bourouiba_et_al_08_25_2016
-      -- Host Mechanism
+      - Host Mechanism
         'Morawska_et_al_11_18_2008.!a
         'Scharfman_et_al_01_20_2016
 
@@ -315,24 +315,24 @@ subject module Virus
     head = SARS-CoV-2 has acquired mutations capable of substantially changing its pathogenicity. To date, a more infectious SARS-CoV-2 variant with spike protein variant G614 has replaced D614 as the dominant form in the pandemic.
     #  All genome [Sequence](https:www.google.com)
 
-    --
+    -
       !BatSimilarity
       !Pathogenicity
       !Diversity
       !G614
 
     claim !BatSimilarity = A number of studies have proposed similarities between SARS-CoV-2 and known existing bat-borne coranaviruses.
-      --
+      -
         'Lu_et_at_2020
         'Benvenuto_et_al_2020
 
     claim !Pathogenicity = At least one study has suggested that there is evidence of change in SARS-CoV-2's pathogenicity (its ability to cause disease).
-      --
+      -
         'Yao_et_al_04_23_2020
         'Yao_et_al_04_23_2020.!a
 
     claim !Diversity = Multiple studies have shown genetic diversity within the SARS-CoV-2 strain, without yet establishing functional differences among the discovered variants.
-      --
+      -
         'Phan_et_al_2020b
         'Paraskevis_et_al_2020
         'Dorp_et_al_06_30_2020
@@ -343,14 +343,14 @@ subject module Virus
         'Bhattacharyya_et_al_2020
 
     claim !G614 = In July 2020, scientists report that a more infectious SARS-CoV-2 variant with spike protein variant G614 has replaced D614 as the dominant form in the pandemic.
-      --
+      -
         'Korber_et_al_07_03_2020
 
   # / Tranmission
   # subject module Transmission
   #   head = ABC
   #
-  #   >>>
+  #   >
   #     Human-to-human transmission of SARS-CoV-2 has been confirmed. Transmission occurs primarily via respiratory droplets from coughs and sneezes. Indirect contact via contaminated surfaces is another possible cause of infection.
   #   --
   #     Routes
@@ -375,9 +375,9 @@ subject module Virus
   #   / Routes
   #   subject module Routes
   #     head = Human to Human contact and Indirect contact via contaminated surfaces is cause of infection. Faecal-oral and Aerosol routes are also suspected to transmit the virus.
-  #     >>>
+  #     >
   #       Human to Human contact and Indirect contact via contaminated surfaces is cause of infection. Faecal-oral and Aerosol routes are also suspected to transmit the virus. {ViralShedding Shedding} of SARS Cov-2 can happen in multiple modes, and all these can be potential route of transmission of the virus.
-  #     >>>
+  #     >
   #       Viral RNA can be detected long after the disappearance of infectious virus. However, if these are infectious is yet to be established.
   #     --
   #       SurfaceTransmission
@@ -390,9 +390,9 @@ subject module Virus
   #     / Surface Transmission
   #     subject SurfaceTransmission
   #       head =  SARS CoV-2 can be transmitted to a human when s/he touches his/her face after touching a {ContaminatedSurface contaminated surface}.
-  #       >>>
+  #       >
   #         This potential is high especially pronounced among surfaces which are frequently touched by a wide range of people.
-  #       >>>
+  #       >
   #          Research indicates that the virus may remain viable on plastic and stainless steel for up to 3 days, on cardboard for upto 1 day and on copper for about 4 hours.
   #
   #       -- Neutral (later refine)
@@ -416,7 +416,7 @@ subject module Virus
   #         'Carraturo_et_al_06_09_2020
   #         'Guo_et_al_07_26_2020
   #       # Counter for viability / Stability
-  #       >>>
+  #       >
   #         Whereas there are arguments which call such studies exaggerated  as these were in lab-based conditions and far from real-life conditions.
   #       --
   #         'Goldman_et_al_07_03_2020
@@ -490,7 +490,7 @@ subject module Virus
   #     / Fecal Transmission
   #     subject FaecalTransmission
   #       head = Viral RNA has been found in stool samples of infected individuals. However, these being infectious is yet to be established conclusively.
-  #       >>>
+  #       >
   #         Aerosolization through toilet flushing can possibly transmit the virus. For more refer {AerosolTransmission.AerosolToilet}
   #       --
   #         'Xiao_et_al_05_18_2020
@@ -808,7 +808,7 @@ subject module Virus
   #     head = People can transmit the virus without showing symptoms, but it is unclear how often this happens.
   #
   #     # Distinction between pre-symptomatic vs asymptomatic... Link AsymptomaticPhase...
-  #     >>>
+  #     >
   #       By speech, touching your face, contact
   #     --
   #       'Nishiura_et_al_2020
@@ -827,7 +827,7 @@ subject module Virus
   #   subject Superspreaders
   #     head = Superspreaders are particular types of people and particular events/congregations which are highly probable to spread the infection very widely.
   #
-  #     >>>
+  #     >
   #       Previous studies on superspeading events.
   #     # foundational concept
   #     --
@@ -845,14 +845,14 @@ subject module Virus
   #         'Wang_et_al_2005.!h
   #       -- Superspreading in TB
   #         'Kline_et_al_1995
-  #     >>>
+  #     >
   #       Based on studies the Wuhan market was the site of an early superspreading event.
   #     -- Superspreading Events of COVID-19
   #       'Hoehl_et_al_2020
   #       'Hamner_et_al_2020
   #       'Kwok_et_al_05_21_2020
   #       'Guenther_et_al_07_23_2020
-  #     >>>
+  #     >
   #       Subsequent research also shows evidence of 20/80 rule of transmission. Model studies have emphasized to include to transmission heterogeneity to accurately portray pathogen dynamics.
   #
   #     -- Overdispersion & 80/20 Rule of COVID-19
@@ -878,7 +878,7 @@ subject module Virus
   #       'Bi_et_al_04_27_2020.!n
   #       'Shim_et_al_03_17_2020
   #       'Tariq_et_al_02_20_2020
-  #     >>>
+  #     >
   #       Dispersion factor k number indicates how often an illness occurs and where potential clusters appear. As with the rate of R, it's better to have a low value for k. That would indicate that the potential for distribution is small and the infection can be traced back to a few people or even a single person. But scientists have yet to work out the dispersion factor k for the novel coronavirus.
   #     # Overdispersion & 80/20 Rule of COVID-19 correlates with superspreading
   #     --

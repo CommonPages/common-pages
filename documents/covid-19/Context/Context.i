@@ -3,7 +3,7 @@
 model module Foundations
   head = Coronaviruses are a group of related viruses that cause respiratory infections that can range from mild to lethal. SARS-CoV-2 is a coronavirus that causes the respiratory and vascular disease COVID-19. Research into SARS-CoV-2 and COVID-19 applies concepts from many disciplines; particularly: virology, immunology, epidemiology and public health.
 
-  --
+  -
     Virology
     Immunology
     Epidemiology
@@ -23,77 +23,77 @@ model module Foundations
     import $os-life.system as *organ_system
     import $os-life.organism as *organism
 
-    >>>
+    >
       Life processes of are maintained at several levels of {*structural_organization}. For humans and many other organisms, these include the {*chemical}, {*cellular}, {*tissue}, organ, {*organ_system}, and finally the {*organism} level.
-    --
+    -
       *Organism
-    >>>
+    >
       Among the most essential {*properties_of_life} is the ability of an organism to {*reproduce}, or **replicate**.
-    --
+    -
       *Replication
-    >>>
+    >
       For all life on earth, the story of replication begins at the {*chemical} level, with a molecule called **DNA**.
-    --
+    -
       *DNA
-    >>>
+    >
       DNA carries all the instructions required to create the material to construct an organism. Throughout the life of all organisms, from cells to human beings, the information represented by DNA is copied to another class of molecule known as **RNA**.
-    --
+    -
       *RNA
-    >>>
+    >
       While DNA merely represents information, RNA is used directly to construct **proteins**, the essential material of all living things.
-    --
+    -
       *Protein
-    >>>
+    >
       Most forms of life are based on cells, and for most organisms the process copying of DNA to RNA and the subsequent production of proteins all happens within individual cells. This process is called **protein synthesis**.
-    --
+    -
       *ProteinSynthesis
-    >>>
+    >
       Not all life is based on cells. However, this process applies in some form to all organisms- even the smallest, known as **microorganisms**.
-    --
+    -
       *Microorganism
-    >>>
+    >
       When a microorganism lives inside another organism, it is called a **pathogen**.
-    --
+    -
       *Pathogen
-    >>>
+    >
       When an organism contains a pathogen, the larger organism is called a **host**.
-    --
+    -
       *Host
-    >>>
+    >
       When pathogens invade a host, the host may experience an **infection**.
-    --
+    -
       *Infection
-    >>>
+    >
       Any organism can in theory become a host to a pathogen. When a pathogen can only replicate within a cellular host, it's called a **virus**.
-    --
+    -
       *Virus
-    >>>
+    >
       Viruses consist of a core of genetic material, either DNA or RNA, surrounded by a protective coat made of protein.
 
       Unlike most living things, viruses do not have cells that divide; new viruses assemble only in the infected host cell, by hijacking the host cell's own protein synthesis process. The virus "tricks" the cell into following its own genetic instructions, rather than the genetic instructions of the host cell. The cell then replicates the virus' own genetic material, and synthesizes proteins required for the entire virus to replicate.
 
       Viruses that have their own DNA hijack the host cell's protein synthesis process at the very start. These are called **DNA Viruses**.
-    --
+    -
       *DNAVirus
-    >>>
+    >
       However not all viruses carry complete genetic instructions. Some are able to replicate merely by hijacking the cell's process of transcribing RNA into proteins. These are called **RNA Viruses**.
-    --
+    -
       *RNAVirus
-    >>>
+    >
       The course and effects of viral infections vary, but they follow a similar pattern. For the virus to reproduce and thereby establish infection, it must enter cells of the host organism and use those cells' materials. This stage is called **viral entry**.
-    --
+    -
       *ViralEntry
-    >>>
+    >
       Next, a virus must take control of the host cell's replication mechanisms. After control is established and the environment is set for the virus to begin making copies of itself, **viral replication** occurs quickly by the millions.
-    --
+    -
       *ViralReplication
-    >>>
+    >
       After a virus has made many copies of itself, the progeny may begin to leave the cell by several methods. This is called **viral shedding** and is the final stage in the viral life cycle.
-    --
+    -
       *ViralShedding
-    >>>
+    >
       As the virus sheds from the cell, and eventually sheds from the host, it may spread out into the environment where other susceptible host may encounter it, beginning a new infection. This is called **transmission**.
-    --
+    -
       *Transmission
 
     model *Replication
@@ -136,7 +136,7 @@ model module Foundations
     model *Virus
       head = A virus is a submicroscopic pathogen that replicates inside the cells of another living organism, causing an infection. Viruses can infect all types of organisms, from cells to bacteria, plants, animals and humans.
 
-      # >>>
+      # >
       #   When infected, the host cell is forced to rapidly produce thousands of identical copies of the original virus. Unlike most living things, viruses do not have cells that divide; new viruses assemble in the infected host cell. But unlike simpler infectious agents, they contain genes, which allow them to mutate and evolve.
       #
       #   When not inside an infected cell or in the process of infecting a cell, viruses exist in the form of independent particles, or virions, consisting of: (i) the genetic material, i.e. long molecules of DNA or RNA that encode the structure of the proteins by which the virus acts; (ii) a protein coat, the capsid, which surrounds and protects the genetic material; and in some cases (iii) an outside envelope of lipids. The shapes of these virus particles range from simple helical and icosahedral forms to more complex structures. Most virus species have virions too small to be seen with an optical microscope as they are one hundredth the size of most bacteria.
@@ -189,73 +189,73 @@ model module Foundations
   model module Immunology
     head = Viral Disease, Immune System, Innate Immune System, Inflammation, Adaptive Immune System, Symptom, Asymptomatic, Incubation Period, Latent Period, Infectious Period, Complication, Recovery, Immunity
 
-    >>>
+    >
       Some viruses pose no threat to their hosts, and are said to be benign. However, many viral infections cause **viral disease** in humans, animals and plants.
-    --
+    -
       *ViralDisease
-    >>>
+    >
       For this reason, many organisms have developed complex biological processes which identify and resist pathogens, including viruses. We refer to these processes as the **immune system**.
-    --
+    -
       *ImmuneSystem
-    >>>
+    >
       In many organisms, including humans, there are two major subsystems of the immune system. The first and oldest of these subsystems is the **innate immune system**.
-    --
+    -
       *InnateImmuneSystem
-    >>>
+    >
       The simplest form of protection against pathogens provided by the innate immune system are anatomical barriers, of various physical, chemical and biological structures. External and internal surfaces form a physical barrier that is impermeable to most infectious agents, acting as the first line of defense against invading organisms. Mucus traps infectious agents, and the flushing action of tears and saliva helps prevent infection of the eyes and mouth.
 
       In addition to these basic barriers, the innate immune system facilitates a complex biological response to pathogens called **inflammation**.
-    --
+    -
       *Inflammation
-    >>>
+    >
       The function of inflammation is to eliminate the initial cause of cell injury, clear out damaged cells and tissues, and initiate tissue repair. The inflammation process often causes sensations of heat, pain, redness, swelling, and loss of function.
 
       The innate immune system is a generic defense, not specific to particular pathogen or injury. By contrast, the **adaptive immune system** facilatetes a more complex response which is designed to target and defend against specific pathogens as they are encountered.
-    --
+    -
       *AdaptiveImmuneSystem
-    >>>
+    >
       Unlike the innate immune system, the acquired immune system is highly specific to a particular pathogen.
 
       The immune system is not always successful. Even in cases when it resists infection, the host may experience **symptoms** of both the virus and the immune response.
-    --
+    -
       *Symptom
-    >>>
+    >
       The symptoms of an infection depend on the type of disease. Some signs of infection affect the whole body generally, such as fatigue, loss of appetite, weight loss, fevers, night sweats, chills, aches and pains. Others are specific to individual body parts, such as skin rashes, coughing, or a runny nose.
 
       In certain cases, infectious diseases may be **asymptomatic** for much or even all of their course in a given host.
-    --
+    -
       *Asymptomatic
-    >>>
+    >
       In asymptomatic cases, the disease may only be defined as a "disease" in hosts who secondarily become ill after contact with an asymptomatic carrier. An infection is not synonymous with an infectious disease, as some infections do not cause illness in a host.
 
       Most viral infections of humans and other animals have **incubation periods** during which the infection has no apparent effect on the host.
-    --
+    -
       *IncubationPeriod
-    >>>
+    >
       Distinct from, but possibly overlapping with, the incubation period, is the time during which the host is infected but the infection cannot yet spread to another host. This is called the **latent period**.
-    --
+    -
       *LatentPeriod
-    >>>
+    >
       Once the virus develops to the point that the infection can spread to subsequent hosts, the disease has entered its **infectious period**.
-    --
+    -
       *InfectiousPeriod
-    >>>
+    >
       The infectious period can start before, during or after the onsent of symptoms, and it may stop before or after the symptoms stop showing.
 
       Some viral infections may cause long term effects, and in certain cases a viral infection may lead to life threatening **complications**.
-    --
+    -
       *Complication
-    >>>
+    >
       Complications generally involve a worsening in severity of disease or the development of new signs, symptoms, or pathological changes which may become widespread throughout the body and affect other organ systems. Complications may lead to the development of new diseases resulting from a previously existing disease. Complications may also arise as a result of various treatments, or from the body's own attempts to resist a disease.
 
       However, if the host's immune system succeeds in clearing a pathogen from the body, the previously infected host may experience a **recovery**.
-    --
+    -
       *Recovery
-    >>>
+    >
       Under certain conditions, the adaptive immune system can provide the host with long-lasting protection against particular pathogens, in the form of acquired **immunity**.
-    --
+    -
       *Immunity
-    >>>
+    >
       Acquired immunity creates immunological memory after an initial response to a specific pathogen, and leads to an enhanced response to subsequent encounters with that pathogen. In the best case, the pathogen no longer poses any threat to the host.
 
 

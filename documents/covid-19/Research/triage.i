@@ -11,7 +11,7 @@ index: hide
   ref 'Centre_for_Evidence-Based_Medicine_06_22_2020
     head = The 2-metre rule is based on an outdated dichotomy model which assumes viral transmission is in either large droplets or small airborne particles. In reality, transmission is more complex. There is a continuum of droplet sizes and exhaled air shapes the range that they can reach. Distancing rules need to take account of multiple factors including viral load, ventilation, type of activity, indoor vs outdoor setting, and masking.
 
-    -- Quotes
+    - Quotes
       !a
       !b
       !c

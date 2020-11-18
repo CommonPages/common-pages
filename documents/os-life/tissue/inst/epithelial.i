@@ -41,10 +41,10 @@ model SimpleEpithelium
   <<
     Epithelium
 
-  >>>
+  >
     In general, simple epithelial tissues are classified by the shape of their cells. The four major classes of simple epithelium are: (1) simple squamous; (2) simple cuboidal; (3) simple columnar; (4) pseudostratified.
 
-  --
+  -
     SimpleSquamousEpithelium
     SimpleCuboidalEpithelium
     SimpleColumnarEpithelium
@@ -60,10 +60,10 @@ model SimpleSquamousEpithelium
     SimpleEpithelium
     SquamousEpithelium
 
-  >>>
+  >
     Simple squamous epithelia are found in capillaries, alveoli, glomeruli, and other tissues where rapid diffusion is required. Cells are flat with flattened and oblong nuclei. It is also called pavement epithelium due to its tile-like appearance. This epithelium is associated with filtration and diffusion. This tissue is extremely thin, and forms a delicate lining. It offers very little protection.
 
-  --
+  -
     Endothelium
     Mesothelium
 
@@ -77,7 +77,7 @@ model SimpleCuboidalEpithelium
     SimpleEpithelium
     CuboidalEpithelium
 
-  >>>
+  >
     Simple cuboidal epithelial cells may have secretory, absorptive, or excretory functions. They are found on the surface of ovaries, the lining of nephrons, the walls of the renal tubules, and parts of the eye and thyroid.
 
 /// A simple columnar epithelium is a columnar epithelium that is uni-layered. Simple columnar epithelium lines most organs of the digestive tract including the stomach, small intestine, and large intestine. Simple columnar epithelia line the uterus.
@@ -91,7 +91,7 @@ model SimpleColumnarEpithelium
 
   # https://en.wikipedia.org/wiki/Epithelium#Simple_epithelium
 
-  >>>
+  >
     Simple columnar epithelial cells can be secretory, absorptive, or excretory. They can be ciliated or non-ciliated; ciliated columnar is found in the female reproductive tract and uterus. Non-ciliated epithelium can also possess microvilli. Some tissues contain goblet cells and are referred to as simple glandular columnar epithelium. These secrete mucus and are found in stomach, colon and rectum.
 
 /// Pseudostratified epithelium is a type of epithelium that, though comprising only a single layer of cells, has its cell nuclei positioned in a manner suggestive of stratified epithelia.
@@ -105,7 +105,7 @@ model PseudostratifiedEpithelium
   # https://en.wikipedia.org/wiki/Epithelium#Classification
   # https://en.wikipedia.org/wiki/Pseudostratified_columnar_epithelium
 
-  >>>
+  >
     Pseudostratified columnar epithelium can be ciliated or non-ciliated. The ciliated type is also called respiratory epithelium as it is almost exclusively confined to the larger respiratory airways of the nasal cavity, trachea and bronchi.
 
 /// Stratified epithelium differs from simple epithelium in that it is multilayered. It is therefore found where body linings have to withstand mechanical or chemical insult such that layers can be abraded and lost without exposing subepithelial layers.
@@ -115,22 +115,22 @@ model StratifiedEpithelium
     Epithelium
     SimpleEpithelium
 
-  >>>
+  >
     Cells flatten as the layers become more {*apical}, though in their most {*basal} layers the cells can be {*squamous}, {*cuboidal} or {*columnar}.
 
-  --
+  -
     StratifiedSquamousEpithelium
     StratifiedCuboidalEpithelium
     StratifiedColumnarEpithelium
 
-  --
+  -
     TransitionalEpithelium
 
 /// A stratified squamous epithelium consists of squamous (flattened) epithelial cells arranged in layers upon a basal membrane. It forms the outermost layer of the skin and the inner lining of the mouth, esophagus and vagina.
 model StratifiedSquamousEpithelium
   # https://en.wikipedia.org/wiki/Stratified_squamous_epithelium
 
-  >>>
+  >
     Only one layer is in contact with the {BasalSurface basement} membrane; the other layers adhere to one another to maintain structural integrity. Although this epithelium is referred to as {*squamous}, many cells within the layers may not be flattened; this is due to the convention of naming epithelia according to the cell type at the surface. In the deeper layers, the cells may be {*columnar} or {*cuboidal}. There are no intercellular spaces. This type of epithelium is well suited to areas in the body subject to constant abrasion, as the thickest layers can be sequentially sloughed off and replaced before the basement membrane is exposed. It forms the outermost layer of the skin and the inner lining of the mouth, esophagus and vagina.
 
 /// Stratified cuboidal epithelium is a type of epithelial tissue composed of multiple layers of cube-shaped cells. This type of tissue can be observed in sweat glands, mammary glands, circumanal glands, and salivary glands.
