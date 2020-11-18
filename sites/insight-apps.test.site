@@ -1,7 +1,0 @@
-
-# Example:
-id: insight-apps.test
-name: insight-apps
-hosts:
-  - insight-apps.test
-subnets:

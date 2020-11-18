@@ -1,8 +1,0 @@
-
-# Example:
-id: whatis.app
-name: whatis.app
-hosts:
-  - whatis.app
-  - whatis.test
-subnets:

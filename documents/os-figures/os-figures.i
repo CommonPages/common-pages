@@ -1,3 +1,4 @@
 
->>>
-  Hello, world!
+document $os-figures
+  >>>
+    Hello, world!

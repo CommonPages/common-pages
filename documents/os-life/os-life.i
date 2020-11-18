@@ -1,10 +1,11 @@
 
---
-  basis
+document $os-life
+  --
+    basis
 
---
-  chem
-  cell
-  tissue
-  system
-  organism
+  --
+    chem
+    cell
+    tissue
+    system
+    organism
