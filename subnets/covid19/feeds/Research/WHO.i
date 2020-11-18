@@ -667,7 +667,7 @@ feed WHO
   // Contact Tracing Assessment of COVID-19 Transmission Dynamics in Taiwan and Risk at Different Exposure Periods Before and After Symptom Onset.
   doi: https://doi.org/10.1001/jamainternmed.2020.2020
   ref 'Cheng_et_al_05_01_2020
-    head = High transmissibility of COVID-19 before and immediately after symptom onset suggests that finding and isolating symptomatic patients alone may not suffice to contain the epidemic, and more generalized measures may be required, such as social distancing.
+    head = Findings suggest that most transmission of COVID-19 occurred at the very early stage of the disease or even before the onset of symptoms, and the secondary clinical attack rate among contacts decreased over time as symptoms developed and progressed. High transmissibility of COVID-19 before and immediately after symptom onset suggests that finding and isolating symptomatic patients alone may not suffice to contain the epidemic, and more generalized measures may be required, such as social distancing.
 
     >>> Importance
       The dynamics of coronavirus disease 2019 (COVID-19) transmissibility are yet to be fully understood. Better understanding of the transmission dynamics is important for the development and evaluation of effective control policies.
@@ -709,6 +709,8 @@ feed WHO
 
     / Only isolating symptomatic patients may not be sufficiently
     quote !e = In this study, high transmissibility of COVID-19 before and immediately after symptom onset suggests that finding and isolating symptomatic patients alone may not suffice to contain the epidemic, and more generalized measures may be required, such as social distancing.
+
+
 
   # 34
   # couldn't find content, standards
